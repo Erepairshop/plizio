@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "Das Waterberg-Plateau ist eine markante Tafelbergformation, die für ihre steilen Klippen und reiche Tierwelt bekannt ist.",
+      "facts": ["Tafelbergformation", "Steile Klippen", "Reiche Tierwelt"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "Das Tsau Khaeb Sperrgebiet ist eine riesige Diamantensperrzone mit unberührten Küstenlandschaften und Wüstendünen.",
+      "facts": ["Diamantensperrzone", "Unberührte Küste", "Wüstendünen"]
+    },
+    {
+      "id": "tiras-mountains-relief-v2",
+      "description": "Die Tirasberge sind ein abgelegener Gebirgszug im Süden Namibias, bekannt für seine unberührte Natur und einzigartige Flora.",
+      "facts": ["Abgelegener Gebirgszug", "Unberührte Natur", "Einzigartige Flora"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "Die Baynes Mountains sind ein raues Gebirge im Kaokoveld, das spektakuläre Ausblicke und seltene Wildtiere bietet.",
+      "facts": ["Raues Gebirge", "Spektakuläre Ausblicke", "Seltene Wildtiere"]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "description": "Die Hartmann Mountains sind ein abgelegenes Gebirge im nördlichen Kaokoveld, das für seine majestätischen Wüstenlandschaften bekannt ist.",
+      "facts": ["Abgelegenes Gebirge", "Majestätische Wüstenlandschaften", "Nördliches Kaokoveld"]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "description": "Das Grootberg-Plateau ist eine beeindruckende Basaltformation im Damaraland, die spektakuläre Ausblicke bietet.",
+      "facts": ["Basaltformation", "Damaraland", "Spektakuläre Ausblicke"]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "description": "Die Epupa-Fälle sind eine Reihe von Wasserfällen am Kunene-Fluss, die eine grüne Oase in der Wüste bilden.",
+      "facts": ["Wasserfälle", "Kunene-Fluss", "Grüne Oase"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Ongongo ist eine natürliche heiße Quelle im Kaokoveld, die von einer grünen Oase umgeben ist.",
+      "facts": ["Natürliche heiße Quelle", "Kaokoveld", "Grüne Oase"]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "description": "Die Palmwag-Konzession ist ein Naturschutzgebiet im Damaraland, bekannt für seine Wüstenelefanten und Nashörner.",
+      "facts": ["Naturschutzgebiet", "Damaraland", "Wüstenelefanten und Nashörner"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Urichab ist eine alte Vulkanruine in der Namib-Wüste, die eine markante geologische Formation bildet.",
+      "facts": ["Vulkanruine", "Namib-Wüste", "Geologische Formation"]
+    }
+  ]
+}

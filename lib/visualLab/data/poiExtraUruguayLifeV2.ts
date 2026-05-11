@@ -31,9 +31,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Auf dem Gelände befinden sich die Ruinen einer Fleischsalzerei (Saladero) aus dem 19. Jahrhundert.",
         "M'Bopicuá arbeitet eng mit internationalen Naturschutzorganisationen zusammen."
       ],
-      hu: ["1999-ben alapították.", "Kapybarákat és pekarikat is véd.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Fondat în 1999.", "Protejează capibara și pecari.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Founded in 1999.", "Protects capybaras and peccaries.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["1999 gegründet.", "Schützt Capybaras und Pekaris."],
@@ -70,9 +70,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die angrenzenden Feuchtgebiete des Santa Lucía Flusses sind ein Paradies für Zugvögel.",
         "Lecocq ist nicht nur ein Zoo, sondern ein Zentrum für wissenschaftliche Forschung und Artenschutz."
       ],
-      hu: ["Egy antilopcsorda otthona.", "Nyílt élőhelyeket biztosít.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Găzduiește o turmă de antilope.", "Oferă habitate deschise.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Home to a herd of antelopes.", "Provides open habitats.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Zuhause einer Antilopenherde.", "Bietet offene Lebensräume."],
@@ -109,9 +109,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Park ist bekannt für seine erfolgreiche Aufzucht von Venado de Campo, einer seltenen Hirschart.",
         "Jährlich besuchen Hunderttausende Menschen das Reservat, das keinen Eintritt verlangt."
       ],
-      hu: ["A kihalástól fenyegetett fajokat védi.", "Piriápolis városához közel van.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Protejează speciile pe cale de dispariție.", "Aproape de orașul Piriápolis.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Protects endangered species.", "Close to the city of Piriápolis.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Schützt vom Aussterben bedrohte Arten.", "Nahe der Stadt Piriápolis."],
@@ -148,9 +148,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Tálice setzt konsequent auf Barrierefreiheit, damit alle Besucher die Natur erleben können.",
         "Das Projekt ist Teil des Geoparks Grutas del Palacio, der unter dem Schutz der UNESCO steht."
       ],
-      hu: ["Több mint 120 különböző faj.", "Vízibicikliket és szafaribuszokat is kínál.", "Népszerű fotótéma és turisztikai látványosság.", "kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Peste 120 de specii diferite.", "Include hidrobiciclete și autobuze de safari.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a .", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Over 120 different species.", "Includes pedal boats and safari buses.", "A popular photo subject and tourist attraction.", "Part of the cultural life of .", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a .", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of .", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 120 verschiedene Arten.", "Umfasst Tretboote und Safaribusse."],
@@ -187,9 +187,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Weinberge erstrecken sich über Hunderte von Hektar auf den sanften Hügeln von Canelones.",
         "Viele der hier produzierten Weine haben Goldmedaillen bei den wichtigsten Wettbewerben in Europa gewonnen."
       ],
-      hu: ["1830 óta működik.", "A minőségi borok úttörője.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["În funcțiune din 1830.", "Pionier al vinului de calitate.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Operating since 1830.", "A pioneer of quality wine.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Seit 1830 in Betrieb.", "Pionier des Qualitätsweins."],
@@ -226,9 +226,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Weingut der Finca ist spezialisiert auf kräftige Rotweine der Rebsorte Tannat.",
         "Die historische Kapelle auf dem Gelände ist eines der ältesten religiösen Gebäude in der Region Colonia."
       ],
-      hu: ["Carmelóban található.", "Dulce de leche-t is készít.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Situată în Carmelo.", "Produce dulce de leche.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Located in Carmelo.", "Produces dulce de leche.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Befindet sich in Carmelo.", "Produziert Dulce de Leche."],
@@ -267,9 +267,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Weinkeller wurde tief in den Fels gehauen, um eine natürliche Temperaturregulierung zu ermöglichen.",
         "Die Anlage beherbergt ein Restaurant des berühmten argentinischen Kochs Francis Mallmann."
       ],
-      hu: ["Díjnyertes olívaolajat termel.", "Az első LEED-minősítésű pincészet.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Produce ulei de măsline premiat.", "Prima cramă certificată LEED.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Produces award-winning olive oil.", "First LEED-certified winery.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Produziert preisgekröntes Olivenöl.", "Erstes LEED-zertifiziertes Weingut."],
@@ -306,9 +306,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Quelle wurde 1892 entdeckt und ist seitdem die Basis für das Salus-Mineralwasser.",
         "Im Park lebt eine kleine Population von Pumas, die hier unter speziellem Schutz stehen."
       ],
-      hu: ["A puma egyik élőhelye.", "Az ismert Salus ásványvíz forrása.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Habitatul pumei.", "Sursa cunoscutei ape Salus.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Habitat of the puma.", "Source of the well-known Salus water.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Heimat des Pumas.", "Quelle des bekannten Salus-Wassers."],
@@ -345,9 +345,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Cabo Polonio gehört zum nationalen System der geschützten Gebiete (SNAP) Uruguays.",
         "Der Leuchtturm von Cabo Polonio wurde bereits 1881 errichtet, um Schiffe vor den gefährlichen Klippen zu warnen."
       ],
-      hu: ["Nincs elektromos hálózat.", "Fontos tengeri ökoszisztéma.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Fără rețea electrică.", "Ecosistem marin important.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Off the power grid.", "Important marine ecosystem.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Ohne Stromnetz.", "Wichtiges marines Ökosystem."],
@@ -384,9 +384,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Es ist der südlichste Punkt Uruguays und markiert den Übergang vom Río de la Plata zum Atlantik.",
         "Die Insel war früher ein wichtiger Stützpunkt für die Robbenjagd, bevor sie unter Naturschutz gestellt wurde."
       ],
-      hu: ["Több mint 200 000 fóka él itt.", "Egy világítótorony is van rajta.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Peste 200.000 de foci trăiesc aici.", "Are un far.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Over 200,000 seals live here.", "Features a lighthouse.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 200.000 Robben leben hier.", "Hat einen Leuchtturm."],
@@ -423,9 +423,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Park dient als natürlicher Filter für das Wasser des Uruguay-Flusses.",
         "Die Vegetation besteht größtenteils aus dichten Galeriewäldern und schwimmenden Pflanzeninseln."
       ],
-      hu: ["2004 óta Ramsari terület.", "24 szigetből áll.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Zonă Ramsar din 2004.", "Formată din 24 de insule.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Ramsar site since 2004.", "Consists of 24 islands.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Ramsar-Schutzgebiet seit 2004.", "Besteht aus 24 Inseln."],
@@ -462,9 +462,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Man kann hier seltene Vogelarten beobachten, die von der Nordhalbkugel zum Überwintern kommen.",
         "Die Tiefe der Lagune beträgt an den meisten Stellen weniger als einen Meter."
       ],
-      hu: ["Több mint 220 madárfajt regisztráltak.", "Az UNESCO bioszféra-rezervátum része.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Peste 220 de specii de păsări înregistrate.", "Parte a rezervei biosferei UNESCO.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Over 220 bird species registered.", "Part of the UNESCO Biosphere Reserve.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 220 Vogelarten registriert.", "Teil des UNESCO-Biosphärenreservats."],
@@ -503,9 +503,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Lapataia bietet in der Hochsaison ein umfangreiches Unterhaltungsprogramm für Kinder an.",
         "Der Bauernhof ist harmonisch in die Hügellandschaft von Maldonado eingebettet."
       ],
-      hu: ["A gyerekek etethetik az állatokat.", "Ingyenes kóstolókat is tartanak.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Copiii pot hrăni animalele.", "Sunt oferite degustări gratuite.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Children can feed the animals.", "Free tastings are offered.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Kinder können Tiere füttern.", "Kostenlose Verkostungen angeboten."],
@@ -542,9 +542,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Granja ist ein beliebter Stopp für Reisende auf dem Weg zwischen Montevideo und Colonia.",
         "Das Museum ist privat geführt und zeigt die lebenslange Leidenschaft der Familie Arenas."
       ],
-      hu: ["Guinness-rekordot tart a ceruzagyűjteménye.", "Helyi gyümölcsöket dolgoz fel.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Deține un record mondial Guinness pentru creioane.", "Procesează fructe locale.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Holds a Guinness World Record for pencils.", "Processes local fruits.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Hält einen Guinness-Weltrekord für Stifte.", "Verarbeitet lokale Früchte."],
@@ -581,9 +581,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Organisation finanziert sich teilweise durch Patenschaften für gerettete Tiere.",
         "Uruguayische Gewässer sind wichtige Futtergebiete für die Grüne Meeresschildkröte."
       ],
-      hu: ["1999 óta aktív.", "Környezeti oktatást is népszerűsít.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Activă din 1999.", "Promovează educația ecologică.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Active since 1999.", "Promotes environmental education.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Seit 1999 aktiv.", "Fördert Umweltbildung."],
@@ -620,9 +620,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Gebiet gehört zum Nationalen System der geschützten Gebiete (SNAP).",
         "Einige der Ombu-Bäume werden auf ein Alter von mehreren hundert Jahren geschätzt."
       ],
-      hu: ["Az erdő több mint 500 éves.", "Fontos költőterület.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Pădurea are peste 500 de ani.", "Zonă importantă de cuibărit.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["The forest is over 500 years old.", "Important breeding ground.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Der Wald ist über 500 Jahre alt.", "Wichtiges Brutgebiet."],
@@ -659,9 +659,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die Bañados fungieren als riesiger natürlicher Wasserspeicher für die Region.",
         "Über 120 Fischarten wurden in den Kanälen und Lagunen der Bañados dokumentiert."
       ],
-      hu: ["UNESCO bioszféra-rezervátum.", "Pálmafaligeteket is magában foglal.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Rezervația Biosferei UNESCO.", "Include crânguri de palmieri.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["UNESCO Biosphere Reserve.", "Includes palm groves.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["UNESCO-Biosphärenreservat.", "Umfasst Palmenhaine."],
@@ -698,9 +698,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Weingut ist für seine akribische Arbeit im Weinberg bekannt, wobei jede Traube von Hand selektiert wird.",
         "Die Autosammlung umfasst seltene Stücke der Marken Citroën, Ford und Alfa Romeo."
       ],
-      hu: ["Vezetett szőlőtúrákat kínál.", "Egy autógyűjteményt is magában foglal.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Oferă tururi ghidate ale podgoriilor.", "Integrează o colecție de mașini.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Offers guided vineyard tours.", "Integrates a car collection.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Bietet geführte Weinbergtouren.", "Integriert eine Autosammlung."],
@@ -737,9 +737,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Über 180 Vogelarten nutzen die Quebrada als geschützten Lebensraum.",
         "Der Yerba-Bach am Boden der Schlucht lädt an heißen Tagen zu einer Erfrischung ein."
       ],
-      hu: ["A neve 'Varjak szurdoka'-t jelent.", "Uruguay első hivatalos védett területe.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Numele înseamnă 'Defileul Corbilor'.", "Prima arie protejată oficială din Uruguay.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Name means 'Ravine of the Crows'.", "Uruguay's first official protected area.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Name bedeutet 'Krähenschlucht'.", "Das erste offizielle Schutzgebiet Uruguays."],
@@ -776,9 +776,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "In den Tälern wachsen seltene Palmenarten und riesige Farne.",
         "Die Region ist bekannt für ihre kristallklaren Bäche, die in zahlreiche kleine Kaskaden abfallen."
       ],
-      hu: ["A SNAP védett hálózat része.", "A fenntartható ökoturizmust népszerűsíti.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Parte a rețelei protejate SNAP.", "Promovează ecoturismul durabil.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Part of the SNAP protected network.", "Promotes sustainable ecotourism.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Teil des SNAP-Schutznetzwerks.", "Fördert nachhaltigen Ökotourismus."],
@@ -815,9 +815,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Queguay-Fluss ist bekannt für seine reiche Fischpopulation, was viele Wasservögel anzieht.",
         "Die Region wurde 2014 offiziell in das nationale System der Schutzgebiete (SNAP) aufgenommen."
       ],
-      hu: ["Több mint 20 000 hektárt foglal magában.", "Népszerű a folyón tett kenu túrák miatt.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Acoperă peste 20.000 de hectare.", "Popular pentru excursiile cu canoea pe râu.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Covers over 20,000 hectares.", "Popular for river canoe trips.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Umfasst über 20.000 Hektar.", "Beliebt für Kanutouren auf dem Fluss."],
@@ -854,9 +854,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Komplex verfügt über spezialisierte Einrichtungen für Jugendfreizeiten und Ferienlager.",
         "Der Park ist bekannt für seine gepflegten Grünanlagen und den Schutz der lokalen Flora."
       ],
-      hu: ["Lovaglási lehetőséget is kínál.", "Állami alkalmazottak számára alapították.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Oferă excursii călare.", "Înființat pentru angajații de stat.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Offers horseback riding.", "Founded for state employees.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Bietet Reitausflüge an.", "Gegründet für Staatsangestellte."],
@@ -893,9 +893,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Besucher können echte Gebisse von Haien und andere faszinierende Exponate aus nächster Nähe sehen.",
         "Der Gründer des Museums sammelt seit über 40 Jahren maritime Objekte aus aller Welt."
       ],
-      hu: ["Egy gigantikus bálnacsontvázat is kiállítanak.", "Régi kalóztörténeteket is bemutat.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Expune un schelet uriaș de balenă.", "Include povești vechi cu pirați.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Displays a gigantic whale skeleton.", "Features old pirate stories.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Zeigt ein gigantisches Walskelett.", "Beinhaltet alte Piratengeschichten."],
@@ -932,9 +932,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Der Anbau erfordert eine präzise Kontrolle des Boden-pH-Wertes und eine ständige Wasserversorgung.",
         "Die Haupterntezeit liegt zwischen September und November, wenn in der nördlichen Hemisphäre keine Saison ist."
       ],
-      hu: ["Salto a bogyóstermesztés központja.", "A betakarítás kézzel történik.", "Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Salto este centrul cultivării fructelor de pădure.", "Recoltarea se face manual.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Salto is the center of berry cultivation.", "Harvesting is done by hand.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Salto ist das Zentrum des Beerenanbaus.", "Die Ernte erfolgt von Hand."],
@@ -971,9 +971,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Schutzgebiet wird erfolgreich von einer lokalen Organisation in Zusammenarbeit mit der Regierung verwaltet.",
         "Die Region ist bekannt für ihr warmes, fast subtropisches Klima im Vergleich zum Rest Uruguays."
       ],
-      hu: ["Több mint 200 madárfajt dokumentáltak.", "Az Uruguay és a Cuareim folyók találkozásánál fekszik.", "Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Peste 200 de specii de păsări documentate.", "Situată la confluența râurilor Uruguay și Cuareim.", "Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Over 200 bird species documented.", "Located at the confluence of the Uruguay and Cuareim rivers.", "Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Fő feladata az őshonos állatfajok védelme.", "Oktatási programokat kínál iskolák és családok számára.", "Együttműködik kutató- és természetvédelmi intézményekkel.", "Hozzájárul veszélyeztetett fajok visszatelepítéséhez.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Se concentrează pe protejarea speciilor native de animale.", "Oferă programe educaționale pentru școli și familii.", "Colaborează cu instituții de cercetare și de conservare a naturii.", "Contribuie la reintroducerea speciilor amenințate.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["Focuses on protecting native animal species.", "Provides educational programmes for schools and families.", "Cooperates with research and conservation institutions.", "Contributes to the reintroduction of threatened species.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 200 Vogelarten dokumentiert.", "Liegt am Zusammenfluss von Uruguay und Cuareim."],
@@ -1010,9 +1010,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Anwesen umfasst eine Fläche von mehreren tausend Hektar fruchtbaren Weidelandes.",
         "Der Komplex wurde zum Nationalen Historischen Denkmal Uruguays erklärt."
       ],
-      hu: ["1854-ben alapították.", "Hagyományos gaucho élményt nyújt.", "Népszerű fotótéma és turisztikai látványosság.", "Florida megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Fondată în 1854.", "Oferă o experiență tradițională gaucho.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Florida.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Founded in 1854.", "Offers a traditional gaucho experience.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Florida department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Florida megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Florida.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Florida department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["1854 gegründet.", "Bietet traditionelles Gaucho-Erlebnis."],
@@ -1049,9 +1049,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die produzierten Öle von La Anyta haben bereits mehrere nationale Qualitätsauszeichnungen erhalten.",
         "Das Anwesen bietet einen fantastischen Blick auf den markanten Zuckerhut-Berg."
       ],
-      hu: ["A betakarítás és a sajtolás helyben történik.", "A látogatók segíthetnek a szüretelésben.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Recoltare și presare la fața locului.", "Vizitatorii pot ajuta la recoltare.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Harvesting and pressing on site.", "Visitors can help with the harvest.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Ernte und Pressung vor Ort.", "Besucher können bei der Ernte helfen."],
@@ -1088,9 +1088,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Die hofeigenen Windräder speisen überschüssigen Strom in das nationale Netz ein.",
         "Besucher können bei geführten Touren die hochmodernen Verarbeitungsanlagen besichtigen."
       ],
-      hu: ["Több mint 4000 hektár földterület.", "Saját szélturbinákkal rendelkezik.", "Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Peste 4.000 de hectare de teren.", "Are propriile turbine eoliene.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Over 4,000 hectares of land.", "Has its own wind turbines.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Maldonado megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Maldonado.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Maldonado department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Über 4.000 Hektar Land.", "Hat eigene Windkraftanlagen."],
@@ -1127,9 +1127,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Museum beherbergt eines der vollständigsten Walskelette in ganz Südamerika.",
         "Es ist nach Damaso Antonio Larrañaga benannt, einem Pionier der Naturwissenschaften in Uruguay."
       ],
-      hu: ["Az épület egy mecsetre emlékeztet.", "Számos preparált állatot mutat be.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Clădirea amintește de o moschee.", "Expune numeroase animale împăiate.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["The building resembles a mosque.", "Displays numerous taxidermied animals.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Das Gebäude erinnert an eine Moschee.", "Zeigt zahlreiche präparierte Tiere."],
@@ -1166,9 +1166,9 @@ export const poiExtraUruguayLifeV2: POI[] = [
         "Das Besucherzentrum wurde mehrfach für sein modernes, landschaftlich integriertes Design ausgezeichnet.",
         "Die Region gehört zu den ältesten geologischen Formationen Südamerikas."
       ],
-      hu: ["A vízesés 60 métert zuhan.", "Lombkorona-túrákat is kínál.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
-      ro: ["Cascada cade 60 de metri.", "Oferă tururi prin coronament.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
-      en: ["Waterfall drops 60 meters.", "Offers canopy tours.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe.", "A helyszín Uruguay nemzeti örökségének része, és gyakran szerepel oktatási anyagokban."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale.", "Locația face parte din patrimoniul național al Uruguayului și este menționată în materiale educaționale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity.", "The site is part of Uruguay's national heritage and is featured in school and educational materials."]
     },
     facts: {
       de: ["Wasserfall fällt 60 Meter ab.", "Bietet Canopy-Touren."],

@@ -1,0 +1,397 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": ["poiExtraLebanonReliefV2.ts"],
+  "items": [
+    {
+      "id": "qurnat-as-sawda-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Höchster Berg des Libanon und der gesamten Levante mit einer Höhe von 3.088 Metern. Er befindet sich im Mount Lebanon Gebirge nahe der Stadt Bsharri und bietet an klaren Tagen Ausblicke bis zur Küste Zyperns. Die Region ist ein wichtiges Wintersportzentrum, das Skifahrer aus der ganzen Welt anzieht, und weist eine alpine Vegetation auf. Die Hänge des Berges sind mit Schnee bedeckt, der die unterirdischen Quellen und Bäche speist, was für die Wasserversorgung des Landes von entscheidender Bedeutung ist.",
+        "hu": "Libanon és az egész Levante legmagasabb hegycsúcsa, amely 3088 méteres magasságba emelkedik. A Libanon-hegységben található Bsharri város közelében, ahonnan tiszta időben akár a ciprusi partok is láthatóak. A régió jelentős téli sportközpont, amely a világ minden tájáról vonzza a síelőket, valamint egyedi alpesi növényzettel rendelkezik. A hegy oldalait borító hó folyamatosan táplálja a felszín alatti forrásokat és patakokat, így kulcsszerepet játszik az ország vízellátásában.",
+        "ro": "Cel mai înalt vârf din Liban și din întregul Levant, având o altitudine de 3.088 de metri. Se află în Munții Liban, lângă orașul Bsharri, și oferă priveliști spre coasta Ciprului în zilele senine. Regiunea reprezintă un centru important pentru sporturile de iarnă, atrăgând schiori din întreaga lume, și se distinge printr-o vegetație alpină. Zăpada care acoperă pantele muntelui alimentează izvoarele și pâraiele subterane, având un rol esențial în aprovizionarea cu apă a țării.",
+        "en": "The highest peak in Lebanon and the entire Levant, reaching an elevation of 3,088 meters. Located in the Mount Lebanon range near the town of Bsharri, it offers views as far as the coast of Cyprus on clear days. The region is a major winter sports center, attracting skiers from all over the world, and features distinct alpine vegetation. The snow covering the mountain's slopes feeds the underground springs and streams, making it crucial for the country's water supply."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchster Gipfel mit 3.088 Metern.",
+          "Befindet sich im nördlichen Libanon-Gebirge.",
+          "Bietet Sicht bis nach Zypern.",
+          "Wichtiges Reservoir für Grundwasser.",
+          "Beliebt bei Bergsteigern und Skifahrern."
+        ],
+        "hu": [
+          "Legmagasabb csúcs 3088 méterrel.",
+          "Az északi Libanon-hegységben fekszik.",
+          "Rálátást nyújt Ciprus szigetére.",
+          "Fontos vízbázis a talajvíz számára.",
+          "Hegymászók és síelők körében népszerű."
+        ],
+        "ro": [
+          "Cel mai înalt vârf la 3.088 metri.",
+          "Situat în nordul Munților Liban.",
+          "Oferă vizibilitate până în Cipru.",
+          "Rezervor important pentru apele subterane.",
+          "Popular printre alpiniști și schiori."
+        ],
+        "en": [
+          "Highest peak at 3,088 meters.",
+          "Located in the northern Mount Lebanon range.",
+          "Offers visibility to Cyprus.",
+          "Important reservoir for groundwater.",
+          "Popular among mountaineers and skiers."
+        ]
+      }
+    },
+    {
+      "id": "bekaa-valley-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Ein fruchtbares Tal im Osten des Libanon, das zwischen dem Libanon-Gebirge und dem Anti-Libanon-Gebirge liegt. Es erstreckt sich über etwa 120 Kilometer und ist das wichtigste landwirtschaftliche Zentrum des Landes, bekannt für den Anbau von Getreide, Wein und Gemüse. Das Tal hat eine reiche historische Bedeutung, da es in der Antike als Kornkammer Roms diente. Heute beherbergt es wichtige archäologische Stätten wie die römischen Tempel von Baalbek und ist ein Zentrum der libanesischen Weinproduktion mit zahlreichen renommierten Weingütern.",
+        "hu": "Libanon keleti részén húzódó termékeny völgy, amely a Libanon-hegység és az Antilibanon-hegység között helyezkedik el. Körülbelül 120 kilométer hosszan nyúlik el, és az ország legfontosabb mezőgazdasági központja, amely gabona-, bor- és zöldségtermesztéséről ismert. A völgy gazdag történelmi jelentőséggel bír, mivel az ókorban Róma egyik éléstáraként szolgált. Ma olyan jelentős régészeti lelőhelyeknek ad otthont, mint Baalbek római kori templomai, valamint a libanoni bortermelés központja, számos neves pincészettel.",
+        "ro": "O vale fertilă în estul Libanului, situată între Munții Liban și Munții Anti-Liban. Se întinde pe aproximativ 120 de kilometri și este principalul centru agricol al țării, recunoscut pentru cultivarea cerealelor, viței de vie și legumelor. Valea are o semnificație istorică bogată, servind în antichitate drept unul dintre grânarele Romei. Astăzi, găzduiește situri arheologice importante, cum ar fi templele romane din Baalbek, și reprezintă centrul producției de vin din Liban, cu numeroase crame renumite.",
+        "en": "A fertile valley in eastern Lebanon, situated between the Mount Lebanon and Anti-Lebanon mountain ranges. It stretches for about 120 kilometers and is the country's main agricultural hub, known for cultivating grain, wine, and vegetables. The valley holds rich historical significance, having served as a breadbasket for Rome in antiquity. Today, it hosts major archaeological sites like the Roman temples of Baalbek and is the center of Lebanese wine production with numerous renowned wineries."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstreckt sich über etwa 120 Kilometer.",
+          "Wichtigstes landwirtschaftliches Zentrum.",
+          "Bekannt für antike Ruinen in Baalbek.",
+          "Zentrum der libanesischen Weinproduktion.",
+          "Liegt zwischen zwei Gebirgsketten."
+        ],
+        "hu": [
+          "Körülbelül 120 kilométer hosszan terül el.",
+          "Legfontosabb mezőgazdasági terület.",
+          "Ismert baalbeki ókori romjairól.",
+          "A libanoni bortermelés központja.",
+          "Két hegyvonulat között helyezkedik el."
+        ],
+        "ro": [
+          "Se întinde pe aproximativ 120 de kilometri.",
+          "Cel mai important centru agricol.",
+          "Cunoscută pentru ruinele antice din Baalbek.",
+          "Centrul producției libaneze de vin.",
+          "Situată între două lanțuri muntoase."
+        ],
+        "en": [
+          "Stretches for approximately 120 kilometers.",
+          "Most important agricultural center.",
+          "Known for ancient ruins in Baalbek.",
+          "Hub of Lebanese wine production.",
+          "Located between two mountain ranges."
+        ]
+      }
+    },
+    {
+      "id": "anti-lebanon-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Eine Gebirgskette, die sich entlang der Grenze zwischen dem Libanon und Syrien erstreckt und parallel zum Libanon-Gebirge verläuft. Der höchste Gipfel auf der libanesischen Seite ist der Berg Hermon, der im Süden der Kette liegt. Die Berge bestehen größtenteils aus Kalkstein und Karstlandschaften, die durch tiefe Schluchten und trockene Täler geprägt sind. Die Region ist weniger dicht besiedelt und feuchter als das westliche Gebirge, spielt aber eine wichtige Rolle als natürliche Wasserscheide und bietet eine raue, unberührte Landschaft für Wanderer.",
+        "hu": "A Libanon és Szíria határa mentén húzódó hegyvonulat, amely a Libanon-hegységgel párhuzamosan fut. A libanoni oldalon a legmagasabb csúcs a Hermon-hegy, amely a lánc déli részén emelkedik. A hegyek nagyrészt mészkőből és karsztos tájakból állnak, amelyeket mély szurdokok és száraz völgyek tagolnak. A régió gyérebben lakott és szárazabb, mint a nyugati hegység, de fontos szerepet játszik természetes vízválasztóként, és zord, érintetlen tájat kínál a túrázók számára.",
+        "ro": "Un lanț muntos care se întinde de-a lungul graniței dintre Liban și Siria, paralel cu Munții Liban. Cel mai înalt vârf de pe partea libaneză este Muntele Hermon, situat în sudul lanțului. Munții sunt formați predominant din calcar și peisaje carstice, fiind brăzdați de defileuri adânci și văi aride. Regiunea este mai puțin populată și mai uscată decât munții din vest, dar are un rol important ca bazin hidrografic natural și oferă un peisaj accidentat și neatins pentru drumeții.",
+        "en": "A mountain range stretching along the border between Lebanon and Syria, running parallel to the Mount Lebanon range. The highest peak on the Lebanese side is Mount Hermon, located in the southern part of the chain. The mountains are mostly composed of limestone and karst landscapes, marked by deep gorges and dry valleys. The region is less densely populated and drier than the western mountains, but plays a vital role as a natural watershed and offers a rugged, unspoiled landscape for hikers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bildet die natürliche Grenze zu Syrien.",
+          "Höchster Punkt ist der Hermon im Süden.",
+          "Geprägt von Kalkstein und Karst.",
+          "Trockener als das Libanon-Gebirge.",
+          "Wichtige natürliche Wasserscheide."
+        ],
+        "hu": [
+          "Természetes határt képez Szíriával.",
+          "Legmagasabb pontja a déli Hermon-hegy.",
+          "Mészkő és karszt határozza meg.",
+          "Szárazabb, mint a Libanon-hegység.",
+          "Jelentős természetes vízválasztó."
+        ],
+        "ro": [
+          "Formează granița naturală cu Siria.",
+          "Cel mai înalt punct este Hermon în sud.",
+          "Dominată de calcar și relief carstic.",
+          "Mai aridă decât Munții Liban.",
+          "Bazin hidrografic natural important."
+        ],
+        "en": [
+          "Forms the natural border with Syria.",
+          "Highest point is Mount Hermon in the south.",
+          "Dominated by limestone and karst.",
+          "Drier than the Mount Lebanon range.",
+          "Important natural watershed."
+        ]
+      }
+    },
+    {
+      "id": "mount-sannine-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Ein markanter Berg im Libanon-Gebirge mit einer Höhe von 2.628 Metern, der von der Hauptstadt Beirut aus gut sichtbar ist. Er bildet eine natürliche Barriere zwischen der Mittelmeerküste und der Bekaa-Ebene. Der Berg ist eine Quelle für viele Flüsse, darunter der Nahr al-Kalb, der das Land mit Süßwasser versorgt. Im Winter sind die Hänge stark verschneit und bieten ideale Bedingungen für Skigebiete wie Mzaar Kfardebian, während im Sommer Wanderer die kühle Bergluft und die spektakuläre Aussicht genießen.",
+        "hu": "A Libanon-hegység egyik jellegzetes, 2628 méter magas csúcsa, amely a fővárosból, Bejrútból is jól látható. Természetes akadályt képez a Földközi-tenger partvidéke és a Bekaa-völgy között. A hegy számos folyó forrása, köztük a Nahr al-Kalb is innen ered, amely édesvízzel látja el az országot. Télen a lejtőket vastag hótakaró borítja, ideális feltételeket biztosítva a Mzaar Kfardebian síközpontnak, míg nyáron a túrázók a hűvös hegyi levegőt és a látványos kilátást élvezik.",
+        "ro": "Un munte proeminent în Munții Liban, având o altitudine de 2.628 de metri, vizibil din capitala Beirut. Acesta formează o barieră naturală între coasta Mării Mediterane și Valea Beqaa. Muntele este sursa multor râuri, inclusiv Nahr al-Kalb, care aprovizionează țara cu apă dulce. Iarna, pantele sunt puternic înzăpezite, oferind condiții ideale pentru stațiuni de schi precum Mzaar Kfardebian, în timp ce vara, drumeții se bucură de aerul răcoros al muntelui și de priveliștile spectaculoase.",
+        "en": "A prominent mountain in the Mount Lebanon range with an elevation of 2,628 meters, easily visible from the capital, Beirut. It forms a natural barrier between the Mediterranean coast and the Beqaa Valley. The mountain is the source of many rivers, including the Nahr al-Kalb, supplying the country with freshwater. In winter, the slopes are heavily covered in snow, providing ideal conditions for ski resorts like Mzaar Kfardebian, while in summer, hikers enjoy the cool mountain air and spectacular views."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erreicht eine Höhe von 2.628 Metern.",
+          "Klar sichtbar von Beirut aus.",
+          "Speist wichtige Flüsse wie den Nahr al-Kalb.",
+          "Beherbergt das Mzaar Kfardebian Skigebiet.",
+          "Trennt Küste von der Bekaa-Ebene."
+        ],
+        "hu": [
+          "Magassága eléri a 2628 métert.",
+          "Bejrútból is jól látható.",
+          "Fontos folyókat táplál, mint a Nahr al-Kalb.",
+          "A Mzaar Kfardebian síközpont otthona.",
+          "Elválasztja a partot a Bekaa-völgytől."
+        ],
+        "ro": [
+          "Atinge o altitudine de 2.628 de metri.",
+          "Vizibil clar din Beirut.",
+          "Alimentează râuri importante precum Nahr al-Kalb.",
+          "Găzduiește stațiunea de schi Mzaar Kfardebian.",
+          "Separă coasta de Valea Beqaa."
+        ],
+        "en": [
+          "Reaches an elevation of 2,628 meters.",
+          "Clearly visible from Beirut.",
+          "Feeds important rivers like the Nahr al-Kalb.",
+          "Hosts the Mzaar Kfardebian ski resort.",
+          "Separates the coast from the Beqaa Valley."
+        ]
+      }
+    },
+    {
+      "id": "mount-hermon-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Ein gewaltiges Bergmassiv am südlichen Ende des Anti-Libanon-Gebirges, dessen höchster Gipfel 2.814 Meter erreicht und auf der Grenze zwischen Libanon und Syrien liegt. Wegen seiner oft schneebedeckten Kuppe wird er auch \"Schneeberg\" genannt. Die Schmelzwässer des Hermon speisen die wichtigsten Wasserquellen der Region, darunter den Jordan. Der Berg hat eine enorme religiöse und historische Bedeutung und wird in antiken Texten oft erwähnt, während seine Hänge eine einzigartige alpine Flora aufweisen, die sich von der umgebenden trockenen Landschaft abhebt.",
+        "hu": "Hatalmas hegytömb az Antilibanon-hegység déli végén, amelynek legmagasabb csúcsa 2814 méter, és Libanon, valamint Szíria határán fekszik. A gyakran hóval borított csúcsa miatt \"Hóhegynek\" is nevezik. A Hermon olvadékvizei táplálják a régió legfontosabb vízforrásait, köztük a Jordán folyót. A hegy hatalmas vallási és történelmi jelentőséggel bír, ókori szövegekben gyakran említik, lejtői pedig egyedülálló alpesi növényzettel rendelkeznek, amely elüt a környező száraz tájtól.",
+        "ro": "Un masiv muntos masiv la extremitatea sudică a Munților Anti-Liban, al cărui cel mai înalt vârf atinge 2.814 metri și se află la granița dintre Liban și Siria. Datorită vârfului său adesea acoperit de zăpadă, mai este numit și \"Muntele de Zăpadă\". Apele provenite din topirea zăpezilor de pe Hermon alimentează principalele surse de apă ale regiunii, inclusiv râul Iordan. Muntele are o enormă semnificație religioasă și istorică, fiind frecvent menționat în textele antice, în timp ce pantele sale prezintă o floră alpină unică, ce contrastează cu peisajul arid înconjurător.",
+        "en": "A massive mountain cluster at the southern end of the Anti-Lebanon range, whose highest peak reaches 2,814 meters and lies on the border between Lebanon and Syria. Due to its often snow-capped summit, it is also known as the \"Snow Mountain.\" The meltwaters of Hermon feed the region's main water sources, including the Jordan River. The mountain holds enormous religious and historical significance, frequently mentioned in ancient texts, while its slopes feature unique alpine flora that contrasts with the surrounding dry landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchster Gipfel im Anti-Libanon mit 2.814 m.",
+          "Grenzt an Libanon, Syrien und Israel.",
+          "Wird auch \"Schneeberg\" genannt.",
+          "Wichtigstes Wasserreservoir der Region.",
+          "Reiche religiöse und historische Bedeutung."
+        ],
+        "hu": [
+          "Az Antilibanon legmagasabb csúcsa 2814 méterrel.",
+          "Libanon, Szíria és Izrael határán fekszik.",
+          "Gyakran \"Hóhegyként\" is emlegetik.",
+          "A régió legfontosabb víztározója.",
+          "Gazdag vallási és történelmi jelentőség."
+        ],
+        "ro": [
+          "Cel mai înalt vârf din Anti-Liban cu 2.814 m.",
+          "Se învecinează cu Liban, Siria și Israel.",
+          "Este numit și \"Muntele de Zăpadă\".",
+          "Principalul rezervor de apă al regiunii.",
+          "Bogată semnificație religioasă și istorică."
+        ],
+        "en": [
+          "Highest peak in the Anti-Lebanon at 2,814 m.",
+          "Borders Lebanon, Syria, and Israel.",
+          "Also known as the \"Snow Mountain\".",
+          "Most important water reservoir of the region.",
+          "Rich religious and historical significance."
+        ]
+      }
+    },
+    {
+      "id": "chouf-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Eine historische und geografische Region im südlichen Teil des Libanon-Gebirges, bekannt für ihre tiefen Täler und bewaldeten Hänge. Sie beheimatet das größte Naturschutzgebiet des Landes, das Al-Shouf Cedar Nature Reserve, welches bedeutende Bestände der Libanonzeder schützt. Die Region ist durch traditionelle Steindörfer, terrassierte Landwirtschaft und historische Paläste, wie den Palast von Beiteddine, geprägt. Die Chouf-Berge sind ein Zentrum der drusischen Gemeinschaft im Libanon und bieten eine intakte Kulturlandschaft, die Natur und Geschichte harmonisch verbindet.",
+        "hu": "Történelmi és földrajzi régió a Libanon-hegység déli részén, amely mély völgyeiről és erdős lejtőiről ismert. Itt található az ország legnagyobb természetvédelmi területe, az Al-Shouf Cédrus Természetvédelmi Terület, amely jelentős libanoni cédrusállományokat véd. A régiót hagyományos kőfalvak, teraszos mezőgazdaság és olyan történelmi paloták jellemzik, mint a beiteddine-i palota. A Chouf-hegység a libanoni drúz közösség központja, és egy olyan érintetlen kultúrtájat kínál, amely harmonikusan ötvözi a természetet és a történelmet.",
+        "ro": "O regiune istorică și geografică din partea de sud a Munților Liban, cunoscută pentru văile sale adânci și pantele împădurite. Găzduiește cea mai mare rezervație naturală din țară, Rezervația Naturală a Cedrilor din Al-Shouf, care protejează populații semnificative de cedru libanez. Regiunea este caracterizată de sate tradiționale din piatră, agricultură în terase și palate istorice, cum ar fi Palatul Beiteddine. Munții Chouf sunt un centru al comunității druze din Liban și oferă un peisaj cultural intact, care îmbină armonios natura și istoria.",
+        "en": "A historical and geographical region in the southern part of the Mount Lebanon range, known for its deep valleys and forested slopes. It is home to the country's largest nature reserve, the Al-Shouf Cedar Nature Reserve, which protects significant populations of the Lebanon cedar. The region is characterized by traditional stone villages, terraced agriculture, and historical palaces like the Beiteddine Palace. The Chouf Mountains are a center of the Druze community in Lebanon, offering an intact cultural landscape that harmoniously blends nature and history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des südlichen Libanon-Gebirges.",
+          "Beherbergt das größte Zedern-Reservat.",
+          "Historisches Zentrum der drusischen Gemeinschaft.",
+          "Bekannt für den Beiteddine-Palast.",
+          "Geprägt von terrassierter Landwirtschaft."
+        ],
+        "hu": [
+          "A déli Libanon-hegység része.",
+          "Itt található a legnagyobb cédrusrezervátum.",
+          "A drúz közösség történelmi központja.",
+          "A beiteddine-i palotáról ismert.",
+          "Teraszos mezőgazdaság jellemzi."
+        ],
+        "ro": [
+          "Parte a sudului Munților Liban.",
+          "Găzduiește cea mai mare rezervație de cedri.",
+          "Centru istoric al comunității druze.",
+          "Cunoscută pentru Palatul Beiteddine.",
+          "Caracterizată de agricultura în terase."
+        ],
+        "en": [
+          "Part of the southern Mount Lebanon range.",
+          "Home to the largest cedar reserve.",
+          "Historical center of the Druze community.",
+          "Known for the Beiteddine Palace.",
+          "Characterized by terraced agriculture."
+        ]
+      }
+    },
+    {
+      "id": "litani-valley-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tal des Litani, des längsten Flusses im Libanon, der vollständig innerhalb der Landesgrenzen fließt. Der Fluss entspringt in der Bekaa-Ebene und bahnt sich seinen Weg durch tiefe Schluchten nach Süden, bevor er ins Mittelmeer mündet. Das Tal ist eine entscheidende Quelle für Bewässerung und hydroelektrische Energie im Südlibanon, insbesondere durch den Qaraoun-Staudamm. Die Schluchten des unteren Litani-Tals sind landschaftlich dramatisch und bieten Lebensraum für diverse Vogel- und Pflanzenarten, während die oberen Bereiche intensiv landwirtschaftlich genutzt werden.",
+        "hu": "A Litani folyó völgye, amely Libanon leghosszabb, teljes egészében az ország határain belül folyó vízfolyása. A folyó a Bekaa-völgyben ered, és mély szurdokokon keresztül halad dél felé, mielőtt a Földközi-tengerbe ömlik. A völgy a dél-libanoni öntözés és vízenergia kulcsfontosságú forrása, különösen a Qaraoun-gát révén. Az alsó Litani-völgy szurdokai drámai tájat alkotnak, és különféle madár- és növényfajoknak adnak otthont, míg a felső szakaszokat intenzív mezőgazdasági célokra használják.",
+        "ro": "Valea râului Litani, cel mai lung râu din Liban, care curge în întregime în interiorul granițelor naționale. Râul izvorăște în Valea Beqaa și își croiește drum spre sud prin defileuri adânci înainte de a se vărsa în Marea Mediterană. Valea este o sursă crucială pentru irigații și energie hidroelectrică în sudul Libanului, în special prin Barajul Qaraoun. Defileurile din valea inferioară a râului Litani oferă un peisaj dramatic și un habitat pentru diverse specii de păsări și plante, în timp ce zonele superioare sunt utilizate intens pentru agricultură.",
+        "en": "The valley of the Litani, the longest river in Lebanon, flowing entirely within the country's borders. The river originates in the Beqaa Valley and carves its way south through deep gorges before emptying into the Mediterranean Sea. The valley is a crucial source for irrigation and hydroelectric power in southern Lebanon, notably through the Qaraoun Dam. The gorges of the lower Litani Valley are scenically dramatic, providing habitat for diverse bird and plant species, while the upper reaches are intensively used for agriculture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Durchzogen vom längsten Fluss des Libanon.",
+          "Entspringt in der fruchtbaren Bekaa-Ebene.",
+          "Beherbergt den wichtigen Qaraoun-Staudamm.",
+          "Wesentlich für die Bewässerung im Südlibanon.",
+          "Tiefe Schluchten im Unterlauf."
+        ],
+        "hu": [
+          "Libanon leghosszabb folyója szeli át.",
+          "A termékeny Bekaa-völgyben ered.",
+          "Itt található a fontos Qaraoun-gát.",
+          "Alapvető a dél-libanoni öntözéshez.",
+          "Mély szurdokok jellemzik az alsó szakaszt."
+        ],
+        "ro": [
+          "Străbătută de cel mai lung râu din Liban.",
+          "Izvorăște în fertila Vale Beqaa.",
+          "Găzduiește importantul Baraj Qaraoun.",
+          "Esențială pentru irigațiile din sudul Libanului.",
+          "Defileuri adânci pe cursul inferior."
+        ],
+        "en": [
+          "Traversed by the longest river in Lebanon.",
+          "Originates in the fertile Beqaa Valley.",
+          "Houses the important Qaraoun Dam.",
+          "Essential for irrigation in southern Lebanon.",
+          "Deep gorges in its lower course."
+        ]
+      }
+    },
+    {
+      "id": "adonis-valley-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Ein legendäres Tal nördlich von Beirut, das vom Nahr Ibrahim (Adonis-Fluss) durchflossen wird. Die Schlucht zeichnet sich durch steile, grüne Felswände und stürzende Wasserfälle aus, darunter der berühmte Wasserfall bei Afqa, wo der Fluss aus einer massiven Höhle entspringt. In der antiken Mythologie war das Schauplatz der tragischen Liebesgeschichte zwischen Adonis und Aphrodite, deren Mythen eng mit dem im Frühling rot gefärbten Wasser des Flusses verbunden sind. Das Gebiet ist heute ein beliebtes Ziel für Wanderer und Naturliebhaber.",
+        "hu": "Legendás völgy Bejrúttól északra, amelyet a Nahr Ibrahim (Adonisz-folyó) szel át. A szurdokot meredek, zöldellő sziklafalak és zuhatagok jellemzik, köztük a híres afqai vízesés, ahol a folyó egy hatalmas barlangból tör elő. Az ókori mitológiában a völgy Adonisz és Aphrodité tragikus szerelmi történetének színhelye volt, melynek mítoszai szorosan kötődnek a folyó tavasszal vörösre színeződő vizéhez. A terület ma a túrázók és a természetkedvelők népszerű célpontja.",
+        "ro": "O vale legendară la nord de Beirut, străbătută de râul Nahr Ibrahim (râul Adonis). Defileul se distinge prin pereți de stâncă abrupți și verzi, și cascade impresionante, inclusiv faimoasa cascadă de la Afqa, unde râul izvorăște dintr-o peșteră masivă. În mitologia antică, valea a fost scena poveștii tragice de dragoste dintre Adonis și Afrodita, mituri strâns legate de apa râului, care primăvara se colorează în roșu. Zona este astăzi o destinație populară pentru drumeții și iubitorii de natură.",
+        "en": "A legendary valley north of Beirut, flowed through by the Nahr Ibrahim (Adonis River). The gorge is characterized by steep, green cliff faces and plunging waterfalls, including the famous waterfall at Afqa, where the river emerges from a massive cave. In ancient mythology, the valley was the setting for the tragic love story between Adonis and Aphrodite, myths closely linked to the river's water, which turns red in spring. The area is today a popular destination for hikers and nature lovers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Durchflossen vom Nahr Ibrahim (Adonis-Fluss).",
+          "Verknüpft mit der Adonis-Mythologie.",
+          "Bekannt für die Wasserquelle in der Afqa-Höhle.",
+          "Das Wasser färbt sich im Frühling rötlich.",
+          "Dichte Vegetation an steilen Felswänden."
+        ],
+        "hu": [
+          "A Nahr Ibrahim (Adonisz-folyó) folyik rajta keresztül.",
+          "Az Adonisz-mitológiához kapcsolódik.",
+          "Híres az afqai barlang vízforrásáról.",
+          "A víz tavasszal vöröses színűvé válik.",
+          "Sűrű növényzet borítja a meredek sziklákat."
+        ],
+        "ro": [
+          "Străbătută de râul Nahr Ibrahim (Adonis).",
+          "Asociată cu mitologia lui Adonis.",
+          "Cunoscută pentru izvorul din peștera Afqa.",
+          "Apa devine roșiatică primăvara.",
+          "Vegetație densă pe pereții stâncoși abrupți."
+        ],
+        "en": [
+          "Traversed by the Nahr Ibrahim (Adonis River).",
+          "Linked to the Adonis mythology.",
+          "Known for the water source in the Afqa cave.",
+          "The water turns reddish in spring.",
+          "Dense vegetation on steep cliff faces."
+        ]
+      }
+    },
+    {
+      "id": "mount-barouk-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Ein Berg im Chouf-Gebiet des Libanon-Gebirges, der eine Höhe von knapp 1.943 Metern erreicht. Er ist besonders bekannt für seine ausgedehnten Zedernwälder, die Teil des Al-Shouf Cedar Nature Reserve sind. Die Hänge des Berges filtern Regen- und Schneewasser, das die Quellen des Al-Awali- und des Damour-Flusses speist. Auf dem Gipfel bieten sich atemberaubende Panoramablicke auf die Bekaa-Ebene im Osten und das Mittelmeer im Westen. Der Berg spielt eine wichtige ökologische Rolle bei der Erhaltung der endemischen Flora und Fauna des Libanon.",
+        "hu": "A Libanon-hegység Chouf régiójában található hegy, amely megközelíti az 1943 méteres magasságot. Különösen ismert kiterjedt cédruserdeiről, amelyek az Al-Shouf Cédrus Természetvédelmi Terület részét képezik. A hegy lejtői kiszűrik az eső- és hóvizet, amely az Al-Awali és a Damour folyók forrásait táplálja. A csúcsról lélegzetelállító panoráma nyílik keletre a Bekaa-völgyre, nyugatra pedig a Földközi-tengerre. A hegy fontos ökológiai szerepet játszik Libanon endemikus növény- és állatvilágának megőrzésében.",
+        "ro": "Un munte în regiunea Chouf a Munților Liban, care atinge o altitudine de aproape 1.943 de metri. Este deosebit de cunoscut pentru pădurile sale extinse de cedru, care fac parte din Rezervația Naturală a Cedrilor din Al-Shouf. Pantele muntelui filtrează apa de ploaie și zăpada, alimentând izvoarele râurilor Al-Awali și Damour. De pe vârf se oferă priveliști panoramice uluitoare spre Valea Beqaa la est și Marea Mediterană la vest. Muntele joacă un rol ecologic important în conservarea florei și faunei endemice din Liban.",
+        "en": "A mountain in the Chouf area of the Mount Lebanon range, reaching an elevation of nearly 1,943 meters. It is particularly known for its extensive cedar forests, which are part of the Al-Shouf Cedar Nature Reserve. The mountain's slopes filter rain and snowmelt, feeding the sources of the Al-Awali and Damour rivers. The summit offers breathtaking panoramic views of the Beqaa Valley to the east and the Mediterranean Sea to the west. The mountain plays a vital ecological role in preserving Lebanon's endemic flora and fauna."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erreicht eine Höhe von 1.943 Metern.",
+          "Teil des Al-Shouf Naturreservats.",
+          "Beherbergt ausgedehnte Zedernwälder.",
+          "Speist die Flüsse Al-Awali und Damour.",
+          "Panoramablick auf Bekaa und Mittelmeer."
+        ],
+        "hu": [
+          "1943 méteres magasságot ér el.",
+          "Az Al-Shouf természetvédelmi terület része.",
+          "Kiterjedt cédruserdőknek ad otthont.",
+          "Az Al-Awali és a Damour folyókat táplálja.",
+          "Panoráma a Bekaa-völgyre és a tengerre."
+        ],
+        "ro": [
+          "Atinge o altitudine de 1.943 metri.",
+          "Parte a rezervației naturale Al-Shouf.",
+          "Găzduiește păduri extinse de cedru.",
+          "Alimentează râurile Al-Awali și Damour.",
+          "Priveliște spre Beqaa și Marea Mediterană."
+        ],
+        "en": [
+          "Reaches an elevation of 1,943 meters.",
+          "Part of the Al-Shouf Nature Reserve.",
+          "Hosts extensive cedar forests.",
+          "Feeds the Al-Awali and Damour rivers.",
+          "Panoramic view of Beqaa and the Mediterranean."
+        ]
+      }
+    },
+    {
+      "id": "mount-makmel-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Makmel-Block ist ein nördlicher Abschnitt des Libanon-Gebirges und beherbergt die höchsten Gipfel des Landes, darunter die Qurnat as Sawda. Die raue, felsige Landschaft ist oberhalb von 2.500 Metern extrem karg und über mehrere Monate im Jahr mit einer dicken Schneedecke überzogen. Diese Bergkette fängt den Niederschlag vom Mittelmeer ab und wirkt als massiver Wasserspeicher für die tiefer gelegenen Täler wie das Kadisha-Tal. Die abgelegenen Hänge des Berges bieten Lebensraum für Bergziegen und sind ein beliebtes Gebiet für anspruchsvolles Off-Piste-Skifahren.",
+        "hu": "A Makmel-tömb a Libanon-hegység északi szakasza, amely az ország legmagasabb csúcsainak, köztük a Qurnat as Sawdának ad otthont. A zord, sziklás táj 2500 méter felett rendkívül kietlen, és az év több hónapjában vastag hótakaró borítja. Ez a hegylánc felfogja a Földközi-tenger felől érkező csapadékot, és hatalmas víztározóként szolgál az olyan alacsonyabban fekvő völgyek számára, mint a Kadisha-völgy. A hegy elhagyatott lejtői hegyi kecskéknek adnak otthont, és népszerűek a kihívást jelentő terepsízés szerelmesei körében.",
+        "ro": "Blocul Makmel este o secțiune nordică a Munților Liban și găzduiește cele mai înalte vârfuri din țară, inclusiv Qurnat as Sawda. Peisajul accidentat și stâncos este extrem de arid la peste 2.500 de metri și este acoperit de un strat gros de zăpadă mai multe luni pe an. Acest lanț muntos interceptează precipitațiile de la Marea Mediterană și acționează ca un rezervor masiv de apă pentru văile inferioare, cum ar fi Valea Kadisha. Pantele izolate ale muntelui oferă un habitat pentru caprele de munte și sunt o zonă populară pentru schiul off-piste provocator.",
+        "en": "The Makmel block is a northern section of the Mount Lebanon range and houses the country's highest peaks, including Qurnat as Sawda. The rugged, rocky landscape is extremely barren above 2,500 meters and is covered by a thick blanket of snow for several months of the year. This mountain chain intercepts precipitation from the Mediterranean Sea, acting as a massive water reservoir for lower-lying valleys like the Kadisha Valley. The remote slopes of the mountain provide a habitat for mountain goats and are a popular area for challenging off-piste skiing."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt die höchsten Gipfel des Libanon.",
+          "Karstlandschaft oberhalb von 2.500 Metern.",
+          "Mehrere Monate im Jahr schneebedeckt.",
+          "Wichtiger Wasserspeicher für das Kadisha-Tal.",
+          "Beliebt für anspruchsvolles Off-Piste-Skifahren."
+        ],
+        "hu": [
+          "Libanon legmagasabb csúcsait foglalja magában.",
+          "Karsztvidék 2500 méter felett.",
+          "Az év több hónapjában hó borítja.",
+          "Fontos víztározó a Kadisha-völgy számára.",
+          "Népszerű a kihívást jelentő terepsízéshez."
+        ],
+        "ro": [
+          "Găzduiește cele mai înalte vârfuri din Liban.",
+          "Peisaj carstic la peste 2.500 de metri.",
+          "Acoperit de zăpadă mai multe luni pe an.",
+          "Rezervor de apă important pentru Valea Kadisha.",
+          "Popular pentru schi off-piste provocator."
+        ],
+        "en": [
+          "Houses the highest peaks in Lebanon.",
+          "Karst landscape above 2,500 meters.",
+          "Snow-covered for several months of the year.",
+          "Important water reservoir for the Kadisha Valley.",
+          "Popular for challenging off-piste skiing."
+        ]
+      }
+    }
+  ]
+}

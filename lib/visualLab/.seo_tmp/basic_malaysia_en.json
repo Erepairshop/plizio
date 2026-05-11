@@ -1,0 +1,80 @@
+{
+  "lang": "en",
+  "country": "Malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shah-alam-cities-v2",
+      "description": "The capital city of the Selangor state, known for the iconic Sultan Salahuddin Abdul Aziz Shah Mosque with its massive blue dome.",
+      "facts": ["Capital of Selangor", "Blue Mosque landmark", "Planned industrial city"]
+    },
+    {
+      "id": "kuantan-cities-v2",
+      "description": "The administrative capital of Pahang state, situated near the mouth of the Kuantan River and famous for its nearby beaches.",
+      "facts": ["Capital of Pahang", "Famous Teluk Cempedak beach", "Major trade center"]
+    },
+    {
+      "id": "kuala-terengganu-cities-v2",
+      "description": "A coastal city serving as the capital of Terengganu, renowned for its traditional Malay culture and the unique Crystal Mosque.",
+      "facts": ["Capital of Terengganu", "Crystal Mosque landmark", "Gateway to islands"]
+    },
+    {
+      "id": "alorsetar-cities-v2",
+      "description": "The capital of Kedah, known for the prominent Alor Setar Tower and as the birthplace of two Malaysian Prime Ministers.",
+      "facts": ["Capital of Kedah", "Alor Setar Tower", "Paddy production hub"]
+    },
+    {
+      "id": "putrajaya-cities-v2",
+      "description": "Malaysia's administrative centre, characterized by elaborate Islamic architecture, large parks, and the famous Putra Mosque.",
+      "facts": ["Administrative center", "Putra Mosque", "Garden city design"]
+    },
+    {
+      "id": "subang-jaya-cities-v2",
+      "description": "A prominent city in the Klang Valley, functioning as a major residential and commercial hub within the metropolitan area of Kuala Lumpur.",
+      "facts": ["Klang Valley hub", "Educational center", "Residential township"]
+    },
+    {
+      "id": "petaling-jaya-cities-v2",
+      "description": "Initially a satellite township for Kuala Lumpur, it has evolved into a major self-contained city known for its diverse business districts.",
+      "facts": ["Satellite city origins", "Commercial center", "Klang Valley area"]
+    },
+    {
+      "id": "miri-cities-v2",
+      "description": "A coastal city in Sarawak, historically significant as the birthplace of the Malaysian oil and gas industry after oil was discovered in 1910.",
+      "facts": ["Oil discovery site", "Sarawak coast", "Gateway to Mulu"]
+    },
+    {
+      "id": "sungai-petani-cities-v2",
+      "description": "The largest city in Kedah, known for its rapid industrial development and proximity to the Bujang Valley historical site.",
+      "facts": ["Kedah's largest city", "Industrial hub", "Bujang Valley nearby"]
+    },
+    {
+      "id": "batu-pahat-cities-v2",
+      "description": "A coastal town in Johor, famous for its textile industry and vibrant local food scene centered around historical landmarks.",
+      "facts": ["Johor coastal town", "Textile manufacturing", "Cultural heritage"]
+    },
+    {
+      "id": "lahad-datu-cities-v2",
+      "description": "Located in Sabah, this town serves as a vital point for the surrounding agricultural industry and access to the Danum Valley conservation area.",
+      "facts": ["Sabah location", "Agricultural hub", "Danum Valley access"]
+    },
+    {
+      "id": "taman-negara-nationalpark-life-v2",
+      "description": "One of the world's oldest tropical rainforests, estimated to be over 130 million years old and home to diverse wildlife.",
+      "facts": ["130 million years old", "Tropical rainforest", "Biodiversity hotspot"]
+    },
+    {
+      "id": "perdana-botanical-gardens-life-v2",
+      "description": "A large public garden in Kuala Lumpur featuring a wide variety of tropical plants, lake views, and a dedicated orchid garden.",
+      "facts": ["Kuala Lumpur location", "Orchid garden", "Tropical plant collection"]
+    },
+    {
+      "id": "zoo-negara-malaysia-life-v2",
+      "description": "The national zoo of Malaysia, located in Hulu Kelang, housing thousands of animals from hundreds of different species.",
+      "facts": ["National zoo", "Hulu Kelang location", "Thousands of animals"]
+    }
+  ]
+}

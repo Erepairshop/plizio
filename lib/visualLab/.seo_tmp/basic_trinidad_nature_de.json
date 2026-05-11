@@ -1,0 +1,24 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-hollis-reservoir-nature-v2",
+      "description": "Das Hollis Reservoir ist ein bedeutendes Wasserreservoir im Zentrum von Trinidad, umgeben von dichtem Regenwald. Es ist ein wichtiges ökologisches Rückzugsgebiet.",
+      "facts": ["Bedeutendes Wasserreservoir", "Umgeben von Regenwald", "Ökologisches Rückzugsgebiet"]
+    },
+    {
+      "id": "tt-erin-bay-nature-v2",
+      "description": "Die Erin Bay an der Südküste von Trinidad zeichnet sich durch unberührte Küstenlandschaften und eine ruhige, natürliche Atmosphäre aus.",
+      "facts": ["Südküste", "Unberührte Küste", "Natürliche Atmosphäre"]
+    },
+    {
+      "id": "tt-saut-d-eau-island-nature-v2",
+      "description": "Saut d'Eau Island ist eine malerische Insel vor der Nordküste. Ihre unberührte Natur bietet einen geschützten Lebensraum für verschiedene maritime Spezies.",
+      "facts": ["Nordküste", "Malerische Insel", "Geschützter Lebensraum"]
+    }
+  ]
+}

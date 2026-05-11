@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    { "id": "manakara-kanal-life-v2", "description": "The Pangalanes Canal near Manakara is a historic waterway used for transport and fishing by the local community.", "facts": ["Inland waterway", "Manakara region", "Traditional transport"] },
+    { "id": "mahajanga-strand-life-v2", "description": "The beach in Mahajanga is a social hub, especially in the evenings when locals gather to enjoy the sea breeze.", "facts": ["Social hub", "Mahajanga city", "Coastal area"] },
+    { "id": "tsingy-namoroka-park-life-v2", "description": "Tsingy de Namoroka National Park features spectacular limestone formations and unique biodiversity in a remote setting.", "facts": ["Limestone karst", "Remote park", "North-west region"] },
+    { "id": "fianarantsoa-weingut-life-v2", "description": "The vineyards around Fianarantsoa produce Madagascar's unique local wines, continuing a tradition started decades ago.", "facts": ["Wine production", "Highlands region", "Local tradition"] },
+    { "id": "zombitse-vohibasia-park-life-v2", "description": "Zombitse-Vohibasia National Park is a key birdwatching site, protecting a rare transition forest habitat.", "facts": ["Birdwatching haven", "Transition forest", "South-west region"] },
+    { "id": "antsirabe-thermalbad-life-v2", "description": "The thermal baths of Antsirabe are famous for their mineral-rich waters and therapeutic properties.", "facts": ["Thermal springs", "Therapeutic use", "Antsirabe city"] },
+    { "id": "ankarafantsika-vogelbeobachtung-life-v2", "description": "Ankarafantsika is a prime destination for birdwatchers, home to many endemic and rare bird species.", "facts": ["Ornithology spot", "Endemic birds", "Dry forest"] },
+    { "id": "nosy-mitsio-tauchen-life-v2", "description": "Diving in the Nosy Mitsio archipelago offers encounters with diverse marine life and pristine coral reefs.", "facts": ["Diving spot", "Pristine reefs", "Isolated islands"] },
+    { "id": "tampolo-naturreservat-life-v2", "description": "The Tampolo Nature Reserve protects one of the last remaining coastal forests on Madagascar's east coast.", "facts": ["Coastal forest", "Nature reserve", "East coast"] },
+    { "id": "amphibien-wald-ranomafana-life-v2", "description": "The amphibian forest in Ranomafana is a hotspot for frog diversity, including many colorful and rare species.", "facts": ["Frog diversity", "Rainforest habitat", "Ranomafana region"] },
+    { "id": "mahajanga-zoo-life-v2", "description": "The zoo in Mahajanga showcases the unique wildlife of the Boeny region to locals and visitors alike.", "facts": ["Regional wildlife", "Educational site", "Mahajanga city"] },
+    { "id": "nosy-be-nature-v2", "description": "Nosy Be is Madagascar's premier island destination, known for its lush nature and beautiful beaches.", "facts": ["Tropical island", "Ylang-ylang aroma", "Tourist hub"] },
+    { "id": "lake-itasy-nature-v2", "description": "Lake Itasy is a large volcanic lake in central Madagascar, offering picturesque views and waterfalls nearby.", "facts": ["Volcanic origin", "Central highlands", "Scenic destination"] },
+    { "id": "ankarafantsika-nature-v2", "description": "Ankarafantsika National Park is a massive dry forest reserve known for its lakes and diverse lemur population.", "facts": ["Dry forest park", "Lake Ravelobe", "Lemur habitat"] },
+    { "id": "andringitra-nature-v2", "description": "Andringitra National Park features high-altitude granite peaks and is home to the famous ring-tailed lemurs.", "facts": ["Granite peaks", "High altitude", "Ring-tailed lemurs"] }
+  ]
+}

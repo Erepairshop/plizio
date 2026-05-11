@@ -1,0 +1,92 @@
+{
+    "lang": "multi4",
+    "country": "guinea",
+    "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+    "items": [
+      {
+        "id": "diari-cities-v2",
+        "descriptionAdvancedDe": "Diari ist eine ländliche Gemeinde in der Präfektur Labé in der Region Fouta Djallon. Die Wirtschaft ist stark von der Landwirtschaft geprägt, insbesondere vom Anbau von Fonio, Erdnüssen und Gemüse für den lokalen Markt. Die Viehzucht ist ebenfalls ein wichtiger Bestandteil der lokalen Wirtschaft. Die Gemeinde besteht aus mehreren Dörfern und spiegelt die traditionelle Fulbe-Kultur wider. Das Leben in Diari ist einfach und eng mit den landwirtschaftlichen Zyklen und den islamischen Traditionen verbunden. Die Landschaft ist hügelig und wird von kleinen Bächen durchzogen, die für die Bewässerung genutzt werden. Geographie K7 – Ländliche Gemeinschaften und Subsistenzwirtschaft.",
+        "descriptionAdvancedHu": "Diari egy vidéki község a Labé prefektúrában, a Fouta Djallon régióban. A gazdaságot erősen a mezőgazdaság határozza meg, különösen a fonio, a földimogyoró és a zöldségfélék termesztése a helyi piacra. Az állattenyésztés szintén fontos része a helyi gazdaságnak. A község több faluból áll, és a hagyományos fulbe kultúrát tükrözi. Az élet Diariban egyszerű, és szorosan kötődik a mezőgazdasági ciklusokhoz és az iszlám hagyományokhoz. A táj dombos, és kis patakok szelik át, amelyeket öntözésre használnak. Földrajz K7 – Vidéki közösségek és önellátó gazdálkodás.",
+        "descriptionAdvancedRo": "Diari este o comună rurală din prefectura Labé, în regiunea Fouta Djallon. Economia este puternic dependentă de agricultură, în special de cultivarea fonio, a alunelor și a legumelor pentru piața locală. Creșterea animalelor este, de asemenea, o parte importantă a economiei locale. Comuna este formată din mai multe sate și reflectă cultura tradițională Fulani. Viața în Diari este simplă și strâns legată de ciclurile agricole și de tradițiile islamice. Peisajul este deluros și străbătut de mici pârâuri folosite pentru irigații. Geografie K7 – Comunități rurale și economie de subzistență.",
+        "descriptionAdvancedEn": "Diari is a rural commune in the Labé prefecture in the Fouta Djallon region. The economy is heavily dependent on agriculture, especially the cultivation of fonio, peanuts, and vegetables for the local market. Livestock farming is also an important part of the local economy. The commune consists of several villages and reflects the traditional Fulani culture. Life in Diari is simple and closely linked to the agricultural cycles and Islamic traditions. The landscape is hilly and crossed by small streams used for irrigation. Geography K7 – Rural communities and subsistence economy.",
+        "factsAdvanced": [
+            "Vidéki község (communauté rurale) a Labé prefektúrában.",
+            "A gazdaság a mezőgazdaságra és az állattenyésztésre épül.",
+            "A fonio termesztése kiemelt fontosságú.",
+            "A lakosság Fulbe, és megőrzi a hagyományos életmódot.",
+            "Több kisebb falut foglal magában.",
+            "A helyi piac fontos szerepet játszik a közösségi életben.",
+            "A tájat a Fouta Djallon-felföld jellegzetes dombjai alkotják.",
+            "Az iszlám vallás és a hagyományok mélyen beágyazódtak a mindennapi életbe."
+        ]
+      },
+      {
+        "id": "timbi-madina-cities-v2",
+        "descriptionAdvancedDe": "Timbi Madina ist eine der größten und wichtigsten ländlichen Gemeinden in Guinea, gelegen in der Präfektur Pita im Fouta-Djallon-Hochland. Sie ist berühmt als das 'Wasserschloss' von Fouta Djallon, da hier viele Flüsse entspringen. Die Region ist extrem fruchtbar und ein bedeutendes Zentrum für den Anbau von Kartoffeln, Zwiebeln und anderem Gemüse, das im ganzen Land verkauft wird. Die Wirtschaft ist fast vollständig agrarisch. Timbi Madina ist dicht besiedelt und besteht aus einer Vielzahl von Dörfern, die von der Fulbe-Kultur geprägt sind. Die innovative landwirtschaftliche Praxis der 'tapades' (eingezäunte Gärten) ist hier weit verbreitet. Geographie K7 – Intensive Landwirtschaft und Wasserressourcen.",
+        "descriptionAdvancedHu": "Timbi Madina Guinea egyik legnagyobb és legfontosabb vidéki községe, amely a Pita prefektúrában, a Fouta-Djallon-felföldön található. A Fouta Djallon 'víztornyaként' híres, mivel itt ered számos folyó. A régió rendkívül termékeny, és a burgonya-, hagyma- és egyéb zöldségfélék termesztésének jelentős központja, amelyeket az egész országban értékesítenek. A gazdaság szinte teljes egészében agrárjellegű. Timbi Madina sűrűn lakott, és számos faluból áll, amelyeket a fulbe kultúra jellemez. A 'tapades' (kerített kertek) innovatív mezőgazdasági gyakorlata itt széles körben elterjedt. Földrajz K7 – Intenzív mezőgazdaság és vízkészletek.",
+        "descriptionAdvancedRo": "Timbi Madina este una dintre cele mai mari și mai importante comune rurale din Guineea, situată în prefectura Pita din podișul Fouta Djallon. Este renumită ca 'castelul de apă' al Fouta Djallon, deoarece multe râuri izvorăsc de aici. Regiunea este extrem de fertilă și un centru important pentru cultivarea cartofilor, a cepei și a altor legume, care sunt vândute în întreaga țară. Economia este aproape în întregime agrară. Timbi Madina este dens populată și constă dintr-o multitudine de sate, caracterizate de cultura Fulani. Practica agricolă inovatoare a 'tapadelor' (grădini împrejmuite) este larg răspândită aici. Geografie K7 – Agricultură intensivă și resurse de apă.",
+        "descriptionAdvancedEn": "Timbi Madina is one of the largest and most important rural communes in Guinea, located in the Pita prefecture in the Fouta Djallon highlands. It is famous as the 'water tower' of Fouta Djallon, as many rivers originate here. The region is extremely fertile and an important center for the cultivation of potatoes, onions, and other vegetables, which are sold throughout the country. The economy is almost entirely agrarian. Timbi Madina is densely populated and consists of a multitude of villages, characterized by the Fulani culture. The innovative agricultural practice of 'tapades' (fenced gardens) is widespread here. Geography K7 – Intensive agriculture and water resources.",
+        "factsAdvanced": [
+            "Guinea egyik legnagyobb vidéki községe, a Pita prefektúrában.",
+            "A 'Fouta Djallon víztornyaként' ismert, mivel itt erednek fontos folyók.",
+            "Guinea legfontosabb burgonya- és zöldségtermesztő vidéke.",
+            "A 'tapade' nevű egyedi, kerítéses kertművelési technika központja.",
+            "Rendkívül sűrűn lakott vidéki terület.",
+            "A lakosság szinte kizárólag Fulbe (Peul).",
+            "A gazdaság teljes mértékben a mezőgazdaságon alapul.",
+            "Híres a sikeres mezőgazdasági szövetkezeteiről."
+        ]
+      },
+      {
+        "id": "oure-kaba-cities-v2",
+        "descriptionAdvancedDe": "Ouré Kaba ist eine ländliche Gemeinde in der Präfektur Mamou. Sie liegt in einer Übergangszone zwischen dem Fouta-Djallon-Hochland und den Küstenebenen. Diese geografische Lage begünstigt eine vielfältige Landwirtschaft, die sowohl Hochland- als auch Tieflandprodukte umfasst. Reis, Erdnüsse und Maniok sind die Hauptanbauprodukte. Die Viehzucht ist ebenfalls ein wichtiger Wirtschaftszweig. Die Gemeinde dient als lokaler Marktplatz und ist ein Schmelztiegel verschiedener ethnischer Gruppen, hauptsächlich Fulbe und Malinke. Die Nähe zur Nationalstraße N1 erleichtert den Handel mit der Hauptstadt Conakry. Geographie K7 – Agrarische Übergangszonen und Handel.",
+        "descriptionAdvancedHu": "Ouré Kaba egy vidéki község a Mamou prefektúrában. Átmeneti zónában fekszik a Fouta-Djallon-felföld és a part menti síkságok között. Ez a földrajzi elhelyezkedés kedvez a változatos mezőgazdaságnak, amely mind a hegyvidéki, mind az alföldi termékeket magában foglalja. A rizs, a földimogyoró és a manióka a fő termesztett növények. Az állattenyésztés szintén fontos gazdasági ágazat. A község helyi piacként szolgál, és különböző etnikai csoportok, főként a fulbék és a malinkék olvasztótégelye. Az N1-es főút közelsége megkönnyíti a kereskedelmet Conakry fővárossal. Földrajz K7 – Agrár átmeneti zónák és kereskedelem.",
+        "descriptionAdvancedRo": "Ouré Kaba este o comună rurală din prefectura Mamou. Este situată într-o zonă de tranziție între podișul Fouta Djallon și câmpiile de coastă. Această locație geografică favorizează o agricultură diversificată, care include atât produse de munte, cât și de câmpie. Orezul, alunele și maniocul sunt principalele culturi. Creșterea animalelor este, de asemenea, un sector economic important. Comuna servește ca piață locală și este un creuzet al diferitelor grupuri etnice, în principal Fulani și Malinke. Apropierea de drumul național N1 facilitează comerțul cu capitala Conakry. Geografie K7 – Zone de tranziție agrară și comerț.",
+        "descriptionAdvancedEn": "Ouré Kaba is a rural commune in the Mamou prefecture. It is located in a transition zone between the Fouta Djallon highlands and the coastal plains. This geographical location favors a diverse agriculture that includes both highland and lowland products. Rice, peanuts, and cassava are the main crops. Livestock farming is also an important economic sector. The commune serves as a local market and is a melting pot of different ethnic groups, mainly Fulani and Malinke. The proximity to the N1 national road facilitates trade with the capital Conakry. Geography K7 – Agrarian transition zones and trade.",
+        "factsAdvanced": [
+            "Vidéki község a Mamou prefektúrában.",
+            "A Fouta Djallon és a part menti síkság közötti átmeneti zónában található.",
+            "Változatos mezőgazdaság jellemzi (rizs, földimogyoró, manióka).",
+            "A Fulbe és Malinke kultúrák találkozási pontja.",
+            "Az N1-es főút mentén fekszik, ami elősegíti a kereskedelmet.",
+            "A szarvasmarha-tenyésztés fontos szerepet játszik.",
+            "A helyi piac a régió kereskedelmi központja.",
+            "A lakosság a mezőgazdaságból és a kereskedelemből él."
+        ]
+      },
+      {
+        "id": "banankoro-cities-v2",
+        "descriptionAdvancedDe": "Banankoro ist eine Stadt in der Präfektur Kérouané in Oberguinea und eines der wichtigsten Zentren des Diamantenabbaus des Landes. Die Entdeckung reicher Diamantenvorkommen hat zu einem massiven Zustrom von Menschen und zu einem unkontrollierten Wachstum der Stadt geführt. Der Diamantenabbau erfolgt sowohl im industriellen als auch im großen Stil im handwerklichen Sektor, was oft zu sozialen Spannungen und Umweltproblemen führt. Die Stadt hat einen 'Wildwest'-Charakter, in dem der schnelle Reichtum das soziale Leben bestimmt. Neben den Diamanten spielt die Landwirtschaft zur Selbstversorgung eine untergeordnete Rolle. Geographie K8 – Rohstoffrausch und soziale Dynamiken.",
+        "descriptionAdvancedHu": "Banankoro egy város a Kérouané prefektúrában, Felső-Guineában, és az ország egyik legfontosabb gyémántbányászati központja. A gazdag gyémántlelőhelyek felfedezése hatalmas emberáradathoz és a város ellenőrizetlen növekedéséhez vezetett. A gyémántbányászat mind ipari, mind nagyüzemi kézműves szektorban folyik, ami gyakran társadalmi feszültségekhez és környezeti problémákhoz vezet. A városnak 'vadnyugati' jellege van, ahol a gyors meggazdagodás határozza meg a társadalmi életet. A gyémántok mellett az önellátó mezőgazdaság alárendelt szerepet játszik. Földrajz K8 – Nyersanyagláz és társadalmi dinamikák.",
+        "descriptionAdvancedRo": "Banankoro este un oraș din prefectura Kérouané din Guineea Superioară și unul dintre cele mai importante centre de extracție a diamantelor din țară. Descoperirea zăcămintelor bogate de diamante a dus la un aflux masiv de oameni și la o creștere necontrolată a orașului. Extracția diamantelor are loc atât în sectorul industrial, cât și la scară largă în sectorul artizanal, ceea ce duce adesea la tensiuni sociale și probleme de mediu. Orașul are un caracter de 'Vest Sălbatic', în care bogăția rapidă determină viața socială. Pe lângă diamante, agricultura de subzistență joacă un rol secundar. Geografie K8 – Goana după resurse și dinamici sociale.",
+        "descriptionAdvancedEn": "Banankoro is a town in the Kérouané prefecture in Upper Guinea and one of the country's most important diamond mining centers. The discovery of rich diamond deposits has led to a massive influx of people and uncontrolled growth of the town. Diamond mining takes place in both the industrial and large-scale artisanal sectors, often leading to social tensions and environmental problems. The town has a 'Wild West' character, where quick wealth determines social life. Besides diamonds, subsistence agriculture plays a subordinate role. Geography K8 – Resource rush and social dynamics.",
+        "factsAdvanced": [
+            "Guinea egyik legfontosabb gyémántbányászati központja.",
+            "A Kérouané prefektúrában található.",
+            "A gyémántláz miatt gyorsan és kaotikusan nőtt.",
+            "Jelentős ipari és kézműves gyémántbányászat helyszíne.",
+            "A lakosság rendkívül sokszínű, sok a belső migráns.",
+            "A város gazdasága szinte teljes mértékben a gyémántoktól függ.",
+            "Gyakoriak a társadalmi feszültségek a bányászati jogok miatt.",
+            "A környezeti károk jelentősek a bányászat következtében."
+        ]
+      },
+      {
+        "id": "tinka-cities-v2",
+        "descriptionAdvancedDe": "Tinka ist eine kleine Stadt in der Präfektur Kouroussa in der Region Kankan. Sie liegt in der Savannenlandschaft Oberguineas und ihre Wirtschaft basiert hauptsächlich auf Landwirtschaft und Viehzucht. Die wichtigsten Anbauprodukte sind Baumwolle, Erdnüsse und Sorghum. Tinka ist ein traditionelles Malinke-Dorf, dessen soziale Struktur von alten Bräuchen und dem Islam geprägt ist. Die Stadt dient als kleines lokales Zentrum, hat aber keine überregionale Bedeutung. Das Leben ist einfach und folgt dem Rhythmus der Jahreszeiten. Die Gemeinschaft ist bekannt für ihre Gastfreundschaft und ihre traditionelle Musik. Geographie K6 – Traditionelle Landwirtschaft und Dorfleben in der Savanne.",
+        "descriptionAdvancedHu": "Tinka egy kisváros a Kouroussa prefektúrában, a Kankan régióban. Felső-Guinea szavannás táján fekszik, és gazdasága főként a mezőgazdaságra és az állattenyésztésre épül. A legfontosabb termesztett növények a gyapot, a földimogyoró és a cirok. Tinka egy hagyományos malinke falu, amelynek társadalmi szerkezetét a régi szokások és az iszlám határozza meg. A város kis helyi központként szolgál, de nincs regionális jelentősége. Az élet egyszerű, és az évszakok ritmusát követi. A közösség vendégszeretetéről és hagyományos zenéjéről ismert. Földrajz K6 – Hagyományos mezőgazdaság és falusi élet a szavannán.",
+        "descriptionAdvancedRo": "Tinka este un mic oraș din prefectura Kouroussa, regiunea Kankan. Este situat în peisajul de savană din Guineea Superioară, iar economia sa se bazează în principal pe agricultură și creșterea animalelor. Principalele culturi sunt bumbacul, alunele și sorgul. Tinka este un sat tradițional Malinke, a cărui structură socială este modelată de obiceiurile vechi și de islam. Orașul servește ca un mic centru local, dar nu are importanță regională. Viața este simplă și urmează ritmul anotimpurilor. Comunitatea este cunoscută pentru ospitalitatea sa și muzica sa tradițională. Geografie K6 – Agricultură tradițională și viața satului în savană.",
+        "descriptionAdvancedEn": "Tinka is a small town in the Kouroussa prefecture, Kankan region. It is located in the savanna landscape of Upper Guinea and its economy is mainly based on agriculture and livestock farming. The main crops are cotton, peanuts, and sorghum. Tinka is a traditional Malinke village whose social structure is shaped by ancient customs and Islam. The town serves as a small local center but has no regional significance. Life is simple and follows the rhythm of the seasons. The community is known for its hospitality and traditional music. Geography K6 – Traditional agriculture and village life in the savanna.",
+        "factsAdvanced": [
+            "Kisváros a Kouroussa prefektúrában, Felső-Guineában.",
+            "A gazdaság alapja a mezőgazdaság (gyapot, cirok) és az állattenyésztés.",
+            "Hagyományos Malinke falu.",
+            "A közösségi életet a régi szokások és az iszlám határozzák meg.",
+            "Nincs jelentős ipari vagy kereskedelmi tevékenysége.",
+            "A lakosság önellátó gazdálkodást folytat.",
+            "A szóbeli hagyományok, mint a mesemondás, fontosak.",
+            "A helyi közösség a vendégszeretetéről ismert."
+        ]
+      }
+    ]
+}

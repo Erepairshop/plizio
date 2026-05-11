@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "description": "Matiguás, în Matagalpa, este un centru agricol important, renumit pentru creșterea vitelor și produsele lactate.",
+      "facts": ["Centru agricol", "Creșterea vitelor", "Produse lactate"]
+    },
+    {
+      "id": "muy-muy-matagalpa-cities-v2",
+      "description": "Muy Muy, în Matagalpa, este o comunitate rurală, cunoscută pentru producția sa de brânză și lactate.",
+      "facts": ["Comunitate rurală", "Producția de brânză", "Produse lactate"]
+    },
+    {
+      "id": "san-ramon-matagalpa-cities-v2",
+      "description": "San Ramón, în Matagalpa, este o municipalitate montană, cunoscută pentru cafeaua sa de calitate și peisajele verzi.",
+      "facts": ["Municipalitate montană", "Cafea de calitate", "Peisaje verzi"]
+    },
+    {
+      "id": "terrabona-matagalpa-cities-v2",
+      "description": "Terrabona, în Matagalpa, este cunoscută pentru producția sa agricolă, în special cafea și fasole.",
+      "facts": ["Producție agricolă", "Cafea și fasole", "Matagalpa"]
+    },
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "description": "San Fernando, în Nueva Segovia, este o mică comunitate rurală la granița cu Honduras.",
+      "facts": ["Comunitate rurală", "Granița cu Honduras", "Nueva Segovia"]
+    },
+    {
+      "id": "el-jicaro-nueva-segovia-cities-v2",
+      "description": "El Jícaro, în Nueva Segovia, este un oraș minier, renumit pentru exploatarea aurului și istoria sa minieră.",
+      "facts": ["Oraș minier", "Exploatare aur", "Istorie minieră"]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "description": "Corn Island (Islas del Maíz) sunt două insule din Caraibe, cunoscute pentru recifele lor de corali și atmosfera relaxată.",
+      "facts": ["Insule Caraibe", "Recife de corali", "Atmosferă relaxată"]
+    },
+    {
+      "id": "la-cruz-de-rio-grande-cities-v2",
+      "description": "La Cruz de Río Grande este o comunitate rurală în Regiunea Autonomă a Coastei Caraibelor de Nord, cunoscută pentru culturile sale indigene.",
+      "facts": ["Comunitate rurală", "Culturi indigene", "Coasta Caraibelor de Nord"]
+    },
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "description": "Morrito, pe Río San Juan, este un mic sat de pescari, cunoscut pentru liniștea sa și apropierea de Lacul Nicaragua.",
+      "facts": ["Sat de pescari", "Río San Juan", "Lacul Nicaragua"]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "description": "San Jorge, în Rivas, este un oraș portuar la Lacul Nicaragua, un important port de feribot către Insula Ometepe.",
+      "facts": ["Oraș portuar", "Lacul Nicaragua", "Port de feribot"]
+    },
+    {
+      "id": "belen-rivas-cities-v2",
+      "description": "Belén, în Rivas, este o comunitate agricolă care cultivă orez și trestie de zahăr.",
+      "facts": ["Comunitate agricolă", "Orez și trestie de zahăr", "Rivas"]
+    },
+    {
+      "id": "potosi-rivas-cities-v2",
+      "description": "Potosí, în Rivas, este o mică comunitate, cunoscută pentru izvoarele sale termale și apropierea de vulcani.",
+      "facts": ["Izvoare termale", "Vulcani", "Rivas"]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "description": "Buenos Aires, în Rivas, este o comunitate agricolă liniștită, cunoscută pentru cultivarea orezului și a trestiei de zahăr.",
+      "facts": ["Comunitate agricolă liniștită", "Orez și trestie de zahăr", "Rivas"]
+    },
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "description": "Cárdenas, în Rivas, este un oraș de frontieră cu Costa Rica, cunoscut pentru activitățile sale comerciale și apropierea de Lacul Nicaragua.",
+      "facts": ["Oraș de frontieră", "Activități comerciale", "Lacul Nicaragua"]
+    },
+    {
+      "id": "san-juan-de-rio-coco-madriz-cities-v2",
+      "description": "San Juan de Río Coco, în Madriz, este cunoscut pentru cultivarea cafelei și peisajele sale montane pitorești.",
+      "facts": ["Cultivarea cafelei", "Peisaje montane", "Madriz"]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "koubia-cities-v2",
+      "descriptionAdvancedDe": "Koubia liegt im Herzen des Fouta-Djallon-Hochlands und ist das Verwaltungszentrum einer ländlichen Präfektur. Die Landschaft ist geprägt von sanften Hügeln und landwirtschaftlichen Flächen, auf denen hauptsächlich Fonio, Erdnüsse und Gemüse angebaut werden. Die Stadt selbst ist klein und dient als Marktzentrum für die umliegenden Dörfer. Die Fulbe-Kultur ist hier dominant, und die traditionelle Lebensweise ist stark in der Viehzucht und im Ackerbau verwurzelt. Die Region ist bekannt für ihre Weberei und die Herstellung von Indigostoffen. Geographie K7 – Ländliche Zentren und traditionelle Landwirtschaft.",
+      "descriptionAdvancedHu": "Koubia a Fouta-Djallon-felföld szívében fekszik, és egy vidéki prefektúra közigazgatási központja. A tájat lankás dombok és mezőgazdasági területek jellemzik, ahol főként foniót, földimogyorót és zöldségeket termesztenek. Maga a város kicsi, és a környező falvak piaci központjaként szolgál. A fulbe kultúra domináns, és a hagyományos életmód erősen a szarvasmarha-tenyésztésben és a földművelésben gyökerezik. A régió híres a szövésről és az indigó kelmék készítéséről. Földrajz K7 – Vidéki központok és hagyományos mezőgazdaság.",
+      "descriptionAdvancedRo": "Koubia este situată în inima podișului Fouta Djallon și este centrul administrativ al unei prefecturi rurale. Peisajul este caracterizat de dealuri domoale și terenuri agricole, unde se cultivă în principal fonio, alune și legume. Orașul în sine este mic și servește drept centru de piață pentru satele din jur. Cultura Fulani este dominantă aici, iar modul de viață tradițional este puternic înrădăcinat în creșterea vitelor și agricultură. Regiunea este cunoscută pentru țesutul și producția de țesături indigo. Geografie K7 – Centre rurale și agricultură tradițională.",
+      "descriptionAdvancedEn": "Located in the heart of the Fouta Djallon highlands, Koubia is the administrative center of a rural prefecture. The landscape is characterized by rolling hills and agricultural land, where mainly fonio, peanuts, and vegetables are grown. The town itself is small and serves as a market center for the surrounding villages. The Fulani culture is dominant here, and the traditional way of life is strongly rooted in cattle breeding and farming. The region is known for its weaving and the production of indigo fabrics. Geography K7 – Rural centers and traditional agriculture.",
+      "factsAdvanced": [
+        "A Koubia prefektúra közigazgatási központja a Fouta Djallon régióban.",
+        "Tipikus vidéki város, amely a környező mezőgazdasági közösségeket szolgálja ki.",
+        "A fonio, a földimogyoró és a zöldségfélék termesztésére összpontosít.",
+        "A lakosság főként a Fulbe (Peul) etnikai csoporthoz tartozik.",
+        "A régió híres a hagyományos szövésről és a textilművészetről.",
+        "A város lakossága körülbelül 10 000 fő.",
+        "Fontos szerepet játszik a helyi szarvasmarha-kereskedelemben.",
+        "A területet festői dombok és völgyek jellemzik."
+      ]
+    },
+    {
+      "id": "koundara-cities-v2",
+      "descriptionAdvancedDe": "Koundara liegt im äußersten Nordwesten Guineas, nahe der Grenze zum Senegal. Die Stadt ist ein wichtiger Handelsknotenpunkt, insbesondere für den grenzüberschreitenden Handel. Die Bevölkerung ist ethnisch vielfältig, mit großen Gruppen von Fulbe, Diakhanké und Bassari. Koundara ist das Tor zum Nationalpark Niokolo-Koba im Senegal, was ihm ein gewisses touristisches Potenzial verleiht. Die Wirtschaft wird von der Landwirtschaft, insbesondere dem Anbau von Baumwolle und Erdnüssen, sowie vom Handel dominiert. Die Stadt ist bekannt für ihren lebhaften Wochenmarkt. Geographie K8 – Grenzüberschreitender Handel und ethnische Vielfalt.",
+      "descriptionAdvancedHu": "Koundara Guinea legészaknyugati részén fekszik, közel a szenegáli határhoz. A város fontos kereskedelmi csomópont, különösen a határokon átnyúló kereskedelem szempontjából. A lakosság etnikailag sokszínű, nagy számban élnek itt fulbék, diakhankék és basszarik. Koundara a szenegáli Niokolo-Koba Nemzeti Park kapuja, ami bizonyos turisztikai potenciált ad neki. A gazdaságot a mezőgazdaság, különösen a gyapot- és földimogyoró-termesztés, valamint a kereskedelem uralja. A város híres élénk heti piacáról. Földrajz K8 – Határokon átnyúló kereskedelem és etnikai sokszínűség.",
+      "descriptionAdvancedRo": "Koundara este situat în extremitatea de nord-vest a Guineei, aproape de granița cu Senegal. Orașul este un nod comercial important, în special pentru comerțul transfrontalier. Populația este diversă din punct de vedere etnic, cu grupuri mari de Fulani, Diakhanké și Bassari. Koundara este poarta de acces către Parcul Național Niokolo-Koba din Senegal, ceea ce îi conferă un anumit potențial turistic. Economia este dominată de agricultură, în special de cultivarea bumbacului și a alunelor, precum și de comerț. Orașul este cunoscut pentru piața sa săptămânală plină de viață. Geografie K8 – Comerț transfrontalier și diversitate etnică.",
+      "descriptionAdvancedEn": "Koundara is located in the far northwest of Guinea, near the border with Senegal. The city is an important trade hub, especially for cross-border trade. The population is ethnically diverse, with large groups of Fulani, Diakhanké, and Bassari. Koundara is the gateway to the Niokolo-Koba National Park in Senegal, which gives it some tourist potential. The economy is dominated by agriculture, especially the cultivation of cotton and peanuts, as well as trade. The city is known for its lively weekly market. Geography K8 – Cross-border trade and ethnic diversity.",
+      "factsAdvanced": [
+        "Északnyugat-Guineában található, a szenegáli határ közelében.",
+        "Fontos határátkelőhely és kereskedelmi központ Szenegál felé.",
+        "A Koundara prefektúra közigazgatási központja.",
+        "A lakosság etnikailag rendkívül sokszínű.",
+        "A közeli Niokolo-Koba Nemzeti Park (Szenegál) kapuja.",
+        "A gyapottermesztés fontos központja.",
+        "A város lakossága körülbelül 27 000 fő.",
+        "Híres a nagy, hetente megrendezett piacáról, amely vonzza a kereskedőket a határon túlról is."
+      ]
+    },
+    {
+      "id": "lelouma-cities-v2",
+      "descriptionAdvancedDe": "Lélouma ist eine kleine Stadt im Fouta-Djallon-Hochland. Sie ist das Zentrum einer landwirtschaftlich geprägten Präfektur, die für den Anbau von Kartoffeln und Zwiebeln bekannt ist, welche in das ganze Land exportiert werden. Die Landschaft ist von beeindruckenden Felsformationen und Wasserfällen geprägt. Die Stadt selbst hat einen ruhigen, ländlichen Charakter. Die Fulbe-Traditionen sind hier sehr lebendig und spielen eine wichtige Rolle im täglichen Leben. Die Moschee von Lélouma ist ein wichtiges religiöses Zentrum für die Region. Geographie K7 – Hochlandagrarwirtschaft und traditionelle Kultur.",
+      "descriptionAdvancedHu": "Lélouma egy kisváros a Fouta-Djallon-felföldön. Egy mezőgazdasági jellegű prefektúra központja, amely a burgonya- és vöröshagyma-termesztéséről ismert, és ezeket az egész országba exportálják. A tájat lenyűgöző sziklaalakzatok és vízesések jellemzik. Maga a város csendes, vidéki jellegű. A fulbe hagyományok itt nagyon élénkek, és fontos szerepet játszanak a mindennapi életben. A Lélouma-i mecset fontos vallási központ a régió számára. Földrajz K7 – Felföldi agrárgazdálkodás és hagyományos kultúra.",
+      "descriptionAdvancedRo": "Lélouma este un mic oraș din podișul Fouta Djallon. Este centrul unei prefecturi agricole, cunoscută pentru cultivarea cartofilor și a cepei, care sunt exportate în întreaga țară. Peisajul este caracterizat de formațiuni stâncoase impresionante și cascade. Orașul în sine are un caracter liniștit, rural. Tradițiile Fulani sunt foarte vii aici și joacă un rol important în viața de zi cu zi. Moscheea din Lélouma este un centru religios important pentru regiune. Geografie K7 – Agricultură montană și cultură tradițională.",
+      "descriptionAdvancedEn": "Lélouma is a small town in the Fouta Djallon highlands. It is the center of an agricultural prefecture known for growing potatoes and onions, which are exported throughout the country. The landscape is characterized by impressive rock formations and waterfalls. The town itself has a quiet, rural character. The Fulani traditions are very much alive here and play an important role in daily life. The mosque of Lélouma is an important religious center for the region. Geography K7 – Highland agriculture and traditional culture.",
+      "factsAdvanced": [
+        "A Fouta Djallon szívében található, Labé közelében.",
+        "A Lélouma prefektúra közigazgatási székhelye.",
+        "Híres a kiváló minőségű burgonya és hagyma termesztéséről.",
+        "A tájat lenyűgöző homokkő-képződmények és vízesések jellemzik.",
+        "A Fulbe kultúra egyik fontos központja.",
+        "A város lakossága körülbelül 15 000 fő.",
+        "A helyi gazdaság erősen a mezőgazdaságra támaszkodik.",
+        "A régióban számos barlang található, amelyek történelmi jelentőséggel bírnak."
+      ]
+    },
+    {
+      "id": "lola-cities-v2",
+      "descriptionAdvancedDe": "Lola liegt im äußersten Südosten Guineas, im Dreiländereck mit Liberia und der Elfenbeinküste. Die Stadt ist das Tor zum Mount Nimba Strict Nature Reserve, einem UNESCO-Weltkulturerbe, das für seine einzigartige Biodiversität bekannt ist. In der Region leben seltene Arten wie der Zwergflusspferd und eine besondere Art von Schimpansen, die Werkzeuge benutzen. Die Stadt selbst ist ein Verwaltungszentrum und Markt für die umliegenden landwirtschaftlichen Gemeinden. Die Nähe zu den Konfliktregionen in Liberia und der Elfenbeinküste hat die Stadt in der Vergangenheit stark beeinflusst. Geographie K8 – Biodiversitätsschutz und Grenzkonflikte.",
+      "descriptionAdvancedHu": "Lola Guinea legdélkeletibb részén, a Libériával és Elefántcsontparttal közös hármas határnál fekszik. A város a Mount Nimba Szigorú Természetvédelmi Terület kapuja, amely az UNESCO világörökség része és egyedülálló biodiverzitásáról ismert. A régióban ritka fajok élnek, mint például a törpe víziló és egy különleges, szerszámokat használó csimpánzfajta. Maga a város közigazgatási központ és piac a környező mezőgazdasági közösségek számára. A libériai és elefántcsontparti konfliktusövezetek közelsége a múltban erősen befolyásolta a várost. Földrajz K8 – Biodiverzitás-védelem és határ menti konfliktusok.",
+      "descriptionAdvancedRo": "Lola este situată în extremitatea de sud-est a Guineei, la granița triplă cu Liberia și Coasta de Fildeș. Orașul este poarta de acces către Rezervația Naturală Strictă Muntele Nimba, un sit al Patrimoniului Mondial UNESCO, cunoscut pentru biodiversitatea sa unică. Regiunea găzduiește specii rare, cum ar fi hipopotamul pitic și o specie specială de cimpanzei care folosesc unelte. Orașul însuși este un centru administrativ și o piață pentru comunitățile agricole din jur. Apropierea de regiunile de conflict din Liberia și Coasta de Fildeș a influențat puternic orașul în trecut. Geografie K8 – Conservarea biodiversității și conflicte de frontieră.",
+      "descriptionAdvancedEn": "Lola is located in the extreme southeast of Guinea, at the tri-border with Liberia and Côte d'Ivoire. The city is the gateway to the Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site known for its unique biodiversity. The region is home to rare species such as the pygmy hippopotamus and a special species of chimpanzee that uses tools. The city itself is an administrative center and market for the surrounding agricultural communities. The proximity to the conflict regions in Liberia and Côte d'Ivoire has strongly influenced the city in the past. Geography K8 – Biodiversity conservation and border conflicts.",
+      "factsAdvanced": [
+        "A hármas határ közelében található (Guinea, Libéria, Elefántcsontpart).",
+        "A Mount Nimba Szigorú Természetvédelmi Terület (UNESCO Világörökség) kapuja.",
+        "A Lola prefektúra közigazgatási központja.",
+        "A régió híres a különleges, szerszámhasználó csimpánzairól.",
+        "A környező erdőkben él a veszélyeztetett törpe víziló.",
+        "A város lakossága körülbelül 27 000 fő.",
+        "A helyi gazdaság a mezőgazdaságra és a természetvédelmi turizmusra épül.",
+        "A régióban a Kpelle és a Manon népek élnek."
+      ]
+    },
+    {
+      "id": "mali-cities-v2",
+      "descriptionAdvancedDe": "Mali, nicht zu verwechseln mit dem Nachbarland, ist die höchstgelegene Stadt Guineas und liegt auf über 1.300 Metern im Fouta-Djallon-Hochland. Sie ist bekannt für ihr kühles Klima und die atemberaubende Landschaft, einschließlich des Mount Loura mit seiner berühmten Felsformation 'Dame de Mali'. Die Stadt ist das Zentrum der Präfektur Mali und ein wichtiger Markt für landwirtschaftliche Produkte aus der Region, insbesondere Kartoffeln. Die Fulbe-Kultur ist hier tief verwurzelt. Die abgelegene Lage und die anspruchsvolle Topographie machen die Region zu einem einzigartigen, aber schwer zugänglichen Teil des Landes. Geographie K7 – Hochgebirgsstädte und Naturdenkmäler.",
+      "descriptionAdvancedHu": "Mali, nem tévesztendő össze a szomszédos országgal, Guinea legmagasabban fekvő városa, több mint 1300 méterrel a tengerszint felett, a Fouta-Djallon-felföldön. Hűvös éghajlatáról és lélegzetelállító tájáról ismert, beleértve a Loura-hegyet a híres 'Dame de Mali' sziklaalakzatával. A város a Mali prefektúra központja és a régióból származó mezőgazdasági termékek, különösen a burgonya fontos piaca. A fulbe kultúra mélyen gyökerezik itt. Az elszigetelt fekvés és a kihívást jelentő domborzat az ország egyedülálló, de nehezen megközelíthető részévé teszi a régiót. Földrajz K7 – Magashegyi városok és természeti emlékek.",
+      "descriptionAdvancedRo": "Mali, a nu se confunda cu țara vecină, este cel mai înalt oraș din Guineea, situat la peste 1.300 de metri în podișul Fouta Djallon. Este cunoscut pentru clima sa răcoroasă și peisajul său uluitor, inclusiv Muntele Loura cu faimoasa sa formațiune stâncoasă 'Doamna din Mali'. Orașul este centrul prefecturii Mali și o piață importantă pentru produsele agricole din regiune, în special cartofii. Cultura Fulani este adânc înrădăcinată aici. Locația sa izolată și topografia dificilă fac din regiune o parte unică, dar greu accesibilă a țării. Geografie K7 – Orașe montane și monumente naturale.",
+      "descriptionAdvancedEn": "Not to be confused with the neighboring country, Mali is the highest town in Guinea, located at over 1,300 meters in the Fouta Djallon highlands. It is known for its cool climate and breathtaking scenery, including Mount Loura with its famous 'Lady of Mali' rock formation. The city is the center of the Mali Prefecture and an important market for agricultural products from the region, especially potatoes. The Fulani culture is deeply rooted here. Its remote location and challenging topography make the region a unique but difficult to access part of the country. Geography K7 – High-altitude towns and natural monuments.",
+      "factsAdvanced": [
+        "Guinea legmagasabban fekvő városa (több mint 1300 m).",
+        "A Fouta Djallon-hegység szívében található.",
+        "Híres a 'Dame de Mali' (Mali hölgye) nevű természetes sziklaképződményről.",
+        "A Mali prefektúra közigazgatási központja.",
+        "Jelentős burgonya- és zöldségtermesztő terület.",
+        "A lakosság túlnyomórészt a Fulbe (Peul) népcsoporthoz tartozik.",
+        "A hűvös éghajlat egyedülálló Guineában.",
+        "Potenciális célpontja a hegyi és ökoturizmusnak."
+      ]
+    }
+  ]
+}

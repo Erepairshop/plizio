@@ -1,0 +1,19 @@
+{
+  "lang": "ro",
+  "country": "Saotomeandprincipe",
+  "files": [
+    "lib/visualLab/data/poiExtraSaotomeandprincipeNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ilheu-das-rolas-nature-v2",
+      "description": "Insula Ilhéu das Rolas este un punct geografic remarcabil situat chiar pe linia Ecuatorului, în sudul insulei principale São Tomé. Este o rezervație naturală deosebită, cunoscută pentru biodiversitatea sa marină și terestră.",
+      "facts": [
+        "Situată exact pe linia Ecuatorului",
+        "Suprafață de aproximativ 1,5 km²",
+        "Parte din arhipelagul São Tomé și Príncipe",
+        "Biodiversitate tropicală bogată"
+      ]
+    }
+  ]
+}

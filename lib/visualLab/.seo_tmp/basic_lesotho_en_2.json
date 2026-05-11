@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "letseng-la-terae-cities-v2",
+      "description": "Situated at high altitude in the Mokhotlong District, this area is famous for its diamond mines. It represents one of the highest altitude diamond extraction sites globally.",
+      "facts": ["Mokhotlong District", "High altitude mine", "Diamond industry", "Extreme terrain"]
+    },
+    {
+      "id": "mantsonyane-cities-v2",
+      "description": "A remote mountain settlement in the Thaba-Tseka District, serving as a gateway to deep mountain interior routes.",
+      "facts": ["Thaba-Tseka District", "Mountain interior", "Remote location", "Scenic access point"]
+    },
+    {
+      "id": "ha-baroana-cities-v2",
+      "description": "Known for the Ha Baroana rock art site, which provides a glimpse into the region's ancient history through San paintings.",
+      "facts": ["Ancient rock art", "San paintings site", "Historical landmark", "Maseru District"]
+    },
+    {
+      "id": "ha-moitsupeli-cities-v2",
+      "description": "A small, quiet rural hamlet in the mountain highlands, reflecting the simple agrarian life of the local inhabitants.",
+      "facts": ["Mountain highlands", "Agrarian community", "Quiet rural life", "Remote settlement"]
+    },
+    {
+      "id": "marakabei-cities-v2",
+      "description": "Located in a mountainous area often used as a stopover for travelers navigating the challenging terrain towards the interior.",
+      "facts": ["Mountainous stopover", "Challenging terrain", "Transit point", "High altitude"]
+    },
+    {
+      "id": "ha-kome-cities-v2",
+      "description": "Famous for the Kome Caves, where historic dwellings are built directly into the rock face to protect against historical conflicts.",
+      "facts": ["Historic Kome Caves", "Cave dwellings", "Cultural landmark", "Berea District"]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "description": "A village settlement that acts as an important point for accessing various trekking and adventure routes in the highlands.",
+      "facts": ["Highland village", "Trekking hub", "Adventure access", "Mountain path"]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "description": "A rural settlement in the southern lowlands, deeply engaged in subsistence farming and local communal living.",
+      "facts": ["Southern lowlands", "Subsistence farming", "Rural settlement", "Communal living"]
+    },
+    {
+      "id": "tele-cities-v2",
+      "description": "A border settlement located by the Tele River, which marks part of the frontier between Lesotho and South Africa.",
+      "facts": ["Border settlement", "Tele River site", "Southern frontier", "Trade point"]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "description": "A mountain village community in the Qacha's Nek District, providing support for local agrarian life.",
+      "facts": ["Qacha's Nek District", "Mountain village", "Agrarian life", "Rural support"]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "description": "A small community nestled in the rolling hills of the central districts, focusing on livestock keeping and farming.",
+      "facts": ["Central districts", "Rolling hills", "Livestock farming", "Small community"]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "description": "A remote mountain settlement located in the Thaba-Tseka District, known for its rugged and pristine natural surroundings.",
+      "facts": ["Thaba-Tseka District", "Remote mountain site", "Pristine nature", "Rugged landscape"]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "description": "A small mountain settlement, providing a look at traditional life in the high-altitude areas of Lesotho.",
+      "facts": ["Mountain settlement", "High-altitude life", "Traditional community", "Remote area"]
+    }
+  ]
+}

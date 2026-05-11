@@ -1,0 +1,129 @@
+{
+  "lang": "hu",
+  "country": "Haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haiti-mairie-cap-haitien-landmarks-v2",
+      "description": "Cap-Haïtien városházája, egy impozáns történelmi épület, amely a város közigazgatási szívében található.",
+      "facts": [
+        "Neoklasszicista stílusjegyek",
+        "A városi tanács székhelye",
+        "Központi elhelyezkedés",
+        "Fontos hivatali épület"
+      ]
+    },
+    {
+      "id": "haiti-fort-bousquet-landmarks-v2",
+      "description": "A hegyekben megbújó erődítmény, amely a XIX. század eleji haiti védelmi stratégia részét képezte.",
+      "facts": [
+        "A belső védelmi vonal része",
+        "Kőből faragott falak",
+        "Történelmi ágyúállások",
+        "Lenyűgöző panoráma"
+      ]
+    },
+    {
+      "id": "haiti-hotel-oleander-landmarks-v2",
+      "description": "Egy patinás történelmi épületben működő szálloda, amely a haiti vendégszeretet és építészet ötvözete.",
+      "facts": [
+        "Gyarmati korú épület",
+        "Hagyományos belső udvar",
+        "Kulturális találkozóhely",
+        "Trópusi kert övezi"
+      ]
+    },
+    {
+      "id": "haiti-place-bover-landmarks-v2",
+      "description": "Hangulatos városi tér, amely pihenőhelyként és a helyi közösség találkozópontjaként szolgál.",
+      "facts": [
+        "Városi zöldövezet",
+        "Emlékművekkel díszített",
+        "Árnyas sétányok",
+        "Helyi árusok jelenléte"
+      ]
+    },
+    {
+      "id": "haiti-fort-du-grand-riviere-landmarks-v2",
+      "description": "Az északi régió egyik jelentős erődje, amely a Grande Rivière du Nord folyó völgyét tartotta szemmel.",
+      "facts": [
+        "Strategikus folyóparti fekvés",
+        "Katonai megfigyelőpont",
+        "XIX. századi építmény",
+        "A forradalmi harcok tanúja"
+      ]
+    },
+    {
+      "id": "haiti-gare-maritime-cayes-landmarks-v2",
+      "description": "Les Cayes városának tengeri terminálja, amely a déli partvidék és a környező szigetek közötti forgalmat bonyolítja.",
+      "facts": [
+        "Modernizált kikötői épület",
+        "Kompjáratok indítóhelye",
+        "Élénk kereskedelmi forgalom",
+        "Fontos közlekedési kapu"
+      ]
+    },
+    {
+      "id": "haiti-lycee-philippe-guerrier-landmarks-v2",
+      "description": "Haiti egyik legrégebbi és legnevesebb középiskolája Cap-Haïtienben, amely számos híres politikust nevelt ki.",
+      "facts": [
+        "Történelmi oktatási intézmény",
+        "Philippe Guerrier elnökről nevezték el",
+        "Klasszikus építészeti stílus",
+        "Akadémiai kiválósági központ"
+      ]
+    },
+    {
+      "id": "haiti-fort-biche-landmarks-v2",
+      "description": "Egy kisebb, de stratégiailag fontos dombtetőn álló erődítmény az ország védelmi hálózatában.",
+      "facts": [
+        "Kör alakú bástyák",
+        "Masszív mészkő alapok",
+        "Tüzérségi maradványok",
+        "Kilátás a környező völgyekre"
+      ]
+    },
+    {
+      "id": "haiti-place-bowen-landmarks-v2",
+      "description": "Közösségi tér, amely fontos szerepet játszik a városi rendezvényekben és a mindennapi életben.",
+      "facts": [
+        "Padokkal övezett sétányok",
+        "Városi találkozóhely",
+        "Központi szobor",
+        "Esti kivilágítás"
+      ]
+    },
+    {
+      "id": "haiti-maison-dufresne-landmarks-v2",
+      "description": "Egy gyönyörűen megőrzött 'mézeskalács' stílusú villa, amely a XX. század eleji haiti elit életmódját tükrözi.",
+      "facts": [
+        "Gingerbread építészeti stílus",
+        "Díszes fafaragások",
+        "Tágas verandák",
+        "Kulturális műemlék"
+      ]
+    },
+    {
+      "id": "haiti-fort-bel-air-landmarks-v2",
+      "description": "Port-au-Prince fölé magasodó erődítmény, amely kiváló stratégiai pontot biztosított a főváros védelméhez.",
+      "facts": [
+        "Panorámás kilátás az öbölre",
+        "A forradalom idején épült",
+        "Katonai táborhely volt",
+        "Védelmi falmaradványok"
+      ]
+    },
+    {
+      "id": "haiti-kiosque-occitant-landmarks-v2",
+      "description": "Hagyományos zenepavilon egy központi parkban, ahol gyakran tartanak szabadtéri koncerteket és előadásokat.",
+      "facts": [
+        "Klasszikus kovácsoltvas szerkezet",
+        "Kulturális programok helyszíne",
+        "Parki látványosság",
+        "A közösségi zene bázisa"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lola-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Lola ist die Hauptstadt der gleichnamigen Präfektur im Südosten Guineas, tief in der Region Guinée Forestière gelegen. Die Stadt befindet sich in unmittelbarer Nähe zum majestätischen Nimba-Massiv, das als UNESCO-Welterbe anerkannt ist. Aufgrund ihrer Lage an der Grenze zu Liberia und der Elfenbeinküste fungiert Lola als ein dynamisches Zentrum für den grenzüberschreitenden Handel und kulturellen Austausch. Die geografische Umgebung ist geprägt von dichten tropischen Regenwäldern und einer außergewöhnlichen Biodiversität. Wirtschaftlich stützt sich die Region auf den Anbau von Exportgütern wie Kaffee, Kakao und Kautschuk, während der lokale Markt von Subsistenzkulturen wie Reis und Maniok dominiert wird. Die Bevölkerung setzt sich vorwiegend aus den Ethnien der Guerzé und Mano zusammen, deren traditionelle Riten und Maskentänze tief in der lokalen Kultur verwurzelt sind. In den letzten Jahren hat die Bedeutung der Stadt durch die geplante Erschließung der Erzvorkommen im Nimba-Gebirge zugenommen, was sowohl wirtschaftliche Chancen als auch ökologische Herausforderungen mit sich bringt. Das Klima ist tropisch-feucht mit ausgiebigen Regenfällen, die die üppige Vegetation der Region speisen.",
+        "hu": "Lola városa Guinea délkeleti részén, az Erdős-Guinea régióban található, és az azonos nevű prefektúra székhelye. A település stratégiai elhelyezkedése – közel a libériai és az elefántcsontparti határhoz – fontos kereskedelmi kapuvá teszi a térségben. Lola legfőbb földrajzi jellegzetessége a Nimba-hegység közelsége, amely az UNESCO világörökség része, és Nyugat-Afrika egyik legmagasabb pontja. A város környékét sűrű trópusi erdők és változatos élővilág jellemzi, ami meghatározza a helyi gazdaságot is. A lakosság főként kávé-, kakaó- és gumifa-ültetvényeken dolgozik, amelyek a régió exportbevételeinek gerincét adják. Emellett a rizs- és maniókatermesztés biztosítja a helyi élelmiszerellátást. Kulturálisan Lola a kuerze (guerzé) és a mano népcsoportok hazája, akik híresek gazdag spirituális hagyományaikról és egyedi maszkos szertartásaikról. A város modern fejlődését nagyban befolyásolja a közeli hegyekben található vasérckincs tervezett kitermelése, amely új infrastrukturális beruházásokat vonz a térségbe. Az éghajlat párás és csapadékos, ami kedvez a buja növényzetnek és a mezőgazdaságnak.",
+        "ro": "Lola este reședința prefecturii omonime situată în sud-estul Guineei, în inima regiunii Guinée Forestière. Orașul ocupă o poziție strategică în proximitatea frontierelor cu Liberia și Coasta de Fildeș, fiind un centru vital pentru schimburile comerciale transfrontaliere. Din punct de vedere geografic, Lola este poarta de acces către masivul Nimba, sit aflat în patrimoniul mondial UNESCO, cunoscut pentru biodiversitatea sa unică și peisajele montane spectaculoase. Economia locală este profund ancorată în agricultură, regiunea fiind un producător major de cafea, cacao și cauciuc natural. Aceste culturi de export sunt completate de producția locală de orez și igname, esențiale pentru securitatea alimentară a zonei. Populația este formată în principal din grupurile etnice Guerzé și Mano, ale căror tradiții ancestrale și ritualuri cu măști sunt recunoscute la nivel național. Dezvoltarea orașului este strâns legată de potențialul minier al munților Nimba, care atrage atenția investitorilor internaționali pentru exploatarea minereului de fier. Clima tropicală umedă asigură precipitații abundente, menținând pădurile tropicale dense care înconjoară orașul.",
+        "en": "Lola is the administrative capital of its namesake prefecture, located in the southeastern corner of Guinea within the Forested Guinea region. The town is strategically positioned near the borders of Liberia and Ivory Coast, making it a bustling hub for cross-border trade and cultural interaction. Geographically, Lola is best known as the gateway to the Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site famous for its unique flora and fauna and high-altitude grasslands. The regional economy is driven by the cultivation of commercial crops such as coffee, cocoa, and rubber, which are the main exports of the area. Additionally, subsistence farming of rice and cassava sustains the local population. Culturally, Lola is home to the Guerzé and Mano peoples, who maintain vibrant traditions, including complex initiation rites and masked dances. The town's future is increasingly linked to the large-scale iron ore deposits found in the nearby mountains, which promise significant infrastructure development. The climate is tropical and humid, characterized by heavy seasonal rains that support the dense rainforests defining the landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Lola ist die am nächsten gelegene Stadt zum UNESCO-Welterbe Nimba-Berge.",
+          "Die Stadt dient als Dreiländereck-Handelsplatz zwischen Guinea, Liberia und der Elfenbeinküste.",
+          "Kaffee-, Kakao- und Kautschukplantagen dominieren die lokale Wirtschaft.",
+          "Lola ist das Hauptsiedlungsgebiet der Ethnien Guerzé (Kpelle) und Mano.",
+          "Die Stadt liegt auf einer durchschnittlichen Höhe von etwa 450 bis 500 Metern.",
+          "Lola ist ein zentraler logistischer Punkt für den geplanten Simandou-Nimba-Bergbaukorridor."
+        ],
+        "hu": [
+          "Lola a legközelebbi város az UNESCO világörökségi listáján szereplő Nimba-hegységhez.",
+          "Fontos kereskedelmi csomópont Guinea, Libéria és Elefántcsontpart között.",
+          "A helyi gazdaságot a kávé-, kakaó- és gumiültetvények határozzák meg.",
+          "A település a kuerze (guerzé) és a mano népcsoportok egyik legfőbb központja.",
+          "A város tengerszint feletti magassága körülbelül 450-500 méter.",
+          "Stratégiai szerepet játszik a térség tervezett bányászati és vasúti fejlesztéseiben."
+        ],
+        "ro": [
+          "Lola este cea mai apropiată localitate importantă de Rezervația Naturală Integrală Muntele Nimba.",
+          "Orașul funcționează ca un punct de tranzit comercial între Guineea, Liberia și Coasta de Fildeș.",
+          "Economia este susținută majoritar de plantațiile de cafea, cacao și hevea (cauciuc).",
+          "Este un centru cultural major pentru populațiile Guerzé și Mano.",
+          "Lola este situată la o altitudine de aproximativ 450 de metri peste nivelul mării.",
+          "Regiunea este vizată pentru proiecte majore de infrastructură feroviară și minieră."
+        ],
+        "en": [
+          "Lola is the closest major town to the Mount Nimba UNESCO World Heritage site.",
+          "It serves as a tri-border trade hub between Guinea, Liberia, and Ivory Coast.",
+          "The local economy is dominated by coffee, cocoa, and rubber plantations.",
+          "It is the primary settlement of the Guerzé (Kpelle) and Mano ethnic groups.",
+          "The town is situated at an elevation of approximately 450-500 meters.",
+          "Lola is a key logistical point for the proposed Simandou-Nimba mining corridor."
+        ]
+      }
+    },
+    {
+      "id": "mali-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mali, oft zur Unterscheidung vom Nachbarland als Mali-ville oder Mali-Yembering bezeichnet, ist die höchstgelegene Stadt Guineas und liegt im Norden des Fouta-Djallon-Hochlandes. Die Stadt ist berühmt für ihr außergewöhnliches Klima, das durch die kühle Bergluft und im Winter sogar durch Bodenfrost geprägt sein kann – eine Seltenheit in Westafrika. Das Wahrzeichen der Region ist der Mount Loura, der höchste Punkt des Fouta Djallon, an dessen Hängen sich die markante Felsformation „Dame du Mali“ befindet, die durch Erosion die Gestalt eines weiblichen Gesichts angenommen hat. Geografisch ist die Region durch zerklüftete Plateaus und tiefe Schluchten geprägt, die einen atemberaubenden Blick auf die senegalesischen Ebenen im Norden bieten. Wirtschaftlich ist Mali ein Zentrum für den Anbau von Kartoffeln und Zwiebeln sowie für die Rinderzucht der Peul-Bevölkerung. Aufgrund der Isolation war die Stadt lange Zeit ein Rückzugsort für Gelehrte und Bewahrer der islamischen Traditionen des Fouta Djallon. Die Architektur ist durch die Anpassung an das kühle Klima geprägt, und die Stadt dient heute als Ausgangspunkt für Ökotourismus und Wanderungen in der unberührten Bergwelt.",
+        "hu": "Mali városa, amelyet gyakran Mali-Yemberingnek is neveznek, Guinea legmagasabban fekvő települése, a Fouta Djallon-hegység északi részén. A város híres egyedülálló, hűvös hegyvidéki éghajlatáról, amely éles ellentétben áll Guinea tengerparti vidékeinek forróságával; télen a hőmérséklet itt megközelítheti a fagypontot. A település legfőbb látványossága a közeli Loura-hegy, amely a hegység legmagasabb csúcsa, és ahol a híres „Mali asszonya” (Dame du Mali) nevű sziklaképződmény található, amely egy női arc profilját formázza. Gazdaságilag Mali a térség kertészeti központja: az itt termelt burgonya és hagyma az egész országban, sőt a szomszédos Szenegálban is keresett árucikk. Az állattenyésztés, különösen a szarvasmarha-tartás, szintén meghatározó a helyi fula (peul) lakosság körében. A város kulturális jelentőségét az iszlám oktatásban betöltött szerepe és a hegyi emberek vendégszeretete adja. Elszigetelt fekvése ellenére Mali egyre népszerűbb a túrázók és a természetkedvelők körében, akik a lenyűgöző panoráma és a tiszta hegyi levegő miatt látogatnak ide.",
+        "ro": "Mali, cunoscut și sub numele de Mali-Yembering pentru a-l distinge de statul vecin, este orașul situat la cea mai mare altitudine din Guineea, în nordul masivului Fouta Djallon. Orașul este celebru pentru climatul său temperat, care poate deveni surprinzător de rece în timpul nopților de iarnă, oferind un contrast puternic cu zonele joase tropicale ale țării. Punctul de reper principal al regiunii este Muntele Loura, cel mai înalt vârf din Fouta Djallon, unde se află faimoasa formațiune stâncoasă „Doamna din Mali”, sculptată de eroziune sub forma unui chip feminin. Geografia zonei este marcată de platouri stâncoase și priveliști vaste care se întind până în Senegal. Din punct de vedere economic, Mali este un centru agricol vital, specializat în cultivarea cartofilor și a cepei, produse care sunt exportate în întreaga regiune. Creșterea bovinelor reprezintă o altă componentă esențială a economiei locale pentru populația Fula. Orașul păstrează o atmosferă de tradiție, fiind un centru de învățare islamică. Potențialul turistic este ridicat datorită peisajelor montane virgine și a traseelor de drumeție.",
+        "en": "Mali, often called Mali-ville or Mali-Yembering to distinguish it from the neighboring country, is the highest-altitude town in Guinea, located in the northern reaches of the Fouta Djallon highlands. It is renowned for its unique temperate climate; during the winter months, temperatures can drop significantly, making it the coolest place in West Africa. The region's crown jewel is Mount Loura, the highest peak of the Fouta Djallon, featuring the \"Lady of Mali,\" a natural rock formation shaped like a woman's profile created by centuries of wind erosion. Geographically, the area is defined by dramatic cliffs and rugged plateaus offering sweeping views into Senegal to the north. Economically, Mali serves as a major agricultural hub, famous for its potato and onion production, which supplies markets across Guinea and neighboring countries. Livestock farming, particularly N'Dama cattle, is central to the livelihoods of the local Fula people. The town remains an important center for Islamic scholarship and traditional culture, making it an increasingly popular destination for eco-tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mali ist die am höchsten gelegene Stadt Guineas auf über 1400 Metern Höhe.",
+          "Der nahegelegene Mount Loura ist mit 1515 Metern der höchste Punkt des Fouta Djallon.",
+          "Die „Dame du Mali“ ist eine weltberühmte natürliche Felsformation in der Nähe der Stadt.",
+          "Die Region ist Guineas wichtigstes Anbaugebiet für Kartoffeln und Zwiebeln.",
+          "Mali ist bekannt für die kältesten gemessenen Temperaturen des Landes.",
+          "Die Stadt ist ein wichtiger Grenzort für den Handel mit dem Senegal."
+        ],
+        "hu": [
+          "Mali Guinea legmagasabban fekvő városa, több mint 1400 méterrel a tengerszint felett.",
+          "A közeli Loura-hegy 1515 méterével a Fouta Djallon-hegység legmagasabb pontja.",
+          "A „Dame du Mali” egy világhírű természetes sziklaképződmény a város közelében.",
+          "A régió Guinea első számú burgonya- és hagymatermelő vidéke.",
+          "Itt mérték az ország történetének legalacsonyabb hőmérsékleti értékeit.",
+          "A város fontos kapu a Szenegál felé tartó utazók és kereskedők számára."
+        ],
+        "ro": [
+          "Mali este cel mai înalt oraș din Guineea, situat la o altitudine de peste 1400 de metri.",
+          "Muntele Loura din apropiere este cel mai înalt punct din Fouta Djallon (1515 m).",
+          "„Doamna din Mali” este o formațiune stâncoasă naturală faimoasă în întreaga lume.",
+          "Regiunea este principalul centru de cultivare a cartofilor și cepei din Guineea.",
+          "Mali înregistrează cele mai scăzute temperaturi din întreaga țară.",
+          "Orașul servește drept punct strategic pentru comerțul cu Senegalul."
+        ],
+        "en": [
+          "Mali is the highest town in Guinea, situated at an altitude of over 1,400 meters.",
+          "Mount Loura, nearby, is the highest point in the Fouta Djallon range at 1,515 meters.",
+          "The \"Dame du Mali\" is a world-famous natural rock formation near the town.",
+          "The region is Guinea's primary center for potato and onion cultivation.",
+          "It is known for having the coldest recorded temperatures in the country.",
+          "The town is a gateway for travelers and traders heading towards the Senegalese border."
+        ]
+      }
+    },
+    {
+      "id": "mandiana-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mandiana liegt im äußersten Nordosten Guineas in der Region Kankan, nahe der Grenze zu Mali. Die Stadt ist das Verwaltungszentrum der gleichnamigen Präfektur und liegt in einer Landschaft, die durch die weiten Ebenen der Oberguinea-Savanne und die Flusssysteme des Milo und Sankarani geprägt ist. Die geografische Lage macht Mandiana zu einem strategisch wichtigen Ort für den Handel zwischen Guinea und dem Sahel. Wirtschaftlich ist die Region von zwei Hauptpfeilern geprägt: der Landwirtschaft und dem Goldbergbau. Mandiana liegt im goldreichen Siguiri-Becken, und sowohl der handwerkliche Goldabbau als auch moderne Explorationsprojekte spielen eine entscheidende Rolle für die lokale Ökonomie. Die Landwirte der Region produzieren große Mengen an Reis, Mais und Erdnüssen, während die Viehzucht in den weiten Savannen weit verbreitet ist. Kulturell ist Mandiana eine Hochburg der Malinké-Kultur, in der die Traditionen der Jägerbruderschaften (Donsow) und die Musik der Griots noch immer sehr lebendig sind. Die Stadt ist zudem für ihre Fischereiressourcen im Sankarani-Fluss bekannt, der auch als wichtige Transportader dient.",
+        "hu": "Mandiana városa Guinea északkeleti csücskében, a Kankan régióban található, a mali határ közvetlen közelében. A település a felső-guineai szavannák vidékén fekszik, ott, ahol a Milo és a Sankarani folyók határozzák meg a táj képét és a lakosság életmódját. Mandiana stratégiai kereskedelmi csomópont a Guinea és Mali közötti áruforgalomban. Gazdaságának egyik legfontosabb ágazata az aranybányászat: a környék a Siguiri-medence aranyban gazdag övezetéhez tartozik, ahol a hagyományos aranymosás és az ipari kutatás egyaránt jelen van. A mezőgazdaság terén a rizstermesztés és a szarvasmarha-tartás a legjelentősebb, köszönhetően a folyók menti termékeny öntésterületeknek. A lakosság túlnyomó többsége malinké nemzetiségű, így a város a mandingó hagyományok, különösen a donszo (vadász) társaságok és a griot énekesek egyik fontos központja. A Sankarani-folyón zajló halászat szintén alapvető bevételi forrás az itt élőknek.",
+        "ro": "Mandiana este situat în extremitatea nord-estică a Guineei, în regiunea Kankan, aproape de granița cu Mali. Orașul serveste drept centru administrativ al prefecturii Mandiana și este amplasat într-un peisaj dominat de savanele din Guineea Superioară și de cursurile râurilor Milo și Sankarani. Această poziție geografică îl transformă într-un nod comercial esențial pentru schimburile de mărfuri cu regiunea Sahel. Economia locală se bazează pe doi piloni principali: agricultura și exploatarea aurului. Mandiana face parte din bogatul bazin aurifer Siguiri, activitățile extractive fiind omniprezente. În zonele rurale, cultivarea orezului, a porumbului și a arahidelor, împreună cu creșterea animalelor, asigură traiul majorității populației. Din punct de vedere cultural, Mandiana este un bastion al tradițiilor Malinké, unde frățiile de vânători (Donsow) și arta griotilor ocupă un loc central în viața socială. Râul Sankarani oferă resurse piscicole bogate și servește ca o cale importantă de comunicare între comunitățile locale.",
+        "en": "Mandiana is located in the far northeast of Guinea within the Kankan Region, close to the border with Mali. As the administrative center of the Mandiana Prefecture, the town is set against the backdrop of the Upper Guinea savanna and is significantly influenced by the Milo and Sankarani river systems. Its geographic position makes it a strategic trading point for commerce between Guinea and the Sahelian interior. The local economy is built on two primary sectors: agriculture and gold mining. Mandiana sits within the gold-rich Siguiri basin, where both artisanal gold washing and industrial exploration are major economic activities. Agriculture focuses on rice, maize, and peanut production, aided by the fertile plains along the riverbanks, alongside extensive cattle ranching. Culturally, Mandiana is a stronghold of Malinké traditions, where the heritage of the hunter brotherhoods (Donsow) and the music of the griots remain deeply influential. Fishing in the Sankarani River also provides a vital food source and income for the riverine communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mandiana ist ein wichtiger Grenzort für den Handel zwischen Guinea und Mali.",
+          "Die Stadt liegt in der Nähe der Mündungsgebiete der Flüsse Milo und Sankarani.",
+          "Es gehört zum goldführenden Siguiri-Becken, einer bedeutenden Bergbauzone.",
+          "Die Region ist ein wichtiger Reisproduzent für den oberguineischen Markt.",
+          "Die Stadt ist ein Zentrum für die traditionellen Malinké-Jägerbruderschaften (Donsow).",
+          "Der Fluss Sankarani bietet eine wichtige schiffbare Route für den lokalen Transport."
+        ],
+        "hu": [
+          "Mandiana kulcsfontosságú határváros a Guinea és Mali közötti kereskedelemben.",
+          "A város a Milo és a Sankarani folyók találkozási övezetének közelében fekszik.",
+          "A település a Siguiri aranytartalmú medence része, jelentős bányászati terület.",
+          "A régió Felső-Guinea egyik meghatározó rizstermelő vidéke.",
+          "Mandiana a tradicionális malinké vadásztársaságok (Donsow) egyik központja.",
+          "A Sankarani-folyó fontos vízi útvonalat biztosít a helyi szállítmányozáshoz."
+        ],
+        "ro": [
+          "Mandiana este un punct de frontieră cheie care facilitează comerțul cu Mali.",
+          "Orașul este situat aproape de confluența râurilor Milo și Sankarani.",
+          "Face parte din bazinul aurifer Siguiri, o zonă majoră de minerit artizanal.",
+          "Regiunea este un producător semnificativ de orez pentru piața Guineei Superioare.",
+          "Este un centru pentru frățiile tradiționale de vânători Malinké (Donsow).",
+          "Râul Sankarani oferă o rută navigabilă esențială pentru transportul local."
+        ],
+        "en": [
+          "Mandiana is a key border town facilitating trade between Guinea and Mali.",
+          "The town is located near the confluence areas of the Milo and Sankarani rivers.",
+          "It is part of the Siguiri gold-bearing basin, a major artisanal mining zone.",
+          "The region is a significant producer of rice for the Upper Guinea market.",
+          "It is a center for the traditional Malinké hunter brotherhoods (Donsow).",
+          "The Sankarani River provides an essential navigable route for local transport."
+        ]
+      }
+    },
+    {
+      "id": "pita-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pita ist eine der bedeutendsten Städte im zentralen Fouta-Djallon-Hochland und Verwaltungssitz der gleichnamigen Präfektur. Die Stadt liegt in einer landschaftlich reizvollen Gegend, die für ihre spektakulären Wasserfälle wie Kinkon und Kambadaga weltbekannt ist. Diese natürlichen Sehenswürdigkeiten ziehen viele Besucher an und machen Pita zu einem wichtigen Zentrum für den Tourismus in Guinea. Geografisch ist die Region durch grüne Hügel, tief eingeschnittene Täler und ein vergleichsweise mildes Klima geprägt. Wirtschaftlich ist Pita ein bedeutendes Handelszentrum für landwirtschaftliche Produkte, insbesondere für den Anbau von Gemüse und Obst, das in den kühleren Höhenlagen hervorragend gedeiht. Ein besonderes kulturelles Merkmal der Stadt ist die Herstellung des „Leppi“, eines traditionellen handgewebten Stoffes der Peul, der für seine tiefblaue Farbe geschätzt wird. Pita ist zudem ein geistiges Zentrum mit einer langen Tradition in der islamischen Gelehrsamkeit. Die Bevölkerung ist überwiegend Peul (Fula), und die Stadt bewahrt eine stolze Identität, die sich in ihrer Architektur und ihrem Handwerk widerspiegelt.",
+        "hu": "Pita városa a Fouta Djallon-hegység szívében fekszik, és Guinea egyik legkedveltebb turisztikai és kulturális célpontja. A település és környéke lenyűgöző természeti adottságokkal rendelkezik: itt találhatók az ország leghíresebb vízesései, mint a Kinkon és a Kambadaga, amelyek mély szurdokokon keresztül zúdulnak alá. A város földrajzi környezetét lankás zöld dombok és mérsékelt égövi jellegű hegyvidéki éghajlat jellemzi. Gazdaságilag Pita fontos mezőgazdasági központ, ahol a helyi gazdák kiváló minőségű zöldségeket és gyümölcsöket termesztenek a hűvösebb klímán. A város neve összeforrott a „leppi” nevű tradicionális szövött anyaggal; ez a sötétkék, kézzel készített textil a fula kultúra egyik legfontosabb jelképe, amelyet Pitalan szerte az országban nagyra értékelnek. Kulturális szempontból a város az iszlám tudományok és a hagyományos oktatás egyik fellegvára. A lakosság többsége fula nemzetiségű, akik híresek kézműves tudásukról és gazdag népköltészetükről.",
+        "ro": "Pita este unul dintre cele mai importante orașe din masivul central Fouta Djallon, servind ca reședință a prefecturii omonime. Orașul este situat într-o zonă de o frumusețe naturală rară, fiind renumit pentru cascadele sale spectaculoase, precum Kinkon și Kambadaga. Aceste atracții naturale fac din Pita un punct focal pentru ecoturismul din Guineea. Geografia regiunii este definită de coline verzi, văi adânci și un climat montan plăcut, mult mai blând decât cel din zonele de coastă. Din punct de vedere economic, Pita este un centru comercial vibrant pentru produsele agricole locale, în special pentru legumele și fructele care se dezvoltă optim la aceste altitudini. O trăsătură culturală distinctivă este producția de „Leppi”, o țesătură tradițională din bumbac, vopsită în indigo, care este un simbol al identității etniei Fula. Pita este, de asemenea, un centru de erudiție islamică, adăpostind numeroase școli coranice cu o reputație solidă. Populația, majoritar Fula, păstrează cu mândrie tradițiile meșteșugărești.",
+        "en": "Pita is one of the most prominent towns in the central Fouta Djallon highlands and serves as the administrative seat of the Pita Prefecture. The town is set in a landscape of exceptional natural beauty, world-famous for its dramatic waterfalls, such as the Kinkon and Kambadaga falls. These landmarks draw numerous visitors, making Pita a central hub for Guinea's burgeoning eco-tourism sector. Geographically, the region is characterized by rolling green hills, deep valleys, and a mild highland climate. Economically, Pita is a significant marketplace for agricultural goods, particularly temperate vegetables and fruits that thrive in the cooler mountain air. A unique cultural and economic hallmark of the town is the production of \"Leppi,\" a traditional hand-woven blue fabric of the Fula people, highly prized for its quality and intricate patterns. Pita is also a spiritual and intellectual center with a long-standing tradition of Islamic scholarship. The population is predominantly Fula, and the town maintains a strong cultural identity reflected in its architecture and crafts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pita beheimatet die Kinkon-Wasserfälle, an denen sich eines der ältesten Wasserkraftwerke Guineas befindet.",
+          "Die Stadt ist das primäre Produktionszentrum für den traditionellen gewebten Leppi-Stoff.",
+          "Es ist ein wichtiges regionales Zentrum für den Handel mit Kartoffeln und Kohl.",
+          "Die Kambadaga-Wasserfälle in der Nähe gehören zu den meistbesuchten Naturstätten des Fouta Djallon.",
+          "Pita genießt den Ruf eines bedeutenden Zentrums für islamische Gelehrsamkeit.",
+          "Das Klima der Stadt ist merklich kühler und weniger feucht als an der guineischen Küste."
+        ],
+        "hu": [
+          "Pita ad otthont a Kinkon-vízesésnek, ahol Guinea egyik legrégebbi vízerőműve működik.",
+          "A város a tradicionális „leppi” szövött anyag elsődleges gyártási központja.",
+          "Fontos regionális csomópont a burgonya, káposzta és egyéb zöldségek kereskedelmében.",
+          "A közeli Kambadaga-vízesés a Fouta Djallon egyik leglátogatottabb természeti látványossága.",
+          "Pita az iszlám oktatás és a korán-iskolák elismert központja a régióban.",
+          "A város éghajlata lényegesen hűvösebb és kevésbé párás, mint a guineai tengerparté."
+        ],
+        "ro": [
+          "Pita găzduiește Cascada Kinkon, unde se află una dintre cele mai vechi hidrocentrale din Guineea.",
+          "Orașul este centrul principal de producție pentru țesătura tradițională „Leppi”.",
+          "Este un nod regional major pentru comerțul cu cartofi, varză și alte legume.",
+          "Cascada Kambadaga din apropiere este printre cele mai vizitate situri naturale din Fouta Djallon.",
+          "Pita are reputația de a fi un centru important pentru învățământul islamic.",
+          "Climatul orașului este vizibil mai răcoros și mai puțin umed decât cel de pe coastă."
+        ],
+        "en": [
+          "Pita is home to the Kinkon Falls, which house one of Guinea's oldest hydroelectric plants.",
+          "The town is the primary production center for the traditional \"Leppi\" woven fabric.",
+          "It is a major regional hub for the trade of potatoes, cabbage, and other vegetables.",
+          "The Kambadaga Falls nearby are among the most visited natural sites in the Fouta Djallon.",
+          "Pita has a reputation as an important center for Islamic learning and Quranic schools.",
+          "The town's climate is notably cooler and less humid than the Guinean coast."
+        ]
+      }
+    },
+    {
+      "id": "tougue-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tougué liegt im nördlichen Teil Mittelguineas am Übergang zwischen dem Fouta-Djallon-Hochland und den tiefer gelegenen Ebenen. Als Hauptstadt der Präfektur Tougué dient die Stadt als wichtiges Verwaltungs- und Handelszentrum in einer Region, die für ihre raue Schönheit und ihre unerschlossenen Ressourcen bekannt ist. Geografisch ist das Gebiet durch felsige Plateaus und ausgedehnte Waldsavannen geprägt. Die Wirtschaft von Tougué basiert traditionell auf der Viehzucht und der Landwirtschaft, wobei die Region besonders für ihre hochwertige Honigproduktion und die Zucht von N'Dama-Rindern bekannt ist. In den fruchtbaren Tälern werden zudem Getreide und Erdnüsse angebaut. Tougué hat in den letzten Jahren aufgrund seiner enormen Bauxitvorkommen an strategischer Bedeutung gewonnen; die Region gilt als eines der wichtigsten Zukunftsgebiete für den guineischen Bergbau. Kulturell ist die Stadt tief in den Traditionen der Peul verwurzelt, und die lokalen Märkte sind lebendige Orte des Austauschs, an denen traditionelles Kunsthandwerk und landwirtschaftliche Erzeugnisse gehandelt werden.",
+        "hu": "Tougué városa Guinea középső-északi részén található, a Fouta Djallon-hegység és az alacsonyabb síkságok találkozásánál. A Tougué prefektúra székhelyeként a város fontos közigazgatási és kereskedelmi központ egy olyan vidéken, amely vadregényes szépségéről és kiaknázatlan természeti kincseiről ismert. Földrajzilag a területet sziklás fennsíkok és kiterjedt fás szavannák jellemzik. Tougué gazdasága hagyományosan az állattenyésztésre és a mezőgazdaságra épül: a környék különösen híres kiváló minőségű méztermeléséről és az ellenálló N'Dama szarvasmarhák tenyésztéséről. A völgyekben gabonát és földimogyorót termesztenek a helyi igények kielégítésére. Az utóbbi években Tougué stratégiai jelentősége megnőtt a térségben található hatalmas, érintetlen bauxitmezőknek köszönhetően, amelyek Guinea bányászati jövőjének egyik kulcsfontosságú területévé teszik a prefektúrát. Kulturális szempontból a város a fula hagyományok egyik őrzője.",
+        "ro": "Tougué este situat în partea de nord-centrală a Guineei, la intersecția dintre masivul Fouta Djallon și câmpiile mai joase. Ca reședință a prefecturii Tougué, orașul servește drept centru administrativ și comercial esențial într-o regiune cunoscută pentru frumusețea sa aspră și resursele naturale neexploatate. Din punct de vedere geografic, zona este marcată de platouri stâncoase și savane arborescente vaste. Economia orașului Tougué se bazează tradițional pe zootehnie și agricultură, regiunea fiind renumită în mod special pentru producția de miere de înaltă calitate și pentru creșterea vitelor din rasa N'Dama. În văile fertile se cultivă cereale și arahide. În ultimii ani, Tougué a căpătat o importanță strategică majoră datorită rezervelor sale imense de bauxită, fiind considerată una dintre zonele miniere de viitor pentru economia națională. Din punct de vedere cultural, orașul este profund ancorat în tradițiile etniei Fula, piețele locale fiind locuri vibrante pentru schimb.",
+        "en": "Tougué is located in the north-central part of Guinea, at the transition point between the Fouta Djallon highlands and the lower plains. As the capital of the Tougué Prefecture, the town serves as a key administrative and commercial hub in a region known for its rugged beauty and untapped natural resources. Geographically, the area is defined by rocky plateaus and vast wooded savannas. Tougué's economy is traditionally based on livestock rearing and agriculture, with the region being particularly famous for its high-quality honey production and N'Dama cattle breeding. In the fertile valleys, grains and peanuts are the staple crops. In recent years, Tougué has gained strategic importance due to its massive, untapped bauxite deposits, marking the region as a critical future frontier for the Guinean mining industry. Culturally, the town is deeply rooted in Fula traditions, and the local markets are vibrant centers of exchange for traditional crafts and agricultural products."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Tougué ist in ganz Guinea für seine hochwertige natürliche Honigproduktion bekannt.",
+          "Die Präfektur enthält einige der größten unerschlossenen Bauxitreserven des Landes.",
+          "Die Stadt dient als wichtiger Markt für N'Dama-Rinder, die für ihre Krankheitsresistenz bekannt sind.",
+          "Es liegt in einer geografischen Übergangszone zwischen Gebirgs- und Savannen-Ökosystemen.",
+          "Die Region ist bekannt für ihre traditionellen Schmiede und Lederarbeiter.",
+          "Tougué ist ein Zentrum für die Bewahrung der mündlichen Überlieferungen und Folklore der Peul."
+        ],
+        "hu": [
+          "Tougué egész Guineában híres a kiváló minőségű természetes méztermeléséről.",
+          "A prefektúra az ország egyik legnagyobb kiaknázatlan bauxitkészletével rendelkezik.",
+          "A város az ellenálló képességéről ismert N'Dama szarvasmarhák fontos piaca.",
+          "A település a hegyi és a szavannai ökoszisztémák közötti földrajzi átmeneti zónában fekszik.",
+          "A régió híres hagyományos kovácsairól és bőrműveseiről.",
+          "Tougué a fula szájhagyomány és folklór megőrzésének egyik központja."
+        ],
+        "ro": [
+          "Tougué este renumit în toată Guineea pentru producția sa de miere naturală de calitate.",
+          "Prefectura conține unele dintre cele mai mari rezerve de bauxită neexploatate din țară.",
+          "Orașul este o piață majoră pentru vitele N'Dama, cunoscute pentru rezistența lor la boli.",
+          "Se află într-o zonă de tranziție geografică între ecosistemele montane și cele de savană.",
+          "Regiunea este cunoscută pentru fierarii și lucrătorii în piele tradiționali.",
+          "Tougué este un centru pentru conservarea tradițiilor orale și a folclorului Fula."
+        ],
+        "en": [
+          "Tougué is famous throughout Guinea for its high-quality natural honey production.",
+          "The prefecture contains some of the largest unexploited bauxite reserves in the country.",
+          "The town serves as a major market for N'Dama cattle, known for their disease resistance.",
+          "It is located on a geographic transition zone between mountain and savanna ecosystems.",
+          "The region is known for its traditional blacksmiths and leatherworkers.",
+          "Tougué is a center for the preservation of Fula oral traditions and folklore."
+        ]
+      }
+    }
+  ]
+}

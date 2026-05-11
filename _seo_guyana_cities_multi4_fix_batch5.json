@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "plaisance-cities-v2",
+      "descriptionAdvancedDe": "Plaisance ist ein historisches Dorf an der Ostküste von Demerara in Guyana, das für seine reiche afro-guyanische Kultur und sein Erbe bekannt ist. Wie Buxton wurde es nach der Emanzipation von ehemaligen Sklaven gegründet, die Land kauften, um ihre eigenen Gemeinschaften zu gründen. Das Dorf hat eine starke musikalische Tradition und ist der Geburtsort von Eddy Grant, einem international bekannten Musiker. Die Wirtschaft basierte traditionell auf Landwirtschaft und Fischerei, aber heute ist es hauptsächlich eine Wohngemeinschaft, deren Einwohner in Georgetown und Umgebung arbeiten. Plaisance hat ein starkes Gemeinschaftsgefühl und ist bekannt für seine lebhaften gesellschaftlichen Veranstaltungen. Die Nähe zum Ogle International Airport hat auch zur Entwicklung der Region beigetragen.",
+      "descriptionAdvancedHu": "Plaisance egy történelmi falu Guyana Demerara keleti partján, amely gazdag afro-guyanai kultúrájáról és örökségéről ismert. Buxtonhoz hasonlóan az emancipáció után alapították egykori rabszolgák, akik földet vásároltak saját közösségeik létrehozására. A falu erős zenei hagyományokkal rendelkezik, és Eddy Grant, egy nemzetközileg elismert zenész szülőhelye. A gazdaság hagyományosan a mezőgazdaságon és a halászaton alapult, de ma már főként lakóközösség, amelynek lakói Georgetownban és környékén dolgoznak. Plaisance erős közösségi érzéssel rendelkezik, és élénk társadalmi eseményeiről ismert. Az Ogle nemzetközi repülőtér közelsége is hozzájárult a régió fejlődéséhez.",
+      "descriptionAdvancedRo": "Plaisance este un sat istoric de pe coasta de est a Demerarei din Guyana, cunoscut pentru cultura și moștenirea sa bogată afro-guyaneză. La fel ca Buxton, a fost fondat de foști sclavi după emancipare, care au cumpărat pământ pentru a-și întemeia propriile comunități. Satul are o tradiție muzicală puternică și este locul de naștere al lui Eddy Grant, un muzician de renume internațional. Economia s-a bazat în mod tradițional pe agricultură și pescuit, dar astăzi este în principal o comunitate rezidențială, cu locuitori care lucrează în Georgetown și în zonele învecinate. Plaisance are un puternic simț al comunității și este cunoscut pentru evenimentele sale sociale pline de viață. Apropierea de Aeroportul Internațional Ogle a contribuit, de asemenea, la dezvoltarea regiunii.",
+      "descriptionAdvancedEn": "Plaisance is a historic village on the East Coast of Demerara, Guyana, celebrated for its rich Afro-Guyanese heritage. It was founded in the 1840s by freed African slaves who pooled their money to purchase the former Plantation Plaisance. This act of collective ownership makes it a significant symbol of post-emancipation village movement. Plaisance is the birthplace of the world-renowned musician Eddy Grant. The village has a strong community spirit and a vibrant cultural life. While traditionally an agricultural and fishing community, it has become increasingly residential, with many people working in nearby Georgetown. Its proximity to the Ogle Airport, Guyana's regional hub, adds to its strategic importance. The village maintains a unique identity, rooted in its history of freedom and self-determination.",
+      "factsAdvancedDe": [
+        "Gegründet in den 1840er Jahren von befreiten Sklaven.",
+        "Wichtiges Zentrum des afro-guyanischen Erbes.",
+        "Geburtsort des Musikers Eddy Grant.",
+        "Liegt an der Ostküste von Demerara.",
+        "Traditionell eine Agrar- und Fischergemeinde.",
+        "In der Nähe des Ogle International Airport.",
+        "Hat einen starken Gemeinschaftsgeist.",
+        "Symbol der Freiheit und Selbstbestimmung."
+      ],
+      "factsAdvancedHu": [
+        "Az 1840-es években alapították felszabadított rabszolgák.",
+        "Az afro-guyanai örökség fontos központja.",
+        "Eddy Grant zenész szülőfaluja.",
+        "A Demerara keleti partján található.",
+        "Hagyományosan mezőgazdasági és halászati közösség volt.",
+        "Közel van az Ogle nemzetközi repülőtérhez.",
+        "Erős közösségi szellemmel rendelkezik.",
+        "A falu a szabadság és az önrendelkezés szimbóluma."
+      ],
+      "factsAdvancedRo": [
+        "Fondat în anii 1840 de sclavi eliberați.",
+        "Centru important al moștenirii afro-guyaneze.",
+        "Locul de naștere al muzicianului Eddy Grant.",
+        "Situat pe coasta de est a Demerarei.",
+        "În mod tradițional, o comunitate agricolă și piscicolă.",
+        "Aproape de Aeroportul Internațional Ogle.",
+        "Are un spirit comunitar puternic.",
+        "Simbol al libertății și autodeterminării."
+      ],
+      "factsAdvancedEn": [
+        "Founded in the 1840s by freed slaves.",
+        "Important center of Afro-Guyanese heritage.",
+        "Birthplace of musician Eddy Grant.",
+        "Located on the East Coast of Demerara.",
+        "Traditionally an agricultural and fishing community.",
+        "Near the Ogle International Airport.",
+        "Has a strong community spirit.",
+        "A symbol of freedom and self-determination."
+      ]
+    },
+    {
+      "id": "triumph-cities-v2",
+      "descriptionAdvancedDe": "Triumph ist ein Dorf an der Ostküste von Demerara in Guyana. Es ist Teil einer Reihe von Küstensiedlungen, die wichtige landwirtschaftliche und Wohngebiete sind. Triumph liegt in der Nähe von Beterverwagting und die beiden Dörfer teilen sich oft soziale und wirtschaftliche Aktivitäten. Die Wirtschaft ist, wie in der gesamten Region, stark von der Landwirtschaft geprägt, wobei Zuckerrohr und Reis die Hauptanbauprodukte sind. Die Gemeinde hat eine überwiegend indo-guyanische Bevölkerung. Triumph ist durch die Küstenstraße gut an das Verkehrsnetz angebunden, was den Transport von Gütern und Personen erleichtert. Das Dorfleben ist ruhig und gemeinschaftsorientiert und spiegelt den ländlichen Charakter der guyanischen Küste wider, obwohl es in der Nähe der geschäftigen Hauptstadt liegt.",
+      "descriptionAdvancedHu": "Triumph egy falu Guyana Demerara keleti partján. A tengerparti települések sorozatának része, amelyek fontos mezőgazdasági és lakóterületek. Triumph Beterverwagting közelében található, és a két falu gyakran osztozik a társadalmi és gazdasági tevékenységekben. A gazdaság, mint az egész régióban, erősen a mezőgazdaságon alapul, a cukornád és a rizs a fő termény. A közösség lakossága túlnyomórészt indo-guyanai. Triumphot a tengerparti út jól beköti a közlekedési hálózatba, ami megkönnyíti az áruk és személyek szállítását. A falusi élet csendes és közösségorientált, tükrözve a guyanai tengerpart vidéki jellegét, annak ellenére, hogy a nyüzsgő főváros közelében fekszik.",
+      "descriptionAdvancedRo": "Triumph este un sat de pe coasta de est a Demerarei din Guyana. Face parte dintr-o serie de așezări de coastă care sunt zone agricole și rezidențiale importante. Triumph este situat în apropiere de Beterverwagting, iar cele două sate împărtășesc adesea activități sociale și economice. Economia, ca și în întreaga regiune, se bazează în mare parte pe agricultură, trestia de zahăr și orezul fiind principalele culturi. Comunitatea are o populație predominant indo-guyaneză. Triumph este bine conectat la rețeaua de transport prin drumul de coastă, ceea ce facilitează transportul de bunuri și persoane. Viața satului este liniștită și orientată spre comunitate, reflectând caracterul rural al coastei guyaneze, în ciuda apropierii de capitala aglomerată.",
+      "descriptionAdvancedEn": "Triumph is a village on the East Coast of Demerara, situated between the communities of Beterverwagting and Mon Repos. It is a predominantly Indo-Guyanese community with an economy historically linked to the sugar industry. The village is primarily residential, with many inhabitants working in agriculture or commuting to Georgetown. Triumph shares a local administrative authority with the neighboring village of Beterverwagting, and the two are often referred to together. The community features several religious institutions, including mandirs and mosques, reflecting its cultural makeup. Life in Triumph is characteristic of the rural East Coast, with a close-knit community structure and a pace of life that is slower than the nearby capital.",
+      "factsAdvancedDe": [
+        "Liegt an der Ostküste von Demerara.",
+        "Zwischen Beterverwagting und Mon Repos gelegen.",
+        "Überwiegend indo-guyanische Gemeinschaft.",
+        "Wirtschaft historisch mit der Zuckerindustrie verbunden.",
+        "Wird oft zusammen mit Beterverwagting genannt.",
+        "Hauptsächlich Wohngebiet.",
+        "Gemeinde hat mehrere religiöse Einrichtungen.",
+        "Ländlicher Lebensstil an der Küste."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara keleti partján található.",
+        "Beterverwagting és Mon Repos között helyezkedik el.",
+        "Túlnyomórészt indo-guyanai közösség.",
+        "Gazdasága történelmileg a cukoriparhoz kötődik.",
+        "Gyakran említik együtt Beterverwagtinggal.",
+        "Elsősorban lakóövezet.",
+        "A közösségben több vallási intézmény található.",
+        "A vidéki, tengerparti életmód jellemzi."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe coasta de est a Demerarei.",
+        "Amplasat între Beterverwagting și Mon Repos.",
+        "Comunitate predominant indo-guyaneză.",
+        "Economia este legată istoric de industria zahărului.",
+        "Adesea menționat împreună cu Beterverwagting.",
+        "În principal rezidențial.",
+        "Comunitatea are mai multe instituții religioase.",
+        "Caracterizat de stilul de viață rural de pe coastă."
+      ],
+      "factsAdvancedEn": [
+        "Located on the East Coast of Demerara.",
+        "Situated between Beterverwagting and Mon Repos.",
+        "Predominantly Indo-Guyanese community.",
+        "Economy historically linked to the sugar industry.",
+        "Often referred to together with Beterverwagting.",
+        "Primarily residential.",
+        "The community has several religious institutions.",
+        "Characterized by the rural East Coast lifestyle."
+      ]
+    },
+    {
+      "id": "better-hope-cities-v2",
+      "descriptionAdvancedDe": "Better Hope ist eine weitere wichtige Gemeinde an der Ostküste von Demerara in Guyana. Es liegt nur wenige Kilometer von der Hauptstadt Georgetown entfernt und ist eine Mischung aus Wohn-, Gewerbe- und Landwirtschaftsgebieten. Die Gemeinde profitiert von ihrer Nähe zur Hauptstadt und bietet Wohnmöglichkeiten für Pendler. Die Landwirtschaft, insbesondere der Anbau von Gemüse und anderen Marktfrüchten, spielt immer noch eine wichtige Rolle in der lokalen Wirtschaft. Die Küstenstraße durchschneidet das Dorf und ist von Geschäften und kleinen Unternehmen gesäumt. Better Hope ist eine multikulturelle Gemeinschaft, die die Vielfalt Guyanas widerspiegelt. Die Entwicklung der Wohnsiedlungen in der Gegend hat zu einem Bevölkerungswachstum und einer zunehmenden Urbanisierung geführt.",
+      "descriptionAdvancedHu": "A Better Hope egy másik fontos közösség Guyana Demerara keleti partján. A fővárostól, Georgetowntól mindössze néhány kilométerre fekszik, és lakó-, kereskedelmi és mezőgazdasági területek keveréke. A közösség profitál a fővároshoz való közelségéből, és lakhatási lehetőségeket kínál az ingázóknak. A mezőgazdaság, különösen a zöldség- és más piaci termények termesztése, még mindig fontos szerepet játszik a helyi gazdaságban. A tengerparti út átszeli a falut, és üzletek és kisvállalkozások szegélyezik. A Better Hope egy multikulturális közösség, amely Guyana sokszínűségét tükrözi. A környékbeli lakóparkok fejlesztése népességnövekedéshez és növekvő urbanizációhoz vezetett.",
+      "descriptionAdvancedRo": "Better Hope este o altă comunitate importantă de pe coasta de est a Demerarei din Guyana. Este situată la doar câțiva kilometri de capitala Georgetown și este un amestec de zone rezidențiale, comerciale și agricole. Comunitatea beneficiază de apropierea de capitală, oferind opțiuni de locuit pentru navetiști. Agricultura, în special cultivarea legumelor și a altor culturi de piață, joacă încă un rol important în economia locală. Drumul de coastă traversează satul și este mărginit de magazine și mici afaceri. Better Hope este o comunitate multiculturală, care reflectă diversitatea Guyanei. Dezvoltarea ansamblurilor rezidențiale din zonă a dus la creșterea populației și la o urbanizare sporită.",
+      "descriptionAdvancedEn": "Better Hope is a large village on the East Coast of Demerara, Guyana. Located very close to the capital, Georgetown, it serves as a major residential area for people who work in the city. The village is divided by the main public road into North and South sections. Its economy is mixed, with commercial activity flourishing along the main road, while other areas remain agricultural, with residents involved in cash crop farming. Better Hope is a multi-ethnic and multi-religious community, home to prominent Hindu temples, mosques, and Christian churches. The area has seen significant development and population growth due to its strategic location, blending suburban living with traditional village life.",
+      "factsAdvancedDe": [
+        "Liegt an der Ostküste von Demerara, nahe Georgetown.",
+        "Wichtiges Wohngebiet für Pendler in die Hauptstadt.",
+        "Hauptstraße teilt das Dorf in Nord und Süd.",
+        "Gemischte Wirtschaft: Handel und Landwirtschaft.",
+        "Multikulturelle und multireligiöse Gemeinschaft.",
+        "Beherbergt prominente Tempel, Moscheen und Kirchen.",
+        "Erhebliches Bevölkerungswachstum aufgrund strategischer Lage.",
+        "Mischung aus Vorstadt- und Dorfleben."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara keleti partján található, Georgetown közelében.",
+        "Fontos lakóövezet a fővárosba ingázók számára.",
+        "Az északi és déli részre osztja a főút.",
+        "Vegyes gazdaság: kereskedelem és mezőgazdaság.",
+        "Multikulturális és többvallású közösség.",
+        "Számos templom, mecset és imaház található itt.",
+        "Stratégiai elhelyezkedése miatt jelentős a népességnövekedés.",
+        "A külvárosi és a falusi élet keveréke jellemzi."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe coasta de est a Demerarei, lângă Georgetown.",
+        "Zonă rezidențială importantă pentru navetiștii din capitală.",
+        "Drumul principal împarte satul în nord și sud.",
+        "Economie mixtă: comerț și agricultură.",
+        "Comunitate multiculturală și multireligioasă.",
+        "Găzduiește temple hinduse, moschei și biserici proeminente.",
+        "Creștere semnificativă a populației datorită locației strategice.",
+        "Amestec de viață suburbană și viață de sat tradițională."
+      ],
+      "factsAdvancedEn": [
+        "Located on the East Coast of Demerara, near Georgetown.",
+        "Major residential area for commuters to the capital.",
+        "The main road divides the village into North and South.",
+        "Mixed economy: commerce and agriculture.",
+        "Multi-ethnic and multi-religious community.",
+        "Home to prominent Hindu temples, mosques, and churches.",
+        "Significant population growth due to strategic location.",
+        "A mix of suburban and traditional village life."
+      ]
+    },
+    {
+      "id": "beterverwagting-cities-v2",
+      "descriptionAdvancedDe": "Beterverwagting, oft als BV abgekürzt, ist ein historisches Dorf an der Ostküste von Demerara. Es wurde 1840 von ehemaligen Sklaven gegründet und hat eine reiche Geschichte, die eng mit der Entwicklung der afro-guyanischen Dorfbewegung verbunden ist. Der Name bedeutet auf Niederländisch „Bessere Erwartung“. Das Dorf ist für seine starke Gemeinschaftsbindung und sein kulturelles Erbe bekannt. Wirtschaftlich basierte es traditionell auf der Landwirtschaft, aber viele Einwohner arbeiten heute in nahegelegenen städtischen Gebieten. BV teilt sich eine lokale Verwaltungsbehörde mit dem Nachbardorf Triumph. Das Dorf hat mehrere historische Gebäude und ist stolz auf seine Rolle bei der Gestaltung der guyanischen Gesellschaft nach der Emanzipation. Es bleibt ein wichtiges Zentrum der afro-guyanischen Kultur an der Küste.",
+      "descriptionAdvancedHu": "Beterverwagting, gyakran rövidítve BV, egy történelmi falu a Demerara keleti partján. 1840-ben alapították egykori rabszolgák, és gazdag történelme szorosan kapcsolódik az afro-guyanai falumozgalom fejlődéséhez. A név hollandul „Jobb elvárást” jelent. A falu erős közösségi kötelékeiről és kulturális örökségéről ismert. Gazdaságilag hagyományosan a mezőgazdaságon alapult, de ma már sok lakos dolgozik a közeli városi területeken. A BV közös helyi közigazgatási hatóságot alkot a szomszédos Triumph faluval. A falu számos történelmi épülettel rendelkezik, és büszke a guyanai társadalom emancipáció utáni formálásában játszott szerepére. Továbbra is az afro-guyanai kultúra fontos központja a tengerparton.",
+      "descriptionAdvancedRo": "Beterverwagting, adesea prescurtat BV, este un sat istoric de pe coasta de est a Demerarei. A fost fondat în 1840 de foști sclavi și are o istorie bogată, strâns legată de dezvoltarea mișcării sătești afro-guyaneze. Numele înseamnă „Așteptare mai bună” în olandeză. Satul este cunoscut pentru legăturile sale comunitare puternice și pentru moștenirea sa culturală. Din punct de vedere economic, s-a bazat în mod tradițional pe agricultură, dar mulți locuitori lucrează acum în zonele urbane din apropiere. BV împarte o autoritate administrativă locală cu satul vecin Triumph. Satul are mai multe clădiri istorice și se mândrește cu rolul său în modelarea societății guyaneze post-emancipare. Rămâne un centru important al culturii afro-guyaneze de pe coastă.",
+      "descriptionAdvancedEn": "Beterverwagting, commonly known as BV, is a historic village on the East Coast of Demerara. Its name is Dutch for 'Better Expectation'. Founded in the 1840s by freed slaves who pooled their resources to buy the plantation, it is one of Guyana's earliest proprietary villages and a symbol of Afro-Guyanese empowerment. The village has a rich history and a strong sense of community. Together with its neighbor, Triumph, it forms a Local Authority Area. While agriculture was its traditional base, many residents now work in Georgetown. BV is known for its cultural contributions and has produced many notable Guyanese. It remains a key center for Afro-Guyanese heritage and serves as an important example of the post-emancipation village movement.",
+      "factsAdvancedDe": [
+        "Sein Name bedeutet auf Niederländisch „Bessere Erwartung“.",
+        "Gegründet in den 1840er Jahren von befreiten Sklaven.",
+        "Symbol der afro-guyanischen Ermächtigung.",
+        "Liegt an der Ostküste von Demerara.",
+        "Bildet eine lokale Behörde mit dem Nachbardorf Triumph.",
+        "Traditionell auf Landwirtschaft basierend.",
+        "Hat ein reiches kulturelles Erbe.",
+        "Wichtige Rolle in der Geschichte nach der Emanzipation."
+      ],
+      "factsAdvancedHu": [
+        "A neve hollandul „Jobb Elvárás”.",
+        "Az 1840-es években alapították felszabadított rabszolgák.",
+        "Az afro-guyanai önrendelkezés szimbóluma.",
+        "A Demerara keleti partján található.",
+        "Triumph faluval közös közigazgatási egységet alkot.",
+        "Hagyományosan mezőgazdasági alapú volt.",
+        "Gazdag kulturális örökséggel rendelkezik.",
+        "Fontos szerepet játszott az emancipáció utáni történelemben."
+      ],
+      "factsAdvancedRo": [
+        "Numele său înseamnă „Așteptare mai bună” în olandeză.",
+        "Fondat în anii 1840 de sclavi eliberați.",
+        "Simbol al emancipării afro-guyaneze.",
+        "Situat pe coasta de est a Demerarei.",
+        "Formează o autoritate locală cu satul vecin Triumph.",
+        "În mod tradițional, bazat pe agricultură.",
+        "Are o moștenire culturală bogată.",
+        "Rol important în istoria post-emancipare."
+      ],
+      "factsAdvancedEn": [
+        "Its name means 'Better Expectation' in Dutch.",
+        "Founded in the 1840s by freed slaves.",
+        "A symbol of Afro-Guyanese empowerment.",
+        "Located on the East Coast of Demerara.",
+        "Forms a Local Authority Area with neighboring Triumph.",
+        "Traditionally based on agriculture.",
+        "Has a rich cultural heritage.",
+        "Important role in post-emancipation history."
+      ]
+    },
+    {
+      "id": "blairmont-cities-v2",
+      "descriptionAdvancedDe": "Blairmont ist eine wichtige Gemeinde am Westufer des Berbice-Flusses in der Region Mahaica-Berbice. Ihre Identität und Wirtschaft sind untrennbar mit dem Blairmont-Zuckeranwesen verbunden, einer der wenigen verbliebenen Zuckerfabriken in Guyana, die von der Guyana Sugar Corporation (GuySuCo) betrieben wird. Das Leben in der Gemeinde dreht sich seit Generationen um die Zuckerproduktion. Die Siedlung besteht aus Wohnvierteln für die Arbeiter des Anwesens, und die Infrastruktur wurde größtenteils zur Unterstützung der Zuckerindustrie entwickelt. Obwohl die Zuckerindustrie vor großen Herausforderungen steht, bleibt sie das Rückgrat der lokalen Wirtschaft. Die Gemeinde hat eine überwiegend indo-guyanische Bevölkerung, deren Vorfahren als Vertragsarbeiter auf den Zuckerplantagen arbeiteten.",
+      "descriptionAdvancedHu": "Blairmont egy fontos közösség a Berbice folyó nyugati partján, a Mahaica-Berbice régióban. Identitása és gazdasága elválaszthatatlanul kötődik a Blairmont cukorgyárhoz, amely egyike a Guyana Sugar Corporation (GuySuCo) által üzemeltetett kevés megmaradt cukorgyárnak Guyanában. A közösségi élet generációk óta a cukortermelés körül forog. A település a birtok munkásai számára kialakított lakónegyedekből áll, és az infrastruktúrát nagyrészt a cukoripar támogatására fejlesztették ki. Bár a cukoripar nagy kihívásokkal néz szembe, továbbra is a helyi gazdaság gerincét képezi. A közösség lakossága túlnyomórészt indo-guyanai, akiknek ősei szerződéses munkásként dolgoztak a cukorültetvényeken.",
+      "descriptionAdvancedRo": "Blairmont este o comunitate importantă de pe malul de vest al râului Berbice, în regiunea Mahaica-Berbice. Identitatea și economia sa sunt indisolubil legate de moșia de zahăr Blairmont, una dintre puținele fabrici de zahăr rămase în Guyana, operată de Guyana Sugar Corporation (GuySuCo). De generații, viața în comunitate se învârte în jurul producției de zahăr. Așezarea este formată din cartiere rezidențiale pentru muncitorii moșiei, iar infrastructura a fost în mare parte dezvoltată pentru a sprijini industria zahărului. Deși industria zahărului se confruntă cu provocări majore, aceasta rămâne coloana vertebrală a economiei locale. Comunitatea are o populație predominant indo-guyaneză, ai cărei strămoși au lucrat ca muncitori angajați pe plantațiile de zahăr.",
+      "descriptionAdvancedEn": "Blairmont is a community located on the west bank of the Berbice River in the Mahaica-Berbice Region. Its existence and identity are almost entirely defined by the Blairmont Sugar Estate, one of the few remaining operational sugar factories in Guyana, run by the Guyana Sugar Corporation (GuySuCo). The village developed around the estate, providing housing and services for its workers. For generations, the rhythm of life in Blairmont has been dictated by the sugar crop seasons. The community is predominantly Indo-Guyanese, descendants of the indentured laborers brought to work on the sugar plantations. Despite the national decline in the sugar industry, the Blairmont estate remains the economic lifeblood of the community and the wider West Berbice area.",
+      "factsAdvancedDe": [
+        "Liegt am Westufer des Berbice-Flusses.",
+        "Aufgebaut um das Blairmont-Zuckeranwesen.",
+        "Eine der wenigen funktionierenden Zuckerfabriken in Guyana.",
+        "Betrieben von GuySuCo.",
+        "Das Leben der Gemeinde ist von der Zuckerindustrie abhängig.",
+        "Bevölkerung überwiegend indo-guyanisch.",
+        "Vorfahren waren Vertragsarbeiter.",
+        "Rückgrat der lokalen Wirtschaft."
+      ],
+      "factsAdvancedHu": [
+        "A Berbice folyó nyugati partján fekszik.",
+        "A Blairmont cukorgyár köré épült.",
+        "Egyike a kevés működő cukorgyárnak Guyanában.",
+        "A GuySuCo üzemelteti.",
+        "A közösség élete a cukoripartól függ.",
+        "A lakosság túlnyomórészt indo-guyanai.",
+        "Az ősök szerződéses munkások voltak az ültetvényeken.",
+        "A helyi gazdaság gerincét képezi."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe malul de vest al râului Berbice.",
+        "Construit în jurul moșiei de zahăr Blairmont.",
+        "Una dintre puținele fabrici de zahăr funcționale din Guyana.",
+        "Operată de GuySuCo.",
+        "Viața comunității depinde de industria zahărului.",
+        "Populație predominant indo-guyaneză.",
+        "Strămoșii au fost muncitori angajați.",
+        "Coloana vertebrală a economiei locale."
+      ],
+      "factsAdvancedEn": [
+        "Located on the west bank of the Berbice River.",
+        "Built around the Blairmont Sugar Estate.",
+        "One of the few operational sugar factories in Guyana.",
+        "Operated by GuySuCo.",
+        "The community's life depends on the sugar industry.",
+        "Population is predominantly Indo-Guyanese.",
+        "Ancestors were indentured laborers.",
+        "The backbone of the local economy."
+      ]
+    }
+  ]
+}

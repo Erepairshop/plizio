@@ -1,0 +1,60 @@
+{
+  "lang": "de",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-kaolack-economic-v2",
+      "description": "Ein bedeutender Flusshafen am Saloum, der für den regionalen Handel von Agrarprodukten zentral ist. Er verbindet das Hinterland mit den Handelswegen.",
+      "facts": ["Flusshafen am Saloum", "Zentrum für Agrarhandel", "Regionale Logistikdrehscheibe"]
+    },
+    {
+      "id": "sococim-rufisque-economic-v2",
+      "description": "Eines der größten Zementwerke Westafrikas mit Sitz in Rufisque. Es spielt eine wesentliche Rolle für die nationale Bauindustrie und Infrastrukturentwicklung.",
+      "facts": ["Großes Zementwerk", "Sitz in Rufisque", "Pfeiler der Bauindustrie", "Wichtig für Infrastruktur"]
+    },
+    {
+      "id": "sn-abdoulaye-wade-stadium-landmarks-v2",
+      "description": "Ein modernes Stadion in Diamniadio, das als neue Hauptspielstätte für nationale Sportveranstaltungen dient. Es zeichnet sich durch seine innovative Architektur aus.",
+      "facts": ["Stadion in Diamniadio", "Moderne Sportstätte", "Hauptspielstätte des Landes"]
+    },
+    {
+      "id": "sn-leopold-sedar-senghor-stadium-landmarks-v2",
+      "description": "Das historische Hauptstadion von Dakar, benannt nach dem ersten Präsidenten Senegals. Es war Schauplatz zahlreicher wichtiger Sport- und Kulturereignisse.",
+      "facts": ["Stadion in Dakar", "Benannt nach Senghor", "Historischer Sportort"]
+    },
+    {
+      "id": "sn-national-theatre-daniel-sorano-landmarks-v2",
+      "description": "Das bedeutendste Theaterhaus in Dakar, das ein Zentrum für darstellende Künste und nationale Kultur ist. Es fördert traditionelle und moderne senegalesische Kunstformen.",
+      "facts": ["Zentrum für Kultur", "Theater in Dakar", "Förderung der Kunst"]
+    },
+    {
+      "id": "sn-museum-black-civilisations-landmarks-v2",
+      "description": "Ein bahnbrechendes Museum in Dakar, das die Geschichte und den kulturellen Beitrag schwarzer Zivilisationen weltweit würdigt. Es dient als wichtiger Ort für den interkulturellen Dialog.",
+      "facts": ["Museum in Dakar", "Fokus: Schwarze Geschichte", "Interkultureller Dialog"]
+    },
+    {
+      "id": "sn-dakar-grand-theatre-landmarks-v2",
+      "description": "Ein architektonisch markantes Großtheater in Dakar, das für nationale Feierlichkeiten und internationale Aufführungen genutzt wird. Es ist ein moderner kultureller Treffpunkt.",
+      "facts": ["Großtheater in Dakar", "Moderne Architektur", "Kultureller Treffpunkt"]
+    },
+    {
+      "id": "sn-palais-de-la-republique-landmarks-v2",
+      "description": "Der offizielle Amtssitz des Präsidenten der Republik Senegal in Dakar. Das Gebäude ist von historischer Bedeutung und ein markantes Beispiel kolonialer Architektur.",
+      "facts": ["Amtssitz des Präsidenten", "Historisches Gebäude", "Koloniale Architektur"]
+    },
+    {
+      "id": "sn-bceao-tower-landmarks-v2",
+      "description": "Ein ikonisches Hochhaus in Dakar, das als Sitz der Zentralbank für westafrikanische Staaten (BCEAO) dient. Es prägt die moderne Skyline der Hauptstadt.",
+      "facts": ["Sitz der Zentralbank", "Ikonisches Hochhaus", "Prägt die Skyline"]
+    },
+    {
+      "id": "sn-mosquee-divinite-landmarks-v2",
+      "description": "Eine architektonisch einzigartige Moschee an der Küste von Dakar, die für ihre Lage direkt am Ozean bekannt ist. Sie ist ein spiritueller Ort mit prägnanter Ästhetik.",
+      "facts": ["Moschee an der Küste", "Einzigartige Architektur", "Spiritueller Ort"]
+    }
+  ]
+}

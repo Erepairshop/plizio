@@ -1,0 +1,25 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    { "id": "amphibien-wald-ranomafana-life-v2", "description": "Pădurea amfibienilor din Ranomafana este un punct fierbinte al biodiversității, găzduind numeroase specii de broaște endemice.", "facts": ["Biodiversitate broaște", "Specii endemice", "Regiunea Ranomafana"] },
+    { "id": "mahajanga-zoo-life-v2", "description": "Grădina zoologică din Mahajanga prezintă fauna locală din regiunea Boeny, fiind un loc educativ pentru vizitatori.", "facts": ["Faună locală", "Regiunea Boeny", "Grădină zoologică"] },
+    { "id": "nosy-be-nature-v2", "description": "Insula Nosy Be este celebră pentru peisajele sale tropicale, plantațiile de ylang-ylang și plajele cu nisip fin.", "facts": ["Insulă tropicală", "Plantații ylang-ylang", "Turism de plajă"] },
+    { "id": "lake-itasy-nature-v2", "description": "Lacul Itasy este un lac de origine vulcanică situat în centrul Madagascarului, oferind peisaje pitorești și cascade.", "facts": ["Origine vulcanică", "Centrul insulei", "Peisaj pitoresc"] },
+    { "id": "andringitra-nature-v2", "description": "Masivul Andringitra oferă un peisaj montan spectaculos, fiind ideal pentru drumeții și escaladă.", "facts": ["Parc național", "Masiv montan", "Drumeții montane"] },
+    { "id": "isalo-nature-v2", "description": "Parcul Național Isalo este renumit pentru formațiunile sale de gresie erodată, canioane adânci și oaze cu piscine naturale.", "facts": ["Formațiuni de gresie", "Canioane adânci", "Piscine naturale"] },
+    { "id": "masoala-peninsula-nature-v2", "description": "Peninsula Masoala găzduiește cea mai mare arie protejată din Madagascar, acoperită de o pădure tropicală virgină.", "facts": ["Pădure tropicală", "Rezervație marină", "Cea mai mare arie protejată"] },
+    { "id": "lake-tampolo-nature-v2", "description": "Lacul Tampolo este o întindere de apă liniștită situată pe coasta de est, înconjurată de o vegetație bogată.", "facts": ["Lac de coastă", "Coasta de est", "Vegetație luxuriantă"] },
+    { "id": "mahajanga-coast-nature-v2", "description": "Coasta din jurul orașului Mahajanga este caracterizată prin estuare largi, mangrove și plaje extinse.", "facts": ["Zonă de coastă", "Mangrove", "Canalul Mozambic"] },
+    { "id": "saint-marie-island-nature-v2", "description": "Insula Sainte-Marie este un paradis tropical cunoscut pentru observarea balenelor cu cocoașă în timpul iernii australe.", "facts": ["Observare balene", "Istorie pirați", "Plaje tropicale"] },
+    { "id": "lake-tsimanampetsotsa-nature-v2", "description": "Lacul Tsimanampetsotsa este un lac sărat unic în sud-vestul insulei, renumit pentru coloniile de flamingo roz.", "facts": ["Lac sărat", "Flamingo roz", "Sud-vestul arid"] },
+    { "id": "nosy-mitseo-nature-v2", "description": "Arhipelagul Nosy Mitsio oferă peisaje marine de o frumusețe rară, cu ape cristaline și coloane de bazalt.", "facts": ["Arhipelag virgin", "Coloane de bazalt", "Ape cristaline"] },
+    { "id": "nosy-tanikely-nature-v2", "description": "Nosy Tanikely este o insulă mică declarată rezervație marină, oferind unul dintre cele mai bune locuri de snorkeling.", "facts": ["Rezervație marină", "Snorkeling excelent", "Biodiversitate bogată"] },
+    { "id": "manongarivo-massif-relief-v2", "description": "Masivul Manongarivo este o zonă muntoasă izolată în nordul Madagascarului, cu o biodiversitate forestieră înaltă.", "facts": ["Masiv muntos", "Nordul insulei", "Zonă izolată"] }
+  ]
+}

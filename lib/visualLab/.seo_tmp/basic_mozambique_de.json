@@ -1,0 +1,63 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mz-maputo-cathedral-history-v2",
+      "description": "Die Kathedrale von Maputo ist ein markantes Bauwerk der Hauptstadt, das im neomanuelinischen Stil erbaut wurde. Sie prägt das Stadtbild mit ihren charakteristischen architektonischen Details.",
+      "facts": ["Erbaut im Jahr 1944", "Neomanuelinischer Stil", "Hauptkirche von Maputo", "Wahrzeichen am Unabhängigkeitsplatz"]
+    },
+    {
+      "id": "mz-polana-church-history-v2",
+      "description": "Diese Kirche befindet sich im gehobenen Stadtviertel Polana und ist bekannt für ihre moderne Architektur. Sie dient als spirituelles Zentrum für die lokale Gemeinschaft in Maputo.",
+      "facts": ["Moderner Architekturstil", "Lage im Viertel Polana", "Spiritueller Anlaufpunkt", "Prägt die Stadtarchitektur"]
+    },
+    {
+      "id": "grande-hotel-beira-landmarks-v2",
+      "description": "Das Grande Hotel in Beira war einst eines der luxuriösesten Hotels Afrikas und ist heute ein beeindruckendes, wenn auch verfallenes Denkmal seiner Ära. Es blickt auf eine bewegte Geschichte zurück.",
+      "facts": ["Ehemals Luxushotel", "Architektonisches Monument", "Lage direkt am Indischen Ozean", "Symbol der Kolonialzeit"]
+    },
+    {
+      "id": "cathedral-of-beira-landmarks-v2",
+      "description": "Die Kathedrale von Beira ist eine bedeutende religiöse Stätte, die den zentralen Platz der Stadt architektonisch bereichert. Sie dient als wichtiges Zentrum der katholischen Gemeinde.",
+      "facts": ["Katholisches Zentrum", "Architektonisches Bauwerk", "Zentrale Stadtlage", "Historisch bedeutend"]
+    },
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "description": "Dieser Archipel ist für seine unberührten Korallenriffe und vielfältige Unterwasserwelt bekannt. Es ist ein geschützter Lebensraum für seltene Tierarten im Indischen Ozean.",
+      "facts": ["Nationalpark seit 1971", "Reiches Korallenriff", "Lebensraum für Dugongs", "Paradies für Taucher"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "Die Quirimbas bestehen aus einer Kette von Inseln, die für ihre kulturelle Geschichte und ökologische Vielfalt geschätzt werden. Der Schutz der Küstenökosysteme hat hier Priorität.",
+      "facts": ["Historischer Archipel", "Ökologisch geschützt", "Vielfältige Inselwelt", "UNESCO-Biosphärenreservat"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "Der Nationalpark Zinave beheimatet zahlreiche afrikanische Wildtiere und liegt in einer Region, die durch großflächige Naturschutzbemühungen renaturiert wird.",
+      "facts": ["Großwild-Schutzgebiet", "Renaturierte Savanne", "Vielfältige Fauna", "Wichtiges Schutzgebiet"]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "description": "Dieser Park ist für seine saisonalen Feuchtgebiete bekannt, die Lebensraum für eine Vielzahl von Vogelarten bieten. Er spielt eine zentrale Rolle im regionalen Naturschutz.",
+      "facts": ["Saisonale Feuchtgebiete", "Vogelbeobachtungsziel", "Regionaler Naturschutz", "Einzigartige Ökologie"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "Das Naturschutzgebiet Pomene ist für seine malerischen Lagunen und die reiche marine Biodiversität geschätzt. Es bietet Besuchern einen Einblick in die unberührte Natur Mosambiks.",
+      "facts": ["Lagunenlandschaft", "Marine Biodiversität", "Naturschutzgebiet", "Unberührte Küstennatur"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "Nampula ist eine zentrale Region für die mosambikanische Landwirtschaft, insbesondere für den Anbau von Getreide und Cashewnüssen. Die Region trägt erheblich zur regionalen Versorgung bei.",
+      "facts": ["Zentrum der Landwirtschaft", "Cashewnuss-Anbau", "Wichtig für Getreide", "Regionale Wirtschaftsstütze"]
+    }
+  ]
+}

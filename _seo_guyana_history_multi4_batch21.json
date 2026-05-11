@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-st-andrews-kirk-history-v2",
+      "descriptionAdvancedDe": "Die St. Andrew's Kirk in Georgetown ist die älteste Kirche, die in Guyana ununterbrochen genutzt wird. Sie wurde 1818 geweiht und ist ein wichtiges Beispiel für die schottische presbyterianische Architektur in der Karibik. Das schlichte, aber elegante Holzgebäude wurde von niederländischen und schottischen Siedlern gemeinsam errichtet und spiegelt die frühen multikulturellen Einflüsse in der Kolonie wider. Historisch bedeutsam ist die Kirche auch, weil sie als erste in Guyana ihre Türen für versklavte Menschen öffnete und ihnen einen Ort der Anbetung bot. Im Inneren zeugen Gedenktafeln und die einfache, aber würdevolle Einrichtung von ihrer langen und reichen Geschichte. Die St. Andrew's Kirk steht nicht nur als Zeugnis des Glaubens, sondern auch als Symbol für soziale Fortschrittlichkeit und als wichtiger Ort des gemeinschaftlichen Lebens in Georgetown seit über zwei Jahrhunderten.",
+      "descriptionAdvancedHu": "A georgetowni Szent András-templom a legrégebbi, folyamatosan használt templom Guyanában. 1818-ban szentelték fel, és a skót presbiteriánus építészet fontos példája a Karib-térségben. Az egyszerű, de elegáns faépületet holland és skót telepesek közösen emelték, tükrözve a gyarmat korai multikulturális hatásait. Történelmileg is jelentős, mivel ez volt az első templom Guyanában, amely megnyitotta kapuit a rabszolgák előtt, és istentiszteleti helyet biztosított számukra. Belül emléktáblák és az egyszerű, de méltóságteljes berendezés tanúskodik hosszú és gazdag történelméről. A Szent András-templom nemcsak a hit tanúbizonysága, hanem a társadalmi haladás szimbóluma és Georgetown közösségi életének fontos helyszíne is több mint két évszázada.",
+      "descriptionAdvancedRo": "Biserica Sfântul Andrei din Georgetown este cea mai veche biserică utilizată continuu din Guyana. Sfințită în 1818, este un exemplu important de arhitectură presbiteriană scoțiană în Caraibe. Clădirea simplă, dar elegantă, din lemn, a fost construită în comun de coloniști olandezi și scoțieni, reflectând influențele multiculturale timpurii din colonie. Biserica este, de asemenea, semnificativă din punct de vedere istoric, deoarece a fost prima din Guyana care și-a deschis porțile pentru sclavii, oferindu-le un lăcaș de cult. În interior, plăcile comemorative și mobilierul simplu, dar demn, mărturisesc istoria sa lungă și bogată. Biserica Sfântul Andrei nu este doar o mărturie a credinței, ci și un simbol al progresului social și un loc important al vieții comunitare din Georgetown de peste două secole.",
+      "descriptionAdvancedEn": "St. Andrew's Kirk in Georgetown is the oldest church in continuous use in Guyana. Consecrated in 1818, it is an important example of Scottish Presbyterian architecture in the Caribbean. The simple yet elegant wooden building was constructed jointly by Dutch and Scottish settlers, reflecting the early multicultural influences in the colony. The church is also historically significant because it was the first in Guyana to open its doors to enslaved people, providing them with a place of worship. Inside, memorial plaques and the simple but dignified furnishings bear witness to its long and rich history. St. Andrew's Kirk stands not only as a testament to faith but also as a symbol of social progress and an important site of community life in Georgetown for over two centuries.",
+      "factsAdvanced": [
+        "Geweiht im Jahr 1818, älteste durchgehend genutzte Kirche in Guyana.",
+        "Ein Beispiel für schottische presbyterianische Architektur.",
+        "Gemeinsam von niederländischen und schottischen Siedlern erbaut.",
+        "Erste Kirche in Guyana, die für versklavte Menschen geöffnet war.",
+        "Befindet sich gegenüber dem Parlamentsgebäude.",
+        "Die ursprüngliche Orgel wurde 1899 installiert.",
+        "Die Glocke der Kirche wurde in Glasgow gegossen.",
+        "Ein Zentrum des Gemeindelebens seit über 200 Jahren."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lang": "hu",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "saloum-delta-relief-v2",
+      "description": "A Saloum-delta sík vidéke alacsonyan fekvő, mocsaras terület, amelyet folyamatosan alakít a folyók és az óceán találkozása.",
+      "facts": ["Delta-vidék", "Mocsaras terület", "Alacsony fekvés"]
+    },
+    {
+      "id": "sine-ebene-v2",
+      "description": "A Sine folyó környéke sík, termékeny síkság, amely fontos szerepet játszik a helyi mezőgazdaságban.",
+      "facts": ["Síkvidék", "Mezőgazdasági terület", "Sine-völgy"]
+    },
+    {
+      "id": "gambia-niederung-v2",
+      "description": "A Gambia folyó alsó folyása alacsony, termékeny völgy, amelyet évszakonként a folyó áradása formál.",
+      "facts": ["Folyóvölgy", "Termékeny síkság", "Ártéri terület"]
+    },
+    {
+      "id": "matam-hochland-v2",
+      "description": "Matam környéke magasabban fekvő, szárazabb fennsík, amely eltér a part menti alacsony síkságoktól.",
+      "facts": ["Fennsík", "Száraz éghajlat", "Észak-Szenegál"]
+    },
+    {
+      "id": "tambacounda-plateau-v2",
+      "description": "Tambacounda vidéke kiterjedt fennsík, amely változatos növényzetével a belső Szenegál karakteres tája.",
+      "facts": ["Fennsík", "Kiterjedt táj", "Szavannás terület"]
+    },
+    {
+      "id": "nördliche-kuestenebene-v2",
+      "description": "Az északi partvidék sík terület, amelyet nagyrészt homokos dűnék és sós tavak jellemeznek.",
+      "facts": ["Partvidék", "Sík terület", "Homokdűnék"]
+    },
+    {
+      "id": "patar-wald-v2",
+      "description": "Patar vidéke enyhén dombos erdős táj, amely az ország belső, szárazabb területeinek egyik jellegzetes része.",
+      "facts": ["Erdős táj", "Enyhe domborzat", "Belső-Szenegál"]
+    },
+    {
+      "id": "niokolo-koba-berg-v2",
+      "description": "A Niokolo-Koba nemzeti park területe dombos, sziklás emelkedőkkel tarkított, változatos élővilágnak otthont adó vidék.",
+      "facts": ["Nemzeti park", "Dombos táj", "Sziklás emelkedők"]
+    },
+    {
+      "id": "fouta-djallon-hochland-v2",
+      "description": "A Fouta-Djallon fennsík Szenegál és Guinea határvidékén fekszik, északról délre nyúló vízválasztó.",
+      "facts": ["Fennsík", "Vízválasztó", "Határvidék"]
+    },
+    {
+      "id": "kolda-huegel-v2",
+      "description": "Kolda környéke enyhén hullámos dombvidék, amely a déli területek termékenyebb része.",
+      "facts": ["Dombvidék", "Hullámos táj", "Dél-Szenegál"]
+    },
+    {
+      "id": "thiès-hügelzug-v2",
+      "description": "Thiès környékét kisebb dombvonulatok tagolják, amelyek kiemelkednek a környező sík tájból.",
+      "facts": ["Dombvonulat", "Thiès", "Emelkedő táj"]
+    },
+    {
+      "id": "faleme-tal-relief-v2",
+      "description": "A Faleme folyó völgye meredekebb partokkal és mélyen vágott mederrel rendelkező terület a határvidéken.",
+      "facts": ["Folyóvölgy", "Faleme", "Határvonal"]
+    },
+    {
+      "id": "casamance-huegel-v2",
+      "description": "Casamance dombsága a trópusi esőerdők és a szavanna átmeneti zónája, amely változatos domborzatú.",
+      "facts": ["Dombság", "Trópusi táj", "Változatos"]
+    },
+    {
+      "id": "ferlo-savanne-relief-v2",
+      "description": "A Ferlo-savanna kiterjedt, szinte teljesen sík vidék, amely a sivatagos övezet határát képezi.",
+      "facts": ["Savanna", "Sík táj", "Sivatagi övezet"]
+    }
+  ]
+}

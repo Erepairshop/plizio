@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "leconi-canyon-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Cirque de Léconi ist eine der spektakulärsten geologischen Formationen auf den Batéké-Plateaus im Südosten Gabuns. Dieses beeindruckende Erosionsbecken, das oft fälschlicherweise als Canyon bezeichnet wird, ist ein riesiges natürliches Amphitheater, das durch das Abtragen von weichem Sandstein über Jahrtausende entstanden ist. Die markanteste Eigenschaft des Cirque de Léconi sind die leuchtenden Farben seiner steilen Wände, die von tiefem Rot und strahlendem Orange bis hin zu reinem Weiß und Ocker variieren. Geologisch gesehen besteht die Formation aus Tertiär-Sedimenten, die eine enorme Porosität aufweisen. Die umliegende Landschaft der Batéké-Plateaus bildet mit ihren weiten Grassavannen einen starken Kontrast zu den zerklüfteten Abgründen des Cirque. Für die lokale Bevölkerung der Téké besitzt dieser Ort eine tiefe spirituelle Bedeutung und ist Schauplatz zahlreicher Legenden. Die Wind- und Wassererosion formt die Türme und Pfeiler im Inneren des Beckens ständig neu, was dem Ort eine dynamische, fast außerirdische Ästhetik verleiht. Besucher können das Ausmaß dieses Reliefs am besten von den oberen Kanten der Plateaus erfassen, von wo aus sich ein weiter Blick über die Grenze zur Republik Kongo bietet. Der Cirque de Léconi ist ein Paradebeispiel für die landschaftliche Vielfalt Gabuns jenseits des Regenwaldes.",
+        "hu": "A Léconi-kanyon, vagy hivatalos nevén Cirque de Léconi, Gabon délkeleti részén, a Haut-Ogooué tartományban található Batéké-fennsík leglátványosabb domborzati formája. Ez a hatalmas természetes amfiteátrum nem folyóvízi erózió, hanem a szél és a csapadék homokkőre gyakorolt pusztító munkájának eredménye. A helyszín legfőbb vonzereje a színes homokrétegek látványa: a falak a mélyvöröstől a narancssárgán át a hófehérig és az okkersárgáig terjedő árnyalatokban pompáznak. A geológusok számára ez a terület nyitott könyv a harmadidőszaki üledékképződésről, ahol a porózus homokkő szerkezete jól megfigyelhető. A környék végtelen füves szavannája hirtelen szakad meg a Cirque pereménél, drámai panorámát kínálva a mélyben fekvő sziklatűkre és oszlopokra. A helyi téké nép számára a Léconi-kanyon szent hely, az ősök szellemeinek lakóhelye, ezért a látogatás során fontos a kulturális tiszteletadás. A kanyon formavilága a folyamatos erózió miatt lassan, de folyamatosan változik, újabb és újabb alakzatokat hozva létre a vörös talajban. A hajnali és alkonyati fények különösen kiemelik a kőzetek színvilágát, ami a fotósok és természetjárók paradicsomává teszi a vidéket. A Léconi-kanyon Gabon egyik legritkább geológiai kincse, amely bizonyítja az ország tájainak rendkívüli sokszínűségét.",
+        "ro": "Circul Léconi este o formațiune geologică spectaculoasă situată pe Platourile Batéké, în sud-estul Gabonului, aproape de frontiera cu Republica Congo. Acest vast amfiteatru natural, cunoscut local sub numele de „Cirque de Léconi”, este rezultatul unei eroziuni intense a gresiei, care a sculptat peisajul pe parcursul a milioane de ani. Ceea ce face acest loc unic este paleta incredibilă de culori a nisipurilor sale, care variază de la roșu aprins și portocaliu intens până la alb imaculat și ocru. Relieful este compus din turnuri de gresie și coloane naturale care par a fi ruinele unei cetăți antice în mijlocul savanei. Geologic, formațiunea aparține seriei sedimentare a platourilor, fiind extrem de fragilă în fața ploilor tropicale care continuă să modifice profilul pereților săi abrupți. Pentru populația Téké, regiunea are o importanță spirituală majoră, fiind considerată un spațiu sacru legat de miturile creației și de cultul strămoșilor. Vizitatorii pot admira imensitatea acestui relief de pe marginea superioară a platoului, unde orizontul savanei pare nesfârșit. Circul Léconi reprezintă un contrast fascinant față de restul Gabonului, dominat de păduri tropicale, oferind o perspectivă rară asupra proceselor geomorfologice din centrul Africii. Este o destinație esențială pentru oricine dorește să exploreze diversitatea peisajelor geologice ale continentului.",
+        "en": "The Cirque de Léconi is a spectacular geological formation located on the Batéké Plateaus in southeastern Gabon, near the town of Léconi. This massive natural amphitheater, often referred to as a canyon, was formed by the relentless erosion of ancient sandstone layers by wind and seasonal rainfall. Its most striking feature is the vibrant display of colorful sands that make up its walls, ranging from deep crimsons and ochre oranges to brilliant whites. Geographically, it sits within the unique savanna-dominated landscape of the Haut-Ogooué province, which stands in sharp contrast to the dense rainforests found elsewhere in the country. The relief is characterized by jagged spires, ridges, and sediment towers that have been shaped into otherworldly forms over millennia. To the local Téké people, the Cirque de Léconi is a site of great spiritual significance, often shrouded in ancestral legends and traditional lore. The formation provides a rare glimpse into the Tertiary geological history of the Congo Basin's western edge. Visitors are often overwhelmed by the sheer scale and the silent majesty of the bowl, which offers expansive views across the border into the Republic of Congo. The Cirque de Léconi remains one of Gabon's most visually stunning landmarks, highlighting the extraordinary variety of the nation’s physical relief beyond its tropical canopy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Cirque de Léconi ist ein durch Erosion entstandenes Becken, kein klassischer Canyon.",
+          "Die Wände zeigen natürliche Schichten aus weißem, rotem und ockerfarbenem Sandstein.",
+          "Es befindet sich in der Provinz Haut-Ogooué nahe der Grenze zum Kongo.",
+          "Die Batéké-Plateaus, in denen es liegt, bestehen aus uralten äolischen Sedimenten.",
+          "In der lokalen Téké-Kultur gilt der Ort als Sitz mächtiger Geister.",
+          "Die besten Aussichten bieten sich in den frühen Morgenstunden bei klarem Licht."
+        ],
+        "hu": [
+          "A kanyon valójában egy kör alakú eróziós mélyedés a homokkő fennsíkon.",
+          "A színes homokot a helyiek rituális arcfestéshez is használják.",
+          "Léconi városa az egyetlen jelentősebb település a képződmény közelében.",
+          "A kanyon mélyén lévő sziklaalakzatok állandóan változnak a szél hatására.",
+          "Ez Gabon egyik legfontosabb turisztikai célpontja a keleti régióban.",
+          "A terület a Batéké Nemzeti Park ökológiai pufferzónájában található."
+        ],
+        "ro": [
+          "Circul Léconi este renumit pentru nisipurile sale multicolore unice în regiune.",
+          "Formațiunea este rezultatul eroziunii diferențiale a straturilor de gresie.",
+          "Pereții amfiteatrului pot atinge înălțimi de peste 100 de metri.",
+          "Este un sit de interes geologic major pentru studiul bazinului Congo.",
+          "Poporul Téké consideră circul un loc de comunicare cu divinitatea.",
+          "Accesul se face de obicei prin orașul Franceville spre localitatea Léconi."
+        ],
+        "en": [
+          "The Cirque de Léconi is a massive erosion crater within the Batéké Plateau.",
+          "It is famous for its natural palette of red, pink, white, and orange sands.",
+          "The formation is part of a Tertiary sandstone sequence in southeastern Gabon.",
+          "It is considered a sacred natural site by the indigenous Téké community.",
+          "The relief features dramatic columns and spires created by wind erosion.",
+          "It offers one of the few desert-like panoramas in an otherwise tropical nation."
+        ]
+      }
+    },
+    {
+      "id": "mont-bengoue-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Bengoué liegt im Nordosten Gabuns in der Provinz Ogooué-Ivindo und gilt nach neueren topografischen Messungen als der höchste Gipfel des Landes. Mit einer Höhe von etwa 1.070 Metern übertrifft er den traditionell als höchsten Berg geführten Mont Iboundji. Der Berg ist Teil eines weitläufigen Hochlandsystems, das reich an wertvollen Eisenerzvorkommen ist. Der Mont Bengoué ist vollständig von primärem Regenwald bedeckt, der eine extrem hohe Biodiversität aufweist. Aufgrund seiner Lage im abgelegenen Nordosten ist der Berg touristisch kaum erschlossen und bleibt ein wichtiges Rückzuggebiet für die Megafauna Gabuns, darunter Waldelefanten und Gorillas. Geologisch gesehen besteht das Relief aus uraltem kristallinem Gestein, das Teil des afrikanischen Kratons ist. Die klimatischen Bedingungen am Gipfel sind geprägt von hoher Luftfeuchtigkeit und deutlich kühleren Temperaturen als im Tiefland. Der Mont Bengoué spielt eine wichtige Rolle als Wasserscheide und speist zahlreiche Bäche, die in das Ivindo-Flusssystem fließen. Die Besteigung des Berges ist aufgrund des dichten Unterholzes und des Fehlens von Wegen eine logistische Herausforderung. Er symbolisiert die unentdeckte und raue Seite der gabunischen Geografie. Die Erhaltung dieses Gipfelökosystems ist entscheidend für den Schutz seltener Bergpflanzenarten, die an dieses spezifische Mikroklima angepasst sind.",
+        "hu": "A Mont Bengoué Gabon északkeleti részén, az Ogooué-Ivindo tartományban emelkedik, és a legújabb térképészeti mérések szerint ez az ország legmagasabb pontja. Mintegy 1070 méteres magasságával megelőzi a korábban csúcstartónak hitt Mont Iboundjit. A hegy egy hatalmas, vasércben gazdag felföldi rendszer része, amelynek geológiai felépítése több milliárd éves kristályos kőzetekre vezethető vissza. A Mont Bengoué felszínét sűrű, elsődleges trópusi esőerdő borítja, amely az érintetlensége miatt rendkívüli biodiverzitással bír. A hegyvidéki környezet hűvösebb klímája kedvez olyan növényfajoknak, amelyek az alacsonyabb fekvésű területeken nem élnek meg. Állatvilága is különleges: a meredek lejtők és a sűrű bozótos menedéket nyújtanak az erdei elefántoknak és a síkvidéki gorilláknak. A hegy fontos vízválasztó, csúcsairól számos patak indul útjára, amelyek végül az Ivindo-folyót táplálják. Elszigeteltsége miatt a Mont Bengoué ma is Gabon egyik legkevésbé ismert területe, megmászása csak szervezett expedíciók keretében, komoly fizikai felkészültséggel lehetséges. A hegy nemcsak földrajzi rekord, hanem Gabon vadonjának egyik utolsó háborítatlan bástyája is. A terület megőrzése kiemelt fontosságú a közép-afrikai hegyi ökoszisztémák tanulmányozása és védelme szempontjából, különös tekintettel a környező bányászati tervekre.",
+        "ro": "Mont Bengoué, situat în nord-estul Gabonului, în provincia Ogooué-Ivindo, este recunoscut prin măsurători topografice recente ca fiind cel mai înalt vârf din țară. Cu o altitudine de aproximativ 1.070 de metri, acesta domină peisajul regiunii, depășind înălțimea raportată istoric pentru muntele Iboundji. Muntele face parte dintr-un masiv montan mai larg, extrem de bogat în resurse minerale, în special minereu de fier. Bengoué este acoperit integral de o păpădure tropicală primară, fiind un ecosistem vital pentru biodiversitatea regiunii. Izolarea sa extremă a păstrat un mediu sălbatic nealterat, servind drept habitat pentru elefanții de pădure și gorilele de câmpie. Din punct de vedere geologic, relieful său este format din roci cristaline străvechi, datând din perioada precambriană. Clima pe Mont Bengoué este caracterizată prin precipitații abundente și o nebulozitate persistentă, ceea ce favorizează o floră specifică de altitudine. Muntele funcționează ca un nod hidrografic, alimentând numeroși afluenți ai râului Ivindo. Accesul pe vârf este o provocare majoră din cauza lipsei infrastructurii și a densității vegetației, rămânând o destinație pentru explorări științifice și aventură extremă. Conservarea acestui vârf este esențială pentru menținerea echilibrului ecologic în nordul Gabonului și pentru protejarea unor specii vegetale endemice. Bengoué rămâne un simbol al măreției naturale și al bogățiilor ascunse ale reliefului gabonez.",
+        "en": "Mount Bengoué is located in northeastern Gabon within the Ogooué-Ivindo province and, according to recent topographic surveys, is now considered the highest peak in the country. Reaching an elevation of approximately 1,070 meters, it surpasses the traditionally recognized Mount Iboundji. The mountain is part of a vast highland system that is globally significant for its massive deposits of high-grade iron ore. Mount Bengoué is completely enveloped in primary equatorial rainforest, hosting an incredible variety of wildlife and plant species. Due to its remote location, the mountain remains largely unexplored and serves as a critical sanctuary for Gabon's forest megafauna, including forest elephants and lowland gorillas. Geologically, the relief is composed of ancient crystalline basement rocks belonging to the African craton. The climate at the summit is characterized by high humidity and temperatures that are noticeably cooler than in the surrounding lowlands. Mount Bengoué acts as a major watershed, feeding numerous streams that contribute to the Ivindo River basin. Scaling the mountain is a formidable logistical challenge due to the lack of trails and the density of the jungle undergrowth. It stands as a symbol of the untamed and rugged geography of inland Gabon. Preserving this montane ecosystem is essential for protecting rare plant species adapted to this unique high-altitude microclimate."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Bengoué gilt mit 1.070 m als der höchste Punkt Gabuns.",
+          "Er liegt in der abgelegenen Provinz Ogooué-Ivindo im Nordosten.",
+          "Der Gipfel ist Teil des eisenerzhaltigen Belinga-Gebirgszugs.",
+          "Der Berg ist vollständig von unberührtem tropischem Primärwald bedeckt.",
+          "Das Relief wurde durch uralte geologische Prozesse des afrikanischen Kratons geformt.",
+          "Hier herrscht ein kühleres Mikroklima als im umliegenden Tiefland."
+        ],
+        "hu": [
+          "A Mont Bengoué magassága 1070 méter, ezzel Gabon csúcsa.",
+          "A hegy az Ivindo-medence északi részének meghatározó domborzata.",
+          "Területe kiemelkedően gazdag vasércben és más ásványkincsekben.",
+          "A csúcs megközelítése az utak hiánya miatt rendkívül nehéz.",
+          "A hegyi esőerdőben számos ritka orchideafaj honos.",
+          "A hegy fontos ökológiai folyosó az északi vadvédelmi zónák között."
+        ],
+        "ro": [
+          "Este oficial cel mai înalt punct din Gabon, conform datelor SRTM.",
+          "Muntele Bengoué face parte din complexul ferugifer Belinga.",
+          "Altitudinea sa creează un etaj de vegetație montană tropicală rar.",
+          "Este situat într-o zonă aproape nepopulată a Gabonului.",
+          "Izvoarele sale sunt vitale pentru debitul cursului superior al râului Ivindo.",
+          "Relieful este marcat de pante abrupte și depuneri sedimentare vechi."
+        ],
+        "en": [
+          "Mount Bengoué is the highest elevation in Gabon at 1,070 meters.",
+          "It is located deep within the iron-rich Belinga highlands.",
+          "The peak remains largely untouched by commercial or tourist development.",
+          "It supports high levels of biodiversity within a primary forest canopy.",
+          "The mountain serves as a crucial watershed for the northeastern Gabon.",
+          "Its crystalline geological structure dates back over 2 billion years."
+        ]
+      }
+    },
+    {
+      "id": "mayombe-range-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Mayombe-Gebirge (Monts de Mayombe) ist ein langgestreckter Gebirgszug, der sich parallel zur Atlantikküste durch den Südwesten Gabuns, die Republik Kongo bis nach Angola erstreckt. In Gabun prägt es vor allem das Relief der Provinz Nyanga. Das Gebirge besteht aus einer Serie von bewaldeten Hügeln und Bergen, die selten Höhen von über 800 Metern erreichen, aber durch ihre steilen Hänge und tiefen Täler eine markante Barriere bilden. Geologisch handelt es sich um eine sehr alte Formation aus metamorphem Gestein, die durch komplexe Faltungen entstanden ist. Das Mayombe-Gebirge ist bekannt für sein extrem feuchtes Klima, da es die vom Ozean kommenden Regenwolken staut. Dies hat zur Entwicklung dichter, üppiger Regenwälder geführt, die reich an wertvollen Baumarten wie Okoumé und Ebenholz sind. Die Region beheimatet eine spezialisierte Fauna, darunter Schimpansen und verschiedene Ducker-Arten. Historisch war das Gebirge aufgrund seiner Unwegsamkeit ein natürliches Hindernis für die Erschließung des Hinterlandes, was zum Erhalt großer Waldflächen beigetragen hat. Für die lokale Bevölkerung ist das Mayombe-Gebirge eine wichtige Quelle für Waldprodukte und Wasser. Die Flussläufe, die das Gebirge durchschneiden, bilden oft spektakuläre Schluchten und Stromschnellen. Der Schutz des Mayombe-Reliefs ist ein grenzüberschreitendes Anliegen, um die ökologische Kontinuität dieses wichtigen Küstengebirges in Zentralafrika zu gewährleisten.",
+        "hu": "A Mayombe-hegység (Monts de Mayombe) egy hosszú, az Atlanti-óceán partjával párhuzamosan futó hegyvonulat, amely Gabon délnyugati részén kezdődik, majd átnyúlik a Kongói Köztársaságon és a Kongói Demokratikus Köztársaságon keresztül egészen Angoláig. Gabonban elsősorban Nyanga tartomány domborzatát határozza meg. Bár a csúcsok ritkán haladják meg a 800 méteres magasságot, a hegyek meredek oldalai és a mély, szűk völgyek komoly domborzati akadályt képeznek a tengerpart és a belső területek között. Geológiailag a Mayombe egy ősi, metamorf kőzetekből álló gyűrt hegység, amely évmilliókkal ezelőtti tektonikai folyamatok során jött létre. A hegység klímája rendkívül párás és csapadékos, mivel felfogja az óceán felől érkező nedves légtömegeket, ami buja, sűrű esőerdők kialakulásához vezetett. Ezek az erdők híresek értékes fafajaikról, mint például az okoumé. Az állatvilág szempontjából a Mayombe fontos folyosót és élőhelyet biztosít a csimpánzok és ritka antilopfajok számára. Történelmileg a hegység nehéz járhatósága akadályozta a gyarmati terjeszkedést, aminek köszönhetően nagy területek maradtak érintetlenek. A helyi közösségek számára a hegység a vízbázis és a hagyományos erdőgazdálkodás alapja. A Mayombe-hegység megőrzése regionális érdek, hiszen az egyik legfontosabb part menti ökológiai gát Közép-Afrikában. Az idelátogatók számára a táj a végtelen zöld dombok és a misztikus erdei köd birodalma.",
+        "ro": "Munții Mayombe (Monts de Mayombe) reprezintă un lanț muntos lung și îngust care se întinde paralel cu coasta Atlanticului, traversând sud-vestul Gabonului, Republica Congo și ajungând până în Angola. În Gabon, acest relief domină provincia Nyanga, formând o barieră naturală între ocean și interiorul continentului. Deși altitudinile nu sunt extrem de mari, depășind rar 800 de metri, pantele sunt abrupte și văile adânci, ceea ce face terenul foarte accidentat. Geologic, Mayombe este o formațiune foarte veche, compusă din roci metamorfice pliate în timpul orogenezelor precambriene. Munții au un rol crucial în reglarea umidității regionale, captând masele de aer umed de pe ocean și generând precipitații frecvente. Acest fenomen a permis dezvoltarea unei păduri tropicale dense și verzi, renumită pentru bogăția sa în specii de lemn prețios, precum okoumé. Fauna este diversă, incluzând populații de cimpanzei și antilope de pădure. Istoric, masivul Mayombe a reprezentat o provocare pentru construcția căilor de comunicație, fapt ce a dus la conservarea unor mari zone de sălbăticie. Pentru populațiile locale, munții sunt sursa principală de apă dulce și oferă numeroase resurse forestiere tradiționale. Protejarea reliefului Mayombe este o prioritate ecologică transfrontalieră, fiind esențială pentru menținerea coridoarelor biologice litorale din Africa Centrală. Peisajul montan, adesea învăluit în nori, oferă o imagine sugestivă a forței naturii ecuatoriale.",
+        "en": "The Mayombe Mountains (Monts de Mayombe) are an extensive mountain range running parallel to the Atlantic coast through southwestern Gabon and extending into the Republic of Congo, DR Congo, and Angola. In Gabon, they primarily define the relief of the Nyanga province. While the peaks rarely exceed 800 meters in height, the range is characterized by steep slopes and deep, narrow valleys that form a significant topographic barrier between the coast and the inland plains. Geologically, the Mayombe is an ancient fold mountain system composed of metamorphic rocks formed during the Precambrian era. The range is noted for its extremely humid climate, as it traps moisture-laden winds from the ocean, leading to heavy orographic rainfall. This constant moisture supports lush, dense rainforests rich in valuable timber species like okoumé and ebony. The region serves as an important habitat for primates, including chimpanzees, and various forest antelope species. Historically, the rugged nature of the Mayombe presented a formidable obstacle to inland exploration and infrastructure development, which helped preserve vast areas of its primary forest cover. For local communities, the mountains are a vital source of water and traditional forest resources. Protecting the Mayombe relief is a regional conservation priority, ensuring the ecological integrity of this unique coastal mountain belt in Central Africa. It remains a landscape of mist-covered hills and exceptional biological value."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Mayombe-Gebirge erstreckt sich über 800 km durch vier afrikanische Länder.",
+          "In Gabun bildet es die geografische Grenze der Provinz Nyanga.",
+          "Das Relief besteht aus metamorphen Gesteinen wie Schiefer und Quarzit.",
+          "Die Berge wirken als Klimabarriere und sind extrem niederschlagsreich.",
+          "Die dichten Wälder des Mayombe sind eine Hauptquelle für Okoumé-Holz.",
+          "Das Gebirge beherbergt zahlreiche seltene endemische Pflanzenarten."
+        ],
+        "hu": [
+          "A hegység Gabon délnyugati részétől egészen Angoláig húzódik.",
+          "A legmagasabb pontjai Gabonban 800 méter körül alakulnak.",
+          "A Mayombe fontos vízválasztó a tengerparti folyók számára.",
+          "A terület híres a rendkívül sűrű és párás köderdőiről.",
+          "A hegységen áthaladó utak építése a domborzat miatt rendkívül költséges.",
+          "Fontos csimpánz-rezervátumok találhatók a vonulat területén."
+        ],
+        "ro": [
+          "Munții Mayombe sunt printre cei mai vechi munți de încrețire din Africa.",
+          "Relieful este caracterizat de o eroziune pluvială foarte activă.",
+          "Găzduiesc specii de arbori gigantici care ating peste 50 m înălțime.",
+          "Lanțul muntos separă câmpia de coastă de podișurile interioare.",
+          "Este o regiune cu un potențial imens pentru ecoturismul montan.",
+          "Munții sunt străbătuți de râul Nyanga în drumul său spre ocean."
+        ],
+        "en": [
+          "The Mayombe range is a major mountain belt in West-Central Africa.",
+          "It features some of Gabon's most biologically diverse rainforests.",
+          "The mountains are primarily composed of ancient Precambrian metamorphic rocks.",
+          "Orographic rainfall here is among the highest in the coastal region.",
+          "The range acts as a critical biological bridge across national borders.",
+          "It remains a significant area for traditional forest-based livelihoods."
+        ]
+      }
+    },
+    {
+      "id": "doudou-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Doudou-Berge (Monts Doudou) liegen im Südwesten Gabuns und bilden den nördlichen Ausläufer des Mayombe-Gebirges innerhalb des Moukalaba-Doudou-Nationalparks. Dieses Relief ist von außergewöhnlicher biologischer und geografischer Bedeutung, da es eine der höchsten Erhebungen in der Nähe der gabunischen Küste darstellt. Die Berge sind geprägt durch steile Grate und tiefe Schluchten, die fast vollständig von dichtem, primärem Regenwald bedeckt sind. Eine Besonderheit der Doudou-Berge ist ihr Karstrelief in tieferen Lagen, das zahlreiche Höhlen und unterirdische Wasserläufe beherbergt. Ökologisch gesehen sind die Berge ein Refugium für eine beeindruckende Vielfalt an Arten; sie beherbergen eine der weltweit höchsten Dichten an Pflanzenarten pro Quadratkilometer. Zudem bieten sie Schutz für bedrohte Primaten wie Gorillas und Schimpansen sowie für Waldelefanten, die in den unwegsamen Hängen Sicherheit finden. Die klimatischen Bedingungen sind durch die Nähe zum Atlantik extrem feucht, was zu einer üppigen Epiphytenflora führt. Für die Forschung bieten die Doudou-Berge ein wichtiges Untersuchungsgebiet für die Evolution von Gebirgsökosystemen im tropischen Afrika. Trotz ihrer relativen Küstennähe bleiben die Berge aufgrund ihres schwierigen Terrains weitgehend unzugänglich für großflächige menschliche Eingriffe. Die Erhaltung dieses Reliefs ist ein zentraler Bestandteil der nationalen Naturschutzstrategie Gabuns.",
+        "hu": "A Doudou-hegység (Monts Doudou) Gabon délnyugati részén, az Ogooué-Maritime és Nyanga tartományok határán található, és a Moukalaba-Doudou Nemzeti Park egyik legmeghatározóbb domborzati eleme. A hegység a Mayombe-vonulat északi nyúlványát alkotja, és Gabon egyik biológiailag leggazdagabb hegyvidéki területe. A tájképet meredek hegygerincek és mély szakadékok jellemzik, amelyeket szinte áthatolhatatlan, elsődleges esőerdő borít. A Doudou-hegység geológiai különlegessége az alacsonyabb szinteken található karsztosodott mészkő, amely számos feltáratlan barlangot és földalatti patakot rejt. Ökológiai szempontból a terület egyedülálló: a botanikusok itt mérték az egyik legmagasabb növényi diverzitást egész Afrikában. A hegyek menedéket nyújtanak a nyugati síkvidéki gorilláknak, csimpánzoknak és erdei elefántoknak, amelyek a nehéz terepviszonyok miatt itt biztonságban vannak az emberi zavarástól. Az óceán közelsége miatt a hegység rendkívül párás, a csúcsokat gyakran sűrű köd borítja, ami különleges mikroklímát teremt a fák ágain élő orchideák és páfrányok számára. A terület tudományos jelentősége óriási, mivel számos endemikus faj csak ezeken a lejtőkön maradt fenn. A Doudou-hegység Gabon vadregényes arcát mutatja meg, ahol a domborzat és a növényzet összefonódása egy természetes erődítményt alkot a biodiverzitás megőrzésére.",
+        "ro": "Munții Doudou (Monts Doudou) sunt situați în sud-vestul Gabonului și reprezintă extensia nordică a lanțului Mayombe, fiind inima Parcului Național Moukalaba-Doudou. Acest relief este de o importanță biologică și geografică excepțională, constituind una dintre cele mai înalte zone montane din apropierea litoralului gabonez. Munții sunt caracterizați prin creste ascuțite și defilee adânci, acoperite aproape în totalitate de o pădure tropicală primară de nepătruns. O trăsătură distinctivă a Munților Doudou este prezența reliefului carstic în zonele de bază, care adăpostește numeroase peșteri și cursuri de apă subterane. Din punct de vedere ecologic, acești munți sunt un veritabil sanctuar, găzduind una dintre cele mai mari densități de specii vegetale pe unitatea de suprafață din Africa. De asemenea, oferă protecție pentru primate periclitate, cum ar fi gorilele și cimpanzeii, precum și pentru elefanții de pădure care navighează pe versanții accidentați. Proximitatea față de Oceanul Atlantic determină un climat extrem de umed, favorizând o floră bogată în epifite. Pentru comunitatea științifică, Munții Doudou reprezintă o zonă de studiu prioritară pentru înțelegerea adaptării speciilor la mediile montane tropicale. În ciuda poziției lor relativ accesibile, terenul dificil a limitat intervenția umană masivă, păstrând peisajul într-o stare de conservare remarcabilă. Protejarea acestui relief este vitală pentru strategia națională de mediu a Gabonului.",
+        "en": "The Doudou Mountains (Monts Doudou) are located in southwestern Gabon and form the northern reaches of the Mayombe range within the Moukalaba-Doudou National Park. This relief is of exceptional biological and geographic importance as it represents one of the highest elevations in close proximity to the Gabonese coast. The mountains are characterized by steep ridges and deep ravines, almost entirely blanketed by dense primary rainforest. A unique feature of the Doudou Mountains is the karst relief found at lower elevations, which houses numerous caves and subterranean waterways. Ecologically, the mountains are a global sanctuary; they host one of the highest densities of plant species per square kilometer in Africa. They also provide a secure haven for endangered primates like gorillas and chimpanzees, as well as forest elephants that find safety in the rugged terrain. The climatic conditions are extremely humid due to the Atlantic influence, supporting a prolific growth of epiphytic flora. For researchers, the Doudou Mountains are a key site for studying the evolution of montane ecosystems in tropical Africa. Despite being relatively close to the coast, the difficult terrain has kept the area largely inaccessible to large-scale human interference. Preserving this relief is a fundamental pillar of Gabon’s national conservation strategy and a major contribution to Central African biodiversity protection."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Doudou-Berge sind das Herzstück des Moukalaba-Doudou-Nationalparks.",
+          "Sie beherbergen eine der weltweit höchsten Pflanzendiversitäten.",
+          "In den Bergen finden sich seltene Karsthöhlen und unterirdische Flüsse.",
+          "Das Relief bildet einen wichtigen Puffer zwischen der Küste und dem Landesinneren.",
+          "Hier leben bedeutende Populationen von Gorillas und Schimpansen.",
+          "Die höchste Erhebung der Berge liegt bei etwa 800 Metern."
+        ],
+        "hu": [
+          "A hegység a nevét a helyi legendákban szereplő szellemekről kapta.",
+          "A botanikusok több mint 2000 növényfajt azonosítottak a lejtőkön.",
+          "A karsztos barlangokban ritka denevérfajok kolóniái élnek.",
+          "A hegység fontos szerepet játszik a Nyanga-folyó vízgyűjtőjében.",
+          "A területen tilos bármilyen bányászati vagy ipari tevékenység.",
+          "Az állandó felhőtakaró miatt a hegyeken köderdők alakultak ki."
+        ],
+        "ro": [
+          "Munții Doudou sunt considerați un refugiu glaciar pentru flora africană.",
+          "Relieful este format dintr-un amestec de gresii și calcare.",
+          "Găzduiesc specii de păsări endemice zonei de coastă a Gabonului.",
+          "Accesul se face de obicei prin localitatea Tchibanga.",
+          "Este un sit prioritar pentru cercetările primatologice internaționale.",
+          "Peisajul este marcat de văi extrem de adânci și abrupte."
+        ],
+        "en": [
+          "The Doudou Mountains are a key feature of the Moukalaba-Doudou ecosystem.",
+          "They exhibit one of the highest plant endemism rates in Central Africa.",
+          "The range contains significant limestone karst formations and caves.",
+          "It acts as a primary sanctuary for the western lowland gorilla.",
+          "Persistent Atlantic moisture results in thick moss-covered forest floors.",
+          "The mountains are essential for maintaining regional rainfall patterns."
+        ]
+      }
+    },
+    {
+      "id": "koumouna-bouali-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Koumouna-Bouali-Massiv ist eine markante geologische Formation in der Provinz Ngounié im Süden Zentral-Gabuns, nahe der Stadt Mouila. Dieses Relief besteht aus einer Serie von langgestreckten Quarzitrücken, die sich deutlich über die umliegenden Ebenen und das Ngounié-Tal erheben. Geografisch bildet das Massiv eine wichtige topografische Barriere, die den Lauf des Ngounié-Flusses beeinflusst und ihn zu Windungen zwingt. Das Massiv ist von einer Mischung aus dichten Bergwäldern und offeneren Waldsavannen bedeckt, was es zu einem ökologisch vielfältigen Gebiet macht. Besonders bekannt ist Koumouna-Bouali für seine Bedeutung als Wanderkorridor für Wildtiere zwischen dem Chaillu-Massiv und den Küstenebenen. Das Relief bietet zudem Schutz für verschiedene Antilopenarten und Primaten. Geologisch sind die Quarzite des Massivs sehr widerstandsfähig gegen Erosion, was die scharfen Konturen und Grate der Berge erklärt. In der lokalen Kultur der Punu-Bevölkerung spielt das Massiv eine Rolle in der traditionellen Orientierung und in spirituellen Erzählungen. Das Gebiet ist auch für seine botanische Vielfalt bekannt, insbesondere für seltene Gräser und Sträucher, die auf den kargen, steinigen Böden der Grate wachsen. Für Besucher bietet das Massiv spektakuläre Aussichtspunkte über die weite Savannenlandschaft der Ngounié-Provinz. Die Erhaltung dieses Reliefs ist wichtig für den Schutz der regionalen Biodiversität und die Stabilität der lokalen Wassereinzugsgebiete.",
+        "hu": "A Koumouna-Bouali-masszívum Gabon déli-középső részén, a Ngounié tartományban, Mouila városa közelében található meghatározó geológiai képződmény. Ez a domborzati egység jellegzetes, hosszúkás kvarcitgerincekből áll, amelyek élesen kiemelkednek a környező síkságokból és a Ngounié-folyó völgyéből. Földrajzi szempontból a masszívum fontos topográfiai gátat képez, amely jelentősen befolyásolja a folyó irányát, kanyargásra kényszerítve azt. A hegyeket sűrű hegyi erdők és nyitottabb erdős szavannák mozaikja borítja, ami rendkívül változatos élőhelyet biztosít. A Koumouna-Bouali különösen fontos mint ökológiai folyosó, amely összeköti a Chaillu-masszívumot a part menti síkságokkal, lehetővé téve a vadállatok szabad mozgását. A terület számos antilopfajnak és kisebb főemlősnek ad otthont. Geológiailag a kvarcit kőzet rendkívül ellenálló az erózióval szemben, ami megmagyarázza a hegyek éles kontúrjait és meredek sziklafalaid. A helyi punu kultúrában a masszívum fontos tájékozódási pont és szellemi viszonyítási hely. A botanikusok számára a terület a sziklás talajhoz alkalmazkodott ritka növényfajok miatt érdekes. Az utazók számára a hegység csúcsai lenyűgöző panorámát nyújtanak a Ngounié tartomány végtelen szavannáira és folyóira. A masszívum megőrzése kulcsfontosságú a régió vízháztartásának és biológiai sokféleségének fennmaradásához.",
+        "ro": "Masivul Koumouna-Bouali este o formațiune geologică proeminentă situată în provincia Ngounié din centrul-sudul Gabonului, în apropiere de orașul Mouila. Acest relief se compune dintr-o serie de creste alungite de cuarțit, care se ridică vizibil deasupra câmpiilor înconjurătoare și a văii râului Ngounié. Din punct de vedere geografic, masivul constituie o barieră topografică importantă, care influențează cursul râului, forțându-l să creeze meandre spectaculoase. Vegetația masivului este un mozaic de păduri montane dense și savane arborate, ceea ce îl transformă într-o zonă de o mare diversitate ecologică. Koumouna-Bouali este recunoscut pentru rolul său de coridor de migrație pentru fauna sălbatică între masivul Chaillu și câmpiile litorale. Relieful oferă adăpost pentru diverse specii de antilope și primate. Geologic, cuarțitele masivului sunt extrem de rezistente la eroziune, explicând contururile ascuțite și crestele bine definite ale munților. În cultura locală a poporului Punu, masivul joacă un rol în orientarea tradițională și în legendele spirituale. Regiunea este de asemenea notabilă pentru diversitatea sa botanică, incluzând ierburi și arbuști rari care prosperă pe solurile pietroase ale crestelor. Pentru vizitatori, masivul oferă puncte de observație spectaculoase asupra vastelor peisaje de savană din provincia Ngounié. Conservarea acestui relief este esențială pentru protejarea biodiversității regionale și stabilitatea bazinelor hidrografice locale.",
+        "en": "The Koumouna-Bouali Massif is a prominent geological formation in the Ngounié province of south-central Gabon, situated near the city of Mouila. This relief consists of a series of elongated quartzite ridges that rise significantly above the surrounding plains and the Ngounié river valley. Geographically, the massif forms a major topographical barrier that influences the course of the Ngounié River, forcing it into dramatic bends and meanders. The massif is covered by a mosaic of dense montane forests and more open wooded savannas, making it an ecologically diverse area. Koumouna-Bouali is particularly noted for its role as a critical wildlife migration corridor linking the Chaillu Massif to the coastal lowlands. The relief provides a secure habitat for various antelope species and small primates. Geologically, the quartzite rocks of the massif are highly resistant to erosion, which accounts for the sharp contours and defined ridges of the hills. In the local culture of the Punu people, the massif serves as a key landmark for orientation and features in traditional spiritual narratives. The area is also recognized for its botanical diversity, especially for rare grasses and shrubs that grow on the thin, rocky soils of the ridges. For travelers, the massif offers spectacular vantage points overlooking the expansive savanna landscapes of the Ngounié province. Preserving this relief is essential for the protection of regional biodiversity and the stability of local watersheds."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Massiv besteht hauptsächlich aus sehr hartem präkambrischem Quarzit.",
+          "Es liegt im Einzugsgebiet der Ngounié in der Nähe der Stadt Mouila.",
+          "Das Relief fungiert als wichtiger ökologischer Korridor für Großsäuger.",
+          "Die Vegetation ist eine seltene Mischung aus Gebirgswald und Savanne.",
+          "Die Bergrücken bieten Schutz vor den saisonalen Überschwemmungen der Ngounié-Ebene.",
+          "Hier finden sich spezialisierte Pflanzenarten, die an Quarzitböden angepasst sind."
+        ],
+        "hu": [
+          "A hegység kvarcit kőzetei több mint 2 milliárd évesek.",
+          "A masszívum fontos szerepet játszik a Ngounié-folyó medrének szabályozásában.",
+          "A terület a punu népcsoport egyik hagyományos vadászterülete.",
+          "A gerincekről jól látható Mouila városa és a környező szavannák.",
+          "A hegység növényvilága jelentősen eltér a környező esőerdőkétől.",
+          "A Koumouna-Bouali Gabon egyik leglátványosabb kőzetkibúvása."
+        ],
+        "ro": [
+          "Masivul este format din creste paralele orientate pe direcția nord-sud.",
+          "Quarțitul rezistent a permis menținerea unor forme de relief proeminente.",
+          "Este un habitat preferat pentru babuini și antilope de savană.",
+          "Influențează microclimatul local prin blocarea parțială a vânturilor.",
+          "Pantele masivului sunt utilizate pentru agricultura de subzistență de munte.",
+          "Reprezintă o bornă geografică majoră în sudul Gabonului."
+        ],
+        "en": [
+          "The massif is composed of erosion-resistant Precambrian quartzite ridges.",
+          "It is a vital link in the wildlife migration routes of southern Gabon.",
+          "The relief features a unique combination of high-altitude forest and savanna.",
+          "It acts as a natural dam, shaping the middle course of the Ngounié River.",
+          "The Punu people hold the massif in high regard as a spiritual landmark.",
+          "The area is known for endemic flora that thrives on nutrient-poor rock surfaces."
+        ]
+      }
+    }
+  ]
+}

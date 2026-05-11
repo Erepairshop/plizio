@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhaka-cities-v2",
+      "description": "The vibrant capital of Bangladesh, known for its rich history, bustling markets, and its role as the nation's political and economic heart.",
+      "facts": ["Capital of Bangladesh", "Rickshaw capital of the world", "Home to Lalbagh Fort"]
+    },
+    {
+      "id": "chittagong-cities-v2",
+      "description": "The largest seaport and second-largest city in Bangladesh, nestled between the Karnaphuli River and the Bay of Bengal.",
+      "facts": ["Major international seaport", "Gateway to the Hill Tracts", "Commercial hub of the country"]
+    },
+    {
+      "id": "khulna-cities-v2",
+      "description": "An industrial city in southwestern Bangladesh, serving as the main gateway to the Sundarbans mangrove forest.",
+      "facts": ["Third-largest city", "Gateway to the Sundarbans", "Major shrimp export center"]
+    },
+    {
+      "id": "rajshahi-cities-v2",
+      "description": "Located on the banks of the Padma River, this city is famous for its silk production and educational institutions.",
+      "facts": ["The Silk City", "Famous for Varendra Research Museum", "Major educational hub"]
+    },
+    {
+      "id": "sylhet-cities-v2",
+      "description": "A picturesque city in northeastern Bangladesh, renowned for its lush tea gardens and spiritual significance.",
+      "facts": ["Tea capital of Bangladesh", "Spiritual center of the country", "Surrounded by hills and lakes"]
+    },
+    {
+      "id": "barisal-cities-v2",
+      "description": "A major river port city in the south, often called the 'Venice of the East' due to its intricate network of rivers and canals.",
+      "facts": ["Famous for floating guava markets", "Major river transport hub", "Located in the Ganges Delta"]
+    },
+    {
+      "id": "rangpur-cities-v2",
+      "description": "One of the major cities in northern Bangladesh, known for its agricultural importance and historical sites like Tajhat Palace.",
+      "facts": ["Major tobacco producing region", "Home to Tajhat Palace", "Northwestern administrative hub"]
+    },
+    {
+      "id": "mymensingh-cities-v2",
+      "description": "Located on the Brahmaputra River, this city is a major center for education and agriculture in central Bangladesh.",
+      "facts": ["Home to Bangladesh Agricultural University", "On the banks of Brahmaputra", "Rich cultural heritage"]
+    },
+    {
+      "id": "comilla-cities-v2",
+      "description": "A historic city in eastern Bangladesh, famous for its ancient archaeological sites and traditional sweets.",
+      "facts": ["Home to Mainamati ruins", "Famous for Rasmalai sweet", "Strategic trade location"]
+    },
+    {
+      "id": "narayanganj-cities-v2",
+      "description": "An industrial hub near Dhaka, historically significant for its jute trade and river transport.",
+      "facts": ["The Dundee of the East", "Major jute trading center", "Ancient river port"]
+    },
+    {
+      "id": "gazipur-cities-v2",
+      "description": "A rapidly growing industrial city north of Dhaka, home to many textile factories and the Bishwa Ijtema gathering.",
+      "facts": ["Textile and garment hub", "Hosts the Bishwa Ijtema", "Rapidly urbanizing area"]
+    }
+  ]
+}

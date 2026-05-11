@@ -1,0 +1,45 @@
+{
+  "lang": "de",
+  "country": "Uganda",
+  "files": [
+    "lib/visualLab/data/poiExtraUgandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUgandaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bigo-bya-mugenyi-history-v2",
+      "description": "Eine bedeutende archäologische Stätte, die mit dem legendären Bachwezi-Reich in Verbindung gebracht wird. Die Anlage besteht aus einer Reihe von Erdwerken und Gräben aus der Zeit zwischen dem 13. und 16. Jahrhundert.",
+      "facts": ["Archäologische Fundstätte", "Bachwezi-Kultur", "Erdwerke und Gräben", "13. bis 16. Jahrhundert"]
+    },
+    {
+      "id": "ug-rubaga-cathedral-landmarks-v2",
+      "description": "Die Rubaga-Kathedrale ist eine bedeutende römisch-katholische Kirche in Kampala, die auf dem Rubaga-Hügel thront. Sie ist der Sitz des Erzbischofs von Kampala und ein wichtiges spirituelles Zentrum.",
+      "facts": ["Katholische Kathedrale", "Sitz des Erzbistums", "Kampala, Rubaga-Hügel", "Religiöses Zentrum"]
+    },
+    {
+      "id": "ug-namboole-stadium-landmarks-v2",
+      "description": "Das Mandela National Stadium, bekannt als Namboole, ist das größte Stadion Ugandas. Es wird für wichtige Fußballspiele und große nationale Veranstaltungen genutzt.",
+      "facts": ["Größtes Stadion Ugandas", "Multifunktionsarena", "Kampala", "Fußball und Konzerte"]
+    },
+    {
+      "id": "ug-parliament-house-landmarks-v2",
+      "description": "Das Parlamentsgebäude in Kampala ist der Sitz der ugandischen Legislative. Der Bau im kolonialen Stil ist das Zentrum der politischen Entscheidungsfindung des Landes.",
+      "facts": ["Sitz des Parlaments", "Politikzentrum", "Kolonialarchitektur", "Kampala"]
+    },
+    {
+      "id": "ug-pearl-of-africa-hotel-landmarks-v2",
+      "description": "Ein modernes Luxushotel im Stadtteil Nakasero, das durch seine markante Architektur besticht. Es gehört zu den bekanntesten gehobenen Unterkünften in Kampala.",
+      "facts": ["Luxushotel", "Moderne Architektur", "Nakasero, Kampala", "Gehobene Unterkunft"]
+    },
+    {
+      "id": "ug-karuma-bridge-landmarks-v2",
+      "description": "Die Karuma-Brücke überspannt den Victoria-Nil und verbindet die Regionen Zentral- und Norduganda. Sie gilt als wichtiger Verkehrsknotenpunkt für den Güter- und Personenverkehr.",
+      "facts": ["Victoria-Nil Brücke", "Verbindung Nord-Zentral", "Verkehrsknotenpunkt", "Uganda"]
+    },
+    {
+      "id": "ug-igongo-cultural-centre-landmarks-v2",
+      "description": "Das Igongo Cultural Centre liegt bei Mbarara und widmet sich der Erhaltung und Präsentation der Kulturen Westugandas. Es verfügt über ein Museum und eine Galerie.",
+      "facts": ["Kultur- und Museumszentrum", "Kulturerbe Westugandas", "Standort nahe Mbarara", "Bildung und Tourismus"]
+    }
+  ]
+}

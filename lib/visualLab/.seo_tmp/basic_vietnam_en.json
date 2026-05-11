@@ -1,0 +1,41 @@
+{
+  "lang": "en",
+  "country": "Vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts",
+    "lib/visualLab/data/poiExtraVietnamEconomicV2.ts",
+    "lib/visualLab/data/poiExtraVietnamLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ha-tien-cities-v2",
+      "description": "Ha Tien is a charming coastal city in Vietnam's Kien Giang province, near the Cambodian border. It is known for its picturesque landscapes, including beaches and limestone karst formations.",
+      "facts": [
+        "Located in Kien Giang province.",
+        "Close to the Cambodian border.",
+        "Features beautiful coastal scenery.",
+        "Known for limestone karsts."
+      ]
+    },
+    {
+      "id": "binh-duong-industrial-parks-economic-v2",
+      "description": "Binh Duong Industrial Parks are a key economic hub in southern Vietnam, attracting significant foreign investment. These parks play a crucial role in the region's manufacturing and export sectors.",
+      "facts": [
+        "Major economic center in southern Vietnam.",
+        "Attracts foreign direct investment.",
+        "Focuses on manufacturing.",
+        "Significant for exports."
+      ]
+    },
+    {
+      "id": "thien-mu-pagoda-landmarks-v2",
+      "description": "Thien Mu Pagoda is a historic seven-story pagoda located on the Perfume River in Hue, Vietnam. It is one of the oldest and most beautiful religious structures in the city.",
+      "facts": [
+        "Located in Hue, Vietnam.",
+        "Sits on the Perfume River.",
+        "Seven-story historical pagoda.",
+        "Important Buddhist site."
+      ]
+    }
+  ]
+}

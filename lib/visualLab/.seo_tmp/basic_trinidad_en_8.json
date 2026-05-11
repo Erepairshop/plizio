@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-queens-park-savannah-life-v2",
+      "description": "The Queen's Park Savannah is the cultural heart of Port of Spain, serving as a massive recreational park and host for major events.",
+      "facts": ["Cultural heart of the capital", "Massive public park", "Host of major events"]
+    },
+    {
+      "id": "tt-cleaver-woods-life-v2",
+      "description": "Cleaver Woods is a popular eco-park offering a peaceful escape into the lush natural environment of eastern Trinidad.",
+      "facts": ["Popular eco-park", "Lush natural environment", "Recreational retreat"]
+    },
+    {
+      "id": "tt-caroni-sugarcane-belt-life-v2",
+      "description": "The sugarcane belt in Caroni reflects the historical and ongoing importance of agriculture to the local life and landscape.",
+      "facts": ["Historic sugarcane area", "Key agricultural region", "Important local landscape"]
+    },
+    {
+      "id": "tt-aripo-savannas-life-v2",
+      "description": "The Aripo Savannas are a unique protected ecosystem, known for their rare flora and vital biodiversity in Trinidad.",
+      "facts": ["Protected unique ecosystem", "Rare plant species", "Key biodiversity area"]
+    },
+    {
+      "id": "tt-nariva-swamp-life-v2",
+      "description": "The Nariva Swamp is a vast freshwater wetland, home to diverse wildlife and significant to the island's natural heritage.",
+      "facts": ["Vast freshwater wetland", "Diverse wildlife habitat", "Key ecological site"]
+    },
+    {
+      "id": "tt-bush-bush-sanctuary-life-v2",
+      "description": "The Bush Bush Sanctuary, within the Nariva Swamp, provides a vital refuge for endangered species and local biodiversity.",
+      "facts": ["Wildlife refuge site", "Endangered species habitat", "Protected ecological area"]
+    },
+    {
+      "id": "tt-trinity-hills-life-v2",
+      "description": "The Trinity Hills represent a significant range of natural beauty and biodiversity in the southern part of Trinidad.",
+      "facts": ["Southern mountain range", "Significant biodiversity", "Protected natural area"]
+    },
+    {
+      "id": "tt-toco-coconut-groves-life-v2",
+      "description": "The coconut groves in Toco define the scenic coastal landscape of the northern tip of Trinidad.",
+      "facts": ["Scenic coastal groves", "Northern tip landmark", "Traditional crop area"]
+    },
+    {
+      "id": "tt-pigeon-point-life-v2",
+      "description": "Pigeon Point is the premier destination for leisure and water activities on the western coast of Tobago.",
+      "facts": ["Premier leisure spot", "Iconic Tobago beach", "Water sports hub"]
+    },
+    {
+      "id": "tt-buccoo-reef-life-v2",
+      "description": "Buccoo Reef is a vibrant marine environment in Tobago, offering unique opportunities for snorkeling and nature study.",
+      "facts": ["Vibrant marine ecosystem", "Key snorkeling destination", "Protected park area"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "hu",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khoms-power-plant-economic-v2",
+      "description": "Az ország egyik legjelentősebb villamosenergia-termelő létesítménye a Földközi-tenger partján. Fontos szerepet tölt be a régió energiaellátásának stabilizálásában.",
+      "facts": ["Létesítmény típusa: hőerőmű", "Elhelyezkedés: Khoms városa", "Energiaforrás: földgáz és olaj", "Regionális jelentőség"]
+    },
+    {
+      "id": "ly-bir-hakeim-history-v2",
+      "description": "A második világháború egyik meghatározó csatahelyszíne a líbiai sivatagban. A környéken zajló küzdelmek a szövetséges erők taktikai védekezéséről ismertek.",
+      "facts": ["Dátum: 1942", "Hadművelet: Észak-afrikai hadjárat", "Stratégiai pont: sivatagi erőd", "Történelmi jelentőség"]
+    },
+    {
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "description": "Tripoli egyik ikonikus vallási épülete, amely modern és hagyományos építészeti elemeket ötvöz. A városközpont közelében elhelyezkedő építmény jelentős kulturális csomópont.",
+      "facts": ["Építés: 20. század", "Helyszín: Tripoli", "Stílus: modern iszlám", "Kulturális központ"]
+    },
+    {
+      "id": "brega-oil-terminal-landmarks-v2",
+      "description": "Libya egyik kritikus tengeri olajkikötője, amely elengedhetetlen az ország energiaexportja szempontjából. A létesítmény hatalmas tárolókapacitással és ipari infrastruktúrával rendelkezik.",
+      "facts": ["Funkció: olajkikötő és terminál", "Elhelyezkedés: Brega", "Gazdasági súly: magas", "Exportkapacitás"]
+    },
+    {
+      "id": "gar-al-marah-nature-v2",
+      "description": "Sivatagi környezetben elterülő különleges természeti képződmény, amely része a líbiai belső vidékeknek. A terület tájképileg változatos és geológiailag figyelemre méltó.",
+      "facts": ["Tájegység: sivatagi", "Földrajzi elhelyezkedés: Líbia", "Geológiai típus: medence", "Élővilág: sivatagi"]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "description": "Az ország belsejében húzódó hegyvonulat, amely jelentős változást hoz a környező sivatagi síkságokhoz képest. A kopár sziklás terep geológiai kutatások szempontjából értékes.",
+      "facts": ["Típus: hegyvonulat", "Környezet: sivatagi", "Domborzat: sziklás", "Magasság: közepes"]
+    },
+    {
+      "id": "mizdah-plateau-nature-v2",
+      "description": "Magasan fekvő fennsík, amely uralja a környék domborzatát. Jellegzetes száraz éghajlati viszonyok jellemzik, minimális növényzettel.",
+      "facts": ["Típus: fennsík", "Éghajlat: száraz sivatagi", "Domborzat: síkvidéki fennsík", "Földrajzi régió: belső"]
+    },
+    {
+      "id": "sarir-tanezrouft-nature-v2",
+      "description": "Kiterjedt kavicsos sivatagi terület, amely a Szahara egyik legkietlenebb része. Felszíne szinte teljes egészében kőzetdarabokból és kavicsokból áll.",
+      "facts": ["Típus: kavicsos sivatag", "Környezet: szélsőségesen száraz", "Domborzat: síkság", "Felszín: kavicsos"]
+    },
+    {
+      "id": "jebel-aswad-nature-v2",
+      "description": "Sötét színű vulkanikus hegyvonulat, amelynek elnevezése is utal a színezetére. Geológiailag az ország egyik legérdekesebb sivatagi képződménye.",
+      "facts": ["Típus: vulkanikus hegyvonulat", "Szín: fekete kőzet", "Környezet: sivatagi", "Geológia: bazaltos"]
+    },
+    {
+      "id": "jebel-uwaynat-nature-v2",
+      "description": "Határvidéken fekvő látványos hegytömb, amely egyedi mikroklímával rendelkezik. A környék jelentős sziklarajzairól és kietlen szépségéről ismert.",
+      "facts": ["Típus: hegytömb", "Elhelyezkedés: Líbia-Egyiptom-Szudán határ", "Jellemző: sziklarajzok", "Domborzat: sziklás"]
+    }
+  ]
+}

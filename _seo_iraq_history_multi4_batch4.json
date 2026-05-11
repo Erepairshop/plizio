@@ -1,0 +1,63 @@
+{
+  "lang": "multi4",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqHistoryV2.ts"],
+  "items": [
+    {
+      "id": "borsippa-history-v2",
+      "descriptionAdvancedEn": "Borsippa was an important ancient city of Sumer and Babylonia, located about 20 kilometers southwest of Babylon. The city was a significant religious center, best known for its ziggurat, which is often identified with the Tower of Babel from the biblical story. This ziggurat, named Eurmeiminanki, was dedicated to the god Nabu, the patron of writing and wisdom. During the Neo-Babylonian period, particularly under King Nebuchadnezzar II, the temple complex was lavishly restored. A ceremonial procession road connected Borsippa with Babylon, and during the New Year's festival, the statue of Nabu would be carried to Babylon to visit his father, Marduk. The ruins of the ziggurat are still impressive today, with a distinctive high peak, a result of the partial collapse of the structure, which has puzzled archaeologists.",
+      "factsAdvanced": [
+        "Borsippa was a major cult center for the god Nabu.",
+        "The city is located about 20 km southwest of Babylon.",
+        "Its ziggurat, Eurmeiminanki, is often linked to the Tower of Babel.",
+        "The temple complex was extensively rebuilt by Nebuchadnezzar II.",
+        "A processional way linked Borsippa to the Esagila temple in Babylon.",
+        "The city was continuously inhabited from the 3rd millennium BC into the Islamic period.",
+        "The ruins are marked by a tall, conical mound, the remains of the ziggurat.",
+        "Excavations have revealed extensive temple and residential areas."
+      ]
+    },
+    {
+      "id": "eridu-history-v2",
+      "descriptionAdvancedEn": "Eridu, located in southern Mesopotamia, is considered one of the oldest cities in the world. According to Sumerian mythology, it was the first city created by the gods. Archaeological evidence suggests it was founded around 5400 BC and was continuously inhabited for thousands of years. Eridu was the primary cult center of the god Enki, the Sumerian deity of water, knowledge, and creation. The heart of the city was a temple, which was rebuilt on the same spot multiple times over the centuries, with each new layer larger and more elaborate than the last. Archaeologists have uncovered 18 superimposed temples at the site, providing a unique insight into the development of Mesopotamian temple architecture. Though it lost its political importance early on, Eridu remained a revered religious site for millennia. In 2016, it was inscribed as part of the Ahwar of Southern Iraq UNESCO World Heritage site.",
+      "factsAdvanced": [
+        "Eridu is considered one of the world's first cities, founded c. 5400 BC.",
+        "In Sumerian mythology, it was the first city created by the gods.",
+        "It was the main cult center of Enki, the god of water and wisdom.",
+        "Archaeologists have found 18 successive levels of temples at the site.",
+        "The city was located near the Persian Gulf, which has since receded.",
+        "The site is part of the Ahwar of Southern Iraq, a UNESCO World Heritage site.",
+        "It was a major center during the Ubaid period.",
+        "The city was largely abandoned by the end of the 3rd millennium BC."
+      ]
+    },
+    {
+      "id": "lalish-temple-history-v2",
+      "descriptionAdvancedEn": "Lalish is the holiest temple and pilgrimage site for the Yazidi faith, nestled in a valley in the Nineveh Governorate of northern Iraq. It is the location of the tomb of Sheikh Adi ibn Musafir, a central figure in Yazidism. The temple complex is a collection of buildings and shrines, characterized by their distinctive conical spires. For Yazidis, Lalish is a place of immense spiritual significance, and it is a requirement for every member of the faith to make a pilgrimage there at least once in their lifetime. The annual 'Feast of the Assembly' draws thousands of pilgrims from around the world. The site is rich in symbolism and ancient traditions, many of which predate the arrival of Sheikh Adi. The sanctity of the place is such that visitors are expected to remove their shoes. Lalish is not just a religious site but the very heart of Yazidi identity and culture.",
+      "factsAdvanced": [
+        "Lalish is the most sacred pilgrimage site for the Yazidi people.",
+        "It contains the tomb of Sheikh Adi ibn Musafir, a 12th-century reformer.",
+        "The temple is characterized by conical spires on its shrines.",
+        "Yazidis are expected to make a pilgrimage to Lalish at least once.",
+        "The site is located in the Nineveh Governorate of Iraq.",
+        "The annual 'Feast of the Assembly' is a major pilgrimage festival.",
+        "The complex contains sacred springs, including the Zamzam spring.",
+        "The origins of the site are believed to be over 4,000 years old."
+      ]
+    },
+    {
+      "id": "kish-history-v2",
+      "descriptionAdvancedEn": "Kish was an ancient city-state in Sumer, in southern Mesopotamia, considered one of the most important cities in the region's early history. According to the Sumerian King List, Kish was the first city to have kings after the great flood, giving it a special prestige. The title 'King of Kish' came to signify a ruler with preeminence over the entire region of Sumer. The city flourished during the Early Dynastic period (c. 2900-2350 BC). Archaeological excavations at the site, which consists of several mounds, have revealed a large ziggurat, temples, and a royal palace. Kish was also a significant center during the Akkadian Empire, founded by Sargon of Akkad, who was originally from Kish. The city's long history and its role as a seat of power make it a crucial site for understanding the political and cultural development of ancient Mesopotamia.",
+      "factsAdvanced": [
+        "Kish was one of the most important cities of ancient Sumer.",
+        "According to tradition, it was the first city to have kings after the Deluge.",
+        "The title 'King of Kish' implied hegemony over Sumer.",
+        "The city was a major power during the Early Dynastic period.",
+        "Sargon of Akkad, founder of the Akkadian Empire, hailed from Kish.",
+        "The archaeological site consists of more than 40 mounds.",
+        "Excavations have uncovered ziggurats, temples, and a palace.",
+        "Kish is located about 12 kilometers east of Babylon."
+      ]
+    }
+  ]
+}

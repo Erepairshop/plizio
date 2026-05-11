@@ -1,0 +1,105 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "Der Songo Mountain ist eine markante Erhebung in der Provinz Tete, die für ihre reiche Biodiversität bekannt ist.",
+      "facts": ["Provinz Tete", "Reiche Biodiversität", "Markante Erhebung"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "Die Lupata-Schlucht ist ein spektakulärer Durchbruch des Sambesi-Flusses durch die Bergkette, bekannt für ihre malerische Schönheit.",
+      "facts": ["Sambesi-Fluss", "Spektakulärer Durchbruch", "Malerische Schönheit"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "Der Macossa-Wald ist ein wichtiger Wald in der Provinz Manica, der eine vielfältige Flora und Fauna beherbergt.",
+      "facts": ["Provinz Manica", "Vielfältige Flora und Fauna", "Wichtiger Wald"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "Der Massingir-See ist ein großer Stausee, der vom Olifants-Fluss gespeist wird, wichtig für Bewässerung und Fischerei.",
+      "facts": ["Großer Stausee", "Olifants-Fluss", "Bewässerung und Fischerei"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "Der Moamba Mountain ist eine Erhebung in der Provinz Maputo, die für ihre üppige Vegetation und Vogelwelt bekannt ist.",
+      "facts": ["Provinz Maputo", "Üppige Vegetation", "Vogelwelt"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "Der Savane-See ist ein Süßwassersee in der Provinz Sofala, der eine wichtige Wasserquelle für die lokale Bevölkerung darstellt.",
+      "facts": ["Süßwassersee", "Provinz Sofala", "Wichtige Wasserquelle"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "Der Chinde River ist ein Mündungsarm des Sambesi-Flusses am Indischen Ozean, wichtig für die Schifffahrt und Fischerei.",
+      "facts": ["Mündungsarm des Sambesi", "Indischer Ozean", "Schifffahrt und Fischerei"]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "Der Lupata-Wald ist ein geschützter Wald in der Provinz Sofala, der eine reiche Biodiversität aufweist.",
+      "facts": ["Geschützter Wald", "Provinz Sofala", "Reiche Biodiversität"]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "Der Magoé-See ist ein Süßwassersee in der Provinz Tete, bekannt für seine Tierwelt und Angelmöglichkeiten.",
+      "facts": ["Süßwassersee", "Provinz Tete", "Tierwelt und Angelmöglichkeiten"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "Der Gile-Wald ist ein wichtiger Regenwald in der Provinz Zambézia, der eine Vielzahl von Tier- und Pflanzenarten beherbergt.",
+      "facts": ["Regenwald", "Provinz Zambézia", "Tier- und Pflanzenarten"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "Die Gorgon Sea ist ein Teil des Indischen Ozeans vor der Küste Mosambiks, bekannt für ihre reiche marine Biodiversität.",
+      "facts": ["Indischer Ozean", "Marine Biodiversität", "Küsten Mosambiks"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "Der Chiu Mountain ist ein markanter Berg in der Provinz Niassa, der eine einzigartige Flora und Fauna aufweist.",
+      "facts": ["Provinz Niassa", "Einzigartige Flora und Fauna", "Markanter Berg"]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "description": "Das Tete-Tiefland ist eine ausgedehnte, flache Region entlang des Sambesi-Flusses, die landwirtschaftlich genutzt wird.",
+      "facts": ["Flache Region", "Sambesi-Fluss", "Landwirtschaftliche Nutzung"]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "description": "Das Nampula-Hochland ist eine hügelige Region mit fruchtbaren Böden, die sich ideal für den Kaffeeanbau eignet.",
+      "facts": ["Hügelige Region", "Fruchtbare Böden", "Kaffeeanbau"]
+    },
+    {
+      "id": "mount-binga-relief-v2",
+      "description": "Der Mount Binga ist der höchste Berg Mosambiks an der Grenze zu Simbabwe, bekannt für seine malerischen Wanderwege.",
+      "facts": ["Höchster Berg Mosambiks", "Grenze zu Simbabwe", "Wanderwege"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "Die Pemba-Bucht ist eine natürliche Bucht an der Küste Mosambiks, bekannt für ihre geschützten Gewässer und Tauchplätze.",
+      "facts": ["Natürliche Bucht", "Geschützte Gewässer", "Tauchplätze"]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "description": "Das Tete-Hochland ist eine bergige Region mit kühlerem Klima, das sich ideal für den Anbau von Tee und Kaffee eignet.",
+      "facts": ["Bergige Region", "Kühleres Klima", "Tee- und Kaffeeanbau"]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "description": "Das Gile-Massiv ist ein abgelegenes Gebirgsmassiv in der Provinz Zambézia, das eine reiche Biodiversität aufweist.",
+      "facts": ["Abgelegenes Gebirgsmassiv", "Provinz Zambézia", "Reiche Biodiversität"]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "description": "Das Mossuril-Küstenrelief ist geprägt von unberührten Stränden, Mangroven und Korallenriffen entlang der Küste.",
+      "facts": ["Unberührte Strände", "Mangroven", "Korallenriffe"]
+    }
+  ]
+}

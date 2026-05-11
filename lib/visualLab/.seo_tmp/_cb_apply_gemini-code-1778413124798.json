@@ -1,0 +1,165 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cathedrale-notre-dame-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Notre-Dame-Kathedrale von Bangui ist die wichtigste römisch-katholische Kirche in der Zentralafrikanischen Republik und dient als offizieller Sitz des Erzbistums Bangui. Sie wurde in den 1930er Jahren unter französischer Kolonialverwaltung aus rotem Backstein im neokolonialen Stil errichtet und 1937 offiziell geweiht. Das Gebäude liegt im historischen Zentrum der Hauptstadt in der Nähe des mächtigen Ubangi-Flusses. Die Architektur zeichnet sich durch zwei markante, symmetrische Glockentürme an der Hauptfassade aus, die das städtische Panorama prägen. Die Kathedrale war in der Vergangenheit häufig ein kritischer Zufluchtsort für Zivilisten während der verschiedenen politischen und militärischen Krisen des Landes. Die Wirtschaft der direkten Umgebung ist von lokalen Märkten und informellem Straßenhandel geprägt, während der internationale Tourismus aufgrund der instabilen Sicherheitslage auf ein absolutes Minimum beschränkt bleibt. Die Kirche ist nicht nur ein religiöses Zentrum, sondern auch ein historisches Symbol für die koloniale Architekturgeschichte Zentralafrikas.",
+        "hu": "A bangui Notre-Dame katedrális a Közép-afrikai Köztársaság legfontosabb római katolikus temploma, és a bangui érsekség hivatalos központjaként szolgál. Az 1930-as években, a francia gyarmati közigazgatás alatt épült vörös téglából, neokoloniális stílusban, és 1937-ben szentelték fel hivatalosan. Az épület a főváros történelmi központjában, a hatalmas Ubangi-folyó közelében található. Az építészetet a főhomlokzaton elhelyezkedő két markáns, szimmetrikus harangtorony jellemzi, amelyek uralják a városképet. A katedrális a múltban gyakran szolgált kritikus menedékhelyként a polgári lakosság számára az ország különböző politikai és katonai válságai során. A közvetlen környezet gazdaságát a helyi piacok és az informális utcai kereskedelem határozza meg, míg a nemzetközi turizmus az instabil biztonsági helyzet miatt a minimálisra korlátozódik. A templom nemcsak vallási központ, hanem Közép-Afrika gyarmati építészettörténetének történelmi szimbóluma is.",
+        "ro": "Catedrala Notre-Dame din Bangui este cea mai importantă biserică romano-catolică din Republica Centrafricană și servește drept sediu oficial al Arhiepiscopiei de Bangui. A fost construită în anii 1930, sub administrația colonială franceză, din cărămidă roșie în stil neocolonial și a fost sfințită oficial în 1937. Clădirea este situată în centrul istoric al capitalei, în apropierea marelui fluviu Ubangi. Arhitectura se caracterizează prin două turnuri cu clopot simetrice și proeminente pe fațada principală, care domină peisajul urban. În trecut, catedrala a servit frecvent ca un refugiu critic pentru civili în timpul diferitelor crize politice și militare din țară. Economia din imediata vecinătate este dominată de piețele locale și de comerțul stradal informal, în timp ce turismul internațional rămâne la un nivel minim absolut din cauza situației de securitate instabile. Biserica nu este doar un centru religios, ci și un simbol istoric al arhitecturii coloniale.",
+        "en": "The Notre-Dame Cathedral of Bangui is the most important Roman Catholic church in the Central African Republic and serves as the official seat of the Archdiocese of Bangui. It was built in the 1930s under French colonial administration from red brick in a neocolonial style and was officially consecrated in 1937. The building is located in the historical center of the capital, near the massive Ubangi River. The architecture is characterized by two prominent, symmetrical bell towers on the main facade, which dominate the city's skyline. In the past, the cathedral has frequently served as a critical refuge for civilians during the country's various political and military crises. The economy of the immediate surrounding area is dominated by local markets and informal street trading, while international tourism remains at an absolute minimum due to the unstable security situation. The church is not only a religious center but also a historical symbol of Central Africa's colonial architectural history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kirche besteht hauptsächlich aus rotem Backstein.",
+          "Sie wurde im Jahr 1937 offiziell geweiht.",
+          "Das Gebäude hat zwei markante, symmetrische Türme.",
+          "Sie dient als Sitz des Erzbistums von Bangui.",
+          "Während Krisen bot sie oft Zuflucht für Zivilisten."
+        ],
+        "hu": [
+          "A templom nagyrészt jellegzetes vörös téglából épült.",
+          "Az épületet 1937-ben szentelték fel hivatalosan.",
+          "A homlokzaton két szimmetrikus harangtorony található.",
+          "Ez a bangui katolikus érsekség hivatalos központja.",
+          "Válságok idején sokszor nyújtott menedéket a civileknek."
+        ],
+        "ro": [
+          "Biserica este construită în principal din cărămidă roșie.",
+          "Clădirea a fost sfințită oficial în anul 1937.",
+          "Fațada are două turnuri simetrice foarte proeminente.",
+          "Servește drept sediu oficial al Arhiepiscopiei de Bangui.",
+          "A oferit adesea refugiu civililor în timpul crizelor."
+        ],
+        "en": [
+          "The church is primarily constructed from red brick.",
+          "The building was officially consecrated in the year 1937.",
+          "The main facade features two prominent, symmetrical towers.",
+          "It serves as the official seat of the Archdiocese of Bangui.",
+          "It has frequently offered refuge to civilians during crises."
+        ]
+      }
+    },
+    {
+      "id": "arc-de-triomphe-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Triumphbogen von Bangui, oft auch als Arc de Triomphe de la République bezeichnet, ist ein massives und auffälliges Monument im Zentrum der Hauptstadt. Er wurde während der Herrschaft von Jean-Bédel Bokassa in den 1970er Jahren errichtet, um die Macht und den imperialen Anspruch seines Regimes zu demonstrieren. Architektonisch ist das riesige, weiße Betonbauwerk stark vom berühmten Arc de Triomphe in Paris inspiriert. Es befindet sich an einer wichtigen und stark frequentierten Straßenkreuzung und dominiert die lokale städtische Infrastruktur. Das Monument wurde gebaut, um den Reichtum des kurzlebigen Zentralafrikanischen Kaiserreiches zu symbolisieren, stand jedoch schon damals in extremem Kontrast zur wirtschaftlichen Armut der Bevölkerung, die vorwiegend von Subsistenzlandwirtschaft und dem Diamantenexport abhängig war. Heute ist der Bogen ein historisches Relikt und eine sichtbare Mahnung an diese diktatorische Epoche. Die umliegende städtische Wirtschaft besteht heute hauptsächlich aus informellem Handel und Transportdienstleistungen.",
+        "hu": "A bangui Diadalív, amelyet gyakran Arc de Triomphe de la République néven is emlegetnek, egy hatalmas és feltűnő emlékmű a főváros központjában. Az 1970-es években, Jean-Bédel Bokassa uralma alatt épült, hogy demonstrálja rezsimjének hatalmát és birodalmi ambícióit. Építészetileg a hatalmas, fehér betonépítményt erősen a párizsi Diadalív ihlette. Egy fontos és rendkívül forgalmas útkereszteződésben található, és uralja a helyi városi infrastruktúrát. Az emlékművet azért építették, hogy a rövid életű Közép-afrikai Császárság gazdagságát szimbolizálja, de már akkor is éles ellentétben állt a lakosság gazdasági szegénységével, amely elsősorban az önellátó mezőgazdaságtól és a gyémántexporttól függött. Ma a diadalív egy történelmi relikvia és látható emlékeztető erre a diktatórikus korszakra. A környező városi gazdaság ma főként informális kereskedelemből és transzportszolgáltatásokból áll.",
+        "ro": "Arcul de Triumf din Bangui, adesea denumit Arc de Triomphe de la République, este un monument masiv și impresionant din centrul capitalei. A fost construit în anii 1970, în timpul domniei lui Jean-Bédel Bokassa, pentru a demonstra puterea și pretențiile imperiale ale regimului său. Din punct de vedere arhitectural, structura uriașă din beton alb este puternic inspirată de faimosul Arc de Triumf din Paris. Este situat la o intersecție importantă și aglomerată, dominând infrastructura urbană locală. Monumentul a fost construit pentru a simboliza bogăția efemerului Imperiu Centrafrican, dar chiar și atunci contrasta puternic cu sărăcia economică a populației, care depindea de agricultura de subzistență și de exportul de diamante. Astăzi, arcul este o relicvă istorică și o amintire vizibilă a acelei epoci dictatoriale. Economia urbană din jur constă în principal din comerț informal.",
+        "en": "The Triumph Arch of Bangui, often referred to as the Arc de Triomphe de la République, is a massive and striking monument in the center of the capital. It was built during the reign of Jean-Bédel Bokassa in the 1970s to demonstrate the power and imperial ambitions of his regime. Architecturally, the huge white concrete structure is heavily inspired by the famous Arc de Triomphe in Paris. It is located at a major, highly frequented intersection and dominates the local urban infrastructure. The monument was built to symbolize the wealth of the short-lived Central African Empire, but even then it stood in stark contrast to the economic poverty of the population, which relied primarily on subsistence agriculture and diamond exports. Today, the arch is a historical relic and a visible reminder of this dictatorial era. The surrounding urban economy today consists mainly of informal trade and transportation services."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das weiße Betonbauwerk steht im Zentrum von Bangui.",
+          "Es wurde vom Diktator Jean-Bédel Bokassa errichtet.",
+          "Die Architektur ist vom Pariser Vorbild inspiriert.",
+          "Es symbolisierte das Zentralafrikanische Kaiserreich.",
+          "Das Monument steht an einer sehr wichtigen Kreuzung."
+        ],
+        "hu": [
+          "A masszív fehér betonépítmény Bangui központjában áll.",
+          "A diadalívet Jean-Bédel Bokassa diktátor építtette.",
+          "Az építészetet egyértelműen a párizsi minta ihlette.",
+          "A rövid életű Közép-afrikai Császárságot szimbolizálta.",
+          "Az emlékmű egy nagyon fontos útkereszteződésben van."
+        ],
+        "ro": [
+          "Structura din beton alb se află în centrul orașului Bangui.",
+          "A fost ridicată de dictatorul Jean-Bédel Bokassa.",
+          "Arhitectura este puternic inspirată de modelul parizian.",
+          "A simbolizat Imperiul Centrafrican, de scurtă durată.",
+          "Monumentul este situat la o intersecție foarte importantă."
+        ],
+        "en": [
+          "The white concrete structure stands in the center of Bangui.",
+          "It was erected by the dictator Jean-Bédel Bokassa.",
+          "The architecture is heavily inspired by the Parisian model.",
+          "It symbolized the short-lived Central African Empire.",
+          "The monument is located at a very important intersection."
+        ]
+      }
+    },
+    {
+      "id": "place-de-la-republique-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Place de la République ist der zentrale und wichtigste öffentliche Platz in der Hauptstadt Bangui. Geografisch im Herzen der Stadt gelegen, dient das Areal als historischer und politischer Versammlungsort für die Bevölkerung der Zentralafrikanischen Republik. Hier finden regelmäßig offizielle Militärparaden, staatliche Feierlichkeiten und große politische Kundgebungen statt. Historisch gesehen war dieser Ort der Schauplatz für viele der tiefgreifenden politischen Veränderungen und Unruhen des Landes seit der Unabhängigkeit von Frankreich. Die Architektur der Umgebung ist eine Mischung aus kolonialen Überresten und funktionalen Regierungsgebäuden. Wirtschaftlich ist der Platz ein entscheidender Knotenpunkt für den städtischen Verkehr und wird stark von lokalen Straßenhändlern frequentiert, die landwirtschaftliche Produkte, Kleidung und importierte Güter verkaufen. Der internationale Tourismus ist aufgrund der anhaltenden politischen Instabilität nahezu nicht vorhanden, was den Platz zu einem authentischen, rein lokalen Zentrum des städtischen Lebens macht.",
+        "hu": "A Place de la République a főváros, Bangui központi és legfontosabb köztere. A földrajzjogilag a város szívében elhelyezkedő terület a Közép-afrikai Köztársaság lakosságának történelmi és politikai gyülekezőhelyeként szolgál. Itt rendszeresen tartanak hivatalos katonai parádékat, állami ünnepségeket és nagy politikai gyűléseket. Történelmi szempontból ez a helyszín számos mélyreható politikai változás és zavargás színtere volt a Franciaországtól való függetlenedés óta. A környező építészet a gyarmati maradványok és a funkcionális kormányzati épületek keveréke. Gazdasági szempontból a tér a városi közlekedés döntő csomópontja, és gyakran látogatják a helyi utcai árusok, akik mezőgazdasági termékeket, ruházati cikkeket és importált árukat kínálnak. A nemzetközi turizmus a folyamatos politikai instabilitás miatt szinte egyáltalán nincs jelen, ami a teret a városi élet autentikus, tisztán helyi központjává teszi.",
+        "ro": "Place de la République este piața publică centrală și cea mai importantă din capitala Bangui. Situată geografic în inima orașului, zona servește drept loc de adunare istoric și politic pentru populația Republicii Centrafricane. Aici au loc în mod regulat parade militare oficiale, sărbători de stat și mari mitinguri politice. Din punct de vedere istoric, acest loc a fost scena multora dintre schimbările și tulburările politice profunde ale țării de la independența față de Franța. Arhitectura din jur este un amestec de rămășițe coloniale și clădiri guvernamentale funcționale. Din punct de vedere economic, piața este un nod crucial pentru traficul urban și este intens frecventată de comercianții ambulanți locali care vând produse agricole și bunuri de import. Turismul internațional este practic inexistent din cauza instabilității politice continue, ceea ce face din piață un centru autentic, pur local.",
+        "en": "The Place de la République is the central and most important public square in the capital city of Bangui. Geographically located in the heart of the city, the area serves as a historical and political gathering place for the population of the Central African Republic. Official military parades, state celebrations, and large political rallies are regularly held here. Historically, this location has been the scene of many of the country's profound political changes and unrest since gaining independence from France. The surrounding architecture is a mix of colonial remnants and functional government buildings. Economically, the square is a crucial hub for urban traffic and is heavily frequented by local street vendors selling agricultural products, clothing, and imported goods. International tourism is almost non-existent due to ongoing political instability, making the square an authentic, purely local center of urban life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der wichtigste öffentliche Platz in ganz Bangui.",
+          "Der Platz dient als Ort für offizielle Militärparaden.",
+          "Hier finden sehr oft große politische Kundgebungen statt.",
+          "Er ist ein wichtiger Knotenpunkt für den Stadtverkehr.",
+          "Lokale Straßenhändler prägen das Bild des Platzes stark."
+        ],
+        "hu": [
+          "Ez a legfontosabb közösségi és nyilvános tér Banguiban.",
+          "A tér rendszeres helyszíne a hivatalos katonai parádéknak.",
+          "Itt nagyon gyakran tartanak nagy politikai tömeggyűléseket.",
+          "Fontos és forgalmas csomópontja a városi közlekedésnek.",
+          "A helyi utcai árusok erősen meghatározzák a tér képét."
+        ],
+        "ro": [
+          "Este cea mai importantă piață publică din întregul Bangui.",
+          "Piața servește ca loc pentru parade militare oficiale.",
+          "Aici au loc foarte des mari mitinguri politice publice.",
+          "Este un nod extrem de important pentru traficul urban.",
+          "Comercianții ambulanți locali domină peisajul pieței."
+        ],
+        "en": [
+          "It is the most important public square in all of Bangui.",
+          "The square serves as a venue for official military parades.",
+          "Large political rallies take place here very frequently.",
+          "It is a highly critical hub for urban traffic and transit.",
+          "Local street vendors strongly characterize the square's image."
+        ]
+      }
+    },
+    {
+      "id": "palais-de-la-renaissance-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Palais de la Renaissance in Bangui ist der offizielle Amtssitz und die Residenz des Präsidenten der Zentralafrikanischen Republik. Der streng bewachte Gebäudekomplex befindet sich im politischen Zentrum der Hauptstadt und symbolisiert die höchste staatliche Autorität. Historisch gesehen war das Gebäude seit der Unabhängigkeit im Jahr 1960 der Schauplatz zahlreicher militärischer Putsche, gewaltsamer Rebellionen und Regierungswechsel, was die extrem turbulente Geschichte des Landes direkt widerspiegelt. Die Architektur des Palastes ist stark zweckmäßig und postkolonial geprägt, wobei im Laufe der Jahrzehnte zahlreiche hohe Sicherheitsvorkehrungen und Mauern hinzugefügt wurden. Wirtschaftlich hat das Gebäude keine direkte touristische Bedeutung, da der Zugang für die Öffentlichkeit und Ausländer aus strengsten Sicherheitsgründen komplett verboten ist. Die umliegende Infrastruktur konzentriert sich auf Verwaltung und Ministerien, in einem Land, dessen nationale Wirtschaft primär von Subsistenzlandwirtschaft sowie dem Export von Holz und ungeschliffenen Diamanten abhängig ist.",
+        "hu": "A bangui Palais de la Renaissance a Közép-afrikai Köztársaság elnökének hivatalos székhelye és rezidenciája. A szigorúan őrzött épületegyüttes a főváros politikai központjában található, és a legfőbb állami tekintélyt szimbolizálja. Történelmileg az épület az 1960-as függetlenné válás óta számos katonai puccs, erőszakos lázadás és kormányváltás színtere volt, ami közvetlenül tükrözi az ország rendkívül viharos történelmét. A palota építészete erősen funkcionális és posztkoloniális jellegű, az évtizedek során számos magas biztonsági berendezéssel és védőfallal egészítették ki. Gazdasági szempontból az épületnek nincs közvetlen turisztikai jelentősége, mivel a nyilvánosság és a külföldiek számára a belépés szigorú biztonsági okokból teljesen tilos. A környező infrastruktúra a közigazgatásra és a minisztériumokra összpontosít, egy olyan országban, amelynek nemzeti gazdasága elsősorban az önellátó mezőgazdaságtól, valamint a fa és a csiszolatlan gyémántok exportjától függ.",
+        "ro": "Palais de la Renaissance din Bangui este sediul oficial și reședința președintelui Republicii Centrafricane. Complexul de clădiri, strict păzit, este situat în centrul politic al capitalei și simbolizează cea mai înaltă autoritate a statului. Din punct de vedere istoric, de la obținerea independenței în 1960, clădirea a fost scena a numeroase lovituri de stat militare, rebeliuni violente și schimbări de guvern, reflectând direct istoria extrem de turbulentă a țării. Arhitectura palatului este puternic funcțională și postcolonială, de-a lungul deceniilor fiind adăugate numeroase măsuri de securitate și ziduri înalte. Din punct de vedere economic, clădirea nu are o importanță turistică directă, deoarece accesul publicului și al străinilor este complet interzis din motive stricte de securitate. Infrastructura din jur se concentrează pe administrație, într-o țară a cărei economie depinde în principal de agricultura de subzistență și de exportul de diamante brute.",
+        "en": "The Palais de la Renaissance in Bangui is the official seat and residence of the President of the Central African Republic. The heavily guarded building complex is located in the political center of the capital and symbolizes the highest state authority. Historically, since independence in 1960, the building has been the scene of numerous military coups, violent rebellions, and changes of government, directly reflecting the extremely turbulent history of the country. The architecture of the palace is highly functional and postcolonial, with numerous high security measures and walls added over the decades. Economically, the building has no direct tourist significance, as access for the public and foreigners is completely forbidden for strict security reasons. The surrounding infrastructure focuses on administration and ministries, in a country whose national economy depends primarily on subsistence agriculture and the export of timber and rough diamonds."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der offizielle Amtssitz des Landespräsidenten.",
+          "Der Komplex ist extrem stark militärisch bewacht.",
+          "Er war Schauplatz vieler politischer Putsche im Land.",
+          "Die Architektur ist eher zweckmäßig und postkolonial.",
+          "Der Zugang für die Öffentlichkeit ist komplett verboten."
+        ],
+        "hu": [
+          "Ez a mindenkori államfő hivatalos munkahelye és rezidenciája.",
+          "Az épületkomplexumot rendkívül szigorúan őrzi a katonaság.",
+          "Számos politikai és katonai puccs helyszíne volt az országban.",
+          "Az építészet meglehetősen funkcionális és posztkoloniális.",
+          "A nyilvánosság számára a belépés szigorúan és teljesen tilos."
+        ],
+        "ro": [
+          "Este reședința oficială și locul de muncă al președintelui.",
+          "Complexul este păzit extrem de strict de forțele militare.",
+          "A fost scena multor lovituri de stat politice din țară.",
+          "Arhitectura este destul de funcțională și postcolonială.",
+          "Accesul publicului larg este complet și strict interzis."
+        ],
+        "en": [
+          "It is the official residence and workplace of the President.",
+          "The complex is extremely heavily guarded by the military.",
+          "It has been the site of many political coups in the country.",
+          "The architecture is quite functional and postcolonial.",
+          "Access for the general public is completely and strictly forbidden."
+        ]
+      }
+    }
+  ]
+}

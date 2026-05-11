@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "denton-bridge-fish-cluster-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Industriegebiet Denton Bridge liegt an der strategisch wichtigen Brücke, die die Insel Banjul mit dem Festland verbindet. Geografisch ist dieser Standort durch seine Lage am Oyster Creek und die Nähe zu den ausgedehnten Mangrovensümpfen des Tanbi Wetland Complex geprägt. Dieser wirtschaftliche Cluster ist ein Zentrum der semi-industriellen Fischerei und der maritimen Dienstleistungen. Hier befinden sich zahlreiche Fischverarbeitungsbetriebe, Werften für den Bau und die Reparatur von Pirogen sowie Lagereinrichtungen für Meeresfrüchte. Besonders bekannt ist Denton Bridge für den Osztrigahandel; lokale Frauenkooperativen sammeln in den umliegenden Mangroven Osztrigen, die hier verarbeitet und verkauft werden. Wirtschaftlich profitiert der Standort von der direkten Anbindung an den Trans-Gambia Highway, was den schnellen Transport von frischem Fisch zu den Märkten in Serekunda und dem Landesinneren ermöglicht. Das Relief ist durch künstlich befestigte Uferzonen und flache Marschländer geprägt. Neben der Fischerei dient Denton Bridge als wichtiger Anlegepunkt für touristische Ausflugsboote, die die Wasserwege des Ästuars erkunden. Der Cluster symbolisiert die enge Verflechtung von traditioneller Ressourcenutzung und moderner logistischer Infrastruktur in der Hauptstadtregion.",
+        "hu": "A Denton Bridge ipari övezet a Banjul-szigetet a szárazfölddel összekötő stratégiai híd lábánál található. Földrajzi elhelyezkedését az Oyster Creek közelsége és a Tanbi vizes élőhely komplexum hatalmas mangroveerdői határozzák meg. Ez a gazdasági klaszter a félipari halászat és a tengeri szolgáltatások központja; számos halfeldolgozó üzem, pirogakészítő és -javító műhely, valamint tengeri hercehurka tárolóhely található itt. Denton Bridge különösen híres az osztrigakereskedelméről: a helyi asszonyok szövetségei a környező mangrovék gyökereiről gyűjtik az osztrigát, amelyet itt dolgoznak fel és értékesítenek. Gazdaságilag a helyszín profitál a Transz-Gambia autópályához való közvetlen kapcsolódásából, ami lehetővé teszi a friss áru gyors eljutását Serekunda piacaira és az ország belsejébe. A domborzatot mesterségesen megerősített partvonal és lapos mocsárvidék jellemzi. A halászat mellett a Denton Bridge fontos kikötőhelye a turista- és kirándulóhajóknak, amelyek a torkolatvidék vízi útjait járják be. Ez a körzet jól példázza a hagyományos erőforrás-használat és a modern logisztikai infrastruktúra szoros összefonódását a fővárosi régióban.",
+        "ro": "Zona industrială Denton Bridge este situată la picioarele podului strategic care leagă insula Banjul de continent. Geografic, această locație este definită de proximitatea față de Oyster Creek și de mlaștinile întinse de mangrove ale Complexului Tanbi. Acest cluster economic este un centru al pescuitului semi-industrial și al serviciilor maritime; găzduiește numeroase unități de procesare a peștelui, șantiere pentru construcția și repararea pirogilor, precum și facilități de depozitare a fructelor de mare. Denton Bridge este renumit în special pentru comerțul cu stridii; cooperativele locale de femei colectează stridii din mangrovele învecinate, care sunt procesate și vândute aici. Din punct de vedere economic, locația beneficiază de accesul direct la autostrada Trans-Gambia, facilitând transportul rapid al peștelui proaspăt către piețele din Serekunda și din interiorul țării. Relieful este caracterizat prin zone de mal consolidate artificial și terenuri mlăștinoase joase. Pe lângă pescuit, Denton Bridge servește ca punct principal de acostare pentru ambarcațiunile turistice care explorează canalele estuarului. Clusterul simbolizează împletirea dintre utilizarea tradițională a resurselor și infrastructura logistică modernă din regiunea capitalei.",
+        "en": "The Denton Bridge industrial area is situated at the base of the strategic bridge connecting Banjul Island to the mainland. Geographically, this site is defined by its position on Oyster Creek and its proximity to the extensive mangrove swamps of the Tanbi Wetland Complex. This economic cluster is a hub for semi-industrial fishing and maritime services, housing numerous fish processing plants, boatyards for pirogue construction and repair, and seafood storage facilities. Denton Bridge is particularly famous for its oyster trade; local women's cooperatives harvest oysters from the surrounding mangroves, which are then processed and sold here. Economically, the location benefits from direct connectivity to the Trans-Gambia Highway, enabling the rapid transport of fresh seafood to markets in Serekunda and the interior. The relief is characterized by artificially reinforced shorelines and low-lying marshlands. In addition to fishing, Denton Bridge serves as a major departure point for tourist excursion boats exploring the estuary's waterways. The cluster symbolizes the close integration of traditional resource use and modern logistical infrastructure within the capital region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Denton Bridge ist der einzige Landzugang zur Hauptstadt Banjul.",
+          "Das Gebiet ist ein Hauptzentrum für die Ernte und Vermarktung von Mangroven-Osztrigen.",
+          "In der Nähe befinden sich wichtige Küstenwachen- und Marineeinheiten.",
+          "Die Brücke überquert den Oyster Creek, einen Gezeitenarm des Gambia-Flusses.",
+          "Denton Bridge beherbergt mehrere private Yacht- und Bootsclubs.",
+          "Das Industriegebiet profitiert von der permanenten Wasseranbindung für Schiffe."
+        ],
+        "hu": [
+          "A Denton Bridge az ország legfontosabb közúti szűk keresztmetszete.",
+          "Itt működik Gambia egyik legrégebbi és legaktívabb osztrigagyűjtő szövetkezete.",
+          "A terület a vízi sportok és a sporthorgászat egyik fő bázisa.",
+          "A környékbeli mangrovék fontos természetvédelmi övezetek (Tanbi).",
+          "A hidat eredetileg a 20. század közepén építették a brit gyarmati mérnökök.",
+          "Denton Bridge stratégiai pont a tengeri biztonsági erők számára."
+        ],
+        "ro": [
+          "Denton Bridge reprezintă poarta de intrare rutieră în capitala Banjul.",
+          "Clusterul economic include unități de producție pentru plase și unelte de pescuit.",
+          "Oyster Creek este navigabil chiar și pentru ambarcațiuni cu pescaj mediu.",
+          "Zona este un punct de referință pentru studiul ecosistemelor de mangrove urbane.",
+          "Denton Bridge găzduiește sedii ale unor companii de shipping internațional.",
+          "Relieful este vulnerabil la inundații în cazul creșterii nivelului oceanului."
+        ],
+        "en": [
+          "Denton Bridge acts as the primary link between the capital and the rest of the country.",
+          "The area is a major node for the Gambian tourism boat rental industry.",
+          "It features significant artisanal infrastructure for drying and smoking fish.",
+          "The site is a critical observation point for regional mangrove health.",
+          "Denton Bridge hosts the headquarters of several maritime safety organizations.",
+          "The economic cluster drives the livelihoods of hundreds of women in the oyster value chain."
+        ]
+      }
+    },
+    {
+      "id": "kaur-groundnut-depot-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Erdnussdepot von Kaur ist eine der historischsten und bedeutendsten Industrieanlagen am Nordufer des Gambia-Flusses. Geografisch liegt das Depot an einer strategischen Flussbiegung im Distrikt Lower Saloum, wo der Gambia-Fluss eine ausreichende Tiefe für große Binnenschiffe aufweist. Dieses Depot dient seit Jahrzehnten als zentraler Sammelpunkt für die Erdnussernte der Central River Region. Die Anlage umfasst massive Lagerhäuser und Verladestellen, die direkt an das Flussufer grenzen. Wirtschaftlich ist Kaur für die nationale Landwirtschaft von entscheidender Bedeutung, da hier die Produkte von tausenden Kleinbauern zusammenlaufen, bevor sie per Schiff flussabwärts zur Verarbeitung nach Banjul oder Sarro transportiert werden. Das Relief um das Depot ist flach und wurde speziell für die Schwerlastlogistik und den Schiffsumschlag angepasst. Trotz des Rückgangs des Flusstransports in anderen Landesteilen bleibt das Depot in Kaur ein aktiver Pfeiler des staatlichen Handels unter der Gambia Groundnut Corporation (GGC). Es symbolisiert die koloniale Handelsgeschichte und die fortwährende Abhängigkeit Gambias vom 'weißen Gold' – der Erdnuss.",
+        "hu": "A kauri földimogyoró-depó Gambia egyik legfontosabb történelmi ipari létesítménye az északi parton. Földrajzi elhelyezkedése stratégiai: a folyó egy olyan kanyarulatánál fekszik a Lower Saloum körzetben, ahol a vízmélység lehetővé teszi a nagy teheruszályok kikötését. Ez a telep évtizedek óta a Central River régió mogyorótermésének központi gyűjtőhelye. A komplexum hatalmas raktárakból és közvetlenül a folyóparton kialakított rakodóhelyekből áll. Gazdaságilag Kaur nélkülözhetetlen az ország mezőgazdasága számára, mivel kistermelők ezrei ide szállítják be terményüket, mielőtt azt vízi úton továbbítják a sarroi vagy banjuli feldolgozóüzemekbe. A depó körüli domborzat sík, kifejezetten a nehézgépjárművek és a folyami áruszállítás igényeire szabva. Bár a folyami közlekedés jelentősége az ország más részein csökkent, a kauri telep továbbra is a Gambia Groundnut Corporation (GGC) egyik legaktívabb bázisa. A létesítmény a gyarmati kereskedelmi múlt és a modern gambiai agrárgazdaság közötti folytonosság jelképe.",
+        "ro": "Depozitul de arahide din Kaur este una dintre cele mai importante și istorice facilități industriale de pe malul nordic al fluviului Gambia. Situat geografic într-o buclă strategică a fluviului în districtul Lower Saloum, unde adâncimea apei permite accesul barjelor de mare tonaj, depozitul servește drept punct central de colectare pentru recolta de arahide din regiunea Central River. Complexul include depozite masive și rampe de încărcare adiacente malului. Din punct de vedere economic, Kaur este vital pentru agricultura națională, fiind locul unde produsele a mii de mici fermieri sunt centralizate înainte de a fi transportate pe apă către unitățile de procesare din Banjul sau Sarro. Relieful din jurul depozitului este plat, fiind adaptat special pentru logistica grea și transbordarea mărfurilor. În ciuda declinului transportului fluvial în alte regiuni, depozitul din Kaur rămâne un pilon activ al comerțului de stat gestionat de Gambia Groundnut Corporation (GGC). Simbolizează istoria comercială colonială și importanța continuă a arahidelor pentru economia Gambiei.",
+        "en": "The Kaur Groundnut Depot is one of the most historically significant industrial facilities on the North Bank of the Gambia River. Geographically positioned at a strategic river bend in the Lower Saloum District, where the water is deep enough for large barges, the depot serves as the primary collection point for groundnut harvests in the Central River Region. The facility features massive warehouses and loading docks situated directly on the riverfront. Economically, Kaur is vital to the national agricultural sector, acting as a funnel for the produce of thousands of smallholder farmers before it is shipped downstream to processing plants in Sarro or Banjul. The terrain around the depot is flat, specifically modified to support heavy-duty logistics and ship-to-shore transfers. Despite the general decline in river transport elsewhere, the Kaur depot remains an active pillar of state trade under the Gambia Groundnut Corporation (GGC). It stands as a symbol of colonial mercantile history and the enduring importance of groundnuts to The Gambia's economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kaur ist einer der wenigen Orte im Landesinneren mit direktem Tiefwasserzugang für Schiffe.",
+          "Das Depot wird von der staatlichen Gambia Groundnut Corporation (GGC) verwaltet.",
+          "Es ist ein Hauptumschlagplatz für Erdnüsse aus dem nördlichen Hinterland.",
+          "Historisch war Kaur ein wichtiger Hafen für europäische Dampfschiffe im 19. Jahrhundert.",
+          "Die Lagerkapazität des Depots gehört zu den größten im Landesinneren.",
+          "Während der Erntesaison (Trade Season) ist Kaur ein zentraler wirtschaftlicher Indikator."
+        ],
+        "hu": [
+          "A kauri depó rakpartja több mint 100 méter hosszan nyúlik el a folyó mentén.",
+          "Itt tárolják a nemzeti mogyorótartalékok egy jelentős részét.",
+          "A létesítmény környéke fontos megállóhely a folyami teherhajók számára.",
+          "Kaur városa a mogyorókereskedelemnek köszönheti történelmi gazdagságát.",
+          "A depó infrastruktúráját az elmúlt években részlegesen modernizálták.",
+          "A területen szigorú minőségbiztosítási méréseket végeznek a mogyoró nedvességtartalmára."
+        ],
+        "ro": [
+          "Depozitul din Kaur este pilonul logistic al districtului Lower Saloum.",
+          "Relieful plat a permis construirea unor silozuri de mari dimensiuni.",
+          "Transportul pe apă de la Kaur la Banjul durează aproximativ 2-3 zile.",
+          "Facilitatea oferă servicii de depozitare și pentru alte cereale precum meiul.",
+          "Kaur este renumit pentru eficiența operațiunilor de încărcare în sezonul uscat.",
+          "Depozitul reprezintă cel mai mare angajator industrial din această parte a regiunii."
+        ],
+        "en": [
+          "Kaur serves as a critical strategic reserve site for the Gambian groundnut sector.",
+          "The river at Kaur maintains a consistent depth, essential for year-round barge access.",
+          "It acts as a major hub for the distribution of fertilizers to northern farmers.",
+          "The facility features historic British-designed industrial architecture.",
+          "Kaur’s economic cycle is dictated by the annual agricultural trade season.",
+          "The depot is integrated into the national food security monitoring network."
+        ]
+      }
+    },
+    {
+      "id": "kuntaur-groundnut-depot-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Erdnussdepot von Kuntaur ist eine lebenswichtige wirtschaftliche Einrichtung am Nordufer des Gambia-Flusses im Distrikt Niani. Geografisch liegt es an einer Stelle, an der der Fluss tief und schiffbar ist, was Kuntaur seit der Kolonialzeit zu einem der wichtigsten Binnenhäfen Gambias gemacht hat. Das Depot dient als Hauptsammelstelle für Erdnüsse aus dem gesamten Osten der Central River Region. Die Anlage besteht aus ausgedehnten Lagerhallen und modernen Wiegestationen, die von der Gambia Groundnut Corporation (GGC) betrieben werden. Wirtschaftlich gesehen ist das Depot in Kuntaur der Dreh- und Angelpunkt für die ländliche Ökonomie der Region; hier erhalten Bauern ihre Zahlungen und hier wird die Ernte für den Abtransport per Schiff vorbereitet. Neben der Lagerung beherbergt Kuntaur oft auch mobile Schälmaschinen, um die Transporteffizienz zu steigern. Das Relief am Flussufer ist eben und durch künstliche Kaianlagen befestigt, um den hohen Belastungen beim Verladen gerecht zu werden. Die Bedeutung des Depots geht über den reinen Handel hinaus, da es die logistische Verbindung zwischen den abgelegenen Farmen des Nordufers und dem Weltmarkt herstellt. Es ist ein lebendiges Denkmal der gambischen Agrargeschichte und ein Symbol für die industrielle Präsenz im Landesinneren.",
+        "hu": "A kuntauri földimogyoró-depó Gambia északi partjának egyik legfontosabb gazdasági létesítménye, amely a Niani körzetben található. Földrajzi elhelyezkedése kulcsfontosságú: a folyó ezen szakasza elég mély ahhoz, hogy a nagy merülésű teherhajók is megközelíthessék, így Kuntaur a gyarmati idők óta Gambia egyik legjelentősebb belső kikötője. A depó a Central River régió keleti részén termelt mogyoró elsődleges gyűjtőpontja. A komplexum kiterjedt raktárakból és modern mérlegelő állomásokból áll, amelyeket a Gambia Groundnut Corporation (GGC) üzemeltet. Gazdaságilag a kuntauri depó a térség vidéki életének központja; a gazdák itt adják le terményüket, és itt készítik elő a mogyorót a folyami úton történő elszállításra. A raktározás mellett Kuntaurban gyakran végeznek helyszíni hántolást is, hogy csökkentsék a szállítási költségeket. A folyóparti domborzat sík, a partfalat pedig megerősítették a nagy teherforgalom elviselésére. A depó jelentősége túlmutat a puszta kereskedelmen, hiszen ez az intézmény teremti meg a kapcsolatot az északi part távoli farmjai és a világpiac között. Kuntaur mogyoró-telepe a gambiai agrártörténet élő emlékműve és a belső országrész ipari jelenlétének szimbóluma.",
+        "ro": "Depozitul de arahide din Kuntaur este o facilitate economică vitală situată pe malul nordic al fluviului Gambia, în districtul Niani. Din punct de vedere geografic, acesta ocupă o poziție unde fluviul este profund și navigabil, transformând Kuntaur, încă din perioada colonială, în unul dintre cele mai importante porturi interioare ale țării. Depozitul servește drept principal punct de colectare pentru arahidele din întreaga parte estică a regiunii Central River. Instalația cuprinde hale vaste de depozitare și stații de cântărire moderne, operate de Gambia Groundnut Corporation (GGC). Din punct de vedere economic, depozitul din Kuntaur este pivotul economiei rurale regionale; aici fermierii își valorifică recolta și aici produsele sunt pregătite pentru transportul naval spre Banjul. Pe lângă depozitare, Kuntaur găzduiește adesea unități mobile de decorticare pentru a optimiza logistica. Relieful la malul fluviului este plat și consolidat prin cheiuri artificiale pentru a suporta sarcinile mari din timpul încărcării. Importanța depozitului depășește simplul comerț, reprezentând legătura logistică dintre fermele izolate de pe malul nordic și piața globală. Este un monument viu al istoriei agricole gambiene și un simbol al prezenței industriale în interiorul țării.",
+        "en": "The Kuntaur Groundnut Depot is a vital economic facility on the North Bank of the Gambia River, in the Niani District. Geographically, it occupies a point where the river is deep and navigable, making Kuntaur one of The Gambia's most significant inland ports since the colonial era. The depot serves as the main collection center for groundnuts from across the eastern part of the Central River Region. The facility consists of extensive warehouses and modern weighing stations operated by the Gambia Groundnut Corporation (GGC). Economically, the Kuntaur depot is the linchpin of the region's rural economy; it is where farmers sell their produce and where harvests are prepared for barge transport to Banjul. In addition to storage, Kuntaur often hosts mobile decorticating machines to improve transport efficiency. The riverfront relief is flat and reinforced with artificial quays to handle the heavy loads during loading operations. The depot's significance extends beyond mere trade, as it provides the logistical link between remote North Bank farms and the global market. It stands as a living monument to Gambian agricultural history and a symbol of industrial presence in the country's interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kuntaur ist der wichtigste Verladehafen für Erdnüsse im Oberlauf des Gambia-Flusses.",
+          "Das Depot wird von der staatlichen Gambia Groundnut Corporation (GGC) betrieben.",
+          "Die Anlage ist ein wichtiger Arbeitgeber für die Bevölkerung im Distrikt Niani.",
+          "Erdnusskähne benötigen von hier aus etwa 3-4 Tage bis zum Hafen von Banjul.",
+          "Das Depot beherbergt strategische Reserven an Saatgut für die Bauern der Region.",
+          "Kuntaur ist einer der wenigen Orte am Nordufer mit industrieller Infrastruktur."
+        ],
+        "hu": [
+          "A kuntauri depó Gambia egyik legnagyobb folyóparti raktárkapacitásával rendelkezik.",
+          "A létesítmény kulcsszerepet játszik a nemzeti földimogyoró-export minőségellenőrzésében.",
+          "A depó mellett található kikötőben egyszerre több uszály is tud rakodni.",
+          "A mogyorófeldolgozás főszezonja Kuntaurban novembertől márciusig tart.",
+          "A területen korábban brit gyarmati kereskedőházak működtek.",
+          "A depó áramellátását saját generátorok biztosítják a folyamatos működéshez."
+        ],
+        "ro": [
+          "Depozitul din Kuntaur este situat la aproximativ 250 km de estuar.",
+          "Relieful stabilizat a prevenit surparea malurilor în zona de încărcare.",
+          "Facilitatea este esențială pentru economia locală a etniilor Mandinka și Wolof.",
+          "Kuntaur reprezintă un punct de oprire major pentru flota comercială a GGC.",
+          "Depozitul include laboratoare pentru verificarea purității semințelor.",
+          "Este considerat 'inima industrială' a regiunii Central River de Nord."
+        ],
+        "en": [
+          "Kuntaur acts as the primary regional logistics hub for agricultural bulk goods.",
+          "The depot's deep-water access is critical for the national river-transport strategy.",
+          "It provides seasonal income for hundreds of laborers and porters.",
+          "The facility features specialized silos for maintaining low-moisture storage conditions.",
+          "Kuntaur is a key site for the Gambian government's agro-industrial policies.",
+          "The historical importance of the depot has helped Kuntaur remain a regional center."
+        ]
+      }
+    },
+    {
+      "id": "barra-ferry-terminal-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fährterminal von Barra ist einer der verkehrsreichsten und wirtschaftlich wichtigsten Verkehrsknotenpunkte Gambias. Es liegt am Nordufer des Gambia-Flusses, direkt gegenüber der Hauptstadt Banjul. Geografisch markiert das Terminal das Tor zum Nordufer und ist der unverzichtbare Verbindungspunkt zwischen der Hauptstadt und dem Norden des Landes sowie dem Senegal. Täglich werden hier tausende Passagiere und hunderte Fahrzeuge auf den großen Fähren über die Flussmündung transportiert. Wirtschaftlich ist das Terminal der Lebensnerv für das Kleingewerbe in Barra; hunderte von Händlern, Trägern und informellen Dienstleistern leben direkt von den Passagierströmen. Zudem ist Barra ein entscheidender Punkt für den Transit von Waren, insbesondere für Agrarprodukte aus dem Norden und Importgüter aus dem Hafen von Banjul. Das Relief des Terminalgeländes ist durch künstliche Rampen und Anlegestellen geprägt, die den Gezeitenunterschieden des Ästuars standhalten müssen. Die geschäftige, oft hektische Atmosphäre am Terminal ist ein Symbol für die Mobilität und die wirtschaftliche Verflechtung Gambias. Trotz der Eröffnung der Senegambia-Brücke weiter flussaufwärts bleibt die Fährverbindung Barra-Banjul aufgrund der Zeitersparnis für den Verkehr in Richtung Dakar von zentraler strategischer Bedeutung.",
+        "hu": "A barrai kompterminál Gambia egyik legforgalmasabb és gazdaságilag legfontosabb közlekedési csomópontja, amely a Gambia-folyó északi partján, a fővárossal, Banjullal szemben található. Földrajzi elhelyezkedése miatt ez a terminál az északi part kapuja, és az egyetlen közvetlen összeköttetés a főváros és az ország északi területei, valamint Szenegál között a torkolatnál. Naponta utasok ezrei és gépjárművek százai kelnek át innen a hatalmas kompokon a folyó túlsó partjára. Gazdaságilag a terminál Barra városának éltető ereje: kereskedők, hordárok és szolgáltatók százai élnek közvetlenül az áthaladó forgalomból. Barra emellett kulcsfontosságú pont az északról érkező mezőgazdasági termékek és a banjuli kikötőből származó importáruk tranzitjában. A terminál területének domborzatát a mesterséges rámpák és kikötőhelyek határozzák meg, amelyeket úgy alakítottak ki, hogy ellenálljanak az árapály szintkülönbségeinek. A terminál nyüzsgő, gyakran kaotikus hangulata a gambiai mobilitás és gazdasági összefonódás szimbóluma. Annak ellenére, hogy a folyó felsőbb szakaszán megnyílt a Szenegambia-híd, a Barra-Banjul kompvonal stratégiai jelentősége megmaradt, mivel ez a leggyorsabb útvonal a Dakar felé tartó forgalom számára.",
+        "ro": "Terminalul de feribot din Barra este unul dintre cele mai aglomerate și importante noduri de transport din Gambia, situat pe malul nordic al fluviului, direct în fața capitalei Banjul. Geografic, terminalul reprezintă poarta către regiunea North Bank și este punctul vital de legătură între capitală și nordul țării, precum și către Senegal. Zilnic, mii de pasageri și sute de vehicule sunt transportate de feriboturile mari peste gura de vărsare a fluviului. Din punct de vedere economic, terminalul este vital pentru micul comerț din Barra; sute de comercianți, hamali și prestatori de servicii informale depind direct de fluxul de pasageri. De asemenea, Barra este un punct crucial pentru tranzitul mărfurilor, în special pentru produsele agricole din nord și bunurile de import din portul Banjul. Relieful zonei terminalului este caracterizat de rampe artificiale și pontoane construite să reziste variațiilor de maree ale estuarului. Atmosfera efervescentă și adesea febrilă de la terminal este un simbol al mobilității și interdependenței economice a Gambiei. În ciuda deschiderii Podului Senegambia în amonte, legătura cu feribotul Barra-Banjul rămâne de o importanță strategică centrală datorită economiei de timp pentru traficul orientat spre Dakar.",
+        "en": "The Barra Ferry Terminal is one of the busiest and most economically vital transport hubs in The Gambia, located on the north bank of the Gambia River, directly across from the capital, Banjul. Geographically, the terminal marks the gateway to the North Bank and is the indispensable connection point between the capital and the northern parts of the country, as well as to Senegal. Every day, thousands of passengers and hundreds of vehicles are transported across the river mouth on large ferries. Economically, the terminal is the lifeblood for small-scale commerce in Barra; hundreds of traders, porters, and informal service providers depend directly on the passenger flow. Additionally, Barra is a critical point for the transit of goods, especially agricultural products from the north and imports from the Port of Banjul. The relief of the terminal area is shaped by artificial ramps and docking facilities designed to withstand the tidal shifts of the estuary. The bustling, often hectic atmosphere at the terminal is a symbol of Gambia's mobility and economic interconnectedness. Despite the opening of the Senegambia Bridge further upriver, the Barra-Banjul ferry link remains of central strategic importance due to the time savings for traffic heading towards Dakar."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Terminal verbindet die Hauptstadt Banjul mit dem Nordufer des Landes.",
+          "Es wird von der Gambia Ferry Services, einer Tochter der GPA, betrieben.",
+          "Täglich nutzen hunderte von Händlern die Fähre für den Warenverkehr.",
+          "Barra ist der Startpunkt für den Überlandverkehr in den Nord-Senegal.",
+          "Die Fähren 'Kunta Kinteh' und 'Kanilai' sind die bekanntesten auf dieser Route.",
+          "Das Terminal ist ein Brennpunkt für den informellen Geldwechsel und Kleinsthandel."
+        ],
+        "hu": [
+          "A barrai terminál Gambia legforgalmasabb kompátkelőhelye.",
+          "Az átkelés ideje a folyón körülbelül 35-45 perc.",
+          "A terminál környékén található az ország egyik legnagyobb buszpályaudvara.",
+          "A kompforgalom kulcsfontosságú a banjuli piacok élelmiszer-ellátásában.",
+          "A terminál modern jegyértékesítő rendszerrel és váróteremmel rendelkezik.",
+          "Az árapály jelenség miatt a kompok menetrendje néha módosulhat."
+        ],
+        "ro": [
+          "Terminalul din Barra este esențial pentru securitatea națională a Gambiei.",
+          "Capacitatea feriboturilor permite transportul camioanelor de mare tonaj.",
+          "Zona terminalului este protejată de diguri pentru a reduce impactul valurilor.",
+          "Este un punct major de colectare a taxelor pentru autoritatea portuară.",
+          "Terminalul facilitează accesul rapid la situl istoric Fort Bullen.",
+          "Activitatea economică de aici este maximă între orele 7:00 și 19:00."
+        ],
+        "en": [
+          "The Barra terminal is the primary link in the Banjul-Dakar transport corridor.",
+          "It acts as a major hub for the distribution of sea salt from northern pans.",
+          "The ferry service is the cheapest way for commuters to reach the capital.",
+          "It features specialized docks for artisanal fishing boats nearby.",
+          "Barra terminal has been a focal point for national infrastructure upgrades.",
+          "The site is known for its high concentration of 'bush taxi' operators."
+        ]
+      }
+    },
+    {
+      "id": "bakau-fish-landing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereianlandeplatz von Bakau (Bakau Fish Landing Site) ist ein pulsierendes Zentrum der lokalen Wirtschaft an der Atlantikküste Gambias. Geografisch liegt der Standort an einer geschützten Bucht von Bakau, die durch markante rote Sandsteinklippen begrenzt wird. Dieser Ort ist weit mehr als nur ein Hafen; er ist das wirtschaftliche Herzstück der Gemeinde und ein Hauptlieferant für frischen Fisch in der Greater Banjul Area. Täglich, besonders am späten Nachmittag, kehren hunderte von bunt bemalten Pirogen vom Meer zurück und werden von einer wartenden Menge aus Käufern, Händlern und Touristen empfangen. Die Wirtschaft vor Ort ist hochgradig organisiert; während die Männer den Fang einbringen, übernehmen Frauenkooperativen oft die Vermarktung und das Räuchern des Fisches in den angrenzenden Anlagen. Der Anlandeplatz beherbergt zudem eine Vielzahl von Kleingewerben, von Bootsreparaturen bis hin zu Verkaufsständen für Fischereizubehör. Das Relief ist durch den Übergang von den Klippen zum flachen Sandstrand geprägt, was dem Ort eine malerische Kulisse verleiht. Für den Tourismus ist Bakau Fish Landing Site ein Magnet, da er einen ungeschminkten Einblick in das traditionelle und dennoch hochproduktive Arbeitsleben der gambischen Fischer bietet.",
+        "hu": "A bakaui halászkikötő (Bakau Fish Landing Site) Gambia tengerparti gazdaságának egyik lüktető központja az Atlanti-óceán partján. Földrajzi elhelyezkedése különleges: Bakau egy védett öblében található, amelyet jellegzetes vöröses homokkő sziklák öveznek. Ez a helyszín sokkal több egy egyszerű kikötőnél; ez a közösség gazdasági motorja és a nagy-banjuli térség egyik legfontosabb frisshal-szállítója. Naponta, különösen a késő délutáni órákban, színes pirogák százai térnek vissza a nyílt vízről, ahol vásárlók, kereskedők és turisták tömege várja őket a parton. A helyi gazdaság rendkívül szervezett: míg a férfiak a halászatot végzik, az asszonyok szövetségei felelnek az áru értékesítéséért és a halak füstöléséért a közeli üzemekben. A kikötő számos kapcsolódó kisvállalkozásnak ad otthont, a hajójavítóktól a halászati felszereléseket árusító boltokig. A domborzatot a sziklafalak és a lapos homokos part találkozása határozza meg, ami festői hátteret biztosít a munkának. A turizmus számára a bakaui halászkikötő igazi mágnes, hiszen hiteles bepillantást enged a gambiai halászok hagyományos, mégis rendkívül produktív mindennapjaiba.",
+        "ro": "Punctul de descărcare a peștelui din Bakau (Bakau Fish Landing Site) este un centru efervescent al economiei locale situat pe coasta atlantică a Gambiei. Geografic, locația se află într-un golf adăpostit din Bakau, mărginit de faleze spectaculoase de gresie roșie. Acest loc reprezintă inima economică a comunității și principalul furnizor de pește proaspăt pentru zona metropolitană Banjul. Zilnic, în special spre sfârșitul după-amiezii, sute de pirogi colorate revin din larg, fiind întâmpinate de o mulțime activă de cumpărători, comercianți și turiști. Economia locală este foarte bine structurată; în timp ce bărbații se ocupă de captură, cooperativele de femei gestionează comercializarea și afumarea peștelui în facilitățile adiacente. Punctul de descărcare găzduiește numeroase mici afaceri, de la ateliere de reparații navale la magazine de accesorii pentru pescuit. Relieful este definit de tranziția de la faleze la plaja de nisip fin, oferind un cadru pitoresc activității industriale. Pentru turism, Bakau Fish Landing Site este un punct de atracție major, oferind o perspectivă autentică asupra vieții profesionale tradiționale și productive a pescarilor gambieni.",
+        "en": "The Bakau Fish Landing Site is a pulsating hub of the local economy on The Gambia’s Atlantic coast. Geographically, it is located in a sheltered bay in Bakau, framed by distinctive red sandstone cliffs. This site is much more than just a harbor; it is the economic heart of the community and a primary supplier of fresh fish to the Greater Banjul Area. Every day, particularly in the late afternoon, hundreds of brightly painted pirogues return from the sea, met by a bustling crowd of buyers, traders, and tourists. The local economy is highly organized; while the men bring in the catch, women’s cooperatives typically handle the marketing and smoking of the fish in nearby facilities. The landing site hosts a variety of small enterprises, from boat repairs to stalls selling fishing gear. The relief is shaped by the transition from the cliffs to the flat sandy beach, providing a scenic backdrop to the industrial activity. For tourism, the Bakau Fish Landing Site is a major draw, offering an unvarnished look into the traditional yet highly productive working life of Gambian fishers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bakau ist einer der ältesten und bekanntesten Fischereistandorte Gambias.",
+          "Der Standort ist berühmt für die Rückkehr der bunten Pirogen am späten Nachmittag.",
+          "Es gibt spezialisierte Räucherhütten, in denen der Fisch traditionell haltbar gemacht wird.",
+          "Der Fischmarkt von Bakau beliefert die meisten Hotels der Umgebung.",
+          "Die rote Sandsteinküste von Bakau bietet einen natürlichen Schutz für den Hafen.",
+          "Frauenkooperativen spielen eine zentrale Rolle in der ökonomischen Struktur des Platzes."
+        ],
+        "hu": [
+          "A bakaui kikötő Gambia egyik leglátványosabb halászati helyszíne.",
+          "A halászok gyakran több napot is a nyílt óceánon töltenek a nagyobb fogásért.",
+          "A kikötő melletti piacon frissen fogott barrakuda és tengeri sügér is kapható.",
+          "A terület fontos bázisa a hagyományos fa-pirogák készítésének.",
+          "Bakau halpiaca az egyik legfontosabb fehérjeforrás a fővárosi lakosság számára.",
+          "A helyszínen modern jégkészítő üzem segíti a halak frissen tartását."
+        ],
+        "ro": [
+          "Bakau deține o flotă de pirogi artizanale recunoscută pentru reziliența sa.",
+          "Relieful accidentat al falezelor a necesitat construirea unor rampe de acces.",
+          "Activitatea de aici susține direct peste 2.000 de locuri de muncă.",
+          "Pescuitul în Bakau este influențat de curentul rece al Canarelor.",
+          "Localitatea este renumită pentru calitatea peștelui afumat la export.",
+          "Punctul de descărcare este un sit de interes pentru cercetările marine naționale."
+        ],
+        "en": [
+          "Bakau is a primary site for the Gambia's artisanal shark and ray fishery.",
+          "The landing site features community-managed sanitation and waste systems.",
+          "It acts as a major cultural landmark where maritime traditions are passed down.",
+          "The area is known for its high concentration of skilled net menders.",
+          "Bakau's fish landing site is a key component of the national 'Blue Economy'.",
+          "The location offers a unique viewpoint for watching traditional sailing techniques."
+        ]
+      }
+    }
+  ]
+}

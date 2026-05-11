@@ -1,0 +1,15 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [ "lib/visualLab/data/poiExtraMaliNatureV2.ts" ],
+  "items": [
+    { "id": "lake-doro-nature-v2", "description": "Lacul Doro este un punct de adunare pentru fauna locală în peisajul de savană maliană.", "facts": ["Lac superficial", "Faună locală", "Savana maliană"] },
+    { "id": "mount-dogon-nature-v2", "description": "Platoul Dogon oferă un mediu unic cu creste stâncoase care susțin o floră și faună specializată.", "facts": ["Platou stâncos", "Ținutul Dogon", "Ecosistem special"] },
+    { "id": "kourou-river-nature-v2", "description": "Fluviul Kourou străbate terenuri variate, contribuind la diversitatea ecologică a zonelor înconjurătoare.", "facts": ["Teren variat", "Diversitate ecologică", "Fluviu"] },
+    { "id": "lake-aougoundou-nature-v2", "description": "Lacul Aougoundou este un rezervor sezonier important în nordul țării în timpul lunilor ploioase.", "facts": ["Rezervor sezonier", "Nordul Mali", "Sursă de apă"] },
+    { "id": "mount-bougouni-nature-v2", "description": "Muntele Bougouni, situat în sudul țării, este acoperit de păduri sezoniere și vegetație densă.", "facts": ["Sudul Mali", "Păduri sezoniere", "Vegetație densă"] },
+    { "id": "lake-nianga-nature-v2", "description": "Lacul Nianga este o zonă umedă liniștită care oferă habitat pentru numeroase specii de pești și păsări.", "facts": ["Zonă umedă", "Păsări acvatice", "Pești"] },
+    { "id": "mount-sikasso-nature-v2", "description": "Dealurile din jurul Sikasso sunt cunoscute pentru solul lor fertil și vegetația mereu verde.", "facts": ["Sol fertil", "Vegetație permanentă", "Sikasso"] },
+    { "id": "bafing-makana-river-nature-v2", "description": "Fluviul Bafing-Makana este o resursă hidrică cheie în vest, cu un curs rapid și maluri stâncoase.", "facts": ["Vestul Mali", "Curs rapid", "Resursă hidrică"] }
+  ]
+}

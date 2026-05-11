@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "abu-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Abu ist eine der abgelegensten und authentischsten Siedlungen im Bijagós-Archipel, gelegen auf der Insel Formosa. Der Ort ist ein Paradebeispiel für die traditionelle Siedlungsstruktur der Bijagó, in der das soziale Leben in sogenannten 'Tabancas' organisiert ist. Die Architektur in Abu ist fast ausschließlich von natürlichen Materialien geprägt: Rundhütten mit dicken Lehmwänden und weit heruntergezogenen Strohdächern bieten Schutz vor der intensiven tropischen Sonne und den heftigen Regenfällen der Monsunzeit. Die Wirtschaft des Ortes ist weitgehend autark und basiert auf einer Kombination aus Subsistenzlandwirtschaft, dem Sammeln von wilden Ölpalmfrüchten und handwerklichem Fischfang. Abu bewahrt eine starke spirituelle Identität, wobei die Ältesten und Priesterinnen eine zentrale Rolle in der Führung der Gemeinschaft einnehmen. Die Isolation der Siedlung, die nur durch unregelmäßige Bootsverbindungen über das Labyrinth der Gezeitenkanäle erreichbar ist, hat dazu geführt, dass archaische Bräuche und Initiationsriten hier in ihrer ursprünglichsten Form erhalten geblieben sind. Für Forscher und Besucher, die das wahre kulturelle Erbe Guinea-Bissaus suchen, stellt Abu ein lebendiges Museum der westafrikanischen Inselkultur dar.",
+        "hu": "Abu a Bijagós-szigetcsoporthoz tartozó Formosa-sziget egyik legelszigeteltebb és legautentikusabb települése. A falu a bijagó nép hagyományos településszerkezetének iskolapéldája, ahol a közösségi élet az úgynevezett „tabancákban” zajlik. Abu építészetét szinte kizárólag természetes anyagok használata jellemzi: a vastag vályogfalú, mélyre nyúló szalmatetővel fedett körkunyhók kiváló védelmet nyújtanak a tűző trópusi nap és a monszunidőszak heves esőzései ellen. A település gazdasága nagyrészt önellátó, alapját az önellátó gazdálkodás, a vadon élő olajpálmák termésének begyűjtése és a kézműves halászat adja. Abu erős spirituális identitást őriz, ahol a vének tanácsa és a papnők központi szerepet töltenek be a közösség irányításában. A falu elszigeteltsége – amely csak az árapály-csatornák labirintusán keresztül, rendszertelen hajójáratokkal közelíthető meg – lehetővé tette az archaikus szokások és beavatási rítusok eredeti formában való megőrzését. A kutatók és az autentikus kulturális élményt kereső látogatók számára Abu a nyugat-afrikai szigeti kultúra élő múzeuma.",
+        "ro": "Abu este una dintre cele mai izolate și autentice așezări din Arhipelagul Bijagós, situată pe insula Formosa. Localitatea reprezintă un exemplu clasic al structurii tradiționale de așezare a poporului Bijagó, unde viața socială este organizată în așa-numitele 'tabancas'. Arhitectura din Abu este dominată aproape exclusiv de utilizarea materialelor naturale: colibele rotunde cu pereți groși din lut și acoperișuri de paie prelungite oferă protecție împotriva soarelui tropical intens și a ploilor torențiale din sezonul musonic. Economia așezării este în mare măsură autosuficientă, bazându-se pe o combinație de agricultură de subzistență, colectarea fructelor de palmier de ulei sălbatic și pescuit artizanal. Abu păstrează o identitate spirituală puternică, în care bătrânii satului și preotesele joacă un rol central în conducerea comunității. Izolarea satului, accesibil doar prin conexiuni navale neregulate prin labirintul de canale de maree, a permis conservarea unor obiceiuri arhaice și rituri de inițiere în forma lor cea mai pură. Pentru cercetători și vizitatorii care caută patrimoniul cultural veritabil al Guineei-Bissau, Abu constituie un muzeu viu al culturii insulare vest-africane.",
+        "en": "Abu is one of the most remote and authentic settlements in the Bijagós Archipelago, located on Formosa Island. The village serves as a prime example of the traditional Bijagó settlement pattern, where social life is organized into communal compounds known as 'tabancas.' The architecture in Abu is defined almost entirely by the use of natural materials: circular huts with thick mud walls and deep overhanging thatched roofs provide essential shelter from the intense tropical sun and the heavy monsoon rains. The local economy is largely self-sufficient, sustained by a combination of subsistence farming, the harvesting of wild oil palm fruit, and artisanal fishing. Abu maintains a powerful spiritual identity, with elders and priestesses playing a central role in communal governance. The settlement's isolation—accessible only via irregular boat trips through a complex labyrinth of tidal channels—has allowed archaic customs and initiation rites to be preserved in their most original form. For researchers and visitors seeking the genuine cultural heritage of Guinea-Bissau, Abu stands as a living museum of West African island culture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Abu ist nur per Boot durch komplexe Gezeitenkanäle erreichbar.",
+          "Die Siedlung ist ein Zentrum für das traditionelle Bijagó-Handwerk.",
+          "Religiöse Tabus schützen die umliegenden Wälder vor Abholzung.",
+          "Die Bevölkerung lebt fast ausschließlich von Subsistenzwirtschaft.",
+          "Abu beherbergt eine der ältesten kontinuierlich bewohnten Tabancas Formosas.",
+          "In der Nähe befinden sich wichtige Brutgebiete für Seevögel."
+        ],
+        "hu": [
+          "Abu csak hajóval, bonyolult árapály-csatornákon keresztül érhető el.",
+          "A település a hagyományos bijagó kézművesség egyik központja.",
+          "Vallási tabuk védik a környékbeli erdőket a fakitermeléstől.",
+          "A lakosság szinte kizárólag önellátó gazdálkodásból él.",
+          "Abu ad otthont Formosa egyik legrégebbi, folyamatosan lakott tabancájának.",
+          "A közelben fontos tengeri madárfészkelőhelyek találhatók."
+        ],
+        "ro": [
+          "Abu este accesibil doar cu barca prin canale de maree complexe.",
+          "Așezarea este un centru pentru meșteșugurile tradiționale Bijagó.",
+          "Tabuurile religioase protejează pădurile înconjurătoare de defrișări.",
+          "Populația trăiește aproape exclusiv din agricultura de subzistență.",
+          "Abu găzduiește una dintre cele mai vechi 'tabancas' locuite de pe Formosa.",
+          "În apropiere se află zone importante de cuibărit pentru păsările marine."
+        ],
+        "en": [
+          "Abu is accessible only by boat through complex tidal waterways.",
+          "The settlement remains a hub for traditional Bijagó craftsmanship.",
+          "Religious taboos safeguard the surrounding forests from logging.",
+          "The local population relies almost entirely on subsistence activities.",
+          "Abu features some of Formosa's oldest continuously inhabited communal compounds.",
+          "The surrounding area is a major breeding ground for diverse seabird species."
+        ]
+      }
+    },
+    {
+      "id": "prabis-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Prabis ist ein bedeutendes regionales Zentrum in der Region Biombo, westlich der Hauptstadt Bissau gelegen. Aufgrund seiner geografischen Nähe zur Metropole fungiert Prabis als wichtiger Transitpunkt und landwirtschaftliches Versorgungsgebiet für die Hauptstadt. Der Ort ist geprägt durch eine fruchtbare Küstenlandschaft, in der vor allem Reis in den eingedeichten 'Bolonhas' und Cashewnüsse in weitläufigen Plantagen angebaut werden. Prabis ist zudem bekannt für seine Mango-Haine, deren Erzeugnisse in der Saison die Märkte von Bissau dominieren. Die soziale Struktur des Ortes ist durch das Volk der Pepel geprägt, deren Traditionen und Zeremonien tief im täglichen Leben verwurzelt sind. Prabis dient als Wohnort für viele Pendler, die in Bissau arbeiten, aber die Ruhe des ländlichen Raums bevorzugen. Die Architektur ist eine Mischung aus modernisierter Infrastruktur entlang der Hauptstraße und traditionellen Wohnkomplexen im Umland. Durch die Lage an den Ausläufern des Rio Mansoa-Ästuars spielt auch der Fischfang eine wesentliche Rolle für die lokale Ökonomie. Prabis repräsentiert die dynamische Verbindung zwischen dem urbanen Bissau und den produktiven Agrarregionen des Westens.",
+        "hu": "Prabis a Biombo régió egyik meghatározó települése, amely a fővárostól, Bissautól nyugatra fekszik. Földrajzi közelsége miatt Prabis fontos tranzitzónaként és a főváros elsődleges mezőgazdasági beszállítójaként funkcionál. A települést termékeny part menti táj jellemzi, ahol leginkább mocsári rizst (bolonhas) és kesudiót termesztenek kiterjedt ültetvényeken. Prabis emellett híres mangóligeteiről, amelyek termései a szezon idején elárasztják Bissau piacait. A lakosság többségét a pepel népcsoport alkotja, akiknek hagyományai és szertartásai mélyen átszövik a mindennapokat. Prabis népszerű lakóhely a Bissauban dolgozó ingázók körében is, akik a vidéki nyugalmat keresik a városi forgatag után. Az építészet vegyes képet mutat: a főút mentén modernizált épületek, míg a külterületeken hagyományos lakókomplexumok találhatók. A Mansoa-folyó torkolatának közelsége miatt a halászat is jelentős bevételi forrás a helyi lakosok számára. Prabis kiválóan reprezentálja a városi Bissau és a nyugati agrárvidékek közötti dinamikus gazdasági és társadalmi kapcsolatot.",
+        "ro": "Prabis este un centru regional semnificativ în regiunea Biombo, situat la vest de capitala Bissau. Datorită proximității sale geografice de metropolă, Prabis funcționează ca un punct de tranzit important și ca o zonă de aprovizionare agricolă vitală pentru capitală. Localitatea este marcată de un peisaj costier fertil, unde se cultivă în principal orez în 'bolonhas' îndiguite și nuci caju în plantații extinse. Prabis este, de asemenea, renumit pentru livezile sale de mango, ale căror produse domină piețele din Bissau în timpul sezonului. Structura socială a așezării este definită de poporul Pepel, ale cărui tradiții și ceremonii sunt profund înrădăcinate în viața de zi cu zi. Prabis servește drept reședință pentru mulți navetiști care lucrează în Bissau, dar preferă liniștea mediului rural. Arhitectura este un amestec de infrastructură modernizată de-a lungul drumului principal și complexe rezidențiale tradiționale în zonele periferice. Datorită locației sale la marginile estuarului Rio Mansoa, pescuitul joacă, de asemenea, un rol esențial în economia locală. Prabis reprezintă legătura dinamică dintre zona urbană Bissau și regiunile agricole productive din vest.",
+        "en": "Prabis is a significant regional center in the Biombo region, located just west of the capital city, Bissau. Due to its geographical proximity to the metropolis, Prabis functions as a vital transit hub and a primary agricultural supply zone for the capital. The area is characterized by a fertile coastal landscape where rice is grown in diked 'bolonhas' and cashews are harvested in extensive plantations. Prabis is also famous for its mango groves, whose produce dominates Bissau's markets during the harvest season. The social fabric of the town is shaped by the Pepel people, whose traditions and ceremonies remain deeply rooted in daily life. Prabis is a popular residential area for commuters who work in Bissau but prefer the tranquility of a rural setting. The architecture is a blend of modernized infrastructure along the main road and traditional residential compounds in the surrounding countryside. Its location at the edge of the Rio Mansoa estuary means that fishing also plays a substantial role in the local economy. Prabis represents the dynamic connection between urban Bissau and the productive agricultural regions of the west."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Prabis ist eines der Hauptanbaugebiete für Mangos in Guinea-Bissau.",
+          "Der Ort liegt strategisch günstig an der Verbindungsstraße nach Quinhamel.",
+          "Die ethnische Gruppe der Pepel dominiert die soziale Hierarchie in Prabis.",
+          "Prabis dient als Pufferzone für das städtische Wachstum von Bissau.",
+          "In der Regenzeit bilden sich um den Ort ausgedehnte Reisfelder.",
+          "Die Stadt ist bekannt für ihre lebhaften traditionellen Bestattungszeremonien."
+        ],
+        "hu": [
+          "Prabis az egyik legjelentősebb mangótermelő vidék az országban.",
+          "A település a Quinhamel felé vezető főút mentén fekszik.",
+          "A pepel népcsoport határozza meg a helyi társadalmi hierarchiát.",
+          "Prabis egyfajta pufferzónaként szolgál Bissau városi növekedése előtt.",
+          "Az esős évszakban a város környékét hatalmas rizsföldek borítják.",
+          "A település híres a látványos és élénk hagyományos temetési rítusairól."
+        ],
+        "ro": [
+          "Prabis este una dintre principalele zone de producție a mangoului din țară.",
+          "Localitatea este situată strategic pe drumul care leagă Bissau de Quinhamel.",
+          "Grupul etnic Pepel domină ierarhia socială locală în Prabis.",
+          "Prabis funcționează ca o zonă tampon pentru expansiunea urbană a capitalei.",
+          "În timpul sezonului ploios, în jurul orașului se formează câmpuri vaste de orez.",
+          "Orașul este cunoscut pentru ceremoniile sale funerare tradiționale foarte elaborate."
+        ],
+        "en": [
+          "Prabis is a major hub for mango production in Guinea-Bissau.",
+          "The town is strategically located on the main road connecting Bissau to Quinhamel.",
+          "The Pepel ethnic group maintains a strong presence and social hierarchy in Prabis.",
+          "Prabis acts as a residential buffer for the urban expansion of Bissau.",
+          "During the rainy season, the surrounding landscape is dominated by rice bolonhas.",
+          "The town is renowned for its vibrant and elaborate traditional funeral ceremonies."
+        ]
+      }
+    },
+    {
+      "id": "biombo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Biombo ist das administrative Zentrum des gleichnamigen Sektors im Westen Guinea-Bissaus und ein Kernland des Pepel-Volkes. Der Ort liegt in einer dynamischen Küstenzone, die durch ein dichtes Netz von Gezeitenkanälen und Mangrovenwäldern geprägt ist. Biombo fungiert als bedeutender Fischereihafen, von dem aus Pirogen die fischreichen Gewässer des Atlantiks und des nahen Bijagós-Archipels ansteuern. Die wirtschaftliche Basis der Stadt wird durch den Export von Cashewnüssen und die Produktion von Palmwein ergänzt, der in dieser Region von besonders hoher Qualität sein soll. Biombo ist historisch und kulturell bedeutsam, da es einer der Orte war, an denen der Widerstand der Pepel gegen die portugiesische Kolonialverwaltung besonders ausgeprägt war. Die Architektur der Stadt zeigt noch heute Spuren der kolonialen Präsenz in Form von verfallenden Verwaltungsgebäuden, die im Kontrast zu den belebten traditionellen Wohnvierteln stehen. Der Ort ist bekannt für seine tief verwurzelten animistischen Traditionen, die sich in heiligen Plätzen und rituellen Zeremonien manifestieren. Biombo stellt einen unverzichtbaren Knotenpunkt für die maritime und landwirtschaftliche Logistik des westlichen Guinea-Bissaus dar.",
+        "hu": "Biombo az azonos nevű szektor adminisztratív központja Guinea-Bissau nyugati részén, és a pepel nép ősi szállásterülete. A település egy dinamikus part menti zónában fekszik, amelyet árapály-csatornák és mangroveerdők sűrű hálózata határoz meg. Biombo jelentős halászkikötőként működik, ahonnan a hagyományos pirogok az Atlanti-óceán és a közeli Bijagós-szigetcsoport halban gazdag vizeire indulnak. A város gazdasági alapját a kesudió-export és a pálmabor-termelés egészíti ki, amely utóbbi a régióban állítólag kiemelkedő minőségű. Biombo történelmileg és kulturálisan is meghatározó, mivel ez volt az egyik olyan helyszín, ahol a pepel nép a leghevesebb ellenállást tanúsította a portugál gyarmati közigazgatással szemben. A város építészete ma is őrzi a gyarmati jelenlét nyomait a málló vakolatú adminisztratív épületek formájában, amelyek éles kontrasztban állnak a lüktető, hagyományos lakónegyedekkel. A település híres mélyen gyökerező animista hagyományairól, amelyek szent helyekben és rituális szertartásokban nyilvánulnak meg. Biombo nélkülözhetetlen csomópont Nyugat-Guinea-Bissau tengeri és mezőgazdasági logisztikájában.",
+        "ro": "Biombo este centrul administrativ al sectorului omonim din vestul Guineei-Bissau și inima teritoriului poporului Pepel. Localitatea este situată într-o zonă de coastă dinamică, definită printr-o rețea densă de canale de maree și păduri de mangrove. Biombo funcționează ca un port de pescuit important, de unde pirogile pornesc către apele bogate ale Atlanticului și ale Arhipelagului Bijagós din apropiere. Baza economică a orașului este completată de exportul de nuci caju și de producția de vin de palmier, renumit în această regiune pentru calitatea sa ridicată. Biombo are o semnificație istorică și culturală majoră, fiind unul dintre locurile unde rezistența populației Pepel împotriva administrației coloniale portugheze a fost deosebit de intensă. Arhitectura orașului păstrează și astăzi urme ale prezenței coloniale sub forma clădirilor administrative degradate, care stau în contrast cu cartierele rezidențiale tradiționale animate. Orașul este cunoscut pentru tradițiile sale animiste profund înrădăcinate, care se manifestă prin locuri sacre și ceremonii rituale. Biombo reprezintă un nod indispensabil pentru logistica maritimă și agricolă a zonei de vest a Guineei-Bissau.",
+        "en": "Biombo is the administrative center of the eponymous sector in western Guinea-Bissau and a heartland for the Pepel people. The town is situated within a dynamic coastal zone defined by a dense network of tidal channels and mangrove forests. Biombo functions as a significant fishing port, serving as a base for pirogues heading to the nutrient-rich waters of the Atlantic and the nearby Bijagós Archipelago. The town's economic foundation is further supported by cashew nut exports and the production of palm wine, which is reputed to be of exceptionally high quality in this region. Biombo holds considerable historical and cultural importance, as it was a key site of fierce Pepel resistance against the Portuguese colonial administration. The town's architecture still displays traces of the colonial era in the form of decaying administrative buildings, which contrast sharply with the vibrant traditional residential districts. The settlement is renowned for its deeply ingrained animist traditions, which manifest in various sacred sites and ritual ceremonies. Biombo serves as an indispensable hub for the maritime and agricultural logistics of western Guinea-Bissau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Biombo ist der Hauptort des gleichnamigen westlichen Sektors.",
+          "Der Fischereihafen ist ein wichtiger Lieferant für die Märkte in Bissau.",
+          "Das Volk der Pepel betrachtet Biombo als ihr kulturelles Zentrum.",
+          "Die Stadt verfügt über bedeutende traditionelle Gerichtshöfe der Stammesältesten.",
+          "Palmwein aus Biombo wird landesweit für seine Reinheit geschätzt.",
+          "In der Umgebung befinden sich weitläufige heilige Mangrovenwälder."
+        ],
+        "hu": [
+          "Biombo az azonos nevű nyugati szektor székhelye.",
+          "Halászkikötője Bissau piacainak egyik legfontosabb beszállítója.",
+          "A pepel népcsoport Biombót tekinti kulturális központjának.",
+          "A városban a törzsi vének hagyományos bíróságai ma is működnek.",
+          "A biomboi pálmabor tisztasága miatt az egész országban keresett árucikk.",
+          "A település környékén kiterjedt, szentként tisztelt mangroveerdők találhatók."
+        ],
+        "ro": [
+          "Biombo este reședința sectorului vestic cu același nume.",
+          "Portul de pescuit este un furnizor major pentru piețele din Bissau.",
+          "Poporul Pepel consideră Biombo centrul lor cultural principal.",
+          "Orașul dispune de tribunale tradiționale importante ale bătrânilor de trib.",
+          "Vinul de palmier din Biombo este apreciat la nivel național pentru puritate.",
+          "În împrejurimi se află păduri de mangrove considerate sacre de localnici."
+        ],
+        "en": [
+          "Biombo is the head town of the western administrative sector of the same name.",
+          "The fishing port is a critical supplier for the food markets in Bissau.",
+          "The Pepel ethnic group regards Biombo as their primary cultural center.",
+          "The town hosts significant traditional courts presided over by tribal elders.",
+          "Palm wine from Biombo is valued nationwide for its high quality and purity.",
+          "The surrounding area features extensive mangrove forests held as sacred sites."
+        ]
+      }
+    },
+    {
+      "id": "cumura-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cumura ist eine Siedlung von herausragender sozialer und humanitärer Bedeutung, gelegen am Stadtrand von Bissau. Der Ort wurde international bekannt durch das Lepra-Krankenhaus und die missionarische Arbeit des Franziskanerordens, die hier seit Mitte des 20. Jahrhunderts aktiv sind. Cumura ist weit mehr als ein medizinisches Zentrum; es ist eine Gemeinschaft, die sich der Pflege und Integration von Menschen mit chronischen Krankheiten widmet. Die Architektur des Ortes ist durch den weitläufigen Krankenhauskomplex geprägt, der mit seinen schattigen Korridoren und funktionalen Krankensälen ein Zeugnis christlicher Wohlfahrtstradition in Westafrika darstellt. Geografisch liegt Cumura in einer wasserreichen Zone nahe dem Rio Geba, was den Anbau von Gemüse und Obst zur Selbstversorgung ermöglicht. Die Siedlung hat sich über die Jahrzehnte zu einem Ort der Hoffnung entwickelt, an dem Bildung und Gesundheitsvorsorge Hand in Hand gehen. Neben dem Krankenhaus beherbergt Cumura Schulen und soziale Einrichtungen, die Kindern aus der gesamten Region offenstehen. Der Ort bewahrt eine friedliche und geordnete Atmosphäre, die in starkem Kontrast zur hektischen Dynamik der nahen Hauptstadt steht. Für Guinea-Bissau ist Cumura ein Symbol für Solidarität und den unermüdlichen Einsatz für die Schwächsten der Gesellschaft.",
+        "hu": "Cumura kiemelkedő társadalmi és humanitárius jelentőségű település Bissau közvetlen szomszédságában. A helyszín nemzetközi hírnevét a lepra-kórháznak és a ferences rend missziós munkájának köszönheti, amely a 20. század közepe óta aktív itt. Cumura sokkal több, mint egy orvosi központ: egy olyan közösség, amely a krónikus betegek ápolásának és társadalmi integrációjának szentelte magát. A település arculatát a kiterjedt kórházi komplexum határozza meg, amely árnyas folyosóival és funkcionális kórtermeivel a nyugat-afrikai keresztény jótékonysági hagyományok mementója. Földrajzilag Cumura a Geba-folyóhoz közeli, vízben gazdag területen fekszik, ami lehetővé teszi a zöldség- és gyümölcstermesztést az önellátás érdekében. A település az évtizedek során a remény szigetévé vált, ahol az oktatás és az egészségügyi megelőzés kéz a kézben jár. A kórház mellett Cumura iskoláknak és szociális intézményeknek is otthont ad, amelyek a régió összes gyermeke számára nyitottak. A falu békés és rendezett légköre éles kontrasztban áll a közeli főváros zaklatott dinamikájával. Guinea-Bissau számára Cumura a szolidaritás és a társadalom legkiszolgáltatottabb tagjaiért végzett fáradhatatlan munka jelképe.",
+        "ro": "Cumura este o așezare de o importanță socială și umanitară excepțională, situată la periferia orașului Bissau. Localitatea a devenit cunoscută la nivel internațional datorită spitalului de leproși și activității misionare a ordinului franciscan, care este activ aici de la mijlocul secolului al XX-lea. Cumura este mult mai mult decât un centru medical; este o comunitate dedicată îngrijirii și integrării persoanelor cu boli cronice. Arhitectura localității este definită de complexul spitalicesc vast, care, cu coridoarele sale umbrite și saloanele funcționale, reprezintă o dovadă a tradiției de binefacere creștină în Africa de Vest. Din punct de vedere geografic, Cumura se află într-o zonă bogată în apă, aproape de râul Geba, ceea ce permite cultivarea legumelor și fructelor pentru autoconsum. De-a lungul deceniilor, așezarea s-a transformat într-un loc al speranței, unde educația și asistența medicală preventivă merg mână în mână. Pe lângă spital, Cumura găzduiește școli și instituții sociale deschise copiilor din întreaga regiune. Localitatea păstrează o atmosferă pașnică și ordonată, care stă într-un contrast puternic cu dinamica agitată a capitalei din apropiere. Pentru Guineea-Bissau, Cumura este un simbol al solidarității și al angajamentului neobosit față de cei mai vulnerabili membri ai societății.",
+        "en": "Cumura is a settlement of outstanding social and humanitarian significance, located on the outskirts of Bissau. The site gained international recognition due to its leprosarium and the missionary work of the Franciscan Order, which has been active here since the mid-20th century. Cumura is far more than a mere medical center; it is a community dedicated to the care and social integration of individuals with chronic illnesses. The town's architecture is dominated by the sprawling hospital complex, which, with its shaded corridors and functional wards, stands as a testament to the tradition of Christian charity in West Africa. Geographically, Cumura is situated in a water-rich zone near the Geba River, enabling the cultivation of vegetables and fruit for self-sufficiency. Over the decades, the settlement has evolved into a place of hope where education and preventive healthcare operate in tandem. Beside the hospital, Cumura houses schools and social facilities open to children from throughout the region. The town maintains a peaceful and orderly atmosphere that contrasts sharply with the hectic dynamics of the nearby capital. For Guinea-Bissau, Cumura is a symbol of solidarity and tireless dedication to the most vulnerable members of society."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cumura beherbergt das wichtigste spezialisierte Krankenhaus für Lepra und Tuberkulose.",
+          "Die Siedlung wurde von italienischen Franziskanern mitbegründet.",
+          "Der Ort verfügt über eine der am besten organisierten Grundschulen der Region.",
+          "Landwirtschaftliche Kooperativen in Cumura versorgen das Krankenhaus mit Lebensmitteln.",
+          "Die Kirche von Cumura ist ein wichtiger Ort für religiöse Feste.",
+          "Der Ort gilt als Vorbild für die soziale Inklusion in Westafrika."
+        ],
+        "hu": [
+          "Cumura ad otthont az ország legfontosabb lepra- és tuberkulózis-szakambulanciájának.",
+          "A települést olasz ferences misszionáriusok alapították.",
+          "A falu rendelkezik a régió egyik legjobban szervezett általános iskolájával.",
+          "Helyi mezőgazdasági szövetkezetek látják el élelemmel a kórházi betegeket.",
+          "Cumura temploma a vallási ünnepek egyik fontos regionális központja.",
+          "A települést Nyugat-Afrika-szerte a társadalmi integráció mintaképeként tisztelik."
+        ],
+        "ro": [
+          "Cumura găzduiește cel mai important spital specializat în lepră și tuberculoză din țară.",
+          "Așezarea a fost co-fondată de misionari franciscani italieni.",
+          "Localitatea dispune de una dintre cele mai bine organizate școli primare din regiune.",
+          "Cooperativele agricole din Cumura aprovizionează spitalul cu alimente proaspete.",
+          "Biserica din Cumura este un loc important pentru pelerinajele religioase locale.",
+          "Localitatea este considerată un model de incluziune socială în Africa de Vest."
+        ],
+        "en": [
+          "Cumura is home to the nation's primary specialized hospital for leprosy and tuberculosis.",
+          "The settlement was co-founded and continues to be supported by Italian Franciscans.",
+          "The village boasts one of the region's most consistently high-performing primary schools.",
+          "Agricultural cooperatives in Cumura ensure the hospital is supplied with fresh produce.",
+          "The local church in Cumura serves as a major focal point for regional religious festivals.",
+          "The community is widely regarded as a model for social inclusion in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "sao-domingos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "São Domingos ist eine bedeutende Grenzstadt im Norden von Guinea-Bissau, unmittelbar an der Grenze zur senegalesischen Region Casamance gelegen. Als wichtigster Landübergang zwischen den beiden Ländern fungiert die Stadt als pulsierendes kommerzielles Drehkreuz. Der tägliche Warenstrom von Lebensmitteln, Textilien und Baumaterialien prägt das dynamische Stadtbild. São Domingos ist geographisch durch die Ausläufer des Rio Cacheu-Mangrovensystems und weite Savannenlandschaften gekennzeichnet. Die Bevölkerung ist eine lebendige Mischung aus verschiedenen ethnischen Gruppen, darunter Manjaco, Felupe und Wolof, was sich in einer multikulturellen Atmosphäre und einer Vielfalt an Sprachen widerspiegelt. Die Stadt hat eine strategische Bedeutung für die nationale Sicherheit und die regionale Integration. Die Architektur von São Domingos ist zweckmäßig und durch zahlreiche Lagerhäuser, Zollstationen und einen belebten zentralen Markt geprägt. In den letzten Jahren profitierte der Ort von Infrastrukturprojekten, die die Straßenverbindung nach Ziguinchor und Bissau verbesserten. Trotz der Herausforderungen durch die grenznahe Lage und vergangene regionale Konflikte bleibt São Domingos ein Symbol für den wirtschaftlichen Austausch und die nachbarschaftliche Koexistenz im nordsenegalesisch-guineischen Grenzraum.",
+        "hu": "São Domingos Guinea-Bissau északi részének meghatározó határvárosa, amely közvetlenül a szenegáli Casamance régió határán fekszik. Mint a két ország közötti legfontosabb szárazföldi átkelőhely, a város lüktető kereskedelmi központként funkcionál. Az élelmiszerek, textilek és építőanyagok napi szintű áramlása határozza meg a dinamikus városképet. São Domingos földrajzi környezetét a Cacheu-folyó mangrove-rendszerének nyúlványai és a tágas szavannák jellemzik. Lakossága különböző népcsoportok, köztük manjaco, felupe és volof közösségek vibráló elegye, ami multikulturális légkört és nyelvi gazdagságot eredményez. A város stratégiai jelentőséggel bír a nemzetbiztonság és a regionális integráció szempontjából. São Domingos építészete funkcionális: számos raktárépület, vámostomás és egy nyüzsgő központi piac alkotja a magját. Az utóbbi években a település sokat profitált az infrastruktúra-fejlesztésekből, amelyek javították a Ziguinchor és Bissau közötti útkapcsolatot. A határ menti helyzetből és a múltbeli regionális konfliktusokból adódó kihívások ellenére São Domingos a gazdasági csereforgalom és a jószomszédi együttélés szimbóluma marad az északi határvidéken.",
+        "ro": "São Domingos este un important oraș de frontieră în nordul Guineei-Bissau, situat imediat la granița cu regiunea senegaleză Casamance. Fiind principalul punct de trecere terestră între cele două țări, orașul funcționează ca un nod comercial vibrant. Fluxul zilnic de mărfuri, constând în alimente, textile și materiale de construcție, definește peisajul urban dinamic. São Domingos este caracterizat geografic prin ramificațiile sistemului de mangrove al râului Cacheu și prin peisaje vaste de savană. Populația este un amestec viu de diverse grupuri etnice, inclusiv Manjaco, Felupe și Wolof, ceea ce se reflectă într-o atmosferă multiculturală și o diversitate de limbi vorbite. Orașul are o importanță strategică pentru securitatea națională și integrarea regională. Arhitectura din São Domingos este utilitară, fiind marcată de numeroase antrepozite, stații vamale și o piață centrală animată. În ultimii ani, localitatea a beneficiat de proiecte de infrastructură care au îmbunătățit conexiunea rutieră către Ziguinchor și Bissau. În ciuda provocărilor cauzate de locația de frontieră și de conflictele regionale trecute, São Domingos rămâne un simbol al schimbului economic și al coexistenței de bună vecinătate în spațiul transfrontalier nord-senegalezo-guineean.",
+        "en": "São Domingos is a major border town in northern Guinea-Bissau, situated directly on the frontier with the Senegalese region of Casamance. As the primary overland crossing between the two countries, the town functions as a pulsating commercial hub. The daily flow of goods, including foodstuffs, textiles, and construction materials, defines its dynamic urban character. Geographically, São Domingos is distinguished by the outer reaches of the Rio Cacheu mangrove system and expansive savanna landscapes. The population is a vibrant mosaic of various ethnic groups, including the Manjaco, Felupe, and Wolof, resulting in a multicultural atmosphere and a wide diversity of languages. The town holds strategic importance for national security and regional integration. The architecture of São Domingos is functional, featuring numerous warehouses, customs stations, and a bustling central market. In recent years, the settlement has benefited from infrastructure projects that have improved road links to both Ziguinchor and Bissau. Despite challenges posed by its border location and past regional conflicts, São Domingos remains a symbol of economic exchange and peaceful coexistence in the North Senegalese-Guinean borderlands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "São Domingos ist das wichtigste Tor für den legalen Handel mit Senegal.",
+          "Die Stadt beherbergt eine bedeutende Zollstation der UEMOA.",
+          "Die Region ist bekannt für den Anbau von hochwertigem Reis.",
+          "São Domingos war ein Zufluchtsort für Flüchtlinge aus der Casamance.",
+          "Der zentrale Markt gehört zu den preisgünstigsten des Landes.",
+          "Die Stadt liegt an der Hauptroute des Trans-West-African Coastal Highway."
+        ],
+        "hu": [
+          "São Domingos a legfontosabb kapu a Szenegállal folytatott legális kereskedelemben.",
+          "A városban működik az UEMOA egyik jelentős vámhivatala.",
+          "A régió híres a kiváló minőségű rizstermeléséről.",
+          "São Domingos korábban menedéket nyújtott a Casamance-ból érkező menekülteknek.",
+          "A város központi piaca az egyik legolcsóbb beszerzési forrás az országban.",
+          "A település a transz-nyugat-afrikai parti országút fő útvonalán fekszik."
+        ],
+        "ro": [
+          "São Domingos este principala poartă pentru comerțul legal cu Senegal.",
+          "Orașul găzduiește un punct vamal important al organizației UEMOA.",
+          "Regiunea este renumită pentru cultivarea unui orez de înaltă calitate.",
+          "São Domingos a fost un refugiu pentru persoanele strămutate din Casamance.",
+          "Piața centrală este considerată una dintre cele mai ieftine din țară.",
+          "Orașul este situat pe ruta principală a Autostrăzii Costiere Trans-Vest Africane."
+        ],
+        "en": [
+          "São Domingos is the most vital gateway for official trade with Senegal.",
+          "The town hosts a major customs facility for the UEMOA regional bloc.",
+          "The surrounding region is noted for the production of high-quality rice.",
+          "São Domingos has historically provided sanctuary for refugees from Casamance.",
+          "The central market is known for having some of the lowest prices in the country.",
+          "The town is a key waypoint on the Trans-West African Coastal Highway route."
+        ]
+      }
+    }
+  ]
+}

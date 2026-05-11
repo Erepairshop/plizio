@@ -1,0 +1,327 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": ["lib/visualLab/data/poiExtraLaosReliefV2.ts"],
+  "items": [
+    {
+      "id": "phou-bia-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Mit 2.819 Metern ist er die höchste Erhebung von ganz Laos.",
+          "Der Berg befindet sich im unwegsamen Annamitischen Gebirge.",
+          "Wegen militärischer Zonen ist der Zugang für Zivilisten streng limitiert.",
+          "Das Gebiet ist weiterhin stark durch Blindgänger aus dem Vietnamkrieg belastet.",
+          "In den höheren Lagen fällt die Temperatur in den Wintermonaten oft nahe den Gefrierpunkt.",
+          "Die Hänge und umliegenden Täler werden traditionell vom Volk der Hmong bewohnt.",
+          "Eine dichte Bewaldung macht die Hänge besonders schwer zugänglich."
+        ],
+        "hu": [
+          "A 2819 méteres magasságával egész Laosz legmagasabb hegycsúcsa.",
+          "A zord és nehezen járható Annamita-hegység része.",
+          "A katonai jelenlét miatt a turisták és civilek elől szigorúan elzárt terület.",
+          "A hegy környékét még mindig nagyszámú fel nem robbant bomba teszi veszélyessé.",
+          "A téli hónapokban a hőmérséklet a csúcs közelében fagypont köré is süllyedhet.",
+          "A hegy lejtőit és a környező völgyeket a hmong népcsoport tagjai lakják.",
+          "A csúcsot sűrű, szinte áthatolhatatlan dzsungel borítja."
+        ],
+        "ro": [
+          "Cu o altitudine de 2.819 metri, este cel mai înalt vârf montan din Laos.",
+          "Face parte din lanțul montan accidentat Annamit.",
+          "Accesul este strict interzis civililor din cauza prezenței militare.",
+          "Zona este încă puternic minată cu muniție neexplodată din timpul Războiului din Vietnam.",
+          "La altitudini mari, temperaturile pot scădea aproape de îngheț în timpul iernii.",
+          "Versanții muntelui sunt locuiți tradițional de populația Hmong.",
+          "Pădurile dese și virgine fac ca explorarea zonei să fie extrem de dificilă."
+        ]
+      }
+    },
+    {
+      "id": "xiangkhoang-plateau-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Die Hochebene liegt auf einer durchschnittlichen Höhe von 1.000 bis 1.300 Metern.",
+          "Hier befindet sich die weltberühmte und mysteriöse Ebene der Tonkrüge.",
+          "Während des Vietnamkrieges war die Region massiven Flächenbombardements ausgesetzt.",
+          "Das Klima ist hier aufgrund der Höhenlage deutlich kühler als im restlichen Laos.",
+          "Kalksteinformationen und ausgedehnte Graslandschaften prägen das Relief.",
+          "Rote Lateritböden sind ein typisches Merkmal der örtlichen Geologie.",
+          "Zahlreiche Flüsse haben hier ihren Ursprung und versorgen die umliegenden Täler."
+        ],
+        "hu": [
+          "A fennsík átlagos tengerszint feletti magassága 1000 és 1300 méter között mozog.",
+          "Itt található a világhírű és rejtélyes Kőedények síksága.",
+          "A vietnámi háború alatt a területet példátlanul súlyos szőnyegbombázások érték.",
+          "A tengerszint feletti magasság miatt az éghajlat itt érezhetően hűvösebb.",
+          "A tájat kiterjedt füves puszták és mészkőalakzatok jellemzik.",
+          "A jellegzetes vörös laterittalaj meghatározó eleme a helyi geológiának.",
+          "Több jelentős folyó is ezen a hegyvidéki területen ered."
+        ],
+        "ro": [
+          "Podișul este situat la o altitudine medie cuprinsă între 1.000 și 1.300 de metri.",
+          "Aici se află faimoasa și misterioasa Câmpie a Vaselor de Piatră.",
+          "Regiunea a suferit bombardamente masive în timpul Războiului din Vietnam.",
+          "Clima este considerabil mai răcoroasă datorită altitudinii ridicate.",
+          "Relieful este dominat de pajiști întinse și formațiuni carstice din calcar.",
+          "Solurile roșii de laterit sunt o caracteristică distinctivă a geologiei locale.",
+          "Podișul servește ca un important bazin hidrografic pentru numeroase râuri."
+        ]
+      }
+    },
+    {
+      "id": "bolaven-plateau-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Plateau liegt auf einer Höhe zwischen 1.000 und 1.350 Metern über dem Meeresspiegel.",
+          "Die fruchtbaren vulkanischen Böden sind ideal für den Kaffeeanbau.",
+          "Hier stürzen die spektakulären Zwillingswasserfälle Tad Fane tief in die Schlucht.",
+          "Das milde Klima bietet hervorragende Bedingungen für Kardamom- und Teeplantagen.",
+          "Der Name der Hochebene leitet sich vom indigenen Volk der Laven ab.",
+          "Dichter Dschungel und tiefe Schluchten durchziehen die Landschaft.",
+          "Während des Vietnamkrieges war die Region ein wichtiger Teil des Ho-Chi-Minh-Pfades."
+        ],
+        "hu": [
+          "A tengerszint feletti magasság 1000 és 1350 méter között változik ezen a vulkanikus fennsíkon.",
+          "A rendkívül termékeny talaj tökéletes feltételeket teremt a kávétermesztéshez.",
+          "Itt található a lélegzetelállító, kettős zuhatagú Tad Fane vízesés.",
+          "A hűvösebb éghajlat kedvez a tea és a kardamom termesztésének is.",
+          "A fennsík nevét a térségben élő laven nevű őslakos népcsoportról kapta.",
+          "A tájat mély szurdokok és sűrű egyenlítői erdők teszik változatossá.",
+          "A vietnámi háború idején a Ho Si Minh-ösvény egyik fontos szakasza húzódott itt."
+        ],
+        "ro": [
+          "Podișul se află la o altitudine cuprinsă între 1.000 și 1.350 de metri.",
+          "Solurile vulcanice fertile au transformat regiunea în centrul cultivării cafelei din Laos.",
+          "Cascadele spectaculoase Tad Fane se prăbușesc în defileuri adânci pe acest platou.",
+          "Clima blândă favorizează și culturile de ceai și cardamom.",
+          "Numele podișului provine de la populația indigenă Laven.",
+          "Peisajul este marcat de canioane abrupte și păduri tropicale virgine.",
+          "În timpul Războiului din Vietnam, zona a fost o porțiune a celebrului Drum Ho Și Min."
+        ]
+      }
+    },
+    {
+      "id": "phou-den-din-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Schutzgebiet liegt im äußersten Nordosten nahe der Grenze zu Vietnam.",
+          "Es ist eines der abgelegensten und am schwersten zugänglichen Gebiete in Laos.",
+          "Die Anreise in dieses bergige Terrain erfolgt hauptsächlich über den Fluss Nam Ou.",
+          "Dichte, unberührte Monsunwälder bedecken die steilen Hänge.",
+          "Das Gebiet beheimatet eine Vielzahl seltener Tierarten, darunter asiatische Elefanten.",
+          "Berggipfel in dieser Region erreichen Höhen von über 1.900 Metern.",
+          "Es gibt hier kaum befestigte Straßen, was die Natur weitgehend schützt."
+        ],
+        "hu": [
+          "A természetvédelmi terület a távoli északkeleten, a vietnámi határ mellett fekszik.",
+          "Ez Laosz egyik leginkább elzárt és legnehezebben megközelíthető hegyvidéke.",
+          "A meredek hegyek közé zárt vidékre leginkább a Nam Ou folyón lehet eljutni.",
+          "A tájat érintetlen monszunerdők és mély, sötét völgyek uralják.",
+          "A sűrű növényzet ritka állatfajoknak, köztük ázsiai elefántoknak is otthont ad.",
+          "A régió legmagasabb csúcsai megközelítik a 2000 méteres magasságot.",
+          "Az aszfaltozott utak hiánya jelentősen hozzájárul az érintetlen természet megőrzéséhez."
+        ],
+        "ro": [
+          "Aria protejată este situată în extremitatea nord-estică, la granița cu Vietnamul.",
+          "Este una dintre cele mai izolate și inaccesibile regiuni montane din țară.",
+          "Accesul în această zonă sălbatică se face preponderent cu barca, pe râul Nam Ou.",
+          "Versanții abrupți sunt acoperiți de păduri musonice virgine și dense.",
+          "Regiunea adăpostește specii rare de faună, inclusiv elefanți asiatici.",
+          "Vârfurile montane din acest parc național depășesc frecvent 1.900 de metri.",
+          "Lipsa infrastructurii rutiere a ajutat la conservarea excelentă a ecosistemului."
+        ]
+      }
+    },
+    {
+      "id": "nam-ou-valley-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Der Nam Ou ist mit 448 Kilometern einer der wichtigsten Nebenflüsse des Mekong.",
+          "Das Tal ist berühmt für seine dramatischen, steil aufragenden Karstberge.",
+          "Historisch diente der Fluss als wichtigste Handelsroute zwischen China und Luang Prabang.",
+          "An der Mündung in den Mekong befinden sich die heiligen Pak Ou-Höhlen.",
+          "In den letzten Jahren wurde das Tal durch den Bau einer großen Staudammkaskade verändert.",
+          "Der Flusslauf schneidet tief in die nördlichen Bergmassive von Phongsaly ein.",
+          "Traditionelle Dörfer entlang der Ufer sind oft nur auf dem Wasserweg erreichbar."
+        ],
+        "hu": [
+          "A 448 kilométer hosszú Nam Ou a Mekong egyik legjelentősebb mellékfolyója.",
+          "A völgyet lenyűgöző, meredek falú mészkőhegyek szegélyezik kétoldalt.",
+          "Történelmileg ez volt a legfőbb kereskedelmi útvonal Kína és Luang Prabang között.",
+          "Ahol a folyó a Mekongba ömlik, ott találhatóak a híres Pak Ou buddhista barlangok.",
+          "A közelmúltban épült vízerőművek és gátak jelentősen átalakították a völgy képét.",
+          "A folyó mélyen belevájja magát az északi Phongsaly tartomány hegyvidékébe.",
+          "A völgy számos apró települése a mai napig csak csónakkal közelíthető meg."
+        ],
+        "ro": [
+          "Cu o lungime de 448 de kilometri, Nam Ou este un afluent major al fluviului Mekong.",
+          "Valea este renumită pentru peisajele sale dramatice cu munți carstici abrupți.",
+          "A servit istoric ca principală rută comercială între China și orașul Luang Prabang.",
+          "La confluența cu Mekongul se găsesc faimoasele peșteri sacre Pak Ou.",
+          "În ultimii ani, valea a fost transformată prin construirea unei serii de baraje hidroelectrice.",
+          "Râul sculptează defileuri adânci prin masivele muntoase din provincia Phongsaly.",
+          "Multe dintre satele tradiționale de pe maluri sunt accesibile doar pe calea apei."
+        ]
+      }
+    },
+    {
+      "id": "phou-samsoun-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Der Berg ist eine markante Erhebung in der Provinz Xieng Khouang.",
+          "Seine Hänge sind durch eine sehr steile und zerklüftete Topografie gekennzeichnet.",
+          "Die Gipfelregion ist oft in dichten Nebel gehüllt.",
+          "Er bildet eine wichtige Wasserscheide für lokale Flusssysteme.",
+          "Im Unterholz der dichten Wälder wachsen zahlreiche seltene Heilpflanzen.",
+          "Das raue Klima auf dem Gipfel unterscheidet sich stark von den warmen Tälern.",
+          "Aufgrund der Abgeschiedenheit gibt es hier nur sehr wenige menschliche Siedlungen."
+        ],
+        "hu": [
+          "A hegy a Xieng Khouang tartomány egyik legmeghatározóbb, domináns csúcsa.",
+          "Oldalait rendkívül meredek lejtők és mély szakadékok tagolják.",
+          "A legmagasabb részeket gyakran sűrű, áthatolhatatlan köd borítja.",
+          "A hegytömb fontos vízválasztóként funkcionál a helyi folyórendszerek számára.",
+          "A sűrű hegyi erdők aljnövényzetében számos ritka gyógynövény él.",
+          "A zord és hűvös csúcsklíma éles kontrasztban áll a völgyek melegével.",
+          "A nehéz megközelíthetőség miatt az emberi jelenlét ezen a területen minimális."
+        ],
+        "ro": [
+          "Acest munte este o caracteristică topografică dominantă a provinciei Xieng Khouang.",
+          "Relieful său este extrem de accidentat, cu versanți abrupți și prăpastii.",
+          "La altitudini superioare, muntele este frecvent acoperit de o ceață densă.",
+          "Masivul servește ca un important punct de cumpănă a apelor pentru râurile locale.",
+          "Pădurile sale adăpostesc numeroase plante medicinale valoroase în subarboret.",
+          "Clima aspră din zona vârfului contrastează puternic cu aerul cald din văi.",
+          "Din cauza izolării extreme, regiunea este foarte slab populată."
+        ]
+      }
+    },
+    {
+      "id": "nakai-plateau-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Plateau liegt in Zentrallaos am Fuße des Annamitischen Gebirges.",
+          "Ein großer Teil der Hochebene wurde für das Nam Theun 2 Staudammprojekt geflutet.",
+          "Die Region ist berühmt für ausgedehnte, natürliche Kiefernwälder.",
+          "Hier wurde in den 1990er Jahren die seltene Antilopenart Saola entdeckt.",
+          "Der künstliche Stausee hat zahlreiche Inseln auf dem ehemaligen Plateau geschaffen.",
+          "Spezielle Feuchtgebiete bieten einen idealen Lebensraum für seltene Vogelarten.",
+          "Das Schutzgebiet zählt zu den wichtigsten Biodiversitäts-Hotspots Südostasiens."
+        ],
+        "hu": [
+          "A fennsík Közép-Laoszban, az Annamita-hegység lábánál helyezkedik el.",
+          "A terület jelentős részét elárasztották a Nam Theun 2 vízerőmű építésekor.",
+          "A régió különleges értékét a hatalmas kiterjedésű, természetes fenyőerdők adják.",
+          "Ebben a térségben fedezték fel az 1990-es években az extrém ritka szaolát.",
+          "A mesterséges tározó létrejöttével számtalan kis sziget alakult ki a fennsíkon.",
+          "A vizes élőhelyek páratlan lehetőséget biztosítanak a különleges madárfajoknak.",
+          "Délkelet-Ázsia egyik legjelentősebb és legdiverzebb természetvédelmi területe."
+        ],
+        "ro": [
+          "Podișul este situat în centrul Laosului, la baza Munților Annamitici.",
+          "O vastă porțiune a platoului a fost inundată pentru a forma lacul de acumulare Nam Theun 2.",
+          "Regiunea este cunoscută pentru pădurile sale extinse de pin indigen.",
+          "Aici a fost descoperită în anii '90 rara și evaziva specie de antilopă Saola.",
+          "Crearea rezervorului a dus la formarea a numeroase insule pe fostul platou.",
+          "Zonele umede rezultate au devenit un habitat crucial pentru multe păsări acvatice.",
+          "Această arie protejată este considerată un punct fierbinte al biodiversității în Asia de Sud-Est."
+        ]
+      }
+    },
+    {
+      "id": "phou-khoun-pass-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Der Pass ist ein strategisch wichtiger Verkehrsknotenpunkt zwischen Route 13 und 7.",
+          "Er liegt auf einer extrem kurvenreichen Strecke in großer Höhe.",
+          "Oft erschweren dichte Nebelbänke die Sicht auf dem Pass dramatisch.",
+          "Während des Indochinakrieges war dieser Ort heftig umkämpft.",
+          "Von hier aus bieten sich weite Ausblicke über schroffe Bergketten.",
+          "Die Route verbindet die ehemalige Hauptstadt Luang Prabang mit Vientiane.",
+          "An den steilen Straßenrändern werden oft frische Erdbeeren von lokalen Bauern verkauft."
+        ],
+        "hu": [
+          "A hágó stratégiai jelentőségű csomópont a 13-as és a 7-es főutak találkozásánál.",
+          "Egy rendkívül kanyargós és veszélyes hegyi útszakasz legmagasabb pontja.",
+          "A látási viszonyokat nagyon gyakran sűrű, átláthatatlan köd rontja ezen a magasságon.",
+          "Az indokínai háború során heves és véres harcok színhelye volt a terület.",
+          "Tiszta időben végtelen kilátás nyílik az éles, zöldellő hegygerincekre.",
+          "Ez a hegyvidéki útvonal köti össze a történelmi Luang Prabangot Vientiane-nal.",
+          "A meredek szerpentinek mentén a helyiek gyakran árulnak friss hegyi epret."
+        ],
+        "ro": [
+          "Pasul este o intersecție montană strategică între rutele naționale 13 și 7.",
+          "Traversează o porțiune extrem de sinuoasă și abruptă a drumului.",
+          "Ceața densă acoperă frecvent pasul, reducând drastic vizibilitatea.",
+          "Locul a fost scena unor lupte crâncene în timpul Războiului din Indochina.",
+          "De pe creste se deschid panorame vaste asupra șirurilor muntoase crestate.",
+          "Drumul asigură legătura vitală între fosta capitală Luang Prabang și Vientiane.",
+          "Fermierii locali își vând adesea căpșunile proaspete chiar pe marginea drumului montan."
+        ]
+      }
+    },
+    {
+      "id": "nam-ha-valley-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Tal liegt im Zentrum der Provinz Luang Namtha im Norden von Laos.",
+          "Es ist das wichtigste Zentrum für Ökotourismus und Dschungel-Trekking im Land.",
+          "Der Fluss Nam Ha schlängelt sich durch dichte und geschützte Regenwälder.",
+          "In den angrenzenden Wäldern wachsen riesige Bambuswälder und wilde Orchideen.",
+          "Das raue Terrain beherbergt Leoparden, Bären und verschiedene Affenarten.",
+          "An den Hängen rund um das Tal werden zunehmend Kautschukplantagen angelegt.",
+          "Das Relief ist geprägt von tief eingeschnittenen Tälern und scharfen Bergkämmen."
+        ],
+        "hu": [
+          "A völgy Laosz északi részén, Luang Namtha tartomány szívében található.",
+          "Ez az ország legjelentősebb központja a dzsungeltúrák és az ökoturizmus számára.",
+          "A Nam Ha folyó sűrű, védett esőerdőkön és mély szakadékokon kanyarog keresztül.",
+          "A környező erdőségek hatalmas bambuszligeteknek és vad orchideáknak adnak otthont.",
+          "A zord hegyi környezetben leopárdok, medvék és makákók is élnek.",
+          "A völgyet övező hegyoldalakon egyre több kaucsukfa-ültetvény jelenik meg.",
+          "A tájat a mély folyóvölgyek és a pengeéles hegygerincek kontrasztja határozza meg."
+        ],
+        "ro": [
+          "Valea se află în inima provinciei nordice Luang Namtha.",
+          "Este principala destinație pentru ecoturism și drumeții prin junglă din Laos.",
+          "Râul Nam Ha curge printre păduri tropicale dese și riguros protejate.",
+          "Vegetația abundentă include suprafețe vaste de bambus și orhidee sălbatice.",
+          "Terenul accidentat oferă adăpost pentru leoparzi, urși și mai multe specii de maimuțe.",
+          "Pe dealurile din jurul văii se extind rapid plantațiile de arbori de cauciuc.",
+          "Topografia este dominată de văi adânc tăiate de ape și creste ascuțite."
+        ]
+      }
+    },
+    {
+      "id": "phou-ane-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Die Hochebene ist historisch eng mit dem alten Königreich Muang Phuan verbunden.",
+          "Das Relief besteht aus einer Mischung von sanften Hügeln und steilen Klippen.",
+          "Die fruchtbaren Böden ermöglichten hier eine frühe landwirtschaftliche Nutzung.",
+          "In der Region gibt es zahlreiche archäologische Fundstätten.",
+          "Die Berge dienten in der Vergangenheit oft als natürliche Verteidigungslinie.",
+          "Aufgrund der Höhe ist die Luftfeuchtigkeit hier geringer als im Tiefland.",
+          "Das Gestein ist stark verwittert und weist viele Erosionstäler auf."
+        ],
+        "hu": [
+          "A hegyvidék szorosan összefonódik az egykori Muang Phuan királyság történetével.",
+          "A domborzat lágy dombok és hirtelen emelkedő, meredek sziklafalak keveréke.",
+          "A tápanyagban gazdag talaj már évszázadokkal ezelőtt is fejlett mezőgazdaságot tett lehetővé.",
+          "A változatos hegyi terep számtalan ősi régészeti lelőhelyet rejt.",
+          "A természetes hegyvonulatok sokszor szolgáltak áthatolhatatlan védvonal gyanánt.",
+          "A tengerszint feletti magasság miatt a páratartalom itt sokkal elviselhetőbb.",
+          "A kőzeteken erősen látszanak a folyamatos erózió és az időjárás nyomai."
+        ],
+        "ro": [
+          "Această zonă montană este strâns legată de istoria vechiului regat Muang Phuan.",
+          "Relieful reprezintă o îmbinare de dealuri domoale și faleze abrupte din stâncă.",
+          "Solurile relativ fertile au permis dezvoltarea timpurie a agriculturii în zonă.",
+          "Topografia a ascuns și protejat numeroase situri arheologice importante.",
+          "Lanțurile muntoase au funcționat frecvent ca bariere defensive naturale.",
+          "Datorită altitudinii, umiditatea aerului este mai scăzută comparativ cu câmpiile.",
+          "Stâncile poartă urme adânci de eroziune, formând văi spectaculoase de scurgere."
+        ]
+      }
+    }
+  ]
+}

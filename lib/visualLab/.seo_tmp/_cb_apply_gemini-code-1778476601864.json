@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "national-museum-guinea-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Nationalmuseum von Guinea (Musée National de Guinée), auch bekannt als Sandervalia-Museum, ist die wichtigste kulturelle Institution des Landes zur Bewahrung seines ethnografischen und historischen Erbes. Geografisch liegt es in Conakry im Stadtteil Sandervalia auf der Halbinsel Kaloum, untergebracht in einem Gebäude aus der Kolonialzeit inmitten eines weitläufigen Gartens mit alten Bäumen. Das Museum beherbergt eine beeindruckende Sammlung von Masken, Statuen, traditionellen Instrumenten und rituellen Objekten der verschiedenen ethnischen Gruppen Guineas wie der Baga, Peul und Malinké. Besonders berühmt ist die Sammlung von Nimba-Masken, die Fruchtbarkeitssymbole der Baga. Historisch gesehen wurde das Museum kurz vor der Unabhängigkeit gegründet und dient seither als Ort der Identitätsstiftung für die junge Nation. Trotz begrenzter Mittel leistet das Museum einen unschätzbaren Beitrag zur Dokumentation vorkolonialer Traditionen und des Widerstands gegen die Kolonialmächte. Für Besucher bietet es einen tiefen Einblick in die spirituelle und künstlerische Vielfalt Guineas. Der Garten des Museums beherbergt zudem historische Denkmäler aus der französischen Ära, die nach der Unabhängigkeit von ihren ursprünglichen Plätzen entfernt wurden. Es ist ein Ort der Stille und Bildung, der die Brücke zwischen der Vergangenheit und der Gegenwart schlägt.",
+        "hu": "A Guineai Nemzeti Múzeum (Musée National de Guinée), más néven Sandervalia Múzeum, az ország legfontosabb kulturális intézménye, amely Guinea néprajzi és történelmi örökségét hivatott megőrizni. Földrajzilag Conakry szívében, a Kaloum-félszigeten található Sandervalia negyedben fekszik, egy patinás gyarmati épületben, amelyet hatalmas, ősfás kert vesz körül. A múzeum gyűjteménye páratlan: maszkok, szobrok, tradicionális hangszerek és rituális tárgyak sokasága mutatja be az ország különböző népcsoportjainak, például a baga, a fula és a malinké törzseknek a kultúráját. A kiállítás legértékesebb darabjai közé tartoznak a baga nép híres Nimba-maszkjai, amelyek a termékenységet szimbolizálják. Történelmileg a múzeumot közvetlenül a függetlenség elnyerése előtt alapították, és azóta a nemzeti önazonosság egyik tartóoszlopa. Annak ellenére, hogy az intézmény korlátozott forrásokból gazdálkodik, felbecsülhetetlen munkát végez a gyarmatosítás előtti hagyományok dokumentálásában. A látogatók számára a tárlat kulcsot ad a guineai társadalom spirituális világának és művészeti sokszínűségének megértéséhez. A múzeum kertjében több olyan gyarmati kori emlékmű is helyet kapott, amelyeket a függetlenség után távolítottak el eredeti helyükről, így a helyszín a történelmi emlékezet különleges gyűjtőpontja is.",
+        "ro": "Muzeul Național al Guineei (Musée National de Guinée), cunoscut și sub numele de Muzeul Sandervalia, este principala instituție culturală dedicată conservării patrimoniului etnografic și istoric al țării. Situat în cartierul Sandervalia de pe peninsula Kaloum din Conakry, muzeul ocupă o clădire din epoca colonială, înconjurată de o grădină vastă cu arbori seculari. Instituția adăpostește o colecție impresionantă de măști, statuete, instrumente muzicale tradiționale și obiecte ritualice aparținând diverselor grupuri etnice din Guineea, precum Baga, Fula și Malinké. Punctul de atracție major îl reprezintă măștile Nimba, simboluri ale fertilității specifice poporului Baga, recunoscute la nivel internațional pentru valoarea lor artistică. Din punct de vedere istoric, muzeul a fost înființat chiar înainte de independență, devenind ulterior un pilon al identității naționale guineene. Deși dispune de resurse limitate, muzeul joacă un rol crucial în documentarea tradițiilor precoloniale și a rezistenței împotriva ocupației străine. Grădina muzeului servește și ca depozit pentru diverse monumente din perioada franceză, oferind o perspectivă interesantă asupra modului în care națiunea și-a redefinit spațiul public. Vizitatorii pot descoperi aici profunzimea spirituală și diversitatea creativă care definesc poporul guineean.",
+        "en": "The National Museum of Guinea (Musée National de Guinée), also known as the Sandervalia Museum, is the country's premier cultural institution for preserving its ethnographic and historical heritage. Geographically, it is located in the Sandervalia district of the Kaloum Peninsula in Conakry, housed in a colonial-era building surrounded by a spacious garden with ancient trees. The museum boasts an extensive collection of masks, statues, traditional musical instruments, and ritual artifacts from Guinea's diverse ethnic groups, including the Baga, Fula, and Malinké. Most notably, it houses a collection of the famous Nimba masks, iconic fertility symbols of the Baga people. Historically, the museum was established shortly before independence and has since served as a cornerstone for national identity. Despite operating with limited resources, it provides invaluable documentation of pre-colonial traditions and the history of resistance. For visitors, the museum offers a profound window into the spiritual and artistic diversity of Guinea. The museum's courtyard also features several colonial-era statues that were relocated from public spaces after independence, making it a unique site of historical layering. It remains an essential center for education and the preservation of the Guinean spirit."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Museum beherbergt die berühmte 'Nimba'-Maske, ein Nationalsymbol Guineas.",
+          "Es befindet sich auf dem Gelände der ehemaligen Kolonialfestung Sandervalia.",
+          "Die Sammlung umfasst über 10.000 registrierte ethnografische Objekte.",
+          "Im Garten stehen Statuen französischer Kolonialbeamter wie Gouverneur Noel Ballay.",
+          "Das Museum wurde 1960 offiziell als Nationalmuseum eingeweiht.",
+          "Es ist ein wichtiges Zentrum für die Erforschung der westafrikanischen Holzschnitzkunst."
+        ],
+        "hu": [
+          "A múzeum őrzi a híres 'Nimba' maszkot, amely Guinea egyik jelképévé vált.",
+          "A helyszín egykor a Sandervalia nevű koloniális erődítmény része volt.",
+          "A gyűjtemény több mint 10 000 néprajzi tárgyat foglal magában.",
+          "Kertjében látható Noel Ballay kormányzó egykori köztéri szobra is.",
+          "Az intézményt 1960-ban, nem sokkal a függetlenség után avatták fel.",
+          "A múzeum a nyugat-afrikai fafaragó művészet egyik legfontosabb bemutatóhelye."
+        ],
+        "ro": [
+          "Muzeul deține piese rare de artă ritualică din regiunea Guinée Forestière.",
+          "Este situat în cel mai vechi cartier rezidențial de pe peninsula Kaloum.",
+          "Grădina muzeului funcționează ca un lapidarium pentru epoca colonială.",
+          "Măștile Nimba expuse aici au inspirat artiști celebri precum Pablo Picasso.",
+          "Instituția colaborează cu UNESCO pentru conservarea artefactelor perisabile.",
+          "Programul de vizitare include adesea demonstrații de muzică tradițională la kora."
+        ],
+        "en": [
+          "The museum houses the iconic 'Nimba' mask, a primary national symbol.",
+          "It is built on the site of the former colonial Fort Sandervalia.",
+          "The ethnographic collection consists of over 10,000 documented pieces.",
+          "Its courtyard preserves statues of French figures like Governor Noel Ballay.",
+          "The museum was officially designated as a national site in 1960.",
+          "It serves as a key repository for the study of Manding and Baga traditions."
+        ]
+      }
+    },
+    {
+      "id": "boulbinet-lighthouse-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Leuchtturm von Boulbinet (Phare de Boulbinet) ist ein historisches maritimes Wahrzeichen an der Südspitze der Halbinsel Kaloum in Conakry. Errichtet während der französischen Kolonialzeit am Ende des 19. Jahrhunderts, diente er jahrzehntelang als unverzichtbarer Wegweiser für Schiffe, die den wichtigen Hafen der aufstrebenden Hauptstadt anliefen. Geografisch markiert er den Übergang zwischen dem offenen Atlantik und den geschützten Gewässern des Hafens von Conakry. Die Architektur ist klassisch und funktional, geprägt durch einen runden Turm, der trotz der korrosiven Meeresluft seine markante Präsenz bewahrt hat. Historisch ist der Leuchtturm eng mit der Entwicklung Conakrys von einer kleinen Siedlung zu einer bedeutenden westafrikanischen Hafenstadt verknüpft. Das Viertel Boulbinet, in dem er steht, ist heute vor allem für seinen lebhaften Fischereihafen bekannt, was dem Leuchtturm eine malerische Kulisse aus Hunderten von bunten Pirogen verleiht. Obwohl moderne Radarsysteme seine ursprüngliche Funktion übernommen haben, bleibt er ein wichtiges Symbol für die maritime Geschichte Guineas. Für die lokale Bevölkerung und Besucher ist der Ort ein beliebter Aussichtspunkt, um den Sonnenuntergang über dem Ozean und den Blick auf die nahegelegenen Îles de Los zu genießen.",
+        "hu": "A Boulbinet világítótorony (Phare de Boulbinet) Conakry egyik legfontosabb tengeri jelképe, amely a Kaloum-félsziget déli csücskén található. A 19. század végén, a francia gyarmati uralom idején épült, és évtizedeken át elengedhetetlen navigációs pontként szolgált a főváros kikötőjébe érkező hajók számára. Földrajzilag az építmény az Atlanti-óceán és a Conakry-öböl védett vizei közötti határvonalat jelöli ki. Az építészetét a klasszikus és funkcionális stílus jellemzi; kerek tornya a sós tengeri levegő okozta korrózió ellenére is büszkén dacol az elemekkel. Történelmileg a világítótorony szorosan összefonódott Conakry felemelkedésével, hiszen jelképezi a város átalakulását kis halászfaluból jelentős nyugat-afrikai kikötővárossá. A toronynak otthont adó Boulbinet negyed ma elsősorban nyüzsgő kézműves halászkikötőjéről ismert, így a világítótorony lábánál színes pirogok százai teremtenek festői látványt. Bár a modern radarrendszerek mára átvették a szerepét, az épület Guinea tengerészeti múltjának fontos mementója maradt. A helyiek és a turisták körében kedvelt kilátópont, ahonnan páratlan panoráma nyílik az óceánra és a közeli Los-szigetekre (Îles de Los) a naplemente idején.",
+        "ro": "Farul din Boulbinet (Phare de Boulbinet) este un reper maritim istoric situat la extremitatea sudică a peninsulei Kaloum din Conakry. Construit în perioada colonială franceză, la sfârșitul secolului al XIX-lea, acesta a servit timp de decenii ca punct de navigație esențial pentru navele care intrau în portul în plină expansiune al capitalei. Geografic, farul marchează tranziția dintre apele deschise ale Oceanului Atlantic și zona protejată a portului Conakry. Arhitectura sa este una clasică și funcțională, cu un turn cilindric care a rezistat eroziunii marine constante. Din punct de vedere istoric, farul este martorul transformării orașului Conakry dintr-o mică așezare într-un centru portuar major al Africii de Vest. Cartierul Boulbinet, care găzduiește farul, este astăzi renumit pentru portul său de pescuit artizanal, oferind un decor pitoresc format din sute de pirogi colorate. Deși sistemele moderne de navigație au preluat rolul său tehnic, farul rămâne un simbol de neprețuit al istoriei maritime guineene. Locul este o destinație preferată pentru plimbări la apus, oferind o vedere panoramică superbă asupra Insulelor Los (Îles de Los) și a activității efervescente de pe țărm.",
+        "en": "The Boulbinet Lighthouse (Phare de Boulbinet) is a historic maritime landmark situated at the southern tip of the Kaloum Peninsula in Conakry. Built during the French colonial period at the end of the 19th century, it served for decades as a vital beacon for ships approaching the capital's growing port. Geographically, it marks the strategic junction between the open Atlantic Ocean and the sheltered harbor waters of Conakry. The architecture is classically functional, featuring a circular tower that has maintained its prominent presence despite the corrosive sea air. Historically, the lighthouse is deeply connected to Conakry's evolution from a small settlement into a major West African port city. The Boulbinet district where it stands is now famous for its bustling artisanal fishing port, providing the lighthouse with a picturesque backdrop of hundreds of brightly colored pirogues. Although modern radar systems have superseded its original function, it remains an important symbol of Guinea's maritime heritage. For locals and visitors alike, it is a popular vantage point for watching the sunset over the ocean and viewing the nearby Îles de Los."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Leuchtturm wurde um 1885 von den Franzosen erbaut.",
+          "Er markiert den südlichsten Punkt der Kaloum-Halbinsel.",
+          "Das Viertel Boulbinet ist das historische Zentrum der Kleinfischerei.",
+          "Vom Fuße des Turms legen Boote zu den Îles de Los ab.",
+          "Der Leuchtturm ist eines der ältesten erhaltenen technischen Bauwerke der Stadt.",
+          "Er ist weiß gestrichen, um auch tagsüber als Landmarke zu dienen."
+        ],
+        "hu": [
+          "A világítótornyot 1885 körül építették a francia gyarmatosítók.",
+          "Ez az épület jelöli a Kaloum-félsziget legdélebbi pontját.",
+          "A Boulbinet negyed Conakry hagyományos halászati központja.",
+          "A torony közeléből indulnak a kishajók a közeli Los-szigetekre.",
+          "A világítótorony Guinea egyik legrégebbi ipari műemléke.",
+          "Hagyományos fehér festése segítette a nappali tájékozódást is."
+        ],
+        "ro": [
+          "Farul din Boulbinet este unul dintre primele semnale luminoase de pe coastă.",
+          "Construcția sa a facilitat exportul de cauciuc și ulei de palmier în secolul XIX.",
+          "Zona înconjurătoare este celebră pentru piața de pește proaspăt.",
+          "Turnul oferă o perspectivă strategică asupra portului militar adiacent.",
+          "Este un simbol al rezistenței structurilor coloniale în fața climei umede.",
+          "Farul apare frecvent în reprezentările artistice ale vechiului Conakry."
+        ],
+        "en": [
+          "The lighthouse was constructed by the French around 1885.",
+          "It marks the southernmost geographic point of the Kaloum Peninsula.",
+          "The surrounding Boulbinet area is the city's main artisanal fishing hub.",
+          "Ferries and small boats to the Îles de Los depart from nearby quays.",
+          "It is one of the oldest surviving technical structures in Conakry.",
+          "The lighthouse is a key orientation point for local fishermen and sailors."
+        ]
+      }
+    },
+    {
+      "id": "port-of-conakry-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Conakry (Port Autonome de Conakry) ist das wirtschaftliche Herz Guineas und einer der leistungsfähigsten Seehäfen Westafrikas. Geografisch liegt er an der Nordseite der Halbinsel Kaloum und nutzt die natürliche Tiefe des Küstengewässers, geschützt durch die vorgelagerten Inseln. Der Hafen wurde Ende des 19. Jahrhunderts von den Franzosen gegründet und hat sich seither kontinuierlich zu einem modernen Container- und Schüttgutterminal entwickelt. Wirtschaftlich ist er von existenzieller Bedeutung, da über ihn fast der gesamte Import von Konsumgütern, Treibstoffen und Lebensmitteln sowie der Export von Rohstoffen wie Bauxit und Tonerde abgewickelt wird. Die Infrastruktur umfasst spezialisierte Terminals, die von internationalen Unternehmen wie Bolloré und der Albayrak-Gruppe betrieben werden. Historisch markiert der Hafen den Aufstieg Guineas als Handelsnation. Das Hafengelände ist geprägt durch eine ständige Betriebsamkeit, riesige Kräne und Lagerhallen, die das industrielle Gesicht der Hauptstadt prägen. Neben seiner ökonomischen Funktion ist der Hafen auch ein strategischer Militärstandort für die guineische Marine. Trotz der Herausforderungen durch die städtische Enge von Kaloum bleibt der Hafen von Conakry der wichtigste Motor für das nationale Wachstum und die regionale Anbindung an den Welthandel.",
+        "hu": "Conakry kikötője (Port Autonome de Conakry) Guinea gazdasági szíve és Nyugat-Afrika egyik leghatékonyabb tengeri kapuja. Földrajzilag a Kaloum-félsziget északi részén található, kihasználva a part menti vizek természetes mélységét, amelyet a közeli szigetek védenek a nyílt óceán hullámaitól. A kikötőt a 19. század végén alapították a franciák, és azóta folyamatosan fejlődve vált modern konténer- és ömlesztettáru-terminállá. Gazdasági jelentősége óriási: ezen keresztül bonyolódik az ország szinte teljes fogyasztási cikk-, üzemanyag- és élelmiszerimportja, valamint a bauxit és a timföld exportjának jelentős része. Az infrastruktúrát olyan nemzetközi cégek üzemeltetik, mint a Bolloré és az Albayrak csoport. Történelmileg a kikötő Guinea kereskedelmi nemzetté válásának legfőbb színhelye. A területet állandó nyüzsgés, óriási daruk és raktárak jellemzik, amelyek meghatározzák a főváros ipari arculatát. Gazdasági funkciója mellett a kikötő a guineai haditengerészet stratégiai bázisa is. Annak ellenére, hogy a Kaloum-félsziget beépítettsége korlátozza a terjeszkedést, a conakry-i kikötő marad az ország növekedésének és a világkereskedelembe való bekapcsolódásának legfontosabb motorja.",
+        "ro": "Portul din Conakry (Port Autonome de Conakry) reprezintă inima economică a Guineei și unul dintre cele mai performante terminale maritime din Africa de Vest. Geografic, acesta este situat pe partea de nord a peninsulei Kaloum, profitând de adâncimea naturală a apelor de coastă, protejate de insulele din larg. Portul a fost fondat la sfârșitul secolului al XIX-lea de către francezi și a evoluat constant spre un terminal modern pentru containere și mărfuri vrac. Din punct de vedere economic, importanța sa este existențială, prin el trecând aproape totalitatea importurilor de bunuri de consum, combustibili și alimente, precum și o parte semnificativă din exporturile de bauxită și alumină. Infrastructura include terminale specializate operate de companii internaționale precum Bolloré și grupul Albayrak. Din punct de vedere istoric, portul marchează ascensiunea Guineei ca națiune comercială. Peisajul portuar este dominat de o activitate neîncetată, cu macarale uriașe și depozite care definesc profilul industrial al capitalei. Pe lângă rolul comercial, portul este și o bază strategică pentru marina militară guineeană. În ciuda provocărilor legate de spațiul limitat de pe peninsula Kaloum, portul Conakry rămâne principalul motor al creșterii naționale și al conectivității regionale la comerțul global.",
+        "en": "The Port of Conakry (Port Autonome de Conakry) is the economic heart of Guinea and one of West Africa's most efficient maritime gateways. Geographically situated on the northern side of the Kaloum Peninsula, it utilizes the natural depth of the coastal waters, shielded by the offshore islands. Established by the French in the late 19th century, the port has continuously evolved into a modern container and bulk cargo terminal. Economically, it is of existential importance to the country, handling nearly all imports of consumer goods, fuel, and food, as well as significant exports of bauxite and alumina. Its infrastructure features specialized terminals operated by major international firms like Bolloré and the Albayrak Group. Historically, the port marks Guinea's rise as a trading nation. The area is characterized by 24/7 activity, with massive cranes and warehouses defining the capital's industrial skyline. Beyond its commercial function, it serves as a strategic base for the Guinean Navy. Despite the challenges of the dense urban environment on the Kaloum Peninsula, the Port of Conakry remains the primary engine of national growth and regional connectivity to global trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen von Conakry wurde 1890 offiziell gegründet.",
+          "Er ist der primäre Umschlagplatz für den Import von Reis und Treibstoff.",
+          "Die Albayrak-Gruppe hat den Hafen in den letzten Jahren massiv modernisiert.",
+          "Der Hafen verfügt über einen direkten Anschluss an das nationale Schienennetz.",
+          "Es ist ein wichtiger Transithafen für das binnenländische Nachbarland Mali.",
+          "Der Tiefwasserhafen ermöglicht die Abfertigung großer Frachtschiffe."
+        ],
+        "hu": [
+          "Conakry kikötőjét hivatalosan 1890-ben hozták létre.",
+          "Ez Guinea legfontosabb rizs- és üzemanyag-behozatali pontja.",
+          "A török Albayrak csoport jelentős modernizációt hajtott végre a terminálokon.",
+          "A kikötő közvetlen vasúti összeköttetéssel rendelkezik a bauxitbányák felé.",
+          "Fontos tranzitkapu a tengerparttal nem rendelkező szomszéd, Mali számára.",
+          "A mélyvízi merülés lehetővé teszi a legnagyobb teherhajók fogadását is."
+        ],
+        "ro": [
+          "Portul a fost modernizat recent printr-o concesiune pe termen lung cu grupul Albayrak.",
+          "Găzduiește un terminal modern de containere cu o capacitate de operare ridicată.",
+          "Este principala cale de aprovizionare pentru regiunile interioare ale Guineei.",
+          "Portul Conakry concurează direct cu terminalele din Dakar și Abidjan.",
+          "Dispune de zone speciale pentru depozitarea minereului destinat exportului.",
+          "Reprezintă peste 90% din veniturile vamale ale statului guineean."
+        ],
+        "en": [
+          "The Port of Conakry was officially established in 1890.",
+          "It handles the vast majority of Guinea's rice and petroleum imports.",
+          "The Turkish Albayrak Group has led major recent expansion projects.",
+          "It features a direct rail link for the transport of mining products.",
+          "The port is a vital transit hub for landlocked neighbor Mali.",
+          "It serves as a major regional base for West African maritime logistics."
+        ]
+      }
+    },
+    {
+      "id": "labe-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Moschee von Labé (Grande Mosquée de Labé) ist das religiöse und architektonische Wahrzeichen der Hauptstadt des Fouta-Djallon-Hochlandes. Geografisch liegt sie im Zentrum von Labé, einer Stadt, die als spirituelles Herz der Peul-Bevölkerung gilt. Die Moschee ist nicht nur ein Ort des Gebets, sondern auch ein Symbol für die Macht und Beständigkeit der islamischen Traditionen in der Region. Die ursprüngliche Struktur geht auf die Zeit des Imamats zurück, wurde jedoch im Laufe der Jahrzehnte mehrfach erweitert und modernisiert. Die Architektur der heutigen Moschee kombiniert traditionelle Elemente mit modernen Akzenten, geprägt durch ihre imposante Größe und die charakteristischen Minarette, die weit über die Dächer der Stadt ragen. Historisch gesehen war Labé ein bedeutendes Zentrum des religiösen Widerstands und der Gelehrsamkeit, und die Moschee diente oft als Versammlungsort für die führenden spirituellen Führer des Hochlandes. Jeden Freitag versammeln sich hier Tausende von Gläubigen zum Gebet, was den Platz um die Moschee in ein lebendiges Zentrum des Gemeinschaftslebens verwandelt. Die Moschee beherbergt zudem bedeutende religiöse Schulen, die Studenten aus ganz Guinea und den Nachbarländern anziehen. Sie bleibt ein unverzichtbarer Ort der Identität und des Friedens in Mittelguinea.",
+        "hu": "A Labé-i Nagymecset (Grande Mosquée de Labé) a Fouta Djallon-hegység központjának legjelentősebb vallási és építészeti jelképe. Földrajzilag Labé városának szívében található, amely település a fula (peul) lakosság szellemi és kulturális fővárosa. A mecset nem csupán egy imaház, hanem az iszlám hagyományok erejének és folytonosságának szimbóluma a régióban. Az eredeti épület még a fula imamátus idejére nyúlik vissza, de az évtizedek során többször kibővítették és modernizálták. A mai épület építészete ötvözi a hagyományos elemeket a modern megoldásokkal; monumentális méretei és jellegzetes minaretjei messze kimagaslanak a város épületei közül. Történelmileg Labé a vallási ellenállás és a tudományosság bástyája volt, a mecset pedig gyakran szolgált a felföldi spirituális vezetők tanácskozási helyszínéül. Minden pénteken hívők ezrei gyűlnek itt össze közös imára, ami a mecset környékét a közösségi élet lüktető központjává teszi. Az épületkomplexumhoz fontos vallási iskolák is tartoznak, amelyek Guinea minden részéből és a szomszédos országokból is vonzzák a tanulókat. A mecset Közép-Guinea identitásának és békéjének kikerülhetetlen tartóoszlopa.",
+        "ro": "Marea Moschee din Labé (Grande Mosquée de Labé) este principalul reper religios și arhitectural al capitalei masivului Fouta Djallon. Geografic, aceasta este situată în centrul orașului Labé, considerat inima spirituală a populației Fula (Peul). Moscheea nu este doar un lăcaș de cult, ci și un simbol al autorității și persistenței tradițiilor islamice în regiune. Structura originală datează din perioada Imamitului de Fouta Djallon, însă edificiul a fost extins și modernizat de mai multe ori de-a lungul deceniilor. Arhitectura actuală îmbină elemente tradiționale cu accente moderne, fiind remarcabilă prin dimensiunile sale impunătoare și minaretele care domină panorama orașului. Din punct de vedere istoric, Labé a fost un centru major de erudiție și rezistență religioasă, iar moscheea a servit adesea ca loc de întâlnire pentru liderii spirituali ai munților. În fiecare vineri, mii de credincioși se adună aici pentru rugăciune, transformând zona într-un centru vibrant al vieții comunitare. Moscheea adăpostește, de asemenea, școli coranice de renume care atrag studenți din întreaga Guinee și din țările vecine. Rămâne un loc esențial al identității culturale și al păcii sociale în Guineea Centrală.",
+        "en": "The Grand Mosque of Labé (Grande Mosquée de Labé) is the premier religious and architectural landmark of the capital of the Fouta Djallon highlands. Geographically, it is located in the center of Labé, a city regarded as the spiritual heart of the Fula people. The mosque is more than just a place of worship; it is a powerful symbol of the endurance of Islamic traditions in the region. The original structure dates back to the era of the Fouta Djallon Imamate, though it has been expanded and modernized several times over the decades. Today's architecture blends traditional elements with modern touches, featuring impressive scale and distinctive minarets that tower over the city's skyline. Historically, Labé was a major center for religious scholarship and resistance, and the mosque often hosted the highland's leading spiritual figures. Every Friday, thousands of worshipers gather here, turning the surrounding area into a bustling hub of community life. The mosque complex also includes prominent religious schools that attract students from across Guinea and neighboring countries. It remains an indispensable pillar of identity and social cohesion in Middle Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Moschee ist das geistige Zentrum der Peul-Bevölkerung in Guinea.",
+          "Labé gilt als die 'Heilige Stadt' des Fouta-Djallon-Massivs.",
+          "Die Architektur zeigt Einflüsse des sudanesischen und nordafrikanischen Stils.",
+          "Die Moschee wurde mit Unterstützung der lokalen Diaspora modernisiert.",
+          "Sie beherbergt eine der angesehensten Bibliotheken für islamische Schriften.",
+          "Die Minarette der Moschee sind die höchsten Bauwerke in der Region Labé."
+        ],
+        "hu": [
+          "A mecset a guineai fula lakosság legfontosabb szellemi központja.",
+          "Labé városát gyakran a Fouta Djallon 'szent városaként' emlegetik.",
+          "Az épület stílusán a szudáni és az észak-afrikai építészet jegyei is látszanak.",
+          "A mecset modernizálását jelentős részben a külföldön élő helyiek adományaiból fedezték.",
+          "Itt található a régió egyik legértékesebb iszlám kéziratgyűjteménye.",
+          "A mecset minaretjei a Labé-i fennsík legmagasabb pontjai közé tartoznak."
+        ],
+        "ro": [
+          "Moscheea este punctul focal al pelerinajelor din Guineea Centrală.",
+          "Arhitectura sa a fost renovată recent pentru a acomoda un număr mai mare de credincioși.",
+          "Labé este istoric renumit pentru calitatea învățământului coranic oferit aici.",
+          "Interiorul este decorat cu motive geometrice specifice artei islamice vest-africane.",
+          "Moscheea joacă un rol cheie în medierea conflictelor locale din regiune.",
+          "Este considerată una dintre cele mai frumoase moschei din interiorul țării."
+        ],
+        "en": [
+          "The mosque is the spiritual hub for the Fula population in Guinea.",
+          "Labé is widely known as the 'Holy City' of the Fouta Djallon range.",
+          "The design features elements from both Sudanese and Maghrebian styles.",
+          "The mosque was recently modernized through significant community fundraising.",
+          "It houses one of the most prestigious Islamic manuscript collections in Guinea.",
+          "The minarets are iconic landmarks visible from all parts of the city."
+        ]
+      }
+    },
+    {
+      "id": "university-gamal-nasser-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Universität Gamal Abdel Nasser von Conakry (Université Gamal Abdel Nasser de Conakry, UGANC) ist die älteste und größte Hochschule Guineas. Sie wurde im Jahr 1962 gegründet und nach dem ägyptischen Präsidenten Gamal Abdel Nasser benannt, um den Geist des Panafrikanismus und der Solidarität zwischen den afrikanischen Nationen zu ehren. Geografisch liegt der Campus im Stadtteil Dixinn, in unmittelbarer Nähe zum Stade du 28 Septembre und zentral in der Hauptstadt. Die Architektur der Universität ist funktional und spiegelt den Baustil der frühen 1960er Jahre wider, mit weitläufigen Lehrgebäuden und Studentenwohnheimen. Historisch gesehen war die UGANC das Zentrum der intellektuellen Entwicklung des unabhängigen Guinea und hat Generationen von Führungskräften, Ingenieuren und Lehrern des Landes ausgebildet. Die Universität spielt eine entscheidende Rolle in der wissenschaftlichen Forschung und der akademischen Qualifizierung in Bereichen wie Medizin, Ingenieurwesen und Naturwissenschaften. Trotz infrastruktureller Herausforderungen bleibt sie die prestigeträchtigste akademische Institution des Landes. Der Campus ist ein lebendiger Ort des Austauschs und der politischen Debatte, der oft die gesellschaftlichen Strömungen Guineas widerspiegelt. Für das Land symbolisiert die Universität den Fortschritt und den Willen zur Bildung als Grundlage für nationale Souveränität.",
+        "hu": "A conakry-i Gamal Abdel Nasser Egyetem (Université Gamal Abdel Nasser de Conakry, UGANC) Guinea legrégebbi és legnagyobb felsőoktatási intézménye. 1962-ben alapították, és Gamal Abdel Nasser egyiptomi elnökről nevezték el, tisztelegve a pánafrikanizmus szelleme és az afrikai nemzetek közötti szolidaritás előtt. Földrajzilag az egyetemi kampusz a főváros Dixinn negyedében található, a Szeptember 28. Stadion közvetlen közelében. Az egyetem építészete funkcionális, a korai 1960-as évek stílusát tükrözi, tágas oktatási épületekkel és kollégiumokkal. Történelmileg az UGANC a független Guinea szellemi fejlődésének központja volt, ahol az ország vezetőinek, mérnökeinek és pedagógusainak generációi szereztek diplomát. Az egyetem kulcsszerepet játszik a tudományos kutatásban és az akadémiai képzésben olyan területeken, mint az orvostudomány, a mérnöki tudományok és a természettudományok. Az infrastrukturális nehézségek ellenére továbbra is ez az ország legrangosabb tudományos intézménye. A kampusz a párbeszéd és a politikai viták nyüzsgő helyszíne, amely gyakran tükrözi a guineai társadalmi változásokat. Az egyetem Guinea számára a haladást és a nemzeti szuverenitás alapját jelentő oktatás iránti elkötelezettséget szimbolizálja.",
+        "ro": "Universitatea Gamal Abdel Nasser din Conakry (Université Gamal Abdel Nasser de Conakry, UGANC) este cea mai veche și mai mare instituție de învățământ superior din Guineea. Fondată în 1962, universitatea a fost numită după președintele egiptean Gamal Abdel Nasser, ca omagiu adus spiritului panafricanist și solidarității între națiunile africane. Geografic, campusul este situat în cartierul Dixinn, în inima capitalei, fiind învecinat cu celebrul stadion 28 Septembrie. Arhitectura universității este funcțională, reflectând stilul anilor '60, cu pavilioane vaste destinate cursurilor și căminelor studențești. Din punct de vedere istoric, UGANC a fost nucleul dezvoltării intelectuale a Guineei independente, formând generații de lideri, ingineri și profesori. Universitatea joacă un rol determinant în cercetarea științifică și în formarea academică de înalt nivel, în special în domenii precum medicina și ingineria. În ciuda provocărilor logistice și de infrastructură, rămâne cea mai prestigioasă instituție academică din țară. Campusul este un loc vibrant de schimburi culturale și dezbateri politice, reflectând adesea aspirațiile tineretului guineean. Pentru națiune, universitatea simbolizează progresul și importanța educației ca fundament al suveranității.",
+        "en": "The Gamal Abdel Nasser University of Conakry (Université Gamal Abdel Nasser de Conakry, UGANC) is Guinea's oldest and largest institution of higher education. Founded in 1962, it was named after Egyptian President Gamal Abdel Nasser to honor the spirit of Pan-Africanism and the solidarity between African nations. Geographically, the campus is located in the Dixinn district of the capital, near the Stade du 28 Septembre. The university's architecture is functional, reflecting the design trends of the early 1960s with its sprawling lecture halls and student dormitories. Historically, UGANC was the center of intellectual development for independent Guinea, training generations of the nation's leaders, engineers, and educators. The university plays a vital role in scientific research and professional training in fields such as medicine, engineering, and the sciences. Despite infrastructure challenges, it remains the country's most prestigious academic institution. The campus is a vibrant hub for intellectual exchange and political debate, often reflecting the broader social trends of Guinea. For the nation, the university symbolizes progress and the commitment to education as the foundation for national sovereignty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Universität wurde 1962 als erstes polytechnisches Institut des Landes gegründet.",
+          "Sie beherbergt die wichtigste medizinische Fakultät Guineas.",
+          "Der Name ehrt den ägyptischen Präsidenten Nasser für seine Unterstützung Guineas.",
+          "Die UGANC ist ein Zentrum für panafrikanische Studentenbewegungen.",
+          "Der Campus liegt direkt gegenüber dem historischen Nationalstadion.",
+          "Die Universität pflegt enge Partnerschaften mit Hochschulen weltweit."
+        ],
+        "hu": [
+          "Az egyetemet 1962-ben alapították, eredetileg politechnikai intézetként.",
+          "Itt működik Guinea legfontosabb orvostudományi kara.",
+          "Nasser elnök az 1950-es években Guinea egyik legfőbb külföldi támogatója volt.",
+          "Az intézmény a guineai értelmiség és a politikai elit bölcsője.",
+          "A kampusz területe Conakry egyik legnagyobb zöldövezeti része.",
+          "Az egyetem könyvtára az ország egyik legnagyobb tudományos gyűjteménye."
+        ],
+        "ro": [
+          "Este prima universitate creată în Guineea după obținerea independenței.",
+          "Facultatea de Medicină de aici este recunoscută în întreaga regiune ECOWAS.",
+          "Numele universității subliniază orientarea socialistă timpurie a statului.",
+          "Campusul universitar este un faimos loc de dezbatere pentru tinerii activiști.",
+          "Instituția oferă programe de licență și masterat în peste 20 de specializări.",
+          "Aici s-au format majoritatea miniștrilor și diplomaților din istoria țării."
+        ],
+        "en": [
+          "The university was established in 1962 as the country's first polytechnic.",
+          "It houses Guinea's primary and most influential faculty of medicine.",
+          "Naming the site after Nasser reflected early Guinea's Pan-African foreign policy.",
+          "UGANC has historically been a focal point for student-led social movements.",
+          "The campus is a major landmark in the central Dixinn neighborhood.",
+          "It remains the leading research institution for Guinean science and technology."
+        ]
+      }
+    }
+  ]
+}

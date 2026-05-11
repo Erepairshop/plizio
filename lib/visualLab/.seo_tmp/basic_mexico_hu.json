@@ -1,0 +1,46 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aguascalientes-cities-v2",
+      "description": "Mexikó középső részén fekvő város, amely gazdag gyarmati építészetéről és évente megrendezett San Marcos vásáráról ismert.",
+      "facts": ["Gyarmati óváros", "San Marcos vásár", "Magas életminőség", "Ipari központ"]
+    },
+    {
+      "id": "mazatlan-cities-v2",
+      "description": "Népszerű tengerparti üdülőhely a Csendes-óceán partján, amelyet hosszú homokos strandjai és történelmi városközpontja tesz vonzóvá.",
+      "facts": ["Csendes-óceáni kikötő", "Hosszú strandok", "Aranypart", "Történelmi központ"]
+    },
+    {
+      "id": "irapuato-cities-v2",
+      "description": "Guanajuato államban található város, amely főként az epertermesztéséről és intenzív mezőgazdaságáról híres az egész országban.",
+      "facts": ["Eper főváros", "Mezőgazdasági központ", "Ipari növekedés", "Bajío régió"]
+    },
+    {
+      "id": "tula-de-allende-cities-v2",
+      "description": "Az ókori tolték civilizáció központja, amely monumentális kő harcos szobrairól, az úgynevezett Atlantech alakokról vált világhírűvé.",
+      "facts": ["Tolték régészeti hely", "Atlantech szobrok", "Ókori főváros", "Hidalgo állam"]
+    },
+    {
+      "id": "gomez-palacio-cities-v2",
+      "description": "Durango állam egyik jelentős ipari városa, amely a La Laguna régió központi szereplője és fontos gazdasági csomópont.",
+      "facts": ["Ipari központ", "La Laguna régió", "Vasúti csomópont", "Durango állam"]
+    },
+    {
+      "id": "coatzacoalcos-cities-v2",
+      "description": "Jelentős kikötőváros a Mexikói-öböl partján, amely az olaj- és petrolkémiai ipar szempontjából meghatározó szerepet tölt be az országban.",
+      "facts": ["Olajipari központ", "Kikötőváros", "Veracruz állam", "Öböl-part"]
+    },
+    {
+      "id": "apizaco-cities-v2",
+      "description": "Tlaxcala állam fontos közlekedési és kereskedelmi városa, amely a vasútfejlesztés révén vált jelentős településsé a régióban.",
+      "facts": ["Vasúti csomópont", "Kereskedelmi központ", "Tlaxcala állam", "Modern fejlődés"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bissau-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Zoologische Garten von Bissau ist eine der wenigen Einrichtungen ihrer Art in Guinea-Bissau und dient als wichtiges Zentrum für Umweltbildung und Naherholung in der Hauptstadt. Gelegen in einem vergleichsweise ruhigen Teil von Bissau, beherbergt der Zoo eine Auswahl an einheimischen Tierarten, die die reiche Biodiversität Westafrikas repräsentieren. Besucher können hier verschiedene Primatenarten, Reptilien wie Krokodile und Schlangen sowie eine Vielzahl von tropischen Vögeln beobachten. Die Anlage wurde ursprünglich konzipiert, um der städtischen Bevölkerung den Kontakt zur heimischen Fauna zu ermöglichen, die in der freien Wildbahn oft schwer zugänglich ist. Trotz der Herausforderungen bei der Finanzierung und Instandhaltung bemüht sich die Leitung des Zoos, den Tieren artgerechte Lebensbedingungen zu bieten und gleichzeitig als Bildungsstandort für Schulklassen zu fungieren. Die Architektur des Zoos ist funktional und integriert sich in das vorhandene städtische Grün. Für viele Bewohner der Hauptstadt ist der Zoo ein beliebter Ort für Familienausflüge am Wochenende, der einen Kontrast zum hektischen Treiben des Stadtzentrums bietet. Die Einrichtung spielt eine entscheidende Rolle bei der Sensibilisierung für den Naturschutz im Land, indem sie den Wert der Tierwelt Guinea-Bissaus für künftige Generationen greifbar macht.",
+        "hu": "A bissaui állatkert (Jardim Zoológico de Bissau) az ország kevés ilyen jellegű intézményének egyike, amely fontos szerepet tölt be a környezeti nevelésben és a fővárosi kikapcsolódásban. Az állatkert viszonylag csendes környezetben fekszik, és elsősorban a nyugat-afrikai régió őshonos fajait mutatja be a látogatóknak. Találkozhatunk itt különféle főemlősökkel, hüllőkkel, például krokodilokkal és kígyókkal, valamint egzotikus trópusi madarakkal is. Az intézményt azzal a céllal hozták létre, hogy a városi lakosság számára is elérhetővé tegye a vadonban gyakran nehezen megfigyelhető állatvilágot. A szűkös anyagi források és a karbantartási nehézségek ellenére az állatkert munkatársai törekszenek a fajok méltó körülmények közötti bemutatására és a szemléletformálásra. Az állatkert területe fontos zöldfelület Bissauban, amely hétvégenként népszerű célpontja a családoknak és az iskolai csoportoknak. Az oktatási programok révén a gyerekek itt tanulhatják meg a természetvédelem alapjait és ismerhetik meg saját hazájuk biológiai kincseit. Az állatkert nem csupán látványosság, hanem a nemzeti ökológiai öntudat építésének egyik alapköve a város szívében.",
+        "ro": "Grădina Zoologică din Bissau este una dintre puținele facilități de acest gen din Guineea-Bissau, funcționând ca un centru vital pentru educația ecologică și recreere în capitală. Situată într-o zonă relativ liniștită a orașului, grădina găzduiește o selecție de specii indigene care ilustrează biodiversitatea bogată a Africii de Vest. Vizitatorii pot observa diverse primate, reptile precum crocodili și șerpi, dar și o multitudine de păsări tropicale viu colorate. Proiectul inițial a vizat oferirea unei oportunități populației urbane de a intra în contact cu fauna locală, care este adesea dificil de observat în sălbăticie. În ciuda provocărilor legate de finanțare și întreținere, managementul grădinii depune eforturi constante pentru a asigura condiții adecvate animalelor și pentru a servi drept destinație educațională pentru școli. Arhitectura parcului este utilitară, integrând spațiile de cazare ale animalelor în vegetația urbană existentă. Pentru mulți locuitori din Bissau, grădina zoologică reprezintă o destinație populară pentru ieșirile în familie, oferind o alternativă relaxantă la agitația centrului comercial. Instituția joacă un rol simbolic în promovarea conservării naturii, făcând vizibilă valoarea patrimoniului natural al țării pentru noile generații de cetățeni.",
+        "en": "The Bissau Zoological Garden is one of the few facilities of its kind in Guinea-Bissau, serving as a key center for environmental education and local recreation in the capital. Located in a relatively tranquil district of Bissau, the zoo houses a selection of indigenous species that represent the rich biodiversity of West Africa. Visitors can observe various primates, reptiles such as crocodiles and snakes, and a diverse array of tropical birds. The facility was originally conceived to provide the urban population with access to local wildlife that is often difficult to encounter in the wild. Despite significant funding and maintenance challenges, the zoo's administration strives to provide adequate habitats for the animals while acting as an educational hub for school groups. The zoo's layout is functional, integrating animal enclosures within the existing urban greenery. For many residents of the capital, the zoo is a preferred destination for weekend family outings, offering a sharp contrast to the bustling energy of the city center. The institution plays a crucial role in raising awareness about wildlife conservation in the country, making the value of Guinea-Bissau's natural heritage tangible for future generations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Zoo beherbergt primär Tiere aus der westafrikanischen Savanne und den Küstenwäldern.",
+          "Er ist ein zentraler Bestandteil der außerschulischen Bildung in Bissau.",
+          "Die Anlage dient auch der Rettung und Pflege verletzter Wildtiere.",
+          "Er befindet sich in der Nähe des Stadtviertels Antula.",
+          "Die Vegetation innerhalb des Zoos bietet Schatten in der heißen Trockenzeit.",
+          "Regelmäßige Führungen informieren über den Schutz bedrohter Arten."
+        ],
+        "hu": [
+          "Az állatkert főként a Guinea-Bissauban honos állatfajokat mutatja be.",
+          "Az intézmény fontos bázisa a helyi biológiai kutatásoknak.",
+          "Hétvégenként Bissau egyik leglátogatottabb családi célpontja.",
+          "A kert területén számos őshonos trópusi növényfaj is látható.",
+          "Az állatkert oktatási programjai segítik az orvvadászat elleni küzdelmet.",
+          "A hüllőház az egyik legnépszerűbb részlege a látogatók körében."
+        ],
+        "ro": [
+          "Grădina zoologică se concentrează pe conservarea speciilor locale de primate.",
+          "Este una dintre puținele zone verzi protejate din interiorul capitalei.",
+          "Găzduiește programe de voluntariat pentru studenții la medicină veterinară.",
+          "Accesul este facilitat de transportul public din Bissau.",
+          "Include zone de picnic și spații de joacă pentru copii.",
+          "Reprezintă un punct de referință pentru studiul faunei din regiunea Cacheu."
+        ],
+        "en": [
+          "The zoo specializes in the exhibition of West African endemic species.",
+          "It serves as the main venue for National Wildlife Day celebrations in Bissau.",
+          "The park acts as a green lung for the expanding northern districts of the city.",
+          "Educational signs provide information in both Portuguese and Crioulo.",
+          "The facility collaborates with international NGOs on animal welfare projects.",
+          "It is a critical site for fostering ecological pride among the local youth."
+        ]
+      }
+    },
+    {
+      "id": "praca-herois-spielplatz-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Spielplatz auf der Praça dos Heróis ist ein zentraler Treffpunkt für Familien und Kinder im Herzen von Bissau. Dieser öffentliche Raum befindet sich in unmittelbarer Nähe zu den wichtigsten Regierungsgebäuden und Denkmälern der Stadt, was ihm eine besondere Bedeutung im urbanen Leben verleiht. Während der Platz selbst als Ort nationalen Gedenkens dient, bietet der integrierte Spielbereich einen Raum für Freude und unbeschwertes Spiel inmitten der administrativen Ernsthaftigkeit der Umgebung. Die Ausstattung umfasst klassische Spielgeräte wie Schaukeln und Klettergerüste, die den klimatischen Bedingungen der Tropen standhalten müssen. Besonders in den kühleren Abendstunden füllt sich der Platz mit Leben, wenn Eltern ihre Kinder ausführen und sich die Bewohner der umliegenden Viertel zum Austausch treffen. Die Architektur des Platzes kombiniert koloniale Strukturen mit modernen Elementen der Stadtplanung, wobei die Grünflächen Schatten und Kühle spenden. Der Spielplatz symbolisiert die soziale Funktion öffentlicher Plätze in Westafrika, wo das Gemeinschaftsleben fast ausschließlich im Freien stattfindet. Er ist ein Zeichen für den Wiederaufbau städtischer Lebensqualität und bietet einen sicheren Hafen für die jüngste Generation in einer dynamisch wachsenden Hauptstadt.",
+        "hu": "A Haza Hőseinek terén (Praça dos Heróis) található játszótér Bissau szívének egyik legfontosabb közösségi találkozópontja a családok számára. Ez a nyilvános tér közvetlenül a legfontosabb kormányzati épületek és nemzeti emlékművek szomszédságában fekszik, így az állami reprezentáció és a mindennapi élet sajátos találkozási pontja. Miközben a tér maga a nemzeti emlékezet helyszíne, a játszórész felhőtlen szórakozást kínál a gyermekeknek az adminisztratív negyed komolysága közepette. A felszereltség klasszikus elemekből áll, mint a hinták és mászókák, amelyeket a trópusi éghajlathoz igazodva alakítottak ki. Esténként, amikor a hőség alábbhagy, a tér megtelik élettel: a szülők ide hozzák gyermekeiket, a környékbeli lakosok pedig megvitatják a nap eseményeit. A tér építészete a gyarmati örökséget ötvözi a modern várostervezéssel, ahol a dús lombozatú fák hűsítő árnyékot adnak. A játszótér kiválóan példázza a nyugat-afrikai közösségi terek funkcióját, ahol a társadalmi élet jelentős része a szabadban zajlik. Ez a helyszín a városi életminőség javításának jelképe Bissauban, biztonságos és barátságos környezetet nyújtva a legfiatalabb generáció számára a folyamatosan fejlődő fővárosban.",
+        "ro": "Locul de joacă din Praça dos Heróis este un punct central de întâlnire pentru familiile și copiii din inima orașului Bissau. Acest spațiu public este situat în imediata apropiere a principalelor clădiri guvernamentale și monumente ale orașului, ceea ce îi conferă o importanță deosebită în viața urbană. În timp ce piața în sine servește ca loc de comemorare națională, zona de joacă integrată oferă un spațiu pentru bucurie și joacă fără griji în mijlocul seriozității administrative a împrejurimilor. Dotările includ echipamente clasice de joacă, cum ar fi leagăne și structuri de cățărat, care trebuie să reziste condițiilor climatice ale tropicelor. În special în orele mai răcoroase ale serii, piața se umple de viață, când părinții își scot copiii la plimbare și locuitorii cartierelor învecinate se întâlnesc pentru a socializa. Arhitectura pieței combină structuri coloniale cu elemente moderne de planificare urbană, spațiile verzi oferind umbră și răcoare. Locul de joacă simbolizează funcția socială a piețelor publice în Africa de Vest, unde viața comunitară are loc aproape exclusiv în aer liber. Este un semn al reconstrucției calității vieții urbane și oferă un refugiu sigur pentru cea mai tânără generație într-o capitală în plină expansiune.",
+        "en": "The playground at Praça dos Heróis is a central meeting point for families and children in the heart of Bissau. This public space is situated in close proximity to the city's most important government buildings and monuments, giving it special significance in urban life. While the square itself serves as a place of national commemoration, the integrated play area provides a space for joy and lighthearted play amidst the administrative seriousness of the surroundings. The equipment includes classic play structures such as swings and climbing frames, designed to withstand the tropical climatic conditions. Especially in the cooler evening hours, the square comes alive as parents take their children out and residents of the surrounding neighborhoods gather to socialize. The square's architecture combines colonial structures with modern elements of urban planning, with green spaces providing shade and coolness. The playground symbolizes the social function of public squares in West Africa, where community life takes place almost exclusively outdoors. It is a sign of the reconstruction of urban quality of life and offers a safe haven for the youngest generation in a dynamically growing capital."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Spielplatz liegt direkt neben dem Nationalmonument der Helden des Vaterlandes.",
+          "Abends ist der Platz einer der am hellsten beleuchteten Orte der Stadt.",
+          "Der Zugang zu den Spielgeräten ist für alle Bürger kostenlos.",
+          "Der Bereich wird oft von fliegenden Händlern mit Snacks und Getränken gesäumt.",
+          "Große schattenspendende Bäume schützen vor der Mittagshitze.",
+          "Der Platz ist ein wichtiger Ort für informelle nachbarschaftliche Kommunikation."
+        ],
+        "hu": [
+          "A játszótér az ország legfontosabb politikai és történelmi terén található.",
+          "Napon naplemente után válik igazán népszerűvé a helyi családok körében.",
+          "A tér biztonsági szempontból az egyik legvédettebb terület a városban.",
+          "Gyakran látni itt fagylaltárusokat és utcai művészeket.",
+          "A játszótér burkolata homok és gumírozott felületek keveréke.",
+          "Az emlékművek közelsége miatt a gyerekek már korán megismerik a történelmet."
+        ],
+        "ro": [
+          "Locul de joacă este situat în cel mai sigur perimetru al capitalei.",
+          "Reprezintă principalul spațiu de recreere pentru copiii din Bissau Velho.",
+          "Activitatea de aici reflectă dinamismul social al societății guineene.",
+          "Zona este bine întreținută datorită importanței protocolare a pieței.",
+          "Sunt organizate uneori mici evenimente culturale pentru copii în weekend.",
+          "Este un punct de reper pentru turiștii care explorează centrul civic."
+        ],
+        "en": [
+          "The playground is located adjacent to the Presidential Palace district.",
+          "It serves as a key recreational hub for the city’s middle-class families.",
+          "The square acts as a communal living room for Bissau's urban residents.",
+          "Modern play equipment was installed as part of an urban renewal project.",
+          "The site offers a safe environment for children away from heavy traffic.",
+          "It is a popular spot for photography among local families and tourists."
+        ]
+      }
+    },
+    {
+      "id": "franco-guineen-kinder-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Lycée Français Albert Camus, allgemein bekannt als Lycée Franco-Guinéen, ist ein bedeutender Bildungs- und Kulturstandort in Bissau, der eine zentrale Rolle im Leben der internationalen und lokalen Gemeinschaft spielt. Die Schule bietet eine Ausbildung nach französischem Lehrplan und dient als Schmelztiegel der Kulturen, an dem Kinder aus Guinea-Bissau, Frankreich und vielen anderen Ländern gemeinsam lernen. Architekturgeschichtlich ist die Anlage ein Beispiel für moderne pädagogische Architektur in Westafrika, mit offenen Klassenzimmern und großzügigen Außenbereichen, die an das tropische Klima angepasst sind. Neben dem akademischen Betrieb ist die Schule ein wichtiger Ort für kulturelle Aktivitäten, Sportwettbewerbe und soziale Integration. Die Präsenz dieser Institution in Bissau stärkt die bilateralen Beziehungen und bietet den Kindern Zugang zu einer globalisierten Bildungswelt. Für die Schüler ist das Lycée nicht nur ein Lernort, sondern ein Raum, in dem Freundschaften über nationale Grenzen hinweg geschlossen werden. Das soziale Gefüge der Schule spiegelt die Weltoffenheit der guineischen Hauptstadt wider und trägt zur Ausbildung einer künftigen Elite bei, die sowohl lokal verwurzelt als auch international orientiert ist.",
+        "hu": "Az Albert Camus Francia Líceum, közismert nevén Lycée Franco-Guinéen, Bissau egyik meghatározó oktatási és kulturális központja, amely központi szerepet játszik a helyi és nemzetközi közösség életében. Az iskola a francia tanterv szerint kínál oktatást, és a kultúrák olvasztótégelyeként szolgál, ahol Bissau-guineai, francia és sok más országból érkező gyermekek tanulnak együtt. Építészetileg az intézmény a nyugat-afrikai modern pedagógiai építészet példája, nyitott tantermekkel és tágas közösségi terekkel, amelyeket a trópusi éghajlathoz igazítottak. Az akadémiai munka mellett az iskola fontos helyszíne a kulturális tevékenységeknek, sportversenyeknek és a társadalmi integrációnak. Az intézmény jelenléte Bissauban erősíti a kétoldalú kapcsolatokat, és globális oktatási lehetőségeket biztosít a gyermekek számára. A diákok számára a líceum nem csupán a tanulás helyszíne, hanem egy olyan tér, ahol országhatárokon átívelő barátságok születnek. Az iskola társadalmi szövete hűen tükrözi a guineai főváros nyitottságát, és hozzájárul egy olyan jövőbeli elit neveléséhez, amely egyszerre kötődik saját gyökereihez és rendelkezik nemzetközi szemlélettel.",
+        "ro": "Liceul Francez Albert Camus, cunoscut sub numele de Lycée Franco-Guinéen, este un important centru educațional și cultural din Bissau, jucând un rol central în viața comunității internaționale și locale. Școala oferă educație conform curriculumului francez și servește ca un creuzet cultural unde copiii din Guineea-Bissau, Franța și multe alte țări învață împreună. Din punct de vedere arhitectural, complexul este un exemplu de arhitectură pedagogică modernă în Africa de Vest, cu săli de clasă deschise și spații exterioare generoase adaptate climatului tropical. Pe lângă activitățile academice, școala este un loc important pentru manifestări culturale, competiții sportive și integrare socială. Prezența acestei instituții în Bissau consolidează relațiile bilaterale și oferă copiilor acces la o educație globalizată. Pentru elevi, liceul nu este doar un loc de învățare, ci un spațiu în care se leagă prietenii peste granițele naționale. Structura socială a școlii reflectă deschiderea capitalei guineene și contribuie la formarea unei viitoare elite, care este atât înrădăcinată local, cât și orientată internațional.",
+        "en": "The Lycée Français Albert Camus, commonly known as the Lycée Franco-Guinéen, is a significant educational and cultural landmark in Bissau that plays a central role in the lives of the international and local communities. The school provides education following the French curriculum and serves as a melting pot of cultures, where children from Guinea-Bissau, France, and many other countries learn together. Architecturally, the facility is an example of modern pedagogical architecture in West Africa, featuring open classrooms and generous outdoor areas adapted to the tropical climate. Beyond academic operations, the school is an important venue for cultural activities, sports competitions, and social integration. The presence of this institution in Bissau strengthens bilateral relations and offers children access to a globalized educational environment. For the students, the Lycée is not just a place of learning but a space where friendships are formed across national borders. The school's social fabric reflects the cosmopolitan nature of the Bissau-Guinean capital and contributes to the training of a future elite that is both locally rooted and internationally oriented."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Schule ist Teil des weltweiten Netzwerks der AEFE (Agence pour l'enseignement français à l'étranger).",
+          "Sie beherbergt Schüler vom Kindergarten bis zum Abitur.",
+          "Das Gelände verfügt über moderne Sportanlagen und eine umfangreiche Bibliothek.",
+          "Regelmäßige kulturelle Veranstaltungen sind auch für die Öffentlichkeit zugänglich.",
+          "Der Unterricht findet primär auf Französisch statt.",
+          "Die Schule liegt in einem der sichersten Viertel der Hauptstadt."
+        ],
+        "hu": [
+          "Az iskola a francia külföldi oktatási hálózat (AEFE) tagja.",
+          "Az oktatás az óvodától egészen az érettségiig tart.",
+          "Az intézmény modern sportpályákkal és jól felszerelt könyvtárral rendelkezik.",
+          "Az iskola fontos szerepet játszik a frankofón kultúra terjesztésében.",
+          "A diákok között számos különböző nemzetiség képviselteti magát.",
+          "A líceum kertjei Bissau egyik legápoltabb zöldfelületének számítanak."
+        ],
+        "ro": [
+          "Liceul urmează standardele riguroase ale sistemului de învățământ francez.",
+          "Este un punct de referință pentru educația de elită din Guineea-Bissau.",
+          "Organizează festivaluri de teatru și competiții sportive inter-școlare.",
+          "Facilitățile includ laboratoare moderne de științe și informatică.",
+          "Diplomele emise aici sunt recunoscute la nivel internațional.",
+          "Promovează multilingvismul în rândul tinerilor din capitală."
+        ],
+        "en": [
+          "The school is part of the global network of French international schools.",
+          "It provides a multicultural learning environment for students of all ages.",
+          "The campus is a hub for French-speaking cultural events in Bissau.",
+          "It features professional-grade athletic facilities for student use.",
+          "The institution plays a key role in preparing students for European universities.",
+          "It is located within the central administrative and diplomatic district."
+        ]
+      }
+    },
+    {
+      "id": "bubaque-strand-spiel-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Strandspielbereich auf Bubaque ist das Herzstück des Freizeit- und Gemeinschaftslebens auf der Hauptinsel des Bijagós-Archipels. Direkt an den flachen, feinsandigen Stränden gelegen, bietet dieser Bereich einen natürlichen Raum für Kinder und Jugendliche, um sich sportlich zu betätigen und die Natur zu genießen. In der Kultur der Bijagós ist das Leben eng mit dem Meer verbunden, und der Strand dient als verlängertes Wohnzimmer der Gemeinschaft. Hier werden improvisierte Fußballfelder errichtet, auf denen tägliche Turniere stattfinden, die Jung und Alt anlocken. Die seichten Gewässer vor dem Spielbereich sind ideal für erste Schwimmversuche und das traditionelle Fischen. Architektur im klassischen Sinne findet man hier kaum; stattdessen prägen temporäre Hütten aus Palmenblättern und natürliche Schattenspender durch Kasuarinen das Bild. Der Bereich ist ein Symbol für die unbeschwerte Kindheit auf den Inseln und die Bedeutung des Schutzes dieser unberührten Küstenstreifen. Für Besucher bietet der Strandspielbereich einen authentischen Einblick in das soziale Gefüge der Inselbewohner und zeigt die tiefe Freude am gemeinsamen Spiel unter der tropischen Sonne.",
+        "hu": "A bubaque-i tengerparti játszóterület a Bijagós-szigetcsoport fő szigetének szabadidős és közösségi életének központja. A sekély, finom homokos strandok mentén elhelyezkedő terület természetes közeget biztosít a gyermekek és fiatalok számára a sportoláshoz és a természet élvezetéhez. A Bijagós kultúrában az élet szorosan összefonódik a tengerrel, a strand pedig a közösség kiterjesztett nappalijaként szolgál. Itt improvizált futballpályákat alakítanak ki, ahol napi bajnokságokat rendeznek, amelyek minden korosztályt vonzanak. A játszóterület előtti sekély víz ideális az első úszásokhoz és a hagyományos halászathoz. Klasszikus értelemben vett építészetet itt alig találni; ehelyett pálmalevelekből készült ideiglenes kunyhók és a kazuárfák természetes árnyéka határozzák meg a képet. Ez a terület a szigeteki gondtalan gyermekkor szimbóluma és az érintetlen tengerparti sávok védelmének fontosságára hívja fel a figyelmet. A látogatók számára a tengerparti játszóhely hiteles betekintést nyújt a szigetlakók társadalmi életébe, megmutatva a közös játék tiszta örömét a trópusi napsütésben.",
+        "ro": "Zona de joacă de pe plaja din Bubaque este inima vieții recreative și comunitare de pe insula principală a Arhipelagului Bijagós. Situată chiar pe plajele cu nisip fin și ape puțin adânci, această zonă oferă un spațiu natural pentru copii și tineri pentru a practica sport și a se bucura de natură. În cultura Bijagós, viața este strâns legată de mare, iar plaja servește ca o extensie a spațiului de locuit al comunității. Aici sunt amenajate terenuri de fotbal improvizate, unde au loc turnee zilnice care atrag participanți de toate vârstele. Apele calme din fața zonei de joacă sunt ideale pentru primele lecții de înot și pentru pescuitul tradițional. Arhitectura în sens clasic este aproape inexistentă aici; în schimb, colibele temporare din frunze de palmier și umbra naturală oferită de copacii casuarina definesc peisajul. Zona este un simbol al copilăriei fără griji pe insule și al importanței protejării acestor fâșii de coastă virgine. Pentru vizitatori, zona de joacă de pe plajă oferă o perspectivă autentică asupra structurii sociale a insularilor și arată bucuria profundă a jocului comun sub soarele tropical.",
+        "en": "The beach play area on Bubaque is the centerpiece of recreational and community life on the main island of the Bijagós Archipelago. Situated directly on the shallow, fine-sanded beaches, this area provides a natural space for children and youth to engage in sports and enjoy nature. In Bijagós culture, life is closely intertwined with the sea, and the beach serves as an extended living room for the community. Here, improvised football pitches are set up for daily tournaments that draw participants of all ages. The shallow waters in front of the play area are ideal for early swimming attempts and traditional fishing. Architecture in the classic sense is scarce here; instead, temporary huts made of palm leaves and natural shade provided by casuarina trees define the scene. The area is a symbol of carefree childhood on the islands and highlights the importance of protecting these pristine stretches of coastline. For visitors, the beach play area offers an authentic insight into the social fabric of the islanders and demonstrates the deep joy of communal play under the tropical sun."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Bereich wird am späten Nachmittag zum lebhaftesten Treffpunkt der Insel.",
+          "Fußball ist die beliebteste Sportart, oft barfuß im Sand gespielt.",
+          "Lokale Fischer nutzen den Bereich oft, um ihre Netze zu flicken.",
+          "Es gibt keine festen Eintrittsgebühren, da es sich um einen öffentlichen Naturraum handelt.",
+          "Die Vegetation besteht primär aus Palmen und salzresistenten Gräsern.",
+          "Der Bereich ist ein wichtiger Ort für den intergenerationalen Austausch."
+        ],
+        "hu": [
+          "A terület Bubaque legnépszerűbb szabadtéri közösségi tere.",
+          "A homokos part ideális helyszín a mezítlábas focizáshoz.",
+          "A helyi gyerekek itt tanulják meg a tengeri életmód alapjait.",
+          "Az árnyékot adó fák alatt gyakran rendeznek közösségi étkezéseket.",
+          "A játszóterület tiszta és biztonságos, távol a motoros forgalomtól.",
+          "Az apály és dagály váltakozása naponta átformálja a játékteret."
+        ],
+        "ro": [
+          "Este locul principal pentru antrenamentele echipelor locale de fotbal.",
+          "Plaja oferă condiții naturale excelente pentru sporturi nautice ușoare.",
+          "Zona este un exemplu de utilizare durabilă a resurselor de coastă.",
+          "Turismul local beneficiază de atmosfera vibrantă a acestui spațiu.",
+          "Copiii folosesc adesea jucării artizanale fabricate din materiale naturale.",
+          "Reprezintă spiritul de libertate și comuniune cu natura al arhipelagului."
+        ],
+        "en": [
+          "The area becomes the island's liveliest hub during late afternoon hours.",
+          "Beach football is the dominant social activity for the local youth.",
+          "It serves as a primary site for community-led beach clean-up initiatives.",
+          "The natural landscape dictates the types of games and activities possible.",
+          "Shade is provided by large casuarina trees lining the coast.",
+          "It is an essential space for maintaining traditional island social ties."
+        ]
+      }
+    },
+    {
+      "id": "biblioteca-infantil-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kinderbibliothek von Bissau (Biblioteca Infantil de Bissau) ist eine wegweisende Bildungseinrichtung, die sich der Förderung der Alphabetisierung und der Lesekultur unter den Jüngsten widmet. In einem Land, in dem der Zugang zu Büchern oft eingeschränkt ist, bietet diese Bibliothek einen sicheren und inspirierenden Ort für Kinder aller sozialen Schichten. Die Einrichtung verfügt über eine vielfältige Sammlung von Kinderbüchern in Portugiesisch, Französisch und lokalen Sprachen, die darauf ausgelegt sind, die Fantasie und das Wissen der jungen Leser zu erweitern. Die Architektur der Bibliothek ist farbenfroh und kinderfreundlich gestaltet, mit gemütlichen Leseecken und Bereichen für Gruppenaktivitäten. Neben dem klassischen Verleih von Büchern organisiert die Bibliothek regelmäßig Vorlesestunden, Schreibwerkstätten und künstlerische Projekte, die das kreative Potenzial der Kinder fördern. Die Bibliothek fungiert als kulturelles Zentrum, das die Bildungschancen verbessert und zur Entwicklung einer informierten und kritisch denkenden Generation beiträgt. Für viele Kinder in Bissau ist dieser Ort ein Fenster zur Welt, das ihnen neue Perspektiven eröffnet und die Freude am Lernen nachhaltig stärkt. Die Unterstützung durch internationale Organisationen und lokale Freiwillige ist entscheidend für den Fortbestand und den Ausbau dieser unverzichtbaren sozialen Ressource.",
+        "hu": "A bissaui gyermekkönyvtár (Biblioteca Infantil de Bissau) úttörő oktatási intézmény, amely az írás-olvasás és az olvasási kultúra népszerűsítésének szenteli tevékenységét a legfiatalabbak körében. Egy olyan országban, ahol a könyvekhez való hozzáférés gyakran korlátozott, ez a könyvtár biztonságos és inspiráló helyet kínál minden társadalmi rétegből érkező gyermek számára. Az intézmény portugál, francia és helyi nyelvű gyermekkönyvek gazdag gyűjteményével rendelkezik, amelyek célja a fiatal olvasók képzeletének és tudásának bővítése. A könyvtár építészete színes és gyermekbarát, kényelmes olvasósarkokkal és csoportos foglalkozásokra alkalmas terekkel. A könyvkölcsönzés mellett a könyvtár rendszeresen szervez felolvasóesteket, írói műhelyeket és művészeti projekteket, amelyek a gyermekek kreatív potenciálját hivatottak kibontakoztatni. A könyvtár kulturális központként is funkcionál, javítva az oktatási esélyeket és hozzájárulva egy tájékozott, kritikus gondolkodású generáció neveléséhez. Sok bissaui gyermek számára ez a hely egy ablak a világra, amely új távlatokat nyit meg és erősíti a tanulás örömét. A nemzetközi szervezetek és a helyi önkéntesek támogatása kulcsfontosságú e nélkülözhetetlen közösségi erőforrás fennmaradásához és fejlesztéséhez.",
+        "ro": "Biblioteca pentru copii din Bissau (Biblioteca Infantil de Bissau) este o instituție educațională de pionierat, dedicată promovării alfabetizării și culturii lecturii în rândul celor mai tineri. Într-o țară în care accesul la cărți este adesea limitat, această bibliotecă oferă un loc sigur și inspirațional pentru copiii din toate mediile sociale. Facilitatea dispune de o colecție diversă de cărți pentru copii în portugheză, franceză și limbi locale, concepute pentru a extinde imaginația și cunoștințele tinerilor cititori. Arhitectura bibliotecii este colorată și prietenoasă cu copiii, cu colțuri de lectură primitoare și zone pentru activități de grup. Pe lângă împrumutul clasic de cărți, biblioteca organizează regulat ore de poveste, ateliere de scriere și proiecte artistice care stimulează potențialul creativ al copiilor. Biblioteca funcționează ca un centru cultural care îmbunătățește șansele la educație și contribuie la dezvoltarea unei generații informate și cu gândire critică. Pentru mulți copii din Bissau, acest loc este o fereastră către lume, care le deschide noi perspective și consolidează bucuria de a învăța. Sprijinul din partea organizațiilor internaționale și al voluntarilor locali este crucial pentru continuitatea și extinderea acestei resurse sociale indispensabile.",
+        "en": "The Bissau Children's Library (Biblioteca Infantil de Bissau) is a pioneering educational institution dedicated to promoting literacy and reading culture among the youngest citizens. In a country where access to books is often limited, this library provides a safe and inspiring space for children from all social backgrounds. The facility houses a diverse collection of children's books in Portuguese, French, and local languages, designed to expand the imagination and knowledge of young readers. The library's architecture is colorful and child-friendly, featuring cozy reading corners and areas for group activities. Beyond the classic borrowing of books, the library regularly organizes storytelling sessions, writing workshops, and artistic projects aimed at fostering children's creative potential. The library functions as a cultural hub that improves educational opportunities and contributes to the development of an informed and critical-thinking generation. For many children in Bissau, this place is a window to the world, opening new perspectives and sustainably strengthening the joy of learning. Support from international organizations and local volunteers is crucial for the survival and expansion of this indispensable social resource."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Bibliothek wurde mit Unterstützung privater Stiftungen und NGOs gegründet.",
+          "Sie bietet spezielle Programme zur Sprachförderung in Portugiesisch an.",
+          "Die Einrichtung verfügt über einen Computerraum für erste IT-Erfahrungen.",
+          "Regelmäßige Malwettbewerbe fördern die künstlerische Auseinandersetzung mit Büchern.",
+          "Sie befindet sich in der Nähe des kulturellen Zentrums der Hauptstadt.",
+          "Die Mitgliedschaft ist für Kinder aus einkommensschwachen Familien kostenfrei."
+        ],
+        "hu": [
+          "A könyvtár az ország első, kifejezetten gyermekeknek szánt bibliotékája.",
+          "A gyűjteményben számos afrikai népmesét tartalmazó könyv is megtalálható.",
+          "Az intézmény szoros kapcsolatot ápol a helyi általános iskolákkal.",
+          "A könyvtárosok speciális drámapedagógiai foglalkozásokat is tartanak.",
+          "Az épület belső terét helyi művészek vidám falfestményei díszítik.",
+          "A gyermekkönyvtár fontos szerepet játszik a digitális írástudás terjesztésében."
+        ],
+        "ro": [
+          "Este principalul centru de resurse educaționale pentru preșcolarii din capitală.",
+          "Biblioteca organizează anual un festival de literatură pentru copii.",
+          "Promovează utilizarea limbilor locale în procesul de învățare timpurie.",
+          "Facilitățile includ o sală de teatru de păpuși și jocuri educaționale.",
+          "Reprezintă un model de succes pentru bibliotecile comunitare din regiune.",
+          "Voluntarii internaționali participă frecvent la activitățile de lectură asistată."
+        ],
+        "en": [
+          "The library acts as a sanctuary for students during the dry season.",
+          "It contains the country's largest collection of translated children's classics.",
+          "The institution provides a platform for local children's book authors.",
+          "It serves as a primary site for literacy-themed teacher training workshops.",
+          "The library's outreach programs bring books to remote neighborhoods in Bissau.",
+          "It is a key partner in national initiatives to improve primary education."
+        ]
+      }
+    }
+  ]
+}

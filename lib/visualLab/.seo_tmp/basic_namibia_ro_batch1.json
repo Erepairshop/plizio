@@ -1,0 +1,85 @@
+{
+  "lang": "ro",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-cape-cross-animal-habitat-life-v2",
+      "description": "Cape Cross este o mare colonie de foci de blană, atrăgând vizitatori pentru observarea faunei sălbatice unice.",
+      "facts": ["Colonii de foci", "Observarea faunei sălbatice", "Coasta Skeleton"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "Regiunea Hardap este cunoscută pentru agricultura sa irigată, susținută de Barajul Hardap.",
+      "facts": ["Agricultură irigată", "Barajul Hardap", "Pământuri fertile"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Tsumeb este un centru agricol important, cunoscut pentru cultivarea porumbului și creșterea animalelor.",
+      "facts": ["Centru agricol", "Cultivarea porumbului", "Creșterea animalelor"]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "description": "Regiunea Gobabis este un centru pentru creșterea animalelor, în special pentru fermele sale de vite.",
+      "facts": ["Creșterea animalelor", "Ferme de vite", "Gobabis"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Windhoek oferă atracții prietenoase pentru copii, cum ar fi Muzeul Național și Alte Feste (Vechea Fortăreață).",
+      "facts": ["Atracții pentru copii", "Windhoek", "Muzeul Național"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Okahandja este renumită pentru piața sa mare de artizanat în aer liber și tradițiile culturale puternice Herero.",
+      "facts": ["Piața de artizanat", "Tradiții Herero", "Okahandja"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "Parcul Național Mudumu din Fâșia Caprivi este un refugiu crucial pentru animale sălbatice, inclusiv elefanți și bivoli.",
+      "facts": ["Refugiu faună sălbatică", "Fâșia Caprivi", "Elefanți și bivoli"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "Regiunea Kavango este cunoscută pentru producția sa agricolă, în special cereale și leguminoase, beneficiind de irigarea fluvială.",
+      "facts": ["Producție agricolă", "Cereale și leguminoase", "Irigare fluvială"]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "description": "Kalahari, în Namibia, oferă un habitat unic pentru diverse animale sălbatice, inclusiv oryx și springbok.",
+      "facts": ["Habitat unic", "Oryx și springbok", "Deșertul Kalahari"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Walvis Bay oferă activități familiale, cum ar fi croaziere pentru observarea delfinilor și focilor și caiac printre fauna marină.",
+      "facts": ["Croaziere delfini și foci", "Caiac", "Faună marină"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Tsumkwe oferă perspective asupra culturii San (Bushmen) și servește ca poartă către Parcul Național Khaudum.",
+      "facts": ["Cultura San", "Parcul Național Khaudum", "Perspective culturale"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Lüderitz este un oraș costier istoric cu arhitectură colonială unică și un punct de plecare pentru orașul fantomă Kolmanskop.",
+      "facts": ["Oraș costier istoric", "Arhitectură colonială", "Kolmanskop"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "Fâșia Caprivi este un paradis al faunei sălbatice, caracterizată prin râurile, zonele umede și populațiile mari de elefanți.",
+      "facts": ["Paradis faună sălbatică", "Râuri și zone umede", "Populații mari de elefanți"]
+    },
+    {
+      "id": "na-kalahari-desert-nature-v2",
+      "description": "Deșertul Kalahari, în sudul Africii, este un deșert semi-arid vast, cunoscut pentru dunele sale roșii și fauna sălbatică adaptată la deșert.",
+      "facts": ["Deșert semi-arid", "Dune roșii", "Faună sălbatică adaptată"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "Platoul Waterberg este un parc național remarcabil, cunoscut pentru biodiversitatea sa și geologia unică.",
+      "facts": ["Platou muntos", "Biodiversitate", "Geologie unică"]
+    }
+  ]
+}

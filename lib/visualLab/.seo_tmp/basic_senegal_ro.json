@@ -1,0 +1,58 @@
+{
+  "lang": "ro",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kolda-hochebene-v2",
+      "description": "Platoul din Kolda reprezintă o formă de relief predominantă în sudul țării, caracterizată prin terenuri agricole fertile.",
+      "facts": ["Regiunea Casamance", "Platou agricol", "Altitudine moderată"]
+    },
+    {
+      "id": "sine-ebene-v2",
+      "description": "Câmpia din zona Sine este o regiune joasă și fertilă, esențială pentru cultivarea orezului și a altor culturi locale.",
+      "facts": ["Câmpie aluvială", "Agricultură de orez", "Soluri fertile"]
+    },
+    {
+      "id": "tambacounda-plateau-v2",
+      "description": "Platoul din Tambacounda domină relieful estic al Senegalului, fiind o zonă întinsă și aridă cu vegetație de savană.",
+      "facts": ["Regiune estică", "Peisaj de savană", "Altitudine medie"]
+    },
+    {
+      "id": "nördliche-kuestenebene-v2",
+      "description": "Câmpia costieră din nordul țării reprezintă o zonă de tranziție între ocean și zonele interioare, cu soluri nisipoase.",
+      "facts": ["Zonă litorală nordică", "Câmpie joasă", "Soluri nisipoase"]
+    },
+    {
+      "id": "casamance-waldhuegel-v2",
+      "description": "Dealurile împădurite din Casamance oferă un relief variat, protejând ecosisteme forestiere bogate în sud-vestul Senegalului.",
+      "facts": ["Dealuri împădurite", "Biodiversitate bogată", "Regiunea Casamance"]
+    },
+    {
+      "id": "patar-wald-v2",
+      "description": "Zona forestieră Patar se întinde peste un relief colinar blând, fiind o arie de importanță ecologică locală.",
+      "facts": ["Relief colinar", "Arie forestieră", "Ecosistem protejat"]
+    },
+    {
+      "id": "niokolo-koba-berg-v2",
+      "description": "Zona muntoasă din Niokolo-Koba se remarcă prin altitudini variate, oferind adăpost unei faune sălbatice protejate în parc.",
+      "facts": ["Zonă montană limitată", "Habitat de parc național", "Relief accidentat"]
+    },
+    {
+      "id": "faleme-tal-relief-v2",
+      "description": "Valea râului Falémé formează un relief de vale adâncă, marcând granița naturală a teritoriului estic.",
+      "facts": ["Relief de vale", "Graniță fluvială", "Eroziune naturală"]
+    },
+    {
+      "id": "casamance-huegel-v2",
+      "description": "Dealurile din regiunea Casamance modelează un peisaj pitoresc, esențial pentru caracteristicile geografice ale sudului senegalez.",
+      "facts": ["Relief colinar", "Regiunea Casamance", "Peisaj variat"]
+    }
+  ]
+}

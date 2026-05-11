@@ -1,0 +1,56 @@
+{
+  "lang": "en",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gao-cities-v2",
+      "description": "Gao is a historic city on the banks of the Niger River, serving as a crucial trading hub in eastern Mali.",
+      "facts": ["Located on Niger River", "Historic Gao Empire capital", "Key regional trade center", "Diverse ethnic population"]
+    },
+    {
+      "id": "macina-cities-v2",
+      "description": "Macina is a town in the Mopti Region, primarily known for its role in local agriculture and the livestock trade.",
+      "facts": ["Situated in Mopti Region", "Agricultural focus", "Livestock trading hub", "Inland Niger Delta area"]
+    },
+    {
+      "id": "dialakoroba-cities-v2",
+      "description": "Dialakoroba is a growing community near Bamako, reflecting the increasing urbanization of the region.",
+      "facts": ["Near Bamako capital", "Growing residential area", "Developing local commerce", "Urbanization transition zone"]
+    },
+    {
+      "id": "diabaly-cities-v2",
+      "description": "Diabaly is a significant settlement in the Ségou Region, centered around the production of rice and other staple crops.",
+      "facts": ["Ségou Region location", "Rice cultivation hub", "Strategic trade route", "Rural community center"]
+    },
+    {
+      "id": "mali-tomb-of-askia-history-v2",
+      "description": "The Tomb of Askia is an iconic mud-brick structure in Gao, built by Askia Mohammad I in 1495.",
+      "facts": ["Built in 1495", "UNESCO World Heritage Site", "Sudano-Sahelian architecture", "Gao Empire tomb"]
+    },
+    {
+      "id": "national-museum-mali-landmarks-v2",
+      "description": "The National Museum of Mali in Bamako houses an extensive collection of archaeological and ethnographic artifacts.",
+      "facts": ["Located in Bamako", "Archaeological collection", "Ethnographic exhibits", "Cultural heritage hub"]
+    },
+    {
+      "id": "stade-26-mars-landmarks-v2",
+      "description": "Stade du 26 Mars is the largest stadium in Mali, named after the date of the country's democratic revolution.",
+      "facts": ["Bamako location", "Largest national stadium", "Opened in 2001", "Multi-purpose sports venue"]
+    },
+    {
+      "id": "peace-monument-tombouctou-landmarks-v2",
+      "description": "The Peace Monument in Timbuktu symbolizes the reconciliation efforts following decades of regional conflict.",
+      "facts": ["Located in Timbuktu", "Symbol of reconciliation", "Commemorates peace process", "Central town monument"]
+    },
+    {
+      "id": "grand-marche-bamako-landmarks-v2",
+      "description": "The Grand Marché of Bamako is a vibrant marketplace that serves as the commercial heart of the Malian capital.",
+      "facts": ["Heart of Bamako", "Major commercial hub", "Traditional goods focus", "Dense bustling layout"]
+    }
+  ]
+}

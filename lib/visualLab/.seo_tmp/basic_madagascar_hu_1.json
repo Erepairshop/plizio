@@ -1,0 +1,48 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "star-brewery-tana-economic-v2",
+      "description": "Antananarivo egyik jelentős sörgyártó üzeme, amely a helyi gazdasági élet meghatározó szereplője.",
+      "facts": ["Alapítva a fővárosban", "Helyi sörgyártás", "Gazdasági munkaadó"]
+    },
+    {
+      "id": "somacou-textile-economic-v2",
+      "description": "Madagaszkár egyik meghatározó textilipari vállalata, amely nagy szerepet játszik az exportban.",
+      "facts": ["Textilipari termelés", "Exportorientált tevékenység", "Ipari foglalkoztatás"]
+    },
+    {
+      "id": "antongil-bay-dutch-settlement-history-v2",
+      "description": "Az Antongil-öböl egykori holland kereskedelmi állomásának helyszíne, amely a 17. századi kapcsolatokat tükrözi.",
+      "facts": ["17. századi gyarmati emlék", "Holland kereskedőtelep", "Tengerparti kereskedelmi pont"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Imerina királyság korabeli erődítményrendszer, amely a sziget központi fennsíkjának védelmét szolgálta.",
+      "facts": ["Imerina korszak", "Központi fennsíki védelem", "Történelmi erődítmény"]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "description": "Toliara városának történelmi városmagja, ahol számos francia gyarmati épület maradt fenn.",
+      "facts": ["Francia gyarmati örökség", "Délnyugati kikötőváros", "Történelmi építészet"]
+    },
+    {
+      "id": "nosy-boraha-fort-history-v2",
+      "description": "Nosy Boraha szigetén található erőd, amely egykor kalózok és gyarmati erők stratégiai pontja volt.",
+      "facts": ["Kalóz történelem", "Szigeti erődítmény", "Gyarmati katonai építmény"]
+    },
+    {
+      "id": "alasora-royal-village-history-v2",
+      "description": "Alasora az egyik legrégebbi királyi falu Madagaszkáron, amely az Imerina dinasztia bölcsője volt.",
+      "facts": ["Királyi falu", "Imerina dinasztia bölcsője", "Kultikus történelmi helyszín"]
+    }
+  ]
+}

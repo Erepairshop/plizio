@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "midelt-apple-agriculture-life-v2",
+      "description": "Midelt környéke az almaültetvényeiről híres, amely a régió legfontosabb mezőgazdasági terméke.",
+      "facts": ["Hegyi klíma", "Almafesztivál", "Kiváló termés", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Tiznit vidéke az olajbogyó-termesztésről és a hagyományos kézművességről nevezetes.",
+      "facts": ["Olajfaligetek", "Hagyományos gazdálkodás", "Berber kultúra", "Sivatagi régió"]
+    },
+    {
+      "id": "agadir-fish-market-agriculture-life-v2",
+      "description": "Agadir kikötője Marokkó egyik legfontosabb halászati központja, nyüzsgő halpiaccal.",
+      "facts": ["Atlanti halászat", "Friss fogás", "Gazdasági központ", "Kikötői élet"]
+    },
+    {
+      "id": "ouarzazate-date-agriculture-life-v2",
+      "description": "Ouarzazate környékén a datolyapálmák termesztése a sivatagi gazdálkodás alapja.",
+      "facts": ["Datolyatermesztés", "Oázisváros", "Sivatagi mezőgazdaság", "Draa-völgy"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga a homokdűnéiről híres, ahol a gyerekek felfedezhetik a Szahara titkait.",
+      "facts": ["Erg Chebbi dűnék", "Tevegelés", "Sivatagi kaland", "Csillagnézés"]
+    },
+    {
+      "id": "sebkha-tindouf-lake-nature-v2",
+      "description": "Egy sós tó és időszakos vizes élőhely a sivatagi régióban.",
+      "facts": ["Sós tó", "Vizes élőhely", "Sivatagi ökoszisztéma", "Időszakos vízfelület"]
+    },
+    {
+      "id": "rif-mountains-nature-v2",
+      "description": "A Rif-hegység zöldellő hegyvonulatai, amelyek gazdag élővilágnak adnak otthont.",
+      "facts": ["Észak-Marokkó", "Hegyi erdők", "Biodiverzitás", "Kanyargós utak"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "Lenyűgöző mesterséges tó az Atlasz-hegységben, ideális vízi tevékenységekhez.",
+      "facts": ["Víztározó", "Atlasz-hegység", "Vízi turizmus", "Horgászhely"]
+    },
+    {
+      "id": "oued-noun-nature-v2",
+      "description": "Az Oued Noun folyó völgye, amely a sivatag és a tengerpart közötti átmeneti zóna.",
+      "facts": ["Folyóvölgy", "Sivatagi növényzet", "Migrációs folyosó", "Geológiai diverzitás"]
+    },
+    {
+      "id": "oued-sakia-el-hamra-nature-v2",
+      "description": "A Sakia el-Hamra vádija, amely fontos vízgyűjtő terület a déli régióban.",
+      "facts": ["Időszakos folyó", "Vízgyűjtő", "Sivatagi táj", "Geológiai formáció"]
+    }
+  ]
+}

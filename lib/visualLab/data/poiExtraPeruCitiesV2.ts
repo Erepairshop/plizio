@@ -32,7 +32,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Founded in 1535 by Francisco Pizarro.", "Has over 9 million inhabitants."]
     },
     factsAdvanced: {
-      de: ["Gegründet 1535 von Francisco Pizarro.", "Über 9 Millionen Einwohner.", "Die Hauptstadt und größte Stadt Perus.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Die Hauptstadt und größte Stadt Perus.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Lima történelmi központja 1988 óta az UNESCO Világörökség része.",
         "A város egy sivatagi régióban helyezkedik el, de a magas páratartalom miatt az 'Örök Köd Városának' is nevezik.",
@@ -77,7 +77,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Surrounded by volcanoes like El Misti.", "Second largest city in Peru."]
     },
     factsAdvanced: {
-      de: ["Umgeben von Vulkanen wie dem Misti.", "Zweitgrößte Stadt in Peru.", "Bekannt als die 'Weiße Stadt'.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Bekannt als die 'Weiße Stadt'.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Arequipa történelmi központja 2000 óta az UNESCO Világörökség része.",
         "A város nevét, a 'Fehér Várost', az épületeihez használt fehér vulkanikus kőről kapta.",
@@ -122,7 +122,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["The ruins of Chan Chan are nearby.", "Known for its spring festival."]
     },
     factsAdvanced: {
-      de: ["Die Ruinen von Chan Chan liegen nahe.", "Bekannt für den Frühlingsfest.", "Zentrum der Chimú-Kultur in Nordperu.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Zentrum der Chimú-Kultur in Nordperu.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Chan Chan a Chimú Birodalom fővárosa volt, és a világ legnagyobb vályogtéglából épült városa.",
         "A Huaca del Sol és a Huaca de la Luna jelentős szertartási központok voltak a Moche kultúra számára.",
@@ -167,7 +167,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Near the tomb of the Lord of Sipán.", "An important commercial hub."]
     },
     factsAdvanced: {
-      de: ["Nahe dem Grab des Herrn von Sipán.", "Wichtiger Handelsknotenpunkt.", "Hauptstadt der Region Lambayeque.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Hauptstadt der Region Lambayeque.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Sipán urának sírját 1987-ben fedezték fel, és a 20. század egyik legfontosabb régészeti leletének tekintik.",
         "Chiclayót a 'Barátság Városaként' emlegetik lakóinak vendégszerető természete miatt.",
@@ -212,7 +212,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Known for warm climate and beaches.", "Important agricultural region."]
     },
     factsAdvanced: {
-      de: ["Bekannt für warmes Klima und Strände.", "Wichtige landwirtschaftliche Region.", "Eine der ältesten spanischen Städte Südamerikas.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Eine der ältesten spanischen Städte Südamerikas.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Piura volt az első spanyolok által alapított város Dél-Amerikában, amelyet Francisco Pizarro hozott létre 1532-ben.",
         "A régió híres kiváló minőségű gyapottermeléséről és trópusi gyümölcseiről, mint például a mangó.",
@@ -257,7 +257,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Accessible only by boat or airplane.", "Important ecotourism center."]
     },
     factsAdvanced: {
-      de: ["Nur per Boot oder Flugzeug erreichbar.", "Wichtiges Zentrum für Ökotourismus.", "Die größte Stadt im peruanischen Amazonasgebiet.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Die größte Stadt im peruanischen Amazonasgebiet.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Iquitos a világ legnagyobb városa, amely közúton nem érhető el, csak hajóval vagy repülőgéppel közelíthető meg.",
         "A város jelentős szerepet játszott a gumiüzletágban a 20. század elején, ami hatalmas gazdagságot és egyedi építészetet hozott.",
@@ -302,7 +302,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["UNESCO World Heritage site since 1983.", "Starting point for Machu Picchu."]
     },
     factsAdvanced: {
-      de: ["UNESCO-Weltkulturerbe seit 1983.", "Ausgangspunkt nach Machu Picchu.", "Ehemalige Hauptstadt des Inkareiches.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Ehemalige Hauptstadt des Inkareiches.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Cusco az Inka Birodalom fővárosa volt, amely a legnagyobb birodalom volt a prekolumbián Amerikában.",
         "A város körülbelül 3400 méter tengerszint feletti magasságban fekszik.",
@@ -347,7 +347,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Main center of the Peruvian steel industry.", "Located in the Ancash region."]
     },
     factsAdvanced: {
-      de: ["Hauptzentrum der peruanischen Stahlindustrie.", "Liegt in der Region Ancash.", "Wichtiger Fischereihafen in Peru.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Wichtiger Fischereihafen in Peru.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Chimbotét a világ egyik legnagyobb halászkikötőjeként tartják számon, amely kritikus szerepet játszik a perui hal- és halászati iparban.",
         "A város gyors növekedést tapasztalt a 20. század közepén a jelentős acél- és halásüzemek létrehozása miatt.",
@@ -392,7 +392,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Known for its Sunday market.", "Located over 3,200 meters above sea level."]
     },
     factsAdvanced: {
-      de: ["Bekannt für den Sonntagsmarkt.", "Liegt auf über 3.200 Metern Höhe.", "Kulturelles Zentrum im zentralen Hochland.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Kulturelles Zentrum im zentralen Hochland.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Huancayo híres a Vasárnapi Piacról, amelyet az Andok egyik legélénkebb és legnagyobb piacának tartanak.",
         "A város körülbelül 3250 méteres magasságban fekszik a termékeny Mantaro-völgyben.",
@@ -437,7 +437,7 @@ export const poiExtraPeruCitiesV2: POI[] = [
       en: ["Considered the 'Heroic City' of Peru.", "Important free trade zone."]
     },
     factsAdvanced: {
-      de: ["Gilt als die 'Heldenstadt' Perus.", "Wichtige Freihandelszone.", "Grenzstadt zu Chile im Süden Perus.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Grenzstadt zu Chile im Süden Perus.", "Liegt auf dem Gebiet der Republik Peru.", "Eingebettet zwischen Andenkordillere, Küstenwüste und Amazonasbecken.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: [
         "Tacnát Peru 'Hősvárosának' nevezik, tisztelegve a 19. századi Csendes-óceáni háború alatti hazafias ellenállása előtt.",
         "A város jelentős szabadkereskedelmi övezetként működik, sok látogatót vonzva a kereskedelem céljából.",

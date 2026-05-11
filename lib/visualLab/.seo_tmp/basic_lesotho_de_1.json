@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mohales-hoek-cities-v2",
+      "description": "Mohale's Hoek ist der Hauptort des gleichnamigen Distrikts im Südwesten von Lesotho. Die Stadt liegt in einer malerischen Hügellandschaft und dient als wichtiges Handelszentrum der Region.",
+      "facts": ["Hauptstadt des Distrikts Mohale's Hoek", "Liegt im Südwesten Lesothos", "Wichtiges regionales Handelszentrum", "Umgeben von markanten Sandsteinbergen"]
+    },
+    {
+      "id": "qachas-nek-cities-v2",
+      "description": "Qacha's Nek ist eine strategisch wichtige Grenzstadt im Südosten von Lesotho, nahe der Grenze zu Südafrika. Sie ist bekannt für ihre raue Berglandschaft und als Tor zu den südlichen Highlands.",
+      "facts": ["Hauptstadt des Distrikts Qacha's Nek", "Grenzstadt zu Südafrika", "Liegt in den südlichen Highlands", "Bekannt für dramatische Bergpässe"]
+    },
+    {
+      "id": "peka-cities-v2",
+      "description": "Peka ist eine Siedlung im Distrikt Leribe, die verkehrsgünstig an der Hauptstraße nach Norden liegt. Der Ort ist bekannt für seine Grenzübergangsstelle nach Südafrika.",
+      "facts": ["Liegt im Distrikt Leribe", "Wichtiger Grenzübergang", "An der Hauptstraße A1 gelegen", "Regionales Versorgungszentrum"]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "description": "Tsakholo ist eine ländliche Gemeinde im Distrikt Mafeteng, die für ihre landwirtschaftliche Bedeutung bekannt ist. Die Region ist geprägt von weiten Ebenen und traditionellen Siedlungen.",
+      "facts": ["Gemeinde im Distrikt Mafeteng", "Landwirtschaftlich geprägte Region", "Traditionelle Basotho-Siedlungen", "Liegt im Westen des Landes"]
+    },
+    {
+      "id": "makhonoane-cities-v2",
+      "description": "Makhonoane ist ein kleinerer Ort im Norden von Lesotho, der inmitten einer beeindruckenden Gebirgslandschaft liegt. Die Region bietet Einblicke in das traditionelle Leben in den Highlands.",
+      "facts": ["Ort im nördlichen Lesotho", "Umgeben von Hochgebirge", "Traditionelle Lebensweise", "Nahe der südafrikanischen Grenze"]
+    },
+    {
+      "id": "mphaki-cities-v2",
+      "description": "Mphaki ist eine Siedlung im Distrikt Quthing, die für ihre Lage in den südlichen Ausläufern der Maloti-Berge bekannt ist. Es ist ein wichtiger Haltepunkt für Reisende in den Südosten.",
+      "facts": ["Liegt im Distrikt Quthing", "In den Maloti-Bergen gelegen", "Wichtiger Verkehrsknotenpunkt im Süden", "Bekannt für Viehzucht"]
+    },
+    {
+      "id": "sekake-cities-v2",
+      "description": "Sekake ist ein Dorf im Distrikt Qacha's Nek, das tief in den Bergen Lesothos liegt. Der Ort verfügt über einen kleinen Flugplatz, der für die Erreichbarkeit der abgelegenen Region wichtig ist.",
+      "facts": ["Dorf im Distrikt Qacha's Nek", "Besitzt einen kleinen Flugplatz", "Sehr abgelegene Gebirgslage", "Wichtig für die lokale Infrastruktur"]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "description": "Ha Lejone ist ein malerisches Dorf am Ufer des Katse-Stausees in den Maloti-Bergen. Es ist ein beliebtes Ziel für Touristen, die die beeindruckende Ingenieurskunst des Staudamms bewundern wollen.",
+      "facts": ["Am Katse-Stausee gelegen", "In den zentralen Maloti-Bergen", "Beliebtes Touristenziel", "Spektakuläre Aussichtspunkte"]
+    },
+    {
+      "id": "katse-cities-v2",
+      "description": "Katse ist vor allem für die Katse-Talsperre bekannt, die eine der höchsten Talsperren Afrikas ist. Die Siedlung entstand ursprünglich für die Arbeiter des riesigen Wasserprojekts.",
+      "facts": ["Standort der Katse-Talsperre", "Teil des Highlands Water Project", "Höchste Talsperre Afrikas", "Zentrum für technische Besichtigungen"]
+    },
+    {
+      "id": "thaba-bosiu-cities-v2",
+      "description": "Thaba-Bosiu ist das nationale Heiligtum von Lesotho und der Geburtsort der Nation. Auf diesem Sandsteinplateau errichtete König Moshoeshoe I. seine Festung.",
+      "facts": ["Nationales Denkmal Lesothos", "Historische Festung von Moshoeshoe I.", "Heiliger Berg der Basotho", "Bedeutendste historische Stätte"]
+    }
+  ]
+}

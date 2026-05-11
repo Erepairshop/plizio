@@ -1,0 +1,72 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"],
+  "items": [
+    {
+      "id": "mansoa-mission-history-v2",
+      "descriptionAdvancedDe": "Die katholische Mission von Mansôa, gegründet im frühen 20. Jahrhundert, war mehr als nur ein religiöses Zentrum; sie war ein Motor für Bildung und sozialen Wandel in der Region Oio. In einer Zeit, in der der Zugang zu formaler Bildung begrenzt war, boten die Missionare Unterricht und berufliche Ausbildung an und trugen so zur Entwicklung einer lokalen Elite bei. Die Architektur der Missionsgebäude im Kolonialstil ist gut erhalten und zeugt von der dauerhaften Präsenz der Kirche. Die Mission spielte eine komplexe Rolle, indem sie einerseits europäische Kultur verbreitete, andererseits aber auch einen Raum für die Bewahrung lokaler Traditionen bot. Sie bleibt ein wichtiges historisches und spirituelles Wahrzeichen in Mansôa.",
+      "descriptionAdvancedHu": "A 20. század elején alapított Mansôa-i katolikus misszió több volt, mint egy vallási központ; az Oio régió oktatásának és társadalmi változásainak motorja volt. Egy olyan időszakban, amikor a formális oktatáshoz való hozzáférés korlátozott volt, a misszionáriusok oktatást és szakmai képzést nyújtottak, hozzájárulva a helyi elit kialakulásához. A gyarmati stílusú missziós épületek építészete jól megőrződött, és tanúskodik az egyház tartós jelenlétéről. A misszió összetett szerepet játszott, egyrészt az európai kultúrát terjesztette, másrészt teret adott a helyi hagyományok megőrzésének is. Továbbra is fontos történelmi és spirituális nevezetessége Mansôa városának.",
+      "descriptionAdvancedRo": "Misiunea catolică din Mansôa, fondată la începutul secolului al XX-lea, a fost mai mult decât un centru religios; a fost un motor pentru educație și schimbare socială în regiunea Oio. Într-o perioadă în care accesul la educația formală era limitat, misionarii ofereau instruire și formare profesională, contribuind la dezvoltarea unei elite locale. Arhitectura clădirilor misiunii, în stil colonial, este bine conservată și mărturisește prezența de durată a bisericii. Misiunea a jucat un rol complex, pe de o parte răspândind cultura europeană, iar pe de altă parte oferind un spațiu pentru conservarea tradițiilor locale. Rămâne un important punct de reper istoric și spiritual în Mansôa.",
+      "descriptionAdvancedEn": "The Catholic Mission of Mansôa, founded in the early 20th century, was more than just a religious center; it was an engine for education and social change in the Oio region. At a time when access to formal education was limited, the missionaries provided instruction and vocational training, contributing to the development of a local elite. The colonial-style architecture of the mission buildings is well-preserved and testifies to the lasting presence of the church. The mission played a complex role, on the one hand spreading European culture, and on the other providing a space for the preservation of local traditions. It remains an important historical and spiritual landmark in Mansôa.",
+      "factsAdvanced": [
+        "Gründung im frühen 20. Jahrhundert.",
+        "Wichtiges Bildungszentrum in der Region Oio.",
+        "Architektur im portugiesischen Kolonialstil.",
+        "Spielte eine Schlüsselrolle bei der Alphabetisierung.",
+        "Kulturelles und soziales Zentrum der Stadt Mansôa.",
+        "Die Mission ist bis heute aktiv.",
+        "Zeugnis der Geschichte der Christianisierung in Guinea-Bissau."
+      ]
+    },
+    {
+      "id": "canchungo-historic-site-history-v2",
+      "descriptionAdvancedDe": "Canchungo, das während der Kolonialzeit als Teixeira Pinto bekannt war, ist eine Stadt mit tiefen historischen Wurzeln in der Region Cacheu. Sie war nicht nur ein wichtiges Verwaltungszentrum der Portugiesen, sondern auch das Herzland des Manjaco-Volkes, das für seine komplexen sozialen Strukturen und seine reiche Kultur bekannt ist. Die Stadt war Schauplatz wichtiger Verhandlungen zwischen den Kolonialherren und lokalen Führern. Die Architektur der Stadt, eine Mischung aus Kolonialbauten und traditionellen Manjaco-Strukturen, erzählt die Geschichte dieser Interaktion. Canchungo ist heute ein lebendiges Zentrum, das sein einzigartiges kulturelles Erbe pflegt, insbesondere die berühmten Holzschnitzereien und Webereien der Manjaco.",
+      "descriptionAdvancedHu": "Canchungo, a gyarmati korban Teixeira Pinto néven ismert, mély történelmi gyökerekkel rendelkező város a Cacheu régióban. Nemcsak a portugálok fontos közigazgatási központja volt, hanem a manjaco nép központi területe is, amely összetett társadalmi struktúráiról és gazdag kultúrájáról ismert. A város fontos tárgyalások helyszíne volt a gyarmatosítók és a helyi vezetők között. A város építészete, a gyarmati épületek és a hagyományos manjaco struktúrák keveréke, ennek a kölcsönhatásnak a történetét meséli el. Canchungo ma egy élénk központ, amely ápolja egyedülálló kulturális örökségét, különösen a manjacók híres fafaragásait és szöveteit.",
+      "descriptionAdvancedRo": "Canchungo, cunoscut sub numele de Teixeira Pinto în perioada colonială, este un oraș cu rădăcini istorice adânci în regiunea Cacheu. Nu a fost doar un important centru administrativ pentru portughezi, ci și inima poporului Manjaco, cunoscut pentru structurile sale sociale complexe și cultura sa bogată. Orașul a fost scena unor negocieri importante între conducătorii coloniali și liderii locali. Arhitectura orașului, un amestec de clădiri coloniale și structuri tradiționale Manjaco, spune povestea acestei interacțiuni. Canchungo este astăzi un centru vibrant care își cultivă moștenirea culturală unică, în special faimoasele sculpturi în lemn și țesături ale poporului Manjaco.",
+      "descriptionAdvancedEn": "Canchungo, known as Teixeira Pinto during the colonial era, is a town with deep historical roots in the Cacheu region. It was not only an important administrative center for the Portuguese, but also the heartland of the Manjaco people, known for their complex social structures and rich culture. The town was the scene of important negotiations between the colonial rulers and local leaders. The town's architecture, a mixture of colonial buildings and traditional Manjaco structures, tells the story of this interaction. Today, Canchungo is a vibrant center that nurtures its unique cultural heritage, especially the famous wood carvings and weavings of the Manjaco people.",
+      "factsAdvanced": [
+        "Ehemaliger Name: Vila Teixeira Pinto.",
+        "Wichtiges Zentrum des Manjaco-Volkes.",
+        "Bekannt für seine traditionelle Weberei und Holzschnitzerei.",
+        "Koloniales Verwaltungszentrum für die Region Cacheu.",
+        "Ort des Austauschs zwischen portugiesischer und Manjaco-Kultur.",
+        "Die Stadtplanung zeigt noch koloniale Züge.",
+        "Ein Zentrum des Widerstands und der kulturellen Beharrlichkeit."
+      ]
+    },
+    {
+      "id": "bafata-colonial-quarter-history-v2",
+      "descriptionAdvancedDe": "Ein Spaziergang durch das Kolonialviertel von Bafatá ist wie eine Zeitreise. Als zweitgrößte Stadt des Landes und Geburtsort von Amílcar Cabral hat Bafatá eine besondere historische Aura. Das Viertel am Ufer des Rio Geba besticht durch seine gut erhaltenen Kolonialgebäude mit pastellfarbenen Fassaden, schmiedeeisernen Balkonen und schattigen Veranden. Diese Gebäude waren einst die Residenzen portugiesischer Händler und Verwaltungsbeamter. Im Gegensatz zum hektischen Bissau bewahrt Bafatá eine ruhige, fast verschlafene Atmosphäre, die es Besuchern ermöglicht, die Ästhetik und den Lebensstil der Kolonialzeit nachzuempfinden. Das Viertel ist ein schönes Beispiel für portugiesische Provinzarchitektur in einem westafrikanischen Kontext.",
+      "descriptionAdvancedHu": "Egy séta Bafatá gyarmati negyedében olyan, mint egy időutazás. Az ország második legnagyobb városaként és Amílcar Cabral szülőhelyeként Bafatá különleges történelmi aurával rendelkezik. A Rio Geba partján fekvő negyed lenyűgöz pasztellszínű homlokzatú, kovácsoltvas erkélyes és árnyékos verandás, jó állapotban megőrzött gyarmati épületeivel. Ezek az épületek egykor portugál kereskedők és közigazgatási tisztviselők rezidenciái voltak. A nyüzsgő Bissauval ellentétben Bafatá egy csendes, szinte álmos hangulatot őriz, amely lehetővé teszi a látogatók számára, hogy átérezzék a gyarmati korszak esztétikáját és életstílusát. A negyed a portugál provinciális építészet szép példája nyugat-afrikai kontextusban.",
+      "descriptionAdvancedRo": "O plimbare prin cartierul colonial din Bafatá este ca o călătorie în timp. Fiind al doilea oraș ca mărime din țară și locul de naștere al lui Amílcar Cabral, Bafatá are o aură istorică specială. Cartierul de pe malurile râului Geba impresionează prin clădirile sale coloniale bine conservate, cu fațade în culori pastelate, balcoane din fier forjat și verande umbroase. Aceste clădiri au fost odată reședințele comercianților și funcționarilor administrativi portughezi. Spre deosebire de agitatul Bissau, Bafatá păstrează o atmosferă liniștită, aproape adormită, care permite vizitatorilor să retrăiască estetica și stilul de viață al epocii coloniale. Cartierul este un frumos exemplu de arhitectură provincială portugheză într-un context vest-african.",
+      "descriptionAdvancedEn": "A walk through the colonial quarter of Bafatá is like a journey back in time. As the country's second-largest city and the birthplace of Amílcar Cabral, Bafatá has a special historical aura. The quarter on the banks of the Rio Geba captivates with its well-preserved colonial buildings with pastel-colored facades, wrought-iron balconies, and shady verandas. These buildings were once the residences of Portuguese traders and administrative officials. In contrast to bustling Bissau, Bafatá preserves a quiet, almost sleepy atmosphere that allows visitors to relive the aesthetics and lifestyle of the colonial era. The quarter is a fine example of Portuguese provincial architecture in a West African context.",
+      "factsAdvanced": [
+        "Geburtsstadt des Nationalhelden Amílcar Cabral (1924).",
+        "Wichtiger Handelsposten am Rio Geba.",
+        "Architektur mit pastellfarbenen Fassaden und Arkaden.",
+        "Erhält die Atmosphäre einer portugiesischen Provinzstadt.",
+        "Zentrum des Handels mit dem Landesinneren.",
+        "Die Kopfsteinpflasterstraßen tragen zum historischen Charme bei.",
+        "Ein Kontrast zur moderneren Hauptstadt Bissau."
+      ]
+    },
+    {
+      "id": "farim-historic-town-history-v2",
+      "descriptionAdvancedDe": "Farim, im Norden Guinea-Bissaus am Rio Cacheu gelegen, wurde 1641 von den Portugiesen als befestigter Posten (Presidio) gegründet. Sein Hauptzweck war die Sicherung der Handelsrouten ins Landesinnere und die Abwehr von Angriffen rivalisierender lokaler Königreiche. Der Name 'Farim' leitet sich vom Titel der lokalen Mandinka-Herrscher ab. Über die Jahrhunderte entwickelte sich die Stadt zu einem wichtigen Zentrum für den Handel mit Erdnüssen, Häuten und Wachs. Die strategische Lage am Fluss machte sie zu einem natürlichen Binnenhafen. Obwohl viele historische Gebäude verfallen sind, zeugen das Stadtlayout und einige erhaltene Bauten noch immer von der langen und ereignisreichen Geschichte Farims als Schmelztiegel der Kulturen und als wichtiger Vorposten des portugiesischen Kolonialreichs.",
+      "descriptionAdvancedHu": "Az Bissau-Guinea északi részén, a Cacheu folyó mellett fekvő Farimot 1641-ben alapították a portugálok megerősített állomásként (presidio). Fő célja a belső területekre vezető kereskedelmi útvonalak biztosítása és a rivális helyi királyságok támadásainak elhárítása volt. A 'Farim' név a helyi mandinka uralkodók címéből származik. Az évszázadok során a város a földimogyoró-, bőr- és viaszkereskedelem fontos központjává fejlődött. Stratégiai fekvése a folyó mentén természetes belvízi kikötővé tette. Bár sok történelmi épület elpusztult, a város elrendezése és néhány megmaradt épület még mindig tanúskodik Farim hosszú és eseménydús történelméről, mint a kultúrák olvasztótégelyéről és a portugál gyarmatbirodalom fontos előőrséről.",
+      "descriptionAdvancedRo": "Farim, situat în nordul Guineei-Bissau, pe râul Cacheu, a fost fondat în 1641 de către portughezi ca post fortificat (presidio). Scopul său principal era securizarea rutelor comerciale către interior și apărarea împotriva atacurilor regatelor locale rivale. Numele 'Farim' derivă din titlul conducătorilor locali Mandinka. De-a lungul secolelor, orașul s-a dezvoltat într-un centru important pentru comerțul cu arahide, piei și ceară. Poziția sa strategică pe râu l-a transformat într-un port fluvial natural. Deși multe clădiri istorice sunt în ruină, planul orașului și unele structuri conservate încă mărturisesc istoria lungă și plină de evenimente a lui Farim, ca un creuzet de culturi și un avanpost important al imperiului colonial portughez.",
+      "descriptionAdvancedEn": "Farim, located in northern Guinea-Bissau on the Cacheu River, was founded in 1641 by the Portuguese as a fortified post (presidio). Its main purpose was to secure trade routes to the interior and to defend against attacks from rival local kingdoms. The name 'Farim' is derived from the title of the local Mandinka rulers. Over the centuries, the city developed into an important center for trade in peanuts, hides, and wax. Its strategic location on the river made it a natural inland port. Although many historic buildings are in disrepair, the town's layout and some preserved structures still bear witness to Farim's long and eventful history as a melting pot of cultures and an important outpost of the Portuguese colonial empire.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1641 als portugiesisches Presidio.",
+        "Der Name stammt vom Mandinka-Titel 'Farim' (Herrscher).",
+        "Strategische Lage am schiffbaren Rio Cacheu.",
+        "Historisches Zentrum für den Handel mit dem Senegal und Gambia.",
+        "War ein wichtiger Militärposten während des Befreiungskrieges.",
+        "Umgeben von Tabancas (traditionellen Dörfern).",
+        "Die Bevölkerung ist überwiegend Mandinka und Fulbe."
+      ]
+    }
+  ]
+}

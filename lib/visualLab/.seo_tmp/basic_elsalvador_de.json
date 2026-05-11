@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soyapango-cities-v2",
+      "description": "Soyapango ist eine pulsierende Industriestadt in der Metropolregion San Salvador und gilt als eines der wichtigsten Wirtschaftszentren des Landes.",
+      "facts": [
+        "Eine der am dichtesten besiedelten Städte El Salvadors.",
+        "Bedeutendes Zentrum für Industrie und Handel.",
+        "Teil des Ballungsraums der Hauptstadt San Salvador.",
+        "Wichtiger Knotenpunkt für den nationalen Warenverkehr."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "lang": "de",
+  "country": "Taiwan",
+  "files": [
+    "lib/visualLab/data/poiExtraTaiwanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanLifeV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nantou-cities-v2",
+      "description": "Nantou ist die einzige Stadt in Taiwan ohne Zugang zum Meer und dient als wichtiges Zentrum für Bergregionen.",
+      "facts": ["Binnenstadt in Zentral-Taiwan", "Tor zum Sun Moon Lake", "Berühmter Tee-Anbau"]
+    },
+    {
+      "id": "puzi-cities-v2",
+      "description": "Puzi ist eine Stadt im Landkreis Chiayi, die historisch eng mit der lokalen Landwirtschaft und religiösen Festen verbunden ist.",
+      "facts": ["Stadt im Landkreis Chiayi", "Bekannt für den Puzi-Tempel", "Landwirtschaftliche Prägung"]
+    },
+    {
+      "id": "huwei-cities-v2",
+      "description": "Huwei liegt im Landkreis Yunlin und ist bekannt für seine Zuckerindustrie-Geschichte und das Puppentheater-Museum.",
+      "facts": ["Zentrum des Puppentheaters", "Einstige Zucker-Hauptstadt", "Landkreis Yunlin"]
+    },
+    {
+      "id": "qingjing-farm-life-v2",
+      "description": "Die Qingjing-Farm ist ein beliebtes Ausflugsziel in den Bergen, bekannt für ihre weiten Weiden und kühles Klima.",
+      "facts": ["Auf 1750 Metern Höhe", "Schweizer Stil Architektur", "Beliebt bei Wanderern"]
+    },
+    {
+      "id": "xueshan-relief-v2",
+      "description": "Der Xueshan ist mit 3886 Metern der zweithöchste Berg Taiwans und ein Ziel für erfahrene Alpinisten.",
+      "facts": ["Zweithöchster Berg Taiwans", "Teil des Shei-Pa-Nationalparks", "Zentrales Gebirge"]
+    },
+    {
+      "id": "qixingshan-relief-v2",
+      "description": "Der Qixingshan ist ein erloschener Vulkan im Yangmingshan-Nationalpark und der höchste Gipfel im Becken von Taipeh.",
+      "facts": ["Höchster Punkt in Taipeh", "Ehemaliger Vulkan", "Bekannt für Fumarolen"]
+    }
+  ]
+}

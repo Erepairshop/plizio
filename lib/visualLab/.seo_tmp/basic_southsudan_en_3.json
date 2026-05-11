@@ -1,0 +1,114 @@
+{
+  "lang": "en",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "adar-yale-oil-field-economic-v2",
+      "description": "A major oil field located in the northern region, representing a critical component of the national economy.",
+      "facts": ["Northern oil field", "Key economic asset", "Resource extraction center", "Industrial infrastructure"]
+    },
+    {
+      "id": "fort-berkeley-history-v2",
+      "description": "An early colonial-era trading post established on the White Nile during the late 19th century.",
+      "facts": ["White Nile post", "Late 19th-century origin", "Historical trading station", "Colonial era remnant"]
+    },
+    {
+      "id": "taufikia-military-history-v2",
+      "description": "A significant military and administrative outpost from the Anglo-Egyptian Sudan era along the White Nile.",
+      "facts": ["White Nile outpost", "Anglo-Egyptian era", "Administrative history", "Military significance"]
+    },
+    {
+      "id": "old-fangak-history-v2",
+      "description": "A long-established riverside community that has served as a central transit point for generations.",
+      "facts": ["Riverside settlement", "Regional transit hub", "Deep historical roots", "Traditional riverine culture"]
+    },
+    {
+      "id": "kaka-nile-port-history-v2",
+      "description": "A historic port city on the Nile, once vital for riverborne commerce and regional communication.",
+      "facts": ["Nile river port", "Historical commerce hub", "Regional communication point", "River transport legacy"]
+    },
+    {
+      "id": "kayala-battle-site-history-v2",
+      "description": "A site of historical importance marking a significant engagement in the regional struggles for independence.",
+      "facts": ["Independence era site", "Historical engagement location", "Regional memory site", "Political landmark"]
+    },
+    {
+      "id": "mongalla-provincial-capital-history-v2",
+      "description": "Formerly an important provincial capital during the colonial period, situated along the White Nile.",
+      "facts": ["Former provincial capital", "Colonial period seat", "White Nile location", "Administrative historical center"]
+    },
+    {
+      "id": "juba-stadium-landmarks-v2",
+      "description": "The national stadium located in Juba, serving as a primary venue for major sports and public events.",
+      "facts": ["Juba national stadium", "Primary sports venue", "Major event space", "Public assembly site"]
+    },
+    {
+      "id": "freedom-bridge-juba-landmarks-v2",
+      "description": "A modern bridge over the White Nile in Juba, symbolising connectivity and infrastructure development.",
+      "facts": ["Modern White Nile bridge", "Juba infrastructure", "Symbol of connectivity", "Regional transport link"]
+    },
+    {
+      "id": "all-saints-cathedral-juba-landmarks-v2",
+      "description": "A prominent religious landmark in Juba, reflecting the architectural and spiritual life of the city.",
+      "facts": ["Juba religious center", "Prominent architecture", "Spiritual landmark", "Central city location"]
+    },
+    {
+      "id": "john-garang-memorial-university-bor-landmarks-v2",
+      "description": "A major educational institution in Bor, dedicated to the memory of the founding leader of South Sudan.",
+      "facts": ["Bor educational center", "Memorial institution", "Higher education hub", "Regional intellectual center"]
+    },
+    {
+      "id": "malakal-stadium-landmarks-v2",
+      "description": "A regional sports facility in Malakal, catering to the local community's recreational needs.",
+      "facts": ["Malakal sports facility", "Regional recreational hub", "Community event space", "Local sports center"]
+    },
+    {
+      "id": "malakal-vocational-center-landmarks-v2",
+      "description": "A specialized training facility in Malakal focused on enhancing practical skills for the local workforce.",
+      "facts": ["Malakal training center", "Practical skill development", "Vocational education hub", "Workforce support"]
+    },
+    {
+      "id": "rumbek-stadium-landmarks-v2",
+      "description": "A primary athletic ground in Rumbek, supporting regional sports development and community engagement.",
+      "facts": ["Rumbek sports center", "Athletic ground", "Regional engagement site", "Community gathering place"]
+    },
+    {
+      "id": "christ-the-king-cathedral-yei-landmarks-v2",
+      "description": "A notable spiritual center and architectural landmark in the town of Yei.",
+      "facts": ["Yei spiritual landmark", "Architectural center", "Community faith site", "Regional landmark"]
+    },
+    {
+      "id": "torit-stadium-landmarks-v2",
+      "description": "A local sports and gathering facility serving the community in Torit.",
+      "facts": ["Torit sports facility", "Gathering place", "Community sports site", "Local landmark"]
+    },
+    {
+      "id": "aweil-stadium-landmarks-v2",
+      "description": "A key sports venue in Aweil, supporting athletic activities for the surrounding region.",
+      "facts": ["Aweil sports venue", "Regional athletics site", "Community landmark", "Local sports center"]
+    },
+    {
+      "id": "kuajok-stadium-landmarks-v2",
+      "description": "A prominent public sports venue in Kuajok, serving as a hub for regional athletic and social events.",
+      "facts": ["Kuajok sports hub", "Regional social venue", "Public athletic center", "Local landmark"]
+    },
+    {
+      "id": "bentiu-stadium-landmarks-v2",
+      "description": "A significant local sports arena in Bentiu, supporting community activities and athletic development.",
+      "facts": ["Bentiu sports arena", "Athletic development site", "Local landmark", "Community event venue"]
+    },
+    {
+      "id": "old-juba-bridge-landmarks-v2",
+      "description": "A historical bridge structure crossing the White Nile in Juba, marking a significant period of city development.",
+      "facts": ["Historic bridge structure", "White Nile crossing", "City development marker", "Historical landmark"]
+    }
+  ]
+}

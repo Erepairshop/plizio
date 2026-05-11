@@ -1,0 +1,82 @@
+{
+  "lang": "hu",
+  "country": "Swaziland",
+  "files": [
+    "lib/visualLab/data/poiExtraSwazilandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandNatureV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "matsapha-cities-v2",
+      "description": "Swaziland legnagyobb ipari központja, amely az ország gazdasági szívében helyezkedik el. Fontos kereskedelmi csomópont Manzini közelében.",
+      "facts": ["Ipari központ", "Gazdasági szív", "Manzini mellett"]
+    },
+    {
+      "id": "silobela-cities-v2",
+      "description": "Kisebb település, amely a helyi mezőgazdasági régiók életében játszik szerepet. A környék hagyományos életmódjáról ismert.",
+      "facts": ["Mezőgazdasági régió", "Hagyományos életmód", "Kisebb település"]
+    },
+    {
+      "id": "granvalley-cities-v2",
+      "description": "Völgyi település, amely a mezőgazdasági termeléséről és az itt található kisebb közösségekről nevezetes.",
+      "facts": ["Völgyi elhelyezkedés", "Mezőgazdasági termelés", "Helyi közösség"]
+    },
+    {
+      "id": "nsoko-old-mill-history-v2",
+      "description": "A történelmi malom a környék mezőgazdasági múltjának és a cukornádipar fejlődésének emlékét őrzi.",
+      "facts": ["Történelmi malom", "Cukornádipar emléke", "Agrár múlt"]
+    },
+    {
+      "id": "mkondo-river-nature-v2",
+      "description": "Fontos vízfolyás, amely az ország déli részén biztosítja az ökoszisztémák és a mezőgazdasági földek vízellátását.",
+      "facts": ["Déli vízfolyás", "Ökoszisztéma támasz", "Vízellátás"]
+    },
+    {
+      "id": "bulunga-mountains-relief-v2",
+      "description": "Ez a hegyvonulat drámai látképet nyújt az ország középső vidékén, fontos szerepet játszva a régió vízgyűjtőjében.",
+      "facts": ["Középső hegyvonulat", "Drámai táj", "Vízgyűjtő"]
+    },
+    {
+      "id": "dlangeni-hills-relief-v2",
+      "description": "Dombokkal tarkított terület, amely a helyi biodiverzitásról és a magasabb tengerszint feletti fekvéséről ismert.",
+      "facts": ["Dombvidék", "Magas fekvés", "Biodiverzitás"]
+    },
+    {
+      "id": "makonjwa-mountains-relief-v2",
+      "description": "Geológiailag kiemelkedő hegylánc, amely a régió egyik legősibb kőzetformációival rendelkezik.",
+      "facts": ["Ősi kőzetek", "Hegylánc", "Geológiai jelentőség"]
+    },
+    {
+      "id": "middleveld-hills-relief-v2",
+      "description": "Az ország középső, dombos tájegysége, amely kedvező klimatikus viszonyai miatt mezőgazdaságilag intenzíven művelt.",
+      "facts": ["Középső táj", "Intenzív művelés", "Kedvező klíma"]
+    },
+    {
+      "id": "lowveld-plain-relief-v2",
+      "description": "Az ország alacsonyabban fekvő síksága, amely kiterjedt szavannás területeiről és gazdag vadvilágáról ismert.",
+      "facts": ["Alacsony síkság", "Szavannás terület", "Vadvilág"]
+    },
+    {
+      "id": "great-usutu-basin-relief-v2",
+      "description": "Az ország egyik legnagyobb folyómedencéje, amely alapvető fontosságú a mezőgazdaság és a vízgazdálkodás számára.",
+      "facts": ["Nagy folyómedence", "Vízgazdálkodás", "Agrár jelentőség"]
+    },
+    {
+      "id": "mhlambanyatsi-forest-relief-v2",
+      "description": "Kiterjedt erdős területek, amelyek nemcsak az ipari fakitermelésben, hanem a régió ökológiai egyensúlyában is kulcsszerepet töltenek be.",
+      "facts": ["Erdős terület", "Fakitermelés", "Ökológiai egyensúly"]
+    },
+    {
+      "id": "peak-fine-forest-relief-v2",
+      "description": "Hegyvidéki erdők, amelyek a változatos növényvilágukról és a meredek terepviszonyaikról ismertek.",
+      "facts": ["Hegyvidéki erdő", "Változatos növényzet", "Meredek terep"]
+    },
+    {
+      "id": "gege-forest-relief-v2",
+      "description": "Hűvösebb klímájú erdős tájegység, amely fontos szerepet játszik a környező vidék mikroklímájának szabályozásában.",
+      "facts": ["Hűvös klíma", "Mikroklíma szabályozó", "Erdős vidék"]
+    }
+  ]
+}

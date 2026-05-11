@@ -1,0 +1,24 @@
+{
+  "lang": "ro",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tabora-farmen-life-v2",
+      "description": "Fermele din Tabora sunt renumite pentru cultivarea tutunului și a plantelor de miere, profitând de condițiile climatice specifice regiunii centrale. Această zonă este un hub important pentru schimburile agricole.",
+      "facts": ["Centru de tutun", "Producție de miere", "Regiunea centrală", "Agricultură tradițională"]
+    },
+    {
+      "id": "katavi-wald-life-v2",
+      "description": "Pădurile din jurul Parcului Național Katavi oferă un habitat protejat pentru o mare varietate de specii sălbatice și sunt esențiale pentru echilibrul ecologic al zonei de vest a Tanzaniei.",
+      "facts": ["Ecosistem protejat", "Regiunea vestică", "Habitat divers", "Echilibru ecologic"]
+    },
+    {
+      "id": "mwanza-inseln-life-v2",
+      "description": "Insulele din Mwanza, situate pe Lacul Victoria, susțin activități de pescuit și agricultură pe scară mică, fiind vitale pentru comunitățile locale care depind de resursele acvatice.",
+      "facts": ["Lacul Victoria", "Pescuit local", "Agricultură pe insule", "Regiunea Mwanza"]
+    }
+  ]
+}

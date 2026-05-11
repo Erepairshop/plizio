@@ -1,0 +1,142 @@
+{
+  "lang": "de",
+  "country": "Haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haiti-fort-brossard-landmarks-v2",
+      "description": "Fort Brossard ist eine historische Festungsruine, die Teil des ausgedehnten Verteidigungsnetzwerks aus der Zeit nach der haitianischen Unabhängigkeit ist.",
+      "facts": [
+        "Militärposten zur Sicherung des Territoriums",
+        "Historisches Bauwerk aus Stein und Kalk",
+        "Teil der nationalen Verteidigungslinie",
+        "Strategischer Standort mit Fernsicht"
+      ]
+    },
+    {
+      "id": "haiti-place-toussaint-landmarks-v2",
+      "description": "Die Place Toussaint ist ein bedeutender öffentlicher Raum, der dem Nationalhelden Toussaint Louverture gewidmet ist.",
+      "facts": [
+        "Zentraler Platz mit Denkmalcharakter",
+        "Ort des Gedenkens an die Revolution",
+        "Treffpunkt für öffentliche Feierlichkeiten",
+        "Symbol für die Freiheit Haitis"
+      ]
+    },
+    {
+      "id": "haiti-fort-st-joseph-landmarks-v2",
+      "description": "Fort St-Joseph ist eine Küstenfestung, die den Eingang zur Bucht bewachte und heute ein wichtiges historisches Denkmal ist.",
+      "facts": [
+        "Ehemalige Verteidigungsanlage am Meer",
+        "Beispiel kolonialer Befestigungskunst",
+        "Wichtiger Punkt der lokalen Geschichte",
+        "Ruinen mit Blick auf das Karibische Meer"
+      ]
+    },
+    {
+      "id": "parc-miraculeux-pa-p-life-v2",
+      "description": "Der Parc Miraculeux in Port-au-Prince ist eine grüne Oase in der Hauptstadt, die Erholung und Raum für religiöse Andacht bietet.",
+      "facts": [
+        "Beliebter Park für Familienausflüge",
+        "Ort der Ruhe inmitten des Stadtverkehrs",
+        "Bekannt für seine spirituelle Atmosphäre",
+        "Grünfläche mit vielfältiger Vegetation"
+      ]
+    },
+    {
+      "id": "station-biologique-macaya-life-v2",
+      "description": "Die Biologische Station Macaya dient als Forschungszentrum für die einzigartige Artenvielfalt des Pic Macaya Nationalparks.",
+      "facts": [
+        "Zentrum für Naturschutz und Forschung",
+        "Lage im unberührten Nebelwald",
+        "Schutz von endemischen Tierarten",
+        "Wichtiger Stützpunkt für Ökologen"
+      ]
+    },
+    {
+      "id": "parc-enfants-jeremie-life-v2",
+      "description": "Der Parc pour Enfants in Jérémie ist ein beliebter Spielplatz und sozialer Treffpunkt für Familien in der Stadt der Dichter.",
+      "facts": [
+        "Öffentlicher Raum für Kinderfreizeit",
+        "Sicherer Spielbereich im Stadtzentrum",
+        "Treffpunkt für die lokale Gemeinschaft",
+        "Wichtige soziale Infrastruktur für Familien"
+      ]
+    },
+    {
+      "id": "plantation-cacao-grand-anse-life-v2",
+      "description": "Die Kakaoplantagen der Grand'Anse sind das Herzstück der haitianischen Schokoladenproduktion und bieten Einblicke in den traditionellen Anbau.",
+      "facts": [
+        "Hauptanbaugebiet für hochwertigen Kakao",
+        "Basis für den Export von Bio-Schokolade",
+        "Einblick in haitianische Landwirtschaft",
+        "Wichtige Erwerbsquelle für Kleinbauern"
+      ]
+    },
+    {
+      "id": "reserve-marine-cap-haitien-life-v2",
+      "description": "Das Meeresschutzgebiet von Cap-Haïtien schützt die empfindlichen Korallenriffe und die marine Fauna vor der Nordküste Haitis.",
+      "facts": [
+        "Schutz von küstennahen Ökosystemen",
+        "Förderung nachhaltiger Fischereipraktiken",
+        "Ideal für Schnorcheln und Tauchen",
+        "Wichtiger Beitrag zur marinen Biodiversität"
+      ]
+    },
+    {
+      "id": "centre-edu-agriculture-miragoane-life-v2",
+      "description": "Das Landwirtschaftliche Bildungszentrum in Miragoâne vermittelt modernes Wissen über nachhaltigen Anbau und Ernährungssicherheit.",
+      "facts": [
+        "Ausbildungsstätte für junge Landwirte",
+        "Fokus auf ökologische Anbaumethoden",
+        "Zentrum für landwirtschaftliche Innovation",
+        "Wichtiger Faktor für die regionale Entwicklung"
+      ]
+    },
+    {
+      "id": "parc-naturel-riviere-froide-life-v2",
+      "description": "Der Naturpark Rivière Froide ist bekannt für seine kühlen Quellen und üppigen Wälder, die Wanderer und Naturliebhaber anziehen.",
+      "facts": [
+        "Natürliche Flusslandschaft bei Carrefour",
+        "Beliebtes Ausflugsziel für Badegäste",
+        "Ort mit reicher tropischer Flora",
+        "Naherholungsgebiet für Port-au-Prince"
+      ]
+    },
+    {
+      "id": "parc-enfants-port-de-paix-life-v2",
+      "description": "Der Kinderpark von Port-de-Paix bietet den Jüngsten der Stadt einen Ort zum Spielen und Entdecken in einer sicheren Umgebung.",
+      "facts": [
+        "Zentraler Spielplatz der Hafenstadt",
+        "Förderung der frühkindlichen Bewegung",
+        "Sozialer Mittelpunkt für Eltern und Kinder",
+        "Wichtige Einrichtung im städtischen Norden"
+      ]
+    },
+    {
+      "id": "reserve-oiseaux-lac-peligre-life-v2",
+      "description": "Das Vogelschutzgebiet am Lac Péligre ist ein wichtiges Habitat für Zugvögel und ein Paradies für Vogelbeobachter.",
+      "facts": [
+        "Wasservogelreservat am Stausee",
+        "Wichtiger Rastplatz für Zugvögel",
+        "Zentrum für ornithologische Studien",
+        "Ruhiges Naturerlebnis im Landesinneren"
+      ]
+    },
+    {
+      "id": "jardin-ornemental-jeremie-life-v2",
+      "description": "Der Ziergarten von Jérémie ist eine liebevoll gepflegte Anlage, die die botanische Schönheit und Vielfalt der Region Grand'Anse zeigt.",
+      "facts": [
+        "Schauanlage für tropische Zierpflanzen",
+        "Ruhepol im städtischen Umfeld",
+        "Beispiel für lokale Gartenbaukunst",
+        "Ort für ästhetischen Naturgenuss"
+      ]
+    }
+  ]
+}

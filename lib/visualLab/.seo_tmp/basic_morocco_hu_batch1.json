@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ma-hassan-tower-history-v2",
+      "description": "A Hasszán-torony Rabatban a befejezetlen mecset minaretje, a 12. századi Almohad építészet lenyűgöző példája.",
+      "facts": ["Befejezetlen minaret", "Rabat", "Almohad építészet"]
+    },
+    {
+      "id": "ma-tinmal-mosque-history-v2",
+      "description": "A Tinmel Mecset az Atlasz-hegységben található, az Almohad-dinasztia építészeti csodája és történelmi helyszín.",
+      "facts": ["Atlasz-hegység", "Almohad-dinasztia", "Történelmi helyszín"]
+    },
+    {
+      "id": "ma-dar-al-makhzen-rabat-history-v2",
+      "description": "A Dar al-Makhzen Rabatban a marokkói király hivatalos rezidenciája, lenyűgöző iszlám építészettel.",
+      "facts": ["Királyi palota", "Rabat", "Iszlám építészet"]
+    },
+    {
+      "id": "marrakech-palmeraie-kid-landmark-life-v2",
+      "description": "Marrakesh pálmaligetje egy hatalmas oázis, ideális hely a tevegelésre és a pihenésre a város közelében.",
+      "facts": ["Pálmaliget", "Marrakesh", "Tevegelés"]
+    },
+    {
+      "id": "berkane-fruit-agriculture-life-v2",
+      "description": "Berkane régiója termékeny földjeiről és citrusfélék, különösen narancs és klementin termesztéséről híres.",
+      "facts": ["Termékeny régió", "Citrusfélék", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "meknes-zoo-kid-landmark-life-v2",
+      "description": "A Meknes-i Állatkert regionális és egzotikus állatokat mutat be, oktató jellegű élményt nyújtva a családoknak.",
+      "facts": ["Regionális és egzotikus állatok", "Meknes", "Oktató élmény"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "A marokkói Szahara a dromedár tevék természetes élőhelye, kulcsfontosságúak a sivatagi közlekedésben és a nomád életben.",
+      "facts": ["Dromedár tevék", "Sivatagi közlekedés", "Nomád élet"]
+    },
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "Az Oued Draa vizes élőhelyei fontos ökoszisztémát jelentenek a vonuló madarak és a helyi vadvilág számára Dél-Marokkóban.",
+      "facts": ["Vizes élőhelyek", "Vonuló madarak", "Dél-Marokkó"]
+    },
+    {
+      "id": "chefchaouen-goat-habitat-life-v2",
+      "description": "Chefchaouen kék városának környéke ideális élőhely a hegyi kecskék számára, amelyek gyakran láthatók a meredek lejtőkön.",
+      "facts": ["Hegyi kecskék", "Chefchaouen", "Meredek lejtők"]
+    },
+    {
+      "id": "fes-region-agriculture-life-v2",
+      "description": "Fès régiója gazdag mezőgazdasági terület, olajfákkal, gabonával és gyümölcsökkel, hagyományos gazdálkodási módszerekkel.",
+      "facts": ["Olajfák és gabona", "Fès régió", "Hagyományos gazdálkodás"]
+    },
+    {
+      "id": "midelt-apple-agriculture-life-v2",
+      "description": "Midelt Marokkó 'alma fővárosa', kiterjedt gyümölcsöskertjei az Atlasz-hegység klímájából profitálnak.",
+      "facts": ["Alma főváros", "Atlasz-hegység", "Gyümölcsöskertek"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Tiznit régiója az argánolaj termeléséről és a hagyományos mezőgazdaságról ismert, hozzájárulva a helyi megélhetéshez.",
+      "facts": ["Argánolaj termelés", "Tiznit", "Hagyományos mezőgazdaság"]
+    },
+    {
+      "id": "agadir-fish-market-agriculture-life-v2",
+      "description": "Agadir halpiaca egy nyüzsgő központ, ahol a friss tenger gyümölcseit kínálják, tükrözve a város tengeri örökségét.",
+      "facts": ["Halpiac", "Agadir", "Tengeri örökség"]
+    },
+    {
+      "id": "ouarzazate-date-agriculture-life-v2",
+      "description": "Ouarzazate oázisai híresek datolya termesztésükről, amely a helyi gazdaság és étrend fontos részét képezi.",
+      "facts": ["Datolya termesztés", "Ouarzazate", "Helyi gazdaság"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga az Erg Chebbi dűnék kapuja, látványos homoktájakkal és teve szafarikkal.",
+      "facts": ["Erg Chebbi dűnék", "Teve szafarik", "Sivatagi táj"]
+    }
+  ]
+}

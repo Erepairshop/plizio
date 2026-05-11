@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mopti-fishing-culture-life-v2",
+      "description": "Mopti's fishing culture is centered around the Niger River, where traditional Bozo fishers have operated for generations.",
+      "facts": ["Niger River hub", "Traditional Bozo fishing", "Vibrant river life", "Essential local food source"]
+    },
+    {
+      "id": "segou-fruit-market-life-v2",
+      "description": "Ségou's fruit market is a bustling hub for regional trade, specializing in fresh produce from the fertile Niger banks.",
+      "facts": ["Ségou town center", "Fresh fruit hub", "Rich agricultural region", "Daily bustling trade"]
+    },
+    {
+      "id": "kayes-orchards-life-v2",
+      "description": "The orchards of Kayes benefit from the regional climate, producing a variety of fruits popular in local markets.",
+      "facts": ["Kayes region location", "Fruit orchard hub", "Regional climate benefit", "Local produce supplier"]
+    },
+    {
+      "id": "sikasso-garden-life-v2",
+      "description": "Sikasso is known for its lush, productive gardens, often called the breadbasket of Mali due to its fertile soil.",
+      "facts": ["Fertile Sikasso soil", "Breadbasket of Mali", "Productive gardening", "Lush tropical climate"]
+    },
+    {
+      "id": "niger-river-bird-sanctuary-life-v2",
+      "description": "The Niger River sanctuaries provide crucial nesting grounds for diverse bird species migrating through Mali.",
+      "facts": ["Niger River habitat", "Migration stopover", "Rich bird diversity", "Ecological protected area"]
+    },
+    {
+      "id": "fatoma-cattle-market-life-v2",
+      "description": "Fatoma hosts one of the most important cattle markets in Mali, attracting traders from across the Sahel.",
+      "facts": ["Major cattle hub", "Sahel trade point", "Weekly market activity", "Livestock sector heart"]
+    },
+    {
+      "id": "koulikoro-gardens-life-v2",
+      "description": "Koulikoro's gardens are nourished by the river, providing vegetables to support the regional urban populations.",
+      "facts": ["River-fed irrigation", "Urban garden support", "Regional food supply", "Fertile riverbank land"]
+    },
+    {
+      "id": "san-agricultural-hub-life-v2",
+      "description": "San is a key center for agricultural production in the region, focusing on sustainable crop cultivation.",
+      "facts": ["Agricultural center", "Sustainable crop focus", "Regional produce hub", "Traditional farming area"]
+    },
+    {
+      "id": "timbuktu-palm-groves-life-v2",
+      "description": "The palm groves of Timbuktu are ancient oases that have supported life in the Sahara for centuries.",
+      "facts": ["Sahara oasis site", "Ancient palm groves", "Life-sustaining resource", "Historical desert trade"]
+    },
+    {
+      "id": "goundam-livestock-life-v2",
+      "description": "Goundam serves as an important livestock market, essential to the pastoral economies of northern Mali.",
+      "facts": ["Northern pastoral hub", "Livestock trading focus", "Regional economic point", "Traditional herding life"]
+    }
+  ]
+}

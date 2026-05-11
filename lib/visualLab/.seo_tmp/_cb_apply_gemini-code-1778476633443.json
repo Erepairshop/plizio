@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dubreka-mangrove-habitats-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Mangrovenhabitate von Dubréka bilden ein komplexes und lebenswichtiges Ökosystem an der Küste von Maritime Guinea, nördlich von Conakry. Geografisch erstrecken sich diese Gezeitenwälder entlang der Ästuare und flachen Küstenstreifen, wo Süßwasser aus den Bergen des Fouta Djallon auf das salzhaltige Wasser des Atlantiks trifft. Die dominierenden Baumarten, wie die Rote Mangrove (Rhizophora), haben sich perfekt an die extremen Bedingungen der wechselnden Gezeiten und des hohen Salzgehalts angepasst. Diese Habitate fungieren als 'Kinderstube' für zahlreiche Fischarten, Krabben und Garnelen, die die Grundlage für die lokale handwerkliche Fischerei bilden. Wirtschaftlich ist die Mangrovenzone von enormer Bedeutung, da sie nicht nur Nahrung liefert, sondern auch als natürlicher Küstenschutz gegen Erosion und Sturmfluten dient. Das Leben in den Küstendörfern um Dubréka ist seit Generationen auf die nachhaltige Nutzung dieser Ressourcen ausgerichtet, einschließlich der traditionellen Salzgewinnung und der Gewinnung von Brennholz. In den letzten Jahrzehnten stehen die Mangroven jedoch unter Druck durch die Ausweitung der städtischen Gebiete und die Übernutzung für die Holzkohleproduktion. Für Besucher bietet eine Fahrt mit der Piroge durch die verschlungenen Kanäle der Mangroven ein faszinierendes Naturerlebnis und zeigt die ökologische Zerbrechlichkeit der guineischen Küstenlinie.",
+        "hu": "Dubréka mangrove-élőhelyei egy komplex és létfontosságú ökoszisztémát alkotnak Guinea tengerparti szakaszán, közvetlenül a fővárostól északra. Földrajzilag ezek az árapály-erdők a folyótorkolatok és a sekély tengerparti sávok mentén húzódnak, ott, ahol a Fouta Djallon hegyeiből érkező édesvíz keveredik az Atlanti-óceán sós vizével. A domináns fafajok, mint például a vörös mangrove (Rhizophora), tökéletesen alkalmazkodtak a változó vízszint és a magas sótartalom extrém körülményeihez. Ezek az élőhelyek számos halfaj, rák és garnéla számára szolgálnak bölcsőként, biztosítva a helyi kézműves halászat alapjait. Gazdasági szempontból a mangrove-zóna felbecsülhetetlen értékű: nemcsak élelmet ad, hanem természetes gátként is működik a partmenti erózió és a vihardagályok ellen. A Dubréka környéki halászfalvak élete generációk óta ezen erőforrások fenntartható használatára épül, beleértve a hagyományos sólepárlást és a tűzifa gyűjtését. Az utóbbi évtizedekben azonban a mangrove-erdőkre nagy nyomás nehezedik a városi terjeszkedés és a faszénkészítés miatti túlzott fakitermelés következtében. A látogatók számára a kanyargós csatornákon tett pirogos kirándulás lenyűgöző természeti élményt nyújt, feltárva Guinea tengerpartjának ökológiai sokszínűségét.",
+        "ro": "Habitatele de mangrove din Dubréka formează un ecosistem complex și vital pe coasta Guineei Maritime, la nord de Conakry. Geografic, aceste păduri de maree se întind de-a lungul estuarelor și fâșiilor litorale joase, unde apa dulce ce coboară din munții Fouta Djallon se întâlnește cu apa sărată a Atlanticului. Speciile dominante, precum mangrova roșie (Rhizophora), s-au adaptat perfect condițiilor extreme de salinitate și fluctuațiilor fluxului și refluxului. Aceste habitate funcționează ca o „creșă” pentru numeroase specii de pești, crustacee și moluște, care constituie baza pescuitului artizanal local. Din punct de vedere economic, zona de mangrove este esențială, oferind nu doar resurse alimentare, ci și o protecție naturală împotriva eroziunii costiere și a furtunilor maritime. Viața în satele din jurul orașului Dubréka este strâns legată de utilizarea acestor resurse, de la extracția tradițională a sării până la colectarea lemnului. În ultimele decenii, mangrovele se confruntă cu presiuni majore din cauza expansiunii urbane și a cererii de mangal (cărbune de lemn). Pentru vizitatori, o incursiune cu piroga prin canalele sinuoase ale mangrovelor oferă o perspectivă fascinantă asupra biodiversității litorale și a fragilității ecologice a regiunii.",
+        "en": "The mangrove habitats of Dubréka form a complex and vital ecosystem along the coast of Maritime Guinea, just north of Conakry. Geographically, these tidal forests thrive in the estuaries and shallow coastal zones where freshwater runoff from the Fouta Djallon mountains mixes with the Atlantic's saltwater. Dominant tree species, such as the Red Mangrove (Rhizophora), have perfectly adapted to the extreme conditions of shifting tides and high salinity. These habitats act as a critical nursery for numerous fish species, crabs, and shrimp, providing the lifeblood for local artisanal fishing. Economically, the mangrove zone is of immense value, serving not only as a food source but also as a natural buffer against coastal erosion and storm surges. For generations, life in the coastal villages around Dubréka has revolved around the sustainable use of these resources, including traditional salt production and wood harvesting. In recent decades, however, these mangroves have come under increasing pressure from urban sprawl and over-exploitation for charcoal production. For visitors, a pirogue trip through the winding mangrove channels offers a compelling natural experience, highlighting the ecological richness and vulnerability of Guinea's coastline."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mangroven schützen die Küste von Dubréka vor den Auswirkungen des Klimawandels.",
+          "Die Region ist ein wichtiges Brutgebiet für zahlreiche westafrikanische Seevögel.",
+          "Traditionelle Salzgewinnung in den Mangroven ist eine Haupteinnahmequelle für Frauen.",
+          "Die Luftwurzeln der Mangroven bieten Schutz für bedrohte Schildkrötenarten.",
+          "Dubréka ist Teil eines Pilotprojekts zur Wiederaufforstung von Küstenwäldern.",
+          "Die Mangrovenwälder Guineas gehören zu den ausgedehntesten in Westafrika."
+        ],
+        "hu": [
+          "A mangrove-erdők védik Dubréka partjait a klímaváltozás okozta tengerszint-emelkedéstől.",
+          "A régió számos nyugat-afrikai vízimadár fontos fészkelőhelye.",
+          "A mangrove-mocsarakban zajló sólepárlás a helyi nők egyik fő bevételi forrása.",
+          "A fák légzőgyökerei védelmet nyújtanak a veszélyeztetett tengeri teknősöknek.",
+          "Dubréka egyike a guineai mangrove-rehabilitációs programok központi helyszíneinek.",
+          "A guineai tengerpart mangrove-állománya az egyik legnagyobb egész Nyugat-Afrikában."
+        ],
+        "ro": [
+          "Mangrovele din Dubréka absorb cantități masive de dioxid de carbon din atmosferă.",
+          "Sistemul radicular complex previne colmatarea canalelor navigabile locale.",
+          "Pescuitul de scoici în rădăcinile de mangrove este o activitate economică tradițională.",
+          "Ecosistemul găzduiește specii rare de lamantini în zonele mai adânci ale estuarelor.",
+          "Defrișarea mangrovelor crește riscul de salinizare a terenurilor agricole interioare.",
+          "Turismul ecologic în zonele de mangrove începe să se dezvolte ca alternativă economică."
+        ],
+        "en": [
+          "Mangroves act as a critical carbon sink, storing more CO2 than terrestrial forests.",
+          "The area is a significant sanctuary for various species of migratory birds.",
+          "Traditional salt mining in these zones provides essential income for rural households.",
+          "The tangled roots of the mangroves protect juvenile fish from oceanic predators.",
+          "Dubréka's mangroves are under national protection to mitigate coastal land loss.",
+          "They form part of the Upper Guinea Mangroves ecoregion, one of the world's most biodiverse."
+        ]
+      }
+    },
+    {
+      "id": "kouroussa-hippo-habitats-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Flusspferdhabitate von Kouroussa sind ein faszinierendes Naturphänomen am Oberlauf des Niger-Flusses in Zentralguinea. Geografisch liegt dieses Gebiet in einer weiten Savannenlandschaft, wo der Niger tiefe, ruhige Becken bildet, die ideale Rückzugsorte für das Gemeine Flusspferd (Hippopotamus amphibius) bieten. Kouroussa ist landesweit dafür bekannt, eine der stabilsten Populationen dieser imposanten Tiere zu beherbergen. Das Leben der lokalen Bevölkerung ist seit Jahrhunderten eng mit der Anwesenheit der Flusspferde verknüpft; sie gelten in der Malinké-Kultur oft als heilige Tiere oder als Geistwesen des Flusses. Wirtschaftlich bieten die Habitate ein erhebliches Potenzial für den Ökotourismus, wobei geführte Bootstouren Besuchern die Möglichkeit geben, die Tiere in ihrem natürlichen Umfeld zu beobachten. Gleichzeitig besteht eine ständige Herausforderung im Management von Mensch-Wildtier-Konflikten, insbesondere wenn Flusspferde nachts die Reisfelder der Bauern am Flussufer aufsuchen. Die Erhaltung dieser Habitate ist entscheidend für das ökologische Gleichgewicht des Niger-Ökosystems. In der Trockenzeit, wenn der Wasserstand sinkt, konzentrieren sich die Tiere in den verbleibenden tiefen Stellen, was spektakuläre Beobachtungen ermöglicht, aber auch die Konkurrenz um Ressourcen verschärft.",
+        "hu": "Kouroussa víziló-élőhelyei Felső-Guinea egyik legérdekesebb természeti látnivalói a Niger-folyó felső szakaszán. Földrajzilag ez a terület egy tágas szavannás vidéken fekszik, ahol a Niger mély és nyugodt öblöket alkot, ideális menedéket nyújtva a közönséges vízilovaknak (Hippopotamus amphibius). Kouroussa az egész országban híres arról, hogy itt él az egyik legnépesebb és legstabilabb víziló-populáció. A helyi lakosság élete évszázadok óta szorosan összefonódik ezen állatok jelenlétével; a malinké kultúrában a vízilovat gyakran szent állatként vagy a folyó szellemeként tisztelik. Gazdasági szempontból az élőhelyek jelentős lehetőséget kínálnak az ökoturizmus számára: a folyami csónaktúrák során a látogatók természetes környezetükben figyelhetik meg az óriásokat. Ugyanakkor az állatok és az ember együttélése nem konfliktusmentes, különösen, amikor a vízilovak éjszakánként megdézsmálják a parti rizsföldeket. Az élőhelyek megőrzése kulcsfontosságú a Niger-medence ökológiai egyensúlya szempontjából. A száraz évszakban, amikor a vízszint jelentősen lecsökken, az állatok a megmaradt mélyebb szakaszokon csoportosulnak, ami látványos megfigyelési lehetőségeket biztosít, de fokozza az erőforrásokért vívott küzdelmet is.",
+        "ro": "Habitatele hipopotamilor din Kouroussa reprezintă un fenomen natural fascinant situat pe cursul superior al fluviului Niger, în centrul Guineei. Din punct de vedere geografic, această zonă este definită de peisajul vast de savană, unde fluviul formează bazine adânci și liniștite, ideale pentru hipopotamul comun (Hippopotamus amphibius). Kouroussa este recunoscută la nivel național pentru găzduirea uneia dintre cele mai stabile populații ale acestor animale impunătoare. Viața comunităților locale Malinké este influențată de milenii de prezența hipopotamilor, aceștia fiind adesea considerați animale sacre sau spirite protectoare ale apelor în tradiția orală. Economic, aceste habitate au un potențial turistic major, oferind experiențe de observare directă prin excursii organizate cu piroga. Totuși, conviețuirea aduce și provocări, în special sub forma conflictelor om-animal atunci când hipopotamii pătrund în culturile de orez de pe maluri. Conservarea acestor zone este esențială pentru menținerea echilibrului ecologic al ecosistemului Nigerului. În timpul sezonului uscat, concentrarea animalelor în punctele cu apă adâncă oferă un spectacol natural deosebit, dar impune și o monitorizare atentă din partea autorităților de mediu.",
+        "en": "The hippo habitats of Kouroussa are a captivating natural phenomenon along the upper reaches of the Niger River in central Guinea. Geographically, the area is characterized by vast savanna landscapes where the Niger forms deep, calm pools that serve as ideal sanctuaries for the common hippopotamus (Hippopotamus amphibius). Kouroussa is nationally renowned for supporting one of Guinea's most stable hippo populations. For centuries, the life of the local population has been intertwined with these massive creatures; in Malinké culture, the hippo is often revered as a sacred animal or a river spirit. Economically, these habitats offer significant potential for eco-tourism, with guided boat tours allowing visitors to observe hippos in their natural environment. However, managing human-wildlife conflict remains a constant challenge, particularly when hippos emerge at night to graze in riverside rice paddies. Preserving these habitats is vital for the overall ecological health of the Niger River system. During the dry season, as water levels recede, the hippos congregate in the remaining deep sections, providing spectacular viewing opportunities while increasing competition for resources."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kouroussa beherbergt eine der größten Flusspferd-Populationen am Oberen Niger.",
+          "Die Tiere werden von den lokalen Malinké-Gemeinschaften traditionell geschützt.",
+          "In der Trockenzeit (März-Mai) sind die Sichtungschancen am höchsten.",
+          "Der Niger bei Kouroussa ist ein offiziell anerkanntes Schutzgebiet für diese Art.",
+          "Die Flusspferde spielen eine Rolle in der lokalen Mythologie und mündlichen Geschichte.",
+          "Der Tourismus rund um die Flusspferd-Beobachtung ist eine wachsende Einkommensquelle."
+        ],
+        "hu": [
+          "Kouroussa a Niger-folyó menti víziló-megfigyelések egyik legfőbb központja.",
+          "A helyi malinké közösségek hagyományosan tiltják a vízilovak vadászatát.",
+          "A száraz évszakban (március-május) az állatok a mélyebb medrekben tömörülnek.",
+          "A vízilovak jelenléte segít a folyó tápanyagkörforgásának fenntartásában.",
+          "Az állatok gyakran szerepelnek a helyi griotok történeteiben és dalaiban.",
+          "A vízi szafarik egyre több látogatót vonzanak a távoli Kouroussa régióba."
+        ],
+        "ro": [
+          "Kouroussa este considerată 'capitala hipopotamilor' din Guineea.",
+          "Animalele pot fi observate cel mai bine de pe podul istoric de peste Niger.",
+          "Există legende locale care spun că regii din Kouroussa se puteau transforma în hipopotami.",
+          "Fluviul Niger asigură vegetația acvatică necesară pentru hrana acestor mamifere.",
+          "Braconajul este strict pedepsit de lege și de normele sociale locale.",
+          "Hipopotamii contribuie la oxigenarea apei prin mișcările lor constante în albie."
+        ],
+        "en": [
+          "Kouroussa hosts one of the highest densities of hippos in the entire Niger basin.",
+          "Traditional Malinké taboos have historically prevented the hunting of hippos here.",
+          "The best time for viewing is during the peak of the dry season (March to May).",
+          "Hippos are considered 'ecosystem engineers' for their role in the river's health.",
+          "The local economy benefits from specialized guides leading river safaris.",
+          "National conservation efforts focus on reducing conflicts between hippos and farmers."
+        ]
+      }
+    },
+    {
+      "id": "pita-vegetable-gardens-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Gemüsegärten von Pita (Jardins potagers de Pita) sind das landwirtschaftliche Aushängeschild des Fouta-Djallon-Hochlandes in Mittelguinea. Geografisch profitiert die Region von ihrer Höhenlage, die ein deutlich milderes und kühleres Klima als die Küstenebenen bietet, sowie von den zahlreichen permanenten Wasserläufen. Pita hat sich zum wichtigsten Zentrum für den intensiven Gartenbau in Guinea entwickelt. Hier werden in großem Stil Kartoffeln, Zwiebeln, Tomaten und Kohl angebaut, die das gesamte Land und sogar Nachbarstaaten wie Senegal und Mali versorgen. Wirtschaftlich basiert dieses System auf dem Erfolg von bäuerlichen Genossenschaften, insbesondere der 'Fédération des Paysans du Fouta Djallon', die moderne Anbautechniken und verbesserte Saatgutsorten eingeführt hat. Das Leben in Pita ist vom Rhythmus der Bewässerungszyklen geprägt; die grünen, terrassierten Felder in den Tälern bilden einen markanten Kontrast zu den felsigen Hochplateaus. Historisch hat der Aufstieg des Gemüseanbaus die Region grundlegend transformiert und zu einem relativen Wohlstand geführt. Für Besucher bieten die weitläufigen, sorgfältig gepflegten Gärten ein beeindruckendes Beispiel für die Innovationskraft der guineischen Landwirtschaft und die fruchtbare Verbindung von traditionellem Wissen und moderner Organisation.",
+        "hu": "Pita zöldségeskertjei (Jardins potagers de Pita) a közép-guineai Fouta Djallon-hegység mezőgazdaságának büszkeségei. A régió kedvező földrajzi adottságokkal rendelkezik: a nagy tengerszint feletti magasság miatt az éghajlat jóval enyhébb és hűvösebb, mint a tengerparti síkságokon, a számos állandó vízfolyás pedig biztosítja az öntözést. Pita az intenzív kertészet legfontosabb központjává vált Guineában. Itt termelik nagyüzemi méretekben a burgonyát, hagymát, paradicsomot és káposztát, amelyekkel nemcsak az országot, hanem a szomszédos Szenegált és Malit is ellátják. Gazdaságilag ez a rendszer a helyi gazdaszövetkezetek, különösen a 'Fédération des Paysans du Fouta Djallon' sikerén alapul, amely modern termesztési technológiákat és nemesített vetőmagokat vezetett be. Pita élete az öntözési ciklusok ritmusához igazodik; a völgyekben zöldellő, teraszos művelésű parcellák éles kontrasztot alkotnak a sziklás fennsíkokkal. Történelmileg a zöldségtermesztés felemelkedése alapjaiban változtatta meg a régiót, viszonylagos jólétet hozva a lakosságnak. A látogatók számára a gondosan művelt, végtelen kertek a guineai mezőgazdaság innovációs erejének és a hagyományos tudás és modern szervezettség sikeres ötvözésének lenyűgöző példáját mutatják.",
+        "ro": "Grădinile de legume din Pita (Jardins potagers de Pita) reprezintă vârful de lance al agriculturii din masivul Fouta Djallon, în Guineea Centrală. Geografic, regiunea beneficiază de altitudinea sa ridicată, care oferă un climat vizibil mai blând și mai răcoros decât câmpiile litorale, precum și de numeroase cursuri de apă permanente. Pita s-a impus ca cel mai important centru pentru horticultura intensivă din Guineea. Aici se cultivă la scară largă cartofi, ceapă, tomate și varză, produse care aprovizionează întreaga țară și chiar statele vecine precum Senegal și Mali. Din punct de vedere economic, acest sistem se bazează pe succesul cooperativelor de fermieri, în special „Fédération des Paysans du Fouta Djallon”, care a introdus tehnici moderne de cultivare și soiuri de semințe ameliorate. Viața în Pita este dictată de ritmul ciclurilor de irigație; parcelele verzi, adesea terasate în văi, oferă un contrast puternic cu platourile stâncoase înconjurătoare. Istoric, dezvoltarea legumiculturii a transformat radical regiunea, aducând o prosperitate relativă populației rurale. Pentru vizitatori, grădinile vaste și meticulos întreținute oferă un exemplu impresionant de inovație agricolă guineeană, fiind o fuziune reușită între cunoștințele tradiționale și organizarea modernă.",
+        "en": "The vegetable gardens of Pita (Jardins potagers de Pita) are the agricultural showcase of the Fouta Djallon highlands in central Guinea. Geographically, the region benefits from its high altitude, which offers a significantly milder and cooler climate than the coastal plains, along with numerous perennial streams. Pita has emerged as the most vital center for intensive market gardening in Guinea. Crops like potatoes, onions, tomatoes, and cabbage are grown here on a massive scale, supplying the entire nation and even neighboring countries like Senegal and Mali. Economically, this system is built on the success of farmer cooperatives, most notably the 'Fédération des Paysans du Fouta Djallon', which has introduced modern cultivation techniques and improved seed varieties. Daily life in Pita is synchronized with the rhythm of irrigation cycles; the lush, green terraced fields in the valleys provide a striking contrast to the rugged rocky plateaus. Historically, the rise of vegetable farming has fundamentally transformed the region, fostering relative economic stability. For visitors, the expansive and meticulously tended gardens offer a compelling example of the innovative spirit of Guinean agriculture and the successful blend of traditional wisdom with modern organizational structures."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pita ist das Zentrum der guineischen Kartoffelproduktion (Belle de Guinée).",
+          "Die Bauern nutzen moderne Bewässerungspumpen und Solarenergie.",
+          "Der Gemüseexport nach Senegal ist ein wichtiger Devisenbringer.",
+          "Die Gärten liegen oft in fruchtbaren 'Bas-fonds' (Talsenken).",
+          "Kooperativen organisieren den Transport direkt zu den Märkten von Conakry.",
+          "Die Region hat die höchste Dichte an ausgebildeten Agrartechnikern im Land."
+        ],
+        "hu": [
+          "Pita a központja a guineai burgonyatermesztésnek (Belle de Guinée márkanév).",
+          "A gazdák egyre gyakrabban használnak napenergiával hajtott öntözőrendszereket.",
+          "A Szenegálba irányuló zöldségexport a régió legfőbb bevételi forrása.",
+          "A kertek általában a völgyalji, nedvesebb területeken (bas-fonds) koncentrálódnak.",
+          "A helyi szövetkezetek saját teherautó-flottával szállítják az árut a fővárosba.",
+          "Pita környékén találhatók az ország legmodernebb vetőmag-előállító állomásai."
+        ],
+        "ro": [
+          "Pita furnizează peste 70% din necesarul de cartofi al Republicii Guineea.",
+          "Soiul 'Belle de Guinée' este renumit pentru rezistența sa la transport.",
+          "Agricultura din Pita este un model de succes pentru dezvoltarea rurală în Africa.",
+          "Fermierii folosesc îngrășăminte organice combinate cu tehnici de rotație a culturilor.",
+          "Piețele din Pita sunt puncte de colectare pentru comercianții din regiunea Sahel.",
+          "Regiunea beneficiază de sprijin tehnic internațional pentru managementul apei."
+        ],
+        "en": [
+          "Pita is the core area for the 'Belle de Guinée' potato brand production.",
+          "Local farmers have pioneered the use of solar-powered water pumps in the highlands.",
+          "Vegetable exports to Senegal and Mali represent a key regional economic pillar.",
+          "The gardens are predominantly located in fertile valley bottoms known as 'bas-fonds'.",
+          "Successful farmer unions manage the entire value chain from seeds to markets.",
+          "The area is a training hub for sustainable agricultural practices in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "mali-cattle-herds-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rinderherden von Mali (Troupeaux de bétail de Mali) sind das stolze Wahrzeichen der pastoralen Kultur im nördlichen Fouta-Djallon-Hochland. Geografisch bietet die Region um die Stadt Mali, die höchste Stadt Guineas, aufgrund ihrer kühlen Temperaturen und ausgedehnten Hochweiden ideale Bedingungen für die Viehzucht. Die dominierende Rasse ist das N'Dama-Rind, das weltweit für seine Resistenz gegen die Schlafkrankheit (Trypanosomiasis) und seine Anpassungsfähigkeit an karge Bergregionen bekannt ist. Das Leben der Peul-Bevölkerung in Mali ist seit Jahrhunderten untrennbar mit ihren Herden verbunden; Rinder sind hier nicht nur ein Wirtschaftsfaktor, sondern ein Symbol für sozialen Status, kulturelle Identität und familiären Reichtum. Die Herden ziehen saisonal zwischen den Hochplateaus und den grüneren Tälern umher. Wirtschaftlich ist Mali einer der wichtigsten Fleisch- und Milchlieferanten für den Norden Guineas und den benachbarten Senegal. Das tägliche Bild von hunderten N'Dama-Rindern, die vor der Kulisse des majestätischen Mount Loura grasen, ist eines der ikonischsten Motive des guineischen Hochlandes. Die traditionellen Handwerkstechniken der Lederverarbeitung und die Herstellung von Milchprodukten wie 'Kossam' sind integrale Bestandteile des lokalen Lebens.",
+        "hu": "Mali marhacsordái (Troupeaux de bétail de Mali) az északi Fouta Djallon-hegység pásztorkultúrájának büszke jelképei. Földrajzilag a Mali város – Guinea legmagasabban fekvő települése – környéki vidék hűvös klímája és kiterjedt hegyi legelői ideális feltételeket biztosítanak az állattenyésztéshez. A domináns fajta az őshonos N'Dama szarvasmarha, amely világszerte ismert az álomkórral (tripanoszomiázis) szembeni ellenálló képességéről és a zord hegyi körülményekhez való alkalmazkodásáról. A fula (peul) lakosság élete Maliban évszázadok óta elválaszthatatlan a csordáktól; a marha itt nem csupán gazdasági tényező, hanem a társadalmi státusz, a kulturális identitás és a családi vagyon legfőbb mutatója. A csordák évszakosan vándorolnak a magas fennsíkok és a zöldebb völgyek között. Gazdaságilag Mali az egyik legfontosabb hús- és tejbeszállító Guinea északi része és a szomszédos Szenegál számára. A fenséges Loura-hegy lábánál legelésző több száz N'Dama marha látványa a guineai felföld egyik legikonikusabb képe. A hagyományos bőrművesség és a helyi tejtermékek, mint például a „kossam” készítése, a mindennapi élet szerves részét képezik.",
+        "ro": "Turmele de vite din Mali (Troupeaux de bétail de Mali) sunt simbolul mândriei culturii pastorale din nordul masivului Fouta Djallon. Din punct de vedere geografic, regiunea din jurul orașului Mali, situată la cea mai mare altitudine din Guineea, oferă condiții ideale pentru creșterea animalelor datorită temperaturilor scăzute și pășunilor montane vaste. Rasa dominantă este vita N'Dama, recunoscută la nivel mondial pentru rezistența sa la boala somnului (tripanosomiaza) și adaptabilitatea la terenurile accidentate. Viața populației Fula din Mali este inseparabilă de aceste turme; vitele reprezintă nu doar un motor economic, ci și un simbol al statutului social, al identității culturale și al bogăției familiale. Turmele practică transhumanța sezonieră între platourile înalte și văile mai verzi. Din punct de vedere economic, Mali este unul dintre principalii furnizori de carne și lactate pentru nordul Guineei și pentru Senegalul vecin. Imaginea cotidiană a sutelor de vite N'Dama păscând în fața impunătorului munte Loura este una dintre cele mai emblematice din Guineea montană. Meșteșugurile tradiționale de prelucrare a pielii și producția de lactate, precum iaurtul „kossam”, sunt elemente fundamentale ale vieții locale.",
+        "en": "The cattle herds of Mali (Troupeaux de bétail de Mali) are the proud hallmark of the pastoral culture in the northern Fouta Djallon highlands. Geographically, the area surrounding Mali—the highest town in Guinea—provides ideal conditions for livestock rearing due to its cool temperatures and expansive mountain pastures. The dominant breed is the N'Dama cattle, world-renowned for its natural resistance to sleeping sickness (trypanosomiasis) and its ability to thrive in rugged highland environments. For centuries, the life of the Peul (Fula) people in Mali has been inextricably linked to their herds; cattle are not merely an economic asset but a symbol of social status, cultural identity, and family wealth. The herds migrate seasonally between the high plateaus and the more fertile valleys. Economically, Mali serves as a crucial supplier of meat and dairy products for northern Guinea and neighboring Senegal. The sight of hundreds of N'Dama cattle grazing against the backdrop of the majestic Mount Loura is one of the most iconic images of the Guinean highlands. Traditional leatherworking and the production of dairy staples like 'kossam' are integral parts of daily life in this region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das N'Dama-Rind aus Mali ist eine der genetisch wertvollsten Rassen Afrikas.",
+          "Viehzucht ist die primäre Einnahmequelle für über 80 % der Bevölkerung in Mali.",
+          "Der Viehmarkt von Mali zieht wöchentlich Händler aus dem Senegal an.",
+          "Reichtum wird in dieser Region traditionell in der Anzahl der Rinder gemessen.",
+          "Die Hochweiden von Mali sind während der Regenzeit besonders nahrhaft.",
+          "Mali produziert hochwertiges Ghee und Butter für den regionalen Handel."
+        ],
+        "hu": [
+          "A mali N'Dama szarvasmarha Afrika egyik legértékesebb genetikai állománya.",
+          "Mali városában az állattenyésztés a lakosság több mint 80%-ának ad munkát.",
+          "A helyi állatvásárra hetente érkeznek kereskedők a szomszédos Szenegálból.",
+          "A gazdagságot ebben a régióban hagyományosan a marhák számában mérik.",
+          "A hegyi legelők az esős évszakban biztosítják a legjobb tápértékű füvet.",
+          "A környék híres a kiváló minőségű tisztított vajáról (ghee) és sajtjairól."
+        ],
+        "ro": [
+          "Vitele N'Dama sunt singurele capabile să supraviețuiască fără tratamente în zonele cu glossine.",
+          "Mali este cel mai mare centru de export de animale vii către Dakar (Senegal).",
+          "Transhumanța este organizată pe clanuri familiale cu reguli stricte de pășunat.",
+          "Laptele bătut tradițional (kossam) este produsul alimentar de bază în Mali.",
+          "Cornul vitelor N'Dama este utilizat în artizanatul local pentru diverse obiecte.",
+          "Regiunea deține recordul național pentru densitatea de bovine pe kilometru pătrat."
+        ],
+        "en": [
+          "N'Dama cattle from Mali are a vital genetic resource for tropical livestock breeding.",
+          "Livestock farming accounts for over 80% of the local economy in the Mali Prefecture.",
+          "The Mali cattle market is a key node in the West African cross-border trade.",
+          "Social hierarchy in the northern highlands is historically tied to herd size.",
+          "The cool highland climate prevents many common tropical cattle diseases.",
+          "The region is a major producer of traditional clarified butter for the Sahel region."
+        ]
+      }
+    },
+    {
+      "id": "forecariah-mango-orchards-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Mangohaine von Forécariah (Vergers de mangues de Forécariah) sind das pulsierende Zentrum der Obstproduktion im Südwesten Guineas. Geografisch profitiert die Region Maritime Guinea von ihren fruchtbaren Küstenböden und dem feucht-warmen Klima, das ideale Wachstumsbedingungen für verschiedene Mangosorten bietet. Forécariah hat sich zum wichtigsten Exportzentrum für guineische Mangos entwickelt, wobei Sorten wie 'Kent' und 'Keitt' aufgrund ihrer Qualität besonders für den europäischen Markt gefragt sind. Die Wirtschaft der Region ist während der Haupterntezeit zwischen April und Juni vollständig auf die Mango ausgerichtet; tausende Erntehelfer, Verpackungsspezialisten und Logistiker kommen in die Präfektur. Das Leben in Forécariah ist geprägt durch die ausgedehnten, schattigen Obstgärten, die oft seit Generationen im Familienbesitz sind. In den letzten Jahren wurden moderne Verpackungs- und Kühlanlagen errichtet, um die Wertschöpfung vor Ort zu erhöhen und die Exportstandards zu erfüllen. Die Eröffnung des Hafens von Konta hat die Logistikkette für den Mango-Export erheblich verbessert. Für die Bewohner ist die Mango nicht nur ein Wirtschaftsgut, sondern auch ein fester Bestandteil der Kultur und Ernährung, wobei die Erntezeit als eine Phase des relativen Überflusses und der Gemeinschaft gefeiert wird.",
+        "hu": "Forécariah mangóligetei (Vergers de mangues de Forécariah) a délnyugat-guineai gyümölcstermesztés lüktető központjai. Földrajzilag Alsó-Guinea termékeny parti talaja és párás, meleg klímája tökéletes feltételeket biztosít a különböző mangófajták számára. Forécariah mára a guineai mangóexport legfontosabb bázisává vált; az olyan fajták, mint a 'Kent' és a 'Keitt', kiváló minőségük miatt rendkívül keresettek az európai piacokon. A régió gazdasága az április és június közötti főszüreti időszakban teljes egészében a mangóra összpontosít: több ezer idénymunkás, csomagoló és logisztikai szakember érkezik ilyenkor a prefektúrába. Forécariah látképét a kiterjedt, árnyas gyümölcsösök határozzák meg, amelyek gyakran generációk óta családi tulajdonban vannak. Az elmúlt években modern csomagolóüzemeket és hűtőházakat építettek a térségben, hogy megfeleljenek a nemzetközi exportkövetelményeknek. A közeli Konta kikötőjének megnyitása jelentősen felgyorsította a mangó kijutását a világpiacra. A helyiek számára a mangó nem csupán árucikk, hanem a kultúra és az étrend alapvető része, a szüret idejét pedig a közösségi összefogás és a bőség időszakaként ünneplik.",
+        "ro": "Livezile de mango din Forécariah (Vergers de mangues de Forécariah) reprezintă centrul vital al producției de fructe din sud-vestul Guineei. Din punct de vedere geografic, regiunea Guineea Maritimă beneficiază de soluri litorale fertile și de un climat cald și umed, oferind condiții optime pentru diverse soiuri de mango. Forécariah s-a impus ca principalul pol de export pentru mango-ul guineean, varietăți precum 'Kent' și 'Keitt' fiind extrem de apreciate pe piețele europene pentru calitatea lor superioară. Economia regiunii gravitează integral în jurul acestui fruct în perioada recoltării, între lunile aprilie și iunie, când mii de lucrători sezonieri și specialiști în logistică sosesc în prefectură. Peisajul din Forécariah este dominat de livezi umbroase și întinse, adesea aflate în proprietatea familiilor de generații. În ultimii ani, au fost construite unități moderne de ambalare și depozite frigorifice pentru a crește valoarea adăugată locală și a respecta standardele internaționale de export. Deschiderea portului Konta a optimizat semnificativ lanțul logistic pentru livrarea fructelor. Pentru locuitori, mango-ul este mai mult decât o marfă, fiind un element central al alimentației și culturii locale, sezonul recoltei fiind marcat de o atmosferă de abundență și sărbătoare comunitară.",
+        "en": "The mango orchards of Forécariah (Vergers de mangues de Forécariah) are the bustling heart of fruit production in southwestern Guinea. Geographically, the Maritime Guinea region benefits from its fertile coastal soils and humid tropical climate, which provide ideal growing conditions for a variety of mangoes. Forécariah has emerged as the premier export hub for Guinean mangoes, with varieties like 'Kent' and 'Keitt' being particularly sought after in European markets for their quality. During the peak harvest season between April and June, the regional economy is entirely centered on the mango trade, drawing thousands of seasonal workers, packers, and logistics experts to the prefecture. The landscape of Forécariah is defined by extensive, shaded orchards that have often been family-owned for generations. In recent years, modern packing houses and cold storage facilities have been established to boost local value-added and meet international export standards. The opening of the nearby Port of Konta has significantly streamlined the logistics chain for mango exports. For the residents, the mango is not just a commercial product but a fundamental part of their diet and culture, with the harvest season celebrated as a time of relative abundance and community cooperation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Forécariah liefert über 50 % der für den Export bestimmten Mangos Guineas.",
+          "Die Erntezeit fällt mit dem Ende der Trockenzeit und dem Beginn des Regens zusammen.",
+          "Die Sorte 'Kent' aus Forécariah gilt als eine der besten weltweit.",
+          "Frauen-Kooperativen spielen eine Hauptrolle beim Trocknen von Mangos für den lokalen Markt.",
+          "Viele Obstgärten in Forécariah nutzen ökologische Anbaumethoden.",
+          "Die Region beherbergt regelmäßige Fortbildungszentren für Obstbauern."
+        ],
+        "hu": [
+          "Forécariah adja Guinea exportra szánt mangótermésének több mint 50%-át.",
+          "A szüret ideje egybeesik a száraz évszak végével és az esők kezdetével.",
+          "A Forécariah-ból származó 'Kent' mangó világszinten is prémium kategóriás.",
+          "Női szövetkezetek végzik a mangó aszalását a helyi piacokra.",
+          "A gyümölcsösök nagy része fenntartható, vegyszermentes gazdálkodást folytat.",
+          "A régióban mangó-fesztiválokat is rendeznek a termesztési hagyományok tiszteletére."
+        ],
+        "ro": [
+          "Forécariah este supranumit 'orașul mangoului' datorită numărului imens de arbori.",
+          "Fructele sunt transportate în lăzi speciale pentru a preveni deteriorarea pe drumurile rurale.",
+          "Investițiile străine au ajutat la certificarea Bio a multor livezi din regiune.",
+          "Exportul de mango proaspăt se face predominant prin containere frigorifice.",
+          "Mangoul constituie sursa principală de vitamine pentru copii în timpul verii.",
+          "Regiunea atrage investitori din sectorul sucurilor naturale de fructe."
+        ],
+        "en": [
+          "Forécariah accounts for over 50% of Guinea's total mango export volume.",
+          "The harvest season bridges the gap between the dry and rainy seasons.",
+          "The 'Kent' variety from this region is renowned for its fiberless pulp and size.",
+          "Local women's groups are vital in the processing of dried mango and pulp.",
+          "Forécariah's orchards are increasingly adopting global GAP (Good Agricultural Practices).",
+          "The region is a strategic zone for Guinea's agro-industrial diversification plans."
+        ]
+      }
+    }
+  ]
+}

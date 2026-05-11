@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nalerigu-defence-wall-history-v2",
+      "description": "Die Überreste einer Verteidigungsmauer in Nalerigu, die im 18. Jahrhundert von Naa Jaringa erbaut wurde.",
+      "facts": ["Schutz gegen Sklavenrazzien.", "Aus Lehm und lokalen Steinen errichtet.", "Wichtiges kulturelles Erbe der Mamprusi."]
+    },
+    {
+      "id": "pikworo-slave-camp-history-v2",
+      "description": "Ein ehemaliges Lager für versklavte Menschen in der Upper East Region, das heute als Gedenkstätte dient.",
+      "facts": ["Lager für Karawanen nach Salaga.", "Historische Vertiefungen in Felsen erhalten.", "Ort für Bildung über den Sklavenhandel."]
+    },
+    {
+      "id": "bono-manso-history-v2",
+      "description": "Bono Manso war die Hauptstadt des ersten Ashanti-unabhängigen Staates und ein bedeutendes Handelszentrum.",
+      "facts": ["Gegründet im 13. Jahrhundert.", "Zentrum des Goldhandels in der Savanne.", "Archäologische Stätte mit großer Bedeutung."]
+    },
+    {
+      "id": "begho-ancient-city-history-v2",
+      "description": "Eine antike Stadt im Brong-Ahafo-Gebiet, die einst ein blühender Marktplatz für Gold und Elfenbein war.",
+      "facts": ["Knotenpunkt trans-saharischer Handelswege.", "Bekannt für ihre Handwerkskunst.", "Wichtige archäologische Ausgrabungsstätte."]
+    },
+    {
+      "id": "kintampo-complex-history-v2",
+      "description": "Eine archäologische Fundstätte, die Aufschluss über die sesshafte Lebensweise und Keramikherstellung in der Steinzeit gibt.",
+      "facts": ["Datierung auf ca. 2500 v. Chr.", "Namensgebend für die Kintampo-Kultur.", "Früheste Belege für Landwirtschaft in Ghana."]
+    },
+    {
+      "id": "prempeh-ii-museum-history-v2",
+      "description": "Dieses Museum in Kumasi ist der Geschichte und dem Leben von Otumfuo Nana Sir Osei Agyeman Prempeh II. gewidmet.",
+      "facts": ["Beherbergt persönliche Gegenstände des Königs.", "Einblick in das höfische Leben der Ashanti.", "Wichtiger Ort für kulturelle Bildung."]
+    },
+    {
+      "id": "fort-st-jago-history-v2",
+      "description": "Ein kleines Fort in Elmina, das strategisch auf dem St. Jago Hill liegt und das berühmte Elmina Castle schützte.",
+      "facts": ["Erbaut im 17. Jahrhundert.", "Diente als militärischer Aussichtspunkt.", "Einzigartiger Ausblick auf die Küste."]
+    },
+    {
+      "id": "fort-victoria-cape-coast-history-v2",
+      "description": "Ein kleiner Außenposten oberhalb von Cape Coast, der zur Verteidigung des Hauptschlosses gegen feindliche Angriffe diente.",
+      "facts": ["Erbaut im Jahr 1837.", "Benannt nach Königin Victoria.", "Teil des Verteidigungssystems von Cape Coast."]
+    },
+    {
+      "id": "fort-mccarthy-history-v2",
+      "description": "Ein britisches Fort, das im 19. Jahrhundert zur Überwachung des Hinterlandes und zum Schutz der Handelswege errichtet wurde.",
+      "facts": ["Erbaut im Jahr 1822.", "Diente als Operationsbasis im Ashanti-Krieg.", "Strategische Lage auf einer Anhöhe."]
+    },
+    {
+      "id": "fort-good-hope-history-v2",
+      "description": "Eine niederländische Festung in Senya Beraku, die ursprünglich für den Goldhandel errichtet, später aber für den Sklavenhandel genutzt wurde.",
+      "facts": ["Baubeginn im Jahr 1706.", "Niederländisch 'Fort de Goede Hoop'.", "Einst eine der reichsten Stationen der Küste."]
+    },
+    {
+      "id": "fort-patience-history-v2",
+      "description": "Eine niederländische Steinfestung in Apam, die über viele Jahre hinweg trotz starker lokaler Widerstände errichtet wurde.",
+      "facts": ["Bauzeit von 1697 bis 1702.", "Ursprünglich Lijdzaamheid (Geduld) genannt.", "Diente zum Schutz niederländischer Handelsinteressen."]
+    },
+    {
+      "id": "black-star-gate-landmarks-v2",
+      "description": "Ein monumentaler Torbogen in Accra, der Ghanas Unabhängigkeit und den panafrikanischen Stolz symbolisiert.",
+      "facts": ["Teil des Independence Square.", "Gekrönt vom schwarzen Stern Ghanas.", "Zentrum nationaler Feierlichkeiten."]
+    }
+  ]
+}

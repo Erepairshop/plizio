@@ -1,0 +1,24 @@
+{
+  "lang": "multi4",
+  "country": "cameroon",
+  "files": ["lib/visualLab/data/poiExtraCameroonLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "olembe-stadium-landmarks-v2",
+      "descriptionAdvancedDe": "Das Paul-Biya-Stadion, auch als Olembe-Stadion bekannt, ist ein hochmoderner Sportkomplex in der Ortschaft Olembé, etwa 13 Kilometer vom Stadtzentrum Yaoundés entfernt. Mit einer Kapazität von 60.000 Zuschauern ist es das größte Stadion Kameruns und das neuntgrößte in Afrika. Der Komplex erstreckt sich über 84 Hektar und ist mehr als nur ein Fußballstadion. Er umfasst zwei Trainingsstadien, eine Sporthalle für Handball, Basketball und Volleyball, Tennisplätze sowie ein olympisches Schwimmbecken. Darüber hinaus sind ein Einkaufszentrum, ein Museum, ein Kino und ein Fünf-Sterne-Hotel mit 70 Zimmern Teil der Anlage. Das Stadion dient als Austragungsort für bedeutende nationale und internationale Sportereignisse und repräsentiert die modernen Ambitionen Kameruns im Sport- und Veranstaltungsbereich.",
+      "descriptionAdvancedHu": "A Paul Biya Stadion, más néven Olembe Stadion, egy multifunkcionális sportkomplexum Yaoundé Olembé nevű városrészében, mintegy 13 kilométerre a városközponttól. A 60 000 fős befogadóképességével Kamerun legnagyobb és Afrika kilencedik legnagyobb stadionja. A 84 hektáron elterülő létesítmény nem csupán egy futballaréna; a komplexumhoz két edzőstadion, egy tornacsarnok (kézilabda, kosárlabda, röplabda és teniszpályákkal), egy olimpiai méretű úszómedence, valamint egy bevásárlóközpont, múzeum, mozi és egy 70 szobás, ötcsillagos szálloda is tartozik. A létesítmény a kameruni sportélet zászlóshajója, amely nemzetközi versenyeknek és nagyszabású eseményeknek ad otthont, szimbolizálva az ország infrastrukturális fejlődését és sport iránti elkötelezettségét.",
+      "descriptionAdvancedRo": "Stadionul Paul Biya, cunoscut și sub numele de Stadionul Olembe, este un complex sportiv multifuncțional modern, situat în localitatea Olembé, la aproximativ 13 km de centrul orașului Yaoundé. Cu o capacitate de 60.000 de spectatori, este cel mai mare stadion din Camerun și al nouălea ca mărime din Africa. Complexul se întinde pe 84 de acri și include mult mai mult decât o arenă de fotbal. Acesta cuprinde două stadioane de antrenament, un gimnaziu cu terenuri pentru handbal, baschet, volei și tenis, o piscină de dimensiuni olimpice, un centru comercial, un muzeu, un cinematograf și un hotel de cinci stele cu 70 de camere. Stadionul este un simbol al ambițiilor sportive ale Camerunului și o locație principală pentru evenimente naționale și internaționale majore.",
+      "descriptionAdvancedEn": "The Paul Biya Stadium, also known as the Olembe Stadium, is a state-of-the-art multi-purpose sports complex located in the Olembé locality of Yaoundé, approximately 13 km from the city center. With a seating capacity of 60,000, it stands as the largest stadium in Cameroon and the ninth-largest in Africa. The vast 84-acre complex is more than just a football venue; it includes two training stadia, a gymnasium equipped for handball, basketball, and volleyball, tennis courts, and an Olympic-size swimming pool. Furthermore, the facility features a shopping mall, a museum, a cinema, and a 70-room five-star hotel. The stadium serves as a key venue for major national and international sporting events, representing Cameroon's modern infrastructure and commitment to sports.",
+      "factsAdvanced": [
+        "Befogadóképessége 60 000 néző.",
+        "Kamerun legnagyobb stadionja.",
+        "Afrika 9. legnagyobb stadionja.",
+        "Yaoundé központjától 13 km-re található.",
+        "A komplexum 84 hektáron terül el.",
+        "Olimpiai méretű úszómedencével rendelkezik.",
+        "Egy 70 szobás, 5 csillagos szálloda is tartozik hozzá.",
+        "Két külön edzőpályával rendelkezik."
+      ]
+    }
+  ]
+}

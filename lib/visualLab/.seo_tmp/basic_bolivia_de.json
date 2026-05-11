@@ -2,58 +2,59 @@
   "lang": "de",
   "country": "Bolivia",
   "files": [
-    "lib/visualLab/data/poiExtraBoliviaEconomicV2.ts"
+    "lib/visualLab/data/poiExtraBoliviaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaLifeV2.ts"
   ],
   "items": [
     {
-      "id": "bo-mina-san-cristobal-economic-v2",
-      "description": "Die Mine San Cristóbal ist ein bedeutender Tagebaubetrieb für Silber, Zink und Blei in der Region Potosí.",
-      "facts": ["Größte Silbermine Boliviens", "Betrieben durch Sumitomo", "Höhe über 4000 Meter"]
+      "id": "basilica-san-francisco-landmarks-v2",
+      "description": "Die Basilika San Francisco in La Paz ist ein Meisterwerk des mestizischen Barocks und eines der bedeutendsten religiösen Gebäude des Landes.",
+      "facts": ["Erbaut im 16. Jahrhundert", "Fassade mit indigenen Motiven", "Befindet sich im Stadtzentrum"]
     },
     {
-      "id": "bo-mina-huanuni-economic-v2",
-      "description": "Die Mine Huanuni ist eine staatlich betriebene Zinnmine im Departement Oruro mit einer langen Bergbautradition.",
-      "facts": ["Zinn-Hauptproduzent", "Staatseigen (COMIBOL)", "Wichtiger Arbeitgeber"]
+      "id": "catedral-metropolitana-sucre-landmarks-v2",
+      "description": "Die Kathedrale von Sucre kombiniert Renaissance- und Barockelemente und ist ein Symbol der kolonialen Geschichte der Hauptstadt.",
+      "facts": ["UNESCO-Welterbe der Altstadt", "Beherbergt wertvolle religiöse Kunst", "Baubeginn im Jahr 1551"]
     },
     {
-      "id": "bo-mutun-iron-economic-v2",
-      "description": "Mutún ist eines der weltweit größten Eisenerzvorkommen und liegt im Osten Boliviens an der Grenze zu Brasilien.",
-      "facts": ["Riesige Eisenerzreserven", "Provinz Germán Busch", "Strategisches Industrieprojekt"]
+      "id": "plaza-murillo-landmarks-v2",
+      "description": "Die Plaza Murillo ist das politische Herz Boliviens, umgeben vom Regierungspalast, dem Kongress und der Kathedrale von La Paz.",
+      "facts": ["Zentrum der Altstadt von La Paz", "Ort historischer Ereignisse", "Benannt nach Pedro Domingo Murillo"]
     },
     {
-      "id": "bo-mina-colquiri-economic-v2",
-      "description": "Die Mine Colquiri ist ein bedeutendes Zentrum für die Gewinnung von Zinn und Zink im Departement La Paz.",
-      "facts": ["Staatlicher Bergbau", "Reiche Mineralvorkommen", "Wichtige Wirtschaftsstütze"]
+      "id": "convento-santa-teresa-landmarks-v2",
+      "description": "Das Kloster Santa Teresa in Cochabamba ist ein beeindruckendes Beispiel kolonialer Architektur und spirituellen Lebens.",
+      "facts": ["Gegründet im Jahr 1760", "Besitzt eine einzigartige Rundkirche", "Dient heute teilweise als Museum"]
     },
     {
-      "id": "bo-planta-vinto-economic-v2",
-      "description": "Die Schmelzhütte Vinto in Oruro ist spezialisiert auf die Verarbeitung von Zinnkonzentraten zu hochreinem Zinn.",
-      "facts": ["Modernisierte Schmelzanlage", "Export von Zinnbarren", "Wichtige Wertschöpfung"]
+      "id": "cristo-concordia-landmarks-v2",
+      "description": "Der Cristo de la Concordia in Cochabamba ist eine der höchsten Christusstatue der Welt und bietet einen Panoramablick über das Tal.",
+      "facts": ["Höhe von 34,20 Metern", "Steht auf dem Hügel San Pedro", "Ein Symbol des Friedens"]
     },
     {
-      "id": "bo-karachipampa-economic-v2",
-      "description": "Das metallurgische Werk Karachipampa in Potosí verarbeitet polymetallische Erze zu verschiedenen Metallen.",
-      "facts": ["Standort Potosí", "Blei-Silber-Verarbeitung", "Industrielle Kapazität"]
+      "id": "biocentro-guembe-life-v2",
+      "description": "Das Biocentro Güembé ist ein Naturpark in Santa Cruz mit dem weltweit größten Schmetterlingshaus und vielen Lagunen.",
+      "facts": ["Riesiges Mariposarium", "Ort zur Beobachtung von Tukanen", "Vielfältige tropische Flora"]
     },
     {
-      "id": "bo-bulo-bulo-urea-economic-v2",
-      "description": "Der Ammoniak- und Harnstoffkomplex Bulo Bulo ist Boliviens bedeutendste Anlage für petrochemische Düngemittel.",
-      "facts": ["Export von Harnstoff", "Erdgas-Verarbeitung", "Standort Cochabamba"]
+      "id": "parque-cretacico-sucre-life-v2",
+      "description": "Der Kreidepark in Sucre beherbergt eine der weltweit größten Sammlungen an Dinosaurier-Fußabdrücken auf einer Kalksteinwand.",
+      "facts": ["Über 5.000 Fußspuren", "Blick auf die Cal Orcko Wand", "Lebensgroße Dinosaurier-Modelle"]
     },
     {
-      "id": "bo-refineria-gualberto-villarroel-economic-v2",
-      "description": "Diese Raffinerie in Cochabamba ist eine der Hauptanlagen zur Verarbeitung von Rohöl in Bolivien.",
-      "facts": ["Tägliche Verarbeitungskapazität", "Kraftstoffversorgung", "Wichtiger YPFB-Standort"]
+      "id": "torotoro-nationalpark-life-v2",
+      "description": "Der Torotoro-Nationalpark ist berühmt für seine tiefen Schluchten, Höhlen und versteinerten Dinosaurierspuren.",
+      "facts": ["Wichtigstes paläontologisches Gebiet", "Beherbergt die Umajalanta-Höhle", "Spektakuläre rote Felslandschaften"]
     },
     {
-      "id": "bo-refineria-guillermo-elder-bell-economic-v2",
-      "description": "Die Raffinerie Guillermo Elder Bell in Santa Cruz ist essenziell für die Treibstoffversorgung im Tiefland.",
-      "facts": ["YPFB-Raffinerie", "Produktion von Benzinkomponenten", "Logistischer Knotenpunkt"]
+      "id": "eduardo-avaroa-reservat-life-v2",
+      "description": "Die Reserva Eduardo Avaroa ist bekannt für ihre surrealen Landschaften, aktiven Geysire und farbenfrohen Lagunen voller Flamingos.",
+      "facts": ["Heimat von drei Flamingoarten", "Südwestliches Hochland Boliviens", "Enthält die Laguna Colorada"]
     },
     {
-      "id": "bo-planta-carlos-villegas-economic-v2",
-      "description": "Diese Anlage zur Gasaufbereitung in Tarija trägt wesentlich zur Erdgas-Exportstrategie des Landes bei.",
-      "facts": ["Gas-Kondensat-Trennung", "Standort Gran Chaco", "Exportorientiert"]
+      "id": "kaa-iya-nationalpark-life-v2",
+      "description": "Der Kaa-Iya-Nationalpark im Gran Chaco ist das größte Schutzgebiet Boliviens und ein wichtiger Lebensraum für den Jaguar.",
+      "facts": ["Größter Park im Gran Chaco", "Bekannt für Wildtierbeobachtung", "Schützt trockenes Buschland"]
     }
   ]
 }

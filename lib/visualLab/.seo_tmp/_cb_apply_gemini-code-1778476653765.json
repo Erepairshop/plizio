@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "atlantic-ocean-guinea-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Atlantische Ozean bildet die westliche Grenze Guineas und ist die lebenswichtige Verbindung des Landes zum Welthandel und zu globalen Ökosystemen. Die guineische Küstenlinie erstreckt sich über etwa 320 Kilometer und ist geografisch durch eine extrem zerklüftete Struktur mit zahlreichen Ästuaren, tiefen Buchten und ausgedehnten Mangrovensümpfen geprägt. Dieses Gebiet, bekannt als Maritime Guinea oder Basse-Guinée, unterliegt einem der stärksten Gezeitenhubs in Westafrika. Wirtschaftlich ist der Ozean von existenzieller Bedeutung: Er ermöglicht den Betrieb der strategischen Häfen von Conakry, Kamsar und Boffa, über die der Export von Bauxit und der Import von Konsumgütern abgewickelt wird. Zudem sichert der Ozean durch die handwerkliche und industrielle Fischerei die Proteinversorgung von Millionen von Menschen. Historisch gesehen war die Küste das erste Kontaktgebiet mit europäischen Händlern und Entdeckern. Ökologisch beherbergen die Küstengewässer eine enorme Vielfalt an Meereslebewesen, darunter Meeresschildkröten, Delfine und in den Flussmündungen die seltenen afrikanischen Manatis. Die Inselgruppen wie die Îles de Los vor Conakry sind vulkanischen Ursprungs und wichtige ökologische sowie touristische Refugien. Trotz seiner Bedeutung steht der guineische Atlantiksektor vor großen Herausforderungen durch Überfischung, Plastikverschmutzung und die Auswirkungen des steigenden Meeresspiegels.",
+        "hu": "Az Atlanti-óceán Guinea nyugati határát alkotja, és az ország legfontosabb kapuja a világkereskedelem, valamint a globális ökoszisztémák felé. A mintegy 320 kilométer hosszú guineai partvonal földrajzilag rendkívül tagolt: számos folyótorkolat, mély öböl és kiterjedt mangrove-mocsár jellemzi. Ez a régió, Alsó-Guinea vagy Basse-Guinée néven ismert, ahol Nyugat-Afrika egyik legjelentősebb árapály-ingadozása mérhető. Gazdasági szempontból az óceán Guinea éltető eleme: lehetővé teszi Conakry, Kamsar és Boffa stratégiai kikötőinek működését, amelyeken keresztül a bauxitexport és az alapvető áruk behozatala zajlik. Emellett a tengeri halászat – legyen az kisipari vagy ipari méretű – milliók számára biztosítja az alapvető fehérjeforrást. Történelmileg a partvidék volt az európai kereskedőkkel és felfedezőkkel való első találkozási pont. Ökológiai szempontból a guineai vizek rendkívül gazdagok: tengeri teknősök, delfinek és a torkolatvidékeken élő ritka afrikai manátuszok (tengeri tehenek) otthona. A Conakry partjai előtt fekvő Los-szigetek vulkanikus eredetűek, és fontos turisztikai, valamint természetvédelmi területnek számítanak. A hatalmas erőforrások ellenére az óceáni szakasz komoly kihívásokkal néz szembe, mint a túlhalászás, a műanyagszennyezés és a klímaváltozás okozta tengerszint-emelkedés.",
+        "ro": "Oceanul Atlantic formează granița vestică a Guineei și reprezintă legătura vitală a țării cu comerțul mondial și ecosistemele globale. Linia de coastă guineeană se întinde pe aproximativ 320 de kilometri și este caracterizată geografic printr-o structură extrem de fragmentată, cu numeroase estuare, golfuri adânci și mlaștini de mangrove extinse. Această regiune, cunoscută sub numele de Guineea Maritimă sau Basse-Guinée, înregistrează una dintre cele mai mari amplitudini ale mareei din Africa de Vest. Din punct de vedere economic, oceanul este de o importanță existențială: permite funcționarea porturilor strategice din Conakry, Kamsar și Boffa, prin care se desfășoară exportul de bauxită și importul bunurilor de larg consum. De asemenea, oceanul asigură prin pescuitul artizanal și industrial securitatea alimentară pentru milioane de oameni. Istoric vorbind, coasta a fost prima zonă de contact cu negustorii și exploratorii europeni. Ecologic, apele costiere adăpostesc o diversitate enormă de viață marină, inclusiv țestoase marine, delfini și, în zonele de vărsare a râurilor, rarii lamantini africani. Arhipelagurile precum Insulele Los (Îles de Los) din fața orașului Conakry sunt de origine vulcanică și reprezintă importante refugii ecologice și turistice. În ciuda bogăției sale, sectorul atlantic guineean se confruntă cu provocări majore precum suprapescuitul, poluarea cu plastic și efectele creșterii nivelului mării.",
+        "en": "The Atlantic Ocean forms Guinea's western border and serves as the nation's vital link to global trade and ecological networks. The Guinean coastline stretches for approximately 320 kilometers and is geographically characterized by a highly indented structure featuring numerous estuaries, deep bays, and extensive mangrove swamps. This region, known as Maritime Guinea or Basse-Guinée, experiences some of the most significant tidal ranges in West Africa. Economically, the ocean is the lifeblood of the country: it facilitates the operation of strategic ports in Conakry, Kamsar, and Boffa, which are essential for bauxite exports and the import of essential goods. Furthermore, both artisanal and industrial fishing provide a primary source of protein for millions of residents. Historically, the coast was the first point of contact between local kingdoms and European traders and explorers. Ecologically, Guinea's coastal waters are incredibly diverse, hosting sea turtles, dolphins, and the rare West African manatee in its river mouths. Archipelagos such as the Îles de Los off Conakry are of volcanic origin and serve as critical ecological and tourist sanctuaries. Despite its importance, Guinea's maritime sector faces severe challenges from overfishing, plastic pollution, and the impacts of rising sea levels due to climate change."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die guineische Küste hat einen der höchsten Gezeitenunterschiede Westafrikas (bis zu 5 Meter).",
+          "Der Ozean liefert über 90 % des in Guinea konsumierten Fisches.",
+          "Die Îles de Los sind die bekannteste Inselgruppe im guineischen Atlantik.",
+          "An der Küste befinden sich wichtige Nistplätze für die Grüne Meeresschildkröte.",
+          "Der Atlantik ist der Haupttransportweg für Guineas Bauxit-Exporte.",
+          "Klimabedingte Küstenerosion bedroht viele historische Siedlungen am Meer."
+        ],
+        "hu": [
+          "A guineai partvidéken az árapály szintkülönbsége elérheti az 5 métert is.",
+          "Az óceán biztosítja a Guineában elfogyasztott halmennyiség több mint 90%-át.",
+          "A Conakry előtti Los-szigetek vulkáni kőzetekből épülnek fel.",
+          "A tengerparti szakaszokon több veszélyeztetett tengeriteknős-faj is fészkel.",
+          "Az Atlanti-óceánon keresztül távozik az ország bauxit-exportjának teljes egésze.",
+          "A part menti mangrove-erdők az egyik leghatékonyabb szén-dioxid-elnyelők a világon."
+        ],
+        "ro": [
+          "Coasta Guineei este marcată de un fenomen de maree puternică, unic în regiune.",
+          "Oceanul alimentează economia locală prin mii de pirogi de pescuit tradiționale.",
+          "Insula Kassa și Insula Roume sunt cele mai vizitate puncte din largul capitalei.",
+          "Apele teritoriale ale Guineei sunt printre cele mai bogate în resurse halieutice din Africa.",
+          "Oceanul Atlantic este calea principală pentru aprovizionarea cu hidrocarburi a țării.",
+          "Ecosistemul marin este protejat parțial prin rezervații marine comunitare."
+        ],
+        "en": [
+          "Guinea's coastline features a remarkable tidal range of up to 5 meters.",
+          "The Atlantic Ocean provides over 90% of the domestic fish supply in Guinea.",
+          "The Îles de Los archipelago is the primary offshore destination for tourism.",
+          "The coastal zone serves as a critical nesting ground for Green sea turtles.",
+          "Ocean-going bulk carriers are the backbone of Guinea's mineral-led economy.",
+          "Coastal erosion linked to climate change is a primary environmental concern for Conakry."
+        ]
+      }
+    },
+    {
+      "id": "mount-gangan-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Gangan (Mont Gangan) ist das markanteste geografische Wahrzeichen der Region Kindia und einer der bekanntesten Berge im Westen Guineas. Mit einer Höhe von etwa 1.117 Metern überragt er die Stadt Kindia und bildet eine beeindruckende Kulisse aus massivem Granitgestein. Geografisch gehört der Gangan zu den südlichen Ausläufern des Fouta-Djallon-Massivs und markiert den Übergang von der Küstenebene zum Hochland. Der Berg ist durch schroffe Felswände, tiefe Klüfte und eine Vegetation geprägt, die sich von dichten Bergwäldern an den unteren Hängen bis zu kargen Grasflächen auf dem Gipfel erstreckt. Historisch und kulturell hat der Mount Gangan eine große Bedeutung für die lokale Susu-Bevölkerung; er gilt als ein Ort der Stärke und ist Gegenstand zahlreicher lokaler Legenden. Wirtschaftlich spielt der Berg eine Rolle für den Tourismus, da er ein beliebtes Ziel für Wanderer und Kletterer ist, die die spektakuläre Aussicht über die 'Stadt der Zitrusfrüchte' (Kindia) suchen. Zudem reguliert das Massiv das Mikroklima der Region und ist die Quelle für zahlreiche kleine Bäche, die die fruchtbaren Obstplantagen im Tal bewässern. Botanisch beherbergt der Gangan seltene Sukkulenten und Orchideenarten, die in den Felsritzen gedeihen. Ein Aufstieg zum Gipfel bietet nicht nur sportliche Herausforderungen, sondern auch ein tiefes Verständnis für die geologische Kraft, die die Landschaft von Maritime Guinea geformt hat.",
+        "hu": "A Gangan-hegy (Mont Gangan) Kindia régiójának legmeghatározóbb földrajzi jelképe és Guinea nyugati részének egyik legismertebb hegycsúcsa. Mintegy 1117 méteres magasságával fenségesen emelkedik Kindia városa fölé, monumentális gránitfalaival uralva a tájat. Földrajzilag a Gangan a Fouta Djallon-hegység déli nyúlványaihoz tartozik, és az átmenetet jelöli a tengerparti síkságok és a magasföldek között. A hegyet meredek sziklafalak, mély hasadékok és változatos növényzet jellemzi: az alsó lankákat sűrű hegyi erdők borítják, míg a csúcson ritkás füves puszták találhatók. Történelmileg és kulturálisan a Gangan-hegy kiemelt jelentőséggel bír a helyi szuszu lakosság számára; az erő és a védelem szimbólumaként tekintenek rá, és számos legenda övezi. Gazdaságilag a hegy a turizmus egyik motorja: a túrázók és sziklamászók kedvelt célpontja, akik a csúcsról nyíló, Kindia városára és a környező gyümölcsösökre néző panoráma miatt érkeznek ide. Emellett a hegység szabályozza a régió mikroklímáját, és számos apró patak forráshelye, amelyek a völgyekben elterülő termékeny ültetvényeket öntözik. Botanikailag a Gangan ritka pozsgás növényeknek és orchideáknak ad otthont. A hegy meghódítása nemcsak fizikai kihívást jelent, hanem bepillantást enged Alsó-Guinea vadregényes természeti világába is.",
+        "ro": "Muntele Gangan (Mont Gangan) este cel mai proeminent reper geografic al regiunii Kindia și unul dintre cei mai faimoși munți din vestul Guineei. Cu o înălțime de aproximativ 1.117 metri, acesta domină orașul Kindia, formând un decor impresionant de granit masiv. Din punct de vedere geografic, Gangan aparține ramificațiilor sudice ale masivului Fouta Djallon, marcând trecerea de la câmpia litorală la podișul înalt. Muntele este caracterizat de pereți stâncoși abrupți, crevase adânci și o vegetație ce variază de la păduri montane dense la baza sa, până la pajiști alpine pe culme. Istoric și cultural, Muntele Gangan are o importanță deosebită pentru populația Susu locală, fiind considerat un loc al puterii și subiectul a numeroase legende. Economic, muntele joacă un rol în turism, fiind o destinație populară pentru drumeții și alpiniști care caută priveliști spectaculoase asupra „orașului citricelor” (Kindia). În plus, masivul reglează microclimatul regiunii și este sursa a numeroase pârâuri care irigă plantațiile de fructe fertile din vale. Din punct de vedere botanic, Gangan adăpostește specii rare de plante suculente și orhidee care prosperă în crăpăturile stâncilor. O ascensiune pe vârf oferă nu doar o provocare sportivă, ci și o înțelegere profundă a forțelor geologice care au modelat peisajul Guineei Maritime.",
+        "en": "Mount Gangan (Mont Gangan) is the most iconic geographic landmark of the Kindia region and one of the most celebrated peaks in western Guinea. Standing at approximately 1,117 meters, it towers over the city of Kindia, creating a dramatic backdrop of massive granite rock. Geographically, Gangan belongs to the southern foothills of the Fouta Djallon massif, marking the transition from the coastal plains to the interior highlands. The mountain is characterized by sheer rock faces, deep crevices, and vegetation ranging from dense montane forests on the lower slopes to sparse grasslands at the summit. Historically and culturally, Mount Gangan holds great significance for the local Susu people; it is revered as a place of strength and is the subject of numerous local legends. Economically, the mountain drives regional tourism, being a premier destination for hikers and climbers seeking spectacular views over 'the city of citrus' (Kindia). Additionally, the massif regulates the local microclimate and serves as the source for many small streams that irrigate the fertile fruit orchards in the valley below. Botanically, Gangan is home to rare succulents and orchid species that thrive in its rocky alcoves. Climbing to the summit provides both a physical challenge and a profound appreciation for the geological power that shaped the landscape of Maritime Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Gangan ist mit 1.117 m der höchste Gipfel in der unmittelbaren Umgebung von Kindia.",
+          "Der Berg besteht fast vollständig aus massivem, präkambrischem Granit.",
+          "Er gilt als einer der besten Orte in Guinea für das technische Bergsteigen.",
+          "Die 'Dame von Gangan' ist eine Felsformation, die an ein menschliches Profil erinnert.",
+          "Zahlreiche endemische Pflanzenarten wachsen in den isolierten Felsregionen.",
+          "Vom Gipfel aus kann man bei klarer Sicht die Küstenebene von Basse-Guinée überblicken."
+        ],
+        "hu": [
+          "A Gangan-hegy 1117 méteres magasságával Kindia környékének legmagasabb pontja.",
+          "A hegy alapkőzete több millió éves, masszív prekambriumi gránit.",
+          "A sziklamászók számára ez Guinea egyik legvonzóbb és legnehezebb terepe.",
+          "A hegycsúcsról belátható az egész Kindia-völgy és a környező ültetvények.",
+          "A hegyen több olyan orchideafaj él, amely csak ebben a magasságban fordul elő.",
+          "A Gangan-hegy fontos szerepet játszik a felhőképződésben és a helyi csapadék eloszlásában."
+        ],
+        "ro": [
+          "Mont Gangan reprezintă un pinten muntos izolat care oferă o barieră naturală împotriva vânturilor marine.",
+          "Formațiunile sale granitice sunt rezultatul unei eroziuni de sute de milioane de ani.",
+          "Este considerat muntele sacru al triburilor Susu din regiune.",
+          "Traseul spre vârf este unul dintre cele mai populare itinerarii de trekking din Guineea.",
+          "Muntele alimentează pânza freatică a bazinului agricol din Kindia.",
+          "În grotele sale au fost descoperite resturi de ceramică veche și unelte de piatră."
+        ],
+        "en": [
+          "Mount Gangan is the highest peak in the Kindia area, reaching 1,117 meters.",
+          "The mountain is a massive granitic batholith dating back to the Precambrian era.",
+          "It is recognized as Guinea's top spot for technical rock climbing and bouldering.",
+          "The peak acts as a natural water tower for the surrounding fruit-growing valleys.",
+          "The mountain features the 'Lady of Gangan,' a natural rock profile visible from Kindia.",
+          "It supports a unique ecosystem of lithophytic plants that grow directly on rock faces."
+        ]
+      }
+    },
+    {
+      "id": "fatala-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fatala-Fluss (Fleuve Fatala) ist eine bedeutende Wasserstraße in der Region Maritime Guinea, die vor allem durch die Stadt Boffa bekannt ist. Geografisch entspringt der Fluss in den Ausläufern des Fouta-Djallon-Massivs und fließt in südwestlicher Richtung, bis er bei Boffa in ein weitreichendes Ästuar mündet, das mit dem Atlantischen Ozean verbunden ist. Der Fatala zeichnet sich durch seine tiefen Gezeitenrinnen und die ihn säumenden dichten Mangrovenwälder aus. Historisch gesehen war der Fluss eine zentrale Ader für den Handel und leider auch für den Sklavenhandel im 18. und 19. Jahrhundert, da Schiffe tief in das Landesinnere vordringen konnten. Heute ist der Fatala wirtschaftlich von strategischer Bedeutung für den Bergbausektor: Er dient als Transportweg für Bauxit-Leichter, die das Erz von den umliegenden Minen zu den Verladestationen an der Küste bringen. Die 2004 eingeweihte große Brücke über den Fatala bei Boffa hat die logistische Bedeutung des Flusses weiter erhöht und die Isolation der nordwestlichen Küstengebiete beendet. Ökologisch ist das Ästuar des Fatala ein hochproduktives Gebiet, das als Brutstätte für Fische und Garnelen dient und das Überleben zahlreicher Fischerdörfer sichert. Die Landschaft am Fatala bietet ein malerisches Bild der Verbindung von Fluss, Regenwald und Mangroven.",
+        "hu": "A Fatala-folyó (Fleuve Fatala) Alsó-Guinea egyik legfontosabb vízi útja, amely leginkább Boffa városa révén ismert. Földrajzilag a folyó a Fouta Djallon-hegység előterében ered, majd délnyugati irányba tartva Boffánál egy hatalmas, tölcsérszerű torkolattal ömlik az Atlanti-óceánba. A Fatalát mély árapály-csatornák és az azokat övező sűrű mangrove-erdők jellemzik. Történelmileg a folyó a kereskedelem – és sajnálatos módon a 18-19. századi rabszolga-kereskedelem – egyik fő útvonala volt, mivel a hajók mélyen be tudtak hatolni a szárazföld belsejébe. Ma a Fatala gazdasági jelentősége a bányászathoz kötődik: a folyó fontos szállítási útvonal a bauxitot szállító bárkák számára, amelyek az ércet a part menti rakodóállomásokra juttatják. A 2004-ben átadott boffai híd a folyó felett stratégiai jelentőségű, hiszen ez biztosítja az összeköttetést a főváros és az északnyugati partvidék között. Ökológiai szempontból a Fatala torkolatvidéke rendkívül gazdag élőhely, amely a halak és garnélák fontos szaporodóhelye, így a környékbeli halászfalvak elsődleges bevételi forrása. A folyó menti táj a trópusi esőerdők és a mocsaras mangrove-világ találkozásának lenyűgöző példája.",
+        "ro": "Râul Fatala (Fleuve Fatala) este o cale navigabilă majoră în regiunea Guineea Maritimă, fiind strâns legat de istoria și economia orașului Boffa. Geografic, râul izvorăște din contraforturile masivului Fouta Djallon și curge spre sud-vest până când se varsă într-un estuar vast la Boffa, comunicând direct cu Oceanul Atlantic. Fatala se distinge prin canalele sale adânci influențate de maree și prin pădurile dese de mangrove care îi mărginesc malurile. Din punct de vedere istoric, râul a fost o arteră centrală pentru comerț și, din păcate, pentru traficul de sclavi în secolele XVIII și XIX, permițând navelor să pătrundă adânc în interiorul teritoriului. Astăzi, Fatala are o importanță economică strategică pentru sectorul minier, servind drept rută de transport pentru barjele încărcate cu bauxită care fac legătura între mine și terminalele de coastă. Podul impunător peste Fatala de la Boffa, inaugurat în 2004, a sporit relevanța logistică a râului și a pus capăt izolării regiunilor de coastă din nord-vest. Din punct de vedere ecologic, estuarul Fatala este o zonă extrem de productivă, funcționând ca loc de reproducere pentru pești și crustacee, susținând astfel numeroase sate de pescari. Peisajul oferit de râul Fatala este unul pitoresc, împletind cursul apei cu pădurea tropicală și vegetația de mlaștină.",
+        "en": "The Fatala River (Fleuve Fatala) is a significant waterway in the Maritime Guinea region, most notably associated with the town of Boffa. Geographically, the river originates in the foothills of the Fouta Djallon massif and flows southwestward until it opens into a broad estuary at Boffa, connecting with the Atlantic Ocean. The Fatala is defined by its deep tidal channels and the dense mangrove forests that line its banks. Historically, the river served as a major artery for commerce and, tragically, for the slave trade during the 18th and 19th centuries, as ships could navigate far inland. Today, the Fatala holds strategic economic importance for the mining sector, acting as a primary transport route for bauxite barges moving ore from inland mines to coastal loading facilities. The landmark bridge over the Fatala at Boffa, completed in 2004, significantly enhanced the river's logistical role and ended the historical isolation of northwestern coastal areas. Ecologically, the Fatala estuary is a highly productive zone, serving as a vital nursery for fish and shrimp that support numerous artisanal fishing communities. The landscape along the Fatala offers a picturesque scene where river, rainforest, and mangroves converge."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Fatala-Fluss ist an seiner Mündung bei Boffa fast einen Kilometer breit.",
+          "Er ist ein wichtiger Teil des guineischen Bauxit-Exportkorridors.",
+          "Die Fatala-Brücke ist über 400 Meter lang und ein Schlüsselbauwerk der N3.",
+          "Das Ästuar des Fatala beherbergt bedeutende Bestände der Roten Mangrove.",
+          "Historisch befanden sich an den Ufern des Fatala mehrere europäische Faktoreien.",
+          "Der Fluss unterliegt starken Gezeitenströmungen, die die Schifffahrt beeinflussen."
+        ],
+        "hu": [
+          "A Fatala-folyó torkolata Boffánál csaknem egy kilométer széles.",
+          "A folyó Guinea egyik legfontosabb bányászati logisztikai útvonala.",
+          "A folyón átívelő boffai híd több mint 400 méter hosszú.",
+          "A torkolatvidék fontos élőhelye a nyugat-afrikai lamantinnak.",
+          "Történelmileg a folyó mentén számos francia és brit kereskedőállomás működött.",
+          "A Fatala vize a torkolattól több tíz kilométerre is sós az árapály miatt."
+        ],
+        "ro": [
+          "Râul Fatala este navigabil pentru barje de mare tonaj pe zeci de kilometri.",
+          "Podul de la Boffa peste Fatala a fost construit cu sprijin financiar internațional.",
+          "Ecosistemul Fatala este inclus în zonele de conservare a mangrovelor guineene.",
+          "Râul a jucat un rol cheie în stabilirea primelor misiuni catolice în Boffa.",
+          "Debitul râului Fatala este alimentat de precipitațiile record din Basse-Guinée.",
+          "Pescuitul de estuar pe Fatala este principala sursă de hrană pentru prefectura Boffa."
+        ],
+        "en": [
+          "The Fatala River reaches a width of nearly one kilometer at its mouth near Boffa.",
+          "It is a cornerstone of the logistics chain for Guinea's bauxite exports.",
+          "The 400-meter-long Fatala Bridge is a vital landmark on the N3 national highway.",
+          "The river's estuary is a designated area for mangrove biodiversity protection.",
+          "Historically, the Fatala was used by diverse European powers for riverine trade.",
+          "The river experiences strong tidal bores that affect artisanal navigation."
+        ]
+      }
+    },
+    {
+      "id": "diecke-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Diecké-Wald (Forêt Classée de Diecké) ist eines der bedeutendsten und am besten erhaltenen Gebiete des primären tropischen Regenwaldes im Südosten Guineas. Geografisch liegt das Reservat in der Region Guinée Forestière, nahe der Grenze zu Liberia, und erstreckt sich über eine hügelige Landschaft mit Höhen zwischen 400 und 600 Metern. Der Wald zeichnet sich durch eine außergewöhnliche Dichte an Baumriesen aus, die ein geschlossenes Blätterdach bilden und einer enormen Biodiversität Schutz bieten. Diecké ist weltbekannt als eines der letzten Rückzugstürme für den Westafrikanischen Schimpansen und beherbergt zudem eine kleine, aber stabile Population von Waldelefanten. Botanisch ist das Gebiet ein Schatzhaus mit über 1.000 Pflanzenarten, darunter seltene Mahagoni- und Ebenholzbäume. Historisch blieb der Wald aufgrund seiner Lage und der traditionellen Ehrfurcht der lokalen Gemeinschaften (wie der Guerzé) vor der Natur weitgehend intakt. Wirtschaftlich spielt Diecké eine Rolle durch die nachhaltige Gewinnung von Heilpflanzen und als wichtiger Wasserspeicher, der das lokale Klima reguliert. Trotz seines Status als geschützter Wald steht Diecké unter ständigem Druck durch Brandrodung, Wilderei und die Suche nach Bodenschätzen. Für Wissenschaftler ist der Wald ein entscheidender Ort zur Erforschung der Regenwaldökologie in Westafrika und ein Symbol für den Kampf um den Erhalt der letzten grünen Lungen des Kontinents.",
+        "hu": "A Diecké-erdő (Forêt Classée de Diecké) Guinea délkeleti részének egyik legjelentősebb és legjobb állapotban megőrzött elsődleges trópusi esőerdője. Földrajzilag az Erdős-Guinea (Guinée Forestière) régióban, a libériai határ közelében fekszik, dombos vidéken, 400 és 600 méter közötti tengerszint feletti magasságban. Az erdőt hatalmas, égig érő fák jellemzik, amelyek zárt lombozata alatt rendkívüli biológiai sokféleség virágzik. Diecké világszerte ismert, mint a nyugat-afrikai csimpánzok egyik utolsó bástyája, és egyben otthont ad egy kicsi, de stabil erdei elefántállománynak is. Botanikailag a terület valóságos kincstár: több mint 1000 növényfaj található itt, köztük értékes mahagóni- és ébenfafák. Történelmileg az erdő érintetlenségét a távoli fekvésén túl a helyi közösségek (például a kuerze nép) természettisztelete is segítette megőrizni. Gazdasági szempontból Diecké a fenntartható gyógynövénygyűjtés és a régió vízháztartásának szabályozása révén fontos. A védett státusz ellenére az erdőre állandó nyomást gyakorol az illegális fakitermelés, az orvvadászat és a mezőgazdasági terjeszkedés. A kutatók számára a Diecké-erdő kulcsfontosságú helyszín a nyugat-afrikai esőerdők ökológiájának tanulmányozására és a kontinens utolsó „zöld tüdejének” megőrzéséért folytatott küzdelem jelképe.",
+        "ro": "Pădurea Diecké (Forêt Classée de Diecké) reprezintă unul dintre cele mai importante și bine conservate fragmente de pădure tropicală primară din sud-estul Guineei. Geografic, rezervația este situată în regiunea Guinée Forestière, în apropierea frontierei cu Liberia, acoperind un relief colinar cu altitudini între 400 și 600 de metri. Pădurea se remarcă prin densitatea arborilor giganți care formează un baldachin închis, oferind protecție unei biodiversități imense. Diecké este celebră la nivel mondial ca fiind unul dintre ultimele refugii pentru cimpanzeul vest-african și adăpostește, de asemenea, o populație mică, dar stabilă, de elefanți de pădure. Din punct de vedere botanic, zona este un tezaur cu peste 1.000 de specii de plante, inclusiv esențe rare de mahon și abanos. Istoric, pădurea a rămas în mare parte intactă datorită poziției sale izolate și respectului tradițional al comunităților locale (precum etnia Guerzé) față de natură. Economic, Diecké joacă un rol în colectarea sustenabilă a plantelor medicinale și ca rezervor de apă care reglează climatul local. În ciuda statutului de pădure protejată, Diecké este sub presiunea constantă a agriculturii prin defrișare, a braconajului și a prospecțiunilor miniere. Pentru cercetători, pădurea este un loc crucial pentru studierea ecologiei forestiere în Africa de Vest.",
+        "en": "The Diecké Forest (Forêt Classée de Diecké) is one of the most vital and well-preserved primary tropical rainforests in southeastern Guinea. Geographically located in the Forested Guinea region, near the Liberian border, the reserve spans a rolling landscape at elevations between 400 and 600 meters. The forest is characterized by an extraordinary density of giant trees that form a continuous canopy, sheltering an immense array of biodiversity. Diecké is internationally renowned as one of the last strongholds for the West African chimpanzee and also supports a small but stable population of forest elephants. Botanically, the area is a massive repository of over 1,000 plant species, including rare hardwoods like mahogany and ebony. Historically, the forest remained largely intact due to its remote location and the traditional reverence of local communities, such as the Guerzé, for the natural world. Economically, Diecké is important for sustainable medicinal plant harvesting and as a critical watershed that regulates the regional climate. Despite its protected status, Diecké faces persistent pressure from slash-and-burn agriculture, poaching, and mineral exploration. For scientists, the forest is a key site for researching rainforest ecology in West Africa and stands as a symbol of the struggle to preserve the continent's remaining green lungs."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Diecké ist Teil eines grenzüberschreitenden Waldökosystems mit Liberia.",
+          "Der Wald beherbergt eine bedeutende Population bedrohter Westafrikanischer Schimpansen.",
+          "Die Fläche des Reservats beträgt etwa 64.000 Hektar.",
+          "Hier fließen zahlreiche Bäche, die den Saint Paul River speisen.",
+          "Im Wald wurden über 300 verschiedene Vogelarten nachgewiesen.",
+          "Diecké ist bekannt für seine riesigen Lianen und Farne im Unterholz."
+        ],
+        "hu": [
+          "Diecké egy határokon átnyúló erdőrendszer része, amely Libériába is átnyúlik.",
+          "Az erdő Guinea egyik legfontosabb csimpánz- és törpevíziló-élőhelye.",
+          "A rezervátum teljes területe megközelítőleg 64 000 hektár.",
+          "A terület vízhálózata táplálja a délre tartó Saint Paul folyót.",
+          "Az erdőben több tucat ritka trópusi fafaj él, amelyek kora meghaladja a 100 évet.",
+          "A helyi kuerze kultúra rituáléi szorosan kötődnek az erdő titkos helyszíneihez."
+        ],
+        "ro": [
+          "Pădurea Diecké este clasificată ca arie protejată de interes național.",
+          "Situl este monitorizat prin programe internaționale de protecție a primatelor.",
+          "Regiunea Diecké are unul dintre cele mai umede climate din interiorul Guineei.",
+          "Flora include specii endemice de orhidee epifite.",
+          "Este un punct cheie pentru coridorul biologic între pădurile din Guineea și Liberia.",
+          "Activitățile de ecoturism sunt strict controlate pentru a minimiza impactul uman."
+        ],
+        "en": [
+          "Diecké forms part of a larger transboundary forest block shared with Liberia.",
+          "It is a high-priority site for the conservation of the West African chimpanzee.",
+          "The reserve covers an expansive area of approximately 64,000 hectares.",
+          "The forest acts as a vital carbon sink for the West African sub-region.",
+          "It features some of the last remaining stands of mature primary rainforest in Guinea.",
+          "Local communities participate in community-based forest management initiatives."
+        ]
+      }
+    },
+    {
+      "id": "lake-sonfonia-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Sonfonia-See (Lac de Sonfonia) ist das bedeutendste stehende Binnengewässer in der Agglomeration von Conakry und eine kritische ökologische Ressource für die Hauptstadt. Geografisch liegt der See im gleichnamigen Vorort Sonfonia im Osten von Conakry, eingebettet in eine flache Küstenzone. Der See dient primär als wichtiges Reservoir für die Wasserversorgung der wachsenden Bevölkerung der Hauptstadt und spielt eine zentrale Rolle im lokalen hydrologischen System. Historisch gesehen war der Sonfonia-See einst ein unberührtes Naturgebiet am Rande der Stadt, hat jedoch durch die rasante Urbanisierung der letzten Jahrzehnte massiv an natürlicher Fläche verloren. Heute ist das Leben am See durch einen ständigen Konflikt zwischen ökologischer Erhaltung und menschlicher Siedlungstätigkeit geprägt. Wirtschaftlich ist der See für die lokale Kleinfischerei und die Bewässerung kleinerer landwirtschaftlicher Flächen in der Umgebung von Bedeutung. In jüngster Zeit wurden verstärkt staatliche und internationale Bemühungen unternommen, um den See vor Verschmutzung und Verlandung zu schützen und seine Funktion als Naherholungsgebiet für die Stadtbewohner zu reaktivieren. Ökologisch bietet der See trotz der urbanen Belastung weiterhin Lebensraum für Wasservögel und ist ein wichtiger Regulator für das lokale Mikroklima in einem ansonsten stark versiegelten Stadtgebiet.",
+        "hu": "A Sonfonia-tó (Lac de Sonfonia) Conakry agglomerációjának legjelentősebb állóvize és a főváros kritikus ökológiai erőforrása. Földrajzilag a város keleti részén, az azonos nevű Sonfonia negyedben található, a tengerparti síkságba ágyazódva. A tó elsődleges szerepe a főváros rohamosan növekvő lakosságának vízzel való ellátása, így a helyi vízgazdálkodási rendszer központi eleme. Történelmileg a Sonfonia-tó egy érintetlen természeti terület volt a város szélén, azonban az elmúlt évtizedek robbanásszerű urbanizációja miatt területe jelentősen zsugorodott. Ma a tó környéki életet az ökológiai megőrzés és az emberi terjeszkedés közötti állandó küzdelem jellemzi. Gazdaságilag a vízfelület fontos a helyi kisléptékű halászat és a környékbeli konyhakertek öntözése szempontjából. Az utóbbi években felerősödtek azok az állami és nemzetközi törekvések, amelyek a tó megtisztítását és a feltöltődés megakadályozását célozzák, hogy a területet rekreációs övezetté alakítsák a városlakók számára. Ökológiai szempontból a tó a városi terhelés ellenére is menedéket nyújt számos vízimadárnak, és fontos szerepet játszik a főváros mikroklímájának szabályozásában a sűrűn beépített negyedek között.",
+        "ro": "Lacul Sonfonia (Lac de Sonfonia) este cea mai importantă masă de apă stătătoare din aglomerația urbană Conakry și o resursă ecologică critică pentru capitală. Geografic, lacul este situat în suburbia Sonfonia din estul capitalei, fiind integrat într-o zonă litorală joasă. Lacul funcționează în principal ca un rezervor strategic pentru alimentarea cu apă a populației în continuă creștere și joacă un rol central în sistemul hidrologic local. Din punct de vedere istoric, Lacul Sonfonia a fost o zonă naturală virgină la periferia orașului, însă urbanizarea rapidă din ultimele decenii a dus la o reducere masivă a suprafeței sale naturale. Astăzi, viața în jurul lacului este marcată de un conflict permanent între conservarea ecologică și activitățile de așezare umană. Economic, lacul este relevant pentru pescuitul artizanal la scară mică și pentru irigarea unor suprafețe agricole reziduale din împrejurimi. Recent, au fost demarate eforturi guvernamentale și internaționale susținute pentru a proteja lacul de poluare și de colmatare, cu scopul de a-i reactiva funcția de zonă de agrement pentru locuitorii orașului. Ecologic, în ciuda presiunii urbane, lacul rămâne un habitat pentru păsările acvatice și un regulator esențial al microclimatului într-o zonă urbană altfel puternic betonată.",
+        "en": "Lake Sonfonia (Lac de Sonfonia) is the most significant inland body of water within the Conakry metropolitan area and a critical ecological resource for the capital. Geographically located in the eastern suburb of the same name, the lake is nestled within a flat coastal zone. Its primary function is serving as a vital reservoir for the water supply of the capital's rapidly expanding population, making it a cornerstone of the local hydrological network. Historically, Lake Sonfonia was a pristine natural area on the outskirts of the city, but it has faced significant loss of its natural footprint due to explosive urban growth over the last few decades. Today, life around the lake is defined by an ongoing struggle between ecological preservation and human encroachment. Economically, the lake supports small-scale artisanal fishing and the irrigation of urban garden plots in its vicinity. In recent years, there have been increasing government and international efforts to protect the lake from pollution and siltation, aiming to revitalize its potential as a recreational space for city residents. Ecologically, despite the urban pressures, the lake remains a sanctuary for water birds and acts as a crucial regulator of the local microclimate in an otherwise heavily built-up urban environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der See ist eine der wichtigsten Süßwasserquellen für den Osten Conakrys.",
+          "Er hat durch illegale Bebauung in den letzten 20 Jahren fast 30 % seiner Fläche verloren.",
+          "Der See ist ein wichtiger Rastplatz für Zugvögel innerhalb der Stadtgrenzen.",
+          "In der Nähe befindet sich die Universität von Sonfonia.",
+          "Es gibt aktuelle Projekte zur Reinigung und Entschlammung des Sees.",
+          "Die Ufervegetation besteht teilweise aus Restbeständen von Mangroven und Sumpfgräsern."
+        ],
+        "hu": [
+          "A tó Conakry keleti negyedeinek egyik legfőbb édesvíz-tartaléka.",
+          "Az illegális építkezések miatt a tó vízfelülete drasztikusan lecsökkent az elmúlt évtizedekben.",
+          "A terület a városi madárvilág egyik utolsó háborítatlan fészkelőhelye.",
+          "A tó közvetlen szomszédságában található a Sonfonia Egyetem kampusza.",
+          "Jelenleg nemzetközi programok zajlanak a tó ökológiai rehabilitációjáért.",
+          "A tó vize segít mérsékelni a városi hősziget-hatást a környező negyedekben."
+        ],
+        "ro": [
+          "Lacul Sonfonia este vital pentru menținerea echilibrului hidric în estul capitalei.",
+          "Situl se confruntă cu probleme grave de poluare din cauza deșeurilor urbane.",
+          "Este unul dintre puținele locuri din Conakry unde se pot observa specii de rațe sălbatice.",
+          "Universitatea din Sonfonia utilizează proximitatea lacului pentru studii de mediu.",
+          "Proiectele de reabilitare prevăd transformarea malurilor în parcuri publice.",
+          "Adâncimea medie a lacului a scăzut semnificativ din cauza colmatării."
+        ],
+        "en": [
+          "Lake Sonfonia provides an essential freshwater backup for Conakry's eastern districts.",
+          "The lake has lost nearly a third of its surface area to urban encroachment since 2000.",
+          "It remains a key urban biodiversity site, hosting various migratory bird species.",
+          "The Sonfonia University campus is located immediately adjacent to its shores.",
+          "Recent reforestation efforts along the banks aim to stabilize the shoreline.",
+          "The lake is a primary focus of Guinea's urban environmental management policy."
+        ]
+      }
+    }
+  ]
+}

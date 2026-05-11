@@ -1,0 +1,65 @@
+{
+  "lang": "en",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nagero-cities-v2",
+      "description": "A remote settlement in Western Equatoria, characterized by its traditional lifestyle and proximity to forest reserves.",
+      "facts": ["Located in Western Equatoria", "Remote forest setting", "Traditional lifestyle", "Near forest reserves"]
+    },
+    {
+      "id": "nzara-cities-v2",
+      "description": "Known historically for its agro-industrial center, Nzara is a key town in the fertile Western Equatoria region.",
+      "facts": ["Western Equatoria region", "Historical agro-industrial center", "Fertile land area", "Regional trading hub"]
+    },
+    {
+      "id": "ibba-cities-v2",
+      "description": "A local center in Western Equatoria, primarily focused on agriculture and community-based trade.",
+      "facts": ["Western Equatoria", "Agricultural focus", "Local community center", "Rural transit point"]
+    },
+    {
+      "id": "lui-cities-v2",
+      "description": "A historic mission town in Western Equatoria, long established as a center for education and healthcare in the region.",
+      "facts": ["Western Equatoria", "Historic mission station", "Educational hub", "Regional healthcare center"]
+    },
+    {
+      "id": "amadi-cities-v2",
+      "description": "Located in the lush landscape of the Western Equatoria state, Amadi serves as a traditional local gathering point.",
+      "facts": ["Western Equatoria", "Lush green terrain", "Traditional gathering site", "Rural service center"]
+    },
+    {
+      "id": "kotobi-cities-v2",
+      "description": "An important local settlement in Central Equatoria, reflecting the area's agricultural and cultural diversity.",
+      "facts": ["Central Equatoria", "Agricultural community", "Diverse local culture", "Small-scale commerce hub"]
+    },
+    {
+      "id": "ganyliel-cities-v2",
+      "description": "A significant settlement located in the vast wetlands of the Sudd, essential for local river-based livelihoods.",
+      "facts": ["Located in Sudd wetlands", "River-dependent lifestyle", "Wetland community hub", "Fishing and transport center"]
+    },
+    {
+      "id": "panyijar-cities-v2",
+      "description": "Located in the Unity state, Panyijar is central to the lives of communities living in the floodplains.",
+      "facts": ["Located in Unity State", "Floodplain settlement", "Pastoralist transit hub", "Community service center"]
+    },
+    {
+      "id": "fangak-cities-v2",
+      "description": "A vital town in the Jonglei region, deeply connected to the seasonal rhythms of the Nile floodplains.",
+      "facts": ["Located in Jonglei State", "Nile floodplain settlement", "Seasonal transit point", "Key community center"]
+    },
+    {
+      "id": "uror-cities-v2",
+      "description": "A central settlement in the Jonglei region, serving as a hub for local pastoralist communities.",
+      "facts": ["Jonglei region", "Pastoralist community hub", "Local regional center", "Traditional marketplace site"]
+    }
+  ]
+}

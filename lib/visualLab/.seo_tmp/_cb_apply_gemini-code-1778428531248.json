@@ -1,0 +1,245 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cv-casa-da-memoria-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Casa da Memória befindet sich in einem sorgfältig restaurierten Sobrado im historischen Zentrum von São Filipe auf der Insel Fogo. Dieses Privatmuseum wurde von der Historikerin Monique Widmer gegründet und dient als ein bedeutendes kulturelles Repositorium für die Geschichte und die Traditionen der Insel. Das Gebäude selbst ist ein architektonisches Erbe aus der Kolonialzeit, das durch seine massiven Steinmauern und die typischen hohen Holzdecken besticht. Im Inneren beherbergt das Museum eine umfangreiche Sammlung von Alltagsgegenständen, historischen Fotografien, Dokumenten und landwirtschaftlichen Geräten, die das Leben der herrschaftlichen Familien (Morgados) sowie der Landarbeiter und Sklaven über Jahrhunderte dokumentieren. Ein besonderer Schwerpunkt liegt auf der vulkanischen Aktivität des Pico do Fogo und deren tiefgreifenden Auswirkungen auf die lokale Siedlungsgeschichte. Die Ausstellung vermittelt zudem Wissen über die traditionelle Textilherstellung (Pano de Terra) und den Kaffeeanbau. Geografisch liegt das Museum in einer der kopfsteingepflasterten Gassen der Vila Baixa, unweit des Hauptplatzes. Die Casa da Memória fungiert nicht nur als Ausstellungsraum, sondern auch als Forschungszentrum, das aktiv zum Erhalt des immateriellen Erbes von Fogo beiträgt. Es bietet Besuchern einen tiefen, wissenschaftlich fundierten Einblick in die soziale Schichtung und die kulturelle Evolution der Inselgemeinschaft.",
+        "hu": "A Casa da Memória egy gondosan restaurált sobradóban (gyarmati kúriában) található São Filipe történelmi központjában, Fogo szigetén. Ezt a magánmúzeumot Monique Widmer történész alapította, és a sziget történelmének és hagyományainak egyik legfontosabb kulturális tára. Maga az épület a gyarmati korszak építészeti öröksége, amely masszív kőfalaival és a jellegzetes magas fagerendás mennyezetével tűnik ki. Odabent a múzeum mindennapi használati tárgyak, történelmi fényképek, dokumentumok és mezőgazdasági eszközök széles gyűjteményét őrzi, amelyek évszázadokon keresztül dokumentálják az úri családok (morgadók), valamint a földművesek és rabszolgák életét. Különös hangsúlyt fektetnek a Pico do Fogo vulkáni tevékenységére és annak a helyi településtörténetre gyakorolt mélyreható hatásaira. A kiállítás ismereteket nyújt a hagyományos textilgyártásról (Pano de Terra) és a kávétermesztésről is. Földrajzilag a múzeum a Vila Baixa egyik macskaköves utcájában található, nem messze a főtértől. A Casa da Memória nemcsak kiállítótérként, hanem kutatóközpontként is funkcionál, amely aktívan hozzájárul Fogo szellemi örökségének megőrzéséhez. A látogatóknak mély, tudományosan megalapozott betekintést nyújt a szigeti közösség társadalmi tagozódásába és kulturális fejlődésébe.",
+        "ro": "Casa da Memória este situată într-un „sobrado” (conac colonial) restaurat cu grijă în centrul istoric al orașului São Filipe de pe insula Fogo. Acest muzeu privat a fost fondat de istoricul Monique Widmer și servește ca un depozit cultural major pentru istoria și tradițiile insulei. Clădirea în sine este o moștenire arhitecturală din epoca colonială, care impresionează prin zidurile sale masive de piatră și tavanele înalte de lemn tipice. În interior, muzeul găzduiește o colecție extinsă de obiecte de uz cotidian, fotografii istorice, documente și unelte agricole care documentează viața familiilor boierești (morgados), precum și a lucrătorilor agricoli și a sclavilor de-a lungul secolelor. Un accent deosebit este pus pe activitatea vulcanică a Pico do Fogo și pe impactul său profund asupra istoriei așezărilor locale. Expoziția oferă, de asemenea, informații despre producția tradițională de textile (Pano de Terra) și cultivarea cafelei. Geografic, muzeul este situat pe una dintre ulițele pavate din Vila Baixa, nu departe de piața principală. Casa da Memória funcționează nu doar ca spațiu expozițional, ci și ca centru de cercetare care contribuie activ la păstrarea patrimoniului imaterial al insulei Fogo. Oferă vizitatorilor o perspectivă profundă și fundamentată științific asupra stratificării sociale și evoluției culturale a comunității insulare.",
+        "en": "The House of Memory (Casa da Memória) is located in a meticulously restored 'sobrado' (colonial mansion) within the historic center of São Filipe on Fogo Island. This private museum was founded by historian Monique Widmer and serves as a vital cultural repository for the island's history and traditions. The building itself is an architectural heritage site from the colonial era, distinguished by its massive stone walls and characteristically high wooden ceilings. Inside, the museum houses an extensive collection of everyday objects, historical photographs, documents, and agricultural implements that document the lives of the aristocratic families (morgados), as well as farmworkers and slaves over several centuries. A particular focus is placed on the volcanic activity of Pico do Fogo and its profound impact on the local history of settlement. The exhibition also provides detailed knowledge about traditional textile manufacturing (Pano de Terra) and coffee cultivation. Geographically, the museum is situated in one of the cobblestone alleys of the Vila Baixa district, near the main square. Casa da Memória functions not only as an exhibition space but also as a research center that actively contributes to the preservation of Fogo's intangible heritage. It offers visitors a deep, scholarly insight into the social stratification and cultural evolution of the island community."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Privatmuseum in einem historischen Kolonialhaus (Sobrado).",
+          "Dokumentiert die Geschichte der aristokratischen 'Morgados'.",
+          "Beherbergt Artefakte zur vulkanischen Geschichte des Pico do Fogo.",
+          "Zeigt traditionelle Handwerkskunst wie die 'Pano de Terra' Weberei.",
+          "Wurde von der Historikerin Monique Widmer aufgebaut und geleitet.",
+          "Befindet sich im Herzen des denkmalgeschützten Viertels Vila Baixa.",
+          "Wichtiger Ort für den Erhalt des immateriellen Kulturerbes der Insel."
+        ],
+        "hu": [
+          "Magánmúzeum egy történelmi gyarmati házban (sobradóban).",
+          "Az arisztokrata 'morgadók' családtörténetét dokumentálja.",
+          "A Pico do Fogo vulkáni múltjával kapcsolatos leleteket őriz.",
+          "Bemutatja a hagyományos 'Pano de Terra' szőttesek készítését.",
+          "Monique Widmer történész hozta létre és vezeti az intézményt.",
+          "A műemlékvédelem alatt álló Vila Baixa negyed szívében található.",
+          "Fontos helyszín a sziget szellemi kulturális örökségének megőrzésében."
+        ],
+        "ro": [
+          "Muzeu privat situat într-o casă colonială istorică (sobrado).",
+          "Documentează istoria familiilor aristocratice de tip „morgados”.",
+          "Găzduiește artefacte privind istoria vulcanică a Pico do Fogo.",
+          "Prezintă meșteșuguri tradiționale precum țesătoria „Pano de Terra”.",
+          "A fost înființat și este condus de istoricul Monique Widmer.",
+          "Situat în inima cartierului protejat Vila Baixa.",
+          "Loc important pentru conservarea patrimoniului cultural imaterial al insulei."
+        ],
+        "en": [
+          "Private museum housed in a historic colonial mansion (Sobrado).",
+          "Exhibits document the history of the island's 'Morgado' elite.",
+          "Features artifacts related to the volcanic eruptions of Pico do Fogo.",
+          "Showcases traditional crafts including the local 'Pano de Terra' weaving.",
+          "Established and managed by the prominent historian Monique Widmer.",
+          "Located within the protected historic core of the Vila Baixa district.",
+          "Key institution for preserving the island's intangible cultural heritage."
+        ]
+      }
+    },
+    {
+      "id": "estadio-nacional-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Estádio Nacional de Cabo Verde ist das größte und modernste Sportstadion des Landes und befindet sich in Monte Vaca, am nördlichen Stadtrand der Hauptstadt Praia auf der Insel Santiago. Die Arena wurde am 23. August 2014 offiziell eingeweiht und ist ein Symbol für die sportliche Entwicklung der Nation. Der Bau wurde maßgeblich durch die Volksrepublik China finanziert und durchgeführt, was Teil der verstärkten diplomatischen und wirtschaftlichen Zusammenarbeit zwischen beiden Staaten ist. Das Stadion verfügt über eine Kapazität von etwa 15.000 Sitzplätzen und ist die primäre Heimspielstätte der kapverdischen Fußballnationalmannschaft, der 'Tubarões Azuis'. Architektonisch besticht das Stadion durch seine markante, geschwungene Dachkonstruktion und eine hochwertige Leichtathletikanlage mit acht Bahnen, die den Standards der IAAF entspricht. Der Untergrund besteht aus Kunstrasen der neuesten Generation, was aufgrund der Wasserknappheit auf Santiago eine ökologische Notwendigkeit darstellt. Wirtschaftlich generiert das Stadion Einnahmen durch internationale Qualifikationsspiele und nationale Meisterschaften, dient aber auch als Austragungsort für große kulturelle Events und Konzerte. Geografisch liegt es strategisch günstig an der Hauptverkehrsstraße, die Praia mit dem Norden der Insel verbindet. Die Einrichtung umfasst moderne Umkleideräume, Pressezentren und VIP-Logen, die den Anforderungen der FIFA für internationale Wettbewerbe gerecht werden.",
+        "hu": "A Zöld-foki Köztársaság Nemzeti Stadionja (Estádio Nacional de Cabo Verde) az ország legnagyobb és legmodernebb sportlétesítménye, amely Praia főváros északi szélén, Monte Vacában, Santiago szigetén található. Az arénát 2014. augusztus 23-án avatták fel hivatalosan, és a nemzet sportfejlődésének szimbóluma. Az építkezést jelentős részben a Kínai Népköztársaság finanszírozta és hajtotta végre, a két ország közötti szoros diplomáciai és gazdasági együttműködés részeként. A stadion befogadóképessége körülbelül 15 000 fő, és a zöld-foki labdarúgó-válogatott, a 'Tubarões Azuis' (Kék Cápák) elsődleges otthona. Építészetileg a stadiont a jellegzetes, íves tetőszerkezet és a nyolcsávos, IAAF-szabványoknak megfelelő atlétikai pálya emeli ki. A játéktér legmodernebb műfüves borítással rendelkezik, ami a santiagói vízhiány miatt ökológiai szempontból elengedhetetlen volt. Gazdasági szempontból a stadion bevételeket generál a nemzetközi selejtezőmérkőzések és a nemzeti bajnokságok révén, emellett nagy kulturális események és koncertek helyszíneként is szolgál. Földrajzilag stratégiai helyen, a Praiát a sziget északi részével összekötő főút mentén fekszik. A létesítmény modern öltözőket, sajtóközpontokat és VIP-páholyokat foglal magában, amelyek megfelelnek a FIFA nemzetközi versenyekre vonatkozó előírásainak.",
+        "ro": "Stadionul Național din Capul Verde (Estádio Nacional de Cabo Verde) este cea mai mare și mai modernă arenă sportivă din țară, situată în Monte Vaca, la periferia nordică a capitalei Praia de pe insula Santiago. Arena a fost inaugurată oficial la 23 august 2014 și reprezintă un simbol al dezvoltării sportive a națiunii. Construcția a fost finanțată și executată în mare parte de Republica Populară Chineză, ca parte a cooperării diplomatice și economice consolidate dintre cele două state. Stadionul are o capacitate de aproximativ 15.000 de locuri și este sediul principal al echipei naționale de fotbal a Capului Verde, „Tubarões Azuis”. Din punct de vedere arhitectural, stadionul impresionează prin structura sa distinctivă a acoperișului curbat și o pistă de atletism de înaltă calitate cu opt culoare, care respectă standardele IAAF. Suprafața de joc constă din gazon artificial de ultimă generație, o necesitate ecologică având în vedere deficitul de apă din Santiago. Din punct de vedere economic, stadionul generează venituri prin meciurile internaționale de calificare și campionatele naționale, servind totodată ca loc de desfășurare pentru evenimente culturale mari și concerte. Geografic, este situat strategic pe drumul principal care leagă Praia de nordul insulei. Facilitatea include vestiare moderne, centre de presă și loje VIP, care îndeplinesc cerințele FIFA pentru competițiile internaționale.",
+        "en": "The National Stadium of Cape Verde (Estádio Nacional de Cabo Verde) is the largest and most modern sports facility in the country, located in Monte Vaca on the northern outskirts of the capital, Praia, on Santiago Island. The arena was officially inaugurated on August 23, 2014, and stands as a symbol of the nation's sporting advancement. The construction was significantly financed and executed by the People's Republic of China, as part of the strengthened diplomatic and economic cooperation between the two nations. The stadium has a capacity of approximately 15,000 seats and serves as the primary home ground for the Cape Verdean national football team, known as the 'Tubarões Azuis' (Blue Sharks). Architecturally, the stadium is noted for its striking curved roof design and a high-quality eight-lane athletics track that meets IAAF standards. The playing surface features the latest generation of artificial turf, which is an ecological necessity given the water scarcity on Santiago Island. Economically, the stadium generates revenue through international qualifiers and national championships, while also serving as a venue for major cultural events and concerts. Geographically, it is strategically positioned along the main highway connecting Praia to the north of the island. The facility includes modern changing rooms, press centers, and VIP boxes that meet FIFA requirements for international competitions."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes Stadion der Kapverden mit rund 15.000 Sitzplätzen.",
+          "Wurde im Jahr 2014 mit Unterstützung Chinas fertiggestellt.",
+          "Heimstätte der Nationalmannschaft 'Tubarões Azuis'.",
+          "Verfügt über eine moderne, zertifizierte Leichtathletikanlage.",
+          "Nutzt Kunstrasen zur Einsparung der knappen Wasserressourcen.",
+          "Befindet sich in Monte Vaca am nördlichen Rand der Hauptstadt Praia.",
+          "Haupthalle für nationale Sportveranstaltungen und internationale Konzerte."
+        ],
+        "hu": [
+          "A Zöld-foki-szigetek legnagyobb stadionja, mintegy 15 000 férőhellyel.",
+          "2014-ben fejeződött be az építése Kína támogatásával.",
+          "A 'Tubarões Azuis' nemzeti válogatott hivatalos otthona.",
+          "Modern, tanúsítvánnyal rendelkező atlétikai pályával rendelkezik.",
+          "Műfüves borítást használ a szűkös vízkészletek kímélése érdekében.",
+          "Praia északi szélén, a Monte Vaca negyedben található.",
+          "A nemzeti sportesemények és nemzetközi koncertek fő helyszíne."
+        ],
+        "ro": [
+          "Cel mai mare stadion din Capul Verde, cu circa 15.000 de locuri.",
+          "Finalizat în anul 2014 cu sprijinul Republicii Populare Chineze.",
+          "Sediul oficial al echipei naționale de fotbal „Tubarões Azuis”.",
+          "Dispune de o pistă de atletism modernă, certificată internațional.",
+          "Utilizează gazon artificial pentru a economisi resursele limitate de apă.",
+          "Situat în Monte Vaca, la marginea de nord a capitalei Praia.",
+          "Principala locație pentru evenimente sportive și concerte internaționale."
+        ],
+        "en": [
+          "The largest stadium in Cape Verde with a capacity of roughly 15,000.",
+          "Completed in 2014 through a strategic partnership with China.",
+          "Official home ground for the national football team, the Blue Sharks.",
+          "Equipped with a modern, IAAF-certified professional athletics track.",
+          "Features artificial turf to conserve the island's scarce water resources.",
+          "Strategically located in Monte Vaca on the northern edge of Praia.",
+          "Primary venue for national sporting finals and major music concerts."
+        ]
+      }
+    },
+    {
+      "id": "farol-ponta-temerosa-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Farol da Ponta Temerosa, oft auch nach Königin Maria Pia benannt, ist ein markanter historischer Leuchtturm an der südlichsten Spitze der Insel Santiago am Eingang zur Bucht von Praia. Dieses Bauwerk wurde im Jahr 1881 fertiggestellt und repräsentiert die maritime Ingenieurskunst der portugiesischen Kolonialära des späten 19. Jahrhunderts. Der Turm hat eine Höhe von etwa 21 Metern und ist weithin für seine markante weiße Farbe und die achteckige Grundform bekannt. Geografisch markiert der Leuchtturm die Einfahrt zum wichtigsten Seehafen des Landes, dem Porto da Praia, und dient bis heute als unverzichtbares Navigationslicht für die internationale Schifffahrt im Zentralatlantik. Das Gebäude ist massiv aus lokalem Stein errichtet und beherbergt die Laterne auf einer umlaufenden Galerie. Wirtschaftlich war der Leuchtturm entscheidend für den Aufstieg von Praia als Handelszentrum, da er die Sicherheit der transatlantischen Routen massiv verbesserte. In der Neuzeit wurde die optische Anlage modernisiert, wobei die historische Bausubstanz unter Denkmalschutz gestellt wurde. Der Standort Ponta Temerosa ist heute ein beliebtes Ziel für Spaziergänge, da er einen weitreichenden Blick über den Hafen und das Plateau der Hauptstadt bietet. Der Leuchtturm ist ein Symbol für die maritime Sicherheit und die historische Verbundenheit Kap Verdes mit der globalen Seefahrt.",
+        "hu": "A Farol da Ponta Temerosa, amelyet gyakran Maria Pia királynőről is neveznek, egy markáns történelmi világítótorony Santiago szigetének legdélebbi csücskén, a Praia-öböl bejáratánál. Ez az építmény 1881-ben készült el, és a 19. század végi portugál gyarmati korszak tengeri mérnöki munkáját képviseli. A torony magassága körülbelül 21 méter, és jellegzetes fehér színéről, valamint nyolcszögletű alapformájáról ismert. Földrajzilag a világítótorony az ország legfontosabb tengeri kikötőjének, a Porto da Praiának a bejáratát jelöli, és mind a mai napig nélkülözhetetlen navigációs fényként szolgál a Közép-Atlanti-óceán nemzetközi hajózása számára. Az épület masszívan, helyi kőből épült, a lámpatest pedig egy körbefutó galérián kapott helyet. Gazdaságilag a világítótorony döntő szerepet játszott Praia kereskedelmi központtá válásában, mivel jelentősen javította a transzatlanti útvonalak biztonságát. A modern korban az optikai berendezéseket korszerűsítették, miközben a történelmi épületszerkezetet műemléki védelem alá helyezték. A Ponta Temerosa fok ma a sétálók kedvelt célpontja, mivel tágas kilátást nyújt a kikötőre és a főváros fennsíkjára (Plateau). A világítótorony a tengeri biztonság és a Zöld-foki-szigetek globális hajózáshoz fűződő történelmi kapcsolatának szimbóluma.",
+        "ro": "Farul Ponta Temerosa, numit adesea și după regina Maria Pia, este un far istoric proeminent situat în vârful cel mai sudic al insulei Santiago, la intrarea în golful Praia. Această structură a fost finalizată în anul 1881 și reprezintă ingineria maritimă din epoca colonială portugheză de la sfârșitul secolului al XIX-lea. Turnul are o înălțime de aproximativ 21 de metri și este cunoscut pretutindeni pentru culoarea sa albă distinctă și forma sa octogonală. Din punct de vedere geografic, farul marchează intrarea în cel mai important port maritim al țării, Porto da Praia, și servește și astăzi ca lumină de navigație indispensabilă pentru navigația internațională din Atlanticul Central. Clădirea este construită masiv din piatră locală și adăpostește lanterna pe o galerie circulară. Din punct de vedere economic, farul a fost decisiv pentru ascensiunea orașului Praia ca centru comercial, deoarece a îmbunătățit masiv siguranța rutelor transatlantice. În epoca modernă, instalația optică a fost modernizată, structura istorică fiind pusă sub protecția monumentelor. Locația Ponta Temerosa este astăzi o destinație populară pentru plimbări, oferind o vedere panoramică asupra portului și a platoului capitalei. Farul este un simbol al siguranței maritime și al legăturii istorice a Capului Verde cu navigația globală.",
+        "en": "The Ponta Temerosa Lighthouse, frequently named after Queen Maria Pia, is a prominent historical landmark situated at the southernmost tip of Santiago Island at the entrance to Praia Bay. Completed in 1881, this structure represents the maritime engineering of the late 19th-century Portuguese colonial era. The tower stands approximately 21 meters tall and is widely recognized for its striking white color and octagonal architectural form. Geographically, the lighthouse marks the entry point to the country's most vital seaport, the Port of Praia, and continues to function today as an essential navigational aid for international shipping in the Central Atlantic. The building is constructed solidly from local stone and features the lantern on a wrap-around gallery. Economically, the lighthouse was instrumental in Praia's rise as a commercial hub, as it significantly enhanced the safety of transatlantic maritime routes. In modern times, the optical apparatus has been updated, while the historic structure itself has been designated as a protected heritage site. The Ponta Temerosa site is now a popular destination for local residents, providing sweeping views over the harbor and the capital's central plateau. The lighthouse remains a symbol of maritime safety and Cape Verde's deep historical connection to global seafaring."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wahrzeichen an der Südspitze Santiagos, erbaut im Jahr 1881.",
+          "Der achteckige Steinturm erreicht eine Höhe von 21 Metern.",
+          "Namensgeberin ist die portugiesische Königin Maria Pia von Savoyen.",
+          "Markiert die Einfahrt zum strategisch wichtigen Hafen von Praia.",
+          "Massive Bauweise aus lokalem Stein zur Beständigkeit gegen Salzwinde.",
+          "Verfügt über eine Reichweite des Leuchtfeuers von etwa 15 Seemeilen.",
+          "Beliebter Aussichtspunkt mit Blick auf das Plateau der Hauptstadt."
+        ],
+        "hu": [
+          "Santiago déli csücskének jelképe, épült 1881-ben.",
+          "A nyolcszögletű kőtorony magassága eléri a 21 métert.",
+          "Savoyai Maria Pia portugál királynőről nevezték el.",
+          "Jelzi a bejáratot Praia stratégiailag fontos kikötőjéhez.",
+          "Helyi kőből készült masszív építmény a sós tengeri szelek ellen.",
+          "A világítótorony fénye körülbelül 15 tengeri mérföldre látszik el.",
+          "Kedvelt kilátópont, rálátással a főváros fennsíkjára (Plateau)."
+        ],
+        "ro": [
+          "Simbol la vârful sudic al insulei Santiago, construit în anul 1881.",
+          "Turnul octogonal din piatră atinge o înălțime de 21 de metri.",
+          "Numele provine de la regina Maria Pia de Savoia a Portugaliei.",
+          "Marchează intrarea în portul strategic important al orașului Praia.",
+          "Construcție masivă din piatră locală pentru rezistență la vânturile sărate.",
+          "Dispune de o rază de vizibilitate a luminii de aproximativ 15 mile marine.",
+          "Punct de observație popular cu vedere spre platoul capitalei."
+        ],
+        "en": [
+          "Iconic landmark at Santiago's southern tip, constructed in 1881.",
+          "The octagonal stone tower reaches a total height of 21 meters.",
+          "Named after the Portuguese Queen consort Maria Pia of Savoy.",
+          "Strategically marks the entrance to the vital Port of Praia.",
+          "Built solidly from local stone to withstand corrosive salt winds.",
+          "The lighthouse beacon has an operational range of roughly 15 nautical miles.",
+          "Highly popular viewing point overlooking the capital's historic Plateau district."
+        ]
+      }
+    },
+    {
+      "id": "monumento-diogo-gomes-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Denkmal für Diogo Gomes befindet sich an einer prominenten Stelle am südlichen Ende des Plateaus in der Hauptstadt Praia auf der Insel Santiago. Es wurde errichtet, um den portugiesischen Seefahrer und Entdecker Diogo Gomes zu ehren, der im Jahr 1460 als einer der ersten Europäer die östlichen Inseln des kapverdischen Archipels erreichte. Das Monument besteht aus einer lebensgroßen Bronzestatue des Entdeckers, die auf einem hohen Steinsockel thront und den Blick über den Atlantik und den Hafen von Praia schweifen lässt. Architektonisch ist die Anlage schlicht gestaltet, dient jedoch als zentraler Orientierungspunkt in der historischen Altstadt. Geografisch markiert das Denkmal den Übergang von der kolonialen Kernstadt zu den steilen Klippen über dem Meer. Historisch ist Gomes eine Schlüsselfigur, da sein Bericht eine der wichtigsten Quellen für die Entdeckung und erste Besiedlung der Inseln darstellt. Das Monument wurde in der späten Kolonialzeit eingeweiht, um die Entdeckergeschichte Portugals zu feiern, bleibt aber auch nach der Unabhängigkeit ein integraler Bestandteil des städtischen Erbes von Praia. Der Standort bietet Touristen einen der besten Panoramablicke über die Bucht von Praia und den Leuchtturm Dona Maria Pia. In der direkten Umgebung befinden sich wichtige Gebäude wie der Justizpalast und der Präsidentenpalast, was die Bedeutung dieses Platzes im urbanen Gefüge unterstreicht.",
+        "hu": "A Diogo Gomes emlékmű Praia főváros történelmi központjának (Plateau) déli végén található, kiemelkedő helyen, Santiago szigetén. Az emlékművet Diogo Gomes portugál tengerész és felfedező tiszteletére emelték, aki 1460-ban az elsők között érte el a Zöld-foki-szigetcsoport keleti szigeteit. A műemlék a felfedező életnagyságú bronzszobrából áll, amely egy magas kőtalpazaton trónol, tekintete pedig az Atlanti-óceánra és Praia kikötőjére szegeződik. Építészetileg a létesítmény egyszerű kialakítású, mégis központi tájékozódási pontként szolgál a történelmi óvárosban. Földrajzilag az emlékmű a gyarmati magváros és a tenger feletti meredek sziklák közötti határvonalat jelöli. Történelmileg Gomes kulcsfigura, mivel beszámolói a szigetek felfedezésének és első betelepítésének egyik legfontosabb forrását jelentik. Az emlékművet a késői gyarmati korszakban avatták fel Portugália felfedező múltjának ünneplésére, de a függetlenség után is Praia városi örökségének szerves része maradt. A helyszín az egyik legjobb panorámát kínálja a turistáknak a Praia-öbölre és a Dona Maria Pia világítótoronyra. A közvetlen közelben olyan fontos épületek találhatók, mint az Igazságügyi Palota és az Elnöki Palota, ami hangsúlyozza a tér jelentőségét a város szerkezetében.",
+        "ro": "Monumentul lui Diogo Gomes este situat într-un loc proeminent la capătul sudic al platoului din capitala Praia, pe insula Santiago. A fost ridicat pentru a-l onora pe navigatorul și exploratorul portughez Diogo Gomes, care în anul 1460 a fost unul dintre primii europeni care au ajuns pe insulele estice ale arhipelagului Capului Verde. Monumentul constă dintr-o statuie de bronz în mărime naturală a exploratorului, așezată pe un soclu înalt de piatră, cu privirea îndreptată spre Oceanul Atlantic și portul Praia. Din punct de vedere arhitectural, amenajarea este simplă, dar servește ca punct central de orientare în centrul istoric al orașului. Geografic, monumentul marchează tranziția de la nucleul colonial al orașului la stâncile abrupte de deasupra mării. Din punct de vedere istoric, Gomes este o figură cheie, deoarece relatările sale reprezintă una dintre cele mai importante surse despre descoperirea și prima colonizare a insulelor. Monumentul a fost inaugurat la sfârșitul perioadei coloniale pentru a celebra istoria descoperirilor Portugaliei, rămânând însă și după independență o parte integrantă a patrimoniului urban din Praia. Locația oferă turiștilor una dintre cele mai bune vederi panoramice asupra golfului Praia și a farului Dona Maria Pia. În imediata vecinătate se află clădiri importante precum Palatul de Justiție și Palatul Prezidențial, ceea ce subliniază importanța acestei piețe în structura urbană.",
+        "en": "The Monument to Diogo Gomes is situated in a prominent location at the southern edge of the Plateau district in the capital city, Praia, on Santiago Island. It was erected to honor the Portuguese navigator and explorer Diogo Gomes, who in 1460 was among the first Europeans to reach the eastern islands of the Cape Verdean archipelago. The monument consists of a life-sized bronze statue of the explorer perched atop a high stone pedestal, positioned as if overlooking the Atlantic Ocean and the Port of Praia. Architecturally, the installation is understated, yet it serves as a central landmark within the historic old town. Geographically, the monument marks the transition from the colonial urban core to the steep cliffs above the sea. Historically, Gomes is a pivotal figure, as his written accounts remain one of the most vital sources regarding the discovery and initial settlement of the islands. The monument was inaugurated during the late colonial era to celebrate Portugal's history of exploration, but it remains an integral part of Praia's urban heritage even after independence. The site provides tourists with one of the best panoramic views over Praia Bay and the Dona Maria Pia Lighthouse. Nearby are significant structures such as the Palace of Justice and the Presidential Palace, emphasizing the square's importance within the urban fabric."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ehrt den Entdecker Diogo Gomes, der 1460 die Inseln erreichte.",
+          "Bronzestatue auf einem massiven Sockel aus lokalem Gestein.",
+          "Befindet sich am südlichen Aussichtspunkt des historischen Plateaus.",
+          "Wichtigster historischer Aussichtspunkt über den Hafen von Praia.",
+          "Gomes gilt als Mitbegründer der ersten Siedlung Ribeira Grande.",
+          "Liegt in unmittelbarer Nähe zum kapverdischen Präsidentenpalast.",
+          "Beliebtes Fotomotiv für Besucher der Hauptstadt Santiago."
+        ],
+        "hu": [
+          "Diogo Gomes felfedező tiszteletére emelték, aki 1460-ban érkezett a szigetekre.",
+          "Helyi kőzetből készült masszív talpazaton álló bronzszobor.",
+          "A történelmi Plateau negyed déli kilátópontjánál található.",
+          "A legfontosabb történelmi kilátóhely Praia kikötőjére.",
+          "Gomes-t az első település, Ribeira Grande egyik társalapítójaként tisztelik.",
+          "A zöld-foki Elnöki Palota közvetlen szomszédságában fekszik.",
+          "A fővárosba, Santiagóba látogatók kedvelt fotótémája."
+        ],
+        "ro": [
+          "Îl onorează pe exploratorul Diogo Gomes, care a ajuns pe insule în 1460.",
+          "Statuie de bronz pe un soclu masiv din piatră locală.",
+          "Situat la punctul de observație sudic al platoului istoric.",
+          "Cel mai important punct de observație istoric asupra portului Praia.",
+          "Gomes este considerat cofondator al primei așezări, Ribeira Grande.",
+          "Situat în imediata apropiere a Palatului Prezidențial capverdian.",
+          "Motiv foto popular pentru vizitatorii capitalei Santiago."
+        ],
+        "en": [
+          "Honors the explorer Diogo Gomes, who first reached the islands in 1460.",
+          "Features a life-sized bronze statue on a solid local stone pedestal.",
+          "Located at the southern panoramic viewpoint of the historic Plateau.",
+          "The primary historical vantage point overlooking the Port of Praia.",
+          "Gomes is historically cited as a co-founder of the first settlement, Ribeira Grande.",
+          "Situated within the immediate vicinity of the Cape Verdean Presidential Palace.",
+          "A highly popular photography spot for visitors to the capital city on Santiago."
+        ]
+      }
+    },
+    {
+      "id": "camara-municipal-praia-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Câmara Municipal da Praia befindet sich im Herzen des historischen Plateaus der Hauptstadt auf der Insel Santiago. Das Gebäude wurde im späten 19. Jahrhundert, etwa um 1900, während der portugiesischen Kolonialherrschaft errichtet und dient seitdem als Sitz der lokalen Stadtverwaltung. Architektonisch ist das Rathaus ein Musterbeispiel für den eklektischen Kolonialstil, der neoklassizistische und traditionelle portugiesische Elemente verbindet. Die Fassade ist durch eine elegante Symmetrie, hohe Rundbogenfenster und einen zentralen Balkon über dem Haupteingang gekennzeichnet, von dem aus historisch wichtige Ankündigungen gemacht wurden. Das Gebäude ist weiß und ockerfarben verputzt und fügt sich harmonisch in das Ensemble um den Praça Alexandre Albuquerque ein. Wirtschaftlich ist das Rathaus das administrative Zentrum für die größte Gemeinde des Landes und steuert die Entwicklung der rasant wachsenden Metropole. Im Inneren beherbergt das Gebäude den Sitzungssaal des Gemeinderates und verschiedene Verwaltungsabteilungen. Historisch spiegelt das Bauwerk den Aufstieg von Praia zum wichtigsten Verwaltungszentrum der Kapverden im 19. Jahrhundert wider, nachdem Cidade Velha an Bedeutung verloren hatte. Es ist ein zentrales Denkmal im historischen Viertel Plateau und ein wichtiges Symbol für die kommunale Autonomie und die städtische Identität der Hauptstadt. Die Umgebung ist geprägt durch die unmittelbare Nähe zur Kirche Nossa Senhora da Graça und zum Justizpalast.",
+        "hu": "A praiai városháza (Câmara Municipal da Praia) a főváros történelmi központjának, a Plateaunak a szívében található, Santiago szigetén. Az épületet a 19. század végén, 1900 körül emelték a portugál gyarmati uralom idején, és azóta a helyi önkormányzat székhelyeként szolgál. Építészetileg a városháza az eklektikus gyarmati stílus mintapéldája, amely a neoklasszicista és a hagyományos portugál elemeket ötvözi. Homlokzatát elegáns szimmetria, magas, félköríves ablakok és a főbejárat feletti központi erkély jellemzi, ahonnan történelmileg a fontos bejelentéseket tették. Az épület fehér és okkersárga vakolattal rendelkezik, és harmonikusan illeszkedik a Praça Alexandre Albuquerque körüli épületegyüttesbe. Gazdaságilag a városháza az ország legnagyobb önkormányzatának adminisztratív központja, amely a rohamosan növekvő metropolisz fejlődését irányítja. Belsejében a képviselő-testület ülésterme és különböző közigazgatási osztályok kaptak helyet. Történelmileg az épület Praia felemelkedését tükrözi, amely a 19. században a Zöld-foki-szigetek legfontosabb közigazgatási központjává vált, miután Cidade Velha elvesztette jelentőségét. Ez a Plateau negyed egyik központi műemléke, és a főváros önkormányzati autonómiájának és városi identitásának fontos szimbóluma. Környezetét a Nossa Senhora da Graça templom és az Igazságügyi Palota közvetlen közelsége határozza meg.",
+        "ro": "Primăria din Praia (Câmara Municipal da Praia) este situată în inima platoului istoric al capitalei, pe insula Santiago. Clădirea a fost ridicată la sfârșitul secolului al XIX-lea, în jurul anului 1900, în timpul dominației coloniale portugheze și servește de atunci ca sediu al administrației municipale locale. Din punct de vedere arhitectural, primăria este un model de stil colonial eclectic, care combină elemente neoclasice și tradiționale portugheze. Fațada se caracterizează printr-o simetrie elegantă, ferestre înalte în arc de cerc și un balcon central deasupra intrării principale, de unde au fost făcute istoric anunțuri importante. Clădirea este tencuită în alb și ocru și se integrează armonios în ansamblul din jurul pieței Praça Alexandre Albuquerque. Din punct de vedere economic, primăria este centrul administrativ pentru cea mai mare municipalitate din țară și coordonează dezvoltarea metropolei în creștere rapidă. În interior, clădirea găzduiește sala de ședințe a consiliului municipal și diverse departamente administrative. Din punct de vedere istoric, edificiul reflectă ascensiunea orașului Praia ca cel mai important centru administrativ al Capului Verde în secolul al XIX-lea, după ce Cidade Velha și-a pierdut din importanță. Este un monument central în cartierul istoric Plateau și un simbol important al autonomiei comunale și al identității urbane a capitalei. Împrejurimile sunt marcate de proximitatea imediată față de Biserica Nossa Senhora da Graça și Palatul de Justiție.",
+        "en": "The Praia City Hall (Câmara Municipal da Praia) is located in the heart of the historic Plateau district in the capital city, on Santiago Island. The building was constructed in the late 19th century, around 1900, during the Portuguese colonial era and has served as the seat of local municipal government ever since. Architecturally, the city hall is a prime example of eclectic colonial style, blending neoclassical and traditional Portuguese elements. The facade is characterized by an elegant symmetry, tall arched windows, and a central balcony above the main entrance from which historically significant announcements were once made. Finished with white and ochre plaster, the structure integrates harmoniously into the architectural ensemble surrounding Praça Alexandre Albuquerque. Economically, the city hall serves as the administrative center for the nation's largest municipality, directing the development of the rapidly expanding metropolis. Internally, the building houses the municipal council chamber and various administrative departments. Historically, the building reflects Praia's emergence as the primary administrative center of Cape Verde in the 19th century, following the decline of Cidade Velha. It is a key monument within the historic Plateau district and a vital symbol of municipal autonomy and the capital's urban identity. The area is defined by its immediate proximity to the Church of Our Lady of Grace and the Palace of Justice."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sitz der Stadtverwaltung von Praia seit dem frühen 20. Jahrhundert.",
+          "Gelegen an der historischen Praça Alexandre Albuquerque im Plateau-Viertel.",
+          "Architektur im eklektischen Stil mit neoklassizistischen Einflüssen.",
+          "Zentraler Balkon für historische öffentliche Proklamationen vorhanden.",
+          "Wurde im Jahr 1900 weitgehend in seiner heutigen Form fertiggestellt.",
+          "Verwaltet die bevölkerungsreichste Gemeinde der gesamten Republik Kap Verde.",
+          "Bildet ein harmonisches Ensemble mit der angrenzenden Kathedrale."
+        ],
+        "hu": [
+          "Praia városi önkormányzatának székhelye a 20. század eleje óta.",
+          "A történelmi Plateau negyedben, a Praça Alexandre Albuquerque téren található.",
+          "Eklektikus stílusú építészet neoklasszicista hatásokkal.",
+          "Központi erkélye történelmileg fontos nyilvános hirdetmények helyszíne volt.",
+          "1900-ban nyerte el nagyjából a mai építészeti formáját.",
+          "A Zöld-foki Köztársaság legnépesebb községét irányító központ.",
+          "Harmonikus egységet alkot a szomszédos székesegyházzal."
+        ],
+        "ro": [
+          "Sediul administrației orașului Praia de la începutul secolului XX.",
+          "Situată în piața istorică Praça Alexandre Albuquerque din cartierul Plateau.",
+          "Arhitectură în stil eclectic cu influențe neoclasice.",
+          "Dispune de un balcon central pentru proclamații publice istorice.",
+          "Finalizată în forma sa actuală în mare parte în anul 1900.",
+          "Administrează cea mai populată municipalitate din întreaga Republică Capul Verde.",
+          "Formează un ansamblu armonios cu catedrala adiacentă."
+        ],
+        "en": [
+          "Headquarters of the Praia municipal administration since the early 20th century.",
+          "Located on the historic Praça Alexandre Albuquerque in the Plateau district.",
+          "Features eclectic architectural styling with clear neoclassical influences.",
+          "Equipped with a central balcony traditionally used for public proclamations.",
+          "Largely completed in its current structural form in the year 1900.",
+          "Governs the most populous municipality in the entire Republic of Cape Verde.",
+          "Forms a coordinated architectural group with the adjacent cathedral."
+        ]
+      }
+    }
+  ]
+}

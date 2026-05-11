@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-mamoral-cities-v2",
+      "description": "Mamoral ist eine kleine, landwirtschaftlich geprägte Ansiedlung im Zentrum von Trinidad. Die Umgebung zeichnet sich durch ihre sanften Hügel und ländliche Ruhe aus.",
+      "facts": ["Zentrum von Trinidad", "Landwirtschaft geprägt", "Ländliche Umgebung"]
+    },
+    {
+      "id": "tt-brothers-road-cities-v2",
+      "description": "Brothers Road ist ein kleinerer Ort im Zentrum der Insel. Er liegt in einer Region, die traditionell durch ihre fruchtbaren Böden und den Anbau landwirtschaftlicher Erzeugnisse bekannt ist.",
+      "facts": ["Zentraltrinidad", "Fruchtbare Böden", "Traditioneller Anbau"]
+    }
+  ]
+}

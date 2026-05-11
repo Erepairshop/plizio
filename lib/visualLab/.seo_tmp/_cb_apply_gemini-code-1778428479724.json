@@ -1,0 +1,241 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cascabulho-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cascabulho ist eine kleine, isolierte ländliche Siedlung im nordöstlichen Teil der Insel Boa Vista in Kap Verde. Das Dorf liegt etwa 15 Kilometer nordöstlich der Inselhauptstadt Sal Rei in einer extrem kargen und ariden Umgebung, die typisch für das wüstenhafte Ökosystem der Insel ist. Die Geografie der Region ist durch flache, steinige Ebenen und spärliche Vegetation geprägt, wobei die Siedlung in der Nähe der unberührten Nordküste liegt. Historisch und wirtschaftlich ist Cascabulho eine reine Agrargemeinschaft, die sich auf die Zucht von Ziegen spezialisiert hat. Aufgrund der extremen Wasserknappheit und der geringen Niederschlagsmengen ist der Ackerbau hier nur sehr eingeschränkt möglich und auf die kurze Regenzeit konzentriert. Die Architektur des Dorfes ist funktional und schlicht, bestehend aus einstöckigen Betonblockhäusern, die oft in hellen Farben gestrichen sind, um die intensive Sonneneinstrahlung zu reflektieren. In den letzten Jahren hat der Ort durch seine Lage an der Route zu den abgelegenen Stränden des Nordens, wie der Praia de Atalanta mit dem berühmten Schiffswrack der Cabo Santa Maria, eine gewisse Bedeutung für den Abenteuertourismus und Quad-Exkursionen gewonnen. Dennoch bleibt Cascabulho ein Ort mit sehr einfachen Lebensbedingungen und einem tief traditionellen sozialen Gefüge.",
+        "hu": "Cascabulho egy kicsi, elszigetelt vidéki település a Zöld-foki Köztársasághoz tartozó Boa Vista sziget északkeleti részén. A falu körülbelül 15 kilométerre északkeletre fekszik a sziget fővárosától, Sal Reitől, egy rendkívül kopár és száraz környezetben, amely jellemző a sziget sivatagos ökoszisztémájára. A régió földrajzát sík, köves síkságok és gyér növényzet határozza meg, maga a település pedig az érintetlen északi part közelében található. Történelmileg és gazdaságilag Cascabulho egy tiszta mezőgazdasági közösség, amely a kecsketenyésztésre szakosodott. Az extrém vízhiány és az alacsony csapadékmennyiség miatt a szántóföldi művelés itt csak nagyon korlátozottan lehetséges, és a rövid esős évszakra koncentrálódik. A falu építészete funkcionális és egyszerű, egyszintes betontömb házakból áll, amelyeket gyakran világos színekre festenek, hogy visszaverjék az intenzív napsugárzást. Az elmúlt években a település bizonyos jelentőségre tett szert a kalandturizmus és a quados kirándulások körében, mivel a távoli északi strandok felé vezető úton fekszik, mint például a Cabo Santa Maria hajóroncsáról híres Praia de Atalanta. Ennek ellenére Cascabulho megmaradt egy nagyon egyszerű életkörülményekkel és mélyen hagyományos társadalmi struktúrával rendelkező helynek.",
+        "ro": "Cascabulho este o mică așezare rurală izolată în partea de nord-est a insulei Boa Vista din Capul Verde. Satul este situat la aproximativ 15 kilometri nord-est de capitala insulei, Sal Rei, într-un mediu extrem de steril și arid, tipic pentru ecosistemul deșertic al insulei. Geografia regiunii este caracterizată de câmpii plate, pietroase și vegetație rară, așezarea fiind situată în apropierea coastei de nord virgine. Din punct de vedere istoric și economic, Cascabulho este o comunitate pur agricolă, specializată în creșterea caprelor. Din cauza penuriei extreme de apă și a precipitațiilor reduse, agricultura este posibilă aici doar într-o măsură foarte limitată și este concentrată în scurtul sezon ploios. Arhitectura satului este funcțională și simplă, constând din case din blocuri de beton cu un singur etaj, adesea vopsite în culori deschise pentru a reflecta radiația solară intensă. În ultimii ani, localitatea a câștigat o anumită importanță pentru turismul de aventură și excursiile cu quad-ul, datorită locației sale pe ruta către plajele izolate din nord, cum ar fi Praia de Atalanta, renumită pentru epava navei Cabo Santa Maria. Cu toate acestea, Cascabulho rămâne un loc cu condiții de viață foarte simple și o structură socială profund tradițională.",
+        "en": "Cascabulho is a small, isolated rural settlement located in the northeastern part of Boa Vista Island in Cape Verde. The village lies approximately 15 kilometers northeast of the island's capital, Sal Rei, in an extremely barren and arid environment typical of the island's desert-like ecosystem. The region's geography is defined by flat, stony plains and sparse vegetation, with the settlement situated near the pristine northern coast. Historically and economically, Cascabulho is a purely agricultural community specializing in goat rearing. Due to extreme water scarcity and low rainfall, crop cultivation is only possible to a very limited extent and is concentrated during the short rainy season. The village architecture is functional and simple, consisting of single-story concrete block houses often painted in light colors to reflect the intense solar radiation. In recent years, the village has gained some significance for adventure tourism and quad bike excursions due to its location on the route to the remote northern beaches, such as Praia de Atalanta, famous for the shipwreck of the Cabo Santa Maria. Despite this, Cascabulho remains a place with very basic living conditions and a deeply traditional social structure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt ca. 15 km nordöstlich der Inselhauptstadt Sal Rei.",
+          "Die Haupteinnahmequelle der Bewohner ist die traditionelle Ziegenzucht.",
+          "Der Ort befindet sich in einer der trockensten Zonen der Insel Boa Vista.",
+          "Wichtiger Wegpunkt für Touren zum Schiffswrack der Cabo Santa Maria.",
+          "Die Architektur besteht primär aus einstöckigen Betonblockhäusern.",
+          "Verfügt über eine sehr eingeschränkte Infrastruktur und Wasserversorgung."
+        ],
+        "hu": [
+          "Körülbelül 15 km-re északkeletre fekszik Sal Rei fővárostól.",
+          "A lakosok fő bevételi forrása a hagyományos kecsketenyésztés.",
+          "A település Boa Vista szigetének egyik legszárazabb övezetében található.",
+          "Fontos állomás a Cabo Santa Maria hajóroncshoz vezető túrák útvonalán.",
+          "Az építészetet elsősorban egyszintes betontömb házak jellemzik.",
+          "Nagyon korlátozott infrastruktúrával és vízellátással rendelkezik."
+        ],
+        "ro": [
+          "Situat la aproximativ 15 km nord-est de capitala insulei, Sal Rei.",
+          "Principala sursă de venit a locuitorilor este creșterea tradițională a caprelor.",
+          "Localitatea se află în una dintre cele mai uscate zone ale insulei Boa Vista.",
+          "Punct de trecere important pentru tururile către epava Cabo Santa Maria.",
+          "Arhitectura constă în principal din case din blocuri de beton cu un singur etaj.",
+          "Dispune de o infrastructură și o aprovizionare cu apă foarte limitate."
+        ],
+        "en": [
+          "Located about 15 km northeast of the island capital, Sal Rei.",
+          "The primary source of income for residents is traditional goat farming.",
+          "The settlement is situated in one of the driest zones on Boa Vista Island.",
+          "Serves as a key waypoint for tours to the Cabo Santa Maria shipwreck.",
+          "The architecture consists primarily of single-story concrete block houses.",
+          "Features very limited infrastructure and a challenging water supply."
+        ]
+      }
+    },
+    {
+      "id": "porto-grande-mindelo-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Porto Grande in Mindelo auf der Insel São Vicente ist der bedeutendste Tiefwasserhafen von Kap Verde und ein historischer Pfeiler der nationalen Wirtschaft. Geografisch liegt der Hafen in einer spektakulären, halbkreisförmigen Bucht, die ein versunkener Vulkankrater ist und einen Durchmesser von etwa 2 Kilometern hat. Mit einer natürlichen Tiefe von 11 bis 30 Metern bietet er einen der sichersten Ankerplätze im gesamten Zentralatlantik. Seine wirtschaftliche Blütezeit begann in der Mitte des 19. Jahrhunderts, als die Briten den Hafen als strategische Kohlenstation für transatlantische Dampfschiffe ausbauten. Im Jahr 1838 errichtete die East India Company das erste Kohledepot. Diese Entwicklung machte Mindelo zeitweise zu einem der geschäftigsten Häfen weltweit und prägte die kosmopolitische Identität der Stadt. In der Moderne wurde der Hafen massiv modernisiert und verfügt heute über mehr als 1.700 Meter Kailänge. Er dient als primäres Drehkreuz für den internationalen Containerumschlag, den Import von Erdölprodukten und ist ein wichtiger Anlaufpunkt für Kreuzfahrtschiffe. Die Verwaltung untersteht der nationalen Hafenbehörde ENAPOR. Der Hafen ist zudem das logistische Herzstück für die Versorgung der nördlichen Inseln des Archipels.",
+        "hu": "A São Vicente szigetén, Mindelóban található Porto Grande a Zöld-foki-szigetek legjelentősebb mélyvízi kikötője és a nemzetgazdaság történelmi pillére. Földrajzilag a kikötő egy látványos, félkör alakú öbölben fekszik, amely egy elsüllyedt vulkáni kráter, átmérője pedig körülbelül 2 kilométer. A 11-30 méteres természetes mélységével az egész Közép-Atlanti-óceán egyik legbiztonságosabb horgonyzóhelyét kínálja. Gazdasági virágkora a 19. század közepén kezdődött, amikor a britek a kikötőt a transzatlanti gőzhajók stratégiai szénrakodó állomásává fejlesztették. 1838-ban az East India Company hozta létre az első szénraktárat. Ez a fejlesztés Mindelót egy időre a világ egyik legforgalmasabb kikötőjévé tette, és meghatározta a város kozmopolita identitását. A modern korban a kikötőt jelentősen korszerűsítették, ma már több mint 1700 méternyi rakparttal rendelkezik. A nemzetközi konténerforgalom, a kőolajtermékek importjának elsődleges csomópontjaként szolgál, és a skandináv országokból érkező luxus skandináv tengerjáró hajók fontos megállóhelye. Az irányítás a nemzeti kikötői hatóság, az ENAPOR alá tartozik. A kikötő emellett a szigetvilág északi szigeteinek ellátását biztosító logisztikai központ.",
+        "ro": "Porto Grande din Mindelo, pe insula São Vicente, este cel mai important port de ape adânci din Capul Verde și un pilon istoric al economiei naționale. Geografic, portul este situat într-un golf semicircular spectaculos, care este un crater vulcanic scufundat, cu un diametru de aproximativ 2 kilometri. Cu o adâncime naturală de 11 până la 30 de metri, acesta oferă unul dintre cele mai sigure locuri de ancorare din întregul Atlantic Central. Perioada sa de glorie economică a început la mijlocul secolului al XIX-lea, când britanicii au dezvoltat portul ca stație strategică de cărbune pentru navele cu aburi transatlantice. În 1838, Compania Indiilor de Est a înființat primul depozit de cărbune. Această dezvoltare a făcut din Mindelo, pentru o perioadă, unul dintre cele mai aglomerate porturi din lume și a modelat identitatea cosmopolită a orașului. În epoca modernă, portul a fost modernizat masiv și are astăzi peste 1.700 de metri de chei. Servește ca nod principal pentru transbordarea internațională a containerelor, importul de produse petroliere și este un punct important de escală pentru navele de croazieră. Administrarea este subordonată autorității portuare naționale ENAPOR. Portul este, de asemenea, inima logistică pentru aprovizionarea insulelor din nordul arhipelagului.",
+        "en": "Porto Grande in Mindelo, on the island of São Vicente, is the most significant deep-water port in Cape Verde and a historic pillar of the national economy. Geographically, the port is situated in a spectacular semicircular bay, which is a submerged volcanic crater with a diameter of about 2 kilometers. With a natural depth ranging from 11 to 30 meters, it offers one of the safest anchorages in the entire Central Atlantic. Its economic heyday began in the mid-19th century when the British developed the port as a strategic coaling station for transatlantic steamships. In 1838, the East India Company established the first coal depot. This development turned Mindelo into one of the busiest ports in the world at the time and shaped the city's cosmopolitan identity. In modern times, the port has undergone massive modernization and now boasts over 1,700 meters of total quay length. It serves as the primary hub for international container shipping, the import of petroleum products, and is a major stop for cruise ships. Management is overseen by the national port authority, ENAPOR. The port is also the logistical heart for supplying the northern islands of the archipelago."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Porto Grande ist ein gefluteter Vulkankrater mit bis zu 30 m Tiefe.",
+          "Erste Kohledepots wurden 1838 von der britischen East India Company gebaut.",
+          "Verfügt über eine Kailänge von insgesamt 1.750 Metern.",
+          "Wichtigster Umschlagplatz für Container und Treibstoff in Nord-Kap-Verde.",
+          "Zentraler Hafen für den internationalen Kreuzfahrttourismus des Landes.",
+          "Der Hafen wird von der staatlichen Behörde ENAPOR verwaltet.",
+          "Strategische Lage auf halbem Weg zwischen Europa, Afrika und Südamerika."
+        ],
+        "hu": [
+          "A Porto Grande egy elárasztott vulkáni kráter, mélysége eléri a 30 métert.",
+          "Az első szénraktárakat 1838-ban a brit Kelet-indiai Társaság építette.",
+          "A rakpartok teljes hossza eléri az 1750 métert.",
+          "A konténeres áruforgalom és az üzemanyag-behozatal legfőbb központja északon.",
+          "Az ország nemzetközi tengerjáró turizmusának központi kikötője.",
+          "A kikötőt az ENAPOR állami hatóság kezeli.",
+          "Stratégiai fekvésű, félúton Európa, Afrika és Dél-Amerika között."
+        ],
+        "ro": [
+          "Porto Grande este un crater vulcanic inundat cu o adâncime de până la 30 m.",
+          "Primele depozite de cărbune au fost construite în 1838 de Compania Britanică a Indiilor de Est.",
+          "Dispune de o lungime totală a cheiului de 1.750 de metri.",
+          "Cel mai important punct de transbordare pentru containere și combustibil în nordul Capului Verde.",
+          "Port central pentru turismul internațional de croazieră al țării.",
+          "Portul este administrat de autoritatea de stat ENAPOR.",
+          "Locație strategică la jumătatea distanței dintre Europa, Africa și America de Sud."
+        ],
+        "en": [
+          "Porto Grande is a submerged volcanic crater with depths up to 30 meters.",
+          "The first coal depots were established in 1838 by the British East India Company.",
+          "The facility features a total quay length of 1,750 meters.",
+          "Primary hub for container cargo and fuel imports in northern Cape Verde.",
+          "Central port of call for the nation's international cruise tourism industry.",
+          "Managed and operated by the state-owned port authority, ENAPOR.",
+          "Strategically located halfway between Europe, Africa, and South America."
+        ]
+      }
+    },
+    {
+      "id": "porto-da-praia-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Praia (Porto da Praia) ist der wichtigste Handelshafen von Kap Verde und liegt an der Südküste der Insel Santiago. Er fungiert als das primäre Einfallstor für Waren in das bevölkerungsreichste Gebiet des Landes. Der Hafen befindet sich in der Enseada da Praia, einer Bucht, die durch den Ilhéu de Santa Maria geschützt wird. Um den wachsenden Bedarf der kapverdischen Wirtschaft zu decken, wurde der Hafen im Jahr 2014 massiv ausgebaut und modernisiert, wobei Investitionen von über 70 Millionen Euro getätigt wurden. Diese Erweiterung umfasste die Verlängerung der Piers, den Bau eines modernen Containerterminals und die Verbesserung der Lagerkapazitäten. Der Hafen verfügt heute über drei Hauptpiers mit einer maximalen Tiefe von bis zu 13,5 Metern, was die Abfertigung großer Frachtschiffe ermöglicht. Wirtschaftlich gesehen werden hier mehr als 50 Prozent des gesamten nationalen Frachtaufkommens abgewickelt, insbesondere Lebensmittel, Baumaterialien und Konsumgüter. Neben dem Güterverkehr ist der Porto da Praia ein zentraler Knotenpunkt für den nationalen Fährverkehr, der Santiago mit den Inseln Fogo, Brava und Maio verbindet. Die unmittelbare Nähe zum internationalen Flughafen Nelson Mandela und den Industriegebieten von Praia macht ihn zu einem strategischen Logistikzentrum von kontinentaler Bedeutung für Westafrika.",
+        "hu": "Praia kikötője (Porto da Praia) a Zöld-foki-szigetek legfontosabb kereskedelmi kikötője, amely Santiago szigetének déli partján található. Ez az elsődleges kapu az ország legnépesebb területére érkező áruk számára. A kikötő az Enseada da Praia öbölben helyezkedik el, amelyet az Ilhéu de Santa Maria sziget védelmez. A zöld-foki gazdaság növekvő igényeinek kielégítése érdekében a kikötőt 2014-ben jelentősen kibővítették és korszerűsítették, több mint 70 millió eurós beruházással. Ez a bővítés magában foglalta a mólók meghosszabbítását, egy modern konténerterminál megépítését és a raktározási kapacitások javítását. A kikötő ma három fő mólóval rendelkezik, amelyek maximális mélysége eléri a 13,5 métert, lehetővé téve a nagy teherhajók fogadását. Gazdasági szempontból itt bonyolódik a teljes nemzeti áruforgalom több mint 50 százaléka, különösen az élelmiszerek, építőanyagok és fogyasztási cikkek tekintetében. Az áruszállítás mellett a Porto da Praia a nemzeti kompközlekedés központi csomópontja, amely Santiagót összeköti Fogo, Brava és Maio szigeteivel. A Nelson Mandela nemzetközi repülőtér és Praia ipari övezeteinek közvetlen közelsége stratégiai logisztikai központtá teszi, amely Nyugat-Afrika számára is kontinentális jelentőséggel bír.",
+        "ro": "Portul Praia (Porto da Praia) este cel mai important port comercial din Capul Verde și este situat pe coasta de sud a insulei Santiago. Acesta funcționează ca poartă principală de intrare pentru mărfuri în cea mai populată zonă a țării. Portul se află în Enseada da Praia, un golf protejat de Ilhéu de Santa Maria. Pentru a satisface nevoile în creștere ale economiei capverdiene, portul a fost masiv extins și modernizat în anul 2014, fiind realizate investiții de peste 70 de milioane de euro. Această extindere a inclus prelungirea cheiurilor, construcția unui terminal de containere modern și îmbunătățirea capacităților de depozitare. Portul dispune astăzi de trei cheiuri principale cu o adâncime maximă de până la 13,5 metri, ceea ce permite operarea navelor de marfă mari. Din punct de vedere economic, aici se gestionează peste 50% din volumul total de marfă la nivel național, în special alimente, materiale de construcții și bunuri de larg consum. Pe lângă traficul de mărfuri, Porto da Praia este un nod central pentru traficul național de feriboturi, care conectează Santiago de insulele Fogo, Brava și Maio. Proximitatea imediată față de Aeroportul Internațional Nelson Mandela și zonele industriale din Praia îl transformă într-un centru logistic strategic de importanță continentală pentru Africa de Vest.",
+        "en": "The Port of Praia (Porto da Praia) is the most vital commercial port in Cape Verde, located on the southern coast of Santiago Island. It serves as the primary gateway for goods entering the country's most populous region. The port is situated in the Enseada da Praia, a bay sheltered by the Ilhéu de Santa Maria. To meet the growing demands of the Cape Verdean economy, the port underwent massive expansion and modernization in 2014, with investments exceeding 70 million euros. This expansion included extending the piers, constructing a modern container terminal, and improving storage facilities. Today, the port features three main piers with a maximum depth of up to 13.5 meters, enabling the handling of large cargo vessels. Economically, more than 50 percent of the total national freight volume is processed here, particularly foodstuffs, construction materials, and consumer goods. In addition to freight traffic, Porto da Praia is a central hub for national ferry services, connecting Santiago with the islands of Fogo, Brava, and Maio. Its immediate proximity to the Nelson Mandela International Airport and Praia's industrial zones makes it a strategic logistics center of continental significance for West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster Handelshafen Kap Verdes für über 50 % des Güterumschlags.",
+          "Abschluss einer 70-Millionen-Euro-Modernisierung im Jahr 2014.",
+          "Verfügt über eine maximale Wassertiefe von 13,5 Metern.",
+          "Besitzt einen spezialisierten Terminal für den Containerumschlag.",
+          "Logistisches Drehkreuz für Santiago, Fogo, Brava und Maio.",
+          "Direkte Anbindung an den internationalen Flughafen Nelson Mandela.",
+          "Wird von der nationalen Hafenbehörde ENAPOR betrieben."
+        ],
+        "hu": [
+          "A Zöld-foki-szigetek legfontosabb kikötője, itt zajlik az áruforgalom több mint 50%-a.",
+          "2014-ben fejeződött be egy 70 millió eurós modernizációs program.",
+          "Maximális vízmélysége eléri a 13,5 métert.",
+          "Speciális terminállal rendelkezik a konténeres áruk kezeléséhez.",
+          "Logisztikai csomópont Santiago, Fogo, Brava és Maio között.",
+          "Közvetlen összeköttetése van a Nelson Mandela nemzetközi repülőtérrel.",
+          "Az ENAPOR nemzeti kikötői hatóság üzemelteti."
+        ],
+        "ro": [
+          "Cel mai important port comercial din Capul Verde pentru peste 50% din traficul de mărfuri.",
+          "Finalizarea unei modernizări de 70 de milioane de euro în anul 2014.",
+          "Dispune de o adâncime maximă a apei de 13,5 metri.",
+          "Deține un terminal specializat pentru manipularea containerelor.",
+          "Nod logistic pentru Santiago, Fogo, Brava și Maio.",
+          "Conexiune directă cu Aeroportul Internațional Nelson Mandela.",
+          "Este operat de autoritatea portuară națională ENAPOR."
+        ],
+        "en": [
+          "Cape Verde's most important commercial port, handling over 50% of national cargo.",
+          "Completed a major 70-million-euro modernization project in 2014.",
+          "Features a maximum water depth of 13.5 meters at the main berths.",
+          "Equipped with a specialized terminal for international container handling.",
+          "Primary logistical hub connecting Santiago, Fogo, Brava, and Maio.",
+          "Located in close proximity to the Nelson Mandela International Airport.",
+          "Managed and operated by the state-owned port authority ENAPOR."
+        ]
+      }
+    },
+    {
+      "id": "porto-de-palmeira-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Palmeira (Porto de Palmeira) ist das wirtschaftliche Rückgrat der Insel Sal und liegt an ihrer Nordwestküste. Er fungiert als der einzige kommerzielle Hafen der Insel und ist für deren Versorgung absolut unverzichtbar. Die strategische Bedeutung des Hafens liegt primär im Import von Treibstoffen, die für den Betrieb des internationalen Flughafens Amílcar Cabral und die lokale Stromerzeugung durch Wärmekraftwerke benötigt werden. Zwischen 2011 und 2015 wurde der Hafen in zwei Phasen massiv ausgebaut, um den steigenden Anforderungen des Tourismusbooms gerecht zu werden. Die Modernisierung umfasste die Erweiterung des Piers auf 230 Meter und die Vertiefung des Hafenbeckens auf 12 Meter. Ein wesentlicher Teil der Hafeninfrastruktur ist das Treibstoffterminal der Firma ENACOL. Der Hafen dient zudem als Anlaufstelle für Frachtschiffe, die Baumaterialien und Lebensmittel für die schnell wachsende Hotelindustrie im Süden der Insel bringen. Obwohl er primär industriell genutzt wird, teilt sich der Hafen das Becken mit einer bedeutenden lokalen Fischereiflotte. Die logistische Anbindung ist durch eine moderne Schnellstraße nach Espargos und Santa Maria exzellent. Der Hafen spielt eine Schlüsselrolle in der regionalen Versorgungskette und ist ein Symbol für die industrielle Entwicklung der ansonsten kargen Insel.",
+        "hu": "Palmeira kikötője (Porto de Palmeira) Sal szigetének gazdasági gerincét alkotja, és az északnyugati parton található. Ez a sziget egyetlen kereskedelmi kikötője, és abszolút nélkülözhetetlen a sziget ellátása szempontjából. A kikötő stratégiai jelentősége elsősorban az üzemanyag-behozatalban rejlik, amely az Amílcar Cabral nemzetközi repülőtér működéséhez és a helyi hőerőművek áramtermeléséhez szükséges. 2011 és 2015 között a kikötőt két fázisban jelentősen kibővítették, hogy megfeleljenek a turisztikai boom növekvő igényeinek. A modernizáció magában foglalta a móló 230 méterre történő meghosszabbítását és a kikötőmedence 12 méterre való mélyítését. A kikötői infrastruktúra lényeges része az ENACOL cég üzemanyag-terminálja. A kikötő emellett olyan teherhajók fogadóhelye is, amelyek építőanyagot és élelmiszert szállítanak a sziget déli részén gyorsan növekvő szállodaipar számára. Bár elsősorban ipari célokra használják, a kikötő osztozik a medencén egy jelentős helyi halászflottával is. A logisztikai összeköttetés kiváló az Espargosba és Santa Mariába vezető modern gyorsforgalmi útnak köszönhetően. A kikötő kulcsszerepet játszik a regionális ellátási láncban, és az egyébként kopár sziget ipari fejlődésének szimbóluma.",
+        "ro": "Portul Palmeira (Porto de Palmeira) este coloana vertebrală economică a insulei Sal și este situat pe coasta sa de nord-vest. Acesta funcționează ca singurul port comercial al insulei și este absolut indispensabil pentru aprovizionarea acesteia. Importanța strategică a portului constă în primul rând în importul de combustibili necesari pentru operarea Aeroportului Internațional Amílcar Cabral și pentru producerea locală de energie electrică prin centrale termice. Între 2011 și 2015, portul a fost masiv extins în două faze pentru a face față cerințelor tot mai mari ale boom-ului turistic. Modernizarea a inclus extinderea cheiului la 230 de metri și adâncirea bazinului portuar la 12 metri. O parte esențială a infrastructurii portuare este terminalul de combustibil al companiei ENACOL. Portul servește, de asemenea, ca punct de oprire pentru navele de marfă care aduc materiale de construcții și alimente pentru industria hotelieră în creștere rapidă din sudul insulei. Deși este utilizat în principal în scopuri industriale, portul împarte bazinul cu o flotă importantă de pescuit local. Conexiunea logistică este excelentă printr-un drum modern către Espargos și Santa Maria. Portul joacă un rol cheie în lanțul regional de aprovizionare și este un simbol al dezvoltării industriale a insulei, altfel sterpe.",
+        "en": "The Port of Palmeira (Porto de Palmeira) is the economic backbone of Sal Island, located on its northwestern coast. It serves as the island's only commercial port and is absolutely indispensable for its supply chain. The port's strategic importance primarily lies in the import of fuels required for the operation of Amílcar Cabral International Airport and local power generation via thermal plants. Between 2011 and 2015, the port underwent massive expansion in two phases to meet the increasing demands of the tourism boom. This modernization included extending the pier to 230 meters and deepening the harbor basin to 12 meters. A vital component of the port infrastructure is the fuel terminal operated by ENACOL. The port also serves as a docking point for cargo ships bringing construction materials and food supplies for the rapidly growing hotel industry in the south of the island. Although primarily industrial, the port shares its basin with a significant local fishing fleet. Logistical connectivity is excellent via a modern highway leading to Espargos and Santa Maria. The port plays a key role in the regional supply chain and stands as a symbol of the industrial development of the otherwise barren island."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einziger kommerzieller Hafen der Insel Sal für den Güterumschlag.",
+          "Zentraler Importpunkt für Kerosin des internationalen Flughafens.",
+          "Zweiphasiger Ausbau und Modernisierung zwischen 2011 und 2015.",
+          "Die maximale Tiefe des Hafenbeckens beträgt heute 12 Meter.",
+          "Beherbergt ein großes Treibstoffterminal der Firma ENACOL.",
+          "Versorgungsknoten für die Hotelindustrie in Santa Maria.",
+          "Kombiniert industrielle Frachtabwicklung mit traditioneller Fischerei."
+        ],
+        "hu": [
+          "Sal szigetének egyetlen kereskedelmi kikötője az áruforgalom számára.",
+          "A nemzetközi repülőtér számára szükséges kerozin központi importhelye.",
+          "Kétfázisú bővítésen és korszerűsítésen esett át 2011 és 2015 között.",
+          "A kikötőmedence maximális mélysége ma eléri a 12 métert.",
+          "Itt található az ENACOL cég nagyméretű üzemanyag-terminálja.",
+          "A Santa Maria-i szállodaipar központi ellátási csomópontja.",
+          "Az ipari áruszállítást ötvözi a hagyományos halászattal."
+        ],
+        "ro": [
+          "Singurul port comercial al insulei Sal pentru manipularea mărfurilor.",
+          "Punct central de import pentru kerosenul aeroportului internațional.",
+          "Extindere și modernizare în două faze între 2011 și 2015.",
+          "Adâncimea maximă a bazinului portuar este astăzi de 12 metri.",
+          "Găzduiește un terminal mare de combustibil al companiei ENACOL.",
+          "Nod de aprovizionare pentru industria hotelieră din Santa Maria.",
+          "Combină manipularea mărfurilor industriale cu pescuitul tradițional."
+        ],
+        "en": [
+          "The sole commercial port on Sal Island for all freight handling.",
+          "Critical import point for aviation fuel used by the international airport.",
+          "Underwent a two-phase expansion and modernization from 2011 to 2015.",
+          "The harbor basin currently features a maximum depth of 12 meters.",
+          "Houses a large-scale fuel storage terminal operated by ENACOL.",
+          "Primary supply hub for the massive hotel industry in Santa Maria.",
+          "Integrates industrial cargo operations with traditional local fishing."
+        ]
+      }
+    },
+    {
+      "id": "porto-novo-harbour-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Porto Novo (Porto de Porto Novo) ist die lebenswichtige Schlagader der Insel Santo Antão und liegt an ihrer Südostküste. Da die Insel über keinen funktionierenden Flughafen verfügt, ist dieser Hafen die einzige Verbindung zum Rest des Archipels und zur Welt. Er dient primär als Fährterminal für den intensiven Passagier- und Güterverkehr mit der Nachbarinsel São Vicente. Zwischen 2012 und 2015 wurde der Hafen für rund 20 Millionen Euro umfassend erweitert und modernisiert. Die Arbeiten beinhalteten den Bau neuer Anlegestellen, die Verlängerung des Hauptkais auf 245 Meter und die Errichtung eines modernen Passagierterminals mit einer Fläche von 2.000 Quadratmetern. Wirtschaftlich ist der Hafen entscheidend für den Export der landwirtschaftlichen Produkte von Santo Antão, wie Grogue, Bananen und Kaffee, nach Mindelo und Praia. Die Wassertiefe an den Kais beträgt bis zu 8 Meter, was die Abfertigung moderner Roll-on/Roll-off-Fähren ermöglicht. Der Hafen hat den wirtschaftlichen Charakter von Porto Novo von einem kleinen Fischerort zu einem geschäftigen Handelszentrum transformiert. Die logistische Bedeutung wird durch die täglichen, hochfrequenten Verbindungen unterstrichen, die für das Überleben der lokalen Wirtschaft auf der gebirgigen Insel absolut essenziell sind.",
+        "hu": "Porto Novo kikötője (Porto de Porto Novo) Santo Antão szigetének létfontosságú ütőere, amely a délkeleti parton található. Mivel a sziget nem rendelkezik működő repülőtérrel, ez a kikötő az egyetlen összeköttetés a szigetcsoport többi részével és a világgal. Elsősorban kompterminálként szolgál a szomszédos São Vicente szigetével bonyolított intenzív utas- és áruforgalom számára. 2012 és 2015 között a kikötőt mintegy 20 millió eurós beruházással átfogóan kibővítették és korszerűsítették. A munkálatok magukban foglalták új kikötőhelyek építését, a főrakpart 245 méteresre történő meghosszabbítását és egy modern, 2000 négyzetméteres utasterminál létrehozását. Gazdaságilag a kikötő döntő fontosságú Santo Antão mezőgazdasági termékeinek – mint például a grogue, a banán és a kávé – Mindelóba és Praiába történő exportja szempontjából. A rakpartoknál a vízmélység eléri a 8 métert, ami lehetővé teszi a modern roll-on/roll-off kompok fogadását. A kikötő Porto Novo gazdasági karakterét egy kis halászfaluból nyüzsgő kereskedelmi központtá formálta át. A logisztikai jelentőséget hangsúlyozzák a napi rendszerességű, nagy sűrűségű járatok, amelyek abszolút alapvetőek a hegyvidéki sziget helyi gazdaságának túlélése szempontjából.",
+        "ro": "Portul Porto Novo (Porto de Porto Novo) este artera vitală a insulei Santo Antão și este situat pe coasta sa de sud-est. Deoarece insula nu are un aeroport funcțional, acest port este singura legătură cu restul arhipelagului și cu lumea. Servește în primul rând ca terminal de feribot pentru traficul intens de pasageri și mărfuri cu insula vecină São Vicente. Între 2012 și 2015, portul a fost extins și modernizat integral pentru aproximativ 20 de milioane de euro. Lucrările au inclus construcția de noi dane, prelungirea cheiului principal la 245 de metri și ridicarea unui terminal modern de pasageri cu o suprafață de 2.000 de metri pătrați. Din punct de vedere economic, portul este crucial pentru exportul produselor agricole din Santo Antão, precum grogue, banane și cafea, către Mindelo și Praia. Adâncimea apei la cheiuri este de până la 8 metri, ceea ce permite operarea feriboturilor moderne de tip roll-on/roll-off. Portul a transformat caracterul economic al Porto Novo dintr-un mic sat de pescari într-un centru comercial aglomerat. Importanța logistică este subliniată de conexiunile zilnice, de înaltă frecvență, care sunt absolut esențiale pentru supraviețuirea economiei locale pe insula muntoasă.",
+        "en": "The Port of Porto Novo (Porto de Porto Novo) is the vital artery of Santo Antão Island, located on its southeastern coast. As the island lacks a functioning airport, this port is the only connection to the rest of the archipelago and the world. It primarily serves as a ferry terminal for intensive passenger and freight traffic with the neighboring island of São Vicente. Between 2012 and 2015, the port was extensively expanded and modernized for approximately 20 million euros. The works included the construction of new berths, the extension of the main quay to 245 meters, and the building of a modern passenger terminal covering 2,000 square meters. Economically, the port is crucial for exporting Santo Antão's agricultural products, such as grogue, bananas, and coffee, to Mindelo and Praia. The water depth at the quays is up to 8 meters, enabling the handling of modern roll-on/roll-off ferries. The port has transformed Porto Novo's economic character from a small fishing village into a bustling commercial center. Its logistical significance is highlighted by high-frequency daily connections, which are absolutely essential for the survival of the local economy on this mountainous island."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen ist die einzige Verkehrsader der Insel Santo Antão.",
+          "Abschluss einer umfassenden Modernisierung im Jahr 2015.",
+          "Der Hauptkai wurde auf eine Länge von 245 Metern erweitert.",
+          "Modernes Passagierterminal mit 2.000 m² Fläche vorhanden.",
+          "Wichtigster Exportpunkt für Grogue, Kaffee und Bananen.",
+          "Täglicher, hochfrequenter Fährverkehr nach Mindelo (São Vicente).",
+          "Ermöglicht den Einsatz von modernen Ro-Ro-Schiffen."
+        ],
+        "hu": [
+          "A kikötő Santo Antão szigetének egyetlen közlekedési ütőere.",
+          "2015-ben fejeződött be egy átfogó modernizációs folyamat.",
+          "A főrakpartot 245 méter hosszúra bővítették.",
+          "2000 m²-es területű modern utasterminállal rendelkezik.",
+          "A grogue, a kávé és a banán legfontosabb exportpontja.",
+          "Napi rendszerességű, sűrű kompjárat Mindelo (São Vicente) felé.",
+          "Lehetővé teszi a modern Ro-Ro hajók fogadását."
+        ],
+        "ro": [
+          "Portul este singura arteră de transport a insulei Santo Antão.",
+          "Finalizarea unei modernizări cuprinzătoare în anul 2015.",
+          "Cheiul principal a fost extins la o lungime de 245 de metri.",
+          "Dispune de un terminal de pasageri modern cu o suprafață de 2.000 m².",
+          "Cel mai important punct de export pentru grogue, cafea și banane.",
+          "Trafic zilnic de feribot de înaltă frecvență către Mindelo (São Vicente).",
+          "Permite utilizarea navelor moderne de tip Ro-Ro."
+        ],
+        "en": [
+          "The port is the sole transportation lifeline for Santo Antão Island.",
+          "Completed a comprehensive expansion and modernization project in 2015.",
+          "The main quay was extended to a total length of 245 meters.",
+          "Features a modern passenger terminal covering 2,000 square meters.",
+          "Primary export point for local grogue, coffee, and bananas.",
+          "Operates high-frequency daily ferry services to Mindelo, São Vicente.",
+          "Facilitates the operation of modern roll-on/roll-off (Ro-Ro) vessels."
+        ]
+      }
+    }
+  ]
+}

@@ -23,9 +23,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Se întinde pe o lungime de aproximativ 700 de kilometri.", "Jbel Toubkal are o altitudine exactă de 4.167 metri.", "Plăcile Africană și Eurasiatică au început să se ciocnească acum circa 65 de milioane de ani.", "Găzduiește Parcul Național Toubkal, care acoperă o suprafață de 380 km².", "Rezervorul de apă al Marocului; zăpada de pe vârfuri alimentează principalele râuri.", "Valea Aït Bouguemez este cunoscută ca 'Valea Fericită' datorită fertilității sale.", "Oukaïmeden este cea mai înaltă stațiune de schi din Africa, situată la 2.600 m.", "Pe lângă Toubkal, alte vârfuri importante sunt Ouanoukrim (4.089 m) și M'Goun (4.071 m)."],
-      de: ["Höchster Gipfel ist der Toubkal.", "Trennung von Sahara und Küste.", "Das höchste Gebirge Nordafrikas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Legmagasabb csúcsa a Toubkal.", "Elválasztja a Szaharát a partvidéktől.", "Észak-Afrika legmagasabb hegysége.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Highest peak is Toubkal.", "Separates the Sahara from the coast.", "The highest mountain range in North Africa.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Das höchste Gebirge Nordafrikas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Észak-Afrika legmagasabb hegysége.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["The highest mountain range in North Africa.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/atlas-mountains-relief-v2.webp"},
   {
     id: "mount-toubkal-relief-v2",
@@ -47,10 +47,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Jbel Toubkal is a remarkable feature of the geography and culture of Morocco. The highest mountain in Morocco and North Africa. Height 4167 meters. Popular destination for hikers. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Höhe 4167 Meter.", "Beliebtes Ziel für Wanderer.", "Der höchste Berg Marokkos und Nordafrikas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Magassága 4167 méter.", "Népszerű célpont túrázóknak.", "Marokkó és Észak-Afrika legmagasabb hegye.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Înălțime 4167 metri.", "Destinație populară pentru drumeți.", "Cel mai înalt munte din Maroc și Africa de Nord.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Height 4167 meters.", "Popular destination for hikers.", "The highest mountain in Morocco and North Africa.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Der höchste Berg Marokkos und Nordafrikas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Marokkó és Észak-Afrika legmagasabb hegye.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Cel mai înalt munte din Maroc și Africa de Nord.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["The highest mountain in Morocco and North Africa.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/mount-toubkal-relief-v2.webp"},
   {
     id: "anti-atlas-relief-v2",
@@ -73,9 +73,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Cel mai înalt punct este Jbel Sirwa (3.304 m).", "Formațiunile geologice datează din era Paleozoică, acum aproximativ 300 de milioane de ani.", "Tafraoute este un oraș important din regiune, renumit pentru stâncile sale de granit roz.", "Regiunea este bogată în zăcăminte minerale, inclusiv cupru și argint.", "Arborele de argan (Argania spinosa) crește endemic doar în această zonă a lumii.", "Picturile rupestre găsite aici indică o climă mult mai umedă în preistorie.", "Pasul Tizi n'Test leagă regiunea de Marrakech de valea Sous.", "Arhitectura tradițională folosește pământul bătut (pisé) și piatra locală."],
-      de: ["Dehnt sich bis zum Atlantik aus.", "Trockene klimatische Bedingungen.", "Ein Gebirgszug im Süden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Az Atlanti-óceánig nyúlik.", "Száraz éghajlati viszonyok.", "Hegységrendszer Marokkó déli részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Stretches to the Atlantic Ocean.", "Arid climatic conditions.", "A mountain range in the south of Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Ein Gebirgszug im Süden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegységrendszer Marokkó déli részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["A mountain range in the south of Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/anti-atlas-relief-v2.webp"},
   {
     id: "middle-atlas-relief-v2",
@@ -97,10 +97,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Middle Atlas is a remarkable feature of the geography and culture of Morocco. Mountain region known for cedar forests. Numerous lakes and streams. Important for water supply. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Zahlreiche Seen und Bäche.", "Wichtig für die Wasserversorgung.", "Gebirgsregion bekannt für Zedernwälder.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Számos tó és patak.", "Fontos a vízellátás szempontjából.", "Cédruserdőiről ismert hegyvidéki régió.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Numeroase lacuri și pâraie.", "Important pentru aprovizionarea cu apă.", "Regiune muntoasă cunoscută pentru pădurile de cedru.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Numerous lakes and streams.", "Important for water supply.", "Mountain region known for cedar forests.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Gebirgsregion bekannt für Zedernwälder.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Cédruserdőiről ismert hegyvidéki régió.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Regiune muntoasă cunoscută pentru pădurile de cedru.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Mountain region known for cedar forests.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/middle-atlas-relief-v2.webp"},
   {
     id: "rif-mountains-relief-v2",
@@ -122,10 +122,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Rif Mountains is a remarkable feature of the geography and culture of Morocco. Mountain range in northern Morocco. Near the Mediterranean Sea. Steep slopes and canyons. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Nahe dem Mittelmeer.", "Steile Hänge und Schluchten.", "Gebirgskette im Norden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Közel a Földközi-tengerhez.", "Meredek lejtők és kanyonok.", "Hegységrendszer Marokkó északi részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Aproape de Marea Mediterană.", "Versanți abrupți și canioane.", "Lanț muntos în nordul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Near the Mediterranean Sea.", "Steep slopes and canyons.", "Mountain range in northern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Gebirgskette im Norden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegységrendszer Marokkó északi részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Lanț muntos în nordul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Mountain range in northern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/rif-mountains-relief-v2.webp"},
   {
     id: "draa-valley-relief-v2",
@@ -148,9 +148,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Valea are o lungime de aproximativ 200 km, dar râul Draa în totalitate are peste 1.100 km.", "Se estimează că în oaze cresc între 2 și 3 milioane de palmieri curmali.", "Producția de curmale este principala activitate economică a văii.", "Ksar-ul Aït Benhaddou, situat în apropierea văii, este un sit al Patrimoniului Mondial UNESCO.", "Caravanele puteau avea mii de cămile și călătoreau luni de zile până la Timbuktu.", "Biblioteca din Tamegroute, în sudul văii, deține manuscrise vechi de sute de ani.", "Apa râului Draa este controlată de barajul Al Mansour Ad-Dahbi, lângă Ouarzazate.", "Picturile rupestre din zonă atestă prezența elefanților și a girafelor în timpurile preistorice."],
-      de: ["Bekannt für seine Palmenhaine.", "Oasenreiche Region.", "Langes Flusstal am Rande der Sahara.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Ismert pálmaligeteiről.", "Oázisokban gazdag régió.", "Hosszú folyóvölgy a Szahara szélén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Known for its palm groves.", "Oasis-rich region.", "Long river valley at the edge of the Sahara.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Langes Flusstal am Rande der Sahara.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hosszú folyóvölgy a Szahara szélén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Long river valley at the edge of the Sahara.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/draa-valley-relief-v2.webp"},
   {
     id: "dadès-valley-relief-v2",
@@ -173,9 +173,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Râul Dadès izvorăște din Atlasul Înalt și se varsă în râul Draa.", "Numele 'Valea celor o mie de Kasbah-uri' reflectă importanța istorică a rutei comerciale trans-sahariene.", "Formațiunile 'Degetele Maimuței' sunt straturi de gresie erodate diferențiat.", "Festivalul Trandafirilor de la Kelaat M'Gouna are loc în fiecare an în luna mai.", "Din trandafirii de Damasc se produce renumita apă de trandafiri și ulei esențial.", "Șoseaua R704 prin Cheile Dadès este considerată una dintre cele mai frumoase din Maroc.", "Multe kasbah-uri vechi au fost transformate în hoteluri și case de oaspeți.", "Culoarea roșie a peisajului este dată de conținutul ridicat de oxid de fier din sol și roci."],
-      de: ["Bekannt als 'Tal der tausend Kasbahs'.", "Beeindruckende Felsformationen.", "Spektakuläre Schlucht im Hohen Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["'Ezer Kasbah völgyeként' ismert.", "Lenyűgöző sziklaalakzatok.", "Látványos kanyon a Magas-Atlaszban.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Known as the 'Valley of a thousand Kasbahs'.", "Impressive rock formations.", "Spectacular gorge in the High Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Spektakuläre Schlucht im Hohen Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Látványos kanyon a Magas-Atlaszban.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Spectacular gorge in the High Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/dadès-valley-relief-v2.webp"},
   {
     id: "todra-gorge-relief-v2",
@@ -197,10 +197,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Todra Gorge is a remarkable feature of the geography and culture of Morocco. A deep gorge in the eastern High Atlas. High limestone walls. Popular with climbers. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Hohe Kalksteinwände.", "Beliebt bei Kletterern.", "Eine tiefe Schlucht im östlichen Hohen Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Magas mészkőfalak.", "Népszerű a sziklamászók körében.", "Mély kanyon a keleti Magas-Atlaszban.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Pereți înalți de calcar.", "Populară printre alpiniști.", "Un canion adânc în Atlasul Înalt estic.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["High limestone walls.", "Popular with climbers.", "A deep gorge in the eastern High Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Eine tiefe Schlucht im östlichen Hohen Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Mély kanyon a keleti Magas-Atlaszban.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un canion adânc în Atlasul Înalt estic.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A deep gorge in the eastern High Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/todra-gorge-relief-v2.webp"},
   {
     id: "sahara-desert-relief-v2",
@@ -222,10 +222,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Sahara is a remarkable feature of the geography and culture of Morocco. The largest hot desert in the world. Sand dunes in Merzouga. Extremely arid climate. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Sanddünen in Merzouga.", "Extrem arides Klima.", "Die größte Trockenwüste der Erde.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Homokdűnék Merzougában.", "Extrém száraz éghajlat.", "A Föld legnagyobb száraz sivataga.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Dune de nisip în Merzouga.", "Climat extrem de arid.", "Cel mai mare deșert arid de pe Pământ.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Sand dunes in Merzouga.", "Extremely arid climate.", "The largest hot desert in the world.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Die größte Trockenwüste der Erde.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A Föld legnagyobb száraz sivataga.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Cel mai mare deșert arid de pe Pământ.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["The largest hot desert in the world.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/sahara-desert-relief-v2.webp"},
   {
     id: "merzouga-dunes-relief-v2",
@@ -247,10 +247,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Merzouga Dunes is a remarkable feature of the geography and culture of Morocco. Famous dune area Erg Chebbi. High golden sand dunes. Important tourist destination. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Hohe goldene Sanddünen.", "Wichtiges Tourismusziel.", "Bekanntes Dünengebiet Erg Chebbi.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Magas aranyszínű homokdűnék.", "Fontos turisztikai célpont.", "Híres dűnevidék, Erg Chebbi.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Dune înalte de nisip auriu.", "Destinație turistică importantă.", "Zonă dunară faimoasă, Erg Chebbi.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["High golden sand dunes.", "Important tourist destination.", "Famous dune area Erg Chebbi.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Bekanntes Dünengebiet Erg Chebbi.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Híres dűnevidék, Erg Chebbi.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Zonă dunară faimoasă, Erg Chebbi.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Famous dune area Erg Chebbi.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/merzouga-dunes-relief-v2.webp"},
   {
     id: "moulouya-river-valley-relief-v2",
@@ -272,10 +272,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Moulouya Valley is a remarkable feature of the geography and culture of Morocco. River valley in northeastern Morocco. Flows into the Mediterranean Sea. Important agricultural region. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Mündet in das Mittelmeer.", "Wichtige landwirtschaftliche Region.", "Flusstal im Nordosten Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A Földközi-tengerbe torkollik.", "Fontos mezőgazdasági régió.", "Folyóvölgy Marokkó északkeleti részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Se varsă în Marea Mediterană.", "Regiune agricolă importantă.", "Valea râului în nord-estul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Flows into the Mediterranean Sea.", "Important agricultural region.", "River valley in northeastern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Flusstal im Nordosten Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Folyóvölgy Marokkó északkeleti részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Valea râului în nord-estul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["River valley in northeastern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/moulouya-river-valley-relief-v2.webp"},
   {
     id: "zaer-plateau-relief-v2",
@@ -297,10 +297,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Zaer Plateau is a remarkable feature of the geography and culture of Morocco. A hilly plateau. Used for agriculture. Gentle hilly landscape. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Landwirtschaftlich genutzt.", "Sanfte Hügellandschaft.", "Eine hügelige Hochebene.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Mezőgazdasági művelés alatt.", "Szelíd dombvidék.", "Dombos fennsík.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Folosit agricol.", "Peisaj deluros blând.", "Un podiș deluros.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Used for agriculture.", "Gentle hilly landscape.", "A hilly plateau.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Eine hügelige Hochebene.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Dombos fennsík.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un podiș deluros.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A hilly plateau.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/zaer-plateau-relief-v2.webp"},
   {
     id: "sous-valley-relief-v2",
@@ -322,10 +322,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Sous Valley is a remarkable feature of the geography and culture of Morocco. Fertile valley between the Atlas and Anti-Atlas. Known for argan trees. Important citrus growing area. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Bekannt für Arganbäume.", "Wichtiges Anbaugebiet für Zitrusfrüchte.", "Fruchtbares Tal zwischen Atlas und Anti-Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Ismert az argánfákról.", "Fontos citrusfélék termesztési területe.", "Termékeny völgy az Atlasz és az Anti-Atlasz között.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cunoscută pentru argan.", "Regiune importantă de cultivare a citricelor.", "Vale fertilă între Atlas și Anti-Atlas.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Known for argan trees.", "Important citrus growing area.", "Fertile valley between the Atlas and Anti-Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Fruchtbares Tal zwischen Atlas und Anti-Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Termékeny völgy az Atlasz és az Anti-Atlasz között.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Vale fertilă între Atlas și Anti-Atlas.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Fertile valley between the Atlas and Anti-Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/sous-valley-relief-v2.webp"},
   {
     id: "nador-lagoon-relief-v2",
@@ -347,10 +347,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Nador Lagoon is a remarkable feature of the geography and culture of Morocco. Large lagoon on the Mediterranean coast. Important wetland. Habitat for migratory birds. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Wichtiges Feuchtgebiet.", "Lebensraum für Zugvögel.", "Große Lagune an der Mittelmeerküste.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fontos vizes élőhely.", "Élőhely a költöző madarak számára.", "Nagy lagúna a Földközi-tenger partján.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Zonă umedă importantă.", "Habitat pentru păsările migratoare.", "Lagună mare la coasta Mării Mediterane.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Important wetland.", "Habitat for migratory birds.", "Large lagoon on the Mediterranean coast.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Große Lagune an der Mittelmeerküste.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy lagúna a Földközi-tenger partján.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Lagună mare la coasta Mării Mediterane.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Large lagoon on the Mediterranean coast.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/nador-lagoon-relief-v2.webp"},
   {
     id: "guelmim-plains-relief-v2",
@@ -373,9 +373,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Guelmim este adesea numit 'Bab Sahara', adică 'Poarta Saharei'.", "Regiunea este un centru important pentru comerțul cu cămile.", "Moussem-ul de la Asrir, de lângă Guelmim, este unul dintre cele mai mari târguri de cămile din Maroc.", "Peisajul este predominant plat, cu altitudini joase.", "Clima este pre-sahariană, cu precipitații foarte scăzute.", "Uedul Noun este principalul curs de apă care traversează regiunea, deși este sec o mare parte a anului.", "Oamenii din regiune sunt cunoscuți ca 'oamenii albaștri' datorită veșmintelor lor indigo.", "Arheologic, zona prezintă interes pentru rutele vechi de comerț."],
-      de: ["Übergang zur Wüste.", "Nomadenkultur.", "Trockene Ebenen im Südwesten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Átmenet a sivatag felé.", "Nomád kultúra.", "Száraz síkságok délnyugaton.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Transition towards the desert.", "Nomadic culture.", "Dry plains in the southwest.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Trockene Ebenen im Südwesten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Száraz síkságok délnyugaton.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Dry plains in the southwest.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/guelmim-plains-relief-v2.webp"},
   {
     id: "oued-noun-valley-relief-v2",
@@ -397,10 +397,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Oued Noun is a remarkable feature of the geography and culture of Morocco. An important wadi in the southwest. Dry riverbed. Historical trade route. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Trockenflussbett.", "Historische Handelsroute.", "Ein bedeutendes Wadi im Südwesten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Száraz folyómeder.", "Történelmi kereskedelmi útvonal.", "Fontos vádi délnyugaton.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Albie de râu uscată.", "Rută comercială istorică.", "Un wadi important în sud-vest.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Dry riverbed.", "Historical trade route.", "An important wadi in the southwest.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein bedeutendes Wadi im Südwesten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos vádi délnyugaton.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un wadi important în sud-vest.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["An important wadi in the southwest.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/oued-noun-valley-relief-v2.webp"},
   {
     id: "figuig-oasis-relief-v2",
@@ -423,9 +423,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Oaza numără aproximativ 190.000 de palmieri curmali.", "Sistemul de irigații 'foggara' este o tehnică antică de origine persană.", "Apa este distribuită pe baza unor reguli stricte, moștenite de secole.", "Figuig este înscris pe lista tentativă a Patrimoniului Mondial UNESCO.", "Cele șapte ksar-uri sunt: Zenaga, Loudaghir, Laâbidate, Oulad Slimane, Hamam Foukani, Hamam Tahtani și El Maïz.", "Granița cu Algeria, aflată la doar câțiva kilometri, este închisă din 1994.", "Soiul local de curmale, 'Aziza', este foarte apreciat pentru gustul său.", "Populația oazei este în majoritate de origine berberă."],
-      de: ["Palmenhaine.", "Wüstengrenze.", "Eine isolierte Oase im Osten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Pálmaligetek.", "Sivatagi határ.", "Izolált oázis keleten.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Palm groves.", "Desert border.", "An isolated oasis in the east.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Eine isolierte Oase im Osten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Izolált oázis keleten.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["An isolated oasis in the east.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/figuig-oasis-relief-v2.webp"},
   {
     id: "moulay-idriss-hills-relief-v2",
@@ -447,10 +447,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Hills near Moulay Idriss is a remarkable feature of the geography and culture of Morocco. Hilly landscape around the holy town. Green hills. Environment for hikes. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Grüne Hügel.", "Umgebung für Wanderungen.", "Hügelige Landschaft um die heilige Stadt.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Zöld dombok.", "Környék túrázásra.", "Dombos táj a szent város körül.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Dealuri verzi.", "Împrejurimi pentru drumeții.", "Peisaj deluros în jurul orașului sfânt.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Green hills.", "Environment for hikes.", "Hilly landscape around the holy town.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Hügelige Landschaft um die heilige Stadt.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Dombos táj a szent város körül.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Peisaj deluros în jurul orașului sfânt.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Hilly landscape around the holy town.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/moulay-idriss-hills-relief-v2.webp"},
   {
     id: "oued-sebou-valley-relief-v2",
@@ -472,10 +472,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Sebou Valley is a remarkable feature of the geography and culture of Morocco. Large valley in northern Morocco. Fertile farmland. Most important river in the north. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Fruchtbares Ackerland.", "Wichtigster Fluss im Norden.", "Großes Tal im Norden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Termékeny termőföld.", "Az északi rész legfontosabb folyója.", "Nagy völgy Marokkó északi részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Teren agricol fertil.", "Cel mai important râu din nord.", "Vale mare în nordul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Fertile farmland.", "Most important river in the north.", "Large valley in northern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Großes Tal im Norden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy völgy Marokkó északi részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Vale mare în nordul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Large valley in northern Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/oued-sebou-valley-relief-v2.webp"},
   {
     id: "rif-cliffs-relief-v2",
@@ -497,10 +497,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Rif Cliffs is a remarkable feature of the geography and culture of Morocco. Steep coastal cliffs on the Mediterranean. Spectacular view. Rugged coastline. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Spektakuläre Aussicht.", "Schroffe Küstenlinie.", "Steile Küstenklippen am Mittelmeer.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Látványos kilátás.", "Zord partszakasz.", "Meredek tengerparti sziklák a Földközi-tenger mellett.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Vedere spectaculoasă.", "Linie de coastă aspră.", "Stânci de coastă abrupte la Marea Mediterană.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Spectacular view.", "Rugged coastline.", "Steep coastal cliffs on the Mediterranean.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Steile Küstenklippen am Mittelmeer.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Meredek tengerparti sziklák a Földközi-tenger mellett.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Stânci de coastă abrupte la Marea Mediterană.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Steep coastal cliffs on the Mediterranean.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/rif-cliffs-relief-v2.webp"},
   {
     id: "atlas-foothills-relief-v2",
@@ -523,9 +523,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Altitudinea variază între 500 și 1.500 de metri.", "Regiunea este un producător important de ulei de măsline și migdale.", "Piețele săptămânale (souk) sunt o tradiție veche de secole.", "Multe sate sunt construite din pământ bătut (adobe), integrându-se perfect în peisaj.", "Valea Ourika, situată în piemont, este o destinație populară de weekend pentru locuitorii din Marrakech.", "Solurile sunt în general fertile, de tip aluvionar.", "Clima este semi-aridă, cu veri calde și ierni blânde.", "Tranziția de la dealuri la munți este adesea marcată de schimbări vizibile în vegetație."],
-      de: ["Übergangszone.", "Traditionelle Dörfer.", "Sanfte Hügel am Fuß des Hohen Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Átmeneti zóna.", "Hagyományos falvak.", "Szelíd dombok a Magas-Atlasz lábánál.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Transition zone.", "Traditional villages.", "Gentle hills at the foot of the High Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Sanfte Hügel am Fuß des Hohen Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Szelíd dombok a Magas-Atlasz lábánál.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Gentle hills at the foot of the High Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/atlas-foothills-relief-v2.webp"},
   {
     id: "tiznit-plain-relief-v2",
@@ -547,10 +547,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Tiznit Plain is a remarkable feature of the geography and culture of Morocco. Flat plain near the Atlantic coast. Favorable climate. Agricultural use. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Günstiges Klima.", "Landwirtschaftliche Nutzung.", "Flache Ebene nahe der Atlantikküste.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kedvező éghajlat.", "Mezőgazdasági művelés.", "Lapos síkság az Atlanti-óceán közelében.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Climat favorabil.", "Utilizare agricolă.", "Câmpie plană lângă coasta Atlanticului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Favorable climate.", "Agricultural use.", "Flat plain near the Atlantic coast.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Flache Ebene nahe der Atlantikküste.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Lapos síkság az Atlanti-óceán közelében.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Câmpie plană lângă coasta Atlanticului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Flat plain near the Atlantic coast.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/tiznit-plain-relief-v2.webp"},
   {
     id: "oued-tensift-valley-relief-v2",
@@ -572,10 +572,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Tensift Valley is a remarkable feature of the geography and culture of Morocco. River valley near Marrakech. Water source for the region. Wadi system. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Wasserquelle für die Region.", "Wadi-System.", "Flusstal bei Marrakesch.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Vízforrás a régió számára.", "Vádi-rendszer.", "Folyóvölgy Marrákes közelében.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Sursă de apă pentru regiune.", "Sistem de wadi.", "Valea râului lângă Marrakech.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Water source for the region.", "Wadi system.", "River valley near Marrakech.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Flusstal bei Marrakesch.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Folyóvölgy Marrákes közelében.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Valea râului lângă Marrakech.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["River valley near Marrakech.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/oued-tensift-valley-relief-v2.webp"},
   {
     id: "high-plateaus-relief-v2",
@@ -598,9 +598,9 @@ export const poiExtraMoroccoReliefV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Altitudinea medie este de aproximativ 1.100 de metri.", "Precipitațiile anuale sunt scăzute, sub 300 mm.", "Iarba alfa este o resursă economică importantă pentru comunitățile locale.", "Regiunea este traversată de râul Moulouya, care creează o vale fertilă contrastantă.", "Creșterea oilor, în special a rasei Beni Guil, este o activitate tradițională.", "Tendrara este una dintre puținele așezări semnificative din regiune.", "Zona este considerată a avea unul dintre cele mai mari potențiale pentru energie regenerabilă din Maroc.", "Geologic, platourile fac parte din marele platou african."],
-      de: ["Halbwüstenklima.", "Große Flächen.", "Trockene Hochebenen im Osten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Félsivatagi éghajlat.", "Nagy területek.", "Száraz fennsíkok keleten.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Semi-desert climate.", "Large areas.", "Dry plateaus in the east.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Trockene Hochebenen im Osten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Száraz fennsíkok keleten.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Dry plateaus in the east.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/high-plateaus-relief-v2.webp"},
   {
     id: "oued-ziz-valley-relief-v2",
@@ -622,10 +622,10 @@ export const poiExtraMoroccoReliefV2: POI[] = [
       en: "Ziz Valley is a remarkable feature of the geography and culture of Morocco. Long river valley with oases. Spectacular view. Important lifeline. This landform shapes the topography of Morocco. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Spektakuläre Aussicht.", "Wichtige Lebensader.", "Langes Flusstal mit Oasen.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Látványos kilátás.", "Fontos éltető elem.", "Hosszú folyóvölgy oázisokkal.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Vedere spectaculoasă.", "Linie vitală importantă.", "Valea lungă a râului cu oaze.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Spectacular view.", "Important lifeline.", "Long river valley with oases.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Langes Flusstal mit Oasen.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hosszú folyóvölgy oázisokkal.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Valea lungă a râului cu oaze.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Long river valley with oases.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }
   }
 ];

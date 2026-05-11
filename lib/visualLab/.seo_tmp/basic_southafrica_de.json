@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "stellenbosch-winelands-life-v2",
+      "description": "Stellenbosch ist das Herz der südafrikanischen Weinregion mit einer langen Tradition im Weinbau. Die Umgebung bietet malerische Täler und historische kapholländische Architektur.",
+      "facts": ["UNESCO-Weltkulturerbe-Region", "Älteste Weinstraße Südafrikas", "Bekannt für Cabernet Sauvignon"]
+    },
+    {
+      "id": "sodwana-bay-life-v2",
+      "description": "Sodwana Bay ist ein bedeutendes Tauchgebiet an der subtropischen Ostküste. Es ist berühmt für seine Korallenriffe und die Vielfalt an marinen Lebewesen.",
+      "facts": ["Teil des iSimangaliso Wetland Parks", "Begehrtes Ziel für Sporttaucher", "Subtropisches Klima ganzjährig"]
+    },
+    {
+      "id": "gold-reef-city-life-v2",
+      "description": "Gold Reef City ist ein Themenpark in Johannesburg, der die Zeit des Goldrausches im 19. Jahrhundert lebendig werden lässt. Besucher können dort echte Minenschächte erkunden.",
+      "facts": ["Errichtet auf einer alten Goldmine", "Fokus auf Industriegeschichte", "Attraktion für Familien"]
+    },
+    {
+      "id": "karoo-national-park-life-v2",
+      "description": "Dieser Nationalpark in der Halbwüste Karoo bietet spektakuläre Berglandschaften und weite Ebenen. Er ist ein wichtiger Schutzraum für die vom Aussterben bedrohten Kap-Bergzebras.",
+      "facts": ["Größte Halbwüste Südafrikas", "Schutzgebiet für Kap-Bergzebras", "Ideal für Wanderungen"]
+    },
+    {
+      "id": "u-shaka-marine-life-v2",
+      "description": "uShaka Marine World in Durban zählt zu den größten Themenparks dieser Art weltweit. Die Anlage vereint ein riesiges Aquarium mit verschiedenen Unterhaltungsangeboten.",
+      "facts": ["Liegt an der Golden Mile", "Beheimatet viele Haiarten", "Eines der größten Aquarien"]
+    },
+    {
+      "id": "augurabies-falls-life-v2",
+      "description": "Die Augrabies Falls sind spektakuläre Wasserfälle am Oranje-Fluss, die tief in eine Granitschlucht stürzen. Die Umgebung ist für ihre karge Schönheit und geologischen Formationen bekannt.",
+      "facts": ["Name bedeutet 'Ort des großen Lärms'", "Nationalpark mit vielfältiger Flora", "Beeindruckende Schluchtbildung"]
+    },
+    {
+      "id": "crocodile-bridge-life-v2",
+      "description": "Crocodile Bridge ist ein wichtiger Zugangspunkt zum Krüger-Nationalpark im Südosten. Die Region ist bekannt für eine hohe Dichte an Großwild und Raubtieren.",
+      "facts": ["Liegt am Krokodilfluss", "Bekanntes Tor zum Krügerpark", "Sehr gute Beobachtungschancen"]
+    },
+    {
+      "id": "cape-point-nature-life-v2",
+      "description": "Cape Point markiert den dramatischen Endpunkt der Kap-Halbinsel im Tafelberg-Nationalpark. Das Gebiet ist geprägt von steilen Klippen, Leuchttürmen und einer einzigartigen Fynbos-Vegetation.",
+      "facts": ["Spektakuläre Klippenlandschaft", "Treffpunkt von Atlantik und Indik", "Teil des Tafelberg-Nationalparks"]
+    },
+    {
+      "id": "kalahari-wildlife-life-v2",
+      "description": "Die Kalahari ist ein weitläufiges Becken mit sandigen Ebenen und trockenen Flussbetten. Sie beherbergt spezialisierte Tierarten, die an das extrem trockene Klima angepasst sind.",
+      "facts": ["Große Halbwüste", "Heimat der Erdmännchen", "Einzigartige sandige Landschaft"]
+    },
+    {
+      "id": "cango-wildlife-life-v2",
+      "description": "Das Cango Wildlife Ranch in Oudtshoorn bietet Schutz für gefährdete Tierarten und interaktive Bildungsmöglichkeiten. Es ist auf die Rehabilitation von Raubtieren spezialisiert.",
+      "facts": ["Zentrum für Arterhalt", "Bietet geführte Touren", "Schutz für Geparden und Tiger"]
+    }
+  ]
+}

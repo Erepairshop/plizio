@@ -1,0 +1,76 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cinco-pinos-chinandega-cities-v2",
+      "description": "Cinco Pinos in Chinandega ist eine ländliche Gemeinde, bekannt für ihre Viehzucht und Landwirtschaft.",
+      "facts": ["Ländliche Gemeinde", "Viehzucht", "Landwirtschaft"]
+    },
+    {
+      "id": "san-francisco-de-cuapa-chontales-cities-v2",
+      "description": "San Francisco de Cuapa in Chontales ist ein Wallfahrtsort, bekannt für die Marienerscheinungen.",
+      "facts": ["Wallfahrtsort", "Marienerscheinungen", "Chontales"]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "description": "Santo Domingo in Chontales ist ein Bergbauort, bekannt für seine Goldminen und die reiche Geschichte.",
+      "facts": ["Bergbauort", "Goldminen", "Reiche Geschichte"]
+    },
+    {
+      "id": "la-libertad-chontales-cities-v2",
+      "description": "La Libertad in Chontales ist ein weiterer wichtiger Bergbauort, der auch für seine Viehzucht bekannt ist.",
+      "facts": ["Bergbauort", "Viehzucht", "Chontales"]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "description": "Teustepe in Boaco ist eine landwirtschaftliche Gemeinde, bekannt für den Anbau von Reis, Bohnen und Mais.",
+      "facts": ["Landwirtschaftliche Gemeinde", "Reis, Bohnen, Mais", "Boaco"]
+    },
+    {
+      "id": "santa-lucia-boaco-cities-v2",
+      "description": "Santa Lucía in Boaco ist eine kleine ländliche Gemeinde, bekannt für ihre Feste und traditionellen Bräuche.",
+      "facts": ["Ländliche Gemeinde", "Feste", "Traditionelle Bräuche"]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "description": "Camopa in Boaco ist bekannt für seine natürliche Schönheit und die Nähe zu den Bergen und Flüssen.",
+      "facts": ["Natürliche Schönheit", "Berge und Flüsse", "Boaco"]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "description": "San José de los Remates in Boaco ist eine Bergstadt, bekannt für ihren Kaffeeanbau und die kühle Bergluft.",
+      "facts": ["Bergstadt", "Kaffeeanbau", "Kühle Bergluft"]
+    },
+    {
+      "id": "puerto-corinto-economic-v2",
+      "description": "Puerto Corinto ist der größte und wichtigste Pazifikhafen Nicaraguas, ein Drehkreuz für Export und Import.",
+      "facts": ["Größter Pazifikhafen", "Export und Import", "Wirtschaftliches Drehkreuz"]
+    },
+    {
+      "id": "holcim-nagarote-economic-v2",
+      "description": "Holcim Nagarote ist ein bedeutendes Zementwerk in Nicaragua, das eine wichtige Rolle im Bausektor spielt.",
+      "facts": ["Zementwerk", "Bausektor", "Nagarote"]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "description": "Die Hacienda San Jacinto ist ein historischer Ort, an dem 1856 eine entscheidende Schlacht im Bürgerkrieg stattfand.",
+      "facts": ["Historischer Ort", "Bürgerkrieg Schlacht", "1856"]
+    },
+    {
+      "id": "convento-san-francisco-granada-history-v2",
+      "description": "Das Convento San Francisco in Granada ist eines der ältesten Klöster Amerikas und beherbergt ein Museum.",
+      "facts": ["Ältestes Kloster Amerikas", "Granada", "Museum"]
+    },
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "description": "Die Fortaleza La Pólvora in Granada ist eine historische Festung aus dem 18. Jahrhundert, die einst die Stadt schützte.",
+      "facts": ["Historische Festung", "Granada", "18. Jahrhundert"]
+    }
+  ]
+}

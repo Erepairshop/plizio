@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "okatse-canyon-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Okatse-Canyon ist ein beeindruckendes geologisches Denkmal in der Region Imeretien, unweit der Stadt Choni. Geografisch wurde die Schlucht über Jahrmillionen vom Fluss Okatse in das Kalksteinplateau gegraben und erreicht Tiefen von bis zu 100 Metern. Das markanteste technische Merkmal des Canyons ist der im Jahr 2014 errichtete Skywalk – ein etwa 700 Meter langer, an den Felswänden hängender Metallsteg, der Besuchern einen Blick direkt in den Abgrund ermöglicht. Historisch war die Region Teil der Jagdreviere der Dadiani-Fürsten, doch erst die moderne touristische Erschließung machte den Canyon weltweit bekannt. Ökonomisch ist Okatse ein zentraler Pfeiler für den Naturtourismus in Westgeorgien und hat die lokale Infrastruktur nachhaltig belebt. Die Vegetation innerhalb der Schlucht ist durch den feuchten kolchischen Wald geprägt, der ein spezielles Mikroklima aufrechterhält. Technisch gesehen erforderte der Bau des Stegs aufgrund des schwierigen Geländes und der Instabilität einiger Felsformationen präzise ingenieurstechnische Berechnungen. Der Weg führt schließlich zu einer Aussichtsplattform, die über den Canyon ragt und einen Panoramablick auf die Wasserfälle und die umliegende Gebirgslandschaft bietet. Die Erhaltung der Kalksteinformationen und der Schutz der endemischen Flora stehen im Fokus des staatlichen Umweltmanagements.",
+        "hu": "Az Okatse-kanyon egy lenyűgöző geológiai képződmény Imereti régióban, Honi városának közelében. Földrajzilag a szurdokot az Okatse-folyó vájta ki a mészkőfennsíkba az évmilliók során, helyenként elérve a 100 méteres mélységet. A kanyon legjelentősebb technikai jellemzője a 2014-ben épült „Skywalk” – egy körülbelül 700 méter hosszú, a sziklafalakra függesztett fémjárda, amely közvetlen rálátást biztosít a szakadékra. Történelmileg a terület a Dadiani hercegek vadászterületeinek része volt, de a modern turisztikai fejlesztések tették világszerte ismertté. Gazdaságilag az Okatse-kanyon Nyugat-Grúzia természetjáró turizmusának egyik alapköve, amely jelentősen fellendítette a helyi infrastruktúrát. A szurdok növényzetét a párás kolkhiszi erdő jellemzi, amely speciális mikroklímát tart fenn a mélyben. Technikai szempontból a függőhíd építése a nehéz terepviszonyok és a sziklaalakzatok instabilitása miatt precíz mérnöki számításokat igényelt. Az útvonal végén egy konzolosan kinyúló kilátóplatform található, amely panorámás kilátást nyújt a vízesésekre és a környező hegyvidékre. A mészkőformációk állagmegóvása és az endemikus flóra védelme a grúz természetvédelmi hatóságok kiemelt feladata.",
+        "ro": "Canionul Okatse este un monument geologic impresionant situat în regiunea Imereti, în apropierea orașului Khoni. Din punct de vedere geografic, defileul a fost sculptat de râul Okatse în platoul calcaros pe parcursul a milioane de ani, atingând adâncimi de până la 100 de metri. Caracteristica tehnică cea mai distinctivă a canionului este „Skywalk”-ul construit în 2014 – o pasarelă metalică suspendată de pereții stâncoși, lungă de aproximativ 700 de metri, care oferă vizitatorilor o perspectivă directă asupra abisului. Istoric, regiunea a făcut parte din domeniile de vânătoare ale principilor Dadiani, însă amenajările turistice moderne au adus celebritatea internațională a sitului. Economic, Okatse este un pilon central al ecoturismului din vestul Georgiei, revitalizând infrastructura locală. Vegetația din interiorul defileului este specifică pădurii colchice umede, care menține un microclimat special. Din punct de vedere tehnic, construcția pasarelei a reprezentat o provocare inginerească majoră din cauza reliefului accidentat și a necesității de a ancora structura în straturi de calcar erodat. Traseul culminează cu o platformă de observație panoramică ce se extinde deasupra prăpastiei, oferind vederi spectaculoase asupra cascadelor și munților din jur. Conservarea formațiunilor calcaroase și protejarea florei endemice sunt priorități ale managementului de mediu.",
+        "en": "Okatse Canyon is a stunning geological monument in the Imereti region, located near the town of Khoni. Geographically, the gorge was carved over millions of years by the Okatse River into the limestone plateau, reaching depths of up to 100 meters. The most distinctive technical feature of the canyon is the 'Skywalk,' established in 2014—a metal walkway approximately 700 meters long suspended along the cliff faces, allowing visitors to look directly into the chasm. Historically, the area was part of the hunting grounds for the Dadiani princes, but modern tourism development has propelled it to international fame. Economically, Okatse is a cornerstone of nature-based tourism in Western Georgia and has significantly stimulated local infrastructure. The vegetation within the gorge is characterized by humid Colchic forest, which sustains a unique microclimate. Technically, the construction of the hanging path required precise engineering due to the difficult terrain and the inherent instability of certain rock formations. The trail leads to a cantilevered observation deck that projects over the canyon, providing panoramic views of waterfalls and the surrounding mountain landscape. The preservation of the limestone structures and the protection of endemic flora are the primary focus of state environmental management."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt einen 700 Meter langen, an Felsen hängenden Metallsteg.",
+          "Die Schlucht erreicht eine maximale Tiefe von etwa 100 Metern.",
+          "Gelegen auf dem Territorium des ehemaligen Dadiani-Jagdreviers.",
+          "Der Zugang zum Canyon erfolgt über einen 2 km langen Waldpfad.",
+          "Wichtiger Standort für das Studium des kolchischen Regenwald-Mikroklimas.",
+          "Besitzt eine spektakuläre, über den Abgrund ragende Aussichtsplattform."
+        ],
+        "hu": [
+          "Egy 700 méter hosszú, sziklafalra rögzített fémfüggőhíddal rendelkezik.",
+          "A szurdok legmélyebb pontja eléri a 100 métert.",
+          "A terület egykor a Dadiani hercegi család magánbirtoka volt.",
+          "A kanyon bejárata egy 2 km-es erdei tanösvényen keresztül érhető el.",
+          "A kolkhiszi flóra és fauna egyik védett bástyája.",
+          "A 2014-es megnyitása óta az ország egyik legnépszerűbb ökoturisztikai célpontja."
+        ],
+        "ro": [
+          "Dispune de o pasarelă metalică suspendată pe stânci, lungă de 700 m.",
+          "Adâncimea maximă a defileului este de aproximativ 100 de metri.",
+          "Situl este administrat ca monument natural de importanță națională.",
+          "Infrastructura turistică a fost inaugurată în anul 2014.",
+          "Platforma de belvedere oferă vizibilitate asupra cascadei Kinchkha.",
+          "Accesul este facilitat printr-un centru de vizitare modern în satul Gordi."
+        ],
+        "en": [
+          "Features a 700-meter-long metal walkway suspended from the cliff walls.",
+          "The canyon reaches a maximum depth of approximately 100 meters.",
+          "Historically part of the private estates of the Dadiani noble family.",
+          "The site underwent a major infrastructure development in 2014.",
+          "Home to a rare and humid Colchic forest micro-ecosystem.",
+          "Includes a dramatic cantilevered platform projecting over the abyss."
+        ]
+      }
+    },
+    {
+      "id": "sataplia-cave-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Sataplia-Naturreservat liegt in der Nähe von Kutaissi und ist ein weltweit bedeutender Standort für Paläontologie und Geologie. Geografisch erstreckt sich das Reservat über den erloschenen Vulkan Sataplia und ist von dichtem kolchischem Laubwald umgeben. Der Name 'Sataplia' bedeutet auf Georgisch 'Ort des Honigs', was auf die traditionelle Wildbienenzucht in den Felsspalten zurückzuführen ist. Historisch erlangte der Ort 1925 Berühmtheit, als der Forscher Petre Chabukiani hier die ersten Dinosaurier-Fußabdrücke Georgiens entdeckte. Diese Spuren stammen sowohl von Fleischfressern als auch von Pflanzenfressern aus der Kreidezeit und sind in zwei verschiedenen Schichten erhalten geblieben. Die Sataplia-Höhle selbst besticht durch ihre beeindruckenden Stalaktiten und Stalagmiten, die durch ein modernes, farbiges Beleuchtungssystem in Szene gesetzt werden. Technisch wurde das Reservat umfassend modernisiert, einschließlich eines gläsernen Aussichtspunktes, der über die Klippen ragt. Ökonomisch ist Sataplia ein Hauptziel für Bildungsreisen und Familien-Tourismus in der Region Imeretien. Ökologisch dient das Gebiet dem Schutz des tertiären Waldes und beherbergt zahlreiche endemische Pflanzenarten. Die Kombination aus prähistorischen Funden, Höhlenkunde und moderner Aussichtsarchitektur macht Sataplia zu einem einzigartigen Denkmal der Erdgeschichte.",
+        "hu": "A Sataplia Természetvédelmi Rezervátum Kutaiszi közelében található, és világszerte jelentős paleontológiai és geológiai helyszín. Földrajzilag a rezervátum a kialudt Sataplia-vulkán területén fekszik, sűrű kolkhiszi lombhullató erdőkkel övezve. A „Sataplia” név grúz nyelven „mézes helyet” jelent, ami a sziklahasadékokban folytatott hagyományos vadméhészkedésre utal. Történelmileg a hely 1925-ben vált híressé, amikor Petre Csabukiani kutató itt fedezte fel Grúzia első dinoszaurusz-lábnyomait. Ezek a nyomok a kréta korból származó ragadozóktól és növényevőktől származnak, és két különböző rétegben maradtak fenn. Maga a Sataplia-barlang lenyűgöző sztalaktitjaival és sztalagmitjaival nyűgöz le, amelyeket modern, színes világítási rendszer mutat be. Technikai szempontból a rezervátumot átfogóan modernizálták, beleértve a sziklák fölé nyúló üvegaljú kilátót is. Gazdaságilag Sataplia az oktatási célú kirándulások és a családi turizmus fő célpontja Imereti régióban. Ökológiailag a terület a harmadidőszaki erdők védelmét szolgálja, és számos endemikus növényfajnak ad otthont. A prahisztorikus leletek, a barlangtan és a modern kilátó-építészet kombinációja Satapliát a földtörténet egyedülálló emlékművévé teszi.",
+        "ro": "Rezervația Naturală Sataplia, situată lângă Kutaisi, este un sit de importanță mondială pentru paleontologie și geologie. Geografic, rezervația se extinde peste vulcanul stins Sataplia și este înconjurată de o pădure colchicã densă de foioase. Numele „Sataplia” înseamnă în georgiană „locul mierii”, făcând referire la tradiția colectării mierii de albine sălbatice din fisurile stâncilor. Din punct de vedere istoric, locația a devenit celebră în 1925, când cercetătorul Petre Chabukiani a descoperit aici primele urme de dinozaur din Georgia. Aceste amprente aparțin atât unor specii carnivore, cât și erbivore din perioada cretacică, fiind conservate în două straturi geologice distincte. Peștera Sataplia impresionează prin stalactitele și stalagmitele sale, puse în valoare de un sistem de iluminat cromatic modern. Din punct de vedere tehnic, rezervația a fost modernizată complet, incluzând o platformă de observație cu podea de sticlă care oferă o panoramă spectaculoasă asupra regiunii. Economic, Sataplia este o destinație principală pentru turismul educațional și de familie din Imereti. Ecologic, zona protejează relicte ale pădurii terțiare și găzduiește numeroase specii de plante endemice. Combinația de descoperiri preistorice, speologie și arhitectură de observație modernă transformă Sataplia într-un monument unic al istoriei Pământului.",
+        "en": "The Sataplia Nature Reserve, located near Kutaisi, is a globally significant site for paleontology and geology. Geographically, the reserve spans the extinct Sataplia volcano and is surrounded by dense Colchic deciduous forest. The name 'Sataplia' translates to 'place of honey' in Georgian, referring to the traditional practice of gathering honey from wild bees nesting in the cliff crevices. Historically, the site gained fame in 1925 when researcher Petre Chabukiani discovered Georgia's first dinosaur footprints here. These tracks, belonging to both carnivorous and herbivorous species from the Cretaceous period, are preserved across two distinct geological layers. The Sataplia Cave itself is noted for its impressive stalactites and stalagmites, showcased by a modern, multi-colored lighting system. Technically, the reserve has undergone extensive modernization, featuring a glass-bottomed observation deck that projects over the cliffs. Economically, Sataplia serves as a major hub for educational excursions and family tourism in the Imereti region. Ecologically, the area is dedicated to protecting Tertiary-era forest remnants and hosts numerous endemic plant species. The synthesis of prehistoric remains, speleology, and modern viewing architecture makes Sataplia a unique monument to Earth's history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Berühmt für die Entdeckung von Dinosaurier-Fußabdrücken im Jahr 1925.",
+          "Der Name bedeutet 'Ort des Honigs' aufgrund der Wildbienen in den Felsen.",
+          "Beherbergt eine Karsthöhle mit einer Gesamtlänge von ca. 900 Metern.",
+          "Verfügt über eine moderne Aussichtsplattform mit gläsernem Boden.",
+          "Schützt einen der letzten intakten kolchischen Laubwälder der Region.",
+          "Enthält Spuren von zwei verschiedenen Dinosaurier-Arten (Raub- und Pflanzenfresser)."
+        ],
+        "hu": [
+          "1925-ben itt fedezték fel Grúzia első dinoszaurusz-lábnyomait.",
+          "Neve a sziklákban fészkelő vadméhekre utal (Sataplia = mézes hely).",
+          "A karsztbarlang teljes hossza körülbelül 900 méter.",
+          "Üvegaljú kilátóteraszáról pazar kilátás nyílik Kutaiszi környékére.",
+          "A terület a harmadidőszaki kolkhiszi erdők egyik utolsó menedéke.",
+          "Két különböző korszakból származó dinoszaurusz-faj nyomait őrzi."
+        ],
+        "ro": [
+          "Situl primelor urme de dinozaur descoperite în Georgia (1925).",
+          "Etimologia numelui provine de la albinele sălbatice (tapli = miere).",
+          "Peștera principală are un parcurs vizitabil de 300 de metri lungime.",
+          "Include un punct de belvedere cu podea de sticlă deasupra prăpastiei.",
+          "Rezervația protejează un ecosistem rar de pădure temperată colchicã.",
+          "Urmele fosilizate aparțin unor grupuri distincte de dinozauri din Cretacic."
+        ],
+        "en": [
+          "Famous for the discovery of authentic dinosaur footprints in 1925.",
+          "The name 'Sataplia' means 'the place of honey' in the local language.",
+          "Features a karst cave with an accessible length of about 300 meters.",
+          "Home to a modern glass-floored skywalk offering broad valley views.",
+          "Protects an ecologically vital fragment of ancient Colchic forest.",
+          "Preserves footprints from both theropod and ornithopod dinosaurs."
+        ]
+      }
+    },
+    {
+      "id": "svaneti-towers-mestia-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Swanetischen Türme in Mestia sind das architektonische Symbol der Hochgebirgsregion Ober-Swanetien und ein UNESCO-Weltkulturerbe. Geografisch liegen diese Wehrtürme (Koshki) eingebettet in die dramatische Kulisse des Großen Kaukasus, umgeben von schneebedeckten Gipfeln wie dem Uschba. Historisch stammen die meisten Türme aus dem 9. bis 12. Jahrhundert und dienten sowohl als Schutz vor feindlichen Invasionen als auch als Zufluchtsort während Lawinenabgängen oder Familienfehden (Blutrache). Die Architektur ist technisch einzigartig: Die meist vier- bis fünfstöckigen Steinbauten verjüngen sich nach oben, um die Stabilität bei Erdbeben zu erhöhen. Das untere Stockwerk war oft fensterlos und diente als Lager oder Viehstall, während die oberen Etagen Wohn- und Verteidigungszwecke erfüllten. Ökonomisch ist Mestia heute das Zentrum des georgischen Alpin-Tourismus, wobei die Türme das wichtigste Kapital für den Kulturtourismus darstellen. Viele dieser Türme befinden sich noch immer im Privatbesitz swanetischer Familien, die sie über Generationen erhalten haben. Die Konstruktion aus lokalen Schiefersteinen und Kalkmörtel hat über tausend Jahre den harten klimatischen Bedingungen standgehalten. Die Türme sind nicht nur Verteidigungsanlagen, sondern Ausdruck der ungebrochenen Unabhängigkeit und des kulturellen Stolzes des swanetischen Volkes.",
+        "hu": "A mesztiai szvaneti tornyok Felső-Szvaneti magashegyi régiójának építészeti jelképei és az UNESCO Világörökség részét képezik. Földrajzilag ezek a védőtornyok (koski) a Nagy-Kaukázus drámai kulisszái között, olyan hófödte csúcsok árnyékában állnak, mint az Usba. Történelmileg a legtöbb torony a 9. és 12. század között épült, és egyszerre szolgált védelemül az ellenséges inváziók, a lavinák és a családi vérbosszúk idején. Az építészet technikailag egyedülálló: a rendszerint négy-öt emeletes kőépítmények felfelé keskenyednek, hogy növeljék a stabilitást földrengések esetén. Az alsó szint gyakran ablak nélküli volt, raktárként vagy állatistállóként szolgált, míg a felső szintek lakó- és védelmi célokat töltöttek be. Gazdaságilag Mesztia ma a grúz alpesi turizmus központja, ahol a tornyok a kulturális turizmus legfontosabb vonzerejét jelentik. Sok torony még ma is szván családok magántulajdonában van, akik generációkon át megőrizték őket. A helyi palakőből és mészhabarcsból készült szerkezetek több mint ezer éven át ellenálltak a zord éghajlati viszonyoknak. A tornyok nem csupán védelmi létesítmények, hanem a szván nép töretlen függetlenségének és kulturális büszkeségének kifejezői.",
+        "ro": "Turnurile svanetice din Mestia sunt simbolul arhitectural al regiunii montane Svaneti de Sus și fac parte din Patrimoniul Mondial UNESCO. Geografic, aceste turnuri de apărare (koshki) sunt integrate în peisajul dramatic al Caucazului Mare, fiind înconjurate de vârfuri semețe precum Ushba. Din punct de vedere istoric, majoritatea turnurilor datează din secolele IX-XII și au servit drept refugiu împotriva invaziilor străine, a avalanșelor și a conflictelor sângeroase între clanuri (vândută). Arhitectura este tehnic unică: construcțiile din piatră, de obicei cu patru sau cinci etaje, se îngustează spre vârf pentru a spori stabilitatea în caz de cutremur. Parterul era adesea fără ferestre, fiind utilizat ca depozit sau adăpost pentru animale, în timp ce etajele superioare aveau funcții locative și defensive. Economic, Mestia este astăzi centrul turismului montan georgian, turnurile reprezentând principalul activ cultural. Multe dintre aceste structuri rămân în proprietatea familiilor svanetice, fiind transmise din generație în generație. Construcția din plăci de ardezie locală și mortar de var a rezistat peste o mie de ani condițiilor climatice severe. Turnurile nu sunt doar fortificații, ci și o expresie a independenței neclintite și a mândriei culturale a poporului svan.",
+        "en": "The Svaneti Towers in Mestia are the architectural symbols of the Upper Svaneti highland region and are recognized as a UNESCO World Heritage site. Geographically, these defensive towers (koshki) are nestled within the dramatic scenery of the Greater Caucasus, surrounded by snow-capped peaks such as Mount Ushba. Historically, most of the towers date back to the 9th to 12th centuries, serving as protection against foreign invasions as well as refuges during avalanches or family feuds (blood vengeance). The architecture is technically unique: the stone structures, typically four to five stories high, taper toward the top to increase stability during earthquakes. The ground floor was often windowless, used for storage or livestock, while the upper floors fulfilled residential and defensive roles. Economically, Mestia has become the hub of Georgian alpine tourism, with the towers being the most vital asset for heritage travel. Many of these towers remain in the private possession of Svan families, who have preserved them for generations. The construction, utilizing local slate and lime mortar, has withstood harsh climatic conditions for over a millennium. These towers are not merely fortifications but expressions of the unwavering independence and cultural pride of the Svan people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des UNESCO-Weltkulturerbes Ober-Swanetien seit 1996.",
+          "Erbaut zwischen dem 9. und 12. Jahrhundert aus lokalem Stein.",
+          "Dienten als Schutz vor Feinden, Lawinen und Familienfehden.",
+          "Besitzen meist 4 bis 5 Stockwerke mit einer Höhe von bis zu 25 Metern.",
+          "Die schrägen Wände erhöhen die strukturelle Erdbebensicherheit.",
+          "Mestia beherbergt die höchste Dichte an original erhaltenen Wehrtürmen."
+        ],
+        "hu": [
+          "1996 óta az UNESCO Világörökség része Felső-Szvaneti részeként.",
+          "A 9. és 12. század között épültek helyi palakőből.",
+          "Védelmet nyújtottak a külső ellenség és a vérbosszúk ellen is.",
+          "Általában 4-5 emeletesek, magasságuk elérheti a 25 métert.",
+          "A felfelé keskenyedő forma növeli az épületek földrengésállóságát.",
+          "Mesztia a szván védelmi építészet legfontosabb élő múzeuma."
+        ],
+        "ro": [
+          "Incluse în Patrimoniul Mondial UNESCO din anul 1996.",
+          "Majoritatea structurilor au fost ridicate între secolele IX și XII.",
+          "Utilizate istoric pentru apărare pasivă și protecție împotriva avalanșelor.",
+          "Ating înălțimi de până la 25 de metri, fiind divizate în mai multe niveluri.",
+          "Fundațiile sunt extrem de solide, adaptate solului montan instabil.",
+          "Reprezintă elementul central al peisajului cultural din Mestia."
+        ],
+        "en": [
+          "Designated as a UNESCO World Heritage site in 1996.",
+          "Constructed between the 9th and 12th centuries using local stone.",
+          "Served as multi-functional refuges against invaders and nature.",
+          "Typically stand 20 to 25 meters tall with 4 to 5 internal levels.",
+          "Engineered with inward-sloping walls for superior seismic resistance.",
+          "Mestia contains one of the largest concentrations of these ancient towers."
+        ]
+      }
+    },
+    {
+      "id": "enguri-dam-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Enguri-Talsperre im Westen Georgiens ist ein Meisterwerk der sowjetischen Ingenieurskunst und eine der höchsten Bogenstaumauern der Welt. Geografisch liegt sie am Fluss Enguri, an der administrativen Grenze zwischen der Region Mingrelien und der abtrünnigen Region Abchasien. Historisch wurde der Bau im Jahr 1961 begonnen und erst 1987 vollständig abgeschlossen. Die Staumauer hat eine beeindruckende Höhe von 271,5 Metern und eine Kronenlänge von über 700 Metern. Ökonomisch ist der Enguri-Staudamm von existenzieller Bedeutung für Georgien, da er etwa ein Drittel des gesamten Strombedarfs des Landes deckt. Ein technisches und politisches Unikum ist die gemeinsame Nutzung der Anlage: Während sich die Staumauer auf georgisch kontrolliertem Gebiet befindet, liegt das dazugehörige Wasserkraftwerk (HPP) unterirdisch auf abchasischem Territorium. Dies zwingt beide Seiten zu einer pragmatischen Kooperation bei der Wartung und Stromverteilung. Ökologisch hat der Stausee das Enguri-Tal massiv verändert, bietet aber auch Schutz vor unkontrollierten Fluten. Die Bogenform der Mauer ist so konstruiert, dass der enorme Wasserdruck direkt in die massiven Felsflanken des Kaukasus abgeleitet wird. Im Jahr 2015 wurde die Talsperre offiziell zum nationalen Kulturerbe Georgiens erklärt und ist heute ein Ziel für Technik-Interessierte aus aller Welt.",
+        "hu": "Az Enguri-gát Nyugat-Grúziában a szovjet mérnöki tudomány mesterműve, és a világ egyik legmagasabb íves völgyzárógátja. Földrajzilag az Enguri-folyón található, Mingrélia és a szakadár Abházia régió adminisztratív határán. Történelmileg az építkezés 1961-ben kezdődött és csak 1987-ben fejeződött be teljesen. A gát magassága lenyűgöző, 271,5 méter, koronahossza pedig meghaladja a 700 métert. Gazdaságilag az Enguri-gát létfontosságú Grúzia számára, mivel az ország teljes villamosenergia-szükségletének körülbelül egyharmadát fedezi. Technikai és politikai különlegessége a létesítmény megosztott használata: míg maga a völgyzárógát a grúz ellenőrzés alatt álló területen található, a hozzá tartozó vízerőmű (HPP) a föld alatt, abház területen fekszik. Ez mindkét felet pragmatikus együttműködésre kényszeríti a karbantartás és az áramelosztás terén. Ökológiailag a víztározó jelentősen megváltoztatta az Enguri-völgyet, de védelmet is nyújt az ellenőrizetlen áradások ellen. A gát íves formáját úgy tervezték, hogy a hatalmas víznyomást közvetlenül a Kaukázus masszív sziklafalaiba vezesse le. 2015-ben a gátat hivatalosan Grúzia nemzeti kulturális örökségévé nyilvánították, és ma a technikai látványosságok iránt érdeklődők kedvelt célpontja.",
+        "ro": "Barajul Enguri din vestul Georgiei este o capodoperă a ingineriei sovietice și unul dintre cele mai înalte baraje în arc din lume. Geografic, acesta este situat pe râul Enguri, la granița administrativă dintre regiunea Mingrelia și regiunea separatistă Abhazia. Din punct de vedere istoric, construcția a început în 1961 și a fost finalizată complet abia în 1987. Barajul are o înălțime impresionantă de 271,5 metri și o lungime a coronamentului de peste 700 de metri. Economic, hidrocentrala Enguri este de o importanță existențială pentru Georgia, furnizând aproximativ o treime din necesarul total de energie electrică al țării. Un aspect tehnic și politic unic este utilizarea comună a facilității: în timp ce barajul propriu-zis se află pe teritoriul controlat de autoritățile de la Tbilisi, centrala electrică subterană este situată pe teritoriul abhaz. Această situație obligă ambele părți la o cooperare pragmatică pentru întreținerea și distribuția energiei. Ecologic, lacul de acumulare a modificat radical valea râului Enguri, dar oferă și protecție împotriva inundațiilor catastrofale. Structura în arc este proiectată să descarce presiunea imensă a apei direct în versanții stâncoși masivi ai Caucazului. În 2015, barajul a fost declarat oficial monument al patrimoniului cultural național.",
+        "en": "The Enguri Dam in western Georgia is a masterpiece of Soviet engineering and remains one of the highest concrete arch dams in the world. Geographically, it is located on the Enguri River, on the administrative boundary between the Samegrelo region and the breakaway territory of Abkhazia. Historically, construction commenced in 1961 and was only fully completed in 1987. The dam stands at an impressive height of 271.5 meters, with a crest length exceeding 700 meters. Economically, the Enguri Dam is of existential importance to Georgia, as it generates approximately one-third of the nation's total electricity supply. A unique technical and political feature is the shared operation of the complex: while the dam itself is on Georgian-controlled territory, the associated underground hydroelectric power plant (HPP) is located within Abkhazia. This situation necessitates pragmatic cooperation between both sides for maintenance and power distribution. Ecologically, the reservoir has transformed the Enguri Valley but also provides vital flood control. The arch design is engineered to transfer the immense water pressure directly into the massive Caucasian rock flanks. In 2015, the dam was officially designated a National Cultural Heritage site of Georgia and has become a prime destination for industrial tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zweithöchste Bogenstaumauer der Welt mit 271,5 Metern Höhe.",
+          "Baubeginn 1961, volle Inbetriebnahme erst im Jahr 1987.",
+          "Wichtigste Stromquelle Georgiens (deckt ca. 30% des Bedarfs).",
+          "Politisches Unikum: Staumauer in Georgien, Kraftwerk in Abchasien.",
+          "Eingetragen als Denkmal des nationalen Kulturerbes seit 2015.",
+          "Der Stausee fasst ein Volumen von rund 1,1 Milliarden Kubikmetern Wasser."
+        ],
+        "hu": [
+          "A világ második legmagasabb íves gátja 271,5 méteres magassággal.",
+          "Az építkezés 26 éven át tartott (1961–1987).",
+          "Grúzia legfontosabb erőműve, az áramtermelés 30%-át adja.",
+          "Különlegessége, hogy a gát és az erőmű két különböző politikai egység területén van.",
+          "2015 óta hivatalos nemzeti ipari műemlék Grúziában.",
+          "A víztározó teljes térfogata eléri az 1,1 milliárd köbmétert."
+        ],
+        "ro": [
+          "A doua cea mai înaltă structură de tip baraj în arc din lume (271,5 m).",
+          "Perioada de construcție s-a întins pe parcursul a 26 de ani.",
+          "Asigură aproximativ 30% din consumul de electricitate al Georgiei.",
+          "Cea mai mare facilitate industrială partajată între Georgia și Abhazia.",
+          "Declarat sit al Patrimoniului Cultural Național în anul 2015.",
+          "Lacul de acumulare are o capacitate de peste un miliard de metri cubi."
+        ],
+        "en": [
+          "The world's second-highest concrete arch dam at 271.5 meters.",
+          "Construction spanned over two decades, from 1961 to 1987.",
+          "Generates roughly 30% of the total electricity consumed in Georgia.",
+          "Operates through a rare cross-border agreement with Abkhazia.",
+          "Designated as a Monument of National Cultural Heritage in 2015.",
+          "The reservoir holds a staggering 1.1 billion cubic meters of water."
+        ]
+      }
+    },
+    {
+      "id": "dashbashi-canyon-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Dashbashi-Canyon (auch Tsalka-Canyon genannt) ist ein spektakuläres Naturwunder in der Region Niederkartlien, auf dem vulkanischen Tsalka-Plateau. Geografisch wurde die Schlucht vom Fluss Khrami in das harte Basaltgestein gegraben, was zu markanten, vertikalen Felswänden führt. Das ökologische Highlight des Canyons ist die sogenannte 'Weinende Wand' – eine Reihe von kaskadenartigen Wasserfällen, die direkt aus den moosbewachsenen Felsspalten entspringen und ganzjährig fließen. Historisch war die Region aufgrund ihrer kargen Hochebene dünn besiedelt, beherbergt aber am Rande des Canyons antike Kirchen und Siedlungsreste. Ökonomisch hat der Ort im Jahr 2022 eine massive Transformation erfahren, als die 'Diamond Bridge' eröffnet wurde – eine 240 Meter lange Glasbrücke mit einer hängenden Bar in Form eines Diamanten im Zentrum. Diese technische Meisterleistung hat Dashbashi zu einem der meistbesuchten modernen Landmarks Georgiens gemacht. Technisch gesehen erforderte der Bau der Brücke in über 200 Metern Höhe über dem Canyonboden extrem windfeste Konstruktionen. Die Umgebung ist durch ein raueres, alpines Klima geprägt als im Rest Georgiens. Der Canyon bietet einen faszinierenden Einblick in die vulkanische Aktivität der Kaukasusregion und verbindet unberührte Natur mit futuristischer Architektur.",
+        "hu": "A Dashbashi-kanyon (más néven Tsalka-kanyon) egy látványos természeti csoda Alsó-Kartli régióban, a vulkanikus Tsalka-fennsíkon. Földrajzilag a szurdokot a Khrami-folyó vájta ki a kemény bazaltkőzetbe, ami jellegzetes, függőleges sziklafalakat eredményezett. A kanyon ökológiai fénypontja az úgynevezett „Síró fal” – vízesések sorozata, amelyek közvetlenül a mohával borított sziklahasadékokból törnek elő és egész évben folynak. Történelmileg a régió a kopár fennsík miatt ritkán lakott volt, de a kanyon peremén ősi templomok és településmaradványok találhatóak. Gazdaságilag a hely 2022-ben hatalmas átalakuláson ment keresztül, amikor megnyílt a „Gyémánt híd” – egy 240 méter hosszú üveghíd, amelynek közepén egy gyémánt alakú függő bár található. Ez a technikai bravúr Dashbashit Grúzia egyik leglátogatottabb modern látványosságává tette. Technikai szempontból a híd megépítése több mint 200 méterrel a kanyon alja felett rendkívül szélálló szerkezetet igényelt. A környéket az ország többi részénél zordabb, alpesi klíma jellemzi. A kanyon lenyűgöző betekintést nyújt a Kaukázus vulkanikus múltjába, és ötvözi az érintetlen természetet a futurista építészettel.",
+        "ro": "Canionul Dashbashi (cunoscut și sub numele de Canionul Tsalka) este o minune naturală spectaculoasă situată în regiunea Kvemo Kartli, pe platoul vulcanic Tsalka. Din punct de vedere geografic, defileul a fost săpat de râul Khrami în roca dură de bazalt, rezultând pereți stâncoși verticali impunători. Punctul de atracție ecologic este „Zidul Plângător” – o serie de cascade care țâșnesc direct din fisurile stâncilor acoperite de mușchi, menținând un flux constant tot anul. Din punct de vedere istoric, regiunea platoului a fost locuită din antichitate, marginea canionului adăpostind ruine de biserici și fortificații medievale. Economic, locația a suferit o transformare radicală în 2022, odată cu inaugurarea „Podului de Diamant” (Diamond Bridge) – o structură din sticlă lungă de 240 de metri, dotată cu un bar suspendat în formă de diamant în centru. Această realizare tehnică a transformat Dashbashi într-unul dintre cele mai populare repere moderne din Georgia. Din punct de vedere tehnic, construcția podului la o înălțime de peste 200 de metri a necesitat soluții inginerești avansate pentru a rezista vânturilor puternice de pe platou. Canionul oferă o perspectivă fascinantă asupra activității vulcanice din Caucaz, combinând natura sălbatică cu elemente arhitecturale futuriste.",
+        "en": "Dashbashi Canyon (also known as Tsalka Canyon) is a spectacular natural wonder located in the Kvemo Kartli region, on the volcanic Tsalka Plateau. Geographically, the gorge was carved by the Khrami River into hard basalt rock, resulting in striking vertical cliff walls. The ecological highlight of the canyon is the 'Weeping Wall'—a series of cascading waterfalls that emerge directly from moss-covered crevices and flow year-round. Historically, the region was sparsely populated due to the harsh plateau environment, but the canyon's edge features ancient churches and settlement ruins. Economically, the site underwent a massive transformation in 2022 with the opening of the 'Diamond Bridge'—a 240-meter-long glass bridge featuring a suspended diamond-shaped bar at its center. This technical feat has established Dashbashi as one of Georgia's most visited modern landmarks. Technically, building the bridge over 200 meters above the canyon floor required highly wind-resistant construction. The environment is characterized by a cooler, alpine climate compared to the rest of Georgia. The canyon provides a fascinating glimpse into the volcanic activity of the Caucasus region, blending pristine nature with futuristic architecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt die 'Diamond Bridge', eine 240 Meter lange Glasbrücke.",
+          "Der Canyon wurde durch den Fluss Khrami in Basaltgestein gegraben.",
+          "Berühmt für die 'Weinende Wand', eine Kaskade natürlicher Wasserfälle.",
+          "Liegt auf dem vulkanischen Tsalka-Plateau auf 1.100 bis 1.500 m Höhe.",
+          "Die hängende Bar in Brückenmitte ist die weltweit größte ihrer Art.",
+          "Wurde im Jahr 2022 als modernes Ökotourismus-Zentrum neu eröffnet."
+        ],
+        "hu": [
+          "Itt található a „Gyémánt híd”, egy 240 méter hosszú üvegszerkezet.",
+          "A szurdokot a Khrami-folyó vájta ki kemény bazaltkőzetből.",
+          "Fő látványossága a „Síró fal” nevű természetes vízeséssorozat.",
+          "A Tsalka-fennsíkon fekszik, 1100 és 1500 méter közötti magasságban.",
+          "A híd közepén lévő függő bár a világ legnagyobb ilyen jellegű építménye.",
+          "2022-ben nyitották meg a teljes körűen modernizált turisztikai övezetet."
+        ],
+        "ro": [
+          "Găzduiește „Podul de Diamant”, o structură din sticlă lungă de 240 m.",
+          "Format prin eroziunea râului Khrami în straturi masive de bazalt.",
+          "Renumit pentru cascadele naturale cunoscute sub numele de „Zidul Plângător”.",
+          "Situat pe platoul vulcanic Tsalka la o altitudine medie de 1.200 m.",
+          "Barul suspendat din centrul podului este unic prin design și amplasare.",
+          "Destinație majoră de turism de aventură, inaugurată oficial în 2022."
+        ],
+        "en": [
+          "Features the 'Diamond Bridge,' a 240-meter-long transparent glass structure.",
+          "The canyon was carved through basalt rock layers by the Khrami River.",
+          "Famous for the 'Weeping Wall' waterfalls that flow from cliff crevices.",
+          "Situated on the volcanic Tsalka Plateau at an elevation of 1,500 meters.",
+          "The suspended bar at the bridge's center is a Guinness-world-class feat.",
+          "Reopened in 2022 as a premier destination for modern eco-tourism."
+        ]
+      }
+    }
+  ]
+}

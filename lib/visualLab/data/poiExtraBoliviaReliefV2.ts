@@ -4,12 +4,18 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaReliefV2: POI[] = [
   {
     id: "bolivia-cordillera-real-relief-v2",
-    description: "Az Andok látványos, hófödte hegyvonulata, amely Bolívia felföldje felett magasodik.",
-    facts: [
-      "Andok",
-      "Hegyvonulat",
-      "Felföld"
-],
+    description: {
+      de: "Die Cordillera Real ist die spektakulärste Gebirgskette der bolivianischen Anden mit zahlreichen Sechstausendern.",
+      hu: "Az Andok látványos, hófödte hegyvonulata, amely Bolívia felföldje felett magasodik.",
+      ro: "Cordillera Real este cel mai spectaculos lanț muntos din Anzii bolivieni, cu numeroase vârfuri de peste șase mii de metri.",
+      en: "Spectacular glaciated mountain range that separates the Altiplano from the Amazon basin."
+    },
+    facts: {
+      de: ["Länge von etwa 125 km", "Zahlreiche Gletscher", "Wichtigste Wasserquelle für La Paz"],
+      hu: ["Andok", "Hegyvonulat", "Felföld"],
+      ro: ["Lungime de aproximativ 125 km", "Numeroși ghețari", "Cea mai importantă sursă de apă pentru La Paz"],
+      en: ["Length of about 125 kilometers", "Numerous peaks over 6,000 meters", "Critical water source for La Paz", "Contains the Illimani and Illampu peaks"]
+    },
     type: "mountain",
     parent: "BO-L",
     coords: [-68.0000, -16.0000],
@@ -33,12 +39,18 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     }, image: "/poi-images/bolivia-cordillera-real-relief-v2.webp"},
   {
     id: "bolivia-cordillera-occidental-relief-v2",
-    description: "A nyugati hegyvonulat, amely Bolívia és Chile természetes határát alkotja.",
-    facts: [
-      "Nyugati hegyvonulat",
-      "Természetes határ",
-      "Andok"
-],
+    description: {
+      de: "Die Cordillera Occidental bildet die natürliche vulkanische Grenze zwischen Bolivien und Chile.",
+      hu: "A nyugati hegyvonulat, amely Bolívia és Chile természetes határát alkotja.",
+      ro: "Cordillera Occidental formează granița vulcanică naturală între Bolivia și Chile.",
+      en: "The western spine of the Bolivian Andes, forming a high volcanic border with Chile."
+    },
+    facts: {
+      de: ["Vulkanische Bergkette", "Natürliche Grenze zu Chile", "Extrem trockenes Klima"],
+      hu: ["Nyugati hegyvonulat", "Természetes határ", "Andok"],
+      ro: ["Lanț muntos vulcanic", "Graniță naturală cu Chile", "Climat extrem de arid"],
+      en: ["Highly volcanic landscape", "Home to Mount Sajama", "Extremely arid environment", "Features high-altitude salt pans"]
+    },
     type: "mountain",
     parent: "BO-O",
     coords: [-68.5000, -19.0000],
@@ -62,12 +74,18 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     }, image: "/poi-images/bolivia-cordillera-occidental-relief-v2.webp"},
   {
     id: "bolivia-altiplano-andino-relief-v2",
-    description: "A hatalmas, nagy magasságban fekvő fennsík, az andoki kultúrák bölcsője.",
-    facts: [
-      "Magas fennsík",
-      "Andoki kultúrák",
-      "Földrajzi régió"
-],
+    description: {
+      de: "Die Altiplano-Hochebene ist eine weite, hochgelegene Ebene zwischen den Andenketten und das kulturelle Herz der Region.",
+      hu: "A hatalmas, nagy magasságban fekvő fennsík, az andoki kultúrák bölcsője.",
+      ro: "Podișul Altiplano este o câmpie vastă, situată la mare altitudine între lanțurile andine, fiind inima culturală a regiunii.",
+      en: "A vast, high-altitude plateau that is the demographic and historical heart of the Bolivian Andes."
+    },
+    facts: {
+      de: ["Durchschnittshöhe von 3.800 m", "Zweitgrößtes Hochplateau der Welt", "Heimat des Titicacasees"],
+      hu: ["Magas fennsík", "Andoki kultúrák", "Földrajzi régió"],
+      ro: ["Altitudine medie de 3.800 m", "Al doilea cel mai mare podiș din lume", "Căminul lacului Titicaca"],
+      en: ["Average elevation of 3,800 meters", "Second highest plateau in the world", "Home to Lake Titicaca", "Cradle of ancient civilizations"]
+    },
     type: "relief",
     parent: "BO-L",
     coords: [-68.0000, -18.0000],
@@ -91,12 +109,18 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     }, image: "/poi-images/bolivia-altiplano-andino-relief-v2.webp"},
   {
     id: "bolivia-llanos-de-moxos-relief-v2",
-    description: "Kiterjedt síkság és vizes élőhely az ország északi részén.",
-    facts: [
-      "Síkság",
-      "Vizes élőhely",
-      "Észak-Bolívia"
-],
+    description: {
+      de: "Die Ebenen von Moxos sind ein riesiges tropisches Feuchtgebiet im Norden Boliviens mit reicher prähistorischer Geschichte.",
+      hu: "Kiterjedt síkság és vizes élőhely az ország északi részén.",
+      ro: "Câmpiile Moxos sunt o zonă umedă tropicală uriașă în nordul Boliviei, cu o bogată istorie preistorică.",
+      en: "Extensive tropical savannah and wetland region in the northern Bolivian Amazon basin."
+    },
+    facts: {
+      de: ["Tropisches Schwemmland", "Antike künstliche Erdwälle", "Teil des Amazonasbeckens"],
+      hu: ["Síkság", "Vizes élőhely", "Észak-Bolívia"],
+      ro: ["Zonă aluvială tropicală", "Movile de pământ artificiale antice", "Parte a bazinului amazonian"],
+      en: ["Seasonal flooding cycle", "Known for prehistoric earthworks", "Critical ecosystem for biodiversity", "Part of the Mamoré river basin"]
+    },
     type: "relief",
     parent: "BO-B",
     coords: [-65.5000, -14.0000],
@@ -120,12 +144,18 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     }, image: "/poi-images/bolivia-llanos-de-moxos-relief-v2.webp"},
   {
     id: "bolivia-bosque-seco-chiquitano-relief-v2",
-    description: "Egyedi trópusi száraz erdő régió a bolíviai keleten.",
-    facts: [
-      "Trópusi száraz erdő",
-      "Kelet-Bolívia",
-      "Ökoszisztéma"
-],
+    description: {
+      de: "Der Chiquitano-Trockenwald ist das weltweit größte intakte Ökosystem dieser Art und liegt im Osten Boliviens.",
+      hu: "Egyedi trópusi száraz erdő régió a bolíviai keleten.",
+      ro: "Pădurea uscată Chiquitano este cel mai mare ecosistem intact de acest tip din lume, situat în estul Boliviei.",
+      en: "The largest intact block of tropical dry forest in the world, located in eastern Bolivia."
+    },
+    facts: {
+      de: ["Einzigartiger Trockenwald", "Hohe biologische Vielfalt", "Bedrohtes Ökosystem"],
+      hu: ["Trópusi száraz erdő", "Kelet-Bolívia", "Ökoszisztéma"],
+      ro: ["Pădure uscată unică", "Diversitate biologică ridicată", "Ecosistem amenințat"],
+      en: ["Unique semi-arid ecosystem", "High levels of plant endemism", "Transitions between Amazon and Chaco", "Threatened by agricultural expansion"]
+    },
     type: "forest",
     parent: "BO-S",
     coords: [-61.0000, -16.5000],
@@ -215,7 +245,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Numele 'Chaco' provine din limba Quechua și înseamnă 'teren de vânătoare'.",
         "Este cea mai mare zonă continuă de pădure uscată din America de Sud."
       ],
-      en: ["Hottest area of Bolivia.", "Thorny savanna.", "Significant natural gas reserves.", "Low population density.", "The Bolivian part of the Gran Chaco is a hot, dry lowland region covered with thorny scrublands.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Bolivian part of the Gran Chaco is a hot, dry lowland region covered with thorny scrublands.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-gran-chaco-relief-v2.webp"},
   {
     id: "bolivia-serrania-aguarague-relief-v2",
@@ -231,7 +261,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     description: {
       de: "Die Serranía del Aguaragüe ist eine subandine Bergkette, die für das lokale Ökosystem und als Wasserreservoir wichtig ist.",
       hu: "A Serranía del Aguaragüe egy szubandok hegylánc, amely fontos a helyi ökoszisztéma és a vízkészletek szempontjából.",
-      ro: "Serranía del Aguaragüe este un lanț muntos subandin, important pentru ecosistemul local și ca rezervor de apă.",
+      ro: "Serranía del Aguaragüe este un lanț muntos strategic în sudul Boliviei, funcționând ca un rezervor natural de apă pentru regiunea Chaco.",
       en: "The Serranía del Aguaragüe is a sub-Andean mountain range important for the local ecosystem and as a water reservoir."
     },
     facts: {
@@ -247,12 +277,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Fontos víztározó",
         "Földgázkitermelő régió"
       ],
-      ro: [
-        "Lanț subandin",
-        "Parcul Național Aguaragüe",
-        "Rezervor important de apă",
-        "Regiune de extracție a gazelor"
-      ],
+      ro: ["Parc Național și arie protejată", "Barieră climatică importantă", "Sursă de apă potabilă", "Regiune bogată în hidrocarburi"],
       en: [
         "Sub-Andean range",
         "Aguaragüe National Park",
@@ -285,7 +310,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Regiunea a fost declarată parc național în anul 2000 pentru a proteja sursele de apă.",
         "Adăpostește un amestec de floră și faună tipică atât zonei andine, cât și regiunii Chaco."
       ],
-      en: ["Sub-Andean range.", "Aguaragüe National Park.", "Important water store.", "Natural gas extraction region.", "The Serranía del Aguaragüe is a sub-Andean mountain range important for the local ecosystem and as a water reservoir.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Serranía del Aguaragüe is a sub-Andean mountain range important for the local ecosystem and as a water reservoir.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-serrania-aguarague-relief-v2.webp"},
   {
     id: "bolivia-volcan-tunupa-relief-v2",
@@ -355,7 +380,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Vulcanul este compus în principal din roci dacitice și andezitice.",
         "La baza muntelui, în lagune, pot fi observați adesea păsări flamingo."
       ],
-      en: ["Elevation: 5,321 m.", "Dormant stratovolcano.", "Sacred mountain (Aymara).", "Mummy caves on the slope.", "The imposing Tunupa Volcano towers over the northern edge of the Salar de Uyuni and is a sacred mountain for the local people.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The imposing Tunupa Volcano towers over the northern edge of the Salar de Uyuni and is a sacred mountain for the local people.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-volcan-tunupa-relief-v2.webp"},
   {
     id: "bolivia-volcan-parinacota-relief-v2",
@@ -425,7 +450,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Ascensiunea necesită o bună aclimatizare, dar este moderată din punct de vedere tehnic.",
         "Are o formă conică aproape perfectă, cu o calotă de gheață permanentă."
       ],
-      en: ["Elevation: 6,348 m.", "Potentially active volcano.", "Part of the Payachata twin volcanoes.", "Border mountain with Chile.", "Parinacota is a massive, snow-capped stratovolcano on the border between Bolivia and Chile.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Parinacota is a massive, snow-capped stratovolcano on the border between Bolivia and Chile.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-volcan-parinacota-relief-v2.webp"},
   {
     id: "bolivia-volcan-pomerape-relief-v2",
@@ -495,7 +520,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Muntele este format din fluxuri de lavă dacitică și andezitică.",
         "Pe versanții săi pasc adesea turme de vicunii timide."
       ],
-      en: ["Elevation: 6,282 m.", "Extinct stratovolcano.", "Twin volcano of Parinacota.", "Pleistocene age.", "Pomerape, together with the neighboring Parinacota, forms the distinctive Payachata volcanic system.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Pomerape, together with the neighboring Parinacota, forms the distinctive Payachata volcanic system.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-volcan-pomerape-relief-v2.webp"},
   {
     id: "bolivia-cerro-zapaleri-relief-v2",
@@ -516,8 +541,8 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     },
     description: {
       de: "Der Cerro Zapaleri ist ein vulkanischer Berg, der das Dreiländereck zwischen Bolivien, Chile und Argentinien markiert.",
-      hu: "A Cerro Zapaleri egy vulkanikus hegy, amely a Bolívia, Chile és Argentína közötti hármashatárt jelöli.",
-      ro: "Cerro Zapaleri este un munte vulcanic care marchează punctul de triplă frontieră dintre Bolivia, Chile și Argentina.",
+      hu: "Vulkanikus hegycsúcs az Andok déli részén, amely Bolívia, Chile és Argentína hármas határpontját jelöli.",
+      ro: "Cerro Zapaleri este un munte vulcanic de o importanță geografică deosebită, marcând punctul de frontieră triplă între Bolivia, Chile și Argentina.",
       en: "Cerro Zapaleri is a volcanic mountain that marks the tripoint between Bolivia, Chile, and Argentina."
     },
     facts: {
@@ -527,18 +552,8 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Erloschener Vulkan",
         "Teil der Reserva Eduardo Avaroa"
       ],
-      hu: [
-        "Magasság: 5653 m",
-        "Hármashatár (Bolívia, Chile, Argentína)",
-        "Kialudt vulkán",
-        "Az Eduardo Avaroa Rezervátum része"
-      ],
-      ro: [
-        "Altitudine: 5.653 m",
-        "Punct de triplă frontieră",
-        "Vulcan stins",
-        "Parte a Rezervației Eduardo Avaroa"
-      ],
+      hu: ["Magassága 5653 méter", "Fontos geodéziai és politikai pont", "Az Eduardo Avaroa Rezervátum területén van"],
+      ro: ["Punct de triplă frontieră", "Altitudine de 5653 metri", "Situat în Rezervația Eduardo Avaroa", "Peisaj de deșert înalt"],
       en: [
         "Elevation: 5,653 m",
         "Tripoint (Bolivia, Chile, Argentina)",
@@ -571,7 +586,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Este considerat unul dintre cele mai importante puncte geodezice din America de Sud.",
         "Regiunea este aproape complet nelocuită din cauza altitudinii și a arşiţei."
       ],
-      en: ["Elevation: 5,653 m.", "Tripoint (Bolivia, Chile, Argentina).", "Extinct volcano.", "Part of the Eduardo Avaroa Reserve.", "Cerro Zapaleri is a volcanic mountain that marks the tripoint between Bolivia, Chile, and Argentina.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Cerro Zapaleri is a volcanic mountain that marks the tripoint between Bolivia, Chile, and Argentina.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-cerro-zapaleri-relief-v2.webp"},
   {
     id: "bolivia-acotango-relief-v2",
@@ -641,7 +656,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Se pot găsi adesea resturi ale vechilor instalații de extracție din mine.",
         "Ascensiunea este simplă din punct de vedere tehnic, dar necesită rezistență la altitudine."
       ],
-      en: ["Elevation: 6,052 m.", "Part of the Quimsachata volcano group.", "Popular mountaineering destination.", "Old sulfur mine on the slope.", "Acotango is a prominent volcano in the Quimsachata Cordillera, known for old sulfur mines on its slopes.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Acotango is a prominent volcano in the Quimsachata Cordillera, known for old sulfur mines on its slopes.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-acotango-relief-v2.webp"},
   {
     id: "bolivia-cordillera-apolobamba-relief-v2",
@@ -711,7 +726,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Regiunea este bogată în zăcăminte de aur, exploatate încă dinainte de perioada incașă.",
         "Cordiliera este faimoasă pentru grupul Condoriri, cu forma sa distinctivă."
       ],
-      en: ["Highest peak: Chaupi Orco (6,044 m).", "Extensive glaciers.", "Borders Peru.", "Apolobamba Protected Area.", "The Apolobamba Mountain Range is a heavily glaciated range and an important refuge for Andean condors and vicuñas.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Apolobamba Mountain Range is a heavily glaciated range and an important refuge for Andean condors and vicuñas.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-cordillera-apolobamba-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-inao-relief-v2",
@@ -781,7 +796,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Peste 200 de specii de păsări au fost documentate în această zonă încă puțin explorată.",
         "Parcul a fost înființat oficial abia în anul 2004."
       ],
-      en: ["Declared a National Park (2004).", "Transition from Andes to Chaco.", "High biodiversity.", "Hardly explored area.", "The Serranía de Iñao is a national park and mountainous region in Chuquisaca, characterized by pristine forests and steep slopes.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Serranía de Iñao is a national park and mountainous region in Chuquisaca, characterized by pristine forests and steep slopes.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-serrania-de-inao-relief-v2.webp"},
   {
     id: "bolivia-valle-de-zongo-relief-v2",
@@ -851,7 +866,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Ghețarul Zongo de la baza muntelui Huayna Potosí este o zonă de cercetare importantă.",
         "Drumul îngust prin vale este considerat unul dintre cele mai frumoase din Bolivia."
       ],
-      en: ["Steep drop (up to 4,000 m elevation change).", "Important for La Paz power generation.", "Rich endemic flora.", "Mining region.", "The Zongo Valley is a steep gorge near La Paz, known for its hydroelectric facilities and breathtaking cloud forests.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Zongo Valley is a steep gorge near La Paz, known for its hydroelectric facilities and breathtaking cloud forests.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-valle-de-zongo-relief-v2.webp"},
   {
     id: "bolivia-meseta-de-caparu-relief-v2",
@@ -872,7 +887,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     },
     description: {
       de: "Die Meseta de Caparú ist ein isoliertes Tafelberg-Gebiet (Tepui) im Nationalpark Noel Kempff Mercado.",
-      hu: "A Meseta de Caparú egy elszigetelt táblahegy-vidék (Tepui) a Noel Kempff Mercado Nemzeti Parkban.",
+      hu: "Hatalmas, elszigetelt homokkő táblahegy Bolívia északkeleti részén, amely érintetlen ökoszisztémájáról és látványos vízeséseiről nevezetes.",
       ro: "Meseta de Caparú este o zonă izolată de munți tabulari (Tepui) în Parcul Național Noel Kempff Mercado.",
       en: "The Meseta de Caparú is an isolated table mountain (Tepui) area in the Noel Kempff Mercado National Park."
     },
@@ -883,12 +898,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Isolierte Flora und Fauna",
         "Zahlreiche Wasserfälle (z.B. Arcoiris)"
       ],
-      hu: [
-        "Tepui formáció",
-        "A prekambriumi pajzs része",
-        "Elszigetelt növény- és állatvilág",
-        "Számos vízesés (pl. Arcoiris)"
-      ],
+      hu: ["Tepui típusú formáció", "A Noel Kempff Mercado Nemzeti Park része", "Több mint egymilliárd éves kőzetek"],
       ro: [
         "Formațiune Tepui",
         "Parte a scutului precambrian",
@@ -927,7 +937,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Pe platou, savanele alternează cu păduri pitice.",
         "Straturile de rocă ale mesetei au o vechime de peste un miliard de ani."
       ],
-      en: ["Tepui formation.", "Part of the Precambrian shield.", "Isolated flora and fauna.", "Numerous waterfalls (e.g., Arcoiris).", "The Meseta de Caparú is an isolated table mountain (Tepui) area in the Noel Kempff Mercado National Park.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Meseta de Caparú is an isolated table mountain (Tepui) area in the Noel Kempff Mercado National Park.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-meseta-de-caparu-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-san-simon-relief-v2",
@@ -943,7 +953,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     description: {
       de: "Diese abgelegene Hügelkette im Amazonasbecken zeichnet sich durch dichten Wald und historische Goldminen aus.",
       hu: "Ez a távoli dombvonulat az Amazonas medencéjében sűrű erdőjéről és történelmi aranybányáiról ismert.",
-      ro: "Acest lanț de dealuri izolat din bazinul Amazonului se caracterizează prin păduri dense și mine istorice de aur.",
+      ro: "Serranía de San Simón este o formațiune muntoasă izolată în câmpiile amazoniene, cunoscută istoric pentru zăcămintele sale de aur.",
       en: "This remote range of hills in the Amazon basin is characterized by dense forest and historic gold mines."
     },
     facts: {
@@ -959,12 +969,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Sűrű trópusi esőerdő",
         "Nehezen megközelíthető"
       ],
-      ro: [
-        "Elevație în câmpia Amazonului",
-        "Exploatare istorică a aurului",
-        "Pădure tropicală densă",
-        "Greu accesibil"
-      ],
+      ro: ["Munte izolat în junglă", "Istoric minier bogat", "Acoperit de pădure tropicală densă", "Situat în departamentul Beni"],
       en: [
         "Elevation in the Amazon lowland",
         "Historic gold mining",
@@ -997,7 +1002,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Numeroase pârâuri cu apă cristalină izvorăsc în dealurile împădurite.",
         "Pentru comunitățile indigene locale, dealurile au adesea o semnificație spirituală."
       ],
-      en: ["Elevation in the Amazon lowland.", "Historic gold mining.", "Dense tropical rainforest.", "Difficult to access.", "This remote range of hills in the Amazon basin is characterized by dense forest and historic gold mines.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["This remote range of hills in the Amazon basin is characterized by dense forest and historic gold mines.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }
   },
   {
@@ -1019,7 +1024,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
     },
     description: {
       de: "Die Lípez-Kordillere im Südwesten Boliviens bietet eine raue, extreme Vulkanlandschaft mit einzigartigen farbigen Lagunen.",
-      hu: "A Lípez-kordillera Bolívia délnyugati részén zord, extrém vulkáni tájat kínál egyedülálló, színes lagúnákkal.",
+      hu: "Bolívia legdélebbi és legzordabb hegyvidéke az Andok nyugati ágában, szürreális lagúnákkal és aktív geotermikus területekkel.",
       ro: "Cordillera de Lípez din sud-vestul Boliviei oferă un peisaj vulcanic extrem și accidentat, cu lagune colorate unice.",
       en: "The Cordillera de Lípez in southwestern Bolivia offers a rugged, extreme volcanic landscape with unique colored lagoons."
     },
@@ -1030,12 +1035,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Zahlreiche Vulkane",
         "Wichtige Mineralienvorkommen"
       ],
-      hu: [
-        "Legmagasabb pont: Uturuncu (6008 m)",
-        "Rendkívül száraz éghajlat",
-        "Számos vulkán",
-        "Jelentős ásványkincs-lelőhelyek"
-      ],
+      hu: ["Itt található az Uturuncu-vulkán", "Extrém hideg és száraz éghajlat", "Félsivatagi és vulkáni táj"],
       ro: [
         "Cel mai înalt punct: Uturuncu (6.008 m)",
         "Climat extrem de uscat",
@@ -1074,7 +1074,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "În zonă se află rezerve uriașe de borax și litiu.",
         "Temperaturile nocturne pot scădea iarna sub -30 de grade Celsius."
       ],
-      en: ["Highest point: Uturuncu (6,008 m).", "Extremely dry climate.", "Numerous volcanoes.", "Important mineral deposits.", "The Cordillera de Lípez in southwestern Bolivia offers a rugged, extreme volcanic landscape with unique colored lagoons.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Cordillera de Lípez in southwestern Bolivia offers a rugged, extreme volcanic landscape with unique colored lagoons.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-cordillera-de-lipez-relief-v2.webp"},
   {
     id: "bolivia-cerro-guayaques-relief-v2",
@@ -1144,7 +1144,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Regiunea este complet nelocuită și se află în interiorul Rezervației Avaroa.",
         "În jurul conului vulcanic se pot găsi obsidian și alte sticle vulcanice."
       ],
-      en: ["Elevation: 5,598 m.", "Border mountain with Chile.", "Well-preserved lava domes.", "Part of the volcanic Andean chain.", "Cerro Guayaques is a volcanic complex on the border with Chile, whose lava flows shape the rugged desert landscape.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Cerro Guayaques is a volcanic complex on the border with Chile, whose lava flows shape the rugged desert landscape.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-cerro-guayaques-relief-v2.webp"},
   {
     id: "bolivia-volcan-tata-sabaya-relief-v2",
@@ -1214,7 +1214,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Vulcanul s-a format în Pleistocenul târziu și Holocenul timpuriu.",
         "În câmpia înconjurătoare, mirajele (Fata Morgana) sunt un fenomen frecvent."
       ],
-      en: ["Elevation: 5,430 m.", "North of Salar de Coipasa.", "Known for flank collapse.", "Late Pleistocene origin.", "Tata Sabaya is a volcano in the central Andes, known for massive prehistoric sector collapses.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Tata Sabaya is a volcano in the central Andes, known for massive prehistoric sector collapses.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-volcan-tata-sabaya-relief-v2.webp"},
   {
     id: "bolivia-bosque-tucumano-boliviano-relief-v2",
@@ -1284,7 +1284,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Plantele caracteristice sunt ferigile gigantice și o abundență de epifite.",
         "Pădurea adăpostește una dintre cele mai mari densități de specii de păsări endemice."
       ],
-      en: ["Subtropical montane forest.", "High rainfall.", "Transition to the Yungas.", "Highly threatened by agriculture.", "This montane cloud forest stretches along the eastern Andean slopes and is an important habitat for jaguars and spectacled bears.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["This montane cloud forest stretches along the eastern Andean slopes and is an important habitat for jaguars and spectacled bears.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-bosque-tucumano-boliviano-relief-v2.webp"},
   {
     id: "bolivia-selva-amazonica-boliviana-relief-v2",
@@ -1354,7 +1354,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "În sezonul ploios, nivelul apei fluviilor crește cu până la 10 metri.",
         "Zona adăpostește peste 1000 de specii de pești și 700 de specii de păsări."
       ],
-      en: ["Covers parts of Pando and Beni.", "Rich in Brazil nut trees.", "Barely any road network.", "Home to indigenous groups.", "The pristine Amazonian rainforest in northern Bolivia is one of the most biodiverse ecosystems on Earth.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The pristine Amazonian rainforest in northern Bolivia is one of the most biodiverse ecosystems on Earth.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-selva-amazonica-boliviana-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-chiquitos-relief-v2",
@@ -1424,7 +1424,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "În numeroase peșteri se găsesc picturi rupestre preistorice.",
         "Vegetația variază de la tufișuri uscate până la păduri galerii dense."
       ],
-      en: ["Elevation: mostly under 1,200 m.", "Geologically ancient Precambrian shield.", "UNESCO World Heritage sites nearby.", "Rich in thermal springs.", "An extensive, low mountain range in eastern Bolivia that houses historic Jesuit settlements and unique rock formations.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["An extensive, low mountain range in eastern Bolivia that houses historic Jesuit settlements and unique rock formations.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-serrania-de-chiquitos-relief-v2.webp"},
   {
     id: "bolivia-volcan-ollague-relief-v2",
@@ -1494,7 +1494,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Vechile piste miniere duc și astăzi până la înălțimi mari pe munte.",
         "Temperatura gazelor din fumarole poate atinge până la 90 de grade Celsius."
       ],
-      en: ["Elevation: 5,868 m.", "Active stratovolcano.", "Historical sulfur mine.", "Bolivia/Chile border.", "The active Ollagüe volcano is located in the Andes and is characterized by constant fumarole activity near the summit.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The active Ollagüe volcano is located in the Andes and is characterized by constant fumarole activity near the summit.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bolivia-volcan-ollague-relief-v2.webp"},
   {
     id: "bolivia-serrania-de-santiago-relief-v2",
@@ -1564,7 +1564,7 @@ export const poiExtraBoliviaReliefV2: POI[] = [
         "Numeroase peșteri și adăposturi sub stâncă au servit în trecut ca refugii.",
         "Satul Santiago de Chiquitos de la baza munților este una dintre cele mai bine păstrate așezări misionare."
       ],
-      en: ["Steep sandstone cliffs.", "Mirador de Santiago (viewpoint).", "Popular hiking area.", "Protects important water sources.", "A distinctive range of hills in the Tucabaca Valley Reserve, famous for its spectacular viewpoints and red rock formations.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["A distinctive range of hills in the Tucabaca Valley Reserve, famous for its spectacular viewpoints and red rock formations.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }
   }
 ];

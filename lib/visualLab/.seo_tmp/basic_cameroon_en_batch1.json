@@ -2,121 +2,83 @@
   "lang": "en",
   "country": "Cameroon",
   "files": [
-    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
-    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
-    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts"
   ],
   "items": [
     {
-      "id": "douala-autonomous-port-economic-v2",
-      "description": "Cameroon's main commercial port on the Wouri estuary. It handles most of the country's seaborne imports and exports.",
-      "facts": [
-        "on the Wouri estuary",
-        "main port for Douala",
-        "key trade gateway"
-      ]
-    },
-    {
-      "id": "kribi-deep-sea-port-economic-v2",
-      "description": "A modern deep-sea port on Cameroon's southern coast. It was built to handle large cargo ships and ease pressure on Douala.",
-      "facts": [
-        "on the southern coast",
-        "built for large cargo ships",
-        "relieves Douala's port"
-      ]
-    },
-    {
-      "id": "limbe-port-economic-v2",
-      "description": "A smaller Atlantic port in the Bay of Ambas. It supports fishing, local shipping, and coastal trade.",
-      "facts": [
-        "in the Bay of Ambas",
-        "supports fishing",
-        "serves coastal trade"
-      ]
-    },
-    {
-      "id": "sonara-oil-refinery-economic-v2",
-      "description": "Cameroon's only oil refinery, located in Limbe. It processes crude oil for the domestic fuel market.",
-      "facts": [
-        "located in Limbe",
-        "the country's only refinery",
-        "supplies fuel to the market"
-      ]
-    },
-    {
       "id": "alucam-smelter-edea-economic-v2",
-      "description": "A major aluminum smelter in Edea. It relies on hydroelectric power from the Sanaga basin.",
-      "facts": [
-        "based in Edea",
-        "powered by hydroelectricity",
-        "part of the aluminum industry"
-      ]
-    },
-    {
-      "id": "edea-hydro-station-economic-v2",
-      "description": "One of Cameroon's classic hydro plants on the Sanaga River. It supports local industry and the national grid.",
-      "facts": [
-        "on the Sanaga River",
-        "feeds industrial demand",
-        "important power station"
-      ]
-    },
-    {
-      "id": "song-loulou-hydro-economic-v2",
-      "description": "One of Cameroon's largest hydroelectric facilities on the Sanaga River. Its output feeds the national electricity network.",
-      "facts": [
-        "on the Sanaga River",
-        "major hydroelectric site",
-        "supports the national grid"
-      ]
-    },
-    {
-      "id": "memveele-dam-economic-v2",
-      "description": "A hydroelectric dam in southern Cameroon on the Ntem River. It adds power capacity and strengthens the grid.",
-      "facts": [
-        "on the Ntem River",
-        "in southern Cameroon",
-        "adds power capacity"
-      ]
-    },
-    {
-      "id": "lom-pangar-dam-economic-v2",
-      "description": "A regulating and storage dam in eastern Cameroon on the Lom River. It helps balance flows in the Sanaga system.",
-      "facts": [
-        "on the Lom River",
-        "in the East Region",
-        "regulates water flow"
-      ]
-    },
-    {
-      "id": "betare-oya-gold-mines-economic-v2",
-      "description": "A gold-mining area in eastern Cameroon near Betare Oya. Small-scale and industrial extraction both shape the local economy.",
-      "facts": [
-        "in eastern Cameroon",
-        "near Betare Oya",
-        "gold extraction area"
-      ]
+      "description": "The Alucam aluminum smelter in Edea is a cornerstone of Cameroon's heavy industry, utilizing hydroelectric power from the Sanaga River.",
+      "facts": ["Operational since 1957", "Uses Edea hydroelectric power", "Major aluminum exporter", "Located in the Littoral Region"]
     },
     {
       "id": "geovic-cobalt-mine-economic-v2",
-      "description": "A cobalt-nickel mining project in eastern Cameroon near Lomie. It is often cited among the country's strategic mineral deposits.",
-      "facts": [
-        "near Lomie",
-        "cobalt and nickel project",
-        "strategic mineral deposit"
-      ]
+      "description": "The Geovic cobalt-nickel-manganese project in Lomié represents one of the world's largest undeveloped cobalt deposits.",
+      "facts": ["Located in East Region", "Significant cobalt reserve", "Nickel and manganese deposits", "Lomié mining district"]
     },
     {
       "id": "mbalam-iron-ore-economic-v2",
-      "description": "A major iron-ore deposit in southeastern Cameroon near Mbalam. It remains part of the country's long-term mining plans.",
-      "facts": [
-        "near Mbalam",
-        "in southeastern Cameroon",
-        "planned iron ore project"
-      ]
+      "description": "The Mbalam iron ore project is a massive mining development intended to tap into high-grade iron deposits near the border with Congo.",
+      "facts": ["High-grade iron ore", "Cross-border infrastructure", "East Region location", "Strategic mining project"]
+    },
+    {
+      "id": "minim-martap-bauxite-economic-v2",
+      "description": "The Minim-Martap bauxite deposit in the Adamawa Region is one of the highest-grade bauxite resources currently under development in Africa.",
+      "facts": ["Adamawa Region project", "High-grade alumina content", "Large scale reserves", "Rail link to Kribi port"]
+    },
+    {
+      "id": "cimencam-douala-economic-v2",
+      "description": "Cimencam's Douala plant is the oldest cement factory in Cameroon, supplying the construction needs of the country's largest city and economic hub.",
+      "facts": ["Part of LafargeHolcim group", "Located in Douala port area", "Primary cement supplier", "Established in the 1960s"]
+    },
+    {
+      "id": "dangote-cement-douala-economic-v2",
+      "description": "The Dangote Cement plant in Douala is a modern grinding facility that has significantly increased Cameroon's domestic cement production capacity.",
+      "facts": ["Owned by Dangote Group", "1.5 million ton capacity", "Located at Douala port", "Commissioned in 2015"]
+    },
+    {
+      "id": "chococam-factory-douala-economic-v2",
+      "description": "Chococam is Cameroon's leading cocoa processing company, producing a wide range of chocolate products and spreads in its Douala factory.",
+      "facts": ["Subsidiary of Tiger Brands", "Process local cocoa beans", "Market leader in sweets", "Based in Douala"]
+    },
+    {
+      "id": "cdc-rubber-tiko-economic-v2",
+      "description": "The Cameroon Development Corporation operates extensive rubber plantations and processing facilities in Tiko, contributing to the country's export economy.",
+      "facts": ["State-owned enterprise", "Southwest Region location", "Major agricultural employer", "Export-grade natural rubber"]
+    },
+    {
+      "id": "socapalm-dibombari-economic-v2",
+      "description": "Socapalm's Dibombari estate is a major palm oil production site, featuring extensive plantations and an industrial refinery.",
+      "facts": ["Palm oil production", "Industrial refinery onsite", "Littoral Region location", "Part of Socfin Group"]
+    },
+    {
+      "id": "hevecam-niete-economic-v2",
+      "description": "Hevecam operates one of the largest rubber plantations in Cameroon near Niete, processing latex into high-quality sheets for global markets.",
+      "facts": ["South Region location", "Massive rubber estate", "Latex processing plant", "Major exporter"]
+    },
+    {
+      "id": "sabc-brewery-yaounde-economic-v2",
+      "description": "The SABC brewery in Yaounde is a major industrial facility producing beer and soft drinks for the capital region and central Cameroon.",
+      "facts": ["Part of Castel Group", "Major regional employer", "Large scale bottling plant", "Founded in 1948"]
+    },
+    {
+      "id": "cicam-garoua-economic-v2",
+      "description": "Cicam's Garoua plant is the center of Cameroon's textile industry, processing locally grown cotton into fabrics and clothing.",
+      "facts": ["North Region location", "Textile manufacturing", "Uses local cotton", "State-supported industry"]
+    },
+    {
+      "id": "sodecoton-maroua-economic-v2",
+      "description": "Sodecoton's Maroua facility manages the collection and initial processing of cotton from thousands of smallholder farmers in the Far North.",
+      "facts": ["Cotton ginning center", "Far North Region", "Rural development hub", "Key agricultural player"]
+    },
+    {
+      "id": "cimencam-figuil-economic-v2",
+      "description": "The Cimencam factory in Figuil is the primary cement producer for northern Cameroon, utilizing local limestone deposits for production.",
+      "facts": ["North Region location", "Local limestone source", "Supplies northern markets", "Industrial landmark"]
+    },
+    {
+      "id": "kribi-gas-plant-economic-v2",
+      "description": "The Kribi gas-to-power plant uses natural gas from offshore fields to generate electricity, supporting Cameroon's energy grid.",
+      "facts": ["Natural gas fueled", "South Region location", "Power generation hub", "Near Kribi deep sea port"]
     }
   ]
 }

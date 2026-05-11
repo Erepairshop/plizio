@@ -1,0 +1,89 @@
+{
+  "lang": "hu",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-de-las-animas-relief-v2",
+      "description": "Az ország egyik legfontosabb hegyvonulata Maldonado megyében, népszerű túracélpont.",
+      "facts": ["Második legmagasabb pont", "Dél-Uruguay része", "Látványos sziklás vonulat"]
+    },
+    {
+      "id": "sierra-de-los-caracoles-relief-v2",
+      "description": "Hullámzó dombvidék, amely a környező mezőgazdasági területek természetes határa.",
+      "facts": ["Alacsony dombok", "Állandó széljárás", "Legelőként hasznosított"]
+    },
+    {
+      "id": "sierra-de-la-aurora-relief-v2",
+      "description": "Rivera megye északi részén elterülő dombvidék, különleges geológiai képződményekkel.",
+      "facts": ["Északi dombság", "Gazdag növényvilág", "Töredezett hegygerinc"]
+    },
+    {
+      "id": "cerro-blanco-relief-v2",
+      "description": "Jellegzetes fehér színű szikláiról elnevezett cerro az ország középső részén.",
+      "facts": ["Kvarcban gazdag", "Könnyen megmászható", "Panorámás kilátás"]
+    },
+    {
+      "id": "cerro-de-la-buena-vista-relief-v2",
+      "description": "A nevéhez méltóan remek kilátást nyújtó hegycsúcs a Rocha megyei tengerpart közelében.",
+      "facts": ["Parti dűnék felett", "Népszerű kilátópont", "Közepes magasság"]
+    },
+    {
+      "id": "cerro-colorado-relief-v2",
+      "description": "Vöröses árnyalatú talajáról és szikláiról híres hegyvidéki terület.",
+      "facts": ["Vörös talaj", "Észak-uruguayi táj", "Enyhe lejtők"]
+    },
+    {
+      "id": "cuchilla-del-fuego-relief-v2",
+      "description": "Hosszú, tagolt hegygerinc, amely természetes választóvonalat képez a régiók között.",
+      "facts": ["Hosszú gerinc", "Több mellékág", "Közép-uruguayi vízválasztó"]
+    },
+    {
+      "id": "cuchilla-del-bizcocho-relief-v2",
+      "description": "Soriano megye jellegzetes, hullámzó felszínű dombvonulata.",
+      "facts": ["Lankás táj", "Mezőgazdasági övezet", "Alacsony tengerszint feletti"]
+    },
+    {
+      "id": "cerro-de-la-sepultura-relief-v2",
+      "description": "Különös nevű cerro, amely a környező síkságból emelkedik ki.",
+      "facts": ["Egymagában álló", "Sziklás csúcs", "Helyi tájékozódási pont"]
+    },
+    {
+      "id": "cuchilla-de-los-tres-cerros-relief-v2",
+      "description": "Három kiemelkedő csúcsról elnevezett dombvonulat a keleti régióban.",
+      "facts": ["Hármas csúcs", "Keleti dombvidék", "Legelőterület"]
+    },
+    {
+      "id": "bosque-del-rio-negro-relief-v2",
+      "description": "A Rio Negro folyó menti ártéri erdőségek, amelyek az ország vízhálózatának részei.",
+      "facts": ["Folyó menti flóra", "Ártéri erdő", "Biodiverzitás központ"]
+    },
+    {
+      "id": "montes-del-rio-cebollati-relief-v2",
+      "description": "A Cebollatí folyót övező sűrű, vizes élőhelyekkel tarkított erdős területek.",
+      "facts": ["Vizes élőhely", "Folyóparti erdők", "Gazdag madárvilág"]
+    },
+    {
+      "id": "cerro-aspero-relief-v2",
+      "description": "Érdes, sziklás felszínű cerro, amely kihívást jelent a túrázóknak.",
+      "facts": ["Sziklás szerkezet", "Meredek lejtők", "Túrázóhely"]
+    },
+    {
+      "id": "cuchilla-negra-relief-v2",
+      "description": "Az ország északi részén található sötét színű köveiről nevezett hosszú gerinc.",
+      "facts": ["Sötét bazaltkövek", "Hosszú vonulat", "Határvidéki jelleg"]
+    },
+    {
+      "id": "cuchilla-de-peralta-relief-v2",
+      "description": "Központi fekvésű dombsor, amely fontos szerepet játszik a vízgyűjtők elválasztásában.",
+      "facts": ["Vízválasztó", "Közép-Uruguay", "Lankás felszín"]
+    },
+    {
+      "id": "cuchilla-del-ombu-relief-v2",
+      "description": "Ombú fákban bővelkedő dombvidék, amely különleges tájképéről ismert.",
+      "facts": ["Ombú ligetek", "Keleti táj", "Természetes élőhely"]
+    }
+  ]
+}

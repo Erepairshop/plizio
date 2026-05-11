@@ -1,0 +1,29 @@
+{
+  "lang": "ro",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "blueridge-mountains-relief-v2",
+      "description": "Munții Blue Ridge, parte a Munților Apalași, se întind în estul Statelor Unite, cunoscuți pentru nuanțele albastre distincte care apar la distanță. Zona este renumită pentru biodiversitatea sa și peisajele pitorești.",
+      "facts": ["Cunoscut pentru culoarea albastră.", "Parte a Munților Apalași.", "Punct de atracție: Blue Ridge Parkway."]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "Platoul Colorado este o regiune aridă din vestul Statelor Unite, caracterizată prin canioane adânci, formațiuni stâncoase unice și zone sălbatice extinse. Este un sit geologic important.",
+      "facts": ["Acoperă patru state americane.", "Canioane adânci sculptate de râu.", "Numeroase parcuri naționale."]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "Munții Chisos sunt o formațiune montană izolată, situată în Parcul Național Big Bend din Texas. Sunt singurul lanț muntos din Statele Unite complet inclus într-un parc național.",
+      "facts": ["Situat în Parcul Național Big Bend.", "Singurul lanț muntos complet într-un parc național.", "Casă pentru specii rare de plante și animale."]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "star-brewery-tana-economic-v2",
+      "description": "Az antananarivói Star sörfőzde Madagaszkár vezető italgyártója és az ország ipari fejlődésének egyik legfontosabb szereplője.",
+      "facts": ["Az ország legnagyobb sörgyára", "Itt készül a híres THB sör", "Jelentős munkaadó a fővárosban"]
+    },
+    {
+      "id": "somacou-textile-economic-v2",
+      "description": "A Somacou egy neves madagaszkári textilgyár, amely a helyi gyapotfeldolgozásra és ruhaiparra szakosodott.",
+      "facts": ["Hagyományos textilipari központ", "Hazai alapanyagokat dolgoz fel", "Fontos szerep az exportban"]
+    },
+    {
+      "id": "antongil-bay-dutch-settlement-history-v2",
+      "description": "Az Antongil-öböl egykori holland települése a 17. századi európai kereskedelmi törekvések egyik korai állomása volt.",
+      "facts": ["Korai holland kereskedelmi poszt", "Stratégiai pont az öbölben", "Történelmi romok és emlékek"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Antongona erődítményei két történelmi faházból állnak gránitsziklákon, amelyek egykor védelmi célokat szolgáltak.",
+      "facts": ["Királyi védelmi rendszer", "Hagyományos merina építészet", "Pazar kilátás a fennsíkra"]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "description": "Toliara gyarmati központja megőrizte a francia adminisztráció idején emelt épületeket és a város eredeti szerkezetét.",
+      "facts": ["Francia gyarmati építészet", "Széles utak és terek", "A délnyugati régió történelmi központja"]
+    },
+    {
+      "id": "nosy-boraha-fort-history-v2",
+      "description": "Nosy Boraha (Sainte Marie) erődje a kalózok és a gyarmatosítók elleni védekezés fontos helyszíne volt az ország keleti partján.",
+      "facts": ["Kalózok egykori menedéke", "Történelmi tengerparti erőd", "Régi ágyúk és falmaradványok"]
+    },
+    {
+      "id": "alasora-royal-village-history-v2",
+      "description": "Alasora az egyik legősibb királyi falu az Imerina-fennsíkon, amelyet az államszervezet bölcsőjeként tartanak számon.",
+      "facts": ["Szent királyi domb (Fady)", "A 16. században alapították", "Ősi sírok és vizesárkok"]
+    },
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "A Kirindy-erdő egy magánrezervátum, amely a fosszák és a különleges éjszakai makik megfigyelésének legjobb helyszíne.",
+      "facts": ["Száraz lombhullató erdő", "A fossa legnagyobb populációja", "Egyedülálló éjszakai szafarik"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "A Tsingy de Bemaraha Nemzeti Park tűéles mészkő szikláiról és látványos függőhídjairól világhírű.",
+      "facts": ["UNESCO Világörökségi helyszín", "Extrém karsztképződmények", "Endemikus növény- és állatvilág"]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "description": "A Sahambavy teaültetvény Madagaszkár egyetlen teatermelő vidéke, amely festői környezetben várja a látogatókat.",
+      "facts": ["Az ország egyetlen teaültetvénye", "Fianarantsoa közelében található", "Kiváló minőségű export tea"]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Az antsirabei gyermekpark népszerű pihenőhely a családok számára a város termálvizes fürdőinek közelében.",
+      "facts": ["Családbarát zöldövezet", "Központi elhelyezkedés", "Helyi közösségi találkozóhely"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "Tamatave városi parkja árnyas oázist nyújt a nyüzsgő kikötővárosban, hatalmas őshonos fáival.",
+      "facts": ["A kikötő közelében található", "Hatalmas banyánfák", "Pihenőhely a tengerpart mentén"]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "description": "Nosy Be korallzátonya a búvárok paradicsoma, ahol érintetlen víz alatti világ és gazdag tengeri élővilág fogadja a látogatókat.",
+      "facts": ["Kristálytiszta meleg víz", "Színpompás korallkertek", "Tengeri teknősök lelőhelye"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "A Ranomafana Nemzeti Park állatkerti részlege lehetőséget ad a régió ritka állatfajainak közelebbi megismerésére.",
+      "facts": ["Oktatási és kutatási központ", "Ritka makifajok otthona", "Trópusi esőerdei környezet"]
+    },
+    {
+      "id": "lakato-lemuren-schutz-life-v2",
+      "description": "A lakatói makivédelmi terület a veszélyeztetett fajok megőrzésére és az erdei élőhelyek helyreállítására összpontosít.",
+      "facts": ["Közösségi természetvédelem", "Kritikusan veszélyeztetett fajok", "Fontos ökológiai folyosó"]
+    }
+  ]
+}

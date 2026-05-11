@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-victoria-law-courts-history-v2",
+      "descriptionAdvancedDe": "Die Victoria Law Courts in Georgetown sind ein imposantes Holzgebäude, das den Obersten Gerichtshof von Guyana beherbergt. Das 1887 eröffnete und zu Ehren von Königin Victoria benannte Gebäude ist ein markantes Beispiel der Kolonialarchitektur. Vor dem Gebäude steht eine Statue von Königin Victoria, die die lange historische Verbindung zu Großbritannien unterstreicht. Die Architektur zeichnet sich durch hohe Decken, große Fenster und weitläufige Veranden aus, die entworfen wurden, um die Hitze des tropischen Klimas zu mildern. Als Zentrum der Judikative des Landes haben in diesen Hallen unzählige wichtige Rechtsfälle stattgefunden, die die guyanische Gesellschaft geprägt haben. Das Gebäude ist nicht nur ein Ort der Rechtsprechung, sondern auch ein bedeutendes historisches Denkmal, das die Beständigkeit des Rechts und die Entwicklung des guyanischen Justizsystems von der Kolonialzeit bis zur modernen unabhängigen Nation symbolisiert.",
+      "descriptionAdvancedHu": "A georgetowni Victoria Törvényszék egy impozáns faépület, amely Guyana Legfelsőbb Bíróságának ad otthont. Az 1887-ben megnyitott és Viktória királynő tiszteletére elnevezett épület a gyarmati építészet jellegzetes példája. Az épület előtt Viktória királynő szobra áll, amely hangsúlyozza a Nagy-Britanniával fennálló hosszú történelmi kapcsolatot. Az építészetet magas mennyezetek, nagy ablakok és tágas verandák jellemzik, amelyeket a trópusi éghajlat hőjének enyhítésére terveztek. Az ország igazságszolgáltatásának központjaként ezekben a termekben számtalan fontos jogi ügy zajlott, amelyek formálták a guyanai társadalmat. Az épület nemcsak az igazságszolgáltatás helyszíne, hanem jelentős történelmi emlékmű is, amely a jog állandóságát és a guyanai igazságügyi rendszer fejlődését szimbolizálja a gyarmati időktől a modern, független nemzetig.",
+      "descriptionAdvancedRo": "Curțile de Lege Victoria din Georgetown sunt o clădire impunătoare din lemn care găzduiește Curtea Supremă a Guyanei. Inaugurată în 1887 și numită în onoarea Reginei Victoria, clădirea este un exemplu remarcabil de arhitectură colonială. O statuie a Reginei Victoria stă în fața clădirii, subliniind legătura istorică lungă cu Marea Britanie. Arhitectura se caracterizează prin tavane înalte, ferestre mari și verande spațioase, concepute pentru a atenua căldura climatului tropical. Ca centru al sistemului judiciar al țării, nenumărate cazuri juridice importante au avut loc în aceste săli, modelând societatea guyaneză. Clădirea nu este doar un loc de justiție, ci și un monument istoric important care simbolizează permanența legii și dezvoltarea sistemului judiciar guyanez de la epoca colonială la națiunea modernă și independentă.",
+      "descriptionAdvancedEn": "The Victoria Law Courts in Georgetown is an imposing wooden building that houses the Supreme Court of Guyana. Opened in 1887 and named in honor of Queen Victoria, the building is a striking example of colonial architecture. A statue of Queen Victoria stands in front of the building, emphasizing the long historical connection to Great Britain. The architecture is characterized by high ceilings, large windows, and spacious verandas, designed to mitigate the heat of the tropical climate. As the center of the country's judiciary, countless important legal cases have taken place within these halls, shaping Guyanese society. The building is not only a place of justice but also a significant historical monument that symbolizes the permanence of the law and the evolution of the Guyanese judicial system from the colonial era to the modern independent nation.",
+      "factsAdvanced": [
+        "Eröffnet im Mai 1887.",
+        "Benannt zu Ehren von Königin Victoria.",
+        "Beherbergt den Obersten Gerichtshof von Guyana.",
+        "Vor dem Gebäude steht eine Statue von Königin Victoria.",
+        "Ein imposantes Beispiel kolonialer Holzarchitektur.",
+        "Zentrum der Judikative in Guyana.",
+        "Die Architektur ist an das tropische Klima angepasst.",
+        "Symbol für die Beständigkeit des Rechtssystems."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "Paraguay",
+  "files": [
+    "lib/visualLab/data/poiExtraParaguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-memby-relief-v2",
+      "description": "A Cerro Memby egy jellegzetes, önálló hegycsúcs Paraguay északi részén, Concepción megyében. Földrajzi elhelyezkedése és tájképi jelentősége miatt a régió egyik ismert természetes tereptárgya.",
+      "facts": [
+        "Concepción megyében található",
+        "Különálló hegykúp",
+        "Fontos regionális tájjelleg",
+        "Paraguay északi régiója"
+      ]
+    }
+  ]
+}

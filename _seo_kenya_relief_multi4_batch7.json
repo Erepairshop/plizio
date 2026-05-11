@@ -1,0 +1,20 @@
+
+{
+  "lang": "multi4",
+  "country": "kenya",
+  "files": ["lib/visualLab/data/poiExtraKenyaReliefV2.ts"],
+  "items": [
+    {
+      "id": "kacheliba-plains-relief-v2",
+      "descriptionAdvancedEn": "The Kacheliba Plains are a vast, semi-arid lowland area in West Pokot County, Kenya, near the international border with Uganda. These plains are part of the wider Turkana Basin ecosystem and are characterized by their low elevation and dry climate. The landscape is predominantly flat, covered with acacia scrubland and seasonal grasses. The plains are traversed by several seasonal rivers, which are crucial water sources for the local Pokot community, a pastoralist group that inhabits the region. The area is remote and less developed, representing a classic East African savanna environment. It is an important grazing area, but is also prone to drought and resource-based conflicts. The Kacheliba Plains showcase a harsh but resilient ecosystem and the traditional lifestyle of one of Kenya's pastoralist communities.",
+      "descriptionAdvancedHu": "A Kacheliba-síkság egy hatalmas, félszáraz alföldi terület a kenyai West Pokot megyében, az ugandai nemzetközi határ közelében. Ezek a síkságok a tágabb Turkana-medence ökoszisztémájának részét képezik, és alacsony tengerszint feletti magasságuk, valamint száraz éghajlatuk jellemzi őket. A táj túlnyomórészt sík, akácos bozótossal és szezonális füvekkel borítva. A síkságon több időszakos folyó halad át, amelyek létfontosságú vízforrást jelentenek a helyi pokot közösség számára, egy pásztorkodó csoport számára, amely a régióban él. A terület távoli és kevésbé fejlett, klasszikus kelet-afrikai szavanna környezetet képvisel. Fontos legelőterület, de aszályra és erőforrás-alapú konfliktusokra is hajlamos. A Kacheliba-síkság egy zord, de ellenálló ökoszisztémát és Kenya egyik pásztorkodó közösségének hagyományos életmódját mutatja be.",
+      "descriptionAdvancedRo": "Câmpiile Kacheliba sunt o zonă vastă de câmpie semi-aridă în comitatul West Pokot, Kenya, lângă granița internațională cu Uganda. Aceste câmpii fac parte din ecosistemul mai larg al Bazinului Turkana și sunt caracterizate prin altitudinea lor joasă și clima uscată. Peisajul este predominant plat, acoperit cu tufișuri de acacia și ierburi sezoniere. Câmpiile sunt traversate de mai multe râuri sezoniere, care sunt surse cruciale de apă pentru comunitatea locală Pokot, un grup pastoral care locuiește în regiune. Zona este îndepărtată și mai puțin dezvoltată, reprezentând un mediu clasic de savană est-africană. Este o zonă importantă de pășunat, dar este, de asemenea, predispusă la secetă și la conflicte bazate pe resurse. Câmpiile Kacheliba prezintă un ecosistem aspru, dar rezistent, și stilul de viață tradițional al uneia dintre comunitățile pastorale din Kenya.",
+      "factsAdvanced": {
+        "de": ["Semi-aride Tiefebene in West Pokot County", "Nahe der Grenze zu Uganda", "Teil des Turkana-Becken-Ökosystems", "Gekennzeichnet durch Akazien-Buschland", "Wird von saisonalen Flüssen durchzogen", "Heimat des pastoralistischen Pokot-Volkes", "Wichtiges Weidegebiet", "Anfällig für Dürre und Ressourcenkonflikte"],
+        "hu": ["Félszáraz alföld West Pokot megyében", "Az ugandai határ közelében", "A Turkana-medence ökoszisztémájának része", "Akácos bozótos jellemzi", "Időszakos folyók szelik át", "A pásztorkodó pokot nép otthona", "Fontos legelőterület", "Aszályra és erőforrás-konfliktusokra hajlamos"],
+        "ro": ["Câmpie semi-aridă în comitatul West Pokot", "Aproape de granița cu Uganda", "Parte a ecosistemului Bazinului Turkana", "Caracterizat de tufișuri de acacia", "Traversat de râuri sezoniere", "Patria poporului pastoral Pokot", "Zonă importantă de pășunat", "Predispus la secetă și conflicte de resurse"],
+        "en": ["Semi-arid lowland in West Pokot County", "Near the border with Uganda", "Part of the wider Turkana Basin ecosystem", "Characterized by acacia scrubland", "Traversed by seasonal rivers", "Home to the pastoralist Pokot people", "Important grazing area", "Prone to drought and resource-based conflicts"]
+      }
+    }
+  ]
+}

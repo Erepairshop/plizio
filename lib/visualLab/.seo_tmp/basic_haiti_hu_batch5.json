@@ -1,0 +1,90 @@
+{
+  "lang": "hu",
+  "country": "Haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts",
+    "lib/visualLab/data/poiExtraHaitiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "plantation-cafe-kenskoff-life-v2",
+      "description": "A főváros feletti hűvös hegyekben található kávéültetvények, ahol a híres haiti arabica kávét termesztik.",
+      "facts": [
+        "Magaslati kávétermesztés",
+        "Kézi szüretelésű szemek",
+        "Tradicionális pörkölési módok",
+        "Hűvös hegyi mikroklíma"
+      ]
+    },
+    {
+      "id": "parc-enfants-port-de-paix-life-v2",
+      "description": "Port-de-Paix kikötővárosának egyik legkedveltebb családi pihenőhelye és játszótere.",
+      "facts": [
+        "Városi közösségi park",
+        "Tengerparti közelség",
+        "Gyermekbarát infrastruktúra",
+        "Kulturális események helyszíne"
+      ]
+    },
+    {
+      "id": "ferme-experimentale-artibonite-life-v2",
+      "description": "Kísérleti gazdaság az ország éléstárának számító Artibonite-völgyben, a rizstermesztés fejlesztésére.",
+      "facts": [
+        "Rizsfajták tesztelése",
+        "Hatékony öntözési rendszerek",
+        "Agrártudományi bázis",
+        "Haiti legtermékenyebb vidéke"
+      ]
+    },
+    {
+      "id": "reserve-oiseaux-lac-peligre-life-v2",
+      "description": "A Péligre-víztározó mentén kialakított madárrezervátum, amely számos költözőmadár pihenőhelye.",
+      "facts": [
+        "Gazdag vízi madárvilág",
+        "Vizes élőhelyek védelme",
+        "Haiti legnagyobb mesterséges tava",
+        "Ökoturisztikai célpont"
+      ]
+    },
+    {
+      "id": "montagnes-trou-deau-relief-v2",
+      "description": "Közép-Haiti egyik meghatározó hegyvonulata, amely meredek mészkőszikláiról és barlangjairól ismert.",
+      "facts": [
+        "Karsztos hegyvidék",
+        "Látványos sziklaformációk",
+        "Vízválasztó gerinc",
+        "Védett erdőfoltok"
+      ]
+    },
+    {
+      "id": "plaine-des-cayes-relief-v2",
+      "description": "Haiti déli félszigetének legnagyobb és legfontosabb síksága, az ország egyik fő mezőgazdasági területe.",
+      "facts": [
+        "Termékeny hordalékos síkság",
+        "Intenzív cukornád-termesztés",
+        "Alacsony fekvésű partvidék",
+        "Gazdag vízhálózat"
+      ]
+    },
+    {
+      "id": "pointe-a-raquette-relief-v2",
+      "description": "A Gonâve-sziget déli csücskén található sziklás partvidék, lenyűgöző tengeri képződményekkel.",
+      "facts": [
+        "Sziklás tengerparti szakasz",
+        "Korallmészkő teraszok",
+        "Elszigetelt természeti környezet",
+        "Lenyűgöző óceáni panoráma"
+      ]
+    },
+    {
+      "id": "cotes-de-fer-coastline-relief-v2",
+      "description": "Haiti déli partvonalának egyik legvadabb és leglátványosabb szakasza, érintetlen homokos strandokkal és sziklákkal.",
+      "facts": [
+        "Hosszú, homokos partok",
+        "Fejlődő turisztikai zóna",
+        "Kristálytiszta tengervíz",
+        "Viharvert, látványos partszakasz"
+      ]
+    }
+  ]
+}

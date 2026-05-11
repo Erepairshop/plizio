@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "moukalaba-doudou-gorilla-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Moukalaba-Doudou-Nationalpark im Südwesten Gabuns ist eines der wichtigsten Refugien für den Westlichen Flachlandgorilla. Das Gebiet zeichnet sich durch eine außergewöhnliche Vielfalt an Lebensräumen aus, die von dichten Regenwäldern über Savannen bis hin zu Feuchtgebieten entlang des Nyanga-Flusses reichen. Diese ökologische Mosaikstruktur ermöglicht eine der höchsten Gorilladichten in ganz Zentralafrika. Ein besonderes Merkmal dieses Parks ist das langjährige Habituierungsprojekt, bei dem Gorilla-Gruppen behutsam an die Anwesenheit von Forschern und Besuchern gewöhnt wurden, ohne ihr natürliches Verhalten zu beeinträchtigen. Neben den Gorillas beheimatet der Park auch eine bedeutende Population von Schimpansen, Waldelefanten und die seltene Nord-Sitatunga-Antilope. Die Region Moukalaba-Doudou ist zudem ein wichtiger Korridor für wandernde Tierarten zwischen den Küstengebieten und dem Landesinneren. Der Schutz dieses Gebiets wird durch die Zusammenarbeit zwischen der gabunischen Nationalparkbehörde (ANPN) und internationalen Naturschutzorganisationen sowie lokalen Gemeinschaften gewährleistet. Für Wissenschaftler bietet der Park ideale Bedingungen für Primatenstudien in einem weitgehend ungestörten Ökosystem. Der Zugang zum Park erfolgt meist über die Stadt Tchibanga, gefolgt von einer Fahrt in das Dorf Doussala, das als Ausgangspunkt für Gorilla-Trekkings dient. Die Erhaltung dieses Habitats ist entscheidend für das langfristige Überleben der Menschenaffen in Gabun, da es als genetische Brücke zu anderen Schutzgebieten fungiert.",
+        "hu": "A Gabon délnyugati részén fekvő Moukalaba-Doudou Nemzeti Park a nyugati síkvidéki gorillák egyik legjelentősebb élőhelye Közép-Afrikában. A park különlegessége a rendkívül változatos tájszerkezet, ahol az egyenlítői esőerdők, a füves szavannák és a Nyanga-folyó menti mocsaras területek váltják egymást. Ez az ökológiai sokszínűség teszi lehetővé, hogy a területen az egyik legmagasabb legyen a gorillák népsűrűsége. A parkban több mint két évtizede zajlik egy nemzetközi szinten elismert habituációs program, amelynek célja a gorillák és csimpánzok hozzászoktatása az emberi jelenléthez kutatási és ökoturisztikai célokból. Az itt élő főemlősök megfigyelése kulcsfontosságú adatokat szolgáltat a fajok szociális viselkedéséről és ökológiai igényeiről. A gorillákon kívül erdei elefántok, bivalyok és ritka antilopfajok is otthonra lelnek a sűrű bozótosokban. A Moukalaba-Doudou térsége fontos folyosót alkot a tengerparti Loango és a szárazföldi védett területek között, biztosítva a vadállomány szabad mozgását. A helyi közösségek, különösen Doussala falu lakói, aktívan részt vesznek a park védelmében és a látogatók vezetésében, ami a fenntartható turizmus egyik mintapéldája Gabunban. A látogatók számára a park autentikus élményt nyújt, ahol a modern világ zajától távol, valódi vadonban találkozhatnak az ember legközelebbi rokonaival.",
+        "ro": "Parcul Național Moukalaba-Doudou, situat în sud-vestul Gabonului, este recunoscut ca fiind unul dintre cele mai critice habitate pentru gorilele de câmpie vestice. Rezervația se distinge printr-un mozaic ecologic rar, unde pădurea tropicală densă se întâlnește cu zone de savană și mlaștini de-a lungul bazinului râului Nyanga. Această diversitate de peisaje susține o biodiversitate remarcabilă, parcul având una dintre cele mai mari densități de primate din regiune. Un aspect central al managementului parcului este programul de monitorizare și obișnuire a gorilelor cu prezența umană, desfășurat în colaborare cu cercetători internaționali, în special din Japonia. Acest efort permite observarea comportamentului natural al gorilelor fără a perturba structura lor socială. Pe lângă gorile, Moukalaba-Doudou adăpostește populații importante de cimpanzei, elefanți de pădure și antilope sitatunga. Parcul servește drept coridor biologic esențial, legând ecosistemele de coastă de cele montane din masivul Mayombe. Comunitățile locale sunt integrate în procesul de conservare, oferind ghizi experți care pot identifica urmele animalelor în vegetația luxuriantă. Accesul se realizează de obicei prin localitatea Doussala, oferind o experiență imersivă în inima naturii sălbatice gaboneze. Protejarea acestui habitat este vitală pentru menținerea echilibrului ecologic în bazinul Congo și pentru prevenirea fragmentării habitatelor speciilor pe cale de dispariție.",
+        "en": "Moukalaba-Doudou National Park in southwestern Gabon stands as one of the most critical strongholds for the western lowland gorilla. The park is characterized by its unique ecological mosaic, blending primary rainforests with expansive grassy savannas and wetlands along the Nyanga River. This habitat diversity supports one of the highest densities of gorillas in Central Africa, making it a focal point for international primatological research. For over twenty years, a dedicated habituation project has been underway, allowing certain gorilla groups to become accustomed to human presence for scientific study and controlled eco-tourism. Beyond its famous primates, the park is home to significant populations of chimpanzees, forest elephants, and the elusive north sitatunga. The Moukalaba-Doudou region functions as a vital biological corridor between the coastal ecosystems of Loango and the inland forests of the Mayombe range. Conservation efforts are spearheaded by the National Agency for National Parks (ANPN) in partnership with local communities, particularly in the village of Doussala, where residents serve as expert trackers. For travelers, the park offers an authentic wilderness experience, far removed from mass tourism, where the focus is on deep forest immersion and understanding the complex social lives of Great Apes. The preservation of this region is essential for ensuring genetic diversity among Gabon's gorilla populations and protecting the wider biodiversity of the Ogooué-Maritime and Nyanga provinces."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park beherbergt eine der höchsten Gorilladichten Gabuns.",
+          "Er umfasst ein Mosaik aus Regenwald, Savanne und Sumpfgebieten.",
+          "Ein langfristiges japanisches Forschungsprojekt studiert hier Primaten.",
+          "Das Dorf Doussala ist das Haupttor für Gorilla-Trekkings im Park.",
+          "Neben Gorillas sind hier auch Schimpansen und Waldelefanten heimisch.",
+          "Der Park liegt in der Nähe der Grenze zur Republik Kongo."
+        ],
+        "hu": [
+          "A parkban található az egyik legmagasabb gorillakoncentráció Afrikában.",
+          "A területen japán kutatók végeznek hosszú távú főemlőskutatásokat.",
+          "Doussala falu a bázisa a parkba induló gyalogos expedícióknak.",
+          "A park ökoszisztémája az esőerdő és a szavanna különleges találkozása.",
+          "Fontos élettere a ritka északi szitatunga antilopnak.",
+          "A terület a fenntartható közösségi turizmus egyik gaboni központja."
+        ],
+        "ro": [
+          "Parcul deține o densitate de gorile estimată printre cele mai mari din lume.",
+          "Este un sit major pentru cercetarea internațională a primatelor.",
+          "Localitatea Doussala servește drept punct de plecare pentru expediții.",
+          "Ecosistemul include pădurea montană a masivului Mayombe.",
+          "Elefanții de pădure pot fi observați frecvent în zonele de savană.",
+          "ANPN colaborează cu comunitățile locale pentru a preveni braconajul."
+        ],
+        "en": [
+          "Moukalaba-Doudou is home to a world-class gorilla habituation site.",
+          "The terrain consists of a rare mix of equatorial forest and savanna.",
+          "It is a key research area for the University of Kyoto and local NGOs.",
+          "Doussala village acts as the main hub for ecotourism activities.",
+          "The park supports a wide range of biodiversity, including forest buffalos.",
+          "It acts as a strategic corridor for large mammal migrations in the south."
+        ]
+      }
+    },
+    {
+      "id": "iguela-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Iguela-Wildreservat (Réserve de Faune d'Iguéla) ist ein wesentlicher Bestandteil des Loango-Ökosystems an der Atlantikküste Gabuns. Es ist weltweit bekannt für seine einzigartige Kombination aus Lagunen, Mangroven, Küstenwäldern und offenen Stränden. Eine der bemerkenswertesten Besonderheiten von Iguela ist das Vorkommen von 'surfenden' Flusspferden und Elefanten, die direkt am Meeresufer beobachtet werden können – ein Phänomen, das fast ausschließlich in diesem Teil Gabuns auftritt. Das Reservat umfasst die gewaltige Iguela-Lagune, die als Kinderstube für zahlreiche Fischarten und als wichtiger Lebensraum für Westafrikanische Seekühe (Manatis) dient. Für Sportfischer gilt Iguela als einer der weltweit besten Orte für den Fang von Riesen-Tarpunen und Barrakudas. Die Tierwelt ist hier extrem vielfältig; neben den großen Säugetieren beherbergt das Reservat eine reiche Vogelwelt, darunter seltene Arten wie den Hartlaub-Enten und verschiedene Seeadler. Das Management des Reservats setzt stark auf exklusiven Ökotourismus, um den Schutz der sensiblen Küstenstreifen zu finanzieren. Die Abgelegenheit des Gebiets, das meist nur per Kleinflugzeug oder Boot erreichbar ist, hat dazu beigetragen, dass die Bestände an Wildtieren trotz des Drucks durch die Fischerei stabil geblieben sind. Iguela bietet eine der wenigen Möglichkeiten weltweit, die Interaktion zwischen afrikanischer Megafauna und der Meeresumwelt in einer völlig unberührten Umgebung zu erleben.",
+        "hu": "Az Iguela Vadrezervátum (Réserve de Faune d'Iguéla) a gaboni Loango-ökoszisztéma szívében, az Atlanti-óceán partján fekszik. Ez a terület a világon az egyik utolsó olyan hely, ahol az esőerdei állatvilág és az óceán közvetlenül találkozik. Iguela világhírnevét elsősorban az itt megfigyelhető „szörföző” vízilovaknak és az óceánparti homokban sétáló elefántoknak köszönheti – ez a látvány máshol szinte ismeretlen. A rezervátum középpontjában az Iguela-lagúna áll, amely nemcsak festői látványt nyújt, hanem létfontosságú szaporodóhelye számos tengeri és édesvízi halfajnak, valamint otthont ad a ritka afrikai manátuszoknak is. A sporthorgászok körében Iguela legendás hírnévnek örvend, mivel a lagúna torkolata a világ egyik legjobb helyszíne az óriás tarpunok kifogására. A növényzet a sűrű mangrovéktól a part menti szavannákig terjed, ahol bivalyok és gorillák is gyakran felbukkannak. A terület védelme alapvető fontosságú a biológiai sokféleség megőrzése szempontjából, és a fenntartható ökoturizmus egyik bástyája Gabunban. A látogatók számára a rezervátum az elszigeteltség és a természetközelség különleges élményét kínálja, ahol a vadon hangjai és az óceán moraja összefonódik. A rezervátum megközelítése leginkább repülővel vagy Port-Gentil felől hajóval lehetséges, ami garantálja a terület háborítatlanságát.",
+        "ro": "Rezervația de Faună Iguela este o componentă vitală a complexului de arii protejate Loango, situată pe coasta atlantică a Gabonului. Această zonă este faimoasă la nivel mondial pentru peisajele sale unde „jungla întâlnește oceanul”, oferind imagini iconice cu elefanți și hipopotami care se plimbă pe plajele virgine. Laguna Iguela, elementul central al rezervației, este un ecosistem complex de ape salmastre, mărginit de mangrove dense și păduri de coastă. Este un habitat crucial pentru lamantinii africani și o zonă de hrănire pentru numeroase specii de păsări limicole și migratoare. Pentru pasionații de pescuit sportiv, Iguela este o destinație de top, fiind renumită pentru capturile record de tarpun uriaș și barracuda în zona unde laguna se varsă în ocean. Biodiversitatea rezervației include, de asemenea, gorile de câmpie, cimpanzei și bivoli de pădure, care pot fi observați adesea la marginea pădurii. Administrarea rezervatului pune un accent deosebit pe turismul de nișă, cu impact redus, pentru a proteja fragilitatea acestui mediu unic. Accesul dificil a conservat caracterul sălbatic al locului, transformând Iguela într-un sanctuar al liniștii și al naturii neatinse. Vizitatorii pot experimenta safariuri atât pe apă, cât și pe uscat, observând interacțiunea rară dintre fauna terestră africană și mediul marin.",
+        "en": "The Iguela Game Reserve (Réserve de Faune d'Iguéla) is a premier wildlife sanctuary located within the greater Loango ecosystem on Gabon's Atlantic coast. It is internationally celebrated for being one of the few places on Earth where large African mammals, including elephants and hippos, can be seen roaming the sandy beaches—the famous 'surfing hippos' of Gabon. The reserve is centered around the vast Iguela Lagoon, a biological powerhouse where nutrient-rich waters support extensive mangrove forests and coastal thickets. This area serves as a critical habitat for the West African manatee and a nursery for diverse fish species. Iguela is a legendary destination for world-class sport fishing, particularly known for yielding record-sized Atlantic tarpon at the lagoon's mouth. The inland portions of the reserve harbor a wealth of biodiversity, from lowland gorillas and chimpanzees to forest buffalos that graze on the coastal meadows. Management of the reserve emphasizes high-end, low-impact ecotourism to fund vital anti-poaching and conservation programs. Reachable primarily by charter flight or boat from Port-Gentil, its isolation has preserved its prehistoric ambiance. For naturalists and photographers, Iguela represents a rare frontier where the equatorial forest's edge meets the untamed Atlantic, providing unparalleled opportunities to witness the intersection of terrestrial and marine wildlife in its most pristine state."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Iguela ist Teil des berühmten Loango-Nationalparks-Komplexes.",
+          "Hier leben die seltenen 'surfenden' Flusspferde Gabuns.",
+          "Die Iguela-Lagune ist ein Hotspot für den Fang von Riesen-Tarpunen.",
+          "Das Reservat beheimatet seltene afrikanische Seekühe (Manatis).",
+          "Elefanten und Büffel wandern hier regelmäßig bis an den Meeresstrand.",
+          "Der Zugang erfolgt meist über Port-Gentil per Boot oder Flugzeug."
+        ],
+        "hu": [
+          "A rezervátum az Atlanti-óceán partján, Port-Gentiltől délre fekszik.",
+          "Világhírű a parton sétáló erdei elefántjairól és vízilovairól.",
+          "A sporthorgászok számára az egyik legjobb tarpun-lelőhely a világon.",
+          "Az Iguela-lagúna a ritka afrikai manátusz fontos menedékhelye.",
+          "A területen gyakran láthatók tengeri teknősök fészkelőhelyei is.",
+          "A környező mangroveerdők fontos szén-dioxid-elnyelők."
+        ],
+        "ro": [
+          "Rezervația este celebră pentru hipopotamii care înoată în valurile oceanului.",
+          "Gura lagunei Iguela este un loc de pescuit sportiv de renume mondial.",
+          "Adăpostește populații de gorile și cimpanzei la marginea pădurii.",
+          "Este o zonă de cuibărit pentru diverse specii de țestoase marine.",
+          "Peisajul variază de la dune de nisip la păduri tropicale inundate.",
+          "Accesul turiștilor este permis doar cu ghizi autorizați de ANPN."
+        ],
+        "en": [
+          "Iguela is famous for sightings of forest elephants on the beach.",
+          "It is considered the world's premier site for Atlantic tarpon fishing.",
+          "The lagoon system is a vital refuge for the West African manatee.",
+          "It borders the Loango National Park, forming a vast protected area.",
+          "The reserve supports a high density of forest buffalos and red river hogs.",
+          "Its remote location ensures minimal human impact on the ecosystem."
+        ]
+      }
+    },
+    {
+      "id": "akanda-birds-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Akanda-Vogelschutzgebiet im Akanda-Nationalpark ist eines der bedeutendsten Feuchtgebiete West- und Zentralafrikas für Zugvögel. Gelegen im Nordosten von Libreville, umfasst es die weiten Gezeitenzonen und Mangrovenwälder der Mondah- und Corisco-Buchten. Jedes Jahr im Winter der Nordhalbkugel wird Akanda zum Ziel für zehntausende Zugvögel aus der Paläarktis, die hierher kommen, um Nahrung zu finden und Kraft für den Rückflug zu sammeln. Zu den am häufigsten beobachteten Arten gehören verschiedene Regenpfeifer, Brachvögel, Seeschwalben und Reiher. Die Mangroven von Akanda sind zudem die Kinderstube für unzählige Fischarten und Krebstiere, die die Nahrungsgrundlage für die Vögel bilden. Neben den Zugvögeln ist das Gebiet auch ein Lebensraum für die seltene Westafrikanische Seekuh (Manati) und dient als Nistplatz für Meeresschildkröten. Das Ökosystem ist jedoch durch die räumliche Nähe zur Hauptstadt Libreville und den damit verbundenen Siedlungsdruck gefährdet. Naturschutzorganisationen arbeiten eng mit der Regierung zusammen, um die Zerstörung der Mangroven zu verhindern und den illegalen Sandabbau einzudämmen. Für Vogelbeobachter und Naturliebhaber bietet Akanda die Möglichkeit, nur wenige Kilometer von der Großstadt entfernt eine fast unberührte maritime Wildnis zu erleben. Die beste Art, das Gebiet zu erkunden, ist per Boot während der Flut, wenn die Vögel sich auf den verbleibenden Sandbänken sammeln und die Kanäle der Mangroven befahrbar sind.",
+        "hu": "Az Akanda Madárrezervátum az Akanda Nemzeti Park részeként Gabon egyik legfontosabb vizes élőhelye, amely Libreville északkeleti határában található. A Mondah-öböl és a Corisco-öböl mocsaras területei, valamint kiterjedt mangroveerdői alkotják ezt az ökológiai paradicsomot. A terület nemzetközi jelentőségét az adja, hogy ez az egyik legfontosabb telelőhely a palearktikus vándormadarak számára Közép-Afrikában. Évente több tízezer madár – köztük pólingok, lilék, csérek és különféle gázlómadarak – érkezik ide Eurázsiából, hogy a tápanyagban gazdag árapály-zónákban táplálkozzon. A mangrovék sűrű gyökérzete nemcsak a madaraknak nyújt biztonságot, hanem bölcsőként szolgál számos tengeri halfaj és rák számára is, amelyek a helyi halászat alapját képezik. Az Akanda Nemzeti Park vizei emellett fontos menedékhelyei a ritka afrikai manátuszoknak is. A főváros közelsége miatt a terület fokozott emberi nyomásnak van kitéve, így a környezetvédelmi erőfeszítések középpontjában a mangroveerdők megőrzése és az illegális építkezések visszaszorítása áll. A természetfotósok és az ornitológusok számára Akanda egyedülálló lehetőséget kínál a madárvilág megfigyelésére, különösen dagály idején, amikor a csónakok bejutnak a rejtett csatornákba. Ez a helyszín Gabon zöld tüdeje a főváros mellett, amely kulcsfontosságú a part menti biodiverzitás fenntartásában.",
+        "ro": "Sanctuarul de păsări Akanda, integrat în Parcul Național Akanda, reprezintă una dintre cele mai importante zone umede din Africa Centrală pentru avifauna migratoare. Situat la nord-est de capitala Libreville, parcul acoperă golfurile Mondah și Corisco, fiind dominat de cea mai vastă rețea de mangrove din Gabon. Importanța sa este recunoscută la nivel internațional prin statutul de sit Ramsar, fiind o destinație esențială pentru zeci de mii de păsări care migrează anual din regiunea palearctică. Plajele și zonele intertidale de aici oferă hrană abundentă pentru specii precum culicul mare, prundărașul de mare și diverse tipuri de egrete. Dincolo de păsări, ecosistemul Akanda este vital pentru reproducerea țestoaselor marine și adăpostește populații discrete de lamantini africani. Din cauza proximității față de expansiunea urbană a orașului Libreville, sanctuarul se confruntă cu provocări majore legate de poluare și defrișarea mangrovelor pentru construcții. Eforturile de conservare includ patrule constante și programe de educație ecologică pentru comunitățile de pescari locale. Vizitarea parcului oferă o evadare rapidă din agitația urbană, cele mai bune observații putând fi făcute din barcă, navigând prin labirintul de canale la flux. Akanda nu este doar un paradis al ornitologilor, ci și un scut natural împotriva eroziunii costiere, protejând coasta de nord a Gabonului de furia oceanului.",
+        "en": "The Akanda Bird Sanctuary, part of the Akanda National Park, is one of the most critical wetland habitats for migratory birds in West and Central Africa. Located just northeast of Libreville, the sanctuary encompasses the tidal flats and extensive mangrove forests of the Mondah and Corisco Bays. It is a site of international significance, particularly as a wintering ground for tens of thousands of Palearctic migrants fleeing the northern winter. Species such as the Eurasian Whimbrel, various plovers, terns, and herons rely on the nutrient-rich mudflats for survival during their long journeys. The mangroves of Akanda act as a vital nursery for marine life, supporting both the avian populations and the local artisanal fisheries. Additionally, the park provides a refuge for the West African manatee and serves as a nesting site for several species of marine turtles. Due to its proximity to the rapidly growing capital of Libreville, Akanda faces significant environmental pressures from urban encroachment and illegal mangrove harvesting. Conservation initiatives focus on protecting this delicate balance between urban development and ecological preservation. For birdwatchers, the sanctuary offers unparalleled opportunities to observe diverse species in a stunning coastal setting, best explored by boat during high tide. Protecting Akanda is not only crucial for biodiversity but also for the coastal stability and food security of the surrounding region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Akanda beherbergt etwa 25 % der Mangrovenwälder Gabuns.",
+          "Das Gebiet ist ein international anerkanntes Ramsar-Feuchtgebiet.",
+          "Zehntausende Zugvögel aus Europa überwintern hier jedes Jahr.",
+          "Es ist einer der besten Orte in Gabun zur Beobachtung von Reihern.",
+          "Der Park schützt die Meeresarme im Nordosten der Hauptstadt Libreville.",
+          "Die Mangroven dienen als Schutzschild gegen Küstenerosion."
+        ],
+        "hu": [
+          "Az Akanda Nemzeti Park Gabon egyik legfontosabb vándorútvonala.",
+          "A terület 2002 óta élvez nemzeti parki védettséget.",
+          "Különösen gazdag az öböl tengeri fűben, ami a manátuszok eledele.",
+          "A mangrovék sűrűsége itt a legnagyobb a Guineai-öböl térségében.",
+          "A park megközelítése Libreville-ből leginkább hajóval javasolt.",
+          "Fontos szerepet játszik a főváros környéki halállomány megújulásában."
+        ],
+        "ro": [
+          "Akanda este un sit de importanță internațională pentru păsările limicole.",
+          "Mangrovele de aici sunt esențiale pentru sechestrarea carbonului.",
+          "Peste 30.000 de păsări migratoare vizitează parcul în fiecare sezon.",
+          "Este habitatul preferat al vulturului pescar african în această zonă.",
+          "Parcul se luptă activ împotriva exploatării ilegale a nisipului de plajă.",
+          "Biodiversitatea marină include specii rare de crabi și moluște."
+        ],
+        "en": [
+          "The sanctuary is a key stopover for birds on the East Atlantic Flyway.",
+          "It protects critical mangrove ecosystems near the capital, Libreville.",
+          "The area is vital for the nesting and feeding of green sea turtles.",
+          "It is designated as a Wetland of International Importance (Ramsar).",
+          "Tidal fluctuations create ideal feeding conditions for wading birds.",
+          "Akanda's mangroves are home to various unique orchid species."
+        ]
+      }
+    },
+    {
+      "id": "pongara-turtles-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Pongara-Nationalpark, gelegen auf der gegenüberliegenden Seite der Bucht von Libreville, ist eines der weltweit wichtigsten Brutgebiete für die Lederschildkröte (Dermochelys coriacea), die größte aller lebenden Schildkrötenarten. Jedes Jahr zwischen November und Februar kommen hunderte dieser gigantischen Meeresreptilien an die unberührten Strände von Pongara, um ihre Eier im Sand abzulegen. Dieses Naturschauspiel wird von Naturschutzorganisationen wie 'Aventure Sans Frontières' streng überwacht, um die Nester vor Raubtieren und menschlichen Störungen zu schützen. Neben den Lederschildkröten nutzen auch Oliv-Bastardschildkröten die Strände des Parks als Nistplätze. Der Park umfasst eine Fläche von fast 900 Quadratkilometern und bietet eine Vielfalt an Lebensräumen, von Sandstränden über Dünen bis hin zu dichten Mangroven und Küstenwäldern. Pongara ist nicht nur für seine Schildkröten bekannt, sondern beheimatet auch Waldelefanten, Büffel und zahlreiche Primatenarten, die oft bis an den Waldrand nahe der Strände vordringen. Die Nähe zu Libreville macht den Park zu einem beliebten Ziel für den Ökotourismus, erfordert jedoch ein striktes Management, um die empfindlichen Ökosysteme zu bewahren. Das Beobachten der Schildkröten bei Nacht unter fachkundiger Führung ist ein tiefgreifendes Erlebnis, das die Bedeutung des Schutzes mariner Lebensräume verdeutlicht. Pongara dient zudem als natürlicher Schutzwall für das Ästuar des Komo und ist ein wichtiger Bestandteil der nationalen Strategie zur Erhaltung der biologischen Vielfalt an der gabunischen Küste.",
+        "hu": "A Libreville-lel szemben, az öböl túlpartján elhelyezkedő Pongara Nemzeti Park a világ egyik legfontosabb fészkelőhelye a lantteknősök (Dermochelys coriacea) számára. Ezek a hatalmas, akár több száz kilogrammos tengeri hüllők minden évben november és február között térnek vissza Pongara érintetlen homokos strandjaira, hogy lerakják tojásaikat. A lantteknősök mellett az atlanti fattyúteknősök is rendszeresen látogatják a park partjait. A terület védelme kulcsfontosságú, mivel a fészekrablás és a fényszennyezés világszerte veszélyezteti ezeket a fajokat. A parkban dolgozó szakemberek és önkéntesek éjszakai őrjáratokat tartanak, jelölik a fészkeket és segítik a kikelő kis teknősök tengerbe jutását. Pongara azonban nemcsak a teknősökről híres; a park változatos ökoszisztémája mangrovékat, mocsarakat és trópusi erdőket is magában foglal, ahol erdei elefántok, bivalyok és majomfélék élnek. A park közelsége a fővároshoz lehetővé teszi, hogy a helyiek és a turisták könnyen elérjék ezt a vadont, ugyanakkor nagy felelősséget is ró a természetvédelemre. Az éjszakai teknősfigyelés szigorú szabályok mellett zajlik, hogy ne zavarják az állatokat. Pongara a gaboni partvidék egyik legfontosabb ökológiai bástyája, amely segít megőrizni a tengeri élővilág és a szárazföldi fauna közötti kényes egyensúlyt. A látogatók itt szemtanúi lehetnek az élet körforgásának egyik legősibb rítusának.",
+        "ro": "Parcul Național Pongara, situat chiar peste estuarul Komo față de Libreville, este un sanctuar critic la nivel global pentru țestoasa pieloasă (Dermochelys coriacea). Plajele sale izolate reprezintă unul dintre locurile preferate de cuibărit pentru această specie vulnerabilă, cea mai mare țestoasă marină din lume. În fiecare sezon, între lunile noiembrie și martie, sute de femele ies din ocean sub protecția întunericului pentru a-și depune ouăle în nisipul fin al Peninsulei Pongara. Eforturile de conservare sunt intense, implicând organizații neguvernamentale care monitorizează plajele 24 de ore din 24 pentru a preveni braconajul și a proteja puii proaspăt eclozionați de prădătorii naturali. Parcul se întinde pe o suprafață diversă ce include păduri de coastă, savane și mangrove, oferind un habitat sigur și pentru elefanții de pădure sau cimpanzei. Pongara este o destinație de ecoturism de top datorită accesibilității sale din capitală, fiind un loc unde educația ecologică se îmbină cu aventura. Observarea acestor giganți marini este o experiență emoționantă, subliniind fragilitatea vieții oceanice. În plus față de importanța sa pentru țestoase, parcul joacă un rol vital în protejarea estuarului împotriva eroziunii și menținerea calității apei pentru numeroasele specii de pești din regiune. Pongara rămâne un simbol al angajamentului Gabonului de a proteja specii emblematice aflate pe cale de dispariție.",
+        "en": "Pongara National Park, located directly across the estuary from Libreville, is a globally significant nesting ground for the leatherback sea turtle (Dermochelys coriacea). Its vast, undisturbed beaches are among the most important sites in the world for these ancient giants, which can weigh up to 700 kilograms. From November to February, hundreds of leatherbacks emerge from the Atlantic to lay their eggs in the sand, a process meticulously monitored by conservationists to ensure the survival of the species. In addition to leatherbacks, olive ridley turtles also frequent these shores. The park’s nearly 900 square kilometers encompass a rich variety of habitats, including coastal forests, savannas, and expansive mangroves. It is not uncommon to see forest elephants and buffalos wandering close to the shoreline, creating a unique juxtaposition of savanna and sea. Given its proximity to the capital, Pongara is a vital hub for environmental education and sustainable tourism, allowing visitors to witness the nesting process under strict professional guidance. Protecting this coastline is essential for regional biodiversity, as the park acts as a buffer for the Komo estuary and a sanctuary for various primate and bird species. For many, a night visit to Pongara during the nesting season provides a profound connection to the natural world and highlights the success of Gabon’s marine conservation strategies."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pongara ist eines der weltweit wichtigsten Gebiete für Lederschildkröten.",
+          "Die Nistsaison dauert von November bis Februar/März.",
+          "Der Park liegt direkt gegenüber von Libreville am Atlantik.",
+          "Er beherbergt sowohl Meeresfauna als auch Waldelefanten und Büffel.",
+          "Der Schutz der Nester wird durch nächtliche Patrouillen gewährleistet.",
+          "Das Gebiet ist ein wichtiger Teil des gabunischen Nationalparksystems."
+        ],
+        "hu": [
+          "A park a világ egyik legnagyobb lantteknős-populációját fogadja.",
+          "A teknősök tojásrakása éjszaka, apály idején a leggyakoribb.",
+          "A terület Libreville-ből mindössze 20-30 perces csónakúttal elérhető.",
+          "Pongara strandjai mentesek a nagyipari építkezésektől és fényszennyezéstől.",
+          "A parkban aktív teknősvédelmi program (ASF) működik.",
+          "Az elefántok néha a sós tengerparton keresnek ásványi anyagokat."
+        ],
+        "ro": [
+          "Țestoasa pieloasă poate atinge lungimi de peste 2 metri în Pongara.",
+          "Parcul a fost creat în 2002 pentru a proteja ecosistemele de coastă.",
+          "Există programe de voluntariat internațional pentru protecția țestoaselor.",
+          "Peninsula Pongara separă oceanul de estuarul râului Komo.",
+          "Pe lângă țestoase, pot fi observați balene și delfini în largul coastelor.",
+          "Este o destinație populară pentru safari de weekend din Libreville."
+        ],
+        "en": [
+          "Pongara hosts one of the largest leatherback nesting populations in Africa.",
+          "Volunteers help relocate vulnerable nests to hatcheries for safety.",
+          "The park features a diverse landscape of mangroves and coastal plains.",
+          "It is a key site for studying the migratory patterns of sea turtles.",
+          "Strict lighting regulations are in place to avoid disorienting hatchlings.",
+          "It serves as a primary ecological gateway for tourists visiting Gabon."
+        ]
+      }
+    },
+    {
+      "id": "mwagna-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mwagna-Nationalpark im äußersten Nordosten Gabuns ist eines der abgelegensten und wildesten Schutzgebiete des Landes. Er liegt an der Grenze zur Republik Kongo und ist fast vollständig von unberührtem primärem Tieflandregenwald bedeckt. Mwagna ist berühmt für seine außergewöhnliche Dichte an Waldelefanten und westlichen Flachlandgorillas, die in diesem isolierten Gebiet weitgehend ohne menschlichen Einfluss leben. Das Herzstück des Parks ist die 'Mwagna Baï', eine riesige natürliche Lichtung, die reich an Mineralien ist und als zentraler Treffpunkt für die Megafauna des Waldes dient. Aufgrund seiner extremen Abgelegenheit ist der Park touristisch kaum erschlossen, was ihn zu einem wichtigen Rückzugsort für bedrohte Tierarten macht, die in anderen Teilen Zentralafrikas durch Wilderei unter Druck stehen. Die Erforschung von Mwagna ist logistisch höchst anspruchsvoll, liefert aber entscheidende Daten über die Ökologie des Regenwaldes und das Wanderverhalten von Elefanten im Kongobecken. Der Park ist Teil eines grenzüberschreitenden Schutzgebietsnetzwerks, das darauf abzielt, die biologische Integrität eines der letzten großen Wildnisgebiete der Erde zu bewahren. Für Besucher, die die Mühen der Anreise auf sich nehmen, bietet Mwagna ein unvergleichliches Erlebnis von absoluter Einsamkeit und die Chance, Tiere in einem Zustand völliger Natürlichkeit zu beobachten. Die Erhaltung von Mwagna ist ein zentraler Pfeiler für den Schutz des Naturerbes Gabuns und der gesamten Region.",
+        "hu": "A Gabon északkeleti sarkában található Mwagna Nemzeti Park az ország egyik legtávolabbi és leginkább érintetlen vadonja. A Kongói Köztársaság határán elterülő park szinte teljes egészét sűrű, elsődleges síkvidéki esőerdő borítja, amelyet emberi települések alig szaggatnak meg. Mwagna hírnevét a rendkívül magas elefánt- és gorillakoncentrációjának köszönheti; az itteni állományok háborítatlanul élnek a hatalmas erdőségekben. A park legfontosabb pontja a „Mwagna Baï”, egy természetes erdei tisztás, ahol a talaj ásványi sókban gazdag, így az állatok rendszeresen látogatják. Az elszigeteltség Mwagna legnagyobb védelme az orvvadászattal szemben, ugyanakkor ez teszi a legnehezebben kutatható területté is. A park része egy nemzetközi természetvédelmi folyosónak, amely a Kongó-medence biodiverzitását hivatott megőrizni. A látogatók száma elenyésző, így Mwagna megőrizte ősi, misztikus jellegét, ahol a természet törvényei az uralkodók. A kutatók számára a terület kulcsfontosságú a nyugati síkvidéki gorillák genetikájának és viselkedésének tanulmányozásához. Mwagna nem csupán egy nemzeti park, hanem Gabon elkötelezettségének szimbóluma a bolygó utolsó érintetlen esőerdőinek megóvása mellett.",
+        "ro": "Parcul Național Mwagna, situat în extremitatea de nord-est a Gabonului, la frontiera cu Republica Congo, reprezintă una dintre cele mai pure expresii ale sălbăticiei africane. Acoperit aproape integral de o pădure tropicală primară de câmpie, parcul este un sanctuar vital pentru elefanții de pădure și gorilele de câmpie vestice. Elementul central al biodiversității sale este „Mwagna Baï”, o poiană forestieră naturală unde solul feruginos și bogat în minerale atrage un număr impresionant de animale mari. Din cauza izolării sale extreme și a lipsei infrastructurii rutiere, Mwagna a rămas protejat de presiunile antropice care afectează alte zone din Bazinul Congo. Parcul joacă un rol strategic în conservarea transfrontalieră, formând un coridor ecologic cu ariile protejate vecine din Congo. Cercetările științifice în Mwagna sunt dificile din punct de vedere logistic, dar esențiale pentru înțelegerea migrațiilor marilor mamifere într-un mediu complet neperturbat. Pentru puținii călători care reușesc să ajungă aici, Mwagna oferă o experiență de explorare autentică, într-un decor unde natura domină absolut. Menținerea acestui parc ca zonă de protecție integrală este crucială pentru supraviețuirea speciilor emblematice ale Gabonului și pentru stabilitatea climatică a regiunii prin conservarea stocurilor masive de carbon din biomasa forestieră.",
+        "en": "Mwagna National Park, located in the far northeastern corner of Gabon along the border with the Republic of Congo, is one of the most remote and pristine wilderness areas in Central Africa. The park is almost entirely blanketed by primary lowland rainforest, offering a vast, undisturbed habitat for some of the continent's most iconic wildlife. Mwagna is particularly famous for its high concentrations of forest elephants and western lowland gorillas, which thrive in this isolated sanctuary far from human settlements. At the heart of the park lies the 'Mwagna Baï,' a large natural forest clearing rich in minerals that attracts a diverse array of megafauna. Due to its extreme remoteness and lack of road access, Mwagna remains a bastion of biodiversity, relatively safe from the poaching pressures seen elsewhere in the Congo Basin. The park is an integral part of a transboundary conservation network aimed at preserving the ecological integrity of the region. Scientific expeditions to Mwagna are logistically challenging but yield vital insights into the social structures and health of gorilla populations. For the few adventurous eco-tourists who reach it, Mwagna offers a profound sense of solitude and a rare glimpse into an ecosystem that functions exactly as it has for millennia. Its preservation is a cornerstone of Gabon’s environmental policy and a critical contribution to the global fight against biodiversity loss."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mwagna ist einer der am wenigsten besuchten Nationalparks Gabuns.",
+          "Er grenzt direkt an die Republik Kongo im Nordosten.",
+          "Der Park beherbergt eine bedeutende Population von Waldelefanten.",
+          "Die Mwagna Baï ist die wichtigste Beobachtungsstelle für Wildtiere.",
+          "Es gibt keine permanenten Straßen, die in den Park führen.",
+          "Der Park ist ein wichtiger Teil des TRIDOM-Naturschutzgebiets."
+        ],
+        "hu": [
+          "A park területén nincsenek állandó emberi települések.",
+          "Mwagna az egyik legfontosabb menedékhely az erdei bivalyok számára.",
+          "A terület megközelítése általában többnapos hajóutat igényel.",
+          "A park talaja és alapkőzete különleges geológiai képződmény.",
+          "Fontos szerepet játszik a Kongó-medence esőerdőinek védelmében.",
+          "A területen tilos bármilyen fakitermelés vagy bányászat."
+        ],
+        "ro": [
+          "Mwagna protejează unele dintre cele mai vechi păduri din Gabon.",
+          "Este un punct cheie pentru monitorizarea gorilelor sălbatice.",
+          "Accesul se face de obicei prin râul Ivindo sau aerian.",
+          "Baï-ul Mwagna este frecventat de sute de elefanți simultan.",
+          "Constituie o barieră naturală împotriva deșertificării și fragmentării.",
+          "Este considerat un 'laborator viu' pentru ecologia tropicală."
+        ],
+        "en": [
+          "Mwagna National Park is a key component of the TRIDOM transborder area.",
+          "It features a pristine 'Baï' that serves as a wildlife magnet.",
+          "The park is virtually untouched by commercial logging or mining.",
+          "It supports a stable population of the western lowland gorilla.",
+          "Transport within the park is mostly on foot or via small rivers.",
+          "Its isolation makes it one of the most secure sites for forest elephants."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "lang": "de",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "thiès-hügelzug-v2",
+      "description": "Eine markante Hügelkette bei Thiès, die das landschaftliche Profil der Region prägt und eine natürliche Barriere bildet.",
+      "facts": ["Hügelkette bei Thiès", "Landschaftsprägend", "Natürliche Barriere"]
+    },
+    {
+      "id": "faleme-tal-relief-v2",
+      "description": "Eine weitere reliefreiche Zone des Faleme-Flusstals, die durch ihre geologische Vielfalt und markante Täler besticht.",
+      "facts": ["Faleme-Tal-Zone", "Reliefreich", "Geologische Vielfalt"]
+    },
+    {
+      "id": "casamance-huegel-v2",
+      "description": "Hügelige Erhebungen in der Casamance-Region, die das landschaftliche Bild und die topografische Abwechslung fördern.",
+      "facts": ["Hügelland Casamance", "Topografisch abwechslungsreich", "Landschaftsbild"]
+    },
+    {
+      "id": "ferlo-savanne-relief-v2",
+      "description": "Das Relief der weiten Ferlo-Savanne, eine flache, aber topografisch bedeutsame trockene Region im Zentrum Senegals.",
+      "facts": ["Ferlo-Savanne", "Flache Region", "Zentrum Senegals"]
+    }
+  ]
+}

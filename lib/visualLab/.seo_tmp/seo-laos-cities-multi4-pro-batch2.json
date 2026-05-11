@@ -1,0 +1,379 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "muang-xay-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Oudomxay Province and a major transport hub connecting China and Vietnam.",
+          "Features the Phou That stupa, which overlooks the town from a central hill.",
+          "Has a significant Chinese cultural and economic influence due to border trade.",
+          "The surrounding mountains are home to numerous ethnic minority villages.",
+          "Chom Ong Cave, one of the longest cave systems in Laos, is located nearby.",
+          "The local market is a bustling center for agricultural and imported goods."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Oudomxay und ein wichtiger Verkehrsknotenpunkt.",
+          "Verfügt über den Phou That Stupa, der auf einem Hügel über der Stadt thront.",
+          "Hat aufgrund des Grenzhandels einen starken chinesischen wirtschaftlichen Einfluss.",
+          "Die umliegenden Berge beheimaten zahlreiche ethnische Minderheitendörfer.",
+          "Die Chom Ong Höhle, eines der längsten Höhlensysteme in Laos, liegt in der Nähe.",
+          "Der lokale Markt ist ein geschäftiges Zentrum für landwirtschaftliche Produkte."
+        ],
+        "hu": [
+          "Oudomxay tartomány fővárosa, egy fontos közlekedési csomópont Kína és Vietnám felé.",
+          "Itt található a Phou That sztúpa, amely egy központi dombról tekint le a városra.",
+          "A határ menti kereskedelem miatt jelentős a kínai kulturális és gazdasági befolyás.",
+          "A környező hegyekben számos etnikai kisebbségi falu található.",
+          "A Chom Ong-barlang, Laosz egyik leghosszabb barlangrendszere a közelben található.",
+          "A helyi piac a mezőgazdasági és importált áruk nyüzsgő központja."
+        ],
+        "ro": [
+          "Capitala provinciei Oudomxay și un nod major de transport către China.",
+          "Prezintă stupa Phou That, care domină orașul de pe un deal central.",
+          "Are o influență culturală și economică chineză semnificativă datorită comerțului.",
+          "Munții din jur găzduiesc numeroase sate aparținând minorităților etnice.",
+          "Peștera Chom Ong, unul dintre cele mai lungi sisteme de peșteri, se află în apropiere.",
+          "Piața locală este un centru plin de viață pentru produse agricole."
+        ]
+      }
+    },
+    {
+      "id": "sainyabuli-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Sainyabuli Province, located in the only Lao province completely west of the Mekong.",
+          "The province is known for having the largest domestic elephant population in Laos.",
+          "Surrounded by rugged mountain ranges and dense forests.",
+          "Features the beautiful Wat Si Boun Huang temple with its ancient stupa.",
+          "The local economy relies heavily on agriculture, logging, and elephant conservation.",
+          "Hosts cultural festivals that celebrate the historical importance of working elephants."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Sainyabuli, die vollständig westlich des Mekong liegt.",
+          "Die Provinz ist bekannt für die größte Population heimischer Elefanten in Laos.",
+          "Umgeben von schroffen Gebirgszügen und dichten tropischen Wäldern.",
+          "Verfügt über den wunderschönen Tempel Wat Si Boun Huang mit seinem alten Stupa.",
+          "Die lokale Wirtschaft stützt sich stark auf Landwirtschaft und Elefantenschutz.",
+          "Veranstaltet Kulturfestivals, die die historische Bedeutung von Arbeitselefanten feiern."
+        ],
+        "hu": [
+          "Sainyabuli tartomány fővárosa, amely az egyetlen teljesen a Mekongtól nyugatra fekvő tartomány.",
+          "A tartomány arról ismert, hogy itt él a legnagyobb hazai elefántpopuláció Laoszban.",
+          "Zord hegyvonulatok és sűrű trópusi erdők veszik körül a várost.",
+          "Itt található a gyönyörű Wat Si Boun Huang templom ősi sztúpájával.",
+          "A helyi gazdaság nagymértékben támaszkodik a mezőgazdaságra és az elefántvédelemre.",
+          "Kulturális fesztiváloknak ad otthont, amelyek a munkahordó elefántok történelmi jelentőségét ünneplik."
+        ],
+        "ro": [
+          "Capitala provinciei Sainyabuli, situată complet la vest de râul Mekong.",
+          "Provincia este cunoscută pentru cea mai mare populație de elefanți domestici din Laos.",
+          "Înconjurat de lanțuri muntoase accidentate și păduri dense.",
+          "Găzduiește frumosul templu Wat Si Boun Huang cu stupa sa antică.",
+          "Economia locală se bazează pe agricultură, exploatare forestieră și conservarea elefanților.",
+          "Găzduiește festivaluri care celebrează importanța istorică a elefanților."
+        ]
+      }
+    },
+    {
+      "id": "pakxan-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Bolikhamxai Province, situated at the confluence of the Nam San and Mekong rivers.",
+          "Gateway to the dense jungles of the Phou Khao Khouay National Protected Area.",
+          "Features Wat Phabath, a temple famous for housing a large Buddha footprint.",
+          "Surrounded by extensive wetland areas and agricultural plains.",
+          "Historically served as a minor trading post between Vientiane and the southern provinces.",
+          "The town's location makes it a crucial transport link along Route 13."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Bolikhamxai am Zusammenfluss von Nam San und Mekong.",
+          "Tor zu den dichten Dschungeln des Phou Khao Khouay Naturschutzgebietes.",
+          "Verfügt über Wat Phabath, einen Tempel, der für einen großen Buddha-Fußabdruck bekannt ist.",
+          "Umgeben von ausgedehnten Feuchtgebieten und landwirtschaftlichen Ebenen.",
+          "Diente historisch als kleinerer Handelsposten zwischen Vientiane und dem Süden.",
+          "Die Lage der Stadt macht sie zu einer wichtigen Verkehrsverbindung an der Route 13."
+        ],
+        "hu": [
+          "Bolikhamxai tartomány fővárosa, a Nam San és a Mekong folyók összefolyásánál fekszik.",
+          "A Phou Khao Khouay Nemzeti Védett Terület sűrű dzsungeleinek kapuja.",
+          "Itt található a Wat Phabath templom, amely egy nagy Buddha-lábnyomról híres.",
+          "Kiterjedt vizes élőhelyek és kiterjedt mezőgazdasági síkságok veszik körül.",
+          "Történelmileg egy kisebb kereskedelmi állomásként szolgált Vientiane és a déli tartományok között.",
+          "A város elhelyezkedése miatt kulcsfontosságú közlekedési csomópont a 13-as út mentén."
+        ],
+        "ro": [
+          "Capitala provinciei Bolikhamxai, situată la confluența râurilor Nam San și Mekong.",
+          "Poarta către junglele dese ale Ariei Naționale Protejate Phou Khao Khouay.",
+          "Prezintă Wat Phabath, un templu renumit pentru o amprentă uriașă a lui Buddha.",
+          "Înconjurat de zone umede extinse și câmpii agricole fertile.",
+          "Istoric, a servit ca un post comercial minor între Vientiane și provinciile din sud.",
+          "Locația orașului îl face o legătură de transport crucială de-a lungul Rutei 13."
+        ]
+      }
+    },
+    {
+      "id": "attapeu-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Attapeu Province in the southeast, situated in a rugged, remote valley.",
+          "Heavily affected by the Ho Chi Minh trail network during the Vietnam War.",
+          "Features a Russian-made SAM missile displayed as a war monument in the town center.",
+          "Home to diverse ethnic minority populations with unique cultural traditions.",
+          "Serves as the main gateway to the Dong Ampham National Protected Area.",
+          "The local market offers unique forest products gathered from the surrounding jungles."
+        ],
+        "de": [
+          "Hauptstadt der südöstlichen Provinz Attapeu, gelegen in einem abgelegenen Tal.",
+          "Wurde während des Vietnamkriegs stark vom Ho-Chi-Minh-Pfad beeinflusst.",
+          "Verfügt über eine russische SAM-Rakete, die als Kriegsdenkmal im Zentrum ausgestellt ist.",
+          "Heimat diverser ethnischer Minderheiten mit einzigartigen kulturellen Traditionen.",
+          "Dient als wichtigstes Tor zum Dong Ampham Naturschutzgebiet.",
+          "Der lokale Markt bietet einzigartige Waldprodukte aus den umliegenden Dschungeln."
+        ],
+        "hu": [
+          "Attapeu tartomány fővárosa délkeleten, amely egy zord és távoli völgyben helyezkedik el.",
+          "A vietnámi háború idején a Ho Si Minh-ösvény hálózata erősen érintette a területet.",
+          "A városközpontban háborús emlékműként egy orosz gyártmányú SAM rakéta van kiállítva.",
+          "Különböző etnikai kisebbségi populációknak ad otthont egyedi kulturális hagyományokkal.",
+          "Ez a Dong Ampham Nemzeti Védett Terület fő belépési pontja.",
+          "A helyi piac a környező dzsungelekből gyűjtött egyedi erdei termékeket kínál."
+        ],
+        "ro": [
+          "Capitala provinciei Attapeu din sud-est, situată într-o vale accidentată.",
+          "Puternic afectată de rețeaua de trasee Ho Chi Minh în timpul Războiului din Vietnam.",
+          "Prezintă o rachetă SAM fabricată în Rusia, expusă ca monument de război.",
+          "Găzduiește diverse populații minoritare etnice cu tradiții culturale unice.",
+          "Servește ca poartă principală de acces către Rezervația Dong Ampham.",
+          "Piața locală oferă produse forestiere unice adunate din junglele din jur."
+        ]
+      }
+    },
+    {
+      "id": "salavan-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Salavan Province, an area heavily damaged during the Indochina wars.",
+          "The surrounding region is known for high-quality coffee and cardamom production.",
+          "Situated near the fertile and climatically cool Bolaven Plateau.",
+          "Home to diverse indigenous Mon-Khmer speaking ethnic groups.",
+          "The nearby Tad Lo area is famous for its stunning cascading waterfalls.",
+          "The town itself has a quiet, laid-back atmosphere with minimal tourist infrastructure."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Salavan, die während der Indochinakriege stark zerstört wurde.",
+          "Die Region ist bekannt für den Anbau von hochwertigem Kaffee und Kardamom.",
+          "Liegt in der Nähe des fruchtbaren und klimatisch kühlen Bolaven-Plateaus.",
+          "Heimat verschiedener indigener Mon-Khmer sprechender ethnischer Gruppen.",
+          "Das nahegelegene Tad Lo Gebiet ist berühmt für seine atemberaubenden Wasserfälle.",
+          "Die Stadt selbst hat eine ruhige Atmosphäre mit minimaler touristischer Infrastruktur."
+        ],
+        "hu": [
+          "Salavan tartomány fővárosa, mely terület súlyos károkat szenvedett az indokínai háborúk során.",
+          "A környező régió a kiváló minőségű kávé és a kardamom termesztéséről ismert.",
+          "A termékeny és hűvösebb éghajlatú Bolaven-fennsík közelében található.",
+          "Különféle őslakos, mon-khmer nyelven beszélő etnikai csoportoknak ad otthont.",
+          "A közeli Tad Lo terület lenyűgöző, lépcsőzetes vízeséseiről híres.",
+          "Maga a város csendes, nyugodt légkörrel és minimális turisztikai infrastruktúrával rendelkezik."
+        ],
+        "ro": [
+          "Capitala provinciei Salavan, o zonă grav avariată în timpul războaielor din Indochina.",
+          "Regiunea înconjurătoare este cunoscută pentru producția de cafea și cardamom.",
+          "Situat în apropierea Platoului Bolaven, o zonă fertilă cu o climă răcoroasă.",
+          "Găzduiește diverse grupuri etnice indigene vorbitoare de limbi Mon-Khmer.",
+          "Zona Tad Lo din apropiere este renumită pentru cascadele sale uimitoare.",
+          "Orașul în sine are o atmosferă liniștită, cu o infrastructură turistică minimă."
+        ]
+      }
+    },
+    {
+      "id": "phongsaly-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "The northernmost provincial capital in Laos, situated at a high altitude of 1,400 meters.",
+          "Features distinct Yunnanese wooden architecture due to its proximity to China.",
+          "The cooler climate is ideal for cultivating high-mountain green tea.",
+          "Famous for a 400-year-old tea pavilion and ancient tea trees in the surrounding hills.",
+          "Historically and culturally more closely tied to neighboring Chinese regions.",
+          "Surrounded by rugged mountain terrain that remains largely untouched by modernization."
+        ],
+        "de": [
+          "Die nördlichste Provinzhauptstadt in Laos, auf einer Höhe von 1.400 Metern gelegen.",
+          "Verfügt wegen der Nähe zu China über eine ausgeprägte Yunnan-Holzarchitektur.",
+          "Das kühlere Klima ist ideal für den Anbau von Hochgebirgs-Grüntee.",
+          "Berühmt für einen 400 Jahre alten Teepavillon und alte Teebäume in den Bergen.",
+          "Historisch und kulturell enger mit den benachbarten chinesischen Regionen verbunden.",
+          "Umgeben von schroffem Bergland, das von der Modernisierung weitgehend unberührt ist."
+        ],
+        "hu": [
+          "Laosz legészakibb tartományi fővárosa, 1400 méteres tengerszint feletti magasságban fekszik.",
+          "Kína közelsége miatt jellegzetes jünnani faépítészettel rendelkezik.",
+          "A hűvösebb éghajlat ideális a magashegyi zöld tea termesztésére.",
+          "Híres egy 400 éves teapavilonról és a környező hegyekben található ősi teafákról.",
+          "Történelmileg és kulturálisan szorosabban kötődik a szomszédos kínai régiókhoz.",
+          "Zord hegyvidéki terep veszi körül, amely nagyrészt érintetlen maradt a modernizációtól."
+        ],
+        "ro": [
+          "Cea mai nordică capitală de provincie, situată la o altitudine de 1.400 de metri.",
+          "Prezintă o arhitectură distinctă din lemn de tip Yunnan datorită proximității de China.",
+          "Clima mai rece este ideală pentru cultivarea ceaiului verde de munte.",
+          "Faimos pentru un pavilion de ceai vechi de 400 de ani și copacii antici de ceai.",
+          "Istoric și cultural este mai strâns legat de regiunile chineze învecinate.",
+          "Înconjurat de teren montan accidentat care rămâne în mare parte neatins de modernizare."
+        ]
+      }
+    },
+    {
+      "id": "sekong-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "The smallest provincial capital in Laos, situated along the banks of the Sekong River.",
+          "The province was created in 1984 by carving out parts of Salavan and Attapeu.",
+          "Extremely culturally diverse, home to over 14 distinct ethnic minority groups.",
+          "Surrounded by dense tropical forests and remote mountainous landscapes.",
+          "The town lacks typical French colonial architecture due to its recent establishment.",
+          "Economy heavily relies on agriculture and small-scale river-based trade."
+        ],
+        "de": [
+          "Die kleinste Provinzhauptstadt in Laos, gelegen an den Ufern des Flusses Sekong.",
+          "Die Provinz wurde 1984 aus Teilen von Salavan und Attapeu gebildet.",
+          "Kulturell äußerst vielfältig, Heimat von über 14 verschiedenen ethnischen Minderheiten.",
+          "Umgeben von dichten tropischen Wäldern und abgelegenen Berglandschaften.",
+          "Der Stadt fehlt die typische französische Kolonialarchitektur aufgrund ihrer späten Gründung.",
+          "Die Wirtschaft basiert stark auf Landwirtschaft und kleinem Flusshandel."
+        ],
+        "hu": [
+          "Laosz legkisebb tartományi fővárosa, amely a Sekong folyó partján fekszik.",
+          "A tartományt 1984-ben hozták létre Salavan és Attapeu egyes részeinek leválasztásával.",
+          "Kulturálisan rendkívül sokszínű, több mint 14 különböző kisebbségi etnikai csoportnak ad otthont.",
+          "Sűrű trópusi erdők és távoli hegyvidéki tájak veszik körül.",
+          "Késői alapítása miatt a városban nem található meg a tipikus francia gyarmati építészet.",
+          "A gazdaság nagymértékben a mezőgazdaságra és a kisüzemi folyami kereskedelemre épül."
+        ],
+        "ro": [
+          "Cea mai mică capitală de provincie din Laos, situată pe malurile râului Sekong.",
+          "Provincia a fost creată în 1984 din părți ale provinciilor Salavan și Attapeu.",
+          "Extrem de diversă cultural, găzduind peste 14 grupuri minoritare etnice distincte.",
+          "Înconjurat de păduri tropicale dense și peisaje muntoase îndepărtate.",
+          "Orașului îi lipsește arhitectura colonială tipică datorită înființării sale recente.",
+          "Economia se bazează puternic pe agricultură și comerțul pe râu la scară mică."
+        ]
+      }
+    },
+    {
+      "id": "xaisomboun-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Xaisomboun Province, a rugged and mountainous region in central Laos.",
+          "Features Phou Bia, the highest mountain peak in Laos, located within the province.",
+          "Historically a restricted military zone, it was only recently opened to wider tourism.",
+          "The local economy is heavily driven by large-scale mining operations and agriculture.",
+          "One of the most isolated and least visited provincial capitals in the country.",
+          "Surrounded by pristine natural landscapes including caves and dense jungles."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Xaisomboun, einer bergigen Region in Zentral-Laos.",
+          "In der Provinz befindet sich Phou Bia, der höchste Berg in Laos.",
+          "Historisch eine militärische Sperrzone, wurde die Region erst kürzlich für den Tourismus geöffnet.",
+          "Die lokale Wirtschaft wird stark vom Bergbau und der Landwirtschaft angetrieben.",
+          "Eine der isoliertesten und am wenigsten besuchten Provinzhauptstädte des Landes.",
+          "Umgeben von unberührten Naturlandschaften, darunter Höhlen und dichte Dschungel."
+        ],
+        "hu": [
+          "A hegyvidéki Xaisomboun tartomány fővárosa Közép-Laoszban.",
+          "A tartományban található a Phou Bia, Laosz legmagasabb hegycsúcsa.",
+          "Történelmileg katonai zárt övezet volt, csak nemrég nyitották meg a szélesebb turizmus előtt.",
+          "A helyi gazdaságot a nagyüzemi bányászat és a mezőgazdaság hajtja.",
+          "Az ország egyik legelszigeteltebb és legkevésbé látogatott tartományi fővárosa.",
+          "Érintetlen természeti tájak, köztük barlangok és sűrű dzsungelek veszik körül."
+        ],
+        "ro": [
+          "Capitala provinciei Xaisomboun, o regiune muntoasă accidentată din centrul Laosului.",
+          "Găzduiește Phou Bia, cel mai înalt vârf de munte din Laos, situat în provincie.",
+          "Istoric o zonă militară restricționată, a fost deschisă abia recent turismului.",
+          "Economia locală este condusă de operațiunile miniere la scară largă și agricultură.",
+          "Una dintre cele mai izolate și mai puțin vizitate capitale de provincie din țară.",
+          "Înconjurat de peisaje naturale curate, inclusiv peșteri și jungle dense."
+        ]
+      }
+    },
+    {
+      "id": "phonhong-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Vientiane Province, located strategically along Route 13.",
+          "Serves primarily as an administrative and transit hub connecting the north and south.",
+          "Surrounded by extensive and fertile agricultural plains used for rice cultivation.",
+          "The nearby Nam Ngum reservoir provides significant hydroelectric power to the region.",
+          "Hosts bustling local markets that serve the surrounding rural farming villages.",
+          "Lacks major tourist attractions but offers an authentic view of everyday Lao life."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Vientiane, strategisch günstig an der Route 13 gelegen.",
+          "Dient in erster Linie als Verwaltungs- und Verkehrsknotenpunkt.",
+          "Umgeben von ausgedehnten landwirtschaftlichen Ebenen, die für den Reisanbau genutzt werden.",
+          "Der nahegelegene Nam Ngum Stausee liefert wichtige Wasserkraft für die Region.",
+          "Beherbergt belebte lokale Märkte, die die umliegenden ländlichen Dörfer versorgen.",
+          "Bietet keine großen Touristenattraktionen, aber einen authentischen Blick in den laotischen Alltag."
+        ],
+        "hu": [
+          "Vientiane tartomány fővárosa, stratégiai helyen, a 13-as út mentén helyezkedik el.",
+          "Elsősorban északot és délt összekötő közigazgatási és tranzitközpontként működik.",
+          "Rizstermesztésre használt kiterjedt és termékeny mezőgazdasági síkságok veszik körül.",
+          "A közeli Nam Ngum víztározó jelentős vízenergiát biztosít a régiónak.",
+          "Nyüzsgő helyi piacoknak ad otthont, amelyek a környező mezőgazdasági falvakat szolgálják ki.",
+          "Nagyobb turisztikai látványosságok nélküli, viszont hiteles képet ad a laoszi mindennapokról."
+        ],
+        "ro": [
+          "Capitala provinciei Vientiane, situată strategic de-a lungul Rutei 13.",
+          "Servește în primul rând ca hub administrativ și de tranzit care conectează nordul și sudul.",
+          "Înconjurat de câmpii agricole extinse și fertile folosite pentru cultivarea orezului.",
+          "Rezervorul Nam Ngum din apropiere oferă energie hidroelectrică semnificativă.",
+          "Găzduiește piețe locale aglomerate care deservesc satele agricole din jur.",
+          "Nu are atracții turistice majore, dar oferă o vedere autentică a vieții de zi cu zi."
+        ]
+      }
+    },
+    {
+      "id": "kasi-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "A small town in Vientiane Province, located on the road between Vang Vieng and Luang Prabang.",
+          "Surrounded by dramatic, towering limestone mountains and deep valleys.",
+          "Known regionally for several natural hot springs located just outside the town.",
+          "Agriculture and transit trade dominate the local economy of this rural settlement.",
+          "Features a picturesque rural landscape that is highly scenic for travelers.",
+          "A common rest stop for buses and motorists navigating the winding mountain passes."
+        ],
+        "de": [
+          "Eine kleine Stadt in der Provinz Vientiane an der Straße zwischen Vang Vieng und Luang Prabang.",
+          "Umgeben von dramatischen, hoch aufragenden Kalksteinbergen und tiefen Tälern.",
+          "Regional bekannt für mehrere natürliche heiße Quellen direkt vor den Toren der Stadt.",
+          "Landwirtschaft und Transithandel dominieren die lokale Wirtschaft dieser Siedlung.",
+          "Verfügt über eine malerische ländliche Landschaft, die für Reisende sehr reizvoll ist.",
+          "Ein beliebter Rastplatz für Busse, die die kurvigen Gebirgspässe befahren."
+        ],
+        "hu": [
+          "Egy kisváros Vientiane tartományban, a Vang Vieng és Luang Prabang közötti úton.",
+          "Drámai, tornyosuló mészkőhegyek és mély völgyek veszik körül.",
+          "Regionálisan ismert a város közvetlen közelében található természetes meleg forrásokról.",
+          "E vidéki település helyi gazdaságát a mezőgazdaság és a tranzitkereskedelem uralja.",
+          "Festői szépségű vidéki táj jellemzi, amely az utazók számára lenyűgöző látványt nyújt.",
+          "Gyakori pihenőhely a kanyargós hegyi hágókon közlekedő buszok és autósok számára."
+        ],
+        "ro": [
+          "Un mic oraș în provincia Vientiane, pe drumul dintre Vang Vieng și Luang Prabang.",
+          "Înconjurat de munți de calcar dramatici și văi adânci.",
+          "Cunoscut la nivel regional pentru mai multe izvoare termale naturale de la periferie.",
+          "Agricultura și comerțul de tranzit domină economia locală a acestei așezări rurale.",
+          "Prezintă un peisaj rural pitoresc, care este foarte pitoresc pentru călători.",
+          "Un popas comun pentru autobuze și șoferi care navighează pe trecătorile montane șerpuite."
+        ]
+      }
+    }
+  ]
+}

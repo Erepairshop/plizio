@@ -1,0 +1,92 @@
+{
+  "lang": "hu",
+  "country": "Uzbekistan",
+  "files": [
+    "lib/visualLab/data/poiExtraUzbekistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fergana-cities-v2",
+      "description": "Az ország keleti részén, a Fergana-völgyben elhelyezkedő jelentős ipari és kulturális központ.",
+      "facts": ["Népessége kb. 200 000 fő", "Fontos olajipari központ", "A Fergana-völgy központja"]
+    },
+    {
+      "id": "shahrisabz-cities-v2",
+      "description": "Történelmi város, Timur Lenk szülőhelye, ahol számos középkori emlék maradt fenn.",
+      "facts": ["Timur Lenk szülővárosa", "UNESCO világörökségi helyszín", "Közép-Ázsia egyik legősibb városa"]
+    },
+    {
+      "id": "zarafshan-cities-v2",
+      "description": "A Kyzylkum-sivatag szívében fekvő modern város, amely az aranybányászatáról ismert.",
+      "facts": ["Aranybányászati központ", "A sivatag közepén épült", "Modern ipari város"]
+    },
+    {
+      "id": "yangiyul-cities-v2",
+      "description": "Taskent közelében elhelyezkedő mezőgazdasági és feldolgozóipari központ.",
+      "facts": ["Taskent megyében fekszik", "Mezőgazdasági régió", "Fontos élelmiszeripari központ"]
+    },
+    {
+      "id": "khodjeyli-cities-v2",
+      "description": "Karakalpaksztán egyik városa, amely közel fekszik Nukushoz, az autonóm köztársaság központjához.",
+      "facts": ["Karakalpaksztán része", "Jelentős kereskedelmi központ", "Közel az Amu-darjához"]
+    },
+    {
+      "id": "po-i-kalyan-bukhara-history-v2",
+      "description": "Bukhara legfontosabb épületegyüttese, amely a híres minaretet és a hozzá kapcsolódó mecseteket foglalja magában.",
+      "facts": ["A 12. századi Kalyan-minaret", "Közép-ázsiai iszlám építészet", "Bukhara történelmi szíve"]
+    },
+    {
+      "id": "chor-minor-bukhara-history-v2",
+      "description": "Egyedi építésű, négytornyú kis medresze Bukhara történelmi negyedében.",
+      "facts": ["Négytornyú építmény", "A 19. században épült", "Bukhara egyik ikonikus épülete"]
+    },
+    {
+      "id": "kok-gumbaz-mosque-shahrisabz-history-v2",
+      "description": "Monumentális mecset Shahrisabzban, amelyet Ulug bég építtetett a 15. században.",
+      "facts": ["15. századi építészet", "Ulug bég mecsetje", "Kék kupolás épület"]
+    },
+    {
+      "id": "minor-mosque-landmarks-v2",
+      "description": "Taskent egyik legmodernebb és legszebb mecsetje, amelyet fehér márvány díszít.",
+      "facts": ["Fehér márványból épült", "Taskentben található", "Modern vallási épület"]
+    },
+    {
+      "id": "sitorai-mokhi-khosa-landmarks-v2",
+      "description": "A bukharai emírek egykori nyári palotája, amely ötvözi a kelet és az orosz stílust.",
+      "facts": ["Bukhara emíreinek palotája", "Nyári rezidencia", "Keleti és orosz építészet"]
+    },
+    {
+      "id": "siyob-bazaar-landmarks-v2",
+      "description": "Szamarkand legrégebbi és legnagyobb hagyományos piaca a Bibi-Khanym mecset mellett.",
+      "facts": ["Szamarkand központi piaca", "Évszázados kereskedelmi hely", "Helyi fűszerek és édességek"]
+    },
+    {
+      "id": "afrosiyob-museum-landmarks-v2",
+      "description": "Múzeum Szamarkand ókori lelőhelyén, amely az ősi város történetét mutatja be.",
+      "facts": ["Ókori falfestmények", "Szamarkand alapítása", "Régészeti leletek"]
+    },
+    {
+      "id": "kalta-minor-landmarks-v2",
+      "description": "Khiva ikonikus, élénk kék csempékkel díszített minaretje, amely befejezetlen maradt.",
+      "facts": ["Khiva jelképe", "Befejezetlen minaret", "Élénk kék kerámia"]
+    },
+    {
+      "id": "tash-khauli-palace-landmarks-v2",
+      "description": "A khivai kánok gazdagon díszített, erődítményszerű palotája a belső városban.",
+      "facts": ["Khiva kánjainak otthona", "Gazdag kerámia díszek", "Belső udvarok"]
+    },
+    {
+      "id": "savitsky-art-museum-landmarks-v2",
+      "description": "Nukusban található művészeti múzeum, amely a világ egyik legjelentősebb avantgárd gyűjteményével rendelkezik.",
+      "facts": ["Avantgárd művészeti alkotások", "Nukusban található", "Igor Savitsky alapította"]
+    },
+    {
+      "id": "kyzylkum-desert-relief-v2",
+      "description": "Közép-Ázsia egyik legnagyobb sivataga, amely Üzbegisztán nagy részét elfoglalja.",
+      "facts": ["Homokos és köves sivatag", "Közép-Ázsia legnagyobbja", "Gazdag aranylelőhelyek"]
+    }
+  ]
+}

@@ -399,9 +399,9 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-YUC",
     coords: [-89.0, 20.5],
     name: { de: "Halbinsel Yucatán", hu: "Yucatán-félsziget", ro: "Peninsula Yucatán", en: "Peninsula Yucatán" },
-    description: { de: "Eine flache Kalksteinplatte zwischen Golf und Karibik.", hu: "Lapos mészkőfennsík az Öböl és a Karib-tenger között.", ro: "Un platou de calcar plat între Golf și Caraibe.", en: "A flat limestone plateau between the Gulf and the Caribbean." },
+    description: { de: "Eine flache Kalksteinhalbinsel, die für ihre Abwesenheit von oberirdischen Flüssen und ihre Cenoten bekannt ist.", hu: "Lapos mészkőfennsík az Öböl és a Karib-tenger között.", ro: "Un platou de calcar plat între Golf și Caraibe.", en: "A flat limestone plateau between the Gulf and the Caribbean." },
     facts: {
-      de: ["Keine oberirdischen Flüsse.", "Viele Cenoten."],
+      de: ["Großes unterirdisches Wassersystem", "Zentrum der Maya-Kultur", "Flache, dschungelbedeckte Ebene"],
       hu: ["Nincsenek felszíni folyók.", "Sok cenote."],
       ro: ["Fără râuri de suprafață.", "Multe cenote."],
       en: ["No surface rivers.", "Many cenotes."]
@@ -584,9 +584,9 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-COA",
     coords: [-100.5, 25.4],
     name: { de: "Sierra de Arteaga", hu: "Sierra de Arteaga", ro: "Sierra de Arteaga", en: "Sierra de Arteaga" },
-    description: { de: "Ein Gebirgszug in Coahuila, bekannt als 'Mexikanische Schweiz'.", hu: "Hegység Coahuilában, a 'Mexikói Svájc'-ként ismert.", ro: "Un lanț muntos în Coahuila, cunoscut sub numele de 'Elveția mexicană'.", en: "A mountain range in Coahuila, known as 'Mexican Switzerland'." },
+    description: { de: "Ein Teil der Sierra Madre Oriental, oft als die 'Mexikanische Schweiz' bezeichnet.", hu: "Hegység Coahuilában, a 'Mexikói Svájc'-ként ismert.", ro: "Un lanț muntos în Coahuila, cunoscut sub numele de 'Elveția mexicană'.", en: "A mountain range in Coahuila, known as 'Mexican Switzerland'." },
     facts: {
-      de: ["Relativ kühl.", "Bekannt für seine Obstplantagen."],
+      de: ["Bekannt für Apfelplantagen", "Schneefall im Winter möglich", "Beliebtes Wandergebiet"],
       hu: ["Viszonylag hűvös.", "Gyümölcsösültetvényeiről ismert."],
       ro: ["Relativ răcoros.", "Cunoscut pentru livezile sale."],
       en: ["Relatively cool.", "Known for its orchards."]
@@ -696,9 +696,9 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-SON",
     coords: [-109.0, 30.0],
     name: { de: "Sierra Madre de Sonora", hu: "Sierra Madre de Sonora", ro: "Sierra Madre de Sonora", en: "Sierra Madre de Sonora" },
-    description: { de: "Ein Wüsten- und Berggebiet im Bundesstaat Sonora.", hu: "Sivatagi és hegyvidéki terület Sonora államban.", ro: "O zonă deșertică și montană în statul Sonora.", en: "A desert and mountain area in the state of Sonora." },
+    description: { de: "Die zerklüfteten Gebirgszüge im Norden von Sonora, die die Grenze zur Wüste bilden.", hu: "Sivatagi és hegyvidéki terület Sonora államban.", ro: "O zonă deșertică și montană în statul Sonora.", en: "A desert and mountain area in the state of Sonora." },
     facts: {
-      de: ["Grenzgebirge.", "Trockene Flora."],
+      de: ["Reich an Mineralvorkommen", "Extreme Temperaturunterschiede", "Teil der Sierra Madre Occidental"],
       hu: ["Határhegység.", "Száraz flóra."],
       ro: ["Munți de frontieră.", "Floră aridă."],
       en: ["Border mountains.", "Arid flora."]
@@ -770,9 +770,9 @@ export const poiExtraMexicoReliefV2: POI[] = [
     parent: "MX-PUE",
     coords: [-97.8, 20.2],
     name: { de: "Sierra Norte de Puebla", hu: "Sierra Norte de Puebla", ro: "Sierra Norte de Puebla", en: "Sierra Norte de Puebla" },
-    description: { de: "Ein bergiger Ausläufer der Sierra Madre Oriental.", hu: "A Sierra Madre Oriental hegyvidéki nyúlványa.", ro: "O extensie muntoasă a Sierra Madre Oriental.", en: "A mountainous extension of the Sierra Madre Oriental." },
+    description: { de: "Eine grüne, nebelverhangene Bergregion im Norden von Puebla mit vielen 'Pueblos Mágicos'.", hu: "A Sierra Madre Oriental hegyvidéki nyúlványa.", ro: "O extensie muntoasă a Sierra Madre Oriental.", en: "A mountainous extension of the Sierra Madre Oriental." },
     facts: {
-      de: ["Sehr feucht.", "Wichtiges Kaffeeanbaugebiet."],
+      de: ["Feuchtes Bergklima", "Zentrum des Kaffeeanbaus", "Heimat indigener Gemeinschaften"],
       hu: ["Nagyon csapadékos.", "Fontos kávétermesztő régió."],
       ro: ["Foarte umed.", "Regiune importantă de cultivare a cafelei."],
       en: ["Very humid.", "Important coffee-growing region."]

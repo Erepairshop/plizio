@@ -1,0 +1,437 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": ["lib/visualLab/data/poiExtraLaosLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "wat-mai-suwannaphumaham-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Wat Mai Suwannaphumaham, oft einfach Wat Mai genannt, ist einer der größten und am reichsten verzierten buddhistischen Tempel in Luang Prabang. Die im späten 18. Jahrhundert von König Anourout erbaute Anlage zeichnet sich durch ein markantes fünfstufiges Dach und eine spektakuläre, vergoldete Reliefwand an der Vorderfassade aus, die Szenen aus dem Ramayana sowie die vorletzte Inkarnation des Buddha darstellt. Der Tempel diente einst als Residenz für den obersten Patriarchen des laotischen Buddhismus und beherbergte zeitweise auch die heilige Phra Bang Statue. Dank seiner außergewöhnlichen architektonischen Schönheit wurde der Tempel 1887 von den plündernden chinesischen Haw-Rebellen verschont.",
+        "hu": "A Wat Mai Suwannaphumaham, amelyet gyakran egyszerűen Wat Mai-nak hívnak, Luang Prabang egyik legnagyobb és leggazdagabban díszített buddhista temploma. A 18. század végén, Anourout király által építtetett komplexum jellegzetessége a lenyűgöző ötszintes tetőszerkezet és a homlokzatot díszítő látványos, aranyozott dombormű, amely a Rámájana jeleneteit és Buddha utolsó előtti inkarnációját ábrázolja. A templom egykor a laoszi buddhizmus legfőbb pátriárkájának rezidenciájaként szolgált, és ideiglenesen a szent Phra Bang szobrot is itt őrizték. Kivételes építészeti szépségének köszönhetően az épületet 1887-ben a fosztogató kínai haw lázadók is megkímélték a pusztítástól.",
+        "ro": "Wat Mai Suwannaphumaham, adesea numit simplu Wat Mai, este unul dintre cele mai mari și mai bogat decorate temple budiste din Luang Prabang. Construit la sfârșitul secolului al XVIII-lea de regele Anourout, complexul este remarcat prin acoperișul său impresionant cu cinci niveluri și prin fațada spectaculoasă cu reliefuri aurite, care descriu scene din Ramayana și din penultima încarnare a lui Buddha. Templul a servit cândva ca reședință pentru patriarhul suprem al budismului laotian și a găzduit temporar și statuia sacră Phra Bang. Datorită frumuseții sale arhitecturale excepționale, templul a fost cruțat de distrugere de către rebelii chinezi Haw în anul 1887.",
+        "en": "Wat Mai Suwannaphumaham, often simply referred to as Wat Mai, is one of the largest and most richly decorated Buddhist temples in Luang Prabang. Built in the late 18th century by King Anourout, the complex is distinguished by its striking five-tiered roof and a spectacular gilded relief on its front façade, depicting scenes from the Ramayana and the penultimate incarnation of Lord Buddha. The temple once served as the residence for the supreme patriarch of Lao Buddhism and temporarily housed the sacred Phra Bang statue. Due to its exceptional architectural beauty, the temple was famously spared from destruction by Chinese Haw raiders in 1887."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wurde im späten 18. Jahrhundert von König Anourout erbaut",
+          "Zählt zu den größten erhaltenen Tempelanlagen in Luang Prabang",
+          "Ist berühmt für seine kunstvollen, vergoldeten Fassadenreliefs",
+          "Verfügt über ein traditionelles, fünfstufiges Dach",
+          "Diente historisch als Residenz des obersten buddhistischen Patriarchen",
+          "Wurde wegen seiner Schönheit 1887 von Plünderern verschont"
+        ],
+        "hu": [
+          "A 18. század végén épült Anourout laoszi király uralkodása alatt",
+          "Luang Prabang legnagyobb fennmaradt templomkomplexumai közé tartozik",
+          "Híres az elülső homlokzatot díszítő aranyozott domborművekről",
+          "Hagyományos, feltűnő ötszintes tetőszerkezettel rendelkezik",
+          "Történelmileg a legfőbb buddhista pátriárka rezidenciája volt",
+          "Szépsége miatt a fosztogatók 1887-ben megkímélték a lerombolástól"
+        ],
+        "ro": [
+          "A fost construit la sfârșitul secolului al XVIII-lea de regele Anourout",
+          "Este unul dintre cele mai mari complexe de temple din Luang Prabang",
+          "Este renumit pentru reliefurile aurite elaborate de pe fațada principală",
+          "Prezintă un acoperiș tradițional, impresionant, cu cinci niveluri",
+          "A servit istoric drept reședință a patriarhului budist suprem",
+          "A fost cruțat de jefuitori în 1887 datorită frumuseții sale"
+        ],
+        "en": [
+          "Was built in the late 18th century during the reign of King Anourout",
+          "Is one of the largest surviving temple complexes in Luang Prabang",
+          "Is famous for its elaborate gilded relief carvings on the front façade",
+          "Features a traditional and striking five-tiered sweeping roof",
+          "Historically served as the residence for the supreme Buddhist patriarch",
+          "Was spared from destruction by raiders in 1887 due to its beauty"
+        ]
+      }
+    },
+    {
+      "id": "viengxay-caves-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Viengxay-Höhlen in der nordöstlichen Provinz Houaphanh bilden ein ausgedehntes und historisch hochbedeutendes unterirdisches Netzwerk. Während des sogenannten Geheimen Krieges (1964–1973) dienten diese natürlichen Kalksteinhöhlen als gut getarntes Hauptquartier der Pathet Lao. Um den massiven amerikanischen Bombenangriffen zu entgehen, lebten hier bis zu 20.000 Menschen dauerhaft im Untergrund. Das gewaltige Höhlensystem wurde zu einer funktionsfähigen \"verborgenen Stadt\" ausgebaut und beherbergte neben militärischen Einrichtungen auch ein Krankenhaus, Schulen, Bäckereien, Geschäfte und sogar ein Theater. Heute können Besucher die historischen Stätten besichtigen und einen tiefen Einblick in die Überlebensstrategien während des Krieges gewinnen.",
+        "hu": "Az északkeleti Houaphanh tartományban található Viengxay barlangok kiterjedt és történelmileg rendkívül jelentős földalatti hálózatot alkotnak. Az úgynevezett titkos háború (1964–1973) idején ezek a természetes mészkőbarlangok szolgáltak a Pathet Lao jól álcázott főhadiszállásaként. A heves amerikai bombázások elől menekülve akár 20 000 ember is folyamatosan a föld alatt élt. A hatalmas barlangrendszert egy működőképes \"rejtett várossá\" fejlesztették, amely a katonai létesítmények mellett kórháznak, iskoláknak, pékségeknek, üzleteknek, sőt egy színháznak is otthont adott. Ma a látogatók bejárhatják a történelmi helyszíneket, és mélyebb bepillantást nyerhetnek a háború alatti túlélési stratégiákba.",
+        "ro": "Peșterile Viengxay din provincia de nord-est Houaphanh formează o rețea subterană extinsă și de o importanță istorică majoră. În timpul așa-numitului Război Secret (1964-1973), aceste peșteri naturale din calcar au servit drept sediu bine ascuns al mișcării Pathet Lao. Pentru a scăpa de bombardamentele americane masive, până la 20.000 de oameni au trăit permanent în subteran. Sistemul imens de peșteri a fost transformat într-un \"oraș ascuns\" funcțional, adăpostind, pe lângă facilitățile militare, un spital, școli, brutării, magazine și chiar un teatru. Astăzi, vizitatorii pot explora siturile istorice și pot obține o perspectivă profundă asupra strategiilor de supraviețuire din timpul războiului.",
+        "en": "The Viengxay Caves in the northeastern province of Houaphanh form an extensive and historically highly significant underground network. During the so-called Secret War (1964–1973), these natural limestone caves served as the well-hidden headquarters of the Pathet Lao movement. To escape the massive American bombing campaigns, up to 20,000 people lived permanently underground. The vast cave system was developed into a functional \"hidden city\", housing not only military facilities but also a hospital, schools, bakeries, shops, and even a theatre. Today, visitors can tour the historical sites and gain a profound insight into the survival strategies employed during the war."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Diente von 1964 bis 1973 als Hauptquartier der Pathet Lao",
+          "Bot während der Bombenangriffe bis zu 20.000 Menschen Schutz",
+          "Das Netzwerk umfasste unterirdische Krankenhäuser und Schulen",
+          "Wurde oft als die Verborgene Stadt von Laos bezeichnet",
+          "Befindet sich in einer abgelegenen Kalkstein-Karstlandschaft",
+          "Beherbergte sogar ein eigenes funktionierendes Theater"
+        ],
+        "hu": [
+          "1964 és 1973 között a Pathet Lao mozgalom főhadiszállása volt",
+          "A bombázások alatt akár 20 000 ember számára is menedéket nyújtott",
+          "A hálózat földalatti kórházakat és működő iskolákat is magában foglalt",
+          "Gyakran Laosz Rejtett Városaként hivatkoznak a barlangrendszerre",
+          "Egy távoli és nehezen megközelíthető mészkő karsztvidéken található",
+          "A barlangokban még egy saját, működő színház is helyet kapott"
+        ],
+        "ro": [
+          "A servit drept sediu central pentru Pathet Lao între 1964 și 1973",
+          "A oferit adăpost pentru până la 20.000 de persoane în timpul bombardamentelor",
+          "Rețeaua a inclus spitale subterane și școli complet funcționale",
+          "A fost deseori denumit Orașul Ascuns din Laos",
+          "Este situat într-un peisaj carstic de calcar izolat și îndepărtat",
+          "Complexul găzduia chiar și propriul teatru funcțional"
+        ],
+        "en": [
+          "Served as the headquarters of the Pathet Lao from 1964 to 1973",
+          "Provided shelter for up to 20,000 people during the bombing raids",
+          "The network included subterranean hospitals and functioning schools",
+          "Was frequently referred to as the Hidden City of Laos",
+          "Is located in a remote and rugged limestone karst landscape",
+          "The cave complex even housed its own functioning theatre"
+        ]
+      }
+    },
+    {
+      "id": "pak-ou-caves-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Pak-Ou-Höhlen sind ein faszinierendes religiöses Heiligtum, das in eine steile Kalksteinklippe etwa 25 Kilometer nördlich von Luang Prabang direkt am Ufer des Mekong-Flusses gehauen ist. Das System besteht aus zwei miteinander verbundenen Höhlen, Tham Ting (die untere) und Tham Theung (die obere). Über Jahrhunderte hinweg wurden diese Höhlen von gläubigen Pilgern besucht, die als Opfergabe kleine Buddha-Figuren hinterließen. Heute beherbergen die Grotten weit über 4.000 Miniatur-Statuen des Buddha, die aus Holz, Harz und Tierhorn geschnitzt sind und verschiedene klassische Posen einnehmen. Die abgelegenen Höhlen können ausschließlich auf dem Wasserweg mit traditionellen Booten erreicht werden.",
+        "hu": "A Pak Ou-barlangok egy lenyűgöző vallási szentélyt alkotnak, amelyet egy meredek mészkősziklába vájtak körülbelül 25 kilométerre északra Luang Prabangtól, közvetlenül a Mekong folyó partján. A rendszer két egymással összeköttetésben álló barlangból áll: Tham Ting (alsó) és Tham Theung (felső). Évszázadokon keresztül látogatták ezeket a barlangokat a hívő zarándokok, akik áldozatként apró Buddha-figurákat hagytak hátra. Ma a barlangok jóval több mint 4000 miniatűr Buddha-szobrot őriznek, amelyeket fából, gyantából és állati szarvból faragtak, és különféle klasszikus pózokat vesznek fel. A félreeső barlangokat kizárólag vízi úton, hagyományos csónakokkal lehet megközelíteni.",
+        "ro": "Peșterile Pak Ou reprezintă un sanctuar religios fascinant sculptat într-o stâncă abruptă de calcar, la aproximativ 25 de kilometri nord de Luang Prabang, direct pe malul râului Mekong. Sistemul este format din două peșteri interconectate, Tham Ting (cea inferioară) și Tham Theung (cea superioară). De-a lungul secolelor, aceste peșteri au fost vizitate de pelerini devotați care au lăsat mici figurine ale lui Buddha ca ofrandă. Astăzi, grotele adăpostesc mult peste 4.000 de statuete miniaturale ale lui Buddha, sculptate din lemn, rășină și corn de animal, abordând diverse ipostaze clasice. Peșterile izolate pot fi accesate doar pe apă, folosind bărci tradiționale.",
+        "en": "The Pak Ou Caves are a fascinating religious sanctuary carved into a steep limestone cliff about 25 kilometres north of Luang Prabang, directly on the banks of the Mekong River. The system consists of two interconnected caves, Tham Ting (the lower) and Tham Theung (the upper). Over the centuries, these caves have been visited by devout pilgrims who left small Buddha figures as offerings. Today, the grottos house well over 4,000 miniature statues of Lord Buddha, carved from wood, resin, and animal horn, depicting various classical poses. The remote caves can only be reached by water using traditional boats."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegen etwa 25 Kilometer flussaufwärts von Luang Prabang",
+          "Das Höhlensystem ist nur über den Mekong mit dem Boot erreichbar",
+          "Besteht aus zwei getrennten, aber benachbarten Haupthöhlen",
+          "Beherbergt mehr als 4.000 historische Miniatur-Buddha-Statuen",
+          "Die Opfergaben wurden von Pilgern über Jahrhunderte hinterlassen",
+          "Die Statuen sind überwiegend aus Holz und Baumharz gefertigt"
+        ],
+        "hu": [
+          "Nagyjából 25 kilométerre folyásirányban fekszik Luang Prabangtól",
+          "A barlangrendszer kizárólag a Mekong folyón csónakkal közelíthető meg",
+          "Két különálló, de egymás mellett elhelyezkedő fő barlangból áll",
+          "Több mint 4000 történelmi miniatűr Buddha-szobrot rejt magában",
+          "Az apró adományokat vallásos zarándokok hagyták itt évszázadok alatt",
+          "A szobrok túlnyomó többsége fából és fagyantából készült"
+        ],
+        "ro": [
+          "Se află la aproximativ 25 de kilometri în amonte de Luang Prabang",
+          "Sistemul de peșteri este accesibil doar cu barca pe râul Mekong",
+          "Este alcătuit din două peșteri principale separate, dar învecinate",
+          "Găzduiește mai mult de 4.000 de statui miniaturale istorice ale lui Buddha",
+          "Ofrandele au fost lăsate de pelerini devotați de-a lungul secolelor",
+          "Statuile sunt realizate predominant din lemn și din rășină de copac"
+        ],
+        "en": [
+          "Are located approximately 25 kilometres upstream from Luang Prabang",
+          "The cave system is exclusively accessible by boat via the Mekong River",
+          "Consists of two separate but closely neighbouring main caves",
+          "Houses more than 4,000 historical miniature statues of Lord Buddha",
+          "The offerings were left by devout religious pilgrims over centuries",
+          "The statues are predominantly crafted from wood and tree resin"
+        ]
+      }
+    },
+    {
+      "id": "mount-phousi-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Berg Phousi ist ein rund 100 Meter hoher Hügel im Herzen von Luang Prabang, der auf einer Halbinsel am Zusammenfluss von Mekong und Nam Khan aufragt. Wegen seiner zentralen und erhöhten Lage ist er der beliebteste Aussichtspunkt der Stadt, besonders in den späten Nachmittagsstunden, wenn sich Hunderte von Besuchern versammeln, um den spektakulären Sonnenuntergang über dem Mekong und den umliegenden Bergen zu beobachten. Der Hügel ist auch eine wichtige spirituelle Stätte und beherbergt mehrere buddhistische Schreine entlang der Aufstiegswege. Auf dem Gipfel thront der Wat Chom Si, eine Tempelanlage, deren markanter goldener Stupa im Jahr 1804 erbaut wurde und weithin sichtbar ist.",
+        "hu": "A Phousi-hegy egy körülbelül 100 méter magas domb Luang Prabang szívében, amely a Mekong és a Nam Khan folyók összefolyásánál lévő félszigeten emelkedik. Központi és magaslati elhelyezkedése miatt a város legnépszerűbb kilátópontja, különösen a késő délutáni órákban, amikor látogatók százai gyűlnek össze, hogy megcsodálják a látványos naplementét a Mekong és a környező hegyek felett. A domb egyben fontos spirituális helyszín is, és a felvezető utak mentén számos buddhista szentélynek ad otthont. A csúcson a Wat Chom Si templomkomplexum trónol, amelynek messziről látható, jellegzetes arany sztúpája 1804-ben épült.",
+        "ro": "Muntele Phousi este un deal înalt de aproximativ 100 de metri în inima orașului Luang Prabang, situat pe o peninsulă la confluența râurilor Mekong și Nam Khan. Datorită locației sale centrale și ridicate, este cel mai popular punct de belvedere din oraș, mai ales în orele târzii ale după-amiezii, când sute de vizitatori se adună pentru a privi apusul spectaculos peste Mekong și munții din jur. Dealul este, de asemenea, un important sit spiritual, găzduind mai multe sanctuare budiste de-a lungul potecilor de ascensiune. În vârf se află complexul templului Wat Chom Si, a cărui stupă de aur distinctivă a fost construită în 1804 și este vizibilă de la mare distanță.",
+        "en": "Mount Phousi is a roughly 100-metre-high hill in the heart of Luang Prabang, rising on a peninsula at the confluence of the Mekong and Nam Khan rivers. Due to its central and elevated location, it is the city's most popular vantage point, especially in the late afternoon when hundreds of visitors gather to watch the spectacular sunset over the Mekong and the surrounding mountains. The hill is also an important spiritual site, housing several Buddhist shrines along the winding ascent paths. At the summit sits the Wat Chom Si temple complex, whose distinctive golden stupa was built in 1804 and is visible from far away."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erhebt sich 100 Meter hoch im Zentrum von Luang Prabang",
+          "Ist berühmt als der beste Ort für Sonnenuntergänge in der Stadt",
+          "Liegt strategisch zwischen dem Mekong und dem Nam Khan Fluss",
+          "Auf dem Gipfel befindet sich der 1804 erbaute Tempel Wat Chom Si",
+          "Mehrere buddhistische Schreine säumen die gewundenen Treppenwege",
+          "Die goldene Stupa auf der Spitze ist ein Wahrzeichen der Stadt"
+        ],
+        "hu": [
+          "100 méter magasan emelkedik Luang Prabang történelmi központjában",
+          "A város legjobb és legnépszerűbb naplemente-néző helyeként híres",
+          "Stratégiailag a Mekong és a Nam Khan folyók között helyezkedik el",
+          "A csúcson az 1804-ben emelt Wat Chom Si buddhista templom áll",
+          "A kanyargós lépcsőket számos apró buddhista szentély szegélyezi",
+          "A hegy tetején lévő arany sztúpa a város egyik fő tájékozódási pontja"
+        ],
+        "ro": [
+          "Se ridică la 100 de metri înălțime în centrul orașului Luang Prabang",
+          "Este faimos ca fiind cel mai bun loc pentru a privi apusul din oraș",
+          "Este situat strategic între cursurile râurilor Mekong și Nam Khan",
+          "Pe vârf se află templul Wat Chom Si, construit în anul 1804",
+          "Mai multe sanctuare budiste mărginesc cărările în trepte șerpuitoare",
+          "Stupa de aur din vârf este un punct de reper major al orașului"
+        ],
+        "en": [
+          "Rises 100 metres high in the historical centre of Luang Prabang",
+          "Is famous as the premier spot for watching sunsets in the city",
+          "Is strategically located between the Mekong and Nam Khan rivers",
+          "At the summit sits the Wat Chom Si temple, constructed in 1804",
+          "Several small Buddhist shrines line the winding stepped pathways",
+          "The golden stupa at the top is a major landmark of the cityscape"
+        ]
+      }
+    },
+    {
+      "id": "kong-lor-cave-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kong-Lor-Höhle, eingebettet im Nationalpark Phou Hin Bun in der Provinz Khammouane, ist eines der beeindruckendsten geologischen Wunder von Laos. Es handelt sich um ein gigantisches, 7,5 Kilometer langes Höhlensystem in einem Karstkalksteinberg, das vom durchfließenden Nam-Hinboun-Fluss ausgewaschen wurde. Besucher erkunden das unterirdische Labyrinth in traditionellen motorisierten Langbooten, die sie durch fast völlige Dunkelheit navigieren. An einigen Stellen erreicht die Höhlenkammer gigantische Ausmaße von bis zu 90 Metern Breite und 100 Metern Höhe. Neben massiven Stalaktiten und Stalagmiten können Touristen an einer beleuchteten Stelle auch einen heiligen, smaragdgrün schimmernden Pool bewundern.",
+        "hu": "A Khammouane tartománybeli Phou Hin Bun Nemzeti Parkban megbúvó Kong Lor-barlang Laosz egyik leglenyűgözőbb geológiai csodája. Ez egy gigantikus, 7,5 kilométer hosszú barlangrendszer egy karsztmészkő hegyben, amelyet az azon keresztülfolyó Nam Hinboun folyó vájt ki. A látogatók hagyományos, motoros hosszúhajókkal fedezik fel a földalatti labirintust, miközben szinte teljes sötétségben navigálnak. Egyes helyeken a barlang terme gigantikus méreteket ölt: elérheti a 90 méteres szélességet és a 100 méteres magasságot is. A hatalmas cseppkövek mellett a turisták egy kivilágított szakaszon egy szent, smaragdzölden csillogó medencét is megcsodálhatnak.",
+        "ro": "Peștera Kong Lor, situată în Parcul Național Phou Hin Bun din provincia Khammouane, este una dintre cele mai impresionante minuni geologice din Laos. Este un sistem gigantic de peșteri, lung de 7,5 kilometri, într-un munte de calcar carstic, care a fost sculptat de râul Nam Hinboun ce curge prin el. Vizitatorii explorează labirintul subteran în bărci tradiționale lungi cu motor, navigând printr-o întuneric aproape total. În unele locuri, camera peșterii atinge proporții gigantice de până la 90 de metri lățime și 100 de metri înălțime. Pe lângă stalactitele și stalagmitele masive, turiștii pot admira și o piscină sacră de culoarea smaraldului, într-o zonă iluminată.",
+        "en": "The Kong Lor Cave, nestled in the Phou Hin Bun National Park in Khammouane Province, is one of the most impressive geological wonders in Laos. It is a gigantic, 7.5-kilometre-long cave system within a karst limestone mountain, carved out by the Nam Hinboun River flowing directly through it. Visitors explore the subterranean labyrinth in traditional motorised longtail boats, navigating through almost pitch darkness. In certain areas, the cave chamber reaches gigantic proportions of up to 90 metres wide and 100 metres high. Alongside massive stalactites and stalagmites, tourists can also marvel at a sacred, emerald-coloured pool in an illuminated section."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstreckt sich über eine beeindruckende Länge von 7,5 Kilometern",
+          "Wird in voller Länge vom Fluss Nam Hinboun durchflossen",
+          "Besucher erkunden die Dunkelheit in motorisierten Langbooten",
+          "Die Höhlendecke erreicht teilweise Höhen von bis zu 100 Metern",
+          "Liegt abgelegen im geschützten Nationalpark Phou Hin Bun",
+          "Beherbergt einen als heilig geltenden, smaragdgrünen Wasserpool"
+        ],
+        "hu": [
+          "Lenyűgöző, mintegy 7,5 kilométeres teljes hosszúságban nyúlik el",
+          "A teljes hosszában a Nam Hinboun folyó kanyarog keresztül rajta",
+          "A látogatók motoros hosszúcsónakokban fedezik fel a sötétséget",
+          "A barlang mennyezete néhol eléri a megdöbbentő 100 méteres magasságot",
+          "Távol eső helyen, a védett Phou Hin Bun Nemzeti Parkban fekszik",
+          "Egy szentként tisztelt, smaragdzöld vizű medencét rejt a mélyben"
+        ],
+        "ro": [
+          "Se întinde pe o lungime impresionantă de exact 7,5 kilometri",
+          "Este străbătută pe toată lungimea sa de cursul râului Nam Hinboun",
+          "Vizitatorii explorează întunericul în bărci lungi motorizate",
+          "Tavanul peșterii atinge pe alocuri înălțimi de până la 100 de metri",
+          "Este situată într-o zonă izolată din Parcul Național Phou Hin Bun",
+          "Adăpostește o piscină cu apă de smarald, considerată sacră"
+        ],
+        "en": [
+          "Extends over an impressive total length of 7.5 kilometres",
+          "Is traversed along its entire length by the Nam Hinboun River",
+          "Visitors explore the deep darkness in motorised longtail boats",
+          "The cave ceiling reaches towering heights of up to 100 metres in places",
+          "Is remotely located within the protected Phou Hin Bun National Park",
+          "Houses a naturally emerald-coloured water pool that is considered sacred"
+        ]
+      }
+    },
+    {
+      "id": "wat-visounnarath-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Wat Visounnarath, weithin bekannt als Wat Visoun, ist der älteste noch in Betrieb befindliche Tempel in Luang Prabang. Er wurde 1512 von König Visounnarath gegründet und beherbergte ursprünglich die heilige Phra Bang Buddha-Statue. Obwohl das Bauwerk 1887 von chinesischen Haw-Plünderern niedergebrannt wurde, konnte es 1898 originalgetreu wieder aufgebaut werden. Das auffälligste architektonische Merkmal ist der einzigartige That Makmo, auch \"Wassermelonen-Stupa\" genannt, der aufgrund seiner ungewöhnlichen halbkugelförmigen Gestalt stark von den typisch spitz zulaufenden laotischen Stupas abweicht. Im Inneren des Tempels befindet sich eine bemerkenswerte Sammlung alter hölzerner Buddha-Statuen, die oft stehend und den Regen herbeirufend dargestellt sind.",
+        "hu": "A Wat Visounnarath, amelyet széles körben Wat Visoun néven ismernek, Luang Prabang legrégebbi, még ma is működő temploma. A szentélyt 1512-ben alapította Visounnarath király, és eredetileg a szent Phra Bang Buddha-szobornak adott otthont. Bár az építményt 1887-ben a kínai haw fosztogatók porig égették, 1898-ban az eredeti tervek alapján újjáépítették. A legfeltűnőbb építészeti eleme az egyedülálló That Makmo, vagyis a \"Görögdinnye Sztúpa\", amely szokatlan, félgömb alakja miatt élesen eltér a tipikus, hegyesedő laoszi sztúpáktól. A templom belsejében régi fa Buddha-szobrok figyelemre méltó gyűjteménye található, amelyek gyakran álló, esőt hívó pózban vannak ábrázolva.",
+        "ro": "Wat Visounnarath, cunoscut pe scară largă sub numele de Wat Visoun, este cel mai vechi templu care încă funcționează din Luang Prabang. A fost fondat în 1512 de regele Visounnarath și a găzduit inițial statuia sacră Phra Bang a lui Buddha. Deși structura a fost arsă din temelii de jefuitorii chinezi Haw în 1887, a fost reconstruită fidel în anul 1898. Cea mai izbitoare caracteristică arhitecturală este unicul That Makmo, denumit și \"Stupa Pepene Verde\", care, datorită formei sale hemisferice neobișnuite, diferă puternic de stupele laotiene tipic ascuțite. În interiorul templului se află o colecție remarcabilă de statui vechi din lemn ale lui Buddha, adesea înfățișate stând în picioare și chemând ploaia.",
+        "en": "Wat Visounnarath, widely known as Wat Visoun, is the oldest continuously operating temple in Luang Prabang. It was founded in 1512 by King Visounnarath and originally housed the sacred Phra Bang Buddha statue. Although the structure was burned to the ground by Chinese Haw raiders in 1887, it was faithfully rebuilt in 1898. The most striking architectural feature is the unique That Makmo, also called the \"Watermelon Stupa\", which, due to its unusual hemispherical shape, differs sharply from typical tapering Lao stupas. Inside the temple lies a remarkable collection of ancient wooden Buddha statues, often depicted standing and calling for rain."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wurde 1512 gegründet und ist der älteste funktionierende Tempel der Stadt",
+          "Beherbergte einst die hochverehrte heilige Phra Bang Statue",
+          "Wurde 1887 durch ein Feuer zerstört und später wiederaufgebaut",
+          "Verfügt über die halbkugelförmige sogenannte Wassermelonen-Stupa",
+          "Beherbergt eine große Sammlung historischer Holz-Buddhas",
+          "Die Buddhas zeigen oft die für Laos typische regenfordernde Geste"
+        ],
+        "hu": [
+          "1512-ben alapították, a város legrégebbi működő temploma",
+          "Egykor a mélyen tisztelt szent Phra Bang szobrot őrizte",
+          "1887-ben egy tűzvész elpusztította, majd 1898-ban újjáépült",
+          "Itt található a szokatlan, félgömb alakú Görögdinnye Sztúpa",
+          "Történelmi fa Buddha-szobrok hatalmas gyűjteményének ad otthont",
+          "A szobrok gyakran a Laoszra jellemző esőváró kéztartást mutatják"
+        ],
+        "ro": [
+          "Fondat în 1512, este cel mai vechi templu funcțional din oraș",
+          "A găzduit cândva venerata statuie sacră Phra Bang",
+          "A fost distrus de un incendiu în 1887 și ulterior reconstruit",
+          "Dispune de o stupă hemisferică neobișnuită, numită Stupa Pepene Verde",
+          "Găzduiește o mare colecție de statui istorice din lemn ale lui Buddha",
+          "Statuile prezintă adesea gestul tipic laotian de chemare a ploii"
+        ],
+        "en": [
+          "Founded in 1512, it is the oldest continuously functioning temple in the city",
+          "Once served as the home for the highly venerated sacred Phra Bang statue",
+          "Was destroyed by fire in 1887 and subsequently faithfully reconstructed",
+          "Features an unusual hemispherical structure known as the Watermelon Stupa",
+          "Houses a large and significant collection of historical wooden Buddha statues",
+          "The statues frequently depict the characteristic Lao rain-calling gesture"
+        ]
+      }
+    },
+    {
+      "id": "cope-visitor-centre-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das COPE Visitor Centre in Vientiane ist ein bewegendes Museum, das von der Cooperative Orthotic and Prosthetic Enterprise betrieben wird. Die Ausstellung beleuchtet die anhaltenden, verheerenden Auswirkungen von Blindgängern (Unexploded Ordnance, UXO), die während des Geheimen Krieges in Laos (1964–1973) von den USA abgeworfen wurden. Laos gilt als das am stärksten bombardierte Land der Geschichte, und das Zentrum dokumentiert dieses Erbe durch hängende Streubomben, historische Dokumentarfilme und persönliche Geschichten von Überlebenden. Eine Hauptaufgabe von COPE ist es, Bewusstsein zu schaffen und Spenden zu sammeln, um Opfern durch Prothesen, Rollstühle und Rehabilitationsprogramme eine Rückkehr in den Alltag zu ermöglichen.",
+        "hu": "A vientiáni COPE Visitor Centre egy megrázó múzeum, amelyet a Cooperative Orthotic and Prosthetic Enterprise működtet. A kiállítás bemutatja az Egyesült Államok által a laoszi titkos háború (1964–1973) során ledobott fel nem robbant bombák (UXO) folyamatos, pusztító hatásait. Laosz a történelem leginkább lebombázott országa, és a központ ezt az örökséget felfüggesztett kazettás bombákkal, történelmi dokumentumfilmekkel és a túlélők személyes történeteivel dokumentálja. A COPE egyik fő feladata a figyelemfelhívás és az adománygyűjtés, hogy művégtagokkal, kerekesszékekkel és rehabilitációs programokkal segítsék az áldozatok visszatérését a mindennapi életbe.",
+        "ro": "Centrul de vizitatori COPE din Vientiane este un muzeu emoționant operat de Cooperative Orthotic and Prosthetic Enterprise. Expoziția evidențiază impactul devastator și continuu al munițiilor neexplodate (UXO) aruncate de Statele Unite în timpul Războiului Secret din Laos (1964-1973). Laosul este considerată cea mai bombardată țară din istorie, iar centrul documentează această moștenire prin bombe cu dispersie suspendate, documentare istorice și povești personale ale supraviețuitorilor. Unul dintre obiectivele principale ale COPE este de a crește gradul de conștientizare și de a strânge fonduri pentru a ajuta victimele să se întoarcă la viața de zi cu zi, oferind proteze, scaune cu rotile și programe de reabilitare.",
+        "en": "The COPE Visitor Centre in Vientiane is a moving museum operated by the Cooperative Orthotic and Prosthetic Enterprise. The exhibition highlights the ongoing, devastating impact of Unexploded Ordnance (UXO) dropped by the United States during the Secret War in Laos (1964–1973). Laos is considered the most heavily bombed country in history, and the centre documents this legacy through hanging cluster bombs, historical documentaries, and the personal stories of survivors. A primary mission of COPE is to raise awareness and funds to help victims return to everyday life by providing prosthetic limbs, wheelchairs, and comprehensive rehabilitation programmes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wird von einer Organisation für Prothetik und Orthopädie betrieben",
+          "Beleuchtet das tragische Erbe der amerikanischen Flächenbombardements",
+          "Zeigt entschärfte Streubomben und selbstgemachte Prothesen",
+          "Klärt über die anhaltende Gefahr von Blindgängern in Laos auf",
+          "Sammelt aktiv Spenden für die medizinische Rehabilitation von Opfern",
+          "Bietet tiefgreifende persönliche Berichte von Überlebenden"
+        ],
+        "hu": [
+          "Egy protetikai és ortopédiai szervezet, a COPE működteti",
+          "Az amerikai szőnyegbombázások tragikus örökségét mutatja be",
+          "Hatástalanított kazettás bombákat és házilag készített művégtagokat állít ki",
+          "Tájékoztat a fel nem robbant bombák folyamatos laoszi veszélyéről",
+          "Aktívan gyűjt adományokat az áldozatok orvosi rehabilitációjára",
+          "Mélyreható, személyes beszámolókat kínál a robbanások túlélőitől"
+        ],
+        "ro": [
+          "Este operat de o organizație medicală de protetică și ortopedie",
+          "Evidențiază moștenirea tragică a bombardamentelor americane în covor",
+          "Expune bombe cu dispersie dezamorsate și proteze improvizate",
+          "Educă vizitatorii cu privire la pericolul continuu al munițiilor neexplodate",
+          "Strânge activ fonduri pentru reabilitarea medicală a victimelor",
+          "Prezintă mărturii personale profunde ale supraviețuitorilor bombelor"
+        ],
+        "en": [
+          "Is operated by an established prosthetics and orthotics organisation",
+          "Highlights the tragic legacy of the extensive American carpet bombings",
+          "Displays defused cluster bombs alongside rudimentary homemade prosthetics",
+          "Educates visitors about the ongoing danger of unexploded ordnance in Laos",
+          "Actively raises essential funds for the medical rehabilitation of victims",
+          "Features profound and moving personal accounts from blast survivors"
+        ]
+      }
+    },
+    {
+      "id": "chao-anouvong-statue-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Chao-Anouvong-Statue ist ein markantes Denkmal im gleichnamigen Park in Vientiane, direkt an der Uferpromenade des Mekong. Die bronzene Großplastik ehrt König Anouvong, den letzten Monarchen des historischen Königreichs Vientiane, der im frühen 19. Jahrhundert einen mutigen, aber letztlich erfolglosen Aufstand gegen die siamesische Oberherrschaft anführte. Das im Jahr 2010 zur Feier des 450-jährigen Bestehens der Stadt enthüllte Standbild zeigt den König in heldenhafter Pose: Eine Hand ruht fest auf seinem Schwert, während die andere Hand über den Fluss in Richtung Thailand ausgestreckt ist. Das Denkmal dient den Laoten als starkes Symbol für Nationalstolz und Widerstandskraft.",
+        "hu": "A Chao Anouvong-szobor egy feltűnő emlékmű a hasonló nevű parkban, Vientiánban, közvetlenül a Mekong folyó parti sétányán. A nagyméretű bronzplasztika Anouvong királynak, a történelmi Vientián Királyság utolsó uralkodójának állít emléket, aki a 19. század elején bátor, de végül sikertelen felkelést vezetett a sziámi fennhatóság ellen. A város fennállásának 450. évfordulója alkalmából, 2010-ben leleplezett szobor a királyt hősies pózban ábrázolja: egyik keze határozottan a kardján nyugszik, míg a másik a folyón keresztül Thaiföld felé nyúl. Az emlékmű a nemzeti büszkeség és az ellenállás erős szimbóluma a laosziak számára.",
+        "ro": "Statuia lui Chao Anouvong este un monument proeminent în parcul cu același nume din Vientiane, situat chiar pe promenada râului Mekong. Sculptura mare din bronz îl onorează pe regele Anouvong, ultimul monarh al regatului istoric al Vientiane-ului, care a condus o rebeliune curajoasă, dar în cele din urmă nereușită, împotriva dominației siameze la începutul secolului al XIX-lea. Dezvelită în anul 2010 pentru a sărbători a 450-a aniversare a orașului, statuia îl prezintă pe rege într-o ipostază eroică: o mână se odihnește ferm pe sabie, în timp ce cealaltă este întinsă peste râu spre Thailanda. Monumentul servește ca un simbol puternic al mândriei naționale și al rezistenței pentru locuitorii din Laos.",
+        "en": "The Chao Anouvong Statue is a prominent monument located in the eponymous park in Vientiane, right along the Mekong River promenade. The large bronze sculpture honours King Anouvong, the final monarch of the historical Kingdom of Vientiane, who led a courageous but ultimately unsuccessful rebellion against Siamese overlordship in the early 19th century. Unveiled in 2010 to celebrate the city's 450th anniversary, the statue depicts the king in a heroic stance: one hand rests firmly on his sword, while the other stretches across the river towards Thailand. The monument serves as a powerful symbol of national pride and resilience for the people of Laos."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ehrt den letzten souveränen König des Königreichs Vientiane",
+          "Wurde 2010 zum 450-jährigen Jubiläum der Hauptstadt enthüllt",
+          "Die Statue besteht aus massiver Bronze",
+          "Blickt symbolisch über den Mekong in Richtung Thailand",
+          "Ist ein beliebter Treffpunkt für Einheimische an der Flusspromenade",
+          "Steht als Symbol für den laotischen Widerstand gegen Siam"
+        ],
+        "hu": [
+          "A történelmi Vientián Királyság utolsó szuverén királyának állít emléket",
+          "2010-ben, a főváros 450 éves évfordulója alkalmából adták át",
+          "A nagyméretű szobor tömör bronzból készült",
+          "Szimbolikusan a Mekongon keresztül Thaiföld felé tekint",
+          "Népszerű találkozóhely a helyiek körében a folyóparti sétányon",
+          "A Sziám elleni történelmi laoszi ellenállás szimbóluma"
+        ],
+        "ro": [
+          "Îl onorează pe ultimul rege suveran al Regatului Vientiane",
+          "A fost dezvelită în 2010 la aniversarea a 450 de ani a capitalei",
+          "Statuia este realizată din bronz masiv de înaltă calitate",
+          "Privește simbolic peste râul Mekong în direcția Thailandei",
+          "Este un loc de întâlnire popular pentru localnici pe promenada râului",
+          "Reprezintă un simbol al rezistenței istorice laotiene împotriva Siamului"
+        ],
+        "en": [
+          "Honours the final sovereign king of the historical Kingdom of Vientiane",
+          "Was unveiled in 2010 to mark the 450th anniversary of the capital",
+          "The large-scale statue is cast from solid bronze",
+          "Symbolically looks out across the Mekong River towards Thailand",
+          "Is a highly popular gathering place for locals on the river promenade",
+          "Stands as a potent symbol of historical Lao resistance against Siam"
+        ]
+      }
+    },
+    {
+      "id": "wat-aham-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Wat Aham, dessen Name oft als \"Das Kloster des geöffneten Herzens\" übersetzt wird, ist ein kleiner buddhistischer Tempel in Luang Prabang, der sich unmittelbar neben dem älteren Wat Visounnarath befindet. Das heutige Hauptgebäude wurde 1818 errichtet, jedoch hat der Ort eine weit tiefer reichende spirituelle Geschichte. Bevor Wat Aham zu einem klassischen buddhistischen Tempel umgewandelt wurde, war es ein wichtiges Zentrum der animistischen Geisterverehrung. Noch heute zeugen zwei massive, alte Banyan-Bäume auf dem Gelände von dieser Vergangenheit; sie gelten traditionell als Wohnort der Devata Luang, der mächtigen Schutzgeister von Luang Prabang.",
+        "hu": "A Wat Aham, amelynek nevét gyakran \"A Nyitott Szív Kolostora\" néven fordítják, egy kis buddhista templom Luang Prabangban, közvetlenül a régebbi Wat Visounnarath mellett. A jelenlegi főépület 1818-ban épült, a hely azonban ennél sokkal mélyebbre nyúló spirituális történelemmel rendelkezik. Mielőtt a Wat Aham klasszikus buddhista templommá alakult volna, az animista szellemtisztelet fontos központja volt. A területen ma is álló két hatalmas, öreg banyan fa tanúskodik erről a múltról; a hagyomány szerint ezek adnak otthont a Devata Luang-nak, Luang Prabang hatalmas védőszellemeinek.",
+        "ro": "Wat Aham, al cărui nume este adesea tradus ca \"Mănăstirea Inimii Deschise\", este un mic templu budist din Luang Prabang, situat chiar lângă mai vechiul Wat Visounnarath. Clădirea principală actuală a fost construită în 1818, însă locul are o istorie spirituală mult mai profundă. Înainte ca Wat Aham să fie transformat într-un templu budist clasic, acesta a fost un centru important al venerării spiritelor animiste. Chiar și astăzi, doi copaci banyan masivi și bătrâni de pe domeniu stau mărturie acestui trecut; se crede în mod tradițional că aceștia găzduiesc Devata Luang, puternicele spirite protectoare ale orașului Luang Prabang.",
+        "en": "Wat Aham, whose name is often translated as \"The Monastery of the Opened Heart\", is a small Buddhist temple in Luang Prabang, situated right next to the older Wat Visounnarath. The current main building was erected in 1818, but the site has a much deeper spiritual history. Before Wat Aham was converted into a classical Buddhist temple, it was a significant centre for animist spirit worship. Even today, two massive, ancient banyan trees on the grounds bear witness to this past; they are traditionally believed to house the Devata Luang, the powerful guardian spirits of Luang Prabang."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in Luang Prabang neben dem Wat Visounnarath",
+          "Das heutige Tempelgebäude stammt aus dem Jahr 1818",
+          "Der Name bedeutet übersetzt \"Kloster des geöffneten Herzens\"",
+          "War ursprünglich ein wichtiges Zentrum der animistischen Geisterverehrung",
+          "Verfügt über zwei riesige Banyan-Bäume auf dem Gelände",
+          "Die Bäume sollen die Schutzgeister der Stadt, die Devata Luang, beherbergen"
+        ],
+        "hu": [
+          "Luang Prabangban, a Wat Visounnarath szomszédságában található",
+          "A jelenlegi templomépület a 19. század elején, 1818-ban épült",
+          "Neve magyarra fordítva \"A Nyitott Szív Kolostora\"",
+          "Eredetileg a hagyományos animista szellemtisztelet központja volt",
+          "A területén két hatalmas, öreg banyan fa is magasodik",
+          "A fák a hiedelem szerint a város védőszellemeinek adnak otthont"
+        ],
+        "ro": [
+          "Este situat în Luang Prabang, lângă celebrul Wat Visounnarath",
+          "Clădirea actuală a templului datează de la începutul secolului al XIX-lea (1818)",
+          "Numele se traduce literal prin \"Mănăstirea Inimii Deschise\"",
+          "A fost inițial un centru important de venerare a spiritelor animiste",
+          "Dispune de doi copaci banyan masivi aflați pe terenul templului",
+          "Se spune că acești copaci adăpostesc spiritele protectoare ale orașului"
+        ],
+        "en": [
+          "Is located in Luang Prabang adjacent to the famous Wat Visounnarath",
+          "The present-day temple building dates back to the year 1818",
+          "The name literally translates to \"The Monastery of the Opened Heart\"",
+          "Was originally an important centre for traditional animist spirit worship",
+          "Features two massive and ancient banyan trees on the temple grounds",
+          "The trees are believed to be the home of the city's guardian spirits"
+        ]
+      }
+    },
+    {
+      "id": "lao-national-museum-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Laotische Nationalmuseum in Vientiane ist eine wichtige Institution zur Bewahrung der Geschichte und Kultur des Landes. Es ist in einem zweistöckigen französischen Kolonialgebäude aus dem Jahr 1925 untergebracht, das ursprünglich als Residenz für den französischen Gouverneur diente. Die umfangreichen Ausstellungen des Museums decken eine breite Zeitspanne ab, die von prähistorischen Funden wie Dinosaurierknochen und altertümlicher Keramik bis hin zur modernen Ära reicht. Ein besonderer und sehr detaillierter Schwerpunkt liegt jedoch auf der jüngeren Geschichte von Laos, insbesondere auf dem revolutionären Befreiungskampf, der Kolonialzeit und dem Aufstieg der kommunistischen Pathet Lao Bewegung.",
+        "hu": "A vientiáni Laoszi Nemzeti Múzeum egy fontos intézmény az ország történelmének és kultúrájának megőrzésére. Egy kétszintes, 1925-ben épült francia gyarmati épületben kapott helyet, amely eredetileg a francia kormányzó rezidenciájaként szolgált. A múzeum kiterjedt kiállításai széles időszakot ölelnek fel, a történelem előtti leletektől, például dinoszauruszcsontoktól és ősi kerámiáktól kezdve a modern korig. Különös és nagyon részletes hangsúlyt fektetnek azonban Laosz közelmúltbeli történelmére, különösen a forradalmi felszabadító harcokra, a gyarmati időszakra és a kommunista Pathet Lao mozgalom felemelkedésére.",
+        "ro": "Muzeul Național din Laos, situat în Vientiane, este o instituție importantă pentru conservarea istoriei și culturii țării. Acesta este găzduit într-o clădire colonială franceză cu două etaje, construită în 1925, care a servit inițial ca reședință pentru guvernatorul francez. Expozițiile ample ale muzeului acoperă o perioadă largă de timp, de la descoperiri preistorice, cum ar fi oase de dinozauri și ceramică antică, până în era modernă. Cu toate acestea, un accent deosebit și foarte detaliat este pus pe istoria recentă a Laosului, în special pe lupta de eliberare revoluționară, perioada colonială și ascensiunea mișcării comuniste Pathet Lao.",
+        "en": "The Lao National Museum in Vientiane is an important institution dedicated to preserving the country's history and culture. It is housed in a two-storey French colonial building constructed in 1925, which originally served as the residence for the French governor. The museum's extensive exhibits cover a broad timespan, ranging from prehistoric discoveries such as dinosaur bones and ancient pottery to the modern era. However, a special and highly detailed focus is placed on the recent history of Laos, particularly the revolutionary struggle for liberation, the colonial period, and the rise of the communist Pathet Lao movement."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ist im ehemaligen Palast des französischen Gouverneurs untergebracht",
+          "Das Gebäude weist eine klassische französische Kolonialarchitektur auf",
+          "Präsentiert Ausstellungsstücke von der Prähistorie bis zur Moderne",
+          "Legt einen starken Fokus auf die Pathet-Lao-Revolution",
+          "Zu den Exponaten gehören Dinosaurierknochen und antike Khmergefäße",
+          "Dokumentiert ausführlich den Unabhängigkeitskampf des Landes"
+        ],
+        "hu": [
+          "A francia kormányzó egykori palotájában kapott helyet",
+          "Az épület klasszikus francia gyarmati építészettel büszkélkedhet",
+          "Az őskortól a modern korig mutat be történelmi kiállítási tárgyakat",
+          "Erős hangsúlyt fektet a Pathet Lao forradalmi mozgalomra",
+          "A kiállítási tárgyak között dinoszauruszcsontok és khmer edények is vannak",
+          "Részletesen dokumentálja az ország függetlenségi küzdelmeit"
+        ],
+        "ro": [
+          "Este găzduit în fostul palat al guvernatorului colonial francez",
+          "Clădirea prezintă o arhitectură colonială franceză clasică",
+          "Prezintă exponate istorice din preistorie până în epoca modernă",
+          "Pune un accent puternic pe revoluția mișcării Pathet Lao",
+          "Printre exponate se numără oase de dinozaur și vase antice khmere",
+          "Documentează în detaliu luptele pentru independență ale țării"
+        ],
+        "en": [
+          "Is housed in the former palace of the French colonial governor",
+          "The building features classic and elegant French colonial architecture",
+          "Presents historical exhibits ranging from prehistory to the modern era",
+          "Places a strong historical focus on the Pathet Lao revolution",
+          "Exhibits include dinosaur bones alongside ancient Khmer pottery",
+          "Extensively documents the country's struggle for national independence"
+        ]
+      }
+    }
+  ]
+}

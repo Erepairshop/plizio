@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "Der Zombitse-Vohibasia Nationalpark ist ein wichtiges Refugium für seltene Vögel und endemische Pflanzen in einer Übergangszone.",
+      "facts": ["Heimat des Appert-Bülbül", "Einzigartige Baobab-Vorkommen", "Einfach von der RN7 aus erreichbar"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Das Thermalbad von Antsirabe nutzt die natürlichen heißen Quellen der Region für therapeutische Anwendungen und Entspannung.",
+      "facts": ["Gegründet in der Kolonialzeit", "Mineralreiches Heilwasser", "Wahrzeichen der 'Stadt des Wassers'"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Ankarafantsika ist ein wahres Paradies für Vogelbeobachter, mit zahlreichen seltenen Arten, die in den Trockenwäldern nisten.",
+      "facts": ["Über 130 Vogelarten", "Sichtungen des Madagaskar-Seeadlers", "Gut ausgebaute Wanderwege"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "Die Gewässer rund um Nosy Mitsio bieten erstklassige Tauchgründe mit unberührten Korallen und einer reichen marinen Fauna.",
+      "facts": ["Abgelegenes Inselarchipel", "Große Fischschwärme", "Spektakuläre Basaltformationen"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "Das Tampolo-Reservat an der Ostküste schützt einen der letzten primären Küstenregenwälder Madagaskars.",
+      "facts": ["Direkt am Indischen Ozean", "Seltene Baumarten", "Lebensraum für Küstenlemuren"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "Der Amphibien-Wald von Ranomafana ist bekannt für seine unglaubliche Vielfalt an Fröschen, die besonders nachts aktiv sind.",
+      "facts": ["Hotspot der Frosch-Biodiversität", "Geführte Nachtwanderungen", "Feuchtes Regenwald-Klima"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "Der Zoo von Mahajanga, bekannt als Reniala, konzentriert sich auf die Flora und Fauna des trockenen Westens Madagaskars.",
+      "facts": ["Botanischer Garten und Zoo", "Rettungsstation für Schildkröten", "Großer Bestand an Baobabs"]
+    },
+    {
+      "id": "lake-alaotra-nature-v2",
+      "description": "Der Alaotra-See ist das größte Binnengewässer Madagaskars und ein entscheidendes Ökosystem für Feuchtgebietsvögel.",
+      "facts": ["Wichtigstes Reisanbaugebiet", "Heimat des bedrohten Alaotra-Bambuslemurs", "Ramsar-Schutzgebiet"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Der Itasy-See ist ein vulkanischer See in einer malerischen Kraterlandschaft, bekannt für seinen Fischreichtum.",
+      "facts": ["Drittgrößter See des Landes", "Beliebtes Ausflugsziel von der Hauptstadt", "Umgeben von Obstplantagen"]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "description": "Die Natur von Ranomafana ist geprägt von dichten Nebelwäldern, steilen Hängen und zahlreichen Wasserfällen.",
+      "facts": ["Zentrum der Primatenforschung", "Heimat des Goldenen Bambuslemurs", "UNESCO-Weltnaturerbe"]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "description": "Nosy Komba, die 'Insel der Lemuren', besticht durch ihre üppige Vegetation und ihre zahmen Mohrenlemuren.",
+      "facts": ["Vulkanische Insel", "Keine Autos vorhanden", "Bekannt für traditionelles Kunsthandwerk"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "Die Küste von Mahajanga bietet spektakuläre Landschaften mit roten Sandsteinformationen und ausgedehnten Mangrovenwäldern.",
+      "facts": ["Mündung des Betsiboka-Flusses", "Berühmter 'Cirque Rouge'", "Artenreiche Mangrovengebiete"]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "description": "Die Insel Sainte Marie ist ein tropisches Paradies, das für seine weißen Sandstrände und die jährliche Walbeobachtung bekannt ist.",
+      "facts": ["Ehemaliges Piratenversteck", "Besuch von Buckelwalen (Juli-Sept)", "Korallenriffe zum Schnorcheln"]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "description": "Das Delta des Tsiribihina-Flusses ist ein weites Feuchtgebiet, in dem sich der Fluss in den Kanal von Mosambik ergießt.",
+      "facts": ["Wichtiger Lebensraum für Wasservögel", "Traditionelle Fischerdörfer", "Unberührte Naturlandschaft"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "Der Tsimanampetsotsa-See ist ein milchig-blauer Salzsee in einem extrem trockenen Kalksteinplateau.",
+      "facts": ["Einziger Salzsee des Landes", "Große Flamingo-Populationen", "Umgeben von uralten Baobabs"]
+    }
+  ]
+}

@@ -112,12 +112,12 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7906, 17.9753],
     name: { de: "Gordon House", hu: "Gordon House", ro: "Gordon House", en: "Gordon House" },
-    description: { de: "Der Treffpunkt des jamaikanischen Parlaments in Kingston.", hu: "A jamaicai parlament ülésterme Kingstonban.", ro: "Locul de întâlnire al Parlamentului jamaican în Kingston.", en: "The meeting place of the Jamaican Parliament in Kingston." },
+    description: { de: "Der Treffpunkt des jamaikanischen Parlaments in Kingston.", hu: "A jamaicai parlament ülésterme Kingstonban.", ro: "Locul de întâlnire al Parlamentului jamaican în Kingston.", en: "The official meeting place of Jamaica's Parliament, named after national hero George William Gordon." },
     facts: {
       de: ["Erbaut im Jahr 1960.", "Benannt nach George William Gordon, einem Nationalhelden.", "Ersetzte das alte Headquarters House."],
       hu: ["1960-ban épült.", "George William Gordon nemzeti hősről nevezték el.", "A régi Headquarters House-t váltotta fel."],
       ro: ["Construit în anul 1960.", "Numit după eroul național George William Gordon.", "A înlocuit vechea Casă a Cartierului General."],
-      en: ["Built in 1960.", "Named after national hero George William Gordon.", "Replaced the old Headquarters House."]
+      en: ["Seat of Jamaican Parliament", "Built in the early 1960s", "Named after George William Gordon", "Located in downtown Kingston"]
     }, image: "/poi-images/jm-gordon-house-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Gordon House in Kingston ist der offizielle Sitz des jamaikanischen Parlaments und ein Symbol der nationalen Souveränität. Benannt nach George William Gordon, einem Nationalhelden und Märtyrer des Aufstands von Morant Bay 1865, wurde das Gebäude im Jahr 1960 als Ersatz für das historische 'Headquarters House' errichtet. Die moderne, funktionale Architektur spiegelt die Zeit des Übergangs zur Unabhängigkeit wider. Hier tagen das Repräsentantenhaus und der Senat, um über die Gesetze und die Zukunft des Landes zu entscheiden. Das Innere ist geprägt von parlamentarischer Tradition und beherbergt Porträts der Gründerväter der Nation. Vor dem Gebäude finden oft friedliche Demonstrationen statt, was Gordon House zu einem zentralen Punkt des politischen Diskurses macht. Für Besucher ist das Gebäude ein Zeugnis der lebendigen Demokratie Jamaikas. Es erinnert an den langen Kampf für das allgemeine Wahlrecht und die Freiheit, über das eigene Schicksal zu bestimmen. Ein Besuch ermöglicht einen Blick in das Zentrum der Macht der Inselnation.",
@@ -313,12 +313,12 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-02",
     coords: [-76.7803, 17.9303],
     name: { de: "Plumb Point Leuchtturm", hu: "Plumb Point-világítótorony", ro: "Farul Plumb Point", en: "Plumb Point Lighthouse" },
-    description: { de: "Ein historischer Leuchtturm auf der Palisadoes-Halbinsel, der die Einfahrt zum Hafen von Kingston schützt.", hu: "Történelmi világítótorony a Palisadoes-félszigeten, amely a kingstoni kikötő bejáratát védi.", ro: "Un far istoric pe peninsula Palisadoes care protejează intrarea în portul Kingston.", en: "A historic lighthouse on the Palisadoes peninsula guarding the entrance to Kingston Harbour." },
+    description: { de: "Ein historischer Leuchtturm auf der Palisadoes-Halbinsel, der die Einfahrt zum Hafen von Kingston schützt.", hu: "Történelmi világítótorony a Palisadoes-félszigeten, amely a kingstoni kikötő bejáratát védi.", ro: "Un far istoric pe peninsula Palisadoes care protejează intrarea în portul Kingston.", en: "A historic 19th-century lighthouse guiding ships safely into the Kingston Harbour along the Palisadoes." },
     facts: {
       de: ["Erbaut im Jahr 1853.", "Überlebte das Erdbeben von 1907.", "Besteht aus Gusseisen und Stein."],
       hu: ["1853-ban épült.", "Túlélte az 1907-es földrengést.", "Öntöttvasból és kőből épült."],
       ro: ["Construit în 1853.", "A supraviețuit cutremurului din 1907.", "Construit din fontă și piatră."],
-      en: ["Built in 1853.", "Survived the 1907 earthquake.", "Constructed of cast iron and stone."]
+      en: ["Built in 1853", "Located on the Palisadoes spit", "Active aid to maritime navigation", "Strategic harbor entrance marker"]
     }, image: "/poi-images/jm-plumb-point-lighthouse-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Der Plumb Point Lighthouse steht stolz am östlichen Ende des Palisadoes-Streifens, der den Hafen von Kingston vor dem offenen Meer schützt. In Betrieb seit 1853, markiert dieser 21 Meter hohe Turm die strategisch wichtige Einfahrt in einen der größten natürlichen Häfen der Welt. Das Bauwerk aus Stein und Metall ist ein klassisches Beispiel britischer Leuchtturmarchitektur des 19. Jahrhunderts. Sein Lichtstrahl ist über 25 Kilometer weit sichtbar und hat Generationen von Seefahrern sicher nach Kingston geleitet. Von seiner Basis aus bietet sich ein spektakulärer Blick auf die Blue Mountains und das weite Karibische Meer. Obwohl der Turm heute weitgehend automatisiert ist, bleibt er ein wichtiges nautisches Wahrzeichen und ein beliebtes Ziel für Fotografen. Plumb Point symbolisiert die maritime Geschichte Kingstons und die Bedeutung des Schiffsverkehrs für den wirtschaftlichen Wohlstand der Inselnation.",
@@ -443,9 +443,9 @@ export const poiExtraJamaicaLandmarksV2: POI[] = [
     parent: "JM-07",
     coords: [-77.6569, 18.4950],
     name: { de: "Falmouth Kreuzfahrtterminal", hu: "Falmouth-i Tengerjáró Terminál", ro: "Terminalul de Croazieră Falmouth", en: "Falmouth Cruise Terminal" },
-    description: { de: "Ein moderner Hafenkomplex, der im georgianischen Stil erbaut wurde und große Kreuzfahrtschiffe in Trelawny empfängt.", hu: "Modern kikötőkomplexum, amely grúz stílusban épült, és nagy tengerjáró hajókat fogad Trelawny-ban.", ro: "Un complex portuar modern construit în stil georgian, care primește nave de croazieră mari în Trelawny.", en: "A modern port complex built in the Georgian style, welcoming large cruise ships in Trelawny." },
+    description: { de: "Das Kreuzfahrtterminal von Falmouth beeindruckt durch seine Architektur im georgianischen Stil, die an das historische Stadtbild angepasst wurde. Es ist ein moderner Touristenmagnet.", hu: "Modern kikötőkomplexum, amely grúz stílusban épült, és nagy tengerjáró hajókat fogad Trelawny-ban.", ro: "Un complex portuar modern construit în stil georgian, care primește nave de croazieră mari în Trelawny.", en: "A modern port complex built in the Georgian style, welcoming large cruise ships in Trelawny." },
     facts: {
-      de: ["2011 eröffnet.", "Kann Schiffe der Oasis-Klasse aufnehmen.", "Ahmt die historische Architektur von Falmouth nach."],
+      de: ["Georgianischer Baustil", "Tor zur historischen Altstadt", "Bedeutender Touristenmagnet"],
       hu: ["2011-ben nyílt meg.", "Oasis osztályú hajók befogadására is alkalmas.", "Falmouth történelmi építészetét utánozza."],
       ro: ["Deschis în 2011.", "Poate găzdui nave din clasa Oasis.", "Imită arhitectura istorică din Falmouth."],
       en: ["Opened in 2011.", "Can accommodate Oasis-class ships.", "Mimics the historic architecture of Falmouth."]

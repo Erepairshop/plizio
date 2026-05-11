@@ -23,7 +23,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       de: "Jerusalem, hebräisch Jeruschalajim, ist die Hauptstadt des Staates Israel und mit rund 970.000 Einwohnern die größte Stadt des Landes. Die Geschichte der Stadt reicht über 4.000 Jahre zurück, erste Spuren einer kanaanitischen Besiedlung stammen aus dem 4. Jahrtausend v. Chr. Um 1000 v. Chr. machte König David sie zur Hauptstadt des vereinigten Königreiches Israel, sein Sohn Salomo errichtete den ersten Tempel. Nach der Staatsgründung Israels 1948 wurde Westjerusalem Hauptstadt, 1967 nach dem Sechstagekrieg vereinigt. Die Altstadt mit Klagemauer, Felsendom und Grabeskirche zählt seit 1981 zum UNESCO-Welterbe. Jerusalem ist heiligste Stätte für Juden, drittheiligste für Muslime und zentraler Pilgerort für Christen."
     },
     factsAdvanced: {
-      de: ["Rund 970.000 Einwohner, größte Stadt Israels.", "Erste Besiedlung im 4. Jahrtausend v. Chr.", "Um 1000 v. Chr. von König David zur Hauptstadt erhoben.", "Staat Israel proklamiert am 14. Mai 1948 in Tel Aviv, Westjerusalem wurde Hauptstadt.", "Wiedervereinigt 1967 nach dem Sechstagekrieg.", "Altstadt seit 1981 UNESCO-Weltkulturerbe.", "Klagemauer ist Überrest der Westmauer des Zweiten Tempels.", "Heilig für Judentum, Christentum und Islam."]
+      de: ["Rund 970.000 Einwohner, größte Stadt Israels.", "Erste Besiedlung im 4. Jahrtausend v. Chr.", "Um 1000 v. Chr. von König David zur Hauptstadt erhoben.", "Staat Israel proklamiert am 14. Mai 1948 in Tel Aviv, Westjerusalem wurde Hauptstadt.", "Wiedervereinigt 1967 nach dem Sechstagekrieg.", "Altstadt seit 1981 UNESCO-Weltkulturerbe.", "Klagemauer ist Überrest der Westmauer des Zweiten Tempels."]
     }, image: "/poi-images/jerusalem-cities-v2.webp"},
   {
     id: "tel-aviv-cities-v2",
@@ -335,7 +335,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       de: "Bat Jam, hebräisch „Tochter des Meeres“, wurde 1926 von orthodoxen jüdischen Pionieren als Bajit waGan („Haus und Garten“) gegründet und 1936 in Bat Jam umbenannt. Heute leben in der Küstenstadt direkt südlich von Tel Aviv rund 130.000 Einwohner. Die Stadt entwickelte sich nach 1948 rasch durch Einwanderer aus Bulgarien, Rumänien und später aus der ehemaligen Sowjetunion, von denen heute über 30 % der Einwohner abstammen. Bat Jam ist berühmt für seine 3,5 Kilometer lange Strandpromenade und galt lange als Vorzeige-Badeort der israelischen Mittelschicht. In der Stadt befindet sich auch das Ben-Ari-Museum für moderne israelische Kunst und das Museum für Modern Art Bat Yam, das eng mit Tel Aviv kooperiert. Heute ist die Stadt im urbanen Umbruch durch Hochhausprojekte."
     },
     factsAdvanced: {
-      de: ["1926 als Bajit waGan gegründet, 1936 umbenannt.", "Rund 130.000 Einwohner.", "Name bedeutet „Tochter des Meeres“.", "3,5 km lange Strandpromenade.", "Über 30 % russischsprachige Einwohner.", "Ben-Ari-Museum und Museum für Modern Art.", "Liegt direkt südlich von Tel Aviv.", "Bedeutende bulgarische und rumänische Einwanderergemeinden."]
+      de: ["1926 als Bajit waGan gegründet, 1936 umbenannt.", "Rund 130.000 Einwohner.", "3,5 km lange Strandpromenade.", "Über 30 % russischsprachige Einwohner.", "Ben-Ari-Museum und Museum für Modern Art.", "Liegt direkt südlich von Tel Aviv.", "Bedeutende bulgarische und rumänische Einwanderergemeinden."]
     }, image: "/poi-images/bat-yam-cities-v2.webp"},
   {
     id: "beit-shemesh-cities-v2",
@@ -383,7 +383,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       de: "Kfar Saba, hebräisch „Dorf des Großvaters“, wurde 1903 von jüdischen Einwanderern aus Russland als landwirtschaftliche Siedlung in der Scharon-Ebene gegründet. Die ersten Jahre waren von Malaria und Wassermangel geprägt, sodass die Pioniere zwischen 1905 und 1912 mehrfach evakuiert werden mussten. Erst nach umfangreichen Trockenlegungen entwickelte sich die Siedlung erfolgreich. Kfar Saba liegt etwa 20 Kilometer nordöstlich von Tel Aviv und zählt heute rund 110.000 Einwohner. Die Stadt wurde 1962 zur Großstadt erhoben und ist heute ein bedeutendes Zentrum für Hightech, Gesundheitswesen mit dem renommierten Meir-Medical-Center, sowie Bildung. Kfar Saba gilt mit ihren weitläufigen Grünflächen, Parks und Radwegen als eine der lebenswertesten Städte Israels."
     },
     factsAdvanced: {
-      de: ["1903 von russisch-jüdischen Einwanderern gegründet.", "Rund 110.000 Einwohner.", "Name bedeutet „Dorf des Großvaters“.", "1962 zur Großstadt erhoben.", "Meir-Medical-Center, eines der größten Krankenhäuser.", "Wichtiges Hightech-Zentrum in der Scharon-Ebene.", "20 km nordöstlich von Tel Aviv.", "Bekannt für Grünflächen und Lebensqualität."]
+      de: ["1903 von russisch-jüdischen Einwanderern gegründet.", "Rund 110.000 Einwohner.", "1962 zur Großstadt erhoben.", "Meir-Medical-Center, eines der größten Krankenhäuser.", "Wichtiges Hightech-Zentrum in der Scharon-Ebene.", "20 km nordöstlich von Tel Aviv.", "Bekannt für Grünflächen und Lebensqualität."]
     }, image: "/poi-images/kfar-saba-cities-v2.webp"},
   {
     id: "herzliya-cities-v2",
@@ -575,7 +575,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       de: "Rahat ist mit rund 75.000 Einwohnern die größte beduinische Stadt der Welt und die einzige Beduinengemeinde in Israel mit Stadtrang. Sie wurde 1972 von der israelischen Regierung als geplante Siedlung im nördlichen Negev gegründet, etwa 12 Kilometer nördlich von Be'er Scheva. Ziel war die Sesshaftmachung der traditionell nomadischen Beduinen, die zuvor in verstreuten Lagern in der Wüste lebten. 1994 wurde Rahat offiziell zur Stadt erhoben. Die Bevölkerung wächst aufgrund einer der höchsten Geburtenraten weltweit (etwa 5 Kinder pro Frau) sehr schnell. Die Bewohner gehören überwiegend zu den Tarabin-, Azazma- und Tiyaha-Stämmen. Trotz Modernisierung bewahren sie viele traditionelle Bräuche und Beduinenkultur. Das alljährliche Beduinen-Festival zieht Besucher aus ganz Israel an. Rahat steht vor sozialen Herausforderungen wie Arbeitslosigkeit und Armut."
     },
     factsAdvanced: {
-      de: ["1972 als geplante Siedlung gegründet.", "Rund 75.000 Einwohner, größte beduinische Stadt der Welt.", "1994 offiziell zur Stadt erhoben.", "Einzige Beduinengemeinde mit Stadtrang in Israel.", "Eine der höchsten Geburtenraten weltweit.", "Bewohner aus Tarabin-, Azazma- und Tiyaha-Stämmen.", "12 km nördlich von Be'er Scheva.", "Jährliches Beduinen-Festival mit traditioneller Kultur."]
+      de: ["Rund 75.000 Einwohner, größte beduinische Stadt der Welt.", "1994 offiziell zur Stadt erhoben.", "Einzige Beduinengemeinde mit Stadtrang in Israel.", "Eine der höchsten Geburtenraten weltweit.", "Bewohner aus Tarabin-, Azazma- und Tiyaha-Stämmen.", "12 km nördlich von Be'er Scheva.", "Jährliches Beduinen-Festival mit traditioneller Kultur."]
     }, image: "/poi-images/rahat-cities-v2.webp"},
   {
     id: "hod-hasharon-cities-v2",
@@ -599,7 +599,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       de: "Hod haScharon, hebräisch „Pracht der Scharon“, entstand 1964 durch den Zusammenschluss von vier landwirtschaftlichen Moschawot: Magdiel (1924), Ramatajim (1925), Hadar (1927) und Ramat Hadar (1934). Die Stadt liegt im Herzen der Scharon-Ebene, etwa 16 Kilometer nordöstlich von Tel Aviv. Heute leben hier rund 70.000 Einwohner. Die Gründerfamilien stammten aus Polen, Russland und dem Jemen und bauten ursprünglich Zitrusfrüchte und Geflügel an. Bis heute bewahrt Hod haScharon einen ländlichen Charakter mit weiten Grünflächen, Reitanlagen, Pferdefarmen und Einfamilienhäusern auf großen Grundstücken, was sie zu einer der teuersten Wohngegenden Israels macht. Die Stadt ist Teil der Metropolregion Tel Aviv, jedoch mit deutlich entspannterem Tempo. 2017 wurde der Sharona-Park als zentrale Grünanlage eröffnet."
     },
     factsAdvanced: {
-      de: ["1964 durch Fusion von vier Moschawot gegründet.", "Rund 70.000 Einwohner.", "Name bedeutet „Pracht der Scharon“.", "Entstand aus Magdiel, Ramatajim, Hadar und Ramat Hadar.", "Älteste Gründungsmoschawa Magdiel von 1924.", "Teuerste Wohngegend mit Reitanlagen.", "Bewahrt ländlichen Charakter mit Grünflächen.", "16 km nordöstlich von Tel Aviv."]
+      de: ["1964 durch Fusion von vier Moschawot gegründet.", "Rund 70.000 Einwohner.", "Entstand aus Magdiel, Ramatajim, Hadar und Ramat Hadar.", "Älteste Gründungsmoschawa Magdiel von 1924.", "Teuerste Wohngegend mit Reitanlagen.", "Bewahrt ländlichen Charakter mit Grünflächen.", "16 km nordöstlich von Tel Aviv."]
     }, image: "/poi-images/hod-hasharon-cities-v2.webp"},
   {
     id: "kiryat-ata-cities-v2",
@@ -695,7 +695,7 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       de: "Afula wurde 1925 von der American Zionist Commonwealth auf Land gegründet, das von der Familie Sursock aus dem Libanon gekauft worden war. Die Stadt liegt im Herzen der fruchtbaren Jesreelebene, etwa auf halbem Weg zwischen Haifa und der See Genezareth, und wird oft als „Hauptstadt der Jesreelebene“ bezeichnet. Heute leben in Afula rund 55.000 Einwohner. In der Antike befand sich an dieser Stelle die kanaanitische Stadt Afula, die im 14. Jahrhundert v. Chr. in den Amarna-Briefen erwähnt wurde. Die moderne Stadt wuchs nach 1948 durch Einwanderer aus dem Irak, Marokko, Jemen und der Sowjetunion. Afula ist heute ein wichtiger regionaler Verkehrsknotenpunkt und Standort des HaEmek Medical Center, eines der größten Krankenhäuser Nordisraels. Die Stadt ist umgeben von Sonnenblumenfeldern, Weizen und Baumwollanbau."
     },
     factsAdvanced: {
-      de: ["1925 von der American Zionist Commonwealth gegründet.", "Rund 55.000 Einwohner.", "Hauptstadt der Jesreelebene.", "In den Amarna-Briefen aus dem 14. Jh. v. Chr. erwähnt.", "HaEmek Medical Center, eines der größten im Norden.", "Wichtiger regionaler Verkehrsknotenpunkt.", "Umgeben von fruchtbaren Feldern.", "Auf halbem Weg zwischen Haifa und See Genezareth."]
+      de: ["1925 von der American Zionist Commonwealth gegründet.", "Rund 55.000 Einwohner.", "Hauptstadt der Jesreelebene.", "In den Amarna-Briefen aus dem 14. Jh. v. Chr. erwähnt.", "HaEmek Medical Center, eines der größten im Norden.", "Umgeben von fruchtbaren Feldern.", "Auf halbem Weg zwischen Haifa und See Genezareth."]
     }, image: "/poi-images/afula-cities-v2.webp"},
   {
     id: "tiberias-cities-v2",

@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uy-mo-torre-antel-landmarks-v2",
+      "description": "Montevideo legmagasabb épülete, amely az állami telekommunikációs vállalat központja.",
+      "facts": ["Magassága 160 méter", "2002-ben adták át", "Modern építészeti stílus"]
+    },
+    {
+      "id": "uy-ro-faro-cabo-polonio-landmarks-v2",
+      "description": "Egy elszigetelt tengerparti település ikonikus világítótornya Rocha megyében.",
+      "facts": ["1881-ben épült", "Nemzeti örökség része", "Érintetlen dűnék veszik körül"]
+    },
+    {
+      "id": "uy-ma-castillo-de-piria-landmarks-v2",
+      "description": "Francisco Piria egykori rezidenciája, amely ma múzeumként működik Piriápolisban.",
+      "facts": ["1897-ben épült", "Olasz stílusú villa", "Építtetője Piriápolis alapítója"]
+    },
+    {
+      "id": "uy-ca-iglesia-cristo-obrero-landmarks-v2",
+      "description": "Eladio Dieste mérnök híres, téglából épült modernista temploma Estación Atlántidában.",
+      "facts": ["Világörökségi helyszín", "Innovatív téglaépítészet", "1960-ban épült"]
+    },
+    {
+      "id": "uy-mo-obelisco-a-los-constituyentes-landmarks-v2",
+      "description": "Az 1830-as alkotmányt ünneplő hatalmas obeliszk Montevideo központjában.",
+      "facts": ["Gránitból készült", "1938-ban avatták fel", "A város egyik fő jelképe"]
+    },
+    {
+      "id": "uy-ma-puente-leonel-viera-landmarks-v2",
+      "description": "Egy különleges szerkezetű hullámzó híd, amely Maldonado megyében köti össze a part menti településeket.",
+      "facts": ["1965-ben épült", "Kétirányú forgalom", "Innovatív íves kialakítás"]
+    },
+    {
+      "id": "uy-mo-wtc-montevideo-landmarks-v2",
+      "description": "Montevideo üzleti negyedének központi toronyegyüttese, a gazdasági élet egyik központja.",
+      "facts": ["Több irodatorony", "Punta Carretas negyed", "Modern üzleti központ"]
+    },
+    {
+      "id": "uy-ma-faro-jose-ignacio-landmarks-v2",
+      "description": "José Ignacio tengerparti falu meghatározó, 1877-ben emelt világítótornya.",
+      "facts": ["Téglából épült", "Panorámás kilátás", "Népszerű turistalátványosság"]
+    },
+    {
+      "id": "uy-mo-palacio-taranco-landmarks-v2",
+      "description": "Egy elegáns városi palota Montevideo óvárosában, amely ma dekoratív művészeti múzeum.",
+      "facts": ["Francia stílusú épület", "20. század eleji", "Gazdag belső díszítés"]
+    },
+    {
+      "id": "uy-mo-palacio-santos-landmarks-v2",
+      "description": "A korábbi elnöki palota, amely ma az uruguayi külügyminisztériumnak ad otthont.",
+      "facts": ["1870-ben épült", "Eklektikus stílus", "Nemzeti műemlék"]
+    }
+  ]
+}

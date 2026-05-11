@@ -1,0 +1,42 @@
+
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaEconomicV2.ts"],
+  "items": [
+    {
+      "id": "zementwerk-conakry-economic-v2",
+      "descriptionAdvancedDe": "Das Werk von Ciments de Guinée in Conakry ist der führende Produzent von Baustoffen des Landes und ein Pfeiler der nationalen Infrastrukturentwicklung. Die Fabrik liegt strategisch günstig im Industriegebiet der Hauptstadt, was den schnellen Import von Klinker über den Hafen und die Distribution des fertigen Zements im ganzen Land ermöglicht. Mit einer hohen Produktionskapazität deckt das Werk den Großteil des guineischen Zementbedarfs, der durch den anhaltenden Bauboom in den Städten und bei großen Infrastrukturprojekten stetig steigt. Die Anlage setzt moderne Standards in der Produktion und Logistik und ist ein Symbol für das industrielle Wachstum Guineas. Das Werk ist unverzichtbar für die Realisierung von Wohnungsbauprogrammen und Kraftwerksprojekten. Geographie K8 — Industriebau und Urbanisierung.",
+      "descriptionAdvancedHu": "A Ciments de Guinée conakry-i gyára az ország vezető építőanyag-gyártója és a nemzeti infrastruktúra-fejlesztés egyik pillére. A gyár stratégiailag kedvező helyen, a főváros ipari negyedében található, ami lehetővé teszi a klinker gyors importját a kikötőn keresztül és a kész cement elosztását az egész országban. Magas termelési kapacitásával a gyár fedezi a guineai cementigény nagy részét, amely a városokban és a nagy infrastrukturális projekteknél tapasztalható folyamatos építési boom miatt folyamatosan nő. A létesítmény modern termelési és logisztikai szabványokat alkalmaz, és Guinea ipari növekedésének szimbóluma. A gyár elengedhetetlen a lakásépítési programok és erőművi projektek megvalósításához. Földrajz K8 – Iparépítés és urbanizáció.",
+      "descriptionAdvancedRo": "Fabrica Ciments de Guinée din Conakry este principalul producător de materiale de construcții din țară și un pilon al dezvoltării infrastructurii naționale. Fabrica este situată strategic în zona industrială a capitalei, ceea ce permite importul rapid de clincher prin port și distribuția cimentului finit în întreaga țară. Cu o capacitate mare de producție, fabrica acoperă cea mai mare parte a cererii de ciment din Guineea, care este în continuă creștere datorită boom-ului continuu al construcțiilor în orașe și în marile proiecte de infrastructură. Instalația stabilește standarde moderne în producție și logistică și este un simbol al creșterii industriale a Guineei. Fabrica este indispensabilă pentru realizarea programelor de locuințe și a proiectelor de centrale electrice. Geografie K8 — Construcții industriale și urbanizare.",
+      "descriptionAdvancedEn": "The Ciments de Guinée plant in Conakry is the country's leading producer of building materials and a pillar of national infrastructure development. The factory is strategically located in the industrial area of the capital, which allows for the rapid import of clinker via the port and the distribution of the finished cement throughout the country. With a high production capacity, the plant covers most of Guinea's cement demand, which is constantly growing due to the ongoing construction boom in the cities and for large infrastructure projects. The plant sets modern standards in production and logistics and is a symbol of Guinea's industrial growth. The plant is indispensable for the realization of housing programs and power plant projects. Geography K8 — Industrial construction and urbanization.",
+      "factsAdvanced": [
+        "Guinea legnagyobb és legmodernebb cementgyára.",
+        "Központi elhelyezkedés Conakry ipari kikötőnegyedében.",
+        "Fő beszállító a nemzeti megaprojektekhez (gátak, hidak).",
+        "Magas, több mint egymillió tonnás éves termelési kapacitás.",
+        "Fontos munkaadó a fővárosi régióban.",
+        "A legmodernebb szűrőtechnológiát alkalmazza a kibocsátás csökkentésére.",
+        "A guineai építőipar és városfejlesztés gerince.",
+        "Hatékony csatlakozás a nemzeti elosztási csatornákhoz."
+      ]
+    },
+    {
+      "id": "bauxitmine-koumbia-economic-v2",
+      "descriptionAdvancedDe": "Die Koumbia-Bauxitmine in der Präfektur Gaoual ist eines der neuesten Großprojekte im guineischen Bergbausektor und Teil der massiven Expansionsstrategie des Landes. Das Projekt wird von Alliance Mining Commodities (AMC) entwickelt und erschließt eine Region, die bisher weniger industriell geprägt war. Koumbia verfügt über riesige Reserven an erstklassigem Bauxit, die über eine neue Logistikinfrastruktur zum Atlantik transportiert werden sollen. Die Mine ist ein Symbol für die Dezentralisierung des Bergbaubooms weg vom klassischen Zentrum in Boké hin zu neuen Regionen im Nordwesten. Das Projekt verspricht der bisher vernachlässigten Präfektur Gaoual wirtschaftlichen Aufschwung und modernisierte Infrastruktur. Geographie K8 — Expansion der Rohstoffförderung.",
+      "descriptionAdvancedHu": "A Gaoual prefektúrában található Koumbia bauxitbánya a guineai bányászati szektor egyik legújabb nagyszabású projektje, és része az ország hatalmas terjeszkedési stratégiájának. A projektet az Alliance Mining Commodities (AMC) fejleszti, és egy eddig kevésbé iparosodott régiót tár fel. Koumbia hatalmas, első osztályú bauxittartalékokkal rendelkezik, amelyeket egy új logisztikai infrastruktúrán keresztül szállítanának az Atlanti-óceánhoz. A bánya a bányászati boom decentralizációjának szimbóluma, amely a klasszikus Boké-i központtól az északnyugati új régiók felé mozdul el. A projekt gazdasági fellendülést és modernizált infrastruktúrát ígér az eddig elhanyagolt Gaoual prefektúrának. Földrajz K8 – A nyersanyag-kitermelés bővülése.",
+      "descriptionAdvancedRo": "Mina de bauxită Koumbia din prefectura Gaoual este unul dintre cele mai noi proiecte de anvergură din sectorul minier guineean și face parte din strategia masivă de expansiune a țării. Proiectul este dezvoltat de Alliance Mining Commodities (AMC) și deschide o regiune care până acum a fost mai puțin industrializată. Koumbia dispune de rezerve uriașe de bauxită de primă clasă, care urmează să fie transportate către Atlantic printr-o nouă infrastructură logistică. Mina este un simbol al descentralizării boom-ului minier de la centrul clasic din Boké către noi regiuni din nord-vest. Proiectul promite prefecturii Gaoual, până acum neglijată, o redresare economică și o infrastructură modernizată. Geografie K8 — Extinderea extracției de materii prime.",
+      "descriptionAdvancedEn": "The Koumbia bauxite mine in the Gaoual prefecture is one of the newest major projects in the Guinean mining sector and part of the country's massive expansion strategy. The project is being developed by Alliance Mining Commodities (AMC) and is opening up a region that has so far been less industrialized. Koumbia has huge reserves of first-class bauxite, which are to be transported to the Atlantic via a new logistics infrastructure. The mine is a symbol of the decentralization of the mining boom away from the classic center in Boké towards new regions in the northwest. The project promises the previously neglected Gaoual prefecture an economic upturn and modernized infrastructure. Geography K8 — Expansion of raw material extraction.",
+      "factsAdvanced": [
+        "Nagyszabású új bauxitprojekt Gaoual prefektúrában.",
+        "Hatalmas, magas alumíniumtartalmú készletek.",
+        "Északnyugat-Guinea stratégiai feltárásának része.",
+        "Átfogó tervek új szállítási útvonalak létrehozására a partra.",
+        "Fontos ösztönzője a regionális fejlődésnek Gaoualban.",
+        "Nemzetközi részvételű vegyesvállalat (AMC).",
+        "A legmodernebb feltárási technikák alkalmazása.",
+        "Hosszú távú, nagy kapacitású külszíni bányászati művelet."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mz-chapel-nossa-senhora-de-baluarte-history-v2",
+      "description": "The Chapel of Nossa Senhora de Baluarte on Mozambique Island is one of the oldest European buildings in Southern Africa.",
+      "facts": ["Oldest European building", "Mozambique Island", "16th-century chapel"]
+    },
+    {
+      "id": "mz-maputo-cathedral-history-v2",
+      "description": "Maputo Cathedral is a city landmark with unique architecture, combining historical and religious significance.",
+      "facts": ["Maputo landmark", "Unique architecture", "Religious significance"]
+    },
+    {
+      "id": "mz-vila-algarve-history-v2",
+      "description": "Vila Algarve in Maputo is a historic mansion known for its colonial architecture and abandoned status.",
+      "facts": ["Historic mansion", "Colonial architecture", "Maputo"]
+    },
+    {
+      "id": "mz-polana-church-history-v2",
+      "description": "Polana Church is a historic church in Maputo, noted for its unique design and community role.",
+      "facts": ["Historic church", "Unique design", "Community role"]
+    },
+    {
+      "id": "mz-inhambane-mosque-history-v2",
+      "description": "The Inhambane Mosque is an ancient mosque reflecting Islamic influence in coastal Mozambique, dating back centuries.",
+      "facts": ["Ancient mosque", "Islamic influence", "Inhambane"]
+    },
+    {
+      "id": "mz-macuti-lighthouse-history-v2",
+      "description": "The Macuti Lighthouse in Beira is a historical navigational aid and a prominent landmark on the coast.",
+      "facts": ["Historical lighthouse", "Beira", "Navigational aid"]
+    },
+    {
+      "id": "maputo-city-hall-landmarks-v2",
+      "description": "Maputo City Hall is an iconic architectural landmark in the capital, reflecting Portuguese colonial design.",
+      "facts": ["Iconic landmark", "Maputo", "Colonial design"]
+    },
+    {
+      "id": "cathedral-of-beira-landmarks-v2",
+      "description": "The Cathedral of Beira is an impressive religious structure, showcasing the architectural diversity of the city.",
+      "facts": ["Religious structure", "Beira", "Architectural diversity"]
+    },
+    {
+      "id": "palacio-sao-paulo-landmarks-v2",
+      "description": "Palacio de São Paulo on Mozambique Island is a beautifully restored colonial palace and a key historical attraction.",
+      "facts": ["Colonial palace", "Mozambique Island", "Historical attraction"]
+    },
+    {
+      "id": "gorongosa-national-park-life-v2",
+      "description": "Gorongosa National Park is a flagship conservation success, renowned for its diverse wildlife and ecosystem restoration.",
+      "facts": ["Flagship conservation", "Diverse wildlife", "Ecosystem restoration"]
+    },
+    {
+      "id": "limpopo-national-park-life-v2",
+      "description": "Limpopo National Park is part of the Great Limpopo Transfrontier Park, an international conservation area.",
+      "facts": ["Transfrontier park", "International conservation", "Limpopo"]
+    },
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "description": "Bazaruto Archipelago is a marine reserve known for pristine coral reefs, dolphins, and dugongs.",
+      "facts": ["Marine reserve", "Coral reefs", "Dolphins and dugongs"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "Quirimbas Archipelago is famous for its historic islands, pristine beaches, and rich marine biodiversity.",
+      "facts": ["Historic islands", "Pristine beaches", "Marine biodiversity"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "Zinave National Park is a key wildlife sanctuary in southern Mozambique, noted for its elephant population.",
+      "facts": ["Wildlife sanctuary", "Elephant population", "Southern Mozambique"]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "description": "Banhine National Park is a large wetland area in southern Mozambique, known for its diverse birdlife.",
+      "facts": ["Wetland area", "Diverse birdlife", "Southern Mozambique"]
+    }
+  ]
+}

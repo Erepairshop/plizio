@@ -1,0 +1,317 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": ["lib/visualLab/data/poiExtraLebanonHistoryV2.ts"],
+  "items": [
+    {
+      "id": "baalbek-ruins-history-v2",
+      "descriptionAdvanced": {
+        "hu": "Baalbek, más néven Heliopolisz (a Nap Városa), Libanon egyik legjelentősebb régészeti lelőhelye a Bekaa-völgyben. A római korban az i. e. 1. század és az i. sz. 3. század között hatalmas templomegyüttest építettek ide, amely a birodalom keleti részének egyik legfontosabb zarándokhelye lett. A komplexum a római építészet csúcspontját képviseli, és monumentális méreteivel hirdette a birodalom gazdagságát. A romok között található a világ legnagyobb, még álló római oszlopos temploma. A terület több évszázadon át különböző kultúrák és vallások találkozópontja volt, a bizánciak bazilikává, az arabok pedig erőddé alakították egyes részeit. A 18. és 19. századi európai utazók rajzai nyomán a romváros világhírnévre tett szert, 1984 óta pedig az UNESCO Világörökség része. Az itt található trilithon, három hatalmas kőtömb, az ókori mérnöki tudomány egyik legnagyobb rejtélye.",
+        "ro": "Baalbek, cunoscut și sub numele de Heliopolis (Orașul Soarelui), este unul dintre cele mai importante situri arheologice din Liban, situat în Valea Bekaa. În perioada romană, între secolul I î.Hr. și secolul al III-lea d.Hr., aici a fost construit un complex masiv de temple, devenind unul dintre principalele locuri de pelerinaj din partea de est a imperiului. Complexul reprezintă un punct culminant al arhitecturii romane, cu proporții monumentale care reflectau bogăția imperiului. Printre ruine se află cel mai mare templu roman cu coloane încă în picioare din lume. De-a lungul secolelor, zona a fost un punct de întâlnire pentru diverse culturi; bizantinii au transformat părți din el în bazilici, iar arabii în fortărețe. Desenele călătorilor europeni din secolele XVIII și XIX au adus faimă mondială orașului în ruină, care din 1984 este înscris în Patrimoniul Mondial UNESCO. Trilithonul, un set de trei blocuri de piatră gigantice, rămâne unul dintre marile mistere ale ingineriei antice.",
+        "en": "Baalbek, also known as Heliopolis (the City of the Sun), is one of Lebanon's most significant archaeological sites, located in the Beqaa Valley. During the Roman period, between the 1st century BC and the 3rd century AD, a massive temple complex was built here, becoming one of the most important pilgrimage sites in the eastern part of the empire. The complex represents a pinnacle of Roman architecture, with monumental proportions that advertised the empire's wealth. The ruins include the largest Roman temple with standing columns in the world. For centuries, the area was a meeting point for different cultures and religions; the Byzantines converted parts of it into basilicas, and the Arabs into fortresses. The drawings of 18th and 19th-century European travelers brought the ruined city global fame, and since 1984 it has been a UNESCO World Heritage site. The Trilithon, three massive stone blocks, remains one of the greatest mysteries of ancient engineering."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A romok egy i. e. 3. évezredből származó ősi tellen nyugszanak.",
+          "Az arab hódítás idején a területet erődítménnyé alakították (al-Qala'a).",
+          "1759-ben egy erős földrengés súlyos károkat okozott az oszlopokban.",
+          "Német régészek végeztek itt először tudományos ásatásokat 1898-ban.",
+          "A déli kőbányában található a monolitikus Kővárandós Nő Kőve."
+        ],
+        "ro": [
+          "Ruinele se sprijină pe un tell antic care datează din mileniul III î.Hr.",
+          "În timpul cuceririi arabe, zona a fost transformată în fortăreață (al-Qala'a).",
+          "Un cutremur puternic din 1759 a provocat daune majore coloanelor rămase.",
+          "Arheologii germani au efectuat primele săpături științifice aici în 1898.",
+          "Piatra Femeii Însărcinate, un monolit uriaș, se află în cariera de sud."
+        ],
+        "en": [
+          "The ruins rest on an ancient tell dating back to the 3rd millennium BC.",
+          "During the Arab conquest, the area was converted into a fortress (al-Qala'a).",
+          "A powerful earthquake in 1759 caused major damage to the standing columns.",
+          "German archaeologists conducted the first scientific excavations here in 1898.",
+          "The monolithic Stone of the Pregnant Woman is located in the southern quarry."
+        ]
+      }
+    },
+    {
+      "id": "byblos-castle-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A Bybloszi vár, amelyet a 12. században építettek a keresztes lovagok, a Földközi-tenger partján fekvő ősi kikötőváros szívében áll. Az építményhez római szentélyek és föníciai épületek maradványait, köztük masszív kőtömböket használtak fel. Az erődítmény a keresztes háborúk idején stratégiai jelentőséggel bírt, és a Gibelet uradalom központjaként szolgált. A várat Szaladin szultán csapatai 1188-ban elfoglalták, majd később a mamelukok és az oszmánok is átépítették és használták. A vastag falak és a központi, robusztus öregtorony a keresztes építészet jellegzetességeit mutatják. A vár területén és közvetlen környezetében folytatott ásatások során föníciai királysírokat, római színházat és egyiptomi eredetű műtárgyakat is feltártak, amelyek Byblos több mint 7000 éves folyamatos lakottságát bizonyítják. Ma az erődítmény múzeumként működik, bemutatva a város gazdag és sokrétű történelmét.",
+        "ro": "Castelul Byblos, construit în secolul al XII-lea de către cruciați, se află în inima anticului oraș-port de pe coasta Mării Mediterane. Pentru construcția sa au fost folosite materiale din sanctuare romane și clădiri feniciene, inclusiv blocuri masive de piatră. Fortăreața a avut o importanță strategică în timpul Cruciadelor și a servit ca centru al domeniului Gibelet. Castelul a fost capturat de forțele sultanului Saladin în 1188, iar mai târziu a fost modificat și folosit de mameluci și otomani. Zidurile groase și donjonul central robust reflectă caracteristicile arhitecturii militare cruciate. Săpăturile desfășurate în incinta castelului și în împrejurimi au scos la iveală morminte regale feniciene, un teatru roman și artefacte de origine egipteană, demonstrând o locuire continuă de peste 7.000 de ani a orașului Byblos. Astăzi, fortăreața funcționează ca muzeu, expunând istoria bogată și diversă a așezării.",
+        "en": "Byblos Castle, built by Crusaders in the 12th century, stands in the heart of the ancient port city on the Mediterranean coast. Remains of Roman sanctuaries and Phoenician buildings, including massive stone blocks, were used in its construction. The fortress was of strategic importance during the Crusades and served as the center of the Lordship of Gibelet. The castle was captured by Sultan Saladin's forces in 1188, and was later modified and used by the Mamluks and Ottomans. The thick walls and the robust central keep display the characteristics of Crusader military architecture. Excavations within the castle grounds and its immediate surroundings have revealed Phoenician royal tombs, a Roman theater, and artifacts of Egyptian origin, proving Byblos' continuous habitation for over 7,000 years. Today, the fortress operates as a museum, showcasing the rich and diverse history of the city."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az öregtorony építéséhez felhasználták a római korból származó oszlopokat is.",
+          "A vár körül mély várárok húzódott, amely további védelmet nyújtott.",
+          "A mameluk korszakban a falakat megerősítették és lőrésekkel látták el.",
+          "Az 1920-as években Maurice Dunand francia régész vezette itt az ásatásokat.",
+          "A vár udvarán találták meg Ahiram föníciai király szarkofágját."
+        ],
+        "ro": [
+          "Pentru construirea donjonului s-au folosit coloane recuperate din perioada romană.",
+          "Castelul era înconjurat de un șanț adânc, oferind un nivel suplimentar de apărare.",
+          "În perioada mamelucă, zidurile au fost întărite și dotate cu ambrazuri.",
+          "În anii 1920, arheologul francez Maurice Dunand a condus săpăturile de aici.",
+          "Sarcofagul regelui fenician Ahiram a fost descoperit în curtea castelului."
+        ],
+        "en": [
+          "Columns salvaged from the Roman period were used in building the keep.",
+          "A deep moat surrounded the castle, providing an additional layer of defense.",
+          "During the Mamluk period, the walls were reinforced and fitted with loopholes.",
+          "In the 1920s, French archaeologist Maurice Dunand led the excavations here.",
+          "The sarcophagus of the Phoenician King Ahiram was found in the castle courtyard."
+        ]
+      }
+    },
+    {
+      "id": "tyre-hippodrome-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A türoszi hippodrom (római kocsiversenypálya) a 2. századból származik, és az egyik legnagyobb, legjobb állapotban fennmaradt ilyen létesítmény a világon. A 480 méter hosszú és 90 méter széles aréna fénykorában akár 20 000 néző befogadására is alkalmas volt. Az építmény különlegessége a gránitból faragott, hatalmas obeliszk, amely a pálya közepén, a spinán állt. A lelátókat boltozatos galériák tartották, melyekben egykor üzletek és műhelyek működtek. A bizánci időszakban is aktívan használták, amíg egy 6. századi földrengés súlyosan meg nem rongálta. A romok között feltárták a versenyzők indulókapuit (carceres) és a célegyenest jelző vonalakat is. A terület a középkori al-Bass régészeti komplexum része, amely kiterjedt nekropoliszt és monumentális diadalívet is magában foglal. 1984-ben az egész türoszi ásatási terület felkerült az UNESCO Világörökség listájára.",
+        "ro": "Hipodromul din Tir este o arenă romană pentru cursele de care datând din secolul al II-lea, fiind una dintre cele mai mari și mai bine conservate astfel de structuri din lume. Măsurând 480 de metri în lungime și 90 de metri lățime, arena putea găzdui până la 20.000 de spectatori în perioada sa de glorie. O caracteristică distinctivă a structurii este un obelisc masiv sculptat din granit, care stătea pe spina, în centrul pistei. Tribunele erau susținute de galerii boltite care găzduiau odinioară magazine și ateliere. A fost folosit activ în perioada bizantină, până când un cutremur din secolul al VI-lea l-a avariat grav. Printre ruine au fost descoperite porțile de start ale concurenților (carceres) și liniile care marcau linia de sosire. Situl face parte din complexul arheologic al-Bass, care include și o vastă necropolă și un arc de triumf monumental. În 1984, întreaga zonă arheologică din Tir a fost adăugată pe lista Patrimoniului Mondial UNESCO.",
+        "en": "The Tyre Hippodrome is a Roman chariot racing arena dating from the 2nd century and is one of the largest and best-preserved such structures in the world. Measuring 480 meters in length and 90 meters in width, the arena could accommodate up to 20,000 spectators at its peak. A distinctive feature of the structure is a massive obelisk carved from granite, which stood on the spina in the center of the track. The seating tiers were supported by vaulted galleries that once housed shops and workshops. It was actively used during the Byzantine period until a 6th-century earthquake severely damaged it. The starting gates of the competitors (carceres) and the lines marking the finish line have been excavated among the ruins. The site is part of the al-Bass archaeological complex, which also includes an extensive necropolis and a monumental triumphal arch. In 1984, the entire Tyre archaeological area was added to the UNESCO World Heritage list."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az aréna homokján gyakran rendeztek véres gladiátorjátékokat is.",
+          "A nézőteret mészkő tömbökből építették fel a domborzatot követve.",
+          "A spina (középső sáv) köré medencéket és szökőkutakat is telepítettek.",
+          "Türosz híres volt az itt tenyésztett kiváló minőségű versenylovakról.",
+          "Az 1950-es években kezdődtek a terület szisztematikus régészeti feltárásai."
+        ],
+        "ro": [
+          "Pe nisipul arenei aveau loc adesea și lupte sângeroase cu gladiatori.",
+          "Zonele pentru spectatori au fost construite din blocuri de calcar adaptate reliefului.",
+          "În jurul spinei (banda centrală) au fost instalate bazine și fântâni.",
+          "Tirul era faimos pentru caii de curse de înaltă calitate crescuți aici.",
+          "Săpăturile arheologice sistematice ale zonei au început în anii 1950."
+        ],
+        "en": [
+          "Bloody gladiator games were also frequently held on the sand of the arena.",
+          "The spectator areas were built of limestone blocks adapting to the terrain.",
+          "Pools and fountains were installed around the spina (central strip).",
+          "Tyre was famous for the high-quality racehorses bred here.",
+          "Systematic archaeological excavations of the area began in the 1950s."
+        ]
+      }
+    },
+    {
+      "id": "beiteddine-palace-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A Beiteddine-palota, melyet a 19. század elején építtetett II. Basír Sijáb emír, a klasszikus libanoni építészet egyik legszebb fennmaradt példája. Az építkezés harminc évig tartott, itáliai és damaszkuszi kézművesek bevonásával, ami az arab, andalúz és európai stílusok egyedi ötvözetét hozta létre. A komplexum három főudvar köré épült: a külső udvar a lakosság gyülekezőhelye volt, a középső a hivatalnokoké, a belső pedig a hárem és az emír magánlakrésze. A falakat bonyolult fafaragások, színes geometriai mintás márványmozaikok és arabeszkek díszítik. Az Oszmán Birodalom bukása után francia közigazgatási központként működött, majd 1943-ban a független Libanon elnökének nyári rezidenciája lett. Az épületegyüttes ma múzeumnak ad otthont, ahol fegyver-, ékszer- és bizánci mozaikgyűjtemények tekinthetők meg. A palota kertjeiben nyaranta a Beiteddine Művészeti Fesztivált rendezik meg.",
+        "ro": "Palatul Beiteddine, construit la începutul secolului al XIX-lea de Emirul Bashir Shihab al II-lea, este unul dintre cele mai frumoase exemple supraviețuitoare ale arhitecturii clasice libaneze. Construcția a durat treizeci de ani, cu implicarea meșterilor italieni și damasceni, rezultând un amestec unic de stiluri arabe, andaluze și europene. Complexul este construit în jurul a trei curți principale: curtea exterioară era locul de adunare publică, curtea de mijloc era pentru oficiali, iar curtea interioară adăpostea haremul și reședința privată a emirului. Pereții sunt decorați cu sculpturi complicate din lemn, mozaicuri de marmură cu modele geometrice colorate și arabescuri. După căderea Imperiului Otoman, a servit drept centru administrativ francez, iar din 1943 a devenit reședința de vară a președintelui Libanului independent. Complexul găzduiește astăzi muzee de arme, bijuterii și mozaicuri bizantine. Vara, grădinile palatului găzduiesc Festivalul de Artă Beiteddine.",
+        "en": "The Beiteddine Palace, built in the early 19th century by Emir Bashir Shihab II, is one of the most beautiful surviving examples of classical Lebanese architecture. Construction took thirty years, involving Italian and Damascene craftsmen, resulting in a unique blend of Arab, Andalusian, and European styles. The complex is built around three main courtyards: the outer courtyard was a public gathering place, the middle courtyard was for officials, and the inner courtyard housed the harem and the emir's private residence. The walls are decorated with intricate wood carvings, colorful geometric marble mosaics, and arabesques. After the fall of the Ottoman Empire, it served as a French administrative center, and in 1943 it became the summer residence of the president of independent Lebanon. The complex now houses museums of weapons, jewelry, and Byzantine mosaics. In summer, the palace gardens host the Beiteddine Art Festival."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A palota vízellátását egy 14 kilométer hosszú akvadukt rendszer biztosította.",
+          "A belső udvar alatt boltíves istállók helyezkedtek el akár ötszáz ló számára.",
+          "A libanoni polgárháború alatt súlyos károkat szenvedett, de később restaurálták.",
+          "Walid Jumblatt drúz politikus jelentős mozaikgyűjteményt adományozott a múzeumnak.",
+          "II. Basír Sijáb emír a palota építése miatt vezette be a megosztó különadókat."
+        ],
+        "ro": [
+          "Aprovizionarea cu apă a palatului era asigurată de un sistem de apeducte lung de 14 km.",
+          "Sub curtea interioară se aflau grajduri boltite care puteau adăposti până la 500 de cai.",
+          "În timpul războiului civil, a suferit daune grave, dar a fost restaurat ulterior.",
+          "Politicianul druz Walid Jumblatt a donat muzeului o importantă colecție de mozaicuri.",
+          "Emirul Bashir Shihab II a introdus taxe speciale divizive pentru construirea palatului."
+        ],
+        "en": [
+          "The palace's water supply was provided by a 14-kilometer-long aqueduct system.",
+          "Vaulted stables capable of holding up to five hundred horses lay beneath the inner courtyard.",
+          "During the Lebanese Civil War, it suffered severe damage but was later restored.",
+          "Druze politician Walid Jumblatt donated a significant collection of mosaics to the museum.",
+          "Emir Bashir Shihab II introduced divisive special taxes to fund the palace's construction."
+        ]
+      }
+    },
+    {
+      "id": "anjar-umayyad-city-history-v2",
+      "descriptionAdvanced": {
+        "hu": "Anjar (Gerrha) az egyetlen libanoni helyszín, amely kizárólag a 8. századi omajjád időszakból származik. Az i. sz. 714-ben I. al-Valíd kalifa által alapított város szigorú római-bizánci rácsos városszerkezetet követett, a klasszikus cardo maximus és decumanus tengelyekkel. A kereskedelmi útvonalak kereszteződésében épült település sosem fejeződött be teljesen, mivel 750-ben, az Abbászida-dinasztia hatalomátvétele után elhagyták és lerombolták. A romok között feltárták a kalifa palotáját, a kis palotát, a mecsetet, valamint fürdőket és több mint 600 üzlethelyiséget. Az építészet sajátossága a kő- és téglasorok váltakozása, amely segített ellenállni a földrengéseknek. Az ősi csatornarendszer és a szennyvíz-elvezetés fejlett mérnöki tudásról tanúskodik. Anjar kivételes példája a korai iszlám várostervezésnek, és 1984 óta szerepel az UNESCO Világörökség listáján.",
+        "ro": "Anjar (Gerrha) este singurul sit libanez care datează exclusiv din perioada Umayyadă din secolul al VIII-lea. Fondat în 714 d.Hr. de califul Al-Walid I, orașul a urmat o structură riguroasă a rețelei romano-bizantine, cu axele clasice cardo maximus și decumanus. Construită la intersecția rutelor comerciale, așezarea nu a fost niciodată finalizată complet, deoarece a fost abandonată și parțial distrusă după preluarea puterii de către dinastia Abbasidă în 750. Ruinele includ palatul califului, micul palat, moscheea, băi și peste 600 de spații comerciale. O particularitate arhitecturală este alternanța rândurilor de piatră și cărămidă, care ajuta la rezistența la cutremure. Sistemul antic de canalizare și drenajul apelor uzate demonstrează cunoștințe inginerești avansate. Anjar este un exemplu excepțional de planificare urbană islamică timpurie și din 1984 este înscris în lista Patrimoniului Mondial UNESCO.",
+        "en": "Anjar (Gerrha) is the only Lebanese site dating exclusively from the 8th-century Umayyad period. Founded in 714 AD by Caliph Al-Walid I, the city followed a strict Roman-Byzantine grid structure, with the classical cardo maximus and decumanus axes. Built at the intersection of trade routes, the settlement was never fully completed, as it was abandoned and partially destroyed after the Abbasid dynasty took power in 750. The ruins include the caliph's palace, the small palace, the mosque, baths, and over 600 shops. An architectural peculiarity is the alternation of stone and brick courses, which helped withstand earthquakes. The ancient sewer system and wastewater drainage demonstrate advanced engineering knowledge. Anjar is an exceptional example of early Islamic urban planning and has been on the UNESCO World Heritage list since 1984."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost egy 114 000 négyzetméteres, két méter vastag fal vette körül.",
+          "Az ásatások során felfedeztek egy fejlett fűtési rendszerrel rendelkező hamamot.",
+          "Az oszlopok jelentős részét régebbi római és bizánci épületekből hozták ide.",
+          "A 20. század közepén örmény menekültek telepedtek le a romok szomszédságában.",
+          "Az ókori utcák alatt egy ma is működőképes vízvezetékrendszer fut."
+        ],
+        "ro": [
+          "Orașul era înconjurat de un zid de doi metri grosime, care cuprindea 114.000 mp.",
+          "În timpul săpăturilor s-a descoperit un hamam cu un sistem avansat de încălzire.",
+          "Multe dintre coloane au fost aduse din clădiri romane și bizantine mai vechi.",
+          "La jumătatea secolului XX, refugiații armeni s-au stabilit lângă ruine.",
+          "Sub străzile antice trece un sistem de apeducte care încă mai funcționează."
+        ],
+        "en": [
+          "The city was enclosed by a two-meter-thick wall encompassing 114,000 square meters.",
+          "During the excavations, a hammam with an advanced heating system was discovered.",
+          "A significant portion of the columns were brought from older Roman and Byzantine buildings.",
+          "In the mid-20th century, Armenian refugees settled next to the ruins.",
+          "An aqueduct system that could still function runs beneath the ancient streets."
+        ]
+      }
+    },
+    {
+      "id": "sidon-sea-castle-history-v2",
+      "descriptionAdvanced": {
+        "hu": "Szidón tengeri vára (Qala'at al-Bahr) a 13. század elején épült, amikor a keresztesek erődítményt emeltek a föníciai város partjainál fekvő kis szigeten. A szigetet egy 80 méter hosszú, masszív kőhíd köti össze a szárazfölddel. A vár külső falainak építéséhez felhasználták a korábbi föníciai és római építmények, köztük Melkart templomának romjait is; az oszloptöredékek ma is láthatók a falakba beépítve. Az erőd stratégiai pontként védte a kikötőt, de többször is gazdát cserélt a mamelukok és a keresztesek között, ami folyamatos átépítéseket eredményezett. A 17. században Fakhreddin drúz emír restauráltatta, majd az oszmán időkben lőfegyverekkel szerelték fel. Az északi toronyból tiszta időben kiváló rálátás nyílik az ősi városmagra és a tengerpartra. Ma Libanon egyik legikonikusabb műemléke, amely hűen tükrözi az ország viharos történelmét.",
+        "ro": "Castelul Mării din Sidon (Qala'at al-Bahr) a fost construit la începutul secolului al XIII-lea, când cruciații au ridicat o fortăreață pe o mică insulă în largul coastei orașului fenician. Insula este conectată la continent printr-un pod masiv de piatră lung de 80 de metri. Pentru construcția zidurilor exterioare s-au folosit materiale de la clădiri feniciene și romane anterioare, inclusiv de la templul lui Melqart; fragmente de coloane pot fi văzute și astăzi încorporate în pereți. Fortăreața proteja portul ca un punct strategic, dar a schimbat de mai multe ori tabăra între mameluci și cruciați, ducând la reconstrucții continue. În secolul al XVII-lea, Emirul druz Fakhreddine a restaurat-o, iar în perioada otomană a fost dotată cu arme de foc. Turnul de nord oferă o vedere excelentă asupra centrului vechi al orașului. Astăzi, este unul dintre cele mai emblematice monumente din Liban.",
+        "en": "Sidon Sea Castle (Qala'at al-Bahr) was built in the early 13th century when Crusaders erected a fortress on a small island off the coast of the Phoenician city. The island is connected to the mainland by an 80-meter-long massive stone bridge. The exterior walls were built using remains of earlier Phoenician and Roman structures, including the temple of Melqart; column fragments can still be seen embedded in the walls today. The fortress protected the harbor as a strategic point but changed hands several times between the Mamluks and the Crusaders, resulting in continuous rebuilding. In the 17th century, the Druze Emir Fakhreddine restored it, and during the Ottoman period, it was equipped with firearms. On a clear day, the northern tower offers an excellent view of the ancient city center and the coastline. Today, it is one of Lebanon's most iconic monuments, faithfully reflecting the country's turbulent history."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az eredeti kőhíd fa felvonóhíddal volt felszerelve a védelem érdekében.",
+          "A nyugati torony jó állapotban maradt fenn, masszív boltozatos termekkel.",
+          "A mameluk hódítás idején, 1291-ben az erődítményt részben lerombolták.",
+          "A falakba épített fekete gránit oszlopok nagy része Egyiptomból származik.",
+          "A 19. századi egyiptomi megszállás alatt laktanyaként és börtönként használták."
+        ],
+        "ro": [
+          "Podul original de piatră era echipat cu un pod mobil de lemn pentru apărare.",
+          "Turnul de vest s-a păstrat în stare bună, cu săli boltite masive.",
+          "În timpul cuceririi mamelucilor din 1291, fortăreața a fost parțial distrusă.",
+          "Multe dintre coloanele de granit negru din ziduri provin din Egipt.",
+          "În timpul ocupației egiptene din secolul XIX, a fost folosit ca cazarmă și închisoare."
+        ],
+        "en": [
+          "The original stone bridge was equipped with a wooden drawbridge for defense.",
+          "The western tower has remained in good condition, with massive vaulted halls.",
+          "During the Mamluk conquest in 1291, the fortress was partially destroyed.",
+          "Most of the black granite columns built into the walls originated from Egypt.",
+          "During the 19th-century Egyptian occupation, it was used as a barracks and prison."
+        ]
+      }
+    },
+    {
+      "id": "temple-of-bacchus-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A Bacchus-templom Baalbek romvárosában az i. sz. 150 körüli évekből származik, és a világ egyik legépebben fennmaradt római kori vallási épülete. Bár kisebb a mellette álló Jupiter-templomnál, méretei így is lenyűgözőek: 66 méter hosszú és 35 méter széles, 19 méter magas korinthoszi oszlopokkal. A templomot a hagyomány Bacchusnak, a bor és mámor istenének szenteltként azonosítja a kapuzat és a belső tér gazdag, szőlőindákat és bacchánsnőket ábrázoló faragványai miatt. A cella belső falait fülkék és pilaszterek tagolják, a monumentális bejáratot pedig bonyolult kőfaragások, köztük sas- és oroszlánmotívumok díszítik. A falak jó állapota annak is köszönhető, hogy a középkorban az építményt az arab erődítmény részévé tették, így elkerülte a széleskörű pusztulást. A templom a római kőfaragás magasiskoláját képviseli, és a Közel-Kelet antik örökségének egyik ékköve.",
+        "ro": "Templul lui Bacchus din orașul antic Baalbek datează din jurul anului 150 d.Hr. și este una dintre cele mai bine conservate clădiri religioase romane din lume. Deși este mai mic decât Templul lui Jupiter din apropiere, dimensiunile sale sunt încă impresionante: 66 de metri lungime și 35 de metri lățime, cu coloane corintice de 19 metri înălțime. Tradiția asociază templul cu Bacchus, zeul vinului, datorită sculpturilor bogate de pe portal și din interior, care înfățișează viță de vie și bacante. Pereții interiori ai cellei sunt împărțiți de nișe și pilaștri, iar intrarea monumentală este decorată cu sculpturi complexe, inclusiv motive cu vulturi și lei. Starea bună a pereților se datorează și faptului că, în Evul Mediu, clădirea a fost integrată în fortăreața arabă, evitând distrugerea. Templul reprezintă o capodoperă a sculpturii în piatră romane.",
+        "en": "The Temple of Bacchus in the ancient city of Baalbek dates from around 150 AD and is one of the best-preserved Roman religious buildings in the world. Although smaller than the neighboring Temple of Jupiter, its dimensions are still impressive: 66 meters long and 35 meters wide, with 19-meter-high Corinthian columns. Tradition associates the temple with Bacchus, the god of wine, due to the rich carvings on the portal and interior depicting grapevines and bacchantes. The interior walls of the cella are articulated by niches and pilasters, and the monumental entrance is decorated with intricate stone carvings, including eagle and lion motifs. The good condition of the walls is partly due to the fact that during the Middle Ages, the building was integrated into the Arab fortress, escaping widespread destruction. The temple represents a masterpiece of Roman stone carving and is a jewel of the Middle East's ancient heritage."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A peripterosz szerkezetet eredetileg 42 masszív oszlop vette körül.",
+          "A bejárat fölött egy faragott kőtömb lógott veszélyesen, amelyet 1870-ben stabilizáltak.",
+          "A templom kazettás mennyezetének maradványain bolygóistenek portréi láthatók.",
+          "A 20. század elején az egész épületet vastag törmelékrétegtől kellett megtisztítani.",
+          "A szakértők szerint a templomot esetleg Atargatisz istennőnek is szentelhették."
+        ],
+        "ro": [
+          "Structura peripterală era înconjurată inițial de 42 de coloane masive.",
+          "Un bloc de piatră sculptat atârna periculos deasupra intrării, fiind stabilizat în 1870.",
+          "Portrete ale zeilor planetari pot fi văzute pe rămășițele tavanului casetat.",
+          "La începutul secolului XX, întreaga clădire a trebuit curățată de un strat gros de moloz.",
+          "Potrivit experților, templul ar fi putut fi dedicat și zeiței Atargatis."
+        ],
+        "en": [
+          "The peripteral structure was originally surrounded by 42 massive columns.",
+          "A carved stone block hung precariously over the entrance and was stabilized in 1870.",
+          "Portraits of planetary gods can be seen on the remains of the coffered ceiling.",
+          "In the early 20th century, the entire building had to be cleared of thick rubble.",
+          "According to experts, the temple might also have been dedicated to the goddess Atargatis."
+        ]
+      }
+    },
+    {
+      "id": "temple-of-jupiter-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A baalbeki Jupiter-templom az ókori világ egyik legambiciózusabb építészeti vállalkozása volt, melyet Antoninus Pius római császár idején kezdtek építeni és közel három évszázadon át finomítottak. Ez volt a Római Birodalom legnagyobb pogány szentélye, amely egy hatalmas akropolisz nyugati végén állt. Eredetileg 54 darab, egyenként 22 méter magas és majdnem 2 méter átmérőjű korinthoszi oszlop tartotta a roppant méretű tetőszerkezetet; ezekből ma már csak hat oszlop áll egyetlen architráv alatt, amelyek Baalbek jelképévé váltak. A templom alapzatában található a híres trilithon: három, egyenként több mint 800 tonnás mészkőtömb, amelyek a korabeli emeléstechnika határait feszegették. Az udvaron feltártak egy oltárt és egy rituális medencét is. Az 5. században a bizánciak nagy részét lerombolták, köveit pedig bazilika építéséhez használták fel.",
+        "ro": "Templul lui Jupiter din Baalbek a fost una dintre cele mai ambițioase întreprinderi arhitecturale ale lumii antice, începută sub împăratul roman Antoninus Pius și perfecționată timp de aproape trei secole. Acesta a fost cel mai mare sanctuar păgân din Imperiul Roman, situat la capătul vestic al unei acropole uriașe. Inițial, 54 de coloane corintice, fiecare având 22 de metri înălțime și aproape 2 metri diametru, susțineau structura masivă a acoperișului; astăzi, mai stau în picioare doar șase coloane sub o singură arhitravă, devenind simbolul Baalbekului. Fundația templului conține faimosul trilithon: trei blocuri de calcar, fiecare cântărind peste 800 de tone, care au împins limitele tehnologiei de ridicare din acea vreme. În secolul al V-lea, bizantinii au distrus mare parte din el pentru a construi o bazilică.",
+        "en": "The Temple of Jupiter in Baalbek was one of the most ambitious architectural undertakings of the ancient world, started under the Roman Emperor Antoninus Pius and refined over nearly three centuries. It was the largest pagan sanctuary in the Roman Empire, standing at the western end of a massive acropolis. Originally, 54 Corinthian columns, each 22 meters high and nearly 2 meters in diameter, supported the immense roof structure; today, only six columns stand under a single architrave, which have become the symbol of Baalbek. The temple's foundation contains the famous Trilithon: three limestone blocks, each weighing over 800 tons, pushing the limits of contemporary lifting technology. An altar and a ritual pool were also excavated in the courtyard. In the 5th century, the Byzantines destroyed much of it, using its stones to build a basilica."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A monumentális oszlopokat rózsaszín gránitból faragták, amelyet a Nílus völgyéből hoztak.",
+          "A Nagy Udvarhoz egy monumentális lépcsősor és egy Propülaia vezetett.",
+          "Egy bizánci krónikás szerint a szentély egy régebbi, föníciai Baal-templomra épült.",
+          "A templom cellájában az orákulumokhoz használt rejtett kamrákat alakítottak ki.",
+          "A hat megmaradt oszlop egy 1759-es erős földrengést is túlélt."
+        ],
+        "ro": [
+          "Coloanele monumentale au fost sculptate din granit roz adus din Valea Nilului.",
+          "O scară monumentală și un Propileu duceau către Marea Curte.",
+          "Potrivit unui cronicar bizantin, sanctuarul a fost construit pe un templu fenician mai vechi.",
+          "În cella templului au fost create camere ascunse folosite pentru oracole.",
+          "Cele șase coloane rămase au supraviețuit și unui cutremur puternic în 1759."
+        ],
+        "en": [
+          "The monumental columns were carved from pink granite brought from the Nile Valley.",
+          "A monumental staircase and a Propylaea led to the Great Court.",
+          "According to a Byzantine chronicler, the sanctuary was built on an older Phoenician Baal temple.",
+          "Hidden chambers used for oracles were created in the cella of the temple.",
+          "The six remaining columns also survived a strong earthquake in 1759."
+        ]
+      }
+    },
+    {
+      "id": "tripoli-citadel-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A tripoli fellegvár (Citadel of Raymond de Saint-Gilles) Libanon egyik legrégebbi és legnagyobb katonai erődítménye. Eredetét 1103-ra vezetik vissza, amikor a toulouse-i gróf, a keresztes hadjárat egyik vezetője várat emeltetett a Zarándokhegyen, hogy ellenőrzése alatt tartsa a kikötőt és az utakat. Az erődöt 1289-ben Qalawun mameluk szultán ostromolta és elfoglalta, majd újjáépíttette. A következő évszázadokban az Oszmán Birodalom is többször bővítette, falait megvastagították, és új bástyákat emeltek a tüzérség számára. Az építményen világosan láthatók a különböző korszakok építészeti rétegei: a keresztes lovagok keresztboltozatai, a mameluk feliratok és az oszmán stílusú ablakok. A hatalmas komplexum területén börtönök, istállók, mecset és víztározók is helyet kaptak. Ma a citadella felújított múzeumként várja a látogatókat, ahonnan panorámás kilátás nyílik Észak-Libanon legnagyobb városára.",
+        "ro": "Citadela din Tripoli (Citadela lui Raymond de Saint-Gilles) este una dintre cele mai vechi și mai mari fortărețe militare din Liban. Originile sale datează din 1103, când Contele de Toulouse, unul dintre liderii cruciadelor, a construit un castel pe Muntele Pelerinilor pentru a controla portul și rutele. Fortăreața a fost asediată și capturată de sultanul mameluc Qalawun în 1289, care apoi a reconstruit-o. În secolele următoare, Imperiul Otoman a extins-o de mai multe ori, îngroșând zidurile și adăugând noi bastioane pentru artilerie. Straturile arhitecturale ale diferitelor epoci sunt vizibile: bolțile în cruce ale cavalerilor cruciați, inscripțiile mameluce și ferestrele în stil otoman. Complexul masiv includea și închisori, grajduri, o moschee și rezervoare de apă. Astăzi, citadela este un muzeu restaurat, oferind vedere panoramică asupra celui mai mare oraș din nordul Libanului.",
+        "en": "The Citadel of Tripoli (Citadel of Raymond de Saint-Gilles) is one of the oldest and largest military fortresses in Lebanon. Its origins date back to 1103 when the Count of Toulouse, a leader of the First Crusade, built a castle on Pilgrim's Mount to control the port and routes. The fortress was besieged and captured by the Mamluk Sultan Qalawun in 1289, who then rebuilt it. Over the following centuries, the Ottoman Empire expanded it several times, thickening its walls and adding new bastions for artillery. The architectural layers of different eras are clearly visible: the cross vaults of the Crusaders, the Mamluk inscriptions, and the Ottoman-style windows. The massive complex also housed prisons, stables, a mosque, and water reservoirs. Today, the citadel is a restored museum, offering a panoramic view of northern Lebanon's largest city."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Raymond de Saint-Gilles ostromgépekkel innen lőtte a közeli föníciai várost.",
+          "Az erőd alatt ősi római sírok és ciszternák nyomait fedezték fel.",
+          "1521-ben I. Szulejmán szultán parancsára jelentős restauráláson esett át.",
+          "A 20. század közepén az épületet katonai börtönként is használták.",
+          "A belső udvarokban ma is láthatók az egykori török fürdők maradványai."
+        ],
+        "ro": [
+          "Raymond de Saint-Gilles a bombardat de aici orașul fenician din apropiere.",
+          "Sub fortăreață au fost descoperite urme de morminte și cisterne romane antice.",
+          "În 1521, din ordinul Sultanului Suleiman I, a suferit o restaurare majoră.",
+          "La mijlocul secolului XX, clădirea a fost folosită și ca închisoare militară.",
+          "Rămășițele fostelor băi turcești pot fi încă văzute în curțile interioare."
+        ],
+        "en": [
+          "Raymond de Saint-Gilles bombarded the nearby Phoenician city from here using siege engines.",
+          "Traces of ancient Roman tombs and cisterns were discovered under the fortress.",
+          "In 1521, by order of Sultan Suleiman I, it underwent major restoration.",
+          "In the mid-20th century, the building was also used as a military prison.",
+          "The remains of former Turkish baths can still be seen in the inner courtyards."
+        ]
+      }
+    },
+    {
+      "id": "beaufort-castle-history-v2",
+      "descriptionAdvanced": {
+        "hu": "A Beaufort-kastély (Qala'at ash-Shqif) egy 12. századi keresztes erőd, amely a Litani folyó felett egy ezer méter magas sziklaperemen magasodik. Stratégiai elhelyezkedése lehetővé tette, hogy a védők messzire ellássanak Dél-Libanon és Észak-Izrael felett. Eredetileg egy kisebb iszlám erődítmény állt itt, melyet Fulk jeruzsálemi király 1139-ben foglalt el és alakított át masszív, bevehetetlen lovagvárrá. Bár Szaladin egyéves ostrom után 1190-ben megszerezte, a templomos lovagok később visszavásárolták, majd 1268-ban a mameluk Bajbarsz szultán végleg elfoglalta. Az erőd D alakú alaprajzzal rendelkezik, vastag, hegyvidéki kőből rakott falakkal és mély sziklába vájt várárokkal. Történelme során számos modern kori konfliktusnak is színtere volt, ami megrongálta a falakat. Napjainkra részlegesen restaurálták, és Dél-Libanon egyik leglátogatottabb történelmi nevezetessége.",
+        "ro": "Castelul Beaufort (Qala'at ash-Shqif) este o fortăreață cruciată din secolul al XII-lea, care se înalță pe o stâncă de o mie de metri deasupra râului Litani. Locația sa strategică a permis apărătorilor să vadă departe peste sudul Libanului și nordul Israelului. Inițial a existat o mică fortăreață islamică aici, care a fost capturată de Regele Fulk al Ierusalimului în 1139 și transformată într-un castel masiv. Deși Saladin a cucerit-o în 1190 după un asediu de un an, Cavalerii Templieri au răscumpărat-o mai târziu, dar sultanul mameluc Baibars a capturat-o definitiv în 1268. Fortăreața are o structură în formă de D, cu ziduri groase de piatră și șanțuri adânci tăiate în stâncă. De-a lungul istoriei, a fost scena multor conflicte moderne, care au deteriorat pereții. Până în prezent, a fost parțial restaurată și este unul dintre reperele istorice din sudul Libanului.",
+        "en": "Beaufort Castle (Qala'at ash-Shqif) is a 12th-century Crusader fortress rising on a thousand-meter-high cliff above the Litani River. Its strategic location allowed defenders to see far across southern Lebanon and northern Israel. Initially, a smaller Islamic fortress stood here, which was captured by King Fulk of Jerusalem in 1139 and transformed into a massive knight's castle. Although Saladin conquered it in 1190 after a year-long siege, the Knights Templar later bought it back, and the Mamluk Sultan Baibars finally captured it in 1268. The fortress has a D-shaped layout with thick mountain stone walls and deep rock-cut moats. Throughout its history, it has also been the scene of many modern-day conflicts, which damaged the walls. Today, it has been partially restored and is one of the most visited historical landmarks in southern Lebanon."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A keleti oldalon egy sziklába vágott alagút vezetett a mélyben fekvő forrásokhoz.",
+          "A vár arab neve, Shqif Arnun, a meredek sziklafalra utal.",
+          "Fakhreddin drúz emír a 17. században jelentősen bővítette a védműveket.",
+          "A 20. század végén az erőd jelentős károkat szenvedett az izraeli-libanoni háborúkban.",
+          "2014-ben egy kuvaiti alap támogatásával átfogó állagmegóvó munkák kezdődtek."
+        ],
+        "ro": [
+          "Pe partea de est, un tunel tăiat în stâncă ducea la izvoarele aflate la adâncime.",
+          "Numele arab al castelului, Shqif Arnun, se referă la peretele abrupt de stâncă.",
+          "Emirul druz Fakhreddine a extins semnificativ apărările în secolul al XVII-lea.",
+          "La sfârșitul secolului XX, a suferit daune majore în războaiele israeliano-libaneze.",
+          "În 2014, au început lucrări ample de conservare susținute de un fond kuweitian."
+        ],
+        "en": [
+          "On the eastern side, a rock-cut tunnel led to the deep-seated springs.",
+          "The castle's Arabic name, Shqif Arnun, refers to the steep rock face.",
+          "The Druze Emir Fakhreddine significantly expanded the defenses in the 17th century.",
+          "In the late 20th century, it suffered major damage in the Israeli-Lebanese wars.",
+          "In 2014, comprehensive preservation work began with support from a Kuwaiti fund."
+        ]
+      }
+    }
+  ]
+}

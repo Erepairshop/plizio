@@ -1,0 +1,60 @@
+{
+  "lang": "hu",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-wawa-nature-v2",
+      "description": "A Río Wawa az Északi Karib-tengeri Autonóm Régióban található, fontos folyó a helyi közösségek és az ökoszisztéma számára.",
+      "facts": ["Fontos folyó", "Északi Karib-tengeri Autonóm Régió", "Helyi ökoszisztéma"]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "description": "A Meseta de los Pueblos egy vulkanikus fennsík Masaya tartományban, termékeny talaja és enyhe klímája miatt ismert.",
+      "facts": ["Vulkanikus fennsík", "Masaya tartomány", "Termékeny talaj"]
+    },
+    {
+      "id": "cerro-killibrin-relief-v2",
+      "description": "Cerro Killibrín egy hegy Matagalpa tartományban, amely kávéültetvényeiről és a környező tájra nyíló panorámáról ismert.",
+      "facts": ["Hegy", "Matagalpa tartomány", "Kávéültetvények"]
+    },
+    {
+      "id": "meseta-de-juigalpa-relief-v2",
+      "description": "A Meseta de Juigalpa egy mezőgazdasági fennsík Chontales tartományban, szarvasmarha tenyésztésről és termékeny földjeiről ismert.",
+      "facts": ["Mezőgazdasági fennsík", "Chontales tartomány", "Szarvasmarha tenyésztés"]
+    },
+    {
+      "id": "cerro-el-pilon-relief-v2",
+      "description": "Cerro El Pilón egy jellegzetes hegy Boaco tartományban, kilátásáról és a száraz erdőiről ismert.",
+      "facts": ["Jellegzetes hegy", "Boaco tartomány", "Száraz erdők"]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "A Valle de Osúa Jinotega tartományban egy termékeny völgy, hegyekkel körülvéve, és mezőgazdaságáról ismert.",
+      "facts": ["Termékeny völgy", "Jinotega tartomány", "Mezőgazdaság"]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "description": "A Meseta de Jinotega egy magaslati fennsík, hűvös klímájú kávétermesztéséről és hegyvidéki tájairól ismert.",
+      "facts": ["Magaslati fennsík", "Kávétermesztés", "Hegyvidéki tájak"]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "description": "Cerro La Quinta Matagalpa tartományban egy hegy, amely túraútvonalairól és panorámás kilátásairól ismert.",
+      "facts": ["Hegy", "Túraútvonalak", "Panorámás kilátás"]
+    },
+    {
+      "id": "valle-de-la-libertad-relief-v2",
+      "description": "A Valle de la Libertad Chontales tartományban egy termékeny völgy, szarvasmarha tenyésztéséről és mezőgazdaságáról ismert.",
+      "facts": ["Termékeny völgy", "Chontales tartomány", "Szarvasmarha tenyésztés"]
+    },
+    {
+      "id": "cerro-coyol-relief-v2",
+      "description": "Cerro Coyol Chinandega tartományban egy alacsony hegy, amely gyümölcsösöket és mezőgazdasági területeket vesz körül.",
+      "facts": ["Alacsony hegy", "Chinandega tartomány", "Mezőgazdasági területek"]
+    }
+  ]
+}

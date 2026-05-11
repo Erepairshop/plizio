@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "One of the most popular zoos in Mexico, located inside Chapultepec Park. It houses a diverse collection of Mexican and international wildlife.",
+      "facts": ["Located in Mexico City", "Inside Chapultepec Park", "Free admission", "Large collection of species"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "A well-known zoological park in Mexico City, focusing on species native to the Mexican Basin.",
+      "facts": ["Located in Mexico City", "Focus on endemic species", "Large educational programs", "Family-friendly park"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "One of the largest zoos in Mexico, known for its panoramic views and open-habitat exhibits.",
+      "facts": ["Located in Guadalajara", "Large Safari section", "Panoramic zoo views", "Diverse exotic species"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "A major underground aquarium located in Mexico City, featuring thousands of aquatic species.",
+      "facts": ["Located in Mexico City", "Underground aquarium", "Over 5,000 animals", "Modern marine exhibits"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "An eco-archaeological park in the Riviera Maya that showcases Mexican nature, culture, and marine life.",
+      "facts": ["Riviera Maya location", "Eco-archaeological park", "Underground rivers", "Marine wildlife sanctuary"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "A popular safari-style park near Puebla where animals roam freely in large open habitats.",
+      "facts": ["Located near Puebla", "Safari-style experience", "Open-range habitats", "Large animal population"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "A large wildlife park in the State of Mexico, designed as a safari-type experience for families.",
+      "facts": ["State of Mexico location", "Safari-type experience", "Interactive animal areas", "Family entertainment"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "A UNESCO World Heritage site where millions of monarch butterflies spend the winter.",
+      "facts": ["Wintering site for monarchs", "UNESCO World Heritage site", "Located in Michoacan", "Spectacular migration"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "A protected biosphere reserve in the Yucatan Peninsula, known for its incredible biodiversity.",
+      "facts": ["Yucatan biosphere reserve", "UNESCO World Heritage site", "Incredible biodiversity", "Protected coastal ecosystem"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "A vast tropical forest reserve and archaeological site, home to diverse jungle wildlife.",
+      "facts": ["Located in Campeche", "Vast tropical forest", "Rich jungle biodiversity", "Archaeological site included"]
+    }
+  ]
+}

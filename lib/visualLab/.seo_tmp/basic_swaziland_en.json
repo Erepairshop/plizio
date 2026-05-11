@@ -1,0 +1,66 @@
+{
+  "lang": "en",
+  "country": "Swaziland",
+  "files": [
+    "lib/visualLab/data/poiExtraSwazilandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandLifeV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "king-mswati-iii-international-airport-landmarks-v2",
+      "description": "This is the primary international airport serving Eswatini, located near Sikhuphe. It handles regional and international flights, acting as a gateway to the country.",
+      "facts": ["Opened in 2014", "Located near Sikhuphe", "Main gateway to Eswatini", "Serves Mbabane and Manzini"]
+    },
+    {
+      "id": "simunye-estate-life-v2",
+      "description": "A significant agricultural community focused on sugar production in the eastern part of the country. It features planned housing, schools, and extensive cane fields.",
+      "facts": ["Sugar production hub", "Eastern Eswatini location", "Large agricultural area", "Community-focused infrastructure"]
+    },
+    {
+      "id": "bulunga-mountains-relief-v2",
+      "description": "A rugged mountain range located in the southern part of Eswatini, known for its scenic views and challenging terrain.",
+      "facts": ["Southern mountain range", "Rugged terrain", "Scenic landscapes", "Part of the Eswatini highlands"]
+    },
+    {
+      "id": "dlangeni-hills-relief-v2",
+      "description": "These hills are situated near the capital city, providing a dramatic backdrop and contributing to the varied topography of the region.",
+      "facts": ["Near Mbabane", "Hilly topography", "High-altitude region", "Scenic natural area"]
+    },
+    {
+      "id": "makonjwa-mountains-relief-v2",
+      "description": "Also known as the Barberton Greenstone Belt, these mountains contain some of the oldest exposed rock formations on Earth.",
+      "facts": ["Geologically ancient rocks", "Barberton Greenstone Belt", "World Heritage Site status", "High biodiversity region"]
+    },
+    {
+      "id": "lubombo-plateau-relief-v2",
+      "description": "A prominent geographic feature running along the eastern border of Eswatini, separating the lowveld from the coastal plain of Mozambique.",
+      "facts": ["Eastern border feature", "Large plateau", "Distinct ecoregion", "High elevation cliffs"]
+    },
+    {
+      "id": "middleveld-hills-relief-v2",
+      "description": "This central region of Eswatini is characterized by rolling hills, fertile valleys, and a temperate climate suitable for diverse agriculture.",
+      "facts": ["Central Eswatini region", "Rolling hills landscape", "Temperate climate", "Agricultural hub"]
+    },
+    {
+      "id": "grand-valley-relief-v2",
+      "description": "A deep, expansive valley providing essential drainage and fertile land for the central regions of Eswatini.",
+      "facts": ["Deep river valley", "Fertile agricultural land", "Central drainage system", "Scenic natural feature"]
+    },
+    {
+      "id": "mhlambanyatsi-forest-relief-v2",
+      "description": "A notable plantation forest area in the highveld, contributing significantly to the country's timber and forestry sector.",
+      "facts": ["Highveld forest area", "Timber production site", "Dense tree canopy", "Managed plantation"]
+    },
+    {
+      "id": "ngonini-forest-relief-v2",
+      "description": "An important forestry area in the northern part of Eswatini, featuring managed timber estates and mountain landscapes.",
+      "facts": ["Northern forest area", "Managed timber estate", "Mountainous terrain", "Commercial forestry"]
+    },
+    {
+      "id": "gege-forest-relief-v2",
+      "description": "A forest region situated in the south, essential for regional biodiversity and sustainable land use practices.",
+      "facts": ["Southern forest region", "Biodiversity hotspot", "Sustainable forestry", "Elevated plateau area"]
+    }
+  ]
+}

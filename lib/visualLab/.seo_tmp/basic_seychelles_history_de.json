@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "victoria-clock-tower-history-v2",
+      "description": "Der Clock Tower in Victoria ist ein Wahrzeichen aus dem Jahr 1903, das an die Unabhängigkeit der Seychellen von Mauritius erinnert.",
+      "facts": ["Erbaut 1903", "Wahrzeichen von Victoria", "Britische Kolonialzeit", "Replika-Uhr"]
+    },
+    {
+      "id": "mission-lodge-history-v2",
+      "description": "Die Mission Lodge auf Mahé ist die Ruine einer Schule, die im 19. Jahrhundert von der Church Missionary Society für befreite Sklavenkinder gegründet wurde.",
+      "facts": ["Ruine einer Schule", "19. Jahrhundert", "Befreite Sklaven", "UNESCO-Welterbe-Kandidat"]
+    },
+    {
+      "id": "domaine-de-val-des-pres-history-v2",
+      "description": "Das Domaine de Val des Prés ist ein historisches Anwesen auf Mahé, das das traditionelle Leben und die Architektur der kreolischen Kultur auf den Seychellen zeigt.",
+      "facts": ["Historisches Anwesen", "Kreolische Kultur", "Traditionelle Architektur", "Museumsgelände"]
+    },
+    {
+      "id": "sir-selwyn-market-history-v2",
+      "description": "Der Sir Selwyn Selwyn-Clarke Market in Victoria wurde 1840 erbaut und ist das Herzstück des lokalen Handels auf Mahé.",
+      "facts": ["Erbaut 1840", "Zentrum von Victoria", "Handel und Kultur", "Lokale Waren"]
+    },
+    {
+      "id": "st-pauls-cathedral-history-v2",
+      "description": "Die St. Paul's Cathedral ist die erste anglikanische Kirche auf den Seychellen und ein historisches Zentrum für den Glauben seit dem 19. Jahrhundert.",
+      "facts": ["Erste Anglikanische Kirche", "19. Jahrhundert", "Historisches Zentrum", "Architektonisches Erbe"]
+    },
+    {
+      "id": "state-house-history-v2",
+      "description": "Das State House in Victoria ist der offizielle Amtssitz des Präsidenten der Seychellen und eines der ältesten Gebäude der Inselhauptstadt.",
+      "facts": ["Präsidentenamtssitz", "Älteres Gebäude", "Regierungshauptsitz", "Historischer Ort"]
+    },
+    {
+      "id": "carnegie-library-history-v2",
+      "description": "Die Carnegie Library in Victoria wurde Anfang des 20. Jahrhunderts gegründet und ist ein Symbol für die frühe Bildungsgeschichte des Archipels.",
+      "facts": ["Frühes 20. Jhd.", "Bildungsgeschichte", "Bibliothek", "Historisches Gebäude"]
+    },
+    {
+      "id": "la-bastille-history-v2",
+      "description": "La Bastille ist ein denkmalgeschütztes Gebäude auf Mahé, das für seine besondere architektonische Bedeutung in der Inselgeschichte steht.",
+      "facts": ["Denkmalgeschützt", "Architektonisches Erbe", "Historisches Gebäude", "Inselgeschichte"]
+    },
+    {
+      "id": "eustache-sarde-house-history-v2",
+      "description": "Das Eustache Sarde House ist ein traditionelles kreolisches Haus, das den Lebensstil wohlhabender Familien der vergangenen Epoche veranschaulicht.",
+      "facts": ["Kreolisches Wohnhaus", "Traditioneller Baustil", "Historisches Erbe", "Vergangene Epoche"]
+    },
+    {
+      "id": "liberation-monument-history-v2",
+      "description": "Das Liberation Monument in Victoria erinnert an bedeutende politische Ereignisse und die Souveränität des jungen Staates Seychellen.",
+      "facts": ["Politisches Monument", "Souveränität", "Historische Erinnerung", "Victoria Stadtzentrum"]
+    },
+    {
+      "id": "le-jardin-du-roi-history-v2",
+      "description": "Le Jardin du Roi ist ein historischer Garten, der auf die Gewürzplantagen des 18. Jahrhunderts zurückgeht, die zur Zeit der französischen Herrschaft angelegt wurden.",
+      "facts": ["18. Jahrhundert", "Gewürzplantage", "Französische Ära", "Historischer Garten"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "lang": "en",
+  "country": "Paraguay",
+  "files": [
+    "lib/visualLab/data/poiExtraParaguayNatureV2.ts",
+    "lib/visualLab/data/poiExtraParaguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "py-cerro-yaguaron-nature-v2",
+      "description": "Cerro Yaguarón is a prominent hill located in the Paraguarí Department of Paraguay. It offers significant panoramic views and is a known site for local hiking.",
+      "facts": ["Located in Paraguarí", "Popular for hiking", "Prominent landmark"]
+    },
+    {
+      "id": "py-rio-jejui-guazu-nature-v2",
+      "description": "The Jejuí Guazú River is a tributary of the Paraguay River that flows through the eastern part of the country. It plays a vital role in the regional hydrological system.",
+      "facts": ["Paraguay River tributary", "Flows through eastern Paraguay", "Vital regional waterway"]
+    },
+    {
+      "id": "cordillera-de-caaguazu-relief-v2",
+      "description": "The Cordillera de Caaguazú is a mountain range in eastern Paraguay that serves as a natural divide for local watersheds. It characterizes the landscape of the Caaguazú region.",
+      "facts": ["Located in eastern Paraguay", "Watershed divide", "Distinctive highland area"]
+    },
+    {
+      "id": "serrania-de-amambay-relief-v2",
+      "description": "The Serranía de Amambay is a range of hills forming part of the border between Paraguay and Brazil. It is characterized by dense vegetation and rugged terrain.",
+      "facts": ["Forms part of Brazil-Paraguay border", "Rugged landscape", "Dense vegetation cover"]
+    },
+    {
+      "id": "cerro-yaguaron-relief-v2",
+      "description": "Cerro Yaguarón is an isolated hill formation that rises above the surrounding plains of the Paraguarí Department. Its structure is a notable geological feature of the region.",
+      "facts": ["Isolated hill formation", "Located in Paraguarí", "Prominent geological feature"]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "lang": "ro",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-kulal-relief-v2",
+      "description": "Muntele Kulal este un munte vulcanic proeminent care se ridică deasupra deșertului Chalbi și a lacului Turkana.",
+      "facts": [
+        "Piscuri gemene vulcanice",
+        "Pante abrupte din bazalt",
+        "Altitudine 2.285 m",
+        "Izolat de alte lanțuri"
+      ]
+    },
+    {
+      "id": "mount-nyiru-relief-v2",
+      "description": "Muntele Nyiru este un masiv impunător din nordul Kenyei, oferind un contrast verde față de peisajul deșertic din jur.",
+      "facts": [
+        "Altitudine de 2.752 m",
+        "Acoperit de păduri de cedru",
+        "Parte din Valea Riftului",
+        "Patria tribului Samburu"
+      ]
+    },
+    {
+      "id": "mount-longonot-relief-v2",
+      "description": "Muntele Longonot este un stratovulcan spectaculos cu un crater vast și o caldeiră bine definită.",
+      "facts": [
+        "Vârf la 2.776 m",
+        "Ultima erupție în 1860",
+        "Crater cu diametru de 8 km",
+        "Pădure deasă în interior"
+      ]
+    },
+    {
+      "id": "tsavo-plains-relief-v2",
+      "description": "Câmpiile Tsavo reprezintă o regiune vastă de savană semi-aridă, divizată de calea ferată în Tsavo Est și Vest.",
+      "facts": [
+        "Sol de culoare roșu intens",
+        "Faimoși pentru 'elefanții roșii'",
+        "Formațiuni vulcanice recente",
+        "Teren plat cu dealuri izolate"
+      ]
+    },
+    {
+      "id": "tana-delta-relief-v2",
+      "description": "Delta Tana este un sistem complex de mlaștini, lacuri și dune de nisip unde râul Tana se varsă în Oceanul Indian.",
+      "facts": [
+        "Cea mai mare deltă din Kenya",
+        "Zonă protejată Ramsar",
+        "Bogat în păduri de mangrove",
+        "Ecosistem de apă dulce și sărată"
+      ]
+    },
+    {
+      "id": "kerio-valley-relief-v2",
+      "description": "Valea Kerio este o ramificație adâncă a Văii Marelui Rift, oferind peisaje dramatice și versanți abrupți.",
+      "facts": [
+        "Adâncime de peste 1.200 m",
+        "Pante de până la 45 grade",
+        "Renumită pentru producția de miere",
+        "Teren accidentat și arid"
+      ]
+    },
+    {
+      "id": "yatta-plateau-relief-v2",
+      "description": "Platoul Yatta este cea mai lungă curgere de lavă din lume, formând o creastă îngustă și înaltă în estul Kenyei.",
+      "facts": [
+        "Lungime de aproximativ 300 km",
+        "Format din bazalt fonolitic",
+        "Paralel cu râul Athi-Galana",
+        "Formațiune geologică unică"
+      ]
+    },
+    {
+      "id": "uganda-escarpment-relief-v2",
+      "description": "Escarpamentul Uganda este o treaptă abruptă de relief care marchează trecerea spre platourile înalte de la graniță.",
+      "facts": [
+        "Zonă de falie tectonică",
+        "Înălțimi de peste 1.500 m",
+        "Vederi panoramice spre rift",
+        "Teren dificil de traversat"
+      ]
+    },
+    {
+      "id": "mount-satima-relief-v2",
+      "description": "Muntele Satima (sau Ol Donyo Lesatima) este cel mai înalt punct din lanțul muntos Aberdare.",
+      "facts": [
+        "Altitudine de 4.001 m",
+        "Piscuri ascuțite 'Dragon's Teeth'",
+        "Vegetație afro-alpină",
+        "Zonă foarte rece și umedă"
+      ]
+    },
+    {
+      "id": "ndere-island-relief-v2",
+      "description": "Insula Ndere este o mică insulă vulcanică situată în golful Winam de pe lacul Victoria.",
+      "facts": [
+        "Numele înseamnă 'loc de întâlnire'",
+        "Parc Național Insular",
+        "Țărmuri stâncoase și pajiști",
+        "Habitat pentru crocodili"
+      ]
+    },
+    {
+      "id": "kacheliba-plains-relief-v2",
+      "description": "Câmpiile Kacheliba sunt zone vaste și plane situate în regiunea West Pokot, caracterizate printr-un climat arid.",
+      "facts": [
+        "Vegetație de stepă și tufișuri",
+        "Utilizate pentru păstorit",
+        "Altitudine medie de 1.000 m",
+        "Temperaturi ridicate tot anul"
+      ]
+    }
+  ]
+}

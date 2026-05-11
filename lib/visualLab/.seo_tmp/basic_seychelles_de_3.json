@@ -1,0 +1,49 @@
+{
+  "lang": "de",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sc-machabee-cities-v2",
+      "description": "Machabee liegt an der nördlichen Spitze von Mahé und ist eine ruhige Küstenregion. Der Ort ist bekannt für seine felsige Küste und die entspannte Wohnatmosphäre.",
+      "facts": ["Nordspitze Mahé", "Ruhige Küste", "Felsiges Ufer", "Wohngegend"]
+    },
+    {
+      "id": "sc-brillant-cities-v2",
+      "description": "Brillant ist ein Wohngebiet auf Mahé, das zentraler liegt. Es ist ein ruhiger Bezirk, der eine gute Anbindung an die umliegenden Stadtteile bietet.",
+      "facts": ["Zentrale Lage Mahé", "Wohngebiet", "Ruhiger Bezirk", "Gute Anbindung"]
+    },
+    {
+      "id": "sc-providence-cities-v2",
+      "description": "Providence ist ein wichtiges Industrie- und Gewerbegebiet auf der Insel Mahé. Hier befinden sich viele Handelsbetriebe und Logistikzentren der Insel.",
+      "facts": ["Industriegebiet", "Gewerbezentrum", "Logistik-Hub", "Mahé Ostküste"]
+    },
+    {
+      "id": "sc-val-dendore-cities-v2",
+      "description": "Val D'Endore ist eine Region auf Mahé, die für ihre landschaftliche Ruhe und natürliche Schönheit bekannt ist. Es ist ein Ort, der eher abseits der Haupttouristenpfade liegt.",
+      "facts": ["Landschaftlich ruhig", "Naturschönheit", "Rückzugsort", "Abseits der Pfade"]
+    },
+    {
+      "id": "sc-quatre-bornes-cities-v2",
+      "description": "Quatre Bornes auf Mahé ist eine Wohngegend, die eine ruhige Umgebung abseits der geschäftigen Hauptstadt bietet. Der Ort ist durch grüne Hügel charakterisiert.",
+      "facts": ["Wohngegend Mahé", "Ruhige Umgebung", "Grüne Hügellandschaft", "Nahe Victoria"]
+    },
+    {
+      "id": "sc-sans-souci-cities-v2",
+      "description": "Sans Souci ist eine malerische Bergregion im Zentrum von Mahé. Die Gegend ist durch eine kurvenreiche Passstraße und dichten tropischen Regenwald geprägt.",
+      "facts": ["Bergregion Mahé", "Passstraße", "Regenwald", "Zentrale Inselregion"]
+    },
+    {
+      "id": "sc-vista-do-mar-cities-v2",
+      "description": "Vista do Mar ist eine exklusive Wohngegend an der Nordwestküste von Mahé. Wie der Name andeutet, bietet der Ort einen weiten Blick über den Ozean.",
+      "facts": ["Nordwestküste Mahé", "Exklusive Wohngegend", "Meerblick", "Küstenlage"]
+    },
+    {
+      "id": "sc-quincy-village-cities-v2",
+      "description": "Quincy Village ist ein Wohnbezirk nahe Victoria auf Mahé. Es dient als wichtiger Wohnstandort für die Bevölkerung der Hauptinsel.",
+      "facts": ["Nahe Victoria", "Wohnbezirk", "Wohnstandort", "Mahé"]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "Der Hoarusib-Fluss ist ein episodischer Fluss in der Kaokoveld-Wüste, bekannt für seine Wüstenelefanten und die raue Landschaft.",
+      "facts": ["Episodischer Fluss", "Kaokoveld-Wüste", "Wüstenelefanten"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "Der Hoanib-Fluss ist ein weiterer episodischer Fluss in Namibia, der einen wichtigen Lebensraum für angepasste Wildtiere bietet.",
+      "facts": ["Episodischer Fluss", "Angepasste Wildtiere", "Wichtiger Lebensraum"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "Der Ugab-Fluss ist ein Grenzfluss zwischen der Region Kunene und der Erongo-Region, bekannt für seine Welwitschia-Pflanzen.",
+      "facts": ["Grenzfluss", "Welwitschia-Pflanzen", "Kunene und Erongo"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "Der Fish River ist der längste Fluss Namibias und hat den Fish River Canyon geformt, eine der größten Schluchten der Welt.",
+      "facts": ["Längster Fluss Namibias", "Fish River Canyon", "Große Schlucht"]
+    },
+    {
+      "id": "na-hardap-dam-nature-v2",
+      "description": "Der Hardap-Damm ist der größte Staudamm Namibias und ein wichtiges Bewässerungssystem für die Landwirtschaft.",
+      "facts": ["Größter Staudamm", "Bewässerungssystem", "Landwirtschaft"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Der Otjikoto-See ist ein natürlicher Sinkhöhlensee, der durch den Einsturz einer Höhlendecke entstanden ist.",
+      "facts": ["Sinkhöhlensee", "Natürliches Phänomen", "Otjikoto"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "Der Guinas-See ist ein weiterer Sinkhöhlensee in Namibia, bekannt für seine endemischen Fischarten und die tiefe Blauheit des Wassers.",
+      "facts": ["Endemische Fischarten", "Tiefe Blauheit", "Sinkhöhlensee"]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "Der Nylon Pool ist eine natürliche Wasserquelle im Etosha Nationalpark, ein beliebter Treffpunkt für Wildtiere.",
+      "facts": ["Natürliche Wasserquelle", "Etosha Nationalpark", "Wildtier-Treffpunkt"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "Die Caprivi-Flussauen sind ein wichtiges Feuchtgebiet im Nordosten Namibias, das eine reiche Vogelwelt beherbergt.",
+      "facts": ["Feuchtgebiet", "Nordost-Namibia", "Reiche Vogelwelt"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "Der Chobe-Fluss ist ein Nebenfluss des Sambesi, bekannt für seine große Elefantenpopulation und seine Flusskreuzfahrten.",
+      "facts": ["Nebenfluss des Sambesi", "Elefantenpopulation", "Flusskreuzfahrten"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "Der Kwando-Fluss im Caprivi-Streifen ist bekannt für seine Wildtiere und die Möglichkeit, Flusspferde und Krokodile zu sehen.",
+      "facts": ["Caprivi-Streifen", "Wildtiere", "Flusspferde und Krokodile"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "Der Sambesi-Fluss bildet einen Teil der Nordgrenze Namibias und ist ein wichtiger Wasserweg und Lebensraum.",
+      "facts": ["Nordgrenze Namibias", "Wasserweg", "Wichtiger Lebensraum"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Das Erongo-Gebirge ist ein erodierter Vulkan, bekannt für seine einzigartigen Felsformationen und San-Felsmalereien.",
+      "facts": ["Erodierter Vulkan", "Felsformationen", "San-Felsmalereien"]
+    },
+    {
+      "id": "brandberg-mountain-relief-v2",
+      "description": "Der Brandberg ist Namibias höchster Berg, bekannt für seine prähistorischen Felsmalereien, insbesondere die 'White Lady'.",
+      "facts": ["Höchster Berg Namibias", "Prähistorische Felsmalereien", "'White Lady'"]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Das Erongo-Gebirge ist ein ringförmiger Bergkomplex vulkanischen Ursprungs, bekannt für seine dramatische Landschaft.",
+      "facts": ["Vulkanischen Ursprungs", "Dramatische Landschaft", "Ringförmiger Komplex"]
+    }
+  ]
+}

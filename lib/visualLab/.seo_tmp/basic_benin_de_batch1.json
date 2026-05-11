@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "royal-palaces-abomey-history-v2",
+      "description": "Die Königspaläste von Abomey waren das Zentrum des Königreichs Dahomey und gehören heute zum UNESCO-Weltkulturerbe.",
+      "facts": ["Erbaut ab dem 17. Jahrhundert", "Besteht aus 10 Palästen", "Sitz von 12 Königen", "UNESCO-Weltkulturerbe seit 1985"]
+    },
+    {
+      "id": "door-no-return-ouidah-history-v2",
+      "description": "Dieses Denkmal in Ouidah erinnert an die Millionen von Afrikanern, die von hier aus in die Sklaverei verschifft wurden.",
+      "facts": ["Eingeweiht im Jahr 1992", "Liegt am Strand von Ouidah", "Entworfen von Fortuné Bandeira", "Teil der Sklavenroute"]
+    },
+    {
+      "id": "temple-pythons-ouidah-history-v2",
+      "description": "Der Python-Tempel in Ouidah ist eine bedeutende religiöse Stätte des Voodoo, in der Dutzende von Pythons verehrt werden.",
+      "facts": ["Zentrum des Voodoo-Glaubens", "Beherbergt echte Königspythons", "Gegenüber der Kathedrale gelegen", "Wichtiges Pilgerziel"]
+    },
+    {
+      "id": "portuguese-fort-ouidah-history-v2",
+      "description": "Das im 18. Jahrhundert errichtete portugiesische Fort São João Baptista de Ajudá diente lange Zeit als Handelsstützpunkt und Sklavendepot.",
+      "facts": ["Gegründet im Jahr 1721", "Beherbergt heute ein Museum", "Fläche von etwa 1 Hektar", "Letzte portugiesische Enklave bis 1961"]
+    },
+    {
+      "id": "musee-honme-porto-novo-history-v2",
+      "description": "Das Musée Honmè ist im ehemaligen Palast von König Toffa untergebracht und zeigt das Leben der Dynastie von Porto-Novo.",
+      "facts": ["Ehemaliger Königspalast", "Nationalmuseum seit 1988", "Traditionelle Architektur", "Ausstellungen zur königlichen Geschichte"]
+    },
+    {
+      "id": "great-mosque-porto-novo-history-v2",
+      "description": "Die Große Moschee von Porto-Novo besticht durch ihren einzigartigen afro-brasilianischen Baustil, der an die Architektur von Bahia erinnert.",
+      "facts": ["Erbaut im frühen 20. Jahrhundert", "Farbenfrohe Fassade", "Ehemals eine Kapelle", "UNESCO-Kulturerbe-Anwärter"]
+    },
+    {
+      "id": "agongointo-underground-history-v2",
+      "description": "Die unterirdischen Bauten von Agongointo dienten einst als Versteck und Schutzraum für die Krieger des Königreichs Dahomey.",
+      "facts": ["Entdeckt im Jahr 1998", "Befinden sich in Bohicon", "Liegen 10 Meter unter der Erde", "Bestehen aus mehreren Kammern"]
+    },
+    {
+      "id": "palace-king-nikki-history-v2",
+      "description": "Der Palast in Nikki ist das spirituelle und politische Zentrum des Bariba-Volkes und Schauplatz des Gaani-Festivals.",
+      "facts": ["Sitz des Sinaboko", "Zentrum der Bariba-Kultur", "Ort des Gaani-Festivals", "Historische Hauptstadt von Borgu"]
+    },
+    {
+      "id": "akaba-idenan-ketou-history-v2",
+      "description": "Die Akaba Idenan sind die historischen Stadttore von Kétou, einer der ältesten Yoruba-Städte in der Region.",
+      "facts": ["Einziges erhaltenes Stadttor", "Besteht aus zwei Türen", "Erbaut im 14. Jahrhundert", "Symbol der Yoruba-Resistenz"]
+    },
+    {
+      "id": "tata-somba-houses-history-v2",
+      "description": "Die Tata Somba sind festungsartige Lehmhäuser der Somba im Norden Benins, die Schutz vor Feinden und wilden Tieren boten.",
+      "facts": ["Zweistöckige Lehmbauten", "Traditionelle Architektur", "UNESCO-Weltkulturerbe", "Schutz vor Überfällen"]
+    },
+    {
+      "id": "dahomey-amazon-monument-history-v2",
+      "description": "Dieses Denkmal in Cotonou ehrt die tapferen Kriegerinnen des Königreichs Dahomey, bekannt als die Mino oder Dahomey-Amazonen.",
+      "facts": ["Höhe von 30 Metern", "Eingeweiht im Jahr 2022", "Bronze-Statue einer Kriegerin", "Wahrzeichen von Cotonou"]
+    }
+  ]
+}

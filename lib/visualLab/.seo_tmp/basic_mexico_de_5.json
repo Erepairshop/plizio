@@ -1,0 +1,29 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "Eine weite, flache Kalksteinhalbinsel zwischen dem Golf von Mexiko und dem Karibischen Meer.",
+      "facts": ["Flache Karstlandschaft", "Kalksteinboden", "Unterirdische Höhlensysteme"]
+    },
+    {
+      "id": "sierra-de-arteaga-relief-v2",
+      "description": "Ein beeindruckender Gebirgszug im Norden, der im Winter oft schneebedeckte Gipfel bietet.",
+      "facts": ["Im Norden Mexikos", "Gebirgskette", "Winterlich schneebedeckt"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "Teil der ausgedehnten Sierra Madre, die die Wüstenlandschaften im Nordwesten prägt.",
+      "facts": ["Nordwesten Mexikos", "Sierra Madre", "Wüstenrand-Gebirge"]
+    },
+    {
+      "id": "sierra-de-puebla-relief-v2",
+      "description": "Ein dicht bewaldetes Gebirge in Zentralmexiko, das reich an Nebelwäldern ist.",
+      "facts": ["Zentralmexiko", "Dichte Wälder", "Nebelwald-Ökosystem"]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marrakech-palmeraie-kid-landmark-life-v2",
+      "description": "The Marrakech Palmeraie is a massive palm grove oasis offering camel rides, quad biking, and scenic walks near Marrakech.",
+      "facts": ["Extends over 13,000 hectares", "Features over 100,000 trees", "Popular tourist activity spot", "Traditional irrigation system"]
+    },
+    {
+      "id": "dakhla-bird-habitat-life-v2",
+      "description": "The Dakhla region, especially the bay, is a vital sanctuary for migratory birds and coastal wildlife in southern Morocco.",
+      "facts": ["Important wetland site", "Migratory bird sanctuary", "Unique desert-ocean ecosystem", "Protected natural habitat"]
+    },
+    {
+      "id": "berkane-fruit-agriculture-life-v2",
+      "description": "Berkane is a major Moroccan center for citrus fruit production, particularly famous for its high-quality clementines.",
+      "facts": ["Known as the citrus capital", "Located in northeastern Morocco", "Major exporter of clementines", "Rich volcanic soil"]
+    },
+    {
+      "id": "oued-noun-agriculture-life-v2",
+      "description": "The Oued Noun region supports diverse traditional agricultural practices adapted to arid conditions.",
+      "facts": ["Arid farming region", "Known for small-scale oases", "Traditional irrigation usage", "Diverse crop cultivation"]
+    },
+    {
+      "id": "meknes-zoo-kid-landmark-life-v2",
+      "description": "The Meknes Zoo is a popular family destination housing a variety of animals native to Morocco and Africa.",
+      "facts": ["Popular educational site", "Features native fauna", "Family-friendly park", "Located near Meknes"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "The Sahara Desert in Morocco is home to the dromedary camel, which has been a vital part of nomadic life for centuries.",
+      "facts": ["Dromedary camel habitat", "Symbol of desert endurance", "Key transport animal", "Adapted to extreme heat"]
+    },
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "The Draa River valley contains significant wetland and oasis ecosystems that support agriculture and unique biodiversity.",
+      "facts": ["Longest river in Morocco", "Critical oasis ecosystem", "Wetland bird habitat", "Traditional farming lifeline"]
+    },
+    {
+      "id": "sebou-river-basin-agriculture-life-v2",
+      "description": "The Sebou river basin is one of Morocco's most fertile agricultural zones, crucial for the country's cereal and sugar production.",
+      "facts": ["Large river basin area", "Highly fertile soil", "Major cereal producer", "Vital water resource"]
+    },
+    {
+      "id": "midelt-apple-agriculture-life-v2",
+      "description": "Midelt is famous for its apple orchards, benefiting from the specific high-altitude climate of the Middle Atlas.",
+      "facts": ["High-altitude apple production", "Annual Apple Festival", "Middle Atlas location", "Crucial regional economy"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Tiznit is known for its traditional agriculture and is famous for its craft production, including silver jewelry.",
+      "facts": ["Agricultural and craft center", "Near the Atlantic coast", "Famous silver market", "Traditional farming techniques"]
+    },
+    {
+      "id": "ouarzazate-date-agriculture-life-v2",
+      "description": "Ouarzazate is a key region for date palm cultivation, thriving in the valley's arid desert climate.",
+      "facts": ["Date palm farming hub", "Desert oasis agriculture", "Important export crop", "Thrives in arid heat"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga is the gateway to the Erg Chebbi dunes, offering families desert experiences and camel trekking adventures.",
+      "facts": ["Erg Chebbi gateway", "Famous dune landscape", "Family desert tours", "Sahara adventure spot"]
+    }
+  ]
+}

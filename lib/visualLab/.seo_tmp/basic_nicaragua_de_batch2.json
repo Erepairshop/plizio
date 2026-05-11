@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-lorenzo-boaco-cities-v2",
+      "description": "San Lorenzo in Boaco ist eine ländliche Gemeinde, bekannt für ihre Viehzucht und die Herstellung von Milchprodukten.",
+      "facts": ["Ländliche Gemeinde", "Viehzucht", "Milchprodukte"]
+    },
+    {
+      "id": "santo-tomas-chontales-cities-v2",
+      "description": "Santo Tomás in Chontales ist ein Zentrum für Viehzucht und Landwirtschaft, bekannt für seine Lederwaren.",
+      "facts": ["Viehzucht", "Lederwaren", "Landwirtschaft"]
+    },
+    {
+      "id": "villa-sandino-cities-v2",
+      "description": "Villa Sandino in Chontales ist eine wachsende Stadt, die sich um die Landwirtschaft und den Handel entwickelt hat.",
+      "facts": ["Wachsende Stadt", "Landwirtschaft", "Handel"]
+    },
+    {
+      "id": "acoyapa-cities-v2",
+      "description": "Acoyapa in Chontales ist bekannt für seine Kolonialarchitektur und seine Rolle als Viehhandelszentrum.",
+      "facts": ["Kolonialarchitektur", "Viehhandelszentrum", "Chontales"]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "description": "Pueblo Nuevo in Estelí ist eine landwirtschaftliche Gemeinde, bekannt für den Anbau von Tabak und Kaffee.",
+      "facts": ["Landwirtschaftliche Gemeinde", "Tabak und Kaffee", "Estelí"]
+    },
+    {
+      "id": "la-trinidad-esteli-cities-v2",
+      "description": "La Trinidad in Estelí ist eine ruhige Stadt, umgeben von Bergen und Kaffeeplantagen.",
+      "facts": ["Ruhige Stadt", "Kaffeeplantagen", "Berge"]
+    },
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "description": "Esquipulas in Matagalpa ist eine Kaffeegemeinde, benannt nach der Schwarzen Christusstatue von Esquipulas.",
+      "facts": ["Kaffeegemeinde", "Schwarzer Christus", "Matagalpa"]
+    },
+    {
+      "id": "san-dionisio-matagalpa-cities-v2",
+      "description": "San Dionisio in Matagalpa ist eine kleine, ländliche Gemeinde, bekannt für ihren Kaffeeanbau und die natürliche Schönheit.",
+      "facts": ["Kaffeeanbau", "Natürliche Schönheit", "Ländliche Gemeinde"]
+    },
+    {
+      "id": "rancho-grande-matagalpa-cities-v2",
+      "description": "Rancho Grande in Matagalpa ist eine isolierte Gemeinde, bekannt für ihre Landwirtschaft und die unberührte Natur.",
+      "facts": ["Isolierte Gemeinde", "Landwirtschaft", "Unberührte Natur"]
+    },
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "description": "Matiguás in Matagalpa ist ein wichtiges landwirtschaftliches Zentrum, bekannt für die Viehzucht und Milchprodukte.",
+      "facts": ["Landwirtschaftliches Zentrum", "Viehzucht", "Milchprodukte"]
+    },
+    {
+      "id": "muy-muy-matagalpa-cities-v2",
+      "description": "Muy Muy in Matagalpa ist eine ländliche Gemeinde, die für ihre Produktion von Käse und Milchprodukten bekannt ist.",
+      "facts": ["Ländliche Gemeinde", "Käseproduktion", "Milchprodukte"]
+    },
+    {
+      "id": "terrabona-matagalpa-cities-v2",
+      "description": "Terrabona in Matagalpa ist bekannt für seine landwirtschaftliche Produktion, insbesondere Kaffee und Bohnen.",
+      "facts": ["Landwirtschaftliche Produktion", "Kaffee und Bohnen", "Matagalpa"]
+    },
+    {
+      "id": "quilali-nueva-segovia-cities-v2",
+      "description": "Quilalí in Nueva Segovia ist eine Bergstadt, bekannt für ihren Kaffeeanbau und die malerische Landschaft.",
+      "facts": ["Bergstadt", "Kaffeeanbau", "Malerische Landschaft"]
+    },
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "description": "San Fernando in Nueva Segovia ist eine kleine, ländliche Gemeinde an der Grenze zu Honduras.",
+      "facts": ["Ländliche Gemeinde", "Grenze zu Honduras", "Nueva Segovia"]
+    },
+    {
+      "id": "almicamba-cities-v2",
+      "description": "Almicamba in der Autonomen Region Nordkaribik ist ein Fischerdorf, bekannt für seine Küstenlage und das Leben am Meer.",
+      "facts": ["Fischerdorf", "Küstenlage", "Leben am Meer"]
+    }
+  ]
+}

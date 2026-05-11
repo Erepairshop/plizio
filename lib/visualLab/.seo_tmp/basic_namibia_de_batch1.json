@@ -1,0 +1,87 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "otjikoto-goldmine-economic-v2",
+      "description": "Die Otjikoto Goldmine ist eine der wichtigsten Goldminen Namibias, die einen bedeutenden Beitrag zur Wirtschaft leistet.",
+      "facts": ["Goldmine", "Wirtschaftlich wichtig", "Otjikoto"]
+    },
+    {
+      "id": "matchless-kupfermine-economic-v2",
+      "description": "Die Matchless Kupfermine ist eine historische Mine in Namibia, bekannt für ihre Kupferproduktion und Mineralienfunde.",
+      "facts": ["Kupfermine", "Historisch", "Mineralienfunde"]
+    },
+    {
+      "id": "otjihase-kupfermine-economic-v2",
+      "description": "Die Otjihase Kupfermine ist eine aktive Mine in Namibia, die eine wichtige Rolle im Bergbausektor spielt.",
+      "facts": ["Aktive Mine", "Kupferproduktion", "Bergbausektor"]
+    },
+    {
+      "id": "heldenacker-history-v2",
+      "description": "Der Heldenacker ist ein Nationaldenkmal nahe Windhoek, das an die Helden des namibischen Freiheitskampfes erinnert.",
+      "facts": ["Nationaldenkmal", "Windhoek", "Freiheitskampf"]
+    },
+    {
+      "id": "franketurm-history-v2",
+      "description": "Der Frankenturm in Swakopmund ist ein historisches Gebäude aus der Kolonialzeit, das heute als Museum dient.",
+      "facts": ["Kolonialzeit", "Swakopmund", "Museum"]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "description": "Das Nakambale Museum in Oniipa bewahrt die Geschichte der finnischen Missionare und die lokale Kultur der Ovambo.",
+      "facts": ["Ovambo-Kultur", "Finnische Missionare", "Oniipa"]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "description": "Das Goerke Haus in Lüderitz ist ein prächtiges Gebäude aus der Kolonialzeit, das die Diamantenepoche widerspiegelt.",
+      "facts": ["Lüderitz", "Diamantenepoche", "Koloniale Architektur"]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "description": "Der Tintenpalast in Windhoek ist das Parlamentsgebäude Namibias und ein markantes Wahrzeichen der Hauptstadt.",
+      "facts": ["Parlamentsgebäude", "Windhoek", "Wahrzeichen"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "Die Hardap-Region ist bekannt für ihre Bewässerungslandwirtschaft, die vom Hardap-Damm unterstützt wird.",
+      "facts": ["Bewässerungslandwirtschaft", "Hardap-Damm", "Fruchtbare Böden"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Tsumeb ist ein wichtiges landwirtschaftliches Zentrum, bekannt für den Anbau von Mais und Viehzucht.",
+      "facts": ["Landwirtschaftliches Zentrum", "Maisanbau", "Viehzucht"]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "description": "Die Region Gobabis ist ein Zentrum der Viehzucht und bekannt für ihre Rinderfarmen.",
+      "facts": ["Viehzucht", "Rinderfarmen", "Gobabis"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Windhoek bietet kinderfreundliche Attraktionen wie das Nationalmuseum und das Alte Fort.",
+      "facts": ["Kinderfreundliche Attraktionen", "Windhoek", "Nationalmuseum"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Okahandja ist bekannt für seinen großen Kunsthandwerksmarkt und die Herero-Traditionen.",
+      "facts": ["Kunsthandwerksmarkt", "Herero-Traditionen", "Okahandja"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "Der Mudumu-Nationalpark ist ein wichtiges Schutzgebiet im Caprivi-Streifen, das Elefanten und Büffel beherbergt.",
+      "facts": ["Mudumu-Nationalpark", "Caprivi-Streifen", "Elefanten und Büffel"]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "description": "Der Dorob-Nationalpark schützt die Küstenwüste und ist ein wichtiger Lebensraum für Robben und Seevögel.",
+      "facts": ["Dorob-Nationalpark", "Küstenwüste", "Robben und Seevögel"]
+    }
+  ]
+}

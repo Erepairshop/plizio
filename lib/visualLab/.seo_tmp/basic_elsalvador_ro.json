@@ -1,0 +1,71 @@
+{
+  "lang": "ro",
+  "country": "Elsalvador",
+  "files": [
+    "lib/visualLab/data/poiExtraElsalvadorCitiesV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorNatureV2.ts",
+    "lib/visualLab/data/poiExtraElsalvadorReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soyapango-cities-v2",
+      "description": "Soyapango este un oraș dens populat situat în zona metropolitană a capitalei San Salvador. Este recunoscut ca un centru industrial și comercial major al țării.",
+      "facts": [
+        "Populație de peste 250.000 locuitori",
+        "Parte din departamentul San Salvador",
+        "Important nod industrial",
+        "Situat la est de capitală"
+      ]
+    },
+    {
+      "id": "laguna-de-alegria-nature-v2",
+      "description": "Această lagună spectaculoasă este situată în craterul vulcanului Tecapa, în departamentul Usulután. Este faimoasă pentru nuanțele sale verzi de smarald datorate conținutului ridicat de sulf.",
+      "facts": [
+        "Situată la 1.420 metri altitudine",
+        "Aproape de orașul Alegría",
+        "Apă bogată în minerale",
+        "Cunoscută ca Smaraldul Americii Centrale"
+      ]
+    },
+    {
+      "id": "chorros-de-la-calera-nature-v2",
+      "description": "Chorros de la Calera reprezintă o serie de cascade naturale impresionante situate în apropierea orașului Juayúa. Apa izvorăște direct din pereții stâncoși, formând bazine naturale răcoroase.",
+      "facts": [
+        "Localizate în departamentul Sonsonate",
+        "Destinație populară pe Ruta Florilor",
+        "Izvoare de apă cristalină",
+        "Accesibile prin trasee de drumeție"
+      ]
+    },
+    {
+      "id": "sv-cerro-el-pilon-relief-v2",
+      "description": "Cerro El Pilón este un vârf montan proeminent ce face parte din lanțul muntos Apaneca-Ilamatepec. Oferă vederi panoramice asupra plantațiilor de cafea și a vulcanilor din jur.",
+      "facts": [
+        "Înălțime de aproximativ 2.040 metri",
+        "Situat în vestul țării",
+        "Zonă bogată în biodiversitate",
+        "Parte din Rezervația Biosferei"
+      ]
+    },
+    {
+      "id": "sv-cerro-el-coyol-relief-v2",
+      "description": "Cerro El Coyol este o formațiune muntoasă situată în regiunea centrală a statului El Salvador. Zona este caracterizată prin vegetație tropicală și relief accidentat.",
+      "facts": [
+        "Situat în departamentul Cabañas",
+        "Altitudine medie",
+        "Peisaj rural pitoresc",
+        "Importanță locală pentru agricultură"
+      ]
+    },
+    {
+      "id": "sv-cerro-tontol-relief-v2",
+      "description": "Cerro Tontol este un vârf muntos situat în departamentul Chalatenango, în apropierea frontierei cu Honduras. Regiunea este cunoscută pentru climatul său mai răcoros și pădurile de pini.",
+      "facts": [
+        "Situat în nordul El Salvadorului",
+        "Parte din munții Sierra Madre",
+        "Ideal pentru ecoturism",
+        "Climat montan temperat"
+      ]
+    }
+  ]
+}

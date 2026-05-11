@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "potosi-rivas-cities-v2",
+      "description": "Potosí Rivas tartományban található kis közösség, termálforrásairól és vulkánok közelségéről ismert.",
+      "facts": ["Termálforrások", "Vulkánok", "Rivas"]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "description": "Buenos Aires Rivas tartományban egy csendes mezőgazdasági közösség, rizs- és cukornád-termesztéséről ismert.",
+      "facts": ["Mezőgazdasági közösség", "Rizs és cukornád", "Rivas"]
+    },
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "description": "Cárdenas Rivas tartományban egy határváros Costa Ricával, kereskedelmi tevékenységéről és a Nicaragua-tó közelségéről ismert.",
+      "facts": ["Határváros Costa Ricával", "Kereskedelmi tevékenységek", "Nicaragua-tó"]
+    },
+    {
+      "id": "san-juan-de-rio-coco-madriz-cities-v2",
+      "description": "San Juan de Río Coco Madriz tartományban található, kávétermesztéséről és hegyvidéki tájairól ismert.",
+      "facts": ["Kávétermesztés", "Hegyvidéki tájak", "Madriz"]
+    },
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "description": "San José de Cusmapa Madriz tartományban egy hegyi falu, kézműves termékeiről és hűvös hegyi levegőjéről ismert.",
+      "facts": ["Hegyi falu", "Kézműves termékek", "Hűvös hegyi levegő"]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "description": "Yalí Madriz tartományban található, kávéültetvényeiről és festői hegyvidéki tájairól ismert.",
+      "facts": ["Kávéültetvények", "Festői tájak", "Madriz"]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "description": "Totogalpa Madriz tartományban egy vidéki közösség, fazekas termékeiről és hagyományos fesztiváljairól ismert.",
+      "facts": ["Fazekas termékek", "Hagyományos fesztiválok", "Madriz"]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "description": "Palacagüina Madriz tartományban található, zenei hagyományairól és hegyvidéki régiók közelségéről ismert.",
+      "facts": ["Zenei hagyományok", "Hegyvidéki régiók", "Madriz"]
+    },
+    {
+      "id": "el-realejo-chinandega-cities-v2",
+      "description": "El Realejo Chinandega tartományban egy történelmi kikötőváros, amely egykor fontos kereskedelmi központ volt.",
+      "facts": ["Történelmi kikötőváros", "Kereskedelmi központ", "Chinandega"]
+    },
+    {
+      "id": "cinco-pinos-chinandega-cities-v2",
+      "description": "Cinco Pinos Chinandega tartományban egy vidéki közösség, állattenyésztéséről és mezőgazdaságáról ismert.",
+      "facts": ["Vidéki közösség", "Állattenyésztés", "Mezőgazdaság"]
+    },
+    {
+      "id": "san-francisco-de-cuapa-chontales-cities-v2",
+      "description": "San Francisco de Cuapa Chontales tartományban zarándokhely, Mária-jelenéseiről ismert.",
+      "facts": ["Zarándokhely", "Mária-jelenések", "Chontales"]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "description": "Santo Domingo Chontales tartományban egy bányászváros, aranybányáiról és gazdag történelméről ismert.",
+      "facts": ["Bányászváros", "Aranybányák", "Gazdag történelem"]
+    },
+    {
+      "id": "la-libertad-chontales-cities-v2",
+      "description": "La Libertad Chontales tartományban egy másik fontos bányászváros, amely állattenyésztéséről is ismert.",
+      "facts": ["Bányászváros", "Állattenyésztés", "Chontales"]
+    },
+    {
+      "id": "santa-lucia-boaco-cities-v2",
+      "description": "Santa Lucía Boaco tartományban egy kis vidéki közösség, fesztiváljairól és hagyományos szokásairól ismert.",
+      "facts": ["Vidéki közösség", "Fesztiválok", "Hagyományos szokások"]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "description": "Camopa Boaco tartományban természeti szépségéről, valamint a hegyek és folyók közelségéről ismert.",
+      "facts": ["Természeti szépség", "Hegyek és folyók", "Boaco"]
+    }
+  ]
+}

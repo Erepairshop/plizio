@@ -1,0 +1,245 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fuel-terminal-mindelo-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Enacol-Treibstoffterminal in Mindelo auf der Insel São Vicente ist eine der strategisch wichtigsten Infrastrukturanlagen der Kapverden. Es befindet sich in der Industriezone Lazareto, unmittelbar angrenzend an den Tiefwasserhafen Porto Grande. Das Terminal wird von der Empresa Nacional de Combustíveis (ENACOL) betrieben, an der der portugiesische Energiekonzern Galp maßgeblich beteiligt ist. Diese Anlage fungiert als das primäre Drehkreuz für die Lagerung und Verteilung von Erdölprodukten für den gesamten Norden des Archipels. Hier werden massive Kapazitäten an Diesel, Benzin und insbesondere Jet A1-Treibstoff für den internationalen Flughafen Cesária Évora vorgehalten. Die strategische Bedeutung wird durch die Versorgung der internationalen Schifffahrt unterstrichen; das Terminal beliefert Tankschiffe und Frachter, die den Porto Grande als Zwischenstopp im Zentralatlantik nutzen. Wirtschaftlich ist die Anlage ein massiver Faktor, da sie die Energiesicherheit der Region garantiert und hunderte qualifizierte Arbeitsplätze in der Logistik und Technik sichert. Die Infrastruktur umfasst mehrere große Speichertanks und ein spezialisiertes Pipelinesystem, das direkt mit den Piers des Hafens verbunden ist, um eine schnelle und effiziente Entladung von Öltankern zu ermöglichen. Aufgrund der Nähe zum Meer unterliegen die Anlagen strengsten Korrosionsschutzmaßnahmen und Umweltauflagen zur Vermeidung von Leckagen im empfindlichen Ökosystem der Bucht.",
+        "hu": "A mindelói Enacol üzemanyag-terminál São Vicente szigetén a Zöld-foki-szigetek egyik stratégiailag legfontosabb infrastrukturális létesítménye. A Lazareto ipari övezetben található, közvetlenül a Porto Grande mélyvízi kikötő mellett. A terminált az Empresa Nacional de Combustíveis (ENACOL) üzemelteti, amelyben a portugál Galp energiacsoport jelentős részesedéssel rendelkezik. Ez a létesítmény a kőolajtermékek tárolásának és elosztásának elsődleges központjaként szolgál a szigetvilág teljes északi részén. Itt hatalmas mennyiségű gázolajat, benzint és különösen Jet A1 típusú repülőgép-üzemanyagot tárolnak a Cesária Évora nemzetközi repülőtér számára. A stratégiai jelentőséget hangsúlyozza a nemzetközi hajózás kiszolgálása is; a terminál látja el azokat a tartályhajókat és teherhajókat, amelyek a Porto Grande-t közép-atlanti megállóhelyként használják. Gazdasági szempontból a létesítmény meghatározó tényező, mivel garantálja a régió energiabiztonságát, és több száz szakképzett munkahelyet biztosít a logisztika és a technológia területén. Az infrastruktúra több nagy tárolótartályt és egy speciális csővezeték-rendszert foglal magában, amely közvetlenül csatlakozik a kikötő mólóihoz, lehetővé téve az olajszállító tartályhajók gyors és hatékony kirakodását. A tenger közelsége miatt a berendezésekre szigorú korrózióvédelmi intézkedések és környezetvédelmi előírások vonatkoznak az öböl érzékeny ökoszisztémájának védelme érdekében.",
+        "ro": "Terminalul de combustibil Enacol din Mindelo, de pe insula São Vicente, reprezintă una dintre cele mai critice facilități de infrastructură strategică din Capul Verde. Este situat în zona industrială Lazareto, imediat adiacent portului de ape adânci Porto Grande. Terminalul este operat de Empresa Nacional de Combustíveis (ENACOL), unde grupul energetic portughez Galp deține o participație semnificativă. Această facilitate funcționează ca nodul primar pentru depozitarea și distribuția produselor petroliere pentru întregul nord al arhipelagului. Aici sunt menținute capacități masive de motorină, benzină și, în special, combustibil Jet A1 pentru Aeroportul Internațional Cesária Évora. Importanța strategică este subliniată de aprovizionarea transportului maritim internațional; terminalul alimentează petrolierele și navele de marfă care utilizează Porto Grande ca punct de oprire în Atlanticul Central. Din punct de vedere economic, instalația este un factor major, deoarece garantează securitatea energetică a regiunii și asigură sute de locuri de muncă calificate în logistică și inginerie. Infrastructura cuprinde mai multe rezervoare mari de depozitare și un sistem de conducte specializat, conectat direct la cheiurile portului pentru a permite descărcarea rapidă și eficientă a petrolierelor. Datorită proximității față de mare, instalațiile sunt supuse celor mai stricte măsuri de protecție anticorozivă și reglementări de mediu pentru a preveni scurgerile în ecosistemul sensibil al golfului.",
+        "en": "The Enacol Fuel Terminal in Mindelo on the island of São Vicente is one of the most strategically critical infrastructure facilities in Cape Verde. Located in the Lazareto industrial zone, immediately adjacent to the Porto Grande deep-water port, the terminal is operated by Empresa Nacional de Combustíveis (ENACOL), in which the Portuguese energy group Galp holds a significant stake. This facility functions as the primary hub for the storage and distribution of petroleum products for the entire northern part of the archipelago. Massive capacities of diesel, gasoline, and particularly Jet A1 aviation fuel for the Cesária Évora International Airport are maintained here. Its strategic importance is further highlighted by its role in supplying international maritime traffic; the terminal services tankers and cargo ships utilizing Porto Grande as a mid-Atlantic stopover. Economically, the plant is a massive driver, guaranteeing regional energy security and securing hundreds of skilled jobs in logistics and technical maintenance. The infrastructure includes several large storage tanks and a specialized pipeline system connected directly to the port's piers to facilitate the rapid and efficient unloading of oil tankers. Due to its coastal proximity, the facility is subject to the strictest corrosion protection measures and environmental regulations to prevent spillages into the bay's sensitive ecosystem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Strategisches Treibstoffzentrum für den Norden des kapverdischen Archipels.",
+          "Wird von ENACOL betrieben, einem Unternehmen mit Beteiligung der portugiesischen Galp.",
+          "Sichert die Versorgung mit Jet A1-Treibstoff für den Flughafen von São Vicente.",
+          "Direkte Pipeline-Anbindung an den Tiefwasserhafen Porto Grande.",
+          "Lagert massive Reserven an Diesel und Benzin für den nationalen Markt.",
+          "Befindet sich in der Industriezone Lazareto südwestlich von Mindelo.",
+          "Wichtiger Bunkerplatz für die internationale Schifffahrt im Zentralatlantik."
+        ],
+        "hu": [
+          "A Zöld-foki-szigetek északi részének stratégiai üzemanyag-központja.",
+          "Az ENACOL üzemelteti, amelyben a portugál Galp is részesedéssel bír.",
+          "Biztosítja a Jet A1 üzemanyag-ellátást São Vicente repülőtere számára.",
+          "Közvetlen csővezetékes összeköttetése van a Porto Grande mélyvízi kikötővel.",
+          "Hatalmas gázolaj- és benzintartalékokat tárol a nemzeti piac számára.",
+          "A Mindelótól délnyugatra fekvő Lazareto ipari övezetben található.",
+          "Fontos üzemanyag-feltöltő állomás a nemzetközi atlanti hajózás számára."
+        ],
+        "ro": [
+          "Centru strategic de combustibil pentru nordul arhipelagului Capului Verde.",
+          "Operat de ENACOL, o companie cu participarea grupului portughez Galp.",
+          "Asigură aprovizionarea cu combustibil Jet A1 pentru aeroportul din São Vicente.",
+          "Conexiune directă prin conductă cu portul de ape adânci Porto Grande.",
+          "Depozitează rezerve masive de motorină și benzină pentru piața națională.",
+          "Situat în zona industrială Lazareto, la sud-vest de Mindelo.",
+          "Punct important de buncheraj pentru transportul maritim internațional din Atlantic."
+        ],
+        "en": [
+          "Strategic fuel storage and distribution hub for northern Cape Verde.",
+          "Operated by ENACOL, a company partially owned by Portugal's Galp energy group.",
+          "Primary supplier of Jet A1 aviation fuel for Cesária Évora International Airport.",
+          "Features a direct pipeline connection to the Porto Grande deep-water berths.",
+          "Maintains critical national reserves of diesel and gasoline.",
+          "Positioned within the Lazareto industrial zone southwest of Mindelo city center.",
+          "Key bunkering station for international vessels crossing the Central Atlantic."
+        ]
+      }
+    },
+    {
+      "id": "cv-cidade-velha-history-v2",
+      "descriptionAdvanced": {
+        "de": "Cidade Velha, ursprünglich als Ribeira Grande gegründet, ist die historisch bedeutendste Stadt der Kapverden und liegt an der Südküste der Insel Santiago. Sie wurde 1462 von portugiesischen Seefahrern etabliert und hält den Rang als erste dauerhafte europäische Kolonialsiedlung in den Tropen. Über Jahrhunderte fungierte die Stadt als ein massives logistisches Drehkreuz für den transatlantischen Sklavenhandel, was ihr immensen Reichtum, aber auch wiederholte gewaltsame Angriffe durch Piraten und konkurrierende Mächte wie die Engländer unter Francis Drake (1585) und die Franzosen unter Jacques Cassard (1712) einbrachte. Nach der Zerstörung durch Cassard verlor die Stadt ihren Status als Hauptstadt an Praia. Im Jahr 2009 wurde Cidade Velha aufgrund seines universellen Wertes offiziell in die Liste des UNESCO-Weltkulturerbes aufgenommen. Das historische Zentrum bewahrt ein beeindruckendes Ensemble aus kolonialer Architektur, darunter die älteste Kolonialstraße der Tropen, die Rua de Banana, sowie bedeutende religiöse Ruinen wie die Sé-Kathedrale. Geografisch liegt der Ort in einem tiefen, wasserreichen Tal, das früher intensive Landwirtschaft ermöglichte. Die Stadt ist heute ein ernstes Mahnmal für die komplexe Geschichte der Globalisierung und des menschlichen Leids während der Ära der Sklaverei.",
+        "hu": "Cidade Velha, eredeti nevén Ribeira Grande, a Zöld-foki-szigetek történelmileg legjelentősebb városa, amely Santiago szigetének déli partján fekszik. 1462-ben alapították portugál tengerészek, és ez volt az első állandó európai gyarmati település a trópusokon. Évszázadokon keresztül a város a transzatlanti rabszolga-kereskedelem hatalmas logisztikai csomópontjaként működött, ami óriási gazdagságot, de egyben ismétlődő erőszakos támadásokat is hozott számára, többek között az angol Francis Drake (1585) és a francia Jacques Cassard (1712) részéről. A Cassard általi pusztítás után a város elvesztette fővárosi rangját Praiával szemben. 2009-ben Cidade Velhát egyetemes értékei miatt hivatalosan is felvették az UNESCO Világörökségi listájára. A történelmi központ a gyarmati építészet lenyűgöző együttesét őrzi, beleértve a trópusok legrégebbi gyarmati utcáját, a Rua de Bananát, valamint olyan jelentős vallási romokat, mint a Sé-székesegyház. Földrajzilag a település egy mély, vízben gazdag völgyben fekszik, amely korábban intenzív mezőgazdaságot tett lehetővé. A város ma a globalizáció összetett történetének és a rabszolgaság korának emberi szenvedéseinek komoly emlékműve.",
+        "ro": "Cidade Velha, fondată inițial sub numele de Ribeira Grande, este cel mai important oraș istoric din Capul Verde și este situat pe coasta de sud a insulei Santiago. A fost stabilit în 1462 de navigatorii portughezi și deține rangul de primă așezare colonială europeană permanentă în zonele tropicale. Timp de secole, orașul a funcționat ca un nod logistic masiv pentru comerțul transatlantic cu sclavi, ceea ce i-a adus o bogăție imensă, dar și atacuri violente repetate din partea piraților și puterilor rivale, cum ar fi englezii sub conducerea lui Francis Drake (1585) și francezii sub conducerea lui Jacques Cassard (1712). După distrugerea cauzată de Cassard, orașul și-a pierdut statutul de capitală în favoarea orașului Praia. În anul 2009, Cidade Velha a fost inclus oficial în lista Patrimoniului Mondial UNESCO datorită valorii sale universale. Centrul istoric păstrează un ansamblu impresionant de arhitectură colonială, inclusiv cea mai veche stradă colonială din zonele tropicale, Rua de Banana, precum și ruine religioase importante, cum ar fi Catedrala Sé. Geografic, localitatea se află într-o vale adâncă, bogată în apă, care a permis anterior o agricultură intensivă. Orașul este astăzi un monument solemn al istoriei complexe a globalizării și al suferinței umane din epoca sclaviei.",
+        "en": "Cidade Velha, originally founded as Ribeira Grande, is the most historically significant town in Cape Verde, located on the southern coast of Santiago Island. Established in 1462 by Portuguese mariners, it holds the distinction of being the first permanent European colonial settlement in the tropics. For centuries, the city functioned as a massive logistical hub for the transatlantic slave trade, which brought it immense wealth but also triggered repeated violent attacks by pirates and rival powers, such as the English under Francis Drake (1585) and the French under Jacques Cassard (1712). Following its destruction by Cassard, the town lost its status as the capital to Praia. In 2009, Cidade Velha was officially inscribed on the UNESCO World Heritage list due to its outstanding universal value. The historic center preserves an impressive ensemble of colonial architecture, including the Rua de Banana—the oldest colonial street in the tropics—and significant religious ruins such as the Sé Cathedral. Geographically, the settlement is situated in a deep, water-rich valley that historically supported intensive agriculture. Today, the town stands as a solemn monument to the complex history of globalization and the human suffering endured during the era of slavery."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erste permanente europäische Kolonialsiedlung in den Tropen (gegründet 1462).",
+          "Ehemalige Hauptstadt der Kapverden unter dem Namen Ribeira Grande.",
+          "Offizielles UNESCO-Weltkulturerbe seit dem Jahr 2009.",
+          "Historisches Zentrum des transatlantischen Sklavenhandels im 16. Jahrhundert.",
+          "Wurde 1585 vom englischen Freibeuter Sir Francis Drake überfallen.",
+          "Beherbergt mit der Rua de Banana die älteste gepflasterte Straße Westafrikas.",
+          "Verlust des Hauptstadtstatus im Jahr 1770 an das nahegelegene Praia."
+        ],
+        "hu": [
+          "Az első állandó európai gyarmati település a trópusokon (alapítva 1462-ben).",
+          "A Zöld-foki-szigetek egykori fővárosa Ribeira Grande néven.",
+          "2009 óta hivatalos UNESCO Világörökségi helyszín.",
+          "A 16. századi transzatlanti rabszolga-kereskedelem történelmi központja.",
+          "1585-ben Sir Francis Drake angol kalóz támadta meg a várost.",
+          "Itt található Nyugat-Afrika legrégebbi kövezett utcája, a Rua de Banana.",
+          "1770-ben vesztette el fővárosi rangját a közeli Praia javára."
+        ],
+        "ro": [
+          "Prima așezare colonială europeană permanentă din zonele tropicale (fondată în 1462).",
+          "Fosta capitală a Capului Verde sub numele de Ribeira Grande.",
+          "Sit oficial al Patrimoniului Mondial UNESCO din anul 2009.",
+          "Centru istoric al comerțului transatlantic cu sclavi în secolul al XVI-lea.",
+          "A fost atacat în 1585 de corsarul englez Sir Francis Drake.",
+          "Găzduiește Rua de Banana, cea mai veche stradă pavată din Africa de Vest.",
+          "Pierderea statutului de capitală în favoarea orașului Praia în anul 1770."
+        ],
+        "en": [
+          "The first permanent European colonial settlement in the tropics (founded 1462).",
+          "Former capital city of Cape Verde, historically known as Ribeira Grande.",
+          "Officially designated as a UNESCO World Heritage Site in 2009.",
+          "A major 16th-century historical hub for the transatlantic slave trade.",
+          "Attacked and looted in 1585 by the English privateer Sir Francis Drake.",
+          "Contains the Rua de Banana, the oldest paved street in West Africa.",
+          "Lost its status as the national capital to nearby Praia in 1770."
+        ]
+      }
+    },
+    {
+      "id": "cv-fortaleza-real-sao-filipe-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Fortaleza Real de São Filipe thront massiv auf einem Felsplateau etwa 120 Meter über Cidade Velha auf der Insel Santiago. Sie wurde zwischen 1587 und 1593 im Auftrag von König Philipp II. von Spanien (Philipp I. von Portugal) errichtet, nachdem der verheerende Überfall von Sir Francis Drake im Jahr 1585 die mangelhafte Verteidigung der strategisch wichtigen Stadt Ribeira Grande aufgezeigt hatte. Geologisch ruht die Festung auf hartem Basaltgestein und bietet einen uneingeschränkten Panoramablick über den Atlantik und das darunter liegende Tal. Die Architektur folgt den Prinzipien der italienischen Militärfestung des 16. Jahrhunderts mit sternförmigen Bastionen, massiven Mauern und tiefen Gräben. Im Inneren befinden sich die Ruinen der Garnisonsgebäude, eine Kapelle und eine gewaltige Zisterne zur Regenwasserspeicherung, die für die Belagerungsfähigkeit absolut lebenswichtig war. Die Festung war Teil eines komplexen Verteidigungssystems, das die reichen Sklavenschiffe und den Hafen vor feindlichen Flotten schützen sollte. Im 18. Jahrhundert verfiel die Anlage allmählich, wurde jedoch in den 1960er und 1990er Jahren umfassend restauriert. Heute ist sie der am besten erhaltene militärische Außenposten der Kapverden und ein zentraler Bestandteil des UNESCO-Weltkulturerbes Cidade Velha, der die imperiale Macht Portugals in Westafrika symbolisiert.",
+        "hu": "A Fortaleza Real de São Filipe masszív építménye egy sziklafennsíkon trónol, körülbelül 120 méterrel Cidade Velha felett, Santiago szigetén. 1587 és 1593 között építették II. Fülöp spanyol király (I. Fülöp portugál király) parancsára, miután Sir Francis Drake 1585-ös pusztító támadása rávilágított a stratégiailag fontos Ribeira Grande város védelmének hiányosságaira. Geológiailag az erőd kemény bazaltkőzeten nyugszik, és akadálytalan panorámát nyújt az Atlanti-óceánra és az alatta fekvő völgyre. Az építészet a 16. századi olasz katonai erődök elveit követi csillag alakú bástyákkal, masszív falakkal és mély árkokkal. Odabent a helyőrségi épületek romjai, egy kápolna és egy hatalmas esővízgyűjtő ciszterna található, amely elengedhetetlen volt az ostromok idején. Az erőd egy összetett védelmi rendszer része volt, amelynek célja a gazdag rabszolgahajók és a kikötő védelme volt az ellenséges flottákkal szemben. A 18. században a létesítmény fokozatosan romlásnak indult, de az 1960-as és 1990-es években átfogóan restaurálták. Ma ez a Zöld-foki-szigetek legjobban megőrzött katonai támaszpontja, és a Cidade Velha UNESCO Világörökségi helyszín központi eleme, amely Portugália nyugat-afrikai birodalmi hatalmát szimbolizálja.",
+        "ro": "Fortaleza Real de São Filipe tronează masiv pe un platou stâncos la aproximativ 120 de metri deasupra orașului Cidade Velha de pe insula Santiago. A fost construită între 1587 și 1593 din ordinul regelui Filip al II-lea al Spaniei (Filip I al Portugaliei), după ce atacul devastator al lui Sir Francis Drake din 1585 a evidențiat apărarea deficitară a orașului strategic Ribeira Grande. Din punct de vedere geologic, fortăreața se sprijină pe rocă dură de bazalt și oferă o vedere panoramică neîngrădită asupra Atlanticului și a văii de dedesubt. Arhitectura urmează principiile fortificației militare italiene din secolul al XVI-lea, cu bastioane în formă de stea, ziduri masive și șanțuri adânci. În interior se află ruinele clădirilor garnizoanei, o capelă și o cisternă uriașă pentru stocarea apei de ploaie, absolut vitală pentru capacitatea de apărare în timpul unui asediu. Fortăreața făcea parte dintr-un sistem defensiv complex menit să protejeze navele cu sclavi bogate și portul de flotele inamice. În secolul al XVIII-lea, instalația s-a degradat treptat, dar a fost restaurată integral în anii 1960 și 1990. Astăzi este cel mai bine conservat avanpost militar din Capul Verde și o componentă centrală a sitului Patrimoniului Mondial UNESCO Cidade Velha, simbolizând puterea imperială a Portugaliei în Africa de Vest.",
+        "en": "The Royal Fortress of São Filipe (Fortaleza Real de São Filipe) stands massively on a rocky plateau approximately 120 meters above Cidade Velha on Santiago Island. It was constructed between 1587 and 1593 by order of King Philip II of Spain (Philip I of Portugal) after Sir Francis Drake's devastating raid in 1585 exposed the inadequate defenses of the strategically vital city of Ribeira Grande. Geologically, the fortress rests on hard basalt bedrock and offers an unobstructed panoramic view of the Atlantic Ocean and the valley below. The architecture adheres to 16th-century Italian military fortification principles, featuring star-shaped bastions, massive walls, and deep trenches. Inside, visitors find the ruins of garrison buildings, a chapel, and a massive cistern for rainwater storage, which was absolutely vital for endurance during sieges. The fortress was part of a complex defensive network designed to protect wealthy slave ships and the harbor from enemy fleets. During the 18th century, the facility gradually fell into disrepair but was extensively restored in the 1960s and 1990s. Today, it is the best-preserved military outpost in Cape Verde and a core component of the Cidade Velha UNESCO World Heritage Site, symbolizing Portugal's imperial power in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut zwischen 1587 und 1593 nach dem Piratenüberfall von Francis Drake.",
+          "Liegt strategisch auf einem Plateau 120 Meter über dem Hafen von Cidade Velha.",
+          "Beherbergt eine massive Zisterne zur Trinkwasserversorgung der Soldaten.",
+          "Architektonisch eine klassische Festung im italienischen Bastionsstil.",
+          "Einst Teil des UNESCO-Weltkulturerbes zum Schutz des Sklavenhandels.",
+          "Verfügt über weitreichende Sichtachsen zur Früherkennung feindlicher Flotten.",
+          "Wurde im 20. Jahrhundert umfassend durch Archäologen und Denkmalpfleger restauriert."
+        ],
+        "hu": [
+          "1587 és 1593 között épült Francis Drake kalóztámadása után.",
+          "Stratégiai helyen, 120 méterrel Cidade Velha kikötője felett található.",
+          "Hatalmas ciszternával rendelkezik a katonák ivóvízellátásának biztosítására.",
+          "Építészetileg klasszikus olasz stílusú bástyás erődítmény.",
+          "A rabszolga-kereskedelem védelmét szolgáló UNESCO Világörökségi helyszín része.",
+          "Nagy hatótávolságú rálátást biztosított az ellenséges flották korai észlelésére.",
+          "A 20. században régészek és műemlékvédelmi szakemberek átfogóan restaurálták."
+        ],
+        "ro": [
+          "Construită între 1587 și 1593 după atacul piratului Francis Drake.",
+          "Situată strategic pe un platou la 120 de metri deasupra portului Cidade Velha.",
+          "Găzduiește o cisternă masivă pentru alimentarea cu apă potabilă a soldaților.",
+          "Din punct de vedere arhitectural, este o fortăreață clasică în stil bastion italian.",
+          "Parte a Patrimoniului Mondial UNESCO, protejând rutele comerciale istorice.",
+          "Dispune de axe de vizibilitate extinse pentru detectarea timpurie a flotelor inamice.",
+          "A fost restaurată cuprinzător în secolul XX de către arheologi."
+        ],
+        "en": [
+          "Constructed between 1587 and 1593 following the pirate raid by Francis Drake.",
+          "Strategically positioned on a plateau 120 meters above the harbor of Cidade Velha.",
+          "Contains a massive underground cistern essential for water supply during sieges.",
+          "Architecturally designed as a classic Italian-style star fortification.",
+          "Key component of the UNESCO World Heritage Site in the former colonial capital.",
+          "Offered strategic sightlines for the early detection of approaching enemy fleets.",
+          "Underwent extensive restoration by preservationists during the late 20th century."
+        ]
+      }
+    },
+    {
+      "id": "cv-pelourinho-cidade-velha-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Pelourinho (Pranger) von Cidade Velha befindet sich im Herzen des historischen Hauptplatzes der ehemaligen Hauptstadt auf der Insel Santiago. Dieses massive Denkmal wurde im frühen 16. Jahrhundert (ca. 1512 oder 1520) aus weißem Marmor und Kalkstein errichtet, der direkt aus Portugal importiert wurde. Architektonisch ist er im Manuelinik-Stil gestaltet, einer spezifisch portugiesischen Spätgotik, die durch maritime Motive gekennzeichnet ist. Der Pelourinho fungierte nicht nur als bloßes Instrument zur öffentlichen Bestrafung und Demütigung, sondern war vor allem das offizielle Symbol der kommunalen Autonomie und der richterlichen Gewalt der portugiesischen Krone in den Tropen. Er ist jedoch untrennbar mit dem dunkelsten Kapitel der Stadt verbunden: Er diente als zentraler Verkaufsort und Ausstellungsplatz für Sklaven, die aus Westafrika hierher gebracht wurden, bevor sie auf Schiffe nach Amerika verladen wurden. Geografisch markiert der Pelourinho den sozialen Mittelpunkt der ältesten Kolonialsiedlung Westafrikas. Trotz der jahrhundertelangen Witterungseinflüsse und der salzhaltigen Luft sind die verzierten Details der Säule noch heute erkennbar. Heute steht er als ein mächtiges und zugleich erschütterndes Symbol für die Ursprünge der kapverdischen Identität und die globalen Auswirkungen des Sklavenhandels.",
+        "hu": "Cidade Velha pellengére (Pelourinho) az egykori főváros történelmi főterének szívében található Santiago szigetén. Ezt a masszív emlékművet a 16. század elején (kb. 1512-ben vagy 1520-ban) emelték közvetlenül Portugáliából importált fehér márványból és mészkőből. Építészetileg a mánuel stílust követi, amely egy sajátos portugál késő gótika, tengeri motívumokkal díszítve. A Pelourinho nem csupán a nyilvános büntetés és megalázás eszközeként funkcionált, hanem mindenekelőtt a portugál korona trópusi önkormányzati autonómiájának és bírói hatalmának hivatalos szimbóluma volt. Ugyanakkor elválaszthatatlan a város legsötétebb fejezetétől is: a Nyugat-Afrikából idehozott rabszolgák központi eladási és kiállítási helyeként szolgált, mielőtt az Amerikába tartó hajókra rakták volna őket. Földrajzilag a Pelourinho Nyugat-Afrika legrégebbi gyarmati településének társadalmi középpontját jelöli. Az évszázados időjárási hatások és a sós levegő ellenére az oszlop díszes részletei ma is felismerhetőek. Ma a zöld-foki identitás eredetének, valamint a rabszolga-kereskedelem globális hatásainak erőteljes és egyben megrázó szimbólumaként áll.",
+        "ro": "Pelourinho (stâlpul infamiei) din Cidade Velha este situat în inima pieței centrale istorice a fostei capitale de pe insula Santiago. Acest monument masiv a fost ridicat la începutul secolului al XVI-lea (cca. 1512 sau 1520) din marmură albă și calcar importate direct din Portugalia. Din punct de vedere arhitectural, este proiectat în stil manuelin, un stil gotic târziu specific portughez, caracterizat prin motive maritime. Pelourinho nu a funcționat doar ca un simplu instrument pentru pedeapsă publică și umilință, ci a fost, mai presus de toate, simbolul oficial al autonomiei comunale și al puterii judiciare a coroanei portugheze în zonele tropicale. Cu toate acestea, este legat inseparabil de cel mai întunecat capitol al orașului: a servit ca loc central de vânzare și expoziție pentru sclavii aduși aici din Africa de Vest înainte de a fi încărcați pe navele către America. Geografic, Pelourinho marchează centrul social al celei mai vechi așezări coloniale din Africa de Vest. În ciuda influențelor meteorologice de secole și a aerului sărat, detaliile ornamentate ale coloanei sunt încă recunoscibile astăzi. Astăzi, acesta reprezintă un simbol puternic și totodată cutremurător al originilor identității capverdiene și al impactului global al comerțului cu sclavi.",
+        "en": "The Pelourinho (Pillory) of Cidade Velha is located in the heart of the historic main square of the former capital on Santiago Island. This massive monument was erected in the early 16th century (approx. 1512 or 1520) using white marble and limestone imported directly from Portugal. Architecturally, it is designed in the Manueline style, a specific Portuguese late Gothic characterized by maritime motifs. The Pelourinho functioned not merely as an instrument for public punishment and humiliation, but primarily as the official symbol of communal autonomy and the judicial authority of the Portuguese Crown in the tropics. However, it is inextricably linked to the city's darkest chapter: it served as the central marketplace and display area for slaves brought here from West Africa before being boarded onto ships bound for the Americas. Geographically, the Pelourinho marks the social center of the oldest colonial settlement in West Africa. Despite centuries of weathering and the salt-laden air, the ornate details of the column remain visible today. Currently, it stands as a powerful and harrowing symbol of the origins of Cape Verdean identity and the global legacy of the slave trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erhöhtes Steindenkmal aus dem 16. Jahrhundert auf dem zentralen Platz.",
+          "Offizielles Symbol der portugiesischen Gerichtsbarkeit in den Tropen.",
+          "Architektur im Manuelinik-Stil mit maritimen Ornamenten.",
+          "Zentraler Ort des Sklavenhandels vor dem Transport nach Amerika.",
+          "Importiertes Baumaterial (Marmor) direkt aus dem Mutterland Portugal.",
+          "Wichtiges Denkmal innerhalb des UNESCO-Weltkulturerbes Cidade Velha.",
+          "Überstand schwere Piratenangriffe und die Aufgabe der Stadt im 18. Jahrhundert."
+        ],
+        "hu": [
+          "16. századi kőemlékmű a város központi terén.",
+          "A portugál igazságszolgáltatás hivatalos szimbóluma a trópusokon.",
+          "Mánuel stílusú építészet tengeri motívumokkal díszítve.",
+          "A rabszolga-kereskedelem központi helyszíne az Amerikába való szállítás előtt.",
+          "Importált építőanyagból, közvetlenül Portugáliából származó márványból készült.",
+          "A Cidade Velha UNESCO Világörökség részét képező fontos műemlék.",
+          "Túlélt súlyos kalóztámadásokat és a város 18. századi elhagyását is."
+        ],
+        "ro": [
+          "Monument de piatră din secolul al XVI-lea situat în piața centrală.",
+          "Simbol oficial al jurisdicției portugheze în zonele tropicale.",
+          "Arhitectură în stil manuelin cu ornamente maritime.",
+          "Locul central al comerțului cu sclavi înainte de transportul către America.",
+          "Material de construcție importat (marmură) direct din Portugalia.",
+          "Monument important în cadrul Patrimoniului Mondial UNESCO Cidade Velha.",
+          "A supraviețuit atacurilor piraților și abandonării orașului în secolul al XVIII-lea."
+        ],
+        "en": [
+          "A 16th-century stone monument located in the center of the main square.",
+          "Official symbol of Portuguese judicial authority in the tropics.",
+          "Features Manueline-style architecture with intricate maritime motifs.",
+          "Served as a central hub for the slave trade before shipment to the Americas.",
+          "Constructed using marble and limestone imported directly from Portugal.",
+          "A primary monument within the UNESCO World Heritage site of Cidade Velha.",
+          "Withstood major pirate raids and the eventual abandonment of the city."
+        ]
+      }
+    },
+    {
+      "id": "cv-ruinas-se-catedral-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ruinen der Sé-Kathedrale in Cidade Velha sind die monumentalen Überreste des einst größten religiösen Bauwerks in Westafrika. Der Bau der Kathedrale auf der Insel Santiago begann im Jahr 1555, wurde jedoch aufgrund von Finanzierungsproblemen und Angriffen erst 1693 endgültig abgeschlossen. Das Bauwerk spiegelt den Übergang von der Manuelinik zur Renaissance wider und bestand aus massiven Steinmauern, die die Macht der katholischen Kirche und der portugiesischen Krone in den Kolonien demonstrieren sollten. Die Kathedrale war der Sitz der Diözese Santiago de Cabo Verde, die damals eine gewaltige Zuständigkeit über weite Teile der westafrikanischen Küste besaß. Im Jahr 1712 wurde das prächtige Gebäude während des verheerenden Angriffs des französischen Korsaren Jacques Cassard geplündert und schwer beschädigt. Nachdem die Hauptstadt 1770 nach Praia verlegt wurde, verfiel das Gebäude zusehends, und Baumaterialien wurden für andere Zwecke entwendet. Geografisch liegen die Ruinen auf einer Anhöhe über dem Meer, was ihnen eine strategische und visuelle Dominanz verlieh. Archäologische Grabungen in den letzten Jahrzehnten haben die ursprünglichen Grundrisse und Grabplatten prominenter Bürger freigelegt. Die Ruinen sind heute ein melancholischer, aber beeindruckender Teil des UNESCO-Weltkulturerbes und zeugen vom einstigen Glanz und dem tiefen Fall der Stadt Ribeira Grande.",
+        "hu": "A Cidade Velha-i Sé-székesegyház romjai Nyugat-Afrika egykor legnagyobb vallási építményének monumentális maradványai. A székesegyház építése Santiago szigetén 1555-ben kezdődött, de finanszírozási problémák és támadások miatt csak 1693-ban fejeződött be véglegesen. Az épület a mánuel stílus és a reneszánsz közötti átmenetet tükrözi, masszív kőfalaival a katolikus egyház és a portugál korona gyarmati hatalmát hivatott demonstrálni. A székesegyház a Santiago de Cabo Verde-i egyházmegye székhelye volt, amely akkoriban hatalmas joghatósággal bírt Nyugat-Afrika partvidékének nagy része felett. 1712-ben a pompás épületet a francia kalóz, Jacques Cassard pusztító támadása során kifosztották és súlyosan megrongálták. Miután a fővárost 1770-ben Praiába helyezték át, az épület láthatóan romlásnak indult, építőanyagait pedig más célokra hordták el. Földrajzilag a romok a tenger feletti magaslaton találhatók, ami stratégiai és vizuális dominanciát biztosított nekik. Az elmúlt évtizedek régészeti ásatásai feltárták az eredeti alaprajzot és prominens polgárok sírlapjait. A romok ma a Cidade Velha UNESCO Világörökség melankolikus, de lenyűgöző részét képezik, tanúskodva Ribeira Grande városának egykori fényéről és mély hanyatlásáról.",
+        "ro": "Ruinele Catedralei Sé din Cidade Velha sunt vestigiile monumentale ale celei ce a fost odinioară cea mai mare structură religioasă din Africa de Vest. Construcția catedralei de pe insula Santiago a început în anul 1555, dar a fost finalizată definitiv abia în 1693, din cauza problemelor de finanțare și a atacurilor. Edificiul reflectă tranziția de la stilul manuelin la cel al Renașterii și era format din ziduri de piatră masive, menite să demonstreze puterea Bisericii Catolice și a coroanei portugheze în colonii. Catedrala a fost sediul Diecezei de Santiago de Cabo Verde, care avea la acea vreme o jurisdicție imensă asupra unor părți extinse din coasta vest-africană. În anul 1712, clădirea splendidă a fost jefuită și grav avariată în timpul atacului devastator al corsarului francez Jacques Cassard. După ce capitala a fost mutată la Praia în 1770, clădirea s-a degradat vizibil, iar materialele de construcție au fost sustrase pentru alte scopuri. Geografic, ruinele sunt situate pe o înălțime deasupra mării, ceea ce le oferea o dominanță strategică și vizuală. Săpăturile arheologice din ultimele decenii au scos la iveală planurile originale și plăcile funerare ale unor cetățeni proeminenți. Ruinele sunt astăzi o parte melancolică, dar impresionantă a Patrimoniului Mondial UNESCO și stau mărturie gloriei de odinioară și declinului profund al orașului Ribeira Grande.",
+        "en": "The ruins of the Sé Cathedral in Cidade Velha are the monumental remains of what was once the largest religious structure in West Africa. Construction of the cathedral on Santiago Island began in 1555 but was not fully completed until 1693 due to funding shortages and repeated attacks. The structure reflects the transition from Manueline architecture to the Renaissance and consisted of massive stone walls designed to project the power of the Catholic Church and the Portuguese Crown in the colonies. The cathedral served as the seat of the Diocese of Santiago de Cabo Verde, which held vast ecclesiastical jurisdiction over large parts of the West African coast. In 1712, the magnificent building was looted and severely damaged during a devastating raid by the French privateer Jacques Cassard. Following the relocation of the capital to Praia in 1770, the building fell into decay, and its construction materials were scavenged for other purposes. Geographically, the ruins are situated on an elevated site overlooking the sea, granting them a position of strategic and visual dominance. Archaeological excavations in recent decades have uncovered the original floor plans and the tomb slabs of prominent local citizens. Today, the ruins form a melancholic yet impressive part of the UNESCO World Heritage site, testifying to the former grandeur and ultimate decline of the city of Ribeira Grande."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einst das größte sakrale Bauwerk an der gesamten westafrikanischen Küste.",
+          "Bauzeit über 130 Jahre (begonnen 1555, fertiggestellt 1693).",
+          "Zerstört im Jahr 1712 durch den französischen Korsaren Jacques Cassard.",
+          "Sitz des Bistums mit Machtbefugnissen bis nach Guinea und Senegal.",
+          "Die Ruinen zeigen eine Mischung aus manuelinischen und Renaissance-Elementen.",
+          "Archäologen entdeckten hier prunkvolle Grabstätten der kolonialen Elite.",
+          "Teil des UNESCO-Weltkulturerbes seit der Ernennung im Jahr 2009."
+        ],
+        "hu": [
+          "Egykor a teljes nyugat-afrikai partvidék legnagyobb szakrális építménye volt.",
+          "Az építkezés több mint 130 évig tartott (1555-től 1693-ig).",
+          "1712-ben Jacques Cassard francia kalóz pusztította el.",
+          "A püspökség székhelye volt, hatalma Guineáig és Szenegálig terjedt.",
+          "A romok a mánuel stílus és a reneszánsz elemeinek keveredését mutatják.",
+          "A régészek a gyarmati elit pompás sírhelyeit tárták fel itt.",
+          "2009 óta a Cidade Velha UNESCO Világörökség része."
+        ],
+        "ro": [
+          "Odată cea mai mare structură sacră de pe întreaga coastă a Africii de Vest.",
+          "Durata construcției a fost de peste 130 de ani (începută în 1555, finalizată în 1693).",
+          "Distrusă în anul 1712 de către corsarul francez Jacques Cassard.",
+          "Sediul episcopiei cu puteri de jurisdicție până în Guineea și Senegal.",
+          "Ruinele prezintă un amestec de elemente manueline și de Renaștere.",
+          "Arheologii au descoperit aici morminte fastuoase ale elitei coloniale.",
+          "Parte a Patrimoniului Mondial UNESCO din anul 2009."
+        ],
+        "en": [
+          "Once the largest ecclesiastical building on the entire West African coastline.",
+          "The construction spanned over 130 years (begun 1555, completed 1693).",
+          "Looted and severely damaged in 1712 by French privateer Jacques Cassard.",
+          "Seat of a powerful diocese with jurisdiction extending into Guinea and Senegal.",
+          "The remaining structure displays a blend of Manueline and Renaissance styles.",
+          "Excavations revealed elaborate burial sites belonging to the colonial elite.",
+          "Formally included in the UNESCO World Heritage designation in 2009."
+        ]
+      }
+    }
+  ]
+}

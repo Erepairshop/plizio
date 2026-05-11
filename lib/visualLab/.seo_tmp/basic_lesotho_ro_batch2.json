@@ -1,0 +1,18 @@
+{
+  "lang": "ro",
+  "country": "Lesotho",
+  "files": [ "lib/visualLab/data/poiExtraLesothoCitiesV2.ts" ],
+  "items": [
+    { "id": "ha-ntsi-cities-v2", "description": "Ha Ntsi este un sat situat în regiunea muntoasă a districtului Maseru, popular pentru drumeții.", "facts": ["Regiunea Maseru", "Sat de munte", "Zonă de drumeție"] },
+    { "id": "ha-baroana-cities-v2", "description": "Ha Baroana este faimos pentru picturile sale rupestre străvechi, create de poporul San.", "facts": ["Picturi rupestre", "Cultura San", "Patrimoniu istoric"] },
+    { "id": "marakabei-cities-v2", "description": "Marakabei este o localitate situată în inima munților Maloti, un punct de oprire cheie pentru călători.", "facts": ["Munții Maloti", "Punct de oprire", "Inima munților"] },
+    { "id": "ha-belo-cities-v2", "description": "Ha Belo este o așezare din districtul Butha-Buthe, situată într-o zonă muntoasă din nordul țării.", "facts": ["Districtul Butha-Buthe", "Nordul Lesotho", "Așezare montană"] },
+    { "id": "likalaneng-cities-v2", "description": "Likalaneng este un sat situat la altitudine mare, oferind peisaje montane impresionante.", "facts": ["Altitudine mare", "Peisaj montan", "Regiune izolată"] },
+    { "id": "maphutsaneng-cities-v2", "description": "Maphutsaneng este o comunitate rurală liniștită situată în valea râului Maphutseng.", "facts": ["Valea râului", "Comunitate rurală", "Zonă liniștită"] },
+    { "id": "tele-cities-v2", "description": "Tele este un punct de trecere a frontierei important între Lesotho și Africa de Sud.", "facts": ["Punct de frontieră", "Sudul Lesotho", "Acces rutier"] },
+    { "id": "ha-sekake-cities-v2", "description": "Ha Sekake este o așezare situată de-a lungul drumului principal către Qacha's Nek.", "facts": ["Drumul Qacha's Nek", "Localitate de tranzit", "Regiunea de sud"] },
+    { "id": "ha-rafanyane-cities-v2", "description": "Ha Rafanyane este un sat izolat din zonele înalte, unde viața urmează ritmul tradițiilor pastorale.", "facts": ["Sat izolat", "Tradiții pastorale", "Zonele înalte"] },
+    { "id": "mashai-cities-v2", "description": "Mashai este un centru administrativ local situat în districtul Thaba-Tseka, în valea râului Senqu.", "facts": ["Districtul Thaba-Tseka", "Valea râului Senqu", "Centru local"] },
+    { "id": "linakaneng-cities-v2", "description": "Linakaneng este o așezare montană îndepărtată, accesibilă în principal pe cărări de munte.", "facts": ["Așezare îndepărtată", "Cărări de munte", "Viață tradițională"] }
+  ]
+}

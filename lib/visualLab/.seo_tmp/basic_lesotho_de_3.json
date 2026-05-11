@@ -1,0 +1,54 @@
+{
+  "lang": "de",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ha-kome-cities-v2",
+      "description": "Die Kome Caves sind historische Höhlenwohnungen, die noch heute von den Nachkommen der ursprünglichen Erbauer bewohnt werden. Diese einzigartigen Lehmhäuser wurden im 19. Jahrhundert in den Fels gebaut.",
+      "facts": ["Bewohnte historische Höhlenhäuser", "Aus Lehm und Stein erbaut", "Versteck vor Kannibalen im 19. Jhd.", "Einzigartiges architektonisches Erbe"]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "description": "Likalaneng ist ein Gebirgsort an der Route nach Thaba-Tseka, der für seine atemberaubenden Ausblicke auf die Maloti-Berge bekannt ist. Der Ort ist ein wichtiger Orientierungspunkt in den Highlands.",
+      "facts": ["Ort in den Maloti-Bergen", "An der A3-Hochlandstraße", "Spektakuläre Bergpanoramen", "Wichtiger Zwischenstopp"]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "description": "Maphutsaneng ist eine ländliche Siedlung im Distrikt Mohale's Hoek. Die Umgebung ist geprägt von traditioneller Landwirtschaft und der für Lesotho typischen Sandsteingeologie.",
+      "facts": ["Siedlung im Distrikt Mohale's Hoek", "Traditionelle Landwirtschaft", "Sandsteinformationen", "Ländliche Basotho-Gemeinschaft"]
+    },
+    {
+      "id": "tele-cities-v2",
+      "description": "Tele ist eine wichtige Grenzstation im Süden Lesothos an der Grenze zu Südafrika. Der Ort liegt am Ufer des Tele-Flusses und ist ein Tor zum Quthing-Distrikt.",
+      "facts": ["Grenzstation zu Südafrika", "Am Tele-Fluss gelegen", "Südlicher Zugang nach Lesotho", "Wichtiger Transitpunkt"]
+    },
+    {
+      "id": "ha-mpiti-cities-v2",
+      "description": "Ha Mpiti ist ein strategischer Verkehrsknotenpunkt im Distrikt Qacha's Nek, wo sich wichtige Straßenwege des Südostens kreuzen. Der Ort ist essentiell für die Logistik der Region.",
+      "facts": ["Verkehrsknotenpunkt im Südosten", "Distrikt Qacha's Nek", "Wichtige Straßenkreuzung", "Regionales Logistikzentrum"]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "description": "Ha Sekake ist ein zentrales Dorf im Gebirge, das über grundlegende Versorgungsreinrichtungen für die umliegenden verstreuten Siedlungen verfügt. Es liegt malerisch in den Highlands.",
+      "facts": ["Zentrales Bergdorf", "Versorgungszentrum der Region", "Distrikt Qacha's Nek", "Eingebettet in Hochgebirge"]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "description": "Ha Rafanyane ist eine Siedlung in den Ausläufern der Maloti-Berge, die für ihre authentische Atmosphäre und die Nähe zu Wanderwegen bekannt ist.",
+      "facts": ["Ort am Fuße der Maloti-Berge", "Ausgangspunkt für Wanderungen", "Authentisches Dorfleben", "Nahe Maseru gelegen"]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "description": "Mashai ist eine abgelegene Gemeinde in den hohen Highlands, die für ihre unberührte Natur und die traditionelle Viehzucht der Basotho bekannt ist.",
+      "facts": ["Abgelegene Highlands-Gemeinde", "Zentrum der Viehzucht", "Unberührte Berglandschaft", "Traditionelle Basotho-Kultur"]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "description": "Linakaneng ist ein kleines Dorf tief in den Bergen des Thaba-Tseka Distrikts. Es ist bekannt für seine extreme Abgeschiedenheit und die beeindruckende Wildnis der Umgebung.",
+      "facts": ["Bergdorf im Distrikt Thaba-Tseka", "Extreme Höhenlage", "Umgeben von Wildnis", "Sehr abgelegene Siedlung"]
+    }
+  ]
+}

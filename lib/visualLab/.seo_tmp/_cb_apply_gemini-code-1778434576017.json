@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mausolee-leon-mba-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Mausoleum von Léon Mba in Libreville ist ein bedeutendes nationales Denkmal, das dem ersten Präsidenten der Gabunischen Republik gewidmet ist. Léon Mba, der das Land 1960 in die Unabhängigkeit von Frankreich führte, verstarb 1967 im Amt. Das Bauwerk wurde errichtet, um sein Erbe als Gründervater der Nation zu ehren und dient heute als Ort des nationalen Gedenkens. Architektonisch zeichnet sich das Mausoleum durch eine Kombination aus modernistischen Linien und symbolischen Elementen aus, die die Souveränität Gabuns widerspiegeln sollen. Es befindet sich in einem gepflegten Areal in der Hauptstadt und wird oft für offizielle staatliche Zeremonien genutzt. Die Anlage umfasst neben dem eigentlichen Grabmal auch Gedenktafeln, die die politische Laufbahn Mbas und den Übergang Gabuns von der Kolonialzeit zur Eigenstaatlichkeit dokumentieren. Für Besucher bietet das Denkmal einen tiefen Einblick in die postkoloniale Geschichte Zentralafrikas und die Konsolidierung der nationalen Identität Gabuns in den 1960er Jahren. Es ist nicht nur ein Grab, sondern ein Symbol für den Beginn der modernen politischen Ära des Landes.",
+        "hu": "A Libreville-ben található Léon Mba Mauzóleum Gabon első elnökének, a nemzet alapító atyjának állít emléket. Léon Mba kulcsszerepet játszott az ország 1960-as függetlenné válásában, és haláláig, 1967-ig vezette a fiatal köztársaságot. Az építmény nem csupán nyughely, hanem a nemzeti egység és a szuverenitás jelképe is. Az épületegyüttes modern stílusjegyeket hordoz, letisztult vonalvezetése a korszak politikai optimizmusát tükrözi. A mauzóleum környezete gondosan parkosított, lehetőséget adva a látogatóknak az elcsendesedésre és a történelmi emlékezet ápolására. A helyszínen elhelyezett információs táblák és emlékjelek bemutatják Mba életútját, a francia gyarmati sorból való kitörés szakaszait és a gaboni államszervezet kiépítésének nehézségeit. Az állami ünnepségek alkalmával központi szerepet kap, a politikai vezetés rendszeresen lerója itt kegyeletét. A történelem iránt érdeklődők számára ez a pont elengedhetetlen a modern Gabon politikai fejlődésének és a posztkoloniális afrikai vezetés dinamikájának megértéséhez.",
+        "ro": "Mausoleul Léon Mba din Libreville este un monument național de o importanță majoră, dedicat primului președinte al Republicii Gaboneze. Léon Mba a condus țara spre independență față de Franța în 1960 și a rămas o figură centrală până la moartea sa în 1967. Edificiul a fost conceput ca un omagiu adus „părintelui națiunii” și servește drept loc de pelerinaj politic și istoric. Arhitectura sa îmbină elemente moderne cu simboluri ale autorității de stat, reflectând tranziția Gabunului către modernitate. Situat în inima capitalei, complexul funerari include spații verzi bine întreținute și elemente comemorative care detaliază momentele cheie ale luptei pentru autodeterminare. Mausoleul nu este doar un monument funerar, ci și un centru educațional unde noile generații pot învăța despre sacrificiile făcute pentru libertatea țării. Vizitatorii pot observa aici respectul profund pe care statul gabonez îl acordă istoriei sale recente. Monumentul rămâne un reper esențial în peisajul urban al orașului Libreville, fiind gazda multor ceremonii oficiale și evenimente diplomatice.",
+        "en": "The Léon Mba Mausoleum in Libreville stands as a premier national monument dedicated to the first president of the Gabonese Republic. Léon Mba, who navigated the nation to independence from France in 1960, is revered as the founding father of modern Gabon. Constructed after his death in 1967, the mausoleum is more than a burial site; it is a symbol of national sovereignty and political continuity. The architectural design features clean, modernist lines that were prevalent in mid-20th-century African state monuments, representing progress and stability. Located within a dedicated ceremonial perimeter in the capital, the site is meticulously maintained for official state functions and public visitation. It houses various plaques and exhibits detailing Mba's political trajectory and the early challenges of Gabonese governance. For students of African history, the mausoleum provides a tangible connection to the decolonization era and the establishment of the Gabonese state. Its presence in Libreville serves as a constant reminder of the country's origins and its journey toward national development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Léon Mba war von 1960 bis zu seinem Tod 1967 der erste Präsident Gabuns.",
+          "Das Mausoleum befindet sich in der Hauptstadt Libreville.",
+          "Es dient als zentraler Ort für staatliche Gedenkfeiern zur Unabhängigkeit.",
+          "Die Architektur kombiniert modernen Betonbau mit zeremoniellen Elementen.",
+          "In der Nähe befinden sich wichtige Regierungsgebäude und Verwaltungszentren.",
+          "Das Denkmal ehrt Mbas Rolle beim Übergang von der Kolonie zur Republik."
+        ],
+        "hu": [
+          "Léon Mba Gabon első elnöke volt 1960 és 1967 között.",
+          "A mauzóleum Libreville belvárosában, kiemelt helyen található.",
+          "Az építmény a modern gaboni államiság egyik legfőbb jelképe.",
+          "Rendszeresen tartanak itt koszorúzási ünnepségeket nemzeti ünnepeken.",
+          "A helyszín bemutatja az ország Franciaországtól való elszakadását.",
+          "Az épület építészeti stílusa a 20. század közepi modernizmust idézi."
+        ],
+        "ro": [
+          "Léon Mba a fost primul președinte al Gabunului între 1960 și 1967.",
+          "Mausoleul este situat în Libreville, capitala țării.",
+          "Monumentul este considerat un simbol al unității naționale gaboneze.",
+          "Găzduiește anual ceremonii oficiale de Ziua Independenței.",
+          "Arhitectura reflectă stilul oficial post-independență al anilor '70.",
+          "Léon Mba a murit în funcție la Paris, fiind ulterior repatriat aici."
+        ],
+        "en": [
+          "Léon Mba served as Gabon's first president from 1960 until 1967.",
+          "The mausoleum is located in the heart of Libreville.",
+          "It is the primary site for official state tributes to the founding father.",
+          "The structure's design represents early post-colonial modern architecture.",
+          "It is a key landmark for understanding Gabonese political history.",
+          "The site includes gardens and commemorative plaques about the president."
+        ]
+      }
+    },
+    {
+      "id": "pont-ozouri-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ozouri-Brücke ist ein bedeutendes Ingenieurbauwerk in der Provinz Ogooué-Maritime in Gabun. Sie überspannt den Fluss Ozouri und ist ein entscheidendes Teilstück der Straßenverbindung zwischen Port-Gentil, dem wirtschaftlichen Zentrum des Landes, und Omboué. Vor dem Bau der Brücke war dieser Bereich nur mühsam per Fähre oder über unbefestigte Wege zu erreichen, was den Transport von Gütern und Personen stark einschränkte. Die Brücke wurde im Rahmen großer Infrastrukturprojekte errichtet, um die Anbindung der Küstenregionen an das Hinterland zu verbessern und die wirtschaftliche Entwicklung, insbesondere in den Sektoren Erdöl und Tourismus, zu fördern. Die Konstruktion musste den schwierigen geologischen Bedingungen der Sumpf- und Lagunenlandschaften Gabuns trotzen, was den Einsatz moderner Tiefbautechnik erforderte. Seit ihrer Eröffnung hat die Brücke die Reisezeit massiv verkürzt und die Sicherheit im Straßenverkehr erhöht. Sie symbolisiert den Modernisierungskurs Gabuns und die Bemühungen der Regierung, die infrastrukturelle Isolation wichtiger Wirtschaftsstandorte aufzuheben. Für die lokale Bevölkerung hat sie den Zugang zu medizinischer Versorgung und Bildung deutlich verbessert.",
+        "hu": "Az Ozouri-híd Gabon egyik legfontosabb infrastrukturális létesítménye, amely az Ogooué-Maritime tartományban található. A híd az Ozouri-folyót íveli át, és kulcsszerepet játszik a Port-Gentil és Omboué közötti közúti összeköttetésben. Port-Gentil az ország gazdasági motorja, azonban évtizedekig elszigetelt volt a szárazföldi úthálózattól, és csak légi vagy vízi úton volt megközelíthető. A híd megépítése a Port-Gentil–Omboué útvonal részeként alapjaiban változtatta meg a régió logisztikáját. Az építkezés rendkívüli mérnöki kihívást jelentett a mocsaras, vizenyős talaj és a trópusi éghajlat miatt, speciális alapozási technikákat igényelve. A szerkezet átadása óta jelentősen felgyorsult az áruszállítás, és könnyebbé vált az olajipar számára szükséges berendezések mozgatása. A híd nemcsak gazdasági, hanem társadalmi szempontból is áttörést hozott, hiszen a helyi közösségek számára elérhetőbbé váltak a fővárosi szolgáltatások. Ez a modern acél- és betonszerkezet a gaboni fejlődés egyik látványos mérföldköve, amely megnyitotta az utat a turizmus fellendülése előtt is a Loango Nemzeti Park irányába.",
+        "ro": "Podul Ozouri reprezintă o realizare tehnologică majoră în provincia Ogooué-Maritime din Gabun, traversând râul cu același nume. Această structură este o componentă vitală a autostrăzii care leagă orașul portuar Port-Gentil de localitatea Omboué. Timp de decenii, Port-Gentil, capitala economică a țării, a fost accesibilă doar pe calea aerului sau a apei, ceea ce a limitat potențialul său de dezvoltare. Construcția podului a eliminat dependența de bacuri și a facilitat un flux constant de bunuri și persoane. Inginerii au trebuit să facă față terenului dificil, caracterizat prin zone mlăștinoase și lagune, utilizând piloni de mare adâncime pentru a asigura stabilitatea structurii. Podul a fost inaugurat ca parte a unui program ambițios de modernizare a infrastructurii rutiere naționale. Pe lângă beneficiile economice evidente pentru industria petrolieră, podul a îmbunătățit semnificativ calitatea vieții locuitorilor din zonă, oferind acces rapid către spitale și școli. Designul său robust și lungimea considerabilă îl fac unul dintre cele mai impresionante poduri din Africa Centrală, simbolizând conectivitatea și progresul regiunii de coastă a Gabunului.",
+        "en": "The Ozouri Bridge is a pivotal infrastructure landmark located in the Ogooué-Maritime Province of Gabon. Spanning the Ozouri River, it serves as a critical link in the road network connecting the industrial hub of Port-Gentil to the town of Omboué. Before its completion, Port-Gentil was largely isolated from the national road system, relying almost exclusively on maritime and aerial transport. The bridge's construction was part of a major strategic initiative to integrate the coastal economic zones with the rest of the country. Building this structure required overcoming immense logistical and geological hurdles, as the surrounding terrain consists of soft swamps and complex lagoon systems, necessitating advanced piling and engineering techniques. Since its inauguration, the bridge has drastically reduced travel times and operational costs for the oil and timber industries. It also facilitates easier access to the Loango National Park, boosting the region's ecotourism potential. The Ozouri Bridge stands as a testament to Gabon's commitment to modernizing its transport corridors and enhancing the socio-economic mobility of its citizens in previously hard-to-reach areas."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brücke ist Teil der wichtigen Straßenverbindung Port-Gentil–Omboué.",
+          "Sie überquert den Ozouri-Fluss in einer sumpfigen Lagunenlandschaft.",
+          "Der Bau wurde 2017 abgeschlossen und markierte einen Meilenstein der Infrastruktur.",
+          "Sie ermöglicht erstmals eine zuverlässige Landverbindung nach Port-Gentil.",
+          "Die Konstruktion basiert auf tief im Schlamm verankerten Betonpfeilern.",
+          "Das Projekt wurde maßgeblich zur Förderung der Ölindustrie vorangetrieben."
+        ],
+        "hu": [
+          "A híd Port-Gentil városát köti össze a szárazföldi úthálózattal.",
+          "Az Ozouri-folyó felett ível át Ogooué-Maritime tartományban.",
+          "Megépítése előtt Port-Gentil csak hajóval vagy repülővel volt elérhető.",
+          "A mocsaras terep miatt különleges mélyépítési megoldásokat alkalmaztak.",
+          "A híd hossza és teherbírása lehetővé teszi a nehézgépek szállítását.",
+          "Kulcsfontosságú a Loango Nemzeti Park megközelítése szempontjából."
+        ],
+        "ro": [
+          "Podul Ozouri face parte din ruta strategică Port-Gentil–Omboué.",
+          "Traversează râul Ozouri într-o zonă de lagune și mlaștini.",
+          "Inaugurarea sa a pus capăt izolării terestre a orașului Port-Gentil.",
+          "Construcția a utilizat tehnologii avansate pentru soluri instabile.",
+          "Este esențial pentru transportul echipamentelor în industria petrolieră.",
+          "Proiectul a fost finanțat ca parte a planului 'Gabon Emergent'."
+        ],
+        "en": [
+          "The bridge connects the economic capital, Port-Gentil, to the mainland.",
+          "It spans the Ozouri River in a complex lagoon environment.",
+          "Completion of the bridge has revolutionized logistics in Ogooué-Maritime.",
+          "The structure relies on specialized deep-foundation engineering.",
+          "It provides a vital corridor for the country's oil and gas sector.",
+          "The bridge is a key component of the trans-coastal highway project."
+        ]
+      }
+    },
+    {
+      "id": "cathedrale-saint-hilaire-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kathedrale Saint-Hilaire in Franceville ist eines der ältesten und bedeutendsten religiösen Bauwerke im Osten Gabuns. Sie wurde Ende des 19. Jahrhunderts, etwa um 1899, von katholischen Missionaren des Spiritaner-Ordens gegründet. Die Kathedrale zeichnet sich durch ihre markante Architektur aus rotem Backstein aus, die im starken Kontrast zum umgebenden Grün der tropischen Landschaft steht. Franceville, ursprünglich als Siedlung für ehemalige Sklaven gegründet, entwickelte sich unter dem Einfluss der Mission zu einem regionalen Zentrum, wobei die Kirche das Herzstück der Stadtplanung bildete. Das Bauwerk ist ein Zeugnis der Kolonialgeschichte und der christlichen Missionierung in Zentralafrika. Im Inneren der Kathedrale finden sich schlichte, aber würdevolle sakrale Elemente, die die Spiritualität der Region widerspiegeln. Über die Jahrzehnte wurde das Gebäude mehrfach renoviert, wobei darauf geachtet wurde, den ursprünglichen Charakter der Ziegelbauweise zu erhalten. Als Sitz der Diözese Franceville spielt sie eine zentrale Rolle im sozialen und kulturellen Leben der Provinz Haut-Ogooué. Die Kathedrale ist nicht nur ein Ort des Gebets, sondern auch ein historisches Denkmal, das die tiefen Wurzeln des Katholizismus in der gabunischen Gesellschaft dokumentiert.",
+        "hu": "A Franceville-ben található Szent Hiláriusz-székesegyház Gabon keleti régiójának egyik legfontosabb történelmi és vallási emléke. A templomot a 19. század legvégén, 1899 körül alapították a spirituánus misszionáriusok, akik fontos szerepet játszottak az ország keresztény hitre térítésében. Az épület legfőbb jellegzetessége a vörös téglából emelt homlokzat, amely egyedi megjelenést kölcsönöz neki a trópusi környezetben. Franceville városa, amely nevét a rabszolgaság alól felszabadítottakról kapta, e templom köré szerveződött mint kulturális és igazgatási központ. A székesegyház építészete a gyarmati korszak stílusjegyeit hordozza, ötvözve az európai keresztény templomépítési hagyományokat a helyi anyaghasználattal. Belső tere puritán, mégis tiszteletet parancsoló, számos vallási ereklyét és díszítést őriz. A templom a Franceville-i egyházmegye központja, így jelentős szerepet tölt be a Haut-Ogooué tartomány közösségi életében. A hívők számára a lelki élet központja, a turisták és történészek számára pedig a közép-afrikai missziós tevékenység egyik legjobban megőrzött mementója, amely túlélte a történelem viharait és a modernizációs hullámokat.",
+        "ro": "Catedrala Saint-Hilaire din Franceville este un edificiu religios emblematic situat în estul Gabunului, reprezentând un punct de reper pentru istoria creștinismului în regiune. Fondată în jurul anului 1899 de către misionarii spiritani, catedrala este una dintre cele mai vechi structuri permanente din provincia Haut-Ogooué. Arhitectura sa este distinctivă datorită utilizării cărămizii roșii, un material care îi conferă un aspect cald și robust, contrastând cu vegetația luxuriantă din jur. Orașul Franceville s-a dezvoltat în jurul acestei misiuni, catedrala devenind rapid inima spirituală și socială a comunității. Edificiul reflectă eforturile misionare din perioada colonială și adaptarea stilurilor arhitecturale europene la contextul african. De-a lungul timpului, catedrala a fost martora transformării Gabunului dintr-o colonie într-o republică independentă, rămânând un simbol al stabilității. Interiorul păstrează o atmosferă de solemnitate, fiind decorat cu elemente de artă sacră care atrag numeroși pelerini. În prezent, Saint-Hilaire funcționează ca sediu al diecezei locale, fiind implicată activ în numeroase proiecte sociale și educaționale care deservesc populația din estul țării.",
+        "en": "Saint-Hilaire Cathedral in Franceville is one of the most significant historical and religious landmarks in eastern Gabon. Established around 1899 by the Spiritan missionaries, the cathedral played a fundamental role in the spread of Christianity throughout the Upper Ogooué region. Its architecture is characterized by the prominent use of red bricks, which gives the building a unique aesthetic compared to the modern concrete structures of the city. Franceville itself, named to honor the freed slaves who settled there, grew around this religious mission, making the cathedral a cornerstone of the town's urban history. The structure stands as a testament to late 19th-century colonial missionary architecture in Central Africa. Inside, the cathedral features a modest yet dignified design, preserving the spiritual ambiance of its founding era. As the seat of the Diocese of Franceville, it remains a vital center for community life and religious celebrations. The cathedral's preservation allows visitors to appreciate the historical layers of Gabonese society, from its colonial mission roots to its current role as a spiritual beacon for the local population. It is a key site for those interested in the cultural and architectural heritage of the Ogooué basin."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale wurde im Jahr 1899 in Franceville gegründet.",
+          "Sie wurde von katholischen Missionaren des Spiritaner-Ordens erbaut.",
+          "Das Bauwerk ist bekannt für seine Fassade aus lokal hergestellten roten Backsteinen.",
+          "Sie ist die Hauptkirche der Diözese Franceville in der Provinz Haut-Ogooué.",
+          "Das Gebäude ist eines der ältesten erhaltenen Steinhäuser in der Region.",
+          "Franceville wurde ursprünglich als Zufluchtsort für befreite Sklaven gegründet."
+        ],
+        "hu": [
+          "A székesegyházat 1899-ben alapították a spirituánus misszionáriusok.",
+          "Az épület Franceville egyik legrégebbi kőépítménye.",
+          "A templom vörös téglás homlokzata egyedülálló a régióban.",
+          "Ez a Franceville-i egyházmegye püspöki székhelye.",
+          "A város fejlődése szorosan összefüggött a misszió tevékenységével.",
+          "A templom belső terében számos történelmi vallási tárgy található."
+        ],
+        "ro": [
+          "Catedrala a fost ctitorită în anul 1899 de misionarii spiritani.",
+          "Este situată în Franceville, capitala provinciei Haut-Ogooué.",
+          "Construcția se remarcă prin zidăria din cărămidă roșie aparentă.",
+          "Reprezintă centrul spiritual al diecezei catolice din estul Gabunului.",
+          "Este considerată un monument istoric al perioadei coloniale franceze.",
+          "Arhitectura sa îmbină rigoarea europeană cu materiale de construcție locale."
+        ],
+        "en": [
+          "The cathedral was established in 1899 by Spiritan missionaries.",
+          "It is located in Franceville, the capital of the Haut-Ogooué Province.",
+          "The building is famous for its distinctive red brick construction.",
+          "It serves as the liturgical seat of the Diocese of Franceville.",
+          "The site is a major landmark of the missionary history in Central Africa.",
+          "The cathedral has been preserved as a key part of Gabon's cultural heritage."
+        ]
+      }
+    },
+    {
+      "id": "hopital-schweitzer-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Albert-Schweitzer-Krankenhaus in Lambaréné ist eine der weltweit bekanntesten medizinischen Einrichtungen und ein Symbol für humanitäres Engagement. Es wurde 1913 von dem deutsch-französischen Arzt, Theologen und Philosophen Albert Schweitzer am Ufer des Ogooué-Flusses gegründet. Schweitzer nutzte seine Einnahmen aus Orgelkonzerten und Buchverkäufen, um die medizinische Versorgung in einer Region zu etablieren, die damals kaum Zugang zu moderner Heilkunde hatte. Das Krankenhaus wurde nach Schweitzers Philosophie der 'Ehrfurcht vor dem Leben' geführt, wobei Patienten oft mitsamt ihren Familien aufgenommen wurden, um eine vertraute Umgebung zu schaffen. Heute ist das Krankenhaus weit mehr als ein historisches Denkmal; es ist ein hochmodernes Forschungszentrum, das international führend in der Bekämpfung von Malaria und anderen tropischen Krankheiten ist. Der historische Teil des Komplexes, einschließlich Schweitzers Wohnhaus und der alten Behandlungszimmer, ist als Museum erhalten geblieben und gehört zum UNESCO-Welterbe-Kandidatenkreis. Besucher können die originalen Instrumente und Dokumente besichtigen, die Schweitzers Arbeit dokumentieren. Das Krankenhaus verkörpert die Verbindung von kolonialem Erbe, Nobelpreis-gekrönter Humanität und zukunftsweisender medizinischer Forschung im Herzen des afrikanischen Regenwaldes.",
+        "hu": "A Lambarénéban található Albert Schweitzer Kórház a világ egyik leghíresebb egészségügyi intézménye, az önzetlen humanitárius munka jelképe. Az intézményt 1913-ban alapította a német-francia orvos, teológus és orgonaművész, Albert Schweitzer az Ogooué-folyó partján. Schweitzer az „Élet tisztelete” filozófiáját követve hozta létre a kórházat, hogy segítséget nyújtson a helyi lakosságnak a trópusi betegségek elleni küzdelemben. A kórház különlegessége volt, hogy a betegek családtagjai is az intézmény területén maradhattak, segítve az ápolást és fenntartva a közösségi szellemet. Schweitzer 1952-ben kapott Nobel-békedíjat munkásságáért, az ebből kapott összeget a kórház bővítésére fordította. Napjainkban az intézmény modern kutatóközpontként működik, amely világszinten elismert a malária és a tuberkulózis kutatásában. A régi kórházépületek ma múzeumként funkcionálnak, ahol Schweitzer eredeti hangszerei, könyvei és orvosi eszközei láthatók. A helyszín Gabon egyik legfontosabb kulturális és tudományos központja, amely összeköti a múlt humanitárius örökségét a jövő orvostudományi kihívásaival.",
+        "ro": "Spitalul Albert Schweitzer din Lambaréné este o instituție medicală de renume mondial, reprezentând un monument al umanitarismului și al dăruirii profesionale. Fondat în 1913 de medicul, teologul și muzicianul Albert Schweitzer, spitalul este situat pe malurile fluviului Ogooué. Schweitzer a ales această locație izolată pentru a oferi îngrijire medicală populației locale afectate de boli tropicale, finanțând proiectul din resurse proprii și donații internaționale. Filozofia sa, „Respectul pentru viață”, a stat la baza funcționării spitalului, care a devenit rapid un model de asistență medicală adaptată contextului cultural african. Pentru contribuția sa extraordinară la pace și binele omenirii, Schweitzer a primit Premiul Nobel pentru Pace în 1952. Astăzi, complexul cuprinde atât vechiul spital transformat în muzeu, cât și o secțiune modernă care găzduiește unul dintre cele mai avansate centre de cercetare medicală din Africa Centrală, specializat în studiul malariei. Vizitatorii pot explora casa în care a locuit doctorul și mormântul acestuia, aflate în incinta spitalului. Locul rămâne o destinație esențială pentru cei care doresc să înțeleagă impactul durabil al muncii lui Schweitzer asupra medicinei globale și a eticii umanitare.",
+        "en": "The Albert Schweitzer Hospital in Lambaréné is one of the most iconic medical institutions in the world, serving as a beacon of humanitarian effort. Founded in 1913 by the Nobel Peace Prize laureate Dr. Albert Schweitzer, the hospital is strategically located on the banks of the Ogooué River. Schweitzer established the facility to treat tropical diseases such as malaria and leprosy, operating under his profound ethical principle of 'Reverence for Life.' The hospital was unique for its time, allowing patients' families to stay and cook on-site, which integrated clinical care with local social structures. Over the decades, it evolved from a modest jungle clinic into a premier international research hub. Today, the CERMEL (Centre de Recherches Médicales de Lambaréné) within the hospital grounds is at the forefront of global clinical trials for malaria vaccines. The historic section of the hospital, including Schweitzer’s original living quarters and laboratory, has been meticulously preserved as a museum. It attracts historians, scientists, and tourists from across the globe, standing as a living testament to Schweitzer's enduring legacy in medicine, philosophy, and peaceful cohabitation within the African rainforest."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Krankenhaus wurde 1913 von Albert Schweitzer in Lambaréné gegründet.",
+          "Schweitzer erhielt 1952 den Friedensnobelpreis für seine Arbeit hier.",
+          "Es beherbergt heute eines der führenden Malaria-Forschungszentren Afrikas.",
+          "Das ursprüngliche Krankenhausgelände ist heute ein Museum.",
+          "Es liegt direkt am Ogooué-Fluss, einem wichtigen Transportweg.",
+          "Albert Schweitzer und seine Frau Helene sind auf dem Gelände begraben."
+        ],
+        "hu": [
+          "Albert Schweitzer 1913-ban alapította a kórházat Gabon szívében.",
+          "Az orvos 1952-es Nobel-békedíjának összegét a kórház fejlesztésére költötte.",
+          "Az intézmény ma a maláriakutatás egyik nemzetközi központja.",
+          "A múzeumban Schweitzer eredeti zongorája és orvosi naplói is láthatók.",
+          "A kórház az „Élet tisztelete” etikai alapelvre épült.",
+          "A terület Lambaréné városának legismertebb turisztikai és tudományos helyszíne."
+        ],
+        "ro": [
+          "Spitalul a fost fondat în 1913 pe malul fluviului Ogooué.",
+          "Albert Schweitzer a primit Premiul Nobel pentru Pace în 1952.",
+          "Găzduiește Centrul de Cercetări Medicale din Lambaréné (CERMEL).",
+          "Complexul include mormântul doctorului și un muzeu biografic.",
+          "Este un centru de referință mondială pentru testarea vaccinurilor anti-malarie.",
+          "Arhitectura veche a spitalului respectă stilul colonial adaptat la climă."
+        ],
+        "en": [
+          "The hospital was established in 1913 by the Alsatian doctor Albert Schweitzer.",
+          "Dr. Schweitzer was awarded the Nobel Peace Prize in 1952 for his work here.",
+          "It is a world-renowned site for research on malaria and tropical medicine.",
+          "The historic buildings are preserved as a museum and heritage site.",
+          "The facility remains a functioning hospital serving the local population.",
+          "Albert Schweitzer is buried on the hospital grounds alongside his wife."
+        ]
+      }
+    },
+    {
+      "id": "mission-sainte-anne-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Mission Sainte-Anne du Fernan Vaz ist ein außergewöhnliches architektonisches Juwel an der Küste Gabuns, nahe der Stadt Omboué. Sie wurde 1889 gegründet und ist vor allem für ihre markante Kirche aus rotem Eisen bekannt. Die Legende besagt, dass das Design der Kirche von einem Mitarbeiter des berühmten Gustave Eiffel stammt, was die industrielle Metallbauweise erklärt, die für diese abgelegene Region Afrikas im 19. Jahrhundert höchst ungewöhnlich war. Die Einzelteile der Kirche wurden in Europa vorgefertigt und per Schiff in die Fernan-Vaz-Lagune transportiert, wo sie mühsam zusammengesetzt wurden. Die rote Farbe des Metalls bildet einen faszinierenden Kontrast zum tiefen Blau der Lagune und dem satten Grün des Dschungels. Die Mission diente über Jahrzehnte als religiöses und schulisches Zentrum für die lokale Bevölkerung. Obwohl die Zeit und das feuchte Tropenklima dem Metall zugesetzt haben, bleibt die Kirche ein beeindruckendes Zeugnis der Missionsgeschichte und der Ingenieurskunst. Sie ist nur per Boot erreichbar, was den Besuch zu einer Reise in die koloniale Vergangenheit Gabuns macht. Die Umgebung der Mission ist zudem für ihre Biodiversität bekannt, was den Ort zu einem Ziel für Kultur- und Naturinteressierte gleichermaßen macht.",
+        "hu": "A Fernan Vaz-lagúna partján fekvő Sainte-Anne misszió Gabon egyik legkülönlegesebb építészeti emléke. Az 1889-ben alapított misszió központi eleme a vörösre festett vashajóból álló templom, amelynek tervezését gyakran a híres Gustave Eiffel egyik tanítványának vagy munkatársának tulajdonítják. Az előre gyártott vasszerkezetet Európából szállították ide hajóval, majd a helyszínen szerelték össze, ami a kor technikai színvonalán rendkívüli teljesítménynek számított. A templom élénkvörös színe éles kontrasztban áll a környező esőerdő zöldjével és a lagúna vizével. A misszió fontos oktatási és hitéleti központként működött a régióban, segítve a helyi közösségek fejlődését. Bár a sós tengeri levegő és a párás klíma az évek során kikezdte a fémszerkezetet, a templom ma is áll, és a gaboni keresztény örökség egyik büszkesége. A helyszín csak vízi úton közelíthető meg, ami fokozza az elszigeteltség és a történelmi időutazás élményét. A közeli erdőkben gyakran látni gorillákat és más vadon élő állatokat, így a misszió látogatása kulturális és természeti élményt is nyújt egyben.",
+        "ro": "Misiunea Sainte-Anne din Fernan Vaz este o bijuterie arhitecturală rară, situată într-o zonă izolată din provincia Ogooué-Maritime din Gabun. Fondată în 1889 de misionarii catolici, principala sa atracție este biserica metalică de culoare roșie, a cărei structură a fost proiectată sub influența școlii lui Gustave Eiffel. Componentele din fier forjat au fost fabricate în Franța și transportate peste ocean, fiind asamblate pe malul lagunei Fernan Vaz într-o epocă în care logistica în Africa Centrală era extrem de dificilă. Această „biserică de fier” a supraviețuit climatului tropical umed mai bine de un secol, devenind un simbol al rezilienței și al credinței. Misiunea a jucat un rol crucial în educația și asistența socială a triburilor locale, fiind un centru de iradiere culturală. Accesibilă doar cu barca dinspre Omboué, locația oferă o perspectivă spectaculoasă asupra modului în care arhitectura industrială europeană a fost transplantată în inima sălbăticiei africane. Astăzi, rămâne un loc de pelerinaj și un obiectiv turistic fascinant, înconjurat de o faună diversă, unde istoria colonială se întâlnește cu natura virgină.",
+        "en": "The Saint-Anne Mission of Fernan Vaz is an extraordinary architectural landmark located on the shores of the Fernan Vaz lagoon near Omboué, Gabon. Established in 1889, it is most famous for its striking red-painted iron church. The structure's design is widely attributed to an engineer from the school of Gustave Eiffel, explaining its unique metallic industrial style which was highly innovative for late 19th-century Africa. The entire church was prefabricated in Europe and shipped in pieces to the lagoon, where it was manually assembled in the middle of the rainforest. The vibrant red hue of the iron creates a stunning visual contrast against the lush green jungle and the blue lagoon waters. For generations, the mission served as a vital educational and religious hub for the local communities in the Ogooué-Maritime province. Despite the corrosive effects of the humid tropical climate and salty air, the church remains standing as a testament to missionary zeal and European engineering of the era. Accessible only by boat, the mission offers a serene and historical experience, often combined with wildlife viewing in the surrounding forests, which are home to gorillas and chimpanzees."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Mission wurde 1889 in der Fernan-Vaz-Lagune gegründet.",
+          "Die Kirche besteht vollständig aus einer in Europa vorgefertigten Eisenstruktur.",
+          "Ihr Entwurf wird oft mit dem Büro von Gustave Eiffel in Verbindung gebracht.",
+          "Das Gebäude ist für seine auffällige rote Farbe bekannt.",
+          "Die Mission ist nur über den Wasserweg per Boot erreichbar.",
+          "Sie liegt in einer Region, die für ihre wilden Gorillas bekannt ist."
+        ],
+        "hu": [
+          "A missziót 1889-ben alapították az Ogooué-Maritime tartományban.",
+          "A templom szerkezete előre gyártott vasból készült Európában.",
+          "A tervezésben valószínűleg Gustave Eiffel mérnöki irodája is közreműködött.",
+          "A templom élénkvörös színe a hajózók számára is tájékozódási pont.",
+          "Csak hajóval közelíthető meg Omboué irányából.",
+          "A misszió fontos szerepet játszott a helyi törzsek oktatásában."
+        ],
+        "ro": [
+          "Misiunea a fost înființată în anul 1889 lângă localitatea Omboué.",
+          "Biserica este construită integral din fier, un fapt rar în Africa acelei epoci.",
+          "Se crede că planurile au fost realizate de un elev al lui Gustave Eiffel.",
+          "Structura a fost transportată pe mare din Franța până în laguna Fernan Vaz.",
+          "Locația este accesibilă exclusiv pe cale fluvială.",
+          "Biserica este vopsită într-un roșu caracteristic pentru a preveni coroziunea."
+        ],
+        "en": [
+          "The mission was founded in 1889 in the remote Fernan Vaz region.",
+          "The church features a unique prefabricated iron frame from Europe.",
+          "The design is attributed to an engineer associated with Gustave Eiffel.",
+          "It is famous for its bright red exterior, contrasting with the jungle.",
+          "The site is only accessible by boat from the town of Omboué.",
+          "It served as a major center for the Catholic Church in coastal Gabon."
+        ]
+      }
+    }
+  ]
+}

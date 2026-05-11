@@ -1,0 +1,75 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Isla Tiburón Sonora államban Mexikó legnagyobb szigete, fontos természetvédelmi terület az őshonos Seri nép számára.",
+      "facts": ["Mexikó legnagyobb szigete", "Természetvédelmi terület", "Seri nép"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "A Marietas-szigetek Nayaritban nemzeti park, híres a rejtett 'Playa del Amor' strandjáról és gazdag tengeri élővilágáról.",
+      "facts": ["Nemzeti park", "Playa del Amor", "Gazdag tengeri élővilág"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Isla Contoy Quintana Roóban egy lakatlan természetvédelmi terület és fontos fészkelőhely a tengeri madarak számára.",
+      "facts": ["Lakatlan természetvédelmi terület", "Fészkelőhely tengeri madaraknak", "Quintana Roo"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "A Tequila agavemezői Jalisco államban UNESCO Világörökség részét képezik, és a híres mexikói tequila alapanyagát adják.",
+      "facts": ["UNESCO Világörökség", "Tequila termelés", "Jalisco"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "A Valle de Guadalupe Baja Californiában Mexikó legfontosabb borvidéke, díjnyertes borairól ismert.",
+      "facts": ["Borvidék", "Baja California", "Díjnyertes borok"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "A veracruzi kávéültetvények híresek magas minőségű kávéjukról és festői tájukról.",
+      "facts": ["Kávétermesztés", "Veracruz", "Festői táj"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "A chiapasi kávéfarmok Mexikó egyik legjobb kávéját termelik, egy hegyvidéki, esős régióban.",
+      "facts": ["Kiváló minőségű kávé", "Chiapas", "Hegyvidéki régió"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Az oaxacai mezcal-agave mezők a mezcal termelésének központjai, ami egy hagyományos mexikói párlat.",
+      "facts": ["Mezcal termelés", "Oaxaca", "Hagyományos párlat"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "A michoacáni avokádóültetvények teszik Mexikót a világ legnagyobb avokádótermelőjévé.",
+      "facts": ["Avokádó termelés", "Michoacán", "Világelső termelő"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "A sinaloai mangóültetvények gazdag termésükről és az exportált mangók magas minőségéről ismertek.",
+      "facts": ["Mangótermelés", "Sinaloa", "Kiváló minőségű mangók"]
+    },
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "A Yucatán-félsziget egy nagy szárazföldi tömeg, amely a Karib-tengert választja el a Mexikói-öböltől, lapos topográfiájáról ismert.",
+      "facts": ["Lapos topográfia", "Karib-tenger", "Mexikói-öböl"]
+    },
+    {
+      "id": "sierra-de-la-giganta-relief-v2",
+      "description": "A Sierra de la Giganta egy hegyvonulat Baja California Sur államban, jellegzetes vulkáni formációkkal és sivatagi tájakkal.",
+      "facts": ["Hegyvonulat Baja California", "Vulkáni formációk", "Sivatagi táj"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "A Sierra Madre de Sonora a Sierra Madre Occidental része, mély kanyonokkal és erdős hegyekkel.",
+      "facts": ["Sierra Madre Occidental", "Mély kanyonok", "Erdős hegyek"]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "lang": "ro",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayEconomicV2.ts",
+    "lib/visualLab/data/poiExtraUruguayLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUruguayLifeV2.ts",
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-of-nueva-palmira-economic-v2",
+      "description": "Portul Nueva Palmira este un nod logistic esențial situat la confluența râurilor Uruguay și Paraná. Acesta joacă un rol vital în exportul de cereale și mărfuri agricole din regiune.",
+      "facts": ["Port de ape adânci", "Confluența Uruguay-Paraná", "Exportator principal de soia", "Poartă comercială regională"]
+    },
+    {
+      "id": "uy-mo-torre-antel-landmarks-v2",
+      "description": "Torre Antel este cea mai înaltă clădire din Uruguay, fiind un simbol al modernității și al infrastructurii de telecomunicații din Montevideo. Această structură emblematică domină panorama golfului orașului.",
+      "facts": ["Cea mai înaltă clădire", "Design modern", "Sediu central Antel", "Situată în Montevideo"]
+    },
+    {
+      "id": "uy-mo-catedral-metropolitana-landmarks-v2",
+      "description": "Catedrala Metropolitană din Montevideo este o clădire istorică importantă, construită în stil neoclasic în secolul al XVIII-lea. Este situată în Piața Constituției, în centrul istoric al orașului.",
+      "facts": ["Stil neoclasic", "Centrul istoric Montevideo", "Monument istoric național", "Construită în 1804"]
+    },
+    {
+      "id": "uy-mo-wtc-montevideo-landmarks-v2",
+      "description": "World Trade Center Montevideo reprezintă centrul de afaceri și comerț internațional al capitalei uruguayene. Complexul găzduiește numeroase birouri ale companiilor multinaționale.",
+      "facts": ["Centru financiar major", "Complex de birouri modern", "Punct economic cheie", "Situat în cartierul Pocitos"]
+    },
+    {
+      "id": "isla-de-lobos-life-v2",
+      "description": "Isla de Lobos este o rezervație naturală protejată, situată în largul coastei Punta del Este. Este celebră pentru colonia sa imensă de lei de mare și foci.",
+      "facts": ["Rezervație naturală", "Populație mare de foci", "Situată lângă Punta del Este", "Protejată ecologic"]
+    },
+    {
+      "id": "sierra-de-las-animas-relief-v2",
+      "description": "Sierra de las Ánimas este un lanț muntos spectaculos, cunoscut pentru formațiunile sale geologice vechi și peisajele naturale diverse. Este una dintre cele mai înalte formațiuni din țară.",
+      "facts": ["Lanț muntos uruguayan", "Peisaj stâncos", "Zona biodiversității", "Drumeții populare"]
+    },
+    {
+      "id": "cerro-de-la-buena-vista-relief-v2",
+      "description": "Cerro de la Buena Vista este un deal proeminent care oferă vederi panoramice asupra peisajului rural din Uruguay. Este o destinație apreciată de amatorii de natură.",
+      "facts": ["Deal panoramic", "Peisaj rural", "Destinație turistică", "Formațiune geologică"]
+    },
+    {
+      "id": "cuchilla-del-fuego-relief-v2",
+      "description": "Cuchilla del Fuego este o formațiune de tip cumpănă de ape, caracteristică reliefului ondulat din nordul Uruguayului. Aceasta influențează drenajul natural al regiunii.",
+      "facts": ["Cumpănă de ape", "Relief ondulat", "Zona rurală", "Geografie uruguayană"]
+    },
+    {
+      "id": "cuchilla-del-bizcocho-relief-v2",
+      "description": "Cuchilla del Bizcocho reprezintă un sistem de dealuri line situat în departamentul Soriano. Este caracterizat prin pășuni extinse și relief neted.",
+      "facts": ["Sistem de dealuri", "Departamentul Soriano", "Teren agricol", "Relief line"]
+    },
+    {
+      "id": "cerro-de-la-sepultura-relief-v2",
+      "description": "Cerro de la Sepultura este un deal distinctiv în peisajul uruguayan, făcând parte din formațiunile geologice ale zonei. Este cunoscut pentru solul și vegetația sa tipică.",
+      "facts": ["Formațiune geologică", "Deal distinctiv", "Vegetație nativă", "Relief local"]
+    },
+    {
+      "id": "cerro-aspero-relief-v2",
+      "description": "Cerro Áspero este o colină caracterizată prin solul și textura sa stâncoasă specifică zonelor de relief înalt. Oferă un contrast interesant în mediul rural înconjurător.",
+      "facts": ["Colină stâncoasă", "Relief înalt", "Textură geologică", "Zona rurală"]
+    },
+    {
+      "id": "cuchilla-de-peralta-relief-v2",
+      "description": "Cuchilla de Peralta este o secțiune importantă a sistemului de dealuri din centrul țării. Această creastă montană joasă joacă un rol în geografia fizică a zonei.",
+      "facts": ["Sistem de dealuri", "Regiunea centrală", "Geografie fizică", "Creastă joasă"]
+    },
+    {
+      "id": "cuchilla-del-ombu-relief-v2",
+      "description": "Cuchilla del Ombú este o formațiune de dealuri ondulate situată în peisajul rural uruguayan. Este renumită pentru vegetația sa și rolul în drenajul local.",
+      "facts": ["Dealuri ondulate", "Peisaj rural", "Drenaj natural", "Formațiune geografică"]
+    }
+  ]
+}

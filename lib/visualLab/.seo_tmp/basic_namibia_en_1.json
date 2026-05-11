@@ -1,0 +1,70 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hohenzollernhaus-history-v2",
+      "description": "Historic building in Swakopmund, originally serving as a luxury hotel.",
+      "facts": ["Built in 1906", "Located in Swakopmund", "Example of German colonial architecture"]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "description": "Historical mission station and museum showcasing Ovambo culture.",
+      "facts": ["Located in Olukonda", "Former Finnish mission", "Preserves indigenous history"]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "description": "Ornate colonial mansion overlooking the Atlantic in Lüderitz.",
+      "facts": ["Built in 1910", "Designed by Otto Ertl", "Symbol of diamond-rush wealth"]
+    },
+    {
+      "id": "christuskirche-windhoek-landmarks-v2",
+      "description": "Iconic Lutheran church serving as a landmark in Windhoek.",
+      "facts": ["Consecrated in 1910", "Built in Art Nouveau style", "Windhoek city landmark"]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "description": "The seat of both houses of the Namibian parliament.",
+      "facts": ["Built in 1913", "Located in Windhoek", "Houses National Assembly"]
+    },
+    {
+      "id": "woermannhaus-landmarks-v2",
+      "description": "Historic building known for its tower, once part of a shipping company.",
+      "facts": ["Constructed in 1905", "Located in Swakopmund", "Features notable observation tower"]
+    },
+    {
+      "id": "goerke-haus-luderitz-landmarks-v2",
+      "description": "Architectural gem from the diamond boom era in Lüderitz.",
+      "facts": ["Historic diamond era home", "Located in Lüderitz", "Well-preserved interior"]
+    },
+    {
+      "id": "turnhalle-windhoek-landmarks-v2",
+      "description": "Historically significant hall that hosted constitutional talks.",
+      "facts": ["Completed in 1909", "Used for political conferences", "Located in Windhoek"]
+    },
+    {
+      "id": "heinitzburg-landmarks-v2",
+      "description": "Castle-like residence overlooking the capital city.",
+      "facts": ["Built in 1914", "Located in Windhoek", "Functioning as a hotel"]
+    },
+    {
+      "id": "franke-tower-omaruru-landmarks-v2",
+      "description": "Tower dedicated to Major Victor Franke, a colonial commander.",
+      "facts": ["Built in 1908", "Located in Omaruru", "Memorial structure"]
+    },
+    {
+      "id": "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
+      "description": "Museum housed in a historic building showcasing the mining heritage of Tsumeb.",
+      "facts": ["Located in Tsumeb", "Former mining office", "Mining history exhibits"]
+    },
+    {
+      "id": "kapps-hotel-luderitz-landmarks-v2",
+      "description": "Classic colonial-era building situated in Lüderitz.",
+      "facts": ["Historic structure", "Located in Lüderitz", "Represents early colonial architecture"]
+    }
+  ]
+}

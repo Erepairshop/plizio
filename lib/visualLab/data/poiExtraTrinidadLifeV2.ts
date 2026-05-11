@@ -22,10 +22,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Caroni Bird Sanctuary is a notable site on the Caribbean island of Trinidad. A mangrove wetland known for its scarlet ibises. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Home to the national bird. Another point of interest: Popular sunset boat tours. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Heimat des Nationalvogels.", "Beliebte Sonnenuntergangsboote.", "Wichtiges Mangroven-Ökosystem.", "Bekannt unter dem Namen Caroni Vogelreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["A nemzeti madár otthona.", "Napsütötte hajótúrák.", "Fontos mangrove ökoszisztéma.", "A helyszín neve: Caroni madarrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Casa păsării naționale.", "Tururi cu barca la apus.", "Ecosistem important de mangrove.", "Este cunoscut sub numele de Sanctuarul de păsări Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Home to the national bird.", "Popular sunset boat tours.", "Important mangrove ecosystem.", "Known by the name Caroni Bird Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Caroni Vogelreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Caroni madarrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Sanctuarul de păsări Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Caroni Bird Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -48,10 +48,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Asa Wright Nature Centre is a notable site on the Caribbean island of Trinidad. A world-famous birdwatching center in the hills. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Famous for toucans. Another point of interest: Former cocoa and coffee estate. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Berühmt für Tukane.", "Ehemalige Kakao- und Kaffeeplantage.", "Biodiversitäts-Hotspot.", "Bekannt unter dem Namen Asa Wright Naturzentrum.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Híres a tukánokról.", "Egykori kakaó- és kávéültetvény.", "Biodiverzitás-gazdag hely.", "A helyszín neve: Asa Wright természetközpont.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Faimos pentru tucani.", "Fosta plantație de cacao și cafea.", "Punct fierbinte al biodiversității.", "Este cunoscut sub numele de Centrul de natură Asa Wright.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Famous for toucans.", "Former cocoa and coffee estate.", "Biodiversity hotspot.", "Known by the name Asa Wright Nature Centre.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Asa Wright Naturzentrum.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Asa Wright természetközpont.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Centrul de natură Asa Wright.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Asa Wright Nature Centre.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -74,10 +74,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Yerette Hummingbird Sanctuary is a notable site on the Caribbean island of Trinidad. A private hummingbird sanctuary in Maracas Valley. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: 13 hummingbird species. Another point of interest: Guided nature visits. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["13 Kolibriarten.", "Geführte Naturbesuche.", "Fotografie-Standort.", "Bekannt unter dem Namen Yerette Kolibrimenedek.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["13 kolibrifaj.", "Vezetett természetlátogatások.", "Fotográfiai helyszín.", "A helyszín neve: Yerette kolibrimenedék.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["13 specii de colibri.", "Vizite ghidate în natură.", "Loc bun pentru fotografie.", "Este cunoscut sub numele de Sanctuarul de colibri Yerette.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["13 hummingbird species.", "Guided nature visits.", "Great for photography.", "Known by the name Yerette Hummingbird Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Yerette Kolibrimenedek.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Yerette kolibrimenedék.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Sanctuarul de colibri Yerette.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Yerette Hummingbird Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -100,10 +100,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Emperor Valley Zoo is a notable site on the Caribbean island of Trinidad. The best-known zoo in Trinidad and Tobago. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: In Port of Spain. Another point of interest: Popular with families. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["In Port of Spain.", "Beliebt bei Familien.", "Verbindet Lernen und Freizeit.", "Bekannt unter dem Namen Emperor Valley Zoo.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Port of Spainben.", "Családok kedvence.", "Tanulás és szórakozás.", "A helyszín neve: Emperor Valley állatkert.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["În Port of Spain.", "Popular pentru familii.", "Îmbină învățarea și distracția.", "Este cunoscut sub numele de Grădina Zoologică Emperor Valley.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["In Port of Spain.", "Popular with families.", "Combines learning and fun.", "Known by the name Emperor Valley Zoo.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Emperor Valley Zoo.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Emperor Valley állatkert.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Grădina Zoologică Emperor Valley.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Emperor Valley Zoo.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -126,10 +126,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Queen's Park Savannah is a notable site on the Caribbean island of Trinidad. The largest open space in Port of Spain. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Carnival venue. Another point of interest: Recreation and sports. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Ort für Karneval.", "Freizeit und Sport.", "Umgeben von Kolonialhäusern.", "Bekannt unter dem Namen Queens Park Savannah.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["A karnevál helyszíne.", "Szabadidős és sportos terület.", "Gyarmati házak veszik körül.", "A helyszín neve: Queens Park Savannah.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Loc pentru Carnaval.", "Timp liber și sport.", "Înconjurată de case coloniale.", "Este cunoscut sub numele de Queen's Park Savannah.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Carnival venue.", "Recreation and sports.", "Surrounded by colonial mansions.", "Known by the name Queen's Park Savannah.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Queens Park Savannah.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Queens Park Savannah.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Queen's Park Savannah.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Queen's Park Savannah.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -152,10 +152,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Maracas Bay is a notable site on the Caribbean island of Trinidad. Trinidad's most famous beach and a popular weekend spot. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Famous for Bake and Shark. Another point of interest: Scenic North Coast drive. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Bekannt für Bake and Shark.", "Nordkustenfahrt.", "Breiter Sandstrand.", "Bekannt unter dem Namen Maracas Bay.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Híres a Bake and Sharkról.", "Északi parti út.", "Széles homokos part.", "A helyszín neve: Maracas-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Faimos pentru Bake and Shark.", "Drum pitoresc pe coasta de nord.", "Plajă lată cu nisip.", "Este cunoscut sub numele de Golful Maracas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Famous for Bake and Shark.", "Scenic North Coast drive.", "Wide sandy beach.", "Known by the name Maracas Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Maracas Bay.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Maracas-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful Maracas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Maracas Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -178,10 +178,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Cleaver Woods is a notable site on the Caribbean island of Trinidad. A forest and recreation park in eastern Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Nature trails. Another point of interest: Popular for school trips. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Naturpfade.", "Beliebt bei Schulgruppen.", "Kleines Besucherzentrum.", "Bekannt unter dem Namen Cleaver Woods.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Természeti utak.", "Iskolai csoportok kedvence.", "Kis látogatóközpont.", "A helyszín neve: Cleaver Woods.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Trasee în natură.", "Popular printre grupurile școlare.", "Mic centru pentru vizitatori.", "Este cunoscut sub numele de Cleaver Woods.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Nature trails.", "Popular for school trips.", "Small visitor centre.", "Known by the name Cleaver Woods.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Cleaver Woods.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Cleaver Woods.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Cleaver Woods.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Cleaver Woods.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -204,10 +204,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Pointe-a-Pierre Wildfowl Trust is a notable site on the Caribbean island of Trinidad. A sanctuary with lagoons, birds, and quiet walking paths. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Important bird site. Another point of interest: Lagoons and mangroves. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Wichtige Vogelstation.", "Lagunen und Mangroven.", "Beliebt bei Naturfreunden.", "Bekannt unter dem Namen Pointe a Pierre Wildvogelpark.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Fontos madárállomás.", "Lagúnák és mangrovek.", "Kedvelt a természetbarátok körében.", "A helyszín neve: Pointe a Pierre vadmadárpark.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Stație importantă pentru păsări.", "Lagune și mangrove.", "Populară pentru iubitorii de natură.", "Este cunoscut sub numele de Rezervația de păsări sălbatice Pointe a Pierre.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Important bird site.", "Lagoons and mangroves.", "Popular with nature lovers.", "Known by the name Pointe-a-Pierre Wildfowl Trust.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Pointe a Pierre Wildvogelpark.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Pointe a Pierre vadmadárpark.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Rezervația de păsări sălbatice Pointe a Pierre.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Pointe-a-Pierre Wildfowl Trust.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -230,10 +230,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Caroni Sugarcane Belt is a notable site on the Caribbean island of Trinidad. An agricultural zone with traditional sugarcane farming. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Fertile plains. Another point of interest: Part of agricultural history. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Fruchtbare Ebenen.", "Wichtiger Teil der Agrargeschichte.", "Offene Felder und Kanäle.", "Bekannt unter dem Namen Caroni Zuckerrohrgürtel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Termékeny síkságok.", "A mezőgazdasági történelem fontos része.", "Nyitott mezők és csatornák.", "A helyszín neve: Caroni cukornádöv.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Câmpii fertile.", "Parte importantă a istoriei agricole.", "Câmpuri deschise și canale.", "Este cunoscut sub numele de Centura de trestie Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Fertile plains.", "Part of agricultural history.", "Open fields and canals.", "Known by the name Caroni Sugarcane Belt.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Caroni Zuckerrohrgürtel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Caroni cukornádöv.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Centura de trestie Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Caroni Sugarcane Belt.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -256,10 +256,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Central Range Cocoa Farms is a notable site on the Caribbean island of Trinidad. Cocoa farms on the slopes of the Central Range. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Cocoa tradition. Another point of interest: Shade-grown under trees. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Kakaotradition.", "Schattenanbau unter Bäumen.", "Kleinskalige Farmen.", "Bekannt unter dem Namen Central Range Kakaoanbau.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Kakaóhagyomány.", "Fák alatt, árnyékban növekvő termesztés.", "Kisméretű farmok.", "A helyszín neve: Central Range kakaó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Tradiție în cacao.", "Cultivare la umbră sub arbori.", "Ferme de mici dimensiuni.", "Este cunoscut sub numele de Plantații de cacao din Central Range.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Cocoa tradition.", "Shade-grown under trees.", "Small-scale farms.", "Known by the name Central Range Cocoa Farms.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Central Range Kakaoanbau.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Central Range kakaó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Plantații de cacao din Central Range.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Central Range Cocoa Farms.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -282,10 +282,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Aripo Savannas is a notable site on the Caribbean island of Trinidad. A unique savanna and wetland system. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Rare plants. Another point of interest: Scientifically important. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Seltene Pflanzen.", "Wissenschaftlich wichtig.", "Empfindlicher Lebensraum.", "Bekannt unter dem Namen Aripo Savannen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Ritka növények.", "Tudományosan fontos.", "Érzékeny élőhely.", "A helyszín neve: Aripo szavannák.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Plante rare.", "Important științific.", "Habitat sensibil.", "Este cunoscut sub numele de Savanele Aripo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Rare plants.", "Scientifically important.", "Sensitive habitat.", "Known by the name Aripo Savannas.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Aripo Savannen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Aripo szavannák.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Savanele Aripo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Aripo Savannas.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -308,10 +308,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Nariva Swamp is a notable site on the Caribbean island of Trinidad. The largest freshwater wetland in Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: RAMSAR site. Another point of interest: Home to manatees. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["RAMSAR-Gebiet.", "Heimat von Manatis.", "Reich an Vogelwelt.", "Bekannt unter dem Namen Nariva Sumpf.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["RAMSAR terület.", "Manátuszok otthona.", "Gazdag madárvilág.", "A helyszín neve: Nariva mocsár.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Sit RAMSAR.", "Casa manatinilor.", "Bogată în păsări.", "Este cunoscut sub numele de Mlaștina Nariva.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["RAMSAR site.", "Home to manatees.", "Rich birdlife.", "Known by the name Nariva Swamp.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Nariva Sumpf.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Nariva mocsár.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Mlaștina Nariva.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Nariva Swamp.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -334,10 +334,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Bush Bush Sanctuary is a notable site on the Caribbean island of Trinidad. A protected swamp and forest area near Nariva. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Wild mangroves. Another point of interest: Nature boat rides. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Wilde Mangroven.", "Naturkundliche Bootsfahrt.", "Teil des Nariva-Gebiets.", "Bekannt unter dem Namen Bush Bush Schutzgebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Vad mangrovek.", "Természeti hajókirándulás.", "A Nariva-terület része.", "A helyszín neve: Bush Bush védelmi terület.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Mangrove sălbatice.", "Tur cu barca în natură.", "Parte din zona Nariva.", "Este cunoscut sub numele de Sanctuarul Bush Bush.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Wild mangroves.", "Nature boat rides.", "Part of the Nariva area.", "Known by the name Bush Bush Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Bush Bush Schutzgebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Bush Bush védelmi terület.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Sanctuarul Bush Bush.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Bush Bush Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -360,10 +360,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Trinity Hills Wildlife Sanctuary is a notable site on the Caribbean island of Trinidad. A hilly forest sanctuary in southeastern Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Important watershed. Another point of interest: Rich wildlife. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Wichtiger Wassereinzugsbereich.", "Reiches Tierleben.", "Beliebt zum Wandern.", "Bekannt unter dem Namen Trinity Hills Wildnisgebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Fontos vízgyűjtő terület.", "Gazdag állatvilág.", "Kedvelt túrázóhely.", "A helyszín neve: Trinity Hills vadonvédelmi terület.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Bazin hidrografic important.", "Faună bogată.", "Popular pentru drumeții.", "Este cunoscut sub numele de Sanctuarul Trinity Hills.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Important watershed.", "Rich wildlife.", "Popular for hiking.", "Known by the name Trinity Hills Wildlife Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Trinity Hills Wildnisgebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Trinity Hills vadonvédelmi terület.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Sanctuarul Trinity Hills.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Trinity Hills Wildlife Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -386,10 +386,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Matura Turtle Beach is a notable site on the Caribbean island of Trinidad. A well-known nesting beach for sea turtles. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Leatherback turtles. Another point of interest: Night nature watching. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Lederschildkröten.", "Nächtliche Naturbeobachtung.", "Schutz wichtiger Nester.", "Bekannt unter dem Namen Matura Schildkrötenstrand.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Bőrösteknősök.", "Éjszakai természetmegfigyelés.", "Fontos fészkelőhely védelme.", "A helyszín neve: Matura teknősös strand.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Țestoase piele.", "Observare nocturnă a naturii.", "Protejarea cuiburilor.", "Este cunoscut sub numele de Plaja Matura pentru țestoase.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Leatherback turtles.", "Night nature watching.", "Protects important nests.", "Known by the name Matura Turtle Beach.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Matura Schildkrötenstrand.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Matura teknősös strand.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Plaja Matura pentru țestoase.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Matura Turtle Beach.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -412,10 +412,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Grande Riviere Turtle Beach is a notable site on the Caribbean island of Trinidad. One of the Caribbean's most important leatherback beaches. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Strong turtle population. Another point of interest: Guided night visits. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Starke Schildkrötenpopulation.", "Geführte Nachtbesuche.", "Schutzgebiet am Meer.", "Bekannt unter dem Namen Grande Riviere Schildkrötenstrand.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Erős teknősállomány.", "Vezetett éjszakai látogatások.", "Tengeri védett terület.", "A helyszín neve: Grande Riviere teknősös strand.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Populație puternică de țestoase.", "Vizite ghidate noaptea.", "Zonă protejată de coastă.", "Este cunoscut sub numele de Plaja Grande Riviere pentru țestoase.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Strong turtle population.", "Guided night visits.", "Coastal protected area.", "Known by the name Grande Riviere Turtle Beach.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Grande Riviere Schildkrötenstrand.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Grande Riviere teknősös strand.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Plaja Grande Riviere pentru țestoase.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Grande Riviere Turtle Beach.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -438,10 +438,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Toco Coconut Groves is a notable site on the Caribbean island of Trinidad. Coconut plantations along the east coast. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Coastal farming. Another point of interest: Shady groves. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Küstenlandwirtschaft.", "Schattige Haine.", "Wichtige Dorfkultur.", "Bekannt unter dem Namen Toco Kokospalmenhaine.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Parti mezőgazdaság.", "Árnyékos ligetek.", "Fontos falusi kultúra.", "A helyszín neve: Toco kókuszligetek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Agricultură de coastă.", "Livezi umbroase.", "Cultură locală importantă.", "Este cunoscut sub numele de Livezi de cocotieri Toco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Coastal farming.", "Shady groves.", "Important village culture.", "Known by the name Toco Coconut Groves.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Toco Kokospalmenhaine.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Toco kókuszligetek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Livezi de cocotieri Toco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Toco Coconut Groves.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -464,10 +464,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Pigeon Point is a notable site on the Caribbean island of Trinidad. Tobago's iconic beach with the famous wooden jetty. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: White sand. Another point of interest: Turquoise water. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Weißer Sand.", "Türkisfarbenes Wasser.", "Beliebt für Familien.", "Bekannt unter dem Namen Pigeon Point.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Fehér homok.", "Türkiz víz.", "Családok kedvence.", "A helyszín neve: Pigeon Point.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Nisip alb.", "Apă turcoaz.", "Popular pentru familii.", "Este cunoscut sub numele de Pigeon Point.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["White sand.", "Turquoise water.", "Popular with families.", "Known by the name Pigeon Point.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Pigeon Point.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Pigeon Point.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Pigeon Point.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Pigeon Point.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -490,10 +490,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Buccoo Reef is a notable site on the Caribbean island of Trinidad. A protected coral reef with rich marine life. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Glass-bottom boats. Another point of interest: Colorful fish. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Glasbodenboote.", "Farbenfrohe Fische.", "Wichtig für den Tourismus.", "Bekannt unter dem Namen Buccoo Riff.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Üvegfenekű hajók.", "Színes halak.", "Fontos a turizmusnak.", "A helyszín neve: Buccoo zátony.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Bărci cu fund de sticlă.", "Pești colorați.", "Important pentru turism.", "Este cunoscut sub numele de Reciful Buccoo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Glass-bottom boats.", "Colorful fish.", "Important for tourism.", "Known by the name Buccoo Reef.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Buccoo Riff.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Buccoo zátony.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Reciful Buccoo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Buccoo Reef.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -516,10 +516,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Nylon Pool is a notable site on the Caribbean island of Trinidad. A shallow natural pool in the middle of the sea. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Clear water. Another point of interest: Accessible only by boat. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Klares Wasser.", "Nur per Boot erreichbar.", "Nahe Buccoo Reef.", "Bekannt unter dem Namen Nylon Pool.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Tiszta víz.", "Csak hajóval érhető el.", "A Buccoo zátony mellett.", "A helyszín neve: Nylon Pool.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Apă limpede.", "Accesibil doar cu barcă.", "Lângă reciful Buccoo.", "Este cunoscut sub numele de Piscina Nylon.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Clear water.", "Accessible only by boat.", "Near Buccoo Reef.", "Known by the name Nylon Pool.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Nylon Pool.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Nylon Pool.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Piscina Nylon.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Nylon Pool.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -542,10 +542,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Main Ridge Forest Reserve is a notable site on the Caribbean island of Trinidad. The oldest legally protected forest reserve in the Western Hemisphere. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Rainforest on Tobago. Another point of interest: Highly biodiverse. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Regenwald auf Tobago.", "Sehr artenreich.", "Seit 1776 geschützt.", "Bekannt unter dem Namen Main Ridge Waldreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Tobagói esőerdő.", "Nagyon fajgazdag.", "1776 óta védett.", "A helyszín neve: Main Ridge erdőrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Pădure tropicală pe Tobago.", "Foarte bogată în specii.", "Protejată din 1776.", "Este cunoscut sub numele de Rezervația forestieră Main Ridge.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Rainforest on Tobago.", "Highly biodiverse.", "Protected since 1776.", "Known by the name Main Ridge Forest Reserve.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Main Ridge Waldreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Main Ridge erdőrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Rezervația forestieră Main Ridge.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Main Ridge Forest Reserve.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -568,10 +568,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Little Tobago Bird Sanctuary is a notable site on the Caribbean island of Trinidad. A small island with an important seabird nesting site. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Seabird colonies. Another point of interest: Popular boat trips. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Seevogelkolonien.", "Beliebt bei Bootsausflügen.", "Unbewohnt.", "Bekannt unter dem Namen Little Tobago Vogelreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Tengeri madár kolóniák.", "Népszerű hajókirándulás.", "Lakatlan.", "A helyszín neve: Little Tobago madárrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Colonii de păsări marine.", "Populară pentru excursii cu barcă.", "Nelocuită.", "Este cunoscut sub numele de Sanctuarul de păsări Little Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Seabird colonies.", "Popular boat trips.", "Uninhabited.", "Known by the name Little Tobago Bird Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Little Tobago Vogelreservat.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Little Tobago madárrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Sanctuarul de păsări Little Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Little Tobago Bird Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -594,10 +594,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Scarborough Botanical Gardens is a notable site on the Caribbean island of Trinidad. A quiet garden with tropical plants in Scarborough. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Shaded paths. Another point of interest: Tropical plants. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Schattenwege.", "Tropische Pflanzen.", "Gute Familienpause.", "Bekannt unter dem Namen Scarborough Botanischer Garten.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Árnyékos sétányok.", "Trópusi növények.", "Kellemes családi pihenő.", "A helyszín neve: Scarborough botanikus kert.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Alei umbroase.", "Plante tropicale.", "Pauză bună pentru familii.", "Este cunoscut sub numele de Grădina botanică Scarborough.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Shaded paths.", "Tropical plants.", "Nice family stop.", "Known by the name Scarborough Botanical Gardens.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Scarborough Botanischer Garten.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Scarborough botanikus kert.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Grădina botanică Scarborough.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Scarborough Botanical Gardens.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -620,10 +620,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Castara Fishing Village is a notable site on the Caribbean island of Trinidad. A quiet fishing village with a small beach and local food. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Village-style bay. Another point of interest: Local fishing boats. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Bucht mit Dorfcharakter.", "Lokale Fischerboote.", "Beliebt für Natururlaub.", "Bekannt unter dem Namen Castara Fischerdorf.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Falu jellegű öböl.", "Helyi halászcsónakok.", "Népszerű természetközeli nyaralásra.", "A helyszín neve: Castara halászfalu.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Golf cu aer de sat.", "Bărci de pescari locale.", "Popular pentru vacanțe în natură.", "Este cunoscut sub numele de Satul pescăresc Castara.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Village-style bay.", "Local fishing boats.", "Popular for nature stays.", "Known by the name Castara Fishing Village.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Castara Fischerdorf.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Castara halászfalu.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Satul pescăresc Castara.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Castara Fishing Village.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -646,10 +646,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Arima Cocoa Estate is a notable site on the Caribbean island of Trinidad. Small cocoa growing areas around Arima. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Traditional cocoa heritage. Another point of interest: Family-run farms. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Traditionelles Kakaoerbe.", "Familienbetriebe.", "Teil der Ost-Trinidad-Landschaft.", "Bekannt unter dem Namen Arima Kakaoanbau.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Hagyományos kakaóörökség.", "Családi gazdaságok.", "Kelet-Trinidad tájának része.", "A helyszín neve: Arima kakaó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Moștenire tradițională de cacao.", "Ferme de familie.", "Parte din peisajul estic.", "Este cunoscut sub numele de Plantații de cacao Arima.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Traditional cocoa heritage.", "Family-run farms.", "Part of the eastern landscape.", "Known by the name Arima Cocoa Estate.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Arima Kakaoanbau.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Arima kakaó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Plantații de cacao Arima.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Arima Cocoa Estate.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -672,10 +672,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Freeport Rice Fields is a notable site on the Caribbean island of Trinidad. Rice growing areas in central Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Important food crop. Another point of interest: Shallow irrigated fields. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Wichtige Nahrungspflanze.", "Flache Bewässerungsfelder.", "Ländliche Wirtschaftsgrundlage.", "Bekannt unter dem Namen Freeport Reisfelder.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Fontos élelmiszernövény.", "Sekély öntözött táblák.", "Vidéki gazdasági alap.", "A helyszín neve: Freeport rizsföldek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Cultură alimentară importantă.", "Câmpuri irigate de mică adâncime.", "Bază economică rurală.", "Este cunoscut sub numele de Câmpurile de orez Freeport.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Important food crop.", "Shallow irrigated fields.", "Rural economic base.", "Known by the name Freeport Rice Fields.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Freeport Reisfelder.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Freeport rizsföldek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Câmpurile de orez Freeport.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Freeport Rice Fields.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -698,10 +698,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Siparia Dairy Farms is a notable site on the Caribbean island of Trinidad. Pasture farms in the southwest producing milk and cheese. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Cattle farming. Another point of interest: Local dairy products. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Viehzucht.", "Lokale Molkereiprodukte.", "Grüne Weideflächen.", "Bekannt unter dem Namen Siparia Milchfarmen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Szarvasmarha tartás.", "Helyi tejtermékek.", "Zöld legelők.", "A helyszín neve: Siparia tejfarmok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Creșterea bovinelor.", "Produse lactate locale.", "Pășuni verzi.", "Este cunoscut sub numele de Ferme de lapte Siparia.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Cattle farming.", "Local dairy products.", "Green pastures.", "Known by the name Siparia Dairy Farms.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Siparia Milchfarmen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Siparia tejfarmok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Ferme de lapte Siparia.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Siparia Dairy Farms.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -724,10 +724,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Point Fortin Beach Park is a notable site on the Caribbean island of Trinidad. A local leisure beach on the southwest coast. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Family-friendly. Another point of interest: Sunset views. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Familienfreundlich.", "Sonnenuntergangsblick.", "Kleiner Küstenpark.", "Bekannt unter dem Namen Point Fortin Strandpark.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Családbarát.", "Naplemente kilátás.", "Kis parti park.", "A helyszín neve: Point Fortin strandpark.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Prietenos pentru familii.", "Vederi la apus.", "Mic parc de coastă.", "Este cunoscut sub numele de Parcul de plajă Point Fortin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Family-friendly.", "Sunset views.", "Small coastal park.", "Known by the name Point Fortin Beach Park.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Point Fortin Strandpark.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Point Fortin strandpark.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Parcul de plajă Point Fortin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Point Fortin Beach Park.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -750,10 +750,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Chacachacare Island is a notable site on the Caribbean island of Trinidad. An uninhabited island with quiet nature and birdlife. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Former quarantine station. Another point of interest: Dry forest. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Ehemalige Quarantänestation.", "Trockener Wald.", "Beliebt bei Bootsausflügen.", "Bekannt unter dem Namen Chacachacare Insel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Egykori karanténcentrum.", "Száraz erdős terület.", "Népszerű hajókirándulás.", "A helyszín neve: Chacachacare sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Fosta stație de carantină.", "Pădure uscată.", "Populară pentru excursii cu barcă.", "Este cunoscut sub numele de Insula Chacachacare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Former quarantine station.", "Dry forest.", "Popular boat destination.", "Known by the name Chacachacare Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Chacachacare Insel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Chacachacare sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Insula Chacachacare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Chacachacare Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -776,10 +776,10 @@ export const poiExtraTrinidadLifeV2: POI[] = [
       en: "Saut d'Eau Island is a notable site on the Caribbean island of Trinidad. A small wooded island that protects seabirds. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Bird protection. Another point of interest: Uninhabited. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Vogelschutz.", "Unbewohnt.", "Tropische Küstenvegetation.", "Bekannt unter dem Namen Saut d Eau Insel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Madárvédelem.", "Lakatlan.", "Trópusi parti növényzet.", "A helyszín neve: Saut d Eau sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Protejarea păsărilor.", "Nelocuită.", "Vegetație tropicală de coastă.", "Este cunoscut sub numele de Insula Saut d Eau.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Bird protection.", "Uninhabited.", "Tropical coastal vegetation.", "Known by the name Saut d'Eau Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Saut d Eau Insel.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Saut d Eau sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Insula Saut d Eau.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Saut d'Eau Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   }
 ];

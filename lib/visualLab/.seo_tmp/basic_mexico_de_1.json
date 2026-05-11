@@ -1,0 +1,26 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ciudad-juarez-cities-v2",
+      "description": "Die Grenzstadt an der US-amerikanischen Grenze ist ein bedeutendes Industrie- und Handelszentrum im Norden Mexikos.",
+      "facts": ["Lage am Rio Grande", "Wichtiger Industriestandort", "Direkter Grenzübergang zu El Paso"]
+    },
+    {
+      "id": "saltillo-cities-v2",
+      "description": "Saltillo ist die Hauptstadt des Bundesstaates Coahuila und bekannt für seine Automobilindustrie und koloniale Architektur.",
+      "facts": ["Hauptstadt von Coahuila", "Zentrum der Automobilindustrie", "Koloniale Altstadt"]
+    },
+    {
+      "id": "coatzacoalcos-cities-v2",
+      "description": "Dieser wichtige Hafenort am Golf von Mexiko ist ein Zentrum der petrochemischen Industrie.",
+      "facts": ["Hafen am Golf von Mexiko", "Petrochemisches Zentrum", "Wichtiger Verkehrsknotenpunkt"]
+    }
+  ]
+}

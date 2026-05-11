@@ -2,148 +2,23 @@
   "lang": "en",
   "country": "Cameroon",
   "files": [
-    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
-    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
     "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
   ],
   "items": [
     {
-      "id": "yaounde-markt-life-v2",
-      "description": "A busy market in Yaounde where traders sell food, clothes, and daily goods. It reflects the capital's everyday urban life.",
-      "facts": [
-        "in Yaounde",
-        "daily shopping place",
-        "busy urban market"
-      ]
+      "id": "mount-kribi-relief-v2",
+      "description": "Mount Kribi is a coastal elevation in the South Region, providing a dramatic backdrop to the sandy beaches of the Atlantic shoreline.",
+      "facts": ["Coastal elevation", "South Region location", "Near Atlantic shore", "Scenic relief landmark"]
     },
     {
-      "id": "bamenda-kaffeehof-life-v2",
-      "description": "A coffee farm in the Bamenda area. It shows the role of highland agriculture in the local economy.",
-      "facts": [
-        "near Bamenda",
-        "coffee farming",
-        "highland agriculture"
-      ]
+      "id": "mount-bouba-relief-v2",
+      "description": "Mount Bouba is a significant relief feature in the northern plains, rising above the surrounding savanna landscape.",
+      "facts": ["Northern plains peak", "Savanna landscape", "Regional elevation", "Natural relief feature"]
     },
     {
-      "id": "ngaoundere-rinderranch-life-v2",
-      "description": "A cattle ranch near Ngaoundere on the Adamawa plateau. Livestock farming is a major part of the regional way of life.",
-      "facts": [
-        "near Ngaoundere",
-        "cattle ranch",
-        "livestock economy"
-      ]
-    },
-    {
-      "id": "garoua-flussfischerei-life-v2",
-      "description": "River fishing along the Benue near Garoua. It remains an important source of food and income for local families.",
-      "facts": [
-        "on the Benue River",
-        "near Garoua",
-        "local fishing activity"
-      ]
-    },
-    {
-      "id": "ebolowa-kakaogarten-life-v2",
-      "description": "A cocoa garden near Ebolowa in the south. Cocoa farming is a core part of the area's rural economy.",
-      "facts": [
-        "near Ebolowa",
-        "cocoa farming",
-        "southern rural economy"
-      ]
-    },
-    {
-      "id": "foumban-handwerkermarkt-life-v2",
-      "description": "A craft market in Foumban where artisans sell carvings, metalwork, and pottery. It connects local production with visitors.",
-      "facts": [
-        "in Foumban",
-        "artisan craft market",
-        "local handicrafts"
-      ]
-    },
-    {
-      "id": "dschang-museumspark-life-v2",
-      "description": "A museum park in Dschang that combines open space with local heritage displays. It is a calm place for learning and walks.",
-      "facts": [
-        "in Dschang",
-        "museum park",
-        "heritage and leisure"
-      ]
-    },
-    {
-      "id": "kribi-fischmarkt-life-v2",
-      "description": "A fish market in Kribi close to the coast. It is a daily meeting point for fishers, traders, and buyers.",
-      "facts": [
-        "in Kribi",
-        "coastal fish market",
-        "fresh seafood trade"
-      ]
-    },
-    {
-      "id": "bafoussam-maisfeld-life-v2",
-      "description": "A maize field in the Bafoussam area. It reflects the importance of staple crop farming in the western highlands.",
-      "facts": [
-        "near Bafoussam",
-        "maize farming",
-        "staple crop area"
-      ]
-    },
-    {
-      "id": "bertoua-waldhonig-life-v2",
-      "description": "A forest honey site near Bertoua in the east. Honey gathering is part of local small-scale rural production.",
-      "facts": [
-        "near Bertoua",
-        "forest honey",
-        "small-scale rural work"
-      ]
-    },
-    {
-      "id": "mbam-tierreservat-life-v2",
-      "description": "A wildlife reserve area in the Mbam region. It supports animal viewing and nature-based local activity.",
-      "facts": [
-        "in the Mbam area",
-        "wildlife reserve",
-        "nature tourism"
-      ]
-    },
-    {
-      "id": "bamenda-museumsgarten-life-v2",
-      "description": "A museum garden in Bamenda that mixes local plants with cultural displays. It is used for quiet visits and education.",
-      "facts": [
-        "in Bamenda",
-        "museum garden",
-        "educational green space"
-      ]
-    },
-    {
-      "id": "djoum-regenwald-life-v2",
-      "description": "A rainforest area near Djoum in southern Cameroon. It reflects the forest-based way of life in the south.",
-      "facts": [
-        "near Djoum",
-        "rainforest area",
-        "southern forest life"
-      ]
-    },
-    {
-      "id": "sangmelima-kakaokooperative-life-v2",
-      "description": "A cocoa cooperative near Sangmelima. It helps small farmers organize production and market their harvests.",
-      "facts": [
-        "near Sangmelima",
-        "cocoa cooperative",
-        "supports small farmers"
-      ]
-    },
-    {
-      "id": "foumbot-gemuesemarkt-life-v2",
-      "description": "A vegetable market in Foumbot where local growers sell fresh produce. It is part of the town's daily food supply.",
-      "facts": [
-        "in Foumbot",
-        "vegetable market",
-        "fresh local produce"
-      ]
+      "id": "mount-logone-relief-v2",
+      "description": "The Mount Logone area features unique geological formations and elevations along the river basin in the Far North Region.",
+      "facts": ["Far North Region", "River basin elevation", "Geological interest", "Sahelian relief"]
     }
   ]
 }

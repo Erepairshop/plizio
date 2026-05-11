@@ -4,12 +4,18 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaLandmarksV2: POI[] = [
   {
     id: "cristo-concordia-landmarks-v2",
-    description: "Hatalmas Jézus-szobor Cochabambában, amely a városra tekint a San Pedro-dombról.",
-    facts: [
-      "Cochabamba",
-      "Hatalmas Jézus-szobor",
-      "San Pedro-domb"
-],
+    description: {
+      de: "Der Cristo de la Concordia in Cochabamba ist eine der höchsten Christusstatue der Welt und bietet einen Panoramablick über das Tal.",
+      hu: "Hatalmas Jézus-szobor Cochabambában, amely a városra tekint a San Pedro-dombról.",
+      ro: "Cristo de la Concordia este o statuie monumentală a lui Isus Hristos care domină orașul Cochabamba de pe vârful dealului San Pedro.",
+      en: "Colossal statue of Jesus Christ overlooking Cochabamba from the top of San Pedro Hill."
+    },
+    facts: {
+      de: ["Höhe von 34,20 Metern", "Steht auf dem Hügel San Pedro", "Ein Symbol des Friedens"],
+      hu: ["Cochabamba", "Hatalmas Jézus-szobor", "San Pedro-domb"],
+      ro: ["Cu o înălțime de 34,2 metri, este una dintre cele mai înalte statui ale lui Hristos din lume.", "Situat pe dealul San Pedro, cu vedere la Cochabamba.", "Construit ca un simbol al păcii și unității."],
+      en: ["Height of 34.20 meters", "Completed in 1994", "Accessible by cable car", "Largest Christ statue in the world at completion"]
+    },
     type: "landmark",
     parent: "BO-C",
     coords: [-66.1342, -17.3844],
@@ -33,12 +39,18 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     }, image: "/poi-images/cristo-concordia-landmarks-v2.webp"},
   {
     id: "basilica-san-francisco-landmarks-v2",
-    description: "La Paz történelmi központjában található gyönyörű gyarmati kori bazilika.",
-    facts: [
-      "La Paz",
-      "Gyarmati kori építészet",
-      "Bazilika"
-],
+    description: {
+      de: "Die Basilika San Francisco in La Paz ist ein Meisterwerk des mestizischen Barocks und eines der bedeutendsten religiösen Gebäude des Landes.",
+      hu: "La Paz történelmi központjában található gyönyörű gyarmati kori bazilika.",
+      ro: "Bazilica San Francisco din La Paz este o capodoperă a arhitecturii religioase coloniale, îmbinând barocul spaniol cu detalii indigene.",
+      en: "Exquisite Catholic basilica in La Paz showcasing a unique blend of Baroque and indigenous art."
+    },
+    facts: {
+      de: ["Erbaut im 16. Jahrhundert", "Fassade mit indigenen Motiven", "Befindet sich im Stadtzentrum"],
+      hu: ["La Paz", "Gyarmati kori építészet", "Bazilika"],
+      ro: ["Exemplu de arhitectură colonială cu influențe decorative indigene.", "Fondată în secolul al XVI-lea de misionarii franciscani.", "Situată în inima orașului La Paz."],
+      en: ["Founded in 1548", "Features 'Mestizo Baroque' facade", "Stone carvings of native flora", "Offers rooftop city views"]
+    },
     type: "landmark",
     parent: "BO-L",
     coords: [-68.1373, -16.4958],
@@ -62,12 +74,18 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     }, image: "/poi-images/basilica-san-francisco-landmarks-v2.webp"},
   {
     id: "catedral-metropolitana-sucre-landmarks-v2",
-    description: "Sucre városának fő katedrálisa, az ország egyik legfontosabb szakrális helye.",
-    facts: [
-      "Sucre",
-      "Katedrális",
-      "Szakrális műemlék"
-],
+    description: {
+      de: "Die Kathedrale von Sucre kombiniert Renaissance- und Barockelemente und ist ein Symbol der kolonialen Geschichte der Hauptstadt.",
+      hu: "Sucre városának fő katedrálisa, az ország egyik legfontosabb szakrális helye.",
+      ro: "Catedrala Metropolitană din Sucre este una dintre cele mai frumoase clădiri religioase din Bolivia, sediu al Arhiepiscopului.",
+      en: "The principal cathedral of Sucre, known for its clock tower and impressive religious museum."
+    },
+    facts: {
+      de: ["UNESCO-Welterbe der Altstadt", "Beherbergt wertvolle religiöse Kunst", "Baubeginn im Jahr 1551"],
+      hu: ["Sucre", "Katedrális", "Szakrális műemlék"],
+      ro: ["Sediul Arhiepiscopului de Sucre.", "Arhitectura a evoluat de-a lungul a trei secole, reflectând mai multe stiluri.", "Situată în piața centrală istorică din Sucre."],
+      en: ["Construction began in 1551", "Blend of Renaissance and Baroque", "Houses the Virgin of Guadalupe", "Located on Plaza 25 de Mayo"]
+    },
     type: "landmark",
     parent: "BO-H",
     coords: [-65.2599, -19.0480],
@@ -91,12 +109,18 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     }, image: "/poi-images/catedral-metropolitana-sucre-landmarks-v2.webp"},
   {
     id: "plaza-murillo-landmarks-v2",
-    description: "La Paz központi tere, a bolíviai politika és kormányzat szívverése.",
-    facts: [
-      "La Paz",
-      "Központi tér",
-      "Politikai központ"
-],
+    description: {
+      de: "Die Plaza Murillo ist das politische Herz Boliviens, umgeben vom Regierungspalast, dem Kongress und der Kathedrale von La Paz.",
+      hu: "La Paz központi tere, a bolíviai politika és kormányzat szívverése.",
+      ro: "Plaza Murillo este inima istorică și politică a orașului La Paz, numită după martirul bolivian Pedro Domingo Murillo.",
+      en: "The central square of La Paz and the historical heart of Bolivian politics and government."
+    },
+    facts: {
+      de: ["Zentrum der Altstadt von La Paz", "Ort historischer Ereignisse", "Benannt nach Pedro Domingo Murillo"],
+      hu: ["La Paz", "Központi tér", "Politikai központ"],
+      ro: ["Numită după eroul revoluționar Pedro Domingo Murillo.", "Piața centrală și inima administrativă a orașului La Paz.", "Înconjurată de Palatul Prezidențial și Congresul Național."],
+      en: ["Home to the National Congress", "Named after hero Pedro Murillo", "Popular for its many pigeons", "Site of the 1952 revolution"]
+    },
     type: "landmark",
     parent: "BO-L",
     coords: [-68.1330, -16.4953],
@@ -120,12 +144,18 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     }, image: "/poi-images/plaza-murillo-landmarks-v2.webp"},
   {
     id: "convento-santa-teresa-landmarks-v2",
-    description: "Kolostor és múzeum Cochabambában, amely bepillantást enged az egyházi művészetbe.",
-    facts: [
-      "Cochabamba",
-      "Kolostor és múzeum",
-      "Egyházi művészet"
-],
+    description: {
+      de: "Das Kloster Santa Teresa in Cochabamba ist ein beeindruckendes Beispiel kolonialer Architektur und spirituellen Lebens.",
+      hu: "Kolostor és múzeum Cochabambában, amely bepillantást enged az egyházi művészetbe.",
+      ro: "Convento de Santa Teresa din Cochabamba este o mănăstire din epoca colonială frumos conservată.",
+      en: "Historic colonial convent in Cochabamba featuring a unique circular church and peaceful cloisters."
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1760", "Besitzt eine einzigartige Rundkirche", "Dient heute teilweise als Museum"],
+      hu: ["Cochabamba", "Kolostor és múzeum", "Egyházi művészet"],
+      ro: ["Mănăstire colonială bine conservată care găzduiește ordinul carmelit.", "Transformată în muzeu pentru vizitarea publicului.", "Situată în inima orașului Cochabamba."],
+      en: ["Founded in 1760", "Example of Viceregal architecture", "Located near Plaza de Armas", "Includes a religious art museum"]
+    },
     type: "landmark",
     parent: "BO-C",
     coords: [-66.1558, -17.3912],
@@ -166,14 +196,14 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     },
     description: {
       de: "Die neoklassizistische Kathedrale am Plaza Murillo beeindruckt mit ihrer steilen Treppe und prächtigen Kuppel.",
-      hu: "A Plaza Murillo téren álló neoklasszicista katedrális meredek lépcsőjével és pompás kupolájával nyűgöz le.",
-      ro: "Catedrala neoclasică din Plaza Murillo impresionează prin scările sale abrupte și cupola magnifică.",
+      hu: "La Paz főszékesegyháza a Plaza Murillo téren, egy neoklasszikus épület hatalmas kupolával és lenyűgöző belső terekkel.",
+      ro: "Catedrala Nuestra Señora de La Paz este o bazilică monumentală situată în Plaza Murillo, remarcabilă prin stilul său neoclasic impunător.",
       en: "The neoclassical cathedral on Plaza Murillo impresses with its steep stairs and magnificent dome."
     },
     facts: {
       de: ["Erbaut ab 1835", "Neoklassizistischer Stil", "Enthält die Überreste des Präsidenten Andres de Santa Cruz", "Direkt neben dem Regierungspalast"],
-      hu: ["1835-től épült", "Neoklasszicista stílusú", "Andres de Santa Cruz elnök földi maradványait őrzi", "Közvetlenül a kormányzati palota mellett"],
-      ro: ["Construită începând cu 1835", "Stil neoclasic", "Conține rămășițele președintelui Andres de Santa Cruz", "Chiar lângă palatul prezidențial"],
+      hu: ["1835-ben kezdték építeni", "Két tornya csak később készült el", "Olasz márvány díszíti a belsejét"],
+      ro: ["Fațadă neoclasică", "Vitralii colorate", "Găzduiește mausoleul lui Andrés de Santa Cruz", "Construcție finalizată în 1925"],
       en: ["Built starting in 1835", "Neoclassical style", "Contains the remains of President Andres de Santa Cruz", "Right next to the government palace"]
     },
     descriptionAdvanced: {
@@ -191,12 +221,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "An Feiertagen leuchtet die Kuppel der Kathedrale über dem nächtlichen Stadtzentrum von La Paz."
       ],
       hu: ["1835-től épült.", "Neoklasszicista stílusú.", "Andres de Santa Cruz elnök földi maradványait őrzi.", "Közvetlenül a kormányzati palota mellett.", "A Plaza Murillo téren álló neoklasszicista katedrális meredek lépcsőjével és pompás kupolájával nyűgöz le.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
-      ro: [
-        "Ridicată pe locul uneia dintre primele biserici coloniale ale orașului",
-        "Vitraliile au fost importate din Europa și sunt considerate opere de artă",
-        "Găzduiește mausoleul mareșalului Andrés de Santa Cruz",
-        "Fundația a fost construită extrem de adânc pentru a se adapta terenului abrupt"
-      ],
+      ro: ["Ridicată pe locul uneia dintre primele biserici coloniale ale orașului", "Vitraliile au fost importate din Europa și sunt considerate opere de artă", "Fundația a fost construită extrem de adânc pentru a se adapta terenului abrupt"],
       en: [
         "The cathedral occupies a site that originally hosted one of the very first colonial churches in the city.",
         "The exquisite stained-glass windows were imported from Europe and are considered significant works of religious art.",
@@ -242,7 +267,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Neben Fußball finden hier auch große Leichtathletik-Wettbewerbe und Open-Air-Konzerte statt.",
         "Von den oberen Rängen hat man einen fantastischen Blick auf die umliegenden Berge der Anden."
       ],
-      hu: ["3637 méteres magasságban fekszik.", "Befogadóképessége 41 143 fő.", "A vendégcsapatok számára nehéz terep.", "Hernando Siles Reyesről kapta a nevét.", "A világ egyik legmagasabban fekvő profi labdarúgó-stadionja, ahol a bolíviai válogatott játssza hazai mérkőzéseit.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["A világ egyik legmagasabban fekvő profi labdarúgó-stadionja, ahol a bolíviai válogatott játssza hazai mérkőzéseit.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Situat la o altitudine record de 3.637 metri",
         "Capacitate maximă de aproximativ 41.000 de spectatori",
@@ -294,7 +319,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Seilbahnsystem hat den Pendelverkehr zwischen den Städten revolutioniert und die Umweltbelastung reduziert.",
         "Nachts sind die Stationen und Gondeln beleuchtet und bilden ein funkelndes Netz über der Stadt."
       ],
-      hu: ["A világ legnagyobb városi drótkötélpálya-hálózata.", "Összeköti La Pazt El Altóval.", "A piros vonal csomópontja.", "A történelmi vasútállomás épületében található.", "La Paz látványos drótkötélpálya-hálózatának főállomása, amely korábban a város régi főpályaudvara volt.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["La Paz látványos drótkötélpálya-hálózatának főállomása, amely korábban a város régi főpályaudvara volt.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Sistemul Mi Teleférico deține recordul mondial Guinness pentru cea mai lungă rețea urbană de telecabine",
         "Arhitectura stației păstrează elemente originale din epoca feroviară de la începutul secolului XX",
@@ -347,7 +372,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Brücke muss regelmäßig gewartet werden, um den extremen Temperaturschwankungen in dieser Höhe standzuhalten.",
         "Sie ist nach den amerikanischen Staaten benannt und symbolisiert die regionale Verbundenheit."
       ],
-      hu: ["Fontos közlekedési projekt.", "Látványos kilátást kínál.", "Gyakran a nemzeti színekben világítják meg.", "La Paz modern infrastruktúrájának szimbóluma.", "Egy feltűnő híd La Pazban, amely mély szakadékokat hidal át, és összeköti a Miraflores és Sopocachi városrészeket.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egy feltűnő híd La Pazban, amely mély szakadékokat hidal át, és összeköti a Miraflores és Sopocachi városrészeket.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Construit pentru a descongestiona traficul intens din centrul orașului",
         "Culoarea sa portocalie distinctivă îl face ușor de recunoscut de la distanță",
@@ -399,7 +424,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Sie wurde zum Nationalen Denkmal Boliviens erklärt, um die einzigartigen Malereien zu schützen.",
         "Curahuara de Carangas war einst ein wichtiger Stützpunkt an der kolonialen Handelsroute zwischen Potosí und dem Pazifik."
       ],
-      hu: ["1608 körül épült.", "Teljesen bibliai jelenetekkel festették ki.", "A Sajama Nemzeti Park közelében.", "Nemzeti emlékhely.", "Gyarmati stílusú templom az Altiplanón, amelyet jól megőrzött freskói miatt az Andok Sixtus-kápolnájának neveznek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Gyarmati stílusú templom az Altiplanón, amelyet jól megőrzött freskói miatt az Andok Sixtus-kápolnájának neveznek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Frescele datează din aproximativ 1608 și folosesc pigmenți naturali",
         "Picturile includ animale locale, precum lamele, integrate în scenele biblice",
@@ -451,7 +476,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Fest zu Ehren der Jungfrau wurde von der UNESCO als Meisterwerk des mündlichen und immateriellen Erbes der Menschheit anerkannt.",
         "Von der Plaza vor dem Santuario hat man einen weiten Blick über die Dächer der Bergbaustadt Oruro."
       ],
-      hu: ["Közvetlenül egy bányához kapcsolódik.", "A Museo Minero otthona.", "A Diablada-táncosok célpontja.", "A népi vallásosság központja.", "Fontos vallási szentély Oruróban, amelyet a bányászok védőszentjének szenteltek, és a híres orurói karnevál célpontja.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Fontos vallási szentély Oruróban, amelyet a bányászok védőszentjének szenteltek, és a híres orurói karnevál célpontja.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Dansul \\\"Diablada\\\" (Dansul Diavolilor) se încheie la altarul acestui sanctuar",
         "Adăpostește o statuie a lui \\\"El Tío\\\", zeitatea care stăpânește lumea subterană a minelor",
@@ -504,7 +529,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Kathedrale ist ein beliebter Zufluchtsort vor der tropischen Hitze für Einheimische und Besucher.",
         "Ihre Architektur zeigt Einflüsse verschiedener Epochen, was ihr ein eklektisches und einzigartiges Aussehen verleiht."
       ],
-      hu: ["Építése több mint 100 évig tartott.", "A Plaza 24 de Septiembre téren található.", "A templomtornyokból kilátás nyílik a városra.", "Eklektikus építészeti stílus.", "Santa Cruz de la Sierra főtemploma lenyűgöző tégla homlokzatával és fa belső tereivel ragad meg.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Santa Cruz de la Sierra főtemploma lenyűgöző tégla homlokzatával és fa belső tereivel ragad meg.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Clădirea actuală a fost finalizată la sfârșitul secolului al XIX-lea",
         "Altarul principal prezintă lucrări de argint provenite din misiunile iezuite",
@@ -556,7 +581,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Nachts wird die Statue mit leistungsstarken Scheinwerfern beleuchtet und ist kilometerweit sichtbar.",
         "Das Projekt wurde durch eine enge Zusammenarbeit von Künstlern, Ingenieuren und der Stadtverwaltung realisiert."
       ],
-      hu: ["Magasabb, mint a Cristo Redentor (45m).", "Súlya körülbelül 1500 tonna.", "2013-ban avatták fel.", "Kilátó a szobor fejében.", "Gigantikus szobor, amely Oruro védőszentjét ábrázolja, és fenségesen trónol a város felett a Santa Bárbara dombon.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Gigantikus szobor, amely Oruro védőszentjét ábrázolja, és fenségesen trónol a város felett a Santa Bárbara dombon.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Inaugurată oficial în 2013 pentru a coincide cu deschiderea carnavalului",
         "Structura este proiectată să reziste vânturilor puternice de pe Altiplano",
@@ -609,7 +634,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Aussichtspunkt (Mirador) der Recoleta ist ein beliebter Treffpunkt für Künstler und Musiker.",
         "Das Kloster war während der Kolonialzeit ein wichtiges Zentrum für die Missionierung der Region."
       ],
-      hu: ["1601-ben alapították.", "Gyönyörű árkádsorral rendelkezik.", "Érdekes múzeumnak ad otthont.", "Népszerű találkozóhely naplementekor.", "Festői ferences kolostor egy dombon, amely a legjobb panorámát kínálja Sucre fehér városára.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Festői ferences kolostor egy dombon, amely a legjobb panorámát kínálja Sucre fehér városára.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Fondată în anul 1601 de către ordinul franciscan",
         "Piața din fața bisericii are un cedru vechi de secole, considerat reper local",
@@ -661,7 +686,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "In der Weihnachtszeit ist der Turm oft das Zentrum festlicher Beleuchtungen und Veranstaltungen.",
         "Er gilt als eines der am besten erhaltenen Beispiele für die Kombination von europäischer Architektur und indigener Kunst."
       ],
-      hu: ["1707 körül épült.", "Gazdag mesztic barokk stílusú.", "Panorámás kilátást nyújt Potosíra.", "Különösen éjszaka szépen kivilágított.", "Ez a díszes kőharangtorony az egyetlen maradványa egy jezsuita templomnak, és Potosí ezüstvárosának egyik legfontosabb szimbóluma.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Ez a díszes kőharangtorony az egyetlen maradványa egy jezsuita templomnak, és Potosí ezüstvárosának egyik legfontosabb szimbóluma.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Construcția a avut loc la începutul anilor 1700, în perioada de apogeu a orașului",
         "Reliefurile din piatră includ îngeri cu trăsături indigene și fructe tropicale",
@@ -713,7 +738,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Das Gebäude ist so konzipiert, dass es der tropischen Hitze und Feuchtigkeit standhält.",
         "Jedes Jahr findet hier ein internationales Festival für Barockmusik statt, das Besucher aus aller Welt anzieht."
       ],
-      hu: ["1691-ben alapították.", "UNESCO Világörökség.", "Az építész a svájci Martin Schmid volt.", "Vastag faragott faoszlopokkal rendelkezik.", "A híres jezsuita missziók közül az első a Chiquitaniában, amely gyönyörű fafaragásairól és zenei hagyományáról ismert.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["A híres jezsuita missziók közül az első a Chiquitaniában, amely gyönyörű fafaragásairól és zenei hagyományáról ismert.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Cea mai veche misiune iezuită din Chiquitania, fondată în 1691",
         "Proiectată de arhitectul și muzicianul elvețian Martin Schmid",
@@ -765,7 +790,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Kirche verfügt über eine beeindruckende Sammlung von Heiligenstatuen, die in der lokalen Kunsttradition gefertigt wurden.",
         "Das Dorf behält seine traditionelle Anordnung um einen großen, grasbewachsenen Platz bei."
       ],
-      hu: ["1709-ben alapították.", "Híres a nagy zenei archívumról.", "Pompás aranyfüstös oltár.", "Kétévente barokk zenei fesztivált rendeznek.", "Bolívia egyik legjobban helyreállított jezsuita missziója, amely a helyi chiquitanók mesteri kézműves tudását mutatja be.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Bolívia egyik legjobban helyreállított jezsuita missziója, amely a helyi chiquitanók mesteri kézműves tudását mutatja be.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Renumită pentru arhiva sa vastă de partituri muzicale baroce originale",
         "Interiorul bisericii prezintă un altar magnific aurit cu o strălucire radiantă",
@@ -817,7 +842,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Er ist ein strategischer Punkt für viele Protestmärsche, die hier oft Halt machen, bevor sie zum nahen Plaza Murillo ziehen.",
         "Von hier aus sind es nur wenige Gehminuten zur berühmten Basilica de San Francisco."
       ],
-      hu: ["1930 körül épült.", "A Plaza del Obelisco téren áll.", "Tüntetések találkozóhelye.", "Forgalmas utcák veszik körül.", "Történelmi emlékmű La Paz közlekedési központjának közepén, amely fontos tájékozódási pontként szolgál a városban.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Történelmi emlékmű La Paz közlekedési központjának közepén, amely fontos tájékozódási pontként szolgál a városban.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Monumentul are aproximativ 18 metri înălțime și este construit din blocuri de piatră",
         "Construit pentru a comemora centenarul republicii boliviene",
@@ -869,7 +894,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Fotografieren sollte man hier nur mit Erlaubnis, da viele Verkäufer ihre Waren als heilig betrachten.",
         "Der Name 'Hexenmarkt' ist eine eher touristische Bezeichnung; für die Einheimischen ist es ein seriöser Ort der Medizin."
       ],
-      hu: ["Szárított láma magzatokat árulnak.", "Kallawayák (gyógyítók) kínálják szolgáltatásaikat.", "A babona és a katolicizmus keveréke.", "Egyedülálló kulturális élmény.", "La Paz lenyűgöző boszorkánypiaca tele van hagyományos gyógymódokkal, amulettekkel és Pachamamának szánt spirituális áldozatokkal.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["La Paz lenyűgöző boszorkánypiaca tele van hagyományos gyógymódokkal, amulettekkel és Pachamamának szánt spirituális áldozatokkal.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "\\\"Yatiris\\\" (ghicitorii) pot fi identificați după pălăriile negre și frunzele de coca",
         "Vinde obiecte rituale precum fetuși de lama uscați pentru ofrande",
@@ -921,7 +946,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Im Inneren befinden sich bedeutende religiöse Gemälde aus dem 18. und 19. Jahrhundert.",
         "Der Zugang zum Dach erfolgt über eine enge, geschichtsträchtige Steintreppe."
       ],
-      hu: ["1795 és 1800 között épült.", "Ma részben leányiskola.", "A tetőről nagyszerű kilátás nyílik Sucréra.", "A város egyik legszebb épülete.", "Egykori kolostor Sucréban pompás neoklasszicista udvarokkal és hatalmas terrakotta tetővel, amelyre fel lehet menni.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egykori kolostor Sucréban pompás neoklasszicista udvarokkal és hatalmas terrakotta tetővel, amelyre fel lehet menni.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Construită din gresie roșiatică locală, ulterior tencuită în alb strălucitor",
         "Acoperișul oferă vederi panoramice unice asupra întregului oraș Sucre",
@@ -955,13 +980,13 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
     },
     description: {
       de: "Eine der meisterhaftesten Kirchen von Potosí mit einer unglaublich detailliert geschnitzten Steinportalfassade im Mestizen-Barockstil.",
-      hu: "Potosí egyik legmesteribb temploma, elképesztően részletesen faragott kőkapu-homlokzatával, mesztic barokk stílusban.",
+      hu: "Potosí egyik leglátványosabb temploma, amelynek rendkívül gazdagon faragott kőhomlokzata a barokk művészet csúcspontja.",
       ro: "Una dintre cele mai magistrale biserici din Potosí, cu un portal de piatră sculptat incredibil de detaliat în stil baroc mestizo.",
       en: "One of Potosí's most masterful churches, featuring an incredibly detailed carved stone portal facade in the mestizo baroque style."
     },
     facts: {
       de: ["Fassade aus dem 18. Jahrhundert", "Einzigartige andine Symbole wie die Sonne", "Holzkuppel im Inneren", "Steht symbolisch für den Reichtum Potosís"],
-      hu: ["18. századi homlokzat", "Egyedi andoki szimbólumok, mint a Nap", "Fakupola belül", "Potosí gazdagságát szimbolizálja"],
+      hu: ["A 16. században épült eredetileg", "Faragványai andoki mitológiai elemeket tartalmaznak", "Vörös homokkőből készült a homlokzata"],
       ro: ["Fațadă din secolul al XVIII-lea", "Simboluri andine unice, cum ar fi Soarele", "Cupolă din lemn în interior", "Simbolizează bogăția din Potosí"],
       en: ["18th-century facade", "Unique Andean symbols like the sun", "Wooden dome inside", "Symbolizes the wealth of Potosí"]
     },
@@ -1031,7 +1056,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Ort diente bereits als spektakuläre Kulisse für zahlreiche Filme und Musikvideos.",
         "Die Stille der Wüste und die rostigen Giganten erzeugen eine melancholische, fast postapokalyptische Atmosphäre."
       ],
-      hu: ["Elhagyott vonatok az 1940-es évekből.", "Egykor ezüstbányászatra használták.", "A sós szelek erősen erodálták.", "Népszerű fotótéma az uyuni túrákon.", "Szürreális szabadtéri múzeum Uyuni közelében, ahol tucatnyi rozsdás, 19. századi brit gőzmozdony rothad.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Szürreális szabadtéri múzeum Uyuni közelében, ahol tucatnyi rozsdás, 19. századi brit gőzmozdony rothad.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Găzduiește locomotive importate din Marea Britanie la sfârșitul secolului al XIX-lea",
         "Situat la doar 3 kilometri de centrul orașului Uyuni",
@@ -1083,7 +1108,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Bauzeit dauerte fast 30 Jahre, was für die damalige Zeit eine enorme technische Leistung war.",
         "Das Gebäude wurde mehrfach restauriert, um die Schäden durch die harten klimatischen Bedingungen der Anden zu beheben."
       ],
-      hu: ["A 19. században fejezték be.", "A korábbi templom 1807-ben omlott össze.", "Pompás aranyfüstös oltár.", "Központi elhelyezkedés a Plaza 10 de Noviembre téren.", "Impozáns neoklasszicista katedrális a régi bányászváros, Potosí történelmi központjában, melynek tornyai meghatározzák a városképet.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Impozáns neoklasszicista katedrális a régi bányászváros, Potosí történelmi központjában, melynek tornyai meghatározzák a városképet.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Construcția a fost supravegheată de arhitectul spaniol Manuel de Sanahuja",
         "Turnurile clopotniță oferă o perspectivă spectaculoasă asupra Cerro Rico",
@@ -1135,7 +1160,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Platz ist fast zu jeder Tages- und Nachtzeit belebt und gilt als sehr sicher.",
         "Die Bänke und Wege wurden vor kurzem renoviert, wobei der historische Charakter erhalten blieb."
       ],
-      hu: ["Santa Cruz függetlenségének napjáról nevezték el.", "A városi élet központja.", "Gyakran játszanak itt helyi zenekarok.", "Kávézók veszik körül.", "Santa Cruz de la Sierra nyüzsgő főtere, egy trópusi központ pálmafákkal, pihenő helyiekkel és történelmi épületekkel.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Santa Cruz de la Sierra nyüzsgő főtere, egy trópusi központ pálmafákkal, pihenő helyiekkel és történelmi épületekkel.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Numită după răscoala din 1810 a orașului împotriva dominației spaniole",
         "Pădurile pieței adăpostesc leneși care pot fi observați adesea printre ramuri",
@@ -1165,13 +1190,13 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
       de: "Ein System aus drei modernen Schrägseilbrücken, das zur Lösung der komplexen Verkehrsprobleme in der zerklüfteten Topographie von La Paz erbaut wurde.",
       hu: "Három modern ferdekábeles hídból álló rendszer, amelyet La Paz tagolt domborzatából eredő bonyolult közlekedési problémák megoldására építettek.",
       ro: "Un sistem de trei poduri moderne hobanate, construit pentru a rezolva problemele complexe de trafic din topografia accidentată a orașului La Paz.",
-      en: "A system of three modern cable-stayed bridges built to solve complex traffic problems in the rugged topography of La Paz."
+      en: "A set of three modern cable-stayed bridges in La Paz that connect different parts of the rugged city."
     },
     facts: {
       de: ["Besteht aus drei separaten Brücken", "Eröffnet im Jahr 2010", "Wichtiges Infrastrukturprojekt", "Nachts farbig beleuchtet"],
       hu: ["Három különálló hídból áll", "2010-ben adták át", "Fontos infrastrukturális projekt", "Éjszaka színesen kivilágítva"],
       ro: ["Constă din trei poduri separate", "Deschis în 2010", "Proiect important de infrastructură", "Iluminat colorat noaptea"],
-      en: ["Consists of three separate bridges", "Opened in 2010", "Important infrastructure project", "Colorfully illuminated at night"]
+      en: ["Inaugurated in 2010", "Named Kantutani, Choqueyapu, and Orkojahuira", "Improves urban mobility significantly", "Icon of modern La Paz infrastructure"]
     },
     descriptionAdvanced: {
       de: "Die Puentes Trillizos (Drillingsbrücken) sind ein beeindruckendes Beispiel moderner Ingenieurskunst in der herausfordernden Topographie von La Paz. Das System besteht aus drei hintereinanderliegenden Schrägseilbrücken – Kantutani, Choqueyapu und Orkojahuira –, die tiefe Schluchten überspannen und wichtige Stadtteile miteinander verbinden. Seit ihrer Eröffnung im Jahr 2010 haben sie den Verkehrsfluss in der Stadt erheblich verbessert und die Fahrzeiten für tausende Pendler verkürzt. Die Brücken sind nicht nur funktional, sondern auch ästhetisch ansprechend und nachts oft farbenfroh beleuchtet. Für Besucher bieten sie eine neue Perspektive auf die steilen Hänge und das Häusermeer der Stadt.",
@@ -1187,7 +1212,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Pylone der Brücken sind so konstruiert, dass sie die seismischen Aktivitäten der Region abfedern.",
         "Von der Puente Orkojahuira aus hat man einen fantastischen Blick auf den schneebedeckten Gipfel des Illimani."
       ],
-      hu: ["Három különálló hídból áll.", "2010-ben adták át.", "Fontos infrastrukturális projekt.", "Éjszaka színesen kivilágítva.", "Három modern ferdekábeles hídból álló rendszer, amelyet La Paz tagolt domborzatából eredő bonyolult közlekedési problémák megoldására építettek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Három modern ferdekábeles hídból álló rendszer, amelyet La Paz tagolt domborzatából eredő bonyolult közlekedési problémák megoldására építettek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Sistem format din trei poduri distincte: Kantutani, Choqueyapu și Orkojahuira",
         "Lungimea totală a sistemului de poduri este de aproape doi kilometri",
@@ -1239,7 +1264,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "In der Dämmerung bietet der Ort eine magische Atmosphäre, wenn die Lichter der Stadt nach und nach angehen.",
         "An klaren Tagen kann man von hier aus fast das gesamte U-Bahn-Seilbahnsystem in Aktion sehen."
       ],
-      hu: ["Történelmi bázis az őslakosok ostromakor.", "Az egyik legjobb fotós helyszín.", "Teraszos parkosított kertek.", "Kilátás az egész La Paz-völgyre.", "Egy stratégiailag elhelyezkedő kilátó egy dombon, amely lélegzetelállító 360 fokos kilátást nyújt La Pazra és az Illimani hegyre.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egy stratégiailag elhelyezkedő kilátó egy dombon, amely lélegzetelállító 360 fokos kilátást nyújt La Pazra és az Illimani hegyre.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Numele provine de la o specie de șoim mic care trăia în această regiune",
         "A servit ca punct strategic de observație în timpul asediului din 1781",
@@ -1291,7 +1316,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Feilschen gehört hier zum guten Ton und ist fester Bestandteil des Einkaufserlebnisses.",
         "Sicherheitsvorkehrungen sind ratsam, da das dichte Gedränge Taschendiebe anziehen kann."
       ],
-      hu: ["Több háztömbön átível.", "Hatalmas élelmiszer-választék.", "Labirintusként ismert.", "A régió gazdasági szíve.", "Dél-Amerika egyik legnagyobb és legkaotikusabb szabadtéri piaca Cochabambában, ahol a ruháktól a friss termékekig minden megtalálható.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Dél-Amerika egyik legnagyobb és legkaotikusabb szabadtéri piaca Cochabambában, ahol a ruháktól a friss termékekig minden megtalálható.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Cea mai mare piață în aer liber din Bolivia și una dintre cele mai mari din regiune",
         "Atinge apogeul de activitate în fiecare miercuri și sâmbătă",
@@ -1343,7 +1368,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Die Plaza Abaroa ist von einigen der besten Cafés und Restaurants im Viertel Sopocachi umgeben.",
         "Für viele Bolivianer ist dieser Ort ein Schrein des Patriotismus und der Hoffnung auf die Rückgabe der Küste."
       ],
-      hu: ["A Plaza Abaroa központja.", "Fontos helyszín a Tenger Napján (Día del Mar).", "A tengerpart elvesztésére emlékeztet.", "Népszerű találkozóhely Sopocachiban.", "Egy emlékmű a La Paz-i azonos nevű téren, amelyet a bolíviai nemzeti hősnek, Eduardo Abaroának szenteltek a salétromháborúból.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egy emlékmű a La Paz-i azonos nevű téren, amelyet a bolíviai nemzeti hősnek, Eduardo Abaroának szenteltek a salétromháborúból.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Dedicat eroului național care a murit apărând teritoriul bolivian în 1879",
         "Plaza Abaroa este un nod social major în cartierul Sopocachi",
@@ -1395,7 +1420,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "An klaren Abenden kann man von hier aus sehen, wie sich das Lichtermeer von El Alto den Berg hinunter ergießt.",
         "Der Name 'Laikakota' stammt aus dem Aymara und wird oft mit 'See der Hexer' übersetzt."
       ],
-      hu: ["Ideális családoknak.", "Nagy játszótérrel rendelkezik.", "Jó kilátás La Paz hídjaira.", "Biztonságos és jól karbantartott.", "Népszerű park és kilátó a Parque Urbano Centralban, amely kiváló kilátást nyújt La Paz alacsonyan fekvő részére.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Népszerű park és kilátó a Parque Urbano Centralban, amely kiváló kilátást nyújt La Paz alacsonyan fekvő részére.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Situat în Parque Urbano Central, oferind vederi panoramice ale văii",
         "Numele provine din limba aymara și se traduce prin \\\"Lacul Vrăjitorului\\\"",
@@ -1447,7 +1472,7 @@ export const poiExtraBoliviaLandmarksV2: POI[] = [
         "Der Altar der Basilika ist ein Meisterwerk der barocken Vergoldungskunst.",
         "Die weißen Mauern der Basilika bilden einen spektakulären Kontrast zum tiefblauen Wasser des Titicacasees."
       ],
-      hu: ["Bolívia legfontosabb zarándokhelye.", "A 16. században épült.", "Reneszánsz és andoki hatások keveréke.", "Hagyományos járműszentelések az ajtó előtt.", "Fehér, mór stílusú zarándoktemplom a Titicaca-tónál, amely a copacabanai Szűzanya híres faszobrát őrzi.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Fehér, mór stílusú zarándoktemplom a Titicaca-tónál, amely a copacabanai Szűzanya híres faszobrát őrzi.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Găzduiește celebra statuie \\\"Fecioara Brună\\\", sculptată în secolul al XVI-lea",
         "Construită pe un loc considerat sfânt încă din timpul Imperiului Incaș",

@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesLifeV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "agricultural-exhibition-centre-life-v2",
+      "description": "Centrul de Expoziții Agricole promovează produsele locale și tehnicile tradiționale de cultivare.",
+      "facts": ["Mahé", "Agricultură", "Produse locale"]
+    },
+    {
+      "id": "beacon-island-habitat-life-v2",
+      "description": "Insula Beacon este un habitat natural protejat, esențial pentru conservarea biodiversității marine.",
+      "facts": ["Biodiversitate", "Habitat marin", "Insulă protejată"]
+    },
+    {
+      "id": "booby-island-reserve-life-v2",
+      "description": "Rezervația insulei Booby oferă un adăpost pentru diverse specii de păsări marine.",
+      "facts": ["Rezervație", "Păsări marine", "Protecție"]
+    },
+    {
+      "id": "glacis-trois-freres-habitat-life-v2",
+      "description": "Zona habitatului Glacis Trois Freres este o destinație populară pentru drumeții montane în Mahé.",
+      "facts": ["Mahé", "Drumeții", "Zonă naturală"]
+    },
+    {
+      "id": "la-digue-vanilla-plantations-life-v2",
+      "description": "Plantațiile de vanilie din La Digue sunt celebre pentru calitatea superioară a producției locale.",
+      "facts": ["La Digue", "Vanilie", "Agricultură tradițională"]
+    },
+    {
+      "id": "anse-lazio-nature-v2",
+      "description": "Anse Lazio este una dintre cele mai frumoase și cunoscute plaje de pe insula Praslin.",
+      "facts": ["Praslin", "Plajă", "Peisaj tropical"]
+    },
+    {
+      "id": "anse-source-d-argent-nature-v2",
+      "description": "Anse Source d'Argent este faimoasă pentru stâncile sale spectaculoase de granit și nisipul alb.",
+      "facts": ["La Digue", "Stânci granit", "Plajă celebră"]
+    },
+    {
+      "id": "aride-island-nature-v2",
+      "description": "Insula Aride este o rezervație naturală importantă care găzduiește numeroase specii de păsări marine.",
+      "facts": ["Rezervație naturală", "Păsări", "Protecția mediului"]
+    },
+    {
+      "id": "sainte-anne-marine-nature-v2",
+      "description": "Parcul Național Marin Sainte Anne protejează recifele de corali și viața marină diversă.",
+      "facts": ["Parc național marin", "Recif de corali", "Protecția oceanului"]
+    },
+    {
+      "id": "aldabra-atoll-nature-v2",
+      "description": "Atolul Aldabra este un sit inclus în patrimoniul UNESCO, faimos pentru populația sa de țestoase gigant.",
+      "facts": ["Patrimoniu UNESCO", "Țestoase gigant", "Atol"]
+    },
+    {
+      "id": "anse-intendance-nature-v2",
+      "description": "Anse Intendance este o plajă sălbatică și retrasă din sudul insulei Mahé.",
+      "facts": ["Mahé", "Plajă sălbatică", "Zona sudică"]
+    },
+    {
+      "id": "ile-therese-nature-v2",
+      "description": "Insula Therese este un loc popular pentru activități nautice și excursii de o zi în Mahé.",
+      "facts": ["Mahé", "Activități nautice", "Insulă turistică"]
+    },
+    {
+      "id": "felicite-island-nature-v2",
+      "description": "Insula Felicite oferă un peisaj tropical luxuriant și ape cristaline ideale pentru snorkeling.",
+      "facts": ["Insulă", "Snorkeling", "Natură"]
+    }
+  ]
+}

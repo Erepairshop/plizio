@@ -1,0 +1,77 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fuerte-san-jeronimo-history-v2",
+      "description": "Eine historische Festungsanlage, die einst zum Schutz des spanischen Kolonialhafens Portobelo vor Piraten errichtet wurde.",
+      "facts": ["Erbaut im 17. Jahrhundert.", "Teil der Befestigungsanlagen von Portobelo.", "UNESCO-Welterbestätte."]
+    },
+    {
+      "id": "casa-fuerte-de-la-aduanas-history-v2",
+      "description": "Das ehemalige Zollhaus in Portobelo zeugt vom bedeutenden Handel zwischen Spanien und seinen südamerikanischen Kolonien.",
+      "facts": ["Wichtiges Handelszentrum der Kolonialzeit.", "Architektur aus dem 17. Jahrhundert.", "Zeugnis der wirtschaftlichen Geschichte."]
+    },
+    {
+      "id": "iglesia-de-san-jose-history-v2",
+      "description": "Diese Kirche ist berühmt für ihren prachtvollen Altar aus purem Gold, der vor Plünderungen durch Piraten gerettet wurde.",
+      "facts": ["Bekannt für den Goldenen Altar.", "In der Altstadt von Panama-Stadt.", "Historisches Kulturerbe."]
+    },
+    {
+      "id": "ruinas-del-convento-de-santo-domingo-history-v2",
+      "description": "Die Überreste des Klosters Santo Domingo sind ein eindrucksvolles Zeugnis der frühen kolonialen Architektur in Panama.",
+      "facts": ["Gegründet nach der Gründung von Panama-Stadt.", "Eindrucksvolle koloniale Ruinen.", "Teil des Casco Antiguo."]
+    },
+    {
+      "id": "fuerte-de-san-laureano-history-v2",
+      "description": "Eine Verteidigungsbastion, die strategisch wichtig für die Sicherung der panamaischen Küstenlinien gegen Angriffe war.",
+      "facts": ["Historische militärische Befestigung.", "Strategischer Punkt am Isthmus.", "Teil der spanischen Verteidigungslinie."]
+    },
+    {
+      "id": "estacion-del-ferrocarril-de-panama-history-v2",
+      "description": "Die historische Eisenbahnstation war ein entscheidender Knotenpunkt für den transkontinentalen Verkehr zwischen Atlantik und Pazifik.",
+      "facts": ["Verband Panama-Stadt und Colón.", "Wichtige Station des Goldrausches.", "Historische Transportgeschichte."]
+    },
+    {
+      "id": "catedral-metropolitana-history-v2",
+      "description": "Die Kathedrale im historischen Viertel Casco Antiguo ist ein prachtvolles Beispiel für die koloniale Baukunst Panamas.",
+      "facts": ["Beginn des Baus im 17. Jahrhundert.", "Wichtiges religiöses Zentrum.", "Prägt das Stadtbild von Casco Antiguo."]
+    },
+    {
+      "id": "palacio-de-las-garzas-landmarks-v2",
+      "description": "Der Amtssitz des Präsidenten Panamas ist ein architektonisches Juwel im historischen Viertel Casco Antiguo.",
+      "facts": ["Sitz des Präsidenten.", "Namensgebend durch die dort lebenden Reiher.", "Historisches Gebäude."]
+    },
+    {
+      "id": "torre-global-landmarks-v2",
+      "description": "Ein moderner Wolkenkratzer in Panama-Stadt, der die beeindruckende Skyline der Metropole prägt.",
+      "facts": ["Modernes Hochhaus.", "Teil der Skyline von Panama-Stadt.", "Büro- und Geschäftszentrum."]
+    },
+    {
+      "id": "iglesia-de-san-jose-landmarks-v2",
+      "description": "Bekannt für den barocken Altar, ist diese Kirche ein architektonisches Highlight in der historischen Altstadt.",
+      "facts": ["Historisches Wahrzeichen.", "Bekannter 'Goldener Altar'.", "Religiöses Zentrum im Casco Viejo."]
+    },
+    {
+      "id": "torre-interbank-landmarks-v2",
+      "description": "Ein auffälliges Gebäude der modernen Skyline, das die wirtschaftliche Bedeutung Panamas symbolisiert.",
+      "facts": ["Hochhaus im Finanzviertel.", "Modernes architektonisches Design.", "Wahrzeichen der City."]
+    },
+    {
+      "id": "torre-omega-landmarks-v2",
+      "description": "Dieses moderne Hochhaus ist Teil der wachsenden urbanen Architektur der panamaischen Hauptstadt.",
+      "facts": ["Moderner Büroturm.", "Teil der Skyline.", "Zentral gelegen."]
+    },
+    {
+      "id": "torre-panam-landmarks-v2",
+      "description": "Ein weiteres signifikantes Gebäude, das den schnellen urbanen Fortschritt und die Skyline von Panama-Stadt unterstreicht.",
+      "facts": ["Urbanes Wahrzeichen.", "Moderner Hochbau.", "Teil der City-Architektur."]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-alaotra-nature-v2",
+      "description": "Az Alaotra-tó Madagaszkár legnagyobb tava, amely kritikus fontosságú vizes élőhely a vízi madarak számára.",
+      "facts": ["Az ország legfontosabb rizstermelő vidéke", "A veszélyeztetett alaotra-tavi maki otthona", "Ramsari egyezmény által védett terület"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Az Itasy-tó vulkanikus eredetű tó egy festői krátervidéken, amely gazdag halállományáról ismert.",
+      "facts": ["Az ország harmadik legnagyobb tava", "Népszerű kirándulóhely a főváros közelében", "Gyümölcsösökkel körülvett vidék"]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "description": "Ranomafana természetvilágát sűrű köderdők, meredek lejtők és számos látványos vízesés jellemzi.",
+      "facts": ["Az arany bambuszmaki felfedezésének helye", "UNESCO Világörökségi esőerdő", "Gazdag orchideafauna"]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "description": "Nosy Komba, a 'makik szigete', dús vegetációjáról és barátságos szerecsenmakijairól ismert.",
+      "facts": ["Vulkanikus eredetű sziget", "Nincs autóforgalom", "Hagyományos kézműves központ"]
+    },
+    {
+      "id": "masoala-peninsula-nature-v2",
+      "description": "A Masoala-félsziget Madagaszkár legnagyobb védett területe, ahol az esőerdő közvetlenül az óceánnal találkozik.",
+      "facts": ["Egyedülálló tengeri parkok", "A vörös vari hazája", "Érintetlen biodiverzitás"]
+    },
+    {
+      "id": "lake-tampolo-nature-v2",
+      "description": "A Tampolo-tó egy érintetlen édesvizű tó a keleti part mentén, amelyet dús mocsári növényzet vesz körül.",
+      "facts": ["Védett vizes élőhely", "Ritka vízi madarak", "Békés, elszigetelt környezet"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "Mahajanga partvidéke vörös homokkő képződményeivel és kiterjedt mangroveerdőivel nyújt látványos tájat.",
+      "facts": ["A Betsiboka-folyó torkolata", "Híres 'Cirque Rouge' (Vörös Cirkusz)", "Fontos mangrove ökoszisztémák"]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "description": "A Tsiribihina-folyó deltája hatalmas vizes élőhely, ahol a folyó a Mozambiki-csatornába torkollik.",
+      "facts": ["Gazdag vízimadár-világ", "Hagyományos halászfalvak", "Érintetlen természeti táj"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "A Tsimanampetsotsa-tó egy tejfehér sós tó egy rendkívül száraz mészkőfennsíkon.",
+      "facts": ["Az ország egyetlen sós tava", "Hatalmas flamingó populációk", "Ősi baobab erdők veszik körül"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "A Nosy Mitseo szigetcsoport érintetlen természetével, kristálytiszta vizével és különleges geológiájával bűvöli el a látogatókat.",
+      "facts": ["Látványos bazaltoszlopok", "Több kis szigetből áll", "Tengeri madarak fészkelőhelye"]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "description": "A Montagne d'Ambre Nemzeti Park egy zöld oázis északon, amely hegyi esőerdőiről és hűvös vízeséseiről ismert.",
+      "facts": ["Madagaszkár egyik legrégebbi parkja", "Kiemelkedő kaméleon-változatosság", "Elszigetelt mikro-ökoszisztéma"]
+    },
+    {
+      "id": "baie-de-bombetoka-nature-v2",
+      "description": "A Bombetoka-öböl egy látványos torkolatvidék, ahol a vörös hordalékot szállító folyók találkoznak az óceánnal.",
+      "facts": ["Kiterjedt mangrove erdők", "Látványos színek az űrből is", "Fontos tengeri élőhely"]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "description": "Az anivoranói szent tó számos krokodil otthona, melyeket a helyiek rituálisan tisztelnek és etetnek.",
+      "facts": ["Helyi legendák és tabuk (fady) helyszíne", "Vulkanikus eredetű tó", "Szent hely az antankarana nép számára"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Nosy Tanikely természete víz felett és alatt is rendkívüli változatosságot kínál védett környezetben.",
+      "facts": ["Kis világítótorony panorámával", "Gazdag tengeri élővilág a zátonyon", "Repülőkutyák pihenőhelye"]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "description": "A Makay-masszívum Madagaszkár egyik utolsó érintetlen területe, mély kanyonokkal és elszigetelt erdőkkel.",
+      "facts": ["Geológiailag egyedülálló homokkővilág", "Szurdokok labirintusa", "Számos még felfedezetlen faj"]
+    }
+  ]
+}

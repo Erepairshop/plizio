@@ -2,108 +2,53 @@
   "lang": "de",
   "country": "Brazil",
   "files": [
-    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
-    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts"
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "santos-port-economic-v2",
-      "description": "Der Hafen von Santos ist der wichtigste Seehafen Brasiliens und ein zentraler Umschlagplatz für Exportgüter. Über ihn laufen große Mengen an Kaffee, Soja und Zucker.",
-      "facts": [
-        "Größter Hafen Lateinamerikas",
-        "Wichtige Rolle im Außenhandel",
-        "Im Bundesstaat São Paulo"
-      ]
+      "id": "br-rj-cristo-redentor-landmarks-v2",
+      "description": "Die Christusstatue auf dem Corcovado ist eines der bekanntesten Wahrzeichen der Welt. Sie überblickt Rio de Janeiro und symbolisiert Frieden und die kulturelle Identität Brasiliens.",
+      "facts": ["Eines der neuen Weltwunder", "30 Meter hohe Statue", "Steht auf dem Berg Corcovado", "Wahrzeichen von Rio de Janeiro"]
     },
     {
-      "id": "paranagua-port-economic-v2",
-      "description": "Der Hafen von Paranaguá gehört zu den wichtigsten Exporthäfen für Agrarprodukte in Brasilien. Vor allem Soja, Mais und andere Massengüter werden hier abgefertigt.",
-      "facts": [
-        "Starker Fokus auf Agrarexporte",
-        "Im Bundesstaat Paraná",
-        "Wichtiger Umschlag für Schüttgut"
-      ]
+      "id": "br-rj-maracana-landmarks-v2",
+      "description": "Das Maracanã ist ein legendäres Fußballstadion und ein heiliger Ort des Sports in Rio de Janeiro. Es war Schauplatz zahlreicher historischer Fußballmomente, darunter zwei WM-Finals.",
+      "facts": ["Eines der größten Stadien der Welt", "Host von zwei WM-Endspielen", "Heimat des brasilianischen Fußballs", "Liegt in Rio de Janeiro"]
     },
     {
-      "id": "rio-grande-port-economic-v2",
-      "description": "Der Hafen von Rio Grande ist ein zentraler Seezugang für den Süden Brasiliens. Er verbindet den Bundesstaat Rio Grande do Sul mit internationalen Handelsrouten.",
-      "facts": [
-        "Wichtiger Hafen im Süden",
-        "Im Bundesstaat Rio Grande do Sul",
-        "Bedeutend für Container- und Massengut"
-      ]
+      "id": "br-df-palacio-planalto-landmarks-v2",
+      "description": "Der Palácio do Planalto ist der offizielle Amtssitz des brasilianischen Präsidenten in Brasília. Das von Oscar Niemeyer entworfene Gebäude ist ein Meisterwerk der modernen Architektur.",
+      "facts": ["Amtssitz des Präsidenten", "Entwurf von Oscar Niemeyer", "Liegt am Praça dos Três Poderes", "Zentrum der politischen Macht"]
     },
     {
-      "id": "vitoria-port-economic-v2",
-      "description": "Der Hafen von Vitória ist ein wichtiger Industriehafen im Bundesstaat Espírito Santo. Er ist eng mit dem Umschlag von Eisenerz, Stahl und Zellulose verbunden.",
-      "facts": [
-        "Starker Bezug zu Erz und Stahl",
-        "Im Bundesstaat Espírito Santo",
-        "Teil eines wichtigen Hafenkomplexes"
-      ]
+      "id": "br-df-congresso-nacional-landmarks-v2",
+      "description": "Das Gebäude des Nationalkongresses ist das architektonische Wahrzeichen des brasilianischen Staates. Die markanten Türme und Kuppeln beherbergen den Senat und die Abgeordnetenkammer.",
+      "facts": ["Sitz der Legislative Brasiliens", "Entworfen von Oscar Niemeyer", "Zwei Türme und zwei Kuppeln", "UNESCO-Weltkulturerbe"]
     },
     {
-      "id": "itaqui-port-economic-v2",
-      "description": "Der Hafen von Itaqui ist ein tiefwasserfähiger Hafen im Norden Brasiliens. Er spielt eine wichtige Rolle für den Export von Mineralien und Agrargütern aus dem Hinterland.",
-      "facts": [
-        "Tiefwasserhafen",
-        "Im Bundesstaat Maranhão",
-        "Wichtig für Erz- und Sojaexporte"
-      ]
+      "id": "br-sp-ponte-estaiada-landmarks-v2",
+      "description": "Die Octávio Frias de Oliveira Brücke, bekannt als Ponte Estaiada, ist eine markante Schrägseilbrücke in São Paulo. Ihr einzigartiger X-förmiger Pylon prägt die moderne Skyline der Metropole.",
+      "facts": ["X-förmige Pylonstruktur", "Wahrzeichen von São Paulo", "Brücke über den Fluss Pinheiros", "Nächtlich spektakulär beleuchtet"]
     },
     {
-      "id": "suape-port-economic-v2",
-      "description": "Der Hafen von Suape ist ein großer Industrie- und Hafenknoten in Pernambuco. Er ist eng mit Erdöl, Schiffbau und Logistik verbunden.",
-      "facts": [
-        "Industrieller Hafenkomplex",
-        "Im Bundesstaat Pernambuco",
-        "Wichtig für Öl und Schiffbau"
-      ]
+      "id": "br-sp-masp-landmarks-v2",
+      "description": "Das Kunstmuseum von São Paulo (MASP) ist eines der bedeutendsten Museen Lateinamerikas. Das Gebäude an der Avenida Paulista schwebt auf vier markanten roten Betonsäulen.",
+      "facts": ["Museum an der Avenida Paulista", "Berühmte schwebende Architektur", "Umfangreiche Kunstsammlung", "Wahrzeichen der Moderne"]
     },
     {
-      "id": "pecem-port-economic-v2",
-      "description": "Der Hafen von Pecém ist ein moderner Industriehafen im Bundesstaat Ceará. Er gewinnt an Bedeutung durch Stahlproduktion, Logistik und Projekte für grünen Wasserstoff.",
-      "facts": [
-        "Moderner Industriehafen",
-        "Im Bundesstaat Ceará",
-        "Wachsender Energie- und Logistikstandort"
-      ]
+      "id": "br-ba-elevador-lacerda-landmarks-v2",
+      "description": "Der Elevador Lacerda ist ein historischer öffentlicher Aufzug, der die Ober- und Unterstadt von Salvador verbindet. Er bietet einen großartigen Blick über die Allerheiligenbucht.",
+      "facts": ["Verbindet Cidade Alta und Baixa", "Ältester öffentlicher Aufzug", "Wahrzeichen von Salvador da Bahia", "Blick auf die Bucht"]
     },
     {
-      "id": "rio-de-janeiro-port-economic-v2",
-      "description": "Der Hafen von Rio de Janeiro liegt in der Guanabara-Bucht und ist ein wichtiger Handelspunkt der Stadt. Er wickelt verschiedene Ladungen ab und bleibt eng mit der Geschichte der Metropole verbunden.",
-      "facts": [
-        "In der Guanabara-Bucht",
-        "Wichtiger Handelshafen",
-        "Eng mit Rio de Janeiro verbunden"
-      ]
+      "id": "br-rs-catedral-pedra-landmarks-v2",
+      "description": "Die Steinkathedrale von Canela ist eine beeindruckende Kirche im neugotischen Stil in den Bergen von Rio Grande do Sul. Ihr charakteristischer Turm besteht komplett aus Stein.",
+      "facts": ["Neugotische Architektur", "Wahrzeichen der Serra Gaúcha", "Hoher Kirchturm aus Stein", "Liegt in Canela"]
     },
     {
-      "id": "itajai-port-economic-v2",
-      "description": "Der Hafen von Itajaí ist einer der wichtigsten Containerhäfen Brasiliens. Er unterstützt die exportorientierte Wirtschaft von Santa Catarina und den Handel mit vielen Industriegütern.",
-      "facts": [
-        "Einer der großen Containerhäfen",
-        "Im Bundesstaat Santa Catarina",
-        "Wichtig für den Exportsektor"
-      ]
-    },
-    {
-      "id": "sao-francisco-do-sul-port-economic-v2",
-      "description": "Der Hafen von São Francisco do Sul ist ein zentraler Hafen im Süden Brasiliens. Er dient vor allem dem Umschlag von Agrarprodukten und Stahlwaren.",
-      "facts": [
-        "Wichtiger Hafen im Süden",
-        "Im Bundesstaat Santa Catarina",
-        "Starker Fokus auf Agrar- und Stahlgüter"
-      ]
-    },
-    {
-      "id": "congonhas-sanctuary-history-v2",
-      "description": "Das Heiligtum von Congonhas ist eine bedeutende Wallfahrtsstätte in Minas Gerais. Besonders bekannt ist es für die Prophetenstatuen und die barocke Anlage von Aleijadinho.",
-      "facts": [
-        "UNESCO-Welterbe",
-        "Im Bundesstaat Minas Gerais",
-        "Berühmt für die Zwölf Propheten"
-      ]
+      "id": "br-rj-museu-amanha-landmarks-v2",
+      "description": "Das Museu do Amanhã (Museum von Morgen) ist ein futuristisches Wissenschaftsmuseum im Hafenviertel von Rio de Janeiro. Es beschäftigt sich mit der Zukunft der Menschheit und Nachhaltigkeit.",
+      "facts": ["Entworfen von Santiago Calatrava", "Futuristische Architektur am Hafen", "Fokus auf Nachhaltigkeit", "Zentrum für Wissenschaft und Umwelt"]
     }
   ]
 }

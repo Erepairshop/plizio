@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "biltine-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Biltine ist die administrative Hauptstadt der Provinz Wadi Fira im Osten des Tschad. Geografisch liegt die Stadt in einer extrem trockenen und kargen Sahelzone, die stark von der fortschreitenden Desertifikation geprägt ist. Wirtschaftlich ist die Region fast vollständig von der nomadischen und halbnomadischen Viehzucht abhängig, wobei Rinder, Ziegen und Kamele die wichtigsten lokalen Handelsgüter darstellen. Historisch war die Stadt eng mit dem benachbarten Ouaddaï-Sultanat verbunden und diente als Transitpunkt für Handelskarawanen. In den letzten Jahrzehnten hat die unmittelbare Nähe zur sudanesischen Grenze Biltine stark beeinflusst. Der Darfur-Konflikt führte zur Einrichtung großer Flüchtlingslager in der Umgebung, was die ohnehin sehr knappen Wasser- und Weideressourcen massiv unter Druck gesetzt hat. Es gibt in Biltine kaum formelle städtische Infrastruktur, und asphaltierte Straßen fehlen fast gänzlich. Die lokale Zivilbevölkerung ist für ihre medizinische Grundversorgung und die Wasserbereitstellung stark auf die Präsenz internationaler Hilfsorganisationen angewiesen.",
+        "hu": "Biltine a Wadi Fira tartomány közigazgatási fővárosa Csád keleti részén. Földrajzilag a város egy rendkívül száraz és kopár száheli övezetben fekszik, amelyet erősen meghatároz a fokozódó elsivatagosodás. Gazdasági szempontból a régió szinte teljes mértékben a nomád és félnomád állattenyésztéstől függ, ahol a szarvasmarha, a kecske és a teve a legfontosabb helyi kereskedelmi cikk. Történelmileg a város szorosan kötődött a szomszédos Ouaddaï Szultanátushoz, és fontos tranzitpontként szolgált a kereskedelmi karavánok számára. Az elmúlt évtizedekben a szudáni határ közvetlen közelsége erősen befolyásolta Biltine-t. A dárfúri konfliktus nagy menekülttáborok létrehozásához vezetett a környéken, ami hatalmas nyomást gyakorolt a már amúgy is nagyon szűkös víz- és legelőforrásokra. Biltine-ben alig van formális városi infrastruktúra, és szinte teljesen hiányoznak az aszfaltozott utak. A helyi civil lakosság az alapvető orvosi ellátás és a vízellátás tekintetében erősen rá van utalva a nemzetközi segélyszervezetek folyamatos jelenlétére.",
+        "ro": "Biltine este capitala administrativă a provinciei Wadi Fira din estul Ciadului. Geografic, orașul este situat într-o zonă saheliană extrem de uscată și aridă, care este puternic caracterizată de deșertificarea progresivă. Din punct de vedere economic, regiunea depinde aproape în întregime de creșterea nomadă și semi-nomadă a animalelor, vitele, caprele și cămilele fiind cele mai importante bunuri comerciale locale. Istoric, orașul a fost strâns legat de Sultanatul vecin Ouaddaï și a servit ca punct de tranzit pentru caravanele comerciale. În ultimele decenii, proximitatea directă de granița cu Sudanul a influențat masiv orașul Biltine. Conflictul din Darfur a dus la înființarea unor tabere mari de refugiați în zonă, ceea ce a pus o presiune uriașă pe resursele deja limitate de apă și pășuni. Nu există aproape nicio infrastructură urbană formală în Biltine, iar drumurile asfaltate lipsesc cu desăvârșire. Populația civilă locală se bazează puternic pe organizațiile internaționale.",
+        "en": "Biltine is the administrative capital of the Wadi Fira province in eastern Chad. Geographically, the city is located in an extremely dry and barren Sahelian zone that is heavily characterized by rapidly advancing desertification. Economically, the region is almost entirely dependent on nomadic and semi-nomadic livestock farming, with cattle, goats, and camels acting as the most important local commercial goods. Historically, the city was closely tied to the neighboring Ouaddaï Sultanate and served as an important transit point for trading caravans. In recent decades, the immediate proximity to the Sudanese border has heavily influenced Biltine. The Darfur conflict led to the establishment of massive refugee camps in the surrounding area, which has put enormous pressure on the already very scarce local water and grazing resources. There is virtually no formal urban infrastructure in Biltine, and paved roads are almost entirely absent. The local civilian population is highly reliant on international aid organizations for basic medical care and water."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Biltine ist die Hauptstadt der osttschadischen Provinz Wadi Fira.",
+          "Die lokale Wirtschaft basiert auf nomadischer Kamel- und Rinderzucht.",
+          "Flüchtlingslager aus dem Sudan erhöhen den Druck auf lokale Ressourcen.",
+          "Die Region leidet chronisch unter akutem Wassermangel und Dürren.",
+          "Internationale NGOs sind für die medizinische Basisversorgung essenziell."
+        ],
+        "hu": [
+          "Biltine a kelet-csádi Wadi Fira tartomány hivatalos fővárosa.",
+          "A helyi gazdaság alapja a nomád teve- és szarvasmarha-tenyésztés.",
+          "A szudáni menekülttáborok növelik a helyi erőforrásokra nehezedő nyomást.",
+          "A régió krónikusan szenved az akut vízhiánytól és az aszályoktól.",
+          "A nemzetközi civil szervezetek elengedhetetlenek az alapellátáshoz."
+        ],
+        "ro": [
+          "Biltine este capitala provinciei Wadi Fira din estul Ciadului.",
+          "Economia locală se bazează pe creșterea nomadă a cămilelor și vitelor.",
+          "Taberele de refugiați din Sudan cresc presiunea pe resursele locale.",
+          "Regiunea suferă cronic de penurie acută de apă și secete severe.",
+          "ONG-urile internaționale sunt esențiale pentru îngrijirea medicală de bază."
+        ],
+        "en": [
+          "Biltine acts as the administrative capital of the eastern Wadi Fira province.",
+          "The local economy relies heavily on nomadic camel and cattle breeding.",
+          "Sudanese refugee camps significantly increase pressure on local resources.",
+          "The arid region suffers chronically from acute water scarcity and droughts.",
+          "International NGOs are absolutely essential for basic local medical care."
+        ]
+      }
+    },
+    {
+      "id": "bol-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bol ist die Verwaltungshauptstadt der Provinz Lac im westlichen Tschad. Die Stadt liegt strategisch am Ufer des Tschadsees, einem der wichtigsten, aber auch am stärksten bedrohten Binnengewässer des afrikanischen Kontinents. Wirtschaftlich ist Bol stark vom lokalen Fischfang, der Landwirtschaft auf den fruchtbaren Poldern und der Gewinnung von Natron abhängig. Zudem wird hier die Mikroalge Spirulina traditionell geerntet, auf lokalen Märkten gehandelt und exportiert. Historisch gesehen war Bol immer ein wichtiges Zentrum für die Kanembu- und Buduma-Bevölkerung. In den letzten Jahrzehnten hat der dramatische, klimabedingte Rückgang des Tschadsees die Stadt vor existenzielle Herausforderungen gestellt. Ehemals offene Wasserflächen sind komplett versandet, was die Fischer dazu zwingt, immer weiter in das Seebecken vorzudringen, um ihre Netze auszuwerfen. Darüber hinaus leidet die gesamte Region massiv unter der Sicherheitskrise durch die anhaltenden Boko-Haram-Aufstände. Diese Gewalt hat traditionelle Handelswege brutal abgeschnitten und Tausende von Binnenvertriebenen in die Umgebung von Bol getrieben. Die städtische Infrastruktur ist extrem schwach ausgebaut und verfügt über kaum asphaltierte Straßen.",
+        "hu": "Bol a nyugat-csádi Lac tartomány közigazgatási fővárosa. A város stratégiailag a Csád-tó partján fekszik, amely az afrikai kontinens egyik legfontosabb, de egyben legveszélyeztetettebb szárazföldi vízteste. Gazdasági szempontból Bol erősen függ a helyi halászattól, a termékeny poldereken folytatott mezőgazdaságtól és a nátron kitermelésétől. Emellett a spirulina mikroalgát hagyományosan itt szüretelik, a helyi piacokon értékesítik és exportálják. Történelmileg Bol mindig is a kanembu és a buduma népesség fontos központja volt. Az elmúlt évtizedekben a Csád-tó drámai, klímaváltozás okozta zsugorodása egzisztenciális kihívások elé állította a várost. A korábbi nyílt vízfelületek teljesen eliszaposodtak, ami arra kényszeríti a halászokat, hogy egyre beljebb nyomuljanak a tómedencébe a hálók kivetéséhez. Ezenkívül az egész régió masszívan szenved a folyamatos Boko Haram lázadások okozta biztonsági válságtól. Ez az erőszak brutálisan elvágta a hagyományos kereskedelmi útvonalakat, és belső menekültek ezreit űzte Bol környékére. A városi infrastruktúra rendkívül gyengén fejlett, aszfaltozott utak szinte egyáltalán nincsenek.",
+        "ro": "Bol este capitala administrativă a provinciei Lac din vestul Ciadului. Orașul este situat strategic pe malul Lacului Ciad, unul dintre cele mai importante, dar și cele mai amenințate corpuri de apă interioare de pe continentul african. Din punct de vedere economic, Bol este puternic dependent de pescuitul local, de agricultura pe polderele fertile și de extracția natronului. În plus, microalga spirulina este recoltată tradițional, comercializată pe piețele locale și exportată. Istoric, Bol a fost întotdeauna un centru important pentru populațiile Kanembu și Buduma. În ultimele decenii, scăderea dramatică, cauzată de climă, a Lacului Ciad a pus orașul în fața unor provocări existențiale. Fostele zone de apă deschisă s-au înnămolit complet, forțând pescarii să avanseze tot mai mult în bazinul lacului pentru a-și arunca plasele. Mai mult, întreaga regiune suferă masiv din cauza crizei de securitate cauzată de insurgențele continue Boko Haram. Această violență a tăiat brutal rutele comerciale tradiționale și a împins mii de persoane strămutate intern. Infrastructura urbană este foarte slab dezvoltată.",
+        "en": "Bol is the administrative capital of the Lac province in western Chad. The city is strategically located on the shores of Lake Chad, one of the most important yet highly threatened inland bodies of water on the African continent. Economically, Bol is heavily dependent on local fishing, agriculture on the highly fertile polders, and the extraction of natron. In addition, the microalga spirulina is traditionally harvested here, widely traded at local markets, and exported. Historically, Bol has always been a highly important center for the Kanembu and Buduma populations. In recent decades, the dramatic, climate-induced shrinking of Lake Chad has presented the city with severe existential challenges. Formerly open water areas have completely silted up, forcefully compelling local fishermen to advance ever further into the lake basin to cast their nets. Furthermore, the entire region suffers massively from the severe security crisis caused by ongoing Boko Haram insurgencies. This brutal violence has entirely severed traditional trade routes and driven thousands of internally displaced persons into the areas surrounding Bol. The urban infrastructure is extremely poorly developed."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bol ist die offizielle Verwaltungshauptstadt der Provinz Lac.",
+          "Die Stadt liegt strategisch direkt an den Ufern des Tschadsees.",
+          "Der Rückgang des Sees bedroht die lokale Fischerei extrem stark.",
+          "Bol ist ein traditionelles Zentrum für die Ernte von Spirulina-Algen.",
+          "Die Boko-Haram-Krise treibt tausende Flüchtlinge in diese Region."
+        ],
+        "hu": [
+          "Bol a nyugat-csádi Lac tartomány hivatalos közigazgatási fővárosa.",
+          "A város stratégiailag közvetlenül a Csád-tó partján helyezkedik el.",
+          "A tó drasztikus zsugorodása rendkívül erősen fenyegeti a halászatot.",
+          "Bol a spirulina algák hagyományos betakarításának ismert központja.",
+          "A Boko Haram okozta válság menekültek ezreit űzi ebbe a régióba."
+        ],
+        "ro": [
+          "Bol este capitala administrativă oficială a provinciei vestice Lac.",
+          "Orașul este situat strategic direct pe țărmurile Lacului Ciad.",
+          "Scăderea dramatică a lacului amenință extrem de mult pescuitul local.",
+          "Bol este un centru tradițional cunoscut pentru recoltarea spirulinei.",
+          "Criza Boko Haram atrage mii de refugiați disperați în această regiune."
+        ],
+        "en": [
+          "Bol serves as the official administrative capital of the Lac province.",
+          "The city is highly strategically located directly on the shores of Lake Chad.",
+          "The dramatic shrinking of the lake severely threatens the local fishing economy.",
+          "Bol is a well-known traditional center for the harvesting of spirulina algae.",
+          "The ongoing Boko Haram crisis continuously drives thousands of refugees here."
+        ]
+      }
+    },
+    {
+      "id": "goz-beida-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Goz Beïda ist die administrative Hauptstadt der Provinz Sila im Osten des Tschad, nicht weit von der stark umkämpften Grenze zum Sudan entfernt. Geografisch ist die Region durch trockene Savannen und felsige, isolierte Hügelketten gekennzeichnet, die das harsche Landschaftsbild dominieren. Wirtschaftlich war die Stadt historisch ein kleines, auf reine Subsistenzlandwirtschaft und extensive Viehzucht basierendes ländliches Zentrum. Dies änderte sich in den frühen 2000er Jahren dramatisch, als der Ausbruch des blutigen Darfur-Konflikts im benachbarten Sudan eine beispiellose humanitäre Krise in der gesamten Grenzregion auslöste. Goz Beïda wurde äußerst rasch zum logistischen und operativen Zentrum für Dutzende internationale Hilfsorganisationen, die riesige Flüchtlingslager in der unmittelbaren Umgebung betreuen. Die massive Präsenz der NGOs hat eine parallele Dienstleistungswirtschaft geschaffen, führte aber auch zu starken sozialen Spannungen wegen der extremen Ressourcenknappheit, insbesondere bei sauberem Trinkwasser und lokalem Brennholz. Die Basisinfrastruktur der Stadt bleibt stark mangelhaft, und die unbefestigten Sandstraßen sind in der Regenzeit oft wochenlang völlig unpassierbar.",
+        "hu": "Goz Beïda a Sila tartomány közigazgatási fővárosa Csád keleti részén, nem messze a sokat vitatott szudáni határtól. Földrajzilag a régiót száraz szavannák és sziklás, elszigetelt dombvidékek jellemzik, amelyek uralják a zord tájképet. Gazdasági szempontból a város történelmileg egy kis, tisztán önellátó mezőgazdaságra és külterjes állattenyésztésre épülő vidéki központ volt. Ez a 2000-es évek elején drámaian megváltozott, amikor a szomszédos Szudánban kitört véres dárfúri konfliktus példátlan humanitárius válságot robbantott ki az egész határvidéken. Goz Beïda rendkívül gyorsan több tucat nemzetközi segélyszervezet logisztikai és operatív központjává vált, amelyek hatalmas menekülttáborokat tartanak fenn a közvetlen környezetben. Az NGO-k masszív jelenléte egy párhuzamos szolgáltatási gazdaságot hozott létre, ugyanakkor komoly társadalmi feszültségekhez is vezetett az extrém erőforráshiány, különösen a tiszta ivóvíz és a helyi tűzifa hiánya miatt. A város alapvető infrastruktúrája továbbra is rendkívül hiányos, a burkolatlan homokos utak az esős évszakban gyakran hetekig teljesen járhatatlanok.",
+        "ro": "Goz Beïda este capitala administrativă a provinciei Sila din estul Ciadului, nu departe de granița puternic disputată cu Sudanul. Geografic, regiunea este caracterizată prin savane uscate și lanțuri deluroase stâncoase și izolate care domină peisajul aspru. Economic, orașul a fost istoric un mic centru rural bazat pe agricultura de subzistență pură și creșterea extensivă a animalelor. Acest lucru s-a schimbat dramatic la începutul anilor 2000, când izbucnirea conflictului sângeros din Darfur în Sudanul vecin a declanșat o criză umanitară fără precedent în întreaga regiune de graniță. Goz Beïda a devenit extrem de rapid centrul logistic și operațional pentru zeci de organizații internaționale de ajutorare care gestionează tabere uriașe de refugiați în imediata vecinătate. Prezența masivă a ONG-urilor a creat o economie paralelă a serviciilor, dar a condus și la tensiuni sociale severe din cauza lipsei extreme de resurse, în special de apă potabilă curată și lemne de foc locale. Infrastructura de bază a orașului rămâne puternic deficitară, cu drumuri impracticabile în sezonul ploios.",
+        "en": "Goz Beïda is the administrative capital of the Sila province in eastern Chad, located not far from the highly volatile border with Sudan. Geographically, the region is heavily characterized by dry savannas and rocky, isolated hill chains that completely dominate the harsh landscape. Economically, the city was historically a small rural center based strictly on pure subsistence agriculture and extensive livestock farming. This changed dramatically in the early 2000s when the outbreak of the bloody Darfur conflict in neighboring Sudan triggered an unprecedented humanitarian crisis across the entire border region. Goz Beïda extremely rapidly became the logistical and operational center for dozens of international aid organizations managing massive refugee camps in the immediate vicinity. The heavy presence of NGOs has created a parallel service economy but has also led to severe social tensions due to extreme resource scarcity, particularly concerning clean drinking water and local firewood. The city's basic infrastructure remains highly deficient, and the unpaved dirt and sand roads are often completely impassable for weeks on end during the heavy rainy season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Goz Beïda ist die Verwaltungshauptstadt der Provinz Sila im Osten.",
+          "Die Stadt ist ein wichtiges logistisches Zentrum für internationale NGOs.",
+          "Riesige Flüchtlingslager für Darfur-Flüchtlinge prägen das Umland extrem.",
+          "Ressourcenknappheit bei Wasser und Brennholz führt oft zu sozialen Konflikten.",
+          "Während der Regenzeit sind die unbefestigten Straßen logistisch unpassierbar."
+        ],
+        "hu": [
+          "Goz Beïda a kelet-csádi Sila tartomány hivatalos közigazgatási fővárosa.",
+          "A város a nemzetközi civil szervezetek fontos logisztikai központja.",
+          "Hatalmas dárfúri menekülttáborok határozzák meg a régió mindennapjait.",
+          "A víz- és tűzifahiány gyakran okoz súlyos társadalmi konfliktusokat.",
+          "Az esős évszak alatt a burkolatlan utak logisztikailag járhatatlanok."
+        ],
+        "ro": [
+          "Goz Beïda este capitala administrativă a provinciei Sila din est.",
+          "Orașul este un centru logistic major pentru zeci de ONG-uri internaționale.",
+          "Taberele uriașe pentru refugiații din Darfur domină complet zona înconjurătoare.",
+          "Lipsa acută de apă și lemne de foc duce frecvent la conflicte sociale.",
+          "În timpul sezonului ploios, drumurile neasfaltate devin impracticabile."
+        ],
+        "en": [
+          "Goz Beïda serves as the official administrative capital of the eastern Sila province.",
+          "The city acts as a highly vital logistical center for international NGOs.",
+          "Massive camps for Darfur refugees completely dominate the surrounding landscape.",
+          "Severe scarcity of water and firewood frequently leads to intense social conflicts.",
+          "Unpaved regional roads become completely impassable during the heavy rainy season."
+        ]
+      }
+    },
+    {
+      "id": "oum-hadjer-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Oum Hadjer ist eine mittelgroße Stadt in der Provinz Batha im Zentrum des Tschad und dient als offizieller Verwaltungssitz des Departements Batha Est. Geografisch erstreckt sich die Stadt direkt an den sandigen Ufern des Batha-Flusses. Hierbei handelt es sich um ein saisonales Wadi, das das landwirtschaftliche Leben in der Region maßgeblich bestimmt, da es nur während der kurzen Regenzeit Wasser führt. Wirtschaftlich fungiert Oum Hadjer als ein absolut unverzichtbarer Verkehrsknotenpunkt. Die Stadt liegt strategisch exakt an der wichtigsten Ost-West-Route des Landes, der Hauptverkehrsachse, die die Hauptstadt N'Djamena mit der östlichen Metropole Abéché verbindet. Diese Position hat eine stark vom Straßenverkehr, Transit und Handel geprägte lokale Ökonomie hervorgebracht. Die Landwirtschaft stützt sich gezwungenermaßen weitgehend auf trockenheitsresistente Kulturen wie Hirse und Erdnüsse, wird aber durch das harsche, unbarmherzige Sahelklima extrem begrenzt. Historisch war die Stadt stets ein hochgradig wichtiger Rastplatz für Handelskarawanen. Die moderne Basisinfrastruktur in Oum Hadjer ist jedoch extrem schwach.",
+        "hu": "Oum Hadjer egy közepes méretű város a Batha tartományban, Csád középső részén, és a Batha Est megye hivatalos közigazgatási székhelyeként szolgál. Földrajzilag a város közvetlenül a Batha-folyó homokos partjain terül el. Ez egy szezonális vádi, amely döntően meghatározza a régió mezőgazdasági életét, mivel csak a rövid esős évszakban szállít vizet. Gazdasági szempontból Oum Hadjer egy abszolút nélkülözhetetlen közlekedési csomópontként működik. A város stratégiailag pontosan az ország legfontosabb kelet-nyugati útvonalán, azon a fő közlekedési tengelyen fekszik, amely a fővárost, N'Djamenát köti össze a keleti Abéché metropolisszal. Ez a pozíció egy erősen a közúti forgalomra, a tranzitra és a kereskedelemre épülő helyi ökonómiát hozott létre. A mezőgazdaság kényszerűségből nagyrészt a szárazságtűrő növényekre, például a kölesre és a földimogyoróra támaszkodik, de a zord, könyörtelen száheli éghajlat extrém módon korlátozza. Történelmileg a város mindig is rendkívül fontos pihenőhelye volt a kereskedelmi karavánoknak. A modern alapvető infrastruktúra azonban Oum Hadjerben rendkívül gyenge.",
+        "ro": "Oum Hadjer este un oraș de mărime medie din provincia Batha, în centrul Ciadului, și servește drept reședință administrativă oficială a departamentului Batha Est. Geografic, orașul se întinde direct pe malurile nisipoase ale râului Batha. Acesta este un wadi sezonier care determină în mod decisiv viața agricolă în regiune, deoarece transportă apă doar în timpul scurtului sezon ploios. Din punct de vedere economic, Oum Hadjer funcționează ca un nod de transport absolut indispensabil. Orașul este situat strategic exact pe cea mai importantă rută est-vest a țării, axa principală de transport care conectează capitala N'Djamena cu metropola estică Abéché. Această poziție a generat o economie locală puternic dominată de traficul rutier, tranzit și comerț. Agricultura se bazează obligatoriu în mare măsură pe culturi rezistente la secetă, cum ar fi meiul și alunele, dar este extrem de limitată de climatul aspru și neiertător din Sahel. Istoric, orașul a fost întotdeauna un loc de odihnă extrem de important pentru caravane. Cu toate acestea, infrastructura de bază modernă din Oum Hadjer este foarte slabă.",
+        "en": "Oum Hadjer is a mid-sized city in the Batha province in central Chad, serving as the official administrative seat of the Batha Est department. Geographically, the city stretches directly along the sandy banks of the Batha River. This is a seasonal wadi that decisively dictates agricultural life in the region, as it only carries flowing water during the very short rainy season. Economically, Oum Hadjer functions as an absolutely indispensable transportation hub. The city is strategically located exactly on the country's most important east-west route, the primary traffic axis connecting the capital N'Djamena with the eastern metropolis of Abéché. This highly critical position has generated a local economy heavily dominated by road traffic, transit, and cross-regional trade. Agriculture is forced to rely largely on highly drought-resistant crops like millet and peanuts, but it is extremely limited by the harsh, unforgiving Sahelian climate. Historically, the city has always been a highly important resting place for trading caravans. However, modern basic infrastructure in Oum Hadjer is extremely weak, lacking reliable power grids entirely."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Oum Hadjer ist eine strategische Transitstadt in der zentralen Batha-Provinz.",
+          "Die Stadt liegt exakt auf der Hauptverkehrsachse zwischen N'Djamena und Abéché.",
+          "Der Batha-Fluss (Wadi) liefert Wasser ausschließlich in der kurzen Regenzeit.",
+          "Die stark isolierte lokale Wirtschaft ist komplett vom Durchgangsverkehr abhängig.",
+          "Essenzielle Basisinfrastruktur wie Strom und moderne Krankenhäuser fehlt völlig."
+        ],
+        "hu": [
+          "Oum Hadjer egy stratégiai tranzitváros a központi Batha tartományban.",
+          "A város pontosan az N'Djamena és Abéché közötti fő közlekedési tengelyen fekszik.",
+          "A Batha-folyó (vádi) kizárólag a rövid esős évszakban biztosít létfontosságú vizet.",
+          "Az erősen elszigetelt helyi gazdaság szinte teljesen az áthaladó forgalomtól függ.",
+          "Az olyan alapvető infrastruktúra, mint az áramellátás vagy a kórház, teljesen hiányzik."
+        ],
+        "ro": [
+          "Oum Hadjer este un oraș de tranzit strategic în provincia centrală Batha.",
+          "Orașul se află exact pe axa principală de transport între N'Djamena și Abéché.",
+          "Râul Batha (wadi) furnizează apă exclusiv în timpul scurtului sezon ploios.",
+          "Economia locală izolată depinde aproape în totalitate de traficul rutier de tranzit.",
+          "Infrastructura de bază esențială, precum electricitatea și spitalele moderne, lipsește."
+        ],
+        "en": [
+          "Oum Hadjer acts as a highly strategic transit city in the central Batha province.",
+          "The city is located exactly on the main transport axis between N'Djamena and Abéché.",
+          "The Batha River (wadi) supplies vital water exclusively during the short rainy season.",
+          "The highly isolated local economy depends completely on cross-regional transit traffic.",
+          "Essential basic infrastructure, including power grids and modern hospitals, is entirely absent."
+        ]
+      }
+    },
+    {
+      "id": "bitkine-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bitkine ist eine lebhafte Stadt in der Provinz Guéra im zentralen Teil des Tschad. Geografisch zeichnet sich die Siedlung durch ihre absolut spektakuläre Lage am Fuß isolierter, markanter Granitfelsen aus, die aus der ansonsten völlig flachen Sahel-Savanne abrupt herausragen. Wirtschaftlich ist Bitkine ein hochfrequentiertes landwirtschaftliches Zentrum. Die Region ist landesweit sehr bekannt für den intensiven Anbau von Erdnüssen, die das absolute Haupt-Exportgut der lokalen Bauern auf den nationalen Markt darstellen. Der zentrale Markt von Bitkine ist ein stark besuchter regionaler Umschlagplatz, auf dem landwirtschaftliche Erzeugnisse gegen dringend benötigte importierte Güter getauscht werden. Historisch betrachtet hat die extreme geografische Isolation der umgebenden Granitberge den lokalen Hadjerai-Gemeinschaften über viele Jahrhunderte strategischen Schutz vor Sklavenjagden geboten, was eine sehr eigenständige und traditionsreiche Kultur in der Region bewahrt hat. Heute steht die Stadt jedoch vor massiven ökologischen und logistischen Problemen. Die rasch fortschreitende Desertifikation verringert die landwirtschaftlichen Erträge drastisch.",
+        "hu": "Bitkine egy élettel teli város a Guéra tartományban, Csád középső részén. Földrajzilag a települést az egyébként teljesen lapos Száhel-szavannából hirtelen kiemelkedő, elszigetelt, markáns gránitsziklák lábánál fekvő, abszolút látványos elhelyezkedése jellemzi. Gazdasági szempontból Bitkine egy nagyon forgalmas mezőgazdasági központ. A régió országosan is jól ismert a földimogyoró intenzív termesztéséről, amely a helyi gazdák abszolút legfőbb exportcikke a nemzeti piacon. A bitkinei központi piac egy rendkívül látogatott regionális kereskedelmi központ, ahol a mezőgazdasági termékeket sürgősen szükséges importált árukra cserélik. Történelmileg a környező gránithegyek extrém földrajzi elszigeteltsége évszázadokon át stratégiai védelmet nyújtott a helyi hadjerai közösségeknek a rabszolgavadászatok ellen, ami egy nagyon önálló és hagyományokban gazdag kultúrát őrzött meg a régióban. Ma a város azonban masszív ökológiai és logisztikai problémákkal küzd. A gyorsan fokozódó elsivatagosodás drasztikusan csökkenti a mezőgazdasági hozamokat, a rossz utak pedig elszigetelik a várost.",
+        "ro": "Bitkine este un oraș plin de viață în provincia Guéra, în partea centrală a Ciadului. Geografic, așezarea se caracterizează prin locația sa absolut spectaculoasă la poalele unor roci de granit izolate și proeminente, care se ridică brusc din savana Sahel altfel complet plată. Din punct de vedere economic, Bitkine este un centru agricol foarte aglomerat. Regiunea este foarte cunoscută la nivel național pentru cultivarea intensivă a alunelor, care reprezintă produsul de export absolut principal al fermierilor locali pe piața națională. Piața centrală din Bitkine este un hub comercial regional foarte vizitat, unde produsele agricole sunt schimbate pe bunuri importate urgent necesare. Istoric, izolarea geografică extremă a munților de granit din jur a oferit comunităților locale Hadjerai protecție strategică împotriva vânătorilor de sclavi timp de multe secole, ceea ce a păstrat o cultură foarte independentă și bogată în tradiții. Astăzi, însă, orașul se confruntă cu probleme ecologice masive, în special cu deșertificarea agresivă.",
+        "en": "Bitkine is a highly bustling city in the Guéra province located in the central part of Chad. Geographically, the settlement is heavily characterized by its absolutely spectacular location at the foot of highly isolated, prominent granite rocks that rise abruptly from the otherwise completely flat Sahelian savanna. Economically, Bitkine is a highly frequented agricultural center. The region is nationally very well known for the intensive cultivation of peanuts, which serve as the absolute primary export commodity for local farmers on the national market. The central market of Bitkine is a heavily visited regional trading hub where raw agricultural products are systematically bartered for urgently needed imported goods. Historically, the extreme geographical isolation of the surrounding granite mountains provided the local Hadjerai communities with strategic protection against slave raids for many centuries, effectively preserving a highly independent and tradition-rich culture in the region. Today, however, the city faces massive ecological and logistical problems. Rapidly advancing desertification is drastically reducing agricultural crop yields."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bitkine liegt spektakulär am Fuß massiver Granitberge in der Provinz Guéra.",
+          "Die geschäftige Stadt ist landesweit sehr bekannt für intensiven Erdnussanbau.",
+          "Der zentrale Markt ist ein hochwichtiges Zentrum für regionalen Warentausch.",
+          "Die Granitfelsen boten den lokalen Hadjerai historisch Schutz vor Feinden.",
+          "Extrem schnelle Wüstenbildung bedroht die lokale Agrarwirtschaft massiv."
+        ],
+        "hu": [
+          "Bitkine látványosan a Guéra tartomány masszív gránithegyeinek lábánál fekszik.",
+          "A nyüzsgő város országosan nagyon ismert az intenzív földimogyoró-termesztésről.",
+          "A központi piac a regionális árucsere rendkívül fontos és forgalmas központja.",
+          "A gránitsziklák történelmileg hatalmas védelmet nyújtottak a helyi hadjerai népnek.",
+          "A rendkívül gyors elsivatagosodás masszívan fenyegeti a helyi agrárgazdaságot."
+        ],
+        "ro": [
+          "Bitkine este situat spectaculos la baza munților masivi de granit din Guéra.",
+          "Orașul plin de viață este foarte cunoscut național pentru cultivarea alunelor.",
+          "Piața centrală este un centru extrem de important pentru schimbul regional de mărfuri.",
+          "Rocile de granit au oferit istoric o protecție masivă populației locale Hadjerai.",
+          "Deșertificarea extrem de rapidă amenință masiv și direct economia agricolă locală."
+        ],
+        "en": [
+          "Bitkine is spectacularly located at the exact base of massive granite mountains.",
+          "The bustling city is nationally highly renowned for intensive peanut cultivation.",
+          "The central market acts as a highly vital hub for regional commodity barter trade.",
+          "The massive granite rocks historically offered crucial protection to the Hadjerai.",
+          "Extremely rapid desertification massively threatens the local agricultural economy."
+        ]
+      }
+    },
+    {
+      "id": "massaguet-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Massaguet ist eine lebhafte Stadt im Tschad, die als administrative Hauptstadt des Departements Haraze Al Biar in der Region Hadjer-Lamis fungiert. Geografisch liegt die Stadt nur etwa 80 Kilometer nördlich der Hauptstadt N'Djamena, was sie zu einem der wichtigsten Vorposten in die nördlichen Provinzen macht. Das Terrain besteht aus flachen, dürreanfälligen Savannen. Wirtschaftlich profitiert Massaguet massiv von seiner Lage an der strategischen Nationalstraße, die als zentrale Versorgungsader in die rohstoffreichen, aber logistisch schwierigen nördlichen Regionen dient. Der tägliche Transit von Handels-Lkw, Bussen und großen Rinderherden kurbelt die lokale Wirtschaft extrem an, wobei sich ein breiter Dienstleistungssektor rund um Reparaturen, Treibstoff und Gastronomie entwickelt hat. Die Landwirtschaft stützt sich auf Regenfeldbau, primär Sorghum. Historisch wuchs die Bedeutung der Stadt proportional zum Ausbau der Fernstraße. Trotz der vorteilhaften Lage leidet auch Massaguet unter gravierender Unterfinanzierung der Basisinfrastruktur; unzureichende Wasserversorgung und chronische Stromausfälle prägen das harte Alltagsleben der Stadtbevölkerung.",
+        "hu": "Massaguet egy nyüzsgő város Csádban, amely a Hadjer-Lamis régióban található Haraze Al Biar megye közigazgatási fővárosaként működik. Földrajzilag a város mindössze 80 kilométerre északra fekszik a fővárostól, N'Djamenától, ami az északi tartományok felé vezető egyik legfontosabb előretolt helyőrséggé teszi. A terep lapos, aszályra hajlamos szavannákból áll. Gazdasági szempontból Massaguet masszívan profitál abból, hogy a stratégiai nemzeti autópályán fekszik, amely a nyersanyagokban gazdag, de logisztikailag nehézkes északi régiók központi ellátó ütőere. A kereskedelmi teherautók, buszok és nagy szarvasmarha-csordák napi tranzitja rendkívüli módon fellendíti a helyi gazdaságot, és széles körű szolgáltatói szektor alakult ki a javítások, az üzemanyag-ellátás és a vendéglátás körül. A mezőgazdaság esővízre támaszkodó földművelésre, elsősorban cirokra épül. Történelmileg a város jelentősége a főútvonal kiépítésével arányosan nőtt. Előnyös fekvése ellenére Massaguet is súlyosan szenved az alapvető infrastruktúra alulfinanszírozottságától; a nem megfelelő vízellátás és a krónikus áramkimaradások rontják a városi lakosság kemény mindennapi életét.",
+        "ro": "Massaguet este un oraș plin de viață din Ciad, care funcționează ca și capitală administrativă a departamentului Haraze Al Biar din regiunea Hadjer-Lamis. Geografic, orașul se află la doar aproximativ 80 de kilometri nord de capitala N'Djamena, ceea ce îl face unul dintre cele mai importante avanposturi către provinciile nordice. Terenul este format din savane plate predispuse la secetă. Economic, Massaguet beneficiază masiv de locația sa pe autostrada națională strategică, care servește drept arteră centrală de aprovizionare pentru regiunile nordice bogate în resurse, dar logistice dificile. Tranzitul zilnic de camioane comerciale, autobuze și turme mari de vite stimulează extrem economia locală, dezvoltându-se un sector larg de servicii în jurul reparațiilor, combustibilului și gastronomiei. Agricultura se bazează pe agricultura pluvială, în principal sorg. Istoric, importanța orașului a crescut proporțional cu extinderea autostrăzii. În ciuda locației favorabile, Massaguet suferă și de o subfinanțare severă a infrastructurii de bază, precum lipsa apei curente.",
+        "en": "Massaguet is a bustling city in Chad that serves as the administrative capital of the Haraze Al Biar department in the Hadjer-Lamis region. Geographically, the city is located only about 80 kilometers directly north of the capital, N'Djamena, making it one of the most important forward outposts into the northern provinces. The terrain essentially consists of flat, highly drought-prone savannas. Economically, Massaguet benefits massively from its location on the strategic national highway, which acts as the central supply artery to the resource-rich but logistically challenging northern regions. The daily transit of commercial trucks, buses, and large cattle herds boosts the local economy extremely heavily, with a broad service sector developing around vehicle repairs, fuel supply, and gastronomy. Agriculture relies strictly on rain-fed farming, primarily sorghum. Historically, the city's importance grew proportionally with the paving and expansion of the main highway. Despite its highly advantageous location, Massaguet also suffers from severe underfunding of basic infrastructure; inadequate water supply and chronic power outages define daily life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Massaguet liegt strategisch nur etwa 80 km nördlich von N'Djamena.",
+          "Die Stadt ist der offizielle Verwaltungssitz von Haraze Al Biar.",
+          "Die Wirtschaft profitiert massiv vom Transit auf der wichtigen Nordroute.",
+          "Der Durchgangsverkehr hat einen sehr starken Dienstleistungssektor geschaffen.",
+          "Die Infrastruktur leidet trotz der Bedeutung an chronischer Unterfinanzierung."
+        ],
+        "hu": [
+          "Massaguet stratégiailag mindössze 80 km-re északra fekszik N'Djamenától.",
+          "A város Haraze Al Biar megye hivatalos közigazgatási székhelye.",
+          "A gazdaság masszívan profitál a fontos északi útvonalon zajló tranzitból.",
+          "Az áthaladó forgalom egy rendkívül erős szolgáltatási szektort hozott létre.",
+          "Fontossága ellenére az infrastruktúra krónikus alulfinanszírozottságtól szenved."
+        ],
+        "ro": [
+          "Massaguet este situat strategic la doar 80 km nord de capitala N'Djamena.",
+          "Orașul este sediul administrativ oficial al departamentului Haraze Al Biar.",
+          "Economia profită masiv de pe urma tranzitului pe ruta vitală nordică.",
+          "Traficul rutier constant a creat un sector de servicii locale foarte puternic.",
+          "Infrastructura suferă de o subfinanțare cronică în ciuda importanței sale."
+        ],
+        "en": [
+          "Massaguet is highly strategically located just 80 km north of N'Djamena.",
+          "The city serves as the official administrative seat of Haraze Al Biar.",
+          "The economy benefits massively from heavy transit on the vital northern route.",
+          "Constant through-traffic has directly created a very strong local service sector.",
+          "The basic infrastructure suffers from chronic underfunding despite its importance."
+        ]
+      }
+    },
+    {
+      "id": "dourbali-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Dourbali ist eine dynamische Stadt in der Region Chari-Baguirmi im Südwesten des Tschad. Geografisch profitiert die Stadt massiv von ihrer Nähe zur Hauptstadt N'Djamena, die weniger als hundert Kilometer entfernt liegt. Diese Region ist Teil eines relativ fruchtbaren Gürtels, in dem Savannen auf die Flusssysteme des Logone und Schari treffen. Wirtschaftlich fungiert Dourbali als ein extrem wichtiger agrarischer Zulieferer für die stetig wachsende Bevölkerung der Hauptstadt. Die lokalen Bauern bauen in großem Maßstab Erdnüsse, Sorghum und saisonales Gemüse an. Zudem spielt die Rinder- und Schafzucht eine absolut zentrale Rolle; der wöchentliche Viehmarkt von Dourbali zieht Händler aus dem ganzen Land an. Historisch hat die Stadt durch die Landflucht und den Bau befestigter Straßen stark an demografischer und wirtschaftlicher Bedeutung gewonnen. Dennoch bleibt die Entwicklung asymmetrisch: Während der landwirtschaftliche Großhandel floriert, haben die meisten Anwohner keinen Zugang zu sauberem Leitungswasser oder einem zuverlässigen Stromnetz. Die Straßen nach N'Djamena sind die absolute Lebensader der Stadt.",
+        "hu": "Dourbali egy dinamikusan fejlődő város a Chari-Baguirmi régióban, Csád délnyugati részén. Földrajzilag a város masszívan profitál abból, hogy a főváros, N'Djamena közelében fekszik, amely kevesebb mint száz kilométerre található. Ez a régió egy viszonylag termékeny övezet része, ahol a szavannák találkoznak a Logone és a Chari folyórendszerekkel. Gazdasági szempontból Dourbali rendkívül fontos agrár-beszállítóként működik a főváros folyamatosan növekvő lakossága számára. A helyi gazdák nagyüzemi méretekben termesztenek földimogyorót, cirkot és szezonális zöldségeket. Emellett a szarvasmarha- és juhtenyésztés abszolút központi szerepet játszik; a dourbali-i heti állatpiac az egész országból vonzza a kereskedőket. Történelmileg a város a vidék elnéptelenedése és a szilárd burkolatú utak építése révén jelentősen megnövelte demográfiai és gazdasági jelentőségét. A fejlődés azonban aszimmetrikus marad: bár a mezőgazdasági nagykereskedelem virágzik, a legtöbb lakos nem fér hozzá tiszta vezetékes vízhez vagy megbízható elektromos hálózathoz. Az N'Djamenába vezető utak a város abszolút mentőövei.",
+        "ro": "Dourbali este un oraș dinamic din regiunea Chari-Baguirmi, în sud-vestul Ciadului. Geografic, orașul beneficiază masiv de apropierea sa de capitala N'Djamena, care se află la mai puțin de o sută de kilometri distanță. Această regiune face parte dintr-o centură relativ fertilă unde savanele întâlnesc sistemele fluviale Logone și Chari. Economic, Dourbali funcționează ca un furnizor agricol extrem de important pentru populația în continuă creștere a capitalei. Fermierii locali cultivă alune, sorg și legume sezoniere pe scară largă. În plus, creșterea vitelor și a oilor joacă un rol absolut central; piața săptămânală de vite din Dourbali atrage comercianți din întreaga țară. Istoric, orașul a câștigat o mare importanță demografică și economică prin exodul rural și construirea de drumuri pavate. Cu toate acestea, dezvoltarea rămâne complet asimetrică: în timp ce comerțul agricol cu ridicata înflorește, majoritatea locuitorilor nu au acces la apă curată de la robinet sau la o rețea electrică fiabilă. Drumurile către N'Djamena sunt salvarea absolută a orașului.",
+        "en": "Dourbali is a highly dynamic city in the Chari-Baguirmi region located in the southwestern part of Chad. Geographically, the city benefits massively from its close proximity to the capital, N'Djamena, which is less than a hundred kilometers away. This region forms part of a relatively fertile belt where open savannas actively intersect with the Logone and Chari river systems. Economically, Dourbali functions as an extremely important agricultural supplier for the steadily and rapidly growing population of the capital. Local farmers cultivate peanuts, sorghum, and seasonal vegetables on a very large scale. Additionally, cattle and sheep breeding play an absolutely central role; the massive weekly livestock market in Dourbali attracts wholesale traders from all across the country. Historically, the city has gained immense demographic and economic importance due to rural exodus and the construction of relatively robust paved roads. However, local development remains highly asymmetrical: while wholesale agricultural trade flourishes, the vast majority of residents have zero access to clean piped water or a reliable power grid."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Dourbali liegt in der fruchtbaren Chari-Baguirmi-Region nahe N'Djamena.",
+          "Die Stadt ist ein hochwichtiger agrarischer Lieferant für die Hauptstadt.",
+          "Erdnüsse und Sorghum werden hier im Umland großflächig angebaut.",
+          "Der lokale Viehmarkt zieht wöchentlich Händler aus dem ganzen Land an.",
+          "Trotz Agrarboom haben viele Bürger keinen Zugang zu Strom oder Wasser."
+        ],
+        "hu": [
+          "Dourbali a rendkívül termékeny Chari-Baguirmi régióban, N'Djamena közelében van.",
+          "A város a főváros egyik legfontosabb és legnagyobb agrár-beszállítója.",
+          "A környező földeken nagyüzemileg termesztenek mogyorót és cirkot.",
+          "A helyi heti állatpiac kereskedők százait vonzza az egész országból.",
+          "Az agrárboom ellenére sok polgárnak nincs hozzáférése áramhoz vagy vízhez."
+        ],
+        "ro": [
+          "Dourbali se află în regiunea fertilă Chari-Baguirmi, aproape de N'Djamena.",
+          "Orașul este un furnizor agricol extrem de important pentru capitală.",
+          "Alunele și sorgul sunt cultivate pe scară foarte largă în zonele înconjurătoare.",
+          "Piața locală de vite atrage săptămânal comercianți angro din toată țara.",
+          "În ciuda boom-ului agricol, mulți cetățeni nu au curent sau apă curentă."
+        ],
+        "en": [
+          "Dourbali is located in the fertile Chari-Baguirmi region near N'Djamena.",
+          "The city acts as a highly critical agricultural supplier for the capital.",
+          "Peanuts and sorghum are cultivated on a very large scale in the surrounding area.",
+          "The local weekly livestock market attracts wholesale traders from nationwide.",
+          "Despite the agricultural boom, many citizens entirely lack power or piped water."
+        ]
+      }
+    },
+    {
+      "id": "lere-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Léré ist eine kulturell und wirtschaftlich bedeutende Stadt in der Region Mayo-Kebbi Ouest im extremen Südwesten des Tschad. Geografisch wird das Stadtbild vollständig vom malerischen Léré-See dominiert, der Teil des Gauthiot-Falls-Flusssystems ist und sehr nahe an der Grenze zu Kamerun liegt. Wirtschaftlich ist der See das absolute Herz der Gemeinde: Die lokale Bevölkerung, die mehrheitlich dem indigenen Volk der Moundang angehört, betreibt hier intensive Binnenfischerei. Der geräucherte oder in der Sonne getrocknete Fisch ist ein hochgeschätztes Exportgut, das gewinnbringend bis in die ferne Hauptstadt und nach Kamerun verkauft wird. Zudem ermöglicht das feuchtere Mikroklima am See den lukrativen Anbau von Reis und kommerzieller Baumwolle. Historisch ist Léré von enormer Bedeutung, da es der traditionelle, historische Sitz des Moundang-Königreichs war; der Palast des Gong (König) von Léré existiert noch heute und zieht gelegentlich kulturell interessierte Besucher an. Trotz dieses enormen Potenzials ist die lokale Infrastruktur schwach, und der See ist durch Überfischung in seiner ökologischen Balance bedroht.",
+        "hu": "Léré egy kulturálisan és gazdaságilag is nagyon jelentős város a Mayo-Kebbi Ouest régióban, Csád legdélnyugatibb részén. Földrajzilag a városképet teljesen uralja a festői Léré-tó, amely a Gauthiot-vízesés folyórendszerének szerves része, és nagyon közel fekszik a kameruni határhoz. Gazdasági szempontból a tó a helyi közösség abszolút szíve: a lakosság, amely túlnyomórészt az őslakos moundang néphez tartozik, intenzív belvízi halászatot folytat itt. A füstölt vagy napon szárított hal nagyra becsült exportcikk, amelyet nagy haszonnal értékesítenek egészen a távoli fővárosig és Kamerunig. Emellett a tó menti nedvesebb mikroklíma lehetővé teszi a rizs és a kereskedelmi gyapot jövedelmező termesztését is. Történelmileg Léré óriási jelentőséggel bír, mivel a Moundang Királyság hagyományos, történelmi székhelye volt; a léré-i Gong (király) palotája ma is áll, és időnként vonzza a kulturális érdeklődésű látogatókat. Ezen hatalmas potenciál ellenére a helyi infrastruktúra gyenge, a tavat pedig a túlhalászás miatt ökológiai egyensúlyában fenyegeti.",
+        "ro": "Léré este un oraș extrem de semnificativ din punct de vedere cultural și economic în regiunea Mayo-Kebbi Ouest, în sud-vestul extrem al Ciadului. Geografic, peisajul urban este complet dominat de pitorescul Lac Léré, care face parte integrantă din sistemul fluvial al Cascadelor Gauthiot și este foarte aproape de granița cu Camerun. Din punct de vedere economic, lacul acționează ca inima absolută a comunității locale: populația, aparținând predominant poporului indigen Moundang, practică aici un pescuit intens în apele interioare. Peștele afumat sau uscat la soare este o marfă de export foarte apreciată, care se vinde profitabil până în capitala îndepărtată și în Camerun. Mai mult, microclimatul mai umed din apropierea lacului permite cultivarea profitabilă a orezului și a bumbacului comercial. Istoric, Léré are o importanță enormă, fiind scaunul tradițional și istoric al Regatului Moundang; palatul Gongului (rege) încă există și atrage ocazional vizitatori. În ciuda acestui potențial, infrastructura este slabă.",
+        "en": "Léré is a culturally and economically highly significant city in the Mayo-Kebbi Ouest region in the extreme southwest of Chad. Geographically, the entire cityscape is completely dominated by the picturesque Lake Léré, which forms an integral part of the Gauthiot Falls river system and lies very close to the border with Cameroon. Economically, the lake acts as the absolute heart of the local community: the population, predominantly belonging to the indigenous Moundang people, engages in intensive inland fishing here. The smoked or deeply sun-dried fish is a highly valued export commodity that is actively and profitably sold as far away as the distant capital and neighboring Cameroon. Furthermore, the moister microclimate near the lake readily enables the lucrative cultivation of rice and commercial cotton. Historically, Léré is of enormous importance as it was the traditional, historical seat of the Moundang Kingdom; the palace of the Gong (King) of Léré still stands today and occasionally attracts culturally interested visitors. Despite this enormous potential, local infrastructure is weak, and the lake is threatened by overfishing."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Léré liegt im äußersten Südwesten des Tschad in der Mayo-Kebbi-Region.",
+          "Das malerische Stadtbild wird komplett vom fischreichen Léré-See dominiert.",
+          "Getrockneter Fisch aus Léré wird gewinnbringend in die Hauptstadt exportiert.",
+          "Die Stadt ist der historische Königssitz des indigenen Moundang-Volkes.",
+          "Das feuchte Seeklima ermöglicht den lukrativen Anbau von Reis und Baumwolle."
+        ],
+        "hu": [
+          "Léré Csád legdélnyugatibb részén, a Mayo-Kebbi régióban található.",
+          "A festői városképet teljesen uralja a nagyon halgazdag Léré-tó.",
+          "A Léréből származó szárított halat nagy haszonnal exportálják a fővárosba.",
+          "A város a helyi őslakos moundang nép történelmi és kulturális királyi székhelye.",
+          "A nedves tóparti éghajlat jövedelmező rizs- és gyapottermesztést tesz lehetővé."
+        ],
+        "ro": [
+          "Léré se află în extremitatea sud-vestică a Ciadului, în regiunea Mayo-Kebbi.",
+          "Peisajul urban pitoresc este dominat complet de Lacul Léré, foarte bogat în pește.",
+          "Peștele uscat din Léré este exportat foarte profitabil în capitala îndepărtată.",
+          "Orașul este scaunul regal istoric și cultural al poporului indigen Moundang.",
+          "Clima umedă a lacului permite cultivarea extrem de profitabilă a orezului."
+        ],
+        "en": [
+          "Léré is located in the extreme southwest of Chad within the Mayo-Kebbi region.",
+          "The picturesque cityscape is completely dominated by the fish-rich Lake Léré.",
+          "Dried fish from Léré is profitably exported to the distant capital city.",
+          "The city acts as the historical royal seat of the indigenous Moundang people.",
+          "The humid lake climate perfectly enables the lucrative cultivation of rice."
+        ]
+      }
+    },
+    {
+      "id": "kyabe-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kyabé ist eine hochwichtige landwirtschaftliche Kleinstadt in der Provinz Moyen-Chari im üppigen, feuchten Süden des Tschad. Geografisch profitiert die Stadt enorm von ihrer Lage inmitten von tropischen Waldsavannen und sehr fruchtbaren Schwemmlandböden, die durch die kleinen Zuflüsse des Schari-Flusssystems beständig genährt werden. Wirtschaftlich ist die Stadt fast vollständig auf den Agrarsektor angewiesen und dient als hochproduktives Zentrum für die Volksgruppe der Sara, der absolut größten ethnischen Gruppe im Süden des Landes. Der kommerzielle Anbau von Export-Baumwolle ist hier das unumstrittene Rückgrat der lokalen Ökonomie und bringt das meiste Bargeld direkt in die Familien. Zusätzlich werden Erdnüsse, Sorghum und Maniok in sehr großen Mengen zur reinen Eigenversorgung angebaut. Historisch gesehen war Kyabé stets ein tief im Animismus und lokalen Traditionen verwurzeltes Zentrum, bevor die französische Kolonialzeit den Baumwollanbau gewaltsam forcierte. Heute leidet die stark wachsende Gemeinde massiv unter fehlender medizinischer Versorgung, und die extrem schlecht ausgebauten, schlammigen Straßen isolieren die Bauern oft von den großen Abnehmermärkten.",
+        "hu": "Kyabé egy rendkívül fontos mezőgazdasági kisváros a Moyen-Chari tartományban, Csád buja és nedves déli részén. Földrajzilag a város sokat profitál abból, hogy a trópusi erdős szavannák és a Chari-folyórendszer kis mellékfolyói által folyamatosan táplált, rendkívül termékeny hordaléktalajok közepén fekszik. Gazdasági szempontból a város szinte teljesen az agrárszektorra van utalva, és az ország déli részének abszolút legnagyobb etnikai csoportja, a sara népesség kiemelkedően termékeny központjaként szolgál. Az exportra szánt gyapot kereskedelmi célú termesztése itt a helyi gazdaság vitathatatlan gerince, és ez hozza a legtöbb készpénzt közvetlenül a családoknak. Emellett földimogyorót, cirkot és maniókát is nagyon nagy mennyiségben termesztenek tisztán önellátás céljából. Történelmileg Kyabé mindig is egy mélyen az animizmusban és a helyi hagyományokban gyökerező központ volt, mielőtt a francia gyarmati időszak erőszakkal kikényszerítette volna a gyapottermesztést. Ma a gyorsan növekvő közösség masszívan szenved az orvosi ellátás hiányától, és az extrém rosszul kiépített, sáros utak gyakran teljesen elszigetelik a gazdákat a nagy felvevőpiacoktól.",
+        "ro": "Kyabé este un important oraș agricol mic din provincia Moyen-Chari, în sudul luxuriant și umed al Ciadului. Geografic, orașul beneficiază enorm de locația sa în mijlocul savanelor cu păduri tropicale și a solurilor aluvionare foarte fertile, care sunt hrănite constant de micii afluenți ai sistemului fluvial Chari. Economic, orașul se bazează aproape în întregime pe sectorul agricol și servește ca un centru extrem de productiv pentru grupul etnic Sara, cel mai mare grup populațional din sudul țării. Cultivarea comercială a bumbacului de export este coloana vertebrală incontestabilă a economiei locale aici și aduce cei mai mulți bani direct în familii. În plus, alunele, sorgul și maniocul sunt cultivate în cantități foarte mari strict pentru autoconsum. Istoric, Kyabé a fost întotdeauna un centru adânc înrădăcinat în animism și tradițiile locale puternice înainte ca perioada colonială franceză să forțeze cultivarea bumbacului. Astăzi, comunitatea în creștere rapidă suferă masiv din cauza lipsei de îngrijire medicală de bază, iar drumurile noroioase izolează adesea fermierii de marile piețe.",
+        "en": "Kyabé is a highly important small agricultural city in the Moyen-Chari province in the lush, humid south of Chad. Geographically, the city heavily benefits from its location amidst tropical wooded savannas and very fertile alluvial soils that are steadily nourished by the small tributaries of the Chari river system. Economically, the city is almost completely dependent on the agricultural sector and serves as a highly productive center for the Sara ethnic group, the absolute largest population group in the south of the country. The commercial cultivation of export cotton acts as the undisputed backbone of the local economy here, bringing the most vital cash income directly into families. In addition, peanuts, sorghum, and cassava are cultivated in very large quantities strictly for pure self-supply. Historically, Kyabé was always a center deeply rooted in animism and strong local traditions before the French colonial era forcefully mandated cotton cultivation. Today, the rapidly growing community suffers massively from a severe lack of basic medical care, and the extremely poorly developed, muddy roads often totally isolate farmers from the major buying markets."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kyabé liegt im sehr fruchtbaren und feuchten Süden der Provinz Moyen-Chari.",
+          "Die Stadt ist ein traditionelles und agrarisches Zentrum des Sara-Volkes.",
+          "Der kommerzielle Baumwollanbau ist das absolute Rückgrat der lokalen Wirtschaft.",
+          "Erdnüsse und Maniok werden in großen Mengen für die Eigenversorgung gepflanzt.",
+          "Schlammige Pisten isolieren die Stadt in der Regenzeit von nationalen Märkten."
+        ],
+        "hu": [
+          "Kyabé a Moyen-Chari tartomány rendkívül termékeny és nedves déli részén fekszik.",
+          "A város a sara nép egyik legfőbb hagyományos és agrárközpontja.",
+          "A kereskedelmi gyapottermesztés a helyi mikrogazdaság abszolút gerince.",
+          "A földimogyorót és a maniókát nagy mennyiségben ültetik a puszta önellátásra.",
+          "A sáros földutak az esős évszakban teljesen elszigetelik a várost a piacoktól."
+        ],
+        "ro": [
+          "Kyabé este situat în sudul foarte fertil și umed al provinciei Moyen-Chari.",
+          "Orașul este un centru tradițional și agricol vital al poporului indigen Sara.",
+          "Cultivarea comercială a bumbacului este coloana vertebrală a economiei locale.",
+          "Alunele și maniocul sunt plantate în cantități mari strict pentru autoconsum.",
+          "Drumurile noroioase izolează orașul de piețele naționale în timpul sezonului ploios."
+        ],
+        "en": [
+          "Kyabé is located in the extremely fertile and humid south of the Moyen-Chari province.",
+          "The city is a traditional and highly productive agricultural center of the Sara people.",
+          "The commercial cultivation of cotton acts as the absolute backbone of the local economy.",
+          "Peanuts and cassava are planted in very large quantities strictly for self-sufficiency.",
+          "Deeply muddy roads completely isolate the city from national markets during the rain."
+        ]
+      }
+    },
+    {
+      "id": "benoye-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bénoye ist ein hochgradig geschäftiges landwirtschaftliches Zentrum in der Region Logone Occidental im äußersten Südwesten des Tschad. Geografisch profitiert diese Kleinstadt massiv von extrem fruchtbaren Böden und hohen jährlichen Niederschlagsmengen, die die Region zu einer der grünsten Zonen des ganzen Landes machen. Wirtschaftlich ist Bénoye fast ausschließlich auf den Cash-Crop-Anbau von kommerzieller Baumwolle fokussiert. Dieser wird von Tausenden lokaler Kleinbauernfamilien betrieben und stellt ihre absolute primäre Einnahmequelle für Bargeld dar. Die rohe Baumwolle wird zur Weiterverarbeitung direkt in die nahen industriellen Zentren wie Moundou transportiert. Zur eigenen festen Ernährungssicherung pflanzt die lokale Bevölkerung in sehr großem Maßstab Sorghum, Erdnüsse und Yams an. Historisch hat sich die Stadt rasant um die landwirtschaftlichen Kooperativen gebildet, die in der postkolonialen Zeit stark gefördert wurden, um die ländliche Wirtschaftsentwicklung zu stabilisieren. Heute wird diese Entwicklung jedoch stark durch den drastischen Mangel an Basisinfrastruktur gebremst. Ohne asphaltierte Transportwege verrotten Ernten oft, bevor sie den Markt erreichen.",
+        "hu": "Bénoye egy rendkívül nyüzsgő mezőgazdasági központ a Logone Occidental régióban, Csád legdélnyugatibb részén. Földrajzilag ez a kisváros masszívan profitál a rendkívül termékeny talajokból és a magas éves csapadékmennyiségből, amely a régiót az egész ország egyik legzöldebb övezetévé teszi. Gazdasági szempontból Bénoye szinte kizárólag a kereskedelmi gyapot mint exportnövény (cash crop) termesztésére fókuszál. Ezt több ezer helyi kisbirtokos család működteti, és ez jelenti számukra a készpénzbevétel abszolút elsődleges forrását. Ezt a nyers gyapotot közvetlenül a közeli ipari központokba, például Moundouba szállítják további feldolgozásra. Saját biztos élelmezésbiztonságuk érdekében a helyi lakosság nagyon nagy mennyiségben termeszt cirkot, földimogyorót és jamgyökeret. Történelmileg a város viharos gyorsasággal alakult ki a mezőgazdasági szövetkezetek körül, amelyeket a posztkoloniális időszakban erősen támogattak a vidéki gazdasági fejlődés stabilizálása érdekében. Ma azonban ezt a fejlődést erősen hátráltatja az alapvető infrastruktúra drasztikus hiánya. Aszfaltozott szállítási útvonalak hiányában a termés gyakran elrothad, mielőtt a piacra érne.",
+        "ro": "Bénoye este un centru agricol extrem de aglomerat din regiunea Logone Occidental, în extremitatea sud-vestică a Ciadului. Geografic, acest mic oraș beneficiază masiv de soluri extrem de fertile și de precipitații anuale ridicate, ceea ce face din regiune una dintre cele mai verzi zone din întreaga țară. Economic, Bénoye este axat aproape exclusiv pe cultivarea comercială a bumbacului (cash crop). Aceasta este operată de mii de familii locale de mici fermieri și reprezintă sursa lor absolută primară de venit în numerar. Acest bumbac brut este transportat direct către centrele industriale din apropiere, precum Moundou, pentru prelucrare ulterioară. Pentru a-și asigura ferm propria securitate alimentară, populația locală cultivă pe scară foarte largă sorg, alune și igname. Istoric, orașul s-a format rapid în jurul cooperativelor agricole care au fost puternic promovate în perioada postcolonială pentru a stabiliza dezvoltarea economică rurală. Astăzi, însă, această dezvoltare este puternic încetinită de lipsa drastică de infrastructură de bază. Fără rute de transport asfaltate, recoltele putrezesc adesea înainte de a ajunge pe piață.",
+        "en": "Bénoye is a highly bustling agricultural center located in the Logone Occidental region in the extreme southwest of Chad. Geographically, this small city heavily benefits from extremely fertile soils and high annual rainfall, making the region one of the absolute greenest zones in the entire country. Economically, Bénoye is almost exclusively focused on the commercial cash-crop cultivation of cotton. This is operated by thousands of local smallholder families and serves as their absolute primary source of cash income. This raw cotton is directly transported to nearby industrial centers such as Moundou for further mechanical processing. To firmly secure their own food supply, the local population cultivates sorghum, peanuts, and yams on a very large scale. Historically, the city rapidly formed around agricultural cooperatives that were heavily promoted during the post-colonial era to stabilize rural economic development. Today, however, this development is severely hampered by a drastic lack of basic infrastructure. Without any paved transport routes, harvests frequently rot completely before reaching the market, and access to secondary schools remains a pure luxury."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bénoye liegt extrem fruchtbar in der Region Logone Occidental.",
+          "Die lokale Wirtschaft fokussiert sich komplett auf den Baumwollanbau.",
+          "Die Ernte wird zur Weiterverarbeitung ins nahe Moundou transportiert.",
+          "Yams und Sorghum sichern die tägliche Ernährung der lokalen Bevölkerung.",
+          "Eine fehlende Straßeninfrastruktur blockiert das wirtschaftliche Wachstum."
+        ],
+        "hu": [
+          "Bénoye egy rendkívül termékeny területen, a Logone Occidental régióban fekszik.",
+          "A helyi mikrogazdaság szinte teljesen az ipari gyapottermesztésre fókuszál.",
+          "A nyers betakarítást a közeli Moundouba szállítják további feldolgozásra.",
+          "A jamgyökér és a cirok biztosítja a helyi lakosság napi és folyamatos élelmezését.",
+          "A szilárd útburkolat teljes hiánya drasztikusan blokkolja a gazdasági növekedést."
+        ],
+        "ro": [
+          "Bénoye este situat într-o zonă extrem de fertilă din Logone Occidental.",
+          "Economia locală este concentrată complet pe cultivarea comercială a bumbacului.",
+          "Recoltele brute sunt transportate direct la Moundou pentru prelucrare.",
+          "Ignamele și sorgul asigură dieta zilnică absolută a populației locale.",
+          "O lipsă totală a infrastructurii rutiere blochează sever creșterea economică."
+        ],
+        "en": [
+          "Bénoye is located in a highly fertile area within the Logone Occidental region.",
+          "The local economy is completely and strictly focused on cotton cultivation.",
+          "The raw harvests are transported directly to nearby Moundou for processing.",
+          "Locally grown yams and sorghum reliably secure the daily diet of the population.",
+          "A total lack of any paved road infrastructure severely blocks economic growth."
+        ]
+      }
+    }
+  ]
+}

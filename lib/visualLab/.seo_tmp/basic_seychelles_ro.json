@@ -1,0 +1,98 @@
+{
+  "lang": "ro",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesLifeV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sc-cascade-cities-v2",
+      "description": "Cascade este o așezare situată pe coasta de est a insulei Mahé.",
+      "facts": ["Situat în Mahé", "Localitate de coastă", "Parte a districtului Cascade"]
+    },
+    {
+      "id": "sc-baie-lazare-cities-v2",
+      "description": "Baie Lazare este o localitate pitorească de pe coasta de sud-vest a insulei Mahé.",
+      "facts": ["Numit după Lazare Picault", "Coasta de sud-vest", "Peisaj tropical"]
+    },
+    {
+      "id": "sc-les-mamelles-cities-v2",
+      "description": "Les Mamelles este un district administrativ și așezare din Mahé.",
+      "facts": ["District în Mahé", "Așezare urbană", "Proximitate de Victoria"]
+    },
+    {
+      "id": "sc-mont-buxton-cities-v2",
+      "description": "Mont Buxton este o zonă rezidențială aflată în imediata apropiere a capitalei Victoria.",
+      "facts": ["Lângă Victoria", "Zonă rezidențială", "Relief deluros"]
+    },
+    {
+      "id": "sc-perseverance-i-cities-v2",
+      "description": "Perseverance I este o așezare modernă dezvoltată pe terenuri recuperate din mare.",
+      "facts": ["Insulă recuperată", "Dezvoltare urbană", "Lângă Mahé"]
+    },
+    {
+      "id": "sc-consolation-cities-v2",
+      "description": "Consolation este o așezare liniștită situată pe coasta insulei Praslin.",
+      "facts": ["Pe insula Praslin", "Zonă costieră", "Ambient tropical"]
+    },
+    {
+      "id": "sc-cote-dor-cities-v2",
+      "description": "Cote d'Or este una dintre cele mai populare zone turistice de pe insula Praslin.",
+      "facts": ["Plajă celebră", "Hub turistic", "Praslin"]
+    },
+    {
+      "id": "sc-port-launay-cities-v2",
+      "description": "Port Launay este o zonă de coastă faimoasă pentru golful său protejat din Mahé.",
+      "facts": ["Golf protejat", "Rezervație marină", "Mahé"]
+    },
+    {
+      "id": "sc-danzil-cities-v2",
+      "description": "Danzil este o așezare situată în partea de nord a insulei Mahé.",
+      "facts": ["Nordul Mahé", "Zona Bel Ombre", "Așezare liniștită"]
+    },
+    {
+      "id": "sc-petit-paris-cities-v2",
+      "description": "Petit Paris este un cartier rezidențial situat în districtul Plaisance, Mahé.",
+      "facts": ["Districtul Plaisance", "Mahé", "Zonă rezidențială"]
+    },
+    {
+      "id": "sc-brillant-cities-v2",
+      "description": "Brillant este o așezare situată în zona centrală a insulei Mahé.",
+      "facts": ["Mahé", "Zona centrală", "Așezare administrativă"]
+    },
+    {
+      "id": "sc-turtle-bay-cities-v2",
+      "description": "Turtle Bay este o zonă de coastă din Mahé cunoscută pentru apele sale calme.",
+      "facts": ["Mahé", "Golful Țestoaselor", "Ape tropicale"]
+    },
+    {
+      "id": "sc-val-dendore-cities-v2",
+      "description": "Val D'Endore este o așezare aflată în zona interioară a insulei Mahé.",
+      "facts": ["Mahé", "Interiorul insulei", "Relief muntos"]
+    },
+    {
+      "id": "sc-quatre-bornes-cities-v2",
+      "description": "Quatre Bornes este un mic district situat în zona interioară a insulei Mahé.",
+      "facts": ["Mahé", "District interior", "Peisaj deluros"]
+    },
+    {
+      "id": "sc-sans-souci-cities-v2",
+      "description": "Sans Souci este o zonă faimoasă pentru drumul pitoresc care traversează muntele în Mahé.",
+      "facts": ["Drum montan", "Mahé", "Zona înaltă"]
+    },
+    {
+      "id": "sc-vista-do-mar-cities-v2",
+      "description": "Vista Do Mar este o așezare de coastă situată în nordul insulei Mahé.",
+      "facts": ["Nordul Mahé", "Vedere la mare", "Zonă de vile"]
+    },
+    {
+      "id": "sc-quincy-village-cities-v2",
+      "description": "Quincy Village este o zonă rezidențială situată în districtul Anse Etoile.",
+      "facts": ["Anse Etoile", "Mahé", "Zonă rezidențială"]
+    }
+  ]
+}

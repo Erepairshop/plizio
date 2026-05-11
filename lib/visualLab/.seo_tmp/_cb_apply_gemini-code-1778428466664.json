@@ -1,0 +1,480 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSaoTomeAndPrincipeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ponta-do-sol-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ponta do Sol liegt an der extremen Nordküste der Insel Santo Antão in Kap Verde und fungiert als administratives Zentrum der Gemeinde Ribeira Grande. Historisch gesehen war die Siedlung während des 19. Jahrhunderts ein hochgradig bedeutender maritimer Handelsposten und diente als Hauptexporthafen für landwirtschaftliche Produkte, die in den fruchtbaren Tälern des Landesinneren geerntet wurden, wie Zuckerrohr und Kaffee. Die Stadt verfügt über ein gut erhaltenes historisches Zentrum mit ausgeprägter Kolonialarchitektur, darunter ein markantes Rathaus und der alte jüdische Friedhof (Cemitério dos Judeus), der die historische Präsenz sephardischer Juden dokumentiert, die aus Marokko einwanderten, um am lokalen Handel teilzunehmen. Geografisch liegt Ponta do Sol auf einer felsigen, ungeschützten Halbinsel, die in den Atlantischen Ozean ragt, was ihren kleinen natürlichen Hafen extrem anfällig für starke Dünung macht. Unmittelbar südlich steigt das Gelände abrupt in steile, zerklüftete Berge an. Ein verlassener Flugplatz, der Agostinho Neto Airport, befindet sich auf einem schmalen Landstreifen nahe der Stadt; er wurde Ende der 1990er Jahre wegen extrem gefährlicher Seitenwinde dauerhaft geschlossen. Heute stützt sich die lokale Wirtschaft stark auf handwerkliche Fischerei, Kleinhandel und einen wachsenden Ökotourismussektor, der die Stadt als Basislager für Wanderexpeditionen entlang der dramatischen Küstenklippen zum abgelegenen Dorf Fontainhas nutzt. Die Koordinaten lauten etwa 17,20°N, 25,09°W.",
+        "hu": "Ponta do Sol a Zöld-foki Köztársaság Santo Antão szigetének legészakibb partján fekszik, és a Ribeira Grande község közigazgatási központjaként működik. Történelmileg a település a 19. század folyamán rendkívül jelentős tengeri kereskedelmi állomás volt, amely a termékeny belső völgyekben betakarított mezőgazdasági termékek, például a cukornád és a kávé elsődleges exportkikötőjeként szolgált. A város jól megőrzött történelmi központtal rendelkezik, jellegzetes gyarmati építészettel, beleértve egy markáns városházát és a régi zsidó temetőt (Cemitério dos Judeus), amely dokumentálja a Marokkóból a helyi kereskedelemben való részvétel céljából bevándorolt szefárd zsidók történelmi jelenlétét. Földrajzilag Ponta do Sol egy sziklás, kitett félszigeten helyezkedik el, amely az Atlanti-óceánba nyúlik, ami kis természetes kikötőjét rendkívül érzékennyé teszi az erős hullámzásra. Közvetlenül délre a terep hirtelen meredek, zord hegyekbe emelkedik. Egy elhagyatott repülőtér, az Agostinho Neto repülőtér található egy keskeny földsávon a város közelében; ezt a 90-es évek végén véglegesen bezárták a rendkívül veszélyes oldalszelek miatt. Ma a helyi gazdaság nagymértékben a kézműves halászatra, a kiskereskedelemre és egy növekvő ökoturisztikai szektorra támaszkodik, amely a várost alaptáborként használja a távoli Fontainhas faluba vezető drámai parti sziklák menti túraexpedíciókhoz. A koordináták nagyjából é. sz. 17,20°, ny. h. 25,09°.",
+        "ro": "Ponta do Sol este situat pe coasta de nord extremă a insulei Santo Antão din Capul Verde și servește ca centru administrativ al municipalității Ribeira Grande. Din punct de vedere istoric, așezarea a fost un post comercial maritim extrem de semnificativ în timpul secolului al XIX-lea, servind ca principal port de export pentru produsele agricole recoltate în văile interioare fertile, cum ar fi trestia de zahăr și cafeaua. Orașul are un centru istoric bine conservat, cu o arhitectură colonială distinctă, incluzând o primărie proeminentă și vechiul cimitir evreiesc (Cemitério dos Judeus), care documentează prezența istorică a evreilor sefarzi care au imigrat din Maroc pentru a participa la comerțul local. Geografic, Ponta do Sol este situat pe o peninsulă stâncoasă, expusă, care iese în Oceanul Atlantic, ceea ce face ca micul său port natural să fie foarte susceptibil la valuri puternice. Imediat la sud, terenul se ridică brusc în munți abrupți și accidentați. Un aerodrom abandonat, Aeroportul Agostinho Neto, este situat pe o fâșie îngustă de pământ lângă oraș; a fost închis definitiv la sfârșitul anilor 1990 din cauza vânturilor laterale extrem de periculoase. Astăzi, economia locală se bazează masiv pe pescuitul artizanal, comerțul la scară mică și un sector ecoturistic în creștere, care folosește orașul ca tabără de bază pentru expediții de drumeții de-a lungul stâncilor de coastă dramatice care duc spre satul izolat Fontainhas. Coordonatele sunt aproximativ 17,20°N, 25,09°V.",
+        "en": "Ponta do Sol is located on the extreme northern coast of the island of Santo Antão in Cape Verde and serves explicitly as the administrative center of the Ribeira Grande municipality. Historically, the settlement was a highly significant maritime trading post during the 19th century, serving as the primary export port for agricultural products harvested in the highly fertile interior valleys, such as sugarcane and coffee. The town features a well-preserved historical center with distinct colonial architecture, including a prominent town hall and the old Jewish cemetery (Cemitério dos Judeus), which rigorously documents the historical presence of Sephardic Jews who immigrated from Morocco to participate in local commerce. Geographically, Ponta do Sol is situated on a rocky, totally exposed peninsula jutting directly into the Atlantic Ocean, making its small natural harbor highly susceptible to exceptionally strong swells. To the immediate south, the terrain rises abruptly into extremely steep, rugged mountains. An abandoned airstrip, Agostinho Neto Airport, is located on a narrow strip of land near the town; it was permanently closed in the late 1990s due to highly dangerous, unpredictable crosswinds. Today, the local economy relies heavily on artisanal coastal fishing, small-scale commerce, and a rapidly growing ecotourism sector that utilizes the town as a base camp for strenuous hiking expeditions along the dramatic coastal cliffs leading to the remote village of Fontainhas. The coordinates are roughly 17.20°N, 25.09°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ponta do Sol fungiert offiziell als der Verwaltungssitz der Gemeinde Ribeira Grande.",
+          "Der Ort war im 19. Jahrhundert der wichtigste Exporthafen für Agrarprodukte auf Santo Antão.",
+          "Ein alter jüdischer Friedhof zeugt von der Einwanderung sephardischer Händler aus Marokko.",
+          "Der Flughafen Agostinho Neto wurde in den späten 1990er Jahren wegen gefährlicher Winde geschlossen.",
+          "Die Stadt liegt auf einer felsigen Halbinsel, die massiv in den offenen Atlantik ragt.",
+          "Der kleine Naturhafen ist schutzlos den extrem starken und gefährlichen Meereswellen ausgesetzt.",
+          "Ponta do Sol dient heute als wichtiges Basislager für Wanderungen nach Fontainhas."
+        ],
+        "hu": [
+          "Ponta do Sol hivatalosan Ribeira Grande község közigazgatási székhelyeként működik.",
+          "A 19. században a település volt a mezőgazdasági termékek legfőbb exportkikötője Santo Antãón.",
+          "Egy régi zsidó temető tanúskodik a Marokkóból érkező szefárd kereskedők bevándorlásáról.",
+          "Az Agostinho Neto repülőteret a 90-es évek végén veszélyes szelek miatt végleg bezárták.",
+          "A város egy sziklás félszigeten fekszik, amely masszívan a nyílt Atlanti-óceánba nyúlik.",
+          "A kis természetes kikötő védtelenül ki van téve a rendkívül erős és veszélyes tengeri hullámoknak.",
+          "Ponta do Sol ma fontos alaptáborként szolgál a Fontainhas felé vezető hegyi túrákhoz."
+        ],
+        "ro": [
+          "Ponta do Sol funcționează oficial ca sediu administrativ al municipalității Ribeira Grande.",
+          "În secolul al XIX-lea, locul era cel mai important port de export pentru produsele agricole de pe Santo Antão.",
+          "Un vechi cimitir evreiesc mărturisește imigrația comercianților sefarzi din Maroc.",
+          "Aeroportul Agostinho Neto a fost închis la sfârșitul anilor 1990 din cauza vânturilor periculoase.",
+          "Orașul este situat pe o peninsulă stâncoasă care iese masiv în Atlanticul deschis.",
+          "Micul port natural este expus fără apărare valurilor extrem de puternice și periculoase ale mării.",
+          "Ponta do Sol servește astăzi ca o tabără de bază importantă pentru drumeții spre Fontainhas."
+        ],
+        "en": [
+          "Ponta do Sol functions explicitly as the official administrative seat of the Ribeira Grande municipality.",
+          "During the 19th century, the town served as the primary export port for agriculture on Santo Antão.",
+          "An ancient Jewish cemetery documents the historic immigration of Sephardic merchants from Morocco.",
+          "The Agostinho Neto Airport was permanently shuttered in the late 1990s due to exceptionally dangerous crosswinds.",
+          "The settlement is geographically situated on a rocky peninsula jutting massively into the open Atlantic.",
+          "The small natural harbor is completely unprotected against extremely strong and dangerous oceanic swells.",
+          "Today, Ponta do Sol operates as a critical base camp for strenuous hiking expeditions to Fontainhas."
+        ]
+      }
+    },
+    {
+      "id": "vila-das-pombas-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Vila das Pombas ist eine kleine, aber administrativ äußerst wichtige Küstenstadt im Nordosten der Insel Santo Antão in Kap Verde. Sie fungiert offiziell als Hauptstadt der Gemeinde Paul und liegt exakt an der Mündung der Ribeira do Paul, eines der tiefsten, grünsten und fruchtbarsten Täler des gesamten kapverdischen Archipels. Geografisch wird die Siedlung von der felsigen Küste des Atlantiks und den extrem steilen, fast vertikal aufragenden Bergflanken, die das Flusstal umrahmen, massiv eingeschlossen. Aufgrund der verhältnismäßig hohen Niederschlagsmengen in den hochgelegenen Bergen des Hinterlandes verfügt das Tal über ein konstantes Wasserangebot. Dies ermöglicht eine extrem intensive Landwirtschaft, die das absolute wirtschaftliche Rückgrat der Stadt bildet. Tausende terrassierte Parzellen produzieren hier große Mengen an Zuckerrohr, das direkt in den lokalen traditionellen Brennereien (Trapiches) zu Grogue, einem kapverdischen Rum, verarbeitet wird. Neben Zuckerrohr werden auch Bananen, Mangos und Maniok aggressiv kultiviert. Das Stadtbild zeichnet sich durch pastellfarbene, gepflegte Kolonialhäuser aus, die von üppiger tropischer Vegetation umgeben sind. Eine auffällige Landmarke ist die Statue des Santo António, die auf einem hohen, freistehenden Hügel direkt über dem Stadtzentrum thront und den Ort visuell dominiert. Vila das Pombas hat sich in den letzten Jahren rasant zu einem zentralen Ausgangspunkt für den internationalen Ökotourismus entwickelt.",
+        "hu": "Vila das Pombas egy kis, de közigazgatásilag rendkívül fontos tengerparti város a Zöld-foki Köztársaság Santo Antão szigetének északkeleti részén. Hivatalosan Paul község fővárosaként funkcionál, és pontosan a Ribeira do Paul torkolatánál fekszik, amely a teljes zöld-foki szigetvilág egyik legmélyebb, legzöldebb és legtermékenyebb völgye. Földrajzilag a települést az Atlanti-óceán sziklás partja és a folyóvölgyet keretező rendkívül meredek, szinte függőlegesen magasodó hegyoldalak masszívan közrezárják. A szárazföld belsejében lévő magas hegyek viszonylag magas csapadékmennyiségének köszönhetően a völgy folyamatos vízellátással rendelkezik. Ez rendkívül intenzív mezőgazdaságot tesz lehetővé, amely a város abszolút gazdasági gerincét alkotja. Több ezer teraszos parcellán hatalmas mennyiségű cukornádat termelnek itt, amelyet a helyi hagyományos lepárlókban (trapiches) közvetlenül grogue-vá, egy zöld-foki rummá dolgoznak fel. A cukornád mellett banánt, mangót és maniókát is agresszívan termesztenek. A városképet pasztellszínű, gondozott gyarmati házak jellemzik, amelyeket buja trópusi növényzet vesz körül. Feltűnő tájékozódási pont a Santo António szobra, amely egy magas, szabadon álló dombon trónol közvetlenül a városközpont felett, és vizuálisan uralja a helyet. Vila das Pombas az elmúlt években rohamosan a nemzetközi ökoturizmus központi kiindulópontjává fejlődött.",
+        "ro": "Vila das Pombas este un oraș de coastă mic, dar extrem de important din punct de vedere administrativ, situat în nord-estul insulei Santo Antão din Capul Verde. Funcționează oficial ca capitală a municipalității Paul și este situat exact la gura de vărsare a Ribeira do Paul, una dintre cele mai adânci, mai verzi și mai fertile văi din întregul arhipelag capverdian. Geografic, așezarea este închisă masiv de coasta stâncoasă a Atlanticului și de flancurile muntoase extrem de abrupte, care se înalță aproape vertical și încadrează valea râului. Datorită precipitațiilor relativ abundente din munții înalți din interior, valea are o alimentare constantă cu apă. Acest lucru permite o agricultură extrem de intensivă, care formează coloana vertebrală economică absolută a orașului. Mii de parcele terasate produc aici cantități mari de trestie de zahăr, care este procesată direct în distileriile tradiționale locale (trapiches) în grogue, un rom capverdian. Pe lângă trestia de zahăr, sunt cultivate agresiv și banane, mango și manioc. Peisajul urban se caracterizează prin case coloniale pastelate, bine întreținute, înconjurate de vegetație tropicală luxuriantă. Un punct de reper izbitor este statuia lui Santo António, care tronează pe un deal înalt, de sine stătător, chiar deasupra centrului orașului și domină vizual locul. În ultimii ani, Vila das Pombas a evoluat rapid într-un punct de plecare central pentru ecoturismul internațional.",
+        "en": "Vila das Pombas is a small but administratively crucial coastal town located in the northeast of the island of Santo Antão in Cape Verde. It functions officially as the capital of the Paul municipality and sits exactly at the mouth of the Ribeira do Paul, one of the deepest, greenest, and most highly fertile valleys in the entire Cape Verdean archipelago. Geographically, the settlement is massively hemmed in by the rocky Atlantic coastline and the extremely steep, nearly vertical mountain flanks that frame the river valley. Due to the comparatively high rainfall in the elevated inland mountains, the valley boasts a constant supply of fresh water. This physical anomaly permits extremely intensive agriculture, which forms the absolute economic backbone of the town. Thousands of hand-built terraced plots actively produce massive quantities of sugarcane, which is directly processed in local traditional distilleries (trapiches) to create grogue, a strong Cape Verdean rum. Alongside sugarcane, bananas, mangoes, and cassava are aggressively cultivated. The cityscape is uniquely characterized by pastel-colored, well-maintained colonial houses thoroughly surrounded by lush tropical vegetation. A highly striking landmark is the large statue of Santo António, perched firmly on a high, freestanding hill directly above the city center, completely dominating the town visually. Vila das Pombas has rapidly developed into a central launching point for international ecotourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Vila das Pombas ist der offizielle Verwaltungssitz der stark landwirtschaftlichen Gemeinde Paul.",
+          "Die Stadt liegt an der Mündung des Ribeira do Paul, dem grünsten Tal der Insel Santo Antão.",
+          "Eine gigantische Statue des Santo António überragt das Stadtzentrum auf einem steilen Hügel.",
+          "Terrassierte landwirtschaftliche Parzellen dominieren massiv die fast vertikalen Berghänge.",
+          "Das Tal ist das absolute Epizentrum für die Produktion von kapverdischem Zuckerrohr-Rum (Grogue).",
+          "Traditionelle Brennereien (Trapiches) verarbeiten die Ernte direkt innerhalb der Siedlung.",
+          "Ein konstantes Süßwasservorkommen aus den Bergen ermöglicht hier extrem üppige Tropenvegetation."
+        ],
+        "hu": [
+          "Vila das Pombas az erősen mezőgazdasági jellegű Paul község hivatalos közigazgatási székhelye.",
+          "A város a Ribeira do Paul, Santo Antão sziget legzöldebb völgyének torkolatánál fekszik.",
+          "Santo António gigantikus szobra egy meredek dombon magasodik a városközpont fölé.",
+          "Teraszos mezőgazdasági parcellák masszívan uralják a szinte függőleges hegyoldalakat.",
+          "A völgy a zöld-foki cukornádrum (grogue) termelésének abszolút epicentruma.",
+          "Hagyományos lepárlók (trapiches) dolgozzák fel a termést közvetlenül a településen belül.",
+          "A hegyekből származó állandó édesvízkészlet rendkívül buja trópusi növényzetet tesz itt lehetővé."
+        ],
+        "ro": [
+          "Vila das Pombas este sediul administrativ oficial al municipalității puternic agricole Paul.",
+          "Orașul este situat la gura de vărsare a Ribeira do Paul, cea mai verde vale de pe insula Santo Antão.",
+          "O statuie gigantică a lui Santo António se înalță deasupra centrului orașului pe un deal abrupt.",
+          "Parcelele agricole terasate domină masiv versanții munților aproape verticali.",
+          "Valea este epicentrul absolut pentru producția de rom capverdian din trestie de zahăr (Grogue).",
+          "Distileriile tradiționale (Trapiches) procesează recolta direct în interiorul așezării.",
+          "O sursă constantă de apă dulce din munți permite o vegetație tropicală extrem de luxuriantă aici."
+        ],
+        "en": [
+          "Vila das Pombas officially serves as the administrative seat of the highly agricultural Paul municipality.",
+          "The city is firmly located at the mouth of Ribeira do Paul, the absolute greenest valley on Santo Antão.",
+          "A gigantic statue of Santo António dominates the city center, situated atop a steep, freestanding hill.",
+          "Intensively hand-built agricultural terraces massively cover the nearly vertical mountain slopes.",
+          "The valley operates as the absolute epicenter for the active production of Cape Verdean sugarcane rum (grogue).",
+          "Traditional local distilleries (trapiches) aggressively process the harvest directly within the settlement.",
+          "A highly reliable supply of fresh mountain water fosters extremely lush, tropical vegetation throughout the town."
+        ]
+      }
+    },
+    {
+      "id": "coculi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Coculi ist eine tief historische, landwirtschaftliche Ortschaft im Binnenland der Insel Santo Antão in Kap Verde und gehört administrativ zur Gemeinde Ribeira Grande. Die Siedlung liegt extrem isoliert im tiefen Tal des Flusses Ribeira Grande, vollständig umgeben von massiven, fast vertikalen Felswänden, die das Tal stark vom Rest der Insel abgrenzen. Geografisch profitiert Coculi von einem lokalen Mikroklima mit ausreichender Feuchtigkeit, die durch den Fluss und das ausgeklügelte traditionelle Bewässerungssystem (Levadas) in die Felder geleitet wird. Die Wirtschaft der Ortschaft ist fast vollständig und rigoros auf die intensive Subsistenz- und kommerzielle Landwirtschaft ausgerichtet. Die Hänge um Coculi sind aggressiv zu komplexen Terrassensystemen ausgebaut, auf denen die Einheimischen massiv Zuckerrohr, Bananen, Yams und Mais anbauen. Das historische Herzstück des Dorfes bildet die sehr markante Kirche Nossa Senhora do Livramento, die zu den ältesten und besterhaltenen religiösen Bauwerken auf der Insel zählt und das Zentrum des sozialen Lebens bildet. Die Architektur der Wohnhäuser ist einfach und oft rustikal, bestehend aus lokalen Vulkansteinen und moderneren Betonblöcken. Coculi ist ein essenzieller Durchgangsort für Wanderer und Trekking-Touristen, die die spektakulären Täler von Ribeira Grande durchqueren, bleibt aber von massiver touristischer Infrastruktur absolut unberührt, wodurch es seinen tief authentischen Charakter bewahrt.",
+        "hu": "Coculi egy mélyen történelmi, mezőgazdasági település a Zöld-foki Köztársaság Santo Antão szigetének belsejében, és közigazgatásilag Ribeira Grande községhez tartozik. A település rendkívül elszigetelten fekszik a Ribeira Grande folyó mély völgyében, teljesen körülvéve masszív, szinte függőleges sziklafalakkal, amelyek erősen elválasztják a völgyet a sziget többi részétől. Földrajzilag Coculi egy olyan helyi mikroklímából profitál, amely elegendő nedvességgel rendelkezik, és amelyet a folyó, valamint a kifinomult hagyományos öntözőrendszer (levadák) juttat a földekre. A település gazdasága szinte teljes egészében és szigorúan az intenzív létfenntartó és kereskedelmi mezőgazdaságra irányul. A Coculi körüli lejtőket agresszívan komplex teraszrendszerekké építették ki, amelyeken a helyiek tömegesen termesztenek cukornádat, banánt, jamgyökeret és kukoricát. A falu történelmi szívét a rendkívül markáns Nossa Senhora do Livramento templom alkotja, amely a sziget egyik legrégebbi és legépebben fennmaradt vallási építménye, és a társadalmi élet központját képezi. A lakóházak építészete egyszerű és gyakran rusztikus, helyi vulkáni kövekből és modernebb betontömbökből áll. Coculi egy elengedhetetlen átmenő állomás a Ribeira Grande látványos völgyeit átszelő túrázók és trekking turisták számára, de a masszív turisztikai infrastruktúra abszolút érintetlenül hagyta, aminek köszönhetően megőrizte mélyen autentikus karakterét.",
+        "ro": "Coculi este o așezare agricolă, profund istorică, situată în interiorul insulei Santo Antão din Capul Verde și aparține din punct de vedere administrativ de municipalitatea Ribeira Grande. Așezarea este extrem de izolată în valea adâncă a râului Ribeira Grande, complet înconjurată de pereți de stâncă masivi, aproape verticali, care separă puternic valea de restul insulei. Geografic, Coculi beneficiază de un microclimat local cu suficientă umiditate, care este canalizată în câmpuri de către râu și de sistemul tradițional ingenios de irigații (levadas). Economia așezării este aproape în întregime și riguros orientată spre agricultura intensivă de subzistență și comercială. Pantele din jurul Coculi sunt transformate agresiv în sisteme complexe de terase, pe care localnicii cultivă masiv trestie de zahăr, banane, igname și porumb. Inima istorică a satului este reprezentată de biserica foarte proeminentă Nossa Senhora do Livramento, care este una dintre cele mai vechi și mai bine conservate clădiri religioase de pe insulă și formează centrul vieții sociale. Arhitectura caselor este simplă și adesea rustică, constând din pietre vulcanice locale și blocuri de beton mai moderne. Coculi este un punct de tranzit esențial pentru drumeții și turiștii de trekking care traversează văile spectaculoase din Ribeira Grande, dar rămâne absolut neatins de infrastructura turistică masivă, păstrându-și astfel caracterul profund autentic.",
+        "en": "Coculi is a deeply historical, agricultural settlement located in the inland interior of Santo Antão island in Cape Verde, belonging administratively to the Ribeira Grande municipality. The settlement is extremely isolated deep within the narrow valley of the Ribeira Grande river, completely surrounded by massive, nearly vertical rock walls that heavily separate the valley from the rest of the island. Geographically, Coculi heavily benefits from a localized microclimate with adequate moisture, which is explicitly channeled into the agricultural fields by the river and an elaborate traditional irrigation system (levadas). The economy of the settlement is almost entirely and rigorously geared toward intensive subsistence and commercial agriculture. The steep slopes surrounding Coculi have been aggressively terraced into complex agricultural systems, where locals massively cultivate sugarcane, bananas, yams, and corn. The historic heart of the village is securely anchored by the highly prominent Nossa Senhora do Livramento church, which stands as one of the absolute oldest and best-preserved religious buildings on the island and forms the center of local social life. The residential architecture is highly functional and often rustic, composed of local volcanic stones combined with more modern concrete blocks. Coculi operates as an essential transit point for hikers and trekking tourists crossing the spectacular valleys of Ribeira Grande, yet remains absolutely untouched by massive tourist infrastructure, preserving its deeply authentic character."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die ländliche Siedlung liegt extrem isoliert im tiefen Tal des Flusses Ribeira Grande.",
+          "Steile, fast vertikale Felswände schirmen das Dorf massiv vom restlichen Terrain ab.",
+          "Komplexe, handgebaute Terrassensysteme an den Hängen ermöglichen intensive Landwirtschaft.",
+          "Lokale Bauern kultivieren hier massiv Zuckerrohr, Yams und Bananen.",
+          "Die alte Kirche Nossa Senhora do Livramento bildet das tief historische Zentrum des Dorfes.",
+          "Traditionelle Bewässerungskanäle (Levadas) verteilen das knappe Flusswasser auf die Felder.",
+          "Coculi ist ein hochgradig wichtiger Wegpunkt für Wanderer auf dem Weg durch das Flusstal."
+        ],
+        "hu": [
+          "A vidéki település rendkívül elszigetelten fekszik a Ribeira Grande folyó mély völgyében.",
+          "Meredek, szinte függőleges sziklafalak védik a falut masszívan a környező tereptől.",
+          "A hegyoldalakon lévő komplex, kézzel épített teraszrendszerek intenzív mezőgazdaságot tesznek lehetővé.",
+          "A helyi gazdák itt tömegesen termesztenek cukornádat, jamgyökeret és banánt.",
+          "A régi Nossa Senhora do Livramento templom alkotja a falu mélyen történelmi központját.",
+          "A hagyományos öntözőcsatornák (levadák) elosztják a szűkös folyóvizet a földeken.",
+          "Coculi rendkívül fontos útpont a folyóvölgyön keresztülhaladó túrázók számára."
+        ],
+        "ro": [
+          "Așezarea rurală este extrem de izolată în valea adâncă a râului Ribeira Grande.",
+          "Pereții de stâncă abrupți, aproape verticali, ecranează masiv satul de restul terenului.",
+          "Sistemele complexe de terase construite manual pe versanți permit o agricultură intensivă.",
+          "Fermierii locali cultivă masiv aici trestie de zahăr, igname și banane.",
+          "Vechea biserică Nossa Senhora do Livramento formează centrul profund istoric al satului.",
+          "Canalele tradiționale de irigații (levadas) distribuie apa limitată a râului către câmpuri.",
+          "Coculi este un punct de trecere extrem de important pentru drumeții care străbat valea râului."
+        ],
+        "en": [
+          "The highly rural settlement is extremely isolated within the deep valley of the Ribeira Grande river.",
+          "Steep, nearly vertical rock walls aggressively shield the village from the surrounding terrain.",
+          "Complex, hand-built agricultural terrace systems on the slopes facilitate highly intensive farming.",
+          "Local farmers actively cultivate massive quantities of sugarcane, yams, and bananas here.",
+          "The ancient Nossa Senhora do Livramento church firmly forms the deeply historical center of the village.",
+          "Traditional historical irrigation canals (levadas) forcefully distribute scarce river water to the fields.",
+          "Coculi acts as a highly critical waypoint for international hikers navigating through the river valley."
+        ]
+      }
+    },
+    {
+      "id": "sao-filipe-cities-v2",
+      "descriptionAdvanced": {
+        "de": "São Filipe ist die historische und absolute Hauptstadt der Insel Fogo in Kap Verde und thront spektakulär auf einer massiven Klippe direkt über dem Atlantischen Ozean an der Westküste der Insel. Die im späten 16. Jahrhundert gegründete Stadt ist eine der absolut ältesten kontinuierlich bewohnten Siedlungen des gesamten Archipels. São Filipe ist weltweit berühmt für seinen historischen Stadtkern, Vila Baixa, der extrem dicht mit sogenannten „Sobrados“ bebaut ist. Diese zweistöckigen Herrenhäuser mit kunstvollen Holzbalkonen und Ziegeldächern spiegeln den tiefgreifenden portugiesischen Kolonialeinfluss und den enormen Reichtum der einstigen Aristokratie wider. Geografisch bietet die Stadt von ihrer Steilküste aus direkte Panoramablicke auf die kleine Nachbarinsel Brava. Direkt unterhalb der Klippen liegt Praia da Bila, ein massiver, rauer Strand, der vollständig aus tiefschwarzem vulkanischem Sand besteht. Wirtschaftlich ist São Filipe das unbestrittene Handels- und Dienstleistungszentrum für Fogo und der zentrale Umschlagplatz für den hochgelobten Fogo-Kaffee, der in der fruchtbaren Caldera des Vulkans angebaut wird. Der nahegelegene Tiefwasserhafen Vale de Cavaleiros fertigt die gesamten maritimen Exporte der Insel aggressiv ab. Trotz des starken historischen Erbes hat die Stadt moderne Infrastrukturen entwickelt, leidet jedoch stark unter dem extrem ariden Mikroklima und einem eklatanten Mangel an Süßwasserressourcen.",
+        "hu": "São Filipe a Zöld-foki Köztársaság Fogo szigetének történelmi és abszolút fővárosa, amely látványosan, egy hatalmas sziklán trónol, közvetlenül az Atlanti-óceán felett a sziget nyugati partján. A 16. század végén alapított város a teljes szigetvilág egyik abszolút legrégebbi, folyamatosan lakott települése. São Filipe világszerte híres történelmi városközpontjáról, a Vila Baixáról, amely rendkívül sűrűn be van építve az úgynevezett „sobradók”-kal. Ezek a díszes fakilátókkal és cseréptetővel ellátott, kétszintes kúriák a mélyreható portugál gyarmati hatást és az egykori arisztokrácia hatalmas gazdagságát tükrözik. Földrajzilag a város meredek partjáról közvetlen panoráma nyílik a szomszédos kis szigetre, Bravára. Közvetlenül a sziklák alatt fekszik a Praia da Bila, egy masszív, zord strand, amely teljes egészében mélyfekete vulkáni homokból áll. Gazdaságilag São Filipe Fogo vitathatatlan kereskedelmi és szolgáltató központja, valamint a vulkán termékeny kalderájában termesztett, nagyra becsült Fogo kávé központi átrakóhelye. A közeli Vale de Cavaleiros mélyvízi kikötő agresszívan kezeli a sziget teljes tengeri exportját. Az erős történelmi örökség ellenére a város modern infrastruktúrát fejlesztett ki, azonban erősen szenved a rendkívül száraz mikroklímától és az édesvízkészletek kirívó hiányától.",
+        "ro": "São Filipe este capitala istorică și absolută a insulei Fogo din Capul Verde și tronează spectaculos pe o stâncă masivă direct deasupra Oceanului Atlantic, pe coasta de vest a insulei. Fondat la sfârșitul secolului al XVI-lea, orașul este una dintre cele mai vechi așezări locuite continuu din întregul arhipelag. São Filipe este faimos la nivel mondial pentru centrul său istoric, Vila Baixa, care este extrem de dens construit cu așa-numitele „Sobrados”. Aceste conace cu două etaje, cu balcoane din lemn ornamentate și acoperișuri din țiglă, reflectă influența colonială portugheză profundă și bogăția enormă a fostei aristocrații. Geografic, orașul oferă vederi panoramice directe de pe stânca sa abruptă către mica insulă vecină Brava. Imediat sub stânci se află Praia da Bila, o plajă masivă și aspră, care este formată complet din nisip vulcanic de un negru intens. Din punct de vedere economic, São Filipe este centrul comercial și de servicii incontestabil pentru Fogo și punctul central de transbordare pentru cafeaua Fogo foarte apreciată, cultivată în caldeira fertilă a vulcanului. Portul de ape adânci din apropiere, Vale de Cavaleiros, gestionează agresiv toate exporturile maritime ale insulei. În ciuda moștenirii istorice puternice, orașul a dezvoltat infrastructuri moderne, dar suferă mult din cauza microclimatului extrem de arid și a lipsei flagrante a resurselor de apă dulce.",
+        "en": "São Filipe is the deeply historical and absolute primary capital city of the island of Fogo in Cape Verde, perched spectacularly atop a massive, vertical cliff directly overlooking the Atlantic Ocean on the island's western coast. Founded in the late 16th century, the city ranks solidly as one of the absolute oldest continuously inhabited settlements in the entire archipelago. São Filipe is globally famous for its highly preserved historic urban core, Vila Baixa, which is densely packed with traditional \"Sobrados.\" These massive two-story colonial mansions, featuring ornate carved wooden balconies and red tile roofs, strongly reflect the deep Portuguese colonial influence and the enormous wealth of the former island aristocracy. Geographically, the city's high cliff-edge vantage point explicitly provides sweeping, direct panoramic views of the neighboring small island of Brava. Located immediately below the towering cliffs is Praia da Bila, a harsh, massive beach composed entirely of deep black volcanic sand. Economically, São Filipe operates as the completely undisputed commercial and administrative center for Fogo, serving as the central logistical transit point for the highly acclaimed Fogo coffee aggressively cultivated within the volcano's fertile caldera. The nearby deep-water port of Vale de Cavaleiros heavily handles the island's entire maritime export operations. Despite its massive historical legacy, the city severely battles an extremely arid local microclimate and a chronic lack of reliable freshwater resources."
+      },
+      "factsAdvanced": {
+        "de": [
+          "São Filipe ist die historische und wichtigste Hauptstadt der Vulkaninsel Fogo.",
+          "Die Stadt thront spektakulär auf einer hohen, steilen Klippe direkt am Atlantik.",
+          "Der historische Kern Vila Baixa ist geprägt von alten kolonialen Herrenhäusern (Sobrados).",
+          "Unter der Steilküste liegt ein massiver, rauer Strand aus tiefschwarzem vulkanischen Sand.",
+          "Die Siedlung wurde im späten 16. Jahrhundert gegründet und ist extrem alt.",
+          "São Filipe ist das zentrale Handelszentrum für den exklusiven Fogo-Kaffee.",
+          "Von der Klippe aus hat man eine direkte, ungestörte Sicht auf die Nachbarinsel Brava."
+        ],
+        "hu": [
+          "São Filipe a vulkanikus Fogo sziget történelmi és legfontosabb fővárosa.",
+          "A város látványosan, egy magas, meredek sziklán trónol közvetlenül az Atlanti-óceánnál.",
+          "A Vila Baixa történelmi magot régi gyarmati kúriák (sobradók) jellemzik.",
+          "A meredek part alatt egy masszív, zord, mélyfekete vulkáni homokból álló strand fekszik.",
+          "A települést a 16. század végén alapították, így az rendkívül réginek számít.",
+          "São Filipe az exkluzív Fogo kávé központi kereskedelmi csomópontja.",
+          "A szikláról közvetlen, zavartalan kilátás nyílik a szomszédos Brava szigetére."
+        ],
+        "ro": [
+          "São Filipe este capitala istorică și cea mai importantă a insulei vulcanice Fogo.",
+          "Orașul tronează spectaculos pe o stâncă înaltă și abruptă, direct pe Atlantic.",
+          "Nucleul istoric Vila Baixa este caracterizat de vechi conace coloniale (Sobrados).",
+          "Sub faleza abruptă se află o plajă masivă și aspră de nisip vulcanic de un negru intens.",
+          "Așezarea a fost fondată la sfârșitul secolului al XVI-lea și este extrem de veche.",
+          "São Filipe este centrul comercial central pentru cafeaua exclusivă Fogo.",
+          "De pe stâncă există o vedere directă și netulburată asupra insulei vecine Brava."
+        ],
+        "en": [
+          "São Filipe stands as the deeply historical and absolute primary capital city of the volcanic island of Fogo.",
+          "The city is spectacularly perched atop a massive, vertical cliff directly facing the Atlantic Ocean.",
+          "The historic urban core of Vila Baixa is densely populated with grand colonial mansions called Sobrados.",
+          "Directly below the towering cliffs lies a massive, harsh beach composed entirely of deep black volcanic sand.",
+          "The settlement was officially founded in the late 16th century, making it extremely ancient.",
+          "São Filipe acts aggressively as the central commercial trading hub for the highly exclusive Fogo coffee.",
+          "The high cliff vantage point explicitly offers a completely unobstructed view of the neighboring island of Brava."
+        ]
+      }
+    },
+    {
+      "id": "mosteiros-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mosteiros ist eine landwirtschaftlich geprägte und hochgradig bedeutsame Stadt an der Nordostküste der Insel Fogo in Kap Verde und fungiert als Sitz der gleichnamigen Gemeinde. Die Geografie der Siedlung ist extrem dramatisch: Sie ist physisch zwischen den rauen, schwarzen Vulkanstränden des Atlantiks und den massiven, extrem steil ansteigenden Flanken des Fogo-Vulkans (Pico do Fogo) eingequetscht. Dieses einzigartige topografische Profil verschafft Mosteiros ein für die Kapverden höchst ungewöhnliches Mikroklima. Die dichten Wolken, die durch den Passatwind gegen die massiven Berghänge gedrückt werden, sorgen für ein extrem feuchtes, beinahe tropisches Klima mit deutlich höheren Niederschlägen als auf dem Rest der Insel. Dieser klimatische Vorteil macht Mosteiros zum absoluten landwirtschaftlichen Epizentrum Fogos. Die Hänge oberhalb der Stadt sind massiv mit dichten, schattenspendenden Bananenplantagen und Papayabäumen bepflanzt. Noch wichtiger ist, dass in den hochgelegenen Nebelwäldern um Mosteiros der weltberühmte Fogo-Kaffee, ein extrem hochwertiger Arabica-Kaffee, direkt auf den dunklen vulkanischen Böden angebaut wird. Historisch wurde das Gebiet mehrfach von verheerenden Lavaströmen aus Ausbrüchen der Caldera bedroht, die bis nah an die Küste flossen. Die Architektur der Stadt mischt bescheidene ländliche Bauten mit neueren Betongebäuden, während die Wirtschaft der Region fast ausschließlich auf diesem intensiven Agrarsektor basiert.",
+        "hu": "Mosteiros egy mezőgazdasági jellegű és rendkívül jelentős város a Zöld-foki Köztársaság Fogo szigetének északkeleti partján, és a vele azonos nevű község székhelyeként funkcionál. A település földrajza rendkívül drámai: fizikailag az Atlanti-óceán zord, fekete vulkáni strandjai és a Fogo-vulkán (Pico do Fogo) masszív, rendkívül meredeken emelkedő hegyoldalai közé van bepréselve. Ez az egyedülálló topográfiai profil a Zöld-foki-szigetek esetében rendkívül szokatlan mikroklímát biztosít Mosteiros számára. A passzátszelek által a masszív hegyoldalaknak nyomott sűrű felhők rendkívül párás, szinte trópusi éghajlatot hoznak létre, lényegesen magasabb csapadékmennyiséggel, mint a sziget többi részén. Ez a klímaelőny teszi Mosteirost Fogo abszolút mezőgazdasági epicentrumává. A város feletti lejtőket tömegesen ültették be sűrű, árnyékot adó banánültetvényekkel és papayafákkal. Ami még fontosabb, hogy a Mosteiros körüli magasan fekvő köderdőkben termesztik a világhírű Fogo kávét, egy rendkívül magas minőségű arabica kávét, közvetlenül a sötét vulkáni talajon. Történelmileg a területet többször is fenyegették a kaldera kitöréseiből származó pusztító lávafolyamok, amelyek egészen a part közelébe is eljutottak. A város építészete szerény vidéki épületeket ötvöz újabb betonépületekkel, míg a régió gazdasága szinte kizárólag ezen az intenzív agrárszektoron alapul.",
+        "ro": "Mosteiros este un oraș predominant agricol și extrem de important pe coasta de nord-est a insulei Fogo din Capul Verde și servește ca sediu al municipalității cu același nume. Geografia așezării este extrem de dramatică: este fizic presată între plajele vulcanice aspre și negre ale Atlanticului și flancurile masive, extrem de abrupte ale vulcanului Fogo (Pico do Fogo). Acest profil topografic unic oferă orașului Mosteiros un microclimat extrem de neobișnuit pentru Capul Verde. Norii denși împinși de vânturile alizee împotriva versanților masivi creează o climă extrem de umedă, aproape tropicală, cu precipitații semnificativ mai mari decât pe restul insulei. Acest avantaj climatic face din Mosteiros epicentrul agricol absolut al insulei Fogo. Pantele de deasupra orașului sunt plantate masiv cu plantații dense de banane care oferă umbră și arbori de papaya. Mai important, în pădurile de ceață la altitudine din jurul orașului Mosteiros, renumita cafea Fogo, o cafea Arabica de o calitate extrem de înaltă, este cultivată direct pe solurile vulcanice întunecate. Istoric, zona a fost amenințată de mai multe ori de fluxuri devastatoare de lavă de la erupțiile din caldeiră, care au curs aproape de coastă. Arhitectura orașului amestecă clădiri rurale modeste cu structuri mai noi din beton, în timp ce economia regiunii se bazează aproape exclusiv pe acest sector agricol intensiv.",
+        "en": "Mosteiros is a heavily agricultural and highly significant town located on the northeastern coast of the island of Fogo in Cape Verde, operating explicitly as the administrative seat of the municipality of the same name. The geography of the settlement is extremely dramatic: it is physically squeezed tightly between the harsh, black volcanic beaches of the Atlantic Ocean and the massive, aggressively steep rising flanks of the Fogo volcano (Pico do Fogo). This highly unique topographical profile provides Mosteiros with a microclimate that is extremely unusual for Cape Verde. The dense clouds aggressively pushed by the trade winds against the massive mountain slopes create a highly humid, almost completely tropical climate, resulting in significantly higher rainfall than any other part of the island. This specific climatic advantage makes Mosteiros the absolute agricultural epicenter of Fogo. The steep slopes towering directly above the town are massively planted with dense, shade-providing banana plantations and papaya trees. More importantly, in the high-elevation cloud forests surrounding Mosteiros, the world-famous Fogo coffee, a highly premium Arabica bean, is aggressively cultivated directly within the dark, rich volcanic soils. Historically, the immediate area has been severely threatened by devastating lava flows spilling from caldera eruptions that traveled dangerously close to the coast. The town's architecture mixes modest rural buildings with rapidly built concrete structures, while the regional economy remains almost exclusively based on this intensive agricultural sector."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mosteiros liegt extrem isoliert eingequetscht zwischen der Nordostküste und dem großen Fogo-Vulkan.",
+          "Wolken, die gegen den Berg gedrückt werden, sorgen für ein ungewöhnlich extrem feuchtes Mikroklima.",
+          "Der feuchte Vulkanboden macht die Region zum absoluten Zentrum des Bananenanbaus der Insel.",
+          "In den nebeligen Höhenlagen über der Stadt wird der weltbekannte Fogo-Kaffee massiv kultiviert.",
+          "Historisch drohten Lavaströme aus dem Vulkan mehrmals, die tieferliegende Siedlung zu zerstören.",
+          "Die extrem dunklen Vulkanstrände an der Küste stehen im harten Kontrast zur üppigen Vegetation.",
+          "Die lokale Tageswirtschaft stützt sich fast ausschließlich und absolut auf den intensiven Agrarsektor."
+        ],
+        "hu": [
+          "Mosteiros rendkívül elszigetelten fekszik az északkeleti part és a nagy Fogo-vulkán közé ékelődve.",
+          "A hegynek nyomódó felhők szokatlanul extrém párás mikroklímát biztosítanak.",
+          "A nedves vulkáni talaj a régiót a sziget banántermesztésének abszolút központjává teszi.",
+          "A város feletti ködös magaslatokon a világhírű Fogo kávét masszívan termesztik.",
+          "Történelmileg a vulkánból származó lávafolyamok többször is fenyegették az alacsonyabban fekvő település elpusztítását.",
+          "A tengerpart rendkívül sötét vulkáni strandjai éles ellentétben állnak a buja növényzettel.",
+          "A helyi napi gazdaság szinte kizárólag és abszolút mértékben az intenzív agrárszektorra támaszkodik."
+        ],
+        "ro": [
+          "Mosteiros este extrem de izolat, prins între coasta de nord-est și marele vulcan Fogo.",
+          "Norii împinși împotriva muntelui creează un microclimat neobișnuit, extrem de umed.",
+          "Solul vulcanic umed face din regiune centrul absolut al cultivării bananelor pe insulă.",
+          "Cafeaua Fogo, faimoasă în întreaga lume, este cultivată masiv în altitudinile cețoase de deasupra orașului.",
+          "Din punct de vedere istoric, fluxurile de lavă din vulcan au amenințat în mod repetat distrugerea așezării de la joasă altitudine.",
+          "Plajele vulcanice extrem de întunecate de pe coastă contrastează puternic cu vegetația luxuriantă.",
+          "Economia zilnică locală se bazează aproape exclusiv și absolut pe sectorul agricol intensiv."
+        ],
+        "en": [
+          "Mosteiros is physically squeezed in extreme isolation directly between the northeastern coast and the massive Fogo volcano.",
+          "Heavy clouds violently pushed against the mountain slope explicitly generate an unusually damp, humid microclimate.",
+          "The heavily moistened volcanic soil firmly makes the region the absolute center for banana cultivation on the island.",
+          "In the foggy, highly elevated zones directly above the town, the world-famous Fogo coffee is massively cultivated.",
+          "Historically, aggressive lava flows spilling from the volcano have repeatedly threatened to obliterate the lower-lying settlement.",
+          "The extremely dark, harsh volcanic beaches along the coast stand in severe contrast to the violently lush green vegetation.",
+          "The local daily economy relies almost entirely and absolutely upon the highly intensive local agricultural sector."
+        ]
+      }
+    },
+    {
+      "id": "cova-figueira-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cova Figueira ist eine stark isolierte, ländliche Siedlung an der östlichen Flanke des Fogo-Vulkans und fungiert offiziell als der Verwaltungssitz der Gemeinde Santa Catarina do Fogo in Kap Verde. Die geografische Lage der Stadt ist von einer extrem rauen, unversöhnlichen Topografie gekennzeichnet. Im Gegensatz zu den feuchteren Hängen im Norden (wie bei Mosteiros) liegt Cova Figueira im massiven Regenschatten des Vulkans, was zu einem stark ariden, extrem trockenen und wüstenähnlichen Mikroklima führt. Die weiten vulkanischen Ebenen um das Dorf sind mit scharfkantigem Basaltgestein und Asche bedeckt, die aus historischen Ausbrüchen des Vulkans stammen. Das Überleben in dieser feindseligen Umgebung erfordert von der lokalen Bevölkerung immense Resilienz. Die Wirtschaft ist absolut auf die Subsistenzlandwirtschaft angewiesen, wobei die Bauern verzweifelt versuchen, Mais und Bohnen in der stark wasserarmen Vulkanerde anzubauen. In den letzten Jahrzehnten waren massive wirtschaftliche Emigrationswellen die Folge dieser harten Bedingungen; fast jede Familie im Dorf wird durch kritische finanzielle Überweisungen von Verwandten in den Vereinigten Staaten, speziell aus der Region Neuengland, am Leben erhalten. Die Stadt hat in letzter Zeit einige Verbesserungen der Infrastruktur erlebt, wie die Pflasterung der Hauptstraße, die sie mit der Hauptstadt São Filipe verbindet, doch sie bleibt ein zutiefst traditioneller Ort, der stark von den Launen des mächtigen Vulkans über ihr dominiert wird.",
+        "hu": "Cova Figueira egy erősen elszigetelt, vidéki település a Fogo-vulkán keleti lejtőjén, és hivatalosan a Zöld-foki Köztársasághoz tartozó Santa Catarina do Fogo község közigazgatási székhelyeként funkcionál. A város földrajzi fekvését egy rendkívül zord, könyörtelen topográfia jellemzi. Az északi, nedvesebb lejtőkkel (mint amilyen Mosteirosnál van) ellentétben Cova Figueira a vulkán masszív esőárnyékában helyezkedik el, ami erősen arid, rendkívül száraz és sivatagszerű mikroklímát eredményez. A falu körüli széles vulkáni síkságokat éles bazaltsziklák és hamu borítják, amelyek a vulkán történelmi kitöréseiből származnak. A túlélés ebben az ellenséges környezetben hatalmas ellenállóképességet követel a helyi lakosságtól. A gazdaság abszolút a létfenntartó mezőgazdaságra utalt, a gazdák kétségbeesetten próbálnak kukoricát és babot termeszteni az erősen vízhiányos vulkáni földben. Az elmúlt évtizedekben e kemény körülmények következményeként masszív gazdasági kivándorlási hullámok indultak el; a faluban szinte minden családot az Egyesült Államokban, különösen az Új-Anglia régióban élő rokonok kritikus pénzügyi átutalásai tartanak életben. A város a közelmúltban tapasztalt némi infrastrukturális fejlődést, mint például a fővárossal, São Filipével összekötő főút leburkolását, de továbbra is egy mélyen hagyományőrző hely marad, amelyet erősen ural a felette tornyosuló hatalmas vulkán szeszélye.",
+        "ro": "Cova Figueira este o așezare rurală puternic izolată pe flancul estic al vulcanului Fogo și servește oficial drept sediu administrativ al municipalității Santa Catarina do Fogo din Capul Verde. Locația geografică a orașului este caracterizată de o topografie extrem de aspră și neiertătoare. În contrast cu versanții mai umezi din nord (ca la Mosteiros), Cova Figueira este situată în umbra masivă a ploii vulcanului, rezultând un microclimat puternic arid, extrem de uscat și asemănător deșertului. Câmpiile vulcanice vaste din jurul satului sunt acoperite cu roci ascuțite de bazalt și cenușă provenite din erupțiile istorice ale vulcanului. Supraviețuirea în acest mediu ostil necesită o reziliență imensă din partea populației locale. Economia este absolut dependentă de agricultura de subzistență, fermierii încercând cu disperare să cultive porumb și fasole în solul vulcanic puternic lipsit de apă. În ultimele decenii, valuri masive de emigrare economică au fost consecința acestor condiții dure; aproape fiecare familie din sat este ținută în viață prin remitențe financiare critice de la rudele aflate în Statele Unite, în special în regiunea New England. Orașul a cunoscut recent unele îmbunătățiri ale infrastructurii, cum ar fi pavarea drumului principal care îl leagă de capitala São Filipe, dar rămâne un loc profund tradițional, puternic dominat de capriciile vulcanului puternic de deasupra sa.",
+        "en": "Cova Figueira is a highly isolated, deeply rural settlement positioned securely on the eastern flank of the Fogo volcano, officially functioning as the administrative seat of the Santa Catarina do Fogo municipality in Cape Verde. The geographical location of the town is heavily characterized by an extremely harsh, unforgiving topography. In extreme contrast to the more humid northern slopes (such as near Mosteiros), Cova Figueira explicitly sits deep within the massive rain shadow of the towering volcano, directly resulting in a highly arid, extremely dry, and totally desert-like microclimate. The broad volcanic plains immediately surrounding the village are brutally covered with sharp-edged basalt rocks and deep ash aggressively deposited by historic eruptions of the volcano. Basic survival in this hostile physical environment requires immense resilience from the local population. The daily economy is absolutely dependent on severe subsistence agriculture, with local farmers desperately attempting to cultivate basic corn and beans directly in the highly water-deprived volcanic dirt. Over recent decades, massive economic emigration waves have been the direct consequence of these brutal conditions; practically every single family in the village is actively kept financially afloat by critical monetary remittances explicitly sent from relatives living in the United States, specifically the New England region. The town has recently experienced minor infrastructure improvements, including the paving of the main highway connecting it to the capital, São Filipe, but it strictly remains a deeply traditional settlement completely dominated by the imposing volcano towering above."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cova Figueira fungiert offiziell als der Verwaltungssitz der Gemeinde Santa Catarina do Fogo.",
+          "Der isolierte Ort liegt an der extrem trockenen, kargen Ostflanke des riesigen Fogo-Vulkans.",
+          "Der massive Regenschatten des Berges erzeugt ein gnadenlos arides, wüstenähnliches Mikroklima.",
+          "Scharfkantiges vulkanisches Basaltgestein und alte Ascheschichten dominieren die unmittelbare Landschaft.",
+          "Die lokale Bevölkerung lebt fast ausschließlich von einer hochriskanten Subsistenzlandwirtschaft.",
+          "Massive finanzielle Überweisungen von Verwandten in den USA sichern das Überleben der Dorfbewohner.",
+          "Eine vor Kurzem gepflasterte Hauptstraße verbindet das Dorf endlich logistisch mit São Filipe."
+        ],
+        "hu": [
+          "Cova Figueira hivatalosan a Santa Catarina do Fogo község közigazgatási székhelyeként funkcionál.",
+          "Az elszigetelt település a gigantikus Fogo-vulkán rendkívül száraz, kietlen keleti lejtőjén fekszik.",
+          "A hegy masszív esőárnyéka könyörtelenül arid, sivatagszerű mikroklímát hoz létre.",
+          "Éles vulkáni bazaltsziklák és régi hamurétegek uralják a közvetlen tájat.",
+          "A helyi lakosság szinte kizárólag a rendkívül kockázatos létfenntartó mezőgazdaságból él.",
+          "Az Egyesült Államokban élő rokonoktól származó masszív pénzátutalások biztosítják a falusiak túlélését.",
+          "Egy nemrégiben leburkolt főút végre logisztikailag is összeköti a falut São Filipével."
+        ],
+        "ro": [
+          "Cova Figueira funcționează oficial ca sediu administrativ al municipalității Santa Catarina do Fogo.",
+          "Satul izolat este situat pe flancul estic extrem de uscat și arid al uriașului vulcan Fogo.",
+          "Umbra masivă a ploii muntelui creează un microclimat necruțător de arid, asemănător deșertului.",
+          "Rocile vulcanice ascuțite de bazalt și straturile vechi de cenușă domină peisajul imediat.",
+          "Populația locală trăiește aproape exclusiv dintr-o agricultură de subzistență cu risc ridicat.",
+          "Remitențele financiare masive de la rudele din SUA asigură supraviețuirea sătenilor.",
+          "Un drum principal asfaltat recent conectează în sfârșit logistic satul de São Filipe."
+        ],
+        "en": [
+          "Cova Figueira officially serves as the formal administrative seat of the Santa Catarina do Fogo municipality.",
+          "The highly isolated town sits directly on the extremely dry, barren eastern flank of the massive Fogo volcano.",
+          "The massive rain shadow of the towering mountain generates a relentlessly arid, desert-like microclimate.",
+          "Sharp-edged volcanic basalt rock and thick ancient ash layers completely dominate the immediate surrounding landscape.",
+          "The local population attempts to survive almost exclusively through high-risk, brutal subsistence agriculture.",
+          "Massive financial remittances sent by relatives living in the USA guarantee the basic survival of the villagers.",
+          "A recently paved main highway finally provides a reliable logistical connection from the village to São Filipe."
+        ]
+      }
+    },
+    {
+      "id": "cha-das-caldeiras-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Chã das Caldeiras ist eine absolut einzigartige, extrem isolierte Siedlung, die sich buchstäblich innerhalb des Kraters (Caldera) des aktiven Vulkans Pico do Fogo auf der Insel Fogo in Kap Verde befindet. Die kleine Ortschaft liegt auf einer massiven Höhe von fast 1.700 Metern über dem Meeresspiegel, tief eingeschlossen von den fast senkrechten, bis zu 1.000 Meter hohen Wänden der Bordeira-Felskraterkante. Die geografische Existenz dieses Dorfes ist ein faszinierender Kampf gegen die Naturgewalten: Das Dorf wurde bereits während der schweren Eruptionen in den Jahren 1995 und zuletzt 2014 durch ausgedehnte Lavaströme massiv zerstört und vollständig evakuiert, aber die extrem widerstandsfähigen Bewohner kehrten jedes Mal zurück, um ihre Häuser direkt auf der frisch erkalteten, schwarzen Lava neu aufzubauen. Der zwingende Grund für diese riskante Rückkehr ist der extrem fruchtbare, stark mineralhaltige vulkanische Boden im Krater. Er kombiniert mit dem kühlen, oft nebeligen Mikroklima der Höhe und ermöglicht den hochproduktiven Anbau von Weinreben, Äpfeln und Granatäpfeln. Der in dieser unwirtlichen Umgebung produzierte „Chã-Wein“ (Vinho do Fogo) genießt internationale Anerkennung. Die Architektur der wiederaufgebauten Siedlung ist extrem rudimentär und besteht oft aus unverputzten Vulkansteinen ohne Anschluss an das zentrale Stromnetz. Chã das Caldeiras hat sich in den letzten Jahren rasant als absoluter Magnet für Ökotouristen etabliert, die den Krater als anspruchsvolles Basislager für die Besteigung des 2.829 Meter hohen Hauptkegels nutzen.",
+        "hu": "Chã das Caldeiras egy abszolút egyedülálló, rendkívül elszigetelt település, amely szó szerint az aktív Pico do Fogo vulkán kráterén (kalderájában) belül található a Zöld-foki Köztársaság Fogo szigetén. A kis falu masszív, közel 1700 méteres tengerszint feletti magasságban fekszik, mélyen elzárva a Bordeira-kráterperem szinte függőleges, akár 1000 méter magas falaitól. Ennek a falunak a földrajzi létezése egy lenyűgöző harc a természet erőivel: a falut már az 1995-ös, és legutóbb a 2014-es súlyos kitörések során is masszívan elpusztították a kiterjedt lávafolyamok, és teljesen kiürítették, de a rendkívül ellenálló lakosok minden alkalommal visszatértek, hogy házaikat közvetlenül a frissen kihűlt, fekete lávára építsék újjá. E kockázatos visszatérés kényszerítő oka a kráter rendkívül termékeny, ásványi anyagokban erősen gazdag vulkáni talaja. Ez a magassághoz társuló hűvös, gyakran ködös mikroklímával párosulva lehetővé teszi a szőlő, az alma és a gránátalma rendkívül termékeny termesztését. Az ebben a barátságtalan környezetben termelt „Chã bor” (Vinho do Fogo) nemzetközi elismerésnek örvend. Az újjáépített település építészete rendkívül kezdetleges, és gyakran vakolatlan vulkáni kövekből áll, kapcsolat nélkül a központi elektromos hálózattal. Chã das Caldeiras az elmúlt években rohamosan az ökoturisták abszolút mágnesévé vált, akik a krátert használják kihívást jelentő alaptáborként a 2829 méter magas fő kúp megmászásához.",
+        "ro": "Chã das Caldeiras este o așezare absolut unică, extrem de izolată, situată la propriu în interiorul craterului (caldeira) vulcanului activ Pico do Fogo de pe insula Fogo din Capul Verde. Micuțul sat este situat la o altitudine masivă de aproape 1.700 de metri deasupra nivelului mării, închis adânc de pereții aproape verticali, înalți de până la 1.000 de metri, ai marginii craterului stâncos Bordeira. Existența geografică a acestui sat este o luptă fascinantă împotriva forțelor naturii: satul a fost masiv distrus de fluxuri extinse de lavă și evacuat complet în timpul erupțiilor severe din 1995 și mai recent în 2014, dar locuitorii extrem de rezilienți s-au întors de fiecare dată pentru a-și reconstrui casele direct pe lava neagră proaspăt răcită. Motivul convingător al acestei întoarceri riscante este solul vulcanic extrem de fertil și puternic mineralizat din crater. Aceasta se combină cu microclimatul răcoros, adesea cețos al altitudinii și permite cultivarea extrem de productivă a viței de vie, merelor și rodiilor. „Vinul Chã” (Vinho do Fogo) produs în acest mediu inospitalier se bucură de recunoaștere internațională. Arhitectura așezării reconstruite este extrem de rudimentară și constă adesea din roci vulcanice netencuite, fără conexiune la rețeaua electrică centrală. În ultimii ani, Chã das Caldeiras s-a impus rapid ca un magnet absolut pentru ecoturiști, care folosesc craterul ca tabără de bază solicitantă pentru ascensiunea conului principal, înalt de 2.829 de metri.",
+        "en": "Chã das Caldeiras is an absolutely unique, highly isolated settlement located literally directly inside the massive crater (caldera) of the active Pico do Fogo volcano on the island of Fogo in Cape Verde. The tiny village rests securely at a massive elevation of nearly 1,700 meters above sea level, heavily enclosed by the almost completely vertical, up to 1,000-meter-high rock walls of the Bordeira crater rim. The geographical existence of this specific village represents a fascinating, perpetual battle against brutal natural forces: the village was aggressively obliterated by extensive lava flows and fully evacuated during severe eruptions in 1995 and most recently in 2014, yet the extremely resilient residents returned every single time to stubbornly rebuild their homes directly on top of the freshly cooled, deep black lava. The absolutely compelling reason for this highly risky return is the extremely fertile, highly mineralized volcanic soil trapped inside the crater. This rich earth, perfectly combined with the cool, frequently foggy microclimate of the high elevation, allows for the highly productive cultivation of grapevines, apples, and pomegranates. The locally produced \"Chã wine\" (Vinho do Fogo) fermented in this hostile environment aggressively enjoys widespread international acclaim. The structural architecture of the rebuilt settlement is extremely rudimentary, frequently consisting of unplastered volcanic stones completely disconnected from the central electrical grid. Chã das Caldeiras has rapidly established itself as an absolute magnet for brave ecotourists utilizing the caldera as a demanding base camp for climbing the 2,829-meter main volcanic cone."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Ortschaft liegt absolut einzigartig mitten im Krater des aktiven Vulkans Pico do Fogo.",
+          "Das Dorf liegt auf fast 1.700 Metern Höhe und wird von 1.000 Meter hohen Kraterwänden umschlossen.",
+          "Bei heftigen Eruptionen in den Jahren 1995 und 2014 wurde das Dorf durch Lava massiv zerstört.",
+          "Nach den Vulkanausbrüchen bauten die Bewohner ihre Häuser direkt auf der erkalteten Lava wieder auf.",
+          "Der stark mineralhaltige Kraterboden ermöglicht den erfolgreichen, lukrativen Anbau von Weinreben.",
+          "Der hier lokal abgefüllte 'Vinho do Fogo' (Chã-Wein) genießt hohe internationale Anerkennung.",
+          "Die komplett isolierte Siedlung ist bis heute nicht an das zentrale Stromnetz der Insel angeschlossen."
+        ],
+        "hu": [
+          "A település abszolút egyedülálló módon az aktív Pico do Fogo vulkán kráterének kellős közepén fekszik.",
+          "A falu közel 1700 méteres magasságban van, és 1000 méter magas kráterfalak veszik körül.",
+          "Az 1995-ös és 2014-es heves kitörések során a falut masszívan elpusztította a láva.",
+          "A vulkánkitörések után a lakosok házaikat közvetlenül a kihűlt lávára építették újjá.",
+          "Az erősen ásványi anyagokban gazdag krátertalaj lehetővé teszi a szőlő sikeres és jövedelmező termesztését.",
+          "Az itt helyben palackozott 'Vinho do Fogo' (Chã bor) magas nemzetközi elismerésnek örvend.",
+          "A teljesen elszigetelt település a mai napig nincs rákötve a sziget központi elektromos hálózatára."
+        ],
+        "ro": [
+          "Așezarea este absolut unică, situată chiar în mijlocul craterului vulcanului activ Pico do Fogo.",
+          "Satul se află la o altitudine de aproape 1.700 de metri și este înconjurat de pereți ai craterului de 1.000 de metri.",
+          "În timpul erupțiilor severe din 1995 și 2014, satul a fost masiv distrus de lavă.",
+          "După erupțiile vulcanice, locuitorii și-au reconstruit casele direct pe lava răcită.",
+          "Solul craterului bogat în minerale permite cultivarea cu succes și profitabilă a viței de vie.",
+          "Aici este îmbuteliat local 'Vinho do Fogo' (Vinul Chã), bucurându-se de o înaltă recunoaștere internațională.",
+          "Așezarea complet izolată nu este conectată nici astăzi la rețeaua electrică centrală a insulei."
+        ],
+        "en": [
+          "The settlement is absolutely uniquely located right in the dead center of the active Pico do Fogo volcanic crater.",
+          "The isolated village sits at an elevation of nearly 1,700 meters, enclosed tightly by 1,000-meter-high crater walls.",
+          "During severe volcanic eruptions in 1995 and 2014, the village was massively obliterated by flowing lava.",
+          "Following the eruptions, resilient residents forcefully rebuilt their homes directly on top of the newly cooled lava.",
+          "The highly mineralized crater soil actively permits the highly successful, lucrative cultivation of grapevines.",
+          "The locally bottled 'Vinho do Fogo' (Chã wine) aggressively enjoys high international acclaim.",
+          "The completely isolated settlement remains entirely disconnected from the island's central electrical power grid."
+        ]
+      }
+    },
+    {
+      "id": "sal-rei-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sal Rei ist die dynamische und absolut dominierende Hauptstadt der Insel Boa Vista in Kap Verde, gelegen im äußersten Nordwesten der Insel. Der Name der Stadt, der wörtlich als „Salz-König“ übersetzt wird, zeugt historisch von der massiven wirtschaftlichen Bedeutung der Region während der Kolonialzeit. Im 19. Jahrhundert war die Stadt ein extrem lukrativer Umschlagplatz für den Export von hochwertigem Meersalz, das aus den nahegelegenen natürlichen Salinen abgebaut wurde, um den internationalen Handel in Europa und Amerika zu beliefern. Die Geografie der Stadt wird stark von einer weiten, offenen Bucht geprägt, die durch die kleine, flache vorgelagerte Insel Ilhéu de Sal Rei hervorragend vor den gefährlichen atlantischen Meeresströmungen geschützt ist. Auf dieser kleinen Insel befinden sich noch heute die Ruinen des historischen Forte Duque de Bragança, das einst aggressiv zur Verteidigung der reichen Salzfrachter gegen häufige Piratenangriffe errichtet wurde. Heute hat sich die lokale Wirtschaft drastisch und massiv verlagert: Sal Rei ist das explizite Epizentrum des boomenden Tourismussektors von Boa Vista. Die extrem flachen, türkisfarbenen Gewässer und die langen Sandstrände um die Stadt (wie Praia de Cabral) ziehen jährlich Zehntausende internationale Touristen an. Das städtische Bild wandelt sich rasant, wobei koloniale Steinhäuser zunehmend von modernen Apartments, Tauchschulen und lebhaften Restaurants umgeben werden. Trotz des rasanten Wachstums bewahrt die Stadt einen tief verwurzelten afrikanischen Charme mit kleinen, staubigen Plätzen und einem lebendigen Fischmarkt.",
+        "hu": "Sal Rei a Zöld-foki Köztársaság Boa Vista szigetének dinamikus és abszolút domináns fővárosa, amely a sziget legészaknyugatibb részén található. A város neve, amely szó szerint „Sókirályként” fordítható, történelmileg a régió gyarmati korszakbeli masszív gazdasági jelentőségéről tanúskodik. A 19. században a város rendkívül jövedelmező átrakóhely volt a közeli természetes sólepárlókból kitermelt, kiváló minőségű tengeri só exportálására, amely az európai és amerikai nemzetközi kereskedelmet látta el. A város földrajzát erősen meghatározza egy széles, nyitott öböl, amelyet a part menti kicsi, lapos Ilhéu de Sal Rei sziget kiválóan megvéd a veszélyes atlanti tengeráramlatoktól. Ezen a kis szigeten ma is megtalálhatók a történelmi Forte Duque de Bragança romjai, amelyet egykor agresszívan a gazdag sószállító hajók gyakori kalóztámadásokkal szembeni védelmére emeltek. Mára a helyi gazdaság drasztikusan és masszívan átrendeződött: Sal Rei Boa Vista virágzó turisztikai szektorának kifejezett epicentruma. A város körüli rendkívül sekély, türkizkék vizek és a hosszú homokos strandok (mint a Praia de Cabral) évente több tízezer nemzetközi turistát vonzanak. A városkép gyorsan változik, a gyarmati kőházakat egyre inkább modern apartmanok, búváriskolák és nyüzsgő éttermek veszik körül. A gyors növekedés ellenére a város megőrizte mélyen gyökerező afrikai báját kis, poros terekkel és egy nyüzsgő halpiaccal.",
+        "ro": "Sal Rei este capitala dinamică și absolut dominantă a insulei Boa Vista din Capul Verde, situată în extremitatea nord-vestică a insulei. Numele orașului, care se traduce literal prin „Regele Sării”, mărturisește istoric despre importanța economică masivă a regiunii în perioada colonială. În secolul al XIX-lea, orașul a fost un punct de transbordare extrem de profitabil pentru exportul de sare de mare de înaltă calitate, extrasă din salinele naturale din apropiere pentru a aproviziona comerțul internațional în Europa și America. Geografia orașului este puternic influențată de un golf larg și deschis, care este excelent protejat de curenții oceanici atlantici periculoși de către mica insulă plată de coastă Ilhéu de Sal Rei. Pe această mică insulă se află încă ruinele istoricului Forte Duque de Bragança, care a fost construit odată agresiv pentru a apăra navele bogate în sare împotriva atacurilor frecvente ale piraților. Astăzi, economia locală s-a reorientat drastic și masiv: Sal Rei este epicentrul explicit al sectorului turistic în plină expansiune din Boa Vista. Apele extrem de puțin adânci, turcoaz, și plajele lungi de nisip din jurul orașului (cum ar fi Praia de Cabral) atrag anual zeci de mii de turiști internaționali. Peisajul urban se schimbă rapid, casele coloniale de piatră fiind tot mai mult înconjurate de apartamente moderne, școli de scufundări și restaurante pline de viață. În ciuda creșterii rapide, orașul își păstrează un farmec african adânc înrădăcinat, cu piețe mici și prăfuite și o piață de pește plină de viață.",
+        "en": "Sal Rei is the highly dynamic and completely dominant capital city of Boa Vista island in Cape Verde, explicitly positioned in the extreme northwestern corner of the island. The city's name, which literally translates into English as \"Salt King,\" serves as a direct historic testament to the region's massive economic significance during the brutal colonial era. In the 19th century, the town operated as a highly lucrative commercial transit point for the aggressive export of premium sea salt, heavily mined from nearby natural salt pans to supply massive international trade markets across Europe and the Americas. The city's geography is heavily characterized by a broad, open natural bay that is perfectly protected from highly dangerous Atlantic ocean currents by the small, flat offshore islet known as Ilhéu de Sal Rei. This tiny islet still securely holds the historic ruins of the Forte Duque de Bragança, a fortress violently erected to defend wealthy salt freighters against aggressive, frequent pirate attacks. Today, the local economy has drastically and massively shifted direction: Sal Rei is the absolute epicenter of Boa Vista's exploding commercial tourism sector. The extremely shallow, turquoise waters and continuous long sandy beaches surrounding the town (such as Praia de Cabral) aggressively draw tens of thousands of international tourists annually. The urban landscape is changing at breakneck speed, with traditional colonial stone houses increasingly enveloped by modern resort apartments, dive schools, and busy tourist restaurants. Despite the rapid development, the town firmly retains a deeply African atmosphere featuring small, dusty town squares and a fiercely active local fish market."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sal Rei ist die administrative Hauptstadt und das urbane Zentrum der Insel Boa Vista.",
+          "Der Name 'Salz-König' verweist auf die ehemals massive Bedeutung des historischen Salzhandels.",
+          "Die kleine vorgelagerte Insel Ilhéu de Sal Rei schützt die Hauptbucht vor rauen Strömungen.",
+          "Auf der kleinen Insel stehen die steinernen Ruinen des historischen Forte Duque de Bragança.",
+          "Früher schützte das Fort die wertvollen Salzschiffe aktiv vor aggressiven Piratenüberfällen.",
+          "Die lokale Wirtschaft hat sich massiv vom reinen Salzexport auf den internationalen Tourismus verlagert.",
+          "Die extrem flachen, warmen Küstengewässer machen den Ort heute zu einem Magneten für Schwimmer."
+        ],
+        "hu": [
+          "Sal Rei Boa Vista szigetének adminisztratív fővárosa és városi központja.",
+          "A 'Sókirály' név a történelmi sókereskedelem egykori masszív jelentőségére utal.",
+          "A part menti kis Ilhéu de Sal Rei sziget megvédi a fő öblöt a zord áramlatoktól.",
+          "A kis szigeten találhatók a történelmi Forte Duque de Bragança kőromjai.",
+          "Korábban az erőd aktívan védte az értékes sószállító hajókat az agresszív kalóztámadásoktól.",
+          "A helyi gazdaság a tiszta sóexportról masszívan a nemzetközi turizmusra helyeződött át.",
+          "A rendkívül sekély, meleg parti vizek ma a fürdőzők mágnesévé teszik a helyet."
+        ],
+        "ro": [
+          "Sal Rei este capitala administrativă și centrul urban al insulei Boa Vista.",
+          "Numele 'Regele Sării' face referire la importanța masivă anterioară a comerțului istoric cu sare.",
+          "Mica insulă de coastă Ilhéu de Sal Rei protejează golful principal de curenții aspri.",
+          "Ruinele de piatră ale istoricului Forte Duque de Bragança se află pe mica insulă.",
+          "În trecut, fortul proteja activ prețioasele nave de sare de atacurile agresive ale piraților.",
+          "Economia locală s-a reorientat masiv de la exportul pur de sare la turismul internațional.",
+          "Apele de coastă extrem de puțin adânci și calde fac din loc astăzi un magnet pentru înotători."
+        ],
+        "en": [
+          "Sal Rei officially operates as the primary administrative capital and urban center of Boa Vista island.",
+          "The English name 'Salt King' explicitly references the massively important historic sea salt trade.",
+          "The small offshore islet of Ilhéu de Sal Rei perfectly protects the main bay from rough ocean currents.",
+          "The tiny islet firmly holds the decaying stone ruins of the historic Forte Duque de Bragança.",
+          "Historically, the fortress aggressively protected the highly valuable salt freighters from violent pirate attacks.",
+          "The modern local economy has completely and massively shifted from salt export to international tourism.",
+          "The extremely shallow, consistently warm coastal waters make the city a massive magnet for beachgoers."
+        ]
+      }
+    },
+    {
+      "id": "estancia-de-baixo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Estância de Baixo ist eine extrem kleine, stark abgelegene ländliche Siedlung im westlichen Landesinneren der Insel Boa Vista in Kap Verde, geografisch eingebettet in ein wüstenähnliches Tal nur wenige Kilometer südöstlich der Inselhauptstadt Sal Rei. Die physische Umgebung des Dorfes ist absolut geprägt von der unmittelbaren Nähe zum Deserto de Viana, einer spektakulären und massiven Sandwüste, die aus extrem feinem, weißem Saharasand besteht, der kontinuierlich vom stetigen Passatwind (Harmattan) über den Ozean getragen und hier abgelagert wird. Dieser unerbittliche Sandflug bedroht das Dorf physisch durch stetige Dünenverschiebungen. Ökologisch stellt Estância de Baixo jedoch eine bemerkenswerte grüne Oase innerhalb dieser ansonsten toten, extrem ariden Mondlandschaft dar. Das flache Becken profitiert von winzigen unterirdischen Wasserspeichern, die das Überleben von dichten Gruppen von Dattelpalmen und Kokospalmen ermöglichen. Die Wirtschaft der kleinen Siedlung ist extrem rudimentär und zutiefst traditionell; die Einwohner sind massiv auf begrenzte Subsistenzlandwirtschaft und die aufopferungsvolle Zucht von Ziegen angewiesen, die auf der kargen Vegetation weiden. In jüngster Zeit hat die starke Ausweitung des Tourismus in Sal Rei begonnen, die demografische Struktur von Estância de Baixo zu verändern, da viele junge Bewohner das isolierte Dorf täglich verlassen, um als Servicekräfte oder Bauarbeiter in den riesigen Küstenresorts der Hauptstadt zu arbeiten.",
+        "hu": "Estância de Baixo egy rendkívül apró, erősen elszigetelt vidéki település a Zöld-foki Köztársaság Boa Vista szigetének nyugati belső részén, földrajzilag egy sivatagszerű völgybe ágyazódva, alig néhány kilométerre délkeletre a sziget fővárosától, Sal Reitől. A falu fizikai környezetét abszolút mértékben meghatározza a Deserto de Viana közvetlen közelsége. Ez egy látványos és masszív homoksivatag, amely rendkívül finom, fehér szaharai homokból áll, amelyet a folyamatos passzátszél (Harmattan) az óceánon keresztül hoz és itt rak le. Ez a könyörtelen homokfúvás az állandó dűnevándorlás révén fizikailag is fenyegeti a falut. Ökológiai szempontból azonban Estância de Baixo egy figyelemre méltó zöld oázis ebben az egyébként halott, rendkívül száraz holdbéli tájban. A lapos medence apró földalatti víztározókból profitál, amelyek lehetővé teszik a datolyapálmák és kókuszpálmák sűrű csoportjainak túlélését. A kis település gazdasága rendkívül kezdetleges és mélyen hagyományos; a lakosok masszívan a korlátozott létfenntartó mezőgazdaságra és a ritkás növényzeten legelésző kecskék önfeláldozó tenyésztésére vannak utalva. Az utóbbi időben a Sal Reiben tapasztalható erős turizmusbővülés kezdte megváltoztatni Estância de Baixo demográfiai szerkezetét, mivel sok fiatal lakos hagyja el naponta az elszigetelt falut, hogy felszolgálóként vagy építőmunkásként dolgozzon a főváros hatalmas tengerparti üdülőhelyein.",
+        "ro": "Estância de Baixo este o așezare rurală extrem de mică și foarte izolată din interiorul vestic al insulei Boa Vista din Capul Verde, cuibărită geografic într-o vale asemănătoare unui deșert la doar câțiva kilometri sud-est de capitala insulei, Sal Rei. Mediul fizic al satului este definit absolut de proximitatea sa imediată de Deserto de Viana, un deșert de nisip spectaculos și masiv format din nisip saharian alb, extrem de fin, care este transportat continuu peste ocean de vânturile alizee constante (Harmattan) și depus aici. Aceste furtuni de nisip neiertătoare amenință fizic satul prin deplasarea constantă a dunelor. Ecologic, însă, Estância de Baixo reprezintă o oază verde remarcabilă în acest peisaj selenar altfel mort și extrem de arid. Bazinul puțin adânc beneficiază de rezervoare subterane minuscule de apă care permit supraviețuirea unor grupuri dense de curmali și cocotieri. Economia micii așezări este extrem de rudimentară și profund tradițională; locuitorii se bazează masiv pe o agricultură de subzistență limitată și pe creșterea sacrificată a caprelor care pasc vegetația rară. În ultima vreme, marea expansiune a turismului în Sal Rei a început să modifice structura demografică din Estância de Baixo, pe măsură ce mulți locuitori tineri părăsesc zilnic satul izolat pentru a lucra ca personal de serviciu sau constructori în imensele stațiuni de coastă ale capitalei.",
+        "en": "Estância de Baixo is an extremely tiny, highly isolated rural settlement located in the western interior of Boa Vista island in Cape Verde, geographically nestled firmly within a desert-like valley merely a few kilometers southeast of the island's capital, Sal Rei. The physical environment of the village is absolutely dominated by its immediate proximity to the Deserto de Viana, a spectacular and massive sand desert constructed entirely of extremely fine, white Saharan sand continuously carried across the ocean and deposited here by the steady trade winds (Harmattan). This relentless blowing sand physically threatens the village through constant, aggressive dune shifts. Ecologically, however, Estância de Baixo serves as a highly remarkable green oasis strictly within this otherwise dead, extremely arid lunar landscape. The shallow topographical basin benefits from tiny underground water aquifers that actively permit the unlikely survival of dense clusters of date palms and coconut trees. The economy of the small settlement is extremely rudimentary and deeply traditional; the local inhabitants rely massively on highly limited subsistence agriculture and the arduous raising of goats that graze aggressively on the sparse, brittle vegetation. In recent times, the massive explosion of commercial tourism in Sal Rei has directly begun to alter the demographic structure of Estância de Baixo, as many young residents depart the isolated village daily to work as service staff or construction laborers in the massive coastal resorts of the capital."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die extrem kleine ländliche Siedlung liegt im trockenen Westen der Insel Boa Vista.",
+          "Geografisch grenzt der Ort massiv an die riesigen Wanderdünen des Deserto de Viana.",
+          "Der feine Sand der Wüste wurde über den Ozean direkt aus der Sahara hierher geblasen.",
+          "Das Dorf funktioniert ökologisch als eine bemerkenswerte, seltene Oase voller Dattelpalmen.",
+          "Unterirdische Wasserspeicher in der Senke ermöglichen das Überleben der Pflanzen im Wüstenklima.",
+          "Die lokale Tageswirtschaft der Einwohner stützt sich stark auf die harte Zucht von Ziegen.",
+          "Viele Dorfbewohner pendeln heute zum Arbeiten in die riesigen Touristenresorts in Sal Rei."
+        ],
+        "hu": [
+          "A rendkívül kis vidéki település Boa Vista szigetének száraz nyugati részén fekszik.",
+          "Földrajzilag a hely masszívan határos a Deserto de Viana hatalmas vándordűnéivel.",
+          "A sivatag finom homokját az óceánon keresztül közvetlenül a Szaharából fújta ide a szél.",
+          "A falu ökológiailag egy figyelemre méltó, ritka oázisként működik, tele datolyapálmákkal.",
+          "A medencében lévő föld alatti víztározók teszik lehetővé a növények túlélését a sivatagi éghajlaton.",
+          "A lakosok helyi napi gazdasága erősen a kecskék kemény tenyésztésére támaszkodik.",
+          "Ma sok falusi lakos ingázik dolgozni a Sal Reiben található hatalmas turistaközpontokba."
+        ],
+        "ro": [
+          "Așezarea rurală extrem de mică este situată în vestul uscat al insulei Boa Vista.",
+          "Geografic, locul se învecinează masiv cu dunele uriașe în mișcare din Deserto de Viana.",
+          "Nisipul fin al deșertului a fost suflat aici peste ocean direct din Sahara.",
+          "Satul funcționează ecologic ca o oază remarcabilă, rară, plină de curmali.",
+          "Rezervoarele de apă subterane din depresiune permit plantelor să supraviețuiască în climatul deșertic.",
+          "Economia zilnică locală a locuitorilor se bazează puternic pe creșterea dură a caprelor.",
+          "Astăzi, mulți săteni fac naveta pentru a lucra în stațiunile turistice uriașe din Sal Rei."
+        ],
+        "en": [
+          "The extremely tiny rural settlement is firmly located in the highly arid western region of Boa Vista.",
+          "Geographically, the town massively borders the shifting, gigantic sand dunes of the Deserto de Viana.",
+          "The incredibly fine desert sand was physically blown across the ocean directly from the African Sahara.",
+          "The village operates ecologically as a highly remarkable, extremely rare green oasis full of date palms.",
+          "Tiny underground water aquifers in the basin explicitly allow the plants to survive the desert climate.",
+          "The daily local economy of the residents relies heavily on the arduous breeding and raising of goats.",
+          "Many villagers now aggressively commute to work inside the massive tourist resort complexes in Sal Rei."
+        ]
+      }
+    },
+    {
+      "id": "fundo-das-figueiras-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Fundo das Figueiras ist ein extrem malerisches, zutiefst traditionelles landwirtschaftliches Dorf, das isoliert im weiten östlichen Teil der kapverdischen Insel Boa Vista liegt. Die abgelegene Ortschaft profitiert geografisch von einer spezifischen, flachen Senke im ansonsten rauen und kargen Terrain der Insel, in der sich spärliche Regenmassen sammeln und so eine für Boa Vista ungewöhnlich grüne Mikroumgebung fördern. Diese Feuchtigkeit ermöglicht den lokalen Bauern die harte Subsistenzlandwirtschaft, primär den Anbau von Bohnen, Mais und verschiedenen Obstbäumen, was dem Dorf seinen historischen landwirtschaftlichen Charakter verleiht. Architektonisch ist Fundo das Figueiras landesweit berühmt für sein außergewöhnlich sauberes, symmetrisches Straßenbild, das fast ausschließlich aus kleinen, einstöckigen Häusern besteht, die in extrem leuchtenden, leuchtenden Pastellfarben gestrichen sind und durch historische Kopfsteinpflasterstraßen getrennt werden. Das unbestrittene historische Herz des Ortes ist die malerische, reinweiß gestrichene Kirche São João Baptista. Kulturell ist das Dorf das absolute Epizentrum der traditionellen Inselfeste, wobei die massiven Feierlichkeiten im Juni zu Ehren von São João (Johannes der Täufer) die gesamte Ortschaft mit Trommelrhythmen und Straßenparaden überschwemmen. Ökologisch fungiert das Dorf als absolut kritisches logistisches Basislager für internationale Umweltschützer; die nahen, extrem abgelegenen östlichen Strände (wie Porto Ferreira) sind eine der weltweit wichtigsten Niststätten für die stark bedrohten Unechten Karettschildkröten (Caretta caretta).",
+        "hu": "Fundo das Figueiras egy rendkívül festői, mélyen hagyományőrző mezőgazdasági falu, amely elszigetelten fekszik a zöld-foki Boa Vista sziget kiterjedt keleti részén. A távoli település földrajzilag egy specifikus, lapos mélyedésből profitál a sziget egyébként zord és kietlen terepén, ahol a gyér esővíz összegyűlik, így Boa Vistához képest szokatlanul zöld mikrokörnyezetet hozva létre. Ez a nedvesség teszi lehetővé a helyi gazdák számára a kemény létfenntartó mezőgazdaságot, elsősorban a bab, a kukorica és a különböző gyümölcsfák termesztését, ami a falu történelmi mezőgazdasági karakterét adja. Építészetileg Fundo das Figueiras országszerte híres a kivételesen tiszta, szimmetrikus utcaképéről, amely szinte kizárólag apró, egyszintes, rendkívül élénk pasztellszínekre festett házakból áll, amelyeket történelmi macskaköves utcák választanak el egymástól. A hely vitathatatlan történelmi szíve a festői, hófehérre festett São João Baptista templom. Kulturálisan a falu a hagyományos szigeti fesztiválok abszolút epicentruma, a júniusi masszív ünnepségek São João (Keresztelő Szent János) tiszteletére dobritmusokkal és utcai felvonulásokkal árasztják el az egész települést. Ökológiailag a falu abszolút kritikus logisztikai alaptáborként funkcionál a nemzetközi környezetvédők számára; a közeli, rendkívül távoli keleti strandok (mint Porto Ferreira) a világ egyik legfontosabb fészkelőhelyei az erősen veszélyeztetett álcserepesteknősök (Caretta caretta) számára.",
+        "ro": "Fundo das Figueiras este un sat agricol extrem de pitoresc, profund tradițional, situat izolat în vasta parte de est a insulei capverdiene Boa Vista. Așezarea îndepărtată beneficiază geografic de o depresiune specifică, plată, pe terenul altfel aspru și steril al insulei, în care se colectează ploi rare, promovând astfel un micromediu neobișnuit de verde pentru Boa Vista. Această umiditate permite fermierilor locali o agricultură de subzistență dură, în primul rând cultivarea fasolei, porumbului și a diverși pomi fructiferi, dând satului caracterul său agricol istoric. Din punct de vedere arhitectural, Fundo das Figueiras este renumit la nivel național pentru peisajul său stradal excepțional de curat și simetric, constând aproape exclusiv din case mici, cu un singur etaj, pictate în culori pastelate extrem de vibrante, separate prin străzi pietruite istorice. Inima istorică incontestabilă a locului este biserica pitorească, vopsită complet în alb, São João Baptista. Din punct de vedere cultural, satul este epicentrul absolut al festivalurilor tradiționale ale insulei, sărbătorile masive din iunie în onoarea lui São João (Sfântul Ioan Botezătorul) inundând întreaga așezare cu ritmuri de tobe și parade stradale. Ecologic, satul funcționează ca o tabără de bază logistică absolut critică pentru ecologiștii internaționali; plajele estice extrem de izolate din apropiere (cum ar fi Porto Ferreira) sunt unul dintre cele mai importante locuri de cuibărit din lume pentru broaștele țestoase Caretta caretta, care sunt puternic amenințate.",
+        "en": "Fundo das Figueiras is an extremely picturesque, deeply traditional agricultural village located in heavy isolation within the vast eastern portion of the Cape Verdean island of Boa Vista. The remote settlement benefits geographically from a specific, flattened topographical depression within the island's otherwise harsh, totally barren terrain, where sparse rainfall tightly collects to foster a micro-environment that is unusually green for Boa Vista. This trapped moisture explicitly allows local farmers to engage in grueling subsistence agriculture, primarily cultivating beans, corn, and various fruit trees, which provides the village with its deeply historic agricultural character. Architecturally, Fundo das Figueiras is famous nationwide for its exceptionally clean, highly symmetrical streetscapes, consisting almost exclusively of tiny, single-story homes painted in extremely vibrant, bright pastel colors separated by historic cobblestone streets. The completely undisputed historic heart of the village is the quaint, pure white painted São João Baptista church. Culturally, the village operates as the absolute epicenter of traditional island festivals, with the massive June celebrations honoring São João (St. John the Baptist) flooding the entire settlement with aggressive drum rhythms and massive street parades. Ecologically, the village functions actively as an absolutely critical logistical base camp for international environmentalists; the nearby, extremely remote eastern beaches (such as Porto Ferreira) serve as one of the world's most important nesting sites for highly endangered loggerhead sea turtles (Caretta caretta)."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das abgelegene Dorf liegt massiv isoliert im trockenen, weiten Ostteil der Insel Boa Vista.",
+          "Eine topografische Bodensenke sammelt hier Regenwasser und ermöglicht extrem harte Landwirtschaft.",
+          "Die Einwohner kultivieren hier traditionell kleine Mengen an Bohnen, Mais und verschiedenen Obstbäumen.",
+          "Das Straßenbild ist berühmt für seine extrem bunten, einstöckigen Häuser und sauberen Pflastersteine.",
+          "Die blendend weiße Kirche São João Baptista bildet das historische, religiöse Zentrum des Dorfes.",
+          "Der Monat Juni bringt massive, extrem laute Straßenfestivals zu Ehren von Johannes dem Täufer.",
+          "Die nahen Ozeanstrände sind weltweit einer der kritischsten Nistplätze für bedrohte Meeresschildkröten."
+        ],
+        "hu": [
+          "A távoli falu masszívan elszigetelve fekszik a Boa Vista sziget száraz, kiterjedt keleti részén.",
+          "Egy topográfiai mélyedés itt összegyűjti az esővizet, és rendkívül kemény mezőgazdaságot tesz lehetővé.",
+          "A lakosok itt hagyományosan kis mennyiségű babot, kukoricát és különféle gyümölcsfákat termesztenek.",
+          "Az utcakép a rendkívül színes, egyszintes házakról és a tiszta macskakövekről híres.",
+          "A vakítóan fehér São João Baptista templom alkotja a falu történelmi, vallási központját.",
+          "A június hónap hatalmas, rendkívül hangos utcai fesztiválokat hoz Keresztelő János tiszteletére.",
+          "A közeli óceáni strandok a veszélyeztetett tengeri teknősök egyik legkritikusabb fészkelőhelye világszerte."
+        ],
+        "ro": [
+          "Satul îndepărtat este masiv izolat în partea de est, uscată și vastă, a insulei Boa Vista.",
+          "O depresiune topografică colectează aici apa de ploaie și permite o agricultură extrem de dură.",
+          "Locuitorii cultivă aici în mod tradițional cantități mici de fasole, porumb și diverși pomi fructiferi.",
+          "Peisajul stradal este renumit pentru casele sale cu un singur etaj, extrem de colorate și piatra de pavaj curată.",
+          "Biserica de un alb orbitor São João Baptista formează centrul istoric, religios al satului.",
+          "Luna iunie aduce festivaluri stradale masive, extrem de zgomotoase în onoarea lui Ioan Botezătorul.",
+          "Plajele din apropiere ale oceanului sunt unul dintre cele mai critice locuri de cuibărit pentru broaștele țestoase marine amenințate din întreaga lume."
+        ],
+        "en": [
+          "The remote village is massively isolated within the highly dry, sprawling eastern section of Boa Vista island.",
+          "A specific topographical basin efficiently collects rainwater here, permitting extremely harsh subsistence agriculture.",
+          "Local inhabitants traditionally cultivate strictly limited quantities of tough beans, corn, and various fruit trees.",
+          "The visual streetscape is universally famous for its extremely colorful, single-story homes and clean cobblestones.",
+          "The blindingly white-painted São João Baptista church firmly establishes the historic, religious center of the village.",
+          "The month of June aggressively brings massive, extremely loud street festivals honoring St. John the Baptist.",
+          "The nearby ocean beaches explicitly serve as one of the world's absolute most critical nesting sites for endangered sea turtles."
+        ]
+      }
+    }
+  ]
+}

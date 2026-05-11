@@ -1,0 +1,90 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts",
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-trinity-hills-wildlife-sanctuary-nature-v2",
+      "description": "Sanctuar pentru viața sălbatică situat în dealurile Trinity, oferind un habitat protejat pentru diverse specii.",
+      "facts": ["Sanctuar", "Viață sălbatică", "Dealurile Trinity"]
+    },
+    {
+      "id": "tt-erin-bay-nature-v2",
+      "description": "Golful Erin, o zonă naturală de coastă cu o geologie remarcabilă și peisaje marine liniștite.",
+      "facts": ["Zonă de coastă", "Geologie", "Peisaj marin"]
+    },
+    {
+      "id": "tt-saut-d-eau-island-nature-v2",
+      "description": "Insula Saut d'Eau, un paradis natural cu o biodiversitate marină și terestră impresionantă.",
+      "facts": ["Insulă", "Biodiversitate", "Paradis natural"]
+    },
+    {
+      "id": "tt-southeastern-hills-relief-v2",
+      "description": "Dealurile din sud-estul insulei, caracterizate prin relief variat și acoperire forestieră.",
+      "facts": ["Sud-est", "Relief variat", "Zonă împădurită"]
+    },
+    {
+      "id": "tt-arippo-valley-relief-v2",
+      "description": "Valea Arippo, o zonă joasă înconjurată de dealuri, importantă pentru ecosistemele sale locale.",
+      "facts": ["Valea", "Zonă joasă", "Ecosistem"]
+    },
+    {
+      "id": "tt-caroni-plain-relief-v2",
+      "description": "Câmpia Caroni, o regiune plată și fertilă, crucială pentru agricultura și dezvoltarea economică.",
+      "facts": ["Câmpie", "Fertilitate", "Agricultură"]
+    },
+    {
+      "id": "tt-nariva-swamp-relief-v2",
+      "description": "Relief format din zone umede și mlaștini, esențial pentru reglarea ecosistemelor din insulă.",
+      "facts": ["Mlaștini", "Zonă umedă", "Ecosistem"]
+    },
+    {
+      "id": "tt-guayaguayare-lowlands-relief-v2",
+      "description": "Zonele joase din Guayaguayare, cu relief dominat de câmpii de coastă și formațiuni sedimentare.",
+      "facts": ["Zone joase", "Câmpii de coastă", "Geologie"]
+    },
+    {
+      "id": "tt-cedros-peninsula-relief-v2",
+      "description": "Peninsula Cedros, o fâșie de uscat cu relief variat, extinzându-se în Oceanul Atlantic.",
+      "facts": ["Peninsulă", "Relief variat", "Coasta"]
+    },
+    {
+      "id": "tt-blanchisseuse-slopes-relief-v2",
+      "description": "Versanții Blanchisseuse, o zonă deluroasă cu pante abrupte și vegetație tropicală.",
+      "facts": ["Zona deluroasă", "Pante abrupte", "Vegetație"]
+    },
+    {
+      "id": "tt-valencia-plateau-relief-v2",
+      "description": "Platoul Valencia, o formațiune geografică ridicată care oferă perspective largi asupra zonei.",
+      "facts": ["Platou", "Formațiune geografică", "Perspectivă"]
+    },
+    {
+      "id": "tt-sangre-grande-hills-relief-v2",
+      "description": "Dealurile din Sangre Grande, o regiune cu un relief complex și acoperire forestieră densă.",
+      "facts": ["Regiune deluroasă", "Relief complex", "Pădure"]
+    },
+    {
+      "id": "tt-mayaro-coast-lowlands-relief-v2",
+      "description": "Zonele joase de coastă din Mayaro, caracterizate prin plaje extinse și terenuri plane.",
+      "facts": ["Coasta", "Zone joase", "Plaje"]
+    },
+    {
+      "id": "tt-brasso-valleys-relief-v2",
+      "description": "Văile Brasso, o regiune cu un relief colinar și un peisaj rural tradițional.",
+      "facts": ["Văi", "Relief colinar", "Peisaj rural"]
+    },
+    {
+      "id": "tt-matelot-rugged-coast-relief-v2",
+      "description": "Coasta accidentată din Matelot, marcată de stânci și peisaje marine dramatice.",
+      "facts": ["Coasta accidentată", "Stânci", "Peisaj dramatic"]
+    },
+    {
+      "id": "tt-tabaquite-hills-relief-v2",
+      "description": "Dealurile Tabaquite, o zonă de relief ridicat în inima insulei, cu vederi panoramice.",
+      "facts": ["Relief ridicat", "Inima insulei", "Vederea panoramică"]
+    }
+  ]
+}

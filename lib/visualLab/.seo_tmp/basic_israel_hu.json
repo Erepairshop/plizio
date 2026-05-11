@@ -1,0 +1,150 @@
+{
+  "lang": "hu",
+  "country": "Israel",
+  "files": [
+    "lib/visualLab/data/poiExtraIsraelLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIsraelNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dome-of-the-rock-landmarks-v2",
+      "description": "Jeruzsálem óvárosának ikonikus épülete az aranykupolás szentély, amely az iszlám egyik legfontosabb zarándokhelye a Templom-hegyen.",
+      "facts": [
+        "691-ben készült el",
+        "Omajjád stílusú építészet",
+        "Ikonikus arany kupola",
+        "A Templom-hegy központja"
+      ]
+    },
+    {
+      "id": "bahai-gardens-haifa-landmarks-v2",
+      "description": "A Kármel-hegy oldalában elterülő 19 teraszból álló függőkert Haifa városának leglátványosabb és legszebb nevezetessége.",
+      "facts": [
+        "UNESCO Világörökség része",
+        "19 lenyűgöző terasz",
+        "A Báb-szentély körül fekszik",
+        "Szimmetrikus kialakítás"
+      ]
+    },
+    {
+      "id": "mount-of-olives-landmarks-v2",
+      "description": "A Jeruzsálem keleti részén fekvő domb fontos vallási helyszín, ahonnan lélegzetelállító kilátás nyílik az óvárosra.",
+      "facts": [
+        "826 méter magas csúcs",
+        "Ősi zsidó temető található itt",
+        "Fontos bibliai helyszín",
+        "Panorámás kilátás Jeruzsálemre"
+      ]
+    },
+    {
+      "id": "al-aqsa-mosque-landmarks-v2",
+      "description": "Az iszlám vallás harmadik legszentebb mecsete, amely Jeruzsálem óvárosában, a Templom-hegy déli részén található.",
+      "facts": [
+        "A 8. század elején épült",
+        "5000 hívő befogadására alkalmas",
+        "Ezüst kupolájáról ismerhető fel",
+        "Fontos vallási központ"
+      ]
+    },
+    {
+      "id": "timna-park-landmarks-v2",
+      "description": "A Negev-sivatagban található nemzeti park különleges sziklaalakzatairól és a világ legrégebbi rézbányáiról nevezetes.",
+      "facts": [
+        "Salamon oszlopai sziklaformáció",
+        "Ősi egyiptomi rézbányák",
+        "Vörös homokkő alakzatok",
+        "A sivatag szívében fekszik"
+      ]
+    },
+    {
+      "id": "underwater-observatory-eilat-landmarks-v2",
+      "description": "Eilat tengerpartján található különleges építmény, ahol a látogatók a víz szintje alatt csodálhatják meg a Vörös-tenger élővilágát.",
+      "facts": [
+        "6 méterrel a víz alatt",
+        "Látványos korallzátonyok",
+        "Több mint 800 faj látható",
+        "Interaktív tengeri park"
+      ]
+    },
+    {
+      "id": "mount-zion-landmarks-v2",
+      "description": "A Jeruzsálem óvárosának falain kívül eső domb számos történelmi és vallási emlékhelynek, köztük Dávid király sírjának ad otthont.",
+      "facts": [
+        "Dávid király sírja",
+        "Az Utolsó Vacsora terme",
+        "Dormitio-apátság",
+        "Történelmi zarándokhely"
+      ]
+    },
+    {
+      "id": "mount-of-beatitudes-landmarks-v2",
+      "description": "A Galileai-tenger északi partján emelkedő domb a hagyomány szerint Jézus hegyi beszédének a helyszíne.",
+      "facts": [
+        "Nyolcszögletű templom",
+        "Kilátás a Genezáreti-tóra",
+        "Ferences rendi kolostor",
+        "Békés, parkosított környezet"
+      ]
+    },
+    {
+      "id": "makhtesh-ramon-landmarks-v2",
+      "description": "A világ legnagyobb eróziós krátere a Negev-sivatagban, amely egyedülálló geológiai betekintést nyújt a földtörténetbe.",
+      "facts": [
+        "40 kilométer hosszú",
+        "Egyedülálló geológiai ablak",
+        "Mitzpe Ramon városa a peremén",
+        "Védett természeti terület"
+      ]
+    },
+    {
+      "id": "gethsemane-landmarks-v2",
+      "description": "Az Olajfák hegyének lábánál fekvő kert ősi olajfáiról ismert, ahol a bibliai hagyomány szerint Jézus az elfogatása előtt imádkozott.",
+      "facts": [
+        "Több száz éves olajfák",
+        "A Nemzetek Temploma mellett",
+        "Bibliai események helyszíne",
+        "Jeruzsálem keleti szélén"
+      ]
+    },
+    {
+      "id": "azrieli-center-landmarks-v2",
+      "description": "Tel-Aviv egyik legmodernebb jelképe, amely három különleges formájú – kör, háromszög és négyzet alapú – felhőkarcolóból áll.",
+      "facts": [
+        "Három ikonikus torony",
+        "Kilátóterasz a 49. emeleten",
+        "Bevásárlóközpont az alján",
+        "Modern üzleti negyed"
+      ]
+    },
+    {
+      "id": "il-ein-gedi-nature-v2",
+      "description": "A Holt-tenger partján fekvő oázis és természetvédelmi terület buja növényzetével és vízeséseivel tűnik ki a sivatagi környezetből.",
+      "facts": [
+        "Dávid-vízesés",
+        "Kőszáli kecskék élőhelye",
+        "Ősi zsinagóga romjai",
+        "Édesvízi források"
+      ]
+    },
+    {
+      "id": "il-yehudiya-forest-nature-v2",
+      "description": "A Golán-fennsíkon található nemzeti park mély kanyonjairól, vulkanikus szikláiról és hűsítő természetes medencéiről ismert.",
+      "facts": [
+        "Bazalt sziklafalak",
+        "Yehudiya-vízesés",
+        "Népszerű túraútvonalak",
+        "Vulkanikus eredetű táj"
+      ]
+    },
+    {
+      "id": "il-banias-nature-v2",
+      "description": "A Hermon-hegy lábánál fakadó források mentén elterülő park Izrael egyik legnagyobb vízesésének és ókori romoknak ad otthont.",
+      "facts": [
+        "Banias-vízesés",
+        "Pán isten szentélyének romjai",
+        "A Jordán folyó egyik forrása",
+        "Dús szubtrópusi növényzet"
+      ]
+    }
+  ]
+}

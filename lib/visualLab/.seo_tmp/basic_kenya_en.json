@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLifeV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yatta-plateau-relief-v2",
+      "description": "The world's longest lava flow, stretching over 290 kilometers and forming a prominent ridge in the Tsavo ecosystem.",
+      "facts": [
+        "World's longest lava flow",
+        "Formed from phonolite lava",
+        "Key geological feature of Tsavo East"
+      ]
+    },
+    {
+      "id": "kinangop-plateau-relief-v2",
+      "description": "A high-altitude plateau situated between the Aberdare Range and the Rift Valley, known for its cool climate and agriculture.",
+      "facts": [
+        "High-altitude mountain plateau",
+        "Important agricultural region",
+        "Located in the central highlands"
+      ]
+    },
+    {
+      "id": "mount-satima-relief-v2",
+      "description": "The rugged volcanic peak that forms the highest point of the Aberdares, characterized by its rocky terrain and alpine moorland.",
+      "facts": [
+        "Highest peak in the Aberdares",
+        "Prominent volcanic relief feature",
+        "Offers views of Mount Kenya and the Rift"
+      ]
+    },
+    {
+      "id": "ndere-island-relief-v2",
+      "description": "A small, hilly island in Lake Victoria, known for its scenic relief and as a sanctuary for diverse birdlife and impalas.",
+      "facts": [
+        "Volcanic island in Lake Victoria",
+        "National park and wildlife sanctuary",
+        "Features scenic rolling hills"
+      ]
+    },
+    {
+      "id": "kacheliba-plains-relief-v2",
+      "description": "Extensive semi-arid plains in West Pokot, characterized by flat terrain and scattered acacia trees.",
+      "facts": [
+        "Vast semi-arid lowlands",
+        "Located in the Pokot region",
+        "Important seasonal grazing land"
+      ]
+    }
+  ]
+}

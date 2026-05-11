@@ -1,0 +1,18 @@
+{
+  "lang": "ro",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sidi-bou-zid-cities-v2",
+      "description": "Sidi Bouzid este situat în centrul țării, fiind cunoscut în special pentru importanța sa în agricultura regională. Orașul are un rol activ în economia locală.",
+      "facts": ["Regiune agricolă", "Centru de distribuție", "Climat semi-arid", "Producție de fructe"]
+    }
+  ]
+}

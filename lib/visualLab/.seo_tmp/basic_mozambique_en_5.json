@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "A magnificent freshwater lake shared with Malawi and Tanzania, known for its unique biodiversity.",
+      "facts": ["Great African Lake", "Rich freshwater fish life", "Shared international border", "Deepwater ecosystem"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "A striking mountain massif within the Gorongosa National Park, influencing local weather and biodiversity.",
+      "facts": ["Massive elevation range", "Local climate influence", "Biodiversity hotspot", "National park feature"]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "description": "A major river flowing through southern Mozambique, vital for local ecosystems and agriculture.",
+      "facts": ["Major Southern African river", "Supports biodiversity", "Agricultural lifeblood", "Indian Ocean estuary"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "A chain of islands known for their coral reefs and marine life protection.",
+      "facts": ["Coastal island chain", "Marine protection zone", "Coral reef habitat", "Vibrant underwater life"]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "description": "A large, biologically diverse bay that plays a significant role in coastal marine life.",
+      "facts": ["Large coastal bay", "Biodiversity hub", "Mangrove ecosystems", "Marine species sanctuary"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "A collection of 32 islands off the coast, home to diverse ecosystems and protected nature reserves.",
+      "facts": ["32 island group", "Diverse ecosystem range", "Nature reserve network", "Indian Ocean setting"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "A scenic mountainous area offering unique views and diverse local flora.",
+      "facts": ["Scenic massif", "Regional vegetation", "Mountain landscape", "Nature highlight"]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "description": "A river forming part of the border between Mozambique and Tanzania.",
+      "facts": ["International border river", "Ecologically important", "Supports riparian life", "Flows to Indian Ocean"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "A small island known for its coastal beauty and local marine environment.",
+      "facts": ["Coastal island", "Local marine area", "Natural coastal beauty", "Nature spot"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "A lake in northern Mozambique, supporting local wildlife and fishing communities.",
+      "facts": ["Northern lake area", "Supports aquatic life", "Fishing ecosystem", "Wetland landscape"]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "description": "A mountainous landmark within central Mozambique contributing to regional biodiversity.",
+      "facts": ["Mountain area", "Regional biodiversity", "Scenic landscape", "Central nature zone"]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "Various aquatic environments within the Gaza region supporting diverse wildlife.",
+      "facts": ["Regional aquatic zone", "Wildlife habitat", "Lake ecosystem", "Water landscape"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "A small coastal island known for its natural marine and birdlife.",
+      "facts": ["Coastal environment", "Marine and bird life", "Natural island setting", "Coastal nature"]
+    }
+  ]
+}

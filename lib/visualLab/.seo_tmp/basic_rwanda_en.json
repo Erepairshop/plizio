@@ -1,0 +1,88 @@
+{
+  "lang": "en",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLifeV2.ts",
+    "lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rw-gishoma-peat-economic-v2",
+      "description": "A significant peat extraction site contributing to Rwanda's energy sector. It supports local power generation through thermal energy.",
+      "facts": ["Located in Rusizi district", "Peat-based energy source", "Supports national electricity grid"]
+    },
+    {
+      "id": "rw-gisagara-peat-economic-v2",
+      "description": "An important peat-to-power project helping to diversify Rwanda's energy mix. It plays a role in reducing dependence on imported fuels.",
+      "facts": ["Gisagara district location", "Power plant capacity 80MW", "Supports rural electrification"]
+    },
+    {
+      "id": "rw-volkswagen-kigali-economic-v2",
+      "description": "The first Volkswagen assembly plant in Rwanda, showcasing the country's growing automotive manufacturing industry. It operates as part of an integrated mobility solution.",
+      "facts": ["Kigali based facility", "Integrated mobility concept", "Local vehicle assembly"]
+    },
+    {
+      "id": "rw-kigali-city-tower-landmarks-v2",
+      "description": "An iconic skyscraper in the heart of Kigali serving as a commercial hub. It is one of the tallest and most recognizable buildings in the capital.",
+      "facts": ["Kigali business district", "Retail and office space", "Modern glass architecture"]
+    },
+    {
+      "id": "rw-sainte-famille-church-landmarks-v2",
+      "description": "A historic Catholic church located in central Kigali. It has served the local community for decades and stands as a notable urban landmark.",
+      "facts": ["Central Kigali location", "Catholic parish center", "Longstanding community site"]
+    },
+    {
+      "id": "kigali-kid-center-life-v2",
+      "description": "A dedicated facility in Kigali providing recreational and educational activities for children. It offers a safe environment for development and play.",
+      "facts": ["Family-friendly space", "Educational workshops", "Safe urban playground"]
+    },
+    {
+      "id": "kigali-nature-kids-life-v2",
+      "description": "An outdoor area in Kigali designed to connect children with nature through guided play. It emphasizes environmental awareness and physical activity.",
+      "facts": ["Outdoor education space", "Nature trails for kids", "Environmental learning"]
+    },
+    {
+      "id": "kigali-pony-club-life-v2",
+      "description": "A popular riding center in Kigali offering equestrian training and pony rides for children. It provides a unique outdoor sporting experience.",
+      "facts": ["Horseback riding lessons", "Child-friendly animals", "Outdoor activity site"]
+    },
+    {
+      "id": "akagera-giraffe-savanna-life-v2",
+      "description": "A key sector in Akagera National Park where visitors can observe giraffes in their natural savanna habitat. It is a highlight for family wildlife tours.",
+      "facts": ["Akagera National Park", "Giraffe viewing area", "Guided savanna safaris"]
+    },
+    {
+      "id": "huye-poultry-farm-life-v2",
+      "description": "An educational agricultural site near Huye where children can learn about farming practices and poultry care. It combines learning with hands-on experience.",
+      "facts": ["Huye district site", "Small-scale farming", "Educational farm tours"]
+    },
+    {
+      "id": "rubavu-family-beach-life-v2",
+      "description": "A scenic lakeside beach in Rubavu known for its calm waters and family-oriented amenities. It is a preferred spot for relaxation along Lake Kivu.",
+      "facts": ["Lake Kivu shoreline", "Family recreation area", "Public swimming spot"]
+    },
+    {
+      "id": "kigali-kid-science-life-v2",
+      "description": "An interactive center in Kigali focusing on science and technology education for younger generations. It uses hands-on exhibits to inspire interest in STEM.",
+      "facts": ["STEM education focus", "Interactive exhibits", "Kigali technology hub"]
+    },
+    {
+      "id": "mount-muhabura-nature-v2",
+      "description": "A dormant volcano in the Virunga Mountains known for its steep slopes and diverse vegetation zones. It is a challenging destination for trekking enthusiasts.",
+      "facts": ["Virunga Mountains", "4127 meters elevation", "Volcanic hiking trail"]
+    },
+    {
+      "id": "mount-sabyinyo-nature-v2",
+      "description": "An ancient, eroded volcano in the Virunga range offering unique biodiversity and high-altitude habitats. Its jagged peaks are a notable geographical feature.",
+      "facts": ["Tri-border peak", "Volcanic habitat", "Steep hiking terrain"]
+    },
+    {
+      "id": "cyamudongo-forest-nature-v2",
+      "description": "A fragmented but ecologically vital forest patch known for its biodiversity. It serves as an important remnant of Rwanda's montane rainforest ecosystems.",
+      "facts": ["Montane forest patch", "Rich birdlife", "Ecological remnant"]
+    }
+  ]
+}

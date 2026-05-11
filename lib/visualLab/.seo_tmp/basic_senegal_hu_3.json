@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ferme-maraichere-niayes-life-v2",
+      "description": "Niayes termékeny völgyei Szenegál zöldségellátásának központjai, ahol intenzív kertgazdálkodás folyik.",
+      "facts": ["Zöldségtermesztés", "Niayes", "Intenzív kertészet"]
+    },
+    {
+      "id": "musee-oceanographique-dakar-life-v2",
+      "description": "Dakar óceánográfiai múzeuma az Atlanti-óceán élővilágát és a tengeri kutatásokat mutatja be a látogatóknak.",
+      "facts": ["Óceánográfia", "Múzeum", "Dakar"]
+    },
+    {
+      "id": "elevage-de-moutons-diourbel-life-v2",
+      "description": "Diourbel környéke a juhtenyésztéséről ismert, amely a helyi gazdaság és hagyományok fontos része.",
+      "facts": ["Juhtenyésztés", "Diourbel", "Mezőgazdaság"]
+    },
+    {
+      "id": "reserve-de-faune-birdlife-v2",
+      "description": "Ez a madárrezervátum fontos megállóhely a vonuló madarak számára, gazdag élővilággal büszkélkedik.",
+      "facts": ["Madárrezervátum", "Vonuló madarak", "Természetvédelem"]
+    },
+    {
+      "id": "culture-canne-sucre-richard-toll-life-v2",
+      "description": "Richard-Toll a cukornádtermesztés központja, ahol a nagyüzemi mezőgazdaság alapozza meg a helyi ipart.",
+      "facts": ["Cukornádtermesztés", "Richard-Toll", "Ipari mezőgazdaság"]
+    },
+    {
+      "id": "ferme-aquacole-stlouis-life-v2",
+      "description": "A Saint-Louis melletti akvakultúra-telep a halgazdálkodás és a fenntartható tengeri erőforrás-használat mintája.",
+      "facts": ["Akvakultúra", "Halgazdálkodás", "Saint-Louis"]
+    },
+    {
+      "id": "parc-des-singes-life-v2",
+      "description": "A majompark lehetőséget nyújt a különböző majomfajok természetes viselkedésének megfigyelésére biztonságos környezetben.",
+      "facts": ["Majompark", "Vadvilág", "Környezeti nevelés"]
+    },
+    {
+      "id": "jardin-des-enfants-life-v2",
+      "description": "Ez a kert a gyermekek számára kialakított közösségi tér, ahol biztonságos és játékos környezetben ismerkedhetnek a természettel.",
+      "facts": ["Gyermekkert", "Közösségi tér", "Játszótér"]
+    },
+    {
+      "id": "culture-mangue-casamance-life-v2",
+      "description": "Casamance régiója a mangótermesztéséről híres, ami a helyi gazdák egyik fontos bevételi forrása.",
+      "facts": ["Mangótermesztés", "Casamance", "Gyümölcstermesztés"]
+    },
+    {
+      "id": "centre-de-rehabilitation-life-v2",
+      "description": "A rehabilitációs központ a sérült vagy árva állatok gondozásával és természetbe való visszavezetésével foglalkozik.",
+      "facts": ["Állatmentés", "Rehabilitáció", "Természetvédelem"]
+    }
+  ]
+}

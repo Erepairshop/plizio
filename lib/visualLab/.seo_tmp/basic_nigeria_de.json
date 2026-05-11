@@ -1,0 +1,61 @@
+{
+  "lang": "de",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-harcourt-port-economic-v2",
+      "description": "Port Harcourt ist einer der bedeutendsten Seehäfen Nigerias und ein zentraler Umschlagplatz für die Öl- und Gasindustrie.",
+      "facts": ["Wichtiger Exporthafen", "Zentrum der Ölindustrie", "Liegt am Bonny River"]
+    },
+    {
+      "id": "lekki-deep-sea-port-economic-v2",
+      "description": "Der Lekki Deep Sea Port ist ein hochmoderner Tiefwasserhafen, der die logistische Kapazität Nigerias maßgeblich erweitert.",
+      "facts": ["Größter Hafen Nigerias", "Modernste Logistik", "Standort im Bundesstaat Lagos"]
+    },
+    {
+      "id": "forcados-terminal-economic-v2",
+      "description": "Das Forcados-Terminal spielt eine kritische Rolle bei der Lagerung und dem Export von Rohöl aus dem Nigerdelta.",
+      "facts": ["Rohöl-Exportterminal", "Im Nigerdelta gelegen", "Strategisch wichtig für Öl"]
+    },
+    {
+      "id": "qua-iboe-terminal-economic-v2",
+      "description": "Dieses Terminal ist ein essenzieller Umschlagplatz für die nigerianische Ölförderung im Bundesstaat Akwa Ibom.",
+      "facts": ["Öl-Umschlagplatz", "Standort Akwa Ibom", "Große Speicherkapazität"]
+    },
+    {
+      "id": "kaduna-refinery-economic-v2",
+      "description": "Die Raffinerie in Kaduna ist eine der wichtigsten Anlagen zur Verarbeitung von Erdöl zu Treibstoffen für den nordnigerianischen Markt.",
+      "facts": ["Wichtige Ölraffinerie", "Versorgt den Norden", "Großindustrieller Standort"]
+    },
+    {
+      "id": "okpella-cement-plant-economic-v2",
+      "description": "Das Zementwerk in Okpella ist ein bedeutender Industriestandort, der die Baustoffproduktion in der Region maßgeblich vorantreibt.",
+      "facts": ["Zementproduktion", "Industrieller Standort", "Wichtig für das Baugewerbe"]
+    },
+    {
+      "id": "national-mosque-abuja-landmarks-v2",
+      "description": "Die Nationalmoschee in Abuja ist eines der bedeutendsten religiösen Gebäude und ein architektonisches Wahrzeichen der Hauptstadt.",
+      "facts": ["Architektonisches Symbol", "Hauptstadt Abuja", "Religiöses Zentrum"]
+    },
+    {
+      "id": "lekki-ikoyi-link-bridge-landmarks-v2",
+      "description": "Die Lekki-Ikoyi Link Bridge ist eine markante Schrägseilbrücke, die wichtige Geschäftsviertel in Lagos miteinander verbindet.",
+      "facts": ["Schrägseilbrücke", "Verbindet Lekki und Ikoyi", "Wahrzeichen von Lagos"]
+    },
+    {
+      "id": "necom-house-lagos-landmarks-v2",
+      "description": "Das NECOM House ist mit seinem markanten Design eines der höchsten und bekanntesten Bürogebäude in Lagos.",
+      "facts": ["Eines der höchsten Gebäude", "Büroturm", "Lagos-Skyline"]
+    },
+    {
+      "id": "moshood-abiola-stadium-landmarks-v2",
+      "description": "Das Stadion ist ein zentraler Veranstaltungsort für sportliche Großereignisse und ein wichtiges Symbol nationaler Identität.",
+      "facts": ["Großstadion", "Sportveranstaltungen", "Abuja-Lage"]
+    }
+  ]
+}

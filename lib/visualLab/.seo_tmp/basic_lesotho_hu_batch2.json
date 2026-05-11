@@ -1,0 +1,17 @@
+{
+  "lang": "hu",
+  "country": "Lesotho",
+  "files": [ "lib/visualLab/data/poiExtraLesothoCitiesV2.ts" ],
+  "items": [
+    { "id": "saint-michaels-cities-v2", "description": "Saint Michaels egy kis település a hegyvidéken, közel a fővároshoz, Maseruhoz.", "facts": ["Maseru közelében", "Hegyi falu", "Helyi központ"] },
+    { "id": "khabos-cities-v2", "description": "Khabos Leribe körzetben található falu, fontos mezőgazdasági területen fekszik.", "facts": ["Leribe körzet", "Mezőgazdaság", "Hegyi táj"] },
+    { "id": "maphutseng-cities-v2", "description": "Maphutseng híres a területén talált dinoszaurusz lábnyomokról, melyek fontos régészeti leletek.", "facts": ["Dinoszaurusz lábnyomok", "Régészeti lelőhely", "Mohale's Hoek közelében"] },
+    { "id": "alwynskop-cities-v2", "description": "Alwynskop Quthing körzetben található, nevét a területen őshonos aloé növényekről kapta.", "facts": ["Quthing körzet", "Aloé növények", "Déli országrész"] },
+    { "id": "letseng-la-terae-cities-v2", "description": "Letseng-la-Terae a világ egyik legmagasabban fekvő gyémántbányájáról ismert, 3100 méter felett.", "facts": ["Gyémántbánya", "Extrém magasság", "Hideg éghajlat"] },
+    { "id": "ha-ntsi-cities-v2", "description": "Ha Ntsi egy festői falu a hegyekben, Maseru körzetében, gyakori állomása a túrázóknak.", "facts": ["Festői táj", "Maseru körzet", "Túraútvonalak"] },
+    { "id": "ha-baroana-cities-v2", "description": "Ha Baroana híres a sziklafestményeiről, melyek bepillantást engednek a szan nép ősi kultúrájába.", "facts": ["Sziklafestmények", "Szan kultúra", "Történelmi helyszín"] },
+    { "id": "ha-moitsupeli-cities-v2", "description": "Ha Moitsupeli egy tipikus basotho falu, ahol a hagyományos életmód és építészet figyelhető meg.", "facts": ["Hagyományos falu", "Basotho kultúra", "Hegyi közösség"] },
+    { "id": "molimo-nthuse-cities-v2", "description": "Molimo Nthuse neve annyit tesz: 'Isten segíts meg', és egy gyönyörű hágónál található a hegyekben.", "facts": ["Hegyi hágó", "Látványos kilátás", "Népszerű megálló"] },
+    { "id": "marakabei-cities-v2", "description": "Marakabei egy fontos közlekedési csomópont a központi hegyvidéken, a Senqu folyó közelében.", "facts": ["Közlekedési csomópont", "Hegyi vidék", "Senqu folyó"] }
+  ]
+}

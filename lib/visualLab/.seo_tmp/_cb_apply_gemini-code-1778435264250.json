@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "vainqueur-ruins-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Vainqueur-Ruinen in Gambia stellen die Überreste einer französischen Befestigung und Handelsniederlassung dar, die im 18. und 19. Jahrhundert eine strategische Rolle im Ringen um die Vorherrschaft am Gambia-Fluss spielte. Benannt nach dem französischen Schiff 'Le Vainqueur', zeugen diese Mauerreste von der Zeit, als Frankreich versuchte, neben der britischen Präsenz in Bathurst (Banjul) eigene Stützpunkte zu etablieren. Die Ruinen befinden sich in einer geographisch vorteilhaften Lage, die es ermöglichte, den Schiffsverkehr tief im Landesinneren zu überwachen. Die Bauweise der Überreste deutet auf die Verwendung von lokalem Lateritgestein hin, das mit Kalkmörtel aus zerkleinerten Austernschalen verbunden wurde – eine Technik, die typisch für die frühe koloniale Militärarchitektur in der Senegambia-Region war. Historisch gesehen war der Ort oft Gegenstand von diplomatischen und militärischen Spannungen, da er die Versorgungswege der Briten gefährdete. Heute sind die Ruinen stark von der Vegetation überwachsen, bieten jedoch Archäologen wertvolle Einblicke in die logistischen Strukturen des französischen Überseehandels und die Konkurrenz der Kolonialmächte um den Export von Rohstoffen wie Gummi arabicum und Häuten.",
+        "hu": "A Vainqueur-romok a Gambia-folyó mentén egykor álló francia erődítmény és kereskedelmi állomás maradványai, amelyek a 18. és 19. században fontos szerepet játszottak a folyó feletti ellenőrzésért folytatott küzdelemben. Nevüket a francia 'Le Vainqueur' hajóról kapták, és azon időszak tanúi, amikor Franciaország megpróbált saját bázisokat kiépíteni a brit Bathurst (ma Banjul) mellett. A romok stratégiai elhelyezkedése lehetővé tette a folyami forgalom ellenőrzését a szárazföld belseje felé vezető úton. Az épületmaradványok vizsgálata során megállapítható, hogy helyi laterit követ használtak, amelyet zúzott osztrigahéjból készült mészhabarccsal rögzítettek – ez a technika jellemző volt a korai szenegambiai gyarmati katonai építészetre. Történelmileg a helyszín gyakran vált diplomáciai és katonai feszültségek forrásává, mivel közvetlenül fenyegette a brit ellátási útvonalakat. Ma a romokat sűrű növényzet borítja, de a régészek számára továbbra is fontos forrást jelentenek a francia tengerentúli kereskedelem logisztikai szerkezetének és a gyarmati hatalmak közötti, nyersanyagokért (például gumiarábikumért és bőrökért) folytatott rivalizálásának megértéséhez.",
+        "ro": "Ruinele Vainqueur din Gambia reprezintă vestigiile unei fortificații și ale unui post comercial francez care, în secolele al XVIII-lea și al XIX-lea, au jucat un rol strategic în lupta pentru supremație pe râul Gambia. Numite după nava franceză 'Le Vainqueur', aceste resturi de ziduri depun mărturie despre perioada în care Franța a încercat să stabilească baze proprii alături de prezența britanică din Bathurst (Banjul). Ruinele sunt situate într-o poziție geografică avantajoasă, care permitea monitorizarea traficului naval în adâncurile continentului. Structura rămășițelor indică utilizarea pietrei de laterit local, îmbinată cu mortar de var obținut din cochilii de scoici zdrobite – o tehnică tipică pentru arhitectura militară colonială timpurie din regiunea Senegambia. Din punct de vedere istoric, locul a fost adesea subiectul unor tensiuni diplomatice și militare, deoarece punea în pericol rutele de aprovizionare ale britanicilor. Astăzi, ruinele sunt puternic invadate de vegetație, dar oferă arheologilor informații prețioase despre structurile logistice ale comerțului francez de peste mări și despre concurența puterilor coloniale pentru exportul de materii prime, precum guma arabică și pieile.",
+        "en": "The Vainqueur Ruins in The Gambia represent the remnants of a French fortification and trading outpost that played a strategic role during the 18th and 19th-century struggle for dominance along the Gambia River. Named after the French vessel 'Le Vainqueur,' these masonry remains reflect an era when France sought to establish its own strongholds alongside the British presence in Bathurst (now Banjul). The ruins are situated at a geographically advantageous point, allowing for the monitoring of naval traffic moving inland. The construction of the remains utilizes local laterite stone bonded with lime mortar made from crushed oyster shells—a technique characteristic of early colonial military architecture in the Senegambia region. Historically, the site was frequently at the center of diplomatic and military tensions, as it threatened British supply lines and commercial interests. Today, the ruins are heavily overgrown by tropical vegetation, yet they offer archaeologists significant insights into the logistical frameworks of French overseas trade and the intense competition between European powers for West African resources such as gum arabic and hides."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Benannt nach dem französischen Schiff 'Le Vainqueur'.",
+          "Ehemaliger französischer Handelsposten im britischen Einflussgebiet.",
+          "Bauweise nutzt Mörtel aus zerkleinerten Austernschalen.",
+          "Strategischer Punkt zur Überwachung des Schiffsverkehrs.",
+          "Zeugnis der kolonialen Rivalität zwischen Frankreich und England.",
+          "Liegt in einer heute schwer zugänglichen, bewaldeten Zone."
+        ],
+        "hu": [
+          "A 'Le Vainqueur' nevű francia hajóról kapta a nevét.",
+          "Egykori francia kereskedelmi állomás a brit befolyási övezetben.",
+          "Az építéshez zúzott osztrigahéjból készült habarcsot használtak.",
+          "Stratégiai pont volt a folyami forgalom ellenőrzésére.",
+          "A francia-angol gyarmati rivalizálás egyik tárgyi emléke.",
+          "Ma nehezen megközelíthető, erdős területen található."
+        ],
+        "ro": [
+          "Denumite după nava franceză 'Le Vainqueur'.",
+          "Fost post comercial francez în zona de influență britanică.",
+          "Construcția folosește mortar din cochilii de scoici zdrobite.",
+          "Punct strategic pentru monitorizarea traficului fluvial.",
+          "Mărturie a rivalității coloniale dintre Franța și Anglia.",
+          "Situate într-o zonă împădurită, astăzi greu accesibilă."
+        ],
+        "en": [
+          "Named after the historic French ship 'Le Vainqueur'.",
+          "A former French trading outpost within British-claimed territory.",
+          "Built using traditional mortar derived from crushed oyster shells.",
+          "Served as a strategic lookout for monitoring river traffic.",
+          "Reflects the long-standing colonial rivalry over the Gambia River.",
+          "Currently located in a secluded, densely vegetated area."
+        ]
+      }
+    },
+    {
+      "id": "sankandi-battlefield-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Schlachtfeld von Sankandi ist ein Ort von herausragender Bedeutung für die Geschichte des gambischen Widerstands gegen die britische Kolonialherrschaft am Ende des 19. Jahrhunderts. Im Jahr 1891 und erneut 1901 war das Dorf Sankandi Schauplatz heftiger Auseinandersetzungen, die durch einen Streit über Landrechte und lokale Souveränität zwischen dem Volk der Marabouts und den britischen Behörden ausgelöst wurden. Der Konflikt eskalierte, als zwei britische Kommissare, Sitwell und Silva, während Verhandlungen getötet wurden. Dies führte zu einer groß angelegten britischen Strafexpedition unter dem Kommando von Oberst Brake, bei der Sankandi fast vollständig zerstört wurde. Die Schlacht markiert einen Wendepunkt, da sie den militärischen Sieg der Briten über die unabhängigen religiösen Führer (Marabouts) der Region festigte und den Weg für die endgültige Etablierung des Protektorats ebnete. Das Schlachtfeld erinnert heute an die Opfer des Widerstands und die Brutalität der kolonialen Landnahme. Für Historiker ist Sankandi ein Beispiel für die komplexen Machtverhältnisse zwischen traditionellen Lineages, dem aufstrebenden Islam und der technologischen Überlegenheit der europäischen Invasoren.",
+        "hu": "A sankandi csatatér kiemelkedő jelentőségű helyszín a brit gyarmati uralom elleni gambiai ellenállás történetében a 19. század végén. 1891-ben, majd 1901-ben Sankandi falu heves összecsapások színhelye volt, amelyeket a földjogok és a helyi szuverenitás körüli viták váltottak ki a marabu nép és a brit hatóságok között. A konfliktus akkor mérgesedett el végzetesen, amikor két brit biztost, Sitwellt és Silvát egy tárgyalás során megöltek. Ez egy nagyszabású brit büntetőexpedícióhoz vezetett Brake ezredes parancsnoksága alatt, amelynek során Sankandit szinte teljesen elpusztították. A csata fordulópontot jelentett, mivel megszilárdította a britek katonai győzelmét a régió független vallási vezetői (marabuk) felett, és kikövezte az utat a protektorátus végleges létrehozásához. A csatatér ma az ellenállás áldozataira és a gyarmati területszerzés brutalitására emlékeztet. A történészek számára Sankandi a hagyományos hatalmi struktúrák, a felemelkedő iszlám és az európai hódítók technológiai fölénye közötti összetett viszonyrendszer példája.",
+        "ro": "Câmpul de luptă de la Sankandi este un loc de o importanță majoră pentru istoria rezistenței gambiene împotriva dominației coloniale britanice de la sfârșitul secolului al XIX-lea. În 1891 și din nou în 1901, satul Sankandi a fost scena unor confruntări violente, declanșate de dispute privind drepturile asupra pământului și suveranitatea locală între populația Marabout și autoritățile britanice. Conflictul a escaladat atunci când doi comisari britanici, Sitwell și Silva, au fost uciși în timpul negocierilor. Acest lucru a dus la o expediție punitivă britanică de mare amploare sub comanda colonelului Brake, în urma căreia Sankandi a fost aproape complet distrus. Bătălia marchează un punct de cotitură, deoarece a consolidat victoria militară a britanicilor asupra liderilor religioși independenți (Marabouts) din regiune și a deschis calea pentru stabilirea definitivă a protectoratului. Câmpul de luptă amintește astăzi de victimele rezistenței și de brutalitatea acaparării coloniale de terenuri. Pentru istorici, Sankandi este un exemplu al raporturilor complexe de putere dintre structurile tradiționale, islamul în ascensiune și superioritatea tehnologică a invadatorilor europeni.",
+        "en": "The Sankandi Battlefield is a site of immense significance in the history of Gambian resistance against British colonial expansion at the turn of the 20th century. In 1891 and 1901, the village of Sankandi was the flashpoint for violent confrontations sparked by disputes over land ownership and local jurisdiction between the Marabout community and the British administration. The tensions reached a climax when two British travelling commissioners, Sitwell and Silva, were killed during a parley. This event triggered a massive British punitive expedition led by Colonel Brake, which resulted in the near-total destruction of the village. The battle is a pivotal moment in Gambian history, as it signaled the definitive military defeat of the independent Marabout leaders in the region and paved the way for the consolidation of the British Protectorate. Today, the battlefield serves as a somber reminder of the anti-colonial struggle and the human cost of imperial expansion. It remains a key study site for historians analyzing the interaction between traditional polities, Islamic reformist movements, and European military superiority."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ort der tödlichen Konfrontation mit britischen Kommissaren im Jahr 1901.",
+          "Zentrum des Widerstands der Marabouts gegen koloniale Landnahme.",
+          "Schauplatz einer massiven britischen Strafexpedition.",
+          "Markiert den Zusammenbruch der lokalen Souveränität in Kiang.",
+          "Führte zur Zerstörung der ursprünglichen Siedlung Sankandi.",
+          "Wichtiger Bezugspunkt für die Geschichte des gambischen Unabhängigkeitswillens."
+        ],
+        "hu": [
+          "A brit biztosokkal való 1901-es halálos összecsapás helyszíne.",
+          "A gyarmati területszerzés elleni marabu ellenállás központja.",
+          "Egy nagyszabású brit büntetőexpedíció színhelye.",
+          "A helyi szuverenitás összeomlását jelezte Kiang régióban.",
+          "Az eredeti Sankandi település teljes pusztulásához vezetett.",
+          "A gambiai függetlenségi törekvések történetének fontos hivatkozási pontja."
+        ],
+        "ro": [
+          "Locul confruntării mortale cu comisarii britanici în 1901.",
+          "Centrul rezistenței Marabout împotriva acaparării coloniale.",
+          "Scena unei expediții punitive britanice masive.",
+          "Marchează prăbușirea suveranității locale în regiunea Kiang.",
+          "A dus la distrugerea așezării originale Sankandi.",
+          "Punct de referință important pentru istoria voinței de independență a Gambiei."
+        ],
+        "en": [
+          "Site of the 1901 clash that resulted in the death of British commissioners.",
+          "A major hub of Marabout resistance against colonial land policies.",
+          "The target of a large-scale British punitive expedition led by Col. Brake.",
+          "Signaled the end of independent rule in the Kiang region.",
+          "The original village was completely leveled during the conflict.",
+          "A significant landmark for the history of Gambian anti-colonialism."
+        ]
+      }
+    },
+    {
+      "id": "basse-colonial-quarter-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kolonialviertel von Basse Santa Su, oft einfach Basse genannt, ist ein lebendiges Archiv der Wirtschaftsgeschichte Gambias am Oberlauf des Flusses. Basse entwickelte sich im späten 19. und frühen 20. Jahrhundert zum wichtigsten Handelszentrum im Landesinneren, da es den am weitesten landeinwärts gelegenen schiffbaren Punkt für große Flussschiffe darstellte. Das Viertel ist geprägt von den massiven Lagerhäusern und Kontoren der großen europäischen Handelsgesellschaften wie der United Africa Company (UAC) und Maurel & Prom. Die Architektur dieser Gebäude ist funktional und robust, mit dicken Mauern aus Lateritstein und großzügigen Veranden, die als Büros und Wohnraum für die Händler dienten. Basse war der zentrale Umschlagplatz für den Erdnussexport; Bauern aus weiten Teilen Gambias, Senegals und Guineas brachten ihre Ernten hierher, um sie gegen europäische Waren wie Textilien und Werkzeuge zu tauschen. Diese ökonomische Blütezeit prägte das soziale Gefüge der Stadt und machte Basse zu einem Schmelztiegel der Kulturen. Obwohl viele Gebäude heute verfallen, atmet das Viertel noch immer den Geist der Ära, in der der Gambia-Fluss die lebenswichtige Pulsader des westafrikanischen Handels war.",
+        "hu": "Basse Santa Su gyarmati negyede, amelyet gyakran csak Basse-ként emlegetnek, Gambia folyó menti gazdaságtörténetének élő archívuma. Basse a 19. század végén és a 20. század elején a belső területek legfontosabb kereskedelmi központjává fejlődött, mivel ez volt a folyó legmélyebb, nagy hajókkal is járható pontja. A negyedet a nagy európai kereskedelmi társaságok, mint például a United Africa Company (UAC) és a Maurel & Prom masszív raktárai és irodái határozzák meg. Az épületek építészete funkcionális és robusztus: vastag laterit falak és tágas verandák jellemzik őket, amelyek egykor a kereskedők irodáiként és lakhelyeiként szolgáltak. Basse volt a földimogyoró-export központi csomópontja; Gambia, Szenegál és Guinea nagy részéről ide érkeztek a gazdák, hogy terményüket európai árukra, például textilekre és szerszámokra cseréljék. Ez a gazdasági fénykor formálta a város társadalmi szerkezetét, és Bassét a kultúrák olvasztótégelyévé tette. Bár sok épület mára romos állapotban van, a negyed még mindig őrzi annak a korszaknak a szellemét, amikor a Gambia-folyó Nyugat-Afrika kereskedelmének éltető ütőere volt.",
+        "ro": "Cartierul colonial din Basse Santa Su, adesea numit simplu Basse, este o arhivă vie a istoriei economice a Gambiei de pe cursul superior al râului. Basse s-a dezvoltat la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea ca cel mai important centru comercial din interiorul țării, fiind cel mai îndepărtat punct navigabil pentru navele fluviale mari. Cartierul este marcat de depozitele masive și birourile marilor companii comerciale europene, precum United Africa Company (UAC) și Maurel & Prom. Arhitectura acestor clădiri este funcțională și robustă, cu ziduri groase din piatră de laterit și terase spațioase care serveau drept birouri și locuințe pentru comercianți. Basse era punctul central de transbordare pentru exportul de arahide; fermierii din zone vaste ale Gambiei, Senegalului și Guineei își aduceau recoltele aici pentru a le schimba pe mărfuri europene, precum textile și unelte. Această perioadă de înflorire economică a modelat structura socială a orașului și a făcut din Basse un creuzet al culturilor. Deși multe clădiri sunt astăzi în ruină, cartierul emană încă spiritul erei în care râul Gambia era artera vitală a comerțului vest-african.",
+        "en": "The Colonial Quarter of Basse Santa Su, commonly known as Basse, is a historic district that serves as a testament to the economic boom of the upper Gambia River during the late 19th and early 20th centuries. Basse rose to prominence as the primary inland commercial hub because it was the furthest navigable point for large river steamers. The quarter is characterized by its imposing warehouses and trading stations, once operated by major European firms such as the United Africa Company (UAC) and Maurel & Prom. The architectural style of these structures is utilitarian and sturdy, featuring thick laterite stone walls and wide verandas designed to facilitate administrative work and provide living quarters for expatriate traders. As the epicentre of the regional groundnut trade, Basse attracted farmers from across eastern Gambia, Senegal, and Guinea-Bissau, who traded their crops for imported goods like textiles and hardware. This era of intense commercial activity transformed Basse into a vibrant multicultural crossroads. While many of the original buildings have fallen into disrepair, the district remains a poignant reminder of the period when the river was the lifeblood of West African commerce and global trade connections."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigstes Handelszentrum am Oberlauf des Gambia-Flusses.",
+          "Endpunkt der Schiffbarkeit für große Flussdampfer.",
+          "Beherbergt Gebäude der United Africa Company (UAC).",
+          "Zentraler Umschlagplatz für die Erdnussindustrie.",
+          "Architektur aus Lateritstein mit typischen Kolonialveranden.",
+          "Schmelztiegel der Kulturen durch grenzüberschreitenden Handel."
+        ],
+        "hu": [
+          "A Gambia-folyó felső szakaszának legfontosabb kereskedelmi központja.",
+          "A nagy folyami gőzhajók számára az utolsó hajózható pont.",
+          "A United Africa Company (UAC) egykori épületeinek ad helyet.",
+          "A földimogyoró-ipar központi logisztikai csomópontja volt.",
+          "Laterit kőből készült épületek jellemzik, gyarmati verandákkal.",
+          "A határokon átnyúló kereskedelem révén kialakult kulturális olvasztótégely."
+        ],
+        "ro": [
+          "Cel mai important centru comercial de pe cursul superior al râului Gambia.",
+          "Punctul terminus al navigabilității pentru vapoarele fluviale mari.",
+          "Găzduiește clădiri ale United Africa Company (UAC).",
+          "Punct central de colectare pentru industria arahidelor.",
+          "Arhitectură din piatră de laterit cu verande coloniale tipice.",
+          "Creuzet cultural datorită comerțului transfrontalier intens."
+        ],
+        "en": [
+          "The premier commercial hub on the upper reaches of the Gambia River.",
+          "The final navigable port for large-scale river steamships.",
+          "Features historic warehouses of the United Africa Company (UAC).",
+          "A pivotal site for the 20th-century groundnut export industry.",
+          "Showcases laterite stone architecture with characteristic colonial verandas.",
+          "Historically a multicultural center due to cross-border trade."
+        ]
+      }
+    },
+    {
+      "id": "arch-22-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Arch 22 ist das markanteste moderne Wahrzeichen von Banjul und wurde zur Erinnerung an den Militärputsch vom 22. Juli 1994 errichtet, der Yahya Jammeh an die Macht brachte. Das 35 Meter hohe Bauwerk steht am Eingang der Hauptstadt auf einer monumentalen Verkehrsinsel am Ende des Independence Drive. Entworfen vom senegalesischen Architekten Pierre Goudiaby Atepa, besticht der Bogen durch seine imposante neoklassizistische Struktur, die von acht massiven Säulen getragen wird. In den oberen Stockwerken befinden sich ein kleines Museum zur Geschichte des Landes und eine Aussichtsplattform, die einen Panoramablick über Banjul, den Hafen und den Atlantik bietet. Die Architektur kombiniert moderne Materialien mit traditionellen afrikanischen Motiven, die in den Details der Fassade zu finden sind. Lange Zeit war der Bogen ein Symbol für die 'Revolution' und die nationale Souveränität, wird heute jedoch differenzierter als Teil der politischen Geschichte Gambias betrachtet. Er bleibt ein unverzichtbares Ziel für Besucher, die die städtebauliche Entwicklung und die politische Symbolik der postsowjetischen Ära in Westafrika verstehen wollen.",
+        "hu": "Az Arch 22 Banjul legjelentősebb modern nevezetessége, amelyet az 1994. július 22-i katonai puccs emlékére emeltek, amely Yahya Jammehet juttatta hatalomra. A 35 méter magas építmény a főváros bejáratánál, az Independence Drive végén, egy monumentális forgalmi szigeten áll. A szenegáli építész, Pierre Goudiaby Atepa által tervezett diadalív impozáns neoklasszicista szerkezetét nyolc masszív oszlop tartja. A felső szinteken egy kis múzeum található, amely az ország történelmét mutatja be, valamint egy kilátóterasz, ahonnan panorámás kilátás nyílik Banjulra, a kikötőre és az Atlanti-óceánra. Az építészet a modern anyagokat ötvözi a hagyományos afrikai motívumokkal, amelyek a homlokzat részleteiben fedezhetők fel. Hosszú ideig az ív a 'forradalom' és a nemzeti szuverenitás szimbóluma volt, ma azonban árnyaltabban, Gambia politikai történelmének részeként tekintenek rá. Elengedhetetlen célpont mindazok számára, akik meg akarják érteni a nyugat-afrikai posztkoloniális korszak városfejlesztését és politikai szimbolikáját.",
+        "ro": "Arch 22 este cel mai proeminent punct de reper modern din Banjul, fiind construit pentru a comemora lovitura de stat militară din 22 iulie 1994, care l-a adus la putere pe Yahya Jammeh. Structura înaltă de 35 de metri se află la intrarea în capitală, pe o insulă de trafic monumentală la capătul Independence Drive. Proiectat de arhitectul senegalez Pierre Goudiaby Atepa, arcul impresionează prin structura sa neoclasică impunătoare, susținută de opt coloane masive. La etajele superioare se află un mic muzeu dedicat istoriei țării și o platformă de observație care oferă o vedere panoramică asupra orașului Banjul, a portului și a Oceanului Atlantic. Arhitectura combină materiale moderne cu motive africane tradiționale, regăsite în detaliile fațadei. Mult timp, arcul a fost un simbol al 'revoluției' și al suveranității naționale, însă astăzi este privit dintr-o perspectivă mai nuanțată, ca parte a istoriei politice a Gambiei. Rămâne o destinație esențială pentru vizitatorii care doresc să înțeleagă dezvoltarea urbană și simbolistica politică a erei post-coloniale în Africa de Vest.",
+        "en": "Arch 22 is the most prominent modern landmark in Banjul, constructed to commemorate the military coup of July 22, 1994, which brought Yahya Jammeh to power. Standing at 35 meters tall, the arch dominates the entrance to the capital city, situated on a monumental traffic island at the terminus of Independence Drive. Designed by the renowned Senegalese architect Pierre Goudiaby Atepa, the structure features a grand neoclassical design supported by eight massive columns. The upper floors house a small museum detailing the nation's history and a viewing gallery that offers unparalleled panoramic views of Banjul, the bustling harbor, and the Atlantic coastline. The architecture blends contemporary construction materials with traditional African motifs integrated into the facade's details. For over two decades, the arch served as a potent symbol of the 'revolution' and national sovereignty; today, it is viewed with historical perspective as part of The Gambia's complex political evolution. It remains a key site for understanding the intersection of urban design and political symbolism in post-independence West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "35 Meter hoch, das höchste Bauwerk in Banjul.",
+          "Erinnert an den Militärputsch vom 22. Juli 1994.",
+          "Entworfen vom senegalesischen Architekten Pierre Goudiaby Atepa.",
+          "Beherbergt ein kleines Museum zur Nationalgeschichte.",
+          "Bietet den besten Panoramablick über die Hauptstadt.",
+          "Befindet sich am markanten Eingang zum Independence Drive."
+        ],
+        "hu": [
+          "35 méter magas, Banjul legmagasabb építménye.",
+          "Az 1994. július 22-i katonai puccsnak állít emléket.",
+          "Pierre Goudiaby Atepa szenegáli építész tervezte.",
+          "Egy kis nemzeti történelmi múzeumnak ad otthont.",
+          "A legjobb panorámát nyújtja a fővárosra.",
+          "Az Independence Drive látványos bejáratánál található."
+        ],
+        "ro": [
+          "Înalt de 35 de metri, cea mai înaltă structură din Banjul.",
+          "Comemorează lovitura de stat militară din 22 iulie 1994.",
+          "Proiectat de celebrul arhitect senegalez Pierre Goudiaby Atepa.",
+          "Găzduiește un mic muzeu de istorie națională.",
+          "Oferă cea mai bună vedere panoramică asupra capitalei.",
+          "Situat la intrarea principală pe Independence Drive."
+        ],
+        "en": [
+          "Stands 35 meters high, the tallest structure in the capital.",
+          "Commemorates the military coup d'état of July 22nd, 1994.",
+          "Designed by the award-winning architect Pierre Goudiaby Atepa.",
+          "Features an internal museum dedicated to Gambian history.",
+          "Provides an observation deck with panoramic views of the city.",
+          "Markedly situated at the start of Independence Drive."
+        ]
+      }
+    },
+    {
+      "id": "wassu-stone-circles-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Steinkreise von Wassu sind die bekannteste und beeindruckendste Megalithanlage in Gambia und gehören zum UNESCO-Welterbe. Sie bestehen aus konzentrischen Kreisen aus Lateritsäulen, die zwischen dem 3. Jahrhundert v. Chr. und dem 16. Jahrhundert n. Chr. errichtet wurden. Die Höhe der Steine variiert zwischen einem und zweieinhalb Metern, wobei jeder Stein präzise aus Steinbrüchen in der Umgebung gehauen wurde. Historisch gesehen dienten die Kreise als Grabstätten für Herrscher oder bedeutende Persönlichkeiten einer Gesellschaft, deren genaue Identität noch immer Forschungsgegenstand ist. Die Ausgrabungen in Wassu haben reiche Grabbeigaben wie Eisenspeere, Kupferschmuck und Keramik ans Licht gebracht, was auf weitverzweigte Handelsnetzwerke hindeutet. Die Symmetrie und die astronomische Ausrichtung einiger Kreise zeugen von fortgeschrittenem mathematischem Verständnis und einer tiefen spirituellen Verbindung zur Kosmologie. Wassu ist nicht nur ein archäologisches Wunder, sondern auch ein Ort von großer nationaler Bedeutung, dessen Bild sogar die gambische Währung ziert. Es bleibt das wichtigste Zeugnis einer hoch entwickelten prähistorischen Zivilisation im Herzen Senegambias.",
+        "hu": "A wassu-i kőkörök Gambia legismertebb és leglenyűgözőbb megalitikus építményei, amelyek az UNESCO Világörökség részét képezik. A koncentrikus körök laterit oszlopokból állnak, amelyeket az i. e. 3. század és az i. sz. 16. század között emeltek. A kövek magassága egy és két és fél méter között mozog, és mindegyiket precízen faragták ki a közeli kőbányákban. Történelmileg a körök uralkodók vagy a társadalom fontos személyiségeinek temetkezési helyeként szolgáltak, bár pontos kilétük még ma is kutatás tárgya. A wassu-i ásatások gazdag sírmellékleteket, például vaslándzsákat, rézékszereket és kerámiákat tártak fel, ami kiterjedt kereskedelmi hálózatokra utal. A körök szimmetriája és egyes elemek csillagászati tájolása fejlett matematikai tudásról és a kozmológiához fűződő mély spirituális kapcsolatról tanúskodik. Wassu nemcsak régészeti csoda, hanem kiemelkedő nemzeti jelkép is, amely még a gambiai fizetőeszközön is szerepel. Ez a legfontosabb bizonyítéka egy magasan fejlett történelem előtti civilizációnak Szenegambia szívében.",
+        "ro": "Cercurile de piatră de la Wassu sunt cel mai cunoscut și impresionant sit megalitic din Gambia, făcând parte din Patrimoniul Mondial UNESCO. Acestea constau în cercuri concentrice de coloane de laterit, ridicate între secolul al III-lea î.Hr. și secolul al XVI-lea d.Hr. Înălțimea pietrelor variază între unu și doi metri și jumătate, fiecare fiind cioplită cu precizie din carierele de piatră din apropiere. Din punct de vedere istoric, cercurile au servit ca locuri de înmormântare pentru conducători sau personalități importante ale unei societăți a cărei identitate exactă este încă subiect de cercetare. Săpăturile de la Wassu au scos la iveală obiecte funerare bogate, precum sulițe de fier, bijuterii de cupru și ceramică, indicând rețele comerciale extinse. Simetria și alinierea astronomică a unor cercuri atestă cunoștințe matematice avansate și o legătură spirituală profundă cu cosmologia. Wassu nu este doar o minune arheologică, ci și un loc de o mare importanță națională, imaginea sa decorând chiar și moneda gambiană. Rămâne cea mai importantă mărturie a unei civilizații preistorice înalt dezvoltate din inima regiunii Senegambia.",
+        "en": "The Wassu Stone Circles are the most famous and imposing megalithic site in The Gambia, recognized as a UNESCO World Heritage site. These circles consist of upright laterite columns arranged in concentric patterns, constructed between the 3rd century BCE and the 16th century CE. The stones range in height from one to two and a half meters, each meticulously quarried and shaped from nearby outcrops. Historically, the circles functioned as burial mounds for royals or community elites, although the precise identity of the builders remains a subject of ongoing archaeological debate. Excavations at Wassu have yielded significant grave goods, including iron spears, copper ornaments, and intricate pottery, suggesting a society with complex social hierarchies and extensive trade links across West Africa. The precision of the stones' placement and their potential astronomical alignments indicate a sophisticated understanding of mathematics and cosmology. Wassu is not only an archaeological marvel but also a potent national symbol, prominently featured on Gambian banknotes. It stands as the premier evidence of an advanced prehistoric civilization in the Senegambia region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "UNESCO-Welterbe seit 2006.",
+          "Besteht aus Laterit-Monolithen mit bis zu 2,5 Metern Höhe.",
+          "Diente über Jahrhunderte als königliche Begräbnisstätte.",
+          "Die Steine sind auf der 50-Dalasi-Banknote abgebildet.",
+          "Hinweise auf astronomische Ausrichtungen der Kreise.",
+          "Wichtigste Megalithanlage in der gesamten Senegambia-Region."
+        ],
+        "hu": [
+          "2006 óta az UNESCO Világörökség része.",
+          "Akár 2,5 méter magas laterit monolitokból áll.",
+          "Évszázadokon át királyi temetkezési helyként szolgált.",
+          "A kövek képe az 50 dalasi bankjegyen is szerepel.",
+          "A körök csillagászati tájolására utaló jelek találhatók.",
+          "A teljes szenegambiai régió legfontosabb megalitikus helyszíne."
+        ],
+        "ro": [
+          "Parte a Patrimoniului Mondial UNESCO din 2006.",
+          "Format din monoliți de laterit cu înălțimi de până la 2,5 metri.",
+          "A servit timp de secole ca loc de înmormântare regal.",
+          "Pietrele sunt reprezentate pe bancnota de 50 de dalasi.",
+          "Indicii privind alinierea astronomică a cercurilor.",
+          "Cel mai important sit megalitic din întreaga regiune Senegambia."
+        ],
+        "en": [
+          "Inscribed as a UNESCO World Heritage site in 2006.",
+          "Features laterite monoliths reaching up to 2.5 meters in height.",
+          "Served as a sacred burial ground for elite members of society.",
+          "Depicted on the Gambian 50-Dalasi currency note.",
+          "Exhibits sophisticated mathematical and astronomical alignment.",
+          "The most prominent megalithic complex in West Africa."
+        ]
+      }
+    }
+  ]
+}

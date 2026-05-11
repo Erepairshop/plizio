@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "presidential-palace-museum-history-v2",
+      "description": "Az egykori elnöki rezidencia ma múzeumként működik, bemutatva az ország politikai múltját és a 1994-es események egy részét.",
+      "facts": ["Kigali keleti részén található", "1994-es repülőgép-szerencsétlenség maradványai", "Elnöki rezidencia volt"]
+    },
+    {
+      "id": "kigali-community-garden-life-v2",
+      "description": "Közösségi kert Kigali központjában, ahol a helyiek zöldségeket termesztenek és a fenntartható városi mezőgazdaságot népszerűsítik.",
+      "facts": ["Fenntartható városi mezőgazdaság", "Közösségi összefogás", "Friss helyi termények"]
+    },
+    {
+      "id": "musanze-potato-farm-life-v2",
+      "description": "Musanze környéki burgonyaföldek, amelyek a régió alapvető élelmiszer-ellátását biztosítják a termékeny vulkanikus talajon.",
+      "facts": ["Vulkanikus talaj", "Burgonyatermesztő régió", "Észak-Ruanda"]
+    },
+    {
+      "id": "akagera-zebra-savanna-life-v2",
+      "description": "Az Akagera Nemzeti Park szavannás területei, ahol zebracsordák élnek természetes környezetükben.",
+      "facts": ["Akagera Nemzeti Park", "Vadrezervátum", "Zebrák otthona"]
+    },
+    {
+      "id": "kigali-pony-club-life-v2",
+      "description": "Lovas klub Kigaliban, amely lovaglási lehetőséget és kikapcsolódást kínál a városi lakosok és látogatók számára.",
+      "facts": ["Lovaglási lehetőség", "Kigali sportélet", "Szabadidős központ"]
+    },
+    {
+      "id": "huye-poultry-farm-life-v2",
+      "description": "Huye városának közelében elhelyezkedő baromfitelep, amely a helyi gazdaság egyik fontos mezőgazdasági egysége.",
+      "facts": ["Mezőgazdasági termelés", "Huye régió", "Baromfitenyésztés"]
+    },
+    {
+      "id": "rubavu-family-beach-life-v2",
+      "description": "A Kivu-tó partján fekvő népszerű strand Rubavu városában, amely kedvelt találkozóhely a helyi családok számára.",
+      "facts": ["Kivu-tó partja", "Népszerű strand", "Családi kikapcsolódás"]
+    }
+  ]
+}

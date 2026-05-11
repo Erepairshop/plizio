@@ -1,0 +1,49 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cinco-pinos-chinandega-cities-v2",
+      "description": "Cinco Pinos im Departement Chinandega ist eine kleine Gemeinde in einer bergigen Region, die für ihre landwirtschaftlichen Aktivitäten bekannt ist.",
+      "facts": ["Chinandega Departement", "Bergregion", "Landwirtschaft"]
+    },
+    {
+      "id": "san-francisco-de-cuapa-chontales-cities-v2",
+      "description": "San Francisco de Cuapa ist ein spirituelles Zentrum im Departement Chontales und bekannt für eine malerische Umgebung.",
+      "facts": ["Chontales Departement", "Spirituell", "Malerisch"]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "description": "Santo Domingo ist eine Gemeinde im Departement Chontales, deren Geschichte stark mit dem Bergbau und der Landwirtschaft verbunden ist.",
+      "facts": ["Chontales Departement", "Bergbau", "Landwirtschaft"]
+    },
+    {
+      "id": "la-libertad-chontales-cities-v2",
+      "description": "La Libertad ist ein wichtiges Zentrum im Departement Chontales, historisch bekannt für seine Goldminen und Viehzucht.",
+      "facts": ["Chontales Departement", "Goldminen", "Viehzucht"]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "description": "Teustepe ist eine Gemeinde im Departement Boaco, die durch ihre sanften Hügel und landwirtschaftlichen Flächen charakterisiert ist.",
+      "facts": ["Boaco Departement", "Hügelig", "Landwirtschaft"]
+    },
+    {
+      "id": "santa-lucia-boaco-cities-v2",
+      "description": "Santa Lucía im Departement Boaco ist ein ruhiges Städtchen, das für sein angenehmes Klima und seine natürliche Schönheit geschätzt wird.",
+      "facts": ["Boaco Departement", "Angenehmes Klima", "Naturschönheit"]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "description": "Camoapa ist das größte landwirtschaftliche Zentrum im Departement Boaco, das für seine Viehzucht bekannt ist.",
+      "facts": ["Boaco Departement", "Viehzucht", "Agrarzentrum"]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "description": "San José de los Remates im Departement Boaco ist eine Gemeinde in den Bergen, die für ihre Traditionen und Gastfreundschaft bekannt ist.",
+      "facts": ["Boaco Departement", "Bergregion", "Traditionell"]
+    }
+  ]
+}

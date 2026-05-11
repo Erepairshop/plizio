@@ -8,7 +8,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.1086, 9.9358],
     name: { de: "Nationalstadion von Costa Rica", hu: "Costa Rica-i Nemzeti Stadion", ro: "Stadionul Național din Costa Rica", en: "National Stadium of Costa Rica" },
-    description: { de: "Das moderne Nationalstadion in San José, ein Geschenk Chinas.", hu: "Modern nemzeti stadion San Joséban, Kína ajándéka.", ro: "Stadionul național modern din San José, un cadou din partea Chinei.", en: "Costa Rica's national stadium in La Sabana, designed as a major modern sports venue. It is the country's top football ground and a visible city landmark." },
+    description: { de: "Das Nationalstadion im Sabana-Park ist ein hochmodernes Sportstadion und ein Geschenk der Volksrepublik China.", hu: "Modern nemzeti stadion San Joséban, Kína ajándéka.", ro: "Stadionul național modern din San José, un cadou din partea Chinei.", en: "Costa Rica's modern National Stadium, a multipurpose venue and a gift from China located in La Sabana Metropolitan Park." },
     descriptionAdvanced: {
       de: "Das Estadio Nacional de Costa Rica ist ein architektonisches Meisterwerk im Herzen von San José und gilt als eines der modernsten Stadien in ganz Mittelamerika. Es wurde als großzügiges Geschenk der Volksrepublik China an das costa-ricanische Volk errichtet und 2011 feierlich eingeweiht. Das Stadion dient nicht nur als Heimstätte der Fußballnationalmannschaft, der 'Sele', sondern ist auch ein bedeutendes Zentrum für Leichtathletik und große kulturelle Veranstaltungen wie Konzerte internationaler Stars. Die markante Dachkonstruktion erinnert an ein Segel oder eine Kaffeebohne und fügt sich harmonisch in die Landschaft des La Sabana Metropolitan Parks ein. Für Sportbegeisterte und Architekturinteressierte ist ein Besuch dieses Stadions ein absolutes Muss, um die moderne Seite Costa Ricas zu erleben. Es symbolisiert den technologischen Fortschritt und die internationale Verbundenheit des Landes im 21. Jahrhundert. Sachkunde K4 — Sport und Gesellschaft.",
       hu: "A Costa Rica-i Nemzeti Stadion San José szívében, a La Sabana parkban található, és Közép-Amerika egyik legmodernebb sportlétesítménye. A 2011-ben átadott épület a Kínai Népköztársaság nagylelkű ajándéka volt a costa rica-i nép számára, jelképezve a két ország közötti diplomáciai kapcsolatok megerősödését. Az építészetileg lenyűgöző stadion tetőszerkezete egy kifeszített vitorlára vagy egy hatalmas kávészemre emlékeztet, amely harmonikusan illeszkedik a környező park zöldjébe. Nemcsak a nemzeti labdarúgó-válogatott, a \\\"Sele\\\" otthona, hanem atlétikai versenyek és nagyszabású kulturális események, például világsztárok koncertjeinek is helyszínt biztosít. A fenntarthatóság jegyében tervezték, modern vízelvezető rendszerrel és energiatakarékos megoldásokkal rendelkezik. A stadion látogatása során bepillantást nyerhetünk a modern Costa Rica technológiai fejlődésébe és a sport iránti elkötelezettségébe, amely a nemzeti identitás fontos része.",
@@ -16,13 +16,13 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: "The National Stadium of Costa Rica is a modern multipurpose venue inaugurated in 2011, replacing the former national stadium. It stands as a significant landmark in the La Sabana Metropolitan Park and hosts major international sporting and cultural events. Geography K8 — urban landscape."
     },
     factsAdvanced: {
-      en: ["Inaugurated in 2011.", "Capacity for 35,000 spectators.", "Primary venue for national team games.", "Located in La Sabana Park.", "State-of-the-art modern design.", "Hosts major international concerts."]
+      en: ["Inaugurated in 2011.", "Primary venue for national team games.", "Located in La Sabana Park.", "State-of-the-art modern design.", "Hosts major international concerts."]
     },
     facts: {
-      de: ["Eröffnet 2011", "Geschenk der chinesischen Regierung", "Heimat der Nationalmannschaft", "Kapazität: 35.000"],
+      de: ["Kapazität für 35.000 Zuschauer", "Eingeweiht im Jahr 2011", "Zentrum für Großereignisse"],
       hu: ["2011-ben nyílt meg", "A kínai kormány ajándéka", "A nemzeti válogatott otthona", "Befogadóképesség: 35 000 fő"],
       ro: ["Inaugurat în 2011", "Cadou de la guvernul chinez", "Casa echipei naționale", "Capacitate: 35.000"],
-      en: ["Opened in 2011", "In La Sabana", "National football stadium"]
+      en: ["Opened in March 2011", "Capacity for 35,000 spectators", "Gift from the People's Republic of China", "Iconic modern landmark in San José"]
     },
      image: "/poi-images/cr-estadio-nacional-landmarks-v2.webp"},
   {
@@ -31,7 +31,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-G",
     coords: [-85.1433, 10.1567],
     name: { de: "Brücke der Freundschaft Costa Rica-Taiwan", hu: "Costa Rica-Tajvan Barátság híd", ro: "Podul Prieteniei Costa Rica-Taiwan", en: "Costa Rica-Taiwan Friendship Bridge" },
-    description: { de: "Eine Schrägseilbrücke über den Tempisque-Fluss in Guanacaste.", hu: "A Tempisque folyó fölött ívelő híd, amely összeköti a Nicoya-félszigetet az ország többi részével. Fontos közlekedési kapcsolat Guanacaste és a szárazföld között.", ro: "Puente de la Amistad leagă zonele de pe malurile râului Tempisque și este una dintre cele mai utile legături rutiere din Guanacaste. A scurtat mult accesul spre peninsula Nicoya.", en: "A bridge over the Tempisque River that improved access to the Nicoya Peninsula. It is one of the most useful transport links in Guanacaste." },
+    description: { de: "Die Brücke der Freundschaft über den Fluss Tempisque verbindet das Festland mit der Halbinsel Nicoya.", hu: "A Tempisque folyó fölött ívelő híd, amely összeköti a Nicoya-félszigetet az ország többi részével. Fontos közlekedési kapcsolat Guanacaste és a szárazföld között.", ro: "Puente de la Amistad leagă zonele de pe malurile râului Tempisque și este una dintre cele mai utile legături rutiere din Guanacaste. A scurtat mult accesul spre peninsula Nicoya.", en: "The Taiwan Friendship Bridge spans the Tempisque River, significantly improving travel to the Nicoya Peninsula." },
     descriptionAdvanced: {
       de: "Die Puente de la Amistad Costa Rica-Taiwan ist ein entscheidendes Infrastrukturprojekt, das die Provinz Guanacaste mit der Nicoya-Halbinsel verbindet. Diese beeindruckende Schrägseilbrücke überspannt den Río Tempisque und hat die Reisezeit für Einheimische und Touristen drastisch verkürzt, da früher mühsame Fährüberfahrten notwendig waren. Die Brücke war ein Geschenk der Regierung Taiwans und wurde im Jahr 2003 fertiggestellt. Sie ist nicht nur ein technisches Wunderwerk, sondern bietet auch einen spektakulären Blick auf das umliegende Marschland und die vielfältige Vogelwelt der Region. Architekturfans schätzen die elegante Konstruktion, während Reisende die strategische Bedeutung für den Zugang zu den Stränden von Guanacaste loben. Trotz gelegentlicher Wartungsarbeiten bleibt sie ein Symbol der internationalen Zusammenarbeit und ein wichtiger Lebensnerv für die Wirtschaft im Nordwesten des Landes. Erdkunde K6 — Infrastruktur und Verkehrswege.",
       hu: "A Costa Rica-Tajvan Barátság híd a Tempisque folyó felett ível át, és létfontosságú összeköttetést biztosít Guanacaste tartomány és a Nicoya-félsziget között. A 2003-ban befejezett ferdekábeles híd a tajvani kormány ajándéka volt, amely jelentősen megkönnyítette a közlekedést a régióban, kiváltva a lassú és nehézkes kompátkelést. Az építmény nemcsak mérnöki bravúr, hanem esztétikai élmény is: kecses formája messziről felismerhető a mocsaras tájban. A híd felett áthaladva lenyűgöző kilátás nyílik a folyóra és a környező vizes élőhelyek gazdag madárvilágára. A híd stratégiai jelentősége felbecsülhetetlen a turizmus szempontjából, hiszen ez a leggyorsabb útvonal a félsziget népszerű strandjai felé. Bár a sós tengeri levegő és a forgalom wegen rendszeres karbantartást igényel, a \\\"Puente de la Amistad\\\" továbbra is a nemzetközi együttműködés és a gazdasági fejlődés büszke szimbóluma Costa Rica északnyugati részén.",
@@ -39,13 +39,13 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: "The Friendship Bridge (Puente de la Amistad) is a crucial cable-stayed bridge spanning the Tempisque River, linking the Nicoya Peninsula with the rest of the country. It is a landmark of modern engineering and regional integration. Geography K7 — infrastructure connectivity."
     },
     factsAdvanced: {
-      en: ["Cable-stayed bridge structure.", "Connects Nicoya to mainland.", "Vital regional transport link.", "Modern engineering landmark.", "Spans the Tempisque River.", "Essential for peninsula economy."]
+      en: ["Cable-stayed bridge structure.", "Connects Nicoya to mainland.", "Vital regional transport link.", "Modern engineering landmark.", "Essential for peninsula economy."]
     },
     facts: {
-      de: ["Eröffnet 2003", "Verkürzt Reisezeit zur Nicoya-Halbinsel", "Geschenk von Taiwan", "Länge: 780 m"],
+      de: ["Finanziert von Taiwan", "Schrägseilbrücke", "Wichtige Verkehrsverbindung"],
       hu: ["Tempisque felett", "Nicoya és Cañas között", "Fontos közúti kapcsolat"],
       ro: ["Peste râul Tempisque", "Legătură spre Nicoya", "Cadou din partea Taiwanului"],
-      en: ["Over the Tempisque River", "Opened in 2003", "Gift from Taiwan"]
+      en: ["Gift from the government of Taiwan", "Inaugurated in 2003", "Spans the Tempisque River", "Vital link for Guanacaste tourism"]
     },
      image: "/poi-images/cr-puente-de-la-amistad-landmarks-v2.webp"},
   {
@@ -54,7 +54,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0842, 9.9381],
     name: { de: "Kindermuseum (Museo de los Niños)", hu: "Gyermekmúzeum (Museo de los Niños)", ro: "Muzeul Copiilor (Museo de los Niños)", en: "Children's Museum (Museo de los Niños)" },
-    description: { de: "Ein interaktives Museum in einem ehemaligen Gefängnis, bekannt als 'Schloss der Träume'.", hu: "Interaktív múzeum egy egykori börtönben, 'Álmok Várának' is nevezik.", ro: "Un muzeu interactiv într-o fostă închisoare, cunoscut ca 'Castelul Viselor'.", en: "An interactive children's museum in a former prison building in San Jose. It mixes education, play, and historic architecture in one place." },
+    description: { de: "Das Kindermuseum in San José ist in einem ehemaligen Gefängnis untergebracht und bietet interaktive Ausstellungen.", hu: "Interaktív múzeum egy egykori börtönben, 'Álmok Várának' is nevezik.", ro: "Un muzeu interactiv într-o fostă închisoare, cunoscut ca 'Castelul Viselor'.", en: "The Children's Museum of Costa Rica is an interactive educational center housed in the historic former central penitentiary." },
     descriptionAdvanced: {
       de: "Das Museo de los Niños in San José ist ein faszinierender Ort, der Geschichte und Bildung auf einzigartige Weise verbindet. Untergebracht in der ehemaligen Zentralstrafanstalt der Stadt, hat sich das Gebäude von einem dunklen Gefängnis in ein farbenfrohes 'Schloss der Träume' verwandelt. Seit seiner Eröffnung im Jahr 1994 bietet das Museum über 40 interaktive Ausstellungsräume, die Themen wie Wissenschaft, Astronomie, Ökologie und die menschliche Physiologie abdecken. Kinder und Erwachsene können hier spielerisch lernen, Experimente durchführen und die Welt der Technik entdecken. Das imposante neugotische Gebäude mit seinen markanten Türmen ist bereits von außen ein Hingucker und steht symbolisch für die positive Veränderung und die Priorisierung der Bildung in Costa Rica. Es ist ein lebendiger Beweis dafür, wie Architektur neu interpretiert werden kann, um der nächsten Generation Wissen zu vermitteln. Sachkunde K3 — Technik und Experimente.",
       hu: "A san josé-i Gyermekmúzeum egy lenyűgöző helyszín, amely egyedülálló módon ötvözi a történelmet és az oktatást. Az épület eredetileg a város központi börtöneként szolgált, ám 1994-es megnyitása óta színes \\\"Álmok Váraként\\\" várja a látogatókat. Több mint 40 interaktív kiállítóteremmel rendelkezik, amelyek olyan témákat ölelnek fel, mint a természettudományok, a csillagászat, az ökológia és az emberi test felépítése. A gyerekek és felnőttek játékos formában tanulhatnak, kísérleteket végezhetnek és felfedezhetik a technika világát. Az impozáns neogótikus épület jellegzetes tornyaival már kívülről is magára vonzza a tekintetet, és Costa Rica oktatás iránti elkötelezettségének szimbólumává vált. Élő példája annak, hogyan lehet egy építészeti örökséget újraértelmezni, hogy a következő generációk számára tudást és élményt közvetítsen.",
@@ -65,10 +65,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Former site of central prison.", "Dedicated to interactive education.", "Landmark of urban transformation.", "Iconic cultural institution.", "Promotes youth development.", "Unique adaptive reuse of historic site."]
     },
     facts: {
-      de: ["Eröffnet 1994", "In ehemaliger Zentralstrafanstalt", "Über 40 interaktive Ausstellungen", "Fördert spielerisches Lernen"],
+      de: ["„Das Museum, das lächelt“", "In einer alten Festung", "Beliebtes Familienziel"],
       hu: ["1994-ben nyílt meg", "Egykori központi börtönben", "Több mint 40 interaktív kiállítás", "Játékos tanulást segít"],
       ro: ["Inaugurat în 1994", "Într-un fost penitenciar central", "Peste 40 de expoziții interactive", "Promovează învățarea prin joacă"],
-      en: ["Former prison", "Interactive exhibits", "Opened in 1994"]
+      en: ["Located in a former maximum-security prison", "Inaugurated as a museum in 1994", "Over 40 interactive exhibits for kids", "Known as the 'Castle of Dreams'"]
     },
      image: "/poi-images/cr-museo-ninos-landmarks-v2.webp"},
   {
@@ -77,7 +77,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0706, 9.9322],
     name: { de: "Nationalmuseum von Costa Rica", hu: "Costa Rica-i Nemzeti Múzeum", ro: "Muzeul Național din Costa Rica", en: "National Museum of Costa Rica" },
-    description: { de: "Untergebracht in der Bellavista-Festung, mit archäologischen und historischen Exponaten.", hu: "A Bellavista erődben található, régészeti és történelmi kiállításokkal.", ro: "Muzeul Național din Costa Rica este găzduit în fortăreața Bellavista, chiar în San José. Colecțiile lui acoperă istoria precolumbiană, perioada colonială și identitatea modernă a țării.", en: "Housed in the Bellavista Fortress, featuring archeological and historical exhibits." },
+    description: { de: "Das Nationalmuseum befindet sich im Bellavista-Fort und erzählt die Geschichte Costa Ricas von der Antike bis heute.", hu: "A Bellavista erődben található, régészeti és történelmi kiállításokkal.", ro: "Muzeul Național din Costa Rica este găzduit în fortăreața Bellavista, chiar în San José. Colecțiile lui acoperă istoria precolumbiană, perioada colonială și identitatea modernă a țării.", en: "Housed in the Bellavista Fortress, featuring archeological and historical exhibits." },
     descriptionAdvanced: {
       de: "Das Nationalmuseum von Costa Rica ist der ideale Ausgangspunkt, um tief in die reiche Geschichte des Landes einzutauchen. Es befindet sich in der historischen Bellavista-Festung, einem Ort von enormer symbolischer Bedeutung: Hier wurde 1948 die Abschaffung der Armee Costa Ricas verkündet. Besucher können heute noch Einschusslöcher in den Festungsmauern aus dem Bürgerkrieg sehen. Das Museum beherbergt eine beeindruckende Sammlung präkolumbischer Artefakte, darunter die berühmten mysteriösen Steinkugeln der Diquís-Kultur. Ein wunderschöner Schmetterlingsgarten am Eingang heißt die Gäste willkommen, bevor sie die verschiedenen Epochen von der Kolonialzeit bis zur Gegenwart erkunden. Die Ausstellungen bieten detaillierte Einblicke in das tägliche Leben der Ureinwohner und die politische Entwicklung der Nation. Ein Besuch hier verbindet kulturelle Bildung mit einer emotionalen Reise durch die Identität Costa Ricas. Geschichte K8 — Demokratie und Frieden.",
       hu: "A Costa Rica-i Nemzeti Múzeum a történelmi Bellavista erődben kapott helyet, amely San José egyik legfontosabb jelképe. Az erőd falai még ma is őrzik az 1948-as polgárháború nyomait, emlékeztetve a látogatókat az ország sorsfordító eseményeire. Itt jelentették be hivatalosan a hadsereg eltörlését is, ami meghatározta Costa Rica békés jövőjét. A múzeum gyűjteménye a prekolumbián korszaktól napjainkig mutatja be az ország gazdag múltját. Különösen lenyűgözőek a Diquís-kultúrából származó rejtélyes kőgolyók és az aranytárgyak. A bejáratnál egy csodálatos pillangóskert fogadja az érkezőket, ami azonnal elvarázsolja a látogatót. A kiállítások részletesen ismertetik az őslakosok életmódját, a gyarmati korszakot és a modern demokrácia kialakulását, így a múzeum megkerülhetetlen állomás mindenki számára, aki meg akarja érteni a \\\"Tico\\\" identitást.",
@@ -88,7 +88,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Located in Bellavista Fortress.", "Site of 1948 revolution history.", "Extensive pre-Columbian collection.", "National center for historic study.", "Iconic landmark for national history.", "Features historic military architecture."]
     },
     facts: {
-      de: ["In einer ehemaligen Kaserne", "Gegründet 1887", "Präkolumbische Steinkugeln", "Symbol der Abschaffung der Armee"],
+      de: ["Ehemalige Militärkaserne", "Einschusslöcher an den Mauern", "Schöner Schmetterlingsgarten"],
       hu: ["Egykori laktanyában", "1887-ben alapították", "Prekolumbián kőgolyók", "A hadsereg felszámolásának szimbóluma"],
       ro: ["În fortăreața Bellavista", "Colecții precolumbiene", "Simbol al istoriei naționale"],
       en: ["Located in a former military barracks", "Founded in 1887", "Pre-Columbian stone spheres", "Symbol of military abolition"]
@@ -100,7 +100,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0803, 9.9331],
     name: { de: "Melico Salazar Volkstheater", hu: "Melico Salazar Népszínház", ro: "Teatrul Popular Melico Salazar", en: "Melico Salazar Popular Theater" },
-    description: { de: "Ein bedeutendes Theater in San José, das eine Vielzahl von Aufführungen zeigt.", hu: "Jelentős színház San Joséban, amely sokféle előadásnak ad otthont.", ro: "Teatrul Popular Melico Salazar este unul dintre reperele culturale importante din San José. Clădirea este legată de artele spectacolului și poartă numele tenorului costarican Melico Salazar.", en: "An important theater in San José, hosting a wide variety of performances." },
+    description: { de: "Ein bedeutendes Theater in San José, das eine Vielzahl von Aufführungen zeigt.", hu: "Jelentős színház San Joséban, amely sokféle előadásnak ad otthont.", ro: "Teatrul Popular Melico Salazar este unul dintre cele mai importante centre culturale din San José, găzduit într-o clădire neoclasică impresionantă. Acesta servește ca spațiu principal pentru artele spectacolului și evenimente artistice populare.", en: "An important theater in San José, hosting a wide variety of performances." },
     descriptionAdvanced: {
       de: "Das Teatro Popular Melico Salazar ist ein Juwel der neoklassizistischen Architektur im Zentrum von San José. Benannt nach dem berühmten costa-ricanischen Tenor Manuel 'Melico' Salazar, dient dieses Theater als Bühne für die breite Bevölkerung und fördert den Zugang zu den Künsten für alle sozialen Schichten. Das prachtvolle Gebäude mit seiner kunstvollen Fassade und den eleganten Säulen wurde in den 1920er Jahren ursprünglich als Kino und Varieté-Bühne konzipiert. Heute ist es der Sitz wichtiger nationaler Ensembles wie der Nationalen Tanzkompagnie und des Nationalen Theatersystems. Die Akustik im Inneren ist hervorragend und bietet den idealen Rahmen für Opern, Konzerte und zeitgenössische Theaterstücke. Ein Spaziergang vorbei an der beleuchteten Fassade am Abend vermittelt den Glanz des alten San José. Es ist ein lebendiges Denkmal für das kulturelle Erbe und die musikalische Leidenschaft des Landes. Musik K7 — Kulturelle Institutionen.",
       hu: "A Melico Salazar Népszínház a neoklasszicista építészet gyöngyszeme San José központjában. A híres costa rica-i tenorról, Manuel \\\"Melico\\\" Salazarról elnevezett intézmény célja a kultúra közvetítése minden társadalmi réteg számára. Az épület elegáns homlokzata, művészi szobrai és monumentális oszlopai az 1920-as évek San Joséjának pompáját idézik. Eredetileg mozinak és varietészínpadnak tervezték, ma azonban a nemzeti táncegyüttes és más fontos művészeti csoportok otthona. A színház belső akusztikája kiváló, így operák, hangversenyek és kortárs drámák tökéletes helyszíne. Az esti fényekben úszó épület látványa felejthetetlen élményt nyújt a városi séták során. Ez a színház nemcsak egy épület, hanem a nemzeti kulturális örökség és a zene iránti szenvedély élő emlékműve, amely kaput nyit a művészetek világára minden látogató számára.",
@@ -113,7 +113,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     facts: {
       de: ["Erbaut in den 1920er Jahren", "Neoklassizistischer Stil", "Benannt nach berühmtem Tenor", "Fokus auf Populärkultur"],
       hu: ["1920-as években épült", "Neoklasszicista stílus", "Híres tenoristáról nevezték el", "Fókuszban a népszerű kultúra"],
-      ro: ["În San José", "Numit după Melico Salazar", "Spațiu pentru arte spectacolului"],
+      ro: ["Inaugurat inițial în anul 1928", "Declarat Patrimoniu Istoric-Arhitectural", "Capacitate de peste 1.000 de spectatori"],
       en: ["Built in the 1920s", "Neoclassical style", "Named after a famous tenor", "Focus on popular culture"]
     },
      image: "/poi-images/cr-teatro-melico-salazar-landmarks-v2.webp"},
@@ -123,7 +123,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0811, 9.9353],
     name: { de: "Hauptpostamt von Costa Rica", hu: "Costa Rica-i Főposta", ro: "Oficiul Poștal Central din Costa Rica", en: "Central Post Office of Costa Rica" },
-    description: { de: "Ein historisches, palastartiges Gebäude im Herzen von San José.", hu: "San José központi postahivatala és a costa ricai posta egyik legismertebb történeti épülete. A belvárosi épület ma is a városi örökség része.", ro: "O clădire istorică, asemănătoare unui palat, în inima orașului San José.", en: "The Central Post Office of Costa Rica, a historic building in downtown San Jose. Its palace-like design makes it one of the city's most recognizable heritage sites." },
+    description: { de: "Das Hauptpostgebäude in San José ist ein architektonisches Juwel im neoklassizistischen Stil.", hu: "San José központi postaépülete, egy gyönyörű neoreneszánsz építészeti remekmű a főváros szívében.", ro: "O clădire istorică, asemănătoare unui palat, în inima orașului San José.", en: "The historic Central Post Office building in San José is a masterpiece of Neoclassical architecture from the early 20th century." },
     descriptionAdvanced: {
       de: "Das Hauptpostamt von Costa Rica (Edificio de Correos y Telégrafos) ist eines der elegantesten Bauwerke in San José. Das im französischen Neorenaissance-Stil errichtete Gebäude besticht durch seine hellgrüne Fassade und die kunstvollen Verzierungen, die an die europäische Architektur des frühen 20. Jahrhunderts erinnern. Fertiggestellt im Jahr 1917, überstand es zahlreiche Erdbeben und bleibt ein funktionales Zentrum für Postdienstleistungen sowie ein beliebtes Fotomotiv für Touristen. Im Obergeschoss befindet sich ein faszinierendes Post- und Philateliemuseum, das die Geschichte der Kommunikation in Costa Rica dokumentiert. Von alten Telegrafenmaschinen bis hin zu seltenen Briefmarken bietet das Museum eine Zeitreise für Technikinteressierte. Die zentrale Lage am Plaza Juan Mora Fernández macht es zu einem idealen Orientierungspunkt für Erkundungstouren durch die Hauptstadt. Es verkörpert den Stolz einer Ära, in der die Post der wichtigste Draht zur Welt war. Sachkunde K4 — Geschichte der Kommunikation.",
       hu: "A Costa Rica-i Főposta épülete San José egyik legelegánsabb történelmi emléke. A francia neoreneszánsz stílusban emelt palota világoszöld homlokzatával és díszes faragványaival a 20. század eleji európai építészetet idézi. Az 1917-ben befejezett építmény számos földrengést vészelt át sérülés nélkül, és ma is a postai szolgáltatások központjaként működik. Az emeleten található Posta- és Filatéliai Múzeum izgalmas betekintést nyújt a távközlés fejlődésébe Costa Ricában, a régi távíróktól a ritka bélyegekig. A Plaza Juan Mora Fernández téren álló épület tökéletes tájékozódási pont a főváros felfedezéséhez. Jelképe annak a korszaknak, amikor a posta volt az ország elsődleges kapcsolata a külvilággal. A látogatók nemcsak a szolgáltatásokat vehetik igénybe, hanem gyönyörködhetnek a belső terek klasszikus eleganciájában is.",
@@ -134,10 +134,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Historical postal monument.", "Famous for ornate metallic facade.", "Central urban historical landmark.", "Symbolizes history of communications.", "Early 20th-century design.", "Key point in downtown San José."]
     },
     facts: {
-      de: ["Erbaut 1917", "Französischer Neorenaissance-Stil", "Beherbergt das Postmuseum", "Architektonisches Wahrzeichen"],
-      hu: ["San José belvárosában", "Történeti postahivatal", "1917-ben épült"],
+      de: ["Erbaut im Jahr 1917", "Historisches Postmuseum", "Markantes grünes Gebäude"],
+      hu: ["1917-ben fejezték be az építését", "Bélyegmúzeumnak is otthont ad", "Zöld homlokzata jellegzetes látvány"],
       ro: ["Construit în 1917", "Stil neorenascentist francez", "Găzduiește Muzeul Poștal", "Reper arhitectural"],
-      en: ["Built in 1917", "Downtown San Jose", "Postal heritage building"]
+      en: ["Completed in 1917", "Grand Neoclassical facade", "National monument of Costa Rica", "Houses the Philatelic Museum"]
     },
      image: "/poi-images/cr-correos-costa-rica-landmarks-v2.webp"},
   {
@@ -169,7 +169,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.1039, 9.9358],
     name: { de: "Museum für costa-ricanische Kunst", hu: "Costa Rica-i Művészeti Múzeum", ro: "Muzeul de Artă Costaricană", en: "Costa Rican Art Museum" },
-    description: { de: "Im ehemaligen internationalen Flughafenterminal La Sabana.", hu: "A Costa Rica-i Művészeti Múzeum a La Sabana egykori repülőtéri termináljában működik. Az ország képzőművészeti gyűjteményének egyik legfontosabb helyszíne.", ro: "Situat în fostul terminal al aeroportului internațional La Sabana.", en: "Costa Rica's main art museum, located in the former La Sabana airport terminal. It holds an important national collection and a strong architectural presence." },
+    description: { de: "Dieses Kunstmuseum befindet sich im ehemaligen Flughafengebäude von La Sabana und zeigt bedeutende nationale Werke.", hu: "A Costa Rica-i Művészeti Múzeum a La Sabana egykori repülőtéri termináljában működik. Az ország képzőművészeti gyűjteményének egyik legfontosabb helyszíne.", ro: "Situat în fostul terminal al aeroportului internațional La Sabana.", en: "Located in the former main airport terminal at La Sabana, this museum houses the country's most important art collection." },
     descriptionAdvanced: {
       de: "Das Museum für costa-ricanische Kunst (MAC) bietet eine einzigartige Kombination aus Kunstgeschichte und Luftfahrtnostalgie. Es ist im ehemaligen Terminalgebäude des ersten internationalen Flughafens von San José im La Sabana Park untergebracht. Das Gebäude im neokolonialen Stil ist an sich schon ein Kunstwerk und beherbergt die wichtigste Sammlung bildender Kunst des Landes. Besonders beeindruckend ist der 'Goldene Saal' (Salón Dorado) im Obergeschoss, dessen Wände mit einem monumentalen Stuckrelief verziert sind, das die Geschichte Costa Ricas von der präkolumbischen Zeit bis 1940 darstellt. Im Außenbereich lädt ein Skulpturengarten zum Verweilen ein, in dem Werke bedeutender nationaler Künstler ausgestellt sind. Das Museum fördert aktiv zeitgenössische Künstler und bietet regelmäßig wechselnde Ausstellungen. Es ist ein Ort der Ruhe und Inspiration mitten im Grünen der Hauptstadt. Kunst K8 — Nationale Identität in der Kunst.",
       hu: "A Costa Rica-i Művészeti Múzeum (MAC) a művészettörténet és a repülés iránti nosztalgia különleges találkozóhelye. Az intézmény San José első nemzetközi repülőterének egykori termináljában kapott helyet a La Sabana parkban. A neokoloniális stílusú épület önmagában is műalkotás, amely az ország legfontosabb képzőművészeti gyűjteményét őrzi. Különösen lenyűgöző az emeleti \\\"Aranyterem\\\" (Salón Dorado), amelynek falait monumentális stukkódombormű díszíti, bemutatva Costa Rica történelmét a prekolumbián időktől 1940-ig. A múzeum kertjében szoborpark várja a pihenni vágyókat, ahol neves hazai művészek alkotásai láthatók. A múzeum aktívan támogatja a kortárs alkotókat is időszakos kiállításokkal. Ez a hely a nyugalom és az inspiráció oázisa a főváros forgatagában, ahol a múlt és a jelen művészete kéz a kézben jár.",
@@ -180,10 +180,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Former airport terminal building.", "National art and sculpture collection.", "Cultural landmark of fine arts.", "Exhibits Costa Rican artistic evolution.", "Located at La Sabana Park.", "Historical architecture conservation."]
     },
     facts: {
-      de: ["Eröffnet 1978", "Umfassende Sammlung nationaler Kunst", "Goldener Saal mit Stuckrelief", "Skulpturengarten"],
+      de: ["Altes Terminalgebäude", "Goldener Saal (Salón Dorado)", "Skulpturengarten im Freien"],
       hu: ["La Sabana területén", "Egykori repülőtéri terminál", "Nemzeti művészeti gyűjtemény"],
       ro: ["Inaugurat în 1978", "Colecție vastă de artă națională", "Salonul de Aur cu basorelief", "Grădină de sculpturi"],
-      en: ["In La Sabana", "Former airport terminal", "National art collection"]
+      en: ["Housed in a former airport terminal", "Located in La Sabana Park, San José", "Features the impressive Golden Room", "Focuses on 19th and 20th century art"]
     },
      image: "/poi-images/cr-museo-arte-costarricense-landmarks-v2.webp"},
   {
@@ -192,7 +192,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0119, 9.9722],
     name: { de: "Kirche von Coronado", hu: "Coronadói templom", ro: "Biserica din Coronado", en: "Church of Coronado" },
-    description: { de: "Eine beeindruckende neugotische Kirche in San Isidro de Coronado.", hu: "Lenyűgöző neogótikus templom San Isidro de Coronadóban.", ro: "Biserica din Coronado este un reper religios important în zona metropolitană a capitalei. Templul face parte din viața zilnică a comunității locale din San Isidro de Coronado.", en: "An impressive neo-Gothic church in San Isidro de Coronado." },
+    description: { de: "Eine beeindruckende neugotische Kirche in San Isidro de Coronado.", hu: "Lenyűgöző neogótikus templom San Isidro de Coronadóban.", ro: "Biserica din Coronado, dedicată Sfântului Isidor Muncitorul, este o capodoperă a arhitecturii neogotice din Costa Rica. Structura sa zveltă și detaliile ornamentale o fac unul dintre cele mai fotografiate monumente religioase din țară.", en: "An impressive neo-Gothic church in San Isidro de Coronado." },
     descriptionAdvanced: {
       de: "Die Kirche von San Isidro de Coronado ist ein beeindruckendes Beispiel neugotischer Architektur in Costa Rica. Gelegen in den kühleren Hügeln nordöstlich von San José, überragt das massive Gebäude den zentralen Platz der Stadt Coronado. Die Kirche wurde mit Stahlfertigteilen aus Deutschland und Belgien erbaut, was ihr eine außergewöhnliche Stabilität gegenüber Erdbeben verleiht. Ihre hohen, spitzen Türme und die filigranen Buntglasfenster erinnern an die großen Kathedralen Europas. Das Innere ist weitläufig und hell, mit kunstvollen Altären und einer friedlichen Atmosphäre, die viele Gläubige und Touristen anzieht. Coronado selbst ist bekannt für seine Milchwirtschaft, und die Kirche bildet das stolze Zentrum dieser ländlich geprägten Gemeinde. Die Kombination aus europäischem Design und lokaler Frömmigkeit macht dieses Gebäude zu einem der meistfotografierten Gotteshäuser des Landes. Sachkunde K3 — Bauwerke und Materialien.",
       hu: "A coronadói San Isidro-templom a neogótikus építészet egyik legszebb példája Costa Ricában. San José északkeleti dombjain, a hűvösebb éghajlatú Coronado városában található, és messze kimagaslik a központi tér épületei közül. A templom érdekessége, hogy Németországból és Belgiumból importált előregyártott acélszerkezettel épült, ami rendkívüli stabilitást biztosít neki a földrengésekkel szemben. Magas, égbe törő tornyai és filigrán ólomüveg ablakai az európai katedrálisok világát idézik. A belső tér tágas és világos, díszes oltárokkal és békés hangulattal, amely vonzza a hívőket és a turistákat egyaránt. Coronado városa a tejiparáról is ismert, és ez a templom a büszke központja ennek a hagyománytisztelő közösségnek. Az európai dizájn és a helyi vallásosság ezen találkozása az ország egyik legtöbbet fényképezett egyházi épületévé tette.",
@@ -205,7 +205,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     facts: {
       de: ["Erbaut in den 1930er Jahren", "Neugotischer Stil", "Hohe Zwillingstürme", "Nationales Architekturdenkmal"],
       hu: ["1930-as években épült", "Neogótikus stílus", "Magas ikertornyok", "Nemzeti építészeti emlék"],
-      ro: ["În San Isidro de Coronado", "Reper parohial", "Parte din zona metropolitană"],
+      ro: ["Construită din beton armat și oțel", "Situată în inima orașului Vázquez de Coronado", "Design inspirat de catedralele europene"],
       en: ["Built in the 1930s", "Neo-Gothic style", "Tall twin spires", "National architectural monument"]
     },
      image: "/poi-images/cr-iglesia-de-coronado-landmarks-v2.webp"},
@@ -215,7 +215,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0681, 9.9367],
     name: { de: "Tempel der Musik", hu: "Zene Temploma", ro: "Templul Muzicii", en: "Temple of Music" },
-    description: { de: "Ein ikonischer Pavillon im Parque Morazán in San José.", hu: "A Templo de la Música a Parque Morazán egyik legismertebb városi jelképe San Joséban. Kis mérete ellenére fontos része a főváros történeti arculatának.", ro: "Un pavilion iconic în Parcul Morazán din San José.", en: "An iconic bandstand in Morazan Park, better known as the Temple of Music. It is a small but important symbol of downtown San Jose." },
+    description: { de: "Der Musiktempel im Morazán-Park ist ein elegantes Bauwerk, das oft für Konzerte und kulturelle Veranstaltungen genutzt wird.", hu: "A Templo de la Música a Parque Morazán egyik legismertebb városi jelképe San Joséban. Kis mérete ellenére fontos része a főváros történeti arculatának.", ro: "Un pavilion iconic în Parcul Morazán din San José.", en: "An elegant neoclassical pavilion in Morazán Park, inspired by the Temple of Love at Versailles and used for concerts." },
     descriptionAdvanced: {
       de: "Der Tempel der Musik (Templo de la Musik) ist das ikonische Wahrzeichen des Parque Morazán im Herzen von San José. Dieser elegante Pavillon wurde 1920 eingeweiht und ist ein fast exakter Nachbau des Petit Trianon in Versailles. Mit seinen klassischen Säulen und der perfekten Symmetrie dient er seit über einem Jahrhundert als Bühne für Konzerte der Nationalen Symphonie, politische Reden und kulturelle Feierlichkeiten. Der Pavillon aus Stahlbeton hat eine hervorragende Akustik und ist ein beliebter Treffpunkt für Stadtbewohner, Musiker und Verliebte. Er symbolisiert die Sehnsucht der costa-ricanischen Elite des frühen 20. Jahrhunderts nach europäischer Eleganz und Kultur. Umgeben von alten Bäumen und Statuen bietet der Tempel eine Oase der Ruhe inmitten des hektischen Stadtverkehrs. Er ist ein unverzichtbarer Teil der urbanen Identität von San José. Musik K6 — Musik im öffentlichen Raum.",
       hu: "A Zene Temploma (Templo de la Música) San José szívében, a Morazán parkban található, és a város egyik legismertebb jelképe. Ezt az elegáns pavilont 1920-ban avatták fel, és a versailles-i Kis-Trianon kastély egyik pavilonjának szinte pontos másolata. Klasszikus oszlopaival és tökéletes szimmetriájával több mint egy évszázada szolgál helyszínül nemzeti zenekarok koncertjeinek, politikai beszédeknek és kulturális ünnepségeknek. A vasbetonból készült építmény kiváló akusztikával rendelkezik, és kedvelt találkozóhelye a városlakóknak, zenészeknek és szerelmeseknek egyaránt. A pavilon a 20. század eleji costa rica-i elit európai elegancia iránti vágyát tükrözi. Az öreg fák és szobrok által körülvett templom a nyugalom szigete a nyüzsgő városi forgalom közepén. San José városi arculatának elengedhetetlen része, amely őrzi a közösségi zenélés hagyományát.",
@@ -226,10 +226,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Classical-style performance temple.", "Located in La Sabana Park.", "Historical cultural monument.", "Represents early urban priority.", "Landmark for artistic expression.", "Key focal point in city planning."]
     },
     facts: {
-      de: ["Erbaut 1920", "Nachbau des Trianon-Tempels in Versailles", "Ort für Konzerte und Veranstaltungen", "Symbol der Stadt"],
+      de: ["Nach dem Vorbild von Versailles", "Erbaut im Jahr 1920", "Ikonisches Denkmal in San José"],
       hu: ["Parque Morazánban van", "Városi jelképpé vált", "Történeti pavilon"],
       ro: ["Construit în 1920", "Replică a Templului Trianon din Versailles", "Loc pentru concerte și evenimente", "Simbol al orașului"],
-      en: ["Built in 1920", "In Morazan Park", "Bandstand landmark"]
+      en: ["Inaugurated in December 1920", "Located in Parque Morazán, San José", "modeled after a French landmark", "Cultural hub for public performances"]
     },
      image: "/poi-images/cr-templo-musica-landmarks-v2.webp"},
   {
@@ -238,7 +238,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0711, 9.9339],
     name: { de: "Nationaldenkmal von Costa Rica", hu: "Costa Rica-i Nemzeti Emlékmű", ro: "Monumentul Național din Costa Rica", en: "National Monument of Costa Rica" },
-    description: { de: "Eine Bronzeskulptur im Parque Nacional, die den Sieg von 1856 darstellt.", hu: "Bronzszobor a Nemzeti Parkban, amely az 1856-os győzelmet ábrázolja.", ro: "O sculptură din bronz în Parcul Național, reprezentând victoria din 1856.", en: "A bronze sculpture in the National Park depicting the 1856 victory." },
+    description: { de: "Das Nationaldenkmal im Nationalpark erinnert an den Sieg über die Filibustiere im 19. Jahrhundert.", hu: "Bronzszobor a Nemzeti Parkban, amely az 1856-os győzelmet ábrázolja.", ro: "O sculptură din bronz în Parcul Național, reprezentând victoria din 1856.", en: "A bronze sculpture in the National Park depicting the 1856 victory." },
     descriptionAdvanced: {
       de: "Das Nationaldenkmal im Parque Nacional von San José ist das wichtigste bildhauerische Werk Costa Ricas. Die monumentale Bronzegruppe wurde Ende des 19. Jahrhunderts in Frankreich geschaffen und stellt den Sieg der mittelamerikanischen Nationen über die Filibuster unter William Walker im Jahr 1856 dar. Fünf Frauenfiguren symbolisieren die mittelamerikanischen Republiken, die gemeinsam den Eindringling vertreiben, der durch einen fliehenden Mann dargestellt wird. Costa Rica steht als zentrale Figur im Mittelpunkt des Geschehens. Das Denkmal ist ein mächtiges Symbol für nationale Souveränität, Freiheit und die Einheit Zentralamerikas. Jedes Jahr am 15. September ist es Schauplatz der offiziellen Unabhängigkeitsfeiern mit Kranzniederlegungen durch den Präsidenten. Die detailreiche Ausführung der Figuren und die dramatische Komposition machen es zu einem Meisterwerk des historischen Realismus. Geschichte K7 — Die Kampagne von 1856.",
       hu: "A san josé-i Nemzeti Parkban álló Nemzeti Emlékmű Costa Rica legfontosabb szobrászati alkotása. A monumentális bronzszoborcsoportot a 19. század végén készítették Franciaországban, és az 1856-os háború emlékére emelték, amikor a közép-amerikai nemzetek összefogtak William Walker kalandorai ellen. Öt nőalak jelképezi a közép-amerikai köztársaságokat, amint közösen elűzik a betolakodót, akit egy menekülő férfi alakja személyesít meg. Costa Rica áll a középpontban, mint a szövetség vezető ereje. Az emlékmű a nemzeti szuverenitás, a szabadság és a közép-amerikai egység erőteljes szimbóluma. Minden év szeptember 15-én itt tartják a hivatalos függetlenségi ünnepségeket az elnök részvételével. A figurák részletgazdag kidolgozása és a drámai kompozíció a történelmi realizmus mesterművévé teszi az alkotást, amely minden costa rica-i számára mély jelentéssel bír.",
@@ -249,7 +249,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Commemorates the 1856-1857 Campaign.", "Symbolizes national sacrifice.", "Located in the National Park area.", "Key national identity landmark.", "Historical tribute to defense.", "Significant public monument."]
     },
     facts: {
-      de: ["Enthüllt 1895", "Symbolisiert den Sieg über William Walker", "Von französischem Künstler geschaffen", "Herzstück des Nationalparks"],
+      de: ["Bronzeskulptur aus Paris", "Symbol der Freiheit", "Geweiht im Jahr 1895"],
       hu: ["1895-ben leplezték le", "A William Walker feletti győzelmet jelképezi", "Francia művész alkotása", "A Nemzeti Park központi eleme"],
       ro: ["Dezvelit în 1895", "Simbolizează victoria asupra lui William Walker", "Creat de un artist francez", "Piesa centrală a Parcului Național"],
       en: ["Unveiled in 1895", "Symbolizes victory over William Walker", "Created by a French artist", "Centerpiece of the National Park"]
@@ -284,7 +284,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.0686, 9.9358],
     name: { de: "Nationales Kulturzentrum (CENAC)", hu: "Nemzeti Kulturális Központ (CENAC)", ro: "Centrul Național de Cultură (CENAC)", en: "National Center of Culture (CENAC)" },
-    description: { de: "Ein Kulturkomplex in einer ehemaligen Likörfabrik.", hu: "Kulturális komplexum egy egykori likőrgyárban.", ro: "Un complex cultural într-o fostă fabrică de lichior.", en: "A cultural complex in a former liquor factory in San Jose. Today it houses theaters, galleries, and public cultural spaces." },
+    description: { de: "Das Nationale Zentrum für Kunst und Kultur ist in der ehemaligen Nationalen Schnapsfabrik (FANAL) untergebracht.", hu: "Kulturális komplexum egy egykori likőrgyárban.", ro: "Un complex cultural într-o fostă fabrică de lichior.", en: "The National Cultural Center is a historic complex that formerly served as the National Liquor Factory for over a century." },
     descriptionAdvanced: {
       de: "Das Nationale Kulturzentrum (CENAC) in San José ist ein lebendiger Beweis für die erfolgreiche Umnutzung historischer Industriearchitektur. Der Komplex ist in der ehemaligen Nationalen Likörfabrik untergebracht, die im 19. Jahrhundert eines der modernsten Unternehmen der Region war. Heute beherbergt das weitläufige Gelände das Ministerium für Kultur und Jugend, das Museum für zeitgenössische Kunst und Design (MADC) sowie mehrere Theater und Galerien. Die Architektur kombiniert massives Mauerwerk und gusseiserne Strukturen mit modernen Installationen. Besucher können durch die kühlen Innenhöfe schlendern, in denen oft Aufführungen und Kunsthandwerksmärkte stattfinden. Das CENAC ist das pulsierende Herz der kreativen Szene Costa Ricas und bietet eine Plattform für innovative Projekte in den Bereichen Tanz, Theater und bildende Kunst. Ein Ort, an dem Tradition auf Avantgarde trifft. Kunst K8 — Kulturmanagement und Museologie.",
       hu: "A san josé-i Nemzeti Kulturális Központ (CENAC) a történelmi ipari építészet polgári célú újrahasznosításának kiváló példája. A komplexum az egykori Nemzeti Likőrgyár területén található, amely a 19. században a régió egyik legmodernebb vállalata volt. Ma a tágas udvarokon és épületekben a Kulturális és Ifjúsági Minisztérium, a Kortárs Művészeti és Design Múzeum (MADC), valamint több színház és galéria működik. Az építészet ötvözi a masszív téglafalakat és az öntöttvas szerkezeteket a modern installációkkal. A látogatók hűvös belső udvarokon sétálhatnak, ahol gyakran tartanak előadásokat és kézműves vásárokat. A CENAC Costa Rica kreatív életének dobogó szíve, amely platformot biztosít az innovatív projekteknek a tánc, a színház és a vizuális művészetek területén. Olyan hely ez, ahol a tradíció és az avantgárd találkozik.",
@@ -292,13 +292,13 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: "CENAC (National Center for Culture and Art) is housed in the former National Liquor Factory. This industrial-turned-cultural landmark now serves as the headquarters for the Ministry of Culture, preserving both history and contemporary arts. Geography K7 — urban transformation."
     },
     factsAdvanced: {
-      en: ["Former National Liquor Factory.", "Cultural and arts headquarters.", "Landmark of urban industrial reuse.", "Ministry of Culture location.", "Preserves artistic development history.", "Important site for contemporary culture."]
+      en: ["Cultural and arts headquarters.", "Landmark of urban industrial reuse.", "Ministry of Culture location.", "Preserves artistic development history.", "Important site for contemporary culture."]
     },
     facts: {
-      de: ["Historisches Industriegebäude", "Beherbergt Theater, Galerien und das Kulturministerium", "Zentrum für künstlerische Aktivitäten", "Eröffnet 1994"],
+      de: ["Multidisziplinärer Raum", "Historischer Industriekomplex", "Beherbergt das MADC-Museum"],
       hu: ["Történelmi ipari épület", "Színháznak, galériáknak és a kulturális minisztériumnak ad otthont", "Művészeti tevékenységek központja", "1994-ben nyílt meg"],
       ro: ["Clădire industrială istorică", "Găzduiește teatre, galerii și Ministerul Culturii", "Centru pentru activități artistice", "Inaugurat în 1994"],
-      en: ["Former factory", "Opened in 1994", "Cultural complex"]
+      en: ["Former National Liquor Factory site", "Built in the mid-19th century", "Houses the Ministry of Culture", "Includes theaters and art galleries"]
     },
      image: "/poi-images/cr-cenac-landmarks-v2.webp"},
   {
@@ -307,7 +307,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-P",
     coords: [-84.8353, 9.9758],
     name: { de: "Pier von Puntarenas", hu: "Puntarenasi móló", ro: "Debarcaderul din Puntarenas", en: "Puntarenas Pier" },
-    description: { de: "Der lange Pier ist ein Wahrzeichen der Hafenstadt Puntarenas.", hu: "A puntarenasi móló a csendes-óceáni kikötőváros egyik klasszikus központi pontja. A tengerparti sétány és a kikötői élet szorosan kapcsolódik hozzá.", ro: "Muelle de Puntarenas este emblema portuară a orașului și unul dintre cele mai recunoscute locuri de pe coasta Pacificului. Aici se simte legătura dintre oraș, turism și transportul maritim.", en: "The long pier is a landmark of the port city of Puntarenas." },
+    description: { de: "Die historische Anlegestelle von Puntarenas ist ein beliebter Ort für Spaziergänge und bietet einen weiten Blick über den Pazifik.", hu: "Puntarenas híres mólója, amely a város egyik legnépszerűbb sétánya és a tengerjáró hajók kikötőhelye.", ro: "Muelle de Puntarenas este emblema portuară a orașului și unul dintre cele mai recunoscute locuri de pe coasta Pacificului. Aici se simte legătura dintre oraș, turism și transportul maritim.", en: "The long pier is a landmark of the port city of Puntarenas." },
     descriptionAdvanced: {
       de: "Der Pier von Puntarenas ist das pulsierende Wahrzeichen dieser historischen Hafenstadt am Golf von Nicoya. Als wichtiger Anlegepunkt für internationale Kreuzfahrtschiffe ist er das Tor für Tausende von Touristen, die Costa Rica auf dem Seeweg entdecken. Doch der Pier ist weit mehr als nur Infrastruktur; er ist der gesellschaftliche Mittelpunkt von Puntarenas. Am späten Nachmittag versammeln sich hier Einheimische und Besucher auf dem angrenzenden 'Paseo de los Turistas', um den spektakulären Sonnenuntergang über dem Pazifik zu genießen. Der Pier erstreckt sich weit ins Meer hinaus und bietet einen fantastischen Blick auf die Küstenlinie und die fernen Berge. Der Duft von frischem Fisch und die Meeresbrise prägen die Atmosphäre. In der Nähe finden sich zahlreiche Stände, die das berühmte 'Churchill' (ein lokales Sorbet-Eis) verkaufen. Ein Spaziergang hier ist ein authentisches Erlebnis costa-ricanischer Küstenkultur. Erdkunde K7 — Tourismus und Hafenwirtschaft.",
       hu: "A puntarenasi móló a Nicoya-öböl partján fekvő történelmi kikötőváros lüktető jelképe. Fontos kikötőhelye a nemzetközi tengerjáró hajóknak, így kapuként szolgál a turisták ezrei számára, akik a tenger felől érkezve fedezik fel Costa Ricát. Ám a móló sokkal több, mint puszta infrastruktúra; ez Puntarenas társadalmi életének középpontja. Késő délután helyiek és látogatók gyűlnek össze a szomszédos \\\"Paseo de los Turistas\\\" sétányon, hogy megcsodálják a Csendes-óceán feletti látványos naplementét. A móló hosszan nyúlik be a tengerbe, fantasztikus kilátást nyújtva a partvonalra és a távoli hegyekre. A friss hal illata és a tengeri szellő határozza meg a hangulatot. A közelben számos árus kínálja a híres \\\"Churchill\\\" nevű helyi jégkrémet. Egy séta ezen a környéken autentikus bepillantást enged a costa rica-i tengerparti kultúrába.",
@@ -318,8 +318,8 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Historic maritime pier landmark.", "Symbol of seafaring heritage.", "Regional hub for tourism activity.", "Active node in Gulf of Nicoya.", "Cultural landmark for Pacific coast.", "Vital coastal infrastructure site."]
     },
     facts: {
-      de: ["Wichtig für Kreuzfahrtschiffe", "Beliebter Ort zum Angeln und Spazieren", "Bietet tolle Sonnenuntergänge", "Herz der Stadt"],
-      hu: ["Puntarenas kikötővárosában", "Történeti móló", "A part menti élet része"],
+      de: ["Langer Pier für Kreuzfahrtschiffe", "Treffpunkt für Sonnenuntergänge", "Wirtschaftliches Herz der Stadt"],
+      hu: ["Hosszú tengerbe nyúló sétány", "Turisztikai és gazdasági központ", "Kilátás a Nicoya-öbölre"],
       ro: ["Pe coasta Pacificului", "Simbol al orașului Puntarenas", "Folosit pentru activități portuare și turistice"],
       en: ["Important for cruise ships", "Popular spot for fishing and strolling", "Offers great sunsets", "Heart of the city"]
     },
@@ -330,7 +330,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-A",
     coords: [-84.3083, 10.0733],
     name: { de: "Metallkirche von Grecia", hu: "Grecai fém-templom", ro: "Biserica Metalică din Grecia", en: "Metal Church of Grecia" },
-    description: { de: "Eine einzigartige Kirche aus vorgefertigten Stahlplatten aus Belgien.", hu: "A greciai fémből készült templom Costa Rica egyik legismertebb építészeti különlegessége. Előre gyártott elemei miatt már messziről felismerhető.", ro: "Biserica de metal din Grecia este un reper unic, construit din piese metalice prefabricate. Clădirea a devenit simbolul orașului Grecia din provincia Alajuela.", en: "The famous metal church of Grecia, made from prefabricated steel plates. Its red neo-Gothic form makes it one of the country's best-known architectural curiosities." },
+    description: { de: "Die Kirche von Grecia besteht vollständig aus tiefroten Metallplatten und ist einzigartig in Mittelamerika.", hu: "A greciai fémből készült templom Costa Rica egyik legismertebb építészeti különlegessége. Előre gyártott elemei miatt már messziről felismerhető.", ro: "Biserica de metal din Grecia este un reper unic, construit din piese metalice prefabricate. Clădirea a devenit simbolul orașului Grecia din provincia Alajuela.", en: "A unique architectural marvel in Grecia, this church is made entirely of prefabricated steel plates imported from Belgium." },
     descriptionAdvanced: {
       de: "Die Metallkirche von Grecia (Iglesia de Nuestra Señora de las Mercedes) ist eines der kuriosesten und faszinierendsten Bauwerke Mittelamerikas. Die gesamte Struktur besteht aus vorgefertigten Stahlplatten, die Ende des 19. Jahrhunderts in Belgien hergestellt und per Schiff nach Costa Rica transportiert wurden. Von der Hafenstadt Puntarenas aus mussten die schweren Metallteile mit Ochsenkarren über die Berge bis nach Grecia geschleppt werden. Die tiefrote Farbe der Kirche und ihr neugotischer Stil machen sie zu einem unverwechselbaren Wahrzeichen. Im Inneren überrascht das Gebäude mit einer hellen Atmosphäre und kunstvollen Details, die man bei einer reinen Metallkonstruktion kaum vermuten würde. Die Wahl des Materials war eine Reaktion auf die verheerenden Erdbeben der Region, denen viele Holzkirchen zum Opfer gefallen waren. Ein Meisterwerk der Ingenieurskunst und ein Symbol für den Fleiß der Gemeinde. Sachkunde K4 — Materialien und Transportgeschichte.",
       hu: "A grecai fém-templom (Iglesia de Nuestra Señora de las Mercedes) Közép-Amerika egyik legkülönlegesebb építménye. A teljes szerkezet előregyártott acéllemezekből áll, amelyeket a 19. század végén Belgiumban gyártottak, majd hajóval szállítottak Costa Ricába. Puntarenas kikötőjéből a nehéz fémalkatrészeket ökrös szekerekkel húzták fel a hegyeken keresztül egészen Grecia városáig. A templom mélyvörös színe és neogótikus stílusa összetéveszthetetlen jelképpé teszi. Belül az épület világos és díszes, ami meglepő egy tisztán fémből készült konstrukciótól. Az anyagválasztás válasz volt a régió pusztító földrengéseire, amelyeknek sok fatemplom áldozatul esett. Ez a mérnöki remekmű a közösség szorgalmának és hitének szimbóluma, amely több mint egy évszázada dacol az elemekkel és a rozsdával.",
@@ -341,10 +341,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ["Unique pre-fabricated metal church.", "Rare architectural example in region.", "Symbol of late-industrial trade.", "Imported materials from Europe.", "Iconic cultural landmark of Grecia.", "Historical building material witness."]
     },
     facts: {
-      de: ["Erbaut in den 1890er Jahren", "Vollständig aus Metall", "Neugotischer Stil", "Rot gestrichen"],
+      de: ["Aus Belgien importiert", "Neugotischer Stil", "Komplett aus Eisen gefertigt"],
       hu: ["Grecia központjában", "Fémszerkezetes templom", "Különleges építészeti jelkép"],
       ro: ["În Grecia, Alajuela", "Construcție metalică", "Reper foarte cunoscut"],
-      en: ["Made of steel", "Built in the 1890s", "In Grecia"]
+      en: ["Constructed entirely of Belgian steel", "Assembled in the late 19th century", "Iconic bright red exterior", "Distinctive Gothic Revival style"]
     },
      image: "/poi-images/cr-iglesia-de-metal-grecia-landmarks-v2.webp"},
   {
@@ -393,7 +393,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-C",
     coords: [-83.8833, 9.9933],
     name: { de: "Sanatorium Durán", hu: "Durán Szanatórium", ro: "Sanatoriul Durán", en: "Durán Sanatorium" },
-    description: { de: "Ein verlassenes ehemaliges Tuberkulose-Krankenhaus, das als heimgesucht gilt.", hu: "Elhagyatott egykori tuberkulózis-kórház, amelyet kísértetjárta helynek tartanak.", ro: "Sanatorio Durán este un vechi sanatoriu de tuberculoză din Cartago, astăzi transformat într-un sit istoric. Ruinele lui sunt cunoscute atât pentru valoarea lor patrimonială, cât și pentru poveștile locale.", en: "An abandoned former tuberculosis hospital, considered to be haunted." },
+    description: { de: "Das ehemalige Sanatorium Durán ist ein geschichtsträchtiger Ort, der heute für seine geheimnisvolle Atmosphäre bekannt ist.", hu: "Elhagyatott egykori tuberkulózis-kórház, amelyet kísértetjárta helynek tartanak.", ro: "Sanatorio Durán este un vechi sanatoriu de tuberculoză din Cartago, astăzi transformat într-un sit istoric. Ruinele lui sunt cunoscute atât pentru valoarea lor patrimonială, cât și pentru poveștile locale.", en: "An abandoned former tuberculosis hospital, considered to be haunted." },
     descriptionAdvanced: {
       de: "Das Sanatorium Durán ist ein Ort, der gleichermaßen fasziniert und erschreckt. Auf den Hängen des Vulkans Irazú gelegen, wurde dieses ehemalige Tuberkulose-Krankenhaus 1918 gegründet, da die reine Bergluft als heilfördernd galt. Nach der Entdeckung von Antibiotika verlor es seine Bedeutung und diente zeitweise als Gefängnis, bevor es schließlich verlassen wurde. Heute sind die verfallenden Holzgebäude ein beliebtes Ziel für Fotografen und Fans des Paranormalen. Zahlreiche Legenden ranken sich um Geisterscheinungen von Nonnen und Patienten in den leeren Fluren. Trotz des morbiden Charmes bietet das Gelände einen spektakulären Ausblick auf das Zentraltal und die umliegenden Agrarflächen. Die Architektur der Gebäude spiegelt den medizinischen Standard des frühen 20. Jahrhunderts wider, mit großen Fenstern für Licht und Luft. Ein Besuch hier ist eine Reise in die medizinische Geschichte und die Mythenwelt Costa Ricas. Geschichte K8 — Medizingeschichte und Architektur.",
       hu: "A Durán Szanatórium egy olyan hely, amely egyszerre nyűgöz le és kelt borzongást. Az Irazú-vulkán lejtőin található egykori tuberkulózis-kórházat 1918-ban alapították, mivel a tiszta hegyi levegőt gyógyhatásúnak tartották. Az antibiotikumok felfedezése után jelentősége csökkent, egy ideig börtönként is funkcionált, mielőtt végleg elhagyták. Ma a pusztuló faépületek a fotósok és a paranormális jelenségek kedvelőinek népszerű célpontjai. Számos legenda kering apácák és betegek szellemeiről, akik az üres folyosókon kísértenek. A komor hangulat ellenére a terület látványos kilátást nyújt a Közép-völgyre és a környező mezőgazdasági földekre. Az épületek építészete a 20. század eleji orvosi szabványokat tükrözi, nagy ablakokkal a fény és a levegő számára. Látogatása utazás Costa Rica orvostörténetébe és mítoszaiba.",
@@ -401,7 +401,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ""
     },
     facts: {
-      de: ["Gegründet 1918", "In den Bergen bei Cartago", "Heute eine Touristenattraktion", "Bekannt für paranormale Geschichten"],
+      de: ["Ehemals für Tuberkulosekranke", "Gelegen nahe dem Vulkan Irazú", "Beliebter Ort für Geistergeschichten"],
       hu: ["1918-ban alapították", "Cartago melletti hegyekben", "Ma turisztikai látványosság", "Paranormális történetekről ismert"],
       ro: ["În provincia Cartago", "Fost sanatoriu de tuberculoză", "A rămas ca sit istoric"],
       en: ["Founded in 1918", "In the mountains near Cartago", "Now a tourist attraction", "Known for paranormal stories"]
@@ -513,7 +513,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.082, 9.934],
     name: { de: "Zentralmarkt San José", hu: "Központi Piac (San José)", ro: "Piața Centrală San José", en: "San José Central Market" },
-    description: { de: "Der größte und älteste Markt in San José, voller Leben und lokaler Produkte.", hu: "San José legnagyobb és legrégebbi piaca, tele élettel és helyi termékekkel.", ro: "Cea mai mare și mai veche piață din San José, plină de viață și produse locale.", en: "The largest and oldest market in San José, full of life and local products." },
+    description: { de: "Der Zentralmarkt von San José ist ein lebendiger Ort voller Farben, Düfte und traditioneller costa-ricanischer Speisen.", hu: "San José legnagyobb és legrégebbi piaca, tele élettel és helyi termékekkel.", ro: "Cea mai mare și mai veche piață din San José, plină de viață și produse locale.", en: "The largest and oldest market in San José, full of life and local products." },
     descriptionAdvanced: {
       de: "Der Zentralmarkt (Mercado Central) von San José ist eine Explosion der Sinne und ein unverzichtbares Ziel für jeden Besucher. Seit 1880 ist dieser labyrinthartige Ort das Herz des lokalen Handels. Hier findet man alles: von exotischen Früchten und frischem Fisch bis hin zu handgefertigten Lederwaren und traditionellen Heilkräutern. In den engen Gängen verbergen sich zahlreiche 'Sodas' – kleine Garküchen, die authentische costa-ricanische Gerichte wie Gallo Pinto oder Olla de Carne zu günstigen Preisen anbieten. Der Markt ist nicht nur ein Ort zum Einkaufen, sondern ein kulturelles Archiv, in dem Traditionen lebendig bleiben. Der Duft von frisch geröstetem Kaffee vermischt sich mit den Rufen der Verkäufer und dem bunten Treiben der Einheimischen. Es ist der beste Ort, um die 'Pura Vida'-Lebenseinstellung hautnah zu erleben und in den Alltag der 'Ticos' einzutauchen. Wirtschaft K5 — Regionaler Handel und Märkte.",
       hu: "A san josé-i Központi Piac (Mercado Central) az érzékek kavalkádja és minden látogató számára kötelező úti cél. 1880 óta ez a labirintusszerű hely a helyi kereskedelem szíve. Itt minden megtalálható: az egzotikus gyümölcsöktől és friss halaktól kezdve a kézzel készített bőrárukig és hagyományos gyógynövényekig. A szűk folyosókon számos \\\"soda\\\" – kis kifőzde – rejtőzik, amelyek autentikus costa rica-i ételeket, például Gallo Pinto-t vagy Olla de Carne-t kínálnak kedvező áron. A piac nemcsak vásárlóhely, hanem kulturális archívum is, ahol a hagyományok tovább élnek. A frissen pörkölt kávé illata keveredik az árusok kiáltásaival és a helyiek sürgés-forgásával. Ez a legjobb hely, hogy kézzelfoghatóan átéljük a \\\"Pura Vida\\\" életérzést és bepillantsunk a \\\"Ticók\\\" mindennapjaiba.",
@@ -521,7 +521,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ""
     },
     facts: {
-      de: ["Gegründet 1880", "Labyrinth aus Gängen und Ständen", "Bietet traditionelle Speisen (Sodas)", "Herz des lokalen Handels"],
+      de: ["Gegründet im Jahr 1880", "Labyrinth aus engen Gassen", "Authentisches lokales Erlebnis"],
       hu: ["1880-ban alapították", "Folyosók és standok labirintusa", "Hagyományos ételeket kínál (sodák)", "A helyi kereskedelem szíve"],
       ro: ["Fondată în 1880", "Un labirint de alei și tarabe", "Oferă mâncăruri tradiționale (sodas)", "Inima comerțului local"],
       en: ["Founded in 1880", "A labyrinth of aisles and stalls", "Offers traditional food (sodas)", "Heart of local commerce"]
@@ -633,7 +633,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-L",
     coords: [-83.029, 9.878],
     name: { de: "Faultier-Schutzgebiet von Costa Rica", hu: "Costa Rica-i Lajhár Menedékhely", ro: "Sanctuarul Leneșilor din Costa Rica", en: "Sloth Sanctuary of Costa Rica" },
-    description: { de: "Das weltweit erste Faultier-Rettungszentrum.", hu: "A világ első lajhármentő központja.", ro: "Sloth Sanctuary este un centru de salvare și reabilitare pentru leneși, pe coasta caraibiană a Costa Ricăi. Locul combină protecția faunei cu tururi educative pentru vizitatori.", en: "The world's first sloth-only rescue center." },
+    description: { de: "Das Faultier-Schutzzentrum widmet sich der Rettung und Erforschung dieser faszinierenden Bewohner des Regenwaldes.", hu: "A világ első lajhármentő központja.", ro: "Sanctuarul pentru Leneși este un centru dedicat salvării, reabilitării și cercetării acestor mamifere emblematice ale Costa Ricăi. Vizitatorii pot învăța despre biologia leneșilor și importanța conservării habitatului lor tropical.", en: "The world's first sloth-only rescue center." },
     descriptionAdvanced: {
       de: "Das Sloth Sanctuary of Costa Rica ist das weltweit erste Forschungs- und Rettungszentrum, das sich ausschließlich den faszinierenden Faultieren widmet. Gelegen an der karibischen Küste, wurde es 1992 gegründet, nachdem ein verwaistes Faultier namens 'Buttercup' in die Obhut der Gründerfamilie gegeben wurde. Das Zentrum hat Pionierarbeit bei der Erforschung der Biologie und des Verhaltens dieser oft missverstandenen Tiere geleistet. Besucher können auf Bootstouren durch die angrenzenden Kanäle Faultiere in ihrem natürlichen Lebensraum beobachten und in den pädagogischen Bereichen mehr über die Unterschiede zwischen Zwei- und Dreifingerfaultieren lernen. Viele der Bewohner sind dauerhafte Gäste, da sie aufgrund von Verletzungen (oft durch Stromleitungen) nicht mehr in der Wildnis überleben könnten. Das Heiligtum setzt sich leidenschaftlich für den Schutz des Regenwaldes ein, der die Lebensgrundlage dieser langsamen aber faszinierenden Kreaturen darstellt. Biologie K3 — Lebensweise der Faultiere.",
       hu: "A Costa Rica-i Lajhár Menedékhely a világ első olyan kutató- és mentőközpontja, amely kizárólag ezeknek a különleges állatoknak szentelte magát. A karibi parton található intézményt 1992-ben alapították, miután egy \\\"Buttercup\\\" nevű árva lajhár a tulajdonos család gondozásába került. A központ úttörő munkát végzett e gyakran félreismert állatok biológiájának és viselkedésének kutatásában. A látogatók csónaktúrákon vehetnek részt a szomszédos csatornákon, megfigyelve a lajhárokat természetes környezetükben, az oktató részlegeken pedig megismerhetik a két- és háromujjú lajhárok közötti különbségeket. Sok lakó állandó vendég marad, mivel sérüléseik (gyakran elektromos vezetékek okozta áramütés) miatt már nem élnének túl a vadonba. A menedékhely szenvedélyesen küzd az esőerdők védelméért, amely ezeknek a lassú, de lenyűgöző lényeknek az otthona.",
@@ -641,9 +641,9 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ""
     },
     facts: {
-      de: ["Gegründet 1992", "Pionier in der Faultierforschung", "Pflegt verletzte und verwaiste Faultiere", "Bietet Bildungstouren an"],
+      de: ["Pionier im Artenschutz", "Nahe Cahuita gelegen", "Bildungszentrum für Besucher"],
       hu: ["1992-ben alapították", "Úttörő a lajhárkutatásban", "Sérült és elárvult lajhárokat gondoz", "Oktatási túrákat kínál"],
-      ro: ["Lângă Cahuita", "Centru pentru leneși", "Axat pe salvare și educație"],
+      ro: ["Primul sanctuar de acest tip din lume", "Localizat în provincia Limón", "Promovează educația ecologică și protecția faunei"],
       en: ["Founded in 1992", "Pioneer in sloth research", "Cares for injured and orphaned sloths", "Offers educational tours"]
     },
     factsAdvanced: {
@@ -673,7 +673,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-SJ",
     coords: [-84.058, 9.967],
     name: { de: "Estadio Ricardo Saprissa Aymá", hu: "Ricardo Saprissa Aymá Stadion", ro: "Stadionul Ricardo Saprissa Aymá", en: "Ricardo Saprissa Aymá Stadium" },
-    description: { de: "Heimat des Fußballvereins Deportivo Saprissa, bekannt als 'Die Monsterhöhle'.", hu: "A Deportivo Saprissa futballklub otthona, 'A Szörny Barlangjának' is nevezik.", ro: "Casa clubului de fotbal Deportivo Saprissa, cunoscută ca 'Peștera Monstrului'.", en: "The home stadium of Deportivo Saprissa in Tibas. Fans know it as La Cueva, one of the most intense football venues in Costa Rica." },
+    description: { de: "Das Ricardo-Saprissa-Stadion, auch bekannt als „Monsterhöhle“, ist die Heimat eines der erfolgreichsten Fußballclubs des Landes.", hu: "A Deportivo Saprissa futballklub otthona, 'A Szörny Barlangjának' is nevezik.", ro: "Casa clubului de fotbal Deportivo Saprissa, cunoscută ca 'Peștera Monstrului'.", en: "Affectionately known as the 'Monster's Cave,' this is the home stadium of Costa Rica's most successful football club." },
     descriptionAdvanced: {
       de: "Das Estadio Ricardo Saprissa Aymá, liebevoll 'La Cueva del Monstruo' (Die Monsterhöhle) genannt, ist eines der legendärsten Fußballstadien Mittelamerikas. Es ist die Heimstätte von Deportivo Saprissa, dem erfolgreichsten Verein Costa Ricas. Das Stadion in Tibás, einem Vorort von San José, ist berühmt für seine einschüchternde Atmosphäre, da die Tribünen sehr steil und nah am Spielfeld gebaut sind. Wenn die Fans springen und singen, vibriert buchstäblich der Boden – ein Effekt, der gegnerische Mannschaften oft nervös macht. Das Stadion wurde 1972 eröffnet und nach dem Vereinsgründer Ricardo Saprissa benannt. Für Fußballfans ist ein Besuch eines Heimspiels ein intensives kulturelles Erlebnis, das die grenzenlose Leidenschaft der Ticos für ihren Sport zeigt. Es ist ein Ort voller Emotionen, Geschichte und sportlicher Triumphe. Sport K7 — Fußballkultur und Identität.",
       hu: "A Ricardo Saprissa Aymá Stadion, amelyet becenevén \\\"La Cueva del Monstruo\\\" (A Szörny Barlangja) néven ismernek, Közép-Amerika egyik leglegendásabb futballstadionja. Ez a Deportivo Saprissa, Costa Rica legsikeresebb klubjának otthona. A San José egyik elővárosában, Tibásban található építmény híres félelmetes hangulatáról, mivel a lelátók nagyon meredekek és közel vannak a játéktérhez. Amikor a szurkolók ugrálnak és énekelnek, a föld szó szerint vibrál – ez a hatás gyakran elbizonytalanítja az ellenfél csapatait. A stadiont 1972-ben nyitották meg, és a klubalapító Ricardo Saprissáról nevezték el. A futballrajongók számára egy hazai mérkőzés megtekintése intenzív kulturális élmény, amely megmutatja a Ticók határtalan szenvedélyét a sport iránt. Az érzelmek, a történelem és a sportsikerek helyszíne ez.",
@@ -681,10 +681,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ""
     },
     facts: {
-      de: ["Eröffnet 1972", "Heimat von Deportivo Saprissa", "Bekannt für seine intensive Atmosphäre", "Eines der größten Stadien des Landes"],
+      de: ["Hexenkessel-Atmosphäre", "In San Juan de Tibás", "Benannt nach dem Clubgründer"],
       hu: ["1972-ben nyílt meg", "A Deportivo Saprissa otthona", "Intenzív hangulatáról ismert", "Az ország egyik legnagyobb stadionja"],
       ro: ["Inaugurat în 1972", "Casa echipei Deportivo Saprissa", "Cunoscut pentru atmosfera sa intensă", "Unul dintre cele mai mari stadioane din țară"],
-      en: ["Home of Saprissa", "In Tibas", "Known as La Cueva"]
+      en: ["Home to Deportivo Saprissa", "Located in Tibás, San José", "One of the region's most iconic stadiums", "Named after club founder Ricardo Saprissa"]
     },
     factsAdvanced: {
       de: ["Eröffnet am 27. August 1972 nach sechsjähriger Bauzeit.", "Die aktuelle Kapazität beträgt ca. 23.112 Zuschauer.", "Das Spielfeld besteht aus hochwertigem Naturrasen (früher Kunstrasen).", "War oft Austragungsort für entscheidende Qualifikationsspiele der Nationalmannschaft.", "Das Stadion wurde nach dem Vereinsgründer Ricardo Saprissa benannt.", "Die steilen Tribünen erzeugen eine einzigartige Akustik, die als 'Monster-Vibration' bekannt ist.", "Verfügt über moderne VIP-Logen und ein eigenes Museum des Vereins.", "Befindet sich auf einer Höhe von ca. 1.150 Metern über dem Meeresspiegel."],
@@ -753,7 +753,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-C",
     coords: [-83.856, 9.800],
     name: { de: "Kolonialkirche von Orosi", hu: "Orosi gyarmati templom", ro: "Biserica Colonială din Orosi", en: "Orosi Colonial Church" },
-    description: { de: "Eine der ältesten Kirchen Costa Ricas, die noch in Gebrauch ist.", hu: "Az orosii gyarmati templom Costa Rica egyik legrégebbi, ma is álló temploma. A völgy történeti arculatának meghatározó pontja.", ro: "Una dintre cele mai vechi biserici din Costa Rica încă în uz.", en: "A colonial church in Orosi and one of the oldest still-used churches in Costa Rica. It is a key landmark in the Orosi Valley's historic landscape." },
+    description: { de: "Die Kolonialkirche von Orosi ist ein stilles Zeugnis der spanischen Vergangenheit in einem der schönsten Täler des Landes.", hu: "Az orosii gyarmati templom Costa Rica egyik legrégebbi, ma is álló temploma. A völgy történeti arculatának meghatározó pontja.", ro: "Una dintre cele mai vechi biserici din Costa Rica încă în uz.", en: "A well-preserved example of religious colonial architecture, this church remains a focal point of the historic Orosi Valley." },
     descriptionAdvanced: {
       de: "Die Kolonialkirche von Orosi (Iglesia de San José de Orosi) ist ein kostbares Juwel und eines der wenigen erhaltenen Bauwerke aus der spanischen Kolonialzeit in Costa Rica. Erbaut im Jahr 1743 von franziskanischen Missionaren, besticht die Kirche durch ihre schlichte Schönheit und die dicken Mauern aus Adobe (Lehmziegeln). Das weiß getünchte Gebäude mit seinem roten Ziegeldach liegt eingebettet in das malerische Orosi-Tal, umgeben von grünen Bergen und Kaffeeplantagen. Im Inneren befindet sich ein kleines Museum für religiöse Kunst, das wertvolle Statuen, Gemälde und silberne Kultgegenstände aus der Kolonialzeit zeigt. Die friedliche Atmosphäre im Inneren und der gepflegte Garten laden zur Besinnung ein. Es ist ein Ort, an dem die Zeit stehen geblieben zu sein scheint und der die Anfänge der modernen costa-ricanischen Gesellschaft dokumentiert. Geschichte K5 — Kolonialzeit in Zentralamerika.",
       hu: "Az orosi gyarmati templom (Iglesia de San José de Orosi) egy értékes ékszerdoboz, és egyike Costa Rica kevés megmaradt spanyol gyarmati épületének. Az 1743-ban ferences misszionáriusok által emelt templom egyszerű szépségével és vastag vályog falaival nyűgözi le a látogatót. A fehérre meszelt, vörös cseréptetős épület a festői Orosi-völgyben fekszik, zöld hegyek és kávéültetvények gyűrűjében. Belül egy kis vallási művészeti múzeum működik, amely értékes gyarmati kori szobrokat, festményeket és ezüst kegytárgyakat mutat be. A belső tér békés hangulata és a gondozott kert elmélyülésre hív. Olyan hely ez, ahol megállt az idő, és amely hűen dokumentálja a modern costa rica-i társadalom kezdeteit. A völgy páratlan mikroklímája és a templom történelmi jelentősége különleges élménnyé teszi a látogatást.",
@@ -761,10 +761,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ""
     },
     facts: {
-      de: ["Erbaut 1743", "Einfacher Kolonialstil (Adobe)", "Beherbergt ein kleines Museum für religiöse Kunst", "Nationaldenkmal"],
+      de: ["Einfache, weiße Fassade", "Wertvolle religiöse Kunst", "Umfasst ein kleines Museum"],
       hu: ["Orosi völgyében", "Gyarmati kori templom", "1740-es évekből származik"],
       ro: ["Construită în 1743", "Stil colonial simplu (chirpici)", "Găzduiește un mic muzeu de artă religioasă", "Monument național"],
-      en: ["One of the oldest churches", "In Orosi Valley", "Still in use"]
+      en: ["Pristine Spanish colonial design", "Heart of the historic Orosi community", "Features ancient religious artifacts", "Surrounded by lush valley landscapes"]
     },
     factsAdvanced: {
       de: ["Erbaut im Jahr 1743, ist sie eine der ältesten noch genutzten Kirchen des Landes.", "Die Mauern bestehen aus Adobe und Stein mit einer Dicke von fast einem Meter.", "Das angrenzende Kloster beherbergt das Museum für religiöse Kunst von Orosi.", "Wurde 1920 zum nationalen Denkmal Costa Ricas erklärt.", "Besitzt einen Altar aus Holz, der im Barockstil geschnitzt und bemalt wurde.", "Das Dach wird von massiven Holzbalken aus Zypressenholz getragen.", "Die Kirche überstand dank ihrer soliden Bauweise zahlreiche schwere Erdbeben.", "Befindet sich in einer der regenreichsten und grünsten Regionen des Zentraltals."],
@@ -824,7 +824,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-A",
     coords: [-84.225, 10.026],
     name: { de: "Parque Viva", hu: "Parque Viva", ro: "Parque Viva", en: "Parque Viva" },
-    description: { de: "Ein moderner Veranstaltungsort für Konzerte, Messen und Motorsport.", hu: "Modern rendezvényhelyszín koncertek, vásárok és motorsport számára.", ro: "Un loc modern pentru evenimente, concerte, târguri și sporturi cu motor.", en: "A modern event venue in Alajuela used for concerts, fairs, and motorsport. It is one of the country's biggest contemporary entertainment spaces." },
+    description: { de: "Parque Viva ist ein multifunktionaler Veranstaltungsort für Konzerte, Motorsport und große Messen.", hu: "Modern rendezvényhelyszín koncertek, vásárok és motorsport számára.", ro: "Un loc modern pentru evenimente, concerte, târguri și sporturi cu motor.", en: "A modern multipurpose entertainment park in Alajuela, featuring a world-class amphitheater and a professional race track." },
     descriptionAdvanced: {
       de: "Parque Viva ist Costa Ricas führender Veranstaltungsort für Großereignisse und kombiniert modernste Event-Technologie mit einer vielseitigen Infrastruktur. Gelegen in La Guácima, Alajuela, wurde der Komplex auf dem Gelände der ehemaligen Rennstrecke 'La Guácima' errichtet. Er umfasst ein hochmodernes Amphitheater (Coca-Cola-Amphitheater), ein großes Messezentrum und eine runderneuerte Rennstrecke für Motorsportfans. Hier finden die wichtigsten Konzerte internationaler Künstler, Fachmessen und sportliche Wettkämpfe des Landes statt. Die Anlage ist so konzipiert, dass sie Tausende von Besuchern effizient aufnehmen kann, mit großzügigen Parkplätzen und gastronomischen Bereichen. Parque Viva symbolisiert den professionellen Standard der Unterhaltungsindustrie in Costa Rica. Die Nähe zum internationalen Flughafen macht ihn auch für Besucher aus dem Ausland attraktiv. Ein pulsierender Ort, der für unvergessliche Erlebnisse sorgt. Musik K7 — Eventmanagement und moderne Architektur.",
       hu: "A Parque Viva Costa Rica vezető rendezvényhelyszíne, amely a legmodernebb technológiát ötvözi a sokoldalú infrastruktúrával. Az Alajuela tartománybeli La Guácimában található komplexumot a korábbi \\\"La Guácima\\\" versenypálya helyén alakították ki. Magában foglal egy világszínvonalú amfiteátrumot (Coca-Cola Amphitheater), egy nagy kiállítási központot és egy teljesen felújított versenypályát a motorsport szerelmeseinek. Itt tartják az ország legfontosabb nemzetközi koncertjeit, szakvásárait és sportversenyeit. A létesítményt úgy tervezték, hogy több ezer látogatót tudjon hatékonyan fogadni, tágas parkolókkal és gasztronómiai udvarokkal rendelkezik. A Parque Viva a costa rica-i szórakoztatóipar professzionális színvonalát jelképezi. A nemzetközi repülőtér közelsége miatt a külföldről érkező látogatók számára is könnyen elérhető és vonzó úti cél.",
@@ -832,10 +832,10 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
       en: ""
     },
     facts: {
-      de: ["Größter Veranstaltungsort in Zentralamerika", "Amphitheater, Veranstaltungszentrum und Rennstrecke", "Eröffnet 2015", "Nahe dem Flughafen SJO"],
+      de: ["Modernes Amphitheater", "Ehemalige Rennstrecke La Guácima", "Größtes Eventzentrum des Landes"],
       hu: ["Közép-Amerika legnagyobb rendezvényhelyszíne", "Amfiteátrum, rendezvényközpont és versenypálya", "2015-ben nyílt meg", "Az SJO repülőtér közelében"],
       ro: ["Cel mai mare loc de evenimente din America Centrală", "Amfiteatru, centru de evenimente și circuit de curse", "Inaugurat în 2015", "Aproape de aeroportul SJO"],
-      en: ["In Alajuela", "Concert venue", "Motorsport events"]
+      en: ["First multipurpose park in the region", "Includes the Coca-Cola Amphitheater", "Site of major concerts and races", "Located in La Guácima, Alajuela"]
     },
     factsAdvanced: {
       de: ["Der Komplex umfasst eine Gesamtfläche von ca. 28 Hektar.", "Das Amphitheater bietet Platz für bis zu 16.000 Zuschauer (Sitz- und Stehplätze).", "Wurde im April 2015 offiziell nach einem umfassenden Umbau eröffnet.", "Das Veranstaltungszentrum (Centro de Eventos) bietet 9.000 Quadratmeter überdachte Fläche.", "Die Rennstrecke (Circuito Grupo Sur) hat eine Länge von etwa 2 Kilometern.", "Ist das erste klimaneutrale Veranstaltungszentrum dieser Größe in der Region.", "Verfügt über modernste Akustik- und Lichtsysteme für Weltklasse-Produktionen.", "Bietet Parkmöglichkeiten für mehr als 4.500 Fahrzeuge."],
@@ -904,7 +904,7 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     parent: "CR-H",
     coords: [-84.092, 10.038],
     name: { de: "Kirche San Rafael de Heredia", hu: "San Rafael de Heredia-i templom", ro: "Biserica San Rafael din Heredia", en: "Church of San Rafael de Heredia" },
-    description: { de: "Eine markante Steinkirche in den Hügeln von Heredia.", hu: "A san rafael de herediai templom neogótikus formájával a kanton legismertebb épületei közé tartozik. A helyi közösség fontos történeti jelképe.", ro: "Biserica San Rafael de Heredia este un templu neogotic cunoscut în tot cantonul. Fațada ei și restaurarea atentă au făcut-o unul dintre simbolurile locale.", en: "A distinctive stone church in the hills of Heredia. Its strong local profile makes it a familiar landmark for the surrounding canton." },
+    description: { de: "Eine markante Steinkirche in den Hügeln von Heredia.", hu: "A san rafael de herediai templom neogótikus formájával a kanton legismertebb épületei közé tartozik. A helyi közösség fontos történeti jelképe.", ro: "Biserica San Rafael de Heredia este un monument arhitectural deosebit, cunoscut pentru fațada sa elegantă și amplasarea pitorească la poalele munților. Este un centru spiritual activ și o mândrie a arhitecturii provinciale.", en: "The Church of San Rafael de Heredia is an impressive Neogothic structure known for its towering spires and scenic location." },
     descriptionAdvanced: {
       de: "Die Kirche San Rafael de Heredia ist ein architektonisches Prachtstück in den kühlen Bergen Costa Ricas. Dieses beeindruckende Bauwerk im neugotischen Stil besticht durch seine Fassade aus behauenem Stein und seine spitzen Türme, die majestätisch gegen den oft wolkenverhangenen Himmel ragen. Im Inneren herrscht eine feierliche Stille, unterstrichen durch hohe Gewölbe und kunstvoll gefertigte Altäre. Von dem Vorplatz der Kirche aus hat man einen spektakulären Panoramablick über das Zentraltal bis hin zu den Vulkanen am Horizont. Die Kirche ist der Mittelpunkt der wohlhabenden Gemeinde San Rafael, die für ihre Erdbeerfelder und ihre frische Bergluft bekannt ist. Die Kombination aus solider Steinkonstruktion und filigranen neugotischen Elementen macht dieses Gebäude zu einem der schönsten Beispiele religiöser Architektur außerhalb von San José. Ein Ort, der Glaube und Ästhetik perfekt vereint. Sachkunde K4 — Bauwerke in verschiedenen Höhenlagen.",
       hu: "A San Rafael de Heredia-i templom egy építészeti remekmű Costa Rica hűvös hegyei között. Ez a lenyűgöző neogótikus stílusú épület faragott kőhomlokzatával és hegyes tornyaival tűnik ki, amelyek méltóságteljesen magasodnak a gyakran felhős égbolt felé. Belül ünnepélyes csend uralkodik, amelyet a magas boltozatok és a művészien kidolgozott oltárok hangsúlyoznak. A templom előtti térről látványos panoráma nyílik a Közép-völgyre, egészen a horizonton lévő vulkánokig. A templom a jómódú San Rafael közösségének központja, amely eperföldjeiről és friss hegyi levegőjéről ismert. A szilárd kőszerkezet és a filigrán neogótikus elemek kombinációja San Josén kívül az egyik legszebb vallási építészeti példává teszi. Olyan hely ez, ahol a hit és az esztétika tökéletesen találkozik, maradandó élményt nyújtva a látogatónak.",
@@ -914,8 +914,8 @@ export const poiExtraCostaricaLandmarksV2: POI[] = [
     facts: {
       de: ["Neugotischer Stil", "Panoramablick auf das Zentraltal", "Erbaut Ende des 19. Jahrhunderts", "Lokales Wahrzeichen"],
       hu: ["1887-ben emelték", "Neogótikus stílusú", "Heredia egyik jelképe"],
-      ro: ["În San Rafael de Heredia", "Stil neogotic", "Reper arhitectural al cantonului"],
-      en: ["In Heredia", "Stone church", "Local symbol"]
+      ro: ["Arhitectură de influență neoclasică", "Punct de referință în peisajul din Heredia", "Păstrează altare și sculpturi religioase valoroase"],
+      en: ["Majestic Neogothic architecture", "Completed in the early 1960s", "Dominates the skyline of San Rafael", "Features stunning interior woodwork"]
     },
     factsAdvanced: {
       de: ["Der Bau der Steinkirche begann im Jahr 1892 und dauerte über ein Jahrzehnt.", "Die Fassade besteht aus Steinblöcken, die in nahegelegenen Steinbrüchen gewonnen wurden.", "Die Kirche ist dem Erzengel Rafael geweiht, dem Schutzpatron der Stadt.", "Wurde 2004 zum nationalen historisch-architektonischen Erbe erklärt.", "Verfügt über wunderschöne Buntglasfenster, die religiöse Symbole darstellen.", "Befindet sich auf einer Höhe von ca. 1.260 Metern über dem Meeresspiegel.", "Die Architektur ist stark von den großen europäischen Kathedralen des 19. Jahrhunderts beeinflusst.", "Ist ein beliebtes Ziel für Hochzeiten aufgrund ihrer romantischen Ausstrahlung."],

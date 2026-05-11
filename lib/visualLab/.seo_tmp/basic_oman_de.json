@@ -1,0 +1,40 @@
+{
+  "lang": "de",
+  "country": "Oman",
+  "files": [
+    "lib/visualLab/data/poiExtraOmanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraOmanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "al-buraimi-cities-v2",
+      "description": "Al-Buraimi ist eine Grenzstadt im Nordwesten des Oman, die direkt an die Vereinigten Arabischen Emirate angrenzt. Sie ist bekannt für ihre historischen Forts und den regen Grenzhandel.",
+      "facts": ["Grenzstadt zu den VAE", "Bedeutendes Handelszentrum", "Zahlreiche historische Forts", "Oasenstadt"]
+    },
+    {
+      "id": "seeb-cities-v2",
+      "description": "Seeb ist ein wichtiges Küstenzentrum am Golf von Oman und ein bedeutender Vorort der Hauptstadt Maskat. Die Stadt ist für ihre langen Sandstrände und den modernen Fischereihafen bekannt.",
+      "facts": ["Küstenzentrum am Golf von Oman", "Wichtiger Vorort von Maskat", "Lange Sandstrände", "Moderne Fischereiinfrastruktur"]
+    },
+    {
+      "id": "suwayq-cities-v2",
+      "description": "Suwayq liegt an der Batinah-Küste im Norden des Oman und ist eine Stadt mit einer langen maritimen Geschichte. Die Region ist landwirtschaftlich geprägt und ein Knotenpunkt für den lokalen Handel.",
+      "facts": ["An der Batinah-Küste gelegen", "Historisch maritim geprägt", "Zentrum für lokale Landwirtschaft", "Handelsknotenpunkt"]
+    },
+    {
+      "id": "taqah-cities-v2",
+      "description": "Taqah ist eine Küstenstadt in der Provinz Dhofar im Süden des Oman, die für ihre Fischerei und ihre nahegelegenen archäologischen Stätten geschätzt wird. Die Umgebung ist von einer beeindruckenden Kalksteinlandschaft geprägt.",
+      "facts": ["In der Provinz Dhofar gelegen", "Traditionelle Fischerei", "Nahe archäologische Stätten", "Kalksteinküstenlandschaft"]
+    },
+    {
+      "id": "al-numan-zoo-life-v2",
+      "description": "Der Al-Numan Zoo ist ein bekannter Wildpark in der Nähe von Barka, der eine Vielzahl an Tieren aus der Region und darüber hinaus beherbergt. Er dient als wichtiges Bildungs- und Freizeitziel für die lokale Bevölkerung.",
+      "facts": ["Wildpark bei Barka", "Lokale Tierarten", "Bildungszentrum", "Beliebtes Freizeitziel"]
+    },
+    {
+      "id": "hawana-aqua-park-life-v2",
+      "description": "Der Hawana Aqua Park ist eine moderne Wasserattraktion in Salalah, die verschiedene Rutschen und Becken für Familien bietet. Er ist Teil des touristischen Hawana-Resort-Komplexes an der Küste.",
+      "facts": ["Wasserattraktion in Salalah", "Teil des Hawana-Resorts", "Familienorientierte Becken", "Moderne Freizeiteinrichtung"]
+    }
+  ]
+}

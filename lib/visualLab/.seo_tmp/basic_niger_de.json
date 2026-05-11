@@ -1,0 +1,39 @@
+{
+  "lang": "de",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {"id": "ter-animal-habitat-life-v2", "description": "Tierlebensraum in der Sahelzone mit Antilopen und Warzenschweinen.", "facts": ["Schutzgebiet für Wildtiere", "Trockensavanne-Ökosystem", "Saisonal Migrationskorridor"]},
+    {"id": "agadez-kamel-habitat-life-v2", "description": "Kamelzuchtregion in der nördlichen Wüste mit Nomadenkulturen.", "facts": ["Härteste Umweltbedingungen", "Pastorale Wirtschaft", "Tuareg-Gemeinschaften"]},
+    {"id": "filingue-agri-life-v2", "description": "Landwirtschaftliche Zone mit Hirse- und Erdnussanbau.", "facts": ["Subsistenzwirtschaft", "Monsunabhängig", "Bodenkonservierungspraktiken"]},
+    {"id": "maradi-kids-life-v2", "description": "Kinderfreundliche Zone in der Stadt Maradi mit Parks und Spielplätzen.", "facts": ["Urbane Infrastruktur", "Schulzentren", "Gemeinschaftsräume"]},
+    {"id": "gaya-bird-life-v2", "description": "Vogelbeobachtungsgebiet mit Zugvögeln und einheimischen Arten.", "facts": ["Migrationsroute", "Feuchtgebiethabitat", "Artenvielfalt"]},
+    {"id": "tessaoua-agri-life-v2", "description": "Agrarregion mit traditioneller Feldwirtschaft und Viehzucht.", "facts": ["Mischanbau", "Tierhaltung", "Wassermanagement"]},
+    {"id": "konni-kids-life-v2", "description": "Zentrum für Kinderaktivitäten und Bildung in der Region.", "facts": ["Schulinfrastruktur", "Kinderbetreuung", "Spieleinrichtungen"]},
+    {"id": "madaoua-agri-life-v2", "description": "Landwirtschaftsgebiet mit Dattelpalmen und Obstvarianten.", "facts": ["Oasenwirtschaft", "Obstanbau", "Bewässerungssysteme"]},
+    {"id": "gouré-goat-life-v2", "description": "Ziegenaufzuchtzone mit pastoraler Tierhaltung.", "facts": ["Tierwirtschaft", "Herdenmigration", "Viehmarkt"]},
+    {"id": "tera-bird-life-v2", "description": "Vogel-Lebensraum mit vielfältigen Spezies in der Region.", "facts": ["Artenreichtum", "Nisthabitat", "Nahrungsquellen"]},
+    {"id": "kollo-mango-life-v2", "description": "Mangoanbau-region mit großen Plantagen und Verarbeitung.", "facts": ["Fruchtproduktion", "Verarbeitungsindustrie", "Exportmarkt"]},
+    {"id": "say-river-life-v2", "description": "Flussgebiet mit Fischerei- und Bewässerungsaktivitäten.", "facts": ["Wasserressource", "Fischbestände", "Bewässerungsnutzung"]},
+    {"id": "nga-fishing-life-v2", "description": "Fischereizentrum mit traditionellen und modernen Methoden.", "facts": ["Süßwasserfischerei", "Ernährungssicherheit", "Handelsrouten"]},
+    {"id": "birni-kids-life-v2", "description": "Kinderbetreuungszentrum mit Bildungs- und Spielangeboten.", "facts": ["Pädagogische Programme", "Gesundheitsdienste", "Schutzraum"]},
+    {"id": "magaria-agri-life-v2", "description": "Agrarregion mit Getreide- und Hülsenfrüchteanbau.", "facts": ["Getreideproduktion", "Leguminosenanbau", "Bodenfruchtbarkeit"]},
+    {"id": "tanout-kamel-habitat-life-v2", "description": "Kamelnomaden-Region in der südlichen Sahara.", "facts": ["Kamelhaltung", "Nomadische Tradition", "Weidesysteme"]},
+    {"id": "mayahi-agri-life-v2", "description": "Landwirtschaftszone mit Mais- und Sorghumanbau.", "facts": ["Körnerproduktion", "Regenfeldbau", "Saatgutbewahrung"]},
+    {"id": "gaya-agri-life-v2", "description": "Ackerbauregion mit Erdnuss- und Baumwollanbau.", "facts": ["Handelspflanzen", "Kreditinstitute", "Verarbeitungsstätten"]},
+    {"id": "zinder-zoo-life-v2", "description": "Zoologisches Zentrum in Zinder mit lokaler Fauna.", "facts": ["Tierschutz", "Bildungszentrum", "Artenschutz"]},
+    {"id": "maradi-kids-park-life-v2", "description": "Kinderspielpark mit Freizeitmöglichkeiten in Maradi.", "facts": ["Grünanlagen", "Spielausrüstung", "Freizeitangebot"]},
+    {"id": "diffa-frucht-life-v2", "description": "Obstanbauregion mit Zitrusfrüchten und Papayas.", "facts": ["Gartenbau", "Frischprodukte", "Marktanbindung"]},
+    {"id": "goulbi-goulbi-nature-v2", "description": "Naturschutzgebiet mit Trockenwald und Gullys.", "facts": ["Erosionsbekämpfung", "Biotopschutz", "Trockenzonen-Flora"]},
+    {"id": "adrar-bous-relief-v2", "description": "Gebirgsformationen im südlichen Niger mit Sandstein.", "facts": ["Bergmassiv", "Geologische Formationen", "Landschaftlich"]},
+    {"id": "dallol-fogha-relief-v2", "description": "Senke mit besonderen topographischen Merkmalen.", "facts": ["Bodenunebenheiten", "Erosionszonen", "Naturlandschaft"]},
+    {"id": "ife-massif-relief-v2", "description": "Bergkette mit charakteristischen Höhenlagen.", "facts": ["Erhebungszone", "Granitformationen", "Höhenklimata"]},
+    {"id": "kawar-cliff-relief-v2", "description": "Steilküste mit dramatischen Felsenformationen.", "facts": ["Felsgestein", "Erosionslandschaft", "Sehenswürdigkeit"]},
+    {"id": "fachi-hill-relief-v2", "description": "Hügel mit isolierter Topographie in der Wüste.", "facts": ["Einzelberg", "Navigationsmarke", "Wüstenlandschaft"]},
+    {"id": "koutous-east-relief-v2", "description": "Östliche Erhebungszone mit Geländestrukturen.", "facts": ["Bergige Topographie", "Drainagesysteme", "Natürliches Relief"]}
+  ]
+}

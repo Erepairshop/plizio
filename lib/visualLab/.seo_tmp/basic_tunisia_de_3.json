@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rads-cities-v2",
+      "description": "Radès ist eine bedeutende Hafen- und Industriestadt in der Nähe von Tunis.",
+      "facts": ["Wichtiger Seehafen", "Industriestandort", "Teil der Metropolregion"]
+    },
+    {
+      "id": "la-goulette-cities-v2",
+      "description": "La Goulette ist der Hafen von Tunis und bekannt für seine vielfältige gastronomische Szene.",
+      "facts": ["Hafen von Tunis", "Bekannt für Fischrestaurants", "Historisches Fort"]
+    },
+    {
+      "id": "hammam-lif-cities-v2",
+      "description": "Hammam-Lif ist eine Küstenstadt am Fuße des Berges Boukornine.",
+      "facts": ["Am Golf von Tunis", "Am Fuße des Boukornine", "Traditionelle Architektur"]
+    },
+    {
+      "id": "tabarka-cities-v2",
+      "description": "Tabarka ist eine malerische Küstenstadt im Nordwesten, bekannt für Tauchen und Jazz-Festivals.",
+      "facts": ["Zentrum des Tauchsports", "Bekannt für Korallen", "Jährliches Jazz-Festival"]
+    },
+    {
+      "id": "kelibia-cities-v2",
+      "description": "Kélibia liegt auf der Halbinsel Cap Bon und ist für sein imposantes byzantinisches Fort bekannt.",
+      "facts": ["Byzantinisches Fort", "Wichtiger Fischereihafen", "Nahe weißer Sandstrände"]
+    },
+    {
+      "id": "el-djem-cities-v2",
+      "description": "El Djem ist berühmt für sein außergewöhnlich gut erhaltenes römisches Amphitheater.",
+      "facts": ["UNESCO-Welterbe", "Römisches Amphitheater", "Historisches Zentrum"]
+    },
+    {
+      "id": "moknine-cities-v2",
+      "description": "Moknine ist eine Stadt im Gouvernorat Monastir, bekannt für ihre traditionelle Handwerkskunst.",
+      "facts": ["Handwerkskunst", "Zentrum der Keramik", "Regionale Handelsstadt"]
+    },
+    {
+      "id": "menzel-temime-cities-v2",
+      "description": "Menzel Temime ist ein wichtiges landwirtschaftliches Zentrum auf der Halbinsel Cap Bon.",
+      "facts": ["Landwirtschaftliches Zentrum", "Produktion von Obst", "Regionale Marktplätze"]
+    },
+    {
+      "id": "korba-cities-v2",
+      "description": "Korba ist eine Küstenstadt auf Cap Bon, die durch ihre Lagunen und Landwirtschaft bekannt ist.",
+      "facts": ["Küstenstadt", "Lagunenlandschaft", "Landwirtschaftliche Erzeugnisse"]
+    },
+    {
+      "id": "tebourba-cities-v2",
+      "description": "Tebourba liegt im Tal des Flusses Medjerda und ist von fruchtbarem Ackerland umgeben.",
+      "facts": ["Am Fluss Medjerda", "Fruchtbares Ackerland", "Antike Wurzeln"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bashayer-marine-terminal-economic-v2",
+      "description": "Terminal maritim situat la Marea Roșie, esențial pentru exportul de petrol din Sudan.",
+      "facts": ["Situat lângă Port Sudan", "Capacitate mare de stocare", "Infrastructură strategică", "Esențial pentru economia petrolieră"]
+    },
+    {
+      "id": "al-khair-terminal-economic-v2",
+      "description": "Facilitate portuară utilizată pentru manipularea diverselor mărfuri și produse petroliere.",
+      "facts": ["Situat pe coasta Mării Roșii", "Conectat la rețeaua națională", "Rol logistic major", "Export și import"]
+    },
+    {
+      "id": "prince-osman-digna-port-economic-v2",
+      "description": "Port modern pe Marea Roșie, deservind traficul de pasageri și mărfuri.",
+      "facts": ["Numit după Osman Digna", "Localizat în Suakin", "Terminal de pasageri activ", "Importantă poartă maritimă"]
+    },
+    {
+      "id": "port-sudan-south-port-economic-v2",
+      "description": "Principala zonă de containere a portului principal al Sudanului.",
+      "facts": ["Centru logistic cheie", "Manipulare containere", "Conexiuni feroviare", "Eficiență operațională"]
+    },
+    {
+      "id": "port-sudan-green-port-economic-v2",
+      "description": "Secțiune specializată a portului pentru mărfuri în vrac și operațiuni portuare.",
+      "facts": ["Parte a complexului Port Sudan", "Importuri agro-industriale", "Facilități de depozitare", "Echipamente de descărcare"]
+    },
+    {
+      "id": "kosti-inland-port-economic-v2",
+      "description": "Terminal interior pe Nilul Alb, facilitând comerțul fluvial între regiuni.",
+      "facts": ["Situat pe Nilul Alb", "Nod feroviar și fluvial", "Schimburi comerciale regionale", "Importanță logistică"]
+    },
+    {
+      "id": "wadi-halfa-river-port-economic-v2",
+      "description": "Port pe Lacul Nubia, punct cheie de legătură cu Egiptul.",
+      "facts": ["Pe malul Lacului Nubia", "Legătură cu Aswan", "Tranzit comercial", "Punct de trecere frontieră"]
+    },
+    {
+      "id": "kenana-sugar-factory-economic-v2",
+      "description": "Una dintre cele mai mari unități de producție a zahărului din Africa, situată în statul Nilul Alb.",
+      "facts": ["Producție industrială masivă", "Sursă de energie bio", "Angajator regional", "Tehnologie agricolă"]
+    },
+    {
+      "id": "white-nile-sugar-factory-economic-v2",
+      "description": "Complex industrial dedicat rafinării zahărului în bazinul Nilului Alb.",
+      "facts": ["Procesare trestie de zahăr", "Tehnologie modernă", "Export regional", "Investiție agricolă"]
+    },
+    {
+      "id": "assalaya-sugar-factory-economic-v2",
+      "description": "Fabrică de zahăr importantă care susține dezvoltarea economică a regiunii Kosti.",
+      "facts": ["Localizată în statul Nilul Alb", "Producție de zahăr alb", "Integrare agricolă", "Sursă de venit local"]
+    }
+  ]
+}

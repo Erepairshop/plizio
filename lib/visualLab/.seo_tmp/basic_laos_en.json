@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wat-aham-landmarks-v2",
+      "description": "Wat Aham is a small, peaceful temple in Luang Prabang known for its historic significance and proximity to the Nam Khan River. It features two large banyan trees in the courtyard which are believed to be inhabited by ancestral spirits.",
+      "facts": [
+        "Located in Luang Prabang",
+        "Associated with spirit worship",
+        "Home to two large banyan trees",
+        "Historic religious site"
+      ]
+    }
+  ]
+}

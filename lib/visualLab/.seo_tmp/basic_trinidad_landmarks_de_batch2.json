@@ -1,0 +1,49 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-botanic-gardens-landmarks-v2",
+      "description": "Die Royal Botanic Gardens in Port of Spain sind eine grüne Oase mit einer beeindruckenden Sammlung exotischer Pflanzen. Sie bieten einen perfekten Rückzugsort im urbanen Zentrum.",
+      "facts": ["Port of Spain", "Botanischer Garten", "Exotische Pflanzen"]
+    },
+    {
+      "id": "tt-pigeon-point-jetty-landmarks-v2",
+      "description": "Der Pigeon Point Jetty ist das ikonische Wahrzeichen von Tobago. Der Steg führt über kristallklares Wasser und ist eines der meistfotografierten Motive der Insel.",
+      "facts": ["Tobago-Wahrzeichen", "Ikonischer Steg", "Kristallklares Wasser"]
+    },
+    {
+      "id": "tt-fort-king-peter-landmarks-v2",
+      "description": "Fort King Peter ist eine historische Verteidigungsanlage, die strategisch wertvoll an der Küste platziert wurde. Sie ist Teil der militärischen Geschichte von Tobago.",
+      "facts": ["Historische Festung", "Küstenverteidigung", "Militärhistorie"]
+    },
+    {
+      "id": "tt-trinidad-memorial-park-landmarks-v2",
+      "description": "Der Memorial Park ist ein würdiger Ort des Gedenkens in Port of Spain. Er erinnert an die gefallenen Helden und bedeutende historische Ereignisse von Trinidad.",
+      "facts": ["Port of Spain", "Gedenkstätte", "Historischer Park"]
+    },
+    {
+      "id": "tt-bocas-islands-landmarks-v2",
+      "description": "Die Bocas Islands bilden eine kleine Inselgruppe zwischen Trinidad und Venezuela. Sie sind bekannt für ihre malerische Lage und historische Bunkeranlagen.",
+      "facts": ["Inselgruppe", "Zwischen Trinidad/Venezuela", "Historische Bunker"]
+    },
+    {
+      "id": "tt-caribbean-cinema-landmarks-v2",
+      "description": "Das Caribbean Cinema ist ein beliebtes Zentrum für Unterhaltung und Kultur auf Trinidad. Es bietet moderne Einrichtungen für Kinoliebhaber.",
+      "facts": ["Unterhaltungszentrum", "Moderne Kinos", "Kultureller Treffpunkt"]
+    },
+    {
+      "id": "tt-san-fernando-hill-landmarks-v2",
+      "description": "Der San Fernando Hill überragt die zweitgrößte Stadt der Insel und bietet einen spektakulären Panoramablick. Der Hügel ist ein bedeutendes geographisches Merkmal.",
+      "facts": ["San Fernando", "Panoramablick", "Geographisches Merkmal"]
+    },
+    {
+      "id": "tt-trinidad-country-club-landmarks-v2",
+      "description": "Der Trinidad Country Club bietet exklusive Freizeitangebote und ist ein Treffpunkt der gehobenen Gesellschaft. Er liegt idyllisch in einer gepflegten Parklandschaft.",
+      "facts": ["Freizeiteinrichtung", "Gehobene Gesellschaft", "Parklandschaft"]
+    }
+  ]
+}

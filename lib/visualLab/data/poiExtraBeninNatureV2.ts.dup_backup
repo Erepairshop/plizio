@@ -1,0 +1,603 @@
+﻿// @ts-nocheck
+import type { POI } from "./poi";
+
+export const poiExtraBeninNatureV2: POI[] = [
+  {
+    id: "oueme-river-nature-v2",
+    type: "river",
+    parent: "BJ-OU",
+    coords: [2.4833, 6.4667],
+    name: {
+      de: "Ouémé",
+      hu: "Ouémé-folyó",
+      ro: "Râul Ouémé",
+      en: "Ouémé River"
+    },
+    descriptionAdvanced: {
+      de: "Der Ouémé ist der längste Fluss Benins und spielt eine zentrale Rolle für die Landwirtschaft und das Ökosystem im Süden des Landes. Er fließt durch abwechslungsreiche Landschaften und mündet schließlich in die Nokoué-Lagune. Die fruchtbaren Uferbereiche werden intensiv landwirtschaftlich genutzt, insbesondere für den Reisanbau. Die Region entlang des Flusses ist zudem Lebensraum für eine Vielzahl von Tier- und Pflanzenarten. Geografie K7 — Flüsse und Wasserwege."
+    },
+    factsAdvanced: {
+      de: ["Länge von etwa 510 Kilometern.", "Größter Fluss des Landes Benin.", "Mündet in die Nokoué-Lagune nördlich von Cotonou.", "Bedeutend für die Bewässerung der Landwirtschaft.", "Lebensraum für zahlreiche Süßwasserfische.", "Flussverlauf durch mehrere Klimazonen."]
+    }, image: "/poi-images/oueme-river-nature-v2.webp",
+    description: {
+      de: "Der Ouémé ist der längste Fluss Benins und eine lebenswichtige Wasserquelle für Landwirtschaft und Fischerei im Süden des Landes.",
+      hu: "Az Ouémé Benin leghosszabb folyója, amelynek vízgyűjtő területe létfontosságú az ország mezőgazdasága és vízellátása szempontjából.",
+      ro: "Fluviul Ouémé este cel mai lung curs de apă din Benin, fiind vital pentru pescuit, agricultură și transport în sudul țării.",
+      en: "Benin's longest river, flowing over 500 kilometers and serving as a vital waterway for agriculture, fishing, and regional transport."
+    },
+    facts: {
+      de: ["Länge von ca. 510 km", "Mündet in den Nokoué-See", "Wichtigster Fluss Benins", "Reich an Fischarten"],
+      hu: ["Típus: Folyó", "Hossz: 510 km", "Szerep: Vízellátás", "Mezőgazdasági jelentőség"],
+      ro: ["Cel mai lung fluviu", "Vital pentru pescuit", "Cale navigabilă"],
+      en: ["Longest river in Benin", "Primary source of irrigation", "Rich in freshwater fish species"]
+    }
+  },
+  {
+    id: "niger-river-benin-nature-v2",
+    type: "river",
+    parent: "BJ-AL",
+    coords: [3.1667, 11.9],
+    name: {
+      de: "Niger (Benin-Abschnitt)",
+      hu: "Niger-folyó (benini szakasz)",
+      ro: "Fluviul Niger (sectorul Benin)",
+      en: "Niger River (Benin section)"
+    },
+    descriptionAdvanced: {
+      de: "Der Niger-Fluss bildet einen Teil der nördlichen Grenze Benins und ist eine lebenswichtige Ressource für die gesamte Region. Er verbindet Benin mit seinen Nachbarländern und ist von großer Bedeutung für den regionalen Handel und die Fischerei. Die Landschaften entlang des Nigers in Benin sind durch ausgedehnte Savannen und eine reiche Tierwelt geprägt. Sachkunde K6 — Die großen Flüsse Afrikas."
+    },
+    factsAdvanced: {
+      de: ["Bildet einen bedeutenden Teil der Staatsgrenze im Norden.", "Drittlängster Fluss Afrikas.", "Wichtige Lebensader für die Menschen in der Region.", "Lebensraum für Flusspferde und Krokodile.", "Bedeutendes Zentrum für den regionalen Fischfang.", "Die Uferbereiche bieten Weideflächen für das Vieh."]
+    }, image: "/poi-images/niger-river-benin-nature-v2.webp",
+    description: {
+      de: "Der Niger bildet im Norden die natürliche Grenze Benins zu Niger und prägt die fruchtbare Flusslandschaft der Region.",
+      hu: "A Niger folyó az ország északi határán halad át, jelentős szerepet játszva az ökoszisztémák és a vízi szállítás fenntartásában.",
+      ro: "Fluviul Niger formează granița naturală de nord a Beninului, fiind o resursă de apă vitală pentru regiunile semideșertice.",
+      en: "A major international river that forms a natural border between Benin and Niger in the extreme north of the country."
+    },
+    facts: {
+      de: ["Grenzfluss im Norden", "Drittlängster Fluss Afrikas", "Wichtige Handelsroute", "Fruchtbare Überschwemmungsgebiete"],
+      hu: ["Típus: Folyó", "Helyszín: Északi határ", "Jelentőség: Határfolyó", "Ökológiai szerep"],
+      ro: ["Graniță naturală", "Fluviu major african", "Regiunea de nord"],
+      en: ["Forms the northern national border", "Major West African waterway", "Supports riverine agriculture"]
+    }
+  },
+  {
+    id: "pendjari-river-nature-v2",
+    type: "river",
+    parent: "BJ-AK",
+    coords: [1.4667, 11.3333],
+    name: {
+      de: "Pendjari",
+      hu: "Pendjari-folyó",
+      ro: "Râul Pendjari",
+      en: "Pendjari River"
+    },
+    descriptionAdvanced: {
+      de: "Der Pendjari-Fluss ist das Herzstück des Pendjari-Nationalparks im Norden Benins. Er ist eine unverzichtbare Wasserquelle für die vielfältige Tierwelt des Parks, darunter Löwen, Elefanten und zahlreiche Antilopenarten. Während der Trockenzeit konzentriert sich das Leben der Wildtiere entlang der Flussläufe, was den Pendjari zu einem der besten Orte für Naturbeobachtungen in Westafrika macht. Biologie K6 — Wildtiere und Habitate."
+    },
+    factsAdvanced: {
+      de: ["Lebensader des Pendjari-Nationalparks.", "Zentrale Wasserquelle für Elefantenherden.", "Die Trockenzeit macht das Gebiet besonders wildreich.", "Wichtiger Lebensraum für gefährdete Arten.", "Die Flussufer bieten ein reiches Ökosystem.", "Der Park ist ein UNESCO-Biosphärenreservat."]
+    }, image: "/poi-images/pendjari-river-nature-v2.webp",
+    description: {
+      de: "Der Pendjari-Fluss durchfließt den gleichnamigen Nationalpark und ist ein Magnet für die vielfältige Tierwelt im Norden Benins.",
+      hu: "A Pendjari folyó a nemzeti park ökoszisztémájának gerince, amely egész évben biztosítja a vizet a régió vadállománya számára.",
+      ro: "Râul Pendjari traversează parcul național cu același nume, fiind principala sursă de apă pentru marea varietate de animale sălbatice.",
+      en: "A seasonal river that meanders through Pendjari National Park, providing life-sustaining water to the park's diverse wildlife."
+    },
+    facts: {
+      de: ["Teil des WAP-Komplexes", "Natürliche Grenze zu Burkina Faso", "Trinkquelle für Wildtiere", "Namensgeber des Nationalparks"],
+      hu: ["Típus: Folyó", "Helyszín: Pendjari Nemzeti Park", "Szerep: Vízkészlet", "Ökológiai gerinc"],
+      ro: ["Parc Național Pendjari", "Graniță cu Burkina Faso", "Habitat pentru faună"],
+      en: ["Flows through Pendjari National Park", "Critical water source for wildlife", "Forms natural pools in the dry season"]
+    }
+  },
+  {
+    id: "mekrou-river-nature-v2",
+    type: "river",
+    parent: "BJ-AL",
+    coords: [2.75, 12.35],
+    name: {
+      de: "Mékrou",
+      hu: "Mékrou-folyó",
+      ro: "Râul Mékrou",
+      en: "Mékrou River"
+    },
+    description: {
+      de: "Der Mékrou ist ein Nebenfluss des Niger, der durch den W-Nationalpark im Norden Benins fließt.",
+      hu: "A Mékrou a Niger mellékfolyója, amely a W Nemzeti Parkon folyik keresztül Benin északi részén.",
+      ro: "Mékrou este un afluent al Nigerului, care curge prin Parcul Național W din nordul Beninului.",
+      en: "The Mékrou is a tributary of the Niger, flowing through the W National Park in northern Benin."
+    },
+    facts: {
+      de: ["Fließt durch unberührte Savannenlandschaften.", "Reich an Fischarten.", "Bildet die Grenze zwischen Benin und Burkina Faso."],
+      hu: ["Érintetlen szavannákon folyik át.", "Gazdag halfajokban.", "Határt alkot Benin és Burkina Faso között."],
+      ro: ["Curge prin peisaje de savană neatinse.", "Bogat în specii de pești.", "Formează granița dintre Benin și Burkina Faso."],
+      en: ["Flows through untouched savanna landscapes.", "Rich in fish species.", "Forms the border between Benin and Burkina Faso."]
+    }, image: "/poi-images/mekrou-river-nature-v2.webp"},
+  {
+    id: "sota-river-nature-v2",
+    type: "river",
+    parent: "BJ-AL",
+    coords: [3.4167, 11.8833],
+    name: {
+      de: "Sota",
+      hu: "Sota-folyó",
+      ro: "Râul Sota",
+      en: "Sota River"
+    },
+    description: {
+      de: "Der Sota ist ein rechter Nebenfluss des Niger im Norden Benins, bekannt für seine Bedeutung für die Landwirtschaft.",
+      hu: "A Sota a Niger jobb oldali mellékfolyója Benin északi részén, amely jelentős a mezőgazdaság számára.",
+      ro: "Sota este un afluent de dreapta al Nigerului în nordul Beninului, cunoscut pentru importanța sa în agricultură.",
+      en: "The Sota is a right-bank tributary of the Niger in northern Benin, known for its importance to agriculture."
+    },
+    facts: {
+      de: ["Länge von ca. 250 km.", "Wichtige Wasserquelle für Baumwollfelder.", "Mündet bei Malanville in den Niger."],
+      hu: ["Hossza kb. 250 km.", "Fontos vízforrás a gyapotföldek számára.", "Malanville közelében ömlik a Nigerbe."],
+      ro: ["Lungime de aproximativ 250 km.", "Sursă importantă de apă pentru culturile de bumbac.", "Se varsă în Niger lângă Malanville."],
+      en: ["About 250 km long.", "Important water source for cotton fields.", "Flows into the Niger near Malanville."]
+    }, image: "/poi-images/sota-river-nature-v2.webp"},
+  {
+    id: "alibori-river-nature-v2",
+    type: "river",
+    parent: "BJ-AL",
+    coords: [3.3, 11.95],
+    name: {
+      de: "Alibori",
+      hu: "Alibori-folyó",
+      ro: "Râul Alibori",
+      en: "Alibori River"
+    },
+    description: {
+      de: "Der Alibori ist ein Nebenfluss des Niger im Nordosten Benins, der der gleichnamigen Provinz ihren Namen gab.",
+      hu: "Az Alibori a Niger mellékfolyója Benin északkeleti részén, amelyről az Alibori megye a nevét kapta.",
+      ro: "Alibori este un afluent al Nigerului în nord-estul Beninului, care a dat numele provinciei omonime.",
+      en: "The Alibori is a tributary of the Niger in northeastern Benin, giving its name to the Alibori Department."
+    },
+    facts: {
+      de: ["Entspringt im Atakora-Gebirge.", "Wichtiger Wasserlauf in der Trockenzone.", "Mündet im Norden in den Niger."],
+      hu: ["Az Atakora-hegységben ered.", "Fontos vízfolyás a száraz övezetben.", "Északon ömlik a Nigerbe."],
+      ro: ["Izvorăște din Munții Atakora.", "Curs de apă important în zona aridă.", "Se varsă în Niger în nord."],
+      en: ["Originates in the Atakora Mountains.", "Important watercourse in the dry zone.", "Empties into the Niger in the north."]
+    }, image: "/poi-images/alibori-river-nature-v2.webp"},
+  {
+    id: "couffo-river-nature-v2",
+    type: "river",
+    parent: "BJ-KO",
+    coords: [1.7, 7.0],
+    name: {
+      de: "Couffo",
+      hu: "Couffo-folyó",
+      ro: "Râul Couffo",
+      en: "Couffo River"
+    },
+    description: {
+      de: "Der Couffo ist ein Fluss im Südwesten Benins, der in den Ahémé-See mündet.",
+      hu: "A Couffo folyó a délnyugati régió fontos vízfolyása, amely táplálja a környező vizes élőhelyeket és a mezőgazdasági területeket.",
+      ro: "Couffo este un râu în sud-vestul Beninului, care se varsă în Lacul Ahémé.",
+      en: "The Couffo is a river in southwestern Benin that empties into Lake Ahémé."
+    },
+    facts: {
+      de: ["Entspringt in Togo.", "Speist den Ahémé-See mit Süßwasser.", "Wichtig für den Fischfang in der Region."],
+      hu: ["Típus: Folyó", "Régió: Délnyugat", "Szerep: Vízi élőhelyek", "Mezőgazdasági vízforrás"],
+      ro: ["Izvorăște din Togo.", "Alimentează Lacul Ahémé cu apă dulce.", "Important pentru pescuitul din regiune."],
+      en: ["Originates in Togo.", "Feeds Lake Ahémé with fresh water.", "Important for fishing in the region."]
+    }, image: "/poi-images/couffo-river-nature-v2.webp"},
+  {
+    id: "mono-river-nature-v2",
+    type: "river",
+    parent: "BJ-MO",
+    coords: [1.6167, 6.2833],
+    name: {
+      de: "Mono",
+      hu: "Mono-folyó",
+      ro: "Râul Mono",
+      en: "Mono River"
+    },
+    description: {
+      de: "Der Mono markiert die Grenze zwischen Benin und Togo im Süden und mündet in den Golf von Guinea.",
+      hu: "A Mono folyó alkotja Benin és Togo határát délen, és a Guineai-öbölbe torkollik.",
+      ro: "Râul Mono marchează granița dintre Benin și Togo în sud și se varsă în Golful Guineei.",
+      en: "The Mono River marks the border between Benin and Togo in the south and empties into the Gulf of Guinea."
+    },
+    facts: {
+      de: ["Bildet im Unterlauf die Staatsgrenze.", "Wichtiger Standort für Wasserkraft (Nangbeto-Damm).", "Mündet über das 'Bouche du Roy' ins Meer."],
+      hu: ["Alsó szakaszán államhatárt alkot.", "Fontos vízenergia-forrás (Nangbeto-gát).", "A 'Bouche du Roy'-n keresztül ömlik a tengerbe."],
+      ro: ["Formează granița de stat în cursul inferior.", "Locație importantă pentru hidroenergie (Barajul Nangbeto).", "Se varsă în mare prin 'Bouche du Roy'."],
+      en: ["Forms the national border in its lower course.", "Important site for hydropower (Nangbeto Dam).", "Empties into the sea via the 'Bouche du Roy'."]
+    }, image: "/poi-images/mono-river-nature-v2.webp"},
+  {
+    id: "lake-nokoue-nature-v2",
+    type: "lake",
+    parent: "BJ-AQ",
+    coords: [2.45, 6.4333],
+    name: {
+      de: "Lake Nokoué",
+      hu: "Nokoué-tó",
+      ro: "Lacul Nokoué",
+      en: "Lake Nokoué"
+    },
+    description: {
+      de: "Der Nokoué-See ist die größte Lagune Benins, gelegen nördlich der Hauptstadt Cotonou.",
+      hu: "A Nokoué-tó Benin legnagyobb lagúnája, Cotonou városától északra.",
+      ro: "Lacul Nokoué este cea mai mare lagună din Benin, situată la nord de Cotonou.",
+      en: "Lake Nokoué is the largest lagoon in Benin, located north of the city of Cotonou."
+    },
+    facts: {
+      de: ["Berühmt für das Pfahldorf Ganvié.", "Wichtiger Lebensraum für Wasservögel.", "Verbindung zum Meer über den Cotonou-Kanal."],
+      hu: ["Híres a ganviéi cölöpfaluról.", "Fontos élőhely vízi madarak számára.", "A Cotonou-csatornán keresztül kapcsolódik a tengerhez."],
+      ro: ["Faimos pentru satul pe piloni Ganvié.", "Habitat important pentru păsările de apă.", "Conectat la mare prin canalul Cotonou."],
+      en: ["Famous for the stilt village of Ganvié.", "Important habitat for water birds.", "Connected to the sea via the Cotonou canal."]
+    }, image: "/poi-images/lake-nokoue-nature-v2.webp"},
+  {
+    id: "lake-aheme-nature-v2",
+    type: "lake",
+    parent: "BJ-MO",
+    coords: [1.9667, 6.5],
+    name: {
+      de: "Lake Ahémé",
+      hu: "Ahémé-tó",
+      ro: "Lacul Ahémé",
+      en: "Lake Ahémé"
+    },
+    description: {
+      de: "Der Ahémé-See ist eine bedeutende Lagune im Südwesten Benins, bekannt für seinen Fischreichtum.",
+      hu: "Az Ahémé-tó jelentős lagúna Benin délnyugati részén, amely gazdag halállományáról ismert.",
+      ro: "Lacul Ahémé este o lagună importantă în sud-vestul Beninului, cunoscută pentru abundența de pește.",
+      en: "Lake Ahémé is a major lagoon in southwestern Benin, known for its rich fish stocks."
+    },
+    facts: {
+      de: ["Zentrum des traditionellen Fischfangs.", "Umgeben von heiligen Wäldern.", "Wichtiges Ökosystem für Mangroven."],
+      hu: ["A hagyományos halászat központja.", "Szent erdők veszik körül.", "Fontos ökoszisztéma a mangrovék számára."],
+      ro: ["Centru al pescuitului tradițional.", "Înconjurat de păduri sacre.", "Ecosistem important pentru mangrove."],
+      en: ["Center of traditional fishing.", "Surrounded by sacred forests.", "Important ecosystem for mangroves."]
+    }, image: "/poi-images/lake-aheme-nature-v2.webp"},
+  {
+    id: "porto-novo-lagoon-nature-v2",
+    type: "lake",
+    parent: "BJ-OU",
+    coords: [2.6167, 6.4167],
+    name: {
+      de: "Lagune von Porto-Novo",
+      hu: "Porto-Novo-i lagúna",
+      ro: "Laguna Porto-Novo",
+      en: "Porto-Novo Lagoon"
+    },
+    description: {
+      de: "Die Lagune von Porto-Novo erstreckt sich entlang der Hauptstadt Benins und verbindet den Ouémé-Fluss mit der nigerianischen Grenze.",
+      hu: "A Porto-Novo-i lagúna Benin fővárosa mentén húzódik, összekötve az Ouémé-folyót a nigériai határral.",
+      ro: "Laguna Porto-Novo se întinde de-a lungul capitalei Beninului, conectând râul Ouémé cu granița nigeriană.",
+      en: "The Porto-Novo Lagoon stretches along the capital of Benin, connecting the Ouémé River to the Nigerian border."
+    },
+    facts: {
+      de: ["Wichtiger Transportweg nach Nigeria.", "Reich an Biodiversität.", "Teil eines großen Lagunensystems."],
+      hu: ["Fontos szállítási útvonal Nigéria felé.", "Gazdag biológiai sokféleség.", "Egy nagy lagúnarendszer része."],
+      ro: ["Rută importantă de transport către Nigeria.", "Bogat în biodiversitate.", "Parte a unui sistem vast de lagune."],
+      en: ["Important transport route to Nigeria.", "Rich in biodiversity.", "Part of a large lagoon system."]
+    }, image: "/poi-images/porto-novo-lagoon-nature-v2.webp"},
+  {
+    id: "cotonou-lagoon-nature-v2",
+    type: "lake",
+    parent: "BJ-LI",
+    coords: [2.4333, 6.3667],
+    name: {
+      de: "Lagune von Cotonou",
+      hu: "Cotonou-i lagúna",
+      ro: "Laguna Cotonou",
+      en: "Cotonou Lagoon"
+    },
+    description: {
+      de: "Die Lagune von Cotonou ist ein Wasserweg, der den Nokoué-See mit dem Atlantischen Ozean verbindet.",
+      hu: "A Cotonou-i lagúna egy vízi út, amely a Nokoué-tavat köti össze az Atlanti-óceánnal.",
+      ro: "Laguna Cotonou este o cale navigabilă care leagă Lacul Nokoué de Oceanul Atlantic.",
+      en: "The Cotonou Lagoon is a waterway connecting Lake Nokoué to the Atlantic Ocean."
+    },
+    facts: {
+      de: ["Teilt die Stadt Cotonou in zwei Hälften.", "Überquert von drei großen Brücken.", "Wichtig für das städtische Entwässerungssystem."],
+      hu: ["Két részre osztja Cotonou városát.", "Három nagy híd szeli át.", "Fontos a városi vízelvezető rendszer számára."],
+      ro: ["Împarte orașul Cotonou în două jumătăți.", "Traversată de trei poduri mari.", "Importantă pentru sistemul de drenaj urban."],
+      en: ["Divides the city of Cotonou into two halves.", "Crossed by three major bridges.", "Important for the urban drainage system."]
+    }, image: "/poi-images/cotonou-lagoon-nature-v2.webp"},
+  {
+    id: "lake-toho-nature-v2",
+    type: "lake",
+    parent: "BJ-MO",
+    coords: [1.7833, 6.6],
+    name: {
+      de: "Lake Toho",
+      hu: "Toho-tó",
+      ro: "Lacul Toho",
+      en: "Lake Toho"
+    },
+    description: {
+      de: "Der Toho-See ist ein kleinerer See im Südwesten Benins, nahe der Grenze zu Togo.",
+      hu: "A Toho-tó egy kisebb tó Benin délnyugati részén, a togói határ közelében.",
+      ro: "Lacul Toho este un lac mai mic în sud-vestul Beninului, lângă granița cu Togo.",
+      en: "Lake Toho is a smaller lake in southwestern Benin, near the border with Togo."
+    },
+    facts: {
+      de: ["Wichtig für die lokale Fischversorgung.", "Beliebt für Vogelbeobachtungen.", "Nahe der Stadt Pahou gelegen."],
+      hu: ["Fontos a helyi halellátás számára.", "Népszerű a madármegfigyelők körében.", "Pahou városa közelében található."],
+      ro: ["Important pentru aprovizionarea locală cu pește.", "Popular pentru observarea păsărilor.", "Situat lângă orașul Pahou."],
+      en: ["Important for local fish supply.", "Popular for bird watching.", "Located near the town of Pahou."]
+    }, image: "/poi-images/lake-toho-nature-v2.webp"},
+  {
+    id: "atakora-mountains-nature-v2",
+    type: "mountain",
+    parent: "BJ-AK",
+    coords: [1.5, 11.0],
+    name: {
+      de: "Atakora-Gebirge",
+      hu: "Atakora-hegység",
+      ro: "Munții Atakora",
+      en: "Atakora Mountains"
+    },
+    description: {
+      de: "Das Atakora-Gebirge ist ein Mittelgebirge im Nordwesten Benins und die wichtigste Bergregion des Landes.",
+      hu: "Az Atakora-hegység egy középhegység Benin északnyugati részén, az ország legfontosabb hegyvidéke.",
+      ro: "Munții Atakora reprezintă un lanț muntos în nord-vestul Beninului, fiind cea mai importantă regiune montană a țării.",
+      en: "The Atakora Mountains are a range of hills in northwestern Benin and the country's most significant mountain region."
+    },
+    facts: {
+      de: ["Höchste Erhebungen Benins.", "Quelle vieler Flüsse.", "Bekannt für Wasserfälle wie die Kota-Fälle."],
+      hu: ["Benin legmagasabb pontjai.", "Számos folyó forrásvidéke.", "Híres a vízeséseiről, mint a Kota-vízesés."],
+      ro: ["Cele mai mari înălțimi din Benin.", "Sursă pentru numeroase râuri.", "Cunoscuți pentru cascade precum Cascadele Kota."],
+      en: ["Highest elevations in Benin.", "Source of many rivers.", "Known for waterfalls like the Kota Falls."]
+    }, image: "/poi-images/atakora-mountains-nature-v2.webp"},
+  {
+    id: "mont-sokbaro-nature-v2",
+    type: "mountain",
+    parent: "BJ-DO",
+    coords: [1.4, 9.3167],
+    name: {
+      de: "Mont Sokbaro",
+      hu: "Sokbaro-hegy",
+      ro: "Muntele Sokbaro",
+      en: "Mont Sokbaro"
+    },
+    description: {
+      de: "Der Mont Sokbaro gilt traditionell als der höchste Berg Benins an der Grenze zu Togo.",
+      hu: "A Sokbaro-hegyet hagyományosan Benin legmagasabb hegyének tekintik a togói határon.",
+      ro: "Muntele Sokbaro este considerat în mod tradițional cel mai înalt munte din Benin, situat la granița cu Togo.",
+      en: "Mont Sokbaro is traditionally considered the highest mountain in Benin, located on the border with Togo."
+    },
+    facts: {
+      de: ["Höhe von ca. 658 Metern.", "Teil des Atakora-Massivs.", "Beliebtes Ziel für Wanderer."],
+      hu: ["Magassága kb. 658 méter.", "Az Atakora-masszívum része.", "Népszerű túrázóhely."],
+      ro: ["Înălțime de aproximativ 658 metri.", "Parte a masivului Atakora.", "Destinație populară pentru drumeții."],
+      en: ["Elevation of about 658 meters.", "Part of the Atakora massif.", "Popular destination for hikers."]
+    }, image: "/poi-images/mont-sokbaro-nature-v2.webp"},
+  {
+    id: "mont-tanekas-nature-v2",
+    type: "mountain",
+    parent: "BJ-AK",
+    coords: [1.5, 9.85],
+    name: {
+      de: "Mont Tanékas",
+      hu: "Tanékas-hegy",
+      ro: "Muntele Tanékas",
+      en: "Mont Tanékas"
+    },
+    description: {
+      de: "Der Mont Tanékas ist eine markante Erhebung im Norden Benins, bekannt für seine kulturelle Bedeutung.",
+      hu: "A Tanékas-hegy egy jellegzetes magaslat Benin északi részén, amely kulturális jelentőségéről ismert.",
+      ro: "Muntele Tanékas este o culme proeminentă în nordul Beninului, cunoscută pentru semnificația sa culturală.",
+      en: "Mont Tanékas is a prominent elevation in northern Benin, known for its cultural significance."
+    },
+    facts: {
+      de: ["Heimat des Tanéka-Volkes.", "Bietet weite Ausblicke über die Savanne.", "Zentrum spiritueller Traditionen."],
+      hu: ["A tanéka nép otthona.", "Széles kilátást nyújt a szavannára.", "Spirituális hagyományok központja."],
+      ro: ["Cămin al poporului Tanéka.", "Oferă vederi panoramice asupra savanei.", "Centru al tradițiilor spirituale."],
+      en: ["Home to the Tanéka people.", "Offers wide views over the savanna.", "Center of spiritual traditions."]
+    }, image: "/poi-images/mont-tanekas-nature-v2.webp"},
+  {
+    id: "sacred-forest-kpasse-nature-v2",
+    type: "forest",
+    parent: "BJ-AQ",
+    coords: [2.0833, 6.3667],
+    name: {
+      de: "Heiliger Wald von Kpassè",
+      hu: "Kpassè szent erdő",
+      ro: "Pădurea Sacră din Kpassè",
+      en: "Sacred Forest of Kpassè"
+    },
+    description: {
+      de: "Der Heilige Wald von Kpassè in Ouidah ist ein wichtiges spirituelles und ökologisches Zentrum der Voodoo-Kultur.",
+      hu: "Az uidahi Kpassè szent erdő a vudu kultúra egyik fontos spirituális és ökológiai központja.",
+      ro: "Pădurea Sacră din Kpassè, situată în Ouidah, este un important centru spiritual și ecologic al culturii Voodoo.",
+      en: "The Sacred Forest of Kpassè in Ouidah is an important spiritual and ecological center of Voodoo culture."
+    },
+    facts: {
+      de: ["Beherbergt jahrhundertealte Bäume.", "Ort für religiöse Zeremonien.", "Geschmückt mit Statuen von Voodoo-Gottheiten."],
+      hu: ["Évszázados fáknak ad otthont.", "Vallási szertartások helyszíne.", "Vudu istenségek szobraival díszített."],
+      ro: ["Găzduiește arbori seculari.", "Loc pentru ceremonii religioase.", "Împodobită cu statui ale zeităților Voodoo."],
+      en: ["Home to centuries-old trees.", "Site for religious ceremonies.", "Decorated with statues of Voodoo deities."]
+    }, image: "/poi-images/sacred-forest-kpasse-nature-v2.webp"},
+  {
+    id: "niaouli-forest-nature-v2",
+    type: "forest",
+    parent: "BJ-AQ",
+    coords: [2.15, 6.7167],
+    name: {
+      de: "Niaouli-Wald",
+      hu: "Niaouli-erdő",
+      ro: "Pădurea Niaouli",
+      en: "Niaouli Forest"
+    },
+    description: {
+      de: "Der Niaouli-Wald ist ein forstwirtschaftliches Forschungsgebiet und ein wichtiges Waldfragment im Süden Benins.",
+      hu: "A Niaouli-erdő egy erdészeti kutatási terület és fontos erdőmaradvány Benin déli részén.",
+      ro: "Pădurea Niaouli este o zonă de cercetare forestieră și un fragment de pădure important în sudul Beninului.",
+      en: "The Niaouli Forest is a forestry research area and an important forest fragment in southern Benin."
+    },
+    facts: {
+      de: ["Zentrum für die Erhaltung lokaler Baumarten.", "Wichtig für die Erforschung tropischer Ökosysteme.", "Beliebt für Bildungsausflüge."],
+      hu: ["Helyi fafajták megőrzésének központja.", "Fontos a trópusi ökoszisztémák kutatásához.", "Népszerű oktatási kirándulások helyszíne."],
+      ro: ["Centru pentru conservarea speciilor locale de arbori.", "Important pentru cercetarea ecosistemelor tropicale.", "Popular pentru excursii educaționale."],
+      en: ["Center for conserving local tree species.", "Important for studying tropical ecosystems.", "Popular for educational trips."]
+    }, image: "/poi-images/niaouli-forest-nature-v2.webp"},
+  {
+    id: "lama-forest-nature-v2",
+    type: "forest",
+    parent: "BJ-ZO",
+    coords: [2.1667, 6.95],
+    name: {
+      de: "Lama-Wald",
+      hu: "Lama-erdő",
+      ro: "Pădurea Lama",
+      en: "Lama Forest"
+    },
+    description: {
+      de: "Der Lama-Wald ist einer der letzten verbliebenen Primärwälder Benins, gelegen in einer Senke im Zentrum des Landes.",
+      hu: "A Lama-erdő Benin egyik utolsó megmaradt őserdeje, amely az ország központi részén, egy mélyedésben található.",
+      ro: "Pădurea Lama este una dintre ultimele păduri primare rămase în Benin, situată într-o depresiune din centrul țării.",
+      en: "The Lama Forest is one of Benin's last remaining primary forests, located in a depression in the center of the country."
+    },
+    facts: {
+      de: ["Wichtigstes Schutzgebiet für die Rotschwanzaffen.", "Reich an seltener Flora.", "Bekannt für seine feuchten Lehmböden."],
+      hu: ["A vörösfarkú cerkófok legfontosabb védett területe.", "Ritka flórában gazdag.", "Híres nedves agyagos talajáról."],
+      ro: ["Cea mai importantă arie protejată pentru maimuțele cu coadă roșie.", "Bogată în floră rară.", "Cunoscută pentru solurile sale argiloase umede."],
+      en: ["Most important protected area for red-tailed monkeys.", "Rich in rare flora.", "Known for its moist clay soils."]
+    }, image: "/poi-images/lama-forest-nature-v2.webp"},
+  {
+    id: "gulf-of-guinea-benin-nature-v2",
+    type: "sea",
+    parent: "BJ-LI",
+    coords: [2.4, 6.2],
+    name: {
+      de: "Golf von Guinea",
+      hu: "Guineai-öböl",
+      ro: "Golful Guineei",
+      en: "Gulf of Guinea"
+    },
+    description: {
+      de: "Der Golf von Guinea bildet die gesamte Südküste Benins und ist Teil des tropischen Atlantiks.",
+      hu: "A Guineai-öböl alkotja Benin teljes déli partvidékét, és a trópusi Atlanti-óceán része.",
+      ro: "Golful Guineei formează întreaga coastă de sud a Beninului și face parte din Atlanticul tropical.",
+      en: "The Gulf of Guinea forms the entire southern coast of Benin and is part of the tropical Atlantic Ocean."
+    },
+    facts: {
+      de: ["Reich an Meeresressourcen.", "Wichtig für den internationalen Handel.", "Bekannt für seine starken Strömungen."],
+      hu: ["Gazdag tengeri erőforrásokban.", "Fontos a nemzetközi kereskedelem számára.", "Híres erős áramlatairól."],
+      ro: ["Bogat în resurse marine.", "Important pentru comerțul internațional.", "Cunoscut pentru curenții săi puternici."],
+      en: ["Rich in marine resources.", "Important for international trade.", "Known for its strong currents."]
+    }, image: "/poi-images/gulf-of-guinea-benin-nature-v2.webp"},
+  {
+    id: "bight-of-benin-nature-v2",
+    type: "sea",
+    parent: "BJ-LI",
+    coords: [2.0, 6.0],
+    name: {
+      de: "Bucht von Benin",
+      hu: "Benini-öböl",
+      ro: "Golful Benin",
+      en: "Bight of Benin"
+    },
+    description: {
+      de: "Die Bucht von Benin ist ein großer Meeresarm im Norden des Golfs von Guinea, an dem Benin liegt.",
+      hu: "A Benini-öböl a Guineai-öböl északi részén található nagy tengeröböl, amelynél Benin fekszik.",
+      ro: "Golful Benin este o mare porțiune a Golfului Guineei, pe coasta căreia se află Beninul.",
+      en: "The Bight of Benin is a large bay in the northern part of the Gulf of Guinea, where Benin is located."
+    },
+    facts: {
+      de: ["Historisch als Sklavenküste bekannt.", "Erstreckt sich von Ghana bis Nigeria.", "Wichtiger Fischereigrund."],
+      hu: ["Történelmileg Rabszolgapart néven volt ismert.", "Ghánától Nigériáig terjed.", "Fontos halászati terület."],
+      ro: ["Cunoscut istoric sub numele de Coasta Sclavilor.", "Se întinde de la Ghana până la Nigeria.", "Zonă importantă de pescuit."],
+      en: ["Historically known as the Slave Coast.", "Extends from Ghana to Nigeria.", "Important fishing ground."]
+    }, image: "/poi-images/bight-of-benin-nature-v2.webp"},
+  {
+    id: "togodo-forest-nature-v2",
+    type: "forest",
+    parent: "BJ-MO",
+    coords: [1.5, 6.8333],
+    name: {
+      de: "Togodo-Wald",
+      hu: "Togodo-erdő",
+      ro: "Pădurea Togodo",
+      en: "Togodo Forest"
+    },
+    description: {
+      de: "Der Togodo-Wald ist ein grenzüberschreitendes Waldgebiet im Südwesten Benins, nahe dem Mono-Fluss.",
+      hu: "A Togodo-erdő egy határokon átnyúló erdőterület Benin délnyugati részén, a Mono-folyó közelében.",
+      ro: "Pădurea Togodo este o zonă forestieră transfrontalieră în sud-vestul Beninului, lângă râul Mono.",
+      en: "The Togodo Forest is a transboundary forest area in southwestern Benin, near the Mono River."
+    },
+    facts: {
+      de: ["Teil eines Biosphärenreservats.", "Wichtiger Korridor für Wildtiere.", "Besteht aus Galeriewäldern und Savanne."],
+      hu: ["Egy bioszféra-rezervátum része.", "Fontos folyosó a vadon élő állatok számára.", "Galériaerdőkből és szavannából áll."],
+      ro: ["Parte a unei rezervații a biosferei.", "Coridor important pentru fauna sălbatică.", "Formată din păduri-galerie și savană."],
+      en: ["Part of a biosphere reserve.", "Important corridor for wildlife.", "Consists of gallery forests and savanna."]
+    }, image: "/poi-images/togodo-forest-nature-v2.webp"},
+  {
+    id: "so-river-nature-v2",
+    type: "river",
+    parent: "BJ-AQ",
+    coords: [2.4, 6.5],
+    name: {
+      de: "Sô",
+      hu: "Sô-folyó",
+      ro: "Râul Sô",
+      en: "Sô River"
+    },
+    description: {
+      de: "Der Sô ist ein Fluss im Süden Benins, der parallel zum Ouémé fließt und in den Nokoué-See mündet.",
+      hu: "A Sô egy folyó Benin déli részén, amely az Ouémével párhuzamosan folyik és a Nokoué-tóba torkollik.",
+      ro: "Sô este un râu în sudul Beninului, care curge paralel cu Ouémé și se varsă în Lacul Nokoué.",
+      en: "The Sô is a river in southern Benin that flows parallel to the Ouémé and empties into Lake Nokoué."
+    },
+    facts: {
+      de: ["Fließt durch Sumpfgebiete.", "Wichtig für den Reisanbau.", "Mündet bei Ganvié in den See."],
+      hu: ["Mocsaras területeken folyik keresztül.", "Fontos a rizstermesztés számára.", "Ganvié közelében ömlik a tóba."],
+      ro: ["Curge prin zone mlăștinoase.", "Important pentru cultivarea orezului.", "Se varsă în lac lângă Ganvié."],
+      en: ["Flows through marshy areas.", "Important for rice cultivation.", "Empties into the lake near Ganvié."]
+    }, image: "/poi-images/so-river-nature-v2.webp"},
+  {
+    id: "donga-river-nature-v2",
+    type: "river",
+    parent: "BJ-DO",
+    coords: [1.75, 9.6833],
+    name: {
+      de: "Donga",
+      hu: "Donga-folyó",
+      ro: "Râul Donga",
+      en: "Donga River"
+    },
+    description: {
+      de: "Der Donga ist ein Wasserlauf im Zentrum Benins, der die Region Donga entwässert.",
+      hu: "A Donga egy vízfolyás Benin középső részén, amely a Donga régió vizét vezeti el.",
+      ro: "Donga este un curs de apă în centrul Beninului, care drenează regiunea Donga.",
+      en: "The Donga is a watercourse in central Benin that drains the Donga Department."
+    },
+    facts: {
+      de: ["Namensgeber für das Departement Donga.", "Wichtige Quelle für lokales Wasser.", "Fließt durch hügeliges Gelände."],
+      hu: ["A Donga megye névadója.", "Fontos helyi vízforrás.", "Dombos vidéken folyik keresztül."],
+      ro: ["Dă numele departamentului Donga.", "Sursă importantă de apă locală.", "Curge prin teren deluros."],
+      en: ["Gives its name to the Donga Department.", "Important source of local water.", "Flows through hilly terrain."]
+    }, image: "/poi-images/donga-river-nature-v2.webp"},
+  {
+    id: "lake-azili-nature-v2",
+    type: "lake",
+    parent: "BJ-ZO",
+    coords: [2.4333, 7.2333],
+    name: {
+      de: "Lake Azili",
+      hu: "Azili-tó",
+      ro: "Lacul Azili",
+      en: "Lake Azili"
+    },
+    description: {
+      de: "Der Azili-See ist ein natürlicher See im Zentrum Benins, umgeben von dichten Sumpfwäldern.",
+      hu: "Az Azili-tó egy természetes tó Benin középső részén, sűrű mocsári erdőkkel körülvéve.",
+      ro: "Lacul Azili este un lac natural în centrul Beninului, înconjurat de păduri mlăștinoase dese.",
+      en: "Lake Azili is a natural lake in central Benin, surrounded by dense swamp forests."
+    },
+    facts: {
+      de: ["Relativ unberührte Natur.", "Reich an Fischvorkommen.", "Wichtiger Rastplatz für Zugvögel."],
+      hu: ["Relatíve érintetlen természet.", "Gazdag halállomány.", "Fontos pihenőhely a költöző madarak számára."],
+      ro: ["Natură relativ neatinsă.", "Bogat în pește.", "Loc important de popas pentru păsările migratoare."],
+      en: ["Relatively untouched nature.", "Rich in fish stocks.", "Important stopover for migratory birds."]
+    }
+  }
+];
+

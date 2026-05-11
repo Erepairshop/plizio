@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "denton-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Denton-Brücke ist das einzige Nadelöhr, das die Insel Banjul (St. Mary's Island) mit dem Festland von Gambia verbindet. Benannt nach Sir George Chardin Denton, dem ehemaligen Gouverneur der Kolonie, wurde die ursprüngliche Struktur in den 1950er Jahren fertiggestellt und später durch eine modernere Brücke ersetzt. Geografisch überspannt sie den Oyster Creek und ist von dichten Mangrovenwäldern umgeben, die ein wichtiges Ökosystem für lokale Fischarten und Austern darstellen. Wirtschaftlich gesehen ist die Brücke für den gesamten Staat von existenzieller Bedeutung, da über sie der gesamte landgebundene Warenverkehr vom Hafen Banjul ins Hinterland abgewickelt wird. Historisch markiert sie den Übergang von der isolierten kolonialen Administration in der Hauptstadt zur expandierenden Urbanisierung von Kanifing und Serekunda. Die strategische Lage macht sie zudem zu einem wichtigen Punkt für die Überwachung des Verkehrs und der nationalen Sicherheit. Für Reisende ist die Überquerung oft das erste physische Zeichen für den Eintritt in das politische und administrative Herz des Landes.",
+        "hu": "A Denton-híd az egyetlen szárazföldi összeköttetés a Banjul-sziget (Szent Mária-sziget) és a gambiai szárazföld között. Sir George Chardin Dentonról, a gyarmat egykori kormányzójáról nevezték el; az eredeti szerkezet az 1950-es években készült el, majd később egy modernebb híd váltotta fel. Földrajzilag az Oyster-patak felett ível át, sűrű mangroveerdőkkel övezve, amelyek fontos ökoszisztémát alkotnak a helyi halállomány és az osztrigák számára. Gazdaságilag a híd az egész állam számára létfontosságú, mivel a banjuli kikötőből érkező teljes közúti áruforgalom ezen az egyetlen ponton keresztül jut el a belső területekre. Történelmileg a főváros elszigetelt gyarmati adminisztrációja és a szárazföldi Kanifing, illetve Serekunda bővülő urbanizációja közötti fizikai kapcsolatot jelképezi. Stratégiai elhelyezkedése miatt a forgalom és a nemzetbiztonság ellenőrzésének kulcsfontosságú pontja. Az utazók számára a hídon való átkelés jelzi a megérkezést az ország politikai és közigazgatási központjába.",
+        "ro": "Podul Denton este singura legătură terestră care conectează insula Banjul (insula Sfânta Maria) de restul continentului în Gambia. Numit după Sir George Chardin Denton, fostul guvernator al coloniei, structura originală a fost finalizată în anii 1950 și ulterior înlocuită de un pod mai modern. Din punct de vedere geografic, acesta traversează Oyster Creek și este înconjurat de păduri dense de mangrove, care formează un ecosistem crucial pentru speciile locale de pești și scoici. Economic, podul este de o importanță vitală pentru întregul stat, deoarece tot traficul de mărfuri din portul Banjul către interiorul țării este gestionat prin acest punct unic. Istoric, marchează tranziția de la administrația colonială izolată din capitală la urbanizarea în expansiune a districtelor Kanifing și Serekunda. Poziția sa strategică îl face, de asemenea, un punct esențial pentru monitorizarea traficului și a securității naționale. Pentru călători, traversarea podului reprezintă adesea primul semn fizic al intrării în inima politică și administrativă a țării.",
+        "en": "Denton Bridge serves as the sole terrestrial gateway connecting the capital city of Banjul on St. Mary's Island to the mainland of The Gambia. Named in honor of Sir George Chardin Denton, a former Governor of the colony, the original structure was inaugurated in the 1950s and eventually replaced by the current modern bridge. Geographically, it spans the Oyster Creek, a waterway flanked by vast mangrove swamps that are vital to the local ecology and fisheries. Economically, the bridge is the nation's most critical infrastructure bottleneck, as all ground transport moving to and from the Port of Banjul must traverse this single point. Historically, it symbolizes the physical and economic unification of the colonial island administration with the growing urban centers of the mainland, such as Kanifing and Serekunda. Its strategic importance is reflected in its role as a key security checkpoint. For anyone visiting the capital, the bridge is an unmistakable landmark marking the entrance into the country’s political and administrative heart."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einzige Straßenverbindung zwischen Banjul und dem Festland.",
+          "Benannt nach Sir George Denton, Gouverneur von 1900 bis 1911.",
+          "Überspannt den strategisch wichtigen Oyster Creek.",
+          "Zentraler Punkt für den gesamten Logistikverkehr des Hafens.",
+          "Umgeben von ökologisch wertvollen Mangrovenwäldern.",
+          "Wichtiger Sicherheitskontrollpunkt der gambischen Polizei."
+        ],
+        "hu": [
+          "Az egyetlen közúti kapcsolat Banjul és a szárazföld között.",
+          "Sir George Dentonról, a gyarmat egykori kormányzójáról nevezték el.",
+          "A stratégiai fontosságú Oyster-patak felett ível át.",
+          "A banjuli kikötő teljes logisztikai forgalmának központi áthaladási pontja.",
+          "Ökológiailag jelentős mangroveerdők veszik körül.",
+          "A gambiai rendőrség kiemelt biztonsági ellenőrző pontja."
+        ],
+        "ro": [
+          "Singura conexiune rutieră între Banjul și continent.",
+          "Numit după Sir George Denton, guvernator între 1900 și 1911.",
+          "Traversează cursul de apă strategic Oyster Creek.",
+          "Punct central pentru tot traficul logistic al portului Banjul.",
+          "Înconjurat de păduri de mangrove de o mare valoare ecologică.",
+          "Punct de control de securitate major pentru poliția gambiană."
+        ],
+        "en": [
+          "The only road link between the capital city and the mainland.",
+          "Named after Sir George Denton, Governor from 1900 to 1911.",
+          "Spans the strategically significant Oyster Creek waterway.",
+          "Critical transit point for all cargo leaving the Port of Banjul.",
+          "Surrounded by ecologically vital mangrove ecosystems.",
+          "Functions as a primary security checkpoint for the capital region."
+        ]
+      }
+    },
+    {
+      "id": "tanji-village-museum-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tanji Village Museum ist ein kulturelles Wahrzeichen an der Küste Gambias, das sich der Bewahrung des materiellen und immateriellen Erbes widmet. Als Landmarke zeichnet es sich durch seine markante Architektur aus, die einem traditionellen westafrikanischen Gehöft (Compound) nachempfunden ist. Die kreisförmig angeordneten Hütten, gebaut aus lokalen Materialien wie Lehm und Reet, bieten einen physischen Kontrast zur modernen Bebauung der Umgebung. Historisch gesehen wurde es als Reaktion auf den drohenden Identitätsverlust durch den schnell wachsenden Tourismus gegründet. Das Museum beherbergt eine bedeutende Sammlung von Werkzeugen, Musikinstrumenten und Haushaltsgegenständen, die die Geschichte der Fischerei und Landwirtschaft in der Senegambia-Region dokumentieren. Es fungiert als lebendiges Denkmal, in dem traditionelle Techniken wie das Weben und Schmieden vor Ort demonstriert werden. Die Lage in der Nähe des geschäftigen Fischereihafens von Tanji macht es zu einem wichtigen Orientierungspunkt für Besucher, die das authentische Gambia suchen. Es ist zudem ein Zentrum für ökologisches Wissen, eingebettet in einen botanischen Garten mit einheimischen Heilpflanzen.",
+        "hu": "A Tanji Village Múzeum egy kulturális nevezetesség Gambia partvidékén, amely a tárgyi és szellemi örökség megőrzésére hivatott. Landmarkként kiemelkedik jellegzetes építészetével, amely egy hagyományos nyugat-afrikai családi birtokot (compound) mintáz. A helyi anyagokból, például agyagból és nádból épült, kör alakban elhelyezett kunyhók fizikai kontrasztot alkotnak a környező modern épületekkel. Történelmileg a gyorsan növekvő turizmus okozta identitásvesztés elleni válaszként alapították. Szerszámok, hangszerek és háztartási eszközök jelentős gyűjteményének ad otthont, amelyek a szenegambiai régió halászati és mezőgazdasági múltját dokumentálják. A múzeum élő emlékműként működik, ahol a helyszínen mutatják be az olyan hagyományos technikákat, mint a szövés és a kovácsolás. A nyüzsgő tanji halászkikötő közelsége fontos tájékozódási ponttá teszi azon látogatók számára, akik az autentikus Gambiát keresik. Az ökológiai ismeretek átadásának is központi helyszíne, amelyet őshonos gyógynövényeket bemutató botanikus kert vesz körül.",
+        "ro": "Muzeul Satului Tanji este un punct de reper cultural pe coasta Gambiei, dedicat conservării patrimoniului material și imaterial. Ca monument, se distinge prin arhitectura sa remarcabilă, care imită o gospodărie tradițională vest-africană (compound). Colibele dispuse circular, construite din materiale locale precum lutul și stuful, oferă un contrast vizibil față de dezvoltările moderne din jur. Istoric, a fost fondat ca reacție la riscul pierderii identității culturale cauzat de creșterea rapidă a turismului. Adăpostește o colecție importantă de unelte, instrumente muzicale și obiecte de uz casnic care documentează istoria pescuitului și agriculturii din regiunea Senegambia. Muzeul funcționează ca un monument viu, unde sunt demonstrate tehnici tradiționale precum țesutul și fierăritul. Locația sa în apropierea portului de pescuit aglomerat din Tanji îl face un punct de orientare major pentru vizitatorii care caută Gambia autentică. Este, de asemenea, un centru pentru educația ecologică, fiind integrat într-o grădină botanică cu plante medicinale indigene.",
+        "en": "The Tanji Village Museum is a cultural landmark situated along the Gambian coastline, dedicated to the preservation of both tangible and intangible heritage. As a landmark, it is distinguished by its unique architectural design, modeled after a traditional West African family compound. The circular arrangement of huts, constructed from indigenous materials such as mud and thatch, provides a striking physical contrast to the surrounding modern developments. Historically, the museum was established in response to the perceived threat of cultural erosion caused by rapid tourism growth. It houses a vital collection of artifacts, including tools, musical instruments, and household items that document the history of fishing and farming in the Senegambia region. The museum serves as a living monument where traditional crafts such as weaving and blacksmithing are demonstrated on-site. Its proximity to the bustling Tanji fishing harbor makes it a significant waypoint for visitors seeking an authentic Gambian experience. It is also a hub for environmental education, set within a botanical garden featuring local medicinal plants."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet von Abdoulie Bayo zur Bewahrung der Landeskultur.",
+          "Architektur im Stil eines traditionellen westafrikanischen Gehöfts.",
+          "Beinhaltet einen botanischen Garten mit über 60 Heilpflanzen.",
+          "Demonstriert lebendige Handwerke wie Weberei und Schmiedekunst.",
+          "In unmittelbarer Nähe zum größten Fischereihafen der Küste.",
+          "Wichtiges Bildungszentrum für nationale und internationale Gäste."
+        ],
+        "hu": [
+          "Abdoulie Bayo alapította a nemzeti kultúra megőrzése érdekében.",
+          "Hagyományos nyugat-afrikai családi birtok stílusú építészet.",
+          "Több mint 60 őshonos gyógynövényt bemutató botanikus kert.",
+          "Élő kézműves bemutatók, például szövés és kovácsolás.",
+          "A partvidék legnagyobb halászkikötőjének közvetlen szomszédságában.",
+          "Fontos oktatási központ a hazai és nemzetközi látogatók számára."
+        ],
+        "ro": [
+          "Fondat de Abdoulie Bayo pentru a conserva cultura națională.",
+          "Arhitectură în stilul unei gospodării tradiționale vest-africane.",
+          "Include o grădină botanică cu peste 60 de plante medicinale.",
+          "Demonstrații live de meșteșuguri, cum ar fi țesutul și fierăritul.",
+          "Situat în imediata apropiere a celui mai mare port de pescuit de pe coastă.",
+          "Centru educațional major pentru oaspeții naționali și internaționali."
+        ],
+        "en": [
+          "Founded by Abdoulie Bayo to protect indigenous Gambian culture.",
+          "Designed to replicate a traditional West African family compound.",
+          "Features a botanical garden with more than 60 medicinal plants.",
+          "Provides live demonstrations of traditional weaving and smithing.",
+          "Located adjacent to the country's busiest artisanal fishing port.",
+          "Serves as a premier educational venue for Gambian cultural history."
+        ]
+      }
+    },
+    {
+      "id": "kerbatch-stone-circles-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Steinkreise von Kerbatch sind ein herausragendes Beispiel für die megalithische Tradition in der North Bank Division von Gambia. Als Teil des UNESCO-Welterbes zeichnen sie sich durch eine architektonische Besonderheit aus: den sogenannten 'Doppelstein' oder V-förmigen Stein, der innerhalb eines der Kreise steht und als Unikat in der gesamten Senegambia-Region gilt. Historisch gesehen stammen diese Strukturen aus der Zeit zwischen 300 v. Chr. und 1600 n. Chr. und dienten als aufwendige Begräbnisstätten für eine hochorganisierte Gesellschaft. Die präzise kreisförmige Anordnung der aus Laterit gehauenen Monolithen deutet auf ein tiefes Verständnis von Geometrie und möglicherweise astronomischen Zyklen hin. Archäologische Ausgrabungen in Kerbatch haben wichtige Erkenntnisse über die sozialen Hierarchien und die Handwerkskunst der vorkolonialen Bevölkerung geliefert, darunter Grabbeigaben aus Eisen und Keramik. Die Landmarke ist ein Symbol für die technologische Leistung des Transports und der Aufstellung massiver Steine über weite Distanzen ohne moderne Hilfsmittel. Sie verdeutlicht die spirituelle Komplexität der Zivilisationen, die das Hinterland des Gambia-Flusses lange vor der Ankunft der Europäer besiedelten.",
+        "hu": "A kerbatch-i kőkörök a megalitikus hagyomány kiemelkedő példái Gambia északi parti régiójában (North Bank Division). Az UNESCO Világörökség részét képező helyszín egyik legfontosabb jellegzetessége a 'kettős kő' vagy V-alakú kő, amely az egyik körön belül áll, és egyedülállónak számít az egész szenegambiai régióban. Történelmileg ezek a struktúrák az i. e. 300 és az i. sz. 1600 közötti időszakból származnak, és egy magasan szervezett társadalom összetett temetkezési helyeként szolgáltak. A lateritból kifaragott monolitok precíz, kör alakú elrendezése a geometria és esetleg a csillagászati ciklusok mély ismeretére utal. A kerbatch-i régészeti feltárások fontos ismereteket nyújtottak a gyarmatosítás előtti népesség társadalmi hierarchiájáról és kézművességéről, beleértve a vasból és kerámiából készült sírmellékleteket. A helyszín a masszív kövek nagy távolságokra történő szállításának és modern eszközök nélküli felállításának technológiai teljesítményét jelképezi. Rávilágít azon civilizációk spirituális összetettségére, amelyek jóval az európaiak érkezése előtt benépesítették a Gambia-folyó vidékét.",
+        "ro": "Cercurile de piatră de la Kerbatch sunt un exemplu remarcabil al tradiției megalitice din diviziunea North Bank a Gambiei. Parte a Patrimoniului Mondial UNESCO, situl se distinge printr-o caracteristică arhitecturală unică: „piatra dublă” sau piatra în formă de V, situată în interiorul unuia dintre cercuri, fiind un element singular în întreaga regiune Senegambia. Istoric, aceste structuri datează din perioada cuprinsă între 300 î.Hr. și 1600 d.Hr. și au servit ca locuri de înmormântare elaborate pentru o societate extrem de organizată. Aranjamentul circular precis al monoliților ciopliți în laterit indică o înțelegere profundă a geometriei și, posibil, a ciclurilor astronomice. Săpăturile arheologice de la Kerbatch au oferit informații cruciale despre ierarhiile sociale și măiestria populației precoloniale, inclusiv obiecte funerare din fier și ceramică. Monumentul este un simbol al realizării tehnologice implicate în transportul și ridicarea pietrelor masive pe distanțe lungi, fără ajutorul utilajelor moderne. Acesta evidențiază complexitatea spirituală a civilizațiilor care au locuit în interiorul bazinului râului Gambia cu mult înainte de sosirea europenilor.",
+        "en": "The Kerbatch Stone Circles are a premier example of the megalithic tradition in the North Bank Division of The Gambia. As part of the UNESCO World Heritage ensemble, this site is uniquely distinguished by its 'double stone' or V-shaped pillar, a structural feature found nowhere else in the entire regional complex. Historically, these monuments were erected between 300 BCE and 1600 CE, serving as elaborate burial grounds for a highly structured society. The meticulous circular alignment of the laterite columns suggests a sophisticated grasp of geometry and potentially astronomical cycles. Archaeological excavations at Kerbatch have unearthed vital evidence regarding the social stratification and artistic skills of pre-colonial West African cultures, including iron and ceramic grave goods. The landmark remains a testament to the engineering prowess required to transport and position massive monoliths over long distances without contemporary machinery. It illuminates the spiritual and cultural complexity of the civilizations that inhabited the Gambia River basin long before European contact."
+      },
+      "factsAdvanced": {
+        "de": [
+          "UNESCO-Welterbestätte seit dem Jahr 2006.",
+          "Beheimatet den einzigartigen V-förmigen 'Doppelstein'.",
+          "Diente über 1.000 Jahre lang als sakrale Begräbnisstätte.",
+          "Steine wurden aus lokalen Laterit-Vorkommen gewonnen.",
+          "Zeugnis einer komplexen sozialen und religiösen Ordnung.",
+          "Liegt in der Nähe der Stadt Kuntaur in der North Bank Region."
+        ],
+        "hu": [
+          "2006 óta az UNESCO Világörökség része.",
+          "Itt található az egyedülálló V-alakú 'kettős kő'.",
+          "Több mint 1000 éven át szakrális temetkezési helyként szolgált.",
+          "A köveket a közeli laterit bányákból nyerték ki.",
+          "Egy összetett társadalmi és vallási rend bizonyítéka.",
+          "Kuntaur városa közelében, az északi parti régióban fekszik."
+        ],
+        "ro": [
+          "Sit inclus în Patrimoniul Mondial UNESCO din 2006.",
+          "Găzduiește piatra unică în formă de V, numită „piatra dublă”.",
+          "A servit ca loc de înmormântare sacru timp de peste 1.000 de ani.",
+          "Pietrele au fost extrase din zăcăminte locale de laterit.",
+          "Dovadă a unei ordini sociale și religioase complexe.",
+          "Situat lângă orașul Kuntaur, în regiunea North Bank."
+        ],
+        "en": [
+          "Inscribed on the UNESCO World Heritage list in 2006.",
+          "Home to the unique and rare V-shaped 'double stone' pillar.",
+          "Functioned as a sacred funerary site for over a millennium.",
+          "Monoliths were quarried from local laterite outcrops.",
+          "Reflects a highly organized pre-colonial social and religious structure.",
+          "Located in the North Bank Region near the town of Kuntaur."
+        ]
+      }
+    },
+    {
+      "id": "mungo-park-memorial-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Mungo-Park-Denkmal in Karantaba, am Ufer des oberen Gambia-Flusses, markiert einen der geschichtlich bedeutendsten Punkte der europäischen Entdeckungsreisen in Westafrika. Es wurde zu Ehren des schottischen Entdeckers Mungo Park errichtet, der 1795 von diesem Ort aus seine berühmte Expedition startete, um den Lauf des Niger-Flusses zu erkunden. Geografisch markiert das Denkmal den Punkt, an dem Park das Schiff verließ und seinen Weg zu Lande fortsetzte. Historisch gesehen symbolisiert dieser Ort den Beginn der systematischen Erforschung des afrikanischen Binnenlandes durch Europäer, die oft von wissenschaftlicher Neugier, aber auch von wirtschaftlichen und imperialen Interessen getrieben war. Das Denkmal selbst ist ein schlichter weißer Obelisk, der inmitten einer heute abgelegenen Region steht und die Härten widerspiegelt, denen die frühen Reisenden ausgesetzt waren. Für Gambia ist dieser Ort ein wichtiges Landmark, das die historische Rolle des Flusses als Einfallstraße für Wissen und Handel verdeutlicht. Es erinnert an die Zeit der 'Travels in the Interior of Africa' und bleibt ein Ziel für jene, die sich für die Pionierzeit der Geographie und die Begegnung zwischen Kulturen interessieren.",
+        "hu": "A Mungo Park-emlékmű Karantabában, a Gambia-folyó felső szakaszának partján áll, és a nyugat-afrikai európai felfedezőutak egyik történelmileg legfontosabb pontját jelzi. A skót felfedező, Mungo Park tiszteletére emelték, aki 1795-ben erről a helyről indította híres expedícióját a Niger-folyó folyásának felkutatására. Földrajzilag az emlékmű azt a pontot jelöli, ahol Park elhagyta a folyami járművét, és szárazföldön folytatta útját. Történelmileg ez a hely az afrikai belső területek szisztematikus európai felfedezésének kezdetét jelképezi, amelyet a tudományos kíváncsiság mellett gyakran gazdasági és birodalmi érdekek is vezéreltek. Maga az emlékmű egy egyszerű fehér obeliszk, amely egy ma eldugott vidéki régió közepén áll, tükrözve a korai utazók által elviselt elszigeteltséget és nehézségeket. Gambia számára ez a helyszín fontos nevezetesség, amely rávilágít a folyó történelmi szerepére a tudás és a kereskedelem útvonalaként. Az 'Utazások Afrika belső részeiben' korszakára emlékeztet, és továbbra is fontos célpont a földrajztörténet iránt érdeklődők számára.",
+        "ro": "Monumentul Mungo Park din Karantaba, situat pe malul cursului superior al râului Gambia, marchează unul dintre cele mai importante puncte din istoria explorărilor europene în Africa de Vest. A fost ridicat în onoarea exploratorului scoțian Mungo Park, care în 1795 a pornit din acest loc în faimoasa sa expediție pentru a descoperi cursul fluviului Niger. Din punct de vedere geografic, monumentul indică locul precis unde Park a părăsit nava pentru a-și continua călătoria pe uscat. Istoric, acest sit simbolizează începutul explorării sistematice a interiorului Africii de către europeni, motivată de curiozitate științifică, dar și de interese economice și imperiale. Monumentul în sine este un obelisc alb simplu, situat într-o regiune astăzi izolată, reflectând dificultățile și izolarea întâmpinate de primii exploratori. Pentru Gambia, acest loc este un punct de reper important care evidențiază rolul istoric al râului ca poartă pentru cunoaștere și comerț. Amintește de epoca relatărilor din „Travels in the Interior of Africa” și rămâne o destinație pentru cei pasionați de istoria geografiei și a întâlnirilor interculturale.",
+        "en": "The Mungo Park Memorial in Karantaba, positioned on the banks of the Upper Gambia River, commemorates one of the most pivotal chapters in the history of European exploration in West Africa. It honors the Scottish explorer Mungo Park, who launched his legendary 1795 expedition from this very spot in an attempt to chart the course of the Niger River. Geographically, the monument marks the precise location where Park disembarked from his river craft to continue his arduous journey overland. Historically, the site symbolizes the dawn of systematic European penetration into the African interior, driven by a mix of scientific curiosity and burgeoning imperial ambitions. The memorial itself is a modest white obelisk standing in what is now a secluded rural area, echoing the isolation and hardships faced by early explorers. For The Gambia, this landmark highlights the river’s historical function as a major artery for inland trade and exploration. It serves as a physical reminder of Park’s celebrated work, 'Travels in the Interior of Africa,' and remains a key destination for historians and geographers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Markiert den Startpunkt von Mungo Parks Niger-Expedition 1795.",
+          "Befindet sich in Karantaba am Ufer des oberen Gambia-Flusses.",
+          "Das Denkmal ist ein schlichter, weiß gestrichener Obelisk.",
+          "Erinnert an die erste systematische Erforschung des Binnenlandes.",
+          "Symbol für die historische Bedeutung des Flusses für Entdecker.",
+          "Ein wichtiger Ort für die Geschichte der Geographie in Afrika."
+        ],
+        "hu": [
+          "Mungo Park 1795-ös Niger-expedíciójának kiindulópontját jelzi.",
+          "Karantabában, a Gambia-folyó felső szakaszának partján található.",
+          "Az emlékmű egy egyszerű, fehérre meszelt obeliszk.",
+          "A belső területek első szisztematikus felfedezésére emlékeztet.",
+          "A folyó felfedezők számára nyújtott történelmi jelentőségének jelképe.",
+          "Az afrikai földrajztörténet egyik kiemelkedő helyszíne."
+        ],
+        "ro": [
+          "Marchează punctul de plecare al expediției lui Mungo Park din 1795.",
+          "Situat în Karantaba, pe malul cursului superior al râului Gambia.",
+          "Monumentul este un obelisc simplu, vopsit în alb.",
+          "Comemorează prima explorare sistematică a interiorului continentului.",
+          "Simbol al importanței istorice a râului pentru exploratori.",
+          "Un loc esențial pentru istoria geografiei în Africa."
+        ],
+        "en": [
+          "Commemorates the launch of Mungo Park’s 1795 Niger expedition.",
+          "Located at Karantaba on the banks of the Upper Gambia River.",
+          "The memorial is a simple, white-painted masonry obelisk.",
+          "Marks the beginning of systematic European inland exploration.",
+          "Highlights the river’s role as a gateway for 18th-century explorers.",
+          "A significant landmark for the history of African cartography."
+        ]
+      }
+    },
+    {
+      "id": "freedom-tree-janjanbureh-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der 'Freedom Tree' (Freiheitsbaum) in Janjanbureh ist ein kraftvolles historisches Symbol für das Ende des transatlantischen Sklavenhandels in Gambia. Er befindet sich in der Nähe der ehemaligen Sklavenladestellen auf MacCarthy Island. Die mündliche Überlieferung besagt, dass versklavte Menschen, die befreit wurden oder denen die Flucht gelang, ihre Freiheit offiziell erlangten, sobald sie diesen Baum berührten oder in seinem Schatten Zuflucht fanden. Historisch ist der Ort eng mit der Gründung von Georgetown im Jahr 1823 verbunden, das als Siedlung für sogenannte 'Liberated Africans' diente – Menschen, die von der britischen Royal Navy aus illegalen Sklavenschiffen gerettet wurden. Der Baum steht für den tiefgreifenden Übergang von der Entmenschlichung der Sklaverei zur Hoffnung auf ein neues Leben in einer freien Gesellschaft. Als Landmarke ist er ein zentraler Bestandteil der Gedenkkultur in Janjanbureh und erinnert an die Resilienz und den Überlebenswillen der Betroffenen. Obwohl der ursprüngliche Baum im Laufe der Zeit ersetzt wurde, bleibt der Standort ein heiliger Ort des Erinnerns und ein Mahnmal gegen Unterdrückung. Er ist ein wesentlicher Bestandteil des kulturellen Erbes der historischen Stadt.",
+        "hu": "A Janjanbureh-ben található 'Szabadság-fa' (Freedom Tree) a rabszolga-kereskedelem gambiai végének erőteljes történelmi szimbóluma. A MacCarthy-sziget egykori rabszolga-kihajózási pontjainak közelében helyezkedik el. A szájhagyomány szerint a rabszolgák, akiket felszabadítottak vagy akiknek sikerült elmenekülniük, hivatalosan is elnyerték szabadságukat, amint megérintették a fát vagy menedéket találtak az árnyékában. Történelmileg a hely szorosan kapcsolódik Georgetown 1823-as alapításához, amely az úgynevezett 'felszabadított afrikaiak' (Liberated Africans) településeként szolgált – olyan embereké, akiket a brit királyi haditengerészet mentett ki az illegális rabszolgahajókról. A fa a rabszolgaság embertelenségéből a szabad élet reményébe való átmenetet jelképezi. Mint nevezetesség, központi eleme Janjanbureh emlékezetkultúrájának, és az érintettek rugalmasságára és túlélési vágyára emlékeztet. Bár az eredeti fát az idő során pótolták, a helyszín továbbra is az emlékezés szent helye és az elnyomás elleni mementó marad. Fontos részét képezi a történelmi város kulturális örökségének.",
+        "ro": "„Arborele Libertății” (Freedom Tree) din Janjanbureh este un simbol istoric puternic al sfârșitului comerțului transatlantic cu sclavi în Gambia. Acesta este situat în apropierea fostelor puncte de îmbarcare a sclavilor de pe insula MacCarthy. Tradiția orală spune că persoanele înrobite care au fost eliberate sau care au reușit să evadeze își obțineau oficial libertatea de îndată ce atingeau acest arbore sau găseau refugiu la umbra lui. Din punct de vedere istoric, locul este strâns legat de întemeierea orașului Georgetown în 1823, care a servit ca așezare pentru „africanii eliberați” (Liberated Africans) – persoane salvate de Royal Navy britanică de pe navele ilegale de sclavi. Arborele reprezintă tranziția profundă de la inumanitatea sclaviei la speranța unei noi vieți într-o societate liberă. Ca punct de reper, este un element central al culturii memoriei din Janjanbureh, amintind de reziliența și voința de supraviețuire a celor afectați. Deși arborele original a fost înlocuit de-a lungul timpului, locația rămâne un spațiu sacru al amintirii și un monument împotriva opresiunii. Este o parte esențială a patrimoniului cultural al orașului istoric.",
+        "en": "The 'Freedom Tree' in Janjanbureh is a potent historical symbol marking the end of the transatlantic slave trade in The Gambia. Located near the old waterfront loading areas of MacCarthy Island, oral tradition holds that enslaved people who were liberated or managed to escape would secure their freedom officially by touching the tree or seeking sanctuary in its shade. Historically, the site is inextricably linked to the founding of Georgetown in 1823 as a settlement for 'Liberated Africans'—individuals rescued from illegal slaving vessels by the British Royal Navy. The tree represents the profound transition from the dehumanization of bondage to the hope of a new life in a free society. As a landmark, it is a cornerstone of the memorial landscape in Janjanbureh, serving as a tribute to human resilience and the will to survive. While the original tree has been replaced over the generations, the site remains a sacred space of remembrance and is a vital stop on cultural tours of the historic town, standing as a silent witness to the struggle against oppression."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Symbol für die Erlangung der Freiheit ehemals Versklavter.",
+          "Liegt in Janjanbureh, früher Georgetown, auf MacCarthy Island.",
+          "Verbunden mit der Ansiedlung geretteter Afrikaner ab 1823.",
+          "Zentraler Punkt für die Gedenkkultur an den Sklavenhandel.",
+          "Symbolischer Berührungspunkt für die rechtliche Freiheit.",
+          "Wichtiger Teil des historischen Rundgangs durch die Stadt."
+        ],
+        "hu": [
+          "Az egykor rabszolgasorba taszítottak szabadságának jelképe.",
+          "Janjanbureh-ben, a korábbi Georgetownban, a MacCarthy-szigeten található.",
+          "A kimentett afrikaiak 1823-tól kezdődő betelepítéséhez kapcsolódik.",
+          "A rabszolga-kereskedelem emlékezetkultúrájának központi helyszíne.",
+          "A jogi szabadság elnyerésének szimbolikus érintési pontja.",
+          "A város történelmi körútjának egyik legfontosabb állomása."
+        ],
+        "ro": [
+          "Simbol al obținerii libertății pentru foștii sclavi.",
+          "Situat în Janjanbureh, fostul Georgetown, pe insula MacCarthy.",
+          "Legat de așezarea africanilor salvați, începând cu anul 1823.",
+          "Punct central pentru cultura memoriei traficului de sclavi.",
+          "Punct simbolic de atingere pentru dobândirea libertății legale.",
+          "Parte importantă a traseului istoric prin oraș."
+        ],
+        "en": [
+          "A powerful symbol of liberation for formerly enslaved people.",
+          "Located in Janjanbureh (Georgetown) on MacCarthy Island.",
+          "Linked to the 1823 settlement of rescued 'Liberated Africans'.",
+          "A central focus for the commemorative history of the slave trade.",
+          "Tradition states touching the tree granted legal freedom.",
+          "Key component of Janjanbureh's designated historical heritage."
+        ]
+      }
+    }
+  ]
+}

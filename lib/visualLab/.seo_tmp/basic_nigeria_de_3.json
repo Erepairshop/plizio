@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cross-river-tal-relief-v2",
+      "description": "Das Tal des Cross River ist eine fruchtbare und wasserreiche Region im Südosten Nigerias, geprägt von tropischer Vegetation.",
+      "facts": ["Flusstal", "Fruchtbare Region", "Südost-Nigeria"]
+    },
+    {
+      "id": "ondo-relief-relief-v2",
+      "description": "Die hügelige Topografie im Bundesstaat Ondo bietet landschaftliche Vielfalt und bildet eine Übergangszone zwischen Küste und Hinterland.",
+      "facts": ["Hügellandschaft", "Ondo-Bundesstaat", "Übergangszone"]
+    },
+    {
+      "id": "nassarawa-relief-relief-v2",
+      "description": "Der Bundesstaat Nassarawa zeichnet sich durch seine sanften Ebenen und vereinzelte Hügelgruppen aus, die typisch für Zentralnigeria sind.",
+      "facts": ["Sanfte Ebenen", "Zentralnigeria", "Hügelgruppen"]
+    },
+    {
+      "id": "kaduna-tal-relief-v2",
+      "description": "Das Tal des Kaduna-Flusses ist ein wichtiges agrarisches Kernland, das die Entwicklung der zentralen Regionen Nigerias maßgeblich unterstützt.",
+      "facts": ["Flusstal", "Agrarisches Kernland", "Zentralnigeria"]
+    },
+    {
+      "id": "yobe-becken-relief-v2",
+      "description": "Das Yobe-Becken ist eine weite, halbaride Landschaft, die sich im Norden Nigerias in Richtung des Tschadsees erstreckt.",
+      "facts": ["Weites Becken", "Halbaride Landschaft", "Nord-Nigeria"]
+    },
+    {
+      "id": "sokoto-ebene-relief-v2",
+      "description": "Die Sokoto-Ebene ist eine ausgedehnte, flache Region im äußersten Nordwesten, die durch Savannavegetation geprägt ist.",
+      "facts": ["Ausgedehnte Ebene", "Nordwest-Nigeria", "Savannalandschaft"]
+    },
+    {
+      "id": "adamawa-hochland-relief-v2",
+      "description": "Das Adamawa-Hochland ist eine bergige Region, die durch ihre ausgeprägte Höhenlage und klimatische Besonderheiten hervorsticht.",
+      "facts": ["Bergige Region", "Hohe Lage", "Adamawa-Region"]
+    },
+    {
+      "id": "benue-tal-relief-v2",
+      "description": "Das Benue-Tal ist ein landwirtschaftlich extrem bedeutendes Tiefland, das den Verlauf des Benue-Flusses durch Zentralnigeria begleitet.",
+      "facts": ["Wichtiges Flusstal", "Landwirtschaftliches Zentrum", "Benue-Fluss"]
+    },
+    {
+      "id": "gongola-tal-relief-v2",
+      "description": "Das Gongola-Tal ist eine markante geologische Senke, die durch die Entwässerung des Gongola-Flusses geformt wurde.",
+      "facts": ["Geologische Senke", "Entwässerungstal", "Gongola-Fluss"]
+    },
+    {
+      "id": "kano-ebene-relief-v2",
+      "description": "Die Kano-Ebene bildet das Herz der Hausa-Staaten und ist eine der am dichtesten besiedelten und landwirtschaftlich intensiv genutzten Regionen Nigerias.",
+      "facts": ["Dicht besiedelt", "Intensive Landwirtschaft", "Herz des Nordens"]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Iran",
+  "files": [
+    "lib/visualLab/data/poiExtraIranHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "iran-qabus-tower-history-v2",
+      "description": "A Gonbad-e Qabus egy monumentális, 53 méter magas téglaépítésű sírtorony Északkelet-Iránban, amely a 11. század elején épült. Az UNESCO Világörökség része, és a világ egyik legmagasabb tisztán téglaépítménye.",
+      "facts": [
+        "1006-ban készült el Qabus ibn Ma'shgir emír számára",
+        "Magassága eléri az 53 métert",
+        "Csillag alaprajzú, tízágú torony",
+        "Kizárólag égetett téglából épült"
+      ]
+    },
+    {
+      "id": "iran-fin-garden-history-v2",
+      "description": "A kashani Fin-kert Irán legrégebbi fennmaradt perzsa kertje, amely a Szafavida-dinasztia idején nyerte el mai formáját. A kert híres bőséges vízforrásairól, csatornáiról és ciprusfáiról.",
+      "facts": [
+        "1590-ben fejezték be az építését",
+        "A világörökség részét képező perzsa kertek egyike",
+        "Itt gyilkolták meg Amir Kabir vezírt 1852-ben",
+        "Természetes forrásvíz táplálja medencéit"
+      ]
+    }
+  ]
+}

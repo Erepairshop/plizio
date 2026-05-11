@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-national-park-life-v2",
+      "description": "Parcul Național Limpopo face parte din Parcul Transfrontalier Greater Limpopo, o zonă internațională de conservare.",
+      "facts": ["Parc transfrontalier", "Conservare internațională", "Limpopo"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "Arhipelagul Quirimbas este faimos pentru insulele sale istorice, plajele virgine și biodiversitatea marină bogată.",
+      "facts": ["Insule istorice", "Plaje virgine", "Biodiversitate marină"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "Parcul Național Zinave este un sanctuar cheie pentru animale sălbatice în sudul Mozambicului, cunoscut pentru populația sa de elefanți.",
+      "facts": ["Sanctuar faună sălbatică", "Populație de elefanți", "Sudul Mozambicului"]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "description": "Parcul Național Banhine este o zonă umedă mare în sudul Mozambicului, cunoscută pentru diversitatea sa de păsări.",
+      "facts": ["Zonă umedă", "Diversitate de păsări", "Sudul Mozambicului"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "Rezervația Pomene oferă plaje virgine, păduri de mangrove și o lume subacvatică bogată, ideală pentru conservarea marină și turism.",
+      "facts": ["Plaje virgine", "Păduri de mangrove", "Lume subacvatică bogată"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "Regiunea Nampula este un centru agricol vital, cunoscut pentru producția sa de bumbac, caju și porumb.",
+      "facts": ["Centru agricol", "Bumbac, caju, porumb", "Nampula"]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "description": "Zambezia este o regiune cheie producătoare de zahăr, cu plantații extinse care contribuie semnificativ la economia Mozambicului.",
+      "facts": ["Producție de zahăr", "Plantații extinse", "Zambezia"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "Zonele de cultivare a cafelei din Manica produc cafea de înaltă calitate, prosperând în climatul mai răcoros al munților.",
+      "facts": ["Cafea de înaltă calitate", "Manica", "Climat montan"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "Niassa este cunoscută pentru cultivarea tutunului, care servește ca o sursă importantă de venit pentru populația locală.",
+      "facts": ["Cultivarea tutunului", "Niassa", "Sursă de venit"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "Grădina Botanică Maputo este o oază verde în oraș, expunând o colecție diversă de plante tropicale.",
+      "facts": ["Grădină botanică", "Maputo", "Plante tropicale"]
+    },
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "Parcul Marin Beira protejează apele costiere și mangrovele, oferind habitat pentru o faună marină bogată.",
+      "facts": ["Ape costiere", "Mangrove", "Faună marină bogată"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "Insula Mozambic, un sit al Patrimoniului Mondial UNESCO, oferă o istorie bogată, fortărețe antice și recife de corali vibrante.",
+      "facts": ["Patrimoniu Mondial UNESCO", "Fortărețe antice", "Recife de corali"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "Plaja Tofo este o destinație populară de coastă, faimoasă pentru oportunitățile sale de scufundare cu rechini-balenă și diavoli de mare.",
+      "facts": ["Rechini-balenă", "Diavoli de mare", "Scufundări"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "Grădina Zoologică pentru Copii Limpopo oferă o experiență educativă pentru copii de a descoperi fauna sălbatică a regiunii.",
+      "facts": ["Faună sălbatică", "Limpopo", "Experiență educativă"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "Muzeul de Istorie Naturală Maputo expune flora și fauna bogată a Mozambicului, inclusiv fetișe rare de elefant.",
+      "facts": ["Floră și faună", "Fetișe de elefant", "Istorie naturală"]
+    }
+  ]
+}

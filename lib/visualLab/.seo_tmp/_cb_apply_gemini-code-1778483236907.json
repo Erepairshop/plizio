@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antula-steinbruch-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Steinbruch von Antula, am nördlichen Stadtrand von Bissau gelegen, ist die wichtigste Quelle für mineralische Baustoffe der Hauptstadtregion. Geologisch wird hier massives Basalt- und Lateritgestein abgebaut, das für das fundamentale Wachstum der urbanen Infrastruktur Guinea-Bissaus unerlässlich ist. Der Betrieb ist ein zentraler Pfeiler der lokalen Bauwirtschaft, da er den Großteil des Schotters und der Zuschlagstoffe für die Betonproduktion und den Straßenbau in Bissau liefert. Die ökonomische Bedeutung von Antula liegt in der Reduzierung der Importabhängigkeit bei schweren Baumaterialien, was die Baukosten in der Metropole stabilisiert. Die Arbeit im Steinbruch ist geprägt von einer Mischung aus industrieller Gewinnung und manueller Kleinarbeit, was Hunderten von Menschen Beschäftigung bietet. Das Relief des Steinbruchs hat das lokale Landschaftsbild über Jahrzehnte verändert und tiefe Einschnitte in das Plateau von Antula hinterlassen. Trotz der Lärm- und Staubbelastung für die angrenzenden Wohngebiete bleibt der Steinbruch eine unverzichtbare wirtschaftliche Ressource für den Wiederaufbau und die Erweiterung der nationalen Infrastruktur.",
+        "hu": "Az Antula kőfejtő Bissau északi peremén található, és a fővárosi régió legfontosabb ásványi építőanyag-forrása. Geológiailag itt tömör bazaltot és kemény laterit kőzetet bányásznak, amely elengedhetetlen Guinea-Bissau városi infrastruktúrájának fejlődéséhez. Az üzem a helyi építőipar központi pillére, mivel innen származik a betontermeléshez és az útépítéshez szükséges zúzott kő és adalékanyag jelentős része. Antula gazdasági jelentősége abban rejlik, hogy csökkenti a nehéz építőanyagok importfüggőségét, ami stabilizálja a kivitelezési költségeket a metropoliszban. A kőfejtőben végzett munka az ipari kitermelés és a manuális kőfaragás sajátos keveréke, amely több száz embernek ad megélhetést. A bányászat évtizedek alatt jelentősen átalakította a környék domborzatát, mély bevágásokat hagyva az Antula-fennsíkon. A lakott területek közelsége miatti por- és zajterhelés ellenére a kőfejtő nélkülözhetetlen gazdasági erőforrás marad az ország újjáépítése és az infrastrukturális hálózat bővítése szempontjából.",
+        "ro": "Cariera de piatră din Antula, situată la periferia nordică a orașului Bissau, este cea mai importantă sursă de materiale de construcții minerale pentru regiunea capitalei. Din punct de vedere geologic, aici se exploatează bazalt masiv și rocă de laterit dură, esențiale pentru dezvoltarea infrastructurii urbane din Guineea-Bissau. Exploatarea reprezintă un pilon central al industriei locale de construcții, furnizând cea mai mare parte a pietrei concasate și a agregatelor necesare pentru producția de beton și construcția de drumuri în Bissau. Importanța economică a carierei Antula constă în reducerea dependenței de importuri pentru materialele grele de construcție, ceea ce stabilizează costurile în metropolă. Activitatea în carieră este marcată de un amestec de extracție industrială și muncă manuală, oferind locuri de muncă pentru sute de persoane. Relieful carierei a modificat peisajul local de-a lungul deceniilor, lăsând excavări adânci în platoul Antula. În ciuda poluării fonice și cu praf pentru zonele rezidențiale adiacente, cariera rămâne o resursă economică indispensabilă pentru reconstrucția și extinderea infrastructurii naționale.",
+        "en": "The Antula Quarry, located on the northern outskirts of Bissau, is the primary source of mineral construction materials for the capital region. Geologically, it produces massive basalt and hard laterite rock, which are essential for the fundamental growth of Guinea-Bissau's urban infrastructure. The operation is a central pillar of the local construction industry, supplying the majority of the crushed stone and aggregates required for concrete production and road building in Bissau. The economic significance of Antula lies in its ability to reduce import dependency for heavy building materials, thereby stabilizing construction costs in the metropolis. Labor at the quarry is characterized by a blend of industrial extraction and manual stone-breaking, providing employment for hundreds of local workers. Over the decades, the quarry's relief has significantly altered the local landscape, leaving deep excavations in the Antula plateau. Despite the noise and dust impact on neighboring residential areas, the quarry remains an indispensable economic resource for the reconstruction and expansion of the national infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Steinbruch deckt über 70 % des Bedarfs an Gesteinskörnungen in Bissau.",
+          "Hier wird primär harter Basalt für den Straßenoberbau gewonnen.",
+          "Die Anlage ist einer der größten Arbeitgeber im Stadtteil Antula.",
+          "Der Abbau erfolgt in mehreren Strossen direkt im Laterit-Plateau.",
+          "Die Nähe zum Stadtzentrum minimiert die Transportkosten für Bauprojekte.",
+          "Der Steinbruch ist ein wichtiger Lieferant für internationale Infrastrukturprojekte."
+        ],
+        "hu": [
+          "A kőfejtő fedezi Bissau zúzottkő-szükségletének több mint 70%-át.",
+          "Elsősorban útépítési alapokhoz használt kemény bazaltot termelnek itt.",
+          "A létesítmény az Antula negyed egyik legnagyobb foglalkoztatója.",
+          "A kitermelés több szinten, közvetlenül a laterit-fennsíkban zajlik.",
+          "A városközpont közelsége minimalizálja az építkezések szállítási költségeit.",
+          "A bánya fontos beszállítója a nemzetközi segélyekből megvalósuló útépítéseknek."
+        ],
+        "ro": [
+          "Cariera acoperă peste 70% din necesarul de agregate din Bissau.",
+          "Se extrage în principal bazalt dur pentru fundațiile drumurilor.",
+          "Instalația este unul dintre cei mai mari angajatori din cartierul Antula.",
+          "Extracția se realizează în trepte direct în platoul de laterit.",
+          "Proximitatea față de centru reduce semnificativ costurile logistice.",
+          "Cariera este un furnizor cheie pentru proiectele de infrastructură ale Băncii Mondiale."
+        ],
+        "en": [
+          "The quarry supplies over 70% of the aggregate demand in Bissau.",
+          "Hard basalt is primarily extracted here for road base construction.",
+          "The facility is one of the largest industrial employers in the Antula district.",
+          "Extraction is carried out in multiple benches directly into the laterite plateau.",
+          "Its proximity to the city center minimizes transport costs for urban projects.",
+          "The quarry is a vital supplier for major international infrastructure contracts."
+        ]
+      }
+    },
+    {
+      "id": "bissau-zementwerk-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Zementwerk von Bissau, betrieben von CIMAF (Ciments de l'Afrique), ist eine der modernsten Industrieanlagen Guinea-Bissaus und ein Schlüsselakteur im nationalen Bausektor. Gelegen in der Industriezone der Hauptstadt, fungiert das Werk primär als Mahlanlage, in der importierter Klinker mit lokalen Zuschlagstoffen zu hochwertigem Zement verarbeitet wird. Die Eröffnung dieses Werkes markierte einen Wendepunkt für die guineische Wirtschaft, da es die Abhängigkeit von teuren Zementimporten aus den Nachbarländern drastisch verringerte und die Versorgungssicherheit für nationale Infrastrukturprojekte erhöhte. Die Architektur des Werkes ist durch moderne Silos und automatisierte Verladeanlagen geprägt, die den technologischen Fortschritt im Land symbolisieren. Ökonomisch gesehen generiert das Werk bedeutende Steuereinnahmen und schafft qualifizierte Arbeitsplätze im technischen Bereich. Es unterstützt direkt die rasante Urbanisierung von Bissau und den Bau von Brücken und Regierungsgebäuden im ganzen Land. Das Zementwerk ist ein Paradebeispiel für ausländische Direktinvestitionen, die darauf abzielen, die lokale Wertschöpfung zu steigern und die industrielle Basis Guinea-Bissaus nachhaltig zu festigen.",
+        "hu": "A bissaui cementgyár, amelyet a CIMAF (Ciments de l'Afrique) üzemeltet, Guinea-Bissau egyik legmodernebb ipari létesítménye és a nemzeti építőipar kulcsszereplője. A főváros ipari övezetében található gyár elsősorban őrlőüzemként működik, ahol az importált klinkert helyi adalékanyagokkal keverve alakítják kiváló minőségű cementté. Az üzem megnyitása fordulópontot jelentett a guineai gazdaság számára, mivel drasztikusan csökkentette a szomszédos országokból származó drága cementimporttól való függőséget, és növelte a nemzeti infrastruktúra-projektek ellátásbiztonságát. A gyár építészetét modern szilók és automatizált rakodóberendezések jellemzik, amelyek az ország technológiai fejlődését szimbolizálják. Gazdasági szempontból az üzem jelentős adóbevételt generál, és szakképzett munkahelyeket teremt a műszaki szférában. Közvetlenül támogatja Bissau gyors ütemű urbanizációját, valamint a hidak és kormányzati épületek építését országszerte. A cementgyár kiváló példája a közvetlen külföldi tőkebefektetésnek, amely a helyi hozzáadott érték növelésére és Guinea-Bissau ipari bázisának tartós megerősítésére irányul.",
+        "ro": "Fabrica de ciment din Bissau, operată de CIMAF (Ciments de l'Afrique), este una dintre cele mai moderne unități industriale din Guineea-Bissau și un actor cheie în sectorul național al construcțiilor. Situată în zona industrială a capitalei, fabrica funcționează în principal ca o stație de măcinare, unde clincherul importat este prelucrat cu agregate locale pentru a produce ciment de înaltă calitate. Deschiderea acestei fabrici a marcat un punct de cotitură pentru economia guineeană, reducând drastic dependența de importurile costisitoare de ciment din țările vecine și sporind securitatea aprovizionării pentru proiectele naționale de infrastructură. Arhitectura fabricii este definită de silozuri moderne și sisteme de încărcare automatizate, care simbolizează progresul tehnologic al țării. Din punct de vedere economic, fabrica generează venituri fiscale semnificative și creează locuri de muncă calificate în domeniul tehnic. Aceasta susține direct urbanizarea rapidă a orașului Bissau și construcția de poduri și clădiri guvernamentale în întreaga țară. Fabrica de ciment este un exemplu concludent de investiție străină directă menită să crească valoarea adăugată locală și să consolideze sustenabil baza industrială a Guineei-Bissau.",
+        "en": "The Bissau Cement Plant, operated by CIMAF (Ciments de l'Afrique), is one of Guinea-Bissau's most modern industrial facilities and a key player in the national construction sector. Located in the capital's industrial zone, the plant functions primarily as a grinding station where imported clinker is processed with local additives to produce high-grade cement. The inauguration of this plant marked a turning point for the Bissau-Guinean economy, drastically reducing reliance on expensive cement imports from neighboring countries and enhancing supply security for national infrastructure projects. The plant's architecture is characterized by modern silos and automated loading systems, symbolizing the country's technological advancement. Economically, the facility generates significant tax revenue and creates skilled technical jobs for the local workforce. It directly supports the rapid urbanization of Bissau and the construction of bridges and government buildings nationwide. The cement plant stands as a prime example of foreign direct investment aimed at increasing local value addition and sustainably strengthening Guinea-Bissau's industrial base."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Anlage gehört zur marokkanischen CIMAF-Gruppe.",
+          "Das Werk hat eine Produktionskapazität von mehreren hunderttausend Tonnen pro Jahr.",
+          "Der benötigte Klinker wird über den Handelshafen von Bissau importiert.",
+          "Die Fabrik hat die lokalen Zementpreise deutlich gesenkt.",
+          "Das Werk nutzt modernste Filtersysteme zur Emissionsminderung.",
+          "Es ist ein strategischer Lieferant für den Ausbau des nationalen Stromnetzes."
+        ],
+        "hu": [
+          "A létesítmény a marokkói CIMAF-csoport tulajdonában van.",
+          "A gyár éves termelési kapacitása több százezer tonna.",
+          "A gyártáshoz szükséges klinkert a bissaui kereskedelmi kikötőn keresztül importálják.",
+          "Az üzem beindítása óta jelentősen csökkentek a helyi cementárak.",
+          "A gyár modern szűrőrendszereket használ a környezeti emisszió csökkentésére.",
+          "Stratégiai beszállítója az országos villamosenergia-hálózat bővítésének."
+        ],
+        "ro": [
+          "Unitatea aparține grupului marocan CIMAF.",
+          "Fabrica are o capacitate de producție de câteva sute de mii de tone anual.",
+          "Clincherul necesar este importat prin portul comercial Bissau.",
+          "Inaugurarea fabricii a dus la o scădere a prețurilor la sacul de ciment pe piața locală.",
+          "Dispune de un laborator propriu pentru controlul calității conform standardelor europene.",
+          "Este un proiect fanion al cooperării economice dintre Maroc și Guineea-Bissau."
+        ],
+        "en": [
+          "The facility is owned by the Moroccan CIMAF group.",
+          "The plant has an annual production capacity of several hundred thousand tons.",
+          "Raw clinker is sourced internationally and delivered via the Bissau port.",
+          "The establishment of the plant helped stabilize local market prices for builders.",
+          "It employs advanced filtration technology to minimize industrial dust.",
+          "The plant is a primary supplier for the African Development Bank's road projects in the country."
+        ]
+      }
+    },
+    {
+      "id": "bafata-ziegelei-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ziegelei von Bafatá ist ein bedeutendes Beispiel für die Nutzung lokaler Ressourcen und die Förderung des regionalen verarbeitenden Gewerbes im Landesinneren Guinea-Bissaus. Gelegen an den fruchtbaren Ufern des Rio Geba, nutzt der Betrieb die reichen Ton- und Lehmvorkommen der Flussauen zur Herstellung von Baumaterialien. Diese Ziegelei spielt eine zentrale Rolle für die Bauwirtschaft der Region Bafatá und der östlichen Provinzen, da sie eine kostengünstige und klimatisch angepasste Alternative zu importiertem Zement bietet. Die Architektur der Anlage ist funktional und umfasst traditionelle Brennöfen sowie moderne Trocknungsbereiche. Der ökonomische Wert der Ziegelei liegt nicht nur in der Produktion von Backsteinen und Dachziegeln, sondern auch in der Bewahrung handwerklichen Wissens und der Schaffung von Arbeitsplätzen außerhalb der Hauptstadt. Die in Bafatá produzierten Ziegel sind bekannt für ihre thermischen Eigenschaften, die in der heißen Savannenzone für ein angenehmes Raumklima sorgen. Das Unternehmen ist ein wichtiger Baustein für die dezentrale wirtschaftliche Entwicklung und unterstützt den Bau von Schulen, Wohnhäusern und Verwaltungsgebäuden in der zweitgrößten Stadt des Landes.",
+        "hu": "A bafatá-i téglagyár kiemelkedő példája a helyi erőforrások hasznosításának és a vidéki feldolgozóipar fejlesztésének Guinea-Bissau belsejében. A Geba-folyó termékeny partján elhelyezkedő üzem a folyami ártér gazdag agyag- és vályogkészleteit használja fel építőanyagok gyártásához. Ez a téglagyár központi szerepet játszik Bafatá régió és a keleti tartományok építőiparában, mivel költséghatékony és az éghajlathoz alkalmazkodó alternatívát kínál az importált cementtel szemben. A létesítmény arculatát a funkcionális kialakítás, a hagyományos égetőkemencék és a modern szárítóterületek határozzák meg. A téglagyár gazdasági értéke nemcsak a téglák és tetőcserepek előállításában rejlik, hanem a kézműves tudás megőrzésében és a fővároson kívüli munkahelyteremtésben is. A Bafatában gyártott téglák híresek kiváló hőszigetelő képességükről, ami a forró szavannai zónában kellemes belső klímát biztosít az épületekben. A vállalat a decentralizált gazdasági fejlődés fontos eleme, amely támogatja az iskolák, lakóházak és közigazgatási épületek építését az ország második legnagyobb városában.",
+        "ro": "Fabrica de cărămidă din Bafatá este un exemplu semnificativ de utilizare a resurselor locale și de promovare a industriei prelucrătoare regionale în interiorul Guineei-Bissau. Situată pe malurile fertile ale râului Geba, unitatea folosește zăcămintele bogate de argilă și lut din luncile fluviale pentru fabricarea materialelor de construcție. Această fabrică joacă un rol central în economia construcțiilor din regiunea Bafatá și din provinciile estice, oferind o alternativă rentabilă și adaptată climatic la cimentul importat. Arhitectura instalației este funcțională și cuprinde cuptoare de ardere tradiționale, precum și zone moderne de uscare. Valoarea economică a fabricii nu constă doar în producția de cărămizi și țigle, ci și în conservarea cunoștințelor meșteșugărești și crearea de locuri de muncă în afara capitalei. Cărămizile produse în Bafatá sunt cunoscute pentru proprietățile lor termice, care asigură un climat interior plăcut în zona de savană fierbinte. Întreprinderea este o componentă importantă pentru dezvoltarea economică descentralizată, susținând construcția de școli, locuințe și clădiri administrative în al doilea oraș ca mărime al țării.",
+        "en": "The Bafatá Brick Factory is a significant example of utilizing local resources and fostering regional manufacturing in the interior of Guinea-Bissau. Located along the fertile banks of the Geba River, the facility taps into the rich clay and silt deposits of the floodplains to produce essential building materials. This factory plays a central role in the construction sector of the Bafatá region and the eastern provinces, offering a cost-effective and climatically appropriate alternative to imported cement. The facility's layout is functional, featuring traditional kilns alongside modern drying areas. The economic value of the brick factory lies not only in the production of bricks and roof tiles but also in the preservation of artisanal expertise and the creation of industrial jobs outside the capital. Bricks produced in Bafatá are renowned for their thermal properties, which help maintain a comfortable indoor climate in the scorching savanna zone. The enterprise is a key component of decentralized economic development, supporting the construction of schools, residential homes, and administrative buildings in the country's second-largest city."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Ziegelei nutzt die hochwertigen Tonvorkommen des Geba-Flusstals.",
+          "Gebrannte Ziegel aus Bafatá gelten als langlebiger als herkömmliche Zementblöcke.",
+          "Der Betrieb wurde zur Förderung der ländlichen Industrialisierung modernisiert.",
+          "Die Ziegelproduktion ist saisonabhängig und erreicht in der Trockenzeit ihren Höhepunkt.",
+          "Lokale Architekten bevorzugen diese Ziegel wegen ihrer thermischen Trägheit.",
+          "Die Fabrik bildet Jugendliche aus der Region im Keramikhandwerk aus."
+        ],
+        "hu": [
+          "A gyár a Geba-folyó völgyének kiváló minőségű agyagkészleteit használja.",
+          "A bafatá-i égetett tégla tartósabbnak számít a hagyományos cementblokkoknál.",
+          "Az üzemet a vidéki iparosítás elősegítése érdekében korszerűsítették.",
+          "A termelés szezonális, a csúcspontját a száraz évszakban éri el.",
+          "A helyi építészek a hőtároló képességük miatt kedvelik ezeket a téglákat.",
+          "A gyár keretében szakmai képzés folyik a helyi fiatalok számára."
+        ],
+        "ro": [
+          "Fabrica valorifică argila aluvionară de înaltă calitate din lunca Geba.",
+          "Cărămizile de Bafatá oferă o izolare termică superioară blocurilor de beton.",
+          "Este una dintre puținele unități industriale active din estul țării.",
+          "Procesul de producție combină tehnici de presare mecanică cu arderea tradițională.",
+          "Cărămizile sunt transportate cu camioanele în toată regiunea Gabú.",
+          "Unitatea contribuie la reducerea amprentei de carbon a construcțiilor locale."
+        ],
+        "en": [
+          "The factory utilizes high-quality clay sourced directly from the Geba River valley.",
+          "Fired bricks from Bafatá are more durable than common sand-cement blocks.",
+          "The plant was modernized to boost rural industrial output and self-reliance.",
+          "Production peaks during the dry season when outdoor drying is most efficient.",
+          "Local architects favor these bricks for their excellent thermal mass in hot climates.",
+          "The facility provides vocational training in ceramic and masonry skills for local youth."
+        ]
+      }
+    },
+    {
+      "id": "port-von-bolama-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Bolama, auf der gleichnamigen Insel gelegen, ist ein Ort von tiefer historischer und ökonomischer Ambivalenz. Einst der wichtigste Exporthafen von Portugiesisch-Guinea und administratives Zentrum der Kolonie bis 1941, zeugen heute die verfallenden Kaianlagen von seiner glanzvollen Vergangenheit. Trotz des Bedeutungsverlustes gegenüber Bissau bleibt der Hafen eine lebenswichtige wirtschaftliche Ader für die Inselbevölkerung. Er dient als zentraler Umschlagplatz für die Agrarprodukte der Insel, insbesondere Cashewnüssen, Mangos und Limetten, die von hier aus auf das Festland verschifft werden. Die Architektur des Hafens ist durch koloniale Lagerhäuser und eine markante Landungsbrücke geprägt, die jedoch dringend sanierungsbedürftig sind. Ökonomisch gesehen ist der Hafen der Dreh- und Angelpunkt für den lokalen Handel und die einzige Verbindung für den Personenverkehr nach Bissau. Pläne zur Revitalisierung des Hafens zielen darauf ab, Bolama als touristisches Ziel zu erschließen und die logistische Effizienz für den Agrarexport zu steigern. Der Hafen von Bolama symbolisiert den Übergang von einer kolonialen Handelsmetropole zu einem regionalen Knotenpunkt, der händeringend nach neuer wirtschaftlicher Dynamik sucht.",
+        "hu": "Bolama kikötője az azonos nevű szigeten található, és mély történelmi, valamint gazdasági kettősség jellemzi. Egykor Portugál-Guinea legfontosabb exportkikötője és a gyarmat adminisztratív központja volt 1941-ig, mára azonban a romosodó rakpartok tanúskodnak dicső múltjáról. Annak ellenére, hogy Bissau átvette a vezető szerepet, a kikötő továbbra is létfontosságú gazdasági ütőér a sziget lakossága számára. Központi gyűjtőhelyként szolgál a sziget mezőgazdasági termékei – különösen a kesudió, a mangó és a lime – számára, amelyeket innen szállítanak a szárazföldre. A kikötő építészetét a gyarmati raktárépületek és egy jellegzetes móló határozza meg, amelyek azonban sürgős felújításra szorulnak. Gazdasági szempontból a kikötő a helyi kereskedelem tengelye és az egyetlen állandó kapcsolat a személyforgalom számára Bissau felé. A kikötő revitalizációjára vonatkozó tervek célja Bolama turisztikai célponttá tétele és az agrár-export logisztikai hatékonyságának növelése. Bolama kikötője a gyarmati kereskedelmi metropoliszból egy regionális csomóponttá való átmenetet szimbolizálja, amely égetően keresi az új gazdasági dinamizmust.",
+        "ro": "Portul Bolama, situat pe insula cu același nume, este un loc de o profundă ambivalență istorică și economică. Cândva cel mai important port de export al Guineei Portugheze și centrul administrativ al coloniei până în 1941, astăzi cheiurile degradate stau mărturie trecutului său glorios. În ciuda pierderii importanței în favoarea orașului Bissau, portul rămâne o arteră economică vitală pentru populația insulară. Acesta servește drept centru principal de transbordare pentru produsele agricole ale insulei, în special nuci caju, mango și lime, care sunt expediate de aici către continent. Arhitectura portului este marcată de antrepozite coloniale și un ponton de debarcare distinctiv, care necesită însă reparații urgente. Din punct de vedere economic, portul este punctul nodal pentru comerțul local și singura legătură pentru transportul de pasageri către Bissau. Planurile de revitalizare a portului vizează transformarea Bolamei într-o destinație turistică și creșterea eficienței logistice pentru exportul agricol. Portul Bolama simbolizează tranziția de la o metropolă comercială colonială la un nod regional care caută cu disperare o nouă dinamică economică.",
+        "en": "The Port of Bolama, situated on the eponymous island, is a site of profound historical and economic significance. Once the most important export gateway for Portuguese Guinea and the colony's administrative capital until 1941, its decaying quays now stand as a witness to a storied past. Despite losing its preeminence to Bissau, the port remains a vital economic lifeline for the island's inhabitants. It serves as the primary collection and shipping point for the island's agricultural products, particularly cashew nuts, mangoes, and limes, which are transported from here to the mainland. The port's architecture features historic colonial warehouses and a prominent pier, though both are in urgent need of restoration. Economically, the port is the axis of local trade and the only consistent link for passenger traffic to the capital. Current revitalization plans aim to develop Bolama as a cultural tourism destination and to enhance logistical efficiency for agricultural exports. The Port of Bolama symbolizes the transition from a colonial commercial hub to a regional outpost seeking to regain its economic momentum."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bolama war bis 1941 der offizielle Haupthafen der Kolonie.",
+          "Der Hafen liegt an einer geschützten Bucht mit natürlichem Tiefgang.",
+          "Heute wird er hauptsächlich für den Export von Cashewnüssen genutzt.",
+          "Die Fähre nach Bissau ist die einzige regelmäßige Verkehrsverbindung.",
+          "Historische Kanonen an der Hafenmole erinnern an die Verteidigung im 19. Jahrhundert.",
+          "Der Hafen ist ein zentraler Bestandteil des UNESCO-Welterbe-Antrags für Bolama."
+        ],
+        "hu": [
+          "Bolama 1941-ig a gyarmat hivatalos fő kikötője volt.",
+          "A kikötő egy természetes mélyvizű, védett öbölben fekszik.",
+          "Manapság leginkább a kesudió-export lebonyolítására használják.",
+          "A bissaui komp az egyetlen rendszeres közlekedési kapcsolat a szigettel.",
+          "A kikötői gáton található történelmi ágyúk a 19. századi védelmi harcokra emlékeztetnek.",
+          "A kikötő központi eleme Bolama UNESCO világörökségi várományosi listájának."
+        ],
+        "ro": [
+          "Bolama a fost principalul port al coloniei înainte de ascensiunea orașului Bissau.",
+          "Adâncimea naturală a golfului a permis accesul navelor mari transatlantice.",
+          "Economia curentă a portului se bazează pe exportul de citrice și caju.",
+          "Legătura cu capitala Bissau depinde de maree și de starea feribotului.",
+          "Zona portuară păstrează planul urbanistic neoclasic din secolul XIX.",
+          "Revitalizarea portului este considerată cheia pentru relansarea turismului în arhipelag."
+        ],
+        "en": [
+          "Bolama served as the official primary port of the colony until 1941.",
+          "The harbor is located in a sheltered bay with significant natural depth.",
+          "Current economic activity centers on the seasonal export of cashews and limes.",
+          "The ferry link to Bissau is the island’s sole consistent transport connection.",
+          "Historic cannons on the pier date back to the 19th-century territorial disputes.",
+          "The port is a key component of Bolama's inclusion on the UNESCO tentative list."
+        ]
+      }
+    },
+    {
+      "id": "port-von-cacheu-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Cacheu ist einer der ältesten europäischen Handelsposten in Subsahara-Afrika und ein bedeutender regionaler Exporthafen im Norden Guinea-Bissaus. Am Ufer des Rio Cacheu gelegen, blickt der Hafen auf eine über 400-jährige Geschichte zurück, die eng mit dem Sklavenhandel und dem Export von Elfenbein und Wachs verknüpft war. Heute fungiert er als moderner, wenn auch kleinerer Handelsknotenpunkt für die Region Cacheu. Die wirtschaftliche Bedeutung des Hafens basiert primär auf dem Export von Cashewnüssen und Tropenholz, das über den Flussweg aus dem Binnenland herangeführt wird. Die Architektur des Hafengeländes ist funktional, wobei das angrenzende historische Fort und die alten Zollgebäude eine eindrucksvolle Kulisse bilden. Der Hafen ist zudem ein Zentrum der gewerblichen Fischerei, wobei die Pirogen von Cacheu die fischreichen Mangrovengebiete des Deltas nutzen. Aufgrund der Versandung des Rio Cacheu ist die Schifffahrt für große Ozeanriesen eingeschränkt, was den Hafen zu einem wichtigen Punkt für die Küstenschifffahrt macht. Die Revitalisierung des Hafens wird als entscheidend für die wirtschaftliche Entwicklung des Nordens und die Stärkung des Handels mit dem Senegal angesehen.",
+        "hu": "Cacheu kikötője a szubszaharai Afrika egyik legrégebbi európai kereskedelmi állomása, és Észak-Guinea-Bissau meghatározó regionális exportkikötője. A Cacheu-folyó partján fekvő létesítmény több mint 400 éves múltra tekint vissza, amely szorosan összefonódott a rabszolga-kereskedelemmel, valamint az elefántcsont és a viasz exportjával. Ma modern, bár kisebb léptékű kereskedelmi csomópontként funkcionál a Cacheu régió számára. A kikötő gazdasági jelentősége elsősorban a kesudió-exportra és a trópusi faanyag kereskedelmére épül, amelyet a folyón szállítanak ide a szárazföld belsejéből. A kikötői terület építészete funkcionális, a szomszédos történelmi erőd és a régi vámépületek lenyűgöző hátteret biztosítanak. A kikötő emellett a kereskedelmi halászat központja is, a helyi pirogok a delta halban gazdag mangrove-övezeteit használják. A Cacheu-folyó eliszaposodása miatt a nagy óceánjáró hajók forgalma korlátozott, így a kikötő a part menti hajózás fontos bázisává vált. A kikötő fejlesztése kulcsfontosságú az északi országrész gazdasági felemelkedése és a Szenegállal folytatott kereskedelem erősítése szempontjából.",
+        "ro": "Portul Cacheu este unul dintre cele mai vechi puncte comerciale europene din Africa subsahariană și un port regional de export semnificativ în nordul Guineei-Bissau. Situat pe malul râului Cacheu, portul are o istorie de peste 400 de ani, strâns legată de comerțul cu sclavi și exportul de fildeș și ceară. Astăzi, acesta funcționează ca un nod comercial modern, deși de dimensiuni reduse, pentru regiunea Cacheu. Importanța economică a portului se bazează în principal pe exportul de nuci caju și lemn tropical, aduse pe calea apei din interiorul țării. Arhitectura zonei portuare este utilitară, fortul istoric adiacent și vechile clădiri vamale oferind un cadru impresionant. Portul este, de asemenea, un centru al pescuitului comercial, pirogile din Cacheu exploatând zonele bogate de mangrove din deltă. Din cauza colmatării râului Cacheu, navigația navelor transoceanice mari este limitată, transformând portul într-un punct vital pentru navigația de cabotaj. Revitalizarea portului este considerată crucială pentru dezvoltarea economică a nordului și consolidarea schimburilor comerciale cu Senegalul.",
+        "en": "The Port of Cacheu is one of the oldest European trading posts in sub-Saharan Africa and a vital regional export hub in northern Guinea-Bissau. Situated on the banks of the Cacheu River, the port boasts a 400-year history that was once deeply intertwined with the slave trade and the export of ivory and beeswax. Today, it functions as a modern, albeit smaller-scale, commercial center for the Cacheu region. The port's economic relevance is primarily based on the export of cashew nuts and tropical timber transported via the river from the interior. The architecture of the port area is functional, with the adjacent historic fort and old customs houses providing a dramatic backdrop. The port also serves as a hub for commercial fishing, with local pirogues utilizing the nutrient-rich mangrove areas of the delta. Due to the ongoing siltation of the Cacheu River, navigation for large ocean-going vessels is restricted, making the port a critical node for coastal shipping. Revitalizing the port is seen as essential for the economic advancement of the north and for strengthening trade relations with Senegal."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cacheu war der erste offizielle portugiesische Hafen in Westafrika.",
+          "Der Hafen liegt im Rio Cacheu Mangrove Nationalpark.",
+          "Heute werden hier hauptsächlich Cashewnüsse für den indischen Markt verladen.",
+          "Die Wassertiefe erlaubt Schiffen mit einem Tiefgang von bis zu 5 Metern den Zugang.",
+          "Der Hafen ist ein wichtiger Stützpunkt für die Überwachung der illegalen Fischerei.",
+          "Traditionelle Pirogen stellen einen Großteil des logistischen Verkehrs im Hafen dar."
+        ],
+        "hu": [
+          "Cacheu volt az első hivatalos portugál kikötő Nyugat-Afrikában.",
+          "A kikötő a Rio Cacheu Mangrove Nemzeti Park területén található.",
+          "Manapság főként az indiai piacra szánt kesudiót rakodják itt hajókra.",
+          "A vízmélység legfeljebb 5 méteres merülésű hajók számára teszi lehetővé a kikötést.",
+          "A kikötő fontos bázisa az illegális halászat elleni fellépésnek.",
+          "A forgalom jelentős részét a hagyományos, fából készült pirogok adják."
+        ],
+        "ro": [
+          "Cacheu a fost prima capitală și cel mai vechi port al Guineei Portugheze.",
+          "Portul este poarta de ieșire pentru produsele forestiere din regiunea Oio.",
+          "Activitatea de export este concentrată în lunile mai-august.",
+          "Navele de cabotaj fac legătura între Cacheu, Bissau și Ziguinchor (Senegal).",
+          "Memorialul Sclaviei este situat chiar lângă instalațiile portuare.",
+          "Pescuitul artizanal de creveți este o ramură economică majoră a portului."
+        ],
+        "en": [
+          "Cacheu was the first officially established Portuguese port in West Africa.",
+          "The port is situated within the protected Cacheu River Mangrove National Park.",
+          "It serves as a primary exit point for cashew exports destined for India and Vietnam.",
+          "Water depth limits access to coastal vessels with a draft of up to 5 meters.",
+          "The facility is a strategic base for monitoring and protecting the river's resources.",
+          "The local economy relies on the port for the distribution of essential imports like salt and fuel."
+        ]
+      }
+    }
+  ]
+}

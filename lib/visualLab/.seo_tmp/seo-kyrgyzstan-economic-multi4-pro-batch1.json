@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kumtor-gold-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kumtor-Goldmine befindet sich im Tian-Shan-Gebirge auf einer extremen Höhe von rund 4.000 Metern und ist eine der größten Goldminen Zentralasiens. Seit der Inbetriebnahme im Jahr 1997 hat sie sich zu einem zentralen Pfeiler der kirgisischen Wirtschaft entwickelt und trägt maßgeblich zum Bruttoinlandsprodukt sowie den Exporterlösen des Landes bei. Der Abbau erfolgt im Tagebau unter schwierigen klimatischen Bedingungen, wobei Permafrost und Gletscher die technischen Anforderungen erhöhen. Im Jahr 2021 wurde die Mine nach jahrelangen Auseinandersetzungen mit dem ausländischen Betreiber von der kirgisischen Regierung verstaatlicht. Der Betrieb erfordert eine ständige Überwachung der Umwelt, insbesondere hinsichtlich des Managements von Abwässern und der Stabilität der Abraumhalden in der gletscherreichen Region.",
+        "hu": "A Kumtor aranybánya a Tien-san hegységben, mintegy 4000 méteres tengerszint feletti magasságban helyezkedik el, és Közép-Ázsia egyik legnagyobb aranykitermelő helye. Az 1997-es megnyitása óta a kirgiz gazdaság alappillére, amely jelentős mértékben hozzájárul az ország GDP-jéhez és exportbevételeihez. A külszíni fejtés extrém időjárási körülmények között zajlik, ahol a permafroszt és a közeli gleccserek folyamatos technikai kihívást jelentenek. Hosszú jogi vitákat követően a kirgiz állam 2021-ben államosította a létesítményt az addigi külföldi üzemeltetőtől. A bányászat szigorú környezetvédelmi felügyeletet igényel, különös tekintettel a zagytározók biztonságára és a gleccserek olvadásának kezelésére.",
+        "ro": "Mina de aur Kumtor este situată în munții Tian Shan, la o altitudine extremă de aproximativ 4.000 de metri, fiind una dintre cele mai mari exploatări de aur din Asia Centrală. De la deschiderea sa în 1997, a devenit un pilon central al economiei kârgâze, contribuind masiv la produsul intern brut și la veniturile din export ale țării. Extracția la suprafață se desfășoară în condiții climatice dure, unde permafrostul și ghețarii adaugă provocări tehnice majore. În anul 2021, după ani de dispute cu operatorul străin, guvernul kârgâz a naționalizat mina. Operațiunile necesită o monitorizare ecologică constantă, în special pentru gestionarea apelor uzate și menținerea stabilității deșeurilor miniere în această zonă glaciară.",
+        "en": "Located in the Tian Shan mountains at an extreme altitude of around 4,000 meters, the Kumtor Gold Mine is one of the largest gold deposits in Central Asia. Since commencing operations in 1997, it has been a crucial pillar of the Kyrgyz economy, significantly contributing to the country's gross domestic product and export revenues. Open-pit mining is conducted under severe climatic conditions, with permafrost and nearby glaciers posing constant technical challenges. Following years of disputes with its foreign operator, the mine was nationalized by the Kyrgyz government in 2021. The operation requires continuous environmental monitoring, particularly concerning wastewater management and the stability of tailings dams in a highly glaciated region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt auf 4.000 Metern Höhe im Tian-Shan-Gebirge.",
+          "Wurde im Jahr 1997 in Betrieb genommen.",
+          "Ist eine der größten Goldminen in Zentralasien.",
+          "Wurde 2021 von der kirgisischen Regierung verstaatlicht.",
+          "Trägt erheblich zum kirgisischen BIP bei.",
+          "Der Tagebau erfordert den Umgang mit Permafrost.",
+          "Befindet sich in unmittelbarer Nähe zum Davydov-Gletscher."
+        ],
+        "hu": [
+          "4000 méteres magasságban található a Tien-sanban.",
+          "A kitermelés 1997-ben kezdődött meg.",
+          "Közép-Ázsia egyik legjelentősebb aranylelőhelye.",
+          "2021-ben a kirgiz állam tulajdonába került.",
+          "A kirgiz GDP jelentős részét biztosítja.",
+          "A külszíni fejtés permafroszt területen zajlik.",
+          "Közvetlenül a Davydov-gleccser szomszédságában fekszik."
+        ],
+        "ro": [
+          "Situată la 4.000 de metri altitudine în munții Tian Shan.",
+          "A intrat în exploatare comercială în 1997.",
+          "Este una dintre cele mai mari mine de aur din Asia Centrală.",
+          "A fost naționalizată de guvernul kârgâz în 2021.",
+          "Contribuie cu un procent major la PIB-ul Kârgâzstanului.",
+          "Extracția implică gestionarea straturilor de permafrost.",
+          "Se află în proximitatea ghețarului Davydov."
+        ],
+        "en": [
+          "Situated at 4,000 meters altitude in the Tian Shan.",
+          "Commercial operations commenced in 1997.",
+          "Ranks among the largest gold mines in Central Asia.",
+          "Nationalized by the Kyrgyz government in 2021.",
+          "Accounts for a substantial portion of the Kyrgyz GDP.",
+          "Open-pit operations must manage permafrost conditions.",
+          "Located adjacent to the advancing Davydov Glacier."
+        ]
+      }
+    },
+    {
+      "id": "makmal-gold-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Makmal-Goldmine befindet sich im Bezirk Toguz-Toro und war jahrzehntelang eine der wichtigsten Rohstoffquellen für die staatliche Gesellschaft Kyrgyzaltyn. Die Förderung begann im Jahr 1986 in der späten Sowjetzeit und lieferte zunächst hohe Erträge, die maßgeblich zur regionalen Entwicklung beitrugen. Mit der Zeit sanken die Goldgehalte im Erz, und der Übergang von oberflächennahen Schichten zum tieferen Untertagebau erhöhte die Betriebskosten erheblich. In den letzten Jahren stand die Mine aufgrund erschöpfter Reserven mehrfach kurz vor der Schließung. Um die Lebensdauer des Standorts zu verlängern, wurden Investoren gesucht, um verbliebene Restbestände und Abraumhalden mit modernen Extraktionstechnologien aufzuarbeiten.",
+        "hu": "A Toguz-Toro körzetben található Makmal aranybánya évtizedeken át a Kyrgyzaltyn állami vállalat egyik legfontosabb nyersanyagforrása volt. A kitermelés 1986-ban, a szovjet éra végén indult, és kezdetben magas hozamokat biztosított a régió fejlődéséhez. Az idő múlásával az érc aranytartalma jelentősen csökkent, a külszíni fejtésről a mélyművelésre való áttérés pedig megnövelte a működési költségeket. Az elmúlt években a kimerülő készletek miatt a bánya többször is a bezárás szélére került. Az élettartam meghosszabbítása érdekében befektetőket vontak be, hogy modern eljárásokkal termeljék ki a visszamaradt meddőhányók és mélyebb rétegek aranytartalmát.",
+        "ro": "Mina de aur Makmal, situată în districtul Toguz-Toro, a fost decenii la rând o resursă esențială pentru compania de stat Kyrgyzaltyn. Exploatarea a început în 1986, la finalul perioadei sovietice, oferind inițial randamente ridicate care au susținut dezvoltarea locală. Odată cu trecerea timpului, concentrația de aur din minereu a scăzut considerabil, iar tranziția de la exploatarea de suprafață la cea subterană a crescut costurile de operare. În ultimii ani, mina a fost aproape de închidere din cauza epuizării rezervelor. Pentru a prelungi activitatea industrială, au fost atrase investiții pentru procesarea deșeurilor miniere și a rezervelor rămase folosind tehnologii moderne de extracție.",
+        "en": "The Makmal Gold Mine, located in the Toguz-Toro District, served for decades as a primary resource for the state-owned enterprise Kyrgyzaltyn. Operations began in 1986 during the late Soviet era, initially yielding high outputs that supported regional development. Over time, the gold grade in the ore significantly declined, and the transition from surface to underground mining increased operational costs. In recent years, the mine has repeatedly faced closure due to the severe depletion of accessible reserves. To extend the site's operational lifespan, foreign investments have been sought to reprocess existing tailings and extract remaining deep-level deposits using modern technologies."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Bezirk Toguz-Toro im Landesinneren.",
+          "Die Goldförderung startete im Jahr 1986.",
+          "Wurde lange vom staatlichen Unternehmen Kyrgyzaltyn betrieben.",
+          "Die anfänglichen Oberflächenreserven sind weitgehend erschöpft.",
+          "Die Mine musste auf teureren Untertagebau umstellen.",
+          "Galt lange als wirtschaftlicher Motor der Region.",
+          "Pläne umfassen die Aufbereitung alter Abraumhalden."
+        ],
+        "hu": [
+          "A Toguz-Toro körzetben fekszik az ország belső részén.",
+          "A termelés 1986-ban vette kezdetét.",
+          "A Kyrgyzaltyn állami cég egyik fő bányája volt.",
+          "A könnyen hozzáférhető felszíni készletek kimerültek.",
+          "A működés drágább mélyműveléses technikára váltott.",
+          "A helyi régió legfőbb gazdasági mozgatórugója volt.",
+          "Új projektek célozzák a régi meddőhányók feldolgozását."
+        ],
+        "ro": [
+          "Se află în districtul Toguz-Toro din interiorul țării.",
+          "Extracția aurului a fost inițiată în anul 1986.",
+          "A fost operată majoritar de compania de stat Kyrgyzaltyn.",
+          "Rezervele inițiale de suprafață sunt aproape epuizate.",
+          "Mina a fost forțată să treacă la extracția subterană.",
+          "A servit drept principal motor economic al regiunii.",
+          "Există planuri pentru reprocesarea vechilor steriluri."
+        ],
+        "en": [
+          "Located in the Toguz-Toro District in the interior.",
+          "Gold extraction officially commenced in 1986.",
+          "Long operated by the state enterprise Kyrgyzaltyn.",
+          "Initial surface reserves have been largely depleted.",
+          "Operations shifted to more expensive underground mining.",
+          "Historically served as the region's main economic driver.",
+          "Current strategies involve reprocessing old tailings."
+        ]
+      }
+    },
+    {
+      "id": "toktogul-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Toktogul ist die größte Anlage zur Stromerzeugung in Kirgisistan und bildet das Herzstück des Naryn-Kaskadensystems. Mit einer installierten Kapazität von 1.200 Megawatt produziert das Kraftwerk etwa 40 Prozent der gesamten Elektrizität des Landes. Die gewaltige, 215 Meter hohe Talsperre staut den Naryn-Fluss zum Toktogul-Stausee, der auch als zentraler Wasserspeicher für die Landwirtschaft im nachgelagerten Ferganatal dient. Die Anlage wurde in den 1970er Jahren fertiggestellt und ist entscheidend für die Netzstabilität in ganz Zentralasien. Wegen der Abhängigkeit von schwankenden Zuflüssen durch Gletscherschmelze unterliegt die Stromproduktion saisonalen Schwankungen, was ein präzises Wassermanagement erfordert.",
+        "hu": "A Toktogul Vízerőmű Kirgizisztán legnagyobb áramtermelő létesítménye, amely a Narin-kaszkádrendszer központi eleme. Az 1200 megawatt beépített kapacitású erőmű az ország teljes villamosenergia-termelésének mintegy 40 százalékát adja. A hatalmas, 215 méter magas gát a Narin folyót a Toktogul-víztározóvá duzzasztja fel, amely kulcsfontosságú vízbázisként szolgál a lejjebb fekvő Fergana-völgy mezőgazdasága számára. Az 1970-es években átadott létesítmény alapvető fontosságú az egész közép-ázsiai villamosenergia-hálózat stabilitása szempontjából. Mivel a vízutánpótlás a gleccserek olvadásától függ, az energiatermelés szezonális ingadozásokat mutat.",
+        "ro": "Hidrocentrala Toktogul este cea mai mare unitate de generare a energiei din Kârgâzstan și piesa centrală a sistemului de cascade de pe râul Naryn. Având o capacitate instalată de 1.200 de megawați, centrala asigură aproximativ 40% din producția totală de electricitate a țării. Barajul masiv, înalt de 215 metri, formează lacul de acumulare Toktogul, care servește și ca rezervor strategic de apă pentru agricultura din Valea Fergana, situată în aval. Finalizată în anii 1970, facilitatea este esențială pentru stabilitatea rețelei electrice din Asia Centrală. Deoarece depinde de debitul alimentat de topirea ghețarilor, producția de energie fluctuează sezonier.",
+        "en": "The Toktogul Hydroelectric Power Station is the largest power generation facility in Kyrgyzstan and the centerpiece of the Naryn cascade system. With an installed capacity of 1,200 megawatts, the plant produces roughly 40 percent of the country's total electricity. The massive 215-meter-high dam impounds the Naryn River to form the Toktogul Reservoir, which acts as a crucial water storage facility for agriculture in the downstream Fergana Valley. Completed in the 1970s, the plant is vital for the stability of the entire Central Asian power grid. Because it relies on inflows dictated by glacial melt, its electricity output is subject to seasonal fluctuations requiring careful management."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich am Naryn-Fluss im Oblus Dschalal-Abad.",
+          "Verfügt über eine installierte Kapazität von 1.200 MW.",
+          "Die Talsperre hat eine beeindruckende Höhe von 215 Metern.",
+          "Liefert rund 40 % der Elektrizität Kirgisistans.",
+          "Reguliert das Wasser für das tiefer liegende Ferganatal.",
+          "Wurde in den 1970er Jahren offiziell fertiggestellt.",
+          "Ist das größte Kraftwerk der Naryn-Kaskade."
+        ],
+        "hu": [
+          "A Narin folyón található Dzsalal-Abad tartományban.",
+          "1200 MW beépített energiatermelő kapacitással rendelkezik.",
+          "A betongát lenyűgöző, 215 méteres magasságot ér el.",
+          "Kirgizisztán áramszükségletének közel 40%-át fedezi.",
+          "Szabályozza a vizet a lejjebb elterülő Fergana-völgynek.",
+          "Az építkezés hivatalosan az 1970-es években fejeződött be.",
+          "Ez a Narin-kaszkád legnagyobb teljesítményű tagja."
+        ],
+        "ro": [
+          "Este situată pe râul Naryn în regiunea Jalal-Abad.",
+          "Are o capacitate instalată masivă de 1.200 MW.",
+          "Barajul atinge o înălțime impresionantă de 215 metri.",
+          "Furnizează aproximativ 40% din electricitatea Kârgâzstanului.",
+          "Reglează fluxul de apă pentru agricultura din Valea Fergana.",
+          "A fost finalizată și dată în folosință în anii 1970.",
+          "Este cea mai mare hidrocentrală din cascada Naryn."
+        ],
+        "en": [
+          "Located on the Naryn River in the Jalal-Abad Region.",
+          "Features a massive installed capacity of 1,200 MW.",
+          "The concrete dam reaches an impressive height of 215 meters.",
+          "Generates approximately 40% of Kyrgyzstan's electricity.",
+          "Regulates water flow for the downstream Fergana Valley.",
+          "Construction was fully completed during the 1970s.",
+          "Ranks as the largest power plant in the Naryn cascade."
+        ]
+      }
+    },
+    {
+      "id": "kurpsai-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Kurpsai ist die zweitgrößte Energieerzeugungsanlage am Naryn-Fluss und ein wesentlicher Bestandteil des kirgisischen Stromnetzes. Mit einer Leistung von 800 Megawatt ergänzt es die Produktion des oberhalb liegenden Toktogul-Kraftwerks. Der Bau der 113 Meter hohen Staumauer wurde 1981 abgeschlossen und nutzt das starke Gefälle in der Schlucht effizient zur Stromgewinnung. Da das Kraftwerk stark von der Abflussregulierung des Toktogul-Stausees abhängig ist, arbeitet es vor allem in den Spitzenlastzeiten. Die Anlage sichert nicht nur den heimischen Bedarf, sondern ermöglicht in wasserreichen Jahren auch Stromexporte in die Nachbarstaaten.",
+        "hu": "A Kurpsai Vízerőmű a Narin folyó második legnagyobb energiatermelő egysége, amely meghatározó szerepet tölt be a kirgiz hálózatban. A 800 megawatt teljesítményű létesítmény a feljebb elhelyezkedő Toktogul erőmű termelését egészíti ki. A 113 méter magas gát építését 1981-ben fejezték be, kiválóan kihasználva a mély szurdok természetes esését. Mivel az erőmű működése nagyban függ a Toktogul-víztározó vízszabályozásától, jellemzően a csúcsidőszakokban üzemel a legintenzívebben. A belföldi áramellátás biztosítása mellett a vízbő években az exportot is támogatja a szomszédos országok felé.",
+        "ro": "Hidrocentrala Kurpsai este a doua cea mai mare facilitate de generare a energiei de pe râul Naryn și o componentă de bază a rețelei electrice kârgâze. Cu o capacitate de 800 de megawați, aceasta completează producția hidrocentralei Toktogul situate în amonte. Construcția barajului înalt de 113 metri a fost finalizată în 1981, utilizând eficient căderea naturală din defileul abrupt. Deoarece operarea sa depinde puternic de reglarea apei din rezervorul Toktogul, centrala funcționează de obicei la capacitate maximă în perioadele de vârf. Facilitatea asigură consumul intern și sprijină exportul de electricitate în anii cu precipitații abundente.",
+        "en": "The Kurpsai Hydroelectric Power Station is the second-largest power facility on the Naryn River and a critical asset for the Kyrgyz power grid. With a capacity of 800 megawatts, it complements the output of the upstream Toktogul plant. The construction of its 113-meter-high dam was completed in 1981, effectively harnessing the steep natural drop in the deep gorge. Because its operation relies heavily on the water discharge regulated by the Toktogul Reservoir, it predominantly operates to meet peak load demands. The station not only secures domestic electricity needs but also enables energy exports to neighboring countries during water-abundant years."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich flussabwärts von Toktogul am Naryn.",
+          "Verfügt über eine Kapazität von 800 Megawatt.",
+          "Die Mauerhöhe beträgt 113 Meter.",
+          "Der Betrieb wurde 1981 offiziell aufgenommen.",
+          "Zweitgrößte Anlage der kirgisischen Wasserkraft.",
+          "Ist abhängig vom Wasserdurchfluss des Toktogul-Stausees.",
+          "Dient maßgeblich zur Abdeckung von Spitzenlasten."
+        ],
+        "hu": [
+          "A Toktogultól folyásirányban lefelé található a Narinon.",
+          "Teljesítménye eléri a 800 megawattot.",
+          "A gát szerkezeti magassága 113 méter.",
+          "Az üzemeltetés 1981-ben kezdődött meg.",
+          "Az ország második legnagyobb vízerőműve.",
+          "Működése a Toktogul-tározó vízhozamától függ.",
+          "Kiemelten a csúcsidőszaki áramigényeket elégíti ki."
+        ],
+        "ro": [
+          "Este situată în aval de Toktogul, pe cursul râului Naryn.",
+          "Are o capacitate totală de 800 de megawați.",
+          "Înălțimea structurii barajului atinge 113 metri.",
+          "A fost dată în exploatare în anul 1981.",
+          "A doua cea mai mare hidrocentrală din Kârgâzstan.",
+          "Depinde direct de descărcarea de apă de la Toktogul.",
+          "Rolul principal este acoperirea cererii de vârf."
+        ],
+        "en": [
+          "Situated downstream from Toktogul on the Naryn River.",
+          "Possesses an installed capacity of 800 megawatts.",
+          "The dam's structural height measures 113 meters.",
+          "Commercial operations officially began in 1981.",
+          "The second-largest hydroelectric facility in Kyrgyzstan.",
+          "Dependent on the regulated discharge from Toktogul.",
+          "Primarily utilized to cover peak electricity demand."
+        ]
+      }
+    },
+    {
+      "id": "tash-kumyr-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Tash-Kumyr ist ein wichtiger Teil der Naryn-Kaskade und liegt in der gleichnamigen Stadt im Oblus Dschalal-Abad. Mit einer Leistung von 450 Megawatt wurde es entworfen, um die Energieproduktion der größeren Anlagen oberhalb weiter zu nutzen. Der Bau begann in den 1980er Jahren und die ersten Turbinen gingen gegen Ende des Jahrzehnts ans Netz. Die Anlage nutzt den kontinuierlichen Abfluss von Toktogul und Kurpsai und sorgt für eine konstante Grundlast im nationalen Netz. Neben der Stromerzeugung spielt das Kraftwerk eine Rolle bei der industriellen Entwicklung der einstigen Bergbaustadt Tash-Kumyr.",
+        "hu": "A Taskumir Vízerőmű a Narin-kaszkád fontos láncszeme, amely Dzsalal-Abad tartomány azonos nevű városában található. A 450 megawattos létesítményt úgy tervezték, hogy másodlagosan hasznosítsa a feljebb lévő nagyobb erőművekből lezúduló vizet. Az építkezés az 1980-as években zajlott, a turbinák pedig az évtized végén álltak munkába. Az erőmű a Toktogul és Kurpsai egyenletes vízhozamára épít, stabil alapterhelést biztosítva a nemzeti hálózatnak. Az energiatermelésen túl a létesítmény hozzájárul Taskumir, az egykori bányászváros ipari infrastruktúrájának fenntartásához.",
+        "ro": "Hidrocentrala Tash-Kumyr este o verigă importantă a cascadei Naryn, situată în orașul cu același nume din regiunea Jalal-Abad. Cu o capacitate de 450 de megawați, a fost proiectată pentru a valorifica fluxul de apă eliberat de centralele mai mari din amonte. Construcția a început în anii 1980, primele turbine fiind conectate la rețea spre sfârșitul deceniului. Facilitatea utilizează descărcarea constantă de la Toktogul și Kurpsai, asigurând o sarcină de bază stabilă pentru rețeaua națională. Pe lângă producția de electricitate, centrala susține infrastructura industrială a fostului oraș minier Tash-Kumyr.",
+        "en": "The Tash-Kumyr Hydroelectric Power Station is an important component of the Naryn cascade, located in the eponymous town in the Jalal-Abad Region. With an output of 450 megawatts, it was designed to further harness the downstream water flow from the larger upstream facilities. Construction took place in the 1980s, with the first turbines coming online towards the end of the decade. The plant relies on the steady discharge from Toktogul and Kurpsai, providing a reliable base load for the national power grid. Beyond electricity generation, the station supports the industrial infrastructure of the former mining town of Tash-Kumyr."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil der Naryn-Kaskade im Oblus Dschalal-Abad.",
+          "Die installierte Kapazität liegt bei 450 MW.",
+          "Inbetriebnahme der Turbinen erfolgte ab 1985.",
+          "Nutzt das Wasser der oberhalb gelegenen Kraftwerke.",
+          "Trägt zur Grundlast des kirgisischen Stromnetzes bei.",
+          "Befindet sich bei der ehemaligen Bergbaustadt Tash-Kumyr.",
+          "Ist als Laufwasserkraftwerk in das System integriert."
+        ],
+        "hu": [
+          "A Narin-kaszkád része Dzsalal-Abad tartományban.",
+          "A beépített kapacitása eléri a 450 MW-ot.",
+          "A turbinák üzembe helyezése 1985-ben kezdődött.",
+          "A felsőbb erőművek vízhozamát hasznosítja.",
+          "Segít fenntartani a kirgiz áramhálózat alapterhelését.",
+          "Az egykori Taskumir bányászváros közelében működik.",
+          "Folyóvizes erőműként illeszkedik a rendszerbe."
+        ],
+        "ro": [
+          "Face parte din cascada Naryn, în regiunea Jalal-Abad.",
+          "Capacitatea instalată este de 450 MW.",
+          "Punerea în funcțiune a turbinelor a început în 1985.",
+          "Folosește debitul de apă din centralele aflate în amonte.",
+          "Contribuie la sarcina de bază a rețelei kârgâze.",
+          "Este amplasată lângă fostul oraș minier Tash-Kumyr.",
+          "Funcționează ca hidrocentrală pe firul apei în sistem."
+        ],
+        "en": [
+          "Part of the Naryn cascade in the Jalal-Abad Region.",
+          "Features an installed capacity of 450 MW.",
+          "Turbine commissioning began in 1985.",
+          "Utilizes water discharge from upstream power plants.",
+          "Contributes to the base load of the Kyrgyz grid.",
+          "Located near the historical mining town of Tash-Kumyr.",
+          "Operates as a run-of-the-river hydroelectric plant."
+        ]
+      }
+    },
+    {
+      "id": "shamaldy-say-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Shamaldy-Say ist die unterste vollendete Stufe der historischen Naryn-Kaskade und leistet mit 240 Megawatt einen Beitrag zur lokalen Stromversorgung im Süden Kirgisistans. Der Bau begann zwar noch in der sowjetischen Ära, doch die endgültige Fertigstellung verzögerte sich aufgrund finanzieller Engpässe nach der Unabhängigkeit bis in die Mitte der 1990er Jahre. Das Kraftwerk reguliert den Fluss des Naryn kurz vor der Grenze zu Usbekistan und sorgt für eine gleichmäßige Wasserabgabe in das Ferganatal. Die Anlage ist essenziell für die Stromversorgung der angrenzenden industriellen und landwirtschaftlichen Zonen.",
+        "hu": "A Shamaldy-Say Vízerőmű a történelmi Narin-kaszkád legalsó befejezett foka, amely 240 megawatt teljesítménnyel támogatja Dél-Kirgizisztán áramellátását. Bár az építkezés még a szovjet időszakban megkezdődött, a függetlenedés utáni pénzügyi nehézségek miatt az átadás az 1990-es évek közepére csúszott. Az erőmű közvetlenül az üzbég határ előtt szabályozza a Narin folyását, egyenletes vízutánpótlást biztosítva a Fergana-völgy felé. A létesítmény működése kritikus fontosságú a környező ipari és mezőgazdasági övezetek villamosenergia-ellátásához.",
+        "ro": "Hidrocentrala Shamaldy-Say reprezintă treapta inferioară finalizată a cascadei istorice Naryn, contribuind cu 240 de megawați la alimentarea cu energie în sudul Kârgâzstanului. Deși construcția a început în perioada sovietică, dificultățile financiare de după obținerea independenței au amânat finalizarea ei până la mijlocul anilor 1990. Centrala reglează cursul râului Naryn chiar înainte de granița cu Uzbekistanul, asigurând un flux constant de apă către Valea Fergana. Această facilitate este vitală pentru alimentarea cu electricitate a zonelor industriale și agricole adiacente.",
+        "en": "The Shamaldy-Say Hydroelectric Power Station is the lowest completed tier of the historical Naryn cascade, contributing 240 megawatts to the power supply in southern Kyrgyzstan. Although construction began during the Soviet era, financial constraints following independence delayed its final completion until the mid-1990s. The plant regulates the flow of the Naryn River just before it crosses the border into Uzbekistan, ensuring a steady discharge into the Fergana Valley. This facility is critical for supplying electricity to the surrounding industrial and agricultural zones."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ist mit 240 MW das kleinste Kraftwerk der unteren Kaskade.",
+          "Wurde nach langen Verzögerungen 1996 in Betrieb genommen.",
+          "Liegt am Unterlauf des Naryn nahe der usbekischen Grenze.",
+          "Dient als Ausgleichsbecken für den Wasserfluss.",
+          "Versorgt den Süden des Landes mit Elektrizität.",
+          "Der Bau begann noch zu Zeiten der Sowjetunion.",
+          "Hilft bei der Wasserregulierung für das Ferganatal."
+        ],
+        "hu": [
+          "240 MW-os kapacitásával az alsó kaszkád legkisebbje.",
+          "Hosszú késések után, 1996-ban állt munkába.",
+          "A Narin alsó folyásánál, az üzbég határ közelében fekszik.",
+          "Kiegyenlítő tározóként is funkcionál a vízhozamhoz.",
+          "Az ország déli részét látja el energiával.",
+          "Építése még a Szovjetunió fennállása alatt indult.",
+          "Segíti a Fergana-völgy vízellátásának szabályozását."
+        ],
+        "ro": [
+          "Cu 240 MW, este cea mai mică din cascada inferioară.",
+          "A fost pusă în funcțiune în 1996, după întârzieri lungi.",
+          "Situată pe cursul inferior al râului Naryn, lângă Uzbekistan.",
+          "Acționează ca un bazin de compensare pentru debitul de apă.",
+          "Furnizează electricitate pentru partea de sud a țării.",
+          "Construcția a fost demarată în timpul Uniunii Sovietice.",
+          "Ajută la reglarea apei pentru agricultura din Valea Fergana."
+        ],
+        "en": [
+          "At 240 MW, it is the smallest plant in the lower cascade.",
+          "Commissioned in 1996 after extensive delays.",
+          "Located on the lower Naryn River near the Uzbek border.",
+          "Functions as a balancing reservoir for water discharge.",
+          "Supplies crucial electricity to the south of the country.",
+          "Construction was initiated during the Soviet Union.",
+          "Aids in regulating irrigation water for the Fergana Valley."
+        ]
+      }
+    },
+    {
+      "id": "uch-kurgan-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Uch-Kurgan ist die älteste Anlage der Naryn-Kaskade und nahm bereits 1961 ihren Betrieb auf. Mit einer installierten Kapazität von 180 Megawatt wurde sie ursprünglich errichtet, um die rasch wachsende Industrie in der Region und angrenzende Bergbaubetriebe mit Strom zu versorgen. Als Pionierprojekt am Naryn legte es den Grundstein für die systematische hydrologische Erschließung des Flusses. Aufgrund des hohen Alters der Turbinen und Generatoren durchläuft das Kraftwerk derzeit Modernisierungsprogramme, um die Effizienz zu steigern und die Lebensdauer der technischen Infrastruktur für die kommenden Jahrzehnte zu sichern.",
+        "hu": "Az Uch-Kurgan Vízerőmű a Narin-kaszkád legrégebbi létesítménye, amely már 1961-ben megkezdte működését. A 180 megawattos beépített kapacitással rendelkező erőművet eredetileg azzal a céllal építették, hogy árammal lássa el a régió gyorsan fejlődő iparát és a közeli bányászati üzemeket. A Narin folyón úttörő projektként ez fektette le a folyó szisztematikus hidrológiai hasznosításának alapjait. A turbinák és generátorok magas kora miatt a létesítmény jelenleg modernizációs programokon esik át, amelyek célja a hatékonyság növelése és a technikai infrastruktúra élettartamának meghosszabbítása a következő évtizedekre.",
+        "ro": "Hidrocentrala Uch-Kurgan este cea mai veche facilitate a cascadei Naryn, începându-și activitatea încă din 1961. Cu o capacitate instalată de 180 de megawați, a fost construită inițial pentru a alimenta cu energie industria în expansiune rapidă și operațiunile miniere adiacente. Ca proiect de pionierat pe râul Naryn, a pus bazele dezvoltării hidrologice sistematice a acestuia. Din cauza vârstei înaintate a turbinelor și generatoarelor, centrala trece în prezent printr-un proces de modernizare, menit să îi crească eficiența și să asigure fiabilitatea infrastructurii tehnice pentru deceniile viitoare.",
+        "en": "The Uch-Kurgan Hydroelectric Power Station is the oldest facility in the Naryn cascade, having commenced operations back in 1961. With an installed capacity of 180 megawatts, it was originally built to supply power to the region's rapidly growing industry and adjacent mining operations. As a pioneer project on the Naryn River, it laid the groundwork for the river's systematic hydrological development. Due to the advanced age of its turbines and generators, the power plant is currently undergoing modernization programs designed to boost efficiency and extend the lifespan of its technical infrastructure for coming decades."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das älteste Kraftwerk der gesamten Naryn-Kaskade.",
+          "Wurde bereits im Jahr 1961 ans Netz angeschlossen.",
+          "Die installierte Leistung beträgt 180 Megawatt.",
+          "Wird derzeit durch internationale Kredite modernisiert.",
+          "Liefert Strom an den industriellen Sektor im Süden.",
+          "Hat eine relativ geringe Staudammhöhe.",
+          "Pionieranlage für den Ausbau der Wasserkraft in Kirgisistan."
+        ],
+        "hu": [
+          "A teljes Narin-kaszkád legkorábban épült erőműve.",
+          "Már 1961-ben rácsatlakoztatták az elektromos hálózatra.",
+          "A beépített névleges teljesítménye 180 megawatt.",
+          "Nemzetközi hitelekből jelenleg is modernizálják.",
+          "Dél-Kirgizisztán ipari szektorát látja el árammal.",
+          "Viszonylag alacsony duzzasztógáttal rendelkezik.",
+          "Úttörő beruházás volt a kirgiz vízenergia-fejlesztésben."
+        ],
+        "ro": [
+          "Cea mai veche centrală din întreaga cascadă Naryn.",
+          "A fost conectată la rețeaua electrică încă din 1961.",
+          "Capacitatea instalată este de 180 de megawați.",
+          "Este în curs de modernizare prin credite internaționale.",
+          "Furnizează energie sectorului industrial din sudul țării.",
+          "Are un baraj cu o înălțime relativ redusă.",
+          "Facilitate de pionierat în dezvoltarea hidroenergetică kârgâză."
+        ],
+        "en": [
+          "The oldest power station within the entire Naryn cascade.",
+          "Officially connected to the power grid in 1961.",
+          "Features an installed generating capacity of 180 megawatts.",
+          "Currently undergoing modernization via international loans.",
+          "Supplies electricity to the industrial sector in the south.",
+          "Features a relatively low structural dam height.",
+          "A pioneering facility for Kyrgyz hydropower development."
+        ]
+      }
+    },
+    {
+      "id": "kambar-ata-2-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Kambar-Ata-2 ist eine der jüngeren Ergänzungen zur kirgisischen Energieinfrastruktur am Naryn-Fluss. Der Bau begann zwar noch in den 1980er Jahren, wurde aber erst 2010 mit der Inbetriebnahme der ersten Turbine und einer Leistung von 120 Megawatt teilweise abgeschlossen. Eine Besonderheit der Anlage ist der Damm, der durch eine kontrollierte Explosion im Gebirge erschaffen wurde. Das Projekt ist eng mit dem deutlich größeren Vorhaben Kambar-Ata-1 verbunden, dessen Fertigstellung Kirgisistans Energieexportkapazitäten drastisch erhöhen soll. Kambar-Ata-2 hilft dabei, die Abhängigkeit von fossilen Brennstoffen in der Winterzeit zu reduzieren.",
+        "hu": "A Kambar-Ata-2 Vízerőmű a kirgiz energetikai infrastruktúra egyik újabb eleme a Narin folyón. Bár az építése még a 80-as években kezdődött, csak 2010-ben fejeződött be részlegesen az első, 120 megawattos turbina beindításával. A létesítmény különlegessége a gátja, amelyet egy hegyoldalban végrehajtott irányított robbantással hoztak létre. A projekt szorosan kapcsolódik a tervezett, jóval nagyobb Kambar-Ata-1-hez, amelynek megvalósítása drasztikusan növelné az ország áramexportját. A Kambar-Ata-2 jelenleg abban segít, hogy csökkentse Kirgizisztán téli fosszilis energiahordozó-függőségét.",
+        "ro": "Hidrocentrala Kambar-Ata-2 este una dintre adăugirile mai recente la infrastructura energetică a Kârgâzstanului pe râul Naryn. Deși lucrările au debutat în anii '80, prima fază a fost finalizată abia în 2010, cu pornirea unei turbine de 120 de megawați. O caracteristică unică a facilității este barajul său, format printr-o explozie controlată masivă a muntelui adiacent. Proiectul este strâns legat de planificata hidrocentrală Kambar-Ata-1, a cărei finalizare ar spori drastic capacitățile de export energetic ale țării. Kambar-Ata-2 ajută în prezent la reducerea dependenței de combustibilii fosili pe timpul iernii.",
+        "en": "The Kambar-Ata-2 Hydroelectric Power Station is one of the more recent additions to Kyrgyzstan's energy infrastructure along the Naryn River. Although initial construction began in the 1980s, the first phase was only completed in 2010 with the commissioning of a 120-megawatt turbine. A unique feature of the facility is its dam, which was created via a massive, controlled explosion of the adjacent mountainside. The project is closely linked to the much larger planned Kambar-Ata-1, which would drastically increase the nation's energy export capabilities. Kambar-Ata-2 currently helps to reduce the country's reliance on fossil fuels during winter."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich oberhalb des Toktogul-Stausees am Naryn.",
+          "Die erste Turbine ging im Jahr 2010 ans Netz.",
+          "Arbeitet derzeit mit einer Leistung von 120 MW.",
+          "Der Damm wurde durch eine gezielte Felssprengung errichtet.",
+          "Ist Teil des größeren Kambar-Ata-Ausbauprojekts.",
+          "Soll künftig um zwei weitere Turbinen erweitert werden.",
+          "Hilft bei der Bewältigung winterlicher Energieengpässe."
+        ],
+        "hu": [
+          "A Toktogul-tározó felett helyezkedik el a Narin folyón.",
+          "Az első turbinát 2010-ben kapcsolták a hálózatra.",
+          "Jelenleg 120 MW aktív teljesítménnyel működik.",
+          "A gátat egy irányított hegyomlasztásos robbantással alakították ki.",
+          "A szélesebb körű Kambar-Ata fejlesztés része.",
+          "A tervek szerint még két turbinával bővül a jövőben.",
+          "Segít enyhíteni a téli energiahiányos időszakokat."
+        ],
+        "ro": [
+          "Este amplasată în amonte de rezervorul Toktogul, pe Naryn.",
+          "Prima turbină a fost conectată la rețea în anul 2010.",
+          "Funcționează în prezent cu o capacitate de 120 MW.",
+          "Barajul a fost creat printr-o explozie direcționată a rocii.",
+          "Face parte din proiectul mai larg de expansiune Kambar-Ata.",
+          "Este planificată extinderea sa cu încă două turbine.",
+          "Contribuie la diminuarea deficitului energetic pe timp de iarnă."
+        ],
+        "en": [
+          "Located upstream of the Toktogul Reservoir on the Naryn.",
+          "The first turbine was successfully commissioned in 2010.",
+          "Currently operates with an output capacity of 120 MW.",
+          "The dam was formed by a directed massive rock explosion.",
+          "Part of the broader Kambar-Ata expansion initiative.",
+          "Planned to be expanded with two additional turbines.",
+          "Helps alleviate electricity shortages during the cold winter."
+        ]
+      }
+    },
+    {
+      "id": "bishkek-tpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wärmekraftwerk Bischkek ist die wichtigste thermische Energiequelle Kirgisistans und deckt einen großen Teil des Fernwärmebedarfs der Hauptstadt ab. Mit einer Stromkapazität von über 800 Megawatt verbrennt die Anlage große Mengen an Kohle, die primär aus der Mine Kara-Keche im Inland stammt. Da Wasserkraftwerke im Winter bei gefrorenen Flüssen weniger Strom produzieren, sichert das Kraftwerk Bischkek die Grundversorgung in den kalten Monaten. Eine umstrittene Modernisierung durch ein chinesisches Unternehmen im Jahr 2017 zielte darauf ab, die Effizienz zu steigern, löste jedoch politische und juristische Kontroversen aus. Die Emissionen der Anlage tragen erheblich zur winterlichen Luftverschmutzung in der Hauptstadt bei.",
+        "hu": "A Biskeki Hőerőmű Kirgizisztán legfontosabb termikus energiaforrása, amely a főváros távfűtési igényének jelentős részét biztosítja. A több mint 800 megawatt villamos kapacitású létesítmény hatalmas mennyiségű szenet éget el, amely főként a belföldi Kara-Keche bányából származik. Mivel a vízerőművek télen, a folyók befagyásakor kevesebb áramot termelnek, a biskeki erőmű garantálja az alapellátást a leghidegebb hónapokban. Egy 2017-es, kínai hitelből finanszírozott modernizáció a hatékonyság növelését célozta, de politikai és jogi botrányokat váltott ki. Az erőmű károsanyag-kibocsátása nagymértékben hozzájárul a főváros téli szmoghelyzetéhez.",
+        "ro": "Centrala Termoelectrică Bishkek este principala sursă de energie termică a Kârgâzstanului și acoperă o mare parte din necesarul de încălzire centralizată a capitalei. Cu o capacitate electrică de peste 800 de megawați, instalația arde cantități masive de cărbune, provenit în mare parte din mina internă Kara-Keche. Deoarece hidrocentralele produc mai puțin curent iarna când râurile îngheață, centrala asigură stabilitatea energetică în lunile reci. O modernizare din 2017, realizată cu împrumuturi chineze, a vizat creșterrea eficienței, dar a declanșat controverse politice și anchete judiciare. Emisiile centralei contribuie semnificativ la poluarea aerului din capitală pe timp de iarnă.",
+        "en": "The Bishkek Thermal Power Plant is Kyrgyzstan's most vital thermal energy source, supplying a massive portion of the capital's district heating. With an electricity generation capacity exceeding 800 megawatts, the facility burns vast quantities of coal, primarily sourced from the domestic Kara-Keche mine. Because hydroelectric outputs drop during winter when rivers freeze, the Bishkek plant guarantees baseline power and heat during the coldest months. A 2017 modernization project funded by Chinese loans aimed to boost efficiency but resulted in major political and legal scandals. The plant's emissions significantly contribute to the capital's severe winter smog."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im östlichen Industriegebiet von Bischkek.",
+          "Verfügt über eine Kapazität von mehr als 800 Megawatt.",
+          "Wird primär mit heimischer Braunkohle betrieben.",
+          "Ist die wichtigste Fernwärmequelle der Hauptstadt.",
+          "Produziert im Winter den Löwenanteil des Stroms im Norden.",
+          "Wurde 2017 mit einem Kredit aus China umfassend modernisiert.",
+          "Gilt als einer der Hauptfaktoren für den Smog in Bischkek."
+        ],
+        "hu": [
+          "Biskek keleti ipari övezetében található.",
+          "Több mint 800 megawattos beépített kapacitással bír.",
+          "Elsősorban hazai barnaszenet használ fűtőanyagként.",
+          "A főváros legfőbb távfűtési szolgáltatója.",
+          "Télen ez adja az északi országrész áramának zömét.",
+          "2017-ben kínai hitelből átfogóan felújították.",
+          "A biskeki téli szmog egyik fő okozójaként tartják számon."
+        ],
+        "ro": [
+          "Este amplasată în zona industrială de est a orașului Bishkek.",
+          "Are o capacitate de generare de peste 800 de megawați.",
+          "Funcționează în principal cu lignit extras local.",
+          "Este sursa principală pentru încălzirea centralizată a capitalei.",
+          "Produce majoritatea electricității din nord pe timp de iarnă.",
+          "A fost modernizată în 2017 printr-un împrumut din China.",
+          "Este considerată o cauză majoră a smogului hibernal din oraș."
+        ],
+        "en": [
+          "Located in the eastern industrial zone of Bishkek.",
+          "Features a generating capacity exceeding 800 megawatts.",
+          "Fueled primarily by domestically mined brown coal.",
+          "Serves as the main district heating source for the capital.",
+          "Produces the bulk of the northern region's electricity in winter.",
+          "Underwent a major modernization in 2017 backed by China.",
+          "Identified as a primary contributor to Bishkek's winter smog."
+        ]
+      }
+    },
+    {
+      "id": "dordoi-bazaar-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Dordoi-Basar am nördlichen Rand von Bischkek ist einer der größten Umschlagplätze für Konsumgüter in ganz Asien und ein wirtschaftliches Phänomen. Er wurde Anfang der 1990er Jahre gegründet und basiert strukturell auf Tausenden von gestapelten Schiffscontainern, die als Verkaufsstände und Lager dienen. Das Marktzentrum funktioniert als gigantischer Knotenpunkt für den Reexport billiger Waren aus China in Länder wie Russland und Kasachstan. Dordoi bietet Arbeitsplätze für Zehntausende von Menschen, von Händlern bis hin zu Logistikern, und erwirtschaftet Milliardenumsätze. Die Integration Kirgisistans in die Eurasische Wirtschaftsunion hat die Zölle und Lieferketten des Basars nachhaltig verändert.",
+        "hu": "A Biskek északi peremén elterülő Dordoi Bazár egész Ázsia egyik legnagyobb áruelosztó központja, amely önmagában egy gazdasági jelenség. A 90-es évek elején létrejött piac struktúráját több tízezer egymásra rakott tengeri konténer adja, amelyek egyszerre szolgálnak boltként és raktárként. A létesítmény óriási csomópontként funkcionál az olcsó kínai áruk Oroszországba és Kazahsztánba történő reexportjában. A Dordoi több tízezer embernek ad munkát az eladóktól a logisztikai személyzetig, forgalma pedig milliárdos nagyságrendű. Kirgizisztán csatlakozása az Eurázsiai Gazdasági Unióhoz jelentősen átformálta a bazár vámszabályait és ellátási láncait.",
+        "ro": "Bazarul Dordoi, situat la marginea de nord a orașului Bishkek, este unul dintre cele mai mari centre de distribuție a bunurilor de larg consum din Asia și un adevărat fenomen economic. Înființat la începutul anilor 1990, piața este construită structural din zeci de mii de containere maritime suprapuse, care servesc drept magazine și depozite. Acesta funcționează ca un nod gigantic pentru reexportul de mărfuri ieftine din China către țări precum Rusia și Kazahstan. Dordoi oferă locuri de muncă pentru zeci de mii de oameni, de la comercianți la personal logistic, generând cifre de afaceri de miliarde. Integrarea Kârgâzstanului în Uniunea Economică Eurasiatică a schimbat procedurile vamale ale bazarului.",
+        "en": "Dordoi Bazaar, located on the northern outskirts of Bishkek, is one of the largest consumer goods distribution centers in Asia and a massive economic phenomenon. Established in the early 1990s, the market is physically built from tens of thousands of stacked shipping containers that serve as both storefronts and warehouses. The bazaar operates as a gigantic hub for re-exporting cheap goods manufactured in China to nations like Russia and Kazakhstan. Dordoi provides direct employment for tens of thousands of individuals, ranging from vendors to logistics staff, turning over billions annually. Kyrgyzstan's integration into the Eurasian Economic Union has shifted the market's customs procedures and supply chains."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich am Rande der Hauptstadt Bischkek.",
+          "Besteht aus über 30.000 umfunktionierten Schiffscontainern.",
+          "Wurde kurz nach der Unabhängigkeit 1992 eröffnet.",
+          "Ist ein zentraler Umschlagplatz für Waren aus China.",
+          "Beschäftigt direkt und indirekt zehntausende Menschen.",
+          "Zählt zu den flächenmäßig größten Märkten in ganz Asien.",
+          "Wichtiges Zentrum für den Textil- und Bekleidungshandel."
+        ],
+        "hu": [
+          "A főváros, Biskek északi határánál terül el.",
+          "Több mint 30 000 átalakított tengeri konténerből áll.",
+          "Nem sokkal a függetlenedés után, 1992-ben nyílt meg.",
+          "A kínai áruk legfőbb közép-ázsiai elosztóközpontja.",
+          "Közvetve és közvetlenül tízezreket foglalkoztat.",
+          "Területét tekintve Ázsia egyik legnagyobb piaca.",
+          "A textil- és ruházati kereskedelem kulcsfontosságú központja."
+        ],
+        "ro": [
+          "Este situat la periferia nordică a capitalei Bishkek.",
+          "Este compus din peste 30.000 de containere maritime modificate.",
+          "A fost inaugurat în 1992, imediat după independență.",
+          "Este un hub central pentru mărfurile importate din China.",
+          "Angajează direct și indirect zeci de mii de cetățeni.",
+          "Se numără printre cele mai mari piețe ca suprafață din Asia.",
+          "Centru esențial pentru comerțul cu textile și îmbrăcăminte."
+        ],
+        "en": [
+          "Located on the northern perimeter of the capital, Bishkek.",
+          "Composed of over 30,000 repurposed shipping containers.",
+          "Opened in 1992 shortly after national independence.",
+          "Acts as a major redistribution hub for Chinese imports.",
+          "Employs tens of thousands of citizens directly and indirectly.",
+          "Ranks among the largest markets by physical area in Asia.",
+          "A critical center for the regional textile and clothing trade."
+        ]
+      }
+    }
+  ]
+}

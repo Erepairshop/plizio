@@ -1,0 +1,49 @@
+{
+  "lang": "de",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "eagle-encounters-life-v2",
+      "description": "Eagle Encounters ist eine Greifvogel-Auffangstation auf dem Gelände des Spier Weinguts. Hier werden verletzte Tiere rehabilitiert und Besucher können hautnah mehr über diese Jäger erfahren.",
+      "facts": ["Rehabilitationszentrum für Vögel", "Interaktive Flugvorführungen", "Gelegen auf dem Spier Weingut"]
+    },
+    {
+      "id": "monkey-land-life-v2",
+      "description": "Monkeyland ist ein weltweit einzigartiges Primatenschutzgebiet bei Plettenberg Bay. Die Affen leben dort in einer riesigen, für Besucher begehbaren Waldanlage.",
+      "facts": ["Freilaufendes Primatengebiet", "Geführte Waldspaziergänge", "Einsatz für den Artenschutz"]
+    },
+    {
+      "id": "bird-of-prey-life-v2",
+      "description": "Dieses Zentrum widmet sich der Aufzucht und dem Schutz bedrohter Greifvogelarten. Es bietet Einblicke in das Verhalten von Adlern, Falken und Eulen in ihrer natürlichen Umgebung.",
+      "facts": ["Fokus auf Raubvogelarten", "Erhaltung bedrohter Bestände", "Lehrreiche Flugdemonstrationen"]
+    },
+    {
+      "id": "aquila-safari-life-v2",
+      "description": "Das Aquila Private Game Reserve ermöglicht Safaris in unmittelbarer Nähe von Kapstadt. Besucher können hier die 'Big Five' beobachten und mehr über den Naturschutz erfahren.",
+      "facts": ["Privates Wildreservat", "Nähe zu Kapstadt", "Schutz für bedrohte Tierarten"]
+    },
+    {
+      "id": "butterfly-world-kids-life-v2",
+      "description": "Butterfly World ist ein tropischer Garten, in dem tausende Schmetterlinge aus aller Welt fliegen. Es bietet eine faszinierende Umgebung für Kinder und Naturliebhaber.",
+      "facts": ["Tropisches Schmetterlingshaus", "Interaktives Lernen für Kinder", "Exotische Pflanzenarten"]
+    },
+    {
+      "id": "botanical-garden-jhb-life-v2",
+      "description": "Der Walter Sisulu National Botanical Garden in Johannesburg bietet eine üppige Pflanzenwelt und den spektakulären Witpoortjie-Wasserfall. Er ist ein bedeutender Zufluchtsort für zahlreiche Vogelarten.",
+      "facts": ["Heimat seltener Pflanzenarten", "Blick auf den Witpoortjie-Wasserfall", "Grünes Paradies in der Stadt"]
+    },
+    {
+      "id": "croc-city-life-v2",
+      "description": "Croc City ist ein Krokodil- und Reptilienpark bei Johannesburg. Er bietet Besuchern die Gelegenheit, Krokodile, Schlangen und andere Reptilien aus nächster Nähe zu beobachten.",
+      "facts": ["Fokus auf Krokodilaufzucht", "Interaktive Reptilienshows", "Zentrum für Reptilienschutz"]
+    },
+    {
+      "id": "cheetah-sanctuary-life-v2",
+      "description": "Diese Auffangstation widmet sich dem Schutz und der Rehabilitation von Geparden. Besucher lernen hier über die Gefahren, denen die schnellsten Landsäugetiere in freier Wildbahn ausgesetzt sind.",
+      "facts": ["Spezialisierung auf Geparden", "Aufklärungsarbeit zum Schutz", "Besuchermöglichkeiten vor Ort"]
+    }
+  ]
+}

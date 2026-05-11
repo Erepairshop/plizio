@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bulula-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bulula ist eine strategisch wichtige Siedlung im Südwesten von Guinea-Bissau, gelegen in der Region Quinará. Sie fungiert als administratives und kommerzielles Zentrum für die umliegenden ländlichen Gemeinschaften. Geografisch liegt der Ort am Übergang zwischen den flachen Küstenebenen und dem hügeligen Hinterland, was ihn zu einem wichtigen Transitknotenpunkt für den Transport von Agrarprodukten macht. Die lokale Wirtschaft basiert primär auf dem Handel mit Cashewnüssen, Palmöl und Fisch, der aus dem nahen Rio Grande de Buba stammt. Bulula zeichnet sich durch eine Mischung aus traditionellen Lehmbauten und funktionalen kolonialen Strukturen aus. Die soziale Struktur ist multietnisch, wobei Gemeinschaften der Balanta und Fula das Ortsbild prägen. Trotz der bescheidenen Infrastruktur ist Bulula ein lebendiger Ort, der durch seinen Wochenmarkt eine zentrale Rolle für die regionale Ernährungssicherheit spielt. Die umliegende Landschaft ist geprägt von dichten Palmenhainen, die die Grundlage für die lokale Palmweinproduktion bilden.",
+        "hu": "Bulula Guinea-Bissau délnyugati részén, Quinará régióban fekvő stratégiai jelentőségű település. Az ország egyik legfontosabb belső kereskedelmi csomópontja, amely közvetítő szerepet tölt be a part menti vidékek és a belső területek között. Földrajzi elhelyezkedése a Rio Grande de Buba torkolatához közel fekvő szárazföldi területeken van, így a város élete szorosan összefügg a folyami és közúti szállítással. A gazdaság motorját a kesudió-kereskedelem, a pálmaolaj-termelés és a tengeri halak forgalmazása jelenti. Bulula építészeti arculata a hagyományos afrikai vályogházak és a gyarmati korszakból fennmaradt funkcionális épületek sajátos keveréke. A társadalmi struktúra multietnikus, főként balanta és fula közösségek alkotják a lakosságot. A város heti piaca az egész régió számára kulcsfontosságú élelmezésbiztonsági pont, ahol a helyi termelők cserélik ki áruikat. A környező tájat hatalmas olajpálma-ligetek uralják, amelyek a helyi pálmabor-készítés alapanyagát biztosítják. Bulula csendes, de gazdaságilag nélkülözhetetlen bástyája a guineai vidéknek.",
+        "ro": "Bulula este o așezare de o importanță strategică deosebită în sud-vestul Guineei-Bissau, situată în regiunea Quinará. Localitatea funcționează ca un centru administrativ și comercial esențial pentru comunitățile rurale înconjurătoare. Din punct de vedere geografic, orașul este amplasat la punctul de tranziție între câmpiile de coastă joase și hinterlandul deluros, fiind un nod de tranzit vital pentru transportul produselor agricole. Economia locală este susținută în principal de comerțul cu nuci caju, ulei de palmier și pește provenit din estuarul Rio Grande de Buba din apropiere. Peisajul arhitectural din Bulula prezintă un amestec de case tradiționale din chirpici și structuri funcționale din perioada colonială. Structura socială este multietnică, comunitățile Balanta și Fula fiind deosebit de proeminente. În ciuda infrastructurii modeste, Bulula joacă un rol critic în securitatea alimentară regională prin piața sa săptămânală, unde producătorii locali schimbă culturi agricole și animale. Peisajul înconjurător este dominat de plantații vaste de palmieri de ulei, care furnizează materia primă pentru producția tradițională de vin de palmier a regiunii.",
+        "en": "Bulula is a strategically significant settlement in southwestern Guinea-Bissau, located within the Quinará region. It serves as an essential administrative and commercial hub for the surrounding rural communities. Geographically, the town is situated at the transition point between the flat coastal lowlands and the rolling hinterland, making it a vital transit node for the transportation of agricultural goods. The local economy is primarily driven by the trade of cashew nuts, palm oil, and fish sourced from the nearby Rio Grande de Buba. Bulula’s architectural landscape features a blend of traditional mud-brick houses and functional structures from the colonial era. The social structure is multi-ethnic, with the Balanta and Fula communities being particularly prominent. Despite its modest infrastructure, Bulula plays a critical role in regional food security through its weekly market, where local producers exchange crops and livestock. The surrounding countryside is dominated by vast oil palm groves, which provide the raw materials for the region's traditional palm wine production."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bulula ist ein wichtiger Knotenpunkt an der Straße nach Buba.",
+          "Der Ort beherbergt einen der größten Wochenmärkte der Quinará-Region.",
+          "Palmwein ist das bekannteste lokale Erzeugnis der Umgebung.",
+          "Die Bevölkerung besteht vorwiegend aus den ethnischen Gruppen Balanta und Fula.",
+          "Geografisch liegt die Stadt nahe dem tiefsten Meeresarm Westafrikas.",
+          "Traditionelle Webkunst ist in den umliegenden Dörfern noch weit verbreitet."
+        ],
+        "hu": [
+          "Bulula fontos közúti csomópont a Buba felé vezető úton.",
+          "Itt található Quinará régió egyik legnagyobb heti piaca.",
+          "A település környékének legismertebb terméke a hagyományos pálmabor.",
+          "A lakosság többségét a balanta és fula népcsoportok alkotják.",
+          "Földrajzilag közel fekszik Nyugat-Afrika legmélyebb tengeri benyúlásához.",
+          "A környező falvakban a mai napig él a hagyományos szövőművészet."
+        ],
+        "ro": [
+          "Bulula este un nod rutier crucial pe drumul către orașul Buba.",
+          "Găzduiește una dintre cele mai mari piețe săptămânale din regiunea Quinará.",
+          "Vinul de palmier este cel mai faimos produs local al zonei.",
+          "Populația este formată preponderent din grupurile etnice Balanta și Fula.",
+          "Geografic, orașul se află lângă cel mai adânc braț de mare din Africa de Vest.",
+          "Arta tradițională a țesutului este încă practicată în satele din jur."
+        ],
+        "en": [
+          "Bulula acts as a major road junction on the highway leading to Buba.",
+          "It hosts one of the largest weekly markets in the Quinará region.",
+          "Palm wine is the most renowned local product from the area.",
+          "The population mainly comprises the Balanta and Fula ethnic groups.",
+          "Geographically, it is located near West Africa's deepest saltwater inlet.",
+          "Traditional weaving techniques are still preserved in the nearby villages."
+        ]
+      }
+    },
+    {
+      "id": "uno-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Uno ist der Hauptort der gleichnamigen Insel im Bijagós-Archipel und repräsentiert eines der wichtigsten kulturellen und wirtschaftlichen Zentren der westlichen Inselgruppe. Das Dorf ist geprägt von der traditionellen Architektur des Bijagó-Volkes, kombiniert mit einigen administrativen Gebäuden aus der Kolonialzeit. Uno dient als zentraler Sammelpunkt für die Produktion von Palmöl und den Fang von Trockenfisch, der von hier aus per Boot zum Festland transportiert wird. Die Siedlung ist nach strengen sozialen Regeln organisiert, wobei das Matriarchat der Bijagós hier noch immer eine bedeutende Rolle spielt. Die Topografie um Uno ist flach und von Kokospalmen gesäumt, was dem Ort ein klassisches tropisches Aussehen verleiht. In den letzten Jahren hat sich Uno zu einem bescheidenen Stützpunkt für den Ökotourismus entwickelt, da Reisende von hier aus die unberührten Strände und die reiche Meeresbiodiversität der Region erkunden. Der Ort bewahrt eine tiefe spirituelle Verbindung zu den heiligen Stätten im Inselinneren. Uno ist ein Symbol für die kulturelle Kontinuität der Inselbewohner inmitten der Moderne.",
+        "hu": "Uno a Bijagós-szigetcsoport azonos nevű szigetének központi települése, és a nyugati szigetvilág egyik legmeghatározóbb kulturális központja. A falu képét a bijagó nép hagyományos építészete és néhány régi, gyarmati közigazgatási épület határozza meg. Uno stratégiai gyűjtőhelye a régió pálmaolaj-termelésének és a szárított hal készítésének, amelyeket innen szállítanak hajóval a szárazföldi piacokra. A település szigorú társadalmi szabályok szerint működik, ahol a szigetvilágra jellemző matriarchátus ma is élő és erős hagyomány. Uno domborzata sík, kókuszpálmákkal szegélyezett partjai a trópusi táj klasszikus képét idézik. Az utóbbi években a település az ökoturizmus egyik szerény bázisává is vált, mivel innen indulnak a túrák a sziget érintetlen strandjaihoz és a tengeri biodiverzitás megfigyelésére. A helyiek mély spirituális kapcsolatot ápolnak a sziget belsejében található szent helyekkel. Uno nem csupán egy falu, hanem a bijagó identitás megőrzésének egyik legfontosabb helyszíne a modern világ hatásai közepette.",
+        "ro": "Uno este principala așezare de pe insula cu același nume din Arhipelagul Bijagós, reprezentând unul dintre cele mai importante centre culturale și economice ale grupului de insule din vest. Satul este caracterizat de arhitectura tradițională Bijagó, intercalată cu câteva clădiri administrative ce datează din perioada colonială. Uno servește drept punct central de colectare pentru producția de ulei de palmier a regiunii și pentru procesarea peștelui uscat, care este transportat cu barca spre piețele de pe continent. Așezarea funcționează conform unor protocoale sociale stricte, unde tradițiile matriarhale ale poporului Bijagó rămân vibrante și influente. Topografia din jurul satului Uno este plană și mărginită de cocotieri, oferind aspectul clasic al unei insule tropicale. În ultimii ani, Uno s-a dezvoltat ca o bază modestă pentru ecoturism, călătorii utilizând satul ca punct de plecare pentru a explora plajele virgine și biodiversitatea marină bogată a regiunii. Locuitorii mențin o legătură spirituală profundă cu siturile sacre situate în interiorul insulei.",
+        "en": "Uno is the principal settlement on the island of the same name in the Bijagós Archipelago, representing one of the most important cultural and economic centers of the western island group. The village is characterized by traditional Bijagó architecture interspersed with a few administrative buildings dating back to the colonial period. Uno serves as a central collection point for the region's palm oil production and the processing of dried fish, which are transported by boat to the mainland markets. The settlement operates under strict social protocols, where the matriarchal traditions of the Bijagó people remain vibrant and influential. The topography around Uno is flat and lined with coconut palms, offering a quintessential tropical island appearance. In recent years, Uno has developed into a modest base for ecotourism, as travelers use the village as a starting point to explore pristine beaches and the region's rich marine biodiversity. The residents maintain a deep spiritual connection to the sacred sites located within the island's interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Uno ist eines der am besten erhaltenen traditionellen Zentren der Bijagó-Kultur.",
+          "Der Ort ist nur über unregelmäßige Bootsverbindungen von Bubaque oder Bissau erreichbar.",
+          "Frauen haben in Uno traditionell die Entscheidungsgewalt über Land und Ressourcen.",
+          "Der Export von getrocknetem Fisch ist die Haupteinnahmequelle des Ortes.",
+          "Uno beherbergt bedeutende heilige Haine, die für Zeremonien genutzt werden.",
+          "Die Architektur besteht primär aus Lehmwänden und kegelförmigen Strohdächern."
+        ],
+        "hu": [
+          "Uno a bijagó kultúra egyik legépebben megmaradt hagyományos központja.",
+          "A település csak szabálytalan hajójáratokkal érhető el Bubaque-ból vagy Bissauból.",
+          "A nőknek Unóban hagyományosan döntő szavuk van a föld és az erőforrások felett.",
+          "A szárított hal exportja a falu legfőbb bevételi forrása.",
+          "Uno jelentős szent ligeteknek ad otthont, amelyeket rituális célokra használnak.",
+          "Az építészetet főként vályogfalak és kúp alakú szalmatetők jellemzik."
+        ],
+        "ro": [
+          "Uno este unul dintre cele mai bine conservate centre tradiționale ale culturii Bijagó.",
+          "Localitatea este accesibilă doar prin conexiuni navale neregulate din Bubaque sau Bissau.",
+          "Femeile din Uno dețin tradițional puterea de decizie asupra terenurilor și resurselor.",
+          "Exportul de pește uscat constituie principala sursă de venit a localității.",
+          "Uno găzduiește crânguri sacre importante, utilizate pentru ceremonii.",
+          "Arhitectura constă în principal din pereți de lut și acoperișuri conice din paie."
+        ],
+        "en": [
+          "Uno is among the best-preserved traditional centers of Bijagó cultural life.",
+          "The settlement is accessible only via irregular boat trips from Bubaque or Bissau.",
+          "Women in Uno traditionally exercise authority over land and shared resources.",
+          "The export of dried fish is the village's primary economic activity.",
+          "Uno is home to significant sacred groves used for communal ceremonies.",
+          "The architecture features primarily mud walls and conical thatched roofs."
+        ]
+      }
+    },
+    {
+      "id": "caravela-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Die Siedlung Caravela auf der gleichnamigen Insel im Norden des Bijagós-Archipels ist einer der am isoliertesten und ursprünglichsten Orte der Region. Caravela ist mehr als eine bloße Ansammlung von Hütten; es ist ein hochgradig organisiertes Dorf, das tief in den spirituellen Traditionen des Bijagó-Volkes verwurzelt ist. Die Architektur besteht fast ausschließlich aus natürlichen Materialien wie Lehm, Stroh und Palmenholz, was den Ort harmonisch in die dichte tropische Vegetation integriert. Die Wirtschaft von Caravela ist weitgehend autark und basiert auf der handwerklichen Fischerei und der Ernte von wilden Ölpalmen. Aufgrund der fehlenden motorisierten Infrastruktur und der weiten Entfernung zum Festland hat sich hier ein Lebensstil erhalten, der kaum von modernen Einflüssen berührt wurde. Caravela fungiert als kultureller Anker für die nördlichen Inseln und ist bekannt für seine kunstvollen Maskentänze und Zeremonien. Die Umgebung bietet spektakuläre, unberührte Sandstrände, die nur selten von Fremden besucht werden. Der Schutz der natürlichen Ressourcen ist hier Teil der religiösen Praxis, was Caravela zu einem Musterbeispiel für indigene Nachhaltigkeit macht.",
+        "hu": "Caravela az azonos nevű sziget fő települése a Bijagós-szigetcsoport északi részén, és az egyik legelszigeteltebb, legeredetibb formában fennmaradt közösség a térségben. Caravela több mint egy egyszerű falusi település: ez egy magas szinten szervezett közösség, amely mélyen gyökerezik a bijagó nép spirituális hagyományaiban. Az építészet szinte kizárólag természetes anyagokból – vályogból, szalmából és pálmából – áll, így a falu szinte észrevétlenül simul bele a sűrű trópusi növényzetbe. A helyi gazdaság nagyrészt önellátó, alapját a kézműves halászat és a vadon élő olajpálmák betakarítása adja. A modern infrastruktúra hiánya és a szárazföldtől való nagy távolság miatt itt egy olyan életmód maradt fent, amelyet alig érintettek a külvilág hatásai. Caravela az északi szigetek kulturális horgonya, híres művészi maszkos táncairól és bonyolult szertartásairól. A település környékén látványos, érintetlen homokos strandok találhatók, amelyeket csak ritkán látogatnak idegenek, megőrizve a hely háborítatlan nyugalmát. A természeti erőforrások védelme itt a vallási gyakorlat része, ami Caravelát az őshonos fenntarthatóság mintapéldájává teszi.",
+        "ro": "Așezarea Caravela de pe insula omonimă din nordul Arhipelagului Bijagós este una dintre cele mai izolate și autentice comunități din regiune. Caravela este mai mult decât un simplu grup de locuințe; este un sat extrem de bine organizat, cu rădăcinili adânci în tradițiile spirituale ale poporului Bijagó. Arhitectura constă aproape în întregime din materiale naturale, cum ar fi lutul, stuful și lemnul de palmier, permițând satului să se integreze armonios în vegetația tropicală densă. Economia din Caravela este în mare măsură autosuficientă, bazată pe pescuitul artizanal și recoltarea palmierilor de ulei sălbatici. Din cauza lipsei infrastructurii motorizate și a distanței semnificative față de continent, aici s-a păstrat un stil de viață care rămâne în mare parte neatins de influențele externe moderne. Caravela funcționează ca o ancoră culturală pentru insulele nordice și este renumită pentru dansurile sale cu măști elaborate și ceremoniile complexe de inițiere. Zona înconjurătoare oferă plaje de nisip spectaculoase și virgine, care sunt rareori vizitate de străini, menținând un sentiment de izolare profundă.",
+        "en": "The settlement of Caravela on the eponymous island in the northern Bijagós Archipelago is one of the most isolated and authentic communities in the region. Caravela is more than a simple cluster of dwellings; it is a highly organized village deeply rooted in the spiritual traditions of the Bijagó people. The architecture consists almost entirely of natural materials such as mud, thatch, and palm wood, allowing the village to blend seamlessly into the dense tropical vegetation. Caravela's economy is largely self-sufficient, based on artisanal fishing and the harvesting of wild oil palms. Due to the lack of motorized infrastructure and its significant distance from the mainland, a lifestyle has been preserved here that remains largely untouched by modern external influences. Caravela functions as a cultural anchor for the northern islands and is renowned for its elaborate mask dances and complex initiation ceremonies. The surrounding area offers spectacular, untouched sandy beaches that are rarely visited by outsiders, maintaining a sense of profound isolation and natural purity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Caravela ist eine der am schwierigsten zu erreichenden Siedlungen des Archipels.",
+          "Die Inselbewohner sind berühmt für den Bau von schnellen Segel-Einbäumen.",
+          "Es gibt keine permanenten kommerziellen Geschäfte; der Handel erfolgt durch Tausch.",
+          "Das Dorf ist bekannt für seine rituellen Gesänge und Trommelrhythmen.",
+          "Die umliegenden Gewässer beherbergen seltene marine Arten wie Seekühe.",
+          "Die Tabanca (Dorfgemeinschaft) wird von einem Rat der Ältesten geleitet."
+        ],
+        "hu": [
+          "Caravela a szigetvilág egyik legnehezebben megközelíthető települése.",
+          "A szigetlakók híresek a gyors vitorlás kenuk (fatörzsből vájt hajók) készítéséről.",
+          "Nincsenek állandó üzletek; a kereskedelem nagyrészt cserén alapul.",
+          "A falu híres rituális énekeiről és dobritmusairól.",
+          "A környező vizek olyan ritka tengeri fajoknak adnak otthont, mint a manátuszok.",
+          "A tabancát (faluközösséget) a vének tanácsa irányítja."
+        ],
+        "ro": [
+          "Caravela este una dintre așezările cel mai greu accesibile din arhipelag.",
+          "Insularii sunt renumiți pentru construcția de canoe cu pânze rapide, cioplite în trunchiuri.",
+          "Nu există magazine comerciale permanente; comerțul se face prin troc.",
+          "Satul este cunoscut pentru cântecele rituale și ritmurile de tobe unice.",
+          "Apele din jur adăpostesc specii marine rare, precum lamantinii.",
+          "Tabanca (comunitatea satului) este condusă de un consiliu al bătrânilor."
+        ],
+        "en": [
+          "Caravela is among the most difficult settlements to reach within the archipelago.",
+          "Islanders are famous for crafting swift sailing dugouts from single trunks.",
+          "There are no permanent commercial shops; trade is primarily conduct via barter.",
+          "The village is renowned for its unique ritual songs and complex drum rhythms.",
+          "The surrounding coastal waters are home to rare species like manatees.",
+          "The tabanca (village community) is governed by a traditional council of elders."
+        ]
+      }
+    },
+    {
+      "id": "formosa-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Formosa ist das wichtigste Siedlungszentrum auf der flächenmäßig größten Insel des Bijagós-Archipels. Trotz der Größe der Insel ist der Ort Formosa eher beschaulich und dient als administrativer Knotenpunkt für die verstreuten Gemeinschaften der Insel. Die Lage des Ortes in einer geschützten Bucht war historisch entscheidend für den Schutz vor Piraten und Kolonialmächten. Die Natur dominiert das Ortsbild, wobei dichte Mangrovenwälder und Palmensavannen direkt an die Wohnbereiche grenzen. Die Bewohner von Formosa sind Experten im Umgang mit den Gezeiten und nutzen diese für den Fang von Schalentieren und die Anlage von Reisfeldern. Der Ort ist bekannt für seine starke traditionelle Hierarchie, in der Älteste und Priesterinnen über die Landnutzung entscheiden. Formosa stellt eine ökologische Barriere dar und schützt die kleineren inneren Inseln des Archipels. Der Ort ist nur per Boot erreichbar, was den Austausch mit Bissau erschwert, aber zum Erhalt der einzigartigen kulturellen Identität beigetragen hat. Die Architektur bewahrt den klassischen Stil der Tabancas mit zentralen Gemeinschaftsplätzen.",
+        "hu": "Formosa a Bijagós-szigetcsoport legnagyobb területű szigetének legfontosabb települése. A sziget mérete ellenére maga a falu viszonylag kicsi, és adminisztratív központként szolgál a szigeten szétszórtan élő közösségek számára. A település elhelyezkedése egy védett öbölben történelmileg kulcsfontosságú volt a kalózok és a gyarmati hatalmak elleni védekezésben. A természet uralja a faluképet: a sűrű mangroveerdők és pálmaszavannák közvetlenül határosak a lakóterületekkel. Formosa lakói az apály-dagály ciklusok mesterei, ezt használják ki a puhatestűek gyűjtéséhez és a rizsföldek kialakulásához. A település híres erős hagyományos hierarchiájáról, ahol a vének tanácsa és a papnők döntenek a földhasználatról és a közösségi ügyekről. Formosa ökológiai gátként is működik, védve a szigetcsoport belső, kisebb szigeteit az óceáni hatásoktól. Csak hajóval közelíthető meg, ami megnehezíti a kapcsolattartást a fővárossal, de segít megőrizni az egyedülálló kulturális örökséget. Az építészet hűen őrzi a tabancák klasszikus stílusát a központi közösségi terekkel.",
+        "ro": "Formosa este principalul centru rezidențial de pe cea mai mare insulă din Arhipelagul Bijagós ca suprafață. În ciuda dimensiunii vaste a insulei, așezarea Formosa este relativ mică și servește drept centru administrativ pentru comunitățile împrăștiate în interior. Amplasarea satului într-un golf adăpostit a fost istoric crucială pentru protecția împotriva piraților și a incursiunilor coloniale. Natura domină peisajul urban, cu păduri dense de mangrove și savane de palmieri care mărginesc direct zonele rezidențiale. Locuitorii din Formosa sunt experți în navigarea ciclurilor mareelor, utilizându-le pentru colectarea moluștelor și crearea câmpurilor de orez în interiorul insulei. Așezarea este cunoscută pentru ierarhia sa tradițională puternică, unde un consiliu de bătrâni și preotese gestionează utilizarea terenurilor și disputele comunitare. Formosa acționează ca un tampon ecologic natural, protejând insulele interioare mai mici ale arhipelagului de forțele oceanice. Accesibilă doar cu barca, așezarea se confruntă cu provocări în comunicarea cu capitala Bissau, fapt ce a ajutat la păstrarea moștenirii sale culturale unice.",
+        "en": "Formosa is the primary residential center on the largest island of the Bijagós Archipelago. Despite the island's vast size, the settlement of Formosa is relatively small and serves as the administrative hub for the scattered communities across the interior. The town's location within a sheltered bay was historically crucial for protection against pirates and colonial incursions. Nature dominates the urban landscape, with dense mangrove forests and palm savannas directly bordering the residential areas. The inhabitants of Formosa are experts in navigating tidal cycles, utilizing them for shellfish gathering and the creation of inland rice fields. The settlement is known for its strong traditional hierarchy, where a council of elders and priestesses manage land use and communal disputes. Formosa acts as a natural ecological buffer, protecting the smaller inner islands of the archipelago from oceanic forces. Accessible only by boat, the settlement faces challenges in communication with the capital, Bissau, which has helped preserve its unique cultural heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Insel Formosa ist die flächenmäßig größte des gesamten Archipels.",
+          "Der Ort dient als regionales Zentrum für die Bildung der Inseljugend.",
+          "Traditioneller Reisanbau in Mangrovengebieten ist die Hauptstütze der Ernährung.",
+          "Formosa verfügt über bedeutende natürliche Salzvorkommen.",
+          "Es gibt Pläne zur Förderung des nachhaltigen Naturtourismus in der Region.",
+          "Die Dorfpriesterinnen von Formosa genießen hohes gesellschaftliches Ansehen."
+        ],
+        "hu": [
+          "Formosa szigete az egész szigetcsoport legnagyobb területű tagja.",
+          "A település regionális oktatási központként szolgál a sziget fiataljai számára.",
+          "A mangrove-területeken folytatott rizstermesztés az élelmezés alapja.",
+          "Formosa jelentős természetes sólelőhelyekkel rendelkezik.",
+          "Tervek készültek a fenntartható természetvédelmi turizmus fejlesztésére.",
+          "A formosai papnők rendkívül nagy társadalmi tekintélynek örvendenek."
+        ],
+        "ro": [
+          "Insula Formosa este cea mai mare din întregul arhipelag ca suprafață.",
+          "Localitatea servește drept centru educațional regional pentru tinerii de pe insulă.",
+          "Cultivarea orezului în zonele de mangrove este principala sursă de hrană.",
+          "Formosa dispune de resurse naturale semnificative de sare.",
+          "Există planuri pentru promovarea turismului ecologic durabil în regiune.",
+          "Preotesele din Formosa se bucură de un prestigiu social foarte ridicat."
+        ],
+        "en": [
+          "Formosa Island is the largest in the entire archipelago by land area.",
+          "The settlement acts as a regional educational hub for the island's youth.",
+          "Traditional mangrove rice cultivation is the main source of local food.",
+          "Formosa possesses significant natural salt deposits along its coasts.",
+          "There are ongoing initiatives to promote sustainable ecotourism in the area.",
+          "The traditional priestesses of Formosa hold immense social influence."
+        ]
+      }
+    },
+    {
+      "id": "eticoga-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Eticoga ist das spirituelle und soziale Herz der Insel Orango und einer der bedeutendsten Orte im gesamten Bijagós-Archipel. Berühmt wurde die Siedlung vor allem als Residenz der legendären Königin Pampa Kanyimpa, die zu Beginn des 20. Jahrhunderts den Widerstand gegen die Kolonialherrschaft anführte und den Schutz der Traditionen forderte. Eticoga ist ein Ort, an dem Geschichte und Legenden lebendig bleiben; das Grab der Königin ist ein nationales Heiligtum. Die Architektur des Dorfes ist durch die typischen Rundhütten der Bijagós geprägt, die in kreisförmigen Strukturen (Tabancas) angeordnet sind. Ökonomisch ist Eticoga eng mit dem Nationalpark Orango verbunden, wobei die lokale Bevölkerung als Hüter der Salzwassernilpferde fungiert. Der Ort dient als Ausgangspunkt für Expeditionen in die Mangroven und zu den heiligen Wäldern. In Eticoga wird die matriarchale Tradition der Insel besonders deutlich gelebt, was sich in der starken Rolle der Frauen bei religiösen Zeremonien und der Landverwaltung widerspiegelt. Die Ruhe und die spirituelle Aura des Ortes machen ihn zu einem der authentischsten Erlebnisse für Besucher Guinea-Bissaus.",
+        "hu": "Eticoga Orango szigetének spirituális és társadalmi szíve, valamint az egész Bijagós-szigetcsoport egyik legjelentősebb települése. A falu elsősorban a legendás Pampa Kanyimpa királynő rezidenciájaként vált híressé, aki a 20. század elején vezette az ellenállást a gyarmatosítók ellen, védelmezve a népi hagyományokat. Eticoga olyan hely, ahol a történelem és a legendák ma is élnek; a királynő sírja nemzeti emlékhelynek számít. A település építészetét a jellegzetes bijagó körkunyhók határozzák meg, amelyek csoportokba, úgynevezett tabancákba rendeződnek. Gazdaságilag Eticoga szorosan kötődik az Orango Nemzeti Parkhoz, a helyi lakosok pedig a sós vízi vízilovak őrzőiként tevékenykednek. A falu az alapja a mangrovékhoz és a szent erdőkhöz induló expedícióknak. Eticogában a matriarchális hagyományok különösen erősek, ami a nők vallási szertartásokban és a földközösségek irányításában betöltött kiemelt szerepében nyilvánul meg. A hely nyugodt, spirituális aurája az egyik leghitelesebb élményt nyújtja a Guinea-Bissauba látogatóknak.",
+        "ro": "Eticoga este inima spirituală și socială a insulei Orango și una dintre cele mai semnificative așezări din întregul Arhipelag Bijagós. Satul a câștigat faimă în special ca reședință a legendarei regine Pampa Kanyimpa, care a condus rezistența împotriva dominației coloniale la începutul secolului XX și a luptat pentru protejarea legilor tradiționale. Eticoga este un loc unde istoria și mitul rămân vii; mormântul reginei este considerat un sanctuar național. Arhitectura satului este definită de colibele rotunde tradiționale Bijagó, aranjate în incinte circulare cunoscute sub numele de tabancas. Din punct de vedere economic, Eticoga este strâns legată de Parcul Național Orango, populația locală acționând ca gardieni ai hipopotamilor de apă sărată rari. Așezarea servește drept bază pentru expediții în mangrove și în pădurile sacre ale insulei. În Eticoga, tradițiile matriarhale ale arhipelagului sunt practicate cu o devotament deosebit, reflectat în rolul proeminent al femeilor în ceremoniile religioase și în administrarea terenurilor.",
+        "en": "Eticoga is the spiritual and social heart of Orango Island and one of the most significant settlements in the entire Bijagós Archipelago. The village gained fame primarily as the residence of the legendary Queen Pampa Kanyimpa, who led the resistance against colonial rule in the early 20th century and fought for the protection of traditional laws. Eticoga is a place where history and myth remain alive; the Queen's tomb is considered a national sanctuary. The village architecture is defined by the traditional Bijagó round huts, arranged in circular compounds known as tabancas. Economically, Eticoga is closely linked to the Orango National Park, with the local population acting as guardians of the rare saltwater hippos. The settlement serves as the base for expeditions into the mangroves and to the island's sacred forests. In Eticoga, the matriarchal traditions of the archipelago are practiced with particular devotion, reflected in the prominent role of women in religious ceremonies and land administration."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eticoga war die Heimat von Pampa Kanyimpa, der letzten großen Bijagó-Königin.",
+          "Das Grab der Königin im Ort ist ein Ziel für nationale und internationale Pilger.",
+          "Eticoga ist das administrative Hauptquartier des Orango-Nationalparks.",
+          "Nilpferde werden hier als heilige Wesen betrachtet, die nicht gestört werden dürfen.",
+          "Die lokale Wirtschaft profitiert stark von geführten Ökotourismus-Touren.",
+          "Traditionelle Initiationsriten für junge Männer finden in den nahen heiligen Wäldern statt."
+        ],
+        "hu": [
+          "Eticoga volt Pampa Kanyimpa, az utolsó nagy bijagó királynő otthona.",
+          "A királynő helyi sírja nemzeti és nemzetközi zarándokhely.",
+          "Eticoga az Orango Nemzeti Park adminisztratív központja.",
+          "A vízilovakat szent lényeknek tekintik, akiket tilos megzavarni.",
+          "A helyi gazdaság jelentősen profitál a vezetett ökoturizmusból.",
+          "A fiatal férfiak hagyományos beavatási szertartásait a közeli szent erdőkben tartják."
+        ],
+        "ro": [
+          "Eticoga a fost căminul lui Pampa Kanyimpa, ultima mare regină Bijagó.",
+          "Mormântul reginei din localitate este o destinație de pelerinaj național.",
+          "Eticoga reprezintă sediul administrativ al Parcului Național Orango.",
+          "Hipopotamii sunt considerați ființe sacre aici și nu trebuie deranjați.",
+          "Economia locală beneficiază masiv de pe urma turismului ecologic ghidat.",
+          "Riturile tradiționale de inițiere au loc în pădurile sacre din apropierea satului."
+        ],
+        "en": [
+          "Eticoga was the home of Pampa Kanyimpa, the last great Bijagó queen.",
+          "The Queen's tomb located in the village is a site of national pilgrimage.",
+          "Eticoga serves as the administrative headquarters for Orango National Park.",
+          "Hippos are regarded as sacred beings here and must not be disturbed.",
+          "The local economy benefits significantly from guided ecotourism tours.",
+          "Traditional initiation rites for young men are held in the nearby sacred forests."
+        ]
+      }
+    }
+  ]
+}

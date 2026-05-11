@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sibanor-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sibanor ist eine geschäftige Marktstadt im Distrikt Foni Bintang-Karanai in der West Coast Region Gambias. Sie liegt strategisch an der South Bank Road, der wichtigsten Verkehrsader, die die Hauptstadtregion mit dem Osten des Landes verbindet. Sibanor ist vor allem als regionales Handelszentrum für landwirtschaftliche Erzeugnisse bekannt, insbesondere für Cashewnüsse, Erdnüsse und Holzkohle. Die Stadt dient als lebenswichtiger Versorgungsknotenpunkt für die umliegenden ländlichen Siedlungen und beherbergt eine bedeutende Missionsstation, die seit Jahrzehnten wichtige Gesundheits- und Bildungsdienste leistet. Geografisch ist die Umgebung von Sibanor durch ein Mosaik aus dichten Waldsavannen und fruchtbaren Tälern geprägt, die in die verzweigten Bolongs (Gezeitenarme) des Gambia-Flusses münden. Diese Wasserwege sind reich an Biodiversität und bieten Lebensraum für zahlreiche Vogelarten und Reptilien. Kulturell ist Sibanor tief in den Traditionen der Jola verwurzelt, was sich in der lokalen Architektur und den sozialen Gepflogenheiten widerspiegelt. Für Reisende ist die Stadt ein markanter Orientierungspunkt auf der Fahrt durch das Foni-Gebiet und bietet einen authentischen Einblick in das ländliche Wirtschaftsleben Gambias.",
+        "hu": "Sibanor egy forgalmas mezőgazdasági város a Foni Bintang-Karanai körzetben, Gambia Nyugati Part (West Coast) régiójában. A település a déli parti főút (South Bank Road) mentén fekszik, amely az ország legfontosabb szárazföldi kereskedelmi útvonala. Sibanor központi szerepet tölt be a régió gazdaságában: itt található az egyik legfontosabb gyűjtőpontja a környékbeli kesudió- és földimogyoró-termésnek, valamint a fenntartható erdőgazdálkodásból származó faszénnek. A város híres az evangélikus missziós központjáról, amely modern kórházat és iskolát tart fenn, alapvető szolgáltatásokat biztosítva a környékbeli falvak számára. A tájképet a dús fás szavanna és a Gambia-folyóba torkolló kanyargós mellékágak (bolongok) határozzák meg. Ezek a vizes élőhelyek rendkívül gazdagok madárfajokban, így a természetjárók számára is tartogatnak látnivalót. A lakosság többsége a jola népcsoporthoz tartozik, akik híresek hagyományaik és közösségi összetartásuk megőrzéséről. Az utazók számára Sibanor egy vibráló megállóhely, ahol a piac zsongása és a vidéki Gambia dolgos mindennapjai közvetlenül megtapasztalhatók.",
+        "ro": "Sibanor este un oraș comercial dinamic situat în districtul Foni Bintang-Karanai din regiunea West Coast a Gambiei. Poziționat strategic pe drumul principal de pe malul sudic (South Bank Road), orașul servește drept un nod vital de colectare pentru produsele agricole, în special caju și arahide, destinate exportului. Sibanor este recunoscut la nivel regional pentru misiunea sa medicală și educațională, care oferă servicii esențiale pentru comunitățile rurale din întreaga zonă Foni. Geografia locală este caracterizată printr-un relief ușor ondulat, acoperit de savană arborată și mărginat de rețeaua complexă de canale (bolongs) care se varsă în fluviul Gambia. Aceste zone umede sunt habitate protejate pentru specii diverse de păsări limicole și mamifere mici. Din punct de vedere demografic, localitatea este un bastion al culturii Jola, păstrând ritualuri tradiționale și o structură socială bine definită. Economia locală depinde în mare măsură de comerțul rutier și de mica industrie de prelucrare a lemnului. Pentru turiștii care traversează țara spre est, Sibanor reprezintă o fereastră autentică către viața rurală gambiană, oferind o perspectivă asupra intersecției dintre tradițiile ancestrale și nevoile de dezvoltare modernă.",
+        "en": "Sibanor is a bustling market town located in the Foni Bintang-Karanai District of The Gambia's West Coast Region. It sits strategically along the South Bank Road, the nation’s primary terrestrial artery linking the coastal urban centers to the eastern provinces. Sibanor is widely recognized as a regional hub for the trade of agricultural commodities, particularly cashews, groundnuts, and charcoal. The town serves as a vital service center for the surrounding rural villages and is home to a prominent mission station that has provided essential healthcare and education for decades. Geographically, the area around Sibanor is defined by a mosaic of dense wooded savanna and fertile valleys that transition into the winding bolongs (tidal creeks) of the Gambia River. These waterways are biodiversity hotspots, providing sanctuary for numerous avian and reptilian species. Culturally, Sibanor is deeply rooted in Jola traditions, which are evident in the local architecture and community governance. For travelers, the town is a significant landmark on the journey through the Foni districts, offering an authentic glimpse into the industrious rural economy of The Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sibanor ist ein wichtiges Zentrum der Jola-Bevölkerung in der West Coast Region.",
+          "Die Stadt beherbergt eine bedeutende Gesundheitsklinik der WEC-Mission.",
+          "Sibanor liegt etwa 75 Kilometer östlich der Hauptstadt Banjul.",
+          "Der Ort ist bekannt für den großflächigen Handel mit Cashewnüssen.",
+          "Die umliegenden Wälder sind für ihre reiche Vogelwelt bekannt.",
+          "Sibanor dient als wichtiger Stopp für Überlandbusse und Sammeltaxis."
+        ],
+        "hu": [
+          "Sibanor a Foni Bintang-Karanai körzet adminisztratív alközpontja.",
+          "A város környéke Gambia egyik legjelentősebb kesudió-termelő vidéke.",
+          "A helyi missziós kórház speciális sebészeti és szülészeti ellátást is nyújt.",
+          "A település közelében lévő folyóágak fontos osztrigagyűjtő helyek.",
+          "Sibanor lakossága híres a hagyományos mezőgazdasági tudásáról.",
+          "A város neve a helyi dialektusban 'pihenőhelyet' jelenthet."
+        ],
+        "ro": [
+          "Sibanor este situat pe ruta principală care leagă Gambia de Casamance.",
+          "Localitatea găzduiește o piață săptămânală importantă pentru produsele forestiere.",
+          "Relieful este dominat de păduri comunitare protejate împotriva defrișărilor.",
+          "Sibanor reprezintă un model de succes în integrarea educației religioase și laice.",
+          "Cultura caju-ului a înlocuit treptat marea majoritate a culturilor de arahide din zonă.",
+          "Geografia locală include depuneri de argilă utilizate pentru construcția cărămizilor tradiționale."
+        ],
+        "en": [
+          "Sibanor acts as a primary logistics point for the Foni agricultural belt.",
+          "The WEC Mission in Sibanor is one of the oldest operating in rural Gambia.",
+          "The town is a key producer of traditional Jola palm wine in the region.",
+          "It features a unique microclimate influenced by the nearby Gambia River creeks.",
+          "Sibanor is a significant transit point for goods heading to the southern borders.",
+          "The local community is actively involved in large-scale tree-planting initiatives."
+        ]
+      }
+    },
+    {
+      "id": "sanyang-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sanyang ist eine dynamische Küstenstadt im Distrikt Kombo South, die vor allem für ihren spektakulären Strand und ihre blühende Fischereiindustrie bekannt ist. Sanyang Beach, oft als einer der schönsten und ruhigsten Strände Gambias bezeichnet, ist geprägt durch feinen weißen Sand, Palmen und markante Sandsteinfelsen. Der Sanyang Fish Landing Site ist das wirtschaftliche Herz der Stadt; hier landen täglich hunderte von Pirogen ihren Fang an, der direkt am Strand verkauft oder in den umliegenden Anlagen geräuchert und getrocknet wird. Diese maritime Aktivität bietet ein farbenfrohes Schauspiel, das viele Touristen anlockt, die hier eine authentischere Atmosphäre finden als in den nördlichen Hotelzonen. Landeinwärts bewahrt Sanyang den Charakter eines großen, traditionellen Dorfes, in dem Landwirtschaft, insbesondere der Anbau von Mangos und Zitrusfrüchten, eine wichtige Rolle spielt. Die Stadt beherbergt zudem wichtige kulturelle Einrichtungen wie das Sanyang Cultural Centre, das die Traditionen der Mandinka und Jola pflegt. Geografisch liegt Sanyang in einer sanften Küstenebene, die durch fruchtbare Böden und strategische Nähe zur Küstenstraße begünstigt wird. Für Reisende bietet Sanyang die perfekte Kombination aus erholsamen Strandurlaub, Naturbeobachtungen in den Küstenwäldern und Einblicken in das pulsierende gambische Fischerleben.",
+        "hu": "Sanyang egy dinamikus tengerparti város a Kombo South körzetben, amely Gambia egyik legvonzóbb strandjáról és virágzó halászatáról ismert. A Sanyang Beach finom fehér homokjával, pálmafáival és vöröses homokkő szikláival az ország egyik legszebb partszakasza, amely megőrizte természetes jellegét a tömegturizmus ellenére is. A város gazdasági motorja a halászkikötő, ahol naponta hatalmas mennyiségű friss halat rakodnak partra, amelyet helyben füstölnek vagy a fővárosi piacokra szállítanak. Sanyang belső részei megőrizték a hagyományos mezőgazdasági karaktert; a környék híres mangó- és citrusültetvényeiről, amelyek a helyi lakosság megélhetését biztosítják. A település kulturális szempontból is jelentős, hiszen több olyan közösségi központnak ad otthont, ahol a mandinka és jola hagyományokat ápolják. Földrajzi elhelyezkedése kedvező, hiszen a parti főút közvetlen közelében fekszik, így könnyen elérhető a turisták és a kereskedők számára is. Sanyang népszerűsége az utóbbi években megnőtt a külföldi befektetők körében is, akik értékelik a nyugodt környezetet és az autentikus életmódot. A látogatók számára Sanyang az a hely, ahol a pihenés és a vibráló afrikai tengerparti élet tökéletes egyensúlyban van.",
+        "ro": "Sanyang este un oraș de coastă vibrant situat în districtul Kombo South, renumit pentru frumusețea plajelor sale și pentru importanța sa în industria piscicolă națională. Plaja Sanyang, considerată de mulți cea mai pitorească din Gambia, se distinge prin nisipul alb fin, palmierii înalți și falezele de gresie care oferă un cadru natural spectaculos. Inima economică a localității este punctul de descărcare a peștelui, unde o flotă impresionantă de pirogi tradiționale asigură zilnic resurse pentru piețele locale și unitățile de procesare prin afumare. Dincolo de fâșia litorală, Sanyang păstrează o identitate rurală puternică, agricultura de subzistență și livezile de fructe tropicale fiind piloni ai subzistenței comunității. Orașul este un centru cultural activ, unde tradițiile grupurilor etnice Mandinka și Jola sunt celebrate prin festivaluri de muzică și dans. Din punct de vedere geografic, Sanyang beneficiază de o poziție strategică pe drumul costier, facilitând accesul către capitala Banjul și către zonele protejate din sud. Dezvoltarea turistică în zonă a fost marcată de un respect pentru mediul înconjurător, Sanyang fiind o destinație preferată pentru cei care caută o experiență de vacanță sustenabilă. Vegetația luxuriantă din hinterland și biodiversitatea marină fac din Sanyang o locație de referință pentru ecoturismul gambian.",
+        "en": "Sanyang is a dynamic coastal town in the Kombo South District, widely celebrated for its spectacular beach and thriving artisanal fishing industry. Sanyang Beach, often cited as one of the most beautiful and tranquil stretches in The Gambia, is characterized by fine white sand, palm groves, and dramatic sandstone outcrops. The Sanyang Fish Landing Site is the economic heartbeat of the community; each day, hundreds of colorful pirogues land their catch, which is sold fresh on the shore or processed in nearby smoking houses. This maritime activity creates a vibrant spectacle that attracts visitors seeking a more authentic Gambian experience than that found in the northern resort areas. Inland, Sanyang retains the character of a traditional village where agriculture, specifically mango and citrus farming, remains a vital livelihood. The town also hosts significant cultural spaces, including centers dedicated to preserving Mandinka and Jola heritage. Geographically, Sanyang is situated on a gentle coastal plain with fertile soils and strategic access to the main coastal highway. For travelers, Sanyang provides a perfect blend of beach relaxation, nature exploration in coastal woodlands, and immersive insights into the energetic life of a Gambian fishing community."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sanyang beherbergt einen der größten Standorte für handwerkliche Fischerei in Gambia.",
+          "Der Strand von Sanyang ist bekannt für seine markanten roten Sandsteinfelsen.",
+          "Die Stadt liegt im Distrikt Kombo South an der strategischen Küstenstraße.",
+          "Sanyang ist berühmt für seine sonntäglichen traditionellen Ringkämpfe am Strand.",
+          "In der Umgebung befinden sich weitläufige Mangoplantagen für den Export.",
+          "Der Ort ist ein beliebtes Ziel für Tagesausflüge aus dem Greater Banjul Area."
+        ],
+        "hu": [
+          "Sanyang strandját gyakran nevezik 'Paradicsom-partnak' (Paradise Beach).",
+          "A város halászkikötője fontos ellátó bázisa a környékbeli szállodáknak.",
+          "A település központjában egy hatalmas közösségi piac működik.",
+          "Sanyang környéke kiváló madármegfigyelő hely a tengerparti erdők miatt.",
+          "A lakosság jelentős része a turizmusból és a halászatból él.",
+          "A városban több nemzetközi öko-projekt is működik a fenntartható halászatért."
+        ],
+        "ro": [
+          "Plaja Sanyang oferă unul dintre cele mai bune puncte de observație pentru apus.",
+          "Activitatea pescărească din Sanyang este una dintre cele mai rentabile din țară.",
+          "Localitatea este renumită pentru restaurantele sale ce servesc pește proaspăt la grătar.",
+          "Sanyang dispune de resurse hidrografice subterane de bună calitate.",
+          "Arhitectura rurală din Sanyang păstrează structura tradițională a curților familiale.",
+          "Zona este monitorizată pentru protejarea habitatelor de cuibărit ale păsărilor marine."
+        ],
+        "en": [
+          "Sanyang is a major hub for the supply of 'bonga' fish to the Gambian interior.",
+          "The beach area features eco-lodges that promote low-impact tourism.",
+          "Traditional wrestling (boreh) matches are a staple of Sanyang's social life.",
+          "The town is a significant producer of locally made palm oil.",
+          "Sanyang is located about 30 kilometers south of Serekunda.",
+          "The coastal ecosystem here includes rare littoral woodland and dunes."
+        ]
+      }
+    },
+    {
+      "id": "busumbala-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Busumbala ist eine schnell wachsende Stadt im Distrikt Kombo North der West Coast Region Gambias, strategisch gelegen an der Hauptstraße zwischen Serekunda und Brikama. Ursprünglich ein kleineres Dorf, hat sich Busumbala im Zuge der massiven Urbanisierung des Kombo-Gebiets zu einem bedeutenden Wohn- und Handelszentrum entwickelt. Die Stadt fungiert heute als wichtiges Bindeglied innerhalb der Metropolregion Greater Banjul und bietet Wohnraum für tausende Menschen, die in den nahen Wirtschaftszentren arbeiten. Wirtschaftlich ist Busumbala durch einen regen Straßenhandel und zahlreiche Handwerksbetriebe geprägt. Ein besonderes Merkmal der Stadt ist ihre kulturelle Lebendigkeit; sie ist bekannt für ihre traditionellen Musik- und Tanzgruppen, die bei festlichen Anlässen auftreten. Geografisch liegt Busumbala in einer flachen Savannenlandschaft, die zunehmend durch moderne Wohnbebauung transformiert wird. In der unmittelbaren Umgebung finden sich jedoch noch bedeutende landwirtschaftliche Flächen, auf denen Getreide und Gemüse für den lokalen Markt angebaut werden. Trotz des rasanten Wachstums bewahrt Busumbala eine starke soziale Kohäsion, die auf den traditionellen Strukturen der Mandinka-Mehrheit basiert. Für Besucher ist Busumbala ein Beispiel für den dynamischen Wandel und die Herausforderungen der Stadtentwicklung in Gambia, wobei es gleichzeitig einen Einblick in den Alltag einer aufstrebenden gambischen Vorstadt bietet.",
+        "hu": "Busumbala Gambia egyik leggyorsabban fejlődő városa a Kombo North körzetben, a Nyugati Part (West Coast) régióban. Stratégiai elhelyezkedése – a Serekunda és Brikama közötti főút mentén – kulcsfontosságúvá tette a települést a térség közlekedésében és kereskedelmében. Busumbala egykor egy csendes mandinka falu volt, de az elmúlt évtizedekben a Nagy-Banjul térség urbanizációs hulláma elérte, és jelentős lakóövezetté alakította. A város fontos bázisa a környékbeli gazdasági központokba ingázóknak, miközben saját kiskereskedelmi szektora is folyamatosan bővül. A település büszke gazdag kulturális örökségére, különösen a hagyományos zenére és a dobművészetre, amely a helyi ünnepségek elengedhetetlen része. Földrajzi környezetét a lapos szavanna uralja, amelyet ma már modern lakóházak és üzletek szegélyeznek. Busumbala környékén még ma is jelentős mezőgazdasági tevékenység folyik, a helyi gazdák friss terményekkel látják el a közeli városi piacokat. A gyors népességnövekedés ellenére a város megőrizte szoros közösségi hálóját és vendégszeretetét. Az idelátogatók számára Busumbala kiváló példája annak, hogyan alakul át egy hagyományos gambiai település modern elővárossá, miközben próbálja megőrizni kulturális identitását.",
+        "ro": "Busumbala este un oraș în plină expansiune situat în districtul Kombo North din regiunea West Coast a Gambiei, ocupând o poziție strategică pe ruta principală ce leagă Serekunda de Brikama. Evoluând de la statutul de sat tradițional la cel de centru urban major, Busumbala reprezintă un punct focal al dezvoltării rezidențiale în zona metropolitană a capitalei. Importanța sa economică rezidă în comerțul de tranzit și în numeroasele ateliere meșteșugărești care deservesc populația locală și călătorii. Orașul este recunoscut pentru dinamismul său cultural, fiind un loc unde muzica tradițională Mandinka și ceremoniile comunitare sunt păstrate cu mândrie. Din punct de vedere geografic, Busumbala este așezat pe o câmpie de savană fertilă, care, deși supusă urbanizării, încă permite practicarea agriculturii periurbane. Proliferarea noilor cartiere rezidențiale a adus cu sine o modernizare a serviciilor publice, transformând localitatea într-o destinație atractivă pentru clasa medie în curs de formare. În ciuda ritmului rapid de schimbare, Busumbala menține o coeziune socială puternică, structurile de conducere tradițională jucând încă un rol important în medierea conflictelor și în organizarea vieții publice. Pentru un observator extern, Busumbala oferă o imagine clară a tranziției Gambiei către o societate urbanizată, fără a-și pierde rădăcinile culturale profunde.",
+        "en": "Busumbala is a rapidly growing town in the Kombo North District of The Gambia’s West Coast Region, strategically located on the main highway between Serekunda and Brikama. Originally a smaller village, Busumbala has transformed into a significant residential and commercial hub due to the massive urbanization within the Kombo area. Today, the town acts as a vital link within the Greater Banjul Area, providing housing for thousands of commuters who work in the nearby economic centers. Economically, Busumbala is characterized by vibrant roadside trade and numerous artisanal workshops. A distinctive feature of the town is its cultural vibrancy; it is well-known for its traditional music and dance troupes that perform during festive occasions. Geographically, Busumbala sits on a flat savanna landscape that is increasingly being reshaped by modern residential developments. However, significant agricultural plots remain in the immediate vicinity, where grains and vegetables are grown for local consumption. Despite its swift expansion, Busumbala maintains a strong social cohesion rooted in the traditional structures of the Mandinka majority. For visitors, Busumbala serves as an example of the dynamic shifts and challenges of urban development in The Gambia, while simultaneously offering a window into the daily life of a rising Gambian suburb."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Busumbala liegt an der verkehrsreichen Verbindungsstraße zwischen Serekunda und Brikama.",
+          "Die Stadt hat in den letzten zehn Jahren eines der stärksten Bevölkerungswachstums erlebt.",
+          "Busumbala ist bekannt für seine talentierten Kora-Spieler und Trommler.",
+          "Ein Großteil der Stadtfläche wird heute für moderne Wohnprojekte genutzt.",
+          "In der Nähe befindet sich ein bedeutendes Waldreservat der Gemeinschaft.",
+          "Die Stadt verfügt über einen regen Markt, der vor allem Lebensmittel für Pendler anbietet."
+        ],
+        "hu": [
+          "Busumbala stratégiai kapu Brikama és a repülőtér irányába.",
+          "A városban számos hagyományos gyógyító és vallási vezető él.",
+          "A település iskolái a régió legkeresebb oktatási intézményei közé tartoznak.",
+          "Busumbalában található Gambia egyik legnagyobb magánkézben lévő téglaüzeme.",
+          "A város közösségi erdője (Community Forest) mintaprojekt a környezetvédelemben.",
+          "A lakók többsége a mandinka népcsoport tagja."
+        ],
+        "ro": [
+          "Busumbala servește drept punct terminus pentru mai multe linii de transport local.",
+          "Orașul a beneficiat masiv de extinderea rețelei de electricitate în ultimii ani.",
+          "Localitatea este renumită pentru organizarea competițiilor locale de fotbal.",
+          "Busumbala este un centru de producție pentru mobilierul artizanal din lemn.",
+          "Traficul rutier prin Busumbala este unul dintre cele mai intense din regiunea Kombo.",
+          "Comunitatea locală este implicată activ în proiecte de salubritate urbană."
+        ],
+        "en": [
+          "Busumbala is a key residential suburb for the working population of Kanifing.",
+          "The town is famous for its lively wedding and initiation ceremonies.",
+          "It features a mix of traditional adobe houses and modern concrete villas.",
+          "Busumbala's location makes it a prime spot for commercial real estate development.",
+          "The town acts as a buffer between the industrial zones and rural farms.",
+          "Local cooperatives in Busumbala are active in the poultry and dairy sectors."
+        ]
+      }
+    },
+    {
+      "id": "bijilo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bijilo ist eine exklusive Küstenstadt im Distrikt Kombo North, die sich zu einem der wichtigsten Zentren für gehobenen Tourismus und modernes Wohnen in Gambia entwickelt hat. Geografisch liegt sie am nördlichen Ende des Senegambia-Touristenstreifens und ist berühmt für ihren ruhigen, palmenbesäumten Strand. Das wohl bekannteste Merkmal der Stadt ist der Bijilo Forest Park, auch bekannt als 'Monkey Park'. Dieses Naturschutzgebiet am Meer ist einer der letzten Reste eines dichten Küstenwaldes und beherbergt zahlreiche Affenarten, insbesondere Grüne Meerkatzen und Rote Stummelaffen, sowie eine beeindruckende Vogelwelt. Wirtschaftlich ist Bijilo durch den Tourismussektor geprägt, mit einer hohen Dichte an Luxushotels, erstklassigen Restaurants und dem neuen internationalen Konferenzzentrum. In den letzten Jahren hat sich Bijilo auch zu einem bevorzugten Wohnort für die aufstrebende Mittelschicht und Expatriates entwickelt, was sich in einer modernen Architektur und gut ausgebauten Infrastruktur widerspiegelt. Trotz der touristischen Entwicklung bewahrt Bijilo eine entspannte und grüne Atmosphäre, die es von den geschäftigeren Nachbarorten unterscheidet. Das Relief ist flach und bietet weite Horizonte über den Atlantik. Für Besucher ist Bijilo der ideale Ort, um luxuriösen Komfort mit Naturbeobachtungen und Strandruhe zu verbinden.",
+        "hu": "Bijilo egy elegáns tengerparti város a Kombo North körzetben, amely Gambia egyik legfontosabb luxusturisztikai és modern lakóövezetévé vált. A település a népszerű Senegambia-negyed északi szélén fekszik, híres a tiszta, pálmákkal övezett strandjáról és a nyugodt légköréről. Bijilo legfőbb nevezetessége a Bijilo Forest Park, amelyet a helyiek csak „majomparkként” emlegetnek. Ez az óceánparti védett erdő Gambia egyik utolsó érintetlen parti erdősége, ahol a látogatók közvetlen közelről figyelhetik meg a zöld cerkófokat, a vörös kolobuszokat és a gazdag madárvilágot. A város gazdasága egyértelműen az idegenforgalomra épül: luxusszállodák, nemzetközi éttermek és az ország legmodernebb konferenciaközpontja is itt található. Bijilo az utóbbi években a gambiai elit és a külföldiek kedvelt lakóhelyévé vált, amit a modern villák és a rendezett utcák jól mutatnak. A város fejlődése példaértékű a fenntarthatóság és a modernizáció ötvözésében. Annak ellenére, hogy Bijilo a nemzetközi üzleti élet egyik központja lett, megőrizte zöld jellegét és pihentető hangulatát. Az idelátogatók számára a település a kényelem, a tengeri panoráma és a természetközeli élmények tökéletes ötvözetét kínálja.",
+        "ro": "Bijilo este un oraș de coastă exclusivist situat în districtul Kombo North, fiind recunoscut drept unul dintre principalii poli ai turismului de lux și al dezvoltării rezidențiale moderne din Gambia. Situat la nord de celebra zonă Senegambia, Bijilo se distinge prin plajele sale liniștite, mărginite de palmieri, și printr-o atmosferă mult mai calmă decât în zonele învecinate. Atrakția emblematică a orașului este Parcul Forestier Bijilo, cunoscut popular sub numele de „Monkey Park”, un sanctuar natural care protejează ultimele rămășițe de pădure litorală densă și oferă adăpost pentru diverse specii de primate și păsări exotice. Din punct de vedere economic, Bijilo este motorul turismului de afaceri, găzduind Centrul Internațional de Conferințe Sir Dawda Kairaba Jawara și numeroase resorturi de clasă mondială. Orașul a cunoscut o transformare urbanistică majoră, devenind locația preferată pentru diplomați și investitori, reflectată în arhitectura contemporană a vilelor sale. Relieful plat și proximitatea față de ocean oferă condiții ideale pentru dezvoltarea imobiliară de înalt profil. În ciuda expansiunii rapide, Bijilo a reușit să își păstreze spațiile verzi și biodiversitatea, fiind un model de echilibru între urbanizare și conservare. Pentru călători, Bijilo reprezintă vârful ospitalității gambiene, oferind facilități de elită într-un decor natural de o frumusețe rară.",
+        "en": "Bijilo is an exclusive coastal town in the Kombo North District, having evolved into one of The Gambia’s premier centers for high-end tourism and modern living. Geographically situated at the northern end of the Senegambia tourism strip, it is famous for its serene, palm-fringed beaches and sophisticated atmosphere. The town's most iconic feature is the Bijilo Forest Park, commonly known as the 'Monkey Park.' This seaside nature reserve is one of the last remnants of dense coastal woodland in the region, providing a critical sanctuary for primate species like Green Vervet and Red Colobus monkeys, alongside a spectacular array of birdlife. Economically, Bijilo is driven by the hospitality sector, boasting a high density of luxury hotels, fine-dining restaurants, and the nation’s state-of-the-art international conference center. In recent years, Bijilo has also become the residential choice for the emerging middle class and expatriate community, characterized by modern architectural styles and well-developed infrastructure. Despite its rapid commercial growth, Bijilo maintains a relaxed and verdant feel that sets it apart from busier neighboring hubs. The relief is flat, providing expansive horizons over the Atlantic Ocean. For visitors, Bijilo offers the ideal setting to combine luxurious comfort with wildlife observation and seaside tranquility."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bijilo beherbergt den Bijilo Forest Park, ein 51 Hektar großes Naturschutzgebiet.",
+          "In Bijilo steht das Sir Dawda Kairaba Jawara International Conference Center.",
+          "Die Stadt gilt als eines der sichersten und saubersten Gebiete Gambias.",
+          "Hier befinden sich einige der teuersten Immobilien des Landes.",
+          "Der Strand von Bijilo ist ein wichtiger Nistplatz für Meeresschildkröten.",
+          "Die Stadt liegt etwa 15 Kilometer südwestlich von Banjul."
+        ],
+        "hu": [
+          "A Bijilo Forest Parkban több mint 130 madárfajt katalogizáltak.",
+          "A városban található Gambia legnagyobb és legmodernebb bevásárlóközpontja.",
+          "Bijilo az ország diplomáciai és nemzetközi konferencia-turizmusának központja.",
+          "A település strandja híres a látványos naplementéiről és tiszta vizéről.",
+          "A város közlekedési hálózata az egyik legjobb az országban.",
+          "A 'majumparkban' élő állatok teljesen hozzászoktak az emberek jelenlétéhez."
+        ],
+        "ro": [
+          "Bijilo este sediul central al mai multor organizații internaționale și bănci.",
+          "Parcul Forestier Bijilo a fost deschis oficial în anul 1951.",
+          "Este considerat 'Beverly Hills-ul' Gambiei datorită vilelor de lux.",
+          "Bijilo se află la distanță de mers pe jos de zonele de divertisment din Kololi.",
+          "Infrastructura hotelieră de aici este certificată pentru standarde ecologice.",
+          "Localitatea este renumită pentru spa-urile sale de relaxare și wellness."
+        ],
+        "en": [
+          "Bijilo features some of the last remaining native coastal palms in West Africa.",
+          "The town is a primary site for the Gambia's diplomatic functions.",
+          "It acts as a tranquil alternative to the more crowded Serekunda center.",
+          "The coastal cliffs at Bijilo offer unique geological insights into the region.",
+          "Bijilo is home to several specialized craft markets for tourists.",
+          "The area is noted for its high concentration of eco-friendly architectural designs."
+        ]
+      }
+    },
+    {
+      "id": "kololi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kololi ist das unbestrittene Epizentrum des gambischen Tourismus und eine pulsierende Stadt im Distrikt Kombo North. Bekannt als das Herz des 'Senegambia Strip', ist Kololi der Ort, an dem sich die höchste Dichte an Hotels, Unterhaltungsmöglichkeiten und internationalen Dienstleistungen im Land konzentriert. Die Stadt hat sich von einem kleinen Dorf zu einer kosmopolitischen Drehscheibe entwickelt, die rund um die Uhr in Bewegung ist. Der Strand von Kololi ist berühmt für seinen goldenen Sand und die lebhaften Beachbars, ist jedoch auch stark von Küstenerosion betroffen, was zu aufwendigen Küstenschutzmaßnahmen geführt hat. Wirtschaftlich ist die Stadt fast vollständig vom Tourismus und den damit verbundenen Dienstleistungen wie Gastronomie, Einzelhandel und Transport abhängig. Die 'Senegambia Area' in Kololi ist bekannt für ihr aufregendes Nachtleben, ihre Kunsthandwerksmärkte und ihre kulinarische Vielfalt, die von lokaler afrikanischer Küche bis hin zu internationalen Spezialitäten reicht. Geografisch grenzt Kololi unmittelbar an den Bijilo Forest Park, was einen reizvollen Kontrast zwischen urbanem Trubel und natürlicher Stille schafft. Die Bevölkerung ist extrem international und vielfältig, was Kololi zu einem Schmelztiegel der Kulturen macht. Für Besucher ist Kololi der ideale Ausgangspunkt, um die moderne, touristische Seite Gambias kennenzulernen und gleichzeitig den Komfort einer erstklassigen Infrastruktur zu genießen.",
+        "hu": "Kololi Gambia legfontosabb turisztikai központja, a Kombo North körzet lüktető szíve. A település a „Senegambia Strip” néven ismert terület központja, ahol az ország legtöbb szállodája, étterme, bárja és éjszakai szórakozóhelye összpontosul. Kololi egykori kis faluból vált Gambia legkozmopolitább városává, amely éjjel-nappal pezseg az élettől. A város tengerpartja arany homokjáról híres, bár a part menti erózió elleni küzdelem itt a leglátványosabb az országban. A helyi gazdaság szinte teljes egészében az idegenforgalomra és a hozzá kapcsolódó szolgáltatásokra épül; itt található a legtöbb bank, utazási iroda és luxusüzlet. Kololi híres a kézműves piacáról (Craft Market), ahol a látogatók a legjobb minőségű gambiai fafaragásokat és textíliákat szerezhetik be. Földrajzi fekvése különleges: közvetlenül határos a Bijilo erdőrezervátummal, így a város zajától percek alatt eljuthatunk a természet csendjébe. A lakosság és a látogatók köre rendkívül nemzetközi, ami egyedi, nyitott légkört kölcsönöz a településnek. Az utazók számára Kololi az a hely, ahol Gambia modern arca, a kulináris élvezetek és az atlanti partvidék varázsa találkozik. A város fejlődése meghatározza Gambia turisztikai stratégiájának irányait is.",
+        "ro": "Kololi este inima incontestabilă a turismului gambian, fiind cel mai dinamic și cosmopolit oraș din districtul Kombo North. Cunoscut în special pentru zona „Senegambia Strip”, Kololi concentrează cea mai mare densitate de hoteluri de lux, cazinouri, cluburi de noapte și restaurante internaționale din întreaga țară. Evoluția sa de la o comunitate rurală la un hub turistic global este remarcabilă, orașul fiind astăzi punctul de întâlnire al vizitatorilor din toate colțurile lumii. Plaja din Kololi este celebră pentru activitățile sale efervescente, fiind totodată un loc unde eforturile de combatere a eroziunii costiere sunt vizibile prin lucrări masive de consolidare. Din punct de vedere economic, Kololi susține mii de locuri de muncă în sectorul serviciilor și al economiei informale, fiind un motor de creștere pentru regiunea Kombo. Piața de artizanat din Kololi este renumită pentru varietatea produselor autentice, de la măști sculptate la bijuterii din argint. Geografia orașului este privilegiată de vecinătatea cu Parcul Forestier Bijilo, oferind un echilibru rar între viața urbană intensă și sanctuarele naturale. Atmosfera din Kololi este una electrică și primitoare, reflectând spiritul ospitalier „Smiling Coast” al Gambiei. Pentru turiști, Kololi reprezintă destinația principală pentru divertisment, cultură gastronomică și acces facil la toate facilitățile moderne, fiind simbolul modernizării litorale a națiunii.",
+        "en": "Kololi is the undisputed epicenter of Gambian tourism and a pulsating town within the Kombo North District. Famous as the heart of the 'Senegambia Strip,' Kololi hosts the nation’s highest concentration of hotels, entertainment venues, and international services. The town has evolved from a small village into a cosmopolitan hub that remains active around the clock. Kololi Beach is renowned for its golden sands and lively beach bars, although it has faced significant coastal erosion, leading to extensive reclamation and protection efforts. Economically, the town is almost entirely dependent on the tourism sector and its satellite services, including gastronomy, retail, and transportation. The 'Senegambia Area' in Kololi is known for its vibrant nightlife, high-quality craft markets, and a culinary scene that ranges from local African dishes to diverse international cuisines. Geographically, Kololi borders the Bijilo Forest Park, creating a stark but pleasing contrast between urban excitement and natural serenity. Its population is remarkably international and diverse, making Kololi a true cultural melting pot. For visitors, Kololi serves as the ideal starting point to experience the modern, tourist-friendly side of The Gambia while enjoying the convenience of premium infrastructure and high-quality amenities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kololi ist das Zentrum des 'Senegambia Strip', der wichtigsten Touristenmeile Gambias.",
+          "In Kololi wurde massives 'Beach Nourishment' betrieben, um den Strand zu retten.",
+          "Die Stadt beherbergt den größten Kunsthandwerksmarkt für Touristen im Land.",
+          "Kololi ist bekannt für seine hohe Dichte an internationalen Restaurants.",
+          "Der Ort grenzt direkt an den Bijilo-Nationalpark.",
+          "Das Nachtleben in Kololi gilt als das lebhafteste in ganz Westafrika."
+        ],
+        "hu": [
+          "Kololi Gambia turisztikai bevételének jelentős részét termeli.",
+          "A városban található több neves nemzetközi bank gambiai központja.",
+          "A Senegambia Strip mentén éjszaka is biztonságos a közlekedés a térvilágításnak köszönhetően.",
+          "A helyi strandokon gyakran rendeznek nagyszabású zenei fesztiválokat.",
+          "Kololi fontos közlekedési csomópont a repülőtér és a tengerpart között.",
+          "A város neve a környéken honos vörös kolobusz majmokról kapta a nevét."
+        ],
+        "ro": [
+          "Kololi este locul unde se află cele mai vechi hoteluri de lux din Gambia.",
+          "Zona pietonală din Kololi este cea mai modernă din regiunea metropolitană.",
+          "Orașul este un centru major pentru serviciile de rent-a-car și ghidaj turistic.",
+          "Eroziunea plajei a necesitat intervenții cu tehnologie olandeză de ultimă oră.",
+          "Kololi găzduiește sedii ale unor televiziuni și posturi de radio locale.",
+          "Diversitatea lingvistică din oraș include engleza, wolof, mandinka și numeroase limbi europene."
+        ],
+        "en": [
+          "Kololi is the primary destination for European charter flights to The Gambia.",
+          "The town features a high-tech coastal monitoring station for sea-level rise.",
+          "It acts as the commercial gateway for the entire Kombo tourism industry.",
+          "Kololi is famous for its 'Tourist Taxis' which are specially regulated for safety.",
+          "The town is a significant site for Gambian fashion and textile design.",
+          "Nearby reefs provide opportunities for local artisanal shore fishing."
+        ]
+      }
+    }
+  ]
+}

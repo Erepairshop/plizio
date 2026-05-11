@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-khertvisi-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Festung Chertwissi ist eine der ältesten und am besten erhaltenen mittelalterlichen Befestigungsanlagen im Süden Georgiens, gelegen in der Region Samzche-Dschawachetien. Geografisch thront sie auf einem hohen Felshügel am strategisch wichtigen Zusammenfluss der Flüsse Parawani und Kura. Historisch wird ihre Gründung oft mit den Feldzügen Alexanders des Großen in Verbindung gebracht, wobei die heute sichtbaren Mauern größtenteils aus dem 10. bis 14. Jahrhundert stammen. Über Jahrhunderte kontrollierte die Festung den Zugang zu den fruchtbaren Tälern Südgeorgiens und war ein wichtiges administratives Zentrum der Region. Technisch besticht Chertwissi durch ihre massive Bauweise aus lokalem Basaltstein, die sich organisch an die zerklüftete Topografie des Felsens anpasst. Die Anlage besteht aus einer oberen Zitadelle mit einem markanten Turm und einer weitläufigen unteren Stadtmauer. Ökonomisch ist die Festung heute ein bedeutender Anziehungspunkt für den Kulturtourismus und wurde im Jahr 2007 auf die Tentativliste des UNESCO-Weltkulturerbes gesetzt. In ihrer Blütezeit beherbergte die Festung eine bedeutende Garnison und diente als Schutzraum für die umliegende Bevölkerung während der Invasionen der Osmanen und Mongolen. Die strategische Lage an der Kreuzung alter Handelswege machte sie zu einem der mächtigsten militärischen Außenposten des georgischen Mittelalters.",
+        "hu": "Hertviszi vára Grúzia egyik legrégebbi és legépszerűbb középkori erődítménye, amely az ország déli részén, Szamche-Dzsavakheti régióban található. Földrajzilag a Paravani és a Kura folyók stratégiai összefolyása feletti magas szikladombon trónol. Történelmileg alapítását gyakran Nagy Sándor hadjárataival hozzák összefüggésbe, bár a ma látható falak nagyrészt a 10. és 14. század közötti időszakból származnak. Az erőd évszázadokon át ellenőrizte a Dél-Grúzia termékeny völgyeibe vezető utakat, és a régió fontos közigazgatási központja volt. Technikai szempontból Hertviszi a helyi bazaltkőből készült masszív építésmódjával tűnik ki, amely szervesen alkalmazkodik a szikla egyenetlen topográfiájához. A komplexum egy felső citadellából, egy jellegzetes toronyból és egy kiterjedt alsó várfalból áll. Gazdaságilag az erőd ma a kulturális turizmus jelentős vonzereje, és 2007-ben felkerült az UNESCO Világörökség várólistájára. Fénykorában az erőd jelentős katonai helyőrséget befogadott, és menedékként szolgált a környező lakosság számára az oszmán és mongol inváziók idején. Az ősi kereskedelmi utak kereszteződésében elfoglalt stratégiai helyzete a középkori Grúzia egyik leghatalmasabb katonai támaszpontjává tette.",
+        "ro": "Cetatea Khertvisi este una dintre cele mai vechi și mai bine conservate fortificații medievale din sudul Georgiei, situată în regiunea Samtskhe-Javakheti. Din punct de vedere geografic, aceasta tronează pe un deal stâncos înalt, la confluența strategică a râurilor Paravani și Kura. Din punct de vedere istoric, fondarea sa este adesea legată de campaniile lui Alexandru cel Mare, deși zidurile vizibile astăzi datează în cea mai mare parte din secolele X-XIV. Timp de secole, cetatea a controlat accesul către văile fertile ale Georgiei de Sud și a fost un important centru administrativ al regiunii. Tehnic, Khertvisi impresionează prin construcția sa masivă din piatră de bazalt locală, care se adaptează organic topografiei accidentate a stâncii. Ansamblul este format dintr-o citadelă superioară cu un turn proeminent și o incintă inferioară vastă. Economic, cetatea este astăzi un punct de atracție major pentru turismul cultural, fiind inclusă pe lista tentativă a Patrimoniului Mondial UNESCO din anul 2007. În perioada sa de glorie, fortăreața găzduia o garnizoană importantă și servea drept refugiu pentru populația din jur în timpul invaziilor otomane și mongole. Poziția sa strategică la intersecția vechilor rute comerciale a transformat-o în unul dintre cele mai puternice avanposturi militare ale Evului Mediu georgian.",
+        "en": "Khertvisi Fortress is one of the oldest and best-preserved medieval fortifications in southern Georgia, located in the Samtskhe-Javakheti region. Geographically, it is perched on a high rocky hill at the strategic confluence of the Paravani and Kura (Mtkvari) rivers. Historically, its foundation is often associated with the campaigns of Alexander the Great, although the walls visible today largely date from the 10th to the 14th centuries. For centuries, the fortress controlled access to the fertile valleys of Southern Georgia and served as a major administrative hub for the region. Technically, Khertvisi is notable for its massive construction using local basalt stone, which seamlessly integrates into the rugged topography of the cliff. The complex consists of an upper citadel with a prominent tower and extensive lower defensive walls. Economically, the fortress is now a significant draw for heritage tourism and was placed on the UNESCO World Heritage tentative list in 2007. During its zenith, it housed a substantial garrison and functioned as a primary sanctuary for the surrounding population during Ottoman and Mongol invasions. Its strategic location at the junction of ancient trade routes established it as one of the most formidable military outposts of medieval Georgia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wurde 2007 gemeinsam mit Vardzia für das UNESCO-Weltkulturerbe nominiert.",
+          "Eine der wenigen Festungen, die nach der osmanischen Eroberung 1578 funktionsfähig blieb.",
+          "Die heutige Struktur stammt primär aus der georgischen Renaissance (10. bis 11. Jh.).",
+          "Beherbergt eine kleine Kapelle aus dem Jahr 985 innerhalb der Zitadelle.",
+          "Strategischer Kontrollpunkt an der historischen Seidenstraße Richtung Byzanz.",
+          "Die Mauern erreichen an einigen Stellen eine Dicke von über 1,5 Metern."
+        ],
+        "hu": [
+          "2007-ben Vardziával közösen jelölték az UNESCO Világörökségi listájára.",
+          "A kevés erőd egyike, amely az 1578-as oszmán hódítás után is működőképes maradt.",
+          "Mai szerkezete elsősorban a 10-11. századi grúz reneszánsz idejéből származik.",
+          "A citadellán belül egy 985-ből származó kis kápolna található.",
+          "Stratégiai ellenőrző pont volt a Bizánc felé vezető történelmi Selyemúton.",
+          "Falai egyes helyeken a 1,5 méteres vastagságot is meghaladják."
+        ],
+        "ro": [
+          "Propusă pentru Patrimoniul Mondial UNESCO în 2007 împreună cu Vardzia.",
+          "Una dintre puținele cetăți care au rămas active după ocupația otomană din 1578.",
+          "Nucleul arhitectural actual datează din secolele X și XI.",
+          "Include o biserică mică în interiorul citadelei, sfințită în anul 985.",
+          "Nod defensiv crucial pe rutele comerciale medievale trans-caucaziene.",
+          "Zidurile de incintă sunt construite integral din blocuri masive de bazalt."
+        ],
+        "en": [
+          "Submitted for UNESCO World Heritage status in 2007 alongside Vardzia.",
+          "One of the few fortresses that remained operational after the Ottoman conquest of 1578.",
+          "The current architectural layout dates primarily to the 10th and 11th centuries.",
+          "Features a small chapel built in 985 AD located within the citadel.",
+          "Served as a vital checkpoint on the Silk Road routes towards the Byzantine Empire.",
+          "The defensive walls are constructed from heavy, locally sourced basalt blocks."
+        ]
+      }
+    },
+    {
+      "id": "ge-david-gareja-history-v2",
+      "descriptionAdvanced": {
+        "de": "Dawit Garedscha ist ein monumentaler Höhlenklosterkomplex im Osten Georgiens, an der Grenze zu Aserbaidschan in der Region Kachetien. Geografisch liegt die Anlage in der semi-ariden Wüste Garedscha auf den Hängen des Berges Udabno. Historisch wurde das Kloster im 6. Jahrhundert vom Heiligen Dawit, einem der 13 Syrischen Väter, gegründet. Über die Jahrhunderte entwickelte sich der Komplex zu einem Zentrum der georgischen Wissenschaft und Kunst, insbesondere der berühmten Malschule von Garedscha. Die Anlage besteht aus hunderten von Zellen, Kirchen, Kapellen und Speisesälen, die direkt in den Sandsteinfels gehauen wurden. Technisch gesehen ist das Entwässerungssystem, das Regenwasser in in den Fels gehauene Kanäle und Zisternen leitet, eine Meisterleistung mittelalterlicher Ingenieurskunst. Ökonomisch ist Dawit Garedscha heute eines der wichtigsten Ziele für Pilger und Kulturtouristen in Georgien. Die Fresken aus dem 9. bis 13. Jahrhundert, insbesondere im Lavra- und Udabno-Kloster, gehören zu den wertvollsten Schätzen der georgischen Wandmalerei. Aufgrund seiner Lage direkt auf der unmarkierten Grenzlinie ist das Kloster seit Jahren Gegenstand politischer Verhandlungen zwischen Georgien und Aserbaidschan. Trotz der harschen klimatischen Bedingungen in der Wüste blieb das geistige Leben hier über ein Jahrtausend fast ununterbrochen erhalten.",
+        "hu": "David Garedzsa egy monumentális sziklakolostor-együttes Kelet-Grúziában, az azerbajdzsáni határ mentén, Kaheti régióban. Földrajzilag a Garedzsa-félsivatagban, az Udabno-hegy lejtőin található. Történelmileg a kolostort a 6. században alapította Szent David, a 13 szír atya egyike. Az évszázadok során a komplexum a grúz tudomány és művészet központjává fejlődött, különösen híres a garedzsai festőiskolájáról. A létesítmény több száz cellából, templomból, kápolnából és ebédlőből áll, amelyeket közvetlenül a homokkő sziklába véstek. Technikai szempontból a csapadékvizet a sziklába vájt csatornákba és ciszternákba vezető vízelvezető rendszer a középkori mérnöki tudás remekműve. Gazdaságilag David Garedzsa ma Grúzia egyik legfontosabb zarándokhelye és kulturális turisztikai célpontja. A 9. és 13. század közötti freskók, különösen a Lavra- és az Udabno-kolostorban, a grúz falfestészet legértékesebb kincsei közé tartoznak. A jelöletlen határvonalon való elhelyezkedése miatt a kolostor évek óta politikai tárgyalások tárgya Grúzia és Azerbajdzsán között. A sivatagi zord éghajlati viszonyok ellenére a szellemi élet több mint egy évezreden át szinte megszakítás nélkül fennmaradt itt.",
+        "ro": "David Gareja este un complex monahal rupestru monumental situat în estul Georgiei, la granița cu Azerbaidjan, în regiunea Kakheti. Geografic, ansamblul se află în deșertul semi-arid Gareja, pe versanții muntelui Udabno. Din punct de vedere istoric, mănăstirea a fost fondată în secolul al VI-lea de către Sfântul David, unul dintre cei 13 părinți sirieni. De-a lungul secolelor, complexul a devenit un centru de prim rang al științei și artei georgiene, fiind renumit pentru școala de pictură de la Gareja. Instalația cuprinde sute de chilii, biserici, capele și trapeze săpate direct în roca de gresie. Din punct de vedere tehnic, sistemul de drenaj care colectează apa de ploaie în canale și cisterne excavate în stâncă reprezintă o capodoperă a ingineriei medievale. Economic, David Gareja este astăzi unul dintre cele mai importante situri de pelerinaj și turism cultural din Georgia. Frescele din secolele IX-XIII, în special cele din mănăstirile Lavra și Udabno, sunt printre cele mai valoroase tezaure ale picturii murale georgiene. Datorită amplasării sale pe linia de frontieră nemarcată, complexul este de ani de zile subiectul unor negocieri politice între Georgia și Azerbaidjan. În ciuda condițiilor climatice dure din deșert, viața spirituală a persistat aici aproape neîntrerupt timp de peste un mileniu.",
+        "en": "David Gareja is a monumental rock-hewn monastic complex in eastern Georgia, spanning the border with Azerbaijan in the Kakheti region. Geographically, it is located in the semi-arid Gareja desert on the slopes of Mount Udabno. Historically, the monastery was founded in the 6th century by Saint David, one of the Thirteen Assyrian Fathers. Over the centuries, the complex evolved into a major center for Georgian science and art, most notably the unique Gareja school of fresco painting. The site comprises hundreds of cells, churches, chapels, and refectories carved directly into the sandstone cliffs. Technically, the sophisticated drainage system, which channels rainwater into rock-cut conduits and cisterns, is a masterpiece of medieval engineering. Economically, David Gareja is now one of Georgia's most vital pilgrimage and cultural tourism destinations. The frescoes dating from the 9th to the 13th centuries, particularly in the Lavra and Udabno monasteries, are among the most precious treasures of Georgian mural art. Due to its position directly on the unmarked borderline, the complex has been a subject of ongoing political negotiations between Georgia and Azerbaijan. Despite the harsh desert climate, spiritual life has endured here for over a millennium."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus 15 verschiedenen Klöstern, die über eine weite Fläche verteilt sind.",
+          "Berühmt für die Udabno-Fresken, die Szenen aus dem Leben von Dawit Garedscha zeigen.",
+          "Besitzt ein antikes System zur Wassersammlung durch Felsrinnen.",
+          "Wurde im 13. Jahrhundert durch mongolische Invasionen schwer beschädigt.",
+          "Teil des Komplexes liegt auf aserbaidschanischem Territorium (Grenzdisput).",
+          "Gilt als einer der bedeutendsten Orte für die georgische Freskomalerei."
+        ],
+        "hu": [
+          "15 különböző kolostorból áll, amelyek nagy területen szóródnak szét.",
+          "Híres az Udabno-freskókról, amelyek Szent David életét ábrázolják.",
+          "Ősi, sziklába vájt esővízgyűjtő rendszerrel rendelkezik.",
+          "A 13. században a mongol inváziók során súlyos károkat szenvedett.",
+          "A komplexum egy része azerbajdzsáni területen fekszik (határvita).",
+          "A grúz falfestészet és könyvmásolás egyik legfontosabb történelmi bázisa."
+        ],
+        "ro": [
+          "Cuprinde 15 mănăstiri distincte dispersate pe o suprafață vastă.",
+          "Renumit pentru frescele din Udabno care ilustrează viața Sfântului David.",
+          "Dispune de un sistem ingenios de colectare a apei prin șanțuri în stâncă.",
+          "Devastată în secolul XIII de hoardele mongole ale lui Berke Khan.",
+          "Situl este subiectul unei dispute teritoriale nerezolvate între Georgia și Azerbaidjan.",
+          "Reprezintă vârful de lance al școlii de pictură religioasă georgiană medievală."
+        ],
+        "en": [
+          "Comprises 15 distinct monasteries spread across a wide desert area.",
+          "Famous for the Udabno frescoes depicting the life of Saint David.",
+          "Features a prehistoric-style water harvesting system carved into the rock.",
+          "Suffered extensive damage during the Mongol invasions of the 13th century.",
+          "Part of the complex is situated on Azerbaijani territory, leading to border disputes.",
+          "Regarded as the primary center for the medieval Georgian school of mural painting."
+        ]
+      }
+    },
+    {
+      "id": "ge-gonio-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Festung Gonio, historisch als Gonio-Apsaros bekannt, ist die älteste Festungsanlage Georgiens und liegt an der Schwarzmeerküste südlich von Batumi. Geografisch befindet sie sich an der Mündung des Chorokhi-Flusses, nur vier Kilometer von der türkischen Grenze entfernt. Historisch wurde sie erstmals im 1. Jahrhundert n. Chr. von Plinius dem Älteren erwähnt und diente als wichtiger römischer Außenposten in Kolchis. Die Festung war ein strategisches Glied in der Verteidigungslinie des Römischen Reiches gegen die Stämme des Kaukasus. Die Architektur besticht durch ihre massiven, quadratischen Mauern mit 18 Wehrtürmen, die weitgehend ihren römisch-byzantinischen Charakter bewahrt haben. Technisch gesehen verfügte Gonio bereits in der Antike über ein komplexes System von Wasserleitungen und Thermen, was die hohe römische Baukunst widerspiegelt. Einer lokalen Legende nach befindet sich hier das Grab des Apostels Matthias, was dem Ort eine tiefe religiöse Bedeutung verleiht. Ökonomisch ist Gonio heute eine der meistbesuchten archäologischen Stätten Georgiens und ein bedeutendes Zentrum für die Erforschung der antiken Geschichte der Schwarzmeerregion. Ausgrabungen brachten wertvolle Schätze aus Gold und Keramik hervor, die heute im angeschlossenen Museum ausgestellt sind.",
+        "hu": "Gonio vára, történelmi nevén Gonio-Apszarosz, Grúzia legrégebbi erődítménye, amely a Fekete-tenger partján, Batumitól délre található. Földrajzilag a Csorohi-folyó torkolatánál fekszik, mindössze négy kilométerre a török határtól. Történelmileg először az i. sz. 1. században említette Idősebb Plinius, és a Római Birodalom fontos colchi-i kihelyezett bázisaként szolgált. Az erőd stratégiai láncszem volt a birodalom kaukázusi törzsek elleni védelmi vonalában. Az építészet a masszív, négyzet alakú falaival és 18 bástyájával nyűgöz le, amelyek nagyrészt megőrizték római-bizánci jellegüket. Technikai szempontból Gonio már az ókorban komplex vízvezeték-rendszerrel és termálfürdőkkel rendelkezett, ami a magas szintű római építőművészetet tükrözi. Egy helyi legenda szerint itt található Mátyás apostol sírja, ami mély vallási jelentőséget ad a helynek. Gazdaságilag Gonio ma Grúzia egyik leglátogatottabb régészeti helyszíne és a fekete-tengeri régió ókori történelmének kutatási központja. Az ásatások során értékes arany- és kerámiakincsek kerültek elő, amelyeket a kapcsolódó múzeumban állítottak ki.",
+        "ro": "Cetatea Gonio, cunoscută istoric sub numele de Gonio-Apsaros, este cea mai veche fortificație din Georgia, situată pe coasta Mării Negre, la sud de Batumi. Geografic, aceasta se află la gura de vărsare a râului Chorokhi, la doar patru kilometri de frontiera cu Turcia. Din punct de vedere istoric, a fost menționată pentru prima dată în secolul I d.Hr. de către Pliniu cel Bătrân, servind drept un avanpost roman crucial în Colchida. Cetatea a fost o verigă strategică în linia de apărare a Imperiului Roman împotriva triburilor caucaziene. Arhitectura se remarcă prin zidurile sale masive, în formă de patrulater, dotate cu 18 turnuri de apărare, care și-au păstrat în mare parte caracterul romano-bizantin. Din punct de vedere tehnic, Gonio dispunea încă din antichitate de un sistem complex de conducte de apă și terme, reflectând măiestria ingineriei romane. Potrivit unei legende locale, aici se află mormântul Apostolului Matia, ceea ce conferă sitului o semnificație religioasă profundă. Economic, Gonio este astăzi unul dintre cele mai vizitate situri arheologice din Georgia și un centru important pentru cercetarea istoriei antice a bazinului pontic. Săpăturile au scos la iveală tezaure valoroase din aur și ceramică, expuse în prezent în muzeul sitului.",
+        "en": "Gonio Fortress, historically known as Gonio-Apsaros, is the oldest fortification in Georgia, situated on the Black Sea coast south of Batumi. Geographically, it is located at the mouth of the Chorokhi River, just four kilometers from the Turkish border. Historically, it was first mentioned in the 1st century AD by Pliny the Elder and served as a critical Roman outpost in Colchis. The fortress was a strategic link in the Roman Empire's defensive line against the Caucasian tribes. The architecture is characterized by its massive, rectangular walls featuring 18 defensive towers, which have largely retained their Roman-Byzantine style. Technically, Gonio was equipped with a sophisticated system of water pipes and thermal baths in antiquity, reflecting superior Roman engineering. According to local tradition, the fortress houses the tomb of the Apostle Matthias, lending the site profound religious significance. Economically, Gonio is now one of Georgia's most frequented archaeological sites and a major hub for researching the ancient history of the Black Sea region. Excavations have yielded significant treasures of gold and ceramics, which are currently displayed in the on-site museum."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Älteste römische Festung auf dem Gebiet des heutigen Georgiens.",
+          "Der Überlieferung nach Begräbnisstätte des Apostels Matthias.",
+          "Besitzt eine Gesamtmauerlänge von 900 Metern mit 18 Türmen.",
+          "Enthält Überreste römischer Thermen und antiker Abwassersysteme.",
+          "Berühmt für den 'Gonio-Schatz', eine Sammlung antiker Goldobjekte.",
+          "Strategischer Standort an der Mündung des Chorokhi-Flusses."
+        ],
+        "hu": [
+          "A mai Grúzia területén található legidősebb római erőd.",
+          "A hagyomány szerint itt található Mátyás apostol sírja.",
+          "Összesen 900 méter hosszú várfallal és 18 bástyával rendelkezik.",
+          "Római termálfürdők és ókori csatornarendszerek maradványait őrzi.",
+          "Híres a 'goniói kincsről', amely antik aranytárgyak gyűjteménye.",
+          "Stratégiai pont a Csorohi-folyó torkolatánál, a török határ mellett."
+        ],
+        "ro": [
+          "Cea mai veche fortăreață romană de pe teritoriul Georgiei actuale.",
+          "Locul de înhumare presupus al Apostolului Matia conform tradiției.",
+          "Zidurile de apărare au o lungime de 900 m și păstrează 18 turnuri.",
+          "Include vestigii ale unor terme romane și conducte de lut antice.",
+          "Găzduiește Tezaurul de la Gonio, o colecție rară de piese de aur antice.",
+          "Punct cheie pentru monitorizarea navigației la gura râului Chorokhi."
+        ],
+        "en": [
+          "The oldest Roman-style fortress on the territory of modern Georgia.",
+          "Traditionally revered as the burial site of the Apostle Matthias.",
+          "Features a 900-meter-long defensive wall with 18 intact towers.",
+          "Contains archaeological remains of Roman baths and clay water pipes.",
+          "Famous for the 'Gonio Treasure,' a collection of exquisite ancient gold artifacts.",
+          "Strategically positioned at the mouth of the Chorokhi River near the border."
+        ]
+      }
+    },
+    {
+      "id": "ge-shatili-history-v2",
+      "descriptionAdvanced": {
+        "de": "Schatili ist eine einzigartige mittelalterliche Festungssiedlung in der historischen Region Chewsuretien, im Herzen des Großen Kaukasus. Geografisch liegt das Dorf auf etwa 1.400 Metern Höhe an den steilen Ufern des Flusses Argun, nahe der Grenze zu Tschetschenien. Schatili ist ein außergewöhnliches Beispiel georgischer Verteidigungsarchitektur: Das gesamte Dorf wurde als eine einzige, zusammenhängende Festung konzipiert. Die etwa 60 Wohntürme sind so dicht aneinander gebaut, dass sie eine lückenlose Außenmauer bilden, während sie im Inneren durch ein Labyrinth aus Treppen und schmalen Gassen verbunden sind. Historisch diente Schatili als uneinnehmbarer Wächter der nördlichen Pässe und widerstand über Jahrhunderte zahlreichen Belagerungen kaukasischer Bergstämme und persischer Truppen. Technisch beeindruckt die Anlage durch ihre Schiefersteinbauweise, bei der die Steine präzise ohne Mörtel geschichtet wurden. Ökonomisch ist Schatili heute das Zentrum des Hochgebirgstourismus in Chewsuretien und steht auf der Tentativliste des UNESCO-Weltkulturerbes. Da das Dorf in den Wintermonaten oft monatelang von der Außenwelt isoliert ist, hat sich hier eine archaische Kultur mit eigenwilligen Traditionen und Liedgut erhalten, die tief in der georgischen Mythologie verwurzelt sind.",
+        "hu": "Satili egyedülálló középkori erődtelepülés Hevszureti történelmi régiójában, a Nagy-Kaukázus szívében. Földrajzilag a falu körülbelül 1400 méteres magasságban fekszik az Argun-folyó meredek partján, a csecsen határ közelében. Satili a grúz védelmi építészet kivételes példája: az egész falut egyetlen, összefüggő erődként tervezték. A mintegy 60 lakótorony olyan szorosan épült egymáshoz, hogy összefüggő külső falat alkotnak, miközben belül lépcsők és szűk sikátorok labirintusa köti össze őket. Történelmileg Satili az északi hágók bevehetetlen őreként szolgált, és évszázadokon át ellenállt a kaukázusi hegyi törzsek és perzsa csapatok számos ostromának. Technikai szempontból a létesítmény palakő építési módjával nyűgöz le, ahol a köveket precízen, kötőanyag nélkül rakták egymásra. Gazdaságilag Satili ma Hevszureti magashegyi turizmusának központja, és szerepel az UNESCO Világörökség várólistáján. Mivel a falu a téli hónapokban gyakran hónapokra el van zárva a külvilágtól, itt egy archaikus kultúra maradt fenn sajátos hagyományokkal és dalokkal, amelyek mélyen gyökereznek a grúz mitológiában.",
+        "ro": "Shatili este o așezare fortificată medievală unică situată în regiunea istorică Khevsureti, în inima Caucazului Mare. Geografic, satul se află la o altitudine de aproximativ 1.400 de metri pe malurile abrupte ale râului Argun, aproape de granița cu Cecenia. Shatili reprezintă un exemplu excepțional de arhitectură defensivă georgiană: întregul sat a fost conceput ca o singură fortăreață continuă. Cele aproximativ 60 de turnuri de locuit sunt construite atât de dens încât formează un zid exterior neîntrerupt, în timp ce în interior sunt conectate printr-un labirint de scări și ulițe înguste. Din punct de vedere istoric, Shatili a servit drept gardian inexpugnabil al trecătorilor nordice, rezistând timp de secole numeroaselor asedii ale triburilor muntoase caucaziene și ale trupelor persane. Din punct de vedere tehnic, complexul impresionează prin tehnica zidăriei din plăci de ardezie, unde pietrele au fost stratificate cu precizie fără utilizarea mortarului. Economic, Shatili este astăzi centrul turismului montan de mare altitudine în Khevsureti și se află pe lista tentativă a Patrimoniului Mondial UNESCO. Deoarece satul este adesea izolat de lume timp de luni de zile în perioada de iarnă, aici s-a păstrat o cultură arhaică cu tradiții și balade specifice, profund înrădăcinate în mitologia georgiană.",
+        "en": "Shatili is a unique medieval fortified settlement in the historic Khevsureti region, in the heart of the Greater Caucasus. Geographically, the village lies at an altitude of about 1,400 meters on the steep banks of the Argun River, near the border with Chechnya. Shatili is an exceptional example of Georgian defensive architecture: the entire village was designed as a single, contiguous fortress. The approximately 60 residential towers are built so closely together that they form a continuous outer wall, while inside they are connected by a labyrinth of stairs and narrow alleys. Historically, Shatili served as an impregnable guardian of the northern passes and resisted numerous sieges by Caucasian mountain tribes and Persian forces over centuries. Technically, the site is remarkable for its dry-stone slate construction, where the stones were precisely layered without mortar. Economically, Shatili is now the center of high-altitude tourism in Khevsureti and is on the UNESCO World Heritage tentative list. As the village is often isolated from the outside world for months during the winter, an archaic culture with distinct traditions and folk songs deeply rooted in Georgian mythology has been preserved here."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus ca. 60 eng miteinander verbundenen Wehrtürmen.",
+          "UNESCO-Weltkulturerbe-Anwärter aufgrund der einzigartigen Architektur.",
+          "Gelegen im Argun-Tal auf 1.400 Metern über dem Meeresspiegel.",
+          "Gilt als eine der besterhaltenen mittelalterlichen Wehrstädte Europas.",
+          "Wurde im 19. Jahrhundert Schauplatz heroischer Kämpfe gegen die russische Expansion.",
+          "Infrastruktur ist im Winter nur über Hubschrauber oder Ski erreichbar."
+        ],
+        "hu": [
+          "Körülbelül 60, szorosan egymáshoz épített védőtoronyból áll.",
+          "UNESCO Világörökségi várományos az egyedülálló építészete miatt.",
+          "Az Argun-völgyben, 1400 méteres tengerszint feletti magasságban fekszik.",
+          "Európa egyik legjobb állapotban fennmaradt középkori erődvárosa.",
+          "A 19. században az orosz terjeszkedés elleni hősies harcok színhelye volt.",
+          "Télen az infrastruktúra csak helikopterrel vagy sível érhető el."
+        ],
+        "ro": [
+          "Format din aproximativ 60 de turnuri fortificate interconectate.",
+          "Inclus pe lista tentativă UNESCO pentru valoarea sa arhitecturală unică.",
+          "Situat în defileul Argun la o cotă de 1.400 de metri.",
+          "Considerat unul dintre cele mai bine conservate sate-cetate din lume.",
+          "Faimos pentru rezistența împotriva armatelor țariste în secolul XIX.",
+          "Izolat complet de zăpadă timp de 6 luni pe an, fără acces rutier."
+        ],
+        "en": [
+          "Consists of approximately 60 closely integrated defensive and residential towers.",
+          "On the UNESCO World Heritage tentative list due to its unique architectural layout.",
+          "Located in the Argun Valley at an elevation of 1,400 meters.",
+          "Regarded as one of the best-preserved medieval fortified towns in Europe.",
+          "Site of legendary resistance against Imperial Russian expansion in the 19th century.",
+          "Road access is completely blocked by snow for nearly half the year."
+        ]
+      }
+    },
+    {
+      "id": "ge-ananuri-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Festung Ananuri ist eines der bedeutendsten Denkmäler der georgischen Spätfeudalzeit und liegt an der Georgischen Heerstraße. Geografisch thront der Komplex auf einem Hügel über dem Schinwali-Stausee am Fluss Aragwi. Historisch war Ananuri vom 13. bis zum 18. Jahrhundert der Stammsitz der Fürsten von Aragwi, einer mächtigen Dynastie, die über das Aragwi-Tal herrschte. Die Anlage besteht aus zwei Festungen, die durch eine Ringmauer verbunden sind, wobei die obere Festung mit ihren Türmen und Kirchen fast vollständig erhalten ist. Die Hauptkirche der Gottesmutter, erbaut im Jahr 1689, ist berühmt für ihre reich verzierten Steinschnitzereien an der Außenfassade, insbesondere das große Kreuz an der Westwand. Technisch beeindruckt Ananuri durch die geschickte Nutzung des Geländes zur Verteidigung und die hohe Qualität der Mauerwerkskunst. Ökonomisch ist die Festung heute einer der meistbesuchten Orte Georgiens, da sie die perfekte Zwischenstation auf dem Weg in den Großen Kaukasus bildet. Trotz zahlreicher Kriege zwischen den lokalen Fürstengeschlechtern und Invasionen der Osmanen blieb der Kern der Festung intakt. Ananuri ist nicht nur ein militärisches Bauwerk, sondern auch ein spirituelles Zentrum, das den künstlerischen Reichtum Georgiens am Vorabend der russischen Annexion widerspiegelt.",
+        "hu": "Ananuri vára a késő feudális kori Grúzia egyik legjelentősebb műemléke, amely a Grúz Hadiút mentén található. Földrajzilag a komplexum az Aragvi-folyón lévő Zsinvali-víztározó feletti dombon trónol. Történelmileg Ananuri a 13. és a 18. század között az Aragvi hercegek, egy hatalmas dinasztia székhelye volt, akik az Aragvi-völgy felett uralkodtak. A létesítmény két erődből áll, amelyeket egy körfal köt össze, a felső erőd tornyaival és templomaival szinte teljesen épen maradt fenn. Az Istenszülő-főtemplom, amely 1689-ben épült, híres a külső homlokzatán látható gazdagon díszített kőfaragványairól, különösen a nyugati falon található nagy keresztről. Technikai szempontból Ananuri a terep ügyes védelmi kihasználásával és a falazat magas minőségével nyűgöz le. Gazdaságilag az erőd ma Grúzia egyik leglátogatottabb helyszíne, mivel tökéletes megállóhely a Nagy-Kaukázus felé vezető úton. A helyi hercegi családok közötti számos háború és az oszmán inváziók ellenére az erőd magja érintetlen maradt. Ananuri nem csupán egy katonai építmény, hanem spirituális központ is, amely Grúzia művészi gazdagságát tükrözi az orosz annektálás előestéjén.",
+        "ro": "Cetatea Ananuri este unul dintre cele mai importante monumente ale perioadei feudale târzii din Georgia, situat pe Drumul Militar Georgian. Geografic, complexul este cocoțat pe un deal deasupra lacului de acumulare Zhinvali, pe râul Aragvi. Din punct de vedere istoric, între secolele XIII și XVIII, Ananuri a fost reședința principilor de Aragvi, o dinastie puternică ce stăpânea valea râului cu același nume. Ansamblul este format din două fortificații legate printr-un zid de incintă, cetatea superioară păstrându-se aproape integral, cu turnurile și bisericile sale. Biserica principală a Adormirii Maicii Domnului, construită în 1689, este celebră pentru sculpturile sale bogate în piatră de pe fațadele exterioare, în special marea cruce de pe peretele de vest. Din punct de vedere tehnic, Ananuri impresionează prin utilizarea abilă a reliefului pentru apărare și prin calitatea superioară a zidăriei. Economic, cetatea este astăzi unul dintre cele mai vizitate locuri din Georgia, fiind o oprire obligatorie în drumul spre Caucazul Mare. În ciuda numeroaselor războaie între clanurile nobiliare locale și a invaziilor otomane, nucleul cetății a rămas intact. Ananuri nu este doar o structură militară, ci și un centru spiritual ce reflectă bogăția artistică a Georgiei în pragul anexării rusești.",
+        "en": "Ananuri Fortress is one of the most significant monuments of Georgia’s late feudal period, situated along the Georgian Military Highway. Geographically, the complex is perched on a hill overlooking the Zhinvali Reservoir on the Aragvi River. Historically, Ananuri served as the seat of the Princes of Aragvi, a powerful dynasty that ruled the Aragvi Valley from the 13th to the 18th centuries. The site consists of two fortifications joined by a curtain wall, with the upper fortress, including its towers and churches, remaining almost entirely intact. The main Church of the Mother of God, built in 1689, is renowned for its richly detailed stone carvings on the exterior facades, particularly the large ornate cross on the west wall. Technically, Ananuri is impressive for its strategic use of the landscape for defense and the superior quality of its masonry. Economically, the fortress is now one of Georgia's most visited landmarks, serving as an ideal stopover on the route to the Greater Caucasus. Despite numerous internecine wars between local noble houses and Ottoman invasions, the core of the fortress survived. Ananuri is not only a military structure but also a spiritual center, reflecting Georgia’s artistic richness on the eve of the Russian annexation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Stammsitz der mächtigen Fürsten von Aragwi im 13. bis 18. Jahrhundert.",
+          "Beherbergt zwei Kirchen, die Mariä-Himmelfahrts-Kirche und die Erlöserkirche.",
+          "Berühmt für das monumentale Steinkreuz an der Westfassade (1689).",
+          "Wurde 2007 auf die UNESCO-Tentativliste für das Weltkulturerbe gesetzt.",
+          "Bietet den besten Panoramablick auf den türkisfarbenen Schinwali-Stausee.",
+          "Verfügt über einen quadratischen Hauptturm, bekannt als 'Schupis-Ziche'."
+        ],
+        "hu": [
+          "Az Aragvi hercegek hatalmi központja volt a 13–18. században.",
+          "Két templom található benne: a Szűz Mária- és a Megváltó-templom.",
+          "Híres az 1689-ben faragott monumentális kőkeresztről a nyugati falon.",
+          "2007 óta szerepel az UNESCO Világörökségi várólistáján.",
+          "Innen nyílik a legszebb kilátás a türkizkék Zsinvali-víztározóra.",
+          "A komplexum fő bástyája egy négyzetes alapú torony, a 'Supisz-cihe'."
+        ],
+        "ro": [
+          "Sediul ereditar al puternicilor duci (eristavi) de Aragvi.",
+          "Cuprinde două lăcașuri de cult: Biserica Adormirii și Biserica Mântuitorului.",
+          "Fațada de vest prezintă o cruce sculptată monumentală, unică în arta feudală.",
+          "Înscrisă pe lista tentativă a Patrimoniului Mondial UNESCO din 2007.",
+          "Situată strategic la punctul de control al accesului spre pasul Jvari.",
+          "Include turnul de apărare 'Kvemo' cu o structură piramidală rară."
+        ],
+        "en": [
+          "The ancestral seat of the powerful Eristavi (Dukes) of Aragvi.",
+          "Home to two major churches: the Assumption and the Church of the Savior.",
+          "Famous for the monumental 1689 stone cross carved into the west facade.",
+          "Added to the UNESCO World Heritage tentative list in 2007.",
+          "Offers a prime vantage point over the turquoise Zhinvali Reservoir.",
+          "Features a distinctive square defensive tower known as 'Sheupis-tsikhe'."
+        ]
+      }
+    }
+  ]
+}

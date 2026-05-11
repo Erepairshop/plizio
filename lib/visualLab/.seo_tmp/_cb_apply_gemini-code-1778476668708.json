@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-sare-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Saré (Mont Saré) ist eine markante Erhebung im zentralen Fouta-Djallon-Hochland, gelegen in der Präfektur Dalaba. Geografisch gehört er zu den charakteristischen Sandsteinplateaus der Region und erreicht eine beträchtliche Höhe, die ihn zu einem weithin sichtbaren Orientierungspunkt macht. Der Berg ist geprägt durch steile Kliffs und tief eingeschnittene Täler an seinen Flanken, während der Gipfelbereich oft flachere, windgepeitschte Graslandschaften aufweist. Historisch gesehen diente der Mount Saré den lokalen Gemeinschaften der Peul als strategischer Rückzugsort und als Ort für spirituelle Praktiken. Das Klima auf dem Berg ist deutlich kühler als im Umland, was zur Bildung von Nebelwäldern in den geschützten Lagen führt. Ökologisch beherbergt das Saré-Massiv eine spezialisierte Flora, darunter seltene Farne und endemische Sukkulenten, die an den felsigen Untergrund angepasst sind. Wirtschaftlich spielt der Berg eine Rolle für den lokalen Tourismus, insbesondere für Wanderer, die die Einsamkeit und die unberührte Natur suchen. Von den Höhen des Mount Saré bietet sich ein spektakulärer Blick über die weiten Plateaus von Mittelguinea, der die geologische Komplexität des Hochlandes verdeutlicht.",
+        "hu": "A Saré-hegy (Mont Saré) a központi Fouta Djallon-hegység egyik jellegzetes magaslata, amely Dalaba prefektúrában található. Földrajzilag a régióra jellemző homokkő fennsíkok sorába tartozik, jelentős tengerszint feletti magassága révén messziről felismerhető tájékozódási pont. A hegy domborzatát meredek sziklafalak és mélyen bevágódott völgyek határozzák meg, míg a csúcs környékét szeles, füves puszták uralják. Történelmileg a Saré-hegy a helyi fula közösségek számára stratégiai menedékhelyként és rituális helyszínként szolgált. Az éghajlat a hegyen jóval hűvösebb, mint az alacsonyabb síkságokon, ami kedvez a ritka köderdők kialakulásának a védettebb lejtőkön. Ökológiai szempontból a Saré-masszívum különleges flórával büszkélkedhet: ritka páfrányok és endemikus pozsgás növények élnek a sziklás felszínen. Gazdasági szempontból a hegy a helyi túraútvonalak egyik fontos állomása, vonzva az érintetlen természetet és a csendet kereső látogatókat. A Saré-hegy csúcsáról nyíló panoráma feltárja Közép-Guinea végtelen fennsíkjait, jól szemléltetve a felföld geológiai összetettségét.",
+        "ro": "Muntele Saré (Mont Saré) este o înălțime proeminentă din masivul central Fouta Djallon, situată în prefectura Dalaba. Din punct de vedere geografic, acesta face parte din seria caracteristică de platouri de gresie ale regiunii, atingând o altitudine considerabilă care îl transformă într-un punct de reper vizibil de la distanță. Muntele este marcat de faleze abrupte și văi adânc săpate pe versanți, în timp ce zona de vârf prezintă pajiști alpine bântuite de vânturi. Istoric, Muntele Saré a servit comunităților locale Fula drept refugiu strategic și loc pentru practici spirituale ancestrale. Climatul de pe munte este semnificativ mai răcoros decât în zonele învecinate, favorizând formarea pădurilor de ceață în locurile protejate. Ecologic, masivul Saré adăpostește o floră specializată, inclusiv ferigi rare și plante suculente endemice adaptate la substratul stâncos. Din punct de vedere economic, muntele joacă un rol în turismul local, fiind o destinație căutată de drumeții care doresc să exploreze natura virgină. De pe înălțimile Muntelui Saré se oferă o vedere spectaculoasă asupra platourilor vaste din Guineea Centrală, evidențiind complexitatea geologică a regiunii.",
+        "en": "Mount Saré (Mont Saré) is a prominent peak in the central Fouta Djallon highlands, located within the Dalaba Prefecture. Geographically, it is part of the region's characteristic sandstone plateau formations, reaching an elevation that makes it a visible landmark from afar. The mountain is defined by steep cliffs and deeply incised valleys along its flanks, while the summit area often features flatter, windswept grasslands. Historically, Mount Saré served the local Peul communities as a strategic sanctuary and a site for spiritual rites. The climate on the mountain is notably cooler than the surrounding lowlands, leading to the development of montane mist forests in sheltered pockets. Ecologically, the Saré massif supports specialized flora, including rare ferns and endemic succulents adapted to the rocky terrain. Economically, the mountain is part of the local trekking circuit, attracting visitors seeking solitude and pristine environments. From the heights of Mount Saré, spectacular views across the expansive plateaus of Middle Guinea reveal the complex geological layering of the highlands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Saré gehört zu den höchsten Gipfeln in der Region Dalaba.",
+          "Der Berg besteht aus alten, geschichteten Sandsteinfelsen.",
+          "In den Hangwäldern entspringen mehrere kleine Quellbäche.",
+          "Das Plateau ist bekannt für seine kühlen Temperaturen während der Nacht.",
+          "Mount Saré ist ein wichtiger Teil des ökologischen Korridors von Dalaba.",
+          "Einheimische Führer bieten thematische Wanderungen zur Geologie des Berges an."
+        ],
+        "hu": [
+          "A Saré-hegy a Dalaba környéki hegyvidék egyik legmagasabb pontja.",
+          "A hegy alapkőzete rétegzett homokkő, amely látványos rétegvonalakat mutat.",
+          "A lejtők erdőiben számos apró forrás ered, amelyek a völgyeket táplálják.",
+          "A fennsíkon az éjszakai hőmérséklet gyakran 10 fok alá süllyed.",
+          "A terület a Fouta Djallon egyik legfontosabb vadvédelmi zónája.",
+          "A hegycsúcsról belátható a közeli Dalaba városa és a környező völgyek."
+        ],
+        "ro": [
+          "Mont Saré este o destinație de top pentru observații astronomice datorită aerului rarefiat.",
+          "Relieful său a fost modelat de eroziune diferențială de-a lungul mileniilor.",
+          "Pantele muntelui adăpostesc specii rare de cimpanzei de munte.",
+          "Este considerat un barometru natural pentru comunitățile agricole din vale.",
+          "Structura stâncoasă a Muntelui Saré este ideală pentru escaladă sportivă.",
+          "Situl este inclus în inventarul zonelor de conservare a biodiversității montane."
+        ],
+        "en": [
+          "Mount Saré is among the highest elevations in the Dalaba highlands.",
+          "The mountain is composed of ancient sedimentary sandstone layers.",
+          "The slope forests serve as a vital catchment area for local streams.",
+          "It experiences a distinct afro-montane climate with high humidity.",
+          "Mount Saré is a central point for regional environmental monitoring.",
+          "The peak offers a panoramic 360-degree view of the Guinean heartland."
+        ]
+      }
+    },
+    {
+      "id": "mount-tinka-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Tinka (Mont Tinka) ist eine ästhetisch ansprechende Erhebung in der Präfektur Dalaba, die für ihre landschaftliche Schönheit und ihre Rolle im regionalen Tourismus bekannt ist. Geografisch liegt der Berg im zentralen Fouta Djallon und zeichnet sich durch seine sanfteren Gipfelformen im Vergleich zu den schroffen Canyons der Umgebung aus. Der Berg ist von dichten Pinienwäldern umgeben, die während der Kolonialzeit gepflanzt wurden und ihm ein fast europäisches Erscheinungsbild verleihen. Historisch war der Mount Tinka ein bevorzugter Ort für die Erholung der französischen Verwaltung, was zur Gründung kleiner Sanatorien und Villen in seiner Nähe führte. Das Klima am Mount Tinka ist das ganze Jahr über mild und erfrischend, was ihn zu einem idealen Ziel für Wanderer macht. Wirtschaftlich profitiert die lokale Bevölkerung vom Ökotourismus, da der Berg gut durch Wanderwege erschlossen ist. Ökologisch bietet die Mischung aus eingeführten Pinien und einheimischer Vegetation einen interessanten Lebensraum für Vögel und Kleinsäuger. Ein Aufstieg zum Gipfel bietet weite Ausblicke auf die Täler von Dalaba und unterstreicht die Einzigartigkeit dieses klimatischen Rückzugsortes in Westafrika.",
+        "hu": "A Tinka-hegy (Mont Tinka) egy esztétikailag kiemelkedő magaslat Dalaba prefektúrában, amely természeti szépségéről és a regionális turizmusban betöltött szerepéről híres. Földrajzilag a központi Fouta Djallon-hegységben található, csúcsa lágyabb vonalvezetésű, mint a környező vidék vad szurdokai. A hegyet sűrű fenyőerdők övezik, amelyeket még a gyarmati időszakban telepítettek, ami szokatlan, szinte európaias megjelenést kölcsönöz a tájnak. Történelmileg a Tinka-hegy a francia közigazgatás tisztviselőinek kedvelt pihenőhelye volt, aminek köszönhetően több szanatórium és villa épült a közelében. Az éghajlat a hegyen egész évben mérsékelt és frissítő, ami ideális célponttá teszi a túrázók számára. Gazdaságilag a helyi lakosság sokat profitál az ökoturizmusból, mivel a hegy jól kiépített ösvényrendszerrel rendelkezik. Ökológiai szempontból a betelepített fenyők és az őshonos növényzet keveredése érdekes élőhelyet teremt a madarak és kisemlősök számára. A csúcsra vezető út során feltárulnak Dalaba völgyei, megerősítve a helyszín egyedülálló szerepét a nyugat-afrikai hegyvidéki rekreációban.",
+        "ro": "Muntele Tinka (Mont Tinka) este o înălțime pitorească situată în prefectura Dalaba, renumită pentru frumusețea peisajului și rolul său în turismul regional. Geografic, muntele se află în masivul central Fouta Djallon, remarcându-se prin culmi mai domoale în comparație cu canioanele abrupte din jur. Muntele este înconjurat de păduri de pini dese, plantate în perioada colonială, care îi conferă un aspect aproape european. Istoric, Muntele Tinka a fost un loc de vacanță preferat de administrația franceză, fapt care a dus la construirea unor mici sanatorii și vile în apropierea sa. Climatul pe Muntele Tinka este blând și revigorant pe tot parcursul anului, făcându-l o destinație ideală pentru drumeții. Din punct de vedere economic, populația locală beneficiază de pe urma ecoturismului, muntele fiind bine deservit de poteci marcate. Ecologic, amestecul de pini introduși și vegetație nativă oferă un habitat interesant pentru păsări și mamifere mici. O ascensiune pe vârf oferă vederi largi asupra văilor din Dalaba, subliniind caracterul unic al acestui refugiu climatic din Africa de Vest.",
+        "en": "Mount Tinka (Mont Tinka) is an aesthetically striking elevation in the Dalaba Prefecture, renowned for its scenic beauty and its role in regional tourism. Geographically situated in the central Fouta Djallon, the mountain features gentler summit contours compared to the rugged canyons found elsewhere in the region. It is surrounded by dense pine forests planted during the colonial era, giving the landscape an almost European appearance. Historically, Mount Tinka was a favored retreat for French administrators, leading to the construction of small sanatoriums and villas in its vicinity. The climate at Mount Tinka remains mild and refreshing year-round, making it a premier destination for hikers. Economically, the local community benefits from eco-tourism as the mountain is well-served by an established network of trails. Ecologically, the blend of introduced pines and indigenous vegetation creates a unique habitat for birdlife and small mammals. A climb to the peak offers expansive views of the Dalaba valleys, reinforcing its status as a unique climatic haven in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Tinka ist bekannt für seine 'europäischen' Pinienwälder.",
+          "Das Klima auf dem Gipfel ist einer der kühlsten Orte in ganz Guinea.",
+          "Der Berg ist ein klassisches Ziel für den Wochenendtourismus aus Conakry.",
+          "In der Nähe befinden sich historische Villen aus den 1930er Jahren.",
+          "Der Mount Tinka dient als Wasserscheide für lokale Gebirgsbäche.",
+          "Wanderwege am Tinka sind für alle Fitnessstufen geeignet."
+        ],
+        "hu": [
+          "A Tinka-hegy híres az ott található fenyvesekről, amelyek ritkák a trópusokon.",
+          "A hegycsúcs Guinea egyik leghűvösebb pontja a száraz évszakban.",
+          "A település és a hegy a belföldi turizmus egyik legfontosabb központja.",
+          "Az 1930-as években épült villák ma is láthatók a hegy lábánál.",
+          "A hegy fontos szerepet játszik a Dalaba környéki párafogó rendszerekben.",
+          "A Tinka környéki ösvények a legnépszerűbb túraútvonalak közé tartoznak az országban."
+        ],
+        "ro": [
+          "Muntele Tinka a fost utilizat istoric pentru studii climaterice tropicale.",
+          "Pădurile de pini au fost plantate inițial pentru a opri eroziunea solului.",
+          "Vârful oferă o vizibilitate excelentă asupra platoului central.",
+          "Zona Tinka este renumită pentru florile sale sălbatice de munte.",
+          "Reprezintă un punct de referință pentru arhitectura colonială montană.",
+          "Este considerat unul dintre cei mai siguri și accesibili munți pentru trekking."
+        ],
+        "en": [
+          "Mount Tinka is famous for its non-native pine groves, a rarity in the tropics.",
+          "The mountain features some of the lowest average temperatures in Guinea.",
+          "It was historically designed as a high-altitude health station.",
+          "The peak provides a direct view of the 'Case à Palabres' in Dalaba.",
+          "The mountain acts as a natural air conditioner for the surrounding town.",
+          "Tinka's slopes are home to a variety of migratory bird species."
+        ]
+      }
+    },
+    {
+      "id": "mount-kavendou-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Kavendou (Mont Kavendou) ist eine bedeutende Erhebung in der Gebirgsregion von Waldguinea, gelegen in der Präfektur Guékédou. Geografisch gehört er zur 'Dorsale Guinéenne', einer Bergkette, die das Rückgrat der Westafrikanischen Regenwaldzone bildet. Der Berg erreicht eine beachtliche Höhe und ist durch seine dichte tropische Bewaldung und die charakteristischen Nebelschwaden geprägt. Historisch gesehen war der Mount Kavendou ein wichtiger Punkt für den kulturellen Austausch und den Widerstand der lokalen Gemeinschaften gegen koloniale Bestrebungen. Die Topografie ist durch steile Hänge und tiefe, fruchtbare Täler definiert, in denen intensiver Wanderfeldbau betrieben wird. Wirtschaftlich ist der Berg für die Region Guékédou von Bedeutung, da er die Wasserquellen für den regionalen Reisanbau schützt und wertvolle Nichtholzprodukte liefert. Ökologisch ist der Mount Kavendou ein wichtiges Bindeglied im Korridor zwischen den Waldreservaten Guineas und Liberias, das bedrohten Arten wie dem Westafrikanischen Schimpansen Schutz bietet. Für Besucher ist der Berg ein Ziel für anspruchsvolle Wanderungen durch unberührte Regenwaldgebiete, die einen Einblick in die ursprüngliche Biodiversität Guineas geben.",
+        "hu": "A Kavendou-hegy (Mont Kavendou) az Erdős-Guinea régió egyik legfontosabb magaslata, amely a Guékédou prefektúrában található. Földrajzilag a Guineai-hátság (Dorsale Guinéenne) része, amely a nyugat-afrikai esőerdő-övezet gerincét alkotja. A hegy jelentős magasságával, sűrű trópusi erdőivel és a csúcsot gyakran borító ködfátyollal tűnik ki. Történelmileg a Kavendou-hegy fontos szerepet játszott a helyi közösségek kulturális életében és a gyarmati terjeszkedéssel szembeni ellenállásban. A domborzatot meredek lejtők és termékeny völgyek jellemzik, ahol a lakosság hagyományos, égetéses gazdálkodást folytat. Gazdaságilag a hegy kulcsfontosságú Guékédou régiója számára, mivel a hegyről lefutó vizek biztosítják a rizstermesztés alapjait, és az erdő értékes gyógynövényeket kínál. Ökológiai szempontból a Kavendou-hegy fontos láncszem a Guinea és Libéria közötti erdőfolyosóban, menedéket nyújtva olyan veszélyeztetett fajoknak, mint a nyugat-afrikai csimpánz. A látogatók számára a hegy embert próbáló túrákat kínál érintetlen esőerdei környezetben, feltárva Guinea biológiai sokféleségének rejtett kincseit.",
+        "ro": "Muntele Kavendou (Mont Kavendou) este o înălțime semnificativă situată în regiunea muntoasă a Guineei Forestiere, în prefectura Guékédou. Geografic, acesta face parte din „Dorsala Guineeană”, un lanț muntos care constituie coloana vertebrală a zonei de pădure tropicală din Africa de Vest. Muntele atinge o altitudine considerabilă și este caracterizat de o vegetație forestieră densă și de prezența frecventă a ceții pe culmi. Istoric, Muntele Kavendou a reprezentat un punct important de schimb cultural și de rezistență a comunităților locale împotriva presiunilor coloniale. Topografia este definită de versanți abrupți și văi adânce și fertile, unde se practică o agricultură de subzistență intensă. Din punct de vedere economic, muntele este vital pentru regiunea Guékédou, protejând izvoarele care alimentează culturile de orez și oferind produse forestiere nelemnoase valoroase. Ecologic, Muntele Kavendou funcționează ca o verigă esențială în coridorul biologic dintre rezervațiile forestiere ale Guineei și Liberiei, oferind protecție speciilor amenințate precum cimpanzeul vest-african. Pentru vizitatori, muntele este o destinație pentru drumeții dificile prin pădurea tropicală virgină, oferind o perspectivă asupra biodiversității originale a țării.",
+        "en": "Mount Kavendou (Mont Kavendou) is a significant elevation in the mountain region of Forested Guinea, located within the Guékédou Prefecture. Geographically, it belongs to the 'Dorsale Guinéenne,' a mountain range that forms the backbone of the West African rainforest zone. The mountain reaches a substantial altitude and is characterized by its dense tropical canopy and frequent mist. Historically, Mount Kavendou was a vital point for cultural exchange and resistance by local communities against colonial expansion. Its topography is defined by steep slopes and deep, fertile valleys where traditional shifting cultivation is practiced. Economically, the mountain is crucial for the Guékédou region as it protects the headwaters for regional rice farming and provides valuable non-timber forest products. Ecologically, Mount Kavendou serves as an important link in the corridor between Guinea's and Liberia's forest reserves, offering sanctuary to endangered species such as the West African chimpanzee. For visitors, the mountain offers challenging treks through untouched rainforest areas, providing a glimpse into Guinea's original biodiversity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Kavendou liegt in einer der regenreichsten Regionen Guineas.",
+          "Der Berg ist Teil des guineischen Hochlandes (Dorsale Guinéenne).",
+          "Die Flora umfasst seltene tropische Hartholzarten.",
+          "Kavendou ist ein wichtiger Wasserspeicher für das Makona-Flusssystem.",
+          "Die Region ist bekannt für ihre traditionellen Heilpflanzenjäger.",
+          "Wanderungen auf den Kavendou erfordern aufgrund der dichten Vegetation oft Führer."
+        ],
+        "hu": [
+          "A Kavendou-hegy Guinea egyik legcsapadékosabb vidékén fekszik.",
+          "A hegy a Guineai-hátság egyik meghatározó országhatár menti tömbje.",
+          "Az erdőkben értékes trópusi keményfafajták, például mahagóni is található.",
+          "A hegy forrásai táplálják a stratégiai jelentőségű Makona-folyót.",
+          "A helyi közösségek az erdőt gyógyító erejű spirituális helyként tisztelik.",
+          "A sűrű aljnövényzet miatt a hegy megmászása speciális felkészültséget igényel."
+        ],
+        "ro": [
+          "Mont Kavendou atrage precipitații orografice masive dinspre Atlantic.",
+          "Face parte din rețeaua de arii prioritare pentru conservarea primatelor.",
+          "Vârful muntelui este adesea acoperit de păduri de nori (cloud forests).",
+          "Ecosistemul local este unul dintre cele mai vechi din regiunea Guineea de Sud.",
+          "Muntele servește drept graniță naturală între mai multe comunități etnice.",
+          "Relieful accidentat a prevenit defrișarea industrială în această zonă."
+        ],
+        "en": [
+          "Mount Kavendou experiences some of the highest rainfall in West Africa.",
+          "The mountain is a key feature of the Guinea Highlands (Dorsale Guinéenne).",
+          "It supports an ecosystem of rare tropical hardwoods and epiphytes.",
+          "The massif is a primary source for the regional Makona River basin.",
+          "Local traditions include seasonal pilgrimages to the mountain's caves.",
+          "It remains a vital research site for West African rainforest biodiversity."
+        ]
+      }
+    },
+    {
+      "id": "mount-konossou-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Konossou (Mont Konossou) ist eine beeindruckende Erhebung in der Präfektur Macenta, im Herzen von Waldguinea. Geografisch erhebt sich der Berg über die umliegenden Regenwaldtäler und ist durch seine schroffen Felsformationen und eine dichte, grüne Kappe geprägt. Er gehört zum Ziama-Massiv-Komplex, der für seine außergewöhnliche biologische Vielfalt bekannt ist. Historisch gesehen war der Mount Konossou ein bedeutender spiritueller Ort für die Ethnien der Toma und Guerzé, die den Gipfel als Wohnsitz ihrer Ahnen verehrten. Die Topografie des Berges ist durch tiefe Schluchten und steile Grate gekennzeichnet, was ihn zu einer der am schwersten zugänglichen, aber landschaftlich reizvollsten Regionen des Südostens macht. Wirtschaftlich ist der Berg für den Schutz der lokalen Wasserreservoire von entscheidender Bedeutung, die die Kaffee- und Kakaoernten im Tal sichern. Ökologisch beherbergt der Mount Konossou eine Vielzahl seltener Tier- und Pflanzenarten, darunter seltene Vogelarten und Insekten, die in den unberührten Hochlandwäldern leben. Für Naturbegeisterte bietet der Berg eine der authentischsten Erfahrungen der guineischen Wildnis, wobei die Aussicht vom Gipfel die schiere Ausdehnung der Regenwälder von Waldguinea offenbart.",
+        "hu": "A Konossou-hegy (Mont Konossou) egy lenyűgöző magaslat Macenta prefektúrában, Erdős-Guinea szívében. Földrajzilag a hegy a környező esőerdei völgyek fölé magasodik, sziklás formációi és sűrű, zöld növényzete határozza meg látképét. A hegy a Ziama-masszívum komplexumához tartozik, amely világszerte ismert rendkívüli biológiai sokféleségéről. Történelmileg a Konossou-hegy a toma és a kuerze népcsoportok fontos spirituális helyszíne volt, a csúcsot az ősök lakhelyeként tisztelték. A domborzatot mély szurdokok és meredek gerincek tagolják, ami miatt a hegy az ország egyik legnehezebben megközelíthető, de leglátványosabb vidéke. Gazdaságilag a hegy kulcsszerepet játszik a völgyekben zajló kávé- és kakaótermesztés vízellátásának biztosításában. Ökológiai szempontból a Konossou-hegy számos ritka állat- és növényfajnak ad otthont, köztük különleges madárfajoknak és rovaroknak, amelyek a háborítatlan magaslati erdőkben találnak menedéket. A természetkedvelők számára a hegy Guinea egyik legeredetibb vadonélményét kínálja, a csúcsról nyíló kilátás pedig feltárja az erdős-guineai esőerdők hatalmas kiterjedését.",
+        "ro": "Muntele Konossou (Mont Konossou) este o înălțime impunătoare situată în prefectura Macenta, în inima Guineei Forestiere. Geografic, muntele se ridică deasupra văilor de pădure tropicală înconjurătoare și este caracterizat prin formațiuni stâncoase abrupte și o vegetație luxuriantă pe culme. Acesta face parte din complexul masivului Ziama, recunoscut pentru biodiversitatea sa excepțională. Din punct de vedere istoric, Muntele Konossou a fost un spațiu spiritual major pentru etniile Toma și Guerzé, care considerau vârful ca fiind locul de odihnă al strămoșilor. Topografia muntelui este marcată de canioane adânci și creste ascuțite, ceea ce îl face una dintre cele mai dificil de explorat, dar spectaculoase regiuni din sud-est. Economic, muntele este esențial pentru protejarea rezervoarelor de apă care susțin plantațiile de cafea și cacao din văi. Ecologic, Muntele Konossou găzduiește numeroase specii rare de floră și faună, inclusiv păsări și insecte endemice ce populează pădurile de altitudine neatinse. Pentru pasionații de natură, muntele oferă una dintre cele mai autentice experiențe în sălbăticia guineeană, panorama de pe vârf dezvăluind imensitatea pădurilor tropicale din regiune.",
+        "en": "Mount Konossou (Mont Konossou) is an impressive elevation in the Macenta Prefecture, in the heart of Forested Guinea. Geographically, the mountain towers over the surrounding rainforest valleys and is defined by its rugged rock formations and dense green canopy. It belongs to the Ziama Massif complex, which is world-renowned for its extraordinary biodiversity. Historically, Mount Konossou was a major spiritual site for the Toma and Guerzé ethnic groups, who revered the summit as the home of their ancestors. The mountain's topography is characterized by deep gorges and steep ridges, making it one of the most challenging yet scenically rewarding regions in the southeast. Economically, the mountain is crucial for protecting local water reservoirs that sustain the coffee and cocoa harvests in the valleys below. Ecologically, Mount Konossou supports a variety of rare animal and plant species, including exotic birds and insects that thrive in the undisturbed highland forests. For nature enthusiasts, the mountain offers one of Guinea's most authentic wilderness experiences, with the summit view showcasing the vast extent of the Forested Guinea rainforests."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Konossou ist ein wichtiger Teil des UNESCO-Biosphärenreservats Ziama.",
+          "Der Berg beherbergt seltene primäre Bergwald-Ökosysteme.",
+          "Die Region Macenta ist aufgrund solcher Erhebungen eine der kühlsten der Waldregion.",
+          "Konossou ist eine wichtige Quelle für zahlreiche Nebenflüsse des Milo.",
+          "In der lokalen Folklore gilt der Berg als unbezwingbares Naturmonument.",
+          "Die Vegetation auf dem Gipfel unterscheidet sich deutlich von der im Tal."
+        ],
+        "hu": [
+          "A Konossou-hegy az UNESCO Ziama Bioszféra-rezervátum szerves része.",
+          "A hegyen ritka, elsődleges hegyi esőerdei ökoszisztémák találhatók.",
+          "A Macenta környéki magaslatok miatt ez a vidék hűvösebb az erdős régió átlagánál.",
+          "A hegy forrásai táplálják a Milo-folyó több mellékágát.",
+          "A helyi legendák szerint a hegy csúcsán különleges gyógyfüvek teremnek.",
+          "A terület Guinea egyik legfontosabb csimpánz- és törpevíziló-élőhelye."
+        ],
+        "ro": [
+          "Mont Konossou este un pilon al rezervației biosferei recunoscute de UNESCO.",
+          "Săpăturile geologice au identificat roci metamorfice foarte vechi în structura sa.",
+          "Regiunea este un centru pentru studiul ecologiei arborilor giganti.",
+          "Muntele acționează ca un ecran climatic, favorizând ploile regulate în Macenta.",
+          "Este considerat unul dintre ultimele sanctuare pentru fauna endemică de pădure.",
+          "Accesul turiștilor este permis doar însoțiți de rangeri specializați."
+        ],
+        "en": [
+          "Mount Konossou is a vital component of the Ziama UNESCO Biosphere Reserve.",
+          "It features some of the last remaining primary high-altitude forest in West Africa.",
+          "The massif regulates the microclimate for Guinea's coffee-growing heartland.",
+          "The mountain is a sacred landmark in the oral traditions of the Toma people.",
+          "It provides a unique habitat for several species of West African sunbirds.",
+          "The rugged terrain has protected the area from large-scale commercial logging."
+        ]
+      }
+    },
+    {
+      "id": "mount-bero-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Béro (Massif du Béro) ist ein bedeutendes Gebirgsmassiv und Waldreservat in der Präfektur Nzérékoré, im äußersten Südosten Guineas. Geografisch markiert der Berg einen der höchsten Punkte der Region und ist durch seine extrem dichte tropische Vegetation und seine zerklüftete Topografie geprägt. Das Mount Béro-Waldreservat ist von enormer ökologischer Bedeutung, da es als Rückzugsort für den Westafrikanischen Schimpansen und andere bedrohte Tierarten dient. Historisch gesehen war die Region ein Ort des Widerstands und der Bewahrung traditioneller Bräuche der Guerzé-Bevölkerung. Die Topografie des Massivs umfasst steile Hänge, tiefe Flusstäler und verborgene Plateaus, die eine außergewöhnliche Biodiversität beherbergen. Wirtschaftlich spielt der Mount Béro eine Rolle durch die nachhaltige Nutzung von Forstprodukten und den Schutz der Wasserressourcen für die umliegende Landwirtschaft. Das Klima ist tropisch-feucht mit fast täglichen Niederschlägen in der Regenzeit, was den Berg zu einem der wasserreichsten Gebiete des Landes macht. Für Besucher bietet der Mount Béro spektakuläre Einblicke in die unberührten Regenwälder Waldguineas, wobei Wanderungen durch das dichte Unterholz ein echtes Abenteuer darstellen. Er symbolisiert die ökologische Stärke und die natürliche Pracht des guineischen Südostens.",
+        "hu": "A Béro-hegy (Massif du Béro) egy jelentős hegytömb és erdőrezervátum a Nzérékoré prefektúrában, Guinea délkeleti részén. Földrajzilag a hegy a régió egyik legmagasabb pontja, amelyet extrém sűrű trópusi növényzet és tagolt domborzat jellemez. A Béro-hegyi erdőrezervátum ökológiai jelentősége felbecsülhetetlen, mivel a nyugat-afrikai csimpánz és más veszélyeztetett fajok egyik utolsó menedéke. Történelmileg a régió a kuerze népesség hagyományainak őrzőhelye és a külső behatásokkal szembeni ellenállás színtere volt. A masszívum domborzatát meredek lejtők, mély folyóvölgyek és rejtett fennsíkok alkotják, amelyek rendkívüli biológiai sokféleségnek adnak otthont. Gazdaságilag a Béro-hegy a fenntartható erdőgazdálkodás és a környező mezőgazdasági területek vízellátása miatt fontos. Az éghajlat trópusi-párás, az esős évszakban szinte mindennaposak a csapadékok, így a hegy az ország egyik legcsapadékosabb területe. A látogatók számára a Béro-hegy bepillantást enged az Erdős-Guinea érintetlen őserdőibe, ahol a sűrű aljnövényzetben tett túrák valódi kalandot jelentenek. A hegy a guineai délkelet ökológiai erejének és természeti pompájának jelképe.",
+        "ro": "Muntele Béro (Massif du Béro) este un masiv muntos semnificativ și o rezervație forestieră situată în prefectura Nzérékoré, în sud-estul extrem al Guineei. Din punct de vedere geografic, muntele reprezintă unul dintre punctele culminante ale regiunii, fiind definit de o vegetație tropicală extrem de densă și o topografie accidentată. Rezervația forestieră de pe Muntele Béro are o importanță ecologică imensă, servind drept refugiu pentru cimpanzeul vest-african și alte specii amenințate. Istoric, regiunea a fost un loc de rezistență și de conservare a obiceiurilor tradiționale ale populației Guerzé. Topografia masivului include versanți abrupți, văi fluviale adânce și platouri ascunse care adăpostesc o biodiversitate remarcabilă. Economic, Muntele Béro contribuie prin utilizarea sustenabilă a produselor forestiere și prin protejarea resurselor de apă necesare agriculturii din împrejurimi. Climatul este tropical-umed, cu precipitații aproape zilnice în sezonul ploios, transformând muntele în una dintre cele mai bogate zone în resurse hidrice din țară. Pentru vizitatori, Muntele Béro oferă o incursiune spectaculoasă în pădurile virgine ale Guineei Forestiere, drumețiile prin vegetația densă reprezentând o adevărată aventură. Simbolizează forța ecologică și splendoarea naturală a sud-estului guineean.",
+        "en": "Mount Béro (Massif du Béro) is a significant mountain massif and forest reserve located in the Nzérékoré Prefecture, in the far southeast of Guinea. Geographically, the mountain marks one of the highest elevations in the region and is characterized by its exceptionally dense tropical vegetation and rugged topography. The Mount Béro Forest Reserve is of immense ecological importance, serving as a vital sanctuary for the West African chimpanzee and other endangered wildlife. Historically, the region has been a center for preserving the traditional customs and resistance of the Guerzé people. The massif's topography includes steep slopes, deep river valleys, and hidden plateaus that host extraordinary biodiversity. Economically, Mount Béro is important for sustainable forest product harvesting and for safeguarding water resources for the surrounding farmlands. The climate is humid tropical, with near-daily rainfall during the wet season, making the mountain one of the country's most water-rich areas. For visitors, Mount Béro offers a spectacular window into the untouched rainforests of Forested Guinea, where trekking through the dense undergrowth is a genuine adventure. It stands as a symbol of the ecological strength and natural splendor of southeastern Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Béro beherbergt eine bedeutende Population wilder Schimpansen.",
+          "Das Massiv ist als wichtiges Waldreservat der Stufe I klassifiziert.",
+          "Der Berg liegt in unmittelbarer Nähe zum Mount Nimba.",
+          "Die Böden des Berges sind extrem eisenreich und fruchtbar.",
+          "Das Béro-Reservat ist ein wichtiger Korridor für die Tierwanderung.",
+          "Wanderungen in dieser Region gelten als die schwierigsten in Waldguinea."
+        ],
+        "hu": [
+          "A Béro-hegy a vadon élő csimpánzok egyik legfontosabb guineai fészkelőhelye.",
+          "A terület Guinea egyik legszigorúbban védett erdőrezervátuma.",
+          "A hegy közvetlen közelében található a világörökségi Nimba-hegy.",
+          "A hegy talaja rendkívül gazdag vasban, ami meghatározza a növényzet jellegét.",
+          "A Béro-rezervátum fontos ökológiai folyosót alkot a szomszédos Libéria felé.",
+          "Az esős évszakban a látótávolság a sűrű köd miatt gyakran pár méterre csökken."
+        ],
+        "ro": [
+          "Masivul Béro este un laborator natural pentru cercetarea biodiversității forestiere.",
+          "Situl protejează arbori exotici cu înălțimi de peste 50 de metri.",
+          "Regiunea Béro deține recordul de precipitații pentru prefectura Nzérékoré.",
+          "Este inclus pe lista zonelor de importanță avifaunistică internațională.",
+          "Structura socială a satelor de la bază este strâns legată de ritualurile pădurii.",
+          "Ecosistemul Béro este vital pentru reglarea debitului râurilor locale."
+        ],
+        "en": [
+          "Mount Béro is a high-priority site for the conservation of West African primates.",
+          "The massif features some of the best-preserved primary forest in the region.",
+          "It acts as a strategic buffer zone for the nearby Mount Nimba reserve.",
+          "The mountain's geology is characterized by ancient metamorphic formations.",
+          "It is a central site for the study of tropical hydrology in Guinea.",
+          "The area is famous for its unique medicinal orchids and ferns."
+        ]
+      }
+    }
+  ]
+}

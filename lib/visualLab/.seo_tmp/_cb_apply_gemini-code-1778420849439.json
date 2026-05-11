@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ibague-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ibagué ist die Hauptstadt des Departamento Tolima in Zentralkolumbien und liegt geografisch in der zentralen Andenkordillere, direkt am Canyon des Combeima-Flusses. Wirtschaftlich wird die Stadt massiv von der großflächigen Landwirtschaft angetrieben und fungiert als der absolut primäre Verarbeitungs- und Verteilungsknotenpunkt für riesige regionale Ernten von Kaffee, Reis und Baumwolle. Die Geografie der Stadt positioniert sie hochstrategisch an der Panamericana, die die Hauptstadt Bogotá fest mit dem Pazifikhafen Buenaventura verbindet. Historisch 1550 gegründet, ist Ibagué national als die „Musikhauptstadt Kolumbiens“ bekannt, was auf ihr reiches kulturelles Erbe und die hochangesehenen Musikkonservatorien zurückzuführen ist. Heute verzehrt die rasante und meist ungeplante städtische Expansion aggressiv ehemals fruchtbares Ackerland. Die Stadt leidet zudem häufig unter schweren infrastrukturellen Defiziten. Die städtische Wasserversorgung ist chronisch anfällig, da der Combeima-Fluss bei starken Regenfällen auf den abgeholzten Berghängen häufig durch massive Schlammlawinen blockiert wird, was die gesamte städtische Bevölkerung regelmäßig ohne sauberes Trinkwasser zurücklässt.",
+        "hu": "Ibagué a Tolima megye fővárosa Közép-Kolumbiában, földrajzilag a középső Andok kordillerájában, közvetlenül a Combeima-folyó kanyonjánál helyezkedik el. Gazdasági szempontból a várost masszívan hajtja a nagyüzemi mezőgazdaság, és az óriási regionális kávé-, rizs- és pamuttermés abszolút elsődleges feldolgozó és elosztó központjaként működik. A város földrajzi elhelyezkedése rendkívül stratégiai a Pánamerikai autópálya mentén, amely szilárdan összeköti a fővárost, Bogotát a csendes-óceáni Buenaventura kikötőjével. A történelmileg 1550-ben alapított Ibagué országosan „Kolumbia zenei fővárosaként” ismert gazdag kulturális öröksége és nagyra becsült zenei konzervatóriumai miatt. Ma a gyors és többnyire tervezetlen városi terjeszkedés agresszívan emészti fel az egykor termékeny mezőgazdasági területeket. A város emellett gyakran szenved súlyos infrastrukturális hiányosságoktól. A városi vízellátás krónikusan sebezhető, mivel a Combeima-folyót az erdőirtott hegyoldalakon lezúduló heves esőzések során gyakran blokkolják a hatalmas sárlavinák, ami a teljes városi lakosságot rendszeresen tiszta ivóvíz nélkül hagyja.",
+        "ro": "Ibagué este capitala departamentului Tolima din centrul Columbiei, situată geografic pe cordiliera centrală andină, exact la canionul râului Combeima. Economic, orașul este puternic impulsionat de agricultura la scară largă, acționând ca hub-ul absolut principal de procesare și distribuție pentru recoltele masive regionale de cafea, orez și bumbac. Geografia orașului îl poziționează extrem de strategic de-a lungul Autostrăzii Panamericane, conectând ferm capitala Bogotá de portul pacific Buenaventura. Fondat istoric în 1550, Ibagué este recunoscut național ca „Capitala Muzicală a Columbiei” datorită moștenirii sale culturale bogate și conservatoarelor de muzică foarte apreciate. Astăzi, expansiunea urbană rapidă și în mare parte neplanificată consumă agresiv terenurile agricole anterior fertile. Orașul suferă frecvent de deficite infrastructurale severe. Aprovizionarea municipală cu apă este cronic vulnerabilă, deoarece râul Combeima este frecvent blocat de alunecări masive de noroi declanșate de ploi abundente pe versanții defrișați, lăsând regulat populația fără apă.",
+        "en": "Ibagué is the capital of the Tolima Department in central Colombia, located geographically on the central Andean cordillera, situated right at the canyon of the Combeima River. Economically, the city is heavily driven by large-scale agriculture, acting as the absolute primary processing and distribution hub for massive regional harvests of coffee, rice, and cotton. The city's geography positions it strategically along the Pan-American Highway, firmly connecting the capital Bogotá to the Pacific port of Buenaventura. Historically founded in 1550, Ibagué is nationally recognized as the \"Musical Capital of Colombia\" due to its rich cultural heritage and highly established music conservatories. Today, rapid and mostly unplanned urban expansion aggressively consumes formerly fertile agricultural land. The city frequently suffers from severe infrastructural deficits. The municipal water supply is chronically vulnerable, as the Combeima River is frequently blocked by massive mudslides triggered by heavy rains on the deforested mountain slopes, regularly leaving the entire urban population completely without access to clean drinking water."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ibagué operiert als hochstrategischer Knotenpunkt an der Panamericana.",
+          "Die lokale Wirtschaft stützt sich auf die massive Verarbeitung von Reis und Kaffee.",
+          "Die Stadt ist landesweit offiziell als „Musikhauptstadt Kolumbiens“ bekannt.",
+          "Massive Schlammlawinen blockieren häufig die extrem vulnerable Trinkwasserversorgung.",
+          "Eine rasante und unregulierte urbane Zersiedelung vernichtet lokale Agrarflächen."
+        ],
+        "hu": [
+          "Ibagué rendkívül stratégiai csomópontként működik a Pánamerikai autópályán.",
+          "A helyi gazdaság a rizs és a kávé masszív feldolgozására támaszkodik.",
+          "A város országosan és hivatalosan is „Kolumbia zenei fővárosaként” ismert.",
+          "Hatalmas sárlavinák gyakran blokkolják a rendkívül sebezhető ivóvízellátást.",
+          "A rendkívül gyors és szabályozatlan városi terjeszkedés pusztítja a termőföldeket."
+        ],
+        "ro": [
+          "Ibagué operează ca un nod extrem de strategic pe Autostrada Panamericană.",
+          "Economia locală se bazează pe procesarea masivă a orezului și a cafelei.",
+          "Orașul este cunoscut oficial la nivel național ca „Capitala Muzicală a Columbiei”.",
+          "Alunecările masive de noroi blochează frecvent aprovizionarea vulnerabilă cu apă.",
+          "O expansiune urbană rapidă și nereglementată distruge terenurile agricole locale."
+        ],
+        "en": [
+          "Ibagué operates as a highly strategic transport node on the Pan-American Highway.",
+          "The local formal economy relies on the massive processing of rice and coffee.",
+          "The city is officially known nationwide as the \"Musical Capital of Colombia.\"",
+          "Massive mudslides frequently completely block the highly vulnerable water supply.",
+          "Rapid and totally unregulated urban sprawl aggressively destroys local farmlands."
+        ]
+      }
+    },
+    {
+      "id": "villavicencio-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Villavicencio ist die Hauptstadt des Departamento Meta und dient geografisch als das absolut primäre Tor zu den riesigen östlichen Ebenen (Llanos Orientales) Kolumbiens. Direkt an den steilen östlichen Ausläufern der Anden gelegen, fungiert die Stadt als ein hochkritischer kommerzieller und logistischer Knotenpunkt. Wirtschaftlich wird Villavicencio komplett von der massiven regionalen Rinderzucht, großflächiger Landwirtschaft (Reis, Palmöl) und der aggressiven Förderung von Rohöl in den umliegenden Ebenen dominiert. Historisch 1840 gegründet, erlebte die Stadt im späten 20. Jahrhundert einen massiven demografischen Boom durch starke Migration infolge des gewaltsamen kolumbianischen bewaffneten Konflikts, was sie in ein rasant wucherndes urbanes Zentrum verwandelte. Heute ist die Stadt extrem abhängig von der Autobahn Bogotá-Villavicencio, einer hochgradig anfälligen Transportader, die aufgrund extremer saisonaler Regenfälle und massiver, hochzerstörerischer Erdrutsche häufig komplett zusammenbricht. Diese totale logistische Abhängigkeit macht die lokale Wirtschaft extrem fragil.",
+        "hu": "Villavicencio a Meta megye fővárosa, és földrajzilag a kolumbiai hatalmas keleti síkságok (Llanos Orientales) abszolút elsődleges kapujaként szolgál. A közvetlenül az Andok meredek keleti lábánál fekvő város egy rendkívül kritikus kereskedelmi és logisztikai csomópontként működik. Gazdasági szempontból Villavicenciót teljesen a masszív regionális szarvasmarha-tenyésztés, a nagyüzemi mezőgazdaság (rizs, pálmaolaj) és a nyersolaj agresszív kitermelése uralja a környező síkságokon. A történelmileg 1840-ben alapított város a 20. század végén masszív demográfiai bummot élt át az erőszakos kolumbiai fegyveres konfliktus okozta erős migráció miatt, ami gyorsan burjánzó városi központtá változtatta. Ma a város rendkívül függ a Bogotá-Villavicencio autópályától, egy rendkívül sebezhető közlekedési ütőértől, amely a szélsőséges szezonális esőzések és a masszív, rendkívül pusztító földcsuszamlások miatt gyakran teljesen összeomlik. Ez a totális logisztikai függőség extrém módon törékennyé teszi a helyi gazdaságot.",
+        "ro": "Villavicencio este capitala departamentului Meta și servește geografic drept poarta principală absolută către vastele câmpii estice (Llanos Orientales) din Columbia. Situat direct la poalele estice abrupte ale Anzilor, orașul operează ca un nod comercial și logistic extrem de crucial. Din punct de vedere economic, Villavicencio este complet dominat de industria masivă de creștere a vitelor la nivel regional, de agricultura la scară largă (orez, ulei de palmier) și de extracția agresivă a țițeiului în câmpiile din jur. Fondat istoric în 1840, orașul a experimentat un boom demografic masiv la sfârșitul secolului al XX-lea din cauza migrației puternice cauzate de conflictul armat violent columbian, transformându-l într-un centru urban care se extinde rapid. Astăzi, orașul se bazează masiv pe autostrada Bogotá-Villavicencio, o arteră de transport extrem de vulnerabilă, care se prăbușește frecvent din cauza ploilor sezoniere extreme și a alunecărilor de teren masive, extrem de distructive. Această dependență logistică totală face economia fragilă.",
+        "en": "Villavicencio is the capital of the Meta Department and geographically serves as the absolute primary gateway to the vast eastern plains (Llanos Orientales) of Colombia. Situated directly at the steep eastern foothills of the Andes, the city operates as a highly crucial commercial and logistical hub. Economically, Villavicencio is completely dominated by the massive regional cattle ranching industry, large-scale agriculture (rice, palm oil), and the aggressive extraction of crude oil in the surrounding plains. Historically founded in 1840, the city experienced a massive demographic boom in the late 20th century due to heavy migration caused by the violent Colombian armed conflict, rapidly transforming it into a sprawling urban center. Today, the city heavily relies on the Bogotá-Villavicencio highway, a highly vulnerable transport artery that frequently completely collapses due to massive, highly destructive landslides caused by extreme seasonal rainfall. This total logistical dependence makes the local economy extremely fragile and prone to massive supply shortages."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Villavicencio ist das absolut wichtigste logistische Tor zu den Llanos-Ebenen.",
+          "Massive Rinderzucht und Ölförderung dominieren die formelle lokale Wirtschaft.",
+          "Der bewaffnete Konflikt trieb historisch zehntausende Flüchtlinge in die Stadt.",
+          "Die Autobahn nach Bogotá wird stetig durch massive Erdrutsche völlig blockiert.",
+          "Logistische Engpässe machen die lokale Versorgungskette extrem verwundbar."
+        ],
+        "hu": [
+          "Villavicencio az abszolút legfontosabb logisztikai kapu a Llanos-síkságok felé.",
+          "A masszív szarvasmarha-tenyésztés és az olajkitermelés uralja a formális gazdaságot.",
+          "A fegyveres konfliktus történelmileg menekültek tízezreit hajtotta a városba.",
+          "A Bogotábavezető autópályát folyamatosan és teljesen blokkolják a hatalmas földcsuszamlások.",
+          "A logisztikai szűk keresztmetszetek rendkívül sebezhetővé teszik az ellátási láncot."
+        ],
+        "ro": [
+          "Villavicencio este absolut cea mai importantă poartă logistică către câmpiile Llanos.",
+          "Creșterea masivă a vitelor și extracția petrolului domină economia locală formală.",
+          "Conflictul armat a condus istoric zeci de mii de refugiați disperați în oraș.",
+          "Autostrada spre Bogotá este constant blocată complet de alunecări de teren masive.",
+          "Blocajele logistice fac lanțul local de aprovizionare extrem de vulnerabil."
+        ],
+        "en": [
+          "Villavicencio acts as the absolutely most important logistical gateway to the Llanos plains.",
+          "Massive cattle ranching and crude oil extraction completely dominate the formal economy.",
+          "The violent armed conflict historically drove tens of thousands of refugees into the city.",
+          "The highway to Bogotá is constantly and completely blocked by massive fatal landslides.",
+          "Severe logistical bottlenecks make the local supply chain extremely fragile and vulnerable."
+        ]
+      }
+    },
+    {
+      "id": "pasto-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pasto ist die offizielle Hauptstadt des Departamento Nariño, gelegen im extremen Südwesten Kolumbiens nahe der ecuadorianischen Grenze. Geografisch sitzt die Stadt sicher innerhalb des hochgelegenen Atriz-Tals in den Anden, direkt am Fuß des hochaktiven Vulkans Galeras. Wirtschaftlich fungiert die Stadt als ein hochgradig vitales kommerzielles und administratives Zentrum für die tief ländlichen umliegenden Regionen und stützt sich massiv auf Milchwirtschaft, Agrarproduktion und den formellen grenzüberschreitenden Handel mit Ecuador. Historisch wurde Pasto 1537 gegründet und ist kulturell stark durch sein ausgeprägtes indigenes Erbe sowie seine historische royalistische Haltung während der südamerikanischen Unabhängigkeitskriege gekennzeichnet. Heute bleibt die Stadt aufgrund der extrem mangelhaften Straßeninfrastruktur und des stark zerklüfteten bergigen Terrains hochgradig vom Rest des Landes isoliert. Die ständige Bedrohung durch schwere Vulkanausbrüche des Galeras erfordert strikte kommunale Evakuierungsprotokolle. Zudem werden die umliegenden ländlichen Regionen massiv durch illegalen Koka-Anbau und bewaffnete Guerillagruppen dominiert, was die städtische Sicherheit extrem beeinträchtigt.",
+        "hu": "Pasto a Nariño megye hivatalos fővárosa, amely Kolumbia extrém délnyugati részén, az ecuadori határ közelében fekszik. Földrajzilag a város biztonságosan helyezkedik el a magasan fekvő Atriz-völgyben az Andokban, közvetlenül a rendkívül aktív Galeras vulkán lábánál. Gazdasági szempontból a város egy rendkívül létfontosságú kereskedelmi és adminisztratív központ a mélyen fekvő vidéki környező régiók számára, és masszívan támaszkodik a tejtermelésre, a mezőgazdasági termelésre és az Ecuadorral folytatott formális, határokon átnyúló kereskedelemre. A történelmileg 1537-ben alapított Pasto kulturálisan erősen megkülönböztethető markáns őslakos öröksége, valamint a dél-amerikai függetlenségi háborúk alatti történelmi rojalista álláspontja miatt. Ma a város továbbra is nagymértékben elszigetelt az ország többi részétől a rendkívül hiányos közúti infrastruktúra és a nagyon tagolt hegyvidéki terep miatt. A Galeras súlyos vulkánkitöréseinek állandó fenyegetése szigorú önkormányzati evakuálási protokollokat követel meg. Emellett a környező vidéki régiókat masszívan uralja az illegális kokatermesztés és a fegyveres gerillacsoportok, ami extrém módon befolyásolja a városi biztonságot.",
+        "ro": "Pasto este capitala oficială a departamentului Nariño, situată în extremul sud-vest al Columbiei, aproape de granița cu Ecuador. Geografic, orașul se află în siguranță în valea înaltă Atriz din Anzi, plasat direct la poalele vulcanului extrem de activ Galeras. Din punct de vedere economic, orașul funcționează ca un centru comercial și administrativ extrem de vital pentru regiunile rurale profunde din jur, bazându-se masiv pe producția de lactate, agricultură și comerțul transfrontalier formal cu Ecuador. Fondat istoric în 1537, Pasto este distinct din punct de vedere cultural datorită puternicei sale moșteniri indigene și atitudinii sale istorice regaliste din timpul războaielor de independență sud-americane. Astăzi, orașul rămâne extrem de izolat de restul țării din cauza infrastructurii rutiere puternic deficitare și a terenului muntos extrem de accidentat. Amenințarea constantă a erupțiilor vulcanice severe de la Galeras dictează protocoale stricte de evacuare municipală. În plus, regiunile rurale din jur sunt masiv dominate de cultivarea ilegală de coca și de gherile.",
+        "en": "Pasto is the official capital of the Nariño Department, located in extreme southwestern Colombia near the Ecuadorian border. Geographically, the city sits securely within the highly elevated Atriz Valley in the Andes, placed directly at the foot of the highly active Galeras volcano. Economically, the city functions as a highly vital commercial and administrative center for the deeply rural surrounding regions, relying heavily on dairy farming, agriculture, and formal cross-border trade with Ecuador. Historically founded in 1537, Pasto is culturally distinct for its strong indigenous heritage and its historical royalist stance during the South American wars of independence. Today, the city remains highly isolated from the rest of the country due to heavily deficient road infrastructure and extremely rugged mountainous terrain. The constant threat of severe volcanic eruptions from Galeras dictates strict municipal evacuation protocols. Furthermore, the surrounding rural regions are heavily dominated by illegal coca cultivation and armed guerrilla groups, deeply affecting the city's overall security."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pasto ist ein stark isoliertes Zentrum im tiefen Südwesten Kolumbiens.",
+          "Der hochaktive Vulkan Galeras bedroht das städtische Leben stetig und massiv.",
+          "Die Wirtschaft basiert komplett auf Milchproduktion und Handel mit Ecuador.",
+          "Schlechte Gebirgsstraßen isolieren die Stadt extrem vom Rest des Landes.",
+          "Drogenkartelle und illegale Kokaplantagen dominieren das ländliche Umland extrem."
+        ],
+        "hu": [
+          "Pasto egy erősen elszigetelt központ Kolumbia mély délnyugati részén.",
+          "A rendkívül aktív Galeras vulkán folyamatosan és masszívan fenyegeti a várost.",
+          "A gazdaság teljesen a tejtermelésre és az Ecuadorral folytatott kereskedelemre épül.",
+          "A rossz hegyi utak extrém módon elszigetelik a várost az ország többi részétől.",
+          "Drogkartellek és illegális kokaültetvények extrém módon uralják a vidéki hátországot."
+        ],
+        "ro": [
+          "Pasto este un centru puternic izolat în sud-vestul profund al Columbiei.",
+          "Vulcanul extrem de activ Galeras amenință constant și masiv viața urbană.",
+          "Economia se bazează complet pe producția de lactate și comerțul cu Ecuador.",
+          "Drumurile montane proaste izolează extrem orașul de restul țării.",
+          "Cartelurile de droguri și plantațiile ilegale de coca domină extrem zonele rurale."
+        ],
+        "en": [
+          "Pasto acts as a highly isolated administrative center in deep southwestern Colombia.",
+          "The highly active Galeras volcano constantly and massively threatens urban daily life.",
+          "The formal economy is completely based on dairy production and cross-border trade.",
+          "Severely deficient mountain roads extremely isolate the city from the rest of the country.",
+          "Drug cartels and massive illegal coca plantations extremely dominate the rural periphery."
+        ]
+      }
+    },
+    {
+      "id": "monteria-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Montería ist die Hauptstadt des Departamento Córdoba, geografisch in der Karibikregion im Nordwesten Kolumbiens gelegen. Die Stadt ist direkt entlang des hochstrategischen Sinú-Flusses erbaut, der den städtischen Grundriss teilt und den lokalen Handel massiv beeinflusst. Wirtschaftlich ist Montería das absolute nationale Epizentrum der massiven kolumbianischen Rinderzuchtindustrie und beherbergt hochprofitable Viehmärkte sowie große Schlachthöfe. Die umliegenden fruchtbaren Ebenen werden aggressiv für großflächigen Baumwoll-, Mais- und Sorghumanbau genutzt. Historisch im Jahr 1777 gegründet, wuchs die Stadt in absoluter Abhängigkeit vom Fluss als Transportweg, bevor die modernen Straßennetze errichtet wurden. Heute leidet Montería unter extremer sozioökonomischer Ungleichheit. Während die zentralen Bezirke stark mit neuen kommerziellen Zentren modernisiert wurden, fehlt es den schnell expandierenden, ungeplanten peripheren Slums komplett an sanitärer Grundversorgung und gepflasterten Straßen. Die Region litt historisch massiv unter der starken Präsenz brutaler paramilitärischer Organisationen, die die lukrative Agrarökonomie jahrzehntelang gewaltsam kontrollierten.",
+        "hu": "Montería Córdoba megye fővárosa, földrajzilag a karibi régióban, Északnyugat-Kolumbiában található. A város közvetlenül a rendkívül stratégiai Sinú-folyó mentén épült, amely kettészeli a városszerkezetet, és masszívan befolyásolja a helyi kereskedelmet. Gazdasági szempontból Montería a masszív kolumbiai szarvasmarha-tenyésztő ipar abszolút nemzeti epicentruma, ahol rendkívül jövedelmező állatpiacok és nagy vágóhidak találhatók. A környező termékeny síkságokat agresszívan használják nagyüzemi pamut-, kukorica- és ciroktermesztésre. Történelmileg az 1777-ben alapított város a modern úthálózatok kiépítése előtt abszolút mértékben a folyótól függött, mint fő szállítási útvonaltól. Ma Montería extrém társadalmi-gazdasági egyenlőtlenségtől szenved. Míg a központi kerületeket erősen modernizálták új kereskedelmi központokkal, a gyorsan terjeszkedő, tervezetlen peremvidéki nyomornegyedekből teljesen hiányzik az alapvető higiénia és az aszfaltozott út. A régió történelmileg masszívan megszenvedte a brutális félkatonai szervezetek erős jelenlétét, amelyek évtizedeken át erőszakkal irányították a jövedelmező agrárgazdaságot.",
+        "ro": "Montería este capitala departamentului Córdoba, situată geografic în regiunea Caraibelor din nord-vestul Columbiei. Orașul este construit direct de-a lungul râului extrem de strategic Sinú, care divide structura urbană și influențează masiv comerțul local. Economic, Montería este epicentrul național absolut al industriei masive de creștere a vitelor din Columbia, găzduind piețe de animale foarte profitabile și abatoare mari. Câmpiile fertile înconjurătoare sunt utilizate agresiv pentru cultivarea la scară largă a bumbacului, porumbului și sorgului. Istoric stabilit în 1777, orașul a crescut complet dependent de râu pentru transport, înainte ca rețelele moderne de drumuri să fie construite. Astăzi, Montería suferă de o disparitate socio-economică extremă. În timp ce districtele centrale s-au modernizat puternic cu noi centre comerciale, mahalalele periferice neplanificate, în expansiune rapidă, sunt complet lipsite de canalizare de bază și drumuri asfaltate. Regiunea a suferit istoric masiv de pe urma prezenței puternice a organizațiilor paramilitare brutale care au controlat violent agricultura.",
+        "en": "Montería is the capital of the Córdoba Department, geographically located in the Caribbean region of northwestern Colombia. The city is built directly along the highly strategic Sinú River, which divides the urban layout and heavily influences local commerce. Economically, Montería is the absolute national epicenter of the massive Colombian cattle ranching industry, hosting highly lucrative livestock markets and large slaughterhouses. The surrounding fertile plains are aggressively utilized for large-scale cotton, corn, and sorghum cultivation. Historically established in 1777, the city grew completely reliant on the river for transport before the modern road networks were constructed. Today, Montería suffers from extreme socio-economic disparity. While the central districts have heavily modernized with new commercial centers, the rapidly expanding, unplanned peripheral slums completely lack basic sanitation and paved roads. The region has historically suffered massively from the heavy presence of brutal paramilitary organizations, which violently controlled the highly lucrative agrarian economy for decades."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Montería ist das absolute Epizentrum der massiven kolumbianischen Rinderzucht.",
+          "Der hochstrategische Sinú-Fluss durchschneidet und prägt die Stadt völlig.",
+          "Extreme sozioökonomische Ungleichheit spaltet das Zentrum und die armen Slums.",
+          "Die peripheren Viertel haben absolut keinen Zugang zu Abwassersystemen.",
+          "Brutale paramilitärische Gruppen kontrollierten die Agrarwirtschaft hier jahrzehntelang."
+        ],
+        "hu": [
+          "Montería a masszív kolumbiai szarvasmarha-tenyésztés abszolút epicentruma.",
+          "A rendkívül stratégiai Sinú-folyó teljesen átszeli és meghatározza a várost.",
+          "Az extrém társadalmi-gazdasági egyenlőtlenség megosztja a központot és a nyomornegyedeket.",
+          "A peremkerületeknek abszolút semmilyen hozzáférésük nincs a csatornarendszerekhez.",
+          "Brutális félkatonai csoportok évtizedeken át erőszakkal uralták itt az agrárgazdaságot."
+        ],
+        "ro": [
+          "Montería este epicentrul absolut al creșterii masive a vitelor columbiene.",
+          "Râul extrem de strategic Sinú intersectează și modelează complet orașul.",
+          "Inegalitatea socioeconomică extremă divizează complet centrul și mahalalele sărace.",
+          "Cartierele periferice nu au absolut niciun acces la sistemele de canalizare.",
+          "Grupările paramilitare brutale au controlat violent economia agricolă aici zeci de ani."
+        ],
+        "en": [
+          "Montería acts as the absolute epicenter of massive Colombian cattle ranching.",
+          "The highly strategic Sinú River cleanly intersects and completely shapes the city.",
+          "Extreme socioeconomic disparity heavily divides the rich center and impoverished slums.",
+          "The expanding peripheral neighborhoods completely lack any basic sewage systems.",
+          "Brutal paramilitary groups violently controlled the local agrarian economy for decades."
+        ]
+      }
+    },
+    {
+      "id": "valledupar-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Valledupar dient als administrative Hauptstadt des Departamento Cesar im Norden Kolumbiens. Geografisch liegt die Stadt in einem hochfruchtbaren Tal, das vollständig von den Gebirgszügen der Sierra Nevada de Santa Marta und der Serranía del Perijá umschlossen ist. Wirtschaftlich ist Valledupar tief in der massiven kommerziellen Landwirtschaft verwurzelt, insbesondere in der Baumwoll- und Reisproduktion, neben einem hochlukrativen, extensiven Rinderzuchtsektor. Die Region fungiert zudem als primäre logistische Basis für die gigantischen Kohletagebaue im Zentrum des Departamentos. Historisch wurde die Stadt 1550 von spanischen Konquistadoren gegründet und ist kulturell weltweit als die absolute Geburtsstätte der traditionellen Vallenato-Musik berühmt. Heute bedroht die rasante Expansion der massiven Kohleindustrie die lokale Umwelt aggressiv, verschmutzt die Luft schwer und erschöpft die regionalen Grundwasserreserven extrem. Darüber hinaus kämpft die Stadt mit massiven Wellen von Binnenflüchtlingen, die durch jahrzehntelange extreme bewaffnete Konflikte und paramilitärische Gewalt in den umliegenden ländlichen Bergketten vertrieben wurden.",
+        "hu": "Valledupar a Cesar megye közigazgatási fővárosaként szolgál Észak-Kolumbiában. Földrajzilag a város egy rendkívül termékeny völgyben fekszik, amelyet teljesen körülvesznek a Sierra Nevada de Santa Marta és a Serranía del Perijá hegyláncok. Gazdasági szempontból Valledupar mélyen gyökerezik a masszív kereskedelmi mezőgazdaságban, különösen a pamut- és rizstermelésben, a rendkívül jövedelmező, kiterjedt szarvasmarha-tenyésztési szektor mellett. A régió emellett elsődleges logisztikai bázisként is funkcionál a megye központjában található gigantikus külszíni szénbányák számára. Történelmileg a várost 1550-ben alapították a spanyol konkvisztádorok, és kulturálisan világszerte a hagyományos vallenato zene abszolút szülőhelyeként híres. Ma a hatalmas szénipar rohamos terjeszkedése agresszívan fenyegeti a helyi környezetet, súlyosan szennyezi a levegőt, és extrém módon kimeríti a regionális talajvízkészleteket. Ezenkívül a város masszív belső menekülthullámokkal is küzd, akiket a környező vidéki hegyláncokban zajló több évtizedes, szélsőséges fegyveres konfliktusok és félkatonai erőszak űzött el.",
+        "ro": "Valledupar servește ca capitală administrativă a departamentului Cesar din nordul Columbiei. Geografic, orașul se află într-o vale foarte fertilă, închisă în întregime de lanțurile muntoase Sierra Nevada de Santa Marta și Serranía del Perijá. Din punct de vedere economic, Valledupar este adânc înrădăcinat în agricultura comercială masivă, în special producția de bumbac și orez, alături de un sector de creștere a vitelor extrem de lucrativ și extensiv. Regiunea acționează, de asemenea, ca o bază logistică primară pentru giganticele mine de cărbune în carieră deschisă situate în centrul departamentului. Istoric fondat în 1550 de conchistadorii spanioli, orașul este faimos cultural la nivel mondial ca fiind locul absolut de naștere al muzicii tradiționale Vallenato. Astăzi, expansiunea rapidă a industriei masive a cărbunelui amenință agresiv mediul local, poluând puternic aerul și epuizând sever rezervele regionale de apă subterană. În plus, orașul se luptă cu valuri masive de refugiați interni strămutați din cauza violenței.",
+        "en": "Valledupar serves as the administrative capital of the Cesar Department in northern Colombia. Geographically, the city lies in a highly fertile valley entirely enclosed by the Sierra Nevada de Santa Marta and the Serranía del Perijá mountain ranges. Economically, Valledupar is deeply rooted in massive commercial agriculture, particularly cotton and rice production, alongside a highly lucrative, extensive cattle ranching sector. The region also acts as a primary logistical base for the gigantic open-pit coal mines located in the center of the department. Historically founded in 1550 by Spanish conquistadors, the city is culturally globally famous as the absolute birthplace of traditional Vallenato music. Today, the rapid expansion of the massive coal mining industry aggressively threatens the local environment, heavily polluting the air and severely exhausting regional groundwater reserves. Furthermore, the city struggles with massive waves of internal refugees forcefully displaced by decades of extreme armed conflict and brutal paramilitary violence in the surrounding rural mountain ranges."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Valledupar ist global berühmt als die absolute Wiege der Vallenato-Musik.",
+          "Die lokale Agrarwirtschaft fokussiert sich massiv auf Baumwolle und Reis.",
+          "Die Stadt operiert als logistische Basis für gigantische Kohletagebaue.",
+          "Extremer Kohleabbau verschmutzt die Luft und zerstört lokale Wasserreserven.",
+          "Paramilitärische Gewalt trieb zehntausende Binnenflüchtlinge in die Stadt."
+        ],
+        "hu": [
+          "Valledupar világszerte híres, mint a vallenato zene abszolút bölcsője.",
+          "A helyi agrárgazdaság masszívan a pamutra és a rizsre fókuszál.",
+          "A város logisztikai bázisként működik a gigantikus külszíni szénbányák számára.",
+          "Az extrém szénbányászat szennyezi a levegőt és elpusztítja a helyi vízkészleteket.",
+          "A félkatonai erőszak belső menekültek tízezreit hajtotta be a városba."
+        ],
+        "ro": [
+          "Valledupar este renumit la nivel mondial ca fiind leagănul absolut al muzicii Vallenato.",
+          "Economia agricolă locală se concentrează masiv pe cultivarea bumbacului și orezului.",
+          "Orașul operează ca bază logistică centrală pentru minele gigantice de cărbune.",
+          "Extracția extremă a cărbunelui poluează masiv aerul și distruge rezervele de apă.",
+          "Violența paramilitară a condus zeci de mii de refugiați interni în oraș."
+        ],
+        "en": [
+          "Valledupar is globally famous as the absolute birthplace of traditional Vallenato music.",
+          "The local agrarian economy is massively focused on commercial cotton and rice.",
+          "The city actively operates as a logistical base for gigantic open-pit coal mines.",
+          "Extreme coal extraction heavily pollutes the air and absolutely destroys water reserves.",
+          "Brutal paramilitary violence forcefully drove tens of thousands of refugees into the city."
+        ]
+      }
+    },
+    {
+      "id": "popayan-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Popayán ist die Hauptstadt des Departamento Cauca im Südwesten Kolumbiens. Geografisch im hochfruchtbaren Pubenza-Tal gelegen, wird die Stadt von den massiven zentralen und westlichen Andenkordilleren flankiert. Wirtschaftlich fungiert Popayán primär als regionales Verwaltungs- und Bildungszentrum und stützt sich stark auf den öffentlichen Sektor, Universitäten und kommerzielle Dienstleistungen. Die umliegende ländliche Wirtschaft basiert strikt auf Kaffeeproduktion und Landwirtschaft. Historisch 1536 gegründet, ist die Stadt landesweit für ihre hochgradig erhaltene, komplett weiß getünchte spanische Kolonialarchitektur berühmt, was massiven Kulturtourismus anzieht. Popayán wurde durch ein massives Erdbeben 1983 völlig verwüstet, was einen akribischen, jahrzehntelangen architektonischen Wiederaufbau erzwang. Heute kontrastiert das städtische Zentrum scharf mit den hochbrisanten ländlichen Gebieten im Umland. Das Departamento Cauca ist das absolute Epizentrum von gewalttätigen, tief verwurzelten bewaffneten Konflikten, in die Guerillagruppen, Drogenkartelle und indigene Gemeinschaften involviert sind, die erbittert um angestammte Landrechte kämpfen.",
+        "hu": "Popayán a Cauca megye fővárosa Délnyugat-Kolumbiában. Földrajzilag a rendkívül termékeny Pubenza-völgyben helyezkedik el, a várost a masszív középső és nyugati Andok kordillerái szegélyezik. Gazdasági szempontból Popayán elsősorban regionális közigazgatási és oktatási központként működik, erősen támaszkodva a közszférára, az egyetemekre és a kereskedelmi szolgáltatásokra. A környező vidéki gazdaság szigorúan a kávétermelésen és a mezőgazdaságon alapul. Történelmileg az 1536-ban alapított város országosan híres a rendkívül jól megőrzött, teljesen fehérre meszelt spanyol gyarmati építészetéről, amely masszív kulturális turizmust vonz. Popayánt 1983-ban egy hatalmas földrengés teljesen elpusztította, ami egy aprólékos, évtizedekig tartó építészeti újjáépítést kényszerített ki. Ma a városközpont éles ellentétben áll a rendkívül robbanásveszélyes környező vidéki területekkel. A Cauca megye az erőszakos, mélyen gyökerező fegyveres konfliktusok abszolút epicentruma, amelyben gerillacsoportok, drogkartellek és őslakos közösségek vesznek részt, akik elszántan küzdenek az ősi földjogokért.",
+        "ro": "Popayán este capitala departamentului Cauca din sud-vestul Columbiei. Situat geografic în valea extrem de fertilă Pubenza, orașul este flancat de masivele cordiliere centrale și vestice ale Anzilor. Din punct de vedere economic, Popayán operează în primul rând ca centru administrativ și educațional regional, bazându-se puternic pe sectorul public, universități și servicii comerciale. Economia rurală din jur se bazează strict pe producția de cafea și agricultură. Fondat istoric în 1536, orașul este renumit la nivel național pentru arhitectura sa colonială spaniolă complet văruită, extrem de conservată, care atrage turism cultural masiv. Popayán a fost complet devastat de un cutremur masiv în 1983, forțând o reconstrucție arhitecturală meticuloasă, lungă de decenii. Astăzi, centrul urban contrastează puternic cu zonele rurale din jur extrem de volatile. Departamentul Cauca este epicentrul absolut al conflictelor armate violente, profund înrădăcinate, care implică grupuri de gherilă, carteluri de droguri și comunități indigene care luptă.",
+        "en": "Popayán is the capital of the Cauca Department in southwestern Colombia. Geographically located in the highly fertile Pubenza Valley, the city is aggressively flanked by the massive central and western Andean cordilleras. Economically, Popayán operates primarily as a regional administrative and educational center, heavily relying on the public sector, universities, and commercial services. The surrounding rural economy is strictly based on commercial coffee production and heavy agriculture. Historically founded in 1536, the city is nationally renowned for its highly preserved, completely whitewashed Spanish colonial architecture, which actively attracts significant cultural tourism. Popayán was completely devastated by a massive earthquake in 1983, forcefully requiring a meticulous, decades-long architectural reconstruction. Today, the pristine urban center sharply and jarringly contrasts with the highly volatile surrounding rural areas. The Cauca Department is the absolute epicenter of violent, deeply entrenched armed conflicts involving aggressive guerrilla groups, brutal drug cartels, and marginalized indigenous communities fiercely fighting for ancestral land rights."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Popayán ist berühmt für seine komplett weiß getünchte Kolonialarchitektur.",
+          "Ein Mega-Erdbeben zerstörte die historische Altstadt im Jahr 1983 völlig.",
+          "Die formelle Wirtschaft stützt sich auf Universitäten und den öffentlichen Sektor.",
+          "Die Region Cauca ist das absolute Epizentrum tödlicher, bewaffneter Konflikte.",
+          "Indigene Gruppen kämpfen im Umland gewaltsam um historische Landrechte."
+        ],
+        "hu": [
+          "Popayán rendkívül híres a teljesen fehérre meszelt gyarmati építészetéről.",
+          "Egy megaföldrengés 1983-ban teljesen és masszívan elpusztította a történelmi óvárost.",
+          "A formális gazdaság az egyetemekre és a masszív közszférára támaszkodik.",
+          "A Cauca régió a halálos és fegyveres konfliktusok abszolút epicentruma.",
+          "Az őslakos csoportok a környéken erőszakosan küzdenek a történelmi földjogokért."
+        ],
+        "ro": [
+          "Popayán este faimos la nivel național pentru arhitectura sa colonială complet văruită.",
+          "Un mega-cutremur a distrus complet și devastator orașul vechi istoric în 1983.",
+          "Economia formală urbană se bazează masiv pe universități și pe sectorul public.",
+          "Regiunea Cauca este epicentrul absolut al conflictelor armate violente și mortale.",
+          "Grupurile indigene din zonele înconjurătoare luptă violent pentru drepturile funciare."
+        ],
+        "en": [
+          "Popayán is highly famous nationally for its completely whitewashed colonial architecture.",
+          "A devastating mega-earthquake completely destroyed the historical old town in 1983.",
+          "The formal urban economy relies heavily on large universities and the public sector.",
+          "The Cauca region acts as the absolute epicenter of deadly, highly violent armed conflicts.",
+          "Indigenous groups in the surrounding areas violently and fiercely fight for land rights."
+        ]
+      }
+    },
+    {
+      "id": "sincelejo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sincelejo ist die Hauptstadt des Departamento Sucre, geografisch in den karibischen Küstenebenen im Norden Kolumbiens gelegen. Die Stadt sitzt exakt an einem hochstrategischen Knotenpunkt, der die Küstenhäfen mit dem andinen Landesinneren verbindet. Wirtschaftlich ist Sincelejo fast vollständig von der massiven, extensiven Rinderzucht und der großflächigen kommerzielle Landwirtschaft abhängig, die die umliegenden ländlichen Savannen aggressiv dominieren. Der formelle Industriesektor ist praktisch nicht existent, was die überwältigende Mehrheit der städtischen Bevölkerung in hochgradig prekäre informelle Arbeit und Straßenhandel zwingt. Historisch 1535 gegründet, wuchs die Stadt aufgrund extremer geografischer Isolation und eines absoluten Mangels an staatlichen Investitionen extrem langsam. Heute steht Sincelejo vor schweren infrastrukturellen und sozialen Krisen. Das städtische Wassernetz ist völlig unzureichend, sodass ganze Viertel wochenlang ohne frisches fließendes Wasser bleiben. Darüber hinaus litt die Stadt historisch massiv unter brutaler paramilitärischer Gewalt, die Tausende von ländlichen Bauern gewaltsam in die rasant wuchernden, verarmten Slums der Stadt vertrieb.",
+        "hu": "Sincelejo a Sucre megye fővárosa, földrajzilag a kolumbiai karibi tengerparti síkságokon helyezkedik el. A város pontosan egy rendkívül stratégiai jelentőségű csomópontban fekszik, amely összeköti a tengerparti kikötőket az andoki belső területekkel. Gazdasági szempontból Sincelejo szinte teljes mértékben a masszív, külterjes szarvasmarha-tenyésztéstől és a nagyüzemi kereskedelmi mezőgazdaságtól függ, amelyek agresszívan uralják a környező vidéki szavannákat. A formális ipari szektor gyakorlatilag nem létezik, ami a városi lakosság túlnyomó többségét rendkívül bizonytalan informális munkára és utcai árusításra kényszeríti. A történelmileg 1535-ben alapított város az extrém földrajzi elszigeteltség és az állami beruházások abszolút hiánya miatt rendkívül lassan fejlődött. Ma Sincelejo súlyos infrastrukturális és társadalmi válságokkal néz szembe. A városi vízhálózat teljesen nem megfelelő, olyannyira, hogy egész városrészek hetekig maradnak friss folyóvíz nélkül. Ezenkívül a város történelmileg masszívan megszenvedte a brutális félkatonai erőszakot, amely vidéki gazdák ezreit űzte erőszakkal a város gyorsan burjánzó, elszegényedett nyomornegyedeibe.",
+        "ro": "Sincelejo este capitala departamentului Sucre, situată geografic în câmpiile de coastă caraibiene din nordul Columbiei. Orașul se află exact la o răscruce extrem de strategică, care conectează porturile de coastă cu interiorul andin. Economic, Sincelejo este aproape în întregime dependent de industria masivă și extensivă a creșterii vitelor și de agricultura comercială la scară largă, care domină agresiv savanele rurale din jur. Sectorul industrial formal este practic inexistent, forțând marea majoritate a populației urbane în munci informale extrem de precare și vânzări stradale. Istoric fondat în 1535, orașul a crescut extrem de lent din cauza izolării geografice severe și a lipsei absolute de investiții ale statului. Astăzi, Sincelejo se confruntă cu crize infrastructurale și sociale severe. Rețeaua municipală de apă este total inadecvată, lăsând cartiere întregi fără apă curentă proaspătă timp de săptămâni. Mai mult, orașul a suferit masiv din cauza violenței paramilitare.",
+        "en": "Sincelejo is the capital of the Sucre Department, located geographically in the Caribbean coastal plains of northern Colombia. The city sits exactly at a highly strategic crossroads connecting the coastal seaports directly with the Andean interior. Economically, Sincelejo is almost entirely dependent on the massive, extensive cattle ranching industry and large-scale commercial agriculture that aggressively dominates the surrounding rural savannas. The formal industrial sector is virtually non-existent, actively forcing the vast majority of the urban population into highly precarious informal labor and street vending. Historically founded in 1535, the city grew extremely slowly due to severe geographical isolation and an absolute lack of formal state investment. Today, Sincelejo faces severe infrastructural and social crises. The municipal water network is totally inadequate, frequently leaving entire neighborhoods completely without fresh running water for weeks. Furthermore, the city historically suffered massively from brutal paramilitary violence, which forcefully displaced thousands of rural farmers directly into the city's rapidly expanding, impoverished slums."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sincelejo ist ein hochstrategischer Knotenpunkt in den nördlichen Küstenebenen.",
+          "Die formelle Wirtschaft ist absolut abhängig von der massiven Rinderzucht.",
+          "Das völlige Fehlen von Industrie zwingt Einwohner in den informellen Sektor.",
+          "Die städtische Wasserinfrastruktur ist chronisch und massiv unterfinanziert.",
+          "Paramilitärische Gewalt trieb historisch zehntausende Bauern in die Slums."
+        ],
+        "hu": [
+          "Sincelejo egy rendkívül stratégiai csomópont az északi tengerparti síkságokon.",
+          "A formális gazdaság abszolút mértékben a masszív szarvasmarha-tenyésztéstől függ.",
+          "A hivatalos ipar teljes hiánya az informális szektorba kényszeríti a lakosokat.",
+          "A városi vízi infrastruktúra krónikusan és masszívan alulfinanszírozott.",
+          "A félkatonai erőszak történelmileg parasztok tízezreit űzte a nyomornegyedekbe."
+        ],
+        "ro": [
+          "Sincelejo este o răscruce extrem de strategică în câmpiile de coastă din nord.",
+          "Economia formală depinde absolut de industria masivă de creștere a vitelor.",
+          "Lipsa completă a industriei forțează populația urbană în sectorul informal.",
+          "Infrastructura municipală de apă este cronic și masiv subfinanțată.",
+          "Violența paramilitară a împins istoric zeci de mii de fermieri în mahalale."
+        ],
+        "en": [
+          "Sincelejo firmly acts as a highly strategic crossroads in the northern coastal plains.",
+          "The formal local economy depends absolutely on the massive cattle ranching industry.",
+          "The complete lack of heavy industry aggressively forces residents into the informal sector.",
+          "The municipal water infrastructure is chronically and massively underfunded and failing.",
+          "Brutal paramilitary violence historically drove tens of thousands of farmers into urban slums."
+        ]
+      }
+    },
+    {
+      "id": "armenia-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Armenia ist die Hauptstadt des Departamento Quindío und fungiert als eine zentrale Säule der kolumbianischen Kaffeeachse (Eje Cafetero). Geografisch in der zentralen Andenkordillere gelegen, ist die Stadt vollständig von steilen Hügeln umgeben, die mit üppigen, hochproduktiven Kaffeeplantagen bedeckt sind. Wirtschaftlich verließ sich Armenia historisch absolut exklusiv auf den massiven kommerziellen Anbau und den globalen Export von Premium-Kaffee. In den letzten Jahrzehnten, nach schweren globalen Preisschwankungen beim Kaffee, diversifizierte sich die formelle Wirtschaft aggressiv in den ländlichen Ökotourismus und in kommerzielle Dienstleistungen. Historisch gesehen wurde die Stadt erst spät, im Jahr 1889, gegründet und erlitt während des massiven Kaffeeachsen-Erdbebens 1999 eine absolut katastrophale Zerstörung, die weite Teile des städtischen Rasters dem Erdboden gleichmachte. Der anschließende Totalwiederaufbau modernisierte die Infrastruktur der Stadt komplett. Heute steht Armenia jedoch vor extremen landwirtschaftlichen Bedrohungen. Das aggressive Fortschreiten des globalen Klimawandels stört die strengen saisonalen Regenmuster massiv und gefährdet die fragilen Kaffeeernten, die das regionale Rückgrat bilden, völlig.",
+        "hu": "Armenia a Quindío megye fővárosa, és a kolumbiai kávétengely (Eje Cafetero) központi pilléreként működik. Földrajzilag a középső Andok kordillerájában helyezkedik el, a várost teljesen körülveszik a buja, rendkívül produktív kávéültetvényekkel borított meredek dombok. Gazdasági szempontból Armenia történelmileg abszolút és kizárólag a prémium kávé masszív kereskedelmi termesztésére és globális exportjára támaszkodott. Az elmúlt évtizedekben, a globális kávéárak súlyos ingadozásait követően a formális gazdaság agresszívan diverzifikálódott a vidéki ökoturizmus és a kereskedelmi szolgáltatások irányába. Történelmileg a várost viszonylag későn, 1889-ben alapították, és abszolút katasztrofális pusztítást szenvedett el az 1999-es masszív kávétengely-földrengés során, amely a városszerkezet nagy részét a földdel tette egyenlővé. Az ezt követő teljes újjáépítés teljesen modernizálta a város infrastruktúráját. Ma Armenia azonban extrém mezőgazdasági fenyegetésekkel néz szembe. A globális klímaváltozás agresszív előretörése masszívan megzavarja a szigorú szezonális esőzési mintákat, és teljesen veszélyezteti a törékeny kávétermést, amely a regionális gazdaság gerincét alkotja.",
+        "ro": "Armenia este capitala departamentului Quindío și acționează ca un pilon central al Axei Cafelei din Columbia (Eje Cafetero). Situat geografic în cordiliera centrală andină, orașul este complet înconjurat de dealuri abrupte acoperite cu plantații de cafea luxuriante și foarte productive. Din punct de vedere economic, Armenia s-a bazat istoric absolut exclusiv pe cultivarea comercială masivă și pe exportul global de cafea premium. În ultimele decenii, în urma fluctuațiilor severe ale prețurilor globale la cafea, economia formală s-a diversificat agresiv în ecoturismul rural și servicii comerciale. Fondat istoric relativ târziu în 1889, orașul a suferit o distrugere absolut catastrofală în timpul cutremurului masiv al axei cafelei din 1999, care a nivelat mari secțiuni ale rețelei urbane. Reconstrucția totală ulterioară a modernizat complet infrastructura orașului. Astăzi, Armenia se confruntă cu amenințări agricole extreme. Avansarea agresivă a schimbărilor climatice globale perturbă masiv tiparele stricte de ploaie sezonieră, punând în pericol complet recoltele fragile de cafea.",
+        "en": "Armenia is the capital of the Quindío Department and actively acts as a central pillar of the Colombian Coffee Axis (Eje Cafetero). Geographically situated directly in the central Andean cordillera, the city is completely surrounded by steeply rolling hills covered entirely in lush, highly productive coffee plantations. Economically, Armenia has historically relied absolutely exclusively on the massive commercial cultivation and global export of premium coffee. In recent decades, following severe fluctuations in global coffee prices, the formal economy aggressively diversified into rural eco-tourism and commercial services. Historically founded relatively late in 1889, the city suffered absolute catastrophic destruction during the massive 1999 coffee axis earthquake, which completely leveled large sections of the urban grid. The subsequent total reconstruction fully modernized the city's infrastructure completely. Today, Armenia faces severe agricultural threats. The aggressive advancement of global climate change highly disrupts the strict seasonal rain patterns, completely jeopardizing the extremely fragile coffee harvests that firmly form the regional economic backbone."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Armenia ist das hochaktive Zentrum der weltberühmten kolumbianischen Kaffeeachse.",
+          "Die historische Wirtschaft war absolut exklusiv vom globalen Kaffee-Export abhängig.",
+          "Ein massives Erdbeben zerstörte im Jahr 1999 fast die komplette städtische Architektur.",
+          "Die Stadt hat sich heute stark in Richtung des kommerziellen Ökotourismus diversifiziert.",
+          "Aggressiver Klimawandel bedroht die fragilen lokalen Kaffee-Ernten heute extrem."
+        ],
+        "hu": [
+          "Armenia a világhírű kolumbiai kávétengely rendkívül aktív és fontos központja.",
+          "A történelmi gazdaság abszolút kizárólag a globális kávéexporttól függött.",
+          "Egy hatalmas földrengés 1999-ben szinte a teljes városi építészetet elpusztította.",
+          "A város ma már erőteljesen diverzifikált a kereskedelmi ökoturizmus irányába.",
+          "Az agresszív klímaváltozás ma extrém módon fenyegeti a törékeny helyi kávétermést."
+        ],
+        "ro": [
+          "Armenia este centrul extrem de activ al faimoasei Axe columbiene a Cafelei.",
+          "Economia istorică a depins absolut exclusiv de exportul global masiv de cafea.",
+          "Un cutremur masiv a distrus aproape complet arhitectura urbană locală în 1999.",
+          "Orașul s-a diversificat agresiv și puternic astăzi către ecoturismul comercial.",
+          "Schimbările climatice agresive amenință extrem recoltele locale fragile de cafea."
+        ],
+        "en": [
+          "Armenia acts as the highly active epicenter of the world-famous Colombian Coffee Axis.",
+          "The historical formal economy depended absolutely exclusively on global coffee export.",
+          "A massive and highly destructive earthquake completely leveled the urban city in 1999.",
+          "The city has aggressively diversified its modern economy towards commercial eco-tourism.",
+          "Aggressive global climate change extremely threatens the highly fragile coffee harvests today."
+        ]
+      }
+    },
+    {
+      "id": "neiva-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Neiva ist die administrative Hauptstadt des Departamento Huila im Südwesten Kolumbiens. Geografisch liegt die Stadt im heißen, hochgradig trockenen oberen Tal des massiven Magdalena-Flusses, in unmittelbarer Nähe zur verlassenen Tatacoa-Wüste. Wirtschaftlich dient Neiva als der absolut primäre kommerzielle und logistische Hub für die regionale Erdölförderungsindustrie und massive landwirtschaftliche Betriebe. Die umliegenden, stark bewässerten Ebenen produzieren aggressiv kommerziellen Reis, Baumwolle und hochwertigen Kaffee für den nationalen Vertrieb. Historisch wurde die Stadt 1539 gegründet und operierte als ein hochstrategischer kommerzieller Transitpunkt zwischen der Hauptstadt Bogotá und der unerschlossenen Südgrenze. Heute erlebt Neiva extrem schwere klimatische Herausforderungen. Die hyperaride Umgebung setzt die Stadt regelmäßig brutalen Hitzewellen und langanhaltenden Dürren aus, die den massiven Agrarsektor schwer bedrohen. Darüber hinaus hat die Stadt Tausende von Binnenflüchtlingen absorbiert, die vor dem gewaltsamen bewaffneten Konflikt in den umliegenden, stark bewaldeten andinen Bergketten geflohen sind, was die kommunalen Dienstleistungen extrem belastet.",
+        "hu": "Neiva a Huila megye közigazgatási fővárosa Délnyugat-Kolumbiában. Földrajzilag a város a hatalmas Magdalena-folyó forró, rendkívül száraz felső völgyében fekszik, az elhagyatott Tatacoa-sivatag közvetlen közelében. Gazdasági szempontból Neiva a regionális kőolaj-kitermelő ipar és a masszív mezőgazdasági műveletek abszolút elsődleges kereskedelmi és logisztikai központjaként szolgál. A környező, erősen öntözött síkságok agresszívan termelnek kereskedelmi rizst, pamutot és kiváló minőségű kávét az országos elosztás számára. Történelmileg a várost 1539-ben alapították, és rendkívül stratégiai kereskedelmi tranzitpontként működött a főváros, Bogotá és a feltáratlan déli határvidék között. Ma Neiva extrém súlyos éghajlati kihívásokkal néz szembe. A hiperarid környezet rendszeresen brutális hőhullámoknak és elhúzódó aszályoknak teszi ki a várost, amelyek súlyosan fenyegetik a masszív agrárszektort. Ezenkívül a város belső menekültek ezreit szívta fel, akik a környező, sűrűn erdősült andoki hegyláncokban zajló erőszakos fegyveres konfliktus elől menekültek el, ami extrém módon megterheli a helyi önkormányzati szolgáltatásokat.",
+        "ro": "Neiva este capitala administrativă a departamentului Huila din sud-vestul Columbiei. Geografic, orașul este situat în valea superioară fierbinte și extrem de aridă a masivului râu Magdalena, mărginind îndeaproape Deșertul izolat Tatacoa. Economic, Neiva servește ca hub comercial și logistic absolut primar pentru industria regională de extracție a petrolului și operațiunile agricole masive. Câmpiile înconjurătoare puternic irigate produc agresiv orez comercial, bumbac și cafea de înaltă calitate pentru distribuție națională. Fondat istoric în 1539, orașul a operat ca un punct de tranzit comercial extrem de strategic între capitala Bogotá și frontiera de sud. Astăzi, Neiva experimentează provocări climatice extrem de severe. Mediul hiperarid supune în mod regulat orașul la valuri de căldură brutale și secete prelungite care amenință grav sectorul agricol masiv. Mai mult, orașul a absorbit mii de persoane strămutate intern care au fugit de conflictul armat violent din lanțurile muntoase andine înconjurătoare.",
+        "en": "Neiva is the administrative capital of the Huila Department in southwestern Colombia. Geographically, the city is situated directly in the hot, highly arid upper valley of the massive Magdalena River, closely bordering the desolate Tatacoa Desert. Economically, Neiva serves as the absolute primary commercial and logistical hub for the regional petroleum extraction industry and massive agricultural operations. The surrounding highly irrigated plains aggressively produce commercial rice, cotton, and high-quality coffee strictly for national distribution. Historically founded in 1539, the city operated as a highly strategic commercial transit point between the capital Bogotá and the completely unexploited southern frontier. Today, Neiva experiences extremely severe climate challenges. The hyper-arid environment regularly subjects the city to brutal heatwaves and prolonged, massive droughts that severely threaten the heavy agricultural sector. Furthermore, the city has absorbed tens of thousands of internally displaced persons desperately fleeing the violent armed conflict in the surrounding heavily forested Andean mountain ranges, severely straining local municipal services."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Neiva liegt im extrem heißen und trockenen oberen Tal des Magdalena-Flusses.",
+          "Die Stadt ist das absolute Logistikzentrum für die lokale Erdölindustrie.",
+          "Bewässerte Landwirtschaft produziert hier massiv Reis und Exportkaffee.",
+          "Brutale Hitzewellen und Megadürren bedrohen die Agrarwirtschaft extrem.",
+          "Die Stadt leidet schwer unter dem massiven Zustrom von Binnenflüchtlingen."
+        ],
+        "hu": [
+          "Neiva a Magdalena-folyó extrém forró és száraz felső völgyében fekszik.",
+          "A város a helyi kőolajipar abszolút logisztikai és kereskedelmi központja.",
+          "Az öntözéses mezőgazdaság masszívan termel itt rizst és exportkávét.",
+          "Brutális hőhullámok és megaszárazságok extrém módon fenyegetik az agráriumot.",
+          "A város súlyosan szenved a fegyveres konfliktusok elől menekülők tömeges beáramlásától."
+        ],
+        "ro": [
+          "Neiva este situat în valea superioară extrem de caldă și uscată a râului Magdalena.",
+          "Orașul este centrul logistic absolut pentru industria masivă a petrolului local.",
+          "Agricultura puternic irigată produce aici masiv orez și cafea pentru export.",
+          "Valurile de căldură brutale și secetele mega amenință extrem economia agricolă.",
+          "Orașul suferă grav din cauza afluxului masiv și disperat de refugiați interni."
+        ],
+        "en": [
+          "Neiva is located exactly in the extremely hot and dry upper valley of the Magdalena River.",
+          "The city heavily acts as the absolute logistics center for the local petroleum industry.",
+          "Heavily irrigated formal agriculture massively produces commercial rice and export coffee here.",
+          "Brutal heatwaves and severe megadroughts extremely threaten the local formal agrarian economy.",
+          "The city completely suffers from the massive influx of desperate internally displaced persons."
+        ]
+      }
+    },
+    {
+      "id": "riohacha-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Riohacha ist die Hauptstadt des Departamento La Guajira, gelegen im extremen Nordosten Kolumbiens an der hochgradig ariden Karibikküste. Geografisch ist die Stadt komplett von der rauen, hyperariden Guajira-Wüste umgeben, was jegliche traditionelle landwirtschaftliche Entwicklung massiv einschränkt. Wirtschaftlich wird Riohacha absolut von seiner Nähe zum gewaltigen Cerrejón-Kohlentagebau, einem der größten der Welt, dominiert, der die formelle lokale Wirtschaft antreibt. Die Stadt stützt sich zudem auf kommerzielle Fischerei und den informellen, grenzüberschreitenden Schmuggel mit dem benachbarten Venezuela. Historisch 1535 gegründet, ist sie eine der ältesten Städte Amerikas, blieb jedoch aufgrund ihrer Isolation schwer marginalisiert. Heute steht Riohacha vor absoluten existenziellen humanitären Krisen. Die lokale indigene Wayuu-Bevölkerung leidet massiv unter extremer, weit verbreiteter Unterernährung und hochgradig tödlicher Dehydrierung aufgrund des totalen Fehlens einer Frischwasserinfrastruktur. Der aggressive Wasserverbrauch der gigantischen Kohlebergbauoperationen verschärft diese schwere Dürre extrem und zerstört das fragile Wüstenökosystem komplett.",
+        "hu": "Riohacha a La Guajira megye fővárosa, amely Kolumbia legészakkeletibb részén, a rendkívül száraz karibi partvidéken található. Földrajzilag a várost teljesen körülveszi a zord, hiperarid Guajira-sivatag, ami masszívan korlátozza a hagyományos mezőgazdasági fejlődést. Gazdasági szempontból Riohachát abszolút mértékben a világ egyik legnagyobb külszíni szénbányájához, a Cerrejónhoz való közelsége uralja, amely a formális helyi gazdaságot hajtja. A város emellett a kereskedelmi halászatra és a szomszédos Venezuelával folytatott informális, határokon átnyúló csempészetre is támaszkodik. Történelmileg 1535-ben alapították, így Amerika egyik legrégebbi városa, de elszigeteltsége miatt súlyosan marginalizált maradt. Ma Riohacha abszolút egzisztenciális humanitárius válságokkal néz szembe. A helyi őslakos wayuu lakosság masszívan szenved az extrém, széles körben elterjedt alultápláltságtól és a rendkívül halálos kiszáradástól az édesvízi infrastruktúra teljes hiánya miatt. A gigantikus szénbányászati műveletek agresszív vízfogyasztása rendkívüli módon súlyosbítja ezt a súlyos aszályt, és teljesen elpusztítja a törékeny sivatagi ökoszisztémát.",
+        "ro": "Riohacha este capitala departamentului La Guajira, situată în nord-estul extrem al Columbiei pe coasta Caraibelor, foarte aridă. Geografic, orașul este complet înconjurat de deșertul Guajira, aspru și hiperarid, restricționând masiv orice dezvoltare agricolă tradițională. Din punct de vedere economic, Riohacha este complet dominat de apropierea sa de masiva mină de cărbune în carieră deschisă Cerrejón, una dintre cele mai mari din lume, care conduce complet economia locală formală. Orașul se bazează, de asemenea, pe pescuitul comercial și pe contrabanda informală transfrontalieră cu Venezuela vecină. Fondat istoric în 1535, este unul dintre cele mai vechi orașe din America, dar a rămas sever marginalizat. Astăzi, Riohacha se confruntă cu crize umanitare existențiale absolute. Populația indigenă Wayuu locală suferă de malnutriție extremă și deshidratare extrem de fatală din cauza lipsei totale a infrastructurii de apă dulce. Consumul de apă masiv agravează seceta.",
+        "en": "Riohacha is the capital of the La Guajira Department, securely located in the extreme northeast of Colombia on the highly arid Caribbean coast. Geographically, the city is completely surrounded by the harsh, hyper-arid Guajira Desert, heavily restricting any traditional agricultural development. Economically, Riohacha is completely dominated by its close proximity to the massive Cerrejón open-pit coal mine, absolutely one of the largest in the world, which completely drives the formal local economy. The city also relies heavily on commercial fishing and aggressive informal cross-border smuggling with neighboring Venezuela. Historically founded in 1535, it is one of the absolute oldest continuing cities in the Americas but has remained severely politically and economically marginalized. Today, Riohacha faces absolute existential humanitarian crises. The local indigenous Wayuu population heavily suffers from extreme, widespread malnutrition and highly fatal dehydration due to the total lack of basic fresh water infrastructure. The aggressive water consumption by the massive coal mining operations heavily exacerbates this severe megadrought, completely destroying the fragile desert ecosystem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Riohacha liegt extrem isoliert in der hiperariden Wüste La Guajira.",
+          "Der gigantische Kohletagebau Cerrejón dominiert die lokale Wirtschaft komplett.",
+          "Informeller Schmuggel mit Venezuela ist eine massive Einnahmequelle der Region.",
+          "Die indigene Wayuu-Bevölkerung leidet extrem unter Wasser- und Nahrungsmangel.",
+          "Massiver Wasserverbrauch der Kohlemine vernichtet das lokale Ökosystem völlig."
+        ],
+        "hu": [
+          "Riohacha extrém módon elszigetelten fekszik a hiperarid La Guajira sivatagban.",
+          "A gigantikus Cerrejón külszíni szénbánya teljesen uralja a helyi gazdaságot.",
+          "A Venezuelával folytatott informális csempészet masszív bevételi forrás a régióban.",
+          "Az őslakos wayuu nép extrém módon szenved a víz- és az élelem hiányától.",
+          "A szénbánya masszív és agresszív vízfogyasztása teljesen elpusztítja az ökoszisztémát."
+        ],
+        "ro": [
+          "Riohacha este situat extrem de izolat în deșertul hiperarid La Guajira din nord.",
+          "Mina gigant de cărbune Cerrejón domină complet și agresiv economia locală.",
+          "Contrabanda informală cu Venezuela este o sursă masivă de venit în regiune.",
+          "Populația indigenă Wayuu suferă extrem de lipsa totală de apă și alimente.",
+          "Consumul masiv de apă al minei de cărbune distruge complet ecosistemul local."
+        ],
+        "en": [
+          "Riohacha is situated extremely isolatedly within the hyper-arid La Guajira Desert.",
+          "The gigantic Cerrejón open-pit coal mine completely dominates the local formal economy.",
+          "Aggressive informal smuggling with Venezuela acts as a massive regional income source.",
+          "The indigenous Wayuu population suffers extremely from a total lack of water and food.",
+          "Massive industrial water consumption by the coal mine completely destroys the ecosystem."
+        ]
+      }
+    }
+  ]
+}

@@ -2,130 +2,84 @@
   "lang": "en",
   "country": "Cameroon",
   "files": [
-    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
     "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
     "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
   ],
   "items": [
     {
-      "id": "yaounde-notre-dame-landmarks-v2",
-      "description": "A prominent Catholic cathedral in Yaounde. It is one of the capital's best known civic and religious landmarks.",
-      "facts": [
-        "in Yaounde",
-        "Catholic cathedral",
-        "capital landmark"
-      ]
+      "id": "manengouba-mountain-nature-v2",
+      "description": "Mount Manengouba is a majestic extinct volcano featuring unique twin crater lakes known as the 'Male' and 'Female' lakes.",
+      "facts": ["Extinct volcano", "Twin crater lakes", "Littoral Region", "Lush mountain landscape"]
     },
     {
-      "id": "mvolye-basilica-landmarks-v2",
-      "description": "The Basilica of Mary Queen of Apostles in Mvolye is a major church in Yaounde. It is a landmark of modern Catholic architecture.",
-      "facts": [
-        "in Yaounde",
-        "major basilica",
-        "modern church landmark"
-      ]
+      "id": "nkam-basin-nature-v2",
+      "description": "The Nkam Basin is a fertile valley and river system known for its lush vegetation and rich agricultural potential in the Littoral Region.",
+      "facts": ["River basin system", "Littoral Region", "Fertile valley land", "Rich biodiversity"]
     },
     {
-      "id": "olembe-stadium-landmarks-v2",
-      "description": "A large modern stadium in the north of Yaounde. It hosts major football matches and national events.",
-      "facts": [
-        "in Yaounde",
-        "large football stadium",
-        "used for major events"
-      ]
+      "id": "kribi-forest-nature-v2",
+      "description": "The coastal forests of Kribi are a lush tropical paradise where the jungle meets the sandy shores of the Atlantic Ocean.",
+      "facts": ["Coastal tropical forest", "Kribi Atlantic coast", "Jungle shorelines", "Biodiverse habitat"]
     },
     {
-      "id": "reunification-monument-landmarks-v2",
-      "description": "A national monument in Yaounde that marks Cameroon's reunification. It is one of the city's most recognizable symbols.",
-      "facts": [
-        "in Yaounde",
-        "symbol of reunification",
-        "national monument"
-      ]
+      "id": "buea-forest-nature-v2",
+      "description": "The montane forests surrounding Buea are part of the Mount Cameroon ecosystem, home to rare plants and a variety of bird species.",
+      "facts": ["Montane forest zone", "Mount Cameroon slopes", "Rare plant species", "Southwest Region"]
     },
     {
-      "id": "national-museum-landmarks-v2",
-      "description": "Cameroon's national museum in Yaounde. It displays objects that trace the country's cultural and political history.",
-      "facts": [
-        "in Yaounde",
-        "national museum",
-        "cultural collections"
-      ]
+      "id": "kribi-marsh-nature-v2",
+      "description": "The marshlands around Kribi are important coastal wetlands that support a variety of aquatic life and migratory bird species.",
+      "facts": ["Coastal marshland", "Kribi wetland zone", "Aquatic bird habitat", "Biodiverse ecosystem"]
     },
     {
-      "id": "douala-cathedral-landmarks-v2",
-      "description": "A major cathedral in Douala and an important religious landmark of the coastal city. It anchors the city's Catholic community.",
-      "facts": [
-        "in Douala",
-        "major cathedral",
-        "coastal city landmark"
-      ]
+      "id": "mungo-marsh-nature-v2",
+      "description": "The Mungo marshes are expansive wetlands in the Littoral Region, providing a critical habitat for diverse flora and fauna.",
+      "facts": ["Littoral marshland", "Expansive wetland", "Biodiverse flora zone", "Critical habitat"]
     },
     {
-      "id": "japoma-stadium-landmarks-v2",
-      "description": "A large stadium in Douala used for football and public events. It is one of Cameroon's main sports venues.",
-      "facts": [
-        "in Douala",
-        "major stadium",
-        "sports and events venue"
-      ]
+      "id": "mandara-mountains-relief-v2",
+      "description": "The Mandara Mountains are a dramatic volcanic range in the Far North, known for their rugged beauty and unique terrace farming.",
+      "facts": ["Volcanic mountain range", "Far North Region", "Rugged rocky peaks", "Traditional terrace farming"]
     },
     {
-      "id": "nouvelle-liberte-landmarks-v2",
-      "description": "A well known statue in Douala representing freedom and modern city life. It has become one of the city's most photographed landmarks.",
-      "facts": [
-        "in Douala",
-        "modern city statue",
-        "popular photo spot"
-      ]
+      "id": "mount-manengouba-relief-v2",
+      "description": "The relief of Mount Manengouba is defined by its massive caldera and the lush, rolling grasslands of the highland plateau.",
+      "facts": ["Massive caldera peak", "Highland plateau", "Rolling grasslands", "Volcanic relief"]
     },
     {
-      "id": "wouri-bridge-landmarks-v2",
-      "description": "The bridge over the Wouri River linking parts of Douala. It is a vital transport connection for the country's main port city.",
-      "facts": [
-        "crosses the Wouri",
-        "in Douala",
-        "important road link"
-      ]
+      "id": "mount-kupe-relief-v2",
+      "description": "Mount Kupe is a significant peak in the Bakossi mountain range, rising steeply from the surrounding tropical forests.",
+      "facts": ["Bakossi mountain peak", "Southwest Region", "Steep forest slopes", "Ecological landmark"]
     },
     {
-      "id": "foumban-palace-landmarks-v2",
-      "description": "The royal palace in Foumban is a standout landmark of the Bamoun kingdom. Its architecture and museum make it a key visitor site.",
-      "facts": [
-        "in Foumban",
-        "royal palace",
-        "Bamoun heritage site"
-      ]
+      "id": "mount-oissa-relief-v2",
+      "description": "Mount Oissa is a notable elevation in central Cameroon, contributing to the varied and hilly topography of the region.",
+      "facts": ["Central Region peak", "Hilly topography", "Regional elevation", "Natural landmark"]
     },
     {
-      "id": "roumde-adjia-stadium-landmarks-v2",
-      "description": "A stadium in Maroua used for football and local gatherings. It is one of the main sports grounds in the Far North.",
-      "facts": [
-        "in Maroua",
-        "sports stadium",
-        "Far North venue"
-      ]
+      "id": "nlonako-mountains-relief-v2",
+      "description": "The Nlonako Mountains are part of Cameroon's western volcanic line, featuring dense forests and significant biodiversity.",
+      "facts": ["Volcanic line peak", "Littoral Region", "Dense forest cover", "Rugged relief"]
     },
     {
-      "id": "kribi-lighthouse-landmarks-v2",
-      "description": "The lighthouse of Kribi is a familiar coastal landmark. It stands near the Atlantic shore and recalls the town's maritime role.",
-      "facts": [
-        "in Kribi",
-        "coastal lighthouse",
-        "maritime landmark"
-      ]
+      "id": "mount-bambouto-relief-v2",
+      "description": "Mount Bambouto is a massive volcanic complex in the West Region, forming part of the Cameroon Highlands.",
+      "facts": ["Volcanic complex", "West Region peak", "Cameroon Highlands", "Massive mountain relief"]
     },
     {
-      "id": "ahmadou-ahidjo-stadium-landmarks-v2",
-      "description": "Cameroon's national stadium in Yaounde. It hosts major football matches and state events.",
-      "facts": [
-        "in Yaounde",
-        "national stadium",
-        "major sports venue"
-      ]
+      "id": "mount-tchabal-mbabo-relief-v2",
+      "description": "Mount Tchabal Mbabo is one of the highest peaks in the Adamawa Region, offering rugged terrain and panoramic views of the plateau.",
+      "facts": ["Adamawa Region peak", "Rugged terrain", "Highland plateau", "Scenic panoramic views"]
+    },
+    {
+      "id": "mount-rumpi-relief-v2",
+      "description": "The Rumpi Hills are a volcanic mountain range in the Southwest Region, known for their steep slopes and dense tropical forests.",
+      "facts": ["Volcanic hill range", "Southwest Region", "Dense tropical forest", "Steep rocky slopes"]
+    },
+    {
+      "id": "mount-ntem-relief-v2",
+      "description": "Mount Ntem is a prominent elevation in the South Region, characterized by its dense rainforest cover and rolling hills.",
+      "facts": ["South Region peak", "Rainforest landscape", "Rolling hill relief", "Natural landmark"]
     }
   ]
 }

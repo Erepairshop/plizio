@@ -1,0 +1,20 @@
+{
+  "lang": "en",
+  "country": "Pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pk-shah-jahans-mosque",
+      "description": "This 17th-century mosque is renowned for its intricate tile work and central dome structure, reflecting Mughal architectural excellence. It stands as a prominent example of historical craftsmanship in the Sindh region.",
+      "facts": [
+        "Built in 1647 by Shah Jahan",
+        "Located in Thatta, Sindh",
+        "Famous for 93 domes",
+        "Constructed with red bricks",
+        "UNESCO World Heritage site"
+      ]
+    }
+  ]
+}

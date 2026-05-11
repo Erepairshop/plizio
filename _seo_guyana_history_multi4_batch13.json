@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-state-house-history-v2",
+      "descriptionAdvancedDe": "Das State House in Georgetown ist die offizielle Residenz des Präsidenten von Guyana und ein herausragendes Beispiel für die Kolonialarchitektur des Landes. Das 1858 erbaute, elegante Holzgebäude war ursprünglich die Residenz des britischen Gouverneurs. Mit seinen weitläufigen, gepflegten Gärten, den großen Veranden und den Jalousiefenstern, die für eine natürliche Belüftung sorgen, ist das Design perfekt an das tropische Klima angepasst. Das Gebäude hat im Laufe der Jahre zahlreiche Würdenträger und Staatsgäste beherbergt und war Schauplatz vieler wichtiger nationaler Ereignisse. Seit der Unabhängigkeit Guyanas im Jahr 1966 dient es als Wohnsitz des Staatsoberhauptes. Das State House ist nicht nur ein Symbol der Exekutivgewalt, sondern auch ein architektonisches Juwel, das das reiche kulturelle und historische Erbe der Nation widerspiegelt und eine Aura von Anmut und Prestige bewahrt.",
+      "descriptionAdvancedHu": "A georgetowni State House Guyana elnökének hivatalos rezidenciája és az ország gyarmati építészetének kiemelkedő példája. Az 1858-ban épült elegáns faépület eredetileg a brit kormányzó rezidenciája volt. Tágas, gondozott kertjeivel, nagy verandáival és a természetes szellőzést biztosító zsalugáteres ablakaival a tervezés tökéletesen illeszkedik a trópusi éghajlathoz. Az épület az évek során számos méltóságot és állami vendéget fogadott, és sok fontos nemzeti esemény helyszíne volt. Guyana 1966-os függetlenné válása óta az államfő rezidenciájaként szolgál. A State House nemcsak a végrehajtó hatalom szimbóluma, hanem építészeti gyöngyszem is, amely a nemzet gazdag kulturális és történelmi örökségét tükrözi, és megőrzi a kecsesség és a presztízs auráját.",
+      "descriptionAdvancedRo": "State House din Georgetown este reședința oficială a președintelui Guyanei și un exemplu remarcabil al arhitecturii coloniale a țării. Construită în 1858, eleganta clădire din lemn a fost inițial reședința guvernatorului britanic. Cu grădinile sale întinse și bine întreținute, verandele mari și ferestrele cu jaluzele care asigură o ventilație naturală, designul este perfect adaptat climatului tropical. De-a lungul anilor, clădirea a găzduit numeroși demnitari și oaspeți de stat și a fost scena multor evenimente naționale importante. De la independența Guyanei în 1966, aceasta servește drept reședință a șefului statului. State House nu este doar un simbol al puterii executive, ci și o bijuterie arhitecturală care reflectă bogata moștenire culturală și istorică a națiunii, păstrând o aură de grație și prestigiu.",
+      "descriptionAdvancedEn": "State House in Georgetown is the official residence of the President of Guyana and an outstanding example of the country's colonial architecture. Built in 1858, the elegant wooden building was originally the residence of the British Governor. With its sprawling, well-manicured gardens, large verandas, and jalousie windows that provide natural ventilation, the design is perfectly adapted to the tropical climate. Over the years, the building has hosted numerous dignitaries and state guests and has been the scene of many important national events. Since Guyana's independence in 1966, it has served as the residence of the head of state. State House is not only a symbol of executive power but also an architectural gem that reflects the nation's rich cultural and historical heritage, maintaining an aura of grace and prestige.",
+      "factsAdvanced": [
+        "Erbaut im Jahr 1858.",
+        "Offizielle Residenz des Präsidenten von Guyana.",
+        "War ursprünglich die Residenz des britischen Gouverneurs.",
+        "Herausragendes Beispiel der guyanischen Kolonialarchitektur.",
+        "Bekannt für seine weitläufigen, gepflegten Gärten.",
+        "Das Design ist an das tropische Klima angepasst.",
+        "Schauplatz vieler wichtiger nationaler Ereignisse.",
+        "Ein Symbol für das höchste Amt im Staat."
+      ]
+    }
+  ]
+}

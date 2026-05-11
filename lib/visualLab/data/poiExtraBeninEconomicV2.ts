@@ -335,13 +335,13 @@ export const poiExtraBeninEconomicV2: POI[] = [
       de: "Eine Anlage zur Veredelung von Rohpalmöl aus den umliegenden Plantagen zu Speiseöl und Seifenprodukten.",
       hu: "Üzem a környező ültetvényekről származó nyers pálmaolaj finomítására étolajjá és szappankészítményekké.",
       ro: "O instalație pentru rafinarea uleiului de palmier brut de la plantațiile din jur în ulei comestibil și produse de săpun.",
-      en: "A plant for refining crude palm oil from surrounding plantations into cooking oil and soap products."
+      en: "A significant industrial facility in Agonvy dedicated to the processing of palm fruit into oil, a key export product of Benin."
     },
     facts: {
       de: ["Traditioneller Industriezweig.", "Verbindung zur Landwirtschaft.", "Lokaler Absatzmarkt."],
       hu: ["Hagyományos iparág.", "Kapcsolódás a mezőgazdasághoz.", "Helyi piac."],
       ro: ["Ramură industrială tradițională.", "Legătură cu agricultura.", "Piață locală de desfacere."],
-      en: ["Traditional industrial branch.", "Link to agriculture.", "Local market."]
+      en: ["Major palm oil production center", "Located in the Ouémé Department", "Supports local agricultural exports"]
     }, image: "/poi-images/palmoelraffinerie-agonvy-economic-v2.webp",
     descriptionAdvanced: {
     

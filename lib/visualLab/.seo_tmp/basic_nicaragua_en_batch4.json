@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "description": "Fortaleza La Pólvora in Granada is an 18th-century fortress that once protected the city from pirate attacks.",
+      "facts": ["18th-century fortress", "Granada", "Pirate protection"]
+    },
+    {
+      "id": "selva-negra-matagalpa-life-v2",
+      "description": "Selva Negra in Matagalpa is a mountain resort and coffee estate, known for its biodiversity and eco-tourism.",
+      "facts": ["Mountain resort", "Coffee estate", "Biodiversity"]
+    },
+    {
+      "id": "heriberto-sanchez-amusement-park-life-v2",
+      "description": "Heriberto Sánchez Amusement Park in Managua is a popular recreational spot, offering various attractions for families.",
+      "facts": ["Amusement park", "Managua", "Family attractions"]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "description": "Parque Central in Granada is a lively city park, ideal for children to play and observe local life.",
+      "facts": ["Lively city park", "Granada", "Local life"]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "description": "Finca El Platanal in Rivas is a cacao plantation offering tours and insights into organic cultivation.",
+      "facts": ["Cacao plantation", "Organic cultivation", "Rivas"]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "description": "Finca Ecológica La Bomba in Matagalpa is an eco-coffee farm promoting sustainable cultivation and education.",
+      "facts": ["Eco-coffee farm", "Sustainable cultivation", "Matagalpa"]
+    },
+    {
+      "id": "solentiname-archipelago-nature-v2",
+      "description": "The Solentiname Archipelago in Lake Nicaragua is known for its pristine nature, artisan community, and primitive art.",
+      "facts": ["Lake Nicaragua", "Pristine nature", "Artisan community"]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "description": "Tisey-Estanzuela Natural Reserve in Estelí is known for its pine forests, waterfalls, and unique rock formations.",
+      "facts": ["Pine forests", "Waterfalls", "Rock formations"]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "description": "Zapatera Island in Lake Nicaragua is a national park, known for its pristine nature and prehistoric petroglyphs.",
+      "facts": ["National park", "Lake Nicaragua", "Prehistoric petroglyphs"]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "San Lorenzo Cloud Forest in Matagalpa is an important protected area for endemic flora and fauna.",
+      "facts": ["Cloud forest", "Endemic flora and fauna", "Matagalpa"]
+    },
+    {
+      "id": "estero-real-nature-v2",
+      "description": "Estero Real is the largest mangrove wetland in Central America, a vital habitat for many bird species.",
+      "facts": ["Mangrove wetland", "Central America", "Bird species"]
+    },
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "description": "Cerro El Arenal in Jinotega is a mountain known for its cloud forest and coffee-growing region.",
+      "facts": ["Cloud forest", "Coffee-growing region", "Jinotega"]
+    },
+    {
+      "id": "rio-wawa-nature-v2",
+      "description": "Río Wawa in the North Caribbean Coast Autonomous Region is an important river for local communities and the ecosystem.",
+      "facts": ["Important river", "North Caribbean Coast", "Local ecosystem"]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "description": "Meseta de los Pueblos is a volcanic plateau in Masaya department, known for its fertile soil and mild climate.",
+      "facts": ["Volcanic plateau", "Masaya department", "Fertile soil"]
+    },
+    {
+      "id": "selva-de-las-nubes-relief-v2",
+      "description": "Selva de las Nubes in Jinotega is a cloud forest region, known for its high humidity and rich biodiversity.",
+      "facts": ["Cloud forest region", "High humidity", "Rich biodiversity"]
+    }
+  ]
+}

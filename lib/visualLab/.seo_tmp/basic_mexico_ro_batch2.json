@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "Bioparque Estrella, în Mexic, este un parc mare de animale cu un tur de safari și diverse atracții pentru vizitatori.",
+      "facts": ["Parc de animale", "Tur safari", "Atracții"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "Rezervația Biosferei Fluturelui Monarh, în Michoacán și Mexic, este un sit UNESCO unde milioane de fluturi monarh iernează.",
+      "facts": ["Sit UNESCO", "Fluturi monarh", "Iernat"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Sian Ka'an este o rezervație a biosferei pe coasta Caraibelor din Yucatán, incluzând ruine mayașe, mangrove și o faună bogată.",
+      "facts": ["Rezervație a biosferei UNESCO", "Coasta Caraibelor", "Ruine mayașe"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "Rezervația Biosferei Calakmul, în Campeche, este una dintre cele mai mari și mai bine conservate zone de pădure tropicală din Mexic.",
+      "facts": ["Pădure tropicală", "Campeche", "Faună bogată"]
+    },
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "Jungla Lacandon, în Chiapas, este una dintre ultimele mari zone de pădure tropicală din America de Nord, casa mayașilor Lacandon.",
+      "facts": ["Pădure tropicală Chiapas", "Mayași Lacandon", "Biodiversitate"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "Rezervația Biosferei El Vizcaíno, în Baja California Sur, este cea mai mare zonă naturală protejată din America Latină, un loc important de reproducere pentru balenele cenușii.",
+      "facts": ["Cea mai mare zonă protejată", "Balene cenușii", "Baja California"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "Rezervația de Flamingo Celestún, în Yucatán, este faimoasă pentru coloniile sale mari de flamingo și diversele specii de păsări.",
+      "facts": ["Coloniile de flamingo", "Păsări", "Yucatán"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "Rezervația de Broaște Țestoase La Ventanilla, în Oaxaca, protejează broaștele țestoase marine și alte viețuitoare marine de coastă.",
+      "facts": ["Broaște țestoase marine", "Oaxaca", "Viețuitoare marine"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "Rezervația Biosferei Los Tuxtlas, în Veracruz, este un ecosistem unic de pădure de ceață cu o biodiversitate ridicată.",
+      "facts": ["Pădure de ceață", "Veracruz", "Biodiversitate ridicată"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "Rezervația Biosferei Sierra Gorda, în Querétaro, este o regiune montană diversă, cu o floră și faună bogată.",
+      "facts": ["Regiune montană", "Querétaro", "Floră și faună bogată"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Isla Holbox, în Quintana Roo, este o insulă fără mașini, renumită pentru plajele sale virgine și oportunitatea de a vedea rechini-balenă.",
+      "facts": ["Insulă fără mașini", "Plaje virgine", "Rechini-balenă"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Isla Mujeres este o mică insulă caraibiană în largul coastei Cancún, populară pentru plajele sale, recifele de corali și muzeul subacvatic.",
+      "facts": ["Insulă caraibiană", "Recife de corali", "Muzeu subacvatic"]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "lang": "en",
+  "country": "Uae",
+  "files": [
+    "lib/visualLab/data/poiExtraUaeHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUaeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sheikh-saeed-house-history-v2",
+      "description": "The Sheikh Saeed Al Maktoum House is a historic building and former residential quarters of the former ruler of Dubai, Saeed bin Maktoum Al Maktoum.",
+      "facts": [
+        "Built in 1896.",
+        "Located in the Al Shindagha area.",
+        "It is now a museum that contains artifacts and images of old Dubai."
+      ]
+    },
+    {
+      "id": "qasr-al-ain-history-v2",
+      "description": "Al Ain Palace Museum, also known as Qasr al-Ain, was the former home of the late Sheikh Zayed bin Sultan Al Nahyan, the founding father of the UAE.",
+      "facts": [
+        "Built in 1937.",
+        "It was converted into a museum in 1998.",
+        "Showcases the daily life in a ruler's fort."
+      ]
+    },
+    {
+      "id": "al-hajar-mountains-relief-v2",
+      "description": "The Al Hajar Mountains are one of the highest mountain ranges in eastern Arabia, separating the low coastal plain of Oman from the high desert plateau.",
+      "facts": [
+        "Stretches for 700 kilometers.",
+        "The highest peak is Jebel Shams.",
+        "The mountains are rich in flora and fauna."
+      ]
+    }
+  ]
+}

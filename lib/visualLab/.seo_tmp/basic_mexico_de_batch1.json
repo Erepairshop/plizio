@@ -1,0 +1,71 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ciudad-juarez-cities-v2",
+      "description": "Eine bedeutende Industriestadt an der Grenze zu den USA, gegenüber von El Paso gelegen.",
+      "facts": ["Grenzstadt am Rio Grande", "Zentrum der Maquiladora-Industrie", "Gegründet im Jahr 1659"]
+    },
+    {
+      "id": "saltillo-cities-v2",
+      "description": "Die Hauptstadt des Bundesstaates Coahuila, bekannt für ihre koloniale Architektur und Textiltradition.",
+      "facts": ["Berühmt für bunte Serape-Decken", "Spitzname 'Athen des Nordens'", "Wichtiges Automobilzentrum"]
+    },
+    {
+      "id": "coatzacoalcos-cities-v2",
+      "description": "Eine wichtige Hafen- und Industriestadt im Bundesstaat Veracruz am Golf von Mexiko.",
+      "facts": ["Bedeutender Erdölhafen", "Mündung des Rio Coatzacoalcos", "Industrielles Zentrum der Region"]
+    },
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "Der größte Zoo Mexikos, gelegen im weitläufigen Chapultepec-Park in Mexiko-Stadt.",
+      "facts": ["Eröffnet im Jahr 1923", "Berühmt für seine Großen Pandas", "Über 1.200 Tiere zu sehen"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "Ein wichtiger Zoo im Nordosten von Mexiko-Stadt, der sich auf bedrohte Arten konzentriert.",
+      "facts": ["Fokus auf mexikanische Fauna", "Zentrum für Artenschutz", "Großzügige natürliche Gehege"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "Ein moderner Zoo in Guadalajara, der für seine innovative Tierhaltung und Forschung bekannt ist.",
+      "facts": ["Eigener Safaripark", "Spektakuläres Aquarium", "Blick in den Huentitán-Canyon"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Eines der größten Aquarien Lateinamerikas, direkt im schicken Viertel Polanco in Mexiko-Stadt.",
+      "facts": ["Unterirdische Anlage", "Über 14.000 Meeresbewohner", "Interaktive Ausstellungen"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Ein ökologischer Themenpark an der Riviera Maya, der Natur, Kultur und Archäologie verbindet.",
+      "facts": ["Unterirdische Flüsse", "Abendliche Folklore-Shows", "Zentrum für Meeresschildkröten"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Ein Safaripark in der Nähe von Puebla, wo Tiere in großen Freigehegen fast wie in Freiheit leben.",
+      "facts": ["Erkundung mit dem eigenen Auto", "Über 2.500 Tiere", "Engagement für den Artenschutz"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "Ein Erlebnispark und Safari-Zoo im Bundesstaat Mexiko, ideal für Familienausflüge.",
+      "facts": ["Große Safari-Tour", "Interaktive Dino-Ausstellung", "Fokus auf Umweltbildung"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "Ein UNESCO-Welterbe, in dem Millionen von Monarchfaltern aus Kanada überwintern.",
+      "facts": ["Gelegen in Michoacán", "Spektakuläre Massenansammlung", "Schutzgebiet in den Bergen"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Ein riesiges Biosphärenreservat an der Karibikküste, bekannt für seine Artenvielfalt und Lagunen.",
+      "facts": ["UNESCO-Weltnaturerbe", "Maya-Kanäle im Dschungel", "Lebensraum für Jaguare und Seekühe"]
+    }
+  ]
+}

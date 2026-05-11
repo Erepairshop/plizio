@@ -1,0 +1,26 @@
+{
+  "lang": "ro",
+  "country": "Philippines",
+  "files": [
+    "lib/visualLab/data/poiExtraPhilippinesEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPhilippinesNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ph-cebu-it-park-economic-v2",
+      "description": "Un hub tehnologic și de afaceri major situat în Cebu City, esențial pentru industria BPO a țării. Găzduiește numeroase clădiri de birouri moderne și facilități comerciale.",
+      "facts": ["Centru IT regional", "Peste 100 de companii", "Deschis 24/7", "Zona economică specială"]
+    },
+    {
+      "id": "ph-las-pinas-bamboo-organ-landmarks-v2",
+      "description": "O orgă unică din secolul al XIX-lea, construită în principal din tuburi de bambus, situată în Biserica Parohială Sfântul Iosif. Este recunoscută oficial ca tezaur cultural național.",
+      "facts": ["Construită în 1824", "1031 de tuburi de bambus", "Tezaur cultural național", "Situată în Las Piñas"]
+    },
+    {
+      "id": "ph-agusan-marsh-wildlife-sanctuary-nature-v2",
+      "description": "O vastă zonă umedă protejată în regiunea Caraga, esențială pentru controlul inundațiilor și biodiversitate. Găzduiește numeroase specii de păsări migratoare și faună acvatică.",
+      "facts": ["Aria protejată vastă", "Peste 200 de specii de păsări", "Biodiversitate unică", "Sistem fluvial complex"]
+    }
+  ]
+}

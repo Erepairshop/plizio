@@ -1,0 +1,92 @@
+{
+  "lang": "hu",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "seaworld-orlando-life-v2",
+      "description": "A floridai SeaWorld Orlando egy tengeri élővilágra fókuszáló témapark, amely bemutatókkal és izgalmas hullámvasutakkal várja a látogatókat. A park jelentős szerepet vállal a tengeri állatok mentésében és rehabilitációjában is.",
+      "facts": [
+        "1973-ban nyitotta meg kapuit",
+        "Számos tengeri emlősfajt bemutat",
+        "A világ egyik leglátogatottabb vízi témaparkja"
+      ]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "A Zion Nemzeti Park Utah állam délnyugati részén található, és lenyűgöző vörös homokkő kanyonjairól híres. A park meredek sziklafalai és szűk szurdokai túrázók millióit vonzzák minden évben.",
+      "facts": [
+        "A Zion Canyon 24 km hosszú és 800 méter mély",
+        "A Virgin-folyó alakította ki",
+        "Utah állam első nemzeti parkja"
+      ]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "A Great Smoky Mountains Nemzeti Park Tennessee és Észak-Karolina határán fekszik, és az Egyesült Államok leglátogatottabb nemzeti parkja. Nevét a hegycsúcsokat gyakran borító kékesszürke ködről kapta.",
+      "facts": [
+        "Az Appalache-hegység része",
+        "Több mint 800 mérföldnyi túraútvonallal rendelkezik",
+        "Az UNESCO világörökség és nemzetközi bioszféra-rezervátum"
+      ]
+    },
+    {
+      "id": "mount-rainier-nature-v2",
+      "description": "A Mount Rainier egy hatalmas rétegvulkán Washington államban, amely Seattle látképének meghatározó eleme. A hegycsúcsot az Egyesült Államok legkiterjedtebb gleccserrendszere borítja az Alaszkán kívüli területeken.",
+      "facts": [
+        "4392 méter magas",
+        "A Cascade-hegység legmagasabb pontja",
+        "Aktív vulkánként tartják számon"
+      ]
+    },
+    {
+      "id": "mauna-kea-nature-v2",
+      "description": "A Mauna Kea egy alvó vulkán Hawaii Nagy Szigetén, amely az óceán fenekétől mérve a világ legmagasabb hegye. A tiszta levegő és a fényszennyezés hiánya miatt a csúcsa a világ egyik legfontosabb csillagászati megfigyelőhelye.",
+      "facts": [
+        "Tengerszint feletti magassága 4207 méter",
+        "Az óceán fenekétől mérve több mint 10 000 méter magas",
+        "Számos nemzetközi obszervatórium működik a tetején"
+      ]
+    },
+    {
+      "id": "great-basin-relief-v2",
+      "description": "A Nagy-medence (Great Basin) egy kiterjedt, lefolyástalan terület Észak-Amerikában, amely főként Nevada államot, valamint a környező államok egy részét foglalja magában. A száraz, hegyvidéki régiót sivatagos medencék és párhuzamos hegyvonulatok jellemzik.",
+      "facts": [
+        "Az Egyesült Államok legnagyobb lefolyástalan medencéje",
+        "A területén található a Great Basin Nemzeti Park",
+        "Vizei nem érik el az óceánt"
+      ]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "description": "A Sierra Madre Occidental egy hosszú hegyvonulat Észak-Amerikában, amely főként Mexikó nyugati részén húzódik, de északi vége eléri az Egyesült Államok délnyugati határvidékét is. A terület mély kanyonjairól és gazdag biodiverzitásáról ismert.",
+      "facts": [
+        "Több mint 1500 km hosszan nyúlik el",
+        "Itt található a híres Réz-kanyon (Barrancas del Cobre)",
+        "Jelentős ezüstbányászati múlttal rendelkezik"
+      ]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "A Chisos-hegység a texasi Big Bend Nemzeti Park szívében található, és az egyetlen olyan hegyvonulat az Egyesült Államokban, amely teljes egészében egy nemzeti park határain belül fekszik. A sivatagi környezetből kiemelkedő hegyek gazdag növény- és állatvilágnak adnak otthont.",
+      "facts": [
+        "A legmagasabb pontja a 2385 méteres Emory Peak",
+        "Vulkanikus tevékenység hozta létre",
+        "Népszerű a hegymászók és madármegfigyelők körében"
+      ]
+    },
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "description": "A Sawtooth-hegység az amerikai Sziklás-hegység része, Idaho állam középső részén helyezkedik el. A nevét fűrészfogakhoz hasonló, éles gránitcsúcsairól kapta, amelyek lenyűgöző alpesi tavakat vesznek körül.",
+      "facts": [
+        "A legmagasabb csúcsa a 3280 méteres Thompson Peak",
+        "Több száz érintetlen alpesi tó található itt",
+        "A Sawtooth Nemzeti Rekreációs Terület része"
+      ]
+    }
+  ]
+}

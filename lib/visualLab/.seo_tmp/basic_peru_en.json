@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Peru",
+  "files": [
+    "lib/visualLab/data/poiExtraPeruEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPeruLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ind-cerroverde-economic-v2",
+      "description": "Cerro Verde is a major open-pit copper and molybdenum mining complex located near Arequipa. It is one of the largest mining operations in Peru, significantly contributing to the national economy.",
+      "facts": ["Open-pit mining operation", "Located near Arequipa", "Copper and molybdenum", "Key regional employer"]
+    },
+    {
+      "id": "ind-cajamarquilla-economic-v2",
+      "description": "The Cajamarquilla refinery, located near Lima, is a significant zinc smelting and refining facility in South America. It processes concentrates from various mines to produce high-purity zinc ingots.",
+      "facts": ["Zinc smelting facility", "Located near Lima", "High-purity zinc production", "Major industrial site"]
+    },
+    {
+      "id": "puente-de-los-suspiros-landmarks-v2",
+      "description": "The Bridge of Sighs is a historic wooden bridge located in the charming Barranco district of Lima. It is a well-known local landmark surrounded by traditional architecture and cultural history.",
+      "facts": ["Historic wooden bridge", "Located in Barranco, Lima", "Local cultural icon", "Popular pedestrian path"]
+    }
+  ]
+}

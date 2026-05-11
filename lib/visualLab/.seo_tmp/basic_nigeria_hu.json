@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ng-oyo-city-cities-v2",
+      "description": "Oyo egy történelmi jelentőségű város Délnyugat-Nigériában, az egykori Oyo Birodalom központja.",
+      "facts": ["Joruba kulturális központ", "Népessége több mint 300 ezer", "Fontos kereskedelmi csomópont"]
+    },
+    {
+      "id": "forcados-terminal-economic-v2",
+      "description": "A Forcados-terminál Nigéria egyik legfontosabb kőolaj-exportáló terminálja a Niger-deltában.",
+      "facts": ["Napi olajszállítási központ", "Kulcsfontosságú gazdasági létesítmény", "Niger-delta partvidéke"]
+    },
+    {
+      "id": "qua-iboe-terminal-economic-v2",
+      "description": "Fontos olajipari létesítmény Akwa Ibom államban, amely a nigériai kőolaj-exportban játszik szerepet.",
+      "facts": ["Akwa Ibom államban található", "Jelentős exportkapacitás", "Tengeri kőolaj kitermelés"]
+    },
+    {
+      "id": "okpella-cement-plant-economic-v2",
+      "description": "Az Okpella cementgyár Edo állam egyik legnagyobb ipari üzeme, amely az építőipart látja el.",
+      "facts": ["Edo állami ipari központ", "Építőanyag-gyártás", "Helyi nyersanyag feldolgozás"]
+    },
+    {
+      "id": "national-mosque-abuja-landmarks-v2",
+      "description": "Abuja egyik legfőbb vallási épülete, melynek jellegzetes aranykupolája a városkép meghatározó eleme.",
+      "facts": ["Épült: 1984", "Abuja központjában áll", "Jellegzetes aranykupolák"]
+    },
+    {
+      "id": "necom-house-lagos-landmarks-v2",
+      "description": "Lagos Marina negyedének ikonikus felhőkarcolója, amely sokáig Nigéria legmagasabb épülete volt.",
+      "facts": ["Magasság: 160 méter", "Lagos pénzügyi központ", "Modern építészeti jelkép"]
+    },
+    {
+      "id": "cocoa-house-ibadan-landmarks-v2",
+      "description": "Ibadan egyik híres toronyháza, amelyet a kakaókereskedelem bevételeiből finanszíroztak.",
+      "facts": ["Épült: 1965", "Az első felhőkarcoló Nigériában", "Kakaó alapú finanszírozás"]
+    },
+    {
+      "id": "jaekel-house-lagos-landmarks-v2",
+      "description": "Egy történelmi jelentőségű gyarmati stílusú épület Lagosban, amely ma múzeumként üzemel.",
+      "facts": ["Gyarmati kori építészet", "Vasúttörténeti emlék", "Lagos Ebute Metta negyed"]
+    },
+    {
+      "id": "ng-omo-reserve-life-v2",
+      "description": "Az Omo Erdőrezervátum egy kiterjedt trópusi esőerdő, amely gazdag élővilágnak ad otthont.",
+      "facts": ["Trópusi esőerdő terület", "Gazdag állatvilág", "Ogun állam része"]
+    },
+    {
+      "id": "obudu-plateau-mountain-nature-v2",
+      "description": "Egy festői hegyvidéki terület Cross River államban, amely hűvösebb klímájáról ismert.",
+      "facts": ["Hegyvidéki ökoszisztéma", "Magasan fekvő fennsík", "Turisztikai célpont"]
+    }
+  ]
+}

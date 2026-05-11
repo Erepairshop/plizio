@@ -1,0 +1,65 @@
+{
+  "lang": "ro",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "puerto-quepos-economic-v2",
+      "description": "Portul Quepos este un centru vital pentru turismul și pescuitul sportiv de pe coasta Pacificului. Acesta oferă infrastructură modernă pentru ambarcațiuni și este poarta principală de acces către Parcul Național Manuel Antonio.",
+      "facts": ["Situat în provincia Puntarenas", "Bază majoră pentru pescuit sportiv", "Acces direct la portul de agrement Pez Vela"]
+    },
+    {
+      "id": "terminal-punta-arenas-economic-v2",
+      "description": "Terminalul de feribot din Puntarenas este un punct strategic pentru transportul de pasageri și vehicule către Peninsula Nicoya. Acesta facilitează comerțul regional și mișcarea turistică între coasta centrală și cea nordică.",
+      "facts": ["Conectează Puntarenas cu Paquera și Playa Naranjo", "Terminal crucial pentru logistica regională", "Punct de plecare pentru croaziere locale"]
+    },
+    {
+      "id": "puerto-golfito-economic-v2",
+      "description": "Portul Golfito, situat în Golfo Dulce, este renumit pentru zona sa comercială fără taxe și importanța sa istorică în exportul de banane. Astăzi servește ca un hub important pentru aprovizionarea și turismul din sudul țării.",
+      "facts": ["Găzduiește Depozitul Liber Comercial", "Port protejat în apele adânci ale golfului", "Fost centru de operațiuni al United Fruit Company"]
+    },
+    {
+      "id": "zona-franca-el-coyol-economic-v2",
+      "description": "Zona Francă El Coyol este cel mai mare parc industrial dedicat dispozitivelor medicale din America Centrală. Aceasta găzduiește numeroase corporații multinaționale și este un pilon esențial al exporturilor de înaltă tehnologie din Costa Rica.",
+      "facts": ["Situată în Alajuela, lângă aeroportul SJO", "Specializată în industria științelor vieții", "Premiată pentru sustenabilitate și inovație"]
+    },
+    {
+      "id": "puerto-cocos-economic-v2",
+      "description": "Acest punct de acces maritim deservește comunitatea de coastă și activitățile recreative din zona Playa del Coco. Este un centru important pentru navigația de agrement, scufundări și transport local către Insula Cocos.",
+      "facts": ["Punct de plecare pentru expediții de scufundări", "Situat în Golful Papagayo", "Hub pentru turismul marin în Guanacaste"]
+    },
+    {
+      "id": "zona-franca-bes-economic-v2",
+      "description": "Zona Francă BES este un parc industrial modern care oferă facilități logistice și de producție pentru companii internaționale. Amplasarea sa strategică facilitează distribuția rapidă a mărfurilor către porturi și aeroporturi.",
+      "facts": ["Localizată în zona strategică El Coyol", "Infrastructură optimizată pentru logistică", "Centru de servicii și manufactură de export"]
+    },
+    {
+      "id": "puerto-cacao-economic-v2",
+      "description": "Puerto Cacao este o mică facilitate portuară situată în apropiere de Golfito, facilitând transportul local de mărfuri și pasageri. Zona păstrează o atmosferă tradițională și este legată de activitățile agricole din sudul Pacificului.",
+      "facts": ["Acces maritim către zone izolate din sud", "Legătură între Golfito și Playa Cacao", "Utilizat pentru logistica locală la scară mică"]
+    },
+    {
+      "id": "zona-franca-global-park-economic-v2",
+      "description": "Global Park este o zonă francă prestigioasă din Heredia, specializată în servicii corporative și tehnologie. Oferă un mediu de afaceri avansat pentru companii de tip Fortune 500 și centre de servicii partajate.",
+      "facts": ["Situată în inima zonei metropolitane", "Concentrare mare de centre de servicii tehnice", "Facilități moderne de clasă mondială"]
+    },
+    {
+      "id": "las-mercedes-church-history-v2",
+      "description": "Biserica Las Mercedes din Grecia este o structură arhitecturală unică, construită în întregime din plăci de oțel prefabricate. Importată din Belgia la sfârșitul secolului al XIX-lea, aceasta este un simbol al rezilienței în fața cutremurelor.",
+      "facts": ["Finalizată în anul 1897", "Stil arhitectural neogotic distinctiv", "Realizată din piese metalice importate"]
+    },
+    {
+      "id": "cabuyal-petroglyphs-history-v2",
+      "description": "Petroglifele de la Cabuyal sunt gravuri antice în piatră care oferă indicii prețioase despre culturile precolumbiene din Guanacaste. Aceste simboluri reflectă cosmogonia și viața de zi cu zi a primilor locuitori ai regiunii.",
+      "facts": ["Datate în perioada precolumbiană", "Localizate pe coasta Peninsulei Nicoya", "Reprezintă figuri umane și animale stilizate"]
+    },
+    {
+      "id": "san-vicente-de-moravia-church-history-v2",
+      "description": "Biserica San Vicente de Moravia este un punct de referință istoric și spiritual în nordul capitalei. Clădirea actuală păstrează elemente arhitecturale tradiționale și servește ca inimă a comunității din Moravia.",
+      "facts": ["Localizată în centrul cantonului Moravia", "Păstrează vitralii și picturi religioase vechi", "Arhitectură de inspirație colonială"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "en",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "al-magrun-cities-v2",
+      "description": "Al-Magrun is a small settlement located in the Benghazi district of Libya. It serves as a local agricultural and transport hub.",
+      "facts": ["Located in Benghazi district", "Agricultural settlement", "Regional transport hub"]
+    },
+    {
+      "id": "ly-gurgi-mosque-history-v2",
+      "description": "The Gurgi Mosque is a prominent historic structure in Tripoli, built in the 19th century. It is known for its intricate marble and tile work.",
+      "facts": ["Built in 1834", "Located in Tripoli", "Moorish architecture", "Named after Mustafa Gurgi"]
+    },
+    {
+      "id": "ly-karamanli-mosque-history-v2",
+      "description": "Built in the 18th century, the Karamanli Mosque is a center of religious life in Tripoli. It features elegant traditional Libyan design elements.",
+      "facts": ["Built in 1736", "Located in Tripoli", "Founded by Ahmad Karamanli", "Traditional Libyan style"]
+    },
+    {
+      "id": "corinthia-hotel-tripoli-landmarks-v2",
+      "description": "The Corinthia Hotel is a high-rise luxury hotel and landmark in Tripoli. It is one of the most recognizable structures in the city skyline.",
+      "facts": ["Opened in 2003", "Located in downtown Tripoli", "Luxury accommodation", "Prominent city landmark"]
+    },
+    {
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "description": "Formerly a cathedral, this mosque in Benghazi was converted for religious use. It is a central landmark in the city's urban landscape.",
+      "facts": ["Located in Benghazi", "Converted from cathedral", "Central urban landmark"]
+    },
+    {
+      "id": "tripoli-stadium-landmarks-v2",
+      "description": "The Tripoli Stadium is a multi-purpose sports venue in the capital city. It hosts national football matches and major events.",
+      "facts": ["Located in Tripoli", "Multi-purpose arena", "National sports hub"]
+    },
+    {
+      "id": "tibesti-hotel-benghazi-landmarks-v2",
+      "description": "The Tibesti Hotel is a well-known architectural structure in Benghazi. It provides a central meeting point and accommodation in the city.",
+      "facts": ["Located in Benghazi", "Central hotel facility", "City landmark"]
+    },
+    {
+      "id": "zawiya-grand-mosque-landmarks-v2",
+      "description": "The Grand Mosque in Zawiya serves as the primary place of worship for the local community. It is a significant architectural feature of the city.",
+      "facts": ["Located in Zawiya", "Primary worship site", "Architectural landmark"]
+    },
+    {
+      "id": "ras-lanuf-refinery-landmarks-v2",
+      "description": "The Ras Lanuf Refinery is a critical industrial facility on the Mediterranean coast. It plays a central role in Libya's energy infrastructure.",
+      "facts": ["Located on the coast", "Major oil refinery", "Key energy infrastructure"]
+    },
+    {
+      "id": "al-majidiya-mosque-tripoli-landmarks-v2",
+      "description": "This historic mosque in Tripoli is known for its classical design and location in the Old City. It attracts visitors interested in traditional architecture.",
+      "facts": ["Located in Tripoli Old City", "Classical design", "Historic place of worship"]
+    }
+  ]
+}

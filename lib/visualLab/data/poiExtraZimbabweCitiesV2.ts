@@ -9,16 +9,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.053, -17.8216],
     name: { de: "Harare", hu: "Harare", ro: "Harare", en: "Harare" },
     description: {
-      "de": "Harare ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Harare ist die pulsierende Hauptstadt Simbabwes und ein wichtiges wirtschaftliches Zentrum des Landes.",
       "hu": "Harare egy jelentős város Zimbabwében.",
       "ro": "Harare este un oraș important din Zimbabwe.",
-      "en": "Harare is an important city in Zimbabwe."
+      "en": "The capital and largest city of Zimbabwe, serving as the nation's political and financial center."
     },
     facts: {
-      "de": [
-      "Harare trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Harare zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Hauptstadt von Simbabwe", "Liegt auf ca. 1.480 m Höhe", "Gegründet im Jahr 1890", "Wichtigstes Handelszentrum"],
       "hu": [
       "Harare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Harare körüli régió sokszínűségéről ismert."
@@ -27,10 +24,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Harare contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Harare se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Harare contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Harare is characterized by its diversity."
-      ]
+      "en": ["Population over 2 million", "Located on the highveld", "Established in 1890", "Primary gateway city"]
     },
     descriptionAdvanced: {
       de: "Harare ist die pulsierende Hauptstadt von Simbabwe und ein bedeutendes Wirtschaftszentrum im südlichen Afrika. Gegründet im Jahr 1890 als Fort Salisbury, hat sich die Stadt zu einer modernen Metropole mit über 1,5 Millionen Einwohnern entwickelt. Harare dient als politisches Herz und Bildungszentrum des Landes, wobei Einrichtungen wie das Harare Institute of Technology eine wichtige Rolle spielen. Erdkunde K7 – urbane Räume und wirtschaftliche Knotenpunkte.",
@@ -51,16 +45,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.5833, -20.15],
     name: { de: "Bulawayo", hu: "Bulawayo", ro: "Bulawayo", en: "Bulawayo" },
     description: {
-      "de": "Bulawayo ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt für ihre breiten Alleen.",
       "hu": "Bulawayo egy jelentős város Zimbabwében.",
       "ro": "Bulawayo este un oraș important din Zimbabwe.",
-      "en": "Bulawayo is an important city in Zimbabwe."
+      "en": "Zimbabwe's second-largest city, known for its industrial heritage and wide, grid-pattern streets."
     },
     facts: {
-      "de": [
-      "Bulawayo trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Bulawayo zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Zweitgrößte Stadt", "Wichtiges Industriezentrum", "Kulturelles Herz", "Bekannt für Architektur"],
       "hu": [
       "Bulawayo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Bulawayo körüli régió sokszínűségéről ismert."
@@ -69,10 +60,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Bulawayo contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Bulawayo se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Bulawayo contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Bulawayo is characterized by its diversity."
-      ]
+      "en": ["Founded in 1894", "Industrial hub", "Near Matobo National Park", "Rich railway history"]
     },
     descriptionAdvanced: {
       de: "Bulawayo ist die zweitgrößte Stadt Simbabwes und bekannt als die 'Stadt der Könige'. Mit ihrer reichen Geschichte als ehemalige Hauptstadt des Ndebele-Königreichs unter Lobengula bewahrt sie eine einzigartige kulturelle Identität im Südwesten des Landes. Die breiten Straßen, die ursprünglich für Ochsenkarren ausgelegt waren, prägen den architektonischen Charakter der Stadt. Erdkunde K7 – historische Zentren und infrastrukturelle Erben.",
@@ -93,16 +81,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.0756, -18.0127],
     name: { de: "Chitungwiza", hu: "Chitungwiza", ro: "Chitungwiza", en: "Chitungwiza" },
     description: {
-      "de": "Chitungwiza ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chitungwiza ist eine schnell wachsende Satellitenstadt in der Nähe der Hauptstadt Harare.",
       "hu": "Chitungwiza egy jelentős város Zimbabwében.",
       "ro": "Chitungwiza este un oraș important din Zimbabwe.",
-      "en": "Chitungwiza is an important city in Zimbabwe."
+      "en": "A major dormitory town located near Harare, known for its rapid population growth."
     },
     facts: {
-      "de": [
-      "Chitungwiza trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chitungwiza zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Große Satellitenstadt", "Nahe Harare gelegen", "Wichtiges Wohngebiet", "Starkes Bevölkerungswachstum"],
       "hu": [
       "Chitungwiza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chitungwiza körüli régió sokszínűségéről ismert."
@@ -111,10 +96,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chitungwiza contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chitungwiza se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chitungwiza contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chitungwiza is characterized by its diversity."
-      ]
+      "en": ["Population center", "Near Harare", "Rapidly expanded since 1970", "Residential hub"]
     }, image: "/poi-images/chitungwiza-cities-v2.webp",
     descriptionAdvanced: {
       de: "Chitungwiza ist eine schnell wachsende Satellitenstadt südlich von Harare mit einer Bevölkerung von über 350.000 Menschen. Sie entstand in den 1970er Jahren und entwickelte sich zu einem bedeutenden Wohngebiet für Pendler, die in der Hauptstadt arbeiten. Die Stadt ist bekannt für ihre lebendige Gemeinschaft und eine wachsende lokale Wirtschaft. Erdkunde K7 – Stadtentwicklung und demografischer Wandel.",
@@ -136,16 +118,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.6695, -18.9743],
     name: { de: "Mutare", hu: "Mutare", ro: "Mutare", en: "Mutare" },
     description: {
-      "de": "Mutare ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mutare liegt wunderschön eingebettet in den östlichen Bergen Simbabwes.",
       "hu": "Mutare egy jelentős város Zimbabwében.",
       "ro": "Mutare este un oraș important din Zimbabwe.",
-      "en": "Mutare is an important city in Zimbabwe."
+      "en": "A scenic city located in the eastern highlands near the border with Mozambique."
     },
     facts: {
-      "de": [
-      "Mutare trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mutare zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Stadt der Ostberge", "Nahe Grenze Mosambik", "Hauptstadt Manicaland", "Verkehrsknotenpunkt"],
       "hu": [
       "Mutare hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mutare körüli régió sokszínűségéről ismert."
@@ -154,10 +133,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mutare contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mutare se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mutare contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mutare is characterized by its diversity."
-      ]
+      "en": ["Gateway to Eastern Highlands", "Gateway to Mozambique", "Founded in 1897", "Mountainous surroundings"]
     }, image: "/poi-images/mutare-cities-v2.webp",
     descriptionAdvanced: {
       de: "Mutare ist die viertgrößte Stadt Simbabwes und liegt malerisch inmitten der Eastern Highlands nahe der Grenze zu Mosambik. Als wichtiger Handelsknotenpunkt profitiert die Stadt von ihrer günstigen Lage an der Route zum Hafen von Beira. Die umliegende Berglandschaft bietet atemberaubende Ausblicke und zahlreiche Möglichkeiten für Naturbeobachtungen. Erdkunde K7 – Transitrouten und Gebirgsregionen.",
@@ -179,16 +155,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.8153, -19.45],
     name: { de: "Gweru", hu: "Gweru", ro: "Gweru", en: "Gweru" },
     description: {
-      "de": "Gweru ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Gweru ist ein bedeutender Handelsknotenpunkt im Zentrum Simbabwes.",
       "hu": "Gweru egy jelentős város Zimbabwében.",
       "ro": "Gweru este un oraș important din Zimbabwe.",
-      "en": "Gweru is an important city in Zimbabwe."
+      "en": "An important commercial and educational center situated in the heart of the country."
     },
     facts: {
-      "de": [
-      "Gweru trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Gweru zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Zentrale Lage", "Wichtiger Handelsstandort", "Provinzhauptstadt Midlands", "Sitz der Universität"],
       "hu": [
       "Gweru hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Gweru körüli régió sokszínűségéről ismert."
@@ -197,10 +170,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Gweru contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Gweru se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Gweru contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Gweru is characterized by its diversity."
-      ]
+      "en": ["Midlands capital", "Founded in 1894", "Railway junction", "Agricultural hub"]
     }, image: "/poi-images/gweru-cities-v2.webp",
     descriptionAdvanced: {
       de: "Gweru ist eine zentrale Industriestadt in Simbabwe und liegt strategisch günstig in der Provinz Midlands. Mit einer gut entwickelten Infrastruktur fungiert Gweru als wichtiges logistisches Drehkreuz für den nationalen Eisenbahn- und Straßenverkehr. Die Stadt ist zudem ein bedeutender Standort für die Metallverarbeitung und die Milchwirtschaft. Erdkunde K7 – industrielle Kerne und Infrastruktur.",
@@ -222,16 +192,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.8142, -18.9281],
     name: { de: "Kwekwe", hu: "Kwekwe", ro: "Kwekwe", en: "Kwekwe" },
     description: {
-      "de": "Kwekwe ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Kwekwe ist eine Stadt mit starker historischer Verbindung zur Bergbauindustrie.",
       "hu": "Kwekwe egy jelentős város Zimbabwében.",
       "ro": "Kwekwe este un oraș important din Zimbabwe.",
-      "en": "Kwekwe is an important city in Zimbabwe."
+      "en": "A significant mining and industrial town famous for its gold production history."
     },
     facts: {
-      "de": [
-      "Kwekwe trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Kwekwe zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Bergbaustadt", "Zentrum Stahlindustrie", "Mittlere Größe", "Günstige Verkehrslage"],
       "hu": [
       "Kwekwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Kwekwe körüli régió sokszínűségéről ismert."
@@ -240,10 +207,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Kwekwe contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Kwekwe se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Kwekwe contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Kwekwe is characterized by its diversity."
-      ]
+      "en": ["Gold mining legacy", "Midlands region", "Founded in 1899", "Industrial center"]
     }, image: "/poi-images/kwekwe-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kwekwe ist eine wichtige Bergbaustadt in der Provinz Midlands, die vor allem für ihre bedeutende Goldproduktion bekannt ist. Die Stadt entwickelte sich durch den Goldrausch und den Abbau von Erzen zu einem industriellen Schwergewicht der Region. Auch heute prägen der Bergbau und die Stahlproduktion maßgeblich das wirtschaftliche Gesicht von Kwekwe. Erdkunde K7 – Rohstoffabbau und wirtschaftliche Entwicklung.",
@@ -265,16 +229,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.9153, -18.3333],
     name: { de: "Kadoma", hu: "Kadoma", ro: "Kadoma", en: "Kadoma" },
     description: {
-      "de": "Kadoma ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Kadoma ist eine Stadt, die durch Goldminen und Textilindustrie geprägt wurde.",
       "hu": "Kadoma egy jelentős város Zimbabwében.",
       "ro": "Kadoma este un oraș important din Zimbabwe.",
-      "en": "Kadoma is an important city in Zimbabwe."
+      "en": "A town known historically for its gold mining operations and cotton industry."
     },
     facts: {
-      "de": [
-      "Kadoma trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Kadoma zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Stadt der Goldminen", "Traditionelle Textilindustrie", "Standort Mashonaland West", "Wachsendes Zentrum"],
       "hu": [
       "Kadoma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Kadoma körüli régió sokszínűségéről ismert."
@@ -283,10 +244,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Kadoma contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Kadoma se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Kadoma contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Kadoma is characterized by its diversity."
-      ]
+      "en": ["Mining center", "Cotton industry", "Founded in 1901", "Midlands location"]
     }, image: "/poi-images/kadoma-cities-v2.webp",
     descriptionAdvanced: {
       de: "Kadoma ist eine Stadt in der Provinz Mashonaland West, die historisch eng mit dem Goldabbau und der Baumwollverarbeitung verbunden ist. Einst ein wohlhabendes Zentrum der Landwirtschaft, hat sich die Stadt zu einem wichtigen Verarbeitungsstandort für landwirtschaftliche Erzeugnisse entwickelt. Die Umgebung ist durch ausgedehnte landwirtschaftliche Flächen geprägt. Erdkunde K7 – Agrarwirtschaft und industrielle Verarbeitung.",
@@ -308,16 +266,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.8278, -20.0744],
     name: { de: "Masvingo", hu: "Masvingo", ro: "Masvingo", en: "Masvingo" },
     description: {
-      "de": "Masvingo ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Masvingo ist das Tor zu den weltberühmten Ruinen von Great Zimbabwe.",
       "hu": "Masvingo egy jelentős város Zimbabwében.",
       "ro": "Masvingo este un oraș important din Zimbabwe.",
-      "en": "Masvingo is an important city in Zimbabwe."
+      "en": "A historic town that serves as the gateway to the ancient Great Zimbabwe ruins."
     },
     facts: {
-      "de": [
-      "Masvingo trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Masvingo zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Tor zu Great Zimbabwe", "Historisches Zentrum", "Tourismus-Knotenpunkt", "Provinzhauptstadt"],
       "hu": [
       "Masvingo hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Masvingo körüli régió sokszínűségéről ismert."
@@ -326,10 +281,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Masvingo contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Masvingo se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Masvingo contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Masvingo is characterized by its diversity."
-      ]
+      "en": ["Gateway to Great Zimbabwe", "Oldest colonial town", "Founded in 1890", "Provincial center"]
     }, image: "/poi-images/masvingo-cities-v2.webp",
     descriptionAdvanced: {
       de: "Masvingo ist die älteste Stadt Simbabwes und ein wichtiges Tor zu den berühmten Great Zimbabwe Ruinen, einem UNESCO-Weltkulturerbe. Die Stadt dient als Ausgangspunkt für Touristen, die die historischen Überreste des mittelalterlichen Groß-Simbabwe erkunden wollen. Die lokale Wirtschaft ist stark von Tourismus und der angrenzenden Landwirtschaft geprägt. Erdkunde K7 – historisches Kulturerbe und Tourismus.",
@@ -351,16 +303,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.1472, -17.3667],
     name: { de: "Chinhoyi", hu: "Chinhoyi", ro: "Chinhoyi", en: "Chinhoyi" },
     description: {
-      "de": "Chinhoyi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chinhoyi ist bekannt für die in der Nähe gelegenen Chinhoyi-Höhlen.",
       "hu": "Chinhoyi egy jelentős város Zimbabwében.",
       "ro": "Chinhoyi este un oraș important din Zimbabwe.",
-      "en": "Chinhoyi is an important city in Zimbabwe."
+      "en": "The administrative center of Mashonaland West, famous for its nearby limestone caves."
     },
     facts: {
-      "de": [
-      "Chinhoyi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chinhoyi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Nahe Chinhoyi-Höhlen", "Verwaltungszentrum", "Agrarregion", "Stadt im Nordwesten"],
       "hu": [
       "Chinhoyi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chinhoyi körüli régió sokszínűségéről ismert."
@@ -369,10 +318,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chinhoyi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chinhoyi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chinhoyi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chinhoyi is characterized by its diversity."
-      ]
+      "en": ["Gateway to Chinhoyi Caves", "Provincial capital", "Agricultural hub", "Founded in 1906"]
     }, image: "/poi-images/chinhoyi-cities-v2.webp",
     descriptionAdvanced: {
       de: "Chinhoyi ist das Verwaltungszentrum der Provinz Mashonaland West und liegt strategisch an einer der wichtigsten Verkehrsverbindungen in Richtung Sambia. Die Stadt ist weltbekannt für die Chinhoyi-Höhlen, ein faszinierendes Karstsystem mit einem tiefblauen Unterwassersee. Diese Naturattraktion zieht zahlreiche Touristen und Forscher an. Erdkunde K7 – geologische Phänomene und Tourismus.",
@@ -394,16 +340,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.7, -17.8833],
     name: { de: "Norton", hu: "Norton", ro: "Norton", en: "Norton" },
     description: {
-      "de": "Norton ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Norton ist eine aufstrebende Stadt westlich von Harare.",
       "hu": "Norton egy jelentős város Zimbabwében.",
       "ro": "Norton este un oraș important din Zimbabwe.",
-      "en": "Norton is an important city in Zimbabwe."
+      "en": "A rapidly growing town serving as a residential and commercial center near Harare."
     },
     facts: {
-      "de": [
-      "Norton trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Norton zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Westlich von Harare", "Wachsende Wohnstadt", "Industrielle Bedeutung", "Gute Verkehrsanbindung"],
       "hu": [
       "Norton hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Norton körüli régió sokszínűségéről ismert."
@@ -412,10 +355,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Norton contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Norton se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Norton contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Norton is characterized by its diversity."
-      ]
+      "en": ["Near Harare", "Expanding industry", "Transit location", "Growing population"]
     }, image: "/poi-images/norton-cities-v2.webp",
     descriptionAdvanced: {
       de: "Norton ist eine aufstrebende Stadt westlich von Harare, die sich durch ihre industrielle Vielfalt und als Wohnstandort für Pendler etabliert hat. Die Nähe zur Hauptstadt ermöglicht eine enge wirtschaftliche Verflechtung, während die Stadt selbst durch eine wachsende lokale Produktion geprägt ist. Die Umgebung ist zudem ein bedeutendes landwirtschaftliches Anbaugebiet. Erdkunde K7 – industrielle Randgebiete und urbane Verflechtung.",
@@ -437,16 +377,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.5519, -18.1853],
     name: { de: "Marondera", hu: "Marondera", ro: "Marondera", en: "Marondera" },
     description: {
-      "de": "Marondera ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Marondera ist ein landwirtschaftliches Zentrum im östlichen Hochland.",
       "hu": "Marondera egy jelentős város Zimbabwében.",
       "ro": "Marondera este un oraș important din Zimbabwe.",
-      "en": "Marondera is an important city in Zimbabwe."
+      "en": "An agricultural trade center located in a productive farming district in Mashonaland East."
     },
     facts: {
-      "de": [
-      "Marondera trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Marondera zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarzentrum", "Hochlandlage", "Provinzhauptstadt", "Wichtiges Handelszentrum"],
       "hu": [
       "Marondera hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Marondera körüli régió sokszínűségéről ismert."
@@ -455,10 +392,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Marondera contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Marondera se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Marondera contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Marondera is characterized by its diversity."
-      ]
+      "en": ["Agricultural center", "Provincial capital", "Timber and tobacco", "Founded in 1890"]
     }, image: "/poi-images/marondera-cities-v2.webp"},
   {
     id: "ruwa-cities-v2",
@@ -467,16 +401,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.2447, -17.8897],
     name: { de: "Ruwa", hu: "Ruwa", ro: "Ruwa", en: "Ruwa" },
     description: {
-      "de": "Ruwa ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Ruwa ist eine schnell wachsende Vorstadt von Harare.",
       "hu": "Ruwa egy jelentős város Zimbabwében.",
       "ro": "Ruwa este un oraș important din Zimbabwe.",
-      "en": "Ruwa is an important city in Zimbabwe."
+      "en": "A thriving commuter town on the eastern outskirts of Harare."
     },
     facts: {
-      "de": [
-      "Ruwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Ruwa zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Vorort von Harare", "Starkes Bevölkerungswachstum", "Siedlungsgebiet", "Gute infrastrukturelle Lage"],
       "hu": [
       "Ruwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Ruwa körüli régió sokszínűségéről ismert."
@@ -485,10 +416,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Ruwa contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Ruwa se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Ruwa contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Ruwa is characterized by its diversity."
-      ]
+      "en": ["Harare satellite", "Residential growth", "Commercial expansion", "Infrastructure hub"]
     }, image: "/poi-images/ruwa-cities-v2.webp"},
   {
     id: "chegutu-cities-v2",
@@ -497,16 +425,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.1492, -18.1303],
     name: { de: "Chegutu", hu: "Chegutu", ro: "Chegutu", en: "Chegutu" },
     description: {
-      "de": "Chegutu ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chegutu ist ein kleines städtisches Zentrum in einer produktiven landwirtschaftlichen Region.",
       "hu": "Chegutu egy jelentős város Zimbabwében.",
       "ro": "Chegutu este un oraș important din Zimbabwe.",
-      "en": "Chegutu is an important city in Zimbabwe."
+      "en": "A town established as a gold mining camp that evolved into an agricultural center."
     },
     facts: {
-      "de": [
-      "Chegutu trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chegutu zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Kleinere Stadt", "Handelsort", "Zentral gelegen"],
       "hu": [
       "Chegutu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chegutu körüli régió sokszínűségéről ismert."
@@ -515,10 +440,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chegutu contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chegutu se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chegutu contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chegutu is characterized by its diversity."
-      ]
+      "en": ["Gold mining origins", "Agriculture-focused", "Midlands corridor", "Historic settlement"]
     }, image: "/poi-images/chegutu-cities-v2.webp"},
   {
     id: "zvishavane-cities-v2",
@@ -527,16 +449,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.0665, -20.3267],
     name: { de: "Zvishavane", hu: "Zvishavane", ro: "Zvishavane", en: "Zvishavane" },
     description: {
-      "de": "Zvishavane ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Zvishavane ist eine Stadt, die durch Bergbauaktivitäten bekannt wurde.",
       "hu": "Zvishavane egy jelentős város Zimbabwében.",
       "ro": "Zvishavane este un oraș important din Zimbabwe.",
-      "en": "Zvishavane is an important city in Zimbabwe."
+      "en": "A mining town in the Midlands, historically known for its asbestos production."
     },
     facts: {
-      "de": [
-      "Zvishavane trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Zvishavane zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Bergbaugeschichte", "Asbestproduktion", "Zentrum Midlands", "Wachsende Gemeinde"],
       "hu": [
       "Zvishavane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Zvishavane körüli régió sokszínűségéről ismert."
@@ -545,10 +464,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Zvishavane contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Zvishavane se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Zvishavane contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Zvishavane is characterized by its diversity."
-      ]
+      "en": ["Asbestos mining legacy", "Midlands location", "Education hub", "Mining center"]
     }, image: "/poi-images/zvishavane-cities-v2.webp"},
   {
     id: "bindura-cities-v2",
@@ -557,16 +473,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.3306, -17.3019],
     name: { de: "Bindura", hu: "Bindura", ro: "Bindura", en: "Bindura" },
     description: {
-      "de": "Bindura ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Bindura ist die Hauptstadt der Provinz Mashonaland Central.",
       "hu": "Bindura egy jelentős város Zimbabwében.",
       "ro": "Bindura este un oraș important din Zimbabwe.",
-      "en": "Bindura is an important city in Zimbabwe."
+      "en": "The administrative center of Mashonaland Central, known for its gold and nickel mines."
     },
     facts: {
-      "de": [
-      "Bindura trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Bindura zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Hauptstadt Mashonaland Central", "Bergbauzentrum", "Handelsort", "Regionale Verwaltung"],
       "hu": [
       "Bindura hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Bindura körüli régió sokszínűségéről ismert."
@@ -575,10 +488,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Bindura contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Bindura se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Bindura contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Bindura is characterized by its diversity."
-      ]
+      "en": ["Provincial capital", "Mining hub", "Founded in 1901", "Agricultural region"]
     },
   },
   {
@@ -588,16 +498,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.9875, -22.2167],
     name: { de: "Beitbridge", hu: "Beitbridge", ro: "Beitbridge", en: "Beitbridge" },
     description: {
-      "de": "Beitbridge ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Beitbridge ist der wichtigste Grenzort zwischen Simbabwe und Südafrika.",
       "hu": "Beitbridge egy jelentős város Zimbabwében.",
       "ro": "Beitbridge este un oraș important din Zimbabwe.",
-      "en": "Beitbridge is an important city in Zimbabwe."
+      "en": "A vital border town connecting Zimbabwe to South Africa via the Limpopo River bridge."
     },
     facts: {
-      "de": [
-      "Beitbridge trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Beitbridge zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Grenzstadt", "An südafrikanischer Grenze", "Wichtigster Transitpunkt", "Hohes Verkehrsaufkommen"],
       "hu": [
       "Beitbridge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Beitbridge körüli régió sokszínűségéről ismert."
@@ -606,10 +513,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Beitbridge contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Beitbridge se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Beitbridge contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Beitbridge is characterized by its diversity."
-      ]
+      "en": ["Border city", "Limpopo River", "Major trade route", "Strategic location"]
     }, image: "/poi-images/beitbridge-cities-v2.webp"},
   {
     id: "redcliff-cities-v2",
@@ -618,16 +522,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.7833, -19.0333],
     name: { de: "Redcliff", hu: "Redcliff", ro: "Redcliff", en: "Redcliff" },
     description: {
-      "de": "Redcliff ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Redcliff ist eng mit der Stahlindustrie verbunden.",
       "hu": "Redcliff egy jelentős város Zimbabwében.",
       "ro": "Redcliff este un oraș important din Zimbabwe.",
-      "en": "Redcliff is an important city in Zimbabwe."
+      "en": "A specialized town known for its heavy steel and iron industry."
     },
     facts: {
-      "de": [
-      "Redcliff trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Redcliff zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Stahlindustriestadt", "Nahe Kwekwe", "Spezialisierter Standort", "Industrielle Geschichte"],
       "hu": [
       "Redcliff hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Redcliff körüli régió sokszínűségéről ismert."
@@ -636,10 +537,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Redcliff contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Redcliff se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Redcliff contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Redcliff is characterized by its diversity."
-      ]
+      "en": ["Steel production site", "Iron industry", "Industrial town", "Near Kwekwe"]
     }, image: "/poi-images/redcliff-cities-v2.webp"},
   {
     id: "victoria-falls-cities-v2",
@@ -648,16 +546,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [25.8333, -17.9333],
     name: { de: "Victoria Falls", hu: "Victoria Falls", ro: "Victoria Falls", en: "Victoria Falls" },
     description: {
-      "de": "Victoria Falls ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Victoria Falls ist das Tor zu den gleichnamigen Wasserfällen.",
       "hu": "Victoria Falls egy jelentős város Zimbabwében.",
       "ro": "Victoria Falls este un oraș important din Zimbabwe.",
-      "en": "Victoria Falls is an important city in Zimbabwe."
+      "en": "A major tourism hub located next to the world-famous waterfall on the Zambezi River."
     },
     facts: {
-      "de": [
-      "Victoria Falls trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Victoria Falls zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Zentrum am Wasserfall", "Großes Tourismuszentrum", "An sambischer Grenze", "Internationale Bedeutung"],
       "hu": [
       "Victoria Falls hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Victoria Falls körüli régió sokszínűségéről ismert."
@@ -666,10 +561,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Victoria Falls contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Victoria Falls se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Victoria Falls contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Victoria Falls is characterized by its diversity."
-      ]
+      "en": ["Tourist hub", "Zambezi River", "World Heritage proximity", "Gateway to national park"]
     }, image: "/poi-images/victoria-falls-cities-v2.webp"},
   {
     id: "hwange-cities-v2",
@@ -678,16 +570,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [26.5, -18.3667],
     name: { de: "Hwange", hu: "Hwange", ro: "Hwange", en: "Hwange" },
     description: {
-      "de": "Hwange ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Hwange ist für seine ausgedehnten Kohleminen und den Nationalpark bekannt.",
       "hu": "Hwange egy jelentős város Zimbabwében.",
       "ro": "Hwange este un oraș important din Zimbabwe.",
-      "en": "Hwange is an important city in Zimbabwe."
+      "en": "A town built around large-scale coal mining and adjacent to the largest national park in Zimbabwe."
     },
     facts: {
-      "de": [
-      "Hwange trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Hwange zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Kohlebergbauzentrum", "Nahe Hwange-Nationalpark", "Industrielle Bedeutung", "Stadt im Westen"],
       "hu": [
       "Hwange hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Hwange körüli régió sokszínűségéről ismert."
@@ -696,10 +585,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Hwange contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Hwange se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Hwange contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Hwange is characterized by its diversity."
-      ]
+      "en": ["Coal mining center", "Near Hwange Nat. Park", "Industrial hub", "Gateway to wildlife"]
     }, image: "/poi-images/hwange-cities-v2.webp"},
   {
     id: "rusape-cities-v2",
@@ -708,16 +594,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.1284, -18.5278],
     name: { de: "Rusape", hu: "Rusape", ro: "Rusape", en: "Rusape" },
     description: {
-      "de": "Rusape ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Rusape ist ein wichtiger Zwischenstopp zwischen Harare und Mutare.",
       "hu": "Rusape egy jelentős város Zimbabwében.",
       "ro": "Rusape este un oraș important din Zimbabwe.",
-      "en": "Rusape is an important city in Zimbabwe."
+      "en": "An agricultural service center in the Manicaland province."
     },
     facts: {
-      "de": [
-      "Rusape trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Rusape zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Wichtiger Handelsort", "Zwischen Harare/Mutare", "Agrarregion", "Gute Verkehrslage"],
       "hu": [
       "Rusape hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Rusape körüli régió sokszínűségéről ismert."
@@ -726,10 +609,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Rusape contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Rusape se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Rusape contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Rusape is characterized by its diversity."
-      ]
+      "en": ["Manicaland district", "Farm service hub", "Mid-way location", "Agricultural trade"]
     }, image: "/poi-images/rusape-cities-v2.webp"},
   {
     id: "chiredzi-cities-v2",
@@ -738,16 +618,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.6667, -21.05],
     name: { de: "Chiredzi", hu: "Chiredzi", ro: "Chiredzi", en: "Chiredzi" },
     description: {
-      "de": "Chiredzi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chiredzi ist das Zentrum des Zuckerrohranbaus in der Region Lowveld.",
       "hu": "Chiredzi egy jelentős város Zimbabwében.",
       "ro": "Chiredzi este un oraș important din Zimbabwe.",
-      "en": "Chiredzi is an important city in Zimbabwe."
+      "en": "A major center for the sugar cane industry in the southeastern lowveld."
     },
     facts: {
-      "de": [
-      "Chiredzi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chiredzi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Zuckerrohrzentrum", "Lage im Lowveld", "Agrarwirtschaft", "Regionales Zentrum"],
       "hu": [
       "Chiredzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chiredzi körüli régió sokszínűségéről ismert."
@@ -756,10 +633,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chiredzi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chiredzi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chiredzi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chiredzi is characterized by its diversity."
-      ]
+      "en": ["Sugar cane industry", "Lowveld hub", "Irrigation-based economy", "Agricultural zone"]
     }, image: "/poi-images/chiredzi-cities-v2.webp"},
   {
     id: "kariba-cities-v2",
@@ -768,16 +642,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.8, -16.5167],
     name: { de: "Kariba", hu: "Kariba", ro: "Kariba", en: "Kariba" },
     description: {
-      "de": "Kariba ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Kariba ist die Heimat des großen Stausees und für Fischerei bekannt.",
       "hu": "Kariba egy jelentős város Zimbabwében.",
       "ro": "Kariba este un oraș important din Zimbabwe.",
-      "en": "Kariba is an important city in Zimbabwe."
+      "en": "A resort and hydroelectric town situated on the shores of Lake Kariba."
     },
     facts: {
-      "de": [
-      "Kariba trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Kariba zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Am Kariba-Stausee", "Tourismus-Hotspot", "Wichtig für Fischerei", "Wasserkraft-Bedeutung"],
       "hu": [
       "Kariba hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Kariba körüli régió sokszínűségéről ismert."
@@ -786,10 +657,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Kariba contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Kariba se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Kariba contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Kariba is characterized by its diversity."
-      ]
+      "en": ["Kariba Dam site", "Hydroelectric hub", "Tourism location", "Zambezi river area"]
     }, image: "/poi-images/kariba-cities-v2.webp"},
   {
     id: "karoi-cities-v2",
@@ -798,16 +666,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.6925, -16.8099],
     name: { de: "Karoi", hu: "Karoi", ro: "Karoi", en: "Karoi" },
     description: {
-      "de": "Karoi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Karoi ist ein landwirtschaftlich geprägter Handelsort im Nordwesten.",
       "hu": "Karoi egy jelentős város Zimbabwében.",
       "ro": "Karoi este un oraș important din Zimbabwe.",
-      "en": "Karoi is an important city in Zimbabwe."
+      "en": "A productive town in the Mashonaland West province known for its tobacco farming."
     },
     facts: {
-      "de": [
-      "Karoi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Karoi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarhandelsort", "Zentral im Nordwesten", "Handelszentrum", "Günstige Lage"],
       "hu": [
       "Karoi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Karoi körüli régió sokszínűségéről ismert."
@@ -816,10 +681,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Karoi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Karoi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Karoi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Karoi is characterized by its diversity."
-      ]
+      "en": ["Tobacco farming hub", "Agricultural area", "Transit center", "Regional trade"]
     },
   },
   {
@@ -829,16 +691,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.6236, -20.1883],
     name: { de: "Chipinge", hu: "Chipinge", ro: "Chipinge", en: "Chipinge" },
     description: {
-      "de": "Chipinge ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chipinge ist bekannt für Tee- und Kaffeeplantagen.",
       "hu": "Chipinge egy jelentős város Zimbabwében.",
       "ro": "Chipinge este un oraș important din Zimbabwe.",
-      "en": "Chipinge is an important city in Zimbabwe."
+      "en": "A town in the eastern highlands known for tea and coffee plantations."
     },
     facts: {
-      "de": [
-      "Chipinge trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chipinge zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Tee- und Kaffeeregion", "Bergiges Gebiet", "Agrarzentrum", "Grüne Umgebung"],
       "hu": [
       "Chipinge hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chipinge körüli régió sokszínűségéről ismert."
@@ -847,10 +706,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chipinge contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chipinge se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chipinge contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chipinge is characterized by its diversity."
-      ]
+      "en": ["Tea and coffee region", "Eastern Highlands", "Agricultural center", "High rainfall area"]
     },
   },
   {
@@ -860,16 +716,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.9349, -18.2048],
     name: { de: "Gokwe", hu: "Gokwe", ro: "Gokwe", en: "Gokwe" },
     description: {
-      "de": "Gokwe ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Gokwe ist ein Handelszentrum in der Provinz Midlands.",
       "hu": "Gokwe egy jelentős város Zimbabwében.",
       "ro": "Gokwe este un oraș important din Zimbabwe.",
-      "en": "Gokwe is an important city in Zimbabwe."
+      "en": "A large rural service center in the Midlands province, key to local agriculture."
     },
     facts: {
-      "de": [
-      "Gokwe trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Gokwe zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Zentral Midlands", "Handelsort", "Regionale Anbindung", "Agrarregion"],
       "hu": [
       "Gokwe hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Gokwe körüli régió sokszínűségéről ismert."
@@ -878,10 +731,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Gokwe contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Gokwe se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Gokwe contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Gokwe is characterized by its diversity."
-      ]
+      "en": ["Agricultural hub", "Cotton production", "Midlands province", "Regional market"]
     }, image: "/poi-images/gokwe-cities-v2.webp"},
   {
     id: "shurugwi-cities-v2",
@@ -890,16 +740,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.0058, -19.6702],
     name: { de: "Shurugwi", hu: "Shurugwi", ro: "Shurugwi", en: "Shurugwi" },
     description: {
-      "de": "Shurugwi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Shurugwi ist eine Stadt mit Bergbautradition in bergiger Landschaft.",
       "hu": "Shurugwi egy jelentős város Zimbabwében.",
       "ro": "Shurugwi este un oraș important din Zimbabwe.",
-      "en": "Shurugwi is an important city in Zimbabwe."
+      "en": "A mining town set in a hilly region, famous for its chrome and gold deposits."
     },
     facts: {
-      "de": [
-      "Shurugwi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Shurugwi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Bergbaugeschichte", "Bergige Region", "Provinz Midlands", "Historischer Ort"],
       "hu": [
       "Shurugwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Shurugwi körüli régió sokszínűségéről ismert."
@@ -908,10 +755,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Shurugwi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Shurugwi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Shurugwi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Shurugwi is characterized by its diversity."
-      ]
+      "en": ["Mining hub", "Chrome production", "Hilly landscape", "Midlands town"]
     },
   },
   {
@@ -921,16 +765,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29, -20.9333],
     name: { de: "Gwanda", hu: "Gwanda", ro: "Gwanda", en: "Gwanda" },
     description: {
-      "de": "Gwanda ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Gwanda ist die Hauptstadt der Provinz Matabeleland South.",
       "hu": "Gwanda egy jelentős város Zimbabwében.",
       "ro": "Gwanda este un oraș important din Zimbabwe.",
-      "en": "Gwanda is an important city in Zimbabwe."
+      "en": "The capital of Matabeleland South, serving as a hub for livestock and mining."
     },
     facts: {
-      "de": [
-      "Gwanda trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Gwanda zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Provinzhauptstadt", "Matabeleland South", "Handelsort", "Verwaltungszentrum"],
       "hu": [
       "Gwanda hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Gwanda körüli régió sokszínűségéről ismert."
@@ -939,10 +780,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Gwanda contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Gwanda se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Gwanda contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Gwanda is characterized by its diversity."
-      ]
+      "en": ["Provincial capital", "Livestock farming", "Mining area", "Regional center"]
     }, image: "/poi-images/gwanda-cities-v2.webp"},
   {
     id: "mashava-cities-v2",
@@ -951,16 +789,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.4667, -20.0333],
     name: { de: "Mashava", hu: "Mashava", ro: "Mashava", en: "Mashava" },
     description: {
-      "de": "Mashava ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mashava ist ein kleiner Ort, historisch vom Asbestbergbau abhängig.",
       "hu": "Mashava egy jelentős város Zimbabwében.",
       "ro": "Mashava este un oraș important din Zimbabwe.",
-      "en": "Mashava is an important city in Zimbabwe."
+      "en": "A former mining settlement known primarily for its asbestos industry."
     },
     facts: {
-      "de": [
-      "Mashava trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mashava zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Bergbaugeschichte", "Asbestquelle", "Provinz Masvingo", "Ruhige Umgebung"],
       "hu": [
       "Mashava hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mashava körüli régió sokszínűségéről ismert."
@@ -969,10 +804,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mashava contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mashava se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mashava contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mashava is characterized by its diversity."
-      ]
+      "en": ["Asbestos mining history", "Industrial history", "Midlands location", "Small town"]
     }, image: "/poi-images/mashava-cities-v2.webp"},
   {
     id: "mutoko-cities-v2",
@@ -981,16 +813,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.2269, -17.397],
     name: { de: "Mutoko", hu: "Mutoko", ro: "Mutoko", en: "Mutoko" },
     description: {
-      "de": "Mutoko ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mutoko ist ein Handelsort in einer produktiven Gegend.",
       "hu": "Mutoko egy jelentős város Zimbabwében.",
       "ro": "Mutoko este un oraș important din Zimbabwe.",
-      "en": "Mutoko is an important city in Zimbabwe."
+      "en": "A significant rural center in the Mashonaland East province."
     },
     facts: {
-      "de": [
-      "Mutoko trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mutoko zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Handelsort", "Agrarregion", "Mashonaland East", "Regionale Bedeutung"],
       "hu": [
       "Mutoko hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mutoko körüli régió sokszínűségéről ismert."
@@ -999,10 +828,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mutoko contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mutoko se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mutoko contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mutoko is characterized by its diversity."
-      ]
+      "en": ["Agricultural center", "Granite mining area", "Market town", "Mashonaland East"]
     },
   },
   {
@@ -1012,16 +838,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.1475, -17.89],
     name: { de: "Epworth", hu: "Epworth", ro: "Epworth", en: "Epworth" },
     description: {
-      "de": "Epworth ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Epworth ist ein Vorort von Harare mit Granitformationen.",
       "hu": "Epworth egy jelentős város Zimbabwében.",
       "ro": "Epworth este un oraș important din Zimbabwe.",
-      "en": "Epworth is an important city in Zimbabwe."
+      "en": "A high-density residential suburb of Harare known for its unique balancing rocks."
     },
     facts: {
-      "de": [
-      "Epworth trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Epworth zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Vorort von Harare", "Granitformationen", "Dichte Bebauung", "Wachsende Wohnstadt"],
       "hu": [
       "Epworth hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Epworth körüli régió sokszínűségéről ismert."
@@ -1030,10 +853,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Epworth contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Epworth se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Epworth contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Epworth is characterized by its diversity."
-      ]
+      "en": ["Harare suburb", "Balancing rocks", "Dense residential area", "Commuter hub"]
     }, image: "/poi-images/epworth-cities-v2.webp"},
   {
     id: "mvuma-cities-v2",
@@ -1042,16 +862,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.5283, -19.2792],
     name: { de: "Mvuma", hu: "Mvuma", ro: "Mvuma", en: "Mvuma" },
     description: {
-      "de": "Mvuma ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mvuma ist eine kleine Siedlung an einem wichtigen Verkehrsknotenpunkt.",
       "hu": "Mvuma egy jelentős város Zimbabwében.",
       "ro": "Mvuma este un oraș important din Zimbabwe.",
-      "en": "Mvuma is an important city in Zimbabwe."
+      "en": "A small town in the Midlands province primarily serving as an agricultural outpost."
     },
     facts: {
-      "de": [
-      "Mvuma trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mvuma zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Verkehrsknotenpunkt", "Kleine Stadt", "Provinz Midlands", "Zwischen Masvingo/Gweru"],
       "hu": [
       "Mvuma hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mvuma körüli régió sokszínűségéről ismert."
@@ -1060,10 +877,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mvuma contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mvuma se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mvuma contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mvuma is characterized by its diversity."
-      ]
+      "en": ["Agricultural outpost", "Midlands region", "Transit point", "Local commerce"]
     },
   },
   {
@@ -1073,16 +887,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.5667, -17.3167],
     name: { de: "Shamva", hu: "Shamva", ro: "Shamva", en: "Shamva" },
     description: {
-      "de": "Shamva ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Shamva ist eine Stadt, bekannt durch Goldbergbau.",
       "hu": "Shamva egy jelentős város Zimbabwében.",
       "ro": "Shamva este un oraș important din Zimbabwe.",
-      "en": "Shamva is an important city in Zimbabwe."
+      "en": "A town in Mashonaland Central known for its long history of gold mining."
     },
     facts: {
-      "de": [
-      "Shamva trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Shamva zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Goldbergbau", "Mashonaland Central", "Kleinstadt", "Industrielle Bedeutung"],
       "hu": [
       "Shamva hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Shamva körüli régió sokszínűségéről ismert."
@@ -1091,10 +902,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Shamva contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Shamva se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Shamva contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Shamva is characterized by its diversity."
-      ]
+      "en": ["Gold mining area", "Mashonaland Central", "Agricultural base", "Industrial site"]
     }, image: "/poi-images/shamva-cities-v2.webp"},
   {
     id: "glendale-cities-v2",
@@ -1103,16 +911,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.0667, -17.3833],
     name: { de: "Glendale", hu: "Glendale", ro: "Glendale", en: "Glendale" },
     description: {
-      "de": "Glendale ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Glendale ist ein landwirtschaftlicher Ort in Mashonaland Central.",
       "hu": "Glendale egy jelentős város Zimbabwében.",
       "ro": "Glendale este un oraș important din Zimbabwe.",
-      "en": "Glendale is an important city in Zimbabwe."
+      "en": "An agricultural town in the Mazowe valley focused on farming production."
     },
     facts: {
-      "de": [
-      "Glendale trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Glendale zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Mashonaland Central", "Kleinstadt", "Lokale Bedeutung"],
       "hu": [
       "Glendale hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Glendale körüli régió sokszínűségéről ismert."
@@ -1121,10 +926,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Glendale contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Glendale se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Glendale contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Glendale is characterized by its diversity."
-      ]
+      "en": ["Agricultural hub", "Mazowe valley", "Farming center", "Regional trade"]
     }, image: "/poi-images/glendale-cities-v2.webp"},
   {
     id: "mvurwi-cities-v2",
@@ -1133,16 +935,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.85, -17.0333],
     name: { de: "Mvurwi", hu: "Mvurwi", ro: "Mvurwi", en: "Mvurwi" },
     description: {
-      "de": "Mvurwi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mvurwi ist ein kleines landwirtschaftliches Handelszentrum.",
       "hu": "Mvurwi egy jelentős város Zimbabwében.",
       "ro": "Mvurwi este un oraș important din Zimbabwe.",
-      "en": "Mvurwi is an important city in Zimbabwe."
+      "en": "A farming town in the Mashonaland Central province, famous for tobacco."
     },
     facts: {
-      "de": [
-      "Mvurwi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mvurwi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Kleinstadt", "Mashonaland Central", "Mazowe-Tal"],
       "hu": [
       "Mvurwi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mvurwi körüli régió sokszínűségéről ismert."
@@ -1151,10 +950,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mvurwi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mvurwi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mvurwi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mvurwi is characterized by its diversity."
-      ]
+      "en": ["Tobacco growing area", "Agricultural center", "Mazowe region", "Small town"]
     },
   },
   {
@@ -1164,16 +960,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.5833, -16.7833],
     name: { de: "Mount Darwin", hu: "Mount Darwin", ro: "Mount Darwin", en: "Mount Darwin" },
     description: {
-      "de": "Mount Darwin ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mount Darwin ist ein regionales Verwaltungszentrum im Nordosten.",
       "hu": "Mount Darwin egy jelentős város Zimbabwében.",
       "ro": "Mount Darwin este un oraș important din Zimbabwe.",
-      "en": "Mount Darwin is an important city in Zimbabwe."
+      "en": "A town in the northeast, historically an important administrative and farming center."
     },
     facts: {
-      "de": [
-      "Mount Darwin trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mount Darwin zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Verwaltungszentrum", "Nordosten Simbabwes", "Agrarregion", "Handelsort"],
       "hu": [
       "Mount Darwin hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mount Darwin körüli régió sokszínűségéről ismert."
@@ -1182,10 +975,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mount Darwin contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mount Darwin se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mount Darwin contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mount Darwin is characterized by its diversity."
-      ]
+      "en": ["Agricultural hub", "Administrative center", "Northeastern Zimbabwe", "Trading center"]
     }, image: "/poi-images/mount-darwin-cities-v2.webp"},
   {
     id: "plumtree-cities-v2",
@@ -1194,16 +984,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.8, -20.4833],
     name: { de: "Plumtree", hu: "Plumtree", ro: "Plumtree", en: "Plumtree" },
     description: {
-      "de": "Plumtree ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Plumtree ist eine Grenzstadt zu Botswana.",
       "hu": "Plumtree egy jelentős város Zimbabwében.",
       "ro": "Plumtree este un oraș important din Zimbabwe.",
-      "en": "Plumtree is an important city in Zimbabwe."
+      "en": "A border town on the western edge, serving as a vital link to Botswana."
     },
     facts: {
-      "de": [
-      "Plumtree trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Plumtree zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Grenzstadt", "Zu Botswana", "Verkehrsknotenpunkt", "Matabeleland South"],
       "hu": [
       "Plumtree hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Plumtree körüli régió sokszínűségéről ismert."
@@ -1212,10 +999,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Plumtree contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Plumtree se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Plumtree contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Plumtree is characterized by its diversity."
-      ]
+      "en": ["Botswana border", "Customs point", "Transit hub", "Railway location"]
     }, image: "/poi-images/plumtree-cities-v2.webp"},
   {
     id: "chivhu-cities-v2",
@@ -1224,16 +1008,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.8922, -19.0211],
     name: { de: "Chivhu", hu: "Chivhu", ro: "Chivhu", en: "Chivhu" },
     description: {
-      "de": "Chivhu ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chivhu ist ein Verkehrsknotenpunkt zwischen Harare und Masvingo.",
       "hu": "Chivhu egy jelentős város Zimbabwében.",
       "ro": "Chivhu este un oraș important din Zimbabwe.",
-      "en": "Chivhu is an important city in Zimbabwe."
+      "en": "An important agricultural market town situated on the Harare to Masvingo highway."
     },
     facts: {
-      "de": [
-      "Chivhu trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chivhu zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Verkehrsknotenpunkt", "Zwischen Harare/Masvingo", "Handelsort", "Mashonaland East"],
       "hu": [
       "Chivhu hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chivhu körüli régió sokszínűségéről ismert."
@@ -1242,10 +1023,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chivhu contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chivhu se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chivhu contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chivhu is characterized by its diversity."
-      ]
+      "en": ["Market town", "Transit center", "Highway location", "Agricultural base"]
     }, image: "/poi-images/chivhu-cities-v2.webp"},
   {
     id: "triangle-cities-v2",
@@ -1254,16 +1032,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.4667, -21.0333],
     name: { de: "Triangle", hu: "Triangle", ro: "Triangle", en: "Triangle" },
     description: {
-      "de": "Triangle ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Triangle ist Zentrum der Zuckerrohrverarbeitung in der Lowveld-Region.",
       "hu": "Triangle egy jelentős város Zimbabwében.",
       "ro": "Triangle este un oraș important din Zimbabwe.",
-      "en": "Triangle is an important city in Zimbabwe."
+      "en": "A company town built around extensive sugar cane estates and processing."
     },
     facts: {
-      "de": [
-      "Triangle trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Triangle zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Zuckerrohrverarbeitung", "Lowveld-Region", "Agrarstandort", "Spezialisierter Ort"],
       "hu": [
       "Triangle hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Triangle körüli régió sokszínűségéről ismert."
@@ -1272,10 +1047,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Triangle contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Triangle se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Triangle contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Triangle is characterized by its diversity."
-      ]
+      "en": ["Sugar cane industry", "Company town", "Agricultural hub", "Lowveld region"]
     }, image: "/poi-images/triangle-cities-v2.webp"},
   {
     id: "centenary-cities-v2",
@@ -1284,16 +1056,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.1167, -16.7333],
     name: { de: "Centenary", hu: "Centenary", ro: "Centenary", en: "Centenary" },
     description: {
-      "de": "Centenary ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Centenary ist eine kleine Stadt in einer Agrarregion des Nordens.",
       "hu": "Centenary egy jelentős város Zimbabwében.",
       "ro": "Centenary este un oraș important din Zimbabwe.",
-      "en": "Centenary is an important city in Zimbabwe."
+      "en": "A small agricultural town in the northern part of Zimbabwe."
     },
     facts: {
-      "de": [
-      "Centenary trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Centenary zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Norden Simbabwes", "Kleinstadt", "Regionale Bedeutung"],
       "hu": [
       "Centenary hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Centenary körüli régió sokszínűségéről ismert."
@@ -1302,10 +1071,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Centenary contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Centenary se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Centenary contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Centenary is characterized by its diversity."
-      ]
+      "en": ["Agricultural center", "Northern Zimbabwe", "Farming district", "Local commerce"]
     }, image: "/poi-images/centenary-cities-v2.webp"},
   {
     id: "banket-cities-v2",
@@ -1314,16 +1080,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.4, -17.3833],
     name: { de: "Banket", hu: "Banket", ro: "Banket", en: "Banket" },
     description: {
-      "de": "Banket ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Banket ist ein landwirtschaftliches Handelszentrum westlich von Harare.",
       "hu": "Banket egy jelentős város Zimbabwében.",
       "ro": "Banket este un oraș important din Zimbabwe.",
-      "en": "Banket is an important city in Zimbabwe."
+      "en": "A farming town situated in a fertile agricultural district of Mashonaland West."
     },
     facts: {
-      "de": [
-      "Banket trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Banket zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Handelsort", "Westlich von Harare", "Mashonaland West"],
       "hu": [
       "Banket hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Banket körüli régió sokszínűségéről ismert."
@@ -1332,10 +1095,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Banket contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Banket se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Banket contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Banket is characterized by its diversity."
-      ]
+      "en": ["Fertile farmlands", "Mashonaland West", "Crop production", "Small trade hub"]
     }, image: "/poi-images/banket-cities-v2.webp"},
   {
     id: "dete-cities-v2",
@@ -1344,16 +1104,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [26.8667, -18.6167],
     name: { de: "Dete", hu: "Dete", ro: "Dete", en: "Dete" },
     description: {
-      "de": "Dete ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Dete ist Tor zum Hwange-Nationalpark und Eisenbahnknotenpunkt.",
       "hu": "Dete egy jelentős város Zimbabwében.",
       "ro": "Dete este un oraș important din Zimbabwe.",
-      "en": "Dete is an important city in Zimbabwe."
+      "en": "A small settlement that serves as an entry point to Hwange National Park."
     },
     facts: {
-      "de": [
-      "Dete trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Dete zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Tor zum Nationalpark", "Eisenbahnknotenpunkt", "Nahe Hwange", "Touristische Bedeutung"],
       "hu": [
       "Dete hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Dete körüli régió sokszínűségéről ismert."
@@ -1362,10 +1119,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Dete contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Dete se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Dete contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Dete is characterized by its diversity."
-      ]
+      "en": ["Gateway to Hwange", "Tourist stopover", "Small trade center", "Wildlife area"]
     }, image: "/poi-images/dete-cities-v2.webp"},
   {
     id: "nkayi-cities-v2",
@@ -1374,16 +1128,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.9, -19],
     name: { de: "Nkayi", hu: "Nkayi", ro: "Nkayi", en: "Nkayi" },
     description: {
-      "de": "Nkayi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Nkayi ist ein ländliches Handelszentrum in Matabeleland North.",
       "hu": "Nkayi egy jelentős város Zimbabwében.",
       "ro": "Nkayi este un oraș important din Zimbabwe.",
-      "en": "Nkayi is an important city in Zimbabwe."
+      "en": "A district center in Matabeleland North supporting local farming communities."
     },
     facts: {
-      "de": [
-      "Nkayi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Nkayi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Ländlicher Handelsort", "Matabeleland North", "Regionale Anbindung", "Agrarregion"],
       "hu": [
       "Nkayi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Nkayi körüli régió sokszínűségéről ismert."
@@ -1392,10 +1143,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Nkayi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Nkayi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Nkayi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Nkayi is characterized by its diversity."
-      ]
+      "en": ["District capital", "Matabeleland North", "Agricultural hub", "Local trade"]
     }, image: "/poi-images/nkayi-cities-v2.webp"},
   {
     id: "mberengwa-cities-v2",
@@ -1404,16 +1152,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.9167, -20.4833],
     name: { de: "Mberengwa", hu: "Mberengwa", ro: "Mberengwa", en: "Mberengwa" },
     description: {
-      "de": "Mberengwa ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Mberengwa ist ein ländliches Verwaltungszentrum in bergiger Region.",
       "hu": "Mberengwa egy jelentős város Zimbabwében.",
       "ro": "Mberengwa este un oraș important din Zimbabwe.",
-      "en": "Mberengwa is an important city in Zimbabwe."
+      "en": "A significant mineral-rich district in the Midlands province."
     },
     facts: {
-      "de": [
-      "Mberengwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Mberengwa zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Ländlicher Ort", "Provinz Midlands", "Bergiges Gelände", "Verwaltungszentrum"],
       "hu": [
       "Mberengwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Mberengwa körüli régió sokszínűségéről ismert."
@@ -1422,10 +1167,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Mberengwa contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Mberengwa se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Mberengwa contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Mberengwa is characterized by its diversity."
-      ]
+      "en": ["Mineral rich area", "Midlands province", "Mining focus", "Regional hub"]
     }, image: "/poi-images/mberengwa-cities-v2.webp"},
   {
     id: "tsholotsho-cities-v2",
@@ -1434,16 +1176,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.7667, -19.7667],
     name: { de: "Tsholotsho", hu: "Tsholotsho", ro: "Tsholotsho", en: "Tsholotsho" },
     description: {
-      "de": "Tsholotsho ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Tsholotsho ist eine ländliche Gemeinde in Matabeleland North.",
       "hu": "Tsholotsho egy jelentős város Zimbabwében.",
       "ro": "Tsholotsho este un oraș important din Zimbabwe.",
-      "en": "Tsholotsho is an important city in Zimbabwe."
+      "en": "A rural district center in Matabeleland North, important for regional administration."
     },
     facts: {
-      "de": [
-      "Tsholotsho trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Tsholotsho zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Ländliche Gemeinde", "Matabeleland North", "Region im Westen", "Regionale Bedeutung"],
       "hu": [
       "Tsholotsho hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Tsholotsho körüli régió sokszínűségéről ismert."
@@ -1452,10 +1191,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Tsholotsho contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Tsholotsho se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Tsholotsho contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Tsholotsho is characterized by its diversity."
-      ]
+      "en": ["Administrative center", "Matabeleland North", "Rural trade", "Local base"]
     }, image: "/poi-images/tsholotsho-cities-v2.webp"},
   {
     id: "binga-cities-v2",
@@ -1464,16 +1200,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.3414, -17.6203],
     name: { de: "Binga", hu: "Binga", ro: "Binga", en: "Binga" },
     description: {
-      "de": "Binga ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Binga liegt am Kariba-Stausee und ist Zentrum der Tonga-Kultur.",
       "hu": "Binga egy jelentős város Zimbabwében.",
       "ro": "Binga este un oraș important din Zimbabwe.",
-      "en": "Binga is an important city in Zimbabwe."
+      "en": "A remote district center on the southern shores of Lake Kariba."
     },
     facts: {
-      "de": [
-      "Binga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Binga zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Am Kariba-Stausee", "Tonga-Kulturzentrum", "Fischerei", "Touristische Bedeutung"],
       "hu": [
       "Binga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Binga körüli régió sokszínűségéről ismert."
@@ -1482,10 +1215,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Binga contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Binga se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Binga contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Binga is characterized by its diversity."
-      ]
+      "en": ["Lake Kariba shore", "Remote area", "Tourism and fishing", "Binga district"]
     }, image: "/poi-images/binga-cities-v2.webp"},
   {
     id: "filabusi-cities-v2",
@@ -1494,16 +1224,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.2833, -20.5333],
     name: { de: "Filabusi", hu: "Filabusi", ro: "Filabusi", en: "Filabusi" },
     description: {
-      "de": "Filabusi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Filabusi ist ein kleiner Handelsort in Matabeleland South.",
       "hu": "Filabusi egy jelentős város Zimbabwében.",
       "ro": "Filabusi este un oraș important din Zimbabwe.",
-      "en": "Filabusi is an important city in Zimbabwe."
+      "en": "A small mining and agricultural center in the Matabeleland South province."
     },
     facts: {
-      "de": [
-      "Filabusi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Filabusi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Handelsort", "Matabeleland South", "Provinz", "Kleinstadt"],
       "hu": [
       "Filabusi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Filabusi körüli régió sokszínűségéről ismert."
@@ -1512,10 +1239,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Filabusi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Filabusi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Filabusi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Filabusi is characterized by its diversity."
-      ]
+      "en": ["Mining center", "Matabeleland South", "Agricultural area", "Local commerce"]
     }, image: "/poi-images/filabusi-cities-v2.webp"},
   {
     id: "inyati-cities-v2",
@@ -1524,16 +1248,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [28.8475, -19.6758],
     name: { de: "Inyati", hu: "Inyati", ro: "Inyati", en: "Inyati" },
     description: {
-      "de": "Inyati ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Inyati ist eine historische Siedlung in Matabeleland North.",
       "hu": "Inyati egy jelentős város Zimbabwében.",
       "ro": "Inyati este un oraș important din Zimbabwe.",
-      "en": "Inyati is an important city in Zimbabwe."
+      "en": "A historic settlement in the Matabeleland North area."
     },
     facts: {
-      "de": [
-      "Inyati trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Inyati zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Historischer Ort", "Matabeleland North", "Ländliche Region", "Regionale Anbindung"],
       "hu": [
       "Inyati hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Inyati körüli régió sokszínűségéről ismert."
@@ -1542,10 +1263,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Inyati contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Inyati se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Inyati contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Inyati is characterized by its diversity."
-      ]
+      "en": ["Historic settlement", "Matabeleland North", "Farming district", "Small trade center"]
     },
   },
   {
@@ -1555,16 +1273,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [27.8333, -18.9333],
     name: { de: "Lupane", hu: "Lupane", ro: "Lupane", en: "Lupane" },
     description: {
-      "de": "Lupane ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Lupane ist das administrative Zentrum von Matabeleland North.",
       "hu": "Lupane egy jelentős város Zimbabwében.",
       "ro": "Lupane este un oraș important din Zimbabwe.",
-      "en": "Lupane is an important city in Zimbabwe."
+      "en": "The administrative center of Matabeleland North, serving the surrounding rural regions."
     },
     facts: {
-      "de": [
-      "Lupane trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Lupane zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Administratives Zentrum", "Matabeleland North", "Regionale Bedeutung", "Wachsende Stadt"],
       "hu": [
       "Lupane hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Lupane körüli régió sokszínűségéről ismert."
@@ -1573,10 +1288,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Lupane contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Lupane se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Lupane contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Lupane is characterized by its diversity."
-      ]
+      "en": ["Provincial capital", "Matabeleland North", "Administrative hub", "Local commerce"]
     }, image: "/poi-images/lupane-cities-v2.webp"},
   {
     id: "guruve-cities-v2",
@@ -1585,16 +1297,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.7, -16.65],
     name: { de: "Guruve", hu: "Guruve", ro: "Guruve", en: "Guruve" },
     description: {
-      "de": "Guruve ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Guruve ist ein landwirtschaftliches Zentrum in Mashonaland Central.",
       "hu": "Guruve egy jelentős város Zimbabwében.",
       "ro": "Guruve este un oraș important din Zimbabwe.",
-      "en": "Guruve is an important city in Zimbabwe."
+      "en": "A key farming area in Mashonaland Central province."
     },
     facts: {
-      "de": [
-      "Guruve trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Guruve zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Mashonaland Central", "Regionales Zentrum", "Handelsort"],
       "hu": [
       "Guruve hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Guruve körüli régió sokszínűségéről ismert."
@@ -1603,10 +1312,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Guruve contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Guruve se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Guruve contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Guruve is characterized by its diversity."
-      ]
+      "en": ["Farming hub", "Mashonaland Central", "Agricultural region", "Local commerce"]
     },
   },
   {
@@ -1616,16 +1322,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.0667, -16.5167],
     name: { de: "Rushinga", hu: "Rushinga", ro: "Rushinga", en: "Rushinga" },
     description: {
-      "de": "Rushinga ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Rushinga ist ein ländliches Verwaltungszentrum im Norden.",
       "hu": "Rushinga egy jelentős város Zimbabwében.",
       "ro": "Rushinga este un oraș important din Zimbabwe.",
-      "en": "Rushinga is an important city in Zimbabwe."
+      "en": "A rural service center located in the northeastern part of Zimbabwe."
     },
     facts: {
-      "de": [
-      "Rushinga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Rushinga zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Ländlicher Ort", "Norden Simbabwes", "Mashonaland Central", "Regionale Bedeutung"],
       "hu": [
       "Rushinga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Rushinga körüli régió sokszínűségéről ismert."
@@ -1634,10 +1337,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Rushinga contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Rushinga se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Rushinga contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Rushinga is characterized by its diversity."
-      ]
+      "en": ["Rural trade center", "Northeastern region", "Local administration", "Agricultural hub"]
     }, image: "/poi-images/rushinga-cities-v2.webp"},
   {
     id: "chimanimani-cities-v2",
@@ -1646,16 +1346,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.8667, -19.8],
     name: { de: "Chimanimani", hu: "Chimanimani", ro: "Chimanimani", en: "Chimanimani" },
     description: {
-      "de": "Chimanimani ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chimanimani ist für seine Berglandschaften im Osten bekannt.",
       "hu": "Chimanimani egy jelentős város Zimbabwében.",
       "ro": "Chimanimani este un oraș important din Zimbabwe.",
-      "en": "Chimanimani is an important city in Zimbabwe."
+      "en": "A mountain town known for its dramatic landscapes and access to the Chimanimani mountains."
     },
     facts: {
-      "de": [
-      "Chimanimani trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chimanimani zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Bergregion", "Östliches Hochland", "Wanderziel", "Naturraum"],
       "hu": [
       "Chimanimani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chimanimani körüli régió sokszínűségéről ismert."
@@ -1664,10 +1361,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chimanimani contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chimanimani se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chimanimani contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chimanimani is characterized by its diversity."
-      ]
+      "en": ["Mountainous region", "Hiking destination", "Scenic town", "Eastern Highlands"]
     }, image: "/poi-images/chimanimani-cities-v2.webp"},
   {
     id: "nyanga-cities-v2",
@@ -1676,16 +1370,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.7483, -18.2144],
     name: { de: "Nyanga", hu: "Nyanga", ro: "Nyanga", en: "Nyanga" },
     description: {
-      "de": "Nyanga ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Nyanga ist Zentrum des höchsten Berglandes und beliebtes Ausflugsziel.",
       "hu": "Nyanga egy jelentős város Zimbabwében.",
       "ro": "Nyanga este un oraș important din Zimbabwe.",
-      "en": "Nyanga is an important city in Zimbabwe."
+      "en": "A picturesque town in the Eastern Highlands popular for tourism and trout fishing."
     },
     facts: {
-      "de": [
-      "Nyanga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Nyanga zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Höchstes Bergland", "Tourismus-Hotspot", "Östliche Highlands", "Naturgebiet"],
       "hu": [
       "Nyanga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Nyanga körüli régió sokszínűségéről ismert."
@@ -1694,10 +1385,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Nyanga contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Nyanga se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Nyanga contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Nyanga is characterized by its diversity."
-      ]
+      "en": ["Eastern Highlands", "Tourism hub", "High altitude", "Trout fishing area"]
     }, image: "/poi-images/nyanga-cities-v2.webp"},
   {
     id: "penhalonga-cities-v2",
@@ -1706,16 +1394,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.7, -18.8833],
     name: { de: "Penhalonga", hu: "Penhalonga", ro: "Penhalonga", en: "Penhalonga" },
     description: {
-      "de": "Penhalonga ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Penhalonga ist eine historische Goldgräbersiedlung nahe Mutare.",
       "hu": "Penhalonga egy jelentős város Zimbabwében.",
       "ro": "Penhalonga este un oraș important din Zimbabwe.",
-      "en": "Penhalonga is an important city in Zimbabwe."
+      "en": "A historic gold mining town nestled in a valley near Mutare."
     },
     facts: {
-      "de": [
-      "Penhalonga trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Penhalonga zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Goldgräbergeschichte", "Historischer Ort", "Nahe Mutare", "Bergige Lage"],
       "hu": [
       "Penhalonga hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Penhalonga körüli régió sokszínűségéről ismert."
@@ -1724,10 +1409,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Penhalonga contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Penhalonga se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Penhalonga contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Penhalonga is characterized by its diversity."
-      ]
+      "en": ["Gold mining legacy", "Near Mutare", "Valley location", "Historic site"]
     }, image: "/poi-images/penhalonga-cities-v2.webp"},
   {
     id: "headlands-cities-v2",
@@ -1736,16 +1418,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [32.05, -18.2833],
     name: { de: "Headlands", hu: "Headlands", ro: "Headlands", en: "Headlands" },
     description: {
-      "de": "Headlands ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Headlands ist eine landwirtschaftliche Siedlung in den östlichen Bezirken.",
       "hu": "Headlands egy jelentős város Zimbabwében.",
       "ro": "Headlands este un oraș important din Zimbabwe.",
-      "en": "Headlands is an important city in Zimbabwe."
+      "en": "An agricultural trade center located on the main road between Harare and Mutare."
     },
     facts: {
-      "de": [
-      "Headlands trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Headlands zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarsiedlung", "Östliche Region", "Handelsort", "Manicaland"],
       "hu": [
       "Headlands hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Headlands körüli régió sokszínűségéről ismert."
@@ -1754,10 +1433,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Headlands contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Headlands se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Headlands contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Headlands is characterized by its diversity."
-      ]
+      "en": ["Highway location", "Agricultural area", "Trade hub", "Eastern Zimbabwe"]
     }, image: "/poi-images/headlands-cities-v2.webp"},
   {
     id: "concession-cities-v2",
@@ -1766,16 +1442,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [30.95, -17.3833],
     name: { de: "Concession", hu: "Concession", ro: "Concession", en: "Concession" },
     description: {
-      "de": "Concession ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Concession ist ein landwirtschaftlicher Ort nördlich von Harare.",
       "hu": "Concession egy jelentős város Zimbabwében.",
       "ro": "Concession este un oraș important din Zimbabwe.",
-      "en": "Concession is an important city in Zimbabwe."
+      "en": "A farming town in the Mazowe valley of Mashonaland Central."
     },
     facts: {
-      "de": [
-      "Concession trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Concession zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarregion", "Nördlich von Harare", "Mashonaland Central", "Kleinstadt"],
       "hu": [
       "Concession hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Concession körüli régió sokszínűségéről ismert."
@@ -1784,10 +1457,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Concession contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Concession se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Concession contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Concession is characterized by its diversity."
-      ]
+      "en": ["Farming valley", "Mashonaland Central", "Agricultural production", "Regional trade"]
     }, image: "/poi-images/concession-cities-v2.webp"},
   {
     id: "murehwa-cities-v2",
@@ -1796,16 +1466,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.7833, -17.65],
     name: { de: "Murehwa", hu: "Murehwa", ro: "Murehwa", en: "Murehwa" },
     description: {
-      "de": "Murehwa ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Murehwa ist ein ländliches Handelszentrum in Mashonaland East.",
       "hu": "Murehwa egy jelentős város Zimbabwében.",
       "ro": "Murehwa este un oraș important din Zimbabwe.",
-      "en": "Murehwa is an important city in Zimbabwe."
+      "en": "A large rural trading and administrative center in Mashonaland East."
     },
     facts: {
-      "de": [
-      "Murehwa trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Murehwa zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Ländlicher Handelsort", "Mashonaland East", "Agrarregion", "Regionale Anbindung"],
       "hu": [
       "Murehwa hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Murehwa körüli régió sokszínűségéről ismert."
@@ -1814,10 +1481,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Murehwa contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Murehwa se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Murehwa contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Murehwa is characterized by its diversity."
-      ]
+      "en": ["Administrative center", "Mashonaland East", "Trade hub", "Agricultural district"]
     }, image: "/poi-images/murehwa-cities-v2.webp"},
   {
     id: "wedza-cities-v2",
@@ -1826,16 +1490,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.6333, -18.6167],
     name: { de: "Wedza", hu: "Wedza", ro: "Wedza", en: "Wedza" },
     description: {
-      "de": "Wedza ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Wedza ist ein landwirtschaftliches Zentrum in den Hügeln von Mashonaland East.",
       "hu": "Wedza egy jelentős város Zimbabwében.",
       "ro": "Wedza este un oraș important din Zimbabwe.",
-      "en": "Wedza is an important city in Zimbabwe."
+      "en": "A small agricultural center located in the Mashonaland East province."
     },
     facts: {
-      "de": [
-      "Wedza trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Wedza zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Agrarzentrum", "Mashonaland East", "Hügellandschaft", "Regionales Zentrum"],
       "hu": [
       "Wedza hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Wedza körüli régió sokszínűségéről ismert."
@@ -1844,10 +1505,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Wedza contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Wedza se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Wedza contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Wedza is characterized by its diversity."
-      ]
+      "en": ["Agricultural center", "Mashonaland East", "Local market", "Regional trade"]
     },
   },
   {
@@ -1857,16 +1515,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [31.3667, -17.8167],
     name: { de: "Goromonzi", hu: "Goromonzi", ro: "Goromonzi", en: "Goromonzi" },
     description: {
-      "de": "Goromonzi ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Goromonzi ist eine wachsende ländliche Gemeinde nahe Harare.",
       "hu": "Goromonzi egy jelentős város Zimbabwében.",
       "ro": "Goromonzi este un oraș important din Zimbabwe.",
-      "en": "Goromonzi is an important city in Zimbabwe."
+      "en": "A rural district town near Harare, known for its farming and local commerce."
     },
     facts: {
-      "de": [
-      "Goromonzi trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Goromonzi zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Gemeinde nahe Harare", "Wachsende Region", "Agrarwirtschaft", "Regionale Bedeutung"],
       "hu": [
       "Goromonzi hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Goromonzi körüli régió sokszínűségéről ismert."
@@ -1875,10 +1530,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Goromonzi contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Goromonzi se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Goromonzi contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Goromonzi is characterized by its diversity."
-      ]
+      "en": ["Near Harare", "Rural district", "Agricultural area", "Commuter base"]
     },
   },
   {
@@ -1888,16 +1540,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.8667, -18.0667],
     name: { de: "Chakari", hu: "Chakari", ro: "Chakari", en: "Chakari" },
     description: {
-      "de": "Chakari ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Chakari ist eine Siedlung eng mit dem Bergbau verbunden.",
       "hu": "Chakari egy jelentős város Zimbabwében.",
       "ro": "Chakari este un oraș important din Zimbabwe.",
-      "en": "Chakari is an important city in Zimbabwe."
+      "en": "A small town primarily associated with the mining industry in the Midlands."
     },
     facts: {
-      "de": [
-      "Chakari trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Chakari zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Bergbaugeschichte", "Mashonaland West", "Ländlicher Ort", "Industrielle Bedeutung"],
       "hu": [
       "Chakari hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Chakari körüli régió sokszínűségéről ismert."
@@ -1906,10 +1555,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Chakari contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Chakari se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Chakari contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Chakari is characterized by its diversity."
-      ]
+      "en": ["Mining town", "Midlands province", "Industrial history", "Regional base"]
     }, image: "/poi-images/chakari-cities-v2.webp"},
   {
     id: "shangani-cities-v2",
@@ -1918,16 +1564,13 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     coords: [29.3667, -19.7833],
     name: { de: "Shangani", hu: "Shangani", ro: "Shangani", en: "Shangani" },
     description: {
-      "de": "Shangani ist eine bedeutende Stadt in Simbabwe.",
+      "de": "Shangani ist ein Ort mit historischer Bedeutung in den Midlands.",
       "hu": "Shangani egy jelentős város Zimbabwében.",
       "ro": "Shangani este un oraș important din Zimbabwe.",
-      "en": "Shangani is an important city in Zimbabwe."
+      "en": "A small rural center in the Midlands province associated with history and agriculture."
     },
     facts: {
-      "de": [
-      "Shangani trägt zum kulturellen und wirtschaftlichen Leben von Simbabwe bei.",
-      "Die Region um Shangani zeichnet sich durch ihre Vielfalt aus."
-      ],
+      "de": ["Historischer Ort", "Midlands", "Agrarregion", "Ländliche Gegend"],
       "hu": [
       "Shangani hozzájárul Zimbabwe kulturális és gazdasági életéhez.",
       "A(z) Shangani körüli régió sokszínűségéről ismert."
@@ -1936,10 +1579,7 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       "Shangani contribuie la viața culturală și economică a statului Zimbabwe.",
       "Regiunea din jurul Shangani se caracterizează prin diversitatea sa."
       ],
-      "en": [
-      "Shangani contributes to the cultural and economic life of Zimbabwe.",
-      "The region around Shangani is characterized by its diversity."
-      ]
+      "en": ["Rural center", "Midlands province", "Agricultural area", "Historic location"]
     },
   }
 ];

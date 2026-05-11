@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "Magoé Lake is a freshwater lake in Tete Province, known for its wildlife and fishing opportunities.",
+      "facts": ["Freshwater lake", "Tete Province", "Wildlife and fishing"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "Gile Forest is an important rainforest in Zambézia Province, home to a variety of animal and plant species.",
+      "facts": ["Rainforest", "Zambézia Province", "Animal and plant species"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "The Gorgon Sea is part of the Indian Ocean off the coast of Mozambique, known for its rich marine biodiversity.",
+      "facts": ["Indian Ocean", "Marine biodiversity", "Coast of Mozambique"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "Chiu Mountain is a prominent mountain in Niassa Province, boasting unique flora and fauna.",
+      "facts": ["Niassa Province", "Unique flora and fauna", "Prominent mountain"]
+    },
+    {
+      "id": "lebombo-berge-relief-v2",
+      "description": "The Lebombo Mountains form a long, narrow mountain range on the border between Mozambique, South Africa, and Eswatini.",
+      "facts": ["Mountain range", "Border region", "South Africa, Eswatini"]
+    },
+    {
+      "id": "manica-hochland-relief-v2",
+      "description": "The Manica Highlands are a mountainous region in central Mozambique, characterized by fertile valleys and cooler climates.",
+      "facts": ["Mountainous region", "Central Mozambique", "Fertile valleys"]
+    },
+    {
+      "id": "cabo-delgado-kuesten-relief-v2",
+      "description": "The Cabo Delgado Coastline is defined by its pristine beaches, coral reefs, and mangrove forests.",
+      "facts": ["Pristine beaches", "Coral reefs", "Mangrove forests"]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "description": "The Tete Lowlands are an extensive, flat region along the Zambezi River, largely used for agriculture.",
+      "facts": ["Flat region", "Zambezi River", "Agricultural use"]
+    },
+    {
+      "id": "gaza-ebene-relief-v2",
+      "description": "The Gaza Plain is a low-lying, flat area in southern Mozambique, significant for its agricultural potential.",
+      "facts": ["Low-lying plain", "Southern Mozambique", "Agricultural potential"]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "description": "The Nampula Highlands are a hilly region with fertile soils, ideal for coffee cultivation.",
+      "facts": ["Hilly region", "Fertile soils", "Coffee cultivation"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "Pemba Bay is a natural bay on the coast of Mozambique, known for its protected waters and diving sites.",
+      "facts": ["Natural bay", "Protected waters", "Diving sites"]
+    },
+    {
+      "id": "lupata-massiv-relief-v2",
+      "description": "The Lupata Massif is a prominent mountainous area with dramatic rock formations, important for its geological features.",
+      "facts": ["Mountainous area", "Dramatic rock formations", "Geological features"]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "description": "The Tete Highlands are a mountainous region with a cooler climate, suitable for tea and coffee plantations.",
+      "facts": ["Mountainous region", "Cooler climate", "Tea and coffee plantations"]
+    },
+    {
+      "id": "limpopo-delta-relief-v2",
+      "description": "The Limpopo River Delta is a vast, low-lying area where the Limpopo River meets the Indian Ocean, forming extensive wetlands.",
+      "facts": ["River delta", "Indian Ocean", "Extensive wetlands"]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "description": "The Gile Massif is a remote mountainous massif in Zambézia Province, known for its rich biodiversity.",
+      "facts": ["Remote mountainous massif", "Zambézia Province", "Rich biodiversity"]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "description": "The Mossuril Coastline is characterized by pristine beaches, mangrove forests, and coral reefs.",
+      "facts": ["Pristine beaches", "Mangrove forests", "Coral reefs"]
+    }
+  ]
+}

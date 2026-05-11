@@ -1,0 +1,159 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jwaneng-diamond-mine-economic-v2",
+      "description": "Cea mai bogată mină de diamante din lume în funcție de valoare, situată în sudul Botswanei.",
+      "facts": [
+        "Deschisă în 1982",
+        "Operată de Debswana",
+        "Producție de înaltă calitate",
+        "Aproape de orașul Jwaneng"
+      ]
+    },
+    {
+      "id": "orapa-diamond-mine-economic-v2",
+      "description": "Cea mai mare mină de diamante din lume ca suprafață, un pilon central al economiei naționale.",
+      "facts": [
+        "Descoperită în 1967",
+        "Cea mai mare mină cu carieră deschisă",
+        "Peste 2.000 de angajați",
+        "Situată în districtul Central"
+      ]
+    },
+    {
+      "id": "morupule-coal-mine-economic-v2",
+      "description": "Principala sursă de cărbune a țării, esențială pentru producția de energie electrică internă.",
+      "facts": [
+        "Lângă orașul Palapye",
+        "Alimentează termocentrala Morupule",
+        "Operată de MCL",
+        "Exploatare subterană și la suprafață"
+      ]
+    },
+    {
+      "id": "morupule-power-station-economic-v2",
+      "description": "Cea mai mare facilitate de producere a energiei electrice din Botswana, utilizând resurse locale de cărbune.",
+      "facts": [
+        "Include unitățile A și B",
+        "Capacitate de sute de megawați",
+        "Asigură independența energetică",
+        "Tehnologie de ardere curată"
+      ]
+    },
+    {
+      "id": "selebi-phikwe-copper-mine-economic-v2",
+      "description": "Un complex minier istoric de cupru și nichel care a susținut dezvoltarea regiunii de est.",
+      "facts": [
+        "Operată anterior de BCL",
+        "Impact major asupra orașului",
+        "Zăcăminte bogate de sulfuri",
+        "În curs de revitalizare"
+      ]
+    },
+    {
+      "id": "sowa-pan-soda-ash-economic-v2",
+      "description": "O unitate industrială unică situată în Makgadikgadi Pans pentru extracția sodei calcinate.",
+      "facts": [
+        "Operată de Botswana Ash",
+        "Extracție din saramură",
+        "Exportă în toată Africa",
+        "Situată în nord-estul țării"
+      ]
+    },
+    {
+      "id": "letlhakane-diamond-mine-economic-v2",
+      "description": "O mină importantă de diamante care prelucrează acum resurse din depozite secundare.",
+      "facts": [
+        "Deschisă în 1975",
+        "A doua mină a Debswana",
+        "Trecere la prelucrarea sterilului",
+        "Lângă orașul Letlhakane"
+      ]
+    },
+    {
+      "id": "karowe-diamond-mine-economic-v2",
+      "description": "Cunoscută pentru descoperirea unor diamante excepțional de mari și valoroase, inclusiv Lesedi La Rona.",
+      "facts": [
+        "Deținută de Lucara Diamond",
+        "Echipată cu tehnologie XRT",
+        "Situată în districtul Central",
+        "Faimoasă pentru pietre rare"
+      ]
+    },
+    {
+      "id": "gaborone-dry-port-economic-v2",
+      "description": "Un hub logistic crucial care facilitează comerțul internațional și transportul de containere în capitală.",
+      "facts": [
+        "Gestionat de CONCOR",
+        "Legături feroviare importante",
+        "Vămuire centralizată",
+        "Centru de distribuție regional"
+      ]
+    },
+    {
+      "id": "bmc-lobatse-abattoir-economic-v2",
+      "description": "Principalul abator de export de carne de vită, renumit pentru standardele de calitate europene.",
+      "facts": [
+        "Botswana Meat Commission",
+        "Exporturi către UE",
+        "Motor economic pentru Lobatse",
+        "Procesare modernă a cărnii"
+      ]
+    },
+    {
+      "id": "khoemacau-copper-mine-economic-v2",
+      "description": "Un proiect minier modern de cupru situat în zona bogată Kalahari Copper Belt.",
+      "facts": [
+        "Concentrat de cupru și argint",
+        "Tehnologie de ultimă oră",
+        "Producție mecanizată",
+        "Situată lângă Toteng"
+      ]
+    },
+    {
+      "id": "ghaghoo-diamond-mine-economic-v2",
+      "description": "Prima mină de diamante subterană din Botswana, situată în rezervația Central Kalahari.",
+      "facts": [
+        "Operată de Gem Diamonds",
+        "Acces prin puț înclinat",
+        "Mediu de lucru izolat",
+        "Diamante de înaltă calitate"
+      ]
+    },
+    {
+      "id": "lerala-diamond-mine-economic-v2",
+      "description": "O mină de diamante situată în estul țării, cunoscută pentru conductele sale de kimberlit.",
+      "facts": [
+        "Cinci pipe de kimberlit",
+        "Lângă satul Lerala",
+        "Exploatare intermitentă",
+        "Resurse geologice variate"
+      ]
+    },
+    {
+      "id": "tati-nickel-mine-economic-v2",
+      "description": "O mină istorică de nichel situată în apropiere de Francistown, exploatând zăcăminte de sulfură.",
+      "facts": [
+        "Proiectul Phoenix",
+        "Zăcăminte de nichel și cupru",
+        "Procesare prin flotație",
+        "Importanță pentru nordul țării"
+      ]
+    },
+    {
+      "id": "damtshaa-diamond-mine-economic-v2",
+      "description": "O mină de diamante mai mică, gestionată ca parte a complexului minier Orapa.",
+      "facts": [
+        "Numele înseamnă 'apă de broască'",
+        "Deschisă în 2003",
+        "Patru pipe de kimberlit",
+        "Producție flexibilă"
+      ]
+    }
+  ]
+}

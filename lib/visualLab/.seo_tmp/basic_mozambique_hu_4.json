@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-river-nature-v2",
+      "description": "A folyó a száraz régiók vízforrása, gazdag növény- és állatvilággal. A folyó menti ártéri erdők kulcsfontosságúak az ökoszisztéma számára.",
+      "facts": ["Száraz régiók vízforrása", "Gazdag vadvilág", "Ártéri erdők", "Ökológiai szerep"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "Az óceánban található korallzátonyok és szigetek védelme a tengeri biodiverzitás megőrzésében kulcsfontosságú. A térség ritka tengeri élőlények otthona.",
+      "facts": ["Korallzátonyok", "Szigetvilág", "Tengeri biodiverzitás", "Ritka fajok"]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "description": "A természetes öböl gazdag mangroveképződményekkel rendelkezik, amelyek fontos menedéket jelentenek a tengeri fajoknak. A terület ökológiailag nagyon érzékeny.",
+      "facts": ["Természetes öböl", "Mangroveerdők", "Érzékeny ökoszisztéma", "Tengeri menedék"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "Az Indiai-óceáni szigetcsoport páratlan természeti kincsekkel rendelkezik, a korallzátonyoktól a trópusi növényzetig. A szigetek jelentős része védett.",
+      "facts": ["Indiai-óceáni szigetcsoport", "Korallzátonyok", "Trópusi növényzet", "Védett területek"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "A kiemelkedő hegytömbök mikroklimatikus élőhelyeket hoznak létre a környező szavannákban. Gazdag növényzete tudományos érdeklődésre tart számot.",
+      "facts": ["Hegytömbök", "Mikroklimatikus élőhelyek", "Gazdag növényzet", "Szavannai környezet"]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "description": "A folyó határolja az országot északon, változatos vízi és parti élővilágnak adva otthont. A folyó menti környezet érintetlen természetet mutat be.",
+      "facts": ["Északi határfolyó", "Változatos élővilág", "Érintetlen természet", "Folyó menti környezet"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "A sziget érintetlen tengerparti és erdős ökoszisztémája az Indiai-óceán élővilágát védi. Fontos fészkelőhely a part menti madarak számára.",
+      "facts": ["Érintetlen sziget", "Erdős ökoszisztéma", "Madarak fészkelőhelye", "Indiai-óceán"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "A tó környéke a vizes élőhelyekre jellemző gazdag fauna és flóra miatt fontos ökológiai pont. A területen sikeres védelmi intézkedések zajlanak.",
+      "facts": ["Édesvízi tó", "Gazdag fauna és flóra", "Vizes élőhely", "Védelmi intézkedések"]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "description": "A hegyvidéki terület különleges növénytársulásokkal rendelkezik, amelyek a környező vidékektől eltérnek. A terület tájképileg is kiemelkedő.",
+      "facts": ["Hegyvidéki terület", "Különleges növénytársulások", "Kiemelkedő tájkép", "Természeti környezet"]
+    },
+    {
+      "id": "buzi-river-nature-v2",
+      "description": "A folyó menti vizes területek fontos migrációs pontok a madárvilág számára. A folyó gazdagítja a környező mezőgazdasági területek termőképességét.",
+      "facts": ["Folyó menti vizes területek", "Madármigráció", "Ökológiai szerep", "Termőképesség"]
+    }
+  ]
+}

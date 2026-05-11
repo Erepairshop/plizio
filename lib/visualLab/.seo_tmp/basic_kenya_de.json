@@ -1,0 +1,307 @@
+{
+  "lang": "de",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "koobi-fora-history-v2",
+      "description": "Koobi Fora ist ein paläontologischer Ort in Kenias Geschichte. Ein bedeutender Fossilien-Fundort.",
+      "facts": ["Fossilien", "Paläontologie", "Menschheitsgeschichte", "Archäologischer Ort"]
+    },
+    {
+      "id": "lamu-old-town-history-v2",
+      "description": "Lamu Altstadt ist eine historische Swahili-Stadt in Kenia. Ein UNESCO-Weltkulturerbe.",
+      "facts": ["Swahili-Stadt", "Altstadt", "Weltkulturerbe", "Historische Stadt"]
+    },
+    {
+      "id": "vasco-da-gama-pillar-history-v2",
+      "description": "Die Vasco-da-Gama-Säule steht in Mombasa als Denkmal. Ein Erinnerungspunkt an portugiesische Seefahrer.",
+      "facts": ["Gedenkstätte", "Mombasa", "Portugiesisches Erbe", "Historisches Denkmal"]
+    },
+    {
+      "id": "jumba-la-mtwana-history-v2",
+      "description": "Jumba la Mtwana ist eine verlassene Swahili-Stadt in Kenia. Eine mittelalterliche Handelsstadt.",
+      "facts": ["Swahili-Stadt", "Historische Ruinen", "Handelsort", "Archäologischer Ort"]
+    },
+    {
+      "id": "takwa-ruins-history-v2",
+      "description": "Takwa-Ruinen sind eine verlassene Swahili-Stadt. Ein historisches Handelszentrum.",
+      "facts": ["Swahili-Stadt", "Inselstadt", "Historische Ruinen", "Mittelalterlicher Handel"]
+    },
+    {
+      "id": "kapenguria-museum-history-v2",
+      "description": "Das Kapenguria-Museum bewahrt lokale Geschichte. Ein Kulturzentrum in Nord-Kenia.",
+      "facts": ["Lokalmuseum", "Nord-Kenia", "Kulturelles Erbe", "Historisches Museum"]
+    },
+    {
+      "id": "karen-blixen-museum-history-v2",
+      "description": "Das Karen-Blixen-Museum ist in ihrem ehemaligen Haus in Nairobi. Gedenkstätte der englischen Schriftstellerin.",
+      "facts": ["Schriftstellermuseum", "Nairobi", "Karen Blixen", "Historisches Haus"]
+    },
+    {
+      "id": "mnarani-ruins-history-v2",
+      "description": "Mnarani-Ruinen sind Überreste einer Swahili-Stadt. Eine mittelalterliche Siedlung.",
+      "facts": ["Swahili-Stadt", "Historische Ruinen", "Küstenstadt", "Archäologischer Ort"]
+    },
+    {
+      "id": "pate-island-ruins-history-v2",
+      "description": "Pate-Insel-Ruinen enthalten Swahili-Strukturen. Ein historisches Handelszentrum.",
+      "facts": ["Swahili-Stadt", "Inselstadt", "Historische Ruinen", "Handelshafen"]
+    },
+    {
+      "id": "uhuru-gardens-history-v2",
+      "description": "Uhuru Gardens ist das Unabhängigkeitsdenkmal in Nairobi. Ein nationales historisches Symbol.",
+      "facts": ["Gedenkstätte", "Unabhängigkeit", "Nairobi", "Nationales Symbol"]
+    },
+    {
+      "id": "olorgesailie-history-v2",
+      "description": "Olorgesailie ist ein paläolithischer Ort in Kenia. Beweis früher menschlicher Besiedlung.",
+      "facts": ["Paläolithischer Ort", "Steinzeit", "Paläontologie", "Archäologischer Ort"]
+    },
+    {
+      "id": "kariandusi-history-v2",
+      "description": "Kariandusi ist ein Ausgrabungsort mit paläolithischen Artefakten. Ein Besiedlungsort der Steinzeit.",
+      "facts": ["Paläolithischer Ort", "Steinzeitwerkzeuge", "Artefakte", "Archäologischer Ort"]
+    },
+    {
+      "id": "hyrax-hill-history-v2",
+      "description": "Hyrax Hill ist ein Ausgrabungsort in der Nähe von Nakuru. Enthält prähistorische Artefakte.",
+      "facts": ["Prähistorischer Ort", "Felsdach", "Artefakte", "Archäologischer Ort"]
+    },
+    {
+      "id": "kenyatta-house-maralal-history-v2",
+      "description": "Das Kenyatta-Haus in Maralal erinnert an Kenias ersten Präsidenten. Eine historische Residenz.",
+      "facts": ["Präsidentenresidenz", "Maralal", "Historisches Haus", "Politische Gedenkstätte"]
+    },
+    {
+      "id": "rabai-museum-history-v2",
+      "description": "Das Rabai-Museum bewahrt das Gedächtnis der historischen Rabai-Gemeinschaft. Ein Kiswahili-Kulturort.",
+      "facts": ["Gemeinschaftsmuseum", "Rabai-Volk", "Kiswahili-Kultur", "Kulturelles Erbe"]
+    },
+    {
+      "id": "krapf-memorial-history-v2",
+      "description": "Das Krapf-Denkmal würdigt Johann Ludwig Krapf, einen deutschen Missionar. In der Nähe von Mombasa gelegen.",
+      "facts": ["Gedenkstätte", "Missionar", "Deutsches Erbe", "Mombasa"]
+    },
+    {
+      "id": "fort-ternan-history-v2",
+      "description": "Fort Ternan ist ein paläolithischer Ort in Kenia. Enthält Spuren früher menschlicher Besiedlung.",
+      "facts": ["Paläolithischer Ort", "Steinzeit", "Besiedlungsspuren", "Archäologischer Ort"]
+    },
+    {
+      "id": "italian-war-memorial-church-history-v2",
+      "description": "Die italienische Kriegs-Gedächtniskirche würdigt Soldaten der Weltkriege. Eine Gedächtniskirche in Nairobi.",
+      "facts": ["Gedächtniskirche", "Weltkrieg", "Militär-Gedenkstätte", "Religiöser Ort"]
+    },
+    {
+      "id": "lokitaung-gorge-history-v2",
+      "description": "Die Lokitaung-Schlucht ist ein paläontologischer Ort im Turkana-Gebiet. Enthält Überreste früher Menschen.",
+      "facts": ["Schlucht", "Paläontologie", "Fossilien", "Turkana-Region"]
+    },
+    {
+      "id": "wajir-fort-history-v2",
+      "description": "Das Wajir-Fort ist eine historische Befestigung in Nord-Kenia. Eine Struktur aus der Kolonialzeit.",
+      "facts": ["Fort", "Nord-Kenia", "Kolonialzeit", "Militärische Struktur"]
+    },
+    {
+      "id": "nandi-hills-history-v2",
+      "description": "Die Nandi-Hügel sind die Heimat des Nandi-Volkes. Ein historisches Kulturgebiet.",
+      "facts": ["Nandi-Volk", "Hügeliges Gelände", "Ethnisches Erbe", "Kultureller Ort"]
+    },
+    {
+      "id": "makupa-causeway-history-v2",
+      "description": "Der Makupa-Damm verbindet Mombasa mit der Nordinsel. Wichtige historische Infrastruktur.",
+      "facts": ["Damm", "Mombasa", "Infrastruktur", "Verkehrsroute"]
+    },
+    {
+      "id": "pwani-mosque-history-v2",
+      "description": "Die Pwani-Moschee ist eine bedeutende religiöse Struktur in Mombasa. Swahili-arabisches Architektur-Erbe.",
+      "facts": ["Moschee", "Religiöses Gebäude", "Arabisch-Swahili", "Mombasa"]
+    },
+    {
+      "id": "fort-smith-history-v2",
+      "description": "Das Fort Smith ist eine alte britische Befestigung in Kenia. Eine Struktur aus der Kolonialzeit.",
+      "facts": ["Britisches Fort", "Koloniales Erbe", "Historische Struktur", "Militärisches Vermächtnis"]
+    },
+    {
+      "id": "ishakani-ruins-history-v2",
+      "description": "Die Ishakani-Ruinen sind Überreste einer Swahili-Stadt. Eine mittelalterliche Siedlung.",
+      "facts": ["Swahili-Stadt", "Mittelalterliche Ruinen", "Historische Siedlung", "Archäologischer Ort"]
+    },
+    {
+      "id": "ke-kenyatta-international-convention-centre-landmarks-v2",
+      "description": "Das Kenyatta International Convention Centre ist ein Kongresszentrum in Nairobi. Ein modernes Wahrzeichen.",
+      "facts": ["Kongresszentrum", "Nairobi", "Kongressort", "Modernes Wahrzeichen"]
+    },
+    {
+      "id": "ke-uap-old-mutual-tower-landmarks-v2",
+      "description": "Das UAP Old Mutual Tower ist ein Hochhaus in Nairobi. Ein markanter Wolkenkratzer.",
+      "facts": ["Wolkenkratzer", "Nairobi", "Bürogebäude", "Stadtsilhouette"]
+    },
+    {
+      "id": "ke-nyayo-national-stadium-landmarks-v2",
+      "description": "Das Nyayo-Nationalstadion ist ein großes Sportzentrum in Nairobi. Ein modernes Wahrzeichen.",
+      "facts": ["Sportstadion", "Nairobi", "Sportanlage", "Modernes Wahrzeichen"]
+    },
+    {
+      "id": "ke-baps-shri-swaminarayan-mandir-landmarks-v2",
+      "description": "Der BAPS Shri Swaminarayan Mandir ist ein Hindu-Tempel in Nairobi. Ein religiöses Wahrzeichen.",
+      "facts": ["Hindu-Tempel", "Religiöser Ort", "Nairobi", "Kulturelles Wahrzeichen"]
+    },
+    {
+      "id": "ke-kenya-national-theatre-landmarks-v2",
+      "description": "Das Kenya National Theatre ist ein Kulturzentrum in Nairobi. Ein wichtiger Veranstaltungsort.",
+      "facts": ["Theater", "Kulturzentrum", "Nairobi", "Kunstort"]
+    },
+    {
+      "id": "ke-nyali-bridge-landmarks-v2",
+      "description": "Die Nyali-Brücke verbindet Mombasa und Nyali. Eine wichtige Verkehrsinfrastruktur.",
+      "facts": ["Brücke", "Mombasa", "Infrastruktur", "Verkehrsverbindung"]
+    },
+    {
+      "id": "ke-mandhry-mosque-landmarks-v2",
+      "description": "Die Mandhry-Moschee ist ein bedeutendes religiöses Wahrzeichen in Mombasa. Ein islamisches Erbe.",
+      "facts": ["Moschee", "Religiöses Wahrzeichen", "Mombasa", "Islamisches Erbe"]
+    },
+    {
+      "id": "ke-nairobi-terminus-sgr-landmarks-v2",
+      "description": "Der Nairobi-Bahnhof ist der Hauptbahnhof der Standardspur-Eisenbahn. Ein Verkehrswahrzeichen.",
+      "facts": ["Bahnhof", "Eisenbahn", "Verkehrsanlage", "Nairobi"]
+    },
+    {
+      "id": "ke-mombasa-terminus-sgr-landmarks-v2",
+      "description": "Der Mombasa-Bahnhof ist der Endhalt der Standardspur-Eisenbahn. Ein Hafenverkehrswahrzeichen.",
+      "facts": ["Bahnhof", "Eisenbahn", "Hafenverkehr", "Mombasa"]
+    },
+    {
+      "id": "ke-cbk-pension-tower-landmarks-v2",
+      "description": "Der CBK-Rententurm ist ein Hochhaus in Nairobi. Ein Wolkenkratzer mit Büros.",
+      "facts": ["Wolkenkratzer", "Nairobi", "Bürogebäude", "Stadtarchitektur"]
+    },
+    {
+      "id": "ke-dedan-kimathi-statue-landmarks-v2",
+      "description": "Die Dedan-Kimathi-Statue ist ein Denkmal in Nairobi. Ein Ehrenmal für den Freiheitskämpfer.",
+      "facts": ["Statue", "Denkmal", "Freiheitskämpfer", "Nairobi"]
+    },
+    {
+      "id": "lake-victoria-nature-v2",
+      "description": "Der Viktoria-See ist Afrikas größter See und teilt sich zwischen Ländern. Ein wichtiges Gewässer-Ökosystem.",
+      "facts": ["See", "Afrikas größter", "Grenzgewässer", "Ökosystem"]
+    },
+    {
+      "id": "tsavo-forest-nature-v2",
+      "description": "Der Tsavo-Wald ist ein großes Wald-Ökosystem in Kenia. Ein Biodiversitäts-Hotspot.",
+      "facts": ["Wald", "Ökosystem", "Wildtier-Lebensraum", "Schutzgebiet"]
+    },
+    {
+      "id": "lake-bogoria-nature-v2",
+      "description": "Der Bogoria-See in Kenia ist für seine heißen Thermalquellen bekannt. Ein natürliches Ökosystem mit Flamingos.",
+      "facts": ["See", "Thermalquellen", "Flamingos", "Naturreservat"]
+    },
+    {
+      "id": "cherangani-hills-nature-v2",
+      "description": "Die Cherangani-Hügel in Kenia sind ein Wald- und Berg-Ökosystem-Zentrum. Ein Biodiversitäts-Hotspot.",
+      "facts": ["Hügel", "Wald-Biotop", "Biodiversität", "Berg-Ökosystem"]
+    },
+    {
+      "id": "lake-naivasha-nature-v2",
+      "description": "Der Naivasha-See ist ein Süßwassersee im Rift Valley Kenias. Ein wichtiges Feuchtgebiet-Ökosystem.",
+      "facts": ["See", "Süßwasser", "Rift Valley", "Feuchtgebiet-Ökosystem"]
+    },
+    {
+      "id": "mt-longonot-nature-v2",
+      "description": "Der Mount Longonot ist ein Vulkan im Rift Valley Kenias. Ein erloschener Vulkan mit Kratermerkmalen.",
+      "facts": ["Vulkan", "Rift Valley", "Krater", "Naturgebilde"]
+    },
+    {
+      "id": "lake-ol-oropil-nature-v2",
+      "description": "Der Ol Oropil-See ist ein Süßwassersee in Kenia. Ein natürliches Gewässer und Ökosystem.",
+      "facts": ["See", "Süßwasser", "Naturgewässer", "Ökosystem"]
+    },
+    {
+      "id": "turkwel-river-nature-v2",
+      "description": "Der Turkwel-Fluss ist ein wichtiger Wasserlauf in Nord-Kenia. Ein natürliches Merkmal des Landes.",
+      "facts": ["Fluss", "Wasserlauf", "Nord-Kenia", "Naturmerkmal"]
+    },
+    {
+      "id": "lake-ole-nado-nature-v2",
+      "description": "Der Olé Nado-See ist ein Süßwassersee in Kenia. Ein natürliches Gewässer in der Landschaft.",
+      "facts": ["See", "Süßwasser", "Naturgewässer", "Landschaftsmerkmal"]
+    },
+    {
+      "id": "mt-satima-nature-v2",
+      "description": "Der Mount Satima ist ein Berg in Kenia. Ein natürlicher Gipfel mit vielfältigen Ökosystemen.",
+      "facts": ["Berg", "Gipfel", "Diverse Ökosysteme", "Naturgebilde"]
+    },
+    {
+      "id": "mount-kenya-massif-relief-v2",
+      "description": "Das Mount-Kenya-Massiv ist Afrikas zweithöchster Berg. Ein bedeutendes Gebirgs-Naturgebilde.",
+      "facts": ["Bergmassiv", "Afrika zweithöchst", "Gipfel", "Berggebilde"]
+    },
+    {
+      "id": "aberdare-range-relief-v2",
+      "description": "Die Aberdare-Bergkette in Kenia ist vulkanischen Ursprungs. Hochgebirges und bewaldetes Gelände.",
+      "facts": ["Bergkette", "Vulkanischer Ursprung", "Hochgebirge", "Bewaldete Gegend"]
+    },
+    {
+      "id": "cherangani-hills-relief-v2",
+      "description": "Die Cherangani-Hügel sind Teil von West-Kenias Bergrücken. Erodierte und unregelmäßige Topographie.",
+      "facts": ["Bergrücken", "West-Kenia", "Erodierte Oberfläche", "Hochgelände"]
+    },
+    {
+      "id": "ndoto-mountains-relief-v2",
+      "description": "Die Ndoto-Berge sind eine Bergkette in Nord-Kenia. Ein erodiertes vulkanisches Gebirge.",
+      "facts": ["Bergkette", "Nord-Kenia", "Vulkanisch erodiert", "Berggelände"]
+    },
+    {
+      "id": "mathews-range-relief-v2",
+      "description": "Die Mathews-Bergkette liegt in Nord-Kenia. Vulkanischer Ursprung und bewaldetes Gelände.",
+      "facts": ["Bergkette", "Nord-Kenia", "Vulkanisch", "Bewaldete Gegend"]
+    },
+    {
+      "id": "mount-nyiru-relief-v2",
+      "description": "Der Mount Nyiru ist einer der Gipfel in Nord-Kenias Bergen. Ein hochragender vulkanischer Berg.",
+      "facts": ["Vulkanischer Berg", "Nord-Kenia", "Hoher Gipfel", "Geologisches Gebilde"]
+    },
+    {
+      "id": "mount-longonot-relief-v2",
+      "description": "Der Mount Longonot liegt im Rift Valley Kenias. Ein erloschener Vulkan mit breitem Krater.",
+      "facts": ["Vulkan", "Rift Valley", "Erloschener Krater", "Geologisches Merkmal"]
+    },
+    {
+      "id": "tana-delta-relief-v2",
+      "description": "Das Tana-Delta ist, wo Kenias Fluss zum Indischen Ozean mündet. Sedimentablagerungen und Feuchtgebiete.",
+      "facts": ["Delta", "Flussmündung", "Feuchtgebiete", "Küstenregion"]
+    },
+    {
+      "id": "chalbi-desert-relief-v2",
+      "description": "Die Chalbi-Wüste erstreckt sich über Nord-Kenia. Eine Sand- und Lockgestein-Halbwüste.",
+      "facts": ["Wüste", "Nord-Kenia", "Sandiges Gelände", "Halbtrockenes Klima"]
+    },
+    {
+      "id": "susswa-volcano-relief-v2",
+      "description": "Der Susswa-Vulkan liegt im Rift Valley. Ein junges vulkanisches Gebilde mit Lavafeldern.",
+      "facts": ["Vulkan", "Rift Valley", "Lavafelder", "Herausragender Krater"]
+    },
+    {
+      "id": "kinangop-plateau-relief-v2",
+      "description": "Das Kinangop-Plateau liegt neben der Aberdare-Bergkette. Ein hohes und kühles Gelände.",
+      "facts": ["Plateau", "Aberdare-Gebiet", "Hochgelände", "Kühles Klima"]
+    },
+    {
+      "id": "ndere-island-relief-v2",
+      "description": "Die Ndere-Insel liegt in einem See in Kenia. Eine kleine Insel und Naturreservat.",
+      "facts": ["Insel", "Seeinneres", "Naturreservat", "Kleines Gebiet"]
+    },
+    {
+      "id": "kacheliba-plains-relief-v2",
+      "description": "Die Kacheliba-Ebenen erstrecken sich über Nord-West-Kenia. Offene Savanne und Weideland.",
+      "facts": ["Ebenen", "Nord-West-Kenia", "Savanne", "Weideland"]
+    }
+  ]
+}

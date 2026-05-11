@@ -1,0 +1,86 @@
+{
+  "lang": "ro",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sodwana-bay-life-v2",
+      "description": "Un golf renumit pentru biodiversitatea marină excepțională și recifele de corali. Este un loc preferat pentru scufundări în apele Oceanului Indian.",
+      "facts": ["Situat în parcul iSimangaliso", "Biodiversitate marină vastă", "Ape tropicale calde", "Zona de conservare marină"]
+    },
+    {
+      "id": "mountain-zebra-national-park-life-v2",
+      "description": "Rezervație naturală înființată pentru a proteja populația de zebre de munte din Cape. Parcul oferă peisaje montane spectaculoase și oportunități de observare a faunei.",
+      "facts": ["Înființat în 1937", "Protejează zebra de munte", "Situat în Eastern Cape", "Relief muntos variat"]
+    },
+    {
+      "id": "kirstenbosch-botanical-life-v2",
+      "description": "Grădină botanică de renume mondial situată pe versanții Muntelui Masă. Aceasta găzduiește o varietate imensă de plante endemice din Africa de Sud.",
+      "facts": ["Fondată în 1913", "Patrimoniul Mondial UNESCO", "Poalele Muntelui Masă", "Flora fynbos specifică"]
+    },
+    {
+      "id": "augurabies-falls-life-v2",
+      "description": "Cascadă spectaculoasă pe râul Orange, situată într-un peisaj arid. Numele său provine din limba khoikhoi și înseamnă „locul zgomotelor mari”.",
+      "facts": ["Cascadă pe râul Orange", "Parcul Național Augrabies", "Canion de granit adânc", "Peisaj semi-deșertic"]
+    },
+    {
+      "id": "crocodile-bridge-life-v2",
+      "description": "Punct de intrare popular în Parcul Național Kruger, cunoscut pentru observarea facilă a crocodililor și a hipopotamilor.",
+      "facts": ["Situat în sudul Kruger", "Poartă de acces majoră", "Aproape de râul Crocodile", "Faună sălbatică bogată"]
+    },
+    {
+      "id": "cape-point-nature-life-v2",
+      "description": "Rezervație naturală spectaculoasă situată la capătul sudic al Peninsulei Cape. Zona este celebră pentru stâncile dramatice și biodiversitatea diversă.",
+      "facts": ["Rezervație naturală protejată", "Stânci oceanice abrupte", "Punct geografic sudic", "Flora de tip fynbos"]
+    },
+    {
+      "id": "kalahari-wildlife-life-v2",
+      "description": "Regiune vastă de savană semi-aridă care susține o viață sălbatică rezistentă, inclusiv lei și antilope adaptate la climatul uscat.",
+      "facts": ["Savană semi-aridă", "Populată de mari prădători", "Adaptări la mediu uscat", "Ecosistem vast"]
+    },
+    {
+      "id": "sugar-cane-fields-agriculture-life-v2",
+      "description": "Zone agricole extinse dedicate cultivării trestiei de zahăr, esențiale pentru economia provinciei KwaZulu-Natal.",
+      "facts": ["Cultivare intensivă", "Zona KwaZulu-Natal", "Industrie agricolă majoră", "Climat subtropical"]
+    },
+    {
+      "id": "eagle-encounters-life-v2",
+      "description": "Centru de reabilitare a păsărilor de pradă dedicat conservării și educației ecologice în zona Cape Town.",
+      "facts": ["Centru de reabilitare", "Educație ecologică", "Păsări de pradă diverse", "Zona Stellenbosch"]
+    },
+    {
+      "id": "monkey-land-life-v2",
+      "description": "Sanctuar unic pentru primate, unde animalele trăiesc în libertate într-o pădure indigenă restaurată.",
+      "facts": ["Sanctuar de primate", "Pădure indigenă", "Animale libere", "Eforturi de conservare"]
+    },
+    {
+      "id": "bird-of-prey-life-v2",
+      "description": "Centru specializat în protejarea și observarea speciilor de păsări de pradă indigene. Oferă programe educaționale pentru public.",
+      "facts": ["Protecția speciilor", "Educație publică", "Păsări de pradă", "Centru de cercetare"]
+    },
+    {
+      "id": "aquila-safari-life-v2",
+      "description": "Rezervație privată de vânătoare fotografică situată aproape de Cape Town, oferind experiențe de safari cu „Cei Cinci Mari”.",
+      "facts": ["Rezervație privată", "Experiență safari", "Cei Cinci Mari", "Aproape de Western Cape"]
+    },
+    {
+      "id": "botanical-garden-jhb-life-v2",
+      "description": "Grădină botanică importantă din Johannesburg, care conservă specii de plante din diverse regiuni ale Africii de Sud.",
+      "facts": ["Situat în Johannesburg", "Grădină botanică", "Conservarea plantelor", "Spațiu verde urban"]
+    },
+    {
+      "id": "croc-city-life-v2",
+      "description": "Fermă și centru de conservare dedicat crocodililor, oferind informații despre aceste reptile și habitatul lor.",
+      "facts": ["Centru de crocodili", "Educație despre reptile", "Conservare controlată", "Zona Johannesburg"]
+    },
+    {
+      "id": "cheetah-sanctuary-life-v2",
+      "description": "Sanctuar dedicat protejării și reabilitării ghepardului, o specie vulnerabilă în sălbăticie.",
+      "facts": ["Protecția ghepardului", "Sanctuar de animale", "Eforturi de conservare", "Educație ecologică"]
+    }
+  ]
+}

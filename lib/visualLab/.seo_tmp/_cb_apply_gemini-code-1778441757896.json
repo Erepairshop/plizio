@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGeorgiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-didgori-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Didgori-Monument erinnert an die Schlacht von Didgori im Jahr 1121, die als bedeutendster militärischer Sieg in der Geschichte Georgiens gilt. Geografisch liegt die Gedenkstätte auf dem Didgori-Feld im Trialeti-Gebirge, etwa 40 Kilometer westlich von Tiflis. In dieser Schlacht besiegte das georgische Heer unter König David dem Erbauer eine zahlenmäßig weit überlegene Koalition seldschukischer Streitkräfte. Dieser Sieg markierte den Beginn des Goldenen Zeitalters Georgiens und führte zur Befreiung von Tiflis nach 400 Jahren arabischer und muslimischer Herrschaft. Das Denkmal selbst wurde in den 1990er Jahren errichtet und ist ein beeindruckendes Beispiel moderner georgischer Monumentalkunst. Es besteht aus einer weitläufigen Anlage mit riesigen, in den Boden gerammten Schwertern und monumentalen Steinskulpturen, die Krieger, Könige und christliche Symbole darstellen. Die technische Umsetzung des Komplexes nutzt das natürliche Relief der Hochebene, um eine Atmosphäre der Unbezwingbarkeit zu schaffen. Ökonomisch ist der Ort heute ein wichtiges Ziel für den patriotischen Tourismus und Schauplatz jährlicher Gedenkfeiern am 12. August, dem Tag des 'Didgoroba'. Die Anlage dient nicht nur als historisches Mahnmal, sondern als Symbol für die nationale Souveränität und den militärischen Ethos des georgischen Volkes.",
+        "hu": "A Didgori-emlékmű az 1121-es didgori csatának állít emléket, amelyet a grúz történelem legjelentősebb katonai győzelmeként tartanak számon. Földrajzilag az emlékhely a Trialeti-hegységben, a Didgori-mezőn található, mintegy 40 kilométerre nyugatra Tbiliszitől. Ebben az ütközetben az Építő Dávid király vezette grúz sereg döntő vereséget mért a számbeli fölényben lévő szeldzsuk török koalícióra. Ez a diadal nyitotta meg Grúzia „aranykorát”, és lehetővé tette Tbiliszi felszabadítását a 400 éves arab és muszlim uralom alól. Magát az emlékművet az 1990-es évek elején emelték, és a modern grúz monumentális szobrászat egyik legkiemelkedőbb alkotása. A komplexum hatalmas, földbe szúrt vaskos kardokból és monumentális kőszobrokból áll, amelyek harcosokat, királyokat és keresztény szimbólumokat ábrázolnak. Az építmény technikai megoldásai a fennsík természetes domborzatát használják ki, hogy megteremtsék a legyőzhetetlenség atmoszféráját. Gazdaságilag a helyszín a nemzeti identitást erősítő turizmus fontos célpontja, és minden év augusztus 12-én itt rendezik meg a „Didgoroba” ünnepséget. Az emlékmű nem csupán történelmi mementó, hanem a grúz állami szuverenitás és a nemzeti összefogás örök jelképe.",
+        "ro": "Monumentul Didgori comemorează Bătălia de la Didgori din anul 1121, considerată cea mai importantă victorie militară din istoria Georgiei. Geografic, situl memorial este amplasat pe câmpia Didgori din Munții Trialeti, la aproximativ 40 de kilometri vest de Tbilisi. În această confruntare, armata georgiană condusă de regele David Constructorul a învins o coaliție a forțelor selgiucide mult superioară numeric. Această victorie a marcat începutul Epocii de Aur a Georgiei și a dus la eliberarea orașului Tbilisi după 400 de ani de dominație arabă și musulmană. Monumentul a fost ridicat la începutul anilor 1990 și reprezintă un exemplu impresionant de artă monumentală georgiană modernă. Ansamblul constă dintr-o instalație vastă de săbii uriașe înfipte în pământ și sculpturi masive din piatră care înfățișează războinici, regi și simboluri creștine. Din punct de vedere tehnic, complexul utilizează relieful natural al platoului înalt pentru a crea o atmosferă de invincibilitate. Economic, locația este o destinație majoră pentru turismul patriotic și locul de desfășurare a sărbătorii anuale „Didgoroba” pe 12 august. Ansamblul nu este doar un memorial istoric, ci un simbol al suveranității naționale și al rezilienței poporului georgian în fața invaziilor străine.",
+        "en": "The Didgori Monument commemorates the Battle of Didgori in 1121, widely regarded as the most significant military victory in Georgian history. Geographically, the memorial is located on the Didgori Field within the Trialeti Range, approximately 40 kilometers west of Tbilisi. In this pivotal conflict, the Georgian army led by King David the Builder defeated a vastly superior coalition of Great Seljuk forces. This triumph initiated Georgia's Golden Age and facilitated the liberation of Tbilisi after 400 years of Arab and Muslim rule. The monument itself was constructed in the early 1990s and stands as a prime example of modern Georgian monumental art. The complex features massive iron swords thrust into the earth and monumental stone sculptures depicting warriors, kings, and Christian iconography. Technically, the installation utilizes the natural topography of the high plateau to create an atmosphere of permanence and strength. Economically, the site serves as a major destination for heritage tourism and hosts the annual 'Didgoroba' national celebrations every August 12th. The monument functions not only as a historical marker but as an enduring symbol of national sovereignty and the martial legacy of the Georgian people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erinnert an den 'Wunderbaren Sieg' über die Seldschuken im Jahr 1121.",
+          "Die Schlacht sicherte die Unabhängigkeit Georgiens für Jahrhunderte.",
+          "Das Monument besteht aus dutzenden stilisierten Riesenschwertern.",
+          "Gelegen in den strategisch wichtigen Trialeti-Bergen.",
+          "Entworfen vom Bildhauer Merab Berdzenishvili.",
+          "Schauplatz des nationalen Feiertags 'Didgoroba' am 12. August."
+        ],
+        "hu": [
+          "Az 1121-es, seldzsukok feletti „csodálatos győzelem” emlékhelye.",
+          "A csata biztosította Grúzia függetlenségét évszázadokra.",
+          "Az emlékmű tucatnyi stilizált, óriási vaskardból áll.",
+          "A stratégiai jelentőségű Trialeti-hegység egyik magaslatán fekszik.",
+          "Merab Berdzenisvili szobrászművész alkotása.",
+          "Minden év augusztus 12-én itt tartják a Didgoroba nemzeti ünnepet."
+        ],
+        "ro": [
+          "Comemorează „Victoria Miraculoasă” împotriva selgiucizilor din 1121.",
+          "Bătălia a permis regelui David Constructorul să reunifice țara.",
+          "Monumentul include zeci de săbii stilizate de dimensiuni colosale.",
+          "Situat pe un platou înalt în Munții Trialeti, la peste 1600 m altitudine.",
+          "Realizat de sculptorul georgian Merab Berdzenishvili.",
+          "Locul central de desfășurare a festivităților naționale pe 12 august."
+        ],
+        "en": [
+          "Commemorates the 'Miraculous Victory' over the Seljuks in 1121.",
+          "The battle secured Georgian independence and the recapture of Tbilisi.",
+          "Features a vast arrangement of stylized giant swords and stone figures.",
+          "Located in the Trialeti Mountains at a strategic high-altitude pass.",
+          "Designed by the prominent Georgian sculptor Merab Berdzenishvili.",
+          "The site of the 'Didgoroba' festival held annually on August 12th."
+        ]
+      }
+    },
+    {
+      "id": "ge-kartlis-deda-history-v2",
+      "descriptionAdvanced": {
+        "de": "Kartlis Deda, die 'Mutter Georgiens', ist eine monumentale Statue, die auf dem Sololaki-Hügel über Tiflis thront. Geografisch bildet sie zusammen mit der Narikala-Festung die Silhouette der georgischen Hauptstadt. Die 20 Meter hohe Statue wurde 1958 anlässlich des 1500-jährigen Bestehens von Tiflis errichtet. Entworfen vom Bildhauer Elguja Amashukeli, symbolisiert die Figur den georgischen Nationalcharakter: In ihrer linken Hand hält sie eine Schale Wein für Freunde und Gäste, in ihrer rechten Hand ein Schwert zur Verteidigung gegen Feinde. Historisch spiegelt die Statue die Widerstandsfähigkeit und Gastfreundschaft des Landes wider. Ursprünglich wurde die Statue aus Holz gefertigt und 1963 durch eine Aluminiumkonstruktion ersetzt. In den 1990er Jahren erhielt sie ihr heutiges modernes Aussehen. Ökonomisch ist Kartlis Deda eines der am meisten besuchten Ziele für Stadttouristen und ein wichtiger Orientierungspunkt. Technisch ist die Statue eine Meisterleistung der Metallbearbeitung, wobei die glänzende Aluminiumoberfläche bei Nacht spektakulär beleuchtet wird. Der Ort bietet einen der besten Panoramablicke über die Altstadt und den Kura-Fluss und bleibt ein unverzichtbares Symbol der georgischen Identität.",
+        "hu": "Kartlis Deda, azaz „Grúzia anyja”, egy monumentális szobor, amely a Tbiliszi feletti Szololaki-dombon magasodik. Földrajzilag a Narikala-erőddel együtt alkotja a grúz főváros jellegzetes sziluettjét. A 20 méter magas szobrot 1958-ban, Tbiliszi fennállásának 1500. évfordulójára emelték. Elguja Amasuskeli szobrászművész alkotása a grúz nemzeti karaktert jelképezi: bal kezében egy tál bort tart a barátoknak és vendégeknek, jobb kezében pedig egy kardot az ellenség elleni védekezésül. Történelmileg a szobor az ország ellenálló képességét és vendégszeretetét tükrözi. Eredetileg fából készült, majd 1963-ban alumínium szerkezetre cserélték, végleges formáját pedig az 1990-es években kapta meg. Gazdaságilag Kartlis Deda a városi turizmus egyik leglátogatottabb célpontja és fontos tájékozódási pont. Technikai szempontból a szobor a fémmegmunkálás mesterműve, amelynek csillogó alumínium felületét éjszaka látványosan kivilágítják. A helyszínről nyílik az egyik legszebb panoráma az óvárosra és a Kura-folyóra, és a grúz identitás megkerülhetetlen szimbóluma marad.",
+        "ro": "Kartlis Deda, sau „Mama Georgiei”, este o statuie monumentală situată pe dealul Sololaki, deasupra capitalei Tbilisi. Din punct de vedere geografic, aceasta formează, împreună cu cetatea Narikala, silueta inconfundabilă a orașului. Statuia, înaltă de 20 de metri, a fost ridicată în anul 1958 pentru a marca cea de-a 1500-a aniversare a orașului Tbilisi. Proiectată de sculptorul Elguja Amashukeli, figura simbolizează caracterul național georgian: în mâna stângă ține o cupă cu vin pentru prieteni, iar în mâna dreaptă o sabie pentru dușmani. Istoric, monumentul reflectă dualitatea dintre ospitalitatea legendară și spiritul războinic al poporului. Inițial construită din lemn, statuia a fost înlocuită în 1963 cu o structură din aluminiu, suferind modificări estetice în anii '90 pentru a căpăta aspectul actual. Economic, Kartlis Deda este unul dintre cele mai fotografiate obiective turistice și un punct de referință urban crucial. Din punct de vedere tehnic, monumentul impresionează prin execuția în metal și prin sistemul de iluminat nocturn care o face vizibilă din orice punct al centrului vechi. Locația oferă o panoramă vastă asupra râului Kura, fiind un loc central pentru identitatea culturală georgiană.",
+        "en": "Kartlis Deda, or 'Mother of Georgia,' is a monumental statue perched on the Sololaki Hill overlooking Tbilisi. Geographically, it defines the city's skyline alongside the Narikala Fortress. The 20-meter-tall statue was erected in 1958 to commemorate the 1500th anniversary of the founding of Tbilisi. Designed by sculptor Elguja Amashukeli, the figure symbolizes the dual nature of the Georgian national character: in her left hand, she holds a bowl of wine to welcome friends and guests, and in her right, a sword to defend against enemies. Historically, the statue represents the nation's resilience and celebrated hospitality. Originally made of wood, it was replaced by an aluminum structure in 1963 and underwent further updates in the 1990s to reach its current appearance. Economically, Kartlis Deda is one of the most visited tourist landmarks in the capital and serves as a major urban orientation point. Technically, the statue is a feat of metalwork, with its reflective aluminum surface illuminated spectacularly at night. The site offers one of the best panoramic views of the Old Town and the Mtkvari River, remaining an indispensable symbol of Georgian identity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eingeweiht 1958 zum 1500. Jubiläum von Tiflis.",
+          "20 Meter hohe Statue aus reinem Aluminium.",
+          "Symbolisiert Gastfreundschaft (Wein) und Verteidigung (Schwert).",
+          "Entworfen vom preisgekrönten Bildhauer Elguja Amashukeli.",
+          "Befindet sich auf dem Sololaki-Kamm nahe der Narikala-Festung.",
+          "Wurde 1963 von Holz auf Aluminium umgerüstet."
+        ],
+        "hu": [
+          "1958-ban adták át Tbiliszi alapításának 1500. évfordulójára.",
+          "20 méter magas, tiszta alumíniumból készült monumentális alkotás.",
+          "A vendégszeretetet (bor) és a védelmet (kard) jelképezi egyszerre.",
+          "Elguja Amasuskeli szobrászművész tervezte.",
+          "A Szololaki-gerincen található, a Narikala-erőd közvetlen közelében.",
+          "1963-ban váltották fel az eredeti faszerkezetet alumíniummal."
+        ],
+        "ro": [
+          "Inaugurată în 1958 pentru a celebra 1500 de ani de la atestarea orașului.",
+          "Structură monumentală din aluminiu cu o înălțime de 20 de metri.",
+          "Reprezentare simbolică a ospitalității și a spiritului defensiv național.",
+          "Opera celebrului sculptor georgian Elguja Amashukeli.",
+          "Situată strategic pe coasta muntelui Sololaki, oferind vizibilitate maximă.",
+          "Statuia a fost renovată și modernizată integral în anul 1997."
+        ],
+        "en": [
+          "Unveiled in 1958 for the 1500th anniversary of Tbilisi.",
+          "A 20-meter-tall monumental figure constructed from aluminum.",
+          "Represents the Georgian spirit of hospitality (wine) and defense (sword).",
+          "Designed by the renowned sculptor Elguja Amashukeli.",
+          "Perched on the Sololaki Ridge overlooking the historic city center.",
+          "The original wooden statue was replaced with aluminum in 1963."
+        ]
+      }
+    },
+    {
+      "id": "ge-alaverdi-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Alaverdi-Kloster in der Region Kachetien ist eines der architektonisch bedeutendsten und spirituell einflussreichsten religiösen Zentren Georgiens. Geografisch liegt es in der fruchtbaren Alasani-Ebene, umgeben von schneebedeckten Gipfeln des Großen Kaukasus. Die heutige Kathedrale des Heiligen Georg wurde im 11. Jahrhundert (ca. 1010–1025) durch König Kwirike III. errichtet und war bis zum Bau der Sameba-Kathedrale in Tiflis das höchste Kirchengebäude des Landes. Historisch geht das Kloster auf den Heiligen Joseph von Alaverdi zurück, einen der 13 Syrischen Väter, der den Ort im 6. Jahrhundert gründete. Alaverdi ist technisch ein Meisterwerk der georgischen Renaissance-Architektur, bekannt für seine schlanken Proportionen und die harmonische Integration in die Landschaft. Ökonomisch ist das Kloster seit Jahrhunderten ein Zentrum der Weinkultur; die Mönche betreiben bis heute einen der ältesten Weinkeller (Marani) der Welt und produzieren Wein nach der traditionellen Qvevri-Methode. Das Kloster ist von einer massiven Verteidigungsmauer umgeben, die es während der zahlreichen Einfälle der Perser und Lezgier schützte. Heute ist Alaverdi ein Symbol für die ununterbrochene Tradition des georgischen Mönchtums und der Verbindung zwischen Glaube und Landwirtschaft.",
+        "hu": "Az Alaverdi-kolostor Kaheti régióban Grúzia egyik legjelentősebb építészeti és spirituális vallási központja. Földrajzilag a termékeny Alazani-síkságon fekszik, a Nagy-Kaukázus hófödte csúcsai által övezve. A mai Szent György-székesegyházat a 11. században (kb. 1010–1025) III. Kvirike király emeltette, és a tbiliszi Szameba-székesegyház felépüléséig ez volt az ország legmagasabb templomépülete. Történelmileg a kolostor alapítása Szent Alaverdi Józsefhez, a 13 szír atya egyikéhez köthető, aki a 6. században hozta létre a közösséget. Alaverdi technikailag a grúz reneszánsz építészet remekműve, karcsú arányaival és a tájba való harmonikus illeszkedésével tűnik ki. Gazdaságilag a kolostor évszázadok óta a borkultúra központja; a szerzetesek ma is üzemeltetik a világ egyik legrégebbi borospincéjét (marani), ahol hagyományos kvevri-módszerrel készítenek bort. A kolostort masszív védőfal veszi körül, amely megvédte a perzsa és lezg betörések idején. Ma Alaverdi a grúz szerzetesség folytonosságának, valamint a hit és a földművelés szoros kapcsolatának szimbóluma.",
+        "ro": "Mănăstirea Alaverdi din regiunea Kakheti este unul dintre cele mai importante centre religioase ale Georgiei, remarcabil atât prin arhitectură, cât și prin influența sa spirituală. Geografic, este situată în fertila câmpie Alazani, fiind flancată de vârfurile înzăpezite ale Caucazului Mare. Catedrala actuală a Sfântului Gheorghe a fost ridicată în secolul al XI-lea (cca. 1010–1025) de regele Kvirike al III-lea, rămânând cea mai înaltă biserică din țară până la construcția catedralei Sameba din Tbilisi în secolul XXI. Istoric, mănăstirea a fost fondată de Sfântul Iosif din Alaverdi, unul dintre cei 13 părinți sirieni, în secolul al VI-lea. Din punct de vedere tehnic, Alaverdi este o capodoperă a arhitecturii georgiene medievale, renumită pentru proporțiile sale svelte și integrarea armonioasă în peisaj. Economic, mănăstirea reprezintă un centru istoric al viticulturii; călugării administrează una dintre cele mai vechi crame (marani) din lume, producând vin prin metoda tradițională în qvevri. Complexul este înconjurat de ziduri de apărare masive care l-au protejat în timpul invaziilor persane. Astăzi, Alaverdi simbolizează persistența monahismului georgian și legătura sacră dintre credință și tradiția agricolă a regiunii.",
+        "en": "Alaverdi Monastery in the Kakheti region is one of Georgia's most architecturally significant and spiritually influential religious centers. Geographically, it is located in the fertile Alazani Valley, framed by the snow-capped peaks of the Greater Caucasus. The current Cathedral of St. George was built in the 11th century (c. 1010–1025) by King Kvirike III and remained the tallest church in the country until the completion of the Sameba Cathedral in Tbilisi. Historically, the monastery's origins date back to Saint Joseph of Alaverdi, one of the Thirteen Assyrian Fathers, who established the site in the 6th century. Technically, Alaverdi is a masterpiece of medieval Georgian architecture, known for its soaring proportions and harmonic integration into the landscape. Economically, the monastery has been a hub for viticulture for centuries; the monks continue to operate one of the oldest wine cellars (marani) in the world, producing wine using the ancient qvevri method. The monastery is enclosed by a massive defensive wall that protected it during frequent Persian and Lezgian raids. Today, Alaverdi stands as a symbol of the continuous tradition of Georgian monasticism and the deep link between faith and agriculture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchste mittelalterliche Kathedrale Georgiens (über 50 Meter).",
+          "Gegründet im 6. Jahrhundert von Joseph von Alaverdi.",
+          "Besitzt einen der ältesten aktiven Weinkeller der Welt.",
+          "Wichtiger Standort für die Produktion von Wein in Qvevris.",
+          "Umfasst ein Ensemble aus Kathedrale, Palastruinen und Wehranlagen.",
+          "Zentrum des religiösen Festes 'Alaverdoba' im September."
+        ],
+        "hu": [
+          "Grúzia legmagasabb középkori székesegyháza (több mint 50 méter).",
+          "A 6. században alapította Alaverdi József, a szír atyák egyike.",
+          "A világ egyik legrégebbi, ma is működő borospincéjével rendelkezik.",
+          "A hagyományos kvevri-bortermelés egyik legfontosabb központja.",
+          "A komplexum a katedrálisból, palotaromokból és védművekből áll.",
+          "Szeptemberben itt rendezik meg az Alaverdoba vallási ünnepet."
+        ],
+        "ro": [
+          "Cea mai înaltă catedrală medievală din Georgia (peste 50 de metri).",
+          "Fondată în secolul VI de Iosif din Alaverdi, părinte sirian.",
+          "Găzduiește o cramă istorică activă de peste un mileniu.",
+          "Punct central pentru promovarea vinului georgian produs în qvevri.",
+          "Zidurile de incintă au o lungime de sute de metri și turnuri de veghe.",
+          "Gazda festivalului agricol și religios 'Alaverdoba' în fiecare toamnă."
+        ],
+        "en": [
+          "The tallest medieval cathedral in Georgia, reaching over 50 meters.",
+          "Established in the 6th century by Saint Joseph of Alaverdi.",
+          "Features one of the oldest continuously operating wine cellars globally.",
+          "A premier center for the traditional qvevri winemaking process.",
+          "Includes the cathedral, royal palace ruins, and defensive fortifications.",
+          "Hosts the significant 'Alaverdoba' religious and harvest festival in September."
+        ]
+      }
+    },
+    {
+      "id": "bridge-of-peace-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Friedensbrücke (Bridge of Peace) ist ein modernes architektonisches Wahrzeichen in Tiflis, das die Altstadt mit dem neuen Rike-Park verbindet. Geografisch überspannt sie den Kura-Fluss und bildet einen starken visuellen Kontrast zur historischen Umgebung der georgischen Hauptstadt. Die 150 Meter lange Fußgängerbrücke wurde vom italienischen Architekten Michele De Lucchi entworfen und im Jahr 2010 offiziell eröffnet. Ihr charakteristisches gewölbtes Glas- und Stahldach ähnelt einem Netz oder einem schwebenden Blatt und ist ein markantes Beispiel für zeitgenössisches Design im Kaukasus. Technisch beeindruckt die Brücke durch ihr integriertes LED-Beleuchtungssystem, das nach Einbruch der Dunkelheit interaktive Lichtsignale sendet. Diese Signale basieren auf einem Morsecode, der chemische Elemente des menschlichen Körpers darstellt und als Symbol für den universellen Frieden dient. Ökonomisch ist die Brücke ein zentraler Punkt für den städtischen Tourismus und verbindet wichtige kommerzielle und kulturelle Zonen miteinander. Trotz anfänglicher Kontroversen über die Einpassung des futuristischen Designs in das mittelalterliche Stadtbild ist die Friedensbrücke heute ein unverzichtbares Symbol für das moderne, nach Westen orientierte Georgien geworden.",
+        "hu": "A Béke hídja (Bridge of Peace) Tbiliszi modern építészeti jelképe, amely az óvárost köti össze az új Rike-parkkal. Földrajzilag a Kura-folyó felett ível át, erős vizuális kontrasztot alkotva a grúz főváros történelmi környezetével. A 150 méter hosszú gyalogoshidat Michele De Lucchi olasz építész tervezte, és 2010-ben adták át hivatalosan. Jellegzetes, hullámzó üveg- és acélteteje egy hálóra vagy egy lebegő levélre emlékeztet, és a kortárs kaukázusi design egyik legfontosabb példája. Technikai szempontból a híd integrált LED-világítási rendszerével nyűgöz le, amely sötétedés után interaktív fényjeleket küld. Ezek a jelek a Morse-kód alapján az emberi test kémiai elemeit jelenítik meg, az egyetemes béke szimbólumaként. Gazdaságilag a híd a városi turizmus központi eleme, amely fontos kereskedelmi és kulturális zónákat köt össze. A futurisztikus design és a középkori városkép összeegyeztethetőségét érő kezdeti kritikák ellenére a Béke hídja mára a modern, Nyugat felé orientálódó Grúzia nélkülözhetetlen jelképévé vált.",
+        "ro": "Podul Păcii (Bridge of Peace) este un reper arhitectural modern din Tbilisi, care conectează centrul vechi de noul Parc Rike. Geografic, acesta traversează râul Kura, creând un contrast vizual puternic cu mediul istoric al capitalei georgiene. Podul pietonal, lung de 150 de metri, a fost proiectat de arhitectul italian Michele De Lucchi și inaugurat oficial în anul 2010. Acoperișul său caracteristic din sticlă și oțel, în formă de boltă ondulată, seamănă cu o plasă sau cu o frunză plutitoare, fiind un exemplu proeminent de design contemporan în Caucaz. Din punct de vedere tehnic, podul impresionează prin sistemul său integrat de iluminat cu LED-uri, care transmite semnale luminoase interactive după lăsarea întunericului. Aceste semnale se bazează pe codul Morse, reprezentând elementele chimice ale corpului uman ca simbol al păcii universale. Economic, podul este un punct central pentru turismul urban, facilitând circulația între zone comerciale și culturale importante. În ciuda controverselor inițiale privind integrarea designului futurist în peisajul medieval, Podul Păcii a devenit astăzi un simbol indispensabil al Georgiei moderne și pro-europene.",
+        "en": "The Bridge of Peace is a modern architectural landmark in Tbilisi, connecting the historic Old Town with the newly developed Rike Park. Geographically, it spans the Mtkvari River, creating a bold visual contrast with the ancient structures of the Georgian capital. The 150-meter-long pedestrian bridge was designed by Italian architect Michele De Lucchi and officially opened in 2010. Its distinctive curved glass and steel canopy resembles a net or a floating leaf, serving as a prominent example of contemporary design in the Caucasus. Technically, the bridge is remarkable for its integrated LED lighting system, which displays interactive light signals after dusk. These patterns are based on Morse code representing chemical elements of the human body, serving as a message of universal peace. Economically, the bridge is a focal point for urban tourism, effectively linking key commercial and cultural districts. Despite early controversies regarding the placement of such a futuristic structure within a medieval setting, the Bridge of Peace has become an essential symbol of a modern, forward-looking Georgia oriented toward the West."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Entworfen vom italienischen Architekten Michele De Lucchi.",
+          "Fußgängerbrücke mit einer Gesamtlänge von 150 Metern.",
+          "Verfügt über 1.200 LED-Leuchten für interaktive Nachtdisplays.",
+          "Lichtsignale stellen chemische Elemente des Menschen im Morsecode dar.",
+          "Verbindet das historische Viertel Schardeni mit dem Rike-Park.",
+          "Wurde im Jahr 2010 als Symbol für das neue Georgien eröffnet."
+        ],
+        "hu": [
+          "Michele De Lucchi olasz építész tervei alapján készült.",
+          "Kizárólag gyalogosforgalomra szánt híd, teljes hossza 150 méter.",
+          "1200 LED-lámpa biztosítja az interaktív éjszakai kivilágítást.",
+          "A fényjelek az emberi test elemeit jelenítik meg Morse-kóddal.",
+          "Összeköti a történelmi Sardeni negyedet a modern Rike-parkkal.",
+          "2010-ben adták át a grúz modernizáció egyik legfőbb jelképeként."
+        ],
+        "ro": [
+          "Opera arhitectului italian Michele De Lucchi și a iluministului Philippe Martinaud.",
+          "Structură pietonală realizată integral din oțel și sticlă transparentă.",
+          "Include peste 1.200 de senzori LED care creează jocuri de lumini nocturne.",
+          "Codul Morse utilizat în iluminat simbolizează unitatea biologică a umanității.",
+          "Nod de legătură esențial între cartierul Shardeni și parcul de distracții Rike.",
+          "Inaugurat în mai 2010, devenind rapid cel mai fotografiat pod din țară."
+        ],
+        "en": [
+          "Designed by the acclaimed Italian architect Michele De Lucchi.",
+          "A pedestrian-only bridge with a total span of 150 meters.",
+          "Features over 1,200 LED lights for interactive nocturnal displays.",
+          "Lighting patterns use Morse code to display elements of the human body.",
+          "Connects the historic Shardeni street area with Rike Park.",
+          "Opened in 2010 as a major milestone of Georgian modern architecture."
+        ]
+      }
+    },
+    {
+      "id": "abanotubani-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Abanotubani ist das historische Bäderviertel in der Altstadt von Tiflis und gilt als der Gründungsort der georgischen Hauptstadt. Geografisch liegt das Viertel am rechten Ufer der Kura, direkt am Fuße der Narikala-Festung, wo natürliche schwefelhaltige Quellen aus der Erde sprudeln. Der Legende nach entdeckte König Wachtang Gorgassali im 5. Jahrhundert während der Jagd diese warmen Quellen und entschied, hier eine Stadt zu gründen – der Name 'Tiflis' leitet sich vom georgischen Wort 'tbili' für 'warm' ab. Die Architektur des Viertels ist einzigartig durch seine niedrigen Backsteinbauten mit markanten Kuppeln, die als Oberlichter für die darunter liegenden unterirdischen Bäder dienen. Diese Bauweise zeigt starke persische Einflüsse. Ökonomisch ist Abanotubani seit Jahrhunderten ein Zentrum für Gesundheit und soziale Interaktion und heute eine der wichtigsten touristischen Attraktionen Tiflis'. Technisch wird das schwefelhaltige Thermalwasser direkt aus den Quellen in die historischen Becken geleitet, wobei die Temperaturen konstant zwischen 37 und 47 Grad Celsius liegen. Das Viertel beherbergt auch das prächtige Orbeliani-Bad mit seiner farbenfrohen Mosaikfassade. Abanotubani ist nicht nur ein Ort der Entspannung, sondern ein lebendiges Denkmal für die multiethnische Geschichte der Stadt.",
+        "hu": "Abanotubani Tbiliszi óvárosának történelmi fürdőnegyede, amelyet a grúz főváros bölcsőjének tekintenek. Földrajzilag a Kura-folyó jobb partján, közvetlenül a Narikala-erőd lábánál található, ahol természetes kénes források törnek fel a földből. A legenda szerint Vahtang Gorgaszali király az 5. században vadászat közben fedezte fel ezeket a meleg forrásokat, és elhatározta, hogy várost alapít itt – a „Tbiliszi” név a grúz „tbili” (meleg) szóból ered. A negyed építészete egyedülálló: az alacsony téglaépületek jellegzetes kupolái bevilágítóként szolgálnak a föld alatti fürdők számára. Ez az építési mód erős perzsa hatást mutat. Gazdaságilag Abanotubani évszázadok óta az egészségmegőrzés és a társasági élet központja, ma pedig Tbiliszi egyik legfontosabb turisztikai látványossága. Technikai szempontból a kénes termálvizet közvetlenül a forrásokból vezetik a történelmi medencékbe, a víz hőmérséklete folyamatosan 37 és 47 Celsius-fok között mozog. A negyedben található a pompás Orbeliani-fürdő is, színes mozaikhomlokzatával. Abanotubani nem csupán a pihenés helyszíne, hanem a város multietnikus történelmének élő emlékműve.",
+        "ro": "Abanotubani este cartierul istoric al băilor din orașul vechi Tbilisi, fiind considerat locul de naștere al capitalei georgiene. Geografic, cartierul se află pe malul drept al râului Kura, chiar la poalele cetății Narikala, unde izvoarele naturale sulfuroase țâșnesc din pământ. Conform legendei, regele Vakhtang Gorgasali a descoperit aceste ape termale în secolul al V-lea în timpul unei partide de vânătoare și a decis să întemeieze un oraș aici – numele „Tbilisi” derivând din cuvântul georgian „tbili”, care înseamnă „cald”. Arhitectura cartierului este unică prin clădirile sale joase din cărămidă, dotate cu cupole semisferice care servesc drept luminatoare pentru băile subterane. Acest stil constructiv reflectă influențe persane puternice. Economic, Abanotubani a fost timp de secole un centru de sănătate și interacțiune socială, fiind astăzi una dintre principalele atracții turistice ale țării. Din punct de vedere tehnic, apa termală sulfuroasă este canalizată direct din izvoare în bazinele istorice, menținând o temperatură constantă între 37 și 47 grade Celsius. Cartierul găzduiește și celebra Baie Orbeliani, cu fațada sa spectaculoasă din mozaic albastru. Abanotubani nu este doar un spațiu de relaxare, ci un monument viu al istoriei multietnice a orașului.",
+        "en": "Abanotubani is the historic bath district in the Old Town of Tbilisi, regarded as the founding site of the Georgian capital. Geographically, the district lies on the right bank of the Mtkvari River, directly at the foot of the Narikala Fortress, where natural sulfur springs emerge from the earth. According to legend, King Vakhtang Gorgasali discovered these warm springs in the 5th century while hunting and decided to establish a city here—the name 'Tbilisi' is derived from the Georgian word 'tbili,' meaning 'warm.' The district's architecture is unique, characterized by low brick structures with distinctive domes that serve as skylights for the subterranean bathhouses below. This design shows significant Persian influence. Economically, Abanotubani has been a center for health and social interaction for centuries and is now one of Tbilisi's premier tourist attractions. Technically, the sulfur-rich thermal water is funneled directly from the springs into the historic basins, maintaining a constant temperature between 37 and 47 degrees Celsius. The district also houses the magnificent Orbeliani Bath, famous for its colorful mosaic facade. Abanotubani is not just a place of relaxation but a living monument to the city's diverse and multi-ethnic history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gründungsort von Tiflis durch König Wachtang Gorgassali im 5. Jahrhundert.",
+          "Name leitet sich vom georgischen Wort für 'warm' (tbili) ab.",
+          "Bäder werden durch natürliche, heiße Schwefelquellen gespeist.",
+          "Die Architektur zeigt charakteristische Backsteinkuppeln nach persischem Vorbild.",
+          "Beherbergt das Orbeliani-Bad mit seiner berühmten blauen Mosaikfassade.",
+          "Wasserstrahlmassagen und Massagen ('Kisa') werden traditionell angeboten."
+        ],
+        "hu": [
+          "Tbiliszi alapítási helye az 5. században, Vahtang Gorgaszali király által.",
+          "A város neve a grúz 'tbili' (meleg) szóból származik.",
+          "A fürdőket természetes, forró kénes források táplálják.",
+          "A negyed jellegzetes tégla-kupolás építészete perzsa mintát követ.",
+          "Itt található az Orbeliani-fürdő, kék mozaikos homlokzatával.",
+          "A fürdők ma is üzemelnek, tradicionális kisa-masszázst kínálva."
+        ],
+        "ro": [
+          "Locul unde a fost fondat orașul Tbilisi în secolul al V-lea.",
+          "Numele capitalei provine din termenul georgian pentru 'cald'.",
+          "Apele sulfuroase ating temperaturi naturale de până la 47°C.",
+          "Cupolele de cărămidă sunt specifice arhitecturii medievale de influență iraniană.",
+          "Baia Orbeliani (Baia Albastră) este cea mai ornamentată clădire din district.",
+          "Sursă istorică de apă curativă utilizată pentru tratamente reumatice."
+        ],
+        "en": [
+          "The birthplace of Tbilisi, founded in the 5th century by King Vakhtang Gorgasali.",
+          "The city's name is derived from the Georgian word for 'warm' (tbili).",
+          "Fed by natural hot sulfur springs with temperatures up to 47°C.",
+          "Features unique semi-subterranean architecture with brick domes.",
+          "Home to the stunning Orbeliani Bath with its blue mosaic facade.",
+          "Remains a fully functional social and wellness hub for locals and tourists."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "description": "A popular theme park in Buena Park, California. It began as a small berry farm and has grown into a major amusement park with roller coasters and other attractions.",
+      "facts": [
+        "Located in Buena Park, California.",
+        "Started as a roadside berry stand.",
+        "America's first theme park.",
+        "Features a Ghost Town section."
+      ]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "A large desert and plateau region of the southwestern United States, covering the Four Corners area. It is known for its dramatic canyons and vibrant colors.",
+      "facts": [
+        "Covers the Four Corners region.",
+        "Interspersed with dramatic canyons.",
+        "The Grand Canyon is located here.",
+        "Known for its high elevation and arid climate."
+      ]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "description": "A major mountain range system of the North American Cordillera, that runs northwest–southeast through northwestern and western Mexico, and along the Gulf of California. A small portion extends into the US.",
+      "facts": [
+        "Major mountain range in western Mexico.",
+        "Extends into Arizona and New Mexico.",
+        "Rich in mineral resources like silver.",
+        "Home to deep canyons, including Copper Canyon."
+      ]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "A mountain range located in the Big Bend National Park in Texas. It is the only mountain range in the United States to be fully contained within a single national park.",
+      "facts": [
+        "Located in Big Bend National Park, Texas.",
+        "Fully contained within the national park.",
+        "Highest peak is Emory Peak.",
+        "Named for the Chisos Indigenous people."
+      ]
+    },
+    {
+      "id": "olympic-mountains-relief-v2",
+      "description": "A mountain range on the Olympic Peninsula in western Washington in the United States. The mountains are part of the Pacific Coast Ranges.",
+      "facts": [
+        "Located on the Olympic Peninsula in Washington.",
+        "Highest peak is Mount Olympus.",
+        "Part of the Pacific Coast Ranges.",
+        "Features extensive glaciers."
+      ]
+    }
+  ]
+}

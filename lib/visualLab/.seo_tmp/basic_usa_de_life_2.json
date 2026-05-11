@@ -1,0 +1,44 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "Der Rocky Mountain National Park in Colorado bietet spektakuläre Gipfel, alpine Wiesen und eine reiche Tierwelt in den Rocky Mountains.",
+      "facts": ["Colorado", "Rocky Mountains", "Alpine Wiesen", "Berge"]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "description": "Legoland California ist ein familienfreundlicher Themenpark in Carlsbad, der sich auf die beliebten Lego-Steine und interaktive Fahrgeschäfte konzentriert.",
+      "facts": ["Carlsbad", "Themenpark", "Lego", "Familienattraktion"]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "Grand Teton National Park in Wyoming ist bekannt für seine dramatischen Berggipfel, unberührte Seen und eine spektakuläre Naturlandschaft.",
+      "facts": ["Wyoming", "Berggipfel", "Naturlandschaft", "Seen"]
+    },
+    {
+      "id": "seaworld-orlando-life-v2",
+      "description": "SeaWorld in Orlando ist ein Themenpark, der sich auf Meereslebewesen konzentriert und zahlreiche Shows sowie Achterbahnen bietet.",
+      "facts": ["Orlando", "Meereslebewesen", "Shows", "Achterbahnen"]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "Der Zion National Park in Utah ist für seine beeindruckenden roten Sandsteinfelsen und tiefen Schluchten berühmt.",
+      "facts": ["Utah", "Sandsteinfelsen", "Schluchten", "Wandern"]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "Die Great Smoky Mountains an der Grenze von Tennessee und North Carolina sind ein beliebtes Gebiet für Wandern und Naturerlebnisse.",
+      "facts": ["Tennessee/NC", "Wandern", "Naturpark", "Berge"]
+    },
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "description": "Knott's Berry Farm in Buena Park, Kalifornien, begann als Beerenfarm und entwickelte sich zu einem klassischen Freizeitpark mit Western-Themen.",
+      "facts": ["Kalifornien", "Freizeitpark", "Western-Themen", "Geschichte"]
+    }
+  ]
+}

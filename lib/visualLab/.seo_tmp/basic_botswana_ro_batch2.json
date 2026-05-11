@@ -1,0 +1,159 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "francistown-dry-port-economic-v2",
+      "description": "Un punct nodal logistic esențial în nordul țării, facilitând tranzitul de mărfuri către țările vecine.",
+      "facts": [
+        "Situat în al doilea oraș ca mărime",
+        "Legătură cu Zimbabwe și Zambia",
+        "Terminal feroviar modern",
+        "Capacitate mare de stocare"
+      ]
+    },
+    {
+      "id": "palapye-glass-manufacturing-economic-v2",
+      "description": "Un proiect ambițios de producție a sticlei care capitalizează pe zăcămintele locale de siliciu din regiune.",
+      "facts": [
+        "Situat strategic în Palapye",
+        "Utilizează nisip de siliciu local",
+        "Creează locuri de muncă tehnice",
+        "Susține industria construcțiilor"
+      ]
+    },
+    {
+      "id": "gaborone-diamond-hub-economic-v2",
+      "description": "Centrul global de tranzacționare și sortare a diamantelor, transformând capitala într-un lider mondial în domeniu.",
+      "facts": [
+        "Găzduiește De Beers Sightholders",
+        "Transferat de la Londra în 2013",
+        "Tehnologie avansată de sortare",
+        "Centru financiar pentru bijuterii"
+      ]
+    },
+    {
+      "id": "masama-wellfield-economic-v2",
+      "description": "O resursă critică de apă subterană care asigură alimentarea cu apă a regiunilor aride din sud-est.",
+      "facts": [
+        "Sursă vitală pentru Gaborone",
+        "Gestionat de Water Utilities",
+        "Foraje de mare adâncime",
+        "Parte a proiectului NSC"
+      ]
+    },
+    {
+      "id": "botswana-vaccine-institute-economic-v2",
+      "description": "O instituție de cercetare și producție de renume mondial, specializată în vaccinuri veterinare.",
+      "facts": [
+        "Expertiză în febra aftoasă",
+        "Exportă în toată Africa",
+        "Standarde înalte de biosecuritate",
+        "Situat în Gaborone"
+      ]
+    },
+    {
+      "id": "walvis-bay-dry-port-bw-economic-v2",
+      "description": "Terminalul maritim al Botswanei situat în Namibia, oferind țării acces direct la Oceanul Atlantic.",
+      "facts": [
+        "Deținut de guvernul Botswana",
+        "Facilitează import-exportul",
+        "Coridor strategic comercial",
+        "Reduce dependența de rutele sudice"
+      ]
+    },
+    {
+      "id": "boseto-copper-project-economic-v2",
+      "description": "Un proiect minier de cupru în curs de dezvoltare în centura de cupru Kalahari din nord-vest.",
+      "facts": [
+        "Zăcăminte extinse de cupru",
+        "Investiții străine majore",
+        "Lângă regiunea Maun",
+        "Potențial de export pe termen lung"
+      ]
+    },
+    {
+      "id": "gaborone-brewery-economic-v2",
+      "description": "O facilitate industrială majoră care produce băuturi locale și internaționale pentru piața internă.",
+      "facts": [
+        "Kgalagadi Breweries Limited",
+        "Producător de bere iconică St Louis",
+        "Sursă importantă de taxe",
+        "Utilizează ingrediente locale"
+      ]
+    },
+    {
+      "id": "mowana-copper-mine-economic-v2",
+      "description": "O unitate minieră de cupru situată în nord-est, contribuind la diversificarea minerală a țării.",
+      "facts": [
+        "Anterior cunoscută sub numele Dukwe",
+        "Concentrat de cupru exportat",
+        "Aproape de granița cu Zimbabwe",
+        "Resurse geologice promițătoare"
+      ]
+    },
+    {
+      "id": "francistown-abattoir-economic-v2",
+      "description": "Un centru regional de procesare a cărnii care deservește fermierii de vite din nordul Botswanei.",
+      "facts": [
+        "Sucursală a BMC",
+        "Standarde de igienă riguroase",
+        "Exporturi regionale de carne",
+        "Pilon al economiei din nord"
+      ]
+    },
+    {
+      "id": "shumba-energy-coal-project-economic-v2",
+      "description": "O inițiativă energetică axată pe exploatarea cărbunelui pentru generarea de energie pe scară largă.",
+      "facts": [
+        "Proiectul Sechaba",
+        "Securitate energetică regională",
+        "Resurse masive de cărbune",
+        "Potential de export de energie"
+      ]
+    },
+    {
+      "id": "gaborone-garment-factory-economic-v2",
+      "description": "O unitate de producție textilă care furnizează uniforme și îmbrăcăminte pentru piața locală și regională.",
+      "facts": [
+        "Sector manufacturier în creștere",
+        "Ocupare forță de muncă feminină",
+        "Producție de calitate",
+        "Susține industria modei locale"
+      ]
+    },
+    {
+      "id": "tuli-block-agro-industry-economic-v2",
+      "description": "O fâșie fertilă de teren de-a lungul râului Limpopo, centrul producției agricole comerciale.",
+      "facts": [
+        "Horticultură intensivă",
+        "Ferme de citrice și legume",
+        "Sistem modern de irigații",
+        "Grânarul Botswanei"
+      ]
+    },
+    {
+      "id": "maun-airport-logistics-economic-v2",
+      "description": "Hub-ul logistic aerian care conectează industria turismului din Delta Okavango cu restul lumii.",
+      "facts": [
+        "Unul dintre cele mai aglomerate",
+        "Centru pentru zboruri charter",
+        "Infrastructură modernizată",
+        "Poarta către safari"
+      ]
+    },
+    {
+      "id": "matsitama-minerals-economic-v2",
+      "description": "O zonă cu potențial minier ridicat, bogată în resurse de cupru și alte metale de bază.",
+      "facts": [
+        "Situată în nord-est",
+        "Explorări geologice active",
+        "Zăcăminte vulcanogene",
+        "Investiții în dezvoltare"
+      ]
+    }
+  ]
+}

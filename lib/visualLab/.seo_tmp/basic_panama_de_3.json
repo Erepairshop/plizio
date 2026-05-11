@@ -1,0 +1,13 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "cerro-san-miguel-relief-v2", "description": "San Miguel Hügel in Panamas Inneres.", "facts": ["Gipfel-Formation", "Höhen-Marke", "Landschafts-Eigenschaft"]},
+    {"id": "cerro-cucurucha-relief-v2", "description": "Horn-Hügel mit kegeligem Gipfel.", "facts": ["Kegel-geformter Gipfel", "Charakteristische Form", "Natürlicher Wahrzeichen"]},
+    {"id": "altos-de-campana-hohe-relief-v2", "description": "Campana Höhen in West-Panama.", "facts": ["Hochland-Gebiet", "Höhen-Zone", "Geschütztes Hochland"]},
+    {"id": "cerro-gaitancillo-relief-v2", "description": "Kleine Gaitán Hügel in Panamas Relief.", "facts": ["Kleiner Gipfel", "Hügel-Formation", "Geografischer Punkt"]}
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lino-correia-stadium-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Estádio Lino Correia ist eine der bedeutendsten Sportstätten in der Hauptstadt Bissau und ein zentraler Treffpunkt für die sportbegeisterte Bevölkerung des Landes. Benannt nach Lino Correia, einem Helden des Unabhängigkeitskampfes, spiegelt das Stadion nicht nur die sportliche, sondern auch die politische Geschichte Guinea-Bissaus wider. Es befindet sich im Herzen der Stadt, unweit des Zentrums, und dient primär als Heimspielstätte für mehrere lokale Fußballvereine sowie für Leichtathletikwettbewerbe. Die Architektur des Stadions ist funktional und kompakt, was typisch für kommunale Sportbauten der postkolonialen Ära ist. Mit einer Kapazität von einigen tausend Zuschauern bietet es eine dichte, fast intime Atmosphäre, besonders während der Stadtderbys. Neben sportlichen Aktivitäten wird das Stadion häufig für nationale Feiertage, politische Kundgebungen und kulturelle Festivals genutzt, was seine Rolle als multifunktionaler öffentlicher Raum unterstreicht. Trotz der bescheidenen Infrastruktur im Vergleich zu modernen internationalen Arenen bleibt das Lino Correia ein unverzichtbares Symbol für den Zusammenhalt und die Leidenschaft der guineischen Gesellschaft für den Fußball, den Nationalsport des Landes.",
+        "hu": "Az Estádio Lino Correia Bissau egyik legfontosabb sportlétesítménye, amely mélyen gyökerezik a főváros mindennapi életében. A stadiont Lino Correiáról, a függetlenségi háború egyik hőséről nevezték el, ami jól mutatja a sport és a nemzeti identitás szoros kapcsolatát Guinea-Bissauban. A városközponthoz közel elhelyezkedő létesítmény elsősorban a labdarúgás otthona, több helyi klubcsapat itt vívja bajnoki mérkőzéseit, de gyakran ad otthont atlétikai versenyeknek is. Az építmény stílusa funkcionális és egyszerű, tükrözve a posztkoloniális időszak városfejlesztési lehetőségeit. Befogadóképessége korlátozott, de a mérkőzések alatt uralkodó hangulat a helyiek temperamentumát tükrözi. A stadion nem csupán sportpálya, hanem fontos közösségi tér is: politikai nagygyűlések, állami ünnepségek és kulturális rendezvények helyszíneként is szolgál. Az Estádio Lino Correia a korlátozott anyagi erőforrások ellenére is a nemzeti büszkeség egyik tartóoszlopa marad, ahol a generációk óta tartó futballszeretet és a közösségi összefogás minden egyes mérkőzés alkalmával testet ölt a lelátókon.",
+        "ro": "Estádio Lino Correia este una dintre cele mai emblematice arene sportive din capitala Bissau, fiind un punct de referință pentru viața socială și sportivă a țării. Stadionul poartă numele lui Lino Correia, un martir și erou al luptei de eliberare națională, subliniind legătura profundă dintre sport și istoria politică locală. Situat central, stadionul servește drept teren principal pentru mai multe cluburi de fotbal din prima ligă guineeană, fiind totodată o bază pentru competițiile de atletism. Arhitectura sa este una utilitară, caracteristică construcțiilor publice din perioada de după obținerea independenței, punând accent pe accesibilitate și funcționalitate. Cu o capacitate adaptată nevoilor locale, arena devine un freamăt de energie în timpul meciurilor importante, reflectând pasiunea imensă a populației pentru fotbal. Dincolo de evenimentele sportive, Estádio Lino Correia este utilizat frecvent pentru ceremonii oficiale, parade și evenimente culturale majore, consolidându-și statutul de spațiu civic polivalent. Deși infrastructura prezintă semne de uzură, semnificația sa culturală rămâne intactă, fiind locul unde se celebrează talentul sportiv și unitatea națională în inima metropolei.",
+        "en": "The Estádio Lino Correia is a prominent sporting landmark in Bissau, serving as a vital center for athletic and social gatherings in the capital. Named after Lino Correia, a celebrated hero of the independence struggle, the stadium represents a fusion of national pride and sporting tradition. Located in the city center, it is the primary venue for numerous local football clubs and hosts a variety of track and field events. The architectural design is functional and understated, typical of post-colonial public infrastructure in West Africa, focusing on providing a communal space for the urban population. Despite its relatively modest capacity, the stadium generates a vibrant and intense atmosphere during local derbies, showcasing the nation's deep-rooted passion for football. Beyond sports, the venue frequently hosts national holidays, political rallies, and cultural festivals, making it a multifunctional cornerstone of Bissau’s civic life. It stands as a testament to the importance of community sports in fostering national identity, remaining a beloved fixture in the daily lives of the city's residents regardless of the challenges facing the country's broader infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Stadion wurde nach einem Helden des Unabhängigkeitskampfes benannt.",
+          "Es befindet sich in unmittelbarer Nähe zum nationalen Palast in Bissau.",
+          "Fußball ist die primäre Sportart, die in dieser Arena ausgetragen wird.",
+          "Das Stadion dient oft als Austragungsort für staatliche Zeremonien.",
+          "Es ist die Heimstätte mehrerer traditionsreicher Vereine aus Bissau.",
+          "Die Kapazität wird auf etwa 5.000 bis 8.000 Zuschauer geschätzt."
+        ],
+        "hu": [
+          "A stadion névadója Lino Correia, a függetlenségi mozgalom mártírja.",
+          "A létesítmény Bissau központjában, stratégiai helyen fekszik.",
+          "Ez az egyik legrégebbi funkcionális stadion az országban.",
+          "Nemzeti ünnepeken itt tartják a központi katonai díszszemléket.",
+          "A pálya talaja természetes fű, amelyet a helyi éghajlaton nehéz karbantartani.",
+          "A helyi futballbajnokság legfontosabb mérkőzéseinek állandó helyszíne."
+        ],
+        "ro": [
+          "Poartă numele unui erou al PAIGC ucis în timpul războiului colonial.",
+          "Este situat în districtul administrativ central al capitalei.",
+          "Găzduiește atât meciuri de fotbal, cât și concursuri de atletism.",
+          "A fost renovat parțial pentru a îndeplini standardele competițiilor regionale.",
+          "Servește drept spațiu pentru discursuri politice și manifestări culturale.",
+          "Este considerat 'templul' fotbalului din Bissau pentru suporterii locali."
+        ],
+        "en": [
+          "The stadium honors Lino Correia, a revolutionary fighter for independence.",
+          "It is located within walking distance of Bissau's main government buildings.",
+          "The venue is the home ground for several top-tier national football teams.",
+          "It plays a crucial role in hosting the country’s main independence day events.",
+          "The seating area provides a close-up view of the action on the pitch.",
+          "The stadium is a key site for youth athletic development programs."
+        ]
+      }
+    },
+    {
+      "id": "presidential-palace-bissau-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Präsidentenpalast von Bissau ist das architektonische und politische Symbol der Republik Guinea-Bissau. Das Gebäude, das an der Praça der Heróis da Pátria liegt, besticht durch seine elegante, neoklassizistisch inspirierte Architektur mit einer markanten weißen Fassade und imposanten Säulenreihen. Ursprünglich während der Kolonialzeit als Sitz des Gouverneurs erbaut, hat der Palast eine turbulente Geschichte hinter sich. Während des Bürgerkrieges in den Jahren 1998 und 1999 wurde das Gebäude schwer beschädigt und stand jahrelang als Ruine im Stadtzentrum, was den Zustand des Landes in jener Zeit widerspiegelte. Mit internationaler Unterstützung, insbesondere durch China, wurde der Palast umfassend restauriert und im Jahr 2013 offiziell wiedereröffnet. Heute strahlt er wieder in altem Glanz und dient als Amtssitz des Staatsoberhauptes sowie für den Empfang ausländischer Würdenträger. Die gepflegten Gartenanlagen und die strenge militärische Bewachung unterstreichen die staatliche Autorität. Für die Bewohner der Hauptstadt ist der Palast ein Zeichen der Stabilität und des Wiederaufbaus nach Jahrzehnten der Instabilität. Er bleibt einer der meistfotografierten Orte der Stadt, auch wenn der Zugang aus Sicherheitsgründen streng reglementiert ist.",
+        "hu": "A bissaui elnöki palota a Bissau-guineai Köztársaság legfontosabb politikai és reprezentatív épülete. Az épület a Haza Hőseinek terén (Praça dos Heróis da Pátria) található, és neoklasszicista stílusú elemeivel, vakítóan fehér homlokzatával és elegáns oszlopsoraival emelkedik ki a városképből. Eredetileg a gyarmati kormányzó székhelyeként épült, de a modern történelem viharai nem kímélték. Az 1998-1999-es polgárháború során az épület súlyos károkat szenvedett, és több mint egy évtizedig romosan állt Bissau szívében, a politikai instabilitás szimbólumaként. A palotát végül nemzetközi segítséggel, elsősorban kínai támogatással építették újjá, és 2013-ban adták át ismét eredeti pompájában. Ma az államfő hivatalos rezidenciájaként és a diplomáciai események központjaként szolgál. A gondosan ápolt kertek és a kapuknál álló díszőrség méltóságteljes keretet ad az elnöki hatalomnak. A helyiek számára az újjáépített palota a nemzeti újjászületés és a stabilitás iránti vágy jelképe. Bár az épület belső terei a nagyközönség számára nem látogathatók, a palota külső látványa Bissau egyik legmeghatározóbb nevezetessége marad.",
+        "ro": "Palatul Prezidențial din Bissau este simbolul suprem al autorității de stat și al rezilienței naționale în Guineea-Bissau. Situat în centrul capitalei, pe Praça dos Heróis da Pátria, edificiul impresionează prin arhitectura sa neoclasică, dominată de o fațadă albă imaculată și coloane monumentale. Istoria clădirii este strâns legată de perioadele de conflict ale țării; în timpul războiului civil din 1998-1999, palatul a fost bombardat și transformat în ruină, rămânând în această stare deplorabilă timp de mulți ani. Procesul de restaurare a fost finalizat abia în 2013, cu sprijin financiar și tehnic din partea Chinei, redându-i clădirii grandoarea de odinioară. Astăzi, palatul servește drept birou oficial și reședință pentru președintele republicii, fiind locul unde sunt primiți ambasadorii și șefii de stat străini. Grădinile sale luxuriante și prezența gărzii de onoare conferă locului o atmosferă solemnă. Pentru cetățenii din Bissau, restaurarea palatului a reprezentat un punct de cotitură psihologic, simbolizând tranziția de la distrugerea războiului la reconstrucția instituțională. Deși accesul în interior este restricționat din motive de securitate, monumentul rămâne un punct focal pentru ceremoniile naționale și un reper urbanistic major.",
+        "en": "The Presidential Palace of Bissau stands as the preeminent political and architectural symbol of the Republic of Guinea-Bissau. Located on the Praça dos Heróis da Pátria, the building is noted for its elegant neoclassical design, featuring a stark white facade and imposing colonnades. Originally constructed during the colonial era to house the Portuguese governor, the palace has witnessed the nation's most turbulent chapters. During the 1998-1999 civil war, it was severely damaged by shelling and remained a hollow shell for over a decade, serving as a somber reminder of national instability. A comprehensive reconstruction project, largely funded by China, restored the palace to its former glory, with the official reopening occurring in 2013. Today, it functions as the official residence and workplace of the head of state, hosting major diplomatic functions and state ceremonies. The meticulously manicured gardens and the presence of the presidential guard emphasize its status as a high-security government facility. For Bissau’s residents, the restored palace is a beacon of hope and institutional stability. While general public access to the interior is prohibited, the palace remains one of the city's most significant landmarks and a testament to the country's ongoing efforts toward national reconstruction."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Palast war ursprünglich der Sitz der portugiesischen Kolonialgouverneure.",
+          "Im Bürgerkrieg 1998 wurde das Gebäude fast vollständig zerstört.",
+          "Die umfassende Restaurierung wurde maßgeblich von China finanziert.",
+          "Das Gebäude wurde im Jahr 2013 feierlich wiedereröffnet.",
+          "Es liegt direkt am zentralen Platz der Helden des Vaterlandes.",
+          "Der Palast dient ausschließlich repräsentativen und administrativen Zwecken."
+        ],
+        "hu": [
+          "A palota az 1998-as harcok során romhalmazzá vált.",
+          "Az újjáépítést Kína finanszírozta a két ország közötti együttműködés jegyében.",
+          "Az épület neoklasszicista stílusa a portugál gyarmati örökséget idézi.",
+          "A palota előtt állandó katonai díszőrség teljesít szolgálatot.",
+          "Itt található az ország elnökének hivatalos irodája.",
+          "Az épület előtt húzódó tér Bissau legfontosabb politikai eseményeinek helyszíne."
+        ],
+        "ro": [
+          "Palatul a rămas în stare de ruină timp de 15 ani după războiul civil.",
+          "China a oferit aproximativ 12 milioane de dolari pentru reconstrucția sa.",
+          "Este considerată cea mai bine întreținută clădire publică din țară.",
+          "Fațada albă este un element distinctiv în peisajul urban colorat al orașului.",
+          "Accesul turiștilor este permis doar până la gardul exterior al incintei.",
+          "Grădinile palatului conțin specii rare de arbori tropicali."
+        ],
+        "en": [
+          "The palace served as the colonial seat of power before independence.",
+          "It was a major battlefield and was gutted by fire in the late 1990s.",
+          "Modern reconstruction was completed in 2013 as a gift from China.",
+          "The building is located in the high-security administrative district of Bissau.",
+          "It hosts the annual New Year's reception for the diplomatic corps.",
+          "The palace symbolizes the restoration of state authority in Guinea-Bissau."
+        ]
+      }
+    },
+    {
+      "id": "colinas-de-boe-palace-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Palácio Colinas de Boé ist ein wichtiges Regierungsgebäude in Bissau, das oft mit der legislativen Gewalt und der nationalen Verwaltung des Landes in Verbindung gebracht wird. Sein Name bezieht sich auf die Region Boé, in der 1973 die Unabhängigkeit Guinea-Bissaus proklamiert wurde, was dem Gebäude eine starke symbolische Bedeutung verleiht. Architekturhistorisch ist der Komplex ein Beispiel für die postkoloniale Bauweise, die darauf abzielte, funktionale Räume für die neuen staatlichen Institutionen zu schaffen. Der Palast beherbergt verschiedene Regierungsbüros und war in der Vergangenheit auch Sitz der Nationalversammlung, bevor das neue Parlamentsgebäude errichtet wurde. Die Struktur zeichnet sich durch ihre kubischen Formen und die Integration in das städtische Grün aus. Im Laufe der Jahrzehnte war der Palácio Colinas de Boé Schauplatz zahlreicher politischer Debatten, Gesetzgebungsverfahren und historischer Entscheidungen, die den Weg des Landes nach der Souveränität prägten. Er steht exemplarisch für die Bemühungen Guinea-Bissaus, eine eigenständige staatliche Identität in einem architektonischen Kontext zu verankern. Die Lage des Palastes im Regierungsviertel macht ihn zu einem zentralen Knotenpunkt für politische Entscheidungsträger und zu einem wichtigen Ziel für Besucher, die sich für die moderne politische Geschichte Westafrikas interessieren.",
+        "hu": "A Palácio Colinas de Boé Bissau egyik legjelentősebb kormányzati épülete, amely szoros kapcsolatban áll az ország törvényhozásával és adminisztratív irányításával. Az épület neve a Boé-dombságra utal, arra a történelmi helyszínre, ahol 1973-ban kikiáltották az ország függetlenségét, így az elnevezés önmagában is mély vággyal tölti el a nemzeti szuverenitás iránt. Építészetileg a komplexum a posztkoloniális korszak stílusát képviseli, amely a funkcionalitást helyezte előtérbe az új állami intézmények számára. Korábban a nemzetgyűlés székhelyeként is szolgált, mielőtt az új parlamenti épület elkészült volna, jelenleg pedig különböző minisztériumoknak és kormányzati hivataloknak ad otthont. A tömbszerű, modernista jegyeket mutató épület Bissau kormányzati negyedének szerves része. Az évtizedek során a Palácio Colinas de Boé falai között számos olyan politikai vita és történelmi döntés született, amely alapjaiban határozta meg Guinea-Bissau fejlődési irányát. Az épület nem csupán egy irodaház, hanem a független államiság egyik szimbóluma, amely emlékeztet a szabadságharc kezdeti sikereire és a modern államépítés kihívásaira.",
+        "ro": "Palácio Colinas de Boé este un edificiu guvernamental central din Bissau, jucând un rol esențial în arhitectura instituțională a Guineei-Bissau. Numele palatului este un omagiu adus dealurilor din regiunea Boé, locul simbolic unde a fost proclamată independența țării în 1973, conferind clădirii o încărcătură istorică deosebită. Din punct de vedere arhitectural, complexul este reprezentativ pentru stilul administrativ post-colonial, cu linii simple și structuri robuste menite să găzduiască noile ramuri ale puterii de stat. De-a lungul timpului, palatul a servit drept sediu pentru Adunarea Națională Populară și pentru diverse ministere cheie, fiind inima legislativă a țării înainte de inaugurarea noilor complexe parlamentare. Clădirea se află într-o zonă administrativă strategică, fiind înconjurată de alte instituții publice majore. Palácio Colinas de Boé rămâne un martor al evoluției politice a țării, găzduind sesiuni parlamentare istorice și fiind scena unor negocieri cruciale pentru stabilitatea națională. Este un punct de interes major pentru înțelegerea modului în care identitatea națională a fost tradusă în spații administrative și cum funcționează aparatul de stat într-un context vest-african modern.",
+        "en": "The Palácio Colinas de Boé is a significant government building in Bissau, intrinsically linked to the legislative and administrative functions of the state. Its name is derived from the hills of Boé, the historic site where Guinea-Bissau's independence was declared in 1973, lending the structure profound symbolic weight. Architecturally, the complex represents the post-colonial era's functional style, designed to house the burgeoning institutions of a newly sovereign nation. For many years, the palace served as the seat of the National People's Assembly before the construction of a dedicated parliament building; it now houses various government ministries and offices. The building's design features modernist elements and cubic forms, typical of 20th-century administrative centers in the region. Throughout the decades, Palácio Colinas de Boé has been the backdrop for critical political debates, the drafting of national laws, and historical decisions that shaped the country's trajectory. It stands as a physical manifestation of the nation's transition from struggle to governance. Situated within Bissau's primary government district, the palace remains a central hub for political activity and a landmark for those exploring the political history and institutional development of Guinea-Bissau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Name erinnert an den Ort der Unabhängigkeitserklärung von 1973.",
+          "Das Gebäude diente lange Zeit als Sitz der Nationalversammlung.",
+          "Es befindet sich im zentralen Verwaltungsviertel der Hauptstadt.",
+          "Die Architektur ist im funktionalen modernistischen Stil gehalten.",
+          "Heute sind dort verschiedene Ministerien und Regierungsstellen untergebracht.",
+          "Der Palast ist ein wichtiger Ort für offizielle nationale Gedenkfeiern."
+        ],
+        "hu": [
+          "A palota neve a Boé-vidék előtt tiszteleg, ahol a függetlenséget kikiáltották.",
+          "Az új parlament megépítéséig ez volt a törvényhozás központja.",
+          "Bissau 'Colinas' (Dombok) nevű negyedének közelében található.",
+          "Az épület fontos szerepet játszott az ország alkotmányozási folyamataiban.",
+          "Jelenleg több fontos kormányzati iroda is itt székel.",
+          "A komplexum kertjei gyakran adnak otthont diplomáciai fogadásoknak."
+        ],
+        "ro": [
+          "Numele provine din regiunea unde a fost fondată prima Republică.",
+          "A găzduit primele sesiuni ale parlamentului de după 1974.",
+          "Este un exemplu de arhitectură administrativă modernă din Bissau.",
+          "Clădirea este situată în apropierea principalelor ambasade.",
+          "Funcționează ca un centru de coordonare pentru afacerile interne.",
+          "Simbolizează continuitatea instituțională a statului guineean."
+        ],
+        "en": [
+          "Named after the Boé hills, where independence was proclaimed in 1973.",
+          "The palace was the original home of the National People's Assembly.",
+          "It is a key feature of Bissau’s central administrative landscape.",
+          "The design reflects the architectural trends of 1970s West Africa.",
+          "The building currently houses several high-level government ministries.",
+          "It serves as a symbol of the country's early years of self-governance."
+        ]
+      }
+    },
+    {
+      "id": "central-market-bissau-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Zentralmarkt von Bissau, bekannt als Mercado Central, ist das pulsierende wirtschaftliche Herz der Stadt und ein faszinierendes Beispiel für das alltägliche Leben in Westafrika. Gelegen in einem markanten Gebäude aus der Kolonialzeit im Viertel Bissau-Velho, erstreckt sich der Markt über mehrere Blocks und bietet eine schier endlose Vielfalt an Waren. Die Architektur des Hauptgebäudes zeichnet sich durch hohe Hallen und Belüftungssysteme aus, die für das tropische Klima konzipiert wurden. Im Inneren und in den angrenzenden Gassen finden Besucher alles von frischen tropischen Früchten, Gemüse und Fisch aus dem Atlantik bis hin zu handgewebten Textilien, traditionellem Kunsthandwerk und Gewürzen. Der Markt ist nicht nur ein Ort des Handels, sondern ein wichtiger sozialer Knotenpunkt, an dem verschiedene ethnische Gruppen aufeinandertreffen und Nachrichten ausgetauscht werden. Die Atmosphäre ist geprägt von lebhaften Rufen, den Gerüchen von gegrilltem Fleisch und frischen Kräutern sowie einem ständigen Strom von Menschen. Trotz der Entstehung modernerer Einkaufszentren bleibt der Mercado Central der Ort, an dem die wahre Identität und die wirtschaftliche Dynamik der Hauptstadt spürbar sind. Ein Besuch bietet tiefe Einblicke in die lokale Gastronomie und die informellen Handelsstrukturen, die für das Überleben vieler Stadtbewohner entscheidend sind.",
+        "hu": "A bissaui központi piac, a Mercado Central, a főváros gazdasági és társadalmi lüktetésének központja. A Bissau-Velho negyed határán található, eredetileg a gyarmati időkben emelt épület és a köré szerveződő utcák hálózata alkotja a város legnagyobb kereskedelmi gócpontját. A piac főépülete magas belmagasságával és szellőzőrendszereivel a trópusi éghajlathoz igazodik, hűvösebb menedéket nyújtva a látogatóknak. Az árukínálat lenyűgöző: a frissen fogott atlanti halaktól kezdve a színes trópusi gyümölcsökön és egzotikus fűszereken át a hagyományos szőtt textilekig és kézműves termékekig minden megtalálható. A piac nem csupán az adásvétel helyszíne, hanem egyfajta információs központ is, ahol a különböző népcsoportok tagjai találkoznak és megosztják híreiket. A levegőben sült hús, fűszerek és a tenger illata keveredik a kereskedők élénk hangjával. Bár Bissauban is megjelentek a modern üzletek, a Mercado Central továbbra is a város legautentikusabb pontja, ahol a gazdasági élet valós dinamikája érezhető. A látogatók számára ez a helyszín a legjobb lehetőség arra, hogy megismerjék Guinea-Bissau gasztronómiai gazdagságát és a helyi lakosok mindennapi küzdelmeit és életerejét.",
+        "ro": "Piața Centrală din Bissau, cunoscută sub numele de Mercado Central, constituie inima economică vibrantă a capitalei și unul dintre cele mai animate locuri din țară. Situată la marginea cartierului istoric Bissau-Velho, piața ocupă o clădire emblematică din epoca colonială și se extinde pe străzile adiacente, formând un labirint comercial fascinant. Arhitectura halelei principale a fost proiectată pentru a facilita circulația aerului, oferind un mediu relativ răcoros în contrast cu temperaturile exterioare ridicate. Aici, vizitatorii pot găsi o diversitate incredibilă de produse: de la fructe tropicale exotice și pește proaspăt din apele Atlanticului, până la țesături tradiționale lucrate manual și condimente locale cu arome intense. Mercado Central nu este doar un spațiu de schimb comercial, ci și un nod social vital unde diversele etnii din Guineea-Bissau interacționează și conviețuiesc. Atmosfera este dominată de culori vii, mirosuri specifice și forfota continuă a vânzătorilor și cumpărătorilor. În ciuda modernizării urbane, Piața Centrală rămâne cel mai fidel indicator al economiei locale și al spiritului comunitar. O vizită aici oferă o incursiune profundă în cultura gastronomică și în viața de zi cu zi a locuitorilor din Bissau, fiind un reper obligatoriu pentru orice explorator al regiunii.",
+        "en": "The Central Market of Bissau, locally known as Mercado Central, is the pulsating economic heart of the capital and a fascinating microcosm of West African daily life. Located on the edge of the Bissau-Velho district, the market occupies a historic colonial-era structure that expands into a vast network of neighboring streets and alleys. The architecture of the main hall features high ceilings and specialized ventilation systems designed to provide relief from the intense tropical heat. Inside, a staggering variety of goods is on display, ranging from fresh Atlantic fish and vibrant tropical fruits to hand-woven textiles, traditional crafts, and rare spices. Beyond its commercial function, the market serves as a vital social crossroads where members of various ethnic groups converge to trade and exchange local news. The air is filled with the scent of grilled meats, aromatic herbs, and the lively calls of vendors. Despite the rise of modern supermarkets, Mercado Central remains the definitive location to experience the true identity and economic energy of the city. A visit to the market provides deep insights into the local culinary traditions and the informal trade networks that sustain much of the urban population, making it an essential landmark for understanding Bissau’s social fabric."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Hauptgebäude des Marktes stammt aus der portugiesischen Kolonialzeit.",
+          "Er ist der größte Umschlagplatz für frische Lebensmittel in Guinea-Bissau.",
+          "Der Markt ist nach Warengruppen wie Fisch, Fleisch und Textilien gegliedert.",
+          "Er befindet sich in Gehweite zum historischen Viertel Bissau-Velho.",
+          "Die lebhaftesten Geschäftszeiten sind in den frühen Morgenstunden.",
+          "Handgefertigte Körbe und bunte Stoffe sind beliebte lokale Produkte."
+        ],
+        "hu": [
+          "A piac központi csarnoka a gyarmati építészet egyik fontos maradványa.",
+          "Itt található a város legnagyobb választéka friss tengeri halakból.",
+          "A piac környékén számos hagyományos kifőzde és utcai árus üzemel.",
+          "A terület a bissaui közlekedés egyik fontos csomópontja is.",
+          "A Mercado Central az ország informális gazdaságának motorja.",
+          "A textilrészlegen különleges, kézzel szőtt 'panu di pinti' anyagok is kaphatók."
+        ],
+        "ro": [
+          "Clădirea pieței a fost renovată de mai multe ori pentru a crește igiena.",
+          "Este locul principal de aprovizionare pentru restaurantele din Bissau.",
+          "Piața este renumită pentru varietatea mare de arahide și nuci caju.",
+          "Se află în apropierea portului, asigurând pește proaspăt zilnic.",
+          "Este un centru cultural unde se pot observa dialectele și portul local.",
+          "Negocierea prețului este o parte esențială a experienței de cumpărare."
+        ],
+        "en": [
+          "The market hall is a notable example of functional colonial architecture.",
+          "It serves as the main distribution point for produce from the interior.",
+          "Sections are dedicated to traditional medicine and indigenous herbs.",
+          "It is located in the historic transition zone between old and new Bissau.",
+          "The market is most active between 7 AM and 10 AM each day.",
+          "It is a major hub for the sale of the country's famous cashew nuts."
+        ]
+      }
+    },
+    {
+      "id": "bceao-building-bissau-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das BCEAO-Gebäude in Bissau ist der Sitz der Zentralbank der westafrikanischen Staaten (Banque Centrale des États de l'Afrique de l'Ouest) in Guinea-Bissau und eines der markantesten modernen Bauwerke der Hauptstadt. Das imposante Hochhaus ragt über die flache Skyline von Bissau hinaus und symbolisiert die wirtschaftliche Integration des Landes in die Westafrikanische Wirtschafts- und Währungsunion (UEMOA), der Guinea-Bissau 1997 beitrat. Die Architektur des Gebäudes ist modern und funktional, geprägt von Glasfronten und Betonstrukturen, die Stabilität und Fortschritt ausstrahlen sollen. Als Sitz der Institution, die den CFA-Franc verwaltet, ist das Gebäude ein hochgesichertes Areal und ein wichtiger Knotenpunkt für das nationale Finanzsystem. Die Lage an einer der Hauptverkehrsadern der Stadt unterstreicht seine Bedeutung als administratives Zentrum. Das BCEAO-Gebäude steht im starken Kontrast zur kolonialen Architektur von Bissau-Velho und repräsentiert die Ambitionen des Landes, sich in die regionalen Finanzmärkte zu integrieren. Für die Bewohner der Stadt ist das Gebäude ein Orientierungspunkt und ein Symbol für den modernen Sektor der guineischen Wirtschaft, auch wenn es für die breite Öffentlichkeit weitgehend unzugänglich bleibt.",
+        "hu": "A bissaui BCEAO-épület a Nyugat-afrikai Államok Központi Bankjának (Banque Centrale des États de l'Afrique de l'Ouest) székhelye Guinea-Bissauban, és a főváros egyik legmodernebb építészeti alkotása. A toronyház messze kimagaslik Bissau viszonylag alacsony sziluettjéből, jelképezve az ország integrációját a Nyugat-afrikai Gazdasági és Pénzügyi Unióba (UEMOA), amelyhez 1997-ben csatlakozott. Az épület stílusa modern és funkcionalista, üveg és beton felületei a stabilitást és a gazdasági fejlődést hivatottak sugározni. Mint a CFA frankot kezelő intézmény helyi központja, az épület szigorúan őrzött terület, és a nemzeti pénzügyi rendszer legfontosabb csomópontja. Elhelyezkedése a város egyik fő közlekedési útvonala mentén hangsúlyozza adminisztratív fontosságát. A BCEAO-épület éles kontrasztban áll Bissau-Velho ódon gyarmati épületeivel, és Guinea-Bissau azon törekvését reprezentálja, hogy aktív részese legyen a regionális pénzpiacoknak. A város lakói számára az épület fontos tájékozódási pont és a modernizáció jelképe, még akkor is, ha a nagyközönség számára belső terei zártak.",
+        "ro": "Clădirea BCEAO din Bissau reprezintă sediul Băncii Centrale a Statelor din Africa de Vest în Guineea-Bissau și este una dintre cele mai înalte și moderne structuri din capitală. Edificiul se evidențiază clar deasupra liniei orizontului orașului, simbolizând integrarea țării în Uniunea Economică și Monetară Vest-Africană (UEMOA) începând cu anul 1997. Arhitectura sa este definită de un stil contemporan, utilizând sticlă și beton pentru a proiecta o imagine de stabilitate financiară și progres tehnologic. Fiind instituția care gestionează moneda CFA în regiune, clădirea este un perimetru de maximă securitate și nucleul sistemului bancar național. Situată pe una dintre arterele principale ale orașului, clădirea BCEAO servește drept punct de reper vizual major. Contrastul dintre acest turn modern și clădirile coloniale din Bissau-Velho subliniază ambițiile de modernizare ale țării. Pentru localnici, clădirea este un simbol al sectorului financiar formal și al conectivității regionale, reprezentând o piesă esențială în infrastructura administrativă a unei Guinee-Bissau care privește spre viitorul economic al Africii de Vest.",
+        "en": "The BCEAO Building in Bissau is the national headquarters of the Central Bank of West African States (Banque Centrale des États de l'Afrique de l'Ouest) and one of the most prominent modern architectural landmarks in the capital. This high-rise structure towers over Bissau's relatively low skyline, symbolizing the country's integration into the West African Economic and Monetary Union (UEMOA), which it joined in 1997. The building's design is sleek and functional, utilizing glass and reinforced concrete to project an image of financial stability and institutional progress. As the regional authority managing the CFA franc, the building is a high-security facility and serves as the nerve center for the nation's financial sector. Its location along one of the city's primary boulevards highlights its importance within the central administrative district. The BCEAO Building stands in sharp contrast to the surrounding colonial-era architecture of Bissau-Velho, representing Guinea-Bissau's aspirations for modern economic development and regional cooperation. For the city's residents, the building is a key navigational landmark and a symbol of the modern financial world, even as it remains largely inaccessible to the general public for security reasons."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude beherbergt die Regionalbank für die westafrikanische Währungsunion.",
+          "Es ist eines der wenigen modernen Hochhäuser im Stadtzentrum von Bissau.",
+          "Guinea-Bissau trat der BCEAO und der CFA-Zone im Jahr 1997 bei.",
+          "Das Gebäude ist aufgrund seiner Funktion als Zentralbank streng bewacht.",
+          "Es dient als wichtiger Orientierungspunkt für den Verkehr in der Hauptstadt.",
+          "Die Architektur bricht bewusst mit dem kolonialen Stil der Umgebung."
+        ],
+        "hu": [
+          "Ez a bank felügyeli a CFA frank forgalmát Guinea-Bissauban.",
+          "Az épület Bissau egyik legmagasabb és legmodernebb építménye.",
+          "A bank 1997-ben nyitotta meg kapuit, az ország valutaövezeti csatlakozásakor.",
+          "A toronyház üvegfala az egész kormányzati negyedben messziről látható.",
+          "Az épület belső tereiben szigorú biztonsági protokollok érvényesülnek.",
+          "Fontos szerepet játszik a regionális pénzügyi stabilitás fenntartásában."
+        ],
+        "ro": [
+          "Clădirea este sediul sucursalei naționale a băncii centrale regionale.",
+          "Reprezintă aderarea țării la zona monetară a francului CFA.",
+          "Arhitectura sa este considerată avangardistă pentru centrul orașului Bissau.",
+          "Este un punct nodal pentru toate tranzacțiile financiare majore din țară.",
+          "Vizibilitatea sa de pe mare îl face un reper pentru navigație.",
+          "Simbolizează modernizarea instituțiilor financiare guineene."
+        ],
+        "en": [
+          "The building acts as the local branch of the regional West African central bank.",
+          "It is a rare example of modern high-rise architecture in the city center.",
+          "The institution has managed the national currency since 1997.",
+          "The building's design emphasizes transparency and institutional strength.",
+          "It is located in the heart of the business and diplomatic district.",
+          "The BCEAO tower is a central landmark for both locals and expatriates."
+        ]
+      }
+    }
+  ]
+}

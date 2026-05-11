@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "batokunku-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Batokunku ist ein malerisches Küstendorf im Distrikt Kombo South, das für seine ruhigen Strände und seine Vorreiterrolle bei erneuerbaren Energien bekannt ist. Geografisch liegt es an einem unberührten Abschnitt der Atlantikküste, geprägt durch sanfte Sanddünen und weitläufige Palmenhaine. Batokunku erlangte internationale Aufmerksamkeit durch die Installation der ersten gemeinschaftlich betriebenen Windkraftanlage Gambias, die das Dorf weitgehend autark in der Stromversorgung machte. Die Wirtschaft basiert traditionell auf dem Fischfang und der Landwirtschaft, entwickelt sich jedoch zunehmend zu einem Ziel für nachhaltigen Tourismus und private Wohnresidenzen. Die Bewohner bewahren eine enge Gemeinschaftsstruktur und sind stolz auf ihre ökologischen Initiativen. Das Relief ist flach mit direktem Zugang zum Meer, was Batokunku zu einem idealen Ort für Erholungssuchende macht, die die ursprüngliche Küstenlandschaft Gambias schätzen.",
+        "hu": "Batokunku egy festői tengerparti falu a Kombo South körzetben, amely nyugodt strandjairól és a megújuló energia terén betöltött úttörő szerepéről ismert. Földrajzilag az Atlanti-óceán egy érintetlen szakaszán fekszik, amelyet homokdűnék és kiterjedt pálmaligetek jellemeznek. Batokunku azzal vált nemzetközileg ismertté, hogy itt állították fel Gambia első közösségi szélerőművét, amely a falu áramellátásának nagy részét biztosítja. A helyi gazdaság hagyományosan a halászatra és a mezőgazdaságra épül, de egyre jelentősebb a fenntartható turizmus és a magánvillák építése is. A lakók szoros közösséget alkotnak, és nagy hangsúlyt fektetnek a környezetvédelemre. A terület domborzata sík, közvetlen kijárattal az óceánra, így ideális célpont azoknak, akik Gambia autentikus és környezettudatos arcát keresik.",
+        "ro": "Batokunku este un sat de coastă pitoresc situat în districtul Kombo South, renumit pentru plajele sale liniștite și pentru rolul său de pionierat în energia regenerabilă. Geografic, se află pe o secțiune virgină a coastei atlantice, caracterizată prin dune de nisip și livezi de palmieri. Batokunku a atras atenția internațională prin instalarea primei turbine eoliene comunitare din Gambia, care asigură independența energetică a satului. Economia locală se bazează tradițional pe pescuit și agricultură, însă se dezvoltă rapid ca destinație pentru turismul sustenabil și reședințe private de vacanță. Locuitorii mențin o structură comunitară strânsă și sunt mândri de inițiativele lor ecologice. Relieful este plat, cu acces direct la mare, transformând Batokunku într-un loc ideal pentru relaxare și observarea naturii litorale nealterate.",
+        "en": "Batokunku is a picturesque coastal village in the Kombo South District, renowned for its tranquil beaches and its pioneering role in renewable energy. Geographically, it is situated along a pristine stretch of the Atlantic coast, characterized by gentle sand dunes and extensive palm groves. Batokunku gained international fame for installing the first community-run wind turbine in The Gambia, providing the village with sustainable electricity. The local economy traditionally relies on fishing and agriculture but is increasingly becoming a destination for eco-conscious tourism and private residential development. Residents maintain a tight-knit community structure and take great pride in their environmental initiatives. The relief is flat with direct ocean access, making Batokunku an ideal spot for those seeking the original coastal beauty of The Gambia away from mass tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Batokunku beherbergt die erste Windkraftanlage Gambias.",
+          "Das Dorf liegt im Distrikt Kombo South am Atlantischen Ozean.",
+          "Die Gemeinde verwaltet ihre Energieversorgung weitgehend selbstständig.",
+          "Der Strand von Batokunku gilt als einer der saubersten des Landes.",
+          "Die Landwirtschaft konzentriert sich auf den Anbau von Obst und Gemüse.",
+          "Batokunku ist ein Modellprojekt für nachhaltige ländliche Entwicklung."
+        ],
+        "hu": [
+          "Batokunku szélerőműve dán-gambi együttműködés keretében valósult meg.",
+          "A falu híres a rendezett, tiszta utcáiról és környezettudatosságáról.",
+          "A tengerparti sávban több környezetbarát vendégház is üzemel.",
+          "A település fontos központja a helyi fafaragó művészeknek.",
+          "Batokunku lakossága jelentős részt vállal a közösségi erdővédelemben.",
+          "A falu népszerű a csendes pihenésre vágyó külföldi látogatók körében."
+        ],
+        "ro": [
+          "Turbina eoliană din Batokunku a fost instalată în anul 2008.",
+          "Satul dispune de un sistem propriu de gestionare a apei potabile.",
+          "Relieful litoral este protejat împotriva eroziunii prin vegetație nativă.",
+          "Batokunku este situat între localitățile Tanji și Tujeereng.",
+          "Economia informală include producția de ulei de cocos artizanal.",
+          "Localitatea este recunoscută pentru ospitalitatea și siguranța sa."
+        ],
+        "en": [
+          "Batokunku is a leader in community-based green energy in West Africa.",
+          "The coastal area features unique rock formations near the shoreline.",
+          "It acts as a primary site for sustainable agricultural experiments.",
+          "The town is a favored location for international birdwatchers.",
+          "Community projects focus on reforestation and beach preservation.",
+          "Batokunku remains a quiet alternative to the busy Senegambia strip."
+        ]
+      }
+    },
+    {
+      "id": "tujereng-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tujereng ist eine aufstrebende Küstenstadt im Distrikt Kombo South, die für ihre weiten Strände und ihr reiches kulturelles Erbe bekannt ist. Geografisch liegt sie auf einer sanften Anhöhe über dem Meer, was ihr kühle Brisen und eine malerische Aussicht verschafft. Tujereng ist ein Zentrum der Mandinka-Kultur und bekannt für seine traditionellen Heiler und spirituellen Stätten. Die Stadt hat in den letzten Jahren ein signifikantes Wachstum erlebt, da sie sowohl für den lokalen Tourismus als auch als Wohnort für Pendler attraktiver wurde. Wirtschaftlich spielen der Gartenbau und der Fischfang die Hauptrollen, ergänzt durch aufstrebende Öko-Lodges. Das Relief ist durch rote Sandsteinformationen und Küstenwald geprägt, der zahlreichen Vogelarten Schutz bietet. Tujereng symbolisiert den Übergang zwischen traditionellem Dorfleben und moderner Entwicklung an der gambischen Küste.",
+        "hu": "Tujereng egy dinamikusan fejlődő tengerparti város a Kombo South körzetben, amely tágas strandjairól és gazdag kulturális örökségéről nevezetes. Földrajzilag egy enyhe magaslaton fekszik az óceán felett, ami kellemes szellőt és festői kilátást biztosít a településnek. Tujereng a mandinka kultúra egyik fontos központja, híres hagyományos gyógyítóiról és spirituális helyszíneiről. Az utóbbi években jelentős növekedésnek indult, mivel egyre népszerűbbé vált mind a belföldi turizmus, mind a városi ingázók körében. Gazdaságilag a kertészet és a halászat dominál, amit az utóbbi időben feltörekvő ökolodzsák egészítenek ki. A tájat vörös homokkő alakzatok és parti erdősávok jellemzik, amelyek számos madárfajnak adnak otthont. Tujereng jól példázza a hagyományos falusi élet és a modern tengerparti fejlesztések találkozását.",
+        "ro": "Tujereng este un oraș de coastă în plină dezvoltare situat în districtul Kombo South, cunoscut pentru plajele sale largi și patrimoniul cultural bogat. Geografic, este așezat pe o ușoară elevație deasupra oceanului, beneficiind de briză constantă și vederi spectaculoase. Tujereng reprezintă un centru al culturii Mandinka, fiind renumit pentru vindecătorii tradiționali și siturile sale spirituale. Orașul a cunoscut o expansiune semnificativă în ultimii ani, devenind o destinație atractivă pentru turismul local și pentru rezidenții care fac naveta. Din punct de vedere economic, horticultura și pescuitul sunt activitățile principale, completate de apariția unor unități de cazare ecologice. Relieful este marcat de gresie roșie și fâșii de pădure litorală care adăpostesc numeroase specii de păsări. Tujereng simbolizează tranziția dintre viața rurală tradițională și dezvoltarea modernă a litoralului gambian.",
+        "en": "Tujereng is a growing coastal town in the Kombo South District, recognized for its expansive beaches and rich cultural heritage. Geographically, it sits on a gentle rise above the Atlantic, offering refreshing sea breezes and scenic vistas. Tujereng is a hub for Mandinka culture, famous for its traditional healers and spiritual landmarks. The town has experienced significant growth recently, becoming a popular choice for both local tourism and urban commuters. Economically, market gardening and fishing lead the local industry, supported by a burgeoning eco-hospitality sector. The landscape features red sandstone formations and coastal woodland that provides a sanctuary for many bird species. Tujereng perfectly embodies the shift from traditional village life to modern coastal development in The Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Tujereng liegt an der strategisch wichtigen Küstenstraße Gambias.",
+          "Die Stadt ist bekannt für ihre traditionellen Initiationsriten.",
+          "Der Strand von Tujereng ist berühmt für seine Weitläufigkeit und Ruhe.",
+          "In der Umgebung wird intensiv Gartenbau für die Märkte der Küste betrieben.",
+          "Die Region ist ein wichtiger Standort für die lokale Imkerei.",
+          "Tujereng beherbergt mehrere renommierte gemeindebasierte Bildungsprojekte."
+        ],
+        "hu": [
+          "Tujereng híres a kiváló minőségű méztermeléséről.",
+          "A város tengerpartján látványos vöröses sziklafalak találhatók.",
+          "A településen fontos közösségi gyümölcsösök működnek.",
+          "Tujereng környéke Gambia egyik legnépszerűbb madármegfigyelő helye.",
+          "A helyi piac híres a friss tengeri halakról és zöldségekről.",
+          "A város lakossága nagy hangsúlyt fektet a kulturális fesztiválok megőrzésére."
+        ],
+        "ro": [
+          "Tujereng este un centru important pentru medicina tradițională africană.",
+          "Relieful colinar oferă o drenare naturală excelentă a solului.",
+          "Plaja Tujereng este mai puțin expusă eroziunii decât zonele din nord.",
+          "Localitatea găzduiește sedii ale unor fundații educaționale internaționale.",
+          "Tujereng este renumit pentru turneele locale de lupte libere.",
+          "Vegetația include specii rare de arbori protejați de comunitate."
+        ],
+        "en": [
+          "Tujereng's beach is a prime site for observing coastal bird migration.",
+          "The town is a significant producer of cashews and citrus fruits.",
+          "It features a strong traditional leadership structure (Alkalo).",
+          "Tujereng is becoming a hub for sustainable residential architecture.",
+          "The area is known for its high-quality groundwater resources.",
+          "Local women's groups are active in large-scale vegetable farming."
+        ]
+      }
+    },
+    {
+      "id": "kalagi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kalagi ist eine strategisch wichtige Siedlung im Distrikt Foni Jarrol der West Coast Region Gambias, nahe der Grenze zur Lower River Region. Die Stadt liegt direkt an der South Bank Road und fungiert als bedeutendes Tor zum östlichen Hinterland des Landes. Geografisch ist Kalagi durch seine Lage am Ufer des Bintang Bolong, des größten Nebenflusses des Gambia-Flusses, geprägt. Die umliegende Landschaft besteht aus dichten Mangrovenwäldern, Sumpfgebieten und fruchtbarem Ackerland. Wirtschaftlich ist Kalagi ein Zentrum für den Handel mit Agrarprodukten und ein wichtiger Verkehrsknotenpunkt, an dem Reisende auf dem Weg nach Soma oder Basse oft Halt machen. Ein besonderes Merkmal ist die Nähe zu ökologisch wertvollen Feuchtgebieten, die eine reiche Vogelwelt beherbergen. Trotz ihrer Rolle als Durchgangsort hat die Stadt ihren ruhigen, ländlichen Charme bewahrt, tief verwurzelt in den Traditionen der Jola und Mandinka. Das Relief ist weitgehend flach, wird aber durch das verzweigte Kanalsystem des Bolong strukturell bestimmt. Kalagi ist ein Beispiel für die Bedeutung kleinerer urbaner Zentren bei der Erschließung der ländlichen Provinzen Gambias.",
+        "hu": "Kalagi egy stratégiai fontosságú település a Foni Jarrol körzetben, Gambia Nyugati Part (West Coast) régiójában, közel a Lower River régió határához. A város közvetlenül a déli parti főút mentén fekszik, és az ország keleti területei felé vezető út egyik meghatározó kapuja. Földrajzi fekvését a Bintang Bolong, a Gambia-folyó legnagyobb mellékága határozza meg, amelynek partján a település elterül. A környező táj mangroveerdőkből, mocsarakból és termékeny mezőgazdasági földekből áll. Gazdaságilag Kalagi fontos mezőgazdasági kereskedelmi pont és közlekedési csomópont, ahol a Soma vagy Basse felé tartó utazók gyakran megállnak. Különlegessége az ökológiailag értékes vizes élőhelyek közelsége, amelyek gazdag madárvilágnak adnak otthont. Tranzit szerepe ellenére a város megőrizte békés, vidéki jellegét, amely mélyen gyökerezik a jola és mandinka hagyományokban. A domborzat nagyrészt sík, de a Bolong elágazó csatornarendszere strukturálisan meghatározza a környéket. Kalagi jól példázza a kisebb városi központok jelentőségét Gambia vidéki tartományainak összekapcsolásában.",
+        "ro": "Kalagi este o așezare strategică situată în districtul Foni Jarrol din regiunea West Coast a Gambiei, aproape de limita cu regiunea Lower River. Orașul ocupă o poziție cheie pe drumul principal de pe malul sudic (South Bank Road), servind drept o poartă importantă către hinterlandul estic al țării. Din punct de vedere geografic, Kalagi este definit de proximitatea sa față de malurile Bintang Bolong, cel mai mare afluent al fluviului Gambia. Peisajul înconjurător este un amestec de mangrove dense, zone mlăștinoase și terenuri agricole fertile. Economia locală gravitează în jurul comerțului agricol și al funcției de nod de tranzit, fiind o oprire frecventă pentru călătorii care se îndreaptă spre Soma sau Basse. O trăsătură distinctivă este accesul la zonele umede de mare valoare ecologică, care atrag o avifaună diversă. În ciuda rolului său de punct de tranzit, orașul și-a păstrat farmecul rural liniștit, fiind un bastion al tradițiilor Jola și Mandinka. Relieful este predominant plat, fiind modelat structural de rețeaua de canale a pârâului Bintang. Kalagi exemplifică importanța centrelor urbane mici în integrarea provinciilor rurale ale Gambiei.",
+        "en": "Kalagi is a strategically significant settlement in the Foni Jarrol District of The Gambia's West Coast Region, located near the border with the Lower River Region. The town sits directly on the South Bank Road and acts as a major gateway to the country's eastern interior. Geographically, Kalagi is defined by its position along the banks of the Bintang Bolong, the largest tributary of the Gambia River. The surrounding landscape comprises dense mangrove forests, wetlands, and fertile agricultural land. Economically, Kalagi serves as a hub for agricultural trade and an important transit point where travelers often stop on their way to Soma or Basse. A key feature of the town is its proximity to ecologically valuable wetlands that host a rich variety of birdlife. Despite its role as a transit node, the town has maintained its serene, rural charm, deeply rooted in the traditions of the Jola and Mandinka ethnic groups. The relief is largely flat but is structurally defined by the intricate canal system of the Bolong. Kalagi exemplifies the importance of smaller urban centers in providing services to rural provinces and facilitating national connectivity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kalagi liegt am Ufer des Bintang Bolong, eines schiffbaren Nebenflusses.",
+          "Die Stadt bildet die Grenze zwischen der West Coast und der Lower River Region.",
+          "Kalagi ist ein bedeutender Umschlagplatz für Fisch aus den Binnengewässern.",
+          "Die Umgebung ist für ihre dichten und ökologisch intakten Mangroven bekannt.",
+          "In Kalagi befindet sich ein wichtiger Kontrollpunkt für den Fernverkehr.",
+          "Die Stadt beherbergt traditionelle Märkte für lokales Kunsthandwerk."
+        ],
+        "hu": [
+          "Kalagi a Bintang Bolong folyóág egyik legfontosabb kikötőhelye.",
+          "A város környéke híres a vadon termő gyógynövényeiről.",
+          "Kalagi fontos bázisa a természetvédelmi kutatóknak a vizes élőhelyek miatt.",
+          "A település lakossága híres a hagyományos fonott kosarairól.",
+          "Itt található a régió egyik legrégebbi és legfontosabb ellenőrző állomása.",
+          "A város neve a helyi dialektusban 'átkelőhelyet' jelent."
+        ],
+        "ro": [
+          "Kalagi este situat la aproximativ 100 km de Banjul pe South Bank Road.",
+          "Relieful este dominat de câmpia aluvionară a pârâului Bintang.",
+          "Localitatea este un punct vital pentru monitorizarea resurselor forestiere din Foni.",
+          "Piața din Kalagi este renumită pentru produsele din palmier și miere.",
+          "Constituie o barieră naturală împotriva pătrunderii apei sărate în interior.",
+          "Comunitatea este recunoscută pentru păstrarea jocurilor de lupte tradiționale."
+        ],
+        "en": [
+          "Kalagi is the administrative headquarters of the Foni Jarrol District.",
+          "The Bintang Bolong at Kalagi is a major habitat for Nile crocodiles.",
+          "The town acts as a critical logistics point for the regional groundnut trade.",
+          "It features some of the best-preserved riparian forests in the country.",
+          "Kalagi is a key stop for the 'Gelli-Gelli' minibuses heading east.",
+          "The local ecosystem supports a high density of West African Manatees."
+        ]
+      }
+    },
+    {
+      "id": "faraba-banta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Faraba Banta ist eine historisch bedeutende und wachsende Stadt im Distrikt Kombo East der West Coast Region Gambias. Sie liegt etwa 50 Kilometer landeinwärts von der Küste und ist bekannt für ihre Rolle als Zentrum für Bildung und Rohstoffgewinnung. Faraba Banta beherbergt einen der Standorte der Universität von Gambia (UTG), was der Stadt eine intellektuelle und akademische Atmosphäre verleiht. Geografisch ist die Stadt durch ihre Lage in einer sanft gewellten Savannenlandschaft geprägt, die reich an Lateritvorkommen ist, die für das Baugewerbe genutzt werden. Ein trauriger Meilenstein in der jüngeren Geschichte waren Proteste gegen den Sandabbau, die die Stadt landesweit in die Schlagzeilen brachten und Debatten über Umweltrechte auslösten. Wirtschaftlich lebt Faraba Banta von der Landwirtschaft, dem Bergbau und zunehmend von den Dienstleistungen rund um den Universitätsbetrieb. Die Bevölkerung besteht überwiegend aus Mandinka, die eine starke Verbundenheit zu ihrem Land und ihren Traditionen pflegen. Trotz der industriellen Einflüsse bewahrt die Stadt einen ländlichen Kern mit majestätischen Baobabs und dichten Mangoplantagen. Für Besucher bietet Faraba Banta einen Einblick in die Herausforderungen Gambias zwischen akademischem Fortschritt, industrieller Nutzung und dem Schutz natürlicher Ressourcen.",
+        "hu": "Faraba Banta egy történelmileg jelentős és növekvő település a Kombo East körzetben, Gambia Nyugati Part (West Coast) régiójában. A tengerparttól mintegy 50 kilométerre, a szárazföld belsejében fekvő város az oktatás és a nyersanyag-kitermelés egyik fontos központja. Faraba Banta ad otthont a Gambiai Egyetem (UTG) egyik fő kampuszának, ami intellektuális és akadémiai pezsgést hozott a település életébe. Földrajzi arculatát az enyhén hullámzó szavannai táj határozza meg, amely gazdag laterit- és homokkészletekben, ezeket az építőipar hasznosítja. A város közelmúltbeli történetének fájdalmas fejezete volt a homokbányászat elleni tiltakozássorozat, amely rávilágított a környezetvédelmi jogok fontosságára az országban. Gazdaságilag a település a mezőgazdaságból, a bányászatból és az egyetemhez kapcsolódó szolgáltatásokból él. A lakosság többsége mandinka, akik büszkén ápolják hagyományaikat és földjüket. Az ipari és akadémiai hatások ellenére Faraba Banta megőrizte vidéki jellegét, hatalmas majomkenyérfákkal és dús mangóültetvényekkel. Az idelátogatók számára a város érdekes példája annak, hogyan próbál egy gambiai közösség egyensúlyt találni a modern fejlődés és a természeti erőforrások védelme között.",
+        "ro": "Faraba Banta este un oraș cu o semnificație istorică și academică majoră situat în districtul Kombo East din regiunea West Coast a Gambiei. Localizat la aproximativ 50 de kilometri de coastă, orașul a devenit cunoscut la nivel național ca sediu al unui campus important al Universității Gambiei (UTG). Geografia localității este definită de un relief ușor ondulat, specific savanei, și de prezența unor zăcăminte bogate de nisip și laterită, esențiale pentru industria construcțiilor din țară. În ultimii ani, Faraba Banta a fost scena unor dezbateri intense privind echilibrul între exploatarea resurselor minerale și protecția mediului, reflectând activismul civic al comunității. Economia locală este diversificată, îmbinând agricultura de subzistență cu activitățile miniere și serviciile educaționale. Din punct de vedere demografic, localitatea este un bastion al etniei Mandinka, care păstrează o legătură profundă cu valorile ancestrale. Peisajul este punctat de baobabi seculari și livezi de mango, oferind un cadru natural tipic pentru interiorul regiunii Kombo. Pentru observatori, Faraba Banta reprezintă un studiu de caz despre transformarea rurală sub influența învățământului superior și a presiunilor industriale, rămânând un simbol al rezilienței rurale gambiene.",
+        "en": "Faraba Banta is a historically significant and growing town in the Kombo East District of The Gambia's West Coast Region. Located about 50 kilometers inland, it is widely known as a center for higher education and resource extraction. The town hosts one of the major campuses of the University of The Gambia (UTG), lending it an academic and intellectual atmosphere. Geographically, Faraba Banta is characterized by its position within a gently undulating savanna landscape rich in laterite and sand deposits used in the national construction industry. A notable event in its recent history involved civic protests against mining activities, which brought the town into the national spotlight and sparked debates over environmental rights. Economically, the town thrives on agriculture, mining, and the expanding services required by the university community. The population is predominantly Mandinka, maintaining strong ties to their land and cultural heritage. Despite industrial and academic influences, Faraba Banta preserves its rural essence, marked by majestic baobab trees and lush mango orchards. For visitors, the town offers a unique perspective on the intersection of educational progress, industrial utility, and the ongoing struggle to protect natural resources in modern Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Faraba Banta beherbergt einen der modernsten Campus der University of The Gambia.",
+          "Die Stadt ist ein bedeutendes Zentrum für die Gewinnung von Bausand.",
+          "Der Name 'Faraba' bedeutet in Mandinka 'großes Reisfeld'.",
+          "Faraba Banta liegt strategisch an der Straße zwischen Brikama und Kalagi.",
+          "Die umliegenden Wälder sind für ihre reiche Heilpflanzenvielfalt bekannt.",
+          "In der Nähe befinden sich archäologische Fundstätten aus der Megalithzeit."
+        ],
+        "hu": [
+          "Az egyetemi kampusz megnyitása jelentősen átalakította a város gazdaságát.",
+          "Faraba Banta környékén találhatók Gambia legfontosabb homokbányái.",
+          "A település híres a közösségi szintű környezetvédelmi mozgalmairól.",
+          "A városban több hagyományos kerámiakészítő műhely is működik.",
+          "Faraba Banta lakói jelentős részt vállalnak a közeli erdőrezervátumok kezelésében.",
+          "A település stratégiai pont az ország belső részei felé tartó áruszállításban."
+        ],
+        "ro": [
+          "Faraba Banta este un centru regional pentru cercetările în domeniul agronomiei.",
+          "Relieful local include depuneri masive de laterită roșie.",
+          "Localitatea găzduiește sedii ale unor asociații de tineret universitar.",
+          "Este renumit pentru diversitatea de specii de arbori de mango din regiune.",
+          "Faraba Banta a fost un punct cheie în istoria rezistenței anti-coloniale din Kombo.",
+          "Infrastructura educațională a atras în oraș studenți din întreaga Africă de Vest."
+        ],
+        "en": [
+          "The University of The Gambia's Faraba Campus is a major landmark of the town.",
+          "It acts as a primary supplier of mineral resources for the Greater Banjul area.",
+          "The town is a significant site for the study of soil science in Gambia.",
+          "Faraba Banta features extensive community-owned mango and cashew farms.",
+          "The area is known for its cultural troupes specialized in Mandinka storytelling.",
+          "It borders several ecologically sensitive riverine bolongs to the north."
+        ]
+      }
+    },
+    {
+      "id": "yundum-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Yundum ist eine strategisch zentrale Stadt im Distrikt Kombo North, die vor allem als Standort des einzigen internationalen Flughafens Gambias, dem Banjul International Airport, weltbekannt ist. Geografisch liegt Yundum etwa 25 Kilometer südwestlich der Hauptstadt Banjul in einer flachen Savannenlandschaft, die den idealen Raum für die großflächige Luftfahrtinfrastruktur bietet. Die Stadt hat sich von einer landwirtschaftlich geprägten Siedlung zu einem geschäftigen logistischen Zentrum entwickelt. Yundum beherbergt zudem wichtige Bildungseinrichtungen wie die Gambia College School of Agriculture und bedeutende militärische Einrichtungen. Wirtschaftlich profitiert die Stadt massiv vom Flughafenbetrieb, dem damit verbundenen Transportwesen und dem internationalen Handel. Trotz der modernen Infrastruktur bewahrt Yundum traditionelle Strukturen in seinen Wohnvierteln, wo Mandinka- und Jola-Gemeinschaften dominieren. Das Relief ist eben, was eine schnelle städtebauliche Expansion in Richtung Serekunda und Brikama ermöglicht hat. Für Reisende ist Yundum das erste und letzte Gesicht Gambias, ein Ort der Mobilität und ein Symbol für die Anbindung des Landes an die Welt.",
+        "hu": "Yundum egy stratégiai jelentőségű város a Kombo North körzetben, amely elsősorban az ország egyetlen nemzetközi repülőterének, a Banjul International Airportnak köszönhetően ismert világszerte. Földrajzi elhelyezkedése kedvező: mintegy 25 kilométerre délnyugatra fekszik a fővárostól, Banjultól, egy tágas, sík szavannai területen, amely ideális helyszínt biztosított a repülőtéri infrastruktúra kiépítéséhez. A település az elmúlt évtizedekben egy agrárfókuszú faluból Gambia legfontosabb logisztikai és közlekedési csomópontjává vált. Yundum nemcsak a légiközlekedés kapuja, hanem fontos oktatási bázis is, itt található például a Gambia College mezőgazdasági kara, valamint jelentős katonai létesítmények székhelye. Gazdaságilag a város motorja a repülőtérhez kapcsolódó szolgáltató szektor, a szállítás és a nemzetközi kereskedelem. A modern létesítmények mellett a lakónegyedek megőrizték hagyományos gambiai karakterüket, ahol a mandinka és jola közösségek élnek. A domborzat sík, ami segítette a város gyors terjeszkedését Serekunda és Brikama irányába. Az utazók számára Yundum jelenti Gambia első és utolsó állomását, a mobilitás és az ország globális nyitottságának szimbólumát.",
+        "ro": "Yundum este un oraș de o importanță strategică centrală în districtul Kombo North, fiind renumit la nivel mondial ca locație a Aeroportului Internațional Banjul, singura poartă aeriană a Gambiei. Situat la aproximativ 25 de kilometri sud-vest de capitală, Yundum ocupă un relief plat de savană, ideal pentru infrastructura aeronautică extinsă. Orașul a evoluat rapid de la o comunitate agricolă la un hub logistic efervescent. Pe lângă rolul său în transporturi, Yundum este un pol educațional major, găzduind facultatea de agricultură a Gambia College și facilități militare de importanță națională. Economia orașului este strâns legată de activitățile aeroportuare, sectorul transporturilor și comerțul internațional. În ciuda modernizării accelerate, cartierele rezidențiale din Yundum păstrează o coeziune socială tradițională, fiind populate majoritar de etniile Mandinka și Jola. Relieful uniform a permis o expansiune urbană rapidă, integrând localitatea în marea aglomerație ce leagă Serekunda de Brikama. Pentru călători, Yundum reprezintă primul punct de contact cu ospitalitatea gambiană și un simbol al conectivității țării cu restul lumii. Este inima pulsândă a logisticii naționale, unde cerul se întâlnește cu tradiția pământului.",
+        "en": "Yundum is a strategically central town in the Kombo North District, world-famous as the home of The Gambia’s only international airport, Banjul International Airport. Geographically located about 25 kilometers southwest of the capital, Banjul, it sits on a flat savanna plain that provides the ideal space for large-scale aviation infrastructure. The town has transitioned from a primarily agricultural settlement into a bustling logistical and transport hub. Yundum also hosts significant educational institutions, such as the Gambia College School of Agriculture, and key military installations of the Gambian armed forces. Economically, the town benefits immensely from airport-related services, international trade, and the transportation sector. Despite its modern infrastructure, Yundum maintains traditional community structures within its residential quarters, with the Mandinka and Jola ethnic groups predominating. The terrain is flat, which has facilitated rapid urban sprawl toward Serekunda and Brikama. For travelers, Yundum is the primary gateway to the nation, representing Gambian mobility and its integration into the global community. It stands as a vital node in the country's economic and administrative architecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Yundum beherbergt den Banjul International Airport, dessen Landebahn von der NASA als Notlandeplatz genutzt wurde.",
+          "Die Stadt ist der Sitz der Landwirtschaftlichen Fakultät des Gambia College.",
+          "In Yundum befinden sich bedeutende Kasernen der Gambia Armed Forces.",
+          "Die Stadt liegt am Kreuzungspunkt zwischen der Küstenstraße und der South Bank Road.",
+          "Yundum war historisch ein bedeutendes Zentrum für den Getreideanbau.",
+          "Der Flughafenbau in den 1970er Jahren veränderte das Relief der Region nachhaltig."
+        ],
+        "hu": [
+          "Yundum repülőtere a világ egyik leghosszabb kifutópályájával rendelkezik Nyugat-Afrikában.",
+          "A város fontos mezőgazdasági kutatóállomásnak ad otthont.",
+          "Yundum az ország egyik legfontosabb logisztikai bázisa a segélyszállítmányok számára.",
+          "A településen több nagykereskedelmi raktárközpont működik.",
+          "A város népessége az elmúlt évtizedben az egyik leggyorsabban nőtt Gambiában.",
+          "A repülőtér környéki területet szigorú biztonsági zóna védi."
+        ],
+        "ro": [
+          "Aeroportul din Yundum a fost selectat ca loc de aterizare de urgență pentru navetele spațiale americane.",
+          "Yundum este un centru major pentru formarea specialiștilor în zootehnie.",
+          "Localitatea servește drept punct de distribuție pentru bunurile importate pe cale aeriană.",
+          "Relieful plat din Yundum a fost esențial pentru siguranța operațiunilor aviatice.",
+          "Orașul găzduiește sedii ale unor companii internaționale de logistică.",
+          "Yundum este conectat printr-o autostradă modernă de zonele turistice de coastă."
+        ],
+        "en": [
+          "Yundum is home to the national meteorological station for aviation.",
+          "The town acts as a primary residential area for aviation and military personnel.",
+          "It features significant expanses of community-managed agricultural land.",
+          "Yundum is a key node for the national poultry and egg industry.",
+          "The area is known for its high concentration of transit workshops and garages.",
+          "The town is a significant site for Gambian national security and defense."
+        ]
+      }
+    }
+  ]
+}

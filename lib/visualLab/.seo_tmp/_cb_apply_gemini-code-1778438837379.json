@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marakissa-river-camp-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Marakissa River Camp liegt im äußersten Südwesten Gambias an einem Nebenfluss des Allahein River, unmittelbar an der Grenze zum Senegal. Geografisch ist dieser Ort durch ein Mosaik aus dichten Galeriewäldern, saisonalen Feuchtgebieten und landwirtschaftlichen Flächen geprägt. Ursprünglich als einfacher Außenposten für Naturbeobachter gegründet, hat sich das Camp zu einem international anerkannten Zentrum für den sanften Ökotourismus entwickelt. Ökonomisch spielt es eine zentrale Rolle für die lokale Gemeinschaft von Marakissa, da es Arbeitsplätze schafft und die Vermarktung lokaler Produkte fördert. Technisch zeichnet sich die Anlage durch eine ökologische Bauweise aus, die den Energieverbrauch minimiert und die Ufervegetation schont. Für Ornithologen ist das Gebiet von unschätzbarem Wert, da hier spezialisierte Arten wie die Afrikanische Binsenralle und verschiedene Eisvögel in den ruhigen Kanälen nisten. Historisch spiegelt der Ort die friedliche Koexistenz der verschiedenen ethnischen Gruppen in der Grenzregion wider. Die Symbiose aus lokaler Gastfreundschaft und dem Schutz sensibler Ökosysteme macht das Camp zu einem Modellprojekt für nachhaltige Entwicklung im ländlichen Gambia. Besucher können per Piroge die Flussläufe erkunden, was einen direkten Einblick in die ungestörte Flora und Fauna des Grenzflusses bietet.",
+        "hu": "A Marakissa River Camp Gambia legdélibb csücskében, az Allahein-folyó egyik ágánál fekszik, közvetlenül a szenegáli határ mellett. Földrajzilag a területet sűrű galériaerdők, időszakos mocsarak és mezőgazdasági területek mozaikja jellemzi. A tábort eredetileg természetvédelmi megfigyelőpontként hozták létre, mára azonban a fenntartható ökoturizmus nemzetközileg elismert központjává vált. Gazdaságilag kulcsszerepet játszik Marakissa közösségének életében, mivel közvetlen munkalehetőséget biztosít és támogatja a helyi kistermelők piacra jutását. Technikai szempontból a létesítmény ökológiai építészeti megoldásokat alkalmaz, amelyek minimalizálják az energiafelhasználást és védik a folyóparti vegetációt. Az ornitológusok számára a környék felbecsülhetetlen értékű, olyan ritka fajok fészkelnek itt, mint az afrikai úszóréce és különböző jégmadárfajok. Történelmileg a helyszín a határmenti népcsoportok békés együttélésének szimbóluma. A helyi vendégszeretet és a környezetvédelem ötvözése révén Marakissa példaként szolgál a vidéki Gambia fenntartható fejlesztési projektjei számára. A látogatók pirogue-okkal (hagyományos csónakokkal) fedezhetik fel a vízi utakat, ami egyedülálló betekintést nyújt a határfolyó érintetlen flórájába és faunájába.",
+        "ro": "Marakissa River Camp este situat în extremitatea sud-vestică a Gambiei, pe un afluent al râului Allahein, chiar la granița cu Senegal. Din punct de vedere geografic, zona este definită de un mozaic de păduri de galerie dense, zone umede sezoniere și terenuri agricole tradiționale. Fondată inițial ca un avanpost pentru observarea naturii, tabăra a evoluat într-un centru de ecoturism recunoscut la nivel internațional. Economic, situl este vital pentru comunitatea locală din Marakissa, generând venituri directe și susținând micii producători din zonă. Din punct de vedere tehnic, infrastructura taberei este construită după principii ecologice, utilizând materiale locale și sisteme de gestionare a deșeurilor care nu afectează ecosistemul riveran. Pentru ornitologi, regiunea este un punct de referință, adăpostind specii rare precum pasărea-soare sau diverse tipuri de pescăruși albaștri care preferă canalele liniștite. Istoric, locația reflectă stabilitatea și bunele relații transfrontaliere dintre Gambia și regiunea Casamance din Senegal. Marakissa reprezintă un model de dezvoltare durabilă, unde conservarea biodiversității se împletește cu educația ecologică a vizitatorilor care explorează cursurile de apă în ambarcațiuni tradiționale.",
+        "en": "Marakissa River Camp is located in the far southwest of The Gambia on a tributary of the Allahein River, right on the border with Senegal. Geographically, the area is characterized by a mosaic of dense gallery forests, seasonal wetlands, and traditional farmland. Originally established as a nature observer's outpost, the camp has evolved into an internationally recognized hub for sustainable ecotourism. Economically, it plays a central role for the local Marakissa community by providing employment and promoting local agricultural products. Technically, the facility features an eco-friendly design that minimizes energy consumption and preserves the riparian vegetation. For birdwatchers, the area is invaluable, as it hosts specialized species like the African Finfoot and various kingfishers within its quiet creeks. Historically, the site reflects the peaceful coexistence of different ethnic groups in the border region. The synergy between local hospitality and the protection of sensitive ecosystems makes the camp a model for sustainable development in rural Gambia. Visitors can explore the waterways by traditional dugout canoes, offering a direct view of the undisturbed flora and fauna of this trans-boundary river system."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtiger Standort für die Beobachtung der seltenen Afrikanischen Binsenralle.",
+          "Liegt an einem strategischen Punkt direkt an der Grenze zum Senegal.",
+          "Fördert den lokalen Tourismus durch Einbindung der Dorfgemeinschaft.",
+          "Beherbergt über 200 verschiedene Vogelarten in unmittelbarer Nähe.",
+          "Nutzt traditionelle Pirogen für geführte Flussexkursionen.",
+          "Zentrum für botanische Studien der westafrikanischen Galeriewälder."
+        ],
+        "hu": [
+          "Az afrikai úszóréce (African Finfoot) egyik legjobb megfigyelőhelye.",
+          "Stratégiai elhelyezkedése miatt fontos határmenti ökoturisztikai pont.",
+          "A helyi közösség bevonásával működik, támogatva a falu fejlődését.",
+          "Több mint 200 madárfaj él a tábor közvetlen környezetében.",
+          "Hagyományos csónakos túrákat kínálnak az Allahein-folyó ágain.",
+          "Fontos kutatási helyszín a nyugat-afrikai galériaerdők vizsgálatára."
+        ],
+        "ro": [
+          "Locație de top pentru observarea speciei rare Podica senegalensis.",
+          "Situat strategic pe linia de frontieră dintre Gambia și Senegal.",
+          "Susține economia locală prin angajarea locuitorilor din satul Marakissa.",
+          "Zona adăpostește peste 200 de specii de păsări rezidente și migratoare.",
+          "Excursiile pe râu se realizează exclusiv cu pirogi tradiționale silențioase.",
+          "Centru important pentru studiul biodiversității pădurilor riverane."
+        ],
+        "en": [
+          "Renowned as one of the best sites to spot the elusive African Finfoot.",
+          "Strategically located directly on the border with Senegal's Casamance region.",
+          "Integrates community-based tourism to benefit local villagers.",
+          "Home to over 200 bird species within its immediate riverine habitat.",
+          "Offers guided river excursions using traditional non-motorized canoes.",
+          "Serves as a key site for studying West African gallery forest ecology."
+        ]
+      }
+    },
+    {
+      "id": "pirang-shrimp-farm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Pirang Shrimp Farm befindet sich östlich von Banjul in der Nähe des Dorfes Pirang und stellt eines der bedeutendsten Aquakulturprojekte Gambias dar. Das Gelände umfasst weitläufige, künstlich angelegte Teiche, die strategisch in den Salzwiesen nahe des Gambia-Flusses platziert wurden. Historisch gesehen wurde die Anlage zur industriellen Produktion von Garnelen für den Exportmarkt errichtet, was Gambias Rolle in der regionalen Fischereiwirtschaft stärken sollte. Ökonomisch gesehen ist die Farm ein wichtiger Arbeitgeber in der Kombo East Region und trägt zur Diversifizierung der nationalen Exporte bei. Technisch basiert die Anlage auf einem System von Schleusen, die den Wasserstand und den Salzgehalt in den Becken regulieren. Neben der Garnelenzucht ist der Standort auch für die Salzgewinnung durch Verdunstung bekannt, was eine traditionelle Erwerbsquelle für lokale Frauen darstellt. Ökologisch hat sich die Farm zu einem Hotspot für Zugvögel entwickelt; die flachen Wasserbecken und Schlammflächen bieten ideale Bedingungen für Flamingos, Pelikane und Limikolen. Diese unbeabsichtigte ökologische Nische macht Pirang zu einem der wichtigsten Beobachtungspunkte für Ornithologen in Westafrika. Die Koexistenz von industrieller Nutzung und Naturschutz ist hier ein zentrales Thema der lokalen Entwicklung.",
+        "hu": "A Pirang garnélafarm Banjultól keletre, Pirang falu közelében található, és Gambia egyik legjelentősebb akvakultúra-projektje. A terület kiterjedt, mesterségesen kialakított tavakból áll, amelyeket stratégiailag a Gambia-folyó menti sós mocsarakban helyeztek el. Történelmileg a létesítményt az exportpiacra szánt garnélarák ipari termelésére hozták létre, erősítve Gambia szerepét a regionális halgazdaságban. Gazdasági szempontból a farm fontos munkaadó a Kombo East régióban, és hozzájárul a nemzeti export diverzifikálásához. Technikai értelemben a rendszer zsilipkapukra épül, amelyek szabályozzák a medencék vízszintjét és sótartalmát. A garnélatenyésztés mellett a helyszín a párologtatással történő sólepárlásról is ismert, amely a helyi nők hagyományos megélhetési forrása. Ökológiailag a farm a költöző madarak paradicsomává vált; a sekély vizes medencék és iszapos területek ideális feltételeket biztosítanak flamingók, pelikánok és különböző partifutók számára. Ez a nem várt ökológiai fülke Pirangot Nyugat-Afrika egyik legfontosabb madármegfigyelő pontjává tette. Az ipari hasznosítás és a természetvédelem egymás mellett élése itt a helyi fejlődés központi témája.",
+        "ro": "Ferma de creveți din Pirang este situată la est de Banjul, în apropierea satului Pirang, reprezentând unul dintre cele mai importante proiecte de acvacultură din Gambia. Situl cuprinde bazine artificiale vaste, amplasate strategic în mlaștinile sărate de lângă fluviul Gambia. Din punct de vedere istoric, instalația a fost construită pentru producția industrială de creveți destinați exportului, scopul fiind consolidarea poziției Gambiei în economia pescărească regională. Economic, ferma este un angajator major în regiunea Kombo East și contribuie la diversificarea exporturilor naționale. Din punct de vedere tehnic, funcționarea baziunelor se bazează pe un sistem de ecluze care reglează nivelul apei și salinitatea în funcție de flux și reflux. Pe lângă acvacultură, locația este cunoscută pentru extracția tradițională a sării prin evaporare, o activitate sezonieră practicată de femeile din comunitate. Ecologic, ferma a devenit un punct critic pentru păsările migratoare; bazinele puțin adânci oferă hrană și adăpost pentru flamingo, pelicani și diverse specii de limicole. Această nișă ecologică neintenționată face din Pirang una dintre cele mai importante destinații ornitologice din Africa de Vest, demonstrând o coexistență rară între industrie și conservare.",
+        "en": "The Pirang Shrimp Farm is located east of Banjul near the village of Pirang and represents one of The Gambia's most significant aquaculture projects. The site consists of extensive man-made ponds strategically placed in the salt marshes near the Gambia River. Historically, the facility was established for the industrial production of shrimp for the export market, aimed at strengthening Gambia's role in the regional fishing economy. Economically, the farm is a major employer in the Kombo East region and contributes to the diversification of national exports. Technically, the operation relies on a system of sluice gates that regulate water levels and salinity within the basins. In addition to shrimp farming, the location is known for traditional salt extraction through evaporation, a vital seasonal livelihood for local women. Ecologically, the farm has evolved into a hotspot for migratory birds; the shallow ponds and mudflats provide ideal conditions for flamingos, pelicans, and various waders. This unintended ecological niche has made Pirang one of the premier birdwatching spots in West Africa, showcasing a unique coexistence between industrial land use and wildlife conservation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes industrielles Aquakulturprojekt für Garnelen in Gambia.",
+          "Wichtiger Standort für die traditionelle Salzgewinnung durch Frauen.",
+          "Bietet ideale Lebensbedingungen für Flamingos und Pelikane.",
+          "Nutzt Gezeitenschleusen zur Regulierung der Wasserbecken.",
+          "Liegt in einer ökologisch sensiblen Übergangszone zum Gambia-Fluss.",
+          "Trägt maßgeblich zur Devisenbeschaffung durch Agrarexporte bei."
+        ],
+        "hu": [
+          "Gambia legnagyobb ipari garnélatenyésztő létesítménye.",
+          "A helyi nők számára fontos sólepárló helyszínként is szolgál.",
+          "A nemzetközi madármegfigyelők egyik kedvenc helyszíne a flamingók miatt.",
+          "Zsiliprendszerrel szabályozzák a víz utánpótlását a folyóból.",
+          "A terület a sós mocsári ökoszisztéma részét képezi.",
+          "Jelentős szerepet játszik a régió foglalkoztatottságában."
+        ],
+        "ro": [
+          "Cea mai mare unitate industrială de acvacultură din țară.",
+          "Centru tradițional de producție a sării pentru comunitățile locale.",
+          "Habitat articial crucial pentru populațiile de păsări flamingo.",
+          "Funcționează pe baza unui sistem complex de control al salinității.",
+          "Situat în proximitatea pădurii Pirang, o zonă protejată.",
+          "Exportă produse marine de înaltă calitate pe piața europeană."
+        ],
+        "en": [
+          "The Gambia's primary industrial facility for shrimp aquaculture.",
+          "A significant site for traditional salt harvesting by local women.",
+          "Renowned as a vital sanctuary for migratory flamingos and waders.",
+          "Uses tidal sluice gates to manage pond water and salinity.",
+          "Located in a unique ecological transition zone near the river.",
+          "Contributes significantly to national export diversification."
+        ]
+      }
+    },
+    {
+      "id": "farafenni-livestock-market-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Viehmarkt von Farafenni ist einer der größten und strategisch wichtigsten Handelsplätze in der Senegambia-Region. Geografisch liegt Farafenni an der Kreuzung der Trans-Gambia-Autobahn und der Norduferstraße, was es zu einem natürlichen Logistikzentrum macht. Der Markt, oft als 'Lumo' (Wochenmarkt) organisiert, zieht Händler aus Gambia, dem Senegal, Mali und Guinea an. Ökonomisch ist dieser Ort entscheidend für den grenzüberschreitenden Handel mit Nutztieren wie Rindern, Schafen und Ziegen. Technisch gesehen ist der Markt in verschiedene Sektoren unterteilt, in denen erfahrene Makler die Verhandlungen zwischen Käufern und Verkäufern führen. Historisch gesehen hat die Eröffnung der Senegambia Bridge (früher die Farafenni-Fähre) die Bedeutung dieses Handelsplatzes massiv gesteigert, da der Transport von Tieren über den Fluss erheblich vereinfacht wurde. Der Markt ist nicht nur ein Ort des Warenaustauschs, sondern auch ein soziales Ereignis, das die kulturelle Verbindung zwischen den Völkern der Sahelzone und der westafrikanischen Küste stärkt. Die Einnahmen aus den Marktgebühren sind eine wesentliche Finanzquelle für die lokale Verwaltung und tragen zur Infrastrukturentwicklung der Stadt bei. Das geschäftige Treiben spiegelt die Dynamik des westafrikanischen Binnenhandels wider.",
+        "hu": "A farafenni állatvásár a Senegambia régió egyik legnagyobb és stratégiailag legfontosabb kereskedelmi helyszíne. Földrajzilag Farafenni a Trans-Gambia autóút és az északi parti főút kereszteződésében fekszik, ami természetes logisztikai központtá teszi. A piac, amelyet gyakran 'Lumo' (heti vásár) formájában tartanak, árusokat vonz Gambiából, Szenegálból, Maliból és Guineából. Gazdaságilag ez a hely döntő fontosságú a haszonállatok – szarvasmarha, juh és kecske – határokon átnyúló kereskedelmében. Technikai szempontból a piac különböző szektorokra oszlik, ahol tapasztalt közvetítők segítik az eladók és vevők közötti tárgyalásokat. Történelmileg a Senegambia híd megnyitása (korábban a farafenni komp üzemelt itt) jelentősen növelte a kereskedelmi helyszín súlyát, mivel az állatok szállítása a folyón keresztül sokkal egyszerűbbé vált. A piac nemcsak az árucsere helyszíne, hanem társadalmi esemény is, amely erősíti a kulturális kapcsolatokat a száhel-övezet és a nyugat-afrikai partvidék népei között. A piacdíjakból származó bevételek a helyi önkormányzat fontos forrásai, hozzájárulva a város infrastruktúrájának fejlesztéséhez. A vásár nyüzsgése hűen tükrözi a nyugat-afrikai belső kereskedelem dinamizmusát.",
+        "ro": "Târgul de animale din Farafenni este unul dintre cele mai mari și mai strategice puncte comerciale din regiunea Senegambia. Geografic, Farafenni este situat la intersecția Autostrăzii Trans-Gambia cu drumul de pe malul de nord, funcționând ca un centru logistic natural. Piața, organizată frecvent sub formă de 'Lumo' (târg săptămânal), atrage comercianți din Gambia, Senegal, Mali și Guineea. Din punct de vedere economic, acest loc este crucial pentru comerțul transfrontalier cu animale precum bovine, ovine și caprine. Din punct de vedere tehnic, târgul este structurat pe sectoare, unde brokeri experimentați facilitează negocierile între crescători și cumpărători. Istoric, inaugurarea Podului Senegambia (care a înlocuit vechiul feribot Farafenni) a sporit masiv importanța acestui nod comercial, facilitând transportul rapid al septelului peste fluviu. Târgul nu este doar un spațiu de schimb material, ci și un eveniment social major care consolidează legăturile culturale între popoarele din Sahel și cele din zona costieră vest-africană. Veniturile colectate din taxele de piață reprezintă o resursă financiară esențială pentru administrația locală, susținând dezvoltarea urbană a orașului Farafenni.",
+        "en": "The Farafenni livestock market is one of the largest and most strategically important trading hubs in the Senegambia region. Geographically, Farafenni sits at the intersection of the Trans-Gambia Highway and the North Bank Road, making it a natural logistical center. Often organized as a 'Lumo' (weekly market), it draws traders from The Gambia, Senegal, Mali, and Guinea. Economically, this site is vital for the cross-border trade of livestock, including cattle, sheep, and goats. Technically, the market is divided into various sectors where experienced brokers mediate negotiations between buyers and sellers. Historically, the opening of the Senegambia Bridge (replacing the old Farafenni ferry) has massively boosted the market's significance by simplifying the transport of animals across the river. The market is more than just a place of commerce; it is a social event that strengthens cultural ties between the peoples of the Sahel and the West African coast. Revenue from market fees is a major financial source for the local government, contributing to the city's infrastructural development. The bustling atmosphere reflects the vibrant nature of West African inland trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentraler Knotenpunkt für den grenzüberschreitenden Viehhandel.",
+          "Findet regelmäßig als traditioneller Wochenmarkt (Lumo) statt.",
+          "Liegt direkt an der strategisch wichtigen Senegambia-Brücke.",
+          "Wichtigster Umschlagplatz für Rinder aus der gesamten Sahel-Region.",
+          "Bietet eine spezialisierte Infrastruktur für Tierhaltung und Logistik.",
+          "Wesentlicher Wirtschaftsfaktor für die North Bank Region."
+        ],
+        "hu": [
+          "A határokon átnyúló állatkereskedelem központi csomópontja.",
+          "Hagyományos heti vásárként (Lumo) működik.",
+          "Közvetlenül a stratégiai fontosságú Senegambia híd lábánál fekszik.",
+          "A száhel-övezetből származó szarvasmarhák fő elosztóhelye.",
+          "Szakosodott infrastruktúrával rendelkezik az állatok elszállásolására.",
+          "A North Bank régió legfontosabb gazdasági bevételi forrása."
+        ],
+        "ro": [
+          "Nod central pentru comerțul cu animale la granița cu Senegal.",
+          "Funcționează sub regimul de târg săptămânal tradițional (Lumo).",
+          "Beneficiază de proximitatea Podului Senegambia pentru logisitică.",
+          "Principalul punct de tranzacție pentru bovine din regiunea Sahel.",
+          "Dispune de facilități pentru adăparea și trierea animalelor.",
+          "Sursă majoră de venituri bugetare pentru consiliul local Farafenni."
+        ],
+        "en": [
+          "Primary hub for cross-border livestock trade in West Africa.",
+          "Operates as a large-scale traditional weekly market (Lumo).",
+          "Located at the foot of the strategically vital Senegambia Bridge.",
+          "Main transit point for cattle herds moving from the Sahel to the coast.",
+          "Includes specialized infrastructure for livestock holding and sales.",
+          "A cornerstone of the North Bank Region's rural economy."
+        ]
+      }
+    },
+    {
+      "id": "gambia-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Gambia-Fluss ist die lebensspendende Arterie der gleichnamigen Nation und einer der bedeutendsten schiffbaren Wasserwege Westafrikas. Er entspringt im Fouta Djallon Hochland in Guinea und fließt über 1.100 Kilometer, bis er bei Banjul in den Atlantik mündet. Geografisch teilt der Fluss das Land in eine Nord- und eine Südhälfte und prägt mit seinen saisonalen Überschwemmungen die Landwirtschaft. Ökologisch ist der Fluss durch einen extremen Kontrast zwischen salzigen Mangrovensümpfen im Mündungsbereich und süßwasserhaltigen Galeriewäldern im Oberlauf gekennzeichnet. Er ist Lebensraum für Flusspferde, Krokodile und hunderte Fischarten. Historisch war der Fluss der Hauptzugangsweg für europäische Entdecker und Händler und spielte eine tragische Rolle im transatlantischen Sklavenhandel. Ökonomisch dient er heute als Transportweg für Massengüter wie Erdnüsse und Reis sowie als Grundlage für die handwerkliche Fischerei. Technisch gesehen ist die Schifffahrt durch die Gezeiten beeinflusst, die bis zu 150 Kilometer flussaufwärts spürbar sind. Die Bewirtschaftung der Wasserressourcen wird durch die Gambia River Basin Development Organization (OMVG) koordiniert, um eine nachhaltige Nutzung zwischen den Anrainerstaaten sicherzustellen. Der Fluss bleibt das prägende Element der gambischen Identität und Geografie.",
+        "hu": "A Gambia-folyó a nemzet éltető ereje és Nyugat-Afrika egyik legfontosabb hajózható vízi útja. A guineai Fouta Djallon-felföldön ered, és több mint 1100 kilométer megtétele után Banjulnál torkollik az Atlanti-óceánba. Földrajzilag a folyó két részre osztja az országot, és szezonális áradásaival meghatározza a mezőgazdaságot. Ökológiai szempontból a folyót a torkolatvidék sós mangrove-mocsara és a felső szakasz édesvízi galériaerdőinek éles kontrasztja jellemzi. Élőhelyet biztosít vízilovaknak, krokodiloknak és több száz halfajnak. Történelmileg a folyó volt az európai felfedezők és kereskedők fő útvonala, és tragikus szerepet játszott a transzatlanti rabszolga-kereskedelemben. Gazdaságilag ma olyan tömegáruk szállítási útvonalaként szolgál, mint a földimogyoró és a rizs, valamint a kézműves halászat alapja. Technikai szempontból a hajózást befolyásolja az árapály, amely a torkolattól akár 150 kilométerre is érezhető. A vízkészletek kezelését a Gambia-folyó Vízgyűjtő Fejlesztési Szervezete (OMVG) koordinálja a fenntartható használat érdekében. A folyó továbbra is a gambiai identitás és földrajz meghatározó eleme.",
+        "ro": "Râul Gambia este artera vitală a națiunii și una dintre cele mai importante căi navigabile din Africa de Vest. Izvorăște din podișul Fouta Djallon din Guineea și parcurge peste 1.100 de kilometri înainte de a se vărsa în Oceanul Atlantic, lângă Banjul. Din punct de vedere geografic, râul divide țara în malul de nord și cel de sud, modelând agricultura prin inundațiile sale sezoniere. Ecologic, râul se caracterizează printr-un contrast major între mlaștinile sărate cu mangrove de la estuar și pădurile de galerie cu apă dulce din cursul superior. Este habitatul hipopotamilor, crocodililor și a sute de specii de pești. Istoric, râul a fost principala rută de acces pentru exploratorii și comercianții europeni, jucând un rol tragic în comerțul transatlantic cu sclavi. Economic, servește astăzi ca rută de transport pentru mărfuri în vrac, precum arahidele și orezul, fiind și baza pescuitului artizanal. Din punct de vedere tehnic, navigația este influențată de maree, ale căror efecte sunt resimțite până la 150 km în amonte. Gestionarea resurselor de apă este coordonată de Organizația pentru Dezvoltarea Bazinului Râului Gambia (OMVG). Fluviul rămâne elementul central al identității și geografiei gambiene.",
+        "en": "The Gambia River is the lifeblood of the nation and one of West Africa's most important navigable waterways. Originating in the Fouta Djallon highlands of Guinea, it flows for over 1,100 kilometers before emptying into the Atlantic Ocean at Banjul. Geographically, the river divides the country into North and South Banks and shapes agriculture through its seasonal flooding. Ecologically, the river is defined by the contrast between saline mangrove swamps at the estuary and freshwater gallery forests in the upper reaches. It provides habitat for hippos, crocodiles, and hundreds of fish species. Historically, the river was the primary route for European explorers and traders and played a tragic role in the transatlantic slave trade. Economically, it now serves as a transport route for bulk goods like groundnuts and rice and is the foundation for artisanal fishing. Technically, navigation is influenced by tides, felt up to 150 kilometers upstream. Water resource management is coordinated by the Gambia River Basin Development Organization (OMVG) to ensure sustainable use. The river remains the defining element of Gambian identity and geography."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der am besten schiffbaren Flüsse Westafrikas für Hochseeschiffe.",
+          "Die Salzwassergrenze verschiebt sich saisonal weit ins Landesinnere.",
+          "Heimat einer der größten Flusspferdepopulationen der Region.",
+          "Historisch bedeutender Schauplatz des transatlantischen Sklavenhandels.",
+          "Wichtigster Transportweg für den Export gambischer Erdnüsse.",
+          "Unterliegt dem Schutzabkommen der OMVG (Anrainerstaaten)."
+        ],
+        "hu": [
+          "Nyugat-Afrika egyik legjobban hajózható folyója nagy merülésű hajók számára.",
+          "A sós víz határa szezonálisan változik a folyó mentén.",
+          "A régió egyik legjelentősebb víziló-populációjának otthona.",
+          "A rabszolga-kereskedelem egyik legfontosabb történelmi útvonala.",
+          "Alapvető szállítási útvonal a mogyoró- és rizskereskedelemben.",
+          "A folyó vízgyűjtő területét nemzetközi szervezet (OMVG) kezeli."
+        ],
+        "ro": [
+          "Unul dintre cele mai navigabile fluvii din Africa pentru nave mari.",
+          "Limita apei sărate pătrunde adânc în interiorul țării în sezonul uscat.",
+          "Adăpostește populații semnificative de hipopotami și crocodili.",
+          "Ruta istorică principală pentru pătrunderea colonială în interiorul Africii.",
+          "Infrastructură vitală pentru transportul cerealelor către portul Banjul.",
+          "Gestionat la nivel regional de OMVG pentru cooperare transfrontalieră."
+        ],
+        "en": [
+          "One of the most navigable rivers in Africa for deep-draft vessels.",
+          "The saline-freshwater boundary shifts seasonally far inland.",
+          "Home to a significant population of West African hippopotamuses.",
+          "A major historical artery for the transatlantic slave trade.",
+          "Primary logistical route for the nation's groundnut and rice trade.",
+          "Managed by the OMVG to coordinate water use between neighboring states."
+        ]
+      }
+    },
+    {
+      "id": "river-gambia-national-park-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der River Gambia National Park, oft als 'Baboon Islands' bezeichnet, besteht aus einer Gruppe von fünf Inseln im Central River District, etwa 270 Kilometer flussaufwärts von Banjul. Der Park wurde 1978 gegründet und ist primär als Standort des Chimpanzee Rehabilitation Project bekannt. Historisch gesehen wurden hier Schimpansen, die aus illegaler Haltung gerettet wurden, in ihre natürliche Umgebung wiedereingeführt. Ökologisch stellt der Park ein streng geschütztes Refugium dar, da das Betreten der Inseln für Menschen streng untersagt ist, um die Primaten vor Krankheiten und Störungen zu schützen. Die Vegetation besteht aus dichtem tropischem Regenwald und Ufersavanne, die ideale Bedingungen für Flusspferde, Paviane und die seltenen Westafrikanischen Stummelaffen bieten. Ökonomisch trägt der Park durch den exklusiven Bootstourismus zur regionalen Entwicklung bei, wobei Besucher die Tiere nur vom Fluss aus beobachten dürfen. Technisch wird die Überwachung des Parks durch Ranger sichergestellt, die die Inseln patrouillieren. Das Projekt gilt als eines der erfolgreichsten Rehabilitationsprogramme für Primaten weltweit und unterstreicht Gambias Engagement für den Artenschutz in einer Region, in der Schimpansen in freier Wildbahn fast ausgerottet sind.",
+        "hu": "A River Gambia Nemzeti Park, amelyet gyakran 'Pávián-szigeteknek' neveznek, öt szigetből áll a Central River körzetben, Banjultól mintegy 270 kilométerre a folyón felfelé. A parkot 1978-ban alapították, és elsősorban a Csimpánz Rehabilitációs Projekt helyszíneként ismert. Történelmileg illegális tartásból kimentett csimpánzokat telepítettek vissza ide természetes környezetükbe. Ökológiai szempontból a park szigorúan védett menedékhely, mivel a szigetekre való belépés tilos az emberek számára, hogy megvédjék a főemlősöket a betegségektől és a zavarástól. A vegetáció sűrű trópusi esőerdőből és folyóparti szavannából áll, amely ideális feltételeket biztosít vízilovak, páviánok és a ritka nyugat-afrikai vörös kolobuszmajmok számára. Gazdaságilag a park az exkluzív csónakos turizmus révén járul hozzá a régió fejlődéséhez, a látogatók csak a vízről figyelhetik meg az állatokat. Technikai értelemben a park felügyeletét vadőrök biztosítják, akik rendszeresen járőröznek a szigetek körül. A projekt a világ egyik legsikeresebb főemlős-rehabilitációs programjának számít, és hangsúlyozza Gambia elkötelezettségét a fajmegőrzés mellett.",
+        "ro": "Parcul Național River Gambia, cunoscut adesea sub numele de 'Insulele Babuon', este format dintr-un grup de cinci insule în districtul Central River, la aproximativ 270 km în amonte de Banjul. Fondat în 1978, parcul este celebru în principal pentru Proiectul de Reabilitare a Cimpanzeilor. Istoric, aici au fost reintroduși cimpanzei salvați din captivitate ilegală în mediul lor natural. Ecologic, parcul reprezintă un refugiu strict protejat, accesul uman pe insule fiind complet interzis pentru a preveni transmiterea bolilor către primate. Vegetația include păduri tropicale umede și savană riverană, oferind habitat ideal pentru hipopotami, babuini și maimuțele Colobus. Economic, parcul susține dezvoltarea regională prin turismul observațional de pe barcă, fondurile fiind utilizate pentru conservare. Din punct de vedere tehnic, monitorizarea este asigurată de o echipă de rangeri care patrulează apele din jurul insulelor. Proiectul este considerat unul dintre cele mai de succes programe de reabilitare a primatelor la nivel mondial, subliniind rolul Gambiei în protejarea speciilor critic periclitate din Africa de Vest.",
+        "en": "The River Gambia National Park, often referred to as the 'Baboon Islands,' consists of a group of five islands in the Central River District, approximately 270 kilometers upriver from Banjul. Established in 1978, the park is primarily known as the site of the Chimpanzee Rehabilitation Project. Historically, chimpanzees rescued from illegal captivity were reintroduced here into their natural environment. Ecologically, the park is a strictly protected sanctuary, as human entry onto the islands is forbidden to protect the primates from diseases and disturbances. The vegetation comprises dense tropical rainforest and riparian savannah, providing ideal conditions for hippos, baboons, and the rare Western Red Colobus monkeys. Economically, the park contributes to regional development through exclusive boat-based tourism, where visitors observe the wildlife only from the river. Technically, the park is managed by rangers who patrol the waters surrounding the islands. The project is considered one of the most successful primate rehabilitation programs in the world, highlighting The Gambia's commitment to species conservation in a region where wild chimpanzees are nearly extinct."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus fünf unbewohnten Inseln im Gambia-Fluss.",
+          "Beherbergt das weltweit bekannte Chimpanzee Rehabilitation Project.",
+          "Betreten der Inseln ist zum Schutz der Tiere streng verboten.",
+          "Wichtiger Rückzugsort für den gefährdeten Roten Stummelaffen.",
+          "Sichtungen von Flusspferden sind in den Gewässern sehr häufig.",
+          "Gründung erfolgte 1978 zur Erhaltung der Primatenfauna."
+        ],
+        "hu": [
+          "Öt lakatlan szigetből áll a Gambia-folyó középső szakaszán.",
+          "A nemzetközileg elismert Csimpánz Rehabilitációs Projekt otthona.",
+          "A szigetekre tilos a belépés a főemlősök egészségének védelmében.",
+          "Fontos menedékhely a veszélyeztetett vörös kolobuszmajmoknak.",
+          "A folyóvízi szakasz híres a nagy víziló-populációjáról.",
+          "1978-ban hozták létre kifejezetten fajmegőrzési céllal."
+        ],
+        "ro": [
+          "Format din cinci insule nelocuite în cursul mijlociu al râului.",
+          "Găzduiește un proiect global de referință pentru reabilitarea cimpanzeilor.",
+          "Accesul pe insule este interzis prin lege pentru protecția animalelor.",
+          "Sanctuar vital pentru maimuțele Colobus roșu de vest.",
+          "Apele din jur sunt ideale pentru observarea hipopotamilor.",
+          "Înființat în 1978 ca primul parc de acest tip din Gambia."
+        ],
+        "en": [
+          "Comprises five uninhabited islands in the middle of the Gambia River.",
+          "Home to the world-renowned Chimpanzee Rehabilitation Project.",
+          "Human access to the islands is strictly prohibited for biosecurity.",
+          "A crucial sanctuary for the endangered Western Red Colobus monkey.",
+          "The surrounding waters are a prime location for hippo sightings.",
+          "Established in 1978 to preserve native West African primate species."
+        ]
+      }
+    }
+  ]
+}

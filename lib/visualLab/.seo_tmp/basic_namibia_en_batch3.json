@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-etosha-pan-nature-v2",
+      "description": "Etosha Pan is a vast, shimmering salt pan in Etosha National Park, a central feature for wildlife viewing.",
+      "facts": ["Salt pan", "Etosha National Park", "Wildlife viewing"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "Waterberg Plateau is a striking table mountain national park, known for its biodiversity and unique geology.",
+      "facts": ["Table mountain", "Biodiversity", "Unique geology"]
+    },
+    {
+      "id": "na-dunes-sossusvlei-nature-v2",
+      "description": "The Sossusvlei Dunes are towering red sand dunes in the Namib Desert, famous for their breathtaking beauty.",
+      "facts": ["Red sand dunes", "Namib Desert", "Breathtaking beauty"]
+    },
+    {
+      "id": "na-dead-vlei-nature-v2",
+      "description": "Dead Vlei is a white clay pan near Sossusvlei, characterized by ancient dead camel thorn trees against the red dunes.",
+      "facts": ["White clay pan", "Ancient trees", "Red dunes"]
+    },
+    {
+      "id": "na-kuiseb-river-nature-v2",
+      "description": "The Kuiseb River is an ephemeral river that forms a crucial ecological boundary in the Namib Desert.",
+      "facts": ["Ephemeral river", "Ecological boundary", "Namib Desert"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "The Swakop River is an intermittent river whose estuary at Swakopmund is an important wetland for birds.",
+      "facts": ["Intermittent river", "Wetland", "Birdwatching"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "The Hoarusib River is an episodic river in the Kaokoveld Desert, known for its desert-adapted elephants.",
+      "facts": ["Episodic river", "Kaokoveld Desert", "Desert-adapted elephants"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "The Hoanib River is another episodic river in Namibia, providing vital habitat for desert-adapted wildlife.",
+      "facts": ["Episodic river", "Desert wildlife", "Vital habitat"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "The Ugab River is a boundary river between the Kunene and Erongo regions, famous for its Welwitschia plants.",
+      "facts": ["Boundary river", "Welwitschia plants", "Kunene and Erongo"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "The Fish River is Namibia's longest river, carving out the Fish River Canyon, one of the largest canyons globally.",
+      "facts": ["Longest river", "Fish River Canyon", "Largest canyons"]
+    },
+    {
+      "id": "na-hardap-dam-nature-v2",
+      "description": "Hardap Dam is Namibia's largest dam, serving as a crucial irrigation system for agriculture.",
+      "facts": ["Largest dam", "Irrigation system", "Agriculture"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Lake Otjikoto is a natural sinkhole lake formed by a collapsed cave roof, rich in historical artifacts.",
+      "facts": ["Sinkhole lake", "Collapsed cave roof", "Historical artifacts"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "Lake Guinas is another sinkhole lake in Namibia, known for its endemic fish species and deep blue water.",
+      "facts": ["Endemic fish species", "Deep blue water", "Sinkhole lake"]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "The Nylon Pool is a natural waterhole in Etosha National Park, a popular spot for wildlife to gather.",
+      "facts": ["Natural waterhole", "Etosha National Park", "Wildlife gathering"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "The Caprivi Floodplains are important wetlands in northeastern Namibia, supporting diverse birdlife.",
+      "facts": ["Wetlands", "Northeastern Namibia", "Diverse birdlife"]
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toronto-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Toronto Zoo befindet sich im Bezirk Rouge Valley in Toronto, Ontario, und wurde am 15. August 1974 offiziell eröffnet. Mit einer Gesamtfläche von 287 Hektar ist er der flächenmäßig größte Zoo in Kanada. Die weitläufige Anlage ist in sieben geografische Hauptregionen unterteilt: Indo-Malaya, Afrika, Amerika, Tundra Trek, Australasien, Eurasien und die Canadian Domain. Die Einrichtung beherbergt über 5.000 Tiere, die mehr als 450 verschiedene Arten repräsentieren. Der Zoo ist auf internationaler Ebene stark an diversen Naturschutzbemühungen beteiligt, einschließlich der äußerst erfolgreichen Zucht und Wiederansiedlung des stark gefährdeten Schwarzfußiltisses und des Vancouver-Island-Murmeltiers. Das Gelände integriert die natürliche, hügelige Topografie des Rouge River Valley und bietet den Besuchern weitläufige Wanderwege sowie den Tieren vielfältige und naturnahe Lebensräume. Fortschrittliche Wasseraufbereitungs- und Energiesparsysteme sind in die modernen Pavillons und Gehege integriert. Die Verwaltung des Zoos änderte sich im Jahr 1978 tiefgreifend, als die Stadtverwaltung von Toronto den Betrieb von der ursprünglichen zoologischen Gesellschaft übernahm, um die finanzielle Stabilität zu sichern. Im Jahr 2015 verzeichnete der Zoo eine beeindruckende jährliche Besucherzahl von über 1,2 Millionen Menschen. Die Einrichtung fungiert darüber hinaus als wichtiges Bildungszentrum und kooperiert eng mit lokalen Universitäten für veterinärmedizinische und biologische Forschungszwecke. Seine geografischen Koordinaten sind 43,82°N, 79,18°W.",
+        "hu": "A Toronto Zoo az ontariói Toronto Rouge Valley negyedében található, és 1974. augusztus 15-én nyitotta meg hivatalosan kapuit. A 287 hektáron elterülő létesítmény Kanada legnagyobb területű állatkertje. A kiterjedt terület hét fő földrajzi régióra oszlik: Indo-Malajzia, Afrika, Amerika, Tundra Trek, Ausztrálázsia, Eurázsia és a Kanadai Terület. Az intézmény több mint 5000 állatnak ad otthont, amelyek több mint 450 különböző fajt képviselnek. Az állatkert nemzetközi szinten is aktívan részt vesz számos természetvédelmi erőfeszítésben, beleértve a súlyosan veszélyeztetett feketelábú görény és a Vancouver-szigeti mormota rendkívül sikeres tenyésztését és vadonba történő visszatelepítését. A helyszín magába foglalja a Rouge-folyó völgyének természetes, dombos domborzatát, kiterjedt túraútvonalakat biztosítva a látogatóknak, valamint változatos és természetközeli élőhelyeket az állatoknak. A modern pavilonokba és kifutókba fejlett vízkezelő és energiatakarékossági rendszereket integráltak. Az állatkert irányítása 1978-ban alapjaiban változott meg, amikor Toronto városa a pénzügyi stabilitás biztosítása érdekében átvette az üzemeltetést az eredeti zoológiai társaságtól. 2015-ben az állatkert éves látogatószáma meghaladta a lenyűgöző 1,2 millió főt. A létesítmény emellett fontos oktatási központként is funkcionál, szorosan együttműködve a helyi egyetemekkel az állatorvosi és biológiai kutatások terén. Földrajzi koordinátái: é. sz. 43,82°, ny. h. 79,18°.",
+        "ro": "Grădina Zoologică din Toronto se află în cartierul Rouge Valley din Toronto, Ontario, și a fost deschisă oficial la 15 august 1974. Cu o suprafață totală de 287 de hectare, este cea mai mare grădină zoologică din Canada ca întindere. Această facilitate vastă este împărțită în șapte regiuni geografice principale: Indo-Malaya, Africa, America, Tundra Trek, Australasia, Eurasia și Domeniul Canadian. Instituția găzduiește peste 5.000 de animale, reprezentând mai mult de 450 de specii diferite. Grădina zoologică este puternic implicată la nivel internațional în diverse eforturi de conservare a naturii, inclusiv în creșterea și reintroducerea extrem de reușită în sălbăticie a dihorului cu picioare negre și a marmotei din Insula Vancouver, specii grav amenințate. Situl integrează topografia naturală, deluroasă a văii râului Rouge, oferind vizitatorilor trasee de plimbare extinse și animalelor habitate diverse și naturale. Sisteme avansate de tratare a apei și de conservare a energiei sunt integrate în pavilioanele și incintele moderne. Administrarea grădinii zoologice s-a schimbat profund în 1978, când administrația orașului Toronto a preluat operațiunile de la societatea zoologică inițială pentru a asigura stabilitatea financiară. În 2015, grădina zoologică a înregistrat o prezență anuală impresionantă de peste 1,2 milioane de vizitatori. Facilitatea funcționează, de asemenea, ca un centru educațional important, colaborând strâns cu universitățile locale în scopuri de cercetare veterinară și biologică. Coordonatele sale geografice sunt 43,82°N, 79,18°V.",
+        "en": "The Toronto Zoo is located in the Rouge Valley district of Toronto, Ontario, and was officially opened to the public on August 15, 1974. Covering a total area of 287 hectares (710 acres), it is the largest zoo in Canada by landmass. The expansive facility is divided into seven major geographic regions: Indo-Malaya, Africa, Americas, Tundra Trek, Australasia, Eurasia, and the Canadian Domain. The institution houses over 5,000 animals representing more than 450 distinct species. The zoo is heavily involved on an international level in various conservation efforts, including the highly successful breeding and reintroduction into the wild of the critically endangered black-footed ferret and the Vancouver Island marmot. The site integrates the natural, hilly topography of the Rouge River valley, providing extensive walking trails for visitors and diverse, naturalistic habitats for the animals. Advanced water treatment and energy conservation systems are integrated into the modern pavilions and enclosures. The zoo's governance fundamentally changed in 1978 when the City of Toronto took over operations from the original zoological society to ensure long-term financial stability. In 2015, the zoo recorded an impressive annual attendance of over 1.2 million visitors. The facility also functions as a vital educational center, partnering closely with local universities for veterinary and biological research purposes. Its geographic coordinates are 43.82°N, 79.18°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die offizielle Eröffnung der Anlage fand am 15. August 1974 statt.",
+          "Das gesamte Areal umfasst eine Fläche von 287 Hektar.",
+          "Die Einrichtung beherbergt mehr als 5.000 Tiere aus 450 verschiedenen Arten.",
+          "Der Park ist in sieben unterschiedliche geografische Zonen gegliedert.",
+          "Ein wichtiges Zuchtprogramm widmet sich dem stark gefährdeten Vancouver-Island-Murmeltier.",
+          "Die Besucherzahlen belaufen sich auf etwa 1,2 Millionen Menschen pro Jahr.",
+          "Die Stadt Toronto übernahm im Jahr 1978 die direkte Verwaltung des Zoos."
+        ],
+        "hu": [
+          "A létesítmény hivatalos megnyitójára 1974. augusztus 15-én került sor.",
+          "A teljes komplexum 287 hektáros területet foglal magába.",
+          "Az intézmény több mint 5000 állatot mutat be, 450 különböző fajból.",
+          "A park hét különálló földrajzi zónára van felosztva.",
+          "Kiemelt tenyészprogram foglalkozik a súlyosan veszélyeztetett Vancouver-szigeti mormotával.",
+          "Az éves látogatószám eléri a körülbelül 1,2 millió főt.",
+          "Toronto városa 1978-ban vette át az állatkert közvetlen irányítását."
+        ],
+        "ro": [
+          "Deschiderea oficială a complexului a avut loc la 15 august 1974.",
+          "Întreaga facilitate acoperă o suprafață vastă de 287 de hectare.",
+          "Instituția găzduiește peste 5.000 de animale din 450 de specii diferite.",
+          "Parcul este structurat în șapte zone geografice distincte.",
+          "Un program important de reproducere este dedicat marmotei din Insula Vancouver.",
+          "Numărul anual de vizitatori se ridică la aproximativ 1,2 milioane de persoane.",
+          "Orașul Toronto a preluat administrarea directă a grădinii zoologice în 1978."
+        ],
+        "en": [
+          "The official opening of the complex took place on August 15, 1974.",
+          "The entire facility covers a massive land area of 287 hectares.",
+          "The institution houses more than 5,000 animals from 450 different species.",
+          "The park is structurally divided into seven distinct geographic zones.",
+          "A major breeding program is dedicated to the endangered Vancouver Island marmot.",
+          "The annual visitor count reaches approximately 1.2 million people.",
+          "The City of Toronto took over direct administration of the zoo in 1978."
+        ]
+      }
+    },
+    {
+      "id": "calgary-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Calgary Zoo befindet sich in Bridgeland, einem Stadtteil von Calgary in Alberta, und liegt größtenteils auf St. George's Island direkt im Bow River. Die im Jahr 1929 gegründete Einrichtung erstreckt sich über eine Fläche von 48 Hektar und präsentiert heute mehr als 1.000 Tiere aus 272 verschiedenen Arten. Der zoologische Park ist in thematisch abgetrennte Sektionen unterteilt, darunter Destination Africa, Canadian Wilds, Penguin Plunge und der Prehistoric Park, der detaillierte, lebensgroße Dinosauriermodelle ausstellt. Der Zoo dient als zentraler Hauptsitz für das Centre for Conservation Research und konzentriert sich auf die Erforschung und den Schutz stark gefährdeter Arten wie den Schreikranich, das Waldkaribu und den Swift-Fuchs. Im Juni 2013 erlitt die gesamte Einrichtung durch verheerende Überschwemmungen in Alberta massive strukturelle Schäden, was zu einem mehrjährigen, aufwendigen Wiederaufbau- und Hochwasserschutzprojekt führte. Der botanische Garten auf dem Gelände umfasst unter anderem das Dorothy Harvie Conservatory, das eine große Vielfalt an tropischen, subtropischen und trockenen Pflanzenarten beherbergt. Mit etwa 1,3 Millionen zahlenden Besuchern jährlich gehört die Institution beständig zu den meistbesuchten Zoos in ganz Kanada. Der Zoo wird gemeinnützig von der Calgary Zoological Society betrieben und hält eine vollständige Akkreditierung der Association of Zoos and Aquariums (AZA). Die exakten geografischen Koordinaten der Anlage sind 51,04°N, 114,03°W.",
+        "hu": "A Calgary Zoo a kanadai Alberta tartományban, Calgary Bridgeland nevű negyedében található, területe nagyrészt a Bow-folyóban fekvő St. George-szigeten helyezkedik el. Az 1929-ben alapított intézmény 48 hektáros területen működik, és napjainkban 272 faj több mint 1000 egyedét mutatja be a közönségnek. A zoológiai park tematikusan elkülönülő részlegekre tagolódik, ilyenek például a Destination Africa, a Canadian Wilds, a Penguin Plunge és a Prehistoric Park, amely részletes, életnagyságú dinoszauruszmodelleket állít ki. Az állatkert a Természetvédelmi Kutatóközpont központjaként is szolgál, kiemelt figyelmet fordítva az olyan súlyosan veszélyeztetett fajok kutatására és védelmére, mint a lármás daru, az erdei karibu és a préri róka. 2013 júniusában a pusztító albertai árvizek miatt a teljes létesítmény masszív szerkezeti károkat szenvedett, ami egy többéves, költséges újjáépítési és árvízvédelmi projektet tett szükségessé. A helyszínen lévő botanikus kert magába foglalja a Dorothy Harvie Üvegházat, amely trópusi, szubtrópusi és szárazságtűrő növényfajok széles skáláját neveli. Évente mintegy 1,3 millió fizető látogatójával az intézmény folyamatosan Kanada leglátogatottabb állatkertjei közé tartozik. Az állatkertet nonprofit formában a Calgary Zoológiai Társaság üzemelteti, és rendelkezik az Állatkertek és Akváriumok Szövetségének (AZA) teljes körű akkreditációjával. A komplexum pontos földrajzi koordinátái: é. sz. 51,04°, ny. h. 114,03°.",
+        "ro": "Grădina Zoologică din Calgary este situată în Bridgeland, un cartier din Calgary, Alberta, ocupând în mare parte insula St. George direct pe râul Bow. Înființată în anul 1929, facilitatea se întinde pe o suprafață de 48 de hectare și prezintă astăzi peste 1.000 de animale din 272 de specii diferite. Parcul zoologic este împărțit în secțiuni tematice distincte, printre care Destination Africa, Canadian Wilds, Penguin Plunge și Prehistoric Park, care expune modele detaliate de dinozauri în mărime naturală. Grădina zoologică servește drept sediu central pentru Centrul de Cercetare a Conservării, concentrându-se pe cercetarea și protecția speciilor grav amenințate, cum ar fi cocorul american, caribul de pădure și vulpea de prerie. În iunie 2013, întreaga facilitate a suferit daune structurale masive din cauza inundațiilor devastatoare din Alberta, ceea ce a dus la un proiect multianual și costisitor de reconstrucție și de protecție împotriva inundațiilor. Grădina botanică din incintă include, printre altele, Conservatorul Dorothy Harvie, care adăpostește o mare varietate de specii de plante tropicale, subtropicale și de climat arid. Cu aproximativ 1,3 milioane de vizitatori plătitori anual, instituția se numără constant printre cele mai vizitate grădini zoologice din întreaga Canada. Grădina zoologică este operată non-profit de Societatea Zoologică din Calgary și deține o acreditare completă din partea Asociației Grădinilor Zoologice și Acvariilor (AZA). Coordonatele geografice exacte ale complexului sunt 51,04°N, 114,03°V.",
+        "en": "The Calgary Zoo is located in Bridgeland, a neighborhood in Calgary, Alberta, and is situated largely on St. George's Island directly in the Bow River. Established in 1929, the facility spans an area of 48 hectares (120 acres) and currently displays more than 1,000 animals representing 272 different species. The zoological park is divided into thematically separated sections, including Destination Africa, Canadian Wilds, Penguin Plunge, and the Prehistoric Park, which exhibits detailed, life-sized dinosaur models. The zoo serves as the central headquarters for the Centre for Conservation Research, focusing heavily on the research and protection of highly endangered species such as the whooping crane, woodland caribou, and the swift fox. In June 2013, the entire facility suffered massive structural damage due to the devastating Alberta floods, necessitating a multi-year, costly rebuilding and flood mitigation project. The botanical garden on the premises includes the Dorothy Harvie Conservatory, which houses a wide variety of tropical, subtropical, and arid plant species. With approximately 1.3 million paying visitors annually, the institution consistently ranks among the most visited zoos in all of Canada. The zoo is operated as a non-profit by the Calgary Zoological Society and holds full accreditation from the Association of Zoos and Aquariums (AZA). The exact geographic coordinates of the complex are 51.04°N, 114.03°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Einrichtung wurde im Jahr 1929 offiziell gegründet.",
+          "Das Zoogelände erstreckt sich über eine Fläche von 48 Hektar.",
+          "Mehr als 1.000 Tiere aus 272 Arten werden hier gepflegt.",
+          "Die Anlage befindet sich größtenteils auf einer Insel im Bow River.",
+          "Im Jahr 2013 richteten schwere Überschwemmungen große Schäden an.",
+          "Der Park verzeichnet jährlich etwa 1,3 Millionen Besucher.",
+          "Die Einrichtung beherbergt auch einen umfangreichen botanischen Garten."
+        ],
+        "hu": [
+          "A létesítményt hivatalosan az 1929-es évben alapították.",
+          "Az állatkert területe 48 hektáron terül el.",
+          "Több mint 1000 állatot gondoznak 272 különböző fajból.",
+          "A komplexum nagyrészt a Bow-folyó egyik szigetén helyezkedik el.",
+          "2013-ban a súlyos árvizek jelentős károkat okoztak a parkban.",
+          "Az intézmény évente mintegy 1,3 millió látogatót regisztrál.",
+          "A terület egy kiterjedt botanikus kertnek is helyet ad."
+        ],
+        "ro": [
+          "Instituția a fost fondată oficial în anul 1929.",
+          "Terenul grădinii zoologice se întinde pe o suprafață de 48 de hectare.",
+          "Aici sunt îngrijite peste 1.000 de animale din 272 de specii.",
+          "Complexul este situat în mare parte pe o insulă din râul Bow.",
+          "În 2013, inundațiile severe au provocat daune majore parcului.",
+          "Parcul înregistrează anual aproximativ 1,3 milioane de vizitatori.",
+          "Facilitatea găzduiește, de asemenea, o grădină botanică extinsă."
+        ],
+        "en": [
+          "The institution was officially founded in the year 1929.",
+          "The zoo grounds cover a total area of 48 hectares.",
+          "Over 1,000 animals from 272 different species are cared for here.",
+          "The complex is located largely on an island in the Bow River.",
+          "In 2013, severe flooding caused major structural damage to the park.",
+          "The facility registers approximately 1.3 million visitors annually.",
+          "The grounds also host an extensive botanical garden conservatory."
+        ]
+      }
+    },
+    {
+      "id": "granby-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Zoo de Granby (Granby Zoo) befindet sich in der Stadt Granby in der Provinz Quebec, etwa 80 Kilometer östlich der Metropole Montreal. Er wurde 1953 durch Pierre-Horace Boivin, den damaligen Bürgermeister von Granby, gegründet, der das Projekt als privates Refugium für Tiere begann, die er auf seinen weltweiten Reisen gesammelt hatte. Heute erstreckt sich die Anlage über 24 Hektar Land und beherbergt mehr als 1.500 Tiere aus über 225 verschiedenen Arten. Der Park ist geografisch nach Kontinenten strukturiert und bietet Zonen für Afrika, Südamerika, Asien und Ozeanien. Neben den klassischen Tiergehegen umfasst der Komplex auch den Wasserpark Amazoo, der 1999 hinzugefügt wurde, sowie einen saisonal betriebenen Vergnügungspark mit Fahrgeschäften. Der Zoo ist ein bedeutender Wirtschaftsfaktor für die Region Montérégie und zieht jährlich konstant mehr als 800.000 Besucher an. Naturschutzinitiativen sind ein zentraler Bestandteil der Unternehmensphilosophie, was sich durch die aktive Teilnahme am Species Survival Plan (SSP) für stark gefährdete Tiere wie den Amurleoparden und den Kleinen Panda zeigt. Bildungsprogramme richten sich gezielt an Grund- und Sekundarschüler aus ganz Quebec. Im Jahr 2020 leitete der Zoo ein umfassendes Modernisierungsprojekt ein, das sich auf nachhaltige Entwicklung, Energieeffizienz und die Verbesserung des Tierschutzes konzentriert. Die Koordinaten lauten 45,41°N, 72,73°W.",
+        "hu": "A Granby Zoo (Zoo de Granby) Quebec tartományban, Granby városában található, körülbelül 80 kilométerre keletre Montreal metropoliszától. 1953-ban alapította Pierre-Horace Boivin, Granby akkori polgármestere, aki a projektet egy magánmenedékként indította el a világkörüli útjai során szerzett állatok számára. Napjainkban a létesítmény 24 hektáros földterületen terül el, és több mint 225 faj több mint 1500 egyedét mutatja be. A park földrajzilag kontinensek szerint van felépítve, Afrikát, Dél-Amerikát, Ázsiát és Óceániát képviselő zónákat kínálva. A klasszikus állatkifutók mellett a komplexum magába foglalja az 1999-ben megnyílt Amazoo víziparkot, valamint egy szezonálisan üzemelő, különféle attrakciókkal rendelkező vidámparkot is. Az állatkert a Montérégie régió jelentős gazdasági motorja, amely évente folyamatosan több mint 800 000 látogatót vonz. A természetvédelmi kezdeményezések a vállalati filozófia központi elemét képezik, ami megnyilvánul az olyan súlyosan veszélyeztetett fajok Fajmegmentési Tervében (SSP) való aktív részvételben is, mint az amuri leopárd és a vörös macskamedve. Az oktatási programok kifejezetten a quebeci általános és középiskolás diákokat célozzák meg. 2020-ban az állatkert egy átfogó modernizációs projektet indított el, amely a fenntartható fejlődésre, az energiahatékonyságra és az állatjólét javítására összpontosít. Koordinátái: é. sz. 45,41°, ny. h. 72,73°.",
+        "ro": "Grădina Zoologică din Granby (Zoo de Granby) este situată în orașul Granby din provincia Quebec, la aproximativ 80 de kilometri est de metropola Montreal. A fost fondată în 1953 de Pierre-Horace Boivin, primarul de atunci al orașului Granby, care a început proiectul ca un refugiu privat pentru animalele pe care le obținuse în timpul călătoriilor sale în jurul lumii. Astăzi, facilitatea se întinde pe 24 de hectare de teren și găzduiește peste 1.500 de animale din peste 225 de specii diferite. Parcul este structurat geografic pe continente, oferind zone pentru Africa, America de Sud, Asia și Oceania. Pe lângă incintele clasice pentru animale, complexul include, de asemenea, parcul acvatic Amazoo, adăugat în 1999, și un parc de distracții operat sezonier cu diverse atracții. Grădina zoologică este un motor economic major pentru regiunea Montérégie, atrăgând constant peste 800.000 de vizitatori anual. Inițiativele de conservare sunt o componentă centrală a filosofiei corporative, evidențiată de participarea activă la Planul de Supraviețuire a Speciilor (SSP) pentru animale grav amenințate, cum ar fi leopardul de Amur și panda roșu. Programele educaționale vizează în mod specific elevii din școlile primare și secundare din întregul Quebec. În 2020, grădina zoologică a inițiat un proiect amplu de modernizare, axat pe dezvoltare durabilă, eficiență energetică și îmbunătățirea bunăstării animalelor. Coordonatele sunt 45,41°N, 72,73°V.",
+        "en": "The Granby Zoo (Zoo de Granby) is situated in the city of Granby in the province of Quebec, approximately 80 kilometers east of the metropolis of Montreal. It was officially founded in 1953 by Pierre-Horace Boivin, the mayor of Granby at the time, who initiated the project as a private sanctuary for animals he had acquired during his extensive worldwide travels. Today, the facility spans 24 hectares (60 acres) of land and houses over 1,500 animals from more than 225 distinct species. The park is structurally organized by continent, offering specific zones representing Africa, South America, Asia, and Oceania. In addition to the traditional animal enclosures, the complex also includes the Amazoo water park, which was added in 1999, as well as a seasonally operated amusement park featuring various rides. The zoo serves as a major economic driver for the Montérégie region, consistently attracting over 800,000 visitors on an annual basis. Conservation initiatives are a central component of its corporate philosophy, demonstrated by active participation in the Species Survival Plan (SSP) for highly endangered animals such as the Amur leopard and the red panda. Educational programs specifically target elementary and secondary school students across Quebec. In 2020, the zoo initiated a comprehensive modernization project focusing on sustainable development, energy efficiency, and improving animal welfare. The coordinates are 45.41°N, 72.73°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Einrichtung wurde im Jahr 1953 von einem ehemaligen Bürgermeister gegründet.",
+          "Das Zooareal erstreckt sich über eine Fläche von 24 Hektar.",
+          "Die Anlage beherbergt mehr als 1.500 Tiere aus 225 Arten.",
+          "Der Komplex beinhaltet seit 1999 auch einen großen Wasserpark.",
+          "Ein wichtiges Zuchtprogramm widmet sich dem stark gefährdeten Amurleoparden.",
+          "Die jährliche Besucherzahl liegt konstant bei über 800.000 Menschen.",
+          "Der Zoo ist in geografische Zonen nach Kontinenten unterteilt."
+        ],
+        "hu": [
+          "A létesítményt 1953-ban egy korábbi polgármester alapította meg.",
+          "Az állatkert területe összesen 24 hektárt foglal magába.",
+          "A park több mint 1500 állatot gondoz 225 különböző fajból.",
+          "A komplexum 1999 óta egy kiterjedt víziparknak is helyet ad.",
+          "Kiemelt tenyészprogram foglalkozik a súlyosan veszélyeztetett amuri leopárddal.",
+          "Az éves látogatószám stabilan meghaladja a 800 000 főt.",
+          "Az állatkert kontinensek szerinti földrajzi zónákra van felosztva."
+        ],
+        "ro": [
+          "Instituția a fost fondată în anul 1953 de către un fost primar.",
+          "Terenul grădinii zoologice se întinde pe o suprafață de 24 de hectare.",
+          "Complexul găzduiește peste 1.500 de animale din 225 de specii.",
+          "Din 1999, complexul include și un mare parc acvatic de distracții.",
+          "Un program major de reproducere este dedicat leopardului de Amur.",
+          "Numărul anual de vizitatori depășește constant 800.000 de persoane.",
+          "Grădina zoologică este împărțită în zone geografice în funcție de continente."
+        ],
+        "en": [
+          "The institution was founded in 1953 by a former municipal mayor.",
+          "The zoo grounds encompass a total land area of 24 hectares.",
+          "The facility provides a home for over 1,500 animals from 225 species.",
+          "Since 1999, the complex has also included a large-scale water park.",
+          "A major breeding program focuses on the critically endangered Amur leopard.",
+          "The annual visitor attendance consistently exceeds 800,000 people.",
+          "The zoo is structurally divided into geographic zones by continent."
+        ]
+      }
+    },
+    {
+      "id": "vancouver-aquarium-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Vancouver Aquarium befindet sich innerhalb des historischen Stanley Park in Vancouver, British Columbia. Es wurde am 15. Juni 1956 eröffnet und war das erste öffentliche Aquarium in ganz Kanada. Die Einrichtung nimmt eine Fläche von etwa 9.000 Quadratmetern ein und beherbergt eine außergewöhnliche Sammlung von mehr als 58.000 aquatischen Lebewesen. Das Aquarium ist international anerkannt für seine meeresbiologischen Forschungen und Schutzprogramme und leitete jahrzehntelang die bekannte Ocean Wise Initiative zur Förderung nachhaltigen Fischkonsums. Die Ausstellungsbereiche umfassen spezifische Galerien wie den Pacific Canada Pavilion, Canada's Arctic und die Tropics, die jeweils detailgetreue Nachbildungen natürlicher Habitate darstellen. Im Jahr 1996 verabschiedete das Vancouver Park Board ein historisches Statut, das den Fang von wilden Walen und Delfinen für das Aquarium verbot, was das Betriebsmodell nachhaltig veränderte. Das vom Aquarium geleitete Marine Mammal Rescue Centre rehabilitiert jährlich mehr als 150 gestrandete oder verletzte Meeressäuger, wobei es sich überwiegend um Seehundwelpen handelt. Das Aquarium war die erste Einrichtung in Nordamerika, die naturalistische und artgerechte Lebensräume für Meeresarten anstelle von sterilen Becken einführte. Nach gravierenden finanziellen Schwierigkeiten, die durch die Schließungen während der Pandemie 2020 ausgelöst wurden, ging das Eigentum 2021 an das US-Unternehmen Herschend Enterprises über. Die Koordinaten lauten 49,30°N, 123,13°W.",
+        "hu": "A Vancouver Aquarium a történelmi Stanley Park területén helyezkedik el Vancouverben, Brit Columbia tartományban. 1956. június 15-én nyitotta meg kapuit, ezzel Kanada legelső nyilvános akváriuma lett. A létesítmény mintegy 9000 négyzetméteres területet foglal el, és több mint 58 000 vízi élőlény kivételes gyűjteményének ad otthont. Az akvárium nemzetközileg elismert tengerbiológiai kutatásairól és védelmi programjairól, és évtizedeken át irányította a jól ismert Ocean Wise kezdeményezést a fenntartható halfogyasztás előmozdítása érdekében. A kiállítási területek olyan specifikus galériákat foglalnak magukba, mint a Pacific Canada Pavilion, a Canada's Arctic és a Tropics, amelyek mindegyike a természetes élőhelyek részlethű másolatait mutatja be. 1996-ban a vancouveri parkokért felelős bizottság (Vancouver Park Board) egy történelmi jelentőségű rendeletet fogadott el, amely megtiltotta a vadon élő bálnák és delfinek befogását az akvárium számára, ami tartósan megváltoztatta a működési modellt. Az akvárium által működtetett Tengeri Emlős Mentőközpont évente több mint 150 partra vetett vagy sérült tengeri emlőst, túlnyomórészt borjúfókakölyköt rehabilitál. Észak-Amerikában ez volt az első létesítmény, amely a steril medencék helyett naturalisztikus és fajoknak megfelelő élőhelyeket alakított ki a tengeri fajok számára. A 2020-as járvány alatti lezárások okozta súlyos pénzügyi nehézségeket követően a tulajdonjog 2021-ben az amerikai Herschend Enterprises vállalathoz került. A koordináták: é. sz. 49,30°, ny. h. 123,13°.",
+        "ro": "Acvariul din Vancouver este situat în parcul istoric Stanley Park din Vancouver, Columbia Britanică. A fost deschis la 15 iunie 1956, fiind primul acvariu public din întreaga Canada. Facilitatea ocupă o suprafață de aproximativ 9.000 de metri pătrați și găzduiește o colecție extraordinară de peste 58.000 de creaturi acvatice. Acvariul este recunoscut internațional pentru cercetările sale în biologia marină și programele de conservare, conducând decenii la rând binecunoscuta inițiativă Ocean Wise pentru promovarea consumului durabil de pește. Zonele de expoziție includ galerii specifice, cum ar fi Pacific Canada Pavilion, Canada's Arctic și Tropics, fiecare prezentând reproduceri detaliate ale habitatelor naturale. În 1996, comisia parcurilor din Vancouver (Vancouver Park Board) a adoptat un statut istoric care a interzis capturarea balenelor și delfinilor sălbatici pentru acvariu, modificând permanent modelul operațional. Centrul de Salvare a Mamiferelor Marine, condus de acvariu, reabilitează anual peste 150 de mamifere marine eșuate sau rănite, predominant pui de focă. Acvariul a fost prima facilitate din America de Nord care a introdus habitate naturaliste și adecvate speciilor pentru speciile marine, în loc de bazine sterile. După dificultăți financiare grave cauzate de închiderile din timpul pandemiei din 2020, proprietatea a fost transferată către compania americană Herschend Enterprises în 2021. Coordonatele sunt 49,30°N, 123,13°V.",
+        "en": "The Vancouver Aquarium is situated within the historic Stanley Park in Vancouver, British Columbia. Opening on June 15, 1956, it holds the distinction of being the first public aquarium in all of Canada. The facility occupies approximately 9,000 square meters of indoor and outdoor space and houses an extraordinary collection of over 58,000 aquatic animals. The aquarium is internationally recognized for its marine biology research and ocean conservation programs, having operated the well-known Ocean Wise initiative for decades to promote sustainable seafood consumption. The exhibition areas feature specific galleries including the Pacific Canada Pavilion, Canada's Arctic, and the Tropics, each presenting highly detailed, naturalistic replications of marine habitats. In 1996, the Vancouver Park Board implemented a historic bylaw preventing the facility from capturing wild cetaceans, fundamentally and permanently changing its operational model. The Marine Mammal Rescue Centre, operated by the aquarium, successfully rehabilitates over 150 stranded or injured marine mammals annually, primarily focusing on harbor seal pups. The aquarium was the very first facility in North America to incorporate naturalistic habitats for marine species rather than sterile concrete tanks. Following severe financial difficulties triggered by the extended closures during the 2020 pandemic, full ownership was transferred to the US-based Herschend Enterprises in 2021. The geographic coordinates are 49.30°N, 123.13°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Einrichtung eröffnete im Jahr 1956 als Kanadas erstes öffentliches Aquarium.",
+          "Die Ausstellungsfläche umfasst rund 9.000 Quadratmeter.",
+          "Das Aquarium beherbergt mehr als 58.000 aquatische Lebewesen.",
+          "Ein eigens betriebenes Zentrum rettet jährlich über 150 gestrandete Meeressäuger.",
+          "Im Jahr 1996 wurde der Fang von wilden Walen für die Einrichtung verboten.",
+          "Das Aquarium war Vorreiter bei der Gestaltung naturalistischer Meeresgehege.",
+          "Seit 2021 befindet sich das Aquarium im Besitz von Herschend Enterprises."
+        ],
+        "hu": [
+          "A létesítmény 1956-ban nyílt meg Kanada legelső nyilvános akváriumaként.",
+          "A teljes kiállítási terület körülbelül 9000 négyzetmétert tesz ki.",
+          "Az akvárium több mint 58 000 vízi élőlény otthonául szolgál.",
+          "Egy saját mentőközpont évente több mint 150 partra vetett emlőst ment meg.",
+          "1996-ban betiltották a vadon élő bálnák befogását az intézmény számára.",
+          "Az akvárium úttörő volt a naturalisztikus tengeri élőhelyek kialakításában.",
+          "A komplexum 2021 óta az amerikai Herschend Enterprises tulajdonában van."
+        ],
+        "ro": [
+          "Facilitatea a fost deschisă în 1956 ca primul acvariu public din Canada.",
+          "Suprafața expozițională acoperă aproximativ 9.000 de metri pătrați.",
+          "Acvariul găzduiește cu succes peste 58.000 de creaturi acvatice.",
+          "Un centru propriu salvează anual peste 150 de mamifere marine eșuate.",
+          "În 1996, capturarea balenelor sălbatice pentru instituție a fost interzisă.",
+          "Acvariul a fost pionier în crearea de habitate marine naturaliste.",
+          "Din 2021, acvariul este deținut de compania americană Herschend Enterprises."
+        ],
+        "en": [
+          "The facility opened in 1956 as Canada's very first public aquarium.",
+          "The total exhibition space covers approximately 9,000 square meters.",
+          "The aquarium currently houses more than 58,000 aquatic life forms.",
+          "An internal rescue center saves over 150 stranded marine mammals annually.",
+          "In 1996, the capture of wild cetaceans for the institution was prohibited.",
+          "The aquarium pioneered the creation of naturalistic marine habitats in tanks.",
+          "Since 2021, the facility has been owned and operated by Herschend Enterprises."
+        ]
+      }
+    },
+    {
+      "id": "ripleys-aquarium-canada-life-v2",
+      "descriptionAdvanced": {
+        "de": "Ripley's Aquarium of Canada befindet sich im Stadtzentrum von Toronto, Ontario, unmittelbar südöstlich des ikonischen CN Towers. Das hochmoderne öffentliche Aquarium wurde am 16. Oktober 2013 eröffnet, nachdem ein komplexer Bauprozess mit Gesamtkosten von rund 130 Millionen CAD abgeschlossen worden war. Die Einrichtung fasst insgesamt 5,7 Millionen Liter Wasser, verteilt auf neun thematisch unterschiedliche Galerien, zu denen die Canadian Waters, das Rainbow Reef und die Dangerous Lagoon gehören. Das Aquarium präsentiert über 20.000 Wassertiere, die mehr als 450 verschiedene Arten repräsentieren. Die Hauptattraktion, die Dangerous Lagoon, verfügt über einen 96 Meter langen, sich bewegenden Unterwasser-Glastunnel, der der längste seiner Art in Nordamerika ist. Er ermöglicht es den Besuchern, Sandtigerhaie, Grüne Meeresschildkröten und Sägefische aus nächster Nähe zu betrachten. Die lebenserhaltenden Systeme der Anlage arbeiten 24 Stunden am Tag ohne Unterbrechung, um das Wasser zu filtern und die strengen Salzgehalt- und Temperaturanforderungen sowohl für Süßwasser- als auch für Salzwasserhabitate präzise aufrechtzuerhalten. Die Institution legt großen Wert auf meeresbiologische Bildung und bietet regelmäßig lehrplankonforme Workshops für Schulen in Ontario an. Die Umweltinitiativen umfassen die vollständige Eliminierung von Einwegkunststoffen in den gastronomischen Bereichen und die Beschaffung von ausschließlich nachhaltig gefangenem Meeresfrüchtefutter für die Tiere. Die genauen Koordinaten sind 43,64°N, 79,38°W.",
+        "hu": "A Ripley's Aquarium of Canada a kanadai Ontario tartomány fővárosában, Toronto belvárosában helyezkedik el, közvetlenül az ikonikus CN-toronytól délkeletre. A rendkívül modern nyilvános akvárium 2013. október 16-án nyílt meg, egy megközelítőleg 130 millió kanadai dollárba kerülő, összetett építési folyamat lezárását követően. A létesítmény összesen 5,7 millió liter vizet fogad be, amely kilenc, tematikusan elkülönülő galériára oszlik; ezek közé tartozik a Canadian Waters, a Rainbow Reef és a Dangerous Lagoon. Az akvárium több mint 20 000 vízi állatot mutat be, amelyek több mint 450 különböző fajt képviselnek. A fő látványosság, a Dangerous Lagoon egy 96 méter hosszú, mozgójárdával felszerelt víz alatti üvegalagúttal rendelkezik, amely a leghosszabb a maga nemében Észak-Amerikában. Ez lehetővé teszi a látogatók számára, hogy közvetlen közelről figyelhessék meg a homoki tigriscápákat, a közönséges levesteknősöket és a fűrészesrájákat. A komplexum létfenntartó rendszerei a nap 24 órájában megszakítás nélkül működnek a víz szűrése, valamint az édesvízi és sósvízi élőhelyek szigorú sótartalom- és hőmérsékleti követelményeinek precíz fenntartása érdekében. Az intézmény nagy hangsúlyt fektet a tengerbiológiai oktatásra, és rendszeresen kínál tantervhez igazodó workshopokat az ontariói iskolák számára. A környezetvédelmi kezdeményezések közé tartozik az egyszer használatos műanyagok teljes száműzése a vendéglátóipari területekről, valamint a kizárólag fenntartható forrásból származó tengeri állateledel beszerzése. A pontos koordináták: é. sz. 43,64°, ny. h. 79,38°.",
+        "ro": "Acvariul Ripley din Canada este situat în centrul orașului Toronto, Ontario, imediat la sud-est de iconicul Turn CN. Acvariul public ultramodern a fost deschis la 16 octombrie 2013, după finalizarea unui proces complex de construcție care a costat aproximativ 130 de milioane de dolari canadieni. Facilitatea deține un total de 5,7 milioane de litri de apă, distribuiți în nouă galerii cu tematici diferite, printre care se numără Canadian Waters, Rainbow Reef și Dangerous Lagoon. Acvariul prezintă peste 20.000 de animale acvatice, reprezentând mai mult de 450 de specii diferite. Atracția principală, Dangerous Lagoon, dispune de un tunel subacvatic din sticlă în mișcare, cu o lungime de 96 de metri, care este cel mai lung de acest fel din America de Nord. Acesta permite vizitatorilor să observe de aproape rechini tigru de nisip, broaște țestoase verzi și pești ferăstrău. Sistemele de susținere a vieții ale complexului funcționează 24 de ore pe zi fără întrerupere pentru a filtra apa și a menține cu precizie cerințele stricte de salinitate și temperatură atât pentru habitatele de apă dulce, cât și pentru cele de apă sărată. Instituția pune un mare accent pe educația în biologia marină și oferă în mod regulat ateliere aliniate la programul școlar pentru școlile din Ontario. Inițiativele de mediu includ eliminarea completă a materialelor plastice de unică folosință din zonele de catering și achiziționarea exclusivă de hrană din fructe de mare provenită din surse durabile pentru animale. Coordonatele exacte sunt 43,64°N, 79,38°V.",
+        "en": "Ripley's Aquarium of Canada is prominently located in downtown Toronto, Ontario, immediately southeast of the iconic CN Tower. The state-of-the-art public aquarium officially opened on October 16, 2013, following a complex construction process that cost an estimated $130 million CAD. The facility holds a massive total of 5.7 million liters of water distributed across nine distinct, thematic galleries, which include Canadian Waters, Rainbow Reef, and the Dangerous Lagoon. The aquarium exhibits over 20,000 aquatic animals representing more than 450 different species. The primary attraction, the Dangerous Lagoon, features a 96-meter-long moving underwater glass tunnel, which holds the record as the longest of its kind in North America. This engineering marvel allows visitors to view sand tiger sharks, green sea turtles, and large sawfish from a remarkably close perspective. The complex's advanced life support systems operate 24 hours a day without interruption to continuously filter the water and precisely maintain the strict salinity and temperature requirements necessary for both the freshwater and saltwater habitats. The institution places a strong emphasis on marine biology education, regularly providing curriculum-aligned workshops for schools across Ontario. Environmental initiatives include the complete elimination of single-use plastics in all food service areas and the procurement of exclusively sustainably sourced seafood for animal feed. The exact geographic coordinates are 43.64°N, 79.38°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die offizielle Eröffnung der Anlage erfolgte am 16. Oktober 2013.",
+          "Die gesamten Baukosten beliefen sich auf etwa 130 Millionen CAD.",
+          "Das Aquarium fasst eine Gesamtwassermenge von 5,7 Millionen Litern.",
+          "Mehr als 20.000 Wassertiere aus 450 Arten werden hier ausgestellt.",
+          "Die Anlage besitzt einen 96 Meter langen Unterwasser-Glastunnel.",
+          "Das Filtersystem ist rund um die Uhr ohne Unterbrechung in Betrieb.",
+          "Einwegplastik ist in allen gastronomischen Bereichen streng verboten."
+        ],
+        "hu": [
+          "A létesítmény hivatalos megnyitójára 2013. október 16-án került sor.",
+          "A teljes építési költség körülbelül 130 millió kanadai dollárt tett ki.",
+          "Az akvárium medencéi összesen 5,7 millió liter vizet fognak be.",
+          "Több mint 20 000 vízi állatot állítanak ki, 450 különböző fajból.",
+          "A komplexum egy 96 méter hosszú, víz alatti üvegalagúttal rendelkezik.",
+          "A vízszűrő rendszer a nap 24 órájában, megszakítás nélkül üzemel.",
+          "Az egyszer használatos műanyagok szigorúan tilosak a vendéglátásban."
+        ],
+        "ro": [
+          "Deschiderea oficială a complexului a avut loc la 16 octombrie 2013.",
+          "Costurile totale de construcție s-au ridicat la circa 130 milioane CAD.",
+          "Acvariul deține un volum total de apă de 5,7 milioane de litri.",
+          "Peste 20.000 de animale acvatice din 450 de specii sunt expuse aici.",
+          "Facilitatea deține un tunel subacvatic de sticlă de 96 de metri lungime.",
+          "Sistemul de filtrare a apei funcționează non-stop, 24 de ore pe zi.",
+          "Plasticul de unică folosință este strict interzis în zonele de catering."
+        ],
+        "en": [
+          "The official opening of the facility took place on October 16, 2013.",
+          "The total construction costs amounted to approximately $130 million CAD.",
+          "The aquarium holds a massive total water volume of 5.7 million liters.",
+          "More than 20,000 aquatic animals from 450 species are exhibited here.",
+          "The complex features a 96-meter-long moving underwater glass tunnel.",
+          "The advanced water filtration system operates 24/7 without interruption.",
+          "Single-use plastics are strictly prohibited in all food service areas."
+        ]
+      }
+    },
+    {
+      "id": "african-lion-safari-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der African Lion Safari ist ein in Familienbesitz befindlicher Wildpark in Flamborough, einem ländlichen Stadtteil von Hamilton, Ontario. Er wurde im Jahr 1969 durch den ehemaligen britischen Offizier Gordon Debenham \"Don\" Dailley gegründet. Der weitläufige Park erstreckt sich über eine Fläche von 300 Hektar und arbeitet nach einem Drive-Through-Modell, bei dem die Besucher die Tiere direkt aus ihren eigenen Fahrzeugen oder aus speziell vergitterten klimatisierten Bussen beobachten können. Die Einrichtung ist in sieben große, umzäunte Wildreservate unterteilt, die mehr als 1.000 Tiere beherbergen. Diese repräsentieren über 100 verschiedene Arten, darunter Löwen, Netzgiraffen, Geparden, Breitmaulnashörner und Paviane. Die Institution hat international große Anerkennung für ihr hochgradig erfolgreiches Zuchtprogramm für Asiatische Elefanten erlangt; seit den späten 1990er Jahren wurden hier mehr als 20 Elefantenkälber geboren und aufgezogen. Neben den Safarirouten bietet der Park auch fußläufig zugängliche Bereiche, ein Entdeckungszentrum für Kinder sowie tägliche Bildungspräsentationen, die sich intensiv auf Greifvögel, Papageien und das natürliche Verhalten der Elefanten konzentrieren. Das Gelände verfügt über umfangreiche und modern ausgestattete tiermedizinische Einrichtungen sowie Quarantänegehege, um die Gesundheit und das Wohlergehen der Tiere zu gewährleisten. Der Betrieb ist aufgrund der klimatischen Anforderungen der gehaltenen tropischen und subtropischen Arten stark saisonabhängig und läuft in der Regel nur von Mai bis Mitte Oktober. Die geografischen Koordinaten sind 43,33°N, 80,18°W.",
+        "hu": "Az African Lion Safari egy családi tulajdonban lévő szafaripark az ontariói Hamilton vidéki Flamborough negyedében. A parkot 1969-ben alapította Gordon Debenham \"Don\" Dailley volt brit katonatiszt. A kiterjedt létesítmény 300 hektáros területen fekszik, és áthajtós (drive-through) modell alapján működik, ahol a látogatók közvetlenül a saját járműveikből vagy speciális, rácsos és légkondicionált szafaribuszokból figyelhetik meg az állatokat. A terület hét nagy, bekerített vadrezervátumra oszlik, amelyek együttesen több mint 1000 állatnak adnak otthont. Ezek több mint 100 különböző fajt képviselnek, köztük oroszlánokat recés zsiráfokat, gepárdokat, szélesszájú orrszarvúkat és páviánokat. Az intézmény nemzetközileg nagy elismerést vívott ki az ázsiai elefántok rendkívül sikeres tenyésztési programjával; az 1990-es évek vége óta több mint 20 elefántborjú született és nevelkedett fel itt. A szafari útvonalakon kívül a park gyalogosan bejárható területeket, egy gyermekeknek szóló felfedezőközpontot, valamint napi oktatási bemutatókat is kínál, amelyek kiemelten fókuszálnak a ragadozó madarakra, papagájokra és az elefántok természetes viselkedésére. A helyszín kiterjedt és modern felszereltségű állatorvosi létesítményekkel, valamint karanténkifutókkal is rendelkezik az állatok egészségének és jólétének biztosítása érdekében. A működés a tartott trópusi és szubtrópusi fajok szigorú éghajlati követelményei miatt erősen szezonális, és jellemzően csak májustól október közepéig tart nyitva. Földrajzi koordinátái: é. sz. 43,33°, ny. h. 80,18°.",
+        "ro": "African Lion Safari este un parc safari deținut de o familie, situat în Flamborough, un cartier rural din Hamilton, Ontario. A fost fondat în 1969 de fostul ofițer militar britanic Gordon Debenham \"Don\" Dailley. Parcul extins acoperă o suprafață de 300 de hectare și funcționează pe un model drive-through, în care vizitatorii pot observa animalele direct din propriile vehicule sau din autobuze speciale de safari cu aer condiționat și gratii de protecție. Facilitatea este împărțită în șapte rezervații mari de animale îngrădite, care găzduiesc împreună peste 1.000 de animale. Acestea reprezintă peste 100 de specii diferite, inclusiv lei, girafe reticulate, gheparzi, rinoceri albi și babuini. Instituția a câștigat o recunoaștere internațională largă pentru programul său extrem de reușit de reproducere a elefanților asiatici; de la sfârșitul anilor 1990, peste 20 de pui de elefant s-au născut și au fost crescuți aici. Pe lângă rutele de safari, parcul oferă și zone accesibile pe jos, un centru de descoperire pentru copii și prezentări educaționale zilnice care se concentrează intens pe păsări de pradă, papagali și comportamentul natural al elefanților. Situl dispune de facilități veterinare extinse și echipate modern, precum și de incinte de carantină pentru a asigura sănătatea și bunăstarea animalelor. Funcționarea este puternic dependentă de sezon din cauza cerințelor climatice stricte ale speciilor tropicale și subtropicale ținute, parcul fiind deschis în general doar din mai până la jumătatea lunii octombrie. Coordonatele geografice sunt 43,33°N, 80,18°V.",
+        "en": "African Lion Safari is a family-owned wildlife park situated in Flamborough, a rural district of Hamilton, Ontario. It was founded in 1969 by former British military officer Gordon Debenham \"Don\" Dailley. The expansive park covers an area of 300 hectares (740 acres) and operates on a drive-through model, where visitors can safely observe the animals directly from their own personal vehicles or from specially designed, grated, air-conditioned safari tour buses. The facility is strategically divided into seven large, fenced game reserves that collectively house more than 1,000 animals. These represent over 100 different species, including prides of lions, reticulated giraffes, cheetahs, white rhinos, and troops of baboons. The institution has garnered significant international recognition for its highly successful Asian elephant breeding program; since the late 1990s, more than 20 elephant calves have been born and successfully reared here. In addition to the driving routes, the park offers pedestrian-accessible walk-through areas, a hands-on discovery center for children, and daily educational presentations that focus intensely on birds of prey, parrots, and the natural behaviors of elephants. The site features extensive and modernly equipped veterinary facilities, as well as quarantine enclosures, to guarantee the health and overall welfare of the animals. Operation is highly seasonal due to the strict climatic requirements of the tropical and subtropical species housed, typically running only from May through mid-October. The geographic coordinates are 43.33°N, 80.18°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Wildpark wurde 1969 von einem ehemaligen britischen Offizier gegründet.",
+          "Das gesamte Reservat erstreckt sich über eine Fläche von 300 Hektar.",
+          "Besucher befahren die sieben Gehege im eigenen Auto oder in Bussen.",
+          "Der Park beheimatet über 1.000 Tiere aus mehr als 100 Arten.",
+          "Das Zuchtprogramm brachte seit den 90er Jahren über 20 Elefanten hervor.",
+          "Aus klimatischen Gründen hat der Park nur von Mai bis Oktober geöffnet.",
+          "Das Gelände verfügt über hochmoderne tiermedizinische Einrichtungen."
+        ],
+        "hu": [
+          "A vadasparkot 1969-ben alapította egy egykori brit katonatiszt.",
+          "A teljes rezervátum mintegy 300 hektáros területet foglal magába.",
+          "A látogatók saját autóval vagy busszal hajthatnak át a hét kifutón.",
+          "A park több mint 1000 állatnak ad otthont, több mint 100 fajból.",
+          "Az elefánttenyésztési program keretében több mint 20 borjú született.",
+          "Éghajlati okok miatt a létesítmény csak májustól októberig tart nyitva.",
+          "A terület csúcstechnológiás állatorvosi létesítményekkel rendelkezik."
+        ],
+        "ro": [
+          "Parcul de animale sălbatice a fost fondat în 1969 de un fost ofițer britanic.",
+          "Întreaga rezervație acoperă o suprafață extinsă de 300 de hectare.",
+          "Vizitatorii traversează cele șapte incinte în propriile mașini sau în autobuze.",
+          "Parcul găzduiește peste 1.000 de animale din mai mult de 100 de specii.",
+          "Programul de reproducere a elefanților a generat peste 20 de pui.",
+          "Din motive climatice, parcul este deschis doar din mai până în octombrie.",
+          "Situl dispune de facilități veterinare echipate la standarde înalte."
+        ],
+        "en": [
+          "The wildlife park was officially founded in 1969 by a former British officer.",
+          "The entire reserve covers a massive land area of 300 hectares.",
+          "Visitors drive through the seven enclosures in personal cars or tour buses.",
+          "The park is home to over 1,000 animals representing more than 100 species.",
+          "The elephant breeding program has successfully produced over 20 calves.",
+          "Due to climatic constraints, the park is only open from May to October.",
+          "The site is equipped with state-of-the-art veterinary care facilities."
+        ]
+      }
+    },
+    {
+      "id": "parc-omega-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Parc Omega ist ein weitläufiger Safaripark in Montebello in der Provinz Quebec, geografisch günstig gelegen auf halber Strecke zwischen der Hauptstadt Ottawa und der Metropole Montreal. Er wurde im Jahr 1991 für die Öffentlichkeit freigegeben und nimmt eine massive Fläche von 890 Hektar ein, die aus dichten Laurentinischen Wäldern, offenen Wiesen, Tälern und natürlichen Seen besteht. Die Einrichtung unterscheidet sich von traditionellen Zoos, da sie sich fast ausschließlich auf nordamerikanische Wildtiere spezialisiert hat. Zu den Bewohnern zählen Wapitis, Bisons, Timberwölfe, Schwarzbären, Rentiere und Elche. Besucher befahren das Gelände auf einem 15 Kilometer langen, kurvenreichen Pfad mit dem eigenen Fahrzeug und können die meisten Pflanzenfresser direkt aus dem Fenster mit Karotten füttern, was eine direkte Interaktion ermöglicht. Der Park integriert geschickt Elemente der kanadischen Kulturgeschichte, indem er einen originalgetreuen Handelsposten aus dem 19. Jahrhundert sowie einen großen Bereich präsentiert, der den First Nations Kanadas gewidmet ist. Dieser Bereich umfasst authentisch geschnitzte Totempfähle, indianische Tipis und traditionelle architektonische Strukturen. Zu den jüngsten Erweiterungen des Parks gehören die sogenannten Wolfskabinen, die es den Gästen ermöglichen, über Nacht in rustikalen Holzhütten zu bleiben, die mit großen Panoramafenstern ausgestattet sind, welche direkt auf das Wolfsgehege blicken. Der Park unterhält strenge Naturschutzprotokolle und engagiert sich stark in Zuchtprogrammen für bestimmte Arten, wie beispielsweise den gefährdeten Polarwolf. Die Koordinaten lauten 45,67°N, 74,93°W.",
+        "hu": "A Parc Omega egy kiterjedt szafaripark a quebeci Montebello városában, amely földrajzilag kedvező helyen, nagyjából félúton található Ottawa fővárosa és Montreal metropolisza között. 1991-ben nyitották meg a nagyközönség előtt, és egy hatalmas, 890 hektáros területet foglal el, amely sűrű laurentiai erdőkből, nyitott rétekből, völgyekből és természetes tavakból áll. A létesítmény abban különbözik a hagyományos állatkertektől, hogy szinte kizárólag az észak-amerikai vadvilágra specializálódott. A park lakói közé tartoznak a vapitik, a bölények, az erdei farkasok, a feketemedvék, a rénszarvasok és a jávorszarvasok. A látogatók saját járművükkel haladnak végig egy 15 kilométer hosszú, kanyargós ösvényen, és a legtöbb növényevőt közvetlenül az ablakból etethetik sárgarépával, ami közvetlen interakciót tesz lehetővé. A park ügyesen integrálja a kanadai kultúrtörténet elemeit: bemutat egy 19. századi, hűen reprodukált kereskedelmi állomást, valamint egy hatalmas területet, amelyet Kanada őslakosainak (First Nations) szenteltek. Ez a terület autentikusan faragott totemoszlopokat, indián sátrakat és hagyományos építészeti struktúrákat foglal magába. A park legújabb fejlesztései közé tartoznak az úgynevezett farkaskabinok, amelyek lehetővé teszik a vendégek számára, hogy éjszakára is ott maradjanak olyan rusztikus faházakban, amelyek hatalmas panorámaablakai közvetlenül a farkaskifutóra néznek. A park szigorú természetvédelmi protokollokat tart fenn, és erősen elkötelezett bizonyos fajok, például a veszélyeztetett sarki farkas tenyésztési programjai iránt. Koordinátái: é. sz. 45,67°, ny. h. 74,93°.",
+        "ro": "Parc Omega este un parc safari vast situat în Montebello, în provincia Quebec, fiind poziționat geografic convenabil la jumătatea distanței dintre capitala Ottawa și metropola Montreal. A fost deschis publicului în anul 1991 și ocupă o suprafață masivă de 890 de hectare, formată din păduri dese laurențiene, pajiști deschise, văi și lacuri naturale. Facilitatea se distinge de grădinile zoologice tradiționale prin faptul că se specializează aproape exclusiv pe fauna sălbatică nord-americană. Printre locuitori se numără elani, bizoni, lupi de lemn, urși negri, reni și cerbi. Vizitatorii navighează pe teren pe un traseu șerpuit de 15 kilometri cu propriul vehicul și pot hrăni majoritatea erbivorelor cu morcovi direct de la fereastră, permițând o interacțiune directă. Parcul integrează cu pricepere elemente ale istoriei culturale canadiene, prezentând un post comercial din secolul al XIX-lea reprodus fidel, precum și o suprafață mare dedicată Primelor Națiuni (First Nations) din Canada. Această zonă include stâlpi totemici sculptați autentic, corturi amerindiene și structuri arhitecturale tradiționale. Extinderile recente ale parcului includ așa-numitele cabane ale lupilor, care permit oaspeților să rămână peste noapte în cabane rustice din lemn dotate cu ferestre panoramice mari care oferă vedere direct spre incinta lupilor. Parcul menține protocoale stricte de conservare și este puternic angajat în programe de reproducere pentru anumite specii, cum ar fi lupul arctic pe cale de dispariție. Coordonatele sunt 45,67°N, 74,93°V.",
+        "en": "Parc Omega is a sprawling safari park situated in Montebello in the province of Quebec, geographically located conveniently halfway between the capital city of Ottawa and the metropolis of Montreal. It was officially opened to the general public in 1991 and occupies a massive expanse of 890 hectares (2,200 acres), consisting of dense Laurentian forests, open meadows, valleys, and natural lakes. The facility distinguishes itself from traditional zoos by specializing almost exclusively in North American wildlife. Residents include majestic elk, bison, timber wolves, black bears, caribou, and moose. Visitors navigate the rugged terrain along a 15-kilometer winding trail in their own personal vehicles and are permitted to feed most of the herbivores with carrots directly from their windows, allowing for direct physical interaction. The park cleverly integrates elements of Canadian cultural history by presenting a faithfully reproduced 19th-century trading post, as well as a large dedicated area honoring the First Nations of Canada. This culturally significant area includes authentically carved totem poles, indigenous tipis, and traditional architectural structures. Recent expansions to the park's offerings include the highly popular wolf cabins, which allow guests to stay overnight in rustic wooden lodges equipped with large panoramic windows that face directly into the active wolf enclosures. The park maintains strict conservation protocols and is heavily engaged in breeding programs for specific species, such as the endangered Arctic wolf. The coordinates are 45.67°N, 74.93°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Safaripark wurde im Jahr 1991 für die Öffentlichkeit eröffnet.",
+          "Das gesamte Areal erstreckt sich über beachtliche 890 Hektar.",
+          "Die Einrichtung spezialisiert sich ausschließlich auf nordamerikanische Tierarten.",
+          "Ein 15 Kilometer langer Pfad führt die Besucher durch die Tiergehege.",
+          "Besucher dürfen Pflanzenfresser aus dem Auto heraus mit Karotten füttern.",
+          "Spezielle Wolfskabinen ermöglichen Übernachtungen direkt am Gehege.",
+          "Ein Themenbereich widmet sich intensiv der Kultur der First Nations."
+        ],
+        "hu": [
+          "A szafariparkot 1991-ben nyitották meg hivatalosan a nagyközönség előtt.",
+          "A teljes terület eléri a tekintélyes 890 hektáros nagyságot.",
+          "A létesítmény szinte kizárólag az észak-amerikai állatfajokra specializálódott.",
+          "A látogatókat egy 15 kilométer hosszú, kanyargós ösvény vezeti végig.",
+          "A növényevőket a látogatók az autóból sárgarépával is etethetik.",
+          "A speciális farkaskabinok éjszakai szállást biztosítanak a kifutók mellett.",
+          "Egy külön tematikus zóna foglalkozik Kanada őslakosainak kultúrájával."
+        ],
+        "ro": [
+          "Parcul safari a fost deschis oficial publicului larg în anul 1991.",
+          "Întreaga suprafață se întinde pe un teritoriu impresionant de 890 de hectare.",
+          "Facilitatea se specializează aproape exclusiv pe specii de animale nord-americane.",
+          "Un traseu de 15 kilometri conduce vizitatorii prin incintele animalelor.",
+          "Vizitatorii pot hrăni erbivorele cu morcovi direct din mașină.",
+          "Cabanele speciale pentru lupi permit cazarea peste noapte direct la incintă.",
+          "O zonă tematică este dedicată intens culturii Primelor Națiuni (First Nations)."
+        ],
+        "en": [
+          "The safari park was officially opened to the general public in 1991.",
+          "The entire property encompasses an impressive 890 hectares of land.",
+          "The facility specializes almost exclusively in North American animal species.",
+          "A 15-kilometer driving trail navigates visitors through the animal enclosures.",
+          "Guests are permitted to feed herbivores with carrots directly from their vehicles.",
+          "Specialized wolf cabins allow guests to stay overnight right next to the pack.",
+          "A dedicated thematic zone focuses heavily on the culture of the First Nations."
+        ]
+      }
+    },
+    {
+      "id": "saskatoon-forestry-farm-park-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Saskatoon Forestry Farm Park & Zoo befindet sich in Saskatoon, Saskatchewan, und hat eine reiche historische Bedeutung, die tief in der landwirtschaftlichen Entwicklung der Region verwurzelt ist. Das Gelände entstand ursprünglich 1913 als Sutherland Forest Nursery Station. Über einen Zeitraum von 53 Jahren zog diese staatliche Baumschule mehr als 147 Millionen Bäume auf und verschiffte sie an Landwirte in den gesamten Prärieprovinzen, um Windschutzstreifen zu pflanzen und Bodenerosion zu verhindern. Im Jahr 1966 wurde das Gelände in einen städtischen Park umgewandelt, und die zoologische Komponente wurde 1972 offiziell eröffnet. Heute ist er der einzige vollständig akkreditierte Zoo in der Provinz Saskatchewan und hält eine prestigeträchtige Mitgliedschaft in der Canadian Association of Zoos and Aquariums (CAZA). Die Einrichtung präsentiert über 80 verschiedene Tierarten, wobei der Schwerpunkt stark auf der heimischen kanadischen Tierwelt liegt, darunter mächtige Grizzlybären, Pumas, Grauwölfe und Bisons. Er beherbergt jedoch auch sorgfältig ausgewählte exotische Arten wie den madagassischen Katta und den seltenen Schneeleoparden. Der Park umfasst eine Gesamtfläche von 145 Acres (etwa 58 Hektar) und verfügt über mehrere sorgfältig restaurierte historische Gebäude, wie beispielsweise die Superintendent's Residence, ein Backsteingebäude, das 1913 erbaut wurde. Die Einrichtung betreibt das Bildungsprogramm Nutrien Ark, das jährlich Tausenden von Schülern wichtige Lektionen über Biodiversität, Umweltschutz und lokale Ökosysteme vermittelt. Die genauen Koordinaten sind 52,14°N, 106,58°W.",
+        "hu": "A Saskatoon Forestry Farm Park & Zoo a saskatchewani Saskatoon városában található, és gazdag történelmi jelentőséggel bír, amely mélyen gyökerezik a régió mezőgazdasági fejlődésében. A terület eredetileg 1913-ban jött létre Sutherland Forest Nursery Station néven. Ez az állami faiskola 53 év alatt több mint 147 millió fát nevelt fel és szállított el a préritartományok gazdálkodóinak, hogy szélvédő sávokat ültessenek és megakadályozzák a talajeróziót. 1966-ban a területet városi parkká alakították át, a zoológiai részleget pedig 1972-ben nyitották meg hivatalosan. Ma ez az egyetlen teljesen akkreditált állatkert Saskatchewan tartományban, és rangos tagsággal rendelkezik a Kanadai Állatkertek és Akváriumok Szövetségében (CAZA). A létesítmény több mint 80 különböző állatfajt mutat be, különösen nagy hangsúlyt fektetve az őshonos kanadai vadvilágra, beleértve a hatalmas grizzly medvéket, a pumákat, a szürke farkasokat és a bölényeket. Emellett azonban gondosan kiválasztott egzotikus fajoknak is otthont ad, mint például a madagaszkári gyűrűsfarkú maki és a ritka hópárduc. A park teljes területe 145 acre (körülbelül 58 hektár), és számos gondosan felújított történelmi épülettel rendelkezik, mint például az 1913-ban épült, vöröstéglás Superintendent's Residence. Az intézmény működteti a Nutrien Ark elnevezésű oktatási programot, amely évente diákok ezreinek tart fontos biológiai és környezetvédelmi órákat a biodiverzitásról és a helyi ökoszisztémákról. A pontos koordináták: é. sz. 52,14°, ny. h. 106,58°.",
+        "ro": "Saskatoon Forestry Farm Park & Zoo este situat în Saskatoon, Saskatchewan, și are o semnificație istorică bogată, adânc înrădăcinată în dezvoltarea agricolă a regiunii. Situl a fost înființat inițial în 1913 ca Sutherland Forest Nursery Station. Pe parcursul a 53 de ani, această pepinieră de stat a crescut și a expediat peste 147 de milioane de copaci fermierilor din toate provinciile de prerie pentru a planta perdele forestiere și a preveni eroziunea solului. În 1966, situl a fost transformat într-un parc municipal, iar componenta zoologică a fost deschisă oficial în 1972. Astăzi, este singura grădină zoologică complet acreditată din provincia Saskatchewan și deține un statut prestigios de membru în Asociația Grădinilor Zoologice și Acvariilor din Canada (CAZA). Facilitatea prezintă peste 80 de specii de animale diferite, cu un accent puternic pe fauna autohtonă canadiană, inclusiv urși grizzly puternici, pume, lupi cenușii și bizoni. Totuși, găzduiește și specii exotice atent selecționate, cum ar fi lemurul cu coadă inelată din Madagascar și rarul leopard de zăpadă. Parcul se întinde pe o suprafață totală de 145 de acri (aproximativ 58 de hectare) și dispune de mai multe clădiri istorice restaurate cu grijă, cum ar fi Superintendent's Residence, o clădire din cărămidă construită în 1913. Instituția derulează programul educațional Nutrien Ark, care oferă anual mii de studenți lecții importante despre biodiversitate, protecția mediului și ecosistemele locale. Coordonatele exacte sunt 52,14°N, 106,58°V.",
+        "en": "The Saskatoon Forestry Farm Park & Zoo is located in Saskatoon, Saskatchewan, and carries a rich historical significance deeply rooted in the agricultural development of the region. The site was originally established in 1913 as the Sutherland Forest Nursery Station. Over a period of 53 years, this government-run tree nursery grew and shipped more than 147 million trees to farmers across the Prairie Provinces to plant shelterbelts and prevent severe soil erosion. In 1966, the site was officially transformed into a municipal park, and the zoological component was inaugurated in 1972. Today, it stands as the only fully accredited zoo in the entire province of Saskatchewan, holding prestigious membership in the Canadian Association of Zoos and Aquariums (CAZA). The facility showcases over 80 different animal species, with a very strong focus on native Canadian wildlife, including massive grizzly bears, cougars, gray wolves, and bison. However, it also houses carefully selected exotic species such as the Madagascan ring-tailed lemur and the rare snow leopard. The park encompasses a total area of 145 acres (approximately 58 hectares) and features several meticulously restored heritage buildings, such as the Superintendent's Residence, a striking brick building constructed in 1913. The institution operates the Nutrien Ark educational program, which annually provides thousands of students with critical lessons regarding biodiversity, environmental conservation, and local ecosystems. The exact coordinates are 52.14°N, 106.58°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gelände wurde 1913 ursprünglich als staatliche Baumschule gegründet.",
+          "Über 147 Millionen Bäume wurden von hier aus in die Prärie verschifft.",
+          "Der zoologische Bereich des Parks wurde im Jahr 1972 offiziell eröffnet.",
+          "Es ist der einzige vollständig CAZA-akkreditierte Zoo in Saskatchewan.",
+          "Die Einrichtung konzentriert sich primär auf heimische kanadische Tierarten.",
+          "Mehrere historische Gebäude aus dem frühen 20. Jahrhundert sind erhalten.",
+          "Der Park umfasst eine Gesamtfläche von etwa 58 Hektar (145 Acres)."
+        ],
+        "hu": [
+          "A területet eredetileg 1913-ban alapították állami faneveldeként.",
+          "Több mint 147 millió fát szállítottak innen a préritartományokba.",
+          "A park zoológiai részlegét 1972-ben nyitották meg hivatalosan.",
+          "Ez az egyetlen teljes körűen CAZA-akkreditált állatkert Saskatchewanban.",
+          "A létesítmény elsősorban az őshonos kanadai állatfajokra fókuszál.",
+          "Számos kora 20. századi, felújított történelmi épület maradt fenn a területen.",
+          "A park teljes területe megközelítőleg 58 hektár (145 acre)."
+        ],
+        "ro": [
+          "Terenul a fost inițial înființat în 1913 ca o pepinieră forestieră de stat.",
+          "Peste 147 de milioane de copaci au fost expediați de aici către prerie.",
+          "Secțiunea zoologică a parcului a fost deschisă oficial în anul 1972.",
+          "Este singura grădină zoologică complet acreditată CAZA din Saskatchewan.",
+          "Facilitatea se concentrează în principal pe specii de animale native din Canada.",
+          "Mai multe clădiri istorice de la începutul secolului XX s-au păstrat.",
+          "Parcul acoperă o suprafață totală de aproximativ 58 de hectare (145 acri)."
+        ],
+        "en": [
+          "The grounds were originally established in 1913 as a government tree nursery.",
+          "Over 147 million trees were grown and shipped to the prairies from this site.",
+          "The zoological section of the park was officially opened to the public in 1972.",
+          "It is the only fully CAZA-accredited zoo in the province of Saskatchewan.",
+          "The facility focuses primarily on native Canadian animal species.",
+          "Several restored historical buildings from the early 20th century remain on site.",
+          "The park encompasses a total land area of approximately 58 hectares (145 acres)."
+        ]
+      }
+    },
+    {
+      "id": "assiniboine-park-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Assiniboine Park Zoo befindet sich innerhalb des historischen Assiniboine Park in Winnipeg, der Hauptstadt von Manitoba, und wurde bereits 1904 etabliert, was ihn zu einem der ältesten noch existierenden Zoos in Kanada macht. Der Zoo umfasst eine weitläufige Fläche von 32 Hektar und wird von der Assiniboine Park Conservancy verwaltet. Die moderne Einrichtung beherbergt mehr als 1.500 Tiere aus über 150 verschiedenen Arten aus der ganzen Welt. Die unbestrittene Hauptattraktion des Zoos ist die preisgekrönte Ausstellung \"Journey to Churchill\", ein massives, vier Hektar großes Gehege für nördliche Arten, das 2014 eröffnet wurde. Diese revolutionäre Ausstellung fungiert in erster Linie als sicheres Refugium für verwaiste Eisbären aus der arktischen Wildnis und beherbergt das Leatherdale International Polar Bear Conservation Centre, das führende Forschungs-, Rettungs- und Rehabilitationsoperationen für die Arktis durchführt. Ein Unterwassertunnel ermöglicht es den Besuchern, die Eisbären und Robben beim Schwimmen aus einer 360-Grad-Perspektive zu beobachten. Der Rest des Zoos ist geografisch und thematisch organisiert, mit Bereichen wie dem Asian Realm, Toucan Ridge und dem Shirley Richardson Butterfly Garden. Die Institution blickt auf eine sehr lange Geschichte der erfolgreichen Teilnahme am Species Survival Plan zurück und hat in der Vergangenheit bemerkenswerte Beiträge zur Erhaltungszucht von Schneeleoparden und Amurtigern geleistet. Im Jahr 2021 hat der Zoo einen weitreichenden Masterplan verabschiedet, um die verbleibenden historischen Gehege vollständig zu renovieren. Die Koordinaten sind 49,87°N, 97,24°W.",
+        "hu": "Az Assiniboine Park Zoo a történelmi Assiniboine Park területén, Manitoba fővárosában, Winnipegben található. Már 1904-ben megalapították, amivel Kanada egyik legrégebbi, ma is működő állatkertje. Az állatkert 32 hektáros, kiterjedt területet foglal magába, és az Assiniboine Park Conservancy szervezet irányítja. A modern létesítmény több mint 150 különböző fajhoz tartozó, több mint 1500 állatnak ad otthont a világ minden tájáról. Az állatkert vitathatatlanul legnagyobb fő attrakciója a díjnyertes \"Journey to Churchill\" kiállítás, egy masszív, négyhektáros északi fajokat bemutató kifutórendszer, amely 2014-ben nyílt meg. Ez a forradalmi kiállítás elsősorban biztonságos menedékként szolgál az északi sarkvidéki vadonból származó árva jegesmedvék számára, és magába foglalja a Leatherdale Nemzetközi Jegesmedve Védelmi Központot, amely vezető kutatási, mentési és rehabilitációs műveleteket végez a sarkvidéken. Egy speciális víz alatti alagút lehetővé teszi a látogatók számára, hogy 360 fokos perspektívából figyeljék meg az úszó jegesmedvéket és fókákat. Az állatkert többi része földrajzilag és tematikusan van rendszerezve, olyan területekkel, mint az Asian Realm, a Toucan Ridge és a Shirley Richardson Pillangókert. Az intézmény rendkívül hosszú múltra tekint vissza a Fajmegmentési Tervben (SSP) való sikeres részvétel terén, és a múltban figyelemre méltóan hozzájárult a hópárducok és az amuri tigrisek természetvédelmi tenyésztéséhez. 2021-ben az állatkert átfogó fejlesztési tervet fogadott el a fennmaradó történelmi kifutók teljes körű modernizálására. A koordináták: é. sz. 49,87°, ny. h. 97,24°.",
+        "ro": "Grădina Zoologică Assiniboine Park este situată în parcul istoric Assiniboine din Winnipeg, capitala Manitobei, și a fost înființată încă din 1904, fiind una dintre cele mai vechi grădini zoologice existente în Canada. Grădina zoologică acoperă o suprafață vastă de 32 de hectare și este administrată de organizația Assiniboine Park Conservancy. Facilitatea modernă găzduiește peste 1.500 de animale din mai mult de 150 de specii diferite din întreaga lume. Atracția principală incontestabilă a grădinii zoologice este expoziția premiată \"Journey to Churchill\", o incintă masivă de patru hectare pentru specii nordice, deschisă în 2014. Această expoziție revoluționară funcționează în primul rând ca un refugiu sigur pentru urșii polari orfani din sălbăticia arctică și găzduiește Centrul Internațional Leatherdale pentru Conservarea Urșilor Polari, care conduce operațiuni avansate de cercetare, salvare și reabilitare pentru regiunea arctică. Un tunel subacvatic permite vizitatorilor să observe urșii polari și focile înotând dintr-o perspectivă de 360 de grade. Restul grădinii zoologice este organizat geografic și tematic, cu zone precum Asian Realm, Toucan Ridge și Grădina de Fluturi Shirley Richardson. Instituția are o istorie foarte lungă de participare cu succes la Planul de Supraviețuire a Speciilor și a adus contribuții remarcabile în trecut la reproducerea pentru conservare a leoparzilor de zăpadă și a tigrilor de Amur. În 2021, grădina zoologică a adoptat un plan director de anvergură pentru a renova complet incintele istorice rămase. Coordonatele sunt 49,87°N, 97,24°V.",
+        "en": "The Assiniboine Park Zoo is situated within the historic Assiniboine Park in Winnipeg, the capital city of Manitoba, and was established as early as 1904, making it one of the oldest continually operating zoos in Canada. The zoo encompasses a sprawling area of 32 hectares (80 acres) and is managed by the Assiniboine Park Conservancy. The modern facility houses more than 1,500 animals representing over 150 different species from across the globe. The undisputed premier attraction of the zoo is the award-winning \"Journey to Churchill\" exhibit, a massive, four-hectare northern species enclosure that officially opened to the public in 2014. This revolutionary exhibit functions primarily as a safe sanctuary for orphaned polar bears rescued from the Arctic wilderness and houses the Leatherdale International Polar Bear Conservation Centre, which conducts leading arctic research, rescue, and rehabilitation operations. An immersive underwater tunnel allows visitors to observe the polar bears and seals swimming from a 360-degree perspective. The remainder of the zoo is geographically and thematically organized, featuring areas such as the Asian Realm, Toucan Ridge, and the Shirley Richardson Butterfly Garden. The institution has a very long and proud history of successful participation in the Species Survival Plan, making notable contributions over the years to the conservation breeding of snow leopards and Amur tigers. In 2021, the zoo finalized a comprehensive master plan to completely renovate and modernize the remaining historical enclosures. The coordinates are 49.87°N, 97.24°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Gründung des Zoos in Winnipeg reicht bis in das Jahr 1904 zurück.",
+          "Das Zoogelände umfasst eine großzügige Fläche von 32 Hektar.",
+          "Mehr als 1.500 Tiere aus über 150 Arten leben in der Anlage.",
+          "Die Ausstellung 'Journey to Churchill' fokussiert sich auf arktische Tiere.",
+          "Ein Forschungszentrum rettet und rehabilitiert verwaiste Eisbären.",
+          "Besucher können Eisbären durch einen Unterwassertunnel beobachten.",
+          "Der Zoo ist bekannt für seine Zuchterfolge bei Tigern und Schneeleoparden."
+        ],
+        "hu": [
+          "A winnipegi állatkert alapítása egészen 1904-ig nyúlik vissza.",
+          "Az állatkert területe egy tágas, 32 hektáros birtokot foglal magába.",
+          "A komplexumban több mint 1500 állat él, 150-nél is több fajból.",
+          "A 'Journey to Churchill' kiállítás kimondottan a sarkvidéki állatokra fókuszál.",
+          "Egy speciális kutatóközpont árva jegesmedvéket ment meg és rehabilitál.",
+          "A látogatók egy víz alatti alagútból figyelhetik meg az úszó jegesmedvéket.",
+          "Az állatkert tigris- és hópárduc-tenyésztési sikereiről is híres."
+        ],
+        "ro": [
+          "Înființarea grădinii zoologice din Winnipeg datează încă din anul 1904.",
+          "Terenul grădinii zoologice acoperă o suprafață generoasă de 32 de hectare.",
+          "Peste 1.500 de animale din mai mult de 150 de specii trăiesc în facilitate.",
+          "Expoziția 'Journey to Churchill' se concentrează pe animalele arctice.",
+          "Un centru de cercetare salvează și reabilitează urși polari orfani.",
+          "Vizitatorii pot observa urșii polari printr-un tunel subacvatic din sticlă.",
+          "Grădina zoologică este renumită pentru succesul în reproducerea tigrilor."
+        ],
+        "en": [
+          "The establishment of the zoo in Winnipeg dates all the way back to 1904.",
+          "The zoo grounds encompass a generous land area of 32 hectares.",
+          "More than 1,500 animals from over 150 species reside in the complex.",
+          "The 'Journey to Churchill' exhibit focuses exclusively on Arctic wildlife.",
+          "An on-site research center rescues and rehabilitates orphaned polar bears.",
+          "Visitors can observe polar bears swimming through a glass underwater tunnel.",
+          "The zoo is widely renowned for its breeding successes with Amur tigers."
+        ]
+      }
+    },
+    {
+      "id": "edmonton-valley-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Edmonton Valley Zoo befindet sich tief eingebettet in der malerischen Schlucht des North Saskatchewan River im Herzen von Edmonton, Alberta. Er wurde im Jahr 1959 ursprünglich als \"Storyland Valley Zoo\" eröffnet und konzentrierte sich in seinen frühen Jahren hauptsächlich auf die Ausstellung von Haustieren sowie auf Märchenmotive, um insbesondere Kinder anzusprechen. Heute erstreckt sich die Anlage über 13 Hektar und hat ihren Schwerpunkt drastisch verlagert; der Fokus liegt nun auf Artenschutz, intensiver Umweltbildung und dem Wohlergehen der Tiere. Der Zoo beherbergt mehr als 350 Tiere, die über 100 verschiedene Arten repräsentieren. Die Struktur des Zoos ist in spezifische Zonen gegliedert, darunter der Makira Outpost, der sich den madagassischen Lemuren widmet, das Saito Centre, welches Primaten und kleine Fleischfresser beherbergt, und die hochmoderne Arctic Shores Ausstellung. Die mit Abstand bekannteste Bewohnerin ist Lucy, eine Asiatische Elefantin, die seit 1977 im Zoo lebt. Ihre Präsenz hat im Laufe der Jahre umfangreiche nationale und internationale ethische Debatten über die Haltung von solitären Elefanten in sehr kalten Klimazonen ausgelöst. Der Zoo durchläuft derzeit ein gewaltiges, mehrphasiges strategisches Revitalisierungsprojekt mit dem Titel \"Nature's Wild Backyard\". Dieses ehrgeizige Vorhaben zielt darauf ab, veraltete Infrastrukturen aus den 60er Jahren durch immersive, vollständig naturalistische Habitate zu ersetzen. Die Einrichtung ist von der CAZA voll akkreditiert und legt großen Wert auf den Schutz lokaler Arten, wie den stark gefährdeten Nördlichen Leopardenfrosch. Die Koordinaten sind 53,51°N, 113,55°W.",
+        "hu": "Az Edmonton Valley Zoo mélyen beágyazódva fekszik a North Saskatchewan-folyó festői völgyében, az albertai Edmonton szívében. Eredetileg 1959-ben nyitották meg \"Storyland Valley Zoo\" néven, és a korai években főként háziállatok bemutatására, valamint mesebeli motívumokra összpontosított, hogy elsősorban a gyermekeket szólítsa meg. Napjainkban a létesítmény 13 hektáron terül el, és fókuszát drasztikusan áthelyezte: ma már a fajmegőrzés, az intenzív környezeti nevelés és az állatjólét áll a középpontban. Az állatkert több mint 350 állatnak ad otthont, amelyek több mint 100 különböző fajt képviselnek. Az állatkert felépítése specifikus zónákra tagolódik, mint például a madagaszkári makiknak szentelt Makira Outpost, a főemlősöket és kisebb ragadozókat bemutató Saito Centre, valamint az ultramodern Arctic Shores kiállítás. A legismertebb lakó egyértelműen Lucy, egy ázsiai elefánt, aki 1977 óta él az állatkertben. Jelenléte az évek során kiterjedt nemzeti és nemzetközi etikai vitákat váltott ki a magányos elefántok rendkívül hideg éghajlaton történő tartásáról. Az állatkert jelenleg egy hatalmas, többfázisú stratégiai revitalizációs projekten megy keresztül, amelynek a \"Nature's Wild Backyard\" nevet adták. Ez az ambiciózus törekvés arra irányul, hogy a 60-as évekből származó elavult infrastruktúrát elmélyült, teljesen naturalisztikus élőhelyekre cseréljék. A létesítményt a CAZA teljes körűen akkreditálta, és nagy hangsúlyt fektet a helyi fajok, például a súlyosan veszélyeztetett északi leopárdbéka védelmére. A koordináták: é. sz. 53,51°, ny. h. 113,55°.",
+        "ro": "Grădina Zoologică Edmonton Valley este situată adânc în pitorescul defileu al râului North Saskatchewan din inima orașului Edmonton, Alberta. A fost deschisă inițial în 1959 sub numele de \"Storyland Valley Zoo\" și, în primii săi ani, s-a concentrat în principal pe expunerea animalelor domestice și pe motive de basm pentru a atrage în special copiii. Astăzi, facilitatea se întinde pe 13 hectare și și-a schimbat drastic direcția; accentul este acum pus pe conservarea speciilor, educația ecologică intensivă și bunăstarea animalelor. Grădina zoologică găzduiește peste 350 de animale reprezentând peste 100 de specii diferite. Structura grădinii zoologice este împărțită în zone specifice, inclusiv Makira Outpost, dedicat lemurilor din Madagascar, Saito Centre, care găzduiește primate și carnivore mici, și expoziția ultramodernă Arctic Shores. De departe, cea mai faimoasă locuitoare este Lucy, un elefant asiatic care trăiește la grădina zoologică din 1977. Prezența ei a stârnit, de-a lungul anilor, ample dezbateri etice naționale și internaționale cu privire la păstrarea elefanților solitari în climate foarte reci. Grădina zoologică trece în prezent printr-un proiect masiv de revitalizare strategică în mai multe etape, intitulat \"Nature's Wild Backyard\". Acest demers ambițios își propune să înlocuiască infrastructura învechită din anii '60 cu habitate imersive, complet naturaliste. Facilitatea este complet acreditată de CAZA și acordă o mare importanță protecției speciilor locale, cum ar fi broasca leopard nordică, grav amenințată. Coordonatele sunt 53,51°N, 113,55°V.",
+        "en": "The Edmonton Valley Zoo is nestled deep within the picturesque North Saskatchewan River valley in the heart of Edmonton, Alberta. It was originally opened to the public in 1959 as the \"Storyland Valley Zoo,\" and during its early years, it focused primarily on exhibiting domestic animals and incorporating fairy tale themes to appeal specifically to children. Today, the facility spans 13 hectares (32 acres) and has drastically shifted its central mission; the focus now lies heavily on wildlife conservation, intensive environmental education, and animal welfare. The zoo houses over 350 animals that represent more than 100 different species. The layout of the zoo is categorized into specific, themed zones, including the Makira Outpost (dedicated to Madagascan lemurs), the Saito Centre (housing primates and small carnivores), and the state-of-the-art Arctic Shores exhibit. By far the most prominent resident is Lucy, an Asian elephant who has continuously lived at the zoo since 1977. Over the decades, her presence has sparked extensive national and international ethical debates regarding the housing of solitary elephants in extremely cold Northern climates. The zoo is currently undergoing a massive, multi-phase strategic revitalization project appropriately titled \"Nature's Wild Backyard.\" This ambitious endeavor aims to systematically replace outdated 1960s infrastructure with immersive, fully naturalistic habitats. The facility is fully accredited by CAZA and places a strong emphasis on the protection of local species, such as the critically endangered northern leopard frog. The exact geographic coordinates are 53.51°N, 113.55°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Einrichtung wurde 1959 ursprünglich als Märchenzoo eröffnet.",
+          "Das Gelände nimmt eine Fläche von etwa 13 Hektar ein.",
+          "Mehr als 350 Tiere aus 100 Arten sind im Edmonton Valley Zoo zu Hause.",
+          "Die Asiatische Elefantin Lucy lebt bereits seit 1977 im Zoo.",
+          "Ein großes Modernisierungsprojekt ersetzt aktuell veraltete Gehege.",
+          "Die Anlage liegt direkt im Tal des North Saskatchewan River.",
+          "Der Zoo beteiligt sich aktiv am Schutz des gefährdeten Leopardenfroschs."
+        ],
+        "hu": [
+          "A létesítményt eredetileg 1959-ben nyitották meg meseállatkertként.",
+          "A komplexum mintegy 13 hektáros területet foglal el a folyóvölgyben.",
+          "Több mint 350 állat és 100 különböző faj él az állatkertben.",
+          "Lucy, az ázsiai elefánt 1977 óta az állatkert állandó lakója.",
+          "Egy hatalmas modernizációs projekt keretében cserélik az elavult kifutókat.",
+          "A park közvetlenül a North Saskatchewan-folyó völgyében fekszik.",
+          "Az intézmény aktívan részt vesz a veszélyeztetett leopárdbéka védelmében."
+        ],
+        "ro": [
+          "Facilitatea a fost deschisă inițial în 1959 ca o grădină zoologică de basm.",
+          "Terenul ocupă o suprafață de aproximativ 13 hectare în valea râului.",
+          "Peste 350 de animale din 100 de specii se găsesc la Edmonton Valley Zoo.",
+          "Lucy, elefantul asiatic, locuiește în grădina zoologică încă din anul 1977.",
+          "Un proiect major de modernizare înlocuiește în prezent incintele învechite.",
+          "Parcul este situat direct în valea râului pitoresc North Saskatchewan.",
+          "Grădina zoologică participă activ la protecția broaștei leopard, o specie rară."
+        ],
+        "en": [
+          "The facility was originally opened in 1959 as a fairy tale-themed zoo.",
+          "The grounds occupy a total land area of approximately 13 hectares.",
+          "More than 350 animals from 100 species call the Edmonton Valley Zoo home.",
+          "Lucy, the resident Asian elephant, has continuously lived at the zoo since 1977.",
+          "A massive ongoing modernization project is replacing outdated enclosures.",
+          "The park is situated directly within the scenic North Saskatchewan River valley.",
+          "The zoo actively participates in local conservation efforts for the leopard frog."
+        ]
+      }
+    }
+  ]
+}

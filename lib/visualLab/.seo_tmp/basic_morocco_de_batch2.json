@@ -1,0 +1,80 @@
+{
+  "lang": "de",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sebha-boughaba-lake-nature-v2",
+      "description": "Der Sebkha Boughaba See ist ein geschütztes Feuchtgebiet und ein wichtiger Rastplatz für Zugvögel nahe der Küste.",
+      "facts": ["Geschütztes Feuchtgebiet", "Zugvögel", "Nahe der Küste"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "Der Bin el Ouidane See ist ein großer Stausee im Mittleren Atlas, beliebt für Wassersport und Angeln.",
+      "facts": ["Stausee", "Mittlerer Atlas", "Wassersport"]
+    },
+    {
+      "id": "oued-guir-nature-v2",
+      "description": "Das Oued Guir ist ein saisonaler Fluss, der sich durch eine karge Wüstenlandschaft schlängelt und temporäre Oasen bildet.",
+      "facts": ["Saisonaler Fluss", "Wüstenlandschaft", "Temporäre Oasen"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Das Oued Eddahab ist ein trockenes Flussbett in der Westsahara, das wichtige ökologische Funktionen für die Wüstenflora und -fauna erfüllt.",
+      "facts": ["Trockenes Flussbett", "Westsahara", "Wichtige Ökologie"]
+    },
+    {
+      "id": "cap-ghir-nature-v2",
+      "description": "Cap Ghir ist ein markanter Felsvorsprung an der Atlantikküste nördlich von Agadir, bekannt für seine raue Schönheit und den Leuchtturm.",
+      "facts": ["Atlantikküste", "Felsvorsprung", "Leuchtturm"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "Das Oued Nfiss ist ein Fluss im Hohen Atlas, der durch tiefe Schluchten fließt und zur Bewässerung genutzt wird.",
+      "facts": ["Hoher Atlas", "Tiefe Schluchten", "Bewässerung"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "Das Mündungsgebiet des Oued Tensift bei Essaouira ist ein wichtiges Feuchtgebiet und Rastplatz für zahlreiche Vogelarten.",
+      "facts": ["Mündungsgebiet", "Essaouira", "Vogelrastplatz"]
+    },
+    {
+      "id": "cap-spartel-nature-v2",
+      "description": "Cap Spartel ist ein Kap nahe Tanger, das die Straße von Gibraltar überblickt und den Treffpunkt von Atlantik und Mittelmeer markiert.",
+      "facts": ["Nahe Tanger", "Straße von Gibraltar", "Atlantik und Mittelmeer"]
+    },
+    {
+      "id": "guelmim-plains-relief-v2",
+      "description": "Die Guelmim-Ebenen sind eine weite, semi-aride Region im Süden Marokkos, die den Übergang zur Sahara markiert.",
+      "facts": ["Semi-aride Region", "Südmarokko", "Übergang zur Sahara"]
+    },
+    {
+      "id": "figuig-oasis-relief-v2",
+      "description": "Die Oase Figuig ist ein beeindruckendes Ensemble aus Palmenhainen und Kasbahs in der Nähe der algerischen Grenze, umgeben von Wüste.",
+      "facts": ["Oasenstadt", "Nahe Algerien", "Kasbahs"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "Die Hügel von Moulay Idriss umschließen die heilige Stadt und bieten eine malerische Landschaft in der Nähe von Meknes.",
+      "facts": ["Heilige Stadt", "Malerische Landschaft", "Nahe Meknes"]
+    },
+    {
+      "id": "atlas-foothills-relief-v2",
+      "description": "Die Ausläufer des Atlasgebirges bieten eine abwechslungsreiche Topographie mit fruchtbaren Tälern und kargen Hochebenen.",
+      "facts": ["Awechslungsreiche Topographie", "Fruchtbare Täler", "Hoher Atlas"]
+    },
+    {
+      "id": "oued-tensift-valley-relief-v2",
+      "description": "Das Tal des Oued Tensift ist eine wichtige landwirtschaftliche Region, die von den Bewässerungssystemen des Flusses profitiert.",
+      "facts": ["Landwirtschaftliche Region", "Bewässerung", "Marrakesch-Ebene"]
+    },
+    {
+      "id": "high-plateaus-relief-v2",
+      "description": "Die Hohen Plateaus sind eine ausgedehnte, semi-aride Hochebene im Osten Marokkos, bekannt für ihre Viehzucht und nomadischen Traditionen.",
+      "facts": ["Semi-aride Hochebene", "Osten Marokkos", "Viehzucht"]
+    }
+  ]
+}

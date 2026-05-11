@@ -15,7 +15,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["Saudi Arabia's first UNESCO World Heritage Site.", "Built in the 1st century."]
     },
     descriptionAdvanced: { de: "Hegra (auch Madā'in Sālih) war die zweitgrößte Stadt des Nabatäerreichs nach Petra und blühte zwischen dem 1. Jahrhundert v. Chr. und dem 1. Jahrhundert n. Chr. an einem zentralen Knotenpunkt der Weihrauchstraße. Die Nabatäer schnitzten über 130 monumentale Felsengräber direkt in die Sandsteinfelsen, mit kunstvollen Fassaden, Inschriften in nabatäischer Schrift und Symbolen. Nach der römischen Annexion 106 n. Chr. unter Kaiser Trajan verlor Hegra an Bedeutung. Im Jahr 2008 wurde die Stätte als erstes UNESCO-Welterbe Saudi-Arabiens anerkannt und ist heute Herzstück der AlUla-Vision des Königreichs." },
-    factsAdvanced: { de: ["Über 130 monumentale Felsengräber aus Sandstein.", "Nabatäische Hauptstadt im Süden, Hauptstadt war Petra.", "106 n. Chr. von Kaiser Trajan dem Römischen Reich einverleibt.", "2008: Erstes UNESCO-Welterbe Saudi-Arabiens.", "Lag an der antiken Weihrauchstraße zwischen Südarabien und dem Mittelmeer.", "Inschriften in nabatäischer, lateinischer und griechischer Sprache erhalten.", "Im Koran als Stätte des Volkes Thamud erwähnt.", "Heute Schutzgebiet des Royal Commission for AlUla."] }, image: "/poi-images/hegra-history-v2.webp"},
+    factsAdvanced: { de: ["Über 130 monumentale Felsengräber aus Sandstein.", "Nabatäische Hauptstadt im Süden, Hauptstadt war Petra.", "106 n. Chr. von Kaiser Trajan dem Römischen Reich einverleibt.", "Lag an der antiken Weihrauchstraße zwischen Südarabien und dem Mittelmeer.", "Inschriften in nabatäischer, lateinischer und griechischer Sprache erhalten.", "Im Koran als Stätte des Volkes Thamud erwähnt.", "Heute Schutzgebiet des Royal Commission for AlUla."] }, image: "/poi-images/hegra-history-v2.webp"},
   {
     id: "masmak-fortress-history-v2",
     type: "historical-site",
@@ -45,7 +45,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["Founded in the 15th century.", "UNESCO World Heritage Site since 2010."]
     },
     descriptionAdvanced: { de: "At-Turaif in Diriyya wurde im 15. Jahrhundert gegründet und war ab 1744 die erste Hauptstadt des Hauses Saud sowie Geburtsort des Wahhabismus, als Mohammed ibn Saud das berühmte Bündnis mit dem Religionsgelehrten Mohammed ibn Abd al-Wahhab schloss. Diese politisch-religiöse Allianz prägt das Königreich bis heute. Der charakteristische Najdi-Baustil mit geometrischen Lehmziegelmustern entstand in dieser Epoche. 1818 wurde die Stadt von osmanisch-ägyptischen Truppen unter Ibrahim Pascha zerstört. Seit 2010 ist At-Turaif UNESCO-Welterbe und wurde aufwendig restauriert." },
-    factsAdvanced: { de: ["Gegründet im 15. Jahrhundert (um 1446).", "1744: Pakt zwischen Mohammed ibn Saud und Mohammed ibn Abd al-Wahhab.", "Erste Hauptstadt des Ersten Saudischen Staates.", "1818 von Ibrahim Pascha (Osmanisches Reich) zerstört.", "Charakteristischer Najdi-Baustil mit Lehmziegeln.", "UNESCO-Welterbe seit 2010.", "Salwa-Palast war Sitz der königlichen Familie.", "Heute Teil des Diriyah Gate Megaprojekts."] }, image: "/poi-images/at-turaif-diriyah-history-v2.webp"},
+    factsAdvanced: { de: ["1744: Pakt zwischen Mohammed ibn Saud und Mohammed ibn Abd al-Wahhab.", "Erste Hauptstadt des Ersten Saudischen Staates.", "1818 von Ibrahim Pascha (Osmanisches Reich) zerstört.", "Charakteristischer Najdi-Baustil mit Lehmziegeln.", "Salwa-Palast war Sitz der königlichen Familie.", "Heute Teil des Diriyah Gate Megaprojekts."] }, image: "/poi-images/at-turaif-diriyah-history-v2.webp"},
   {
     id: "al-ula-old-town-history-v2",
     type: "ruin",
@@ -60,7 +60,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["Inhabited from the 12th to the 20th century.", "Important stop on the incense route."]
     },
     descriptionAdvanced: { de: "Die Altstadt von Al-Ula liegt in einer fruchtbaren Oase und war über 800 Jahre, vom 12. bis ins 20. Jahrhundert, durchgehend bewohnt. Auf engstem Raum drängen sich rund 900 traditionelle Lehmziegelhäuser, fünf Stadttore und eine zentrale Moschee. Die Stadt war ein wichtiger Versorgungsstopp auf der Hadsch-Pilgerroute von Damaskus nach Mekka und Medina sowie auf der antiken Weihrauchstraße. Ihre strategische Lage in einem schmalen Tal zwischen rotem Sandstein und Dattelpalmen-Hainen machte sie zu einem Schutzort. In den 1980er Jahren zogen die Bewohner in moderne Häuser um." },
-    factsAdvanced: { de: ["Bewohnt vom 12. bis zum 20. Jahrhundert.", "Rund 900 Häuser aus Lehmziegeln auf engstem Raum.", "Fünf Stadttore, die nachts geschlossen wurden.", "Wichtiger Halt auf der Hadsch-Route nach Medina.", "Lag an der antiken Weihrauchstraße.", "In den 1980er Jahren verlassen.", "Aktuell Teil des AlUla-Restaurierungsprojekts.", "Berühmt für die Musa-bin-Nusayr-Festung über der Stadt."] }, image: "/poi-images/al-ula-old-town-history-v2.webp"},
+    factsAdvanced: { de: ["Rund 900 Häuser aus Lehmziegeln auf engstem Raum.", "Fünf Stadttore, die nachts geschlossen wurden.", "Wichtiger Halt auf der Hadsch-Route nach Medina.", "Lag an der antiken Weihrauchstraße.", "In den 1980er Jahren verlassen.", "Aktuell Teil des AlUla-Restaurierungsprojekts.", "Berühmt für die Musa-bin-Nusayr-Festung über der Stadt."] }, image: "/poi-images/al-ula-old-town-history-v2.webp"},
   {
     id: "quba-mosque-history-v2",
     type: "historical-site",
@@ -105,7 +105,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["Founded in the 7th century.", "UNESCO World Heritage Site since 2014."]
     },
     descriptionAdvanced: { de: "Al-Balad ist das historische Herz von Dschidda und wurde im 7. Jahrhundert unter Kalif Uthman ibn Affan zum offiziellen Hafen für Mekka-Pilger erklärt, was die Stadt bis heute prägt. Die einzigartigen mehrstöckigen Korallenhäuser mit kunstvoll geschnitzten Holzerkern (Roshan) aus Teakholz sind eine Antwort auf das feuchte Rote-Meer-Klima und die internationale Mischung aus Hadsch-Pilgern aus aller Welt. Bis ins 19. Jahrhundert war Al-Balad von einer Stadtmauer umgeben. Berühmtestes Gebäude ist die Naseef-Villa, in der König Abdulaziz 1925 wohnte. Seit 2014 UNESCO-Welterbe." },
-    factsAdvanced: { de: ["Im 7. Jahrhundert unter Kalif Uthman zum Hadsch-Hafen erklärt.", "UNESCO-Welterbe seit 2014.", "Berühmt für Roshan-Holzerker aus Teakholz.", "Korallensteinhäuser von bis zu 7 Stockwerken.", "Naseef-Villa beherbergte 1925 König Abdulaziz.", "Bis 1947 von einer Stadtmauer umgeben.", "Tor zur heiligen Stadt Mekka (80 km östlich).", "Multiethnische Bevölkerung durch Pilgerströme."] }, image: "/poi-images/al-balad-jeddah-history-v2.webp"},
+    factsAdvanced: { de: ["Im 7. Jahrhundert unter Kalif Uthman zum Hadsch-Hafen erklärt.", "Berühmt für Roshan-Holzerker aus Teakholz.", "Korallensteinhäuser von bis zu 7 Stockwerken.", "Naseef-Villa beherbergte 1925 König Abdulaziz.", "Bis 1947 von einer Stadtmauer umgeben.", "Tor zur heiligen Stadt Mekka (80 km östlich).", "Multiethnische Bevölkerung durch Pilgerströme."] }, image: "/poi-images/al-balad-jeddah-history-v2.webp"},
   {
     id: "qatif-castle-history-v2",
     type: "ruin",
@@ -195,7 +195,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["First mentioned in the 1st century BC.", "Features conical watchtowers."]
     },
     descriptionAdvanced: { de: "Die Burg Marid thront über der antiken Oase von Dumat al-Jandal im äußersten Norden Saudi-Arabiens und wurde erstmals im 1. Jahrhundert v. Chr. erwähnt, als die Königin Zenobia von Palmyra vergeblich versuchte, sie zu erobern. Daher der Name 'Marid' (der Rebellische). Die Festung kontrollierte eine entscheidende Karawanenroute zwischen Mesopotamien, der Levante und Arabien. Ihre charakteristischen konischen Wachtürme und die mächtigen Lehmziegelmauern auf Steinfundament wurden über die Jahrhunderte von Nabatäern, Römern, Byzantinern und Muslimen erweitert. Im Jahr 633 n. Chr. wurde die Region durch Khalid ibn al-Walid islamisiert." },
-    factsAdvanced: { de: ["Erstmals im 1. Jahrhundert v. Chr. erwähnt.", "Widerstand gegen Königin Zenobia von Palmyra.", "Name 'Marid' bedeutet 'der Rebellische'.", "Konische Wachtürme als architektonisches Markenzeichen.", "Kontrollierte Karawanenroute zwischen Levante und Arabien.", "633 n. Chr.: Eroberung durch Khalid ibn al-Walid.", "Lehmziegelmauern auf Steinfundament.", "Älteste Schichten reichen bis in nabatäische Zeit."] }
+    factsAdvanced: { de: ["Widerstand gegen Königin Zenobia von Palmyra.", "Name 'Marid' bedeutet 'der Rebellische'.", "Konische Wachtürme als architektonisches Markenzeichen.", "Kontrollierte Karawanenroute zwischen Levante und Arabien.", "633 n. Chr.: Eroberung durch Khalid ibn al-Walid.", "Lehmziegelmauern auf Steinfundament.", "Älteste Schichten reichen bis in nabatäische Zeit."] }
   },
   {
     id: "omar-mosque-dumat-history-v2",
@@ -226,7 +226,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["Inhabited from the 6th century BC.", "The site is mentioned in the Quran."]
     },
     descriptionAdvanced: { de: "Die archäologische Stätte Al-Ukhdud nahe Najran war Hauptstadt des himjaritischen Königreichs ab dem 6. Jahrhundert v. Chr. und ein bedeutender Knoten der Weihrauchstraße zwischen Jemen und der Levante. Die Stadt erlangte tragische Berühmtheit durch das Massaker an christlichen Bürgern im Jahr 523 n. Chr. unter dem jüdischen König Dhu Nuwas, der hunderte Christen in Gräben (arabisch 'al-ukhdud') verbrennen ließ. Dieses Ereignis wird im Koran in Sure 85 (Al-Buruj) ausdrücklich erwähnt. Die Ruinen umfassen Stadtmauern, Häuser und Inschriften in altsüdarabischer Schrift, die das Leben einer multireligiösen Handelsmetropole bezeugen." },
-    factsAdvanced: { de: ["Bewohnt ab dem 6. Jahrhundert v. Chr.", "Hauptstadt des himjaritischen Königreichs.", "523 n. Chr.: Massaker an Christen unter Dhu Nuwas.", "Im Koran in Sure 85 (Al-Buruj) erwähnt.", "Wichtiger Halt auf der Weihrauchstraße.", "Inschriften in altsüdarabischer Schrift.", "Multireligiöse Stadt: Juden, Christen, Polytheisten.", "Heute Schutzgebiet der saudischen Antikenbehörde."] }, image: "/poi-images/al-ukhdud-history-v2.webp"},
+    factsAdvanced: { de: ["Hauptstadt des himjaritischen Königreichs.", "523 n. Chr.: Massaker an Christen unter Dhu Nuwas.", "Im Koran in Sure 85 (Al-Buruj) erwähnt.", "Wichtiger Halt auf der Weihrauchstraße.", "Inschriften in altsüdarabischer Schrift.", "Multireligiöse Stadt: Juden, Christen, Polytheisten.", "Heute Schutzgebiet der saudischen Antikenbehörde."] }, image: "/poi-images/al-ukhdud-history-v2.webp"},
   {
     id: "al-muazzam-fort-history-v2",
     type: "historical-site",
@@ -256,7 +256,7 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
       en: ["Built in 1559.", "Has its own mosque inside."]
     },
     descriptionAdvanced: { de: "Die Burg von Tabuk wurde 1559 unter Sultan Süleyman dem Prächtigen als osmanischer Wachposten an der syrischen Hadsch-Route nach Medina errichtet. Sie schützte Pilgerkarawanen, die Brunnen von Tabuk und diente als Versorgungsstation. Die zweistöckige Festung mit eigener Moschee, Wachtürmen und Garnisonsräumen liegt an einem historisch bedeutsamen Ort: Bereits 630 n. Chr. führte der Prophet Mohammed die Tabuk-Expedition gegen die Byzantiner an, die als seine letzte Militärkampagne gilt. Die Festung wurde mehrfach restauriert (1064 AH, 1244 AH, 1370 AH) und beherbergt heute ein archäologisches Museum mit Funden aus der Region." },
-    factsAdvanced: { de: ["1559 unter Sultan Süleyman dem Prächtigen erbaut.", "An der syrischen Hadsch-Pilgerroute.", "Eigene Moschee im Inneren.", "Schützte die Brunnen von Tabuk.", "630 n. Chr.: Prophet Mohammeds Tabuk-Expedition.", "Mehrfach restauriert (1064, 1244, 1370 AH).", "Zweistöckige Struktur mit Wachtürmen.", "Heute archäologisches Museum."] }, image: "/poi-images/tabuk-castle-history-v2.webp"},
+    factsAdvanced: { de: ["1559 unter Sultan Süleyman dem Prächtigen erbaut.", "An der syrischen Hadsch-Pilgerroute.", "Schützte die Brunnen von Tabuk.", "630 n. Chr.: Prophet Mohammeds Tabuk-Expedition.", "Mehrfach restauriert (1064, 1244, 1370 AH).", "Zweistöckige Struktur mit Wachtürmen.", "Heute archäologisches Museum."] }, image: "/poi-images/tabuk-castle-history-v2.webp"},
   {
     id: "souq-okaz-history-v2",
     type: "historical-site",

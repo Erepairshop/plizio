@@ -1,0 +1,128 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"],
+  "items": [
+    {
+      "id": "amilcar-cabral-house-history-v2",
+      "factsAdvanced": {
+        "hu": ["Amílcar Cabral születési éve: 1924.", "A házat múzeummá alakították át.", "Bafatá városában, a második legnagyobb városban található.", "Cabral személyes tárgyainak gyűjteménye.", "A felszabadító harc kezdetének szimbóluma.", "Építészetileg egy tipikus gyarmati ház.", "Az ország történelmi emlékezetének fontos állomása."],
+        "ro": ["Anul nașterii lui Amílcar Cabral: 1924.", "Casa a fost transformată în muzeu.", "Situată în al doilea oraș ca mărime, Bafatá.", "Colecție de artefacte personale ale lui Cabral.", "Simbol al începutului luptei de eliberare.", "Arhitectural, o casă colonială tipică.", "O stație importantă pentru memoria istorică a țării."],
+        "en": ["Amílcar Cabral's year of birth: 1924.", "The house was converted into a museum.", "Located in the second largest city, Bafatá.", "Collection of Cabral's personal artifacts.", "Symbol of the beginning of the liberation struggle.", "Architecturally a typical colonial house.", "An important station for the country's historical memory."]
+      }
+    },
+    {
+      "id": "bolama-governor-palace-history-v2",
+      "factsAdvanced": {
+        "hu": ["Bolama 1879 és 1941 között volt főváros.", "Építészeti stílus: neoklasszicizmus.", "A palotát 1941 után hagyták pusztulni.", "A portugál kormányzó egykori székhelye.", "Bolama felemelkedésének és bukásának szimbóluma.", "A romok az UNESCO világörökségi javaslati listáján szerepelnek.", "Ma buja trópusi növényzet borítja."],
+        "ro": ["Bolama a fost capitală între 1879 și 1941.", "Stil arhitectural: neoclasicism.", "Palatul a fost lăsat în paragină după 1941.", "Fostul sediu al guvernatorului portughez.", "Simbol al ascensiunii și decăderii Bolamei.", "Ruinele se află pe lista de propuneri a UNESCO.", "Astăzi este acoperit de vegetație tropicală luxuriantă."],
+        "en": ["Bolama was the capital from 1879 to 1941.", "Architectural style: Neoclassicism.", "The palace was abandoned to decay after 1941.", "Former seat of the Portuguese governor.", "Symbol of the rise and fall of Bolama.", "The ruins are on the UNESCO tentative list.", "Today it is overgrown with lush tropical vegetation."]
+      }
+    },
+    {
+      "id": "madina-boe-site-history-v2",
+      "factsAdvanced": {
+        "hu": ["Függetlenségi nyilatkozat 1973. szeptember 24-én.", "Itt tartották a PAIGC első nemzetgyűlését.", "A Boé régió a háborúban felszabadított zóna volt.", "A nyilatkozat a portugáliai szegfűs forradalom előtt történt.", "A szuverenitás politikai akaratának szimbóluma.", "Évente itt tartanak nemzeti ünnepségeket.", "A hely egy dombos, nehezen megközelíthető régióban fekszik."],
+        "ro": ["Declarația de independență la 24 septembrie 1973.", "Prima Adunare Națională a PAIGC a avut loc aici.", "Regiunea Boé a fost o zonă eliberată în timpul războiului.", "Declarația a avut loc înainte de Revoluția Garoafelor din Portugalia.", "Simbol al voinței politice pentru suveranitate.", "Aici au loc anual sărbători naționale.", "Locul este situat într-o regiune deluroasă, greu accesibilă."],
+        "en": ["Declaration of independence on September 24, 1973.", "The first National Assembly of the PAIGC was held here.", "The Boé region was a liberated zone during the war.", "The declaration took place before the Carnation Revolution in Portugal.", "Symbol of the political will for sovereignty.", "Annual national celebrations are held here.", "The site is located in a hilly, hard-to-reach region."]
+      }
+    },
+    {
+      "id": "guiledje-military-museum-history-v2",
+      "factsAdvanced": {
+        "hu": ["Egy döntő csata helyszíne 1973-ban.", "Az ostrom több hónapig tartott.", "Kiállítva a PAIGC szovjet T-34-es tankjai láthatók.", "A bázist portugál kommandósok védték.", "Guiledje eleste felgyorsította Portugália kivonulását.", "A múzeumot a háborús történelem megőrzésére alapították.", "Közel fekszik a Guinea-Conakry-i határhoz."],
+        "ro": ["Scena unei bătălii decisive în 1973.", "Asediul a durat câteva luni.", "Sunt expuse tancuri sovietice T-34 ale PAIGC.", "Baza a fost apărată de comandouri portugheze.", "Căderea Guiledje a accelerat retragerea Portugaliei.", "Muzeul a fost fondat pentru a păstra istoria războiului.", "Situat în apropierea graniței cu Guineea-Conakry."],
+        "en": ["Scene of a decisive battle in 1973.", "The siege lasted several months.", "Soviet T-34 tanks of the PAIGC are on display.", "The base was defended by Portuguese commandos.", "The fall of Guiledje accelerated Portugal's withdrawal.", "The museum was founded to preserve the history of the war.", "Located near the border with Guinea-Conakry."]
+      }
+    },
+    {
+      "id": "cacheu-historic-center-history-v2",
+      "factsAdvanced": {
+        "hu": ["A 16. század végén alapították.", "Portugál-Guinea gyarmat első fővárosa volt.", "A 'Rabszolgaság Háza' (Casa dos Escravos) központi emlékhely.", "A Cacheu erőd 1588-ban épült.", "Fontos kikötő volt a földimogyoró és pálmaolaj exportjára.", "Az építészet a portugál és afrikai stílusok keveréke.", "Az UNESCO Világörökség várományosa."],
+        "ro": ["Fondat la sfârșitul secolului al XVI-lea.", "A fost prima capitală a coloniei 'Guineea Portugheză'.", "'Casa Sclaviei' (Casa dos Escravos) este un loc memorial central.", "Fortul Cacheu a fost construit în 1588.", "Port important pentru exportul de arahide și ulei de palmier.", "Arhitectura este un amestec de stiluri portugheze și africane.", "Candidat la Patrimoniul Mondial UNESCO."],
+        "en": ["Founded in the late 16th century.", "Was the first capital of the colony 'Portuguese Guinea'.", "The 'House of Slavery' (Casa dos Escravos) is a central memorial site.", "The Fort of Cacheu was built in 1588.", "Important port for the export of peanuts and palm oil.", "Architecture is a mixture of Portuguese and African styles.", "Candidate for UNESCO World Heritage."]
+      }
+    },
+    {
+      "id": "kansala-ruins-history-v2",
+      "factsAdvanced": {
+        "hu": ["A Kaabu Birodalom fővárosa (kb. 1537–1867).", "A Kansalai csata 1867-ben zajlott.", "A mandinka ellenállás szimbóluma.", "Fontos régészeti lelőhely Bissau-Guineában.", "A birodalom a só- és aranykereskedelmet ellenőrizte.", "A pusztulás a Kaabu-dinasztia végét jelentette.", "A szájhagyomány (griotok) tartja életben a történetet."],
+        "ro": ["Capitala Imperiului Kaabu (aprox. 1537–1867).", "Bătălia de la Kansala a avut loc în 1867.", "Simbol al rezistenței Mandinka.", "Situl arheologic important din Guineea-Bissau.", "Imperiul controla comerțul cu sare și aur.", "Distrugerea a marcat sfârșitul dinastiei Kaabu.", "Tradiția orală (grioții) menține povestea vie."],
+        "en": ["Capital of the Kaabu Empire (c. 1537–1867).", "The Battle of Kansala took place in 1867.", "Symbol of Mandinka resistance.", "Important archaeological site in Guinea-Bissau.", "The empire controlled the trade in salt and gold.", "The destruction marked the end of the Kaabu dynasty.", "Oral tradition (griots) keeps the story alive."]
+      }
+    },
+    {
+      "id": "porto-gole-history-v2",
+      "factsAdvanced": {
+        "hu": ["A hajózható Geba folyó mentén fekszik.", "A földimogyoró és pálmaolaj történelmi átrakodóhelye.", "A gyarmati kor előtti és alatti kereskedelmi útvonalak tanúja.", "Raktárromok a 19. és 20. század elejéről.", "Összekötő pont a hátország és a partvidék népei között.", "Az útinfrastruktúra kiépítése után veszített jelentőségéből.", "Tükrözi az agrártermékektől való gazdasági függőséget."],
+        "ro": ["Situat pe porțiunea navigabilă a râului Geba.", "Punct istoric de transbordare pentru arahide și ulei de palmier.", "Mărturie a rutelor comerciale pre-coloniale și coloniale.", "Ruine de depozite din secolul al XIX-lea și începutul secolului al XX-lea.", "Punct de legătură între popoarele din interior și cele de pe coastă.", "Și-a pierdut importanța după dezvoltarea infrastructurii rutiere.", "Reflectă dependența economică de produsele agricole."],
+        "en": ["Located on the navigable part of the Geba River.", "Historic transshipment point for peanuts and palm oil.", "Testimony to pre-colonial and colonial trade routes.", "Ruins of warehouses from the 19th and early 20th centuries.", "Connecting point between the peoples of the interior and the coast.", "Lost importance after the development of road infrastructure.", "Reflects the economic dependence on agricultural products."]
+      }
+    },
+    {
+      "id": "bissau-old-port-history-v2",
+      "factsAdvanced": {
+        "hu": ["Történelmi név: Porto de Pidjiguiti.", "Az 1959. augusztus 3-i, sztrájkoló munkások elleni mészárlás helyszíne.", "Évszázadokon át az ország legfontosabb kikötője volt.", "A rabszolgák, elefántcsont és földimogyoró kereskedelmének központja.", "Gyarmati és posztkoloniális építészet keveréke.", "A felszabadító háború kezdetének szimbolikus helyszíne.", "Ma is aktív halászati és kereskedelmi kikötő."],
+        "ro": ["Nume istoric: Porto de Pidjiguiti.", "Locul masacrului din 3 august 1959 împotriva muncitorilor greviști.", "A fost cel mai important port al țării timp de secole.", "Centrul comerțului cu sclavi, fildeș și arahide.", "Combinație de arhitectură colonială și post-colonială.", "Loc simbolic pentru începutul războiului de eliberare.", "Încă un port activ de pescuit și comerț astăzi."],
+        "en": ["Historic name: Porto de Pidjiguiti.", "Site of the massacre of August 3, 1959, against striking workers.", "Was the country's most important port for centuries.", "Center of trade in slaves, ivory, and peanuts.", "Combination of colonial and post-colonial architecture.", "Symbolic site for the beginning of the liberation war.", "Still an active fishing and commercial port today."]
+      }
+    },
+    {
+      "id": "mansoa-mission-history-v2",
+      "factsAdvanced": {
+        "hu": ["A 20. század elején alapították.", "Fontos oktatási központ az Oio régióban.", "Portugál gyarmati stílusú építészet.", "Kulcsszerepet játszott az írástudás terjesztésében.", "Mansôa város kulturális és társadalmi központja.", "A misszió a mai napig aktív.", "A kereszténység történetének tanúja Bissau-Guineában."],
+        "ro": ["Fondată la începutul secolului al XX-lea.", "Centru educațional important în regiunea Oio.", "Arhitectură în stil colonial portughez.", "A jucat un rol cheie în alfabetizare.", "Centrul cultural și social al orașului Mansôa.", "Misiunea este activă și astăzi.", "Mărturie a istoriei creștinismului în Guineea-Bissau."],
+        "en": ["Founded in the early 20th century.", "Important educational center in the Oio region.", "Portuguese colonial style architecture.", "Played a key role in literacy.", "Cultural and social center of the city of Mansôa.", "The mission is still active today.", "Testimony to the history of Christianity in Guinea-Bissau."]
+      }
+    },
+    {
+      "id": "canchungo-historic-site-history-v2",
+      "factsAdvanced": {
+        "hu": ["Korábbi neve: Vila Teixeira Pinto.", "A manjaco nép fontos központja.", "Híres a hagyományos szövésről és fafaragásról.", "A Cacheu régió gyarmati közigazgatási központja.", "A portugál és a manjaco kultúra közötti csere helyszíne.", "A várostervezés még mindig gyarmati vonásokat mutat.", "Az ellenállás és a kulturális kitartás központja."],
+        "ro": ["Nume anterior: Vila Teixeira Pinto.", "Centru important al poporului Manjaco.", "Renumit pentru țesutul și sculptura tradițională în lemn.", "Centru administrativ colonial pentru regiunea Cacheu.", "Loc de schimb între cultura portugheză și cea Manjaco.", "Planificarea urbană încă prezintă trăsături coloniale.", "Un centru de rezistență și perseverență culturală."],
+        "en": ["Former name: Vila Teixeira Pinto.", "Important center of the Manjaco people.", "Famous for its traditional weaving and wood carving.", "Colonial administrative center for the Cacheu region.", "Site of exchange between Portuguese and Manjaco culture.", "Urban planning still shows colonial features.", "A center of resistance and cultural perseverance."]
+      }
+    },
+    {
+      "id": "bafata-colonial-quarter-history-v2",
+      "factsAdvanced": {
+        "hu": ["Amílcar Cabral nemzeti hős szülővárosa (1924).", "Fontos kereskedelmi állomás a Geba folyón.", "Építészet pasztellszínű homlokzatokkal és árkádokkal.", "Megőrzi egy portugál tartományi város hangulatát.", "A hátországgal folytatott kereskedelem központja.", "A macskaköves utcák hozzájárulnak a történelmi hangulathoz.", "Kontrasztban áll a modernebb fővárossal, Bissau-val."],
+        "ro": ["Orașul natal al eroului național Amílcar Cabral (1924).", "Post comercial important pe râul Geba.", "Arhitectură cu fațade pastelate și arcade.", "Păstrează atmosfera unui oraș provincial portughez.", "Centrul comerțului cu interiorul țării.", "Străzile pietruite contribuie la farmecul istoric.", "Un contrast cu capitala mai modernă, Bissau."],
+        "en": ["Birthplace of national hero Amílcar Cabral (1924).", "Important trading post on the Geba River.", "Architecture with pastel facades and arcades.", "Preserves the atmosphere of a Portuguese provincial town.", "Center of trade with the interior.", "The cobblestone streets add to the historical charm.", "A contrast to the more modern capital, Bissau."]
+      }
+    },
+    {
+      "id": "farim-historic-town-history-v2",
+      "factsAdvanced": {
+        "hu": ["1641-ben alapították portugál presidio-ként.", "A név a 'Farim' (uralkodó) mandinka címből származik.", "Stratégiai fekvés a hajózható Cacheu folyón.", "A Szenegállal és Gambiával folytatott kereskedelem történelmi központja.", "Fontos katonai állomás volt a felszabadító háború alatt.", "Tabancákkal (hagyományos falvakkal) körülvéve.", "A lakosság túlnyomórészt mandinka és fulbe."],
+        "ro": ["Fondat în 1641 ca un presidio portughez.", "Numele provine de la titlul Mandinka 'Farim' (conducător).", "Poziție strategică pe râul navigabil Cacheu.", "Centru istoric pentru comerțul cu Senegal și Gambia.", "A fost un post militar important în timpul războiului de eliberare.", "Înconjurat de tabancas (sate tradiționale).", "Populația este predominant Mandinka și Fulbe."],
+        "en": ["Founded in 1641 as a Portuguese presidio.", "The name comes from the Mandinka title 'Farim' (ruler).", "Strategic location on the navigable Cacheu River.", "Historic center for trade with Senegal and Gambia.", "Was an important military post during the liberation war.", "Surrounded by tabancas (traditional villages).", "The population is predominantly Mandinka and Fulbe."]
+      }
+    },
+    {
+      "id": "fulacunda-ruins-history-v2",
+      "factsAdvanced": {
+        "hu": ["Egykori kereskedelmi állomás a Quinara régióban.", "Az erőforrások kiaknázására irányuló gyarmati hálózat része.", "Fókuszban a kaucsuk- és pálmaolaj-kitermelés.", "A romok raktárak alapjait foglalják magukban.", "A délvidék gazdasági gyarmatosításának szimbóluma.", "Az állomás feladása a megváltozott kereskedelmi útvonalakat tükrözi.", "Ma történelmi és régészeti jelentőségű hely."],
+        "ro": ["Fost post comercial în regiunea Quinara.", "Parte a rețelei coloniale pentru exploatarea resurselor.", "Concentrat pe extracția de cauciuc și ulei de palmier.", "Ruinele includ fundații de depozite.", "Simbol al colonizării economice a sudului.", "Abandonarea postului reflectă schimbarea rutelor comerciale.", "Astăzi, un loc de importanță istorică și arheologică."],
+        "en": ["Former trading post in the Quinara region.", "Part of the colonial network for resource exploitation.", "Focused on rubber and palm oil extraction.", "The ruins include foundations of warehouses.", "Symbol of the economic colonization of the south.", "The abandonment of the post reflects changing trade routes.", "Today, a site of historical and archaeological importance."]
+      }
+    },
+    {
+      "id": "buba-historic-port-history-v2",
+      "factsAdvanced": {
+        "hu": ["Stratégiai fekvés a Rio Grande de Buba torkolatában.", "Fontos bauxit exportkikötő az 1950-70-es években.", "Egykor a modern Bissau-Guinea potenciális mélyvízi kikötőjeként tervezték.", "Az infrastruktúrát a bányászathoz építették.", "A kikötő hanyatlása a bányászat végével van összefüggésben.", "A nyersanyaggyarmatosításra épülő gyarmati gazdaság tanúbizonysága.", "A romok mólókat, raktárakat és szállítószalagokat foglalnak magukban."],
+        "ro": ["Poziție strategică la estuarul Rio Grande de Buba.", "Port important de export de bauxită în anii 1950-70.", "Planificat odată ca un potențial port de adâncime pentru Guineea-Bissau modernă.", "Infrastructura a fost construită pentru minerit.", "Declinul portului este legat de sfârșitul mineritului.", "Mărturie a economiei coloniale bazate pe exploatarea materiilor prime.", "Ruinele includ diguri, depozite și benzi transportoare."],
+        "en": ["Strategic location on the Rio Grande de Buba estuary.", "Important bauxite export port in the 1950s-70s.", "Once planned as a potential deep-water port for modern Guinea-Bissau.", "The infrastructure was built for mining.", "The port's decline is linked to the end of mining.", "Testimony to the colonial economy based on raw material exploitation.", "The ruins include piers, warehouses, and conveyor belts."]
+      }
+    },
+    {
+      "id": "catio-historical-center-history-v2",
+      "factsAdvanced": {
+        "hu": ["A Tombali régió közigazgatási központja.", "Bissau-Guinea 'rizses táljának' történelmi szíve.", "Gyarmati várostervezés egy központi tér (Praça) körül.", "Fontos támaszpont a PAIGC számára a felszabadító háborúban.", "A Cantanhez Nemzeti Park kapuja, amely csimpánzairól ismert.", "Az építészet omladozó, de jellegzetes gyarmati épületeket mutat.", "A gazdaságot a mai napig erősen a mezőgazdaság prägelja."],
+        "ro": ["Centrul administrativ al regiunii Tombali.", "Inima istorică a 'bolului de orez' din Guineea-Bissau.", "Planificare urbană colonială în jurul unei piețe centrale (Praça).", "Bază importantă în războiul de eliberare pentru PAIGC.", "Poarta de acces către Parcul Național Cantanhez, cunoscut pentru cimpanzei.", "Arhitectura prezintă clădiri coloniale în paragină, dar caracteristice.", "Economia este puternic marcată de agricultură până în prezent."],
+        "en": ["Administrative center of the Tombali region.", "Historic heart of the 'rice bowl' of Guinea-Bissau.", "Colonial urban planning around a central square (Praça).", "Important base in the liberation war for the PAIGC.", "Gateway to the Cantanhez National Park, known for its chimpanzees.", "Architecture shows decaying but characteristic colonial buildings.", "The economy is still strongly influenced by agriculture today."]
+      }
+    }
+  ]
+}

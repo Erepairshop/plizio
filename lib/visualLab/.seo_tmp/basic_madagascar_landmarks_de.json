@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cathedrale-andohalo-landmarks-v2",
+      "description": "Die Kathedrale von Andohalo ist ein architektonisch markantes Gotteshaus in Antananarivo. Sie bildet ein wichtiges Wahrzeichen der Stadt und besticht durch ihren neugotischen Stil.",
+      "facts": ["Antananarivo", "Neugotischer Stil", "Wichtiges Gotteshaus", "Stadtmarke"]
+    },
+    {
+      "id": "phare-cap-minne-landmarks-v2",
+      "description": "Der Leuchtturm am Cap Minne ist ein markanter Orientierungspunkt an der Nordspitze Madagaskars. Er bietet einen weiten Blick über die Küstengewässer.",
+      "facts": ["Nordküste", "Navigationshilfe", "Panoramablick", "Küstenwahrzeichen"]
+    },
+    {
+      "id": "pont-kamoro-landmarks-v2",
+      "description": "Die Brücke von Kamoro ist ein technisches Meisterwerk, das über den Fluss Betsiboka führt. Sie ist ein zentrales Verkehrsbauwerk im Norden des Landes.",
+      "facts": ["Fluss Betsiboka", "Verkehrsbauwerk", "Brückenbau", "Wichtig für Logistik"]
+    },
+    {
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "description": "Die Ruinen von Fort Flacourt erinnern an die frühen Siedlungsbemühungen in der Nähe von Tolanaro. Sie sind ein wichtiges historisches Wahrzeichen der Region.",
+      "facts": ["Tolanaro-Region", "Ruinenstätte", "Historisches Erbe", "Frühe Befestigung"]
+    },
+    {
+      "id": "katedraly-faravohitra-landmarks-v2",
+      "description": "Die Kirche von Faravohitra thront auf einem der sieben Hügel von Antananarivo und prägt die Silhouette der Stadt. Sie ist bekannt für ihre markante Turmstruktur.",
+      "facts": ["Antananarivo", "Hügel-Kirche", "Stadtbild", "Architektonisches Merkmal"]
+    }
+  ]
+}

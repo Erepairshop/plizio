@@ -1,0 +1,60 @@
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "legoland-california-life-v2",
+      "description": "LEGOLAND California Resort is a theme park located in Carlsbad, California. It features rides, shows, and attractions based on the popular LEGO toy bricks.",
+      "facts": ["First LEGOLAND park in the USA.", "Designed for families with young children.", "Includes a water park and aquarium.", "Miniland USA showcases famous landmarks."]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "Grand Teton National Park in Wyoming is known for its stunning Teton Range, pristine lakes, and abundant wildlife. It offers dramatic mountain scenery and outdoor recreation.",
+      "facts": ["Dominated by the Teton Range.", "Features the 13,770-foot Grand Teton peak.", "Connected to Yellowstone National Park.", "Popular for mountaineering and hiking."]
+    },
+    {
+      "id": "seaworld-orlando-life-v2",
+      "description": "SeaWorld Orlando is a marine zoological park and theme park in Orlando, Florida. It features marine animal shows, aquariums, and thrill rides.",
+      "facts": ["Focuses on marine life.", "Known for its orca shows.", "Offers roller coasters and water rides.", "Committed to animal rescue and rehabilitation."]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "Zion National Park in Utah is famous for its massive sandstone cliffs, narrow canyons, and unique geological formations. The Virgin River carves through its impressive landscape.",
+      "facts": ["Named by Mormon pioneers.", "Features the iconic Angels Landing hike.", "Home to a diverse plant and animal life.", "Known for its slot canyons."]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "Great Smoky Mountains National Park, straddling the border of North Carolina and Tennessee, is the most visited national park in the United States. It is known for its ancient mountains and diverse plant and animal life.",
+      "facts": ["Part of the Appalachian Mountains.", "A UNESCO World Heritage Site.", "Known for its mist-shrouded peaks.", "Rich in biodiversity."]
+    },
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "description": "Knott's Berry Farm is a 57-acre theme park in Buena Park, California. It began as a small berry farm and roadside stand, evolving into a major amusement destination.",
+      "facts": ["Opened in 1920s as a berry farm.", "Features classic and thrill rides.", "Known for its Boysenberry Festival.", "America's first theme park."]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "The Colorado Plateau is a vast, arid region of the Western United States characterized by unique geological features such as canyons, mesas, and buttes. It spans parts of four states.",
+      "facts": ["Covers parts of Utah, Colorado, Arizona, New Mexico.", "Known for iconic red rock landscapes.", "Includes Grand Canyon and Zion National Park.", "High elevation desert."]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "description": "The Sierra Madre Occidental is a major mountain range system in western Mexico, extending into the southwestern United States. It forms a significant part of the North American Cordillera.",
+      "facts": ["Spans approximately 1,200 km.", "Characterized by pine-oak forests.", "Source of many rivers flowing to the Pacific.", "Home to diverse wildlife."]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "The Chisos Mountains are a mountain range located in Big Bend National Park in West Texas. They are the only mountain range in North America entirely contained within a national park.",
+      "facts": ["Located in Big Bend National Park.", "Formed by volcanic activity.", "Unique 'sky island' ecosystem.", "Home to diverse desert and mountain flora."]
+    },
+    {
+      "id": "olympic-mountains-relief-v2",
+      "description": "The Olympic Mountains are a mountain range on the Olympic Peninsula of western Washington State. They are part of the Pacific Coast Ranges.",
+      "facts": ["Heavily glaciated.", "Highest peak is Mount Olympus.", "Receives significant precipitation.", "Core of Olympic National Park."]
+    }
+  ]
+}

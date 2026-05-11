@@ -1,0 +1,82 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kenieba-cities-v2",
+      "description": "Oraș situat în regiunea Kayes, cunoscut pentru activitățile sale miniere din împrejurimi.",
+      "facts": ["Situat în vestul țării", "Regiunea Kayes", "Centru de minerit local"]
+    },
+    {
+      "id": "gourma-rharous-cities-v2",
+      "description": "Localitate situată pe malul fluviului Niger, servind ca punct central pentru comunitățile riverane.",
+      "facts": ["Regiunea Timbuktu", "Situat pe fluviul Niger", "Centru administrativ"]
+    },
+    {
+      "id": "dialakoroba-cities-v2",
+      "description": "Așezare rurală în apropierea capitalei Bamako, caracterizată prin agricultură și meșteșuguri.",
+      "facts": ["Lângă Bamako", "Economie agricolă", "Comunitate locală"]
+    },
+    {
+      "id": "diabaly-cities-v2",
+      "description": "Oraș istoric cunoscut pentru arhitectura sa tradițională din lut și rolul său în agricultură.",
+      "facts": ["Regiunea Ségou", "Arhitectură tradițională", "Centru agricol"]
+    },
+    {
+      "id": "monument-alkabass-gao-landmarks-v2",
+      "description": "Un monument reprezentativ în orașul Gao, ce reflectă identitatea culturală a regiunii.",
+      "facts": ["Situat în Gao", "Simbol cultural", "Punct de reper local"]
+    },
+    {
+      "id": "mopti-fishing-culture-life-v2",
+      "description": "Tradiții milenare de pescuit pe fluviul Niger, definind modul de viață al locuitorilor din Mopti.",
+      "facts": ["Fluviul Niger", "Pescuit tradițional", "Cultură riverană"]
+    },
+    {
+      "id": "segou-fruit-market-life-v2",
+      "description": "O piață vibrantă în Ségou unde se comercializează produse agricole proaspete din regiune.",
+      "facts": ["Regiunea Ségou", "Piață agricolă", "Comerț local"]
+    },
+    {
+      "id": "kayes-orchards-life-v2",
+      "description": "Livezi productive în zona Kayes, beneficiind de climatul specific al văii Senegalului.",
+      "facts": ["Regiunea Kayes", "Producție de fructe", "Climat cald"]
+    },
+    {
+      "id": "sikasso-garden-life-v2",
+      "description": "Grădini roditoare în Sikasso, zonă recunoscută pentru agricultura sa diversificată.",
+      "facts": ["Regiunea Sikasso", "Agricultură intensivă", "Regiune fertilă"]
+    },
+    {
+      "id": "fatoma-cattle-market-life-v2",
+      "description": "Un important târg de vite unde crescătorii locali din zona Mopti își vând animalele.",
+      "facts": ["Zona Mopti", "Târg de animale", "Creșterea vitelor"]
+    },
+    {
+      "id": "goundam-wetlands-life-v2",
+      "description": "Zone umede esențiale pentru ecosistemul local și pentru pășunatul animalelor în timpul sezonului secetos.",
+      "facts": ["Zona Goundam", "Ecosistem umed", "Resursă vitală"]
+    },
+    {
+      "id": "koulikoro-gardens-life-v2",
+      "description": "Grădini locale cultivate de-a lungul malurilor fluviului, susținând economia comunităților din Koulikoro.",
+      "facts": ["Regiunea Koulikoro", "Grădinărit fluvial", "Agricultură de subzistență"]
+    },
+    {
+      "id": "timbuktu-palm-groves-life-v2",
+      "description": "Oaze cu palmieri care oferă umbră și resurse vitale în condițiile aride din apropierea orașului Timbuktu.",
+      "facts": ["Zona Timbuktu", "Oaze naturale", "Resurse de palmieri"]
+    },
+    {
+      "id": "goundam-livestock-life-v2",
+      "description": "Activități tradiționale de creștere a animalelor în zona Goundam, parte integrantă a economiei locale.",
+      "facts": ["Zona Goundam", "Creșterea animalelor", "Tradiție pastorală"]
+    }
+  ]
+}

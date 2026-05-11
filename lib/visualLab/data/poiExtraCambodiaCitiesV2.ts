@@ -120,7 +120,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       en: ["The name translates to 'Black Grandfather'.", "Important industrial and manufacturing center.", "Situated on the banks of the Prek Thnot river.", "Benefited greatly from Phnom Penh's growth."]
     },
     descriptionAdvanced: { de: "Ta Khmau ist die Hauptstadt der Provinz Kandal und liegt nur 11 Kilometer südlich von Phnom Penh am Bassac-Fluss. Die Stadt mit rund 73.000 Einwohnern bildet den südlichen Vorort der Hauptstadtregion. Der Name bedeutet auf Khmer 'Schwarzer Großvater' und geht auf eine lokale Legende zurück. Während des französischen Protektorats ab 1863 wurde die Region als Reisanbaugebiet entwickelt. Unter den Roten Khmer 1975-1979 wurde Ta Khmau wie alle Städte evakuiert; das berüchtigte Sicherheitsgefängnis 'M-13' lag in der Provinz. Seit den 2000er Jahren ist die Stadt durch ihre Nähe zur Hauptstadt zu einem Industriezentrum mit Textilfabriken und Logistikzentren geworden." },
-    factsAdvanced: { de: ["Hauptstadt der Provinz Kandal", "Bevölkerung ca. 73.000", "Nur 11 km südlich von Phnom Penh", "Name bedeutet 'Schwarzer Großvater'", "Französisches Protektorat ab 1863", "Evakuiert unter Roten Khmer 1975-1979", "Wichtiges Industriezentrum mit Textilfabriken", "Liegt am Bassac-Fluss"] }, image: "/poi-images/cambodia-ta-khmau-cities-v2.webp"},
+    factsAdvanced: { de: ["Hauptstadt der Provinz Kandal", "Bevölkerung ca. 73.000", "Nur 11 km südlich von Phnom Penh", "Französisches Protektorat ab 1863", "Evakuiert unter Roten Khmer 1975-1979", "Wichtiges Industriezentrum mit Textilfabriken", "Liegt am Bassac-Fluss"] }, image: "/poi-images/cambodia-ta-khmau-cities-v2.webp"},
   {
     id: "cambodia-kampong-cham-cities-v2",
     type: "city",
@@ -180,7 +180,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       en: ["The name translates to 'Starfruit Port'.", "National leader in palm sugar production.", "Close to the Kirirom National Park.", "Surrounded by vast rice paddies."]
     },
     descriptionAdvanced: { de: "Kampong Speu ist die Hauptstadt der gleichnamigen Provinz und liegt 48 Kilometer westlich von Phnom Penh am Prek-Thnot-Fluss. Die Stadt mit rund 79.000 Einwohnern ist landesweit berühmt für die Produktion von Palmzucker, der seit 2010 als geschützte Herkunftsbezeichnung registriert ist. Der Name bedeutet 'Sternfrucht-Hafen'. Während des französischen Protektorats ab 1863 wurde die Region als landwirtschaftliches Hinterland Phnom Penhs entwickelt. Unter den Roten Khmer 1975-1979 lag hier die berüchtigte Zone 'Region 22'; Tausende kamen in den Reisfeldern und Arbeitslagern um. Heute prägen die Toddy-Palmen und der Kirirom-Nationalpark in 110 Kilometer Entfernung." },
-    factsAdvanced: { de: ["Hauptstadt der Provinz Kampong Speu", "Bevölkerung ca. 79.000", "48 km westlich von Phnom Penh", "Geschützter Palmzucker seit 2010", "Name bedeutet 'Sternfrucht-Hafen'", "Französisches Protektorat ab 1863", "'Region 22' der Roten Khmer 1975-1979", "Nähe zum Kirirom-Nationalpark"] }, image: "/poi-images/cambodia-kampong-speu-cities-v2.webp"},
+    factsAdvanced: { de: ["Hauptstadt der Provinz Kampong Speu", "Bevölkerung ca. 79.000", "48 km westlich von Phnom Penh", "Geschützter Palmzucker seit 2010", "Französisches Protektorat ab 1863", "'Region 22' der Roten Khmer 1975-1979"] }, image: "/poi-images/cambodia-kampong-speu-cities-v2.webp"},
   {
     id: "cambodia-takeo-cities-v2",
     type: "city",
@@ -280,7 +280,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       en: ["Formerly famous for sapphires and rubies.", "Was one of the last strongholds of the Khmer Rouge.", "The Wat Phnom Yat temple overlooks the town.", "Home to many ethnic Kola communities."]
     },
     descriptionAdvanced: { de: "Pailin liegt in den Ausläufern der Kardamom-Berge nahe der thailändischen Grenze, 379 Kilometer nordwestlich von Phnom Penh. Die Stadt mit rund 31.000 Einwohnern war im 19. und 20. Jahrhundert weltberühmt für ihre Saphir- und Rubinminen, die heute weitgehend erschöpft sind. Während des französischen Protektorats ab 1863 war Pailin Teil der von Siam kontrollierten Provinz Battambang und kam erst 1907 zu Kambodscha. Nach dem Sturz des Pol-Pot-Regimes 1979 wurde Pailin zur letzten Hochburg der Roten Khmer und blieb bis 1996 unter ihrer Kontrolle - finanziert durch Edelsteinhandel und Holzschmuggel. Erst nach der Kapitulation Ieng Sarys 1996 wurde die Region wieder Teil des Staates." },
-    factsAdvanced: { de: ["Bevölkerung ca. 31.000", "379 km nordwestlich von Phnom Penh", "Berühmt für Saphire und Rubine", "Erst 1907 zu Kambodscha (Siam zuvor)", "Französisches Protektorat ab 1863", "Letzte Hochburg der Roten Khmer 1979-1996", "Kapitulation von Ieng Sary 1996", "Wat Phnom Yat über der Stadt"] }, image: "/poi-images/cambodia-pailin-cities-v2.webp"},
+    factsAdvanced: { de: ["Bevölkerung ca. 31.000", "379 km nordwestlich von Phnom Penh", "Erst 1907 zu Kambodscha (Siam zuvor)", "Französisches Protektorat ab 1863", "Letzte Hochburg der Roten Khmer 1979-1996", "Kapitulation von Ieng Sary 1996", "Wat Phnom Yat über der Stadt"] }, image: "/poi-images/cambodia-pailin-cities-v2.webp"},
   {
     id: "cambodia-kratie-cities-v2",
     type: "city",
@@ -400,7 +400,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       en: ["Close to the pre-Angkorian temples of Sambor Prei Kuk.", "A strategic stop between Phnom Penh and Siem Reap.", "The name translates to 'Great Port'.", "Center for traditional stone carving."]
     },
     descriptionAdvanced: { de: "Kampong Thom ist die Hauptstadt der gleichnamigen Provinz in der Mitte Kambodschas und liegt am Stueng-Saen-Fluss, 165 Kilometer nördlich von Phnom Penh an der Nationalstraße 6 nach Siem Reap. Die Stadt mit rund 66.000 Einwohnern ist Tor zum Tempelkomplex Sambor Prei Kuk, der prä-angkorianischen Hauptstadt Isanapura aus dem 7. Jahrhundert und seit 2017 UNESCO-Weltkulturerbe. Diese Stätte aus dem Chenla-Reich (550-802) ging dem späteren Khmer-Reich (802-1431) voraus. Während des französischen Protektorats ab 1863 wurde die Stadt Verwaltungszentrum. Unter den Roten Khmer 1975-1979 lag hier eine der Killing-Fields-Stätten. Der Name bedeutet 'Großer Hafen'. Pol Pot wurde 1925 in der Provinz Kampong Thom geboren." },
-    factsAdvanced: { de: ["Hauptstadt der Provinz Kampong Thom", "Bevölkerung ca. 66.000", "165 km nördlich von Phnom Penh", "Sambor Prei Kuk UNESCO seit 2017", "Isanapura: Chenla-Hauptstadt 7. Jahrhundert", "Französisches Protektorat ab 1863", "Geburtsprovinz von Pol Pot (1925)", "Name bedeutet 'Großer Hafen'"] }, image: "/poi-images/cambodia-kampong-thom-cities-v2.webp"},
+    factsAdvanced: { de: ["Hauptstadt der Provinz Kampong Thom", "Bevölkerung ca. 66.000", "165 km nördlich von Phnom Penh", "Sambor Prei Kuk UNESCO seit 2017", "Isanapura: Chenla-Hauptstadt 7. Jahrhundert", "Französisches Protektorat ab 1863", "Geburtsprovinz von Pol Pot (1925)"] }, image: "/poi-images/cambodia-kampong-thom-cities-v2.webp"},
   {
     id: "cambodia-sisophon-cities-v2",
     type: "city",
@@ -420,7 +420,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       en: ["Also known as Serei Saophoan.", "Near the ancient Banteay Chhmar temple.", "Intersection of National Highways 5 and 6.", "Historically often disputed between Siam and Khmer empires."]
     },
     descriptionAdvanced: { de: "Sisophon, offiziell Serei Saophoan, ist die Hauptstadt der Provinz Banteay Meanchey und liegt 359 Kilometer nordwestlich von Phnom Penh am Schnittpunkt der Nationalstraßen 5 und 6 sowie der Bahnstrecken nach Battambang und Poipet. Die Stadt mit rund 99.000 Einwohnern war historisch ein wichtiger Knotenpunkt und wurde im 19. Jahrhundert oft zwischen dem Königreich Siam und den Khmer-Königen umkämpft. Während des französischen Protektorats ab 1863 war Sisophon zwischen 1867 und 1907 unter siamesischer Verwaltung. Unter den Roten Khmer 1975-1979 wurde die Stadt zur strategischen Basis und Wohnort von Hou Yuon. Nahe der Stadt liegt der Tempel Banteay Chhmar aus dem 12. Jahrhundert, ein Khmer-Reich-Tempel mit den berühmten Avalokiteshvara-Reliefs." },
-    factsAdvanced: { de: ["Hauptstadt der Provinz Banteay Meanchey", "Bevölkerung ca. 99.000", "359 km nordwestlich von Phnom Penh", "Schnittpunkt Nationalstraßen 5 und 6", "Siamesische Verwaltung 1867-1907", "Französisches Protektorat ab 1863", "Banteay-Chhmar-Tempel aus dem 12. Jahrhundert", "Strategische Basis der Roten Khmer 1975-1979"] }, image: "/poi-images/cambodia-sisophon-cities-v2.webp"},
+    factsAdvanced: { de: ["Hauptstadt der Provinz Banteay Meanchey", "Bevölkerung ca. 99.000", "359 km nordwestlich von Phnom Penh", "Siamesische Verwaltung 1867-1907", "Französisches Protektorat ab 1863", "Banteay-Chhmar-Tempel aus dem 12. Jahrhundert", "Strategische Basis der Roten Khmer 1975-1979"] }, image: "/poi-images/cambodia-sisophon-cities-v2.webp"},
   {
     id: "cambodia-prey-veng-cities-v2",
     type: "city",

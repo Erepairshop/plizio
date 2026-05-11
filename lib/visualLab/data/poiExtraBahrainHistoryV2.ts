@@ -158,16 +158,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
         "Népszerű helyszín kulturális eseményekhez.",
         "Éjjel lenyűgözően megvilágítják."
       ],
-      ro: [
-        "Construit în secolul al XV-lea în stil islamic.",
-        "Formă pătrată cu patru turnuri cilindrice.",
-        "Folosit pentru a controla căile maritime din jurul Muharraq.",
-        "Consolidat de omanezi la începutul secolului al XIX-lea.",
-        "Restaurat complet în anii 1980.",
-        "S-au folosit materiale tradiționale precum piatra de coral.",
-        "Loc popular pentru evenimente culturale.",
-        "Iluminat impresionant pe timp de noapte."
-      ],
+      ro: ["Construit în secolul al XV-lea în stil islamic.", "Formă pătrată cu patru turnuri cilindrice.", "Folosit pentru a controla căile maritime din jurul Muharraq.", "Consolidat de omanezi la începutul secolului al XIX-lea.", "S-au folosit materiale tradiționale precum piatra de coral.", "Loc popular pentru evenimente culturale.", "Iluminat impresionant pe timp de noapte."],
       en: [
         "Built in the 15th century in Islamic style.",
         "Square shape with four cylindrical towers.",
@@ -325,16 +316,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
         "Zeugt von fortgeschrittenen Bautechniken.",
         "Wichtiger Ort für religiöse Rituale der Dilmun-Zeit."
       ],
-      hu: [
-        "A Dilmun-kultúrához tartozik, Kr. e. 3000 körülre datálva.",
-        "Három egymást követő templomépületből áll.",
-        "Enki sumér istennek szentelték.",
-        "Egy szent kút központi eleme.",
-        "Régészeti leletek bizonyítják a kereskedelmet Mezopotámiával.",
-        "Egy dán régészcsoport fedezte fel 1954-ben.",
-        "Fejlett építési technikákról tanúskodik.",
-        "Fontos helyszín a Dilmun-kori vallási rituálékhoz."
-      ],
+      hu: ["A Dilmun-kultúrához tartozik, Kr. e. 3000 körülre datálva.", "Három egymást követő templomépületből áll.", "Egy szent kút központi eleme.", "Régészeti leletek bizonyítják a kereskedelmet Mezopotámiával.", "Egy dán régészcsoport fedezte fel 1954-ben.", "Fejlett építési technikákról tanúskodik.", "Fontos helyszín a Dilmun-kori vallási rituálékhoz."],
       ro: [
         "Aparține culturii Dilmun, datând din aproximativ 3000 î.Hr.",
         "Constă din trei temple construite succesiv.",
@@ -345,16 +327,7 @@ export const poiExtraBahrainHistoryV2: POI[] = [
         "Mărturie a tehnicilor avansate de construcție.",
         "Loc important pentru ritualurile religioase din perioada Dilmun."
       ],
-      en: [
-        "Belongs to the Dilmun culture, dating to around 3000 BC.",
-        "Consists of three successive temple buildings.",
-        "Dedicated to the Sumerian god Enki.",
-        "A sacred well is a central feature.",
-        "Archaeological finds prove trade with Mesopotamia.",
-        "Discovered by a Danish archaeological team in 1954.",
-        "Testifies to advanced construction techniques.",
-        "Important site for religious rituals of the Dilmun period."
-      ]
+      en: ["Belongs to the Dilmun culture, dating to around 3000 BC.", "Consists of three successive temple buildings.", "A sacred well is a central feature.", "Archaeological finds prove trade with Mesopotamia.", "Discovered by a Danish archaeological team in 1954.", "Testifies to advanced construction techniques.", "Important site for religious rituals of the Dilmun period."]
     }, image: "/poi-images/barbar-temple-history-v2.webp"},
   {
     id: "dilmun-burial-mounds-history-v2",

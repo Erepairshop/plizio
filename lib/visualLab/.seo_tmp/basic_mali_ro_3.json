@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-tombouctou-nature-v2",
+      "description": "Formațiuni montane în zona Timbuktu, oferind un relief contrastant față de dunele de nisip din jur.",
+      "facts": ["Zona Timbuktu", "Relief montan", "Formațiuni stâncoase"]
+    },
+    {
+      "id": "baoule-ba-river-nature-v2",
+      "description": "Fluviul Baoulé-Ba, un curs de apă esențial care traversează peisaje naturale din sud-vestul țării.",
+      "facts": ["Sud-vestul Mali", "Curs de apă", "Sursă de irigații"]
+    },
+    {
+      "id": "mount-koulou-nature-v2",
+      "description": "Muntele Koulou, parte a peisajului muntos din centrul Mali, important pentru ecosistemul local.",
+      "facts": ["Centrul Mali", "Ecosistem montan", "Relief"]
+    },
+    {
+      "id": "lake-tele-nature-v2",
+      "description": "Lacul Télé, o zonă umedă vitală pentru biodiversitatea din nordul Mali.",
+      "facts": ["Nordul Mali", "Zonă umedă", "Biodiversitate"]
+    },
+    {
+      "id": "bago-river-nature-v2",
+      "description": "Fluviul Bago susține activitățile agricole și viața sălbatică de-a lungul albiei sale în sud.",
+      "facts": ["Sudul Mali", "Fluviu", "Agricultură"]
+    },
+    {
+      "id": "mount-gourma-nature-v2",
+      "description": "Masivul Gourma, o zonă muntoasă izolată ce oferă un habitat unic pentru fauna locală.",
+      "facts": ["Zona Gourma", "Habitat montan", "Faună unică"]
+    },
+    {
+      "id": "lake-korientze-nature-v2",
+      "description": "Lacul Korientze, o importantă resursă de apă utilizată de comunitățile pastorale în perioadele secetoase.",
+      "facts": ["Zona Mopti", "Rezervor de apă", "Pastoralism"]
+    },
+    {
+      "id": "mount-bam-nature-v2",
+      "description": "Muntele Bam, o formațiune geologică distinctă în regiunea centrală a Mali.",
+      "facts": ["Centrul Mali", "Formațiune geologică", "Relief"]
+    },
+    {
+      "id": "san-river-nature-v2",
+      "description": "Râul care trece pe lângă San, un pilon important pentru economia agricolă a acestei zone.",
+      "facts": ["Regiunea San", "Râu local", "Agricultură"]
+    },
+    {
+      "id": "lake-doro-nature-v2",
+      "description": "Lacul Doro, un punct de hidratare pentru animalele din regiunea sa rurală.",
+      "facts": ["Zonă rurală", "Resursă de apă", "Hidratare animale"]
+    },
+    {
+      "id": "kourou-river-nature-v2",
+      "description": "Râul Kourou, un curs de apă care modelează relieful și susține vegetația în zona sa.",
+      "facts": ["Curs de apă", "Vegetație riverană", "Geologie"]
+    },
+    {
+      "id": "lake-aougoundou-nature-v2",
+      "description": "Lacul Aougoundou, situat într-o zonă izolată, reprezintă un punct de biodiversitate locală.",
+      "facts": ["Zonă izolată", "Biodiversitate", "Ecosistem"]
+    },
+    {
+      "id": "mount-bougouni-nature-v2",
+      "description": "Muntele Bougouni, o trăsătură geografică în sudul Mali, marcată prin peisaje verzi.",
+      "facts": ["Sudul Mali", "Peisaje verzi", "Geografie locală"]
+    },
+    {
+      "id": "lake-nianga-nature-v2",
+      "description": "Lacul Nianga, o zonă umedă care atrage diverse specii de păsări din regiune.",
+      "facts": ["Zonă umedă", "Ornitologie", "Biodiversitate"]
+    },
+    {
+      "id": "mount-sikasso-nature-v2",
+      "description": "Înălțimile muntoase din Sikasso oferă perspective impresionante asupra câmpiilor fertile din jur.",
+      "facts": ["Regiunea Sikasso", "Relief muntos", "Câmpii fertile"]
+    }
+  ]
+}

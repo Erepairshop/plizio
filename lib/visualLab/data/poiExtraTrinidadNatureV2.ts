@@ -23,9 +23,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,1? N und 61,8? W", "Verbindung zum Orinoco in Venezuela", "Prägt den Golf von Paria", "Feinsedimente f?rben das Wasser", "Beeinflusst Str?mungen und Salzgehalt", "Wichtig f?r Fischerei und Küsten?kologie", "Thema f?r Geographie K7"],
-      hu: ["Édesvizet és üledéket hoz.", "Befolyásolja a tengeri áramlatokat.", "Fontos a halászat szempontjából.", "A helyszín neve: Orinoco torkolata.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Aduce apă dulce și sedimente.", "Influențează curenții marini.", "Important pentru pescuit.", "Este cunoscut sub numele de Gura Orinoco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Brings freshwater and sediment.", "Affects marine currents.", "Important for fisheries.", "Known by the name Orinoco River Mouth.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Orinoco torkolata.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Gura Orinoco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Orinoco River Mouth.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -48,10 +48,10 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       en: "Gulf of Paria is a notable site on the Caribbean island of Trinidad. A large, relatively shallow inland sea between Trinidad and the Venezuelan mainland. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Low salinity due to river mouths. Another point of interest: Important marine habitat. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Lage bei 10,4167? N und 61,6667? W", "Zwischen Trinidad und Venezuela", "Relativ flaches Binnenmeer", "Niedriger Salzgehalt durch Flussm?ndungen", "Wichtiger Lebensraum f?r Meeresarten", "Ruhiger als die offene Atlantikküste", "Relevant f?r Fischerei und Schifffahrt"],
-      hu: ["Alacsony sótartalom a folyótorkolatok miatt.", "Fontos tengeri élőhely.", "Nyugodtabb vizek, mint az Atlanti-óceán.", "A helyszín neve: Paria-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Salinitate redusă datorită gurilor de râu.", "Habitat marin important.", "Ape mai calme decât Atlanticul.", "Este cunoscut sub numele de Golful Paria.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Low salinity due to river mouths.", "Important marine habitat.", "Calmer waters than the Atlantic.", "Known by the name Gulf of Paria.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Lage bei 10,4167? N und 61,6667? W", "Zwischen Trinidad und Venezuela", "Relativ flaches Binnenmeer", "Wichtiger Lebensraum f?r Meeresarten", "Ruhiger als die offene Atlantikküste", "Relevant f?r Fischerei und Schifffahrt"],
+      hu: ["A helyszín neve: Paria-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful Paria.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Gulf of Paria.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -75,9 +75,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,07? N und 61,9? W", "Kleiner Felsen im S?dwesten Trinidads", "Liegt im offenen Küstenwasser", "Wichtiger Brutplatz f?r Seev?gel", "Stark von Str?mungen geprägt", "Kaum geschützte Uferzonen", "Beispiel f?r marinen Lebensraum"],
-      hu: ["Madárrezervátum.", "Sziklás, kopár táj.", "Stratégiai elhelyezkedés a Kolumbusz-csatornában.", "A helyszín neve: Soldado Rock.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Sanctuar de păsări.", "Peisaj stâncos și arid.", "Situat strategic în Canalul Columb.", "Este cunoscut sub numele de Stânca Soldado.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Bird sanctuary.", "Rocky, barren landscape.", "Strategically located in the Columbus Channel.", "Known by the name Soldado Rock.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Soldado Rock.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Stânca Soldado.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Soldado Rock.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -100,10 +100,10 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       en: "Buccoo Marsh is a notable site on the Caribbean island of Trinidad. A mangrove forest and wetland area adjacent to the Buccoo Reef in Tobago. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Part of the Buccoo Reef Marine Park. Another point of interest: Important nursery for fish. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Lage bei 11,17? N und 60,81? W", "Auf Tobago gelegen", "Neben dem Buccoo Reef Marine Park", "Mangroven- und Brackwassergebiet", "Wichtige Kinderstube f?r Fische", "Filtert Schwebstoffe aus dem Wasser", "Lebensraum f?r Reiher und Krabben"],
-      hu: ["A Buccoo Reef Tengeri Park része.", "Fontos ivadéknevelő hely a halak számára.", "Szűri a zátony felé áramló vizet.", "A helyszín neve: Buccoo mocsárvidék.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Parte a Parcului Marin Buccoo Reef.", "Creșă importantă pentru pești.", "Filtrează apa care curge spre recif.", "Este cunoscut sub numele de Mlaștina Buccoo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Part of the Buccoo Reef Marine Park.", "Important nursery for fish.", "Filters water flowing to the reef.", "Known by the name Buccoo Marsh.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Lage bei 11,17? N und 60,81? W", "Auf Tobago gelegen", "Mangroven- und Brackwassergebiet", "Filtert Schwebstoffe aus dem Wasser", "Lebensraum f?r Reiher und Krabben"],
+      hu: ["A helyszín neve: Buccoo mocsárvidék.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Mlaștina Buccoo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Buccoo Marsh.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -127,9 +127,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,67? N und 61,6? W", "Auf Gaspar Grande gelegen", "Kalksteinhöhlen vor Trinidad", "Nordwestlich des Hauptinsel-Kerns", "Mit k?hlem Höhlen-Mikroklima", "Beispiel f?r Karstlandschaft", "Wasser formt die Kammern ?ber Zeit"],
-      hu: ["Sztalaktitok és sztalagmitok.", "Tiszta, földalatti árapály-medence.", "Az egyik Bocas-szigeten található.", "A helyszín neve: Gasparee-barlangok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Stalactite și stalagmite.", "Piscină subterană limpede, afectată de maree.", "Situată pe una dintre insulele Bocas.", "Este cunoscut sub numele de Peșterile Gasparee.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Stalactites and stalagmites.", "Clear underground tidal pool.", "Located on one of the Bocas Islands.", "Known by the name Gasparee Caves.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Gasparee-barlangok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Peșterile Gasparee.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Gasparee Caves.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -152,10 +152,10 @@ export const poiExtraTrinidadNatureV2: POI[] = [
       en: "Main Ridge Forest Reserve is a notable site on the Caribbean island of Trinidad. The oldest legally protected forest reserve in the Western Hemisphere, located on Tobago. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Protected since 1776. Another point of interest: Important birding habitat. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Schutz seit 1776", "Auf Tobago gelegen", "Von Sir William Young geschützt", "Eines der ?ltesten Waldreservate der westlichen Hemisph?re", "Tropischer Regenwald und feuchte H?nge", "Wichtiger Lebensraum f?r V?gel", "Frühes Beispiel f?r Naturschutz"],
-      hu: ["1776-ban védetté nyilvánították.", "Fontos madárélőhely.", "Tobago szigetének gerince.", "A helyszín neve: Main Ridge Erdőrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Protejată din 1776.", "Habitat important pentru păsări.", "Coloana vertebrală a insulei Tobago.", "Este cunoscut sub numele de Rezervația forestieră Main Ridge.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Protected since 1776.", "Important birding habitat.", "The backbone of Tobago island.", "Known by the name Main Ridge Forest Reserve.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Schutz seit 1776", "Auf Tobago gelegen", "Von Sir William Young geschützt", "Eines der ?ltesten Waldreservate der westlichen Hemisph?re", "Tropischer Regenwald und feuchte H?nge", "Frühes Beispiel f?r Naturschutz"],
+      hu: ["A helyszín neve: Main Ridge Erdőrezervátum.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Rezervația forestieră Main Ridge.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Main Ridge Forest Reserve.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -179,9 +179,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,75? N und 61,1? W", "Fluss in Nordosttrinidad", "Verbindet Wald, Felder und Feuchtgebiete", "Sammelt Regenwasser aus dem Umland", "Transportiert Sedimente", "Wichtiger Entw?sserungsraum", "Thema f?r Geographie K7"],
-      hu: ["Nem tévesztendő össze a déli Oropouche-csal.", "Fontos vízelvezető a régió számára.", "Mezőgazdasági területeken folyik keresztül.", "A helyszín neve: Oropouche-folyó (Észak).", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["A nu se confunda cu Oropouche de sud.", "Drenaj important pentru regiune.", "Curge prin zone agricole.", "Este cunoscut sub numele de Râul Oropouche (Nord).", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Not to be confused with the southern Oropouche.", "Important drainage for the region.", "Flows through agricultural areas.", "Known by the name Oropouche River (North).", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Oropouche-folyó (Észak).", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Râul Oropouche (Nord).", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Oropouche River (North).", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -205,9 +205,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,67? N und 61,75? W", "Teil des Bocas del Drag?n", "Vor der Nordwestküste Trinidads", "Felsige Küstenlinie", "Trockenere Vegetation als im Inselinneren", "Bekannt f?r den alten Leuchtturm", "Gut f?r Seev?gel und Küstenbeobachtung"],
-      hu: ["Száraz erdő ökoszisztéma.", "Történelmi romok és világítótorony.", "Sós vizű tó (Sulphur Bay).", "A helyszín neve: Chacachacare-sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Ecosistem de pădure uscată.", "Ruine istorice și far.", "Lac cu apă sărată (Golful Sulphur).", "Este cunoscut sub numele de Insula Chacachacare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Dry forest ecosystem.", "Historic ruins and lighthouse.", "Saltwater pond (Sulphur Bay).", "Known by the name Chacachacare Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Chacachacare-sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Insula Chacachacare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Chacachacare Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -231,9 +231,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,72? N und 61,1? W", "Berg im Osten Trinidads", "Prägt lokale T?ler und H?nge", "Lenkt Wasserabfluss und Bewuchs", "Teil der starken Reliefgliederung", "Wichtiger Orientierungspunkt in der Landschaft", "Thema f?r Geographie K7"],
-      hu: ["Prizgar-csúcsként is ismert.", "Kilátást nyújt a keleti partra.", "Egy kiterjedt erdőterület része.", "A helyszín neve: Morne Catherine.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Cunoscut și sub numele de Vârful Prizgar.", "Oferă vederi spre coasta de est.", "Parte a unei zone forestiere extinse.", "Este cunoscut sub numele de Morne Catherine.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Also known as Prizgar Peak.", "Offers views of the east coast.", "Part of an extensive forested area.", "Known by the name Morne Catherine.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Morne Catherine.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Morne Catherine.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Morne Catherine.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -257,9 +257,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,06? N und 61,85? W", "S?dwestküste Trinidads", "N?he zum Columbus Channel", "Geschützte Bucht mit ruhigerem Wasser", "Wichtiger Raum f?r Fischerei", "Str?mungen und Gezeiten gut sichtbar", "Nah zu Soldado Rock"],
-      hu: ["Történelmi partraszállási hely.", "Homokos strandok és kókuszpálmák.", "Kilátás a Kolumbusz-csatornára.", "A helyszín neve: Kolumbusz-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Loc de debarcare istoric.", "Plaje cu nisip și cocotieri.", "Vedere spre Canalul Columb.", "Este cunoscut sub numele de Golful Columb.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Historic landing site.", "Sandy beaches and coconut palms.", "Faces the Columbus Channel.", "Known by the name Columbus Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Kolumbusz-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful Columb.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Columbus Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -283,9 +283,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,67? N und 61,26? W", "S??wasserreservoir im Inselinneren", "Wasser speichernde Infrastruktur", "Wichtiger Beitrag zur Versorgung", "Bewachsene H?nge im Einzugsgebiet", "Lebensraum f?r V?gel am Ufer", "Beispiel f?r Wasserwirtschaft"],
-      hu: ["1936-ban épült.", "Fontos vízforrás.", "Népszerű horgász- és túrázóhely.", "A helyszín neve: Hollis-víztározó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Construit în 1936.", "Sursă importantă de apă.", "Zonă populară pentru pescuit și drumeții.", "Este cunoscut sub numele de Rezervorul Hollis.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Constructed in 1936.", "Important water source.", "Popular fishing and hiking area.", "Known by the name Hollis Reservoir.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Hollis-víztározó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Rezervorul Hollis.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Hollis Reservoir.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -309,9 +309,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,08? N und 61,16? W", "Wildschutzgebiet in S?dtrinidad", "H?gel- und Buschlandmosaik", "Schutzraum f?r Wildtiere", "Trockener als die Nordh?nge", "?bergang zwischen offenen Flächen und Wald", "Wichtig f?r Naturschutz"],
-      hu: ["Védelmet nyújt a változatos állatvilágnak, beleértve az ocelotot is.", "Fontos vízgyűjtő terület.", "Dombos terep.", "A helyszín neve: Trinity Hills Vadvédelmi Terület.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Protejează fauna diversă, inclusiv ocelotul.", "Bazin hidrografic important.", "Teren deluros.", "Este cunoscut sub numele de Sanctuarul de faună sălbatică Trinity Hills.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Protects diverse fauna, including ocelots.", "Important watershed area.", "Hilly terrain.", "Known by the name Trinity Hills Wildlife Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Trinity Hills Vadvédelmi Terület.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Sanctuarul de faună sălbatică Trinity Hills.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Trinity Hills Wildlife Sanctuary.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -335,9 +335,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,22? N und 61,5? W", "Fluss in S?dtrinidad", "Verbindet Landflächen mit dem Küstenraum", "M?andert in flacher Landschaft", "Prägt B?den und Feuchtflächen", "Teil des Einzugsgebiets zum Golf von Paria", "Thema f?r Geographie K7"],
-      hu: ["A Paria-öbölbe ömlik.", "Fontos a síkság vízelvezetéséhez.", "Támogatja a mangrove ökoszisztémákat.", "A helyszín neve: Godineau-folyó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Se varsă în Golful Paria.", "Important pentru drenajul câmpiei.", "Susține ecosistemele de mangrove.", "Este cunoscut sub numele de Râul Godineau.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Empties into the Gulf of Paria.", "Important for lowland drainage.", "Supports mangrove ecosystems.", "Known by the name Godineau River.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Godineau-folyó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Râul Godineau.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Godineau River.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -361,9 +361,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,22? N und 61,55? W", "Savannenlandschaft im S?dwesten Trinidads", "Offene Gras- und Feuchtflächen", "Starker saisonaler Wandel in der Regenzeit", "Lebensraum f?r V?gel und Kleintiere", "Weniger dicht bewaldet als Nachbarzonen", "Beispiel f?r Vegetationszonen"],
-      hu: ["Tudományos szempontból érdekes terület.", "Ritka növényfajok.", "Veszélyeztetett élőhely.", "A helyszín neve: Aripero-szavannák.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Zonă de interes științific.", "Specii rare de plante.", "Habitat pe cale de dispariție.", "Este cunoscut sub numele de Savanele Aripero.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Scientific area of interest.", "Rare plant species.", "Endangered habitat.", "Known by the name Aripero Savannas.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Aripero-szavannák.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Savanele Aripero.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Aripero Savannas.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -387,9 +387,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,68? N und 61,7? W", "Bucht im Nordwesten Trinidads", "Geschützter Küstenraum", "Franz?sisch geprägter Ortsname", "Felsküste und ruhigeres Wasser", "Geeignet f?r Boots- und Küstenbeobachtung", "Teil des Küstenraums bei Chaguaramas"],
-      hu: ["A Bocas-szigetek része.", "Népszerű a vitorlázók körében.", "Tiszta víz és sziklás part.", "A helyszín neve: La Vache-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Parte a insulelor Bocas.", "Popular printre navigatori.", "Apă limpede și coastă stâncoasă.", "Este cunoscut sub numele de Golful La Vache.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Part of the Bocas Islands.", "Popular with sailors.", "Clear waters and rocky coast.", "Known by the name La Vache Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: La Vache-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful La Vache.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name La Vache Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -413,9 +413,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,5? N und 61,22? W", "Berg im zentral?stlichen Trinidad", "Mit den Tamana Caves verbunden", "Bekannt f?r große Fledermauskolonien", "Kalk- und Karstlandschaft", "Prägt Abfluss und H?nge", "Beispiel f?r Geographie und Biologie K7"],
-      hu: ["Trinidad legnagyobb denevérkolóniája.", "Több millió denevérnek ad otthont.", "Látványos denevérkirepülés alkonyatkor.", "A helyszín neve: Tamana-hegy.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Cea mai mare colonie de lilieci din Trinidad.", "Găzduiește milioane de lilieci.", "Ieșire spectaculoasă a liliecilor la amurg.", "Este cunoscut sub numele de Muntele Tamana.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Largest bat colony in Trinidad.", "Home to millions of bats.", "Spectacular dusk emergence of bats.", "Known by the name Tamana Mountain.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Tamana-hegy.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Muntele Tamana.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Tamana Mountain.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -439,9 +439,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,06? N und 61,92? W", "?u?erste S?dwestspitze Trinidads", "Nahe zu Venezuela", "Teil des Columbus-Channel-Raums", "Küstenlandspitze mit Wind und Str?mung", "Wichtig f?r Fischerei und Orientierung", "Grenznaher Küstenraum"],
-      hu: ["Mindössze 11 km-re Venezuelától.", "Kókuszpálma-ligetek jellemzik.", "Fontos halászati pont.", "A helyszín neve: Icacos-fok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["La doar 11 km de Venezuela.", "Caracterizat de plantații de cocotieri.", "Punct important pentru pescuit.", "Este cunoscut sub numele de Punctul Icacos.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Only 11 km from Venezuela.", "Characterized by coconut groves.", "Important point for fishing.", "Known by the name Icacos Point.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Icacos-fok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Punctul Icacos.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Icacos Point.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -465,9 +465,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,6? N und 61,07? W", "S??wassergew?sser im Osten Trinidads", "Uferzone mit Vegetation", "Lebensraum f?r V?gel und Amphibien", "Wertvoll f?r Insekten und Kleintiere", "Zeigt lokale Nutzung und Naturraum", "Beispiel f?r Biologie K7"],
-      hu: ["Fontos vízi madár élőhely.", "Mocsár és lagúna keveréke.", "Támogatja a változatos vízi állatvilágot.", "A helyszín neve: Fishing Pond.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Habitat important pentru păsările acvatice.", "Amestec de mlaștină și lagună.", "Susține o faună acvatică diversă.", "Este cunoscut sub numele de Balta de pescuit.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Important habitat for water birds.", "Mix of swamp and lagoon.", "Supports diverse aquatic fauna.", "Known by the name Fishing Pond.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Fishing Pond.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Balta de pescuit.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Fishing Pond.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -491,9 +491,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 11,35? N und 60,52? W", "Inselgruppe vor Tobago", "Atlantische Brandung prägt die Küste", "Wichtige Brutpl?tze f?r Seev?gel", "Kleine, felsige Inseln", "?kologisch empfindlicher Lebensraum", "Beispiel f?r Inselgruppen im Meer"],
-      hu: ["Fontos tengeri madár fészkelőhely.", "Drámai sziklaképződmények.", "Erős tengeri áramlatok veszik körül a szigeteket.", "A helyszín neve: St. Giles-szigetek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Loc de cuibărit important pentru păsările marine.", "Formațiuni stâncoase dramatice.", "Curenți marini puternici înconjoară insulele.", "Este cunoscut sub numele de Insulele St. Giles.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Major seabird nesting site.", "Dramatic rock formations.", "Strong sea currents surround the islands.", "Known by the name St. Giles Islands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: St. Giles-szigetek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Insulele St. Giles.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name St. Giles Islands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -517,9 +517,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,48? N und 61,42? W", "Fluss im zentralen Trinidad", "Verbindet Wald- und Agrarräume", "Prägt das Tiefland mit Sedimenten", "Schafft Feuchtbereiche entlang des Laufs", "Wichtiger Wasserraum im Inselinneren", "Beispiel f?r Natur und Nutzung"],
-      hu: ["Mezőgazdasági területeken folyik keresztül.", "Alsó szakaszát az árapály befolyásolja.", "Fontos a helyi vízelvezetés szempontjából.", "A helyszín neve: Caparo-folyó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Curge prin zone agricole.", "Influențat de maree în cursul inferior.", "Important pentru drenajul local.", "Este cunoscut sub numele de Râul Caparo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Flows through agricultural areas.", "Affected by tides in its lower reaches.", "Important for local drainage.", "Known by the name Caparo River.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Caparo-folyó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Râul Caparo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Caparo River.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -543,9 +543,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,66? N und 61,6? W", "Kleine Insel vor Trinidad", "Teil des nordwestlichen Offshore-Raums", "Stark von Brandung und Wind geprägt", "Typischer Inselraum im Bocas-Umfeld", "Geographisch leicht zu ?bersehen", "Beispiel f?r Küstenwirkung kleiner Inseln"],
-      hu: ["Történelmileg karanténállomásként használták.", "Száraz erdő növényzet.", "Magánlakások.", "A helyszín neve: Cronstadt-sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Folosită istoric ca stație de carantină.", "Vegetație de pădure uscată.", "Reședințe private.", "Este cunoscut sub numele de Insula Cronstadt.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Historically used as a quarantine station.", "Dry forest vegetation.", "Private residences.", "Known by the name Cronstadt Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Cronstadt-sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Insula Cronstadt.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Cronstadt Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -569,9 +569,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,08? N und 61,66? W", "S?dwestküste Trinidads", "Ruhigerer Küstenabschnitt", "Wasserraum f?r kleine Boote", "Nahe dem Ort Erin", "Sand- und Uferzonen prägen das Bild", "Beispiel f?r Küstennutzung"],
-      hu: ["Fontos halászati terület.", "Homokos strandok.", "Védett az atlanti hullámoktól.", "A helyszín neve: Erin-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Zonă importantă de pescuit.", "Plaje cu nisip.", "Protejat de valurile Atlanticului.", "Este cunoscut sub numele de Golful Erin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Important fishing area.", "Sandy beaches.", "Sheltered from the Atlantic swell.", "Known by the name Erin Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Erin-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful Erin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Erin Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -595,9 +595,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,08? N und 61,28? W", "Fluss im S?den Trinidads", "Verläuft Richtung Atlantikküste", "Prägt Landwirtschaft und Feuchtflächen", "Teil des Moruga-Raums", "Sammelt Regenwasser aus dem Umland", "Wichtiger Küstenfluss"],
-      hu: ["A Kolumbusz-csatornába torkollik.", "Támogatja a helyi halászközösségeket.", "A Déli-hegység egyes részeit vezeti le.", "A helyszín neve: Moruga-folyó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Se varsă în Canalul Columb.", "Susține comunitățile locale de pescari.", "Drenează părți din Southern Range.", "Este cunoscut sub numele de Râul Moruga.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Empties into the Columbus Channel.", "Supports local fishing communities.", "Drains parts of the Southern Range.", "Known by the name Moruga River.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Moruga-folyó.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Râul Moruga.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Moruga River.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -621,9 +621,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,79? N und 61,1? W", "Im Northern Range von Trinidad", "Wasserfall an der Paria-Region", "Dicht bewachsene, feuchte H?nge", "Steiles Relief prägt den Zugang", "Typischer Regenwald-Ort", "Gutes Beispiel f?r Wasser und Vegetation"],
-      hu: ["Part menti túraútvonalon érhető el.", "A Paria-öbölbe ömlik.", "Érintetlen esőerdő veszi körül.", "A helyszín neve: Paria-vízesés.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Accesibil printr-o potecă de coastă.", "Se varsă în Golful Paria.", "Înconjurat de pădure tropicală virgină.", "Este cunoscut sub numele de Cascada Paria.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Reached via a coastal hiking trail.", "Flows into Paria Bay.", "Surrounded by pristine rainforest.", "Known by the name Paria Falls.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Paria-vízesés.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Cascada Paria.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Paria Falls.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -647,9 +647,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,2? N und 61,65? W", "Westküste Trinidads", "Zum Golf von Paria geöffnet", "Geschützter Wasserraum", "Wichtig f?r Fischerei und Anlandung", "Brechende Wellenenergie an der Küste", "Nahe dem Ort Guapo"],
-      hu: ["Az olajipar partvidéke.", "Kilátás az offshore platformokra.", "Az ipar és a természet keveréke.", "A helyszín neve: Guapo-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Coasta industriei petroliere.", "Vedere spre platformele offshore.", "Amestec de industrie și natură.", "Este cunoscut sub numele de Golful Guapo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Coastline of the oil industry.", "Views of offshore platforms.", "Mix of industry and nature.", "Known by the name Guapo Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Guapo-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful Guapo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Guapo Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -673,9 +673,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,37? N und 61,26? W", "Stauanlage im Zentrum Trinidads", "Speichert Wasser f?r den Bedarf", "Teil der regionalen Wasserwirtschaft", "Liegt in einem H?gelland-Einzugsgebiet", "Erzeugt einen neuen Uferraum", "Beispiel f?r technische Landschaft"],
-      hu: ["Az ország egyik legnagyobb víztározója.", "Erdő és mezőgazdasági területek veszik körül.", "Trinidad nagy részét ellátja vízzel.", "A helyszín neve: Navet-gát.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Unul dintre cele mai mari rezervoare din țară.", "Înconjurat de pădure și terenuri agricole.", "Furnizează apă unei mari părți din Trinidad.", "Este cunoscut sub numele de Barajul Navet.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["One of the country's largest reservoirs.", "Surrounded by forest and agricultural land.", "Supplies water to a large part of Trinidad.", "Known by the name Navet Dam.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Navet-gát.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Barajul Navet.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Navet Dam.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -699,9 +699,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,82? N und 61,02? W", "Ostseite Trinidads", "Windoffene Atlantikküste", "Franz?sischer Ortsname", "Stärker exponiert als Westküstenbuchten", "Brandung prägt den Küstenraum", "Beispiel f?r eine Windküste"],
-      hu: ["Jó szörfözési feltételeiről ismert.", "Sziklás földnyelvek és homokos strand.", "Félreeső tengerparti falu.", "A helyszín neve: Sans Souci-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Cunoscut pentru condiții bune de surf.", "Promontorii stâncoase și plajă cu nisip.", "Sat de coastă izolat.", "Este cunoscut sub numele de Golful Sans Souci.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Known for good surfing conditions.", "Rocky headlands and sandy beach.", "Remote coastal village.", "Known by the name Sans Souci Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Sans Souci-öböl.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Golful Sans Souci.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Sans Souci Bay.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -725,9 +725,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,95? N und 60,75? W", "Meeresraum zwischen Trinidad und Tobago", "Wichtiger Navigationskorridor", "Offene Wasserverbindung im Inselstaat", "Von Str?mungen beeinflusst", "Bedeutung f?r Seewege und Verkehr", "Beispiel f?r eine maritime Passage"],
-      hu: ["Körülbelül 30 km széles.", "Lehetnek zord tengeri viszonyok.", "Fontos hajózási útvonal.", "A helyszín neve: Galleons-átjáró.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Aproximativ 30 km lățime.", "Poate avea condiții maritime agitate.", "Ruta de navigație importantă.", "Este cunoscut sub numele de Pasajul Galleons.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Approximately 30 km wide.", "Can have rough sea conditions.", "Important shipping lane.", "Known by the name Galleons Passage.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Galleons-átjáró.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Pasajul Galleons.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Galleons Passage.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -751,9 +751,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 10,77? N und 61,55? W", "Kleine Insel im Nordwesten Trinidads", "Abgelegener Offshore-Standort", "Franz?sisch geprägter Name", "Brandung und Fels prägen das Bild", "Wichtiger Raum f?r Seev?gel", "Beispiel f?r empfindliche Insel?kologie"],
-      hu: ["Pelikánok és más tengeri madarak védett területe.", "Lakatlan.", "Franciául 'vízesést' jelent.", "A helyszín neve: Saut d'Eau-sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Sanctuar pentru pelicani și alte păsări marine.", "Nelocuită.", "Înseamnă 'cascadă' în franceză.", "Este cunoscut sub numele de Insula Saut d'Eau.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Sanctuary for pelicans and other seabirds.", "Uninhabited.", "Means 'waterfall' in French.", "Known by the name Saut d'Eau Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Saut d'Eau-sziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Insula Saut d'Eau.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Saut d'Eau Island.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -777,9 +777,9 @@ export const poiExtraTrinidadNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Lage bei 11,29? N und 60,57? W", "Waldraum auf Tobago", "Feuchtes, schattiges Mikroklima", "Lebensraum f?r V?gel und Insekten", "Teil der tobagonischen Vegetation", "Wichtiger kleiner Naturraum", "Geeignet f?r Wald?kologie"],
-      hu: ["Ökoturisztikai kezdeményezés.", "Védi a Main Ridge egy részét.", "Vezetett természetjáró túrák.", "A helyszín neve: Égi Parkerdő.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Inițiativă de ecoturism.", "Protejează o parte din Main Ridge.", "Drumeții ghidate în natură.", "Este cunoscut sub numele de Pădurea Parcului Celest.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Ecotourism initiative.", "Protects a section of the Main Ridge.", "Guided nature walks.", "Known by the name Celestial Park Forest.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      hu: ["A helyszín neve: Égi Parkerdő.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Pădurea Parcului Celest.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Celestial Park Forest.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   }
 ]

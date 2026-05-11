@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "st-josephs-cathedral-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die römisch-katholische Kathedrale St. Joseph in Banjul ist ein architektonisches Juwel und das geistliche Zentrum des Katholizismus in Gambia. Das Gebäude, das im gotischen Revival-Stil errichtet wurde, beeindruckt durch seine markante Fassade aus lokalem Lateritstein, der im Laufe der Jahrzehnte eine tiefe, rötliche Patina angesetzt hat. Historisch gesehen steht die Kathedrale für die Beständigkeit der christlichen Mission in einem Land, das seit dem 19. Jahrhundert stark vom Islam geprägt ist. Die Innenausstattung ist schlicht, aber elegant, mit hohen Decken und Buntglasfenstern, die das tropische Licht in gedämpfte Farben tauchen. Während der Kolonialzeit war die Kathedrale ein wichtiger Ort für die Bathurst-Elite, heute ist sie ein Ort für alle Gesellschaftsschichten. Sie beherbergt das Grab des ersten einheimischen Bischofs und ist ein Symbol für die religiöse Harmonie des Landes. Als Sitz der Diözese von Banjul spielt sie eine zentrale Rolle bei sozialen Projekten und im Bildungswesen der Region.",
+        "hu": "A banjuli Szent József római katolikus székesegyház Gambia egyik legfontosabb szakrális épülete és a helyi katolicizmus szíve. Az épület a gótikus újjászületés stílusjegyeit hordozza, és különlegessége a helyi vörös laterit kő használata, amely az évtizedek során jellegzetes patinát kapott. Történelmileg a katedrális a keresztény missziók állhatatosságát jelképezi egy olyan országban, ahol az iszlám a domináns vallás. A belső tér letisztult eleganciát sugároz: a magas boltívek és a színes üvegablakok különleges hangulatot árasztanak a trópusi napsütésben. A gyarmati időszakban a katedrális a város elitjének fontos gyülekezőhelye volt, ma azonban a társadalom minden rétegét befogadja. Itt nyugszik az ország első helyi püspöke, és az épület a vallások közötti békés együttélés egyik legszebb szimbóluma a fővárosban. Fontos szerepet tölt be a közösségi életben és az oktatási kezdeményezésekben is.",
+        "ro": "Catedrala Romano-Catolică Sfântul Iosif din Banjul este o bijuterie arhitecturală și centrul spiritual al catolicismului în Gambia. Clădirea, construită în stil neogotic, impresionează prin fațada sa distinctivă din piatră de laterit local, care a dobândit în timp o patină roșiatică profundă. Din punct de vedere istoric, catedrala reprezintă persistența misiunilor creștine într-o țară marcată puternic de islam încă din secolul al XIX-lea. Interiorul este simplu, dar elegant, cu tavane înalte și vitralii care filtrează lumina tropicală în culori difuze. În perioada colonială, catedrala era un loc important pentru elita din Bathurst, însă astăzi este un spațiu deschis pentru toate clasele sociale. Aceasta adăpostește mormântul primului episcop local și rămâne un simbol al armoniei religioase din țară. Ca sediu al Diocezei de Banjul, instituția joacă un rol central în proiectele sociale și în sistemul educațional din întreaga regiune.",
+        "en": "St. Joseph's Roman Catholic Cathedral in Banjul is a cornerstone of Gambian ecclesiastical architecture and the primary seat of the Catholic Diocese. Constructed using locally quarried red laterite stone, the building showcases a robust Gothic Revival style adapted to the West African climate. Historically, the cathedral has stood as a beacon of the Christian faith in a predominantly Muslim nation, reflecting the long history of religious tolerance in the region. The interior features soaring vaulted ceilings and intricately designed stained glass windows that illuminate the nave with vibrant hues. It served as a social and religious anchor for the coastal community during the colonial Bathurst era and continues to be a vital center for worship and social services today. The cathedral is also the final resting place of notable religious leaders who shaped the country's spiritual landscape, making it a site of both historical pilgrimage and architectural study in the capital."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hauptsitz der römisch-katholischen Diözese von Banjul.",
+          "Erbaut im neugotischen Stil unter Verwendung von Lateritstein.",
+          "Beherbergt das Grab des ersten gambischen Bischofs.",
+          "Wichtiges Zentrum für das christliche Bildungswesen im Land.",
+          "Symbol für die interreligiöse Toleranz in Gambia.",
+          "Liegt im historischen Kern der Hauptstadt Banjul."
+        ],
+        "hu": [
+          "A Banjuli Római Katolikus Egyházmegye székháza.",
+          "Neogótikus stílusban épült, helyi laterit kő felhasználásával.",
+          "Itt található az ország első gambiai püspökének sírja.",
+          "A keresztény oktatási rendszer fontos központja.",
+          "A vallási tolerancia jelképe a muszlim többségű országban.",
+          "Banjul történelmi belvárosában helyezkedik el."
+        ],
+        "ro": [
+          "Sediul principal al Diocezei Romano-Catolice de Banjul.",
+          "Construită în stil neogotic folosind piatră de laterit locală.",
+          "Adăpostește mormântul primului episcop gambian.",
+          "Centru vital pentru sistemul de învățământ creștin din țară.",
+          "Simbol al toleranței interreligioase în Gambia.",
+          "Situată în nucleul istoric al capitalei Banjul."
+        ],
+        "en": [
+          "The primary seat of the Roman Catholic Diocese of Banjul.",
+          "Built in a Gothic Revival style with indigenous laterite stone.",
+          "Contains the final resting place of the first Gambian bishop.",
+          "A major hub for Christian-led educational services in the nation.",
+          "Stands as a symbol of long-standing interfaith harmony.",
+          "Located in the historic administrative quarter of Banjul."
+        ]
+      }
+    },
+    {
+      "id": "albert-market-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Albert Market in Banjul ist das wirtschaftliche Herz Gambias und ein faszinierendes Beispiel für einen lebendigen westafrikanischen Handelsplatz. Benannt nach Prinz Albert, dem Ehemann von Königin Victoria, wurde der Markt in der Mitte des 19. Jahrhunderts gegründet. Er erstreckt sich über mehrere Häuserblocks in der Nähe des Hafens und ist ein Labyrinth aus engen Gängen, in denen alles von frischen Lebensmitteln bis hin zu kunsthandwerklichen Erzeugnissen verkauft wird. Historisch gesehen spiegelt der Markt die Entwicklung Banjuls von einem kleinen Außenposten zu einer geschäftigen Handelsstadt wider. Die Architektur des Marktes ist eine Mischung aus kolonialen Steinbauten und provisorischen Marktständen. Besonders bekannt ist der Bereich für Kunsthandwerk, wo lokale Schnitzer, Weber und Färber ihre Waren anbieten. Der Markt ist nicht nur ein Ort des Handels, sondern auch ein sozialer Treffpunkt, an dem die verschiedenen ethnischen Gruppen des Landes zusammenkommen, was ihn zu einem Schmelztiegel der Kulturen und Traditionen macht. Er bietet einen tiefen Einblick in den Alltag und die Handwerkskunst der Region.",
+        "hu": "A banjuli Albert Market Gambia gazdasági lüktetésének központja és a nyugat-afrikai kereskedelmi kultúra egyik legélénkebb példája. A piacot Viktória királynő férjéről, Albert hercegről nevezték el, és az 1800-as évek közepén alapították. A kikötő közelében elterülő hatalmas terület egy labirintusszerű hálózat, ahol a friss élelmiszerektől kezdve a kézműves termékekig minden megtalálható. Történelmileg a piac Banjul fejlődésének tükre: jól mutatja, hogyan vált a kis gyarmati település nyüzsgő kereskedelmi várossá. Az építészet a régi gyarmati kőépületek és a modern, rögtönzött standok keveréke. Különösen híres a kézműves részlege, ahol fafaragók, takácsok és textilfestők kínálják portékáikat. Az Albert Market nem csupán a vásárlás helyszíne, hanem egy olyan társadalmi találkozópont is, ahol az ország összes etnikai csoportja megfordul, így a kultúrák és hagyományok valódi olvasztótégelye. Hiteles bepillantást enged a helyiek mindennapi életébe.",
+        "ro": "Piața Albert (Albert Market) din Banjul este inima economică a Gambiei și un exemplu fascinant de spațiu comercial vest-african vibrant. Numită după Prințul Albert, soțul Reginei Victoria, piața a fost înființată la jumătatea secolului al XIX-lea. Aceasta se întinde pe mai multe blocuri în apropierea portului și este un labirint de alei înguste unde se vinde orice, de la alimente proaspete la produse de artizanat complex. Din punct de vedere istoric, piața reflectă evoluția orașului Banjul de la un mic avanpost la un oraș comercial agitat. Arhitectura pieței este un mix între clădiri coloniale din piatră și tarabe improvizate. Zona de artizanat este deosebit de cunoscută, aici artizanii locali expunând sculpturi în lemn, țesături și textile vopsite tradițional. Piața nu este doar un loc pentru schimburi comerciale, ci și un punct de întâlnire socială unde diversele grupuri etnice ale țării interacționează, transformând-o într-un creuzet al culturilor și tradițiilor locale.",
+        "en": "Albert Market in Banjul is the pulsating economic center of The Gambia and a quintessential West African trading hub. Established in the mid-19th century and named after Prince Albert, the consort of Queen Victoria, the market has expanded to cover several blocks near the city's waterfront. It serves as a labyrinthine network of stalls where vendors trade everything from exotic spices and fresh Atlantic fish to intricately carved wooden masks and vibrant batik fabrics. Historically, the market illustrates the transformation of Banjul from a quiet colonial settlement into a bustling maritime port. The architecture is a patchwork of permanent stone structures from the colonial era and temporary wooden stalls. The tourist craft market within its boundaries is particularly famous for showcasing the skills of local silversmiths and weavers. More than just a marketplace, Albert Market is a social crossroad where the linguistic and cultural diversity of The Gambia is on full display, making it a vital landmark for understanding the nation's daily life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet in den 1850er Jahren, benannt nach Prinz Albert.",
+          "Besteht aus drei Hauptbereichen: Lebensmittel, Textilien und Handwerk.",
+          "Zentraler Handelsplatz für frischen Fisch direkt vom Hafen.",
+          "Berühmt für authentisches gambisches Kunsthandwerk und Batik.",
+          "Wichtigster sozialer und ökonomischer Treffpunkt der Hauptstadt.",
+          "Ein Labyrinth aus kolonialen Gebäuden und modernen Ständen."
+        ],
+        "hu": [
+          "Az 1850-es években alapították, Albert hercegről nevezték el.",
+          "Három fő részből áll: élelmiszer, textil és kézműves áruk.",
+          "A friss halak központi kereskedelmi helyszíne a kikötő mellett.",
+          "Híres az autentikus gambiai fafaragásokról és batikolt textilekről.",
+          "A főváros legfontosabb társadalmi és gazdasági csomópontja.",
+          "Gyarmati épületek és modern standok labirintusa alkotja."
+        ],
+        "ro": [
+          "Fondată în anii 1850 și numită după Prințul Albert.",
+          "Împărțită în trei secțiuni: alimente, textile și artizanat.",
+          "Punct central de vânzare pentru peștele proaspăt din port.",
+          "Renumită pentru sculpturile în lemn și textilele batik autentice.",
+          "Principalul loc de întâlnire socială și economică din Banjul.",
+          "Un labirint compus din structuri coloniale și tarabe moderne."
+        ],
+        "en": [
+          "Established in the 1850s and named after Prince Albert of Saxe-Coburg.",
+          "Features distinct sections for produce, clothing, and traditional crafts.",
+          "The primary destination for fresh seafood arriving at the capital's port.",
+          "Widely known for high-quality Gambian wood carvings and textiles.",
+          "Serves as the socioeconomic heart of the capital city.",
+          "Combines historic colonial masonry with vibrant, informal trade spaces."
+        ]
+      }
+    },
+    {
+      "id": "state-house-gambia-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das State House in Banjul ist der offizielle Amtssitz und die Residenz des Präsidenten der Republik Gambia. Das imposante weiße Gebäude befindet sich direkt am Ufer des Gambia-Flusses und blickt auf eine lange Geschichte zurück, die bis in die britische Kolonialzeit reicht. Ursprünglich als 'Government House' bekannt, diente es als Sitz der britischen Gouverneure, bevor es nach der Unabhängigkeit 1965 zur Residenz des gambischen Staatsoberhauptes wurde. Die Architektur des State House ist eine Mischung aus kolonialem Stil und modernen Erweiterungen, geprägt von weitläufigen Gärten und einer streng bewachten Fassade. Historisch gesehen war das Gebäude Zeuge der wichtigsten politischen Weichenstellungen des Landes, von der Unabhängigkeitserklärung bis hin zu Regierungswechseln. Es symbolisiert die Exekutivgewalt und die Souveränität Gambias. Aufgrund seiner hohen Sicherheitsrelevanz ist das Gebäude für die Öffentlichkeit nicht zugänglich, prägt aber durch seine Lage am Ende des Independence Drive das herrschaftliche Stadtbild der Hauptstadt maßgeblich. Es ist ein Ort von höchster protokollarischer Bedeutung.",
+        "hu": "A banjuli State House a Gambiai Köztársaság elnökének hivatalos hivatala és rezidenciája. Az impozáns fehér épület közvetlenül a Gambia-folyó partján fekszik, és története a brit gyarmati időkig nyúlik vissza. Eredetileg 'Government House' néven volt ismert, és a brit kormányzók székhelyeként szolgált, mielőtt az 1965-ös függetlenedés után a gambiai államfő lakhelyévé vált volna. Az épület építészete a klasszikus gyarmati stílus és a modern bővítések ötvözete, amelyet kiterjedt kertek és szigorúan őrzött homlokzat jellemez. Történelmileg a State House az ország legfontosabb politikai döntéseinek helyszíne volt, a függetlenség kikiáltásától kezdve a kormányváltásokig. A végrehajtó hatalmat és Gambia szuverenitását szimbolizálja. Magas biztonsági besorolása miatt az épület a nagyközönség számára nem látogatható, de az Independence Drive végén található elhelyezkedése meghatározza a főváros kormányzati negyedének látképét.",
+        "ro": "State House din Banjul este sediul oficial și reședința președintelui Republicii Gambia. Impozanta clădire albă este situată direct pe malul râului Gambia și are o istorie îndelungată care datează din perioada colonială britanică. Cunoscută inițial sub numele de 'Government House', aceasta a servit drept sediu pentru guvernatorii britanici înainte de a deveni reședința șefului statului gambian după independența din 1965. Arhitectura State House este o fuziune între stilul colonial clasic și extinderi moderne, fiind caracterizată de grădini vaste și o fațadă strict păzită. Din punct de vedere istoric, clădirea a fost martora celor mai importante decizii politice ale țării, de la declarația de independență până la schimbările de regim. Simbolizează puterea executivă și suveranitatea Gambiei. Din cauza importanței sale strategice, accesul publicului este restricționat, însă locația sa la capătul Independence Drive domină peisajul administrativ al capitalei.",
+        "en": "State House in Banjul is the official workplace and residence of the President of the Republic of The Gambia. This imposing white edifice is situated prominently on the banks of the Gambia River and carries a legacy spanning back to the British colonial era. Originally designated as Government House, it housed the British governors who administered the territory until national independence was achieved in 1965. The architecture blends formal colonial aesthetics with modern adaptations, surrounded by expansive, manicured gardens and protected by high-security perimeters. Historically, State House has been the stage for the country's most significant political milestones, including diplomatic signings and the swearing-in of various heads of state. It stands as a potent symbol of Gambian executive authority and national sovereignty. While the interior is closed to the general public for security reasons, its silhouette at the terminus of Independence Drive remains a defining feature of the capital’s skyline and political landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Amtssitz und Wohnsitz des Präsidenten von Gambia.",
+          "Erbaut während der britischen Kolonialzeit (ehemals Government House).",
+          "Befindet sich am strategischen Ende des Independence Drive.",
+          "Umfasst weitläufige, gepflegte Gärten am Flussufer.",
+          "Zentraler Ort für Staatsbesuche und offizielle Zeremonien.",
+          "Symbol der nationalen Unabhängigkeit und Exekutivmacht."
+        ],
+        "hu": [
+          "Gambia elnökének hivatalos hivatala és lakhelye.",
+          "A brit gyarmati korszakban épült (korábban Government House).",
+          "Az Independence Drive stratégiai végpontján található.",
+          "Kiterjedt, gondozott kertek övezik a folyóparton.",
+          "Állami látogatások és hivatalos ceremóniák központi helyszíne.",
+          "A nemzeti függetlenség és a végrehajtó hatalom jelképe."
+        ],
+        "ro": [
+          "Sediul oficial și reședința Președintelui Gambiei.",
+          "Construită în epoca colonială (fostă Government House).",
+          "Situată la capătul strategic al bulevardului Independence Drive.",
+          "Înconjurată de grădini vaste și îngrijite pe malul râului.",
+          "Locul central pentru vizite de stat și ceremonii oficiale.",
+          "Simbol al independenței naționale și al puterii executive."
+        ],
+        "en": [
+          "The official office and residence of the Gambian Head of State.",
+          "Originally constructed as the seat of British governors.",
+          "Commanding location at the terminus of Independence Drive.",
+          "Features sprawling gardens and waterfront views of the river.",
+          "Primary venue for diplomatic receptions and cabinet meetings.",
+          "A key symbol of Gambian sovereignty and executive governance."
+        ]
+      }
+    },
+    {
+      "id": "national-museum-gambia-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das National Museum of The Gambia in Banjul ist die wichtigste kulturelle Institution des Landes und widmet sich der Bewahrung der reichen Geschichte und Ethnographie Gambias. Untergebracht in einem ehemaligen Kolonialgebäude, das einst als Club für britische Offiziere diente, eröffnete das Museum 1985 seine Pforten. Die Ausstellungen erstrecken sich über drei Etagen und bieten einen chronologischen Überblick von der prähistorischen Zeit bis zur Gegenwart. Besonders hervorzuheben sind die Sammlungen zu den Steinkreisen von Wassu, dem transatlantischen Sklavenhandel und den verschiedenen ethnischen Gruppen wie den Mandinka, Wolof und Fula. Historisch gesehen war die Gründung des Museums ein entscheidender Schritt zur Festigung der nationalen Identität nach der Unabhängigkeit. Es beherbergt zudem wichtige archäologische Funde, traditionelle Musikinstrumente und Fotografien aus der Kolonialzeit. Das Museum fungiert nicht nur als Ausstellungsort, sondern auch als Forschungszentrum für gambische Kultur und Geschichte. Es ist ein unverzichtbarer Ort für Besucher, die die tiefen historischen Wurzeln und die kulturelle Vielfalt dieses westafrikanischen Landes verstehen wollen. Es bietet einen umfassenden Bildungskontext für die gesamte Region.",
+        "hu": "A banjuli Gambiai Nemzeti Múzeum az ország legfontosabb kulturális intézménye, amely Gambia gazdag történelmének és néprajzának megőrzésére hivatott. Az intézmény egy egykori gyarmati épületben kapott helyet, amely korábban brit tisztek klubjaként szolgált, és 1985-ben nyitotta meg kapuit a nagyközönség előtt. A kiállítások három szinten mutatják be az ország történetét a prehisztorikus kortól egészen napjainkig. Kiemelt figyelmet kapnak a wassu-i kőkörök, a transzatlanti rabszolga-kereskedelem, valamint a különböző etnikai csoportok – mint a mandinka, volof és fula – hagyományai. Történelmileg a múzeum megalapítása döntő lépés volt a nemzeti identitás megerősítésében a függetlenség után. Az épület fontos régészeti leleteknek, hagyományos hangszereknek és a gyarmati korszakból származó fényképeknek ad otthont. A múzeum nemcsak kiállítótér, hanem kutatóközpont is, amely a gambiai kultúra és történelem mélyebb megismerését szolgálja. Elengedhetetlen helyszín mindazoknak, akik meg akarják érteni Nyugat-Afrika ezen részének történelmi gyökereit és kulturális sokszínűségét.",
+        "ro": "Muzeul Național al Gambiei din Banjul este cea mai importantă instituție culturală a țării, dedicată conservării istoriei bogate și a etnografiei locale. Găzduit într-o fostă clădire colonială care a servit inițial drept club pentru ofițerii britanici, muzeul și-a deschis porțile în 1985. Expozițiile sunt dispuse pe trei etaje și oferă o privire cronologică asupra evoluției regiunii, din preistorie până în prezent. Printre punctele forte se numără colecțiile despre cercurile de piatră de la Wassu, comerțul transatlantic cu sclavi și tradițiile diverselor grupuri etnice, precum Mandinka, Wolof și Fula. Din punct de vedere istoric, înființarea muzeului a fost un pas esențial în consolidarea identității naționale după obținerea independenței. Acesta adăpostește artefacte arheologice valoroase, instrumente muzicale tradiționale și fotografii de arhivă din epoca colonială. Muzeul nu este doar un spațiu expozițional, ci și un centru de cercetare pentru cultura și istoria gambiană, fiind un punct de referință pentru vizitatorii care doresc să înțeleagă rădăcinile istorice profunde ale acestei națiuni vest-africane.",
+        "en": "The National Museum of The Gambia, located in the heart of Banjul, is the country’s premier institution for the preservation of its diverse historical and ethnographic heritage. Housed in a historic colonial building that formerly functioned as a social club for British officials, the museum was officially inaugurated in 1985. Its extensive galleries are spread across three levels, providing a comprehensive chronological journey from pre-colonial archaeological findings to contemporary political history. Key exhibits focus on the ancient Senegambian stone circles, the harrowing era of the transatlantic slave trade, and the complex social structures of ethnic groups such as the Mandinka, Wolof, and Jola. Historically, the museum’s creation was a cornerstone of the post-independence movement to reclaim and celebrate indigenous Gambian identity. It serves as a repository for sacred masks, traditional musical instruments like the kora, and rare archival photographs from the Bathurst era. As both an educational center and a cultural sanctuary, the museum offers indispensable insights into the cultural synthesis that defines modern-day Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Offiziell eröffnet im Jahr 1985 in einem Kolonialbau.",
+          "Beherbergt über 3.000 historische und ethnographische Artefakte.",
+          "Zeigt detaillierte Exponate zu den Megalith-Steinkreisen.",
+          "Dokumentiert die Geschichte des Sklavenhandels am Gambia-Fluss.",
+          "Sitz des National Centers for Arts and Culture (NCAC).",
+          "Wichtigste Bildungszentrum für gambische Landeskunde."
+        ],
+        "hu": [
+          "Hivatalosan 1985-ben nyílt meg egy gyarmati épületben.",
+          "Több mint 3000 történelmi és néprajzi tárgyat őriz.",
+          "Részletes kiállításokat mutat be a megalitikus kőkörökről.",
+          "Dokumentálja a Gambia-folyó rabszolga-kereskedelmi múltját.",
+          "A Nemzeti Művészeti és Kulturális Központ (NCAC) székhelye.",
+          "Az ország legfontosabb néprajzi és történelmi oktatóközpontja."
+        ],
+        "ro": [
+          "Inaugurat oficial în 1985 într-o clădire de epocă.",
+          "Găzduiește peste 3.000 de artefacte istorice și etnografice.",
+          "Prezintă exponate detaliate despre cercurile megalitice.",
+          "Documentează istoria sclaviei pe cursul râului Gambia.",
+          "Sediul Centrului Național pentru Arte și Cultură (NCAC).",
+          "Principalul centru educațional pentru istoria națională."
+        ],
+        "en": [
+          "Formally opened in 1985 within a former British officers' club.",
+          "Houses a collection of over 3,000 ethnographic artifacts.",
+          "Features major displays on the Senegambian stone circles.",
+          "Provides critical documentation on the regional slave trade.",
+          "Headquarters of the National Centre for Arts and Culture.",
+          "The most significant repository of Gambian social history."
+        ]
+      }
+    },
+    {
+      "id": "july-22-square-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der July 22nd Square (heute oft in MacCarthy Square umbenannt) ist der zentrale öffentliche Platz in Banjul und ein Ort von großer historischer Symbolkraft. Er wurde während der britischen Kolonialzeit angelegt und hieß ursprünglich MacCarthy Square, benannt nach dem Gouverneur Sir Charles MacCarthy. Nach dem Militärputsch von 1994 wurde er in July 22nd Square umbenannt, um den Tag der Machtübernahme durch Yahya Jammeh zu würdigen. Der Platz ist von bedeutenden Regierungsgebäuden wie dem Parlamentsgebäude und dem State House umgeben. Er dient als Schauplatz für nationale Paraden, politische Kundgebungen und religiöse Versammlungen. Die Architektur des Platzes ist geprägt von Denkmälern, darunter ein Pavillon aus der Kolonialzeit und modernere Monumente. Historisch gesehen spiegelt der Platz die wechselvolle Geschichte Gambias wider – vom kolonialen Verwaltungszentrum bis hin zum Symbol politischer Umbrüche. Heute ist der Platz ein Treffpunkt für die Bewohner von Banjul und ein zentraler Ort für die Feierlichkeiten zum Unabhängigkeitstag am 18. Februar. Er ist das zeremonielle Herz der Stadt.",
+        "hu": "A July 22nd Square (ma gyakran MacCarthy Square-ként emlegetik újra) Banjul központi köztere és nagy történelmi jelentőséggel bíró helyszín. A brit gyarmati időszakban alakították ki, és eredetileg Sir Charles MacCarthy kormányzóról nevezték el. Az 1994-es katonai puccs után nevezték át July 22nd Square-re, Yahya Jammeh hatalomra kerülésének napja tiszteletére. A teret fontos kormányzati épületek veszik körül, többek között a parlament és az elnöki palota (State House). Központi helyszíne a nemzeti parádéknak, politikai nagygyűléseknek és vallási összejöveteleknek. Építészetét különböző korszakok emlékművei határozzák meg, köztük egy gyarmati stílusú pavilon és újabb keletű politikai monumentumok. Történelmileg a tér Gambia viharos múltjának tükre: a gyarmati adminisztráció központjától a politikai fordulatok szimbólumáig sok mindent megtestesített. Ma a banjuli lakosok népszerű találkozóhelye és a február 18-i függetlenségi napi ünnepségek fő helyszíne.",
+        "ro": "July 22nd Square (astăzi adesea redenumită sau cunoscută din nou sub numele de MacCarthy Square) este principala piață publică din Banjul și un loc cu o mare încărcătură istorică. Amenajată în perioada colonială britanică, a purtat inițial numele guvernatorului Sir Charles MacCarthy. După lovitura de stat militară din 1994, a fost redenumită July 22nd Square pentru a marca ziua în care Yahya Jammeh a preluat puterea. Piața este înconjurată de clădiri guvernamentale importante, inclusiv Parlamentul și State House. Acesta este locul tradițional pentru parade naționale, mitinguri politice și mari adunări religioase. Arhitectura pieței include monumente din diverse epoci, precum un pavilion din perioada colonială și monumente mai recente. Din punct de vedere istoric, piața reflectă istoria schimbătoare a Gambiei – de la centru administrativ colonial la simbol al transformărilor politice moderne. Astăzi, piața rămâne un punct central de întâlnire pentru locuitorii din Banjul și locul principal pentru festivitățile de Ziua Independenței, celebrată pe 18 februarie.",
+        "en": "July 22nd Square (now increasingly referred to by its original name, MacCarthy Square) is the primary civic space in the center of Banjul and a site of profound historical symbolism. Laid out during the British colonial period, it was initially named after Governor Sir Charles MacCarthy. Following the 1994 military coup, it was renamed to commemorate the date Yahya Jammeh ascended to power. The square is bordered by the nation's most significant institutional buildings, including the National Assembly and State House. It serves as the traditional venue for national parades, major political rallies, and public religious celebrations. The architecture of the square features a mix of monuments, including a classic Victorian-era bandstand and more modern ideological installations. Historically, the square has mirrored The Gambia's political trajectory, transitioning from a colonial administrative green to a focal point for post-colonial nationalistic displays. Today, it remains a popular recreational spot for city residents and the central stage for the annual Independence Day celebrations held every February 18th."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentraler öffentlicher Platz in der Hauptstadt Banjul.",
+          "Ursprünglich MacCarthy Square (nach dem britischen Gouverneur).",
+          "Austragungsort der jährlichen Unabhängigkeitsparaden.",
+          "Umgeben von State House und dem Parlamentsgebäude.",
+          "Beherbergt einen historischen viktorianischen Musikpavillon.",
+          "Symbol für die politische Transformation des Landes."
+        ],
+        "hu": [
+          "Banjul, a főváros központi köztere.",
+          "Eredetileg MacCarthy Square a brit kormányzó után.",
+          "Az éves függetlenségi napi parádék helyszíne.",
+          "Körülötte található a State House és a parlament épülete.",
+          "Egy történelmi viktoriánus zenepavilon is helyet kapott itt.",
+          "Az ország politikai átalakulásának egyik jelképe."
+        ],
+        "ro": [
+          "Piața publică centrală din capitala Banjul.",
+          "Numită inițial MacCarthy Square după guvernatorul britanic.",
+          "Locul de desfășurare pentru paradele anuale de Ziua Independenței.",
+          "Înconjurată de State House și clădirea Adunării Naționale.",
+          "Găzduiește un foișor muzical istoric din era victoriană.",
+          "Simbol al transformărilor politice prin care a trecut țara."
+        ],
+        "en": [
+          "The central civic hub of the capital city, Banjul.",
+          "Originally named MacCarthy Square after a British governor.",
+          "Hosts the official annual Independence Day parade on Feb 18.",
+          "Bordered by State House and the National Assembly building.",
+          "Features a classic Victorian-era bandstand at its center.",
+          "Reflects the historical transition from colonial to sovereign rule."
+        ]
+      }
+    }
+  ]
+}

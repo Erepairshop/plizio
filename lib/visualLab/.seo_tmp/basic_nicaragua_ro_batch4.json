@@ -1,0 +1,82 @@
+{
+  "lang": "ro",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "iglesia-la-merced-granada-history-v2",
+      "description": "Biserica La Merced din Granada este un reper religios cu un turn-clopotniță ce oferă vederi panoramice ale orașului.",
+      "facts": ["Reper religios", "Granada", "Vederi panoramice"]
+    },
+    {
+      "id": "heriberto-sanchez-amusement-park-life-v2",
+      "description": "Parcul de distracții Heriberto Sánchez din Managua este un loc popular de agrement, oferind diverse atracții pentru familii.",
+      "facts": ["Parc de distracții", "Managua", "Atracții familiale"]
+    },
+    {
+      "id": "reserva-silvestre-privada-el-tesoro-life-v2",
+      "description": "Rezervația Privată de Faune Sălbatice El Tesoro, în departamentul Matagalpa, protejează ecosistemele forestiere și fauna locală.",
+      "facts": ["Rezervație de faună sălbatică", "Matagalpa", "Ecosisteme forestiere"]
+    },
+    {
+      "id": "finca-san-juan-de-la-isla-ometepe-life-v2",
+      "description": "Finca San Juan de la Isla Ometepe este o fermă ecologică care oferă cazare și activități agroturistice pe Insula Ometepe.",
+      "facts": ["Fermă ecologică", "Insula Ometepe", "Agroturism"]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "description": "Finca El Platanal, în Rivas, este o plantație de cacao care oferă tururi și perspective asupra cultivării organice.",
+      "facts": ["Plantație de cacao", "Cultivare organică", "Rivas"]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "description": "Finca Ecológica La Bomba, în Matagalpa, este o fermă de cafea ecologică ce promovează cultivarea durabilă și educația.",
+      "facts": ["Fermă de cafea ecologică", "Cultivare durabilă", "Matagalpa"]
+    },
+    {
+      "id": "pearl-cays-nature-v2",
+      "description": "Pearl Cays este un grup de insulițe și atoli în Marea Caraibelor, cunoscute pentru apele cristaline și fauna marină bogată.",
+      "facts": ["Marea Caraibelor", "Ape cristaline", "Faună marină bogată"]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "description": "Rezervația Naturală Tisey-Estanzuela, în Estelí, este renumită pentru pădurile sale de pini, cascadele și formațiunile stâncoase.",
+      "facts": ["Păduri de pini", "Cascade", "Formațiuni stâncoase"]
+    },
+    {
+      "id": "miskito-cays-nature-v2",
+      "description": "Miskito Cays este un arhipelag protejat în Marea Caraibelor, esențial pentru ecosistemul marin și comunitățile Miskito.",
+      "facts": ["Arhipelag protejat", "Marea Caraibelor", "Ecosistem marin"]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "description": "Insula Zapatera, în Lacul Nicaragua, este un parc național, cunoscut pentru natura sa virgină și petroglifele preistorice.",
+      "facts": ["Parc național", "Lacul Nicaragua", "Petroglife preistorice"]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "Pădurea de nori San Lorenzo, în Matagalpa, este o zonă protejată importantă pentru flora și fauna endemică.",
+      "facts": ["Pădure de nori", "Floră și faună endemică", "Matagalpa"]
+    },
+    {
+      "id": "rio-wawa-nature-v2",
+      "description": "Râul Wawa, în Regiunea Autonomă a Coastei Caraibelor de Nord, este un râu important pentru comunitățile locale și ecosistem.",
+      "facts": ["Râu important", "Coasta Caraibelor de Nord", "Ecosistem local"]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "description": "Meseta de los Pueblos este o meseta vulcanică în departamentul Masaya, cunoscută pentru solul său fertil și clima blândă.",
+      "facts": ["Meseta vulcanică", "Departamentul Masaya", "Sol fertil"]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "Valle de Osúa, în Jinotega, este o vale fertilă, înconjurată de munți și cunoscută pentru agricultura sa.",
+      "facts": ["Vale fertilă", "Jinotega", "Agricultură"]
+    }
+  ]
+}

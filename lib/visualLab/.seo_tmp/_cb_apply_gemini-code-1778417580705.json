@@ -1,0 +1,400 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts",
+    "lib/visualLab/data/poiExtraChadHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rig-rig-natron-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Natrongewinnung in Rig-Rig, gelegen in der extrem trockenen Kanem-Provinz im Westen des Tschad, ist ein historisch und wirtschaftlich hochgradig wichtiges Zentrum der lokalen Rohstoffausbeutung. Das Gebiet liegt direkt in der harschen Übergangszone zwischen der trockenen Sahelzone und der hyperariden Sahara. In den ausgetrockneten Senken und Wadis rund um die Stadt wird Natron (natürliches Natriumkarbonat) von lokalen Arbeitern der Kanembu-Volksgruppe in extremer Handarbeit abgebaut. Mit einfachen Werkzeugen wie Spitzhacken brechen sie die harten, salzigen Krusten unter der unerbittlichen Sonne auf. Dieses Mineral ist ein absolut essentielles Wirtschaftsgut für die Region. Es wird massiv als lebenswichtiges Nahrungsergänzungsmittel für die riesigen nomadischen Rinder- und Kamelherden genutzt. Zudem dient es als Basis für traditionelle Seifenherstellung und lokale Heilmittel. Da es in Rig-Rig keinerlei moderne industrielle Infrastruktur gibt, wird das Natron oft traditionell per Lastkamel oder auf alten Lastwagen zu den großen Märkten in N'Djamena transportiert. Diese archaische Industrie sichert das nackte Überleben in einer Region, die durch extreme Wüstenbildung und chronische Wasserknappheit geprägt ist.",
+        "hu": "A nyugat-csádi Kanem tartomány extrém száraz régiójában található Rig-Rig nátronkitermelő területe a helyi nyersanyag-hasznosítás történelmileg és gazdaságilag rendkívül fontos központja. A terület közvetlenül a száraz Száhel-övezet és a hiperarid Szahara közötti zord átmeneti zónában fekszik. A város körüli kiszáradt mélyedésekben és vádikban a nátront (természetes nátrium-karbonátot) a kanembu népcsoporthoz tartozó helyi munkások extrém kemény, kétkezi munkával bányásszák. Egyszerű szerszámokkal, például csákánnyal törik fel a kemény, sós kérgeket a könyörtelen sivatagi nap alatt. Ez az ásvány abszolút elengedhetetlen gazdasági cikk a régió számára. Tömegesen használják létfontosságú táplálékkiegészítőként a hatalmas nomád szarvasmarha- és tevecsordák számára. Emellett a hagyományos szappangyártás és a helyi gyógyszerek alapjául is szolgál. Mivel Rig-Rigben egyáltalán nincs modern ipari infrastruktúra, a nátront gyakran hagyományosan, tehertevékkel vagy régi teherautókkal szállítják N'Djamena nagy piacaira. Ez az archaikus iparág a puszta túlélést biztosítja egy olyan régióban, amelyet a rendkívüli elsivatagosodás és a krónikus vízhiány jellemez.",
+        "ro": "Extracția natronului în Rig-Rig, situată în provincia extrem de uscată Kanem din vestul Ciadului, este un centru istoric și economic foarte important pentru exploatarea resurselor locale. Zona se află direct în zona aspră de tranziție dintre Sahelul uscat și Sahara hiperaridă. În depresiunile secate și uedurile din jurul orașului, natronul (carbonat de sodiu natural) este extras prin muncă manuală extrem de grea de către lucrătorii locali din grupul etnic Kanembu. Folosind unelte simple, cum ar fi târnăcoapele, ei sparg crustele dure și sărate sub soarele neiertător al deșertului. Acest mineral este o marfă economică absolut esențială pentru regiune. Este folosit masiv ca un supliment alimentar vital pentru turmele uriașe de vite și cămile nomade. De asemenea, servește ca bază pentru producția tradițională de săpun și pentru remedii locale. Deoarece în Rig-Rig nu există absolut nicio infrastructură industrială modernă, natronul este adesea transportat tradițional, pe cămile de povară sau în camioane vechi, către piețele mari din N'Djamena. Această industrie arhaică asigură simpla supraviețuire într-o regiune caracterizată de deșertificare extremă și lipsă cronică de apă.",
+        "en": "The natron extraction sites in Rig-Rig, located in the extremely dry Kanem province in western Chad, represent a historically and economically highly important center of local resource exploitation. The area lies directly in the harsh transition zone between the dry Sahel and the hyper-arid Sahara Desert. In the dried-up depressions and wadis surrounding the town, natron (natural sodium carbonate) is extracted through extremely hard manual labor by local workers from the Kanembu ethnic group. Using simple tools like pickaxes, they break open the hard, salty crusts under the unforgiving desert sun. This mineral is an absolutely essential economic commodity for the region. It is massively utilized as a vital dietary supplement for the huge nomadic herds of cattle and camels. Additionally, it serves as a base for traditional soap production and local remedies. Because there is absolutely no modern industrial infrastructure in Rig-Rig, the natron is frequently transported in a traditional manner via pack camels or old trucks to the large markets in N'Djamena. This archaic industry secures bare survival in a region deeply characterized by extreme desertification and chronic water scarcity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Natronabbau ist hier die primäre wirtschaftliche Einnahmequelle.",
+          "Arbeiter brechen die harten Salzkrusten in extremer Handarbeit auf.",
+          "Natron ist existenziell für die Ernährung der riesigen Nomaden-Herden.",
+          "Der Transport erfolgt oft noch traditionell mit Lastkamelen.",
+          "Die raue Sahara-Umgebung verhindert jegliche industrielle Modernisierung."
+        ],
+        "hu": [
+          "A nátronbányászat jelenti itt az elsődleges gazdasági bevételi forrást.",
+          "A munkások extrém kézi munkával törik fel a nagyon kemény sókérget.",
+          "A nátron egzisztenciális jelentőségű a nomád állatcsordák etetésében.",
+          "A szállítást nagyon gyakran még ma is tradicionálisan tehertevékkel végzik.",
+          "A zord szaharai környezet megakadályoz minden ipari modernizációt."
+        ],
+        "ro": [
+          "Extracția natronului este principala sursă economică de venit aici.",
+          "Muncitorii sparg crustele de sare prin muncă manuală extremă.",
+          "Natronul este existențial pentru hrănirea turmelor nomade uriașe.",
+          "Transportul se face adesea în mod tradițional cu cămile de povară.",
+          "Mediul aspru saharian previne orice modernizare industrială absolută."
+        ],
+        "en": [
+          "Natron extraction acts as the primary economic source of local income here.",
+          "Laborers break open the hard salt crusts using extreme manual labor.",
+          "Natron is strictly existential for feeding the massive nomadic animal herds.",
+          "Transport is frequently still carried out traditionally via pack camels.",
+          "The harsh Saharan environment completely prevents any industrial modernization."
+        ]
+      }
+    },
+    {
+      "id": "bagasola-fishing-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereihafen von Bagasola liegt am nordöstlichen Ufer des Tschadsees in der Provinz Lac und bildet das pulsierende wirtschaftliche Zentrum dieser stark isolierten Region. Geografisch operiert der Hafen in einer extrem volatilen Sumpf- und Wasserlandschaft, deren Pegel durch die fortschreitende Austrocknung des Sees stetig sinkt. Wirtschaftlich ist Bagasola ein absolut entscheidender Umschlagplatz für Süßwasserfisch, der die Proteinversorgung für weite Teile des Landes und die angrenzenden Staaten sichert. Tausende von lokalen Buduma- und Kanembu-Fischern nutzen täglich traditionelle Holzkanus, um im flachen Gewässer zu fischen. Der Fang wird direkt am Hafen geräuchert oder in der extrem heißen Sonne getrocknet, bevor er auf Lastwagen verladen und in die Hauptstadt N'Djamena oder nach Nigeria transportiert wird. Historisch war der Hafen stets ein hochgradig lukrativer Handelsort, doch die massiven Sicherheitsprobleme durch die Boko-Haram-Aufstände haben den regionalen Handel in den letzten Jahren schwer gestört. Die permanente militärische Präsenz in Bagasola und die Tausenden von Binnenvertriebenen haben die lokale Ressourcenkonkurrenz am Hafen drastisch verschärft.",
+        "hu": "A bagasolai halászkikötő a Csád-tó északkeleti partján, a Lac tartományban található, és ennek a rendkívül elszigetelt régiónak a lüktető gazdasági központját képezi. Földrajzilag a kikötő egy extrém módon változékony mocsár- és vízrendszerben működik, amelynek vízszintje a tó folyamatos kiszáradása miatt egyre csökken. Gazdasági szempontból Bagasola az édesvízi halak abszolút meghatározó elosztóközpontja, amely az ország nagy részének és a szomszédos államoknak a fehérjeellátását biztosítja. Helyi buduma és kanembu halászok ezrei használnak naponta hagyományos fakenukat, hogy a sekély vizekben halásszanak. A zsákmányt közvetlenül a kikötőben füstölik vagy a rendkívül forró napon szárítják meg, mielőtt teherautókra rakják és a fővárosba, N'Djamenába vagy Nigériába szállítják. Történelmileg a kikötő mindig is rendkívül jövedelmező kereskedelmi hely volt, de a Boko Haram lázadásai okozta masszív biztonsági problémák az elmúlt években súlyosan megzavarták a regionális kereskedelmet. Az állandó katonai jelenlét Bagasolában és a belső menekültek ezrei drasztikusan kiélezték a helyi erőforrásokért folytatott versenyt a kikötőben.",
+        "ro": "Portul de pescuit Bagasola este situat pe malul de nord-est al Lacului Ciad, în provincia Lac, și formează centrul economic pulsant al acestei regiuni puternic izolate. Geografic, portul operează într-un peisaj de mlaștini și ape extrem de volatil, al cărui nivel scade constant din cauza uscării progresive a lacului. Economic, Bagasola este un punct de transbordare absolut crucial pentru peștele de apă dulce, care asigură aprovizionarea cu proteine pentru mari părți ale țării și pentru statele vecine. Mii de pescari locali Buduma și Kanembu folosesc zilnic canoe tradiționale din lemn pentru a pescui în apele puțin adânci. Captura este afumată direct în port sau uscată sub soarele extrem de fierbinte, înainte de a fi încărcată în camioane și transportată spre capitala N'Djamena sau Nigeria. Istoric, portul a fost întotdeauna un loc comercial extrem de profitabil, dar problemele masive de securitate cauzate de insurgența Boko Haram au perturbat grav comerțul regional. Prezența militară permanentă în Bagasola a intensificat drastic concurența local.",
+        "en": "The Bagasola fishing port is located on the northeastern shore of Lake Chad in the Lac province and forms the pulsating economic center of this highly isolated region. Geographically, the port operates in an extremely volatile swamp and water landscape, whose level is steadily sinking due to the progressive drying out of the lake. Economically, Bagasola is an absolutely crucial transshipment point for freshwater fish, tightly securing the protein supply for large parts of the country and neighboring states. Thousands of local Buduma and Kanembu fishermen daily use traditional wooden canoes to fish in the shallow waters. The catch is heavily smoked directly at the port or extensively sun-dried under the extremely hot sun before being loaded onto trucks and transported to the capital, N'Djamena, or Nigeria. Historically, the port has always been a highly lucrative trading location, but the massive security problems caused by the Boko Haram insurgencies have severely disrupted regional trade in recent years. The permanent military presence in Bagasola and the thousands of internally displaced persons have drastically intensified local resource competition at the port."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen Bagasola ist das absolute Zentrum der lokalen Binnenfischerei.",
+          "Der sinkende Wasserpegel des Sees erschwert den Hafenbetrieb massiv.",
+          "Geräucherter Fisch wird von hier bis in die Hauptstadt transportiert.",
+          "Traditionelle Holzkanus dominieren die tägliche Fischereiflotte.",
+          "Terrordrohungen durch Boko Haram stören den lukrativen Handel extrem."
+        ],
+        "hu": [
+          "Bagasola kikötője a helyi belvízi halászat abszolút központja.",
+          "A tó csökkenő vízszintje masszívan megnehezíti a kikötő működését.",
+          "A füstölt halat innen egészen a fővárosig szállítják teherautókkal.",
+          "Hagyományos fakenuk uralják a mindennapi halászflottát a vizeken.",
+          "A Boko Haram terrortámadásai extrém módon zavarják a jövedelmező kereskedelmet."
+        ],
+        "ro": [
+          "Portul Bagasola este centrul absolut al pescuitului intern local.",
+          "Scăderea nivelului apei lacului complică masiv operațiunile portuare.",
+          "Peștele afumat este transportat de aici până în capitala țării.",
+          "Canoele tradiționale din lemn domină complet flota zilnică de pescuit.",
+          "Amenințările teroriste ale Boko Haram perturbă extrem de mult comerțul."
+        ],
+        "en": [
+          "The Bagasola port is the absolute center of local inland fishing operations.",
+          "The sinking water level of the lake massively complicates port logistics.",
+          "Heavily smoked fish is transported from here all the way to the capital.",
+          "Traditional wooden canoes completely dominate the daily fishing fleet.",
+          "Terror threats from Boko Haram extremely disrupt the highly lucrative trade."
+        ]
+      }
+    },
+    {
+      "id": "lere-fishing-center-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fischereizentrum von Léré ist das pulsierende ökonomische Herzstück am Léré-See, gelegen in der Provinz Mayo-Kebbi Ouest im südwestlichen Tschad. Geografisch profitiert das Zentrum massiv von dem breiten, sehr flachen Gewässer des Sees, der durch das Gauthiot-Falls-Flusssystem beständig gespeist wird. Wirtschaftlich ist der Fischfang hier eine absolute Lebensgrundlage, die Tausende von Familien des lokalen Moundang-Volkes direkt versorgt. Die Fischer nutzen ein engmaschiges Netz an traditionellen Pirogen, um täglich frischen Fisch zu fangen. Die Fangmengen werden direkt am Ufer verarbeitet – meist geräuchert oder stark gesalzen und sonnengetrocknet, um sie in dem heißen Klima haltbar zu machen. Dieser getrocknete Fisch ist ein hochbegehrtes Handelsgut, das lukrativ auf den nationalen Großmärkten in N'Djamena und über die nahe Grenze in Kamerun verkauft wird. Historisch gesehen operiert dieses Fischereizentrum seit Jahrhunderten unter der Aufsicht der traditionellen lokalen Autoritäten, dem Gong (König) von Léré. Heute jedoch gefährden ungeregelte Überfischung und das Fehlen moderner Kühlanlagen die ökologische und ökonomische Stabilität des Sektors stark.",
+        "hu": "A Léré-i halászati központ a Léré-tó lüktető gazdasági szíve, amely a Mayo-Kebbi Ouest tartományban található Délnyugat-Csádban. Földrajzilag a központ masszívan profitál a tó széles, nagyon sekély vizeiből, amelyeket a Gauthiot-vízesés folyórendszere folyamatosan táplál. Gazdasági szempontból a halászat itt abszolút létalap, amely a helyi moundang nép családjainak ezreit látja el közvetlenül. A halászok hagyományos pirogák sűrű hálózatát használják a mindennapi friss hal kifogására. A zsákmányt közvetlenül a parton dolgozzák fel – többnyire füstölik vagy erősen sózzák és napon szárítják, hogy a forró éghajlaton is elálljon. Ez a szárított hal egy rendkívül keresett árucikk, amelyet jövedelmezően értékesítenek N'Djamena nemzeti nagypiacain és a közeli kameruni határ túloldalán. Történelmileg ez a halászati központ évszázadok óta a hagyományos helyi hatóságok, Léré Gongjának (királyának) felügyelete alatt működik. Ma azonban a szabályozatlan túlhalászás és a modern hűtőberendezések teljes hiánya erősen veszélyezteti az ágazat ökológiai és gazdasági stabilitását.",
+        "ro": "Centrul de pescuit din Léré este inima economică pulsantă de pe Lacul Léré, situat în provincia Mayo-Kebbi Ouest din sud-vestul Ciadului. Geografic, centrul beneficiază masiv de apele largi și foarte puțin adânci ale lacului, care este alimentat constant de sistemul fluvial al Cascadelor Gauthiot. Din punct de vedere economic, pescuitul este aici o bază de viață absolută, care susține direct mii de familii ale poporului local Moundang. Pescarii folosesc o rețea densă de pirogi tradiționale pentru a prinde zilnic pește proaspăt. Captura este procesată direct pe mal - de obicei afumată sau puternic sărată și uscată la soare pentru a o conserva în clima fierbinte. Acest pește uscat este o marfă foarte căutată, care se vinde profitabil pe piețele naționale angro din N'Djamena și peste granița din apropiere, în Camerun. Istoric, acest centru de pescuit operează de secole sub supravegherea autorităților locale tradiționale, Gong (Regele) din Léré. Cu toate acestea, astăzi, pescuitul excesiv și lipsa facilităților frigorifice amenință stabilitatea sectorului.",
+        "en": "The Léré Fishing Center is the pulsating economic heart of Lake Léré, located in the Mayo-Kebbi Ouest province in southwestern Chad. Geographically, the center benefits massively from the wide, highly shallow waters of the lake, which is consistently fed by the Gauthiot Falls river system. Economically, fishing is an absolute livelihood here, directly sustaining thousands of families of the local Moundang people. The fishermen utilize a dense network of traditional pirogues to catch fresh fish on a daily basis. The daily catch is heavily processed directly on the shore—mostly smoked or heavily salted and sun-dried to preserve it effectively in the hot climate. This dried fish is a highly sought-after commercial commodity that is profitably sold at national wholesale markets in N'Djamena and across the nearby border in Cameroon. Historically, this busy fishing center has operated for centuries under the direct supervision of traditional local authorities, the Gong (King) of Léré. Today, however, unregulated overfishing and a total lack of modern refrigeration facilities severely threaten the ecological and economic stability of the entire sector."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Zentrum ist der absolute wirtschaftliche Motor am Léré-See.",
+          "Fischfang sichert das tägliche Überleben der lokalen Moundang-Familien.",
+          "Der Fang wird direkt am Seeufer geräuchert und sonnengetrocknet.",
+          "Getrockneter Fisch ist ein wichtiges, lukratives lokales Exportgut.",
+          "Völlig fehlende Kühlanlagen erschweren die industrielle Entwicklung stark."
+        ],
+        "hu": [
+          "A központ a Léré-tó környékének abszolút gazdasági motorja.",
+          "A halászat biztosítja a helyi moundang családok napi túlélését.",
+          "A fogást közvetlenül a tóparton füstölik és szárítják a napon.",
+          "A szárított hal egy nagyon fontos, rendkívül jövedelmező exportcikk.",
+          "A hűtőberendezések teljes hiánya nagyon erősen gátolja az ipari fejlődést."
+        ],
+        "ro": [
+          "Centrul este motorul economic absolut de pe importantul Lac Léré.",
+          "Pescuitul asigură supraviețuirea zilnică a familiilor locale Moundang.",
+          "Captura este afumată masiv și uscată la soare direct pe malul lacului.",
+          "Peștele uscat este o marfă de export locală importantă și lucrativă.",
+          "Lipsa totală a instalațiilor frigorifice blochează dezvoltarea industrială."
+        ],
+        "en": [
+          "The center acts as the absolute economic engine on Lake Léré.",
+          "Fishing firmly secures the daily survival of the local Moundang families.",
+          "The fresh catch is massively smoked and sun-dried directly on the lake shore.",
+          "Highly demanded dried fish is a crucial, lucrative local export commodity.",
+          "A total lack of modern refrigeration facilities completely hinders industrialization."
+        ]
+      }
+    },
+    {
+      "id": "massakory-livestock-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Viehlogistikzentrum von Massakory ist ein absolut kritischer Knotenpunkt in der Region Hadjer-Lamis im zentral-westlichen Tschad. Geografisch liegt Massakory exakt in der strategischen Übergangszone, wo die trockenen Weidegründe des Sahels auf die wichtigen Transportrouten in die Hauptstadt N'Djamena treffen. Wirtschaftlich ist dieser Standort das schlagende Herz des tschadischen Rinder- und Kamelhandels. Nomaden und halbnomadische Züchter treiben riesige Herden aus den tiefen nördlichen und östlichen Provinzen wochenlang über unbefestigte Pisten, um sie in Massakory für den nationalen und internationalen Markt umzuschlagen. Hier werden die Tiere gebündelt, veterinärmedizinisch begutachtet und auf große Lastwagen verladen. Historisch hat sich dieser Handelsplatz aufgrund der vorhandenen Wasserstellen etabliert und wuchs mit der zunehmenden Nachfrage der wachsenden Hauptstadt rasant an. Heute leidet die Logistik jedoch unter massiven strukturellen Problemen. Die Straßen nach N'Djamena sind extrem marode, und in der intensiven Trockenzeit mangelt es eklatant an Futter und Wasser für die wartenden riesigen Viehherden. Diese infrastrukturelle Unterfinanzierung bremst das wirtschaftliche Potenzial enorm.",
+        "hu": "A Massakory állatlogisztikai központ egy abszolút kritikus csomópont a Hadjer-Lamis régióban, Csád középső-nyugati részén. Földrajzilag Massakory pontosan abban a stratégiai átmeneti zónában fekszik, ahol a Száhel-övezet száraz legelői találkoznak a fővárosba, N'Djamenába vezető fontos szállítási útvonalakkal. Gazdasági szempontból ez a hely a csádi szarvasmarha- és tevekereskedelem dobogó szíve. Nomád és félnomád tenyésztők a mély északi és keleti tartományokból heteken át hajtják a hatalmas csordákat a burkolatlan utakon, hogy Massakoryban átadják őket a nemzeti és nemzetközi piacok számára. Az állatokat itt csoportosítják, állatorvosilag ellenőrzik, és hatalmas teherautókra rakják. Történelmileg ez a kereskedelmi helyszín a meglévő vízlelőhelyek miatt alakult ki, és a növekvő főváros egyre növekvő kereslete révén gyorsan növekedett. Ma azonban a logisztika masszív strukturális problémáktól szenved. Az N'Djamenába vezető utak rendkívül lepusztultak, és az intenzív száraz évszakban kirívó hiány van takarmányban és vízben a várakozó hatalmas állatcsordák számára. Ez az infrastrukturális alulfinanszírozottság óriási mértékben fékezi a gazdasági potenciált.",
+        "ro": "Centrul de logistică pentru animale din Massakory este un nod absolut critic în regiunea Hadjer-Lamis din vestul central al Ciadului. Geografic, Massakory se află exact în zona strategică de tranziție unde pășunile uscate ale Sahelului întâlnesc rutele vitale de transport spre capitala N'Djamena. Din punct de vedere economic, această locație este inima bătândă a comerțului ciadian cu vite și cămile. Crescătorii nomazi și semi-nomazi conduc turme uriașe din provinciile profunde de nord și est timp de săptămâni pe piste de pământ, pentru a le transborda la Massakory pentru piața națională și internațională. Aici, animalele sunt grupate, inspectate veterinar și încărcate în camioane mari. Istoric, acest punct comercial s-a stabilit datorită surselor de apă existente și a crescut rapid odată cu cererea din ce în ce mai mare a capitalei. Astăzi, însă, logistica suferă din cauza problemelor structurale masive. Drumurile spre N'Djamena sunt extrem de degradate, iar în sezonul uscat lipsește flagrant hrana și apa pentru turme. Această subfinanțare încetinește enorm potențialul economic.",
+        "en": "The Massakory Livestock Logistics Center is an absolutely critical hub in the Hadjer-Lamis region of central-western Chad. Geographically, Massakory lies exactly in the highly strategic transition zone where the dry grazing grounds of the Sahel actively meet the vital transport routes leading into the capital, N'Djamena. Economically, this specific location acts as the beating heart of the Chadian cattle and camel trade. Nomadic and semi-nomadic breeders aggressively drive massive herds from the deep northern and eastern provinces for weeks over unpaved dirt tracks to transship them in Massakory for the national and international markets. Here, the numerous animals are tightly grouped, formally inspected by veterinarians, and loaded onto large transport trucks. Historically, this highly lucrative trading post established itself strictly due to available watering holes and grew rapidly with the increasing meat demand of the booming capital. Today, however, the logistics center suffers from massive structural problems. The main roads to N'Djamena are extremely dilapidated, and during the intense dry season, there is a glaring lack of feed and water for the waiting herds."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Zentrum ist der wichtigste Umschlagplatz für Rinder und Kamele.",
+          "Massakory verbindet die nördlichen Weiden strategisch mit der Hauptstadt.",
+          "Nomaden treiben ihre Tiere wochenlang zu diesem zentralen Markt.",
+          "Hier werden Tiere oft auf Lkw verladen, um in die Metropole zu reisen.",
+          "Futter- und Wassermangel in der Trockenzeit belastet die Logistik schwer."
+        ],
+        "hu": [
+          "A központ a szarvasmarhák és tevék abszolút legfontosabb elosztóhelye.",
+          "Massakory stratégiailag köti össze az északi legelőket a nagy fővárossal.",
+          "A nomádok heteken át hajtják hatalmas állataikat erre a központi piacra.",
+          "Az állatokat itt teherautókra rakják a metropoliszba történő szállításhoz.",
+          "A száraz évszaki takarmány- és vízhiány súlyosan megterheli a logisztikát."
+        ],
+        "ro": [
+          "Centrul este cel mai important punct de transbordare pentru vite și cămile.",
+          "Massakory conectează strategic pășunile nordice cu marea capitală.",
+          "Nomazii își conduc animalele timp de săptămâni la această piață centrală.",
+          "Animalele sunt adesea încărcate în camioane pentru a călători spre metropolă.",
+          "Lipsa hranei și a apei în sezonul uscat îngreunează sever logistica."
+        ],
+        "en": [
+          "The center is the absolutely most important transshipment point for livestock.",
+          "Massakory strategically connects the northern pastures with the capital.",
+          "Nomads forcefully drive their animals for weeks to this central market.",
+          "Animals are routinely loaded onto large trucks here to travel to the metropolis.",
+          "A severe lack of feed and water in the dry season heavily strains logistics."
+        ]
+      }
+    },
+    {
+      "id": "ati-meat-processing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die fleischverarbeitende Industrie in Ati ist ein zentraler wirtschaftlicher Pfeiler der Provinz Batha in der Mitte des Tschad. Geografisch ist Ati extrem vorteilhaft am Batha-Fluss gelegen, was die Bewässerung von Viehherden in der ansonsten rauen, halbtrockenen Sahelzone erleichtert. Wirtschaftlich konzentriert sich die Stadt auf die Schlachtung und rudimentäre Verarbeitung von Ziegen, Schafen und Rindern. Das hier gewonnene Fleisch und die Nebenprodukte wie Tierhäute werden von lokalen Händlern getrocknet oder gesalzen, um sie auf den weit entfernten nationalen Märkten zu verkaufen. Diese Anlagen bilden das absolute Herzstück der formalen und informellen Einkommenssicherung für Tausende von pastoralen Familien. Historisch hat sich Ati als traditioneller Sammelpunkt für große Karawanen entwickelt, die den Ost-West-Korridor nutzten. In der modernen Ära wird der Sektor jedoch massiv durch eklatante infrastrukturelle Mängel behindert. Es gibt keinerlei zuverlässige Elektrizität, was den Einsatz moderner Kühlketten völlig unmöglich macht. Das Fleisch muss sofort verarbeitet oder traditionell haltbar gemacht werden, was den wirtschaftlichen Exportwert extrem limitiert.",
+        "hu": "Az Ati-i húsfeldolgozó ipar a Csád középső részén fekvő Batha tartomány központi gazdasági pillére. Földrajzilag Ati rendkívül előnyös helyen, a Batha-folyó mentén fekszik, ami megkönnyíti az állatcsordák itatását az amúgy zord, félszáraz Száhel-övezetben. Gazdasági szempontból a város a kecskék, juhok és szarvasmarhák vágására és kezdetleges feldolgozására összpontosít. Az itt kinyert húst és a melléktermékeket, például az állatbőröket a helyi kereskedők szárítják vagy sózzák, hogy a távoli nemzeti piacokon értékesítsék. Ezek a létesítmények jelentik a formális és informális jövedelembiztosítás abszolút szívét pásztorcsaládok ezrei számára. Történelmileg Ati hagyományos gyűjtőhelyként alakult ki a kelet-nyugati folyosót használó nagy karavánok számára. A modern korban azonban az ágazatot tömegesen akadályozzák a kirívó infrastrukturális hiányosságok. Egyáltalán nincs megbízható áramellátás, ami a modern hűtőláncok használatát teljesen lehetetlenné teszi. A húst azonnal fel kell dolgozni, vagy hagyományos módon kell tartósítani, ami extrém módon korlátozza a gazdasági exportértéket.",
+        "ro": "Industria de procesare a cărnii din Ati este un pilon economic central al provinciei Batha din centrul Ciadului. Geografic, Ati este situat extrem de avantajos de-a lungul râului Batha, ceea ce facilitează adăparea turmelor de vite în zona saheliană altfel aspră și semi-aridă. Economic, orașul se concentrează pe sacrificarea și prelucrarea rudimentară a caprelor, oilor și vitelor. Carnea produsă aici și produsele secundare, cum ar fi pieile, sunt uscate sau sărate de comercianții locali pentru a fi vândute pe piețele naționale îndepărtate. Aceste facilități reprezintă inima absolută a generării de venituri formale și informale pentru mii de familii pastorale. Istoric, Ati a evoluat ca un punct tradițional de adunare pentru caravanele mari care foloseau coridorul est-vest. În era modernă, totuși, sectorul este masiv împiedicat de deficiențe infrastructurale flagrante. Nu există absolut nicio energie electrică fiabilă, ceea ce face utilizarea lanțurilor de frig complet imposibilă. Carnea trebuie conservată tradițional, limitând valoarea exportului.",
+        "en": "The meat processing industry in Ati acts as a highly central economic pillar of the Batha province in the exact middle of Chad. Geographically, Ati is extremely advantageously located directly along the Batha River, which heavily facilitates the watering of massive livestock herds in the otherwise harsh, semi-arid Sahelian zone. Economically, the city concentrates firmly on the slaughtering and rudimentary processing of goats, sheep, and cattle. The meat obtained here, along with valuable byproducts like animal hides, is thoroughly dried or heavily salted by local traders in order to be profitably sold on distant national markets. These local facilities form the absolute heart of formal and informal income security for thousands of pastoral families. Historically, Ati developed prominently as a traditional gathering point for large trading caravans utilizing the crucial east-west corridor. In the modern era, however, the sector is massively hindered by glaring infrastructural deficits. There is absolutely zero reliable electricity, which makes the implementation of modern cold supply chains completely impossible. Meat must be preserved traditionally."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ati ist das absolute Zentrum der lokalen Fleischverarbeitung in Batha.",
+          "Der Batha-Fluss liefert das essenzielle Wasser für die riesigen Viehherden.",
+          "Ziegen, Schafe und Rinder werden hier für nationale Märkte geschlachtet.",
+          "Fehlende Elektrizität macht die Nutzung von modernen Kühlhäusern unmöglich.",
+          "Das Fleisch wird meist stark gesalzen und traditionell sonnengetrocknet."
+        ],
+        "hu": [
+          "Ati a helyi húsfeldolgozás abszolút központja Batha tartományában.",
+          "A Batha-folyó biztosítja a létfontosságú vizet a hatalmas állatcsordáknak.",
+          "Kecskéket, juhokat és szarvasmarhákat vágnak le itt a nemzeti piacokra.",
+          "A hiányzó áramellátás teljesen lehetetlenné teszi a modern hűtőházak használatát.",
+          "A húst általában erősen besózzák és hagyományos módon a napon szárítják."
+        ],
+        "ro": [
+          "Ati este centrul absolut al prelucrării locale a cărnii în provincia Batha.",
+          "Râul Batha oferă apa absolut esențială pentru turmele uriașe de animale.",
+          "Caprele, oile și vitele sunt sacrificate aici pentru piețele naționale.",
+          "Lipsa completă a electricității face imposibilă folosirea camerelor frigorifice.",
+          "Carnea este de obicei puternic sărată și uscată tradițional la soare."
+        ],
+        "en": [
+          "Ati functions as the absolute center of local meat processing in Batha.",
+          "The Batha River supplies the absolutely essential water for massive herds.",
+          "Large numbers of goats, sheep, and cattle are actively slaughtered here.",
+          "A total lack of electricity makes the use of modern cold storage impossible.",
+          "The raw meat is usually heavily salted and traditionally sun-dried locally."
+        ]
+      }
+    },
+    {
+      "id": "ouara-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ruinen von Ouara (Wara) befinden sich tief in der östlichen Provinz Ouaddaï im Tschad, eingebettet in ein raues, halbtrockenes und extrem isoliertes Tal, das von steilen Hügelketten flankiert wird. Historisch gesehen ist dies eine der bedeutendsten archäologischen Stätten Zentralafrikas. Ouara war im 17. Jahrhundert die mächtige und unantastbare Hauptstadt des einflussreichen Ouaddaï-Sultanats, das den lukrativen trans-saharischen Handel mit Sklaven, Salz und Kupfer dominierte. Die verbliebenen Ruinen aus roten Backsteinen, darunter der massive Palast des Sultans, die Wachtürme und eine große Moschee, zeugen von einer architektonisch hochstehenden Zivilisation. Die Stadt wurde im 19. Jahrhundert verlassen, als die austrocknenden Brunnen die Bevölkerung zum Umzug in das heutige Abéché zwangen. Wirtschaftlich bringt Ouara der Region heute kein direktes Einkommen, da das absolute Fehlen von touristischer Infrastruktur und asphaltierten Straßen internationale Besucher fernhält. Die Stätte steht zwar auf der Tentativliste für das UNESCO-Weltkulturerbe, leidet jedoch unter chronischer Vernachlässigung, Erosion und der rauen Witterung.",
+        "hu": "Az Ouara (Wara) romjai Csád keleti Ouaddaï tartományában találhatók, beágyazódva egy zord, félszáraz és rendkívül elszigetelt völgybe, amelyet meredek dombláncolatok szegélyeznek. Történelmileg ez Közép-Afrika egyik legjelentősebb régészeti lelőhelye. A 17. században Ouara volt a befolyásos Ouaddaï Szultanátus hatalmas és érinthetetlen fővárosa, amely uralta a jövedelmező transzszaharai rabszolga-, só- és rézkereskedelmet. A megmaradt vöröstégla romok, köztük a szultán hatalmas palotája, az őrtornyok és egy nagy mecset, egy építészetileg magasan fejlett civilizációról tanúskodnak. A várost a 19. században hagyták el, amikor a kiszáradó kutak arra kényszerítették a lakosságot, hogy a mai Abéchébe költözzenek. Gazdasági szempontból Ouara ma nem hoz közvetlen jövedelmet a régiónak, mivel a turisztikai infrastruktúra és az aszfaltozott utak teljes hiánya távol tartja a nemzetközi látogatókat. Bár a helyszín szerepel az UNESCO világörökségi javaslati listáján, a krónikus elhanyagoltság, az erózió és a zord időjárás erősen sújtja.",
+        "ro": "Ruinele de la Ouara (Wara) se află adânc în provincia estică Ouaddaï din Ciad, încorporate într-o vale aspră, semi-aridă și extrem de izolată, flancată de lanțuri deluroase abrupte. Istoric, acesta este unul dintre cele mai importante situri arheologice din Africa Centrală. În secolul al XVII-lea, Ouara a fost capitala puternică și de neatins a influentului Sultanat Ouaddaï, care a dominat comerțul trans-saharian cu sclavi, sare și cupru. Ruinele rămase din cărămidă roșie, inclusiv palatul masiv al sultanului, turnurile de veghe și o moschee mare, mărturisesc o civilizație foarte avansată din punct de vedere arhitectural. Orașul a fost abandonat în secolul al XIX-lea când uscarea fântânilor a forțat populația să se mute în actualul Abéché. Economic, Ouara nu aduce astăzi niciun venit direct regiunii, deoarece lipsa totală de infrastructură turistică și drumuri asfaltate ține vizitatorii internaționali departe. Situl este pe lista tentativă UNESCO, dar suferă de eroziune și neglijare cronică masivă.",
+        "en": "The ruins of Ouara (Wara) are located deep in the eastern Ouaddaï province of Chad, tightly embedded in a harsh, semi-arid, and extremely isolated valley flanked by steep hill chains. Historically, this is one of the absolutely most significant archaeological sites in all of Central Africa. In the 17th century, Ouara was the highly powerful and untouchable capital of the influential Ouaddaï Sultanate, which heavily dominated the lucrative trans-Saharan trade in slaves, salt, and copper. The remaining red brick ruins, thoroughly including the massive palace of the Sultan, the watchtowers, and a large central mosque, bear silent witness to a highly architecturally advanced civilization. The city was officially abandoned in the 19th century when drying wells forcefully compelled the population to relocate to present-day Abéché. Economically, Ouara brings absolutely no direct income to the region today, as the total lack of tourist infrastructure and paved roads keeps international visitors away. Although the site is on the UNESCO World Heritage Tentative List, it suffers heavily from chronic neglect, wind erosion, and harsh weather."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ouara war die hochmächtige Hauptstadt des Ouaddaï-Sultanats im 17. Jahrhundert.",
+          "Die massiven Palastruinen bestehen komplett aus gebrannten roten Ziegeln.",
+          "Die historische Stadt kontrollierte lukrative Handelsrouten extrem streng.",
+          "Austrocknende Brunnen zwangen die damalige Bevölkerung letztlich zur Flucht.",
+          "Fehlende Asphaltstraßen blockieren heute jegliches touristische Potenzial."
+        ],
+        "hu": [
+          "Ouara a 17. századi hatalmas Ouaddaï Szultanátus történelmi fővárosa volt.",
+          "A masszív palotaromok teljes egészében égetett vörös téglából épültek.",
+          "A történelmi város rendkívül szigorúan ellenőrizte a jövedelmező kereskedelmet.",
+          "A kiszáradó ivóvízkutak végül menekülésre kényszerítették a lakosságot.",
+          "Az aszfaltozott utak hiánya ma teljesen megfojtja a turisztikai potenciált."
+        ],
+        "ro": [
+          "Ouara a fost capitala extrem de puternică a Sultanatului Ouaddaï în sec. XVII.",
+          "Ruinele masive ale palatului sunt făcute complet din cărămizi roșii arse.",
+          "Orașul istoric a controlat strict rutele comerciale extrem de lucrative.",
+          "Secarea fântânilor a forțat în cele din urmă populația masivă să fugă.",
+          "Lipsa drumurilor asfaltate blochează astăzi complet orice potențial turistic."
+        ],
+        "en": [
+          "Ouara was the highly powerful capital of the Ouaddaï Sultanate in the 17th century.",
+          "The massive palace ruins are constructed entirely out of fired red bricks.",
+          "The historical city strictly controlled highly lucrative regional trade routes.",
+          "Completely drying water wells eventually forced the entire population to flee.",
+          "A total lack of paved roads completely blocks any modern tourist potential."
+        ]
+      }
+    },
+    {
+      "id": "njimi-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ruinen von Njimi, verborgen in der extrem lebensfeindlichen, hyperariden Sandlandschaft der heutigen Provinz Kanem im Westen des Tschad, markieren eine der sagenumwobensten historischen Stätten der afrikanischen Geschichte. Geografisch liegt das Gebiet nördlich des Tschadsees, wo die Wüste unerbittlich dominiert. Historisch gesehen war Njimi ab dem 11. Jahrhundert die absolut zentrale und einflussreiche Hauptstadt des legendären Kanem-Reiches, das von der Sayfawa-Dynastie regiert wurde. Diese Stadt war das politische und religiöse Herz eines Reiches, das den hochlukrativen trans-saharischen Karawanenhandel von Nordafrika bis in das tiefe Zentralafrika kontrollierte. Njimi zog islamische Gelehrte und Händler aus dem gesamten Nahen Osten an. Im 14. Jahrhundert wurde die Stadt durch Invasionen feindlicher Bulala-Stämme jedoch gewaltsam zerstört und dauerhaft verlassen. Heute ist Njimi eine archäologische Stätte, deren Überreste fast vollständig unter massiven Sanddünen begraben liegen. Wirtschaftlich bringt der Ort der lokalen Region keinen Nutzen, da es keinerlei touristische Erschließung oder Ausgrabungsinfrastruktur in dieser Wüstenzone gibt.",
+        "hu": "A Njimi romjai, amelyek a mai nyugat-csádi Kanem tartomány extrém módon barátságtalan, hiperarid homokos tájain rejtőznek, az afrikai történelem egyik leglegendásabb történelmi helyszínét jelölik. Földrajzilag a terület a Csád-tótól északra fekszik, ahol a sivatag könyörtelenül uralkodik. Történelmileg Njimi a 11. századtól kezdve a Sayfawa-dinasztia által uralt legendás Kanem Birodalom abszolút központi és befolyásos fővárosa volt. Ez a város volt a politikai és vallási szíve egy olyan birodalomnak, amely a rendkívül jövedelmező transzszaharai karavánkereskedelmet irányította Észak-Afrikától a mély Közép-Afrikáig. Njimi iszlám tudósokat és kereskedőket vonzott az egész Közel-Keletről. A 14. században azonban a várost az ellenséges bulala törzsek inváziói erőszakosan elpusztították, és végleg elhagyták. Ma Njimi egy régészeti lelőhely, amelynek maradványai szinte teljesen a hatalmas homokdűnék alatt nyugszanak. Gazdasági szempontból a helyszín semmilyen hasznot nem hoz a helyi régiónak, mivel ebben a sivatagi zónában egyáltalán nincs turisztikai fejlesztés.",
+        "ro": "Ruinele de la Njimi, ascunse în peisajul nisipos extrem de ostil și hiperarid al provinciei Kanem din vestul Ciadului, marchează unul dintre cele mai legendare situri istorice din istoria Africii. Geografic, zona este situată la nord de Lacul Ciad, unde deșertul domină neiertător. Istoric, din secolul al XI-lea, Njimi a fost capitala absolut centrală și influentă a legendarului Imperiu Kanem, condus de dinastia Sayfawa. Acest oraș a fost inima politică și religioasă a unui imperiu care a controlat comerțul extrem de profitabil al caravanelor trans-sahariene din Africa de Nord până în Africa Centrală profundă. Njimi a atras savanți islamici și comercianți din tot Orientul Mijlociu. Cu toate acestea, în secolul al XIV-lea, orașul a fost distrus violent de invaziile triburilor ostile Bulala și abandonat permanent. Astăzi, Njimi este un sit arheologic ale cărui rămășițe sunt îngropate aproape complet sub dune masive de nisip. Din punct de vedere economic, locul nu aduce niciun beneficiu regiunii locale, neexistând turism.",
+        "en": "The ruins of Njimi, deeply hidden in the extremely hostile, hyper-arid sandy landscape of today's Kanem province in western Chad, mark one of the most legendary historical sites in African history. Geographically, the area is located strictly north of Lake Chad, where the desert completely and unforgivingly dominates. Historically, from the 11th century onwards, Njimi was the absolutely central and highly influential capital of the legendary Kanem Empire, firmly ruled by the Sayfawa dynasty. This specific city was the political and religious heart of a massive empire that heavily controlled the highly lucrative trans-Saharan caravan trade from North Africa deep into Central Africa. Njimi actively attracted Islamic scholars and wealthy merchants from all across the Middle East. In the 14th century, however, the city was violently destroyed and permanently abandoned due to intense invasions by hostile Bulala tribes. Today, Njimi is an archaeological site whose structural remains lie almost completely buried under massive, shifting sand dunes. Economically, the site brings absolutely no benefit to the local region, as there is zero tourist infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Njimi war die hochmächtige Hauptstadt des uralten Kanem-Reiches.",
+          "Die Stadt kontrollierte den hochlukrativen trans-saharischen Sklavenhandel.",
+          "Sie wurde im 14. Jahrhundert von feindlichen Bulala-Stämmen zerstört.",
+          "Massive Wüstensanddünen begraben heute die meisten archäologischen Überreste.",
+          "Extreme geografische Isolation macht formellen Tourismus völlig unmöglich."
+        ],
+        "hu": [
+          "Njimi az ősi és rendkívül erős Kanem Birodalom hatalmas fővárosa volt.",
+          "A város irányította a rendkívül jövedelmező transzszaharai rabszolgakereskedelmet.",
+          "A települést a 14. században az ellenséges bulala törzsek teljesen elpusztították.",
+          "Hatalmas sivatagi homokdűnék temetik be ma a legtöbb régészeti maradványt.",
+          "Az extrém földrajzi elszigeteltség teljesen lehetetlenné teszi a turizmust."
+        ],
+        "ro": [
+          "Njimi a fost capitala extrem de puternică a anticului Imperiu Kanem.",
+          "Orașul controla comerțul trans-saharian extrem de profitabil.",
+          "A fost distrus complet în secolul al XIV-lea de triburile inamice Bulala.",
+          "Dune masive de nisip deșertic îngroapă astăzi majoritatea rămășițelor arheologice.",
+          "Izolarea geografică extremă face turismul formal absolut imposibil."
+        ],
+        "en": [
+          "Njimi served as the highly powerful capital of the ancient Kanem Empire.",
+          "The city tightly controlled the highly lucrative trans-Saharan caravan trade.",
+          "It was completely destroyed in the 14th century by hostile Bulala tribes.",
+          "Massive desert sand dunes heavily bury most of the archaeological remains today.",
+          "Extreme geographical isolation makes formal tourism completely impossible here."
+        ]
+      }
+    },
+    {
+      "id": "gaoui-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Dorf Gaoui, das heute als hochgradig wichtiges historisches und kulturelles Zentrum gilt, befindet sich nur zehn Kilometer nordöstlich der Hauptstadt N'Djamena im Tschad. Geografisch profitiert das Dorf enorm von seiner Nähe zur städtischen Metropole und den fruchtbaren Auen des Schari-Flusses. Historisch gesehen war Gaoui die absolute historische Hauptstadt der legendären Sao-Zivilisation. Die Sao waren ein uraltes, von Mythen umwobenes Volk von Riesen, das für seine außergewöhnlich meisterhafte Lehmarchitektur und feine Töpferkunst berühmt war, bevor es im 16. Jahrhundert durch das Kanem-Bornu-Reich ausgelöscht wurde. Die Nachfahren im heutigen Gaoui, das Volk der Kotoko, bewahren diese handwerklichen Traditionen. Das lokale Museum in einem restaurierten Sultan-Palast stellt spektakuläre Sao-Artefakte, insbesondere riesige Begräbnis-Urnen, aus. Wirtschaftlich ist Gaoui eines der sehr wenigen Dörfer im Tschad, das aktiv vom Kulturtourismus profitiert. Der Verkauf von kunstvoller Töpferei an Touristen und Bewohner der Hauptstadt sichert vielen Familien ein starkes, bargeldbasiertes Einkommen in einer ansonsten marginalisierten Region.",
+        "hu": "Gaoui falu, amelyet ma rendkívül fontos történelmi és kulturális központnak tartanak, mindössze tíz kilométerre északkeletre található a csádi fővárostól, N'Djamenától. Földrajzilag a falu óriási mértékben profitál a városi metropolisz és a Chari-folyó termékeny ártereinek közelségéből. Történelmileg Gaoui volt a legendás Sao civilizáció abszolút történelmi fővárosa. A Sao egy ősi, mítoszokkal övezett óriásokból álló nép volt, amely kivételesen mesteri vályogépítészetéről és finom fazekasművészetéről volt híres, mielőtt a 16. században a Kanem-Bornu Birodalom kiirtotta volna őket. A mai Gaouiban élő leszármazottak, a kotoko nép, őrzik ezeket a kézműves hagyományokat. Egy restaurált szultáni palotában található helyi múzeum látványos Sao-leleteket, különösen hatalmas temetkezési urnákat állít ki. Gazdasági szempontból Gaoui egyike a nagyon kevés csádi falunak, amely aktívan profitál a kulturális turizmusból. A művészi fazekasáruk eladása a turistáknak és a fővárosiaknak sok család számára biztosít erős, készpénzalapú jövedelmet egy amúgy marginalizált régióban.",
+        "ro": "Satul Gaoui, care este considerat astăzi un centru istoric și cultural extrem de important, este situat la doar zece kilometri nord-est de capitala N'Djamena în Ciad. Geografic, satul beneficiază enorm de proximitatea sa de metropola urbană și de câmpiile fertile ale râului Chari. Istoric, Gaoui a fost capitala istorică absolută a legendarei civilizații Sao. Sao erau un popor antic învăluit în mituri despre uriași, faimoși pentru arhitectura lor excepțională din lut și ceramica fină, înainte de a fi șterși de Imperiul Kanem-Bornu în secolul al XVI-lea. Descendenții din Gaoui de astăzi, poporul Kotoko, păstrează masiv aceste tradiții artizanale. Muzeul local dintr-un palat restaurat al sultanului expune artefacte spectaculoase Sao, în special urne funerare gigantice. Economic, Gaoui este unul dintre foarte puținele sate din Ciad care profită activ de turismul cultural. Vânzarea ceramicii artistice către turiști și locuitorii capitalei asigură un venit puternic.",
+        "en": "The village of Gaoui, which is currently highly regarded as a profoundly important historical and cultural center, is located just ten kilometers northeast of the capital, N'Djamena, in Chad. Geographically, the village benefits enormously from its close proximity to the urban metropolis and the highly fertile floodplains of the Chari River. Historically, Gaoui was the absolute historical capital of the legendary Sao civilization. The Sao were an ancient people steeped in myths of giants, historically famous for their exceptionally masterful mud-brick architecture and very fine pottery before they were violently wiped out by the Kanem-Bornu Empire in the 16th century. The direct descendants living in present-day Gaoui, the Kotoko people, actively preserve these ancient artisanal traditions. The local museum, housed tightly within a beautifully restored Sultan's palace, exhibits spectacular Sao artifacts, particularly massive burial urns. Economically, Gaoui is one of the very few villages in Chad that actively profits from commercial cultural tourism. The direct sale of artistic pottery to tourists highly secures a strong cash income."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gaoui war historisch die unangefochtene Hauptstadt der legendären Sao-Zivilisation.",
+          "Die Sao waren in ganz Zentralafrika berühmt für ihre riesigen Tonurnen.",
+          "Ein restaurierter Sultanspalast dient dem Dorf heute als Kulturmuseum.",
+          "Handwerkliche Töpferei generiert ein extrem wichtiges Einkommen für Frauen.",
+          "Die Nähe zur Hauptstadt N'Djamena ermöglicht lukrativen Kulturtourismus."
+        ],
+        "hu": [
+          "Gaoui volt történelmileg a legendás Sao civilizáció vitathatatlan fővárosa.",
+          "A Sao nép egész Közép-Afrikában híres volt a hatalmas agyagurnáiról.",
+          "Egy restaurált szultáni palota ma a falu kulturális múzeumaként szolgál.",
+          "A kézműves fazekasság rendkívül fontos készpénzjövedelmet generál a nőknek.",
+          "A főváros, N'Djamena közelsége lehetővé teszi a jövedelmező kultúrturizmust."
+        ],
+        "ro": [
+          "Gaoui a fost istoric capitala de necontestat a legendarei civilizații Sao.",
+          "Poporul Sao era faimos în toată Africa Centrală pentru urnele masive din lut.",
+          "Un palat restaurat al sultanului servește astăzi drept muzeu cultural local.",
+          "Ceramica artizanală generează un venit financiar extrem de important pentru femei.",
+          "Proximitatea de capitala N'Djamena permite un turism cultural foarte lucrativ."
+        ],
+        "en": [
+          "Gaoui was historically the undisputed capital of the legendary Sao civilization.",
+          "The ancient Sao were famous throughout Central Africa for massive clay urns.",
+          "A fully restored Sultan's palace serves as the village's cultural museum today.",
+          "Artisanal pottery production generates an extremely important cash income for women.",
+          "Close proximity to the capital, N'Djamena, firmly enables lucrative cultural tourism."
+        ]
+      }
+    },
+    {
+      "id": "yao-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die historische Region um Yao, gelegen am Ufer des Fitri-Sees in der Provinz Batha im Zentrum des Tschad, ist das absolute Kernland des ehrwürdigen Yao-Sultanats (auch Bulala-Sultanat genannt). Geografisch markiert dieses Feuchtgebiet einen fruchtbaren, grünen Fleck mitten in der rauen, halbtrockenen Sahelzone, der eine unglaubliche Vogel- und Fischvielfalt anzieht. Historisch gesehen wurde das Yao-Sultanat im 14. Jahrhundert von den kriegerischen Bulala gegründet, nachdem diese die Hauptstadt des Kanem-Reiches zerstört und die Kontrolle über die zentralen Handelsrouten der Sahelzone an sich gerissen hatten. Die Bulala kontrollierten den Sklavenhandel und etablierten Yao als ein hochgradig mächtiges, eigenständiges Königreich. Noch heute besitzt der Sultan von Yao eine enorme traditionelle Autorität und fungiert als oberster Richter und Landverwalter für die Bulala-Bevölkerung in der Region. Wirtschaftlich existiert die moderne Siedlung Yao fast völlig außerhalb nationaler Märkte. Die isolierten Einwohner überleben exklusiv durch intensive Binnenfischerei im Fitri-See und Subsistenzlandwirtschaft. Es gibt absolut keine touristische Infrastruktur.",
+        "hu": "A Yao körüli történelmi régió, amely a Fitri-tó partján, a Batha tartományban található Csád középső részén, a tiszteletre méltó Yao Szultanátus (más néven Bulala Szultanátus) abszolút központja. Földrajzilag ez a vizes élőhely egy termékeny, zöld foltot jelöl a zord, félszáraz Száhel-övezet kellős közepén, amely hihetetlen madár- és halgazdagságot vonz. Történelmileg a Yao Szultanátust a harcias bulalák alapították a 14. században, miután elpusztították a Kanem Birodalom fővárosát, és átvették az irányítást a Száhel-övezet központi kereskedelmi útvonalai felett. A bulalák ellenőrizték a rabszolgakereskedelmet, és Yaót egy rendkívül erős, független királysággá tették. A yaoi szultán még ma is hatalmas hagyományos tekintélylyel rendelkezik, és a régióban élő bulala lakosság legfőbb bírájaként és földkezelőjeként működik. Gazdasági szempontból a modern Yao település szinte teljesen a nemzeti piacokon kívül létezik. Az elszigetelt lakosok kizárólag a Fitri-tóban folytatott intenzív belvízi halászatból és önellátó mezőgazdaságból élnek túl. Egyáltalán nincs turisztikai infrastruktúra.",
+        "ro": "Regiunea istorică din jurul Yao, situată pe malul Lacului Fitri în provincia Batha din centrul Ciadului, este inima absolută a venerabilului Sultanat Yao (cunoscut și sub numele de Sultanatul Bulala). Geografic, această zonă umedă marchează o pată fertilă, verde în mijlocul Sahelului aspru, semi-arid, atrăgând o diversitate incredibilă de păsări și pești. Istoric, Sultanatul Yao a fost fondat în secolul al XIV-lea de războinicii Bulala, după ce au distrus capitala Imperiului Kanem și au preluat controlul rutelor comerciale centrale. Aceștia au controlat comerțul cu sclavi și au transformat Yao într-un regat independent extrem de puternic. Chiar și astăzi, Sultanul din Yao posedă o autoritate tradițională enormă, acționând ca judecător suprem și administrator al terenurilor pentru populația Bulala. Economic, așezarea modernă Yao există aproape în întregime în afara piețelor naționale. Locuitorii izolați supraviețuiesc exclusiv prin pescuit intens și agricultura de subzistență în Lacul Fitri. Infrastructura turistică lipsește total.",
+        "en": "The historical region surrounding Yao, located directly on the shores of Lake Fitri in the Batha province of central Chad, is the absolute heartland of the venerable Yao Sultanate (also known as the Bulala Sultanate). Geographically, this lush wetland marks a highly fertile, green oasis perfectly situated in the middle of the harsh, semi-arid Sahel zone, attracting an incredible diversity of bird and fish species. Historically, the Yao Sultanate was founded in the 14th century by the highly warlike Bulala tribe, after they successfully destroyed the capital of the ancient Kanem Empire and fiercely seized control of the central commercial trade routes of the Sahel. The Bulala tightly controlled the slave trade and established Yao as a highly powerful, fiercely independent kingdom. Even today, the Sultan of Yao firmly possesses enormous traditional authority, acting as the supreme judge and ultimate land administrator for the Bulala population in the region. Economically, the modern settlement of Yao exists almost entirely outside formal national markets. The isolated inhabitants survive exclusively through intense inland fishing in Lake Fitri."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Yao war historisch die unangefochtene Hauptstadt des mächtigen Bulala-Sultanats.",
+          "Der Stamm der Bulala zerstörte im 14. Jahrhundert das rivalisierende Kanem-Reich.",
+          "Die Stadt liegt hochisoliert direkt an den fruchtbaren Ufern des Fitri-Sees.",
+          "Der amtierende Sultan von Yao besitzt heute noch absolute lokale Autorität.",
+          "Die lokale Bevölkerung überlebt fast exklusiv durch Subsistenzfischerei im See."
+        ],
+        "hu": [
+          "Yao történelmileg a hatalmas Bulala Szultanátus vitathatatlan fővárosa volt.",
+          "A bulala törzs a 14. században teljesen elpusztította a rivális Kanem Birodalmat.",
+          "A város rendkívül elszigetelten fekszik közvetlenül a termékeny Fitri-tó partján.",
+          "A hivatalban lévő yaoi szultán még ma is abszolút helyi tekintéllyel rendelkezik.",
+          "A helyi lakosság szinte kizárólag a tóban folytatott önellátó halászatból él túl."
+        ],
+        "ro": [
+          "Yao a fost istoric capitala de necontestat a puternicului Sultanat Bulala.",
+          "Tribul Bulala a distrus complet imperiul rival Kanem în secolul al XIV-lea.",
+          "Orașul este foarte izolat, direct pe malurile fertile ale Lacului Fitri.",
+          "Sultanul actual din Yao posedă încă autoritate locală tradițională absolută.",
+          "Populația supraviețuiește aproape exclusiv prin pescuit de subzistență în lac."
+        ],
+        "en": [
+          "Yao historically served as the undisputed capital of the powerful Bulala Sultanate.",
+          "The warlike Bulala tribe completely destroyed the rival Kanem Empire in the 14th century.",
+          "The city is highly isolated, located directly on the fertile shores of Lake Fitri.",
+          "The reigning Sultan of Yao firmly holds absolute traditional local authority today.",
+          "The local population survives almost exclusively through basic subsistence fishing."
+        ]
+      }
+    },
+    {
+      "id": "koro-toro-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die archäologische und paläontologische Ausgrabungsstätte Koro Toro befindet sich tief in der unerbittlichen Djurab-Wüste im extrem isolierten Zentrum des Tschad. Geografisch liegt das Gebiet in einer hyperariden Beckenzone, die vor Jahrtausenden Teil des gewaltigen prähistorischen Mega-Tschadsees war. Dieser ehemalige Binnensee hinterließ massive Sedimentschichten, die heute ein absolutes Paradies für globale Paläontologen darstellen. Wirtschaftlich ist die Gegend eine reine Wüste ohne jedwede lokale Zivilisation, Industrie oder Infrastruktur. Historisch und wissenschaftlich erlangte Koro Toro jedoch 1995 gigantische internationale Berühmtheit: Ein französisch-tschadisches Forscherteam entdeckte hier den fossilen Unterkiefer von \"Abel\" (*Australopithecus bahrelghazali*), einem etwa 3,6 Millionen Jahre alten Hominiden. Diese spektakuläre Entdeckung veränderte die menschliche Evolutionsgeschichte fundamental, da sie absolut bewies, dass frühe Hominiden weit westlich des ostafrikanischen Grabenbruchs lebten. Wegen extremer Sandstürme und dem völligen Fehlen von befestigten Wüstenpisten bleibt der Zugang zu Koro Toro exklusiv auf streng organisierte wissenschaftliche Expeditionen beschränkt.",
+        "hu": "A Koro Toro régészeti és őslénytani ásatási helyszín mélyen a könyörtelen Djurab-sivatagban, Csád extrém módon elszigetelt központjában található. Földrajzilag a terület egy hiperarid medencezónában fekszik, amely évezredekkel ezelőtt a hatalmas történelem előtti Mega-Csád-tó része volt. Ez az egykori beltenger masszív üledékrétegeket hagyott hátra, amelyek ma a globális paleontológusok abszolút paradicsomát jelentik. Gazdasági szempontból a környék tiszta sivatag, mindenféle helyi civilizáció, ipar vagy infrastruktúra nélkül. Történelmileg és tudományosan azonban Koro Toro 1995-ben gigantikus nemzetközi hírnévre tett szert: egy francia-csádi kutatócsoport itt fedezte fel az \"Abel\" (*Australopithecus bahrelghazali*), egy körülbelül 3,6 millió éves hominida fosszilis alsó állkapcsát. Ez a látványos felfedezés alapvetően megváltoztatta az emberi evolúció történetét, mivel abszolút bebizonyította, hogy a korai hominidák jóval a kelet-afrikai hasadékvölgytől nyugatra is éltek. Az extrém homokviharok és a kiépített sivatagi utak teljes hiánya miatt a Koro Toróhoz való hozzáférés kizárólag a szigorúan szervezett tudományos expedíciókra korlátozódik.",
+        "ro": "Situl arheologic și paleontologic Koro Toro este situat adânc în neiertătorul deșert Djurab, în centrul extrem de izolat al Ciadului. Geografic, zona se află într-o zonă de bazin hiperaridă care, cu milenii în urmă, făcea parte din uriașul lac preistoric Mega-Ciad. Acest fost lac interior a lăsat în urmă straturi masive de sedimente, care astăzi reprezintă un paradis absolut pentru paleontologii globali. Economic, zona este un deșert pur fără absolut nicio civilizație, industrie sau infrastructură locală. Istoric și științific, Koro Toro a câștigat faimă internațională gigantică în 1995: O echipă franco-ciadiană a descoperit aici maxilarul inferior fosilizat al lui „Abel” (*Australopithecus bahrelghazali*), un hominid vechi de 3,6 milioane de ani. Această descoperire spectaculoasă a schimbat istoria evoluției umane, demonstrând că hominizii trăiau la vest de Marea Vale a Riftului. Din cauza furtunilor de nisip și a lipsei drumurilor, accesul este limitat strict la expediții.",
+        "en": "The archaeological and paleontological excavation site of Koro Toro is located deep within the unforgiving Djurab Desert in the extremely isolated center of Chad. Geographically, the area lies in a hyper-arid basin zone that, millennia ago, formed an integral part of the massive prehistoric Lake Mega-Chad. This former massive inland sea left behind thick sedimentary layers that today represent an absolute paradise for global paleontologists. Economically, the region is a pure desert completely devoid of any local civilization, industry, or infrastructure. Historically and scientifically, however, Koro Toro achieved gigantic international fame in 1995: A joint French-Chadian research team successfully discovered the fossilized lower jaw of \"Abel\" (*Australopithecus bahrelghazali*), a highly significant hominid dating back approximately 3.6 million years. This spectacular discovery fundamentally altered human evolutionary history, as it absolutely proved that early hominids actively lived far west of the East African Rift Valley. Due to extreme, blinding sandstorms and a total lack of paved desert tracks, physical access to Koro Toro remains exclusively restricted to strictly organized scientific expeditions."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koro Toro liegt tief im extrem lebensfeindlichen Sand der Djurab-Wüste.",
+          "Das Gebiet war vor Jahrtausenden der Grund des riesigen Mega-Tschadsees.",
+          "1995 fanden Forscher hier die Überreste des 3,6 Millionen Jahre alten „Abel“.",
+          "Der Fund bewies, dass Hominiden weit westlich des großen Grabenbruchs lebten.",
+          "Unbarmherzige Sandstürme machen die archäologischen Ausgrabungen sehr schwer."
+        ],
+        "hu": [
+          "Koro Toro mélyen a Djurab-sivatag rendkívül barátságtalan homokjában fekszik.",
+          "A terület évezredekkel ezelőtt a hatalmas Mega-Csád-tó medre volt.",
+          "1995-ben itt találták meg a 3,6 millió éves „Ábel” előember maradványait.",
+          "A lelet bebizonyította, hogy a hominidák jóval a nagy hasadékvölgytől nyugatra éltek.",
+          "A könyörtelen és brutális homokviharok rendkívül megnehezítik az ásatásokat."
+        ],
+        "ro": [
+          "Koro Toro se află adânc în nisipul extrem de ostil al marelui deșert Djurab.",
+          "Zona a fost cândva fundul uriașului lac preistoric Mega-Ciad cu milenii în urmă.",
+          "Rămășițele lui „Abel”, vechi de 3,6 milioane de ani, au fost descoperite aici în 1995.",
+          "Descoperirea a dovedit că hominizii trăiau masiv la vest de Marea Vale a Riftului.",
+          "Furtunile de nisip necruțătoare complică masiv și frecvent săpăturile științifice."
+        ],
+        "en": [
+          "Koro Toro is located deep in the highly hostile sand of the vast Djurab Desert.",
+          "Millennia ago, the dry area was the muddy bottom of the prehistoric Lake Mega-Chad.",
+          "In 1995, researchers spectacularly found the remains of the 3.6-million-year-old \"Abel\".",
+          "The finding absolutely proved that hominids actively lived far west of the Rift Valley.",
+          "Unforgiving, blinding sandstorms make formal archaeological excavations highly difficult."
+        ]
+      }
+    }
+  ]
+}

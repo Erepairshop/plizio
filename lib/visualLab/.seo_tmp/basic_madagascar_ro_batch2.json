@@ -1,0 +1,25 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    { "id": "tamatave-stadtpark-life-v2", "description": "Parcul orașului Tamatave este o zonă verde liniștită în principalul oraș portuar de pe coasta de est.", "facts": ["Spațiu verde", "Orașul Toamasina", "Loc de relaxare"] },
+    { "id": "maroantsetra-vanille-farm-life-v2", "description": "Fermele de vanilie din Maroantsetra sunt inima producției de vanilie din Madagascar, oferind tururi educative.", "facts": ["Producție vanilie", "Tururi agricole", "Nord-estul insulei"] },
+    { "id": "ranomafana-zoo-bereich-life-v2", "description": "Zona grădinii zoologice din Ranomafana oferă posibilitatea de a vedea specii locale în condiții protejate.", "facts": ["Specii protejate", "Regiunea Ranomafana", "Educație ecologică"] },
+    { "id": "antsirabe-reis-felder-life-v2", "description": "Câmpurile de orez din jurul orașului Antsirabe oferă un peisaj agricol spectaculos pe platourile înalte.", "facts": ["Peisaj agricol", "Cultură orez", "Platourile înalte"] },
+    { "id": "nosy-tanikely-marine-life-v2", "description": "Viața marină din jurul Nosy Tanikely este protejată într-un parc marin național ideal pentru snorkeling.", "facts": ["Parc marin", "Snorkeling excelent", "Biodiversitate marină"] },
+    { "id": "toliara-botanischer-garten-life-v2", "description": "Grădina botanică din Toliara prezintă flora unică adaptată la climatul arid din sud-vestul Madagascarului.", "facts": ["Floră aridă", "Plante endemice", "Sud-vestul insulei"] },
+    { "id": "mahajanga-strand-life-v2", "description": "Plaja din Mahajanga este un loc popular de întâlnire pentru localnici și turiști, oferind apusuri superbe.", "facts": ["Plajă urbană", "Apusuri spectaculoase", "Orașul Mahajanga"] },
+    { "id": "tsingy-namoroka-park-life-v2", "description": "Parcul Tsingy de Namoroka adăpostește formațiuni de calcar similare cu Bemaraha, dar într-o zonă mai izolată.", "facts": ["Formațiuni tsingy", "Zonă izolată", "Peisaj carstic"] },
+    { "id": "fianarantsoa-weingut-life-v2", "description": "Podgoriile din Fianarantsoa sunt faimoase pentru producția de vin malgaș, o raritate în regiune.", "facts": ["Producție vin", "Tradiție locală", "Regiunea Fianarantsoa"] },
+    { "id": "nosy-komba-lemuren-life-v2", "description": "Lemurii de pe Nosy Komba sunt foarte obișnuiți cu prezența umană pe această insulă mică și vulcanică.", "facts": ["Interacțiune lemuri", "Insulă vulcanică", "Lângă Nosy Be"] },
+    { "id": "zombitse-vohibasia-park-life-v2", "description": "Parcul Național Zombitse-Vohibasia este o zonă de tranziție între pădurea uscată și cea umedă.", "facts": ["Pădure de tranziție", "Observare păsări", "Habitat lemuri"] },
+    { "id": "antsirabe-thermalbad-life-v2", "description": "Băile termale din Antsirabe sunt renumite pentru proprietățile lor curative încă din perioada colonială.", "facts": ["Izvoare termale", "Turism balnear", "Proprietăți curative"] },
+    { "id": "ankarafantsika-vogelbeobachtung-life-v2", "description": "Observarea păsărilor în Ankarafantsika este o experiență de top, parcul fiind casă pentru multe specii endemice.", "facts": ["Paradis ornitologic", "Specii endemice", "Pădure uscată"] },
+    { "id": "nosy-mitsio-tauchen-life-v2", "description": "Scufundările în arhipelagul Nosy Mitsio dezvăluie recife de corali virgine și o viață marină bogată.", "facts": ["Scufundări profesionale", "Recife de corali", "Arhipelag izolat"] },
+    { "id": "tampolo-naturreservat-life-v2", "description": "Rezervația naturală Tampolo protejează o zonă de pădure litorală pe coasta de est a Madagascarului.", "facts": ["Pădure litorală", "Coasta de est", "Conservare habitate"] }
+  ]
+}

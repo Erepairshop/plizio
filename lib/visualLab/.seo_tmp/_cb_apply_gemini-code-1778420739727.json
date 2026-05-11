@@ -1,0 +1,48 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-carlos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Carlos ist die administrative Hauptstadt der Provinz Punilla in der Region Ñuble im zentral-südlichen Chile. Geografisch liegt die Stadt in den unglaublich flachen und fruchtbaren Ebenen des nationalen Central Valley und profitiert massiv vom landwirtschaftlichen Potenzial der Region. Wirtschaftlich ist San Carlos ein strikt agrarisches Zentrum, das komplett von der großflächigen kommerziellen Produktion von Zuckerrüben, Weizen und Beeren für den Export dominiert wird. Die Stadt fungiert als hochgradig vitaler Logistik- und Verarbeitungs-Hub für diese Agrargüter und beherbergt große Silos sowie industrielle Verpackungsanlagen. Historisch wurde San Carlos im Jahr 1800 offiziell gegründet, um die Königsstraße zu sichern, die Santiago mit der südlichen Grenze verband, und um die ländliche Bauernbevölkerung zu konsolidieren. Die Stadt weist ein hochtraditionelles, gitterförmiges koloniales Straßennetz auf. Heute bleibt die lokale formelle Ökonomie absolut abhängig von den stark schwankenden Weltmarktpreisen für Agrarrohstoffe. Die Stadt leidet zudem unter erheblichen infrastrukturellen Defiziten, insbesondere dem völligen Fehlen asphaltierter Straßen in den ländlichen Randgebieten, was den effizienten Transport der schweren Ernten während der extrem nassen Wintermonate massiv behindert.",
+        "hu": "San Carlos a Punilla tartomány közigazgatási fővárosa a Ñuble régióban, Közép-Dél-Chilében. Földrajzilag a város a nemzeti Középső-völgy (Central Valley) hihetetlenül lapos és termékeny síkságain helyezkedik el, nagymértékben profitálva a régió mezőgazdasági potenciáljából. Gazdasági szempontból San Carlos egy szigorúan agrárközpont, amelyet teljesen a cukorrépa, a búza és az exportra szánt bogyós gyümölcsök nagyüzemi kereskedelmi termesztése ural. A város rendkívül létfontosságú logisztikai és feldolgozási csomópontként működik ezen mezőgazdasági termékek számára, nagy silóknak és ipari csomagolóüzemeknek adva otthont. Történelmileg San Carlost 1800-ban alapították hivatalosan, hogy biztosítsák a Santiagót a déli határral összekötő királyi utat, és megszilárdítsák a vidéki földműves lakosságot. A város rendkívül hagyományos, rácsszerkezetű gyarmati elrendezéssel rendelkezik. Ma a helyi formális gazdaság továbbra is abszolút függ a mezőgazdasági nyersanyagok erősen ingadozó világpiaci áraitól. A város emellett jelentős infrastrukturális hiányosságoktól szenved, különös tekintettel az aszfaltozott utak teljes hiányára a környező vidéki szektorokban, ami masszívan akadályozza a nehéz termés hatékony szállítását a rendkívül csapadékos téli hónapokban.",
+        "ro": "San Carlos este capitala administrativă a provinciei Punilla din regiunea Ñuble din centrul-sudul statului Chile. Geografic, orașul este situat în câmpiile incredibil de plate și fertile ale Văii Centrale naționale, beneficiind masiv de potențialul agricol al regiunii. Economic, San Carlos este strict un centru agrar, dominat complet de producția comercială la scară largă de sfeclă de zahăr, grâu și fructe de pădure destinate exportului. Orașul funcționează ca un hub logistic și de procesare extrem de vital pentru aceste bunuri, găzduind silozuri mari și facilități industriale de ambalare. Istoric, San Carlos a fost fondat oficial în 1800 pentru a asigura drumul regal care lega Santiago de granița sudică și pentru a consolida populația agricolă. Astăzi, economia locală rămâne absolut dependentă de prețurile globale fluctuante ale mărfurilor agricole. Orașul suferă de deficite infrastructurale semnificative, în special lipsa totală a drumurilor asfaltate în sectoarele rurale înconjurătoare.",
+        "en": "San Carlos is the administrative capital of the Punilla Province within the Ñuble Region of central-southern Chile. Geographically, the city is situated in the incredibly flat and fertile plains of the national Central Valley, heavily benefiting from the agricultural potential of the region. Economically, San Carlos is strictly an agrarian center, completely dominated by the large-scale commercial production of sugar beets, wheat, and export-grade berries. The city functions as a highly vital logistical and processing hub for these agricultural goods, hosting large silos and industrial packing facilities. Historically, San Carlos was officially founded in 1800 to secure the royal road connecting Santiago to the southern frontier and to consolidate the rural farming population. The city features a highly traditional, grid-based colonial layout. Today, the local formal economy remains absolutely dependent on the fluctuating global prices of agricultural commodities. The city suffers from significant infrastructural deficits, particularly the total lack of paved roads in the surrounding rural sectors, which heavily hinders the efficient transport of heavy harvests during the intensely wet winter season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "San Carlos liegt extrem flach und fruchtbar mitten im chilenischen Central Valley.",
+          "Die städtische Wirtschaft fokussiert sich komplett auf industrielle Agrarproduktion.",
+          "Riesige Anlagen verarbeiten hier massiv Zuckerrüben und Weizen für den Export.",
+          "Die Stadt wurde 1800 gegründet, um die wichtige historische Königsstraße zu sichern.",
+          "Unbefestigte Landstraßen blockieren die Erntelogistik im nassen Winter völlig."
+        ],
+        "hu": [
+          "San Carlos extrém lapos és termékeny területen fekszik a Central Valley közepén.",
+          "A városi gazdaság teljesen és kizárólag az ipari agrártermelésre fókuszál.",
+          "Hatalmas létesítmények dolgozzák fel itt masszívan a cukorrépát és a búzát.",
+          "A várost 1800-ban alapították a fontos történelmi királyi út biztosítására.",
+          "A burkolatlan földutak teljesen blokkolják a betakarítási logisztikát a nedves télen."
+        ],
+        "ro": [
+          "San Carlos este situat în câmpiile extrem de plate și fertile din Valea Centrală.",
+          "Economia se concentrează complet pe producția agricolă comercială la scară largă.",
+          "Facilități uriașe procesează masiv sfecla de zahăr și grâul pentru exportul global.",
+          "Orașul a fost fondat în 1800 pentru a securiza drumul regal istoric important.",
+          "Drumurile rurale neasfaltate blochează total logistica recoltelor în iarna umedă."
+        ],
+        "en": [
+          "San Carlos is located in the incredibly flat and fertile plains of the Central Valley.",
+          "The urban economy focuses completely on large-scale commercial agricultural production.",
+          "Gigantic facilities here massively process sugar beets and bulk wheat for export.",
+          "The city was strictly founded in 1800 to secure the historically vital royal road.",
+          "Unpaved rural roads completely block harvest logistics during the intensely wet winter."
+        ]
+      }
+    }
+  ]
+}

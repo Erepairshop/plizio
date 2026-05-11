@@ -1,0 +1,39 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-st-joseph-ruins-history-v2",
+      "description": "Die Ruinen von St. Joseph markieren den Standort der ersten spanischen Hauptstadt von Trinidad. Sie sind ein wichtiges historisches Zeugnis aus der Zeit der Kolonialisierung.",
+      "facts": ["Ehemalige Hauptstadt", "Spanische Kolonialzeit", "Wichtiges Zeugnis"]
+    },
+    {
+      "id": "tt-spanishtown-ruins-history-v2",
+      "description": "Die Überreste von Spanish Town bieten Einblicke in die frühe Besiedlungsgeschichte der Insel. Sie dokumentieren den architektonischen und kulturellen Einfluss der spanischen Epoche.",
+      "facts": ["Frühe Besiedlung", "Spanische Ära", "Historisches Kulturerbe"]
+    },
+    {
+      "id": "tt-port-of-spain-citadel-history-v2",
+      "description": "Die Zitadelle von Port of Spain diente früher als wichtiger Verteidigungspunkt der Stadt. Sie erinnert an die strategischen Bemühungen, den Hafen gegen Angriffe zu sichern.",
+      "facts": ["Verteidigungspunkt", "Historische Sicherung", "Strategische Zitadelle"]
+    },
+    {
+      "id": "tt-military-hospital-ruins-history-v2",
+      "description": "Die Ruinen des ehemaligen Militärkrankenhauses bezeugen die medizinische und militärische Infrastruktur der Kolonialzeit. Das Gelände dient heute als historisches Denkmal.",
+      "facts": ["Medizinische Infrastruktur", "Militärhistorie", "Koloniales Erbe"]
+    },
+    {
+      "id": "tt-dutch-fort-tobago-history-v2",
+      "description": "Dieses ehemalige holländische Fort auf Tobago zeugt von den wechselhaften Machtverhältnissen zwischen den europäischen Mächten in der Region. Es diente der Sicherung strategischer Küstenabschnitte.",
+      "facts": ["Holländisches Erbe", "Tobago Küstenschutz", "Strategisches Fort"]
+    },
+    {
+      "id": "tt-spanish-garrison-history-v2",
+      "description": "Die spanische Garnison bildete über lange Zeit den Kern der militärischen Präsenz auf Trinidad. Sie ist ein bedeutendes Relikt für das Verständnis der kolonialen Militärstrategie.",
+      "facts": ["Militärische Präsenz", "Koloniale Strategie", "Bedeutendes Relikt"]
+    }
+  ]
+}

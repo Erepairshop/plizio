@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-de-la-aurora-relief-v2",
+      "description": "A scenic mountain range known for its natural beauty and unique geological formations in the northern hills.",
+      "facts": ["Northern hills", "Geological features", "Natural scenery", "Mountain range"]
+    },
+    {
+      "id": "cerro-blanco-relief-v2",
+      "description": "A notable hill in the Uruguayan landscape, often recognized for its white-colored rocky appearance.",
+      "facts": ["Notable hill", "Rocky appearance", "White coloring", "Natural relief"]
+    },
+    {
+      "id": "cerro-de-la-buena-vista-relief-v2",
+      "description": "A hill named for the expansive panoramic views it offers of the surrounding plains and landscapes.",
+      "facts": ["Panoramic views", "Expansive plains", "Natural vantage", "Uruguayan relief"]
+    },
+    {
+      "id": "cerro-colorado-relief-v2",
+      "description": "A prominent hill known for its reddish soil and rock formations, forming part of the rolling terrain.",
+      "facts": ["Reddish soil", "Rolling terrain", "Natural rock", "Cerro region"]
+    },
+    {
+      "id": "cuchilla-del-fuego-relief-v2",
+      "description": "A ridge characterized by its dramatic elevation, integral to the local geography of central Uruguay.",
+      "facts": ["Prominent ridge", "Central Uruguay", "Dramatic elevation", "Geographical feature"]
+    },
+    {
+      "id": "cuchilla-del-bizcocho-relief-v2",
+      "description": "A traditional ridge located in the western region, known for its undulating landscape and hills.",
+      "facts": ["Western region", "Undulating land", "Ridge feature", "Geographical area"]
+    },
+    {
+      "id": "cerro-de-la-sepultura-relief-v2",
+      "description": "A hill with a distinct profile that stands out in the regional landscape of Uruguay.",
+      "facts": ["Regional hill", "Distinct profile", "Natural landform", "Uruguayan relief"]
+    },
+    {
+      "id": "cerro-del-cuervo-relief-v2",
+      "description": "A hill named after the ravens often seen in the area, contributing to the local biodiversity.",
+      "facts": ["Natural hill", "Local biodiversity", "Geographical point", "Uruguayan landscape"]
+    },
+    {
+      "id": "cerro-aspero-relief-v2",
+      "description": "A hill with rough terrain and rocky outcroppings, common in the rugged parts of the country.",
+      "facts": ["Rough terrain", "Rocky landscape", "Natural hill", "Rugged area"]
+    },
+    {
+      "id": "cuchilla-negra-relief-v2",
+      "description": "A long ridge known for its dark soil and dense vegetation, stretching across parts of the country.",
+      "facts": ["Long ridge", "Dark soil", "Dense vegetation", "Geographic landmark"]
+    },
+    {
+      "id": "cuchilla-de-peralta-relief-v2",
+      "description": "A prominent ridge that defines parts of the landscape, providing essential geographical markers.",
+      "facts": ["Prominent ridge", "Geographical marker", "Natural landform", "Uruguayan hills"]
+    },
+    {
+      "id": "cuchilla-del-ombu-relief-v2",
+      "description": "A ridge named after the native Ombu tree, which thrives in the natural environment of the area.",
+      "facts": ["Named ridge", "Native vegetation", "Natural landscape", "Uruguayan relief"]
+    }
+  ]
+}

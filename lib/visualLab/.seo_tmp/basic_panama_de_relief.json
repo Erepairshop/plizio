@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-tute-relief-v2",
+      "description": "Der Cerro Tute ist eine markante Erhebung, die Wanderern spektakuläre Ausblicke über die umliegenden Täler bietet.",
+      "facts": ["Bekannter Wanderberg.", "Tolle Panoramablicke.", "Mittelgebirgslandschaft."]
+    },
+    {
+      "id": "cerro-punta-hohe-relief-v2",
+      "description": "Ein höher gelegenes Gebiet in Cerro Punta, das für seine fruchtbaren Böden und das kühle Bergklima bekannt ist.",
+      "facts": ["Hochgelegenes Agrargebiet.", "Kühles Bergklima.", "Fruchtbare Vulkanböden."]
+    },
+    {
+      "id": "cerro-trinidad-relief-v2",
+      "description": "Der Cerro Trinidad ist Teil der hügeligen Landschaft, die das Inland von Panama charakterisiert.",
+      "facts": ["Charakteristischer Hügel.", "Teil der lokalen Orographie.", "Beliebt für Naturobjekte."]
+    },
+    {
+      "id": "cerro-ceniza-relief-v2",
+      "description": "Dieser Berg ist ein Beispiel für die vielfältige vulkanische Topographie, die das Landschaftsbild Panamas prägt.",
+      "facts": ["Vulkanischen Ursprungs.", "Markante Erhebung.", "Teil der Bergregion."]
+    },
+    {
+      "id": "cerro-cara-de-iguana-relief-v2",
+      "description": "Der markante Cerro Cara de Iguana bietet eine einzigartige Form und ist ein interessantes Ziel für Wanderer.",
+      "facts": ["Einzigartige Felsformation.", "Beliebt bei Wanderern.", "Naturwahrzeichen."]
+    },
+    {
+      "id": "cerro-trinidad-norte-relief-v2",
+      "description": "Die nördliche Ausläufer des Cerro Trinidad tragen zur abwechslungsreichen Geografie der Region bei.",
+      "facts": ["Nordteil des Berges.", "Hügelige Umgebung.", "Geografische Vielfalt."]
+    },
+    {
+      "id": "volcan-baru-relief-v2",
+      "description": "Der Volcán Barú ist der höchste Berg Panamas und bietet bei klarem Wetter Sicht auf Pazifik und Karibik.",
+      "facts": ["Höchster Berg Panamas.", "Inaktiver Vulkan.", "Spektakuläre Aussicht."]
+    },
+    {
+      "id": "loma-del-pan-relief-v2",
+      "description": "Eine sanfte Hügellandschaft, die Teil des hügeligen Reliefs in den zentralen Regionen Panamas ist.",
+      "facts": ["Sanfte Erhebung.", "Typisch für das Tiefland.", "Schöne Naturlandschaft."]
+    },
+    {
+      "id": "cordillera-talamanca-relief-v2",
+      "description": "Das Talamanca-Gebirge bildet ein gewaltiges Rückgrat an der Grenze zwischen Panama und Costa Rica.",
+      "facts": ["Großes Gebirgssystem.", "Wichtige Wasserscheide.", "Hohe Biodiversität."]
+    },
+    {
+      "id": "cerro-patacon-relief-v2",
+      "description": "Eine bedeutende Erhebung im Zentralpanama, die Teil der dortigen Hügelkette ist.",
+      "facts": ["Zentrale Lage.", "Hügelige Topografie.", "Lokales Landschaftselement."]
+    },
+    {
+      "id": "coiba-inselhuegel-relief-v2",
+      "description": "Die Insel Coiba weist ein hügeliges Relief auf, das zu ihrer beeindruckenden marinen Kulisse beiträgt.",
+      "facts": ["Hügelige Inseltopografie.", "Teil des Nationalparks.", "Geografische Besonderheit."]
+    },
+    {
+      "id": "cerro-san-miguel-relief-v2",
+      "description": "Dieser Berg ist ein markanter Punkt in der lokalen Geografie und bietet tolle Ausblicke auf die Umgebung.",
+      "facts": ["Lokale Erhebung.", "Guter Aussichtspunkt.", "Schöne Berglandschaft."]
+    },
+    {
+      "id": "cerro-cucurucha-relief-v2",
+      "description": "Ein weiterer markanter Berg in der hügeligen Landschaft, der für Wanderfreunde von Interesse ist.",
+      "facts": ["Wanderberg.", "Interessante Topografie.", "Natur pur."]
+    },
+    {
+      "id": "altos-de-campana-hohe-relief-v2",
+      "description": "Der Altos de Campana Nationalpark liegt in einer beeindruckenden Bergregion mit einer reichen Flora.",
+      "facts": ["Erster Nationalpark Panamas.", "Beeindruckendes Bergrelief.", "Hohe Artenvielfalt."]
+    },
+    {
+      "id": "cerro-gaitancillo-relief-v2",
+      "description": "Der kleine Cerro Gaitancillo ist Teil der abwechslungsreichen Hügellandschaft in Zentralpanama.",
+      "facts": ["Kleine Erhebung.", "Geografisches Detail.", "Typische Natur."]
+    }
+  ]
+}

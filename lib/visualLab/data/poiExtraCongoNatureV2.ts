@@ -218,7 +218,7 @@ export const poiExtraCongoNatureV2: POI[] = [
       en: "Nouabalé-Ndoki National Park is a pristine, truly untouched wilderness that serves as a global sanctuary for rare primates and other megafauna. Its isolation and the complete lack of permanent human settlements have preserved it as one of the most intact primary rainforest ecosystems in the world. As a pillar of the Sangha Trinational World Heritage site, it is vital for international conservation efforts. Sachkunde K7 — primary rainforests and wilderness preservation."
     },
     factsAdvanced: {
-      en: ["One of the world's most intact primary rainforests.", "UNESCO World Natural Heritage site.", "Home to vital populations of gorillas and chimpanzees.", "Pristine wilderness free of human settlement.", "Part of the wider Sangha Trinational ecosystem.", "Global priority site for primate conservation."]
+      en: ["One of the world's most intact primary rainforests.", "Home to vital populations of gorillas and chimpanzees.", "Pristine wilderness free of human settlement.", "Part of the wider Sangha Trinational ecosystem.", "Global priority site for primate conservation."]
     }
   },
     facts: {

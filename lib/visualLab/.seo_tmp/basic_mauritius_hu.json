@@ -1,0 +1,24 @@
+{
+  "lang": "hu",
+  "country": "Mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gros-cailloux-leisure-park-life-v2",
+      "description": "Szabadidőpark Mauritius nyugati részén, amely számos programlehetőséget kínál családok számára. A területen kiterjedt zöldövezet és különböző kikapcsolódási lehetőségek találhatók.",
+      "facts": ["Mauritius nyugati régiója", "Családbarát park", "Szabadidős tevékenységek", "Kiterjedt zöld terület"]
+    },
+    {
+      "id": "vallee-des-couleurs-life-v2",
+      "description": "Egyedülálló természeti park, amely különleges, színes talajképződményeiről ismert. A területen kalandpark és kilátópontok teszik teljessé az élményt.",
+      "facts": ["Színes földrétegek", "Mauritiusi természetvédelmi terület", "Kalandturizmus", "Panorámás kilátók"]
+    },
+    {
+      "id": "pangia-kids-park-life-v2",
+      "description": "Gyermekek számára kialakított élménypark, amely interaktív játékokat és szórakoztató elemeket biztosít. Ideális helyszín a fiatalabb korosztály számára a sziget központi régiójában.",
+      "facts": ["Gyermek élménypark", "Interaktív játékok", "Biztonságos környezet", "Központi elhelyezkedés"]
+    }
+  ]
+}

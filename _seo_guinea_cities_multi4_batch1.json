@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "labe-cities-v2",
+      "descriptionAdvancedDe": "Labé, die zweitgrößte Stadt Guineas, ist das pulsierende Herz der Region Fouta Djallon. Auf einem Hochplateau von etwa 1.026 Metern gelegen, bietet die Stadt ein für Westafrika ungewöhnlich kühles und gemäßigtes Klima. Diese geografische Besonderheit hat Labé zu einem wichtigen landwirtschaftlichen Zentrum für den Anbau von Kartoffeln und Zwiebeln gemacht. Gegründet 1755 von Karamoko Alpha mo Labé, hat sich die Stadt zu einem bedeutenden Zentrum des islamischen Lernens und der Fulbe-Kultur entwickelt. Ihre Große Moschee ist ein architektonisches und spirituelles Wahrzeichen, das Gläubige aus der gesamten Region anzieht. Geografie K7 – Hochlandregionen und Kulturzentren.",
+      "descriptionAdvancedHu": "Labé, Guinea második legnagyobb városa, a Fouta Djallon régió lüktető szíve. A körülbelül 1026 méteres fennsíkon elhelyezkedő város Nyugat-Afrikában szokatlanul hűvös és mérsékelt éghajlattal rendelkezik. Ez a földrajzi sajátosság tette Labét a burgonya- és vöröshagyma-termesztés fontos mezőgazdasági központjává. Karamoko Alpha mo Labé által 1755-ben alapított város az iszlám tanítás és a fuláni kultúra jelentős központjává fejlődött. Nagymecsetje építészeti és spirituális mérföldkő, amely a régió minden tájáról vonzza a hívőket. Földrajz K7 – Felföldi régiók és kulturális központok.",
+      "descriptionAdvancedRo": "Labé, al doilea oraș ca mărime din Guineea, este inima vibrantă a regiunii Fouta Djallon. Situat pe un platou înalt de aproximativ 1.026 de metri, orașul oferă o climă neobișnuit de răcoroasă și temperată pentru Africa de Vest. Această particularitate geografică a transformat Labé într-un centru agricol important pentru cultivarea cartofilor și a cepei. Fondat în 1755 de Karamoko Alpha mo Labé, orașul s-a dezvoltat într-un centru semnificativ al învățăturii islamice și al culturii Fulani. Marea Moschee este un punct de reper arhitectural și spiritual care atrage credincioși din întreaga regiune. Geografie K7 – Regiuni montane și centre culturale.",
+      "descriptionAdvancedEn": "Labé, the second largest city in Guinea, is the vibrant heart of the Fouta Djallon region. Situated on a high plateau at about 1,026 meters, the city offers an unusually cool and temperate climate for West Africa. This geographical feature has made Labé an important agricultural center for growing potatoes and onions. Founded in 1755 by Karamoko Alpha mo Labé, the city has developed into a significant center of Islamic learning and Fulani culture. Its Grand Mosque is an architectural and spiritual landmark that attracts believers from all over the region. Geography K7 – Highland regions and cultural centers.",
+      "factsAdvanced": [
+        "A második legnagyobb város Guineában, több mint 200 000 lakossal.",
+        "A Fouta Djallon régióban található, 1026 méteres magasságban.",
+        "A tudomány és az iszlám történelmi központja.",
+        "Fontos kereskedelmi hely a szarvasmarha és a mezőgazdasági termékek számára.",
+        "Otthont ad a Labé Egyetemnek, egy vezető oktatási intézménynek.",
+        "Híres a fulbék hagyományos indigófestéséről.",
+        "Regionális repülőtérrel rendelkezik (Tata repülőtér).",
+        "A 19. századi gyarmati uralom elleni ellenállás központja."
+      ]
+    },
+    {
+      "id": "kissidougou-cities-v2",
+      "descriptionAdvancedDe": "Kissidougou, oft einfach Kissi genannt, ist eine strategisch wichtige Stadt im südlichen Guinea und fungiert als Tor zur Waldregion (Guinée Forestière). Als Zentrum des Kissi-Volkes liegt die Stadt am Zusammenfluss mehrerer Handelsrouten. Wirtschaftlich ist Kissidougou stark von der Landwirtschaft geprägt, wobei Kaffee, Kakao und Kolanüsse die wichtigsten Exportgüter sind. In den letzten Jahrzehnten war die Stadt ein wichtiger Zufluchtsort für Flüchtlinge aus den Bürgerkriegen in Sierra Leone und Liberia, was die soziale Struktur nachhaltig prägte. Die umliegende Landschaft ist von sanften Hügeln und Galeriewäldern charakterisiert. Geographie K6 — Agrarwirtschaft und Migrationsbewegungen.",
+      "descriptionAdvancedHu": "Kissidougou, gyakran csak Kissi-nek nevezik, stratégiailag fontos város Guinea déli részén, amely kapuként szolgál az erdős régióhoz (Guinée Forestière). A kissi nép központjaként a város több kereskedelmi útvonal találkozásánál fekszik. Gazdaságilag Kissidougou-t az agrárgazdaság jellemzi, ahol a kávé, a kakaó és a kóladió a legfontosabb exportcikkek. Az elmúlt évtizedekben a város fontos menedékhelyévé vált a Sierra Leone-i és libériai polgárháborúk elől menekülők számára, ami tartósan formálta a társadalmi szerkezetét. A környező tájat lankás dombok és galériaerdők jellemzik. Földrajz K6 – Agrárgazdaság és migrációs mozgások.",
+      "descriptionAdvancedRo": "Kissidougou, adesea numit simplu Kissi, este un oraș strategic important în sudul Guineei, funcționând ca o poartă către regiunea forestieră (Guinée Forestière). Ca centru al poporului Kissi, orașul este situat la confluența mai multor rute comerciale. Economic, Kissidougou este puternic marcat de agricultură, cafeaua, cacaoa și nucile de cola fiind principalele bunuri de export. În ultimele decenii, orașul a fost un refugiu important pentru refugiații din războaiele civile din Sierra Leone și Liberia, ceea ce a modelat durabil structura sa socială. Peisajul înconjurător este caracterizat de dealuri domoale și păduri de galerie. Geografie K6 – Economie agrară și mișcări migratorii.",
+      "descriptionAdvancedEn": "Kissidougou, often simply called Kissi, is a strategically important city in southern Guinea, acting as a gateway to the forest region (Guinée Forestière). As the center of the Kissi people, the city is located at the confluence of several trade routes. Economically, Kissidougou is strongly characterized by agriculture, with coffee, cocoa, and kola nuts being the main export goods. In recent decades, the city has become an important refuge for people fleeing the civil wars in Sierra Leone and Liberia, which has permanently shaped its social structure. The surrounding landscape is characterized by gentle hills and gallery forests. Geography K6 – Agrarian economy and migration movements.",
+      "factsAdvanced": [
+        "A Kissi kultúra és nyelv központja Guinea déli részén.",
+        "Fontos átrakodóhely a kávé és a kakaó számára.",
+        "Lakossága körülbelül 100 000 fő (2014-es adat).",
+        "A szavanna és a trópusi esőerdő átmeneténél található.",
+        "Jelentős menedékhely a regionális menekültek számára az 1990-es évek óta.",
+        "Regionális múzeummal rendelkezik a Kissi kultúráról és történelemről.",
+        "Rendelkezik egy leszállópályával kisrepülők számára.",
+        "Az N1-es nemzeti út csomópontja, amely összeköti a keleti és nyugati országrészt."
+      ]
+    },
+    {
+      "id": "gueckedou-cities-v2",
+      "descriptionAdvancedDe": "Guéckédou liegt im äußersten Süden Guineas, direkt am Dreiländereck mit Sierra Leone und Liberia. Die Stadt ist berühmt für ihren riesigen Wochenmarkt, einen der bedeutendsten in Westafrika. Traurige Berühmtheit erlangte Guéckédou 2013, als im nahen Dorf Meliandou der Ebola-Ausbruch begann. Trotzdem bleibt die Stadt ein vitales Zentrum für den Handel mit Reis, Kaffee und Palmöl. Die Region ist von dichtem Sekundärwald und fruchtbaren Böden geprägt, was sie zu einer Kornkammer des Landes macht. Geographie K8 — Grenzüberschreitender Handel und Gesundheitsgeographie.",
+      "descriptionAdvancedHu": "Guéckédou Guinea legdélibb részén, Sierra Leone és Libéria hármas határánál fekszik. A város híres hatalmas heti piacáról, amely Nyugat-Afrika egyik legjelentősebb piaca. Guéckédou szomorú hírnévre tett szert 2013-ban, amikor a közeli Meliandou faluban kitört az ebolajárvány. Ennek ellenére a város továbbra is a rizs, a kávé és a pálmaolaj kereskedelmének létfontosságú központja. A régiót sűrű másodlagos erdők és termékeny talajok jellemzik, ami az ország egyik éléskamrájává teszi. Földrajz K8 – Határokon átnyúló kereskedelem és egészségföldrajz.",
+      "descriptionAdvancedRo": "Guéckédou este situat în extremitatea sudică a Guineei, chiar la punctul de frontieră triplă cu Sierra Leone și Liberia. Orașul este renumit pentru piața sa săptămânală uriașă, una dintre cele mai importante din Africa de Vest. Guéckédou a dobândit o faimă tristă în 2013, când epidemia de Ebola a izbucnit în satul apropiat Meliandou. Cu toate acestea, orașul rămâne un centru vital pentru comerțul cu orez, cafea și ulei de palmier. Regiunea este caracterizată de păduri secundare dense și soluri fertile, ceea ce o face una dintre grânarele țării. Geografie K8 – Comerț transfrontalier și geografie sanitară.",
+      "descriptionAdvancedEn": "Guéckédou is located in the extreme south of Guinea, right at the tri-border area with Sierra Leone and Liberia. The city is famous for its huge weekly market, one of the most significant in West Africa. Guéckédou gained sad notoriety in 2013 when the Ebola outbreak began in the nearby village of Meliandou. Despite this, the city remains a vital center for trade in rice, coffee, and palm oil. The region is characterized by dense secondary forest and fertile soils, making it one of the country's breadbaskets. Geography K8 — Cross-border trade and health geography.",
+      "factsAdvanced": [
+        "Stratégiai elhelyezkedés a hármas határnál (Guinea, Libéria, Sierra Leone).",
+        "Nyugat-Afrika egyik legnagyobb időszakos piacának ad otthont.",
+        "A 2013-as nyugat-afrikai ebolajárvány kiinduló régiója.",
+        "Fontos termesztési terület a rizs, a kávé és a pálmamag számára.",
+        "A város lakossága körülbelül 66 000 fő (2014-es népszámlálás).",
+        "A határokon átnyúló migrációs áramlatok erősen befolyásolják.",
+        "A Guéckédou prefektúra helyi közigazgatásának központja.",
+        "Etnikailag sokszínű lakosság jellemzi (kissi, malinke, toma)."
+      ]
+    },
+    {
+      "id": "mamou-cities-v2",
+      "descriptionAdvancedDe": "Mamou, oft als 'Stadt der Kreuzwege' bezeichnet, liegt an einem entscheidenden Knotenpunkt der Nationalstraßen, die Conakry mit dem Osten und Norden verbinden. Gegründet Anfang des 20. Jahrhunderts als wichtiger Bahnhof, hat Mamou seine strategische Bedeutung für den Handel behalten. Die Lage am Rande des Fouta-Djallon-Hochlands sorgt für ein gemäßigtes Klima, das den Anbau von Gemüse und Obst begünstigt. Die Stadt spielt eine Schlüsselrolle bei der Versorgung der Hauptstadt mit Fleisch und Agrarprodukten. Die Eisenbahngeschichte ist in Architektur und Stadtplanung noch immer sichtbar. Geographie K7 — Infrastruktur und städtische Entwicklung.",
+      "descriptionAdvancedHu": "Mamou, amelyet gyakran 'kereszteződések városának' is neveznek, a Conakryt a keleti és északi országrészekkel összekötő főutak egyik kulcsfontosságú csomópontjában fekszik. A 20. század elején fontos vasútállomásként alapított Mamou megőrizte stratégiai kereskedelmi jelentőségét. A Fouta-Djallon-felföld peremén való elhelyezkedése mérsékelt éghajlatot biztosít, ami kedvez a zöldség- és gyümölcstermesztésnek. A város kulcsszerepet játszik a főváros hús- és agrártermékekkel való ellátásában. A vasúti múlt még mindig látható az építészetben és a várostervezésben. Földrajz K7 – Infrastruktúra és városfejlesztés.",
+      "descriptionAdvancedRo": "Mamou, adesea numit 'orașul răscrucilor', este situat la o intersecție crucială a drumurilor naționale care leagă Conakry de est și nord. Fondat la începutul secolului al XX-lea ca o gară importantă, Mamou și-a păstrat importanța strategică pentru comerț. Locația sa la marginea platoului Fouta Djallon asigură o climă temperată, favorabilă cultivării legumelor și fructelor. Orașul joacă un rol cheie în aprovizionarea capitalei cu carne și produse agricole. Istoria feroviară este încă vizibilă în arhitectura și planificarea urbană. Geografie K7 – Infrastructură și dezvoltare urbană.",
+      "descriptionAdvancedEn": "Known as the 'Crossroads City', Mamou is at a crucial junction of national roads connecting Conakry to the east and north. Founded in the early 20th century as a key railway station, Mamou has retained its strategic importance for trade. Its location on the edge of the Fouta Djallon highlands provides a temperate climate, favoring the cultivation of vegetables and fruits. The city plays a key role in supplying the capital with meat and agricultural products. Its railway history is still visible in the architecture and urban planning. Geography K7 — Infrastructure and urban development.",
+      "factsAdvanced": [
+        "1908-ban alapították a Conakry-Niger vasútvonal fontos állomásaként.",
+        "Stratégiai közlekedési csomópont Conakry, Labé és Kankan között.",
+        "A Fouta Djallonból származó hús és zöldségek kereskedelmi központjaként ismert.",
+        "Körülbelül 700 méter tengerszint feletti magasságban fekszik.",
+        "Lakossága kb. 88 000 fő (2014).",
+        "Egy jelentős mezőgazdasági és állatorvosi intézet székhelye.",
+        "Fontos helyszín a citrusfélék feldolgozásához.",
+        "Jelképe a gyarmati időkből származó történelmi vasútállomás épülete."
+      ]
+    },
+    {
+      "id": "boke-cities-v2",
+      "descriptionAdvancedDe": "Boké ist das unbestrittene Zentrum der guineischen Bergbauindustrie im Nordwesten des Landes am Rio Nuñez. Die Stadt hat eine lange Geschichte als Sklaven- und Handelsposten, woran das Fort Galliéni aus dem 19. Jahrhundert erinnert. Heute ist Boké der Sitz der Region, in der sich die weltweit größten Bauxitvorkommen befinden. Die Stadt hat in den letzten Jahren ein explosionsartiges Wachstum erlebt, da internationale Konzerne hier Logistikzentren errichtet haben. Trotz des industriellen Booms ist die Region für ihre Mangrovenwälder und den Fischfang bekannt. Geographie K8 — Rohstoffwirtschaft und industrielle Transformation.",
+      "descriptionAdvancedHu": "Boké a guineai bányászat vitathatatlan központja, az ország északnyugati részén, a Rio Nuñez folyó partján. A város hosszú múltra tekint vissza rabszolga- és kereskedelmi központként, amire a 19. századi Fort Galliéni emlékeztet. Ma Boké a régió székhelye, ahol a világ legnagyobb bauxitkészletei találhatók. A város az elmúlt években robbanásszerű növekedésen ment keresztül, mivel nemzetközi vállalatok logisztikai központokat hoztak itt létre. Az ipari fellendülés ellenére a régió ismert a mangroveerdőiről és a halászatról. Földrajz K8 – Nyersanyaggazdálkodás és ipari átalakulás.",
+      "descriptionAdvancedRo": "Boké este centrul incontestabil al industriei miniere guineene, situat în nord-vestul țării, pe râul Rio Nuñez. Orașul are o istorie lungă ca post de sclavi și comercial, amintit de Fort Galliéni din secolul al XIX-lea. Astăzi, Boké este reședința regiunii unde se găsesc cele mai mari zăcăminte de bauxită din lume. Orașul a cunoscut o creștere explozivă în ultimii ani, deoarece corporațiile internaționale au construit aici centre logistice. În ciuda boom-ului industrial, regiunea este cunoscută pentru pădurile sale de mangrove și pescuit. Geografie K8 – Economia materiilor prime și transformarea industrială.",
+      "descriptionAdvancedEn": "Boké is the undisputed center of the Guinean mining industry, located in the northwest of the country on the Rio Nuñez. The city has a long history as a slave and trading post, reminiscent of the 19th-century Fort Galliéni. Today, Boké is the seat of the region that holds the world's largest bauxite deposits. The city has experienced explosive growth in recent years as international corporations have established logistics centers here. Despite the industrial boom, the region is known for its mangrove forests and fishing. Geography K8 — Resource economy and industrial transformation.",
+      "factsAdvanced": [
+        "Guinea bauxitrégiójának fővárosa, hatalmas lelőhelyekkel.",
+        "A történelmi Fort Galliéni székhelye (ma múzeum).",
+        "Stratégiai fekvés a Rio Nuñez hajózható alsó szakaszán.",
+        "Gyorsan növekvő, több mint 60 000 fős lakosság.",
+        "A CBG és az SMB-Winning logisztikai és adminisztrációs központja.",
+        "Történelmileg fontos kereskedelmi állomás a földimogyoró és a kaucsuk számára.",
+        "Otthont ad az École Nationale des Mines de Boké-nak.",
+        "Ökológiailag értékes mangrove-tájakkal körülvéve."
+      ]
+    }
+  ]
+}

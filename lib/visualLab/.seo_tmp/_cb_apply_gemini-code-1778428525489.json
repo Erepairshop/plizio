@@ -1,0 +1,244 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cv-pacos-concelho-sao-filipe-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Paços do Concelho de São Filipe ist das administrative Herzstück der Insel Fogo und befindet sich an der zentralen Praça do Presídio im historischen Viertel Vila Baixa. Das Gebäude wurde im späten 19. Jahrhundert errichtet und repräsentiert den klassischen portugiesischen Kolonialstil mit deutlichen neoklassizistischen Einflüssen. Architektonisch zeichnet es sich durch seine symmetrische Fassade, die markanten Rundbogenfenster und das massive Walmdach aus. Es dient seit seiner Fertigstellung ununterbrochen als Sitz der lokalen Stadtverwaltung (Câmara Municipal). Das Gebäude wurde massiv aus lokalem Vulkangestein und Kalkmörtel gebaut und später weiß und ockerfarben verputzt, was typisch für die administrative Architektur jener Ära ist. Geografisch liegt das Rathaus an einem der exponiertesten Punkte der Stadt und überblickt den Abhang zum schwarzen Sandstrand Praia da Bila. Während der Kolonialzeit war es das Symbol der staatlichen Kontrolle über den lukrativen Handel mit Kaffee und Textilien auf der Insel. In den letzten Jahrzehnten wurde das Gebäude mehrfach renoviert, um moderne Verwaltungsfunktionen zu integrieren, wobei die historischen Innenräume und die repräsentative Treppe strikt erhalten wurden. Die unmittelbare Umgebung ist durch die historischen 'Sobrados' geprägt, die den Status São Filipes als aristokratisches Zentrum des Archipels im 19. Jahrhundert untermauern.",
+        "hu": "A São Filipe-i városháza (Paços do Concelho) Fogo szigetének adminisztratív központja, amely a történelmi Vila Baixa negyed központi terén, a Praça do Presídio-n található. Az épületet a 19. század végén emelték, és a klasszikus portugál gyarmati stílust képviseli, határozott neoklasszicista hatásokkal. Építészetileg a szimmetrikus homlokzat, a jellegzetes félköríves ablakok és a masszív kontyolt tető jellemzi. Átadása óta megszakítás nélkül a helyi önkormányzat (Câmara Municipal) székhelyeként szolgál. Az építmény masszívan, helyi vulkáni kőből és mészhabarcsból épült, később pedig fehérre és okkersárgára vakolták, ami jellemző volt az akkori korszak közigazgatási építészetére. Földrajzilag a városháza a város egyik leglátványosabb pontján fekszik, rálátással a fekete homokos Praia da Bila strandra vezető lejtőre. A gyarmati korszakban a szigeten folytatott jövedelmező kávé- és textilkereskedelem feletti állami ellenőrzés szimbóluma volt. Az elmúlt évtizedekben az épületet többször felújították, hogy megfeleljen a modern közigazgatási funkcióknak, miközben szigorúan megőrizték a történelmi belső tereket és a reprezentatív lépcsőházat. Közvetlen környezetét a történelmi 'sobradók' határozzák meg, amelyek São Filipe 19. századi arisztokratikus központi szerepét támasztják alá.",
+        "ro": "Primăria din São Filipe (Paços do Concelho) este nucleul administrativ al insulei Fogo și se află în piața centrală Praça do Presídio din cartierul istoric Vila Baixa. Clădirea a fost ridicată la sfârșitul secolului al XIX-lea și reprezintă stilul colonial portughez clasic, cu influențe neoclasice clare. Din punct de vedere arhitectural, se caracterizează prin fațada sa simetrică, ferestrele proeminente în arc de cerc și acoperișul masiv în patru ape. De la finalizarea sa, a servit neîntrerupt ca sediu al administrației municipale locale (Câmara Municipal). Clădirea a fost construită masiv din rocă vulcanică locală și mortar de var, fiind ulterior tencuită în alb și ocru, culori tipice pentru arhitectura administrativă a acelei ere. Din punct de vedere geografic, primăria este situată într-unul dintre cele mai expuse puncte ale orașului, oferind o vedere asupra pantei care coboară spre plaja cu nisip negru Praia da Bila. În perioada colonială, a fost simbolul controlului statului asupra comerțului profitabil cu cafea și textile de pe insulă. În ultimele decenii, clădirea a fost renovată de mai multe ori pentru a integra funcții administrative moderne, interioarele istorice și scara reprezentativă fiind păstrate cu strictețe. Împrejurimile imediate sunt marcate de clădirile istorice „Sobrados”, care susțin statutul orașului São Filipe ca centru aristocratic al arhipelagului în secolul al XIX-lea.",
+        "en": "The Town Hall of São Filipe (Paços do Concelho) serves as the administrative heart of Fogo Island, located at the central Praça do Presídio in the historic Vila Baixa district. The building was constructed in the late 19th century and represents the classic Portuguese colonial style with distinct neoclassical influences. Architecturally, it is characterized by its symmetrical facade, prominent arched windows, and a massive hipped roof. Since its completion, it has continuously served as the seat of the local municipal government (Câmara Municipal). The structure was built solidly from local volcanic stone and lime mortar, later plastered in white and ochre, which was typical for administrative architecture of that era. Geographically, the town hall is situated at one of the most prominent points in the city, overlooking the slope down to the black sand beach, Praia da Bila. During the colonial period, it symbolized state control over the lucrative trade in coffee and textiles on the island. In recent decades, the building has undergone several renovations to integrate modern administrative functions, while the historic interior and the representative staircase have been strictly preserved. The immediate surroundings are defined by the historic 'Sobrados,' which underscore São Filipe's status as the aristocratic center of the archipelago in the 19th century."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sitz der Stadtverwaltung von São Filipe seit dem späten 19. Jahrhundert.",
+          "Architektur im Kolonialstil mit deutlichen neoklassizistischen Merkmalen.",
+          "Befindet sich an der historischen Praça do Presídio in der Vila Baixa.",
+          "Das Gebäude ist massiv aus lokalem Vulkangestein errichtet.",
+          "Überblickt strategisch den Abhang zum schwarzen Lavastrand Praia da Bila.",
+          "Zentraler Punkt für die administrative Kontrolle des historischen Kaffeehandels.",
+          "Eines der am besten erhaltenen Regierungsgebäude auf der Insel Fogo."
+        ],
+        "hu": [
+          "São Filipe önkormányzatának székhelye a 19. század vége óta.",
+          "Gyarmati stílusú építészet neoklasszicista stílusjegyekkel.",
+          "A történelmi Vila Baixa negyedben, a Praça do Presídio téren található.",
+          "Az épület masszívan, helyi vulkáni kőzetből épült fel.",
+          "Stratégiai kilátással bír a fekete lávahomokos Praia da Bila strandra.",
+          "A történelmi kávékereskedelem adminisztratív ellenőrzésének központja volt.",
+          "Fogo szigetének egyik legjobb állapotban lévő hivatali épülete."
+        ],
+        "ro": [
+          "Sediul administrației municipale din São Filipe de la sfârșitul secolului XIX.",
+          "Arhitectură în stil colonial cu trăsături neoclasice evidente.",
+          "Situată în piața istorică Praça do Presídio din cartierul Vila Baixa.",
+          "Clădirea este construită masiv din rocă vulcanică locală.",
+          "Oferă o vedere strategică spre plaja de lavă neagră Praia da Bila.",
+          "Punct central pentru controlul administrativ al comerțului istoric cu cafea.",
+          "Una dintre cele mai bine conservate clădiri guvernamentale de pe insula Fogo."
+        ],
+        "en": [
+          "Seat of the São Filipe municipal government since the late 19th century.",
+          "Features colonial architecture with prominent neoclassical design elements.",
+          "Located on the historic Praça do Presídio in the Vila Baixa district.",
+          "The structure is constructed solidly from local volcanic rock and mortar.",
+          "Strategically overlooks the slope leading down to the black sand beach, Praia da Bila.",
+          "Historical center for the administrative control of the island's coffee trade.",
+          "One of the most well-preserved government buildings on the island of Fogo."
+        ]
+      }
+    },
+    {
+      "id": "cv-igreja-sao-joao-batista-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Igreja de São João Batista ist das religiöse und soziale Herzstück von Nova Sintra auf der Insel Brava. Das Kirchengebäude wurde im 19. Jahrhundert während der portugiesischen Kolonialzeit errichtet und ist dem Schutzpatron der Insel gewidmet. Architektonisch präsentiert sich die Kirche als schlichtes, aber elegantes Beispiel des kapverdischen Kolonialstils, gekennzeichnet durch ihre strahlend weiße Fassade und die zwei markanten Glockentürme. Das Gebäude ruht auf dem zentralen Hochplateau der Insel, wo das kühlere und feuchtere Klima für eine üppige Vegetation in der direkten Umgebung sorgt. Die Kirche spielt eine absolut zentrale Rolle im kulturellen Kalender Bravas, insbesondere während des 'Djêu di d'Jon' (Fest des Heiligen Johannes) am 24. Juni, dem größten Ereignis der Insel. Historisch war die Kirche der Versammlungsort für die Einwohner, die oft enge familiäre Bindungen zur US-Walfangflotte in Neuengland pflegten. Im Inneren befinden sich wertvolle sakrale Kunstwerke und ein reich verzierter Altar. Das Gebäude wurde massiv aus lokalem Gestein gebaut und über die Jahrzehnte mehrfach renoviert, um den extremen Witterungseinflüssen der nebelverhangenen Bergregion zu trotzen. Sie ist ein Symbol für die tief verwurzelte katholische Identität und den sozialen Zusammenhalt der etwa 1.500 Bewohner von Nova Sintra.",
+        "hu": "A São João Batista templom (Igreja de São João Batista) Nova Sintra vallási és társadalmi központja Brava szigetén. A templomépületet a 19. században emelték a portugál gyarmati korszakban, és a sziget védőszentjének szentelték. Építészetileg a templom a zöld-foki gyarmati stílus egyszerű, de elegáns példája, amelyet vakítóan fehér homlokzata és két markáns harangtornya határoz meg. Az épület a sziget központi fennsíkján nyugszik, ahol a hűvösebb és párásabb éghajlat dús növényzetet biztosít a közvetlen környezetben. A templom abszolút központi szerepet játszik Brava kulturális naptárában, különösen a június 24-i 'Djêu di d'Jon' (Szent Iván-nap) alkalmával, amely a sziget legnagyobb eseménye. Történelmileg a templom az amerikai bálnavadász flottákhoz kötődő lakosok gyülekezőhelye volt. Belsejében értékes szakrális műalkotások és egy gazdagon díszített oltár található. Az épület masszívan, helyi kőzetből épült, és az évtizedek során többször felújították, hogy dacoljon a ködös hegyvidéki régió extrém időjárási körülményeivel. A templom a mélyen gyökerező katolikus identitás és Nova Sintra mintegy 1500 lakosának társadalmi összetartozásának szimbóluma.",
+        "ro": "Biserica São João Batista este centrul religios și social al orașului Nova Sintra de pe insula Brava. Edificiul a fost construit în secolul al XIX-lea, în timpul perioadei coloniale portugheze, și este dedicat sfântului patron al insulei. Din punct de vedere arhitectural, biserica este un exemplu simplu, dar elegant, al stilului colonial capverdian, caracterizat prin fațada sa albă strălucitoare și cele două turnuri clopotniță proeminente. Clădirea se află pe podișul central al insulei, unde clima mai răcoroasă și umedă asigură o vegetație luxuriantă în împrejurimile imediate. Biserica joacă un rol absolut central în calendarul cultural din Brava, în special în timpul sărbătorii „Djêu di d’Jon” (Sfântul Ioan) pe 24 iunie, cel mai mare eveniment de pe insulă. Din punct de vedere istoric, biserica a fost locul de întâlnire pentru locuitorii care aveau adesea legături strânse cu flota americană de vânătoare de balene din Noua Anglie. În interior se află opere de artă sacră valoroase și un altar bogat decorat. Edificiul a fost construit masiv din piatră locală și renovat de mai multe ori de-a lungul deceniilor pentru a rezista condițiilor meteorologice extreme din regiunea montană adesea învăluită în ceață. Este un simbol al identității catolice profund înrădăcinate și al coeziunii sociale a celor aproximativ 1.500 de locuitori din Nova Sintra.",
+        "en": "The Church of Saint John the Baptist (Igreja de São João Batista) is the religious and social centerpiece of Nova Sintra on the island of Brava. The church was constructed in the 19th century during the Portuguese colonial period and is dedicated to the island's patron saint. Architecturally, the church presents a simple yet elegant example of Cape Verdean colonial style, defined by its brilliant white facade and two prominent bell towers. The building rests on the island's central high plateau, where the cooler and more humid climate supports lush vegetation in the immediate area. The church plays an absolutely central role in Brava's cultural calendar, particularly during 'Djêu di d'Jon' (the Feast of Saint John) on June 24th, the island's largest annual event. Historically, the church was the gathering place for residents, many of whom maintained close family ties to the US whaling fleet in New England. Inside, there are valuable sacred artworks and a richly decorated altar. The structure was built solidly from local stone and has been renovated several times over the decades to withstand the extreme weather conditions of the fog-shrouded mountain region. It serves as a symbol of the deeply rooted Catholic identity and social cohesion of Nova Sintra's approximately 1,500 inhabitants."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Religiöses Zentrum der Insel Brava, gewidmet dem Heiligen Johannes.",
+          "Erbaut im 19. Jahrhundert im typischen kapverdischen Kolonialstil.",
+          "Befindet sich auf dem 500 Meter hohen Zentralplateau in Nova Sintra.",
+          "Zentraler Ort für die Feierlichkeiten des 'Djêu di d'Jon' im Juni.",
+          "Die weiße Fassade mit zwei Türmen prägt das Stadtbild der 'Blumenstadt'.",
+          "Beherbergt historisch wertvolle sakrale Kunstwerke und einen Prunkaltar.",
+          "Wichtiges Symbol für die Verbindung der Inselbewohner nach Neuengland (USA)."
+        ],
+        "hu": [
+          "Brava szigetének vallási központja, Keresztelő Szent Jánosnak szentelve.",
+          "A 19. században épült tipikus zöld-foki gyarmati stílusban.",
+          "Az 500 méter magas központi fennsíkon, Nova Sintrában található.",
+          "A júniusi 'Djêu di d'Jon' ünnepségek központi helyszíne.",
+          "A két toronnyal rendelkező fehér homlokzat meghatározza a 'virágok városa' képét.",
+          "Történelmileg értékes szakrális műalkotásoknak és egy díszes oltárnak ad otthont.",
+          "A szigetlakók és az USA-beli Új-Anglia közötti kapcsolat fontos jelképe."
+        ],
+        "ro": [
+          "Centrul religios al insulei Brava, dedicat Sfântului Ioan Botezătorul.",
+          "Construită în secolul XIX în stilul colonial tipic capverdian.",
+          "Situată pe podișul central la 500 metri altitudine, în Nova Sintra.",
+          "Locul central pentru festivitățile „Djêu di d’Jon” din luna iunie.",
+          "Fațada albă cu două turnuri marchează peisajul „orașului florilor”.",
+          "Găzduiește opere de artă sacră valoroase și un altar somptuos.",
+          "Simbol important pentru legătura locuitorilor insulei cu Noua Anglie (SUA)."
+        ],
+        "en": [
+          "The primary religious center of Brava Island, dedicated to Saint John.",
+          "Constructed in the 19th century in the traditional Cape Verdean colonial style.",
+          "Situated on the 500-meter-high central plateau in Nova Sintra city center.",
+          "Focal point for the major 'Djêu di d'Jon' cultural celebrations in June.",
+          "The iconic white facade with twin bell towers defines the 'City of Flowers'.",
+          "Houses historically significant sacred art pieces and a decorated main altar.",
+          "A vital symbol of the historical migration link between Brava and New England."
+        ]
+      }
+    },
+    {
+      "id": "cv-sobrados-sao-filipe-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Sobrados von São Filipe sind die architektonischen Symbole der einstigen aristokratischen Macht auf der Insel Fogo. Diese herrschaftlichen Wohnhäuser wurden im 19. Jahrhundert von den reichen Großgrundbesitzern, den 'Morgados', errichtet. Ein Sobrado zeichnet sich durch seine zweistöckige Bauweise aus: Das Erdgeschoss wurde massiv aus Stein gebaut und diente als Lagerraum, Stall oder Unterkunft für Sklaven und Bedienstete, während das obere Stockwerk, oft aus importiertem Holz gefertigt, der herrschaftlichen Familie vorbehalten war. Charakteristisch sind die kunstvoll geschnitzten Balkone und die hohen, luftigen Räume, die an das Klima der Tropen angepasst sind. Die Häuser sind in leuchtenden Pastellfarben gestrichen und säumen die kopfsteingepflasterten Gassen der Vila Baixa. Historisch spiegeln die Sobrados die rigide soziale Hierarchie der Kolonialzeit wider, in der der Besitz eines solchen Hauses den höchsten sozialen Status markierte. Viele dieser Gebäude verfügen über prächtige Innenhöfe (Quintais). Nach der Unabhängigkeit 1975 wurden viele Sobrados von wohlhabenden Rückkehrern aus der Diaspora restauriert, während andere in Museen, wie die Casa da Memória, umgewandelt wurden. Die Sobrados von São Filipe gelten als das am besten erhaltene Ensemble kolonialer Wohnarchitektur in Westafrika und sind ein zentraler Grund für die Anerkennung der Stadt als bedeutendes kulturelles Erbe.",
+        "hu": "A São Filipe-i 'sobradók' Fogo szigetének egykori arisztokratikus hatalmának építészeti szimbólumai. Ezeket az előkelő lakóházakat a 19. században építették a gazdag nagybirtokosok, a 'morgadók'. A sobradók jellegzetessége a kétszintes felépítés: a földszint masszívan kőből épült, és raktárként, istállóként vagy a rabszolgák és szolgálók szállásaként szolgált, míg az emelet, amely gyakran importált fából készült, az úri családé volt. Jellemzőek a művészien faragott erkélyek és a magas, szellős helyiségek, amelyek a trópusi éghajlathoz alkalmazkodtak. A házakat élénk pasztellszínekre festették, és a Vila Baixa macskaköves utcáit szegélyezik. Történelmileg a sobradók a gyarmati korszak merev társadalmi hierarchiáját tükrözik, ahol egy ilyen ház birtoklása a legmagasabb társadalmi státuszt jelentette. Sok épülethez pompás belső udvar (quintais) tartozik. Az 1975-ös függetlenség után sok sobradót a diaszpórából hazatérő tehetős zöld-fokiak restauráltak, másokat pedig múzeummá alakítottak, mint például a Casa da Memóriát. A São Filipe-i sobradók Nyugat-Afrika legjobban megőrzött gyarmati lakóépület-együttesének számítanak, és központi szerepet játszanak abban, hogy a várost jelentős kulturális örökségként ismerik el.",
+        "ro": "Clădirile „Sobrados” din São Filipe sunt simbolurile arhitecturale ale fostei puteri aristocratice de pe insula Fogo. Aceste case boierești au fost ridicate în secolul al XIX-lea de către marii proprietari funciari bogați, cunoscuți sub numele de „morgados”. Un Sobrado se caracterizează prin construcția sa pe două niveluri: parterul era construit masiv din piatră și servea ca spațiu de depozitare, grajd sau locuință pentru sclavi și servitori, în timp ce etajul superior, adesea realizat din lemn importat, era rezervat familiei stăpânului. Caracteristice sunt balcoanele sculptate artistic și încăperile înalte și aerisite, adaptate climatului tropical. Casele sunt vopsite în culori pastelate vii și mărginesc ulițele pavate cu piatră cubică din Vila Baixa. Din punct de vedere istoric, Sobrados reflectă ierarhia socială rigidă a perioadei coloniale, în care deținerea unei astfel de case marca cel mai înalt statut social. Multe dintre aceste clădiri dispun de curți interioare magnifice (quintais). După independența din 1975, multe Sobrados au fost restaurate de către repatriații înstăriți din diasporă, în timp ce altele au fost transformate în muzee, cum ar fi Casa da Memória. Sobrados din São Filipe sunt considerate cel mai bine conservat ansamblu de arhitectură rezidențială colonială din Africa de Vest și reprezintă un motiv central pentru recunoașterea orașului ca un important patrimoniu cultural.",
+        "en": "The 'Sobrados' of São Filipe are the architectural symbols of the former aristocratic power on Fogo Island. These stately mansions were constructed in the 19th century by wealthy landowners known as 'morgados.' A Sobrado is characterized by its two-story design: the ground floor was built solidly from stone and served as a warehouse, stable, or quarters for slaves and servants, while the upper floor, often crafted from imported timber, was reserved exclusively for the owner's family. Notable features include intricately carved wooden balconies and high, airy rooms adapted to the tropical climate. The houses are painted in vibrant pastel colors and line the cobblestone streets of the Vila Baixa district. Historically, the Sobrados reflect the rigid social hierarchy of the colonial era, where owning such a residence signified the highest social status. Many of these buildings feature magnificent interior courtyards (quintais). Following independence in 1975, many Sobrados were restored by affluent returnees from the diaspora, while others were converted into museums, such as the Casa da Memória. The Sobrados of São Filipe are regarded as the best-preserved ensemble of colonial residential architecture in West Africa and are a primary reason for the city's recognition as a significant cultural heritage site."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Architektonisches Statussymbol der Elite im 19. Jahrhundert.",
+          "Zweistöckige Bauweise: Unten Arbeit/Sklaverei, oben herrschaftliches Wohnen.",
+          "Kunstvoll geschnitzte Holzbalkone sind ein markantes Designmerkmal.",
+          "Farbenfrohe Fassaden prägen das historische Viertel Vila Baixa.",
+          "Importierte Hölzer wurden massiv für die Decken und Balkone genutzt.",
+          "Viele Sobrados beherbergen heute Kulturzentren oder Boutique-Pensionen.",
+          "Bestes Ensemble kolonialer Wohnarchitektur in ganz Westafrika."
+        ],
+        "hu": [
+          "A 19. századi elit építészeti státuszszimbóluma volt.",
+          "Kétszintes szerkezet: alul munka/rabszolgaság, felül úri lakrész.",
+          "A művészien faragott faborítású erkélyek a legfőbb stílusjegyei.",
+          "Színpompás homlokzatok határozzák meg a történelmi Vila Baixa negyedet.",
+          "A mennyezetekhez és erkélyekhez tömegesen használtak importált fát.",
+          "Sok sobradó ma kulturális központnak vagy butikszállásnak ad otthont.",
+          "Nyugat-Afrika legjobb állapotban megőrzött gyarmati lakóház-együttese."
+        ],
+        "ro": [
+          "Simbol arhitectural de statut al elitei în secolul al XIX-lea.",
+          "Construcție pe două niveluri: jos munca/sclavia, sus locuința stăpânilor.",
+          "Balcoanele din lemn sculptate artistic sunt o trăsătură de design distinctivă.",
+          "Fațadele colorate marchează cartierul istoric Vila Baixa.",
+          "Lemne importate au fost folosite masiv pentru tavane și balcoane.",
+          "Multe Sobrados găzduiesc astăzi centre culturale sau pensiuni de tip boutique.",
+          "Cel mai bun ansamblu de arhitectură rezidențială colonială din Africa de Vest."
+        ],
+        "en": [
+          "Architectural status symbol for the 19th-century island elite.",
+          "Dual-level structure: ground floor for labor/slaves, upper floor for masters.",
+          "Intricately carved wooden balconies are a signature design feature.",
+          "Vibrant pastel facades define the historic Vila Baixa neighborhood.",
+          "Imported timber was extensively used for ceilings and upper balconies.",
+          "Many Sobrados currently house cultural centers or boutique guest houses.",
+          "Recognized as the premier ensemble of colonial residential architecture in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "cv-vila-porto-ingles-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Vila do Porto Inglês ist das historische Zentrum der Insel Maio und ein bedeutendes Zeugnis des atlantischen Salzhandels. Die Siedlung entwickelte sich massiv ab dem 17. Jahrhundert, als britische Schiffe den Hafen als primäre Ladestation für Salz aus den natürlichen Salinen der Insel nutzten. Architektonisch ist der Ort durch seine ruhigen, breiten Straßen und die charakteristischen einstöckigen Steinhäuser geprägt, die oft mit bunten Kalkfarben gestrichen sind. Das markanteste historische Bauwerk ist die Festung Forte de São José, die im 18. Jahrhundert (ca. 1743) zur Verteidigung gegen Piraten und konkurrierende Handelsmächte errichtet wurde. Ein weiteres zentrales Denkmal ist die Kirche Nossa Senhora da Luz, die 1872 fertiggestellt wurde und im neoklassizistischen Stil mit zwei quadratischen Türmen thront. Historisch spiegelte die Vila die wirtschaftliche Abhängigkeit Maios von den globalen Märkten wider; mit dem Niedergang der Salzindustrie im frühen 20. Jahrhundert verlor der Ort an Bedeutung, bewahrte jedoch seinen authentischen, fast musealen Charakter. Die räumliche Anordnung der Stadt um den zentralen Platz und den Hafen unterstreicht ihre maritime Identität. Heute ist das historische Zentrum ein geschütztes Kulturerbe, das den Übergang von einer industriellen Salzmetropole zu einer entspannten Inselhauptstadt dokumentiert. Die salzhaltige Luft und das trockene Klima haben im Laufe der Jahrhunderte eine spezifische Patina auf den kolonialen Fassaden hinterlassen.",
+        "hu": "Vila do Porto Inglês Maio szigetének történelmi központja, az atlanti sókereskedelem jelentős tanúbizonysága. A település a 17. századtól kezdett masszívan fejlődni, amikor brit hajók a kikötőt használták a sziget természetes lepárlóiból származó só elsődleges berakodóhelyeként. Építészetileg a helyet nyugodt, széles utcák és jellegzetes egyszintes kőházak jellemzik, amelyeket gyakran színes mészfestékkel mázoltak be. A legmarkánsabb történelmi építmény a Forte de São José erőd, amelyet a 18. században (kb. 1743-ban) emeltek a kalózok és a rivális kereskedelmi hatalmak elleni védelemül. Egy másik központi műemlék a Nossa Senhora da Luz templom, amelyet 1872-ben fejeztek be, és neoklasszicista stílusban, két négyzetes toronnyal magasodik a város fölé. Történelmileg a Vila Maio gazdasági függőségét tükrözte a globális piacoktól; a sóipar 20. század eleji hanyatlásával a település veszített jelentőségéből, de megőrizte autentikus, szinte múzeumi jellegét. A város központi tér és a kikötő köré szerveződő térszerkezete hangsúlyozza tengeri identitását. Ma a történelmi központ védett kulturális örökség, amely dokumentálja az átmenetet egy ipari sómetropoliszból egy nyugodt szigeti fővárosba. A sós levegő és a száraz éghajlat az évszázadok során sajátos patinát hagyott a gyarmati homlokzatokon.",
+        "ro": "Vila do Porto Inglês este centrul istoric al insulei Maio și o mărturie semnificativă a comerțului atlantic cu sare. Așezarea s-a dezvoltat masiv începând cu secolul al XVII-lea, când navele britanice foloseau portul ca stație primară de încărcare pentru sarea din salinele naturale ale insulei. Din punct de vedere arhitectural, localitatea este marcată de străzile sale liniștite și largi și de casele caracteristice din piatră cu un singur etaj, adesea vopsite în culori de var vii. Cea mai proeminentă structură istorică este fortăreața Forte de São José, ridicată în secolul al XVIII-lea (cca. 1743) pentru apărarea împotriva piraților și a puterilor comerciale rivale. Un alt monument central este biserica Nossa Senhora da Luz, finalizată în 1872 și construită în stil neoclasic, cu două turnuri pătrate. Din punct de vedere istoric, Vila reflecta dependența economică a insulei Maio de piețele globale; odată cu declinul industriei sării la începutul secolului XX, localitatea și-a pierdut din importanță, dar și-a păstrat caracterul autentic, aproape muzeal. Dispunerea spațială a orașului în jurul pieței centrale și al portului îi subliniază identitatea maritimă. Astăzi, centrul istoric este un patrimoniu cultural protejat, care documentează tranziția de la o metropolă industrială a sării la o capitală de insulă relaxată. Aerul sărat și climatul uscat au lăsat de-a lungul secolelor o patină specifică pe fațadele coloniale.",
+        "en": "Vila do Porto Inglês is the historic heart of Maio Island and a significant testament to the Atlantic salt trade. The settlement expanded rapidly starting in the 17th century when British ships utilized the harbor as the primary loading station for salt harvested from the island's natural pans. Architecturally, the town is defined by its quiet, broad streets and characteristic single-story stone dwellings, often finished with vibrant lime-washes. The most prominent historical structure is the Fort of Saint Joseph (Forte de São José), erected in the 18th century (circa 1743) to defend against pirates and rival colonial trading powers. Another central landmark is the Church of Our Lady of Light (Nossa Senhora da Luz), completed in 1872, which features a neoclassical design with two square towers. Historically, the Vila reflected Maio's economic reliance on global markets; with the decline of the salt industry in the early 20th century, the town lost its strategic weight but preserved its authentic, almost museum-like character. The spatial arrangement of the town around its central plaza and the harbor underscores its maritime identity. Today, the historic center is a protected heritage site, documenting the transition from an industrial salt hub to a relaxed island capital. Centuries of salty air and an arid climate have left a distinct patina on the colonial facades."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentrum des historischen Salzexports nach Europa und Amerika.",
+          "Forte de São José wurde 1743 zum Schutz vor Piratenangriffen erbaut.",
+          "Namensgebung 'Porto Inglês' geht auf den massiven britischen Handel zurück.",
+          "Die Kirche Nossa Senhora da Luz stammt aus dem Jahr 1872.",
+          "Stadtbild geprägt durch farbenfrohe einstöckige Kolonialhäuser.",
+          "Wurde am Ende des 19. Jahrhunderts nach dem Verfall des Salzmarktes ruhiger.",
+          "Das gesamte historische Zentrum steht unter nationalem Denkmalschutz."
+        ],
+        "hu": [
+          "Az Európába és Amerikába irányuló történelmi sóexport központja volt.",
+          "A Forte de São José erődöt 1743-ban építették a kalóztámadások ellen.",
+          "A 'Porto Inglês' elnevezés a hatalmas mértékű brit kereskedelemre utal.",
+          "A Nossa Senhora da Luz templom 1872-ben készült el.",
+          "A városképet a színpompás, egyszintes gyarmati házak határozzák meg.",
+          "A 19. század végén, a sópiac összeomlása után vált csendes kisvárossá.",
+          "A teljes történelmi központ nemzeti műemlékvédelem alatt áll."
+        ],
+        "ro": [
+          "Centrul exportului istoric de sare către Europa și America.",
+          "Forte de São José a fost construit în 1743 pentru protecția împotriva piraților.",
+          "Numele de „Portul Englez” provine de la comerțul britanic masiv.",
+          "Biserica Nossa Senhora da Luz datează din anul 1872.",
+          "Peisaj urban marcat de case coloniale colorate cu un singur etaj.",
+          "A devenit mai liniștit la sfârșitul secolului XIX, după declinul pieței sării.",
+          "Întregul centru istoric este protejat ca monument național."
+        ],
+        "en": [
+          "Central hub for historical salt exports to European and American markets.",
+          "The Fort of Saint Joseph was constructed in 1743 to repel pirate raids.",
+          "The name 'Porto Inglês' reflects the dominant 18th-century British trade presence.",
+          "The Church of Our Lady of Light was successfully completed in 1872.",
+          "Cityscape is uniquely characterized by colorful single-story colonial homes.",
+          "Experienced an economic decline in the late 19th century as salt demand fell.",
+          "The entire historic center is designated as a national heritage conservation zone."
+        ]
+      }
+    },
+    {
+      "id": "cv-igreja-nossa-senhora-conceicao-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kirche Nossa Senhora da Conceição befindet sich in São Filipe auf der Insel Fogo und ist eine der bedeutendsten religiösen Stätten des Archipels. Das aktuelle Gebäude wurde im Jahr 1849 fertiggestellt und ersetzte einen kleineren Vorgängerbau aus dem 16. Jahrhundert. Architektonisch ist die Kirche ein herausragendes Beispiel für den portugiesischen Kolonialstil des 19. Jahrhunderts, gekennzeichnet durch eine symmetrische, weiß-blaue Fassade und zwei markante Türme. Das Bauwerk dominiert den oberen Teil des historischen Zentrums und ist massiv aus lokalem Gestein errichtet. Historisch war die Kirche der spirituelle Ankerpunkt für die wohlhabende Elite der Insel, die in den umliegenden Sobrados lebte. Im Inneren befinden sich prunkvolle Holzaltäre und wertvolle sakrale Statuen, die direkt aus Europa importiert wurden. Besonders bemerkenswert ist die Akustik des hohen Hauptschiffs, das für religiöse Zeremonien und Konzerte genutzt wird. Die Kirche ist der Ausgangspunkt für viele bedeutende Prozessionen, insbesondere während des Patronatsfestes der Unbefleckten Empfängnis am 8. Dezember. Über die Jahrhunderte überstand das Gebäude mehrere schwere Erdbeben und Ascheregen durch die Ausbrüche des Pico do Fogo. Heute ist die Igreja Nossa Senhora da Conceição ein Symbol für den dauerhaften Glauben und die kulturelle Identität der Bewohner von Fogo und ein unverzichtbarer Bestandteil des architektonischen Ensembles von São Filipe.",
+        "hu": "A Nossa Senhora da Conceição templom São Filipében, Fogo szigetén található, és a szigetvilág egyik legjelentősebb vallási helyszíne. A jelenlegi épületet 1849-ben fejezték be, felváltva egy korábbi, 16. századi kisebb templomot. Építészetileg a templom a 19. századi portugál gyarmati stílus kiemelkedő példája, amelyet szimmetrikus, fehér-kék homlokzat és két markáns torony jellemez. Az építmény a történelmi központ felső részét uralja, és masszívan, helyi kőzetből épült. Történelmileg a templom a sziget gazdag elitjének spirituális tartóoszlopa volt, akik a környező sobradókban laktak. Belsejében pompás faoltárok és értékes, közvetlenül Európából importált szakrális szobrok találhatók. Különösen figyelemre méltó a magas főhajó akusztikája, amelyet vallási szertartásokra és koncertekre is használnak. A templom számos jelentős körmenet kiindulópontja, különösen a Szeplőtelen Fogantatás december 8-i ünnepén. Az évszázadok során az épület több súlyos földrengést és a Pico do Fogo kitöréseiből származó hamuesőt is túlélt. Ma az Igreja Nossa Senhora da Conceição a fogo-i lakosok szilárd hitének és kulturális identitásának szimbóluma, valamint São Filipe építészeti együttesének elengedhetetlen része.",
+        "ro": "Biserica Nossa Senhora da Conceição este situată în São Filipe, pe insula Fogo, și este unul dintre cele mai importante locuri religioase din arhipelag. Actuala clădire a fost finalizată în anul 1849, înlocuind o construcție anterioară mai mică din secolul al XVI-lea. Din punct de vedere arhitectural, biserica este un exemplu remarcabil al stilului colonial portughez din secolul al XIX-lea, caracterizat printr-o fațadă simetrică alb-albastră și două turnuri proeminente. Edificiul domină partea superioară a centrului istoric și este construit masiv din piatră locală. Din punct de vedere istoric, biserica a fost punctul de ancorare spirituală pentru elita bogată a insulei, care locuia în Sobrados-urile din jur. În interior se află altare somptuoase din lemn și statui sacre valoroase, importate direct din Europa. Deosebit de remarcabilă este acustica navei principale înalte, utilizată pentru ceremonii religioase și concerte. Biserica este punctul de plecare pentru multe procesiuni importante, în special în timpul sărbătorii patronale a Neprihănitei Zămisliri, pe 8 decembrie. De-a lungul secolelor, clădirea a supraviețuit mai multor cutremure severe și ploi de cenușă provocate de erupțiile vulcanului Pico do Fogo. Astăzi, Igreja Nossa Senhora da Conceição este un simbol al credinței durabile și al identității culturale a locuitorilor din Fogo.",
+        "en": "The Church of Our Lady of the Conception (Igreja Nossa Senhora da Conceição) is located in São Filipe on Fogo Island and stands as one of the most significant religious sites in the archipelago. The current building was completed in 1849, replacing a smaller 16th-century predecessor. Architecturally, the church is an outstanding example of 19th-century Portuguese colonial style, featuring a symmetrical white-and-blue facade and two prominent towers. The structure dominates the upper section of the historic center and is built solidly from local stone. Historically, the church served as the spiritual anchor for the island's wealthy elite, who resided in the surrounding Sobrados. Inside, there are magnificent wooden altars and valuable sacred statues imported directly from Europe. The acoustics of the high main nave are particularly noteworthy, often utilized for religious ceremonies and musical performances. The church serves as the starting point for many major processions, especially during the patronal feast of the Immaculate Conception on December 8th. Over the centuries, the building has withstood several severe earthquakes and ash falls resulting from eruptions of Pico do Fogo. Today, the church is a symbol of enduring faith and cultural identity for the people of Fogo and an essential part of São Filipe's architectural ensemble."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das heutige Gebäude wurde im Jahr 1849 fertiggestellt.",
+          "Herausragendes Beispiel für die weiß-blaue Kolonialarchitektur Fogos.",
+          "Beherbergt wertvolle sakrale Skulpturen aus europäischer Produktion.",
+          "Überstand massive Ascheregen und Beben durch den nahen Vulkan.",
+          "Zentraler Ort für die großen religiösen Prozessionen am 8. Dezember.",
+          "Befindet sich im oberen Teil der historischen Vila Baixa.",
+          "Dient seit über 170 Jahren als spirituelles Zentrum von São Filipe."
+        ],
+        "hu": [
+          "A mai épületet 1849-ben fejezték be hivatalosan.",
+          "Fogo fehér-kék gyarmati építészetének kiemelkedő példája.",
+          "Értékes, Európából származó szakrális szobrokat őriz a belsejében.",
+          "Túlélte a közeli vulkán kitöréseiből eredő hamuesőket és rengéseket.",
+          "A december 8-i nagy vallási körmenetek központi helyszíne.",
+          "A történelmi Vila Baixa negyed felső részén található.",
+          "Több mint 170 éve szolgál São Filipe spirituális központjaként."
+        ],
+        "ro": [
+          "Clădirea actuală a fost finalizată în anul 1849.",
+          "Exemplu remarcabil de arhitectură colonială alb-albastră din Fogo.",
+          "Găzduiește sculpturi sacre valoroase de producție europeană.",
+          "A supraviețuit ploilor masive de cenușă și cutremurelor vulcanice.",
+          "Locul central pentru marile procesiuni religioase de pe 8 decembrie.",
+          "Situată în partea superioară a cartierului istoric Vila Baixa.",
+          "Servește ca centru spiritual al orașului São Filipe de peste 170 de ani."
+        ],
+        "en": [
+          "The current church building was successfully completed in 1849.",
+          "Preeminent example of the distinct white-and-blue Fogo colonial style.",
+          "Houses highly valuable sacred sculptures imported from Europe.",
+          "Has survived multiple heavy ash falls and tremors from the nearby volcano.",
+          "Focal point for the significant religious processions held on December 8th.",
+          "Positioned in the upper reaches of the historic Vila Baixa district.",
+          "Has operated as São Filipe's spiritual hub for more than 170 years."
+        ]
+      }
+    }
+  ]
+}

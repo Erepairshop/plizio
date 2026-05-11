@@ -4,12 +4,18 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaNatureV2: POI[] = [
   {
     id: "bo-illimani-nature-v2",
-    description: "Az Andok látványos, hófödte csúcsa, amely La Paz városának hátterét adja.",
-    facts: [
-      "Andok",
-      "Hófödte csúcs",
-      "La Paz háttere"
-],
+    description: {
+      de: "Der Illimani ist der majestätische, schneebedeckte Gipfel, der über der Stadt La Paz thront.",
+      hu: "Az Andok látványos, hófödte csúcsa, amely La Paz városának hátterét adja.",
+      ro: "Illimani este vârful maiestuos, acoperit de zăpadă, care domină orașul La Paz.",
+      en: "Majestic three-peaked mountain that serves as the iconic snowy backdrop to the city of La Paz."
+    },
+    facts: {
+      de: ["Höhe von 6.438 Metern", "Wahrzeichen von La Paz", "Drei Hauptgipfel"],
+      hu: ["Andok", "Hófödte csúcs", "La Paz háttere"],
+      ro: ["Altitudine de 6.438 metri", "Simbol al orașului La Paz", "Trei vârfuri principale"],
+      en: ["Highest peak in Cordillera Real", "Elevation of 6,438 meters", "Icon of Bolivian identity", "Name means 'Golden Sun'"]
+    },
     type: "mountain",
     parent: "BO-L",
     coords: [-67.788, -16.636],
@@ -33,12 +39,18 @@ export const poiExtraBoliviaNatureV2: POI[] = [
     }, image: "/poi-images/bo-illimani-nature-v2.webp"},
   {
     id: "bo-sajama-nature-v2",
-    description: "Bolívia legmagasabb hegycsúcsa, egy inaktív vulkán az Andok hegyvonulatában.",
-    facts: [
-      "Legmagasabb csúcs",
-      "Inaktív vulkán",
-      "Andok"
-],
+    description: {
+      de: "Der Sajama ist der höchste Berg Boliviens und ein erloschener Vulkan inmitten eines gleichnamigen Nationalparks.",
+      hu: "Bolívia legmagasabb hegycsúcsa, egy inaktív vulkán az Andok hegyvonulatában.",
+      ro: "Sajama este cel mai înalt munte din Bolivia și un vulcan stins în mijlocul unui parc național cu același nume.",
+      en: "An extinct stratovolcano and the highest peak in Bolivia, located in the remote Western Andes."
+    },
+    facts: {
+      de: ["Höhe von 6.542 Metern", "Höchster Gipfel Boliviens", "Umgeben von Queñua-Wäldern"],
+      hu: ["Legmagasabb csúcs", "Inaktív vulkán", "Andok"],
+      ro: ["Altitudine de 6.542 metri", "Cel mai înalt vârf din Bolivia", "Înconjurat de păduri de Queñua"],
+      en: ["Elevation of 6,542 meters", "Surrounded by highest forest in the world", "Located in Sajama National Park", "Sacred mountain for the Aymara"]
+    },
     type: "mountain",
     parent: "BO-O",
     coords: [-68.882, -18.108],
@@ -62,12 +74,18 @@ export const poiExtraBoliviaNatureV2: POI[] = [
     }, image: "/poi-images/bo-sajama-nature-v2.webp"},
   {
     id: "bo-huayna-potosi-nature-v2",
-    description: "Népszerű hegymászó célpont, amely La Paz közelében található az Andokban.",
-    facts: [
-      "Hegymászás",
-      "La Paz közelében",
-      "Andok"
-],
+    description: {
+      de: "Der Huayna Potosí ist einer der beliebtesten Sechstausender für Bergsteiger aufgrund seines relativ einfachen Zugangs von La Paz.",
+      hu: "Népszerű hegymászó célpont, amely La Paz közelében található az Andokban.",
+      ro: "Huayna Potosí este unul dintre cei mai populari munți de peste șase mii de metri pentru alpiniști, datorită accesului său relativ ușor din La Paz.",
+      en: "Stunning pyramid-shaped mountain near La Paz, popular as an accessible 6,000-meter climb."
+    },
+    facts: {
+      de: ["Höhe von 6.088 Metern", "Beliebt bei Bergsteigern", "Nahe La Paz gelegen"],
+      hu: ["Hegymászás", "La Paz közelében", "Andok"],
+      ro: ["Altitudine de 6.088 metri", "Popular printre alpiniști", "Situat lângă La Paz"],
+      en: ["Elevation of 6,088 meters", "Most climbed peak in Bolivia", "Located in the Cordillera Real", "Name means 'Young Potosí'"]
+    },
     type: "mountain",
     parent: "BO-L",
     coords: [-68.152, -16.262],
@@ -91,12 +109,18 @@ export const poiExtraBoliviaNatureV2: POI[] = [
     }, image: "/poi-images/bo-huayna-potosi-nature-v2.webp"},
   {
     id: "bo-illampu-nature-v2",
-    description: "Az Andok Cordillera Real vonulatának egyik monumentális csúcsa.",
-    facts: [
-      "Cordillera Real",
-      "Monumentális csúcs",
-      "Andok"
-],
+    description: {
+      de: "Der Illampu ist einer der mächtigsten und technisch anspruchsvollsten Gipfel in der Cordillera Real.",
+      hu: "Az Andok Cordillera Real vonulatának egyik monumentális csúcsa.",
+      ro: "Illampu este unul dintre cele mai puternice și mai solicitante vârfuri din punct de vedere tehnic din Cordillera Real.",
+      en: "Massive snow-capped peak in the northern Cordillera Real, known for its steep and technical routes."
+    },
+    facts: {
+      de: ["Höhe von 6.368 Metern", "Teil des Illampu-Massivs", "Technisch schwierige Besteigung"],
+      hu: ["Cordillera Real", "Monumentális csúcs", "Andok"],
+      ro: ["Altitudine de 6.368 metri", "Parte a masivului Illampu", "Ascensiune dificilă din punct de vedere tehnic"],
+      en: ["Elevation of 6,368 meters", "Part of the Illampu-Ancohuma massif", "Towers over the town of Sorata", "Considered a difficult alpine climb"]
+    },
     type: "mountain",
     parent: "BO-L",
     coords: [-68.528, -15.823],
@@ -120,12 +144,18 @@ export const poiExtraBoliviaNatureV2: POI[] = [
     }, image: "/poi-images/bo-illampu-nature-v2.webp"},
   {
     id: "bo-ancohuma-nature-v2",
-    description: "Az Ancohuma a Cordillera Real része, az ország egyik legmagasabb hegycsúcsa.",
-    facts: [
-      "Cordillera Real",
-      "Magas csúcs",
-      "Andok"
-],
+    description: {
+      de: "Der Ancohuma ist der zweithöchste Berg der Cordillera Real und besticht durch seine ausgedehnten Gletscherflächen.",
+      hu: "Az Ancohuma a Cordillera Real része, az ország egyik legmagasabb hegycsúcsa.",
+      ro: "Ancohuma este al doilea cel mai înalt munte din Cordillera Real și impresionează prin suprafețele sale extinse de ghețari.",
+      en: "Large glaciated peak in the northern Cordillera Real, the third highest mountain in Bolivia."
+    },
+    facts: {
+      de: ["Höhe von 6.427 Metern", "Zweithöchster Gipfel der Kordillere", "Massive Vergletscherung"],
+      hu: ["Cordillera Real", "Magas csúcs", "Andok"],
+      ro: ["Altitudine de 6.427 metri", "Al doilea cel mai înalt vârf din Cordilieră", "Glaciațiune masivă"],
+      en: ["Elevation of 6,427 meters", "Located near Lake Titicaca", "Extensive glacial systems", "Stunning high-altitude scenery"]
+    },
     type: "mountain",
     parent: "BO-L",
     coords: [-68.544, -15.845],
@@ -195,7 +225,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "NASA a studiat lacul de pe vârf pentru a simula condițiile de pe Marte timpurie.",
         "Ruinele incașe de pe marginea craterului atestă ascensiunea muntelui acum câteva secole."
       ],
-      en: ["Elevation: 5,916 m.", "Located on the border with Chile.", "Contains one of the highest lakes.", "Considered a sacred mountain.", "Licancabur is a highly symmetrical stratovolcano on the border between Bolivia and Chile, featuring a summit crater lake.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Licancabur is a highly symmetrical stratovolcano on the border between Bolivia and Chile, featuring a summit crater lake.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-licancabur-nature-v2.webp"},
   {
     id: "bo-chacaltaya-nature-v2",
@@ -245,7 +275,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Ghețarul avea o vechime de peste 18.000 de ani înainte de a se topi în câteva decenii.",
         "Este un loc crucial pentru cercetarea științifică a atmosferei și astrofizicii."
       ],
-      en: ["Elevation: 5,421 m.", "Former ski resort.", "Glacier melted by 2009.", "Near La Paz.", "Chacaltaya was once the highest ski resort in the world before its glacier completely melted in 2009.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Chacaltaya was once the highest ski resort in the world before its glacier completely melted in 2009.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-chacaltaya-nature-v2.webp"},
   {
     id: "bo-cerro-rico-nature-v2",
@@ -295,7 +325,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Minele și orașul Potosí fac parte din Patrimoniul Mondial UNESCO.",
         "În galerii, minerii îl venerează pe 'El Tio', stăpânul lumii subterane."
       ],
-      en: ["Elevation: 4,824 m.", "Famous for silver mining.", "Towers over Potosí.", "Historically very significant.", "Cerro Rico (Rich Mountain) towers over the city of Potosí and was one of the world's largest sources of silver for centuries.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Cerro Rico (Rich Mountain) towers over the city of Potosí and was one of the world's largest sources of silver for centuries.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-cerro-rico-nature-v2.webp"},
   {
     id: "bo-uturuncu-nature-v2",
@@ -345,7 +375,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Lângă vârf se află fumarole active care elimină gaze sulfuroase.",
         "Ultima erupție majoră a vulcanului a avut loc acum aproximativ 250.000 de ani."
       ],
-      en: ["Elevation: 6,008 m.", "Semi-dormant volcano.", "Geologically measurably uplifting.", "In the Sur Lípez province.", "Uturuncu is the highest mountain in southwestern Bolivia and a semi-dormant stratovolcano that is slowly uplifting.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Uturuncu is the highest mountain in southwestern Bolivia and a semi-dormant stratovolcano that is slowly uplifting.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-uturuncu-nature-v2.webp"},
   {
     id: "bo-cerro-tunari-nature-v2",
@@ -395,7 +425,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Aici cresc ultimele exemplare protejate de arbori Kewiña (Polylepis).",
         "Iarna, vârful este adesea acoperit de zăpadă, oferind un contrast superb cu valea verde."
       ],
-      en: ["Elevation: 5,035 m.", "Highest mountain in central Bolivia.", "North of Cochabamba.", "Center of Tunari National Park.", "Cerro Tunari is the highest peak in central Bolivia and dominates the landscape north of the city of Cochabamba.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Cerro Tunari is the highest peak in central Bolivia and dominates the landscape north of the city of Cochabamba.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-cerro-tunari-nature-v2.webp"},
   {
     id: "bo-salar-de-uyuni-nature-v2",
@@ -445,7 +475,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "NASA folosește suprafața perfect plată a salarului pentru calibrarea sateliților.",
         "În fiecare an, mii de flamingo vin să se reproducă în lagunele sărate din zonă."
       ],
-      en: ["Area: 10,582 km².", "World's largest salt flat.", "Contains huge lithium reserves.", "Extremely flat surface.", "Salar de Uyuni is the world's largest salt flat and harbors a large portion of the world's lithium reserves.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Salar de Uyuni is the world's largest salt flat and harbors a large portion of the world's lithium reserves.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-salar-de-uyuni-nature-v2.webp"},
   {
     id: "bo-lake-titicaca-nature-v2",
@@ -495,7 +525,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Temperatura apei rămâne constantă între 10 și 14 grade pe tot parcursul anului.",
         "Este habitatul broaștei gigantice de Titicaca, o specie pe cale de dispariție."
       ],
-      en: ["Elevation: 3,812 m.", "Shared with Peru.", "Highest navigable lake.", "Considered birthplace of the Incas.", "Lake Titicaca is situated at 3,812 meters and is considered the highest commercially navigable body of water in the world.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Lake Titicaca is situated at 3,812 meters and is considered the highest commercially navigable body of water in the world.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-lake-titicaca-nature-v2.webp"},
   {
     id: "bo-laguna-colorada-nature-v2",
@@ -516,13 +546,13 @@ export const poiExtraBoliviaNatureV2: POI[] = [
     },
     description: {
       de: "Die Laguna Colorada ist ein flacher, roter Salzsee im Südwesten Boliviens und ein wichtiger Lebensraum für James-Flamingos.",
-      hu: "A Laguna Colorada egy sekély, vörös sós tó Délnyugat-Bolíviában, amely a James-flamingók fontos élőhelye.",
+      hu: "Lenyűgöző vörös színű sós tó a magas Andokban, amely különleges algáinak és a rajta élő több ezer flamingónak köszönheti hírnevét.",
       ro: "Laguna Colorada este un lac sărat roșu și puțin adânc în sud-vestul Boliviei, un habitat important pentru flamingo James.",
       en: "Laguna Colorada is a shallow, red salt lake in southwestern Bolivia and a vital habitat for James's flamingos."
     },
     facts: {
       de: ["Rote Wasserfärbung.", "Flacher Salzsee.", "Lebensraum für Flamingos.", "Liegt auf ca. 4278 m Höhe."],
-      hu: ["Vörös színű víz.", "Sekély sós tó.", "Flamingók élőhelye.", "Kb. 4278 m magasan fekszik."],
+      hu: ["A víz színét vörös algák adják", "James-flamingók fő fészkelőhelye", "Tengerszint feletti magassága 4278 méter"],
       ro: ["Culoare roșie a apei.", "Lac sărat puțin adânc.", "Habitat pentru flamingo.", "Situat la aprox. 4278 m altitudine."],
       en: ["Red water color.", "Shallow salt lake.", "Habitat for flamingos.", "Located at approx. 4,278 m elevation."]
     },
@@ -551,7 +581,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Culoarea roșie este cea mai intensă la începutul după-amiezii, când bate vântul.",
         "Lacul face parte dintr-o zonă RAMSAR importantă pentru protecția păsărilor de apă."
       ],
-      en: ["Red water color.", "Shallow salt lake.", "Habitat for flamingos.", "Located at approx. 4,278 m elevation.", "Laguna Colorada is a shallow, red salt lake in southwestern Bolivia and a vital habitat for James's flamingos.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Laguna Colorada is a shallow, red salt lake in southwestern Bolivia and a vital habitat for James's flamingos.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-laguna-colorada-nature-v2.webp"},
   {
     id: "bo-laguna-verde-nature-v2",
@@ -601,7 +631,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Culoarea lacului este cea mai intensă după-amiaza, când vântul agită sedimentele.",
         "Este conectată printr-un mic canal cu Laguna Blanca din imediata vecinătate."
       ],
-      en: ["Turquoise coloration due to minerals.", "At the foot of Licancabur.", "Extremely cold winds.", "Part of the Eduardo Avaroa Reserve.", "Laguna Verde is a strikingly turquoise salt lake at the foot of the Licancabur volcano in southwestern Bolivia.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Laguna Verde is a strikingly turquoise salt lake at the foot of the Licancabur volcano in southwestern Bolivia.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-laguna-verde-nature-v2.webp"},
   {
     id: "bo-laguna-blanca-nature-v2",
@@ -651,7 +681,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Zona face parte din Rezervația Națională de Faună Andină Eduardo Avaroa.",
         "În funcție de lumină, culoarea lacului poate căpăta uneori nuanțe albăstrui."
       ],
-      en: ["White color due to borax.", "Right next to Laguna Verde.", "Shallow body of water.", "Elevation over 4,300 m.", "Laguna Blanca is a whitish salt lake separated from the neighboring Laguna Verde by only a narrow corridor.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Laguna Blanca is a whitish salt lake separated from the neighboring Laguna Verde by only a narrow corridor.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-laguna-blanca-nature-v2.webp"},
   {
     id: "bo-lake-poopo-nature-v2",
@@ -701,7 +731,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Înainte de secare, lacul atingea o suprafață de până la 3000 de kilometri pătrați.",
         "Comunitatea indigenă Uru-Murato și-a pierdut modul de viață odată cu dispariția lacului."
       ],
-      en: ["Former second-largest lake.", "Largely dried up.", "Located in the Altiplano.", "Highly fluctuating water level.", "Lake Poopó was once Bolivia's second-largest lake but has largely dried up due to climate change and water diversion.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Lake Poopó was once Bolivia's second-largest lake but has largely dried up due to climate change and water diversion.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-lake-poopo-nature-v2.webp"},
   {
     id: "bo-uru-uru-lake-nature-v2",
@@ -751,7 +781,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Este un loc cunoscut pentru observarea păsărilor chiar la marginea orașului Oruro.",
         "Lacul există în forma sa actuală abia din anii 1960."
       ],
-      en: ["Shallow Altiplano lake.", "Fed by the Desaguadero.", "Popular for boating.", "Important bird habitat.", "Uru Uru Lake is a shallow lake near Oruro, fed by the Desaguadero River.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Uru Uru Lake is a shallow lake near Oruro, fed by the Desaguadero River.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-uru-uru-lake-nature-v2.webp"},
   {
     id: "bo-mamore-river-nature-v2",
@@ -801,7 +831,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Pe malurile sale pot fi observați frecvent caimani și capibara.",
         "Nivelul apei poate fluctua cu până la 10 metri între sezonul secetos și cel ploios."
       ],
-      en: ["Flows through northern Bolivia.", "Important transportation route.", "Joins the Beni River.", "Species-rich river system.", "The Mamoré River is a large river in the Bolivian Amazon basin and one of the main tributaries of the Madeira River.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Mamoré River is a large river in the Bolivian Amazon basin and one of the main tributaries of the Madeira River.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-mamore-river-nature-v2.webp"},
   {
     id: "bo-beni-river-nature-v2",
@@ -851,7 +881,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Râul reprezintă principala rută de transport pentru produsele din pădurea tropicală nordică.",
         "Este considerat unul dintre cele mai bogate sisteme fluviale în specii din lume."
       ],
-      en: ["Originates in the Andes.", "Flows through deep rainforest.", "Forms the Madeira River.", "Popular for ecotourism.", "The Beni River rises in the Andes and flows through the Madidi National Park before joining the Mamoré.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Beni River rises in the Andes and flows through the Madidi National Park before joining the Mamoré.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-beni-river-nature-v2.webp"},
   {
     id: "bo-madre-de-dios-river-nature-v2",
@@ -901,7 +931,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "În albia sa se caută aur și astăzi folosind metode tradiționale.",
         "Navigația pe râu este esențială pentru transportul recoltei de nuci de Brazilia."
       ],
-      en: ["Flows through Peru and Bolivia.", "Empties into the Beni River.", "Rich biodiversity.", "Important for local economy.", "The Madre de Dios River is an important river in the Amazon basin that flows through Peru and northern Bolivia.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Madre de Dios River is an important river in the Amazon basin that flows through Peru and northern Bolivia.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-madre-de-dios-river-nature-v2.webp"},
   {
     id: "bo-itenez-river-nature-v2",
@@ -951,7 +981,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Râul adăpostește o populație sănătoasă de delfini roz de râu.",
         "Este considerat unul dintre cele mai bine conservate râuri din punct de vedere ecologic de pe continent."
       ],
-      en: ["Border river with Brazil.", "Also called Guaporé.", "Empties into the Mamoré River.", "Clear, dark water.", "The Iténez River, called Guaporé in Brazil, forms the natural border between Bolivia and Brazil over long distances.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Iténez River, called Guaporé in Brazil, forms the natural border between Bolivia and Brazil over long distances.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-itenez-river-nature-v2.webp"},
   {
     id: "bo-pilcomayo-river-nature-v2",
@@ -1001,7 +1031,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "În timpul Războiului Chaco, punctele de apă de-a lungul râului au avut o importanță strategică.",
         "Este unul dintre puținele râuri din lume care se pot 'pierde' prin infiltrare în zonele de câmpie."
       ],
-      en: ["Flows through the Gran Chaco.", "Length: approx. 1,100 km.", "Important water source in the Chaco.", "Dividing line with Argentina.", "The Pilcomayo River crosses the Bolivian Andes and the Gran Chaco, partially forming the border with Argentina.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Pilcomayo River crosses the Bolivian Andes and the Gran Chaco, partially forming the border with Argentina.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-pilcomayo-river-nature-v2.webp"},
   {
     id: "bo-rio-grande-guapay-nature-v2",
@@ -1051,7 +1081,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Podul de la Abapó este un punct strategic pentru transportul nord-sud din Bolivia.",
         "Colectează o mare parte din apele provenite din văile centrale ale Anzilor."
       ],
-      en: ["Also known as Guapay.", "Originates near Cochabamba.", "Empties into the Mamoré River.", "Irrigates important agricultural zones.", "The Río Grande, locally also known as Guapay, originates in the central Bolivian Andes and flows around the Santa Cruz region.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Río Grande, locally also known as Guapay, originates in the central Bolivian Andes and flows around the Santa Cruz region.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-rio-grande-guapay-nature-v2.webp"},
   {
     id: "bo-desaguadero-river-nature-v2",
@@ -1101,7 +1131,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Cursul său a fost reglat în mai multe puncte pentru a optimiza irigațiile.",
         "Râul pierde cantități enorme de apă prin evaporare în drumul său spre sud."
       ],
-      en: ["Outflow of Lake Titicaca.", "Flows across the Altiplano.", "Water for agriculture.", "Loses a lot of water to evaporation.", "The Desaguadero River is the main outflow of Lake Titicaca and feeds Lake Poopó further south.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Desaguadero River is the main outflow of Lake Titicaca and feeds Lake Poopó further south.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-desaguadero-river-nature-v2.webp"},
   {
     id: "bo-isla-del-sol-nature-v2",
@@ -1151,7 +1181,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "'Stânca Sacră' a fost unul dintre cele mai importante locuri de sacrificiu ale Imperiului Inca.",
         "Insula poate fi accesată doar cu barca din orașul Copacabana."
       ],
-      en: ["Largest island in Lake Titicaca.", "Mythological origin of the Incas.", "No cars allowed.", "Numerous ruins present.", "The Island of the Sun in Lake Titicaca is the lake's largest island and holds outstanding significance in Inca mythology.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Island of the Sun in Lake Titicaca is the lake's largest island and holds outstanding significance in Inca mythology.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-isla-del-sol-nature-v2.webp"},
   {
     id: "bo-isla-de-la-luna-nature-v2",
@@ -1201,7 +1231,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Templul Iñak Uyu este considerat una dintre cele mai bine conservate structuri incașe de pe lac.",
         "În limba Quechua, insula este cunoscută și sub numele de Koati."
       ],
-      en: ["East of the Island of the Sun.", "Sacred Inca site.", "Temple of the Sun Virgins.", "Quieter alternative to the Island of the Sun.", "The Island of the Moon is a smaller island east of Isla del Sol in Lake Titicaca, home to an ancient Inca temple.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The Island of the Moon is a smaller island east of Isla del Sol in Lake Titicaca, home to an ancient Inca temple.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-isla-de-la-luna-nature-v2.webp"},
   {
     id: "bo-madidi-national-park-nature-v2",
@@ -1251,7 +1281,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "În 2004, aici a fost descoperită o nouă specie de maimuță, numită Golden Palace.",
         "Accesul se face de obicei cu barca cu motor din Rurrenabaque, pe râul Beni."
       ],
-      en: ["Extremely high biodiversity.", "Located in the upper Amazon basin.", "Home to numerous indigenous peoples.", "Often accessed via Rurrenabaque.", "Madidi National Park encompasses jungle territory in the Amazon basin and is considered one of the most biodiverse protected areas on Earth.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Madidi National Park encompasses jungle territory in the Amazon basin and is considered one of the most biodiverse protected areas on Earth.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-madidi-national-park-nature-v2.webp"},
   {
     id: "bo-noel-kempff-mercado-nature-v2",
@@ -1301,7 +1331,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Poartă numele cercetătorului bolivian Noel Kempff Mercado, care și-a pierdut viața aici.",
         "A servit drept sursă de inspirație pentru relatările despre peisajele preistorice din America de Sud."
       ],
-      en: ["UNESCO World Natural Heritage.", "On the border with Brazil.", "Impressive waterfalls (Ahlfeld).", "Barely developed for tourism.", "This pristine national park in northeastern Bolivia features dramatic waterfalls, plateaus, and dense tropical rainforest.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["This pristine national park in northeastern Bolivia features dramatic waterfalls, plateaus, and dense tropical rainforest.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-noel-kempff-mercado-nature-v2.webp"},
   {
     id: "bo-amboro-national-park-nature-v2",
@@ -1351,7 +1381,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Parcul adăpostește pasărea rară și amenințată numită hokko cu coif.",
         "Există două puncte principale de acces: Buena Vista în nordul umed și Samaipata în sudul arid."
       ],
-      en: ["Convergence of three ecosystems.", "Close to Santa Cruz de la Sierra.", "Over 800 bird species.", "Southern part is drier (Samaipata).", "Amboró National Park is characterized by its unique location where the Andes, the Gran Chaco, and the Amazon basin converge.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["Amboró National Park is characterized by its unique location where the Andes, the Gran Chaco, and the Amazon basin converge.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }, image: "/poi-images/bo-amboro-national-park-nature-v2.webp"},
   {
     id: "bo-isiboro-secure-nature-v2",
@@ -1401,7 +1431,7 @@ export const poiExtraBoliviaNatureV2: POI[] = [
         "Se întinde de la poalele regiunii Yungas până la câmpiile joase din Beni.",
         "Regiunea este cunoscută pentru bogăția de lemn prețios și pentru delfinii de râu rari."
       ],
-      en: ["Known as TIPNIS.", "Rainforest protected area.", "Home to indigenous communities.", "Center of environmental debates.", "The TIPNIS protected area safeguards large parts of the pristine Amazon rainforest and the traditional lifestyle of indigenous groups.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
+      en: ["The TIPNIS protected area safeguards large parts of the pristine Amazon rainforest and the traditional lifestyle of indigenous groups.", "Located within the Plurinational State of Bolivia.", "Set between the Andean Cordillera, the Altiplano, and the eastern lowlands."]
     }
   }
 ];

@@ -1,0 +1,317 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": ["lib/visualLab/data/poiExtraLebanonCitiesV2.ts"],
+  "items": [
+    {
+      "id": "bcharre-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bcharre egy festői hegyvidéki város a Kadisha-völgy szélén, Észak-Libanonban, mintegy 1500 méteres tengerszint feletti magasságban. A település történelmileg a maronita kereszténység egyik legfontosabb központja, lakói az arámi nyelvet még a 19. században is használták. Bcharre a híres libanoni-amerikai költő, író és festő, Khalil Gibran szülővárosa; a városban található múzeuma, amelyet egy régi kolostorban alakítottak ki, több ezer látogatót vonz évente. A város fölött húzódik a híres Isten Cédrusai (Horsh Arz el-Rab) erdő, amely az ókori libanoni cédruserdők egyik utolsó, szigorúan védett maradványa, és a völggyel együtt az UNESCO Világörökség része. Bcharre népszerű kiindulópontja a túrázóknak, akik a Kadisha-völgy ősi sziklakolostorait és barlangjait fedezik fel. Télen a közeli hegyoldalak a síelők és téli sportok kedvelőinek célpontjai. A lakosság megélhetését elsősorban a turizmus és a mezőgazdaság, ezen belül az almatermesztés biztosítja.",
+        "ro": "Bcharre este un oraș de munte pitoresc situat la marginea Văii Kadisha din nordul Libanului, la o altitudine de aproximativ 1.500 de metri deasupra nivelului mării. Din punct de vedere istoric, așezarea a fost un centru major al creștinismului maronit, locuitorii săi continuând să vorbească aramaica până în secolul al XIX-lea. Bcharre este orașul natal al celebrului poet, scriitor și pictor libanezo-american Khalil Gibran; muzeul dedicat lui, amenajat într-o veche mănăstire, atrage anual mii de vizitatori. Deasupra orașului se întinde faimoasa Pădure a Cedrilor lui Dumnezeu (Horsh Arz el-Rab), una dintre ultimele rămășițe protejate ale pădurilor antice de cedru libanez, care, împreună cu valea, face parte din Patrimoniul Mondial UNESCO. Bcharre este un punct de plecare popular pentru drumeții care explorează mănăstirile și peșterile din Valea Kadisha. În timpul iernii, versanții din apropiere devin o destinație populară pentru schi. Economia se bazează pe turism și agricultură, în special pe cultivarea merelor.",
+        "en": "Bcharre is a picturesque mountain town perched on the edge of the Kadisha Valley in northern Lebanon, situated at an elevation of approximately 1,500 meters above sea level. Historically, the settlement has been a crucial stronghold for Maronite Christianity, and its inhabitants continued to speak Aramaic well into the 19th century. Bcharre is renowned as the birthplace of the famous Lebanese-American poet, writer, and painter Khalil Gibran; his museum, housed in a former monastery, attracts thousands of visitors annually. Above the town lies the famous Cedars of God forest (Horsh Arz el-Rab), one of the last strictly protected remnants of the ancient Lebanese cedar forests, which, alongside the valley, is a designated UNESCO World Heritage site. Bcharre serves as a popular base for hikers exploring the ancient rock-hewn monasteries and caves of the Kadisha Valley. During winter, the nearby mountain slopes become a popular destination for skiing. The local economy is driven primarily by tourism and agriculture, specifically apple orchards."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bcharre 1500 méteres magasságban fekszik a Kadisha-völgy felett.",
+          "A híres költő és festő, Khalil Gibran szülővárosa.",
+          "A közelében található az UNESCO Világörökség részét képező Isten Cédrusai erdő.",
+          "A város a maronita kereszténység egyik történelmi fellegvára.",
+          "Népszerű kiindulópont a Kadisha-völgy kolostorainak felfedezéséhez."
+        ],
+        "ro": [
+          "Se află la o altitudine de 1.500 de metri deasupra Văii Kadisha.",
+          "Este orașul natal al faimosului poet și artist Khalil Gibran.",
+          "În apropiere se află Pădurea Cedrilor lui Dumnezeu, sit UNESCO.",
+          "Orașul a fost mult timp o fortăreață istorică a creștinismului maronit.",
+          "Reprezintă o bază excelentă pentru explorarea mănăstirilor din vale."
+        ],
+        "en": [
+          "It is situated at an altitude of 1,500 meters above the Kadisha Valley.",
+          "The town is the birthplace of the renowned poet and artist Khalil Gibran.",
+          "The nearby Cedars of God forest is a recognized UNESCO World Heritage site.",
+          "The settlement has long been a historic stronghold of Maronite Christianity.",
+          "It serves as a popular base for exploring the monasteries in the valley."
+        ]
+      }
+    },
+    {
+      "id": "batroun-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Batroun a Földközi-tenger partján fekszik, Észak-Libanon egyik legrégebbi és legélénkebb parti városa. A település neve a görög Botrüsz (fürt) szóból származik. Az ókorban a föníciaiak alapították, és fontos szerepet játszott a tengeri kereskedelemben. A város legismertebb történelmi emléke az ősi föníciai tengeri fal, egy 225 méter hosszú kőépítmény, amely eredetileg a part védelmét és egy tengeri kőfejtő határolását szolgálta. A hangulatos óváros macskaköves utcákkal, homokkő házakkal, valamint a Szent István maronita és a Szent György görög ortodox templommal büszkélkedhet. Batroun ma népszerű turisztikai célpont, híres a szörfözésre alkalmas strandjairól, az élénk éjszakai életéről és kiváló tengeri éttermeiről. A város továbbá Libanon egyik legfontosabb borvidékének, a Batroun-régió borútjának a központja, amelyhez számos butikborászat tartozik. A tradicionális batrouni limonádé, amelyet egyedi recept alapján készítenek, országszerte híres.",
+        "ro": "Batroun, situat pe coasta Mării Mediterane, este unul dintre cele mai vechi și mai vibrante orașe de coastă din nordul Libanului. Numele așezării derivă din cuvântul grecesc Botrys (ciorchine de struguri). Orașul a fost fondat de fenicieni în antichitate, jucând un rol important în comerțul maritim. Cel mai faimos monument istoric este vechiul zid maritim fenician, o structură de piatră lungă de 225 de metri, care proteja inițial coasta și delimita o carieră maritimă. Orașul vechi fermecător se mândrește cu străzi pietruite, case din gresie și repere precum biserica maronită Sfântul Ștefan și biserica greco-ortodoxă Sfântul Gheorghe. Astăzi, Batroun este o destinație turistică de top, cunoscută pentru plajele excelente pentru surfing, viața de noapte activă și restaurantele de fructe de mare. De asemenea, funcționează ca un centru pentru una dintre principalele regiuni viticole din Liban, găzduind numeroase crame de tip boutique. Limonada tradițională din Batroun este renumită în toată țara.",
+        "en": "Batroun, situated on the Mediterranean coast, is one of the oldest and most vibrant coastal cities in northern Lebanon. The settlement's name derives from the Greek word Botrys (bunch of grapes). Founded by the Phoenicians in antiquity, the city played an important role in ancient maritime trade. The most famous historical landmark is the ancient Phoenician sea wall, a 225-meter-long stone structure that originally protected the coast and demarcated a maritime quarry. The charming old town boasts cobblestone streets, sandstone houses, and landmarks like the Maronite St. Stephen's Cathedral and the Greek Orthodox St. George Church. Today, Batroun is a premier tourist destination, well known for its excellent surfing beaches, active nightlife, and seafood restaurants. The city also serves as the hub for one of Lebanon's key wine-producing regions, featuring numerous boutique wineries. The traditional Batroun lemonade, made with a distinct local recipe, is famous across the entire country."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az ősi föníciai tengeri fal 225 méter hosszan védi a partot.",
+          "A város neve a görög Botrüsz, vagyis szőlőfürt szóból ered.",
+          "Batroun az észak-libanoni borvidék egyik fontos központja.",
+          "Híres egyedi recept alapján készülő, tradicionális limonádéjáról.",
+          "Óvárosában kőházak és régi ortodox, valamint maronita templomok állnak."
+        ],
+        "ro": [
+          "Vechiul zid maritim fenician protejează coasta pe o lungime de 225 de metri.",
+          "Numele orașului provine din termenul grecesc Botrys (ciorchine de struguri).",
+          "Batroun este un centru vital pentru regiunea viticolă din nordul Libanului.",
+          "Este renumit la nivel național pentru rețeta sa tradițională de limonadă.",
+          "Orașul vechi conține case din piatră și biserici istorice creștine."
+        ],
+        "en": [
+          "The ancient Phoenician sea wall protects the coast for 225 meters.",
+          "The city's name originates from the Greek word Botrys (bunch of grapes).",
+          "Batroun acts as a vital hub for the northern Lebanese wine region.",
+          "It is nationally renowned for its traditionally prepared local lemonade.",
+          "The old town features stone houses and historic Christian churches."
+        ]
+      }
+    },
+    {
+      "id": "zgharta-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Zgharta egy történelmi hegyvidéki város Észak-Libanonban, körülbelül 80 kilométerre Bejrúttól és mindössze néhány kilométerre a tengerparti Tripolitól. A település szorosan összefonódik Ehdennel; a lakosok évszázadok óta hagyományosan a magasabban fekvő Ehdenbe költöznek a forró nyári hónapokra, majd ősszel visszatérnek a téli szálláshelyként funkcionáló Zghartába. A város lakossága nagyrészt maronita keresztény, és a helyi kultúra erős kötődést mutat a függetlenségi küzdelmekhez és a maronita egyház történetéhez. Zgharta Libanon politikai életének egyik központja is, innen származott a néhai Suleiman Frangieh elnök. A helyi gasztronómia különlegessége a zghartai kibbeh, amely egy darált húsból és tört búzából készült, gondosan fűszerezett hagyományos étel. A gazdaság alapját a mezőgazdaság, különösen az olajfa- és gyümölcstermesztés adja, az olívaolaj termelés kiemelkedő jelentőségű a régióban.",
+        "ro": "Zgharta este un oraș montan istoric din nordul Libanului, situat la aproximativ 80 de kilometri de Beirut și la doar câțiva kilometri de orașul de coastă Tripoli. Așezarea este strâns legată de orașul Ehden; locuitorii au o tradiție de secole de a se muta în Ehden, aflat la o altitudine mai mare, pentru lunile calde de vară, revenind toamna în Zgharta, care servește drept reședință de iarnă. Populația orașului este majoritar creștină maronită, iar cultura locală are legături puternice cu luptele pentru independență și cu istoria bisericii maronite. Zgharta este, de asemenea, un centru semnificativ în viața politică libaneză, fiind orașul natal al fostului președinte Suleiman Frangieh. O specialitate gastronomică locală este kibbeh-ul de Zgharta, un fel de mâncare tradițional preparat din carne tocată și grâu zdrobit, atent condimentat. Economia se bazează pe agricultură, în special pe cultivarea măslinilor și a fructelor.",
+        "en": "Zgharta is a historic mountain town in northern Lebanon, located about 80 kilometers from Beirut and just a few kilometers from the coastal city of Tripoli. The settlement is intricately linked with the town of Ehden; residents maintain a centuries-old tradition of migrating to the higher-elevation Ehden during the hot summer months and returning to Zgharta as their winter residence in the fall. The town's demographic is overwhelmingly Maronite Christian, and the local culture possesses strong ties to struggles for independence and the history of the Maronite church. Zgharta is also a notable center in Lebanese political life, having produced the late President Suleiman Frangieh. A distinctive culinary specialty of the area is Zghartawi kibbeh, a carefully spiced traditional dish made from minced meat and bulgur wheat. The local economy is firmly rooted in agriculture, particularly olive and fruit cultivation."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Zgharta lakói hagyományosan a közeli Ehdenbe vándorolnak a nyári meleg elől.",
+          "Észak-Libanon egyik legfontosabb maronita keresztény központja.",
+          "A város szülötte Suleiman Frangieh, Libanon egykori elnöke.",
+          "Gasztronómiai különlegessége a híres zghartai kibbeh.",
+          "A régió gazdasága nagymértékben az olíva- és gyümölcstermesztésre támaszkodik."
+        ],
+        "ro": [
+          "Locuitorii migrează tradițional vara în Ehden pentru a scăpa de căldură.",
+          "Este un centru crucial pentru creștinii maroniți din nordul Libanului.",
+          "Orașul este locul de naștere al fostului președinte Suleiman Frangieh.",
+          "O specialitate culinară remarcabilă a orașului este faimosul kibbeh de Zgharta.",
+          "Economia regională depinde masiv de cultivarea măslinilor și a fructelor."
+        ],
+        "en": [
+          "Residents traditionally migrate to nearby Ehden to escape the summer heat.",
+          "It is a crucial center for Maronite Christians in northern Lebanon.",
+          "The town is the birthplace of former Lebanese President Suleiman Frangieh.",
+          "A notable culinary specialty of the city is the famous Zghartawi kibbeh.",
+          "The regional economy relies heavily on olive and fruit cultivation."
+        ]
+      }
+    },
+    {
+      "id": "amioun-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Amioun egy jelentős történelmi település Észak-Libanonban, a Koura-körzet közigazgatási központja. A város egy meredek, barlangokkal tarkított sziklafal (az úgynevezett Amioun-szikla) tetején és lábánál épült fel. Ezek a barlangok egykor az ókori ember menedékéül szolgáltak, ma pedig a város egyik legismertebb látványosságát jelentik. Amioun lakossága túlnyomórészt görög ortodox keresztény, így a város Libanon egyik legnagyobb ortodox közösségének ad otthont. A településen több évszázados, ősi templom található, köztük a bizánci stílusú Szent Fokasz (Mar Phocas) és a 12. században keresztesek által épített Szent György (Mar Jeryes) templom. A várost hatalmas olajfaligetek veszik körül, a Koura-völgy Libanon legfontosabb olívaolaj-termelő régiója. Az Amiounban préselt extra szűz olívaolaj minősége az országban és nemzetközi szinten is elismert. A csendes vidéki környezet és a történelmi építészet sok látogatót vonz.",
+        "ro": "Amioun este o așezare istorică importantă din nordul Libanului, funcționând ca centru administrativ al districtului Koura. Orașul a fost construit pe și la baza unei faleze stâncoase abrupte, presărată cu peșteri, cunoscută sub numele de Stânca Amioun. Aceste peșteri au servit cândva ca adăpost pentru oamenii din antichitate și reprezintă astăzi una dintre cele mai mari atracții ale orașului. Populația din Amioun este predominant creștină greco-ortodoxă, orașul găzduind una dintre cele mai mari comunități ortodoxe din Liban. Așezarea se mândrește cu mai multe biserici vechi de secole, inclusiv biserica Sfântul Foca (Mar Phocas) în stil bizantin și biserica Sfântul Gheorghe (Mar Jeryes), construită de cruciați în secolul al XII-lea. Orașul este înconjurat de plantații vaste de măslini, Valea Koura fiind principala regiune producătoare de ulei de măsline din Liban. Uleiul extravirgin produs aici este recunoscut pentru calitatea sa.",
+        "en": "Amioun is a significant historical settlement in northern Lebanon, functioning as the administrative capital of the Koura District. The city was built upon and at the base of a steep cliff face dotted with caves, known as the Amioun Cliff. These caves once served as shelters for ancient peoples and remain one of the town's most distinctive attractions today. The population of Amioun is predominantly Greek Orthodox Christian, making it home to one of the largest Orthodox communities in Lebanon. The settlement boasts several centuries-old churches, including the Byzantine-style Saint Phocas (Mar Phocas) and the 12th-century Crusader-built Saint George (Mar Jeryes) church. The town is surrounded by vast olive groves, with the Koura Valley recognized as Lebanon's premier olive oil-producing region. The extra virgin olive oil pressed in Amioun is highly regarded both domestically and internationally. The tranquil rural setting and historical architecture draw numerous visitors."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város az ókori ember lakhelyéül szolgáló Amioun-szikla körül épült.",
+          "A település Libanon egyik legnagyobb görög ortodox központja.",
+          "A Szent György (Mar Jeryes) templomot a keresztesek építették a 12. században.",
+          "A Koura-völgy központjaként Libanon legfőbb olívaolaj-termelője.",
+          "A sziklafal barlangjai ma a város legjellegzetesebb turisztikai látványosságai."
+        ],
+        "ro": [
+          "Orașul a fost construit în jurul Stâncii Amioun, care conține peșteri antice.",
+          "Reprezintă unul dintre cele mai mari centre greco-ortodoxe din Liban.",
+          "Biserica Sfântul Gheorghe a fost construită de cruciați în secolul al XII-lea.",
+          "Fiind centrul Văii Koura, este principalul producător de ulei de măsline.",
+          "Peșterile din peretele stâncos sunt atracțiile turistice majore ale așezării."
+        ],
+        "en": [
+          "The town is built around the Amioun Cliff, which features ancient human caves.",
+          "It serves as one of the largest Greek Orthodox centers in Lebanon.",
+          "The Saint George church was constructed by Crusaders in the 12th century.",
+          "As the capital of the Koura Valley, it is Lebanon's top olive oil producer.",
+          "The caves within the cliff face are the most recognizable tourist attractions."
+        ]
+      }
+    },
+    {
+      "id": "jezzine-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Jezzine Dél-Libanon hegyvidékén, Bejrúttól körülbelül 70 kilométerre délre található festői kisváros. A település egy 900 méter magasan fekvő sziklaszirten terül el, ahonnan lélegzetelállító kilátás nyílik a Bkassine-fenyőerdőre, amely a Földközi-tenger medencéjének legnagyobb egybefüggő fenyőerdeje. Jezzine legismertebb természeti látványossága az impozáns, mintegy 40 méter magas vízesés, amely a város szélén zúdul a mélybe. A helység nemzetközi hírnevét a hagyományos kézműves iparának, különösen az egyedi, madárcsont-nyelű és ezüst- vagy aranyberakásos evőeszközök és tőrök (Jezzine evőeszközök) készítésének köszönheti, amelyet a 18. század óta gyakorolnak. A város lakossága nagyrészt maronita és melkita keresztény, ami egyedülálló kulturális szigetté teszi a főként muszlimok lakta Dél-Libanonban. Gazdasága a kézművességen kívül a nyári turizmusra és a helyi mezőgazdaságra épül.",
+        "ro": "Jezzine este un mic oraș pitoresc situat în munții din sudul Libanului, la aproximativ 70 de kilometri sud de Beirut. Așezarea se află pe un promontoriu stâncos la o altitudine de 900 de metri, oferind o vedere spectaculoasă asupra Pădurii de Pini Bkassine, care este cea mai mare pădure continuă de pini din bazinul mediteranean. Cea mai faimoasă atracție naturală a orașului Jezzine este cascada sa impresionantă, înaltă de aproximativ 40 de metri, care se prăvălește la marginea orașului. Așezarea este renumită la nivel internațional pentru industria sa artizanală tradițională, în special pentru fabricarea tacâmurilor și pumnalelor unice cu mânere din os de pasăre, încrustate cu argint sau aur (tacâmurile Jezzine), o meserie practicată încă din secolul al XVIII-lea. Populația este majoritar formată din creștini maroniți și melkiți, creând o insulă culturală distinctă în sudul Libanului. Economia se bazează pe artizanat, turism și agricultură.",
+        "en": "Jezzine is a picturesque small town located in the mountains of southern Lebanon, approximately 70 kilometers south of Beirut. The settlement sits on a rocky promontory at an altitude of 900 meters, offering breathtaking views of the Bkassine Pine Forest, which is the largest continuous pine forest in the Mediterranean basin. The most famous natural attraction in Jezzine is its imposing waterfall, dropping roughly 40 meters into the valley at the edge of the town. The municipality gained international fame for its traditional handicrafts, particularly the creation of unique cutlery and daggers featuring handles made of bird bone inlaid with silver or gold (Jezzine cutlery), a craft practiced since the 18th century. The population is predominantly Maronite and Melkite Christian, functioning as a distinct cultural enclave within the predominantly Muslim region of southern Lebanon. Its economy is sustained by artisanal crafts, summer tourism, and local agriculture."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város egy 900 méter magasan fekvő sziklaszirten helyezkedik el.",
+          "Mellette található a Bkassine-fenyőerdő, a térség legnagyobb fenyvese.",
+          "Jezzine jelképe a 40 méter magas vízesés a város peremén.",
+          "Híres a 18. század óta készülő csontnyelű, intarziás evőeszközeiről.",
+          "Lakossága döntően keresztény, ami egyedivé teszi Dél-Libanonban."
+        ],
+        "ro": [
+          "Orașul este situat pe un promontoriu stâncos la 900 de metri altitudine.",
+          "În apropiere se află Pădurea Bkassine, cea mai mare pădure de pini din zonă.",
+          "Simbolul orașului Jezzine este cascada de 40 de metri de la marginea sa.",
+          "Este renumit pentru tacâmurile sale din os cu intarsii (din secolul XVIII).",
+          "Populația majoritar creștină îi conferă un caracter unic în sudul Libanului."
+        ],
+        "en": [
+          "The town is situated on a rocky promontory at an altitude of 900 meters.",
+          "Adjacent is the Bkassine Pine Forest, the largest pine forest in the region.",
+          "The emblem of Jezzine is the 40-meter-high waterfall at the town's edge.",
+          "It is famous for bird-bone handled, inlaid cutlery produced since the 1700s.",
+          "The predominantly Christian population makes it unique in southern Lebanon."
+        ]
+      }
+    },
+    {
+      "id": "hermel-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Hermel a Bekaa-völgy legészakibb részén, az Orontész (Asi) folyó völgyében fekszik, mintegy 140 kilométerre Bejrúttól, közel a szír határhoz. A város éghajlata szárazabb, mint Libanon többi részéé, és a környező tájat félsivatagos területek és a Libanon-ellenes hegység zord vonulatai uralják. Hermel az Orontész folyó sebes vizének köszönhetően a vadvízi evezés (rafting) központja Libanonban, amely számos kalandvágyó turistát vonz tavasztól őszig. A várostól nem messze áll a Kamouh el Hermel, egy rejtélyes, 27 méter magas ókori piramis alakú kőemlék, amelyet vadászjelenetek domborművei díszítenek, és valószínűleg egy i. e. 2. századi uralkodó síremléke volt. Hermel lakossága szinte teljes egészében síita muszlim, a város társadalmi szerkezetét máig erősen meghatározzák a kiterjedt kláni és törzsi kötelékek. A gazdaság fő pillérei az állattenyésztés, a pisztrángtenyésztés és az öntözéses mezőgazdaság.",
+        "ro": "Hermel este situat în partea extrem nordică a Văii Bekaa, în valea râului Orontes (Asi), la aproximativ 140 de kilometri de Beirut, aproape de granița cu Siria. Clima orașului este mai aridă decât în restul Libanului, iar peisajul înconjurător este dominat de zone semideșertice și de crestele accidentate ale Munților Anti-Liban. Datorită apelor repezi ale râului Orontes, Hermel este principalul centru de rafting din Liban, atrăgând numeroși iubitori de aventură din primăvară până în toamnă. Nu departe de oraș se află Kamouh el Hermel, un monument antic misterios în formă de piramidă, înalt de 27 de metri, decorat cu reliefuri cu scene de vânătoare; se crede că a fost mormântul unui monarh din secolul al II-lea î.Hr. Populația din Hermel este aproape în întregime musulmană șiită, iar structura socială este încă puternic influențată de legăturile extinse de clan. Economia este susținută de creșterea animalelor, creșterea păstrăvilor și agricultura.",
+        "en": "Hermel is located in the northernmost part of the Beqaa Valley, within the Orontes (Asi) River valley, approximately 140 kilometers from Beirut near the Syrian border. The city's climate is considerably more arid than the rest of Lebanon, with the surrounding landscape dominated by semi-desert plains and the rugged Anti-Lebanon Mountains. Thanks to the fast-flowing waters of the Orontes River, Hermel functions as Lebanon's primary center for whitewater rafting, attracting numerous adventure tourists from spring through autumn. A short distance from the city stands Kamouh el Hermel, a mysterious 27-meter-tall ancient pyramid-shaped stone monument adorned with hunting reliefs, believed to be the tomb of a 2nd-century BC monarch. The population of Hermel is almost entirely Shia Muslim, and the social structure of the city is still heavily defined by extensive clan and tribal affiliations. The local economy is largely based on livestock rearing, trout farming, and agriculture."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Hermel a Bekaa-völgy északi végén, az Orontész folyó mentén fekszik.",
+          "A város az ország legfontosabb vadvízi evezős (rafting) központja.",
+          "A közelben található a Kamouh el Hermel, egy ókori piramis alakú emlékmű.",
+          "Lakossága döntően síita muszlim, erős kláni és törzsi hagyományokkal.",
+          "Az Orontész vizét felhasználva jelentős a pisztrángtenyésztés a térségben."
+        ],
+        "ro": [
+          "Hermel se află în nordul extrem al Văii Bekaa, de-a lungul râului Orontes.",
+          "Orașul este cel mai important centru de rafting pe ape repezi din Liban.",
+          "În apropiere se află Kamouh el Hermel, un monument antic sub formă de piramidă.",
+          "Populația este formată din șiiți, cu tradiții tribale și de clan puternice.",
+          "Piscicultura de păstrăv este semnificativă, folosind apele râului Orontes."
+        ],
+        "en": [
+          "Hermel lies at the northern end of the Beqaa Valley along the Orontes River.",
+          "The city is Lebanon's most prominent destination for whitewater rafting.",
+          "Nearby stands Kamouh el Hermel, an ancient pyramid-shaped stone monument.",
+          "Its population is mainly Shia Muslim, characterized by strong clan traditions.",
+          "Trout farming is a significant industry, utilizing the waters of the Orontes."
+        ]
+      }
+    },
+    {
+      "id": "bhamdoun-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bhamdoun egy népszerű hegyvidéki üdülőváros a Libanon-hegységben, Bejrúttól alig 23 kilométerre keletre, a Damaszkuszba vezető főútvonal mentén. A város több mint 1000 méteres tengerszint feletti magasságban fekszik, és kiváló klímája miatt a 20. század közepe óta a bejrúti elit és az öböl-menti arab turisták kedvelt nyári célpontja. Történelmileg Bhamdoun volt az egyik állomása a Bejrút-Damaszkusz kisvasútnak, amely nagyban hozzájárult a település korai fejlődéséhez. A libanoni polgárháború során a város súlyos károkat szenvedett, azonban az ezredforduló után nagyszabású újjáépítési programok indultak. A modern Bhamdoun luxusszállodákkal, pezsgő éjszakai élettel és tradicionális éttermekkel várja a látogatókat nyaranta. A helyi közösség főként görög ortodox keresztényekből épül fel. A régió mezőgazdasága kiemelkedően híres a szőlőtermesztésről és az abból készült kiváló borokról.",
+        "ro": "Bhamdoun este o stațiune montană populară din Munții Liban, situată la doar 23 de kilometri est de Beirut, de-a lungul autostrăzii principale către Damasc. Orașul este situat la o altitudine de peste 1.000 de metri deasupra nivelului mării și, datorită climei sale excelente, a fost o destinație de vară preferată pentru elita din Beirut și turiștii arabi din Golf încă de la mijlocul secolului al XX-lea. Din punct de vedere istoric, Bhamdoun a fost una dintre stațiile căii ferate Beirut-Damasc, ceea ce a contribuit la dezvoltarea timpurie a așezării. În timpul războiului civil libanez, orașul a suferit daune masive, dar programe de reconstrucție au fost lansate după anul 2000. Astăzi, Bhamdoun găzduiește hoteluri de lux, viață de noapte activă și restaurante tradiționale. Comunitatea locală este alcătuită în principal din creștini greco-ortodocși. Agricultura regiunii este renumită pentru viile sale și vinurile excepționale produse din ele.",
+        "en": "Bhamdoun is a highly popular mountain resort town in the Mount Lebanon range, located just 23 kilometers east of Beirut along the main highway to Damascus. Perched at an elevation exceeding 1,000 meters above sea level, its excellent summer climate has made it a favored retreat for Beirut's elite and Arab tourists from the Gulf since the mid-20th century. Historically, Bhamdoun served as a key station on the Beirut-Damascus railway, a factor that significantly drove its early development. The town sustained severe damage during the Lebanese Civil War, though extensive reconstruction projects have revitalized the area since the early 2000s. The modern iteration of Bhamdoun features luxury hotels, vibrant nightlife, and numerous traditional dining venues. The permanent local demographic is predominantly Greek Orthodox Christian. The surrounding agricultural lands are exceptionally well-known for their vineyards and the quality wines produced from them."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bhamdoun több mint 1000 méter magasan fekszik a Bejrút-Damaszkusz főút mentén.",
+          "A 20. század közepe óta az öböl-menti turisták kedvelt nyári üdülőhelye.",
+          "A település egykor a Bejrút-Damaszkusz történelmi kisvasút egyik állomása volt.",
+          "A polgárháború utáni újjáépítés során luxusszállodák sora épült itt.",
+          "A várost körülvevő területek híresek szőlőültetvényeikről és boraikról."
+        ],
+        "ro": [
+          "Se află la peste 1.000 de metri altitudine pe autostrada Beirut-Damasc.",
+          "Este o destinație de vacanță de vară pentru turiștii din Golf (secolul XX).",
+          "Odinioară a funcționat ca stație a căii ferate istorice Beirut-Damasc.",
+          "Reconstrucția post-război a adus numeroase hoteluri de lux în zonă.",
+          "Terenurile din jurul orașului sunt faimoase pentru podgorii și vinuri."
+        ],
+        "en": [
+          "It sits at over 1,000 meters elevation along the main Beirut-Damascus highway.",
+          "It has been a top summer resort for Gulf tourists since the mid-20th century.",
+          "The town historically served as a station on the Beirut-Damascus railway.",
+          "Post-civil war reconstruction efforts introduced numerous luxury hotels.",
+          "The agricultural lands surrounding the town are famous for their vineyards."
+        ]
+      }
+    },
+    {
+      "id": "halba-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Halba Libanon legészakibb, Akkar nevű kormányzóságának adminisztratív és gazdasági központja. A város a tengerparti síkság és a Libanon-hegység találkozásánál fekszik, stratégiai kereskedelmi útvonalakon, amelyek Libanont kötik össze Szíriával. Történelmileg egy csendes mezőgazdasági falu volt, azonban az elmúlt évtizedekben gyors urbanizáción ment keresztül, ami a kormányzósági székhely státuszának köszönhető. A város közelében egy 11. századi keresztes vár, a Halba-citadella (Qalaat Halba) romjai találhatók, amely a térség védelmét szolgálta a középkorban. A lakosság vallásilag rendkívül sokszínű, szunnita muszlimok és görög ortodox keresztények élnek itt békésen egymás mellett. A gazdaság motorja a közigazgatás, a helyi kiskereskedelem és az Akkar-síkság kiterjedt mezőgazdasági termelése, ahol főként zöldséget, citrusféléket és burgonyát termesztenek.",
+        "ro": "Halba este centrul administrativ și economic al celui mai nordic guvernorat al Libanului, Akkar. Orașul este situat la intersecția câmpiei de coastă cu Munții Liban, pe rute comerciale strategice care leagă Libanul de Siria. Din punct de vedere istoric, a fost un sat agricol liniștit, dar a cunoscut o urbanizare rapidă în ultimele decenii, determinată de statutul său de capitală de guvernorat. Lângă oraș se găsesc ruinele unei fortărețe cruciate din secolul al XI-lea, Citadela Halba (Qalaat Halba), care proteja regiunea în Evul Mediu. Populația are o diversitate religioasă remarcabilă, musulmanii sunniți și creștinii greco-ortodocși locuind alături în mod pașnic. Motorul economiei îl reprezintă administrația publică, comerțul cu amănuntul și producția agricolă extinsă de pe Câmpia Akkar, unde se cultivă predominant legume, citrice și cartofi.",
+        "en": "Halba serves as the administrative and economic capital of Akkar Governorate, the northernmost province in Lebanon. The city is strategically positioned at the intersection of the coastal plain and the foothills of the Mount Lebanon range, sitting on important trade routes connecting Lebanon with Syria. Historically functioning as a quiet agricultural village, Halba has undergone rapid urbanization over the last few decades, catalyzed by its designation as a governorate capital. Near the city center lie the ruins of an 11th-century Crusader castle, the Halba Citadel (Qalaat Halba), which was built to defend the region during the Middle Ages. The local population is religiously diverse, with Sunni Muslims and Greek Orthodox Christians coexisting peacefully. The economy is primarily driven by public administration, retail commerce, and the extensive agricultural output of the Akkar Plain, focused on vegetables, citrus fruits, and potatoes."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Halba az északi Akkar-kormányzóság adminisztratív székhelye.",
+          "A település a partvidéki síkság és a hegyvidék találkozásánál épült.",
+          "A város mellett egy 11. századi keresztes vár (Halba-citadella) romjai állnak.",
+          "Szunnita muszlimok és görög ortodox keresztények vegyesen lakják.",
+          "Gazdasága szorosan kapcsolódik az Akkar-síkság mezőgazdaságához."
+        ],
+        "ro": [
+          "Halba este capitala administrativă a guvernoratului nordic Akkar.",
+          "Orașul este construit la intersecția câmpiei de coastă cu zona montană.",
+          "Lângă oraș se află ruinele unei cetăți cruciate din secolul al XI-lea.",
+          "Populația este un amestec de musulmani sunniți și creștini greco-ortodocși.",
+          "Economia sa este strâns legată de agricultura din Câmpia Akkar."
+        ],
+        "en": [
+          "Halba is the administrative capital of the northern Akkar Governorate.",
+          "The city is built at the intersection of the coastal plain and the mountains.",
+          "Ruins of an 11th-century Crusader castle (Halba Citadel) lie near the city.",
+          "The demographic is a diverse mix of Sunni Muslims and Greek Orthodox Christians.",
+          "Its economy is intrinsically tied to the agricultural output of the Akkar Plain."
+        ]
+      }
+    },
+    {
+      "id": "rashaya-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Rashaya egy történelmi kisváros a Hermon-hegy (Jabal el-Sheikh) nyugati lejtőin, a Bekaa-völgy déli peremén. A település macskaköves, festői óvárosa megőrizte a hagyományos, vörös tetős kőházak 19. századi hangulatát, így a libanoni kulturális örökség egyik gyöngyszeme. Rashaya kiemelkedő szerepet játszott az ország történetében: a város 18. századi citadellájában (Függetlenség Vára) tartották fogva a francia mandátum hatóságai a libanoni nemzeti vezetőket 1943-ban. Kiszabadulásuk napja, november 22-e lett Libanon nemzeti függetlenségének napja. A lakosság többsége drúz, jelentős keresztény (görög ortodox) kisebbséggel. Rashaya a környék ezüstművességének is a központja volt, ahol finom filigrán technikával dolgoztak. A hegyi levegő és a természet közelsége miatt népszerű kiindulópontja a Hermon-hegyre induló magashegyi túráknak és zarándoklatoknak.",
+        "ro": "Rashaya este un mic oraș istoric situat pe pantele vestice ale Muntelui Hermon (Jabal el-Sheikh), la marginea sudică a Văii Bekaa. Orașul vechi pitoresc, cu străzi pietruite, și-a păstrat atmosfera de secol XIX, cu case tradiționale din piatră și acoperișuri roșii, fiind o bijuterie a patrimoniului cultural libanez. Rashaya a jucat un rol definitoriu în istoria țării: în citadela sa din secolul al XVIII-lea (Castelul Independenței), autoritățile mandatare franceze i-au întemnițat pe liderii naționali libanezi în 1943. Ziua eliberării lor, 22 noiembrie, a devenit Ziua Independenței Naționale a Libanului. Populația este majoritar druză, cu o minoritate creștină (greco-ortodoxă) semnificativă. Rashaya a fost, de asemenea, un centru al argintăriei locale, unde meșterii foloseau o tehnică fină de filigran. Datorită aerului de munte și a proximității naturii, este un punct de plecare popular pentru drumeții pe Muntele Hermon.",
+        "en": "Rashaya is a historic small town perched on the western slopes of Mount Hermon (Jabal el-Sheikh) at the southern edge of the Beqaa Valley. The picturesque, cobblestone old town has retained its 19th-century atmosphere, featuring traditional stone houses with red-tiled roofs, making it a jewel of Lebanese cultural heritage. Rashaya played a pivotal role in the nation's history: in 1943, French mandate authorities imprisoned Lebanese national leaders within its 18th-century citadel (the Citadel of Independence). The day of their release, November 22, subsequently became Lebanon's National Independence Day. The demographic is predominantly Druze, complemented by a notable Greek Orthodox Christian minority. Rashaya was historically a prominent center for local silversmithing, known for delicate filigree work. Thanks to its alpine air and natural surroundings, it is a favored starting point for high-altitude treks up Mount Hermon."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város a Hermon-hegy nyugati lejtőin, macskaköves óvárossal büszkélkedik.",
+          "A Rashaya-citadellában raboskodtak a libanoni függetlenség vezetői 1943-ban.",
+          "A történelmi események miatt a várat a Függetlenség Várának is nevezik.",
+          "Társadalmát túlnyomórészt a drúz vallási közösség alkotja.",
+          "Történelmileg híres volt a helyi finom ezüstművességről és filigránokról."
+        ],
+        "ro": [
+          "Orașul de pe Muntele Hermon are un centru istoric cu străzi pietruite.",
+          "Liderii independenței au fost întemnițați în citadela Rashaya în 1943.",
+          "Datorită evenimentelor din 1943, fortăreața este numită Castelul Independenței.",
+          "Populația este alcătuită preponderent din comunitatea religioasă druză.",
+          "Din punct de vedere istoric, a fost renumit pentru filigranul din argint."
+        ],
+        "en": [
+          "The town on Mount Hermon boasts a cobblestone historic center.",
+          "Lebanon's independence leaders were imprisoned in its citadel in 1943.",
+          "Because of the events of 1943, the fortress is named the Citadel of Independence.",
+          "The society is predominantly composed of the Druze religious community.",
+          "Historically, the town was famous for its fine silver filigree craftsmanship."
+        ]
+      }
+    },
+    {
+      "id": "hasbaya-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Hasbaya egy zöldellő hegyvidéki város Dél-Libanonban, a Hermon-hegy lábánál, a Hasbani-folyó (amely a Jordán-folyó egyik fő forrása) völgyében. A település ősi múltra tekint vissza, és a drúz közösség egyik legfontosabb szellemi központja; a város szélén található a Khalwat el-Biyada, amely a drúz vallás legszentebb imaháza és teológiai iskolája. Hasbaya központját a Chehab-emírek masszív, erődítményszerű palotája uralja, amelyet a keresztesek alapjaira építettek, és több mint nyolc évszázadon keresztül egyetlen család birtokolta. A város építészetét a szűk utcák, boltívek és ősi mészkőházak jellemzik. A környék mikroklímája és a folyó bőséges vize miatt Hasbaya mezőgazdasága kiemelkedően gazdag, hatalmas olajfaligetekkel, szőlőskeretekkel és gyümölcsösökkel rendelkezik, az itt sajtolt olívaolajat Libanon legjobbjai között tartják számon.",
+        "ro": "Hasbaya este un oraș de munte înconjurat de verdeață în sudul Libanului, situat la poalele Muntelui Hermon, în valea râului Hasbani (unul dintre izvoarele principale ale râului Iordan). Așezarea are un trecut antic și este unul dintre cele mai importante centre spirituale ale comunității druze; la marginea orașului se află Khalwat el-Biyada, cel mai sfânt lăcaș de cult și școală teologică druză. Centrul orașului Hasbaya este dominat de palatul masiv și fortificat al emirilor Chehab, construit pe fundații cruciate și deținut de aceeași familie timp de peste opt secole. Arhitectura orașului este definită de străzi înguste, arcade și case antice din calcar. Datorită microclimatului și a apei abundente a râului, agricultura din Hasbaya este extrem de bogată, având plantații vaste de măslini și livezi, uleiul de măsline presat aici fiind considerat unul dintre cele mai bune din Liban.",
+        "en": "Hasbaya is a verdant mountainous town in southern Lebanon, located at the base of Mount Hermon within the valley of the Hasbani River (a primary tributary of the Jordan River). The settlement has ancient roots and functions as one of the most critical spiritual hubs for the Druze community; on the outskirts of the town lies Khalwat el-Biyada, the holiest place of worship and theological school in the Druze faith. The center of Hasbaya is visually dominated by the massive, fortress-like palace of the Chehab emirs, built upon Crusader foundations and held by a single family for over eight centuries. The town's architecture features narrow alleys, stone arches, and ancient limestone houses. Aided by a favorable microclimate and the abundant waters of the river, Hasbaya's agricultural sector is remarkably productive, featuring sprawling olive groves and orchards; the local olive oil is considered among the finest in Lebanon."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Hasbaya a Hasbani-folyó völgyében fekszik, a Hermon-hegy lábánál.",
+          "Itt található a Khalwat el-Biyada, a drúz vallás legszentebb imaháza.",
+          "A városközpontot a Chehab-emírek ősi, erődítményszerű palotája uralja.",
+          "A palota keresztes alapokra épült, és 800 évig egy család birtokolta.",
+          "A térség Libanon egyik legjobb minőségű olívaolaját állítja elő."
+        ],
+        "ro": [
+          "Hasbaya este situat în valea râului Hasbani, la poalele Muntelui Hermon.",
+          "Găzduiește Khalwat el-Biyada, cel mai sfânt sanctuar al religiei druze.",
+          "Centrul orașului este dominat de palatul fortificat antic al emirilor Chehab.",
+          "Palatul pe fundații cruciate a fost deținut de o singură familie timp de 800 de ani.",
+          "Regiunea produce unele dintre cele mai de calitate uleiuri de măsline din Liban."
+        ],
+        "en": [
+          "Hasbaya is situated in the Hasbani River valley at the foot of Mount Hermon.",
+          "It is home to Khalwat el-Biyada, the most sacred sanctuary of the Druze faith.",
+          "The town center is dominated by the fortified palace of the Chehab emirs.",
+          "The palace, built on Crusader foundations, was held by one family for 800 years.",
+          "The surrounding region produces some of Lebanon's highest quality olive oil."
+        ]
+      }
+    }
+  ]
+}

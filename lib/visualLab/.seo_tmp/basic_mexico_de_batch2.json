@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "Ein riesiges Tropenwaldreservat im Bundesstaat Campeche, das bedeutende Maya-Ruinen beherbergt.",
+      "facts": ["UNESCO-Weltkulturerbe", "Zentrum der Maya-Kultur", "Lebensraum für Jaguare"]
+    },
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "Einer der letzten großen Regenwälder Nordamerikas, gelegen im Grenzgebiet zu Guatemala.",
+      "facts": ["Enorme Artenvielfalt", "Heimat der Lakandonen-Maya", "Bedeutende Flusssysteme"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "Ein riesiges Biosphärenreservat auf der Halbinsel Baja California, berühmt für seine Wüstenlandschaften.",
+      "facts": ["UNESCO-Welterbe", "Lagunen zur Walbeobachtung", "Über 2,5 Millionen Hektar"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "Ein Küstenreservat in Yucatán, das für seine riesigen Kolonien rosa Flamingos weltberühmt ist.",
+      "facts": ["Rosa Flamingos im Winter", "Bootstouren durch Mangroven", "Mündung des Rio Esperanza"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "Ein ökologisches Projekt an der Küste von Oaxaca, das sich dem Schutz von Schildkröten und Krokodilen widmet.",
+      "facts": ["Gemeindebasiertes Ökoprojekt", "Lagune mit Krokodilen", "Nistplatz für Meeresschildkröten"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "Ein Biosphärenreservat in Veracruz mit üppigen Regenwäldern, Wasserfällen und Vulkanlandschaften.",
+      "facts": ["Nördlichster Regenwald Amerikas", "Über 500 Vogelarten", "Sitz der Olmeken-Kultur"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "Ein ökologisch vielfältiges Gebirge in Querétaro mit tiefen Schluchten und dichten Wäldern.",
+      "facts": ["Fünf Franziskanermissionen", "Enorme Höhenunterschiede", "Schutzgebiet für den Puma"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Eine entspannte, autofreie Insel im Norden Yucatáns, bekannt für ihre Sandstraßen und Flamingos.",
+      "facts": ["Walhaie im Sommer", "Türkisfarbenes Wasser", "Teil des Yum Balam Reservats"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Eine malerische Insel vor Cancún, die für ihre Traumstrände und das kristallklare Wasser geschätzt wird.",
+      "facts": ["Tempel der Göttin Ixchel", "Bekannter Strand Playa Norte", "Ideal zum Schnorcheln"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "Die berühmteste Insel im Pátzcuaro-See, bekannt für ihre Fischer und die riesige Morelos-Statue.",
+      "facts": ["Zentrum des Tags der Toten", "Schmetterlingsfischer-Tradition", "Gigantische Statue auf der Spitze"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "Eine unbewohnte, felsige Insel im Golf von Kalifornien, ein Paradies für Taucher und Kajakfahrer.",
+      "facts": ["UNESCO-Weltnaturerbe", "Kolonie von Seelöwen", "Kontrast aus Wüste und Meer"]
+    },
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Die größte Insel Mexikos, gelegen im Golf von Kalifornien und heiliges Land der Seri-Indianer.",
+      "facts": ["Größte mexikanische Insel", "Keine dauerhafte Besiedlung", "Eigentum der Comcaac-Nation"]
+    }
+  ]
+}

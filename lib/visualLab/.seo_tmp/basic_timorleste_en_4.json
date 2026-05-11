@@ -1,0 +1,96 @@
+{
+  "lang": "en",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteNatureV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jardim-de-lecidere-life-v2",
+      "description": "Jardim de Lecidere is a popular public park in Dili, providing a green space for locals to relax along the coastal promenade.",
+      "facts": ["Public park in Dili", "Coastal green space", "Local recreation area"]
+    },
+    {
+      "id": "ermera-coffee-plantations-life-v2",
+      "description": "The coffee plantations in Ermera represent the heart of Timor-Leste’s traditional organic coffee production industry.",
+      "facts": ["Organic coffee heartland", "Traditional farming methods", "Highland plantation area"]
+    },
+    {
+      "id": "cristo-rei-macaque-habitat-life-v2",
+      "description": "The area around the Cristo Rei statue features natural habitats for local macaque populations, visible among the coastal hills.",
+      "facts": ["Local macaque habitat", "Near Cristo Rei statue", "Coastal hillside terrain"]
+    },
+    {
+      "id": "maubisse-farms-life-v2",
+      "description": "Maubisse is known for its high-altitude farms, which produce fresh vegetables and fruits in the cool mountain climate.",
+      "facts": ["Cool highland climate", "Fresh vegetable production", "High-altitude farming hub"]
+    },
+    {
+      "id": "jardim-borja-da-costa-life-v2",
+      "description": "This garden is a tranquil urban spot in the capital, offering a quiet environment amidst the bustling city center.",
+      "facts": ["Tranquil urban garden", "Dili city center", "Local green space"]
+    },
+    {
+      "id": "com-coastal-reserve-life-v2",
+      "description": "The coastal reserve near Com offers protection to diverse marine and shore life, making it an important area for biodiversity.",
+      "facts": ["Coastal protected reserve", "Marine biodiversity zone", "Eastern coastal region"]
+    },
+    {
+      "id": "oecusse-sandalwood-life-v2",
+      "description": "The Oecusse enclave is historically renowned for its sandalwood production, which has influenced regional trade for centuries.",
+      "facts": ["Historical sandalwood hub", "Oecusse enclave region", "Traditional trade product"]
+    },
+    {
+      "id": "lospalos-livestock-life-v2",
+      "description": "The rolling hills around Lospalos support traditional livestock farming, a vital part of the local eastern rural economy.",
+      "facts": ["Livestock farming area", "Eastern rural economy", "Rolling hill landscape"]
+    },
+    {
+      "id": "viqueque-teak-forests-life-v2",
+      "description": "Viqueque municipality contains areas of teak forests that are managed to sustain local wood-based resources and biodiversity.",
+      "facts": ["Teak forest area", "Viqueque district region", "Resource management site"]
+    },
+    {
+      "id": "dili-promenade-park-life-v2",
+      "description": "The Dili promenade is a central coastal walkway and park area, serving as a primary social gathering point for the capital city.",
+      "facts": ["Coastal walking area", "Dili city social hub", "Primary urban promenade"]
+    },
+    {
+      "id": "same-cocoa-farms-life-v2",
+      "description": "Same features traditional cocoa-producing smallholdings that contribute to the agricultural diversity of the Manufahi region.",
+      "facts": ["Cocoa producing farms", "Manufahi agricultural zone", "Local farming tradition"]
+    },
+    {
+      "id": "fuiloro-plateau-farms-life-v2",
+      "description": "The Fuiloro Plateau is an agricultural region known for its fertile soils and diverse farming activities in the east.",
+      "facts": ["Eastern agricultural zone", "Fertile plateau soil", "Diverse farming region"]
+    },
+    {
+      "id": "mount-matebian-nature-v2",
+      "description": "Mount Matebian is a prominent peak and sacred mountain in the eastern highlands, known for its challenging trekking routes.",
+      "facts": ["Sacred mountain peak", "Eastern highland range", "Challenging trekking site"]
+    },
+    {
+      "id": "lake-seloi-nature-v2",
+      "description": "Lake Seloi is a seasonal wetland area in the central highlands, providing an important habitat for local bird species.",
+      "facts": ["Central highland wetland", "Seasonal water body", "Local bird habitat"]
+    },
+    {
+      "id": "mount-mundo-perdido-nature-v2",
+      "description": "Mount Mundo Perdido is famous for its unique karst topography and rich variety of endemic flora found in the high forests.",
+      "facts": ["Karst topography site", "Endemic forest flora", "Central highland location"]
+    },
+    {
+      "id": "com-coast-relief-v2",
+      "description": "The coast near Com is defined by its dramatic cliffs and scenic beaches that characterize the eastern shoreline.",
+      "facts": ["Dramatic cliff shoreline", "Scenic eastern beaches", "Geological coastal feature"]
+    },
+    {
+      "id": "betano-coast-relief-v2",
+      "description": "The Betano coast on the southern edge features wide, rugged beaches and strong surf, influenced by the southern seas.",
+      "facts": ["Southern edge coastline", "Rugged beach terrain", "Strong southern surf"]
+    }
+  ]
+}

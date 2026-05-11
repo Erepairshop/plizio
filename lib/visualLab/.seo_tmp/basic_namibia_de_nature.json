@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-fish-river-canyon-nature-v2",
+      "description": "Der Fish River Canyon ist einer der größten Canyons weltweit. Die spektakuläre Schlucht bietet einzigartige Wandererlebnisse in einer trockenen Wüstenlandschaft.",
+      "facts": ["Größter Canyon Afrikas", "Wanderparadies", "Felsige Schlucht", "Namib-Wüste"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "Das Waterberg-Plateau ist ein markanter Tafelberg im Norden Namibias. Die Region bietet geschützte Lebensräume für seltene Tierarten wie Breitmaulnashörner.",
+      "facts": ["Tafelberg", "Naturschutzgebiet", "Seltene Tierarten", "Plateau"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "Der Swakop-Fluss durchfließt den Westen Namibias. Er ist eine Lebensader in einer trockenen Region und prägt die Landschaft auf dem Weg zum Atlantik.",
+      "facts": ["Flusslandschaft", "West-Namibia", "Lebensader", "Zum Atlantik"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "Der Hoarusib-Fluss ist ein Trockenfluss, der saisonal Wasser führt. Er ist für seine Wüstenelefanten und die einzigartige Flora bekannt.",
+      "facts": ["Trockenfluss", "Wüstenelefanten", "Einzigartige Flora", "Saisonal"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "Der Hoanib ist ein wichtiger Trockenfluss in der Namib-Wüste. Er bietet Lebensräume für an das Wüstenleben angepasste Wildtiere.",
+      "facts": ["Namib-Wüste", "Trockenfluss", "Wildtiere", "Wüstenleben"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "Das Ugab-Flusstal beeindruckt mit landschaftlicher Vielfalt. Es ist Lebensraum für seltene Tierarten und ein Ziel für Naturfotografen.",
+      "facts": ["Flusstal", "Landschaft", "Seltene Arten", "Fotografie"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "Der Fish River ist der längste Fluss Namibias und formt den beeindruckenden Canyon. Sein Verlauf ist in der trockenen Landschaft eine geologische Besonderheit.",
+      "facts": ["Längster Fluss Namibias", "Geologische Formation", "Trockene Landschaft", "Canyon-Bildner"]
+    },
+    {
+      "id": "na-hardap-dam-nature-v2",
+      "description": "Der Hardap-Damm ist das größte Stauseeprojekt Namibias. Er ist ein wichtiges Schutzgebiet für Wasservögel und bietet Erholungsmöglichkeiten.",
+      "facts": ["Größter Stausee", "Wasservogelschutz", "Erholungsgebiet", "Namibia"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Der Otjikoto-See ist ein kleiner Karstsee im Norden Namibias. Er ist von Mythen umgeben und ein bekanntes Tauchziel für erfahrene Taucher.",
+      "facts": ["Karstsee", "Nord-Namibia", "Tauchziel", "Mystisch"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "Der Guinas-See ist ein wunderschöner, tiefblauer Karstsee. Er liegt verborgen in einer Kalksteinlandschaft und gilt als Naturdenkmal.",
+      "facts": ["Karstsee", "Naturdenkmal", "Tiefblau", "Kalksteinlandschaft"]
+    },
+    {
+      "id": "brandberg-mountain-relief-v2",
+      "description": "Der Brandberg ist das höchste Gebirge Namibias. Er ist berühmt für seine uralten Felsmalereien, darunter die 'Weiße Dame'.",
+      "facts": ["Höchster Berg", "Felsmalereien", "Weiße Dame", "Relief"]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Das Erongo-Gebirge ist ein vulkanisches Massiv. Seine zerklüftete Landschaft bietet atemberaubende Ausblicke und faszinierende Felsformationen.",
+      "facts": ["Vulkanisches Massiv", "Zerklüftet", "Felsformationen", "Namibia"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "Das Waterberg-Plateau ist eine imposante geologische Erhebung. Es trennt die Kalahari-Wüste von den fruchtbaren Ebenen Zentralnamibias.",
+      "facts": ["Tafelberg-Plateau", "Geologische Erhebung", "Kalahari-Grenze", "Zentralnamibia"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "Der Tsau-Khaeb-Nationalpark umfasst eine weite Wüstenlandschaft. Die Region ist reich an endemischen Sukkulenten und geologischen Schätzen.",
+      "facts": ["Nationalpark", "Wüstenlandschaft", "Endemische Flora", "Geologie"]
+    },
+    {
+      "id": "tiras-mountains-relief-v2",
+      "description": "Die Tiras-Berge liegen am Rande der Namib-Wüste. Das zerklüftete Bergland ist ein Paradies für Naturliebhaber und Wanderer.",
+      "facts": ["Rand der Namib", "Zerklüftet", "Wanderregion", "Natur"]
+    }
+  ]
+}

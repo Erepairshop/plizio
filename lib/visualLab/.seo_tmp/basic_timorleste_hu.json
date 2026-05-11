@@ -1,0 +1,83 @@
+{
+  "lang": "hu",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteNatureV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lospalos-cities-v2",
+      "description": "Kelet-Timor keleti részének központja, a Lautém kerület székhelye. Fontos kereskedelmi és közigazgatási csomópont a régióban.",
+      "facts": ["Lautém kerület székhelye", "Keleti országrész központja", "Főleg mezőgazdasági terület"]
+    },
+    {
+      "id": "viqueque-cities-v2",
+      "description": "A hasonló nevű kerület székhelye az ország déli partvidékén. A város a régió fontos gazdasági és kulturális központja.",
+      "facts": ["Viqueque kerület központja", "Déli parti elhelyezkedés", "Hagyományos kultúra"]
+    },
+    {
+      "id": "same-cities-v2",
+      "description": "Manufahi kerület adminisztratív központja a sziget belsejében. A város hegyvidéki környezete meghatározza a mindennapi életet.",
+      "facts": ["Manufahi kerület székhelye", "Hegyvidéki környezet", "Adminisztratív csomópont"]
+    },
+    {
+      "id": "aileu-cities-v2",
+      "description": "A fővárostól délre, a hegyekben található Aileu kerület központja. Kedvező klímája miatt a mezőgazdaság egyik meghatározó színtere.",
+      "facts": ["Aileu kerület központja", "Hűvös hegyvidéki klíma", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "gleno-cities-v2",
+      "description": "Ermera kerület közigazgatási központja, amely a kávétermesztéséről ismert régióban helyezkedik el. Jelentős kereskedelmi központja a környéknek.",
+      "facts": ["Ermera kerület székhelye", "Kávétermesztő régió", "Kereskedelmi központ"]
+    },
+    {
+      "id": "vila-de-atauro-cities-v2",
+      "description": "A fővárossal szemben fekvő Atauro-sziget legfőbb települése. A szigeti élet központja, amely elsősorban a turizmusra és a halászatra támaszkodik.",
+      "facts": ["Atauro-sziget központja", "Turizmus és halászat", "Szigeti település"]
+    },
+    {
+      "id": "balibo-cities-v2",
+      "description": "Történelmi jelentőségű határváros az ország nyugati felében, az indonéz határ közelében. Fontos szerepet játszott az ország modern történelmében.",
+      "facts": ["Nyugati határ menti város", "Modern történelmi helyszín", "Fontos átkelő"]
+    },
+    {
+      "id": "ermera-cities-v2",
+      "description": "A hegyvidéki Ermera kerület települése, amely szerves része az ország kávéágazatának. A környező dombvidék kiváló adottságokkal bír a termesztéshez.",
+      "facts": ["Hegyvidéki település", "Kávétermesztés központja", "Ermera kerület"]
+    },
+    {
+      "id": "iliomar-cities-v2",
+      "description": "Lautém kerület egyik jelentős települése az ország keleti csücskében. Hagyományos közösségek jellemzik a területet.",
+      "facts": ["Lautém kerületi település", "Keleti tájegység", "Hagyományos életmód"]
+    },
+    {
+      "id": "luro-cities-v2",
+      "description": "Lautém kerület hegyvidéki települése, amely elszigeteltsége révén megőrizte hagyományos struktúráit. A gazdaság alapja a helyi kistermelés.",
+      "facts": ["Lautém kerületi falu", "Hegyvidéki elhelyezkedés", "Hagyományos gazdálkodás"]
+    },
+    {
+      "id": "uatucarbau-cities-v2",
+      "description": "Viqueque kerület tengerparti települése az ország délkeleti részén. A helyi közösség megélhetését elsősorban a halászat biztosítja.",
+      "facts": ["Délkeleti tengerpart", "Halásztelepülés", "Viqueque kerület"]
+    },
+    {
+      "id": "ossu-cities-v2",
+      "description": "Viqueque kerület hegyek lábánál elterülő települése. A környező táj változatos természeti adottságokkal rendelkezik.",
+      "facts": ["Viqueque kerület része", "Hegyek lábánál", "Változatos táj"]
+    },
+    {
+      "id": "alas-cities-v2",
+      "description": "Manufahi kerület síkvidéki települése, amely mezőgazdasági szerepéről ismert. A területen rizst és más növényeket termesztenek.",
+      "facts": ["Manufahi kerületi város", "Mezőgazdasági terület", "Rizstermesztés"]
+    },
+    {
+      "id": "fatuberlio-cities-v2",
+      "description": "Manufahi kerület települése, amely a déli partvidék közelségével rendelkezik. A lakosság megélhetése a helyi mezőgazdaságra épül.",
+      "facts": ["Manufahi kerület része", "Déli part közelsége", "Helyi gazdálkodás"]
+    }
+  ]
+}

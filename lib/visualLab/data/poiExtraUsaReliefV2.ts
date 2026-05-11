@@ -83,7 +83,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Găzduiește Mount Whitney, cel mai înalt munte din SUA continentale.", "Include Parcul Național Yosemite.", "Formațiuni granitice mari.", "Sursă importantă de apă în California.", "Cunoscută pentru goana după aur.", "Glațiație alpină puternică.", "Sierra Nevada este un lanț muntos impunător din California."],
+      ro: ["Sierra Nevada este un lanț muntos impunător din California."],
       en: ["A highly massive, contiguous mountain range stretching 400 miles.", "Mount Whitney is the absolute highest peak in the contiguous US (14,505 ft).", "Geologically composed of a massive, single tilted granitic fault block.", "Its massive snowpack provides crucial water for all of California.", "Features deeply spectacular, globally renowned locations like Yosemite Valley.", "Contains the massive, incredibly pristine alpine waters of Lake Tahoe."]
     },
       facts: {
@@ -113,7 +113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Parte a Cercului de Foc al Pacificului.", "Găzduiește Mount St. Helens și Mount Rainier.", "Activitate vulcanică ridicată.", "Precipitații puternice din cauza efectului de pantă.", "Zone forestiere mari.", "Producție hidroelectrică importantă.", "Munții Cascade sunt un lanț muntos vulcanic în nord-vestul Pacificului."],
+      ro: ["Munții Cascade sunt un lanț muntos vulcanic în nord-vestul Pacificului."],
       en: ["Extends from massive southern British Columbia down to northern California.", "Part of the massive, highly active Pacific Ring of Fire.", "Features completely massive, visually dominating glaciated stratovolcanoes.", "Created by the massive, deep tectonic subduction of the Juan de Fuca plate.", "Mount Rainier is the absolute highest peak at 14,411 feet.", "Experiences a massive, profound rain shadow effect on its eastern slopes."]
     },
       facts: {
@@ -143,7 +143,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Peisaj deșertic tipic.", "Lanțuri muntoase paralele.", "Bazine mari fără drenaj.", "Activitate vulcanică frecventă în trecut.", "Lacuri sărate parțial uscate.", "Căldură mare în timpul verii.", "O regiune geologică cu bazine și munți alternanți."],
+      ro: ["O regiune geologică cu bazine și munți alternanți."],
       en: ["Covers a massive, incredibly vast portion of the western United States.", "Defined entirely by alternating massive parallel mountains and flat basins.", "Geologically formed by intense, massive crustal stretching and thinning.", "Death Valley is the absolute lowest, hottest point in the massive province.", "Predominantly endorheic, meaning rivers completely fail to reach the ocean.", "Features a highly arid, massive high-desert climate ecosystem."]
     },
       facts: {
@@ -173,7 +173,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Regiune geologic complexă.", "Multe peșteri de calcar.", "Păduri dense de stejar și hickory.", "Popular pentru activități în aer liber.", "Numeroase pârâuri clare.", "Densitate mai mică a populației.", "O zonă de podiș cu păduri dense și peșteri."],
+      ro: ["O zonă de podiș cu păduri dense și peșteri."],
       en: ["A massive, deeply eroded plateau spanning multiple Midwestern states.", "Not technically mountains, but a massive, highly uplifted geological dome.", "Globally renowned for its incredibly extensive massive karst topography.", "Features thousands of deep, massive caves and powerful natural springs.", "Covered predominantly by massive, dense oak-hickory deciduous forests.", "Historically supported a deeply isolated, highly unique regional mountain culture."]
     },
       facts: {
@@ -203,7 +203,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Include Mount Hood.", "Activitate geotermală.", "Forme conice impresionante.", "Adesea acoperit de zăpadă.", "Regiune unică de studiu geologic.", "Importanță ridicată pentru ecosistem.", "O parte din lanțul muntos Cascade cu numeroși vulcani activi."],
+      ro: ["O parte din lanțul muntos Cascade cu numeroși vulcani activi."],
       en: ["A massive, highly active volcanic arc stretching over 700 miles.", "Created entirely by the massive tectonic subduction of the Juan de Fuca plate.", "Features the massive, globally famous stratovolcano Mount St. Helens.", "Many massive peaks are deeply encased in highly unstable glacial ice.", "Contains the absolute highest risk volcanoes within the contiguous United States.", "A profoundly critical massive segment of the Pacific Ring of Fire."]
     },
       facts: {
@@ -233,7 +233,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cunoscut pentru nuanța albăstruie.", "Blue Ridge Parkway trece pe aici.", "Păduri mixte dense.", "Regiune populară de drumeție.", "Creste blânde.", "Floră și faună bogată.", "O parte din Munții Apalași cu vederi pitorești."],
+      ro: ["O parte din Munții Apalași cu vederi pitorești."],
       en: ["Forms the massive eastern edge of the expansive Appalachian mountain system.", "The distinct blue haze is caused by massive organic emissions from trees.", "Mount Mitchell is the absolute highest peak at exactly 6,684 feet.", "Traversed continuously by the massive, 469-mile scenic Blue Ridge Parkway.", "Features incredibly ancient, deeply eroded geological bedrock structures.", "Renowned globally for incredibly massive, diverse deciduous forest ecosystems."]
     },
       facts: {
@@ -263,7 +263,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Mount Washington este cel mai înalt vârf.", "Celebru pentru extremele meteo.", "Popular printre drumeți.", "Păduri dense la altitudini joase.", "Colorit spectaculos de toamnă.", "Parte a Munților Apalași.", "Lanț muntos în nord-est, cunoscut pentru climatul aspru."],
+      ro: ["Lanț muntos în nord-est, cunoscut pentru climatul aspru."],
       en: ["The most massive, heavily elevated section of the northern Appalachians.", "Mount Washington is the absolute highest peak at 6,288 feet.", "Globally infamous for experiencing incredibly violent, extreme meteorological events.", "Features massive, deeply glaciated U-shaped valleys known as 'notches'.", "Contains massive, highly protected regions of rare alpine tundra.", "Heavily draws massive numbers of intensely dedicated outdoor recreationists."]
     },
       facts: {
@@ -293,7 +293,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Nu face parte din Munții Apalași.", "Nenumărate lacuri și păduri.", "Zonă naturală protejată mare.", "Popular pentru canotaj.", "Munți înalți de granit.", "Destinație populară vara și iarna.", "O regiune muntoasă în nordul statului New York."],
+      ro: ["O regiune muntoasă în nordul statului New York."],
       en: ["A highly unique, massive circular geological dome in upstate New York.", "Geologically distinct from the Appalachians, part of the ancient Canadian Shield.", "Composed of incredibly ancient, billion-year-old massive Precambrian rock.", "Actively, aggressively uplifting at a rapid rate of 2 millimeters annually.", "Mount Marcy is the absolute highest peak at exactly 5,344 feet.", "Protected entirely within the massive, 6-million-acre Adirondack Park."]
     },
       facts: {
@@ -323,7 +323,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Parte a ecosistemului deșertului Chihuahua.", "Canioane spectaculoase.", "Condiții extrem de aride.", "Formațiuni stâncoase diverse geologic.", "Habitat important pentru speciile deșertice.", "Foarte puțin populat.", "O zonă deșertică accidentată la marele cot al fluviului Rio Grande."],
+      ro: ["O zonă deșertică accidentată la marele cot al fluviului Rio Grande."],
       en: ["Defined by a massive, sweeping southward curve of the Rio Grande.", "Encompasses the absolute largest protected area of the Chihuahuan Desert.", "Features the massive, deeply isolated volcanic Chisos Mountains.", "Contains incredibly deep, visually staggering massive limestone river canyons.", "Renowned as one of the most massive, pristine dark-sky locations globally.", "An incredibly remote, deeply harsh environment with extreme temperature fluctuations."]
     },
       facts: {
@@ -353,7 +353,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Găzduiește Mount Rushmore.", "Formațiuni geologic mai vechi.", "Păduri dese de pin.", "Tărâm sfânt pentru popoarele indigene.", "Numeroase animale sălbatice.", "Cel mai înalt punct este Black Elk Peak.", "Regiune muntoasă izolată în mijlocul preriei."],
+      ro: ["Regiune muntoasă izolată în mijlocul preriei."],
       en: ["A highly isolated, massive mountain range rising directly from the Great Plains.", "Geologically formed as a massive, deeply eroded structural rock dome.", "Exposes an incredibly hard, massive core of ancient Precambrian granite.", "Hosts the globally famous, massive monumental carving of Mount Rushmore.", "Considered an absolutely profound, massive sacred site by the Lakota people.", "Black Elk Peak is the absolute highest point at exactly 7,244 feet."]
     },
       facts: {
@@ -383,7 +383,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Găzduiește Grand Canyon.", "Canioane adânci și platouri montane.", "Climat arid.", "Straturi geologice unice.", "Densitate mare de parcuri naționale.", "Importanță geologică ridicată.", "Un platou vast cu un peisaj spectaculos de eroziune."],
+      ro: ["Un platou vast cu un peisaj spectaculos de eroziune."],
       en: ["A massive, highly stable 130,000-square-mile uplifted geological block.", "Remained remarkably flat despite massive tectonic forces surrounding it.", "Deeply, relentlessly carved by the massive Colorado River system.", "Features visually staggering, massive canyons, towering mesas, and arches.", "Contains the awe-inspiring, massively deep Grand Canyon.", "Boasts the absolute highest concentration of National Parks in the US."]
     },
       facts: {
@@ -413,7 +413,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Bazin deșertic uscat.", "Multe lanțuri muntoase în interior.", "Fără drenaj spre mare.", "Lacuri alcaline.", "Zone nisipoase vaste.", "Temperaturi extreme.", "Un bazin vast fără drenaj în vest."],
+      ro: ["Un bazin vast fără drenaj în vest."],
       en: ["A massive, fully endorheic watershed covering over 200,000 square miles.", "Absolutely no internal river systems drain outwardly to any ocean.", "Features a highly repetitive, massive 'basin and range' topography.", "Contains expansive, blindingly white massive salt flats and saline lakes.", "Experiences incredibly extreme, punishing daily temperature fluctuations.", "Home to incredibly ancient, deeply resilient massive bristlecone pine trees."]
     },
       facts: {
@@ -443,7 +443,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Habitat important pentru speciile deșertice.", "Foarte accidentat.", "Biodiversitate unică.", "Important pentru aprovizionarea cu apă.", "Stânci vulcanice.", "Versanți uscați.", "Avanposturile munților Sierra Madre Occidental în sud-vest."],
+      ro: ["Avanposturile munților Sierra Madre Occidental în sud-vest."],
       en: ["A colossal, massive mountain range paralleling the western Mexican coast.", "Composed entirely of incredibly massive, deep layers of ancient volcanic ash.", "Features the massive, deeply fractured Copper Canyon (Barrancas del Cobre).", "The massive canyons are completely deeper and larger than the Grand Canyon.", "Acts as an incredibly massive, highly critical climatic weather barrier.", "Serves as a profoundly important, massive corridor for extreme biodiversity."]
     },
       facts: {
@@ -473,7 +473,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Formațiuni vulcanice.", "\"Insulă cerească\" în deșert.", "Mult mai răcoros decât împrejurimile.", "Casa ursului negru.", "Trasee spectaculoase de drumeție.", "Floră unică.", "Un lanț muntos în mijlocul deșertului Chihuahua."],
+      ro: ["Un lanț muntos în mijlocul deșertului Chihuahua."],
       en: ["The absolute southernmost mountain range completely within the contiguous US.", "Functions as a massive, completely isolated high-elevation 'sky island'.", "Geologically composed of heavily eroded, massive ancient volcanic rock.", "Emory Peak is the absolute highest point at exactly 7,825 feet.", "Features a deeply unique, highly lush microclimate completely surrounded by desert.", "Located entirely within the massive expanse of Big Bend National Park."]
     },
       facts: {
@@ -503,7 +503,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Versanți muntoși foarte abrupți.", "Popular pentru sporturi de iarnă.", "Sursă de apă pentru Salt Lake City.", "Din punct de vedere geologic activ.", "Regiune importantă de drumeție.", "Diferențe mari de altitudine.", "Un lanț muntos proeminent în vestul statului Utah."],
+      ro: ["Un lanț muntos proeminent în vestul statului Utah."],
       en: ["Stretches a massive 160 miles, forming the western edge of the Rockies.", "Rises incredibly abruptly along the highly active, massive Wasatch Fault.", "Acts as a massive, profound barrier separating the Great Basin from the Rockies.", "Receives incredible, massive amounts of highly dry, powdery winter snow.", "Home to a globally renowned, massive international alpine skiing industry.", "Nearly 80% of Utah's massive population lives directly at its western base."]
     },
       facts: {
@@ -533,7 +533,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Parte a Munților Stâncoși.", "Păduri dense de pin.", "Canioane spectaculoase.", "Densitate scăzută a populației.", "Populații mari de animale sălbatice.", "Ideal pentru observarea naturii.", "Un lanț muntos în nordul statului Wyoming."],
+      ro: ["Un lanț muntos în nordul statului Wyoming."],
       en: ["A highly isolated, massive range forming the easternmost Rocky Mountains.", "Created by a massive, deep structural uplift from the surrounding plains.", "Cloud Peak is the absolute highest elevation at exactly 13,175 feet.", "Features massive, visually stunning deep limestone and granite canyons.", "Contains the highly enigmatic, massive ancient Medicine Wheel stone structure.", "Considered profoundly sacred by numerous massive indigenous Plains tribes."]
     },
       facts: {
@@ -563,7 +563,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Climat foarte umed.", "Singurele păduri tropicale temperate din SUA.", "Activitate glaciară ridicată.", "Vârfuri accidentate.", "Vederi spectaculoase.", "Ecosistem unic.", "Un munte izolat pe peninsula Olympic."],
+      ro: ["Un munte izolat pe peninsula Olympic."],
       en: ["A highly massive, profoundly rugged range dominating the Olympic Peninsula.", "Geologically composed entirely of massive, uplifted marine sedimentary rock.", "Intercepts massive Pacific moisture, creating incredibly lush temperate rainforests.", "Features Mount Olympus as the absolute highest peak at exactly 7,980 feet.", "Heavily covered by massive, numerous active alpine glaciers.", "The deeply rugged interior remains incredibly massive, remote, and roadless."]
     },
       facts: {
@@ -593,7 +593,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cea mai înaltă parte a Munților Stâncoși din Utah.", "Multe lacuri montane înalte.", "Zone sălbatice mari.", "Peisaje alpine spectaculoase.", "Sursă importantă de apă.", "Altitudini mari.", "Un lanț muntos care, în mod neobișnuit, se întinde de la est la vest."],
+      ro: ["Un lanț muntos care, în mod neobișnuit, se întinde de la est la vest."],
       en: ["The absolute highest continuous east-west mountain range in the contiguous US.", "Composed primarily of incredibly hard, massive ancient Precambrian quartzite.", "Kings Peak is the absolute highest elevation in Utah at exactly 13,528 feet.", "Heavily, deeply carved by massive Pleistocene glaciers into U-shaped valleys.", "Contains hundreds of pristine, incredibly isolated massive alpine lakes.", "A deeply remote, massive wilderness area with highly restricted road access."]
     },
       facts: {
@@ -623,7 +623,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Parte a Parcului Național Grand Teton.", "Structură geologică tânără, foarte abruptă.", "Vârfuri alpine spectaculoase.", "Celebru pentru drumeții.", "Ghețari la altitudini înalte.", "Destinație turistică importantă.", "Un munte proeminent, tânăr, cu vârfuri abrupte."],
+      ro: ["Un munte proeminent, tânăr, cu vârfuri abrupte."],
       en: ["Rises absolutely abruptly and violently along a massive active fault line.", "Completely lacks lower eastern foothills, creating a visually staggering profile.", "The Grand Teton is the absolute highest peak at exactly 13,775 feet.", "Heavily, deeply carved by massive, relentless alpine glaciers.", "A globally renowned, massive destination for highly extreme mountaineering.", "Deeply protected entirely within the massive Grand Teton National Park."]
     },
       facts: {
@@ -653,7 +653,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Vârfuri zimțate caracteristice.", "Numeroase lacuri montane.", "Natură sălbatică neatinsă.", "Popular pentru drumeții cu rucsac.", "Din punct de vedere geologic foarte activ în trecut.", "Sălbăticie mare.", "Un munte accidentat în Idaho."],
+      ro: ["Un munte accidentat în Idaho."],
       en: ["Renowned for visually staggering, incredibly jagged massive granite peaks.", "Geologically carved from a deeply massive, solid pink granite batholith.", "Thompson Peak is the absolute highest elevation at exactly 10,751 feet.", "Deeply, relentlessly shaped by massive Pleistocene alpine glaciation.", "Contains hundreds of pristine, incredibly isolated massive high-altitude lakes.", "A deeply remote, highly rugged massive destination for extreme rock climbing."]
     },
       facts: {
@@ -683,7 +683,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Foarte mulți ghețari.", "Peisaje alpine spectaculoase.", "Zone sălbatice mari.", "Biodiversitate ridicată.", "Popular printre alpiniști.", "Teren inaccesibil.", "O parte muntoasă a lanțului Cascade din nordul statului Washington."],
+      ro: ["O parte muntoasă a lanțului Cascade din nordul statului Washington."],
       en: ["A visually staggering, incredibly massive and deeply jagged non-volcanic range.", "The absolute most heavily glaciated range in the entire contiguous US.", "Features over 300 massive, intensely monitored active alpine glaciers.", "Intercepts incredibly massive amounts of moisture, creating deeply lush forests.", "Mount Baker is a massive, highly prominent active stratovolcano nearby.", "Deeply protected by an incredibly massive, completely remote National Park."]
     },
       facts: {

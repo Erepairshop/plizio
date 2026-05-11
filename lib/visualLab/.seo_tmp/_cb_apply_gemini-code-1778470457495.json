@@ -1,0 +1,95 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "abudelauri-lakes-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Abudelauri-Seen sind ein Ensemble aus drei hochalpinen Gletscherseen in der Region Chewsuretien, am Fuße des massiven Chaukhi-Massivs. Geografisch liegen die Seen auf Höhen zwischen 2.600 und 2.800 Metern und sind nach ihren charakteristischen Farben benannt: der Grüne, der Blaue und der Weiße See. Historisch ist die Region eng mit den Mythen der Bergvölker verbunden, die diese entlegenen Gewässer als heilige Orte betrachteten. Ökologisch beherbergen die Seen und das umliegende Hochplateau eine spezialisierte alpine Flora, die nur in den kurzen Sommermonaten blüht. Technisch gesehen ist der Weiße See der spektakulärste, da er direkt aus dem Gletscherschmelzwasser gespeist wird und aufgrund feiner Gesteinspartikel seine milchig-weiße Farbe erhält. Ökonomisch sind die Seen ein Schlüsselziel für den Trekking-Tourismus in Nordgeorgien, insbesondere für die Route zwischen Juta und Roschka. Das Relief der Umgebung ist durch schroffe Felswände und Moränenlandschaften geprägt, was die dynamische Kraft der eiszeitlichen Gletscher illustriert. Die Seen sind nur von Juni bis September eisfrei und bieten einen der dramatischsten Kontraste zwischen farbigem Wasser und kargem Hochgebirge im gesamten Kaukasus.",
+        "hu": "Az Abudelauri-tavak három magashegyi gleccsertó együttese Hevszureti régióban, a masszív Csauhi-hegytömb lábánál. Földrajzilag a tavak 2600 és 2800 méter közötti magasságban fekszenek, és jellegzetes színeikről kapták nevüket: Zöld-, Kék- és Fehér-tó. Történelmileg a régió szorosan kötődik a hegyi népek mítoszaihoz, akik ezeket a távoli vizeket szent helyként tisztelték. Ökológiailag a tavak és a környező fennsík speciális alpesi flórának adnak otthont, amely csak a rövid nyári hónapokban virágzik. Technikai szempontból a Fehér-tó a leglátványosabb, mivel közvetlenül a gleccser olvadékvize táplálja, és a benne lévő finom kőzetpor (gleccsermézh) miatt kapja tejfehér színét. Gazdaságilag a tavak az észak-grúziai trekking-turizmus kulcsfontosságú állomásai, különösen a Juta és Roska közötti útvonalon. A környező domborzatot meredek sziklafalak és morénavidékek jellemzik, amelyek a jégkorszaki gleccserek dinamikus erejét szemléltetik. A tavak csak júniustól szeptemberig jégmentesek, és a Kaukázus egyik legdrámaibb kontrasztját nyújtják a színes víz és a kopár magashegyi táj között.",
+        "ro": "Lacurile Abudelauri reprezintă un ansamblu de trei lacuri glaciare alpine situate în regiunea Khevsureti, la poalele masivului impunător Chaukhi. Din punct de vedere geografic, lacurile sunt amplasate la altitudini cuprinse între 2.600 și 2.800 de metri, fiind denumite după culorile lor caracteristice: Lacul Verde, Lacul Albastru și Lacul Alb. Istoric, regiunea este strâns legată de miturile popoarelor montane, care considerau aceste ape izolate drept locuri sacre. Ecologic, lacurile și platoul înalt înconjurător găzduiesc o floră alpină specializată, care înflorește doar în scurtele luni de vară. Din punct de vedere tehnic, Lacul Alb este cel mai spectaculos, fiind alimentat direct de topirea ghețarului și căpătând o culoare alb-lăptoasă datorită particulelor fine de rocă în suspensie. Economic, lacurile constituie un punct nodal pentru turismul de trekking din nordul Georgiei, în special pentru ruta dintre Juta și Roshka. Relieful zonei este marcat de pereți stâncoși abrupți și depozite morainice, ilustrând forța dinamică a ghețarilor cuaternari. Lacurile sunt libere de gheață doar din iunie până în septembrie, oferind unul dintre cele mai dramatice contraste vizuale din întreg Caucazul.",
+        "en": "The Abudelauri Lakes are a cluster of three high-altitude glacial lakes in the Khevsureti region, nestled at the base of the massive Chaukhi Massif. Geographically, the lakes sit between 2,600 and 2,800 meters above sea level and are named for their distinctive hues: Green, Blue, and White. Historically, the area is deeply rooted in the folklore of the highland tribes, who regarded these remote waters as sacred sites. Ecologically, the lakes and the surrounding plateau support specialized alpine flora that blooms only during the brief summer window. Technically, the White Lake is the most remarkable, as it is fed directly by glacial meltwater and derives its milky appearance from fine rock flour suspended in the water. Economically, the lakes are a centerpiece of the North Georgian trekking industry, specifically for the popular route linking the villages of Juta and Roshka. The surrounding relief is defined by jagged rock faces and moraine fields, illustrating the dynamic power of prehistoric glaciers. These lakes are ice-free only from June to September, offering one of the most dramatic visual contrasts between colorful water and the stark mountain environment in the Caucasus."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus drei farblich unterschiedlichen Seen: Grün, Blau und Weiß.",
+          "Liegt auf einer extremen Höhe von bis zu 2.800 Metern über dem Meer.",
+          "Der Weiße See wird direkt durch den Abudelauri-Gletscher gespeist.",
+          "Wichtigstes Ziel für Bergwanderer im Chaukhi-Massiv.",
+          "Die Seen sind aufgrund der Höhe fast neun Monate im Jahr zugefroren.",
+          "Beherbergt seltene kaukasische Amphibienarten in den Uferzonen."
+        ],
+        "hu": [
+          "Három különböző színű tóból áll: Zöld, Kék és Fehér.",
+          "Extrém magasságban, akár 2800 méterrel a tengerszint felett fekszenek.",
+          "A Fehér-tó közvetlen vízutánpótlását az Abudelauri-gleccser adja.",
+          "A Csauhi-masszívum környékének legnépszerűbb túracélpontja.",
+          "A tavak az év közel kilenc hónapjában jégpáncél alatt állnak.",
+          "A part menti zónákban ritka kaukázusi kétéltűfajok figyelhetőek meg."
+        ],
+        "ro": [
+          "Ansamblu format din trei unități lacustre distincte cromatic.",
+          "Altitudinea maximă a sitului depășește cota de 2.800 m.",
+          "Lacul Alb primește sedimente fine direct din masa ghețarului adiacent.",
+          "Punct obligatoriu pe ruta de trecere din Khevi în Khevsureti.",
+          "Temperatura apei rămâne aproape de punctul de îngheț chiar și vara.",
+          "Zona este caracterizată de un relief glaciar cu circuri și morene."
+        ],
+        "en": [
+          "Comprises three distinct lakes known as the Green, Blue, and White lakes.",
+          "Situated at extreme high-mountain altitudes reaching 2,800 meters.",
+          "The White Lake's opacity is caused by glacial silt (rock flour).",
+          "A major destination for trekkers traversing the Chaukhi mountain pass.",
+          "The water bodies remain frozen for approximately nine months each year.",
+          "Features a highly specialized alpine ecosystem with endemic wildflowers."
+        ]
+      }
+    },
+    {
+      "id": "rioni-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rioni-Fluss ist der wasserreichste und geschichtlich bedeutendste Fluss Westgeorgiens. Geografisch entspringt der Rioni an den Hängen des Großen Kaukasus in der Region Ratscha und fließt über 320 Kilometer durch die Kolchis-Ebene, bis er bei Poti ins Schwarze Meer mündet. Historisch ist der Fluss als der antike 'Phasis' bekannt, an dessen Ufern sich die griechischen Argonauten auf der Suche nach dem Goldenen Vlies orientierten. Ökonomisch ist der Rioni von zentraler Bedeutung für die georgische Energiewirtschaft, da sein starkes Gefälle und hoher Wasserdurchsatz für zahlreiche Wasserkraftwerke (z. B. Gumati HPP) genutzt werden. Technisch gesehen bildet der Fluss ein komplexes Delta-System im Kolkheti-Nationalpark, das durch Sedimentation und regelmäßige saisonale Fluten geprägt ist. Ökologisch beherbergt der Rioni seltene Fischarten wie den vom Aussterben bedrohten Kolchischen Stör, dessen Schutz heute ein internationales Forschungsprojekt ist. Das Relief des Flusstals wechselt dramatisch von engen, tief eingeschnittenen Schluchten im Oberlauf zu weiten Schwemmlandebenen in der Kolchis. Die Verwaltung des Flusses ist entscheidend für den Hochwasserschutz der Stadt Kutaissi und die landwirtschaftliche Bewässerung der westgeorgischen Tiefebene. Der Rioni bleibt das Symbol für die antike Verbindung Georgiens zum Mittelmeerraum.",
+        "hu": "A Rioni-folyó Nyugat-Grúzia legnagyobb vízhozamú és történelmileg legjelentősebb folyója. Földrajzilag a Rioni a Nagy-Kaukázus lejtőin ered Racsa régióban, és több mint 320 kilométeren keresztül folyik a Kolkhisz-alföldön át, mígnem Poti mellett a Fekete-tengerbe torkollik. Történelmileg a folyó az ókori „Phasis” néven ismert, amelynek partjainál a görög argonauták tájékozódtak az aranygyapjú utáni kutatásuk során. Gazdaságilag a Rioni központi jelentőségű a grúz energiaipar számára, mivel meredek esése és nagy vízhozama számos vízerőművet (például a Gumati HPP) táplál. Technikai szempontból a folyó komplex deltarendszert alkot a Kolkheti Nemzeti Parkban, amelyet a hordaléklerakódás és a rendszeres szezonális áradások alakítanak. Ökológiailag a Rioni olyan ritka halfajoknak ad otthont, mint a kihalástól fenyegetett kolkhiszi vágótok, amelynek védelme ma nemzetközi kutatási projekt része. A folyóvölgy domborzata drámaian változik a felső szakasz szűk, mélyen bevágott szurdokaitól a Kolkhisz tágas hordalékos síkságaiig. A folyó kezelése döntő fontosságú Kutaiszi város árvízvédelme és a nyugat-grúziai síkság mezőgazdasági öntözése szempontjából. A Rioni továbbra is Grúzia mediterrán világhoz fűződő ősi kapcsolatának szimbóluma.",
+        "ro": "Râul Rioni este cel mai important curs de apă din vestul Georgiei, atât sub aspect hidrologic, cât și istoric. Geografic, Rioni izvorăște din versanții Caucazului Mare în regiunea Racha și parcurge peste 320 de kilometri prin câmpia Colchidei, vărsându-se în Marea Neagră la Poti. Istoric, râul este identificat cu anticul „Phasis”, pe cursul căruia au navigat argonauții greci în căutarea Lânii de Aur. Economic, Rioni este vital pentru sectorul energetic georgian, debitul său ridicat alimentând o cascadă de hidrocentrale strategice. Din punct de vedere tehnic, în cursul inferior, râul formează un sistem deltaic complex în cadrul Parcului Național Kolkheti, caracterizat prin procese intense de sedimentare și viituri sezoniere. Ecologic, râul constituie unul dintre ultimele habitate naturale pentru sturionul colchic, specie critic periclitată aflată sub protecție internațională. Relieful văii sale prezintă o tranziție dramatică de la defilee montane înguste la câmpii aluvionare vaste. Managementul râului este esențial pentru prevenirea inundațiilor în orașul Kutaisi și pentru susținerea agriculturii intensive din vestul țării. Rioni rămâne un simbol al legăturii milenare dintre Georgia și civilizațiile mediteraneene.",
+        "en": "The Rioni River is Western Georgia’s largest river by discharge and its most historically significant waterway. Geographically, it originates on the slopes of the Greater Caucasus in the Racha region and flows for over 320 kilometers through the Colchis Lowland before emptying into the Black Sea near Poti. Historically, the river is known as the ancient 'Phasis,' the very route navigated by the legendary Greek Argonauts in their quest for the Golden Fleece. Economically, the Rioni is a cornerstone of Georgia's energy sector, its steep gradient and high water volume powering several major hydroelectric stations. Technically, the river forms an intricate delta system within the Kolkheti National Park, shaped by constant sedimentation and seasonal flooding cycles. Ecologically, the Rioni is a critical habitat for rare species, most notably the critically endangered Colchic sturgeon, which is the focus of international conservation efforts. The river valley's relief shifts dramatically from narrow, precipitous gorges in the highlands to expansive alluvial floodplains in the lowlands. Proper management of the Rioni is vital for flood control in the city of Kutaisi and for the irrigation of Western Georgia's fertile agricultural plains. It remains an enduring symbol of Georgia's ancient ties to the Mediterranean world."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster Fluss Westgeorgiens mit einer Länge von 327 km.",
+          "Historisch bekannt als 'Phasis' in der griechischen Argonautensage.",
+          "Hauptquelle für Wasserkraft in der Region Imeretien.",
+          "Bildet ein ökologisch wertvolles Delta im Kolkheti-Nationalpark.",
+          "Letzter natürlicher Brutplatz des seltenen Kolchischen Störs.",
+          "Durchfließt bedeutende Städte wie Kutaissi und Poti."
+        ],
+        "hu": [
+          "Nyugat-Grúzia legfontosabb folyója, hossza 327 km.",
+          "Az ókorban Phasis néven ismerték, az argonauták útja volt.",
+          "Imereti régió vízenergia-ellátásának elsődleges forrása.",
+          "A Kolkheti Nemzeti Parkban ökológiailag értékes deltát alkot.",
+          "A ritka kolkhiszi vágótok utolsó természetes szaporodóhelye.",
+          "Átszeli Kutaiszi történelmi városát és Poti kikötőjét."
+        ],
+        "ro": [
+          "Cel mai mare râu din vestul Georgiei ca volum de apă.",
+          "Identificat în scrierile antice drept râul Phasis al argonauților.",
+          "Sursă majoră de energie regenerabilă prin hidrocentralele de pe cursul său.",
+          "Găzduiește populații reziduale de sturioni aflați pe cale de dispariție.",
+          "Afluentul principal ce alimentează zonele umede Ramsar din Kolkheti.",
+          "Cunoscut pentru viiturile puternice din perioada topirii zăpezilor."
+        ],
+        "en": [
+          "The primary waterway of Western Georgia, spanning 327 kilometers.",
+          "Famed in Greek mythology as the Phasis River of the Argonauts.",
+          "A major contributor to Georgia's renewable energy through hydropower.",
+          "Contains a vast delta system within a UNESCO-protected wetland.",
+          "The last remaining natural spawning ground for the Colchic sturgeon.",
+          "Flows through the major urban centers of Kutaisi and Poti."
+        ]
+      }
+    }
+  ]
+}

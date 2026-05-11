@@ -1,0 +1,321 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "stade-barthelemy-boganda-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Barthélemy-Boganda-Stadion, das sich in der Hauptstadt Bangui befindet, ist die wichtigste und größte nationale Sportanlage der Zentralafrikanischen Republik. Benannt nach dem Gründervater und ersten Premierminister des Landes, Barthélemy Boganda, dient das Stadion primär als Austragungsort für die Spiele der nationalen Fußballmannschaft, die unter dem Namen 'Les Fauves' (Die Wildkatzen) bekannt ist. Der moderne Baukomplex wurde mit erheblicher finanzieller und technischer Unterstützung der Volksrepublik China errichtet und im Jahr 2006 offiziell eröffnet. Das Stadion bietet eine Kapazität für etwa 20.000 Zuschauer und verfügt über eine Leichtathletikbahn. Über den Sport hinaus wird die Anlage regelmäßig für große nationale Feierlichkeiten, kulturelle Großveranstaltungen und politische Reden genutzt. Wirtschaftlich wirkt das Stadion bei Veranstaltungen als lokaler Katalysator, der Hunderte von informellen Straßenhändlern und Transportdienstleistern anzieht. Trotz der chronischen politischen Instabilität und der wirtschaftlichen Schwierigkeiten des Landes stellt das Stadion einen wichtigen sozialen Knotenpunkt dar, der der Bevölkerung eine Plattform für nationale Einheit bietet.",
+        "hu": "A fővárosban, Banguiban található Barthélemy Boganda Stadion a Közép-afrikai Köztársaság legfontosabb és legnagyobb nemzeti sportlétesítménye. Az ország alapító atyjáról és első miniszterelnökéről, Barthélemy Bogandáról elnevezett stadion elsősorban a 'Les Fauves' (A Vadállatok) néven ismert nemzeti labdarúgó-válogatott hazai mérkőzéseinek ad otthont. A modern épületegyüttest a Kínai Népköztársaság jelentős pénzügyi és műszaki támogatásával építették, és 2006-ban nyitották meg hivatalosan. A stadion mintegy 20 000 néző befogadására alkalmas, és atlétikai futópályával is rendelkezik. A sporton túl a létesítményt rendszeresen használják jelentős nemzeti ünnepségek, nagy kulturális események és politikai gyűlések helyszíneként. Gazdasági szempontból a stadion a rendezvények idején lokális katalizátorként működik, amely informális utcai árusok és transzportszolgáltatók százait vonzza a területre. Az ország krónikus politikai instabilitása és gazdasági nehézségei ellenére a stadion fontos társadalmi csomópont maradt.",
+        "ro": "Stadionul Barthélemy Boganda, situat în capitala Bangui, este cea mai importantă și mai mare facilitate sportivă națională din Republica Centrafricană. Numit după părintele fondator și primul prim-ministru al țării, Barthélemy Boganda, stadionul servește în primul rând ca teren propriu pentru echipa națională de fotbal, cunoscută sub numele de „Les Fauves” (Fiarele Sălbatice). Complexul modern a fost construit cu sprijin financiar și tehnic semnificativ din partea Republicii Populare Chineze și a fost deschis oficial în anul 2006. Stadionul are o capacitate de aproximativ 20.000 de spectatori și dispune de o pistă de atletism. Dincolo de evenimentele sportive, facilitatea este folosită în mod regulat pentru mari sărbători naționale, evenimente culturale majore și discursuri politice. Din punct de vedere economic, stadionul acționează ca un catalizator local în timpul evenimentelor, atrăgând sute de vânzători ambulanți informali. În ciuda instabilității politice cronice a țării, acesta este un punct focal social vital.",
+        "en": "The Barthélemy Boganda Stadium, located in the capital city of Bangui, is the premier and largest national sports facility in the Central African Republic. Named after the country's founding father and first Prime Minister, Barthélemy Boganda, the stadium primarily serves as the home ground for the national football team, widely known as 'Les Fauves' (The Wild Beasts). The modern building complex was constructed with significant financial and technical assistance from the People's Republic of China and was officially opened in 2006. The stadium has a seating capacity of approximately 20,000 spectators and features a full athletics track. Beyond sports, the facility is regularly utilized for major national celebrations, large-scale cultural events, and political rallies. Economically, the stadium acts as a localized catalyst during events, drawing hundreds of informal street vendors and transport operators to its immediate perimeter. Despite the nation's chronic political instability and severe economic challenges, the stadium remains a vital social focal point."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Stadion fasst etwa 20.000 Zuschauer.",
+          "Es wurde mit Unterstützung aus China gebaut.",
+          "Die Eröffnung fand im Jahr 2006 statt.",
+          "Es ist die Heimat der Fußball-Nationalmannschaft.",
+          "Benannt ist es nach dem ersten Premierminister des Landes."
+        ],
+        "hu": [
+          "A stadion körülbelül 20 000 néző befogadására alkalmas.",
+          "A létesítmény kínai pénzügyi támogatással épült.",
+          "A hivatalos megnyitóra 2006-ban került sor.",
+          "Ez a nemzeti labdarúgó-válogatott hivatalos otthona.",
+          "A nevét az ország legelső miniszterelnökéről kapta."
+        ],
+        "ro": [
+          "Stadionul are o capacitate de aproximativ 20.000 de locuri.",
+          "A fost construit cu asistență financiară din partea Chinei.",
+          "Inaugurarea oficială a avut loc în anul 2006.",
+          "Este terenul principal al echipei naționale de fotbal.",
+          "Este numit după primul prim-ministru al țării."
+        ],
+        "en": [
+          "The stadium holds a capacity of around 20,000 spectators.",
+          "It was constructed with financial backing from China.",
+          "The official opening ceremony took place in 2006.",
+          "It serves as the home ground for the national football team.",
+          "It is named after the country's very first Prime Minister."
+        ]
+      }
+    },
+    {
+      "id": "monument-des-martyrs-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Monument des Martyrs in Bangui ist eine bedeutende historische Gedenkstätte im Herzen der zentralafrikanischen Hauptstadt. Es wurde errichtet, um die Opfer der verschiedenen gewaltsamen Konflikte und repressiven Regime in der Geschichte des Landes zu ehren. Insbesondere erinnert das Denkmal an die protestierenden Schüler und Studenten, die im Jahr 1979 während der brutalen Herrschaft des selbsternannten Kaisers Jean-Bédel Bokassa getötet wurden. Die Proteste richteten sich damals gegen die staatlich verordnete Pflicht, extrem teure Schuluniformen zu kaufen. Das Monument dient heute als zentraler Ort für staatliche Gedenkveranstaltungen und Mahnwachen, die an die Bedeutung von Menschenrechten und politischer Freiheit erinnern. Die umliegende Infrastruktur ist stark von der staatlichen Verwaltung geprägt. Wirtschaftlich gesehen generiert das Monument keine touristischen Einnahmen, da der internationale Tourismus in der Zentralafrikanischen Republik aufgrund der prekären Sicherheitslage faktisch nicht existiert. Es bleibt jedoch ein essenzieller kultureller Anker für das kollektive Gedächtnis der Nation.",
+        "hu": "A bangui Mártírok Emlékműve (Monument des Martyrs) egy kiemelkedően fontos történelmi emlékhely a közép-afrikai főváros szívében. Azért állították, hogy tisztelegjenek az ország történelmének különböző erőszakos konfliktusaiban és elnyomó rezsimjeiben elhunyt áldozatok előtt. Az emlékmű különösen is emléket állít azoknak a tiltakozó diákoknak és hallgatóknak, akiket 1979-ben, az önjelölt Jean-Bédel Bokassa császár brutális uralma alatt gyilkoltak meg. A tüntetések akkoriban az államilag előírt, rendkívül drága iskolai egyenruhák kötelező megvásárlása ellen irányultak. Ma az emlékmű a hivatalos állami megemlékezések és virrasztások központi helyszíneként szolgál, emlékeztetve az emberi jogok és a politikai szabadság fontosságára. A környező infrastruktúrát erősen meghatározza az államigazgatás jelenléte. Gazdasági szempontból az emlékmű nem generál turisztikai bevételeket, mivel a nemzetközi turizmus a Közép-afrikai Köztársaságban a bizonytalan biztonsági helyzet miatt gyakorlatilag nem létezik. Ugyanakkor a nemzet kollektív emlékezetének alapvető kulturális horgonya marad.",
+        "ro": "Monumentul Martirilor din Bangui este un important sit memorial istoric din inima capitalei centrafricane. A fost ridicat pentru a onora victimele diverselor conflicte violente și regimuri represive din istoria țării. În mod specific, monumentul îi comemorează pe elevii și studenții protestatari care au fost uciși în 1979 în timpul domniei brutale a autoproclamatului împărat Jean-Bédel Bokassa. Protestele de atunci erau îndreptate împotriva obligației impuse de stat de a cumpăra uniforme școlare extrem de scumpe. Astăzi, monumentul servește drept locație centrală pentru ceremoniile comemorative de stat și privegherile care amintesc de importanța drepturilor omului și a libertății politice. Infrastructura înconjurătoare este puternic influențată de administrația publică. Din punct de vedere economic, monumentul nu generează venituri turistice, deoarece turismul internațional este practic inexistent din cauza situației precare de securitate. Cu toate acestea, rămâne o ancoră culturală esențială pentru memoria colectivă.",
+        "en": "The Monument of the Martyrs in Bangui is a highly significant historical memorial site located in the heart of the Central African capital. It was erected to honor the victims of the various violent conflicts and repressive regimes throughout the country's history. Most notably, the monument commemorates the protesting schoolchildren and university students who were killed in 1979 during the brutal reign of self-proclaimed Emperor Jean-Bédel Bokassa. The protests at the time were directed against the state-mandated obligation to purchase extremely expensive school uniforms. Today, the monument serves as a central location for state memorial ceremonies and vigils that serve as a reminder of the importance of human rights and political freedom. The surrounding infrastructure is heavily characterized by state administration. Economically, the monument generates no tourism revenue, as international tourism in the Central African Republic is virtually non-existent due to the precarious security situation. It remains, however, an essential cultural anchor for the nation's collective memory."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Denkmal ehrt die Opfer politischer Gewalt im Land.",
+          "Es erinnert stark an die getöteten Studenten von 1979.",
+          "Die Proteste richteten sich gegen den Diktator Bokassa.",
+          "Auslöser der Proteste waren teure Schuluniformen.",
+          "Es ist ein zentraler Ort für nationale Gedenkfeiern."
+        ],
+        "hu": [
+          "Az emlékmű a politikai erőszak áldozatai előtt tiszteleg.",
+          "Kifejezetten emléket állít az 1979-ben meggyilkolt diákoknak.",
+          "A tiltakozások a diktátor, Bokassa uralma ellen irányultak.",
+          "A tüntetéseket a kötelezően előírt drága egyenruhák váltották ki.",
+          "Ez a hivatalos nemzeti megemlékezések egyik fő helyszíne."
+        ],
+        "ro": [
+          "Monumentul onorează victimele violenței politice naționale.",
+          "Comemorează în mod specific studenții uciși în 1979.",
+          "Protestele au fost îndreptate împotriva dictatorului Bokassa.",
+          "Declanșatorul protestelor au fost uniformele școlare scumpe.",
+          "Este o locație centrală pentru ceremoniile comemorative."
+        ],
+        "en": [
+          "The monument honors the victims of national political violence.",
+          "It specifically commemorates the students killed in 1979.",
+          "The protests were directed against the dictator Bokassa.",
+          "The trigger for the protests was expensive school uniforms.",
+          "It serves as a central location for national memorial ceremonies."
+        ]
+      }
+    },
+    {
+      "id": "mosquee-centrale-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Zentralmoschee von Bangui (Mosquée Centrale) ist das wichtigste islamische Gotteshaus der Zentralafrikanischen Republik und befindet sich im PK5-Viertel. Dieses Viertel ist das historische und kommerzielle Herz der muslimischen Gemeinschaft in der Hauptstadt. Die Moschee zeichnet sich durch ihre markanten grünen und weißen Minarette aus, die das Stadtbild des dichten, geschäftigen Viertels überragen. Historisch gesehen erlangte die Moschee während des extrem gewalttätigen Bürgerkriegs zwischen 2013 und 2014 traurige Berühmtheit, als das PK5-Viertel zur belagerten Enklave wurde. Die Moschee diente damals Tausenden von Zivilisten als letzter Zufluchtsort vor den Milizen. Wirtschaftlich ist die Umgebung der Moschee ein pulsierendes Zentrum für den nationalen und regionalen Handel. Die lokalen Händler im PK5-Viertel kontrollieren einen erheblichen Teil der Lieferketten für importierte Konsumgüter, Textilien und Ersatzteile, die über den lebenswichtigen Transportkorridor aus Kamerun in das Binnenland gelangen. Die Moschee ist somit nicht nur ein religiöses Zentrum, sondern auch ein Symbol für Resilienz.",
+        "hu": "A bangui Központi Mecset (Mosquée Centrale) a Közép-afrikai Köztársaság legfontosabb iszlám istentiszteleti helye, amely a PK5 nevű negyedben található. Ez a kerület a fővárosi muszlim közösség történelmi és kereskedelmi központja. A mecsetet jellegzetes zöld és fehér minaretjei emelik ki, amelyek a sűrűn beépített, forgalmas negyed városképe fölé magasodnak. Történelmileg a mecset a 2013 és 2014 közötti rendkívül erőszakos polgárháború során vált szomorúan ismertté, amikor a PK5 negyed egy ostromlott enklávévá vált. A mecset ekkor civilek ezrei számára szolgált végső menedékként a fegyveres milíciák elől. Gazdasági szempontból a mecset környezete a nemzeti és regionális kereskedelem lüktető központja. A PK5 negyed helyi kereskedői ellenőrzik az importált fogyasztási cikkek, textíliák és pótalkatrészek ellátási láncának jelentős részét, amelyek a Kamerun felől érkező létfontosságú tranzitfolyosón keresztül jutnak be a szárazfölddel körülzárt országba. A mecset így nemcsak vallási központ, hanem a túlélés szimbóluma is.",
+        "ro": "Marea Moschee Centrală din Bangui (Mosquée Centrale) este cel mai important lăcaș de cult islamic din Republica Centrafricană și este situată în cartierul PK5. Acest cartier reprezintă inima istorică și comercială a comunității musulmane din capitală. Moscheea se distinge prin minaretele sale proeminente verzi și albe, care se înalță deasupra peisajului urban al acestui cartier dens și aglomerat. Din punct de vedere istoric, moscheea a câștigat o notorietate tragică în timpul războiului civil extrem de violent dintre 2013 și 2014, când cartierul PK5 a devenit o enclavă asediată. La acea vreme, moscheea a servit drept ultim refugiu pentru mii de civili care fugeau de milițiile armate. Din punct de vedere economic, zona din jurul moscheii este un centru vibrant pentru comerțul național. Comercianții locali din PK5 controlează o parte semnificativă din lanțurile de aprovizionare pentru bunuri de consum importate, aduse prin coridorul vital de transport din Camerun. Moscheea este așadar și un simbol al rezilienței.",
+        "en": "The Central Mosque of Bangui (Mosquée Centrale) is the most important Islamic place of worship in the Central African Republic, located in the PK5 district. This neighborhood serves as the historical and commercial heart of the Muslim community in the capital. The mosque is characterized by its prominent green and white minarets, which tower over the cityscape of the dense, bustling district. Historically, the mosque gained tragic notoriety during the extremely violent civil war between 2013 and 2014, when the PK5 neighborhood became a besieged enclave. At that time, the mosque served as a final refuge for thousands of civilians fleeing armed militias. Economically, the area surrounding the mosque is a pulsating hub for national and regional trade. Local merchants in the PK5 district control a significant portion of the supply chains for imported consumer goods, textiles, and spare parts, which enter the landlocked country via the vital transportation corridor from Cameroon. The mosque is therefore not only a religious center but also a symbol of resilience."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sie befindet sich im geschäftigen PK5-Viertel.",
+          "Es ist das größte islamische Zentrum in Bangui.",
+          "Die Moschee hat markante grün-weiße Minarette.",
+          "Während der Krise 2013 war sie ein wichtiger Zufluchtsort.",
+          "Das Viertel ist das Handelszentrum für Importgüter."
+        ],
+        "hu": [
+          "A mecset a rendkívül forgalmas PK5 negyedben található.",
+          "Ez Bangui és az egész ország legnagyobb iszlám központja.",
+          "A mecset jól felismerhető a zöld-fehér minaretjeiről.",
+          "A 2013-as válság idején kritikus menedékhelyként szolgált.",
+          "A mecset környéke a főváros importkereskedelmi központja."
+        ],
+        "ro": [
+          "Moscheea este situată în cartierul aglomerat PK5.",
+          "Este cel mai mare centru islamic din întregul Bangui.",
+          "Clădirea are minarete distincte de culoare verde cu alb.",
+          "În timpul crizei din 2013 a fost un refugiu vital.",
+          "Cartierul este centrul comercial pentru bunurile din import."
+        ],
+        "en": [
+          "It is located in the highly bustling PK5 district.",
+          "It is the largest Islamic center in the city of Bangui.",
+          "The mosque features distinctive green and white minarets.",
+          "During the 2013 crisis, it served as a vital civilian refuge.",
+          "The surrounding district is the trade hub for imported goods."
+        ]
+      }
+    },
+    {
+      "id": "hotel-de-ville-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Rathaus von Bangui (Hôtel de Ville) ist das administrative Zentrum der Hauptstadt der Zentralafrikanischen Republik. Das Gebäude befindet sich im zentralen Stadtbezirk, unweit der Ufer des Flusses Ubangi. Architektonisch spiegelt das Gebäude den funktionalen Übergang von der französischen Kolonialverwaltung zur Post-Unabhängigkeits-Ära wider. Als Hauptsitz der städtischen Regierung beherbergt das Rathaus den Bürgermeister und den Stadtrat, die für die Verwaltung einer schnell wachsenden Metropole mit rund 800.000 Einwohnern zuständig sind. Die wirtschaftliche Rolle des Rathauses ist entscheidend für die lokale Ökonomie, da hier die Genehmigungen für den formellen und informellen Handel, die Marktplätze und die Registrierung von Eigentum verwaltet werden. In der Geschichte des Landes war die städtische Verwaltung oft durch politische Instabilität und Unterfinanzierung gelähmt, was die Aufrechterhaltung der öffentlichen Infrastruktur wie Müllabfuhr und Straßeninstandhaltung extrem erschwert hat. Trotz dieser enormen strukturellen Herausforderungen bleibt das Hôtel de Ville das bürokratische Herzstück der Stadt und ein Anlaufpunkt für die Bürger.",
+        "hu": "Bangui Városházája (Hôtel de Ville) a Közép-afrikai Köztársaság fővárosának közigazgatási központja. Az épület a központi kerületben található, nem messze az Ubangi-folyó partjától. Építészetileg az épület a francia gyarmati közigazgatásból a függetlenség utáni korszakba való funkcionális átmenetet tükrözi. A városi önkormányzat székhelyeként a városháza ad otthont a polgármesternek és a városi tanácsnak, akik egy gyorsan növekvő, mintegy 800 000 lakosú metropolisz igazgatásáért felelősek. A városháza gazdasági szerepe döntő fontosságú a helyi ökonómia számára, mivel itt kezelik a formális és informális kereskedelemhez, a piacokhoz és a tulajdonjog bejegyzéséhez szükséges engedélyeket. Az ország történelme során a városi közigazgatást gyakran megbénította a politikai instabilitás és az alulfinanszírozottság, ami rendkívül megnehezítette az olyan állami infrastruktúrák fenntartását, mint a szemétszállítás és az utak karbantartása. E hatalmas strukturális kihívások ellenére a Hôtel de Ville a város bürokratikus szíve maradt.",
+        "ro": "Primăria din Bangui (Hôtel de Ville) este centrul administrativ al capitalei Republicii Centrafricane. Clădirea este situată în districtul central, nu departe de malurile fluviului Ubangi. Din punct de vedere arhitectural, clădirea reflectă tranziția funcțională de la administrația colonială franceză la era post-independență. Ca sediu al guvernului municipal, primăria găzduiește primarul și consiliul municipal, care sunt responsabili pentru administrarea unei metropole cu o creștere rapidă de aproximativ 800.000 de locuitori. Rolul economic al primăriei este crucial pentru economia locală, deoarece aici sunt gestionate autorizațiile pentru comerțul formal și informal, piețele și înregistrarea proprietăților. De-a lungul istoriei țării, administrația municipală a fost adesea paralizată de instabilitatea politică și de subfinanțare, ceea ce a făcut extrem de dificilă menținerea infrastructurii publice. În ciuda acestor provocări structurale, rămâne inima birocratică a orașului.",
+        "en": "The Bangui Town Hall (Hôtel de Ville) is the administrative center of the capital of the Central African Republic. The building is located in the central urban district, not far from the banks of the Ubangi River. Architecturally, the building reflects the functional transition from the French colonial administration to the post-independence era. As the headquarters of the municipal government, the Town Hall houses the mayor and the city council, who are responsible for managing a rapidly growing metropolis of roughly 800,000 residents. The economic role of the Town Hall is crucial for the local economy, as it manages permits for formal and informal trade, marketplaces, and property registration. Throughout the country's history, municipal administration has often been paralyzed by political instability and severe underfunding, making the maintenance of public infrastructure like waste collection and road repair extremely difficult. Despite these massive structural challenges, the Hôtel de Ville remains the bureaucratic heart of the city."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude ist der Hauptsitz der städtischen Regierung.",
+          "Es liegt im Stadtzentrum nahe dem Fluss Ubangi.",
+          "Die Architektur zeigt den Übergang nach der Kolonialzeit.",
+          "Das Rathaus verwaltet Lizenzen für lokale Märkte.",
+          "Die Stadtverwaltung leidet oft unter Unterfinanzierung."
+        ],
+        "hu": [
+          "Az épület a helyi városi önkormányzat hivatalos székhelye.",
+          "A központban fekszik, nagyon közel az Ubangi-folyóhoz.",
+          "Az építészet a függetlenség utáni átmenetet tükrözi.",
+          "A városháza kezeli a helyi piacok működési engedélyeit.",
+          "A városvezetést gyakran sújtja a krónikus alulfinanszírozottság."
+        ],
+        "ro": [
+          "Clădirea este sediul principal al guvernului municipal.",
+          "Este situată în centrul orașului, lângă fluviul Ubangi.",
+          "Arhitectura arată tranziția după perioada colonială.",
+          "Primăria gestionează licențele pentru piețele locale.",
+          "Administrația orașului suferă frecvent de subfinanțare."
+        ],
+        "en": [
+          "The building is the primary headquarters of the city government.",
+          "It is located downtown near the banks of the Ubangi River.",
+          "The architecture displays the post-colonial transition.",
+          "The Town Hall manages operation licenses for local markets.",
+          "The municipal administration frequently suffers from underfunding."
+        ]
+      }
+    },
+    {
+      "id": "musee-boganda-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Barthélemy-Boganda-Nationalmuseum (Musée Boganda) ist die wichtigste kulturelle Institution der Zentralafrikanischen Republik, gelegen in der Hauptstadt Bangui. Es wurde in den 1960er Jahren gegründet und widmet sich der Bewahrung und Ausstellung der reichen ethnografischen Vielfalt des Landes. Das Museum beherbergte traditionell eine umfangreiche Sammlung von Artefakten der Pygmäen-Kultur (insbesondere der Aka), darunter traditionelle Musikinstrumente, Holzschnitzereien, Töpferwaren, Jagdwaffen und rituelle Masken. Tragischerweise wurde die Institution während des brutalen Bürgerkriegs im Jahr 2013 schwer in Mitleidenschaft gezogen, als das Gebäude fast vollständig geplündert wurde. Tausende von unersetzlichen kulturellen Objekten gingen verloren oder wurden auf dem Schwarzmarkt verkauft. Die wirtschaftliche Situation des Museums ist stark von internationaler Hilfe abhängig, da der Staat kaum Mittel für die Kulturförderung bereitstellen kann. Tourismus, der normalerweise solche Museen finanziert, ist praktisch inexistent. Das Musée Boganda steht heute symbolisch für den Kampf um den Erhalt der nationalen Identität in einem von Konflikten zerrissenen Land.",
+        "hu": "A Barthélemy Boganda Nemzeti Múzeum (Musée Boganda) a Közép-afrikai Köztársaság legfontosabb kulturális intézménye, amely a fővárosban, Banguiban található. Az 1960-as években alapították, és az ország gazdag néprajzi sokszínűségének megőrzésének és bemutatásának szentelték. A múzeum hagyományosan a pigmeus kultúra (különösen az aka népcsoport) tárgyi emlékeinek kiterjedt gyűjteményének adott otthont, beleértve a hagyományos hangszereket, fafaragásokat, kerámiákat, vadászfegyvereket és rituális maszkokat. Tragikus módon az intézmény a 2013-as brutális polgárháború során súlyosan megrongálódott, amikor az épületet szinte teljesen kifosztották. Pótolhatatlan kulturális tárgyak ezrei vesztek el vagy kerültek a feketepiacra. A múzeum gazdasági helyzete nagymértékben függ a nemzetközi segélyektől, mivel az állam alig tud forrásokat biztosítani a kultúra támogatására. A turizmus, amely az ilyen múzeumokat általában finanszírozza, gyakorlatilag nem létezik. A Musée Boganda ma a nemzeti identitás megőrzéséért folytatott küzdelem szimbóluma egy konfliktusok által sújtott országban.",
+        "ro": "Muzeul Național Barthélemy Boganda (Musée Boganda) este cea mai importantă instituție culturală din Republica Centrafricană, situată în capitala Bangui. A fost fondat în anii 1960 și este dedicat păstrării și expunerii bogatei diversități etnografice a țării. Muzeul a găzduit în mod tradițional o colecție vastă de artefacte ale culturii pigmeilor (în special ale poporului Aka), incluzând instrumente muzicale tradiționale, sculpturi în lemn, ceramică, arme de vânătoare și măști rituale. În mod tragic, instituția a fost grav afectată în timpul războiului civil brutal din 2013, când clădirea a fost aproape complet jefuită. Mii de obiecte culturale de neînlocuit au fost pierdute sau vândute pe piața neagră. Situația economică a muzeului depinde în mare măsură de asistența internațională, deoarece statul cu greu poate oferi fonduri pentru promovarea culturală. Turismul, care finanțează în mod normal astfel de muzee, este practic inexistent. Musée Boganda reprezintă astăzi lupta pentru păstrarea identității naționale.",
+        "en": "The Barthélemy Boganda National Museum (Musée Boganda) is the most important cultural institution in the Central African Republic, located in the capital city of Bangui. Founded in the 1960s, it is dedicated to preserving and exhibiting the rich ethnographic diversity of the country. The museum traditionally housed an extensive collection of artifacts from Pygmy culture (specifically the Aka people), including traditional musical instruments, wood carvings, pottery, hunting weapons, and ritual masks. Tragically, the institution was severely impacted during the brutal civil war in 2013, when the building was almost completely looted. Thousands of irreplaceable cultural objects were lost or sold on the black market. The economic situation of the museum is heavily dependent on international aid, as the state can barely provide funds for cultural promotion. Tourism, which normally finances such museums, is practically non-existent. Today, the Musée Boganda stands as a symbol of the struggle to preserve national identity in a country torn apart by ongoing conflict."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Museum wurde in den 1960er Jahren gegründet.",
+          "Es zeigte Artefakte der indigenen Pygmäen-Kultur.",
+          "Im Bürgerkrieg 2013 wurde es fast vollständig geplünderte.",
+          "Es ist nach dem ersten Premierminister des Landes benannt.",
+          "Der Erhalt hängt fast komplett von internationalen Hilfen ab."
+        ],
+        "hu": [
+          "A múzeumot eredetileg az 1960-as években alapították.",
+          "A helyi őslakos pigmeus kultúra tárgyait mutatta be.",
+          "A 2013-as polgárháborúban szinte teljesen kifosztották.",
+          "Az ország első miniszterelnökéről kapta a nevét.",
+          "Fennmaradása ma már szinte teljesen a nemzetközi segélyektől függ."
+        ],
+        "ro": [
+          "Muzeul a fost fondat inițial în anii 1960.",
+          "A expus numeroase artefacte ale culturii indigene pigmee.",
+          "În timpul războiului civil din 2013 a fost complet jefuit.",
+          "Este numit după primul prim-ministru al țării.",
+          "Conservarea sa depinde aproape în totalitate de ajutor extern."
+        ],
+        "en": [
+          "The museum was originally founded in the 1960s.",
+          "It exhibited historical artifacts of the indigenous Pygmy culture.",
+          "It was almost completely looted during the 2013 civil war.",
+          "It is named in honor of the country's first Prime Minister.",
+          "Its preservation relies almost entirely on international aid."
+        ]
+      }
+    },
+    {
+      "id": "universite-de-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Universität Bangui (Université de Bangui) ist die einzige öffentliche Universität in der Zentralafrikanischen Republik und das akademische Zentrum des Landes. Sie wurde 1969 gegründet, als sie aus einem früheren landwirtschaftlichen Institut hervorging. Der Campus befindet sich in der Hauptstadt und beherbergt Fakultäten für Geisteswissenschaften, Recht, Wirtschaft, Medizin und Naturwissenschaften. Historisch gesehen war die Universität oft das Epizentrum für politische Bewegungen; Studentenproteste haben mehrfach die nationale Politik beeinflusst. Wirtschaftlich betrachtet ist die Universität der wichtigste Motor für die Ausbildung von qualifizierten Arbeitskräften für den stark unterentwickelten öffentlichen Sektor und die wenigen formellen Unternehmen des Landes. Dennoch steht die Institution vor massiven Herausforderungen: Chronische Unterfinanzierung, überfüllte Hörsäle, ein Mangel an modernem Lehrmaterial und häufige Streiks des Lehrpersonals wegen ausbleibender Gehaltszahlungen spiegeln die breitere makroökonomische Krise der Zentralafrikanischen Republik wider. Die Universität stützt sich teilweise auf akademische Kooperationen mit Frankreich und internationalen Organisationen.",
+        "hu": "A Bangui Egyetem (Université de Bangui) a Közép-afrikai Köztársaság egyetlen állami egyeteme és az ország akadémiai központja. 1969-ben alapították, amikor egy korábbi mezőgazdasági főiskolából fejlődött ki. A kampusz a fővárosban található, és bölcsészettudományi, jogi, közgazdasági, orvosi és természettudományi karoknak ad otthont. Történelmileg az egyetem gyakran volt politikai mozgalmak epicentruma; a diáktüntetések többször is befolyásolták a nemzeti politikát. Gazdasági szempontból az egyetem a legfontosabb motorja a képzett munkaerő képzésének, akik az erősen alulfejlett közszférában és az ország kevés formális vállalatánál helyezkednek el. Az intézmény azonban hatalmas kihívásokkal küzd: a krónikus alulfinanszírozottság, a túlzsúfolt előadótermek, a modern tananyagok hiánya és az elmaradt fizetések miatti gyakori tanári sztrájkok hűen tükrözik a Közép-afrikai Köztársaság szélesebb körű makrogazdasági válságát. Az egyetem részben Franciaországgal és nemzetközi szervezetekkel folytatott akadémiai együttműködésekre támaszkodik.",
+        "ro": "Universitatea din Bangui (Université de Bangui) este singura universitate publică din Republica Centrafricană și centrul academic al țării. A fost fondată în 1969, evoluând dintr-un fost institut agricol. Campusul este situat în capitală și găzduiește facultăți de științe umaniste, drept, economie, medicină și științe naturale. Din punct de vedere istoric, universitatea a fost adesea epicentrul mișcărilor politice; protestele studențești au influențat politica națională de mai multe ori. Din punct de vedere economic, universitatea este cel mai important motor pentru formarea de muncitori calificați pentru sectorul public puternic subdezvoltat și pentru puținele companii formale din țară. Cu toate acestea, instituția se confruntă cu provocări masive: subfinanțare cronică, săli de curs supraaglomerate, lipsa materialelor didactice moderne și greve frecvente ale personalului didactic din cauza neplății salariilor, toate reflectând criza macroeconomică a țării. Universitatea se bazează parțial pe cooperarea academică internațională.",
+        "en": "The University of Bangui (Université de Bangui) is the only public university in the Central African Republic and serves as the academic core of the nation. It was founded in 1969, evolving from an earlier agricultural college. The campus is located in the capital and houses faculties for humanities, law, economics, medicine, and natural sciences. Historically, the university has frequently been the epicenter for political movements; student protests have influenced national politics on multiple occasions. Economically, the university is the most important engine for training skilled labor for the highly underdeveloped public sector and the country's few formal enterprises. However, the institution faces massive challenges: chronic underfunding, overcrowded lecture halls, a lack of modern teaching materials, and frequent strikes by teaching staff due to unpaid salaries accurately reflect the broader macroeconomic crisis of the Central African Republic. The university relies partially on academic cooperation with France and international organizations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist die einzige öffentliche Universität des Landes.",
+          "Die Institution wurde offiziell im Jahr 1969 gegründet.",
+          "Der Campus beherbergt unter anderem eine medizinische Fakultät.",
+          "Studentenproteste auf dem Campus prägten oft die Politik.",
+          "Die Universität leidet unter extrem chronischem Geldmangel."
+        ],
+        "hu": [
+          "Ez a Közép-afrikai Köztársaság egyetlen állami egyeteme.",
+          "Az intézményt hivatalosan 1969-ben alapították.",
+          "A kampuszon többek között orvostudományi kar is működik.",
+          "Az itteni diáktüntetések többször is formálták a politikát.",
+          "Az egyetem szélsőséges és krónikus pénzhiánytól szenved."
+        ],
+        "ro": [
+          "Este singura universitate publică din întreaga țară.",
+          "Instituția a fost fondată oficial în anul 1969.",
+          "Campusul găzduiește, printre altele, o facultate de medicină.",
+          "Protestele studențești de aici au modelat adesea politica.",
+          "Universitatea suferă de o lipsă cronică și severă de fonduri."
+        ],
+        "en": [
+          "It is the only public university in the entire country.",
+          "The educational institution was officially founded in 1969.",
+          "The campus houses a functioning medical faculty, among others.",
+          "Student protests on campus have frequently shaped national politics.",
+          "The university suffers from an extreme and chronic lack of funding."
+        ]
+      }
+    },
+    {
+      "id": "grand-marche-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Grand Marché (Zentralmarkt) von Bangui ist das absolut pulsierende wirtschaftliche Herzstück der zentralafrikanischen Hauptstadt. Er erstreckt sich über ein weites Areal im Zentrum der Stadt und besteht aus einem verwirrenden Labyrinth von Verkaufsständen, kleinen Läden und fliegenden Händlern. Der Markt ist die primäre Versorgungsquelle für die städtische Bevölkerung. Hier werden lokale landwirtschaftliche Erzeugnisse wie Maniok, Erdnüsse, Palmöl und Bushmeat (Wildfleisch) direkt neben importierten Textilien, Elektronik und Haushaltswaren verkauft. Historisch und wirtschaftlich zeigt der Grand Marché die pure Realität der Zentralafrikanischen Republik: Da der formelle Sektor extrem schwach ist, bestreitet die überwiegende Mehrheit der Bürger ihren Lebensunterhalt im informellen Handel auf diesem Markt. Die Preise und die Verfügbarkeit von Waren hängen kritisch vom Transportkorridor ab, der Bangui mit dem Seehafen von Douala in Kamerun verbindet. Der Markt verfügt kaum über moderne Infrastruktur wie Kühlketten oder feste Dächer, ist aber für das tägliche Überleben der Stadtbevölkerung unverzichtbar.",
+        "hu": "A bangui Grand Marché (Központi Piac) a közép-afrikai főváros lüktető gazdasági szíve. A város központjában egy hatalmas területen terül el, és bódék, kis boltok, valamint mozgóárusok szövevényes labirintusából áll. A piac a városi lakosság elsődleges ellátási forrása. A helyi mezőgazdasági termékeket, például a maniókát, a földimogyorót, a pálmaolajat és a vadhúst (bushmeat) közvetlenül az importált textíliák, elektronikai cikkek és háztartási áruk mellett árulják. Történelmi és gazdasági szempontból a Grand Marché a Közép-afrikai Köztársaság nyers valóságát mutatja: mivel a formális gazdasági szektor rendkívül gyenge, a polgárok túlnyomó többsége az ezen a piacon zajló informális kereskedelemből keresi a kenyerét. Az árak és az áruk elérhetősége kritikusan függ attól a tranzitfolyosótól, amely Banguit a kameruni Douala tengeri kikötőjével köti össze. A piac alig rendelkezik modern infrastruktúrával, például hűtőláncokkal vagy szilárd tetőkkel, mégis nélkülözhetetlen a városi lakosság mindennapi túléléséhez.",
+        "ro": "Grand Marché (Piața Centrală) din Bangui este inima economică vibrantă a capitalei centrafricane. Se întinde pe o suprafață vastă în centrul orașului și constă dintr-un labirint confuz de tarabe, mici magazine și vânzători ambulanți. Piața este principala sursă de aprovizionare pentru populația urbană. Aici, produsele agricole locale, cum ar fi maniocul, alunele, uleiul de palmier și carnea de vânat, sunt vândute chiar lângă textile importate, electronice și bunuri de uz casnic. Din punct de vedere istoric și economic, Grand Marché prezintă realitatea pură a Republicii Centrafricane: deoarece sectorul formal este extrem de slab, marea majoritate a cetățenilor își câștigă existența din comerțul informal din această piață. Prețurile și disponibilitatea mărfurilor depind în mod critic de coridorul de transport care leagă Bangui de portul maritim Douala din Camerun. Piața nu dispune de infrastructură modernă, dar este indispensabilă pentru supraviețuirea zilnică a populației urbane.",
+        "en": "The Grand Marché (Central Market) of Bangui is the absolute pulsating economic heart of the Central African capital. It stretches across a vast area in the city center and consists of a confusing labyrinth of market stalls, small shops, and roving vendors. The market is the primary source of provisions for the urban population. Local agricultural produce such as cassava, peanuts, palm oil, and bushmeat are sold right next to imported textiles, electronics, and household goods. Historically and economically, the Grand Marché displays the raw reality of the Central African Republic: because the formal economic sector is extremely weak, the vast majority of citizens earn their living through informal trade in this market. Prices and the availability of goods depend critically on the transport corridor that connects Bangui with the seaport of Douala in neighboring Cameroon. The market has almost no modern infrastructure, such as cold chains or permanent roofing, yet it is absolutely indispensable for the daily survival of the city's population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der größte und wichtigste Markt in ganz Bangui.",
+          "Der Großteil des Handels findet hier rein informell statt.",
+          "Angeboten werden lokale Erntegüter und Importwaren.",
+          "Der Markt sichert das tägliche Überleben vieler Familien.",
+          "Es fehlt größtenteils an einer modernen Infrastruktur."
+        ],
+        "hu": [
+          "Ez Bangui és az egész ország legnagyobb bevásárló piaca.",
+          "A kereskedelem túlnyomó része tisztán informálisan zajlik.",
+          "Helyi mezőgazdasági termékeket és import árukat is kínálnak.",
+          "A piac rengeteg helyi család mindennapi túlélését biztosítja.",
+          "A terület szinte teljesen mentes a modern infrastruktúrától."
+        ],
+        "ro": [
+          "Este cea mai mare și mai importantă piață din Bangui.",
+          "Marea majoritate a comerțului de aici este pur informal.",
+          "Sunt oferite culturi agricole locale și bunuri de import.",
+          "Piața asigură supraviețuirea zilnică a multor familii.",
+          "Lipsește în mare măsură orice infrastructură modernă."
+        ],
+        "en": [
+          "It is the largest and most critical market in all of Bangui.",
+          "The vast majority of trade conducted here is purely informal.",
+          "Both local agricultural crops and imported goods are offered.",
+          "The market ensures the daily survival of countless local families.",
+          "It largely lacks any modern commercial or sanitation infrastructure."
+        ]
+      }
+    },
+    {
+      "id": "aeroport-m-poko-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der internationale Flughafen Bangui M'Poko ist das wichtigste und einzige internationale Luftfahrttor der Zentralafrikanischen Republik. Er liegt nordwestlich des Stadtzentrums von Bangui und verfügt über eine einzige Landebahn. Wirtschaftlich ist der Flughafen von existenzieller Bedeutung für das Binnenland, da er die Logistik für internationale Hilfslieferungen, die UN-Friedensmission MINUSCA und den Export von hochpreisigen Gütern wie Rohdiamanten ermöglicht. Der kommerzielle Passagierverkehr ist auf wenige Verbindungen nach Paris und regionale afrikanische Drehkreuze beschränkt. Historisch gesehen schrieb der Flughafen während der schweren Krise von 2013 bis 2014 Weltgeschichte: Das weite Gelände rund um die Landebahn verwandelte sich in ein massives, improvisiertes Flüchtlingslager, in dem zeitweise über 100.000 Binnenvertriebene (IDPs) Schutz vor der sektiererischen Gewalt suchten, bewacht von französischen Truppen. Die Infrastruktur des Terminals ist veraltet, jedoch ist der Flughafen als logistische Lebensader für das geopolitisch isolierte Land absolut unersetzlich.",
+        "hu": "A Bangui M'Poko Nemzetközi Repülőtér a Közép-afrikai Köztársaság legfontosabb és egyetlen nemzetközi légiközlekedési kapuja. Bangui városközpontjától északnyugatra fekszik, és egyetlen kifutópályával rendelkezik. Gazdasági szempontból a repülőtér létfontosságú a tengerparttal nem rendelkező ország számára, mivel ez teszi lehetővé a nemzetközi segélyszállítmányok logisztikáját, a MINUSCA ENSZ-békefenntartó misszió mozgását és a nagy értékű áruk, például a nyers gyémántok exportját. A kereskedelmi személyforgalom néhány Párizsba és afrikai csomópontokba induló járatra korlátozódik. Történelmileg a repülőtér a 2013-2014-es súlyos válság idején írt világtörténelmet: a kifutópálya körüli hatalmas terület egy masszív, rögtönzött menekülttáborrá változott, ahol időnként több mint 100 000 belső menekült (IDP) keresett menedéket a szektás erőszak elől, francia csapatok védelme alatt. A terminál infrastruktúrája elavult, de a repülőtér logisztikai mentőövként teljesen pótolhatatlan a geopolitikailag elszigetelt ország számára.",
+        "ro": "Aeroportul Internațional Bangui M'Poko este cea mai importantă și singura poartă aeriană internațională din Republica Centrafricană. Este situat la nord-vest de centrul orașului Bangui și are o singură pistă. Din punct de vedere economic, aeroportul este de o importanță existențială pentru această țară fără ieșire la mare, deoarece facilitează logistica pentru livrările internaționale de ajutoare, misiunea ONU de menținere a păcii MINUSCA și exportul de bunuri de mare valoare, cum ar fi diamantele brute. Traficul comercial de pasageri este limitat la câteva conexiuni către Paris și noduri africane. Istoric, aeroportul a făcut istorie în timpul crizei severe din 2013-2014: terenul vast din jurul pistei s-a transformat într-o tabără masivă de refugiați improvizată, unde uneori peste 100.000 de persoane strămutate intern au căutat refugiu din calea violenței, păzite de trupele franceze. Infrastructura terminalului este depășită, însă aeroportul rămâne o colac de salvare logistic absolut de neînlocuit.",
+        "en": "Bangui M'Poko International Airport is the most important and only international aviation gateway in the Central African Republic. It is located northwest of Bangui's city center and features a single runway. Economically, the airport is of existential importance to the landlocked country, as it facilitates the logistics for international aid deliveries, the UN peacekeeping mission MINUSCA, and the export of high-value goods such as rough diamonds. Commercial passenger traffic is highly limited to a few connections to Paris and regional African hubs. Historically, the airport made world history during the severe crisis of 2013 to 2014: the vast grounds surrounding the runway transformed into a massive, improvised refugee camp where, at times, over 100,000 internally displaced persons (IDPs) sought refuge from sectarian violence, protected by French military troops. While the terminal's infrastructure is outdated, the airport is absolutely irreplaceable as a logistical lifeline for the geopolitically isolated country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der einzige internationale Flughafen des Landes.",
+          "Der Flughafen verfügt über genau eine Start- und Landebahn.",
+          "Er ist logistisch essenziell für internationale UN-Hilfen.",
+          "Rohdiamanten werden oft über diesen Flughafen exportiert.",
+          "2013 diente das Gelände als gigantisches Flüchtlingslager."
+        ],
+        "hu": [
+          "Ez az ország egyetlen nemzetközi forgalmú repülőtere.",
+          "A repülőtér egyetlen aszfaltozott kifutópályával rendelkezik.",
+          "Logisztikailag létfontosságú az ENSZ segélyszállítmányaihoz.",
+          "A nyers gyémántokat gyakran ezen a repülőtéren exportálják.",
+          "2013-ban a terület gigantikus menekülttáborként funkcionált."
+        ],
+        "ro": [
+          "Este singurul aeroport internațional din întreaga țară.",
+          "Aeroportul dispune de o singură pistă de aterizare.",
+          "Este esențial din punct de vedere logistic pentru ajutorul ONU.",
+          "Diamantele brute sunt adesea exportate prin acest aeroport.",
+          "În 2013, incinta a servit drept o tabără uriașă de refugiați."
+        ],
+        "en": [
+          "It operates as the only international airport in the country.",
+          "The airport features exactly one paved runway for flights.",
+          "It is logistically essential for international UN aid missions.",
+          "Rough diamonds are frequently exported through this airport.",
+          "In 2013, the grounds served as a massive refugee camp."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "timbo-mosque-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Moschee von Timbo ist ein spirituelles Monument von herausragender Bedeutung und markiert das historische Herz des Imamats von Fouta Djallon. Timbo war im 18. und 19. Jahrhundert die politische und religiöse Hauptstadt des theokratischen Staates der Peul (Fula). Geografisch liegt der Ort in der Präfektur Mamou, eingebettet in die sanften Hügel des zentralen Hochlandes. Die ursprüngliche Moschee wurde nach dem Dschihad von 1725 errichtet und diente als Ort, an dem die Almamys – die souveränen Herrscher des Reiches – gekrönt wurden. Die Architektur der heutigen Moschee bewahrt trotz Modernisierungen den Geist der traditionellen sakralen Bauweise der Region. Historisch war Timbo das Zentrum der islamischen Gelehrsamkeit und der Ort, an dem die Gesetzgebung für die neun Provinzen des Imamats festgelegt wurde. Für das Volk der Peul ist Timbo ein Symbol ihrer kulturellen Identität und ihres religiösen Erbes. Die Stätte ist nicht nur ein Gebetshaus, sondern ein lebendiges Geschichtsbuch, das von der Organisation eines der stabilsten vorkolonialen Staaten Westafrikas erzählt. Besucher finden hier eine Atmosphäre der Ruhe und spirituellen Tiefe vor, die die jahrhundertealte Tradition der Region widerspiegelt.",
+        "hu": "A timbói mecset Guinea egyik legfontosabb szellemi központja, amely a Fouta Djallon Imamátus történelmi szívét jelképezi. Timbo a 18. és 19. században a fula (peul) teokratikus állam politikai és vallási fővárosa volt. A Mamou prefektúrában található település dombos vidéke ad otthont ennek a szakrális helynek, amelyet az 1725-ös dzsihád után alapítottak. Itt koronázták meg az imamátus uralkodóit, az almamikat, és itt hozták meg a birodalom kilenc tartományát érintő legfontosabb jogi és vallási döntéseket. A mecset építészete, bár az idők folyamán többször megújult, hűen tükrözi a felföldi iszlám építészet méltóságát. Történelmileg Timbo az iszlám oktatás és tudományosság fellegvára volt, ahová Nyugat-Afrika minden részéről érkeztek tanulni vágyók. A fula nép számára a település az önazonosságuk és dicső múltjuk legfontosabb jelképe. A látogatók számára a mecset és a környékbeli uralkodói sírok bepillantást engednek egy olyan államszervezet működésébe, amely évszázadokon át ellenállt a külső befolyásoknak és megőrizte belső autonómiáját.",
+        "ro": "Moscheea din Timbo este un monument spiritual de o importanță capitală, marcând inima istorică a Imamitului Fouta Djallon. Timbo a servit drept capitală politică și religioasă a statului teocratic al poporului Fula (Peul) în secolele al XVIII-lea și al XIX-lea. Situată în prefectura Mamou, această localitate a fost punctul central de unde Almamys – conducătorii suverani – își exercitau autoritatea. Moscheea originală a fost construită în urma jihadului din 1725, fiind locul sacru de încoronare și de rugăciune colectivă pentru elitele imperiului. Arhitectura actuală, deși modernizată, păstrează elemente stilistice ale construcțiilor sacre montane. Din punct de vedere istoric, Timbo a fost un faimos centru de erudiție islamică, unde se studiau dreptul și teologia. Pentru comunitatea Fula, Timbo reprezintă simbolul identității lor culturale și al rezistenței statale precoloniale. Situl nu este doar un lăcaș de cult, ci și un martor al organizării administrative sofisticate a celor nouă provincii (diwal) ale imamitului. Vizitatorii pot simți aici o atmosferă de reverență, Timbo rămânând până astăzi o destinație de referință pentru pelerinajul cultural și religios din Guineea.",
+        "en": "The Timbo Mosque is a spiritual landmark of paramount importance, representing the historical heart of the Fouta Djallon Imamate. During the 18th and 19th centuries, Timbo served as the political and religious capital of the Peul (Fula) theocratic state. Located in the Mamou Prefecture, the town is nestled among the rolling hills of the central highlands. The original mosque was established following the jihad of 1725 and was the traditional site where the Almamys—the sovereign rulers of the empire—were crowned. While the structure has been renovated over time, it retains the essence of the region's traditional sacred architecture. Historically, Timbo was a major center for Islamic scholarship, attracting students from across West Africa to study law and theology. For the Fula people, Timbo is a symbol of their cultural identity and ancestral pride. The site stands as a testament to one of the most stable and well-organized pre-colonial states in the region. Visitors to the mosque find an atmosphere of tranquility and spiritual depth that echoes centuries of religious devotion and political authority."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Timbo war die offizielle Hauptstadt des Imamats von Fouta Djallon.",
+          "Die Moschee war der Ort der Amtseinführung der Almamys.",
+          "Der Standort wurde 1725 nach dem Sieg der muslimischen Peul gewählt.",
+          "Das Imamat war in neun administrative Provinzen unterteilt.",
+          "Timbo gilt als die 'Mutter der Moscheen' im Fouta Djallon.",
+          "Die Stätte beherbergt Gräber bedeutender religiöser Führer."
+        ],
+        "hu": [
+          "Timbo a Fouta Djallon Imamátus hivatalos fővárosa volt.",
+          "A mecset szolgált az uralkodó almamik beiktatási szertartásainak helyszínéül.",
+          "A várost az 1725-ös győztes vallási háború után tették központtá.",
+          "Innen irányították a birodalom kilenc közigazgatási egységét (diwal).",
+          "A timbói mecsetet a felföldi mecsetek 'anyjaként' tisztelik.",
+          "A település fontos iszlám jogi és teológiai központ volt évszázadokon át."
+        ],
+        "ro": [
+          "Timbo a fost sediul puterii politice a celor nouă provincii din Fouta Djallon.",
+          "Moscheea este considerată cel mai vechi centru de rugăciune din regiune.",
+          "Aici se păstrează tradiția orală a genezei statului teocratic Fula.",
+          "Almamy Ibrahima Sambégou (Karamoko Alpha) a fost fondatorul spiritual al locului.",
+          "Localitatea este situată la o altitudine ce domină văile din Mamou.",
+          "Situl este un punct de referință pentru studiile istorice despre islamul vest-african."
+        ],
+        "en": [
+          "Timbo was the official administrative capital of the Fouta Djallon Imamate.",
+          "The mosque was the exclusive site for the coronation of the Almamys.",
+          "The town's significance dates back to the Islamic revolution of 1725.",
+          "It served as the judicial heart for the empire's nine provinces.",
+          "Timbo is often called the 'Mother of Mosques' in the Guinean highlands.",
+          "The grounds contain the tombs of several prominent sovereign leaders."
+        ]
+      }
+    },
+    {
+      "id": "benty-port-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kolonialhafen von Benty, gelegen in der Präfektur Forécariah im äußersten Süden Guineas, ist ein melancholisches Zeugnis der wirtschaftlichen Ambitionen der Kolonialzeit. Ende des 19. und in der ersten Hälfte des 20. Jahrhunderts war Benty einer der wichtigsten Umschlagplätze für Agrarprodukte, insbesondere für den Export von Bananen nach Europa. Geografisch liegt der Hafen an einem geschützten Ästuar nahe der Grenze zu Sierra Leone. Die Architektur des Ortes ist durch die verfallenden Überreste kolonialer Lagerhäuser, Verwaltungsgebäude und die Kaimauern geprägt, die einst Zeugen eines regen Treibens waren. Historisch markiert Benty die Integration Guineas in den globalen Welthandel unter französischer Herrschaft, wobei die Region Forécariah als das Zentrum der Bananenproduktion galt. Mit der Unabhängigkeit und der Verlagerung der Handelsströme nach Conakry verlor der Hafen an Bedeutung und versank in einem Dornröschenschlaf. Heute strahlt Benty eine nostalgische Atmosphäre aus, in der die Natur langsam die kolonialen Strukturen zurückerobert. Für Historiker bietet der Ort wertvolle Einblicke in die maritime Logistik und die Infrastrukturplanung des frühen 20. Jahrhunderts. Trotz des Verfalls bleibt Benty ein wichtiger Erinnerungsort für die lokale Bevölkerung, der an die Zeit erinnert, als die Region ein wirtschaftliches Kraftzentrum des Landes war.",
+        "hu": "A Forécariah prefektúrában, Guinea déli határánál található Benty koloniális kikötője a gyarmati korszak gazdasági törekvéseinek egyik legérdekesebb mementója. A 19. század végétől a 20. század közepéig Benty az ország egyik legfontosabb exportkapuja volt, ahonnan tonnaszámra szállították a guineai banánt az európai piacokra. Földrajzilag a kikötő egy védett folyótorkolatnál fekszik, stratégiai közelségben a mai Sierra Leone határához. A település arculatát ma a lassan az enyészeté váló gyarmati raktárépületek, igazgatási irodák és a masszív kikötői mólók maradványai határozzák meg. Történelmileg Benty a francia gyarmati gazdaság egyik tartóoszlopa volt, hiszen a környékbeli ültetvények termése innen indult útnak. A függetlenség elnyerése után, a kereskedelmi útvonalak átrendeződésével és Conakry kikötőjének fejlődésével Benty fokozatosan elveszítette jelentőségét. Ma a helyszínt különleges, nosztalgikus hangulat lengi körbe, ahol a trópusi növényzet fokozatosan visszahódítja az egykori épületeket. A látogatók számára Benty egy elfeledett korszak emlékeit őrzi, tanúskodva a tengeri kereskedelem és az ültetvényes gazdálkodás egykori fénykoráról.",
+        "ro": "Portul colonial Benty, situat în prefectura Forécariah, la extremitatea sudică a Guineei, este o mărturie melancolică a ambițiilor economice din epoca colonială. La sfârșitul secolului al XIX-lea și în prima jumătate a secolului XX, Benty a fost unul dintre cele mai importante puncte de tranzit pentru produsele agricole, în special pentru exportul de banane către Europa. Geografic, portul este amplasat într-un estuar protejat, aproape de frontiera cu Sierra Leone. Arhitectura locului este definită de rămășițele în descompunere ale depozitelor coloniale, clădirilor administrative și cheiurilor care odinioară erau martorele unei activități intense. Din punct de vedere istoric, Benty marchează integrarea Guineei în comerțul mondial sub dominație franceză, regiunea Forécariah fiind atunci inima producției de fructe a coloniei. Odată cu independența și concentrarea fluxurilor comerciale în Conakry, portul și-a pierdut relevanța strategică. Astăzi, Benty emană o atmosferă nostalgică, natura recuperând treptat structurile construite de om. Pentru istorici, situl oferă perspective valoroase asupra logisticii maritime și planificării infrastructurii de la începutul secolului XX, rămânând un punct de memorie important pentru comunitatea locală.",
+        "en": "The colonial port of Benty, located in the Forécariah Prefecture at the southern tip of Guinea, stands as a melancholic witness to the economic ambitions of the colonial era. From the late 19th century through the mid-20th century, Benty was one of the most vital transit points for agricultural exports, specifically serving as the main gateway for Guinean bananas destined for Europe. Geographically, the port is situated on a sheltered estuary near the border with Sierra Leone. The town's architecture is characterized by the decaying remains of colonial warehouses, administrative offices, and stone quays that once bustled with activity. Historically, Benty marks Guinea's integration into global trade networks under French rule, with the surrounding Forécariah region serving as the colony's primary plantation hub. Following independence and the centralization of trade in Conakry, the port fell into decline and was eventually largely abandoned. Today, Benty exudes a nostalgic atmosphere where tropical nature is slowly reclaiming the colonial structures. For historians, the site offers unique insights into early 20th-century maritime logistics and the infrastructure of the plantation economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Benty war während der Kolonialzeit als 'Bananenhafen' bekannt.",
+          "Der Hafen liegt am Ästuar des Melacorée-Flusses.",
+          "Er war ein wichtiger Konkurrenzstandort zu Freetown in Sierra Leone.",
+          "Die Ruinen der Bananen-Verladeanlagen sind noch heute sichtbar.",
+          "Benty war eines der ersten Gebiete, die französische Händler besiedelten.",
+          "Der Ort ist heute ein Zentrum für den handwerklichen Fischfang."
+        ],
+        "hu": [
+          "Benty a gyarmati időkben a 'banánkikötő' néven volt ismert.",
+          "A kikötő a Melacorée-folyó torkolatánál, védett öbölben fekszik.",
+          "Egykor fontos riválisa volt a közeli sierra leone-i Freetown kikötőjének.",
+          "A régi banánraktárak és mólók romjai ma is felfedezhetők.",
+          "Benty volt az egyik legkorábbi francia kereskedelmi állomás a térségben.",
+          "A település ma elsősorban hagyományos halászfaluként működik."
+        ],
+        "ro": [
+          "Benty a fost terminalul principal pentru 'bananele de Guineea' în anii '30.",
+          "Portul este situat strategic între estuarele râurilor Morebaya și Melacorée.",
+          "Arhitectura sa ruinată amintește de stilul art-déco colonial francez.",
+          "A fost un nod vital pentru companiile fructiere internaționale.",
+          "Declclinul portului a început după 1958, odată cu naționalizarea economiei.",
+          "Situl este vizitat astăzi pentru atmosfera sa istorică izolată."
+        ],
+        "en": [
+          "Benty was famously known as the 'Banana Port' during the colonial era.",
+          "The port is located on the estuary of the Melacorée River.",
+          "It once competed with neighboring Freetown as a regional shipping hub.",
+          "Ruins of specialized fruit-loading equipment can still be seen on-site.",
+          "Benty was among the earliest areas settled by French merchants in the south.",
+          "The town now serves primarily as a local artisanal fishing center."
+        ]
+      }
+    },
+    {
+      "id": "kankan-milo-battlefield-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Schlachtfeld von Kankan-Milo ist ein geschichtsträchtiger Ort in Oberguinea, der die dramatischen Auseinandersetzungen am Ende des 19. Jahrhunderts widerspiegelt. Hier fanden entscheidende Gefechte zwischen den Truppen von Samori Touré, dem Gründer des Wassoulou-Reiches, und den französischen Kolonialstreitkräften statt. Geografisch erstreckt sich das Gebiet entlang der Ufer des Milo-Flusses, der für beide Seiten von strategischer Bedeutung war. Historisch markiert dieses Schlachtfeld den erbitterten Widerstand der Mandinka gegen die europäische Expansion. Samori Touré nutzte die Topografie des Flusstals geschickt für seine Guerillataktiken, um den Vormarsch der technisch überlegenen Franzosen zu verzögern. Die Kämpfe am Milo waren geprägt von großer Intensität und führten schließlich zur Einnahme von Kankan durch die Franzosen im Jahr 1891, was einen Wendepunkt in der kolonialen Eroberung Guineas darstellte. Heute erinnert die Region an diese heldenhaften und zugleich tragischen Momente der Landesgeschichte. Gedenktafeln und lokale Erzählungen halten die Erinnerung an die 'Sofas' (Krieger) und ihren Anführer wach. Für Besucher bietet das Gelände am Milo-Fluss eine Kulisse, die zur Reflexion über den Kampf für Freiheit und die Entstehung des modernen Guinea einlädt.",
+        "hu": "A Kankan-Milo csatatér Felső-Guinea egyik legjelentősebb történelmi helyszíne, amely a 19. század végi drámai események emlékét őrzi. Itt zajlottak azok a döntő ütközetek, amelyekben Samori Touré, a Wassoulou Birodalom alapítójának seregei és a francia gyarmati csapatok csaptak össze. A terület földrajzilag a Milo-folyó partján fekszik, amely mindkét fél számára kiemelt stratégiai fontossággal bírt: Samori számára védelmi vonalat, a franciák számára pedig előnyomulási útvonalat jelentett. Történelmileg ez a helyszín a mandinka nép európai hódítók elleni elszánt ellenállásának szimbóluma. Samori zseniálisan használta ki a folyóparti terep adottságait, hogy gerillataktikával lassítsa a technikailag fejlettebb francia erőket. A Milo menti harcok rendkívül véresek voltak, és végül Kankan 1891-es elfoglalásához vezettek, ami sorsfordító pillanat volt Guinea gyarmatosításának folyamatában. Ma a folyópart csendje és a helyi legendák őrzik a „szofák” (harcosok) és vezérük emlékét. A látogatók számára a csatatér nemcsak egy földrajzi hely, hanem az afrikai ellenállás és a nemzeti öntudat egyik legfontosabb emlékhelye.",
+        "ro": "Câmpul de luptă Kankan-Milo este un sit istoric de o importanță majoră în Guineea Superioară, reflectând confruntările dramatice de la sfârșitul secolului al XIX-lea. Aici au avut loc bătălii decisive între trupele lui Samori Touré, fondatorul Imperiului Wassoulou, și forțele coloniale franceze. Geografic, zona se întinde de-a lungul malurilor râului Milo, care avea o importanță strategică crucială pentru ambele părți. Din punct de vedere istoric, acest câmp de luptă marchează rezistența acerbă a poporului Mandinka împotriva expansiunii europene. Samori Touré a folosit cu iscusință topografia văii râului pentru tacticile sale de gherilă, reușind să întârzie avansul francezilor, care erau superiori din punct de vedere tehnic. Luptele de pe Milo au fost marcate de o intensitate deosebită și au dus în cele din urmă la capturarea orașului Kankan de către francezi în 1891, eveniment ce a reprezentat un punct de cotitură în cucerirea colonială a Guineei. Astăzi, regiunea păstrează amintirea acestor momente eroice și tragice ale istoriei naționale. Poveștile locale și tradiția orală mențin vie amintirea „sofașilor” (războinicilor) și a liderului lor, oferind vizitatorilor un cadru pentru reflecție asupra luptei pentru libertate.",
+        "en": "The Kankan-Milo Battlefield is a historically charged site in Upper Guinea, reflecting the dramatic clashes that occurred during the late 19th century. This area was the stage for decisive battles between the forces of Samori Touré, founder of the Wassoulou Empire, and French colonial troops. Geographically, the battlefield stretches along the banks of the Milo River, which held immense strategic value for both sides as a natural barrier and transport route. Historically, the site symbolizes the fierce Mandinka resistance against European territorial expansion. Samori Touré skillfully utilized the river valley's topography for guerrilla tactics to delay the advance of the technically superior French military. The fighting along the Milo was exceptionally intense, ultimately leading to the French capture of Kankan in 1891, which marked a major turning point in the colonial conquest of Guinea. Today, the quiet banks of the river serve as a memorial to these heroic and tragic moments in national history. Local oral traditions continue to honor the 'sofas' (warriors) and their leader, providing visitors with a somber backdrop for reflecting on the struggle for independence."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Schlachten am Milo fanden primär zwischen 1890 und 1891 statt.",
+          "Samori Touré verteidigte hier den Zugang zu seinem Kernland Kankan.",
+          "Der Fluss Milo diente als natürliche Verteidigungslinie der Wassoulou-Armee.",
+          "Die Einnahme von Kankan 1891 beendete Samoris Herrschaft in dieser Region.",
+          "Die französischen Truppen standen unter dem Kommando von Oberst Archinard.",
+          "Das Schlachtfeld ist ein wichtiger Ort der mündlichen Mandinka-Tradition."
+        ],
+        "hu": [
+          "A Milo menti ütközetek döntő szakasza 1890 és 1891 között zajlott.",
+          "Samori Touré itt próbálta megállítani Kankan városának bevételét.",
+          "A Milo-folyó természetes akadályként szolgált a Wassoulou hadsereg számára.",
+          "Kankan 1891-es elvesztése Samori birodalmának keletebbre tolódását okozta.",
+          "A gyarmati csapatokat Archinard ezredes vezette a harcok idején.",
+          "A helyszín ma is fontos zarándokhely az ellenállás történetét kutatóknak."
+        ],
+        "ro": [
+          "Bătălia de pe Milo a fost una dintre cele mai mari confruntări din secolul XIX.",
+          "Strategia pământului pârjolit a fost aplicată de Samori în această zonă.",
+          "Râul Milo era esențial pentru aprovizionarea ambelor armate.",
+          "Căderea orașului Kankan a deschis francezilor drumul spre centrul Guineei.",
+          "Războinicii Mandinka erau echipați cu puști cu repetiție moderne.",
+          "Situl este comemorat anual prin cântece tradiționale ale griotilor."
+        ],
+        "en": [
+          "The battles along the Milo primarily took place between 1890 and 1891.",
+          "Samori Touré defended the access to his capital region, Kankan, at this site.",
+          "The Milo River served as a strategic defensive line for the Wassoulou army.",
+          "The fall of Kankan in 1891 marked a shift in Samori's resistance strategy.",
+          "French colonial forces were led by the high-ranking Colonel Archinard.",
+          "The area is a key site in the oral history and songs of Mandinka culture."
+        ]
+      }
+    },
+    {
+      "id": "wassoulou-empire-remains-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Überreste des Wassoulou-Reiches sind über weite Teile Oberguineas verstreut und bilden ein eindrucksvolles Zeugnis der letzten großen vorkolonialen Macht der Region. Das Reich wurde in den 1870er Jahren von Samori Touré gegründet und erstreckte sich über Gebiete des heutigen Guinea, Mali und der Elfenbeinküste. Geografisch war das Reich durch seine dezentrale Struktur und die Errichtung zahlreicher befestigter Städte, bekannt als 'Tatas', geprägt. Die Überreste bestehen heute aus Ruinen massiver Lehmmauern, Gräben und administrativen Strukturen, die einst die militärische Stärke und die bürokratische Organisation des Staates widerspiegelten. Historisch gesehen repräsentiert das Wassoulou-Reich den technologisch fortschrittlichsten Widerstand gegen die Kolonialisierung, da Samori eine eigene Waffenindustrie aufbaute und seine Truppen modern ausstattete. Der Untergang des Reiches Ende der 1890er Jahre markierte das Ende der Unabhängigkeit vieler westafrikanischer Völker. Heute sind die verstreuten Ruinen Orte der nationalen Identität und des Stolzes. Sie zeugen von einem Staatsmodell, das islamische Traditionen mit militärischer Innovation verband. Für Historiker bieten die Überreste wertvolle Daten über die Verteidigungsstrategien und die Stadtplanung jener Ära, während sie für die lokale Bevölkerung als Symbole der Würde und Standhaftigkeit gelten.",
+        "hu": "A Wassoulou Birodalom maradványai Felső-Guinea tágas vidékein elszórva találhatók, tanúskodva a régió utolsó nagy gyarmatosítás előtti hatalmáról. A birodalmat az 1870-es években alapította Samori Touré, és fénykorában a mai Guinea, Mali és Elefántcsontpart jelentős területeit foglalta magában. Földrajzilag a birodalom jellegzetessége a decentralizált felépítés és a „tata” néven ismert, megerősített városok hálózata volt. A maradványok ma masszív vályogfalak romjaiból, sáncokból és egykori közigazgatási épületek alapjaiból állnak, amelyek egykor a jól szervezett bürokráciát és katonai erőt szimbolizálták. Történelmileg a Wassoulou Birodalom az afrikai ellenállás legfejlettebb formáját képviselte: Samori saját fegyvergyártást indított, és modern harci taktikákat alkalmazott az európaiak ellen. A birodalom 1890-es évekbeli bukása sok nyugat-afrikai nép számára a függetlenség végét jelentette. Ma ezek a romok a nemzeti identitás és büszkeség fontos bázisai, emlékeztetve egy olyan állammodellre, amely az iszlám hagyományokat ötvözte a katonai innovációval. A látogatók és kutatók számára a maradványok felbecsülhetetlen információkkal szolgálnak a korszak védelmi stratégiáiról és várostervezéséről.",
+        "ro": "Rămășițele Imperiului Wassoulou sunt dispersate pe arii vaste din Guineea Superioară și constituie o dovadă impresionantă a ultimei mari puteri precoloniale din regiune. Imperiul a fost fondat în anii 1870 de Samori Touré și se întindea peste teritorii din Guineea, Mali și Coasta de Fildeș de astăzi. Din punct de vedere geografic, imperiul se caracteriza printr-o structură descentralizată și prin ridicarea a numeroase orașe fortificate, cunoscute sub numele de „tatas”. Astăzi, vestigiile constau în ruine ale zidurilor masive de pământ, șanțuri de apărare și structuri administrative care reflectau odinioară puterea militară și organizarea birocratică a statului. Din punct de vedere istoric, Imperiul Wassoulou reprezintă cea mai avansată formă de rezistență tehnologică împotriva colonizării, Samori dezvoltând o industrie proprie de armament. Prăbușirea imperiului la sfârșitul anilor 1890 a marcat sfârșitul independenței pentru multe popoare vest-africane. În prezent, aceste ruine sunt locuri de identitate națională și mândrie, amintind de un model de stat care a combinat tradițiile islamice cu inovația militară. Pentru istorici, rămășițele oferă date valoroase despre strategiile defensive și planificarea urbană a acelei epoci, în timp ce pentru populația locală ele rămân simboluri ale demnității.",
+        "en": "The remains of the Wassoulou Empire are scattered across the vast landscapes of Upper Guinea, providing a powerful testament to the region's last major pre-colonial power. Founded in the 1870s by Samori Touré, the empire spanned territories across present-day Guinea, Mali, and Ivory Coast. Geographically, the empire was defined by its decentralized administrative structure and a network of fortified towns known as 'tatas'. Today, the remains consist of ruins of massive earthen walls, defensive trenches, and administrative foundations that once reflected the state's military might and sophisticated bureaucracy. Historically, the Wassoulou Empire represented the most technologically advanced resistance to colonization, as Samori established indigenous weapon manufacturing and implemented modern military reforms. The fall of the empire in the late 1890s marked the end of sovereignty for many West African peoples. Today, these scattered ruins are vital sites of national identity and pride, showcasing a state model that blended Islamic traditions with military innovation. For historians and archaeologists, the remains offer crucial data on 19th-century defensive strategies and urban planning in the interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Wassoulou-Reich war bekannt für seine hochorganisierte Kavallerie.",
+          "Samori Touré teilte sein Reich in 16 Provinzen auf.",
+          "Die befestigten Städte (Tatas) konnten monatelangen Belagerungen standhalten.",
+          "Das Reich verfügte über eine eigene Diplomatenschicht für Verhandlungen.",
+          "Die Ruinen von Bissandougou sind die bekanntesten Reste des Reiches.",
+          "Wassoulou war ein Zentrum des Handels mit Gold und Textilien."
+        ],
+        "hu": [
+          "A Wassoulou Birodalom híres volt kiválóan szervezett lovasságáról.",
+          "Samori Touré összesen 16 tartományra osztotta fel birodalmát.",
+          "A 'tata' erődítmények falai több méter vastag vályogból készültek.",
+          "A birodalom saját fegyverjavító és öntőműhelyekkel rendelkezett.",
+          "Bissandougou romjai adják a legteljesebb képet az egykori fővárosról.",
+          "A Wassoulou-rendszer ötvözte a törzsi törvényeket az iszlám joggal."
+        ],
+        "ro": [
+          "Imperiul a fost unul dintre puținele state africane cu armată permanentă.",
+          "Zidurile fortificate (tata) erau construite pentru a rezista artileriei ușoare.",
+          "Administrația lui Samori a colectat taxe sistematice pentru efortul de război.",
+          "Baza economică a imperiului era controlul rutelor de aur și sare.",
+          "Religia islamică a servit drept factor unificator pentru diversele etnii.",
+          "Ruinele sunt protejate ca parte a patrimoniului istoric al Africii de Vest."
+        ],
+        "en": [
+          "The Wassoulou Empire was renowned for its highly disciplined cavalry units.",
+          "Samori Touré organized his territory into 16 administrative provinces.",
+          "Fortified towns (tatas) were engineered to withstand long sieges.",
+          "The empire maintained its own diplomatic corps for international relations.",
+          "The ruins at Bissandougou are the most significant extant remains.",
+          "Wassoulou served as a major regional trade hub for gold and textiles."
+        ]
+      }
+    },
+    {
+      "id": "kindia-colonial-quarter-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kolonialviertel von Kindia ist ein architektonisches Ensemble, das die städtebauliche Vision der französischen Kolonialmacht im frühen 20. Jahrhundert widerspiegelt. Kindia wurde aufgrund seines angenehmen Klimas und seiner strategischen Lage an der Eisenbahnstrecke Conakry-Kankan zu einem wichtigen Verwaltungs- und Handelszentrum ausgebaut. Geografisch liegt das Viertel im Zentrum der heutigen Stadt, geprägt durch breite Alleen, Parks und großzügige Villen im Kolonialstil. Die Architektur zeichnet sich durch hohe Decken, Verandas und die Verwendung lokaler Materialien wie Lateritstein aus, die an das tropische Klima angepasst wurden. Historisch markiert das Viertel die Ära, in der Kindia zum 'Garten Guineas' wurde, da hier umfangreiche landwirtschaftliche Versuchsstationen und Schulen eingerichtet wurden. Das Viertel beherbergt ehemalige Residenzen hoher Beamter, Verwaltungsgebäude und das historische Gerichtsgebäude. Heute ist das Kolonialviertel ein lebendiger Teil der Stadt, in dem sich die Vergangenheit mit der modernen guineischen Lebensart mischt. Trotz einiger Verfallserscheinungen bleibt es ein bedeutendes kulturelles Erbe, das von der Transformation einer ländlichen Region in einen urbanen Handelsknotenpunkt erzählt. Für Besucher bietet ein Spaziergang durch diese Straßen eine Zeitreise in die koloniale Ästhetik und die Geschichte der Urbanisierung Westafrikas.",
+        "hu": "Kindia koloniális negyede egy olyan építészeti együttes, amely a 20. század eleji francia várostervezési víziókat tükrözi. Kindia kellemes éghajlata és a Conakry-Kankan vasútvonal menti stratégiai fekvése miatt vált a gyarmati közigazgatás és kereskedelem egyik fontos központjává. Földrajzilag a negyed a mai város szívében található, széles sugárutakkal, parkokkal és tágas, gyarmati stílusú villákkal jellemezhető. Az építészet sajátossága a magas belmagasság, a tágas verandák és a helyi építőanyagok, például a laterit kő használata, amelyeket a trópusi klímához igazítottak. Történelmileg ez a városrész jelöli azt a korszakot, amikor Kindiát Guinea „kertjeként” emlegették, mivel itt hozták létre az első jelentős mezőgazdasági kutatóállomásokat. A negyedben találhatók az egykori tisztviselői rezidenciák, közigazgatási épületek és a történelmi bíróság is. Ma a koloniális negyed Kindia lüktető része, ahol a múlt emlékei keverednek a modern guineai életmóddal. Az enyészet jelei ellenére is fontos kulturális örökség, amely egy vidéki régió kereskedelmi csomóponttá válásának történetét meséli el. A látogatók számára a negyed utcái valóságos időutazást kínálnak a 20. század eleji Nyugat-Afrika városiasodásának világába.",
+        "ro": "Cartierul colonial din Kindia este un ansamblu arhitectural ce reflectă viziunea urbanistică a puterii coloniale franceze de la începutul secolului XX. Datorită climatului său plăcut și poziției strategice pe calea ferată Conakry-Kankan, Kindia a fost dezvoltată ca un centru administrativ și comercial major. Geografic, cartierul se află în centrul orașului actual, fiind caracterizat prin bulevarde largi, parcuri și vile spațioase în stil colonial. Arhitectura se distinge prin tavane înalte, verande largi și utilizarea materialelor locale, precum piatra de laterită, adaptate condițiilor climatice tropicale. Din punct de vedere istoric, acest cartier marchează epoca în care Kindia a devenit „grădina Guineei”, aici fiind înființate stațiuni experimentale agricole și școli de profil. Cartierul găzduiește foste rezidențe ale înalților oficiali, clădiri administrative și tribunalul istoric. Astăzi, cartierul colonial este o parte vibrantă a orașului, unde trecutul se împletește cu modul de viață guineean modern. În ciuda degradării unor structuri, el rămâne un patrimoniu cultural semnificativ, relatând transformarea unei regiuni rurale într-un nod urban comercial. Pentru vizitatori, o plimbare pe aceste străzi oferă o călătorie în timp prin estetica colonială și istoria urbanizării Africii de Vest.",
+        "en": "The Colonial Quarter of Kindia is an architectural ensemble reflecting the urban planning vision of the French colonial administration in the early 20th century. Due to its mild climate and strategic location along the Conakry-Kankan railway line, Kindia was developed into a key administrative and commercial hub. Geographically, the quarter is located in the heart of the modern city, characterized by wide avenues, public parks, and spacious colonial-style villas. The architecture is noted for its high ceilings, expansive verandas, and the use of local materials such as laterite stone, all adapted for the tropical climate. Historically, the quarter marks the era when Kindia became known as the 'Garden of Guinea,' hosting the country's first major agricultural research stations and schools. The area contains former official residences, administrative offices, and the historic courthouse. Today, the Colonial Quarter remains a vibrant part of the city, where the remnants of the past blend with modern Guinean life. Despite the natural decay of some buildings, it stands as a significant cultural heritage site documenting the transformation of a rural area into a major urban trade center. For visitors, walking these streets offers a journey through colonial aesthetics and the history of West African urbanization."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Viertel wurde um den historischen Bahnhof von Kindia herum geplant.",
+          "Viele Gebäude nutzen roten Lateritstein, der typisch für die Region ist.",
+          "Es beherbergt das ehemalige Institut Pasteur, ein Zentrum für Tropenmedizin.",
+          "Die Alleen wurden ursprünglich mit schattenspendenden Mango- und Flammenbäumen bepflanzt.",
+          "Kindia war ein bevorzugter Wohnort für europäische Agrarwissenschaftler.",
+          "Das Viertel spiegelt die 'Ville-Jardin'-Philosophie (Gartenstadt) wider."
+        ],
+        "hu": [
+          "A negyedet a történelmi kindiai vasútállomás köré tervezték.",
+          "Számos épület falai a környékre jellemző vörös laterit kőből épültek.",
+          "Itt található a hajdani Pasteur Intézet, amely a trópusi orvoslás központja volt.",
+          "A sugárutakat eredetileg árnyékot adó mangófákkal ültették be.",
+          "Kindia volt a gyarmati agrárkutatók és tudósok egyik kedvelt lakóhelye.",
+          "A városrész hűen őrzi a 20. század eleji francia vidéki stílus jegyeit."
+        ],
+        "ro": [
+          "Gara din Kindia, construită în 1904, este inima istorică a cartierului.",
+          "Arhitectura clădirilor include elemente de ventilație naturală ingenioase.",
+          "Aici a fost sediul primei școli de agricultură din Africa de Vest Franceză.",
+          "Cartierul este delimitat de cursuri de apă care îi asigură răcoarea.",
+          "Multe vile coloniale sunt folosite astăzi ca birouri guvernamentale.",
+          "Grădinile botanice din jur au fost inițiate de coloniștii francezi."
+        ],
+        "en": [
+          "The quarter was planned around the historic 1904 Kindia railway station.",
+          "Many structures feature the deep red laterite stone native to the area.",
+          "It is home to the former Pasteur Institute, a pioneer in tropical medicine.",
+          "Avenues were originally lined with mango and flame trees for shade.",
+          "Kindia was a preferred residence for European agricultural scientists.",
+          "The layout reflects the 'Ville-Jardin' (Garden City) urban design philosophy."
+        ]
+      }
+    }
+  ]
+}

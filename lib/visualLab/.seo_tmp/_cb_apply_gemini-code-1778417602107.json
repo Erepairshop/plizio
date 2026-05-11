@@ -1,0 +1,48 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cathedrale-moundou-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Herz-Jesu-Kathedrale (Cathédrale du Sacré-Cœur) in Moundou ist ein hochgradig prominentes religiöses Wahrzeichen in der zweitgrößten Stadt des Tschad, gelegen in der südlichen Provinz Logone Occidental. Geografisch markiert sie das spirituelle Zentrum einer Region, die historisch von einer starken christlichen und animistischen Bevölkerungsmehrheit geprägt ist, im scharfen Kontrast zum stark islamisch dominierten Norden des Landes. Die Kathedrale wurde Mitte des 20. Jahrhunderts während der französischen Kolonialzeit errichtet und fungiert seither als der offizielle Sitz des römisch-katholischen Bistums Moundou. Architekturgeschichtlich nutzt das Gebäude traditionelle rote Ziegelsteine und ist an die extremen Hitzebedingungen der Region angepasst. Wirtschaftlich erhält sich die Kirche fast ausschließlich durch lokale Spendengelder und finanzielle Unterstützung ausländischer katholischer Missionen. Neben ihrer rein religiösen Funktion betreibt die Kathedrale wichtige soziale Einrichtungen, darunter angeschlossene Schulen und Basis-Gesundheitsstationen, die angesichts der extrem schwachen staatlichen Infrastruktur im Süden des Tschad absolut essenziell für das Überleben der lokalen Gemeinschaft sind.",
+        "hu": "A moundoui Szent Szív Katedrális (Cathédrale du Sacré-Cœur) egy kiemelkedően fontos vallási nevezetesség Csád második legnagyobb városában, a déli Logone Occidental tartományban. Földrajzilag egy olyan régió spirituális központját jelöli, amelyet történelmileg erős keresztény és animista lakossági többség jellemez, éles ellentétben az ország erősen iszlám dominanciájú északi részével. A katedrálist a 20. század közepén, a francia gyarmati időszak alatt építették, és azóta a moundoui római katolikus egyházmegye hivatalos székhelyeként működik. Építészettörténeti szempontból az épület hagyományos vörös téglát használ, és alkalmazkodik a régió extrém hőségéhez. Gazdasági szempontból a templom szinte kizárólag a helyi adományokból és a külföldi katolikus missziók pénzügyi támogatásából tartja fenn magát. Tisztán vallási funkciója mellett a katedrális fontos szociális intézményeket, többek között iskolákat és alapvető egészségügyi állomásokat is működtet, amelyek a dél-csádi rendkívül gyenge állami infrastruktúra miatt abszolút létfontosságúak a helyi közösség túlélése szempontjából.",
+        "ro": "Catedrala Inimii Sacre (Cathédrale du Sacré-Cœur) din Moundou este un reper religios extrem de proeminent în al doilea oraș ca mărime din Ciad, situat în provincia sudică Logone Occidental. Geografic, marchează centrul spiritual al unei regiuni care este istoric caracterizată de o puternică majoritate creștină și animistă, în contrast puternic cu nordul țării, puternic dominat de islam. Catedrala a fost construită la mijlocul secolului al XX-lea în timpul perioadei coloniale franceze și de atunci a servit drept sediu oficial al Diecezei Romano-Catolice de Moundou. Din punct de vedere arhitectural, clădirea folosește cărămizi roșii tradiționale și este adaptată la condițiile de căldură extremă din regiune. Economic, biserica este susținută aproape exclusiv prin donații locale și sprijin financiar din partea misiunilor catolice străine. Pe lângă funcția sa pur religioasă, catedrala operează instituții sociale importante, inclusiv școli și stații de sănătate de bază, care sunt absolut esențiale pentru supraviețuirea comunității.",
+        "en": "The Sacred Heart Cathedral (Cathédrale du Sacré-Cœur) in Moundou is a highly prominent religious landmark located in the second-largest city of Chad, situated in the southern Logone Occidental province. Geographically, it firmly marks the spiritual center of a region historically defined by a strong Christian and animist population majority, completely in sharp contrast to the heavily Islamic-dominated north of the country. The cathedral was constructed in the mid-20th century during the strict French colonial period and has since functioned as the official seat of the Roman Catholic Diocese of Moundou. Architecturally, the building utilizes traditional red bricks and is specifically adapted to the extreme heat conditions of the region. Economically, the church sustains itself almost exclusively through local community donations and targeted financial support from foreign Catholic missions. In addition to its purely religious function, the cathedral operates highly important social facilities, thoroughly including affiliated schools and basic health stations, which are absolutely essential for the survival of the local community given the extremely weak state infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale steht in Moundou, der wirtschaftlichen Metropole des Südens.",
+          "Sie ist das spirituelle Zentrum der christlichen Mehrheit in der Region.",
+          "Das Gebäude wurde während der französischen Kolonialzeit aus rotem Ziegel erbaut.",
+          "Neben der Kirche betreibt die Diözese auch dringend benötigte lokale Schulen.",
+          "Finanziert wird die Einrichtung exklusiv durch Spenden und ausländische Missionen."
+        ],
+        "hu": [
+          "A katedrális Moundouban, a délvidék gazdasági metropoliszában található.",
+          "Ez a régió keresztény többségének abszolút spirituális és kulturális központja.",
+          "Az épület a francia gyarmati időszakban épült hagyományos vörös téglából.",
+          "A templom mellett az egyházmegye égetően szükséges helyi iskolákat is működtet.",
+          "Az intézményt kizárólag a helyi adományok és a külföldi missziók finanszírozzák."
+        ],
+        "ro": [
+          "Catedrala este situată în Moundou, metropola economică absolută a sudului.",
+          "Este centrul spiritual vital al majorității populației creștine din regiune.",
+          "Clădirea a fost construită din cărămidă roșie în timpul erei coloniale franceze.",
+          "Pe lângă biserică, dieceza operează și școli locale care sunt urgent necesare.",
+          "Instituția este finanțată exclusiv din donații locale și misiuni străine."
+        ],
+        "en": [
+          "The massive cathedral is located in Moundou, the economic metropolis of the south.",
+          "It actively serves as the vital spiritual center for the Christian majority.",
+          "The building was constructed from red brick during the French colonial era.",
+          "Alongside the church, the diocese operates urgently needed local basic schools.",
+          "The religious institution is financed exclusively by local and foreign donations."
+        ]
+      }
+    }
+  ]
+}

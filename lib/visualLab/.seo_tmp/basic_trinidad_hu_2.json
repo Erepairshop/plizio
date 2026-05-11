@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-castara-cities-v2",
+      "description": "Castara egy festői halászfalu Tobago északnyugati partján, amely híres érintetlen strandjairól. A helyi életmód szorosan kapcsolódik a tengeri halászathoz és a trópusi növényzethez.",
+      "facts": ["Tobago északnyugati partja", "Halászfalu", "Érintetlen strandok"]
+    },
+    {
+      "id": "tt-glamis-cities-v2",
+      "description": "Glamis egy csendes település, amely a helyi mezőgazdasági régiók közé tartozik. A területet jellemző nyugalom és a környező erdősávok teszik vonzóvá a természetkedvelőknek.",
+      "facts": ["Mezőgazdasági régió", "Csendes település", "Erdős környezet"]
+    },
+    {
+      "id": "tt-mamoral-cities-v2",
+      "description": "Mamoral Trinidad középső részén fekvő kis falu, amely a dombos vidék és a gazdag növényzet ölelésében található. A helyi közösség megőrizte hagyományos falusi karakterét.",
+      "facts": ["Trinidad középső része", "Dombos vidék", "Falusi karakter"]
+    },
+    {
+      "id": "tt-brothers-road-cities-v2",
+      "description": "Brothers Road egy mezőgazdasági település Trinidad keleti részén, amely a környék gyümölcs- és zöldségtermeléséről ismert. A terület jó példája a szigeti vidéki gazdálkodásnak.",
+      "facts": ["Trinidad keleti része", "Mezőgazdasági település", "Gyümölcs- és zöldségtermelés"]
+    }
+  ]
+}

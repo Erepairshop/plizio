@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ehola-port-economic-v2",
+      "description": "Ehoala Port is a modern maritime hub in southeastern Madagascar, primarily serving the mining industry. It is crucial for exporting minerals like ilmenite.",
+      "facts": ["Strategic deep-water port", "Key gateway for mineral exports", "Supports regional economic growth"]
+    },
+    {
+      "id": "star-brewery-antsirabe-economic-v2",
+      "description": "The STAR brewery in Antsirabe is a major industrial facility and one of the largest producers of beverages in Madagascar. It is a cornerstone of the local economy.",
+      "facts": ["Major industrial employer", "Leading beverage producer", "Significant regional economic contributor"]
+    },
+    {
+      "id": "pecheries-nosy-be-economic-v2",
+      "description": "The fisheries of Nosy Be are vital for both the local economy and international trade, especially for shrimp exports. They represent a significant segment of the island's maritime economy.",
+      "facts": ["Key center for shrimp farming", "Vital for international exports", "Supports local maritime livelihoods"]
+    },
+    {
+      "id": "maintirano-port-economic-v2",
+      "description": "Maintirano Port is a key regional port on the western coast of Madagascar, essential for coastal trade and regional accessibility. It links the Melaky region with other parts of the country.",
+      "facts": ["Vital western coastal port", "Regional trade connector", "Supports remote coastal economy"]
+    },
+    {
+      "id": "antongil-bay-dutch-settlement-history-v2",
+      "description": "Antongil Bay was a site of historical Dutch settlement attempts in the 17th century, highlighting early European maritime interest in Madagascar's strategic location.",
+      "facts": ["17th-century European outpost", "Strategic maritime location", "Part of early colonial history"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Antongona consists of ancient stone fortifications built by the Merina kings, serving as a defensive structure in the central highlands to protect royal interests.",
+      "facts": ["Historic Merina fortifications", "Central highland defensive site", "Symbol of ancient royal power"]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "description": "Analamazaotra served as a colonial station during the era of French administration, acting as a center for infrastructure management and resource exploitation.",
+      "facts": ["French colonial era site", "Infrastructure hub of the time", "Witness to colonial administration"]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "description": "Toliara grew as an important administrative and trading center during the French colonial period, connecting the southwest with international maritime routes.",
+      "facts": ["Key southwestern trade hub", "Important colonial administration center", "Historical gateway to the southwest"]
+    },
+    {
+      "id": "cap-mined-diego-suarez-history-v2",
+      "description": "Diego Suarez (Antsiranana) and the surrounding Cape region have a long history as a strategic naval base, utilized by colonial powers for its natural harbor.",
+      "facts": ["Major strategic naval base", "Historical French colonial stronghold", "Famous natural deep-water harbor"]
+    },
+    {
+      "id": "nosy-boraha-fort-history-v2",
+      "description": "Nosy Boraha, formerly known as Île Sainte-Marie, contains historical fortifications that protected the island against pirates and rival colonial powers.",
+      "facts": ["Historical defensive fort", "Former hideout for pirates", "Important strategic island outpost"]
+    }
+  ]
+}

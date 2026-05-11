@@ -1,0 +1,60 @@
+{
+  "lang": "hu",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraZambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalambo-falls-nature-v2",
+      "description": "Afrika egyik legmagasabb egylépcsős vízesése a Tanganyika-tó közelében, amely fontos régészeti lelőhely is egyben.",
+      "facts": ["221 méter magas", "Zambia és Tanzánia határán", "Fontos régészeti leletek"]
+    },
+    {
+      "id": "ngonye-falls-nature-v2",
+      "description": "A Zambézi folyó felső szakaszán található széles, látványos vízeséssorozat, amely Sioma közelében fekszik.",
+      "facts": ["Sioma-vízesés néven is ismert", "Patkó alakú zuhatag", "A Zambézi folyón található"]
+    },
+    {
+      "id": "lupupa-swamp-nature-v2",
+      "description": "Zambia egyik kevésbé ismert mocsárvidéke, amely gazdag biodiverzitásáról és fontos vizes élőhelyi funkciójáról nevezetes.",
+      "facts": ["Vizes élőhely", "Gazdag madárvilág", "Belső mocsárrendszer"]
+    },
+    {
+      "id": "mweru-wantipa-lake-nature-v2",
+      "description": "Az Északi tartományban található tó és mocsárvidék, amely időszakosan változtatja méretét és sós víztartalmát.",
+      "facts": ["Időszakos sós tó", "Nemzeti park veszi körül", "Változó vízszint"]
+    },
+    {
+      "id": "luangwa-river-head-nature-v2",
+      "description": "A Luangwa folyó forrásvidéke az északkeleti hegyekben, ahonnan Zambia egyik legvadregényesebb folyója útjára indul.",
+      "facts": ["A folyó forrása", "Északkeleti hegyvidék", "Vadregényes környezet"]
+    },
+    {
+      "id": "mulungushi-river-nature-v2",
+      "description": "Központi-Zambia fontos folyója, amelyen az ország egyik első vízerőművét építették meg a bányák áramellátására.",
+      "facts": ["Központi tartomány", "Vízerőmű található rajta", "A Lunsemfwa mellékfolyója"]
+    },
+    {
+      "id": "luapula-valley-nature-v2",
+      "description": "A Luapula folyó menti termékeny völgy, amely sűrűn lakott mezőgazdasági és halászati terület a kongói határ mentén.",
+      "facts": ["Termékeny síkság", "Fontos halászati régió", "Határmenti terület"]
+    },
+    {
+      "id": "chisamba-forest-nature-v2",
+      "description": "Lusaka közelében található erdős terület, amely fontos szerepet játszik a helyi fakitermelésben és a természetvédelemben.",
+      "facts": ["Központi tartomány", "Védett erdőség", "Lusaka közelében"]
+    },
+    {
+      "id": "chola-hills-relief-v2",
+      "description": "Zambia északkeleti részén húzódó dombvidék, amely változatos domborzati formáival színesíti a fennsíkot.",
+      "facts": ["Dombvidéki táj", "Északkelet-Zambia", "Változatos eróziós formák"]
+    },
+    {
+      "id": "katanga-plateau-extension-relief-v2",
+      "description": "A közép-afrikai Katanga-fennsík Zambiába átnyúló része, amely ásványkincsekben rendkívül gazdag terület.",
+      "facts": ["Magasföldi domborzat", "Ásványkincsekben gazdag", "Geológiai folytonosság"]
+    }
+  ]
+}

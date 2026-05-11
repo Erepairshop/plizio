@@ -1,0 +1,63 @@
+{
+  "lang": "multi4",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqHistoryV2.ts"],
+  "items": [
+    {
+      "id": "imam-ali-mosque-history-v2",
+      "descriptionAdvancedEn": "The Imam Ali Mosque in Najaf, Iraq, is one of the most sacred sites in Shia Islam, housing the tomb of Ali ibn Abi Talib, the cousin and son-in-law of the Prophet Muhammad and the first Shia Imam. The shrine is a masterpiece of Islamic architecture, with a massive golden dome and two towering minarets that dominate the city's skyline. The current structure dates back to the 10th century and has been expanded and embellished over the centuries by various rulers. The interior is lavishly decorated with intricate mirror work, detailed mosaics, and precious metalwork. Millions of pilgrims visit the shrine annually, making Najaf a major center of religious learning and pilgrimage in the Islamic world. The mosque is not only a place of worship but also a symbol of Shia identity and devotion.",
+      "factsAdvanced": [
+        "The mosque contains the tomb of Ali ibn Abi Talib, the first Shia Imam.",
+        "It is located in the city of Najaf, one of the holiest cities for Shia Muslims.",
+        "The dome is covered with 7,777 gold-plated tiles.",
+        "The first shrine was built over Ali's tomb in the 10th century.",
+        "The two main minarets are each 35 meters tall.",
+        "The shrine is a major destination for Shia pilgrims from all over the world.",
+        "The complex also includes a vast cemetery, Wadi-us-Salaam.",
+        "It is one of the most important spiritual centers in Shia Islam."
+      ]
+    },
+    {
+      "id": "imam-husayn-shrine-history-v2",
+      "descriptionAdvancedEn": "The Imam Husayn Shrine in Karbala, Iraq, is a holy site for Shia Muslims, marking the grave of Husayn ibn Ali, the grandson of the Prophet Muhammad and the third Shia Imam. He was martyred in the Battle of Karbala in 680 AD, an event that is central to Shia identity. The shrine is renowned for its stunning architecture, featuring a golden dome and minarets, and intricate tilework. The interior is equally breathtaking, with elaborate mirror mosaics and a silver-caged tomb. The shrine is one of the most visited pilgrimage sites in the world, attracting millions of people, especially during the festival of Arba'in, which commemorates the 40th day after Husayn's martyrdom. The shrine is a powerful symbol of sacrifice and resistance against injustice, and it holds a deep emotional and spiritual significance for Shia Muslims.",
+      "factsAdvanced": [
+        "The shrine is the burial place of Husayn ibn Ali, the third Shia Imam.",
+        "It is located in Karbala, the site of his martyrdom in 680 AD.",
+        "The central dome of the shrine is covered in gold.",
+        "The Arba'in pilgrimage to the shrine is one of the largest annual gatherings in the world.",
+        "The original shrine was built in the 7th century, but has been rebuilt many times.",
+        "The walls of the shrine are decorated with intricate mirror and tile work.",
+        "The shrine is a major center for religious scholarship.",
+        "The Battle of Karbala is a foundational event in Shia Islam."
+      ]
+    },
+    {
+      "id": "al-mustansiriya-university-history-v2",
+      "descriptionAdvancedEn": "The Al-Mustansiriya University, established in 1227 in Baghdad, is one of the oldest universities in the world. Founded by the Abbasid Caliph Al-Mustansir, it was a center of Islamic scholarship and a beacon of intellectual life in the medieval Islamic world. Uniquely for its time, it taught the four major schools of Sunni Islamic law, in addition to subjects like medicine, mathematics, and astronomy. The building itself is a masterpiece of Islamic architecture, featuring a large central courtyard, intricate geometric brickwork, and an elaborate entrance portal. Remarkably, it survived the Mongol sack of Baghdad in 1258, a testament to its solid construction. Today, the restored building stands on the banks of the Tigris River as a proud reminder of Baghdad's golden age of learning and culture, and it is part of the modern Al-Mustansiriya University.",
+      "factsAdvanced": [
+        "Al-Mustansiriya was founded in 1227 by the Abbasid Caliph Al-Mustansir.",
+        "It is one of the oldest universities in the world.",
+        "The university taught all four Sunni schools of Islamic law.",
+        "The curriculum also included medicine, mathematics, and astronomy.",
+        "The building survived the Mongol siege of Baghdad in 1258.",
+        "It is a celebrated example of medieval Islamic architecture.",
+        "The university is located on the Tigris River in Baghdad.",
+        "The historic building is now a museum and tourist site."
+      ]
+    },
+    {
+      "id": "al-shaheed-monument-history-v2",
+      "descriptionAdvancedEn": "The Al-Shaheed Monument, also known as the Martyr's Memorial, is a striking landmark in Baghdad, dedicated to the Iraqi soldiers who died in the Iran-Iraq War. Designed by Iraqi artist Ismail Fatah Al Turk, it was opened in 1983. The monument consists of a massive, 40-meter-tall turquoise-tiled dome, split in two. The two halves are offset, and in the center, an eternal flame is housed. The dome is situated on a circular platform above an underground museum, library, and lecture hall. The monument's design is rich in symbolism, with the split dome representing the gates of paradise opening for the martyrs. The shimmering turquoise tiles are a classic element of Islamic architecture. The Al-Shaheed Monument is a powerful and poignant work of modern art and architecture, commemorating a painful chapter in Iraq's history.",
+      "factsAdvanced": [
+        "The monument commemorates the Iraqi soldiers killed in the Iran-Iraq War (1980-1988).",
+        "It was designed by Iraqi sculptor Ismail Fatah Al Turk and opened in 1983.",
+        "The main feature is a 40-meter-tall turquoise dome, split down the middle.",
+        "An eternal flame is located between the two halves of the dome.",
+        "The monument is located on an artificial island in a lake.",
+        "Beneath the monument is a museum and a library.",
+        "The turquoise tiles are a nod to traditional Islamic architecture.",
+        "It is considered a major work of modern Iraqi art and architecture."
+      ]
+    }
+  ]
+}

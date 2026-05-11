@@ -1,0 +1,109 @@
+{
+    "lang": "multi4",
+    "country": "guinea",
+    "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+    "items": [
+        {
+            "id": "friguiagbe-cities-v2",
+            "descriptionAdvancedDe": "Friguiagbé ist eine ländliche Gemeinde in der Präfektur Kindia, die für ihre Fruchtbarkeit und ihre landwirtschaftliche Produktion bekannt ist. Die Nähe zur Hauptstadt Conakry macht sie zu einem wichtigen Lieferanten von Obst, insbesondere Mangos und Orangen, und Gemüse. Die Landschaft ist grün und hügelig und wird von zahlreichen kleinen Flüssen durchzogen. Die ethnische Gruppe der Soussou ist hier dominant. Friguiagbé ist ein Beispiel für die dynamische Entwicklung des ländlichen Raums im Umfeld einer wachsenden Metropole, die sowohl Chancen als auch Herausforderungen mit sich bringt. Geographie K7 – Periphere Landwirtschaft und Urbanisierung.",
+            "descriptionAdvancedHu": "Friguiagbé egy vidéki község a Kindia prefektúrában, amely termékenységéről és mezőgazdasági termeléséről ismert. A főváros, Conakry közelsége fontos gyümölcs-, különösen mangó- és narancs-, valamint zöldségbeszállítóvá teszi. A táj zöld és dombos, és számos kis folyó szeli át. A szuszu etnikai csoport domináns itt. Friguiagbé példája egy növekvő metropolisz környezetében a vidéki térség dinamikus fejlődésének, amely lehetőségeket és kihívásokat is rejt magában. Földrajz K7 – Periférikus mezőgazdaság és urbanizáció.",
+            "descriptionAdvancedRo": "Friguiagbé este o comună rurală din prefectura Kindia, cunoscută pentru fertilitatea și producția sa agricolă. Apropierea de capitala Conakry o face un furnizor important de fructe, în special mango și portocale, și legume. Peisajul este verde și deluros și este străbătut de numeroase râuri mici. Grupul etnic Soussou este dominant aici. Friguiagbé este un exemplu de dezvoltare dinamică a spațiului rural în vecinătatea unei metropole în creștere, ceea ce aduce atât oportunități, cât și provocări. Geografie K7 – Agricultură periferică și urbanizare.",
+            "descriptionAdvancedEn": "Friguiagbé is a rural commune in the Kindia prefecture, known for its fertility and agricultural production. Its proximity to the capital Conakry makes it an important supplier of fruit, especially mangoes and oranges, and vegetables. The landscape is green and hilly and is crossed by numerous small rivers. The Soussou ethnic group is dominant here. Friguiagbé is an example of the dynamic development of the rural space in the vicinity of a growing metropolis, which brings with it both opportunities and challenges. Geography K7 – Peripheral agriculture and urbanization.",
+            "factsAdvanced": [
+                "Vidéki község a Kindia prefektúrában.",
+                "Conakry fontos élelmiszer-ellátója, különösen gyümölcsökből.",
+                "A mangó- és narancsültetvényeiről ismert.",
+                "A Soussou (Susu) nép kulturális területe.",
+                "A földművelés a fő gazdasági tevékenység.",
+                "A Conakryhoz való közelség gyors társadalmi-gazdasági változásokat idéz elő.",
+                "A község több faluból áll.",
+                "A helyi piacok fontosak a termékek értékesítésében."
+            ]
+        },
+        {
+            "id": "sougueta-cities-v2",
+            "descriptionAdvancedDe": "Souguéta ist eine ländliche Gemeinde in der Präfektur Kindia. Sie liegt in den Ausläufern des Fouta-Djallon-Hochlands. Die Wirtschaft basiert auf der Landwirtschaft, wobei Reis, Maniok und Erdnüsse die Hauptanbauprodukte sind. Die Gemeinde ist auch für ihre Palmölproduktion bekannt. Die Bevölkerung gehört hauptsächlich der ethnischen Gruppe der Soussou an. Souguéta ist ein traditionelles Gebiet, in dem die alten Bräuche und die islamische Religion das Leben der Gemeinschaft prägen. Die Nähe zur Nationalstraße N1 begünstigt den Handel mit den städtischen Zentren. Geographie K7 – Traditionelle Landwirtschaft und Handelsrouten.",
+            "descriptionAdvancedHu": "Souguéta egy vidéki község a Kindia prefektúrában. A Fouta-Djallon-felföld lábánál fekszik. A gazdaság alapja a mezőgazdaság, a rizs, a manióka és a földimogyoró a fő termesztett növények. A község a pálmaolaj-termeléséről is ismert. A lakosság főként a szuszu etnikai csoporthoz tartozik. Souguéta egy hagyományos terület, ahol a régi szokások és az iszlám vallás határozza meg a közösség életét. Az N1-es főút közelsége kedvez a városi központokkal való kereskedelemnek. Földrajz K7 – Hagyományos mezőgazdaság és kereskedelmi útvonalak.",
+            "descriptionAdvancedRo": "Souguéta este o comună rurală din prefectura Kindia. Este situată la poalele podișului Fouta Djallon. Economia se bazează pe agricultură, orezul, maniocul și alunele fiind principalele culturi. Comuna este, de asemenea, cunoscută pentru producția sa de ulei de palmier. Populația aparține în principal grupului etnic Soussou. Souguéta este o zonă tradițională în care obiceiurile vechi și religia islamică modelează viața comunității. Apropierea de drumul național N1 favorizează comerțul cu centrele urbane. Geografie K7 – Agricultură tradițională și rute comerciale.",
+            "descriptionAdvancedEn": "Souguéta is a rural commune in the Kindia prefecture. It is located at the foot of the Fouta Djallon highlands. The economy is based on agriculture, with rice, cassava, and peanuts being the main crops. The commune is also known for its palm oil production. The population belongs mainly to the Soussou ethnic group. Souguéta is a traditional area where the old customs and the Islamic religion shape the life of the community. The proximity to the N1 national road favors trade with the urban centers. Geography K7 – Traditional agriculture and trade routes.",
+            "factsAdvanced": [
+                "Vidéki község a Kindia prefektúrában.",
+                "A Fouta Djallon-felföld lábánál található.",
+                "A gazdaság a rizs-, manióka- és földimogyoró-termesztésre épül.",
+                "Jelentős pálmaolaj-termelő.",
+                "A lakosság főként a Soussou népcsoporthoz tartozik.",
+                "A közösségi életet a hagyományok és az iszlám határozza meg.",
+                "Az N1-es főút mentén fekszik, ami fontos a kereskedelem szempontjából.",
+                "A helyi piacok a gazdasági élet központjai."
+            ]
+        },
+        {
+            "id": "maferinyah-cities-v2",
+            "descriptionAdvancedDe": "Maferinyah ist eine wachsende Stadt und ländliche Gemeinde in der Präfektur Forécariah, nahe der Küste. Die Wirtschaft ist eine Mischung aus Landwirtschaft, Fischerei und Handel. Der Reisanbau in den Küstenebenen ist von entscheidender Bedeutung. Die Nähe zur Hauptstadt Conakry und zur Grenze nach Sierra Leone treibt das Wachstum an. Maferinyah entwickelt sich zu einem wichtigen lokalen Handelszentrum. Die Bevölkerung ist eine Mischung aus Soussou und anderen ethnischen Gruppen. Die schnelle Urbanisierung führt zu Herausforderungen in der Infrastruktur und bei den öffentlichen Dienstleistungen. Geographie K8 – Küstenwirtschaft und peri-urbane Entwicklung.",
+            "descriptionAdvancedHu": "Maferinyah egy növekvő város és vidéki község a Forécariah prefektúrában, a part közelében. A gazdaság a mezőgazdaság, a halászat és a kereskedelem keveréke. A rizstermesztés a part menti síkságokon létfontosságú. A növekedést a főváros, Conakry és a Sierra Leone-i határ közelsége hajtja. Maferinyah fontos helyi kereskedelmi központtá fejlődik. A lakosság a szuszu és más etnikai csoportok keveréke. A gyors urbanizáció kihívásokat jelent az infrastruktúra és a közszolgáltatások terén. Földrajz K8 – Part menti gazdálkodás és városkörnyéki fejlődés.",
+            "descriptionAdvancedRo": "Maferinyah este un oraș în creștere și o comună rurală din prefectura Forécariah, aproape de coastă. Economia este un amestec de agricultură, pescuit și comerț. Cultivarea orezului în câmpiile de coastă este de o importanță crucială. Creșterea este stimulată de apropierea de capitala Conakry și de granița cu Sierra Leone. Maferinyah se dezvoltă într-un important centru comercial local. Populația este un amestec de Soussou și alte grupuri etnice. Urbanizarea rapidă duce la provocări în infrastructură și servicii publice. Geografie K8 – Economie de coastă și dezvoltare peri-urbană.",
+            "descriptionAdvancedEn": "Maferinyah is a growing town and rural commune in the Forécariah prefecture, near the coast. The economy is a mix of agriculture, fishing, and trade. Rice cultivation in the coastal plains is of crucial importance. Growth is driven by the proximity to the capital Conakry and the border with Sierra Leone. Maferinyah is developing into an important local trade center. The population is a mix of Soussou and other ethnic groups. Rapid urbanization leads to challenges in infrastructure and public services. Geography K8 – Coastal economy and peri-urban development.",
+            "factsAdvanced": [
+                "Növekvő város a Forécariah prefektúrában.",
+                "A part menti síkságon található, közel Conakryhoz.",
+                "A gazdaság a rizstermesztésre, a halászatra és a kereskedelemre épül.",
+                "A Sierra Leone-i határ közelsége szintén fontos tényező.",
+                "A lakosság etnikailag vegyes, Soussou többséggel.",
+                "Gyors urbanizáció és népességnövekedés jellemzi.",
+                "Fontos helyi piac és közlekedési csomópont.",
+                "Az infrastruktúra fejlesztése komoly kihívást jelent."
+            ]
+        },
+        {
+            "id": "wonkifong-cities-v2",
+            "descriptionAdvancedDe": "Wonkifong ist eine ländliche Gemeinde in der Präfektur Coyah, die in der Küstenregion Guineas liegt. Die Hauptwirtschaftszweige sind die Landwirtschaft, insbesondere der Reisanbau, und die traditionelle Salzgewinnung aus dem Meerwasser der Mangroven-Ästuare. Die Nähe zu Conakry ermöglicht den Verkauf landwirtschaftlicher Produkte auf den städtischen Märkten. Die Kultur der Soussou ist in der Region vorherrschend. Wonkifong ist ein Beispiel für eine Küstengemeinde, deren Lebensunterhalt eng mit den natürlichen Ressourcen der Mangroven und des Meeres verbunden ist. Geographie K8 – Mangrovenökonomie und traditionelle Industrien.",
+            "descriptionAdvancedHu": "Wonkifong egy vidéki község a Coyah prefektúrában, Guinea tengerparti régiójában. A fő gazdasági ágazatok a mezőgazdaság, különösen a rizstermesztés, és a hagyományos sólepárlás a mangrove torkolatok tengervizéből. A Conakryhoz való közelség lehetővé teszi a mezőgazdasági termékek értékesítését a városi piacokon. A szuszu kultúra a régióban uralkodó. Wonkifong egy példa egy tengerparti közösségre, amelynek megélhetése szorosan kötődik a mangrove és a tenger természeti erőforrásaihoz. Földrajz K8 – Mangrove-gazdálkodás és hagyományos iparágak.",
+            "descriptionAdvancedRo": "Wonkifong este o comună rurală din prefectura Coyah, situată în regiunea de coastă a Guineei. Principalele ramuri economice sunt agricultura, în special cultivarea orezului, și extracția tradițională a sării din apa de mare a estuarelor de mangrove. Apropierea de Conakry permite vânzarea produselor agricole pe piețele urbane. Cultura Soussou este predominantă în regiune. Wonkifong este un exemplu de comunitate de coastă a cărei existență este strâns legată de resursele naturale ale mangrovelor și ale mării. Geografie K8 – Economia mangrovelor și industriile tradiționale.",
+            "descriptionAdvancedEn": "Wonkifong is a rural commune in the Coyah prefecture, located in the coastal region of Guinea. The main economic sectors are agriculture, especially rice cultivation, and traditional salt extraction from the seawater of the mangrove estuaries. The proximity to Conakry allows for the sale of agricultural products in the urban markets. The Soussou culture is predominant in the region. Wonkifong is an example of a coastal community whose livelihood is closely linked to the natural resources of the mangroves and the sea. Geography K8 – Mangrove economy and traditional industries.",
+            "factsAdvanced": [
+                "Vidéki község a Coyah prefektúrában, Conakry közelében.",
+                "A gazdaság a rizstermesztésen és a sólepárláson alapul.",
+                "A mangrove ökoszisztéma kulcsfontosságú a helyi gazdaság számára.",
+                "A lakosság főként Soussou (Susu) etnikumú.",
+                "A halászat szintén fontos megélhetési forrás.",
+                "A közelség a fővároshoz piacot biztosít a helyi termékeknek.",
+                "A hagyományos sókitermelési technikákat generációk óta alkalmazzák.",
+                "A közösség élete szorosan kötődik az árapály ciklusaihoz."
+            ]
+        },
+        {
+            "id": "koule-cities-v2",
+            "descriptionAdvancedDe": "Koulé ist eine ländliche Gemeinde in der Präfektur Lola in der Waldregion Guineas. Die Wirtschaft basiert auf der Landwirtschaft, mit einem starken Fokus auf den Anbau von Kaffee und Kakao. Die Region ist auch für den Anbau von Reis und Maniok zur Selbstversorgung bekannt. Die Gemeinde liegt in der Nähe des Mount Nimba und ist von reicher Biodiversität umgeben. Die Bevölkerung gehört hauptsächlich den ethnischen Gruppen der Kpelle und Mano an. Koulé ist ein Beispiel für eine Dorfgemeinschaft, deren Leben eng mit dem umliegenden Regenwald und der Landwirtschaft verbunden ist. Geographie K8 – Waldlandwirtschaft und Biodiversität.",
+            "descriptionAdvancedHu": "Koulé egy vidéki község a Lola prefektúrában, Guinea erdős régiójában. A gazdaság alapja a mezőgazdaság, erős hangsúlyt fektetve a kávé- és kakaótermesztésre. A régió a rizs és a manióka önellátó termesztéséről is ismert. A község a Nimba-hegy közelében fekszik, és gazdag biodiverzitás veszi körül. A lakosság főként a kpelle és a mano etnikai csoportokhoz tartozik. Koulé egy példa egy falusi közösségre, amelynek élete szorosan kötődik a környező esőerdőhöz és a mezőgazdasághoz. Földrajz K8 – Erdei mezőgazdálkodás és biodiverzitás.",
+            "descriptionAdvancedRo": "Koulé este o comună rurală din prefectura Lola, în regiunea forestieră a Guineei. Economia se bazează pe agricultură, cu un accent puternic pe cultivarea cafelei și a cacauei. Regiunea este, de asemenea, cunoscută pentru cultivarea orezului și a maniocului pentru subzistență. Comuna este situată în apropierea Muntelui Nimba și este înconjurată de o biodiversitate bogată. Populația aparține în principal grupurilor etnice Kpelle și Mano. Koulé este un exemplu de comunitate sătească a cărei viață este strâns legată de pădurea tropicală înconjurătoare și de agricultură. Geografie K8 – Agricultură forestieră și biodiversitate.",
+            "descriptionAdvancedEn": "Koulé is a rural commune in the Lola prefecture in the forest region of Guinea. The economy is based on agriculture, with a strong focus on the cultivation of coffee and cocoa. The region is also known for the cultivation of rice and cassava for subsistence. The commune is located near Mount Nimba and is surrounded by rich biodiversity. The population belongs mainly to the Kpelle and Mano ethnic groups. Koulé is an example of a village community whose life is closely linked to the surrounding rainforest and agriculture. Geography K8 – Forest agriculture and biodiversity.",
+            "factsAdvanced": [
+                "Vidéki község a Lola prefektúrában, a Nimba-hegy közelében.",
+                "A gazdaság a kávé- és kakaótermesztésre összpontosít.",
+                "A kpelle és a mano népek lakta terület.",
+                "A környező erdők gazdag biodiverzitással rendelkeznek.",
+                "Az önellátó gazdálkodás (rizs, manióka) szintén fontos.",
+                "A közösség élete szorosan kötődik az erdőhöz.",
+                "A hagyományos hiedelmek és rítusok még mindig élnek.",
+                "A régióban a csimpánzok és más főemlősök is megtalálhatók."
+            ]
+        },
+        {
+            "id": "niagassola-cities-v2",
+            "descriptionAdvancedDe": "Niagassola ist eine historische Stadt in der Präfektur Siguiri, nahe der Grenze zu Mali. Sie ist berühmt als Hüterin des Sosso-Bala, des ältesten bekannten Balafons, das als Meisterwerk des mündlichen und immateriellen Erbes der Menschheit von der UNESCO anerkannt ist. Das Instrument ist das Symbol der Griot-Kultur in Westafrika. Die Stadt war einst Teil des Mali-Reiches und ist ein wichtiges Zentrum der Malinke-Kultur. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht, aber die kulturelle Bedeutung von Niagassola überstrahlt bei weitem seine wirtschaftliche Rolle. Es ist ein Pilgerort für Musiker und Historiker aus aller Welt. Geographie K8 – Kulturelles Erbe und historische Symbole.",
+            "descriptionAdvancedHu": "Niagassola egy történelmi város a Siguiri prefektúrában, a Mali határ közelében. Híres a Sosso-Bala, a legrégebbi ismert balafon őrzőjeként, amelyet az UNESCO az emberiség szóbeli és szellemi örökségének mesterműveként ismer el. A hangszer a griot kultúra szimbóluma Nyugat-Afrikában. A város egykor a Mali Birodalom része volt, és a malinke kultúra fontos központja. A gazdaság a mezőgazdaságra és az állattenyésztésre épül, de Niagassola kulturális jelentősége messze felülmúlja gazdasági szerepét. Zenészek és történészek zarándokhelye a világ minden tájáról. Földrajz K8 – Kulturális örökség és történelmi szimbólumok.",
+            "descriptionAdvancedRo": "Niagassola este un oraș istoric din prefectura Siguiri, aproape de granița cu Mali. Este renumit ca păstrător al Sosso-Bala, cel mai vechi balafon cunoscut, recunoscut de UNESCO ca o capodoperă a patrimoniului oral și imaterial al umanității. Instrumentul este simbolul culturii griot din Africa de Vest. Orașul a făcut parte odată din Imperiul Mali și este un centru important al culturii Malinke. Economia se bazează pe agricultură și creșterea animalelor, dar importanța culturală a Niagassolei depășește cu mult rolul său economic. Este un loc de pelerinaj pentru muzicieni și istorici din întreaga lume. Geografie K8 – Patrimoniu cultural și simboluri istorice.",
+            "descriptionAdvancedEn": "Niagassola is a historic town in the Siguiri prefecture, near the border with Mali. It is famous as the guardian of the Sosso-Bala, the oldest known balafon, which is recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity. The instrument is the symbol of the griot culture in West Africa. The town was once part of the Mali Empire and is an important center of Malinke culture. The economy is based on agriculture and livestock, but the cultural significance of Niagassola far outweighs its economic role. It is a place of pilgrimage for musicians and historians from all over the world. Geography K8 – Cultural heritage and historical symbols.",
+            "factsAdvanced": [
+                "A Sosso-Bala, egy ősi balafon (UNESCO Világörökség) őrzője.",
+                "A Kouyaté griot család hagyományos székhelye.",
+                "A Malinke és a griot kultúra egyik legfontosabb központja.",
+                "A Siguiri prefektúrában található, a mali határ közelében.",
+                "A lakosság körülbelül 25 000 fő a vidéki községben.",
+                "A gazdaság az önellátó mezőgazdaságra és az állattenyésztésre épül.",
+                "Történelmileg a Mali Birodalom egyik fontos kulturális helyszíne.",
+                "Zenészek és történészek zarándokhelye."
+            ]
+        }
+    ]
+}

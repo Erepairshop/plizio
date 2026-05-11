@@ -1,0 +1,14 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gao-cities-v2",
+      "description": "Gao a Niger folyó partján fekvő város, amely egykor a Szonghai Birodalom fővárosa volt. Fontos kereskedelmi központ a szaharai útvonalak találkozásánál.",
+      "facts": ["Egykori birodalmi székhely", "Niger folyó partján", "Kereskedelmi csomópont"]
+    }
+  ]
+}

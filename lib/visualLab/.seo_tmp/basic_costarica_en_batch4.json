@@ -1,0 +1,109 @@
+{
+  "lang": "en",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "feria-agricultor-life-v2",
+      "description": "Weekly farmer's markets are vibrant community hubs where locals buy fresh produce directly from regional growers.",
+      "facts": [
+        "Social and economic community event",
+        "Source of fresh, local tropical fruits",
+        "Traditional food stalls and snacks",
+        "Held in most towns every weekend"
+      ]
+    },
+    {
+      "id": "sarchi-crafts-life-v2",
+      "description": "Sarchí is Costa Rica's most famous artisan town, renowned for its colorful and intricately painted wooden oxcarts.",
+      "facts": [
+        "Cradle of national artisanal crafts",
+        "Famous for UNESCO-listed oxcarts",
+        "Vibrant hand-painted geometric designs",
+        "Major center for woodworking"
+      ]
+    },
+    {
+      "id": "tortilla-tradition-life-v2",
+      "description": "The art of making corn tortillas by hand on a clay comal is a cherished culinary tradition inherited from indigenous cultures.",
+      "facts": [
+        "Centuries-old indigenous heritage",
+        "Made from ground masa and water",
+        "Staple accompaniment for most meals",
+        "Often cooked over traditional wood fires"
+      ]
+    },
+    {
+      "id": "boruca-masks-life-v2",
+      "description": "Exquisite hand-carved masks created by the Boruca people, traditionally used in the annual 'Dance of the Devils' festival.",
+      "facts": [
+        "Carved from balsa or cedar wood",
+        "Vibrant colors and nature-inspired motifs",
+        "Used in historic indigenous ceremonies",
+        "Symbol of Boruca cultural resistance"
+      ]
+    },
+    {
+      "id": "gallo-pinto-life-v2",
+      "description": "Gallo Pinto is the quintessential Costa Rican breakfast, a flavorful mixture of seasoned rice and black beans.",
+      "facts": [
+        "National dish of Costa Rica",
+        "Traditionally seasoned with Lizano sauce",
+        "Served with eggs, cheese, and plantains",
+        "Name literally means 'Spotted Rooster'"
+      ]
+    },
+    {
+      "id": "balsa-wood-crafts-life-v2",
+      "description": "The carving of lightweight balsa wood into intricate animal and bird figurines is a specialized craft found in rural regions.",
+      "facts": [
+        "Extremely lightweight and soft wood",
+        "Detailed carvings of local wildlife",
+        "Hand-painted with realistic details",
+        "Popular sustainable souvenir craft"
+      ]
+    },
+    {
+      "id": "limon-carnival-life-v2",
+      "description": "A spectacular Afro-Caribbean festival in Puerto Limón, celebrating the region's unique cultural heritage with parades and music.",
+      "facts": [
+        "Annual celebration held in October",
+        "Vibrant Afro-Caribbean music and dance",
+        "Multi-day event with colorful parades",
+        "Commemorates the arrival of Columbus"
+      ]
+    },
+    {
+      "id": "chorotega-pottery-life-v2",
+      "description": "Traditional Chorotega pottery uses ancient pre-Columbian techniques and natural pigments to create beautiful ceramic art.",
+      "facts": [
+        "Pre-Columbian techniques preserved",
+        "Based in Guaitil and San Vicente",
+        "Uses locally sourced natural clays",
+        "Distinctive earth-tone geometric patterns"
+      ]
+    },
+    {
+      "id": "pineapple-farming-life-v2",
+      "description": "Pineapple production is a major pillar of the agricultural economy, with Costa Rica being a top global exporter of the fruit.",
+      "facts": [
+        "World leader in pineapple exports",
+        "Large-scale farming in tropical lowlands",
+        "Significant source of rural employment",
+        "Year-round production and harvest"
+      ]
+    },
+    {
+      "id": "fishing-village-life-v2",
+      "description": "Small coastal villages maintain a traditional way of life centered around artisanal fishing and the bounty of the sea.",
+      "facts": [
+        "Artisanal small-scale fishing methods",
+        "Daily harvests of fresh local seafood",
+        "Strong cultural ties to the ocean",
+        "Laid-back coastal lifestyle and economy"
+      ]
+    }
+  ]
+}

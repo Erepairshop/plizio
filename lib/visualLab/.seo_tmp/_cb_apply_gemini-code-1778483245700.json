@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-von-encheia-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Encheia ist ein strategisch bedeutender Flusshafen am Rio Mansoa in der Region Oio. Gelegen im Herzen eines der fruchtbarsten Agrargebiete Guinea-Bissaus, fungiert Encheia als zentraler Sammel- und Verladepunkt für Erzeugnisse aus dem Norden des Landes. Die ökonomische Relevanz des Hafens ergibt sich primär aus dem Abtransport von Cashewnüssen und Erdnüssen, die per Boot flussabwärts in Richtung Bissau transportiert werden. Die Architektur des Hafengeländes ist rein funktional und besteht aus einfachen Kaianlagen und Lagerhäusern, die an die Gezeitenzyklen des Mansoa angepasst sind. Da der Landweg in dieser Region während der Regenzeit oft schwer passierbar ist, stellt der Hafen von Encheia eine unverzichtbare logistische Lebensader für die Bauernkooperativen von Oio dar. Der Hafen unterstützt zudem die lokale Fischerei, die den regionalen Markt mit Frischfisch versorgt. Encheia ist ein klassisches Beispiel für die Bedeutung der Binnenschifffahrt in der guineischen Ökonomie, die trotz moderner Straßenbauten weiterhin das Rückgrat für den Schwerlasttransport landwirtschaftlicher Massengüter bildet.",
+        "hu": "Encheia kikötője egy stratégiai jelentőségű folyami kikötő a Mansoa-folyó partján, az Oio régióban. Guinea-Bissau egyik legtermékenyebb mezőgazdasági területének szívében fekve, Encheia központi gyűjtő- és rakodópontként funkcionál az ország északi részéből származó termények számára. A kikötő gazdasági relevanciája elsősorban a kesudió és a földimogyoró elszállításából adódik, amelyeket hajóval szállítanak a folyón lefelé Bissau irányába. A kikötői terület építészete tisztán funkcionális, egyszerű rakpartokból és raktárakból áll, amelyeket a Mansoa-folyó árapály-ciklusaihoz igazítottak. Mivel ebben a régióban a szárazföldi utak az esős évszakban gyakran nehezen járhatóak, Encheia kikötője nélkülözhetetlen logisztikai életvonalat jelent az Oio-i gazdaszövetkezetek számára. A kikötő emellett támogatja a helyi halászatot is, amely friss hallal látja el a regionális piacot. Encheia kiváló példája a belvízi hajózás jelentőségének a guineai gazdaságban, amely a modern útépítések ellenére továbbra is a mezőgazdasági tömegáruk nehézgépjárműves szállításának gerincét alkotja.",
+        "ro": "Portul Encheia este un port fluvial de importanță strategică pe râul Mansoa, în regiunea Oio. Situat în inima uneia dintre cele mai fertile zone agricole din Guineea-Bissau, Encheia funcționează ca un punct central de colectare și încărcare pentru produsele din nordul țării. Relevanța economică a portului derivă în principal din transportul nucilor caju și al arahidelor, care sunt transportate cu barca în aval, către Bissau. Arhitectura zonei portuare este pur funcțională și constă în cheiuri simple și depozite adaptate ciclurilor de maree ale râului Mansoa. Deoarece căile terestre din această regiune sunt adesea greu practicabile în timpul sezonului ploios, portul Encheia reprezintă o arteră logistică indispensabilă pentru cooperativele agricole din Oio. Portul susține, de asemenea, pescuitul local, care aprovizionează piața regională cu pește proaspăt. Encheia este un exemplu clasic al importanței navigației interioare în economia guineeană, care, în ciuda construcțiilor rutiere moderne, continuă să fie coloana vertebrală pentru transportul greu de mărfuri agricole în vrac.",
+        "en": "The Port of Encheia is a strategically significant river port on the Mansoa River in the Oio region. Situated in the heart of one of Guinea-Bissau's most fertile agricultural areas, Encheia serves as a central collection and loading point for produce from the north of the country. The port's economic relevance primarily stems from the shipment of cashew nuts and peanuts, which are transported downstream by boat toward Bissau. The architecture of the port area is purely functional, consisting of simple quays and warehouses adapted to the tidal cycles of the Mansoa. As overland routes in this region are often difficult to navigate during the rainy season, the Port of Encheia represents an indispensable logistical lifeline for the agricultural cooperatives of Oio. The port also supports local fishing, which supplies the regional market with fresh fish. Encheia is a classic example of the importance of inland navigation in the Bissau-Guinean economy, which, despite modern road construction, continues to be the backbone for the heavy transport of bulk agricultural goods."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Encheia ist ein wichtiger Umschlagplatz für den Reistransport aus der Oio-Region.",
+          "Der Hafen nutzt die tiefen Gezeitenrinnen des Rio Mansoa für größere Pirogen.",
+          "Die wirtschaftliche Aktivität erreicht während der Cashew-Ernte ihren Höhepunkt.",
+          "Encheia ist über eine Regionalstraße direkt mit Bissau und Mansoa verbunden.",
+          "Der Hafen dient auch als Versorgungsstation für landwirtschaftliche Betriebsmittel.",
+          "Die Lagerkapazitäten in Encheia wurden in den letzten Jahren erweitert."
+        ],
+        "hu": [
+          "Encheia az Oio régióból származó rizsszállítmányok egyik fő rakodóhelye.",
+          "A kikötő kihasználja a Mansoa-folyó mély árapály-csatornáit a nagyobb pirogok számára.",
+          "A gazdasági aktivitás a kesudió-aratás idején éri el a csúcspontját.",
+          "Encheia egy mellékúton keresztül közvetlen kapcsolatban áll Bissauval és Mansoával.",
+          "A kikötő a mezőgazdasági alapanyagok beszerzési állomásaként is szolgál.",
+          "Az encheiai raktárkapacitást az elmúlt években jelentősen bővítették."
+        ],
+        "ro": [
+          "Encheia este un punct major de transbordare pentru orezul din regiunea Oio.",
+          "Portul utilizează canalele adânci de maree ale râului Mansoa pentru pirogile mari.",
+          "Activitatea economică atinge apogeul în timpul recoltării nucilor caju.",
+          "Encheia este conectată direct cu Bissau și Mansoa printr-un drum regional.",
+          "Portul servește și ca stație de aprovizionare pentru inputuri agricole.",
+          "Capacitățile de depozitare din Encheia au fost extinse în ultimii ani."
+        ],
+        "en": [
+          "Encheia is a major transshipment point for rice transport from the Oio region.",
+          "The port utilizes the Mansoa River's deep tidal channels for larger pirogues.",
+          "Economic activity peaks during the cashew harvest season.",
+          "Encheia is linked directly to Bissau and Mansoa via a regional road.",
+          "The port also functions as a supply station for agricultural inputs.",
+          "Storage capacities in Encheia have been expanded in recent years."
+        ]
+      }
+    },
+    {
+      "id": "port-von-bion-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Bion ist ein spezialisierter Binnenhafen am Rio Geba in der Region Bafatá. Seine ökonomische Funktion ist eng mit der agro-industriellen Entwicklung des guineischen Hinterlandes verknüpft. Bion dient als einer der nördlichsten schiffbaren Punkte des Geba-Flusses für kleinere Frachtkähne und motorisierte Pirogen. Der Fokus der wirtschaftlichen Tätigkeit liegt hier auf dem Umschlag von Baumwolle, Vieh und Getreide, die aus den trockeneren Savannengebieten des Ostens herangebracht werden. Die Hafenarchitektur ist durch temporäre und einfache feste Strukturen geprägt, die den saisonalen Schwankungen des Flusspegels Rechnung tragen. Bion ist von großer Bedeutung für den regionalen Handel, da der Hafen die Transportkosten für Massengüter im Vergleich zum reinen Landweg senkt. Er fungiert als Bindeglied zwischen den Viehzüchtern von Gabú und den Konsumentenmärkten an der Küste. In den letzten Jahrzehnten hat die Bedeutung des Hafens aufgrund der zunehmenden Versandung des Rio Geba leicht abgenommen, doch bleibt Bion ein kritischer Knotenpunkt für die ländliche Logistik und den informellen Sektor in Zentral-Guinea-Bissau.",
+        "hu": "Bion kikötője egy speciális folyami kikötő a Geba-folyó partján, a Bafatá régióban. Gazdasági funkciója szorosan kapcsolódik a guineai hátország agrár-ipari fejlődéséhez. Bion a Geba-folyó egyik legészakibb, kisebb teherhajók és motoros pirogok számára még hajózható pontja. A gazdasági tevékenység súlypontja itt a gyapot, az élőállat és a gabona rakodásán van, amelyeket a keleti részek szárazabb szavannáiról szállítanak ide. A kikötő építészetét ideiglenes és egyszerű állandó szerkezetek jellemzik, amelyek figyelembe veszik a folyó vízszintjének szezonális ingadozásait. Bion nagy jelentőséggel bír a regionális kereskedelemben, mivel a kikötő csökkenti a tömegáruk szállítási költségeit a tisztán közúti szállításhoz képest. Kapocsként szolgál a gabúi állattenyésztők és a part menti fogyasztói piacok között. Az elmúlt évtizedekben a kikötő jelentősége a Geba-folyó fokozódó eliszaposodása miatt némileg csökkent, de Bion továbbra is kritikus csomópont marad Közép-Guinea-Bissau vidéki logisztikájában és informális szektorában.",
+        "ro": "Portul Bion este un port fluvial specializat pe râul Geba, în regiunea Bafatá. Funcția sa economică este strâns legată de dezvoltarea agro-industrială a hinterlandului guineean. Bion servește drept unul dintre punctele navigabile cele mai nordice ale râului Geba pentru barjele cargo mici și pirogile motorizate. Punctul central al activității economice aici este manipularea bumbacului, a vitelor și a cerealelor, aduse din zonele de savană mai uscate din est. Arhitectura portuară este marcată de structuri fixe simple și temporare, care țin cont de variațiile sezoniere ale nivelului râului. Bion este de mare importanță pentru comerțul regional, deoarece portul reduce costurile de transport pentru mărfurile în vrac în comparație cu transportul exclusiv terestru. Funcționează ca o legătură între crescătorii de animale din Gabú și piețele de consum de pe coastă. În ultimele decenii, importanța portului a scăzut ușor din cauza colmatării accentuate a râului Geba, dar Bion rămâne un nod critic pentru logistica rurală și sectorul informal din centrul Guineei-Bissau.",
+        "en": "The Port of Bion is a specialized inland port on the Geba River in the Bafatá region. Its economic function is closely tied to the agro-industrial development of the Bissau-Guinean interior. Bion serves as one of the northernmost navigable points on the Geba River for small cargo barges and motorized pirogues. The focus of economic activity here is the handling of cotton, livestock, and grain brought from the drier savanna areas of the east. The port architecture is characterized by simple fixed and temporary structures that account for seasonal fluctuations in the river level. Bion is of great importance for regional trade, as the port lowers transport costs for bulk goods compared to purely land-based transport. It acts as a link between the livestock farmers of Gabú and the consumer markets on the coast. In recent decades, the port's significance has slightly declined due to the increasing siltation of the Geba River, yet Bion remains a critical hub for rural logistics and the informal sector in central Guinea-Bissau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bion ist ein zentraler Verladepunkt für Baumwolle aus der Region Gabú.",
+          "Der Hafen ermöglicht den Transport von Rindern per Schiff nach Bissau.",
+          "Die Schiffbarkeit hängt stark von der jährlichen Regenmenge ab.",
+          "Bion ist ein wichtiger Stützpunkt für den informellen Getreidehandel.",
+          "Der Hafen dient als logistische Brücke zwischen dem Osten und der Küste.",
+          "In Bion gibt es Pläne für den Bau modernerer Getreidesilos."
+        ],
+        "hu": [
+          "Bion a Gabú régióból származó gyapot egyik központi rakodóhelye.",
+          "A kikötő lehetővé teszi a szarvasmarhák hajón történő szállítását Bissau felé.",
+          "A hajózhatóság nagyban függ az éves csapadékmennyiségtől.",
+          "Bion az informális gabonakereskedelem egyik fontos bázisa.",
+          "A kikötő logisztikai hídként funkcionál a keleti országrész és a partvidék között.",
+          "Bionban tervek születtek modern gabonasilók építésére."
+        ],
+        "ro": [
+          "Bion este un punct central de încărcare pentru bumbacul din regiunea Gabú.",
+          "Portul permite transportul vitelor cu nava către Bissau.",
+          "Navigabilitatea depinde în mare măsură de cantitatea anuală de precipitații.",
+          "Bion este o bază importantă pentru comerțul informal cu cereale.",
+          "Portul servește drept punte logistică între est și coastă.",
+          "În Bion există planuri pentru construcția unor silozuri de cereale mai moderne."
+        ],
+        "en": [
+          "Bion is a central loading point for cotton from the Gabú region.",
+          "The port enables the transport of cattle by ship to Bissau.",
+          "Navigability depends heavily on the annual amount of rainfall.",
+          "Bion is an important base for the informal grain trade.",
+          "The port serves as a logistical bridge between the east and the coast.",
+          "There are plans in Bion for the construction of more modern grain silos."
+        ]
+      }
+    },
+    {
+      "id": "bissau-reismuehle-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Reismühle von Bissau ist eine zentrale industrielle Einrichtung für die nationale Ernährungssicherheit und die wichtigste Verarbeitungsstätte für das Grundnahrungsmittel Guinea-Bissaus. Gelegen am Stadtrand der Hauptstadt, verarbeitet diese Anlage Rohreis aus den verschiedenen Anbauregionen des Landes, insbesondere aus den küstennahen 'Bolonhas'. Die wirtschaftliche Bedeutung der Reismühle liegt in der Reduzierung der Abhängigkeit von teuren Reisimporten durch die Veredelung lokaler Ernten. Die Architektur des Werkes umfasst moderne Trocknungsanlagen, Schälmaschinen und großflächige Silos zur Lagerung. Das Werk spielt eine entscheidende Rolle in der Wertschöpfungskette der guineischen Landwirtschaft, indem es den Bauern eine garantierte Abnahme ihrer Produkte ermöglicht und gleichzeitig die Qualität des auf dem Inlandsmarkt verkauften Reises sichert. Trotz der Konkurrenz durch asiatische Importe bleibt die Bissau-Reismühle ein Symbol für den Kampf um ökonomische Eigenständigkeit im Agrarsektor. Sie ist zudem ein bedeutender Arbeitgeber im verarbeitenden Gewerbe der Hauptstadt und ein Vorzeigeprojekt für die industrielle Modernisierung des Landes.",
+        "hu": "A bissaui nagy rizsmalom a nemzeti élelmezésbiztonság központi ipari létesítménye és Guinea-Bissau alapvető élelmiszerének legfontosabb feldolgozóhelye. A főváros peremén elhelyezkedő üzem az ország különböző termesztési régióiból, különösen a part menti mocsári rizsföldekről (bolonhas) származó nyers rizst dolgozza fel. A rizsmalom gazdasági jelentősége abban rejlik, hogy a helyi termés nemesítése révén csökkenti a drága rizsimporttól való függőséget. A gyár építészete modern szárítóberendezéseket, hántológépeket és nagyméretű tároló szilókat foglal magában. Az üzem döntő szerepet játszik a guineai mezőgazdaság értékláncában azáltal, hogy garantált átvételt biztosít a gazdák terményeinek, és egyúttal garantálja a hazai piacon értékesített rizs minőségét. Az ázsiai importból származó verseny ellenére a bissaui rizsmalom az agrárágazat gazdasági önállóságáért folytatott küzdelem szimbóluma marad. Emellett a főváros feldolgozóiparának jelentős munkáltatója és az ország ipari modernizációjának egyik kiemelt projektje.",
+        "ro": "Marea moară de orez din Bissau este o unitate industrială centrală pentru securitatea alimentară națională și cel mai important loc de prelucrare pentru alimentul de bază al Guineei-Bissau. Situată la periferia capitalei, această instalație prelucrează orezul brut din diversele regiuni de cultivare ale țării, în special din 'bolonhas' din apropierea coastei. Importanța economică a morii de orez constă în reducerea dependenței de importurile costisitoare de orez prin rafinarea recoltelor locale. Arhitectura fabricii cuprinde instalații moderne de uscare, mașini de decorticat și silozuri de mari dimensiuni pentru depozitare. Fabrica joacă un rol crucial în lanțul valoric al agriculturii guineene, permițând fermierilor o achiziție garantată a produselor lor și asigurând în același timp calitatea orezului vândut pe piața internă. În ciuda concurenței importurilor asiatice, moara de orez din Bissau rămâne un simbol al luptei pentru independență economică în sectorul agricol. Este, de asemenea, un angajator semnificativ în industria prelucrătoare a capitalei și un proiect model pentru modernizarea industrială a țării.",
+        "en": "The Bissau Large Rice Mill is a central industrial facility for national food security and the most important processing site for Guinea-Bissau's staple food. Located on the outskirts of the capital, this plant processes raw rice from the country's various cultivation regions, particularly from the coastal 'bolonhas'. The rice mill's economic significance lies in reducing dependence on expensive rice imports by refining local harvests. The plant's architecture includes modern drying facilities, hulling machines, and large-scale silos for storage. The mill plays a crucial role in the value chain of Bissau-Guinean agriculture by providing farmers with a guaranteed market for their products while ensuring the quality of the rice sold on the domestic market. Despite competition from Asian imports, the Bissau rice mill remains a symbol of the struggle for economic self-reliance in the agricultural sector. It is also a significant employer in the capital's manufacturing industry and a flagship project for the country's industrial modernization."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Reismühle ist die größte Anlage ihrer Art in Guinea-Bissau.",
+          "Reis ist für über 90 % der Bevölkerung das tägliche Hauptnahrungsmittel.",
+          "Das Werk fördert den Absatz des lokal angebauten 'Mangrovenreises'.",
+          "Die Silos der Mühle fassen Tausende Tonnen Getreide.",
+          "Internationale Hilfsprogramme unterstützen die Modernisierung der Maschinen.",
+          "Die Fabrik ist ein strategischer Punkt für die nationale Vorratshaltung."
+        ],
+        "hu": [
+          "A rizsmalom a legnagyobb ilyen jellegű létesítmény Guinea-Bissauban.",
+          "A rizs a lakosság több mint 90%-a számára a napi fő élelemforrás.",
+          "Az üzem elősegíti a helyben termesztett „mocsári rizs” értékesítését.",
+          "A malom szilói több ezer tonna gabona befogadására alkalmasak.",
+          "Nemzetközi segélyprogramok támogatják a géppark modernizálását.",
+          "A gyár stratégiai pont a nemzeti élelmiszertartalékolás szempontjából."
+        ],
+        "ro": [
+          "Moara de orez este cea mai mare unitate de acest tip din Guineea-Bissau.",
+          "Orezul este alimentul principal zilnic pentru peste 90% din populație.",
+          "Fabrica promovează vânzarea 'orezului de mangrove' cultivat local.",
+          "Silozurile morii au o capacitate de mii de tone de cereale.",
+          "Programele internaționale de ajutor sprijină modernizarea utilajelor.",
+          "Fabrica este un punct strategic pentru constituirea rezervelor naționale."
+        ],
+        "en": [
+          "The rice mill is the largest facility of its kind in Guinea-Bissau.",
+          "Rice is the daily staple for over 90% of the population.",
+          "The plant promotes the marketability of locally grown 'mangrove rice'.",
+          "The mill's silos can hold thousands of tons of grain.",
+          "International aid programs support the modernization of the machinery.",
+          "The factory is a strategic point for national food stockpiling."
+        ]
+      }
+    },
+    {
+      "id": "georgetown-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Georgetown, die Hauptstadt Guyanas, ist eine faszinierende Metropole an der Mündung des Demerara-Flusses in den Atlantik. Gegründet von den Niederländern und später von den Briten massiv ausgebaut, spiegelt die Stadt eine einzigartige koloniale Geschichte wider. Charakteristisch für Georgetown ist die hölzerne Kolonialarchitektur, allen voran die St. George’s Cathedral, eine der höchsten hölzernen Kirchen der Welt. Die Stadt liegt unterhalb des Meeresspiegels bei Flut und wird durch ein komplexes System von Kanälen und den berühmten Seawall geschützt, ein Erbe niederländischer Wasserbaukunst. Georgetown ist das politische und wirtschaftliche Zentrum Guyanas, geprägt durch den geschäftigen Hafen, von dem aus Zucker, Gold und in jüngster Zeit massiv Rohöl exportiert werden. Die multikulturelle Identität der Stadt manifestiert sich in der Vielfalt ihrer Tempel, Moscheen und Kirchen sowie in der lebhaften Atmosphäre des Stabroek Market, dem architektonischen Wahrzeichen der Stadt. Georgetown ist eine Stadt der Kontraste, in der verfallende hölzerne Eleganz auf modernen Aufbruch trifft, getrieben durch den aktuellen Ölboom im Land. Die üppigen botanischen Gärten und die breiten, von Bäumen gesäumten Alleen verleihen der 'Gartenstadt der Karibik' ihren besonderen Charme.",
+        "hu": "Georgetown, Guyana fővárosa, egy lenyűgöző metropolisz a Demerara-folyó torkolatánál, az Atlanti-óceán partján. A hollandok által alapított, majd a britek által jelentősen kibővített város egyedülálló gyarmati múltat tükröz. Georgetownra jellemző a fából készült koloniális építészet, amelynek legkiemelkedőbb példája a Szent György-székesegyház, a világ egyik legmagasabb faépítésű temploma. A város dagálykor a tengerszint alatt fekszik, védelmét csatornák bonyolult rendszere és a híres Seawall (tengeri gát) biztosítja, amely a holland vízépítő művészet öröksége. Georgetown Guyana politikai és gazdasági központja, ahol a forgalmas kikötőből cukrot, aranyat és az utóbbi időben hatalmas mennyiségű kőolajat exportálnak. A város multikulturális identitása megmutatkozik a templomok, mecsetek és keresztény templomok sokszínűségében, valamint a Stabroek Market, a város építészeti jelképének vibráló hangulatában. Georgetown az ellentétek városa, ahol a málló faépületek eleganciája találkozik a modern fejlődéssel, amelyet az ország jelenlegi olajbummja hajt. A dús botanikus kertek és a széles, fákkal szegélyezett sugárutak adják meg a „Karib-térség kertvárosának” sajátos báját.",
+        "ro": "Georgetown, capitala Guyanei, este o metropolă fascinantă situată la gura de vărsare a râului Demerara în Oceanul Atlantic. Fondat de olandezi și extins masiv ulterior de britanici, orașul reflectă o istorie colonială unică. Caracteristică pentru Georgetown este arhitectura colonială din lemn, în frunte cu Catedrala Sf. Gheorghe, una dintre cele mai înalte biserici de lemn din lume. Orașul se află sub nivelul mării la flux și este protejat de un sistem complex de canale și de faimosul Seawall, o moștenire a ingineriei hidraulice olandeze. Georgetown este centrul politic și economic al Guyanei, marcat de portul aglomerat prin care sunt exportate zahărul, aurul și, în ultima perioadă, cantități masive de țiței. Identitatea multiculturală a orașului se manifestă în diversitatea templelor, moscheilor și bisericilor sale, precum și în atmosfera animată a Pieței Stabroek, simbolul arhitectural al orașului. Georgetown este un oraș al contrastelor, unde eleganța din lemn aflată în degradare întâlnește avântul modern, impulsionat de actualul boom petrolier din țară. Grădinile botanice luxuriante și bulevardele largi, mărginite de arbori, conferă 'orașului grădină al Caraibelor' farmecul său deosebit.",
+        "en": "Georgetown, the capital of Guyana, is a fascinating metropolis situated at the mouth of the Demerara River on the Atlantic coast. Founded by the Dutch and later extensively expanded by the British, the city reflects a unique colonial history. Georgetown is characterized by its wooden colonial architecture, most notably St. George’s Cathedral, one of the world's tallest wooden churches. The city lies below sea level at high tide and is protected by a complex system of canals and the famous Seawall, a legacy of Dutch hydraulic engineering. Georgetown is the political and economic heart of Guyana, defined by its bustling port from which sugar, gold, and more recently, massive quantities of crude oil are exported. The city's multicultural identity is manifest in its diverse temples, mosques, and churches, as well as the vibrant atmosphere of Stabroek Market, the city's architectural landmark. Georgetown is a city of contrasts, where decaying wooden elegance meets modern growth, driven by the country's current oil boom. Lush botanical gardens and wide, tree-lined avenues give the 'Garden City of the Caribbean' its distinctive charm."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Georgetown liegt bis zu zwei Meter unter dem Meeresspiegel.",
+          "Die St. George’s Cathedral wurde fast vollständig aus einheimischem Hartholz gebaut.",
+          "Der Seawall erstreckt sich über fast 450 Kilometer entlang der Küste.",
+          "Stabroek Market besitzt einen ikonischen gußeisernen Uhrturm aus dem Jahr 1881.",
+          "Die Stadt beherbergt das Hauptquartier der Karibischen Gemeinschaft (CARICOM).",
+          "Das Parlament Guyanas tagt in einem klassizistischen Ziegelbau von 1834."
+        ],
+        "hu": [
+          "Georgetown akár két méterrel is a tengerszint alatt fekszik.",
+          "A Szent György-székesegyház szinte teljes egészében helyi keményfából épült.",
+          "A tengeri gát (Seawall) közel 450 kilométer hosszan húzódik a part mentén.",
+          "A Stabroek Market ikonikus öntöttvas óratornya 1881-ben készült.",
+          "A város ad otthont a Karib-tengeri Közösség (CARICOM) székházának.",
+          "Guyana parlamentje egy 1834-ben épült klasszicista téglaépületben ülésezik."
+        ],
+        "ro": [
+          "Georgetown se află cu până la doi metri sub nivelul mării.",
+          "Catedrala Sf. Gheorghe a fost construită aproape integral din lemn tare local.",
+          "Digul Seawall se întinde pe aproape 450 de kilometri de-a lungul coastei.",
+          "Piața Stabroek are un turn cu ceas iconic din fontă, datând din 1881.",
+          "Orașul găzduiește sediul central al Comunității Caraibelor (CARICOM).",
+          "Parlamentul Guyanei se întrunește într-o clădire neoclasică din cărămidă din 1834."
+        ],
+        "en": [
+          "Georgetown sits up to two meters below the high-tide mark.",
+          "St. George’s Cathedral was constructed almost entirely from local greenheart timber.",
+          "The Seawall stretches for nearly 450 kilometers along Guyana's coast.",
+          "Stabroek Market features an iconic cast-iron clock tower built in 1881.",
+          "The city is home to the headquarters of the Caribbean Community (CARICOM).",
+          "Guyana's Parliament meets in a neoclassical brick building dating to 1834."
+        ]
+      }
+    },
+    {
+      "id": "linden-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Linden ist die zweitgrößte Stadt Guyanas und das industrielle Zentrum des Landes, gelegen am Oberlauf des Demerara-Flusses. Ursprünglich aus den drei Siedlungen Mackenzie, Wismar und Christianburg entstanden, wurde die Stadt 1970 zu Ehren des ehemaligen Präsidenten Forbes Burnham Linden benannt. Die Geschichte und Wirtschaft von Linden sind untrennbar mit dem Bauxitabbau verbunden. Über Jahrzehnte war die Stadt das Herz der globalen Aluminiumoxidproduktion, was Linden einen einzigartigen, industriell geprägten Charakter verlieh. Das Relief der Umgebung ist durch massive Tagebaue und rötliche Abraumhalden geprägt, die einen starken Kontrast zum umliegenden Regenwald bilden. Linden fungiert als wichtiges logistisches Tor zum Binnenland Guyanas, insbesondere zu den Bergbaugebieten im Süden und Westen. Die Demerara-River-Bridge ist ein zentrales infrastrukturelles Element, das die Stadtteile verbindet. Trotz Phasen des wirtschaftlichen Wandels bleibt Linden ein stolzes Zentrum der Arbeiterklasse und ein Schmelztiegel der Kulturen, in dem die Bergbautradition weiterhin das soziale Gefüge bestimmt. Die Stadt ist zudem für ihre lebendige Sportszene und als Ausgangspunkt für Expeditionen in die Rupununi-Savanne bekannt.",
+        "hu": "Linden Guyana második legnagyobb városa és az ország ipari központja, amely a Demerara-folyó felső szakaszánál található. Az eredetileg három településből – Mackenzie, Wismar és Christianburg – létrejött várost 1970-ben nevezték el Lindennek, a korábbi elnök, Forbes Burnham tiszteletére. Linden történelme és gazdasága elválaszthatatlan a bauxitbányászattól. Évtizedeken át a város a globális alumínium-oxid termelés szíve volt, ami Lindennek sajátos, ipari jellegű karaktert kölcsönzött. A környező domborzatot hatalmas külszíni fejtések és vöröses meddőhányók határozzák meg, amelyek éles kontrasztban állnak a környező esőerdővel. Linden fontos logisztikai kapuként szolgál Guyana belső területei, különösen a déli és nyugati bányavidékek felé. A Demerara-folyón átívelő híd központi infrastrukturális elem, amely összeköti a városrészeket. A gazdasági átalakulás nehézségei ellenére Linden továbbra is a büszke munkásosztály központja és a kultúrák olvasztótégelye, ahol a bányászati hagyományok ma is meghatározzák a társadalmi szövetet. A város emellett élénk sportéletéről és a Rupununi-szavannára induló expedíciók kiindulópontjaként is ismert.",
+        "ro": "Linden este al doilea oraș ca mărime din Guyana și centrul industrial al țării, situat pe cursul superior al râului Demerara. Format inițial din trei așezări – Mackenzie, Wismar și Christianburg – orașul a fost redenumit Linden în 1970 în onoarea fostului președinte Forbes Burnham. Istoria și economia localității Linden sunt inseparabil legate de exploatarea bauxitei. Timp de decenii, orașul a fost inima producției globale de alumină, ceea ce i-a conferit un caracter industrial unic. Relieful din împrejurimi este marcat de exploatări masive la suprafață și de halde de steril roșiatice, care creează un contrast puternic cu pădurea tropicală înconjurătoare. Linden funcționează ca o poartă logistică importantă către interiorul Guyanei, în special către zonele miniere din sud și vest. Podul peste râul Demerara este un element de infrastructură central care conectează cartierele orașului. În ciuda perioadelor de transformare economică, Linden rămâne un centru mândru al clasei muncitoare și un creuzet de culturi, unde tradiția minieră continuă să definească structura socială. Orașul este cunoscut, de asemenea, pentru scena sa sportivă vibrantă și ca punct de plecare pentru expedițiile către savana Rupununi.",
+        "en": "Linden is the second-largest city in Guyana and the country's primary industrial center, located on the upper reaches of the Demerara River. Originally formed from the three settlements of Mackenzie, Wismar, and Christianburg, the city was renamed Linden in 1970 in honor of former President Forbes Burnham. The history and economy of Linden are inextricably linked to bauxite mining. For decades, the city was the heart of global alumina production, granting Linden a unique, industrially focused character. The surrounding relief is defined by massive open-cast mines and reddish overburden heaps that contrast sharply with the surrounding rainforest. Linden serves as a vital logistical gateway to Guyana's interior, particularly to the mining areas in the south and west. The Demerara River Bridge is a key piece of infrastructure connecting the city's districts. Despite cycles of economic transition, Linden remains a proud working-class hub and a melting pot of cultures where mining traditions continue to shape the social fabric. The city is also renowned for its vibrant sports scene and as a starting point for expeditions into the Rupununi Savanna."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Linden wurde 1970 offiziell durch den Zusammenschluss dreier Orte gegründet.",
+          "Die Stadt beherbergt eines der weltweit größten Bauxit-Vorkommen.",
+          "Der Demerara-Fluss ist bis Linden für Hochseeschiffe schiffbar.",
+          "Die Stadtteile Mackenzie und Wismar sind durch eine strategische Brücke verbunden.",
+          "Linden gilt als das 'Tor zum Hinterland' für Reisen nach Lethem.",
+          "In Christianburg steht ein historisches Wasserrad aus der Zeit der Holzindustrie."
+        ],
+        "hu": [
+          "Lindent 1970-ben hozták létre hivatalosan három település összevonásával.",
+          "A város a világ egyik legnagyobb bauxitlelőhelyének ad otthont.",
+          "A Demerara-folyó Lindenig a tengerjáró hajók számára is hajózható.",
+          "Mackenzie és Wismar városrészeket egy stratégiai fontosságú híd köti össze.",
+          "Lindent a „hátország kapujaként” emlegetik a Lethem felé tartók számára.",
+          "Christianburgban egy történelmi víikerék áll a faipar fénykorából."
+        ],
+        "ro": [
+          "Linden a fost înființat oficial în 1970 prin fuziunea a trei localități.",
+          "Orașul găzduiește unul dintre cele mai mari zăcăminte de bauxită din lume.",
+          "Râul Demerara este navigabil pentru nave maritime până la Linden.",
+          "Cartierele Mackenzie și Wismar sunt conectate printr-un pod strategic.",
+          "Linden este considerat 'poarta către interior' pentru călătoriile spre Lethem.",
+          "În Christianburg se află o roată hidraulică istorică din epoca industriei lemnului."
+        ],
+        "en": [
+          "Linden was officially established in 1970 by merging three separate towns.",
+          "The city houses some of the world's highest-quality bauxite deposits.",
+          "The Demerara River remains navigable for ocean-going vessels as far as Linden.",
+          "A strategic bridge links the districts of Mackenzie and Wismar across the river.",
+          "Linden is widely called the 'Gateway to the Interior' for travel toward Lethem.",
+          "Christianburg features a historic waterwheel dating back to the logging era."
+        ]
+      }
+    }
+  ]
+}

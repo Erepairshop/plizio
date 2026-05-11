@@ -1,0 +1,24 @@
+{
+  "lang": "ro",
+  "country": "Myanmar",
+  "files": [
+    "lib/visualLab/data/poiExtraMyanmarHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amarapura-historical-city-history-v2",
+      "description": "Amarapura a fost capitala Regatului Birmaniei în două rânduri, fiind renumită pentru arhitectura sa tradițională și complexul mănăstiresc Mahagandayon. Orașul păstrează urmele fostei sale glorii regale prin numeroasele temple și situri istorice.",
+      "facts": ["Fondat în 1783", "Fostă capitală regală", "Situat lângă lacul Taungthaman", "Centru de țesut mătase"]
+    },
+    {
+      "id": "botahtaung-pagoda-history-v2",
+      "description": "Pagoda Botahtaung este un monument religios istoric situat pe malul râului Yangon, despre care se spune că adăpostește o relicvă a părului lui Buddha. Structura sa interioară unică permite vizitatorilor să exploreze relicvariul în formă de oglindă.",
+      "facts": ["Reconstruită după 1948", "Situată în Yangon", "Adăpostește relicve sacre", "Arhitectură în formă de labirint"]
+    },
+    {
+      "id": "ananda-temple-history-v2",
+      "description": "Templul Ananda, situat în Bagan, reprezintă una dintre cele mai frumoase și bine conservate structuri budiste din Myanmar. Clădirea este un exemplu remarcabil al stilului arhitectural Mon și al epocii de aur a orașului Bagan.",
+      "facts": ["Construit în 1105", "Situat în Bagan", "Stil arhitectural Mon", "Patrimoniul UNESCO"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-victoria-nature-v2",
+      "description": "Der größte See Afrikas und der zweitgrößte Süßwassersee der Welt, der eine immense Artenvielfalt beherbergt.",
+      "facts": ["Grenzt an drei Länder", "Quelle des Weißen Nils", "Zentrum der Binnenfischerei", "Über 200 Fischarten"]
+    },
+    {
+      "id": "tsavo-forest-nature-v2",
+      "description": "Ein dichtes Waldgebiet innerhalb des Tsavo-Nationalparks, das als wichtiger Rückzugsort für Elefanten und andere Wildtiere dient.",
+      "facts": ["Teil des Tsavo-Ökosystems", "Reiche Vogelwelt", "Schutzgebiet für Großwild", "Dichte Ufervegetation"]
+    },
+    {
+      "id": "lake-bogoria-nature-v2",
+      "description": "Ein alkalischer See im Rift Valley, der weltberühmt für seine riesigen Flamingokolonien und seine geothermischen Geysire ist.",
+      "facts": ["UNESCO-Weltnaturerbe", "Heiße Quellen und Geysire", "Heimat tausender Flamingos", "Ramser-Schutzgebiet"]
+    },
+    {
+      "id": "cherangani-hills-nature-v2",
+      "description": "Ein majestätisches Hochgebirge im Westen Kenias, das für seine einzigartige afro-alpine Flora und als wichtiges Wassereinzugsgebiet bekannt ist.",
+      "facts": ["Teil des Rift Valleys", "Über 3.500 Meter hoch", "Heimat seltener Pflanzen", "Wichtiges Wasserreservoir"]
+    },
+    {
+      "id": "lake-naivasha-nature-v2",
+      "description": "Ein wunderschöner Süßwassersee im Great Rift Valley, der von Papyrus-Sümpfen umgeben ist und eine reiche Vogelwelt anzieht.",
+      "facts": ["Höchstgelegener See im Rift", "Nahe dem Hell's Gate", "Vogelparadies", "Berühmt für Flusspferde"]
+    },
+    {
+      "id": "mt-longonot-nature-v2",
+      "description": "Ein markanter Schichtvulkan mit einem riesigen Krater, in dem sich ein dichter, unberührter Wald entwickelt hat.",
+      "facts": ["Vulkanischer Ursprung", "Kraterwald im Inneren", "Beliebtes Wanderziel", "Blick auf den Naivasha-See"]
+    },
+    {
+      "id": "lake-ol-oropil-nature-v2",
+      "description": "Ein kleiner, saisonaler See in der Nähe von Nairobi, der als wichtiges Tränke- und Brutgebiet für lokale Wildtiere dient.",
+      "facts": ["Saisonales Gewässer", "Vogelbeobachtungspunkt", "In der Nähe von Nairobi", "Naturreservat"]
+    },
+    {
+      "id": "turkwel-river-nature-v2",
+      "description": "Ein lebenswichtiger Fluss im Norden Kenias, der durch trockene Landschaften fließt und die Turkwell-Talsperre speist.",
+      "facts": ["Fließt zum Turkana-See", "Wichtige Wasserquelle", "Talsperre zur Stromerzeugung", "Durchquert Wüstengebiete"]
+    },
+    {
+      "id": "lake-ole-nado-nature-v2",
+      "description": "Ein abgelegener See in der Region Rift Valley, der für seine unberührte Natur und als Ruheort für wandernde Vögel geschätzt wird.",
+      "facts": ["Abgelegenes Naturjuwel", "Refugium für Zugvögel", "Vulkanische Umgebung", "Ruhige Atmosphäre"]
+    },
+    {
+      "id": "mt-satima-nature-v2",
+      "description": "Der höchste Gipfel der Aberdare-Berge, der durch seine dramatischen Klippen und die einzigartige Moorlandschaft besticht.",
+      "facts": ["Höchster Punkt der Aberdares", "Afro-alpine Vegetation", "Heimat von Bongo-Antilopen", "Über 4.000 Meter hoch"]
+    }
+  ]
+}

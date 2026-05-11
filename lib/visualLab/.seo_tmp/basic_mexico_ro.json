@@ -1,0 +1,62 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hermosillo-cities-v2",
+      "description": "Hermosillo este capitala statului Sonora, situată într-o zonă aridă, dar importantă pentru agricultură și industrie.",
+      "facts": ["Capitala statului Sonora", "Climat deșertic", "Centru industrial regional", "Înființat în 1700"]
+    },
+    {
+      "id": "salamanca-gua-cities-v2",
+      "description": "Salamanca este un oraș industrial major în Guanajuato, cunoscut pentru rafinăriile sale petroliere.",
+      "facts": ["Fondat în 1603", "Centru petrochimic", "Situat în Guanajuato", "Producție industrială importantă"]
+    },
+    {
+      "id": "san-juan-del-rio-cities-v2",
+      "description": "San Juan del Río este un oraș istoric în Querétaro, celebru pentru producția de vin și pentru arhitectura sa colonială.",
+      "facts": ["Fondat în 1531", "Regiune viticolă", "Arhitectură colonială", "Nod de transport"]
+    },
+    {
+      "id": "iguala-cities-v2",
+      "description": "Iguala este un oraș în statul Guerrero, cunoscut pentru rolul său istoric în crearea drapelului național mexican.",
+      "facts": ["Localizat în Guerrero", "Locul Planului de Iguala", "Centru comercial local", "Climat subtropical"]
+    },
+    {
+      "id": "edzna-history-v2",
+      "description": "Edzná este un sit arheologic mayaș impresionant, cunoscut pentru structura sa unică numită 'Clădirea celor cinci etaje'.",
+      "facts": ["Sit arheologic mayaș", "Campéche, Mexic", "Înălțimea piramidei principale", "Perioada mayașă clasică"]
+    },
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "Grădina zoologică din Chapultepec este situată în cel mai mare parc al Ciudad de México și adăpostește sute de specii.",
+      "facts": ["Deschisă în 1923", "Situată în Mexico City", "Specii din toată lumea", "Acces public gratuit"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "Această grădină zoologică din zona de nord a capitalei se concentrează pe conservarea faunei native mexicane.",
+      "facts": ["Situat în CDMX", "Focus pe fauna locală", "Program de educație", "Suprafață generoasă"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "Guadalajara Zoo este una dintre cele mai mari și moderne grădini zoologice din Mexic, având un safari spectaculos.",
+      "facts": ["Deschisă în 1988", "Situată în Jalisco", "Zonă de safari", "Sute de specii animale"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Acuario Inbursa este un acvariu subteran de mari dimensiuni situat în Mexico City, cu mii de exemplare marine.",
+      "facts": ["Acvariu subteran", "Situat în Mexico City", "Mii de animale marine", "Educație ecologică"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Xcaret este un parc eco-arheologic în Riviera Maya, unde natura se întâlnește cu istoria și cultura mexicană.",
+      "facts": ["Riviera Maya", "Parc eco-arheologic", "Tradiții mexicane", "Peșteri și râuri"]
+    }
+  ]
+}

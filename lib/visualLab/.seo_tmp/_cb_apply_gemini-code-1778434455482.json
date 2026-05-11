@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bansang-river-wharf-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bansang River Wharf ist ein zentraler Pfeiler der Logistik in der Central River Region Gambias. Geografisch liegt sie am Südufer des Gambia-Flusses in einer fruchtbaren Tiefebene, die für den großflächigen Reisanbau bekannt ist. Die Wharf fungierte historisch als einer der wichtigsten Verladepunkte für Erdnüsse, hat sich jedoch heute zu einem multifunktionalen Wirtschaftsknotenpunkt entwickelt. Sie dient als Anlandestelle für Waren, die den Osten des Landes versorgen, und als wichtiger Übergangspunkt für den Personenverkehr per Fähre zum Nordufer. Wirtschaftlich profitiert Bansang von der Synergie zwischen dem Flusshandel und dem nahegelegenen Regionalkrankenhaus, was die Stadt zu einem Dienstleistungszentrum macht. Das Relief am Flussufer wurde durch künstliche Rampen und Lagerflächen für den Umschlag von Baumaterialien und landwirtschaftlichen Betriebsmitteln optimiert. Trotz der Konkurrenz durch den Straßentransport bleibt die Wharf ein unverzichtbares Glied in der Versorgungskette für Massengüter, die über den Wasserweg kostengünstiger transportiert werden können. Sie symbolisiert die Beständigkeit der Binnenschifffahrt als Rückgrat der ländlichen Entwicklung in Gambia.",
+        "hu": "A bansangi folyami kikötő (Bansang River Wharf) Gambia Central River régiójának egyik legfontosabb logisztikai tartóoszlopa. Földrajzi elhelyezkedése a folyó déli partján, egy termékeny síkságon található, amely híres a kiterjedt rizstermesztésről. A kikötő történelmileg a földimogyoró-export egyik fő rakodóhelye volt, mára azonban többfunkciós gazdasági csomóponttá alakult. Fontos érkezési pont az ország keleti részét ellátó áruk számára, és kulcsfontosságú átkelőhely a folyó északi partjára tartó kompforgalomnak. Gazdaságilag Bansang profitál a folyami kereskedelem és a közeli regionális kórház közötti szinergiából, ami a várost szolgáltató központtá emelte. A folyóparti domborzatot mesterséges rámpákkal és raktárfelületekkel optimalizálták az építőanyagok és mezőgazdasági eszközök rakodásához. A közúti szállítás térnyerése ellenére a kikötő továbbra is nélkülözhetetlen láncszem a tömegáruk ellátási láncában, amelyeket vízi úton költséghatékonyabban lehet mozgatni. Bansang kikötője a folyami hajózás és a vidéki fejlődés közötti szoros kapcsolat jelképe.",
+        "ro": "Debarcaderul fluvial din Bansang (Bansang River Wharf) reprezintă un pilon central al logisticii din regiunea Central River a Gambiei. Situat geografic pe malul sudic al fluviului Gambia, într-o câmpie fertilă renumită pentru cultura orezului, acest debarcader a servit istoric ca punct major de încărcare pentru arahide. Astăzi, facilitatea a evoluat într-un nod economic multifuncțional, fiind locul de descărcare pentru bunurile destinate estului țării și un punct de trecere vital pentru feribotul către malul nordic. Din punct de vedere economic, Bansang beneficiază de sinergia dintre comerțul fluvial și prezența spitalului regional din apropiere, transformând orașul într-un pol de servicii. Relieful la malul apei a fost optimizat prin rampe artificiale și platforme de stocare pentru materiale de construcții și inputuri agricole. În ciuda competiției transportului rutier, Bansang Wharf rămâne o verigă indispensabilă în lanțul de aprovizionare pentru mărfurile vrac, care sunt mai rentabile de transportat pe apă. Simbolizează reziliența navigației interioare ca motor al dezvoltării rurale gambiene.",
+        "en": "The Bansang River Wharf is a central pillar of logistics in The Gambia's Central River Region. Geographically located on the south bank of the Gambia River in a fertile floodplain known for large-scale rice cultivation, the wharf has a long history as a major groundnut loading point. Today, it has evolved into a multi-functional economic hub, serving as a landing site for goods supplying the eastern part of the country and a vital crossing point for ferry traffic to the north bank. Economically, Bansang benefits from the synergy between river trade and the nearby regional hospital, making the town a key service center. The riverfront relief has been optimized with artificial ramps and storage areas for handling construction materials and agricultural inputs. Despite competition from road transport, the wharf remains an indispensable link in the supply chain for bulk goods that are more cost-effectively transported by water. It symbolizes the enduring importance of inland navigation as the backbone of rural development in The Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Wharf in Bansang ist ein wichtiger Knotenpunkt für den regionalen Reishandel.",
+          "Sie dient als Basis für die Wartung von Binnenkähnen der GGC.",
+          "Bansang liegt an einer schiffbaren Stelle des Flusses mit ganzjährigem Zugang.",
+          "Die Anlegestelle verbindet die South Bank Road mit den Distrikten des Nordufers.",
+          "Früher war Bansang ein wichtiger Stopp für die kolonialen Postschiffe.",
+          "Hier werden große Mengen an Treibstoff für die Generatoren im Landesinneren entladen."
+        ],
+        "hu": [
+          "A bansangi kikötő az ország egyik legfontosabb folyami gázolaj-elosztóhelye.",
+          "A település rakpartja közvetlen összeköttetésben áll a helyi piaccal.",
+          "Itt található a Central River régió egyik legnagyobb gabonasilója.",
+          "A kompjárat Bansang és a szemközti part között naponta többször közlekedik.",
+          "A kikötő infrastruktúrája alkalmas nehézgépek és traktorok fogadására.",
+          "Bansang városa a mogyorókereskedelem aranykorában vált regionális központtá."
+        ],
+        "ro": [
+          "Debarcaderul din Bansang este vital pentru aprovizionarea spitalului local cu oxigen și medicamente sosite pe apă.",
+          "Relieful malului este consolidat cu piatră de laterită pentru a preveni eroziunea fluvială.",
+          "Este un punct de colectare major pentru orezul produs în mlaștinile din jur.",
+          "Bansang reprezintă un nod de tranzit pentru comercianții care vin dinspre Senegal.",
+          "Activitatea de transbordare a mărfurilor vrac a crescut cu 15% în ultimii trei ani.",
+          "Portul fluvial dispune de facilități de reparații pentru motoarele outboard."
+        ],
+        "en": [
+          "Bansang River Wharf is a primary logistics node for the national rice value chain.",
+          "The site features some of the oldest active riverfront warehouses in the region.",
+          "It acts as a strategic backup for the Senegambia Bridge transport corridor.",
+          "The wharf supports the livelihoods of a large community of local porters and loaders.",
+          "It is a key point for monitoring the seasonal flow and health of the Gambia River.",
+          "Bansang's riverfront is a major landing site for artisanal river fish."
+        ]
+      }
+    },
+    {
+      "id": "kerewan-fish-landing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereianlandeplatz von Kerewan liegt am Miniotto Bolong, einem bedeutenden Gezeitenarm des Gambia-Flusses in der North Bank Region. Geografisch ist dieser Standort durch ein weitreichendes Labyrinth aus Mangroven und Schlammgebieten geprägt, was eine spezialisierte Form der Fischerei erfordert. Kerewan ist das wirtschaftliche Zentrum für den Fischfang in diesem Teil des Nordufers und ein Hauptlieferant für Proteine in den ländlichen Distrikten von Baddibu. Die lokale Ökonomie basiert auf dem Fang von Flussfischen und Garnelen sowie der besonders bedeutenden Osztrigagewinnung durch Frauenkooperativen. Wirtschaftlich ist der Standort von lokaler Bedeutung, da er die Versorgung der umliegenden Wochenmärkte sichert. Das Relief ist extrem flach und unterliegt den starken Schwankungen der Gezeiten, was den Bau von einfachen, aber funktionalen Holzstegen erforderte. Die Mangroven um den Anlandeplatz fungieren als natürliche Filter und Kinderstuben für die Fischbestände. Kerewan symbolisiert die nachhaltige Nutzung von Flussressourcen unter schwierigen geografischen Bedingungen und ist ein wichtiger Pfeiler der Ernährungssicherheit im Norden Gambias.",
+        "hu": "A kerewani halászkikötő a Miniotto Bolong partján, a Gambia-folyó egyik jelentős árapály-csatornájánál található az északi parton (North Bank Region). Földrajzi jellemzője a mangroveerdők és mocsaras területek kiterjedt labirintusa, ami speciális folyami halászati technikákat tesz szükségessé. Kerewan gazdasági motorja ez a kikötő, amely az északi part ezen szakaszának legfontosabb halbeszerző helye, alapvető fehérjeforrást biztosítva a Baddibu körzet falvai számára. A helyi gazdaság alapját a folyami halak és garnélarákok fogása, valamint a női szövetkezetek által végzett osztrigagyűjtés adja. A helyszín gazdasági jelentőségét növeli, hogy innen látják el a környékbeli heti piacokat (Lumókat). A domborzat rendkívül sík, az árapály szintkülönbségei miatt egyszerű, de funkcionális fapallók és stégek épültek a sár felett. A kikötőt övező mangrovék természetes szűrőként és halivóhelyként funkcionálnak, védve az ökoszisztémát. Kerewan halászkikötője a folyami erőforrások fenntartható használatának jelképe, amely alapvető pillére Észak-Gambia élelmezésbiztonságának.",
+        "ro": "Punctul de descărcare a peștelui din Kerewan este situat pe malul pârâului Miniotto Bolong, un braț tidal important al fluviului Gambia în regiunea North Bank. Geografic, această locație este definită de un labirint vast de mangrove și zone mlăștinoase, necesitând o formă specializată de pescuit fluvial. Kerewan reprezintă centrul economic pentru activitățile pescărești în această parte a malului nordic, fiind principalul furnizor de proteine pentru districtele rurale din Baddibu. Economia locală se bazează pe captura de pește de apă dulce și creveți, precum și pe colectarea stridiilor de către cooperativele de femei. Din punct de vedere economic, situl este esențial pentru aprovizionarea piețelor săptămânale din regiune. Relieful este extrem de plat și supus variațiilor mari de maree, ceea ce a impus construirea unor pontoane din lemn simple, dar funcționale. Mangrovele din jurul punctului de descărcare acționează ca filtre naturale și zone de reproducere pentru stocurile de pește. Kerewan simbolizează utilizarea durabilă a resurselor fluviale în condiții geografice dificile, fiind un pilon important al securității alimentare în nordul Gambiei.",
+        "en": "The Kerewan fish landing site is situated along the Miniotto Bolong, a major tidal creek of the Gambia River in the North Bank Region. Geographically, this site is characterized by an extensive labyrinth of mangroves and mudflats, necessitating a specialized form of riverine fishing. Kerewan serves as the economic hub for fishing activities in this part of the north bank and is a primary supplier of protein for the rural districts of Baddibu. The local economy is built on the catch of freshwater fish and shrimp, along with the significant harvesting of oysters by women's cooperatives. Economically, the site is of local importance, ensuring the supply of surrounding weekly markets (Lumos). The terrain is extremely flat and subject to significant tidal fluctuations, which required the construction of simple yet functional wooden walkways and jetties. The mangroves surrounding the landing site act as natural filters and nurseries for fish stocks. Kerewan symbolizes the sustainable use of river resources under challenging geographic conditions and remains a vital pillar of food security in northern Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kerewan ist auf die Gewinnung von Mangroven-Osztrigen spezialisiert.",
+          "Der Anlandeplatz liegt an einem tiefen Gezeitenkanal (Bolong).",
+          "Die Fischerei in Kerewan ist stark von den Gezeitenzyklen abhängig.",
+          "Frauenkooperativen bilden das soziale und ökonomische Rückgrat des Platzes.",
+          "Der Standort beliefert den großen Wochenmarkt von Farafenni.",
+          "Kerewan ist bekannt für seinen Reichtum an Garnelen im Miniotto Bolong."
+        ],
+        "hu": [
+          "Kerewan halászai hagyományos fatörzsekből vájt kenukkal dolgoznak.",
+          "A mocsári osztrigákat itt főként füstölve tárolják és értékesítik.",
+          "A terület fontos fészkelőhelye a halászsasoknak és vörös gémeknek.",
+          "A kikötő vize a folyó felsőbb szakaszaihoz képest magasabb sótartalmú.",
+          "A helyi közösség szigorú tilalmi időszakokat tart be a halállomány megőrzése érdekében.",
+          "Kerewan híres az itt készített kézműves halhálókról."
+        ],
+        "ro": [
+          "Activitatea de pescuit din Kerewan este monitorizată pentru protejarea mangrovelor.",
+          "Relieful plan favorizează depunerea sedimentelor bogate în nutrienți.",
+          "Kerewan este un centru de instruire pentru tehnicile de acvacultură în mangrove.",
+          "Majoritatea capturilor sunt procesate local prin sărare și uscare.",
+          "Districtele Baddibu depind de acest punct pentru aprovizionarea zilnică cu pește.",
+          "Ecosistemul local susține specii rare de amfibieni și reptile de estuar."
+        ],
+        "en": [
+          "Kerewan handles a significant volume of freshwater shellfish for the regional market.",
+          "The landing site features traditional preservation units powered by solar energy in some projects.",
+          "It is a key node for the distribution of artisanal sea salt from northern pans.",
+          "Kerewan's fishermen are renowned for their knowledge of tidal navigation.",
+          "The area is a significant contributor to the Gambia's estuarine biodiversity data.",
+          "The local economy is highly integrated with the seasonal agricultural cycle."
+        ]
+      }
+    },
+    {
+      "id": "brikama-ice-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Eisfabrik von Brikama (Brikama Ice Plant) ist eine essenzielle Einrichtung für die regionale Wirtschaft in der West Coast Region Gambias. Geografisch liegt sie strategisch günstig im Industriegebiet von Brikama, einem zentralen Knotenpunkt zwischen den Küstenfischerei-Zonen und den Binnenmärkten. Die Hauptaufgabe der Anlage ist die Produktion von Block- und Schuppeneis, das für die Kühlung und den Transport von verderblichen Waren, insbesondere Fisch und Fleisch, unverzichtbar ist. Ohne diese Fabrik wäre die Aufrechterhaltung der Kühlkette vom Atlantik bis in den tiefen Osten des Landes kaum möglich. Wirtschaftlich gesehen sichert die Ice Plant die Einkommen von hunderten Händlern und Fischern, indem sie die Haltbarkeit der Produkte verlängert und Nachernteverluste reduziert. Die Anlage wird oft von der National Water and Electricity Company (NAWEC) oder privaten Investoren betrieben und verfügt über moderne Kältetechnik. Das Relief des Standorts ist eben und für den schnellen Umschlag auf Lastwagen optimiert. Die Eisfabrik ist ein Symbol für die technologische Unterstützung der landwirtschaftlichen Wertschöpfungskette und ein kritischer Faktor für die Ernährungshygiene in Gambia.",
+        "hu": "A brikamai jéggyár (Brikama Ice Plant) alapvető gazdasági létesítmény Gambia Nyugati Part (West Coast) régiójában. Földrajzi elhelyezkedése stratégiai: Brikama ipari negyedében található, amely központi csomópont a tengerparti halászati övezetek és a belső országrész piacai között. Az üzem fő feladata a jégtömbök és jégkása előállítása, amely elengedhetetlen a romlandó áruk – különösen a hal és a hús – hűtéséhez és szállításához. A gyár nélkül szinte lehetetlen lenne fenntartani a hűtési láncot az Atlanti-óceántól az ország távoli keleti pontjaiig. Gazdaságilag a jéggyár kereskedők és halászok százainak jövedelmét biztosítja, mivel meghosszabbítja a termékek eltarthatóságát és csökkenti a veszteségeket. A létesítmény modern hűtéstechnológiával rendelkezik, és gyakran a nemzeti közműszolgáltató (NAWEC) vagy magánbefektetők üzemeltetik. A terület domborzata sík, a gyors teherautós rakodásra optimalizálták. A jéggyár a gambiai mezőgazdasági értéklánc technológiai támogatásának szimbóluma és a nemzeti élelmiszer-higiénia egyik kulcsfontosságú eleme.",
+        "ro": "Fabrica de gheață din Brikama (Brikama Ice Plant) este o facilitate esențială pentru economia regională a regiunii West Coast din Gambia. Situată geografic în zona industrială a orașului Brikama, aceasta ocupă o poziție strategică între zonele de pescuit de coastă și piețele din interior. Funcția principală a unității este producția de gheață sub formă de blocuri sau fulgi, indispensabilă pentru refrigerarea și transportul mărfurilor perisabile, în special peștele și carnea. Fără această fabrică, menținerea lanțului de frig de la Atlantic până în estul îndepărtat al țării ar fi aproape imposibilă. Din punct de vedere economic, fabrica de gheață securizează veniturile a sute de comercianți și pescari, prelungind durata de conservare a produselor și reducând pierderile post-recoltă. Instalația este dotată cu tehnologii de refrigerare moderne și este operată adesea de NAWEC sau de investitori privați. Relieful locației este plat, optimizat pentru încărcarea rapidă a camioanelor de distribuție. Fabrica de gheață simbolizează sprijinul tehnologic pentru lanțul valoric agricol și reprezintă un factor critic pentru igiena alimentară în Gambia.",
+        "en": "The Brikama Ice Plant is an essential facility for the regional economy of The Gambia’s West Coast Region. Geographically, it is strategically located in Brikama’s industrial district, acting as a central node between coastal fishing zones and inland markets. The primary role of the plant is the production of block and flake ice, which is indispensable for the refrigeration and transport of perishable goods, particularly fish and meat. Without this plant, maintaining the cold chain from the Atlantic to the far east of the country would be nearly impossible. Economically, the Ice Plant secures the livelihoods of hundreds of traders and fishers by extending product shelf life and reducing post-harvest losses. The facility is equipped with modern refrigeration technology and is often operated by the National Water and Electricity Company (NAWEC) or private investors. The site's terrain is flat, optimized for rapid truck loading and logistics. The ice plant stands as a symbol of the technological support required for the Gambian agricultural value chain and is a critical factor for national food hygiene."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Eisfabrik in Brikama versorgt die größten Fischmärkte der Region.",
+          "Sie nutzt industrielle Kältemaschinen zur Herstellung von tonnenweise Eis täglich.",
+          "Der Standort liegt verkehrsgünstig an der Hauptverbindung nach Serekunda.",
+          "Die Verfügbarkeit von Eis hat den Radius für den Fischhandel massiv erweitert.",
+          "Die Fabrik ist ein wichtiger Abnehmer von Elektrizität aus dem nahen Kraftwerk.",
+          "In der Trockenzeit erreicht die Nachfrage nach Eis hier ihre jährlichen Höchstwerte."
+        ],
+        "hu": [
+          "A brikamai jéggyár termelése közvetlen hatással van a halak piaci árára.",
+          "Az üzemben készült jégtömbök akár 24 órán át is megmaradnak a szállítás során.",
+          "A létesítmény modern vízszűrő rendszert használ a jég tisztasága érdekében.",
+          "Brikama jégellátása kulcsfontosságú a környékbeli vágóhidak számára is.",
+          "A gyár fontos bázisa a nemzeti élelmiszerbiztonsági hatóság ellenőrzéseinek.",
+          "Az üzem mellett gyakran látható a hűtőkamionok hosszú sora hajnalban."
+        ],
+        "ro": [
+          "Fabrica de gheață din Brikama a fost modernizată pentru a reduce consumul de energie.",
+          "Relieful plat a permis construirea unor rezervoare de apă de mare capacitate.",
+          "Unitatea asigură gheața necesară pentru exportul de fructe de mare prin aeroport.",
+          "Brikama Ice Plant este un pilon pentru micii antreprenori din industria alimentară.",
+          "Eficiența refrigerării de aici a dus la scăderea cazurilor de boli de origine alimentară.",
+          "Este considerată o infrastructură critică în planul de dezvoltare al districtului Kombo Central."
+        ],
+        "en": [
+          "The ice plant in Brikama acts as a central cooling hub for the West Coast Region.",
+          "It produces specialized flake ice for delicate fish species like snapper.",
+          "The facility is a key partner for the Gambia's artisanal fishing cooperatives.",
+          "Brikama’s ice production supports the inland distribution of poultry and dairy.",
+          "The plant features high-capacity backup generators to prevent thawing during outages.",
+          "It is strategically positioned near the country's main livestock and fish corridors."
+        ]
+      }
+    },
+    {
+      "id": "wassu-stone-circles-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Steinkreise von Wassu sind die bekannteste und beeindruckendste Megalithstätte Gambias und Teil des UNESCO-Welterbes. Geografisch liegen sie in der Central River Region, nahe der Stadt Kuntaur am Nordufer des Flusses. Diese monumentalen Strukturen bestehen aus präzise gehauenen Lateritsteinen, die kreisförmig angeordnet sind und Gräber aus der Zeit zwischen dem 3. Jahrhundert v. Chr. und dem 16. Jahrhundert n. Chr. markieren. Wassu beherbergt die höchsten Steine des gesamten Senegambischen Megalithgürtels, von denen einige über zwei Meter hoch sind. Historisch gesehen zeugen die Kreise von einer hochorganisierten Gesellschaft mit komplexen Bestattungsriten und astronomischen Kenntnissen. Das Relief der Stätte ist flach und bietet eine weite Sicht über die umliegende Savanne, was die sakrale Bedeutung des Ortes unterstreicht. Die Erforschung der Steinkreise hat zahlreiche Grabbeigaben wie Schmuck und Werkzeuge ans Licht gebracht, die heute in einem kleinen Museum vor Ort ausgestellt sind. Für Gambia sind die Steinkreise von Wassu ein nationales Symbol und ein Beweis für die reiche vorkoloniale Geschichte Zentralafrikas. Ein Besuch der Stätte bietet einen tiefen Einblick in die spirituelle Welt der Vorfahren und die architektonische Meisterschaft vergangener Epochen.",
+        "hu": "A wassui kőkörök Gambia legismertebb és leglenyűgözőbb megalitikus emlékei, amelyek az UNESCO világörökség részét képezik. Földrajzi elhelyezkedésük a Central River régióban, Kuntaur városa közelében, a folyó északi partján található. Ezek a monumentális építmények precízen faragott laterit tömbökből állnak, amelyeket kör alakban rendeztek el, jelölve az időszámításunk előtti 3. század és az időszámításunk szerinti 16. század közötti sírhelyeket. Wassuban találhatók a teljes szenegambiai megalitikus övezet legmagasabb kövei, amelyek közül néhány meghaladja a két métert. Történelmileg a kőkörök egy magas szinten szervezett társadalomról tanúskodnak, amely komplex temetkezési rítusokkal és csillagászati ismeretekkel rendelkezett. A helyszín domborzata sík, tágas kilátást nyújtva a környező szavannára, ami hangsúlyozza a terület szakrális jellegét. A régészeti feltárások során számos mellékletet, például ékszereket és eszközöket találtak, amelyeket a helyi kis múzeumban őriznek. Gambia számára a wassui kőkörök nemzeti szimbólumok, és bizonyítják Közép-Afrika gazdag gyarmatosítás előtti történelmét. Az idelátogatók számára a helyszín bepillantást enged az ősök spirituális világába és az elmúlt korok építészeti mestermunkáiba.",
+        "ro": "Cercurile de piatră de la Wassu reprezintă cel mai cunoscut și impresionant sit megalitic din Gambia, fiind parte integrantă a Patrimoniului Mondial UNESCO. Situate geografic în regiunea Central River, lângă orașul Kuntaur pe malul nordic al fluviului, aceste structuri monumentale sunt compuse din blocuri de laterită sculptate cu precizie. Aranjate în formă circulară, pietrele marchează morminte ce datează dintr-o perioadă cuprinsă între secolul al III-lea î.Hr. și secolul al XVI-lea d.Hr. Wassu găzduiește cele mai înalte pietre din întregul complex megalitic senegambian, unele atingând peste doi metri înălțime. Din punct de vedere istoric, cercurile atestă existența unei societăți extrem de organizate, cu rituri funerare complexe și cunoștințe astronomice avansate. Relieful sitului este plat, oferind o panoramă vastă asupra savanei înconjurătoare, ceea ce subliniază caracterul sacru al locației. Cercetările arheologice au scos la iveală numeroase artefacte, precum bijuterii și unelte, expuse astăzi într-un mic muzeu local. Pentru Gambia, cercurile de piatră de la Wassu sunt un simbol național și o dovadă a istoriei precoloniale bogate a Africii Centrale. Vizitarea acestui sit oferă o incursiune profundă în lumea spirituală a strămoșilor și în măiestria arhitecturală a epocilor trecute.",
+        "en": "The Wassu Stone Circles are the most famous and impressive megalithic site in The Gambia and are part of a UNESCO World Heritage site. Geographically located in the Central River Region near the town of Kuntaur on the river's north bank, these monumental structures consist of precisely carved laterite stones arranged in circular formations. The stones mark burial sites dating from between the 3rd century BCE and the 16th century AD. Wassu is home to the tallest stones in the entire Senegambian megalithic belt, some reaching over two meters in height. Historically, the circles testify to a highly organized society with complex burial rites and astronomical knowledge. The site's relief is flat, providing expansive views across the surrounding savanna, which emphasizes its sacred significance. Archaeological excavations have uncovered numerous grave goods, such as jewelry and tools, now displayed in a small on-site museum. For The Gambia, the Wassu Stone Circles are a national symbol and evidence of Central Africa's rich pre-colonial history. A visit to the site offers deep insight into the spiritual world of ancestors and the architectural mastery of past eras."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wassu ist Teil des UNESCO-Welterbes 'Steinkreise von Senegambia'.",
+          "Die Steine bestehen aus lateritischem Gestein, das vor Ort abgebaut wurde.",
+          "Einige der Steinkreise von Wassu sind auf der 50-Dalasi-Banknote abgebildet.",
+          "Die Anlage umfasst etwa 11 Steinkreise in der Hauptgruppe.",
+          "Legenden besagen, dass jedem, der die Steine stört, Unheil widerfährt.",
+          "Die Stätte wird vom National Centre for Arts and Culture (NCAC) verwaltet."
+        ],
+        "hu": [
+          "Wassuban találhatók a térség legnagyobb és legnehezebb megalitjai.",
+          "A kőkörök elrendezése valószínűleg csillagászati naptárként is szolgált.",
+          "A területen található múzeum részletesen bemutatja a laterit faragásának technikáját.",
+          "A kőkörök közelében számos kisebb, még feltáratlan halomsír található.",
+          "Wassu Gambia leglátogatottabb történelmi és régészeti helyszíne.",
+          "A kövek vöröses színe a magas vastartalmú laterit kőzetnek köszönhető."
+        ],
+        "ro": [
+          "Situl de la Wassu a fost cercetat intensiv de arheologi britanici și gambieni.",
+          "Relieful sitului a fost ales strategic pentru a fi vizibil de la distanță în savană.",
+          "Fiecare cerc conține între 10 și 24 de pietre verticale.",
+          "Wassu reprezintă un punct de referință pentru identitatea culturală a poporului Wolof și Mandinka.",
+          "Cercurile de piatră sunt considerate a fi monumente funerare ale regilor și liderilor locali.",
+          "Există peste 1.000 de astfel de cercuri în întreaga regiune Senegambia."
+        ],
+        "en": [
+          "Wassu features the most concentrated group of stone circles in The Gambia.",
+          "The stones were carved with iron tools, showing advanced metallurgy in the region.",
+          "Local tradition holds the site as a powerful place for traditional prayers.",
+          "Wassu is a key destination for educational school tours in The Gambia.",
+          "The site is uniquely preserved with minimal modern interference.",
+          "The stone circles are located on an ancient trade route connecting the river to the north."
+        ]
+      }
+    },
+    {
+      "id": "kerbatch-stone-circles-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Steinkreise von Kerbatch sind eine bedeutende Megalithstätte in der Central River Region Gambias und gehören ebenfalls zum UNESCO-Welterbe der Steinkreise von Senegambia. Geografisch liegen sie im Distrikt Nianija am Nordufer des Gambia-Flusses. Obwohl sie weniger bekannt sind als die Kreise von Wassu, zeichnet sich Kerbatch durch eine Besonderheit aus: die Anwesenheit eines so genannten 'V-Steins', einer seltenen Megalithform innerhalb der Kreise. Die Stätte besteht aus mehreren Gruppen von Lateritsteinen, die zwischen dem 3. Jahrhundert v. Chr. und dem 16. Jahrhundert n. Chr. errichtet wurden und Bestattungsplätze markieren. Historisch belegt Kerbatch die weite Verbreitung der Megalithkultur im westafrikanischen Raum und die Komplexität der damaligen Sozialstrukturen. Das Relief der Stätte ist flach und bettet sich harmonisch in die umliegende Agrarlandschaft ein. Archäologische Funde in Kerbatch deuten auf intensive Bestattungsrituale und eine tiefe spirituelle Verbindung zur Landschaft hin. Für die Forschung ist Kerbatch von unschätzbarem Wert, da die Vielfalt der Steinformen hier zusätzliche Hinweise auf die handwerklichen Fähigkeiten der Erbauer gibt. Die Stätte bietet eine ruhige, weniger besuchte Alternative zu Wassu und bewahrt die mystische Aura dieser uralten Monumente.",
+        "hu": "A kerbatchi kőkörök Gambia jelentős megalitikus emlékei a Central River régióban, amelyek szintén a Szenegambiai kőkörök UNESCO világörökségi helyszínéhez tartoznak. Földrajzi elhelyezkedésük a Nianija körzetben, a folyó északi partján található. Bár kevésbé ismertek, mint a wassui körök, Kerbatch egy különlegességgel büszkélkedhet: itt található egy úgynevezett „V-kő”, amely egy ritka megalitikus forma az övezeten belül. A helyszín több laterit kőtömbből álló csoportot foglal magában, amelyeket az időszámításunk előtti 3. század és az időszámításunk szerinti 16. század között emeltek sírhelyek jelölésére. Történelmileg Kerbatch bizonyítja a megalitikus kultúra széles körű elterjedését Nyugat-Afrikában és az akkori társadalmi szerkezetek összetettségét. A helyszín domborzata sík, harmonikusan illeszkedve a környező mezőgazdasági tájba. A régészeti leletek Kerbatchban intenzív temetkezési rítusokra és a tájhoz fűződő mély spirituális kapcsolatra utalnak. A kutatás számára Kerbatch felbecsülhetetlen értékű, mivel a kövek formájának változatossága további információkat nyújt az építők kézműves tudásáról. A helyszín békés, kevésbé látogatott alternatívát kínál Wassuhoz képest, megőrizve ezen ősi monumentumok misztikus kisugárzását.",
+        "ro": "Cercurile de piatră de la Kerbatch reprezintă un sit megalitic major în regiunea Central River a Gambiei, fiind incluse în Patrimoniul Mondial UNESCO alături de cercurile senegambiene. Situate geografic în districtul Nianija, pe malul nordic al fluviului Gambia, acestea se disting printr-o caracteristică rară: prezența unei „pietre în formă de V”, o formă megalitică neobișnuită în cadrul complexului. Situl cuprinde mai multe grupuri de blocuri de laterită ridicate între secolul al III-lea î.Hr. și secolul al XVI-lea d.Hr. pentru a marca locuri de înhumare. Din punct de vedere istoric, Kerbatch atestă răspândirea vastă a culturii megalitice în spațiul vest-african și complexitatea structurilor sociale de la acea vreme. Relieful sitului este plat, integrându-se armonios în peisajul agricol înconjurător. Descoperirile arheologice de la Kerbatch sugerează ritualuri funerare intense și o legătură spirituală profundă cu teritoriul. Pentru cercetare, Kerbatch este inestimabil, diversitatea formelor pietrelor oferind indicii suplimentare despre abilitățile meșteșugărești ale constructorilor. Situl oferă o alternativă liniștită și mai puțin vizitată față de Wassu, păstrând aura mistică a acestor monumente ancestrale.",
+        "en": "The Kerbatch Stone Circles are a significant megalithic site in The Gambia's Central River Region and are also part of the UNESCO World Heritage Stone Circles of Senegambia. Geographically located in the Nianija District on the north bank of the Gambia River, they are distinguished by a unique feature: the presence of a so-called 'V-stone,' a rare megalithic form within the complex. The site consists of several groups of laterite stones erected between the 3rd century BCE and the 16th century AD to mark burial sites. Historically, Kerbatch proves the wide distribution of megalithic culture across West Africa and the complexity of social structures at the time. The site's relief is flat, harmoniously blending into the surrounding agricultural landscape. Archaeological finds in Kerbatch point to intensive burial rituals and a deep spiritual connection to the land. For researchers, Kerbatch is invaluable, as the variety of stone shapes provides additional clues about the craftsmanship of the builders. The site offers a peaceful, less-visited alternative to Wassu, preserving the mystical aura of these ancient monuments."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kerbatch ist eine der vier Gruppen von Steinkreisen, die zum UNESCO-Welterbe gehören.",
+          "Der 'V-Stein' von Kerbatch ist ein weltweit einzigartiges megalithisches Symbol.",
+          "Die Steine bestehen aus verfestigtem Laterit, der in Steinbrüchen der Nähe gewonnen wurde.",
+          "Die Anlage liegt in einer fruchtbaren Savannenregion am Nordufer.",
+          "Legenden verknüpfen die Steinkreise mit den Geistern der Vorfahren.",
+          "Kerbatch ist für die wissenschaftliche Untersuchung der Bestattungsformen zentral."
+        ],
+        "hu": [
+          "Kerbatch kövei között különleges, kétágú oszlopok is találhatók.",
+          "A helyszín Gambia egyik legkevésbé zavart régészeti területe.",
+          "A kőkörök mérete és száma alapján Kerbatch fontos szakrális központ volt.",
+          "A területen található kövek színe a napszaktól függően változik.",
+          "Kerbatch környékén számos más, kisebb megalitikus maradvány is fellelhető.",
+          "A kőkörök a helyi közösség számára ma is fontos spirituális helyszínek."
+        ],
+        "ro": [
+          "Situl de la Kerbatch conține cel puțin nouă cercuri de piatră bine conservate.",
+          "Piatra în formă de V este considerată a fi un marcaj astronomic sau ritualic special.",
+          "Relieful sitului a favorizat conservarea monumentelor împotriva eroziunii majore.",
+          "Kerbatch este inclus în programele de protecție a patrimoniului cultural african.",
+          "Cercetările recente au utilizat scanarea laser pentru a documenta precizia construcției.",
+          "Situl este înconjurat de culturi tradiționale de mei és arahide."
+        ],
+        "en": [
+          "Kerbatch is one of the most distinctive sites in the megalithic belt due to its stone variety.",
+          "The V-shaped stone is a primary focus for international archaeological studies.",
+          "The site reflects the transition from hunter-gatherer to agricultural societies in West Africa.",
+          "Kerbatch serves as a significant site for the study of iron-age technology in Gambia.",
+          "The surrounding landscape provides a pristine historical context for the circles.",
+          "The site is managed under strict conservation guidelines to preserve its integrity."
+        ]
+      }
+    }
+  ]
+}

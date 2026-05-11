@@ -41,7 +41,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Distanța până la capitala San José este de numai 10 kilometri.",
         "Populația districtului San Francisco depășește 50.000 de locuitori."
       ],
-      en: ["District in Heredia canton", "Part of the Greater Metropolitan Area", "Close to the city of Heredia", "Linked to the San Jos? commuter belt", "Urban mix of homes and services", "Central Valley location"]
+      en: ["District in Heredia canton", "Close to the city of Heredia", "Linked to the San Jos? commuter belt", "Urban mix of homes and services", "Central Valley location"]
     }, image: "/poi-images/san-francisco-de-heredia-cities-v2.webp"},
   {
     id: 'paraiso-de-cartago-cities-v2',
@@ -82,7 +82,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Valea Orosi se află la doar 15 minute de mers cu mașina de centrul orașului.",
         "Regiunea primește o cantitate medie de precipitații de 2.100 mm pe an."
       ],
-      en: ["Canton capital in Cartago province", "Gateway to the Orosi Valley", "Near the Lankester Botanical Garden", "Known for coffee and sugarcane", "Founded as a canton in 1823", "Part of the Central Valley"]
+      en: ["Canton capital in Cartago province", "Near the Lankester Botanical Garden", "Known for coffee and sugarcane", "Founded as a canton in 1823", "Part of the Central Valley"]
     }, image: "/poi-images/paraiso-de-cartago-cities-v2.webp"},
   {
     id: 'san-isidro-de-el-general-cities-v2',
@@ -123,7 +123,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Piața locală săptămânală este considerată una dintre cele mai mari și mai diversificate din țară.",
         "Temperatura medie anuală în această regiune este de aproximativ 24 de grade Celsius."
       ],
-      en: ["Capital of P?rez Zeled?n canton", "Gateway to Cerro Chirrip?", "Set in the El General Valley", "On the Inter-American Highway, Route 2", "Southern-zone commercial centre", "Known for a large weekly market"]
+      en: ["Capital of P?rez Zeled?n canton", "Set in the El General Valley", "On the Inter-American Highway, Route 2", "Southern-zone commercial centre", "Known for a large weekly market"]
     }, image: "/poi-images/san-isidro-de-el-general-cities-v2.webp"},
   {
     id: 'curridabat-cities-v2',
@@ -164,7 +164,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul este împărțit în patru districte: Curridabat, Granadilla, Sánchez și Tirrases.",
         "Populația totală a cantonului depășește 75.000 de persoane."
       ],
-      en: ["District in San Jos? province", "Part of the Greater Metropolitan Area", "East of the capital San Jos?", "Known for the Ciudad Dulce project", "Neighbouring Montes de Oca and La Uni?n", "Mix of residences, offices, and retail"]
+      en: ["District in San Jos? province", "East of the capital San Jos?", "Known for the Ciudad Dulce project", "Neighbouring Montes de Oca and La Uni?n", "Mix of residences, offices, and retail"]
     }, image: "/poi-images/curridabat-cities-v2.webp"},
   {
     id: 'san-vicente-de-moravia-cities-v2',
@@ -411,7 +411,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul San Carlos produce peste 50% din cantitatea totală de lapte a țării.",
         "Temperatura medie în această zonă este de aproximativ 24 de grade Celsius."
       ],
-      en: ["Capital of San Carlos canton", "Also called Ciudad Quesada", "Gateway to the Arenal area", "Northern plains service centre", "Surrounded by dairy and cattle farms", "Important for pineapple trade"]
+      en: ["Capital of San Carlos canton", "Also called Ciudad Quesada", "Northern plains service centre", "Surrounded by dairy and cattle farms", "Important for pineapple trade"]
     }, image: "/poi-images/quesada-de-san-carlos-cities-v2.webp"},
   {
     id: 'ipis-de-goicoechea-cities-v2',
@@ -492,7 +492,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Districtul are o populație de peste 20.000 de locuitori.",
         "Găzduiește sedii importante ale unor instituții de învățământ superior din regiune."
       ],
-      en: ["District of Puntarenas canton", "On the Pacific coast", "Adjacent to Puntarenas city", "Home to fishing communities", "Part of Puntarenas province", "Coastal residential area"]
+      en: ["District of Puntarenas canton", "On the Pacific coast", "Adjacent to Puntarenas city", "Part of Puntarenas province", "Coastal residential area"]
     }, image: "/poi-images/chacarita-de-puntarenas-cities-v2.webp"},
   {
     id: 'san-juan-de-tibas-cities-v2',
@@ -532,7 +532,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Cantonul Tibás, din care face parte, a fost fondat oficial în anul 1914.",
         "Temperatura medie se menține constantă la aproximativ 21 de grade Celsius pe tot parcursul anului."
       ],
-      en: ["Capital of Tib?s canton", "North of San Jos?", "Home to Estadio Ricardo Saprissa Aym?", "Part of the Greater Metropolitan Area", "Commercial and residential mix", "Important transport corridor"]
+      en: ["Capital of Tib?s canton", "North of San Jos?", "Home to Estadio Ricardo Saprissa Aym?", "Commercial and residential mix"]
     }, image: "/poi-images/san-juan-de-tibas-cities-v2.webp"},
   {
     id: 'mercedes-de-heredia-cities-v2',
@@ -572,7 +572,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Districtul se întinde pe o suprafață de circa 4,1 kilometri pătrați.",
         "Populația districtului Mercedes depășește cifra de 28.000 de locuitori."
       ],
-      en: ["District in Heredia canton", "West of Heredia city center", "Part of Heredia province", "Central Valley location", "Residential and commercial mix", "Commuter district near the provincial capital"]
+      en: ["District in Heredia canton", "Part of Heredia province", "Central Valley location", "Residential and commercial mix", "Commuter district near the provincial capital"]
     }, image: "/poi-images/mercedes-de-heredia-cities-v2.webp"},
   {
     id: 'guadalupe-de-goicoechea-cities-v2',
@@ -612,7 +612,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Găzduiește sediul principal al Ministerului de Justiție și Pace din Costa Rica.",
         "Populația districtului Guadalupe este de aproximativ 22.000 de persoane."
       ],
-      en: ["Capital of Goicoechea canton", "In San Jos? province", "Northeast of San Jos?", "Major commercial center", "Known for its central park and parish church", "Part of the Greater Metropolitan Area"]
+      en: ["Capital of Goicoechea canton", "In San Jos? province", "Northeast of San Jos?", "Major commercial center", "Part of the Greater Metropolitan Area"]
     }, image: "/poi-images/guadalupe-de-goicoechea-cities-v2.webp"},
   {
     id: 'aserri-de-san-jose-cities-v2',
@@ -732,7 +732,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Suprafața districtului este relativ mică, având aproximativ 1,6 kilometri pătrați.",
         "Cantonul Alajuelita, din care face parte, a fost înființat în anul 1909."
       ],
-      en: ["District of Alajuelita canton", "Southwest of San Jos?", "Borders Escaz?", "Densely populated residential district", "Part of the metropolitan area", "Local services for commuters"]
+      en: ["District of Alajuelita canton", "Southwest of San Jos?", "Borders Escaz?", "Part of the metropolitan area", "Local services for commuters"]
     }, image: "/poi-images/san-felipe-de-alajuelita-cities-v2.webp"},
   {
     id: 'patarra-de-desamparados-cities-v2',
@@ -814,7 +814,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Temperatura medie este de aproximativ 19 grade Celsius, fiind mai răcoroasă.",
         "Se află direct pe traseul autostrăzii Panamericane (Interamericana Sur)."
       ],
-      en: ["Capital of El Guarco canton", "Just west of Cartago city", "In Cartago province", "Home to industrial parks", "Important for vegetable farming", "Part of the Cartago urban corridor"]
+      en: ["Capital of El Guarco canton", "Just west of Cartago city", "In Cartago province", "Part of the Cartago urban corridor"]
     }, image: "/poi-images/tejar-de-el-guarco-cities-v2.webp"},
   {
     id: 'san-pablo-de-heredia-cities-v2',
@@ -937,7 +937,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Este nodul principal pentru sistemele de irigații din regiunea Guanacaste.",
         "Parcul eolian Tilarán din apropiere este unul dintre cele mai mari din regiune."
       ],
-      en: ["City in Guanacaste province", "On the Pan-American Highway", "Important for cattle ranching", "Near Palo Verde National Park", "Hot and dry climate", "Linked to wind energy projects"]
+      en: ["City in Guanacaste province", "Hot and dry climate", "Linked to wind energy projects"]
     }, image: "/poi-images/canas-de-guanacaste-cities-v2.webp"},
   {
     id: 'guapiles-de-pococi-cities-v2',
@@ -978,7 +978,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Distanța până la capitala San José este de aproximativ 60 de kilometri.",
         "Găzduiește mai multe spitale regionale și instituții de învățământ importante."
       ],
-      en: ["Capital of Pococ? canton", "In Lim?n province", "Gateway to Tortuguero National Park", "Located along the main road to Lim?n", "Banana and pineapple region", "Caribbean lowlands commercial center"]
+      en: ["Capital of Pococ? canton", "In Lim?n province", "Banana and pineapple region", "Caribbean lowlands commercial center"]
     }, image: "/poi-images/guapiles-de-pococi-cities-v2.webp"},
   {
     id: 'siquirres-de-limon-cities-v2',
@@ -1716,7 +1716,7 @@ export const poiExtraCostaricaCitiesV2: POI[] = [
         "Orașul se află la aproximativ 12 kilometri est de centrul capitalei San José.",
         "Populația districtului Tres Ríos este estimată la peste 10.000 de persoane."
       ],
-      en: ["Capital of La Uni?n canton", "In Cartago province", "Eastern edge of the Greater Metropolitan Area", "Historically a coffee-growing town", "Name means Three Rivers", "Important commuter district"]
+      en: ["Capital of La Uni?n canton", "In Cartago province", "Eastern edge of the Greater Metropolitan Area", "Historically a coffee-growing town", "Important commuter district"]
     }, image: "/poi-images/tres-rios-de-la-union-cities-v2.webp"},
   {
     id: 'cot-de-oriamuno-cities-v2',

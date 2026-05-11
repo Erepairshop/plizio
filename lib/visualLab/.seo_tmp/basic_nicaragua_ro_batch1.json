@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rivas-cities-v2",
+      "description": "Rivas este un oraș istoric în sud-vestul Nicaraguei, cunoscut pentru arhitectura sa colonială și apropierea de Lacul Nicaragua.",
+      "facts": ["Oraș istoric", "Arhitectură colonială", "Lacul Nicaragua"]
+    },
+    {
+      "id": "juigalpa-cities-v2",
+      "description": "Juigalpa este capitala departamentului Chontales, renumită pentru creșterea vitelor și picturile rupestre de la Las Lajas.",
+      "facts": ["Capitala Chontales", "Creșterea vitelor", "Picturi rupestre"]
+    },
+    {
+      "id": "somoto-cities-v2",
+      "description": "Somoto este un oraș din departamentul Madriz, cunoscut pentru canionul Somoto, o minune naturală spectaculoasă.",
+      "facts": ["Departamentul Madriz", "Canionul Somoto", "Minune naturală"]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "description": "Diriamba, în Carazo, este cunoscută pentru patrimoniul său cultural indigen, dansurile tradiționale și Basílica de San Sebastián.",
+      "facts": ["Patrimoniu indigen", "Dansuri tradiționale", "Basílica de San Sebastián"]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "description": "Sébaco, în valea Matagalpa, este cunoscut ca 'grânarul Nicaraguei' datorită solurilor sale fertile și cultivării orezului.",
+      "facts": ["Grânarul Nicaraguei", "Cultivarea orezului", "Valea Matagalpa"]
+    },
+    {
+      "id": "posoltega-cities-v2",
+      "description": "Posoltega, în departamentul Chinandega, este un centru agricol cunoscut pentru cultivarea bananelor și a legumelor.",
+      "facts": ["Centru agricol", "Cultivarea bananelor", "Legume"]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "description": "Niquinohomo este un sat istoric din Masaya, locul de naștere al eroului național Augusto C. Sandino.",
+      "facts": ["Sat istoric", "Locul de naștere al lui Sandino", "Masaya"]
+    },
+    {
+      "id": "rosita-cities-v2",
+      "description": "Rosita este un oraș minier din Regiunea Autonomă a Coastei Caraibelor de Nord, cunoscut pentru exploatarea aurului și a argintului.",
+      "facts": ["Oraș minier", "Exploatare aur și argint", "Coasta Caraibelor"]
+    },
+    {
+      "id": "mateare-cities-v2",
+      "description": "Mateare, situat pe malul Lacului Managua, este cunoscut pentru izvoarele sale termale și vedere la Vulcanul Momotombo.",
+      "facts": ["Lacul Managua", "Izvoare termale", "Vulcanul Momotombo"]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "description": "Tecolostote, în Boaco, este cunoscut pentru festivalurile sale tradiționale și agricultura bazată pe fasole și porumb.",
+      "facts": ["Festivaluri tradiționale", "Fasole și porumb", "Boaco"]
+    },
+    {
+      "id": "santo-tomas-chontales-cities-v2",
+      "description": "Santo Tomás, în Chontales, este un centru pentru creșterea vitelor și agricultură, cunoscut pentru produsele din piele.",
+      "facts": ["Creșterea vitelor", "Produse din piele", "Agricultură"]
+    },
+    {
+      "id": "villa-sandino-cities-v2",
+      "description": "Villa Sandino, în Chontales, este un oraș în creștere, dezvoltat în jurul agriculturii și comerțului.",
+      "facts": ["Oraș în creștere", "Agricultură", "Comerț"]
+    },
+    {
+      "id": "san-juan-del-norte-greytown-cities-v2",
+      "description": "San Juan del Norte (Greytown) este un port istoric de pe coasta Caraibelor, cunoscut pentru istoria sa legată de Canalul Nicaragua.",
+      "facts": ["Port istoric", "Coasta Caraibelor", "Canalul Nicaragua"]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "description": "Pueblo Nuevo, în Estelí, este o comunitate agricolă, cunoscută pentru cultivarea tutunului și a cafelei.",
+      "facts": ["Comunitate agricolă", "Cultivarea tutunului și a cafelei", "Estelí"]
+    },
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "description": "Esquipulas, în Matagalpa, este o comunitate cafele, numită după statuia Hristosului Negru din Esquipulas.",
+      "facts": ["Comunitate cafele", "Hristosul Negru", "Matagalpa"]
+    }
+  ]
+}

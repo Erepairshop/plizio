@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cacheu-seekuh-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Rio Cacheu Manatee Sanctuary im Norden Guinea-Bissaus ist eines der wichtigsten Refugien für den Westafrikanischen Manati (Trichechus senegalensis). Diese seltenen und scheuen Säugetiere haben in den ausgedehnten Mangrovensümpfen und Brackwasserbereichen des Cacheu-Flusses ein ideales Habitat gefunden. Die Region zeichnet sich durch ein komplexes Netzwerk aus Wasserwegen aus, die reich an Wasserpflanzen sind, welche die Hauptnahrung der Manatis bilden. Der Schutz dieser Art ist eine große Herausforderung, da sie durch illegale Jagd und den Verlust ihres Lebensraums bedroht sind. Das Schutzgebiet ist Teil des Cacheu River Mangrove Nationalparks und dient als Zentrum für wissenschaftliche Forschung und lokale Sensibilisierung. Die lokale Bevölkerung wird aktiv in den Schutz einbezogen, da der Manati in vielen Legenden der Region eine spirituelle Rolle spielt. Ein Besuch des Schutzgebiets erfordert viel Geduld, da die Tiere oft unter Wasser bleiben und nur kurz zum Atmen auftauchen. Es ist jedoch ein bedeutender Ort für den Ökotourismus, der zeigt, wie wichtig der Erhalt der Mangrovenökosysteme für das Überleben charismatischer Megafauna in Westafrika ist.",
+        "hu": "A Rio Cacheu tengeritehén-rezervátum Guinea-Bissau északi részén a nyugat-afrikai manátuszok (Trichechus senegalensis) egyik legfontosabb menedékhelye. Ezek a ritka és félénk vízi emlősök a Cacheu-folyó kiterjedt mangrove-mocsaraiban és brakkvizes területein találták meg ideális életfeltételeiket. A régiót szövevényes vízi utak hálózata jellemzi, amelyek gazdagok a manátuszok fő táplálékát jelentő vízinövényekben. A faj védelme komoly kihívást jelent, mivel az illegális vadászat és az élőhelyek zsugorodása veszélyezteti fennmaradásukat. A rezervátum a Rio Cacheu Mangrove Nemzeti Park része, és tudományos kutatások, valamint a helyi szemléletformálás központjaként szolgál. A környékbeli lakosságot aktívan bevonják a védelmi munkálatokba, mivel a manátusz számos helyi legendában spirituális szerepet tölt be. A rezervátum látogatása nagy türelmet igényel, mivel az állatok idejük nagy részét a víz alatt töltik, és csak rövid időre bukkannak fel levegőt venni. Ennek ellenére a helyszín az ökoturizmus fontos bázisa, amely rávilágít a mangrove-ökoszisztémák megőrzésének fontosságára Nyugat-Afrika különleges élővilágának túlélése szempontjából.",
+        "ro": "Sanctuarul lamantinilor de pe râul Cacheu, situat în nordul Guineei-Bissau, este unul dintre cele mai importante refugii pentru lamantinul vest-african (Trichechus senegalensis). Aceste mamifere acvatice rare și timide au găsit condiții ideale de viață în mlaștinile extinse de mangrove și în zonele cu apă salmastră ale râului Cacheu. Regiunea este caracterizată printr-o rețea complexă de căi navigabile, bogate în plante acvatice care constituie hrana principală a lamantinilor. Protecția acestei specii reprezintă o provocare majoră, fiind amenințată de vânătoarea ilegală și de pierderea habitatului. Sanctuarul face parte din Parcul Național de Mangrove Rio Cacheu și servește drept centru pentru cercetare științifică și sensibilizare locală. Populația locală este implicată activ în eforturile de conservare, deoarece lamantinul joacă un rol spiritual în multe legende ale regiunii. Vizitarea sanctuarului necesită multă răbdare, deoarece animalele petrec mult timp sub apă, ieșind la suprafață doar pentru scurte momente pentru a respira. Cu toate acestea, situl este o bază importantă pentru ecoturism, subliniind importanța conservării ecosistemelor de mangrove pentru supraviețuirea megafaunei carismatice din Africa de Vest.",
+        "en": "The Rio Cacheu Manatee Sanctuary in northern Guinea-Bissau is one of the most critical refuges for the West African Manatee (Trichechus senegalensis). These rare and elusive aquatic mammals have found ideal living conditions in the extensive mangrove swamps and brackish water areas of the Cacheu River. The region is characterized by a complex network of waterways, rich in the aquatic plants that form the manatees' primary diet. Protecting this species is a significant challenge, as they are threatened by illegal hunting and habitat loss. The sanctuary is part of the Rio Cacheu Mangrove National Park and serves as a center for scientific research and local awareness programs. Local communities are actively involved in conservation efforts, as the manatee plays a spiritual role in many regional legends. Visiting the sanctuary requires great patience, as the animals spend most of their time submerged, surfacing only briefly to breathe. Nevertheless, the site is an important hub for ecotourism, highlighting the importance of preserving mangrove ecosystems for the survival of West Africa's unique wildlife."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Manatis werden in Guinea-Bissau oft als 'Peixe-Mulher' (Fisch-Frau) bezeichnet.",
+          "Das Schutzgebiet umfasst weite Teile des Rio Cacheu Deltas.",
+          "Die Tiere können bis zu 500 Kilogramm schwer werden.",
+          "Westafrikanische Manatis sind die am wenigsten erforschte Seekuh-Art.",
+          "Illegale Jagd ist trotz Schutzstatus ein Problem für die Population.",
+          "Mangrovenwurzeln bieten den Kälbern Schutz vor Strömungen."
+        ],
+        "hu": [
+          "A manátuszokat a helyiek gyakran 'asszonyhalnak' nevezik a legendák alapján.",
+          "A rezervátum a Rio Cacheu torkolatvidékének védett mocsaraiban fekszik.",
+          "Egy kifejlett példány súlya elérheti a fél tonnát is.",
+          "A nyugat-afrikai faj a világ legkevésbé ismert tengeritehén-féléje.",
+          "A terület a nemzetközi lamantin-védelmi programok egyik kiemelt helyszíne.",
+          "Az állatok elsősorban éjszaka aktívak, amikor táplálékot keresnek."
+        ],
+        "ro": [
+          "Lamantinii sunt protejați prin legi naționale stricte în Guineea-Bissau.",
+          "Sanctuarul este situat într-o zonă de influență a mareelor atlantice.",
+          "Dieta lor constă exclusiv din vegetație marină și de apă dulce.",
+          "Sunt animale solitare, fiind văzute în grupuri doar în perioada de împerechere.",
+          "Habitatul de mangrove este esențial pentru reglarea temperaturii apei.",
+          "Proiectele de monitorisierung folosesc tehnologii de ascultare subacvatică."
+        ],
+        "en": [
+          "Manatees are often featured in local folklore as mystical creatures.",
+          "The sanctuary covers a vast area of protected mangrove forest.",
+          "Adult West African manatees can grow up to 4 meters in length.",
+          "They are essential for the ecosystem by recycling nutrients in the water.",
+          "The Rio Cacheu population is one of the most stable in West Africa.",
+          "Conservation efforts include replanting mangrove areas to restore habitat."
+        ]
+      }
+    },
+    {
+      "id": "bijagos-delfine-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Gewässer des Bijagós-Archipels beherbergen eine beeindruckende Vielfalt an Delfinen, wobei der Kamerun-Flussdelfin (Sousa teuszii) und der Große Tümmler (Tursiops truncatus) am häufigsten anzutreffen sind. Besonders der Kamerun-Flussdelfin, auch Atlantischer Buckeldelfin genannt, ist von großer wissenschaftlicher Bedeutung, da er als extrem scheu gilt und weltweit gefährdet ist. Die flachen Kanäle und sandigen Lagunen zwischen den 88 Inseln des Archipels bieten diesen intelligenten Meeressäugern reichlich Nahrung und Schutz vor größeren Raubfischen. Delfine spielen eine wichtige Rolle in der Kosmologie des Bijagó-Volkes; sie werden oft als spirituelle Begleiter der Seefahrer betrachtet. In einigen Regionen des Archipels gibt es Berichte über eine kooperative Fischerei zwischen lokalen Fischern und Delfinen, ein faszinierendes Beispiel für die Interaktion zwischen Mensch und Tier. Der Schutz des Archipels als UNESCO-Biosphärenreservat ist entscheidend für den Erhalt dieser Populationen, da der zunehmende Schiffsverkehr und der Einsatz von Stellnetzen große Gefahren darstellen. Für Reisende bietet eine Bootsfahrt durch den Archipel oft die Gelegenheit, diese majestätischen Tiere in ihrem natürlichen Lebensraum zu beobachten, was die Bedeutung der Meeresökologie für die gesamte Region unterstreicht.",
+        "hu": "A Bijagós-szigetcsoport vizei a delfinek lenyűgöző változatosságának adnak otthont, amelyek közül a leggyakoribb az atlanti púposdelfin (Sousa teuszii) és a palackorrú delfin (Tursiops truncatus). Különösen az atlanti púposdelfin bír nagy tudományos jelentőséggel, mivel ez a faj rendkívül félénk és világszerte veszélyeztetettnek számít. A szigetvilág 88 szigete közötti sekély csatornák és homokos lagúnák bőséges táplálékot és védelmet nyújtanak ezeknek az intelligens tengeri emlősöknek a nagyobb ragadozóhalakkal szemben. A delfinek fontos szerepet játszanak a bijagó nép világképében; gyakran a tengerészek spirituális kísérőinek tekintik őket. A szigetcsoport egyes részein feljegyezték a helyi halászok és a delfinek közötti kooperatív halászatot is, ami az ember és állat közötti interakció lenyűgöző példája. A szigetvilág UNESCO bioszféra-rezervátumként való védelme döntő fontosságú e populációk megőrzése szempontjából, mivel a növekvő hajóforgalom és a halászhálók használata komoly veszélyt jelent számukra. Az utazók számára a szigetek közötti hajóutak gyakran kínálnak lehetőséget e fenséges állatok megfigyelésére természetes élőhelyükön, rávilágítva a tengeri ökológia jelentőségére az egész régióban.",
+        "ro": "Apele Arhipelagului Bijagós adăpostesc o diversitate impresionantă de delfini, delfinul cocoașă de Atlantic (Sousa teuszii) și delfinul cu bot de sticlă (Tursiops truncatus) fiind cele mai frecvente specii. În special delfinul cocoașă de Atlantic are o importanță științifică majoră, fiind considerat o specie extrem de timidă și periclitată la nivel global. Canalele puțin adânci și lagunele nisipoase dintre cele 88 de insule ale arhipelagului oferă acestor mamifere marine inteligente hrană abundentă și protecție împotriva prădătorilor mai mari. Delfinii joacă un rol important în cosmologia poporului Bijagó; ei sunt adesea considerați însoțitori spirituali ai navigatorilor. În unele regiuni ale arhipelagului, există relatări despre pescuitul cooperativ între pescarii locali și delfini, un exemplu fascinant de interacțiune între om și animal. Protecția arhipelagului ca Rezervație a Biosferei UNESCO este esențială pentru menținerea acestor populații, deoarece traficul naval în creștere și utilizarea plaselor de pescuit reprezintă amenințări majore. Pentru călători, o plimbare cu barca prin arhipelag oferă adesea ocazia de a observa aceste animale maiestuoase în habitatul lor natural, subliniind importanța ecologiei marine pentru întreaga regiune.",
+        "en": "The waters of the Bijagós Archipelago host an impressive variety of dolphins, with the Atlantic humpback dolphin (Sousa teuszii) and the bottlenose dolphin (Tursiops truncatus) being the most common. The Atlantic humpback dolphin is of particular scientific importance, as it is extremely shy and globally endangered. The shallow channels and sandy lagoons between the 88 islands of the archipelago provide these intelligent marine mammals with plenty of food and protection from larger predatory fish. Dolphins play a significant role in the cosmology of the Bijagó people; they are often viewed as spiritual companions to seafarers. In some areas of the archipelago, there are reports of cooperative fishing between local fishers and dolphins, a fascinating example of human-animal interaction. Protecting the archipelago as a UNESCO Biosphere Reserve is crucial for preserving these populations, as increasing boat traffic and the use of gillnets pose major threats. For travelers, a boat trip through the archipelago often offers the chance to observe these majestic animals in their natural habitat, highlighting the significance of marine ecology for the entire region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Atlantische Buckeldelfin ist eine der seltensten Delfinarten der Welt.",
+          "Sie halten sich bevorzugt in flachen Küstengewässern unter 20 Metern Tiefe auf.",
+          "Delfine werden in der lokalen Kunst oft in Holzschnitzereien dargestellt.",
+          "Der Archipel ist einer der letzten Rückzugsorte für Sousa teuszii in Afrika.",
+          "Kooperative Jagdtechniken mit Menschen wurden in Bolama beobachtet.",
+          "Schallverschmutzung durch Außenbordmotoren stört ihre Kommunikation."
+        ],
+        "hu": [
+          "Az atlanti púposdelfin a világ egyik legritkább és legveszélyeztetettebb faja.",
+          "A Bijagós-szigeteken a delfinek jelenléte a víz tisztaságának mutatója.",
+          "A helyi vallási rituálékban a delfin a bölcsesség szimbóluma.",
+          "Ezek az állatok képesek a folyótorkolatok édesebb vizében is élni.",
+          "A szigetcsoport 88 szigete között ideális vadászterületeket találnak.",
+          "A természetvédők GPS-nyomkövetőkkel figyelik a vándorlási útvonalaikat."
+        ],
+        "ro": [
+          "Delfinii cocoașă sunt endemici pentru coasta vestică a Africii.",
+          "Populația din Bijagós este estimată la câteva sute de exemplare.",
+          "Interacțiunea cu pescarii locali datează de generații întregi.",
+          "Sunt animale foarte sociale, trăind în grupuri numite 'pod-uri'.",
+          "Poluarea cu plastic reprezintă o amenințare tot mai mare pentru habitatul lor.",
+          "Sunt protejați internațional prin convențiile privind speciile migratoare."
+        ],
+        "en": [
+          "The Atlantic humpback dolphin is critically endangered and shy.",
+          "The archipelago offers a unique labyrinth of channels perfect for foraging.",
+          "Bijagó masks often feature dolphin motifs as a sign of respect.",
+          "They use echolocation to navigate the murky waters of the mangroves.",
+          "Tourism activities are strictly regulated to prevent disturbing the pods.",
+          "The dolphins share their habitat with rare saltwater hippos."
+        ]
+      }
+    },
+    {
+      "id": "bafata-cashew-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Cashew-Plantagen von Bafatá bilden das ökonomische Herzstück von Guinea-Bissau. Das Land gehört zu den weltweit größten Produzenten von Cashewnüssen (Anacardium occidentale), und die Region Bafatá ist eines der Hauptanbaugebiete. Der Cashewbaum wurde ursprünglich aus Südamerika eingeführt, hat sich aber so perfekt an das guineische Klima angepasst, dass er heute fast überall im Land zu finden ist. Die Erntezeit zwischen April und Juni bestimmt den Rhythmus des Lebens in Bafatá; Schulen werden oft geschlossen, damit Familien gemeinsam die Früchte sammeln können. Während die Nüsse für den Export bestimmt sind, wird der fleischige Cashewapfel lokal zu Säften und dem berühmten Cashew-Wein vergoren. Die Abhängigkeit von diesem einen Exportgut ist jedoch auch ein Risiko für die nationale Wirtschaft, da Preisschwankungen auf dem Weltmarkt die ländlichen Haushalte direkt treffen. Ein Spaziergang durch die endlosen Plantagen rund um Bafatá bietet einen Einblick in die Agrarstruktur des Landes und zeigt die Bedeutung dieses Baumes für die Ernährungssicherheit und das Einkommen der Bevölkerung. In den letzten Jahren gibt es Bemühungen, die Verarbeitung der Nüsse im Land selbst zu forcieren, um die Wertschöpfung in Guinea-Bissau zu erhöhen.",
+        "hu": "Bafatá kesudió-ültetvényei Guinea-Bissau gazdasági motorját jelentik. Az ország a világ egyik legnagyobb kesudió-termelője (Anacardium occidentale), és Bafatá régió az egyik legfontosabb termesztési körzet. A kesudiófát eredetileg Dél-Amerikából hozták be, de olyan tökéletesen alkalmazkodott a guineai éghajlathoz, hogy ma már szinte az egész országban megtalálható. Az április és június közötti betakarítási időszak meghatározza a bafatá-iak életritmusát; az iskolák gyakran bezárnak, hogy a családok közösen gyűjthessék a termést. Míg a magokat exportra szánják, a húsos kesualmából helyben gyümölcslevet és a híres kesubort készítik. Azonban az ettől az egyetlen exportcikktől való függőség kockázatot is jelent a nemzetgazdaság számára, mivel a világpiaci áringadozások közvetlenül érintik a vidéki háztartásokat. A Bafatá környéki végtelen ültetvényeken tett séta bepillantást enged az ország mezőgazdasági szerkezetébe, és megmutatja e fa jelentőségét az élelmezésbiztonság és a lakosság jövedelme szempontjából. Az utóbbi években törekvések indultak a magok helyi feldolgozásának ösztönzésére, hogy növeljék a hozzáadott értéket Guinea-Bissauban.",
+        "ro": "Plantațiile de caju din Bafatá reprezintă inima economică a Guineei-Bissau. Țara este unul dintre cei mai mari producători mondiali de nuci caju (Anacardium occidentale), iar regiunea Bafatá este una dintre principalele zone de cultivare. Arborele de caju a fost introdus inițial din America de Sud, dar s-a adaptat atât de perfect la climatul guineean încât astăzi poate fi găsit aproape peste tot în țară. Perioada de recoltare între lunile aprilie și iunie determină ritmul vieții în Bafatá; școlile sunt adesea închise pentru ca familiile să poată colecta fructele împreună. În timp ce nucile sunt destinate exportului, mărul de caju cărnos este fermentat local pentru sucuri și faimosul vin de caju. Cu toate acestea, dependența de acest singur produs de export reprezintă, de asemenea, un risc pentru economia națională, deoarece fluctuațiile de preț pe piața mondială afectează direct gospodăriile rurale. O plimbare prin plantațiile nesfârșite din jurul orașului Bafatá oferă o perspectivă asupra structurii agricole a țării și arată importanța acestui arbore pentru securitatea alimentară și venitul populației. În ultimii ani, s-au depus eforturi pentru a forța procesarea nucilor chiar în țară, pentru a crește valoarea adăugată în Guineea-Bissau.",
+        "en": "The cashew plantations of Bafatá form the economic heart of Guinea-Bissau. The country is one of the world's largest producers of cashew nuts (Anacardium occidentale), and the Bafatá region is one of its primary cultivation areas. The cashew tree was originally introduced from South America but has adapted so perfectly to the Bissau-Guinean climate that it is now found almost everywhere in the country. The harvest season between April and June dictates the rhythm of life in Bafatá; schools are often closed so that families can gather the fruit together. While the nuts are destined for export, the fleshy cashew apple is fermented locally into juices and the famous cashew wine. However, dependence on this single export commodity is also a risk for the national economy, as price fluctuations on the world market directly affect rural households. A walk through the endless plantations around Bafatá provides insight into the country's agricultural structure and shows the importance of this tree for food security and the population's income. In recent years, efforts have been made to encourage domestic processing of the nuts to increase value-added within Guinea-Bissau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Guinea-Bissau ist der fünftgrößte Cashew-Produzent weltweit.",
+          "Der Cashew-Sektor macht über 90 % der Exporteinnahmen des Landes aus.",
+          "Die Bäume dienen auch als wichtige Schattenspender in den Dörfern.",
+          "Cashew-Wein ist ein beliebtes alkoholisches Getränk während der Ernte.",
+          "Die Schalen der Nüsse enthalten ätzendes Öl, das vorsichtig entfernt werden muss.",
+          "Ziegen und Schweine fressen oft die herabgefallenen Cashewäpfel."
+        ],
+        "hu": [
+          "A kesudió adja Guinea-Bissau exportbevételeinek több mint 90%-át.",
+          "A kesufa a 16. században került ide portugál közvetítéssel.",
+          "A betakarítás szinte teljes egészében manuálisan történik.",
+          "A kesualma C-vitamin tartalma ötszöröse a narancsénak.",
+          "A magokat leginkább Indiába és Vietnámba szállítják feldolgozásra.",
+          "Egy kesufa akár 30-40 évig is termőképes marad."
+        ],
+        "ro": [
+          "Caju este principala sursă de valută pentru Guineea-Bissau.",
+          "Recolta depinde în mare măsură de precipitațiile sezoniere.",
+          "Uleiul din coaja de caju este folosit în industria chimică.",
+          "Vinul de caju este produs prin fermentare naturală în sate.",
+          "Regiunea Bafatá produce cele mai mari și mai calitative nuci din țară.",
+          "Majoritatea fermelor de caju sunt mici proprietăți familiale."
+        ],
+        "en": [
+          "Cashew nuts are locally known as 'castanha de caju'.",
+          "The sector employs nearly 80% of the country's labor force.",
+          "The fruit consists of the 'nut' and the larger 'pseudo-fruit' or apple.",
+          "World market prices for cashew directly influence local poverty levels.",
+          "Bafatá is a central hub for the transport of cashews to the port of Bissau.",
+          "Intercropping with peanuts is common in young cashew plantations."
+        ]
+      }
+    },
+    {
+      "id": "oio-erdnuss-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Erdnussfarmen der Region Oio waren historisch das wichtigste Exportgut Guinea-Bissaus vor dem Aufstieg der Cashew-Industrie. Erdnüsse (Arachis hypogaea) wurden im 19. Jahrhundert massiv gefördert und machten das Land zu einem der führenden Produzenten in Westafrika. In Oio, einer Region mit fruchtbaren Böden und moderaten Niederschlägen, ist die Erdnuss noch heute ein wesentlicher Bestandteil der lokalen Landwirtschaft und Ernährung. Die Farmen werden meist von kleinbäuerlichen Betrieben geführt, die traditionelle Anbaumethoden nutzen. Erdnüsse sind nicht nur eine wichtige Einnahmequelle, sondern auch ein Grundnahrungsmittel; sie werden zu Pasten verarbeitet, geröstet oder als Basis für Eintöpfe wie 'Mafé' verwendet. Der Anbau von Erdnüssen hat die soziale Struktur in Oio geprägt, da er die Sesshaftigkeit und die Bildung von Marktzentren förderte. Obwohl die großflächige kommerzielle Produktion zurückgegangen ist, bleibt die Erdnuss ein Symbol für die bäuerliche Tradition und die kulinarische Identität der Region. Ein Besuch in den Dörfern von Oio während der Erntezeit offenbart die Bedeutung der Gemeinschaftsarbeit und die tiefen Wurzeln der Agrarkultur in diesem Teil des Landes.",
+        "hu": "Az Oio régió földimogyoró-farmjai történelmileg Guinea-Bissau legfontosabb exporttermelői voltak a kesudió-ipar felemelkedése előtt. A földimogyorót (Arachis hypogaea) a 19. században kezdték el nagyüzemben termeszteni, és az ország Nyugat-Afrika egyik vezető termelőjévé vált. Oio régióban, ahol a talaj termékeny és a csapadékmennyiség mérsékelt, a földimogyoró ma is a helyi mezőgazdaság és táplálkozás alapvető része. A farmokat leginkább kisbirtokosok kezelik, akik hagyományos módszereket alkalmaznak. A földimogyoró nemcsak bevételi forrás, hanem alapvető élelmiszer is; pasztává dolgozzák fel, pörkölik, vagy olyan sűrű raguk alapjaként használják, mint a 'Mafé'. A termesztés meghatározta Oio társadalmi szerkezetét is, elősegítve a letelepedést és a piaci központok kialakulását. Bár a nagyüzemi kereskedelmi termelés visszaesett, a földimogyoró továbbra is a régió paraszti hagyományainak és kulináris identitásának szimbóluma. Az oiói falvak látogatása a betakarítás idején megmutatja a közösségi munka erejét és a mezőgazdasági kultúra mély gyökereit az ország ezen részén.",
+        "ro": "Fermele de arahide din regiunea Oio au fost, istoric, cel mai important produs de export al Guineei-Bissau înainte de ascensiunea industriei de caju. Arahidele (Arachis hypogaea) au fost promovate masiv în secolul al XIX-lea, transformând țara într-unul dintre principalii producători din Africa de Vest. În Oio, o regiune cu soluri fertile și precipitații moderate, arahidele rămân și astăzi o componentă esențială a agriculturii și alimentației locale. Fermele sunt gestionate în mare parte de mici proprietari care utilizează metode tradiționale de cultivare. Arahidele nu sunt doar o sursă de venit, ci și un aliment de bază; sunt procesate în paste, prăjite sau folosite ca bază pentru tocănițe precum 'Mafé'. Cultivarea arahidelor a modelat structura socială din Oio, favorizând sedentarizarea și formarea centrelor comerciale. Deși producția comercială la scară largă a scăzut, arahida rămâne un simbol al tradiției țărănești și al identității culinare a regiunii. O vizită în satele din Oio în timpul perioadei de recoltare dezvăluie importanța muncii comunitare și rădăcinile adânci ale culturii agrare în această parte a țării.",
+        "en": "The peanut farms of the Oio region were historically Guinea-Bissau's most important export commodity before the rise of the cashew industry. Peanuts (Arachis hypogaea) were promoted heavily in the 19th century, making the country one of the leading producers in West Africa. In Oio, a region with fertile soils and moderate rainfall, peanuts remain an essential part of local agriculture and diet today. The farms are mostly run by smallholders using traditional cultivation methods. Peanuts are not only a source of income but also a staple food; they are processed into pastes, roasted, or used as a base for stews like 'Mafé.' Peanut cultivation has shaped the social structure in Oio, encouraging settlement and the formation of market centers. Although large-scale commercial production has declined, the peanut remains a symbol of the region's farming traditions and culinary identity. A visit to the villages of Oio during harvest time reveals the importance of community labor and the deep roots of agricultural culture in this part of the country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erdnüsse waren bis in die 1960er Jahre das wichtigste Exportgut des Landes.",
+          "In der lokalen Sprache werden sie oft 'mancarra' genannt.",
+          "Oio gilt als das historische Zentrum der guineischen Erdnussproduktion.",
+          "Die Erdnussbutter (Mancarra-Paste) ist eine Grundzutat der nationalen Küche.",
+          "Erdnüsse reichern den Boden mit Stickstoff an, was gut für die Fruchtfolge ist.",
+          "Die Ernte erfolgt meist gegen Ende der Regenzeit im Oktober."
+        ],
+        "hu": [
+          "A földimogyoró a gyarmati gazdaság gerincét alkotta több mint egy évszázadon át.",
+          "A helyi kreol nyelven a mogyorót 'mancarra'-nak hívják.",
+          "Oio régió híres a kiváló minőségű, kézzel válogatott mogyorójáról.",
+          "A mogyoróolaj-termelés korábban Bissau egyik fő iparága volt.",
+          "A mogyorószósz az ország nemzeti ételeinek (pl. Caldo de Mancarra) alapja.",
+          "A termesztés során gyakran alkalmaznak vetésforgót kölessel és cirokkal."
+        ],
+        "ro": [
+          "Arahidele au fost introduse în Africa din America de Sud în perioada colonială.",
+          "Producția a atins apogeul în anii '50 sub administrația portugheză.",
+          "Uleiul de arahide era principalul combustibil pentru gătit în orașe.",
+          "Târgurile locale din Oio sunt renumite pentru varietatea de arahide prăjite.",
+          "Arahidele sunt plantate la începutul sezonului ploios, în iunie.",
+          "Rămân un produs de export important către piețele regionale africane."
+        ],
+        "en": [
+          "Peanuts were the dominant cash crop before the civil war.",
+          "Local farmers often sell peanuts by the cup in Bissau's markets.",
+          "The Oio region maintains the highest density of peanut farms in the country.",
+          "Groundnut paste is an essential source of protein for rural families.",
+          "The crop is well-suited to the sandy-loam soils found in northern Guinea.",
+          "Women are predominantly responsible for the processing and sale of peanuts."
+        ]
+      }
+    },
+    {
+      "id": "tombali-reis-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Reisterrassen von Tombali sind ein beeindruckendes Zeugnis der landwirtschaftlichen Genialität des Balanta-Volkes. In der südlichen Region Tombali, die durch weite Mangrovengebiete und starke Gezeiten geprägt ist, wurde ein komplexes System zur Gewinnung von Ackerland entwickelt. Durch den Bau von Deichen und Kanälen wird das Salzwasser des Meeres zurückgehalten, während das Regenwasser zur Entsalzung der Böden und zur Bewässerung des Reises genutzt wird. Diese Form des 'Mangrovenreises' ist das Rückgrat der Ernährungssicherheit in Guinea-Bissau. Reis ist das Grundnahrungsmittel schlechthin, und die Fähigkeit, ihn in solch herausfordernden Umgebungen anzubauen, wird von Generation zu Generation weitergegeben. Die Terrassenlandschaft prägt das visuelle Bild von Tombali und zeigt eine harmonische, wenn auch arbeitsintensive Interaktion zwischen Mensch und Natur. Trotz der harten körperlichen Arbeit, die für die Instandhaltung der Deiche erforderlich ist, bleibt der Reisanbau ein zentrales Element der sozialen Identität und des kulturellen Stolzes. In den letzten Jahren bedroht der steigende Meeresspiegel dieses fragile System, was den Erhalt der Reisterrassen zu einer Überlebensfrage für die Region macht.",
+        "hu": "Tombali rizsteraszai a balanta nép mezőgazdasági zsenialitásának lenyűgöző bizonyítékai. A déli Tombali régióban, amelyet kiterjedt mangrove-területek és erős árapály jellemez, komplex rendszert fejlesztettek ki a termőföldek kinyerésére. Gátak és csatornák építésével visszatartják a tenger sós vizét, míg az esővizet a talaj sótalanítására és a rizs öntözésére használják. A 'mangroverizs' ezen formája Guinea-Bissau élelmezésbiztonságának gerince. A rizs az alapvető élelmiszer, és a képesség, hogy ilyen kihívásokkal teli környezetben termesszék, nemzedékről nemzedékre öröklődik. A teraszos táj meghatározza Tombali látványát, és az ember és a természet közötti harmonikus, bár munkaigényes interakciót mutatja be. A gátak karbantartásához szükséges kemény fizikai munka ellenére a rizstermesztés a társadalmi identitás és a kulturális büszkeség központi eleme marad. Az utóbbi években a tengerszint emelkedése fenyegeti ezt a törékeny rendszert, így a rizsteraszok megőrzése a régió túlélésének kérdésévé vált.",
+        "ro": "Terasele de orez din Tombali sunt o dovadă impresionantă a geniului agricol al poporului Balanta. În regiunea sudică Tombali, caracterizată prin zone vaste de mangrove și maree puternice, a fost dezvoltat un sistem complex pentru obținerea terenurilor agricole. Prin construirea de diguri și canale, apa sărată a mării este reținută, în timp ce apa de ploaie este utilizată pentru desalinizarea solului și pentru irigarea orezului. Această formă de 'orez de mangrove' este coloana vertebrală a securității alimentare în Guineea-Bissau. Orezul este alimentul de bază prin excelență, iar capacitatea de a-l cultiva în medii atât de dificile este transmisă din generație în generație. Peisajul terasat modelează imaginea vizuală a regiunii Tombali și arată o interacțiune armonioasă, deși intensivă în muncă, între om și natură. În ciuda muncii fizice grele necesare pentru întreținerea digurilor, cultivarea orezului rămâne un element central al identității sociale și al mândriei culturale. În ultimii ani, creșterea nivelului mării amenință acest sistem fragil, transformând conservarea teraselor de orez într-o chestiune de supraviețuire pentru regiune.",
+        "en": "The rice terraces of Tombali are an impressive testament to the agricultural genius of the Balanta people. In the southern Tombali region, characterized by vast mangrove areas and strong tides, a complex system was developed to reclaim farmland. By building dikes and canals, the sea's saltwater is kept out, while rainwater is used to desalinate the soil and irrigate the rice. This form of 'mangrove rice' is the backbone of food security in Guinea-Bissau. Rice is the ultimate staple food, and the ability to grow it in such challenging environments is passed down from generation to generation. The terraced landscape shapes the visual image of Tombali and shows a harmonious, albeit labor-intensive, interaction between humans and nature. Despite the heavy physical labor required to maintain the dikes, rice cultivation remains a central element of social identity and cultural pride. In recent years, rising sea levels have threatened this fragile system, making the preservation of the rice terraces a matter of survival for the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Balanta sind berühmt für ihre Kunst der Mangroven-Reiskultur.",
+          "Das Deichsystem schützt das Land vor der Versalzung durch den Atlantik.",
+          "Reis ist für die Bissau-Guineer ein heiliges Nahrungsmittel.",
+          "Die Terrassen in Tombali gehören zu den produktivsten des Landes.",
+          "Die Deiche werden traditionell nur mit handgefertigten Holzwerkzeugen gebaut.",
+          "Ein großer Teil der nationalen Reisproduktion stammt aus dem Süden."
+        ],
+        "hu": [
+          "A balanta népcsoport a mocsári rizstermesztés nemzetközileg elismert mestere.",
+          "A gátak és zsilipek rendszere bonyolult mérnöki tudást tükröz.",
+          "A rizs nemcsak étel, hanem a rituális szertartások része is.",
+          "Tombali régiót Guinea-Bissau 'rizskosarának' nevezik.",
+          "A gátak karbantartása közösségi feladat, amelyben mindenki részt vesz.",
+          "A klímaváltozás miatti sós víz betörése komoly veszélyt jelent a földekre."
+        ],
+        "ro": [
+          "Orezul de mangrove (bolanha) este mai rezistent decât orezul de munte.",
+          "Sistemul de drenaj permite controlul precis al nivelului apei.",
+          "Regiunea Tombali are cea mai mare cantitate de precipitații din țară.",
+          "Ciclul de cultivare a orezului determină calendarul sărbătorilor locale.",
+          "Orezul este folosit adesea ca monedă de schimb în comerțul rural.",
+          "Terasele necesită o întreținere anuală constantă după sezonul ploios."
+        ],
+        "en": [
+          "The Balanta people developed these techniques long before the colonial era.",
+          "Dike construction prevents saltwater intrusion into the fertile lowlands.",
+          "Guinea-Bissau has one of the highest per capita rice consumption rates in Africa.",
+          "Tombali is considered the agricultural heartland of the southern coast.",
+          "The unique irrigation system depends on the annual West African monsoon.",
+          "Modern NGOs are working to strengthen these dikes against rising sea levels."
+        ]
+      }
+    }
+  ]
+}

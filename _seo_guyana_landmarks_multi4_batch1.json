@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "mission-chapel-new-amsterdam-landmarks-v2",
+      "descriptionAdvancedDe": "Die Mission Chapel in New Amsterdam ist ein historisches Zeugnis des frühen 19. Jahrhunderts und der Emanzipation der Sklaven in Guyana. Ursprünglich 1819 gegründet, diente die Kirche als wichtiger spiritueller und sozialer Treffpunkt für die befreite Bevölkerung. Ihre Architektur spiegelt die bescheidenen, aber widerstandsfähigen Gemeinschaften wider, die sie erbauten. Das Gebäude wurde im Laufe der Jahre mehrfach restauriert, um seine historische Integrität zu bewahren. Es ist ein seltenes Beispiel für die frühe viktorianische Norman-Architektur und wurde 1854 von Ichabod Washburn erbaut. Heute ist die Kapelle nicht nur ein Ort des Gottesdienstes, sondern auch ein Symbol für den langen Weg zur Freiheit und Gleichheit in der guyanischen Gesellschaft. Sie zieht Historiker und Touristen gleichermaßen an, die sich für die reiche und oft schmerzhafte Geschichte der Region interessieren.",
+      "descriptionAdvancedHu": "A New Amsterdam-i Missziós Kápolna Guyana 19. század eleji történelmének és a rabszolga-emancipációnak a fontos emléke. Az 1819-ben alapított templom a felszabadított lakosság kulcsfontosságú spirituális és társadalmi gyülekezőhelye volt. Építészete az azt építő szerény, mégis szívós közösségeket tükrözi. Az épületet az évek során többször restaurálták történelmi hitelességének megőrzése érdekében. Az épület a korai viktoriánus normann stílus ritka példája, melyet Ichabod Washburn épített 1854-ben. Ma a kápolna nem csupán istentiszteleti hely, hanem a szabadsághoz és egyenlőséghez vezető hosszú út szimbóluma is a guyanai társadalomban. Történészeket és turistákat egyaránt vonz, akiket érdekel a régió gazdag és gyakran fájdalmas történelme.",
+      "descriptionAdvancedRo": "Capela Misiunii din New Amsterdam este o mărturie istorică a începutului secolului al XIX-lea și a emancipării sclavilor din Guyana. Fondată inițial în 1819, biserica a servit drept un important punct de întâlnire spiritual și social pentru populația eliberată. Arhitectura sa reflectă comunitățile modeste, dar rezistente, care au construit-o. Clădirea a fost restaurată de mai multe ori de-a lungul anilor pentru a-i păstra integritatea istorică. Este un exemplu rar al stilului normand timpuriu victorian, fiind construită de Ichabod Washburn în 1854. Astăzi, capela nu este doar un lăcaș de cult, ci și un simbol al drumului lung către libertate și egalitate în societatea guyaneză. Atrage atât istorici, cât și turiști interesați de istoria bogată și adesea dureroasă a regiunii.",
+      "descriptionAdvancedEn": "The Mission Chapel in New Amsterdam stands as a historical testament to the early 19th century and the emancipation of enslaved people in Guyana. Originally founded in 1819, the church served as a crucial spiritual and social gathering place for the liberated population. Its architecture reflects the modest yet resilient communities that built it. The structure is a rare example of early Victorian Norman styling, built by Ichabod Washburn in 1854. Over the years, it has undergone several restorations to preserve its historical integrity. Today, the chapel is not only a place of worship but also a symbol of the long road to freedom and equality in Guyanese society. It attracts historians and tourists alike, who are interested in the rich and often painful history of the region.",
+      "factsAdvanced": [
+        "Founded in 1819 as a place for emancipated slaves.",
+        "Built in 1854 by Ichabod Washburn.",
+        "Represents early Victorian Norman architectural style.",
+        "The exterior walls are divided into bays by piers.",
+        "The main facade features arched windows in the gable.",
+        "Established by the Evangelical City Missionary Society.",
+        "It is one of the oldest church buildings in the city.",
+        "A symbol of freedom in Guyanese history."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "giad-industrial-city-economic-v2",
+      "description": "Complex industrial vast la sud de Khartoum, concentrând producție auto și tehnică.",
+      "facts": ["Centru industrial major", "Producție vehicule", "Tehnologie tehnică", "Hub economic strategic"]
+    },
+    {
+      "id": "hassai-gold-mine-economic-v2",
+      "description": "Cea mai mare mină de aur în exploatare industrială din Sudan, situată în zona Munților Mării Roșii.",
+      "facts": ["Mina de aur industrială", "Situată în Munții Mării Roșii", "Export aur masiv", "Resursă economică cheie"]
+    },
+    {
+      "id": "jebel-amir-gold-mines-economic-v2",
+      "description": "Zonă renumită pentru exploatările aurifere artizanale și industriale din Darfur.",
+      "facts": ["Localizate în Darfur", "Exploatare aur", "Activitate economică intensă", "Resurse minerale importante"]
+    },
+    {
+      "id": "block-6-balila-oil-field-economic-v2",
+      "description": "Câmp petrolifer major, vital pentru producția de țiței a Sudanului.",
+      "facts": ["Situat în Kordofan", "Producție petrolieră", "Vital pentru economia Sudanului", "Infrastructură de extracție"]
+    },
+    {
+      "id": "galat-sufar-south-gold-economic-v2",
+      "description": "Sit minier de aur în regiunea Mării Roșii, contribuind la exporturile metalice ale țării.",
+      "facts": ["Regiunea Mării Roșii", "Producție metalurgică", "Investiție minieră", "Export aur"]
+    },
+    {
+      "id": "khartoum-north-industrial-economic-v2",
+      "description": "Zonă industrială principală a Khartoumului, concentrând fabrici și uzine.",
+      "facts": ["Parte a complexului Khartoum", "Industrie diversificată", "Centru de fabricație", "Angajator major"]
+    },
+    {
+      "id": "al-bageer-industrial-area-economic-v2",
+      "description": "Platformă industrială în dezvoltare, situată la sud de capitală.",
+      "facts": ["Situată la sud de Khartoum", "Platformă industrială", "Atrage investiții", "Producție diversificată"]
+    },
+    {
+      "id": "wad-medani-textile-factory-economic-v2",
+      "description": "Unitate istorică de producție textilă în Wad Medani, centrul regiunii Gezira.",
+      "facts": ["Situată în Wad Medani", "Producție textilă", "Tradiție industrială", "Susține industria bumbacului"]
+    },
+    {
+      "id": "gedarif-sesame-processing-economic-v2",
+      "description": "Centru de procesare a susanului, esențial pentru exportul agricol din statul Gedaref.",
+      "facts": ["Situat în statul Gedaref", "Procesare susan", "Hub export agricol", "Importanță regională"]
+    },
+    {
+      "id": "khor-omar-industrial-economic-v2",
+      "description": "Zonă industrială emergentă, susținând producția locală în statul Nilul Alb.",
+      "facts": ["Localizată în Nilul Alb", "Producție locală", "Dezvoltare industrială", "Susține economia regională"]
+    }
+  ]
+}

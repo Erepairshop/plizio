@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-cenotaph-georgetown-history-v2",
+      "descriptionAdvancedDe": "Der Kenotaph in Georgetown ist ein feierliches Kriegerdenkmal, das den guyanischen Soldaten gewidmet ist, die in den beiden Weltkriegen ihr Leben verloren haben. Das 1923 errichtete Denkmal befindet sich an prominenter Stelle gegenüber dem Bank of Guyana Building. Es ist ein einfacher, aber würdevoller Marmorblock, der auf einem Granitsockel ruht. Auf ihm sind die ergreifenden Worte 'Den glorreichen Toten von Guyana' eingraviert. Der Kenotaph ist der zentrale Punkt für die jährlichen Gedenkfeiern am Remembrance Day (Sonntag der dem 11. November am nächsten liegt), an dem Kränze niedergelegt und die Opfer der Soldaten geehrt werden. Es ist ein stiller Ort der Besinnung im Herzen der geschäftigen Hauptstadt und eine ständige Erinnerung an die globalen Konflikte, die auch das Leben in Guyana beeinflussten, und an den Mut derer, die dienten und fielen.",
+      "descriptionAdvancedHu": "A georgetowni Kenotáfium egy ünnepélyes háborús emlékmű, amelyet azoknak a guyanai katonáknak szenteltek, akik a két világháborúban vesztették életüket. Az 1923-ban emelt emlékmű kiemelkedő helyen, a Bank of Guyana épületével szemben található. Egy egyszerű, de méltóságteljes márványtömb, amely gránit talapzaton nyugszik. Rajta a megrendítő szavak: 'Guyana dicsőséges halottainak'. A Kenotáfium a november 11-hez legközelebbi vasárnapon tartott éves emléknapi megemlékezések központi pontja, ahol koszorúkat helyeznek el és tisztelegnek a katonák áldozata előtt. A csendes elmélkedés helye a nyüzsgő főváros szívében, és állandó emlékeztető a globális konfliktusokra, amelyek Guyana életét is befolyásolták, valamint azok bátorságára, akik szolgáltak és elestek.",
+      "descriptionAdvancedRo": "Cenotaful din Georgetown este un memorial de război solemn dedicat soldaților guyanezi care și-au pierdut viața în cele două războaie mondiale. Ridicat în 1923, memorialul este situat într-un loc proeminent, vizavi de clădirea Băncii Guyanei. Este un bloc de marmură simplu, dar demn, așezat pe un soclu de granit. Pe el sunt gravate cuvintele emoționante 'Glorioșilor morți ai Guyanei'. Cenotaful este punctul central al ceremoniilor anuale de Ziua Comemorării (duminica cea mai apropiată de 11 noiembrie), unde se depun coroane de flori și se onorează sacrificiul soldaților. Este un loc tăcut de reflecție în inima capitalei aglomerate și un memento constant al conflictelor globale care au afectat și viața din Guyana, precum și al curajului celor care au servit și au căzut la datorie.",
+      "descriptionAdvancedEn": "The Cenotaph in Georgetown is a solemn war memorial dedicated to the Guyanese soldiers who lost their lives in the two World Wars. Erected in 1923, the memorial is prominently located opposite the Bank of Guyana building. It is a simple yet dignified marble block resting on a granite base. Inscribed upon it are the poignant words 'To the Glorious Dead of Guyana'. The Cenotaph is the focal point for the annual Remembrance Day ceremonies (the Sunday closest to November 11th), where wreaths are laid and the sacrifice of the soldiers is honored. It is a quiet place of reflection in the heart of the bustling capital, and a constant reminder of the global conflicts that also impacted life in Guyana, and of the courage of those who served and fell.",
+      "factsAdvanced": [
+        "Errichtet im Jahr 1923.",
+        "Ehrt die guyanischen Gefallenen der beiden Weltkriege.",
+        "Die Inschrift lautet: 'Den glorreichen Toten von Guyana'.",
+        "Befindet sich an der Ecke von Main und Church Street.",
+        "Ein einfacher Block aus italienischem Marmor.",
+        "Zentraler Ort für die jährlichen Feierlichkeiten zum Remembrance Day.",
+        "Ein Symbol der nationalen Erinnerung an Kriegsopfer.",
+        "Entworfen vom Architekten Captain E.A. Riehl."
+      ]
+    }
+  ]
+}

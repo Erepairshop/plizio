@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "table-mountain-nature-v2",
+      "description": "Un munte iconic cu vârf plat care domină peisajul orașului Cape Town. Este o atracție naturală mondială, renumită pentru flora diversă.",
+      "facts": ["Vârf plat iconic", "Parte din patrimoniul UNESCO", "Simbolul orașului Cape Town", "Biodiversitate bogată"]
+    },
+    {
+      "id": "indian-ocean-coast-nature-v2",
+      "description": "Coasta estică a Africii de Sud, caracterizată prin ape calde și o viață marină luxuriantă, ideală pentru explorare.",
+      "facts": ["Ape calde tropicale", "Coasta estică a țării", "Biodiversitate marină vastă", "Climat subtropical"]
+    },
+    {
+      "id": "atlantic-ocean-coast-nature-v2",
+      "description": "Coasta vestică, cunoscută pentru curenții reci ai Oceanului Atlantic și stâncile dramatice de-a lungul litoralului.",
+      "facts": ["Curenți oceanici reci", "Coasta vestică a țării", "Stânci dramatice", "Ecosistem marin distinct"]
+    },
+    {
+      "id": "karoo-nature-v2",
+      "description": "Regiune semi-deșertică vastă, caracterizată prin peisaje aride și o floră adaptată la condiții extreme de secetă.",
+      "facts": ["Regiune semi-deșertică", "Climat arid", "Floră adaptată la secetă", "Peisaje deschise"]
+    },
+    {
+      "id": "tsitsikamma-forest-nature-v2",
+      "description": "O pădure indigenă protejată, celebră pentru copacii săi seculari și biodiversitatea bogată de pe Garden Route.",
+      "facts": ["Pădure indigenă protejată", "Parte din Garden Route", "Copaci seculari", "Ecosistem variat"]
+    },
+    {
+      "id": "agullhas-cape-nature-v2",
+      "description": "Cel mai sudic punct al Africii, unde se întâlnesc oficial Oceanul Atlantic și Oceanul Indian.",
+      "facts": ["Punctul cel mai sudic", "Întâlnirea oceanelor", "Parcul Național Agulhas", "Zona de coastă stâncoasă"]
+    },
+    {
+      "id": "kalahari-desert-nature-v2",
+      "description": "Un deșert nisipos spectaculos care se întinde în partea de nord a țării, cunoscut pentru dunele sale roșiatice.",
+      "facts": ["Deșert nisipos", "Dune roșiatice", "Ecosistem vast arid", "Adaptat la secetă"]
+    },
+    {
+      "id": "wild-coast-nature-v2",
+      "description": "O porțiune de coastă sălbatică și nealterată din Eastern Cape, remarcabilă prin stâncile sale înalte și plajele izolate.",
+      "facts": ["Coastă nealterată", "Stânci înalte", "Zona Eastern Cape", "Peisaj litoral sălbatic"]
+    }
+  ]
+}

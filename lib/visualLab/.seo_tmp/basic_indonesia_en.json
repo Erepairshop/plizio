@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+  "country": "Indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jam-gadang-landmarks-v2",
+      "description": "Jam Gadang is a historic clock tower and major landmark in the city of Bukittinggi, West Sumatra. It was built in 1926 as a gift from the Dutch Queen to the city's controller.",
+      "facts": [
+        "Built in 1926",
+        "Located in Bukittinggi",
+        "Height of 26 meters",
+        "Gift from the Dutch Queen"
+      ]
+    },
+    {
+      "id": "palace-of-the-sultan-of-sumenep-landmarks-v2",
+      "description": "The Kraton Sumenep is the former royal palace of the Sultanate of Sumenep, located on Madura Island. It was designed by a Chinese architect in the 18th century, blending local and foreign styles.",
+      "facts": [
+        "Built in 1762",
+        "Located on Madura Island",
+        "Designed by Lauw Piango",
+        "Mixes Javanese and Chinese styles"
+      ]
+    }
+  ]
+}

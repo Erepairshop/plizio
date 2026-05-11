@@ -1,0 +1,28 @@
+{
+  "lang": "de",
+  "country": "Yemen",
+  "files": [
+    "lib/visualLab/data/poiExtraYemenCitiesV2.ts",
+    "lib/visualLab/data/poiExtraYemenEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "al-ghaydah-cities-v2",
+      "description": "Al-Ghaydah ist eine Küstenstadt im Osten des Jemen und die Hauptstadt des Gouvernements Al-Mahrah. Sie ist bekannt für ihre strategische Lage am Arabischen Meer.",
+      "facts": [
+        "Liegt an der Küste des Arabischen Meeres.",
+        "Hauptstadt des Gouvernements Al-Mahrah.",
+        "Wichtiger Hafen für die Region."
+      ]
+    },
+    {
+      "id": "hiswa-power-station-economic-v2",
+      "description": "Das Hiswa-Kraftwerk ist eine wichtige Energieanlage in der Nähe von Aden im Jemen. Es spielt eine zentrale Rolle bei der Stromversorgung der südlichen Regionen des Landes.",
+      "facts": [
+        "Befindet sich nahe der Stadt Aden.",
+        "Wesentliche Quelle der Stromversorgung.",
+        "Trägt zur Energieinfrastruktur des Jemen bei."
+      ]
+    }
+  ]
+}

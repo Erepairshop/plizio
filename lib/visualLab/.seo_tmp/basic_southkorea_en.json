@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gyeongbokgung-palace-history-v2",
+      "description": "The main royal palace of the Joseon dynasty, originally built in 1395. It served as the center of royal power and was destroyed multiple times throughout history.",
+      "facts": ["Built in 1395", "Joseon dynasty seat", "Extensively restored", "Located in Seoul"]
+    },
+    {
+      "id": "seodaemun-prison-history-v2",
+      "description": "A former prison used during the Japanese colonial rule to hold Korean independence activists. It now serves as a memorial museum documenting the independence struggle.",
+      "facts": ["Opened in 1908", "Independence symbol", "Colonial era relic", "Now a museum"]
+    },
+    {
+      "id": "gyeongbokgung-palace-landmarks-v2",
+      "description": "A sprawling palace complex featuring traditional Joseon architecture and expansive gardens. It remains one of the most recognizable cultural landmarks in South Korea.",
+      "facts": ["Joseon era architecture", "Large complex size", "Includes Throne Hall", "Major tourist site"]
+    }
+  ]
+}

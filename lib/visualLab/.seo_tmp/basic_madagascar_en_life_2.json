@@ -1,0 +1,49 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Fianarantsoa is the heart of Madagascar's nascent wine industry, featuring vineyards that thrive in the cool climate of the central highlands.",
+      "facts": ["Center of wine industry", "Central highland vineyards", "Cool climate cultivation"]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "Zombitse-Vohibasia National Park is a transition zone between dry and humid forests, home to rare birds and lemurs.",
+      "facts": ["Unique forest transition zone", "Home to rare bird species", "Diverse lemur habitat"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Antsirabe is famous for its natural thermal baths, which have attracted visitors seeking relaxation and wellness for decades.",
+      "facts": ["Famous natural thermal springs", "Long-standing wellness destination", "Relaxation and healing traditions"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Ankarafantsika National Park is a premier destination for birdwatching, offering habitats for numerous endemic species in a dry forest setting.",
+      "facts": ["Premier birdwatching location", "Dry forest habitats", "Many endemic bird species"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "Nosy Mitsio archipelago offers world-class diving and snorkeling spots, with pristine reefs and abundant tropical fish life.",
+      "facts": ["World-class diving archipelago", "Pristine coral reefs", "Rich tropical marine life"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "Tampolo Nature Reserve is a preserved coastal forest area known for its biodiversity and tranquility, perfect for nature exploration.",
+      "facts": ["Preserved coastal forest", "Biodiversity hotspot", "Quiet nature exploration site"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "The forests of Ranomafana are a globally important center for amphibian diversity, hosting a wide array of endemic frogs.",
+      "facts": ["Global amphibian diversity hub", "Many endemic frog species", "Crucial research site"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "The zoo area in Mahajanga serves as a local educational center, allowing visitors to learn about Madagascar's native wildlife and conservation efforts.",
+      "facts": ["Local educational zoo", "Focus on native wildlife", "Conservation awareness center"]
+    }
+  ]
+}

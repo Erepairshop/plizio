@@ -1,0 +1,44 @@
+{
+  "lang": "ro",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mudug-savanna-nature-v2",
+      "description": "Savana din regiunea Mudug este un peisaj vast și deschis, caracteristic pentru zonele interioare ale Somaliei.",
+      "facts": ["Peisaj de savană", "Regiunea Mudug", "Zonă interioară"]
+    },
+    {
+      "id": "cal-madow-forest-nature-v2",
+      "description": "Pădurea Cal Madow reprezintă una dintre puținele zone împădurite și biodiversificate din nordul Somaliei.",
+      "facts": ["Zonă împădurită", "Nordul Somaliei", "Biodiversitate unică"]
+    },
+    {
+      "id": "golis-northern-slope-nature-v2",
+      "description": "Versantul nordic al munților Golis coboară abrupt spre coasta Golfului Aden, creând un microclimat distinct.",
+      "facts": ["Versant nordic", "Coasta Golfului Aden", "Microclimat unic"]
+    },
+    {
+      "id": "karkar-mountains-nature-v2",
+      "description": "Munții Karkar formează un platou muntos extins în nord-estul țării, caracterizat prin relief accidentat.",
+      "facts": ["Platou muntos", "Nord-estul Somaliei", "Relief accidentat"]
+    },
+    {
+      "id": "burao-valley-nature-v2",
+      "description": "Valea Burao este o zonă de importanță strategică și pastorală în regiunea Togdheer.",
+      "facts": ["Importanță pastorală", "Regiunea Togdheer", "Zonă de vale"]
+    },
+    {
+      "id": "gardafui-coast-nature-v2",
+      "description": "Coasta Gardafui este o zonă maritimă izolată și spectaculoasă la capătul estic al Cornului Africii.",
+      "facts": ["Zonă maritimă", "Cornul Africii", "Peisaj izolat"]
+    },
+    {
+      "id": "ayaha-plains-nature-v2",
+      "description": "Câmpiile Ayaha sunt întinderi deschise și aride, esențiale pentru transhumanța tradițională în Somalia.",
+      "facts": ["Câmpii aride", "Transhumanță", "Peisaj deschis"]
+    }
+  ]
+}

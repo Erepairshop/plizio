@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-nunez-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rio Nuñez ist eine der wirtschaftlich bedeutendsten Wasserstraßen Guineas und das maritime Herz der Bauxitindustrie. Geografisch entspringt der Fluss im Fouta-Djallon-Hochland und fließt in südwestlicher Richtung durch die Präfektur Boké, bis er bei Kamsar in den Atlantik mündet. Das Ästuar des Rio Nuñez ist durch seine beträchtliche Tiefe und Breite geprägt, was den Zugang für massive Hochseefrachter ermöglicht. Historisch gesehen war der Fluss bereits im 19. Jahrhundert ein zentraler Schauplatz für den Handel zwischen lokalen Herrschern und europäischen Mächten, bekannt als der 'Rio Nuñez-Zwischenfall'. Heute ist der Fluss die logistische Lebensader für den Export von Bauxit aus den Minen von Sangarédi. Das Leben am Rio Nuñez ist geprägt von der industriellen Dynamik des Hafens von Kamsar und der traditionellen Fischerei der lokalen Landuma- und Baga-Gemeinschaften. Ökologisch beherbergt der Fluss ausgedehnte Mangrovenwälder, die als wichtige Brutgebiete für Fische und Krebstiere dienen. Wirtschaftlich hängen tausende Arbeitsplätze direkt von der Schiffbarkeit und der ökologischen Gesundheit dieses Flusssystems ab. Trotz der industriellen Belastung bleibt der Rio Nuñez ein Symbol für die Verbindung zwischen Guineas mineralischem Reichtum und den Weltmärkten.",
+        "hu": "A Rio Nuñez Guinea egyik legfontosabb gazdasági vízi útja, a bauxitipar tengeri kapuja. Földrajzilag a folyó a Fouta Djallon-hegységben ered, majd délnyugati irányba tartva szeli át a Boké prefektúrát, végül Kamsarnál torkollik az Atlanti-óceánba. A Rio Nuñez torkolatvidékét a rendkívüli mélység és szélesség jellemzi, ami lehetővé teszi a hatalmas óceáni ércszállító hajók biztonságos közlekedését. Történelmileg a folyó már a 19. században is fontos kereskedelmi csomópont volt, 1849-ben itt zajlott a hírhedt „Rio Nuñez-incidens”, amely a gyarmati hatalmak közötti feszültséghez vezetett. Ma a folyó Guinea legfontosabb logisztikai útvonala: ezen keresztül jut el a sangarédi bányákból származó érc a világpiacra. A folyó menti életet a kamsari kikötő ipari lüktetése és a helyi baga, valamint landuma közösségek tradicionális halászata határozza meg. Ökológiai szempontból a torkolatvidék kiterjedt mangrove-erdői kritikus jelentőségűek, mivel számos halfaj és rákféle szaporodóhelyéül szolgálnak. A Rio Nuñez Guinea ásványi kincseinek és a nemzetközi kereskedelemnek az összekötő kapocsa, amely alapjaiban határozza meg az ország gazdasági stabilitását.",
+        "ro": "Rio Nuñez este una dintre cele mai importante căi navigabile din Guineea, reprezentând poarta maritimă a industriei bauxitei. Geografic, râul izvorăște din masivul Fouta Djallon și curge spre sud-vest prin prefectura Boké, vărsându-se în Atlantic în apropierea orașului Kamsar. Estuarul râului Rio Nuñez se distinge prin adâncimea și lățimea sa considerabilă, calități ce permit accesul navelor mineraliere de mare tonaj. Din punct de vedere istoric, râul a fost în secolul al XIX-lea teatrul unor dispute coloniale intense, precum „Incidentul de la Rio Nuñez” din 1849. Astăzi, cursul apei este artera logistică vitală pentru exportul minereului de aluminiu extras din zăcămintele de la Sangarédi. Viața de-a lungul râului este marcată de dinamica industrială a portului Kamsar și de pescuitul artizanal practicat de comunitățile Baga și Landuma. Ecologic, Rio Nuñez adăpostește păduri de mangrove vaste, esențiale pentru reproducerea speciilor marine. Importanța economică a râului este colosală, mii de locuri de muncă depinzând direct de navigabilitatea sa. În ciuda presiunii industriale, Rio Nuñez rămâne un simbol al conectivității Guineei cu piețele globale prin bogățiile sale minerale.",
+        "en": "The Rio Nuñez is one of Guinea's most economically vital waterways and the primary maritime gateway for the country's bauxite industry. Geographically, the river originates in the Fouta Djallon highlands and flows southwestward through the Boké Prefecture until it meets the Atlantic Ocean at Kamsar. The estuary of the Rio Nuñez is defined by its exceptional depth and width, which accommodates the world's largest bulk carriers. Historically, the river was a center of colonial trade disputes in the 19th century, most notably the 'Rio Nuñez Incident' of 1849 involving French and British interests. Today, it serves as the logistical backbone for transporting aluminum ore from the Sangarédi mines to international markets. Daily life along the river is a blend of the industrial intensity of the Port of Kamsar and the traditional fishing practices of the indigenous Baga and Landuma peoples. Ecologically, the Rio Nuñez estuary features extensive mangrove systems that act as crucial nurseries for regional marine life. Its economic importance cannot be overstated, as the vast majority of Guinea's mineral exports rely on its navigable channel. Despite the environmental pressures of large-scale shipping, the Rio Nuñez remains the essential link between Guinea's mineral wealth and global industry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Rio Nuñez ist der wichtigste Exportkanal für guineisches Bauxit.",
+          "Der Hafen von Kamsar liegt an seinem tiefen südlichen Ufer.",
+          "Der Fluss unterliegt starken Gezeitenströmungen bis weit ins Landesinnere.",
+          "Das Ästuar beherbergt eines der größten zusammenhängenden Mangrovengebiete Guineas.",
+          "Historisch war der Fluss ein Zentrum des transatlantischen Sklavenhandels.",
+          "An seinen Ufern befinden sich bedeutende archäologische Siedlungsreste der Baga."
+        ],
+        "hu": [
+          "A Rio Nuñez a legfontosabb útvonal a guineai ércszállító hajók számára.",
+          "A torkolatnál fekvő Kamsar kikötője a világ egyik legnagyobb bauxit-terminálja.",
+          "A folyó tölcsértorkolata az árapály miatt naponta kétszer megváltoztatja folyásirányát.",
+          "A terület 1849-ben nemzetközi diplomáciai válság helyszíne volt.",
+          "A folyó vize gazdag tengeri süllőben és garnélában, ami a helyi piacok alapja.",
+          "A Rio Nuñez mente kritikus fontosságú a nyugat-afrikai manátuszok megőrzése szempontjából."
+        ],
+        "ro": [
+          "Rio Nuñez permite navigația navelor de tip Capesize datorită canalului său adânc.",
+          "Numele râului provine de la exploratorul portughez Nuno Tristão.",
+          "Bazinul inferior al râului este o zonă de importanță ecologică RAMSAR.",
+          "Activitatea portuară de pe Rio Nuñez generează majoritatea veniturilor vamale ale Guineei.",
+          "Estuarul este flancat de numeroase sate tradiționale specializate în uscarea peștelui.",
+          "Râul reprezintă limita geografică între savana de coastă și mlaștinile maritime."
+        ],
+        "en": [
+          "The Rio Nuñez channel is dredged periodically to maintain depth for ore carriers.",
+          "It is named after the 15th-century Portuguese navigator Nuno Tristão.",
+          "The river basin is a primary habitat for the endangered West African manatee.",
+          "Kamsar, located on its banks, handles over 15 million tons of bauxite annually.",
+          "The river was a key site for the 19th-century 'Scramble for Africa' in Guinea.",
+          "Its tidal influence extends over 40 kilometers inland toward the town of Boké."
+        ]
+      }
+    },
+    {
+      "id": "fotoba-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Fotoba (Île de Fotoba) ist die westlichste und historisch markanteste Insel des Îles de Los-Archipels vor Conakry. Geografisch erstreckt sie sich als schmale, langgestreckte Landmasse im Atlantik und ist durch dichte Palmenhaine, sandige Buchten und vulkanisches Gestein geprägt. Fotoba ist vor allem für seine wechselvolle Geschichte bekannt; während der Kolonialzeit errichteten die Franzosen hier ein berüchtigtes Gefängnis, dessen Ruinen heute als mahnendes Denkmal dienen. Die Architektur der Insel umfasst zudem eine historische anglikanische Kirche, die von der kurzen britischen Präsenz im 19. Jahrhundert zeugt. Wirtschaftlich basiert das Leben auf Fotoba auf der Kleinfischerei und einem wachsenden Ökotourismus. Das Leben auf der Insel ist ruhig und folgt dem Rhythmus der Gezeiten, weit entfernt vom Lärm der nahen Hauptstadt. Ökologisch bietet Fotoba wichtige Rückzugsräume für Seevögel und beherbergt eine Vielfalt an tropischen Baumarten. Die Küsten der Insel bieten hervorragende Bedingungen zum Schwimmen und Tauchen, wobei das Wasser hier oft klarer ist als am Festland. Für Besucher stellt Fotoba eine faszinierende Mischung aus kolonialer Melancholie und tropischer Naturschönheit dar, die zum Nachdenken und Entspannen einlädt.",
+        "hu": "Fotoba szigete (Île de Fotoba) a Conakry partjai előtt elhelyezkedő Los-szigetek legnyugatibb és történelmileg legérdekesebb tagja. Földrajzilag egy hosszúkás, keskeny földsáv az Atlanti-óceánban, felszínét sűrű pálmaligetek, homokos öblök és vulkáni kőzetek alkotják. Fotoba elsősorban drámai múltjáról ismert: a francia gyarmati időszakban egy hírhedt börtönt létesítettek itt, amelynek romjai ma is láthatók, emlékeztetve a sziget egykori elszigeteltségére. A sziget építészeti örökségéhez tartozik egy történelmi anglikán templom is, amely a 19. századi rövid brit jelenlét mementója. Gazdaságilag a lakosság a kézműves halászatból és az utóbbi időben fellendülő ökoturizmusból él. A szigeti élet rendkívül nyugodt, a mindennapok ritmusát az óceán moraja és a halászhajók indulása határozza meg. Ökológiai szempontból Fotoba fontos fészkelőhelye a tengeri madaraknak, part menti vizei pedig gazdag víz alatti élővilággal büszkélkedhetnek. A látogatók számára Fotoba a gyarmati emlékek és a háborítatlan természet különleges ötvözetét kínálja, ahol a fehér homokos strandok közvetlen szomszédságában találhatók a történelmi romok.",
+        "ro": "Insula Fotoba (Île de Fotoba) este cea mai vestică și încărcată de istorie insulă din arhipelagul Îles de Los, situat în largul orașului Conakry. Din punct de vedere geografic, aceasta se prezintă ca o fâșie lungă de pământ, caracterizată prin plantații dense de palmieri, golfuri cu nisip fin și aflorimente de roci vulcanice. Fotoba este celebră pentru trecutul său sumbru; în perioada colonială franceză, aici a funcționat o închisoare de maximă securitate, ale cărei ruine pot fi vizitate și astăzi ca un monument al memoriei. Arhitectura insulei include și o biserică anglicană istorică, martoră a perioadei de influență britanică din secolul al XIX-lea. Economia locală se bazează pe pescuitul tradițional și pe un turism sustenabil, atras de liniștea absolută a locului. Viața pe Fotoba este deconectată de ritmul alert al capitalei, fiind guvernată de ciclurile naturii. Ecologic, insula reprezintă un refugiu pentru numeroase specii de păsări marine și adăpostește o floră tropicală bine conservată. Țărmurile sale oferă condiții ideale pentru înot, apa fiind de o claritate superioară celei de pe continent. Pentru turiști, Fotoba oferă o experiență melancolică și fascinantă, împletind frumusețea exotică cu vestigiile unei epoci apuse.",
+        "en": "Fotoba Island (Île de Fotoba) is the westernmost and historically most significant island of the Îles de Los archipelago off the coast of Conakry. Geographically, it forms a narrow, elongated landmass in the Atlantic Ocean, characterized by dense palm groves, sandy coves, and volcanic rock formations. Fotoba is primarily known for its complex past; during the French colonial era, it housed a notorious penitentiary, the ruins of which now stand as a somber memorial. The island's architectural heritage also includes a historic Anglican church, a remnant of the brief British administration in the 19th century. Economically, life on Fotoba is sustained by artisanal fishing and a growing eco-tourism sector. The atmosphere is remarkably peaceful, following the slow rhythm of the tides, starkly different from the nearby capital. Ecologically, Fotoba provides essential nesting sites for sea birds and supports a wide variety of tropical tree species. The island's coastline offers excellent conditions for swimming and snorkeling, with waters often clearer than those at the mainland. For visitors, Fotoba represents a fascinating blend of colonial history and tropical natural beauty, offering a place for both quiet reflection and seaside relaxation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fotoba beherbergt die Ruinen eines der ersten Kolonialgefängnisse Westafrikas.",
+          "Die Insel besitzt einen historischen Leuchtturm, der Schiffen den Weg nach Conakry weist.",
+          "Eine anglikanische Kirche aus dem 19. Jahrhundert ist ein seltenes britisches Erbe in Guinea.",
+          "Auf der Insel gibt es keine motorisierten Fahrzeuge, was die Ruhe bewahrt.",
+          "Die Strände von Fotoba sind bekannt für ihren feinen, dunklen Vulkansand.",
+          "Die Insel war im 19. Jahrhundert ein Stützpunkt für christliche Missionare."
+        ],
+        "hu": [
+          "Fotoba ad otthont Nyugat-Afrika egyik legelső gyarmati börtönromjának.",
+          "A szigeten egy 19. századi anglikán templom áll, amely ritka brit emlék Guineában.",
+          "A településen nincs vezetékes áram, a lakók napenergiát és generátorokat használnak.",
+          "A sziget partjai mentén különleges, sötét tónusú vulkáni homok található.",
+          "Fotoba híres a kókuszpálma-ültetvényeiről, amelyek a táj képét uralják.",
+          "A sziget délnyugati csücskén egy régi, ma is működő világítótorony található."
+        ],
+        "ro": [
+          "Închisoarea de pe Fotoba a fost supranumită 'Cayenne-ul Africii' în perioada colonială.",
+          "Accesul pe insulă se face cu barca din portul Boulbinet în aproximativ 45 de minute.",
+          "Situl este protejat pentru conservarea patrimoniului arhitectural colonial.",
+          "Ecosistemul insulei este propice pentru creșterea arborilor de fructe de pâine.",
+          "Locuitorii sunt recunoscuți pentru abilitățile lor în navigația tradițională pe ocean.",
+          "Fotoba oferă cea mai bună vizibilitate pentru observarea stelelor din arhipelag."
+        ],
+        "en": [
+          "Fotoba houses the haunting ruins of a 19th-century French colonial prison.",
+          "It features one of the few Anglican churches in predominantly Catholic or Muslim Guinea.",
+          "The island serves as a vital strategic marker for the entrance to Conakry's harbor.",
+          "There is a complete lack of modern road infrastructure, emphasizing its seclusion.",
+          "The coastal cliffs are composed of ancient basalt, showing the island's volcanic origin.",
+          "Fotoba was a key location for early botanical experiments by British settlers."
+        ]
+      }
+    },
+    {
+      "id": "lake-koba-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Koba-See (Lac de Koba) ist eine bedeutende ökologische und landwirtschaftliche Ressource in der Präfektur Boffa, gelegen an der Küste von Maritime Guinea. Geografisch handelt es sich um einen küstennahen See, der durch Sanddünen und Mangroven vom Atlantischen Ozean getrennt ist. Der See ist das Herzstück einer der produktivsten Reisanbauregionen des Landes, bekannt als die 'Koba-Ebene'. Das Leben rund um den See ist seit Generationen durch ein ausgeklügeltes System der Wasserregulierung geprägt, das es ermöglicht, die fruchtbaren Böden für den Nassreisanbau zu nutzen. Wirtschaftlich ist der Koba-See von existenzieller Bedeutung für die regionale Ernährungssicherheit und liefert große Mengen an Reis für die Märkte von Conakry und Boffa. Neben dem Reisanbau spielt die Binnenfischerei im See eine wichtige Rolle für die lokale Bevölkerung. Historisch gesehen war die Region Koba ein Pionierstandort für moderne landwirtschaftliche Techniken während der frühen Unabhängigkeitsjahre. Ökologisch bietet der See und seine sumpfige Umgebung einen wichtigen Lebensraum für Zugvögel und aquatische Lebewesen. Für Besucher bietet die Landschaft von Koba ein malerisches Bild der Verbindung von Wasser, weiten Reisfeldern und dem nahen Ozean, was den Ort zu einem interessanten Ziel für den Agrotourismus macht.",
+        "hu": "A Koba-tó (Lac de Koba) Alsó-Guinea tengerparti övezetének egyik legfontosabb ökológiai és mezőgazdasági kincse, amely a Boffa prefektúrában található. Földrajzilag ez egy part menti tó, amelyet homokdűnék és mangrove-erdők választanak el az Atlanti-óceántól. A tó környéke az ország egyik legtermékenyebb rizstermesztő vidéke, amelyet Koba-síkság néven ismernek. Az itt élő közösségek élete generációk óta egy bonyolult vízszabályozási rendszerre épül, amely lehetővé teszi a tó vizének felhasználását az ártéri rizstermesztéshez. Gazdaságilag a Koba-tó kulcsszerepet játszik a régió élelmezésbiztonságában, jelentős mennyiségű rizzsel látva el Conakry és Boffa piacait. A mezőgazdaság mellett a tavi halászat is alapvető bevételi forrás a helyiek számára. Történelmileg Koba régiója a guineai agrármodernizáció egyik úttörő helyszíne volt a függetlenség utáni első években. Ökológiai szempontból a tó és a környező mocsárvilág fontos pihenőhely a vándormadarak és menedék a vízi élőlények számára. A látogatók számára a Koba-tó környéke a víz, a végtelen rizsföldek és a közeli óceán találkozásának festői látványát nyújtja, nagy lehetőségeket rejtve az agroturizmus számára.",
+        "ro": "Lacul Koba (Lac de Koba) este o resursă ecologică și agricolă majoră situată în prefectura Boffa, pe coasta Guineei Maritime. Din punct de vedere geografic, acesta este un lac de coastă separat de Oceanul Atlantic prin bariere naturale de dune de nisip și păduri de mangrove. Lacul reprezintă inima uneia dintre cele mai productive regiuni cerealiere din țară, cunoscută sub numele de „Câmpia Koba”. Viața în jurul lacului este definită de un sistem ingenios de management al apei, care permite cultivarea intensivă a orezului de luncă în solurile sale fertile. Economic, Lacul Koba este vital pentru securitatea alimentară regională, fiind un furnizor constant de orez pentru piețele din capitală și din zona Boké. Pe lângă agricultură, pescuitul în apele dulci ale lacului constituie o sursă importantă de proteine pentru populația locală. Istoric, regiunea Koba a fost un sit pilot pentru tehnici agricole avansate în primele decenii după independență. Ecologic, lacul și zonele umede adiacente oferă un habitat esențial pentru păsările migratoare și fauna acvatică. Peisajul din Koba, unde apele lacului se întâlnesc cu lanurile verzi de orez și cu linia orizontului marin, oferă o imagine spectaculoasă a armoniei dintre om și natură.",
+        "en": "Lake Koba (Lac de Koba) is a vital ecological and agricultural asset in the Boffa Prefecture, located along the coastal belt of Maritime Guinea. Geographically, it is a coastal lake separated from the Atlantic Ocean by a series of sand dunes and mangrove forests. The lake serves as the centerpiece of one of the country's most productive rice-growing areas, famously known as the 'Koba Plain.' For generations, life around the lake has been shaped by a sophisticated water management system that harnesses the lake's resources for intensive lowland rice cultivation. Economically, Lake Koba is essential for regional food security, supplying significant volumes of rice to the markets of Conakry and Boffa. Beyond farming, inland fishing in the lake's fresh waters is a primary livelihood for local communities. Historically, the Koba region was a flagship site for agricultural modernization during the early years of Guinea's independence. Ecologically, the lake and its surrounding wetlands provide a critical habitat for migratory birds and diverse aquatic species. For visitors, the Koba landscape offers a picturesque blend of water, expansive emerald rice paddies, and the nearby ocean, marking it as a prime potential site for agro-tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Koba-See ist einer der größten Küstenseen in der Republik Guinea.",
+          "Die Region Koba gilt als die 'Kornkammer' von Maritime Guinea.",
+          "Der See wird durch Regenwasser und kleine Küstenflüsse gespeist.",
+          "Das Bewässerungssystem von Koba wurde mit internationaler Hilfe modernisiert.",
+          "Der See ist ein wichtiges Refugium für seltene westafrikanische Entenarten.",
+          "An den Ufern des Sees befinden sich ausgedehnte Kokospalmenplantagen."
+        ],
+        "hu": [
+          "A Koba-tó Guinea egyik legnagyobb természetes part menti állóvize.",
+          "A környéket Alsó-Guinea 'rizskosarának' is nevezik a nagy terméshozamok miatt.",
+          "A tó vize az esős évszakban jelentősen megduzzad, elárasztva a mélyebben fekvő parcellákat.",
+          "Koba városa a tó és az óceán közötti stratégiai földsávon épült fel.",
+          "A terület híres a gazdag vízimadár-populációjáról, különösen a kócsagokról.",
+          "A tó környékén zajló rizstermesztés több ezer családnak ad közvetlen munkát."
+        ],
+        "ro": [
+          "Lacul Koba are un grad scăzut de salinitate, fiind propice pentru irigații.",
+          "Regiunea a fost selectată în anii '60 pentru proiecte de mecanizare agricolă.",
+          "Bariera de dune protejează lacul de infiltrațiile masive de apă sărată.",
+          "Pescuitul de apă dulce de aici este comercializat sub formă uscată în interiorul țării.",
+          "Ecosistemul Koba este considerat un model de biodiversitate agricolă.",
+          "Lacul este un punct de oprire frecvent pentru cercetătorii hidrologi."
+        ],
+        "en": [
+          "Lake Koba is a primary freshwater source for the coastal Boffa region.",
+          "The surrounding 'Koba Plain' is one of Guinea's top rice-producing zones.",
+          "The lake's water level is carefully managed through a series of traditional and modern dikes.",
+          "It acts as a vital buffer between the marine environment and inland farmlands.",
+          "The area is recognized as an Important Bird Area (IBA) for coastal species.",
+          "Lake Koba's unique environment supports several varieties of wild floating rice."
+        ]
+      }
+    },
+    {
+      "id": "mount-benna-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Benna (Mont Benna) ist ein spektakulärer Tafelberg in der Präfektur Kindia und eines der markantesten Reliefmerkmale im Westen Guineas. Geografisch gehört er zu den südlichen Ausläufern des Fouta-Djallon-Massivs und zeichnet sich durch seine steilen, fast senkrecht abfallenden Felswände und ein weites, flaches Plateau auf dem Gipfel aus. Die Topografie des Mount Benna erinnert an die berühmten Tepuis Südamerikas und verleiht der Landschaft um Kindia eine dramatische Ästhetik. Botanisch ist der Berg von enormer Bedeutung, da das isolierte Plateau einzigartige Mikroklimata und seltene Pflanzenarten beherbergt, die oft endemisch sind. Historisch gesehen war der Berg ein Ort der Zuflucht für lokale Gemeinschaften während kriegerischer Auseinandersetzungen und gilt bis heute als spiritueller Kraftort. Wirtschaftlich spielt der Mount Benna eine wachsende Rolle im Abenteuertourismus und beim Trekking, da er Wanderern herausfordernde Aufstiege und atemberaubende Ausblicke über die Küstenebene bis hin zum Atlantik bietet. Die Region am Fuße des Berges ist durch fruchtbare Täler geprägt, in denen intensiver Obstbau betrieben wird. Der Mount Benna ist nicht nur ein beeindruckendes geologisches Monument, sondern auch ein entscheidender Wasserspeicher für die zahlreichen Bäche der Region Kindia.",
+        "hu": "A Benna-hegy (Mont Benna) egy látványos táblahegy Kindia prefektúrában, Guinea nyugati részének egyik legkülönlegesebb domborzati formája. Földrajzilag a Fouta Djallon-hegység déli nyúlványaihoz tartozik, és jellegzetes, szinte függőleges sziklafalaival, valamint tágas, lapos fennsíkjával emelkedik ki a környezetéből. A Benna-hegy domborzata a dél-amerikai tepuikra emlékeztet, drámai és monumentális megjelenést kölcsönözve a tájnak. Botanikailag a hegy rendkívül értékes: az elszigetelt fennsíkon egyedi mikroklíma alakult ki, amely számos ritka, gyakran endemikus növényfajnak ad otthont. Történelmileg a hegy menedékként szolgált a helyi közösségek számára a háborúk idején, és ma is spirituális jelentőséggel bír. Gazdaságilag a Benna-hegy a kalandturizmus és a túrázás egyik ígéretes központja; a csúcsról nyíló panoráma tiszta időben az Atlanti-óceánig is elér. A hegy lábánál fekvő termékeny völgyekben intenzív gyümölcstermesztés folyik, amelyet a hegyről lefutó patakok táplálnak. A Benna-hegy nem csupán lenyűgöző geológiai képződmény, hanem a régió vízháztartásának szabályozásában is kulcsszerepet játszik.",
+        "ro": "Muntele Benna (Mont Benna) este un munte tabular spectaculos situat în prefectura Kindia, reprezentând una dintre cele mai distinctive forme de relief din vestul Guineei. Din punct de vedere geografic, acesta face parte din ramificațiile sudice ale masivului Fouta Djallon, evidențiindu-se prin versanții săi abrupți, aproape verticali, și printr-un platou vast și plat pe vârf. Topografia Muntelui Benna amintește de faimoasele „tepui” din America de Sud, oferind peisajului din jurul Kindiei o estetică dramatică. Botanic, muntele are o importanță enormă, deoarece platoul izolat adăpostește microclimate unice și specii de plante rare, adesea endemice. Istoric, muntele a servit drept loc de refugiu pentru comunitățile locale în timpul conflictelor armate și este considerat până astăzi un spațiu sacru. Economic, Muntele Benna joacă un rol în creștere în turismul de aventură și trekking, oferind drumeților trasee provocatoare și panorame uluitoare care se întind până la Oceanul Atlantic în zilele senine. Regiunea de la baza muntelui este caracterizată prin văi fertile unde se practică pomicultura intensivă. Muntele Benna nu este doar un monument geologic impresionant, ci și un rezervor de apă crucial pentru numeroasele pârâuri din regiunea Kindia.",
+        "en": "Mount Benna (Mont Benna) is a spectacular table mountain in the Kindia Prefecture and one of the most striking topographical features in western Guinea. Geographically part of the southern fringes of the Fouta Djallon massif, it is characterized by its sheer, nearly vertical cliffs and an expansive, flat summit plateau. The topography of Mount Benna closely resembles the famous 'tepuis' of South America, lending a dramatic and monumental aesthetic to the Kindia landscape. Botanically, the mountain is of immense importance, as the isolated plateau hosts unique microclimates and rare plant species, many of which are endemic to this specific formation. Historically, the mountain provided a natural fortress and sanctuary for local communities during times of conflict and remains a site of spiritual significance today. Economically, Mount Benna is an emerging destination for adventure tourism and trekking, offering hikers challenging climbs and breathtaking views that reach as far as the Atlantic coast on clear days. The fertile valleys at the mountain's base are renowned for intensive fruit farming, sustained by the numerous streams originating from the massif. Mount Benna is not only a geological wonder but also a vital watershed for the entire Kindia region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Benna ist ein klassischer Tafelberg mit einer Höhe von etwa 1.200 Metern.",
+          "Das Plateau beherbergt seltene fleischfressende Pflanzen und Orchideen.",
+          "Der Berg liegt südwestlich von Kindia in einer klimatischen Übergangszone.",
+          "Die Felswände bestehen aus massivem, erosionsbeständigem Sandstein.",
+          "Mount Benna ist ein bedeutender Ort in der Mythologie der Susu-Bevölkerung.",
+          "Der Aufstieg zum Plateau gilt als einer der schönsten Wanderwege Guineas."
+        ],
+        "hu": [
+          "A Benna-hegy Guinea egyik legszebb táblahegye, magassága eléri az 1200 métert.",
+          "A fennsíkon különleges húsevő növények és ritka orchideafajok élnek.",
+          "A hegy Kindia városától délnyugatra található, a parti síkság felett.",
+          "Sziklafala az évmilliók során a homokkő eróziójával alakult ki.",
+          "A helyi szuszu kultúrában a hegyet az ősök védelmező erejével azonosítják.",
+          "A hegy tetejéről tiszta időben látható a Conakry környéki tengerpart."
+        ],
+        "ro": [
+          "Mont Benna este un exemplu perfect de relief rezidual (inselberg) de mari dimensiuni.",
+          "Izolarea platoului a permis evoluția unor specii de floră unice în Africa de Vest.",
+          "Muntele influențează formarea norilor de ploaie în regiunea Kindia-Coyah.",
+          "Este o destinație preferată pentru antrenamentele echipelor de speologie.",
+          "Structura sa geologică este compusă din straturi sedimentare orizontale vechi.",
+          "Panorama de pe Benna oferă o vedere de 360 de grade asupra văilor fructifere."
+        ],
+        "en": [
+          "Mount Benna stands at approximately 1,200 meters above the surrounding plains.",
+          "The summit plateau is a biodiversity island with rare lithophytic flora.",
+          "The mountain is located southwest of Kindia, marking a key climate transition.",
+          "Its sheer sandstone walls are a prime subject for geological and botanical study.",
+          "Benna holds a central place in the spiritual lore of the Susu ethnic group.",
+          "It is considered one of the most demanding yet rewarding treks in Lower Guinea."
+        ]
+      }
+    },
+    {
+      "id": "mount-balandou-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Balandou (Mont Balandou) ist eine bedeutende Erhebung in der Nähe der Stadt Kankan im Osten Guineas. Geografisch liegt der Berg in der weiten Savannenlandschaft Oberguineas und erhebt sich markant über das Becken des Milo-Flusses. Der Balandou ist zwar nicht von extremer Höhe, spielt aber eine zentrale Rolle im lokalen Relief und in der Kultur der Region. Die Topografie ist durch sanftere Hänge und markante Felsvorsprünge aus Laterit und Granit geprägt. Historisch gesehen ist der Mount Balandou ein heiliger Ort für die Mandinka-Bevölkerung von Kankan; er gilt als Sitz von Schutzgeistern und war Schauplatz wichtiger ritueller Zeremonien. Wirtschaftlich spielt der Berg eine Rolle für den lokalen Tourismus, da er ein beliebtes Ziel für Wanderungen und Picknicks ist, wobei der Gipfel einen der besten Panoramablicke über die 'Heilige Stadt' Kankan und den gewundenen Lauf des Milo bietet. Ökologisch beherbergt der Berg eine typische Savannenvegetation mit Baobabs und Akazien, die zahlreichen Vogelarten Schutz bieten. Für die Bewohner von Kankan ist der Mount Balandou ein Symbol der Beständigkeit und ein Ort der Identität, der die Geschichte der Stadt mit der weiten Natur Oberguineas verbindet.",
+        "hu": "A Balandou-hegy (Mont Balandou) egy jelentős kiemelkedés Guinea keleti részén, Kankan városa közelében. Földrajzilag a Balandou a felső-guineai tágas szavannák vidékén fekszik, és látványosan emelkedik a Milo-folyó medencéje fölé. Noha magassága elmarad a guineai hegyvidék csúcsaitól, a környék domborzatában és kulturális életében betöltött szerepe meghatározó. A hegy domborzatát lankásabb lejtők és jellegzetes laterit-, valamint gránitkibúvások jellemzik. Történelmileg a Balandou-hegy szent hely a kankani mandinka nép számára; a védelmező szellemek lakhelyének tartják, és számos rituális szertartás helyszíne volt. Gazdaságilag a hegy a helyi turizmus egyik fontos pontja: a lakosok és látogatók kedvelt kirándulóhelye, mivel a csúcsról nyílik a legszebb kilátás a „szent városra”, Kankanra és a kanyargó Milo-folyóra. Ökológiailag a hegyet tipikus szavannai növényzet borítja, ahol a baobabfák és akáciák számos madárfajnak nyújtanak menedéket. Kankan lakói számára a Balandou-hegy az állandóság szimbóluma és az önazonosság fontos része, amely összeköti a várost Felső-Guinea végtelen vidékeivel.",
+        "ro": "Muntele Balandou (Mont Balandou) este o înălțime semnificativă situată în apropierea orașului Kankan, în estul Guineei. Din punct de vedere geografic, muntele se află în peisajul vast de savană al Guineei Superioare, ridicându-se deasupra bazinului râului Milo. Deși nu are o altitudine extremă, Balandou joacă un rol central în relieful local și în viața culturală a regiunii. Topografia sa este marcată de pante line și aflorimente stâncoase de laterită și granit. Din punct de vedere istoric, Muntele Balandou este un loc sacru pentru populația Mandinka din Kankan, fiind considerat sediul spiritelor protectoare și scena unor ceremonii ritualice importante. Economic, muntele este o destinație de interes pentru turismul local, fiind preferat pentru drumeții și picnicuri, oferind una dintre cele mai frumoase panorame asupra „orașului sfânt” Kankan și asupra cursului sinuos al râului Milo. Din punct de vedere ecologic, muntele adăpostește o vegetație tipică de savană, cu baobabi și salcâmi care oferă refugiu multor specii de păsări. Pentru locuitorii din Kankan, Muntele Balandou reprezintă un simbol al stabilității și un element cheie al identității lor, legând istoria urbană de natura sălbatică a regiunii.",
+        "en": "Mount Balandou (Mont Balandou) is a prominent elevation located near the city of Kankan in eastern Guinea. Geographically, the mountain rises above the vast savanna landscape of Upper Guinea, overlooking the fertile basin of the Milo River. While not reaching extreme altitudes, Mount Balandou plays a central role in the local topography and regional culture. The relief is characterized by gentle slopes interspersed with prominent laterite and granite rock outcrops. Historically, Mount Balandou is a sacred site for the Mandinka people of Kankan; it is revered as the home of protective spirits and has been the site of significant ritual ceremonies for generations. Economically, the mountain serves as a key local tourist destination, popular for hiking and social gatherings, as the summit offers the most iconic panoramic view of the 'Holy City' of Kankan and the winding course of the Milo. Ecologically, the mountain supports typical savanna vegetation, including baobabs and acacias, providing a habitat for numerous bird species. For the people of Kankan, Mount Balandou is a symbol of permanence and cultural identity, bridging the city's history with the expansive natural environment of Upper Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Mount Balandou ist der höchste Punkt in der direkten Umgebung von Kankan.",
+          "Der Berg bietet einen 360-Grad-Blick über das Milo-Becken.",
+          "In der lokalen Malinké-Kultur gilt der Berg als spiritueller Wächter der Stadt.",
+          "Die Flora ist geprägt durch widerstandsfähige Sudano-Sahel-Arten.",
+          "Der Berg ist ein beliebtes Ziel für Studenten und Jugendliche aus Kankan.",
+          "Der Name Balandou ist eng mit den Gründungslegenden der Region verknüpft."
+        ],
+        "hu": [
+          "A Balandou-hegy Kankan városának legfontosabb tájékozódási pontja.",
+          "A hegycsúcsról belátható a Milo-folyó teljes kanyarulata Kankannál.",
+          "A helyi hagyomány szerint a hegy szelleme védi meg a várost a szárazságtól.",
+          "A hegyoldalakon látványos, vörös színű laterit sziklafalak találhatók.",
+          "A terület Guinea egyik legfontosabb felső-guineai madármegfigyelő helye.",
+          "A hegy lábánál számos hagyományos kőfaragó műhely működik."
+        ],
+        "ro": [
+          "Muntele Balandou servește drept punct de orientare major în regiunea Kankan.",
+          "Relieful său a fost utilizat istoric ca post de observație strategic.",
+          "Panorama de pe vârf permite observarea expansiunii urbane a orașului Kankan.",
+          "Vegetația de pe munte include arbori de shea și nere (néré) foarte vechi.",
+          "Balandou este menționat frecvent în istoria orală a clanurilor mory din zonă.",
+          "Traseul spre vârf este relativ ușor, fiind accesibil majorității vizitatorilor."
+        ],
+        "en": [
+          "Mount Balandou is the most significant topographical landmark near Kankan.",
+          "The summit provides a complete 360-degree panorama of the savanna plains.",
+          "It is traditionally considered a sacred site for spiritual consultation.",
+          "The mountain features unique geological formations of weathered granite.",
+          "It acts as a local nature park for the residents of the regional capital.",
+          "The area around the mountain is rich in indigenous savanna birdlife."
+        ]
+      }
+    }
+  ]
+}

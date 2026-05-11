@@ -1,0 +1,149 @@
+{
+  "lang": "hu",
+  "country": "Kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pik-pobedy-relief-v2",
+      "description": "Kirgizisztán és a Tien-san hegység legmagasabb csúcsa a kínai határon, amely 7439 méteres magasságával a legészakibb 7000 méter feletti hegy.",
+      "facts": [
+        "Magassága: 7439 méter",
+        "A Tien-san legmagasabb pontja",
+        "Első megmászása: 1938-ban",
+        "Hatalmas gleccserek övezik"
+      ]
+    },
+    {
+      "id": "khan-tengri-relief-v2",
+      "description": "A központi Tien-san egyik legszebb, szabályos piramis alakú csúcsa, amelynek márványfalai naplementekor vörösen izzanak.",
+      "facts": [
+        "Magassága: 7010 méter",
+        "Szent hegyként tisztelt",
+        "Piramis alakú sziklaóriás",
+        "Márványból álló csúcs"
+      ]
+    },
+    {
+      "id": "pik-lenin-relief-v2",
+      "description": "A Pamír-hegység egyik legnépszerűbb 7000-es csúcsa, amely viszonylag könnyű megmászhatósága miatt kedvelt az expedíciók körében.",
+      "facts": [
+        "Magassága: 7134 méter",
+        "A Pamír egyik főcsúcsa",
+        "Tádzsik határon fekszik",
+        "Népszerű hegymászó célpont"
+      ]
+    },
+    {
+      "id": "tian-shan-relief-v2",
+      "description": "A 'Mennyei-hegység' néven ismert hatalmas közép-ázsiai hegységrendszer, amely Kirgizisztán területének nagy részét lefedi.",
+      "facts": [
+        "Világörökségi helyszín",
+        "Jelentése: Mennyei-hegység",
+        "Számos gleccser forrása",
+        "Kína és Kirgizisztán határán"
+      ]
+    },
+    {
+      "id": "alay-valley-relief-v2",
+      "description": "Egy kiterjedt, 3000 méter feletti magasságban fekvő völgy az Alaj- és a Transzalaj-hegység között, amely fontos nomadizálási terület.",
+      "facts": [
+        "Hossza kb. 150 km",
+        "Magaslati sztyeppevölgy",
+        "Nomád pásztorok nyári legelője",
+        "Pazar kilátás a Lenin-csúcsra"
+      ]
+    },
+    {
+      "id": "ala-archa-gorge-relief-v2",
+      "description": "A főváros, Biskek közelében fekvő alpesi nemzeti park, amely meredek sziklafalaival és jégmezőivel a túrázók paradicsoma.",
+      "facts": [
+        "Biskektől 40 km-re található",
+        "Változatos alpesi élővilág",
+        "Népszerű hétvégi kirándulóhely",
+        "Több mint 20 gleccserrel"
+      ]
+    },
+    {
+      "id": "terskey-ala-too-relief-v2",
+      "description": "Az Isszik-köl tó déli partján húzódó hegylánc, amely sűrű fenyőerdőiről, forró forrásairól és látványos vízeséseiről ismert.",
+      "facts": [
+        "Legmagasabb pontja 5216 m",
+        "Az Isszik-költől délre fekszik",
+        "Sötét fenyőerdők jellemzik",
+        "Trekking útvonalak helyszíne"
+      ]
+    },
+    {
+      "id": "kungey-ala-too-relief-v2",
+      "description": "Az Isszik-köl tó északi peremét alkotó hegység, amelynek napos lejtői és kopárabb gerincei éles ellentétet mutatnak a déli lánccal.",
+      "facts": [
+        "Jelentése: Napos-oldal",
+        "Kazah határon húzódik",
+        "Mély kanyonok szabdalják",
+        "A Tien-san északi vonulata"
+      ]
+    },
+    {
+      "id": "chong-kemin-valley-relief-v2",
+      "description": "Egy védett természeti terület Biskek és az Isszik-köl között, ahol érintetlen erdők és vadvízi evezésre alkalmas folyók találhatók.",
+      "facts": [
+        "Nemzeti parki védelem alatt",
+        "Gazdag biodiverzitású völgy",
+        "Kedvelt rafting helyszín",
+        "Érintetlen hegyi táj"
+      ]
+    },
+    {
+      "id": "arpa-valley-relief-v2",
+      "description": "A Narin régióban fekvő, magasan elhelyezkedő és nehezen megközelíthető völgy, amely Kirgizisztán egyik legelszigeteltebb vidéke.",
+      "facts": [
+        "Magassága: 2900-3200 m",
+        "Kietlen, fátlan fennsík",
+        "Híres vadászterület",
+        "Szélsőséges klíma jellemzi"
+      ]
+    },
+    {
+      "id": "ak-sai-valley-relief-v2",
+      "description": "A kínai határ közelében fekvő fagyos magaslati völgy, amely az ország leghidegebb pontjaként és a Marco Polo juhok élőhelyeként ismert.",
+      "facts": [
+        "Kirgizisztán 'hidegpólusa'",
+        "3000 méter feletti magasság",
+        "Ritka vadvilág otthona",
+        "Gleccserek által határolt"
+      ]
+    },
+    {
+      "id": "fergana-valley-relief-v2",
+      "description": "Közép-Ázsia legtermékenyebb és legsűrűbben lakott medencéje, amelynek keleti nyúlványai Kirgizisztán fontos mezőgazdasági régiói.",
+      "facts": [
+        "A 'régió éléskamrája'",
+        "Selyemút menti történelmi hely",
+        "Szir-darja folyó öntözi",
+        "Kulturálisan sokszínű vidék"
+      ]
+    },
+    {
+      "id": "syrt-plateau-relief-v2",
+      "description": "A belső Tien-sanban elterülő hatalmas, 3000 méter feletti permafrost fennsík, amely zord, sivatagi-sztyeppei jellegű táj.",
+      "facts": [
+        "Magaslati tundrasztyeppe",
+        "Állandóan fagyott talaj",
+        "Ritka növényzet és zuzmók",
+        "Az Arany-bánya (Kumtor) közelében"
+      ]
+    },
+    {
+      "id": "karkara-valley-relief-v2",
+      "description": "A kazah határon fekvő festői folyóvölgy, amely a Tien-san magashegyi expedícióinak és a helisíelésnek a fontos kiindulópontja.",
+      "facts": [
+        "Határmenti folyóvölgy",
+        "Expedíciós alaptábor helyszín",
+        "Zöldellő alpesi legelők",
+        "Helisí központ télen"
+      ]
+    }
+  ]
+}

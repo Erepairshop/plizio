@@ -62,7 +62,7 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       hu: "Bizerte kereskedelmi kikötője stratégiai jelentőséggel bír Tunézia északi partvidékén, a Földközi-tenger egyik legfontosabb pontján. A kikötő nemcsak kereskedelmi célokat szolgál, de fontos szerepet tölt be a helyi gazdaságban is, különösen az ipari szektor támogatásával. Földrajz K7 — ipari régiók."
     },
     factsAdvanced: {
-      de: ["Bizerte ist eine der ältesten Städte Nordafrikas.", "Der Hafen verbindet das Mittelmeer mit dem See von Bizerte.", "Er bietet exzellente Bedingungen für die Schiffswartung.", "Die Lage macht ihn zum idealen Umschlagplatz für den Norden Tunesiens.", "Bizerte spielt eine wichtige Rolle in der nationalen Fischereiindustrie.", "Der Kanal von Bizerte ist ein markantes geografisches Merkmal."],
+      de: ["Bizerte ist eine der ältesten Städte Nordafrikas.", "Er bietet exzellente Bedingungen für die Schiffswartung.", "Die Lage macht ihn zum idealen Umschlagplatz für den Norden Tunesiens.", "Bizerte spielt eine wichtige Rolle in der nationalen Fischereiindustrie.", "Der Kanal von Bizerte ist ein markantes geografisches Merkmal."],
       hu: ["A kikötő a Földközi-tenger északi kijáratánál fekszik.", "Fontos szerepet játszik az ipari nyersanyagok szállításában.", "A kikötői övezet Bizerte városának gazdasági központja.", "A hajózási útvonalak fontos állomása.", "A kikötő korszerűsítése folyamatosan zajlik.", "Az észak-tunéziai kereskedelem egyik fő bástyája."]
     }
   },

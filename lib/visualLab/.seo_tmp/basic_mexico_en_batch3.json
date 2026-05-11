@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Isla Tiburón in Sonora is Mexico's largest island and an important conservation area for the indigenous Seri people.",
+      "facts": ["Largest Mexican island", "Conservation area", "Seri people"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "The Marietas Islands in Nayarit are a national park, famous for the hidden 'Playa del Amor' and rich marine life.",
+      "facts": ["National park", "Playa del Amor", "Rich marine life"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Isla Contoy in Quintana Roo is an uninhabited nature reserve and a crucial nesting ground for seabirds.",
+      "facts": ["Uninhabited reserve", "Seabird nesting", "Quintana Roo"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "The Tequila agave fields in Jalisco are a UNESCO World Heritage site and the source of the famous Mexican tequila.",
+      "facts": ["UNESCO World Heritage", "Tequila production", "Jalisco"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "Valle de Guadalupe in Baja California is Mexico's premier wine region, known for its award-winning wines.",
+      "facts": ["Premier wine region", "Baja California", "Award-winning wines"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "Veracruz coffee farms are renowned for their high-quality coffee production and picturesque landscapes.",
+      "facts": ["High-quality coffee", "Veracruz", "Picturesque landscapes"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Chiapas coffee fincas produce some of Mexico's finest coffee in a mountainous, rain-rich region.",
+      "facts": ["Finest Mexican coffee", "Chiapas", "Mountainous region"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Oaxaca mezcal agave fields are the heart of mezcal production, a traditional Mexican spirit.",
+      "facts": ["Mezcal production", "Oaxaca", "Traditional spirit"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Michoacán avocado orchards make Mexico the world's largest avocado producer.",
+      "facts": ["Avocado production", "Michoacán", "World's largest producer"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Sinaloa mango orchards are known for their abundant harvests and the high quality of exported mangoes.",
+      "facts": ["Mango production", "Sinaloa", "High-quality mangoes"]
+    }
+  ]
+}

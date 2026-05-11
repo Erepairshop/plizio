@@ -1,0 +1,31 @@
+{
+  "lang": "de",
+  "country": "Syria",
+  "files": [
+    "lib/visualLab/data/poiExtraSyriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSyriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSyriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "masyaf-castle-landmarks-v2",
+      "description": "Diese mittelalterliche Festung thront strategisch auf einem Felskamm in der Nähe von Hama. Sie war einst eine bedeutende Bastion der Assassinen und weist eine beeindruckende militärische Architektur auf.",
+      "facts": ["Erbaut im 11. Jahrhundert", "Ehemalige Assassinen-Hochburg", "Auf einem Felskamm gelegen", "Umfangreiche Befestigungsmauern"]
+    },
+    {
+      "id": "bab-sharqi-landmarks-v2",
+      "description": "Das östliche Tor von Damaskus ist eines der sieben historischen Stadttore der Altstadt. Es gilt als eines der besterhaltenen Beispiele römischer Architektur in der syrischen Hauptstadt.",
+      "facts": ["Historisches Stadttor", "Römischer Ursprung", "Teil der Altstadt von Damaskus", "Eines von sieben Toren"]
+    },
+    {
+      "id": "slenfeh-forest-nature-v2",
+      "description": "Dieses waldreiche Berggebiet im Küstengebirge ist für sein mildes Klima und seine üppige Vegetation bekannt. Es ist ein beliebter Rückzugsort, der sich durch dichte Kiefern- und Zedernbestände auszeichnet.",
+      "facts": ["Im syrischen Küstengebirge", "Kühle Sommerfrische", "Dichte Kiefernwälder", "Reiche Flora und Fauna"]
+    },
+    {
+      "id": "jabal-abu-rujmayn-relief-v2",
+      "description": "Dieses Gebirgsmassiv erstreckt sich als Teil der syrischen Wüstenlandschaft nördlich von Palmyra. Die Region ist durch karge Plateaus und markante geologische Formationen geprägt.",
+      "facts": ["Teil der Syrischen Wüste", "Nördlich von Palmyra gelegen", "Karstige Plateau-Landschaft", "Wichtige geologische Zone"]
+    }
+  ]
+}

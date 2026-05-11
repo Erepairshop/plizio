@@ -1,0 +1,79 @@
+{
+  "lang": "ro",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "biu-plateau-relief-v2",
+      "description": "Un platou vulcanic situat în nord-estul Nigeriei, remarcabil prin relieful său accidentat și solurile fertile. Este o zonă importantă pentru agricultura locală.",
+      "facts": ["Platou vulcanic", "Altitudine medie", "Soluri fertile", "Regiunea Borno"]
+    },
+    {
+      "id": "shere-hills-relief-v2",
+      "description": "Un lanț muntos spectaculos în platoul Jos, cunoscut pentru vârfurile sale înalte și formațiunile de granit. Este o destinație populară pentru drumeții.",
+      "facts": ["Situat pe platoul Jos", "Formațiuni de granit", "Relief accidentat", "Vârfuri montane"]
+    },
+    {
+      "id": "kogi-hügel-relief-v2",
+      "description": "Dealurile din statul Kogi oferă un peisaj variat, fiind situate la confluența râurilor Niger și Benue. Aceste elevații domină terenurile din jur.",
+      "facts": ["Peisaj de dealuri", "Confluența râurilor", "Statul Kogi", "Relief variat"]
+    },
+    {
+      "id": "osun-relief-relief-v2",
+      "description": "O zonă de relief deluros în statul Osun, caracterizată prin văi împădurite și terenuri ondulate. Este o regiune cu biodiversitate bogată.",
+      "facts": ["Regiune deluroasă", "Văi împădurite", "Statul Osun", "Relief ondulat"]
+    },
+    {
+      "id": "cross-river-tal-relief-v2",
+      "description": "Valea fluviului Cross este o regiune joasă, fertilă, situată în sud-estul Nigeriei. Este o zonă cu precipitații abundente și vegetație luxuriantă.",
+      "facts": ["Valea fluviului", "Regiune joasă", "Soluri fertile", "Sud-estul Nigeriei"]
+    },
+    {
+      "id": "ondo-relief-relief-v2",
+      "description": "Zona deluroasă din statul Ondo face parte din regiunea montană din vestul Nigeriei. Relieful este marcat de pante abrupte și păduri tropicale.",
+      "facts": ["Zonă deluroasă", "Vestul Nigeriei", "Pante abrupte", "Statul Ondo"]
+    },
+    {
+      "id": "nassarawa-relief-relief-v2",
+      "description": "Relieful statului Nassarawa este diversificat, incluzând dealuri și câmpii care se întind spre platoul Jos. Este o regiune cu un peisaj de tranziție.",
+      "facts": ["Peisaj diversificat", "Dealuri și câmpii", "Statul Nassarawa", "Zonă de tranziție"]
+    },
+    {
+      "id": "kaduna-tal-relief-v2",
+      "description": "Valea râului Kaduna prezintă un relief caracterizat prin câmpii extinse și zone deluroase. Este o regiune agricolă vitală pentru nordul Nigeriei.",
+      "facts": ["Valea râului", "Câmpii extinse", "Nordul Nigeriei", "Zona Kaduna"]
+    },
+    {
+      "id": "yobe-becken-relief-v2",
+      "description": "Bazinul râului Yobe este o zonă plană, de câmpie, situată în nordul arid al Nigeriei. Este o regiune expusă secetelor sezoniere.",
+      "facts": ["Zonă de câmpie", "Nordul Nigeriei", "Regiune aridă", "Bazin hidrografic"]
+    },
+    {
+      "id": "sokoto-ebene-relief-v2",
+      "description": "Câmpia din regiunea Sokoto este o zonă de joasă altitudine din nord-vestul Nigeriei. Se caracterizează prin soluri nisipoase și un relief plat.",
+      "facts": ["Câmpie joasă", "Nord-vestul Nigeriei", "Relief plat", "Soluri nisipoase"]
+    },
+    {
+      "id": "adamawa-hochland-relief-v2",
+      "description": "Masivul montan Adamawa este o regiune înaltă situată la granița cu Camerunul. Relieful este accidentat, cu platouri și văi adânci.",
+      "facts": ["Regiune montană", "Granita cu Camerun", "Relief accidentat", "Platouri și văi"]
+    },
+    {
+      "id": "benue-tal-relief-v2",
+      "description": "Valea extinsă a fluviului Benue străbate centrul Nigeriei, fiind o zonă joasă de câmpie. Este una dintre cele mai importante regiuni agricole.",
+      "facts": ["Valea fluviului", "Centrul Nigeriei", "Câmpie extinsă", "Zona agricolă"]
+    },
+    {
+      "id": "gongola-tal-relief-v2",
+      "description": "Valea râului Gongola prezintă un relief de câmpie, fiind un afluent major al fluviului Benue. Este o regiune cu peisaje aride și soluri aluvionare.",
+      "facts": ["Valea râului", "Peisaj arid", "Afluent Benue", "Soluri aluvionare"]
+    },
+    {
+      "id": "kano-ebene-relief-v2",
+      "description": "Câmpia Kano este o regiune fertilă situată în nordul Nigeriei, caracterizată printr-un relief plan. Este centrul unei densități mari de populație și agricultură.",
+      "facts": ["Câmpie fertilă", "Nordul Nigeriei", "Relief plan", "Regiune agricolă"]
+    }
+  ]
+}

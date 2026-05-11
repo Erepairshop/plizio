@@ -2,72 +2,64 @@
   "lang": "en",
   "country": "Botswana",
   "files": [
-    "lib/visualLab/data/poiExtraBotswanaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts",
     "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
     "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "jwaneng-diamond-mine-economic-v2",
-      "description": "A diamond mine in Jwaneng. It is part of Botswana's diamond economy.",
-      "facts": ["Diamond mining", "Jwaneng", "Botswana economy"]
+      "id": "tuli-block-cattle-farming-agriculture-life-v2",
+      "description": "The Tuli Block is a major agricultural zone where large-scale cattle ranching is a central part of the local way of life.",
+      "facts": ["Major cattle ranching hub", "Eastern Botswana location", "Commercial agriculture zone", "Key part of rural economy"]
     },
     {
-      "id": "orapa-diamond-mine-economic-v2",
-      "description": "A diamond mine in Orapa. It is part of Botswana's diamond economy.",
-      "facts": ["Diamond mining", "Orapa", "Botswana economy"]
+      "id": "gaborone-botanical-garden-kid-landmark-life-v2",
+      "description": "The Gaborone Botanical Garden is a serene green space showcasing indigenous plants and providing an educational park for children.",
+      "facts": ["Indigenous plant sanctuary", "Located in Gaborone", "Educational nature park", "Popular family destination"]
     },
     {
-      "id": "morupule-coal-mine-economic-v2",
-      "description": "A coal mine in the Palapye area. It supports Botswana's energy supply.",
-      "facts": ["Coal mining", "the Palapye area", "Energy supply"]
+      "id": "tsodilo-hills-mountain-v2",
+      "description": "Rising from the Kalahari, the Tsodilo Hills are the highest point in Botswana, consisting of four main quartzite ridges.",
+      "facts": ["Highest point in Botswana", "Kalahari Desert location", "Four distinct hill ridges", "Ancient quartzite rock"]
     },
     {
-      "id": "morupule-power-station-economic-v2",
-      "description": "A coal-fired power station in the Palapye area. It is a key part of Botswana's electricity network.",
-      "facts": ["Power generation", "the Palapye area", "National grid"]
+      "id": "shashe-river-relief-v2",
+      "description": "The Shashe River is a major ephemeral river that forms part of the international border between Botswana and Zimbabwe.",
+      "facts": ["Ephemeral river system", "Border with Zimbabwe", "Major Limpopo tributary", "Site of Shashe Dam"]
     },
     {
-      "id": "selebi-phikwe-copper-mine-economic-v2",
-      "description": "A copper mine in Selebi-Phikwe. It adds to Botswana's mining sector.",
-      "facts": ["Copper mining", "Selebi-Phikwe", "Mining sector"]
+      "id": "tati-river-relief-v2",
+      "description": "The Tati River flows through the city of Francistown, serving as a key drainage system in the northeastern region.",
+      "facts": ["Flows through Francistown", "Northeast Botswana location", "Seasonal river flow", "Historic mining region river"]
     },
     {
-      "id": "sowa-pan-soda-ash-economic-v2",
-      "description": "A soda ash plant at Sowa Pan. It turns salt-pan resources into industrial output.",
-      "facts": ["Soda ash", "Sowa Pan", "Industrial processing"]
+      "id": "moshaweng-river-relief-v2",
+      "description": "The Moshaweng is a seasonal river in southern Botswana, typical of the dry drainage systems found in the Kalahari region.",
+      "facts": ["Seasonal watercourse", "Southern Botswana relief", "Kalahari drainage system", "Ephemeral desert river"]
     },
     {
-      "id": "letlhakane-diamond-mine-economic-v2",
-      "description": "A diamond mine in Letlhakane. It is part of Botswana's diamond economy.",
-      "facts": ["Diamond mining", "Letlhakane", "Botswana economy"]
+      "id": "nossob-river-relief-v2",
+      "description": "The Nossob River is a fossil riverbed forming the border with South Africa within the Kgalagadi Transfrontier Park.",
+      "facts": ["Fossil riverbed", "South Africa border", "Kgalagadi Transfrontier Park", "Dry river system"]
     },
     {
-      "id": "karowe-diamond-mine-economic-v2",
-      "description": "A diamond mine in Karowe. It is part of Botswana's diamond economy.",
-      "facts": ["Diamond mining", "Karowe", "Botswana economy"]
+      "id": "selinda-spillway-relief-v2",
+      "description": "The Selinda Spillway is a unique waterway that can connect the Okavango Delta to the Linyanti River system during high floods.",
+      "facts": ["Ephemeral flood channel", "Connects Okavango and Linyanti", "Dynamic wetland relief", "High-flood dependent"]
     },
     {
-      "id": "gaborone-dry-port-economic-v2",
-      "description": "An inland dry port in Gaborone. It supports customs handling and cargo movement.",
-      "facts": ["Logistics hub", "Gaborone", "Trade route"]
+      "id": "mababe-depression-relief-v2",
+      "description": "The Mababe Depression is a vast, flat basin that was once part of the ancient Lake Makgadikgadi, now a seasonal marshland.",
+      "facts": ["Ancient lake basin", "Seasonal marshland", "Located north of Maun", "Fertile wildlife habitat"]
     },
     {
-      "id": "bmc-lobatse-abattoir-economic-v2",
-      "description": "An abattoir in Lobatse. It is part of Botswana's beef-processing chain.",
-      "facts": ["Beef processing", "Lobatse", "Meat exports"]
+      "id": "jwaneng-plateau-relief-v2",
+      "description": "The Jwaneng Plateau is an elevated region in south-central Botswana, notable for its significant mineral wealth beneath the surface.",
+      "facts": ["Elevated plains region", "South-central location", "Site of major diamond mines", "Flat Kalahari relief"]
     },
     {
-      "id": "khoemacau-copper-mine-economic-v2",
-      "description": "A copper mine in northwestern Botswana. It adds to Botswana's mining sector.",
-      "facts": ["Copper mining", "northwestern Botswana", "Mining sector"]
-    },
-    {
-      "id": "ghaghoo-diamond-mine-economic-v2",
-      "description": "A diamond mine in the Central Kalahari. It is part of Botswana's diamond economy.",
-      "facts": ["Diamond mining", "the Central Kalahari", "Botswana economy"]
+      "id": "letlhakane-depression-relief-v2",
+      "description": "The Letlhakane Depression is a low-lying basin in central Botswana characterized by pans and significant kimberlite deposits.",
+      "facts": ["Low-lying basin", "Central Botswana location", "Home to kimberlite pipes", "Arid pan landscape"]
     }
   ]
 }

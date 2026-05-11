@@ -1,0 +1,80 @@
+{
+  "lang": "en",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "The Oued Draa wetlands are an important ecosystem for migratory birds and local wildlife in southern Morocco.",
+      "facts": ["Wetlands", "Migratory birds", "Southern Morocco"]
+    },
+    {
+      "id": "sebou-river-basin-agriculture-life-v2",
+      "description": "The Sebou River basin is one of Morocco's most fertile agricultural regions, supporting diverse crops.",
+      "facts": ["Fertile region", "Diverse crops", "Sebou River"]
+    },
+    {
+      "id": "midelt-apple-agriculture-life-v2",
+      "description": "Midelt is known as Morocco's 'apple capital,' with extensive orchards benefiting from the Atlas Mountains climate.",
+      "facts": ["Apple capital", "Atlas Mountains", "Extensive orchards"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Tiznit region combines traditional agriculture with argan oil production, contributing to local livelihoods.",
+      "facts": ["Traditional agriculture", "Argan oil", "Local livelihoods"]
+    },
+    {
+      "id": "ouarzazate-date-agriculture-life-v2",
+      "description": "The oases around Ouarzazate are famous for date cultivation, a vital part of the local economy and diet.",
+      "facts": ["Date cultivation", "Ouarzazate oases", "Local economy"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga is the gateway to the Erg Chebbi dunes, offering spectacular sand landscapes and camel treks.",
+      "facts": ["Erg Chebbi dunes", "Camel treks", "Desert landscape"]
+    },
+    {
+      "id": "sebkha-tindouf-lake-nature-v2",
+      "description": "Sebkha Tindouf is a vast salt lake in the Sahara desert, an important geological feature and bird habitat.",
+      "facts": ["Salt lake", "Sahara desert", "Bird habitat"]
+    },
+    {
+      "id": "sebha-boughaba-lake-nature-v2",
+      "description": "Sebkha Boughaba Lake is a protected wetland and a crucial stopover point for migratory birds near the Atlantic coast.",
+      "facts": ["Protected wetland", "Migratory birds", "Atlantic coast"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "Bin el Ouidane Lake is a large reservoir in the Middle Atlas, popular for water sports and its scenic beauty.",
+      "facts": ["Large reservoir", "Middle Atlas", "Water sports"]
+    },
+    {
+      "id": "oued-guir-nature-v2",
+      "description": "The Oued Guir is a seasonal river flowing through arid landscapes, creating temporary oases in its course.",
+      "facts": ["Seasonal river", "Arid landscapes", "Temporary oases"]
+    },
+    {
+      "id": "oued-noun-nature-v2",
+      "description": "The Oued Noun river and its valley create a unique desert ecosystem, supporting specific flora and fauna.",
+      "facts": ["Desert ecosystem", "Unique flora", "Oued Noun valley"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Oued Eddahab is a dry riverbed in the Western Sahara, vital for the region's limited plant and animal life.",
+      "facts": ["Dry riverbed", "Western Sahara", "Limited life"]
+    },
+    {
+      "id": "oued-massa-nature-v2",
+      "description": "Oued Massa is a coastal river in southern Morocco, forming wetlands known for their birdwatching opportunities.",
+      "facts": ["Coastal river", "Birdwatching", "Southern Morocco"]
+    },
+    {
+      "id": "cap-ghir-nature-v2",
+      "description": "Cap Ghir is a prominent headland on the Atlantic coast north of Agadir, offering dramatic cliff views.",
+      "facts": ["Atlantic coast", "Dramatic cliffs", "North of Agadir"]
+    }
+  ]
+}

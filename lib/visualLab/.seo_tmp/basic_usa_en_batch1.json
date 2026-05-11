@@ -1,0 +1,85 @@
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-paso-cities-v2",
+      "description": "El Paso is a city in West Texas, situated on the Rio Grande across from Ciudad Juárez, Mexico. It is known for its rich blend of cultures and stunning desert landscapes.",
+      "facts": ["Located at the foot of the Franklin Mountains.", "Known as the Sun City.", "Has a strong military presence.", "Home to the University of Texas at El Paso."]
+    },
+    {
+      "id": "detroit-cities-v2",
+      "description": "Detroit is Michigan's largest city and a major center of the U.S. automotive industry. It is a city with a rich industrial heritage and a vibrant cultural scene.",
+      "facts": ["Called the 'Motor City'.", "Birthplace of Motown music.", "Stands on the Detroit River.", "Underwent significant revitalization."]
+    },
+    {
+      "id": "tampa-cities-v2",
+      "description": "Tampa is a major city in Florida, located on the Gulf Coast. It is a bustling port city known for its vibrant downtown, historic Ybor City, and diverse attractions.",
+      "facts": ["Situated on Tampa Bay.", "Known for its cigar industry history.", "Home to Busch Gardens.", "Features a humid subtropical climate."]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "description": "Pittsburgh is a city in western Pennsylvania, at the confluence of three rivers. Once an industrial powerhouse, it has transformed into a hub for technology and healthcare.",
+      "facts": ["Known as 'The Steel City'.", "Features 446 bridges.", "Home to Carnegie Mellon University.", "Located at the Allegheny and Monongahela Rivers' confluence."]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "description": "Santa Ana is the county seat and second-most populous city in Orange County, California. It is a major commercial and cultural center in Southern California.",
+      "facts": ["Located on the Santa Ana River.", "Part of the Los Angeles metropolitan area.", "Known for its historic downtown.", "Houses the Bowers Museum."]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "description": "Stockton is a city in the Central Valley of California, serving as a major inland port. It is recognized for its agricultural ties and diverse community.",
+      "facts": ["Located on the San Joaquin River Delta.", "California's first inland seaport.", "Known for its asparagus festival.", "Home to the University of the Pacific."]
+    },
+    {
+      "id": "buffalo-cities-v2",
+      "description": "Buffalo is a city in western New York, situated at the eastern end of Lake Erie. It is known for its rich history, impressive architecture, and vibrant arts scene.",
+      "facts": ["Second-largest city in New York State.", "Close to Niagara Falls.", "Famous for its Buffalo wings.", "Experiences cold, snowy winters."]
+    },
+    {
+      "id": "spokane-cities-v2",
+      "description": "Spokane is a city in eastern Washington, nestled along the Spokane River. It is a regional hub for commerce, education, and healthcare, surrounded by natural beauty.",
+      "facts": ["Located in the Inland Northwest.", "Site of Expo '74.", "Home to Gonzaga University.", "Features Riverfront Park."]
+    },
+    {
+      "id": "little-rock-cities-v2",
+      "description": "Little Rock is the capital and most populous city of Arkansas, located on the Arkansas River. It is a historic city known for its role in the Civil Rights Movement.",
+      "facts": ["Named after a small rock formation.", "Home of the Little Rock Nine.", "Features the William J. Clinton Presidential Center.", "A major transportation hub."]
+    },
+    {
+      "id": "salt-lake-city-cities-v2",
+      "description": "Salt Lake City is the capital and most populous city of Utah, known for its proximity to the Great Salt Lake and the Wasatch Mountains. It is the global headquarters of The Church of Jesus Christ of Latter-day Saints.",
+      "facts": ["Founded by Brigham Young.", "Hosted the 2002 Winter Olympics.", "High altitude desert climate.", "Center of Mormon culture."]
+    },
+    {
+      "id": "charleston-sc-cities-v2",
+      "description": "Charleston is the oldest and largest city in South Carolina, renowned for its rich history, well-preserved architecture, and distinctive culture. It is a popular tourist destination.",
+      "facts": ["Founded in 1670.", "Known for its cobblestone streets.", "Significant Civil War site.", "Features a vibrant culinary scene."]
+    },
+    {
+      "id": "springfield-il-cities-v2",
+      "description": "Springfield is the capital city of Illinois, historically associated with Abraham Lincoln. It serves as a political and cultural center for the state.",
+      "facts": ["Former home of Abraham Lincoln.", "Location of Lincoln's Tomb.", "Features the Old State Capitol.", "Important government center."]
+    },
+    {
+      "id": "lincoln-ne-cities-v2",
+      "description": "Lincoln is the capital city of Nebraska and its second-most populous city. It is a hub for government, education, and technology.",
+      "facts": ["Named after Abraham Lincoln.", "Home to the University of Nebraska.", "Known for its expansive park system.", "State capital since 1867."]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "description": "Faneuil Hall is a historic marketplace and meeting hall in Boston, Massachusetts. It served as a site for important speeches by Samuel Adams and other revolutionaries.",
+      "facts": ["Built in 1742.", "Known as the 'Cradle of Liberty'.", "Part of the Freedom Trail.", "Today houses shops and restaurants."]
+    },
+    {
+      "id": "hollywood-bowl-landmarks-v2",
+      "description": "The Hollywood Bowl is an iconic amphitheater in the Hollywood Hills of Los Angeles, California. It is a premier venue for musical performances and concerts.",
+      "facts": ["Opened in 1922.", "Distinctive 'shell' design.", "Summer home of the LA Philharmonic.", "Hosts diverse music genres."]
+    }
+  ]
+}

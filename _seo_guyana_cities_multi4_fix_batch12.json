@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "nismes-cities-v2",
+      "descriptionAdvancedDe": "Nismes ist eine Gemeinde an der Westbank des Demerara-Flusses, die zwischen Bagotville und La Grange liegt. Es ist eine der vielen landwirtschaftlichen Gemeinden in der Region, deren Geschichte mit den Zuckerplantagen verbunden ist, die einst die Landschaft prägten. Heute ist Nismes eine ruhige Wohngemeinde mit einer gemischten Bevölkerung. Die Einwohner sind in der Landwirtschaft, im Fischfang und in kleinen Unternehmen tätig, viele pendeln auch zur Arbeit nach Georgetown. Das Dorf bewahrt einen ländlichen Charakter, abseits des Trubels der größeren Handelszentren. Es ist ein Beispiel für die traditionellen Küstengemeinden Guyanas, die ein starkes Gemeinschaftsgefühl und eine enge Verbindung zum Land bewahren.",
+      "descriptionAdvancedHu": "Nismes egy közösség a Demerara folyó nyugati partján, Bagotville és La Grange között. Ez egyike a régió számos mezőgazdasági közösségének, amelyek története az egykori tájat formáló cukorültetvényekhez kapcsolódik. Ma Nismes egy csendes lakóközösség, vegyes lakossággal. A lakosok mezőgazdasággal, halászattal és kisvállalkozásokkal foglalkoznak, sokan pedig Georgetownba ingáznak dolgozni. A falu megőrzi vidéki jellegét, távol a nagyobb kereskedelmi központok nyüzsgésétől. Példa Guyana hagyományos tengerparti közösségeire, amelyek erős közösségi érzést és szoros kapcsolatot tartanak fenn a földdel.",
+      "descriptionAdvancedRo": "Nismes este o comunitate de pe malul de vest al râului Demerara, situată între Bagotville și La Grange. Este una dintre multele comunități agricole din regiune, cu o istorie legată de plantațiile de zahăr care au modelat peisajul. Astăzi, Nismes este o comunitate rezidențială liniștită, cu o populație mixtă. Locuitorii sunt angajați în agricultură, pescuit și mici afaceri, mulți făcând naveta pentru a lucra în Georgetown. Satul menține un caracter rural, departe de agitația centrelor comerciale mai mari. Este un exemplu de comunități de coastă tradiționale din Guyana, care păstrează un puternic simț al comunității și o legătură strânsă cu pământul.",
+      "descriptionAdvancedEn": "Nismes is a village located on the West Bank of Demerara, situated between La Grange and Bagotville. Like its neighbours, it is a former plantation, and its name has Dutch origins. The community is primarily residential and agricultural. It is a relatively quiet village compared to the larger commercial hubs on the West Bank. Residents are typically engaged in farming, including cash crops and livestock, or work in other nearby communities. Nismes has a diverse population and a traditional, rural atmosphere. Its location provides a balance between a peaceful, country lifestyle and access to the economic opportunities of the more developed areas along the West Bank corridor.",
+      "factsAdvancedDe": [
+        "Liegt an der Westbank von Demerara, zwischen La Grange und Bagotville.",
+        "Hat einen niederländischen Namen.",
+        "War früher eine Plantage.",
+        "Ruhige Wohn- und Agrargemeinde.",
+        "Einwohner betreiben Landwirtschaft und Viehzucht.",
+        "Bewahrt eine traditionelle, ländliche Atmosphäre.",
+        "Hat eine vielfältige Bevölkerung.",
+        "Bietet eine Balance zwischen ruhigem Lebensstil und wirtschaftlichen Möglichkeiten."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara nyugati partján, La Grange és Bagotville között található.",
+        "Holland eredetű neve van.",
+        "Egykori ültetvényterület.",
+        "Csendes lakó- és mezőgazdasági közösség.",
+        "A lakosok gazdálkodással és állattenyésztéssel foglalkoznak.",
+        "Megőrzi a hagyományos, vidéki hangulatot.",
+        "Vegyes etnikai összetételű lakossága van.",
+        "A nyugodt életmód és a gazdasági lehetőségek közelségének egyensúlyát kínálja."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe malul de vest al Demerarei, între La Grange și Bagotville.",
+        "Are un nume olandez.",
+        "Fostă plantație.",
+        "Comunitate rezidențială și agricolă liniștită.",
+        "Locuitorii se ocupă cu agricultura și creșterea animalelor.",
+        "Păstrează o atmosferă tradițională, rurală.",
+        "Are o populație diversă.",
+        "Oferă un echilibru între un stil de viață liniștit și oportunități economice."
+      ],
+      "factsAdvancedEn": [
+        "Located on the West Bank of Demerara, between La Grange and Bagotville.",
+        "Has a Dutch name.",
+        "A former plantation.",
+        "Quiet residential and agricultural community.",
+        "Residents are engaged in farming and livestock.",
+        "Maintains a traditional, rural atmosphere.",
+        "Has a diverse population.",
+        "Offers a balance of a quiet lifestyle and economic opportunities."
+      ]
+    },
+    {
+      "id": "kamrang-cities-v2",
+      "descriptionAdvancedDe": "Kamarang ist eine indigene Gemeinschaft in der Region Cuyuni-Mazaruni im Westen Guyanas. Es liegt in der Nähe der Grenze zu Venezuela am Kamarang-Fluss, einem Nebenfluss des Mazaruni. Das Dorf ist hauptsächlich von Mitgliedern des Akawaio-Volkes bewohnt. Kamarang dient als wichtiges regionales Zentrum für die umliegenden indigenen Gemeinschaften und Bergbaulager. Es verfügt über eine Landebahn, eine Schule, ein Gesundheitszentrum und Regierungsbüros. Die Wirtschaft basiert auf Subsistenzlandwirtschaft, Jagd, Fischerei und in zunehmendem Maße auf dem Gold- und Diamantenabbau. Die abgelegene Lage und die zerklüftete Topografie machen den Transport schwierig und teuer, hauptsächlich auf dem Luftweg. Kamarang ist ein Tor zur Erkundung der unberührten Regenwälder und der reichen indigenen Kultur der Region.",
+      "descriptionAdvancedHu": "Kamarang egy őslakos közösség Guyana nyugati részén, a Cuyuni-Mazaruni régióban. Venezuela határának közelében, a Kamarang folyó, a Mazaruni mellékfolyója mentén fekszik. A falut főként az akawaio nép tagjai lakják. Kamarang fontos regionális központként szolgál a környező őslakos közösségek és bányásztáborok számára. Rendelkezik leszállópályával, iskolával, egészségügyi központtal és kormányzati hivatalokkal. A gazdaság alapja az önellátó gazdálkodás, a vadászat, a halászat és egyre inkább az arany- és gyémántbányászat. Az elszigetelt fekvés és a tagolt domborzat megnehezíti és drágává teszi a szállítást, amely főként légi úton történik. Kamarang kaput jelent a régió érintetlen esőerdőinek és gazdag őslakos kultúrájának felfedezéséhez.",
+      "descriptionAdvancedRo": "Kamarang este o comunitate indigenă din regiunea Cuyuni-Mazaruni din vestul Guyanei. Este situată în apropierea graniței cu Venezuela, pe râul Kamarang, un afluent al Mazaruni. Satul este locuit în principal de membri ai poporului Akawaio. Kamarang servește ca un important centru regional pentru comunitățile indigene din jur și taberele miniere. Are o pistă de aterizare, o școală, un centru de sănătate și birouri guvernamentale. Economia se bazează pe agricultura de subzistență, vânătoare, pescuit și, din ce în ce mai mult, pe extracția de aur și diamante. Locația sa izolată și topografia accidentată fac transportul dificil și costisitor, bazându-se în principal pe transportul aerian. Kamarang este o poartă de acces pentru explorarea pădurilor tropicale virgine și a bogatei culturi indigene a regiunii.",
+      "descriptionAdvancedEn": "Kamarang is a major Amerindian village in the remote Cuyuni-Mazaruni region of western Guyana. Located on the Kamarang River near the confluence with the Mazaruni River, it is situated in a mountainous, rainforest-covered area close to the Venezuelan border. The community is predominantly inhabited by people of the Akawaio nation. Kamarang serves as a vital administrative and economic hub for the Upper Mazaruni district, with a secondary school, hospital, and airstrip. The economy traditionally relies on subsistence farming (slash-and-burn agriculture), fishing, and hunting. However, gold and diamond mining in the surrounding areas have become increasingly important, bringing both economic opportunities and social and environmental challenges to the community.",
+      "factsAdvancedDe": [
+        "Großes Amerindian-Dorf in der Region Cuyuni-Mazaruni.",
+        "Am Zusammenfluss der Flüsse Kamarang und Mazaruni gelegen.",
+        "Hauptsächlich von der Akawaio-Nation bewohnt.",
+        "Wichtiges Verwaltungs- und Wirtschaftszentrum.",
+        "Verfügt über eine Schule, ein Krankenhaus und eine Landebahn.",
+        "Wirtschaft basiert auf Landwirtschaft und Bergbau.",
+        "Gold- und Diamantenabbau gewinnt an Bedeutung.",
+        "Nahe der venezolanischen Grenze."
+      ],
+      "factsAdvancedHu": [
+        "Jelentős amerindiai falu a Cuyuni-Mazaruni régióban.",
+        "A Kamarang és a Mazaruni folyók összefolyásánál fekszik.",
+        "Főként akawaio indiánok lakják.",
+        "Fontos közigazgatási és gazdasági központ a körzetben.",
+        "Iskolával, kórházzal és repülőtérrel rendelkezik.",
+        "A gazdaság a mezőgazdaságon és a bányászaton alapul.",
+        "Az arany- és gyémántbányászat egyre fontosabbá válik.",
+        "Közel van a venezuelai határhoz."
+      ],
+      "factsAdvancedRo": [
+        "Sat amerindian important în regiunea Cuyuni-Mazaruni.",
+        "Situat la confluența râurilor Kamarang și Mazaruni.",
+        "Locuit predominant de națiunea Akawaio.",
+        "Centru administrativ și economic vital.",
+        "Are o școală, un spital și o pistă de aterizare.",
+        "Economia se bazează pe agricultură și minerit.",
+        "Mineritul de aur și diamante devine din ce în ce mai important.",
+        "Aproape de granița cu Venezuela."
+      ],
+      "factsAdvancedEn": [
+        "Major Amerindian village in the Cuyuni-Mazaruni region.",
+        "Located at the confluence of the Kamarang and Mazaruni rivers.",
+        "Predominantly inhabited by the Akawaio nation.",
+        "Vital administrative and economic hub.",
+        "Has a school, hospital, and airstrip.",
+        "Economy is based on agriculture and mining.",
+        "Gold and diamond mining is becoming increasingly important.",
+        "Near the Venezuelan border."
+      ]
+    },
+    {
+      "id": "aishalton-cities-v2",
+      "descriptionAdvancedDe": "Aishalton ist eine der größten indigenen Gemeinschaften im tiefen Süden der Rupununi-Savanne in Guyana. Es ist eine Siedlung des Wapishana-Volkes. Das Dorf ist das Verwaltungszentrum für die Region und verfügt über eine Sekundarschule, ein Krankenhaus und eine Landebahn, die die umliegenden Dörfer versorgt. Die Wirtschaft von Aishalton basiert traditionell auf Subsistenzlandwirtschaft, Viehzucht (insbesondere Rinder) und der Herstellung von Kunsthandwerk. Die riesigen Savannen bieten Weideland für Rinder. Das Dorf ist bekannt für seine starken kulturellen Traditionen und die Wapishana-Sprache wird noch häufig gesprochen. Aishalton ist auch für seine alten Petroglyphen bekannt, Felszeichnungen, die Einblicke in die alte Geschichte der Region geben.",
+      "descriptionAdvancedHu": "Aishalton Guyana déli részén, a Rupununi szavanna mélyén található egyik legnagyobb őslakos közösség. A vapixana nép települése. A falu a régió közigazgatási központja, középiskolával, kórházzal és leszállópályával rendelkezik, amely a környező falvakat szolgálja ki. Aishalton gazdasága hagyományosan az önellátó gazdálkodáson, az állattenyésztésen (különösen a szarvasmarha-tenyésztésen) és a kézműves termékek készítésén alapul. A hatalmas szavannák legelőt biztosítanak a szarvasmarhák számára. A falu erős kulturális hagyományairól ismert, és a vapixana nyelvet még mindig széles körben beszélik. Aishalton ősi petroglifáiról, a régió ősi történelmébe bepillantást engedő sziklarajzokról is ismert.",
+      "descriptionAdvancedRo": "Aishalton este una dintre cele mai mari comunități indigene din sudul adânc al savanei Rupununi din Guyana. Este o așezare a poporului Wapishana. Satul este centrul administrativ al regiunii, având o școală secundară, un spital și o pistă de aterizare care deservește satele din jur. Economia Aishaltonului se bazează în mod tradițional pe agricultura de subzistență, creșterea animalelor (în special a vitelor) și producția de artizanat. Savanele vaste oferă pășuni pentru bovine. Satul este cunoscut pentru tradițiile sale culturale puternice, iar limba Wapishana este încă vorbită pe scară largă. Aishalton este, de asemenea, renumit pentru petroglifele sale antice, sculpturi în stâncă care oferă o perspectivă asupra istoriei antice a regiunii.",
+      "descriptionAdvancedEn": "Aishalton is one of the largest Amerindian settlements in the Deep South of the Rupununi savannahs, in the Upper Takutu-Upper Essequibo region. It is a major centre for the Wapishana people. The village serves as a regional hub, with a secondary school, a hospital, government offices, and an airstrip connecting it to the rest of Guyana. The traditional economy is based on subsistence farming (cassava being a key crop), cattle ranching, and the production of craft items like hammocks and beaded aprons. The community has a rich cultural heritage, with the Wapishana language widely spoken. Aishalton is also notable for the nearby Aishalton petroglyphs, ancient rock carvings that are a significant archaeological site, offering a window into the area's pre-colonial history.",
+      "factsAdvancedDe": [
+        "Eine der größten Amerindian-Siedlungen im südlichen Rupununi.",
+        "Ein Zentrum für das Wapishana-Volk.",
+        "Regionales Zentrum mit Schule und Krankenhaus.",
+        "Wirtschaft basiert auf Landwirtschaft und Viehzucht.",
+        "Berühmt für sein Kunsthandwerk, wie Hängematten.",
+        "Die Wapishana-Sprache wird weitgehend gesprochen.",
+        "In der Nähe befinden sich antike Petroglyphen (Felszeichnungen).",
+        "Rinderzucht ist ein wichtiger Teil der lokalen Wirtschaft."
+      ],
+      "factsAdvancedHu": [
+        "A Rupununi déli részének egyik legnagyobb amerindiai települése.",
+        "A vapixana (Wapishana) nép központja.",
+        "Regionális központ iskolával és kórházzal.",
+        "A gazdaság a mezőgazdaságon és az állattenyésztésen alapul.",
+        "Híres a kézműves termékeiről, például a függőágyakról.",
+        "A vapixana nyelvet széles körben beszélik.",
+        "A közelben ősi petroglifák (sziklarajzok) találhatók.",
+        "A szarvasmarha-tenyésztés fontos része a helyi gazdaságnak."
+      ],
+      "factsAdvancedRo": [
+        "Una dintre cele mai mari așezări amerindiene din sudul Rupununi.",
+        "Un centru pentru poporul Wapishana.",
+        "Centru regional cu școală și spital.",
+        "Economia se bazează pe agricultură și creșterea vitelor.",
+        "Renumit pentru produsele sale artizanale, cum ar fi hamacele.",
+        "Limba Wapishana este vorbită pe scară largă.",
+        "Petroglife antice (sculpturi în stâncă) se găsesc în apropiere.",
+        "Creșterea vitelor este o parte importantă a economiei locale."
+      ],
+      "factsAdvancedEn": [
+        "One of the largest Amerindian settlements in the southern Rupununi.",
+        "A center for the Wapishana people.",
+        "Regional hub with a school and hospital.",
+        "Economy is based on agriculture and cattle ranching.",
+        "Famous for its craft products, like hammocks.",
+        "The Wapishana language is widely spoken.",
+        "Ancient petroglyphs (rock carvings) are found nearby.",
+        "Cattle ranching is an important part of the local economy."
+      ]
+    },
+    {
+      "id": "karuaimeng-cities-v2",
+      "descriptionAdvancedDe": "Karuaimeng ist eine kleine indigene Gemeinschaft in der Region Cuyuni-Mazaruni. Es liegt tief im Inneren Guyanas, in einer bergigen und waldreichen Gegend. Die Gemeinde ist hauptsächlich von Mitgliedern des Akawaio- oder Arecuna-Volkes bewohnt. Das Leben in Karuaimeng ist traditionell und basiert auf Subsistenzlandwirtschaft, Jagen und Fischen. Der Zugang zur Gemeinde ist äußerst schwierig und erfolgt in der Regel über kleine Flugzeuge oder lange, beschwerliche Flussreisen. Aufgrund seiner Abgeschiedenheit hat Karuaimeng einen Großteil seiner traditionellen Kultur und seiner engen Beziehung zur Umwelt bewahrt. Die Gemeinde steht vor Herausforderungen in Bezug auf Bildung, Gesundheitsversorgung und wirtschaftliche Möglichkeiten, ist aber ein Beispiel für die Widerstandsfähigkeit der indigenen Völker im Hochland Guyanas.",
+      "descriptionAdvancedHu": "A Karuaimeng egy kis őslakos közösség a Cuyuni-Mazaruni régióban. Guyana mélyén, hegyvidéki és erdős területen található. A közösséget főként az akawaio vagy arecuna nép tagjai lakják. Az élet Karuaimengben hagyományos, önellátó gazdálkodáson, vadászaton és halászaton alapul. A közösség megközelítése rendkívül nehéz, általában kis repülőgépekkel vagy hosszú, fáradságos folyami utazásokkal történik. Elszigeteltsége miatt Karuaimeng megőrizte hagyományos kultúrájának nagy részét és szoros kapcsolatát a környezettel. A közösség kihívásokkal néz szembe az oktatás, az egészségügy és a gazdasági lehetőségek terén, de példa a guyanai hegyvidék őslakos népeinek ellenálló képességére.",
+      "descriptionAdvancedRo": "Karuaimeng este o mică comunitate indigenă din regiunea Cuyuni-Mazaruni. Este situată în adâncul interiorului Guyanei, într-o zonă muntoasă și împădurită. Comunitatea este locuită în principal de membri ai popoarelor Akawaio sau Arecuna. Viața în Karuaimeng este tradițională, bazată pe agricultura de subzistență, vânătoare și pescuit. Accesul la comunitate este extrem de dificil, de obicei prin avioane mici sau călătorii lungi și anevoioase pe râu. Datorită izolării sale, Karuaimeng a păstrat o mare parte din cultura sa tradițională și o relație strânsă cu mediul înconjurător. Comunitatea se confruntă cu provocări în ceea ce privește educația, sănătatea și oportunitățile economice, dar este un exemplu de rezistență a popoarelor indigene din zonele muntoase ale Guyanei.",
+      "descriptionAdvancedEn": "Karuaimeng is a small, remote Amerindian village located in the Cuyuni-Mazaruni Region of Guyana, deep in the country's interior highlands. The community is inhabited by the Arecuna people, an indigenous group related to the Pemon of neighboring Venezuela and Brazil. Life in Karuaimeng is deeply traditional and closely tied to the surrounding rainforest ecosystem. The economy is based on subsistence activities such as farming (in shifting cultivation plots), hunting, and fishing. Access to the village is extremely limited, typically requiring light aircraft to land on a small airstrip or extensive overland and river travel. Its isolation has helped preserve the Arecuna language and culture, but also presents significant challenges for access to modern healthcare, education, and economic opportunities.",
+      "factsAdvancedDe": [
+        "Kleines, abgelegenes Amerindian-Dorf in der Region Cuyuni-Mazaruni.",
+        "Bewohnt vom Volk der Arecuna.",
+        "Das Leben ist traditionell und eng mit dem Regenwald verbunden.",
+        "Wirtschaft basiert auf Subsistenzwirtschaft.",
+        "Jagd und Fischerei sind lebenswichtig.",
+        "Zugang ist extrem schwierig, meist per Flugzeug.",
+        "Isolation hat geholfen, Kultur und Sprache zu bewahren.",
+        "Steht vor großen Herausforderungen im Gesundheits- und Bildungswesen."
+      ],
+      "factsAdvancedHu": [
+        "Kis, elszigetelt amerindiai falu a Cuyuni-Mazaruni régióban.",
+        "Az arecuna (Arecuna) nép lakja.",
+        "Az élet hagyományos és szorosan kötődik az esőerdőhöz.",
+        "A gazdaság önellátó gazdálkodáson alapul.",
+        "A vadászat és a halászat létfontosságú.",
+        "Megközelítése rendkívül nehéz, főleg légi úton lehetséges.",
+        "Az elszigeteltség segített megőrizni a helyi kultúrát és nyelvet.",
+        "Jelentős kihívásokkal néz szembe az egészségügy és az oktatás terén."
+      ],
+      "factsAdvancedRo": [
+        "Sat amerindian mic și izolat în regiunea Cuyuni-Mazaruni.",
+        "Locuit de poporul Arecuna.",
+        "Viața este tradițională și strâns legată de pădurea tropicală.",
+        "Economia se bazează pe agricultura de subzistență.",
+        "Vânătoarea și pescuitul sunt vitale.",
+        "Accesul este extrem de dificil, de obicei pe calea aerului.",
+        "Izolarea a ajutat la conservarea culturii și limbii locale.",
+        "Se confruntă cu provocări semnificative în domeniul sănătății și educației."
+      ],
+      "factsAdvancedEn": [
+        "Small, remote Amerindian village in the Cuyuni-Mazaruni region.",
+        "Inhabited by the Arecuna people.",
+        "Life is traditional and closely tied to the rainforest.",
+        "The economy is based on subsistence farming.",
+        "Hunting and fishing are vital.",
+        "Access is extremely difficult, mostly by air.",
+        "Isolation has helped preserve local culture and language.",
+        "Faces significant challenges in healthcare and education."
+      ]
+    },
+    {
+      "id": "orinduik-cities-v2",
+      "descriptionAdvancedDe": "Orinduik ist bekannt für die Orinduik-Fälle, eine Reihe von Wasserfällen am Ireng-Fluss an der Grenze zwischen Guyana und Brasilien. Die Siedlung selbst ist klein und dient hauptsächlich als Stützpunkt für Touristen, die die Fälle besuchen, sowie für die nahe gelegenen Bergbauaktivitäten. Die Gegend liegt in der Region Potaro-Siparuni und ist von der Rupununi-Savanne umgeben. Die Fälle sind eine wichtige Touristenattraktion und bekannt für ihre breiten, terrassenförmigen Kaskaden über rotem Jaspis. Der Zugang erfolgt hauptsächlich über eine Landebahn in der Nähe. Die kleine Gemeinde besteht aus Einheimischen, die im Tourismus und in der Unterstützung von Bergleuten arbeiten. Die natürliche Schönheit der Orinduik-Fälle macht es zu einem der Juwelen des guyanischen Tourismus.",
+      "descriptionAdvancedHu": "Orinduik az Orinduik-vízesésről ismert, amely egy vízesés-sorozat az Ireng folyón, Guyana és Brazília határán. Maga a település kicsi, és főként a vízesést látogató turisták, valamint a közeli bányászati tevékenységek bázisaként szolgál. A terület a Potaro-Siparuni régióban található, és a Rupununi szavanna veszi körül. A vízesés fontos turisztikai attrakció, és széles, teraszos, vörös jáspison lezúduló zuhatagairól ismert. A megközelítés főként egy közeli leszállópályán keresztül történik. A kis közösség helyiekből áll, akik a turizmusban és a bányászok támogatásában dolgoznak. Az Orinduik-vízesés természeti szépsége Guyana turizmusának egyik ékkövévé teszi.",
+      "descriptionAdvancedRo": "Orinduik este renumit pentru Cascadele Orinduik, o serie de cascade pe râul Ireng, la granița dintre Guyana și Brazilia. Așezarea în sine este mică, servind în principal ca bază pentru turiștii care vizitează cascadele și pentru activitățile miniere din apropiere. Zona este situată în regiunea Potaro-Siparuni și este înconjurată de savana Rupununi. Cascadele sunt o atracție turistică majoră, cunoscute pentru cascadele lor largi, în trepte, peste jasp roșu. Accesul se face în principal printr-o pistă de aterizare din apropiere. Mica comunitate este formată din localnici care lucrează în turism și în sprijinirea minerilor. Frumusețea naturală a Cascadei Orinduik o face una dintre bijuteriile turismului guyanez.",
+      "descriptionAdvancedEn": "Orinduik is a small community in the Potaro-Siparuni region, located right on the border with Brazil. It is famous for the stunning Orinduik Falls on the Ireng River. The falls are not known for their height but for their impressive width and series of cascading steps over semi-precious red jasper rocks, creating natural jacuzzis that are perfect for swimming. The area is a popular destination for tourists, who typically arrive by small plane at the nearby airstrip. The community itself is small, largely consisting of indigenous people from the Patamona nation who are involved in tourism-related activities and small-scale mining. The breathtaking landscape and the unique opportunity to swim in the falls make Orinduik a highlight of Guyana's interior.",
+      "factsAdvancedDe": [
+        "Berühmt für die Orinduik-Fälle.",
+        "Am Ireng-Fluss, an der brasilianischen Grenze.",
+        "Die Fälle sind breit und stufenförmig.",
+        "Wasser fließt über rote Jaspisfelsen.",
+        "Beliebtes Touristenziel.",
+        "Am einfachsten per Flugzeug erreichbar.",
+        "Lokale Gemeinschaft gehört zur Patamona-Nation.",
+        "Bietet natürliche Becken zum Schwimmen in den Fällen."
+      ],
+      "factsAdvancedHu": [
+        "Az Orinduik-vízesésről híres.",
+        "Az Ireng folyón, a brazil határon található.",
+        "A vízesés széles és lépcsőzetes.",
+        "A víz vörös jáspis sziklákon folyik keresztül.",
+        "Népszerű turisztikai célpont.",
+        "Repülővel közelíthető meg legkönnyebben.",
+        "A helyi közösség a patamona néphez tartozik.",
+        "A vízesésben természetes medencékben lehet úszni."
+      ],
+      "factsAdvancedRo": [
+        "Renumit pentru Cascadele Orinduik.",
+        "Pe râul Ireng, la granița cu Brazilia.",
+        "Cascadele sunt largi și în trepte.",
+        "Apa curge peste roci de jasp roșu.",
+        "Destinație turistică populară.",
+        "Cel mai ușor accesibil cu avionul.",
+        "Comunitatea locală aparține națiunii Patamona.",
+        "Oferă piscine naturale pentru înot în cascade."
+      ],
+      "factsAdvancedEn": [
+        "Famous for the Orinduik Falls.",
+        "On the Ireng River, on the Brazilian border.",
+        "The falls are wide and stepped.",
+        "Water flows over red jasper rocks.",
+        "Popular tourist destination.",
+        "Most easily accessible by plane.",
+        "The local community belongs to the Patamona nation.",
+        "Offers natural pools for swimming in the falls."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "en",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sonichar-tchirozerine-economic-v2",
+      "description": "This facility is central to the regional uranium extraction operations near Tchirozerine. It plays a significant role in the local industrial landscape of the Agadez Region.",
+      "facts": ["Located near Tchirozerine", "Uranium extraction site", "Industrial sector facility", "Key regional employer"]
+    },
+    {
+      "id": "ne-agadez-mosque-history-v2",
+      "description": "The Agadez Mosque is an architectural landmark constructed primarily of banco, featuring a distinctive minaret that dominates the city skyline. It remains an essential cultural and religious site in the Sahel.",
+      "facts": ["Constructed with banco", "Iconic conical minaret", "Sahelian architecture", "Cultural landmark"]
+    },
+    {
+      "id": "tapoa-animal-habitat-life-v2",
+      "description": "Tapoa serves as a critical gateway and habitat area near the W National Park. The surrounding environment supports a diverse range of savanna wildlife species.",
+      "facts": ["Near W National Park", "Savanna wildlife zone", "Protected ecological area", "Biodiversity hotspot"]
+    },
+    {
+      "id": "agadez-kamel-habitat-life-v2",
+      "description": "This area near Agadez is historically significant for nomadic camel breeding and desert trade routes. It provides essential grazing land for local pastoral communities.",
+      "facts": ["Camel pastoralism center", "Desert grazing land", "Nomadic trade route", "Agadez Region hub"]
+    },
+    {
+      "id": "diffa-agri-life-v2",
+      "description": "Agriculture in the Diffa region is focused on resilient crops suited to the semi-arid climate of the Lake Chad basin. Farming here relies on traditional irrigation techniques.",
+      "facts": ["Lake Chad basin area", "Semi-arid agriculture", "Resilient crop cultivation", "Local irrigation use"]
+    },
+    {
+      "id": "tahoua-zoo-life-v2",
+      "description": "The Tahoua area features local conservation and wildlife education efforts. It helps showcase the regional fauna characteristic of the transitional zone.",
+      "facts": ["Wildlife education site", "Regional fauna showcase", "Transitional zone focus", "Conservation efforts"]
+    },
+    {
+      "id": "filingue-agri-life-v2",
+      "description": "Filingué is characterized by its agricultural practices that leverage the seasonal rains for millet and sorghum production. It is a vital rural center for the local population.",
+      "facts": ["Rural agricultural hub", "Millet production area", "Sorghum farming", "Rain-fed cultivation"]
+    },
+    {
+      "id": "maradi-kids-life-v2",
+      "description": "Maradi offers various educational and recreational spaces designed for children, reflecting its status as a vibrant economic and social hub. The city provides a range of community-focused activities.",
+      "facts": ["Urban social hub", "Youth community centers", "Recreational spaces", "Economic center"]
+    },
+    {
+      "id": "gaya-bird-life-v2",
+      "description": "The wetlands near Gaya are vital for numerous migratory and resident bird species. The proximity to the Niger River creates a rich ecosystem for avian life.",
+      "facts": ["Niger River wetland", "Migratory bird habitat", "Avian biodiversity", "Protected ecosystem"]
+    },
+    {
+      "id": "dosso-agri-life-v2",
+      "description": "Dosso is known for its productive agricultural landscape, focusing on staples such as cowpeas and grains. The region's farming practices support local food security.",
+      "facts": ["Staple crop producer", "Cowpea farming region", "Food security hub", "Traditional techniques"]
+    }
+  ]
+}

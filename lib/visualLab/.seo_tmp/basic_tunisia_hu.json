@@ -1,0 +1,63 @@
+{
+  "lang": "hu",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ben-arous-cities-v2",
+      "description": "Ben Arous Tunis déli elővárosa, jelentős ipari és kereskedelmi központ.",
+      "facts": ["Tunis agglomerációja", "Ipari zónák", "Közlekedési csomópont"]
+    },
+    {
+      "id": "manouba-cities-v2",
+      "description": "Tunis nyugati szomszédja, ahol több felsőoktatási intézmény is található.",
+      "facts": ["Egyetemi város", "Tunis agglomeráció", "Kertvárosi jelleg"]
+    },
+    {
+      "id": "nabeul-cities-v2",
+      "description": "A Cap Bon-félsziget központja, híres kézműves kerámiájáról és tengerparti turizmusáról.",
+      "facts": ["Kerámia központ", "Cap Bon fővárosa", "Turisztikai célpont"]
+    },
+    {
+      "id": "zaghouan-cities-v2",
+      "description": "A hegyvidéki terület központja, ismert római kori vízvezeték-maradványairól.",
+      "facts": ["Hegyvidéki régió", "Római vízvezeték", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "bizerte-cities-v2",
+      "description": "Tunézia legészakibb nagyvárosa, fontos kikötővel és stratégiai fekvéssel.",
+      "facts": ["Északi kikötőváros", "Földközi-tenger", "Stratégiai pont"]
+    },
+    {
+      "id": "jendouba-cities-v2",
+      "description": "Az északnyugati régió kereskedelmi központja a Medzserda-völgyben.",
+      "facts": ["Medzserda-völgy", "Mezőgazdaság", "Északnyugati régió"]
+    },
+    {
+      "id": "kairouan-cities-v2",
+      "description": "Az iszlám vallási központja, híres építészetéről és a Nagy Mecsetről.",
+      "facts": ["Vallási székhely", "UNESCO világörökség", "Iszlám építészet"]
+    },
+    {
+      "id": "kasserine-cities-v2",
+      "description": "A központi magasföldön fekvő város, az azonos nevű kormányzóság központja.",
+      "facts": ["Központi magasföld", "Kormányzósági központ", "Belvidéki város"]
+    },
+    {
+      "id": "monastir-cities-v2",
+      "description": "Tengerparti üdülőváros, ahol a történelmi ribát és Habib Burgiba mauzóleuma áll.",
+      "facts": ["Tengerparti város", "Történelmi ribát", "Burgiba szülőhelye"]
+    },
+    {
+      "id": "mahdia-cities-v2",
+      "description": "A Földközi-tengerbe nyúló félszigeten fekvő ősi kikötőváros, a Fátimida-dinasztia székhelye.",
+      "facts": ["Fátimida székhely", "Halászkikötő", "Történelmi központ"]
+    }
+  ]
+}

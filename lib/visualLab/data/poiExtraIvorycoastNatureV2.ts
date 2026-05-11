@@ -22,10 +22,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       en: "The Sassandra, with a length of about 650 kilometers, is one of the major rivers in Ivory Coast. It originates in the north and traverses diverse landscapes before flowing into the Atlantic Ocean near the port city of Sassandra. The river plays a crucial role in the local economy, particularly through its hydropower potential, which is utilized for electricity generation. Ecologically, it supports diverse habitats in the tropical regions it flows through. (Geography K7 — river systems and economic usage)"
     },
     factsAdvanced: {
-      de: ["Länge ca. 650 km.", "Hauptquelle im Norden des Landes.", "Wichtige Quelle für Wasserkraft.", "Mündung in den Atlantik bei Sassandra.", "Wichtige Lebensader für tropische Regionen.", "Überquert mehrere Klimazonen."],
-      hu: ["Hossza kb. 650 km.", "Fő forrása az ország északi részén van.", "Fontos vízenergia-forrás.", "Az Atlanti-óceánba ömlik Sassandra-nál.", "Fontos éltető elem a trópusi régiók számára.", "Több éghajlati zónán halad át."],
-      ro: ["Lungime de aprox. 650 km.", "Sursa principală în nordul țării.", "Sursă importantă de energie hidroelectrică.", "Se varsă în Atlantic la Sassandra.", "Arteră vitală pentru regiunile tropicale.", "Traversează mai multe zone climatice."],
-      en: ["Length approx. 650 km.", "Main source in the north of the country.", "Important source for hydropower.", "Flows into the Atlantic at Sassandra.", "Vital artery for tropical regions.", "Crosses several climate zones."]
+      de: ["Hauptquelle im Norden des Landes.", "Wichtige Quelle für Wasserkraft.", "Mündung in den Atlantik bei Sassandra.", "Wichtige Lebensader für tropische Regionen.", "Überquert mehrere Klimazonen."],
+      hu: ["Fő forrása az ország északi részén van.", "Fontos vízenergia-forrás.", "Az Atlanti-óceánba ömlik Sassandra-nál.", "Fontos éltető elem a trópusi régiók számára.", "Több éghajlati zónán halad át."],
+      ro: ["Sursa principală în nordul țării.", "Sursă importantă de energie hidroelectrică.", "Se varsă în Atlantic la Sassandra.", "Arteră vitală pentru regiunile tropicale.", "Traversează mai multe zone climatice."],
+      en: ["Main source in the north of the country.", "Important source for hydropower.", "Flows into the Atlantic at Sassandra.", "Vital artery for tropical regions.", "Crosses several climate zones."]
     }, image: "/poi-images/sassandra-river-nature-v2.webp"},
   {
     id: "cavally-river-nature-v2",
@@ -47,10 +47,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       en: "The Cavally is an approximately 700-kilometer-long river that forms the natural border between Ivory Coast and Liberia. It originates in the Nimba Mountains and meanders through dense tropical forests before flowing into the Gulf of Guinea. The river is a lifeline for the local population, as it provides important waterways for regional trade and supplies water to the surrounding ecosystems. The Cavally is also known for its high biodiversity, which is home to many rare animal species. (Geography K6 — border rivers and ecosystems)"
     },
     factsAdvanced: {
-      de: ["Länge ca. 700 km.", "Formt Grenze zu Liberia.", "Entspringt im Nimba-Gebirge.", "Mündet in den Golf von Guinea.", "Reich an Biodiversität.", "Wichtige Handelsroute."],
-      hu: ["Hossza kb. 700 km.", "Libériával alkot határt.", "A Nimba-hegységben ered.", "A Guineai-öbölbe ömlik.", "Gazdag biodiverzitás.", "Fontos kereskedelmi útvonal."],
-      ro: ["Lungime de aprox. 700 km.", "Formează granița cu Liberia.", "Izvorăște din munții Nimba.", "Se varsă în Golful Guineei.", "Biodiversitate bogată.", "Rută comercială importantă."],
-      en: ["Length approx. 700 km.", "Forms border with Liberia.", "Originates in the Nimba Mountains.", "Flows into the Gulf of Guinea.", "Rich biodiversity.", "Important trade route."]
+      de: ["Länge ca. 700 km.", "Formt Grenze zu Liberia.", "Entspringt im Nimba-Gebirge.", "Reich an Biodiversität.", "Wichtige Handelsroute."],
+      hu: ["Hossza kb. 700 km.", "Libériával alkot határt.", "A Nimba-hegységben ered.", "Gazdag biodiverzitás.", "Fontos kereskedelmi útvonal."],
+      ro: ["Lungime de aprox. 700 km.", "Formează granița cu Liberia.", "Izvorăște din munții Nimba.", "Biodiversitate bogată.", "Rută comercială importantă."],
+      en: ["Length approx. 700 km.", "Forms border with Liberia.", "Originates in the Nimba Mountains.", "Important trade route."]
     }, image: "/poi-images/cavally-river-nature-v2.webp"},
   {
     id: "mount-nimba-nature-v2",
@@ -66,16 +66,16 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       en: ["Highest point in Ivory Coast.", "UNESCO World Heritage site.", "Unique flora and fauna.", "Located at the border of three countries."]
     },
     descriptionAdvanced: {
-      de: "Das Nimba-Massiv ist mit einer Höhe von 1752 Metern der höchste Gipfel der Elfenbeinküste und liegt im Dreiländereck zwischen Guinea, Liberia und der Elfenbeinküste. Das Gebiet ist als UNESCO-Welterbestätte geschützt und beherbergt eine einzigartige Flora und Fauna, die nirgendwo anders vorkommt. Das Massiv ist durch seine steilen Hänge und dichten Bergwälder geprägt, die ein komplexes Ökosystem bilden. Die Region ist von großem wissenschaftlichen Interesse aufgrund der seltenen endemischen Arten, die dort gefunden werden. (Geografie K8 — Hochgebirge und Schutzgebiete)",
-      hu: "A Nimba-hegység, 1752 méteres magasságával Elefántcsontpart legmagasabb pontja, Guinea, Libéria és Elefántcsontpart hármas határánál található. A terület UNESCO világörökségi helyszínként védett, és egyedülálló növény- és állatvilágnak ad otthont, amely sehol máshol nem fordul elő. A masszívumot meredek lejtők és sűrű hegyi erdők jellemzik, amelyek összetett ökoszisztémát alkotnak. A régió nagy tudományos jelentőséggel bír az ott található ritka endemikus fajok miatt. (Földrajz K8 — magashegységek és védett területek)",
-      ro: "Masivul Nimba, cu o înălțime de 1752 de metri, este cel mai înalt vârf din Coasta de Fildeș și este situat la granița tripartită dintre Guineea, Liberia și Coasta de Fildeș. Zona este protejată ca sit al Patrimoniului Mondial UNESCO și găzduiește o floră și faună unică, care nu se regăsește nicăieri altundeva. Masivul este caracterizat prin versanți abrupți și păduri montane dense care formează un ecosistem complex. Regiunea prezintă un mare interes științific datorită speciilor endemice rare găsite acolo. (Geografie K8 — munți înalți și arii protejate)",
-      en: "The Nimba Massif, at a height of 1752 meters, is the highest peak in Ivory Coast and is located at the tri-border point between Guinea, Liberia, and Ivory Coast. The area is protected as a UNESCO World Heritage site and is home to unique flora and fauna found nowhere else. The massif is characterized by its steep slopes and dense mountain forests that form a complex ecosystem. The region is of great scientific interest due to the rare endemic species found there. (Geography K8 — high mountains and protected areas)"
+      de: "Der Mount Nimba (Mont Nimba) ist eine der spektakulärsten und ökologisch bedeutendsten Naturstätten Guineas und Westafrikas. Geografisch liegt das Nimba-Massiv im Dreiländereck von Guinea, Liberia und der Elfenbeinküste und erhebt sich markant über die umgebenden Regenwälder. Der höchste Gipfel auf guineischer Seite, der Mont Richard-Molard, erreicht eine Höhe von 1.752 Metern und ist damit der höchste Punkt des Landes. Aufgrund seiner außergewöhnlichen Biodiversität und seiner einzigartigen Hochland-Graslandschaften wurde der guineische Teil des Massivs von der UNESCO zum Weltnaturerbe erklärt. Nimba beherbergt über 2.000 Gefäßpflanzenarten und endemische Tiere, die nirgendwo sonst auf der Welt vorkommen, wie die Nimba-Otterspitzmaus und die lebendgebärende Nimba-Kröte. Historisch gesehen ist der Berg ein Symbol für den Konflikt zwischen Naturschutz und industrieller Nutzung, da das Massiv über riesige Vorkommen an hochwertigem Eisenerz verfügt. Wirtschaftlich stellt dieses Erzpotenzial eine enorme Chance für Guinea dar, während internationale Naturschutzorganisationen für den Erhalt dieses 'Insel-Ökosystems' kämpfen. Für Besucher bietet der Mount Nimba atemberaubende Panoramen und eine mystische Atmosphäre, oft in Wolken gehüllt, die die Einzigartigkeit dieses westafrikanischen Hochgebirges unterstreichen.",
+      hu: "A Nimba-hegy (Mont Nimba) Guinea és egész Nyugat-Afrika egyik legkülönlegesebb és ökológiailag legjelentősebb természeti képződménye. Földrajzilag a Nimba-masszívum Guinea, Libéria és Elefántcsontpart hármashatárán fekszik, meredeken emelkedve a környező trópusi esőerdők fölé. Legmagasabb pontja, a Mont Richard-Molard (1752 m), Guinea és Elefántcsontpart legmagasabb csúcsa is egyben. Rendkívüli biológiai sokfélesége és egyedülálló magaslati füves pusztái miatt a hegység guineai része az UNESCO világörökség része. A Nimba több mint 2000 növényfajnak és olyan endemikus állatoknak ad otthont, amelyek a világon sehol máshol nem találhatók meg, mint például a Nimba-vidra és az elevenszülő Nimba-varangy. Történelmileg a hegy a természetvédelem és az ipari kitermelés közötti küzdelem jelképe, mivel a masszívum a Föld egyik legtisztább vasérckincsét rejti. Gazdaságilag ez az érctartalék óriási lehetőséget jelent Guinea számára, miközben nemzetközi szervezetek harcolnak ezen „sziget-ökoszisztéma” megőrzéséért. A látogatók számára a Nimba-hegy lélegzetelállító panorámát és misztikus, gyakran felhőkbe burkolózó atmoszférát kínál, amely kiemeli a hegység egyedülálló jellegét a nyugat-afrikai tájban.",
+      ro: "Muntele Nimba (Mont Nimba) este unul dintre cele mai spectaculoase și semnificative situri naturale din Guineea și din întreaga Africă de Vest. Geografic, masivul Nimba este situat la intersecția frontierelor dintre Guineea, Liberia și Coasta de Fildeș, dominând peisajul pădurilor tropicale înconjurătoare. Cel mai înalt vârf de pe partea guineeană, Mont Richard-Molard, atinge o altitudine de 1.752 de metri, fiind cel mai înalt punct al țării. Datorită biodiversității sale excepționale și a pajiștilor montane unice, partea guineeană a masivului a fost declarată de UNESCO sit al Patrimoniului Mondial Natural. Nimba găzduiește peste 2.000 de specii de plante și animale endemice care nu se mai găsesc nicăieri altundeva în lume, precum broasca vivipară de Nimba. Din punct de vedere istoric, muntele simbolizează conflictul dintre conservarea naturii și interesele industriale, deoarece masivul conține zăcăminte imense de minereu de fier de înaltă calitate. Din punct de vedere economic, acest potențial reprezintă o miză uriașă pentru Guineea, în timp ce organizațiile internaționale luptă pentru protejarea acestui „ecosistem-insulă”. Pentru vizitatori, Muntele Nimba oferă panorame uluitoare și o atmosferă mistică, fiind adesea învăluit în nori, ceea ce subliniază caracterul său unic.",
+      en: "Mount Nimba (Mont Nimba) is one of Guinea's and West Africa's most spectacular and ecologically significant natural landmarks. Geographically, the Nimba Massif is located at the tri-border of Guinea, Liberia, and Ivory Coast, rising sharply above the surrounding tropical rainforests. Its highest peak on the Guinean side, Mont Richard-Molard, reaches an elevation of 1,752 meters, making it the highest point in both Guinea and Ivory Coast. Due to its extraordinary biodiversity and unique high-altitude grasslands, the Guinean portion of the massif was designated a UNESCO World Heritage Site. Nimba is home to over 2,000 species of vascular plants and endemic animals found nowhere else on Earth, such as the Nimba viviparous toad and the Nimba otter shrew. Historically, the mountain has become a symbol of the tension between environmental conservation and industrial resource use, as the massif contains vast deposits of high-grade iron ore. Economically, this ore represents a major opportunity for Guinea, while international conservationists work to preserve this irreplaceable 'island ecosystem.' For visitors, Mount Nimba offers breathtaking panoramas and a mystical atmosphere, often shrouded in clouds, highlighting its status as a crown jewel of African nature."
     },
     factsAdvanced: {
-      de: ["Höhe 1752 Meter.", "UNESCO-Welterbe seit 1981.", "Dreiländereck (CI, GN, LR).", "Reich an endemischen Arten.", "Steile Hänge und Bergwälder.", "Wissenschaftlich bedeutend."],
-      hu: ["Magasság 1752 méter.", "UNESCO világörökség 1981 óta.", "Hármas határ (CI, GN, LR).", "Gazdag endemikus fajokban.", "Meredek lejtők és hegyi erdők.", "Tudományosan jelentős."],
-      ro: ["Înălțime 1752 metri.", "Patrimoniu Mondial UNESCO din 1981.", "Graniță tripartită (CI, GN, LR).", "Bogată în specii endemice.", "Versanți abrupți și păduri montane.", "Semnificație științifică."],
-      en: ["Height 1752 meters.", "UNESCO World Heritage site since 1981.", "Tri-border (CI, GN, LR).", "Rich in endemic species.", "Steep slopes and mountain forests.", "Scientifically significant."]
+      de: ["Der Mount Nimba ist mit 1.752 m der höchste Berg Guineas.", "Das Massiv beherbergt die weltweit einzige lebendgebärende Krötenart.", "Seit 1981 gehört der guineische Teil zum UNESCO-Weltnaturerbe.", "Der Berg ist eine biogeografische Insel mit extrem vielen endemischen Arten.", "Die Eisenkarst-Landschaften auf den Gipfeln sind weltweit einzigartig.", "Ein großer Teil des Berges steht unter strengem Naturschutz (Réserve Naturelle Intégrale)."],
+      hu: ["A Nimba-hegy 1752 méterével Guinea és Elefántcsontpart legmagasabb pontja.", "Itt él a világ egyetlen elevenszülő varangyfaja (Nimbaphrynoides occidentalis).", "A terület 1981 óta szerepel az UNESCO természeti világörökségi listáján.", "A hegységben több mint 500 új állatfajt írtak le a kutatók.", "A Nimba-hegy vasérckészlete a világ egyik legjobb minőségű lelőhelye.", "A csúcsok felé haladva az esőerdőt fokozatosan váltják fel a hegyi rétek."],
+      ro: ["Muntele Nimba este supranumit 'castelul de apă' al Africii de Vest.", "Rezervația naturală integrală protejează peste 200 de specii endemice.", "Climatul montan creează condiții pentru o floră alpină atipică la tropice.", "Masivul este compus predominant din cuarțite bogate în fier.", "Nimba a fost una dintre primele arii protejate transfrontaliere din Africa.", "Vârful Richard-Molard este numit după un geograf francez decedat pe munte."],
+      en: ["Mount Nimba is the highest peak in West Africa outside the Cameroon line.", "It is the only place on Earth where the Nimba viviparous toad is found.", "UNESCO added the site to its World Heritage list in 1981.", "The mountain features over 2,000 recorded species of vascular plants.", "It remains on the UNESCO List of World Heritage in Danger due to mining pressure.", "The massif acts as a major watershed for rivers flowing into Liberia and Ivory Coast."]
     }, image: "/poi-images/mount-nimba-nature-v2.webp"},
   {
     id: "lagune-ebrie-nature-v2",
@@ -163,10 +163,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.5, 8.1],
     name: { de: "Mont Poko", hu: "Poko-hegy", ro: "Muntele Poko", en: "Mount Poko" },
-    description: { de: "Ein markanter Berg im westlichen Hochland des Landes.", hu: "Jellegzetes hegy az ország nyugati felföldjén.", ro: "Un munte distinctiv în zonele înalte din vestul țării.", en: "A prominent mountain in the country's western highlands." },
+    description: { de: "Ein markanter Berg im westlichen Hochland des Landes.", hu: "Kisebb kiemelkedés az ország nyugati részén, amely a sűrű trópusi erdők és a változatos állatvilág egyik élőhelye.", ro: "Un munte distinctiv în zonele înalte din vestul țării.", en: "A prominent mountain in the country's western highlands." },
     facts: {
       de: ["Teil des westlichen Berglandes.", "Umgeben von tropischen Wäldern.", "Relativ unerschlossen.", "Landschaftlich reizvoll."],
-      hu: ["A nyugati hegyvidék része.", "Trópusi erdők veszik körül.", "Viszonylag érintetlen.", "Festői táj."],
+      hu: ["Nyugati hegyvidéki terület", "Gazdag növényvilág", "Túrázásra alkalmas terep"],
       ro: ["Parte a zonelor montane din vest.", "Înconjurat de păduri tropicale.", "Relativ neexplorat.", "Peisaj pitoresc."],
       en: ["Part of the western mountain region.", "Surrounded by tropical forests.", "Relatively undeveloped.", "Picturesque landscape."]
     }, image: "/poi-images/mount-poko-nature-v2.webp",
@@ -203,9 +203,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.3, 5.8],
     name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest" },
-    description: { de: "Einer der letzten großen Primärwälder Westafrikas und UNESCO-Welterbestätte.", hu: "Nyugat-Afrika egyik utolsó nagy őserdeje és UNESCO világörökségi helyszíne.", ro: "Una dintre ultimele mari păduri primare din Africa de Vest și sit al Patrimoniului Mondial UNESCO.", en: "One of the last major primary forests in West Africa and a UNESCO World Heritage site." },
+    description: { de: "Einer der letzten großen Primärregenwälder Westafrikas und Heimat zahlreicher seltener Tierarten.", hu: "Nyugat-Afrika egyik utolsó nagy őserdeje és UNESCO világörökségi helyszíne.", ro: "Una dintre ultimele mari păduri primare din Africa de Vest și sit al Patrimoniului Mondial UNESCO.", en: "One of the last major primary forests in West Africa and a UNESCO World Heritage site." },
     facts: {
-      de: ["UNESCO-Welterbe.", "Enorme Biodiversität.", "Heimat von Schimpansen.", "Schutzgebiet."],
+      de: ["UNESCO-Welterbe seit 1982", "Fläche ca. 3.300 km²", "Heimat von Zwergflusspferden"],
       hu: ["UNESCO világörökség.", "Hatalmas biodiverzitás.", "Csimpánzok otthona.", "Természetvédelmi terület."],
       ro: ["Patrimoniu Mondial UNESCO.", "Biodiversitate enormă.", "Habitat pentru cimpanzei.", "Arie protejată."],
       en: ["UNESCO World Heritage site.", "Enormous biodiversity.", "Home to chimpanzees.", "Protected area."]
@@ -214,7 +214,7 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
       de: "Der Taï-Wald ist der größte verbliebene zusammenhängende Primärregenwald in Westafrika und ein UNESCO-Weltnaturerbe von unschätzbarem Wert. Er beherbergt eine unglaubliche Artenvielfalt, darunter die berühmten Schimpansen, die Werkzeuge benutzen, sowie das seltene Zwergflusspferd. Der Wald wirkt als gigantischer Klimaregulator für die gesamte Region und ist ein lebendiges Labor für die Erforschung tropischer Ökosysteme. Trotz Schutzstatus bleibt der Erhalt des Waldes eine tägliche Herausforderung gegen Wilderei und illegale Abholzung. Biologie K8 — Regenwälder und Artenschutz."
     },
     factsAdvanced: {
-      de: ["Größter Primärwald Westafrikas.", "UNESCO-Weltnaturerbe seit 1982.", "Heimat der werkzeugnutzenden Schimpansen.", "Wichtigstes Schutzgebiet für Zwergflusspferde.", "Beherbergt über 1.300 Pflanzenarten.", "Klimaregulator für die Elfenbeinküste.", "Umfasst ca. 3.300 Quadratkilometer.", "Zentrum für internationale Primatenforschung."]
+      de: ["Größter Primärwald Westafrikas.", "Heimat der werkzeugnutzenden Schimpansen.", "Wichtigstes Schutzgebiet für Zwergflusspferde.", "Beherbergt über 1.300 Pflanzenarten.", "Klimaregulator für die Elfenbeinküste.", "Umfasst ca. 3.300 Quadratkilometer.", "Zentrum für internationale Primatenforschung."]
     }
   },
   {
@@ -243,11 +243,11 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.6, 7.7],
     name: { de: "Mont Biankouma", hu: "Biankouma-hegy", ro: "Muntele Biankouma", en: "Mount Biankouma" },
-    description: { de: "Ein Gebirgszug nahe der Grenze zu Guinea, bekannt für seine Wälder.", hu: "Hegyvonulat Guinea határának közelében, erdőiről ismert.", ro: "Un lanț muntos lângă granița cu Guineea, cunoscut pentru pădurile sale.", en: "A mountain range near the border with Guinea, known for its forests." },
+    description: { de: "Ein Gebirgszug nahe der Grenze zu Guinea, bekannt für seine Wälder.", hu: "Hegyvonulat Guinea határának közelében, erdőiről ismert.", ro: "Muntele Biankouma domină regiunea vestică, fiind înconjurat de păduri dense și sate tradiționale ale poporului Dan.", en: "A mountain range near the border with Guinea, known for its forests." },
     facts: {
       de: ["Teil des westlichen Hochlandes.", "Dicht bewaldete Hänge.", "Wichtiges Einzugsgebiet.", "Reiches Tierleben."],
       hu: ["A nyugati felföld része.", "Sűrűn erdős lejtők.", "Fontos vízgyűjtő terület.", "Gazdag állatvilág."],
-      ro: ["Parte a zonelor înalte din vest.", "Versanți dens împăduriți.", "Zonă de captare importantă.", "Faună bogată."],
+      ro: ["Parte a munților Tonkpi", "Înconjurat de păduri tropicale", "Zonă de cultură a cafelei", "Tradiții locale Dan"],
       en: ["Part of the western highlands.", "Densely forested slopes.", "Important catchment area.", "Rich animal life."]
     }, image: "/poi-images/mount-biankouma-nature-v2.webp",
     descriptionAdvanced: {
@@ -263,9 +263,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-5.1, 5.2],
     name: { de: "Lagune Yocoboué", hu: "Yocoboué lagúna", ro: "Laguna Yocoboué", en: "Yocoboué Lagoon" },
-    description: { de: "Eine weitere natürliche Lagune im Küstenbereich des Landes.", hu: "További természetes lagúna az ország partvidékén.", ro: "O altă lagună naturală în zona de coastă a țării.", en: "Another natural lagoon in the coastal area of the country." },
+    description: { de: "Ein ökologisch wertvolles Küstengewässer, das durch seine reiche Biodiversität und Mangroven geprägt ist.", hu: "További természetes lagúna az ország partvidékén.", ro: "O altă lagună naturală în zona de coastă a țării.", en: "Another natural lagoon in the coastal area of the country." },
     facts: {
-      de: ["Küstennahes Feuchtgebiet.", "Gute Bedingungen für Wasservögel.", "Ökologisch wertvoll.", "Relativ ruhig."],
+      de: ["Küstenlagune", "Nahe der Stadt Yocoboué", "Wichtiger Lebensraum für Fische"],
       hu: ["Partmenti vizes élőhely.", "Jó körülmények a vízi madaraknak.", "Ökológiailag értékes.", "Viszonylag csendes."],
       ro: ["Zonă umedă de coastă.", "Condiții bune pentru păsările acvatice.", "Valoroasă ecologic.", "Relativ liniștită."],
       en: ["Coastal wetland.", "Good conditions for water birds.", "Ecologically valuable.", "Relatively quiet."]
@@ -283,12 +283,12 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.7, 7.4],
     name: { de: "Mont Tonkpi", hu: "Tonkpi-hegy", ro: "Muntele Tonkpi", en: "Mount Tonkpi" },
-    description: { de: "Einer der vielen Berge in der Tonkpi-Region im Westen der Elfenbeinküste.", hu: "Az egyik a sok hegy közül a nyugati Tonkpi régióban.", ro: "Unul dintre mulții munți din regiunea Tonkpi din vestul Coastei de Fildeș.", en: "One of the many mountains in the Tonkpi region in western Ivory Coast." },
+    description: { de: "Der höchste Gipfel der Bergregion um Man bietet einen weiten Panoramablick über das westliche Hochland.", hu: "A Man városa melletti 1189 méteres csúcs az ország egyik legmagasabb pontja, lenyűgöző panorámát nyújtva a környékre.", ro: "Unul dintre mulții munți din regiunea Tonkpi din vestul Coastei de Fildeș.", en: "Mount Tonkpi is the highest peak in the Man mountain range, rising to 1,189 meters. It is famous for its cool climate and lush coffee and cocoa plantations." },
     facts: {
-      de: ["Teil der 'Stadt der 18 Berge'.", "Grüne Hügellandschaft.", "Wanderregion.", "Kühleres Klima."],
-      hu: ["A '18 hegy városa' része.", "Zöld dombvidék.", "Túraútvonalak.", "Hűvösebb éghajlat."],
+      de: ["Höhe 1.189 Meter", "Teil der Monts du Toura", "Wanderziel bei Man"],
+      hu: ["1189 méter magas csúcs", "Közel Man hegyvidéki városához", "Gyakori ködfátyol a csúcson"],
       ro: ["Parte a 'orașului celor 18 munți'.", "Peisaj colinar verde.", "Regiune de drumeții.", "Climă mai răcoroasă."],
-      en: ["Part of the 'city of 18 mountains'.", "Green hilly landscape.", "Hiking region.", "Cooler climate."]
+      en: ["Highest point in Man region", "Elevation of 1,189 meters", "Rich in tropical vegetation", "Known for mist-covered slopes"]
     }, image: "/poi-images/mount-tonkpi-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Mont Tonkpi ist mit 1.189 Metern einer der höchsten und bekanntesten Berge der Elfenbeinküste. Er thront über der Stadt Man und ist berühmt für sein kühles Nebelklima und die dichten Bergwälder. Auf seinem Gipfel befinden sich wichtige Sendeanlagen, doch für Besucher ist er vor allem wegen der atemberaubenden Aussicht und der reichen Flora, darunter seltene Orchideen, ein Ziel. Der Name 'Tonkpi' bedeutet in der Sprache der Dan 'großer Berg' und unterstreicht seine dominante Präsenz in der westlichen Landschaft. Erdkunde K7 — Hochlandgebiete Westafrikas."
@@ -323,10 +323,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-5.5, 5.2],
     name: { de: "Lagune Fresco", hu: "Fresco lagúna", ro: "Laguna Fresco", en: "Fresco Lagoon" },
-    description: { de: "Eine Küstenlagune nahe der Stadt Fresco.", hu: "Partmenti lagúna Fresco városa közelében.", ro: "O lagună de coastă lângă orașul Fresco.", en: "A coastal lagoon near the town of Fresco." },
+    description: { de: "Eine Küstenlagune nahe der Stadt Fresco.", hu: "A tengerparti Fresco közelében elterülő lagúna-rendszer fontos ökológiai terület, amely számos vízi madárnak ad otthont.", ro: "O lagună de coastă lângă orașul Fresco.", en: "A coastal lagoon near the town of Fresco." },
     facts: {
       de: ["Mangrovenwälder.", "Beliebt bei Touristen.", "Wichtig für die lokale Fischerei.", "Schöne natürliche Umgebung."],
-      hu: ["Mangroveerők.", "Kedvelt turisták körében.", "Fontos a helyi halászatnak.", "Szép természetes környezet."],
+      hu: ["Védett tengerparti ökoszisztéma", "Gazdag mangrove erdők", "Helyi halászati központ"],
       ro: ["Păduri de mangrovi.", "Populară printre turiști.", "Importantă pentru pescuitul local.", "Mediu natural frumos."],
       en: ["Mangrove forests.", "Popular with tourists.", "Important for local fishing.", "Beautiful natural environment."]
     }, image: "/poi-images/lagune-fresco-nature-v2.webp",
@@ -343,9 +343,9 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-5.8, 7.3],
     name: { de: "Marahoué-Wald", hu: "Marahoué-erdő", ro: "Pădurea Marahoué", en: "Marahoué Forest" },
-    description: { de: "Ein bedeutendes Waldgebiet im zentralen Westen des Landes.", hu: "Jelentős erdős terület az ország középnyugati részén.", ro: "O zonă forestieră importantă în centrul-vestul țării.", en: "A significant forest area in the country's central west." },
+    description: { de: "Ein Nationalpark im Zentrum des Landes, der den Übergang zwischen Regenwald und Savanne markiert.", hu: "Jelentős erdős terület az ország középnyugati részén.", ro: "O zonă forestieră importantă în centrul-vestul țării.", en: "A significant forest area in the country's central west." },
     facts: {
-      de: ["Heimat vieler Tierarten.", "Schutzgebiet.", "Teil eines Nationalparks.", "Hohe Biodiversität."],
+      de: ["Gegründet 1968", "Fläche ca. 1.000 km²", "Vorkommen von Elefanten"],
       hu: ["Számos állatfaj otthona.", "Természetvédelmi terület.", "Egy nemzeti park része.", "Magas biodiverzitás."],
       ro: ["Habitat pentru multe specii de animale.", "Arie protejată.", "Parte a unui parc național.", "Biodiversitate ridicată."],
       en: ["Home to many animal species.", "Protected area.", "Part of a national park.", "High biodiversity."]
@@ -383,10 +383,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.5, 7.5],
     name: { de: "Mont Mambl", hu: "Mambl-hegy", ro: "Muntele Mambl", en: "Mount Mambl" },
-    description: { de: "Ein weiterer Gipfel in den westlichen Bergregionen der Elfenbeinküste.", hu: "Újabb csúcs Elefántcsontpart nyugati hegyvidékén.", ro: "Un alt vârf din zonele montane vestice ale Coastei de Fildeș.", en: "Another peak in the western mountain regions of Ivory Coast." },
+    description: { de: "Ein weiterer Gipfel in den westlichen Bergregionen der Elfenbeinküste.", hu: "Egy elszigetelt hegycsúcs, amely a helyi biodiverzitás szempontjából jelentős és különleges mikroklímával rendelkezik.", ro: "Un alt vârf din zonele montane vestice ale Coastei de Fildeș.", en: "Another peak in the western mountain regions of Ivory Coast." },
     facts: {
       de: ["Schöne Wanderwege.", "Dichte Vegetation.", "Ein Teil der westlichen Kette.", "Sehr malerisch."],
-      hu: ["Szép túraútvonalak.", "Sűrű növényzet.", "A nyugati lánc része.", "Nagyon festői."],
+      hu: ["Egyedi hegyi ökoszisztéma", "Ritka növényfajok lelőhelye", "Természetközeli környezet"],
       ro: ["Trasee de drumeție frumoase.", "Vegetație densă.", "Parte a lanțului vestic.", "Foarte pitoresc."],
       en: ["Beautiful hiking trails.", "Dense vegetation.", "Part of the western chain.", "Very picturesque."]
     }, image: "/poi-images/mount-mambl-nature-v2.webp",
@@ -403,10 +403,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-3.7, 5.2],
     name: { de: "Lagune Grand-Bassam", hu: "Grand-Bassam lagúna", ro: "Laguna Grand-Bassam", en: "Grand-Bassam Lagoon" },
-    description: { de: "Eine historische Lagune in der Nähe der ehemaligen Hauptstadt.", hu: "Történelmi jelentőségű lagúna a volt főváros közelében.", ro: "O lagună istorică în apropierea fostei capitale.", en: "A historic lagoon near the former capital." },
+    description: { de: "Ein Teil des Ebrié-Lagunensystems, das die historische Stadt vom Atlantischen Ozean trennt.", hu: "A történelmi város melletti kiterjedt lagúna, ahol az édesvíz és a sós óceáni víz keveredik, gazdag élővilágot teremtve.", ro: "O lagună istorică în apropierea fostei capitale.", en: "A historic lagoon near the former capital." },
     facts: {
-      de: ["UNESCO-Weltkulturerbe in der Nähe.", "Wichtige Ökosystem-Zone.", "Vogelschutz.", "Sehr bekanntes Touristenziel."],
-      hu: ["UNESCO világörökség a közelben.", "Fontos ökoszisztéma-zóna.", "Madárvédelem.", "Nagyon ismert turisztikai célpont."],
+      de: ["Teil des Ebrié-Systems", "Östlich von Abidjan", "Mischwasser-Ökosystem"],
+      hu: ["Közvetlen kapcsolat az óceánnal", "Hagyományos kenus közlekedés", "Turisztikai hajóutak helyszíne"],
       ro: ["Patrimoniu Mondial UNESCO în apropiere.", "Zonă de ecosistem importantă.", "Protecția păsărilor.", "Destinație turistică foarte cunoscută."],
       en: ["UNESCO World Heritage site nearby.", "Important ecosystem zone.", "Bird protection.", "Very well-known tourist destination."]
     }, image: "/poi-images/lagune-grand-bassam-nature-v2.webp",
@@ -423,10 +423,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.4, 5.9],
     name: { de: "Cavally-Wald", hu: "Cavally-erdő", ro: "Pădurea Cavally", en: "Cavally Forest" },
-    description: { de: "Ein bedeutendes Waldschutzgebiet im Westen des Landes am Cavally-Fluss.", hu: "Jelentős erdővédelmi terület az ország nyugati részén, a Cavally-folyó mellett.", ro: "O arie forestieră protejată importantă în vestul țării, lângă râul Cavally.", en: "An important forest protected area in the west of the country along the Cavally River." },
+    description: { de: "Ein bedeutendes Waldschutzgebiet im Westen des Landes am Cavally-Fluss.", hu: "A libériai határ közelében fekvő Cavally-erdő az ország egyik utolsó érintetlen trópusi esőerdője, veszélyeztetett fajokkal.", ro: "O arie forestieră protejată importantă în vestul țării, lângă râul Cavally.", en: "An important forest protected area in the west of the country along the Cavally River." },
     facts: {
       de: ["Wichtiges Schutzgebiet.", "Dichter Regenwald.", "Hohe Biodiversität.", "Schutz für bedrohte Tierarten."],
-      hu: ["Fontos védett terület.", "Sűrű esőerdő.", "Magas biodiverzitás.", "Védelem a veszélyeztetett állatfajoknak."],
+      hu: ["Határmenti trópusi esőerdő", "Csimpánzok és erdei elefántok otthona", "Szigorúan védett természetvédelmi terület"],
       ro: ["Arie protejată importantă.", "Pădure tropicală densă.", "Biodiversitate ridicată.", "Protecție pentru specii de animale pe cale de dispariție."],
       en: ["Important protected area.", "Dense rainforest.", "High biodiversity.", "Protection for endangered animal species."]
     }, image: "/poi-images/cavally-forest-nature-v2.webp",
@@ -443,11 +443,11 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.8, 7.2],
     name: { de: "Mont Ni", hu: "Ni-hegy", ro: "Muntele Ni", en: "Mount Ni" },
-    description: { de: "Ein kleinerer, aber bedeutender Berg in der westlichen Region.", hu: "Kisebb, de jelentős hegy a nyugati régióban.", ro: "Un munte mai mic, dar important, în regiunea vestică.", en: "A smaller but significant mountain in the western region." },
+    description: { de: "Ein kleinerer, aber bedeutender Berg in der westlichen Region.", hu: "Kisebb, de jelentős hegy a nyugati régióban.", ro: "Muntele Ni oferă peisaje montane spectaculoase și un climat mai răcoros, fiind o destinație populară pentru drumeții în vestul țării.", en: "A smaller but significant mountain in the western region." },
     facts: {
       de: ["Gute Wandermöglichkeiten.", "Grüne Umgebung.", "Kühlere Temperaturen.", "Teil der Tonkpi-Berge."],
       hu: ["Jó túrázási lehetőségek.", "Zöld környezet.", "Hűvösebb hőmérséklet.", "A Tonkpi-hegyek része."],
-      ro: ["Posibilități bune de drumeție.", "Mediu verde.", "Temperaturi mai scăzute.", "Parte a munților Tonkpi."],
+      ro: ["Peisaje montane verzi", "Climat montan răcoros", "Ideal pentru drumeții", "Biodiversitate bogată"],
       en: ["Good hiking possibilities.", "Green surroundings.", "Cooler temperatures.", "Part of the Tonkpi mountains."]
     }, image: "/poi-images/mount-ni-nature-v2.webp",
     descriptionAdvanced: {
@@ -483,12 +483,12 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.3, 7.9],
     name: { de: "Mont Gouane", hu: "Gouane-hegy", ro: "Muntele Gouane", en: "Mount Gouane" },
-    description: { de: "Ein Bergzug im westlichen Teil des Landes.", hu: "Hegyvonulat az ország nyugati részén.", ro: "Un lanț muntos în partea vestică a țării.", en: "A mountain range in the western part of the country." },
+    description: { de: "Ein markanter Gipfel in der hügeligen Landschaft der Region Tonkpi im Westen der Elfenbeinküste.", hu: "A nyugati régió egyik jellegzetes hegye, amely a helyi közösségek számára spirituális jelentőséggel is bír.", ro: "Muntele Gouane este un reper natural impresionant în regiunea Tonkpi, având o importanță spirituală majoră pentru comunitățile locale.", en: "Located near the city of Man, Mount Gouane offers spectacular views of the surrounding mountainous landscape. The area is covered in dense tropical rainforest and granite outcrops." },
     facts: {
-      de: ["Teil der westlichen Bergregion.", "Landschaftlich sehr schön.", "Ideal für Naturerlebnisse.", "Dichte Wälder."],
-      hu: ["A nyugati hegyvidék része.", "Tájilag nagyon szép.", "Ideális természetélményekhez.", "Sűrű erdők."],
-      ro: ["Parte a regiunii montane vestice.", "Foarte frumos peisagistic.", "Ideal pentru experiențe în natură.", "Păduri dense."],
-      en: ["Part of the western mountain region.", "Very scenic.", "Ideal for nature experiences.", "Dense forests."]
+      de: ["Region Tonkpi", "Westliches Hochland", "Vulkanischen Ursprungs"],
+      hu: ["Man régiójának része", "Meredek sziklás oldalak", "Spirituális zarándokhely"],
+      ro: ["Vârf stâncos proeminent", "Semnificație spirituală", "Vederi panoramice", "Vegetație montană specifică"],
+      en: ["Granite mountain peak", "Located in western Ivory Coast", "Dense tropical rainforest", "Popular hiking destination"]
     }, image: "/poi-images/mount-gouane-nature-v2.webp"},
   {
     id: "lagune-assinie-nature-v2",
@@ -496,10 +496,10 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-3.2, 5.1],
     name: { de: "Lagune Assinie", hu: "Assinie lagúna", ro: "Laguna Assinie", en: "Assinie Lagoon" },
-    description: { de: "Eine beliebte Lagune im Osten nahe der Grenze zu Ghana.", hu: "Kedvelt lagúna keleten, közel Ghána határához.", ro: "O lagună populară în est, aproape de granița cu Ghana.", en: "A popular lagoon in the east near the border with Ghana." },
+    description: { de: "Eine beliebte Lagune im Osten nahe der Grenze zu Ghana.", hu: "Elefántcsontpart egyik legnépszerűbb üdülőhelye, ahol a kristálytiszta lagúna és az óceánpart luxus környezetet kínál.", ro: "O lagună populară în est, aproape de granița cu Ghana.", en: "A popular lagoon in the east near the border with Ghana." },
     facts: {
       de: ["Sehr beliebtes Touristenziel.", "Wassersportmöglichkeiten.", "Schöne Strände.", "Große Biodiversität."],
-      hu: ["Nagyon kedvelt turisztikai célpont.", "Vízi sportolási lehetőségek.", "Szép strandok.", "Nagy biodiverzitás."],
+      hu: ["Prémium turisztikai desztináció", "Vízi sportok központja", "Közel a ghánai határhoz"],
       ro: ["Destinație turistică foarte populară.", "Posibilități de sporturi acvatice.", "Plaje frumoase.", "Biodiversitate mare."],
       en: ["Very popular tourist destination.", "Water sports opportunities.", "Beautiful beaches.", "Great biodiversity."]
     }, image: "/poi-images/lagune-assinie-nature-v2.webp"},
@@ -522,11 +522,11 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-6.0, 4.8],
     name: { de: "Sassandra-Küste", hu: "Sassandra-part", ro: "Coasta Sassandra", en: "Sassandra Coast" },
-    description: { de: "Ein malerischer Küstenabschnitt am Atlantik bei Sassandra.", hu: "Festői partszakasz az Atlanti-óceánon Sassandra mellett.", ro: "O secțiune de coastă pitorească la Atlantic lângă Sassandra.", en: "A scenic stretch of coast on the Atlantic near Sassandra." },
+    description: { de: "Ein malerischer Küstenabschnitt am Atlantik bei Sassandra.", hu: "Festői partszakasz az Atlanti-óceánon Sassandra mellett.", ro: "Coasta Sassandra este renumită pentru plajele sale sălbatice și stâncoase, unde râul Sassandra se întâlnește cu apele Atlanticului.", en: "A scenic stretch of coast on the Atlantic near Sassandra." },
     facts: {
       de: ["Wunderschöne Strände.", "Ideal für Erholung.", "Reiche Meeresfauna.", "Besondere Küstenformationen."],
       hu: ["Csodálatos strandok.", "Ideális kikapcsolódásra.", "Gazdag tengeri élővilág.", "Különleges partvonalak."],
-      ro: ["Plaje superbe.", "Ideală pentru relaxare.", "Faună marină bogată.", "Formațiuni costiere deosebite."],
+      ro: ["Plaje sălbatice pitorești", "Gură de vărsare a râului", "Peisaj costier stâncos", "Destinație de relaxare"],
       en: ["Beautiful beaches.", "Ideal for relaxation.", "Rich marine wildlife.", "Special coastal formations."]
     }, image: "/poi-images/sassandra-coastal-nature-v2.webp"},
   {
@@ -535,12 +535,12 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-5.4, 5.3],
     name: { de: "Lagune Fresco Ost", hu: "Fresco-keleti lagúna", ro: "Laguna Fresco Est", en: "Fresco East Lagoon" },
-    description: { de: "Der östliche Teil der Lagune von Fresco.", hu: "A Fresco-lagúna keleti része.", ro: "Partea de est a lagunei din Fresco.", en: "The eastern part of the lagoon of Fresco." },
+    description: { de: "Die östliche Lagune bei Fresco ist ein ruhiges Gewässer, das von dichten Mangrovenwäldern gesäumt wird.", hu: "A Fresco-lagúna keleti szakasza, amely érintetlen környezetével és vadvilágával tűnik ki a parti régióban.", ro: "Laguna Fresco Est este un ecosistem umed protejat, caracterizat prin păduri de mangrove și o bogată faună aviară.", en: "The eastern Fresco lagoon is a vital coastal ecosystem where freshwater rivers meet the Atlantic Ocean. It provides essential nesting grounds for various bird species and marine life." },
     facts: {
-      de: ["Ruhige Zone.", "Wichtig für den Artenschutz.", "Nährstoffreiche Gewässer.", "Nahe dem Meer."],
-      hu: ["Csendes zóna.", "Fontos a fajvédelemnek.", "Tápanyagban gazdag vizek.", "Közel a tengerhez."],
-      ro: ["Zonă liniștită.", "Importantă pentru conservarea speciilor.", "Ape bogate în nutrienți.", "Lângă mare."],
-      en: ["Quiet zone.", "Important for species conservation.", "Nutrient-rich waters.", "Near the sea."]
+      de: ["Küstenregion Fresco", "Vorkommen von Rundschwanzseekühen", "Mangroven-Lebensraum"],
+      hu: ["Érintetlen mocsárvidék", "Ritka madárfajok fészkelőhelye", "Fontos természetvédelmi zóna"],
+      ro: ["Păduri de mangrove dense", "Habitat pentru păsări rare", "Zonă umedă protejată", "Pescuit tradițional"],
+      en: ["Coastal lagoon system", "Rich marine biodiversity", "Important bird habitat", "Mangrove ecosystem"]
     }, image: "/poi-images/lagune-fresco-est-nature-v2.webp"},
   {
     id: "mount-niam-nature-v2",
@@ -548,12 +548,12 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.2, 7.7],
     name: { de: "Mont Niam", hu: "Niam-hegy", ro: "Muntele Niam", en: "Mount Niam" },
-    description: { de: "Ein kleiner Berg in der Nähe von Man.", hu: "Egy kis hegy Man városának közelében.", ro: "Un munte mic lângă orașul Man.", en: "A small mountain near the town of Man." },
+    description: { de: "Ein Bergmassiv im Westen des Landes, das Teil der geologischen Formationen nahe der Grenze zu Guinea ist.", hu: "Az északi szavannás területeken magasodó izolált hegy, amely látványos kontrasztot alkot a sík vidékkel.", ro: "Muntele Niam este o formațiune granitică izolată în vestul țării, oferind un habitat unic pentru numeroase specii endemice.", en: "Mount Niam is a significant rocky outcrop located in the northern savanna region near Boundiali. It stands as a prominent landmark in an otherwise flat landscape." },
     facts: {
-      de: ["Schöne Ausblicke.", "Grüne Landschaft.", "Wanderregion.", "Dichte Vegetation."],
-      hu: ["Szép kilátások.", "Zöld táj.", "Túrarégió.", "Sűrű növényzet."],
-      ro: ["Vederi frumoase.", "Peisaj verde.", "Regiune de drumeție.", "Vegetație densă."],
-      en: ["Beautiful views.", "Green landscape.", "Hiking region.", "Dense vegetation."]
+      de: ["Westliche Elfenbeinküste", "Granitische Felsformationen", "Bedeutendes Wassereinzugsgebiet"],
+      hu: ["Északi szavanna régió", "Magányos kiemelkedés", "Panoráma a szavannára"],
+      ro: ["Formațiune de granit", "Vederi asupra savanei", "Habitat pentru specii rare", "Zonă de drumeție liniștită"],
+      en: ["Northern savanna landmark", "Granite rock formation", "Near the town of Boundiali", "Local spiritual significance"]
     }, image: "/poi-images/mount-niam-nature-v2.webp"},
   {
     id: "mount-toura-nature-v2",
@@ -561,11 +561,11 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     parent: "CI-CI",
     coords: [-7.4, 7.8],
     name: { de: "Mont Toura", hu: "Toura-hegy", ro: "Muntele Toura", en: "Mount Toura" },
-    description: { de: "Ein Berg in der Toura-Region im Westen des Landes.", hu: "Hegy a nyugati Toura-régióban.", ro: "Un munte în regiunea Toura din vestul țării.", en: "A mountain in the Toura region in the west of the country." },
+    description: { de: "Ein Berg in der Toura-Region im Westen des Landes.", hu: "Hegy a nyugati Toura-régióban.", ro: "Munții Toura reprezintă un lanț muntos împădurit în vest, esențial pentru reglarea climatului local și a resurselor de apă.", en: "A mountain in the Toura region in the west of the country." },
     facts: {
       de: ["Schöne Wanderwege.", "Grüne Umgebung.", "Kühlere Temperaturen.", "Teil des westlichen Berglandes."],
       hu: ["Szép túraútvonalak.", "Zöld környezet.", "Hűvösebb hőmérséklet.", "A nyugati hegyvidék része."],
-      ro: ["Trasee de drumeție frumoase.", "Mediu verde.", "Temperaturi mai scăzute.", "Parte a zonelor montane din vest."],
+      ro: ["Lanț muntos împădurit", "Sursă importantă de apă", "Biodiversitate tropicală", "Climat montan umed"],
       en: ["Beautiful hiking trails.", "Green surroundings.", "Cooler temperatures.", "Part of the western mountain region."]
       }
   }

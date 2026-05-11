@@ -1,0 +1,130 @@
+{
+  "lang": "hu",
+  "country": "Haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "haiti-monument-pétion-landmarks-v2",
+      "description": "Alexandre Pétion, Haiti egyik alapító atyjának szentelt emlékmű, amely a nemzeti egységet jelképezi.",
+      "facts": [
+        "A köztársaság első elnökének tiszteletére",
+        "Művészi bronzszobor",
+        "Díszkerttel körülvett",
+        "Történelmi zarándokhely"
+      ]
+    },
+    {
+      "id": "haiti-fort-brossard-landmarks-v2",
+      "description": "Egy eldugottabb hegyi erőd, amely a forradalom utáni védelmi láncolat részét képezte.",
+      "facts": [
+        "Strategikus magaslati pont",
+        "Mészkőből épült falak",
+        "Katonai örökségi helyszín",
+        "Túracélpont a természetben"
+      ]
+    },
+    {
+      "id": "haiti-place-toussaint-landmarks-v2",
+      "description": "Toussaint Louverture tiszteletére emelt tér, amely a függetlenségi harcos hősies alakja előtt tiszteleg.",
+      "facts": [
+        "A városi élet központja",
+        "Ünnepi megemlékezések helyszíne",
+        "Látványos szoborkompozíció",
+        "Közkedvelt sétálóövezet"
+      ]
+    },
+    {
+      "id": "haiti-fort-st-joseph-landmarks-v2",
+      "description": "Tengerparti erődítmény, amely az öblök és a kikötők bejáratát védte az idegen inváziók ellen.",
+      "facts": [
+        "Part menti tüzérségi bázis",
+        "XVIII. századi francia alapok",
+        "Ágyúnyílások a falakon",
+        "A tengeri hadviselés emléke"
+      ]
+    },
+    {
+      "id": "ferme-ecologique-jacmel-life-v2",
+      "description": "Mintagazdaság Jacmel mellett, ahol fenntartható mezőgazdasági módszereket és biogazdálkodást folytatnak.",
+      "facts": [
+        "Ökológiai oktatóközpont",
+        "Vegyszermentes zöldségtermesztés",
+        "Megújuló energiahasználat",
+        "Közösségi kertmozgalom"
+      ]
+    },
+    {
+      "id": "parc-miraculeux-pa-p-life-v2",
+      "description": "Port-au-Prince-ben található spirituális és közösségi park, amely nyugodt szigetet biztosít a városi forgatagban.",
+      "facts": [
+        "Meditációs helyszínek",
+        "Dús trópusi növényzet",
+        "Vallási szertartások tere",
+        "Családi pihenőhely"
+      ]
+    },
+    {
+      "id": "parc-enfants-jeremie-life-v2",
+      "description": "Jérémie városának népszerű játszótere és szabadidőparkja, amely kifejezetten a gyermekek kikapcsolódását szolgálja.",
+      "facts": [
+        "Modern játékpark",
+        "Biztonságos zöldövezet",
+        "Iskolai kirándulások célpontja",
+        "Szabadtéri sportpályák"
+      ]
+    },
+    {
+      "id": "plantation-cacao-grand-anse-life-v2",
+      "description": "A Grand'Anse régió hatalmas kakaóültetvényei, ahol a világ egyik legfinomabb aromájú kakaóbabja terem.",
+      "facts": [
+        "Hagyományos fermentálási módok",
+        "Árnyékos erdei ültetvények",
+        "Haiti fő kakaótermő vidéke",
+        "Fenntartható forrásból"
+      ]
+    },
+    {
+      "id": "jardin-fruitier-saint-marc-life-v2",
+      "description": "Saint-Marc környéki kiterjedt gyümölcsöskert, amely egzotikus trópusi gyümölcsökkel látja el a helyi piacokat.",
+      "facts": [
+        "Mangó- és citrusfélék",
+        "Friss gyümölcslé-feldolgozás",
+        "Termékeny vulkáni talaj",
+        "Helyi kistermelők bázisa"
+      ]
+    },
+    {
+      "id": "reserve-marine-cap-haitien-life-v2",
+      "description": "Védett tengeri övezet Cap-Haïtien partjainál, amely a korallzátonyok és a tengeri élővilág megőrzését szolgálja.",
+      "facts": [
+        "Színpompás korallkertek",
+        "Veszélyeztetett fajok menedéke",
+        "Környezetbarát búvárkodás",
+        "Tengerbiológiai kutatóhely"
+      ]
+    },
+    {
+      "id": "centre-edu-agriculture-miragoane-life-v2",
+      "description": "Mezőgazdasági oktatóközpont Miragoâne közelében, ahol a modern földművelési technikákat oktatják a helyi gazdáknak.",
+      "facts": [
+        "Gyakorlati képzőhely",
+        "Vetőmag-nemesítési programok",
+        "Öntözéstechnikai bemutatók",
+        "Agrár-innovációs bázis"
+      ]
+    },
+    {
+      "id": "parc-naturel-riviere-froide-life-v2",
+      "description": "A Rivière Froide folyó mentén húzódó természetvédelmi terület, amely hűsítő vizeiről és vízeséseiről ismert.",
+      "facts": [
+        "Természetes medencék",
+        "Bujja hegyi erdőség",
+        "Népszerű hétvégi kirándulóhely",
+        "Madármegfigyelő pontok"
+      ]
+    }
+  ]
+}

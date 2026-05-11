@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "banankoro-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Banankoro ist ein bedeutendes urbanes Zentrum in der Präfektur Kérouané, im Osten Guineas, und gilt weltweit als das Herz des guineischen Diamantensektors. Die Stadt liegt in einer strategisch wichtigen Zone am Ufer des Baoulé-Flusses, in einer Landschaft, die durch die Ausläufer der Highlands von Oberguinea und dichte Galeriewälder geprägt ist. Die Geschichte von Banankoro ist untrennbar mit dem Fund von Diamantenvorkommen in der Mitte des 20. Jahrhunderts verbunden, was zu einem rasanten Bevölkerungswachstum und einer massiven Urbanisierung führte. Wirtschaftlich dominiert der handwerkliche und industrielle Diamantenabbau das gesamte Leben der Stadt; Banankoro fungiert als primärer Sammel- und Handelsplatz für Edelsteine, die in den umliegenden alluvialen Lagerstätten gewonnen werden. Neben dem Bergbau spielt die Landwirtschaft eine unterstützende Rolle, wobei vor allem Reis und Maniok für die lokale Versorgung angebaut werden. Aufgrund des Reichtums der Region ist die Stadt ein Schmelztiegel für Menschen aus ganz Westafrika, was zu einer hohen kulturellen Diversität, aber auch zu infrastrukturellen Herausforderungen führt. Die Stadtentwicklung ist stark von der Fluktuation der Weltmarktpreise für Rohstoffe abhängig.",
+        "hu": "Banankoro Guinea keleti részén, a Kérouané prefektúrában található, és az ország gyémántkereskedelmének vitathatatlan központja. A Baoulé-folyó partján fekvő település földrajzi környezetét a felső-guineai fennsíkok és a folyómenti galériaerdők határozzák meg. Banankoro története a 20. század közepén vett gyökeres fordulatot, amikor a környéken gazdag gyémántlelőhelyeket fedeztek fel, ami az addig jelentéktelen falut nyüzsgő várossá emelte. A helyi gazdaság szinte kizárólag a drágakövek kitermelésére és értékesítésére épül; a város az elsődleges bázisa mind a kisüzemi aranymosóknak, mind a nagyobb bányászati vállalkozásoknak. A környező hordalékos talajból kinyert gyémántok a világpiacra kerülnek, a városban pedig számos felvásárlóhely és műhely működik. A bányászat mellett a lakosság egy része rizst és maniókát termeszt az önellátás érdekében. Banankoro etnikai szempontból az ország egyik legsokszínűbb települése, mivel a gyémántláz egész Nyugat-Afrikából vonzotta ide a szerencsevadászokat és kereskedőket. A város infrastruktúrája folyamatos fejlesztés alatt áll, hogy kiszolgálja a bányászati boom okozta népességnövekedést.",
+        "ro": "Banankoro este un centru urban major în prefectura Kérouané, situat în estul Guineei, fiind recunoscut drept inima sectorului diamantifer al țării. Orașul este amplasat strategic pe malul râului Baoulé, într-un relief caracterizat prin platourile înalte ale Guineei Superioare și păduri de galerie dense. Istoria localității Banankoro a fost transformată radical în a doua jumătate a secolului XX, odată cu descoperirea zăcămintelor de diamante, fapt care a declanșat o urbanizare rapidă și o creștere demografică masivă. Economia este dominată aproape în totalitate de mineritul artizanal și industrial al diamantelor, orașul funcționând ca principal punct de colectare și tranzacționare a pietrelor prețioase extrase din depozitele aluvionare din împrejurimi. Pe lângă activitatea minieră, agricultura de subzistență (orez, manioc) joacă un rol secundar în economia locală. Datorită bogăției resurselor, Banankoro a devenit un mozaic etnic, atrăgând migranți din întreaga Africă de West. Această dinamică socio-economică aduce atât prosperitate, cât și provocări legate de gestionarea resurselor și a infrastructurii urbane, care trebuie să țină pasul cu expansiunea constantă a orașului.",
+        "en": "Banankoro is a significant urban center in the Kérouané Prefecture, located in eastern Guinea. It is famously known as the heart of the country's diamond industry. Situated on the banks of the Baoulé River, the town's geography is defined by the rolling highlands of Upper Guinea and dense riverine forests. Banankoro's history shifted dramatically in the mid-20th century following the discovery of vast diamond deposits, which transformed the settlement into a bustling mining hub. The local economy is almost entirely driven by the artisanal and industrial extraction of diamonds; the town serves as the primary collection and trading point for gemstones found in the surrounding alluvial deposits. Beyond mining, subsistence agriculture focusing on rice and cassava supports the local population. Due to its mineral wealth, Banankoro is an ethnic melting pot, attracting traders and miners from across West Africa. The town's rapid growth has created a dynamic yet challenging urban environment, with infrastructure development often struggling to keep pace with the influx of people drawn by the gemstone trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Banankoro ist das wichtigste Zentrum für den Diamantenhandel in Guinea.",
+          "Die Stadt liegt im Einzugsgebiet des Baoulé-Flusses.",
+          "Ein Großteil der Diamanten wird durch handwerkliche Schürfung gewonnen.",
+          "In der Stadt gibt es eine hohe Konzentration an lizenzierten Edelsteinkäufern.",
+          "Banankoro hat eine der höchsten Bevölkerungsdichten der Region Kankan.",
+          "Die Infrastruktur der Stadt wird teilweise durch Bergbauabgaben finanziert."
+        ],
+        "hu": [
+          "Banankoro Guinea legfontosabb gyémántkereskedelmi csomópontja.",
+          "A település a Baoulé-folyó mentén, stratégiai bányászati övezetben fekszik.",
+          "A gyémántok többségét hagyományos, kisipari módszerekkel nyerik ki.",
+          "A városban számos nemzetközi drágakő-felvásárló irodája megtalálható.",
+          "A lakosság száma a gyémántleletek függvényében dinamikusan változik.",
+          "A település fontos logisztikai bázis a Kérouané prefektúra bányái számára."
+        ],
+        "ro": [
+          "Banankoro este centrul vital pentru exportul de diamante al Guineei.",
+          "Localitatea este traversată de râul Baoulé, esențial pentru spălarea sedimentelor.",
+          "Exploatarea diamantelor se face în mare parte prin metode artizanale în albiile râurilor.",
+          "Orașul găzduiește o piață săptămânală de diamante cu rezonanță regională.",
+          "Datorită minelor, orașul are o rată de urbanizare mult peste media națională.",
+          "Banankoro reprezintă un pol de atracție pentru forța de muncă din țările vecine."
+        ],
+        "en": [
+          "Banankoro is the primary hub for the diamond trade in the Republic of Guinea.",
+          "The town is situated near the Baoulé River, which is key to alluvial mining.",
+          "Artisanal mining remains the leading source of income for most residents.",
+          "It features a high concentration of government-licensed diamond buying offices.",
+          "Banankoro has experienced some of the fastest urban growth in eastern Guinea.",
+          "The regional economy is sensitive to global fluctuations in gemstone prices."
+        ]
+      }
+    },
+    {
+      "id": "tinka-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tinka ist eine malerische Siedlung in der Präfektur Dalaba, gelegen im zentralen Hochland des Fouta Djallon. Die Ortschaft ist vor allem für ihre außergewöhnliche geografische Lage auf einem Bergrücken bekannt, der spektakuläre Panoramablicke über die tiefen Täler und Plateaus der Region bietet. Das Klima in Tinka ist für guineische Verhältnisse ungewöhnlich mild und kühl, was die Gegend zu einem attraktiven Ziel für Wanderer und Naturbegeisterte macht. Die Umgebung ist geprägt durch eine Mischung aus Primärwäldern, Pinienhainen – die während der Kolonialzeit gepflanzt wurden – und terrassierten landwirtschaftlichen Flächen. Wirtschaftlich basiert Tinka auf dem kleinbäuerlichen Gartenbau, wobei der Anbau von Erdbeeren, Orangen und verschiedenen Gemüsesorten dominiert, die vom kühlen Gebirgsklima profitieren. Kulturell ist der Ort tief in den Traditionen der Peul verwurzelt, wobei das soziale Leben oft um die lokale Moschee und traditionelle Gemeinschaftsversammlungen kreist. Tinka gilt als ein Ort der Ruhe und spirituellen Bedeutung innerhalb der Region Dalaba. Die Architektur der Wohnhäuser kombiniert oft traditionelle Lehmbauweise mit modernen Elementen, angepasst an das feuchte Bergklima.",
+        "hu": "Tinka egy festői település a Dalaba prefektúrában, a Fouta Djallon-hegység központi vonulatai között. A falu legfőbb vonzereje a lenyűgöző földrajzi elhelyezkedése: egy magaslati gerincen fekszik, ahonnan páratlan kilátás nyílik a környék mély völgyeire és sziklás fennsíkjaira. Tinka éghajlata a tengerszint feletti magasságnak köszönhetően friss és hűvös, ami éles ellentétben áll a guineai síkságok párás forróságával. A tájat fenyőerdők, buja kertek és meredek hegyoldalak tagolják. A helyi gazdaság alapja a magaslati kertészet; Tinka híres az itt termelt eperről, citrusfélékről és mérsékelt égövi zöldségekről, amelyeket Dalaba és Labé piacaira szállítanak. Kulturális szempontból a település hűen őrzi a fula pásztornépek hagyományait, a közösségi élet pedig szoros vallási és családi kötelékeken alapul. A település népszerű kiindulópontja a hegyi túráknak, mivel innen könnyen elérhetőek a környék vízesései és sziklaformációi. Az építészetben ma is dominálnak a hagyományos kerek házak, amelyek jól illeszkednek a hegyvidéki tájba.",
+        "ro": "Tinka este o așezare pitorească situată în prefectura Dalaba, în zona înaltă a masivului Fouta Djallon. Localitatea este renumită pentru poziția sa geografică privilegiată pe o creastă montană, oferind panorame spectaculoase asupra văilor adânci și a platourilor înconjurătoare. Climatul din Tinka este unul dintre cele mai plăcute din Guineea, fiind marcat de temperaturi scăzute și aer curat de munte, ceea ce atrage vizitatori pasionați de ecoturism. Peisajul este un amestec de vegetație nativă, păduri de pini introduse în perioada colonială și grădini terasate. Din punct de vedere economic, Tinka se bazează pe horticultură; fermierii locali profită de răcoarea muntelui pentru a cultiva căpșuni, portocale și legume fine, care sunt comercializate în centrele urbane din apropiere. Comunitatea este formată predominant din etnici Fula, păstrând tradiții seculare în ceea ce privește organizarea socială și religioasă. Tinka este considerată o oază de liniște, fiind adesea vizitată pentru frumusețea sa naturală și pentru arhitectura vernaculară bine conservată, adaptată condițiilor climatice montane.",
+        "en": "Tinka is a scenic settlement in the Dalaba Prefecture, located in the central highlands of the Fouta Djallon. The village is primarily known for its extraordinary geographic setting on a mountain ridge, offering spectacular panoramic views over the deep valleys and rocky plateaus of the region. The climate in Tinka is unusually mild and cool for Guinea, making it an attractive destination for hikers and nature enthusiasts. The surrounding landscape features a mix of indigenous forests, pine groves planted during the colonial era, and terraced agricultural plots. Economically, Tinka relies on small-scale market gardening, dominated by the cultivation of strawberries, oranges, and various vegetables that benefit from the cooler highland air. Culturally, the town is deeply rooted in Fula traditions, with social life revolving around the local mosque and communal gatherings. Tinka is regarded as a place of tranquility and spiritual significance within the Dalaba region. The architecture often blends traditional clay-based construction with modern touches, designed to withstand the humid mountain climate."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Tinka ist einer der höchstgelegenen bewohnten Orte in der Präfektur Dalaba.",
+          "Die Ortschaft ist bekannt für ihre weitreichenden Panoramablicke.",
+          "Erdbeeren aus Tinka gelten als regionale Spezialität.",
+          "Das Klima ermöglicht den Anbau von Pflanzen, die sonst in Westafrika selten sind.",
+          "Die Architektur zeigt den typischen Stil der Fouta-Djallon-Hochlanddörfer.",
+          "Tinka liegt an einem wichtigen Wanderweg zum Pont de Dieu."
+        ],
+        "hu": [
+          "Tinka Dalaba prefektúra egyik legmagasabban fekvő települése.",
+          "A falu panorámája miatt a fotósok és túrázók kedvelt célpontja.",
+          "A környék az ország egyik legfontosabb epertermő területe.",
+          "Az éghajlat alkalmas a mérsékelt égövi gyümölcsök termesztésére.",
+          "A település megőrizte a fula népi építészet jellegzetes stílusát.",
+          "Tinka közelében található több látványos hegyi forrás és vízesés."
+        ],
+        "ro": [
+          "Tinka este renumit pentru vederile sale panoramice deasupra canioanelor Dalaba.",
+          "Localitatea beneficiază de un microclimat montan răcoros și umed.",
+          "Cultivarea căpșunilor reprezintă o sursă principală de venit pentru localnici.",
+          "Arhitectura tradițională este reprezentată prin case circulare cu acoperiș de paie.",
+          "Tinka servește ca punct de oprire pentru traseele de trekking din Fouta Djallon.",
+          "Pădurile de pini din jur oferă un peisaj unic în contextul guinean."
+        ],
+        "en": [
+          "Tinka is one of the highest points of habitation in the Dalaba Prefecture.",
+          "The village is famous for its commanding views over the surrounding plateaus.",
+          "Strawberry farming is a signature agricultural activity in the Tinka area.",
+          "The local climate supports the growth of temperate-zone fruits and vegetables.",
+          "Tinka's social structure is typical of traditional Fula mountain communities.",
+          "It is a strategic base for exploring the 'Pont de Dieu' natural bridge nearby."
+        ]
+      }
+    },
+    {
+      "id": "friguiagbe-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Friguiagbé ist ein bedeutendes landwirtschaftliches Zentrum in der Präfektur Kindia, etwa 15 Kilometer vom Stadtzentrum Kindias entfernt in der Region Maritime Guinea. Geografisch liegt der Ort am Fuße des Gangan-Massivs, in einer Zone, die durch fruchtbare rote Lateritböden und ein feuchttropisches Klima geprägt ist. Friguiagbé ist landesweit als der „Obstgarten Guineas“ bekannt, da hier die größten Mengen an Bananen, Ananas und Zitrusfrüchten für den Export und den inländischen Markt produziert werden. Die Wirtschaft ist fast vollständig auf den Gartenbau ausgerichtet, wobei sowohl große Plantagen als auch kleinbäuerliche Kooperativen das Bild prägen. Die strategische Lage an der Nationalstraße N1 macht Friguiagbe zu einem wichtigen Umschlagplatz für Agrarprodukte, die täglich in die Hauptstadt Conakry transportiert werden. Neben der Landwirtschaft ist die Region für ihre landschaftliche Schönheit bekannt, mit Blick auf die markanten Granitfelsen von Kindia. Die Bevölkerung ist eine Mischung aus Susu und Peul, was zu einem regen kulturellen Austausch und einer vielfältigen Marktkultur führt. Friguiagbé beherbergt zudem Forschungseinrichtungen für tropische Landwirtschaft, die zur Modernisierung der lokalen Anbauteuren beitragen.",
+        "hu": "Friguiagbé egy fontos mezőgazdasági központ Alsó-Guineában, Kindia prefektúrában, a régióközponttól mintegy 15 kilométerre. A település a Gangan-hegység lábánál fekszik, egy olyan övezetben, amelyet a termékeny vörös laterit talaj és a bőséges csapadékkal járó trópusi éghajlat jellemez. Friguiagbé Guinea „gyümölcsöskertjeként” ismert, mivel itt termelik az ország legtöbb banánját, ananászát és citrusféléjét, amelyek mind a hazai, mind az exportpiacokra eljutnak. A helyi gazdaság gerincét az intenzív gyümölcstermesztés és az agrárkereskedelem adja, ahol a nagyüzemi ültetvények és a kistermelői szövetkezetek egyaránt jelen vannak. Az N1-es országút menti elhelyezkedése lehetővé teszi, hogy a város fontos elosztóközpont legyen, ahonnan naponta friss áru érkezik a fővárosba, Conakryba. A tájképet a Kindia környéki látványos gránitfalak és a sűrű növényzet uralja. A lakosságot főként a szuszu és a fula népcsoportok alkotják, ami gazdag és változatos piaci kultúrát eredményez. Friguiagbéban több mezőgazdasági kutatóállomás is működik, amelyek célja a trópusi növénytermesztés hatékonyságának növelése.",
+        "ro": "Friguiagbé este un centru agricol de prim rang din prefectura Kindia, situat în regiunea Guineea Maritimă, la aproximativ 15 kilometri de orașul Kindia. Geografic, localitatea se află la poalele masivului Gangan, într-o zonă caracterizată de soluri lateritice fertile și un climat tropical umed. Friguiagbé este adesea supranumit „livada Guineei”, fiind principalul producător de banane, ananas și citrice destinate atât pieței interne, cât și exportului. Economia locală este structurată în jurul horticulturii intensive, cu numeroase plantații comerciale și cooperative de mici fermieri. Poziția sa strategică pe drumul național N1 facilitează transportul zilnic al produselor proaspete către capitala Conakry. Dincolo de agricultură, regiunea impresionează prin peisajul dominat de formațiunile granitice spectaculoase ale muntelui Gangan. Populația este un amestec de etnii Susu și Fula, reflectat într-o cultură locală vibrantă și piețe agroalimentare extrem de diversificate. De asemenea, în Friguiagbé funcționează stațiuni de cercetare agricolă care sprijină modernizarea tehnicilor de cultivare a fructelor tropicale în întreaga țară.",
+        "en": "Friguiagbé is a major agricultural hub in the Kindia Prefecture, located about 15 kilometers from the city center of Kindia in Maritime Guinea. Geographically, it sits at the base of the Gangan Massif, in an area characterized by fertile red laterite soils and a humid tropical climate. Friguiagbé is widely known as the 'orchard of Guinea,' as it produces the country's highest volumes of bananas, pineapples, and citrus fruits for both domestic and international markets. The local economy is almost entirely centered on intensive market gardening, featuring large-scale plantations alongside smallholder cooperatives. Its strategic location on the N1 national highway makes Friguiagbé a vital transit and collection point for agricultural goods being transported daily to the capital, Conakry. Beyond farming, the region is noted for its scenic beauty, dominated by the towering granite cliffs typical of the Kindia landscape. The population is a blend of Susu and Fula peoples, contributing to a rich market culture. Friguiagbé is also home to agricultural research centers focused on modernizing tropical fruit production."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Friguiagbé ist das Hauptzentrum für die Ananasproduktion in Guinea.",
+          "Der Ort liegt direkt an der wichtigen Verkehrsachse N1 nach Conakry.",
+          "Die Ortschaft liegt im Schatten des beeindruckenden Mount Gangan.",
+          "Friguiagbé beherbergt das Agrarforschungszentrum von Foulaya.",
+          "Bananenplantagen prägen das Landschaftsbild um die Stadt.",
+          "Die Region profitiert von den hohen Niederschlägen der Küstenregion."
+        ],
+        "hu": [
+          "Friguiagbé Guinea első számú ananásztermelő vidéke.",
+          "A település az N1-es országos főút mentén, stratégiai helyen fekszik.",
+          "A várostól északra emelkedik a monumentális Gangan-hegy.",
+          "Itt található a Foulaya Agrárkutatási Központ egyik bázisa.",
+          "A környék tájképét a végtelen banánültetvények határozzák meg.",
+          "A város fontos pihenőhely a Conakry és Mamou között utazók számára."
+        ],
+        "ro": [
+          "Friguiagbé este motorul producției de ananas și banane din Guineea.",
+          "Localitatea este un punct vital pe ruta comercială Kindia-Conakry.",
+          "Masivul Gangan oferă o barieră naturală și un peisaj montan impunător.",
+          "Centrul de cercetare de la Foulaya contribuie la ameliorarea soiurilor de citrice.",
+          "Economia orașului depinde masiv de cererea de fructe din capitală.",
+          "Climatul local este unul dintre cele mai favorabile pentru pomicultură."
+        ],
+        "en": [
+          "Friguiagbé is the leading center for pineapple production in Guinea.",
+          "The town is strategically located along the N1 highway to Conakry.",
+          "It sits in the shadow of the dramatic Mount Gangan massif.",
+          "Friguiagbé is home to the Foulaya Agricultural Research Center.",
+          "Extensive banana plantations are a defining feature of the local landscape.",
+          "The town acts as a primary supply hub for fresh produce to Conakry's markets."
+        ]
+      }
+    },
+    {
+      "id": "sougueta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Souguéta ist eine strategisch wichtige Kleinstadt in der Präfektur Kindia, gelegen an der Hauptverkehrsader zwischen der Hauptstadt Conakry und dem Landesinneren. Geografisch markiert Souguéta den Übergang von der Küstenebene zu den ersten Ausläufern des Fouta-Djallon-Hochlandes, was zu einer abwechslungsreichen Landschaft aus Hügeln und Tälern führt. Bekanntheit erlangte Souguéta vor allem durch seine industriellen Ressourcen; hier befinden sich bedeutende Kalksteinvorkommen, die die Basis für das örtliche Kalksteinwerk und die Zementproduktion bilden. Diese Industrie ist ein wichtiger Arbeitgeber für die Region und trägt maßgeblich zur wirtschaftlichen Entwicklung der Präfektur bei. Neben der Industrie spielt der Durchgangshandel eine zentrale Rolle; Souguéta ist ein unverzichtbarer Haltepunkt für Fernfahrer und Reisende. Die lokale Landwirtschaft konzentriert sich auf den Anbau von Reis, Erdnüssen und Obst, die auf dem lebhaften örtlichen Markt gehandelt werden. Die Bevölkerung ist ethnisch vielfältig, wobei Susu und Peul die größten Gruppen stellen. Trotz der industriellen Präsenz bewahrt die Umgebung von Souguéta ihren ländlichen Charme mit kleinen Bächen und bewaldeten Hügelkuppen.",
+        "hu": "Souguéta egy stratégiai jelentőségű település a Kindia prefektúrában, a tengerpartot és a belső országrészeket összekötő főút mentén. Földrajzilag Souguéta az a pont, ahol az alsó-guineai síkság találkozik a Fouta Djallon-hegység első vonulataival, változatos, dombos tájat hozva létre. A város leginkább ipari jelentőségéről ismert; a környéken található hatalmas mészkőkészletek alapozták meg a helyi mész- és cementgyártást. Ez az ipari tevékenység a régió egyik legfontosabb munkaadója, és alapvető fontosságú Guinea építőipara számára. Az ipar mellett a tranzitkereskedelem is meghatározó: Souguéta a Conakry és Mamou közötti útvonal egyik legfontosabb pihenőhelye. A mezőgazdaság terén a rizs, a földimogyoró és a különféle gyümölcsök termesztése a jellemző, amelyek a helyi piac kínálatát adják. A lakosság összetétele vegyes, főként szuszu és fula nemzetiségűek élnek itt. Az ipari létesítmények ellenére a város környéke megőrizte természetes jellegét, tiszta vizű patakokkal és erdős domboldalakkal, amelyek a hegyvidék közelségét jelzik.",
+        "ro": "Souguéta este o localitate de importanță strategică din prefectura Kindia, situată pe artera rutieră principală care leagă capitala Conakry de interiorul țării. Geografic, Souguéta marchează tranziția de la câmpiile litorale la primele contraforturi ale masivului Fouta Djallon, oferind un peisaj variat de dealuri și văi. Orașul este recunoscut în special pentru resursele sale industriale; aici se află depozite semnificative de calcar, care stau la baza fabricii locale de var și a producției de ciment. Această activitate industrială este un motor economic major pentru prefectură, oferind numeroase locuri de muncă. Pe lângă industrie, comerțul de tranzit este esențial; Souguéta este un punct de oprire obligatoriu pentru transportatorii de mărfuri și călători. Agricultura locală se concentrează pe cultivarea orezului, a arahidelor și a fructelor, comercializate în piața locală activă. Populația este diversă, grupurile Susu și Fula fiind cele mai reprezentate. În ciuda amprentei industriale, împrejurimile orașului păstrează un farmec rural, fiind traversate de cursuri de apă și culmi împădurite.",
+        "en": "Souguéta is a strategically important town in the Kindia Prefecture, located along the main highway connecting the capital, Conakry, to the Guinean interior. Geographically, Souguéta marks the transition from the coastal plains to the first foothills of the Fouta Djallon highlands, resulting in a varied landscape of hills and valleys. The town is best known for its industrial resources, housing significant limestone deposits that form the basis for the local limestone plant and cement production. This industry is a vital employer for the region and contributes significantly to the economic development of the prefecture. Alongside industry, transit trade plays a central role; Souguéta is an essential stopping point for long-distance drivers and travelers. Local agriculture focuses on the cultivation of rice, peanuts, and fruit, which are traded in the bustling local market. The population is ethnically diverse, with Susu and Fula being the primary groups. Despite the industrial presence, the area surrounding Souguéta maintains its rural charm, characterized by small streams and forested hilltops."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Souguéta ist einer der wichtigsten Standorte für die Kalksteingewinnung in Guinea.",
+          "Die Stadt liegt etwa 40 Kilometer östlich von Kindia.",
+          "Es ist ein bekannter Haltepunkt für den Schwerlastverkehr auf der N1.",
+          "Die lokale Wirtschaft profitiert von der Zementindustrie.",
+          "Souguéta liegt am Fuße der Bergkette, die zum Fouta-Djallon-Plateau führt.",
+          "In der Stadt gibt es bedeutende Märkte für regionale Agrarprodukte."
+        ],
+        "hu": [
+          "Souguéta Guinea egyik legfontosabb mészkőbányászati központja.",
+          "A település mintegy 40 kilométerre keletre fekszik Kindia városától.",
+          "Fontos logisztikai és pihenőhely az N1-es országúton közlekedő kamionok számára.",
+          "A helyi gazdaság gerincét a cement- és mészgyártás adja.",
+          "A város földrajzilag a tengerpart és a hegyvidék közötti kapuként funkcionál.",
+          "A környéken jelentős a hagyományos pálmaolaj-készítés is."
+        ],
+        "ro": [
+          "Souguéta găzduiește una dintre cele mai mari cariere de calcar din țară.",
+          "Localitatea se află la aproximativ 40 km est de centrul urban Kindia.",
+          "Este un nod vital pentru logistica rutieră între portul Conakry și interior.",
+          "Industria materialelor de construcții domină profilul economic al orașului.",
+          "Relieful local este caracterizat prin formarea primelor terase montane.",
+          "Piața din Souguéta este renumită pentru diversitatea fructelor tropicale."
+        ],
+        "en": [
+          "Souguéta is one of the most important sites for limestone extraction in Guinea.",
+          "The town is located approximately 40 kilometers east of Kindia.",
+          "It serves as a key transit hub for heavy vehicle traffic on the N1 highway.",
+          "The local economy is heavily bolstered by the cement and lime industry.",
+          "Souguéta marks the geographic gateway to the Fouta Djallon highlands.",
+          "The town features vibrant markets for locally grown produce and palm oil."
+        ]
+      }
+    },
+    {
+      "id": "maferinyah-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Maférinyah ist ein dynamisches Küstenzentrum in der Präfektur Forécariah, südöstlich der Hauptstadt Conakry in Maritime Guinea gelegen. Die Stadt liegt in einer fruchtbaren Küstenebene, die durch ein Netz von Gezeitenarmen, Mangrovensümpfen und ausgedehnten landwirtschaftlichen Flächen geprägt ist. Maférinyah hat sich zu einem bedeutenden Zentrum für den Gartenbau entwickelt, insbesondere für den Anbau von Mangos, die für ihre hohe Qualität bekannt sind und sowohl auf den nationalen Markt als auch in den Export gelangen. Die geografische Nähe zur Hauptstadt und zum Hafen von Conakry begünstigt den Handel und macht die Stadt zu einem wichtigen wirtschaftlichen Akteur in der Region Basse-Guinée. Neben der Landwirtschaft ist die Fischerei in den nahegelegenen Ästuaren eine wesentliche Lebensgrundlage für die Bevölkerung. Die Infrastruktur der Stadt wurde in den letzten Jahren durch die Modernisierung der Straßenverbindung nach Sierra Leone verbessert. Kulturell ist Maférinyah stark von der Susu-Bevölkerung geprägt, was sich in der lokalen Sprache, Musik und den traditionellen Festen widerspiegelt. Die Stadt dient zudem als Ausgangspunkt für die Erkundung der unberührten Küstenlandschaften und der kleinen Inseln in der Nähe.",
+        "hu": "Maférinyah egy dinamikusan fejlődő tengerparti központ a Forécariah prefektúrában, a fővárostól, Conakrytól délkeletre. A város egy termékeny parti síkságon fekszik, amelyet árapály-csatornák, mangrove-mocsarak és kiterjedt mezőgazdasági területek hálózata jellemez. Maférinyah mára Guinea egyik legfontosabb kertészeti központjává vált, különösen a kiváló minőségű mangótermesztéséről ismert, amelyet mind a hazai piacokon, mind külföldön értékesítenek. A főváros és a conakry-i kikötő közelsége nagyban segíti a kereskedelmet, és a települést Alsó-Guinea egyik fontos gazdasági szereplőjévé teszi. A földművelés mellett a közeli torkolatvidékeken zajló halászat biztosítja a lakosság jelentős részének megélhetését. A város infrastruktúrája sokat fejlődött a Sierra Leone felé vezető főút modernizációjának köszönhetően. Kulturális szempontból Maférinyah-t a szuszu népcsoport dominanciája jellemzi, ami meghatározza a helyi nyelvet, zenét és a tradicionális ünnepségeket. A város népszerű kiindulópont az érintetlen tengerparti tájak és a közeli kisebb szigetek felfedezéséhez.",
+        "ro": "Maférinyah este un centru de coastă dinamic situat în prefectura Forécariah, la sud-est de capitala Conakry. Orașul este amplasat într-o câmpie litorală fertilă, marcată de un sistem complex de estuare, mlaștini de mangrove și terenuri agricole extinse. Maférinyah s-a impus ca un pol major pentru horticultură, fiind recunoscut în mod special pentru producția de mango de înaltă calitate, destinat atât consumului intern, cât și exportului. Proximitatea față de capitală și de portul principal al țării favorizează schimburile comerciale, transformând localitatea într-un actor economic cheie în regiunea Guineea de Jos. Pe lângă agricultură, pescuitul artizanal în zonele inundabile reprezintă o sursă vitală de venit pentru comunitate. Infrastructura orașului a beneficiat recent de modernizarea drumului național care face legătura cu Sierra Leone. Din punct de vedere cultural, Maférinyah este un bastion al etniei Susu, tradițiile, muzica și festivalurile locale fiind profund ancorate în identitatea acestui grup. Orașul servește, de asemenea, ca punct de plecare pentru explorarea peisajelor costiere virgine și a micilor insule din apropiere.",
+        "en": "Maférinyah is a dynamic coastal hub in the Forécariah Prefecture, located southeast of the capital, Conakry, in Maritime Guinea. The town is situated on a fertile coastal plain, characterized by a network of tidal creeks, mangrove swamps, and extensive agricultural lands. Maférinyah has emerged as a major center for market gardening, particularly famous for its high-quality mango production, which is supplied to both domestic and international markets. Its proximity to the capital and the Port of Conakry facilitates trade and makes the town a significant economic player in the Lower Guinea region. Beyond farming, artisanal fishing in the nearby estuaries provides a vital livelihood for the local population. The town's infrastructure has improved in recent years following the modernization of the main road connecting Guinea to Sierra Leone. Culturally, Maférinyah is strongly influenced by the Susu people, which is reflected in the local language, music, and traditional festivals. The town also serves as a gateway for exploring the pristine coastal landscapes and small islands located nearby."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Maférinyah ist eines der wichtigsten Zentren für den Mango-Export in Guinea.",
+          "Die Stadt liegt an der strategischen Nationalstraße N4 nach Sierra Leone.",
+          "Die Umgebung ist durch ökologisch wertvolle Mangrovenwälder geprägt.",
+          "Maférinyah beherbergt bedeutende Baumschulen für tropische Früchte.",
+          "Die Fischerei ist neben der Landwirtschaft der wichtigste Wirtschaftszweig.",
+          "Die Stadt ist bekannt für ihre traditionellen Susu-Tanzgruppen."
+        ],
+        "hu": [
+          "Maférinyah Guinea egyik legjelentősebb mangóexportáló központja.",
+          "A város a Sierra Leone felé vezető stratégiai N4-es út mentén fekszik.",
+          "A település környékén értékes mangrove-ökoszisztémák találhatók.",
+          "A városban több trópusi gyümölcsfa-faiskola is működik.",
+          "A mezőgazdaság mellett a tengeri és folyami halászat a fő bevételi forrás.",
+          "A település híres a szuszu népcsoport hagyományos tánccsoportjairól."
+        ],
+        "ro": [
+          "Maférinyah este centrul de colectare a recoltelor de mango din Basse-Guinée.",
+          "Orașul este situat pe coridorul rutier internațional către Sierra Leone.",
+          "Ecosistemul de mangrove din jur este esențial pentru biodiversitatea locală.",
+          "Localitatea este cunoscută pentru pepinierele sale de arbori fructiferi.",
+          "Comerțul cu pește uscat reprezintă o activitate economică tradițională.",
+          "Maférinyah este un punct de tranzit important pentru mărfurile agricole."
+        ],
+        "en": [
+          "Maférinyah is a top regional hub for the production and export of mangoes.",
+          "The town is located on the strategic N4 highway leading to Sierra Leone.",
+          "The surrounding area features ecologically vital mangrove forests.",
+          "Maférinyah is home to several specialized tropical fruit nurseries.",
+          "Artisanal fishing in coastal estuaries is a primary economic pillar.",
+          "The town is a significant cultural center for traditional Susu music and dance."
+        ]
+      }
+    }
+  ]
+}

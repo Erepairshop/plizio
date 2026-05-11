@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "A sűrű erdőség jelentős szerepet játszik a vízgyűjtő terület védelmében. Egyedi növényfajai miatt a környék természetvédelmi oltalom alatt áll.",
+      "facts": ["Sűrű erdőség", "Vízgyűjtő védelem", "Egyedi növényfajok", "Természetvédelmi terület"]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "A tó körüli terület fontos átmeneti zóna a vadvilág számára. A part menti növényzet gazdag táplálékforrást biztosít az állatoknak.",
+      "facts": ["Fontos átmeneti zóna", "Gazdag táplálékforrás", "Tavi élővilág", "Élőhely"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "Az érintetlen erdőterület az ország biodiverzitásának egyik központja. A ritka emlősfajok megóvása itt kiemelt feladat.",
+      "facts": ["Biodiverzitás központ", "Ritka emlősfajok", "Érintetlen terület", "Ökológiai védelem"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "A part menti tengeri terület gazdag korallképződményekkel és változatos halfajokkal rendelkezik. Az óceáni áramlatok jelentős szerepet játszanak az élővilágban.",
+      "facts": ["Gazdag korallok", "Változatos halfajok", "Óceáni áramlatok", "Tengeri környezet"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "A hegyvidék a környező vidékhez képest hűvösebb mikroklímát kínál. A magasabban fekvő területek növényzete különleges adaptációkat mutat.",
+      "facts": ["Hegyvidék", "Hűvös mikroklíma", "Különleges növényzet", "Természeti adottságok"]
+    },
+    {
+      "id": "lebombo-berge-relief-v2",
+      "description": "A hegyvonulat drámai látványt nyújt a határvidéken, geológiailag változatos kőzetekkel. Jelentős vízgyűjtő szereppel bír az egész térségben.",
+      "facts": ["Határvidéki hegyvonulat", "Geológiai változatosság", "Vízgyűjtő szerep", "Drámai táj"]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "description": "A térség jellemzője az elszórt dombságok és síkvidékek váltakozása. A táj mezőgazdasági szempontból is központi jelentőségű.",
+      "facts": ["Dombságok és síkvidékek", "Váltakozó táj", "Mezőgazdasági központ", "Geológiai struktúra"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "A partvonalat meghatározó öböl drámai sziklafalakkal és kiterjedt partmenti síkságokkal rendelkezik. A terület földrajzilag nagyon karakteres.",
+      "facts": ["Part menti öböl", "Dramatikus sziklafalak", "Karakteres táj", "Parti síkságok"]
+    },
+    {
+      "id": "lupata-massiv-relief-v2",
+      "description": "A tektonikai folyamatok által formált masszívum kiemelkedik a környező alföldből. Geológiai szerkezete az ország egyik legrégebbi képződménye.",
+      "facts": ["Tektonikus masszívum", "Kiemelkedő tájforma", "Geológiai szerkezet", "Régi képződmény"]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "description": "A fennsík jelentős része állattenyésztésre hasznosított, egyedülálló domborzati viszonyokkal bír. A terület éghajlata a magaslatok miatt kiegyenlítettebb.",
+      "facts": ["Fennsík", "Állattenyésztés", "Egyedi domborzat", "Kiegyenlített éghajlat"]
+    }
+  ]
+}

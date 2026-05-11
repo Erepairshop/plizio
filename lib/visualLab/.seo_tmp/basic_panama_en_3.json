@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "centro-rescate-anfibios-panama-life-v2",
+      "description": "An essential rescue center dedicated to the protection and study of Panama's endangered amphibian species.",
+      "facts": ["Amphibian conservation", "Research center", "Panama wildlife"]
+    },
+    {
+      "id": "finca-cafe-boquete-life-v2",
+      "description": "Boquete is world-famous for its high-quality coffee plantations, nestled in the cool highlands of Chiriquí.",
+      "facts": ["Highland coffee", "Boquete region", "Premium production"]
+    },
+    {
+      "id": "parque-nacional-soberania-zoo-life-v2",
+      "description": "A protected area that serves as a wildlife haven near the Panama Canal, home to diverse tropical fauna.",
+      "facts": ["Tropical wildlife", "Near Canal", "Biodiversity"]
+    },
+    {
+      "id": "refugio-vida-silvestre-taboga-life-v2",
+      "description": "A protected wildlife refuge on Taboga Island, essential for local bird populations and marine life.",
+      "facts": ["Taboga Island", "Wildlife refuge", "Bird sanctuary"]
+    },
+    {
+      "id": "finca-orquideas-boquete-life-v2",
+      "description": "A beautiful orchid farm showcasing the rich diversity of tropical flora in the Boquete region.",
+      "facts": ["Orchid collection", "Boquete highland", "Floral diversity"]
+    },
+    {
+      "id": "parque-infantil-don-bosco-life-v2",
+      "description": "A local playground designed for community recreation and children in the Don Bosco area.",
+      "facts": ["Community space", "Children playground", "Urban park"]
+    },
+    {
+      "id": "reserva-forestal-fortuna-life-v2",
+      "description": "A vital forest reserve known for its cloud forest environment and significant hydroelectric potential.",
+      "facts": ["Cloud forest", "Hydroelectric", "Protected reserve"]
+    },
+    {
+      "id": "criadero-mariposas-boquete-life-v2",
+      "description": "A butterfly farm that educates visitors about the lifecycle and conservation of local butterfly species.",
+      "facts": ["Butterfly species", "Conservation education", "Boquete farm"]
+    },
+    {
+      "id": "finca-ganadera-los-santos-life-v2",
+      "description": "A traditional cattle farm in the Los Santos province, reflecting the agricultural heritage of the region.",
+      "facts": ["Cattle farming", "Los Santos", "Agricultural tradition"]
+    },
+    {
+      "id": "parque-infantil-cinta-costera-life-v2",
+      "description": "A popular playground located within the Cinta Costera area, offering recreational space for families in Panama City.",
+      "facts": ["Cinta Costera", "Urban recreation", "Family park"]
+    }
+  ]
+}

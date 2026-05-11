@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "A Gondola Kids Fun Park családbarát szórakozást és attrakciókat kínál gyermekek számára Maputóban.",
+      "facts": ["Családbarát", "Maputo", "Gyermek attrakciók"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "A Pemba Beach nyugodt vizéről és védett öbléről ismert, ideális családok és vízi sportok számára.",
+      "facts": ["Nyugodt víz", "Pemba", "Vízi sportok"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "A Niassa Vadrezervátum Mozambik legnagyobb védett területe és a szafari szerelmeseinek paradicsoma.",
+      "facts": ["Legnagyobb védett terület", "Szafari", "Vadvilág"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "A Zambézi folyó Zambéziában a régió éltető eleme, számos vadvilág megfigyelési lehetőséget kínálva.",
+      "facts": ["Éltető elem", "Vadvilág megfigyelés", "Zambézia"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "A Tete Közösségi Park zöld találkozóhely a helyiek számára, játszóterekkel és rekreációs területekkel.",
+      "facts": ["Zöld terület", "Tete", "Rekreációs terület"]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "Inchope létfontosságú vadvilági folyosókat és élőhelyeket biztosít, amelyek kulcsfontosságúak a vadvilág migrációjához.",
+      "facts": ["Vadvilági folyosók", "Élőhelyek", "Vadvilág migráció"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "A Chimoio Zöld Élet egy projekt, amely a fenntartható mezőgazdaságot és a gyermekek környezeti oktatását népszerűsíti.",
+      "facts": ["Fenntartható mezőgazdaság", "Környezeti oktatás", "Chimoio"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "Vilankulo Marine a Bazaruto-szigetcsoport kapuja, búvárkodási és sznorkelezési helyszíneiről híres.",
+      "facts": ["Bazaruto-szigetcsoport", "Búvárkodás", "Sznorkelezés"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "Inhambane történelmi építészetet és hozzáférést kínál gyönyörű strandokhoz és búvárhelyekhez.",
+      "facts": ["Történelmi építészet", "Gyönyörű strandok", "Búvárkodás"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "A Gaza Farm egy mezőgazdasági projekt, amely a helyi fejlődés és az élelmezésbiztonság előmozdítását célozza.",
+      "facts": ["Mezőgazdasági projekt", "Helyi fejlődés", "Élelmezésbiztonság"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "Cabo Delgado tartomány mangótermesztéséről ismert, amely jelentősen hozzájárul a helyi gazdasághoz.",
+      "facts": ["Mangótermesztés", "Cabo Delgado", "Helyi gazdaság"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "A Tete Agri Projekt egy mezőgazdasági fejlesztésre és élelmezésbiztonságra összpontosító kezdeményezés a Tete régióban.",
+      "facts": ["Mezőgazdasági fejlesztés", "Tete régió", "Élelmezésbiztonság"]
+    },
+    {
+      "id": "zambezi-river-nature-v2",
+      "description": "A Zambézi folyó Afrika negyedik leghosszabb folyója, és létfontosságú forrás Mozambik biológiai sokfélesége számára.",
+      "facts": ["Afrika negyedik leghosszabb", "Létfontosságú forrás", "Biológiai sokféleség"]
+    },
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "A Niassai-tó, más néven Malawi-tó, Afrika egyik legnagyobb és legmélyebb tava, gazdag halfaunával.",
+      "facts": ["Malawi-tó", "Nagy és mély tó", "Gazdag halfauna"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "A Gorongosa-hegy a Gorongosa Nemzeti Park része, sokszínű növény- és állatvilágot kínál különböző magasságokban.",
+      "facts": ["Gorongosa Nemzeti Park", "Sokszínű növény- és állatvilág", "Különböző magasságok"]
+    }
+  ]
+}

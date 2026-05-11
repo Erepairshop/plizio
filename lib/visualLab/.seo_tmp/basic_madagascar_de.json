@@ -1,0 +1,221 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "Der Kirindy-Wald ist bekannt für seine einzigartige Tierwelt und die seltenen Fossa-Raubtiere.",
+      "facts": ["Heimat der Fossa", "Trockenwald-Ökosystem", "Berühmt für Lemuren"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "Der Tsingy de Bemaraha Nationalpark beeindruckt durch seine bizarren Kalksteinformationen und endemische Fauna.",
+      "facts": ["UNESCO-Welterbe", "Einzigartige Tsingy-Formationen", "Große Lemurenvielfalt"]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "description": "Die Teeplantagen von Sahambavy bieten eine malerische Landschaft und Einblicke in den Teeanbau.",
+      "facts": ["Einzige Teeplantage Madagaskars", "Liegt bei Fianarantsoa", "Malaysische Tee-Sorte"]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Der Kinderpark in Antsirabe ist ein beliebter Erholungsort für Familien in der Stadt.",
+      "facts": ["Zentrum von Antsirabe", "Freizeiteinrichtung", "Grünanlage"]
+    },
+    {
+      "id": "andasibe-orchid-park-life-v2",
+      "description": "Der Orchideenpark von Andasibe beherbergt eine erstaunliche Vielfalt seltener Blumenarten.",
+      "facts": ["Region Andasibe", "Spezialisiert auf endemische Orchideen", "Botanisches Kleinod"]
+    },
+    {
+      "id": "ampefy-geyser-park-life-v2",
+      "description": "Die Geysire bei Ampefy sind eine faszinierende geologische Sehenswürdigkeit im vulkanischen Hochland.",
+      "facts": ["Vulkanisches Gebiet", "Natürliche Geysir-Aktivität", "Region Itasy"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "Der Stadtpark von Tamatave bietet eine grüne Oase inmitten der geschäftigen Hafenstadt.",
+      "facts": ["Zentrum von Tamatave", "Öffentliche Grünanlage", "Tropische Pflanzen"]
+    },
+    {
+      "id": "maroantsetra-vanille-farm-life-v2",
+      "description": "In der Umgebung von Maroantsetra gedeiht einige der hochwertigsten Vanille der Welt.",
+      "facts": ["Hauptanbaugebiet für Vanille", "Traditionelle Farmen", "Region SAVA"]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "description": "Die Korallenriffe vor Nosy Be sind ein Paradies für Taucher und Schnorchler.",
+      "facts": ["Vielfältige Unterwasserwelt", "Schutzgebiet", "Touristen-Hotspot"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "Der Zoobereich in Ranomafana dient der Erforschung und dem Schutz seltener Tierarten.",
+      "facts": ["Forschungszentrum", "Lemurenschutz", "Bildungsangebot"]
+    },
+    {
+      "id": "lakato-lemuren-schutz-life-v2",
+      "description": "Das Schutzgebiet in Lakato konzentriert sich auf den Erhalt bedrohter Lemurenarten.",
+      "facts": ["Schutzinitiative", "Region Andasibe", "Wichtiger Lebensraum"]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "Die weitläufigen Reisfelder um Antsirabe prägen das Landschaftsbild und die lokale Wirtschaft.",
+      "facts": ["Landwirtschaftliche Region", "Traditioneller Reisanbau", "Hochland-Terrassen"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "Nosy Tanikely ist ein mariner Nationalpark, berühmt für seine farbenfrohen Unterwasserwelten.",
+      "facts": ["Marines Schutzgebiet", "Taucherparadies", "Biodiversitäts-Hotspot"]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "Der botanische Garten von Toliara präsentiert die einzigartige Pflanzenwelt des Südwestens.",
+      "facts": ["Fokus auf sukkulente Pflanzen", "Forschungsstandort", "Stadtrand Toliara"]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "description": "Der Pangalanes-Kanal bei Manakara ist ein bedeutender Wasserweg und Lebensraum für zahlreiche Arten.",
+      "facts": ["Historischer Kanal", "Wasserweg zum Handel", "Flora und Fauna"]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Die Strände bei Mahajanga sind beliebte Ausflugsziele an der Nordwestküste.",
+      "facts": ["Küstenzone", "Tourismus", "Strandleben"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "Der Nationalpark Tsingy de Namoroka zeichnet sich durch seine Karstlandschaften aus.",
+      "facts": ["Kalksteinformationen", "Unberührte Natur", "Region Boeny"]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Die Weingüter bei Fianarantsoa sind bekannt für den Anbau des madagassischen Weins.",
+      "facts": ["Weinregion Fianarantsoa", "Lokale Winzer", "Einzigartiges Klima"]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "Dieser Park schützt eine Übergangszone zwischen trockenem und feuchtem Wald.",
+      "facts": ["Biodiversitäts-Region", "Seltener Lebensraum", "Vogelbeobachtung"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Die Thermalbäder von Antsirabe sind seit langem für ihre heilende Wirkung bekannt.",
+      "facts": ["Historische Thermen", "Wellness-Ziel", "Natürliche Quellen"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Der Ankarafantsika-Park ist ein herausragendes Gebiet für Ornithologen.",
+      "facts": ["Vogelarten-Hotspot", "Nationalpark", "Wälder und Savannen"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "Die Gewässer rund um Nosy Mitsio bieten erstklassige Bedingungen zum Tauchen.",
+      "facts": ["Abgelegenes Tauchrevier", "Korallenriffe", "Artenreich"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "Das Tampolo-Reservat schützt Küstenwälder und deren spezielle Bewohner.",
+      "facts": ["Schutzgebiet", "Wanderparadies", "Küstenökosystem"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "In den Wäldern von Ranomafana gibt es eine bemerkenswerte Dichte an Amphibienarten.",
+      "facts": ["Hohe Artenvielfalt", "Froschhabitat", "Forschungsobjekt"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "Der Zoo in Mahajanga bietet Einblicke in die madagassische Tierwelt.",
+      "facts": ["Städtische Einrichtung", "Tierpflege", "Besucherziel"]
+    },
+    {
+      "id": "lake-alaotra-nature-v2",
+      "description": "Der Alaotra-See ist der größte See Madagaskars und ein wichtiges Feuchtgebiet.",
+      "facts": ["Größter See der Insel", "Reisanbaugebiet", "Vogelhabitat"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Der Itasy-See im Hochland ist ein vulkanischer Kratersee von besonderer Schönheit.",
+      "facts": ["Vulkanischer Ursprung", "Region Itasy", "Fischerei"]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "description": "Der Nationalpark Ranomafana ist berühmt für seinen tropischen Regenwald und seltene Lemuren.",
+      "facts": ["UNESCO-Welterbe", "Biodiversitäts-Hotspot", "Regenwald"]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "description": "Die Insel Nosy Komba ist bekannt für ihre Lemuren und üppige tropische Vegetation.",
+      "facts": ["Lemureninsel", "Tourismus", "Vulkangestein"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "Die Küstenregion bei Mahajanga zeichnet sich durch Mangroven und Strände aus.",
+      "facts": ["Küstenökologie", "Mangrovenwälder", "Nordwestküste"]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "description": "Die Insel Sainte-Marie (Nosy Boraha) ist ein tropisches Paradies und Walbeobachtungsgebiet.",
+      "facts": ["Walbeobachtung", "Tropische Natur", "Einstiges Piratennest"]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "description": "Das Tsiribihina-Delta ist eine faszinierende Flusslandschaft mit reicher Tierwelt.",
+      "facts": ["Flussdelta", "Ökosystemvielfalt", "Bootstouren"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "Dieser Salzsee im Südwesten ist ein außergewöhnlicher Ort im Nationalpark.",
+      "facts": ["Salzsee", "Nationalpark", "Einzigartige Vogelarten"]
+    },
+    {
+      "id": "mangoro-river-nature-v2",
+      "description": "Der Mangoro-Fluss ist eine Lebensader für die östlichen Tieflandwälder.",
+      "facts": ["Wichtiger Flusslauf", "Tiefland-Ökosystem", "Wasserquelle"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "Die Inselgruppe Nosy Mitsio bietet unberührte maritime Natur.",
+      "facts": ["Inselgruppe", "Korallenriffe", "Abgeschieden"]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "description": "Der Montagne d'Ambre Nationalpark besticht durch seinen kühlen Bergregenwald im Norden.",
+      "facts": ["Bergregenwald", "Wasserfälle", "Endemische Arten"]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "description": "Der heilige Kratersee Anivorano ist von vielen Mythen umwoben.",
+      "facts": ["Heiliger See", "Krokodilhabitat", "Kratersee"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Dieses kleine Inselparadies ist ein geschütztes marines Juwel.",
+      "facts": ["Marines Schutzgebiet", "Korallenriffe", "Artenvielfalt"]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "description": "Das Massif des Makay ist ein schwer zugängliches Labyrinth aus Schluchten und Sandstein.",
+      "facts": ["Geologisches Labyrinth", "Unberührte Region", "Große Schluchten"]
+    },
+    {
+      "id": "analamera-relief-v2",
+      "description": "Das Analamera-Massiv ist geprägt durch seine rauen Felsformationen.",
+      "facts": ["Karstlandschaft", "Nordmadagaskar", "Schutzgebiet"]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "description": "Die Ausläufer des Pic Boby bieten eine dramatische Hochgebirgslandschaft.",
+      "facts": ["Andringitra-Gebirge", "Hochgebirge", "Wandern"]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "description": "Das Manongarivo-Massiv bildet ein wichtiges Gebirgsmassiv im Nordwesten.",
+      "facts": ["Gebirgsregion", "Steile Hänge", "Biodiversität"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maliana-cities-v2",
+      "description": "Maliana is a central city located in the Bobonaro municipality. It serves as an important agricultural hub for the surrounding region.",
+      "facts": ["Located in Bobonaro district", "Key agricultural center", "Border region proximity"]
+    },
+    {
+      "id": "suai-cities-v2",
+      "description": "Suai is a coastal town in the Cova Lima municipality. It has recently gained significance due to local petroleum exploration activities.",
+      "facts": ["Coastal town in Cova Lima", "Petroleum exploration hub", "Historical cultural center"]
+    },
+    {
+      "id": "lospalos-cities-v2",
+      "description": "Lospalos is located in the eastern part of the country. It is known for its distinct Fataluku cultural traditions and architecture.",
+      "facts": ["Located in Lautém district", "Fataluku cultural center", "Eastern highland region"]
+    },
+    {
+      "id": "viqueque-cities-v2",
+      "description": "Viqueque is the capital of the Viqueque municipality on the southern coast. The area features extensive rice fields and tropical forests.",
+      "facts": ["Southern coast capital", "Rich rice cultivation", "Tropical forested region"]
+    },
+    {
+      "id": "same-cities-v2",
+      "description": "Same is the capital of the Manufahi municipality. It sits in a mountainous area known for coffee cultivation and challenging terrain.",
+      "facts": ["Manufahi district capital", "Mountainous coffee region", "Central southern location"]
+    },
+    {
+      "id": "liquica-cities-v2",
+      "description": "Liquica is a coastal town located west of Dili. It is historically significant and known for its scenic shoreline and colonial-era architecture.",
+      "facts": ["Coastal town west of Dili", "Colonial heritage sites", "Scenic coastal road"]
+    },
+    {
+      "id": "aileu-cities-v2",
+      "description": "Aileu is located in the mountains south of Dili. It is a peaceful upland town serving as an important market for local mountain farmers.",
+      "facts": ["Upland mountain town", "South of Dili capital", "Local farming market"]
+    },
+    {
+      "id": "ainaro-cities-v2",
+      "description": "Ainaro is situated in the high mountains of central Timor-Leste. The climate is notably cooler than the coastal lowlands, ideal for fruit and vegetable growing.",
+      "facts": ["Central mountain location", "Cool highland climate", "Highland agriculture hub"]
+    },
+    {
+      "id": "manatuto-cities-v2",
+      "description": "Manatuto is a coastal town located between Dili and Baucau. It lies at the mouth of a river and serves as a local transit point.",
+      "facts": ["Coastal transit town", "Between Dili and Baucau", "River delta location"]
+    },
+    {
+      "id": "gleno-cities-v2",
+      "description": "Gleno is the capital of the Ermera municipality. It is deeply connected to the local coffee production industry that drives the regional economy.",
+      "facts": ["Ermera district capital", "Coffee production center", "Highland market town"]
+    }
+  ]
+}

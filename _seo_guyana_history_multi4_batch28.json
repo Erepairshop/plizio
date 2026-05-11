@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-prime-ministers-residence-history-v2",
+      "descriptionAdvancedDe": "Die offizielle Residenz des Premierministers von Guyana in Georgetown ist ein wichtiges Zentrum der politischen Macht und ein Symbol der nationalen Führung. Das Gebäude, das sich in der Main Street befindet, ist ein elegantes Beispiel für die guyanische Kolonialarchitektur, die für ihre Holzkonstruktionen und ihre Anpassung an das tropische Klima bekannt ist. Es dient als offizieller Wohnsitz des amtierenden Premierministers und als Ort für wichtige staatliche Funktionen und Empfänge. Im Laufe der Jahre hat das Gebäude zahlreiche politische Führer beherbergt und war Zeuge entscheidender Momente in der Geschichte Guyanas nach der Unabhängigkeit. Die Architektur mit ihren großen Veranden und Gärten spiegelt den Status und die Bedeutung des Amtes wider. Die Residenz ist nicht nur ein privates Heim, sondern ein nationales Symbol, das die Kontinuität der Regierung und die Souveränität der Nation repräsentiert.",
+      "descriptionAdvancedHu": "Guyana miniszterelnökének hivatalos rezidenciája Georgetownban a politikai hatalom fontos központja és a nemzeti vezetés szimbóluma. Az épület, amely a Main Streeten található, a guyanai gyarmati építészet elegáns példája, amely faépítményeiről és a trópusi éghajlathoz való alkalmazkodásáról ismert. A hivatalban lévő miniszterelnök hivatalos lakhelyeként, valamint fontos állami funkciók és fogadások helyszínéül szolgál. Az évek során az épület számos politikai vezetőnek adott otthont, és tanúja volt Guyana függetlenség utáni történelmének döntő pillanatainak. Az építészet a nagy verandákkal és kertekkel tükrözi a hivatal státuszát és fontosságát. A rezidencia nemcsak magánlakás, hanem nemzeti szimbólum is, amely a kormányzás folytonosságát és a nemzet szuverenitását képviseli.",
+      "descriptionAdvancedRo": "Reședința oficială a prim-ministrului Guyanei din Georgetown este un centru important al puterii politice și un simbol al conducerii naționale. Situată pe Main Street, clădirea este un exemplu elegant de arhitectură colonială guyaneză, cunoscută pentru construcțiile sale din lemn și adaptarea la climatul tropical. Aceasta servește drept reședință oficială a prim-ministrului în funcție și ca loc pentru funcții și recepții importante de stat. De-a lungul anilor, clădirea a găzduit numeroși lideri politici și a fost martoră a momentelor cruciale din istoria post-independență a Guyanei. Arhitectura, cu verandele și grădinile sale mari, reflectă statutul și importanța funcției. Reședința nu este doar o casă privată, ci un simbol național care reprezintă continuitatea guvernării și suveranitatea națiunii.",
+      "descriptionAdvancedEn": "The official residence of the Prime Minister of Guyana in Georgetown is an important center of political power and a symbol of national leadership. Located on Main Street, the building is an elegant example of Guyanese colonial architecture, known for its wooden structures and adaptation to the tropical climate. It serves as the official home of the incumbent Prime Minister and as a venue for important state functions and receptions. Over the years, the building has housed numerous political leaders and has witnessed crucial moments in Guyana's post-independence history. The architecture, with its large verandas and gardens, reflects the status and importance of the office. The residence is not just a private home but a national symbol that represents the continuity of government and the sovereignty of the nation.",
+      "factsAdvanced": [
+        "Offizielle Residenz des Premierministers von Guyana.",
+        "Befindet sich in der Main Street, Georgetown.",
+        "Ein Beispiel für elegante koloniale Holzarchitektur.",
+        "Dient als Ort für offizielle staatliche Empfänge.",
+        "Hat viele nationale und internationale Würdenträger beherbergt.",
+        "Ein Symbol der Exekutive der guyanischen Regierung.",
+        "Die Architektur ist für das tropische Klima konzipiert.",
+        "Ein wichtiges Gebäude im politischen Leben der Nation."
+      ]
+    }
+  ]
+}

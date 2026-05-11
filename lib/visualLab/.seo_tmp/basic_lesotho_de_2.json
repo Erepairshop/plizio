@@ -1,0 +1,79 @@
+{
+  "lang": "de",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mantsonyane-cities-v2",
+      "description": "Mantsonyane ist ein zentral gelegener Ort im Hochland von Lesotho. Er ist bekannt für seine strategische Lage inmitten der beeindruckenden Bergwelt der Maloti.",
+      "facts": ["Zentrales Hochland", "Maloti-Berge", "Strategische Lage", "Gebirgsregion"]
+    },
+    {
+      "id": "ha-ntsi-cities-v2",
+      "description": "Ha Ntsi ist eine Siedlung in den Ausläufern des Hochlandes. Das Leben hier ist durch die traditionelle subsistenzorientierte Landwirtschaft geprägt.",
+      "facts": ["Hochlandausläufer", "Subsistenzwirtschaft", "Traditionelles Leben", "Ländlich"]
+    },
+    {
+      "id": "ha-baroana-cities-v2",
+      "description": "Ha Baroana ist bekannt für seine Felsmalereien, die einen Einblick in die Geschichte der San-Bevölkerung in dieser Region geben.",
+      "facts": ["Felsmalereien", "Historische Stätte", "Kulturerbe", "San-Kultur"]
+    },
+    {
+      "id": "ha-moitsupeli-cities-v2",
+      "description": "Ha Moitsupeli liegt in einer abgelegenen ländlichen Gegend. Die Umgebung ist von traditionellen Rundhäusern und weiter Berglandschaft geprägt.",
+      "facts": ["Ländlich", "Abgelegen", "Traditionelle Häuser", "Weite Berglandschaft"]
+    },
+    {
+      "id": "molimo-nthuse-cities-v2",
+      "description": "Molimo Nthuse liegt am bekannten Blue Mountain Pass. Der Ort dient als beliebter Zwischenstopp für Reisende auf dem Weg ins Hochland.",
+      "facts": ["Blue Mountain Pass", "Reisezwischenstopp", "Hochlandzufahrt", "Bergpanoramablick"]
+    },
+    {
+      "id": "ha-kome-cities-v2",
+      "description": "Ha Kome ist berühmt für die Höhlenhäuser, die im 19. Jahrhundert erbaut wurden. Sie sind ein einzigartiges Zeugnis der Architektur in Lesotho.",
+      "facts": ["Historische Höhlenhäuser", "Einzigartige Architektur", "19. Jahrhundert", "Kulturelles Erbe"]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "description": "Likalaneng liegt an der Straße zum Katse-Staudamm und dient als kleiner Handelsort für die umliegende Bergbevölkerung.",
+      "facts": ["Zufahrt Katse-Damm", "Handelsort", "Bergbevölkerung", "Transitpunkt"]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "description": "Maphutsaneng liegt in einer hügeligen Region Lesothos. Die Gemeinde ist stark ländlich geprägt und von Weideflächen umgeben.",
+      "facts": ["Hügelig", "Ländlich", "Weideflächen", "Gemeindezentrum"]
+    },
+    {
+      "id": "tele-cities-v2",
+      "description": "Tele liegt an der Grenze zu Südafrika in der Nähe eines wichtigen Flussübergangs. Die Region ist von landwirtschaftlicher Nutzung geprägt.",
+      "facts": ["Grenzlage", "Flussübergang", "Südafrika-Nähe", "Landwirtschaftlich"]
+    },
+    {
+      "id": "ha-mpiti-cities-v2",
+      "description": "Ha Mpiti ist eine Siedlung in der bergigen Region des Quthing-Distrikts. Sie bietet Zugang zu abgelegenen Wanderrouten im Süden.",
+      "facts": ["Distrikt Quthing", "Gebirgsregion", "Wanderzugang", "Südlesotho"]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "description": "Ha Sekake liegt im östlichen Lesotho im Distrikt Qacha's Nek. Die Umgebung ist von einer rauen und unberührten Hochlandnatur gezeichnet.",
+      "facts": ["Distrikt Qacha's Nek", "Ostlesotho", "Raue Hochlandnatur", "Unberührte Landschaft"]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "description": "Ha Rafanyane ist eine kleine, ländliche Gemeinde im Hochland. Das Leben hier folgt dem Rhythmus der Jahreszeiten in den Maloti-Bergen.",
+      "facts": ["Ländliche Gemeinde", "Hochland", "Maloti-Berge", "Traditionell"]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "description": "Mashai liegt tief im Herzen des Hochlandes von Lesotho. Die abgelegene Lage macht es zu einem authentischen Ort der traditionellen Kultur.",
+      "facts": ["Hochlandherz", "Abgelegen", "Traditionsreich", "Authentisch"]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "description": "Linakaneng ist eine kleine Ansiedlung im Gebirge. Die Gegend ist für ihre weiten Aussichten und die Ruhe abseits der Hauptverkehrswege bekannt.",
+      "facts": ["Gebirgssiedlung", "Weite Aussichten", "Ruhige Lage", "Abseits der Wege"]
+    }
+  ]
+}

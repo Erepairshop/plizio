@@ -24,8 +24,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Besitzt eine der modernsten Containeranlagen der Region", "Früher unter dem Namen Puerto de Caballos bekannt", "Tiefster natürlicher Hafen in Mittelamerika", "Umschlagplatz für über 80% des honduranischen Seehandels"],
       hu: ["Honduras és Közép-Amerika egyik legnagyobb tengeri kikötője.", "Az ország nemzetközi kereskedelmének (export/import) legfőbb központja.", "Eredetileg 1524-ben alapították Puerto Caballos néven.", "Rendelkezik az Egyesült Államok 'Mega-Port' biztonsági minősítésével.", "Modern konténer- és kőolaj-terminálokkal van felszerelve.", "A kikötő mellett hatalmas szabadkereskedelmi (maquiladora) zónák működnek.", "Tengerpartja és az Alvarado-lagúna fontos ökológiai terület is."],
-      ro: ["Cel mai mare port al țării", "Centru comercial", "Punct de export important", "Fondat: 1524", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Largest port in the country", "Commercial hub", "Vital export node", "Founded: 1524", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/puerto-cortes-economic-v2.webp"},
   {
     id: "san-lorenzo-economic-v2",
@@ -49,8 +49,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Bedeutendes Zentrum für die Aquakultur von Garnelen", "Wichtigster Zugang zum Pazifik für den Warenverkehr", "Bekannt für seine exzellente Meeresfrüchteküche", "Liegt in einer malerischen Bucht with vielen kleinen Inseln"],
       hu: ["San Lorenzo az ország legfontosabb garnélarák-tenyésztő és exportáló központja.", "A kikötő biztosítja Honduras elsődleges kijáratát az ázsiai piacok felé.", "A város híres a 'sopa de mariscos' (tenger gyümölcsei leves) nevű helyi ételéről.", "A környező mangrovék az ország egyik legfontosabb védett vizes élőhelyét alkotják."],
-      ro: ["Port la Pacific", "Centru pentru exportul de creveți", "Centru industrial important", "Nod comercial", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Pacific port", "Shrimp export hub", "Important industrial center", "Trading node", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/san-lorenzo-economic-v2.webp"},
   {
     id: "choloma-industry-economic-v2",
@@ -74,8 +74,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Größte Konzentration von Textilbetrieben im Land", "Trägt massiv zum Bruttoinlandsprodukt bei", "Verfügt über moderne Logistik- und Lagerhallen", "Zentrum für internationale Investitionen im Industriesektor"],
       hu: ["Honduras legnagyobb 'maquiladora' (összeszerelő üzem) központja.", "Több mint 100 000 ember számára biztosít közvetlen munkahelyet.", "Az itt gyártott ruházati és textilipari termékek fő piaca az USA.", "Az ipari zónák (ZIP) különleges adókedvezményekkel működnek.", "A textil mellett jelentős az autóipari alkatrészek gyártása is.", "A gazdasági fejlődés hatalmas belső migrációt okozott a városba.", "Az ipar stratégiailag közel fekszik Puerto Cortés kikötőjéhez."],
-      ro: ["Centru textil", "Producție Maquila", "Angajator important", "Bază industrială", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Textile center", "Maquila production", "Major employer", "Industrial foundation", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/choloma-industry-economic-v2.webp"},
   {
     id: "san-pedro-industry-economic-v2",
@@ -99,8 +99,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Generiert über 60% des BIP von Honduras", "Sitz der wichtigsten Handelskammern des Landes", "Knotenpunkt für den Landverkehr in Richtung Guatemala und El Salvador", "Standort für zahlreiche multinationale Konzerne"],
       hu: ["Ez a régió termeli meg Honduras bruttó nemzeti össztermékének (GDP) több mint 60%-át.", "Itt található az ország legfontosabb és legbefolyásosabb Kereskedelmi és Iparkamarája.", "A város a guatemalai és salvadori határ felé irányuló közúti áruforgalom legfontosabb csomópontja.", "Számos nemzetközi bank és pénzügyi intézmény központja is ebben az övezetben található."],
-      ro: ["Industria prelucrătoare", "Centru de comerț cu ridicata", "Motor economic", "Producție centrală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Manufacturing industry", "Wholesale hub", "Economic engine", "Central production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/san-pedro-industry-economic-v2.webp"},
   {
     id: "tela-port-economic-v2",
@@ -124,8 +124,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Einstiger Sitz der Tela Railroad Company", "Wichtiger Ort für die Erforschung tropischer Früchte", "Besitzt einen der längsten historischen Holzpiere der Region", "Zentrum für die Entwicklung des modernen Tourismus in Honduras"],
       hu: ["A 20. században Honduras egyik legfontosabb banánexportáló kikötője volt.", "A Tela Railroad Company (United Fruit) építette és üzemeltette.", "A kikötő látta el a híres 'Nagy Fehér Flotta' hajóit terménnyel.", "Ma a tengeri teherszállítás megszűnt, Puerto Cortés vette át a szerepét.", "A régi móló maradványai népszerű turisztikai fotópontok.", "A város gazdasága az ipari kikötőből a strandturizmus felé tolódott.", "A dokk környéke jelenleg a helyi halászok kiindulópontja."],
-      ro: ["Fost port de banane", "Semnificație istorică", "Bază comercială regională", "Infrastructură turistică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Former banana port", "Historical significance", "Regional commercial base", "Tourist infrastructure", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/tela-port-economic-v2.webp"},
   {
     id: "roatan-port-economic-v2",
@@ -149,8 +149,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Verfügt über zwei separate Terminals für große Kreuzfahrtschiffe", "Primärer Punkt für den Import von Lebensmitteln und Energie auf die Insel", "Bietet direkten Zugang zu erstklassigen Tauchressourcen", "Wirtschaftliches Zentrum der Bay Islands"],
       hu: ["A sziget két különálló terminállal rendelkezik a legnagyobb tengerjáró hajók fogadására.", "Itt érkezik be a sziget teljes élelmiszer- és energiaellátásának döntő többsége.", "A kikötőből közvetlen hozzáférés nyílik a világ második legnagyobb korallzátonyához.", "A Mahogany Bay terminált kifejezetten a Carnival Cruise Line fejlesztette ki saját utasai számára."],
-      ro: ["Port de croazieră", "Logistică insulară", "Centru comercial", "Poarta turismului", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Cruise port", "Island logistics", "Trading center", "Tourism gateway", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/roatan-port-economic-v2.webp"},
   {
     id: "ceiba-port-economic-v2",
@@ -174,8 +174,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Wichtigster Verbindungspunkt für den 'Galaxy Wave' Fährservice", "Zentrum für den regionalen Küstenhandel", "Historischer Standort der Standard Fruit Company", "Ausgangspunkt für viele ökologische Touren an der Küste"],
       hu: ["A Karib-tenger partján, Atlántida megye székhelyén található.", "Központi indulási pont a hondurasi Öböl-szigetekre tartó kompoknak.", "A 20. században a Standard Fruit Company banánkikötője volt.", "Jelentős szerepet játszik az ananász és a pálmaolaj exportjában.", "Az ország egyik legfontosabb turisztikai és utaskikötője.", "Otthont ad a régió kereskedelmi és kézműves halászflottájának.", "Infrastruktúrája folyamatosan bővül a növekvő turizmus miatt."],
-      ro: ["Port de feribot", "Conexiune cu insulele", "Infrastructură economică", "Logistică regională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Ferry port", "Island connectivity", "Economic infrastructure", "Regional logistics", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/ceiba-port-economic-v2.webp"},
   {
     id: "comayagua-airport-economic-v2",
@@ -199,8 +199,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Standort des neuen internationalen Flughafens von Tegucigalpa/Comayagua", "Verfügt über modernste Kühllager für Agrarexporte", "Strategisch günstig an der Hauptverkehrsader des Landes gelegen", "Wichtiger Faktor für die industrielle Entwicklung des Comayagua-Tals"],
       hu: ["Itt épült fel a Palmerola International Airport, amely átvette a fővárosi légi forgalom nagy részét.", "A központ rendelkezik a legkorszerűbb hűtőraktárakkal a friss zöldségek és gyümölcsök exportjához.", "A projekt része egy hatalmas vámmentes övezet kialakítása az ipari összeszerelés számára.", "Palmerola közelsége Comayaguához új lendületet ad a történelmi város gazdasági fejlődésének."],
-      ro: ["Logistică de marfă", "Hub regional", "Creștere economică", "Infrastructură modernă", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Freight logistics", "Regional hub", "Economic growth", "Modern infrastructure", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/comayagua-airport-economic-v2.webp"},
   {
     id: "santa-barbara-mine-economic-v2",
@@ -224,8 +224,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Sitz der berühmten El Mochito Mine", "Produziert signifikante Mengen an Zink- und Bleikonzentraten", "Wichtigster industrieller Arbeitgeber im Departement Santa Bárbara", "Verfügt über tiefe unterirdische Stollenanlagen"],
       hu: ["Honduras legrégebbi és legnagyobb folyamatosan működő földalatti bányája.", "Elsősorban cink-, ólom- és ezüstércet termel ki.", "A Las Vegas nevű település közelében fekszik, Santa Bárbara megyében.", "Az ország bányászati exportbevételeinek egyik fő forrása.", "Több mint hét évtizede biztosít munkalehetőséget a térségben.", "A bányászat jelentős környezetvédelmi szabályozásokat és vitákat generál.", "A nyersércet a Puerto Cortés kikötőn keresztül exportálják."],
-      ro: ["Extracția resurselor", "Industria minieră", "Contribuție economică", "Extracție regională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Resource extraction", "Mining industry", "Economic contribution", "Regional extraction", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/santa-barbara-mine-economic-v2.webp"},
   {
     id: "ojojona-craft-economic-v2",
@@ -249,8 +249,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Spezialisiert auf die charakteristische rote und weiße Tonware", "Fast 80% der Bevölkerung sind direkt oder indirekt im Handwerk tätig", "Wichtiges Zentrum für die Ausbildung junger Töpfer", "Bekannt für dekorative Krüge und Wandteller"],
       hu: ["A város lakosságának közel 80%-a közvetlenül vagy közvetve a kézművességből él.", "A 'Lenca' motívumokkal díszített kerámiák Ojojona legkeresettebb termékei közé tartoznak.", "Itt található az ország egyik legfontosabb népművészeti képzőközpontja.", "Minden hétvégén kézműves vásár várja a látogatókat a város főterén."],
-      ro: ["Ceramică tradițională", "Artizanat", "Economie locală", "Meșteșuguri", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Traditional pottery", "Crafts", "Local economy", "Artisan production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/ojojona-craft-economic-v2.webp"},
   {
     id: "el-progreso-industry-economic-v2",
@@ -274,8 +274,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Wichtigster Knotenpunkt für den Schienengüterverkehr in der Vergangenheit", "Zentrum für die Extraktion und Veredelung von Palmöl", "Beherbergt große Reismühlen und Maissilos", "Strategischer Verbindungspunkt zwischen San Pedro Sula und Tela"],
       hu: ["Yoro megye legfontosabb ipari és kereskedelmi városa.", "A Sula-völgy keleti peremén, az Ulúa-folyó közelében fekszik.", "A banánipart nagyrészt felváltották a textilipari maquiladorák.", "Jelentős afrikai pálmaolaj- és élelmiszer-feldolgozó központ.", "Kereskedelmi híd San Pedro Sula és az északi partvidék között.", "A gyors urbanizáció miatt Honduras egyik legdinamikusabb városa.", "A folyó közelsége komoly árvízvédelmi infrastruktúrát követel meg."],
-      ro: ["Procesare agricolă", "Logistică", "Locație de producție", "Bază regională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Agricultural processing", "Logistics", "Production site", "Regional base", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -300,8 +300,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Produziert jährlich Millionen handgerollter Premium-Zigarren", "Honduranische Zigarren aus Danlí belegen regelmäßig Spitzenplätze in Fachmagazinen", "Wichtigster Devisenbringer der Region El Paraíso", "Veranstaltet das jährliche Festival Nacional del Maíz y Tabaco"],
       hu: ["Évente több millió kézzel sodort prémium szivart exportálnak innen világszerte.", "A hondurasi szivarok rendszeresen az első helyeken végeznek a nemzetközi szaklapok rangsorában.", "Ez a szektor a legfontosabb devizabevételi forrás El Paraíso megyében.", "A városban minden évben megrendezik a Nemzeti Kukorica- és Dohányfesztivált."],
-      ro: ["Industria tutunului", "Producția de trabucuri", "Export agricol", "Procesare industrială", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Tobacco industry", "Cigar production", "Agricultural export", "Industrial processing", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/danli-tobacco-economic-v2.webp"},
   {
     id: "ocotepeque-trade-economic-v2",
@@ -325,8 +325,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Knotenpunkt des internationalen Transports durch Zentralamerika", "Zentrum für den Export von hochwertigem Bergkaffee", "Wichtiger Standort für Devisenwechsel und Finanzdienstleistungen", "Austragungsort regelmäßiger binationaler Handelsmessen"],
       hu: ["Honduras, Guatemala és El Salvador hármas határának gazdasági központja.", "A legfontosabb szárazföldi vámszolgáltatási csomópont Nyugat-Hondurasban.", "Az országos kávéexport jelentős része itt hagyja el Hondurast.", "A helyi piacokon intenzív zöldség- és gyümölcskereskedelem zajlik.", "Hatalmas logisztikai, kamionos és szállítmányozási forgalmat bonyolít.", "Élénk határmenti mikrogazdaság működik több valuta használatával.", "A tranzitkereskedelem biztosítja a város lakosságának fő megélhetését."],
-      ro: ["Comerț transfrontalier", "Logistică", "Schimb economic", "Centru regional", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Border trade", "Logistics", "Economic exchange", "Regional hub", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -351,8 +351,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Besitzt eine eigene geschützte Ursprungsbezeichnung (HWC)", "Hauptsächlich Kleinbauern, die in Kooperativen organisiert sind", "Spezialisiert auf schattengezogenen Hochlandkaffee", "Wichtigster landwirtschaftlicher Exportartikel der Region Copán"],
       hu: ["A Copán-i kávé saját, védett eredetmegjelöléssel (HWC) rendelkezik.", "A termelés nagy részét szövetkezetekbe tömörült kistermelők végzik.", "A régió a fenntartható, árnyékban nevelt magaslati kávékra specializálódott.", "Ez Copán megye legfontosabb mezőgazdasági exportterméke."],
-      ro: ["Cultivarea cafelei", "Export agricol", "Producție de calitate", "Agricultură regională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Coffee cultivation", "Agricultural export", "Quality production", "Regional agriculture", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -377,8 +377,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Größte Konzentration von Gewächshäusern in Honduras", "Hauptlieferant für frisches Gemüse in die Hauptstadt Tegucigalpa", "Zentrum für den Export von Melonen nach Europa und Nordamerika", "Verfügt über moderne Agrarforschungseinrichtungen"],
       hu: ["Honduras legfontosabb gépesített, öntözéses mezőgazdasági völgye.", "Az exportra szánt zöldségek (padlizsán, paprika, uborka) fő termőterülete.", "Modern agrártechnológiákat és üvegházi termesztést alkalmaznak.", "Jelentős kávéfeldolgozó és csomagoló üzemek működnek a régióban.", "A Palmerola repülőtér fellendítette a friss áruk légi exportját.", "Éghajlata meleg és száraz, de a fejlett öntözés ellensúlyozza ezt.", "A völgy agrárvállalatai több ezer helyi számára biztosítanak munkát."],
-      ro: ["Agricultură", "Cultivarea legumelor", "Cultivarea fructelor", "Export de alimente", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Agriculture", "Vegetable farming", "Fruit farming", "Food export", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/comayagua-agri-economic-v2.webp"},
   {
     id: "trujillo-port-economic-v2",
@@ -402,8 +402,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Heimat des modernen Kreuzfahrtterminals Banana Coast", "Tiefwasserhafen mit exzellentem natürlichen Schutz", "Zentrale Rolle beim Export von Produkten aus dem Departement Colón", "Historisch wichtigster Anlandungspunkt während der Kolonialzeit"],
       hu: ["Trujillo ad otthont a modern 'Banana Coast' luxus hajóterminálnak.", "Ez Honduras egyik legmélyebb és legjobb természetes védettségű öble.", "Központi szerepet játszik Colón megye mezőgazdasági exportjának lebonyolításában.", "Történelmileg ez volt az első pont, ahol a spanyolok partra szálltak a közép-amerikai kontinensen."],
-      ro: ["Port turistic", "Logistică regională", "Creștere", "Infrastructură comercială", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Tourism port", "Regional logistics", "Growth", "Trading infrastructure", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/trujillo-port-economic-v2.webp"},
   {
     id: "juticalpa-trade-economic-v2",
@@ -427,8 +427,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Wichtigster Marktplatz für Rinder in ganz Mittelamerika", "Zentrum für die Produktion von traditionellem Käse und Molkereiprodukten", "Größter Handelsplatz für Getreide im Osten des Landes", "Sitz bedeutender Agrarkooperativen"],
       hu: ["Olancho megye közigazgatási és kereskedelmi székhelye.", "A keleti régió legfőbb agrár-logisztikai elosztóközpontja.", "A gazdaság mozgatórugója a hatalmas volumenű szarvasmarha-tenyésztés.", "Híres az országos piacra szánt olanchoi kézműves sajtokról és tejtermékekről.", "Fontos szerepe van a fakitermelés és a fafeldolgozás kereskedelmében.", "A vágóhidak és feldolgozóüzemek jelentős munkaadók a városban.", "A Tegucigalpa felé vezető út mentén a legfontosabb gazdasági megálló."],
-      ro: ["Creșterea animalelor", "Comerț agricol", "Centru economic", "Producție regională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Livestock farming", "Agro-trade", "Economic center", "Regional production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/juticalpa-trade-economic-v2.webp"},
   {
     id: "siguatepeque-agri-economic-v2",
@@ -452,8 +452,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Zentrum für die Produktion von Schnittblumen in Honduras", "Standort der Nationalen Schule für Forstwissenschaften (ESNACIFOR)", "Bedeutender Produzent von hochwertigem Hochlandkaffee", "Strategischer Handelsplatz zwischen der Hauptstadt und dem Norden"],
       hu: ["Siguatepeque Honduras elsődleges forrása a vágott virágok és dísznövények piacán.", "Itt található a neves Nemzeti Erdészeti Iskola (ESNACIFOR) központi campusa.", "A város az egyik legfontosabb gyűjtőpontja a közép-hondurasi prémium kávéknak.", "A település fontos elosztó központja a mérsékelt égövi zöldségféléknek."],
-      ro: ["Silvicultură", "Agricultură", "Produse regionale", "Locație de procesare", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Forestry", "Agriculture", "Regional products", "Processing site", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/siguatepeque-agri-economic-v2.webp"},
   {
     id: "la-esperanza-craft-economic-v2",
@@ -477,8 +477,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Weltweit bekannt für die einzigartigen Lenca-Webereien", "Basis für zahlreiche Frauenkooperativen in der Region Intibucá", "Produziert hochwertige Naturweine aus einheimischen Früchten", "Wichtiger Anziehungspunkt für Kulturtouristen"],
       hu: ["Honduras legjelentősebb lenca őslakos kézműipari központja.", "A gazdaság egyik alappillére a hagyományos, kézi szövésű lenca textil.", "Az itt készült színes textilek nemzeti és nemzetközi piacra is eljutnak.", "A kézműves műhelyeket és szövetkezeteket nagyrészt nők vezetik.", "Jelentős kereskedelmi központja a magaslati gyümölcsöknek (eper, szeder).", "A kézműves piacok és az agroturizmus egyre több látogatót vonzanak.", "A helyi gazdaság szorosan összefonódik az őslakos kulturális identitással."],
-      ro: ["Textile", "Artizanat", "Bunuri locale", "Producție culturală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Textiles", "Crafts", "Local goods", "Cultural production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/la-esperanza-craft-economic-v2.webp"},
   {
     id: "yoro-agri-economic-v2",
@@ -502,8 +502,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Hauptproduktionszone für Mais im Landesinneren", "Standort bedeutender Molkereigenossenschaften", "Große Flächen für den nachhaltigen Anbau von Nutzhölzern", "Wichtiger Lieferant für die Märkte im Sula-Tal"],
       hu: ["Yoro megye kiterjedt mezőgazdasági és erdészeti központja.", "A magasabb hegyoldalakon minőségi árnyékkávét termesztenek.", "A völgyekben egyre nagyobb teret hódít az afrikai pálma termesztése.", "A fafeldolgozás és asztalosipar továbbra is jelentős munkaadó.", "A helyi őslakos tolupán közösségek is részt vesznek a terménykereskedelemben.", "Gazdaságát a kistermelői szövetkezetek és a marhatartás dominálja.", "A nehézkes úthálózat ellenére fontos élelmiszer-beszállító régió."],
-      ro: ["Creșterea animalelor", "Agricultură", "Agricultură regională", "Producție", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Livestock", "Farming", "Regional agriculture", "Production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/yoro-agri-economic-v2.webp"},
   {
     id: "lejamani-agri-economic-v2",
@@ -527,8 +527,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Honduras' wichtigstes Anbaugebiet für Speisezwiebeln", "Hoher Anteil an exportorientierter Produktion", "Vorreiter bei der Anwendung von Tröpfchenbewässerung", "Wirtschaftliches Zentrum für die umliegenden Agrardörfer"],
       hu: ["A Comayagua-völgy intenzíven öntözött mezőgazdasági zónájában fekszik.", "Kiemelkedő a hagyma, paradicsom és egyéb exportzöldségek termesztése.", "A települést hatalmas, termékeny mangóültetvények övezik.", "Terményeinek jelentős része Tegucigalpába vagy külföldre kerül.", "A lakosság túlnyomó többsége a mezőgazdasági szektorban dolgozik.", "Része a régió fejlett élelmiszer-ellátási és feldolgozási láncának.", "A modern agrártechnika és a vidéki tradíciók ötvöződnek a városban."],
-      ro: ["Cultivarea cepei", "Legume", "Agricultură", "Comerț local", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Onion farming", "Vegetables", "Agriculture", "Local trade", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/lejamani-agri-economic-v2.webp"},
   {
     id: "catacamas-trade-economic-v2",
@@ -552,8 +552,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Sitz der Universidad Nacional de Agricultura (UNAG)", "Wichtigster Handelsplatz für Rindfleischexporte im Osten", "Zentrum für die Holzverarbeitung in der Region Olancho", "Strategisches Tor zur Region La Mosquitia"],
       hu: ["Olancho megye leggyorsabban fejlődő kereskedelmi és agrárvárosa.", "Az ország legnagyobb volumenű szarvasmarha- és húsfeldolgozó központja.", "Hatalmas tejüzemek működnek a város vonzáskörzetében.", "A Guayape-völgy kiterjedt gabona- és kávékereskedelmét irányítja.", "A regionális repülőtér fellendítette a város logisztikai szerepét.", "Az építőipar és a kereskedelem robbanásszerűen növekszik a településen.", "A keleti régió gazdasági és pénzügyi szolgáltató központjává vált."],
-      ro: ["Comerț", "Produse agricole", "Centru economic", "Bază regională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Trade", "Agricultural products", "Economic center", "Regional base", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/catacamas-trade-economic-v2.webp"},
   {
     id: "valle-de-angeles-craft-economic-v2",
@@ -577,8 +577,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["National bekannt für handgeschnitzte Truhen und Möbel", "Zentrum für die Ausbildung im Bereich traditionelles Kunsthandwerk", "Hauptmarkt für Souvenirs und Geschenkartikel im Zentrum des Landes", "Bietet Arbeitsplätze für zahlreiche lokale Künstlerfamilien"],
       hu: ["Honduras legfontosabb kézműves- és turisztikai elosztóközpontja.", "Gazdasága a fafaragásokra, bőrdíszművekre és kerámiákra épül.", "Tegucigalpa közelsége miatt a hétvégi belföldi turizmus motorja.", "Számos kézműves iskola és szövetkezet működik a településen.", "A vendéglátóipar (kávézók, éttermek) a második legfőbb bevételi forrás.", "Az itt készült termékek az ország legtöbb szuvenírboltjába eljutnak.", "A város megőrizte gyarmati arculatát a gazdasági növekedés ellenére."],
-      ro: ["Sculptură în lemn", "Artizanat", "Economie turistică", "Artă", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Woodwork", "Crafts", "Tourism economy", "Art", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/valle-de-angeles-craft-economic-v2.webp"},
   {
     id: "teupasenti-agri-economic-v2",
@@ -602,8 +602,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Produziert erstklassigen Arabica-Kaffee für den Weltmarkt", "Zentrum für den lokalen Handel mit Grundgetreide", "Wachsende Bedeutung für den ökologischen Landbau", "Wichtigster Wirtschaftsfaktor der umliegenden Bergdörfer"],
       hu: ["El Paraíso megye egyik legtermékenyebb hegyvidéki mezőgazdasági városa.", "Gazdasága szinte teljesen az exportra szánt kávétermesztésre épül.", "A Jalán-folyó biztosítja a térség vízellátását.", "A kávészüret idején drasztikusan megnő a helyi gazdaság forgalma.", "Erős kistermelői és szövetkezeti modell jellemzi a gazdálkodást.", "Az erdészet és állattenyésztés kiegészítő bevételi források.", "Infrastruktúrája lassan fejlődik a kávébevételeknek köszönhetően."],
-      ro: ["Cafea", "Porumb", "Agricultură", "Producție locală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Coffee", "Corn", "Agriculture", "Local production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/teupasenti-agri-economic-v2.webp"},
   {
     id: "goascoran-trade-economic-v2",
@@ -627,8 +627,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Standort des wichtigsten Grenzübergangs nach El Salvador (El Amatillo)", "Zentrum für internationale Speditions- und Zolldienstleistungen", "Knotenpunkt für den Personen- und Warenverkehr auf der Panamericana", "Wirtschaftliches Tor zum Pazifikraum für das südwestliche Honduras"],
       hu: ["Valle megye határvárosa az El Salvador-i határt képző folyó mentén.", "Az El Amatillo határátkelő közelsége miatt logisztikai csomópont.", "Gazdasága a tranzitkereskedelemre és vámszolgáltatásokra épül.", "Jelentős szerepet játszik az éttermek és szálláshelyek üzemeltetése.", "A forró klímájú környéken szezámot, dinnyét és cirokot termesztenek.", "A nemzetközi fuvarozás az egyik legnagyobb munkaadó a településen.", "A helyi gazdaság erősen függ az El Salvador-i kereskedelmi forgalomtól."],
-      ro: ["Comerț", "Frontieră", "Schimb economic", "Economie locală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Trade", "Border", "Economic exchange", "Local economy", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/goascoran-trade-economic-v2.webp"},
   {
     id: "talanga-agri-economic-v2",
@@ -652,8 +652,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Bedeutender Produzent von Zuckerrohr für die regionale Industrie", "Hauptlieferant von frischer Milch für die Molkereien der Hauptstadt", "Wichtiges Handelszentrum an der Straße nach Olancho", "Zentrum für den traditionellen Anbau von Grundgetreide"],
       hu: ["A Tegucigalpát ellátó egyik legfontosabb élelmiszer-termelő völgy.", "Gazdaságának motorja a cukornád-, kukorica- és babtermesztés.", "A régióban jelentős tejipari és sajtgyártó kapacitás épült ki.", "Stratégiai elhelyezkedése miatt agrár-logisztikai központtá vált.", "A gépesített mezőgazdaság egyre inkább felváltja a kistermelői munkát.", "A kereskedelem és az utazók kiszolgálása új bevételi forrás a városnak.", "A lakosság száma a gazdasági lehetőségek miatt folyamatosan nő."],
-      ro: ["Horticultură", "Industria lactatelor", "Agricultură", "Bază locală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Horticulture", "Dairy farming", "Agriculture", "Local base", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/talanga-agri-economic-v2.webp"},
   {
     id: "nacaome-agri-economic-v2",
@@ -677,8 +677,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Zentrum für die Produktion von Exportmelonen (Cantaloupe und Honeydew)", "Hauptstandort für großflächige Solarparks in Honduras", "Wichtige Zone für die Fleischrinderzucht im Süden", "Strategischer Handelsplatz nahe dem Golf von Fonseca"],
       hu: ["Honduras egyik legfőbb exportorientált dinnyetermesztő régiója.", "Gazdaságának alappillére a parti garnélarák-tenyésztés (akvakultúra).", "A térségben jelentős ipari sólepárló telepek működnek.", "Fejlett mezőgazdasági technológiát (csepegtető öntözés) alkalmaznak.", "A Pánamerikai főútvonal mentén logisztikai és banki központ.", "A szezám, az okra és a cukornád termesztése is domináns.", "A megye adminisztratív székhelyeként a szolgáltató szektor is erős."],
-      ro: ["Pepeni", "Creșterea animalelor", "Export", "Agricultură", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Melons", "Livestock", "Export", "Agriculture", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/nacaome-agri-economic-v2.webp"},
   {
     id: "santa-rosa-trade-economic-v2",
@@ -702,8 +702,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Finanzielles Zentrum des westlichen Honduras", "Wichtigster Handelsplatz für Tabakprodukte und Zigarren in der Region", "Zentrum für den Export von Spezialitätenkaffees", "Sitz bedeutender Bildungseinrichtungen und Spitäler"],
       hu: ["Nyugat-Honduras adminisztratív, kereskedelmi és gazdasági fővárosa.", "Világhírű a prémium kategóriás kézműves szivarok gyártásáról.", "A nyugati megyék magaslati kávéjának fő feldolgozó és elosztó központja.", "Fejlett szolgáltatói, banki és felsőoktatási szektorral rendelkezik.", "Jelentős turisztikai csomópont a maja romok felé vezető úton.", "Történelmi központja vonzza a gasztronómiai és kulturális turizmust.", "A környező régiók mezőgazdasági termékeinek elsődleges piaca."],
-      ro: ["Comerț", "Economie", "Bază regională", "Servicii", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Trade", "Economy", "Regional base", "Services", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/santa-rosa-trade-economic-v2.webp"},
   {
     id: "puerto-lempira-port-economic-v2",
@@ -727,8 +727,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Einziger logistischer Knotenpunkt in der Region La Mosquitia", "Zentrum für den handwerklichen Fischfang und den Hummerhandel", "Primärer Anlandungspunkt für alle Hilfsgüter und Konsumwaren", "Wichtiger Stützpunkt für den Wassertransport entlang der Lagunen"],
       hu: ["A szárazföldön elzárt La Mosquitia régió fő gazdasági elosztóközpontja.", "Gazdaságának motorja az exportra szánt karibi homár (langosta) kitermelése.", "A homárbúvárkodás komoly társadalmi és egészségügyi kihívást jelent.", "A város ellátása szinte kizárólag vízi és légi úton történik.", "Kereskedelmében a halászat és a faanyag cserekereskedelme dominál.", "Számos nemzetközi NGO és ökoturisztikai vállalkozás bázisa.", "A lagúna és a folyók a legfőbb közlekedési és gazdasági artériák."],
-      ro: ["Aprovizionare regională", "Port", "Logistică", "Punct de ancorare", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Regional supply", "Port", "Logistics", "Anchor point", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/puerto-lempira-port-economic-v2.webp"},
   {
     id: "olanchito-agri-economic-v2",
@@ -752,8 +752,8 @@ export const poiExtraHondurasEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Zentrum der Viehzucht im Aguán-Tal", "Bedeutender Produzent von Milchprodukten für den Norden des Landes", "Wichtiger Standort für die Verarbeitung von Zitrusfrüchten", "Historisch gewachsenes Zentrum der Bananenarbeiterbewegung"],
       hu: ["Yoro megye mezőgazdasági központja az Aguán-folyó völgyében.", "Történelmileg a Standard Fruit Company banántermelő központja volt.", "A gazdaságban ma az afrikai pálma és a citrusfélék dominálnak.", "Jelentős szereplője a hondurasi tej- és húsipari ágazatnak.", "Számos élelmiszer-feldolgozó üzem és pálmaolaj-finomító működik itt.", "Kereskedelmi csomópont Yoro és Colón megyék határvidékén.", "Sík fekvése miatt fokozottan kitett az időjárási szélsőségeknek."],
-      ro: ["Creșterea vitelor", "Agricultură", "Bază regională", "Producție", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Cattle farming", "Agriculture", "Regional base", "Production", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   }
 ];

@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "suddie-cities-v2",
+      "descriptionAdvancedDe": "Suddie ist eine wichtige Gemeinde an der Essequibo-Küste in der Region Pomeroon-Supenaam. Es ist bekannt für sein öffentliches Krankenhaus, das Suddie Public Hospital, das als wichtigstes medizinisches Zentrum für die gesamte Region dient. Suddie hat auch eine historische Bedeutung mit mehreren Kolonialgebäuden, darunter das Gerichtsgebäude. Die Wirtschaft basiert auf Landwirtschaft, hauptsächlich Reisanbau, und die Gemeinde dient als Dienstleistungszentrum für die umliegenden landwirtschaftlichen Gebiete. Die Nähe zum Essequibo-Fluss bietet auch Möglichkeiten zur Fischerei. Das Leben in Suddie ist ruhig und spiegelt den ländlichen Charakter der Essequibo-Küste wider. Die Gemeinde ist über die Küstenstraße gut mit anderen Dörfern in der Region verbunden.",
+      "descriptionAdvancedHu": "Suddie egy fontos közösség az Essequibo-parton, a Pomeroon-Supenaam régióban. A Suddie közkórházáról ismert, amely az egész régió fő orvosi központjaként szolgál. Suddie történelmi jelentőséggel is bír, számos gyarmati épülettel, köztük a bíróság épületével. Gazdasága a mezőgazdaságon, főként a rizstermesztésen alapul, és a közösség szolgáltató központként működik a környező mezőgazdasági területek számára. Az Essequibo folyó közelsége halászati lehetőségeket is kínál. Az élet Suddie-ban csendes, és tükrözi az Essequibo-part vidéki jellegét. A közösség a tengerparti úton keresztül jól kapcsolódik a régió más falvaihoz.",
+      "descriptionAdvancedRo": "Suddie este o comunitate importantă de pe coasta Essequibo, în regiunea Pomeroon-Supenaam. Este renumită pentru spitalul său public, Spitalul Public Suddie, care servește drept principal centru medical pentru întreaga regiune. Suddie are, de asemenea, o importanță istorică, cu mai multe clădiri coloniale, inclusiv tribunalul. Economia se bazează pe agricultură, în principal pe cultivarea orezului, iar comunitatea servește drept centru de servicii pentru zonele agricole din jur. Apropierea de râul Essequibo oferă, de asemenea, oportunități pentru pescuit. Viața în Suddie este liniștită, reflectând caracterul rural al coastei Essequibo. Comunitatea este bine conectată cu alte sate din regiune prin drumul de coastă.",
+      "descriptionAdvancedEn": "Suddie is an important settlement on the Essequibo Coast in the Pomeroon-Supenaam region. It is best known as the location of the Suddie Public Hospital, the main referral hospital for the entire Essequibo region, making it a vital center for healthcare. The community also has administrative importance, hosting a High Court and other government services. The economy is based on the surrounding agricultural landscape, which is dominated by rice cultivation. Suddie has a rich history, with some colonial-era architecture still visible. It serves as a key service and commercial hub for the southern part of the Essequibo Coast, though it is smaller than its northern neighbor, Anna Regina.",
+      "factsAdvanced": [
+        "Az Essequibo-parton található.",
+        "Itt van a Suddie közkórház, a régió fő kórháza.",
+        "A Pomeroon-Supenaam régió része.",
+        "Közigazgatási központ, bírósággal.",
+        "Gazdasága a rizstermesztésen alapul.",
+        "Fontos szolgáltató és kereskedelmi központ.",
+        "Történelmi, gyarmati korabeli épületek is találhatók itt.",
+        "Csendes, vidéki jellegű település."
+      ]
+    },
+    {
+      "id": "charity-cities-v2",
+      "descriptionAdvancedDe": "Charity ist eine geschäftige Marktstadt am Pomeroon-Fluss in der Region Pomeroon-Supenaam. Sie dient als wichtiger wirtschaftlicher Knotenpunkt für die Pomeroon-Region und die Nordwest-Distrikte und verbindet die Flussgemeinden mit der Küste. Der Charity Market ist berühmt und zieht Bauern und Händler aus der gesamten Region an, die ihre Produkte auf dem Wasserweg bringen. Die Stadt ist ein Schmelztiegel der Kulturen, in dem verschiedene ethnische Gruppen zusammenleben und Handel treiben. Die Wirtschaft wird von der Landwirtschaft (insbesondere Kokosnüsse, Zitrusfrüchte und Grundnahrungsmittel), der Fischerei und dem Handel angetrieben. Charity markiert das Ende der öffentlichen Straße an der Essequibo-Küste und ist somit ein wichtiger Umsteigepunkt für den Flussverkehr ins Landesinnere.",
+      "descriptionAdvancedHu": "Charity egy nyüzsgő mezőváros a Pomeroon folyó partján, a Pomeroon-Supenaam régióban. Fontos gazdasági csomópontként szolgál a Pomeroon régió és az északnyugati körzetek számára, összekötve a folyami közösségeket a partvidékkel. A Charity piac híres, és gazdálkodókat és kereskedőket vonz az egész régióból, akik vízi úton hozzák termékeiket. A város a kultúrák olvasztótégelye, ahol különböző etnikai csoportok élnek és kereskednek együtt. A gazdaságot a mezőgazdaság (különösen a kókuszdió, a citrusfélék és az alapvető élelmiszerek), a halászat és a kereskedelem hajtja. Charity jelzi az Essequibo-parti közút végét, így fontos átszállópont a belső területekre irányuló folyami közlekedés számára.",
+      "descriptionAdvancedRo": "Charity este un târg plin de viață, situat pe râul Pomeroon, în regiunea Pomeroon-Supenaam. Acesta servește ca un nod economic vital pentru regiunea Pomeroon și districtele de nord-vest, conectând comunitățile riverane cu coasta. Piața Charity este renumită, atrăgând fermieri și comercianți din întreaga regiune care își aduc produsele pe calea apei. Orașul este un creuzet de culturi, unde diferite grupuri etnice trăiesc și fac comerț împreună. Economia este determinată de agricultură (în special nuci de cocos, citrice și provizii de bază), pescuit și comerț. Charity marchează capătul drumului public de pe coasta Essequibo, ceea ce îl face un punct de transfer cheie pentru transportul fluvial către interior.",
+      "descriptionAdvancedEn": "Charity is a bustling market town situated on the bank of the Pomeroon River, marking the end of the public road on the Essequibo Coast. It serves as the primary economic gateway for the entire Pomeroon River area and communities in the North West District. Its waterfront market is one of the most vibrant in Guyana, with farmers arriving by boat from upriver to sell a vast array of agricultural produce, including coconuts, citrus, and ground provisions. This constant river traffic makes Charity a dynamic hub of commerce and transportation. The town has a hospital, a police station, and numerous businesses catering to the riverain communities. It is a true melting pot, where people from various ethnic backgrounds converge to trade and socialize.",
+      "factsAdvanced": [
+        "A Pomeroon folyó partján fekszik.",
+        "Az Essequibo-parti közút végét jelzi.",
+        "A Pomeroon régió gazdasági kapuja.",
+        "Híres és nyüzsgő vízparti piaca van.",
+        "A gazdálkodók csónakkal érkeznek a piacra.",
+        "Gazdasága a mezőgazdaságon és a kereskedelmen alapul.",
+        "Fontos közlekedési és kereskedelmi csomópont.",
+        "A kultúrák olvasztótégelye."
+      ]
+    },
+    {
+      "id": "aurora-cities-v2",
+      "descriptionAdvancedDe": "Aurora ist ein historisches Anwesen und eine Gemeinde am Ufer des Essequibo-Flusses. Es war eines der vielen Zuckeranwesen, die einst die Ufer des Flusses säumten. Das Aurora-Anwesen hatte seine eigene Zuckerfabrik und eine bedeutende Bevölkerung von Arbeitern. Heute ist die Gegend hauptsächlich landwirtschaftlich geprägt, mit einem Fokus auf Reisanbau und Viehzucht. Die Gemeinde ist Teil des größeren Netzes von Siedlungen an der Essequibo-Küste. Die Überreste der alten Zuckerinfrastruktur sind noch sichtbar und erinnern an die Vergangenheit der Region. Das Leben in Aurora ist ruhig und ländlich und spiegelt den friedlichen Charakter der Essequibo-Region wider. Es ist ein Beispiel für die vielen Siedlungen in Guyana, die sich von einer von Zucker dominierten Vergangenheit zu einer diversifizierteren landwirtschaftlichen Gegenwart entwickelt haben.",
+      "descriptionAdvancedHu": "Az Aurora egy történelmi birtok és közösség az Essequibo folyó partján. Egyike volt a sok cukorbirtoknak, amelyek egykor a folyó partját szegélyezték. Az Aurora birtoknak saját cukorgyára és jelentős munkáslakossága volt. Ma a terület főként mezőgazdasági jellegű, a rizs- és szarvasmarha-tenyésztésre összpontosítva. A közösség az Essequibo-parti települések nagyobb hálózatának része. A régi cukoripari infrastruktúra maradványai még mindig láthatók, emlékeztetve a régió múltjára. Az élet Aurorában csendes és vidéki, tükrözve az Essequibo régió békés jellegét. Példa arra a sok guyanai településre, amelyek a cukor által uralt múltból egy diverzifikáltabb mezőgazdasági jelen felé fejlődtek.",
+      "descriptionAdvancedRo": "Aurora este o moșie și o comunitate istorică situată pe malul râului Essequibo. A fost una dintre multele moșii de zahăr care odinioară mărgineau malurile râului. Moșia Aurora avea propria sa fabrică de zahăr și o populație considerabilă de muncitori. Astăzi, zona este în principal agricolă, cu accent pe cultivarea orezului și creșterea vitelor. Comunitatea face parte din rețeaua mai largă de așezări de pe coasta Essequibo. Rămășițele vechii infrastructuri de zahăr sunt încă vizibile, amintind de trecutul regiunii. Viața în Aurora este liniștită și rurală, reflectând caracterul pașnic al regiunii Essequibo. Este un exemplu al numeroaselor așezări din Guyana care au trecut de la un trecut dominat de zahăr la un prezent agricol mai diversificat.",
+      "descriptionAdvancedEn": "Aurora was a historic sugar estate located on the Essequibo Coast. Like many estates in the area, it was a self-contained community with its own factory, worker housing, and social infrastructure during the colonial era. After the decline of the sugar industry in the region, the estate lands were repurposed for other forms of agriculture, primarily rice cultivation. Today, Aurora is a quiet, rural community, part of the agricultural backbone of the Essequibo Coast. While the grand estate house may be gone, the community retains a sense of its history. Its story is representative of the transition many Guyanese coastal villages have made from a singular reliance on sugar to a more diversified agricultural base.",
+      "factsAdvanced": [
+        "Történelmi cukorbirtok volt az Essequibo-parton.",
+        "Egykor saját gyárral és munkáslakásokkal rendelkezett.",
+        "A cukoripar hanyatlása után a földeket átalakították.",
+        "Ma főként rizstermesztéssel foglalkoznak.",
+        "Csendes, vidéki közösség.",
+        "Történelme a guyanai partvidék átalakulását tükrözi.",
+        "Az Essequibo-part mezőgazdasági gerincének része.",
+        "A közösség megőrizte történelmi érzetét."
+      ]
+    },
+    {
+      "id": "queenstown-cities-v2",
+      "descriptionAdvancedDe": "Queenstown, an der Essequibo-Küste gelegen, hat die Auszeichnung, das erste geplante Dorf in Guyana zu sein, das von ehemaligen Sklaven nach der Emanzipation gegründet wurde. Es wurde 1841 von einer Gruppe von 83 ehemaligen Sklaven von der Plantage Vreed-en-Hoop gemeinsam gekauft. Das Dorf wurde in einem Rastermuster angelegt, mit Grundstücken für Wohnhäuser, Landwirtschaft und Gemeinschaftsräume, einschließlich eines Marktes und einer Kirche. Queenstown ist ein starkes Symbol für die Selbstbestimmung und den Gemeinschaftsgeist der Afro-Guyaner. Es hat ein reiches kulturelles Erbe und eine Geschichte des Stolzes auf seine einzigartige Herkunft. Heute ist es eine überwiegend landwirtschaftliche Gemeinde, die Reis und andere Feldfrüchte anbaut, aber seine historische Bedeutung bleibt seine wichtigste Eigenschaft.",
+      "descriptionAdvancedHu": "A Queenstown, az Essequibo-parton, azzal a kitüntetéssel büszkélkedhet, hogy Guyana első tervezett faluja, amelyet az emancipáció után alapítottak egykori rabszolgák. 1841-ben vásárolta meg közösen egy 83 fős, a Vreed-en-Hoop ültetvényről származó egykori rabszolgákból álló csoport. A falut rácsos mintázatban tervezték, lakóházak, mezőgazdasági területek és közösségi terek, köztük piac és templom számára kijelölt telkekkel. Queenstown az afro-guyanai önrendelkezés és közösségi szellem erős szimbóluma. Gazdag kulturális örökséggel és büszke történelemmel rendelkezik egyedülálló eredetére. Ma túlnyomórészt mezőgazdasági közösség, amely rizst és más növényeket termeszt, de történelmi jelentősége továbbra is a legfontosabb jellemzője.",
+      "descriptionAdvancedRo": "Queenstown, situat pe coasta Essequibo, are distincția de a fi primul sat planificat din Guyana, fondat de foști sclavi după emancipare. A fost cumpărat în mod colectiv în 1841 de un grup de 83 de foști sclavi de pe plantația Vreed-en-Hoop. Satul a fost proiectat într-un model de rețea, cu loturi alocate pentru locuințe, agricultură și spații comunitare, inclusiv o piață și o biserică. Queenstown este un simbol puternic al auto-determinării și spiritului comunitar afro-guyanez. Are o moștenire culturală bogată și o istorie de mândrie pentru originile sale unice. Astăzi, este o comunitate predominant agricolă, care cultivă orez și alte culturi, dar semnificația sa istorică rămâne cea mai importantă caracteristică.",
+      "descriptionAdvancedEn": "Queenstown, located on the Essequibo Coast, holds the distinct honour of being the first village established by freed Africans in Guyana after emancipation. It was collectively purchased in 1841 by a group of former slaves from several estates. The village was meticulously planned with a grid layout, a testament to the founders' vision for an orderly and self-sufficient community. This history makes Queenstown a profoundly important landmark of Afro-Guyanese heritage and empowerment. The village has produced many prominent scholars and public servants. While today its economy is primarily agricultural, based on rice farming, its historical legacy as a pioneering 'proprietary village' is its most defining feature, celebrated by its proud residents.",
+      "factsAdvanced": [
+        "Guyana első, felszabadított rabszolgák által alapított faluja.",
+        "1841-ben vásárolták meg közösen.",
+        "Gondosan, rácsos szerkezetben tervezték meg.",
+        "Az afro-guyanai örökség fontos mérföldköve.",
+        "Az önellátás és a közösségi jövőkép szimbóluma.",
+        "Gazdasága ma a rizstermesztésen alapul.",
+        "Számos neves tudóst és köztisztviselőt adott az országnak.",
+        "Az Essequibo-parton található."
+      ]
+    },
+    {
+      "id": "parika-cities-v2",
+      "descriptionAdvancedDe": "Parika ist einer der geschäftigsten Transport- und Wirtschaftsknotenpunkte in Guyana und liegt am Ostufer des Essequibo-Flusses. Es ist vor allem für seine große Anlegestelle bekannt, die als Hauptterminal für Fähr- und Schnellbootdienste zur Essequibo-Küste (nach Adventure und Supernaam) und zu den Essequibo-Inseln wie Leguan und Wakenaam dient. Der Parika-Markt, der sich in der Nähe der Anlegestelle befindet, ist einer der größten und dynamischsten des Landes und besonders sonntags sehr belebt. Bauern aus dem gesamten Essequibo-Flussgebiet kommen hierher, um ihre Produkte zu verkaufen. Parika ist ein entscheidendes Bindeglied zwischen der Küstenregion und dem Inneren des Essequibo und erleichtert einen enormen Waren- und Personenfluss. Die Stadt ist ständig in Bewegung und ein Mikrokosmos des kommerziellen Lebens in Guyana.",
+      "descriptionAdvancedHu": "Parika Guyana egyik legforgalmasabb közlekedési és gazdasági csomópontja, az Essequibo folyó keleti partján. Leginkább a nagy kikötőjéről ismert, amely az Essequibo-partra (Adventure és Supernaam felé) és az Essequibo-szigetekre, mint például Leguan és Wakenaam, induló komp- és motorcsónak-járatok fő terminálja. A kikötő közelében található Parika piac az ország egyik legnagyobb és legdinamikusabb piaca, amely különösen vasárnaponként zsúfolt. Az Essequibo folyó egész területéről érkeznek ide gazdálkodók, hogy eladják termékeiket. Parika létfontosságú kapocs a part menti régió és az Essequibo belseje között, megkönnyítve a hatalmas áru- és személyforgalmat. A város állandó mozgásban van, és a guyanai kereskedelmi élet mikrokozmosza.",
+      "descriptionAdvancedRo": "Parika este unul dintre cele mai aglomerate noduri de transport și economice din Guyana, situat pe malul de est al râului Essequibo. Este cel mai bine cunoscut pentru debarcaderul său mare, care servește drept principal terminal pentru serviciile de feribot și bărci rapide către coasta Essequibo (spre Adventure și Supernaam) și către insulele Essequibo, cum ar fi Leguan și Wakenaam. Piața Parika, situată în apropierea debarcaderului, este una dintre cele mai mari și mai dinamice din țară, fiind deosebit de aglomerată duminica. Fermierii din întreaga regiune a râului Essequibo vin aici pentru a-și vinde produsele. Parika este o verigă crucială între regiunea de coastă și interiorul Essequibo, facilitând un flux enorm de bunuri și persoane. Orașul este în permanență în mișcare, un microcosmos al vieții comerciale guyaneze.",
+      "descriptionAdvancedEn": "Parika is a major port community located on the east bank of the Essequibo River. It is arguably one of the most important transportation hubs in Guyana. Its large stelling (wharf) is the main departure point for ferries and speedboats heading to the Essequibo Islands (like Leguan and Wakenaam) and across the river to the Essequibo Coast. This makes it a critical link for commerce and travel. The Parika Market, adjacent to the stelling, is massive and famously chaotic, especially on Sundays, when farmers and vendors from all over the region converge to trade. The area is a constant hive of activity, a bottleneck through which a significant portion of the country's agricultural produce and people pass. It is a vital engine for the economy of the Essequibo region.",
+      "factsAdvanced": [
+        "Guyana egyik legfontosabb közlekedési csomópontja.",
+        "Az Essequibo folyó keleti partján található.",
+        "Fő kikötő az Essequibo-szigetek és a nyugati part felé.",
+        "A Parika piac az ország egyik legnagyobbika.",
+        "A piac különösen vasárnaponként nyüzsgő.",
+        "Létfontosságú kapocs a partvidék és a belső területek között.",
+        "Nagy mennyiségű mezőgazdasági termék halad át rajta.",
+        "Az Essequibo régió gazdaságának motorja."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "ro",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cape-coast-castle-history-v2",
+      "description": "Un castel istoric impunător situat pe coasta Ghanei, folosit anterior în comerțul transatlantice cu sclavi.",
+      "facts": ["Construit de suedezi în 1653", "Sediul guvernului britanic până în 1877", "Inclus în Patrimoniul Mondial UNESCO"]
+    },
+    {
+      "id": "elmina-castle-history-v2",
+      "description": "Cea mai veche clădire europeană din Africa subsahariană, ridicată inițial de portughezi ca post comercial.",
+      "facts": ["Fondat în anul 1482", "Cucerit de olandezi în 1637", "Punct major de tranzit pentru sclavi"]
+    },
+    {
+      "id": "osu-castle-history-v2",
+      "description": "O fortăreață situată în Accra, care a servit mult timp ca sediu al guvernului Ghanei sub diverse nume.",
+      "facts": ["Construit de danezi în anii 1660", "Cunoscut și sub numele de Fort Christiansborg", "Situat pe malul Golfului Guineei"]
+    },
+    {
+      "id": "larabanga-mosque-history-v2",
+      "description": "O moschee istorică construită în stil arhitectural sudano-sahelian, fiind una dintre cele mai vechi din Africa de Vest.",
+      "facts": ["Datată aproximativ în anul 1421", "Construită din pământ și stâlpi de lemn", "Adăpostește un Coran vechi manuscris"]
+    },
+    {
+      "id": "kumasi-fort-history-v2",
+      "description": "O fortificație militară situată în inima orașului Kumasi, servind astăzi ca muzeu militar al Ghanei.",
+      "facts": ["Construit inițial în 1820 de Asante", "Reconstruit de britanici în 1897", "Prezintă echipamente din al Doilea Război Mondial"]
+    },
+    {
+      "id": "manhyia-palace-history-v2",
+      "description": "Reședința oficială a monarhilor Asante, situată în Kumasi, reprezentând centrul culturii și tradiției Ashanti.",
+      "facts": ["Construit în 1925 de britanici", "Sediul regelui Asantehene", "Include un muzeu despre istoria Ashanti"]
+    },
+    {
+      "id": "assin-manso-slave-river-history-v2",
+      "description": "Un loc memorial unde sclavii făceau ultima baie rituală în Africa înainte de a fi trimiși peste ocean.",
+      "facts": ["Localizat în regiunea Centrală", "Râul Ndonkor Nsuo este locul central", "Găzduiește Ziua Emancipării anual"]
+    },
+    {
+      "id": "fort-prinzenstein-history-v2",
+      "description": "Un fort situat în Keta, folosit inițial pentru apărare și ulterior ca punct de tranzit în comerțul cu sclavi.",
+      "facts": ["Construit de danezi în 1784", "Parțial distrus de eroziunea marină", "Singurul fort danez la est de râul Volta"]
+    },
+    {
+      "id": "fort-san-sebastian-history-v2",
+      "description": "O fortificație istorică în Shama, fiind unul dintre primele puncte de sprijin europene pe coasta Ghanei.",
+      "facts": ["Ridicat de portughezi în 1526", "Aparține stilului arhitectural manuelin", "Locul de înmormântare al lui Anton Wilhelm Amo"]
+    },
+    {
+      "id": "fort-apollonia-history-v2",
+      "description": "Un fort britanic situat în Beyin, în extremitatea vestică a coastei Ghanei, lângă granița cu Coasta de Fildeș.",
+      "facts": ["Construit între 1768 și 1770", "Restaurat complet în anii 1960", "Găzduiește Muzeul Patrimoniului Nzema"]
+    },
+    {
+      "id": "fort-metal-cross-history-v2",
+      "description": "Un fort britanic construit pe o colină în Dixcove, oferind o vedere panoramică asupra portului natural local.",
+      "facts": ["Finalizat în anul 1697", "Folosit pentru comerțul cu aur și cherestea", "Singurul fort britanic din această zonă"]
+    }
+  ]
+}

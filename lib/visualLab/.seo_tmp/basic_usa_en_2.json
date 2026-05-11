@@ -1,0 +1,81 @@
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "description": "Faneuil Hall is a historic market hall and meeting place in Boston, Massachusetts. It has served as a central site for American political discourse since the 18th century.",
+      "facts": ["Historic Boston landmark", "Founded in 1742", "Site of revolutionary meetings", "Popular market destination"]
+    },
+    {
+      "id": "hollywood-bowl-landmarks-v2",
+      "description": "The Hollywood Bowl is an iconic amphitheater in the Hollywood Hills of Los Angeles, California. It is world-renowned for its natural acoustics and star-studded summer concert performances.",
+      "facts": ["Located in Hollywood Hills", "Natural acoustic setting", "Iconic outdoor venue", "Used for major concerts"]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "Yellowstone National Park is the world's first national park, spanning parts of Wyoming, Montana, and Idaho. It is celebrated for its geothermal wonders, including Old Faithful, and diverse wildlife.",
+      "facts": ["World's first national park", "Geothermal wonders", "Home to grizzly bears", "Vast volcanic caldera"]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "Walt Disney World Resort in Orlando, Florida, is the largest and most-visited vacation destination on Earth. It features multiple theme parks, water parks, and entertainment complexes.",
+      "facts": ["Massive Florida resort", "Four major theme parks", "Opened in 1971", "World's most visited"]
+    },
+    {
+      "id": "everglades-national-park-life-v2",
+      "description": "Everglades National Park is a massive tropical wetlands preserve in southern Florida. It is the largest subtropical wilderness in the United States and home to diverse endangered species.",
+      "facts": ["Tropical wetlands preserve", "Largest subtropical wilderness", "Home to American alligators", "UNESCO World Heritage site"]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "description": "The Central Park Zoo is a compact zoo located within the iconic Central Park in Manhattan, New York City. It features species from various habitats, ranging from tropical to polar regions.",
+      "facts": ["Located in Manhattan", "Inside Central Park", "Polar animal exhibits", "Family-friendly attraction"]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "Denali National Park and Preserve is located in interior Alaska, home to North America's highest peak. The park's rugged landscape supports diverse wildlife such as grizzly bears and caribou.",
+      "facts": ["Contains North America's peak", "Located in interior Alaska", "Rugged wilderness area", "Home to diverse wildlife"]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "Glacier National Park is a rugged, mountainous park located in Montana, bordering Canada. It is known for its pristine alpine forests, glacial lakes, and the Going-to-the-Sun Road.",
+      "facts": ["Montana mountainous park", "Pristine glacial lakes", "Alpine forest landscapes", "Scenic highway access"]
+    },
+    {
+      "id": "hersheypark-life-v2",
+      "description": "Hersheypark is a major family amusement park in Hershey, Pennsylvania, originally created for employees of the Hershey chocolate company. It is famous for its large collection of roller coasters.",
+      "facts": ["Pennsylvania amusement park", "Hershey chocolate history", "Famous roller coasters", "Family entertainment venue"]
+    },
+    {
+      "id": "olympic-national-park-life-v2",
+      "description": "Olympic National Park in Washington state spans diverse ecosystems, from glacial peaks to temperate rainforests. It is protected as a UNESCO World Heritage site for its unique biodiversity.",
+      "facts": ["Diverse WA ecosystems", "Temperate rainforests", "UNESCO World Heritage site", "Glacial peak landscapes"]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "The Shedd Aquarium is a prominent indoor public aquarium located on the shore of Lake Michigan in Chicago. It houses thousands of aquatic animals in exhibits representing global habitats.",
+      "facts": ["Located on Lake Michigan", "Thousands of aquatic animals", "Chicago landmarks area", "Global habitat exhibits"]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "Rocky Mountain National Park is located in north-central Colorado, encompassing spectacular mountain peaks and diverse forests. It offers visitors access to the high-altitude Continental Divide.",
+      "facts": ["Colorado mountain peaks", "High-altitude landscape", "Continental Divide location", "Extensive trail system"]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "description": "LEGOLAND California is a child-focused theme park in Carlsbad, California. It features interactive rides, shows, and expansive miniature landscapes built from millions of plastic bricks.",
+      "facts": ["Located in Carlsbad", "Lego-themed attractions", "Interactive rides and shows", "Miniature brick cities"]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "Grand Teton National Park is located in northwestern Wyoming, featuring the dramatic Teton Mountain Range. It is renowned for its jagged peaks, alpine lakes, and varied wildlife population.",
+      "facts": ["Wyoming mountain range", "Dramatic jagged peaks", "Pristine alpine lakes", "Varied wildlife habitat"]
+    }
+  ]
+}

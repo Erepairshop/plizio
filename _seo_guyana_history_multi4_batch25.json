@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-african-liberation-monument-history-v2",
+      "descriptionAdvancedDe": "Das Denkmal der afrikanischen Befreiung in Georgetown ist ein Symbol der Solidarität Guyanas mit den Befreiungsbewegungen auf dem afrikanischen Kontinent. Das 1974 vom damaligen Premierminister Forbes Burnham eingeweihte Denkmal befindet sich auf dem Gelände der Umana Yana. Es besteht aus fünf Speeren, die auf einem Betonsockel ruhen und die fünf Regionen Afrikas (Nord, Süd, Ost, West und Zentral) symbolisieren. Das Denkmal ehrt den Kampf und die Opfer derer, die für die Befreiung Afrikas von Kolonialismus und Apartheid gekämpft haben. Es spiegelt die panafrikanische Ideologie wider, die in den postkolonialen Jahren in Guyana und der Karibik stark war. Die Lage neben der Umana Yana, einem Symbol indigenen Erbes, unterstreicht die Botschaft der Einheit und des gemeinsamen Kampfes gegen Unterdrückung. Es ist ein wichtiger Ort, der an die globalen Verbindungen des guyanischen Freiheitskampfes erinnert.",
+      "descriptionAdvancedHu": "A georgetowni Afrikai Felszabadítási Emlékmű Guyana szolidaritásának szimbóluma az afrikai kontinens felszabadítási mozgalmaival. Az emlékművet 1974-ben Forbes Burnham akkori miniszterelnök avatta fel, és az Umana Yana területén található. Öt lándzsából áll, amelyek egy beton talapzaton nyugszanak, és Afrika öt régióját (Észak, Dél, Kelet, Nyugat és Közép) szimbolizálják. Az emlékmű tiszteleg azok küzdelme és áldozatai előtt, akik Afrika gyarmatosítástól és apartheiről való felszabadításáért harcoltak. Tükrözi a pánafrikanista ideológiát, amely a gyarmati felszabadulás utáni években erős volt Guyanában és a Karib-térségben. Az Umana Yana, az őslakos örökség szimbóluma melletti elhelyezkedése hangsúlyozza az egység és az elnyomás elleni közös küzdelem üzenetét. Fontos hely, amely a guyanai szabadságharc globális kapcsolataira emlékeztet.",
+      "descriptionAdvancedRo": "Monumentul Eliberării Africane din Georgetown este un simbol al solidarității Guyanei cu mișcările de eliberare de pe continentul african. Inaugurat în 1974 de prim-ministrul de atunci, Forbes Burnham, monumentul este situat pe terenul Umana Yana. Acesta constă din cinci sulițe care se odihnesc pe o bază de beton, simbolizând cele cinci regiuni ale Africii (Nord, Sud, Est, Vest și Centrală). Monumentul onorează lupta și sacrificiile celor care au luptat pentru eliberarea Africii de colonialism și apartheid. Reflectă ideologia panafricanistă care a fost puternică în Guyana și în Caraibe în anii postcoloniali. Amplasarea sa lângă Umana Yana, un simbol al moștenirii indigene, subliniază mesajul de unitate și luptă comună împotriva opresiunii. Este un loc important care amintește de legăturile globale ale luptei pentru libertate a Guyanei.",
+      "descriptionAdvancedEn": "The African Liberation Monument in Georgetown is a symbol of Guyana's solidarity with the liberation movements on the African continent. Unveiled in 1974 by then-Prime Minister Forbes Burnham, the monument is located on the grounds of the Umana Yana. It consists of five spears resting on a concrete base, symbolizing the five regions of Africa (North, South, East, West, and Central). The monument honors the struggle and sacrifices of those who fought for the liberation of Africa from colonialism and apartheid. It reflects the Pan-Africanist ideology that was strong in Guyana and the Caribbean during the post-colonial years. Its location next to the Umana Yana, a symbol of indigenous heritage, underscores the message of unity and shared struggle against oppression. It is an important site that recalls the global connections of Guyana's own fight for freedom.",
+      "factsAdvanced": [
+        "Eingeweiht im Jahr 1974 von Premierminister Forbes Burnham.",
+        "Symbolisiert die Solidarität Guyanas mit den Befreiungsbewegungen in Afrika.",
+        "Besteht aus fünf Speeren auf einem Betonsockel.",
+        "Die fünf Speere repräsentieren die fünf Regionen Afrikas.",
+        "Befindet sich auf dem Gelände der Umana Yana in Georgetown.",
+        "Reflektiert die panafrikanische Ideologie der postkolonialen Ära.",
+        "Ehrt den Kampf gegen Kolonialismus und Apartheid.",
+        "Ein Symbol der Einheit im Kampf gegen Unterdrückung."
+      ]
+    }
+  ]
+}

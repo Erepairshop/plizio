@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "batumi-botanical-garden-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Botanische Garten von Batumi ist eine der größten und artenreichsten Anlagen ihrer Art weltweit und liegt etwa neun Kilometer nördlich des Stadtzentrums am sogenannten 'Grünen Kap' (Mtswane Konzchi). Geografisch erstreckt sich der Garten über eine steil zum Schwarzen Meer abfallende Hügellandschaft, was ein einzigartiges Mikroklima schafft, in dem Pflanzen aus unterschiedlichsten Klimazonen gedeihen. Historisch wurde der Garten 1912 vom russischen Botaniker Andrei Krasnow gegründet, mit dem Ziel, subtropische Nutzpflanzen für die Region zu akklimatisieren. Die Anlage ist technisch in neun phytogeografische Abteilungen unterteilt, darunter Sektionen für Ostasien, Nordamerika, Neuseeland, Südamerika und den Himalaya. Ökonomisch ist der Garten ein zentraler Pfeiler des Tourismus in Adscharien und ein wichtiges Zentrum für wissenschaftliche Forschung in den Bereichen Dendrologie und Zierpflanzenbau. Besonders beeindruckend ist die Harmonie, mit der die Flora der feuchten Subtropen Transkaukasiens mit exotischen Arten wie Mammutbäumen, Bambushainen und australischen Eukalyptusbäumen koexistiert. Der Garten dient zudem als wichtiger Schutzraum für endemische kaukasische Pflanzenarten, die durch die fortschreitende Küstenbebauung bedroht sind. Die terrassenförmige Anlage bietet spektakuläre Sichtachsen auf den Ozean und ist ein herausragendes Beispiel für die Landschaftsarchitektur des frühen 20. Jahrhunderts.",
+        "hu": "A Batumi Botanikus Kert a világ egyik legnagyobb és legváltozatosabb növénygyűjteménye, amely Batumi központjától mintegy kilenc kilométerre északra, a Mcvane Konchi (Zöld-fok) területén található. Földrajzilag a kert a Fekete-tengerbe meredeken belejtő domboldalakon terül el, ami egyedülálló mikroklímát biztosít a legkülönfélébb éghajlati övekből származó növények számára. Történelmileg a kertet 1912-ben alapította Andrej Krasznov orosz botanikus, azzal a céllal, hogy szubtrópusi haszonnövényeket honosítson meg a régióban. A létesítmény technikailag kilenc fitogeográfiai részlegre oszlik, többek között kelet-ázsiai, észak-amerikai, új-zélandi, dél-amerikai és himalájai szekciókra. Gazdaságilag a kert Adzsara turizmusának egyik tartóoszlopa, valamint a dendrológiai és dísznövénytermesztési kutatások fontos központja. Különösen lenyűgöző az az összhang, amellyel a kaukázusi nedves szubtrópusi flóra és az olyan egzotikus fajok, mint az óriás mamutfenyők, bambuszligetek és ausztrál eukaliptuszfák együtt élnek. A kert emellett fontos menedékhely a bennszülött kaukázusi növényfajok számára, amelyeket a part menti beépítések veszélyeztetnek. A teraszos kialakítás látványos rálátást biztosít az óceánra, és a 20. század eleji tájépítészet kiemelkedő példája.",
+        "ro": "Grădina Botanică din Batumi este una dintre cele mai mari și mai diverse instituții de acest gen din lume, situată la aproximativ nouă kilometri nord de centrul orașului, pe promontoriul cunoscut sub numele de „Capul Verde” (Mtsvane Kontskhi). Din punct de vedere geografic, grădina se întinde pe versanții care coboară abrupt spre Marea Neagră, creând un microclimat unic ce permite aclimatizarea plantelor din zone climatice extrem de variate. Istoric, grădina a fost fondată în 1912 de botanistul rus Andrei Krasnov, având ca scop inițial testarea culturilor subtropicale pentru dezvoltarea economică a regiunii. Tehnic, ansamblul este divizat în nouă sectoare fitogeografice, incluzând secțiuni dedicate Asiei de Est, Americii de Nord, Noii Zeelande, Americii de Sud și Himalayei. Economic, grădina este un motor vital pentru turismul din Adjara și un centru de cercetare științifică recunoscut în domeniile dendrologiei și floriculturii. O particularitate remarcabilă este modul în care flora autohtonă a Caucazului colaborează cu specii exotice, precum arborii sequoia giganți, crângurile de bambus și eucalipții australieni. Grădina servește, de asemenea, ca rezervor genetic pentru conservarea speciilor endemice periclitate de urbanizarea zonelor de coastă. Amenajarea în terase oferă perspective spectaculoase asupra mării, fiind un exemplu de vârf al arhitecturii peisagistice de la începutul secolului al XX-lea.",
+        "en": "The Batumi Botanical Garden is one of the largest and most ecologically diverse facilities of its kind globally, situated approximately nine kilometers north of the city center at the so-called 'Green Cape' (Mtsvane Kontskhi). Geographically, the garden spans a series of hills that descend steeply into the Black Sea, creating a unique microclimate suitable for flora from vastly different climatic zones. Historically, the garden was established in 1912 by the Russian botanist Andrey Krasnov, with the initial aim of acclimating subtropical crops to the region. Technically, the site is organized into nine phytogeographical departments, featuring sections for East Asia, North America, New Zealand, South America, and the Himalayas. Economically, the garden is a cornerstone of Adjara's tourism industry and functions as a major center for scientific research in dendrology and ornamental horticulture. A notable feature is the seamless integration of indigenous Transcaucasian subtropical flora with exotic species such as giant sequoias, bamboo groves, and Australian eucalyptus trees. The garden also acts as a critical sanctuary for endemic Caucasian plant species threatened by coastal development. Its terraced layout offers spectacular vistas over the ocean, standing as an outstanding example of early 20th-century landscape architecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gründung im Jahr 1912 durch den Botaniker Andrei Krasnow.",
+          "Umfasst neun verschiedene geografische Pflanzenzonen der Welt.",
+          "Beherbergt über 5.000 verschiedene Pflanzen- und Baumarten.",
+          "Liegt am Mtswane Konzchi, dem klimatisch mildesten Ort der Region.",
+          "Wichtigstes Forschungszentrum für subtropische Landwirtschaft im Kaukasus.",
+          "Bietet eine 111 Hektar große Fläche für wissenschaftliche Studien."
+        ],
+        "hu": [
+          "Andrej Krasznov botanikus alapította 1912-ben.",
+          "A világ kilenc különböző növényföldrajzi övezetét mutatja be.",
+          "Több mint 5000 növény- és fafaj található a területén.",
+          "A Mcvane Konchi területén fekszik, amely a régió legenyhébb pontja.",
+          "A kaukázusi szubtrópusi mezőgazdaság legfőbb kutatóbázisa.",
+          "111 hektáros területével az egyik legnagyobb kert az egykori Szovjetunióban."
+        ],
+        "ro": [
+          "Fondată în anul 1912, fiind un proiect vizionar al lui Andrei Krasnov.",
+          "Structurată în 9 sectoare ce reprezintă biomurile principale ale planetei.",
+          "Colecția botanică numără peste 5.000 de taxoni vegetali.",
+          "Amplasată pe promontoriul Mtsvane Kontskhi, cu climă maritimă blândă.",
+          "Centru strategic de cercetare pentru aclimatizarea plantelor exotice.",
+          "Suprafața totală de 111 hectare include păduri primare și grădini tematice."
+        ],
+        "en": [
+          "Established in 1912 by the prominent botanist Andrey Krasnov.",
+          "Divided into nine distinct world phytogeographical zones.",
+          "Home to a collection of more than 5,000 plant and tree species.",
+          "Located at Mtsvane Kontskhi, the mildest climatic spot in the region.",
+          "The leading research hub for subtropical agriculture in the Caucasus.",
+          "Spans 111 hectares of diverse coastal and hillside terrain."
+        ]
+      }
+    },
+    {
+      "id": "batumi-boulevard-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Boulevard von Batumi ist die historische und soziale Seele der Stadt und eine der längsten Uferpromenaden Europas. Geografisch erstreckt sich der Boulevard über sieben Kilometer entlang der Schwarzmeerküste und verbindet das historische Hafenviertel mit den modernen Hotelkomplexen im Süden. Historisch begann der Bau bereits im Jahr 1881 unter der Leitung des preußischen Gärtners August Ressler und wurde später vom französischen Architekten Michel D'Alphonse vollendet. Der Park ist in einen 'alten' und einen 'neuen' Boulevard unterteilt, wobei der ältere Teil durch prächtige Magnolien, Palmen und klassizistische Architektur wie die Batumi-Kolonnaden besticht. Ökonomisch ist der Boulevard das touristische Epizentrum der Autonomen Republik Adscharien und beherbergt zahlreiche Restaurants, Attraktionen und moderne Kunstwerke wie die kinetische Ali-und-Nino-Statue. Technisch gesehen ist die Anlage ein Meisterwerk des Küstenschutzes und der Stadtplanung, da sie als grüne Barriere zwischen dem Meer und dem Stadtkern fungiert. In den letzten Jahrzehnten wurde der Boulevard kontinuierlich erweitert und mit Fahrradwegen, Springbrunnen und modernen Lichtinstallationen modernisiert. Er spiegelt den Wandel Batumis von einem kolonialen Handelshafen zu einer modernen, kosmopolitischen Urlaubsdestination wider und bleibt der wichtigste öffentliche Raum für Einheimische und Besucher gleichermaßen.",
+        "hu": "A Batumi sugárút a város történelmi és társadalmi lelke, valamint Európa egyik leghosszabb tengerparti sétánya. Földrajzilag a sugárút hét kilométer hosszan húzódik a Fekete-tenger partján, összekötve a történelmi kikötőnegyedet a déli modern szállodakomplexumokkal. Történelmileg az építkezés már 1881-ben megkezdődött August Ressler porosz kertész vezetésével, majd később Michel D'Alphonse francia építész fejezte be. A park egy „régi” és egy „új” sugárútra oszlik, ahol a régebbi részt pompás magnóliák, pálmák és olyan klasszicista építmények díszítik, mint a Batumi Kolonnádok. Gazdaságilag a sugárút az Adzsara Autonóm Köztársaság turisztikai epicentruma, számos étteremnek, látnivalónak és modern műalkotásnak ad otthont, mint például a kinetikus Ali és Nino szobor. Technikai szempontból a létesítmény a partvédelem és a várostervezés mesterműve, mivel zöld gátként funkcionál a tenger és a városközpont között. Az elmúlt évtizedekben a sugárutat folyamatosan bővítették, kerékpárutakkal, szökőkutakkal és modern fényinstallációkkal korszerűsítették. Tükrözi Batumi átalakulását a gyarmati kereskedelmi kikötőből modern, kozmopolita nyaralóhellyé, és továbbra is a legfontosabb közösségi tér maradt a helyiek és a látogatók számára egyaránt.",
+        "ro": "Bulevardul din Batumi este inima istorică și socială a orașului și una dintre cele mai lungi promenade de coastă din Europa. Geografic, bulevardul se întinde pe șapte kilometri de-a lungul țărmului Mării Negre, conectând zona portuară istorică de complexele hoteliere moderne din sud. Din punct de vedere istoric, construcția a început în anul 1881 sub coordonarea grădinarului prusac August Ressler și a fost finalizată de arhitectul francez Michel D'Alphonse. Parcul este împărțit într-un bulevard „vechi” și unul „nou”, secțiunea istorică remarcându-se prin magnolii impunătoare, palmieri și arhitectură neoclasică, precum Colonadele din Batumi. Economic, bulevardul este epicentrul turistic al Republicii Autonome Adjara, găzduind numeroase restaurante, atracții și opere de artă modernă, inclusiv statuia cinetică Ali și Nino. Din punct de vedere tehnic, ansamblul reprezintă o reușită a protecției costiere și a planificării urbane, funcționând ca o barieră verde între mare și nucleul urban. În ultimele decenii, bulevardul a fost extins continuu și modernizat cu piste de biciclete, fântâni arteziene și instalații de iluminat avangardiste. Acesta reflectă transformarea orașului Batumi dintr-un port comercial colonial într-o destinație de vacanță cosmopolită, rămânând principalul spațiu public de interacțiune.",
+        "en": "The Batumi Boulevard is the historical and social soul of the city and one of the longest seaside promenades in Europe. Geographically, the boulevard stretches for seven kilometers along the Black Sea coast, linking the historic port district with the modern hotel developments to the south. Historically, construction began in 1881 under the direction of the Prussian gardener August Ressler and was later completed by the French architect Michel D'Alphonse. The park is divided into an 'old' and a 'new' boulevard, with the historic section distinguished by magnificent magnolias, palms, and Neoclassical landmarks such as the Batumi Colonnades. Economically, the boulevard is the tourist epicenter of the Adjara Autonomous Republic, housing numerous restaurants, attractions, and modern artworks like the kinetic Ali and Nino statue. Technically, the site is a masterpiece of coastal engineering and urban planning, acting as a green buffer between the sea and the city center. In recent decades, the boulevard has undergone continuous expansion and modernization, incorporating cycling paths, dancing fountains, and contemporary light installations. It reflects Batumi's evolution from a colonial trade port into a modern, cosmopolitan holiday destination and remains the most vital public space for residents and visitors alike."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Baubeginn im Jahr 1881 unter preußischer und französischer Leitung.",
+          "Gesamtlänge von rund sieben Kilometern entlang der Schwarzmeerküste.",
+          "Beherbergt die Batumi-Kolonnaden, ein Wahrzeichen aus dem Jahr 1934.",
+          "Unterteilt in eine historische und eine moderne Zone (Neuer Boulevard).",
+          "Zentrum des kulturellen Lebens mit den berühmten tanzenden Springbrunnen.",
+          "Standort zahlreicher moderner Skulpturen und des Alphabet-Turms."
+        ],
+        "hu": [
+          "1881-ben kezdték építeni porosz és francia tájépítészek vezetésével.",
+          "Körülbelül hét kilométer hosszú sétány a Fekete-tenger partján.",
+          "Itt találhatóak az 1934-ben épült ikonikus Batumi Kolonnádok.",
+          "Két fő részre, a történelmi óvárosi és a modern új szakaszra oszlik.",
+          "A zenélő szökőkutak és szabadtéri koncertek központi helyszíne.",
+          "Számos modern szobornak és az Ábécé-toronynak is otthont ad."
+        ],
+        "ro": [
+          "Construcția a fost demarată în 1881, îmbinând stilurile prusac și francez.",
+          "Promenadă maritimă cu o lungime totală de 7 kilometri.",
+          "Include Colonadele din Batumi, simbol al orașului finalizat în 1934.",
+          "Divizat structural în Bulevardul Vechi și Bulevardul Nou (modern).",
+          "Găzduiește spectacolul zilnic al fântânilor arteziene muzicale.",
+          "Punct nodal pentru arta stradală, incluzând statuia kinetică Ali și Nino."
+        ],
+        "en": [
+          "Construction initiated in 1881 by Prussian and French landscape architects.",
+          "Extends for approximately seven kilometers along the Black Sea shoreline.",
+          "Home to the iconic Batumi Colonnades, completed in 1934.",
+          "Features a distinct historical section and a recently developed 'New Boulevard'.",
+          "Central hub for city nightlife and the famous dancing fountains show.",
+          "Host to several major landmarks including the Alphabet Tower and Ali and Nino."
+        ]
+      }
+    },
+    {
+      "id": "katskhi-pillar-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Katskhi-Säule ist eine der außergewöhnlichsten religiösen Stätten Georgiens und ein geologisches Unikat in der Region Imeretien. Geografisch handelt es sich um einen isolierten, rund 40 Meter hohen Kalkstein-Monolithen, der aus einer tiefen Schlucht des Katskhura-Flusses aufragt. Historisch war die Säule bereits im frühen Mittelalter ein Ort für Asketen, insbesondere für die Säulenheiligen (Styliten), die dort oben in Isolation Gott suchten. Die Ruinen einer kleinen Kapelle und Zellen aus dem 9. und 10. Jahrhundert zeugen von dieser Tradition. Nach Jahrhunderten der Vernachlässigung wurde der Komplex in den 1990er Jahren revitalisiert, und eine neue Kirche, gewidmet dem Heiligen Maximus dem Bekenner, wurde auf dem Gipfel errichtet. Technisch gesehen stellt der Aufstieg über eine Eisenleiter eine enorme Herausforderung dar und ist heute für Besucher aus Sicherheits- und religiösen Gründen untersagt. Ökonomisch ist Katskhi ein wichtiger Motor für den spirituellen Tourismus in der Region nahe Chiatura. Die geologische Formation entstand durch selektive Erosion der umliegenden weicheren Gesteinsschichten. Die Säule symbolisiert die Verbindung zwischen Erde und Himmel und ist ein tief beeindruckendes Zeugnis für den extremen christlichen Asketismus im Kaukasus.",
+        "hu": "A Katskhi-oszlop Grúzia egyik legkülönlegesebb vallási helyszíne és Imereti régió geológiai ritkasága. Földrajzilag egy elszigetelt, körülbelül 40 méter magas mészkő monolit, amely a Katskhura-folyó mély szurdokából emelkedik ki. Történelmileg az oszlop már a kora középkorban az aszkéták, különösen az oszlopos szentek (stiliták) kedvelt helye volt, akik a teljes elkülönülésben keresték az Istent. Egy 9. és 10. századból származó kis kápolna és cellák romjai tanúskodnak erről a hagyományról. Évszázadok elhanyagoltsága után a komplexumot az 1990-es években újjáélesztették, és egy új, Hitvalló Szent Maximosznak szentelt templomot építettek a csúcsra. Technikai szempontból a csúcsra való feljutás egy vaslétrán keresztül óriási kihívást jelent, és ma a látogatók számára biztonsági és vallási okokból tilos. Gazdaságilag Katskhi a spirituális turizmus fontos motorja a Csitura környéki régióban. A geológiai képződmény a környező puhább kőzetrétegek szelektív eróziója során jött létre. Az oszlop a föld és az ég közötti kapcsolatot szimbolizálja, és a kaukázusi szélsőséges keresztény aszkézis mélyen lenyűgöző tanújele.",
+        "ro": "Stâlpul Katskhi este unul dintre cele mai extraordinare situri religioase din Georgia și o raritate geologică în regiunea Imereti. Geografic, acesta este un monolit de calcar izolat, înalt de aproximativ 40 de metri, care se ridică deasupra defileului râului Katskhura. Din punct de vedere istoric, stâlpul a fost un loc de refugiu pentru asceți încă din Evul Mediu timpuriu, în special pentru stiliți, care căutau izolarea spirituală pe vârful stâncii. Ruinele unei mici capele și ale unor chilii datând din secolele IX-X atestă această tradiție străveche. După secole de abandon, complexul a fost revitalizat în anii 1990, pe culme fiind construită o nouă biserică dedicată Sfântului Maxim Mărturisitorul. Din punct de vedere tehnic, accesul pe vârf se face printr-o scară metalică verticală extrem de periculoasă, fiind în prezent interzis vizitatorilor din motive de siguranță și de respect pentru viața monahală. Economic, Katskhi este un punct nodal pentru turismul spiritual din apropierea orașului Chiatura. Formațiunea geologică s-a format prin eroziunea selectivă a straturilor de rocă mai moale din jur. Stâlpul simbolizează legătura mistică între pământ și cer, fiind o mărturie impresionantă a ascezei creștine radicale din Caucaz.",
+        "en": "The Katskhi Pillar is one of Georgia's most extraordinary religious sites and a unique geological feature in the Imereti region. Geographically, it is an isolated limestone monolith rising approximately 40 meters from the floor of the Katskhura River gorge. Historically, the pillar served as a retreat for ascetics as early as the early Middle Ages, specifically for stylites (pillar-saints) who sought divine communion through isolation. Ruins of a small 9th or 10th-century chapel and hermit cells testify to this ancient tradition. After centuries of neglect, the complex was revitalized in the 1990s, and a new church dedicated to St. Maximus the Confessor was erected on the summit. Technically, ascending the pillar via a narrow iron ladder is a formidable task and is currently prohibited for tourists due to safety and religious protocols. Economically, Katskhi has become a major driver for spiritual tourism in the vicinity of Chiatura. The geological formation is the result of selective erosion of surrounding softer rock layers over millennia. The pillar symbolizes the bridge between earth and heaven and remains a deeply moving testament to extreme Christian asceticism in the Caucasus."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Naturmonolith aus Kalkstein mit einer Höhe von 40 Metern.",
+          "Ort des christlichen Asketismus (Styliten) seit dem 9. Jahrhundert.",
+          "Beherbergt eine moderne Kapelle des Hl. Maximus dem Bekenner.",
+          "Wurde erst 1944 erstmals von Forschern wissenschaftlich bestiegen.",
+          "Der Zugang zum Gipfel ist heute ausschließlich Mönchen vorbehalten.",
+          "Gelegen in der Schlucht des Katskhura-Flusses bei Chiatura."
+        ],
+        "hu": [
+          "40 méter magas természetes mészkő monolit.",
+          "A 9. század óta az oszlopos szentek (stiliták) lakóhelye.",
+          "A csúcsán Hitvalló Szent Maximosz modern kápolnája áll.",
+          "1944-ben mászták meg először kutatók tudományos céllal.",
+          "A csúcsra való feljutás ma kizárólag a szerzetesek számára engedélyezett.",
+          "A Katskhura-folyó völgyében található, Imereti régióban."
+        ],
+        "ro": [
+          "Monolit natural de calcar cu o înălțime verticală de 40 de metri.",
+          "Centru de asceză creștină (stiliți) activ între secolele IX și XV.",
+          "Găzduiește pe platforma superioară o biserică și o chilie monahală.",
+          "Prima escaladare științifică modernă a avut loc abia în anul 1944.",
+          "Accesul pe stâncă este restricționat, fiind permis doar clerului.",
+          "Formațiune rezultată prin procese geomorfologice de eroziune diferențiată."
+        ],
+        "en": [
+          "A natural limestone monolith standing exactly 40 meters high.",
+          "A historic site for stylite monasticism dating back to the 9th century.",
+          "Features a reconstructed church dedicated to St. Maximus the Confessor.",
+          "First officially scaled and surveyed by researchers in 1944.",
+          "The summit is currently accessible only to the resident monks.",
+          "Located in the scenic Katskhura River valley near Chiatura."
+        ]
+      }
+    },
+    {
+      "id": "prometheus-cave-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Prometheus-Höhle (Kumistavi) ist die größte und beeindruckendste Schauhöhle Georgiens und liegt in der Region Imeretien, nahe der Stadt Zqaltubo. Geografisch erstreckt sich das Höhlensystem über mehrere Kilometer innerhalb des Kalksteinplateaus des Kaukasusvorlandes. Historisch wurde die Höhle erst im Jahr 1984 entdeckt, blieb jedoch während des Zusammenbruchs der Sowjetunion unzugänglich, bevor sie 2011 als internationales Vorzeigeprojekt des Tourismus neu eröffnet wurde. Die Höhle umfasst 22 Hallen, von denen sechs für Besucher erschlossen sind. Technisch besticht die Anlage durch ein innovatives LED-Beleuchtungssystem, das die bizarren Stalaktiten, Stalagmiten und Sintervorhänge spektakulär in Szene setzt, ohne das empfindliche Höhlenökosystem durch Wärme zu schädigen. Ein Highlight ist der unterirdische Fluss, der am Ende des 1,4 Kilometer langen Rundwegs mit Booten befahren werden kann. Ökonomisch ist die Prometheus-Höhle der wichtigste Motor für die Revitalisierung des Kurortes Zqaltubo und zieht jährlich hunderttausende Besucher an. Die konstante Innentemperatur von etwa 14 Grad Celsius und die hohe Luftfeuchtigkeit machen sie zudem für therapeutische Zwecke interessant. Der Name leitet sich von der griechischen Sage ab, nach der Prometheus in den Bergen des Kaukasus angekettet wurde, was den mythischen Charakter dieses geologischen Wunderwerks unterstreicht.",
+        "hu": "A Prométheusz-barlang (Kumisztavi) Grúzia legnagyobb és leglátványosabb bemutató barlangja, amely Imereti régióban, Ckaltubo városa közelében található. Földrajzilag a barlangrendszer több kilométer hosszan húzódik a Kaukázus előterének mészkőfennsíkjai alatt. Történelmileg a barlangot csak 1984-ben fedezték fel, de a Szovjetunió felbomlása után elzárt maradt, mielőtt 2011-ben a turizmus nemzetközi mintaprojektjeként újra megnyitották volna. A barlang 22 teremből áll, amelyek közül hat látogatható a nagyközönség számára. Technikai szempontból a létesítmény innovatív LED-világítási rendszerével tűnik ki, amely látványosan mutatja be a bizarr sztalaktitokat, sztalagmitokat és cseppkőfüggönyöket anélkül, hogy a hőtermeléssel károsítaná az érzékeny ökoszisztémát. A túra egyik fénypontja a föld alatti folyó, amelyen az 1,4 kilométeres útvonal végén csónakkal lehet végighaladni. Gazdaságilag a Prométheusz-barlang Ckaltubo üdülőváros újjáélesztésének legfontosabb motorja, amely évente látogatók százezreit vonzza. A folyamatos, körülbelül 14 Celsius-fokos belső hőmérséklet és a magas páratartalom terápiás célokra is érdekessé teszi a helyet. Neve a görög mítoszból ered, amely szerint Prométheuszt a Kaukázus hegyeihez láncolták, ami hangsúlyozza e geológiai csoda mitikus karakterét.",
+        "ro": "Peștera Prometeu (Kumistavi) este cea mai mare și mai spectaculoasă peșteră amenajată din Georgia, situată în regiunea Imereti, lângă stațiunea Tskaltubo. Din punct de vedere geografic, sistemul carstic se extinde pe mai mulți kilometri în interiorul platoului calcaros de la poalele Caucazului. Istoric, peștera a fost descoperită în anul 1984, dar a rămas inaccesibilă publicului în timpul colapsului Uniunii Sovietice, fiind inaugurată oficial ca destinație turistică de rang internațional în 2011. Complexul include 22 de săli monumentale, dintre care șase sunt deschise vizitatorilor. Tehnic, situl se remarcă prin sistemul inovator de iluminat cu LED-uri, care evidențiază stalactitele, stalagmitele și draperiile de calcit fără a afecta ecosistemul fragil prin emisia de căldură. Un punct culminant este râul subteran de la capătul traseului de 1,4 kilometri, care poate fi parcurs cu barca. Economic, Peștera Prometeu este principalul motor de revitalizare a regiunii Tskaltubo, atrăgând anual sute de mii de turiști. Temperatura constantă de aproximativ 14 grade Celsius și umiditatea ridicată îi conferă proprietăți speleoterapeutice. Numele său este inspirat de legenda greacă a lui Prometeu, despre care se spune că a fost înlănțuit în munții Caucaz, subliniind caracterul mitic al acestui monument geologic.",
+        "en": "Prometheus Cave (Kumistavi) is Georgia's largest and most impressive show cave, located in the Imereti region near the spa town of Tskaltubo. Geographically, the cave system extends for several kilometers within the limestone plateaus of the Caucasian foothills. Historically, the cave was only discovered in 1984 but remained inaccessible during the collapse of the Soviet Union before reopening in 2011 as a premier international tourism project. The cave comprises 22 vast halls, six of which are open to the general public. Technically, the facility is noted for its innovative LED lighting system, which spectacularly illuminates the bizarre stalactites, stalagmites, and flowstone curtains while minimizing heat damage to the sensitive cave ecosystem. A highlight of the visit is the underground river at the end of the 1.4-kilometer walking trail, which visitors can navigate by boat. Economically, Prometheus Cave is the primary engine for the revitalization of the Tskaltubo resort area, attracting hundreds of thousands of visitors annually. The constant internal temperature of about 14 degrees Celsius and high humidity also make the cave suitable for speleotherapy. Its name derives from the Greek myth of Prometheus, who was said to be chained in the Caucasus Mountains, emphasizing the mythical aura of this geological wonder."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größte für Touristen erschlossene Höhle Georgiens (eröffnet 2011).",
+          "Umfasst 22 Hallen, von denen sechs besichtigt werden können.",
+          "Verfügt über einen 1,4 km langen, beleuchteten Rundweg.",
+          "Besonderes Erlebnis ist die Bootsfahrt auf dem unterirdischen Fluss.",
+          "Konstante Jahrestemperatur von 14 Grad Celsius im Inneren.",
+          "Enthält seltene Formationen wie Höhlenperlen und Sinterkaskaden."
+        ],
+        "hu": [
+          "Grúzia legnagyobb kiépített látogatható barlangja (2011 óta).",
+          "22 teremből áll, ebből 6 látogatható a turisták számára.",
+          "A barlangi túraútvonal hossza körülbelül 1,4 kilométer.",
+          "A túra végén csónakázási lehetőség van a föld alatti folyón.",
+          "A belső hőmérséklet egész évben állandó, 14 Celsius-fok.",
+          "Ritka barlangi gyöngyök és hatalmas cseppkőoszlopok láthatóak itt."
+        ],
+        "ro": [
+          "Cea mai vastă peșteră turistică din Georgia, amenajată la standarde globale.",
+          "Sistemul carstic include 22 de săli, 6 fiind accesibile publicului.",
+          "Traseul pietonal subteran are o lungime de 1,4 kilometri.",
+          "Finalul vizitei include o traversare cu barca pe un lac subteran.",
+          "Microclimat stabil cu o temperatură de 14°C și umiditate de 98%.",
+          "Formațiunile stalactitice sunt puse în valoare prin iluminat cromatic LED."
+        ],
+        "en": [
+          "The largest tourist-accessible cave in Georgia, opened in 2011.",
+          "Consists of 22 grand halls, with six currently open for tours.",
+          "Features a 1.4-kilometer-long illuminated walking path.",
+          "Offers a unique boat excursion on an active underground river.",
+          "Maintains a constant year-round temperature of 14 degrees Celsius.",
+          "Showcases rare geological formations such as cave pearls and helictites."
+        ]
+      }
+    },
+    {
+      "id": "martvili-canyon-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Martwili-Canyon ist ein spektakuläres Naturdenkmal in der Region Mingrelien im Westen Georgiens. Geografisch wurde die Schlucht über Jahrmillionen vom Fluss Abascha in das Kalksteinplateau gegraben, wodurch steile, moosbewachsene Felswände und tiefblaue Wasserbecken entstanden sind. Historisch ist der Ort eng mit dem Adelsgeschlecht der Dadiani verbunden, die den oberen Teil des Canyons als privaten Badeplatz nutzten. Ein technisches Highlight ist der stufenförmige Wasserfall am Ende der Schlucht, der durch die Erosion verschieden harter Gesteinsschichten geformt wurde. Ökonomisch hat sich Martwili zu einem der Top-Ziele für den Ökotourismus entwickelt, was durch den Bau moderner Besucherzentren und kontrollierter Bootstouren unterstützt wurde. Ökologisch ist der Canyon von unschätzbarem Wert für die Paläontologie, da hier versteinerte Überreste von Dinosauriern und prähistorischen Säugetieren gefunden wurden. Die üppige, fast dschungelartige Vegetation und die hohe Luftfeuchtigkeit schaffen eine einzigartige Atmosphäre. Die Verwaltung des Gebiets erfolgt nach strengen Umweltschutzvorgaben, um die Wasserqualität und die Integrität der Felsformationen zu bewahren. Besucher können den Canyon sowohl per Boot als auch auf ausgebauten Wanderwegen erkunden, die weite Ausblicke auf die Kaskaden des Abascha-Flusses bieten.",
+        "hu": "A Martvili-kanyon egy lenyűgöző természeti műemlék Mingrélia régióban, Nyugat-Grúziában. Földrajzilag a szurdokot az Abasa-folyó vájta ki a mészkőfennsíkba évmilliók alatt, meredek, mohával borított sziklafalakat és mélykék vízű medencéket hozva létre. Történelmileg a hely szorosan kötődik a Dadiani nemesi családhoz, akik a kanyon felső szakaszát privát fürdőhelyként használták. Technikai szempontból kiemelkedő a kanyon végén található lépcsőzetes vízesés, amelyet a különböző keménységű kőzetrétegek eróziója formált. Gazdaságilag Martvili az ökoturizmus egyik legfontosabb célpontjává vált, amit modern látogatóközpontok építése és ellenőrzött csónaktúrák támogatnak. Ökológiailag a kanyon felbecsülhetetlen értékű a paleontológia számára, mivel dinoszauruszok és prahisztorikus emlősök megkövesedett maradványait fedezték fel itt. A buja, szinte dzsungelszerű vegetáció és a magas páratartalom egyedülálló atmoszférát teremt. A terület kezelése szigorú környezetvédelmi előírások szerint történik, hogy megőrizzék a vízminőséget és a sziklaalakzatok épségét. A látogatók a kanyont csónakkal és kiépített gyalogösvényeken is felfedezhetik, amelyekről pazar kilátás nyílik az Abasa-folyó zuhatagaira.",
+        "ro": "Canionul Martvili este un monument natural spectaculos situat în regiunea Mingrelia, în vestul Georgiei. Din punct de vedere geografic, defileul a fost săpat de râul Abasha în platoul de calcar de-a lungul a milioane de ani, rezultând pereți stâncoși abrupți acoperiți de mușchi și bazine cu apă de un turcoaz intens. Istoric, locația este strâns legată de dinastia nobiliară Dadiani, care utiliza porțiunea superioară a canionului ca loc privat de scăldat. Un punct de interes tehnic este cascada în trepte de la capătul defileului, formată prin eroziunea diferențiată a straturilor de rocă. Economic, Martvili a devenit una dintre destinațiile de top pentru ecoturism, beneficiind de centre moderne pentru vizitatori și de circuite controlate cu barca. Din punct de vedere ecologic, canionul este de o valoare inestimabilă pentru paleontologie, aici fiind descoperite resturi fosilizate de dinozauri și mamifere preistorice. Vegetația luxuriantă, aproape tropicală, și umiditatea ridicată creează o atmosferă unică în regiune. Administrarea sitului respectă norme stricte de conservare pentru a proteja calitatea apei și integritatea formațiunilor calcaroase. Vizitatorii pot explora canionul atât prin navigație cu barca pneumatică, cât și pe trasee pietonale amenajate cu platforme de belvedere asupra cascadelor râului Abasha.",
+        "en": "Martvili Canyon is a spectacular natural monument located in the Samegrelo region of Western Georgia. Geographically, the gorge was carved over millions of years by the Abasha River into the limestone plateau, resulting in steep, moss-covered rock walls and deep turquoise water pools. Historically, the site is closely linked to the Dadiani noble family, who utilized the upper part of the canyon as a private bathing area. A technical highlight is the stepped waterfall at the end of the ravine, shaped by the erosion of rock layers of varying hardness. Economically, Martvili has emerged as a premier destination for ecotourism, supported by the construction of modern visitor centers and regulated boat tours. Ecologically, the canyon is invaluable to paleontology, as fossilized remains of dinosaurs and prehistoric mammals have been discovered here. The lush, almost jungle-like vegetation and high humidity create a unique micro-environment. The area is managed under strict environmental guidelines to preserve water quality and the integrity of the rock formations. Visitors can explore the canyon both by inflatable boat and via well-maintained walking trails that offer expansive views of the Abasha River's cascades."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Geformt durch den Fluss Abascha in Millionen Jahren der Erosion.",
+          "Ehemaliger privater Badeplatz der mingrelischen Fürstenfamilie Dadiani.",
+          "Bedeutender Fundort für Dinosaurierfossilien im Kaukasus.",
+          "Der Canyon ist in einen oberen und einen unteren Teil gegliedert.",
+          "Bootstouren führen durch die engsten Stellen der Schlucht.",
+          "Besitzt ein modernes Besucherzentrum und sichere Aussichtsplattformen."
+        ],
+        "hu": [
+          "Az Abasa-folyó vájta ki a mészkősziklát évmilliók alatt.",
+          "A mingréliai Dadiani hercegi család egykori fürdőhelye volt.",
+          "Jelentős dinoszaurusz-fosszília lelőhely a Kaukázusban.",
+          "A kanyon egy felső és egy alsó szakaszra tagolódik.",
+          "Gumi csónakokkal látogatható a szurdok legszűkebb része.",
+          "Modern látogatóközponttal és biztonságos kilátókkal rendelkezik."
+        ],
+        "ro": [
+          "Defileu format prin eroziunea râului Abasha în substrat calcaros.",
+          "Fost domeniu de agrement al familiei princiare Dadiani din Mingrelia.",
+          "Sursă importantă de fosile de dinozauri (urme și fragmente osoase).",
+          "Include o cascadă monumentală de 12 metri înălțime la capătul rutei.",
+          "Explorarea se face cu bărci pneumatice prin cheile înguste.",
+          "Rezervație naturală protejată cu infrastructură turistică modernă."
+        ],
+        "en": [
+          "Carved by the Abasha River into the limestone plateau over millennia.",
+          "Formerly the private bath of the Dadiani princes of Samegrelo.",
+          "A significant site for dinosaur fossil discoveries in the Caucasus.",
+          "Divided into Upper and Lower canyon sections for visitors.",
+          "Offers rafting tours through the most narrow parts of the gorge.",
+          "Equipped with a modern visitor center and safe observation decks."
+        ]
+      }
+    }
+  ]
+}

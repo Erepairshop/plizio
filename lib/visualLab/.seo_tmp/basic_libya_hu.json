@@ -1,0 +1,83 @@
+{
+  "lang": "hu",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khoms-power-plant-economic-v2",
+      "description": "Líbia egyik legnagyobb hőerőműve Al-Khoms városa közelében, a Földközi-tenger partján. Fontos szerepet játszik az ország villamosenergia-ellátásában.",
+      "facts": ["Földközi-tenger partján áll", "Al-Khoms közelében", "Líbiai energetikai eszköz"]
+    },
+    {
+      "id": "ly-bir-hakeim-history-v2",
+      "description": "A második világháború egyik jelentős csatatere Líbia keleti részén. Az 1942-es bir-hakeimi csata a Szabad Francia Erők védelmi sikere volt.",
+      "facts": ["1942-es csata helyszíne", "Második világháború", "Kelet-líbiai sivatag"]
+    },
+    {
+      "id": "jamal-abdul-nasser-mosque-landmarks-v2",
+      "description": "Bengázi egyik legmeghatározóbb épülete, amelyet Gamal Abden-Nasszer egyiptomi elnökről neveztek el. Jellegzetes építészeti stílusa a modern líbiai vallási építészet része.",
+      "facts": ["Bengáziban található", "Névadója egyiptomi elnök", "Vallási központ"]
+    },
+    {
+      "id": "brega-oil-terminal-landmarks-v2",
+      "description": "Líbia egyik kulcsfontosságú kőolaj-kikötője a Szidra-öbölben. Az ország olajexportjának egyik központi infrastruktúrája.",
+      "facts": ["Szidra-öböl mentén", "Kőolaj-export terminál", "Ipari kikötő"]
+    },
+    {
+      "id": "gar-al-marah-nature-v2",
+      "description": "Természetvédelmi terület Líbia északi partvidékén. Változatos élővilágával és mediterrán környezetével hívja fel magára a figyelmet.",
+      "facts": ["Észak-líbiai partvidék", "Mediterrán élővilág", "Természetvédelmi terület"]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "description": "Sziklás hegyvonulat Líbia belső területein. A táj rendkívül száraz, sziklás sivatagi környezetet mutat.",
+      "facts": ["Száraz sivatagi táj", "Sziklás hegység", "Belső-líbiai régió"]
+    },
+    {
+      "id": "mizdah-plateau-nature-v2",
+      "description": "Kiterjedt fennsík Líbia északnyugati részén. A terület jellegzetes sivatagi ökoszisztémának ad otthont.",
+      "facts": ["Északnyugat-Líbia", "Sivatagi fennsík", "Száraz éghajlat"]
+    },
+    {
+      "id": "sarir-tanezrouft-nature-v2",
+      "description": "A Szahara hatalmas sivatagi kiterjedése, amely Líbia déli határainál húzódik. Rendkívül száraz, szinte élettelen kősivatagi táj.",
+      "facts": ["Szahara része", "Dél-líbiai határvidék", "Kősivatagi terület"]
+    },
+    {
+      "id": "jebel-aswad-nature-v2",
+      "description": "Fekete hegyekként ismert terület Líbiában, vulkanikus eredete miatt különleges látványt nyújt. A táj sötét kövei éles kontrasztban állnak a sivatag homokjával.",
+      "facts": ["Vulkanikus eredetű hegység", "Fekete sziklák", "Sivatagi kontraszt"]
+    },
+    {
+      "id": "jebel-uwaynat-nature-v2",
+      "description": "Hegyvonulat a líbiai, egyiptomi és szudáni hármashatárnál. Gazdag sziklafestményekben és ősi sivatagi élővilágban.",
+      "facts": ["Hármashatár környéke", "Ősi sziklafestmények", "Délkelet-Líbia"]
+    },
+    {
+      "id": "gargaf-desert-nature-v2",
+      "description": "Líbia sivatagi régiójának egy része, amely kiterjedt homokdűnéiről ismert. A sivatagi vadvilág számára fontos élőhely.",
+      "facts": ["Homokdűnék vidéke", "Sivatagi élőhely", "Belső-Líbia"]
+    },
+    {
+      "id": "jebel-soda-nature-v2",
+      "description": "Vulkanikus hegység Líbia középső részén. A tájat sötét bazaltkőzetek borítják, amelyek jellegzetes arculatot adnak a vidéknek.",
+      "facts": ["Közép-Líbia", "Bazaltkőzetek", "Vulkanikus táj"]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "description": "A líbiai partvidék keleti szakasza, amely változatos sziklaformációkkal és tengerparti ökoszisztémákkal rendelkezik.",
+      "facts": ["Kelet-líbiai part", "Tengerparti élővilág", "Sziklás formációk"]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "description": "Időszakos vízfolyások medre Líbia sivatagos tájain. Az esőzések után életre kelő sivatagi növényzet számára biztosít lehetőséget.",
+      "facts": ["Sivatagi völgy", "Időszakos növényzet", "Száraz éghajlat"]
+    }
+  ]
+}

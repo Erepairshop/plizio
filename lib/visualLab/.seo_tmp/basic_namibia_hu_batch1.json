@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "swakopmund-lighthouse-landmarks-v2",
+      "description": "A Swakopmund-i világítótorony egy ikonikus építmény, amely a város tengerparti jellegét és a navigáció történetét jelképezi.",
+      "facts": ["Ikonikus építmény", "Swakopmund", "Navigációs történelem"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "A Hardap régió öntözéses mezőgazdaságáról ismert, amelyet a Hardap-gát támogat.",
+      "facts": ["Öntözéses mezőgazdaság", "Hardap-gát", "Termékeny területek"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Tsumeb fontos mezőgazdasági központ, kukoricatermesztéséről és állattenyésztéséről ismert.",
+      "facts": ["Mezőgazdasági központ", "Kukoricatermesztés", "Állattenyésztés"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Windhoek családbarát attrakciókat kínál, mint például a Nemzeti Múzeum és az Alte Feste (Régi Erőd).",
+      "facts": ["Családbarát attrakciók", "Windhoek", "Nemzeti Múzeum"]
+    },
+    {
+      "id": "namibia-swakopmund-kid-landmark-life-v2",
+      "description": "Swakopmund egy népszerű üdülőváros, ahol a német gyarmati építészet és a sivatagi táj találkozik.",
+      "facts": ["Német gyarmati építészet", "Swakopmund", "Sivatagi táj"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Okahandja híres nagy szabadtéri kézműves piacáról és erős Herero kulturális hagyományairól.",
+      "facts": ["Kézműves piac", "Herero hagyományok", "Okahandja"]
+    },
+    {
+      "id": "namibia-bwabwata-animal-habitat-life-v2",
+      "description": "A Bwabwata Nemzeti Park a Caprivi-sávban található, fontos vadvédelmi terület elefántok, bivalyok és antilopok számára.",
+      "facts": ["Vadvédelmi terület", "Caprivi-sáv", "Elefántok és bivalyok"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "A Mudumu Nemzeti Park a Caprivi-sávban található, kulcsfontosságú vadvilági menedék elefántok, bivalyok és antilopok számára.",
+      "facts": ["Vadvilági menedék", "Caprivi-sáv", "Elefántok és bivalyok"]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "description": "A Dorob Nemzeti Park védi a part menti sivatagot, és létfontosságú élőhely fókák, tengeri madarak és egyedi sivatagi állatok számára.",
+      "facts": ["Part menti sivatag", "Fókák és tengeri madarak", "Sivatagi állatok"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "A Kavango régió mezőgazdasági termeléséről ismert, különösen a gabonafélék és hüvelyesek termesztéséről, amelyet folyami öntözés támogat.",
+      "facts": ["Mezőgazdasági termelés", "Gabonafélék és hüvelyesek", "Folyami öntözés"]
+    },
+    {
+      "id": "namibia-otjiwarongo-agriculture-life-v2",
+      "description": "Otjiwarongo központi szerepet játszik az állattenyésztésben és a mezőgazdasági tevékenységekben az Otjozondjupa régióban.",
+      "facts": ["Állattenyésztés", "Mezőgazdasági központ", "Otjozondjupa régió"]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "description": "Mariental mezőgazdasági központ, citrusgyümölcs- és datolyatermesztéséről ismert, amelyet a Hardap-gát támogat.",
+      "facts": ["Citrusgyümölcs és datolya", "Hardap-gát", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "namibia-outjo-agriculture-life-v2",
+      "description": "Outjo regionális központ az állattenyésztés és a mezőgazdaság számára, amely a környező közösségeket szolgálja.",
+      "facts": ["Állattenyésztés", "Mezőgazdaság", "Regionális központ"]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "description": "Rundu egy kulcsfontosságú mezőgazdasági város Namíbia északkeleti részén, amely az Okavango folyó termékeny földjein virágzik.",
+      "facts": ["Mezőgazdasági város", "Északkelet-Namíbia", "Okavango folyó"]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "description": "Sesriem a Sesriem Canyonról ismert, és kiindulópont Sossusvlei magasodó dűnéihez.",
+      "facts": ["Sesriem Canyon", "Sossusvlei dűnéi", "Kiindulópont"]
+    }
+  ]
+}

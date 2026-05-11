@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-trinidad-relief-v2",
+      "description": "A notable hill in the Panamá Oeste province, offering unique panoramic views of the surrounding area.",
+      "facts": ["Panamá Oeste", "Hill peak", "Panoramic views"]
+    },
+    {
+      "id": "cerro-ceniza-relief-v2",
+      "description": "A peak known for its natural beauty and challenging terrain, frequented by local hikers.",
+      "facts": ["Natural beauty", "Hiking site", "Peak"]
+    },
+    {
+      "id": "cerro-cara-de-iguana-relief-v2",
+      "description": "A mountain peak in the Azuero region, recognized for its distinct geological profile.",
+      "facts": ["Azuero region", "Geological profile", "Peak"]
+    },
+    {
+      "id": "cerro-trinidad-norte-relief-v2",
+      "description": "The northern section of the Cerro Trinidad area, providing diverse landscapes for exploration.",
+      "facts": ["Northern peak", "Landscape", "Exploration"]
+    },
+    {
+      "id": "volcan-baru-relief-v2",
+      "description": "The highest point in Panama, this dormant volcano is a major national symbol and popular climbing destination.",
+      "facts": ["Highest point", "Dormant volcano", "Climbing destination"]
+    },
+    {
+      "id": "loma-del-pan-relief-v2",
+      "description": "A prominent ridge that defines parts of the local geography in its region.",
+      "facts": ["Geographic ridge", "Local relief", "Feature"]
+    },
+    {
+      "id": "cordillera-talamanca-relief-v2",
+      "description": "A major mountain range spanning Panama and Costa Rica, hosting rich cloud forest ecosystems.",
+      "facts": ["Mountain range", "Cloud forest", "Panama-Costa Rica"]
+    },
+    {
+      "id": "cerro-patacon-relief-v2",
+      "description": "A significant hill landmark near Panama City, well-known in the local geography.",
+      "facts": ["Panama City", "Hill landmark", "Geography"]
+    },
+    {
+      "id": "coiba-inselhuegel-relief-v2",
+      "description": "Characteristic isolated hills found on Coiba Island, contributing to its diverse topography.",
+      "facts": ["Coiba Island", "Isolated hills", "Topography"]
+    },
+    {
+      "id": "azuero-berge-relief-v2",
+      "description": "The mountainous terrain of the Azuero Peninsula, playing a key role in the regional environment.",
+      "facts": ["Azuero Peninsula", "Mountainous terrain", "Environment"]
+    },
+    {
+      "id": "cerro-san-miguel-relief-v2",
+      "description": "A hill that provides notable elevation within its area, popular for local outdoor activities.",
+      "facts": ["Hill elevation", "Outdoor activity", "Area feature"]
+    },
+    {
+      "id": "cerro-cucurucha-relief-v2",
+      "description": "A distinct peak located in the Chiriquí province, known for its unique appearance.",
+      "facts": ["Chiriquí", "Distinct peak", "Natural feature"]
+    },
+    {
+      "id": "altos-de-campana-hohe-relief-v2",
+      "description": "The high reaches of the Altos de Campana National Park, famous for its temperate climate.",
+      "facts": ["National Park", "High reaches", "Temperate climate"]
+    },
+    {
+      "id": "cerro-gaitancillo-relief-v2",
+      "description": "A smaller peak that contributes to the diverse relief structure of the surrounding region.",
+      "facts": ["Smaller peak", "Relief structure", "Geographic feature"]
+    }
+  ]
+}

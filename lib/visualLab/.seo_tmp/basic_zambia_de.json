@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lusiwashi-lake-nature-v2",
+      "description": "Der Lusiwashi-See ist ein kleiner, aber wichtiger Binnensee in der Zentralprovinz, der zur lokalen Stromerzeugung genutzt wird.",
+      "facts": ["Wichtig für Wasserkraft", "Umgeben von Feuchtgebieten", "In der Zentralprovinz gelegen"]
+    },
+    {
+      "id": "chishimba-falls-nature-v2",
+      "description": "Die Chishimba-Fälle bestehen aus drei aufeinanderfolgenden Wasserfällen und gelten als heilige Stätte der Bemba.",
+      "facts": ["Drei separate Fallstufen", "Heiliger Ort der Einheimischen", "Nahe der Stadt Kasama"]
+    },
+    {
+      "id": "kalambo-falls-nature-v2",
+      "description": "Die Kalambo-Fälle an der Grenze zu Tansania gehören zu den höchsten einstufigen Wasserfällen Afrikas.",
+      "facts": ["221 Meter Fallhöhe", "Bedeutende archäologische Fundstätte", "Zweithöchster freier Fall Afrikas"]
+    },
+    {
+      "id": "ngonye-falls-nature-v2",
+      "description": "Die Ngonye-Fälle, auch Sioma-Fälle genannt, sind hufeisenförmige Wasserfälle im Oberlauf des Sambesi.",
+      "facts": ["Breite Hufeisenform", "Im Sioma-Ngwezi-Nationalpark", "Beeindruckende Wassermassen"]
+    },
+    {
+      "id": "lupupa-swamp-nature-v2",
+      "description": "Der Lupupa-Sumpf ist ein ausgedehntes Feuchtgebiet in der Nordprovinz, das eine reiche Vogelwelt beherbergt.",
+      "facts": ["Wichtiges Ökosystem", "Lebensraum für seltene Vögel", "Sumpflandschaft im Norden"]
+    },
+    {
+      "id": "mweru-wantipa-lake-nature-v2",
+      "description": "Der Mweru-Wantipa-See ist ein abflussloser See in einem Nationalpark, bekannt für seine schwankenden Wasserstände.",
+      "facts": ["Innerhalb eines Nationalparks", "Große Fischbestände", "Isoliertes Seebecken"]
+    },
+    {
+      "id": "luangwa-river-head-nature-v2",
+      "description": "Das Quellgebiet des Luangwa-Flusses liegt im Mafinga-Gebirge nahe der Grenze zu Malawi.",
+      "facts": ["Ursprung eines großen Flusses", "Im Mafinga-Hochland", "Wichtige hydrologische Zone"]
+    },
+    {
+      "id": "mulungushi-river-nature-v2",
+      "description": "Der Mulungushi-Fluss ist ein Nebenfluss des Lunsemfwa und historisch bedeutsam für die erste Talsperre des Landes.",
+      "facts": ["Standort des ersten Staudamms", "Wichtiger Nebenfluss", "Nahe der Stadt Kabwe"]
+    },
+    {
+      "id": "iitezhi-tezhi-lake-nature-v2",
+      "description": "Der Itezhi-Tezhi-See entstand durch eine Talsperre am Kafue-Fluss und grenzt an den Kafue-Nationalpark.",
+      "facts": ["Großer Stausee am Kafue", "Reguliert den Wasserfluss", "Reich an Flusspferden und Krokodilen"]
+    },
+    {
+      "id": "chisamba-forest-nature-v2",
+      "description": "Der Chisamba-Wald ist ein geschütztes Waldgebiet in der Nähe von Lusaka, das für seine Miombo-Vegetation bekannt ist.",
+      "facts": ["Typische Miombo-Wälder", "Wichtige grüne Lunge", "Nahe der Hauptstadt"]
+    }
+  ]
+}

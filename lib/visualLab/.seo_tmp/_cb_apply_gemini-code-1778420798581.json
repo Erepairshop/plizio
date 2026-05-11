@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraColombiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bogota-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bogotá ist die Hauptstadt und das unangefochtene politische, administrative und wirtschaftliche Zentrum Kolumbiens. Geografisch liegt die Metropole auf einem extrem hochgelegenen Plateau, der Sabana de Bogotá, in den östlichen Kordilleren der Anden auf über 2.600 Metern Höhe. Diese extreme geografische Lage führt zu einem kühlen, oft stark bewölkten und regnerischen Gebirgsklima, das den städtischen Alltag massiv prägt. Wirtschaftlich generiert Bogotá den mit Abstand größten Anteil des nationalen Bruttoinlandsprodukts und ist der primäre Sitz für multinationale Konzerne, Finanzinstitute und staatliche Behörden. Die Stadt ist extrem dicht besiedelt und leidet unter hochgradigen infrastrukturellen Belastungen. Das völlige Fehlen eines formellen U-Bahn-Systems zwingt Millionen von Pendlern, sich auf das überlastete Bus-Rapid-Transit-System (TransMilenio) zu verlassen, was täglich zu massiven Verkehrsstaus führt. Historisch wurde Bogotá 1538 von spanischen Konquistadoren gegründet und entwickelte sich schnell zum Zentrum des Vizekönigreichs Neugranada. Heute ist die urbane Geografie von starker räumlicher und sozioökonomischer Segregation geprägt. Während der wohlhabende Norden über hochmoderne Infrastruktur verfügt, kämpfen die dicht besiedelten südlichen Randbezirke mit tiefgreifender Armut und unzureichenden städtischen Basisdienstleistungen.",
+        "hu": "Bogotá Kolumbia fővárosa, valamint vitathatatlan politikai, közigazgatási és gazdasági központja. Földrajzilag a metropolisz egy rendkívül magasan fekvő fennsíkon, a Sabana de Bogotán helyezkedik el az Andok keleti kordilleráiban, több mint 2600 méteres magasságban. Ez az extrém földrajzi elhelyezkedés hűvös, gyakran erősen felhős és csapadékos hegyvidéki éghajlatot eredményez, amely masszívan meghatározza a városi mindennapokat. Gazdasági szempontból Bogotá állítja elő a nemzeti bruttó hazai termék messze legnagyobb részét, és a multinacionális vállalatok, pénzintézetek, valamint az állami hatóságok elsődleges székhelye. A város rendkívül sűrűn lakott, és súlyos infrastrukturális terhelésektől szenved. A formális metrórendszer teljes hiánya ingázók millióit kényszeríti arra, hogy a túlterhelt gyorsbusz-hálózatra (TransMilenio) támaszkodjanak, ami naponta masszív, egész városra kiterjedő forgalmi dugókhoz vezet. Történelmileg Bogotát 1538-ban alapították a spanyol konkvisztádorok, és gyorsan Új-Granada Alkirályság központjává fejlődött. Ma a városföldrajzot erős térbeli és társadalmi-gazdasági szegregáció jellemzi. Míg a jómódú észak ultramodern infrastruktúrával rendelkezik, a sűrűn lakott déli peremkerületek mélyszegénységgel és nem megfelelő alapvető szolgáltatásokkal küzdenek.",
+        "ro": "Bogotá este capitala și centrul politic, administrativ și economic incontestabil al Columbiei. Geografic, metropola este situată pe un platou de mare altitudine, Sabana de Bogotá, în Cordiliera Orientală a Anzilor, la peste 2.600 de metri deasupra nivelului mării. Această locație geografică extremă are ca rezultat un climat montan răcoros, adesea puternic înnorat și ploios, care modelează masiv viața de zi cu zi. Economic, Bogotá generează de departe cea mai mare parte a produsului intern brut național și este sediul principal pentru corporații multinaționale, instituții financiare și autorități de stat. Orașul este extrem de dens populat și suferă de presiuni infrastructurale severe. Lipsa totală a unui sistem formal de metrou forțează milioane de navetiști să se bazeze pe sistemul supraîncărcat de autobuze (TransMilenio), ducând la blocaje masive. Istoric, Bogotá a fost fondată în 1538 de conchistadorii spanioli și a evoluat rapid. Astăzi, geografia urbană este caracterizată de o segregare spațială și socioeconomică puternică. În timp ce nordul bogat are infrastructură modernă, districtele sudice se luptă cu sărăcia.",
+        "en": "Bogotá is the capital and the undisputed political, administrative, and economic center of Colombia. Geographically, the metropolis is located on an extremely high-altitude plateau, the Sabana de Bogotá, within the Eastern Cordillera of the Andes at an elevation of over 2,600 meters. This extreme geographical location results in a cool, frequently heavily overcast, and rainy mountain climate that massively shapes urban daily life. Economically, Bogotá generates by far the largest share of the national gross domestic product and acts as the primary headquarters for multinational corporations, financial institutions, and massive state authorities. The city is extremely densely populated and suffers from severe infrastructural strains. The absolute lack of a formal subway system forces millions of commuters to rely heavily on the severely overburdened bus rapid transit system (TransMilenio), which directly causes massive, city-wide traffic congestion daily. Historically, Bogotá was officially founded in 1538 by Spanish conquistadors and rapidly developed into the administrative center of the Viceroyalty of New Granada. Today, the urban geography is heavily characterized by stark spatial and socioeconomic segregation. While the affluent north possesses modern infrastructure, the southern peripheries struggle."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bogotá liegt auf einem hochgelegenen Andenplateau über 2.600 Metern.",
+          "Die Metropole ist das unangefochtene Wirtschaftszentrum Kolumbiens.",
+          "Ein fehlendes U-Bahn-System verursacht täglich massive Verkehrsstaus.",
+          "Die Stadt weist eine extrem starke sozioökonomische Segregation auf.",
+          "Spanische Konquistadoren gründeten die heutige Hauptstadt im Jahr 1538."
+        ],
+        "hu": [
+          "Bogotá egy több mint 2600 méter magasan fekvő andoki fennsíkon fekszik.",
+          "A metropolisz Kolumbia vitathatatlan és abszolút gazdasági központja.",
+          "A metrórendszer teljes hiánya naponta hatalmas forgalmi dugókat okoz.",
+          "A város rendkívül erős társadalmi-gazdasági szegregációt mutat.",
+          "A mai fővárost spanyol konkvisztádorok alapították 1538-ban."
+        ],
+        "ro": [
+          "Bogotá se află pe un platou andin înalt, la peste 2.600 de metri.",
+          "Metropola este centrul economic absolut incontestabil al Columbiei.",
+          "Lipsa unui sistem de metrou cauzează zilnic blocaje masive de trafic.",
+          "Orașul prezintă o segregare socioeconomică extrem de puternică astăzi.",
+          "Conchistadorii spanioli au fondat capitala actuală în anul 1538."
+        ],
+        "en": [
+          "Bogotá is securely located on a high Andean plateau over 2,600 meters.",
+          "The vast metropolis is the undisputed economic center of Colombia.",
+          "A total lack of a subway system causes massive daily traffic jams.",
+          "The city exhibits extremely strong socioeconomic and spatial segregation.",
+          "Spanish conquistadors officially founded the current capital in 1538."
+        ]
+      }
+    },
+    {
+      "id": "medellin-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Medellín ist die Hauptstadt des Departamento Antioquia und die zweitgrößte Stadt Kolumbiens. Geografisch liegt sie tief im Aburrá-Tal in den zentralen Anden, vollständig umgeben von steilen Bergen, was die physische Expansion der Stadt streng reguliert. Wirtschaftlich fungiert Medellín als das absolute industrielle Herz Kolumbiens mit einem massiven Fokus auf Textilproduktion, Mode, Lebensmittelexporte und zunehmend auf Technologie- und Finanzdienstleistungen. Historisch hat die Stadt eine extreme Transformation durchgemacht. In den 1980er und frühen 1990er Jahren war Medellín aufgrund der massiven Gewalt des Medellín-Kartells als die gefährlichste Stadt der Welt berüchtigt. Der brutale Drogenkrieg forderte Tausende von Todesopfern und zerstörte die formelle Wirtschaft. Durch hochgradig strategische staatliche Investitionen in öffentliche Infrastruktur, wie das Metrocable-System, das die marginalisierten Hügelsiedlungen direkt mit dem kommerziellen Zentrum verbindet, hat sich die Stadt massiv modernisiert. Dennoch bleiben die strukturelle Armut und die Bandengewalt in den steilen Außenbezirken hochbrisante soziale Probleme.",
+        "hu": "Medellín Antioquia megye fővárosa és Kolumbia második legnagyobb városa. Földrajzilag mélyen az Aburrá-völgyben fekszik a középső Andokban, teljesen körülvéve meredek hegyekkel, ami szigorúan szabályozza a város fizikai terjeszkedését. Gazdasági szempontból Medellín Kolumbia abszolút ipari szíveként működik, masszív fókusszal a textiltermelésre, a divatra, az élelmiszerexportra, és egyre inkább a technológiai és pénzügyi szolgáltatásokra. Történelmileg a város extrém átalakuláson ment keresztül. Az 1980-as és 1990-es évek elején Medellín a Medellín-kartell masszív erőszakos cselekedetei miatt a világ legveszélyesebb városaként volt hírhedt. A brutális drogháború több ezer halálos áldozatot követelt, és teljesen tönkretette a formális gazdaságot. A közinfrastruktúrába történő rendkívül stratégiai állami beruházások – mint például a Metrocable rendszer, amely a marginalizált dombvidéki nyomornegyedeket közvetlenül összeköti a kereskedelmi központtal – révén a város masszívan modernizálódott. Ennek ellenére a strukturális szegénység és a bandaerőszak a meredek peremkerületekben továbbra is rendkívül feszült társadalmi probléma marad.",
+        "ro": "Medellín este capitala departamentului Antioquia și al doilea oraș ca mărime din Columbia. Geografic, este situat adânc în Valea Aburrá din Anzii centrali, complet înconjurat de munți abrupți, ceea ce reglementează strict expansiunea fizică a orașului. Economic, Medellín acționează ca inima industrială absolută a Columbiei, cu un accent masiv pe producția textilă, modă, exporturi alimentare și, din ce în ce mai mult, servicii tehnologice și financiare. Istoric, orașul a suferit o transformare extremă. În anii 1980 și începutul anilor 1990, Medellín era infam drept cel mai periculos oraș din lume din cauza violenței masive a Cartelului Medellín. Războiul brutal al drogurilor a făcut mii de victime și a distrus economia formală. Prin investiții de stat extrem de strategice în infrastructura publică, cum ar fi sistemul Metrocable care leagă direct așezările marginalizate de pe dealuri de centrul comercial, orașul s-a modernizat masiv. Cu toate acestea, sărăcia structurală și violența bandelor rămân probleme explozive.",
+        "en": "Medellín is the capital of the Antioquia Department and the second-largest city in Colombia. Geographically, it is located deep within the Aburrá Valley in the central Andes, completely surrounded by steep mountains, which strictly regulates the city's physical urban expansion. Economically, Medellín acts as the absolute industrial heart of Colombia, with a massive focus on textile production, fashion, commercial food exports, and increasingly, formal technology and financial services. Historically, the city has undergone an extreme and highly documented transformation. During the 1980s and early 1990s, Medellín was globally infamous as the most dangerous city in the world due directly to the massive violence of the Medellín Cartel. The brutal drug war claimed thousands of casualties and totally destroyed the formal economy. Through highly strategic state investments in public infrastructure, such as the Metrocable gondola system that directly connects the marginalized hillside slums with the commercial center, the city has massively modernized. Nevertheless, structural poverty and gang violence in the steep peripheral districts remain highly volatile social issues."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Medellín liegt geografisch tief in einem von Bergen umschlossenen Tal.",
+          "Die Stadt ist das absolute industrielle Zentrum der Textilproduktion.",
+          "In den 1980ern zerstörte das Drogenkartell die formelle Wirtschaft.",
+          "Das moderne Seilbahnsystem verbindet die armen Hügelsiedlungen logistisch.",
+          "Strukturelle Armut bleibt in den steilen Außenbezirken ein großes Problem."
+        ],
+        "hu": [
+          "Medellín földrajzilag mélyen egy hegyek által körülzárt völgyben fekszik.",
+          "A város a kolumbiai textiltermelés abszolút és legfőbb ipari központja.",
+          "Az 1980-as években a drogkartell teljesen tönkretette a formális gazdaságot.",
+          "A modern drótkötélpálya-rendszer logisztikailag köti össze a nyomornegyedeket.",
+          "A strukturális szegénység a meredek külvárosokban továbbra is komoly probléma."
+        ],
+        "ro": [
+          "Medellín este situat geografic adânc într-o vale complet închisă de munți.",
+          "Orașul este centrul industrial absolut al producției masive de textile.",
+          "În anii 1980, cartelul drogurilor a distrus complet economia formală.",
+          "Sistemul modern de telecabină conectează logistic așezările sărace de pe deal.",
+          "Sărăcia structurală rămâne o problemă majoră în suburbiile periferice."
+        ],
+        "en": [
+          "Medellín is geographically located deep within a steep mountain-enclosed valley.",
+          "The city is the absolute industrial center of formal textile production.",
+          "In the 1980s, the violent drug cartel completely destroyed the formal economy.",
+          "The modern cable car system logistically connects the poor hillside slums.",
+          "Structural poverty remains a massive social problem in the steep outer districts."
+        ]
+      }
+    },
+    {
+      "id": "cali-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cali ist die offizielle Hauptstadt des Departamento Valle del Cauca und die drittgrößte Metropole Kolumbiens. Geografisch liegt die Stadt in einem extrem fruchtbaren Flusstal zwischen der westlichen und zentralen Kordillere der Anden. Wirtschaftlich fungiert Cali als der absolut wichtigste Knotenpunkt für die Agrarindustrie des Landes, wobei der Anbau und die hochmechanisierte Verarbeitung von Zuckerrohr den regionalen Export massiv dominieren. Durch die direkte Nähe zum Pazifikhafen Buenaventura ist Cali die primäre logistische Verbindung Kolumbiens zum asiatisch-pazifischen Raum. Historisch erlitt die Stadt in den späten 1980er und 1990er Jahren verheerende wirtschaftliche und soziale Schäden durch den brutalen Drogenkrieg, der vom Cali-Kartell angeführt wurde. Obwohl die großen Kartelle zerschlagen wurden, kämpft die Stadt heute weiterhin mit extrem hoher Kriminalität, starker Ganggewalt und sozialer Ungleichheit, besonders in den verarmten östlichen Bezirken. Die Kultur Calis ist stark afrokolumbianisch geprägt, und die Stadt gilt weltweit als die unangefochtene „Hauptstadt des Salsa“, was eine stetig wachsende Tourismusindustrie antreibt.",
+        "hu": "Cali a Valle del Cauca megye hivatalos fővárosa és Kolumbia harmadik legnagyobb metropolisza. Földrajzilag a város egy rendkívül termékeny folyóvölgyben fekszik a nyugati és a középső Andok kordillerái között. Gazdasági szempontból Cali az ország agráriparának abszolút legfontosabb csomópontjaként működik, ahol a cukornád termesztése és magasan gépesített feldolgozása masszívan uralja a regionális exportot. A Buenaventura csendes-óceáni kikötőjének közvetlen közelsége miatt Cali Kolumbia elsődleges logisztikai kapcsolata az ázsiai-csendes-óceáni térséggel. Történelmileg a város az 1980-as évek végén és az 1990-es években pusztító gazdasági és társadalmi károkat szenvedett el a Cali-kartell által vezetett brutális drogháború miatt. Bár a nagy kartelleket felszámolták, a város ma is rendkívül magas bűnözéssel, erős bandaerőszakkal és társadalmi egyenlőtlenséggel küzd, különösen az elszegényedett keleti kerületekben. Cali kultúráját erősen befolyásolja az afrokolumbiai örökség, és a város világszerte a „Salsa vitathatatlan fővárosaként” ismert, ami egy folyamatosan növekvő turisztikai ipart hajt.",
+        "ro": "Cali este capitala oficială a departamentului Valle del Cauca și a treia metropolă ca mărime din Columbia. Geografic, orașul este situat într-o vale fluvială extrem de fertilă între cordilierele vestice și centrale ale Anzilor. Economic, Cali funcționează ca cel mai important nod absolut pentru industria agricolă a țării, cultivarea și prelucrarea extrem de mecanizată a trestiei de zahăr dominând masiv exporturile regionale. Datorită apropierii sale directe de portul pacific Buenaventura, Cali este principala legătură logistică a Columbiei cu regiunea Asia-Pacific. Istoric, orașul a suferit daune economice și sociale devastatoare la sfârșitul anilor 1980 și 1990 din cauza războiului brutal al drogurilor condus de Cartelul Cali. Deși marile carteluri au fost dezmembrate, orașul continuă să se lupte cu o criminalitate extrem de ridicată, violența bandelor și inegalitatea socială, în special în districtele estice sărace. Orașul este cunoscut la nivel global drept „Capitala Salsa”.",
+        "en": "Cali is the official capital of the Valle del Cauca Department and the third-largest metropolis in Colombia. Geographically, the city is securely located in an extremely fertile river valley between the western and central cordilleras of the Andes. Economically, Cali acts as the absolutely most important hub for the country's agribusiness, with the cultivation and highly mechanized processing of sugarcane massively dominating regional exports. Due to its direct proximity to the Pacific port of Buenaventura, Cali is Colombia's primary logistical connection to the Asia-Pacific region. Historically, the city suffered devastating economic and social damage during the late 1980s and 1990s due to the brutal drug war led by the Cali Cartel. Although the major cartels have been effectively dismantled, the city continues to heavily struggle with extremely high crime rates, severe gang violence, and spatial inequality today, particularly in the deeply impoverished eastern districts. Cali's culture is heavily influenced by its Afro-Colombian heritage, and the city is globally recognized as the undisputed \"Capital of Salsa,\" which drives tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cali ist das absolut wichtigste Zentrum der kolumbianischen Agrarindustrie.",
+          "Der hochmechanisierte Zuckerrohranbau dominiert die lokale Wirtschaft komplett.",
+          "Das historische Cali-Kartell verursachte in den 1990ern extreme Gewaltraten.",
+          "Die direkte Nähe zum Pazifikhafen sichert den massiven Asien-Export.",
+          "Die Metropole gilt weltweit offiziell als die unangefochtene Hauptstadt des Salsa."
+        ],
+        "hu": [
+          "Cali a kolumbiai agráripar abszolút legfontosabb és legmeghatározóbb központja.",
+          "A magasan gépesített cukornád-termesztés teljesen uralja a helyi gazdaságot.",
+          "A történelmi Cali-kartell az 1990-es években extrém erőszakot eredményezett.",
+          "A csendes-óceáni kikötő közelsége biztosítja a masszív ázsiai exportot.",
+          "A metropoliszt világszerte hivatalosan a salsa vitathatatlan fővárosaként ismerik."
+        ],
+        "ro": [
+          "Cali este cel mai important centru absolut al industriei agricole columbiene.",
+          "Cultivarea foarte mecanizată a trestiei de zahăr domină complet economia.",
+          "Cartelul istoric Cali a cauzat rate extreme de violență în anii 1990.",
+          "Apropierea directă de portul Pacific asigură exportul masiv către Asia.",
+          "Metropola este considerată oficial la nivel mondial capitala incontestabilă a salsa."
+        ],
+        "en": [
+          "Cali serves as the absolutely most important center of Colombian agribusiness.",
+          "Highly mechanized sugarcane cultivation completely dominates the local economy.",
+          "The historical Cali Cartel caused extremely high violence rates in the 1990s.",
+          "Direct proximity to the Pacific port firmly secures massive Asian exports.",
+          "The metropolis is officially recognized globally as the undisputed capital of salsa."
+        ]
+      }
+    },
+    {
+      "id": "barranquilla-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Barranquilla ist die Hauptstadt des Departamento Atlántico und die mit Abstand größte Industriehafenstadt an der karibischen Küste Kolumbiens. Geografisch ist die Stadt hochgradig strategisch am westlichen Ufer des massiven Río Magdalena gelegen, nur wenige Kilometer vor dessen Mündung in das Karibische Meer. Wirtschaftlich fungiert Barranquilla als Kolumbiens absolutes \"Goldenes Tor\" (La Puerta de Oro), das schwere industrielle Produktion, Metallverarbeitung und chemische Industrie mit massiver maritimer Hafenlogistik vereint. Der Hafen verarbeitet den Großteil des nationalen Frachtverkehrs, der über den Fluss in das Landesinnere transportiert wird. Historisch unterscheidet sich Barranquilla fundamental von anderen kolumbianischen Städten, da es nie offiziell von spanischen Konquistadoren gegründet wurde und somit über kein traditionelles koloniales Zentrum verfügt. Es wuchs im späten 19. Jahrhundert organisch als Verkehrsknotenpunkt. Heute kämpft die Stadt mit extrem rascher, ungeplanter urbaner Expansion, die starke Defizite in der Wasserinfrastruktur verursacht. Kulturell zieht der jährliche Karneval von Barranquilla, ein UNESCO-Weltkulturerbe, massiven Tourismus an.",
+        "hu": "Barranquilla az Atlántico megye fővárosa, és messze a legnagyobb ipari kikötőváros Kolumbia karibi partvidékén. Földrajzilag a város rendkívül stratégiai helyen, a hatalmas Magdalena-folyó nyugati partján fekszik, mindössze néhány kilométerre a Karib-tengerbe való torkolatától. Gazdasági szempontból Barranquilla Kolumbia abszolút \"Aranykapujaként\" (La Puerta de Oro) működik, amely a nehézipari termelést, a fémfeldolgozást és a vegyipart masszív tengeri kikötői logisztikával ötvözi. A kikötő bonyolítja le a folyón keresztül a belföldre szállított nemzeti teherforgalom nagy részét. Történelmileg Barranquilla alapvetően különbözik a többi kolumbiai várostól, mivel soha nem alapították hivatalosan spanyol konkvisztádorok, így nem is rendelkezik hagyományos gyarmati központtal. A 19. század végén organikusan fejlődött közlekedési csomóponttá. Ma a város a rendkívül gyors, tervezetlen városi terjeszkedéssel küzd, amely súlyos hiányosságokat okoz a vízi infrastruktúrában. Kulturális szempontból az UNESCO világörökség részét képező éves Barranquillai Karnevál hatalmas turizmust vonz.",
+        "ro": "Barranquilla este capitala departamentului Atlántico și, de departe, cel mai mare oraș portuar industrial de pe coasta caraibiană a Columbiei. Geografic, orașul este poziționat extrem de strategic pe malul vestic al masivului râu Magdalena, la doar câțiva kilometri înainte ca acesta să se verse în Marea Caraibelor. Din punct de vedere economic, Barranquilla acționează ca „Poarta de Aur” absolută a Columbiei (La Puerta de Oro), combinând producția industrială grea, prelucrarea metalelor și industria chimică cu o logistică portuară maritimă masivă. Portul procesează majoritatea traficului național de marfă transportat pe râu în interior. Istoric, Barranquilla diferă fundamental de alte orașe columbiene prin faptul că nu a fost niciodată fondat oficial de conchistadorii spanioli și, prin urmare, nu are un centru colonial tradițional. A crescut organic la sfârșitul secolului al XIX-lea ca un nod de transport. Astăzi, orașul se luptă cu expansiunea urbană neplanificată extrem de rapidă. Carnavalul de la Barranquilla atrage turism masiv.",
+        "en": "Barranquilla is the capital of the Atlántico Department and by far the largest industrial port city on the Caribbean coast of Colombia. Geographically, the city is highly strategically positioned on the western bank of the massive Magdalena River, just a few kilometers before it actively empties into the Caribbean Sea. Economically, Barranquilla functions as Colombia's absolute \"Golden Gate\" (La Puerta de Oro), seamlessly combining heavy industrial manufacturing, metal processing, and chemical industries with massive maritime port logistics. The busy port rigorously processes the vast majority of national freight traffic transported via the river into the interior. Historically, Barranquilla differs fundamentally from other Colombian cities as it was never officially founded by Spanish conquistadors and thus completely lacks a traditional colonial center. It grew purely organically in the late 19th century as a transport hub. Today, the city struggles heavily with extremely rapid, unplanned urban expansion that causes severe deficits in municipal water infrastructure. Culturally, the annual Carnival of Barranquilla, a UNESCO World Heritage event, attracts massive tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Barranquilla operiert als der wichtigste Flusshafen am Río Magdalena.",
+          "Die Stadt verfügt historisch über kein klassisches spanisches Kolonialzentrum.",
+          "Schwerindustrie und Metallverarbeitung treiben die städtische Wirtschaft extrem an.",
+          "Der weltberühmte jährliche Karneval ist ein massiver ökonomischer Motor.",
+          "Ungeplante städtische Zersiedelung belastet die Wasserinfrastruktur heute schwer."
+        ],
+        "hu": [
+          "Barranquilla a Río Magdalena folyó legfontosabb és legnagyobb kikötőjeként működik.",
+          "A város történelmileg nem rendelkezik klasszikus spanyol gyarmati központtal.",
+          "A nehézipar és a fémfeldolgozás extrém módon hajtja a városi gazdaságot.",
+          "A világhírű éves karnevál egy masszív és rendkívül fontos gazdasági motor.",
+          "A tervezetlen városi terjeszkedés ma súlyosan megterheli a vízi infrastruktúrát."
+        ],
+        "ro": [
+          "Barranquilla operează ca cel mai important port fluvial de pe Río Magdalena.",
+          "Istoric, orașul nu are absolut niciun centru colonial clasic spaniol.",
+          "Industria grea și prelucrarea metalelor stimulează extrem economia urbană.",
+          "Carnavalul anual de renume mondial este un motor economic masiv.",
+          "Extinderea urbană neplanificată pune astăzi o presiune severă pe infrastructura de apă."
+        ],
+        "en": [
+          "Barranquilla actively operates as the most important river port on the Río Magdalena.",
+          "Historically, the city lacks absolutely any classic Spanish colonial center.",
+          "Heavy industry and bulk metal processing extremely drive the urban economy.",
+          "The world-renowned annual carnival acts as a massive economic tourism engine.",
+          "Unplanned urban sprawl severely strains the basic municipal water infrastructure today."
+        ]
+      }
+    },
+    {
+      "id": "cartagena-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cartagena de Indias ist die administrative Hauptstadt des Departamento Bolívar und Kolumbiens wichtigstes Touristenzentrum an der Karibikküste. Geografisch auf mehreren Inseln und Halbinseln erbaut, profitiert die Stadt von einer hochgradig strategischen und geschützten Bucht. Wirtschaftlich ist die Metropole von einer extremen dualen Struktur geprägt: Einerseits generiert die massive Tourismusindustrie innerhalb der von Festungsmauern umgebenen historischen Altstadt enorme Einnahmen. Andererseits fungiert die Bucht von Cartagena als der größte petrochemische und industrielle Seehafen des Landes. Historisch wurde die Stadt 1533 gegründet und entwickelte sich sofort zum absoluten Hauptumschlagplatz für den Export von geplündertem Gold und Silber nach Spanien sowie als das dunkelste Zentrum des afrikanischen Sklavenhandels in Südamerika. Die massive Festungsanlage (Castillo San Felipe) zeugt von der ständigen Verteidigung gegen Piratenangriffe. Heute ist die soziale Realität extrem asymmetrisch. Während die Altstadt und das Viertel Bocagrande ultimativen Luxus bieten, leiden die peripheren Sumpfsiedlungen unter extremer Armut, Kriminalität und der totalen Abwesenheit von Basisinfrastruktur.",
+        "hu": "Cartagena de Indias a Bolívar megye közigazgatási fővárosa és Kolumbia legfontosabb turisztikai központja a karibi partvidéken. A földrajzilag több szigetre és félszigetre épült város rendkívül stratégiai és védett öböllel rendelkezik. Gazdasági szempontból a metropoliszt egy extrém kettős szerkezet jellemzi: egyrészt az erődítményfalakkal körülvett történelmi óvároson belüli masszív turisztikai ipar hatalmas bevételeket generál. Másrészt a cartagenai öböl az ország legnagyobb petrolkémiai és ipari tengeri kikötőjeként működik. Történelmileg a várost 1533-ban alapították, és azonnal a Spanyolországba irányuló kifosztott arany és ezüst exportjának abszolút fő elosztóközpontjává, valamint az afrikai rabszolgakereskedelem legsötétebb központjává fejlődött Dél-Amerikában. A hatalmas erődítmény (Castillo San Felipe) a kalóztámadások elleni folyamatos védekezésről tanúskodik. Ma a társadalmi valóság rendkívül aszimmetrikus. Míg az óváros és a Bocagrande negyed ultimátum luxust kínál, a peremvidéki mocsártelepülések extrém szegénységtől, bűnözéstől és az alapvető infrastruktúra teljes hiányától szenvednek.",
+        "ro": "Cartagena de Indias este capitala administrativă a departamentului Bolívar și cel mai important centru turistic al Columbiei de pe coasta Caraibelor. Construit geografic pe mai multe insule și peninsule, orașul beneficiază de un golf extrem de strategic și protejat. Economic, metropola este definită de o structură duală extremă: pe de o parte, industria turistică masivă din cadrul orașului vechi istoric înconjurat de ziduri generează venituri enorme. Pe de altă parte, Golful Cartagena acționează ca cel mai mare port maritim petrochimic și industrial al țării. Istoric, orașul a fost fondat în 1533 și a evoluat imediat în principalul punct de transbordare absolut pentru exportul de aur și argint jefuit către Spania, precum și centrul cel mai întunecat al comerțului cu sclavi africani din America de Sud. Fortăreața masivă (Castillo San Felipe) mărturisește apărarea constantă împotriva piraților. Astăzi, realitatea socială este extrem de asimetrică. În timp ce Orașul Vechi oferă lux, periferiile suferă de sărăcie.",
+        "en": "Cartagena de Indias is the administrative capital of the Bolívar Department and Colombia's most highly important tourist center on the Caribbean coast. Geographically built upon several interconnected islands and peninsulas, the city benefits heavily from a highly strategic and well-protected bay. Economically, the metropolis is severely characterized by an extreme dual structure: on one hand, the massive tourism industry operating within the tightly walled historical Old Town generates enormous revenue. On the other hand, the Bay of Cartagena effectively functions as the country's absolute largest petrochemical and industrial seaport. Historically founded in 1533, the city immediately developed into the absolute main transshipment point for exporting looted gold and silver back to Spain, as well as serving as the darkest epicenter of the African slave trade in South America. The massive fortress (Castillo San Felipe) bears silent witness to constant historical defense against violent pirate attacks. Today, the social reality is extremely asymmetrical. While the Old Town and Bocagrande district offer ultimate luxury, peripheral swamp settlements suffer from extreme poverty, crime, and the total absence of basic infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cartagena operiert als Kolumbiens absolut wichtigster Karibikhafen.",
+          "Die Wirtschaft ist zerrissen zwischen elitärem Tourismus und Petrochemie.",
+          "Die historische Altstadt ist massiv befestigt, um Piraten abzuwehren.",
+          "Die Stadt war historisch das dunkle Zentrum des südamerikanischen Sklavenhandels.",
+          "Periphere Sumpfsiedlungen leiden heute unter extremer, ungelöster Armut."
+        ],
+        "hu": [
+          "Cartagena Kolumbia abszolút legfontosabb és legforgalmasabb karibi kikötője.",
+          "A gazdaság élesen megosztott az elit turizmus és a petrolkémia között.",
+          "A történelmi óváros masszívan meg van erősítve a kalózok visszaverésére.",
+          "A város történelmileg a dél-amerikai rabszolgakereskedelem sötét központja volt.",
+          "A peremvidéki mocsártelepek ma extrém, megoldatlan szegénységtől szenvednek."
+        ],
+        "ro": [
+          "Cartagena operează ca cel mai important port caraibian absolut al Columbiei.",
+          "Economia este puternic divizată între turismul de elită și petrochimie.",
+          "Orașul vechi istoric este masiv fortificat pentru a respinge pirații agresivi.",
+          "Orașul a fost istoric centrul întunecat al comerțului sud-american cu sclavi.",
+          "Așezările periferice de mlaștină suferă astăzi de o sărăcie extremă, nerezolvată."
+        ],
+        "en": [
+          "Cartagena formally operates as Colombia's absolutely most important Caribbean port.",
+          "The economy is heavily torn between elite mass tourism and bulk petrochemicals.",
+          "The historical Old Town is massively fortified to repel aggressive pirates.",
+          "The city historically acted as the dark center of the South American slave trade.",
+          "Peripheral swamp settlements actively suffer from extreme, unresolved poverty today."
+        ]
+      }
+    },
+    {
+      "id": "bucaramanga-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bucaramanga ist die Hauptstadt des Departamento Santander im nordöstlichen Kolumbien. Geografisch ist die Metropole spektakulär auf einer weiten Hochebene (Meseta) in den östlichen Kordilleren der Anden erbaut, vollständig umgeben von massiven Gebirgen und tief eingeschnittenen Flusscanyons. Wirtschaftlich ist die Stadt landesweit als Zentrum der Leder- und Schuhindustrie bekannt. Zudem operiert Bucaramanga als das primäre logistische und technologische Servicezentrum für die gigantische Erdölraffinerie im nahegelegenen Barrancabermeja. Ein weiterer entscheidender Wirtschaftsmotor ist der stark wachsende Bau- und Immobiliensektor sowie eine dichte Konzentration von Universitäten. Historisch wurde die Stadt 1622 gegründet, blieb aber lange aufgrund des extrem rauen Terrains isoliert, bis die Kaffee-Exportwirtschaft im 19. Jahrhundert massives Kapital an die Region band. Heute steht Bucaramanga vor großen topografischen Herausforderungen. Die steilen Hänge der Stadt sind durch extreme Niederschläge hochgradig anfällig für katastrophale Erdrutsche. Außerdem kämpft die Stadt mit chronischen Verkehrsstaus, da das Hochplateau jede weitere physische Expansion des Straßennetzes absolut blockiert.",
+        "hu": "Bucaramanga a Santander megye fővárosa Északkelet-Kolumbiában. Földrajzilag a metropolisz látványosan egy széles fennsíkon (Meseta) épült fel az Andok keleti kordilleráiban, teljesen körülvéve masszív hegyekkel és mélyen bevágott folyami kanyonokkal. Gazdasági szempontból a város országosan is a bőr- és cipőipar központjaként ismert. Emellett Bucaramanga működik az elsődleges logisztikai és technológiai szolgáltató központként a közeli Barrancabermejában található gigantikus kőolaj-finomító számára. További döntő gazdasági motor az erőteljesen növekvő építő- és ingatlanszektor, valamint az egyetemek sűrű koncentrációja. Történelmileg a várost 1622-ben alapították, de a rendkívül zord terep miatt sokáig elszigetelt maradt, amíg a kávéexport-gazdaság a 19. században hatalmas tőkét nem kötött a régióhoz. Ma Bucaramanga nagy topográfiai kihívásokkal néz szembe. A város meredek lejtői az extrém esőzések miatt rendkívül hajlamosak a katasztrofális földcsuszamlásokra. Ezenkívül a város krónikus forgalmi dugókkal küzd, mivel a fennsík abszolút blokkolja az úthálózat további fizikai terjeszkedését.",
+        "ro": "Bucaramanga este capitala departamentului Santander din nord-estul Columbiei. Geografic, metropola este spectaculos construită pe un platou larg (meseta) în Cordiliera Orientală a Anzilor, complet înconjurată de munți masivi și canioane adânci de râu. Economic, orașul este cunoscut la nivel național ca centrul industriei de pielărie și încălțăminte. Mai mult, Bucaramanga operează ca principalul centru de servicii logistice și tehnologice pentru gigantica rafinărie de petrol din apropiere, la Barrancabermeja. Un alt motor economic crucial este sectorul construcțiilor și imobiliar în creștere rapidă, precum și o concentrare densă de universități. Istoric, orașul a fost fondat în 1622, dar a rămas izolat mult timp din cauza terenului extrem de accidentat, până când economia de export a cafelei a adus capital masiv în regiune în secolul al XIX-lea. Astăzi, Bucaramanga se confruntă cu provocări topografice majore. Pantele abrupte ale orașului sunt extrem de susceptibile la alunecări de teren catastrofale din cauza precipitațiilor extreme. Extinderea este blocată.",
+        "en": "Bucaramanga is the capital of the Santander Department in northeastern Colombia. Geographically, the metropolis is spectacularly built on a wide high plateau (meseta) within the Eastern Cordillera of the Andes, entirely surrounded by massive mountains and deeply cut river canyons. Economically, the city is nationally renowned as the absolute center of the commercial leather and footwear industry. Additionally, Bucaramanga tightly operates as the primary logistical and technological service center for the gigantic petroleum refinery located in nearby Barrancabermeja. Another critical economic engine is the rapidly expanding commercial construction and real estate sector, along with a highly dense concentration of regional universities. Historically founded in 1622, the city remained isolated for a long time due to the extremely rugged terrain until the coffee export economy forcefully injected massive capital into the region during the 19th century. Today, Bucaramanga faces major topographical challenges. The city's steep surrounding slopes are highly susceptible to catastrophic landslides caused by extreme rainfall. Furthermore, the high plateau absolutely blocks any further physical expansion of the road network, causing severe traffic jams."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bucaramanga ist hochgelegen auf einem Plateau tief in den Anden erbaut.",
+          "Die lokale Wirtschaft wird traditionell stark von der Schuhindustrie geprägt.",
+          "Die Stadt liefert kritische technologische Dienste für die nahe Ölraffinerie.",
+          "Massive Regenfälle verursachen stetig tödliche Erdrutsche an den Steilhängen.",
+          "Die Plateau-Lage blockiert die physische Expansion der überlasteten Straßen völlig."
+        ],
+        "hu": [
+          "Bucaramangát magasan, egy fennsíkra építették fel, mélyen az Andokban.",
+          "A helyi gazdaságot hagyományosan és erősen a cipőipar határozza meg.",
+          "A város kritikus technológiai szolgáltatásokat nyújt a közeli olajfinomítónak.",
+          "A hatalmas esőzések folyamatosan halálos földcsuszamlásokat okoznak a lejtőkön.",
+          "A fennsík elhelyezkedése teljesen blokkolja a túlterhelt utak fizikai bővítését."
+        ],
+        "ro": [
+          "Bucaramanga este construită la mare altitudine pe un platou adânc în Anzi.",
+          "Economia locală este tradițional puternic modelată de industria încălțămintei.",
+          "Orașul oferă servicii tehnologice critice rafinăriei masive de petrol din apropiere.",
+          "Ploile masive provoacă în mod constant alunecări de teren mortale pe pante.",
+          "Locația pe platou blochează complet expansiunea fizică a străzilor supraîncărcate."
+        ],
+        "en": [
+          "Bucaramanga is spectacularly built at a high altitude on a plateau deep in the Andes.",
+          "The local formal economy is traditionally heavily shaped by the footwear industry.",
+          "The city provides highly critical technological services to the nearby oil refinery.",
+          "Massive rainfall consistently causes fatal landslides on the steep urban slopes.",
+          "The plateau location completely blocks the physical expansion of the congested streets."
+        ]
+      }
+    },
+    {
+      "id": "manizales-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Manizales ist die administrative Hauptstadt des Departamento Caldas in Kolumbien und das physische Zentrum der kolumbianischen Kaffeeachse (Eje Cafetero). Geografisch liegt die Stadt extrem prekär auf einer Reihe von rauen, messerscharfen Gebirgskämmen in der Zentralkordillere der Anden auf über 2.100 Metern Höhe. Diese dramatische Topografie erfordert extrem steile Straßenverläufe. Wirtschaftlich stützte sich die Stadt historisch komplett auf den Anbau und Export von Premium-Kaffee. Heute hat sich Manizales jedoch erfolgreich in ein massives regionales Bildungszentrum verwandelt. Mehrere erstklassige Universitäten ziehen tausende Studenten an, was den Dienstleistungs- und Technologiesektor der Stadt immens antreibt. Historisch wurde die Stadt erst 1849 von Siedlern aus Antioquia (Antioqueños) gegründet und hat im 20. Jahrhundert katastrophale Stadtbrände sowie verheerende Erdbeben überlebt. Heute steht Manizales unter ständiger extremer physischer Bedrohung: Die Nähe zum aktiven Stratovulkan Nevado del Ruiz und das unerbittliche Risiko von massiven Erdrutschen auf den abgeholzten Hängen während der Regenzeiten fordern höchste permanente Katastrophenbereitschaft.",
+        "hu": "Manizales a kolumbiai Caldas megye közigazgatási fővárosa és a kolumbiai kávétengely (Eje Cafetero) fizikai központja. Földrajzilag a város rendkívül bizonytalanul helyezkedik el egy sor zord, borotvaéles hegygerincen az Andok középső kordillerájában, több mint 2100 méteres magasságban. Ez a drámai topográfia rendkívül meredek úthálózatot tesz szükségessé. Gazdasági szempontból a város történelmileg teljesen a prémium kávé termesztésére és exportjára támaszkodott. Ma azonban Manizales sikeresen egy masszív regionális oktatási központtá alakult át. Számos első osztályú egyetem vonzza a diákok ezreit, ami óriási mértékben hajtja a város szolgáltatási és technológiai szektorát. Történelmileg a várost csak 1849-ben alapították antióquiai telepesek (Antioqueños), és a 20. században katasztrofális városi tüzeket, valamint pusztító földrengéseket élt túl. Ma Manizales állandó extrém fizikai fenyegetettség alatt áll: az aktív Nevado del Ruiz rétegvulkán közelsége, valamint a leirtott lejtőkön az esős évszakokban fenyegető masszív földcsuszamlások kérlelhetetlen kockázata maximális és állandó katasztrófavédelmi készültséget követel meg.",
+        "ro": "Manizales este capitala administrativă a departamentului Caldas din Columbia și centrul fizic al axei columbiene a cafelei (Eje Cafetero). Geografic, orașul este așezat extrem de precar pe o serie de creste muntoase aspre, ascuțite ca briciul, în Cordiliera Centrală a Anzilor, la peste 2.100 de metri altitudine. Această topografie dramatică necesită rețele de drumuri extrem de abrupte. Economic, orașul s-a bazat istoric în întregime pe cultivarea și exportul de cafea premium. Astăzi, însă, Manizales s-a transformat cu succes într-un centru educațional regional masiv. Mai multe universități de top atrag mii de studenți, stimulând imens sectoarele de servicii și tehnologie ale orașului. Istoric, orașul a fost fondat abia în 1849 de coloniști din Antioquia (Antioqueños) și a supraviețuit unor incendii urbane catastrofale și cutremurelor devastatoare din secolul al XX-lea. Astăzi, Manizales se află sub amenințare fizică extremă constantă: proximitatea vulcanului activ Nevado del Ruiz necesită o pregătire permanentă.",
+        "en": "Manizales is the administrative capital of the Caldas Department in Colombia and acts as the physical center of the Colombian Coffee Axis (Eje Cafetero). Geographically, the city is perched extremely precariously on a series of rugged, razor-sharp mountain ridges within the Central Cordillera of the Andes at an elevation of over 2,100 meters. This highly dramatic topography forcefully requires extremely steep road networks. Economically, the city historically relied completely and exclusively on the intensive cultivation and export of premium coffee. Today, however, Manizales has successfully transformed into a massive regional educational center. Several top-tier universities aggressively attract thousands of students, immensely driving the city's formal service and technology sectors. Historically, the city was founded relatively late in 1849 by settlers from Antioquia (Antioqueños) and has remarkably survived catastrophic urban fires as well as totally devastating earthquakes during the 20th century. Today, Manizales remains under constant, extreme physical threat: the direct proximity to the highly active Nevado del Ruiz stratovolcano and the relentless risk of massive landslides on deforested slopes demand constant, strict disaster readiness."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Manizales liegt extrem steil auf schmalen Gebirgskämmen in den Anden.",
+          "Die historische Wirtschaft basierte komplett auf exklusivem Kaffee-Export.",
+          "Große Universitäten verwandeln die Stadt heute in einen Bildungs-Hub.",
+          "Starke Erdbeben und Brände zerstörten die alte Stadt im 20. Jahrhundert massiv.",
+          "Der hochaktive Vulkan Nevado del Ruiz bedroht die Stadt heute absolut existenziell."
+        ],
+        "hu": [
+          "Manizales rendkívül meredeken fekszik az Andok szűk hegygerincein.",
+          "A történelmi gazdaság teljesen az exkluzív kávéexporton alapult.",
+          "A nagy egyetemek ma a várost egy hatalmas oktatási központtá alakítják.",
+          "Erős földrengések és tüzek masszívan elpusztították a régi várost a 20. században.",
+          "A rendkívül aktív Nevado del Ruiz vulkán ma egzisztenciálisan fenyegeti a várost."
+        ],
+        "ro": [
+          "Manizales este situat extrem de abrupt pe creste înguste de munte din Anzi.",
+          "Economia istorică se baza complet pe exportul exclusiv de cafea columbiană.",
+          "Universitățile mari transformă astăzi orașul într-un hub educațional major.",
+          "Cutremurele și incendiile puternice au distrus masiv orașul vechi în sec. XX.",
+          "Vulcanul extrem de activ Nevado del Ruiz amenință astăzi orașul existențial."
+        ],
+        "en": [
+          "Manizales is perched extremely steeply on narrow mountain ridges in the Andes.",
+          "The historical formal economy was completely based on exclusive coffee export.",
+          "Large national universities actively transform the city into an educational hub today.",
+          "Strong earthquakes and severe fires massively destroyed the old city in the 20th century.",
+          "The highly active Nevado del Ruiz volcano poses a constant existential threat to the city."
+        ]
+      }
+    },
+    {
+      "id": "pereira-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pereira ist die stark bevölkerte Hauptstadt des Departamento Risaralda und fungiert als das absolute kommerzielle Kraftzentrum der kolumbianischen Kaffeeachse. Geografisch im Tal des Otún-Flusses in der Zentralkordillere der Anden gelegen, ist das Gelände der Stadt von sanften Hügeln und extrem steilen Schluchten geprägt. Wirtschaftlich stützte sich Pereira historisch auf den Kaffee, doch heute treiben aggressiver Einzelhandel, Schwerlogistik und eine boomende Bauindustrie die lokale Ökonomie an. Die Stadt liegt exakt im \"Goldenen Dreieck\" Kolumbiens, genau zwischen Bogotá, Medellín und Cali, was sie zum wichtigsten logistischen Umschlagplatz der Region macht. Historisch 1863 an der Stelle einer durch indigene Angriffe verlassenen alten spanischen Siedlung gegründet, wuchs Pereira im 20. Jahrhundert durch starken Zuzug aus anderen Regionen explosionsartig. Heute leidet die städtische Infrastruktur immens unter diesem schnellen, unregulierten Wachstum. Das veraltete Straßennetz ist der massiven Anzahl an Fahrzeugen nicht gewachsen, was zu permanenten Verkehrsstaus führt. Die Randbezirke sind durch ungesicherte, informelle Siedlungen an erdrutschgefährdeten Hängen gekennzeichnet.",
+        "hu": "Pereira Risaralda megye sűrűn lakott fővárosa, és a kolumbiai kávétengely abszolút kereskedelmi erőműveként működik. Földrajzilag az Otún-folyó völgyében, az Andok középső kordillerájában helyezkedik el, a város területét szelíd dombok és rendkívül meredek szurdokok jellemzik. Gazdasági szempontból Pereira történelmileg a kávéra támaszkodott, de ma az agresszív kiskereskedelem, a nehézlogisztika és a virágzó építőipar hajtja a helyi gazdaságot. A város pontosan Kolumbia „Arany Háromszögében” fekszik, éppen Bogotá, Medellín és Cali között, ami a régió legfontosabb logisztikai elosztóközpontjává teszi. Történelmileg 1863-ban alapították egy régi, őslakos támadások miatt elhagyott spanyol település helyén. Pereira a 20. században robbanásszerűen növekedett a más régiókból érkező erős beáramlás miatt. Ma a városi infrastruktúra óriási mértékben szenved ettől a gyors, szabályozatlan növekedéstől. Az elavult úthálózat nem tud megbirkózni a hatalmas számú járművel, ami állandó forgalmi dugókhoz vezet. A peremkerületeket a földcsuszamlásnak kitett lejtőkön lévő, nem biztonságos, informális települések jellemzik.",
+        "ro": "Pereira este capitala foarte populată a departamentului Risaralda și funcționează ca centrul de forță comercial absolut al axei cafelei columbiene. Geografic, situat în valea râului Otún din Cordiliera Centrală a Anzilor, terenul orașului este caracterizat de dealuri blânde și chei extrem de abrupte. Economic, Pereira s-a bazat istoric pe cafea, dar astăzi, comerțul cu amănuntul agresiv, logistica grea și o industrie a construcțiilor înfloritoare stimulează economia locală. Orașul este situat exact în „Triunghiul de Aur” al Columbiei, precis între Bogotá, Medellín și Cali, făcându-l cel mai important hub logistic din regiune. Istoric fondat în 1863 pe locul unei vechi așezări spaniole abandonate din cauza atacurilor indigene, Pereira a crescut exploziv în secolul al XX-lea din cauza afluxului puternic din alte regiuni. Astăzi, infrastructura urbană suferă imens de pe urma acestei creșteri rapide. Rețeaua rutieră este depășită, provocând blocaje. Periferiile au așezări informale pe pante predispuse la alunecări.",
+        "en": "Pereira is the highly populated capital of the Risaralda Department and functions as the absolute commercial powerhouse of the Colombian Coffee Axis. Geographically situated in the valley of the Otún River within the Central Cordillera of the Andes, the city's terrain is heavily characterized by rolling hills and extremely steep ravines. Economically, Pereira historically relied strictly on coffee, but today, aggressive retail trade, heavy logistics, and a booming construction industry actively drive the local economy. The city is located exactly in the \"Golden Triangle\" of Colombia, perfectly positioned between Bogotá, Medellín, and Cali, making it the absolute most important logistical transshipment hub in the region. Historically founded in 1863 on the site of an old Spanish settlement previously abandoned due to severe indigenous attacks, Pereira grew explosively in the 20th century due to heavy inward migration from other troubled regions. Today, the urban infrastructure suffers immensely from this extremely rapid, unregulated growth. The severely outdated road network is incapable of handling the massive volume of vehicles, leading to permanent traffic congestion. The outskirts are heavily defined by unsafe, informal settlements clinging to landslide-prone slopes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pereira ist das kommerzielle Kraftzentrum der kolumbianischen Kaffeeachse.",
+          "Die Stadt liegt hochstrategisch genau im Dreieck zwischen Bogotá, Cali und Medellín.",
+          "Logistik und aggressiver Einzelhandel dominieren die heutige formelle Wirtschaft.",
+          "Extreme Verkehrsstaus lähmen das völlig veraltete städtische Straßennetz ständig.",
+          "Ungesicherte Slums an sehr steilen Hängen sind extrem erdrutschgefährdet."
+        ],
+        "hu": [
+          "Pereira a kolumbiai kávétengely abszolút kereskedelmi és logisztikai erőműve.",
+          "A város rendkívül stratégiai helyen, Bogotá, Cali és Medellín között fekszik.",
+          "A logisztika és az agresszív kiskereskedelem uralja a mai formális gazdaságot.",
+          "Az extrém forgalmi dugók folyamatosan megbénítják a teljesen elavult úthálózatot.",
+          "A nagyon meredek lejtőkön lévő nyomornegyedek rendkívül földcsuszamlás-veszélyesek."
+        ],
+        "ro": [
+          "Pereira este centrul comercial de forță al axei cafelei columbiene.",
+          "Orașul este situat foarte strategic exact între Bogotá, Cali și Medellín.",
+          "Logistica și comerțul cu amănuntul agresiv domină puternic economia de astăzi.",
+          "Blocajele extreme de trafic paralizează constant rețeaua rutieră complet învechită.",
+          "Mahalalele nesigure de pe pante foarte abrupte sunt extrem de predispuse la alunecări."
+        ],
+        "en": [
+          "Pereira acts as the absolute commercial powerhouse of the Colombian Coffee Axis.",
+          "The city is highly strategically located exactly between Bogotá, Cali, and Medellín.",
+          "Heavy logistics and aggressive retail completely dominate the formal economy today.",
+          "Extreme traffic congestion constantly paralyzes the entirely outdated urban road network.",
+          "Unsafe informal slums on very steep slopes are extremely prone to fatal landslides."
+        ]
+      }
+    },
+    {
+      "id": "cucuta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Cúcuta ist die Hauptstadt des Departamento Norte de Santander im äußersten Nordosten Kolumbiens. Geografisch liegt die Stadt in einem extrem heißen und trockenen Tal direkt an der durchlässigen Grenze zu Venezuela, getrennt nur durch den Táchira-Fluss. Wirtschaftlich basiert die Stadt traditionell auf starkem bilateralen Handel, Leichtindustrie und lokaler Kohleförderung. Historisch war Cúcuta der Ort, an dem 1821 die erste Verfassung von Großkolumbien verfasst wurde, und erlangte so massive nationale Bedeutung. In den letzten Jahren hat sich Cúcuta jedoch in das absolute Epizentrum der massiven venezolanischen Migrationskrise verwandelt. Der offizielle Grenzübergang, die Simón-Bolívar-Brücke, wird täglich von Zehntausenden Menschen passiert. Dieser beispiellose demografische Druck hat die extrem unterfinanzierte städtische Infrastruktur, Krankenhäuser und Schulen komplett zum Kollabieren gebracht. Eine massive illegale Schattenwirtschaft, kontrolliert von brutalen paramilitärischen Banden, dominiert die zahlreichen inoffiziellen Grenzpfade (Trochas) und stürzt die Stadt in eine chronische, gewaltsame Sicherheitskrise.",
+        "hu": "Cúcuta a Norte de Santander megye fővárosa Kolumbia legészakkeletibb részén. Földrajzilag a város egy rendkívül forró és száraz völgyben fekszik, közvetlenül a Venezuelával közös, átjárható határon, amelyet csupán a Táchira-folyó választ el. Gazdasági szempontból a város hagyományosan az erős kétoldalú kereskedelemre, a könnyűiparra és a helyi szénbányászatra épül. Történelmileg Cúcuta volt az a hely, ahol 1821-ben megfogalmazták Nagy-Kolumbia első alkotmányát, így hatalmas nemzeti jelentőségre tett szert. Az elmúlt években azonban Cúcuta a masszív venezuelai migrációs válság abszolút epicentrumává változott. A hivatalos határátkelőhelyen, a Simón Bolívar hídon naponta több tízezer ember kel át. Ez a példátlan demográfiai nyomás teljesen összeomlasztotta a rendkívül alulfinanszírozott városi infrastruktúrát, a kórházakat és az iskolákat. A brutális félkatonai bandák által irányított masszív illegális árnyékgazdaság uralja a számos nem hivatalos határösvényt (trochákat), és krónikus, erőszakos biztonsági válságba taszítja a várost.",
+        "ro": "Cúcuta este capitala departamentului Norte de Santander din nord-estul extrem al Columbiei. Geografic, orașul este situat într-o vale extrem de caldă și uscată, direct pe granița poroasă cu Venezuela, separat doar de râul Táchira. Din punct de vedere economic, orașul se bazează tradițional pe comerț bilateral puternic, industrie ușoară și extracția locală de cărbune. Istoric, Cúcuta a fost locul unde a fost elaborată prima constituție a Marii Columbii în 1821, câștigând o semnificație națională masivă. În ultimii ani, însă, Cúcuta s-a transformat în epicentrul absolut al crizei masive de migrație venezueleană. Trecerea oficială a frontierei, Podul Simón Bolívar, este traversată zilnic de zeci de mii de oameni. Această presiune demografică fără precedent a provocat prăbușirea completă a infrastructurii urbane extrem de subfinanțate, a spitalelor și a școlilor. O economie subterană ilegală masivă, controlată de bande paramilitare brutale, domină numeroasele căi de frontieră neoficiale.",
+        "en": "Cúcuta is the capital of the Norte de Santander Department in the extreme northeast of Colombia. Geographically, the city is located in a highly hot and dry valley directly on the highly porous border with Venezuela, separated physically only by the Táchira River. Economically, the city traditionally relies on robust bilateral trade, light manufacturing, and local coal extraction. Historically, Cúcuta was the exact site where the very first constitution of Gran Colombia was drafted in 1821, granting it massive national historical significance. In recent years, however, Cúcuta has drastically transformed into the absolute epicenter of the massive Venezuelan migration crisis. The official border crossing, the Simón Bolívar Bridge, is crossed by tens of thousands of desperate people daily. This completely unprecedented demographic pressure has caused the extremely underfunded urban infrastructure, hospitals, and public schools to collapse entirely. A massive illegal shadow economy, strictly controlled by brutal paramilitary gangs, aggressively dominates the numerous unofficial border trails (trochas), plunging the city into a chronic, highly violent security crisis."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cúcuta liegt extrem heiß und trocken direkt an der Grenze zu Venezuela.",
+          "Die Stadt ist das heutige Epizentrum der venezolanischen Migrationskrise.",
+          "Der massive demografische Druck lässt lokale Krankenhäuser kollabieren.",
+          "Bewaffnete Banden kontrollieren illegale Grenzpfade (Trochas) brutal.",
+          "Historisch wurde hier 1821 die erste Verfassung Großkolumbiens verfasst."
+        ],
+        "hu": [
+          "Cúcuta extrém forró és száraz helyen, közvetlenül a venezuelai határon fekszik.",
+          "A város a venezuelai migrációs válság abszolút jelenlegi epicentruma.",
+          "A hatalmas demográfiai nyomás miatt a helyi kórházak teljesen összeomlanak.",
+          "Fegyveres bandák brutálisan ellenőrzik az illegális határösvényeket (trochákat).",
+          "Történelmileg itt írták alá Nagy-Kolumbia legelső alkotmányát 1821-ben."
+        ],
+        "ro": [
+          "Cúcuta este situat extrem de cald și uscat direct pe granița cu Venezuela.",
+          "Orașul este epicentrul absolut actual al crizei migrației venezuelene.",
+          "Presiunea demografică masivă cauzează prăbușirea completă a spitalelor locale.",
+          "Bande armate controlează brutal și violent potecile ilegale de frontieră.",
+          "Istoric, prima constituție a Marii Columbii a fost redactată absolut aici în 1821."
+        ],
+        "en": [
+          "Cúcuta is located in a highly hot and dry valley directly on the Venezuelan border.",
+          "The city acts as the absolute current epicenter of the Venezuelan migration crisis.",
+          "Massive demographic pressure causes severely underfunded local hospitals to collapse.",
+          "Heavily armed paramilitaries brutally control the highly illegal border trails (trochas).",
+          "Historically, the very first constitution of Gran Colombia was drafted here in 1821."
+        ]
+      }
+    },
+    {
+      "id": "santa-marta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Santa Marta, Hauptstadt des Departamento Magdalena an der kolumbianischen Karibikküste, rühmt sich des Titels, die älteste ununterbrochen bewohnte spanische Siedlung Südamerikas zu sein. Geografisch ist die Stadt massiv privilegiert, eingeklemmt zwischen dem Karibischen Meer und der gewaltigen Sierra Nevada de Santa Marta, dem höchsten Küstengebirge der Welt. Wirtschaftlich profitiert Santa Marta extrem von einem boomenden Tourismussektor, angetrieben von den Stränden und dem nahegelegenen Tayrona-Nationalpark. Zudem fungiert die Stadt als einer der primären Tiefseehäfen Kolumbiens, der gigantische Mengen an Exportkohle aus den Inlandsminen abwickelt. Historisch wurde die Stadt 1525 von Rodrigo de Bastidas gegründet und diente lange als Ausgangspunkt für Entdeckungsreisen ins Landesinnere; zudem starb hier 1830 Simón Bolívar. Heute leidet die Stadt unter schweren infrastrukturellen Mängeln. Das städtische Wassersystem ist völlig unzureichend, was zu chronischem Wassermangel führt. Die Verschmutzung durch Kohlenstaub aus dem Hafenbetrieb bedroht die öffentliche Gesundheit und die wertvollen marinen Korallenriffe extrem.",
+        "hu": "Santa Marta, a Magdalena megye fővárosa a kolumbiai karibi partvidéken, azzal a címmel büszkélkedhet, hogy Dél-Amerika legrégebbi, megszakítás nélkül lakott spanyol települése. Földrajzilag a város rendkívül kiváltságos helyzetben van, beszorítva a Karib-tenger és a hatalmas Sierra Nevada de Santa Marta, a világ legmagasabb part menti hegysége közé. Gazdasági szempontból Santa Marta extrém módon profitál a virágzó turisztikai szektorból, amelyet a strandok és a közeli Tayrona Nemzeti Park hajtanak. Ezenkívül a város Kolumbia egyik elsődleges mélyvízi kikötőjeként működik, amely gigantikus mennyiségű export szenet bonyolít le a belföldi bányákból. Történelmileg a várost Rodrigo de Bastidas alapította 1525-ben, és sokáig kiindulópontként szolgált a belföldi felfedezőutak számára; emellett Simón Bolívar is itt halt meg 1830-ban. Ma a város súlyos infrastrukturális hiányosságoktól szenved. A városi vízrendszer teljesen elégtelen, ami krónikus vízhiányhoz vezet. A kikötői műveletekből származó szénpor-szennyezés rendkívüli módon fenyegeti a közegészségügyet és az értékes tengeri korallzátonyokat.",
+        "ro": "Santa Marta, capitala departamentului Magdalena de pe coasta Caraibelor din Columbia, se mândrește cu titlul de a fi cea mai veche așezare spaniolă locuită continuu din America de Sud. Geografic, orașul este masiv privilegiat, blocat între Marea Caraibelor și masiva Sierra Nevada de Santa Marta, cel mai înalt lanț muntos de coastă din lume. Din punct de vedere economic, Santa Marta beneficiază extrem de un sector turistic în plină expansiune, impulsionat de plajele sale și de Parcul Național Tayrona din apropiere. În plus, orașul funcționează ca unul dintre porturile primare de apă adâncă ale Columbiei, manipulând cantități gigantice de cărbune de export. Istoric, orașul a fost fondat de Rodrigo de Bastidas în 1525 și a servit mult timp ca punct de plecare pentru explorările interioare; Simón Bolívar a murit aici în 1830. Astăzi, orașul suferă de deficiențe de infrastructură severe. Sistemul municipal de apă este complet inadecvat, ducând la penurie cronică. Poluarea cu praf de cărbune amenință recifele de corali.",
+        "en": "Santa Marta, the capital of the Magdalena Department on the Colombian Caribbean coast, officially boasts the prestigious title of being the oldest continuously inhabited Spanish settlement in South America. Geographically, the city is massively privileged, tightly wedged between the warm Caribbean Sea and the massive Sierra Nevada de Santa Marta, the absolutely highest coastal mountain range in the world. Economically, Santa Marta benefits extremely from a rapidly booming tourism sector, aggressively driven by its tropical beaches and the nearby Tayrona National Park. Furthermore, the city functions as one of Colombia's primary deep-water seaports, aggressively handling gigantic quantities of export coal sourced from massive inland mines. Historically, the city was forcefully founded in 1525 by Rodrigo de Bastidas and long served as a crucial departure point for inland expeditions; it is also highly famous as the exact place where Simón Bolívar died in 1830. Today, the city suffers from severe infrastructural flaws. The municipal water system is completely inadequate, leading to chronic water shortages. Heavy pollution from toxic coal dust generated by port operations aggressively threatens public health and valuable marine coral reefs."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Santa Marta ist die absolut älteste durchgehend bewohnte Stadt Kolumbiens.",
+          "Die Stadt liegt direkt am Fuß des welthöchsten Küstengebirges Sierra Nevada.",
+          "Der Tiefseehafen verarbeitet gigantische Mengen Kohle für den globalen Export.",
+          "Chronischer Wassermangel lähmt die städtische Infrastruktur fast täglich.",
+          "Toxischer Kohlenstaub aus dem Hafen zerstört die nahen Korallenriffe massiv."
+        ],
+        "hu": [
+          "Santa Marta Kolumbia abszolút legrégebbi, folyamatosan lakott városa.",
+          "A város közvetlenül a világ legmagasabb part menti hegységének lábánál fekszik.",
+          "A mélyvízi kikötő gigantikus mennyiségű szenet dolgoz fel globális exportra.",
+          "A krónikus vízhiány szinte naponta megbénítja a teljes városi infrastruktúrát.",
+          "A kikötőből származó toxikus szénpor masszívan pusztítja a közeli korallzátonyokat."
+        ],
+        "ro": [
+          "Santa Marta este absolut cel mai vechi oraș locuit continuu din Columbia.",
+          "Orașul este situat la poalele celui mai înalt lanț muntos de coastă din lume.",
+          "Portul de mare adâncime procesează cantități gigantice de cărbune pentru export.",
+          "Deficitul cronic de apă paralizează infrastructura urbană aproape zilnic.",
+          "Praful de cărbune toxic din port distruge masiv recifele de corali din apropiere."
+        ],
+        "en": [
+          "Santa Marta is the absolutely oldest continuously inhabited city in all of Colombia.",
+          "The city is located precisely at the base of the world's highest coastal mountain range.",
+          "The deep-water port aggressively processes gigantic quantities of export-grade coal.",
+          "A chronic lack of fresh water severely paralyzes the urban infrastructure almost daily.",
+          "Toxic coal dust from heavy port operations aggressively destroys nearby coral reefs."
+        ]
+      }
+    }
+  ]
+}

@@ -47,7 +47,7 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       ro: "Portul din Praia este poarta maritimă principală a capitalei Capului Verde, gestionând majoritatea traficului de mărfuri care alimentează insula Santiago și restul arhipelagului. Situat într-un golf protejat, acest port a fost modernizat recent pentru a crește capacitatea de manipulare a containerelor și eficiența logistică. Este vital pentru aprovizionarea capitalei cu bunuri esențiale, combustibil și materiale de construcție. Dincolo de rolul comercial, portul este un motor economic major pentru regiune, generând numeroase locuri de muncă în logistică și servicii portuare. Földrajz K8 — logistica insulelor și importuri."
     },
     factsAdvanced: {
-      ro: ["Poarta maritimă a capitalei Praia", "Gestionarea principală a traficului de mărfuri", "Modernizat pentru manipularea containerelor", "Esential pentru aprovizionarea insulei Santiago", "Hub logistic pentru întreg arhipelagul", "Motor economic pentru regiune"]
+      ro: ["Gestionarea principală a traficului de mărfuri", "Modernizat pentru manipularea containerelor", "Esential pentru aprovizionarea insulei Santiago", "Hub logistic pentru întreg arhipelagul", "Motor economic pentru regiune"]
     }, image: "/poi-images/porto-da-praia-economic-v2.webp",
     description: {
       de: "Der Haupthafen der Hauptstadt Praia auf Santiago. Er ist ein wichtiger Umschlagpunkt für Waren und Versorgung.",

@@ -1,0 +1,76 @@
+
+{
+  "lang": "multi4",
+  "country": "kuwait",
+  "files": ["lib/visualLab/data/poiExtraKuwaitHistoryV2.ts"],
+  "items": [
+    {
+      "id": "jahra-red-fort-history-v2",
+      "descriptionAdvancedDe": "Die Rote Festung von Al Jahra, erbaut Ende des 19. Jahrhunderts, ist ein Symbol des kuwaitischen Widerstands. Ihre dicken Lehmwände und vier Wachtürme waren entscheidend in der Schlacht von Jahra im Jahr 1920, als kuwaitische Kräfte unter der Führung von Scheich Salem Al-Mubarak Al-Sabah die Stadt erfolgreich gegen eine Invasion der Ikhwan-Krieger verteidigten. Die Festung diente nicht nur als militärischer Stützpunkt, sondern auch als lokales Verwaltungszentrum. Heute ist sie ein restauriertes historisches Denkmal, das an den Mut und die Widerstandsfähigkeit des kuwaitischen Volkes erinnert. Ihre einfache, aber robuste Bauweise aus lokalen Materialien spiegelt die traditionelle Architektur der Region wider und macht sie zu einem wichtigen Zeugnis der nationalen Geschichte.",
+      "descriptionAdvancedHu": "Az Al-Dzsahra Vörös Erőd a 19. század végén épült, és Kuvait nemzeti ellenállásának jelképévé vált. Vastag vályogfalai és négy őrtornya döntő szerepet játszott az 1920-as dzsahrai csatában, amikor Salem Al-Mubarak Al-Sabah sejk vezetésével a kuvaiti erők sikeresen megvédték a várost az Ikhwan harcosok inváziójával szemben. Az erőd nemcsak katonai bázisként, hanem helyi közigazgatási központként is működött. Mára restaurált történelmi emlékmű, amely a kuvaiti nép bátorságára és kitartására emlékeztet. Helyi anyagokból készült, egyszerű, mégis masszív szerkezete a régió hagyományos építészetét tükrözi, és a nemzeti történelem fontos tanúja.",
+      "descriptionAdvancedRo": "Fortul Roșu din Al Jahra, construit la sfârșitul secolului al XIX-lea, este un simbol al rezistenței kuwaitiene. Zidurile sale groase de noroi și cele patru turnuri de veghe au fost cruciale în Bătălia de la Jahra din 1920, când forțele kuwaitiene conduse de șeicul Salem Al-Mubarak Al-Sabah au apărat cu succes orașul împotriva unei invazii a războinicilor Ikhwan. Fortul nu a servit doar ca bază militară, ci și ca centru administrativ local. Astăzi, este un monument istoric restaurat care comemorează curajul și rezistența poporului kuwaitian. Construcția sa simplă, dar robustă, din materiale locale, reflectă arhitectura tradițională a regiunii, făcându-l o mărturie importantă a istoriei naționale.",
+      "descriptionAdvancedEn": "The Al Jahra Red Fort, built in the late 19th century, stands as a symbol of Kuwaiti resistance. Its thick mud walls and four watchtowers were pivotal in the 1920 Battle of Jahra, where Kuwaiti forces led by Sheikh Salem Al-Mubarak Al-Sabah successfully defended the city against an Ikhwan invasion. The fort served not only as a military stronghold but also as a local administrative center. Today, it is a restored historical monument that commemorates the courage and resilience of the Kuwaiti people. Its simple yet robust construction from local materials reflects the traditional architecture of the region, making it an important testament to the nation's history.",
+      "factsAdvanced": [
+        "Gebaut: Ende 19. Jh.",
+        "Material: Lehm, lokale Hölzer",
+        "Schlacht von Jahra: 1920",
+        "Gegner: Ikhwan-Krieger",
+        "Struktur: 4 Türme, hohe Mauern",
+        "Funktion: Militärisch, Administrativ",
+        "Restauriert: Ja, für Besucher geöffnet",
+        "Bedeutung: Symbol des nationalen Widerstands"
+      ]
+    },
+    {
+      "id": "qurain-martyrs-museum-history-v2",
+      "descriptionAdvancedDe": "Das Al-Qurain Märtyrermuseum ist eine ergreifende Erinnerung an den modernen Widerstand Kuwaits. Das Haus war der Schauplatz einer heldenhaften, aber tragischen Schlacht am 24. Februar 1991, nur wenige Tage vor der Befreiung Kuwaits. Eine Gruppe von 19 jungen Männern der 'Al-Messilah'-Widerstandsgruppe wurde von irakischen Truppen umzingelt. In einem zehnsündigen Gefecht kämpften sie bis zur letzten Patrone. Zwölf von ihnen fielen als Märtyrer. Das Gebäude wurde absichtlich in seinem zerstörten Zustand belassen, mit Einschusslöchern und Granatenschäden, um die Brutalität des Konflikts zu bezeugen. Es dient als Denkmal für den zivilen Mut und die Opferbereitschaft im Kampf für die Freiheit.",
+      "descriptionAdvancedHu": "Az Al-Qurain Mártírok Múzeuma a modern kuvaiti ellenállás megrendítő emlékműve. Az épület egy hősies, de tragikus csata helyszíne volt 1991. február 24-én, mindössze néhány nappal Kuvait felszabadítása előtt. Az 'Al-Messilah' ellenálló csoport 19 fiatal tagját iraki csapatok vették körül. Egy tízórás ütközetben az utolsó töltényig harcoltak. Tizenketten mártírhalált haltak. Az épületet szándékosan a csata utáni állapotában hagyták, a golyónyomokkal és gránátok okozta sérülésekkel, hogy tanúskodjon a konfliktus brutalitásáról. Emlékműként szolgál a szabadságért folytatott küzdelemben tanúsított civil bátorságnak és áldozatvállalásnak.",
+      "descriptionAdvancedRo": "Muzeul Martirilor din Al-Qurain este un memento emoționant al rezistenței moderne din Kuweit. Casa a fost scena unei bătălii eroice, dar tragice, pe 24 februarie 1991, cu doar câteva zile înainte de eliberarea Kuweitului. Un grup de 19 tineri din grupul de rezistență 'Al-Messilah' a fost înconjurat de trupele irakiene. Într-o luptă de zece ore, au luptat până la ultimul cartuș. Doisprezece dintre ei au căzut ca martiri. Clădirea a fost lăsată în mod deliberat în starea sa distrusă, cu găuri de gloanțe și daune provocate de grenade, pentru a mărturisi brutalitatea conflictului. Acesta servește ca un monument al curajului civil și al sacrificiului în lupta pentru libertate.",
+      "descriptionAdvancedEn": "The Al-Qurain Martyrs Museum is a poignant reminder of modern Kuwaiti resistance. The house was the scene of a heroic but tragic battle on February 24, 1991, just days before Kuwait's liberation. A group of 19 young men from the 'Al-Messilah' resistance group were surrounded by Iraqi troops. In a ten-hour firefight, they fought until their last bullet. Twelve of them fell as martyrs. The building has been deliberately left in its battle-scarred state, complete with bullet holes and grenade damage, to bear witness to the brutality of the conflict. It serves as a memorial to civilian courage and the sacrifices made in the fight for freedom.",
+      "factsAdvanced": [
+        "Schlachtdatum: 24. Februar 1991",
+        "Widerstandsgruppe: Al-Messilah",
+        "Anzahl der Kämpfer: 19",
+        "Gefallene Märtyrer: 12",
+        "Dauer des Gefechts: 10 Stunden",
+        "Zustand: Im Kampfzustand erhalten",
+        "Eröffnet als Museum: 1994",
+        "Symbolisiert: Zivilen Widerstand"
+      ]
+    },
+    {
+      "id": "seif-palace-history-v2",
+      "descriptionAdvancedDe": "Der Seif-Palast, dessen Bau 1896 unter Scheich Mubarak dem Großen begann und 1904 abgeschlossen wurde, ist ein architektonisches Juwel am Ufer des Persischen Golfs. Obwohl er nicht mehr die Hauptresidenz des Emirs ist, bleibt er ein zentraler Ort für staatliche Zeremonien und offizielle Anlässe. Sein berühmtestes Merkmal ist der Uhrenturm, der mit seinen leuchtend blauen Kacheln und einer vergoldeten Kuppel ein Wahrzeichen von Kuwait-Stadt darstellt. Die Uhr selbst war ein Geschenk von Königin Victoria. Der Palastkomplex verbindet traditionelle islamische Architektur mit kolonialen Einflüssen und symbolisiert den Übergang Kuwaits in die Moderne, während er gleichzeitig sein reiches Erbe ehrt. Er hat Kriege und politische Umwälzungen überstanden und steht als Symbol für die Beständigkeit der kuwaitischen Führung.",
+      "descriptionAdvancedHu": "A Szeif-palota, amelynek építése 1896-ban kezdődött Nagy Mubarak sejk alatt és 1904-ben fejeződött be, egy építészeti gyöngyszem a Perzsa-öböl partján. Bár már nem az emír fő rezidenciája, továbbra is az állami ünnepségek és hivatalos események központi helyszíne. Legismertebb eleme az óratorony, amely ragyogó kék csempéivel és aranyozott kupolájával Kuvaitváros egyik jelképe. Maga az óra Viktória királynő ajándéka volt. A palotakomplexum a hagyományos iszlám építészetet ötvözi a gyarmati hatásokkal, szimbolizálva Kuvait modern korba való átmenetét, miközben tiszteleg gazdag öröksége előtt. Túlélt háborúkat és politikai felfordulásokat, és a kuvaiti vezetés állandóságának szimbóluma.",
+      "descriptionAdvancedRo": "Palatul Seif, a cărui construcție a început în 1896 sub șeicul Mubarak cel Mare și a fost finalizată în 1904, este o bijuterie arhitecturală pe malul Golfului Persic. Deși nu mai este reședința principală a Emirului, acesta rămâne un loc central pentru ceremonii de stat și ocazii oficiale. Cea mai faimoasă caracteristică a sa este turnul cu ceas, care, cu plăcile sale albastre strălucitoare și o cupolă aurită, este un punct de reper al orașului Kuweit. Ceasul însuși a fost un cadou de la Regina Victoria. Complexul palatului îmbină arhitectura islamică tradițională cu influențe coloniale, simbolizând tranziția Kuweitului către modernitate, onorându-și în același timp bogata moștenire. A supraviețuit războaielor și tulburărilor politice și reprezintă un simbol al permanenței conducerii kuwaitiene.",
+      "descriptionAdvancedEn": "Seif Palace, with construction starting in 1896 under Sheikh Mubarak the Great and completed in 1904, is an architectural gem on the shores of the Persian Gulf. Although no longer the main residence of the Emir, it remains a central location for state ceremonies and official events. Its most famous feature is the clock tower, which, with its brilliant blue tiles and a gilded dome, is a landmark of Kuwait City. The clock itself was a gift from Queen Victoria. The palace complex blends traditional Islamic architecture with colonial influences, symbolizing Kuwait's transition into the modern era while honoring its rich heritage. It has withstood wars and political upheavals, standing as a symbol of the Kuwaiti leadership's permanence.",
+      "factsAdvanced": [
+        "Baubeginn: 1896",
+        "Fertigstellung: 1904",
+        "Auftraggeber: Scheich Mubarak der Große",
+        "Wahrzeichen: Uhrenturm mit blauen Kacheln",
+        "Uhrengeschenk: Von Königin Victoria",
+        "Architekturstil: Islamisch mit kolonialen Einflüssen",
+        "Heutige Nutzung: Staatliche Zeremonien",
+        "Lage: Küste von Kuwait-Stadt"
+      ]
+    },
+    {
+      "id": "dickson-house-history-v2",
+      "descriptionAdvancedDe": "Das Dickson House Cultural Centre, erbaut um 1870, ist eines der ältesten erhaltenen Lehmziegelhäuser in Kuwait-Stadt. Ursprünglich war es die Residenz eines kuwaitischen Kaufmanns, bevor es von 1929 bis 1936 und erneut von 1941 bis zu seinem Tod 1959 die Heimat des britischen Politischen Agenten Colonel H.R.P. Dickson und seiner Frau Dame Violet wurde. Das Haus ist ein lebendiges Museum, das das Leben dieser einflussreichen Persönlichkeiten und die anglo-kuwaitischen Beziehungen des frühen 20. Jahrhunderts dokumentiert. Besucher können die originalen Wohnräume, persönlichen Gegenstände und Fotografien der Dicksons besichtigen. Es bietet einen einzigartigen Einblick in die Zeit vor dem Ölboom und die diplomatische Geschichte, die das moderne Kuwait geprägt hat.",
+      "descriptionAdvancedHu": "A Dickson Ház Kulturális Központ, amely 1870 körül épült, Kuvaitváros egyik legrégebbi fennmaradt vályogtéglából készült háza. Eredetileg egy kuvaiti kereskedő rezidenciája volt, mielőtt 1929-től 1936-ig, majd 1941-től 1959-es haláláig H.R.P. Dickson ezredes, brit politikai ügynök és felesége, Dame Violet otthona lett. A ház egy élő múzeum, amely bemutatja e befolyásos személyiségek életét és a 20. század eleji angol-kuvaiti kapcsolatokat. A látogatók megtekinthetik a Dickson házaspár eredeti lakótereit, személyes tárgyait és fényképeit. Egyedülálló bepillantást nyújt az olajkorszak előtti időkbe és abba a diplomáciai történelembe, amely a modern Kuvaitot formálta.",
+      "descriptionAdvancedRo": "Centrul Cultural Casa Dickson, construit în jurul anului 1870, este una dintre cele mai vechi case din cărămidă de noroi care au supraviețuit în orașul Kuweit. Inițial reședința unui comerciant kuwaitian, a devenit casa agentului politic britanic, colonelul H.R.P. Dickson, și a soției sale, Dame Violet, din 1929 până în 1936 și din nou din 1941 până la moartea sa în 1959. Casa este un muzeu viu care documentează viața acestor personalități influente și relațiile anglo-kuwaitiene de la începutul secolului al XX-lea. Vizitatorii pot vedea spațiile de locuit originale, obiectele personale și fotografiile soților Dickson. Oferă o perspectivă unică asupra epocii pre-petroliere și a istoriei diplomatice care a modelat Kuweitul modern.",
+      "descriptionAdvancedEn": "The Dickson House Cultural Centre, built around 1870, is one of the oldest surviving mud-brick houses in Kuwait City. Originally the residence of a Kuwaiti merchant, it became the home of the British Political Agent, Colonel H.R.P. Dickson, and his wife, Dame Violet, from 1929 to 1936 and again from 1941 until his death in 1959. The house is a living museum, documenting the lives of these influential figures and the Anglo-Kuwaiti relations of the early 20th century. Visitors can explore the Dicksons' original living quarters, personal belongings, and photographs. It offers a unique glimpse into the pre-oil era and the diplomatic history that shaped modern Kuwait.",
+      "factsAdvanced": [
+        "Erbaut: ca. 1870",
+        "Material: Lehmziegel",
+        "Bewohner: H.R.P. Dickson (1929-1959)",
+        "Dicksons Rolle: Britischer Politischer Agent",
+        "Ehefrau: Dame Violet Dickson",
+        "Heute: Kulturzentrum, Museum",
+        "Fokus: Anglo-Kuwaitische Beziehungen",
+        "Epoche: Vor-Öl-Ära"
+      ]
+    }
+  ]
+}

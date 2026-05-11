@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "anse-lazio-nature-v2",
+      "description": "Anse Lazio Praslin szigetének világszerte ismert, kristálytiszta vizű és fehér homokos partja.",
+      "facts": ["Praslin szigete", "Világhírű strand", "Fehér homok", "Kristálytiszta víz"]
+    },
+    {
+      "id": "desroches-island-nature-v2",
+      "description": "Desroches egy távoli korallsziget, amely érintetlen környezetével és élővilágával varázsolja el az utazókat.",
+      "facts": ["Korallsziget", "Távoli fekvés", "Érintetlen természet", "Gazdag élővilág"]
+    },
+    {
+      "id": "mount-simpson-nature-v2",
+      "description": "Mount Simpson Mahé szigetének egyik látványos hegyvonulata, amely remek túraútvonalakat kínál.",
+      "facts": ["Mahé szigete", "Hegyvonulat", "Túraútvonalak", "Természeti panoráma"]
+    },
+    {
+      "id": "mare-aux-cochons-nature-v2",
+      "description": "A Mare aux Cochons egy rejtett édesvízi mocsaras terület Mahé hegyvidékén, különleges élővilággal.",
+      "facts": ["Mahé hegyvidéke", "Édesvízi mocsár", "Különleges élővilág", "Természetvédelmi övezet"]
+    },
+    {
+      "id": "north-island-nature-v2",
+      "description": "North Island egy exkluzív sziget, amely a természetvédelmi erőfeszítések és a biodiverzitás helyszíne.",
+      "facts": ["Exkluzív sziget", "Biodiverzitás", "Természetvédelem", "Egzotikus környezet"]
+    },
+    {
+      "id": "anse-intendance-nature-v2",
+      "description": "Anse Intendance Mahé déli partjának egyik vadregényes, hullámokban gazdag tengerpartja.",
+      "facts": ["Mahé déli partja", "Vadregényes strand", "Erős hullámzás", "Természeti környezet"]
+    },
+    {
+      "id": "ile-therese-nature-v2",
+      "description": "Ile Thérèse egy kis, lakatlan sziget Mahé nyugati partja közelében, amely népszerű a kirándulók körében.",
+      "facts": ["Lakatlan sziget", "Mahé közelében", "Kirándulóhely", "Nyugodt környezet"]
+    },
+    {
+      "id": "felicite-island-nature-v2",
+      "description": "Félicité egy sziklás, buja növényzetű kis sziget, amely a Seychelle-szigetek egyik rejtett természeti kincse.",
+      "facts": ["Sziklás sziget", "Buja növényzet", "Rejtett kincs", "Természetes övezet"]
+    }
+  ]
+}

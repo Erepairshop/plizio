@@ -2,148 +2,84 @@
   "lang": "en",
   "country": "Cameroon",
   "files": [
-    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
     "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
-    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
-    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+    "lib/visualLab/data/poiExtraCameroonLifeV2.ts"
   ],
   "items": [
     {
-      "id": "foumban-royal-palace-history-v2",
-      "description": "The royal palace in Foumban is the seat of the Bamoun kingdom. It remains the city's main symbol of royal tradition.",
-      "facts": [
-        "seat of the Bamoun king",
-        "in Foumban",
-        "royal heritage site"
-      ]
+      "id": "douala-cathedral-landmarks-v2",
+      "description": "The Cathedral of St. Peter and St. Paul in Douala is a grand and historic church, reflecting the deep-rooted influence of Catholicism in the coastal city.",
+      "facts": ["Douala coastal city", "Colonial era origin", "Major Catholic seat", "Grand architectural design"]
     },
     {
-      "id": "bimbia-slave-port-history-v2",
-      "description": "An old Atlantic slave-trade site near Limbe. The ruins mark one of the darkest chapters in the region's coastal history.",
-      "facts": [
-        "near Limbe",
-        "linked to slave trade",
-        "historical memorial site"
-      ]
+      "id": "japoma-stadium-landmarks-v2",
+      "description": "The Japoma Stadium in Douala is a modern, high-capacity sports complex that serves as a premier venue for international football and track events.",
+      "facts": ["50,000 capacity", "Located in Douala", "Modern multi-sports venue", "International standards"]
     },
     {
-      "id": "kribi-lighthouse-history-v2",
-      "description": "A colonial-era lighthouse on Kribi's coast. It has long guided shipping along the Atlantic shoreline.",
-      "facts": [
-        "on the Kribi coast",
-        "used for navigation",
-        "colonial-era landmark"
-      ]
+      "id": "nouvelle-liberte-landmarks-v2",
+      "description": "La Nouvelle Liberte is a massive and controversial statue in Douala, constructed from recycled scrap metal to represent the city's resilience.",
+      "facts": ["Recycled metal statue", "Douala landmark", "Symbol of resilience", "Deido roundabout location"]
     },
     {
-      "id": "prime-ministers-lodge-history-v2",
-      "description": "An old government residence in Buea linked to Cameroon's colonial and post-colonial administration. It is part of the city's political memory.",
-      "facts": [
-        "in Buea",
-        "government residence",
-        "linked to colonial rule"
-      ]
+      "id": "wouri-bridge-landmarks-v2",
+      "description": "The Wouri Bridge is a critical transportation link in Douala, connecting the city's main districts across the expansive Wouri River.",
+      "facts": ["Spans Wouri River", "Strategic Douala link", "Industrial corridor", "Major engineering project"]
     },
     {
-      "id": "bismarck-fountain-history-v2",
-      "description": "A colonial-era fountain in Douala. It is one of the city's oldest surviving monuments from the German period.",
-      "facts": [
-        "in Douala",
-        "from the German era",
-        "one of the old monuments"
-      ]
+      "id": "foumban-palace-landmarks-v2",
+      "description": "The Royal Palace of Foumban is a landmark of African architecture and the cultural heart of the Bamum people in the West Region.",
+      "facts": ["Bamum royal seat", "West Region landmark", "Museum of history", "Unique cultural design"]
     },
     {
-      "id": "charles-atangana-palace-history-v2",
-      "description": "The palace of Charles Atangana in Yaounde recalls a major traditional leader from the colonial era. It reflects local power under French rule.",
-      "facts": [
-        "in Yaounde",
-        "linked to Charles Atangana",
-        "colonial-era palace"
-      ]
+      "id": "roumde-adjia-stadium-landmarks-v2",
+      "description": "The Roumde Adjia Stadium in Garoua is a key sporting venue in northern Cameroon, hosting major national and regional football matches.",
+      "facts": ["Located in Garoua", "Multi-purpose stadium", "North Region hub", "Football venue"]
     },
     {
-      "id": "mankon-fons-palace-history-v2",
-      "description": "The palace of the Fon of Mankon is a traditional authority center near Bamenda. It remains a key site of Grassfields culture.",
-      "facts": [
-        "near Bamenda",
-        "seat of the Fon",
-        "Grassfields heritage"
-      ]
+      "id": "kribi-lighthouse-landmarks-v2",
+      "description": "The Kribi Lighthouse is a picturesque maritime landmark on Cameroon's southern coast, guiding ships into the Atlantic port of Kribi.",
+      "facts": ["Coastal landmark", "Located in Kribi", "Atlantic Ocean view", "Maritime history site"]
     },
     {
-      "id": "bafut-palace-history-v2",
-      "description": "The palace of Bafut is one of the best known traditional compounds in northwest Cameroon. It preserves the history of the Bafut chiefdom.",
-      "facts": [
-        "in northwest Cameroon",
-        "traditional palace",
-        "part of the chiefdom"
-      ]
+      "id": "ahmadou-ahidjo-stadium-landmarks-v2",
+      "description": "The Ahmadou Ahidjo Stadium in Yaounde is a historic sporting arena named after Cameroon's first president, serving as a national icon for sports.",
+      "facts": ["Named after 1st president", "Yaounde sports hub", "National football venue", "Historical stadium"]
     },
     {
-      "id": "notre-dame-des-victoires-history-v2",
-      "description": "A major Catholic cathedral in Yaounde. It is one of the capital's best-known religious buildings.",
-      "facts": [
-        "in Yaounde",
-        "Catholic cathedral",
-        "important religious site"
-      ]
+      "id": "yaounde-markt-life-v2",
+      "description": "The bustling markets of Yaounde are the vibrant heart of the city, where locals trade everything from fresh produce to traditional crafts.",
+      "facts": ["Central market hub", "Vibrant trade center", "Yaounde local life", "Colorful atmosphere"]
     },
     {
-      "id": "reunification-monument-history-v2",
-      "description": "A national monument in Yaounde commemorating the reunification of Cameroon in 1961. It is a central symbol of state unity.",
-      "facts": [
-        "in Yaounde",
-        "marks 1961 reunification",
-        "symbol of national unity"
-      ]
+      "id": "bamenda-kaffeehof-life-v2",
+      "description": "The coffee gardens around Bamenda offer a glimpse into the region's long-standing coffee culture and traditional highland farming practices.",
+      "facts": ["Highland coffee culture", "Northwest Region", "Traditional farming", "Local brew tradition"]
     },
     {
-      "id": "palace-of-rey-bouba-history-v2",
-      "description": "A large traditional palace in northern Cameroon and the seat of the Rey Bouba lamidat. It represents enduring Fulani rulership.",
-      "facts": [
-        "in northern Cameroon",
-        "seat of a lamidat",
-        "traditional Fulani rule"
-      ]
+      "id": "ngaoundere-rinderranch-life-v2",
+      "description": "The cattle ranches around Ngaoundere are central to the Fulbe way of life, reflecting the region's status as Cameroon's pastoral heartland.",
+      "facts": ["Fulbe pastoral life", "Adamawa cattle hub", "Vast ranch lands", "Regional beef source"]
     },
     {
-      "id": "bandjoun-chiefdom-history-v2",
-      "description": "A traditional chiefdom in the western highlands. It preserves the political and cultural identity of Bandjoun.",
-      "facts": [
-        "in the western highlands",
-        "traditional chiefdom",
-        "cultural identity site"
-      ]
+      "id": "garoua-flussfischerei-life-v2",
+      "description": "River fishing on the Benue near Garoua is a vital traditional activity that sustains the local economy and provides a staple food source.",
+      "facts": ["Benue River fishing", "Garoua local economy", "Traditional canoes", "Staple food source"]
     },
     {
-      "id": "diy-gid-biy-ruins-history-v2",
-      "description": "An archaeological site in the Mandara Mountains of far northern Cameroon. The ruins are linked to the early history of the region.",
-      "facts": [
-        "in the Mandara Mountains",
-        "archaeological ruins",
-        "far northern Cameroon"
-      ]
+      "id": "ebolowa-kakaogarten-life-v2",
+      "description": "The cocoa gardens of Ebolowa are the foundation of local livelihoods, where the process of harvesting and drying beans is a common sight.",
+      "facts": ["Cocoa farming heart", "South Region life", "Bean drying process", "Export crop hub"]
     },
     {
-      "id": "old-german-cemetery-douala-history-v2",
-      "description": "An old colonial cemetery in Douala. It keeps graves and traces from the German period of the city's history.",
-      "facts": [
-        "in Douala",
-        "colonial cemetery",
-        "German-period graves"
-      ]
+      "id": "foumban-handwerkermarkt-life-v2",
+      "description": "The artisan market in Foumban is famous for its exquisite bronze work and wood carvings, preserving the ancient crafts of the Bamum people.",
+      "facts": ["Bamum artisan hub", "Bronze casting center", "Traditional carvings", "West Region culture"]
     },
     {
-      "id": "general-leclerc-monument-history-v2",
-      "description": "A French colonial-era monument in Yaounde. It is tied to the city's wartime and administrative past.",
-      "facts": [
-        "in Yaounde",
-        "colonial monument",
-        "linked to wartime history"
-      ]
+      "id": "dschang-museumspark-life-v2",
+      "description": "The museum park in Dschang is a peaceful cultural space where history, nature, and community life intersect in the western highlands.",
+      "facts": ["Highland cultural park", "West Region location", "Educational space", "Community hub"]
     }
   ]
 }

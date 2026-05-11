@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-mount-st-benedict-abbey-landmarks-v2",
+      "description": "Mount St. Benedict Abbey is a tranquil monastery nestled in the Northern Range, known for its peaceful atmosphere and architectural beauty.",
+      "facts": ["Historic monastery", "Northern Range location", "Tranquil retreat"]
+    },
+    {
+      "id": "tt-maracas-beach-landmarks-v2",
+      "description": "Maracas Beach is Trinidad's most popular beach, famous for its picturesque bay and iconic bake and shark street food.",
+      "facts": ["Most popular beach", "Iconic bake and shark", "Stunning coastal bay"]
+    },
+    {
+      "id": "tt-pitch-lake-landmarks-v2",
+      "description": "The Pitch Lake is a fascinating geological wonder, representing the largest natural asphalt deposit on Earth.",
+      "facts": ["World's largest asphalt lake", "Geological wonder", "Unique landscape"]
+    },
+    {
+      "id": "tt-botanic-gardens-landmarks-v2",
+      "description": "The Royal Botanic Gardens in Port of Spain is one of the oldest in the world, showcasing a vast array of tropical flora.",
+      "facts": ["Historic botanical site", "Diverse tropical flora", "Port of Spain landmark"]
+    },
+    {
+      "id": "tt-pigeon-point-jetty-landmarks-v2",
+      "description": "The jetty at Pigeon Point is an iconic symbol of Tobago's tourism, framing the turquoise Caribbean waters.",
+      "facts": ["Iconic Tobago jetty", "Symbol of tourism", "Stunning turquoise views"]
+    },
+    {
+      "id": "tt-fort-king-peter-landmarks-v2",
+      "description": "Fort King Peter is a historical fortification site in Tobago, providing a glimpse into the defensive history of the island.",
+      "facts": ["Historic fort site", "Tobago defensive history", "Architectural relic"]
+    },
+    {
+      "id": "tt-trinidad-memorial-park-landmarks-v2",
+      "description": "The Memorial Park in Port of Spain is a site of remembrance and national pride, honoring Trinidad's past.",
+      "facts": ["National memorial site", "Place of remembrance", "City landmark"]
+    },
+    {
+      "id": "tt-bocas-islands-landmarks-v2",
+      "description": "The Bocas Islands offer breathtaking views and natural beauty, situated in the narrow straits between Trinidad and Venezuela.",
+      "facts": ["Strategic island group", "Breathtaking views", "Natural coastal beauty"]
+    },
+    {
+      "id": "tt-caribbean-cinema-landmarks-v2",
+      "description": "Caribbean Cinema is a prominent entertainment landmark in Trinidad, showcasing local and international film culture.",
+      "facts": ["Major entertainment venue", "Modern cinema complex", "Popular social site"]
+    },
+    {
+      "id": "tt-san-fernando-hill-landmarks-v2",
+      "description": "San Fernando Hill is a prominent natural landmark that offers panoramic views over the city of San Fernando.",
+      "facts": ["Prominent natural landmark", "Panoramic city views", "San Fernando icon"]
+    },
+    {
+      "id": "tt-trinidad-country-club-landmarks-v2",
+      "description": "The Trinidad Country Club is a historic recreational landmark, reflecting the social and leisure lifestyle in the capital.",
+      "facts": ["Historic leisure site", "Social landmark", "Leisure lifestyle symbol"]
+    }
+  ]
+}

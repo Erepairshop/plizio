@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zulu-highlands-relief-v2",
+      "description": "Regiune muntoasă înaltă din provincia KwaZulu-Natal, caracterizată prin platouri spectaculoase și teren accidentat.",
+      "facts": ["Regiune muntoasă", "KwaZulu-Natal", "Platouri înalte", "Teritoriu accidentat"]
+    },
+    {
+      "id": "kalahari-basin-relief-v2",
+      "description": "O zonă vastă de depresiune caracterizată prin soluri nisipoase și un relief plat, tipic bazinului Kalahari.",
+      "facts": ["Zonă de depresiune", "Soluri nisipoase", "Relief plat", "Bazin Kalahari"]
+    },
+    {
+      "id": "limpopo-plains-relief-v2",
+      "description": "Câmpii întinse în nordul țării, traversate de râul Limpopo, cu un relief predominant jos.",
+      "facts": ["Câmpii extinse", "Râul Limpopo", "Relief predominant jos", "Zona de nord"]
+    },
+    {
+      "id": "lowveld-relief-v2",
+      "description": "Regiune joasă situată la est de Escarpa Drakensberg, caracterizată prin savane și câmpii calde.",
+      "facts": ["Regiune joasă", "Escarpa Drakensberg", "Savană", "Câmpii calde"]
+    },
+    {
+      "id": "namib-fringe-relief-v2",
+      "description": "Zona de tranziție între regiunile interioare și deșertul Namib, prezentând forme de relief variate.",
+      "facts": ["Zona de tranziție", "Peisaj deșertic", "Forme de relief variate", "Zona de vest"]
+    },
+    {
+      "id": "suurberg-relief-v2",
+      "description": "Lanț muntos spectaculos în provincia Eastern Cape, oferind vederi panoramice asupra peisajului înconjurător.",
+      "facts": ["Lanț muntos", "Eastern Cape", "Vedere panoramică", "Relief muntos"]
+    },
+    {
+      "id": "winterberg-relief-v2",
+      "description": "Masiv muntos caracterizat prin înălțimi considerabile și un relief accidentat în inima provinciei Eastern Cape.",
+      "facts": ["Masiv muntos", "Relief accidentat", "Eastern Cape", "Înălțimi considerabile"]
+    },
+    {
+      "id": "waterberg-relief-v2",
+      "description": "Platou muntos de gresie cu stânci abrupte, situat în provincia Limpopo, bogat în biodiversitate.",
+      "facts": ["Platou de gresie", "Stânci abrupte", "Provincia Limpopo", "Biodiversitate bogată"]
+    },
+    {
+      "id": "kharras-relief-v2",
+      "description": "Zonă aridă cu formațiuni stâncoase unice, reprezentativă pentru relieful din Northern Cape.",
+      "facts": ["Zonă aridă", "Formațiuni stâncoase", "Northern Cape", "Relief specific"]
+    },
+    {
+      "id": "komsberg-relief-v2",
+      "description": "Zona montană cu altitudini ridicate în regiunea Karoo, oferind peisaje aride impresionante.",
+      "facts": ["Zona montană", "Regiunea Karoo", "Peisaj arid", "Altitudini ridicate"]
+    },
+    {
+      "id": "rooge-relief-v2",
+      "description": "Relief caracterizat prin dealuri ondulate și formațiuni geologice vechi în regiunile interioare.",
+      "facts": ["Dealuri ondulate", "Formațiuni geologice", "Regiuni interioare", "Relief vechi"]
+    },
+    {
+      "id": "blouberg-relief-v2",
+      "description": "Munte proeminent în provincia Limpopo, renumit pentru pereții săi abrupți de stâncă, apreciați de alpiniști.",
+      "facts": ["Munte proeminent", "Provincia Limpopo", "Pereți de stâncă", "Zona alpină"]
+    }
+  ]
+}

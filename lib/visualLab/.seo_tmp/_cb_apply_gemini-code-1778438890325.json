@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tkibuli-coal-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kohleminen von Tkibuli befinden sich in der Region Imeretien am Fuße des Nakerala-Kamms und bilden das Zentrum des georgischen Steinkohlebergbaus. Geografisch liegt das Tkibuli-Shaori-Becken in einer komplexen tektonischen Zone, was den Abbau in Tiefen von bis zu 1000 Metern technisch äußerst anspruchsvoll macht. Historisch begann die systematische Erschließung im 19. Jahrhundert und erreichte während der Sowjetunion ihren Höhepunkt, als Tkibuli eine der wichtigsten Energiequellen des Kaukasus war. Ökonomisch ist der Bergbau heute der fast ausschließliche Arbeitgeber der Stadt Tkibuli; die geförderte Kohle wird primär zur Stromerzeugung in lokalen Wärmekraftwerken sowie für die Schwerindustrie in Rustavi verwendet. Technisch wird die Mine von der Firma Saknakhshiri betrieben, wobei die Sicherheit der Schächte aufgrund der hohen Methankonzentration und der geologischen Instabilität eine ständige Herausforderung darstellt. Ökologisch führt der Bergbau zu erheblichen Landschaftsveränderungen und erfordert moderne Wasseraufbereitungssysteme für das Grubenwasser. Trotz globaler Dekarbonisierungsbestrebungen bleibt Tkibuli für Georgiens nationale Energiesicherheit und die regionale Stabilität von strategischer Bedeutung, da es die einzige nennenswerte heimische Quelle für fossile Brennstoffe darstellt.",
+        "hu": "A tkibuli szénbányák Imereti régióban, a Nakerale-hegyvonulat lábánál találhatóak, és a grúz feketekőszén-bányászat központját alkotják. Földrajzilag a Tkibuli-Saori-medence egy összetett tektonikai zónában fekszik, ami a kitermelést akár 1000 méteres mélységben is technikailag rendkívül igényessé teszi. Történelmileg a szisztematikus feltárás a 19. században kezdődött, és a Szovjetunió idején érte el csúcspontját, amikor Tkibuli a Kaukázus egyik legfontosabb energiaforrása volt. Gazdaságilag a bányászat ma Tkibuli városának szinte kizárólagos munkaadója; a kitermelt szenet elsősorban a helyi hőerőművek áramtermelésére, valamint a rusztavi nehézipar számára használják fel. Technikai szempontból a bányát a Saknakhshiri vállalat üzemelteti, ahol a tárnák biztonsága a magas metánkoncentráció és a geológiai instabilitás miatt állandó kihívást jelent. Ökológiailag a bányászat jelentős tájképi változásokhoz vezet, és modern víztisztító rendszereket igényel a bányavíz kezeléséhez. A globális dekarbonizációs törekvések ellenére Tkibuli Grúzia nemzeti energiabiztonsága és a regionális stabilitás szempontjából stratégiai fontosságú marad, mivel ez az ország egyetlen számottevő hazai fosszilis tüzelőanyag-forrása.",
+        "ro": "Minele de cărbune din Tkibuli sunt situate în regiunea Imereti, la poalele crestei Nakerala, reprezentând centrul mineritului de huilă din Georgia. Geografic, bazinul Tkibuli-Shaori se află într-o zonă tectonică complexă, ceea ce face ca extracția la adâncimi de până la 1000 de metri să fie extrem de dificilă din punct de vedere tehnic. Istoric, exploatarea sistematică a început în secolul al XIX-lea și a atins apogeul în perioada sovietică, când Tkibuli era una dintre cele mai importante surse de energie din Caucaz. Economic, mineritul este astăzi aproape singurul angajator al orașului Tkibuli; cărbunele extras este utilizat în principal pentru producerea de energie electrică în centralele termice locale și pentru industria grea din Rustavi. Din punct de vedere tehnic, mina este operată de compania Saknakhshiri, siguranța galeriilor fiind o provocare constantă din cauza concentrației mari de metan și a instabilității geologice. Ecologic, mineritul provoacă modificări substanțiale ale peisajului și necesită sisteme moderne de epurare a apelor de mină. În ciuda eforturilor globale de decarbonizare, Tkibuli rămâne strategic pentru securitatea energetică națională a Georgiei, fiind singura sursă internă semnificativă de combustibili fosili.",
+        "en": "The Tkibuli coal mines are located in the Imereti region at the foot of the Nakerala Ridge, forming the heart of Georgia's coal mining industry. Geographically, the Tkibuli-Shaori basin lies in a complex tectonic zone, making extraction at depths of up to 1,000 meters technically highly demanding. Historically, systematic development began in the 19th century and reached its peak during the Soviet era, when Tkibuli was a vital energy source for the Caucasus. Economically, mining remains the primary employer for the town of Tkibuli; the extracted coal is used mainly for electricity generation in local thermal power plants and to fuel the heavy industry in Rustavi. Technically, the mine is operated by the Saknakhshiri company, where shaft safety is a constant concern due to high methane concentrations and geological instability. Ecologically, mining leads to significant landscape alterations and necessitates advanced mine water treatment systems. Despite global decarbonization trends, Tkibuli remains strategically important for Georgia’s national energy security and regional stability as the country's only substantial domestic source of fossil fuels."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentrum des georgischen Steinkohleabbaus seit dem Jahr 1846.",
+          "Abbau erfolgt in extremen Tiefen von bis zu 1.000 Metern.",
+          "Einziger Lieferant von heimischer Kohle für das Wärmekraftwerk Gardabani.",
+          "Wichtigster Wirtschaftsfaktor für die gesamte Region Imeretien.",
+          "Geologisch Teil des bedeutenden Tkibuli-Shaori-Sedimentbeckens.",
+          "Betrieben durch das nationale Bergbauunternehmen Saknakhshiri."
+        ],
+        "hu": [
+          "Grúzia kőszénbányászatának központja 1846 óta.",
+          "Extrém mélységben, akár 1000 méterrel a felszín alatt is folyik kitermelés.",
+          "A gardabani hőerőmű egyetlen hazai szénbeszállítója.",
+          "Imereti régió legfontosabb ipari és gazdasági foglalkoztatója.",
+          "A Tkibuli-Saori üledékes medence geológiai részét képezi.",
+          "A bányát a Saknakhshiri nemzeti bányavállalat kezeli."
+        ],
+        "ro": [
+          "Principalul centru de extracție a huilei din Georgia din 1846.",
+          "Exploatare realizată în subteran la adâncimi critice de 1.000 de metri.",
+          "Furnizor exclusiv de cărbune intern pentru termocentrala Gardabani.",
+          "Pilonul economic central pentru populația din nordul regiunii Imereti.",
+          "Zăcământul este situat în structura geologică Tkibuli-Shaori.",
+          "Administrată de Saknakhshiri, parte a grupului industrial GIG."
+        ],
+        "en": [
+          "The primary center for Georgian coal mining since 1846.",
+          "Features deep-level mining operations reaching 1,000 meters underground.",
+          "The sole domestic coal supplier for the Gardabani thermal power plant.",
+          "Critical economic driver for the entire northern Imereti region.",
+          "Geologically situated within the Tkibuli-Shaori sedimentary basin.",
+          "Operated by Saknakhshiri, the nation's leading mining enterprise."
+        ]
+      }
+    },
+    {
+      "id": "madneuli-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Madneuli-Mine im Bezirk Bolnissi ist der bedeutendste Tagebau Georgiens für Kupfer und Gold. Geografisch liegt sie in der Region Niederkartlien (Kvemo Kartli), einer Zone mit reicher vulkanogener Mineralisierung. Die Lagerstätte ist ein polymetallisches Vorkommen, das neben Kupfer und Gold auch Silber und Baryt enthält. Historisch begann der großflächige Abbau in den 1970er Jahren und verwandelte die Region in ein industrielles Kraftzentrum. Ökonomisch ist Madneuli von existenzieller Bedeutung für den georgischen Staatshaushalt, da Kupferkonzentrat regelmäßig zu den drei wichtigsten Exportgütern des Landes gehört. Betrieben wird die Mine von RMG (Rich Metals Group), die vor Ort auch Aufbereitungsanlagen für die Flotation und Laugung unterhält. Technisch gesehen ist der Tagebau durch seine enorme Ausdehnung und die Tiefe der Grube geprägt. Ökologisch ist Madneuli jedoch hochumstritten; die Nähe zu archäologischen Stätten wie Sakdrisi und Berichte über Boden- und Wasserverschmutzung durch Schwermetalle führen regelmäßig zu Spannungen zwischen Industrie und Umweltschützern. Die Mine bleibt ein Paradebeispiel für den Konflikt zwischen wirtschaftlicher Notwendigkeit durch Rohstoffexport und dem Schutz des kulturellen sowie natürlichen Erbes.",
+        "hu": "A bolniszi járásban található Madneuli-bánya Grúzia legjelentősebb külszíni réz- és aranybányája. Földrajzilag Alsó-Kartli (Kvemo Kartli) régióban fekszik, egy gazdag vulkanogén mineralizációval rendelkező zónában. A lelőhely polimetallikus előfordulás, amely a réz és arany mellett ezüstöt és baritot is tartalmaz. Történelmileg a nagyüzemi kitermelés az 1970-es években kezdődött, és a régiót ipari központtá alakította. Gazdaságilag Madneuli létfontosságú a grúz állami költségvetés számára, mivel a rézkoncentrátum rendszeresen az ország három legfontosabb exportterméke közé tartozik. A bányát az RMG (Rich Metals Group) üzemelteti, amely helyben flotációs és lúgozó feldolgozóműveket is fenntart. Technikai szempontból a külszíni fejtést az óriási kiterjedése és a bánya mélysége jellemzi. Ökológiailag Madneuli rendkívül vitatott; a közeli régészeti lelőhelyek, mint például Szakdriszi, valamint a nehézfémek okozta talaj- és vízszennyezésről szóló jelentések rendszeresen feszültséget keltenek az ipar és a környezetvédők között. A bánya a nyersanyagexport általi gazdasági kényszer és a kulturális, valamint természeti örökség védelme közötti konfliktus iskolapéldája.",
+        "ro": "Mina Madneuli din districtul Bolnisi este cea mai importantă exploatare la zi de cupru și aur din Georgia. Geografic, aceasta se află în regiunea Kvemo Kartli, o zonă cu o bogată mineralizație vulcanogenă. Zăcământul este unul polimetalic, conținând pe lângă cupru și aur, și argint sau baritină. Istoric, extracția la scară largă a început în anii 1970, transformând regiunea într-un centru industrial major. Din punct de vedere economic, Madneuli este de o importanță vitală pentru bugetul de stat georgian, concentratul de cupru fiind constant printre primele trei produse de export ale țării. Mina este operată de RMG (Rich Metals Group), care deține pe site și instalații de procesare prin flotație și lixiviere. Tehnic, exploatarea se remarcă prin dimensiunile enorme ale carierei și adâncimea excavațiilor. Ecologic, Madneuli este un subiect controversat; proximitatea siturilor arheologice precum Sakdrisi și rapoartele privind poluarea solului și a apelor cu metale grele provoacă tensiuni recurente între industrie și activiștii de mediu. Mina rămâne un exemplu clasic al conflictului dintre necesitatea economică a exportului de materii prime și protejarea patrimoniului cultural și natural.",
+        "en": "The Madneuli mine in the Bolnisi district is Georgia's most significant open-pit mine for copper and gold. Geographically, it is situated in the Kvemo Kartli region, an area characterized by rich volcanogenic mineralization. The deposit is polymetallic, containing silver and barite in addition to copper and gold. Historically, large-scale mining operations commenced in the 1970s, transforming the region into an industrial powerhouse. Economically, Madneuli is of existential importance to the Georgian national budget, as copper concentrate consistently ranks among the country's top three export goods. The mine is operated by RMG (Rich Metals Group), which also maintains on-site facilities for flotation and leaching. Technically, the open-cast operation is defined by its massive scale and the significant depth of the pit. Ecologically, Madneuli is highly controversial; its proximity to ancient archaeological sites like Sakdrisi and reports of soil and water contamination from heavy metals lead to regular tensions between industrial interests and environmentalists. The mine stands as a prime example of the conflict between economic necessity driven by raw material exports and the preservation of cultural and natural heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Produzent von Kupfer- und Goldkonzentrat in Georgien.",
+          "Kupfer aus Madneuli macht einen erheblichen Teil der nationalen Exporte aus.",
+          "Betrieben durch die Rich Metals Group (RMG).",
+          "Gelegen in der mineralreichen Kvemo-Kartli-Region.",
+          "Umfasst moderne Anlagen zur Haufenlaugung und Flotation.",
+          "Standort heftiger Debatten über den Schutz der antiken Sakdrisi-Goldmine."
+        ],
+        "hu": [
+          "Grúzia legnagyobb réz- és aranykoncentrátum-termelője.",
+          "A madneuli réz az országos export jelentős részét teszi ki.",
+          "Az üzemeltető a Rich Metals Group (RMG) vállalat.",
+          "Az ásványkincsekben gazdag Kvemo Kartli régióban található.",
+          "Modern flotációs és lúgozási technológiát alkalmaznak a helyszínen.",
+          "A közeli ókori Szakdriszi aranybánya védelme miatt viták kereszttüzében áll."
+        ],
+        "ro": [
+          "Cel mai mare complex minier de cupru și aur din întreaga Georgie.",
+          "Concentratul de cupru de aici este un pilon principal al exporturilor naționale.",
+          "Administrată de grupul RMG (Rich Metals Group).",
+          "Situată în districtul Bolnisi, zonă istorică de extracție a metalelor.",
+          "Dispune de infrastructură completă pentru procesarea minereului polimetalic.",
+          "Centrul unei controverse majore privind situl arheologic Sakdrisi."
+        ],
+        "en": [
+          "The largest producer of copper and gold concentrate in Georgia.",
+          "Copper from Madneuli constitutes a major portion of national export revenue.",
+          "Operated by Rich Metals Group (RMG).",
+          "Located in the mineral-rich Kvemo Kartli region near Bolnisi.",
+          "Utilizes advanced heap leaching and flotation processing techniques.",
+          "Subject of intense public debate regarding the ancient Sakdrisi gold mine."
+        ]
+      }
+    },
+    {
+      "id": "poti-fiz-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Poti Free Industrial Zone (FIZ) ist die erste ihrer Art im Kaukasus und ein Eckpfeiler der georgischen Strategie zur Ansiedlung ausländischer Direktinvestitionen. Geografisch liegt sie auf einem 300 Hektar großen Gelände unmittelbar angrenzend an den Seehafen von Poti, was ihr einen direkten Zugang zu den globalen Schifffahrtswegen ermöglicht. Historisch wurde sie 2008 unter Beteiligung der RAKIA (Ras Al Khaimah Investment Authority) aus den Vereinigten Arabischen Emiraten gegründet. Ökonomisch bietet die FIZ Unternehmen massive Steuervorteile, darunter Befreiungen von der Körperschafts-, Mehrwert- und Grundsteuer, was Poti zu einem attraktiven Standort für die verarbeitende Industrie und Logistik macht. Technisch ist die Zone als 'Zoll-Enklave' konzipiert, in der Waren ohne administrative Hürden importiert, veredelt und wieder exportiert werden können. Zu den Hauptaktivitäten gehören die Metallverarbeitung, die Montage von Elektrogeräten und die chemische Industrie. Ökologisch unterliegt die FIZ den nationalen georgischen Standards, wobei die Nähe zum Kolkheti-Nationalpark besondere Anforderungen an das Abwassermanagement stellt. Die Poti FIZ ist ein zentrales Element des eurasischen Logistikkorridors und verbindet die Märkte der EU mit Zentralasien und China.",
+        "hu": "A Poti Szabad Ipari Övezet (FIZ) az első ilyen jellegű létesítmény a Kaukázusban, és a külföldi közvetlen befektetések vonzására irányuló grúz stratégia sarokköve. Földrajzilag egy 300 hektáros területen fekszik, közvetlenül a poti tengeri kikötő mellett, ami közvetlen hozzáférést biztosít a globális hajózási útvonalakhoz. Történelmileg 2008-ban alapították az Egyesült Arab Emírségekből származó RAKIA (Ras Al Khaimah Investment Authority) részvételével. Gazdaságilag a FIZ hatalmas adókedvezményeket kínál a vállalatoknak, beleértve a társasági adó, az áfa és az ingatlanadó alóli mentességet, ami Potit vonzó helyszínné teszi a feldolgozóipar és a logisztika számára. Technikai szempontból az övezet „vám-enklávéként” működik, ahol az áruk adminisztratív akadályok nélkül importálhatók, feldolgozhatók és újra exportálhatók. A fő tevékenységek közé tartozik a fémfeldolgozás, az elektromos készülékek összeszerelése és a vegyipar. Ökológiailag a FIZ-re a grúz nemzeti szabványok vonatkoznak, ahol a Kolkheti Nemzeti Park közelsége különleges követelményeket támaszt a szennyvízkezeléssel szemben. A poti FIZ az eurázsiai logisztikai folyosó központi eleme, amely összeköti az EU piacait Közép-Ázsiával és Kínával.",
+        "ro": "Zona Industrială Liberă Poti (FIZ) este prima de acest gen din Caucaz și un pilon al strategiei Georgiei de atragere a investițiilor străine directe. Geografic, aceasta ocupă un teren de 300 de hectare adiacent portului maritim Poti, oferind acces direct la rutele globale de navigație. Istoric, a fost fondată în 2008 cu participarea RAKIA (Ras Al Khaimah Investment Authority) din Emiratele Arabe Unite. Economic, FIZ oferă companiilor avantaje fiscale masive, inclusiv scutiri de impozit pe profit, TVA și taxe imobiliare, transformând Poti într-o locație atractivă pentru industria manufacturieră și logistică. Tehnic, zona este concepută ca o „enclavă vamală”, unde mărfurile pot fi importate, procesate și reexportate fără bariere administrative. Activitățile principale includ prelucrarea metalelor, asamblarea aparatelor electrice și industria chimică. Ecologic, FIZ se supune standardelor naționale georgiene, proximitatea Parcului Național Kolkheti impunând cerințe speciale pentru gestionarea apelor uzate. Poti FIZ este un element central al coridorului logistic eurasiatic, conectând piețele UE cu Asia Centrală și China.",
+        "en": "The Poti Free Industrial Zone (FIZ) is the first of its kind in the Caucasus and a cornerstone of Georgia's strategy to attract foreign direct investment. Geographically, it is located on a 300-hectare site immediately adjacent to the Poti Sea Port, providing direct access to global shipping lanes. Historically, it was established in 2008 with the participation of RAKIA (Ras Al Khaimah Investment Authority) from the United Arab Emirates. Economically, the FIZ offers companies massive tax benefits, including exemptions from corporate income tax, VAT, and property tax, making Poti an attractive location for manufacturing and logistics. Technically, the zone is designed as a 'customs enclave' where goods can be imported, processed, and re-exported without administrative hurdles. Key activities include metal processing, assembly of electrical appliances, and the chemical industry. Ecologically, the FIZ is subject to national Georgian standards, with the proximity of Kolkheti National Park imposing special requirements on wastewater management. The Poti FIZ is a central element of the Eurasian logistics corridor, linking EU markets with Central Asia and China."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erste Freie Industriezone im Kaukasus, eröffnet 2008.",
+          "Umfasst eine steuerfreie Fläche von 300 Hektar.",
+          "Direkter Gleisanschluss und Nähe zum größten Hafen Georgiens.",
+          "Befreit von Körperschaftssteuer, Mehrwertsteuer und Importzöllen.",
+          "Beherbergt über 100 registrierte internationale Unternehmen.",
+          "Wichtiger Knotenpunkt für die Warenveredelung im Transitverkehr."
+        ],
+        "hu": [
+          "A Kaukázus első szabad ipari övezete, 2008-ban nyílt meg.",
+          "300 hektáros adómentes területet foglal magában.",
+          "Közvetlen vasúti kapcsolat és szomszédság Grúzia legnagyobb kikötőjével.",
+          "Mentes a társasági adó, az áfa és az importvámok alól.",
+          "Több mint 100 regisztrált nemzetközi vállalat székhelye.",
+          "A tranzitforgalom áru-nemesítésének fontos csomópontja."
+        ],
+        "ro": [
+          "Prima Zonă Industrială Liberă din Caucaz, operațională din 2008.",
+          "Suprafață de 300 de hectare cu regim fiscal special.",
+          "Acces feroviar direct și conexiune imediată cu portul Poti.",
+          "Exonerare totală de impozit pe profit și TVA pentru export.",
+          "Găzduiește peste 100 de companii internaționale active.",
+          "Nod strategic pentru procesarea mărfurilor în tranzit spre Asia."
+        ],
+        "en": [
+          "The first Free Industrial Zone in the Caucasus, established in 2008.",
+          "Spans a tax-free area of 300 hectares.",
+          "Features direct rail access and proximity to Georgia's largest port.",
+          "Offers full exemption from corporate tax, VAT, and import duties.",
+          "Home to over 100 registered international companies.",
+          "A key hub for value-added processing within Eurasian transit routes."
+        ]
+      }
+    },
+    {
+      "id": "kutaisi-fiz-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kutaisi Free Industrial Zone (FIZ) liegt auf dem Gelände des ehemaligen sowjetischen Automobilwerks (KAZ) in Georgiens zweitgrößter Stadt. Geografisch profitiert die Zone von ihrer Lage im Zentrum des Landes und der unmittelbaren Nähe zum internationalen Flughafen Kopitnari. Historisch wurde die FIZ 2009 von der chinesischen Hualing Group initiiert, was den Beginn massiver chinesischer Investitionen in die georgische Infrastruktur markierte. Ökonomisch ist die Zone darauf ausgelegt, Kutaisi als industrielles Zentrum wiederzubeleben, indem sie Steuerbefreiungen für Produktion und Export bietet. Technisch ist die Zone auf die Verarbeitung von Holz, Möbeln, Natursteinen und die Montage von Haushaltsgeräten spezialisiert. Ein besonderes Merkmal ist das Hualing-Einkaufszentrum und die Logistikplattform, die als Brückenkopf für chinesische Waren im Kaukasus fungiert. Ökologisch erfolgt die Nutzung bestehender Industriebrachen, was die Neuversiegelung von Flächen reduziert, erfordert jedoch eine Sanierung alter Altlasten. Die Kutaisi FIZ spielt eine Schlüsselrolle in der Diversifizierung der georgischen Wirtschaft weg vom reinen Transit hin zur wertschöpfenden Produktion.",
+        "hu": "A Kutaiszi Szabad Ipari Övezet (FIZ) az egykori szovjet autógyár (KAZ) területén található Grúzia második legnagyobb városában. Földrajzilag az övezet profitál az ország központjában elfoglalt helyzetéből és a kopitnari nemzetközi repülőtér közvetlen közelségéből. Történelmileg a FIZ-t 2009-ben a kínai Hualing Group kezdeményezte, ami a grúz infrastruktúrába irányuló masszív kínai befektetések kezdetét jelezte. Gazdaságilag az övezetet Kutaiszi ipari központként való újjáélesztésére tervezték, adómentességet biztosítva a termelés és az export számára. Technikai szempontból az övezet fafeldolgozásra, bútorgyártásra, természetes kövek megmunkálására és háztartási gépek összeszerelésére szakosodott. Különlegessége a Hualing bevásárlóközpont és logisztikai platform, amely a kínai áruk kaukázusi hídfőjeként funkcionál. Ökológiailag a meglévő ipari barnaövezetek hasznosítása történik, ami csökkenti az új területek lebetonozását, de igényeli a régi szennyeződések kármentesítését. A kutaiszi FIZ kulcsszerepet játszik a grúz gazdaság diverzifikálásában, a tiszta tranzittól a hozzáadott értéket képviselő termelés felé való elmozdulásban.",
+        "ro": "Zona Industrială Liberă Kutaisi (FIZ) este situată pe terenul fostei uzine sovietice de automobile (KAZ) din al doilea oraș ca mărime al Georgiei. Geografic, zona beneficiază de locația sa în centrul țării și de proximitatea imediată a aeroportului internațional Kopitnari. Istoric, FIZ a fost inițiată în 2009 de grupul chinez Hualing, marcând începutul investițiilor chineze masive în infrastructura georgiană. Economic, zona este concepută pentru a revitaliza Kutaisi ca centru industrial, oferind scutiri de taxe pentru producție și export. Tehnic, zona este specializată în prelucrarea lemnului, producția de mobilier, piatră naturală și asamblarea aparatelor electrocasnice. O caracteristică specială este centrul comercial și platforma logistică Hualing, care funcționează ca un cap de pod pentru mărfurile chinezești în Caucaz. Ecologic, se utilizează situri industriale dezafectate (brownfields), ceea ce reduce impermeabilizarea de noi terenuri, dar necesită reabilitarea vechilor situri contaminate. Kutaisi FIZ joacă un rol cheie în diversificarea economiei georgiene, trecând de la simplul tranzit la producția cu valoare adăugată.",
+        "en": "The Kutaisi Free Industrial Zone (FIZ) is located on the premises of the former Soviet automobile plant (KAZ) in Georgia's second-largest city. Geographically, the zone benefits from its central location and immediate proximity to the Kopitnari International Airport. Historically, the FIZ was initiated in 2009 by the Chinese Hualing Group, marking the onset of significant Chinese investment in Georgian infrastructure. Economically, the zone is designed to revitalize Kutaisi as an industrial hub by offering tax exemptions for manufacturing and exports. Technically, the zone specializes in wood processing, furniture manufacturing, natural stone working, and the assembly of household appliances. A unique feature is the Hualing shopping and logistics platform, which serves as a bridgehead for Chinese goods in the Caucasus. Ecologically, the reuse of existing brownfield industrial sites reduces the need for new land sealing, though it requires the remediation of legacy industrial waste. The Kutaisi FIZ plays a key role in diversifying the Georgian economy, shifting the focus from transit to value-added production."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet durch die Hualing Group auf dem Gelände der alten Autofabrik.",
+          "Nutzt die logistische Nähe zum Kopitnari International Airport.",
+          "Zentrum für den Import und die Weiterverarbeitung chinesischer Waren.",
+          "Bietet vollständige Befreiung von der Mehrwert- und Gewinnsteuer.",
+          "Spezialisiert auf Möbelproduktion und Montage von Elektrogeräten.",
+          "Trägt zur Reindustrialisierung von Georgiens zweitgrößter Stadt bei."
+        ],
+        "hu": [
+          "A Hualing Group alapította a régi autógyár területén.",
+          "Kihasználja a kopitnári nemzetközi repülőtér logisztikai közelségét.",
+          "A kínai áruk importjának és feldolgozásának központja.",
+          "Teljes mentességet biztosít az áfa és a nyereségadó alól.",
+          "Bútorgyártásra és elektromos készülékek összeszerelésére szakosodott.",
+          "Hozzájárul Grúzia második legnagyobb városának újraiparosításához."
+        ],
+        "ro": [
+          "Dezvoltată de grupul Hualing pe amplasamentul fostei uzine KAZ.",
+          "Situată strategic lângă Aeroportul Internațional Kutaisi.",
+          "Principalul pol de investiții chineze în vestul Georgiei.",
+          "Regim de taxe zero pentru profit, proprietate și importuri.",
+          "Hub regional pentru industria prelucrătoare a lemnului și mobilierului.",
+          "Motor esențial pentru revitalizarea economică a regiunii Imereti."
+        ],
+        "en": [
+          "Established by the Hualing Group on the site of a former Soviet auto plant.",
+          "Strategically located near Kutaisi International Airport for air logistics.",
+          "A major hub for Chinese investment and goods in the Caucasus.",
+          "Provides 0% tax on corporate profit, property, and VAT.",
+          "Focuses on furniture production and electronics assembly.",
+          "Instrumental in the industrial revitalization of the Kutaisi metropolitan area."
+        ]
+      }
+    },
+    {
+      "id": "zhinvali-hpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Schinwali ist eine der strategisch wichtigsten Energie- und Wasserversorgungsanlagen Georgiens. Geografisch liegt das Kraftwerk am Fluss Aragvi, etwa 40 Kilometer nördlich von Tiflis, wo ein gewaltiger Schüttdamm den Schinwali-Stausee aufstaut. Historisch wurde das Projekt in den 1980er Jahren fertiggestellt, um zwei kritische Bedürfnisse zu decken: Die Erzeugung von Spitzenlaststrom und die Sicherstellung der Trinkwasserversorgung für die wachsende Hauptstadt. Ökonomisch ist Schinwali unverzichtbar, da das angeschlossene Reservoir das primäre Trinkwasserbecken für über eine Million Menschen in Tiflis darstellt. Das Kraftwerk hat eine installierte Leistung von 130 MW und trägt signifikant zum Anteil erneuerbarer Energien im georgischen Netz bei. Technisch handelt es sich um eine Talsperre mit einem komplexen System aus Druckstollen und Filtereinrichtungen für das Stadtwasser. Ökologisch hat der Stausee das Mikroklima im Aragvi-Tal verändert und zur Überflutung der alten Siedlung Schinwali geführt, deren Kirche bei niedrigem Wasserstand aus den Fluten ragt. Die Anlage wird heute von privaten Investoren betrieben und ist ein Musterbeispiel für die multifunktionale Nutzung von Wasserressourcen im Kaukasus.",
+        "hu": "A zsinvali vízerőmű Grúzia egyik stratégiailag legfontosabb energia- és vízellátó létesítménye. Földrajzilag az erőmű az Aragvi-folyón található, körülbelül 40 kilométerre északra Tbiliszitől, ahol egy hatalmas gát duzzasztja fel a Zsinvali-víztározót. Történelmileg a projektet az 1980-as években fejezték be, hogy két kritikus igényt elégítsenek ki: a csúcsidei villamosenergia-termelést és a növekvő főváros ivóvízellátásának biztosítását. Gazdaságilag Zsinvali nélkülözhetetlen, mivel a hozzá kapcsolódó víztározó több mint egymillió tbiliszi lakos elsődleges ivóvízbázisa. Az erőmű beépített teljesítménye 130 MW, és jelentősen hozzájárul a megújuló energiák arányához a grúz hálózatban. Technikai szempontból egy völgyzáró gátról van szó, amely komplex nyomóalagút-rendszerrel és a városi vízszűrő berendezésekkel rendelkezik. Ökológiailag a víztározó megváltoztatta az Aragvi-völgy mikroklímáját, és a régi Zsinvali település elöntéséhez vezetett, amelynek temploma alacsony vízállásnál kiemelkedik a vízből. A létesítményt ma magánbefektetők üzemeltetik, és a kaukázusi vízkészletek multifunkcionális hasznosításának mintapéldája.",
+        "ro": "Hidrocentrala Zhinvali este una dintre cele mai importante facilități strategice de energie și alimentare cu apă din Georgia. Geografic, centrala este situată pe râul Aragvi, la aproximativ 40 de kilometri nord de Tbilisi, unde un baraj masiv de anrocamente formează lacul de acumulare Zhinvali. Istoric, proiectul a fost finalizat în anii 1980 pentru a acoperi două nevoi critice: generarea de energie electrică de vârf și asigurarea aprovizionării cu apă potabilă pentru capitală. Economic, Zhinvali este indispensabil, deoarece rezervorul său reprezintă principala sursă de apă pentru peste un milion de locuitori din Tbilisi. Centrala are o putere instalată de 130 MW și contribuie semnificativ la ponderea energiei regenerabile în rețeaua georgiană. Tehnic, este un complex hidroenergetic cu un sistem complex de galerii sub presiune și stații de filtrare a apei. Ecologic, lacul de acumulare a modificat microclimatul văii Aragvi și a dus la inundarea vechii așezări Zhinvali, a cărei biserică apare din ape în perioadele cu nivel scăzut. Instalația este operată astăzi de investitori privați și este un model de utilizare multifuncțională a resurselor de apă în Caucaz.",
+        "en": "The Zhinvali Hydroelectric Power Plant is one of Georgia's most strategically vital energy and water supply facilities. Geographically, the plant is located on the Aragvi River, approximately 40 kilometers north of Tbilisi, where a massive earth-fill dam impounds the Zhinvali Reservoir. Historically, the project was completed in the 1980s to address two critical needs: generating peak-load electricity and securing the drinking water supply for the growing capital. Economically, Zhinvali is indispensable as its reservoir serves as the primary drinking water source for over one million residents in Tbilisi. The plant has an installed capacity of 130 MW and contributes significantly to the share of renewable energy in the Georgian grid. Technically, it is a dam complex featuring an intricate system of pressure tunnels and municipal water filtration facilities. Ecologically, the reservoir has altered the microclimate of the Aragvi Valley and led to the flooding of the original Zhinvali settlement, whose church partially re-emerges when water levels are low. Today, the facility is operated by private investors and serves as a prime example of multi-functional water resource management in the Caucasus."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liefert den Großteil des Trinkwassers für die Hauptstadt Tiflis.",
+          "Installierte elektrische Leistung von 130 Megawatt (MW).",
+          "Der Schüttdamm hat eine beeindruckende Höhe von 102 Metern.",
+          "Wichtigster Wasserspeicher im Becken des Aragvi-Flusses.",
+          "Berühmt für die bei niedrigem Wasserstand sichtbare Schinwali-Kirche.",
+          "Zentraler Baustein der georgischen Energiesouveränität seit 1985."
+        ],
+        "hu": [
+          "Tbiliszi főváros ivóvízellátásának elsődleges forrása.",
+          "Beépített elektromos teljesítménye 130 megawatt (MW).",
+          "A völgyzáró gát lenyűgöző, 102 méteres magassággal bír.",
+          "Az Aragvi-folyó vízgyűjtőjének legfontosabb tározója.",
+          "Híres az alacsony vízálláskor látható elöntött zsinvali templomról.",
+          "1985 óta a grúz energiafüggetlenség egyik kulcseleme."
+        ],
+        "ro": [
+          "Sursă primară de apă potabilă pentru zona metropolitană Tbilisi.",
+          "Capacitate hidroenergetică instalată de 130 MW.",
+          "Barajul de anrocamente atinge o înălțime de 102 metri.",
+          "Cel mai mare rezervor de apă de pe cursul râului Aragvi.",
+          "Include situl celebrei biserici Zhinvali, inundată parțial de lac.",
+          "Operațională din 1985, vitală pentru stabilitatea rețelei electrice."
+        ],
+        "en": [
+          "Supplies the majority of drinking water for the capital city, Tbilisi.",
+          "Total installed hydroelectric capacity of 130 megawatts (MW).",
+          "Features an earth-fill dam with a height of 102 meters.",
+          "The primary water storage facility within the Aragvi River basin.",
+          "Renowned for the Zhinvali Church, which is submerged but visible.",
+          "A critical component of Georgia's energy infrastructure since 1985."
+        ]
+      }
+    }
+  ]
+}

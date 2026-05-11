@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "al-magrun-cities-v2", "description": "Al-Magrun is a small town in the Benghazi district, located in the fertile plains of eastern Libya.", "facts": ["Benghazi district", "Eastern Libya", "Farming community"] },
+    { "id": "ly-gurgi-mosque-history-v2", "description": "The Gurgi Mosque is one of Tripoli's most beautiful historic mosques, known for its fine marble and intricate tilework.", "facts": ["Tripoli Old City", "Ottoman architecture", "Built in 1833"] },
+    { "id": "ly-karamanli-mosque-history-v2", "description": "The Karamanli Mosque is an important religious site in Tripoli, founded during the Karamanli dynasty.", "facts": ["Tripoli landmark", "Karamanli dynasty", "Historic mosque"] },
+    { "id": "corinthia-hotel-tripoli-landmarks-v2", "description": "The Corinthia Hotel is a modern landmark in Tripoli, being one of the city's most prominent luxury hotels.", "facts": ["Luxury hotel", "Tripoli skyline", "Modern landmark"] },
+    { "id": "jamal-abdul-nasser-mosque-landmarks-v2", "description": "The Jamal Abdul Nasser Mosque is a major religious landmark in Tripoli, formerly a Catholic cathedral.", "facts": ["Major mosque", "Tripoli center", "Historic building"] },
+    { "id": "tripoli-stadium-landmarks-v2", "description": "Tripoli Stadium is a major sports venue in the capital, hosting national and international football matches.", "facts": ["Sports stadium", "National venue", "Tripoli city"] },
+    { "id": "tibesti-hotel-benghazi-landmarks-v2", "description": "The Tibesti Hotel is a well-known landmark and luxury accommodation in the city of Benghazi.", "facts": ["Benghazi landmark", "Luxury hotel", "Eastern Libya"] },
+    { "id": "zawiya-grand-mosque-landmarks-v2", "description": "The Zawiya Grand Mosque is a central religious site in the coastal city of Zawiya.", "facts": ["Zawiya city", "Religious landmark", "Coastal city"] },
+    { "id": "ras-lanuf-refinery-landmarks-v2", "description": "The Ras Lanuf Refinery is a critical industrial landmark in Libya's oil-rich Gulf of Sirte region.", "facts": ["Oil refinery", "Gulf of Sirte", "Industrial hub"] },
+    { "id": "al-majidiya-mosque-tripoli-landmarks-v2", "description": "The Al-Majidiya Mosque is a significant historic mosque in the Old City of Tripoli.", "facts": ["Tripoli Old City", "Historic mosque", "Islamic heritage"] },
+    { "id": "wadi-al-hayat-nature-v2", "description": "Wadi al-Hayat is a long valley in the Sahara Desert, historically home to the Garamantes civilization.", "facts": ["Sahara valley", "Garamantes heritage", "Fezzan region"] }
+  ]
+}

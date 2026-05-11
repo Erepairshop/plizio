@@ -1,0 +1,50 @@
+{
+  "lang": "ro",
+  "country": "Iraq",
+  "files": [
+    "lib/visualLab/data/poiExtraIraqNatureV2.ts",
+    "lib/visualLab/data/poiExtraIraqReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cheekha-dar-nature-v2",
+      "description": "Cheekha Dar este cel mai înalt vârf muntos din Irak, având o altitudine de 3.611 metri în masivul Zagros.",
+      "facts": [
+        "Altitudine: 3.611 metri.",
+        "Situat pe granița cu Iranul.",
+        "Numele înseamnă \"Cortul Negru\".",
+        "Cel mai înalt punct din țară."
+      ]
+    },
+    {
+      "id": "al-jazira-plateau-relief-v2",
+      "description": "Podișul Al-Jazira este o regiune de șes și coline situată în nord-vestul Irakului, între fluviile Tigru și Eufrat.",
+      "facts": [
+        "Cunoscut ca Mesopotamia Superioară.",
+        "Altitudine între 200 și 450 metri.",
+        "Zonă importantă pentru cultura grâului.",
+        "Format din câmpii uscate și dealuri."
+      ]
+    },
+    {
+      "id": "southern-desert-relief-v2",
+      "description": "Deșertul de Sud este un platou vast de calcar care se întinde de la Eufrat până la granițele cu Arabia Saudită și Kuweit.",
+      "facts": [
+        "Acoperă 15% din suprafața Irakului.",
+        "Zonă dominată de platouri pietroase.",
+        "Habitat pentru triburile de beduini.",
+        "Cuprinde numeroase văi sezoniere (uieduri)."
+      ]
+    },
+    {
+      "id": "bahr-al-najaf-depression-relief-v2",
+      "description": "Depresiunea Bahr al-Najaf este un bazin natural și lac sezonier situat la vest de orașul sfânt Najaf, în deșertul central.",
+      "facts": [
+        "Suprafață de aproximativ 360 km².",
+        "Alimentat de ape subterane și ploi.",
+        "Istoric, parte a unei mări antice.",
+        "Refugiu important pentru păsările migratoare."
+      ]
+    }
+  ]
+}

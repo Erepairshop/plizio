@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-court-of-policy-history-v2",
+      "descriptionAdvancedDe": "Das Court of Policy Hall auf Fort Island ist ein stiller Zeuge der niederländischen Kolonialverwaltung in Guyana. Erbaut im 18. Jahrhundert, diente es als administratives und rechtliches Zentrum der Kolonie Essequibo. Seine robuste Holzarchitektur, die den tropischen Bedingungen standhielt, spiegelt die damaligen Bautechniken wider. Das Gebäude war nicht nur ein Gerichtssaal, sondern auch ein Ort für politische Versammlungen, an dem Entscheidungen getroffen wurden, die das Leben von Kolonisten und versklavten Menschen gleichermaßen prägten. Heute ist es Teil des niederländischen Forts und ein wichtiges historisches Denkmal, das Einblicke in die komplexe Vergangenheit des Landes und die Anfänge der europäischen Präsenz in der Region gewährt. Es steht als Symbol für die frühe Kolonialgeschichte und die rechtlichen Strukturen, die von den Niederländern etabliert wurden.",
+      "descriptionAdvancedHu": "A Fort-szigeten található Politikai Bíróság Háza Guyana holland gyarmati közigazgatásának csendes tanúja. A 18. században épült, és Essequibo gyarmat közigazgatási és jogi központjaként szolgált. A trópusi körülményeknek is ellenálló, robusztus faépítészete a korabeli építési technikákat tükrözi. Az épület nemcsak bírósági terem volt, hanem politikai gyűlések helyszíne is, ahol a gyarmatosítók és a rabszolgák életét egyaránt befolyásoló döntéseket hoztak. Ma a holland erőd részét képezi, és fontos történelmi emlékhely, amely bepillantást enged az ország összetett múltjába és az európai jelenlét kezdeteibe a térségben. A korai gyarmati történelem és a hollandok által létrehozott jogi struktúrák szimbólumaként áll.",
+      "descriptionAdvancedRo": "Sala Curții de Politică de pe Insula Fort este un martor tăcut al administrației coloniale olandeze din Guyana. Construită în secolul al XVIII-lea, a servit drept centru administrativ și juridic al coloniei Essequibo. Arhitectura sa robustă din lemn, care a rezistat condițiilor tropicale, reflectă tehnicile de construcție ale vremii. Clădirea nu era doar o sală de judecată, ci și un loc pentru adunări politice, unde se luau decizii care afectau viața coloniștilor și a sclavilor deopotrivă. Astăzi, face parte din fortul olandez și este un monument istoric important, care oferă o perspectivă asupra trecutului complex al țării și a începuturilor prezenței europene în regiune. Ea stă ca un simbol al istoriei coloniale timpurii și al structurilor juridice stabilite de olandezi.",
+      "descriptionAdvancedEn": "The Court of Policy Hall on Fort Island stands as a silent witness to the Dutch colonial administration in Guyana. Built in the 18th century, it served as the administrative and legal center of the Essequibo colony. Its robust wooden architecture, which has withstood the tropical conditions, reflects the construction techniques of the time. The building was not only a courtroom but also a venue for political assemblies where decisions were made that shaped the lives of colonists and enslaved people alike. Today, it is part of the Dutch fort and an important historical monument, offering insights into the country's complex past and the beginnings of European presence in the region. It stands as a symbol of early colonial history and the legal structures established by the Dutch.",
+      "factsAdvanced": [
+        "Erbaut im 18. Jahrhundert als Teil des niederländischen Forts.",
+        "Diente als Gericht und politischer Versammlungsort.",
+        "Ältestes nicht-militärisches Gebäude in Guyana.",
+        "Befindet sich auf Fort Island im Essequibo-Fluss.",
+        "Architektur an tropische Bedingungen angepasst.",
+        "Historisches Museum befindet sich heute im Gebäude.",
+        "Zeugnis der niederländischen Kolonialherrschaft.",
+        "Wichtiger Ort für die Rechtsgeschichte Guyanas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lang": "ro",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-burera-relief-v2",
+      "description": "Un lac montan pitoresc situat la poalele vulcanilor Virunga, cunoscut pentru apele sale calme și peisajul înconjurător impresionant.",
+      "facts": ["Situat lângă vulcanii Virunga", "Lac montan", "Peisaj liniștit", "Arie naturală"]
+    },
+    {
+      "id": "lake-ruhondo-relief-v2",
+      "description": "Un lac situat în apropierea Lacului Burera, oferind priveliști spectaculoase asupra munților și o atmosferă serenă.",
+      "facts": ["Aproape de Lacul Burera", "Priveliște montană", "Ape calme", "Zonă pitorească"]
+    },
+    {
+      "id": "akagera-hills-relief-v2",
+      "description": "O zonă deluroasă în estul Rwandei, caracterizată prin savane și formațiuni geologice unice, parte a Parcului Național Akagera.",
+      "facts": ["Situat în Parcul Național Akagera", "Zona deluroasă", "Savana", "Formațiuni geologice"]
+    },
+    {
+      "id": "lake-muhazi-relief-v2",
+      "description": "Un lac lung și îngust, popular pentru activități de pescuit și relaxare, situat în estul Rwandei.",
+      "facts": ["Lac lung și îngust", "Zona de pescuit", "Popular pentru recreere", "Peisaj estic"]
+    },
+    {
+      "id": "gishwati-ridge-relief-v2",
+      "description": "O creastă muntoasă importantă din regiunea vestică, cunoscută pentru pădurile sale montane și biodiversitatea bogată.",
+      "facts": ["Situată în vestul țării", "Creastă muntoasă", "Păduri montane", "Biodiversitate bogată"]
+    }
+  ]
+}

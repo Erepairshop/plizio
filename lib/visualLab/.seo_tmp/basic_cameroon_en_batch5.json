@@ -2,148 +2,84 @@
   "lang": "en",
   "country": "Cameroon",
   "files": [
-    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
     "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
-    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
-    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+    "lib/visualLab/data/poiExtraCameroonNatureV2.ts"
   ],
   "items": [
     {
-      "id": "banyo-lamidat-history-v2",
-      "description": "The traditional lamidat of Banyo in the Adamawa region. It reflects the long-standing Muslim rule of the northern plateau.",
-      "facts": [
-        "in Banyo",
-        "traditional lamidat",
-        "part of Adamawa history"
-      ]
+      "id": "kribi-fischmarkt-life-v2",
+      "description": "The Kribi fish market is a lively coastal hub where the daily catch of prawns, lobsters, and sea fish is sold directly from the Atlantic.",
+      "facts": ["Coastal fish market", "Fresh Atlantic catch", "Kribi local life", "Seafood hub"]
     },
     {
-      "id": "ngaoundere-lamidat-history-v2",
-      "description": "The lamidat of Ngaoundere is a major traditional authority center in Adamawa. It remains a key symbol of local rule and heritage.",
-      "facts": [
-        "in Ngaoundere",
-        "traditional authority",
-        "important in Adamawa"
-      ]
+      "id": "bafoussam-maisfeld-life-v2",
+      "description": "The expansive maize fields around Bafoussam are a testament to the agricultural productivity of the fertile volcanic soils in the West Region.",
+      "facts": ["West Region farming", "Volcanic soil", "Maize production hub", "Bafoussam landscape"]
     },
     {
-      "id": "king-bell-palace-history-v2",
-      "description": "The palace of King Bell in Douala is tied to one of the city's best known ruling families. It preserves the memory of coastal leadership.",
-      "facts": [
-        "in Douala",
-        "linked to the Bell dynasty",
-        "traditional coastal palace"
-      ]
+      "id": "bertoua-waldhonig-life-v2",
+      "description": "Wild forest honey from the Bertoua region is highly prized for its unique flavor, harvested using traditional methods from the dense eastern forests.",
+      "facts": ["East Region product", "Wild forest honey", "Traditional harvesting", "Natural forest resource"]
     },
     {
-      "id": "german-bridge-edea-history-v2",
-      "description": "A bridge in Edea dating back to the German colonial period. It is one of the town's old engineering landmarks.",
-      "facts": [
-        "in Edea",
-        "from the German era",
-        "historic bridge"
-      ]
+      "id": "mbam-tierreservat-life-v2",
+      "description": "The animal reserves of the Mbam region offer a glimpse into the diverse wildlife and protected natural habitats of central Cameroon.",
+      "facts": ["Central Cameroon wildlife", "Protected habitat", "Regional biodiversity", "Nature conservation"]
     },
     {
-      "id": "batoufam-chiefdom-history-v2",
-      "description": "A traditional chiefdom in western Cameroon. It preserves the institutions and symbols of local Bamileke power.",
-      "facts": [
-        "in western Cameroon",
-        "traditional chiefdom",
-        "Bamileke heritage"
-      ]
+      "id": "bamenda-museumsgarten-life-v2",
+      "description": "The museum garden in Bamenda is a tranquil space that blends historical education with the lush greenery of the northwestern highlands.",
+      "facts": ["Northwest Region garden", "Highland flora", "Bamenda cultural site", "Peaceful green space"]
     },
     {
-      "id": "maroua-lamidat-history-v2",
-      "description": "The lamidat of Maroua is the traditional power center of the Far North capital. It reflects the region's Islamic political history.",
-      "facts": [
-        "in Maroua",
-        "traditional power center",
-        "Far North heritage"
-      ]
+      "id": "djoum-regenwald-life-v2",
+      "description": "The rainforests around Djoum are home to incredible biodiversity, where the rhythms of life are dictated by the ancient canopy of the Congo Basin.",
+      "facts": ["Congo Basin forest", "South Region biodiversity", "Ancient canopy", "Wildlife habitat"]
     },
     {
-      "id": "king-akwas-palace-history-v2",
-      "description": "The palace of King Akwa in Douala belongs to one of the city's influential royal families. It is an important part of Duala history.",
-      "facts": [
-        "in Douala",
-        "linked to the Akwa family",
-        "traditional royal palace"
-      ]
+      "id": "foumbot-gemuesemarkt-life-v2",
+      "description": "The vegetable market in Foumbot is one of the most productive in the country, supplying fresh greens and tubers to markets across Cameroon.",
+      "facts": ["Agricultural trade hub", "West Region produce", "Vegetable supply center", "Busy market life"]
     },
     {
-      "id": "dschang-colonial-center-history-v2",
-      "description": "Dschang's colonial center preserves traces of German and French administration. It is one of the city's most historic areas.",
-      "facts": [
-        "in Dschang",
-        "colonial-era center",
-        "historic urban core"
-      ]
+      "id": "mbalmayo-forstgarten-life-v2",
+      "description": "The forest gardens of Mbalmayo showcase sustainable agroforestry practices, where crops are grown in harmony with the surrounding tropical trees.",
+      "facts": ["Agroforestry site", "Central Region location", "Sustainable farming", "Tropical tree canopy"]
     },
     {
-      "id": "garoua-lamidat-history-v2",
-      "description": "The lamidat of Garoua is a major traditional institution on the Benue River. It anchors the city's historical and social identity.",
-      "facts": [
-        "in Garoua",
-        "on the Benue River",
-        "traditional authority center"
-      ]
+      "id": "douala-botanischer-garten-life-v2",
+      "description": "The botanical gardens in Douala provide a rare green escape within the industrial city, preserving a variety of tropical plant species.",
+      "facts": ["Urban green space", "Tropical plant collection", "Douala nature retreat", "Botanical diversity"]
     },
     {
-      "id": "pitoa-slave-market-site-history-v2",
-      "description": "The old slave market site in Pitoa recalls historic trade routes in northern Cameroon. It stands as a difficult memorial site.",
-      "facts": [
-        "in Pitoa",
-        "linked to slave trade",
-        "historical memorial site"
-      ]
+      "id": "buea-fruchtgarten-life-v2",
+      "description": "The fruit gardens on the slopes of Mount Cameroon benefit from rich volcanic soil, producing an abundance of oranges, bananas, and avocados.",
+      "facts": ["Volcanic soil farming", "Southwest Region fruit", "Mount Cameroon slopes", "Abundant harvest"]
     },
     {
-      "id": "rio-dos-camaroes-discovery-history-v2",
-      "description": "The name Rio dos Camaroes refers to the Portuguese naming of the Wouri estuary. It is part of the origin story of Cameroon itself.",
-      "facts": [
-        "Portuguese origin",
-        "name for the Wouri estuary",
-        "basis of Cameroon's name"
-      ]
+      "id": "garoua-rindermarkt-life-v2",
+      "description": "The cattle market in Garoua is one of the largest in the Sahel, serving as a critical hub for the trade of livestock from across the region.",
+      "facts": ["Sahel livestock hub", "Major cattle trade", "North Region economy", "Traditional market"]
     },
     {
-      "id": "fort-of-yaounde-site-history-v2",
-      "description": "The site of the old fort in Yaounde recalls the city's early colonial military outpost. It marks the start of its urban history.",
-      "facts": [
-        "in Yaounde",
-        "former colonial fort",
-        "early city history"
-      ]
+      "id": "maroua-kunsthandwerk-life-v2",
+      "description": "The artisans of Maroua are famous for their intricate leatherwork and pottery, creating beautiful functional pieces that reflect Sahelian culture.",
+      "facts": ["Leatherwork center", "Far North artisans", "Pottery tradition", "Sahelian cultural craft"]
     },
     {
-      "id": "saints-peter-and-paul-cathedral-history-v2",
-      "description": "A major Catholic cathedral in Douala. It is one of the city's most important religious buildings.",
-      "facts": [
-        "in Douala",
-        "Catholic cathedral",
-        "major religious landmark"
-      ]
+      "id": "mount-cameroon-nature-v2",
+      "description": "Mount Cameroon, an active volcano and the highest peak in West Africa, is a majestic natural wonder with diverse ecological zones.",
+      "facts": ["Active volcano", "Highest West African peak", "4,040 meters high", "Diverse eco-zones"]
     },
     {
-      "id": "old-post-office-buea-history-v2",
-      "description": "The old post office in Buea is a reminder of the town's colonial administrative era. It reflects the city's early public infrastructure.",
-      "facts": [
-        "in Buea",
-        "colonial-era building",
-        "old public office"
-      ]
+      "id": "lake-oku-nature-v2",
+      "description": "Lake Oku is a serene crater lake nestled in the Kilum-Ijim Forest, known for its unique biodiversity and sacred status among local people.",
+      "facts": ["Crater lake", "Northwest Region", "Kilum-Ijim Forest", "Sacred natural site"]
     },
     {
-      "id": "babungo-palace-history-v2",
-      "description": "The palace of Babungo is a traditional power center in northwest Cameroon. It preserves the history and rituals of the local court.",
-      "facts": [
-        "in northwest Cameroon",
-        "traditional palace",
-        "local court rituals"
-      ]
+      "id": "buea-mountain-nature-v2",
+      "description": "The mountainous terrain surrounding Buea offers breathtaking views and a cool highland climate on the lower slopes of Mount Cameroon.",
+      "facts": ["Mount Cameroon slopes", "Highland climate", "Scenic mountain views", "Southwest Region"]
     }
   ]
 }

@@ -1,0 +1,127 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChileCitiesV2.ts",
+    "lib/visualLab/data/poiExtraParaguayCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "santiago-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Santiago ist die Hauptstadt und das unbestrittene politische sowie wirtschaftliche Zentrum Chiles, gelegen in einem großen Talbecken, das vollständig von den schneebedeckten Gipfeln der Anden umgeben ist. Geografisch führt die Lage der Stadt in diesem geschlossenen Becken in den Wintermonaten häufig zu starker Smogbildung, die hochgradig verschmutzte Luft über dem dicht besiedelten Stadtgebiet festhält. Wirtschaftlich generiert Santiago fast die Hälfte des gesamten nationalen Bruttoinlandsprodukts und beherbergt die Hauptsitze großer multinationaler Konzerne, die hochaktive nationale Börse sowie ein massives Finanzviertel, das lokal als Sanhattan bekannt ist. Die Stadt ist jedoch von extremer sozialer und räumlicher Ungleichheit geprägt; die wohlhabenden nordöstlichen Gemeinden verfügen über modernste, hoch entwickelte Infrastruktur und Privatkliniken, während die peripheren südlichen und westlichen Bezirke massiv unter unzureichendem sozialem Wohnungsbau und chronisch unterfinanzierten staatlichen Schulen leiden. Historisch wurde die Stadt 1541 vom spanischen Konquistador Pedro de Valdivia gegründet und im Laufe der Jahrhunderte oft von massiven Erdbeben zerstört. Heute fungiert Santiago als unverzichtbarer Verkehrsknotenpunkt für das extrem lange Land.",
+        "hu": "Santiago Chile fővárosa, valamint vitathatatlan politikai és gazdasági központja, amely egy nagy völgykatlanban fekszik, teljesen körülvéve az Andok hófödte csúcsaival. Földrajzilag a városnak ebben a zárt medencében elfoglalt elhelyezkedése a téli hónapokban gyakran súlyos szmogfelhalmozódáshoz vezet, amely az erősen szennyezett levegőt a sűrűn lakott városi terület fölött tartja. Gazdasági szempontból Santiago a teljes nemzeti GDP közel felét termeli, és itt találhatók a nagy multinacionális vállalatok központjai, a rendkívül aktív nemzeti értéktőzsde, valamint a helyiek által Sanhattan néven ismert hatalmas pénzügyi negyed. A várost extrém társadalmi és térbeli egyenlőtlenség jellemzi; a gazdag északkeleti városrészek modern, magasan fejlett infrastruktúrával és magánklinikákkal rendelkeznek, míg a periférikus déli és nyugati kerületek masszívan szenvednek a nem megfelelő állami lakásépítéstől és a krónikusan alulfinanszírozott állami iskoláktól. Történelmileg a várost 1541-ben alapította Pedro de Valdivia spanyol konkvisztádor, és az évszázadok során gyakran pusztították el masszív földrengések. Ma Santiago elengedhetetlen közlekedési csomópontként funkcionál a rendkívül hosszú ország számára.",
+        "ro": "Santiago este capitala și centrul politic și economic de necontestat al statului Chile, situat într-un bazin mare de vale, înconjurat complet de vârfurile acoperite de zăpadă ale Munților Anzi. Geografic, locația orașului în acest bazin închis duce frecvent la acumulări severe de smog în timpul lunilor de iarnă, blocând aerul foarte poluat deasupra zonei urbane dens populate. Din punct de vedere economic, Santiago generează aproape jumătate din întregul PIB național, găzduind sediile marilor corporații multinaționale, bursa națională extrem de activă și un district financiar masiv cunoscut sub numele de Sanhattan. Orașul este definit de inegalități sociale și spațiale extreme; municipalitățile bogate din nord-est posedă infrastructură modernă, foarte dezvoltată și clinici private, în timp ce districtele periferice de sud și de vest suferă masiv din cauza locuințelor publice inadecvate și a școlilor de stat cronic subfinanțate. Istoric, fondat în 1541 de conchistadorul spaniol Pedro de Valdivia, orașul a fost frecvent distrus de cutremure masive. Astăzi, Santiago acționează ca un nod de transport major.",
+        "en": "Santiago is the capital and the undisputed political and economic center of Chile, situated in a large valley basin completely surrounded by the snow-capped peaks of the Andes Mountains. Geographically, the city's location in this enclosed basin frequently leads to severe smog accumulation during the winter months, trapping highly polluted air over the densely populated urban area. Economically, Santiago generates nearly half of the entire national GDP, hosting the headquarters of major multinational corporations, the highly active national stock exchange, and a massive financial district known as Sanhattan. The city is defined by extreme social and spatial inequality; the wealthy northeastern municipalities possess modern, highly developed infrastructure and private clinics, whereas the peripheral southern and western districts suffer from inadequate public housing and poorly funded state schools. Historically founded in 1541 by Spanish conquistador Pedro de Valdivia, the city was frequently destroyed by massive earthquakes. Today, Santiago acts as a major transport hub, connecting the remote northern mining regions with the southern agricultural zones, despite severe traffic congestion."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Santiago liegt in einem geschlossenen Becken direkt in den Anden.",
+          "Die Metropole generiert fast die Hälfte des chilenischen Bruttoinlandsprodukts.",
+          "Im Winter hält das Becken massiven, gesundheitsschädlichen Smog in der Stadt fest.",
+          "Extreme soziale Ungleichheit teilt die reichen und armen Stadtbezirke stark auf.",
+          "Verheerende Erdbeben zwangen die Stadt historisch oft zum extremen Wiederaufbau."
+        ],
+        "hu": [
+          "Santiago egy zárt medencében, közvetlenül az Andok hegyei között fekszik.",
+          "A hatalmas metropolisz a teljes chilei GDP majdnem felét állítja elő.",
+          "A téli hónapokban a medence masszív, mérgező szmogot rejt a város felett.",
+          "Az extrém társadalmi egyenlőtlenség élesen felosztja a városi kerületeket.",
+          "A pusztító földrengések történelmileg gyakran hatalmas újjáépítést kényszerítettek ki."
+        ],
+        "ro": [
+          "Santiago este situat într-un bazin închis, direct în Munții Anzi masivi.",
+          "Metropola generează aproape jumătate din întregul PIB național chilian.",
+          "În lunile de iarnă, bazinul captează smog masiv și toxic deasupra orașului.",
+          "Inegalitatea socială extremă împarte puternic districtele urbane sărace și bogate.",
+          "Cutremurele devastatoare au forțat istoric orașul la reconstrucții masive."
+        ],
+        "en": [
+          "Santiago is situated in a highly enclosed basin surrounded by the Andes mountains.",
+          "The city heavily generates nearly half of Chile's entire national economic GDP.",
+          "Winter months trap massive amounts of toxic smog directly over the urban area.",
+          "Extreme social inequality heavily divides the wealthy and poor urban districts.",
+          "Devastating earthquakes frequently force massive reconstruction upon the city."
+        ]
+      }
+    },
+    {
+      "id": "concepcion-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Concepción ist die Hauptstadt der Region Biobío und funktioniert als die zweitgrößte Metropolregion Chiles im südlich-zentralen Teil des Landes. Geografisch liegt die Stadt direkt an den Ufern des gewaltigen Biobío-Flusses, nahe seiner Mündung in den Pazifischen Ozean. Wirtschaftlich ist Concepción das absolute schwerindustrielle Herz des chilenischen Südens. Die lokale Ökonomie wird massiv vom Forstsektor, weitreichenden Zellulosefabriken, der kommerziellen Fischerei und einer hochaktiven verarbeitenden Industrie angetrieben. Die nahegelegenen Tiefwasserhäfen Talcahuano und San Vicente ermöglichen den massiven globalen Export von rohem Holz und verarbeiteter Zellulose. Historisch wurde die Stadt jedoch gravierend durch extreme seismische Aktivitäten geprägt. Concepción wurde mehrfach von verheerenden Megathrust-Erdbeben fast vollständig dem Erdboden gleichgemacht, am prominentesten in den Jahren 1960 und 2010, was einen ständigen, architektonisch radikalen Wiederaufbau erzwang. Die Stadt fungiert zudem als hochwichtiges akademisches Zentrum, das zehntausende Universitätsstudenten beherbergt, was die lokale Dienstleistungswirtschaft extrem stimuliert und in hartem Kontrast zu den industriellen Peripherien steht.",
+        "hu": "Concepción a Biobío régió fővárosa, és Chile második legnépesebb nagyvárosi területeként működik az ország középső-déli részén. Földrajzilag a város közvetlenül a hatalmas Biobío-folyó partján fekszik, közel annak a Csendes-óceánba torkolló torkolatához. Gazdasági szempontból Concepción Dél-Chile abszolút nehézipari szíve. A helyi gazdaságot masszívan a faipar, a kiterjedt cellulózgyárak, a kereskedelmi halászat és a rendkívül aktív feldolgozóipar hajtja. A közeli mélyvízi kikötők, Talcahuano és San Vicente lehetővé teszik a nyersfa és a feldolgozott cellulóz masszív globális exportját. Történelmileg a várost súlyosan formálta a szélsőséges szeizmikus aktivitás. Concepción városát többször is szinte teljesen a földdel tették egyenlővé a pusztító, óriási földrengések, leginkább 1960-ban és 2010-ben, ami folyamatos és radikális városi újjáépítést kényszerített ki. A város emellett rendkívül fontos regionális akadémiai központként is funkcionál, amely egyetemisták tízezreinek ad otthont; ez nagymértékben stimulálja a helyi szolgáltatási gazdaságot, éles ellentétben a peremvidék zord ipari zónáival.",
+        "ro": "Concepción este capitala regiunii Biobío și funcționează ferm ca a doua cea mai populată zonă metropolitană din Chile, situată în partea central-sudică a țării. Geografic, orașul este situat direct pe malurile masivului râu Biobío, aproape de gura sa la Oceanul Pacific. Din punct de vedere economic, Concepción este inima absolută a industriei grele din sudul statului Chile. Economia locală este susținută masiv de sectorul forestier, morile extinse de hârtie, pescuitul comercial și o industrie prelucrătoare foarte activă. Porturile de mare adâncime din apropiere, Talcahuano și San Vicente, facilitează exportul global masiv de lemn brut și celuloză procesată. Istoric, orașul a fost grav modelat de activități seismice extreme. Concepción a fost aproape complet nivelată de mai multe ori de cutremure devastatoare megathrust, cel mai notabil în 1960 și 2010. Orașul acționează, de asemenea, ca un centru academic regional foarte important, stimulând serviciile.",
+        "en": "Concepción is the capital of the Biobío region and firmly functions as the second most populated metropolitan area in Chile, located in the central-southern part of the country. Geographically, the city is situated directly on the banks of the massive Biobío River, near its mouth at the Pacific Ocean. Economically, Concepción is the absolute heavy industrial heart of southern Chile. The local economy is massively driven by the forestry sector, extensive paper mills, commercial fishing, and a highly active manufacturing industry. The nearby deep-water ports of Talcahuano and San Vicente facilitate the massive export of raw regional timber and processed cellulose. Historically, the city has been severely shaped by extreme seismic activity. Concepción has been almost entirely leveled multiple times by devastating megathrust earthquakes, most notably in 1960 and 2010, which forced continuous urban reconstruction. The city also acts as a highly important regional academic center, hosting thousands of university students, which heavily stimulates the local service economy and real estate market, creating a sharp contrast against the gritty industrial zones on the periphery."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Concepción ist das absolut schwerindustrielle Herz im chilenischen Süden.",
+          "Die lokale Ökonomie wird vom massiven regionalen Forstsektor stark angetrieben.",
+          "Verheerende Mega-Erdbeben machten die gesamte Stadt historisch oft dem Erdboden gleich.",
+          "Nahe gelegene Tiefwasserhäfen exportieren täglich riesige Mengen rohes Bauholz.",
+          "Eine sehr große studentische Bevölkerung stimuliert die lokale Dienstleistungswirtschaft."
+        ],
+        "hu": [
+          "Concepción Dél-Chile abszolút legfontosabb és legnagyobb nehézipari szíve.",
+          "A helyi gazdaságot a hatalmas regionális fakitermelési és cellulózszektor hajtja.",
+          "A pusztító mega-földrengések történelmileg többször a földdel tették egyenlővé.",
+          "A közeli mélyvízi kikötők hatalmas mennyiségű nyers faanyagot exportálnak.",
+          "A nagyon nagy számú egyetemista erősen stimulálja a helyi szolgáltatási gazdaságot."
+        ],
+        "ro": [
+          "Concepción este inima absolută a industriei grele masive din sudul statului Chile.",
+          "Economia locală este stimulată masiv de sectorul forestier regional uriaș.",
+          "Cutremurele devastatoare masive nivelează în mod regulat întregul oraș.",
+          "Porturile de mare adâncime din apropiere exportă volume uriașe de lemn brut.",
+          "O populație studențească foarte mare stimulează puternic economia de servicii."
+        ],
+        "en": [
+          "Concepción acts as the absolute heavy industrial heart of southern Chile.",
+          "The local economy is massively driven by the huge regional forestry sector.",
+          "Devastating megathrust earthquakes regularly level the entire city completely.",
+          "Nearby deep-water ports actively export massive volumes of raw regional timber.",
+          "A very large university student population heavily stimulates the service economy."
+        ]
+      }
+    },
+    {
+      "id": "antofagasta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Antofagasta ist eine hochgradig strategische Küstenmetropole im Norden Chiles, die geografisch zwischen dem Pazifischen Ozean und den extrem hyperariden Weiten der Atacama-Wüste eingeklemmt ist. Wirtschaftlich ist diese Stadt das absolute Epizentrum der massiven chilenischen Kupferminenindustrie, die das finanzielle Rückgrat der gesamten nationalen Wirtschaft bildet. Antofagasta fungiert als primärer logistischer und Export-Knotenpunkt für gigantische Minen im Hinterland wie Chuquicamata und Escondida. Der Hafen verarbeitet ununterbrochen Millionen Tonnen von Kupferkonzentrat, das für die globalen Märkte in Asien bestimmt ist. Wegen dieses massiven Bergbau-Booms verzeichnet Antofagasta offiziell das höchste Pro-Kopf-Einkommen in Chile, leidet jedoch gleichzeitig unter den absolut höchsten Lebenshaltungskosten. Grundnahrungsmittel und Wasser sind extrem teuer, da fast alles über die Wüste hertransportiert werden muss. Historisch gehörte die Stadt fest zu Bolivien, bis Chile sie im Salpeterkrieg Ende des 19. Jahrhunderts gewaltsam annektierte. Heute steht die urbane Bevölkerung vor schweren Umweltproblemen, insbesondere einer massiven Belastung durch toxischen Staub und Schwermetalle.",
+        "hu": "Antofagasta egy rendkívül stratégiai tengerparti metropolisz Észak-Chilében, amely földrajzilag a Csendes-óceán és az Atacama-sivatag extrém hiperarid kiterjedései közé ékelődik. Gazdasági szempontból ez a város a masszív chilei rézbányászat abszolút epicentruma, amely a teljes nemzeti gazdaság pénzügyi gerincét alkotja. Antofagasta elsődleges logisztikai és exportcsomópontként funkcionál az olyan gigantikus belföldi bányák számára, mint Chuquicamata és Escondida. A kikötő folyamatosan több millió tonna nyers rézkoncentrátumot dolgoz fel, amelyet az ázsiai globális piacokra szánnak. E hatalmas bányászati fellendülés miatt hivatalosan Antofagasta regisztrálja a legmagasabb egy főre jutó jövedelmet Chilében, ugyanakkor az abszolút legmagasabb megélhetési költségektől is szenved. Az alapvető szükségleti cikkek, az élelmiszer és a víz rendkívül drágák, mivel szinte mindent a sivatagon keresztül kell szállítani. Történelmileg a város szilárdan Bolíviához tartozott, amíg Chile a 19. század végi csendes-óceáni háború során erőszakkal nem annektálta a rendkívül jövedelmező salétromlelőhelyek feletti ellenőrzés megszerzése érdekében. Ma a városi lakosság súlyos környezeti kihívásokkal néz szembe, különösen a toxikus por- és nehézfémszennyezéssel.",
+        "ro": "Antofagasta este o metropolă de coastă extrem de strategică în nordul statului Chile, blocată geografic între Oceanul Pacific și întinderea extrem de hiperaridă a deșertului Atacama. Din punct de vedere economic, acest oraș este epicentrul absolut al industriei masive de exploatare a cuprului, care formează coloana vertebrală financiară a întregii economii naționale. Antofagasta funcționează ca centru logistic și de export principal pentru mine gigantice de pe uscat, cum ar fi Chuquicamata și Escondida. Portul procesează constant milioane de tone de concentrat de cupru brut destinat piețelor asiatice globale. Datorită acestui boom minier masiv, Antofagasta înregistrează oficial cel mai mare venit pe cap de locuitor din Chile, dar în același timp suferă de cel mai ridicat cost de trai. Istoric, orașul a făcut parte ferm din Bolivia până când Chile l-a anexat cu forța în timpul Războiului Pacificului. Astăzi, populația urbană se confruntă cu provocări de mediu.",
+        "en": "Antofagasta is a highly strategic coastal metropolis in northern Chile, geographically locked between the Pacific Ocean and the extreme hyper-arid expanse of the Atacama Desert. Economically, this city is the absolute epicentre of the massive Chilean copper mining industry, which forms the financial backbone of the entire national economy. Antofagasta functions as the primary logistical and export hub for giant inland mines like Chuquicamata and Escondida. The port constantly processes millions of tons of raw copper concentrate destined for global Asian markets. Because of this massive mining boom, Antofagasta officially registers the highest per capita income in Chile, but it simultaneously suffers from the absolutely highest cost of living. Basic necessities, food, and water are extremely expensive because almost everything must be transported across the desert. Historically, the city was firmly part of Bolivia until Chile forcefully annexed it during the War of the Pacific in the late 19th century to seize control of the highly lucrative nitrate deposits. Today, the urban population faces severe environmental challenges, particularly heavily heavy metal-polluted drinking water and toxic dust."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt ist das absolute Epizentrum des lukrativen chilenischen Kupferbergbaus.",
+          "Antofagasta verzeichnet offiziell das allerhöchste Pro-Kopf-Einkommen im ganzen Land.",
+          "Die hyperaride Atacama-Wüste treibt die Kosten für Basisgüter extrem in die Höhe.",
+          "Chile annektierte die Stadt im 19. Jahrhundert gewaltsam vom Land Bolivien.",
+          "Die lokale Bevölkerung leidet massiv unter toxischer Staub- und Schwermetallbelastung."
+        ],
+        "hu": [
+          "A város a jövedelmező chilei rézbányászat abszolút és megkérdőjelezhetetlen epicentruma.",
+          "Hivatalosan Antofagasta regisztrálja az ország legmagasabb egy főre jutó jövedelmét.",
+          "A hiperarid Atacama-sivatag extrém módon felhajtja a legfontosabb alapvető cikkek árát.",
+          "Chile a 19. században fegyverrel és erőszakkal annektálta a várost Bolíviától.",
+          "A helyi lakosság masszívan szenved a toxikus por- és az ipari nehézfémszennyezéstől."
+        ],
+        "ro": [
+          "Orașul este epicentrul absolut al mineritului profitabil de cupru din Chile.",
+          "Antofagasta înregistrează oficial cel mai mare venit pe cap de locuitor din țară.",
+          "Deșertul hiperarid Atacama forțează costuri extrem de mari pentru bunurile de bază.",
+          "Chile a anexat cu forța orașul din Bolivia în timpul secolului al XIX-lea.",
+          "Populația locală suferă masiv de pe urma poluării toxice cu praf și metale grele."
+        ],
+        "en": [
+          "The city is the absolute epicenter of the highly lucrative Chilean copper mining.",
+          "Antofagasta officially records the absolutely highest per capita income in the country.",
+          "The hyper-arid Atacama Desert aggressively forces high costs for basic goods.",
+          "Chile forcefully annexed the coastal city from Bolivia during the 19th century.",
+          "The local population heavily suffers from severe toxic dust and heavy metal pollution."
+        ]
+      }
+    }
+  ]
+}

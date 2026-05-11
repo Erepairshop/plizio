@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "A Macossa erdő fontos erdő Manica tartományban, sokféle növény- és állatvilágnak ad otthont.",
+      "facts": ["Manica tartomány", "Sokféle növény- és állatvilág", "Fontos erdő"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "A Massingir-tó egy nagy víztározó, amelyet az Olifants folyó táplál, öntözés és halászat szempontjából fontos.",
+      "facts": ["Nagy víztározó", "Olifants folyó", "Öntözés és halászat"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "A Moamba-hegy Maputo tartományban található magaslat, buja növényzetéről és madárvilágáról ismert.",
+      "facts": ["Maputo tartomány", "Buja növényzet", "Madárvilág"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "A Savane-tó egy édesvízi tó Sofala tartományban, amely létfontosságú vízforrás a helyi közösségek számára.",
+      "facts": ["Édesvízi tó", "Sofala tartomány", "Létfontosságú vízforrás"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "A Chinde folyó a Zambézi folyó egyik ága az Indiai-óceánon, fontos a hajózás és a halászat szempontjából.",
+      "facts": ["Zambézi folyó ága", "Indiai-óceán", "Hajózás és halászat"]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "A Lupata erdő egy védett erdő Sofala tartományban, gazdag biodiverzitás jellemzi.",
+      "facts": ["Védett erdő", "Sofala tartomány", "Gazdag biodiverzitás"]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "A Magoé-tó egy édesvízi tó Tete tartományban, vadvilágáról és horgászati lehetőségeiről ismert.",
+      "facts": ["Édesvízi tó", "Tete tartomány", "Vadvilág és horgászat"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "A Gile erdő fontos esőerdő Zambézia tartományban, számos állat- és növényfajnak ad otthont.",
+      "facts": ["Esőerdő", "Zambézia tartomány", "Állat- és növényfajok"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "A Gorgon-tenger az Indiai-óceán része Mozambik partjainál, gazdag tengeri biodiverzitásáról ismert.",
+      "facts": ["Indiai-óceán", "Tengeri biodiverzitás", "Mozambik partjai"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "A Chiu-hegy Niassa tartományban található kiemelkedő hegy, egyedi növény- és állatvilággal.",
+      "facts": ["Niassa tartomány", "Egyedi növény- és állatvilág", "Kiemelkedő hegy"]
+    },
+    {
+      "id": "lebombo-berge-relief-v2",
+      "description": "A Lebombo-hegység egy hosszú, keskeny hegység Mozambik, Dél-Afrika és Szváziföld határán.",
+      "facts": ["Hegység", "Határvidék", "Dél-Afrika, Szváziföld"]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "description": "A Nampula-fennsík egy dombos régió termékeny talajokkal, ideális kávétermesztésre.",
+      "facts": ["Dombos régió", "Termékeny talajok", "Kávétermesztés"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "A Pemba-öböl egy természetes öböl Mozambik partjainál, védett vizeiről és búvárhelyeiről ismert.",
+      "facts": ["Természetes öböl", "Védett vizek", "Búvárhelyek"]
+    },
+    {
+      "id": "lupata-massiv-relief-v2",
+      "description": "A Lupata-masszívum egy kiemelkedő hegyvidéki terület drámai sziklaképződményekkel, geológiai jellemzői miatt fontos.",
+      "facts": ["Hegyvidéki terület", "Drámai sziklaképződmények", "Geológiai jellemzők"]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "description": "A Tete-fennsík egy hegyvidéki régió hűvösebb éghajlattal, alkalmas tea- és kávéültetvényekre.",
+      "facts": ["Hegyvidéki régió", "Hűvösebb éghajlat", "Tea- és kávéültetvények"]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-delta-relief-v2",
+      "description": "A Limpopo folyó deltája egy kiterjedt, alacsonyan fekvő terület, ahol a Limpopo folyó az Indiai-óceánba ömlik, kiterjedt vizes élőhelyeket alkotva.",
+      "facts": ["Folyódeltát", "Indiai-óceán", "Kiterjedt vizes élőhelyek"]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "description": "A Gile-masszívum egy távoli hegyvidéki masszívum Zambézia tartományban, gazdag biodiverzitásáról ismert.",
+      "facts": ["Távoli hegyvidéki masszívum", "Zambézia tartomány", "Gazdag biodiverzitás"]
+    },
+    {
+      "id": "niassa-hochland-relief-v2",
+      "description": "A Niassa-fennsík egy kiterjedt, magaslati régió Mozambik északi részén, hűvösebb klímával és termékeny talajokkal.",
+      "facts": ["Kiterjedt magaslati régió", "Északi Mozambik", "Hűvösebb klíma"]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "description": "A Mossuril-partvidékre érintetlen strandok, mangrove erdők és korallzátonyok jellemzőek a part mentén.",
+      "facts": ["Érintetlen strandok", "Mangrove erdők", "Korallzátonyok"]
+    }
+  ]
+}

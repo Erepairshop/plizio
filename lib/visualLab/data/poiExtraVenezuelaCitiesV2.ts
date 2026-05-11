@@ -147,17 +147,10 @@ export const poiExtraVenezuelaCitiesV2: POI[] = [
       en: ["Capital of the Aragua state.", "Has a significant air force base."]
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Bundesstaates Aragua.", "Verfügt über einen bedeutenden Luftwaffenstützpunkt.", "Die Stadt liegt strategisch zwischen Caracas und Valencia.", "Wurde im Jahr 1701 gegründet.", "Die Umgebung ist durch fruchtbare Ebenen und Gebirgsausläufer geprägt.", "Der Henri Pittier Nationalpark grenzt an die nördliche Stadtregion."],
-      hu: [
-        "A 20. század elején Juan Vicente Gómez elnök alatt masszívan modernizálták.",
-        "A város nem messze fekszik a Henri Pittier Nemzeti Parktól.",
-        "A városközpontot tágas nyilvános terek és sugárutak jellemzik.",
-        "Maracay a venezuelai légierő fontos bázisa.",
-        "Aragua állam fővárosa.",
-        "1701-ben alapították, eredetileg mezőgazdasági központként."
-      ],
-      ro: ["A fost modernizat masiv la începutul secolului al XX-lea sub președintele Juan Vicente Gómez.", "Orașul este situat aproape de Parcul Național Henri Pittier.", "Centrul orașului este caracterizat de piețe publice spațioase și bulevarde largi.", "Maracay reprezintă o bază importantă pentru forțele aeriene venezuelene.", "Este capitala statului Aragua.", "A fost fondat în 1701 ca centru agricol."],
-      en: ["Known as 'La Ciudad Jardín' (The Garden City).", "Capital of the Aragua state.", "Strategic hub for military installations.", "Proximity to Henri Pittier National Park, the oldest in the country.", "Gateway between the Andes and the capital region.", "Historical importance in Venezuelan aviation development."]
+      de: ["Die Stadt liegt strategisch zwischen Caracas und Valencia.", "Wurde im Jahr 1701 gegründet.", "Die Umgebung ist durch fruchtbare Ebenen und Gebirgsausläufer geprägt.", "Der Henri Pittier Nationalpark grenzt an die nördliche Stadtregion."],
+      hu: ["A 20. század elején Juan Vicente Gómez elnök alatt masszívan modernizálták.", "A város nem messze fekszik a Henri Pittier Nemzeti Parktól.", "A városközpontot tágas nyilvános terek és sugárutak jellemzik.", "Maracay a venezuelai légierő fontos bázisa.", "1701-ben alapították, eredetileg mezőgazdasági központként."],
+      ro: ["A fost modernizat masiv la începutul secolului al XX-lea sub președintele Juan Vicente Gómez.", "Orașul este situat aproape de Parcul Național Henri Pittier.", "Centrul orașului este caracterizat de piețe publice spațioase și bulevarde largi.", "Maracay reprezintă o bază importantă pentru forțele aeriene venezuelene.", "A fost fondat în 1701 ca centru agricol."],
+      en: ["Known as 'La Ciudad Jardín' (The Garden City).", "Strategic hub for military installations.", "Proximity to Henri Pittier National Park, the oldest in the country.", "Gateway between the Andes and the capital region.", "Historical importance in Venezuelan aviation development."]
     }
   }
 ];

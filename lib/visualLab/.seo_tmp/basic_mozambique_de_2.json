@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "Manica ist eine fruchtbare Region, die für ihren hochwertigen Kaffeeanbau bekannt ist. Die kühlen Hochlandbedingungen bieten ideale Voraussetzungen für den Anbau dieser Spezialität.",
+      "facts": ["Bekannt für Kaffeeanbau", "Kühle Hochlandbedingungen", "Fruchtbare Region", "Spezialitätenkaffee"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "Niassa ist eine bedeutende Provinz für den Tabakanbau in Mosambik. Die traditionelle Landwirtschaft bildet hier einen wichtigen Wirtschaftszweig für die ländliche Bevölkerung.",
+      "facts": ["Wichtiger Tabakanbau", "Traditionelle Landwirtschaft", "Provinz Niassa", "Ländliche Erwerbsquelle"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "Der botanische Garten in Maputo bietet eine vielfältige Sammlung tropischer Pflanzen und dient als grüne Oase in der Stadt. Er ist ein beliebter Erholungsort für Anwohner.",
+      "facts": ["Botanischer Garten", "Tropische Pflanzenvielfalt", "Oase in Maputo", "Beliebter Erholungsort"]
+    },
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "Der Marinepark bei Beira schützt die artenreichen Küstengewässer und unterstützt die lokale Fischerei durch nachhaltige Bewirtschaftung. Ein Ort für Naturschutz und Erholung.",
+      "facts": ["Küsten-Schutzgebiet", "Marine Artenvielfalt", "Lokale Fischerei", "Nachhaltiges Management"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "Die historische Ilha de Moçambique bietet Kindern eine faszinierende Umgebung, um mehr über die maritime Geschichte zu lernen. Die Insel ist ein UNESCO-Welterbe.",
+      "facts": ["Historische Insel", "Maritime Bildung", "UNESCO-Welterbe", "Einzigartige Atmosphäre"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "Tofo Beach ist ein idealer Ort für Familien, um die Küste zu erkunden und die reiche Meeresfauna zu beobachten. Die sicheren Strände machen ihn zu einem beliebten Ausflugsziel.",
+      "facts": ["Beliebter Familienstrand", "Meeresbeobachtung", "Sichere Küstenzone", "Freizeitparadies"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "Der Limpopo-Zoo bietet eine unterhaltsame Möglichkeit, die einheimische Tierwelt aus nächster Nähe kennenzulernen. Ein lehrreiches Ziel für Schulklassen und Familien.",
+      "facts": ["Lokaler Zoo", "Einheimische Tierwelt", "Lehrreiches Angebot", "Familienfreundlich"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "Das Museum für Naturgeschichte in Maputo zeigt anschauliche Exponate zur Fauna Mosambiks und ist besonders bei Kindern für seine Präparate beliebt.",
+      "facts": ["Naturkundemuseum", "Anschauliche Exponate", "Beliebt bei Kindern", "Fauna Mosambiks"]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "Gondola bietet familienfreundliche Aktivitäten, die Bewegung und Spiel in einer grünen Umgebung verbinden. Ein beliebter Ort für lokale Familien.",
+      "facts": ["Familienaktivitäten", "Grüne Umgebung", "Freizeit und Spiel", "Lokaler Treffpunkt"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "Die Strände von Pemba sind perfekt geeignet für spielerische Entdeckungen am Meer. Die ruhige Bucht bietet Kindern eine sichere Umgebung zum Baden.",
+      "facts": ["Sichere Badebucht", "Strandaktivitäten", "Ideal für Familien", "Spielerische Entdeckungen"]
+    }
+  ]
+}

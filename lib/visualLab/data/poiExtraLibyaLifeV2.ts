@@ -23,9 +23,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located within the massive Abu Sitta park complex in Tripoli.", "Historically one of the largest and most diverse zoos in North Africa.", "Housed extensive collections of native African and exotic wildlife.", "Features a massive, dense canopy of mature eucalyptus and pine trees.", "Serves as a critical 'green lung' for the densely populated capital.", "Currently struggling with rehabilitation efforts after years of conflict."],
-      de: ["Beheimatet diverse einheimische Arten.", "Ein beliebtes Ausflugsziel für Familien.", "Ein bedeutender Park mit einer Vielfalt an Tieren.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Különféle őshonos fajok otthona.", "Népszerű családi kirándulóhely.", "Jelentős park állatok sokaságával.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Găzduiește diverse specii native.", "O destinație populară pentru familii.", "O grădină importantă cu o varietate de animale.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein bedeutender Park mit einer Vielfalt an Tieren.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jelentős park állatok sokaságával.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O grădină importantă cu o varietate de animale.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tripoli-zoo-life-v2.webp",
     
     
@@ -51,9 +51,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A large public park and zoological garden located centrally in Benghazi.", "Locally referred to affectionately as 'Al-Bosco'.", "Historically featured shaded walkways, small lakes, and diverse animal enclosures.", "Suffered significant neglect and damage during the 2014 urban conflicts.", "Has been the focus of recent, passionate community rehabilitation efforts.", "A highly nostalgic recreational space for generations of Benghazi residents."],
-      de: ["Fokus auf lokale Tierwelt.", "Bildet ein wichtiges Zentrum für Naturschutz.", "Ein Zoo in der Küstenstadt Bengasi.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A helyi élővilágra összpontosít.", "Fontos természetvédelmi központ.", "Állatkert a tengerparti Bengázi városában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Accent pe fauna locală.", "Formează un centru important pentru conservare.", "O grădină zoologică în orașul de coastă Benghazi.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Zoo in der Küstenstadt Bengasi.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Állatkert a tengerparti Bengázi városában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O grădină zoologică în orașul de coastă Benghazi.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/benghazi-zoo-life-v2.webp",
     
     
@@ -79,9 +79,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, manicured public park located in the commercial city of Misrata.", "Provides a stark, green contrast to the city's extensive heavy industry.", "Features large lawns, modern playgrounds, and extensive shaded seating.", "Heavily utilized by local families during the cooler evening hours.", "Funded by the civic wealth generated through the city's massive port.", "Hosts numerous local street food vendors and small community events."],
-      de: ["Verfügt über moderne Spielplätze.", "Beliebter Treffpunkt für Einwohner.", "Ein großer Park für Erholung und Spiel.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Modern játszóterekkel felszerelt.", "Népszerű találkozóhely a lakosok számára.", "Nagy park kikapcsolódásra és játékra.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Echipat cu locuri de joacă moderne.", "Un punct de întâlnire popular pentru locuitori.", "Un parc mare pentru relaxare și joacă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein großer Park für Erholung und Spiel.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy park kikapcsolódásra és játékra.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un parc mare pentru relaxare și joacă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/misrata-park-life-v2.webp",
     
     
@@ -107,9 +107,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the terraced slopes of the western Nafusa Mountains.", "Cultivated continuously by indigenous Amazigh farmers for thousands of years.", "Produces olive oil highly renowned across Libya for its intense flavor.", "Relies entirely on sustainable, traditional dry-farming techniques.", "Trees feature massive, deep root systems to survive in rocky soil.", "A critical economic and cultural pillar for the mountain communities."],
-      de: ["Bekannt für hochwertige Olivenölproduktion.", "Über Jahrhunderte gepflegte Anbaumethoden.", "Traditionelle Olivenanbauregion im Bergland.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kiváló minőségű olívaolaj-termeléséről híres.", "Évszázadok óta művelt termesztési módszerek.", "Hagyományos olívatermesztő régió a hegyvidéken.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cunoscut pentru producția de ulei de măsline de calitate.", "Metode de cultivare menținute de secole.", "Regiune tradițională de cultivare a măslinelor în zona montană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Traditionelle Olivenanbauregion im Bergland.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hagyományos olívatermesztő régió a hegyvidéken.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Regiune tradițională de cultivare a măslinelor în zona montană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/djebel-nafusa-agri-life-v2.webp",
     
     
@@ -135,9 +135,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A highly managed, lush agricultural zone surrounding the historic town of Ghadames.", "Sustained entirely by a complex, ancient network of water distribution channels.", "Utilizes a multi-canopy farming system with date palms providing crucial shade.", "Produces high-quality dates, citrus fruits, pomegranates, and vegetables.", "Water distribution is managed communally based on strict historical traditions.", "Provides a brilliant green contrast to the surrounding hyper-arid Sahara."],
-      de: ["Anbau von Datteln und Gemüse.", "Ein Symbol für Leben in der Wüste.", "Eine grüne Oase mit traditionellem Anbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Datolya és zöldségtermesztés.", "A sivatagi élet szimbóluma.", "Zöld oázis hagyományos termesztéssel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cultivarea curmalelor și legumelor.", "Un simbol al vieții în deșert.", "O oază verde cu culturi tradiționale.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine grüne Oase mit traditionellem Anbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Zöld oázis hagyományos termesztéssel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O oază verde cu culturi tradiționale.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gadamis-oasis-life-v2.webp",
     
     
@@ -163,9 +163,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the highly remote southeastern desert region of Kufra.", "Utilizes massive center-pivot irrigation systems to grow crops in the sand.", "Draws water directly from the ancient, fossilized Nubian Sandstone Aquifer.", "Produces massive yields of wheat, barley, and various orchard fruits.", "The bright green, circular fields are massive enough to be visible from space.", "Represents an extreme, technologically driven approach to desert farming."],
-      de: ["Ermöglicht durch unterirdische Wasserreserven.", "Zentrum für lokale Obstversorgung.", "Bewässerte Gärten mitten in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Föld alatti vízkészletek teszik lehetővé.", "A helyi gyümölcsellátás központja.", "Öntözött kertek a sivatag közepén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Posibil prin rezervele de apă subterană.", "Centru pentru aprovizionarea locală cu fructe.", "Grădini irigate în mijlocul deșertului.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Bewässerte Gärten mitten in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Öntözött kertek a sivatag közepén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Grădini irigate în mijlocul deșertului.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/kufra-orchard-life-v2.webp",
     
     
@@ -191,9 +191,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the fertile Jafara plain, immediately west of Tripoli.", "A massive supplier of fresh produce, citrus, and olives for the capital.", "Features extensive use of modern greenhouses for year-round cultivation.", "Benefits from a mild Mediterranean climate and coastal aquifers.", "Intensive water extraction has led to severe concerns over groundwater salinization.", "Characterized by a dense, highly subdivided patchwork of family-owned farms."],
-      de: ["Produziert Getreide und Futterpflanzen.", "Wirtschaftlicher Motor der Region.", "Ein bedeutendes Gebiet für den Ackerbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Gabonát és takarmánynövényeket termel.", "A régió gazdasági motorja.", "Jelentős terület a növénytermesztés számára.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Produce cereale și plante furajere.", "Motorul economic al regiunii.", "O zonă semnificativă pentru agricultură.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein bedeutendes Gebiet für den Ackerbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jelentős terület a növénytermesztés számára.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă semnificativă pentru agricultură.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/zawia-farm-life-v2.webp",
     
     
@@ -219,9 +219,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located at the transitional edge of the Nafusa Mountains in western Libya.", "Specializes in the germination and cultivation of fruit tree saplings.", "Produces high-quality young olive, almond, fig, and citrus trees.", "Benefits from a cooler, more temperate climate due to its elevation.", "Supplies essential agricultural stock to farmers across the Tripolitania region.", "Plays a critical, foundational role in the national agricultural supply chain."],
-      de: ["Unterstützt die lokale Landwirtschaft.", "Züchtet klimaresistente Pflanzen.", "Ein Zentrum für Setzlinge und Pflanzen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Támogatja a helyi mezőgazdaságot.", "Klímavédő növényeket tenyészt.", "Palánták és növények központja.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Sprijină agricultura locală.", "Cultivă plante rezistente la climă.", "Un centru pentru răsaduri și plante.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Zentrum für Setzlinge und Pflanzen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Palánták és növények központja.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un centru pentru răsaduri și plante.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gharyan-nursery-life-v2.webp",
     
     
@@ -247,9 +247,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A highly valued public recreational park in the southern desert city of Sabha.", "Provides a rare, vital canopy of shade in a notoriously hot, dusty environment.", "Features irrigated lawns, walking paths, and children's playgrounds.", "Requires constant, dedicated watering from deep subterranean aquifers.", "Serves as the primary evening gathering space for local families.", "Highlights the intense civic effort required to maintain greenery in the Sahara."],
-      de: ["Beliebter Ort für Sommerabende.", "Bietet schattige Sitzbereiche.", "Ein Erholungspark für Familien in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Népszerű hely nyári estéken.", "Árnyékos ülőhelyeket kínál.", "Pihenőpark családoknak a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Loc popular pentru serile de vară.", "Oferă zone de șezut umbrite.", "Un parc de recreere pentru familii în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Erholungspark für Familien in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Pihenőpark családoknak a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un parc de recreere pentru familii în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/sebha-park-life-v2.webp",
     
     
@@ -275,9 +275,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A modest, well-maintained public garden located in central Tobruk.", "Landscaped with hardy, salt-tolerant palms and Mediterranean shrubs.", "Offers a quiet, shaded respite from the busy nearby commercial port.", "Frequently utilized as a gathering space for local elders and families.", "Maintains greenery despite the highly arid, dry coastal climate of the extreme east.", "A localized symbol of civic pride and urban resilience."],
-      de: ["Bietet Blick auf den Hafen.", "Gepflegte Blumenbeete.", "Ein grüner Ruhepunkt in Tubruq.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kilátás nyílik a kikötőre.", "Gondozott virágágyások.", "Zöld nyugvópont Tubrukban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Oferă vedere la port.", "Straturi de flori îngrijite.", "Un punct de odihnă verde în Tobruk.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein grüner Ruhepunkt in Tubruq.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Zöld nyugvópont Tubrukban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un punct de odihnă verde în Tobruk.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tubruq-garden-life-v2.webp",
     
     
@@ -303,9 +303,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the city of Al Bayda, high in the Jabal al Akhdar mountains.", "Benefits from a cool, Mediterranean climate unique to the region.", "Houses animal species that require lower temperatures than the desert can offer.", "Historically functioned as a combined zoological and botanical garden.", "Showcases the unique, natural flora native to the 'Green Mountains'.", "A major educational and recreational destination for eastern Libyan families."],
-      de: ["Zeigt einheimische Wüstentiere.", "Bildungszentrum für Kinder.", "Ein kleiner Tierpark in der Kyrenaika.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Bemutatja az őshonos sivatagi állatokat.", "Oktatási központ gyermekek számára.", "Kis állatpark Kirenaikában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Arată animale native de deșert.", "Centru educațional pentru copii.", "O mică grădină zoologică în Cirenaica.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein kleiner Tierpark in der Kyrenaika.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Kis állatpark Kirenaikában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O mică grădină zoologică în Cirenaica.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-baida-zoo-life-v2.webp",
     
     
@@ -331,9 +331,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the highly fertile Jabal al Akhdar mountains of Cyrenaica.", "Receives the highest annual rainfall of any region in Libya.", "Produces massive commercial quantities of apples, grapes, and peaches.", "Features rich, distinctively red Mediterranean soil.", "The landscape is characterized by deeply green, rolling hills and valleys.", "Acts as the primary, critical food basket for the entire eastern region."],
-      de: ["Baut Äpfel und Birnen an.", "Mildes Klima ermöglicht Ernten.", "Obstbaugebiet im grünen Gebirge.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Almát és körtét termeszt.", "A enyhe éghajlat lehetővé teszi a betakarítást.", "Gyümölcstermesztő terület a zöld hegyekben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cultivă mere și pere.", "Clima blândă permite recoltele.", "Zonă pomicolă în munții verzi.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Obstbaugebiet im grünen Gebirge.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Gyümölcstermesztő terület a zöld hegyekben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Zonă pomicolă în munții verzi.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/djebel-akhdar-farm-life-v2.webp",
     
     
@@ -359,9 +359,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A highly specialized plant nursery located in the village of Slonta.", "Situated within the dense, natural forests of the Jabal al Akhdar.", "Dedicated to propagating native Mediterranean trees like juniper and cypress.", "Supplies robust, climate-adapted saplings to regional commercial farmers.", "Plays a critical role in local environmental conservation and reforestation.", "Benefits from the cool, shaded, and moist mountain environment."],
-      de: ["Produziert Setzlinge für Wiederaufforstung.", "Fachwissen über lokale Flora.", "Wichtige Baumschule für die Region.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Palántákat termel az erdőtelepítéshez.", "Szakértelem a helyi flóráról.", "Fontos faiskola a régióban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Produce răsaduri pentru reîmpădurire.", "Expertiză despre flora locală.", "Pepinieră importantă pentru regiune.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Wichtige Baumschule für die Region.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos faiskola a régióban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Pepinieră importantă pentru regiune.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/slonta-nursery-life-v2.webp",
     
     
@@ -387,9 +387,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the highly isolated Jalu depression in the eastern Libyan desert.", "Dominated by a massive, dense forest of highly productive date palms.", "Utilizes a traditional, multi-tiered farming system under the palm canopy.", "Irrigation is managed via ancient trenches drawing from shallow fossil aquifers.", "The locally produced dates are highly prized across Libya for their sweetness.", "The farming system is deeply intertwined with local tribal traditions."],
-      de: ["Weltberühmt für Dattelsorten.", "Verbindet Tradition mit Bewässerungstechnik.", "Traditioneller Anbau in der Oase.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Világhírű datolyafajtáiról.", "Összeköti a hagyományt az öntözéstechnikával.", "Hagyományos termesztés az oázisban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Faimos mondial pentru soiurile de curmale.", "Combină tradiția cu tehnica de irigare.", "Agricultură tradițională în oază.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Traditioneller Anbau in der Oase.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hagyományos termesztés az oázisban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Agricultură tradițională în oază.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jalu-oasis-farm-life-v2.webp",
     
     
@@ -415,9 +415,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["One of the oldest continuously cultivated oasis groves in North Africa.", "Located in the eastern desert, closely associated with the unique Awjila community.", "Relies on highly precise, traditional subterranean water management.", "The dense palm canopy is essential for protecting secondary crops from the sun.", "Produces subsistence quantities of hardy desert grains and vegetables.", "The agricultural practices are vital to the survival of the local culture."],
-      de: ["Seit Jahrhunderten bepflanzt.", "Ein Zentrum für lokale Kultur.", "Historische Oase mit Dattelanbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Évszázadok óta beültetve.", "A helyi kultúra központja.", "Történelmi oázis datolyatermesztéssel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Plantat de secole.", "Un centru pentru cultura locală.", "Oază istorică cu cultivarea curmalelor.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Historische Oase mit Dattelanbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Történelmi oázis datolyatermesztéssel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Oază istorică cu cultivarea curmalelor.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/awjila-orchard-life-v2.webp",
     
     
@@ -443,9 +443,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the historically prominent agricultural town of Tawergha.", "Historically known for dense, highly productive natural palm groves.", "The entire town, including the park, was devastated and depopulated in 2011.", "Currently the focus of highly sensitive, slow post-conflict rehabilitation efforts.", "Features dark, uniquely fertile soil compared to the surrounding coastal plains.", "Serves as a powerful, poignant symbol for national reconciliation and return."],
-      de: ["Entsteht neu für die Gemeinschaft.", "Mit kleinen Sportanlagen.", "Ein Erholungsgebiet im Wiederaufbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A közösség számára épül újjá.", "Kis sportlétesítményekkel.", "Rekreációs terület az újjáépítésben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Reconstruit pentru comunitate.", "Cu mici facilități sportive.", "O zonă de recreere în reconstrucție.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Erholungsgebiet im Wiederaufbau.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Rekreációs terület az újjáépítésben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă de recreere în reconstrucție.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tauergha-park-life-v2.webp",
     
     
@@ -471,9 +471,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A major public recreational park located centrally in the city of Khoms.", "Provides a vital green contrast to the city's heavy port and industrial zones.", "Features well-maintained lawns, shaded walkways, and children's playgrounds.", "Highly utilized by local families, especially during summer evenings.", "Benefits from a cooling, natural sea breeze from the nearby Mediterranean.", "Frequently hosts small community gatherings and local food vendors."],
-      de: ["Bietet Spielbereiche für Kinder.", "Ein Ort der Entspannung.", "Ein schattiger Park nahe der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Játszótereket kínál gyermekeknek.", "A kikapcsolódás helyszíne.", "Árnyékos park a part közelében.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Oferă zone de joacă pentru copii.", "Un loc de relaxare.", "Un parc umbrit lângă coastă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein schattiger Park nahe der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Árnyékos park a part közelében.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un parc umbrit lângă coastă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/homsh-city-park-life-v2.webp",
     
     
@@ -499,9 +499,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A dedicated, multi-use family recreational center located in Sirte.", "Built to provide safe, enclosed play areas and community gathering spaces.", "Plays a critical psychological role in the city's post-conflict recovery.", "Features shaded seating, manicured gardens, and small event halls.", "Serves as a powerful local symbol of civic resilience and returning normalcy.", "Funded through a mix of local municipal efforts and national rehabilitation grants."],
-      de: ["Veranstaltet Kinderfeste.", "Mit Innen- und Außenbereichen.", "Ein Treffpunkt für Familien in Sirte.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Gyermekünnepségeket rendez.", "Beltéri és kültéri területekkel.", "Találkozóhely családoknak Szirtben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Găzduiește festivaluri pentru copii.", "Cu zone interioare și exterioare.", "Un loc de întâlnire pentru familii în Sirte.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Treffpunkt für Familien in Sirte.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Találkozóhely családoknak Szirtben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un loc de întâlnire pentru familii în Sirte.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/sirte-family-life-v2.webp",
     
     
@@ -527,9 +527,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the deep southwestern Sahara within the Fezzan region.", "Features a massive, dense canopy of highly productive date palms.", "Relies entirely on ancient, complex subterranean water extraction techniques.", "The palm canopy provides crucial shade for growing secondary crops.", "Historically sustained the massive trans-Saharan caravan networks.", "Provides a stunning visual contrast to the surrounding golden sand dunes."],
-      de: ["Baut Gemüse für den Eigenbedarf an.", "Wichtiger Wasserpunkt.", "Traditioneller Anbau in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Zöldséget termel saját fogyasztásra.", "Fontos víznyerő hely.", "Hagyományos termesztés a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cultivă legume pentru consum propriu.", "Punct important de apă.", "Agricultură tradițională în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Traditioneller Anbau in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hagyományos termesztés a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Agricultură tradițională în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/murzuq-oasis-life-v2.webp",
     
     
@@ -555,9 +555,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the extreme southwest near the border with Algeria.", "Maintained primarily by the indigenous Tuareg population.", "Utilizes a highly traditional, communal system for water distribution.", "Focuses primarily on subsistence farming rather than commercial export.", "Produces dates, hardy desert vegetables, and small amounts of grain.", "The agricultural system is a core component of local Tuareg cultural identity."],
-      de: ["Gartenbau mit uralten Methoden.", "Symbol für Anpassung.", "Landbau am Rande des Tassili n'Ajjer.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kertészet ősi módszerekkel.", "Az alkalmazkodás szimbóluma.", "Gazdálkodás a Tassili n'Ajjer szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Grădinărit cu metode străvechi.", "Simbolul adaptării.", "Agricultură la marginea Tassili n'Ajjer.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Landbau am Rande des Tassili n'Ajjer.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Gazdálkodás a Tassili n'Ajjer szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Agricultură la marginea Tassili n'Ajjer.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/ghat-oasis-life-v2.webp",
     
     
@@ -583,9 +583,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located near the coastal, predominantly Amazigh city of Zuwara.", "Designed specifically to halt desertification and stabilize coastal sands.", "Planted with thousands of hardy, drought-resistant eucalyptus and pine trees.", "Functions as a massive, critical windbreak for adjacent agricultural lands.", "Provides a secondary economic benefit through controlled timber harvesting.", "A prime example of successful ecological engineering in North Africa."],
-      de: ["Fördert nachhaltige Landwirtschaft.", "Schützt vor Wüstenbildung.", "Ein landwirtschaftliches Schutzgebiet.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Támogatja a fenntartható gazdálkodást.", "Védelmet nyújt a sivatagosodás ellen.", "Mezőgazdasági védterület.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Promovează agricultura durabilă.", "Protejează împotriva deșertificării.", "O zonă agricolă protejată.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein landwirtschaftliches Schutzgebiet.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Mezőgazdasági védterület.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă agricolă protejată.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/zwara-green-belt-life-v2.webp",
     
     
@@ -611,9 +611,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the harsh Hamada al Hamra, east of the city of Ghadames.", "Characterized by small, intensely managed family agricultural plots.", "Sustained by local, natural artesian springs rather than deep drilling.", "Produces a diverse mix of dates, figs, pomegranates, and vegetables.", "Maintains highly traditional, generations-old farming techniques.", "Remains largely isolated from modern, industrial commercial agriculture."],
-      de: ["Spezialisiert auf Kleingemüse.", "Oft familiengeführt.", "Kleine Gärten in der libyschen Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kis zöldségekre szakosodott.", "Gyakran családi vezetésű.", "Kis kertek a líbiai sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Specializat pe legume mici.", "Adesea de familie.", "Mici grădini în deșertul libian.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Kleine Gärten in der libyschen Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Kis kertek a líbiai sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Mici grădini în deșertul libian.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/darj-oasis-life-v2.webp",
     
     
@@ -639,9 +639,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the steep, arid slopes of the western Nafusa Mountains near Nalut.", "Features ancient, meticulously maintained dry-stone agricultural terraces.", "Designed specifically to capture scarce rainfall and prevent severe soil erosion.", "Primarily utilized for cultivating hardy, deep-rooted olive and almond trees.", "A masterpiece of traditional, sustainable indigenous agricultural engineering.", "Maintained communally by the local Amazigh (Berber) population."],
-      de: ["Sehr effiziente Wassernutzung.", "Kulturerbe der Region.", "Historische Terrassenfelder am Berg.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon hatékony vízhasználat.", "A régió kulturális öröksége.", "Történelmi teraszos földek a hegyen.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Utilizarea apei foarte eficientă.", "Patrimoniul cultural al regiunii.", "Câmpuri în terase istorice pe munte.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Historische Terrassenfelder am Berg.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Történelmi teraszos földek a hegyen.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Câmpuri în terase istorice pe munte.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/nalut-terrace-life-v2.webp",
     
     
@@ -667,9 +667,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, contiguous agricultural zone in the central Al Jufra district.", "Considered the premier region for high-quality date production in Libya.", "Sustained by extracting water from deep, ancient subterranean aquifers.", "Encompasses the historic oasis towns of Hun, Waddan, and Sokna.", "The annual harvest is celebrated with a massive, nationally famous festival.", "A critical, non-oil economic pillar for the central Libyan desert."],
-      de: ["Zentrale Erwerbsquelle für Jufra.", "Landschaftsprägend.", "Großflächiger Anbau von Dattelpalmen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A Dzsufra központi bevételi forrása.", "Meghatározza a tájat.", "Datolyapálmák nagyméretű termesztése.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Sursă centrală de venit pentru Jufra.", "Definește peisajul.", "Cultivarea pe scară largă a palmierilor curmali.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Großflächiger Anbau von Dattelpalmen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Datolyapálmák nagyméretű termesztése.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Cultivarea pe scară largă a palmierilor curmali.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jufra-orchard-life-v2.webp",
     
     
@@ -695,9 +695,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, state-supported agricultural facility located in Tarhuna.", "Specializes in the mass germination of olive, almond, and fruit saplings.", "Produces millions of seedlings annually for nationwide distribution.", "Utilizes vast networks of modern, climate-controlled greenhouses.", "Crucial to national efforts aiming for broader agricultural self-sufficiency.", "Focuses on developing highly resilient, drought-adapted plant varieties."],
-      de: ["Versorgt das Umland mit Bäumen.", "Fokus auf Oliven und Mandeln.", "Ein Betrieb für junge Obstbäume.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fákkal látja el a környező területet.", "Olajbogyóra és mandulára összpontosít.", "Üzem fiatal gyümölcsfák számára.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Aprovizionează zona înconjurătoare cu pomi.", "Se concentrează pe măsline și migdale.", "O unitate pentru pomi fructiferi tineri.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Betrieb für junge Obstbäume.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Üzem fiatal gyümölcsfák számára.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O unitate pentru pomi fructiferi tineri.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tarhuna-nursery-life-v2.webp",
     
     
@@ -723,9 +723,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the coastal hills of the Msallata region, east of Tripoli.", "Features thousands of ancient, historically significant olive trees.", "Considered the absolute premier olive oil producing region in Libya.", "Relies entirely on traditional, sustainable dry-farming techniques.", "The hilly microclimate provides ideal conditions for optimal fruit yield.", "The olive harvest dictates the entire social and economic calendar of the city."],
-      de: ["Jahrhundertealte Bäume.", "Produziert erstklassiges Olivenöl.", "Bedeutende Olivenregion nahe der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Évszázados fák.", "Első osztályú olívaolajat termel.", "Jelentős olíva régió a part közelében.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Pomi de secole.", "Produce ulei de măsline de primă clasă.", "Regiune importantă de măsline lângă coastă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Bedeutende Olivenregion nahe der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jelentős olíva régió a part közelében.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Regiune importantă de măsline lângă coastă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/msallata-olive-life-v2.webp",
     
     
@@ -751,9 +751,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["The primary, central public gathering square in the oasis town of Ghat.", "Located directly adjacent to the town's historic mud-brick Medina.", "The central stage for the massive, nationally famous annual Ghat Festival.", "A vital social hub for the local, indigenous Tuareg community.", "Frequently hosts traditional music performances and artisanal craft markets.", "Provides a rare, open communal space in the densely built desert town."],
-      de: ["Ort für lokale Märkte.", "Treffpunkt der Gemeinde.", "Ein zentraler Ort für Familien in Ghat.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Helyi piacok helyszíne.", "A közösség találkozóhelye.", "Központi hely családoknak Ghatban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Loc pentru piețe locale.", "Loc de întâlnire pentru comunitate.", "Un loc central pentru familii în Ghat.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein zentraler Ort für Familien in Ghat.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Központi hely családoknak Ghatban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un loc central pentru familii în Ghat.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/ghat-family-life-v2.webp",
     
     
@@ -779,9 +779,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A modest, vital public recreational park in the coastal town of Bin Jawad.", "Provides recreational space for families associated with the nearby oil terminals.", "Features hardy, salt-tolerant landscaping suited for the arid coastal climate.", "Offers a sharp, green visual contrast to the surrounding heavy industrial zones.", "Includes essential civic amenities like children's playgrounds and shaded seating.", "Funded heavily by civic investments tied to the regional oil economy."],
-      de: ["Mit Spielgeräten für Kinder.", "Beliebt für Picknicks.", "Ein Park am Rande des Golfs.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Játszóeszközökkel gyermekeknek.", "Népszerű piknikezésre.", "Park az öböl szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cu echipamente de joacă pentru copii.", "Popular pentru picnicuri.", "Un parc la marginea golfului.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Park am Rande des Golfs.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Park az öböl szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un parc la marginea golfului.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/bin-jawad-park-life-v2.webp",
     
     
@@ -807,9 +807,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the Jafara plain, approximately 40 kilometers south of Tripoli.", "Historically famous for recording one of the highest temperatures on Earth.", "Highly productive agricultural zone despite the extreme summer heat.", "Relies heavily on deep subterranean wells for massive irrigation needs.", "Produces significant commercial quantities of grains, citrus, and vegetables.", "A prime example of the heavy reliance on groundwater in Libyan farming."],
-      de: ["Wichtig für die lokale Gemüseversorgung.", "Intensive Landwirtschaft.", "Fruchtbares Ackergebiet südlich von Tripolis.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fontos a helyi zöldségellátásban.", "Intenzív mezőgazdaság.", "Termékeny szántóföldek Tripolitól délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Important pentru aprovizionarea locală cu legume.", "Agricultură intensivă.", "Zonă arabilă fertilă la sud de Tripoli.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Fruchtbares Ackergebiet südlich von Tripolis.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Termékeny szántóföldek Tripolitól délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Zonă arabilă fertilă la sud de Tripoli.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-azizia-agri-life-v2.webp",
     
     
@@ -835,9 +835,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located high in the rugged terrain of the western Nafusa Mountains.", "Benefits from a significantly cooler, more temperate climate than the coast.", "Specializes in the cultivation of hardy figs, almonds, and mountain olives.", "Planted on steep, meticulously maintained traditional stone terraces.", "The limestone-rich soil provides a distinct, highly sought-after flavor.", "Requires immense physical labor, representing deep local agricultural pride."],
-      de: ["Spezialisiert auf lokale Sorten.", "Traditionelle Bewässerung.", "Ein kleiner Obstgarten im Bergland.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Helyi fajtákra szakosodott.", "Hagyományos öntözés.", "Kis gyümölcsöskert a hegyvidéken.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Specializat pe soiuri locale.", "Irigare tradițională.", "O mică livadă în zona montană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein kleiner Obstgarten im Bergland.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Kis gyümölcsöskert a hegyvidéken.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O mică livadă în zona montană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     },
     
     

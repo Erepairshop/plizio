@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPanamaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaNatureV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "concepcion-bugaba-cities-v2",
+      "description": "Concepción egy jelentős város Chiriquí tartományban, a mezőgazdasági régió központja.",
+      "facts": ["Panama nyugati részén fekszik", "Bugaba körzet központja", "Fontos kereskedelmi csomópont"]
+    },
+    {
+      "id": "mina-oro-economic-v2",
+      "description": "Panama területén több történelmi és modern aranybánya található, amelyek gazdaságilag meghatározók.",
+      "facts": ["Értékes nemesfémlelőhely", "Jelentős exportcikk", "Hosszú bányászati hagyomány"]
+    },
+    {
+      "id": "industria-bebidas-economic-v2",
+      "description": "Az italgyártó ipar Panama egyik stabil szektora, amely helyi és nemzetközi piacokra is termel.",
+      "facts": ["Főbb termékek: sör, üdítő", "Jelentős foglalkoztató", "Helyi alapanyagokra épít"]
+    },
+    {
+      "id": "fuerte-san-jeronimo-history-v2",
+      "description": "Portobelo egykori védelmét szolgáló erődítmény a karibi partvidéken.",
+      "facts": ["17. századi építmény", "Spanyol gyarmati védelem", "UNESCO világörökség része"]
+    },
+    {
+      "id": "casa-fuerte-de-la-aduanas-history-v2",
+      "description": "Az egykori vámház a spanyol kereskedelem kulcsfontosságú épülete volt Portobelóban.",
+      "facts": ["Épült: 1630-ban", "Kereskedelmi központ volt", "A spanyol aranyút része"]
+    },
+    {
+      "id": "iglesia-de-san-jose-history-v2",
+      "description": "Panamaváros egyik legrégebbi temploma, híres aranyozott oltáráról.",
+      "facts": ["A gyarmati időszak emléke", "Aranyoltáráról ismert", "Panamaváros Casco Viejo"]
+    },
+    {
+      "id": "fuerte-de-san-laureano-history-v2",
+      "description": "Portobelo erődrendszerének része, amely az öblöt védelmezte a támadóktól.",
+      "facts": ["Védelmi célú erőd", "Spanyol gyarmati stílus", "Fontos stratégiai pont"]
+    },
+    {
+      "id": "estacion-del-ferrocarril-de-panama-history-v2",
+      "description": "A transzpanamai vasút történelmi állomása, amely összekötötte az óceánokat.",
+      "facts": ["1855-ben nyílt meg", "Világ első transzkontinentális vasútja", "Fontos közlekedési örökség"]
+    },
+    {
+      "id": "museo-de-arte-religioso-colonial-history-v2",
+      "description": "Ez a múzeum a gyarmati korszak vallásos művészetét és kincseit mutatja be.",
+      "facts": ["Vallásos művészeti gyűjtemény", "Casco Viejo területén található", "Gyarmati kincseket őriz"]
+    },
+    {
+      "id": "plaza-francia-history-v2",
+      "description": "A Panama-csatorna francia építőinek emlékére kialakított történelmi tér.",
+      "facts": ["A francia csatornaépítés emlékére", "Casco Antiguo része", "Gyönyörű tengerparti kilátás"]
+    }
+  ]
+}

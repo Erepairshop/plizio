@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-pitch-lake-landmarks-v2",
+      "description": "A Pitch Lake a világ legnagyobb természetes aszfalt tava, amely Trinidad délnyugati részén található. A geológiai különlegesség ipari és turisztikai szempontból is jelentős.",
+      "facts": ["Természetes aszfalt-tó", "Geológiai csoda", "Délnyugati rész"]
+    },
+    {
+      "id": "tt-botanic-gardens-landmarks-v2",
+      "description": "A Port of Spain-i Botanikus Kert az ország legrégebbi és legszebb parkja, amely ritka trópusi növények gyűjteményének ad otthont. A kert békés környezetet biztosít a látogatóknak.",
+      "facts": ["Botanikus kert", "Port of Spain", "Trópusi növények", "Történelmi park"]
+    },
+    {
+      "id": "tt-fort-king-peter-landmarks-v2",
+      "description": "Fort King Peter egykori védelmi bástyája fontos szerepet játszott Tobago védelmében. Ma a romok a gyarmati korszak történelmének csendes emlékei.",
+      "facts": ["Tobago erőd", "Gyarmati védelem", "Történelmi emlék"]
+    },
+    {
+      "id": "tt-trinidad-memorial-park-landmarks-v2",
+      "description": "A Trinidad Emlékpark a nemzeti hősök és a történelmi események tiszteletére kialakított terület. A park csendes és méltó környezetet biztosít az emlékezéshez.",
+      "facts": ["Emlékpark", "Nemzeti hősök", "Történelmi tisztelet"]
+    },
+    {
+      "id": "tt-bocas-islands-landmarks-v2",
+      "description": "A Bocas-szigetek a Trinidad és Venezuela közötti tengerszorosban találhatók, amelyek természetes védelmet nyújtanak a vizeknek. A szigetcsoport népszerű a hajósok és a természetjárók körében.",
+      "facts": ["Szigetcsoport", "Tengerszoros", "Természeti védelem"]
+    },
+    {
+      "id": "tt-caribbean-cinema-landmarks-v2",
+      "description": "A Caribbean Cinema az ország egyik legjelentősebb modern kulturális központja, amely népszerű közösségi találkozóhely. A modern létesítményben a legújabb filmeket vetítik.",
+      "facts": ["Kulturális központ", "Mozi", "Közösségi tér"]
+    },
+    {
+      "id": "tt-san-fernando-hill-landmarks-v2",
+      "description": "San Fernando dombja uralja a várost, és kiváló kilátást biztosít az öbölre és a környező tájra. A domb fontos tájékozódási pont és közösségi rekreációs terület.",
+      "facts": ["Kilátó domb", "San Fernando", "Városi panoráma"]
+    },
+    {
+      "id": "tt-trinidad-country-club-landmarks-v2",
+      "description": "A Trinidad Country Club egy történelmi jelentőségű rekreációs központ, amely sportolási és társasági lehetőségeket biztosít a tagoknak. A klubépület elegáns környezetet nyújt.",
+      "facts": ["Rekreációs központ", "Sportklub", "Történelmi jelentőség"]
+    }
+  ]
+}

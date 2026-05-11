@@ -1,0 +1,119 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nile-valley-relief-v2",
+      "description": "Valea fertilă a Nilului, formând o arteră vitală în centrul deșertului.",
+      "facts": ["Valea Nilului", "Formă de relief fertilă", "Arteră vitală", "Cultură fluvială"]
+    },
+    {
+      "id": "jebel-kurun-relief-v2",
+      "description": "Masiv muntos în regiunea sudică, cu relief accidentat și văi adânci.",
+      "facts": ["Regiunea sudică", "Masiv muntos", "Relief accidentat", "Topografie diversă"]
+    },
+    {
+      "id": "jebel-el-ain-relief-v2",
+      "description": "Formațiune muntoasă izolată, reprezentativă pentru relieful central sudanez.",
+      "facts": ["Sudanul Central", "Munte izolat", "Formă geologică", "Topografie locală"]
+    },
+    {
+      "id": "wadi-el-milk-relief-v2",
+      "description": "Vale largă (wadi) în deșertul sudanez, ilustrând eroziunea naturală din arid.",
+      "facts": ["Vale deșertică", "Wadi", "Eroziune naturală", "Topografie aridă"]
+    },
+    {
+      "id": "jebel-shabluka-relief-v2",
+      "description": "Defileu spectaculos al Nilului, cunoscut pentru formațiunile stâncoase înguste.",
+      "facts": ["Defileu pe Nil", "Formațiuni stâncoase", "Peisaj geologic", "Relief îngust"]
+    },
+    {
+      "id": "taka-mountains-relief-v2",
+      "description": "Grupă de munți lângă Kassala, cu forme neobișnuite și pante abrupte.",
+      "facts": ["Lângă Kassala", "Munți cu forme unice", "Pante abrupte", "Relief spectaculos"]
+    },
+    {
+      "id": "jebel-gebeit-relief-v2",
+      "description": "Masiv muntos în Munții Mării Roșii, parte a unei centuri geologice vechi.",
+      "facts": ["Munții Mării Roșii", "Masiv muntos", "Relief geologic", "Topografie estică"]
+    },
+    {
+      "id": "nubian-hills-relief-v2",
+      "description": "Sistem de dealuri și munți în regiunea Nubiană, formând un platou arid.",
+      "facts": ["Regiunea Nubiană", "Sistem de dealuri", "Platou arid", "Relief montan"]
+    },
+    {
+      "id": "jebel-abiyad-relief-v2",
+      "description": "Formațiune muntoasă stâncoasă în deșert, punct de reper geologic.",
+      "facts": ["Regiune deșertică", "Formațiune stâncoasă", "Punct de reper", "Relief izolat"]
+    },
+    {
+      "id": "kosti-ridge-relief-v2",
+      "description": "Crestă de relief joasă în zona Kosti, influențând scurgerea apelor.",
+      "facts": ["Zona Kosti", "Crestă de relief", "Influențe hidrologice", "Topografie joasă"]
+    },
+    {
+      "id": "jebel-dair-massif-relief-v2",
+      "description": "Masiv muntos în Kordofan, dominând peisajul local cu altitudinile sale.",
+      "facts": ["Regiunea Kordofan", "Masiv muntos", "Relief dominant", "Topografie înaltă"]
+    },
+    {
+      "id": "wadi-howar-delta-relief-v2",
+      "description": "Zonă de depunere aluvionară la capătul Wadi Howar, formând un relief plat.",
+      "facts": ["Delta Wadi Howar", "Depuneri aluvionare", "Relief plat", "Topografie deșertică"]
+    },
+    {
+      "id": "jebel-marra-highlands-relief-v2",
+      "description": "Platou înalt vulcanic în vestul Sudanului, cu relief variat și altitudini mari.",
+      "facts": ["Vestul Sudanului", "Platou vulcanic", "Relief variat", "Altitudine înaltă"]
+    },
+    {
+      "id": "atbara-plain-relief-v2",
+      "description": "Câmpie întinsă străbătută de râul Atbara, cu relief predominant plat.",
+      "facts": ["Regiunea Atbara", "Câmpie întinsă", "Relief plat", "Topografie fluvială"]
+    },
+    {
+      "id": "jebel-soturba-relief-v2",
+      "description": "Masiv muntos în sudul Munților Mării Roșii, oferind un relief arid și accidentat.",
+      "facts": ["Munții Mării Roșii", "Masiv muntos", "Relief arid", "Topografie accidentată"]
+    },
+    {
+      "id": "wadi-azum-valley-relief-v2",
+      "description": "Vale fertilă în zona Darfur, cu un relief modelat de inundațiile sezoniere.",
+      "facts": ["Regiunea Darfur", "Vale fertilă", "Relief modelat", "Topografie fluvială"]
+    },
+    {
+      "id": "nuba-hills-central-relief-v2",
+      "description": "Nucleul central al Munților Nuba, caracterizat prin numeroase dealuri și văi.",
+      "facts": ["Centrul Munților Nuba", "Sistem de dealuri", "Relief variat", "Topografie centrală"]
+    },
+    {
+      "id": "jebel-uwaynat-sudan-relief-v2",
+      "description": "Masiv muntos izolat la granița vestică, un relief unic în mijlocul Saharei.",
+      "facts": ["Granița vestică", "Masiv izolat", "Relief unic", "Topografie deșertică"]
+    },
+    {
+      "id": "dongola-plain-relief-v2",
+      "description": "Câmpie largă de-a lungul Nilului în zona Dongola, cu relief plat și soluri aluvionare.",
+      "facts": ["Zona Dongola", "Câmpie largă", "Relief plat", "Topografie fluvială"]
+    },
+    {
+      "id": "jebel-mimi-relief-v2",
+      "description": "Formațiune muntoasă singulară în peisajul din Sudanul de Vest.",
+      "facts": ["Sudanul de Vest", "Formațiune muntoasă", "Relief singular", "Topografie locală"]
+    },
+    {
+      "id": "wadi-howar-upper-relief-v2",
+      "description": "Partea superioară a văii Wadi Howar, caracterizată prin relief arid deșertic.",
+      "facts": ["Valea Wadi Howar", "Relief arid", "Topografie deșertică", "Eroziune eoliană"]
+    },
+    {
+      "id": "khor-el-gash-plain-relief-v2",
+      "description": "Câmpie fertilă formată de revărsările râului Gash în estul țării.",
+      "facts": ["Regiunea estică", "Câmpie fertilă", "Relief modelat", "Topografie fluvială"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ponta-varela-lighthouse-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Leuchtturm von Ponta Varela befindet sich an der nordwestlichen Spitze von Guinea-Bissau, nahe der Grenze zu Senegal. Dieser strategisch wichtige Navigationspunkt markiert den Übergang von der offenen Atlantikküste zu den flacheren Küstengewässern der Region Cacheu. Die Architektur des Turms ist funktional und robust, entworfen, um den harten Bedingungen der salzhaltigen Meeresluft und den starken Winden der Küstenzone standzuhalten. Ursprünglich während der Kolonialzeit errichtet, spielt der Leuchtturm eine entscheidende Rolle für die Sicherheit der regionalen Schifffahrt, insbesondere für Fischerboote und Küstenfrachter, die zwischen Bissau und den nördlichen Nachbarländern verkehren. Die Umgebung von Varela ist bekannt für ihre unberührten Strände und die dichte Vegetation, was dem Leuchtturm eine isolierte und fast majestätische Aura verleiht. Für Seefahrer ist sein Signal oft der einzige Orientierungspunkt in einer Region, die durch dichte Mangrovenwälder und schwer zugängliche Küstenabschnitte geprägt ist. Trotz der eingeschränkten Instandhaltung in den letzten Jahrzehnten bleibt der Turm ein unverzichtbares technisches Denkmal, das die maritime Geschichte und die geografische Bedeutung der Nordküste Guinea-Bissaus dokumentiert.",
+        "hu": "A Ponta Varela világítótorony Guinea-Bissau északnyugati csücskében, a szenegáli határ közelében található. Ez a stratégiai navigációs pont jelzi az átmenetet a nyílt Atlanti-óceán és a Cacheu régió sekélyebb part menti vizei között. A torony építészete funkcionális és robusztus, amelyet úgy terveztek, hogy ellenálljon a sós tengeri levegő és az erős part menti szelek koptató hatásának. A gyarmati időszakban emelt építmény kulcsszerepet játszik a regionális hajózás biztonságában, különösen a halászhajók és a Bissau, valamint az északi szomszédos országok között közlekedő kisebb teherhajók számára. Varela környéke híres érintetlen strandjairól és dús növényzetéről, ami a világítótoronynak elszigetelt, szinte monumentális jelleget kölcsönöz. A tengerészek számára a torony fénye gyakran az egyetlen biztos pont egy olyan vidéken, amelyet sűrű mangroveerdők és nehezen megközelíthető part szakaszok határoznak meg. Bár az elmúlt évtizedekben a karbantartás akadozott, a torony továbbra is nélkülözhetetlen technikai emlék, amely Guinea-Bissau északi partvidékének tengeri múltját és földrajzi fontosságát hirdeti.",
+        "ro": "Farul Ponta Varela este situat în extremitatea nord-vestică a Guineei-Bissau, în apropierea frontierei cu Senegal. Acest punct strategic de navigație marchează tranziția de la apele deschise ale Oceanului Atlantic către zonele de coastă mai puțin adânci ale regiunii Cacheu. Arhitectura turnului este una funcțională și robustă, fiind concepută pentru a rezista condițiilor aspre impuse de aerul salin și vânturile puternice caracteristice zonei litorale. Ridicat inițial în perioada colonială, farul joacă un rol crucial în siguranța navigației regionale, fiind un reper vital pentru ambarcațiunile de pescuit și navele de cabotaj care circulă între Bissau și porturile din țările vecine. Împrejurimile localității Varela sunt renumite pentru plajele lor sălbatice și vegetația densă, oferind farului o aură de izolare aproape mistică. Pentru marinari, semnalul său luminos reprezintă adesea singurul punct de orientare într-o regiune definită de mangrove dese și țărmuri greu accesibile. În ciuda degradării survenite în ultimele decenii, turnul rămâne un monument tehnic indispensabil, documentând istoria maritimă și importanța geografică a coastei de nord a țării.",
+        "en": "The Ponta Varela Lighthouse is located on the northwestern tip of Guinea-Bissau, near the border with Senegal. This strategic navigational point marks the transition from the open Atlantic Ocean to the shallower coastal waters of the Cacheu region. The tower's architecture is functional and sturdy, designed to withstand the harsh conditions of saline sea air and the strong coastal winds. Originally built during the colonial era, the lighthouse plays a critical role in regional maritime safety, particularly for fishing vessels and coastal freighters traveling between Bissau and neighboring northern countries. The area surrounding Varela is famous for its pristine beaches and dense vegetation, giving the lighthouse an isolated and almost majestic presence. For sailors, its signal is often the only landmark in a region characterized by thick mangrove forests and difficult-to-access coastlines. Despite limited maintenance in recent decades, the tower remains an essential technical monument, documenting the maritime history and geographic significance of Guinea-Bissau's northern coast."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Leuchtturm befindet sich am nördlichsten Punkt der guineischen Küste.",
+          "Er dient als wichtige Navigationshilfe für den Seeverkehr nach Senegal.",
+          "Die Region Varela ist für ihre weißen Sandstrände und Dünen bekannt.",
+          "Die Konstruktion besteht aus verstärktem Beton und Mauerwerk.",
+          "Der Turm ist eines der wenigen permanenten Bauwerke in diesem Küstenabschnitt.",
+          "Sein Lichtkegel ist bei klarem Wetter über mehrere Seemeilen sichtbar."
+        ],
+        "hu": [
+          "A világítótorony Guinea-Bissau legészakibb part menti tájékozódási pontja.",
+          "Segíti a hajók navigációját a Casamance-folyó torkolata felé.",
+          "Varela térsége az ország egyik legnépszerűbb ökoturisztikai célpontja.",
+          "A torony magassága biztosítja a láthatóságot a sűrű parti ködben is.",
+          "A szerkezet a késő gyarmati korszak mérnöki megoldásait tükrözi.",
+          "A környéken található dűnék és erdők védett természeti területet alkotnak."
+        ],
+        "ro": [
+          "Farul este situat în apropierea punctului de trecere a frontierei spre Senegal.",
+          "Reprezintă principalul ajutor de navigație pentru golful Varela.",
+          "Construcția sa a facilitat dezvoltarea comerțului maritim în nordul țării.",
+          "Este un simbol al prezenței statului în zonele de coastă izolate.",
+          "Arhitectura sa este adaptată pentru a rezista eroziunii marine constante.",
+          "Zona este cunoscută pentru biodiversitatea sa marină și terestră."
+        ],
+        "en": [
+          "The lighthouse is the northernmost coastal beacon in Guinea-Bissau.",
+          "It provides essential guidance for ships entering the Casamance region.",
+          "Varela is considered one of the most beautiful and remote beach areas in the country.",
+          "The structure's height allows its light to penetrate seasonal coastal mists.",
+          "It serves as a critical point for monitoring illegal fishing in northern waters.",
+          "The lighthouse is a rare example of coastal infrastructure in the Tombali region."
+        ]
+      }
+    },
+    {
+      "id": "cacheu-river-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Brücke über den Rio Cacheu ist ein zentrales Element der Verkehrsinfrastruktur im Norden Guinea-Bissaus. Als eine der längsten Brücken des Landes verbindet sie die historische Stadt Cacheu mit den nördlichen Regionen und stellt eine lebenswichtige Landverbindung dar. Vor ihrem Bau war der Transport über den breiten Fluss mühsam und zeitaufwendig, was die wirtschaftliche Entwicklung der Region einschränkte. Die Architektur der Brücke ist eine moderne Betonkonstruktion, die darauf ausgelegt ist, die erheblichen Wassermassen und Gezeitenströmungen des Rio Cacheu sicher zu überqueren. Die Brücke bietet Reisenden nicht nur eine schnelle Passage, sondern auch einen beeindruckenden Blick auf die ausgedehnten Mangrovenwälder, die den Fluss säumen. Diese Mangroven sind Teil eines geschützten Ökosystems, und die Brücke ermöglicht einen einzigartigen Blickwinkel auf die reiche Biodiversität der Region. Als Symbol für Modernisierung und regionalen Zusammenhalt erleichtert das Bauwerk den Austausch von Waren und Dienstleistungen zwischen dem Norden und dem Rest des Landes. Trotz der hohen Luftfeuchtigkeit und der korrosiven Meeresluft bleibt die Brücke ein robustes Zeugnis für den Infrastrukturausbau Guinea-Bissaus in der postkolonialen Ära.",
+        "hu": "A Cacheu-folyón átívelő híd Guinea-Bissau északi részének egyik legfontosabb közlekedési létesítménye. Mint az ország egyik leghosszabb hídja, összeköti a történelmi Cacheu városát az északi régiókkal, létfontosságú szárazföldi összeköttetést biztosítva. Megépítése előtt az átkelés a széles folyón nehézkes és időigényes volt, ami gátolta a térség gazdasági fejlődését. A híd modern betonkonstrukció, amelyet úgy terveztek, hogy biztonságosan ellenálljon a Cacheu-folyó hatalmas víztömegének és erős árapály-áramlatainak. Az utazók számára a híd nemcsak gyors áthaladást biztosít, hanem lenyűgöző kilátást is nyújt a folyót szegélyező kiterjedt mangroveerdőkre. Ezek a mangroveerdők egy védett ökoszisztéma részét képezik, és a híd egyedülálló perspektívát kínál a régió gazdag biodiverzitására. A modernizáció és a regionális összefogás szimbólumaként az építmény megkönnyíti az áruk és szolgáltatások cseréjét az északi vidékek és az ország többi része között. A magas páratartalom és a korrozív tengeri levegő ellenére a híd robusztus tanúbizonysága Guinea-Bissau posztkoloniális korszakbeli infrastruktúra-fejlesztési törekvéseinek.",
+        "ro": "Podul de peste râul Cacheu este un element central al infrastructurii de transport din nordul Guineei-Bissau. Fiind unul dintre cele mai lungi poduri din țară, acesta conectează orașul istoric Cacheu cu regiunile nordice, reprezentând o legătură terestră vitală. Înainte de construcția sa, tranzitul peste fluviul lat era anevoios și consumator de timp, limitând dezvoltarea economică a regiunii. Arhitectura podului este o construcție modernă din beton, proiectată să traverseze în siguranță masele semnificative de apă și curenții de maree ai râului Cacheu. Podul oferă călătorilor nu doar o trecere rapidă, ci și o priveliște impresionantă asupra pădurilor vaste de mangrove care mărginesc fluviul. Aceste mangrove fac parte dintr-un ecosistem protejat, iar podul permite un unghi de vizualizare unic asupra biodiversității bogate a regiunii. Ca simbol al modernizării și coeziunii regionale, structura facilitează schimbul de bunuri și servicii între nord și restul țării. În ciuda umidității ridicate și a aerului marin coroziv, podul rămâne o dovadă robustă a extinderii infrastructurii Guineei-Bissau în era post-colonială.",
+        "en": "The bridge over the Cacheu River is a central component of the transport infrastructure in northern Guinea-Bissau. As one of the country's longest bridges, it connects the historic city of Cacheu with northern regions, providing a vital overland link. Before its construction, crossing the wide river was difficult and time-consuming, which hindered the region's economic development. The bridge's architecture is a modern concrete structure designed to safely span the significant water masses and tidal currents of the Cacheu River. The bridge offers travelers not only quick passage but also an impressive view of the extensive mangrove forests lining the river. These mangroves are part of a protected ecosystem, and the bridge provides a unique vantage point to observe the region's rich biodiversity. As a symbol of modernization and regional cohesion, the structure facilitates the exchange of goods and services between the north and the rest of the country. Despite high humidity and corrosive sea air, the bridge remains a robust testament to Guinea-Bissau's infrastructure development in the post-colonial era."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brücke ist eine der wichtigsten Nord-Süd-Verbindungen des Landes.",
+          "Sie überquert den Rio Cacheu in der Nähe des gleichnamigen Nationalparks.",
+          "Der Bau hat die Fahrzeit zwischen Bissau und der Grenze erheblich verkürzt.",
+          "Die Konstruktion ist für schwere Lastkraftwagen ausgelegt.",
+          "Von der Brücke aus lassen sich oft seltene Vogelarten in den Mangroven beobachten.",
+          "Die Pfeiler der Brücke sind tief im schlammigen Flussbett verankert."
+        ],
+        "hu": [
+          "A híd stratégiai jelentőségű a Szenegállal folytatott kereskedelemben.",
+          "Az építmény a Rio Cacheu Mangrove Nemzeti Park közvetlen közelében fekszik.",
+          "A híd pillérei speciális betonból készültek a sós víz elleni védelem érdekében.",
+          "Ez az egyik leghosszabb közúti híd Guinea-Bissau területén.",
+          "A hídról jól látható a folyó deltájának egyedülálló növényvilága.",
+          "Megépítése alapjaiban változtatta meg Cacheu városának logisztikai helyzetét."
+        ],
+        "ro": [
+          "Podul facilitează accesul rapid către regiunea Oio și frontiera de nord.",
+          "Este o lucrare de inginerie majoră realizată după obținerea independenței.",
+          "Structura permite trecerea vaselor de mici dimensiuni pe sub tablier.",
+          "Locația sa oferă o panoramă spectaculoasă asupra ecosistemului de mangrove.",
+          "Podul a fost vital pentru integrarea economică a regiunii Cacheu.",
+          "Reprezintă un punct critic pe ruta comercială trans-guineeană."
+        ],
+        "en": [
+          "The bridge is a key part of the international highway linking Bissau and Ziguinchor.",
+          "It spans the Cacheu River, which is a major waterway in the north.",
+          "Its completion significantly boosted the local economy in the Cacheu district.",
+          "The bridge is a prominent landmark for travelers heading to Varela.",
+          "It offers one of the best views of the pristine West African mangrove forests.",
+          "The structure was designed to withstand extreme tropical weather and tides."
+        ]
+      }
+    },
+    {
+      "id": "antula-sports-complex-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Antula-Sportkomplex ist eine moderne Sport- und Freizeiteinrichtung im aufstrebenden Stadtteil Antula im Norden der Hauptstadt Bissau. Der Komplex wurde entworfen, um der wachsenden Bevölkerung der Stadt, insbesondere der Jugend, hochwertige Möglichkeiten zur sportlichen Betätigung und zur Gemeinschaftsbildung zu bieten. Die Architektur zeichnet sich durch funktionale Sportfelder für Fußball, Basketball und andere Disziplinen aus, die nach modernen Standards gestaltet sind. Der Antula-Sportkomplex ist mehr als nur eine Ansammlung von Spielfeldern; er fungiert als soziales Zentrum, in dem lokale Vereine trainieren, Turniere ausgetragen werden und junge Talente gefördert werden können. In einer Stadt, in der öffentliche Räume für Sport und Erholung oft knapp sind, stellt dieser Komplex eine wichtige Investition in die soziale Infrastruktur dar. Das Design fördert die Inklusion und bietet auch Platz für kulturelle Veranstaltungen und Nachbarschaftstreffen. Für die Bewohner von Antula ist der Komplex ein Symbol für die Entwicklung ihres Stadtteils und ein Ort, der zur Verbesserung der Lebensqualität beiträgt. Trotz der begrenzten Ressourcen für die Instandhaltung bleibt die Einrichtung ein pulsierender Ort der Energie und des Zusammenhalts in Bissau.",
+        "hu": "Az Antula sportkomplexum egy modern sport- és szabadidős létesítmény a főváros, Bissau északi részén található fejlődő Antula negyedben. A komplexumot azért hozták létre, hogy a város növekvő lakossága, különösen a fiatalok számára magas színvonalú sportolási és közösségépítési lehetőségeket biztosítson. Az építészetét funkcionális kialakítás jellemzi: labdarúgó-, kosárlabda- és egyéb sportpályák alkotják, amelyeket a modern szabványoknak megfelelően terveztek. Az Antula sportkomplexum több mint egyszerű sportpályák gyűjteménye; társadalmi központként funkcionál, ahol helyi klubok edzenek, bajnokságokat rendeznek, és ahol a fiatal tehetségek kibontakozhatnak. Egy olyan városban, ahol a sportra és kikapcsolódásra alkalmas nyilvános terek gyakran szűkösek, ez a komplexum jelentős beruházást képvisel a szociális infrastruktúrába. A tervezés elősegíti a befogadást, és helyet biztosít kulturális eseményeknek és szomszédsági találkozóknak is. Az Antula negyed lakói számára a komplexum városrészük fejlődésének szimbóluma, amely hozzájárul az életminőség javításához. A fenntartásra fordítható szűkös források ellenére a létesítmény Bissau energiával teli és összetartó központja marad.",
+        "ro": "Complexul Sportiv Antula este o facilitate modernă de sport și recreere situată în cartierul în plină dezvoltare Antula, în partea de nord a capitalei Bissau. Complexul a fost proiectat pentru a oferi populației în creștere a orașului, în special tinerilor, oportunități de înaltă calitate pentru activități sportive și consolidarea comunității. Arhitectura se caracterizează prin terenuri sportive funcționale pentru fotbal, baschet și alte discipline, concepute conform standardelor moderne. Complexul Sportiv Antula este mai mult decât o simplă colecție de terenuri de joc; funcționează ca un centru social unde cluburile locale se antrenează, se organizează turnee și unde talentele tinere pot fi promovate. Într-un oraș în care spațiile publice pentru sport și recreere sunt adesea limitate, acest complex reprezintă o investiție importantă în infrastructura socială. Designul promovează incluziunea și oferă spațiu pentru evenimente culturale și întâlniri comunitare. Pentru locuitorii din Antula, complexul este un simbol al dezvoltării cartierului lor și un loc care contribuie la îmbunătățirea calității vieții. În ciuda resurselor limitate pentru întreținere, facilitatea rămâne un loc vibrant, plin de energie și coeziune în Bissau.",
+        "en": "The Antula Sports Complex is a modern sports and leisure facility located in the growing Antula district in the northern part of the capital, Bissau. The complex was designed to provide the city's expanding population, particularly its youth, with high-quality opportunities for sports and community building. Its architecture is characterized by functional sports fields for football, basketball, and other disciplines, designed according to modern standards. The Antula Sports Complex is more than just a collection of playing fields; it functions as a social hub where local clubs train, tournaments are held, and young talents can be nurtured. In a city where public spaces for sports and recreation are often scarce, this complex represents an important investment in social infrastructure. The design promotes inclusion and also provides space for cultural events and neighborhood gatherings. For the residents of Antula, the complex is a symbol of their district's development and a place that contributes to improving the quality of life. Despite limited resources for maintenance, the facility remains a vibrant place of energy and cohesion in Bissau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Komplex ist ein Pilotprojekt zur Förderung des Jugendsports in Bissau.",
+          "Er verfügt über einen der wenigen Basketballplätze mit Standardmaßen in der Stadt.",
+          "Lokale Fußballakademien nutzen die Felder regelmäßig für ihr Training.",
+          "Der Stadtteil Antula gilt als eines der am schnellsten wachsenden Wohngebiete.",
+          "Der Sportkomplex wird oft für interkulturelle Turniere genutzt.",
+          "Die Anlage ist ein wichtiger Treffpunkt für soziale Integrationsprojekte."
+        ],
+        "hu": [
+          "A komplexum Bissau északi részének legfontosabb sportközpontja.",
+          "A kosárlabdapálya népszerű a helyi egyetemi hallgatók körében.",
+          "A létesítmény hozzájárul a fiatalok egészséges életmódra neveléséhez.",
+          "Antula negyede a város egyik modernizálódó lakóövezete.",
+          "A sportpályák esti kivilágítással is rendelkeznek, ami ritka a városban.",
+          "A központ fontos bázisa a helyi amatőr labdarúgó ligának."
+        ],
+        "ro": [
+          "Complexul este un punct central pentru activitățile recreative din nordul capitalei.",
+          "Dispune de facilități pentru diverse ramuri sportive olimpice.",
+          "A fost construit pentru a sprijini dezvoltarea talentelor sportive locale.",
+          "Districtul Antula găzduiește o populație tânără și dinamică.",
+          "Locul este folosit frecvent pentru evenimente caritabile și concerte.",
+          "Infrastructura sportivă modernă atrage tineri din toate zonele orașului."
+        ],
+        "en": [
+          "The complex is a flagship project for urban youth development in Bissau.",
+          "It includes specialized areas for martial arts and athletics.",
+          "The facility is a primary venue for regional basketball championships.",
+          "Antula has become a key residential hub for civil servants and professionals.",
+          "The sports complex is often used for community health and fitness programs.",
+          "It serves as a model for future neighborhood-based sports facilities."
+        ]
+      }
+    },
+    {
+      "id": "portuguese-cultural-center-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Portugiesische Kulturzentrum in Bissau (Centro Cultural Português - Camões) ist eine der einflussreichsten kulturellen Institutionen in Guinea-Bissau. Gelegen im Herzen der Hauptstadt, fungiert es als wichtiges Bindeglied zwischen den lusophonen Kulturen und fördert den Austausch von Kunst, Literatur und Bildung. Das Zentrum beherbergt eine umfangreiche Bibliothek, die sowohl portugiesische Klassiker als auch Werke lokaler Autoren umfasst, und ist ein geschätzter Ort für Studenten und Forscher. Die Architektur des Zentrums verbindet moderne Funktionalität mit einem einladenden Design, das Galerien für wechselnde Ausstellungen zeitgenössischer Kunst sowie einen Veranstaltungssaal für Konzerte, Filmvorführungen und Vorträge bietet. Das Centro Cultural Português spielt eine zentrale Rolle bei der Ausbildung lokaler Künstler und Literaten durch Workshops und Stipendienprogramme. Für die Bürger von Bissau ist das Zentrum ein Fenster zur Welt der portugiesischsprachigen Länder und ein lebendiger Ort des intellektuellen Diskurses. Es dokumentiert die anhaltende Bedeutung der lusophonen Identität in Guinea-Bissau und trägt zur kulturellen Vielfalt der Hauptstadt bei. Als Ort der Begegnung und des Lernens ist es ein unverzichtbarer Bestandteil der nationalen Kulturlandschaft.",
+        "hu": "A bissaui Portugál Kulturális Központ (Centro Cultural Português - Camões) Guinea-Bissau egyik legbefolyásosabb kulturális intézménye. A főváros szívében található központ fontos kapcsot jelent a portugál nyelvű kultúrák között, és elősegíti a művészet, az irodalom és az oktatás cseréjét. Az intézmény egy kiterjedt könyvtárnak ad otthont, amely portugál klasszikusokat és helyi szerzők műveit egyaránt tartalmazza, így a diákok és kutatók körében nagyra becsült helyszín. A központ építészete a modern funkcionalitást ötvözi a hívogató dizájnnal; galériákat kínál kortárs művészeti kiállítások számára, valamint egy előadótermet koncertek, filmvetítések és előadások lebonyolításához. A Portugál Kulturális Központ központi szerepet játszik a helyi művészek és írók képzésében workshopok és ösztöndíjprogramok révén. Bissau lakói számára a központ ablakot nyit a portugál nyelvű országok világára, és az intellektuális párbeszéd élénk színtere. Dokumentálja a lusofón identitás tartós jelentőségét Guinea-Bissauban, és hozzájárul a főváros kulturális sokszínűségéhez. Találkozási és tanulási helyszínként a nemzeti kulturális élet nélkülözhetetlen eleme.",
+        "ro": "Centrul Cultural Portughez din Bissau (Centro Cultural Português - Camões) este una dintre cele mai influente instituții culturale din Guineea-Bissau. Situat în inima capitalei, acesta funcționează ca o legătură importantă între culturile lusofone și promovează schimbul de artă, literatură și educație. Centrul adăpostește o bibliotecă vastă, care cuprinde atât clasici portughezi, cât și lucrări ale autorilor locali, fiind un loc prețuit de studenți și cercetători. Arhitectura centrului combină funcționalitatea modernă cu un design primitor, oferind galerii pentru expoziții temporare de artă contemporană și o sală de spectacole pentru concerte, proiecții de filme și conferințe. Centro Cultural Português joacă un rol central în formarea artiștilor și scriitorilor locali prin ateliere și programe de burse. Pentru cetățenii din Bissau, centrul este o fereastră către lumea țărilor vorbitoare de limbă portugheză și un loc vibrant pentru discursul intelectual. Acesta documentează importanța continuă a identității lusofone în Guineea-Bissau și contribuie la diversitatea culturală a capitalei. Ca loc de întâlnire și învățare, este o componentă indispensabilă a peisajului cultural național.",
+        "en": "The Portuguese Cultural Center in Bissau (Centro Cultural Português - Camões) is one of the most influential cultural institutions in Guinea-Bissau. Located in the heart of the capital, it serves as an important link between Lusophone cultures and promotes the exchange of art, literature, and education. The center houses an extensive library that includes both Portuguese classics and works by local authors, making it a valued site for students and researchers. Its architecture blends modern functionality with a welcoming design, featuring galleries for rotating contemporary art exhibitions and a hall for concerts, film screenings, and lectures. The Portuguese Cultural Center plays a central role in training local artists and writers through workshops and scholarship programs. For the citizens of Bissau, the center is a window into the world of Portuguese-speaking countries and a vibrant space for intellectual discourse. It documents the enduring significance of the Lusophone identity in Guinea-Bissau and contributes to the capital's cultural diversity. As a place for meeting and learning, it is an essential part of the national cultural landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Zentrum wird vom portugiesischen Camões-Institut verwaltet.",
+          "Es ist ein wichtiges Prüfungszentrum für portugiesische Sprachzertifikate.",
+          "Die Bibliothek gilt als eine der bestausgestatteten des Landes.",
+          "Regelmäßige Ausstellungen zeigen Werke zeitgenössischer guineischer Maler.",
+          "Das Zentrum liegt in unmittelbarer Nähe zum Regierungsviertel.",
+          "Es bietet Programme zur Förderung der portugiesischen Sprache in Schulen."
+        ],
+        "hu": [
+          "A központot a portugál Camões Intézet tartja fenn.",
+          "Fontos helyszíne a nemzetközi portugál nyelvvizsgáknak.",
+          "A könyvtár gyűjteménye kiemelkedő a térségben.",
+          "A galéria rendszeresen ad helyet helyi és nemzetközi művészek tárlatainak.",
+          "Az intézmény szoros kapcsolatot ápol a Bissau-guineai Nemzeti Könyvtárral.",
+          "Ösztöndíjakat biztosít guineai diákoknak portugáliai tanulmányokhoz."
+        ],
+        "ro": [
+          "Este un motor principal al scenei literare din Bissau.",
+          "Centrul organizează săptămâni de film lusofon în fiecare an.",
+          "Găzduiește cursuri de perfecționare pentru profesorii de limba portugheză.",
+          "Arhitectura clădirii este un exemplu de design instituțional modern.",
+          "Este un punct focal pentru cercetătorii istoriei coloniale și post-coloniale.",
+          "Locația sa centrală îl face ușor accesibil pentru marele public."
+        ],
+        "en": [
+          "The center is operated by the Portuguese Camões Institute.",
+          "It serves as a primary hub for Portuguese language proficiency exams.",
+          "The library is one of the most reliable academic resources in Bissau.",
+          "It frequently hosts events celebrating the shared history of CPLP countries.",
+          "The facility supports local publishers and the distribution of literature.",
+          "It acts as a prestigious venue for diplomatic and cultural receptions."
+        ]
+      }
+    },
+    {
+      "id": "canchungo-church-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kirche von Canchungo ist ein bedeutendes religiöses Wahrzeichen in der Stadt Canchungo, dem kulturellen Zentrum des Manjaco-Volkes. Das Kirchengebäude zeichnet sich durch seine schlichte, aber würdevolle Architektur aus, die Einflüsse der portugiesischen Missionsbaukunst widerspiegelt. Mit ihrem markanten Glockenturm und der hellen Fassade ist sie ein weithin sichtbarer Orientierungspunkt im Stadtzentrum. Die Kirche dient nicht nur als Ort des Gottesdienstes für die katholische Gemeinde, sondern ist auch ein wichtiges soziales Zentrum, das tief im täglichen Leben der Region verwurzelt ist. In einer Gegend, die für ihre starken traditionellen Bräuche bekannt ist, symbolisiert die Kirche das jahrzehntelange Wirken der christlichen Missionen und deren Beitrag zur Bildung und sozialen Entwicklung. Das Innere der Kirche bietet einen Raum der Stille und Besinnung, der einen ruhigen Kontrast zum lebhaften Markttreiben von Canchungo bildet. Für die Bewohner der Stadt und der umliegenden Dörfer ist die Kirche ein Symbol für Glauben und Gemeinschaft. Als historisches Bauwerk dokumentiert sie den kulturellen Wandel und die religiöse Vielfalt in der Region Cacheu.",
+        "hu": "Canchungo temploma fontos vallási nevezetesség Canchungo városában, amely a manjaco népcsoport kulturális központja. A templomépületet egyszerű, de méltóságteljes építészet jellemzi, amely a portugál missziós építészet hatásait tükrözi. Jellegzetes harangtornyával és világos homlokzatával a városközpont messziről látható tájékozódási pontja. A templom nemcsak a katolikus közösség istentiszteleti helyeként szolgál, hanem fontos társadalmi központ is, amely mélyen gyökerezik a régió mindennapi életében. Egy olyan területen, amely erős hagyományos szokásairól ismert, a templom a keresztény missziók évtizedes munkáját, valamint az oktatáshoz és a társadalmi fejlődéshez való hozzájárulását jelképezi. A templom belső tere a csend és az elmélkedés helyszíne, amely nyugodt kontrasztot alkot Canchungo nyüzsgő piaci forgatagával. A város és a környező falvak lakói számára a templom a hit és a közösség szimbóluma. Történelmi épületként dokumentálja a kulturális változásokat és a vallási sokszínűséget a Cacheu régióban.",
+        "ro": "Biserica din Canchungo este un reper religios semnificativ în orașul Canchungo, centrul cultural al poporului Manjaco. Edificiul se remarcă prin arhitectura sa simplă, dar demnă, care reflectă influențele arhitecturii misionare portugheze. Cu turnul său clopotniță distinctiv și fațada luminoasă, este un punct de orientare vizibil de la distanță în centrul orașului. Biserica nu servește doar ca loc de cult pentru comunitatea catolică, ci este și un centru social important, profund înrădăcinat în viața de zi cu zi a regiunii. Într-o zonă cunoscută pentru obiceiurile sale tradiționale puternice, biserica simbolizează activitatea de decenii a misiunilor creștine și contribuția acestora la educație și dezvoltarea socială. Interiorul bisericii oferă un spațiu de liniște și reflecție, care creează un contrast calm cu agitația pieței din Canchungo. Pentru locuitorii orașului și ai satelor înconjurătoare, biserica este un simbol al credinței și al comunității. Ca structură istorică, aceasta documentează schimbările culturale și diversitatea religioasă din regiunea Cacheu.",
+        "en": "The Church of Canchungo is a significant religious landmark in the city of Canchungo, the cultural center of the Manjaco people. The church building is characterized by its simple yet dignified architecture, reflecting the influences of Portuguese missionary design. With its prominent bell tower and light-colored facade, it is a visible landmark in the city center from afar. The church serves not only as a place of worship for the Catholic community but is also an important social center deeply rooted in the daily life of the region. In an area known for its strong traditional customs, the church symbolizes the decades of work by Christian missions and their contribution to education and social development. The interior of the church offers a space for silence and reflection, providing a calm contrast to the bustling market activity of Canchungo. For the residents of the city and surrounding villages, the church is a symbol of faith and community. As a historical building, it documents the cultural shifts and religious diversity within the Cacheu region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kirche ist dem Heiligen Antonius gewidmet.",
+          "Sie wurde während der Hochphase der portugiesischen Missionierung erbaut.",
+          "Die Gemeinde unterhält ein angrenzendes Sozialzentrum.",
+          "Das Gebäude ist ein seltenes Beispiel für sakrale Architektur in Nord-Guinea.",
+          "Regelmäßige Feste ziehen Gläubige aus dem gesamten Cacheu-Distrikt an.",
+          "Die Kirche spielt eine Rolle bei der Erhaltung der lokalen manjaco-kreolischen Lieder."
+        ],
+        "hu": [
+          "A templomot Páduai Szent Antal tiszteletére szentelték fel.",
+          "A gyarmati korszak egyik legfontosabb egyházi építménye a régióban.",
+          "A templomkertben gyakran tartanak közösségi gyűléseket.",
+          "Építészeti stílusa a portugál vidéki templomokat idézi.",
+          "A misszió alapvető oktatási feladatokat lát el a városban.",
+          "A templom harangja fontos szerepet játszik a városi időszámításban."
+        ],
+        "ro": [
+          "Este principalul lăcaș de cult catolic din districtul Canchungo.",
+          "Arhitectura sa păstrează elemente coloniale originale intacte.",
+          "Comunitatea bisericească este foarte activă în proiecte de sănătate.",
+          "Interiorul adăpostește picturi religioase cu tematică locală.",
+          "Este un simbol al armoniei între religie și tradițiile Manjaco.",
+          "Sărbătoarea patronului bisericii este cel mai mare eveniment anual din oraș."
+        ],
+        "en": [
+          "The church is a focal point for the Catholic diocese in the north.",
+          "It was constructed using local materials and traditional techniques.",
+          "The mission house next to the church serves as a local school office.",
+          "It is one of the oldest functioning churches in the Cacheu region.",
+          "The building’s design emphasizes natural ventilation for the tropical climate.",
+          "It represents the historical presence of the Franciscan order in the area."
+        ]
+      }
+    }
+  ]
+}

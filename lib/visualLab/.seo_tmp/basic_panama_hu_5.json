@@ -1,0 +1,60 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-tomate-chiriqui-life-v2",
+      "description": "Chiriquí paradicsomtermesztő gazdasága, jelentős helyi mezőgazdasági központ.",
+      "facts": ["Paradicsomtermesztés", "Agrártermelés", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "parque-infantil-chitre-life-v2",
+      "description": "Játszótér Chitré városában, amely közösségi helyszínt biztosít a családoknak.",
+      "facts": ["Gyermekjátszótér", "Chitréi közösségi park", "Családi rekreáció"]
+    },
+    {
+      "id": "zoologico-nacional-panama-life-v2",
+      "description": "Panama országos állatkertje, amely bemutatja az ország gazdag faunáját.",
+      "facts": ["Országos állatkert", "Panamai fauna", "Oktatóközpont"]
+    },
+    {
+      "id": "granja-educativa-panama-life-v2",
+      "description": "Oktatófarm, amely a gyermekek számára mutatja be a mezőgazdaság alapjait.",
+      "facts": ["Oktató farm", "Mezőgazdasági alapismeretek", "Gyermekprogramok"]
+    },
+    {
+      "id": "parque-infantil-santiago-life-v2",
+      "description": "Játszótér Santiago de Veraguas városában, családi kikapcsolódásra.",
+      "facts": ["Gyermekjátszótér", "Santiago városi park", "Családi tér"]
+    },
+    {
+      "id": "criadero-cocodrilos-panama-life-v2",
+      "description": "Krokodiltenyésztő és -védelmi telep, amely a hüllők megőrzését segíti.",
+      "facts": ["Krokodilok védelme", "Hüllők megőrzése", "Oktatótelep"]
+    },
+    {
+      "id": "finca-agroecologica-panama-life-v2",
+      "description": "Agroökológiai gazdaság, amely fenntartható módon műveli a földet.",
+      "facts": ["Fenntartható gazdálkodás", "Ökológiai termesztés", "Környezetbarát"]
+    },
+    {
+      "id": "cerro-fabrega-relief-v2",
+      "description": "Jelentős hegycsúcs, a régió egyik legmagasabb pontja.",
+      "facts": ["Hegyi csúcs", "Földrajzi magasság", "Túrázás"]
+    },
+    {
+      "id": "cerro-bruja-relief-v2",
+      "description": "Ismert hegycsúcs, amely fontos domborzati elem a térségben.",
+      "facts": ["Hegycsúcs", "Domborzati elem", "Panoráma"]
+    },
+    {
+      "id": "cerro-punta-hohe-relief-v2",
+      "description": "Hegyvidéki terület, amely a Chiriquí régió domborzatát határozza meg.",
+      "facts": ["Hegyvidéki táj", "Chiriquí régió", "Természeti adottság"]
+    }
+  ]
+}

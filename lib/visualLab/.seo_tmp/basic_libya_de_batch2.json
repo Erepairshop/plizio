@@ -1,0 +1,24 @@
+{
+  "lang": "de",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "wadi-farigh-nature-v2", "description": "Wadi Farigh ist ein Wüstental im Nordosten Libyens, bekannt für seine geologische Vielfalt.", "facts": ["Nordostlibyen", "Wüstental", "Geologische Formationen"] },
+    { "id": "ghat-mountains-nature-v2", "description": "Die Berge um Ghat sind Teil des Akakus-Gebirges, weltberühmt für ihre spektakulären Felsformationen und prähistorische Kunst.", "facts": ["Akakus-Gebirge", "Prähistorische Kunst", "Ghat-Region"] },
+    { "id": "jebel-soda-relief-v2", "description": "Jebel Soda, oder der 'Schwarze Berg', ist ein markantes vulkanisches Relief in der zentrallibyschen Region Fezzan.", "facts": ["Vulkanisches Relief", "Fezzan-Region", "Zentrallibyen"] },
+    { "id": "jebel-tarhuna-relief-v2", "description": "Das Relief von Jebel Tarhuna besteht aus sanften Hügelketten, die südöstlich von Tripolis eine fruchtbare Zone bilden.", "facts": ["Hügellandschaft", "Nahe Tripolis", "Fruchtbares Relief"] },
+    { "id": "sirte-basin-relief-v2", "description": "Das Syrte-Becken ist eine gewaltige geologische Senke, die das Zentrum Libyens dominiert und reich an Bodenschätzen ist.", "facts": ["Geologische Senke", "Zentrallibyen", "Ölreiches Becken"] },
+    { "id": "wadi-mathendous-relief-v2", "description": "Das Relief des Wadi Mathendous ist geprägt von tief eingeschnittenen Sandsteinschluchten in der Wüste Sahara.", "facts": ["Sandsteinschluchten", "Sahara-Wüste", "Fezzan-Region"] },
+    { "id": "wadi-al-farigh-relief-v2", "description": "Wadi al-Farigh ist eine bedeutende Senke und ein Trockental im Osten Libyens, das die Landschaft der Cyrenaika prägt.", "facts": ["Trockental", "Cyrenaika-Region", "Landschaftliche Senke"] },
+    { "id": "sarir-tanezrouft-relief-v2", "description": "Das Relief von Sarir Tanezrouft ist eine der flachsten und lebensfeindlichsten Kieswüsten der gesamten Sahara.", "facts": ["Kieswüste", "Flaches Relief", "Sahara-Region"] },
+    { "id": "gaberoun-lake-relief-v2", "description": "Der Gaberoun-See ist ein tiefer Salzwassersee, der inmitten der gigantischen Sanddünen der Ubari-Wüste liegt.", "facts": ["Salzwassersee", "Ubari-Sandmeer", "Dünenlandschaft"] },
+    { "id": "mandara-lakes-relief-v2", "description": "Die Mandara-Seen sind eine Gruppe von Oasenseen, die tief in den Sanddünen der libyschen Wüste eingebettet sind.", "facts": ["Oasenseen", "Libysche Wüste", "Dünenrelief"] },
+    { "id": "kufra-basin-relief-v2", "description": "Das Kufra-Becken ist eine riesige strukturelle Senke im Südosten, die ein bedeutendes fossiles Grundwasservorkommen beherbergt.", "facts": ["Strukturelle Senke", "Südostlibyen", "Grundwasser-Aquifer"] },
+    { "id": "gar-al-marah-relief-v2", "description": "Gar al-Marah ist eine markante geologische Formation und ein Reliefmerkmal in der nordöstlichen Wüste Libyens.", "facts": ["Geologische Formation", "Nordostlibyen", "Wüstenrelief"] },
+    { "id": "gargaf-desert-relief-v2", "description": "Das Relief der Gargaf-Wüste besteht aus hohen, steinigen Plateaus, die jäh in die umliegenden Täler abfallen.", "facts": ["Steinplateaus", "Zentrallibyen", "Steile Abhänge"] },
+    { "id": "cyrenaica-coast-relief-v2", "description": "Das Relief der Cyrenaika-Küste ist geprägt durch steile Kalksteinklippen, die direkt in das Mittelmeer abfallen.", "facts": ["Kalksteinklippen", "Mittelmeerküste", "Nordost-Relief"] }
+  ]
+}

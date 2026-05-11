@@ -70,7 +70,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: [],
       hu: [],
       ro: [],
-      en: ["Major port on the Nile", "Large oil production hub", "Center of the Shilluk region", "Over 150,000 inhabitants", "Important transport junction", "Regional educational center"]
+      en: ["Major port on the Nile", "Large oil production hub", "Over 150,000 inhabitants", "Regional educational center"]
     }, image: "/poi-images/malakal-cities-v2.webp"},
   {
     id: "wau-cities-v2",
@@ -105,7 +105,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: [],
       hu: [],
       ro: [],
-      en: ["Founded in 1898", "Located on the Jur River", "Key railway junction", "Renowned university", "Diverse markets", "Western economic center"]
+      en: ["Founded in 1898", "Key railway junction", "Renowned university", "Diverse markets", "Western economic center"]
     }, image: "/poi-images/wau-cities-v2.webp"},
   {
     id: "yei-cities-v2",
@@ -140,7 +140,7 @@ export const poiExtraSouthsudanCitiesV2: POI[] = [
       de: [],
       hu: [],
       ro: [],
-      en: ["Center for coffee production", "Over 200,000 inhabitants", "Important marketplace", "Strategic border location", "Fertile agricultural soil", "Key trade route"]
+      en: ["Over 200,000 inhabitants", "Important marketplace", "Strategic border location", "Key trade route"]
     }, image: "/poi-images/yei-cities-v2.webp"},
   {
     id: "yambio-cities-v2",

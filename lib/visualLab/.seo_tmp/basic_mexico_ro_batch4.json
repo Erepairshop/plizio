@@ -1,0 +1,39 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-de-juarez-relief-v2",
+      "description": "Sierra de Juárez este un lanț muntos în Baja California, cunoscut pentru peisajele sale aride și pădurile de pini la altitudini mai mari.",
+      "facts": ["Baja California", "Lanț muntos", "Păduri de pini"]
+    },
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "Peninsula Yucatán este o masă continentală mare care separă Marea Caraibelor de Golful Mexic, cunoscută pentru topografia sa joasă și câmpiile calcaroase.",
+      "facts": ["Marea Caraibelor", "Golful Mexic", "Topografie joasă"]
+    },
+    {
+      "id": "sierra-de-la-giganta-relief-v2",
+      "description": "Sierra de la Giganta este un lanț muntos în Baja California Sur, cu formațiuni vulcanice distinctive și peisaje de deșert.",
+      "facts": ["Baja California Sur", "Formațiuni vulcanice", "Peisaj de deșert"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "Sierra Madre de Sonora face parte din Sierra Madre Occidental, caracterizată prin canioane adânci și munți împăduriți.",
+      "facts": ["Sierra Madre Occidental", "Canioane adânci", "Munți împăduriți"]
+    },
+    {
+      "id": "sierra-de-puebla-relief-v2",
+      "description": "Sierra de Puebla este un lanț muntos în estul statului Puebla, renumit pentru vegetația sa luxuriantă și cascade.",
+      "facts": ["Estul Puebla", "Vegetație luxuriantă", "Cascade"]
+    },
+    {
+      "id": "sierra-de-las-minas-mexico-relief-v2",
+      "description": "Sierra de las Minas, în Guatemala, dar menționat aici pentru contextul regional, este o rezervație a biosferei cunoscută pentru pădurea sa de nori și quetzali.",
+      "facts": ["Rezervație a biosferei", "Pădure de nori", "Quetzali"]
+    }
+  ]
+}

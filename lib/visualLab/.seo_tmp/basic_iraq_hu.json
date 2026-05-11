@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Iraq",
+  "files": [
+    "lib/visualLab/data/poiExtraIraqHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIraqNatureV2.ts",
+    "lib/visualLab/data/poiExtraIraqReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "samarra-great-mosque-history-v2",
+      "description": "A 9. században épült monumentális mecset Szamarrában, amely egykor a világ legnagyobb iszlám temploma volt.",
+      "facts": [
+        "A híres 52 méteres spirális minaret (Malwiya) jellemzi",
+        "Al-Mutavakkil abbászida kalifa építtette 848 és 851 között",
+        "Az UNESCO Világörökség része 2007 óta",
+        "Égetett téglából készült falai hatalmas területet zárnak körül"
+      ]
+    },
+    {
+      "id": "cheekha-dar-nature-v2",
+      "description": "Irak legmagasabb hegycsúcsa, amely a Zagrosz-hegységben, az iraki-iráni határ mentén emelkedik.",
+      "facts": [
+        "Magassága eléri a 3611 métert a tengerszint felett",
+        "A név kurdul Sötét Sátrat jelent",
+        "Csúcsát az év nagy részében hó borítja",
+        "Az iraki Kurdisztán régióban található"
+      ]
+    },
+    {
+      "id": "al-jazira-plateau-relief-v2",
+      "description": "A Tigris és az Eufrátesz folyók között elterülő hullámos fennsík Irak északi és középső részén.",
+      "facts": [
+        "Mezőgazdasági szempontból fontos, búzatermő vidék",
+        "Száraz sztyeppék és sivatagi területek váltják egymást",
+        "Történelmileg Felső-Mezopotámia néven is ismert",
+        "Északon a Taurus-hegység lábai határolják"
+      ]
+    },
+    {
+      "id": "southern-desert-relief-v2",
+      "description": "Irak déli részének kiterjedt sivatagi régiója, amely az Arab-félsziget sivatagaival határos.",
+      "facts": [
+        "Főleg köves és homokos síkságok alkotják",
+        "Az ország területének jelentős részét lefedi",
+        "Ritkán lakott, nomád pásztorkodás jellemző itt",
+        "Délnyugaton Szaúd-Arábiával és Kuvaitgal határos"
+      ]
+    },
+    {
+      "id": "bahr-al-najaf-depression-relief-v2",
+      "description": "Nedzsef szent városa közelében elhelyezkedő természetes mélyedés és sós tó.",
+      "facts": [
+        "Egykor hatalmas beltenger része volt",
+        "Különleges mikrok klímát biztosít a környéknek",
+        "Geológiai törésvonal mentén alakult ki",
+        "Fontos vándorló madarak pihenőhelyeként"
+      ]
+    }
+  ]
+}

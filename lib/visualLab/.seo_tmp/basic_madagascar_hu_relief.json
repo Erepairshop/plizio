@@ -1,0 +1,9 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [ "lib/visualLab/data/poiExtraMadagascarReliefV2.ts" ],
+  "items": [
+    { "id": "boby-peak-foothills-relief-v2", "description": "A Boby-csúcs lábai az Andringitra Nemzeti Parkban találhatók, Malajzia egyik legmagasabb pontjához vezető túraútvonal része.", "facts": ["Andringitra Park", "Magaslati túra", "Hegyi terep"] },
+    { "id": "ranomafana-hills-relief-v2", "description": "Ranomafana dombjait sűrű esőerdő borítja, melyek látványos és meredek tájat alkotnak a nemzeti park területén.", "facts": ["Esőerdős dombok", "Meredek lejtők", "Ranomafana Park"] }
+  ]
+}

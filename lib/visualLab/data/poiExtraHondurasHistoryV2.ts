@@ -34,8 +34,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Eine der größten erhaltenen spanischen Festungen in Mittelamerika.", "Zwischen 1759 und 1775 aus Korallenstein und Ziegeln gebaut.", "Diente dem Schutz vor Piraten und britischen Seestreitkräften.", "Sicherte spanische Silber- und Handelsschiffe in der Karibik.", "Besitzt einen ungewöhnlichen halbkreisförmigen Grundriss.", "Im 19. und 20. Jahrhundert als politisches Gefängnis verwendet.", "Heute Nationaldenkmal und eines der meistbesuchten Museen des Landes."],
       hu: ["Közép-Amerika egyik legnagyobb épségben maradt spanyol erődje.", "Építése 1759 és 1775 között zajlott, korallkő és tégla felhasználásával.", "A kalózok és brit tengerészek elleni védekezés volt a fő célja.", "A spanyol ezüst- és kereskedelmi hajók védelmét szolgálta a Karib-tengeren.", "Egyedi, félköríves alaprajzzal és robusztus falakkal rendelkezik.", "A 19. és 20. században hírhedt politikai börtönként használták.", "Ma nemzeti műemlék és Honduras egyik leglátogatottabb múzeuma."],
-      ro: ["Cea mai mare structură defensivă din Honduras", "Construită din piatră de corali", "A servit ulterior ca închisoare", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Largest defensive structure in Honduras", "Built from coral stone", "Later served as a prison", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -70,8 +70,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Die größte bekannte Siedlung des Ulúa-Tals in der Spätklassik.", "Blütezeit zwischen 850 und 1100 n. Chr. nach dem Niedergang von Copán.", "Multietnischer Handelsknoten zwischen verschiedenen Kulturkreisen.", "Hier liegt Honduras längster bekannter antiker Ballspielplatz.", "Der archäologische Park umfasst mehr als 500 kartierte Baureste.", "Die Lage über Ulúa und Chamelecón bot einen strategischen Schutz.", "Wegen der begrenzten Erforschung gilt der Ort als Forschungsreservoir mit großem Potenzial."],
       hu: ["A késő klasszikus kor legnagyobb települése az Ulúa-völgyben.", "A Kr. u. 850–1100 közötti időszakban élte virágkorát Copán hanyatlása után.", "Multietnikus kereskedelmi csomópontként kötötte össze a különböző kultúrákat.", "Itt található Honduras leghosszabb ismert ősi labdajáték-pályája.", "A régészeti park több mint 500 térképezett épületmaradványt rejt.", "Stratégiai fekvése az Ulúa és Chamelecón folyók felett biztosította védelmét.", "Feltártsága korlátozott, hatalmas potenciállal bír a jövőbeli kutatások számára."],
-      ro: ["Centru al comerțului regional", "Peste 500 de clădiri identificate", "Loc important pentru ceramica Ulúa", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Center of regional trade", "Over 500 identified buildings", "Important site for Ulúa pottery", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -106,8 +106,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Einer der ältesten bekannten menschlichen Aufenthaltsorte in Mittelamerika.", "Bewahrt archäologische Funde mit einem Alter von mehr als 10.000 Jahren.", "Liegt nahe der Stadt Marcala im Departement La Paz.", "An den Wänden sind alte rote und weiße Piktogramme erhalten.", "Der Name geht auf eine gigantische menschenähnliche Felszeichnung zurück.", "Die Funde werden den frühesten Jäger- und Sammlergruppen zugeordnet.", "Der Ort ist bis heute Gegenstand aktiver archäologischer Forschung."],
       hu: ["Közép-Amerika egyik legrégebbi ismert emberi lakóhelye.", "Több mint 10 000 éves régészeti leleteket (csontok, szerszámok) rejt.", "Marcala városa közelében, La Paz megyében fekszik.", "A barlang falain ősi, vörös és fehér piktogramok láthatók.", "Nevét a falon lévő gigantikus, embert formázó barlangrajzról kapta.", "A leletek a legkorábbi vadászó-gyűjtögető társadalmakhoz köthetők.", "A helyszín még ma is aktív régészeti kutatások tárgya."],
-      ro: ["Cele mai vechi dovezi ale prezenței umane", "Conține picturi rupestre", "Situată lângă Marcala", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Earliest evidence of human presence", "Contains rock paintings", "Located near Marcala", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -142,8 +142,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Steht im historischen Zentrum von Gracias direkt neben dem Parque Central.", "Wurde im frühen 18. Jahrhundert im spanischen Kolonialbarock errichtet.", "Besitzt massive Lehmwände und eine charakteristische Steinfassade.", "Ist dem heiligen Markus, dem Schutzpatron der Stadt, geweiht.", "Ende April findet hier ein großes religiöses Fest statt.", "Gracias war im 16. Jahrhundert ein politisches Zentrum in Mittelamerika.", "Im Inneren befinden sich wertvolle Altäre aus der Kolonialzeit."],
       hu: ["Gracias történelmi városában, a Parque Central mellett található.", "A 18. század elején épült, a spanyol gyarmati barokk stílusában.", "Masszív vályogfalai és egyedi faragott homlokzata van.", "A város védőszentjének, Szent Márknak van szentelve.", "Április végén nagyszabású vallási fesztiválnak ad otthont.", "Gracias a 16. században Közép-Amerika politikai központja volt.", "A belső térben értékes gyarmati kori oltárképek találhatók."],
-      ro: ["Parte a moștenirii istorice", "Scări interioare din piatră", "Locație centrală lângă Parque Central", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Part of the historical heritage", "Stone interior staircase", "Central location by Parque Central", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -178,8 +178,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Eine der ältesten Kirchen von Comayagua, erbaut um 1550.", "Bewahrt die schlichte, einschiffige Architektur der frühen spanischen Kolonialzeit.", "Der Legende nach wurden hier Teile von Lempiras Überresten beigesetzt.", "Diente in der Kolonialzeit auch afro-honduranischen Gemeinschaften.", "Ist dem heiligen Sebastian geweiht.", "Steht in einem ruhigeren Bereich des historischen Zentrums von Comayagua.", "Hat mehrere Erdbeben ohne schwere Schäden überstanden."],
       hu: ["Comayagua egyik legrégebbi temploma, 1550 körül épült.", "A korai spanyol hódítás puritán, egyhajós építészeti stílusát őrzi.", "A legenda szerint itt temették el részben Lempira kacikát.", "A gyarmati korban az afro-hondurasi (pardo) közösség használta.", "Szent Sebestyén vértanúnak van szentelve.", "A Comayagua történelmi központjának csendesebb részén áll.", "Az épület több földrengést is átvészelt jelentős károk nélkül."],
-      ro: ["Găzduiește mormântul lui José Trinidad Cabañas", "Stil baroc colonial", "Monument religios important", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Houses the tomb of José Trinidad Cabañas", "Colonial Baroque style", "Important religious monument", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -214,8 +214,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt in Comayagua und wurde um 1590 gegründet.", "War ursprünglich ein Krankenhaus für Arme und Kranke.", "Wurde von Ordensleuten der Gemeinschaft San Juan de Dios geführt.", "Gilt als wichtiges Beispiel kolonialer Sozial- und Gesundheitsstrukturen.", "Wurde im 19. Jahrhundert durch Erdbeben und Konflikte beschädigt.", "Ist heute restauriert und Teil der religiösen Route der Stadt.", "Im Inneren sind wertvolle Kolonialrelikte und Gemälde erhalten."],
       hu: ["Comayaguában található, a 16. század végén (kb. 1590) alapították.", "Eredetileg a szegények és betegek ápolására szolgáló kórház volt.", "A San Juan de Dios (Istenes Szent János) rend szerzetesei vezették.", "Kiemelkedő példája a gyarmati szociális intézményrendszernek.", "A 19. században földrengések és politikai harcok során megsérült.", "Restaurálták, ma a vallási turizmus egyik fontos megállója.", "Belső terében értékes gyarmati relikviák és festmények maradtak fenn."],
-      ro: ["Cea mai veche clădire de spital din țară", "Fațadă simplă", "Reconstruită după cutremure", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Oldest hospital building in the country", "Simple facade", "Rebuilt after earthquakes", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -250,8 +250,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["1560 gegründet und damit eines der frühesten Franziskanerklöster Mittelamerikas.", "Hier befindet sich die Glocke Antonina von 1350, eine der ältesten Amerikas.", "Die Anlage war ein Zentrum früher spanischer Evangelisierung.", "Berühmt ist das aus Spanien stammende Bildwerk Cristo de los Moros.", "Die massiven Mauern dienten in Krisenzeiten auch als Schutzraum.", "Mehrere Erdbeben überstand das Kloster ohne Verlust seiner Grundstruktur.", "Heute fungiert es als Museum im historischen Zentrum von Comayagua."],
       hu: ["1560-ban alapították, Közép-Amerika egyik első ferences kolostora.", "Itt található az 'Antonina' (1350), Amerika egyik legrégebbi harangja.", "Az épületegyüttes a korai spanyol evangelizáció központja volt.", "Híres műkincse a lenyűgöző spanyol Mór Kereszt (Cristo de los Moros).", "A vastag falak katonai menedékként is szolgáltak ostromok idején.", "Több földrengést élt túl, de építészeti integritását megőrizte.", "A kolostor ma múzeumként működik Comayagua történelmi központjában."],
-      ro: ["Fondată de franciscani", "Deține unul dintre cele mai vechi clopote din America", "Cloistere istorice", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Founded by Franciscans", "Owns one of the oldest bells in America", "Historical cloisters", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -286,8 +286,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde 1780 im historischen Zentrum von Tegucigalpa errichtet.", "Diente der Prägung von Münzen aus lokalem Silber und Gold.", "Verringerte die Abhängigkeit von der Münzstätte in Guatemala.", "Ist ein robustes Bauwerk, das auf Sicherheit ausgelegt wurde.", "Nach der Unabhängigkeit war es auch Sitz der Nationaldruckerei.", "Symbolisiert den Höhepunkt der kolonialen Bergbauwirtschaft.", "Heute finden hier kulturelle und historische Ausstellungen statt."],
       hu: ["1780-ban épült Tegucigalpa történelmi központjában.", "Célja a helyi ezüst- és aranybányák nemesfémeinek érmévé verése volt.", "Létrehozásával csökkentették Guatemala pénzügyi monopóliumát.", "Robusztus, biztonsági szempontok alapján tervezett épület.", "A hondurasi függetlenség után nemzeti nyomdaként (Tipografía Nacional) is működött.", "A helyi gyarmati gazdaság és bányászat csúcsidőszakát szimbolizálja.", "Ma kulturális és történelmi kiállításoknak ad otthont."],
-      ro: ["Centrul bogăției miniere", "Arhitectură colonială", "Astăzi utilizată în scopuri culturale", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Center of mining wealth", "Colonial architecture", "Today used for cultural purposes", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -322,8 +322,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Die älteste Kirche Tegucigalpas, gegründet 1592.", "Wurde von Franziskanern in der damaligen Bergbausiedlung errichtet.", "Im Inneren stehen originale barocke Holzaltäre aus der Kolonialzeit.", "Diente in der Kolonialzeit als wichtiges gesellschaftliches Zentrum.", "Das dazugehörige Kloster wurde im 19. Jahrhundert zu einer Kaserne umfunktioniert.", "Die Fassade wurde im Lauf der Jahrhunderte mehrfach renoviert.", "Gilt als einer der Grundsteine des historischen Stadtkerns."],
       hu: ["Tegucigalpa legrégebbi temploma, 1592-ben épült.", "A ferences rend szerzetesei alapították az egykori bányászfaluban.", "Belső terében eredeti spanyol barokk faoltárok találhatók.", "Kiemelt társadalmi és vallási központ volt a gyarmati korban.", "A hozzá tartozó kolostort a 19. században katonai kaszárnyává tették.", "A templom többször átesett homlokzati felújításokon az évszázadok alatt.", "A város történelmi magjának egyik legfontosabb sarokköve."],
-      ro: ["Fondată în anul 1592", "Conține retabluri valoroase", "Fost domeniu mănăstiresc", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Founded in 1592", "Contains valuable altarpieces", "Former monastery grounds", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -358,8 +358,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["1882 im neoklassizistischen Stil im Zentrum von Tegucigalpa erbaut.", "Ursprünglich als Allgemeines Krankenhaus geplant und genutzt.", "Im 20. Jahrhundert zum Verwaltungszentrum der Ministerien umgewandelt.", "Besitzt einen großen Säulenhof und eine elegante Fassade.", "Steht für die Modernisierungsbestrebungen des 19. Jahrhunderts.", "Heute beherbergt es das Museo para la Identidad Nacional (MIN).", "Zählt zu den meistbesuchten Kulturinstitutionen des Landes."],
       hu: ["1882-ben épült neoklasszikus stílusban Tegucigalpa szívében.", "Eredetileg közkórháznak (Hospital General) tervezték és használták.", "A 20. században a kormányzati minisztériumok központja lett.", "Hatalmas, oszlopos belső udvarral és elegáns homlokzattal rendelkezik.", "A 19. századi hondurasi modernizációs törekvések szimbóluma.", "Ma a Nemzeti Identitás Múzeumának (MIN) ad otthont.", "Az ország egyik leglátogatottabb kulturális és történelmi intézménye."],
-      ro: ["Între timp a devenit muzeu", "Arhitectură reprezentativă", "Lângă Parcul Central", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Now a museum", "Representative architecture", "Near the Central Park", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -394,8 +394,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde in den 1920er Jahren für die jüdische Gemeinde in Tegucigalpa angelegt.", "Ist ein zentrales Zeugnis der sefardischen Präsenz in Honduras.", "Die Grabinschriften sind oft mehrsprachig: Hebräisch, Spanisch und Deutsch.", "Jüdische Einwanderer spielten eine wichtige Rolle im Handel.", "Ein eigener Friedhof war wegen der katholischen Bestattungsregeln nötig.", "Der Ort ist ein historisches Symbol für Integration und Toleranz.", "Heute ist er gepflegt, auch wenn dort nur noch selten Bestattungen stattfinden."],
       hu: ["Az 1920-as években alapították a tegucigalpai zsidó bevándorlók.", "A hondurasi zsidó (főként sefárd) közösség jelenlétének fő emléke.", "A sírfeliratok gyakran többnyelvűek (héber, spanyol, német).", "A zsidó bevándorlók kulcsszerepet játszottak a helyi kereskedelemben.", "Az önálló temetőre a katolikus vallási szabályozások miatt volt szükség.", "A temető a kulturális tolerancia és az integráció történelmi jelképe.", "Ma is gondozott, bár már kevéssé aktív temetkezési hely."],
-      ro: ["Unic în regiune", "Atestă istoria imigrației", "Morminte bine întreținute", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Unique in the region", "Testifies to immigration history", "Well-maintained graves", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -430,8 +430,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Spannt sich über den Choluteca-Fluss zwischen Tegucigalpa und Comayagüela.", "Wurde 1933 unter der Herrschaft von Tiburcio Carías Andino eröffnet.", "War ein zentrales Infrastrukturprojekt der Carías-Zeit.", "Besteht aus mehreren Bögen aus Stein und Beton.", "Überstand die zerstörerischen Überschwemmungen des Hurrikans Mitch 1998.", "Galt lange als die modernste und sicherste Brücke Honduras.", "Ist bis heute eine wichtige Verkehrsader der Hauptstadt."],
       hu: ["A Choluteca-folyót íveli át Tegucigalpa és Comayagüela között.", "1933-ban épült Tiburcio Carías Andino diktátor uralma alatt.", "A Carías-korszak (El Cariato) masszív infrastrukturális projektje volt.", "Többíves, kőből és betonból készült masszív szerkezet.", "Túlélte az 1998-as Mitch hurrikán pusztító áradásait.", "Hosszú ideig Honduras legmodernebb és legbiztonságosabb hídja volt.", "Ma is a főváros forgalmának egyik legfontosabb artériája."],
-      ro: ["Conectează Tegucigalpa și Comayagüela", "Important monument de infrastructură", "Design clasic", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Connects Tegucigalpa and Comayagüela", "Important infrastructure monument", "Classic design", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -466,8 +466,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Zentraler katholischer Bau der Stadt Danlí im Departement El Paraíso.", "Entstand in der Mitte des 19. Jahrhunderts aus Tabakhandel-Einnahmen.", "Vereint klassizistische und spätbarocke Architekturelemente.", "Zwei symmetrische Türme prägen die Silhouette der Stadt.", "Im Inneren stehen wertvolle geschnitzte Holzaltäre aus kolonialer Tradition.", "Ist der Unbefleckten Empfängnis geweiht.", "Im Dezember bildet sie den Mittelpunkt des größten religiösen Festes der Stadt."],
       hu: ["Danlí városának központi, legfontosabb katolikus temploma.", "A 19. század közepén épült a dohánykereskedelem bevételeiből.", "Klasszicista és késő barokk elemeket ötvöző fehér homokzata van.", "Két szimmetrikus harangtornya uralja a városi látképet.", "Belső terében spanyol faragású, értékes gyarmati faoltárok állnak.", "A Szeplőtelen Fogantatás tiszteletére szentelték fel.", "Decemberben a város legnagyobb vallási fesztiváljának központja."],
-      ro: ["Centrul orașului Danlí", "Construită în secolul al XIX-lea", "Farmec colonial", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Center of the city of Danlí", "Built in the 19th century", "Colonial charm", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -502,8 +502,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Im 18. Jahrhundert im lenca geprägten Bergdorf La Campa erbaut.", "Die Mauern bestehen aus lokalem Vulkangestein und Andesit.", "Der Legende nach wurde dem Mörtel auch Ei und Tierblut beigemischt.", "Verbindet spanischen Barock mit lokaler lenca Kunst.", "Die großen Holztüren und bunten Altarbilder sind kunsthistorisch besonders wertvoll.", "Ist dem Apostel Matthias geweiht.", "Im Februar ist sie Ziel einer der größten Wallfahrten Honduras."],
       hu: ["A 18. században épült La Campa hegyvidéki, lenca falvában.", "Vastag falait helyben fejtett andezitből és vulkanikus kőből rakták.", "A legenda szerint a habarcsba tojást és állati vért is kevertek.", "A spanyol barokk és a lenca naiv művészet egyedi ötvözete.", "Hatalmas faajtajai és színes oltárképei művészettörténeti ritkaságok.", "Szent Mátyás apostolnak van szentelve.", "Februárban Honduras egyik legnagyobb vallási zarándoklatának célpontja."],
-      ro: ["Bijuterie a barocului hondurian", "Loc important de pelerinaj", "Tradiție Lenca", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Jewel of Honduran Baroque", "Important pilgrimage site", "Lenca tradition", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -538,8 +538,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt im Ulúa-Tal im Departement Santa Bárbara.", "Blühte zwischen 600 und 900 n. Chr. in der Spätklassik.", "War ein strategischer Handelsknoten zwischen Copán und der Lenca-Zone.", "Gebäude aus gestampfter Erde und Kies statt aus behauenem Stein.", "Berühmt für polychrome, also mehrfarbige Keramikfunde.", "Bildet kulturell eine Übergangszone zwischen Maya- und anderen mesoamerikanischen Gruppen.", "Die touristische Infrastruktur ist gering, der wissenschaftliche Wert aber hoch."],
       hu: ["Az Ulúa-folyó völgyében, Santa Bárbara megyében fekvő lelőhely.", "A Kr. u. 600–900 (késő klasszikus kor) közötti időszakban virágzott.", "Stratégiai kereskedelmi kapocs volt Copán és a Lenca-zóna között.", "Épületei faragott kő helyett főleg döngölt földből és kavicsból épültek.", "Gazdag polikróm (többszínű) kerámialeleteiről híres.", "Kulturálisan átmenetet képez a maja és az egyéb mezoamerikai népek között.", "Turisztikai infrastruktúrája minimális, de tudományos jelentősége hatalmas."],
-      ro: ["Locație strategică lângă râu", "Structuri ceremoniale", "Descoperiri de jad și obsidian", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Strategic location by the river", "Ceremonial structures", "Jade and obsidian finds", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -574,8 +574,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Galt als größte bekannte vorkolumbische Metropole im Sula-Tal.", "Blütezeit zwischen 500 und 1000 n. Chr. am Ulúa-Fluss.", "Besaß einen großen Ballspielplatz und zahlreiche zeremonielle Plätze.", "Wichtiger Handelsort für Kakao, Jade und andere Güter.", "Bekannt für die nur hier gefertigten Ulúa-Vasen.", "Große Teile wurden im 20. Jahrhundert durch Plantagen zerstört.", "Die erhaltenen Reste sind wichtig für das Verständnis nicht-mayaischer Kulturen."],
       hu: ["A Sula-völgy legnagyobb ismert prekolumbián metropolisza volt.", "Fénykorát Kr. u. 500 és 1000 között élte az Ulúa-folyó partján.", "Nagy labdajáték-pályával és több tucat ceremoniális térrel rendelkezett.", "Multietnikus gazdasági központja volt a kakaó- és jáde-kereskedelemnek.", "Híres a csak itt készített 'Ulúa-völgyi márványvázákról'.", "A 20. században az ültetvények terjeszkedése miatt nagyrészt elpusztult.", "A megmaradt leletek kulcsfontosságúak a nem-maja kultúrák megértésében."],
-      ro: ["Centru al activităților rituale", "Platforme de piatră complexe", "Influențat de Maya", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Center of ritual activities", "Complex stone platforms", "Influenced by the Maya", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -610,8 +610,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Steht in Comayagua und wurde um 1620 errichtet.", "War für die religiöse Praxis indigener und afrikanisch versklavter Gemeinschaften bestimmt.", "Ist ein Beispiel kolonialer sozialer Trennung in der Architektur.", "Zeigt einen einfachen franziskanischen Stil mit Lehmwänden und Holzdach.", "Überstand mehrere Erdbeben und eine Phase als Lagerraum.", "Wurde in jüngerer Zeit erfolgreich restauriert.", "Ist heute Teil des historischen und kulturellen Schutzsystems der Stadt."],
       hu: ["Comayaguában található, 1620 körül épült kisebb kápolna.", "Kifejezetten az őslakosok és afrikai rabszolgák hitéletére alapították.", "A gyarmati kori társadalmi szegregáció építészeti példája.", "Egyszerű, puritán ferences építészeti stílus (vastag vályog, fa tető).", "Több földrengést és funkcióváltást (pl. raktár) is átvészelt.", "A közelmúltban sikeresen restaurálták az eredeti formájába.", "Ma a város történelmi és kulturális örökségvédelmi útvonalának része."],
-      ro: ["Construcție colonială simplă", "Centrul comunității", "Moștenire religioasă", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Simple colonial construction", "Community center", "Religious heritage", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -646,8 +646,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde in den 1910er Jahren über den Ulúa-Fluss gebaut.", "Die Stahlkonstruktion wurde in den USA gefertigt und importiert.", "Diente dem Transport von Kaffee und Erz nach San Pedro Sula.", "Galt als eines der wichtigsten Ingenieurbauwerke seiner Zeit in Honduras.", "Ist eine industrielle Fachwerk-Eisenbrücke.", "Wird heute vor allem von Fußgängern und Touristen genutzt.", "Bleibt ein ikonisches Denkmal der wirtschaftlichen Entwicklung des Landes."],
       hu: ["A 20. század elején (1910-es évek) épült az Ulúa-folyó felett.", "Az acélszerkezetet az Egyesült Államokban gyártották és importálták.", "Célja Santa Bárbara kávé- és ércszállítmányainak San Pedro Sulába juttatása volt.", "Korának egyik legnagyobb és legfontosabb mérnöki alkotása Hondurasban.", "Rácsos (truss) szerkezetű ipari vashíd.", "Ma már csak gyalogosok és könnyű járművek, valamint turisták használják.", "A hondurasi infrastrukturális és gazdasági fejlődés ikonikus mementója."],
-      ro: ["Cale de legătură importantă", "Structură de piatră lucrată manual", "Simbol al orașului", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Important connecting path", "Hand-crafted stone structure", "City landmark", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -682,8 +682,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Kalksteinhöhlen nahe Omoa an der Karibikküste von Cortés.", "Dienten in der vorspanischen Zeit als rituelle und Opferorte.", "In indigenen Religionen war der Ort mit der Unterwelt Xibalba verbunden.", "Hier wurden Keramikscherben und Obsidianobjekte gefunden.", "Die Höhlen sind reich an Stalaktiten und Stalagmiten.", "Auch lokale Legenden und afro-karibische Folklore beziehen sich auf den Ort.", "Heute ist er ein beliebtes Ziel für Höhlen- und Abenteuertourismus."],
       hu: ["Cortés megyében, az omoai karibi partvidék közelében található mészkőbarlangok.", "Ősi prehispán rituális és áldozati helyszínként szolgáltak.", "A barlang alvilági szimbólum volt az őslakos vallásokban (Xibalba).", "Kerámiatöredékeket és obszidián áldozati tárgyakat tártak fel itt.", "Látványos sztalaktit és sztalagmit képződmények (cseppkövek) borítják.", "A helyi legendák és az afro-karibi folklór is kapcsolódik a helyhez.", "Népszerű kalandturisztikai és barlangászati célpont."],
-      ro: ["Ascunzători naturale", "Posibile descoperiri arheologice", "Mediu încărcat de istorie", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Natural hiding places", "Archaeological finds possible", "History-steeped surroundings", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -718,8 +718,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Versteckt im östlichen, dicht bewaldeten Teil des Departements Olancho.", "Galt vermutlich als bedeutendes Zentrum der Pech-Kultur.", "Es wurden steinerne Terrassen, Fundamentreste und Monolithe gefunden.", "Lag in einer Kontaktzone zwischen mesoamerikanischen und makro-chibchanischen Kulturen.", "Zeigt einen von Maya-Ruinen deutlich abweichenden Baustil.", "Die Erforschung ist bis heute sehr begrenzt.", "Durch seine Unberührtheit besitzt der Ort großes archäologisches Potenzial."],
       hu: ["Olancho megye keleti, sűrű dzsungellel borított részén rejtőzik.", "Feltehetően a pech őslakos kultúra egyik jelentős központja volt.", "Kőből rakott teraszokat, alapozásokat és monolitokat találtak itt.", "A mezoamerikai és a déli makro-csibcsa kultúrák ütközőzónája volt.", "A maja romoktól eltérő, sajátos építészeti stílust képvisel.", "Rendkívül elszigetelt, feltártsága ma is minimális szintű.", "A terület érintetlensége miatt óriási potenciállal bír a régészet számára."],
-      ro: ["Structuri precolumbiene", "Parte a zonei de influență Chorotega", "Mister arheologic", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Pre-Columbian structures", "Part of the Chorotega influence zone", "Archaeological mystery", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -754,8 +754,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt in Yuscarán, der ehemaligen reichen Bergbaustadt in El Paraíso.", "Wurde aus dem Wohlstand des Silberbergbaus im 18. Jahrhundert finanziert.", "Die weiße barocke Fassade prägt den gepflasterten Hauptplatz.", "Der Hauptaltar ist ein aus Spanien stammendes, vergoldetes Schnitzwerk.", "Eines der besterhaltenen kolonialen Innenräume Honduras.", "Kirche und historisches Zentrum stehen seit 1979 unter Denkmalschutz.", "Ist der heiligen Anna geweiht, einer Schutzfigur der Bergbaugemeinde."],
       hu: ["Yuscaránban, az egykori gazdag bányászvárosban található (El Paraíso megye).", "A 18. századi ezüstbányászati fellendülésből származó vagyonból épült.", "Robusztus, fehér barokk homlokzata uralja a macskaköves főteret.", "Főoltára aranyfüsttel bevont, Spanyolországból származó faragott fa (retablo).", "Honduras egyik legépebb állapotban fennmaradt gyarmati belső terével rendelkezik.", "Az épület és a város 1979 óta nemzeti műemléki védelem alatt áll.", "Szent Annának, a bányászok egyik védőszentjének van szentelve."],
-      ro: ["Monument național", "Fațadă albă clasică", "Construită în secolul al XVIII-lea", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["National monument", "Classic white facade", "Built in the 18th century", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -790,8 +790,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt im historischen Zentrum von San Pedro Sula.", "Wurde zu Beginn des 20. Jahrhunderts im karibisch-viktorianischen Holzstil gebaut.", "War ein wichtiger Knotenpunkt der Nationalbahn und der Bananenfirmen.", "Verband die Plantagen des Sula-Tals mit dem Hafen von Puerto Cortés.", "Ist ein wichtiges Symbol der sogenannten Bananenrepublik-Ära.", "Wurde nach dem Niedergang des Schienenverkehrs unter Denkmalschutz gestellt.", "Heute beherbergt es ein Kulturzentrum und das Museo del Ferrocarril."],
       hu: ["San Pedro Sula történelmi központjában található.", "Az 1900-as évek elején épült karibi-viktoriánus faépítészeti stílusban.", "A hondurasi Nemzeti Vasút (és a banáncégek) központi csomópontja volt.", "Összekötötte a Sula-völgy banánültetvényeit Puerto Cortés kikötőjével.", "A 'Banánköztársaság' korszak legfontosabb infrastrukturális szimbóluma.", "A vasúti áruszállítás hanyatlása után műemlékké nyilvánították.", "Ma kulturális tér és vasúttörténeti múzeum (Museo del Ferrocarril) működik benne."],
-      ro: ["Parte a căii ferate naționale", "Arhitectură industrială", "Centru istoric", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Part of the national railway", "Industrial architecture", "Historical center", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -826,8 +826,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde im 19. Jahrhundert in der Bergbaustadt Yuscarán errichtet.", "Diente der wohlhabenden, aus Italien stammenden Familie Fortín als Wohnsitz.", "Ein massiver Lehmbau mit traditionellem Innenhof.", "Ist ein architektonisches Symbol der Silberbergbau-Blütezeit.", "Heute fungiert es als Regional- und Bergbaumuseum.", "Die Ausstellungen zeigen auch die Geschichte des Aguardiente aus Zuckerrohr.", "Gehört zum national geschützten historischen Zentrum von Yuscarán."],
       hu: ["A 19. században épült Yuscarán bányászvárosában.", "Az olasz származású, gazdag bányász Fortín család rezidenciája volt.", "Masszív vályogépület hagyományos belső udvarral (patio).", "A helyi ezüstbányászat fénykorának építészeti szimbóluma.", "Ma helytörténeti és bányászati múzeumként működik.", "Kiállítása bemutatja az 'aguardiente' (cukornádpárlat) történetét is.", "Yuscarán nemzeti műemléki védelmet élvező óvárosának része."],
-      ro: ["Fosta casă a unei familii de minieri", "Mobilier antic", "Centru cultural", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Former home of a mining family", "Antique furniture", "Cultural center", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -862,8 +862,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Entstand im Bergbauort Cedros im 16. und 17. Jahrhundert.", "Ist der barocken Kolonialarchitektur mit dicken Lehmwänden verpflichtet.", "Am 29. August 1824 tagte hier die erste verfassungsgebende Versammlung Honduras.", "Hier wurde die erste Verfassung des Landes angenommen.", "Dionisio de Herrera wurde in diesem Gebäude zum ersten Staatsoberhaupt gewählt.", "Gilt als eines der wichtigsten politischen Heiligtümer der honduranischen Geschichte.", "Trotz seiner Bedeutung bewahrt der Ort seinen ruhigen Dorfcharakter."],
       hu: ["Cedros hegyvidéki, egykori bányászvárosában épült a 16-17. században.", "Spanyol gyarmati barokk stílusú, vastag vályogfalakkal.", "1824-ben itt tartották az első Hondurasi Alkotmányozó Nemzetgyűlést.", "Ebben a templomban fogadták el Honduras első alkotmányát.", "Itt választották meg Dionisio de Herrerát az első államfőnek.", "Honduras politikai függetlenségének egyik legfontosabb szentélye.", "Történelmi jelentősége ellenére megőrizte csendes falusi templom jellegét."],
-      ro: ["Locul de naștere al democrației în HN", "Moștenire colonială", "Importanță centrală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Birthplace of democracy in HN", "Colonial heritage", "Central importance", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -898,8 +898,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt im Departement Francisco Morazán nahe Tegucigalpa.", "Der Name bezieht sich auf die flachen, tischartigen Felsformationen.", "War ein zeremonielles und defensives Zentrum vorspanischer Kulturen.", "Auf dem Gelände wurden Petroglyphen und Keramiken gefunden.", "Wahrscheinlich nutzten Lenca- oder Chorotega-Gruppen den Hügel.", "Die archäologischen Untersuchungen befinden sich noch in einer frühen Phase.", "Heute ist der Ort ein beliebtes Ziel für Wanderer mit starker Aussicht und mystischer Atmosphäre."],
       hu: ["Francisco Morazán megyében, Tegucigalpa közelében fekvő magaslat.", "Nevét a jellegzetes, lapos, asztalszerű sziklaképződményeiről kapta.", "Prehispán őslakos kultúrák ceremoniális és védelmi központja volt.", "A területen ősi sziklarajzok (petroglifák) és kerámiák találhatók.", "Feltehetően lenca vagy chorotega törzsek használták a hegyet.", "A régészeti feltárások még kezdeti szakaszban vannak.", "Népszerű túrázóhely lenyűgöző kilátással és misztikus atmoszférával."],
-      ro: ["Așezare puțin explorată", "Amplasare pe platou", "Relicve ale popoarelor indigene", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Little-explored settlement", "Plateau location", "Relics of indigenous peoples", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -934,8 +934,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt im Departement Olancho nahe der Stadt Juticalpa.", "Besteht aus alten in Felsen geritzten Symbolen, also Petroglyphen.", "Die Gravuren zeigen Tiere, Spiralen und anthropomorphe Figuren.", "Die Forschenden datieren sie auf 1000 v. Chr. bis 500 n. Chr.", "Wahrscheinlich wurden sie von Vorfahren der Pech oder Tawahka geschaffen.", "Die Zeichnungen hatten vermutlich religiöse oder astronomische Bedeutung.", "Der Ort ist durch Erosion und menschliche Eingriffe bedroht."],
       hu: ["Olancho megyében, Juticalpa városa közelében találhatók.", "Ősi, sziklákba vésett szimbólumok (petroglifák) gyűjteménye.", "Állatokat, spirálokat és emberszerű (antropomorf) alakokat ábrázolnak.", "Korukat Kr. e. 1000 és Kr. u. 500 közé teszik a kutatók.", "Feltehetően a pech vagy tawahka őslakosok elődei készítették.", "A rajzok valószínűleg vallási vagy csillagászati jelentőséggel bírtak.", "A leletek ki vannak téve a természetes eróziónak és az emberi beavatkozásnak."],
-      ro: ["Simboluri antice", "Mărturie a artei timpurii", "Ascunse în natură", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Ancient symbols", "Witness to early art", "Hidden in nature", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -970,8 +970,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde im 18. Jahrhundert im historischen Zentrum von Tegucigalpa erbaut.", "Zeigt eine einschiffige, schlichtere Kolonialarchitektur.", "Ist ein stiller Zeuge der frühen politischen und militärischen Konflikte der Stadt.", "Steht in der historischen ?berlieferung mit Francisco Moraz?n und Dionisio de Herrera in Verbindung.", "Diente eher der allgemeinen Bevölkerung als der kolonialen Elite.", "Ist dem heiligen Sebastian, dem Schutzpatron gegen Krieg und Seuchen, geweiht.", "Im Inneren befindet sich eine ursprüngliche Holzdecke im Artesonado-Stil."],
       hu: ["A 18. században épült Tegucigalpa történelmi központjában.", "Egyhajós, puritánabb kialakítású gyarmati épület.", "A város korai politikai és katonai konfliktusainak néma tanúja.", "Kapcsolódik Francisco Morazán és Dionisio de Herrera történetéhez.", "A spanyol elit helyett inkább az átlagos lakosságot szolgálta.", "Szent Sebestyénnek, a katonák és járványok elleni védőszentnek szentelték.", "Belső terében eredeti fa tetőszerkezet (artesonado) található."],
-      ro: ["Fundație din epoca colonială", "Exterior simplu", "Parte a centrului istoric al orașului", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Colonial era foundation", "Unadorned exterior", "Part of the historical city core", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1006,8 +1006,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde im späten 19. Jahrhundert nahe dem Zentrum von Tegucigalpa gebaut.", "War mehr als 100 Jahre lang das wichtigste und ber?chtigtste Gef?ngnis Honduras.", "W?hrend der Diktaturen wurden dort zahlreiche politische Gefangene festgehalten.", "Ber?chtigt war das Gef?ngnis wegen ?berf?llung und Menschenrechtsverletzungen.", "Nach den Sch?den des Hurrikans Mitch von 1998 wurde es endg?ltig geschlossen.", "Der Standort wurde später gr??tenteils umgenutzt und revitalisiert.", "Menschenrechtsorganisationen verweisen bis heute auf seine d?stere Vergangenheit."],
       hu: ["A 19. század végén épült Tegucigalpa központja közelében.", "Több mint 100 évig az ország legfőbb és leghírhedtebb börtöne volt.", "A diktatúrák alatt számtalan politikai foglyot tartottak itt fogva.", "A túlzsúfoltság és az emberi jogi visszaélések miatt vált hírhedtté.", "Az 1998-as Mitch hurrikán okozta károk után végleg bezárták.", "Az épület helyét mára nagyrészt revitalizálták és funkciót váltott.", "Az emberi jogi szervezetek gyakran hivatkoznak a börtön sötét múltjára."],
-      ro: ["Ruină istorică", "Arhitectură impunătoare", "Locul multor povești", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Historical ruin", "Imposing architecture", "Site of many stories", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1042,8 +1042,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Hauptkirche des kolonialen Bergbauorts Ojojona aus dem 17. Jahrhundert.", "Dem heiligen Johannes dem T?ufer geweiht.", "Aus Reichtum der lokalen Silberminen finanziert.", "Verbindet spanischen Barock mit lokalen indigenen Gestaltungselementen.", "Im Inneren befinden sich wertvolle, mit Gold und Silber verzierte Relikte.", "Ojojona ist gemeinsam mit dem historischen Zentrum als Nationaldenkmal geschützt.", "Die Kirche bildet den lebendigen Mittelpunkt des religiösen und kulturellen Dorflebens."],
       hu: ["Ojojona 17. századi gyarmati bányászvárosának főtemploma.", "Keresztelő Jánosnak (San Juan Bautista) szentelték fel.", "A helyi ezüstbányászatból származó vagyonból finanszírozták.", "Spanyol barokk és helyi őslakos építészeti elemeket ötvöz.", "Belső terében eredeti, ezüsttel és arannyal díszített relikviák vannak.", "Ojojona teljes történelmi központjával együtt nemzeti műemlék.", "A falu vallási és kulturális életének lüktető központja."],
-      ro: ["Arhitectură tradițională", "Centru cultural important", "Deține artă colonială", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Traditional architecture", "Important cultural center", "Contains colonial art", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1078,8 +1078,8 @@ export const poiExtraHondurasHistoryV2: POI[] = [
     factsAdvanced: {
       de: ["Liegt am Ufer des Ul?a-Flusses im Departement Cort?s.", "Enth?lt Funde aus der Formativzeit zwischen 1000 und 250 v. Chr.", "Der Name geht auf die vielen bei der Ausgrabung gefundenen menschlichen ?berreste zurück.", "Berühmt f?r fein gearbeitete Keramiken und Tonfiguren.", "Die ersten großen Ausgrabungen leitete George Byron Gordon in den 1890er Jahren.", "Die Funde zeigen starke kulturelle Bez?ge zur olmekischen Welt.", "Der Ort ist wegen intensiver landwirtschaftlicher Nutzung gef?hrdet."],
       hu: ["Az Ulúa-folyó partján fekvő, ősi temetkezési és lakóhely.", "A formatív korból (Kr. e. 1000 – Kr. e. 250) származó leleteket rejt.", "Nevét a feltáráskor talált nagyszámú emberi maradványról kapta.", "Híres az itt talált finoman megmunkált agyagfigurákról és kerámiákról.", "A leletek erős kulturális kapcsolatot mutatnak az olmék civilizációval.", "George Byron Gordon vezette az első jelentős ásatásokat a 19. század végén.", "A terület a folyamatos mezőgazdasági művelés miatt veszélyeztetett."],
-      ro: ["Sit eponim", "Primii fermieri sedentari", "Figurine de ceramică unice", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Eponymous site", "Early sedentary farmers", "Unique ceramic figurines", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   }
 ];

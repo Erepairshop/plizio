@@ -1,0 +1,90 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Africam Safari este un parc zoologic tip safari unde animalele trăiesc în libertate pe suprafețe vaste.",
+      "facts": ["Situat lângă Puebla", "Animale în libertate", "Safari interactiv", "Fondat în 1972"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "Bioparque Estrella este un parc tematic și de conservare a faunei, ideal pentru familii, situat lângă Monterrey.",
+      "facts": ["Lângă Monterrey", "Conservarea faunei", "Parc tematic", "Educație ecologică"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "Rezervația Biosferei Fluturelui Monarh este locul unde milioane de fluturi vin să ierneze anual.",
+      "facts": ["Sit UNESCO", "Zona Michoacán", "Migrația anuală", "Ecosistem protejat"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Sian Ka'an este o rezervație a biosferei imensă, cu ecosisteme diverse, de la recife la păduri tropicale.",
+      "facts": ["Sit UNESCO", "Riviera Maya", "Biodiversitate bogată", "Ecosisteme protejate"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "Calakmul este o rezervație vastă și un sit arheologic mayaș situat în inima pădurii tropicale.",
+      "facts": ["Pădurea tropicală", "Sit arheologic", "Rezervație protejată", "Biodiversitate unică"]
+    },
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "Jungla Lacandonă este una dintre cele mai importante zone de biodiversitate din Mexic, situată în Chiapas.",
+      "facts": ["Situată în Chiapas", "Biodiversitate densă", "Pădure tropicală", "Regiune izolată"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "Rezervația El Vizcaíno este un refugiu crucial pentru balenele gri care vin să nască în lagunele sale.",
+      "facts": ["Baja California", "Refugiu balene gri", "Sit UNESCO", "Lagune protejate"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "Rezervația Celestún este celebră pentru coloniile sale mari de flamingo roz care trăiesc în lagunele de coastă.",
+      "facts": ["Yucatán, Mexic", "Flamingo roz", "Lagune de coastă", "Turism ecologic"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "La Ventanilla este o rezervație comunitară unde se pot observa broaștele țestoase și fauna locală de mangrove.",
+      "facts": ["Coasta statului Oaxaca", "Protecția țestoaselor", "Ecosistem mangrove", "Gestiune comunitară"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "Rezervația Los Tuxtlas este o zonă unică unde muntele se întâlnește cu marea, având o biodiversitate vulcanică bogată.",
+      "facts": ["Statul Veracruz", "Biodiversitate bogată", "Relief vulcanic", "Ecosisteme diverse"]
+    },
+    {
+      "id": "sierra-de-juarez-relief-v2",
+      "description": "Sierra de Juárez este un lanț muntos important în peninsula Baja California, caracterizat printr-un climat arid.",
+      "facts": ["Peninsula Baja", "Lanț muntos", "Climat arid", "Biodiversitate unică"]
+    },
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "Peninsula Yucatán este o câmpie calcaroasă vastă, cunoscută pentru cenotele sale și absența râurilor de suprafață.",
+      "facts": ["Câmpie calcaroasă", "Cenote și peșteri", "Relief plat", "Sud-estul Mexicului"]
+    },
+    {
+      "id": "sierra-de-la-giganta-relief-v2",
+      "description": "Sierra de la Giganta este un lanț muntos spectaculos în Baja California Sur, cu formațiuni geologice deosebite.",
+      "facts": ["Baja California Sur", "Lanț muntos", "Formațiuni vulcanice", "Peisaj arid"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "Această parte a Sierra Madre reprezintă un relief muntos accidentat care domină peisajul statului Sonora.",
+      "facts": ["Statul Sonora", "Relief muntos", "Zona de graniță", "Peisaj accidentat"]
+    },
+    {
+      "id": "sierra-de-puebla-relief-v2",
+      "description": "Sierra de Puebla este o regiune muntoasă care influențează climatul și diversitatea biologică în statul Puebla.",
+      "facts": ["Statul Puebla", "Regiune muntoasă", "Influențe climatice", "Peisaj verde"]
+    },
+    {
+      "id": "sierra-de-las-minas-mexico-relief-v2",
+      "description": "Sierra de las Minas este o zonă muntoasă cu istorie minieră, având un peisaj reliefat complex.",
+      "facts": ["Zona muntoasă", "Istorie minieră", "Relief complex", "Biodiversitate locală"]
+    }
+  ]
+}

@@ -30,16 +30,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Erbaut ab dem Jahr 1625 durch König Wegbaja.", "Die Palastanlage umfasst eine Fläche von etwa 44 Hektar.", "Insgesamt zwölf Könige residierten in diesem Palastkomplex.", "UNESCO-Welterbestätte seit 1985.", "Die Wände sind mit Lehmreliefs verziert, die berühmte Könige darstellen.", "Das Museum in Abomey bewahrt zahlreiche königliche Insignien auf."]
     }, image: "/poi-images/royal-palaces-abomey-history-v2.webp",
     description: {
-      de: "",
+      de: "Die Königspaläste von Abomey waren das Zentrum des Königreichs Dahomey und gehören heute zum UNESCO-Weltkulturerbe.",
       hu: "Az Abomey Királyság egykori uralkodóinak rezidenciája, amely az UNESCO világörökség része. A 17. és 19. század között épült épületegyüttes a daho-mi kultúra központja.",
       ro: "Fostul sediu al Regatului Dahomey, complexul cuprinde palate regale construite între secolele XVII și XIX. Aceste structuri din pământ sunt un simbol al puterii monarhilor locali.",
-      en: ""
+      en: "A UNESCO World Heritage site consisting of 12 palaces spread over a 47-hectare area, representing the former capital of the Kingdom of Dahomey."
     },
     facts: {
-      de: [],
+      de: ["Erbaut ab dem 17. Jahrhundert", "Besteht aus 10 Palästen", "Sitz von 12 Königen", "UNESCO-Weltkulturerbe seit 1985"],
       hu: ["UNESCO örökség", "Korszak: 17-19. század", "Helyszín: Abomey", "Kulturális központ"],
       ro: ["Sediul Regatului Dahomey", "Construite sec. XVII-XIX", "Material: pământ și argilă", "Patrimoniu mondial UNESCO"],
-      en: []
+      en: ["UNESCO World Heritage site since 1985", "Capital of the Dahomey Kingdom", "Earth-built structures with bas-reliefs"]
     }
   },
   {
@@ -70,16 +70,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Eingeweiht wurde das Denkmal im Jahr 1995.", "Ouidah war einer der größten Sklavenhäfen Westafrikas.", "Das Tor symbolisiert die letzte Station vor der Überfahrt.", "Jedes Jahr finden hier Gedenkveranstaltungen statt.", "Es befindet sich direkt am Strand von Ouidah.", "Das Denkmal ist Teil der Sklavenroute (La Route de l'Esclave)."]
     }, image: "/poi-images/door-no-return-ouidah-history-v2.webp",
     description: {
-      de: "",
+      de: "Dieses Denkmal in Ouidah erinnert an die Millionen von Afrikanern, die von hier aus in die Sklaverei verschifft wurden.",
       hu: "Emlékmű Ouidah tengerpartján, amely a transzatlanti rabszolga-kereskedelem áldozataira emlékeztet. A rabszolgák itt lépték át utoljára az afrikai kontinenst.",
       ro: "Poarta simbolică din Ouidah marchează punctul final al drumului sclavilor către mare. Este un monument de comemorare a miilor de oameni trimiși forțat în exil.",
-      en: ""
+      en: "A memorial arch on the beach of Ouidah that commemorates the millions of enslaved Africans who were deported from this coast."
     },
     facts: {
-      de: [],
+      de: ["Eingeweiht im Jahr 1992", "Liegt am Strand von Ouidah", "Entworfen von Fortuné Bandeira", "Teil der Sklavenroute"],
       hu: ["Helyszín: Ouidah", "Korszak: Rabszolga-kereskedelem", "Típus: Emlékmű", "Sötét turisztikai helyszín"],
       ro: ["Memorial al sclaviei", "Situată în Ouidah", "Punct de plecare maritim", "Simbol al suferinței"],
-      en: []
+      en: ["Memorial to the Atlantic slave trade", "Unveiled in 1992", "Located at the end of the Route des Esclaves"]
     }
   },
   {
@@ -110,16 +110,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Die Pythons werden in Benin als heilige Tiere verehrt.", "Der Tempel wurde ursprünglich im 18. Jahrhundert errichtet.", "Es leben meist etwa 50 bis 100 Pythons in dem Tempel.", "Voodoo ist eine offiziell anerkannte Religion in Benin.", "Die Schlangen sind für Menschen vollkommen harmlos.", "Besucher können das tägliche Leben im Tempel beobachten."]
     }, image: "/poi-images/temple-pythons-ouidah-history-v2.webp",
     description: {
-      de: "",
+      de: "Der Python-Tempel in Ouidah ist eine bedeutende religiöse Stätte des Voodoo, in der Dutzende von Pythons verehrt werden.",
       hu: "Ouidah egyik leghíresebb vallási helyszíne, ahol szent pitonokat tisztelnek. A vudu hagyományok és a helyi hitvilág fontos találkozási pontja.",
       ro: "Un lăcaș de cult tradițional din Ouidah unde pitonii sunt considerați creaturi sacre. Templele găzduiesc zeci de șerpi care circulă liber în incintă.",
-      en: ""
+      en: "A sacred site in Ouidah dedicated to the worship of pythons, which are considered protective deities in local Voodoo tradition."
     },
     facts: {
-      de: [],
+      de: ["Zentrum des Voodoo-Glaubens", "Beherbergt echte Königspythons", "Gegenüber der Kathedrale gelegen", "Wichtiges Pilgerziel"],
       hu: ["Vallás: Vudu", "Helyszín: Ouidah", "Szent állat: Piton", "Turisztikai látnivaló"],
       ro: ["Lăcaș de cult voodoo", "Pitonii sunt sacri", "Situat în Ouidah", "Ritualuri tradiționale"],
-      en: []
+      en: ["Sacred to the Voodoo religion", "Houses dozens of royal pythons", "Symbol of peace and protection"]
     }
   },
   {
@@ -150,16 +150,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Erbaut im Jahr 1721 durch die Portugiesen.", "Das Fort blieb bis 1961 unter portugiesischer Verwaltung.", "Es war eines der wichtigsten Zentren für den Sklavenhandel in Benin.", "Heute befindet sich dort das Museum von Ouidah.", "Das Gelände umfasst eine Kapelle und ehemalige Quartiere.", "Es ist ein wichtiges architektonisches Zeugnis des 18. Jahrhunderts."]
     }, image: "/poi-images/portuguese-fort-ouidah-history-v2.webp",
     description: {
-      de: "",
+      de: "Das im 18. Jahrhundert errichtete portugiesische Fort São João Baptista de Ajudá diente lange Zeit als Handelsstützpunkt und Sklavendepot.",
       hu: "Egy 18. századi erődítmény Ouidahban, amely egykor a portugál kereskedők állomása volt. Ma múzeumként mutatja be a régió gyarmati múltját.",
       ro: "Construit de portughezi în secolul al XVIII-lea, acest fort a fost un centru important al comerțului colonial. Astăzi găzduiește un muzeu istoric despre perioada colonială.",
-      en: ""
+      en: "The Fort of São João Baptista de Ajudá is a small Portuguese fortress in Ouidah, now serving as a historical museum."
     },
     facts: {
-      de: [],
+      de: ["Gegründet im Jahr 1721", "Beherbergt heute ein Museum", "Fläche von etwa 1 Hektar", "Letzte portugiesische Enklave bis 1961"],
       hu: ["Építés éve: 1721", "Helyszín: Ouidah", "Típus: Erőd/Múzeum", "Korszak: Gyarmati"],
       ro: ["Construit sec. XVIII", "Fost centru comercial", "Muzeu istoric local", "Arhitectură colonială"],
-      en: []
+      en: ["Built by the Portuguese in 1721", "Smallest colonial territory in the world", "Now the Ouidah Museum of History"]
     }
   },
   {
@@ -190,16 +190,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Ehemaliger Palast von König Toffa I. von Porto-Novo.", "Das Museum wurde im Jahr 1988 offiziell eröffnet.", "Es zeigt die Geschichte des Königreichs Hogbonou.", "Die Architektur ist ein klassisches Beispiel für die Gungbe-Kultur.", "Zu den Ausstellungsstücken gehören royale Insignien.", "Das Gebäude wurde als Nationaldenkmal unter Schutz gestellt."]
     }, image: "/poi-images/musee-honme-porto-novo-history-v2.webp",
     description: {
-      de: "",
+      de: "Das Musée Honmè ist im ehemaligen Palast von König Toffa untergebracht und zeigt das Leben der Dynastie von Porto-Novo.",
       hu: "Porto-Novo egyik kiemelkedő múzeuma, a egykori Hogbonou királyok palotája. A kiállítás a helyi királyi családok életét és történelmét mutatja be.",
-      ro: "Muzeul Honmé este fosta reședință a regilor din Porto-Novo. Expoziția prezintă obiecte regale, tronuri și artefacte ce ilustrează viața suveranilor locali.",
-      en: ""
+      ro: "Muzeul Honmè este situat în fostul palat al regelui Toffa din Porto-Novo, oferind o perspectivă rară asupra vieții curții regale.",
+      en: "Formerly the palace of King Toffa, this museum in Porto-Novo offers insight into the royal life and traditions of the Hogbonu kingdom."
     },
     facts: {
-      de: [],
+      de: ["Ehemaliger Königspalast", "Nationalmuseum seit 1988", "Traditionelle Architektur", "Ausstellungen zur königlichen Geschichte"],
       hu: ["Helyszín: Porto-Novo", "Típus: Múzeum", "Korszak: Királyi korszak", "Kulturális örökség"],
-      ro: ["Fostă reședință regală", "Situat în Porto-Novo", "Colecție de artă regală", "Istorie locală"],
-      en: []
+      ro: ["Fost palat regal", "Situat în Porto-Novo", "Patrimoniu cultural"],
+      en: ["Former residence of King Toffa", "Porto-Novo royal museum", "Showcases traditional court artifacts"]
     }
   },
   {
@@ -230,16 +230,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Erbaut Ende des 19. Jahrhunderts (um 1900 fertiggestellt).", "Architekturstil inspiriert von afro-brasilianischen Rückkehrern.", "Die Moschee ist ein zentrales religiöses Gebäude für die Stadt.", "Besonders bekannt für ihre leuchtend gelbe Fassade.", "Ein herausragendes Beispiel für den kulturellen Austausch.", "Sie prägt maßgeblich das Stadtbild von Porto-Novo."]
     }, image: "/poi-images/great-mosque-porto-novo-history-v2.webp",
     description: {
-      de: "",
+      de: "Die Große Moschee von Porto-Novo besticht durch ihren einzigartigen afro-brasilianischen Baustil, der an die Architektur von Bahia erinnert.",
       hu: "Brazíliai stílusú mecset Porto-Novóban, amely a felszabadított rabszolgák építészeti hatását viseli. A város egyik legrégebbi és legimpozánsabb szakrális épülete.",
       ro: "Această moschee distinctivă este renumită pentru arhitectura sa braziliană unică. Este un monument religios și cultural major al orașului Porto-Novo.",
-      en: ""
+      en: "An architectural marvel in Porto-Novo, this mosque features a unique Brazilian-Baroque style, reflecting the return of Afro-Brazilians in the 19th century."
     },
     facts: {
-      de: [],
+      de: ["Erbaut im frühen 20. Jahrhundert", "Farbenfrohe Fassade", "Ehemals eine Kapelle", "UNESCO-Kulturerbe-Anwärter"],
       hu: ["Stílus: Afro-brazil", "Helyszín: Porto-Novo", "Típus: Mecset", "Történelmi épület"],
       ro: ["Arhitectură braziliană", "Situată în Porto-Novo", "Centru religios major", "Construcție istorică"],
-      en: []
+      en: ["Brazilian-style architecture", "Built in the late 19th century", "Resembles a Catholic cathedral in design"]
     }
   },
   {
@@ -270,16 +270,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Entdeckt wurden die unterirdischen Bauten im Jahr 1998.", "Das Netzwerk besteht aus einer Reihe von miteinander verbundenen Kammern.", "Die Strukturen liegen etwa 10 Meter unter der Erdoberfläche.", "Sie dienten vermutlich als Zufluchtsort vor Angreifern.", "Agongointo liegt in der Nähe von Bohicon.", "Es ist ein wichtiges archäologisches Denkmal in Benin."]
     }, image: "/poi-images/agongointo-underground-history-v2.webp",
     description: {
-      de: "",
+      de: "Die unterirdischen Bauten von Agongointo dienten einst als Versteck und Schutzraum für die Krieger des Königreichs Dahomey.",
       hu: "Földalatti lakóhelyek komplexuma Abomey közelében, amelyet a daho-mi harcosok használtak. Régészeti jelentősége a 16-17. századig nyúlik vissza.",
       ro: "Satul subteran Agongointo constă într-o rețea de adăposturi construite de regele Dakodonou în secolul al XVII-lea. Structurile au fost descoperite în timpul unor lucrări moderne.",
-      en: ""
+      en: "An ancient underground town discovered in 1998, featuring a series of subterranean dwellings used for protection and storage during the Dahomey era."
     },
     facts: {
-      de: [],
+      de: ["Entdeckt im Jahr 1998", "Befinden sich in Bohicon", "Liegen 10 Meter unter der Erde", "Bestehen aus mehreren Kammern"],
       hu: ["Helyszín: Abomey környéke", "Típus: Régészeti lelőhely", "Korszak: 16-17. század", "Rejtett lakóhelyek"],
       ro: ["Construit sec. XVII", "Rețea de adăposturi", "Descoperire arheologică", "Tehnici defensive"],
-      en: []
+      en: ["Subterranean archaeological site", "Located near Abomey", "Used for military defense and storage"]
     }
   },
   {
@@ -310,16 +310,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Nikki ist die historische Hauptstadt des Bariba-Reiches.", "Der Palast ist das religiöse und politische Zentrum der Region.", "Die Gani-Zeremonie ist eines der bedeutendsten Feste in Benin.", "Nikki spielte eine wichtige Rolle im transsaharischen Handel.", "Der König trägt den Titel 'Sounon Sero'.", "Die Stadt Nikki ist für ihre lange Geschichte des Bariba-Volkes bekannt."]
     }, image: "/poi-images/palace-king-nikki-history-v2.webp",
     description: {
-      de: "",
+      de: "Der Palast in Nikki ist das spirituelle und politische Zentrum des Bariba-Volkes und Schauplatz des Gaani-Festivals.",
       hu: "Az északi Nikki királyság uralkodóinak hagyományos palotája. A Bariba nép történelmének és politikai hatalmának egyik központi szimbóluma.",
       ro: "Palatul este centrul administrativ și spiritual al regatului Nikki din nordul Beninului. Este locul unde au loc ceremoniile tradiționale ale conducătorilor Bariba.",
-      en: ""
+      en: "The traditional seat of the King of Nikki, the spiritual and political leader of the Baatombu people in northern Benin."
     },
     facts: {
-      de: [],
+      de: ["Sitz des Sinaboko", "Zentrum der Bariba-Kultur", "Ort des Gaani-Festivals", "Historische Hauptstadt von Borgu"],
       hu: ["Helyszín: Nikki", "Típus: Palota", "Népcsoport: Bariba", "Kulturális központ"],
       ro: ["Sediul regatului Nikki", "Centru spiritual Bariba", "Nordul Beninului", "Ceremonii tradiționale"],
-      en: []
+      en: ["Center of the Borgu Empire", "Host of the annual Gani festival", "Traditional Baatombu architecture"]
     }
   },
   {
@@ -350,16 +350,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Kétou ist ein historisches Zentrum der Yoruba-Kultur.", "Das Tor wurde als Teil der ehemaligen Stadtbefestigung errichtet.", "Kétou war lange Zeit ein bedeutender Stadtstaat.", "Die Akaba Idenan ist eines der wichtigsten historischen Symbole.", "Die Geschichte der Stadt reicht weit in die Vergangenheit zurück.", "Es zieht historisch interessierte Besucher an."]
     },
     description: {
-      de: "",
+      de: "Die Akaba Idenan sind die historischen Stadttore von Kétou, einer der ältesten Yoruba-Städte in der Region.",
       hu: "Ketou történelmi városkapuja, amely a város védelmét szolgálta a korábbi évszázadokban. A joruba építészeti hagyományok egyik fontos emléke.",
       ro: "Poarta sacră Akaba Idenan este intrarea istorică în orașul vechi Ketou. Este considerată un simbol al protecției și identității comunității locale.",
-      en: ""
+      en: "The magical gate of Kétou, which historically served as the only entrance to the fortified city, protected by mystical powers according to legend."
     },
     facts: {
-      de: [],
+      de: ["Einziges erhaltenes Stadttor", "Besteht aus zwei Türen", "Erbaut im 14. Jahrhundert", "Symbol der Yoruba-Resistenz"],
       hu: ["Helyszín: Ketou", "Típus: Városkapu", "Népcsoport: Joruba", "Történelmi védelem"],
       ro: ["Poartă istorică", "Situată în Ketou", "Simbol identitar", "Protecție spirituală"],
-      en: []
+      en: ["Sole historical entrance to Kétou", "Protected by Voodoo rituals", "Symbol of Yoruba royal heritage"]
     }
   },
   {
@@ -390,16 +390,16 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: ["Die Tata Sombas sind als UNESCO-Weltkulturerbe gelistet (Koutammakou).", "Sie bestehen fast ausschließlich aus lokalem Lehm.", "Die Gebäude dienen sowohl als Wohnhaus als auch als Schutz gegen Feinde.", "Das Erdgeschoss ist für das Vieh und die Vorratslager.", "Das Design spiegelt die soziale Ordnung der Somba-Gemeinschaft wider.", "Sie sind besonders verbreitet im Departement Atakora."]
     }, image: "/poi-images/tata-somba-houses-history-v2.webp",
     description: {
-      de: "",
+      de: "Die Tata Somba sind festungsartige Lehmhäuser der Somba im Norden Benins, die Schutz vor Feinden und wilden Tieren boten.",
       hu: "Különleges, várszerű lakóházak a Köli régióban, amelyeket a Somba nép épített. A hagyományos életforma és védelem egyedülálló kombinációja.",
-      ro: "Casele Tata Somba sunt fortărețe tradiționale din lut, specifice etniei Betammaribe din regiunea Atakora. Structura lor defensivă este unică în arhitectura africană.",
-      en: ""
+      ro: "Casele Tata Somba sunt locuințe fortificate unice, construite din pământ de poporul Somba în regiunea muntoasă Atakora.",
+      en: "Unique two-story fortified dwellings built from earth and straw by the Somba people, resembling miniature castles in the Atakora region."
     },
     facts: {
-      de: [],
+      de: ["Zweistöckige Lehmbauten", "Traditionelle Architektur", "UNESCO-Weltkulturerbe", "Schutz vor Überfällen"],
       hu: ["Helyszín: Atakora-hegység", "Népcsoport: Somba", "Típus: Erődített ház", "Építészeti örökség"],
-      ro: ["Case-fortărețe", "Etnia Betammaribe", "Regiunea Atakora", "Arhitectură defensivă"],
-      en: []
+      ro: ["Locuințe fortificate", "Construcții din pământ", "Regiunea Atakora"],
+      en: ["UNESCO-protected architectural style", "Fortified earth and straw structures", "Located in northern Benin"]
     }
   },
   {
@@ -507,13 +507,13 @@ export const poiExtraBeninHistoryV2: POI[] = [
       en: "Dahomey Amazon Monument"
     },
     description: {
-      de: "Eine gewaltige Statue in Cotonou, die die legendären weiblichen Kriegerinnen des Königreichs Dahomey ehrt.",
+      de: "Dieses Denkmal in Cotonou ehrt die tapferen Kriegerinnen des Königreichs Dahomey, bekannt als die Mino oder Dahomey-Amazonen.",
       hu: "Hatalmas szobor Cotonouban, amely a Dahomey Királyság legendás női harcosai előtt tiszteleg.",
       ro: "O statuie impunătoare în Cotonou, care onorează legendarele femei războinice din Regatul Dahomey.",
       en: "A massive statue in Cotonou honoring the legendary female warriors of the Kingdom of Dahomey."
     },
     facts: {
-      de: ["30 Meter hoch.", "Symbol für Mut und Stärke.", "Eingeweiht im Jahr 2022."],
+      de: ["Höhe von 30 Metern", "Eingeweiht im Jahr 2022", "Bronze-Statue einer Kriegerin", "Wahrzeichen von Cotonou"],
       hu: ["30 méter magas.", "A bátorság és az erő jelképe.", "2022-ben avatták fel."],
       ro: ["30 de metri înălțime.", "Simbol al curajului și puterii.", "Inaugurat în anul 2022."],
       en: ["30 meters high.", "Symbol of courage and strength.", "Inaugurated in 2022."]

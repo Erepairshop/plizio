@@ -1,0 +1,400 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicReliefV2.ts",
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "birao-wald-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Birao-Wald ist ein weitreichendes Wald- und Savannengebiet in der extrem isolierten Präfektur Vakaga im äußersten Nordosten der Zentralafrikanischen Republik. Geografisch markiert das Relief den harschen Übergang zwischen der sahelischen Trockenzone und den südlicheren, dichteren Waldgebieten. Das Terrain ist geprägt von sandigen Ebenen und leichten Erhebungen mit dürreresistenter Vegetation. Wirtschaftlich ist die Region um den Birao-Wald stark marginalisiert und hat absolut keine formelle industrielle Infrastruktur. Die verstreut lebende Bevölkerung ist zwingend auf extensive Viehwirtschaft und nomadischen Handel über die durchlässigen Grenzen zum Sudan und Tschad angewiesen. Historisch diente das Waldgebiet und die umliegenden Ebenen als essenzieller Knotenpunkt für trans-saharische Handelsrouten. Heute leidet die Region extrem unter politischer Instabilität. Die Abwesenheit staatlicher Sicherheitskräfte hat den Birao-Wald zu einem frequentierten Rückzugsort für Wilderer und grenzüberschreitende Milizen gemacht. Dies zerstört nicht nur die lokale Biodiversität, sondern verhindert auch jegliche wirtschaftliche Entwicklung der stark verarmten Gemeinden.",
+        "hu": "A Birao-erdő egy kiterjedt erdő- és szavannaterület az extrém módon elszigetelt Vakaga prefektúrában, a Közép-afrikai Köztársaság legészakkeletibb részén. Földrajzilag a domborzat a száheli száraz zóna és a délebbre fekvő, sűrűbb erdőségek közötti zord átmenetet jelöli. A terepet homokos síkságok és szárazságtűrő növényzettel borított enyhe magaslatok jellemzik. Gazdasági szempontból a Birao-erdő körüli régió erősen marginalizált, és abszolút semmilyen formális ipari infrastruktúrával nem rendelkezik. A szétszórtan élő lakosság kényszerűen a külterjes állattartásra és a Szudán, valamint Csád felé irányuló, határokon átnyúló nomád kereskedelemre van utalva. Történelmileg az erdőterület és a környező síkságok a transzszaharai kereskedelmi útvonalak elengedhetetlen csomópontjaként szolgáltak. Ma a régió rendkívül sokat szenved a politikai instabilitástól. Az állami biztonsági erők hiánya a Birao-erdőt az orvvadászok és a határokon átnyúló milíciák gyakori menedékévé tette. Ez nemcsak a helyi biodiverzitást pusztítja el, hanem minden gazdasági fejlődést is meggátol a súlyosan elszegényedett közösségek számára.",
+        "ro": "Pădurea Birao este o zonă extinsă de pădure și savană în prefectura extrem de izolată Vakaga, în nord-estul Republicii Centrafricane. Geografic, relieful marchează tranziția aspră între zona aridă saheliană și zonele forestiere mai dense din sud. Terenul este caracterizat de câmpii nisipoase și altitudini ușoare cu vegetație rezistentă la secetă. Economic, regiunea din jurul Pădurii Birao este puternic marginalizată și nu are absolut nicio infrastructură industrială formală. Populația dispersată este obligată să se bazeze pe creșterea extensivă a animalelor și pe comerțul nomad peste granițele poroase cu Sudanul și Ciadul. Istoric, zona forestieră și câmpiile din jur au servit drept un nod esențial pentru rutele comerciale trans-sahariene. Astăzi, regiunea suferă extrem de mult de pe urma instabilității politice. Absența forțelor de securitate ale statului a transformat Pădurea Birao într-un refugiu frecvent pentru braconieri și miliții transfrontaliere. Acest lucru distruge nu numai biodiversitatea locală, ci și previne orice dezvoltare economică pentru comunitățile profund sărăcite.",
+        "en": "The Birao Forest is an extensive forest and savanna area in the extremely isolated Vakaga prefecture in the far northeast of the Central African Republic. Geographically, the relief marks the harsh transition between the arid Sahelian zone and the denser forested areas to the south. The terrain is characterized by sandy plains and slight elevations covered with drought-resistant vegetation. Economically, the region surrounding the Birao Forest is highly marginalized and lacks absolutely any formal industrial infrastructure. The dispersed population is forced to rely on extensive livestock farming and nomadic trade across the porous borders with Sudan and Chad. Historically, the forest area and surrounding plains served as an essential hub for trans-Saharan trade routes. Today, the region suffers extremely from deep political instability. The complete absence of state security forces has turned the Birao Forest into a frequent sanctuary for commercial poachers and cross-border militias. This not only destroys the local biodiversity but also entirely prevents any formal economic development for the severely impoverished local communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Wald liegt in der extrem isolierten Präfektur Vakaga.",
+          "Das Terrain markiert den Übergang zur trockenen Sahelzone.",
+          "Es gibt hier absolut keine formelle industrielle Infrastruktur.",
+          "Nomadische Viehzucht ist die wichtigste Überlebensquelle.",
+          "Bewaffnete Milizen nutzen das Gebiet oft als Rückzugsort."
+        ],
+        "hu": [
+          "Az erdő a rendkívül elszigetelt Vakaga prefektúrában van.",
+          "A terep egyértelműen a száraz Száhel-övezetbe való átmenetet jelöli.",
+          "Itt abszolút semmilyen formális ipari infrastruktúra nincs.",
+          "A nomád állattartás jelenti a helyiek legfőbb túlélési forrását.",
+          "Fegyveres milíciák gyakran használják a területet menedékként."
+        ],
+        "ro": [
+          "Pădurea este situată în prefectura extrem de izolată Vakaga.",
+          "Terenul marchează clar tranziția către zona aridă Sahel.",
+          "Nu există absolut nicio infrastructură industrială formală aici.",
+          "Creșterea nomadă a animalelor este sursa principală de supraviețuire.",
+          "Milițiile armate folosesc adesea zona ca refugiu sigur."
+        ],
+        "en": [
+          "The forest is located in the extremely isolated Vakaga prefecture.",
+          "The terrain distinctly marks the transition to the dry Sahel zone.",
+          "There is absolutely no formal industrial infrastructure present here.",
+          "Nomadic livestock farming is the primary source of basic survival.",
+          "Heavily armed militias frequently utilize the area as a safe haven."
+        ]
+      }
+    },
+    {
+      "id": "mont-mpoko-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont M'Poko ist eine prominente Reliefstruktur in der Präfektur Ombella-M'Poko, unweit der Hauptstadt Bangui. Geografisch dominiert diese Erhebung die lokale Topografie und fungiert als wichtige natürliche Barriere sowie als Wasserscheide für die Zuflüsse des Oubangui-Flusses. Die Hänge des Berges sind mit dichten Sekundärwäldern und Savannengräsern bewachsen, die stark durch menschliche Aktivitäten beeinflusst wurden. Wirtschaftlich ist der Mont M'Poko von großer Bedeutung für die Versorgung der Hauptstadt. Die umliegenden Flächen werden intensiv für den Abbau von Steinen und Sand genutzt, was die lokale Bauindustrie in Bangui mit essenziellen Rohstoffen versorgt. Gleichzeitig wird der Wald an den Hängen stark für die Produktion von Holzkohle abgeholzt. Historisch diente die Erhebung als strategischer Aussichtspunkt über das Flusstal. Heute führen der unregulierte Steinbruchbetrieb und die aggressive Abholzung zu einer extremen Bodenerosion, die die geografische Stabilität des Berges gefährdet. Die lokale Bevölkerung ist fast vollständig von dieser informellen, aber hochgradig zerstörerischen Wirtschaft abhängig.",
+        "hu": "A Mont M'Poko egy kiemelkedő domborzati struktúra az Ombella-M'Poko prefektúrában, nem messze a fővárostól, Banguitól. Földrajzilag ez a magaslat uralja a helyi topográfiát, és fontos természetes gátként, valamint vízválasztóként funkcionál az Oubangui-folyó mellékfolyói számára. A hegy lejtőit sűrű másodlagos erdők és szavannafüvek borítják, amelyeket erősen befolyásoltak az emberi tevékenységek. Gazdasági szempontból a Mont M'Poko nagy jelentőséggel bír a főváros ellátásában. A környező területeket intenzíven használják kő- és homokbányászatra, ami a bangui helyi építőipart látja el alapvető nyersanyagokkal. Ugyanakkor a lejtőkön lévő erdőket erőteljesen irtják a faszéntermelés miatt. Történelmileg a magaslat stratégiai kilátópontként szolgált a folyóvölgy felett. Ma a szabályozatlan kőfejtés és az agresszív erdőirtás rendkívüli talajerózióhoz vezet, ami veszélyezteti a hegy földrajzi stabilitását. A helyi lakosság szinte teljesen ettől az informális, de rendkívül pusztító gazdaságtól függ.",
+        "ro": "Mont M'Poko este o structură de relief proeminentă în prefectura Ombella-M'Poko, nu departe de capitala Bangui. Geografic, această altitudine domină topografia locală și acționează ca o barieră naturală importantă și un bazin hidrografic pentru afluenții fluviului Oubangui. Pantele muntelui sunt acoperite cu păduri secundare dense și ierburi de savană, care au fost puternic influențate de activitățile umane. Din punct de vedere economic, Mont M'Poko este de mare importanță pentru aprovizionarea capitalei. Zonele înconjurătoare sunt utilizate intens pentru extracția de piatră și nisip, oferind industriei locale de construcții din Bangui materii prime esențiale. În același timp, pădurea de pe pante este puternic defrișată pentru producția de cărbune. Istoric, altitudinea a servit drept punct strategic de observație peste valea râului. Astăzi, operațiunile nereglementate de carieră și defrișările agresive duc la o eroziune extremă a solului. Populația depinde de această economie distructivă.",
+        "en": "Mont M'Poko is a prominent relief structure located in the Ombella-M'Poko prefecture, not far from the capital city of Bangui. Geographically, this elevation heavily dominates the local topography and functions as an important natural barrier and watershed for the tributaries of the Oubangui River. The slopes of the mountain are covered with dense secondary forests and savanna grasses, which have been heavily influenced by human activities. Economically, Mont M'Poko is of great importance for supplying the capital. The surrounding areas are intensively utilized for the extraction of stone and sand, providing the local construction industry in Bangui with absolutely essential raw materials. Simultaneously, the forest on the slopes is heavily logged for commercial charcoal production. Historically, the elevation served as a strategic vantage point overlooking the river valley. Today, unregulated quarrying operations and aggressive deforestation lead to extreme soil erosion, which severely threatens the geographical stability of the mountain. The local population is almost entirely dependent on this informal yet highly destructive economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont M'Poko liegt in unmittelbarer Nähe zur Hauptstadt Bangui.",
+          "Die Hänge leiden unter extremer und unregulierter Abholzung.",
+          "Der Berg liefert Steine und Sand für die lokale Bauindustrie.",
+          "Holzkohleproduktion ist hier eine primäre Einkommensquelle.",
+          "Die intensive Ausbeutung führt zu sehr gefährlicher Bodenerosion."
+        ],
+        "hu": [
+          "A Mont M'Poko nagyon közel fekszik a fővároshoz, Banguihoz.",
+          "A lejtők extrém és szabályozatlan erdőirtástól szenvednek.",
+          "A hegy köveket és homokot biztosít a helyi építőiparnak.",
+          "A faszéntermelés abszolút elsődleges bevételi forrás itt.",
+          "Az intenzív kitermelés nagyon veszélyes talajerózióhoz vezet."
+        ],
+        "ro": [
+          "Mont M'Poko este situat în imediata apropiere a capitalei Bangui.",
+          "Pantele suferă de defrișări extreme și complet nereglementate.",
+          "Muntele furnizează pietre și nisip pentru industria de construcții.",
+          "Producția de cărbune este o sursă primară de venit aici.",
+          "Exploatarea intensivă duce la o eroziune a solului foarte periculoasă."
+        ],
+        "en": [
+          "Mont M'Poko is located in close proximity to the capital Bangui.",
+          "The slopes suffer heavily from extreme, unregulated deforestation.",
+          "The mountain provides essential stone and sand for local construction.",
+          "Commercial charcoal production is an absolute primary income source.",
+          "Intensive human exploitation leads to highly dangerous soil erosion."
+        ]
+      }
+    },
+    {
+      "id": "mont-ali-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Ali ist ein isoliertes Bergmassiv in der Zentralafrikanischen Republik, das sich deutlich aus den relativ flachen Savannenlandschaften der umliegenden Präfekturen erhebt. Geografisch zeichnet sich das Relief durch raue, granitene Felsstrukturen und tiefe Schluchten aus, die eine natürliche Barriere gegen extreme Wetterbedingungen bilden. Ökologisch unterstützen die schwer zugänglichen Täler dichte Waldfragmente, die für die lokale Biodiversität von großer Bedeutung sind. Wirtschaftlich ist der Mont Ali vollständig vom nationalen und internationalen Handel abgeschnitten. Die fehlende Infrastruktur macht jegliche formelle industrielle Nutzung völlig unmöglich. Die kleine, stark verstreute lokale Bevölkerung betreibt Subsistenzlandwirtschaft und sucht in den Wäldern des Berges nach essbarem Wild und Honig. Historisch betrachtet bot das unwegsame Terrain des Mont Ali den lokalen Gemeinschaften strategischen Schutz vor Sklavenjagden und kolonialen Übergriffen. In der modernen Ära hat diese Abgeschiedenheit jedoch dazu geführt, dass bewaffnete Milizen den Berg als sicheren Rückzugsort nutzen, was die anhaltende Instabilität und wirtschaftliche Stagnation der gesamten Region weiter verfestigt.",
+        "hu": "A Mont Ali egy elszigetelt hegytömb a Közép-afrikai Köztársaságban, amely markánsan emelkedik ki a környező prefektúrák viszonylag sík szavannás tájaiból. Földrajzilag a domborzatot zord, gránit sziklaszerkezetek és mély szurdokok jellemzik, amelyek természetes gátat képeznek az extrém időjárási viszonyokkal szemben. Ökológiai szempontból a nehezen megközelíthető völgyek sűrű erdőtöredékeket tartanak fenn, amelyek nagy jelentőséggel bírnak a helyi biodiverzitás számára. Gazdasági szempontból a Mont Ali teljesen el van vágva a nemzeti és nemzetközi kereskedelemtől. Az infrastruktúra hiánya minden formális ipari hasznosítást teljesen lehetetlenné tesz. A kicsi, erősen szétszórt helyi lakosság önellátó mezőgazdaságot folytat, és ehető vadállatokat, valamint mézet keres a hegy erdeiben. Történelmi szempontból a Mont Ali járhatatlan terepe stratégiai védelmet nyújtott a helyi közösségeknek a rabszolgavadászatok és a gyarmati beavatkozások elől. A modern korban azonban ez az elzártság ahhoz vezetett, hogy fegyveres milíciák biztonságos menedékként használják a hegyet, ami tovább erősíti az egész régió folyamatos instabilitását és gazdasági stagnálását.",
+        "ro": "Mont Ali este un masiv montan izolat din Republica Centrafricană, care se ridică vizibil din peisajele de savană relativ plate ale prefecturilor din jur. Geografic, relieful se caracterizează prin structuri stâncoase de granit aspre și chei adânci, care formează o barieră naturală împotriva condițiilor meteorologice extreme. Din punct de vedere ecologic, văile greu accesibile susțin fragmente dense de pădure, care sunt de mare importanță pentru biodiversitatea locală. Economic, Mont Ali este complet rupt de comerțul național și internațional. Lipsa infrastructurii face absolut imposibilă orice utilizare industrială formală. Populația locală mică, puternic dispersată, practică agricultura de subzistență și caută vânat și miere în pădurile muntelui. Istoric, terenul accidentat al Mont Ali a oferit comunităților locale protecție strategică împotriva raidurilor de sclavi și a incursiunilor coloniale. În era modernă, însă, această izolare a determinat milițiile armate să folosească muntele ca refugiu sigur. Acest lucru consolidează și mai mult instabilitatea continuă și stagnarea economică a întregii regiuni.",
+        "en": "Mont Ali is an isolated mountain massif in the Central African Republic that rises prominently from the relatively flat savanna landscapes of the surrounding prefectures. Geographically, the relief is characterized by rugged granitic rock structures and deep gorges that form a natural barrier against extreme weather conditions. Ecologically, the highly inaccessible valleys support dense forest fragments that are of great importance to local biodiversity. Economically, Mont Ali is completely cut off from national and international trade. The absolute lack of infrastructure makes any formal industrial utilization completely impossible. The small, highly dispersed local population practices strict subsistence farming and forages for edible wild game and honey in the mountain's forests. Historically, the impassable terrain of Mont Ali provided local communities with crucial strategic protection from historical slave hunts and colonial incursions. In the modern era, however, this extreme seclusion has led armed militias to heavily utilize the mountain as a highly secure safe haven, which only further entrenches the ongoing instability and complete economic stagnation of the entire region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Mont Ali ist ein massiver, isolierter Berg aus Granitgestein.",
+          "Tiefe Schluchten und dichte Wälder prägen die Berglandschaft.",
+          "Es fehlt hier absolut an jeder Art von formaler Infrastruktur.",
+          "Lokale Familien leben exklusiv von Jagd und Subsistenzwirtschaft.",
+          "Rebellen nutzen das unzugängliche Terrain oft als sicheres Lager."
+        ],
+        "hu": [
+          "A Mont Ali egy masszív, rendkívül elszigetelt gránithegy.",
+          "Mély szurdokok és sűrű erdőtöredékek határozzák meg a tájat.",
+          "Itt abszolút mindenféle formális infrastruktúra hiányzik.",
+          "A helyi családok kizárólag vadászatból és önellátásból élnek.",
+          "A fegyveres lázadók gyakran használják a terepet biztonságos táborként."
+        ],
+        "ro": [
+          "Mont Ali este un munte masiv și foarte izolat din rocă de granit.",
+          "Cheile adânci și fragmentele dense de pădure domină peisajul.",
+          "Există o lipsă absolută de orice fel de infrastructură formală aici.",
+          "Familiile locale trăiesc exclusiv din vânătoare și subzistență.",
+          "Rebelii folosesc frecvent terenul inaccesibil ca tabără sigură."
+        ],
+        "en": [
+          "Mont Ali is a massive, highly isolated mountain made of granite rock.",
+          "Deep rugged gorges and dense forest fragments dominate the landscape.",
+          "There is an absolute lack of any kind of formal infrastructure here.",
+          "Local families survive exclusively on hunting and basic subsistence farming.",
+          "Armed rebels frequently utilize the inaccessible terrain as a safe camp."
+        ]
+      }
+    },
+    {
+      "id": "kotto-massiv-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kotto-Massiv ist eine ausgedehnte Gebirgsformation im Osten der Zentralafrikanischen Republik, die das Quellgebiet des gleichnamigen Kotto-Flusses bildet. Geografisch markiert das Relief einen kritischen Bruch in der Landschaft und trennt die feuchteren Gebiete im Süden von den trockeneren nordöstlichen Savannen. Die Hänge des Massivs bestehen aus widerstandsfähigem Gestein, das starke Erosionslinien aufweist. Wirtschaftlich ist die Präsenz des Kotto-Massivs von dualer Natur: Während die Landwirtschaft aufgrund der steilen und kargen Böden fast unmöglich ist, birgt das Gestein immense Vorkommen an alluvialen Diamanten, die in die Flusstäler gespült werden. Diese geologische Realität hat eine massive informelle Bergbauindustrie hervorgebracht. Historisch zog der Reichtum des Massivs stets Händler und Ausbeuter an. In den letzten Jahrzehnten hat die staatliche Schwäche jedoch dazu geführt, dass sich das Gebiet in einen gesetzlosen Raum verwandelt hat. Bewaffnete Rebellengruppen kontrollieren die Zugänge zum Massiv mit eiserner Faust, besteuern die lokalen Schürfer illegal und finanzieren so ihre anhaltenden militärischen Kampagnen.",
+        "hu": "A Kotto-masszívum egy kiterjedt hegyvidéki formáció a Közép-afrikai Köztársaság keleti részén, amely az azonos nevű Kotto-folyó forrásvidékét képezi. Földrajzilag a domborzat kritikus törést jelent a tájban, elválasztva a nedvesebb déli területeket a szárazabb északkeleti szavannáktól. A masszívum lejtői ellenálló kőzetből állnak, amely erős eróziós vonalakat mutat. Gazdasági szempontból a Kotto-masszívum jelenléte kettős természetű: míg a meredek és kopár talajok miatt a mezőgazdaság szinte lehetetlen, a kőzet hatalmas hordalékos gyémántlerakódásokat rejt, amelyek a folyóvölgyekbe mosódnak. Ez a geológiai valóság egy masszív informális bányászati ipart hozott létre. Történelmileg a masszívum gazdagsága mindig is vonzotta a kereskedőket és a kizsákmányolókat. Az elmúlt évtizedekben azonban az állami gyengeség ahhoz vezetett, hogy a terület egy törvényen kívüli térséggé változott. Fegyveres lázadó csoportok vasmarokkal ellenőrzik a masszívumhoz vezető utakat, illegálisan megadóztatják a helyi bányászokat, és ebből finanszírozzák folyamatos katonai hadjárataikat.",
+        "ro": "Masivul Kotto este o formațiune montană extinsă în estul Republicii Centrafricane, care formează zona de izvor a râului omonim Kotto. Geografic, relieful marchează o ruptură critică în peisaj, separând zonele mai umede din sud de savanele mai uscate din nord-est. Pantele masivului sunt formate din rocă rezistentă, care prezintă linii puternice de eroziune. Din punct de vedere economic, prezența Masivului Kotto are o natură duală: în timp ce agricultura este aproape imposibilă din cauza solurilor abrupte și sterile, roca ascunde depozite imense de diamante aluvionare, care sunt spălate în văile râurilor. Această realitate geologică a dat naștere unei industrii miniere informale masive. Istoric, bogăția masivului a atras întotdeauna comercianți și exploatatori. În ultimele decenii, slăbiciunea statului a dus la transformarea zonei într-un spațiu fără lege. Grupările rebele armate controlează accesul la masiv cu o mână de fier, taxează ilegal minerii locali și astfel își finanțează campaniile militare continue.",
+        "en": "The Kotto Massif is an extensive mountain formation in the eastern part of the Central African Republic, forming the headwaters of the eponymous Kotto River. Geographically, the relief marks a critical break in the landscape, physically separating the moister southern areas from the drier northeastern savannas. The slopes of the massif consist of resistant rock that features severe erosion lines. Economically, the presence of the Kotto Massif is of a highly dual nature: while agriculture is almost completely impossible due to the steep and barren soils, the rock conceals immense deposits of alluvial diamonds that are washed down into the river valleys. This absolute geological reality has spawned a massive informal mining industry. Historically, the wealth of the massif consistently attracted ambitious traders and exploiters. In recent decades, however, state weakness has led the area to degenerate into a completely lawless zone. Heavily armed rebel groups control access to the massif with an iron fist, illegally taxing the local artisanal miners to directly finance their ongoing military campaigns."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Kotto-Massiv liegt im unruhigen Osten der Zentralafrikanischen Republik.",
+          "Hier entspringt der extrem wichtige und gleichnamige Kotto-Fluss.",
+          "Das raue Gestein ist extrem reich an wertvollen Diamantenvorkommen.",
+          "Reguläre Landwirtschaft ist an den steilen Hängen praktisch unmöglich.",
+          "Rebellen besteuern die illegalen Bergleute mit schwerer Gewalt."
+        ],
+        "hu": [
+          "A Kotto-masszívum a Közép-afrikai Köztársaság nyugtalan keleti részén van.",
+          "Itt ered a rendkívül fontos, azonos nevű Kotto-folyó vize.",
+          "A zord és meredek kőzet extrém módon gazdag gyémántlelőhelyekben.",
+          "A szabályos mezőgazdaság a meredek lejtőkön gyakorlatilag lehetetlen.",
+          "Fegyveres lázadók súlyos erőszakkal adóztatják meg az illegális bányászokat."
+        ],
+        "ro": [
+          "Masivul Kotto este situat în estul foarte neliniștit al țării.",
+          "De aici izvorăște râul omonim Kotto, extrem de important.",
+          "Roca brută este extrem de bogată în zăcăminte valoroase de diamante.",
+          "Agricultura regulată este practic imposibilă pe pantele foarte abrupte.",
+          "Rebelii impozitează ilegal minerii informali folosind violența severă."
+        ],
+        "en": [
+          "The Kotto Massif is located in the highly volatile eastern part of the country.",
+          "The extremely important, eponymous Kotto River originates right here.",
+          "The rugged rock is extremely rich in highly valuable diamond deposits.",
+          "Regular agriculture is practically completely impossible on the steep slopes.",
+          "Armed rebels illegally tax the artisanal miners using severe violence."
+        ]
+      }
+    },
+    {
+      "id": "ndjamena-cities-v2",
+      "descriptionAdvanced": {
+        "de": "N'Djamena ist die Hauptstadt und mit Abstand größte Stadt des Tschad, gelegen im Südwesten des Landes direkt am Zusammenfluss des Logone und des Schari. Geografisch markiert die Stadt einen vitalen Knotenpunkt nahe der Grenze zu Kamerun und bildet das administrative sowie wirtschaftliche Herz der Nation. Die Wirtschaft N'Djamenas ist stark auf den Dienstleistungssektor, den grenzüberschreitenden Handel und die Verarbeitung landwirtschaftlicher Produkte (wie Fleisch und Baumwolle) ausgerichtet. Die Stadt fungiert als Hauptumschlagplatz für Güter, die über Kamerun importiert werden. Historisch wurde N'Djamena 1900 unter dem Namen Fort-Lamy von der französischen Kolonialmacht gegründet und war während des Zweiten Weltkriegs ein extrem wichtiger Luftwaffenstützpunkt für die Alliierten. Nach der Unabhängigkeit erlebte die Stadt ein massives, oft ungeplantes Bevölkerungswachstum, angetrieben durch Landflucht und zahlreiche Binnenflüchtlinge aus Konfliktzonen. Trotz der Präsenz moderner Regierungsgebäude und internationaler Hotels leidet N'Djamena unter massiven infrastrukturellen Defiziten, insbesondere bei der Stromversorgung und dem Abwassersystem, die das tägliche Leben der stark wachsenden Bevölkerung erheblich belasten.",
+        "hu": "N'Djamena Csád fővárosa és messze legnagyobb városa, amely az ország délnyugati részén, közvetlenül a Logone és a Chari folyók összefolyásánál fekszik. Földrajzilag a város egy létfontosságú csomópontot jelent a kameruni határ közelében, és a nemzet közigazgatási, valamint gazdasági szívét alkotja. N'Djamena gazdasága erősen a szolgáltatási szektorra, a határokon átnyúló kereskedelemre és a mezőgazdasági termékek (például hús és gyapot) feldolgozására összpontosít. A város a Kamerunon keresztül importált áruk fő elosztóközpontjaként funkcionál. Történelmileg N'Djamenát 1900-ban alapította a francia gyarmati hatalom Fort-Lamy néven, és a második világháború alatt a szövetségesek rendkívül fontos légitámaszpontja volt. A függetlenség után a város masszív, gyakran tervezetlen népességnövekedést élt át, amelyet a vidék elnéptelenedése és a konfliktusövezetekből érkező belső menekültek hajtottak. A modern kormányzati épületek és nemzetközi szállodák jelenléte ellenére N'Djamena hatalmas infrastrukturális hiányosságoktól szenved, különösen az áramellátás és a csatornarendszer terén, amelyek jelentősen megnehezítik az erősen növekvő lakosság mindennapi életét.",
+        "ro": "N'Djamena este capitala și, de departe, cel mai mare oraș din Ciad, situat în sud-vestul țării, direct la confluența râurilor Logone și Chari. Geografic, orașul marchează un nod vital lângă granița cu Camerun și formează inima administrativă și economică a națiunii. Economia orașului N'Djamena este puternic concentrată pe sectorul serviciilor, comerțul transfrontalier și prelucrarea produselor agricole (cum ar fi carnea și bumbacul). Orașul acționează ca principalul centru de distribuție pentru bunurile importate prin Camerun. Istoric, N'Djamena a fost fondată în 1900 sub numele de Fort-Lamy de către puterea colonială franceză și a fost o bază aeriană extrem de importantă pentru Aliați în timpul celui de-al Doilea Război Mondial. După independență, orașul a experimentat o creștere masivă, adesea neplanificată a populației, determinată de migrația rurală și de refugiații interni din zonele de conflict. În ciuda prezenței clădirilor guvernamentale moderne, N'Djamena suferă de deficite infrastructurale masive. Penele de curent sunt foarte frecvente.",
+        "en": "N'Djamena is the capital and by far the largest city in Chad, located in the southwestern part of the country directly at the confluence of the Logone and Chari rivers. Geographically, the city marks a highly vital junction near the border with Cameroon and firmly forms the administrative and economic heart of the nation. N'Djamena's economy is heavily focused on the service sector, cross-border trade, and the processing of agricultural products (such as meat and cotton). The city functions as the primary distribution hub for goods imported via Cameroon. Historically, N'Djamena was founded in 1900 under the name Fort-Lamy by the French colonial power and served as an extremely important airbase for the Allies during the Second World War. Following national independence, the city experienced a massive, often completely unplanned population surge, heavily driven by rural exodus and numerous internally displaced persons fleeing conflict zones. Despite the presence of modern government buildings and international hotels, N'Djamena suffers from massive infrastructural deficits, particularly concerning the erratic power supply and totally inadequate sewage systems, severely burdening the rapidly growing urban population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "N'Djamena ist die absolute Metropole und Hauptstadt des Tschad.",
+          "Die Stadt liegt genau am Zusammenfluss von Logone und Schari.",
+          "Sie wurde 1900 unter dem kolonialen Namen Fort-Lamy gegründet.",
+          "Die lokale Wirtschaft stützt sich auf Handel und Dienstleistungen.",
+          "Ein massiver Bevölkerungswachstum überlastet die Infrastruktur."
+        ],
+        "hu": [
+          "N'Djamena Csád abszolút legfőbb metropolisza és hivatalos fővárosa.",
+          "A város pontosan a Logone és a Chari folyók összefolyásánál fekszik.",
+          "Az eredeti települést 1900-ban alapították Fort-Lamy néven.",
+          "A helyi gazdaság leginkább a kereskedelemre és szolgáltatásokra épül.",
+          "A nagyon drasztikus népességnövekedés túlterheli az infrastruktúrát."
+        ],
+        "ro": [
+          "N'Djamena este metropola absolută și capitala oficială a Ciadului.",
+          "Orașul este situat exact la confluența râurilor Logone și Chari.",
+          "A fost fondat oficial în 1900 sub vechiul nume colonial Fort-Lamy.",
+          "Economia locală se bazează puternic pe comerț și diverse servicii.",
+          "O creștere foarte masivă a populației supraîncarcă infrastructura."
+        ],
+        "en": [
+          "N'Djamena is the absolute primary metropolis and capital city of Chad.",
+          "The city is situated exactly at the confluence of the Logone and Chari rivers.",
+          "It was officially founded in 1900 under the colonial name Fort-Lamy.",
+          "The local urban economy relies heavily on import trade and basic services.",
+          "A massive, unchecked population growth severely overloads the infrastructure."
+        ]
+      }
+    },
+    {
+      "id": "moundou-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Moundou ist die zweitgrößte Stadt des Tschad und liegt im äußersten Südwesten des Landes an den Ufern des Logone-Flusses. Geografisch profitiert die Stadt von der Lage im fruchtbaren sudanesischen Klimagürtel, was sie zum absoluten landwirtschaftlichen Zentrum der Nation macht. Wirtschaftlich ist Moundou das industrielle Herz des Tschad. Hier befindet sich die nationale Baumwollgesellschaft (CotonTchad), die Tausenden von Bauern ein Einkommen sichert, sowie die größte Brauerei des Landes, die Brasseries du Tchad (Brastchad), die das berühmte Gala-Bier produziert. Diese industriellen Anlagen machen Moundou zu einem essenziellen Wirtschaftsmotor, der unabhängig von den Öleinnahmen des Landes funktioniert. Historisch wurde die Stadt 1923 vom französischen Kolonialoffizier Joseph Édouard Maigret gegründet und entwickelte sich rasch durch den Export von Baumwolle. Trotz ihrer enormen wirtschaftlichen Bedeutung ist die städtische Infrastruktur in Moundou sehr mangelhaft; nur wenige Straßen sind asphaltiert und während der Regenzeit führen Überschwemmungen regelmäßig zu schweren logistischen Problemen und Verkehrsblockaden.",
+        "hu": "Moundou Csád második legnagyobb városa, amely az ország legdélnyugatibb részén, a Logone-folyó partján fekszik. Földrajzilag a város sokat profitál abból, hogy a termékeny szudáni éghajlati övezetben helyezkedik el, ami a nemzet abszolút mezőgazdasági központjává teszi. Gazdasági szempontból Moundou Csád ipari szíve. Itt található a nemzeti gyapotvállalat (CotonTchad), amely több ezer gazda számára biztosít jövedelmet, valamint az ország legnagyobb sörfőzdéje, a Brasseries du Tchad (Brastchad), amely a híres Gala sört gyártja. Ezek az ipari létesítmények Moundout egy alapvető gazdasági motorrá teszik, amely az ország olajbevételeitől függetlenül működik. Történelmileg a várost 1923-ban alapította Joseph Édouard Maigret francia gyarmati tiszt, és a gyapotexport révén gyorsan fejlődött. Hatalmas gazdasági jelentősége ellenére Moundou városi infrastruktúrája nagyon hiányos; kevés út van aszfaltozva, és az esős évszakban az áradások rendszeresen súlyos logisztikai problémákhoz és forgalmi akadályokhoz vezetnek.",
+        "ro": "Moundou este al doilea oraș ca mărime din Ciad și este situat în extremitatea sud-vestică a țării, pe malurile râului Logone. Geografic, orașul beneficiază de poziția sa în centura climatică fertilă sudaneză, ceea ce îl face centrul agricol absolut al națiunii. Economic, Moundou este inima industrială a Ciadului. Aici se află compania națională de bumbac (CotonTchad), care asigură un venit pentru mii de fermieri, precum și cea mai mare fabrică de bere din țară, Brasseries du Tchad (Brastchad), care produce faimoasa bere Gala. Aceste facilități industriale transformă orașul Moundou într-un motor economic esențial care funcționează independent de veniturile din petrol ale țării. Istoric, orașul a fost fondat în 1923 de ofițerul colonial francez Joseph Édouard Maigret și s-a dezvoltat rapid prin exportul de bumbac. În ciuda importanței sale economice enorme, infrastructura urbană din Moundou este foarte deficitară; puține drumuri sunt asfaltate, iar inundațiile blochează adesea traficul.",
+        "en": "Moundou is the second-largest city in Chad, located in the extreme southwestern part of the country on the banks of the Logone River. Geographically, the city heavily benefits from its location in the highly fertile Sudanian climate belt, making it the absolute agricultural center of the nation. Economically, Moundou is the industrial heart of Chad. It is home to the national cotton company (CotonTchad), which thoroughly secures an income for thousands of local farmers, as well as the country's largest brewery, Brasseries du Tchad (Brastchad), which produces the highly famous Gala beer. These industrial facilities make Moundou an essential economic engine that functions completely independently of the country's oil revenues. Historically, the city was formally founded in 1923 by French colonial officer Joseph Édouard Maigret and quickly developed through the lucrative export of cotton. Despite its enormous economic significance, the urban infrastructure in Moundou is highly deficient; only a very few roads are paved, and during the heavy rainy season, severe flooding regularly leads to major logistical problems and complete traffic blockades."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Moundou ist die absolut zweitgrößte Stadt im Land Tschad.",
+          "Sie gilt historisch als das wichtigste industrielle Zentrum der Nation.",
+          "Die größte Brauerei des Landes produziert hier das berühmte Gala-Bier.",
+          "Die Baumwollindustrie sichert hier Tausenden Bauern das Einkommen.",
+          "Während der intensiven Regenzeit kommt es extrem oft zu Überschwemmungen."
+        ],
+        "hu": [
+          "Moundou Csád abszolút második legnépesebb és legnagyobb városa.",
+          "Történelmileg ez a nemzet legfontosabb és legaktívabb ipari központja.",
+          "Az ország legnagyobb sörfőzdéje itt állítja elő a híres Gala sört.",
+          "A gyapotipar helyi gazdák ezreinek biztosít folyamatos jövedelmet.",
+          "Az intenzív esős évszakban rendkívül gyakoriak a súlyos áradások."
+        ],
+        "ro": [
+          "Moundou este de departe al doilea oraș ca mărime din statul Ciad.",
+          "Este considerat istoric cel mai important centru industrial al națiunii.",
+          "Cea mai mare fabrică de bere din țară produce celebra bere Gala aici.",
+          "Industria bumbacului asigură venituri stabile pentru mii de fermieri.",
+          "În timpul sezonului ploios intens, inundațiile severe sunt foarte frecvente."
+        ],
+        "en": [
+          "Moundou is the absolute second-largest city in the country of Chad.",
+          "It is historically considered the most vital industrial center of the nation.",
+          "The country's largest brewery produces the highly famous Gala beer right here.",
+          "The massive cotton industry secures steady income for thousands of farmers.",
+          "During the intense rainy season, severe flooding occurs extremely frequently."
+        ]
+      }
+    },
+    {
+      "id": "sarh-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sarh, ehemals als Fort-Archambault bekannt, ist die drittgrößte Stadt des Tschad und das Zentrum der Provinz Moyen-Chari im heißen, südlichen Landesteil. Geografisch liegt die Stadt an den Ufern des Schari-Flusses, der für die lokale Bevölkerung von immenser Bedeutung ist. Wirtschaftlich ist Sarh tief in der Landwirtschaft und der Textilindustrie verwurzelt. Die Region um die Stadt ist extrem fruchtbar und dient als ein nationaler Hauptstandort für den Anbau von Baumwolle und Zuckerrohr. Die in Sarh ansässige Textilfabrik (STT) war historisch einer der größten Arbeitgeber des Landes, hat jedoch in den letzten Jahren durch wirtschaftliche Misswirtschaft stark an Bedeutung verloren. Auch die nahegelegene Zuckerfabrik (CST) in Banda ist wirtschaftlich zentral. Historisch wurde Sarh 1899 von den Franzosen gegründet und war später der Endpunkt für viele Arbeitsmigranten, die beim Bau der Kongo-Ozean-Eisenbahn eingesetzt wurden. Heute leidet die Stadt unter einer unzureichenden Anbindung an die Hauptstadt und fehlenden Investitionen, was das städtische Wachstum bremst und die Armut vergrößert.",
+        "hu": "Sarh, korábbi nevén Fort-Archambault, Csád harmadik legnagyobb városa, és a Moyen-Chari tartomány központja a forró, déli országrészben. Földrajzilag a város a Chari-folyó partján fekszik, amely óriási jelentőséggel bír a helyi lakosság számára. Gazdasági szempontból Sarh mélyen gyökerezik a mezőgazdaságban és a textiliparban. A város körüli régió rendkívül termékeny, és a gyapot- valamint a cukornádtermesztés egyik fő nemzeti központjaként szolgál. A Sarhban található textilgyár (STT) történelmileg az ország egyik legnagyobb munkaadója volt, de az elmúlt években a gazdasági rossz gazdálkodás miatt sokat veszített jelentőségéből. A közeli, bandai cukorgyár (CST) szintén gazdasági szempontból központi szerepet játszik. Történelmileg Sarhot a franciák alapították 1899-ben, majd később számos olyan vendégmunkás végállomása lett, akiket a Kongó-Óceán vasútvonal építésénél alkalmaztak. Ma a város a fővárossal való nem megfelelő összeköttetéstől és a beruházások hiányától szenved, ami lelassítja a városi növekedést és növeli a szegénységet.",
+        "ro": "Sarh, cunoscut anterior sub numele de Fort-Archambault, este al treilea oraș ca mărime din Ciad și centrul provinciei Moyen-Chari din partea de sud, foarte caldă, a țării. Geografic, orașul este situat pe malurile râului Chari, care are o importanță imensă pentru populația locală. Din punct de vedere economic, Sarh este adânc înrădăcinat în agricultură și industria textilă. Regiunea din jurul orașului este extrem de fertilă și servește ca principală locație națională pentru cultivarea bumbacului și a trestiei de zahăr. Fabrica de textile (STT) cu sediul în Sarh a fost istoric unul dintre cei mai mari angajatori din țară, dar a pierdut mult din importanță în ultimii ani din cauza managementului defectuos. Fabrica de zahăr din apropiere, la Banda, este, de asemenea, centrală din punct de vedere economic. Istoric, Sarh a fost fondat de francezi în 1899. Astăzi, orașul suferă de conexiuni rutiere inadecvate cu capitala și de lipsa investițiilor, ceea ce încetinește creșterea urbană și exacerbează sărăcia profundă.",
+        "en": "Sarh, formerly known strictly as Fort-Archambault, is the third-largest city in Chad and the primary center of the Moyen-Chari province in the hot, southern part of the country. Geographically, the city is situated directly on the banks of the Chari River, which is of immense importance to the local population. Economically, Sarh is deeply rooted in agriculture and the textile industry. The region surrounding the city is extremely fertile and serves as a major national location for the intensive cultivation of export cotton and sugarcane. The textile factory (STT) located in Sarh was historically one of the absolute largest employers in the country, but has lost significant importance in recent years due to severe economic mismanagement. The nearby sugar factory (CST) in Banda is also economically central. Historically, Sarh was officially founded by the French in 1899 and later served as the endpoint for many migrant workers employed in the construction of the Congo-Ocean Railway. Today, the city suffers from highly inadequate road connections to the capital and a total lack of investment, which severely slows urban growth and exacerbates deep poverty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sarh ist die drittgrößte Stadt und liegt im Süden des Tschad.",
+          "Die Stadt wurde historisch unter dem Namen Fort-Archambault gegründet.",
+          "Sie liegt strategisch direkt an den Ufern des wichtigen Schari-Flusses.",
+          "Die Region ist ein absolutes Zentrum für den nationalen Baumwollanbau.",
+          "Schlechte Straßenverbindungen behindern die lokale Wirtschaft stark."
+        ],
+        "hu": [
+          "Sarh a harmadik legnagyobb város, és Csád nagyon forró déli részén fekszik.",
+          "A várost történelmileg a franciák Fort-Archambault néven alapították meg.",
+          "Stratégiailag közvetlenül a rendkívül fontos Chari-folyó partján található.",
+          "A régió a nemzeti gyapot- és cukornádtermesztés abszolút központja.",
+          "A nagyon rossz útviszonyok jelentősen akadályozzák a helyi gazdaságot."
+        ],
+        "ro": [
+          "Sarh este al treilea oraș ca mărime și este situat în sudul Ciadului.",
+          "Orașul a fost fondat istoric sub vechiul nume de Fort-Archambault.",
+          "Este situat strategic direct pe malurile importantului râu Chari.",
+          "Regiunea este un centru absolut vital pentru cultivarea bumbacului național.",
+          "Conexiunile rutiere extrem de proaste împiedică grav economia locală."
+        ],
+        "en": [
+          "Sarh is the third-largest city and is located in the deep south of Chad.",
+          "The city was historically officially founded under the name Fort-Archambault.",
+          "It is strategically situated directly on the banks of the vital Chari River.",
+          "The region acts as an absolute center for national commercial cotton cultivation.",
+          "Extremely poor road connections severely hamper any local economic growth."
+        ]
+      }
+    },
+    {
+      "id": "abeche-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Abéché ist die viertgrößte Stadt des Tschad und die historische sowie administrative Hauptstadt der Provinz Ouaddaï im Osten des Landes. Geografisch liegt die Stadt in einer extrem trockenen Sahel-Umgebung, umgeben von wüstenartigen Ebenen. Wirtschaftlich ist Abéché ein hochwichtiger Knotenpunkt für den Handel mit dem benachbarten Sudan und für die nomadische Viehwirtschaft (vor allem Kamele und Rinder). Ein Großteil der städtischen Wirtschaft dreht sich um den lokalen Fleisch- und Ledermarkt sowie die Versorgung der zahlreichen internationalen NGOs und UN-Agenturen, die aufgrund der Flüchtlingskrisen in Darfur hier riesige Logistikbasen betreiben. Historisch war Abéché das Zentrum des mächtigen Ouaddaï-Sultanats und lag an der Hauptroute des trans-saharischen Sklavenhandels. Die Stadt ist berühmt für ihre alten Moscheen und verwinkelten Gassen, die jedoch stark vom Sandverfall bedroht sind. Die größte Herausforderung für Abéché ist die absolute Wasserknappheit; der Mangel an zuverlässigen Brunnen führt in der langen Trockenzeit regelmäßig zu existenziellen Krisen für die stetig wachsende Stadtbevölkerung.",
+        "hu": "Abéché Csád negyedik legnagyobb városa, és az ország keleti részén fekvő Ouaddaï tartomány történelmi és közigazgatási fővárosa. Földrajzilag a város extrém száraz száheli környezetben fekszik, sivatagszerű síkságokkal körülvéve. Gazdasági szempontból Abéché egy rendkívül fontos csomópont a szomszédos Szudánnal folytatott kereskedelem és a nomád állattenyésztés (főleg tevék és szarvasmarhák) számára. A városi gazdaság nagy része a helyi hús- és bőrpiactól függ, valamint a számos nemzetközi civil szervezet és ENSZ-ügynökség ellátása körül forog, amelyek a dárfúri menekültválságok miatt hatalmas logisztikai bázisokat működtetnek itt. Történelmileg Abéché a hatalmas Ouaddaï Szultanátus központja volt, és a transzszaharai rabszolgakereskedelem fő útvonalán feküdt. A város híres régi mecsetjeiről és kanyargós sikátorairól, amelyeket azonban erősen fenyeget a homokerózió. Abéché legnagyobb kihívása az abszolút vízhiány; a megbízható kutak hiánya a hosszú száraz évszakban rendszeresen egzisztenciális válságokhoz vezet az egyre növekvő városi lakosság számára.",
+        "ro": "Abéché este al patrulea oraș ca mărime din Ciad și capitala istorică și administrativă a provinciei Ouaddaï din estul țării. Geografic, orașul este situat într-un mediu sahelian extrem de uscat, înconjurat de câmpii deșertice. Din punct de vedere economic, Abéché este un nod foarte important pentru comerțul cu Sudanul vecin și pentru creșterea nomadă a animalelor (în special cămile și vite). O mare parte din economia urbană se învârte în jurul pieței locale de carne și piele, precum și în aprovizionarea numeroaselor ONG-uri internaționale și agenții ONU, care operează baze logistice uriașe aici din cauza crizelor refugiaților din Darfur. Istoric, Abéché a fost centrul puternicului Sultanat Ouaddaï și era situat pe ruta principală a comerțului trans-saharian cu sclavi. Orașul este renumit pentru vechile sale moschei și străduțele întortocheate. Cea mai mare provocare pentru Abéché este lipsa absolută de apă; lipsa fântânilor de încredere duce în mod regulat la crize existențiale în timpul sezonului uscat lung.",
+        "en": "Abéché is the fourth-largest city in Chad and acts as the historical and administrative capital of the Ouaddaï province in the eastern part of the country. Geographically, the city is located in an extremely dry Sahelian environment, completely surrounded by desert-like plains. Economically, Abéché is a highly important hub for cross-border trade with neighboring Sudan and for nomadic livestock farming (especially camels and cattle). A large part of the urban economy revolves around the local meat and leather market, as well as supplying the numerous international NGOs and UN agencies that operate massive logistical bases here due to the ongoing Darfur refugee crises. Historically, Abéché was the center of the powerful Ouaddaï Sultanate and lay directly on the main route of the trans-Saharan slave trade. The city is famous for its ancient mosques and winding alleyways, which are, however, heavily threatened by sand erosion. The absolute greatest challenge for Abéché is severe water scarcity; the lack of reliable deep wells regularly leads to existential crises for the steadily growing urban population during the extended dry season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Abéché ist die viertgrößte Stadt und liegt im Osten des Tschad.",
+          "Die Stadt war historisch das Zentrum des mächtigen Ouaddaï-Sultanats.",
+          "Sie ist ein extrem wichtiger Handelspunkt für Kamel- und Rinderzüchter.",
+          "Viele UN-Organisationen haben hier Basen für die Darfur-Flüchtlinge.",
+          "Akuter Wassermangel ist das größte existenzielle Problem der Stadt."
+        ],
+        "hu": [
+          "Abéché a negyedik legnagyobb város, és Csád keleti részén található.",
+          "Történelmileg a város a hatalmas Ouaddaï Szultanátus központja volt.",
+          "Ez egy rendkívül fontos kereskedelmi pont a teve- és szarvasmarhatartóknak.",
+          "Sok ENSZ-szervezet működtet itt bázist a dárfúri menekültek ellátására.",
+          "A krónikus és akut vízhiány a város legnagyobb egzisztenciális problémája."
+        ],
+        "ro": [
+          "Abéché este al patrulea oraș ca mărime și se află în estul Ciadului.",
+          "Orașul a fost istoric centrul puternicului și faimosului Sultanat Ouaddaï.",
+          "Este un punct comercial extrem de important pentru crescătorii de cămile.",
+          "Multe organizații ONU au baze aici pentru refugiații din regiunea Darfur.",
+          "Lipsa acută de apă potabilă este cea mai mare problemă a orașului."
+        ],
+        "en": [
+          "Abéché is the fourth-largest city and is located in the east of Chad.",
+          "The city was historically the absolute center of the powerful Ouaddaï Sultanate.",
+          "It serves as an extremely important trading hub for camel and cattle herders.",
+          "Many UN organizations maintain massive logistical bases here for Darfur refugees.",
+          "Acute and chronic water scarcity is the city's greatest existential problem."
+        ]
+      }
+    },
+    {
+      "id": "kelo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kélo ist die fünftgrößte Stadt im Tschad und befindet sich in der Region Tandjilé im südwestlichen Teil des Landes. Geografisch profitiert die Stadt von ihrer Lage in einer sehr fruchtbaren Übergangszone, die sich ideal für weitreichende Landwirtschaft eignet. Wirtschaftlich ist Kélo ein florierendes landwirtschaftliches Zentrum und gilt national als eine der Hauptproduktionsstätten für Reis, Erdnüsse und Bohnen. Im Gegensatz zu den industriellen Zentren des Südens wird die Wirtschaft hier fast ausschließlich von Kleinbauern und einem sehr lebhaften Großmarkt getragen, der die umliegenden Dörfer und sogar die Hauptstadt N'Djamena mit Lebensmitteln versorgt. Historisch gesehen wuchs die Stadt in der postkolonialen Ära rasant an, da ihre Lage an einer der wenigen Hauptverkehrsstraßen des Landes sie zu einem strategischen Zwischenstopp machte. Trotz der immensen landwirtschaftlichen Produktion leidet Kélo jedoch unter chronischer Vernachlässigung der städtischen Infrastruktur; die Energieversorgung ist extrem unzuverlässig und die Straßen sind während der Regenzeit oft wochenlang völlig unpassierbar.",
+        "hu": "Kélo Csád ötödik legnagyobb városa, amely a Tandjilé régióban, az ország délnyugati részén található. Földrajzilag a város sokat profitál abból, hogy egy nagyon termékeny átmeneti zónában fekszik, amely ideális a kiterjedt mezőgazdaság számára. Gazdasági szempontból Kélo egy virágzó agrárrégió központja, és országosan a rizs, a földimogyoró és a bab egyik fő termőhelyeként tartják számon. A dél ipari központjaival ellentétben az itteni gazdaságot szinte kizárólag a kisbirtokos gazdák és egy nagyon élénk nagybani piac tartja fenn, amely a környező falvakat, sőt még a fővárost, N'Djamenát is ellátja élelmiszerrel. Történelmileg a város a posztkoloniális korszakban gyors növekedésnek indult, mivel az ország egyik ritka főútvonala mentén fekvő elhelyezkedése stratégiai megállóhellyé tette. A hatalmas mezőgazdasági termelés ellenére azonban Kélo a városi infrastruktúra krónikus elhanyagoltságától szenved; az energiaellátás rendkívül megbízhatatlan, az utak pedig az esős évszakban gyakran hetekig teljesen járhatatlanok.",
+        "ro": "Kélo este al cincilea oraș ca mărime din Ciad și este situat în regiunea Tandjilé din partea de sud-vest a țării. Geografic, orașul beneficiază de poziția sa într-o zonă de tranziție foarte fertilă, ideală pentru o agricultură extinsă. Economic, Kélo este un centru agricol prosper și este considerat la nivel național ca unul dintre principalele locuri de producție pentru orez, alune și fasole. Spre deosebire de centrele industriale din sud, economia de aici este susținută aproape exclusiv de mici fermieri și de o piață angro foarte animată, care aprovizionează satele din jur și chiar capitala N'Djamena cu alimente. Istoric, orașul a crescut rapid în era postcolonială, deoarece locația sa pe una dintre puținele autostrăzi majore ale țării a transformat-o într-o escală strategică. Cu toate acestea, în ciuda imensei producții agricole, Kélo suferă de neglijarea cronică a infrastructurii urbane; aprovizionarea cu energie este extrem de nesigură, iar drumurile sunt adesea complet impracticabile în timpul sezonului ploios.",
+        "en": "Kélo is the fifth-largest city in Chad and is located in the Tandjilé region in the southwestern part of the country. Geographically, the city heavily benefits from its location in a highly fertile transition zone that is perfectly ideal for extensive agriculture. Economically, Kélo is a flourishing agricultural hub and is nationally recognized as one of the main production sites for rice, peanuts, and beans. Unlike the industrial centers of the south, the economy here is driven almost exclusively by smallholder farmers and a highly bustling wholesale market that supplies surrounding villages and even the capital, N'Djamena, with essential food. Historically, the city grew extremely rapidly in the post-colonial era because its location on one of the country's few main highways made it a highly strategic stopover point. However, despite the immense and crucial agricultural production, Kélo suffers heavily from the chronic neglect of its urban infrastructure; the energy supply is extremely unreliable, and the dirt roads are often completely impassable for weeks during the heavy rainy season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kélo ist die fünftgrößte Stadt und liegt im Südwesten des Tschad.",
+          "Die Stadt ist ein absolut zentraler Knotenpunkt für die Landwirtschaft.",
+          "Sie gilt national als einer der größten Produzenten von Reis und Bohnen.",
+          "Der große städtische Markt versorgt sogar die Hauptstadt mit Essen.",
+          "In der Regenzeit sind die unbefestigten Straßen oft wochenlang blockiert."
+        ],
+        "hu": [
+          "Kélo az ötödik legnagyobb város, Csád termékeny délnyugati részén fekszik.",
+          "A város egy abszolút központi és létfontosságú mezőgazdasági csomópont.",
+          "Országosan a rizs és a bab egyik legnagyobb termelőjeként tartják számon.",
+          "A hatalmas városi piac még a fővárost is ellátja alapvető élelmiszerekkel.",
+          "Az esős évszakban a burkolatlan helyi utak gyakran hetekig járhatatlanok."
+        ],
+        "ro": [
+          "Kélo este al cincilea oraș ca mărime și este situat în sud-vestul Ciadului.",
+          "Orașul este un nod absolut central și vital pentru agricultura națională.",
+          "Este considerat național ca fiind unul dintre cei mai mari producători de orez.",
+          "Piața urbană mare aprovizionează chiar și capitala cu alimente de bază.",
+          "În timpul sezonului ploios, drumurile neasfaltate sunt adesea blocate săptămâni."
+        ],
+        "en": [
+          "Kélo is the fifth-largest city and is located in the fertile southwest of Chad.",
+          "The city acts as an absolutely central and vital hub for national agriculture.",
+          "It is nationally considered one of the largest producers of rice and beans.",
+          "The massive urban market supplies even the capital city with essential food.",
+          "During the intense rainy season, unpaved roads are often blocked for weeks."
+        ]
+      }
+    },
+    {
+      "id": "koumra-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Koumra ist die sechstgrößte Stadt des Tschad und die offizielle Hauptstadt der Region Mandoul im feuchten und warmen Süden des Landes. Geografisch ist die Region durch reiche, bewaldete Savannen geprägt, die extrem fruchtbare Böden für den Ackerbau bieten. Wirtschaftlich ist Koumra fast ausschließlich von der Landwirtschaft abhängig, wobei die Produktion von Baumwolle als Cash-Crop und Maniok für den Eigenbedarf absolut im Mittelpunkt stehen. Koumra verfügt über keine nennenswerte Schwerindustrie, dient aber als primärer regionaler Sammel- und Umschlagplatz für die landwirtschaftlichen Erträge der umliegenden Dörfer, bevor diese nach Moundou oder N'Djamena transportiert werden. Historisch entwickelte sich Koumra von einem kleinen Bauerndorf zu einem administrativen Zentrum der postkolonialen Ära, um die Verwaltung des dicht besiedelten Südens zu erleichtern. Die Stadt leidet heute massiv unter einer fehlenden Gesundheits- und Bildungsinfrastruktur sowie unter starken ethnischen und landwirtschaftlichen Konflikten zwischen sesshaften Bauern und nomadischen Hirten, die auf der Suche nach Wasser durch die Region ziehen.",
+        "hu": "Koumra Csád hatodik legnagyobb városa, és a Mandoul régió hivatalos fővárosa az ország nedves és meleg déli részén. Földrajzilag a régiót gazdag, erdős szavannák jellemzik, amelyek rendkívül termékeny talajt biztosítanak a mezőgazdaság számára. Gazdasági szempontból Koumra szinte kizárólag a mezőgazdaságtól függ, ahol a gyapot mint exportnövény, valamint a manióka saját célra történő termesztése áll az abszolút középpontban. Koumra nem rendelkezik említésre méltó nehéziparral, de elsődleges regionális gyűjtő- és elosztóközpontként szolgál a környező falvak mezőgazdasági terményei számára, mielőtt azokat Moundouba vagy N'Djamenába szállítanák. Történelmileg Koumra kis parasztfaluból a posztkoloniális korszak adminisztratív központjává fejlődött, hogy megkönnyítse a sűrűn lakott délvidék közigazgatását. A város ma masszívan szenved az egészségügyi és oktatási infrastruktúra hiányától, valamint a letelepedett gazdák és a régiót víz után kutatva átszelő nomád pásztorok közötti súlyos etnikai és földhasználati konfliktusoktól.",
+        "ro": "Koumra este al șaselea oraș ca mărime din Ciad și capitala oficială a regiunii Mandoul din sudul umed și cald al țării. Geografic, regiunea se caracterizează prin savane bogate, împădurite, care oferă soluri extrem de fertile pentru agricultură. Economic, Koumra este aproape exclusiv dependentă de agricultură, având în centru absolut producția de bumbac ca o cultură comercială și maniocul pentru propriile nevoi. Koumra nu are o industrie grea notabilă, dar servește drept principalul punct de colectare și tranzit regional pentru randamentele agricole ale satelor din jur înainte ca acestea să fie transportate la Moundou sau N'Djamena. Istoric, Koumra s-a dezvoltat dintr-un mic sat agricol într-un centru administrativ în era postcolonială pentru a facilita administrarea sudului dens populat. Astăzi, orașul suferă masiv din cauza lipsei infrastructurii de sănătate și educație, precum și de conflicte etnice și agricole severe între fermierii sedentari și păstorii nomazi.",
+        "en": "Koumra is the sixth-largest city in Chad and acts as the official capital of the Mandoul region in the humid and warm southern part of the country. Geographically, the region is characterized by highly rich, wooded savannas that offer extremely fertile soils for agriculture. Economically, Koumra is almost exclusively dependent on farming, with the intensive production of cotton as a vital cash crop and cassava for basic personal consumption taking absolute center stage. Koumra possesses no notable heavy industry but strictly serves as the primary regional collection and transit hub for the agricultural yields of the surrounding villages before they are forcefully transported to Moundou or N'Djamena. Historically, Koumra developed from a small peasant village into a prominent administrative center in the post-colonial era to facilitate the governance of the densely populated south. Today, the city suffers massively from a severe lack of health and education infrastructure, as well as from intense ethnic and agricultural conflicts between sedentary farmers and nomadic herders passing through the region in search of water."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koumra ist die sechstgrößte Stadt und liegt im feuchten Süden des Tschad.",
+          "Die Stadt ist das offizielle administrative Zentrum der Region Mandoul.",
+          "Die Wirtschaft stützt sich fast ausschließlich auf den reinen Ackerbau.",
+          "Baumwolle wird hier intensiv als hochwichtiges Exportgut angepflanzt.",
+          "Konflikte zwischen lokalen Bauern und nomadischen Hirten sind sehr häufig."
+        ],
+        "hu": [
+          "Koumra a hatodik legnagyobb város, Csád nedves déli régiójában fekszik.",
+          "A város a Mandoul régió hivatalos és nagyon fontos közigazgatási központja.",
+          "A helyi gazdaság szinte teljesen és kizárólag a mezőgazdaságra épül.",
+          "A gyapotot rendkívül intenzíven termesztik mint nagyon fontos exportcikket.",
+          "A letelepedett gazdák és a nomád pásztorok közötti konfliktusok gyakoriak."
+        ],
+        "ro": [
+          "Koumra este al șaselea oraș ca mărime și este situat în sudul umed al Ciadului.",
+          "Orașul servește ca centru administrativ oficial al regiunii Mandoul.",
+          "Economia locală se bazează aproape în întregime doar pe agricultură pură.",
+          "Bumbacul este plantat foarte intens aici ca un produs de export extrem de important.",
+          "Conflictele violente între fermierii locali și păstorii nomazi sunt foarte frecvente."
+        ],
+        "en": [
+          "Koumra is the sixth-largest city and is located in the humid south of Chad.",
+          "The city acts as the highly important official administrative center of the Mandoul region.",
+          "The local economy relies almost entirely and exclusively on pure agriculture.",
+          "Cotton is planted very intensively here as an extremely vital export commodity.",
+          "Violent conflicts between local farmers and nomadic herders are highly frequent."
+        ]
+      }
+    }
+  ]
+}

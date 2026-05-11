@@ -1,0 +1,64 @@
+{
+  "lang": "ro",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-amsterdam-history-v2",
+      "description": "O fortăreață situată în Abandze, fiind primul fort britanic de pe coasta Ghanei, capturat ulterior de olandezi.",
+      "facts": ["Construit inițial în 1631", "Capturat de olandezi în 1665", "Restaurat parțial în 1951"]
+    },
+    {
+      "id": "fort-william-anomabu-history-v2",
+      "description": "Un fort britanic strategic în Anomabu, cunoscut pentru rezistența sa eroică împotriva asediului Ashanti.",
+      "facts": ["Construit între 1753 și 1757", "Situat lângă vechiul fort olandez", "A servit ca punct de pază de coastă"]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-history-v2",
+      "description": "Un monument dedicat primului președinte al Ghanei, Kwame Nkrumah, situat pe locul fostului teren de polo britanic.",
+      "facts": ["Inaugurat în anul 1992", "Arhitectură în stil modernist african", "Parcul memorial adiacent are 5 acri"]
+    },
+    {
+      "id": "w-e-b-du-bois-centre-history-v2",
+      "description": "Centrul memorial situat în Accra, dedicat vieții și operei activistului Pan-Africanist W.E.B. Du Bois.",
+      "facts": ["Fostă reședință a lui Du Bois", "Include biblioteca sa personală", "Centru de studii pan-africane"]
+    },
+    {
+      "id": "independence-square-accra-history-v2",
+      "description": "Cunoscută și sub numele de Piața Stelei Negre, este una dintre cele mai mari piețe publice din lume, simbolizând libertatea.",
+      "facts": ["Finalizată în anul 1961", "Găzduiește Arcul Independenței", "Locul paradelor naționale anuale"]
+    },
+    {
+      "id": "yaa-asantewaa-museum-history-v2",
+      "description": "Un muzeu situat în Ejisu, dedicat legendarei regine Yaa Asantewaa, care a condus revolta Ashanti împotriva britanicilor.",
+      "facts": ["Onorează eroina războiului din 1900", "Expune artefacte culturale Ashanti", "Reconstruit după un incendiu în 2004"]
+    },
+    {
+      "id": "salaga-slave-market-history-v2",
+      "description": "Un punct istoric crucial în Salaga, care a servit ca una dintre cele mai importante piețe de sclavi din Africa de Vest.",
+      "facts": ["Nod comercial major în secolul XIX", "Faimos pentru fântânile sale cu apă", "Punct de legătură spre rutele trans-sahariene"]
+    },
+    {
+      "id": "gwollu-defence-wall-history-v2",
+      "description": "Resturile unui zid defensiv din pământ, construit în Gwollu pentru a proteja localnicii de raidurile vânătorilor de sclavi.",
+      "facts": ["Construit în secolul al XIX-lea", "Ridicat de regele Koro Limann", "Exemplu rar de arhitectură defensivă"]
+    },
+    {
+      "id": "nalerigu-defence-wall-history-v2",
+      "description": "Un zid istoric de apărare situat în Nalerigu, construit pentru a fortifica regatul Mamprusi împotriva invaziilor.",
+      "facts": ["Construit în secolul al XVI-lea", "Folosește pământ și mortar de lapte", "Păstrează vestigii ale regatului vechi"]
+    },
+    {
+      "id": "pikworo-slave-camp-history-v2",
+      "description": "Un lagăr de tranzit în aer liber lângă Paga, unde sclavii erau ținuți înainte de a fi transportați spre sud.",
+      "facts": ["Înființat în anul 1704", "Păstrează urme de boluri săpate în stâncă", "Punct de popas pe ruta nord-sud"]
+    },
+    {
+      "id": "bono-manso-history-v2",
+      "description": "Ruinele anticei capitale a regatului Bono, considerat primul regat centralizat al poporului Akan.",
+      "facts": ["Centru comercial activ în secolul XIII", "Sursă majoră de aur trans-saharian", "Loc de origine al culturii Akan"]
+    }
+  ]
+}

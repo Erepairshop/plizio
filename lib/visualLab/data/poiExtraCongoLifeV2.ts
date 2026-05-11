@@ -47,7 +47,7 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "The Tchimpounga Chimpanzee Sanctuary is the largest facility of its kind in Africa, providing essential care for orphaned chimpanzees. Founded by the Jane Goodall Institute, it offers a safe environment for animals rescued from the illegal pet and bushmeat trades, emphasizing rehabilitation and, where possible, eventual reintroduction to protected areas. It is an internationally recognized center for chimpanzee welfare and conservation education. Sachkunde K6 — primate welfare and rehabilitation."
     },
     factsAdvanced: {
-      en: ["Largest chimpanzee sanctuary in Africa.", "Founded by the Jane Goodall Institute.", "Primary refuge for rescued orphaned chimpanzees.", "Focuses on chimpanzee welfare and rehabilitation.", "Leading center for conservation education.", "Critical sanctuary against bushmeat trade impacts."]
+      en: ["Largest chimpanzee sanctuary in Africa.", "Primary refuge for rescued orphaned chimpanzees.", "Focuses on chimpanzee welfare and rehabilitation.", "Leading center for conservation education.", "Critical sanctuary against bushmeat trade impacts."]
     }
   },
     description: {
@@ -229,7 +229,7 @@ export const poiExtraCongoLifeV2: POI[] = [
       en: "The palm oil plantations around Ouesso represent the large-scale industrial cultivation of oil palms, which is a major contributor to regional trade. Palm oil is essential for both domestic culinary uses and as a commodity in the broader national market. These plantations are a dominant feature of the rural landscape in the north, shaping both the local economy and traditional dietary practices. Sachkunde K5 — industrial plantation agriculture."
     },
     factsAdvanced: {
-      en: ["Major industrial plantation for oil palm.", "Essential commodity for domestic consumption.", "Significant feature of northern rural economy.", "Vital palm oil trade hub in the Sangha region.", "Traditional and modern extraction used.", "Supports local and national supply chains."]
+      en: ["Major industrial plantation for oil palm.", "Essential commodity for domestic consumption.", "Significant feature of northern rural economy.", "Vital palm oil trade hub in the Sangha region.", "Supports local and national supply chains."]
     }
   },
     description: {

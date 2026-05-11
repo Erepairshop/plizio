@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kiang-west-national-park-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kiang West National Park ist eines der größten und bedeutendsten Schutzgebiete Gambias und liegt am Südufer des Gambia-Flusses in der Lower River Region. Geografisch zeichnet sich der Park durch ein trockenes Plateau aus, das von tief eingeschnittenen Tälern (Bolongs) und ausgedehnten Mangrovensümpfen entlang des Flussufers unterbrochen wird. Die Vegetation besteht vorwiegend aus Guinea-Savanne und Trockenwald, dominiert von Affenbrotbäumen (Baobabs) und verschiedenen Akazienarten. Ökologisch ist der Park ein entscheidendes Refugium für die afrikanische Tierwelt; er beherbergt Populationen von Warzenschweinen, Tüpfelhyänen, Pavianen und den seltenen Serval-Katzen. Für Ornithologen bietet der Park eine enorme Vielfalt mit über 300 nachgewiesenen Vogelarten, darunter Greifvögel wie der Gaukler. Historisch wurde das Gebiet 1987 zum Nationalpark erklärt, um die fortschreitende Entwaldung und Wilderei in der Region zu stoppen. Ökonomisch gesehen ist Kiang West ein Zentrum für kontrollierten Ökotourismus und wissenschaftliche Forschung, was den lokalen Gemeinden in Kwinella und Umgebung alternative Einkommensquellen eröffnet. Die infrastrukturelle Anbindung erfolgt meist über Pisten, was den ursprünglichen Charakter des Parks bewahrt hat. Technisch gesehen ist das Parkmanagement auf die Überwachung der Wasserressourcen in den Bolongs angewiesen, da diese während der Trockenzeit die einzigen Wasserquellen für die Tierwelt darstellen.",
+        "hu": "A Kiang West Nemzeti Park Gambia egyik legnagyobb és legjelentősebb természetvédelmi területe, a Gambia-folyó déli partján, a Lower River körzetben. Földrajzi szempontból a parkot egy száraz fennsík jellemzi, amelyet mélyen bevágott völgyek (bolongok) és a folyópart mentén elterülő kiterjedt mangrove-mocsarak tagolnak. A vegetáció döntően guineai szavannából és száraz erdőkből áll, ahol a majomkenyérfák (baobab) és különböző akáciafajok dominálnak. Ökológiailag a park kritikus menedékhely az afrikai élővilág számára; otthont ad varacskosdisznóknak, foltos hiénáknak, páviánoknak és a ritka szerváloknak. Az ornitológusok számára a park hatalmas diverzitást kínál, több mint 300 dokumentált madárfajjal, köztük olyan ragadozókkal, mint a vitézsas. Történelmileg a területet 1987-ben nyilvánították nemzeti parkká, hogy megállítsák a régióban zajló erdőirtást és orvvadászatot. Gazdaságilag Kiang West a kontrollált ökoturizmus és a tudományos kutatás központja, amely alternatív bevételi forrásokat kínál a környező falvak, például Kwinella lakóinak. Az infrastruktúra fejlesztése szándékosan korlátozott, hogy megőrizzék a park érintetlen jellegét. Technikai szempontból a parkkezelés nagy hangsúlyt fektet a bolongok vízszintjének figyelésére, mivel a száraz évszakban ezek jelentik az egyetlen vízforrást a vadon élő állatok számára.",
+        "ro": "Parcul Național Kiang West este una dintre cele mai mari și mai importante arii protejate din Gambia, situată pe malul sudic al fluviului Gambia, în regiunea Lower River. Geografic, parcul este definit de un platou arid, intersectat de văi adânci (bolongs) și mlaștini întinse de mangrove de-a lungul malurilor râului. Vegetația constă în principal din savană de tip guineean și păduri uscate, unde domină baobabii și diverse specii de salcâmi. Din punct de vedere ecologic, parcul este un refugiu vital pentru fauna africană, adăpostind populații de porci cu negi, hiene pătate, babuini și rarele pisici serval. Pentru ornitologi, parcul oferă o diversitate enormă, cu peste 300 de specii de păsări identificate, inclusiv păsări de pradă precum vulturul martial. Istoric, zona a fost declarată parc național în 1987 pentru a stopa defrișările și braconajul. Din punct de vedere economic, Kiang West este un centru pentru ecoturism controlat și cercetare științifică, oferind comunităților locale din Kwinella surse alternative de venit. Accesul este realizat prin drumuri de pământ, ceea ce a ajutat la menținerea caracterului sălbatic al locației. Tehnic, managementul parcului se concentrează pe monitorizarea resurselor de apă din canale, acestea fiind esențiale pentru supraviețuirea animalelor în timpul sezonului secetos.",
+        "en": "Kiang West National Park is one of the largest and most ecologically significant protected areas in The Gambia, situated on the south bank of the Gambia River in the Lower River Region. Geographically, the park features a dry plateau broken by deep tidal creeks (bolongs) and extensive mangrove swamps along the river's edge. The vegetation is primarily Guinea savannah and dry woodland, dominated by massive baobab trees and various acacia species. Ecologically, it serves as a critical sanctuary for African wildlife, hosting populations of warthogs, spotted hyenas, baboons, and the elusive serval. For birdwatchers, the park is a premier destination with over 300 recorded species, including spectacular raptors like the Martial Eagle. Historically, the area was designated a national park in 1987 to combat deforestation and illegal hunting in the region. Economically, Kiang West is a hub for sustainable ecotourism and scientific research, providing vital alternative livelihoods for local communities such as Kwinella. Infrastructure remains basic to preserve the park's wilderness character. Technically, park management focuses on monitoring water availability in the bolongs, as these are the only permanent water sources for wildlife during the protracted dry season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes zusammenhängendes Naturschutzgebiet Gambias.",
+          "Beherbergt eine der höchsten Raubtierdichten des Landes.",
+          "Dominante Flora umfasst Baobabs und afrikanisches Mahagoni.",
+          "Wichtiger Brutplatz für bedrohte afrikanische Geierarten.",
+          "Durchzogen von salzigen Gezeitenkanälen (Bolongs).",
+          "Wurde 1987 zum Schutz vor landwirtschaftlicher Übernutzung gegründet."
+        ],
+        "hu": [
+          "Gambia legnagyobb összefüggő természetvédelmi területe.",
+          "A ragadozók, köztük a hiénák és szerválok egyik fő élőhelye.",
+          "Jellemző növényzete a baobab és az afrikai mahagóni.",
+          "Több mint 300 madárfaj, köztük ritka sasok otthona.",
+          "Sós vizű árapály-csatornák szabdalják a területét.",
+          "1987-ben alapították az erdőirtás elleni védekezésként."
+        ],
+        "ro": [
+          "Cea mai extinsă arie naturală protejată din întreaga țară.",
+          "Adăpostește populații importante de hiene pătate și maimuțe.",
+          "Flora este dominată de arbori baobab și specii de acacia.",
+          "Punct de referință pentru observarea a peste 300 de specii de păsări.",
+          "Include ecosisteme variate, de la savană la mlaștini cu mangrove.",
+          "Administrat prin programe de conservare comunitară din 1987."
+        ],
+        "en": [
+          "The largest contiguous national park in The Gambia.",
+          "A key habitat for larger mammals like hyenas and servals.",
+          "Dominated by Guinea savannah and ancient baobab trees.",
+          "Home to more than 300 bird species, including many rare raptors.",
+          "Features a network of tidal creeks essential for the local ecosystem.",
+          "Established in 1987 to preserve the region's unique biodiversity."
+        ]
+      }
+    },
+    {
+      "id": "bao-bolong-wetland-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Bao Bolong Wetland Reserve ist das größte Schutzgebiet Gambias und liegt am Nordufer des Gambia-Flusses in der North Bank Region. Es erstreckt sich über eine Fläche von rund 22.000 Hektar und wurde 1996 als erstes Gebiet Gambias in die Liste der international bedeutenden Feuchtgebiete der Ramsar-Konvention aufgenommen. Geografisch umfasst das Reservat drei verschiedene Ökosysteme: Mangrovenwälder, Salzwiesen und Süßwassersümpfe. Diese Vielfalt entsteht durch den Einfluss der Gezeiten des Gambia-Flusses, die weit in die Bolongs (Nebenflüsse) vordringen. Ökologisch ist Bao Bolong von unschätzbarem Wert für den Schutz der Sitatunga-Antilope, die in den dichten Schilfgürteln lebt, sowie für Flusspferde und Seekühe. Zudem dient es als kritischer Rastplatz für tausende Zugvögel auf der ostatlantischen Flugroute. Ökonomisch unterstützt das Reservat die lokale Bevölkerung durch nachhaltige Fischerei und kontrollierte Reisproduktion am Rand der Pufferzonen. Historisch markiert die Ausweisung des Gebiets einen Meilenstein im gambischen Naturschutz, da sie den Fokus auf die Bedeutung der Feuchtgebiete für den Küstenschutz lenkte. Technisch wird das Gebiet durch Satellitenüberwachung und regelmäßige Kanupatrouillen der Ranger geschützt, um illegale Abholzung der Mangroven zu verhindern.",
+        "hu": "A Bao Bolong vizes élőhely rezervátum Gambia legnagyobb természetvédelmi területe, a Gambia-folyó északi partján, a North Bank körzetben. A mintegy 22 000 hektáros terület 1996-ban Gambia első olyan helyszíne lett, amely felkerült a Ramsari Egyezmény nemzetközi jelentőségű vizes élőhelyeinek listájára. Földrajzilag a rezervátum három különböző ökoszisztémát foglal magában: mangroveerdőket, sós mocsarakat és édesvízi lápokat. Ez a diverzitás a Gambia-folyó árapály-hatásának köszönhető, amely mélyen benyomul a mellékfolyókba (bolongokba). Ökológiailag a Bao Bolong felbecsülhetetlen értékű a mocsári antilop (sitatunga) védelmében, amely a sűrű nádasokban él, valamint vízilovak és afrikai manátuszok számára is menedéket nyújt. Emellett kritikus pihenőhely több ezer vándormadár számára az kelet-atlanti vonulási útvonalon. Gazdaságilag a rezervátum támogatja a helyi lakosságot a fenntartható halászat és a pufferzónák szélén folyó ellenőrzött rizstermesztés révén. Történelmileg a terület kijelölése mérföldkő a gambiai természetvédelemben, mivel ráirányította a figyelmet a vizes élőhelyek partvédelmi jelentőségére. Technikai szempontból a területet műholdas megfigyeléssel és a vadőrök rendszeres kenu-járőreivel védik a mangroveerdők illegális kitermelése ellen.",
+        "ro": "Rezervația de Zone Umede Bao Bolong este cea mai mare arie protejată din Gambia, situată pe malul de nord al fluviului Gambia. Acoperind o suprafață de aproximativ 22.000 de hectare, a fost primul sit din țară inclus pe lista Convenției Ramsar în 1996. Geografic, rezervația cuprinde trei ecosisteme distincte: păduri de mangrove, mlaștini sărate și zone cu apă dulce. Această varietate este rezultatul influenței mareelor care pătrund adânc în afluenții fluviului. Din punct de vedere ecologic, Bao Bolong este esențial pentru protejarea antilopei Sitatunga, care trăiește în zonele cu stufăriș dens, dar și pentru hipopotami și lamantini africani. De asemenea, servește ca punct critic de oprire pentru mii de păsări migratoare pe ruta est-atlantică. Economic, rezervația susține comunitățile locale prin pescuit sustenabil și cultivarea controlată a orezului la marginea zonelor tampon. Istoric, înființarea sa a marcat o schimbare de paradigmă în conservarea resurselor de apă din Gambia. Din punct de vedere tehnic, protecția sitului implică monitorizarea prin satelit și patrule periodice cu pirogile ale rangerilor pentru a preveni tăierile ilegale de mangrove.",
+        "en": "The Bao Bolong Wetland Reserve is the largest protected area in The Gambia, located on the North Bank of the Gambia River. Spanning approximately 22,000 hectares, it became the nation's first Ramsar site in 1996, highlighting its international importance as a wetland habitat. Geographically, the reserve integrates three distinct ecosystems: mangrove forest, salt marsh, and freshwater swamp. This diversity is created by the tidal fluctuations of the Gambia River reaching far into the inland creeks (bolongs). Ecologically, Bao Bolong is an invaluable sanctuary for the rare Sitatunga antelope, which inhabits the dense reed beds, as well as for hippos and West African manatees. It also serves as a critical stopover for thousands of migratory birds along the East Atlantic Flyway. Economically, the reserve supports local livelihoods through sustainable fishing and regulated rice farming along the perimeter of the buffer zones. Historically, its designation was a milestone for Gambian conservation, focusing national policy on the importance of wetlands for coastal protection. Technically, the area is monitored through satellite imagery and regular canoe patrols by rangers to prevent illegal mangrove harvesting."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstes Ramsar-Feuchtgebiet von internationaler Bedeutung in Gambia.",
+          "Umfasst eine Fläche von über 220 Quadratkilometern.",
+          "Einer der besten Orte zur Beobachtung der seltenen Sitatunga-Antilope.",
+          "Lebensraum für den gefährdeten Westafrikanischen Manati (Seekuh).",
+          "Wichtigster Rastplatz für Zugvögel in der North Bank Region.",
+          "Besteht aus einer Mischung aus sechs verschiedenen Mangrovenarten."
+        ],
+        "hu": [
+          "Gambia első nemzetközi jelentőségű Ramsari területe.",
+          "Területe meghaladja a 220 négyzetkilométert.",
+          "A ritka mocsári antilop (sitatunga) egyik utolsó menedéke.",
+          "Vízilovak és afrikai manátuszok (tengeri tehenek) élnek itt.",
+          "A kelet-atlanti madárvonulási útvonal kulcsfontosságú állomása.",
+          "Hat különböző mangrovefaj alkotja az erdős részeit."
+        ],
+        "ro": [
+          "Primul sit Ramsar din Gambia, recunoscut la nivel mondial.",
+          "Cea mai mare rezervație de zone umede din bazinul râului.",
+          "Habitat esențial pentru antilopa Sitatunga și lamantini.",
+          "Include ecosisteme unice de estuar și mlaștină de apă dulce.",
+          "Punct strategic pentru monitorizarea păsărilor migratoare europene.",
+          "Protejează șase specii diferite de mangrove native."
+        ],
+        "en": [
+          "The first site in The Gambia to be designated under the Ramsar Convention.",
+          "Covers a vast area of over 22,000 hectares on the North Bank.",
+          "A premier location for spotting the elusive Sitatunga antelope.",
+          "Provides habitat for the vulnerable West African manatee.",
+          "Critical stopover for thousands of migratory birds annually.",
+          "Features a highly diverse range of six different mangrove species."
+        ]
+      }
+    },
+    {
+      "id": "tanji-bird-reserve-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tanji Bird Reserve, offiziell als Tanji River (Karinti) Bird Reserve bekannt, liegt an der Atlantikküste südlich von Serekunda. Es umfasst etwa 612 Hektar und zeichnet sich durch eine außergewöhnliche Vielfalt an Lebensräumen auf kleinem Raum aus: von Küstendünen und Lagunen bis hin zu Trockenwald und Mangroven an der Mündung des Tanji-Flusses. Ökologisch ist das Reservat von internationaler Bedeutung, da hier über 300 Vogelarten dokumentiert wurden, darunter viele paläarktische Zugvögel, die hier überwintern. Besonders hervorzuheben ist die Kolonie von Möwen und Seeschwalben auf den nahegelegenen Bijol Islands, die zum Reservat gehören. Historisch wurde das Gebiet 1993 unter Schutz gestellt, um den ökologischen Übergangsbereich zwischen Meer und Festland vor der fortschreitenden touristischen Erschließung zu bewahren. Ökonomisch profitiert die lokale Bevölkerung durch geführte Ornithologie-Touren, die Wanderer und Forscher aus aller Welt anziehen. Technisch gesehen ist das Reservat ein wichtiger Ort für das Beringungsprogramm von Vögeln, das wertvolle Daten über globale Wanderungsbewegungen liefert. Die Kombination aus marinen und terrestrischen Schutzzonen macht Tanji zu einem einzigartigen Labor für die Untersuchung der westafrikanischen Küstendynamik.",
+        "hu": "A Tanji Madárrezervátum, hivatalos nevén Tanji River (Karinti) Bird Reserve, az Atlanti-óceán partján, Serekundától délre található. A mintegy 612 hektáros terület kivételes élőhelyi diverzitással rendelkezik kis területen: a parti dűnéktől és lagúnáktól kezdve a száraz erdőkön át a Tanji-folyó torkolatánál található mangroveerdőkig minden megtalálható. Ökológiailag a rezervátum nemzetközi jelentőségű, mivel több mint 300 madárfajt dokumentáltak itt, köztük számos palearktikus vándormadarat, amelyek itt telelnek át. Különösen jelentős a közeli Bijol-szigeteken található sirály- és csérkolónia, amely a rezervátum részét képezi. Történelmileg a területet 1993-ban helyezték védelem alá, hogy megőrizzék a tenger és a szárazföld közötti ökológiai átmeneti zónát a folyamatos turisztikai beépítéstől. Gazdaságilag a helyi lakosság a vezetett ornitológiai túrákból profitál, amelyek a világ minden tájáról vonzzák a megfigyelőket és kutatókat. Technikai szempontból a rezervátum fontos helyszíne a madárgyűrűzési programoknak, amelyek értékes adatokat szolgáltatnak a globális vándorlási útvonalakról. A tengeri és szárazföldi védelmi zónák kombinációja Tanjit a nyugat-afrikai parti dinamika tanulmányozásának egyedülálló helyszínévé teszi.",
+        "ro": "Rezervația de Păsări Tanji, cunoscută oficial sub numele de Tanji River (Karinti) Bird Reserve, este situată pe coasta Atlanticului, la sud de Serekunda. Cuprinde aproximativ 612 hectare și se remarcă printr-o diversitate excepțională de habitate pe o suprafață restrânsă: de la dune de coastă și lagune, până la păduri uscate și mangrove la gura de vărsare a râului Tanji. Ecologic, rezervația este de o importanță internațională, aici fiind documentate peste 300 de specii de păsări, inclusiv numeroase păsări migratoare palearctice care iernează în regiune. O mențiune specială merită colonia de pescăruși și chirighițe de pe insulele Bijol, care fac parte din rezervație. Istoric, zona a fost protejată în 1993 pentru a conserva zona de tranziție ecologică între mare și uscat în fața expansiunii turistice. Economic, populația locală beneficiază de turismul ornitologic organizat, care atrage observatori din întreaga lume. Din punct de vedere tehnic, rezervația este un punct cheie pentru programele de inelare a păsărilor, oferind date valoroase despre rutele globale de migrație. Combinația de zone protejate marine și terestre face din Tanji un laborator unic pentru studierea dinamicii coastelor vest-africane.",
+        "en": "The Tanji Bird Reserve, officially the Tanji River (Karinti) Bird Reserve, is located along the Atlantic coast south of Serekunda. Spanning about 612 hectares, it is characterized by an extraordinary variety of habitats within a small area, including coastal dunes, lagoons, dry woodland, and mangroves at the mouth of the Tanji River. Ecologically, the reserve is of international significance, with over 300 bird species recorded, many of which are Palearctic migrants that winter here. Particularly noteworthy is the breeding colony of gulls and terns on the offshore Bijol Islands, which are part of the reserve. Historically, the area was established in 1993 to safeguard the ecological transition zone between the marine and terrestrial environments from encroaching tourism development. Economically, the reserve supports local livelihoods through guided birdwatching tours, attracting enthusiasts and researchers globally. Technically, the reserve serves as a vital site for bird ringing programs, contributing essential data to the study of global migratory patterns. The integration of marine and land-based protection zones makes Tanji a unique location for studying West African coastal ecology."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt über 300 verschiedene Vogelarten auf engstem Raum.",
+          "Umfasst die Bijol Islands, Gambias wichtigstes Brutgebiet für Seevögel.",
+          "Einzigartige Mischung aus Meeresküste, Lagune und Trockenwald.",
+          "Wichtiger Standort für internationale Forschung zum Vogelzug.",
+          "Eines der am leichtesten zugänglichen Vogelschutzgebiete des Landes.",
+          "Schützt die Mündung des Tanji-Flusses vor Versandung und Verschmutzung."
+        ],
+        "hu": [
+          "Több mint 300 madárfaj él itt, kis területen koncentrálódva.",
+          "A Bijol-szigetek Gambia legfontosabb tengeri madár-fészkelőhelyei.",
+          "Dűnék, lagúnák és mangroveerdők mozaikja alkotja a tájat.",
+          "A nemzetközi madárgyűrűzési kutatások egyik fő bázisa.",
+          "Könnyű megközelíthetősége miatt a legnépszerűbb madárfigyelő hely.",
+          "Védi a Tanji-folyó torkolatát a turisztikai beépítéstől."
+        ],
+        "ro": [
+          "Adăpostește peste 300 de specii de păsări într-un spațiu compact.",
+          "Include insulele Bijol, singurul loc de reproducere pentru multe specii marine.",
+          "Peisajul variază de la dune de nisip la mlaștini cu mangrove.",
+          "Centru major pentru colectarea datelor ornitologice internaționale.",
+          "Destinație principală pentru ecoturismul de coastă din Gambia.",
+          "Protejează estuarul râului Tanji împotriva eroziunii costiere."
+        ],
+        "en": [
+          "Home to more than 300 bird species within its compact boundaries.",
+          "Includes the Bijol Islands, a major breeding ground for marine birds.",
+          "Features a unique mosaic of dunes, lagoons, and dry forests.",
+          "A primary site for international bird migration research and ringing.",
+          "Highly accessible, making it a favorite for researchers and tourists.",
+          "Protects the Tanji River estuary from urban and tourism pressure."
+        ]
+      }
+    },
+    {
+      "id": "bijilo-forest-park-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bijilo Forest Park, im Volksmund oft 'Monkey Park' genannt, ist ein kleiner, aber ökologisch wertvoller Küstenwald direkt am Atlantik, unweit des touristischen Zentrums von Kololi. Er umfasst etwa 51 Hektar und besteht aus einem Relikt des ursprünglichen Küstenwaldes mit massiven Rhun-Palmen, Kapokbäumen und Affenbrotbäumen. Geografisch bildet der Park eine grüne Barriere gegen die Küstenerosion und den Wind vom Atlantik. Ökologisch ist er berühmt für seine Populationen von Westafrikanischen Stummelaffen (Red Colobus), Meerkatzen und Husarenaffen. Historisch wurde der Park 1951 als Waldreservat ausgewiesen und 1991 für die Öffentlichkeit als Naturlehrpfad zugänglich gemacht. Ökonomisch ist er eines der meistbesuchten Naturschutzgebiete Gambias, da er aufgrund seiner Lage leicht erreichbar ist und wichtige Einnahmen für das Department of Parks and Wildlife Management generiert. Technisch wird der Park durch ein Netz von gut markierten Wanderwegen erschlossen, die darauf ausgelegt sind, den menschlichen Einfluss auf die empfindliche Fauna zu minimieren. Ein großes Problem stellt die Fütterung der Affen durch Touristen dar, weshalb das Parkmanagement verstärkt auf Aufklärung und strenge Regeln setzt, um das natürliche Verhalten der Tiere zu bewahren.",
+        "hu": "A Bijilo Forest Park, közismertebb nevén a 'Majompark', egy kicsi, de ökológiailag értékes parti erdő az Atlanti-óceán partján, Kololi turisztikai központjának közvetlen közelében. A körülbelül 51 hektáros terület az eredeti parti erdő maradványa, ahol hatalmas Rhun-pálmák, kapokfák és baobabfák találhatók. Földrajzilag a park zöld védőgátat képez a parti erózió és az atlanti szél ellen. Ökológiailag híres a nyugat-afrikai vörös kolobuszmajmok, cerkófmajmok és huszármajmok populációiról. Történelmileg a parkot 1951-ben jelölték ki erdőrezervátumnak, majd 1991-ben nyitották meg a nagyközönség előtt tanösvényként. Gazdaságilag Gambia egyik leglátogatottabb természetvédelmi területe, mivel elhelyezkedése miatt könnyen megközelíthető, és jelentős bevételt termel a vadvédelmi minisztérium számára. Technikai szempontból a parkot jól jelzett ösvények hálózata szeli át, amelyeket úgy alakítottak ki, hogy minimalizálják az emberi hatást az érzékeny faunára. Komoly problémát jelent a majmok turisták általi etetése, ezért a parkvezetés fokozott hangsúlyt fektet az oktatásra és a szigorú szabályokra az állatok természetes viselkedésének megőrzése érdekében.",
+        "ro": "Parcul Forestier Bijilo, cunoscut popular sub numele de 'Monkey Park', este o pădure de coastă mică, dar valoroasă din punct de vedere ecologic, situată pe malul Atlanticului, lângă centrul turistic Kololi. Acoperă aproximativ 51 de hectare și reprezintă o relicvă a pădurii de coastă originale, cu palmieri Rhun masivi, arbori de kapok și baobabi. Geografic, parcul formează o barieră verde împotriva eroziunii costiere și a vânturilor atlantice. Ecologic, este faimos pentru populațiile sale de maimuțe Colobus roșu de vest, maimuțe vervet și maimuțe patas. Istoric, parcul a fost desemnat rezervație forestieră în 1951 și a fost deschis publicului ca traseu ecoturistic în 1991. Din punct de vedere economic, este una dintre cele mai vizitate arii protejate din Gambia, datorită accesibilității sale, generând venituri importante pentru Departamentul de Management al Parcurilor și Faunei Sălbatice. Tehnic, parcul este amenajat cu o rețea de poteci bine marcate, concepute pentru a minimiza impactul uman asupra faunei sensibile. O provocare majoră o reprezintă hrănirea maimuțelor de către turiști, motiv pentru care managementul parcului pune accent pe educare și reguli stricte pentru a păstra comportamentul natural al animalelor.",
+        "en": "Bijilo Forest Park, commonly known as the 'Monkey Park,' is a small but ecologically vital coastal forest located on the Atlantic shore near the tourism hub of Kololi. Spanning about 51 hectares, the park is a remnant of original coastal woodland, featuring towering Rhun palms, silk-cotton (kapok) trees, and baobabs. Geographically, it serves as a green buffer against coastal erosion and salt-laden Atlantic winds. Ecologically, the park is renowned for its resident populations of Western Red Colobus, vervet, and patas monkeys. Historically, it was gazetted as a forest reserve in 1951 and opened to the public as a nature trail in 1991. Economically, it is one of the most visited natural sites in The Gambia due to its proximity to major hotels, generating significant revenue for the Department of Parks and Wildlife Management. Technically, the park is managed through a system of well-marked trails designed to channel visitors and reduce disturbance to the sensitive wildlife. A primary management challenge is the unauthorized feeding of monkeys by tourists, leading to increased educational outreach and enforcement of strict rules to maintain the animals' natural foraging behaviors."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Letztes verbliebenes Stück primärer Küstenwald in der Region Kololi.",
+          "Bekannt für die zahmen, aber wild lebenden Roten Stummelaffen.",
+          "Beherbergt über 130 verschiedene Vogelarten.",
+          "Dient als wichtiger Schutzgürtel gegen die Meereserosion.",
+          "Verfügt über einen 4,5 km langen Naturlehrpfad durch verschiedene Zonen.",
+          "Wurde 1951 gegründet und ist damit eines der ältesten Reservate."
+        ],
+        "hu": [
+          "Az utolsó megmaradt elsődleges parti erdő Kololi környékén.",
+          "Híres a szelíd, de vadon élő vörös kolobuszmajmokról.",
+          "Több mint 130 madárfaj fészkelő- vagy pihenőhelye.",
+          "Fontos védelmi zóna az óceáni erózióval szemben.",
+          "4,5 km hosszú tanösvény mutatja be az erdő élővilágát.",
+          "1951-ben alapították, Gambia egyik legrégebbi rezervátuma."
+        ],
+        "ro": [
+          "Ultima parcelă de pădure primară de coastă din zona Kololi.",
+          "Faimos pentru observarea de aproape a maimuțelor Colobus roșu.",
+          "Adăpostește o diversitate de peste 130 de specii de păsări.",
+          "Barieră naturală critică împotriva avansului liniei țărmului.",
+          "Include un traseu interpretativ de 4,5 km prin pădurea tropicală.",
+          "Înființat în 1951, fiind un reper al conservării forestiere."
+        ],
+        "en": [
+          "The last remaining fragment of primary coastal forest in the Kololi area.",
+          "Famous for its resident populations of Western Red Colobus monkeys.",
+          "Home to over 130 bird species within its small area.",
+          "Acts as a vital natural barrier against coastal erosion.",
+          "Features a 4.5 km nature trail with educational signage.",
+          "Gazetted in 1951, it is one of the country's oldest forest reserves."
+        ]
+      }
+    },
+    {
+      "id": "abuko-nature-reserve-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Abuko Nature Reserve ist Gambias erstes offizielles Naturschutzgebiet und liegt etwa 25 Kilometer südlich von Banjul. Trotz seiner geringen Größe von 105 Hektar ist es von immenser ökologischer Bedeutung, da es einen der letzten intakten Galeriewälder des Landes schützt. Das Reservat wird vom Lamin Bolong durchflossen, was eine ganzjährige Wasserversorgung sicherstellt und eine üppige Vegetation ermöglicht. Ökologisch beherbergt Abuko eine beeindruckende Vielfalt: von Nilkrokodilen in den zentralen Teichen über grüne Meerkatzen bis hin zu Pythons und Kobras. Historisch wurde das Gebiet bereits 1916 als Wasserreservoir geschützt und 1968 auf Initiative von Eddie Brewer zum ersten Nationalreservat erklärt. Ökonomisch ist es ein zentraler Pfeiler des gambischen Tourismus und ein wichtiges Bildungszentrum für lokale Schulen, die hier Naturkundeunterricht erhalten. Technisch verfügt das Reservat über ein Tierwaisenhaus (Animal Orphanage) und eine Beobachtungsstation am Bambusknotenpunkt. Die größte ökologische Bedrohung für Abuko ist die fortschreitende Urbanisierung der Umgebung, die den Park zunehmend isoliert. Dennoch bleibt es ein Musterbeispiel für die Erhaltung der Biodiversität in einem dicht besiedelten Raum und ein wichtiger Forschungsstandort für die westafrikanische Flora.",
+        "hu": "Az Abuko Természetvédelmi Rezervátum Gambia első hivatalos védett területe, körülbelül 25 kilométerre délre Banjultól. Kis mérete (105 hektár) ellenére ökológiai jelentősége óriási, mivel az ország egyik utolsó érintetlen galériaerdőjét őrzi. A rezervátumon keresztülfolyik a Lamin Bolong, amely egész éves vízellátást biztosít és buja növényzetet tesz lehetővé. Ökológiailag az Abuko lenyűgöző változatosságot mutat: a központi tavakban élő nílusi krokodiloktól kezdve a cerkófmajmokon át a pitonokig és kobrákig minden megtalálható. Történelmileg a területet már 1916-ban víztározóként védték, majd 1968-ban Eddie Brewer kezdeményezésére az ország első nemzeti rezervátumává nyilvánították. Gazdaságilag a gambiai turizmus egyik pillére és fontos oktatási központ a helyi iskolák számára, ahol természetismereti órákat tartanak. Technikai szempontból a rezervátum rendelkezik egy állatmenhellyel (Animal Orphanage) és egy megfigyelőállomással. Az Abuko legnagyobb ökológiai veszélye a környező területek folyamatos urbanizációja, amely egyre inkább elszigeteli a parkot. Ennek ellenére a biodiverzitás megőrzésének mintaképe marad egy sűrűn lakott környezetben, és fontos kutatási helyszín a nyugat-afrikai flóra számára.",
+        "ro": "Rezervația Naturală Abuko este prima arie protejată oficială din Gambia, situată la aproximativ 25 de kilometri sud de Banjul. În ciuda dimensiunii sale reduse de 105 hectare, are o importanță ecologică imensă, protejând una dintre ultimele păduri de galerie intacte din țară. Rezervația este traversată de Lamin Bolong, care asigură alimentarea cu apă pe tot parcursul anului și permite o vegetație luxuriantă. Ecologic, Abuko găzduiește o diversitate impresionantă: de la crocodili de Nil în iazurile centrale, la maimuțe vervet, pitoni și cobre. Istoric, zona a fost protejată încă din 1916 ca rezervă de apă, iar în 1968, la inițiativa lui Eddie Brewer, a fost declarată prima rezervație națională. Economic, este un pilon al turismului gambian și un centru educațional vital pentru școlile locale. Din punct de vedere tehnic, rezervația include un orfemat pentru animale sălbatice și o stație de observare. Cea mai mare amenințare ecologică pentru Abuko este urbanizarea rapidă a zonelor limitrofe, care izolează parcul. Cu toate acestea, rămâne un model de conservare a biodiversității într-un spațiu dens populat și un sit important de cercetare pentru flora Africii de Vest.",
+        "en": "Abuko Nature Reserve is The Gambia's first official protected area, located about 25 kilometers south of Banjul. Despite its modest size of 105 hectares, it holds immense ecological value as it protects one of the last remaining intact gallery forests in the country. The reserve is bisected by the Lamin Bolong, ensuring year-round water supply and supporting lush, tropical vegetation. Ecologically, Abuko hosts an impressive diversity of wildlife, from Nile crocodiles in the central pools to vervet monkeys, pythons, and cobras. Historically, the area was protected as a water catchment as early as 1916 and was designated the country's first national reserve in 1968 through the efforts of Eddie Brewer. Economically, it is a cornerstone of Gambian tourism and a vital educational hub for local schools conducting field studies. Technically, the reserve features an animal orphanage and a specialized hide for wildlife observation. The primary ecological threat to Abuko is the rapid urbanization of the surrounding area, which increasingly isolates the park as a biological island. Nevertheless, it remains a flagship for biodiversity conservation in a populated landscape and a key research site for West African botany."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstes offizielles Naturschutzgebiet Gambias (seit 1968).",
+          "Schützt einen der letzten primären Galeriewälder Westafrikas.",
+          "Beherbergt eine Forschungsstation und ein Tierwaisenhaus.",
+          "Über 270 Vogelarten wurden auf dem kleinen Areal gezählt.",
+          "Zentrale Krokodilteiche bieten sichere Beobachtungsmöglichkeiten.",
+          "Wichtiger Wasserspeicher für die umliegende Region Kombo North."
+        ],
+        "hu": [
+          "Gambia első hivatalos nemzeti rezervátuma (1968 óta).",
+          "Nyugat-Afrika egyik utolsó érintetlen galériaerdőjét őrzi.",
+          "Állatmenhely és kutatóállomás is működik a területén.",
+          "Kis területe ellenére több mint 270 madárfaj otthona.",
+          "A központi tavakban nílusi krokodilok figyelhetőek meg.",
+          "Stratégiai vízbázis a Kombo North régió számára."
+        ],
+        "ro": [
+          "Prima rezervație națională înființată în Gambia (1968).",
+          "Protejează un fragment critic de pădure tropicală riverană.",
+          "Include un centru de reabilitare pentru animalele confiscate.",
+          "Densitate ornitologică ridicată, cu peste 270 de specii.",
+          "Iazul central este faimos pentru populația de crocodili de Nil.",
+          "Sursă istorică de apă potabilă pentru zona metropolitană Banjul."
+        ],
+        "en": [
+          "The Gambia's first officially designated nature reserve (1968).",
+          "Protects a vital remnant of West African gallery forest.",
+          "Features an on-site animal orphanage and research center.",
+          "Supports over 270 bird species within its 105-hectare area.",
+          "Central pools are famous for resident Nile crocodiles.",
+          "Historically significant as a primary water catchment area."
+        ]
+      }
+    }
+  ]
+}

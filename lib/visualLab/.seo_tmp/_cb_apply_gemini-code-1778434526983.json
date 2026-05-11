@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonNatureV2.ts",
+    "lib/visualLab/data/poiExtraGabonReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fernan-vaz-lagoon-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Fernan-Vaz-Lagune ist ein weitläufiges und komplexes Gewässersystem an der Atlantikküste Gabuns, südlich des Ogooué-Deltas in der Provinz Ogooué-Maritime. Geografisch erstreckt sich die Lagune über eine beträchtliche Fläche und wird durch schmale Landzungen und Barrieresandbänke vom offenen Ozean getrennt. Das Ökosystem ist geprägt von Brackwasser, das durch den Zufluss zahlreicher kleinerer Flüsse und den Gezeiteneinfluss des Atlantiks entsteht. Die Ufer der Lagune sind von dichten Mangrovenwäldern und Primärregenwald gesäumt, was sie zu einem Hotspot der Biodiversität macht. Hier finden seltene Arten wie das Westafrikanische Manati (Seekuh) und das Nilkrokodil ideale Lebensbedingungen. Die Lagune beherbergt zudem zahlreiche Inseln, darunter Evengué, die für ihre Primatenschutzprojekte bekannt ist. Historisch war Fernan Vaz ein bedeutendes Zentrum für den frühen Handel und die christliche Missionierung, wovon die berühmte Mission Sainte-Anne zeugt. Heute ist die Lagune ein wichtiger Ort für den nachhaltigen Ökotourismus und die wissenschaftliche Forschung, insbesondere im Bereich der marinen und aquatischen Ökologie. Die Ruhe der Gewässer und die Vielfalt der Vogelwelt machen sie zu einem der friedlichsten und zugleich ökologisch wertvollsten Rückzugsgebiete des Landes. Der Schutz der Lagune ist entscheidend für den Erhalt der Fischbestände und der sensiblen Küstenökosysteme Gabuns.",
+        "hu": "A Fernan Vaz-lagúna Gabon egyik legnagyobb és legösszetettebb tengerparti vízrendszere, amely az Ogooué-Maritime tartományban, az Ogooué-delta déli részén található. Földrajzi szempontból ez a lagúna egy hatalmas félsós vizű medence, amelyet keskeny homokpadok és földnyelvek választanak el az Atlanti-óceán nyílt vizétől. A lagúna partjait sűrű mangroveerdők és érintetlen esőerdők szegélyezik, amelyek az ország egyik leggazdagabb biodiverzitású övezetét alkotják. A vízrendszer számos szigetnek ad otthont, amelyek közül több, például az Evengué-sziget, nemzetközileg elismert főemlősvédelmi programok helyszíne. A lagúna vizeiben ritka afrikai manátuszok, krokodilok és különféle vízi madarak élnek zavartalanul. Történelmileg a Fernan Vaz fontos kereskedelmi és missziós központ volt, itt található a híres Sainte-Anne vaskatedrális is. Napjainkban a lagúna az ökoturizmus egyik fellegvára, ahol a látogatók pirogákkal fedezhetik fel a rejtett csatornákat és a part menti vadont. A halászat továbbra is alapvető megélhetési forrás a helyi közösségek, például az nkomi nép számára, akik generációk óta harmóniában élnek a vízzel. A lagúna védelme kulcsfontosságú Gabon partmenti ökoszisztémájának megőrzéséhez és a globális éghajlatváltozás elleni védekezéshez, mivel a mangrovék jelentős szén-dioxid-megkötő képességgel bírnak.",
+        "ro": "Laguna Fernan Vaz este un sistem hidrogrfic vast și complex situat pe coasta atlantică a Gabonului, în provincia Ogooué-Maritime. Această întindere de apă salmastră este separată de ocean prin bariere de nisip și peninsule înguste, creând un mediu protejat de furia Atlanticului. Ecosistemul este dominat de păduri de mangrove și jungle riverane, oferind un habitat critic pentru specii emblematice precum lamantinul african și crocodilul de Nil. Laguna este punctată de numeroase insule, cum ar fi Insula Evengué, care joacă un rol vital în conservarea primatelor. Din punct de vedere istoric, Fernan Vaz a fost o arteră comercială majoră și un centru al misiunilor catolice timpurii, situl Sainte-Anne fiind cel mai elocvent martor al acelei epoci. Astăzi, laguna este o destinație de top pentru ecoturism, oferind posibilitatea explorării cu ambarcațiuni tradiționale a canalelor sale labirintice. Populația locală Nkomi depinde de resursele lagunei pentru pescuitul artizanal, menținând un echilibru fragil între tradiție și conservare. Biodiversitatea avifaunei este remarcabilă, numeroase păsări migratoare folosind laguna ca loc de odihnă. Protejarea acestui bazin hidrografic este esențială pentru stabilitatea ecologică a litoralului gabonez, servind ca zonă de reproducere pentru numeroase specii marine. Peisajele senine și importanța sa biologică fac din Fernan Vaz unul dintre cele mai prețioase monumente naturale ale țării.",
+        "en": "The Fernan Vaz Lagoon is a vast and intricate coastal water system located in the Ogooué-Maritime province of Gabon, south of the Ogooué Delta. Geographically, it is a large body of brackish water separated from the Atlantic Ocean by narrow sandy spits and barrier islands. The lagoon’s shoreline is characterized by dense mangrove forests and primary rainforest, making it a critical biodiversity hotspot. It serves as a vital habitat for the endangered West African manatee, Nile crocodiles, and a wide array of aquatic birds. Several islands dot the lagoon, including Evengué Island, which is renowned for its primate rehabilitation and conservation projects. Historically, the Fernan Vaz area was a significant hub for early maritime trade and Catholic missions, most notably evidenced by the historic Saint-Anne Mission. Today, the lagoon is a center for sustainable ecotourism and scientific research into coastal ecosystems. Local communities, such as the Nkomi people, rely on the lagoon's rich fish stocks for their traditional livelihoods. The interplay between freshwater inflows and the Atlantic tides creates a unique environment that supports both marine and terrestrial species. Preserving the Fernan Vaz Lagoon is essential for Gabon's coastal resilience and the protection of its rich natural heritage, standing as one of the most serene and ecologically productive regions in Central Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Lagune ist ein wichtiges Brutgebiet für das Westafrikanische Manati.",
+          "Sie wird durch die Nkomi-Halbinsel vom Atlantischen Ozean getrennt.",
+          "Die berühmte Mission Sainte-Anne liegt direkt am Ufer der Lagune.",
+          "Zahlreiche Inseln in der Lagune dienen als Schutzgebiete für Primaten.",
+          "Das Gewässer ist eine Mischung aus Süß- und Salzwasser (Brackwasser).",
+          "Pirogen sind das Hauptverkehrsmittel zur Erkundung der Wasserwege."
+        ],
+        "hu": [
+          "A lagúna az nkomi népcsoport hagyományos szállásterülete.",
+          "Itt található az Evengué-sziget, amely a gorillák egyik menedékhelye.",
+          "A területen tilos az ipari méretű halászat a biodiverzitás védelmében.",
+          "A lagúna összeköttetésben áll az Ogooué-folyó déli ágaival.",
+          "A part menti mangrovék Afrika legmagasabbjai közé tartoznak.",
+          "Az övezet kulcsfontosságú a tengeri teknősök vonulása szempontjából."
+        ],
+        "ro": [
+          "Fernan Vaz este una dintre cele mai mari lagune de coastă din Gabon.",
+          "Găzduiește situl istoric Misiunea Sainte-Anne, construită integral din fier.",
+          "Ecosistemul lagunar este vital pentru supraviețuirea speciilor de păsări limicole.",
+          "Transportul se face predominant pe apă între localitățile Omboué și Mpivié.",
+          "Laguna acționează ca un filtru natural pentru sedimentele fluviale.",
+          "Biodiversitatea marină include specii rare de rechini de estuar."
+        ],
+        "en": [
+          "The lagoon is a primary sanctuary for the West African manatee.",
+          "It is separated from the Atlantic by the scenic Nkomi Peninsula.",
+          "The historic red iron church of St. Anne is its most famous landmark.",
+          "Evengué Island within the lagoon is a major center for gorilla sanctuary.",
+          "The water is brackish, supporting a unique mix of salt and freshwater life.",
+          "It is a central node for ecotourism activities in the Ogooué-Maritime province."
+        ]
+      }
+    },
+    {
+      "id": "ekwata-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Ekwata Island ist eine abgelegene Insel innerhalb des Fernan-Vaz-Lagunensystems und ein bedeutender Ort für den Naturschutz in Gabun. Die Insel ist vollständig von dichtem Regenwald und Ufervegetation bedeckt, was sie zu einem idealen, natürlichen Isolationsraum für den Schutz bedrohter Arten macht. Bekanntheit erlangte Ekwata vor allem als Standort für Rehabilitationsprojekte von Westlichen Flachlandgorillas, die oft aus den Händen von Wilderern gerettet wurden. Die strategische Lage im Brackwasser der Lagune bietet den Tieren einen geschützten Lebensraum, der dem ursprünglichen Dschungel entspricht, aber gleichzeitig eine kontrollierte Überwachung durch Forscher ermöglicht. Die Insel beheimatet zudem eine reiche Vogelwelt und kleinere Säugetiere, die in den ungestörten Wäldern gedeihen. Geografisch ist die Insel durch flache Uferzonen und ein dichtes Kronendach geprägt, das kaum Sonnenlicht auf den Waldboden lässt. Ekwata ist Teil des Bemühens Gabuns, Inseln als „natürliche Refugien“ für die Primatenforschung und den Artenschutz zu nutzen. Für Besucher bietet die Umgebung der Insel die seltene Gelegenheit, die Arbeit von Naturschützern aus der Distanz zu beobachten, ohne die sensiblen Rehabilitationsphasen der Menschenaffen zu stören. Die Erhaltung von Ekwata ist ein wichtiger Baustein für das Verständnis der sozialen Reintegration von Primaten und unterstreicht die ökologische Bedeutung der Fernan-Vaz-Region.",
+        "hu": "Az Ekwata-sziget a Fernan Vaz-lagúna egyik legfontosabb természetvédelmi helyszíne, amely Gabon nyugati partvidékén található. A szigetet sűrű, érintetlen trópusi esőerdő borítja, amely természetes elszigeteltséget biztosít az ott folyó vadvédelmi programok számára. Ekwata elsősorban a nyugati síkvidéki gorillák rehabilitációs központjaként vált ismertté; itt készítik fel a fogságból mentett vagy árván maradt egyedeket a vadonba való visszatérésre. A sziget ökoszisztémája rendkívül stabil, a lagúna sós-édes vize és a buja növényzet ideális feltételeket teremt a főemlősök számára. A területen végzett tudományos munka nemzetközi szinten is kiemelkedő, segítve a kutatókat a gorillák szociális viselkedésének és étrendi igényeinek megértésében. Az elszigetelt fekvés megvédi az állatokat az emberi zavarástól és az orvvadászattól, ami kritikus a sikeres visszavadítási folyamatban. A sziget környéki vizekben manátuszok és krokodilok is előfordulnak, tovább gazdagítva a helyi biodiverzitást. A látogatók számára a sziget csak korlátozottan és szigorú szabályok mellett közelíthető meg, biztosítva a természet nyugalmát. Ekwata az emberi felelősségvállalás és a gaboni vadon megőrzésének egyik legfontosabb szimbóluma, ahol a természet ereje és a tudatos védelem kéz a kézben jár.",
+        "ro": "Insula Ekwata este o locație izolată și protejată în cadrul sistemului lagunar Fernan Vaz, reprezentând un punct de referință pentru conservarea faunei din Gabon. Acoperită integral de o pădure tropicală luxuriantă, insula oferă un mediu securizat pentru proiecte de reabilitare a speciilor pe cale de dispariție, în special a gorilelor de câmpie vestice. Datorită barierei naturale oferite de apele lagunei, Ekwata servește drept zonă de tranziție ideală pentru animalele salvate de la braconieri, permițându-le să se readapteze la viața în sălbăticie într-un spațiu controlat. Ecosistemul insulei este neperturbat, găzduind, pe lângă primate, o diversitate de păsări tropicale și reptile specifice zonelor de apă salmastră. Din punct de vedere geografic, insula se remarcă prin relief jos și vegetație deasă care ajunge până la linia apei. Cercetările desfășurate aici au un impact major asupra strategiilor naționale de conservare a biodiversității. Accesul pe insulă este restricționat, fiind permis în principal cercetătorilor și personalului specializat, pentru a menține liniștea necesară proceselor de reabilitare. Ekwata simbolizează eforturile Gabonului de a proteja patrimoniul genetic al marilor maimuțe africani într-un cadru natural autentic. Este un loc al speranței pentru supraviețuirea speciilor amenințate în bazinul Congo.",
+        "en": "Ekwata Island is a secluded sanctuary within the Fernan Vaz lagoon system, serving as a vital site for wildlife conservation in western Gabon. Fully blanketed in dense rainforest and lush riparian vegetation, the island provides a natural fortress for endangered species protection. It is most notable as a primary location for the rehabilitation of western lowland gorillas, often rescued from the illegal pet or bushmeat trade. The island’s strategic isolation in the lagoon's brackish waters offers a safe, natural habitat that closely mimics the primary jungle while allowing conservationists to monitor the animals' health and social reintegration. Beyond its primates, Ekwata supports a rich avian population and small mammals thriving in its undisturbed canopy. Geographically, the island features low-lying shores and a high density of old-growth trees. It is part of Gabon's broader initiative to use islands as 'natural laboratories' for primate research and ecological restoration. For those exploring the Fernan Vaz region, Ekwata represents a model of successful environmental stewardship, where human intervention focuses on returning balance to the ecosystem. Preserving Ekwata Island is essential for the long-term viability of Gabon’s gorilla populations and the maintenance of the lagoon’s biological diversity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ekwata ist eine natürliche Schutzinsel im Fernan-Vaz-System.",
+          "Sie dient als Rehabilitationszentrum für gerettete Gorillas.",
+          "Der dichte Regenwald der Insel ist weitgehend unberührt.",
+          "Der Zugang ist streng kontrolliert, um die Tiere nicht zu stören.",
+          "Die Insel bietet Schutz vor Boden-Raubtieren aus dem Festland.",
+          "Sie ist ein wichtiger Forschungsstandort für die Primatologie."
+        ],
+        "hu": [
+          "A sziget a Fernan-Vaz-lagúna ökoszisztémájának központi eleme.",
+          "Itt zajlik az egyik legsikeresebb gorillarehabilitációs program.",
+          "A szigetet kizárólag vízi úton, engedéllyel lehet megközelíteni.",
+          "Az állatok számára a sziget bőséges természetes táplálékforrást kínál.",
+          "A terület mentes az illegális fakitermeléstől és építkezésektől.",
+          "Ekwata fontos szerepet játszik a helyi természetvédelmi oktatásban."
+        ],
+        "ro": [
+          "Insula funcționează ca un sanctuar semi-sălbatic pentru primate.",
+          "Este înconjurată de apele salmastre ale lagunei Fernan Vaz.",
+          "Vegetația include specii de arbori tropicali cu fructe comestibile pentru gorile.",
+          "Ekwata este un sit cheie pentru monitorizarea sănătății animalelor reintroduse.",
+          "Nu există așezări umane permanente pe suprafața insulei.",
+          "Eforturile de aici sunt susținute de ONG-uri internaționale de mediu."
+        ],
+        "en": [
+          "Ekwata is a dedicated island sanctuary for western lowland gorillas.",
+          "The island provides a predator-free environment for primate recovery.",
+          "It is located in the biodiverse Fernan Vaz lagoon near Omboué.",
+          "The island's primary forest acts as a natural training ground for wild life.",
+          "Access is highly restricted to ensure scientific integrity and animal welfare.",
+          "Ekwata is a flagship site for Gabon's 'Emergent Gabon' environmental policy."
+        ]
+      }
+    },
+    {
+      "id": "ozouri-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Ozouri Island liegt im komplexen Mündungsgebiet des Ogooué-Flusses und ist Teil der faszinierenden Lagunenlandschaft von Ogooué-Maritime. Die Insel ist geprägt von einer dynamischen Mischung aus Mangrovensümpfen, sandigen Ebenen und dichtem Küstendschungel. Geografisch bildet sie einen wichtigen Puffer zwischen den verschiedenen Armen des Ogooué-Deltas und der offenen See. Bekannt wurde die Insel in den letzten Jahren durch Infrastrukturprojekte, insbesondere die Ozouri-Brücke, die die Region verkehrstechnisch erschließt. Trotz dieser Entwicklung bleibt die Insel ökologisch wertvoll; ihre ausgedehnten Mangrovenwälder dienen als Kinderstube für zahlreiche Fischarten und als Lebensraum für die Westafrikanische Seekuh. Die Vogelwelt ist mit Reihern, Seeadlern und Eisvögeln besonders vielfältig. Ozouri Island ist zudem für seine strategische Lage in der Erdölförderregion Gabuns bekannt, wobei die Herausforderung darin besteht, industrielle Nutzung und den Schutz der sensiblen Feuchtgebiete in Einklang zu bringen. Der Boden der Insel ist durch Sedimentablagerungen des Ogooué sehr nährstoffreich, was eine üppige Vegetation begünstigt. Für Naturinteressierte bietet die Insel einen Einblick in die Transformation einer Flusslandschaft zum Meer und die Bedeutung von Mangroven für den Küstenschutz. Die Stille der Kanäle rund um Ozouri steht im starken Kontrast zu den industriellen Aktivitäten in der weiteren Umgebung.",
+        "hu": "Az Ozouri-sziget az Ogooué-folyó deltájának és torkolatvidékének egyik meghatározó eleme Gabon nyugati partjainál. A sziget tájképe rendkívül változatos: a mocsaras mangroveerdők, a homokos fövenyek és a sűrű parti dzsungel váltják egymást. Földrajzi elhelyezkedése miatt fontos pufferzónát képez az Ogooué-folyó különböző ágai és az Atlanti-óceán között. Az Ozouri-sziget az utóbbi években leginkább az új Ozouri-híd révén került a figyelem középpontjába, amely véget vetett a régió elszigeteltségének. Ökológiai szempontból a sziget továbbra is nagy jelentőséggel bír; mangroveerdői kritikus szaporodóhelyek a tengeri halak és rákok számára, a nyugodt csatornákban pedig afrikai manátuszok élnek. A madárvilág rendkívül gazdag, különösen a ragadozó madarak és a gázlómadarak népsűrűsége magas. A sziget és környéke Gabon kőolaj- és földgázkitermelésének egyik központja, ami állandó egyensúlyozást igényel az ipari fejlesztés és a környezetvédelem között. A talaj hordalékban gazdag, ami buja és gyorsan növő vegetációt eredményez. Az Ozouri-sziget felfedezése során a látogatók megismerhetik a trópusi torkolatvidékek dinamikáját és a víz erejét, amely folyamatosan formálja a partvonalat. A sziget körüli csatornák nyugalma és a természetes élőhelyek érintetlensége különleges kontrasztot alkot a közeli ipari létesítményekkel.",
+        "ro": "Insula Ozouri este situată în zona complexă a deltei fluviului Ogooué, făcând parte din peisajul lagunar spectaculos al provinciei Ogooué-Maritime. Această insulă este caracterizată printr-o mixtură dinamică de mlaștini cu mangrove, câmpii nisipoase și junglă de coastă densă. Din punct de vedere geografic, Ozouri acționează ca un tampon natural între brațele fluviului Ogooué și Oceanul Atlantic. Insula a devenit cunoscută în ultimii ani datorită proiectelor majore de infrastructură, în special Podul Ozouri, care a facilitat conexiunea terestră în regiune. Cu toate acestea, Ozouri rămâne o zonă de o importanță ecologică deosebită, pădurile sale de mangrove servind drept „maternitate” pentru numeroase specii de pești și habitat pentru lamantinul african. Avifauna este extrem de diversă, fiind un loc preferat pentru egrete, vulturi pescari și pescărași. Insula este, de asemenea, situată într-o zonă strategică pentru industria petrolieră a Gabonului, provocarea principală fiind echilibrarea activităților extractive cu protejarea zonelor umede sensibile. Solul insulei este format din depuneri sedimentare bogate, favorizând o vegetație exuberantă. Pentru pasionații de natură, Ozouri oferă o perspectivă asupra transformării peisajului fluvial în cel marin și evidențiază rolul vital al mangrovelor în protecția coastelor. Liniștea canalelor din jurul insulei Ozouri contrastează puternic cu activitățile industriale din zonele învecinate.",
+        "en": "Ozouri Island is situated within the complex mouth of the Ogooué River and is part of the mesmerizing lagoon landscape of the Ogooué-Maritime province. The island is characterized by a dynamic mixture of mangrove swamps, sandy flats, and dense coastal jungle. Geographically, it serves as an important buffer between the various branches of the Ogooué Delta and the open sea. In recent years, the island has gained prominence through infrastructure projects, particularly the Ozouri Bridge, which has greatly improved connectivity in the region. Despite this development, the island remains ecologically valuable; its extensive mangrove forests act as a nursery for numerous fish species and provide a habitat for the West African manatee. The birdlife is especially diverse, featuring herons, sea eagles, and kingfishers. Ozouri Island is also known for its strategic location within Gabon’s oil-producing region, where the challenge lies in balancing industrial use with the protection of sensitive wetlands. The island's soil, enriched by Ogooué sediments, supports lush vegetation. For nature enthusiasts, the island offers insights into the transformation of a riverine landscape into a marine one and underscores the significance of mangroves for coastal protection. The tranquility of the channels surrounding Ozouri stands in stark contrast to the industrial activities in the wider vicinity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ozouri Island liegt im Herzen der Ogooué-Delta-Region.",
+          "Die Insel beherbergt ausgedehnte, ökologisch wichtige Mangrovenwälder.",
+          "Sie ist durch die neue Ozouri-Brücke mit dem Festland verbunden.",
+          "In den Kanälen rund um die Insel leben seltene Seekühe (Manatis).",
+          "Die Insel ist ein strategischer Punkt für Gabuns Erdölindustrie.",
+          "Zahlreiche Zugvögel nutzen die Insel als Rastplatz."
+        ],
+        "hu": [
+          "A sziget az Ogooué-folyó és az óceán találkozásánál fekszik.",
+          "Az Ozouri-híd megépítése előtt csak hajóval volt megközelíthető.",
+          "A terület mangrovéi kulcsfontosságúak a partmenti védelemben.",
+          "A sziget vizei gazdagok tengeri és édesvízi halfajokban egyaránt.",
+          "Gyakran látni itt halászsasokat vadászat közben.",
+          "A sziget fontos logisztikai bázis a tengerparti olajfúró tornyok számára."
+        ],
+        "ro": [
+          "Insula Ozouri este parte integrantă a Rezervației de Faună Petit Loango.",
+          "Podul de pe insulă este una dintre cele mai lungi structuri de acest tip din țară.",
+          "Ecosistemul este fragil și monitorizat pentru a preveni poluarea cu petrol.",
+          "Biodiversitatea include crocodili de estuar și șerpi de apă.",
+          "Este un punct de tranzit vital pentru transportul de marfă spre Port-Gentil.",
+          "Canalele insulei oferă protecție împotriva furtunilor atlantice."
+        ],
+        "en": [
+          "Ozouri Island is a key geographical feature of the Ogooué-Maritime province.",
+          "It features vast mangrove ecosystems essential for marine life cycles.",
+          "The island was recently integrated into the national road network via a major bridge.",
+          "It provides a secure habitat for the endangered West African manatee.",
+          "The area is a hub for both environmental conservation and industrial activity.",
+          "The island is a prime location for observing coastal and wetland bird species."
+        ]
+      }
+    },
+    {
+      "id": "belinga-mountains-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Belinga-Berge (Monts de Belinga) im Nordosten Gabuns sind ein gewaltiger Gebirgszug, der tief in der Provinz Ogooué-Ivindo liegt. Dieses Gebirge ist weltweit für seine immensen Eisenerzvorkommen bekannt, doch ökologisch ist es ein Schatzhaus der zentralafrikanischen Biodiversität. Die Berge ragen aus dem umliegenden Tieflandregenwald empor und sind von dichten, oft nebelverhangenen Primärwäldern bedeckt. Aufgrund ihrer Höhe und geografischen Lage fungieren die Belinga-Berge als isolierter Lebensraum, in dem sich eine spezialisierte Flora und Fauna entwickelt hat. Das Gebiet beheimatet bedeutende Populationen von Waldelefanten, Primaten und seltenen Vogelarten, die in den steilen Hängen und tiefen Tälern Schutz finden. Geologisch bestehen die Berge aus harten, eisenhaltigen Gesteinen, die zu den ältesten Formationen des Kontinents gehören. Die Region ist zudem von strategischer Bedeutung für die Wasserversorgung, da hier zahlreiche Bäche entspringen, die den Ivindo-Fluss speisen. In den letzten Jahrzehnten standen die Belinga-Berge im Zentrum nationaler und internationaler Diskussionen über das Gleichgewicht zwischen industrieller Nutzung und Naturschutz. Trotz der Pläne für großflächigen Bergbau bleibt der größte Teil des Gebirges eine unberührte Wildnis von beeindruckender Majestät. Für Forscher bieten die Berge noch immer unentdeckte Geheimnisse, da weite Teile aufgrund des schwierigen Geländes kaum erforscht sind. Ein Besuch der Region ist eine Expedition in das „eiserne Herz“ Gabuns.",
+        "hu": "A Belinga-hegység (Monts de Belinga) Gabon északkeleti részén, az Ogooué-Ivindo tartományban található, és az ország egyik legjelentősebb geológiai képződménye. A hegység világszerte ismertté vált hatalmas, kiváló minőségű vasérckészleteiről, amelyek a világ egyik legnagyobb kiaknázatlan lelőhelyét alkotják. Ökológiai szempontból azonban Belinga ennél is fontosabb: a környező esőerdőkből kiemelkedő vonulatok egyedi hegyi ökoszisztémát hordoznak. A csúcsokat sűrű, gyakran ködbe burkolózó elsődleges erdők borítják, amelyek menedéket nyújtanak az erdei elefántoknak, gorilláknak és ritka antilopfajoknak. A hegység magassága miatt a klíma itt hűvösebb és csapadékosabb, mint az alföldön, ami különleges növényvilág, például ritka orchideák és páfrányok kialakulását tette lehetővé. Belinga fontos vízgyűjtő terület, számos kristálytiszta patak forrásvidéke, amelyek az Ivindo-folyót táplálják. A terület jövője folyamatos viták tárgya, hiszen a tervezett bányászati beruházások komolyan veszélyeztethetik ezt az érintetlen vadont. A kutatók számára a Belinga-hegység igazi paradicsom, ahol még ma is találnak korábban ismeretlen fajokat. Az idelátogatók számára a hegység Gabon nyers erejét és rejtett kincseit szimbolizálja, ahol a vöröses színű, vasban gazdag sziklák és a mélyzöld erdők lenyűgöző kontrasztot alkotnak.",
+        "ro": "Munții Belinga (Monts de Belinga) din nord-estul Gabonului reprezintă un masiv montan impunător situat în provincia Ogooué-Ivindo. Acest lanț muntos este recunoscut la nivel mondial pentru rezervele sale imense de minereu de fier de înaltă puritate, fiind unul dintre cele mai importante zăcăminte neexploatate de pe glob. Din perspectivă ecologică, munții sunt un tezaur al biodiversității, ridicându-se deasupra junglei de joasă altitudine și fiind acoperiți de păduri primare dense, adesea învăluite în nori. Datorită altitudinii și izolării lor, Munții Belinga funcționează ca un habitat refugiu pentru specii precum elefantul de pădure, gorila de câmpie și numeroase păsări endemice. Geologic, masivul este compus din roci feruginoase extrem de vechi, datând din perioada precambriană. Regiunea este crucială pentru rețeaua hidrografică locală, numeroase izvoare care alimentează râul Ivindo avându-și originea aici. În ultimele decenii, Munții Belinga au fost în centrul unor dezbateri intense între necesitatea dezvoltării industriale și urgența conservării naturii. Deși există planuri pentru exploatarea minieră la scară largă, mare parte din masiv rămâne o sălbăticie pură și inaccesibilă. Pentru cercetători, acești munți oferă oportunități unice de a studia adaptarea speciilor la mediul montan ecuatorial. Belinga rămâne un simbol al bogățiilor naturale vaste ale Gabonului și al provocărilor moderne de protecție a mediului.",
+        "en": "The Belinga Mountains (Monts de Belinga) in northeastern Gabon are a massive mountain range situated deep within the Ogooué-Ivindo province. This range is globally famous for its colossal deposits of high-grade iron ore, yet ecologically, it is a treasure trove of Central African biodiversity. Rising above the surrounding lowland rainforest, the mountains are cloaked in dense, often mist-covered primary forests. Due to their elevation and geographic position, the Belinga Mountains function as an isolated habitat where specialized flora and fauna have evolved. The area hosts significant populations of forest elephants, primates, and rare bird species that find sanctuary in its steep slopes and deep valleys. Geologically, the mountains consist of hard, iron-rich rocks that rank among the oldest formations on the continent. The region is also strategically important for water resources, as it serves as the headwaters for numerous streams feeding the Ivindo River. Over the last few decades, the Belinga Mountains have been at the center of national and international discussions regarding the balance between industrial development and nature conservation. Despite plans for large-scale mining, much of the range remains an untouched wilderness of imposing majesty. For researchers, the mountains still hold undiscovered secrets, as vast sections remain poorly explored due to the rugged terrain. A visit to the region is an expedition into the 'iron heart' of Gabon."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Belinga-Berge beherbergen eines der größten Eisenerzvorkommen der Welt.",
+          "Das Gebirge ist von dichten, nebelverhangenen Bergregenwäldern bedeckt.",
+          "Hier leben bedrohte Waldelefanten und zahlreiche Primatenarten.",
+          "Die Region ist ein wichtiger Quellort für die Zuflüsse des Ivindo-Flusses.",
+          "Geologisch gehören die Gesteine zu den ältesten des afrikanischen Kratons.",
+          "Der Schutz des Gebiets ist Teil der regionalen Biodiversitätsstrategie."
+        ],
+        "hu": [
+          "A hegységben található a világ egyik legtisztább vasérclelőhelye.",
+          "A terület csapadékmennyisége jóval meghaladja az országos átlagot.",
+          "Belinga fontos biológiai folyosót alkot Gabon és Kamerun között.",
+          "A hegység belső részei szinte teljesen lakatlanok.",
+          "Számos ritka növényfaj csak ezeken a vasas talajú lejtőkön él.",
+          "A tervezett bányászati infrastruktúra vitákat szül a természetvédőkkel."
+        ],
+        "ro": [
+          "Munții Belinga sunt considerați inima minerală a Gabonului.",
+          "Sunt acoperiți de păduri de nori care mențin o umiditate constantă.",
+          "Zăcământul de fier a fost descoperit în anii 1950, dar a rămas neexploatat.",
+          "Fauna include antilope bongo și cimpanzei în număr mare.",
+          "Masivul influențează regimul ploilor în toată provincia Ogooué-Ivindo.",
+          "Reprezintă un sit de interes major pentru geologia mondială."
+        ],
+        "en": [
+          "The Belinga Mountains contain some of the world's largest unexploited iron deposits.",
+          "They feature unique montane ecosystems within the Congo Basin rainforest.",
+          "The range is a primary sanctuary for the African forest elephant.",
+          "Numerous crystal-clear streams originate in the Belinga highlands.",
+          "The geological formations date back billions of years to the Precambrian era.",
+          "Conservation focuses on preventing habitat loss from potential industrial mining."
+        ]
+      }
+    },
+    {
+      "id": "bateke-plateau-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Batéké-Plateau im Südosten Gabuns ist eine außergewöhnliche geologische Formation, die sich radikal vom restlichen Regenwald-geprägten Land unterscheidet. Dieses uralte Sandstein-Plateau erstreckt sich über Teile Gabuns und der Republik Kongo und ist durch eine weitläufige Grassavanne geprägt, die von tiefen Tälern und Galeriewäldern durchzogen wird. Geografisch handelt es sich um eine Hochebene mit sanften Hügeln, die aus äolischen Sedimenten bestehen und eine fast wüstenähnliche Charakteristik in ihren Bodenverhältnissen aufweisen. Die Landschaft ist bekannt für ihre spektakulären Canyons, wie den Cirque de Léconi, deren rote und weiße Erden einen faszinierenden Kontrast zum Blau des Himmels bilden. Das Batéké-Plateau ist ein entscheidender Lebensraum für Savannenarten und beheimatet eine spezialisierte Fauna, darunter Antilopen und Schakale. In den letzten Jahren erlangte das Plateau internationale Aufmerksamkeit durch die Wiederansiedlung von Gorillas und die Rückkehr der Löwen in diese Region. Die klimatischen Bedingungen sind hier trockener und die Temperaturen schwankender als in den äquatorialen Wäldern. Für die lokale Bevölkerung der Téké ist das Plateau ein kultureller Raum von großer spiritueller Bedeutung. Das Relief des Plateaus wirkt wie eine unendliche Weite, die den Besuchern eine völlig andere Perspektive auf die geografische Vielfalt Gabuns bietet. Es ist ein Symbol für die ökologische Vielfalt des zentralafrikanischen Hochlandes.",
+        "hu": "A Batéké-fennsík Gabon délkeleti részén, a Haut-Ogooué tartományban található, és az ország egyik legkülönlegesebb domborzati formája. Ez az ősi homokkő-fennsík éles kontrasztban áll Gabon sűrű esőerdőivel, hiszen végtelen füves szavannák és mély völgyek jellemzik. A fennsík kiterjed a szomszédos Kongói Köztársaságra is, egy hatalmas, hullámzó dombságot alkotva, amelynek talaja túlnyomórészt homokos és tápanyagban szegény. A táj leglátványosabb elemei a kimosódott kanyonok és sziklaformációk, mint például a híres Léconi-kanyon, ahol a vörös, narancs és fehér homokkő rétegek festői látványt nyújtanak. A Batéké-fennsík ökológiai szempontból is egyedülálló, hiszen olyan szavannai fajoknak ad otthont, amelyek máshol nem találhatók meg az országban. Itt zajlottak az első sikeres oroszlán-visszatelepítési kísérletek is Gabonban. A terület klímája jóval szárazabb és szelesebb, mint a parti régióké, ami sajátos növényzetet, többek között különleges fűféléket és magányos akáciákat eredményezett. A helyi téké nép számára a fennsík szent föld, ősi hagyományaik és királyságuk központja. A látogatók számára a Batéké-fennsík az abszolút szabadság és a végtelen horizont élményét nyújtja, megmutatva Gabon tájainak hihetetlen változatosságát.",
+        "ro": "Podișul Batéké, situat în sud-estul Gabonului, este o formațiune geologică de o frumusețe rară, care se distinge clar de restul țării prin peisajul său de savană. Acest platou antic din gresie se întinde peste granița cu Republica Congo și este caracterizat prin dealuri domoale acoperite de ierburi înalte și păduri-galerie de-a lungul cursurilor de apă. Relieful este modelat de eroziune, dând naștere unor formațiuni spectaculoase, cum este faimosul Cirque de Léconi, un canion natural cu pereți multicolori în nuanțe de roșu, ocru și alb. Podișul are un sol predominant nisipos, fiind o relicvă a unui peisaj dunar străvechi, acum fixat de vegetație. Din punct de vedere ecologic, Platourile Batéké sunt vitale pentru conservarea speciilor de savană, fiind recent teatrul unui succes major prin reintroducerea leilor și a gorilelor. Clima de pe platou este mai uscată și mai răcoroasă decât în bazinul Ogooué, oferind un refugiu termic plăcut. Importanța culturală a regiunii este marcată de prezența poporului Téké, care păstrează tradiții legate de regatul lor istoric. Platoul oferă orizonturi vaste, o raritate într-o țară acoperită în proporție de 80% de junglă. Pentru exploratori, acesta reprezintă o frontieră a geografiei gaboneze unde spațiul pare infinit. Conservarea acestui relief unic este esențială pentru menținerea mozaicului de habitate din Africa Centrală.",
+        "en": "The Batéké Plateau in southeastern Gabon is an extraordinary geological formation that contrasts sharply with the country's dominant rainforest terrain. This ancient sandstone plateau stretches across parts of Gabon and the Republic of Congo, characterized by vast grassy savannas interspersed with deep valleys and gallery forests. Geographically, it is a highland of rolling hills formed from aeolian sediments, exhibiting almost desert-like soil characteristics in certain areas. The landscape is famous for its spectacular canyons, such as the Léconi Canyon, where red, orange, and white sands create a stunning visual contrast against the blue sky. The Batéké Plateau is a critical habitat for savanna-dwelling species and hosts specialized fauna, including various antelopes and jackals. In recent years, it has gained international attention as the site for lion and gorilla reintroduction programs. The climate here is significantly drier, with wider temperature fluctuations than in Gabon's equatorial forests. For the local Téké people, the plateau is a cultural heartland of immense spiritual significance. Its relief offers an impression of infinite space, providing visitors with a completely different perspective on Gabon’s geographic diversity. It stands as a unique symbol of the ecological variety within the Central African highlands and remains one of the most visually striking landscapes in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Plateau ist eine uralte Sandsteinformation aus dem Tertiär.",
+          "Es beherbergt die größten zusammenhängenden Savannen Gabuns.",
+          "Der Cirque de Léconi ist eine der spektakulärsten Erosionsformen des Plateaus.",
+          "Hier wurde das Projekt zur Wiederansiedlung von Löwen in Gabun initiiert.",
+          "Der Boden besteht überwiegend aus unfruchtbaren äolischen Sandschichten.",
+          "Das Plateau bildet die Wasserscheide zwischen dem Ogooué und dem Kongo."
+        ],
+        "hu": [
+          "A fennsík talaja ősi homokdűnék maradványaiból áll.",
+          "Ez Gabon legfontosabb szavannai ökoszisztémája.",
+          "A Léconi-kanyon mélysége helyenként a 300 métert is eléri.",
+          "A terület a téké népcsoport ősi királyságának központja volt.",
+          "A fennsíkon fújó szelek hűvösebb klímát eredményeznek.",
+          "A Batéké Nemzeti Park védi a terület egyedülálló vadvilágát."
+        ],
+        "ro": [
+          "Podișul Batéké este un rest al unui vechi deșert din inima Africii.",
+          "Altitudinea medie a platoului este de aproximativ 500-800 de metri.",
+          "Canioanele de aici sunt rezultatul eroziunii eoliene și pluviale intense.",
+          "Este singurul loc din Gabon unde savana este un ecosistem primar.",
+          "Găzduiește specii de plante rezistente la secetă și incendii periodice.",
+          "Relieful este traversat de râuri cristaline precum Mpassa și Léconi."
+        ],
+        "en": [
+          "The plateau is a massive ancient sandstone formation spanning Gabon and Congo.",
+          "It features the dramatic Léconi Canyons, known for their colorful sands.",
+          "The area is the primary site for Gabon's megafauna rewilding efforts.",
+          "Soil composition is largely sandy, making it distinct from the surrounding clay-rich forest.",
+          "It provides a crucial high-altitude savanna habitat for specialized species.",
+          "The plateau is culturally significant as the traditional home of the Téké people."
+        ]
+      }
+    }
+  ]
+}

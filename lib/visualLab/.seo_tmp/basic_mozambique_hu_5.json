@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "A tó a régió szárazföldi szívében fontos édesvízi élőhely. A környék állatvilága az itatóhelyek köré összpontosul.",
+      "facts": ["Édesvízi tó", "Szárazföldi régió", "Fontos itatóhely", "Állatvilág központja"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "Az apró sziget a tengeri teknősök egyik ritka fészkelőhelye. Az ökoszisztémát szigorú természetvédelmi szabályok óvják.",
+      "facts": ["Apró sziget", "Teknősök fészkelőhelye", "Szigorú védelem", "Tengeri környezet"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "A kiterjedt erdőterület jelentős faunával és flórával bír, mely az ország északi részének ökológiai egyensúlyát védi.",
+      "facts": ["Kiterjedt erdőség", "Gazdag fauna", "Északi régió", "Ökológiai egyensúly"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "A hegység meredek lejtői különleges növényi közösségeknek adnak otthont. A terület geológiai érdekességei mellett természetvédelmi értékei is nagyok.",
+      "facts": ["Meredek lejtők", "Különleges növényzet", "Geológiai érték", "Természetvédelem"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "A folyóvölgy szurdokrendszere egyedülálló mikroklímával bír. A mély völgyekben rejtőző élővilág a kutatók kedvelt célpontja.",
+      "facts": ["Szurdokrendszer", "Egyedülálló mikroklíma", "Rejtőző élővilág", "Folyóvölgy"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "Az érintetlen erdőség ritka madárfajoknak és emlősöknek biztosít zavartalan környezetet. A természetvédelmi terület az élővilág megőrzését szolgálja.",
+      "facts": ["Érintetlen erdő", "Ritka madárfajok", "Zavartalan környezet", "Természetvédelmi terület"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "A mesterségesen kialakított tó környezete fontos vizes élőhellyé vált, melyet a vízimadarak nagy számban látogatnak.",
+      "facts": ["Mesterséges tó", "Vizes élőhely", "Vízimadarak", "Ökológiai jelentőség"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "A hegyvidéki terület növényzete a szárazabb szavannák és a hegyi erdők ötvözete. A terület biológiai sokszínűsége figyelemre méltó.",
+      "facts": ["Hegyvidéki terület", "Biológiai sokszínűség", "Szavanna-erdő ötvözet", "Természeti érték"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "A tónál kialakult élővilág a csapadékfüggő ciklusokhoz alkalmazkodott. A terület fontos átmeneti zóna a vadvilág számára.",
+      "facts": ["Csapadékfüggő tó", "Alkalmazkodó élővilág", "Átmeneti zóna", "Vadvilág"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "A folyótorkolat vidéke a tengeri és édesvízi élővilág találkozási pontja. A mangroveerdők itt különösen sűrűek és jól fejlettek.",
+      "facts": ["Folyótorkolat", "Édes- és sós víz", "Sűrű mangroveerdők", "Ökológiai találkozópont"]
+    }
+  ]
+}

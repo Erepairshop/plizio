@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "andohahela-nationalpark-life-v2",
+      "description": "Andohahela Nemzeti Park a trópusi esőerdők és a tüskés bozótosok találkozási pontja.",
+      "facts": ["Biodiverzitás", "Nemzeti park", "Különleges ökoszisztéma"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "Tsingy de Namoroka park, ahol látványos karsztképződmények és barlangrendszerek találhatók.",
+      "facts": ["Karsztképződmények", "Barlangrendszerek", "Védett természet"]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Fianarantsoa környéke Madagaszkár borkultúrájának központja, amely dombos területeivel ideális szőlőtermesztésre.",
+      "facts": ["Borkultúra", "Szőlőtermesztés", "Fennsíki terület"]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "Zombitse-Vohibasia Nemzeti Park, amely a száraz erdők és a gazdag madárvilág védelmére szolgál.",
+      "facts": ["Madárvilág", "Száraz erdő", "Nemzeti park"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Antsirabe termálfürdői, amelyek híresek gyógyhatású forrásaikról és történelmi atmoszférájukról.",
+      "facts": ["Termálforrások", "Gyógyturizmus", "Történelmi fürdő"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Ankarafantsika Nemzeti Park, amely a madármegfigyelők kedvelt célpontja és fontos növényvédelmi terület.",
+      "facts": ["Madármegfigyelés", "Nemzeti park", "Természetvédelem"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "Nosy Mitsio szigetvilága, amely világszínvonalú búvárhelyszíneiről és színes korallzátonyairól híres.",
+      "facts": ["Búvárhelyszín", "Szigetvilág", "Tengeri élővilág"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "Tampolo természetvédelmi terület, amely érintetlen partvidéki erdőket és gazdag élővilágot véd.",
+      "facts": ["Természetvédelmi terület", "Partvidéki erdők", "Érintetlen természet"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "Ranomafana esőerdeinek különleges kétéltű-populációi, amelyek a kutatások egyik fő tárgyát képezik.",
+      "facts": ["Kétéltűek", "Esőerdő", "Biodiverzitás"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "Mahajanga városi állatkertje, amely bemutatja a régió jellemző állatfajait és a helyi vadvilágot.",
+      "facts": ["Városi állatkert", "Helyi állatvilág", "Oktatóközpont"]
+    },
+    {
+      "id": "lake-alaotra-nature-v2",
+      "description": "Alaotra-tó, Madagaszkár legnagyobb tava, amely kritikus élőhely a veszélyeztetett fajok számára.",
+      "facts": ["Legnagyobb tó", "Veszélyeztetett fajok", "Vizes élőhely"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Itasy-tó egy vulkanikus régióban található, amely látványos környékéről és tógazdaságairól ismert.",
+      "facts": ["Vulkanikus régió", "Tógazdaságok", "Természeti szépség"]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "description": "Ranomafana Nemzeti Park, híres biodiverzitásáról és endemikus lemeur-fajairól.",
+      "facts": ["Nemzeti park", "Biodiverzitás", "Endemikus makik"]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "description": "Nosy Komba szigete, amelyet gyakran a makik szigeteként emlegetnek természetes élőhelyeik miatt.",
+      "facts": ["Makik szigete", "Természetes élőhely", "Szigeti ökoszisztéma"]
+    },
+    {
+      "id": "masoala-peninsula-nature-v2",
+      "description": "Masoala-félsziget, Madagaszkár legnagyobb nemzeti parkja, hatalmas esőerdőkkel és tengeri védett területekkel.",
+      "facts": ["Legnagyobb nemzeti park", "Esőerdők", "Védett tengerpart"]
+    }
+  ]
+}

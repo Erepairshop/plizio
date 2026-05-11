@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shah-alam-cities-v2",
+      "description": "Selangor állam székhelye, amely az Iszlám Művészeti Múzeumáról és hatalmas kék mecsetjéről ismert.",
+      "facts": ["Selangor adminisztratív központja", "A Kék Mecset városa", "Modern ipari zónák", "Zöld városfejlesztés"]
+    },
+    {
+      "id": "kuantan-cities-v2",
+      "description": "Pahang állam legnagyobb városa, amely a Dél-kínai-tenger partján fekszik.",
+      "facts": ["Pahang állam székhelye", "Dél-kínai-tenger partján", "Híres Teluk Cempedak strand", "Fontos kereskedelmi központ"]
+    },
+    {
+      "id": "kuala-terengganu-cities-v2",
+      "description": "Terengganu állam parti fővárosa, amely a kristálymecsetjéről és hagyományos kultúrájáról nevezetes.",
+      "facts": ["Terengganu közigazgatási központja", "Kristálymecset otthona", "Hagyományos hajóépítés", "Kulturális kapu"]
+    },
+    {
+      "id": "alorsetar-cities-v2",
+      "description": "Kedah állam székhelye, amely a rizstermesztéséről és történelmi épületeiről ismert.",
+      "facts": ["Kedah királyi székhelye", "Rizsföldek övezik", "Menara Alor Setar kilátó", "Történelmi központ"]
+    },
+    {
+      "id": "putrajaya-cities-v2",
+      "description": "Malajzia adminisztratív fővárosa, amelyet modern iszlám építészet és mesterséges tavak jellemeznek.",
+      "facts": ["Adminisztratív főváros", "Modern iszlám építészet", "Hatalmas mesterséges tó", "Zöld kormányzati negyed"]
+    },
+    {
+      "id": "petaling-jaya-cities-v2",
+      "description": "Egy nagyvárosi övezet Selangorban, amely Kuala Lumpur közvetlen szomszédságában található.",
+      "facts": ["Kuala Lumpur agglomerációja", "Fontos lakóövezet", "Kereskedelmi csomópont", "Tervezett városrész"]
+    },
+    {
+      "id": "miri-cities-v2",
+      "description": "Sarawak állam egyik jelentős városa, az olajipar bölcsője és turisztikai központ.",
+      "facts": ["Olajipar központja", "Sarawak második legnagyobb városa", "Nemzeti parkok kapuja", "Tengerparti üdülőhely"]
+    },
+    {
+      "id": "muar-cities-v2",
+      "description": "Johor állam történelmi városa, amely a Muar folyó torkolatánál helyezkedik el.",
+      "facts": ["Történelmi királyi város", "Muar folyó mentén", "Gazdag gyarmati építészet", "Kulináris specialitások"]
+    },
+    {
+      "id": "batu-pahat-cities-v2",
+      "description": "Johor állam fontos kereskedelmi és ipari városa, híres a textiliparáról.",
+      "facts": ["Ipari központ", "Johor tartományban", "Élénk kereskedelem", "Helyi kézművesség"]
+    },
+    {
+      "id": "kulim-cities-v2",
+      "description": "Kedah állam déli részének ipari központja, amely a hi-tech technológiai parkjáról ismert.",
+      "facts": ["Kulim Hi-Tech Park", "Ipari növekedési központ", "Kedah állam része", "Modern gazdasági zóna"]
+    },
+    {
+      "id": "taiping-cities-v2",
+      "description": "Perak állam történelmi városa, amely az esős időjárásáról és 19. századi épületeiről híres.",
+      "facts": ["Egykori bányászváros", "Perak állam része", "Lake Gardens park", "Brit gyarmati örökség"]
+    },
+    {
+      "id": "lahad-datu-cities-v2",
+      "description": "Sabah állam városa, amely fontos mezőgazdasági központ a keleti partvidéken.",
+      "facts": ["Sabah állam városa", "Pálmaolaj termesztés", "Keleti partvidék", "Természeti közelség"]
+    }
+  ]
+}

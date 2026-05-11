@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "folonko-crocodile-pool-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das heilige Krokodilbecken von Folonko befindet sich im Dorf Kartong im äußersten Süden Gambias, nahe der Grenze zum Senegal. Es ist eine der drei bedeutendsten heiligen Krokodilstätten des Landes und blickt auf eine jahrhundertealte Tradition zurück. Historisch gesehen ist Folonko eng mit der spirituellen Identität der lokalen Mandinka-Bevölkerung verknüpft. Das Becken dient primär als Ort für Fruchtbarkeitsrituale, bei denen Frauen aus der gesamten Region kommen, um im heiligen Wasser zu baden und um den Segen der Krokodile zu bitten. Die Tiere gelten als physische Manifestationen von Schutzgeistern und Ahnen, die über das Wohlergehen der Gemeinschaft wachen. Im Gegensatz zu touristisch erschlossenen Becken bewahrt Folonko eine sehr authentische, fast mystische Atmosphäre. Die Geschichte des Ortes ist mündlich überliefert und besagt, dass die Krokodile hier seit Generationen leben, ohne jemals Menschen anzugreifen, was als Beweis für ihre göttliche Natur angesehen wird. Das Areal ist von einem dichten Hain umgeben, der ebenfalls als geschützt gilt. Während der Kolonialzeit wurde die Bedeutung solcher Orte von den Europäern oft verkannt, doch für die lokale Bevölkerung blieb Folonko ein unerschütterliches Zentrum des Widerstands gegen den kulturellen Identitätsverlust.",
+        "hu": "A Folonko szent krokodilmedence Kartong falujában található, Gambia legdélebbi csücskén, közvetlenül a szenegáli határ mellett. Ez az ország három legfontosabb spirituális krokodilhelyszínének egyike, amelynek története évszázadokra nyúlik vissza. Történelmileg Folonko szorosan összefonódott a helyi mandinka közösség vallási identitásával. A medence elsődleges funkciója a termékenységi rítusok biztosítása: a nők a régió minden részéről érkeznek ide, hogy a szent vízben megmosakodjanak, és a krokodilok áldását kérjék a gyermekáldáshoz. Az állatokat a védelmező szellemek és az ősök fizikai megnyilvánulásainak tekintik, akik a közösség jólétére felügyelnek. A turisztikailag frekventáltabb helyszínekkel ellentétben Folonko megőrizte rendkívül autentikus és misztikus jellegét. A helyi szájhagyomány szerint a krokodilok generációk óta békében élnek itt az emberekkel, és soha nem támadnak meg senkit, ami isteni természetük bizonyítéka. A területet sűrű liget övezi, amely szintén szentnek számít. A gyarmati időkben az európaiak gyakran alábecsülték az ilyen helyszínek jelentőségét, de a helyi lakosság számára Folonko a kulturális identitás megőrzésének és a hagyományok tiszteletének megingathatatlan bástyája maradt.",
+        "ro": "Bazinul sacru cu crocodili Folonko este situat în satul Kartong, în extremitatea sudică a Gambiei, aproape de granița cu Senegalul. Este unul dintre cele trei cele mai importante situri sacre cu crocodili din țară, având o tradiție ce se întinde pe parcursul mai multor secole. Din punct de vedere istoric, Folonko este strâns legat de identitatea spirituală a populației locale Mandinka. Bazinul servește în principal ca loc pentru ritualuri de fertilitate, unde femei din întreaga regiune vin să se scalde în apele sacre și să ceară binecuvântarea crocodililor. Animalele sunt considerate manifestări fizice ale spiritelor protectoare și ale strămoșilor care veghează asupra bunăstării comunității. Spre deosebire de alte bazine mai comerciale, Folonko păstrează o atmosferă foarte autentică, aproape mistică. Istoria locului este transmisă oral și susține că acești crocodili trăiesc aici de generații fără a ataca vreodată oamenii, fapt considerat o dovadă a naturii lor divine. Zona este înconjurată de un crâng des, care este de asemenea considerat protejat. În perioada colonială, importanța unor astfel de locuri a fost adesea ignorată de europeni, însă pentru populația locală, Folonko a rămas un centru de neclintit al rezistenței împotriva pierderii identității culturale.",
+        "en": "The Folonko Sacred Crocodile Pool is located in the village of Kartong at the southernmost tip of The Gambia, right on the border with Senegal. It is one of the three major sacred crocodile sites in the nation, with a history deeply embedded in regional folklore for centuries. Historically, Folonko has been a cornerstone of the spiritual identity for the local Mandinka community. The pool is primarily utilized for fertility rituals, drawing women from across the region who come to wash in the sacred waters and seek the blessings of the crocodiles. These reptiles are revered as the physical incarnations of ancestral spirits who ensure the community's prosperity and health. Unlike more tourist-heavy sites, Folonko retains a deeply authentic and mystical ambiance. Oral tradition dictates that the crocodiles have inhabited the site for generations and have never harmed a human, which is seen as confirmation of their divine status. The surrounding grove is equally protected as a sacred space. During the colonial era, while European administrations often dismissed such sites, Folonko remained a vital sanctuary for the preservation of indigenous beliefs and a symbol of cultural resilience against external influences."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gelegen im historischen Dorf Kartong an der Grenze zu Senegal.",
+          "Eines der drei großen heiligen Krokodilbecken in Gambia.",
+          "Zentrum für traditionelle Fruchtbarkeitsrituale der Mandinka.",
+          "Die Krokodile gelten als Verkörperungen von Schutzgeistern.",
+          "Umgeben von einem geschützten heiligen Hain.",
+          "Wichtiger Ort für die Erhaltung vorkolonialer Traditionen."
+        ],
+        "hu": [
+          "Kartong történelmi falujában található, a szenegáli határnál.",
+          "Gambia három nagy szent krokodilmedencéjének egyike.",
+          "A mandinka nép hagyományos termékenységi rítusainak központja.",
+          "A krokodilokat védelmező szellemek megtestesítőinek tartják.",
+          "Egy védett szent liget veszi körül a medencét.",
+          "A gyarmatosítás előtti hagyományok megőrzésének fontos helyszíne."
+        ],
+        "ro": [
+          "Situat în satul istoric Kartong, la granița cu Senegal.",
+          "Unul dintre cele trei bazine sacre majore cu crocodili din Gambia.",
+          "Centru pentru ritualuri tradiționale de fertilitate ale populației Mandinka.",
+          "Crocodilii sunt considerați întruchipări ale spiritelor protectoare.",
+          "Înconjurat de un crâng sacru protejat de legi locale.",
+          "Loc important pentru păstrarea tradițiilor pre-coloniale."
+        ],
+        "en": [
+          "Located in the historic village of Kartong near the Senegalese border.",
+          "One of the three primary sacred crocodile pools in the country.",
+          "A central site for traditional Mandinka fertility rituals.",
+          "Crocodiles are viewed as the physical form of protective spirits.",
+          "The pool is sheltered by a strictly protected sacred grove.",
+          "A significant landmark for the survival of indigenous West African beliefs."
+        ]
+      }
+    },
+    {
+      "id": "janjanbureh-slave-house-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das sogenannte Sklavenhaus in Janjanbureh (ehemals Georgetown) auf MacCarthy Island ist ein geschichtsträchtiges Gebäude, dessen genaue Funktion unter Historikern Gegenstand von Debatten ist, das aber symbolisch tief im kollektiven Gedächtnis des Sklavenhandels verwurzelt ist. Das im 19. Jahrhundert errichtete Steingebäude wird oft als Sammelstelle für gefangene Afrikaner beschrieben, bevor diese den Gambia-Fluss hinunter zur Küste transportiert wurden. Obwohl einige Forscher argumentieren, dass es primär als Lagerhaus für Waren wie Erdnüsse oder Elfenbein diente, weisen die massiven Mauern und die engen, fensterlosen Kellergewölbe auf eine Nutzung als Gefängnis hin. Janjanbureh selbst wurde 1823 von den Briten als Siedlung für befreite Sklaven gegründet, was dem Ort eine doppelte historische Bedeutung verleiht: Er war sowohl ein Ort der Unterdrückung als auch der Befreiung. Das Gebäude spiegelt die koloniale Architektur jener Zeit wider, unter Verwendung von lokalem Lateritstein und importierten Baumaterialien. Es steht heute als mahnendes Denkmal für die dunklen Kapitel des transatlantischen Sklavenhandels im Landesinneren Gambias. Die Erhaltung dieses Ortes ist entscheidend, um die logistischen Abläufe des Menschenhandels fernab der großen Küstenfestungen zu verstehen.",
+        "hu": "A Janjanbureh-ben (korábban Georgetown), a MacCarthy-szigeten található úgynevezett rabszolgaház egy olyan épület, amelynek pontos funkciójáról a történészek vitatkoznak, de jelképesen mélyen beágyazódott a rabszolga-kereskedelem kollektív emlékezetébe. A 19. században épült kőépületet gyakran úgy írják le, mint a foglyul ejtett afrikaiak gyűjtőpontját, mielőtt a Gambia-folyón lehajózták volna őket a partvidékre. Bár egyes kutatók szerint elsősorban áruk, például földimogyoró vagy elefántcsont raktáraként szolgált, a masszív falak és a szűk, ablaktalan pincék a börtönként való hasznosításra utalnak. Janjanbureh városát 1823-ban alapították a britek a felszabadított rabszolgák településeként, ami kettős történelmi jelentőséget ad a helynek: az elnyomás és a felszabadulás helyszíne is volt egyben. Az épület a korszak gyarmati építészetét tükrözi, helyi laterit kő és importált építőanyagok felhasználásával. Ma figyelmeztető emlékműként áll a transzatlanti rabszolga-kereskedelem sötét fejezetei előtt Gambia belső területein. A helyszín megőrzése kulcsfontosságú az emberkereskedelem logisztikai folyamatainak megértéséhez a nagy tengerparti erődítményektől távol eső vidékeken.",
+        "ro": "Așa-numita Casă a Sclavilor din Janjanbureh (fostul Georgetown), pe insula MacCarthy, este o clădire încărcată de istorie, a cărei funcție exactă este subiectul unor dezbateri între istorici, dar care rămâne adânc înrădăcinată simbolic în memoria colectivă a comerțului cu sclavi. Construită în secolul al XIX-lea, clădirea din piatră este adesea descrisă ca un punct de colectare pentru africanii capturați înainte de a fi transportați pe râul Gambia către coastă. Deși unii cercetători susțin că a servit primar ca depozit pentru mărfuri precum arahide sau fildeș, zidurile masive și pivnițele strâmte, fără ferestre, sugerează o utilizare ca închisoare. Janjanbureh în sine a fost fondat în 1823 de către britanici ca așezare pentru sclavii eliberați, ceea ce conferă locului o dublă semnificație istorică: a fost atât un loc al opresiunii, cât și unul al eliberării. Clădirea reflectă arhitectura colonială a vremii, folosind piatră locală de laterit și materiale de construcție importate. Astăzi, ea stă ca un monument de avertizare pentru capitolele întunecate ale comerțului transatlantic cu sclavi din interiorul Gambiei. Conservarea acestui loc este esențială pentru a înțelege procesele logistice ale traficului de persoane departe de marile fortărețe de pe coastă.",
+        "en": "The Janjanbureh Slave House, situated on MacCarthy Island in the historic town of Janjanbureh (formerly Georgetown), is a structure of significant historical weight. While its precise historical role is debated among scholars—with some suggesting it functioned as a warehouse for commodities like groundnuts and ivory—it is widely regarded in local oral history as a holding cell for enslaved people. Built in the mid-19th century, the heavy laterite stone walls and cramped, windowless lower levels reinforce its reputation as a place of confinement. Janjanbureh was established by the British in 1823 specifically as a refuge for 'Liberated Africans' rescued from illegal slave ships, creating a poignant historical irony where a center of freedom existed alongside the remnants of human trafficking. The building’s architecture is a testament to colonial construction techniques, utilizing locally sourced stone to create durable structures in the riverine environment. Today, the site serves as a somber memorial to the victims of the transatlantic slave trade and provides critical insight into the inland logistics of the trade that fed the coastal forts. It remains a vital educational landmark for understanding the complexities of Gambian colonial history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gelegen in Janjanbureh auf der MacCarthy-Insel.",
+          "Erbaut im 19. Jahrhundert aus lokalem Lateritstein.",
+          "Symbol für die Erfassung von Sklaven im Landesinneren.",
+          "Umstritten zwischen der Nutzung als Warenlager und Gefängnis.",
+          "Teil der Geschichte von Georgetown als Siedlung befreiter Sklaven.",
+          "Wichtiges Ziel für Bildungsreisen zur Sklavengeschichte."
+        ],
+        "hu": [
+          "A MacCarthy-szigeten, Janjanbureh városában található.",
+          "A 19. században épült helyi laterit kőből.",
+          "A belső területeken zajló rabszolga-begyűjtés szimbóluma.",
+          "Vitatott, hogy raktárként vagy börtönként használták-e elsősorban.",
+          "Georgetown felszabadított rabszolgák számára létrehozott településének része.",
+          "A rabszolga-kereskedelem történetét bemutató oktatási helyszín."
+        ],
+        "ro": [
+          "Situată în Janjanbureh, pe insula MacCarthy.",
+          "Construită în secolul al XIX-lea din piatră de laterit locală.",
+          "Simbol pentru capturarea sclavilor în interiorul continentului.",
+          "Funcția sa oscilează între depozit de mărfuri și închisoare de sclavi.",
+          "Parte a istoriei Georgetown ca așezare pentru africanii eliberați.",
+          "Destinație importantă pentru educația privind istoria sclaviei."
+        ],
+        "en": [
+          "Located in the town of Janjanbureh on MacCarthy Island.",
+          "Constructed in the 19th century using heavy laterite stone.",
+          "Serves as a symbolic site for the inland slave trade.",
+          "Historians debate its primary use as a warehouse versus a dungeon.",
+          "Linked to the resettlement of 'Liberated Africans' by the British.",
+          "A key educational monument for the transatlantic slave trade history."
+        ]
+      }
+    },
+    {
+      "id": "bwiam-stone-circle-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Steinkreis von Bwiam ist ein bedeutendes Zeugnis der megalithischen Kultur in Westafrika und Teil eines weitaus größeren Komplexes, der sich über Gambia und den Senegal erstreckt. Diese Steinkreise wurden zwischen dem 3. Jahrhundert v. Chr. und dem 16. Jahrhundert n. Chr. errichtet und dienten primär als Grabstätten für eine hochorganisierte Gesellschaft. Der Kreis in Bwiam, gelegen in der West Coast Region, zeichnet sich durch seine präzise behauenen Lateritsäulen aus. Die Errichtung dieser Monumente erforderte beträchtliches ingenieurtechnisches Geschick, da die Steine oft über Kilometer transportiert und mit großer Genauigkeit in den Boden eingelassen wurden. Archäologische Ausgrabungen in ähnlichen Stätten haben Grabbeigaben wie Keramik, Eisenwaffen und Schmuck zu Tage gefördert, was auf einen ausgeprägten Ahnenkult und soziale Hierarchien hindeutet. Im Gegensatz zu den berühmten Wassu-Steinkreisen ist Bwiam weniger bekannt, bietet jedoch einen ebenso tiefen Einblick in die vorkoloniale Geschichte Gambias. Die Stätte zeugt von der Beständigkeit lokaler Kulturen über Jahrtausende hinweg und ist ein wichtiges Puzzlestück für die Erforschung der Besiedlungsgeschichte der Senegambia-Region.",
+        "hu": "A bwiami kőkör a nyugat-afrikai megalitikus kultúra egyik jelentős emléke, része annak a kiterjedt komplexumnak, amely Gambia és Szenegál területén húzódik végig. Ezeket a kőköröket az i. e. 3. század és az i. sz. 16. század között emelték, és elsősorban temetkezési helyként szolgáltak egy magasan szervezett társadalom számára. A Bwiamban, a Nyugati Parti Régióban (West Coast Region) található kör precízen kifaragott laterit oszlopaival tűnik ki. Ezen emlékművek felállítása jelentős mérnöki tudást igényelt, mivel a köveket gyakran kilométereken keresztül szállították, és nagy pontossággal ágyazták a földbe. A hasonló helyszíneken végzett régészeti feltárások sírmellékleteket, például kerámiákat, vasfegyvereket és ékszereket tártak fel, ami fejlett őskultuszra és társadalmi hierarchiára utal. A híres wassu-i kőkörökkel ellentétben Bwiam kevésbé ismert a turisták körében, de ugyanilyen mély betekintést nyújt Gambia gyarmatosítás előtti történelmébe. A helyszín bizonyítja a helyi kultúrák évezredes állandóságát, és fontos darabja a szenegambiai régió betelepülési történetét vizsgáló kutatásoknak.",
+        "ro": "Cercul de piatră din Bwiam este o mărturie semnificativă a culturii megalitice din Africa de Vest, făcând parte dintr-un complex mult mai vast care se întinde pe teritoriul Gambiei și al Senegalului. Aceste cercuri de piatră au fost ridicate între secolul al III-lea î.Hr. și secolul al XVI-lea d.Hr., servind în principal ca locuri de înmormântare pentru o societate înalt organizată. Cercul din Bwiam, situat în regiunea West Coast, se remarcă prin coloanele sale de laterit cioplite cu precizie. Ridicarea acestor monumente a necesitat abilități tehnice considerabile, deoarece pietrele erau adesea transportate pe distanțe de kilometri și fixate în sol cu mare acuratețe. Săpăturile arheologice în situri similare au scos la iveală obiecte funerare precum ceramică, arme de fier și bijuterii, indicând un cult al strămoșilor bine definit și ierarhii sociale clare. Spre deosebire de celebrele cercuri de piatră de la Wassu, Bwiam este mai puțin cunoscut, însă oferă o perspectivă la fel de profundă asupra istoriei pre-coloniale a Gambiei. Situl atestă durabilitatea culturilor locale de-a lungul mileniilor și reprezintă o piesă importantă pentru cercetarea istoriei populării regiunii Senegambia.",
+        "en": "The Bwiam Stone Circle is an important archaeological site belonging to the Senegambian megalithic complex, which is the largest concentration of such monuments in the world. Dating from approximately the 3rd century BCE to the 16th century CE, these stone circles represent an extraordinary funerary tradition of an advanced pre-colonial society. Located in the West Coast Region, the Bwiam circle consists of upright monoliths carved from laterite, a stone that hardens when exposed to air. The construction of these circles involved sophisticated quarrying and transport techniques, indicating a high degree of social organization and shared religious purpose. Excavations at similar sites across the Gambia River basin have revealed human remains along with grave goods like iron spears, copper ornaments, and pottery, suggesting these were the burial grounds of elites or significant community figures. While less visited than the UNESCO-listed Wassu site, Bwiam provides vital evidence of the long-term cultural continuity in the region. It stands as a silent witness to the spiritual and architectural prowess of West African civilizations long before European contact."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des grenzüberschreitenden Senegambischen Steinkreiskomplexes.",
+          "Errichtet zwischen 300 v. Chr. und 1600 n. Chr.",
+          "Besteht aus präzise gehauenen Laterit-Monolithen.",
+          "Diente primär als Grabstätte für die lokale Elite.",
+          "Zeugnis für hochentwickelte vorkoloniale Ingenieurskunst.",
+          "Befindet sich in der West Coast Region von Gambia."
+        ],
+        "hu": [
+          "A határokon átnyúló szenegambiai kőkör-komplexum része.",
+          "I. e. 300 és i. sz. 1600 között hozták létre.",
+          "Precízen kifaragott laterit monolitokból áll.",
+          "Elsősorban a helyi elit temetkezési helyeként szolgált.",
+          "A gyarmatosítás előtti fejlett mérnöki tudás bizonyítéka.",
+          "Gambia Nyugati Parti Régiójában található."
+        ],
+        "ro": [
+          "Parte a complexului transfrontalier de cercuri de piatră din Senegambia.",
+          "Ridicat între anii 300 î.Hr. și 1600 d.Hr.",
+          "Format din monoliți de laterit ciopliți cu precizie.",
+          "A servit în principal ca loc de înmormântare pentru elita locală.",
+          "Dovadă a ingineriei pre-coloniale extrem de dezvoltate.",
+          "Situat în regiunea West Coast din Gambia."
+        ],
+        "en": [
+          "Part of the vast Senegambian megalithic complex.",
+          "Dating from roughly 300 BCE to 1600 CE.",
+          "Constructed from carefully quarried laterite monoliths.",
+          "Functioned primarily as a burial site for community leaders.",
+          "Demonstrates advanced pre-colonial engineering and organization.",
+          "Located within the West Coast Region of The Gambia."
+        ]
+      }
+    },
+    {
+      "id": "tanje-village-museum-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tanje Village Museum (auch Tanji Village Museum) wurde 1997 gegründet und ist das erste private Museum in Gambia, das sich der Erhaltung des kulturellen Erbes widmet. Es liegt nahe dem Fischerdorf Tanji und wurde von Abdoulie Bayo ins Leben gerufen, um die traditionellen Lebensweisen der verschiedenen ethnischen Gruppen Gambias zu dokumentieren. Historisch gesehen füllt das Museum eine Lücke in der nationalen Geschichtsschreibung, indem es den Fokus auf den Alltag, das Handwerk und die Naturkunde legt. Die Anlage ist wie ein traditionelles gambisches Gehöft (Compound) gestaltet und zeigt authentische Hüttenbauweisen. Besucher erfahren hier Details über die traditionelle Fischerei, die Webkunst, die Schmiedetechnik und die Verwendung von Heilpflanzen. Ein bedeutender Teil der Sammlung widmet sich der Fauna und Flora Gambias, was die tiefe Verbindung zwischen Kultur und Umwelt in der westafrikanischen Geschichte unterstreicht. Das Museum dient nicht nur als Bildungsstätte für Touristen, sondern ist ein wichtiges Zentrum für lokale Schulen, um das Bewusstsein für die eigene Identität in einer sich schnell modernisierenden Welt zu stärken. Es ist ein Beispiel für bürgerschaftliches Engagement bei der Bewahrung von immateriellem Kulturerbe.",
+        "hu": "A Tanje Village Múzeumot (vagy Tanji Village Múzeum) 1997-ben alapították, és ez Gambia első magánmúzeuma, amely a kulturális örökség megőrzésére hivatott. A Tanji halászfalu közelében található intézményt Abdoulie Bayo hívta életre azzal a céllal, hogy dokumentálja a különböző gambiai etnikai csoportok hagyományos életmódját. Történelmileg a múzeum fontos űrt tölt be a nemzeti történetírásban, mivel a mindennapi életre, a kézművességre és a természetrajzra helyezi a hangsúlyt. A komplexumot egy hagyományos gambiai családi birtok (compound) mintájára alakították ki, bemutatva az autentikus kunyhóépítési technikákat. A látogatók részletes információkat kaphatnak a hagyományos halászatról, a szövésről, a kovácsmesterségről és a gyógynövények használatáról. A gyűjtemény jelentős része foglalkozik Gambia élővilágával, ami rávilágít a kultúra és a környezet közötti szoros kapcsolatra a nyugat-afrikai történelemben. A múzeum nemcsak a turisták számára oktatási helyszín, hanem a helyi iskolák fontos központja is, ahol a fiatalok megerősíthetik saját identitásukat a gyorsan modernizálódó világban. Példaértékű kezdeményezés a szellemi kulturális örökség megőrzése terén.",
+        "ro": "Muzeul Satului Tanje (sau Tanji Village Museum) a fost fondat în 1997 și este primul muzeu privat din Gambia dedicat conservării patrimoniului cultural. Situat lângă satul de pescari Tanji, acesta a fost creat de Abdoulie Bayo pentru a documenta modurile de viață tradiționale ale diverselor grupuri etnice din Gambia. Din punct de vedere istoric, muzeul umple un gol în istoriografia națională, punând accentul pe viața de zi cu zi, meșteșuguri și istoria naturală. Complexul este conceput ca o gospodărie tradițională gambiană (compound) și prezintă metode autentice de construcție a colibelor. Vizitatorii află detalii despre pescuitul tradițional, arta țesutului, tehnica fierăritului și utilizarea plantelor medicinale. O parte semnificativă a colecției este dedicată faunei și florei din Gambia, subliniind legătura profundă dintre cultură și mediu în istoria Africii de Vest. Muzeul nu servește doar ca loc de educație pentru turiști, ci este un centru important pentru școlile locale, scopul fiind consolidarea conștiinței propriei identități într-o lume în curs de modernizare rapidă. Este un exemplu de implicare civică în protejarea patrimoniului cultural imaterial.",
+        "en": "The Tanje Village Museum (also spelled Tanji) was established in 1997 as the first privately owned museum in The Gambia. Founded by Abdoulie Bayo, its mission is to preserve and showcase the rich cultural and natural heritage of the Gambian people. Historically, the museum serves as a critical repository for indigenous knowledge that is often overlooked in formal colonial histories. The layout mimics a traditional Gambian village compound, providing an immersive experience into the vernacular architecture of the region. It features extensive exhibits on traditional fishing techniques, weaving, blacksmithing, and the local use of medicinal plants. Additionally, the museum houses a significant collection of regional flora and fauna, illustrating the historical interdependence between West African societies and their natural environment. Beyond tourism, the museum functions as a vital educational resource for local youth, helping to maintain cultural continuity in the face of rapid globalization. It stands as a premier example of community-led heritage preservation, highlighting the diversity of ethnic groups like the Mandinka, Wolof, and Jola."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstes privates Kulturmuseum Gambias, gegründet 1997.",
+          "Gestaltet als traditionelles gambisches Dorf-Compound.",
+          "Zeigt Handwerkstechniken wie Weben und Schmieden.",
+          "Beinhaltet einen botanischen Garten für Heilpflanzen.",
+          "Gegründet zur Bewahrung des Wissens der verschiedenen Ethnien.",
+          "Liegt in unmittelbarer Nähe zum geschäftigen Fischerdorf Tanji."
+        ],
+        "hu": [
+          "Gambia első magánmúzeuma, 1997-ben nyitotta meg kapuit.",
+          "Egy hagyományos gambiai családi birtok szerkezetét követi.",
+          "Bemutatja a szövés, a kovácsolás és a halászat fortélyait.",
+          "Botanikus kerttel rendelkezik, amely a helyi gyógynövényeket mutatja be.",
+          "A gambiai etnikai csoportok tudásának megőrzésére jött létre.",
+          "A forgalmas Tanji halászfalu mellett található."
+        ],
+        "ro": [
+          "Primul muzeu cultural privat din Gambia, fondat în 1997.",
+          "Proiectat sub forma unei gospodării tradiționale gambiene.",
+          "Prezintă tehnici de meșteșugărit precum țesutul și fierăritul.",
+          "Include o grădină botanică dedicată plantelor medicinale locale.",
+          "Creat pentru a păstra cunoștințele diverselor grupuri etnice.",
+          "Situat în imediata apropiere a satului de pescari Tanji."
+        ],
+        "en": [
+          "The Gambia’s first private cultural museum, opened in 1997.",
+          "Modeled after a traditional multi-hut family compound.",
+          "Exhibits traditional crafts such as weaving, pottery, and smithing.",
+          "Features a nature trail focused on indigenous plants and birds.",
+          "Aimed at documenting the history of all major Gambian ethnic groups.",
+          "Located near the major fishing hub of Tanji."
+        ]
+      }
+    },
+    {
+      "id": "st-joseph-church-banjul-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die St. Joseph's Church in Banjul ist eine der ältesten und bedeutendsten christlichen Stätten in Gambia. Ihre Geschichte reicht bis in die Mitte des 19. Jahrhunderts zurück, als die katholische Mission in der damaligen britischen Kolonie Fuß fasste. Das heutige Kirchengebäude, das durch seine schlichte, aber würdevolle Kolonialarchitektur besticht, wurde 1849 eingeweiht. Historisch gesehen spielte die Kirche eine zentrale Rolle bei der Entwicklung des Bildungswesens und der Gesundheitsversorgung in der Hauptstadt. Die St. Joseph's Schule, die der Kirche angegliedert ist, gehört zu den renommiertesten Institutionen des Landes. Die Architektur der Kirche zeichnet sich durch hohe Rundbogenfenster und eine solide Bauweise aus, die den klimatischen Bedingungen der Küste trotzt. Über die Jahrzehnte war die St. Joseph's Church ein Ort der Begegnung für die christliche Minderheit, aber auch ein Symbol für das friedliche religiöse Miteinander in Gambia, einem Land mit einer großen muslimischen Mehrheit. Die Kirche beherbergt wertvolle religiöse Artefakte und ist Sitz der Diözese von Banjul, was ihre administrative und spirituelle Wichtigkeit unterstreicht.",
+        "hu": "A banjuli Szent József templom Gambia egyik legrégebbi és legfontosabb keresztény helyszíne. Története a 19. század közepéig nyúlik vissza, amikor a katolikus misszió megvetette lábát az akkori brit gyarmaton. A mai templomépületet, amely egyszerű, de méltóságteljes gyarmati építészetével tűnik ki, 1849-ben szentelték fel. Történelmileg a templom központi szerepet játszott a főváros oktatási és egészségügyi rendszerének fejlődésében. A templomhoz kapcsolódó Szent József iskola az ország egyik legnevesebb intézménye. Az épület építészeti jellemzői közé tartoznak a magas, félköríves ablakok és a masszív szerkezet, amely ellenáll a tengerparti éghajlat kihívásainak. Az évtizedek során a Szent József templom nemcsak a keresztény kisebbség találkozóhelye volt, hanem a vallási béke szimbóluma is Gambiában, ahol a lakosság nagy része muszlim. A templom értékes vallási ereklyéket őriz, és itt található a Banjuli Egyházmegye székhelye is, ami kiemeli adminisztratív és spirituális jelentőségét.",
+        "ro": "Biserica Sfântul Iosif din Banjul este unul dintre cele mai vechi și mai importante lăcașuri de cult creștine din Gambia. Istoria sa datează de la mijlocul secolului al XIX-lea, când misiunea catolică s-a stabilit în fosta colonie britanică. Clădirea actuală a bisericii, care impresionează prin arhitectura colonială simplă, dar demnă, a fost sfințită în 1849. Din punct de vedere istoric, biserica a jucat un rol central în dezvoltarea sistemului de educație și a serviciilor de sănătate din capitală. Școala Sfântul Iosif, afiliată bisericii, este una dintre cele mai prestigioase instituții din țară. Arhitectura bisericii se remarcă prin ferestrele înalte în arc de cerc și o construcție solidă, capabilă să reziste condițiilor climatice de pe coastă. De-a lungul deceniilor, Biserica Sfântul Iosif a fost un loc de întâlnire pentru minoritatea creștină, dar și un simbol al coexistenței religioase pașnice în Gambia, o țară cu o majoritate musulmană covârșitoare. Biserica adăpostește artefacte religioase valoroase și este sediul Diocezei de Banjul, ceea ce îi subliniază importanța administrativă și spirituală.",
+        "en": "St. Joseph's Church in Banjul is one of the oldest and most prominent Christian landmarks in The Gambia. Its history begins in the mid-19th century as the Catholic mission established its presence in what was then the British colony of Bathurst. The current structure, characterized by its stately yet modest colonial-era architecture, was consecrated in 1849. Historically, the church has been a pillar of the local community, significantly contributing to the city's educational and social welfare development. The adjacent St. Joseph's School remains one of the nation's premier educational institutions, founded to provide literacy and vocational skills during the colonial period. Architecturally, the church features classic high arched windows and a robust design suited for the humid maritime climate of the capital. Over the years, St. Joseph's has served as a central hub for the Gambian Catholic population while standing as a testament to the nation's long history of interfaith harmony between Christians and the Muslim majority. It serves as the seat of the Diocese of Banjul, housing important religious records and historical artifacts that trace the growth of Christianity in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eingeweiht im Jahr 1849 in Banjul (Bathurst).",
+          "Eine der ältesten katholischen Kirchen in Westafrika.",
+          "Zentrum für Bildung durch die angegliederte St. Joseph's Schule.",
+          "Sitz der römisch-katholischen Diözese von Banjul.",
+          "Beispiel für die koloniale Sakralarchitektur des 19. Jahrhunderts.",
+          "Symbol für das friedliche Zusammenleben der Religionen in Gambia."
+        ],
+        "hu": [
+          "1849-ben szentelték fel Banjulban (akkori nevén Bathurst).",
+          "Nyugat-Afrika egyik legrégebbi katolikus temploma.",
+          "Az oktatás központja a hozzá tartozó Szent József iskolán keresztül.",
+          "A Banjuli Római Katolikus Egyházmegye székhelye.",
+          "A 19. századi gyarmati szakrális építészet példája.",
+          "A vallások közötti békés együttélés jelképe Gambiában."
+        ],
+        "ro": [
+          "Sfințită în anul 1849 în Banjul (Bathurst).",
+          "Una dintre cele mai vechi biserici catolice din Africa de Vest.",
+          "Centru pentru educație prin școala Sfântul Iosif din proximitate.",
+          "Sediul Diocezei Romano-Catolice de Banjul.",
+          "Exemplu de arhitectură sacră colonială din secolul al XIX-lea.",
+          "Simbol al coexistenței pașnice între religii în Gambia."
+        ],
+        "en": [
+          "Consecrated in 1849 in the capital city of Banjul.",
+          "Among the oldest Catholic churches in the West African region.",
+          "Plays a vital role in education via the St. Joseph’s School system.",
+          "Serves as the seat of the Roman Catholic Diocese of Banjul.",
+          "Showcases mid-19th-century colonial ecclesiastical architecture.",
+          "A landmark of religious tolerance and harmony in The Gambia."
+        ]
+      }
+    }
+  ]
+}

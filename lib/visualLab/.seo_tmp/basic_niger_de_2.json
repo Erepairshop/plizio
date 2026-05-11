@@ -1,0 +1,76 @@
+{
+  "lang": "de",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tanout-kamel-life-v2",
+      "description": "Region, die als wichtiger Standort für die Kamelhaltung in der Wüste dient.",
+      "facts": ["Region Zinder", "Kamelhaltung", "Wüstenrand"]
+    },
+    {
+      "id": "mayahi-agri-life-v2",
+      "description": "Ein bedeutendes Gebiet für den Anbau von Hirse und Sorghum.",
+      "facts": ["Region Maradi", "Hirseanbau", "Sorghum"]
+    },
+    {
+      "id": "gaya-agri-life-v2",
+      "description": "Fruchtbare Region nahe der Grenze, ideal für die lokale Landwirtschaft.",
+      "facts": ["Region Dosso", "Fruchtbar", "Grenzregion"]
+    },
+    {
+      "id": "zinder-zoo-life-v2",
+      "description": "Ein kleiner Wildtierpark, der die Fauna der Sahelregion präsentiert.",
+      "facts": ["Stadt Zinder", "Sahel-Fauna", "Wildtierpark"]
+    },
+    {
+      "id": "maradi-kids-park-life-v2",
+      "description": "Ein moderner Park für Kinder im städtischen Bereich von Maradi.",
+      "facts": ["Stadt Maradi", "Kinderspielplatz", "Erholung"]
+    },
+    {
+      "id": "diffa-frucht-life-v2",
+      "description": "Gebiet in der Region Diffa, bekannt für den Anbau von Feigen und Datteln.",
+      "facts": ["Region Diffa", "Dattelanbau", "Oasen-Kultur"]
+    },
+    {
+      "id": "goulbi-goulbi-nature-v2",
+      "description": "Ein saisonaler Wasserlauf, der eine wichtige Lebensader für die Natur darstellt.",
+      "facts": ["Saisonaler Fluss", "Ökologische Zone", "Niger-Becken"]
+    },
+    {
+      "id": "adrar-bous-relief-v2",
+      "description": "Ein markantes Bergmassiv im Aïr-Gebirge, reich an geologischen Formationen.",
+      "facts": ["Aïr-Gebirge", "Bergmassiv", "Geologie"]
+    },
+    {
+      "id": "dallol-fogha-relief-v2",
+      "description": "Ein fossiles Flusstal, das eine beeindruckende Landschaft bildet.",
+      "facts": ["Fossiles Tal", "Landschaft", "Region Tahoua"]
+    },
+    {
+      "id": "ife-massif-relief-v2",
+      "description": "Ein zerklüftetes Bergmassiv mit bedeutenden ökologischen Nischen.",
+      "facts": ["Bergmassiv", "Ökologie", "Schroffe Landschaft"]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "description": "Imposante Klippen entlang des Kawar-Plateaus in der Sahara.",
+      "facts": ["Sahara-Plateau", "Klippen", "Geologische Formation"]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "description": "Ein markanter Hügel in der Oase Fachi, umgeben von Sanddünen.",
+      "facts": ["Oase Fachi", "Hügellandschaft", "Sahara"]
+    },
+    {
+      "id": "koutous-east-relief-v2",
+      "description": "Eine erhabene Dünen- und Hügelzone im Osten des Koutous-Massivs.",
+      "facts": ["Koutous-Massiv", "Dünenlandschaft", "Östliche Zone"]
+    }
+  ]
+}

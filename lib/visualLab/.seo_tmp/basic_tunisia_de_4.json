@@ -1,0 +1,112 @@
+{
+  "lang": "de",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-hamma-cities-v2",
+      "description": "El Hamma ist eine Oasenstadt im Süden, die für ihre natürlichen Thermalquellen bekannt ist.",
+      "facts": ["Thermalquellen", "Oasenstadt im Süden", "Traditionelle Landwirtschaft"]
+    },
+    {
+      "id": "nefta-cities-v2",
+      "description": "Nefta ist ein wichtiges spirituelles Zentrum und bekannt für ihre Palmenoase \"La Corbeille\".",
+      "facts": ["Palmenoase La Corbeille", "Spirituelles Zentrum", "Architektur"]
+    },
+    {
+      "id": "feriana-cities-v2",
+      "description": "Feriana liegt im Westen Tunesiens nahe der algerischen Grenze.",
+      "facts": ["Westtunesien", "Grenznähe", "Traditionelle Region"]
+    },
+    {
+      "id": "thala-cities-v2",
+      "description": "Thala ist eine Stadt im Nordwesten, bekannt für ihre kühlen Temperaturen und historische Stätten.",
+      "facts": ["Gebirgsstadt", "Historische Ruinen", "Landwirtschaft"]
+    },
+    {
+      "id": "makthar-cities-v2",
+      "description": "Makthar ist bekannt für seine bedeutenden archäologischen Überreste aus der Zeit der Numider und Römer.",
+      "facts": ["Archäologische Stätte", "Römische Architektur", "Berglage"]
+    },
+    {
+      "id": "medjez-el-bab-cities-v2",
+      "description": "Medjez el-Bab liegt am Fluss Medjerda und ist ein wichtiges landwirtschaftliches Zentrum.",
+      "facts": ["Am Fluss Medjerda", "Agrarwirtschaft", "Verkehrsknotenpunkt"]
+    },
+    {
+      "id": "teboursouk-cities-v2",
+      "description": "Teboursouk liegt in einer hügeligen Region nahe der antiken Stadt Dougga.",
+      "facts": ["Nähe zu Dougga", "Hügelige Landschaft", "Olivenanbau"]
+    },
+    {
+      "id": "dar-chaabane-cities-v2",
+      "description": "Dar Chaabane ist eine Stadt auf Cap Bon, die für ihre Kunsthandwerksbetriebe bekannt ist.",
+      "facts": ["Kunsthandwerk", "Cap Bon Region", "Traditionelle Architektur"]
+    },
+    {
+      "id": "bou-salem-cities-v2",
+      "description": "Bou Salem liegt im fruchtbaren Tal der Medjerda und ist ein Zentrum der Agrarwirtschaft.",
+      "facts": ["Tal der Medjerda", "Ackerbau", "Regionale Marktplätze"]
+    },
+    {
+      "id": "oueslatia-cities-v2",
+      "description": "Oueslatia ist eine Stadt in der Bergregion, bekannt für ihre landschaftliche Schönheit.",
+      "facts": ["Bergregion", "Naturlandschaft", "Traditioneller Lebensstil"]
+    },
+    {
+      "id": "gammarth-zoo-life-v2",
+      "description": "Gammarth bietet Freizeitmöglichkeiten und Parks in einer gehobenen Küstenumgebung.",
+      "facts": ["Freizeitangebote", "Küstenlage", "Nahe Tunis"]
+    },
+    {
+      "id": "atlas-mountain-habitat-life-v2",
+      "description": "Das Atlasgebirge bietet eine vielfältige Flora und Fauna in einer bergigen Landschaft.",
+      "facts": ["Gebirgsökosystem", "Vielfältige Tierwelt", "Wandergebiet"]
+    },
+    {
+      "id": "cap-bon-fruit-garden-life-v2",
+      "description": "Die Halbinsel Cap Bon ist für ihre fruchtbaren Obstgärten und den Anbau von Zitrusfrüchten berühmt.",
+      "facts": ["Obstgarten Tunesiens", "Zitrusfrüchte", "Fruchtbare Böden"]
+    },
+    {
+      "id": "tabarka-marine-park-life-v2",
+      "description": "Der Marinepark bei Tabarka schützt die vielfältige Unterwasserwelt und die Korallenriffe.",
+      "facts": ["Korallenriffe", "Unterwasserschutzgebiet", "Taucherparadies"]
+    },
+    {
+      "id": "hammamet-fun-land-life-v2",
+      "description": "Hammamets Freizeitparks bieten Spaß und Unterhaltung für Touristen und Einheimische.",
+      "facts": ["Freizeitattraktionen", "Touristenregion", "Unterhaltung"]
+    },
+    {
+      "id": "monastir-aquarium-life-v2",
+      "description": "Das Aquarium in Monastir präsentiert die marine Artenvielfalt der tunesischen Küsten.",
+      "facts": ["Marine Artenvielfalt", "Bildungseinrichtung", "Küstenregion"]
+    },
+    {
+      "id": "el-djem-gardens-life-v2",
+      "description": "Die Gärten rund um El Djem bieten einen grünen Kontrast zur antiken Architektur.",
+      "facts": ["Grünanlagen", "Historische Umgebung", "Erholungsort"]
+    },
+    {
+      "id": "bizerte-wildlife-park-life-v2",
+      "description": "Der Wildlife-Park bei Bizerte schützt heimische Tierarten in natürlicher Umgebung.",
+      "facts": ["Naturschutzgebiet", "Heimische Fauna", "Waldregion"]
+    },
+    {
+      "id": "jebel-zaghouan-nature-v2",
+      "description": "Das Bergmassiv Jebel Zaghouan ist bekannt für seine Flora und antiken Aquäduktruinen.",
+      "facts": ["Bergmassiv", "Antike Aquädukte", "Wanderregion"]
+    },
+    {
+      "id": "el-feija-forest-nature-v2",
+      "description": "Der Wald von El Feija beherbergt seltene Tierarten wie den Berberhirsch.",
+      "facts": ["Waldschutzgebiet", "Berberhirsch", "Naturbelassen"]
+    }
+  ]
+}

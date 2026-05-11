@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-mocende-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Mocende ist eine der höchsten Erhebungen in Guinea-Bissau und befindet sich im äußersten Südosten des Landes, nahe der Grenze zur Republik Guinea. Geografisch gehört er zum Ausläufer des Fouta-Djallon-Berglandes, das sich von Guinea her nach Westen erstreckt. Mit einer Höhe von etwa 300 Metern über dem Meeresspiegel überragt er die ansonsten flache bis sanft gewellte Topografie des Landes deutlich. Das Relief des Mount Mocende ist durch steile Hänge und zerklüftete Lateritplateaus geprägt, die in tief eingeschnittene Täler abfallen. Diese Täler sind oft mit dichten Galeriewäldern bewachsen, während die Kuppen des Berges eher durch offene Grassavannen gekennzeichnet sind. Geologisch ist der Berg reich an Eisen- und Aluminiumoxiden, was ihm seine charakteristische rötliche Farbe verleiht. Der Mount Mocende spielt eine wichtige Rolle im regionalen Wasserkreislauf, da seine Hänge zahlreiche Bäche speisen, die letztlich in den Rio Corubal münden. Aufgrund seiner abgeschiedenen Lage und des schwierigen Terrains ist der Berg ein Rückzugsort für seltene Wildtiere und bietet einen der spektakulärsten Aussichtspunkte über das unberührte Hinterland Guinea-Bissaus.",
+        "hu": "A Mount Mocende Guinea-Bissau egyik legmagasabb pontja, amely az ország távoli délkeleti részén, a guineai határ közelében található. Földrajzilag a Fouta-Djallon-felföld nyúlványaival áll kapcsolatban, amelyek Guineából nyugat felé terjednek ki. Körülbelül 300 méteres tengerszint feletti magasságával jelentősen kiemelkedik az ország egyébként sík vagy enyhén hullámos domborzatából. A hegy vonulatait meredek lejtők és csipkézett laterit-fennsíkok jellemzik, amelyek mélyen bevágott völgyekbe torkollnak. Ezeket a völgyeket gyakran sűrű galériaerdők borítják, míg a hegytetőket nyílt füves szavannák uralják. Geológiailag a hegy vas- és alumínium-oxidokban gazdag, ami jellegzetes vöröses színt kölcsönöz a kőzeteknek. A Mount Mocende fontos szerepet játszik a régió víz körforgásában, mivel lejtőiről számos patak indul útjára, amelyek végül a Corubal-folyót táplálják. Elszigetelt helyzete és nehéz terepviszonyai miatt a hegy a ritka vadon élő állatok menedékhelye, és az egyik leglátványosabb kilátópontot kínálja Guinea-Bissau érintetlen belső területeire.",
+        "ro": "Mount Mocende este una dintre cele mai înalte cote de relief din Guineea-Bissau, situată în extremitatea sud-estică a țării, aproape de granița cu Republica Guineea. Geografic, muntele aparține contraforturilor masivului Fouta-Djallon, care se extinde dinspre Guineea spre vest. Cu o altitudine de aproximativ 300 de metri deasupra nivelului mării, acesta domină clar topografia altfel plană sau ușor ondulată a țării. Relieful muntelui Mocende este caracterizat prin pante abrupte și platouri de laterit accidentate, care coboară spre văi adânci. Aceste văi sunt adesea acoperite de păduri-galerie dense, în timp ce culmile muntelui sunt marcate de savane cu ierburi înalte. Din punct de vedere geologic, muntele este bogat în oxizi de fier și aluminiu, ceea ce îi conferă culoarea roșiatică caracteristică. Mount Mocende joacă un rol important în ciclul hidrologic regional, deoarece versanții săi alimentează numeroase pârâuri care se varsă în cele din urmă în râul Corubal. Datorită locației sale izolate și a terenului dificil, muntele este un refugiu pentru fauna sălbatică rară și oferă unul dintre cele mai spectaculoase puncte de observație asupra interiorului virgin al Guineei-Bissau.",
+        "en": "Mount Mocende is one of the highest elevations in Guinea-Bissau, located in the remote southeastern part of the country near the border with the Republic of Guinea. Geographically, it is connected to the foothills of the Fouta-Djallon highlands, which extend westward from Guinea. Standing at an altitude of approximately 300 meters above sea level, it significantly overtowers the otherwise flat to gently undulating topography of the nation. The relief of Mount Mocende is characterized by steep slopes and rugged laterite plateaus that drop into deep-cut valleys. These valleys are often covered with dense gallery forests, while the mountain crests are marked by open grassy savannas. Geologically, the mountain is rich in iron and aluminum oxides, giving the rocks their characteristic reddish hue. Mount Mocende plays a vital role in the regional water cycle, as its slopes feed numerous streams that eventually flow into the Corubal River. Due to its remote location and challenging terrain, the mountain serves as a sanctuary for rare wildlife and offers one of the most spectacular vantage points over Guinea-Bissau's pristine hinterland."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Berg gehört zum Gebirgssystem des Fouta-Djallon.",
+          "Seine Höhe stellt für das überwiegend flache Guinea-Bissau einen Extremwert dar.",
+          "Das Gestein besteht hauptsächlich aus hartem, eisenhaltigem Laterit.",
+          "Die Region um den Berg ist fast vollständig unbesiedelt.",
+          "Zahlreiche Quellbäche des Rio Corubal entspringen in diesem Massiv.",
+          "In den Felsspalten nisten seltene Greifvogelarten."
+        ],
+        "hu": [
+          "A hegy a Fouta-Djallon-hegységrendszer legnyugatibb nyúlványa.",
+          "Magassága kiemelkedő a túlnyomóan sík bissau-guineai tájban.",
+          "Kőzeteit főként kemény, vastartalmú laterit alkotja.",
+          "A hegy környéke szinte teljesen lakatlan vadon.",
+          "A Corubal-folyó számos forrásága ered erről a vidékről.",
+          "A sziklás hasadékokban ritka ragadozómadarak fészkelnek."
+        ],
+        "ro": [
+          "Muntele face parte din sistemul montan al podișului Fouta-Djallon.",
+          "Altitudinea sa reprezintă un punct maxim pentru relieful țării.",
+          "Solul este compus în principal din laterit bogat în minerale metalice.",
+          "Regiunea din jurul muntelui este una dintre cele mai sălbatice din țară.",
+          "Versanții abrupți fac accesul motorizat practic imposibil.",
+          "Este un nod hidrografic important pentru bazinul râului Corubal."
+        ],
+        "en": [
+          "The mountain is part of the Fouta-Djallon mountain system.",
+          "Its elevation is a significant peak in the context of the national topography.",
+          "The bedrock consists primarily of hard, iron-rich laterite.",
+          "The area surrounding the mountain is almost entirely uninhabited wilderness.",
+          "Several headwaters of the Corubal River originate in this massif.",
+          "The rocky crevices provide nesting sites for rare birds of prey."
+        ]
+      }
+    },
+    {
+      "id": "boe-plateau-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Boé-Plateau im Südosten Guinea-Bissaus ist eine der markantesten geomorphologischen Einheiten des Landes. Es handelt sich um ein weitläufiges, leicht erhöhtes Hochplateau, das durch eine massive Lateritkruste (Canga) geprägt ist. Dieses Relief entstand über Millionen von Jahren durch intensive Verwitterungsprozesse unter tropischen Bedingungen. Das Plateau ist von tiefen Tälern durchzogen, die durch die Erosion des Rio Corubal und seiner Nebenflüsse geformt wurden. Die Vegetation auf dem Plateau ist spezialisiert; aufgrund der harten Bodenschicht dominieren weite Grassavannen und niedrige, feuerresistente Gehölze. Geologisch ist das Boé-Plateau von enormer Bedeutung, da es eines der weltweit größten unerschlossenen Bauxitvorkommen beherbergt. Historisch gesehen bot das zerklüftete Relief des Plateaus während des Unabhängigkeitskrieges strategischen Schutz, was dazu führte, dass hier in Madina do Boé die Republik ausgerufen wurde. Das Klima auf dem Plateau ist durch extremere Temperaturschwankungen und heftige saisonale Regenfälle geprägt, die die Erosion der Lateritfelsen vorantreiben. Für Geologen und Ökologen stellt das Boé-Plateau ein einzigartiges Freiluftlabor zur Untersuchung von Lateritbildungen und deren Einfluss auf die Flora dar.",
+        "hu": "A Guinea-Bissau délkeleti részén található Boé-fennsík az ország egyik legkarakteresebb geomorfológiai egysége. Ez egy kiterjedt, enyhén megemelt fennsík, amelyet masszív lateritkéreg (canga) határoz meg. Ez a domborzati forma évmilliók alatt alakult ki a trópusi körülmények közötti intenzív mállási folyamatok révén. A fennsíkot mély völgyek szabdalják fel, amelyeket a Corubal-folyó és mellékfolyóinak eróziója formált. A fennsík növényzete specializálódott; a kemény talajréteg miatt a kiterjedt füves szavannák és az alacsony, tűzálló fás szárú növények dominálnak. Geológiailag a Boé-fennsík óriási jelentőségű, mivel a világ egyik legnagyobb feltáratlan bauxitlelőhelyét rejti. Történelmileg a fennsík tagolt domborzata stratégiai védelmet nyújtott a függetlenségi háború alatt, ami oda vezetett, hogy itt, Madina do Boéban kikiáltották a köztársaságot. A fennsík éghajlatát szélsőségesebb hőmérséklet-ingadozások és heves szezonális esőzések jellemzik, amelyek fokozzák a laterit sziklák erózióját. A geológusok és ökológusok számára a Boé-fennsík egyedülálló szabadtéri laboratórium a lateritképződés és annak a flórára gyakorolt hatásának tanulmányozására.",
+        "ro": "Platoul Boé din sud-estul Guineei-Bissau este una dintre cele mai distinctive unități geomorfologice ale țării. Este un platou înalt, ușor elevat, dominat de o crustă masivă de laterit (canga). Acest relief s-a format de-a lungul a milioane de ani prin procese intense de alterare sub condiții tropicale. Platoul este traversat de văi adânci, modelate de eroziunea râului Corubal și a afluenților săi. Vegetația de pe platou este specializată; din cauza stratului dur de sol, domină savanele vaste cu iarbă și arborii scunzi, rezistenți la foc. Din punct de vedere geologic, platoul Boé este de o importanță enormă, deoarece adăpostește unul dintre cele mai mari zăcăminte de bauxită neexploatate din lume. Istoric, relieful accidentat al platoului a oferit protecție strategică în timpul războiului de independență, ceea ce a dus la proclamarea republicii aici, la Madina do Boé. Climatul de pe platou este marcat de fluctuații de temperatură mai extreme și ploi sezoniere violente, care accelerează eroziunea stâncilor de laterit. Pentru geologi și ecologiști, platoul Boé reprezintă un laborator natural unic pentru studierea formațiunilor de laterit și a influenței acestora asupra florei.",
+        "en": "The Boé Plateau in southeastern Guinea-Bissau is one of the country's most distinctive geomorphological units. It is an extensive, slightly elevated plateau characterized by a massive laterite crust (canga). This relief feature formed over millions of years through intense weathering processes under tropical conditions. The plateau is dissected by deep valleys shaped by the erosion of the Corubal River and its tributaries. The vegetation on the plateau is specialized; due to the hard soil layer, vast grassy savannas and low, fire-resistant woody plants dominate. Geologically, the Boé Plateau is of immense significance as it houses one of the world's largest untapped bauxite deposits. Historically, the plateau's rugged relief provided strategic protection during the War of Independence, leading to the proclamation of the republic in Madina do Boé. The climate on the plateau is characterized by more extreme temperature fluctuations and heavy seasonal rains that drive the erosion of the laterite rocks. For geologists and ecologists, the Boé Plateau serves as a unique open-air laboratory for studying laterite formations and their influence on the flora."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Plateau beherbergt die bedeutendsten Bauxitvorkommen Westafrikas.",
+          "Die Oberfläche ist oft von einer steinharten Lateritschicht bedeckt.",
+          "Die Region Boé ist die am höchsten gelegene Verwaltungseinheit des Landes.",
+          "In der Trockenzeit können die Temperaturen auf dem Plateau stark absinken.",
+          "Zahlreiche Wasserfälle des Corubal liegen am Rand des Plateaus.",
+          "Das Relief bildete eine natürliche Festung für die Unabhängigkeitsbewegung."
+        ],
+        "hu": [
+          "A fennsík rejti Nyugat-Afrika legjelentősebb bauxitkészleteit.",
+          "Felszínét gyakran kőkemény lateritréteg borítja.",
+          "Boé régió az ország legmagasabban fekvő közigazgatási egysége.",
+          "A száraz évszakban a hőmérséklet jelentősen lehűlhet a fennsíkon.",
+          "A Corubal számos vízesése a fennsík peremén található.",
+          "A domborzat természetes erődítményt jelentett a függetlenségi mozgalomnak."
+        ],
+        "ro": [
+          "Platoul conține rezerve masive de bauxită de înaltă puritate.",
+          "Relieful este dominat de platouri structurale cu margini abrupte.",
+          "Este zona cu cele mai mari variații termice diurne din țară.",
+          "Eroziunea hidrică a creat canioane spectaculoase în marginile platoului.",
+          "Solurile sunt extrem de sărace în nutrienți din cauza crustei de fier.",
+          "Reprezintă o barieră naturală între bazinul Geba și cel al Corubalului."
+        ],
+        "en": [
+          "The plateau holds the most significant bauxite deposits in West Africa.",
+          "Its surface is often covered by a rock-hard layer of iron-rich laterite.",
+          "The Boé region is the highest elevated administrative unit in the country.",
+          "Temperatures on the plateau can drop significantly during the dry season.",
+          "Numerous waterfalls of the Corubal River are located at the plateau's edge.",
+          "The relief served as a natural fortress for the national independence movement."
+        ]
+      }
+    },
+    {
+      "id": "varela-dunes-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Dünen von Varela im äußersten Nordwesten Guinea-Bissaus bilden ein einzigartiges geomorphologisches Phänomen an einer ansonsten von Mangroven und Schlamm geprägten Küste. Dieses Relief besteht aus einer Kette von weißen Sanddünen, die sich entlang des Atlantiks erstrecken und durch den Einfluss von Wind und Meeresströmungen geformt wurden. Die Dünen erreichen beträchtliche Höhen und bieten einen natürlichen Schutzwall gegen die Meereserosion. Die Vegetation auf den Dünen ist hochgradig spezialisiert; salzresistente Gräser und Pionierpflanzen stabilisieren den Sand und verhindern das Wandern der Dünen ins Hinterland. Hinter den Dünenkämmen finden sich oft kleine Senken, in denen sich während der Regenzeit Süßwasser ansammelt, was zur Bildung kleiner, temporärer Feuchtgebiete führt. Geologisch ist dieses Gebiet durch die Ablagerung von feinsten Quarzsanden gekennzeichnet, die einen starken Kontrast zu den rötlichen Lateritböden des Binnenlandes bilden. Die Dünen von Varela sind ein kritisches Ökosystem, das nicht nur landschaftliche Schönheit bietet, sondern auch als Nistplatz für Meeresschildkröten und Lebensraum für spezialisierte Reptilien dient. Der Erhalt dieses fragilen Reliefs ist angesichts des steigenden Meeresspiegels von entscheidender Bedeutung für den Küstenschutz der gesamten Region.",
+        "hu": "Varela dűnéi Guinea-Bissau északnyugati csücskében egyedülálló geomorfológiai jelenséget alkotnak az egyébként mangrovék és iszap által uralt partvidéken. Ez a domborzati forma fehér homokdűnék láncolatából áll, amelyek az Atlanti-óceán mentén húzódnak, és a szél, valamint a tengeráramlatok hatására formálódtak. A dűnék jelentős magasságot érnek el, és természetes védőfalat jelentenek a tengeri erózióval szemben. A dűnék növényzete nagymértékben specializálódott; sószagot tűrő füvek és úttörő növények stabilizálják a homokot, megakadályozva a dűnék vándorlását a szárazföld belseje felé. A dűnegerincek mögött gyakran kis mélyedések találhatók, amelyekben az esős évszakban édesvíz gyűlik össze, kis, ideiglenes vizes élőhelyeket hozva létre. Geológiailag ezt a területet a finom kvarchomok lerakódása jellemzi, amely éles kontrasztban áll a belső területek vöröses laterit talajaival. Varela dűnéi kritikus ökoszisztémát alkotnak, amely nemcsak tájképi szépséget nyújt, hanem tengeri teknősök fészkelőhelyeként és speciális hüllők élőhelyeként is szolgál. Ennek a törékeny domborzatnak a megőrzése a tengerszint emelkedése mellett döntő jelentőségű az egész régió partvédelme szempontjából.",
+        "ro": "Dunele din Varela, situate în extremitatea nord-vestică a Guineei-Bissau, reprezintă un fenomen geomorfologic unic pe o coastă dominată în rest de mangrove și mâl. Acest relief constă dintr-un lanț de dune de nisip alb care se întind de-a lungul Atlanticului, fiind modelate de influența vântului și a curenților marini. Dunele ating înălțimi considerabile și oferă un zid natural de protecție împotriva eroziunii marine. Vegetația de pe dune este extrem de specializată; ierburi rezistente la sare și plante pionier stabilizează nisipul și previn migrarea dunelor spre interiorul continentului. În spatele crestelor dunelor se găsesc adesea mici depresiuni în care se acumulează apă dulce în timpul sezonului ploios, ducând la formarea unor mici zone umede temporare. Din punct de vedere geologic, această zonă este marcată de depunerea unor nisipuri de cuarț foarte fine, care formează un contrast puternic cu solurile de laterit roșiatice din interior. Dunele din Varela constituie un ecosistem critic care nu oferă doar frumusețe peisagistică, ci servește și ca loc de cuibărit pentru țestoasele marine și habitat pentru reptile specializate. Conservarea acestui relief fragil este de o importanță crucială pentru protecția costieră a întregii regiuni în fața creșterii nivelului mării.",
+        "en": "The dunes of Varela in far northwestern Guinea-Bissau represent a unique geomorphological phenomenon along a coastline otherwise dominated by mangroves and mud. This relief feature consists of a chain of white sand dunes extending along the Atlantic, shaped by the influence of wind and ocean currents. The dunes reach significant heights and provide a natural protective barrier against coastal erosion. The vegetation on the dunes is highly specialized; salt-tolerant grasses and pioneer plants stabilize the sand and prevent the dunes from migrating inland. Behind the dune crests, small depressions often form where freshwater accumulates during the rainy season, leading to the creation of small, temporary wetlands. Geologically, this area is characterized by the deposition of fine quartz sands, which stand in sharp contrast to the reddish laterite soils of the interior. The Varela dunes are a critical ecosystem that not only offers scenic beauty but also serves as a nesting site for sea turtles and a habitat for specialized reptiles. Preserving this fragile relief is of decisive importance for the coastal protection of the entire region in light of rising sea levels."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist das einzige ausgedehnte Küstendünensystem in Guinea-Bissau.",
+          "Die Dünen bestehen aus fast reinem weißen Quarzsand.",
+          "Sie fungieren als natürliche Barriere gegen Sturmfluten.",
+          "Die Flora umfasst spezialisierte Arten wie die Strandwinde.",
+          "Der Sand wird durch den Passatwind aus der Sahara herangetragen.",
+          "Die Dünen sind ein wichtiger Lebensraum für die Oliv-Bastardschildkröte."
+        ],
+        "hu": [
+          "Ez az egyetlen kiterjedt parti dűnerendszer Guinea-Bissauban.",
+          "A dűnék szinte tiszta fehér kvarchomokból állnak.",
+          "Természetes gátként működnek a vihardagályok ellen.",
+          "Flórája olyan speciális fajokat tartalmaz, mint a parti szulák.",
+          "A homokot a Szaharából érkező passzátszél is táplálja.",
+          "A dűnék az olivzöld fattyúteknős fontos élőhelyei."
+        ],
+        "ro": [
+          "Sunt singurele dune maritime mobile de pe teritoriul național.",
+          "Relieful se schimbă constant sub acțiunea vântului Harmattan.",
+          "Plajele adiacente sunt printre cele mai puțin poluate din țară.",
+          "Sistemul de dune protejează plantațiile de caju din spatele lor.",
+          "Dunele ating înălțimi de până la 10-15 metri în anumite sectoare.",
+          "Zona este propusă pentru un regim special de protecție ecologică."
+        ],
+        "en": [
+          "It is the only extensive coastal dune system in Guinea-Bissau.",
+          "The dunes are composed of nearly pure white quartz sand.",
+          "They act as a natural barrier against seasonal storm surges.",
+          "The flora includes specialized species such as beach morning glory.",
+          "Sand is partially supplied by the Saharan Harmattan winds.",
+          "The dunes provide vital nesting habitat for Olive Ridley turtles."
+        ]
+      }
+    },
+    {
+      "id": "binta-forest-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Relief des Binta-Waldes im Norden Guinea-Bissaus ist ein klassisches Beispiel für die sanft gewellten Laterit-Hochebenen der Region Oio. Dieses Gebiet liegt auf einer durchschnittlichen Höhe von 40 bis 60 Metern über dem Meeresspiegel und ist durch ein Mosaik aus flachen Plateaus und flachen Senken gekennzeichnet. Die Bodenbeschaffenheit ist durch eisenreiche Lateritböden geprägt, die in den trockeneren Monaten eine harte Kruste bilden. Das Relief beeinflusst direkt die hydrologische Dynamik des Waldes: Während der Regenzeit sammeln sich in den Senken große Mengen an Oberflächenwasser, die kleine, temporäre Seen (Lagoas) bilden, während die Plateaus schnell abtrocknen. Diese topografische Vielfalt ermöglicht eine Mischung aus dichtem Trockenwald auf den Anhöhen und feuchteren Vegetationstypen in den Niederungen. Geomorphologisch gesehen ist der Binta-Wald Teil eines alten Erosionstals, das im Laufe der Zeit durch Sedimentation und chemische Verwitterung geformt wurde. Das Relief bietet zudem natürlichen Schutz für die dort lebende Fauna, da die unebene Topografie und die dichte Vegetation den Zugang erschweren. Für die lokale Landwirtschaft sind die leichten Hänge des Binta-Waldes von Bedeutung, da sie eine gute Entwässerung für den Anbau von Erdnüssen und Cashewnüssen bieten.",
+        "hu": "A Guinea-Bissau északi részén található Binta-erdő domborzata az Oio régióra jellemző enyhén hullámos laterit-fennsíkok klasszikus példája. Ez a terület átlagosan 40-60 méterrel fekszik a tengerszint felett, és sík fennsíkok, valamint sekély mélyedések mozaikja jellemzi. A talajszerkezetet vasban gazdag laterit határozza meg, amely a szárazabb hónapokban kemény kérget alkot. A domborzat közvetlenül befolyásolja az erdő hidrológiai dinamikáját: az esős évszakban a mélyedésekben nagy mennyiségű felszíni víz gyűlik össze, kis, ideiglenes tavakat (lagoas) alkotva, míg a fennsíkok gyorsan kiszáradnak. Ez a topográfiai változatosság lehetővé teszi a sűrű száraz erdők és a mélyebb fekvésű területek nedvesebb növénytípusainak keveredését. Geomorfológiai szempontból a Binta-erdő egy ősi eróziós völgy része, amely az idők során üledékképződés és kémiai mállás révén formálódott. A domborzat természetes védelmet nyújt az ott élő faunának is, mivel az egyenetlen felszín és a sűrű növényzet nehezíti a bejutást. A helyi mezőgazdaság számára a Binta-erdő enyhe lejtői jelentősek, mivel jó vízelvezetést biztosítanak a földimogyoró és a kesudió termesztéséhez.",
+        "ro": "Relieful pădurii Binta din nordul Guineei-Bissau este un exemplu clasic al platourilor de laterit ușor ondulate din regiunea Oio. Această zonă se află la o altitudine medie de 40 până la 60 de metri deasupra nivelului mării și este caracterizată printr-un mozaic de platouri plane și depresiuni puțin adânci. Compoziția solului este dominată de laterit bogat în fier, care formează o crustă dură în lunile mai secetoase. Relieful influențează direct dinamica hidrologică a pădurii: în timpul sezonului ploios, în depresiuni se acumulează cantități mari de apă de suprafață, formând mici lacuri temporare (lagoas), în timp ce platourile se usucă rapid. Această diversitate topografică permite un amestec între pădurea uscată densă pe înălțimi și tipuri de vegetație mai umedă în zonele joase. Din punct de vedere geomorfologic, pădurea Binta face parte dintr-o veche vale de eroziune, modelată în timp prin sedimentare și alterare chimică. Relieful oferă, de asemenea, protecție naturală pentru fauna locală, deoarece topografia neregulată și vegetația densă îngreunează accesul. Pentru agricultura locală, pantele ușoare ale pădurii Binta sunt importante, oferind un drenaj bun pentru cultivarea arahidelor și a nucilor caju.",
+        "en": "The relief of the Binta Forest in northern Guinea-Bissau is a classic example of the gently undulating laterite plateaus of the Oio region. This area sits at an average elevation of 40 to 60 meters above sea level and is characterized by a mosaic of flat plateaus and shallow depressions. The soil composition is defined by iron-rich laterite, which forms a hard crust during the drier months. The relief directly influences the forest's hydrological dynamics: during the rainy season, large amounts of surface water accumulate in the depressions, forming small, temporary lakes (lagoas), while the plateaus dry out quickly. This topographical diversity allows for a mix of dense dry forest on the heights and moister vegetation types in the lowlands. Geomorphologically, the Binta Forest is part of an ancient erosion valley shaped over time by sedimentation and chemical weathering. The relief also provides natural protection for the resident fauna, as the uneven topography and dense vegetation hinder access. For local agriculture, the gentle slopes of the Binta Forest are significant, providing good drainage for the cultivation of peanuts and cashew nuts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Relief besteht aus einer der stabilsten geologischen Formationen im Norden.",
+          "Temporäre Seen (Lagoas) entstehen in den natürlichen Senken des Geländes.",
+          "Der Boden weist eine hohe Konzentration an Aluminium- und Eisenoxiden auf.",
+          "Die durchschnittliche Steigung des Geländes beträgt weniger als 5 %.",
+          "Das Relief begünstigt das Wachstum von feuerresistenten Baumarten.",
+          "In der Trockenzeit dient das unebene Relief als Rückzugsort für Wildschweine."
+        ],
+        "hu": [
+          "A domborzat az északi rész egyik legstabilabb geológiai formációjából áll.",
+          "Az ideiglenes tavak (lagoas) a terület természetes mélyedéseiben jönnek létre.",
+          "A talaj alumínium- és vas-oxid koncentrációja igen magas.",
+          "A terep átlagos lejtése nem éri el az 5%-ot.",
+          "A domborzat kedvez a tűzálló fafajok növekedésének.",
+          "A száraz évszakban az egyenetlen felszín a varacskosdisznók rejtekhelye."
+        ],
+        "ro": [
+          "Relieful este format pe o structură sedimentară foarte veche.",
+          "Depresiunile colectează apa necesară faunei în prima parte a sezonului secetos.",
+          "Platourile lateritice sunt rezistente la eroziunea eoliană.",
+          "Diferența de nivel între culmi și văi este de maximum 20 de metri.",
+          "Topografia locală dictează distribuția speciilor de palmieri.",
+          "Binta reprezintă o zonă de tranziție între câmpia de coastă și platoul Oio."
+        ],
+        "en": [
+          "The relief is composed of some of the most stable geological formations in the north.",
+          "Temporary lakes (lagoas) form in the natural depressions of the terrain.",
+          "The soil features high concentrations of aluminum and iron oxides.",
+          "The average slope of the terrain is less than 5%.",
+          "The relief favors the growth of fire-resistant tree species.",
+          "During the dry season, the uneven relief provides cover for warthogs."
+        ]
+      }
+    },
+    {
+      "id": "geba-lowland-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tiefland des Rio Geba ist das markanteste hydrografische Relief Guinea-Bissaus und bildet das geografische Herz des Landes. Dieses Relief ist durch eine extrem flache Topografie geprägt, die kaum über den Meeresspiegel hinausragt, was den Fluss anfällig für Gezeiteneffekte bis weit ins Landesinnere macht. Das Geba-Tiefland besteht überwiegend aus alluvialen Ablagerungen, die über Jahrtausende durch die jährlichen Überschwemmungen des Flusses abgelagert wurden. Diese Böden sind äußerst fruchtbar und bilden die sogenannten 'Bolonhas' (Marschland), die das Rückgrat der nationalen Reisproduktion darstellen. Das Relief ist durch ein komplexes Netzwerk von Kanälen, Altarmen und jahreszeitlich überfluteten Flächen gekennzeichnet. Während der Regenzeit verwandelt sich das Tiefland in eine riesige Wasserlandschaft, während es in der Trockenzeit durch ein künstliches System von Deichen und Gräben entwässert wird, um den Ackerbau zu ermöglichen. Geomorphologisch gesehen stellt das Tiefland eine riesige Senke dar, die zwischen den höher gelegenen Plateaus des Nordens und des Ostens liegt. Der Erhalt dieses sensiblen Reliefs ist entscheidend für die Ernährungssicherheit des Landes, da es die produktivsten Landwirtschaftsflächen Guinea-Bissaus beherbergt.",
+        "hu": "A Geba-folyó mélyföldje Guinea-Bissau legmeghatározóbb vízrajzi domborzata, amely az ország földrajzi szívét alkotja. Ezt a domborzatot rendkívül sík topográfia jellemzi, amely alig emelkedik a tengerszint fölé, így a folyó egészen a szárazföld belsejéig ki van téve az árapály hatásainak. A Geba-mélyföld túlnyomórészt hordalékos lerakódásokból áll, amelyeket a folyó éves áradásai raktak le az évezredek során. Ezek a talajok rendkívül termékenyek, és az úgynevezett „bolonhákat” (mocsaras területeket) alkotják, amelyek a nemzeti rizstermelés gerincét jelentik. A domborzatot csatornák, holtágak és szezonálisan elárasztott területek bonyolult hálózata jellemzi. Az esős évszakban a mélyföld hatalmas vízi tájjá változik, míg a száraz évszakban gátak és árkok mesterséges rendszere segítségével csapolják le, hogy lehetővé tegyék a mezőgazdasági művelést. Geomorfológiai szempontból a mélyföld egy hatalmas medence, amely az északi és keleti magasabb fennsíkok között helyezkedik el. Ennek az érzékeny domborzatnak a megőrzése döntő fontosságú az ország élelmezésbiztonsága szempontjából, mivel itt találhatók Guinea-Bissau legtermékenyebb mezőgazdasági területei.",
+        "ro": "Câmpia joasă a râului Geba este cel mai proeminent relief hidrografic din Guineea-Bissau, formând inima geografică a țării. Acest relief este caracterizat printr-o topografie extrem de plană, care abia depășește nivelul mării, ceea ce face fluviul vulnerabil la efectele mareelor până adânc în interiorul țării. Câmpia Geba constă predominant din depozite aluvionare, depuse de-a lungul mileniilor de inundațiile anuale ale râului. Aceste soluri sunt extrem de fertile și formează așa-numitele 'bolonhas' (terenuri mlăștinoase), care reprezintă coloana vertebrală a producției naționale de orez. Relieful este marcat de o rețea complexă de canale, brațe moarte și suprafețe inundate sezonier. În timpul sezonului ploios, câmpia se transformă într-un imens peisaj acvatic, în timp ce în sezonul secetos este drenată printr-un sistem artificial de diguri și șanțuri pentru a permite agricultura. Din punct de vedere geomorfologic, câmpia reprezintă o depresiune uriașă situată între platourile mai înalte din nord și est. Conservarea acestui relief sensibil este crucială pentru securitatea alimentară a țării, deoarece găzduiește cele mai productive terenuri agricole din Guineea-Bissau.",
+        "en": "The Geba River lowland is Guinea-Bissau's most prominent hydrographic relief feature, forming the geographical heart of the country. This relief is characterized by an extremely flat topography that barely rises above sea level, making the river susceptible to tidal effects far inland. The Geba lowland consists predominantly of alluvial deposits, laid down over millennia by the river's annual flooding. These soils are highly fertile and form the so-called 'bolonhas' (marshlands), which represent the backbone of national rice production. The relief is distinguished by a complex network of canals, oxbow lakes, and seasonally flooded areas. During the rainy season, the lowland transforms into a vast water landscape, while in the dry season, it is drained through an artificial system of dikes and ditches to allow for cultivation. Geomorphologically, the lowland represents a vast depression situated between the higher plateaus of the north and east. Preserving this sensitive relief is crucial for the country's food security, as it hosts Guinea-Bissau's most productive agricultural lands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Tiefland ist das größte Reisanbaugebiet Westafrikas auf Meereshöhe.",
+          "Die Gezeiten beeinflussen den Wasserstand bis zu 100 km flussaufwärts.",
+          "Das Relief wurde durch feine Flusssedimente über Jahrtausende geformt.",
+          "Die 'Bolonhas' sind durch Deichsysteme vor Salzwasser geschützt.",
+          "Es ist eine der am dichtesten besiedelten Agrarlandschaften des Landes.",
+          "Das Relief dient als natürliches Rückhaltebecken für Regenmassen."
+        ],
+        "hu": [
+          "A mélyföld Nyugat-Afrika legnagyobb tengerszinti rizstermesztő vidéke.",
+          "Az árapály akár 100 km-re is megemeli a folyó vízszintjét.",
+          "A domborzatot évezredek alatt lerakódott finom folyami üledék formálta.",
+          "A „bolonhákat” gátak védik a tengeri sós víz betörésétől.",
+          "Ez az ország egyik legsűrűbben lakott mezőgazdasági területe.",
+          "A domborzat természetes víztározóként működik a heves esőzésekkor."
+        ],
+        "ro": [
+          "Câmpia joasă reprezintă peste 15% din suprafața arabilă a țării.",
+          "Solurile aluvionare au o grosime de câțiva metri în canalul principal.",
+          "Trecerea de la câmpie la platourile lateritice este adesea bruscă.",
+          "Relieful permite transportul fluvial de mare tonaj în timpul fluxului.",
+          "Este un ecosistem vital pentru reproducerea speciilor de pești de estuar.",
+          "Sistemul de drenaj tradițional (bolanha) este unic în Africa de Vest."
+        ],
+        "en": [
+          "The lowland is the largest sea-level rice cultivation area in West Africa.",
+          "Tidal forces affect the river's water level up to 100 km upstream.",
+          "The relief was shaped over millennia by fine river sediments.",
+          "The 'bolonhas' are protected from saltwater intrusion by extensive dikes.",
+          "It is one of the most densely populated agricultural landscapes in the country.",
+          "The relief serves as a natural catchment basin for heavy monsoon rains."
+        ]
+      }
+    }
+  ]
+}

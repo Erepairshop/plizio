@@ -1,0 +1,65 @@
+{
+  "lang": "en",
+  "country": "Maldives",
+  "files": [
+    "lib/visualLab/data/poiExtraMaldivesLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaldivesReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "male-friday-mosque-landmarks-v2",
+      "description": "This coral stone mosque, built in 1656, is the oldest in the Maldives and displays intricate carvings. It is a UNESCO World Heritage site candidate known for its unique architectural style.",
+      "facts": ["Built in 1656", "Coral stone structure", "UNESCO site candidate", "Intricate carvings"]
+    },
+    {
+      "id": "reethi-beach-relief-v2",
+      "description": "A popular private island resort in Baa Atoll, Reethi Beach is famous for its white sandy shores and turquoise lagoon. The island offers a classic Maldivian tropical atmosphere with vibrant coral reefs.",
+      "facts": ["Located in Baa Atoll", "White sand beach", "Turquoise lagoon", "Tropical resort island"]
+    },
+    {
+      "id": "hulhumale-beach-relief-v2",
+      "description": "Hulhumalé beach is an accessible, man-made stretch of sand connected to the capital island by a causeway. It is a popular spot for both locals and travelers seeking recreational activities near the airport.",
+      "facts": ["Man-made beach", "Near Male airport", "Local recreation area", "Connected by causeway"]
+    },
+    {
+      "id": "vabbinfaru-beach-relief-v2",
+      "description": "Located in North Malé Atoll, Vabbinfaru is a small, pristine coral island known for its circular shape and clear waters. The beach encircles the entire island, providing constant access to the lagoon.",
+      "facts": ["North Malé Atoll", "Pristine coral island", "Circular shape", "Surrounded by beach"]
+    },
+    {
+      "id": "nika-island-beach-relief-v2",
+      "description": "Nika Island is recognized for its unique privacy, with private beach areas for many villas. It features lush tropical vegetation and a preserved house reef perfect for snorkeling.",
+      "facts": ["Private beach areas", "Lush vegetation", "Preserved house reef", "North Ari Atoll"]
+    },
+    {
+      "id": "meeru-island-beach-relief-v2",
+      "description": "Meeru Island is one of the largest resorts in the Maldives, offering long stretches of white sandy beach. It is well-known for its extensive facilities and diverse water sports activities.",
+      "facts": ["North Malé Atoll", "Extensive beach length", "Large resort island", "Water sports hub"]
+    },
+    {
+      "id": "thoddoo-beach-relief-v2",
+      "description": "Thoddoo is an agricultural island in North Ari Atoll, known for its watermelon production and locally accessible beaches. The island provides a mix of local village life and stunning sandy coastline.",
+      "facts": ["North Ari Atoll", "Watermelon production", "Agricultural island", "Local beaches"]
+    },
+    {
+      "id": "omadhoo-beach-relief-v2",
+      "description": "Omadhoo is a traditional fishing island in South Ari Atoll, offering an authentic glimpse into Maldivian life. The beach is scenic, quiet, and popular for spotting whale sharks in nearby waters.",
+      "facts": ["South Ari Atoll", "Fishing community", "Quiet scenery", "Whale shark hotspot"]
+    },
+    {
+      "id": "kuredu-beach-relief-v2",
+      "description": "Kuredu is a vibrant island in Lhaviyani Atoll famous for its long, iconic sandbank stretching into the ocean. It features a wide variety of amenities and extensive beach areas.",
+      "facts": ["Lhaviyani Atoll", "Long sandbank", "Vibrant resort", "Extensive beach area"]
+    },
+    {
+      "id": "fihalhohi-beach-relief-v2",
+      "description": "Fihalhohi is a compact island resort in South Malé Atoll known for its lush palm trees and tranquil beach. It provides a peaceful retreat with easy access to surrounding house reefs.",
+      "facts": ["South Malé Atoll", "Lush palm trees", "Peaceful atmosphere", "Nearby house reefs"]
+    },
+    {
+      "id": "ihuru-beach-relief-v2",
+      "description": "Ihuru is a tiny, circular island in North Malé Atoll, often referred to as one of the best for snorkeling. Its beach is clean and provides direct access to a spectacular, well-preserved reef.",
+      "facts": ["North Malé Atoll", "Small circular island", "Best for snorkeling", "Well-preserved reef"]
+    }
+  ]
+}

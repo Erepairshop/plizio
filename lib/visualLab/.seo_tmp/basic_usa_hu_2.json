@@ -1,0 +1,116 @@
+{
+  "lang": "hu",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaNatureV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "A Yellowstone Nemzeti Park a világ első nemzeti parkja, amely hatalmas geotermikus területeiről és gazdag élővilágáról, például bölénycsordáiról ismert.",
+      "facts": ["A világ első nemzeti parkja", "Gejzírjeiről híres", "Változatos vadvilág", "Wyoming államban fekszik"]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "A floridai Disney World a világ egyik leglátogatottabb szórakoztató komplexuma, amely négy tematikus parkot foglal magában.",
+      "facts": ["Floridában található", "Négy tematikus park", "Világméretű turisztikai célpont", "Családi szórakoztató központ"]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "description": "A Central Park Zoo New York város szívében, a Central Park területén található kisebb, de népszerű állatkert.",
+      "facts": ["New York városban", "A Central Park része", "Fókák és pingvinek", "Családi programok"]
+    },
+    {
+      "id": "napa-valley-vineyards-life-v2",
+      "description": "Napa Valley Kalifornia leghíresebb borvidéke, amely kiváló minőségű borairól és gyönyörű szőlőültetvényeiről ismert világszerte.",
+      "facts": ["Kaliforniai borvidék", "Prémium borok", "Festői táj", "Turisztikai régió"]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "A Denali Nemzeti Park Alaszka vadonjának része, amely magában foglalja Észak-Amerika legmagasabb csúcsát, a Denalit.",
+      "facts": ["Alaszkában található", "Észak-Amerika legmagasabb csúcsa", "Érintetlen vadon", "Medvék és jávorszarvasok"]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "A Glacier Nemzeti Park Montana államban terül el, és gleccserek által formált tájairól, tavairól és gazdag élővilágáról híres.",
+      "facts": ["Montana állam", "Gleccserek formálta vidék", "Kristálytiszta tavak", "Havasi kecskék élőhelye"]
+    },
+    {
+      "id": "hersheypark-life-v2",
+      "description": "A Hersheypark egy csokoládé tematikájú vidámpark Pennsylvania államban, amelyet a Hershey csokoládévállalat alapított dolgozói számára.",
+      "facts": ["Pennsylvania állam", "Csokoládé tematikájú", "Szórakoztató park", "Családi élményközpont"]
+    },
+    {
+      "id": "olympic-national-park-life-v2",
+      "description": "Az Olympic Nemzeti Park Washington államban található, és változatos ökoszisztémáiról, az óceánparttól a mérsékelt övi esőerdőkig híres.",
+      "facts": ["Washington állam", "Változatos tájak", "Mérsékelt övi esőerdő", "Csendes-óceáni partvidék"]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "A chicagói Shedd Aquarium a Michigan-tó partján álló nagy múltú akvárium, amely vízi élőlények ezreinek ad otthont.",
+      "facts": ["Chicago városa", "Michigan-tó partján", "Tízezernyi vízi állat", "Oktatási központ"]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "A Rocky Mountain Nemzeti Park Colorado államban kínál látványos hegyi tájakat, alpesi tavakat és gazdag élővilágot.",
+      "facts": ["Colorado állam", "Sziklás-hegység", "Alpesi tavak", "Túraútvonalak hálózata"]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "description": "A kaliforniai Legoland egy LEGO-tematikájú park, amely elsősorban kisgyermekes családok számára kínál szórakozást.",
+      "facts": ["Kalifornia állam", "LEGO-tematika", "Családi vidámpark", "Interaktív játékok"]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "A Grand Teton Nemzeti Park Wyoming államban drámai hegycsúcsairól és kristálytiszta tavairól ismert a Sziklás-hegységben.",
+      "facts": ["Wyoming állam", "Drámai hegycsúcsok", "Túrázás paradicsoma", "Vadvilágban gazdag"]
+    },
+    {
+      "id": "seaworld-orlando-life-v2",
+      "description": "A SeaWorld Orlando egy tengeri állatokkal foglalkozó park, amely bemutatóiról és tengeri élővilágra összpontosító attrakcióiról ismert.",
+      "facts": ["Floridai park", "Tengeri állatok", "Oktató bemutatók", "Turisztikai látványosság"]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "A Zion Nemzeti Park Utah államban hatalmas vörös homokkő szikláiról és mély kanyonjairól híres.",
+      "facts": ["Utah állam", "Vörös homokkő", "Mély kanyonok", "Túraparadicsom"]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "A Great Smoky Mountains az USA egyik leglátogatottabb nemzeti parkja, amely ködös hegyvidékéről és gazdag növényvilágáról híres.",
+      "facts": ["Észak-Karolina/Tennessee", "Leglátogatottabb park", "Ködös hegyek", "Változatos élővilág"]
+    },
+    {
+      "id": "mount-rainier-nature-v2",
+      "description": "A Mount Rainier egy aktív rétegvulkán Washington államban, amelyet gleccserek borítanak, és a régió ikonikus jelképe.",
+      "facts": ["Aktív rétegvulkán", "Washington állam", "Hatalmas gleccserek", "Turisztikai célpont"]
+    },
+    {
+      "id": "mauna-kea-nature-v2",
+      "description": "A Mauna Kea egy szunnyadó pajzsvulkán Hawaii szigetén, amely a világ egyik legjobb csillagászati megfigyelőhelye.",
+      "facts": ["Hawaii sziget", "Szunnyadó vulkán", "Csillagászati központ", "Magas hegycsúcs"]
+    },
+    {
+      "id": "great-basin-relief-v2",
+      "description": "A Great Basin egy kiterjedt endorheikus medence, amely a Sziklás-hegység és a Sierra Nevada között terül el.",
+      "facts": ["Endorheikus medence", "Sivatagos terület", "Magas hegyvonulatok", "Nevada állam"]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "description": "A Sierra Madre Occidental egy jelentős hegyvonulat, amely Észak-Mexikóból húzódik az USA délnyugati része felé.",
+      "facts": ["Jelentős hegyvonulat", "Észak-amerikai táj", "Meredek kanyonok", "Változatos ökoszisztéma"]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "A Chisos-hegység a Big Bend Nemzeti Park központi része Texas államban, amely sivatagi tájak fölé magasodik.",
+      "facts": ["Texas állam", "Big Bend része", "Vulkáni eredet", "Sivatagi hegyvidék"]
+    },
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "description": "A Sawtooth-hegység Idaho állam látványos, éles csúcsokkal teli hegyvidéke, amely a vadvilág számára biztosít otthont.",
+      "facts": ["Idaho állam", "Éles csúcsok", "Látványos hegyvidék", "Túrázás"]
+    }
+  ]
+}

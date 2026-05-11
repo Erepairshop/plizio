@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "Einer der ältesten Zoos Lateinamerikas im Herzen von Mexiko-Stadt, bekannt für seine Großen Pandas.",
+      "facts": ["Im Chapultepec-Park gelegen", "Eröffnung 1924", "Heimat großer Pandas"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "Ein moderner Zoo im Nordosten von Mexiko-Stadt, der sich auf die Tierwelt Nordamerikas spezialisiert hat.",
+      "facts": ["Nordosten von Mexiko-Stadt", "Fokus auf nordamerikanische Fauna", "Bildungszentrum"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "Ein weitläufiger Zoo in Guadalajara mit einem beeindruckenden Panoramablick auf die Santiago-Schlucht.",
+      "facts": ["In Guadalajara", "Blick auf Santiago-Schlucht", "Große Artenvielfalt"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Das größte Aquarium Mexikos, das in einer unterirdischen Anlage eine beeindruckende Vielfalt an Meereslebewesen beherbergt.",
+      "facts": ["Größtes Aquarium Mexikos", "Unterirdische Anlage", "Vielfalt der Meereswelt"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Ein ökologischer Themenpark an der Riviera Maya, der mexikanische Kultur und Natur in den Vordergrund stellt.",
+      "facts": ["Riviera Maya", "Öko-Themenpark", "Kultur und Natur"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Ein Safaripark bei Puebla, in dem Tiere aus aller Welt in weitläufigen Gehegen leben.",
+      "facts": ["Nahe Puebla", "Safaripark", "Weitläufige Gehege"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "Ein Safaripark in der Nähe von Monterrey, der Bildung und Artenschutz spielerisch verbindet.",
+      "facts": ["Nähe Monterrey", "Safaripark", "Artenschutz-Fokus"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "Ein UNESCO-Welterbe, das als Überwinterungsort für Millionen von Monarchfaltern bekannt ist.",
+      "facts": ["UNESCO-Welterbe", "Überwinterung von Monarchfaltern", "Wälder in Michoacán"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Ein großes Biosphärenreservat auf der Halbinsel Yucatán mit Mangroven und Korallenriffen.",
+      "facts": ["Biosphärenreservat", "Yucatán-Halbinsel", "Mangroven und Riffe"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "Ein abgelegenes Dschungelgebiet, das sowohl für seine Maya-Ruinen als auch seine Artenvielfalt bekannt ist.",
+      "facts": ["Maya-Ruinen", "Dschungelgebiet", "Hohe Biodiversität"]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "A diverse forested area in northern Mozambique containing various indigenous plant species.",
+      "facts": ["Northern forest zone", "Indigenous flora", "Ecologically significant", "Nampula province"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "A notable mountain feature offering scenic vistas and significant ecological interest.",
+      "facts": ["Notable mountain mass", "Scenic landscape", "Ecologically interesting", "Regional landmark"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "A spectacular river gorge cut through the landscape, hosting unique rock formations and river life.",
+      "facts": ["River gorge", "Unique rock formations", "Riverine ecosystem", "Natural landmark"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "A dense forest region in central Mozambique known for its wildlife diversity.",
+      "facts": ["Dense forest zone", "Central Mozambique", "Wildlife refuge", "Biodiversity area"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "A reservoir and lake area that provides vital water sources and habitat for birds and aquatic life.",
+      "facts": ["Lake reservoir", "Birdlife habitat", "Water source", "Aquatic ecosystem"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "A mountainous range in southern Mozambique contributing to regional environmental diversity.",
+      "facts": ["Mountain range", "Southern region", "Environmental feature", "Landscape beauty"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "An aquatic environment known for supporting migratory bird species and local water life.",
+      "facts": ["Lake ecosystem", "Migratory bird habitat", "Local aquatic life", "Water environment"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "A distributary river in the Zambezi delta, vital for coastal mangrove health.",
+      "facts": ["Zambezi distributary", "Delta ecosystem", "Mangrove life", "Coastal river"]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "A lush forest area surrounding the Lupata gorge region.",
+      "facts": ["Lush forest ecosystem", "Surrounds Lupata gorge", "Biodiverse area", "Nature zone"]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "A lake basin providing a necessary habitat for varied wildlife in the Magoe area.",
+      "facts": ["Lake basin", "Wildlife habitat", "Necessary water site", "Magoe region"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "A protected forest environment showcasing central Mozambican timberland and forest fauna.",
+      "facts": ["Protected forest", "Central timberland", "Forest fauna", "Conservation site"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "Coastal and near-sea environments showcasing the maritime biodiversity of the Mozambican coastline.",
+      "facts": ["Coastal marine environment", "Maritime biodiversity", "Mozambique coastline", "Oceanic setting"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "A distinct mountain elevation offering varied ecological zones and landscape views.",
+      "facts": ["Distinct mountain elevation", "Varied ecology", "Panoramic views", "Landscape feature"]
+    }
+  ]
+}

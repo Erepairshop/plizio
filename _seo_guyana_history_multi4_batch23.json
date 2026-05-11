@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-non-aligned-monument-history-v2",
+      "descriptionAdvancedDe": "Das Denkmal der Blockfreien in Georgetown ist ein wichtiges Symbol für Guyanas Rolle in der internationalen Politik während des Kalten Krieges. Es wurde 1972 anlässlich der Konferenz der Außenminister der blockfreien Staaten in Guyana errichtet. Das Denkmal besteht aus vier Büsten, die die Gründerväter der Bewegung der Blockfreien Staaten darstellen: Gamal Abdel Nasser aus Ägypten, Kwame Nkrumah aus Ghana, Jawaharlal Nehru aus Indien und Josip Broz Tito aus Jugoslawien. Diese Führer strebten danach, einen unabhängigen Weg für Entwicklungsländer zu schaffen, frei von der Einflussnahme der Supermächte USA und Sowjetunion. Das Denkmal befindet sich in den Company Path Gardens und ist von vier Jasper-Steinen umgeben, die den Pau-brasil-Baum symbolisieren. Es erinnert an Guyanas Engagement für die Prinzipien der Nichteinmischung, der nationalen Souveränität und der internationalen Zusammenarbeit.",
+      "descriptionAdvancedHu": "A georgetowni El Nem Kötelezettek Emlékműve Guyana hidegháború alatti nemzetközi politikában betöltött szerepének fontos szimbóluma. Az emlékművet 1972-ben, az el nem kötelezett országok külügyminisztereinek guyanai konferenciája alkalmából emelték. Az emlékmű négy mellszoborból áll, amelyek az el nem kötelezett országok mozgalmának alapító atyjait ábrázolják: az egyiptomi Gamal Abdel Nasszert, a ghánai Kwame Nkrumah-t, az indiai Dzsaváharlál Nehrut és a jugoszláv Josip Broz Titót. Ezek a vezetők arra törekedtek, hogy a fejlődő országok számára független utat teremtsenek, mentesen az USA és a Szovjetunió szuperhatalmak befolyásától. Az emlékmű a Company Path Gardensben található, és négy jáspiskő veszi körül, amelyek a pau-brasil fát szimbolizálják. Emlékeztet Guyana elkötelezettségére a be nem avatkozás, a nemzeti szuverenitás és a nemzetközi együttműködés elvei mellett.",
+      "descriptionAdvancedRo": "Monumentul Țărilor Nealiniate din Georgetown este un simbol important al rolului Guyanei în politica internațională în timpul Războiului Rece. A fost ridicat în 1972 cu ocazia Conferinței Miniștrilor de Externe ai Statelor Nealiniate, care a avut loc în Guyana. Monumentul constă din patru busturi care îi reprezintă pe părinții fondatori ai Mișcării de Nealiniere: Gamal Abdel Nasser din Egipt, Kwame Nkrumah din Ghana, Jawaharlal Nehru din India și Iosip Broz Tito din Iugoslavia. Acești lideri au căutat să creeze o cale independentă pentru țările în curs de dezvoltare, liberă de influența superputerilor SUA și Uniunea Sovietică. Monumentul este situat în Grădinile Company Path și este înconjurat de patru pietre de jasp care simbolizează arborele pau-brasil. Acesta amintește de angajamentul Guyanei față de principiile neamestecului, suveranității naționale și cooperării internaționale.",
+      "descriptionAdvancedEn": "The Non-Aligned Monument in Georgetown is an important symbol of Guyana's role in international politics during the Cold War. It was erected in 1972 to mark the Non-Aligned Foreign Ministers Conference held in Guyana. The monument consists of four busts representing the founding fathers of the Non-Aligned Movement: Gamal Abdel Nasser of Egypt, Kwame Nkrumah of Ghana, Jawaharlal Nehru of India, and Josip Broz Tito of Yugoslavia. These leaders sought to forge an independent path for developing nations, free from the influence of the superpower blocs of the US and the Soviet Union. The monument is located in the Company Path Gardens and is surrounded by four jasper stones symbolizing the pau-brasil tree. It stands as a reminder of Guyana's commitment to the principles of non-interference, national sovereignty, and international cooperation.",
+      "factsAdvanced": [
+        "Errichtet 1972 für die Konferenz der blockfreien Staaten.",
+        "Ehrt die vier Gründerväter der Bewegung der Blockfreien Staaten.",
+        "Die Büsten zeigen Nasser, Nkrumah, Nehru und Tito.",
+        "Symbolisiert Guyanas Engagement für die Blockfreiheit.",
+        "Befindet sich in den Company Path Gardens in Georgetown.",
+        "Die Bewegung bot einen 'dritten Weg' im Kalten Krieg.",
+        "Umgeben von vier Jasper-Steinen aus dem Inneren Guyanas.",
+        "Ein Zeugnis für Guyanas diplomatische Geschichte."
+      ]
+    }
+  ]
+}

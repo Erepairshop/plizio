@@ -1,0 +1,50 @@
+{
+  "lang": "en",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "The Oued Nfiss is a river in the High Atlas Mountains, known for its scenic gorges and contributing to local irrigation.",
+      "facts": ["High Atlas Mountains", "Scenic gorges", "Irrigation source"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "The Oued Tensift estuary near Essaouira is a vital wetland and a stopover point for migratory birds.",
+      "facts": ["Essaouira", "Wetland", "Migratory birds"]
+    },
+    {
+      "id": "cap-spartel-nature-v2",
+      "description": "Cap Spartel is a prominent cape near Tangier, marking the meeting point of the Atlantic Ocean and the Mediterranean Sea.",
+      "facts": ["Near Tangier", "Atlantic and Mediterranean", "Geographical landmark"]
+    },
+    {
+      "id": "oued-noun-valley-relief-v2",
+      "description": "The Oued Noun Valley is a distinctive geographical feature in southern Morocco, characterized by its arid riverbed and date palms.",
+      "facts": ["Southern Morocco", "Arid riverbed", "Date palms"]
+    },
+    {
+      "id": "figuig-oasis-relief-v2",
+      "description": "The Figuig Oasis is a collection of seven oases near the Algerian border, renowned for its ancient kasbahs and date groves.",
+      "facts": ["Near Algerian border", "Ancient kasbahs", "Date groves"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "The hills of Moulay Idriss surround the sacred town, offering a picturesque and fertile landscape in the Zerhoun region.",
+      "facts": ["Sacred town", "Picturesque landscape", "Fertile region"]
+    },
+    {
+      "id": "oued-tensift-valley-relief-v2",
+      "description": "The Oued Tensift Valley is a significant agricultural area in the Marrakech plains, fed by the river's irrigation system.",
+      "facts": ["Marrakech plains", "Agricultural area", "Irrigation system"]
+    },
+    {
+      "id": "high-plateaus-relief-v2",
+      "description": "The High Plateaus are an expansive, semi-arid elevated region in eastern Morocco, used primarily for pastoralism.",
+      "facts": ["Semi-arid region", "Eastern Morocco", "Pastoralism"]
+    }
+  ]
+}

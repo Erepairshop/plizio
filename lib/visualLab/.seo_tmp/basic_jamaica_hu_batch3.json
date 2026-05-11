@@ -1,0 +1,77 @@
+{
+  "lang": "hu",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-bio-fuel-plant-economic-v2",
+      "description": "Létesítmény bioüzemanyagok előállítására mezőgazdasági hulladékból.",
+      "facts": ["Bioenergia", "Megújuló anyagok", "Fenntarthatóság", "Ipari feldolgozás"]
+    },
+    {
+      "id": "jm-meat-packing-economic-v2",
+      "description": "Nagy üzem hústermékek feldolgozására a belföldi piac számára.",
+      "facts": ["Hústermékek", "Élelmiszeripar", "Helyi gazdaság", "Mezőgazdasági feldolgozás"]
+    },
+    {
+      "id": "jm-cold-storage-economic-v2",
+      "description": "Nagy ipari hűtőberendezés romlandó áruk számára.",
+      "facts": ["Hűtési logisztika", "Élelmiszerbiztonság", "Export-előkészítés", "Ellátási lánc"]
+    },
+    {
+      "id": "jm-textile-factory-economic-v2",
+      "description": "Ipari textilgyártás helyi és exportcélokra.",
+      "facts": ["Textilgyártás", "Gyártás", "Export", "Ipar"]
+    },
+    {
+      "id": "seville-la-nueva-ruins-history-v2",
+      "description": "Sevilla la Nueva, azaz Új-Sevilla, Jamaica első spanyol fővárosának régészeti lelőhelye.",
+      "facts": ["Első spanyol főváros", "Gegründet im Jahr 1509", "Bedeutende archäologische Stätte", "Műemlékvédelem"]
+    },
+    {
+      "id": "bull-head-mountain-nature-v2",
+      "description": "Jamaica földrajzi középpontja, egy hegy Clarendonban.",
+      "facts": ["A sziget földrajzi középpontja", "Kb. 853 méter magas", "Erdőrezervátum", "Túrautak"]
+    },
+    {
+      "id": "montpelier-mountains-nature-v2",
+      "description": "Dombsági régió St. James-ben, Montego Bay-től délkeletre.",
+      "facts": ["Történelmi ültetvényterület", "Lankás dombok", "Mezőgazdasági művelés", "Szép vidéki táj"]
+    },
+    {
+      "id": "john-crow-mountains-relief-v2",
+      "description": "Egy távoli és vad hegylánc Jamaica keleti részén.",
+      "facts": ["Mészkőhegység", "Nehezen megközelíthető", "Ritka fajok otthona", "UNESCO világörökség"]
+    },
+    {
+      "id": "catherine-peak-relief-v2",
+      "description": "Jelentős csúcs a Blue Mountains-ban.",
+      "facts": ["Markáns csúcsformáció", "Fontos vízforrás", "Népszerű túrahely", "Remek kilátás"]
+    },
+    {
+      "id": "corkscrew-ridge-relief-v2",
+      "description": "Egy kanyargós hegygerinc a Blue Mountains közelében.",
+      "facts": ["Kanyargós lefolyás", "Meredek lejtők", "Szép kilátás", "Ideális túrázáshoz"]
+    },
+    {
+      "id": "dry-harbour-mountains-relief-v2",
+      "description": "Egy hegylánc Saint Ann központjában.",
+      "facts": ["Mészkőhegység", "Közepes magasságú", "Buja növényzet", "Túrautak"]
+    },
+    {
+      "id": "may-day-mountains-relief-v2",
+      "description": "A Mandeville környéki hegyvidék.",
+      "facts": ["Hűvös éghajlat", "Dombvidéki táj", "Bauxitlelőhelyek", "Szép kilátás"]
+    },
+    {
+      "id": "clarendon-hills-relief-v2",
+      "description": "Clarendon északi részének lankás dombjai.",
+      "facts": ["Lankás dombok", "Mezőgazdasági művelés", "Zöld táj", "Nyugalom"]
+    }
+  ]
+}

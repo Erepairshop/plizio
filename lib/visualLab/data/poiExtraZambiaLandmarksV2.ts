@@ -147,13 +147,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       de: "Die Luangwa-Brücke ist eine strategisch wichtige Hängebrücke, die den Luangwa-Fluss an der Great East Road überspannt.",
       hu: "Feltűnő függőhíd a Great East Roadon, amely a Luangwa folyó mély szurdokát íveli át.",
       ro: "Un pod suspendat impresionant pe Great East Road, care traversează un defileu adânc al râului Luangwa.",
-      en: "A striking suspension bridge on the Great East Road that spans a deep gorge of the Luangwa River."
+      en: "A notable bridge spanning the Luangwa River, serving as a critical connection on the Great East Road."
     },
     facts: {
       de: ["Wichtige Verkehrsverbindung nach Osten", "Spektakuläre Hängekonstruktion", "Grenznähe zu Mosambik"],
       hu: ["Jelentős közúti kapcsolat Malawi felé", "Látványos kilátás", "1968-ban nyílt meg"],
       ro: ["Legătură rutieră semnificativă către Malawi", "Vedere spectaculoasă", "Deschis în 1968"],
-      en: ["Significant road link to Malawi", "Spectacular view", "Opened in 1968"]
+      en: ["Spans Luangwa River.", "Great East Road.", "Critical transport link."]
     }, image: "/poi-images/luangwa-bridge-landmarks-v2.webp"},
   {
     id: "harry-mwaanga-nkumbula-airport-landmarks-v2",
@@ -216,13 +216,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       de: "Die Manda Hill Mall in Lusaka war das erste moderne Einkaufszentrum Sambias und ist ein beliebter Treffpunkt.",
       hu: "Zambia első modern bevásárlóközpontja Lusakában, amely ma számos üzletet és éttermet kínál.",
       ro: "Primul centru comercial modern din Zambia, situat în Lusaka, care oferă astăzi o varietate de magazine și restaurante.",
-      en: "Zambia's first modern shopping center in Lusaka, today offering a variety of shops and restaurants."
+      en: "One of the most prominent shopping centers in Lusaka, serving as a central hub for commerce and leisure."
     },
     facts: {
       de: ["Größtes Einkaufszentrum in Lusaka", "Zahlreiche internationale Marken", "Zentraler Standort in der Stadt"],
       hu: ["1999-ben nyílt meg", "Átfogóan felújították", "A modern kiskereskedelem úttörője"],
       ro: ["Deschis în 1999", "Renovat pe scară largă", "Pionier al retailului modern"],
-      en: ["Opened in 1999", "Extensively renovated", "Pioneer of modern retail"]
+      en: ["Located in Lusaka.", "Major shopping mall.", "Commerce and leisure hub."]
     }
   },
   {
@@ -341,13 +341,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       de: "Die Kariba-Talsperre ist eine der größten Talsperren der Welt und staut den Sambesi-Fluss zur Stromerzeugung auf.",
       hu: "A Kariba-tavat feltartóztató monumentális völgyzárógát, amely a világ egyik legnagyobb mesterséges tavát hozta létre.",
       ro: "Un baraj colosal în arc cu dublă curbură pe râul Zambezi, care formează masivul Lac Kariba.",
-      en: "A colossal double-curvature arch dam on the Zambezi River that forms the massive Lake Kariba."
+      en: "A massive engineering structure between Zambia and Zimbabwe that controls the flow of the Zambezi River."
     },
     facts: {
       de: ["Bogenstaumauer aus Beton", "Versorgt Sambia und Simbabwe mit Strom", "Bildet den Kariba-Stausee"],
       hu: ["Hatalmas betonépítmény", "Vízerőmű működik itt", "Zambia és Zimbabwe határán"],
       ro: ["128 de metri înălțime", "Construit în 1959", "Important pentru hidroenergie"],
-      en: ["128 meters high", "Built in 1959", "Important for hydroelectric power"]
+      en: ["Zambezi River dam.", "Joint project with Zimbabwe.", "Major hydro-power source."]
     }, image: "/poi-images/kariba-dam-wall-landmarks-v2.webp",
     descriptionAdvanced: {
       ro: "Barajul Kariba este una dintre cele mai mari și spectaculoase realizări inginerești din Africa, creând cel mai mare lac de acumulare artificial din lume la momentul finalizării sale. Barajul este crucial pentru producția de energie hidroelectrică pentru Zambia și Zimbabwe, transformând radical peisajul și economia regiunii fluviului Zambezi. (Geografie K8 — energie și infrastructură)"
@@ -424,13 +424,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       de: "Das ehemalige Wohnhaus des ersten Präsidenten Kenneth Kaunda in Lusaka, das heute ein nationales Denkmal ist.",
       hu: "Az első elnök, Kenneth Kaunda egykori lakóháza Lusakában, amely ma nemzeti emlékmű.",
       ro: "Fosta reședință a primului președinte Kenneth Kaunda în Lusaka, acum un monument național.",
-      en: "The former residence of the first president Kenneth Kaunda in Lusaka, now a national monument."
+      en: "A historical site in Lusaka where Kenneth Kaunda, the first president, lived during the independence struggle."
     },
     facts: {
       de: ["Zentrum des Unabhängigkeitskampfes", "Heute ein Museum", "Erhält persönliches Erbe"],
       hu: ["A függetlenségi harc központja", "Ma múzeumként működik", "Személyes örökséget őriz"],
       ro: ["Centrul luptei pentru independență", "Astăzi un muzeu", "Păstrează moștenirea personală"],
-      en: ["Center of the independence struggle", "Now a museum", "Preserves personal heritage"]
+      en: ["Lusaka historical site.", "Kenneth Kaunda's home.", "Independence era landmark."]
     }, image: "/poi-images/chilenje-house-394-landmarks-v2.webp",
     descriptionAdvanced: {
       en: "Chilenje House 394 in Lusaka is a site of profound national significance, having served as the residence of Dr. Kenneth Kaunda, Zambia's first president, during the struggle for independence in the 1960s. The house has been preserved as a national monument, offering visitors an intimate look at the home life and the clandestine political organizing of Zambia's founding fathers. It is a critical landmark for understanding the country's path to independence, highlighting the sacrifices and strategies employed to achieve freedom from colonial rule. History K8 — independence movement."
@@ -523,13 +523,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       de: "Ein kleineres, aber stark genutztes Fußballstadion im gleichnamigen Vorort Woodlands von Lusaka.",
       hu: "Egy kisebb, de erősen kihasznált labdarúgó-stadion Lusaka Woodlands nevű külvárosában.",
       ro: "Un stadion de fotbal mai mic, dar intens folosit, în suburbia Woodlands din Lusaka.",
-      en: "A smaller but heavily used football stadium in the Woodlands suburb of Lusaka."
+      en: "A sports stadium in Lusaka, frequently used for local football matches and community events."
     },
     facts: {
       de: ["Heimat der City of Lusaka FC", "Lokale Sportveranstaltungen", "Kultiger Austragungsort"],
       hu: ["A City of Lusaka FC otthona", "Helyi sportesemények helyszíne", "Kultikus mérkőzéshelyszín"],
       ro: ["Casa echipei City of Lusaka FC", "Evenimente sportive locale", "Loc de desfășurare iconic"],
-      en: ["Home of City of Lusaka FC", "Local sporting events", "Iconic venue"]
+      en: ["Lusaka sports facility.", "Football venue.", "Community event space."]
     }
   },
   {
@@ -594,13 +594,13 @@ export const poiExtraZambiaLandmarksV2: POI[] = [
       de: "Ein weitläufiges Einkaufszentrum im südlichen Teil von Lusaka, das eine Vielzahl von Dienstleistungen und Geschäften anbietet.",
       hu: "Tágas bevásárlóközpont Lusaka déli részén, amely számos szolgáltatást és üzletet kínál.",
       ro: "Un centru comercial extins în partea de sud a orașului Lusaka, oferind o varietate de servicii și magazine.",
-      en: "A sprawling shopping center in the southern part of Lusaka, offering a variety of services and shops."
+      en: "A modern shopping center in Lusaka that offers a wide variety of retail and dining options."
     },
     facts: {
       de: ["Eröffnet im Jahr 2016", "Großer Kundenparkplatz", "Regionales Shopping-Ziel"],
       hu: ["2016-ban nyílt meg", "Nagy ügyfélparkoló", "Regionális bevásárlási célpont"],
       ro: ["Deschis în 2016", "Parcare mare pentru clienți", "Destinație regională de cumpărături"],
-      en: ["Opened in 2016", "Large customer parking lot", "Regional shopping destination"]
+      en: ["Lusaka retail center.", "Modern shopping mall.", "Dining and retail hub."]
     }, image: "/poi-images/cosmopolitan-mall-landmarks-v2.webp"},
   {
     id: "victoria-falls-power-station-landmarks-v2",

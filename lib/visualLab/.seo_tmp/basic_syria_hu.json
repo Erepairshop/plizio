@@ -1,0 +1,40 @@
+{
+  "lang": "hu",
+  "country": "Syria",
+  "files": [
+    "lib/visualLab/data/poiExtraSyriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSyriaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "masyaf-castle-landmarks-v2",
+      "description": "A középkori erődítmény egy sziklás gerincen magasodik a Szíriai-parti-hegységben. Az iszlám építészet egyik kiemelkedő példája, amelyet a nizarita izmáeliták építettek át.",
+      "facts": ["Alapítva: 11. század", "Helyszín: Hama kormányzóság", "Építészeti stílus: középkori iszlám", "Anyag: mészkő"]
+    },
+    {
+      "id": "bab-sharqi-landmarks-v2",
+      "description": "Damaszkusz óvárosának egyik legfontosabb fennmaradt római kori kapuja. A hét kapu egyike, amely a keresztény negyedbe vezet.",
+      "facts": ["Építés ideje: római korszak", "Helyszín: Damaszkusz óvárosa", "Kulturális jelentőség: világörökségi zóna", "Szerkezet: háromíves kapu"]
+    },
+    {
+      "id": "mount-hermon-syria-nature-v2",
+      "description": "A Libanon-hegység legmagasabb pontja, amely Szíria, Libanon és Izrael határán húzódik. A hegycsúcsot az év nagy részében hó fedi.",
+      "facts": ["Magasság: 2814 méter", "Elhelyezkedés: Anti-Libanon-hegység", "Klíma: magashegyi", "Ökoszisztéma: változatos alpesi élővilág"]
+    },
+    {
+      "id": "jabal-zawiya-nature-v2",
+      "description": "A Szíria északnyugati részén elterülő hegyvidéki terület, amely ismert a benne megbújó ókori 'holt városokról' és teraszos gazdálkodásáról.",
+      "facts": ["Régió: Idlib kormányzóság", "Domborzat: mészkőfennsík", "Földhasználat: olajfa- és szőlőültetvények", "Környezet: mediterrán hegyvidék"]
+    },
+    {
+      "id": "slenfeh-forest-nature-v2",
+      "description": "A hegyvidéki üdülőhely környékén található sűrű erdők, amelyek a szíriai partvidék hűvösebb menedékhelyei. Gazdag fenyvesek jellemzik.",
+      "facts": ["Helyszín: Latakia kormányzóság", "Növényzet: tűlevelű erdők", "Magasság: 800-1000 méter", "Funkció: természetvédelmi terület"]
+    },
+    {
+      "id": "afrin-river-nature-v2",
+      "description": "Észak-Szíria folyója, amely a török határ közelében kanyarogva táplálja a környező termékeny földeket.",
+      "facts": ["Hossz: kb. 130 km", "Vízgyűjtő: Afrin-medence", "Jelentőség: mezőgazdasági öntözés", "Torkolat: Orontes-folyó (közvetve)"]
+    }
+  ]
+}

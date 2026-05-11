@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-cafe-boquete-life-v2",
+      "description": "Fermă de cafea renumită în regiunea Boquete, cunoscută pentru producția de cafea Geisha de înaltă calitate.",
+      "facts": ["Regiunea Boquete", "Cafea Geisha", "Tradiție agricolă"]
+    },
+    {
+      "id": "refugio-vida-silvestre-taboga-life-v2",
+      "description": "Arie protejată pe insula Taboga, oferind un habitat important pentru diverse specii de păsări marine.",
+      "facts": ["Insula Taboga", "Păsări marine", "Protecția mediului"]
+    },
+    {
+      "id": "parque-infantil-don-bosco-life-v2",
+      "description": "Spațiu de recreere amenajat pentru copii, contribuind la viața comunitară din zona Don Bosco.",
+      "facts": ["Panama City", "Spațiu copii", "Recreere"]
+    },
+    {
+      "id": "reserva-forestal-fortuna-life-v2",
+      "description": "Rezervație forestieră vastă, esențială pentru conservarea biodiversității și a resurselor de apă în Chiriquí.",
+      "facts": ["Chiriquí", "Biodiversitate", "Rezervație forestieră"]
+    },
+    {
+      "id": "criadero-mariposas-boquete-life-v2",
+      "description": "Centru de reproducere și conservare a fluturilor, oferind oportunități educative despre ecosistemele locale.",
+      "facts": ["Boquete", "Conservare fluturi", "Educație"]
+    },
+    {
+      "id": "finca-ganadera-los-santos-life-v2",
+      "description": "Fermă zootehnică reprezentativă pentru economia agricolă a provinciei Los Santos.",
+      "facts": ["Provincia Los Santos", "Zootehnie", "Economie locală"]
+    },
+    {
+      "id": "parque-infantil-cinta-costera-life-v2",
+      "description": "Zona de joacă populară situată pe faleza Cinta Costera, un punct central de recreere în capitală.",
+      "facts": ["Cinta Costera", "Panama City", "Recreere"]
+    },
+    {
+      "id": "reserva-natural-punta-patino-life-v2",
+      "description": "Rezervație naturală protejată, recunoscută pentru mangrovele și biodiversitatea sa din zona Darién.",
+      "facts": ["Zona Darién", "Mangrove", "Rezervație naturală"]
+    },
+    {
+      "id": "finca-arroz-cocle-life-v2",
+      "description": "Exploatație agricolă dedicată cultivării orezului, un aliment de bază în regiunea Coclé.",
+      "facts": ["Provincia Coclé", "Cultivare orez", "Agricultură"]
+    },
+    {
+      "id": "parque-nacional-coiba-animales-life-v2",
+      "description": "Parc național care protejează o faună marină și terestră remarcabilă în jurul arhipelagului Coiba.",
+      "facts": ["Arhipelagul Coiba", "Faună marină", "Parc național"]
+    }
+  ]
+}

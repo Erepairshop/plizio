@@ -1,0 +1,149 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "manyana-rock-paintings-history-v2",
+      "description": "Picturi rupestre San remarcabile situate pe o stâncă de granit, ilustrând viața sălbatică și figuri umane.",
+      "facts": [
+        "Lângă satul Manyana",
+        "Accesibile vizitatorilor",
+        "Stil artistic policrom",
+        "Situl Livingstones Tree în apropiere"
+      ]
+    },
+    {
+      "id": "livingstones-tree-history-v2",
+      "description": "Un arbore sub care se crede că David Livingstone a predicat și s-a odihnit în timpul călătoriilor sale.",
+      "facts": [
+        "Specie de Ficus pretoriae",
+        "Símbol al epocii misionare",
+        "Situat în satul Manyana",
+        "Protejat ca monument național"
+      ]
+    },
+    {
+      "id": "shoshong-historic-site-history-v2",
+      "description": "Fosta capitală a poporului Bangwato în secolul al XIX-lea, un centru comercial major la acea vreme.",
+      "facts": [
+        "Aproape de dealurile Shoshong",
+        "Vizitat de exploratori celebri",
+        "Centru al rutei spre nord",
+        "Rămășițe de fundații vechi"
+      ]
+    },
+    {
+      "id": "gcwihaba-caves-history-v2",
+      "description": "Un sistem spectaculos de peșteri cu stalactite și stalagmite, explorat de comunitățile locale de secole.",
+      "facts": [
+        "Cunoscute și sub numele Drotsky's",
+        "Izolate în deșertul Kalahari",
+        "Sistem de peșteri labirintice",
+        "Legende despre comori ascunse"
+      ]
+    },
+    {
+      "id": "moremi-gorge-history-v2",
+      "description": "Un defileu sacru în dealurile Tswapong, renumit pentru cascadele sale și semnificația spirituală profundă.",
+      "facts": [
+        "Găzduiește vulturi rari",
+        "Loc de ritualuri ancestrale",
+        "Gestionat de comunitate",
+        "Biodiversitate bogată"
+      ]
+    },
+    {
+      "id": "motlhabaneng-rock-paintings-history-v2",
+      "description": "Picturi rupestre situate în estul Botswanei, prezentând scene detaliate de vânătoare și ritualuri.",
+      "facts": [
+        "În apropiere de Tuli Block",
+        "Moștenire a poporului San",
+        "Culori naturale durabile",
+        "Acces prin albii de râu secate"
+      ]
+    },
+    {
+      "id": "serowe-royal-cemetery-history-v2",
+      "description": "Cimitirul unde odihnesc membrii familiei regale Khama, dominând așezarea Serowe de pe un deal.",
+      "facts": [
+        "Mormântul lui Seretse Khama",
+        "Símbolul totemic al antilopei Duiker",
+        "Loc de respect național",
+        "Vedere asupra satului tradițional"
+      ]
+    },
+    {
+      "id": "mochudi-kgotla-history-v2",
+      "description": "Tribunalul tradițional al poporului Bakgatla, inima guvernării locale și a justiției comunitare.",
+      "facts": [
+        "Centru de luare a deciziilor",
+        "Arhitectură tradițională vie",
+        "Utilizat pentru ceremonii",
+        "Condus de șeful de trib"
+      ]
+    },
+    {
+      "id": "ntsweng-heritage-site-history-v2",
+      "description": "Locul fostei așezări Molepolole, abandonat în 1937, păstrând urmele vechii capitale Bakwena.",
+      "facts": [
+        "Găzduiește morminte regale",
+        "Muzeu în aer liber",
+        "Importanță istorică strategică",
+        "Săpături arheologice active"
+      ]
+    },
+    {
+      "id": "kanye-kgotla-history-v2",
+      "description": "Centrul administrativ tradițional al tribului Bangwaketse, situat într-una dintre cele mai vechi așezări.",
+      "facts": [
+        "Unul dintre cele mai mari Kgotla",
+        "Așezat pe un platou înalt",
+        "Istorie lungă de autonomie",
+        "Păstrează legile cutumiare"
+      ]
+    },
+    {
+      "id": "francistown-old-gold-mines-history-v2",
+      "description": "Rămășițele primelor mine de aur din Africa Australă, care au declanșat prima goană după aur din regiune.",
+      "facts": [
+        "Exploatate în anii 1860",
+        "Descoperite de Karl Mauch",
+        "Minele Monarch și altele",
+        "Originea numelui orașului"
+      ]
+    },
+    {
+      "id": "orapa-diamond-mine-monument-history-v2",
+      "description": "Un monument dedicat descoperirii pipei de kimberlit AK1, care a schimbat destinul economic al Botswanei.",
+      "facts": [
+        "Marchează punctul descoperirii",
+        "Simbol al prosperității",
+        "Acces restricționat (zonă minieră)",
+        "Inaugurat de lideri de stat"
+      ]
+    },
+    {
+      "id": "baratani-hill-history-v2",
+      "description": "Cunoscut sub numele de 'Dealul Îndrăgostiților', este un loc plin de legende despre o iubire tragică interzisă.",
+      "facts": [
+        "Lângă satul Otse",
+        "Considerat munte sacru",
+        "Acces interzis turiștilor",
+        "Parte din folclorul local"
+      ]
+    },
+    {
+      "id": "kasane-baobab-history-v2",
+      "description": "Un baobab gigant care a servit drept închisoare locală în epoca colonială timpurie.",
+      "facts": [
+        "Situat lângă secția de poliție",
+        "Interior cavitar natural",
+        "Vechime de sute de ani",
+        "Atracție turistică în Kasane"
+      ]
+    }
+  ]
+}

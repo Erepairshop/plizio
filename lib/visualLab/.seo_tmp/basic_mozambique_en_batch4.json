@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rovuma-river-nature-v2",
+      "description": "The Rovuma River forms the natural border between Mozambique and Tanzania, supporting diverse ecosystems along its banks.",
+      "facts": ["Natural border", "Tanzania", "Diverse ecosystems"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "Inda Island is a small island off the coast of Mozambique, known for its pristine beaches and vibrant coral reefs.",
+      "facts": ["Pristine beaches", "Coral reefs", "Coastal island"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "Lake Chiuta is a shallow freshwater lake on the border with Malawi, important for fishing and birdwatching.",
+      "facts": ["Freshwater lake", "Malawi border", "Fishing and birdwatching"]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "description": "Pungo Mountain in Zambézia Province is an important site for local flora and fauna, offering rich biodiversity.",
+      "facts": ["Zambézia Province", "Local flora and fauna", "Rich biodiversity"]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "Gaza Lake is a freshwater lake in Gaza Province, serving as a vital water source for surrounding communities.",
+      "facts": ["Freshwater lake", "Gaza Province", "Vital water source"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "Bangue Island is part of the Bazaruto Archipelago, known for its pristine beaches and as a nesting site for sea turtles.",
+      "facts": ["Bazaruto Archipelago", "Pristine beaches", "Sea turtle nesting"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "Nampula forests are crucial ecosystems, harboring diverse flora and fauna in the region.",
+      "facts": ["Crucial ecosystems", "Nampula", "Diverse flora and fauna"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "Songo Mountain is a prominent elevation in Tete Province, known for its rich biodiversity.",
+      "facts": ["Tete Province", "Rich biodiversity", "Prominent elevation"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "Lupata Gorge is a spectacular breakthrough of the Zambezi River through the mountains, famous for its scenic beauty.",
+      "facts": ["Zambezi River", "Spectacular breakthrough", "Scenic beauty"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "Macossa Forest is an important forest in Manica Province, home to diverse flora and fauna.",
+      "facts": ["Manica Province", "Diverse flora and fauna", "Important forest"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "Massingir Lake is a large reservoir fed by the Olifants River, important for irrigation and fishing.",
+      "facts": ["Large reservoir", "Olifants River", "Irrigation and fishing"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "Moamba Mountain in Maputo Province is known for its lush vegetation and diverse birdlife.",
+      "facts": ["Maputo Province", "Lush vegetation", "Diverse birdlife"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "Savane Lake is a freshwater lake in Sofala Province, serving as a vital water source for local communities.",
+      "facts": ["Freshwater lake", "Sofala Province", "Vital water source"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "The Chinde River is a distributary of the Zambezi River on the Indian Ocean, important for navigation and fishing.",
+      "facts": ["Zambezi distributary", "Indian Ocean", "Navigation and fishing"]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "Lupata Forest is a protected forest in Sofala Province, characterized by its rich biodiversity.",
+      "facts": ["Protected forest", "Sofala Province", "Rich biodiversity"]
+    }
+  ]
+}

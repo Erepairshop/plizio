@@ -1,0 +1,25 @@
+{
+  "lang": "hu",
+  "country": "Srilanka",
+  "files": [
+    "lib/visualLab/data/poiExtraSrilankaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSrilankaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalu-river-nature-v2",
+      "description": "Srí Lanka egyik leghosszabb folyója, amely Ratnapura környékéről ered és az Indiai-óceánba torkollik. Kulcsfontosságú szerepet játszik a környező mezőgazdasági területek vízellátásában.",
+      "facts": ["Hossza 144 km", "Ratnapura mellett ered", "Az Indiai-óceánba ömlik", "Jelentős rizstermő régió"]
+    },
+    {
+      "id": "walawe-river-nature-v2",
+      "description": "A sziget délkeleti részén folyó jelentős vízfolyás, amely a központi hegyvidékből ered. Útja során több víztározót is táplál, támogatva ezzel az öntözéses gazdálkodást.",
+      "facts": ["Hossza 138 km", "Samanala Wewa gát táplálja", "Délkeleti irányba folyik", "Uda Walawe nemzeti park határolja"]
+    },
+    {
+      "id": "bogawantalawa-valley-relief-v2",
+      "description": "A központi hegyvidéken elhelyezkedő völgy, amely híres magasföldi teaültetvényeiről és hűvös mikroklímájáról. A térség domborzata és magas csapadékmennyisége ideális a teatermesztéshez.",
+      "facts": ["Központi hegyvidéki terület", "Teaültetvényeiről ismert", "Magas csapadékú körzet", "Hűvös, párás éghajlat"]
+    }
+  ]
+}

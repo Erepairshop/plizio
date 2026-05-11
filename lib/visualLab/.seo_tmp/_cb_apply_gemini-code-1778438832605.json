@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "basse-peanut-fields-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Erdnussfelder um Basse Santa Su im Osten Gambias repräsentieren das wirtschaftliche Rückgrat der Upper River Region. Die Erdnuss (Arachis hypogaea), lokal als Groundnut bekannt, ist das wichtigste Exportgut des Landes und prägt seit der Kolonialzeit die Agrarstruktur. Die Felder erstrecken sich über die trockeneren Plateaus oberhalb des Gambia-Flusses, wo die sandigen Böden ideale Bedingungen für den Anbau bieten. Die Aussaat beginnt mit den ersten Regenfällen im Juni, während die Ernte in die Trockenzeit ab November fällt. Technisch gesehen basiert der Anbau in dieser Region noch weitgehend auf manueller Arbeit und dem Einsatz von Ochsenpflügen, was die landwirtschaftliche Produktivität begrenzt, aber eine hohe Beschäftigungsquote sichert. Ökonomisch ist der Erfolg der Ernte entscheidend für die Kaufkraft der ländlichen Bevölkerung und die Deviseneinnahmen des Staates. In den letzten Jahren haben Klimaschwankungen und unregelmäßige Niederschläge die Bauern vor große Herausforderungen gestellt, was zu verstärkten Investitionen in dürreresistente Sorten geführt hat. Die Felder sind zudem Teil eines komplexen sozialen Gefüges, in dem die Dorfgemeinschaften die Erntearbeit kollektiv organisieren. Nach der Ernte werden die Nüsse getrocknet und zu den Sammelstellen der Gambia Groundnut Corporation (GGC) transportiert, von wo aus sie ihren Weg auf den Weltmarkt finden.",
+        "hu": "A Basse Santa Su környéki földimogyoró-mezők Gambia keleti részén, az Upper River körzet gazdasági alapját jelentik. A földimogyoró (Arachis hypogaea) az ország legfontosabb exportcikke, amely a gyarmati idők óta meghatározza a mezőgazdasági szerkezetet. A mezők a Gambia-folyó feletti szárazabb fennsíkokon terülnek el, ahol a homokos talaj ideális feltételeket biztosít a termesztéshez. A vetés júniusban, az első esőkkel kezdődik, míg a betakarítás a novemberben kezdődő száraz évszakra esik. Technikai szempontból a termesztés ebben a régióban még mindig nagyrészt kézi munkán és ökrös ekék használatán alapul, ami bár korlátozza a hatékonyságot, magas foglalkoztatottságot biztosít. Gazdaságilag a termés sikere döntő fontosságú a vidéki lakosság vásárlóereje és az állam devizabevételei szempontjából. Az utóbbi években az éghajlatváltozás és a rendszertelen csapadék kihívás elé állította a gazdákat, ami a szárazságtűrő fajták felé való elmozdulást sürgeti. A mezők egy komplex szociális háló részét képezik, ahol a falusi közösségek kollektíven szervezik a munkát. A betakarítás után a mogyorót szárítják, majd a Gambia Groundnut Corporation (GGC) gyűjtőpontjaira szállítják, ahonnan a világpiacra kerül.",
+        "ro": "Câmpurile de arahide din jurul localității Basse Santa Su, în estul Gambiei, reprezintă coloana vertebrală economică a regiunii Upper River. Arahidele (Arachis hypogaea) constituie principalul produs de export al țării, modelând structura agrară încă din perioada colonială. Culturile se întind pe platourile mai uscate de deasupra râului Gambia, unde solurile nisipoase oferă condiții ideale pentru dezvoltarea rădăcinilor. Semănatul începe odată cu primele ploi din iunie, în timp ce recolta are loc în sezonul uscat, începând cu luna noiembrie. Din punct de vedere tehnic, agricultura din această zonă se bazează încă în mare măsură pe forța de muncă manuală și pe utilizarea plugurilor trase de boi, ceea ce menține o rată ridicată de ocupare în mediul rural. Economic, succesul recoltei este vital pentru puterea de cumpărare a populației locale și pentru veniturile în valută ale statului. În ultimii ani, fluctuațiile climatice și precipitațiile neregulate au forțat fermierii să adopte soiuri mai rezistente la secetă. Câmpurile fac parte dintr-un sistem social complex, unde comunitățile sătești organizează colectiv munca de recoltare. După recoltare, nucile sunt uscate și transportate la punctele de colectare ale Gambia Groundnut Corporation (GGC), de unde sunt exportate pe piața mondială.",
+        "en": "The peanut fields surrounding Basse Santa Su in eastern Gambia represent the economic backbone of the Upper River Region. Peanuts (Arachis hypogaea), locally known as groundnuts, are the country's primary export crop and have shaped the agricultural landscape since colonial times. The fields are situated on the drier plateaus above the Gambia River, where the sandy soil provides ideal conditions for growth. Sowing begins with the first rains in June, while the harvest takes place during the dry season starting in November. Technically, farming in this region remains largely reliant on manual labor and ox-drawn plows, which sustains high rural employment despite lower industrial efficiency. Economically, the success of the harvest is critical for the purchasing power of the rural population and the nation's foreign exchange earnings. In recent years, climate variability and erratic rainfall have challenged farmers, leading to increased investment in drought-resistant varieties. The fields are integral to the social fabric, with village communities often organizing collective labor during the peak harvest period. After being harvested, the nuts are dried and transported to Gambia Groundnut Corporation (GGC) depots for processing and international export."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigstes Anbaugebiet für Erdnüsse in der Upper River Region.",
+          "Erdnüsse machen über 60% der Agrarexporte Gambias aus.",
+          "Anbau findet auf sandigen Plateau-Böden statt.",
+          "Erntezeit korreliert mit dem Beginn der kühlen Trockenzeit.",
+          "Traditionelle Nutzung von Ochsenpflügen ist hier noch Standard.",
+          "Zentrum der lokalen Saatgutverteilung für ostgambische Bauern."
+        ],
+        "hu": [
+          "Az Upper River körzet legjelentősebb mogyorótermesztő vidéke.",
+          "A mogyoró Gambia exportbevételének több mint felét adja.",
+          "A homokos talaj optimális az Arachis hypogaea számára.",
+          "A betakarítás november és január között zajlik.",
+          "A földművelés döntően kézi erővel és állati vonóerővel történik.",
+          "A terményt a GGC állami vállalat vásárolja fel exportra."
+        ],
+        "ro": [
+          "Cea mai importantă zonă de producție a arahidelor din regiunea de est.",
+          "Arahidele reprezintă motorul principal al exporturilor Gambiei.",
+          "Solurile nisipoase de platou sunt esențiale pentru randamentul culturii.",
+          "Recoltarea se face manual pentru a evita deteriorarea nucilor.",
+          "Activitatea agricolă este pilonul central al economiei din Basse.",
+          "Sistemul de cultură depinde strict de ciclul ploilor sezoniere."
+        ],
+        "en": [
+          "Primary groundnut production zone in the Upper River Region.",
+          "Groundnuts account for a major portion of Gambia's export revenue.",
+          "Sandy plateau soils offer the best conditions for this specific crop.",
+          "Harvesting season typically occurs between November and February.",
+          "Reliance on traditional farming methods ensures high local employment.",
+          "The GGC manages the collection and shipping from this inland hub."
+        ]
+      }
+    },
+    {
+      "id": "sapu-rice-station-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Sapu Rice Research Station im Central River District ist das wichtigste agrarwissenschaftliche Zentrum Gambias für die Entwicklung des Reisanbaus. Geografisch liegt die Station in einer fruchtbaren Ebene am Südufer des Gambia-Flusses, die durch ein komplexes Bewässerungssystem direkt aus dem Fluss gespeist wird. Historisch wurde Sapu in der Kolonialzeit etabliert, um die Abhängigkeit von Reisimporten zu verringern und die Ernährungssicherheit des Landes zu erhöhen. Technisch konzentriert sich die Station auf die Züchtung und Erprobung von Hochertragssorten wie NERICA (New Rice for Africa), die sowohl gegen Schädlinge als auch gegen Trockenperioden resistent sind. Die Forschung umfasst Bodenanalysen, Wasserwirtschaft und die Ausbildung von Landwirten in modernen Anbautechniken. Ökonomisch ist Sapu der Motor für die Reisproduktion in den umliegenden Jahally-Pacharr-Ebenen, einem der größten Bewässerungsprojekte Westafrikas. Die Station arbeitet eng mit internationalen Organisationen wie dem Africa Rice Center zusammen. Durch die Bereitstellung von zertifiziertem Saatgut und technischem Know-how trägt Sapu maßgeblich dazu bei, die Produktivität der lokalen Kleinbauern zu steigern. Die Arbeit in Sapu ist ein entscheidender Faktor im Kampf gegen den Hunger und zur Förderung der ländlichen Entwicklung in Gambia.",
+        "hu": "A Sapu Rizskutatási Állomás a Central River körzetben Gambia legfontosabb agrár-tudományos központja, amely a rizstermesztés fejlesztésére szakosodott. Földrajzilag az állomás a Gambia-folyó déli partján fekvő termékeny síkságon található, ahol a folyóvízre alapozott komplex öntözőrendszer működik. Történelmileg Sapu-t a gyarmati időszakban hozták létre azzal a céllal, hogy csökkentsék a rizsimporttól való függőséget és javítsák az ország élelmezésbiztonságát. Technikai szempontból az állomás a nagy hozamú fajták, például a NERICA (New Rice for Africa) nemesítésére és tesztelésére összpontosít, amelyek ellenállóak a kártevőkkel és a szárazsággal szemben. A kutatás magában foglalja a talajelemzést, a vízgazdálkodást és a gazdák képzését a modern termesztési technikákra. Gazdaságilag Sapu a motorja a környező Jahally-Pacharr síkságok rizstermelésének, amely Nyugat-Afrika egyik legnagyobb öntözési projektje. Az állomás szorosan együttműködik olyan nemzetközi szervezetekkel, mint az Africa Rice Center. A minősített vetőmagok és a technikai tudás biztosításával Sapu jelentősen hozzájárul a helyi kisgazdák termelékenységének növeléséhez. Az itt végzett munka kulcsfontosságú a vidéki fejlődés és az ország önellátási törekvései szempontjából.",
+        "ro": "Stația de Cercetare a Orezului din Sapu, situată în districtul Central River, este principalul centru de științe agricole din Gambia dedicat dezvoltării culturii orezului. Geografic, stația se află într-o câmpie fertilă pe malul sudic al râului Gambia, beneficiind de un sistem complex de irigații care utilizează apele fluviului. Din punct de vedere istoric, Sapu a fost înființată în perioada colonială pentru a reduce dependența de importurile de orez și pentru a asigura securitatea alimentară a națiunii. Din punct de vedere tehnic, cercetătorii de aici se concentrează pe selecția și testarea soiurilor de înaltă productivitate, precum NERICA (New Rice for Africa), rezistente la dăunători și la perioade de secetă. Activitatea include analiza solului, gestionarea resurselor de apă și instruirea fermierilor în tehnici moderne de cultivare. Economic, Sapu este motorul producției de orez din câmpiile Jahally-Pacharr, unul dintre cele mai mari proiecte de irigații din Africa de Vest. Stația colaborează strâns cu organizații internaționale precum Africa Rice Center. Prin furnizarea de semințe certificate și expertiză tehnică, Sapu contribuie major la creșterea randamentului micilor producători locali, fiind un element cheie în strategia națională de dezvoltare rurală.",
+        "en": "The Sapu Rice Research Station in the Central River District is The Gambia's premier agricultural science hub for developing rice cultivation. Geographically, the station is situated on a fertile plain on the south bank of the Gambia River, utilizing an extensive irrigation system fed directly by the river. Historically, Sapu was established during the colonial era to reduce the nation's reliance on rice imports and enhance food security. Technically, the station focuses on breeding and testing high-yield varieties such as NERICA (New Rice for Africa), which are tailored for pest resistance and drought tolerance. Research at Sapu encompasses soil analysis, water management, and the training of local farmers in modern agronomic techniques. Economically, Sapu drives productivity in the surrounding Jahally-Pacharr swamps, one of West Africa's most significant irrigation schemes. The station works in partnership with international bodies like the Africa Rice Center to implement sustainable farming practices. By providing certified seeds and technical expertise, Sapu significantly boosts the yields of smallholder farmers, making it a cornerstone in the fight against food insecurity and for rural economic advancement."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentrales Forschungszentrum für die Entwicklung der NERICA-Reissorten.",
+          "Gegründet zur Förderung der nationalen Ernährungssicherheit.",
+          "Nutzt Wasser des Gambia-Flusses für großflächige Bewässerungstests.",
+          "Befindet sich in der Nähe des wichtigen Anbaugebiets Jahally-Pacharr.",
+          "Bietet Ausbildungsprogramme für gambische Landwirtschaftsberater an.",
+          "Wichtiger Kooperationspartner des internationalen Africa Rice Centers."
+        ],
+        "hu": [
+          "A NERICA rizsfajták nemesítésének fő gambiai központja.",
+          "A gyarmati idők óta működő, stratégiai fontosságú kutatóállomás.",
+          "A Gambia-folyó vizét használják a kísérleti öntözéses földeken.",
+          "Kiemelt szerepet játszik az ország önellátási programjában.",
+          "Nemzetközi agrárkutatókkal együttműködésben működik.",
+          "Vetőmag-elosztó központként is szolgál a helyi gazdák számára."
+        ],
+        "ro": [
+          "Principalul centru de cercetare pentru soiurile de orez NERICA.",
+          "Fondat pentru a crește gradul de autosuficiență alimentară a Gambiei.",
+          "Utilizează irigații avansate din apele fluviului Gambia.",
+          "Colaborează direct cu proiectul major Jahally-Pacharr.",
+          "Instruiește fermierii în tehnici de combatere a dăunătorilor și eroziunii.",
+          "Sursă primară de semințe de înaltă calitate pentru regiunea centrală."
+        ],
+        "en": [
+          "Central research hub for the development of NERICA rice varieties.",
+          "Established to promote national food self-sufficiency.",
+          "Uses Gambia River water for large-scale irrigation research.",
+          "Located near the significant Jahally-Pacharr agricultural project.",
+          "Provides training for Gambian extension workers and farmers.",
+          "A vital partner of the international Africa Rice Center."
+        ]
+      }
+    },
+    {
+      "id": "kuntaur-rice-mill-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Reismühle von Kuntaur ist ein industrieller Knotenpunkt im Central River District und eng mit der Geschichte des Reisanbaus in Gambia verknüpft. Kuntaur war historisch ein bedeutender Flusshafen für den Export von Erdnüssen, doch mit dem Ausbau der Bewässerungsprojekte in den 1980er Jahren wurde die Stadt zu einem Zentrum für die Reisverarbeitung. Die Mühle dient dazu, den Rohreis (Paddy) aus den umliegenden Jahally-Pacharr-Ebenen zu verarbeiten, zu entspelzen und für den nationalen Markt zu verpacken. Technisch gesehen ist die Anlage ein Beispiel für industrielle Infrastruktur im ländlichen Raum, die darauf ausgelegt ist, große Mengen Getreide effizient zu handhaben. Ökonomisch ist die Mühle der wichtigste Arbeitgeber in Kuntaur und sichert die Wertschöpfung innerhalb des Landes, anstatt Rohreis exportieren zu müssen. Geografisch profitiert der Standort von seiner Lage am tief schiffbaren Teil des Gambia-Flusses, was den Transport per Schiff nach Banjul ermöglicht. In den letzten Jahren wurden Anstrengungen unternommen, die Maschinen zu modernisieren, um die Qualität des Endprodukts zu verbessern und mit Importware aus Asien konkurrieren zu können. Die Mühle ist nicht nur ein Produktionsstandort, sondern auch ein Symbol für Gambias Bestreben, durch Industrialisierung der Landwirtschaft die Ernährungssicherheit zu garantieren.",
+        "hu": "A kuntauri rizsmalom a Central River körzet egyik legfontosabb ipari létesítménye, amely szorosan kapcsolódik Gambia rizstermesztési történetéhez. Kuntaur történelmileg jelentős folyami kikötő volt a mogyoróexport számára, de az 1980-as évek öntözési projektjeinek bővülésével a város a rizsfeldolgozás központjává vált. A malom feladata a környező Jahally-Pacharr síkságokról származó nyers rizs (paddy) feldolgozása, hantolása és a nemzeti piacra történő csomagolása. Technikai szempontból a létesítmény a vidéki ipari infrastruktúra példája, amelyet nagy mennyiségű gabona hatékony kezelésére terveztek. Gazdaságilag a malom Kuntaur legfontosabb munkaadója, és biztosítja, hogy a hozzáadott érték az országon belül maradjon ahelyett, hogy nyersanyagként exportálnák a rizst. Földrajzilag a helyszín profitál a Gambia-folyó mélyen hajózható szakaszán elfoglalt helyzetéből, ami lehetővé teszi a hajóval történő szállítást Banjul felé. Az utóbbi években erőfeszítéseket tettek a géppark modernizálására, hogy javítsák a végtermék minőségét és versenyképesek maradjanak az ázsiai importáruval szemben. A malom nemcsak termelési helyszín, hanem Gambia mezőgazdasági iparosítási törekvéseinek szimbóluma is.",
+        "ro": "Moara de orez din Kuntaur este un nod industrial crucial în districtul Central River, fiind strâns legată de istoria culturii orezului în Gambia. Kuntaur a fost istoric un port fluvial major pentru exportul de arahide, însă odată cu extinderea proiectelor de irigații în anii '80, orașul a devenit centrul prelucrării orezului. Moara are rolul de a procesa orezul brut (paddy) provenit din câmpiile Jahally-Pacharr, ocupându-se de decorticare și ambalare pentru piața națională. Din punct de vedere tehnic, instalația reprezintă un exemplu de infrastructură industrială rurală, capabilă să gestioneze volume mari de cereale. Economic, moara este cel mai mare angajator din Kuntaur, asigurând păstrarea valorii adăugate în interiorul țării. Geografic, locația beneficiază de accesul la porțiunea navigabilă a râului Gambia, facilitând transportul barjat către capitala Banjul. În ultimii ani, s-au depus eforturi pentru modernizarea utilajelor în scopul îmbunătățirii calității produsului finit și creșterii competitivității în fața importurilor asiatice. Moara nu este doar o unitate de producție, ci și un simbol al eforturilor Gambiei de a atinge securitatea alimentară prin mecanizarea și industrializarea sectorului agricol.",
+        "en": "The Kuntaur Rice Mill is a vital industrial facility in the Central River District, deeply connected to The Gambia's rice production history. Historically, Kuntaur was a significant river port for groundnut exports, but with the expansion of irrigation schemes in the 1980s, it evolved into a center for rice processing. The mill's primary function is to process raw paddy rice from the surrounding Jahally-Pacharr swamps, handling de-husking and packaging for the domestic market. Technically, the plant serves as a model of rural industrial infrastructure, designed to handle large volumes of grain efficiently. Economically, the mill is Kuntaur's most significant employer and ensures that the value-added processing remains within the country rather than exporting raw materials. Geographically, it benefits from its location on the deep navigable section of the Gambia River, allowing for cost-effective barge transport to Banjul. Recent modernization efforts have focused on upgrading machinery to improve grain quality, helping local rice compete with Asian imports. The mill stands as a symbol of Gambia's commitment to food sovereignty through the industrialization of its agricultural sector."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentraler Verarbeitungsstandort für Reis aus dem Jahally-Pacharr-Projekt.",
+          "Wichtigster industrieller Arbeitgeber in der Region Kuntaur.",
+          "Verarbeitet Rohreis (Paddy) zu marktfähigem weißem Reis.",
+          "Nutzt den Gambia-Fluss für den logistischen Transport zur Küste.",
+          "Unterstützt die nationale Strategie zur Reduzierung von Reisimporten.",
+          "Wurde im Rahmen großer internationaler Agrarprojekte modernisiert."
+        ],
+        "hu": [
+          "A Jahally-Pacharr öntözéses projekt fő feldolgozó bázisa.",
+          "Kuntaur városának és környékének legfontosabb ipari munkaadója.",
+          "A nyers rizs hántolására és osztályozására szakosodott.",
+          "Stratégiai elhelyezkedése lehetővé teszi a vízi szállítást Banjulba.",
+          "Kulcsszerepet játszik az országos rizs-önellátási programban.",
+          "A malom kapacitása meghatározó a kelet-gambiai rizskereskedelemben."
+        ],
+        "ro": [
+          "Punct central de procesare pentru recolta de orez din centrul țării.",
+          "Cea mai mare unitate industrială din districtul Central River.",
+          "Specializată în decorticarea și condiționarea orezului local.",
+          "Locația portuară permite transportul naval ieftin către Banjul.",
+          "Contribuie la scăderea prețului orezului pe piața internă.",
+          "Instalația a fost modernizată recent cu sprijin internațional."
+        ],
+        "en": [
+          "Main processing hub for rice from the Jahally-Pacharr scheme.",
+          "The largest industrial employer in the Kuntaur area.",
+          "Specializes in the de-husking and sorting of raw paddy rice.",
+          "Strategically located for river-based logistics to the capital.",
+          "Essential for reducing the nation's dependence on imported rice.",
+          "A key component of Gambia's agricultural industrialization strategy."
+        ]
+      }
+    },
+    {
+      "id": "basse-groundnut-bay-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Groundnut Loading Bay in Basse Santa Su ist einer der wichtigsten logistischen Knotenpunkte im Osten Gambias für den Export von Erdnüssen. Geografisch markiert sie den Endpunkt der großflächigen Binnenschifffahrt auf dem Gambia-Fluss. Hier werden die Erdnussernten der gesamten Upper River Region gesammelt, gewogen und auf große Flusskähne (Bargen) verladen. Historisch war dieser Ort das Tor zum Weltmarkt; bis heute wird ein Großteil der Ernte per Schiff flussabwärts zu den Verarbeitungsanlagen in Denton Bridge oder direkt zum Hafen von Banjul transportiert. Technisch ist die Verladestation auf den Umschlag von Massengütern spezialisiert, wobei die Infrastruktur den extremen saisonalen Schwankungen des Wasserstandes angepasst ist. Ökonomisch ist die Verladestelle lebensnotwendig für die lokalen Bauern, da die Gambia Groundnut Corporation (GGC) hier den staatlich garantierten Aufkauf organisiert. Die Aktivität an der Loading Bay ist ein Indikator für den wirtschaftlichen Erfolg des Erntejahres. Während der Handelssaison (Trade Season) verwandelt sich das Ufer in einen hochfrequentierten Umschlagplatz, an dem LKWs aus dem gesamten Hinterland eintreffen. Die Existenz dieser Bucht unterstreicht die anhaltende Bedeutung des Flusses als kostengünstiger Transportweg in einer Region mit begrenzter Straßeninfrastruktur.",
+        "hu": "A Basse Santa Su-i földimogyoró-rakodóöböl Gambia keleti részének egyik legfontosabb logisztikai csomópontja. Földrajzilag ez a pont jelenti a Gambia-folyó nagyüzemi belvízi hajózásának végpontját. Itt gyűjtik össze, mérik le és rakodják nagy folyami uszályokra az egész Upper River körzet mogyorótermését. Történelmileg ez a helyszín volt a kapu a világpiac felé; a termés nagy részét ma is hajóval szállítják a folyón lefelé a Denton Bridge-nél lévő feldolgozóüzemekbe vagy közvetlenül Banjul kikötőjébe. Technikai szempontból a rakodóállomás az ömlesztett áruk kezelésére szakosodott, az infrastruktúra pedig alkalmazkodik a vízszint szélsőséges szezonális ingadozásaihoz. Gazdaságilag a rakodóhely létfontosságú a helyi gazdák számára, mivel a Gambia Groundnut Corporation (GGC) itt szervezi meg az államilag garantált felvásárlást. A rakodóöböl forgalma pontos mutatója az adott mezőgazdasági év sikerének. A kereskedelmi szezonban a folyópart nyüzsgő logisztikai központtá válik, ahová a hátország minden részéből érkeznek a teherautók. Az öböl létezése hangsúlyozza a folyó tartós jelentőségét, mint költséghatékony szállítási útvonalat egy korlátozott közúti infrastruktúrával rendelkező régióban.",
+        "ro": "Golful de încărcare a arahidelor din Basse Santa Su este unul dintre cele mai importante noduri logistice din estul Gambiei. Geografic, acesta marchează limita navigabilității comerciale de mare tonaj pe râul Gambia. Aici se colectează, se cântărește și se încarcă pe barje recolta de arahide din întreaga regiune Upper River. Din punct de vedere istoric, acest punct a servit ca poartă de acces către piețele internaționale; până în prezent, o mare parte din recoltă este transportată pe apă către fabricile de procesare din Denton Bridge sau direct în portul Banjul. Din punct de vedere tehnic, stația este echipată pentru manipularea mărfurilor în vrac, infrastructura fiind adaptată variațiilor sezoniere ale nivelului râului. Economic, acest punct de încărcare este vital pentru fermierii locali, fiind locul unde Gambia Groundnut Corporation (GGC) organizează achizițiile garantate de stat. Activitatea din golf este un barometru al succesului agricol anual. În timpul sezonului de tranzacționare, malul râului devine un centru logistic aglomerat, unde sosesc camioane din tot hinterlandul. Existența acestui golf subliniază importanța continuă a fluviului ca rută de transport eficientă într-o regiune unde infrastructura rutieră rămâne limitată.",
+        "en": "The Groundnut Loading Bay in Basse Santa Su is one of eastern Gambia's most critical logistical hubs for the groundnut trade. Geographically, it marks the upriver limit for large-scale commercial navigation on the Gambia River. This facility serves as the collection point where harvests from the entire Upper River Region are weighed and loaded onto river barges. Historically, this site was the gateway to the global market; to this day, a significant portion of the harvest is transported downstream to processing plants at Denton Bridge or directly to the Port of Banjul. Technically, the loading station is specialized for bulk handling, with infrastructure designed to accommodate the river's seasonal water level fluctuations. Economically, the bay is indispensable for local farmers, as the Gambia Groundnut Corporation (GGC) uses it to manage state-guaranteed buy-backs. The level of activity at the loading bay serves as a key indicator of the year's agricultural success. During the 'trade season,' the riverfront transforms into a high-traffic transit zone with trucks arriving from throughout the interior. The bay’s operation underscores the river's enduring role as a cost-effective transport artery in a region with limited road connectivity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Endpunkt der kommerziellen Schifffahrt für schwere Bargen auf dem Gambia-Fluss.",
+          "Zentraler Sammelplatz für Erdnüsse der gesamten Upper River Region.",
+          "Direkte logistische Verbindung zum Tiefseehafen von Banjul.",
+          "Wird von der staatlichen Gambia Groundnut Corporation (GGC) betrieben.",
+          "Infrastruktur ist speziell an die Gezeiten und Wasserstände angepasst.",
+          "Wichtigster Umschlagplatz für LKWs aus dem Osten Gambias und dem Senegal."
+        ],
+        "hu": [
+          "A Gambia-folyó kereskedelmi hajózhatóságának legkeletibb pontja.",
+          "Az Upper River régió összes mogyorótermése itt fut össze.",
+          "Az uszályos szállítás jelentősen olcsóbb, mint a közúti fuvarozás.",
+          "A GGC állami vállalat fő logisztikai bázisa a szárazföld belsejében.",
+          "A rakodás főszezonja decembertől márciusig tart.",
+          "Fontos szerepet játszik a szomszédos szenegáli régiók tranzitforgalmában is."
+        ],
+        "ro": [
+          "Limita superioară a navigației barjate pe fluviul Gambia.",
+          "Punct de colectare strategic pentru micii producători de arahide.",
+          "Facilitează transportul în vrac către centrele de decorticare din vest.",
+          "Administrat de GGC pentru a reglementa piața națională a arahidelor.",
+          "Debarcaderul este vital pentru economia orașului Basse Santa Su.",
+          "Eficiența transportului fluvial reduce costurile finale de export."
+        ],
+        "en": [
+          "The final upstream port for commercial river barge navigation.",
+          "Central collection point for groundnuts from the Upper River Region.",
+          "Provides a direct water link to processing facilities near Banjul.",
+          "Operated by the GGC to manage the national groundnut purchase.",
+          "Designed to handle bulk grain loading during the dry season.",
+          "Crucial for maintaining competitive transport costs for Gambian exports."
+        ]
+      }
+    },
+    {
+      "id": "tanji-village-museum-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tanji Village Museum ist ein bedeutendes privates Ökomuseum an der Küste Gambias, das sich der Bewahrung des kulturellen Erbes und der Naturgeschichte widmet. Es wurde gegründet, um die traditionellen Lebensweisen der verschiedenen ethnischen Gruppen Gambias, wie der Mandinka, Wolof und Jola, für zukünftige Generationen zu dokumentieren. Das Museum besteht aus einem Komplex traditionell nachgebauter Gehöfte, die Einblicke in die Architektur und soziale Organisation der ländlichen Gemeinschaften bieten. Technisch gesehen dient das Gelände auch als botanischer Garten, in dem einheimische Pflanzen und Bäume mit ihrer jeweiligen medizinischen oder praktischen Bedeutung für die lokale Bevölkerung beschildert sind. Ökonomisch stützt sich das Museum auf den Kulturtourismus und bietet lokalen Handwerkern eine Plattform, um traditionelle Techniken wie das Weben oder Töpfern zu demonstrieren. Ein besonderer Schwerpunkt liegt auf der Darstellung der vorkolonialen Geschichte und der traditionellen Handwerkskunst. Das Museum beherbergt zudem eine Sammlung von Gebrauchsgegenständen, Musikinstrumenten und Werkzeugen, die im modernen Alltag zunehmend verschwinden. Ökologisch setzt sich das Projekt für den Schutz der lokalen Fauna ein, insbesondere durch Informationen über die Vogelwelt der angrenzenden Küstenregion. Es fungiert als Bildungszentrum für gambische Schulkinder und ist ein wichtiges Refugium für das immaterielle Kulturerbe des Landes.",
+        "hu": "A Tanji Village Museum egy jelentős magánkézben lévő ökomúzeum Gambia partvidékén, amely a kulturális örökség és a természetrajz megőrzésére hivatott. A múzeumot azzal a céllal hozták létre, hogy dokumentálják Gambia különböző etnikai csoportjainak – mint a mandinka, volof és jola népek – hagyományos életmódját. A múzeumi komplexum hagyományos módon épült lakóházakból (compound) áll, amelyek bemutatják a vidéki közösségek építészetét és társadalmi felépítését. Technikai szempontból a terület botanikus kertként is funkcionál, ahol az őshonos növényeket és fákat gyógyászati vagy gyakorlati jelentőségük szerint táblázták fel. Gazdaságilag a múzeum a kulturális turizmusra támaszkodik, és lehetőséget biztosít a helyi kézműveseknek, hogy bemutassák a hagyományos szövést vagy fazekasságot. Különös hangsúlyt fektetnek a gyarmatosítás előtti történelem és a mesterségek bemutatására. A gyűjteményben számos használati tárgy, hangszer és szerszám található, amelyek a modern mindennapokból egyre inkább eltűnnek. Ökológiai szempontból a projekt elkötelezett a helyi élővilág védelme mellett, különösen a környező tengerparti madárvilág népszerűsítésével. Oktatási központként is szolgál a gambiai iskolások számára, és az ország szellemi örökségének egyik legfontosabb őrzőhelye.",
+        "ro": "Muzeul Satului din Tanji este un muzeu ecologic privat de referință situat pe coasta Gambiei, dedicat conservării patrimoniului cultural și istoriei naturale. Acesta a fost fondat pentru a documenta și prezenta modurile de viață tradiționale ale principalelor grupuri etnice, precum Mandinka, Wolof și Jola. Complexul muzeal este format din gospodării reconstruite fidel după modele tradiționale, oferind o perspectivă clară asupra arhitecturii și organizării sociale rurale. Din punct de vedere tehnic, situl include o grădină botanică unde plantele indigene sunt etichetate conform utilizărilor lor medicinale și practice în cultura locală. Economic, muzeul susține turismul cultural și oferă o platformă pentru artizanii locali care demonstrează tehnici vechi de țesut și olărit. Un accent deosebit este pus pe istoria precolonială și pe conservarea instrumentelor muzicale și a uneltelor care dispar treptat din uzul cotidian. Ecologic, proiectul promovează protecția faunei locale, oferind informații detaliate despre speciile de păsări din regiunea costieră adiacentă. Muzeul funcționează ca un centru educațional vital pentru școlile din Gambia, fiind un refugiu esențial pentru patrimoniul imaterial al națiunii.",
+        "en": "The Tanji Village Museum is a significant private eco-museum on the Gambian coast dedicated to preserving cultural heritage and natural history. Established to document the traditional lifestyles of Gambia's diverse ethnic groups, including the Mandinka, Wolof, and Jola, it serves as a bridge between the past and future generations. The museum complex consists of authentically reconstructed traditional homesteads that showcase the architecture and social hierarchy of rural communities. Technically, the grounds also function as an ethnobotanical garden, where indigenous plants and trees are labeled with their medicinal and practical uses in local culture. Economically, the museum promotes cultural tourism and provides a venue for local artisans to demonstrate traditional crafts such as weaving and pottery. A major focus is placed on pre-colonial history and the preservation of artifacts, musical instruments, and tools that are becoming rare in modern daily life. Ecologically, the project advocates for the protection of local wildlife, particularly bird species native to the coastal region. It serves as an essential educational resource for Gambian students and remains a premier site for the safeguarding of the nation's intangible cultural heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstes privates Freilichtmuseum in Gambia zur Völkerkunde.",
+          "Zeigt originalgetreue Nachbauten von Mandinka- und Jola-Hütten.",
+          "Beherbergt einen botanischen Garten für traditionelle Heilpflanzen.",
+          "Präsentiert eine umfangreiche Sammlung westafrikanischer Musikinstrumente.",
+          "Wichtiges Bildungszentrum für die Vermittlung vorkolonialer Geschichte.",
+          "Fördert den Erhalt traditioneller Handwerkstechniken durch Vorführungen."
+        ],
+        "hu": [
+          "Gambia első magánkézben lévő néprajzi szabadtéri múzeuma.",
+          "Hagyományos mandinka és jola lakóházak hű másolatait mutatja be.",
+          "A kertben a helyi gyógyászatban használt növények láthatóak.",
+          "Gazdag gyűjteménnyel rendelkezik afrikai ütős és húros hangszerekből.",
+          "Oktatási programokat szerveznek a gyarmatosítás előtti korról.",
+          "A látogatók kipróbálhatják a hagyományos szövést és fazekasságot."
+        ],
+        "ro": [
+          "Primul muzeu de tip eco-sat privat din Gambia.",
+          "Reconstrucție autentică a arhitecturii tradiționale multietnice.",
+          "Grădina botanică explică medicina tradițională pe bază de plante.",
+          "Colecția include instrumente rare, precum kora și diverse tobe.",
+          "Centru recunoscut pentru păstrarea istoriei orale și a tradițiilor.",
+          "Susține artizanii locali prin ateliere deschise de meșteșuguri."
+        ],
+        "en": [
+          "The first private ethnographic open-air museum in The Gambia.",
+          "Features authentic reconstructions of Mandinka and Jola dwellings.",
+          "Includes an ethnobotanical garden focused on traditional healing.",
+          "Displays a comprehensive collection of West African musical instruments.",
+          "Functions as a primary educational site for pre-colonial history.",
+          "Promotes the survival of traditional crafts through live demonstrations."
+        ]
+      }
+    }
+  ]
+}

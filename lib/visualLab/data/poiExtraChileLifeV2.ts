@@ -139,9 +139,7 @@ export const poiExtraChileLifeV2: POI[] = [
         "Jährliche Besuchermagnet mit weit über einer Million Gästen.",
         "Vielseitiges Angebot an Fahrgeschäften, das Familien aus dem ganzen Land begeistert."
       ],
-      hu: [
-        "1978. január 26-án nyílt meg",
-        "Több mint 40 attrakció várja a látogatóket", "Évente több mint 1,1 millió ember látogat el ide", "A parkot hamarosan egy új, nagyobb helyszínre, San Bernardo-ba költöztetik"],
+      hu: ["Több mint 40 attrakció várja a látogatóket", "Évente több mint 1,1 millió ember látogat el ide", "A parkot hamarosan egy új, nagyobb helyszínre, San Bernardo-ba költöztetik"],
       ro: [
         "Cel mai mare parc de distracții din țară, cu o tradiție de peste 45 de ani.",
         "Situat strategic în Parcul O'Higgins din Santiago.",
@@ -389,12 +387,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: "The Elqui Valley is a fertile oasis on the edge of the Atacama Desert. Known for its papaya and grape cultivation, it is the heart of Pisco production in Chile. With over 300 clear days a year, it is also a place of extraordinary meteorological clarity, making it a major center for astronomical observation and a scenic uniqueness. Geography K7 — Desert agriculture and astronomy."
     },
     factsAdvanced: {
-      de: [
-        "Fruchtbare Oase am Rande der Atacama-Wüste.",
-        "Das Zentrum der Pisco-Produktion in Chile.",
-        "Berühmt für die meteorologische Klarheit und astronomische Beobachtungen.",
-        "Bekannt für den Anbau von Papayas und qualitativ hochwertigen Trauben."
-      ],
+      de: ["Fruchtbare Oase am Rande der Atacama-Wüste.", "Berühmt für die meteorologische Klarheit und astronomische Beobachtungen.", "Bekannt für den Anbau von Papayas und qualitativ hochwertigen Trauben."],
       hu: [
         "A völgyben több mint 300 napon át teljesen tiszta az égbolt",
         "Itt található a Pisco Elqui falu, az ital névadója", "Gabriela Mistral költőnő szülőhelye", "Számos alternatív gyógyászati és spirituális központ működik itt"],
@@ -725,12 +718,7 @@ export const poiExtraChileLifeV2: POI[] = [
         "Pădurile de Araucaria sunt monumente naturale naționale.",
         "Oferă habitat critic pentru condorul andin, cel mai mare pasăre zburătoare."
       ],
-      en: [
-        "Spectacular landscape shaped by Araucaria forests and Llaima Volcano.",
-        "Critical habitat for a variety of specialized mountain animal species.",
-        "International fame as a filming location for the BBC documentary 'Walking with Dinosaurs'.",
-        "Under official protection as a national park since 1950."
-      ]
+      en: ["Spectacular landscape shaped by Araucaria forests and Llaima Volcano.", "Critical habitat for a variety of specialized mountain animal species.", "Under official protection as a national park since 1950."]
     },
     facts: {
       de: [
@@ -1094,12 +1082,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: "Alberto de Agostini National Park is located at the 'end of the world' in Tierra del Fuego and is a biosphere reserve of particular ecological relevance. Named after explorer Alberto Maria De Agostini, it protects the deep fjords of the Darwin Cordillera. The marine ecosystem is home to a variety of species, including leopard seals, dolphins, and humpback whales, making the reserve a hub for marine conservation. Geography K8 — Subantarctic ecosystems and coastal geology."
     },
     factsAdvanced: {
-      de: [
-        "Wichtige Biosphärenreservat-Stätte in Feuerland ('Ende der Welt').",
-        "Schützt die beeindruckenden Fjorde der Darwin-Kordillere.",
-        "Lebensraum für marine Arten wie Leopardenrobben, Delfine und Buckelwale.",
-        "Benannt nach dem Entdecker und Missionar Alberto Maria De Agostini."
-      ],
+      de: ["Wichtige Biosphärenreservat-Stätte in Feuerland ('Ende der Welt').", "Schützt die beeindruckenden Fjorde der Darwin-Kordillere.", "Benannt nach dem Entdecker und Missionar Alberto Maria De Agostini."],
       hu: [
         "Itt található a híres 'Gleccserek útja' (Avenida de los Glaciares)",
         "A park része a Darwin-hegység, Chile egyik legmagasabb déli hegyvonulata", "Csak hajóval közelíthető meg Punta Arenasból vagy Puerto Williamsből", "Itt él a ritka dél-amerikai tengeri vidra (chungungo)"],
@@ -1109,12 +1092,7 @@ export const poiExtraChileLifeV2: POI[] = [
         "Accesibil exclusiv pe cale maritimă din Punta Arenas sau Puerto Williams.",
         "Rezervație a Biosferei UNESCO pentru protecția biodiversității antarctice."
       ],
-      en: [
-        "Important biosphere reserve in Tierra del Fuego ('end of the world').",
-        "Protects the impressive fjords of the Darwin Cordillera.",
-        "Habitat for marine species like leopard seals, dolphins, and humpback whales.",
-        "Named after the explorer and missionary Alberto Maria De Agostini."
-      ]
+      en: ["Important biosphere reserve in Tierra del Fuego ('end of the world').", "Protects the impressive fjords of the Darwin Cordillera.", "Named after the explorer and missionary Alberto Maria De Agostini."]
     },
     facts: {
       de: [
@@ -1414,12 +1392,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: "Aconcagua Valley is a sun-drenched paradise right at the foot of the Andes. Irrigation from the meltwater of the majestic Aconcagua creates optimal conditions for both excellent viticulture and table fruit. With its hot summer days and cool nights, the valley is world-famous for high-quality Cabernet Sauvignons and Syrahs, which owe their complex aromatics to these climatic contrasts. Geography K7 — Mountain-fed irrigation and Mediterranean agriculture."
     },
     factsAdvanced: {
-      de: [
-        "Sonniges Tal am Andenfuß, bewässert durch Aconcagua-Schmelzwasser.",
-        "Optimale Anbaubedingungen für exzellentes Tafelobst und hochwertigen Wein.",
-        "Bekannt für einige der besten Cabernet Sauvignons und Syrahs Chiles.",
-        "Klimatische Dynamik durch heiße Tage und kühle Nächte."
-      ],
+      de: ["Sonniges Tal am Andenfuß, bewässert durch Aconcagua-Schmelzwasser.", "Optimale Anbaubedingungen für exzellentes Tafelobst und hochwertigen Wein.", "Klimatische Dynamik durch heiße Tage und kühle Nächte."],
       hu: [
         "Az Aconcagua-folyó vize teszi lehetővé a gazdálkodást ebben a száraz völgyben",
         "Itt található az Errázuriz borászat, a régió egyik legfontosabb termelője", "A völgy kulcsfontosságú útvonal az Argentínába tartó kereskedelemben", "Híres a 'Los Andes' nevű asztali szőlőjéről"],
@@ -1478,12 +1451,7 @@ export const poiExtraChileLifeV2: POI[] = [
       en: "Los Flamencos National Reserve in the Atacama salt desert is a vital sanctuary for the fragile biodiversity of this unique region. Divided into seven sectors, the park protects the breeding grounds of three flamingo species: Andean, Chilean, and James's flamingos. As an ecosystem of global significance, it demonstrates how highly specialized species can survive and thrive under extreme conditions. Geography K7 — Salt lake ecology and high-altitude wildlife."
     },
     factsAdvanced: {
-      de: [
-        "Einzigartiges Schutzgebiet im Atacama-Salzseebecken.",
-        "Schützt die sensiblen Brutgebiete von drei Flamingo-Arten.",
-        "Strukturiert in sieben separate Sektoren für den optimalen Schutz.",
-        "Beheimatet den Anden-, Chile- und James-Flamingo."
-      ],
+      de: ["Einzigartiges Schutzgebiet im Atacama-Salzseebecken.", "Schützt die sensiblen Brutgebiete von drei Flamingo-Arten.", "Strukturiert in sieben separate Sektoren für den optimalen Schutz."],
       hu: [
         "A Laguna Chaxa a legjobb hely a flamingók megfigyelésére",
         "A sós tavak felszínén vastag sókéreg alakul ki", "A rezervátum magassága 2300 és 4500 méter között mozog", "A terület része a nemzetközi jelentőségű vizes élőhelyeknek (Ramsari egyezmény)"],
@@ -1493,12 +1461,7 @@ export const poiExtraChileLifeV2: POI[] = [
         "Altitudinea în rezervație variază între 2.300 și 4.500 de metri.",
         "Parte a Convenției Ramsar pentru protecția zonelor umede internaționale."
       ],
-      en: [
-        "Unique sanctuary within the Atacama salt basin.",
-        "Safeguards the sensitive breeding areas of three flamingo species.",
-        "Structured into seven separate sectors for optimal protection.",
-        "Home to the Andean, Chilean, and James's flamingos."
-      ]
+      en: ["Unique sanctuary within the Atacama salt basin.", "Safeguards the sensitive breeding areas of three flamingo species.", "Structured into seven separate sectors for optimal protection."]
     },
     facts: {
       de: [

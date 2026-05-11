@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-bullen-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Fort Bullen, gelegen an der Barra Point an der Mündung des Gambia-Flusses, ist ein Monument von herausragender Bedeutung für die Geschichte der Abschaffung des Sklavenhandels. Es wurde 1826 von den Briten unter der Leitung von Commodore Bullen errichtet, um die Einfahrt in den Fluss zu kontrollieren und illegale Sklavenschiffe abzufangen, nachdem der Sklavenhandel im britischen Empire 1807 verboten worden war. Zusammen mit den Batterien in Banjul (Bathurst) bildete es eine strategische Zange, um den Schmuggel effektiv zu unterbinden. Die Architektur ist funktional und militärisch geprägt, bestehend aus massiven Erdwällen und Kanonenstellungen, die heute noch teilweise erhalten sind. Während des Zweiten Weltkriegs wurde das Fort erneut militärisch genutzt, als die Briten dort Flugabwehrkanonen aufstellten, um die Region vor möglichen Angriffen der Achsenmächte aus dem damals vom Vichy-Regime kontrollierten Senegal zu schützen. Heute gehört Fort Bullen zum UNESCO-Welterbe und dient als Museum, das die militärische Geschichte und die Bemühungen zur Beendigung des transatlantischen Menschenhandels dokumentiert. Es ist ein stilles Zeugnis für den Wandel von einem Ort der imperialen Machtausübung zu einem Mahnmal für die Menschenrechte.",
+        "hu": "A Fort Bullen a Barra-fokon, a Gambia-folyó torkolatánál található, és a rabszolga-kereskedelem eltörléséért folytatott küzdelem egyik legfontosabb műemléke. 1826-ban építették a britek Commodore Bullen irányítása alatt, hogy ellenőrizzék a folyó bejáratát és elfogják az illegális rabszolgahajókat, miután a rabszolga-kereskedelmet 1807-ben betiltották a Brit Birodalomban. A banjuli (akkori Bathurst) ágyúállásokkal együtt stratégiai zárat alkottak, amely hatékonyan akadályozta meg a csempészetet. Az erőd építészete funkcionális és katonai jellegű: masszív földművekből és ágyúállásokból áll, amelyek egy része ma is látható. A második világháború alatt az erődöt ismét katonai célokra használták, amikor a britek légvédelmi ágyúkat telepítettek ide, hogy megvédjék a régiót a Vichy-kormány ellenőrzése alatt álló Szenegál felől érkező esetleges támadásoktól. Ma a Fort Bullen az UNESCO Világörökség része, és múzeumként működik, amely bemutatja a katonai történelmet és az atlanti emberkereskedelem felszámolására tett erőfeszítéseket. Ez a helyszín néma tanúja annak a folyamatnak, ahogy egy birodalmi hatalmi bázis az emberi jogokért vívott harc mementójává vált.",
+        "ro": "Fort Bullen, situat la Barra Point la gura de vărsare a râului Gambia, este un monument de o importanță excepțională pentru istoria abolirii comerțului cu sclavi. A fost construit în 1826 de către britanici sub conducerea comodorului Bullen, cu scopul de a controla intrarea în râu și de a intercepta navele ilegale de sclavi, după ce traficul de persoane fusese interzis în Imperiul Britanic în 1807. Împreună cu bateriile de artilerie din Banjul (Bathurst), forma o barieră strategică pentru a preveni eficient contrabanda. Arhitectura este funcțională și militară, constând în terasamente masive și amplasamente pentru tunuri, care sunt parțial conservate și astăzi. În timpul celui de-al Doilea Război Mondial, fortul a fost reutilizat militar, britanicii instalând acolo tunuri antiaeriene pentru a proteja regiunea de posibile atacuri ale Axei venite din Senegalul controlat de regimul de la Vichy. Astăzi, Fort Bullen face parte din Patrimoniul Mondial UNESCO și servește ca muzeu care documentează istoria militară și eforturile de a pune capăt comerțului transatlantic de ființe umane. Este o mărturie tăcută a transformării dintr-un loc de exercitare a puterii imperiale într-un monument dedicat drepturilor omului.",
+        "en": "Fort Bullen, located at Barra Point on the northern bank of the Gambia River mouth, is a site of immense historical significance regarding the abolition of the slave trade. Established in 1826 by the British under Commodore Bullen, its primary mission was to police the river and intercept illegal slaving vessels following the 1807 British ban on the trade. In conjunction with the naval batteries across the water in Banjul, Fort Bullen created a strategic bottleneck that effectively curtailed the shipment of captives from the river's interior. The architecture is strictly utilitarian, featuring thick defensive walls and circular bastions for artillery. The fort saw a second period of active military service during World War II, when British forces installed anti-aircraft batteries to defend the strategic waterway against potential threats from Vichy-controlled Senegal. Currently a UNESCO World Heritage site, the fort houses a museum that educates visitors on Gambian military history and the logistical challenges of enforcing abolition. It stands as a powerful symbol of the transition from colonial exploitation to the global enforcement of humanitarian principles."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut 1826 zur Bekämpfung des illegalen Sklavenhandels.",
+          "Teil des UNESCO-Welterbes 'Kunta Kinteh Island and Related Sites'.",
+          "Einzige britische Festung am Nordufer des Gambia-Flusses.",
+          "Diente im Zweiten Weltkrieg als Luftabwehrstellung.",
+          "Benannt nach Commodore Charles Bullen von der Royal Navy.",
+          "Beherbergt Ausstellungen über die Geschichte der Barra-Kriege."
+        ],
+        "hu": [
+          "1826-ban épült az illegális rabszolga-kereskedelem visszaszorítására.",
+          "Az UNESCO Világörökség része a Kunta Kinteh-szigethez kapcsolódóan.",
+          "Az egyetlen brit erőd a Gambia-folyó északi partján.",
+          "Légvédelmi bázisként szolgált a második világháború idején.",
+          "Nevét Charles Bullen komodorról, a brit flotta parancsnokáról kapta.",
+          "Kiállításokat tartalmaz a Barra-háborúk történetéről."
+        ],
+        "ro": [
+          "Construit în 1826 pentru a combate comerțul ilegal cu sclavi.",
+          "Parte a Patrimoniului Mondial UNESCO din anul 2003.",
+          "Singura fortăreață britanică de pe malul de nord al râului Gambia.",
+          "A servit ca poziție antiaeriană în timpul celui de-al Doilea Război Mondial.",
+          "Numit după comodorul Charles Bullen din cadrul Royal Navy.",
+          "Găzduiește expoziții despre istoria conflictelor locale din Barra."
+        ],
+        "en": [
+          "Established in 1826 specifically to enforce anti-slavery laws.",
+          "Inscribed on the UNESCO World Heritage list in 2003.",
+          "The only major British military fort on the river's north bank.",
+          "Utilized as a defensive lookout point during World War II.",
+          "Named after Commodore Charles Bullen of the British Royal Navy.",
+          "Houses a museum dedicated to Gambian military and social history."
+        ]
+      }
+    },
+    {
+      "id": "senegambia-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Senegambia-Brücke, auch bekannt als Farafenni-Brücke, ist eines der bedeutendsten Infrastrukturprojekte Westafrikas und wurde im Januar 2019 offiziell eingeweiht. Sie überspannt den Gambia-Fluss bei Farafenni und verbindet den nördlichen und südlichen Teil des Senegal sowie die beiden Ufer Gambias. Mit einer Länge von 1,9 Kilometern ist sie eine der längsten Brücken der Region. Historisch gesehen war die Überquerung des Flusses an dieser Stelle jahrzehntelang ein Nadelöhr, da Reisende auf unzuverlässige und langsame Fähren angewiesen waren, was oft zu tagelangen Wartezeiten führte. Die Brücke ist ein Symbol für die wirtschaftliche Integration und die Verbesserung der diplomatischen Beziehungen zwischen Gambia und Senegal nach dem Regierungswechsel in Gambia 2017. Finanziert wurde das Projekt maßgeblich durch die Afrikanische Entwicklungsbank. Technisch gesehen handelt es sich um eine moderne Stahlbetonkonstruktion, die hoch genug gebaut wurde, um die Schiffbarkeit des Flusses nicht einzuschränken. Die Brücke hat den transkontinentalen Handel entlang des Korridors von Dakar nach Lagos revolutioniert, indem sie die Transportkosten gesenkt und die Reisezeiten drastisch verkürzt hat, was für die wirtschaftliche Entwicklung der gesamten Subregion von entscheidender Bedeutung ist.",
+        "hu": "A Senegambia-híd, más néven Farafenni-híd, Nyugat-Afrika egyik legjelentősebb infrastrukturális projektje, amelyet 2019 januárjában adtak át hivatalosan. A híd Farafenni közelében ível át a Gambia-folyón, összekötve Szenegál északi és déli részét, valamint Gambia két partját. 1,9 kilométeres hosszúságával a régió egyik leghosszabb hídja. Történelmileg a folyón való átkelés ezen a ponton évtizedekig szűk keresztmetszetet jelentett, mivel az utazók megbízhatatlan és lassú kompokra kényszerültek, ami gyakran napokig tartó várakozáshoz vezetett. A híd a gazdasági integráció és a Gambia és Szenegál közötti diplomáciai kapcsolatok javulásának szimbóluma a 2017-es gambiai kormányváltást követően. A projektet nagyrészt az Afrikai Fejlesztési Bank finanszírozta. Műszaki szempontból egy modern vasbeton szerkezetről van szó, amelyet elég magasra építettek ahhoz, hogy ne akadályozza a folyami hajózást. A híd forradalmasította a Dakar és Lagos közötti folyosó transzkontinentális kereskedelmét, csökkentve a szállítási költségeket és drasztikusan lerövidítve az utazási időt, ami döntő jelentőségű az egész alrégió gazdasági fejlődése szempontjából.",
+        "ro": "Podul Senegambia, cunoscut și sub numele de Podul Farafenni, este unul dintre cele mai importante proiecte de infrastructură din Africa de Vest, fiind inaugurat oficial în ianuarie 2019. Acesta traversează râul Gambia în apropiere de Farafenni, legând părțile de nord și de sud ale Senegalului, precum și cele două maluri ale Gambiei. Cu o lungime de 1,9 kilometri, este unul dintre cele mai lungi poduri din regiune. Din punct de vedere istoric, traversarea râului în acest punct a reprezentat timp de decenii un blocaj major, deoarece călătorii depindeau de feriboturi nesigure și lente, ceea ce ducea adesea la așteptări de câteva zile. Podul este un simbol al integrării economice și al îmbunătățirii relațiilor diplomatice dintre Gambia și Senegal după schimbarea de regim din Gambia în 2017. Proiectul a fost finanțat în mare parte de Banca Africană de Dezvoltare. Din punct de vedere tehnic, este o construcție modernă din beton armat, proiectată suficient de înaltă pentru a nu restricționa navigabilitatea râului. Podul a revoluționat comerțul transcontinental de-a lungul coridorului Dakar-Lagos, reducând costurile de transport și scurtând drastic timpii de călătorie, fapt esențial pentru dezvoltarea economică a întregii subregiuni.",
+        "en": "The Senegambia Bridge, also known as the Farafenni Bridge, is a landmark infrastructure achievement in West Africa, officially inaugurated in January 2019. Spanning the Gambia River near the town of Farafenni, it provides a vital link between northern and southern Senegal while connecting the two halves of The Gambia. At 1.9 kilometers long, it ranks among the longest bridges in the region. For decades, this crossing point was a notorious bottleneck for regional trade, as travelers were forced to rely on aging ferries that often resulted in multi-day delays. The completion of the bridge symbolizes a new era of economic cooperation and improved diplomatic ties between Gambia and Senegal following the 2017 political transition in Banjul. Funded primarily by the African Development Bank, the bridge is a reinforced concrete structure designed with sufficient clearance to allow for continued river navigation. Its impact on the Trans-Gambia Highway has been transformative, facilitating the seamless flow of goods and people from Dakar to Lagos, significantly lowering logistical costs, and bolstering the economic resilience of the entire Senegambian basin."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Offiziell eröffnet am 21. Januar 2019.",
+          "Länge von 1,9 Kilometern über den Gambia-Fluss.",
+          "Teil der Trans-Gambia-Autobahn und des Dakar-Lagos-Korridors.",
+          "Finanziert durch die Afrikanische Entwicklungsbank (AfDB).",
+          "Ersetzte den zeitraubenden Fährdienst von Farafenni.",
+          "Ermöglicht die Durchfahrt großer Schiffe unter der Hauptspanne."
+        ],
+        "hu": [
+          "Hivatalosan 2019. január 21-én adták át.",
+          "1,9 kilométer hosszú, a Gambia-folyó felett ível át.",
+          "A Transz-Gambia autópálya és a Dakar-Lagos folyosó része.",
+          "Az Afrikai Fejlesztési Bank (AfDB) finanszírozta.",
+          "A lassú farafenni kompátkelést váltotta ki.",
+          "A híd magassága lehetővé teszi a nagy hajók áthaladását."
+        ],
+        "ro": [
+          "Inaugurat oficial la 21 ianuarie 2019.",
+          "Lungime de 1,9 kilometri peste râul Gambia.",
+          "Parte integrantă a autostrăzii Trans-Gambia și a coridorului Dakar-Lagos.",
+          "Finanțat de Banca Africană de Dezvoltare (AfDB).",
+          "A înlocuit serviciul de feribot lent și ineficient de la Farafenni.",
+          "Construit pentru a permite navigarea navelor mari pe sub pod."
+        ],
+        "en": [
+          "Officially opened to traffic on January 21, 2019.",
+          "Spans 1.9 kilometers across the Gambia River.",
+          "A critical component of the Trans-Gambia Highway network.",
+          "Largely funded by the African Development Bank (AfDB).",
+          "Eliminated the historic delays caused by the Farafenni ferry service.",
+          "Designed with high clearance to maintain river traffic flow."
+        ]
+      }
+    },
+    {
+      "id": "independence-stadium-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Independence Stadium in Bakau ist die größte und wichtigste Sportstätte Gambias. Es wurde in den frühen 1980er Jahren mit maßgeblicher finanzieller und technischer Unterstützung der Volksrepublik China erbaut und 1984 offiziell eröffnet. Das Stadion hat eine Kapazität von etwa 30.000 Zuschauern und dient als Heimspielstätte der gambischen Fußballnationalmannschaft, den 'Scorpions'. Über den Sport hinaus ist das Independence Stadium ein zentraler Ort für nationale Identität und politische Ereignisse. Hier finden die offiziellen Feierlichkeiten zum Unabhängigkeitstag, Präsidentschaftseinführungen und große kulturelle Festivals statt. Die Architektur folgt dem funktionalen Stil großer Mehrzweckstadien dieser Ära, mit einer markanten Betonstruktur und einer umlaufenden Leichtathletikanlage. In der Nähe des Stadions befinden sich weitere wichtige Einrichtungen wie das National Training Centre, was den Komplex zum Herzstück des gambischen Sports macht. Trotz Herausforderungen bei der Instandhaltung bleibt das Stadion ein Symbol für die internationale Zusammenarbeit und die sportlichen Ambitionen des Landes, das in den letzten Jahren bedeutende Erfolge im afrikanischen Fußball feiern konnte.",
+        "hu": "A bakauban található Függetlenségi Stadion (Independence Stadium) Gambia legnagyobb és legfontosabb sportlétesítménye. Az 1980-as évek elején épült a Kínai Népköztársaság jelentős pénzügyi és technikai támogatásával, és 1984-ben nyitották meg hivatalosan. A stadion befogadóképessége körülbelül 30 000 fő, és a gambiai labdarúgó-válogatott, a 'Scorpions' hazai pályájaként szolgál. A sporton túl az Independence Stadium a nemzeti identitás és a politikai események központi helyszíne is. Itt tartják a függetlenség napja alkalmából rendezett hivatalos ünnepségeket, az elnöki beiktatásokat és a nagy kulturális fesztiválokat. Az építészet a korszak többfunkciós stadionjainak funkcionális stílusát követi, jellegzetes betonszerkezettel és futópályával. A stadion közelében egyéb fontos létesítmények is találhatók, mint például a Nemzeti Edzőközpont, így a komplexum a gambiai sport szívévé vált. A fenntartási nehézségek ellenére a stadion továbbra is a nemzetközi együttműködés és az ország sporthírnevének szimbóluma, amely az utóbbi években jelentős sikereket ért el az afrikai labdarúgásban.",
+        "ro": "Stadionul Independenței din Bakau este cea mai mare și mai importantă arenă sportivă din Gambia. A fost construit la începutul anilor 1980 cu un sprijin financiar și tehnic semnificativ din partea Republicii Populare Chineze, fiind inaugurat oficial în 1984. Stadionul are o capacitate de aproximativ 30.000 de spectatori și servește ca teren propriu pentru echipa națională de fotbal a Gambiei, poreclită 'Scorpions'. Dincolo de sport, Stadionul Independenței este un loc central pentru identitatea națională și evenimentele politice. Aici au loc sărbătorile oficiale de Ziua Independenței, ceremoniile de învestire a președinților și mari festivaluri culturale. Arhitectura urmează stilul funcțional al marilor stadioane polivalente din acea eră, cu o structură distinctivă din beton și o pistă de atletism perimetrală. În proximitatea stadionului se află și alte facilități importante, precum Centrul Național de Antrenament, transformând complexul în inima sportului gambian. În ciuda provocărilor legate de întreținere, stadionul rămâne un simbol al cooperării internaționale și al ambițiilor sportive ale țării, care a înregistrat succese notabile în fotbalul african în ultimii ani.",
+        "en": "The Independence Stadium in Bakau is the premier sports and multi-purpose venue in The Gambia. Constructed in the early 1980s with substantial financial and technical assistance from the People's Republic of China, it was officially opened in 1984. The stadium has a seating capacity of approximately 30,000 and serves as the home ground for the Gambian national football team, known as the 'Scorpions.' Beyond its role as a sports arena, the stadium is a cornerstone of Gambian national life. It is the site of major political milestones, including presidential inaugurations and the grand annual Independence Day celebrations. The architectural design is typical of the brutalist-influenced multi-use stadiums of that period, featuring expansive concrete stands and an integrated athletics track. The surrounding complex includes the National Training Centre and other sports facilities, making it the hub of athletic development in the country. Despite aging infrastructure, the stadium remains an enduring symbol of international partnership and national pride, especially as Gambian football has risen in prominence on the continental stage in recent years."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes Stadion in Gambia mit 30.000 Plätzen.",
+          "Erbaut mit Hilfe der Volksrepublik China im Jahr 1984.",
+          "Heimatstadion der Nationalmannschaft (The Scorpions).",
+          "Austragungsort der Unabhängigkeitsfeiern am 18. Februar.",
+          "Verfügt über eine internationale Leichtathletik-Laufbahn.",
+          "Zentraler Ort für große Musikkonzerte und religiöse Versammlungen."
+        ],
+        "hu": [
+          "Gambia legnagyobb stadionja, 30 000 férőhellyel.",
+          "Kína segítségével épült fel 1984-ben.",
+          "A gambiai nemzeti válogatott (The Scorpions) otthona.",
+          "A február 18-i függetlenségi napi ünnepségek helyszíne.",
+          "Nemzetközi szabványoknak megfelelő atlétikai pályával rendelkezik.",
+          "Nagykoncertek és vallási összejövetelek központi helyszíne."
+        ],
+        "ro": [
+          "Cel mai mare stadion din Gambia, cu 30.000 de locuri.",
+          "Construit cu asistența Republicii Populare Chineze în 1984.",
+          "Terenul de acasă al echipei naționale (The Scorpions).",
+          "Locul de desfășurare a festivităților de Ziua Independenței.",
+          "Dotat cu o pistă de atletism de nivel internațional.",
+          "Centru principal pentru concerte mari și adunări religioase."
+        ],
+        "en": [
+          "The nation's largest stadium with a 30,000-seat capacity.",
+          "A gift of development cooperation from China, opened in 1984.",
+          "Home turf for the Gambia national football team, the Scorpions.",
+          "Primary venue for the annual February 18th Independence Day parade.",
+          "Features a full-sized Olympic athletics track.",
+          "Serves as a host for major international concerts and events."
+        ]
+      }
+    },
+    {
+      "id": "kachikally-pool-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das heilige Krokodilbecken von Kachikally in Bakau ist eine der meistbesuchten und kulturell bedeutendsten Stätten Gambias. Es wird seit Generationen von der Familie Bojang verwaltet, die als Hüter dieses heiligen Ortes fungiert. Die Geschichte von Kachikally ist tief in den Mythen der Mandinka verwurzelt; laut Überlieferung erschien ein Geist einer Frau der Bojang-Familie und offenbarte ihr die heilenden Kräfte des Wassers. Das Becken beherbergt etwa 80 Westafrikanische Krokodile (Crocodylus suchus), die für ihre außergewöhnliche Sanftmut gegenüber Menschen bekannt sind. Viele Frauen aus dem ganzen Land und sogar aus dem Ausland besuchen den Ort, um an Fruchtbarkeitsritualen teilzunehmen und sich mit dem heiligen Wasser zu waschen. Historisch gesehen ist Kachikally ein lebendiges Beispiel für das Überdauern indigener afrikanischer Religionen inmitten einer mehrheitlich muslimischen Gesellschaft. Neben dem Becken befindet sich ein kleines ethnographisches Museum, das eine beeindruckende Sammlung traditioneller Instrumente, Masken und historischer Artefakte Gambias beherbergt. Der Ort bietet Besuchern eine einzigartige Mischung aus spiritueller Tiefe, Naturerlebnis und historischer Bildung und ist ein Symbol für die tiefe Verbundenheit der Gambier mit ihrer natürlichen und spirituellen Umwelt.",
+        "hu": "A bakauban található Kachikally szent krokodilmedence Gambia egyik leglátogatottabb és kulturálisan legjelentősebb helyszíne. Nemzedékek óta a Bojang család kezeli, akik a szent hely őrzőiként tevékenykednek. Kachikally története mélyen gyökerezik a mandinka mítoszokban; a hagyomány szerint egy szellem jelent meg a Bojang család egyik asszonyának, és feltárta előtte a víz gyógyító erejét. A medence körülbelül 80 nyugat-afrikai krokodilnak (Crocodylus suchus) ad otthont, amelyek az emberekkel szembeni rendkívüli szelídségükről ismertek. Számos nő érkezik az ország minden részéről, sőt külföldről is, hogy termékenységi rítusokon vegyen részt és megmosakodjon a szent vízben. Történelmileg Kachikally az őshonos afrikai vallások fennmaradásának élő példája egy többségében muszlim társadalomban. A medence mellett egy kis néprajzi múzeum található, amely a hagyományos gambiai hangszerek, maszkok és történelmi tárgyak lenyűgöző gyűjteményét őrzi. A helyszín a spirituális mélység, a természetélmény és a történelmi oktatás egyedülálló ötvözetét kínálja a látogatóknak, és a gambiaiak természeti és spirituális környezetükhöz fűződő szoros kapcsolatának jelképe.",
+        "ro": "Bazinul sacru cu crocodili Kachikally din Bakau este unul dintre cele mai vizitate și semnificative locuri culturale din Gambia. Acesta este administrat de generații de familia Bojang, care acționează ca protectori ai acestui loc sfânt. Istoria Kachikally este profund înrădăcinată în miturile Mandinka; conform tradiției, un spirit i s-a arătat unei femei din familia Bojang și i-a dezvăluit puterile vindecătoare ale apei. Bazinul găzduiește aproximativ 80 de crocodili vest-africani (Crocodylus suchus), cunoscuți pentru blândețea lor neobișnuită față de oameni. Multe femei din întreaga țară și chiar din străinătate vizitează locul pentru a participa la ritualuri de fertilitate și pentru a se spăla cu apa sacră. Din punct de vedere istoric, Kachikally este un exemplu viu de persistență a religiilor indigene africane într-o societate majoritar musulmană. Lângă bazin se află un mic muzeu etnografic, care adăpostește o colecție impresionantă de instrumente tradiționale, măști și artefacte istorice din Gambia. Locul oferă vizitatorilor un amestec unic de profunzime spirituală, experiență în natură și educație istorică, fiind un simbol al legăturii profunde a gambienilor cu mediul lor natural și spiritual.",
+        "en": "The Kachikally Sacred Crocodile Pool in Bakau is one of The Gambia's most iconic cultural and spiritual landmarks. Owned and managed for generations by the Bojang family, the site is steeped in Mandinka legend, which tells of a water spirit granting the family the gift of fertility and healing through the pool. Today, it is home to approximately 80 West African crocodiles (Crocodylus suchus), which are famously docile, allowing visitors to approach and even touch them under supervision. The pool remains an active site for traditional rituals, particularly fertility ceremonies where women wash in the waters to invoke blessings. Historically, Kachikally represents the enduring strength of indigenous West African belief systems and their harmonious integration within modern Gambian society. Adjacent to the pool is a highly regarded ethnographic museum, which displays a diverse array of traditional musical instruments, initiation masks, and artifacts related to Gambian tribal history. The site offers a profound glimpse into the spiritual psyche of the nation, bridging the gap between ancient traditions and contemporary cultural identity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beheimatet ca. 80 heilige Westafrikanische Krokodile.",
+          "Wird seit über 500 Jahren von der Bojang-Familie gehütet.",
+          "Wichtigster Ort für Fruchtbarkeitsrituale in Westgambia.",
+          "Beinhaltet ein bedeutendes ethnographisches Museum.",
+          "Die Krokodile gelten als Symbole für Glück und Heilung.",
+          "Eines von drei großen heiligen Krokodilbecken des Landes."
+        ],
+        "hu": [
+          "Körülbelül 80 szent nyugat-afrikai krokodil otthona.",
+          "A Bojang család több mint 500 éve a terület őrzője.",
+          "Nyugat-Gambia legfontosabb termékenységi rítushelyszíne.",
+          "Jelentős néprajzi múzeumnak ad otthont.",
+          "A krokodilokat a szerencse és a gyógyulás jelképeinek tekintik.",
+          "Az ország három nagy szent krokodilmedencéjének egyike."
+        ],
+        "ro": [
+          "Găzduiește aproximativ 80 de crocodili vest-africani sacri.",
+          "Administrat de familia Bojang de peste 500 de ani.",
+          "Cel mai important loc pentru ritualuri de fertilitate din vestul Gambiei.",
+          "Include un muzeu etnografic cu obiecte rare.",
+          "Crocodilii sunt venerați ca simboluri ale norocului și vindecării.",
+          "Unul dintre cele trei bazine sacre majore cu crocodili din țară."
+        ],
+        "en": [
+          "Home to roughly 80 West African crocodiles, revered as sacred.",
+          "Under the custodianship of the Bojang clan for over five centuries.",
+          "A primary destination for traditional fertility and healing rituals.",
+          "Features an on-site museum showcasing Gambian tribal heritage.",
+          "Crocodiles are famously tame and integrated into local folklore.",
+          "Considered the most accessible of Gambia's three sacred pools."
+        ]
+      }
+    },
+    {
+      "id": "king-fahad-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die King Fahad Moschee in Banjul ist das architektonische und religiöse Zentrum der gambischen Hauptstadt. Sie wurde 1988 eingeweiht und durch großzügige Spenden von König Fahad von Saudi-Arabien finanziert, was die engen diplomatischen und religiösen Bindungen zwischen den beiden Nationen unterstreicht. Die Moschee ist ein herausragendes Beispiel für moderne islamische Architektur in Westafrika und zeichnet sich durch ihre zwei eleganten, weithin sichtbaren Minarette und die großzügige Verwendung von hellem Marmor aus. Historisch gesehen ersetzte sie kleinere Gebetshäuser und bot erstmals Platz für Tausende von Gläubigen im Stadtzentrum. Die Innenausstattung ist durch feine geometrische Muster und große Kronleuchter geprägt, die eine Atmosphäre der Ruhe und Erhabenheit schaffen. Die Moschee dient nicht nur als Ort für das Freitagsgebet, sondern ist auch ein wichtiges Zentrum für islamische Gelehrsamkeit und soziale Zusammenkünfte. Als markantes Wahrzeichen an der Küstenlinie von Banjul prägt sie das Stadtbild maßgeblich und ist ein Symbol für den starken islamischen Glauben, der etwa 95% der gambischen Bevölkerung verbindet.",
+        "hu": "A banjuli Fahad király mecset a gambiai főváros építészeti és vallási központja. 1988-ban adták át, és Szaúd-Arábia uralkodója, Fahad király nagylelkű adományából finanszírozták, ami hangsúlyozza a két nemzet közötti szoros diplomáciai és vallási kötelékeket. A mecset a modern nyugat-afrikai iszlám építészet kiemelkedő példája, amelyet két elegáns, messziről is látható minaret és a világos márvány bőséges használata jellemez. Történelmileg kisebb imaházakat váltott fel, és először biztosított helyet hívők ezreinek a városközpontban. A belső teret finom geometriai minták és hatalmas csillárok díszítik, amelyek a nyugalom és a méltóság légkörét árasztják. A mecset nemcsak a pénteki imák helyszíne, hanem az iszlám oktatás és a közösségi események fontos központja is. Banjul partvonalának meghatározó látványosságaként jelentősen formálja a városképet, és a gambiai lakosság mintegy 95%-át összekötő erős iszlám hit szimbóluma.",
+        "ro": "Moscheea Regele Fahad din Banjul este centrul arhitectural și religios al capitalei Gambiei. Inaugurată în 1988, a fost finanțată prin donații generoase de la Regele Fahad al Arabiei Saudite, subliniind legăturile diplomatice și religioase strânse dintre cele două națiuni. Moscheea este un exemplu remarcabil de arhitectură islamică modernă în Africa de Vest, remarcându-se prin cele două minarete elegante, vizibile de la distanță, și prin utilizarea generoasă a marmurei deschise la culoare. Din punct de vedere istoric, aceasta a înlocuit case de rugăciune mai mici, oferind pentru prima dată spațiu pentru mii de credincioși în centrul orașului. Interiorul este decorat cu modele geometrice fine și candelabre mari, care creează o atmosferă de liniște și măreție. Moscheea nu servește doar ca loc pentru rugăciunea de vineri, ci este și un centru important pentru erudiția islamică și adunările sociale. Ca punct de reper distinctiv pe linia de coastă a orașului Banjul, aceasta modelează semnificativ peisajul urban și este un simbol al credinței islamice puternice, care unește aproximativ 95% din populația gambiană.",
+        "en": "The King Fahad Mosque in Banjul is the architectural and spiritual heart of The Gambia's capital city. Completed in 1988, the construction was funded by King Fahad of Saudi Arabia, reflecting the long-standing diplomatic and religious ties between the two countries. The mosque is a premier example of contemporary Islamic architecture in West Africa, characterized by its twin towering minarets and polished marble facade which glints in the coastal sun. Historically, its completion marked a significant upgrade in the religious infrastructure of the city, providing a centralized place of worship for thousands of congregants who previously gathered in smaller district mosques. The interior is noted for its grand chandeliers and intricate calligraphy, embodying the principles of Islamic artistic expression. Beyond its function as a house of prayer, the mosque serves as a community hub for education and social services. Dominating the Banjul skyline near the waterfront, it remains a powerful symbol of the Islamic faith that binds nearly 95% of the Gambian population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eingeweiht im Jahr 1988 mit saudi-arabischer Unterstützung.",
+          "Größte Moschee in der Hauptstadt Banjul.",
+          "Bekannt für seine zwei markanten weißen Minarette.",
+          "Zentraler Ort für die wichtigsten Freitagsgebete des Landes.",
+          "Architektur aus hochwertigem Marmor und Mosaikarbeiten.",
+          "Wahrzeichen an der Küstenfront der Stadt."
+        ],
+        "hu": [
+          "1988-ban adták át szaúdi támogatással.",
+          "Banjul, a főváros legnagyobb mecsete.",
+          "Két jellegzetes fehér minaretjéről ismerhető fel.",
+          "Az ország legfontosabb pénteki imáinak helyszíne.",
+          "Kiváló minőségű márvány és mozaikmunka jellemzi.",
+          "A város tengerparti szakaszának meghatározó építménye."
+        ],
+        "ro": [
+          "Inaugurată în 1988 cu sprijin financiar saudit.",
+          "Cea mai mare moschee din capitala Banjul.",
+          "Cunoscută pentru cele două minarete albe distincte.",
+          "Locul central pentru cele mai importante rugăciuni de vineri.",
+          "Arhitectură realizată din marmură de înaltă calitate și mozaicuri.",
+          "Punct de reper major pe faleza orașului."
+        ],
+        "en": [
+          "Inaugurated in 1988 as a gift from Saudi Arabia.",
+          "The largest and most important mosque in the capital city.",
+          "Features iconic twin minarets that define the Banjul skyline.",
+          "Serves as the primary site for Friday Jumu'ah prayers.",
+          "Constructed with premium marble and ornate Islamic designs.",
+          "A key landmark visible from the approach to the city's harbor."
+        ]
+      }
+    }
+  ]
+}

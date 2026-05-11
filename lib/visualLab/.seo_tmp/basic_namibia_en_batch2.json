@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Windhoek offers family-friendly attractions like the National Museum and the Alte Feste (Old Fort).",
+      "facts": ["Family-friendly attractions", "Windhoek", "National Museum"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Okahandja is renowned for its large open-air craft market and strong Herero cultural traditions.",
+      "facts": ["Craft market", "Herero traditions", "Okahandja"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "Mudumu National Park in the Caprivi Strip is a crucial wildlife haven for elephants, buffalo, and antelopes.",
+      "facts": ["Wildlife haven", "Caprivi Strip", "Elephants and buffalo"]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "description": "Dorob National Park protects the coastal desert and is a vital habitat for seals, seabirds, and unique desert-adapted wildlife.",
+      "facts": ["Coastal desert", "Seals and seabirds", "Desert-adapted wildlife"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "The Kavango region is known for its agricultural production, especially cereals and legumes, benefiting from river irrigation.",
+      "facts": ["Agricultural production", "Cereals and legumes", "River irrigation"]
+    },
+    {
+      "id": "namibia-otjiwarongo-agriculture-life-v2",
+      "description": "Otjiwarongo serves as a central hub for livestock farming and agricultural activities in the Otjozondjupa region.",
+      "facts": ["Livestock farming", "Agricultural hub", "Otjozondjupa region"]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "description": "The Kalahari in Namibia provides a unique habitat for diverse wildlife, including Oryx and springbok.",
+      "facts": ["Unique habitat", "Oryx and springbok", "Kalahari desert"]
+    },
+    {
+      "id": "namibia-fish-river-animal-habitat-life-v2",
+      "description": "The Fish River Canyon is an important habitat for klipspringers, zebras, and leopards in its rugged terrain.",
+      "facts": ["Fish River Canyon", "Klipspringers and zebras", "Rugged terrain"]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "description": "Mariental is an agricultural center, known for citrus fruit and date production, supported by the Hardap Dam.",
+      "facts": ["Citrus fruit and dates", "Hardap Dam", "Agricultural center"]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "description": "Rundu is a key agricultural town in northeastern Namibia, thriving on the fertile lands along the Okavango River.",
+      "facts": ["Agricultural town", "Northeastern Namibia", "Okavango River"]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "description": "Sesriem is known for Sesriem Canyon and as the access point for the towering dunes of Sossusvlei.",
+      "facts": ["Sesriem Canyon", "Sossusvlei dunes", "Access point"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Walvis Bay offers family-friendly activities such as dolphin and seal cruises and kayaking among marine life.",
+      "facts": ["Dolphin and seal cruises", "Kayaking", "Marine life"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Tsumkwe provides insights into the San (Bushmen) culture and serves as a gateway to Khaudum National Park.",
+      "facts": ["San culture", "Khaudum National Park", "Cultural insights"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Lüderitz is a historic coastal town with unique colonial architecture and a starting point for Kolmanskop ghost town.",
+      "facts": ["Historic coastal town", "Colonial architecture", "Kolmanskop"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "The Caprivi Strip is a wildlife paradise, characterized by its rivers, wetlands, and large elephant populations.",
+      "facts": ["Wildlife paradise", "Rivers and wetlands", "Large elephant populations"]
+    }
+  ]
+}

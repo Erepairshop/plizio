@@ -1,0 +1,204 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "biltine-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Biltine ist die Hauptstadt der Provinz Wadi Fira im Osten des Tschad. Die Stadt liegt in einer trockenen, wüstenhaften Sahelzone. Die lokale Wirtschaft wird nahezu vollständig von der nomadischen und halbnomadischen Viehzucht dominiert, wobei Rinder, Ziegen und Kamele die wichtigsten Handelsgüter darstellen. Historisch gesehen war die Region stark vom benachbarten Ouaddaï-Sultanat beeinflusst und diente als wichtiger Handelsknotenpunkt. In der jüngeren Vergangenheit wurde die Stadt durch den Darfur-Konflikt im nahen Sudan stark beeinträchtigt, was zur Einrichtung großer Flüchtlingslager in der Umgebung führte. Diese Camps haben die lokale Demografie verändert und den Druck auf die ohnehin knappen Wasser- und Weideressourcen massiv erhöht. Es gibt in Biltine kaum formelle Infrastruktur oder asphaltierte Straßen. Die Bevölkerung leidet regelmäßig unter extremen Dürren, was die Subsistenzlandwirtschaft fast unmöglich macht. Internationale Hilfsorganisationen sind oft die einzige Quelle für medizinische Basisversorgung.",
+        "hu": "Biltine a Wadi Fira tartomány fővárosa Csád keleti részén. A város egy száraz, sivatagszerű száheli övezetben fekszik. A helyi gazdaságot szinte teljes mértékben a nomád és félnomád állattenyésztés uralja, ahol a szarvasmarha, a kecske és a teve a legfontosabb kereskedelmi cikk. Történelmileg a régiót erősen befolyásolta a szomszédos Ouaddaï Szultanátus, és fontos kereskedelmi csomópontként szolgált. A közelmúltban a várost súlyosan érintette a közeli Szudánban zajló dárfúri konfliktus, ami nagy menekülttáborok létrehozásához vezetett a környéken. Ezek a táborok megváltoztatták a helyi demográfiát, és hatalmas mértékben növelték a nyomást a már amúgy is szűkös víz- és legelőforrásokon. Biltine-ben alig van formális infrastruktúra vagy aszfaltozott út. A lakosság rendszeresen szenved az extrém aszályoktól, ami az önellátó mezőgazdaságot szinte lehetetlenné teszi. A nemzetközi segélyszervezetek gyakran az alapvető orvosi ellátás egyetlen forrásai.",
+        "ro": "Biltine este capitala provinciei Wadi Fira din estul Ciadului. Orașul este situat într-o zonă saheliană uscată, deșertică. Economia locală este dominată aproape în întregime de creșterea nomadă și semi-nomadă a animalelor, vitele, caprele și cămilele fiind cele mai importante mărfuri comerciale. Din punct de vedere istoric, regiunea a fost puternic influențată de Sultanatul vecin Ouaddaï și a servit ca un important nod comercial. În trecutul recent, orașul a fost grav afectat de conflictul din Darfur din Sudanul vecin, ceea ce a dus la înființarea unor tabere mari de refugiați în zonă. Aceste tabere au schimbat demografia locală și au crescut masiv presiunea asupra resurselor deja limitate de apă și pășuni. În Biltine nu există aproape nicio infrastructură formală sau drumuri asfaltate. Populația suferă în mod regulat de secete extreme, ceea ce face ca agricultura de subzistență să fie aproape imposibilă. Organizațiile internaționale sunt adesea singura sursă de ajutor.",
+        "en": "Biltine is the capital of the Wadi Fira province in eastern Chad. The city is located in a dry, desert-like Sahelian zone. The local economy is almost completely dominated by nomadic and semi-nomadic livestock farming, with cattle, goats, and camels being the most important commercial goods. Historically, the region was heavily influenced by the neighboring Ouaddaï Sultanate and served as an important trading hub. In the recent past, the city has been severely affected by the Darfur conflict in neighboring Sudan, which led to the establishment of large refugee camps in the surrounding area. These camps have altered the local demographics and massively increased the pressure on the already scarce water and grazing resources. There is hardly any formal infrastructure or paved roads in Biltine. The population regularly suffers from extreme droughts, making subsistence agriculture almost impossible. International aid organizations are often the only source of basic medical care."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Biltine ist die Hauptstadt der osttschadischen Provinz Wadi Fira.",
+          "Die Wirtschaft stützt sich fast komplett auf nomadische Viehzucht.",
+          "Darfur-Flüchtlingslager haben die Demografie der Stadt verändert.",
+          "Chronischer Wassermangel ist ein großes Problem in der Region.",
+          "Internationale Hilfsorganisationen sichern die Grundversorgung."
+        ],
+        "hu": [
+          "Biltine a kelet-csádi Wadi Fira tartomány hivatalos fővárosa.",
+          "A gazdaság szinte teljesen a nomád állattenyésztésre épül.",
+          "A dárfúri menekülttáborok megváltoztatták a város demográfiáját.",
+          "A krónikus vízhiány hatalmas infrastrukturális probléma a régióban.",
+          "A nemzetközi segélyszervezetek biztosítják az alapellátást."
+        ],
+        "ro": [
+          "Biltine este capitala provinciei Wadi Fira din estul Ciadului.",
+          "Economia se bazează aproape complet pe creșterea nomadă.",
+          "Taberele de refugiați din Darfur au schimbat demografia orașului.",
+          "Lipsa cronică de apă este o problemă uriașă în regiune.",
+          "Organizațiile internaționale asigură îngrijirea medicală de bază."
+        ],
+        "en": [
+          "Biltine serves as the capital of the eastern Wadi Fira province.",
+          "The economy relies almost entirely on nomadic livestock farming.",
+          "Darfur refugee camps have completely altered the city's demographics.",
+          "Chronic water scarcity represents a massive problem in the region.",
+          "International aid organizations frequently secure basic local care."
+        ]
+      }
+    },
+    {
+      "id": "bol-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bol ist die Verwaltungshauptstadt der Provinz Lac im westlichen Tschad. Die Stadt liegt strategisch am Ufer des Tschadsees, einem der wichtigsten, aber auch am stärksten bedrohten Binnengewässer Afrikas. Die Wirtschaft von Bol ist stark vom Fischfang, der Landwirtschaft auf den fruchtbaren Poldern und der Gewinnung von Natron abhängig. Zudem wird hier die Mikroalge Spirulina traditionell geerntet und gehandelt. Historisch gesehen war Bol ein wichtiges Zentrum für die Kanembu- und Buduma-Bevölkerung. In den letzten Jahrzehnten hat der dramatische Rückgang des Tschadsees die Stadt vor existenzielle Herausforderungen gestellt. Ehemals offene Wasserflächen sind versandet, was die Fischer dazu zwingt, immer weiter in das Becken vorzudringen. Darüber hinaus leidet die Region massiv unter der Sicherheitskrise durch die Boko-Haram-Aufstände, die Handelswege abschneiden und Tausende von Binnenvertriebenen nach Bol getrieben haben. Die Infrastruktur ist extrem schwach ausgebaut.",
+        "hu": "Bol a nyugat-csádi Lac tartomány közigazgatási fővárosa. A város stratégiailag a Csád-tó partján fekszik, amely Afrika egyik legfontosabb, de egyben legveszélyeztetettebb szárazföldi vízteste. Bol gazdasága erősen függ a halászattól, a termékeny poldereken folytatott mezőgazdaságtól és a nátron kitermelésétől. Emellett a spirulina mikroalgát hagyományosan itt szüretelik és értékesítik. Történelmileg Bol a kanembu és a buduma népesség fontos központja volt. Az elmúlt évtizedekben a Csád-tó drámai zsugorodása egzisztenciális kihívások elé állította a várost. A korábbi nyílt vízfelületek eliszaposodtak, ami arra kényszeríti a halászokat, hogy egyre beljebb nyomuljanak a medencébe. Ezenkívül a régió masszívan szenved a Boko Haram lázadásai okozta biztonsági válságtól, amely elvágta a kereskedelmi útvonalakat, és belső menekültek ezreit űzte Bolba. A városi infrastruktúra nagyon gyengén fejlett, aszfaltozott utak szinte egyáltalán nincsenek a térségben.",
+        "ro": "Bol este capitala administrativă a provinciei Lac din vestul Ciadului. Orașul este situat strategic pe malul Lacului Ciad, unul dintre cele mai importante, dar și cele mai amenințate corpuri de apă interioare din Africa. Economia orașului Bol este puternic dependentă de pescuit, de agricultura pe polderele fertile și de extracția natronului. În plus, microalga spirulina este recoltată și comercializată tradițional aici. Istoric, Bol a fost un centru important pentru populațiile Kanembu și Buduma. În ultimele decenii, scăderea dramatică a Lacului Ciad a pus orașul în fața unor provocări existențiale. Fostele zone de apă deschisă s-au înnămolit, obligând pescarii să avanseze tot mai mult în bazin. În plus, regiunea suferă masiv de pe urma crizei de securitate cauzată de insurgențele Boko Haram, care au tăiat rutele comerciale și au condus mii de persoane strămutate intern către Bol. Infrastructura urbană este foarte slab dezvoltată, fără drumuri pavate.",
+        "en": "Bol is the administrative capital of the Lac province in western Chad. The city is strategically located on the shores of Lake Chad, one of Africa's most important yet highly threatened inland bodies of water. Bol's economy is heavily dependent on fishing, agriculture on the highly fertile polders, and the extraction of natron. In addition, the microalga spirulina is traditionally harvested and heavily traded here. Historically, Bol was a highly important center for the Kanembu and Buduma populations. In recent decades, the dramatic shrinking of Lake Chad has presented the city with severe existential challenges. Formerly open water areas have completely silted up, forcefully compelling fishermen to advance further into the basin. Furthermore, the region suffers massively from the security crisis caused by Boko Haram insurgencies, which routinely sever crucial trade routes and have driven thousands of internally displaced persons to Bol. Infrastructure is extremely poor."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bol ist die offizielle Hauptstadt der Region Lac am Tschadsee.",
+          "Der Rückgang des Tschadsees bedroht die lokale Fischerei extrem.",
+          "Die Stadt ist ein bekanntes Zentrum für die Ernte von Spirulina-Algen.",
+          "Boko-Haram-Aufstände haben zehntausende Flüchtlinge hierher getrieben.",
+          "Polderlandwirtschaft sichert die lokale Nahrungsversorgung."
+        ],
+        "hu": [
+          "Bol a Csád-tó mentén fekvő Lac régió hivatalos fővárosa.",
+          "A Csád-tó zsugorodása extrém módon fenyegeti a helyi halászatot.",
+          "A város a spirulina alga hagyományos betakarításának ismert központja.",
+          "A Boko Haram lázadásai tízezreket kényszerítettek menekülésre ide.",
+          "A polderes mezőgazdaság biztosítja a helyi élelmiszerellátást."
+        ],
+        "ro": [
+          "Bol este capitala oficială a regiunii Lac de pe Lacul Ciad.",
+          "Scăderea Lacului Ciad amenință extrem de mult pescuitul local.",
+          "Orașul este un centru cunoscut pentru recoltarea algelor spirulina.",
+          "Insurgențele Boko Haram au adus zeci de mii de refugiați aici.",
+          "Agricultura polderelor asigură aprovizionarea locală cu alimente."
+        ],
+        "en": [
+          "Bol is the official administrative capital of the Lac region.",
+          "The dramatic shrinking of Lake Chad severely threatens local fishing.",
+          "The city is a well-known center for harvesting spirulina algae.",
+          "Boko Haram insurgencies have driven tens of thousands of refugees here.",
+          "Specialized polder agriculture thoroughly secures the local food supply."
+        ]
+      }
+    },
+    {
+      "id": "goz-beida-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Goz Beïda ist die administrative Hauptstadt der Provinz Sila im Osten des Tschad, nicht weit von der Grenze zum Sudan entfernt. Geografisch ist die Region durch trockene Savannen und isolierte Hügelketten gekennzeichnet. Wirtschaftlich war die Stadt historisch ein kleines, auf Subsistenzlandwirtschaft und Viehzucht basierendes Zentrum. Dies änderte sich in den frühen 2000er Jahren dramatisch, als der Ausbruch des Darfur-Konflikts im benachbarten Sudan eine beispiellose humanitäre Krise auslöste. Goz Beïda wurde rasch zum operativen Zentrum für Dutzende internationale Hilfsorganisationen, die riesige Flüchtlingslager in der Umgebung betreuen. Die Präsenz der NGOs hat eine parallele Dienstleistungswirtschaft geschaffen, führte aber auch zu starken Spannungen wegen Ressourcenknappheit, insbesondere bei Wasser und Brennholz. Die Infrastruktur der Stadt bleibt stark mangelhaft, und die unbefestigten Straßen sind in der Regenzeit oft wochenlang völlig unpassierbar.",
+        "hu": "Goz Beïda a Sila tartomány közigazgatási fővárosa Csád keleti részén, nem messze a szudáni határtól. Földrajzilag a régiót száraz szavannák és elszigetelt dombvidékek jellemzik. Gazdasági szempontból a város történelmileg egy kis, önellátó mezőgazdaságra és állattenyésztésre épülő központ volt. Ez a 2000-es évek elején drámaian megváltozott, amikor a szomszédos Szudánban kitört dárfúri konfliktus példátlan humanitárius válságot robbantott ki. Goz Beïda gyorsan több tucat nemzetközi segélyszervezet operatív központjává vált, amelyek hatalmas menekülttáborokat tartanak fenn a környéken. Az NGO-k jelenléte egy párhuzamos szolgáltatási gazdaságot hozott létre, ugyanakkor komoly feszültségekhez is vezetett az erőforrások, különösen a víz és a tűzifa hiánya miatt. A város infrastruktúrája továbbra is rendkívül hiányos, a burkolatlan utak az esős évszakban gyakran hetekig teljesen járhatatlanok, ami elszigeteli a régiót.",
+        "ro": "Goz Beïda este capitala administrativă a provinciei Sila din estul Ciadului, nu departe de granița cu Sudanul. Geografic, regiunea se caracterizează prin savane uscate și lanțuri deluroase izolate. Economic, orașul a fost istoric un centru mic bazat pe agricultura de subzistență și creșterea animalelor. Acest lucru s-a schimbat dramatic la începutul anilor 2000, când izbucnirea conflictului din Darfur în Sudanul vecin a declanșat o criză umanitară fără precedent. Goz Beïda a devenit rapid centrul operațional pentru zeci de organizații internaționale de ajutorare care gestionează tabere uriașe de refugiați în zonele înconjurătoare. Prezența ONG-urilor a creat o economie paralelă a serviciilor, dar a dus și la tensiuni severe din cauza penuriei de resurse, în special apă și lemn de foc. Infrastructura orașului rămâne extrem de deficitară, iar drumurile neasfaltate sunt adesea impracticabile săptămâni întregi în sezonul ploios.",
+        "en": "Goz Beïda is the administrative capital of the Sila province in eastern Chad, located not far from the volatile border with Sudan. Geographically, the region is highly characterized by dry savannas and isolated, rugged hill chains. Economically, the city was historically a small center based strictly on subsistence agriculture and local livestock farming. This changed dramatically in the early 2000s when the outbreak of the Darfur conflict in neighboring Sudan triggered an unprecedented humanitarian crisis. Goz Beïda rapidly became the operational center for dozens of international aid organizations managing massive refugee camps in the surrounding areas. The heavy presence of NGOs has created a parallel service economy but also led to severe social tensions due to extreme resource scarcity, particularly concerning water and firewood. The city's infrastructure remains highly deficient, and unpaved dirt roads are often completely impassable for weeks during the rainy season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Goz Beïda ist die Hauptstadt der osttschadischen Provinz Sila.",
+          "Die Stadt ist ein operatives Zentrum für viele internationale NGOs.",
+          "Riesige Flüchtlingslager für Darfur-Flüchtlinge dominieren das Umfeld.",
+          "Extreme Wasser- und Brennholzknappheit führt oft zu Spannungen.",
+          "Während der Regenzeit ist die Stadt logistisch massiv isoliert."
+        ],
+        "hu": [
+          "Goz Beïda a kelet-csádi Sila tartomány hivatalos fővárosa.",
+          "A város számos nemzetközi civil szervezet operatív központja.",
+          "A környéket hatalmas dárfúri menekülttáborok határozzák meg.",
+          "Az extrém víz- és tűzifahiány nagyon gyakran vezet feszültségekhez.",
+          "Az esős évszak alatt a város logisztikailag teljesen elszigetelt."
+        ],
+        "ro": [
+          "Goz Beïda este capitala provinciei Sila din estul Ciadului.",
+          "Orașul este un centru operațional pentru multe ONG-uri internaționale.",
+          "Taberele uriașe de refugiați din Darfur domină peisajul local.",
+          "Penuria extremă de apă și lemne de foc duce adesea la tensiuni.",
+          "În timpul sezonului ploios, orașul este complet izolat logistic."
+        ],
+        "en": [
+          "Goz Beïda acts as the official capital of the eastern Sila province.",
+          "The city serves as an operational center for many international NGOs.",
+          "Massive refugee camps for Darfur refugees heavily dominate the area.",
+          "Extreme shortages of water and firewood frequently cause social tensions.",
+          "During the heavy rainy season, the city is completely isolated logistically."
+        ]
+      }
+    },
+    {
+      "id": "oum-hadjer-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Oum Hadjer ist eine mittelgroße Stadt in der Provinz Batha im Zentrum des Tschad und dient als Verwaltungssitz des Departements Batha Est. Geografisch erstreckt sich die Stadt an den Ufern des Batha-Flusses, einem saisonalen Wadi, das das Leben in der Region maßgeblich bestimmt. Wirtschaftlich fungiert Oum Hadjer als ein unverzichtbarer Verkehrsknotenpunkt, da die Stadt direkt an der strategisch wichtigsten Ost-West-Route des Landes liegt, die N'Djamena mit Abéché verbindet. Diese Lage hat eine stark vom Transit und Handel geprägte lokale Wirtschaft hervorgebracht. Die Landwirtschaft stützt sich weitgehend auf Hirse und Erdnüsse, wird aber durch das karge Sahelklima begrenzt. Historisch war die Stadt stets ein wichtiger Rastplatz für Handelskarawanen und nomadische Hirten. Obwohl der Transitverkehr eine gewisse wirtschaftliche Dynamik bringt, ist die Basisinfrastruktur in Oum Hadjer extrem schwach. Es fehlen zuverlässige Stromnetze und moderne Gesundheitszentren. Die unbefestigten Straßen in der Umgebung werden in der kurzen Regenzeit oft zu unpassierbaren Schlammpisten.",
+        "hu": "Oum Hadjer egy közepes méretű város a Batha tartományban, Csád középső részén, és a Batha Est megye közigazgatási székhelyeként szolgál. Földrajzilag a város a Batha-folyó, egy szezonális vádi partján terül el, amely döntően meghatározza a régió életét. Gazdasági szempontból Oum Hadjer nélkülözhetetlen közlekedési csomópontként működik, mivel közvetlenül az ország stratégiailag legfontosabb kelet-nyugati útvonalán fekszik, amely N'Djamenát köti össze Abéchével. Ez az elhelyezkedés egy erősen a tranzitra és a kereskedelemre épülő helyi gazdaságot hozott létre. A mezőgazdaság nagyrészt a kölesre és a földimogyoróra támaszkodik, de a kopár száheli éghajlat erősen korlátozza. Történelmileg a város mindig is fontos pihenőhelye volt a kereskedelmi karavánoknak és a nomád pásztoroknak. Bár a tranzitforgalom hoz némi gazdasági dinamizmust, Oum Hadjer alapvető infrastruktúrája rendkívül gyenge. Hiányoznak a megbízható villamosenergia-hálózatok és az egészségügyi központok. A földutak sártengerré válnak az esős évszakban.",
+        "ro": "Oum Hadjer este un oraș de mărime medie din provincia Batha, în centrul Ciadului, și servește drept reședință administrativă a departamentului Batha Est. Geografic, orașul se întinde pe malurile râului Batha, un wadi sezonier care determină în mod decisiv viața în regiune. Din punct de vedere economic, Oum Hadjer funcționează ca un nod de transport indispensabil, deoarece orașul este situat direct pe cea mai importantă rută strategică est-vest a țării, conectând N'Djamena de Abéché. Această locație a generat o economie locală bazată puternic pe tranzit și comerț. Agricultura se bazează în mare măsură pe mei și alune, dar este sever limitată de climatul arid din Sahel. Istoric, orașul a fost întotdeauna un loc de odihnă important pentru caravanele comerciale și păstorii nomazi. Deși traficul de tranzit aduce un anumit dinamism, infrastructura de bază din Oum Hadjer este extrem de slabă. Lipsesc rețelele electrice fiabile și centrele de sănătate moderne. Drumurile de pământ devin adesea impracticabile.",
+        "en": "Oum Hadjer is a mid-sized city in the Batha province in central Chad, serving as the administrative seat of the Batha Est department. Geographically, the city stretches heavily along the banks of the Batha River, a seasonal wadi that decisively dictates daily life in the region. Economically, Oum Hadjer functions as an absolutely indispensable transportation hub, as the city is located directly on the country's most strategic east-west route connecting N'Djamena with Abéché. This critical location has generated a local economy heavily driven by transit and cross-regional trade. Local agriculture relies largely on drought-resistant millet and peanuts but is severely limited by the harsh Sahelian climate. Historically, the city has always been an important resting place for historical trading caravans and nomadic herders. Although transit traffic brings a certain economic dynamism, the basic infrastructure in Oum Hadjer is extremely weak. It completely lacks reliable power grids and modern health centers, and unpaved roads frequently turn to mud."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Oum Hadjer ist eine wichtige Transitstadt in der Batha-Provinz.",
+          "Die Stadt liegt strategisch auf der Hauptachse N'Djamena–Abéché.",
+          "Der Batha-Fluss (Wadi) liefert hier in der Regenzeit dringend Wasser.",
+          "Die lokale Wirtschaft ist komplett vom Durchgangsverkehr abhängig.",
+          "Die Basisinfrastruktur wie Strom und Krankenhäuser ist extrem mangelhaft."
+        ],
+        "hu": [
+          "Oum Hadjer egy nagyon fontos tranzitváros a Batha tartományban.",
+          "A város stratégiailag az N'Djamena-Abéché főtengelyen fekszik.",
+          "A Batha-folyó (vádi) az esős évszakban biztosít ivóvizet a helyieknek.",
+          "A helyi gazdaság szinte teljesen az áthaladó forgalomtól függ.",
+          "Az alapvető infrastruktúra, például az áram és a kórházak hiányosak."
+        ],
+        "ro": [
+          "Oum Hadjer este un oraș de tranzit important în provincia Batha.",
+          "Orașul este situat strategic pe axa principală N'Djamena-Abéché.",
+          "Râul Batha (wadi) oferă apă urgentă aici în sezonul ploios.",
+          "Economia locală depinde complet de traficul rutier de tranzit.",
+          "Infrastructura de bază, precum electricitatea, este extrem de deficitară."
+        ],
+        "en": [
+          "Oum Hadjer is an extremely vital transit city in the Batha province.",
+          "The city is strategically located on the main N'Djamena-Abéché highway.",
+          "The seasonal Batha River provides urgent water during the rainy season.",
+          "The local economy depends completely on cross-regional transit traffic.",
+          "Basic infrastructure like electricity and modern healthcare is severely lacking."
+        ]
+      }
+    },
+    {
+      "id": "bitkine-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bitkine ist eine Stadt in der Provinz Guéra im zentralen Teil des Tschad. Geografisch zeichnet sich die Stadt durch ihre Lage am Fuß isolierter, markanter Granitfelsen aus, die aus der sonst flachen Sahel-Savanne abrupt herausragen. Wirtschaftlich ist Bitkine ein sehr geschäftiges landwirtschaftliches Zentrum. Die Region ist landesweit bekannt für den intensiven Anbau von Erdnüssen, die das absolute Haupt-Exportgut der lokalen Bauern darstellen. Der zentrale Markt von Bitkine ist ein hochfrequentierter Umschlagplatz, auf dem landwirtschaftliche Erzeugnisse gegen importierte Güter getauscht werden. Historisch betrachtet hat die geografische Isolation der Granitberge den lokalen Hadjerai-Gemeinschaften über Jahrhunderte Schutz vor Sklavenjagden geboten, was eine sehr eigenständige und reiche Kultur in der Region bewahrt hat. Heute steht die Stadt vor massiven ökologischen und logistischen Problemen. Die fortschreitende Desertifikation verringert die landwirtschaftlichen Erträge, und die extrem schlechten Straßen erschweren den Transport der Ernten massiv.",
+        "hu": "Bitkine egy város a Guéra tartományban, Csád középső részén. Földrajzilag a várost az egyébként lapos Száhel-szavannából hirtelen kiemelkedő, elszigetelt, markáns gránitsziklák lábánál fekvő elhelyezkedése jellemzi. Gazdasági szempontból Bitkine egy nagyon forgalmas mezőgazdasági központ. A régió országosan is ismert a földimogyoró intenzív termesztéséről, amely a helyi gazdák abszolút legfőbb exportcikke. A bitkinei központi piac egy rendkívül forgalmas kereskedelmi központ, ahol a mezőgazdasági termékeket importált árukra cserélik. Történelmileg a gránithegyek földrajzi elszigeteltsége évszázadokon át védelmet nyújtott a helyi hadjerai közösségeknek a rabszolgavadászatok ellen, ami egy nagyon önálló és gazdag kultúrát őrzött meg a régióban. Ma a város masszív ökológiai és logisztikai problémákkal küzd. A fokozódó elsivatagosodás csökkenti a mezőgazdasági hozamokat, a rendkívül rossz utak pedig megnehezítik a földimogyoró-termés szállítását N'Djamena nagy piacaira.",
+        "ro": "Bitkine este un oraș din provincia Guéra, în partea centrală a Ciadului. Geografic, orașul se caracterizează prin locația sa la poalele unor roci de granit izolate și proeminente care se ridică brusc din savana Sahel altfel plată. Economic, Bitkine este un centru agricol foarte aglomerat. Regiunea este cunoscută la nivel național pentru cultivarea intensivă a alunelor, care reprezintă produsul de export absolut principal al fermierilor locali. Piața centrală din Bitkine este un centru comercial foarte frecventat, unde produsele agricole sunt schimbate cu bunuri importate. Istoric, izolarea geografică a munților de granit a oferit comunităților locale Hadjerai protecție împotriva raidurilor de sclavi timp de secole, ceea ce a păstrat o cultură foarte independentă în regiune. Astăzi, orașul se confruntă cu probleme ecologice și logistice masive. Deșertificarea progresivă reduce randamentele agricole, iar drumurile extrem de proaste îngreunează foarte mult transportul recoltelor spre capitală.",
+        "en": "Bitkine is a major city in the Guéra province located in the central part of Chad. Geographically, the city is heavily characterized by its location at the foot of highly isolated, prominent granite rocks that rise abruptly from the otherwise flat Sahelian savanna. Economically, Bitkine is a highly bustling agricultural center. The region is nationally renowned for the intensive cultivation of peanuts, which serve as the absolute primary export commodity for local farmers. The central market of Bitkine is a highly frequented commercial trading hub where raw agricultural products are bartered for essential imported goods. Historically, the extreme geographical isolation of the granite mountains provided the local Hadjerai communities with vital protection against slave raids for centuries, effectively preserving a highly independent and rich local culture. Today, the city faces massive ecological and logistical problems. Rapidly advancing desertification reduces agricultural yields, and extremely poor road conditions severely complicate the transport of peanut harvests to the larger markets in N'Djamena."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bitkine liegt am Fuß von markanten Granitbergen in der Provinz Guéra.",
+          "Die Stadt ist landesweit bekannt für den großflächigen Erdnussanbau.",
+          "Der lokale Markt ist ein wichtiges Zentrum für den Ernte-Tauschhandel.",
+          "Granitfelsen boten den lokalen Hadjerai historisch Schutz vor Feinden.",
+          "Fortschreitende Wüstenbildung bedroht die lokale Landwirtschaft stark."
+        ],
+        "hu": [
+          "Bitkine a Guéra tartomány markáns gránithegyeinek lábánál fekszik.",
+          "A város országosan ismert a rendkívül nagy kiterjedésű mogyorótermesztésről.",
+          "A helyi piac nagyon fontos központ a mezőgazdasági cserekereskedelemben.",
+          "A sziklák történelmileg hatalmas védelmet nyújtottak a helyi hadjerai népnek.",
+          "A fokozódó elsivatagosodás rendkívül erősen fenyegeti a mezőgazdaságot."
+        ],
+        "ro": [
+          "Bitkine este situat la baza munților de granit din provincia Guéra.",
+          "Orașul este cunoscut la nivel național pentru cultivarea masivă de alune.",
+          "Piața locală este un centru vital pentru comerțul cu produse agricole.",
+          "Rocile de granit au oferit istoric protecție populației locale Hadjerai.",
+          "Deșertificarea progresivă amenință masiv agricultura și economia locală."
+        ],
+        "en": [
+          "Bitkine is located at the absolute base of prominent granite mountains.",
+          "The city is nationally highly renowned for large-scale peanut cultivation.",
+          "The local market acts as a highly vital hub for regional barter trade.",
+          "The granite rocks historically offered crucial protection to the Hadjerai people.",
+          "Rapidly advancing desertification severely threatens local agricultural output."
+        ]
+      }
+    }
+  ]
+}

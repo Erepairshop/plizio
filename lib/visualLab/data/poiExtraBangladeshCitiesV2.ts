@@ -11,8 +11,8 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     description: {
       de: "Die Hauptstadt von Bangladesch ist das wirtschaftliche und kulturelle Zentrum des Landes, bekannt für ihre unzähligen Rikschas.",
       hu: "Bangladesh lüktető fővárosa a Buriganga folyó partján fekszik, és az ország politikai, gazdasági és kulturális szíve. Világszerte a riksák fővárosaként ismert, ahol millió számra közlekednek ezek a színes járművek.",
-      ro: "TEST DESCRIPTION RO",
-      en: "The capital and largest city of Bangladesh, serving as the nation's political, economic, and cultural hub.",
+      ro: "Capitala vibrantă a Bangladeshului, Dhaka este inima politică, culturală și economică a țării.",
+      en: "The vibrant capital of Bangladesh, known for its rich history, bustling markets, and its role as the nation's political and economic heart.",
     },
         facts: {
       hu: [
@@ -22,8 +22,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A riksák világfővárosaként emlegetik"
       ],
 
-      ro: ["TEST FACT 1", "TEST FACT 2", "TEST FACT 3"],
-        },
+      ro: ["Situată pe malul râului Buriganga", "Cunoscută drept Capitala Mondială a Ricșelor", "Centru major al industriei textile"],
+      de: ["Weltweit als Hauptstadt der Rikschas bekannt", "Liegt am Ufer des Flusses Buriganga", "Wirtschaftliches Zentrum der Textilindustrie", "Heimat des Nationalparlaments von Louis Kahn"],
+      en: ["Capital of Bangladesh", "Rickshaw capital of the world", "Home to Lalbagh Fort"]
+    },
     
      image: "/poi-images/dhaka-cities-v2.webp",
     descriptionAdvanced: {
@@ -49,7 +51,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
       de: "Die wichtigste Hafenstadt des Landes liegt am Golf von Bengalen und ist das Herzstück des internationalen Seehandels.",
       hu: "Az ország legnagyobb kikötővárosa a Bengáli-öböl partján fekszik, és stratégiai kapuként szolgál a nemzetközi kereskedelem számára. A várost festői dombok és a Karnaphuli folyó határozza meg.",
       ro: "Cel mai mare port maritim al țării, Chittagong este un centru comercial crucial situat între dealuri și mare.",
-      en: "A major coastal city and port, playing a vital role in the country's international trade and economy.",
+      en: "The largest seaport and second-largest city in Bangladesh, nestled between the Karnaphuli River and the Bay of Bengal.",
     },
     facts: {
       hu: [
@@ -58,6 +60,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A Sitakunda-hegylánc lábánál terül el",
         "Híres a hajóbontó iparáról és acélgyártásáról"
       ],
+      ro: ["Principalul hub pentru export și import", "Gazduiește cea mai mare rafinărie de petrol", "Situat pe malul râului Karnaphuli"],
+      de: ["Größter Seehafen von Bangladesch", "Tor zum internationalen Handel des Landes", "Umgeben von malerischen Hügeln und Flüssen", "Zentrum der Schiffsverschrottungsindustrie"],
+      en: ["Major international seaport", "Gateway to the Hill Tracts", "Commercial hub of the country"]
     },
     
      image: "/poi-images/chittagong-cities-v2.webp",
@@ -81,10 +86,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.5403, 22.8456],
     name: { de: "Khulna", hu: "Khulna", ro: "Khulna", en: "Khulna" },
     description: {
-      de: "Die Industriestadt dient als Tor zu den berühmten Sundarbans, dem größten Mangrovenwald der Welt.",
+      de: "Ein bedeutendes Industrie- und Handelszentrum im Südwesten, das als Tor zu den berühmten Sundarbans-Mangrovenwäldern dient.",
       hu: "Ipari központ délnyugaton, amely a világ legnagyobb mangroveerdőjének, a Szundarbansznak a legfontosabb kapuja. A várost sűrű víziúthálózat és jelentős jutafeldolgozó ipar jellemzi.",
       ro: "Al treilea oraș ca mărime, Khulna este poarta de acces către faimoasa pădure de mangrove Sundarbans.",
-      en: "An industrial city in southwestern Bangladesh, serving as a gateway to the Sundarbans mangrove forest.",
+      en: "An industrial city in southwestern Bangladesh, serving as the main gateway to the Sundarbans mangrove forest.",
     },
     facts: {
       hu: [
@@ -93,6 +98,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Jelentős rák- és tengerigyümölcs-exportőr",
         "A Rupsha és Bhairab folyók partján fekszik"
       ],
+      ro: ["Oraș industrial important", "Centru pentru procesarea fructelor de mare", "Legat de regiunea deltaică a râului Rupsa"],
+      de: ["Drittgrößte Stadt in Bangladesch", "Wichtigster Zugangspunkt zu den Sundarbans", "Bekannt für den Export von Garnelen und Jute", "Liegt an den Ufern der Flüsse Rupsha und Bhairab"],
+      en: ["Third-largest city", "Gateway to the Sundarbans", "Major shrimp export center"]
     },
     
      image: "/poi-images/khulna-cities-v2.webp",
@@ -116,10 +124,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [88.6011, 24.3745],
     name: { de: "Rajshahi", hu: "Rádzssahi", ro: "Rajshahi", en: "Rajshahi" },
     description: {
-      de: "Diese historische Metropole am Ufer des Flusses Padma ist berühmt für ihre Seidenproduktion und Bildungseinrichtungen.",
+      de: "Die Stadt am Ufer des Padma-Flusses ist als Zentrum der Seidenproduktion und für ihre hochwertigen Mangos bekannt.",
       hu: "A 'selyemvárosként' ismert település a Padma folyó partján fekszik, és híres kiváló minőségű textiliparáról. Banglades egyik legtisztább és legzöldebb városa, amely jelentős oktatási központ is.",
       ro: "Cunoscut drept Orașul Mătăsii, Rajshahi este un centru educațional și cultural major de pe malul râului Padma.",
-      en: "An education and administrative center known for its historical sites and proximity to the Padma River.",
+      en: "Located on the banks of the Padma River, this city is famous for its silk production and educational institutions.",
     },
     facts: {
       hu: [
@@ -128,6 +136,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Itt található a Varendra Kutatómúzeum",
         "A Padma folyó északi partján terül el"
       ],
+      ro: ["Faimos pentru producția de mătase de calitate", "Unul dintre cele mai curate orașe din țară", "Centru important pentru cultura fructelor de mango"],
+      de: ["Bekannt als die Seidenstadt von Bangladesch", "Berühmt für die besten Mangos des Landes", "Wichtiges Bildungszentrum in Nordbangladesch", "Liegt direkt an der Grenze zu Indien"],
+      en: ["The Silk City", "Famous for Varendra Research Museum", "Major educational hub"]
     },
     
      image: "/poi-images/rajshahi-cities-v2.webp",
@@ -151,10 +162,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [91.8687, 24.8949],
     name: { de: "Sylhet", hu: "Szilhet", ro: "Sylhet", en: "Sylhet" },
     description: {
-      de: "Im Nordosten gelegen, ist diese Stadt das Zentrum des bengalischen Teeanbaus und reich an islamischen Heiligtümern.",
+      de: "Eine malerische Stadt im Nordosten, die für ihre ausgedehnten Teegärten und spirituellen Schreine berühmt ist.",
       hu: "Északkelet-Banglades legszebb városa, amely végtelen teaültetvényeiről és spirituális jelentőségéről híres. A Surma-völgyben fekvő település az ország egyik leggazdagabb és legzöldebb régiója.",
       ro: "Situat în nord-est, Sylhet este renumit pentru peisajele sale pitorești cu dealuri de ceai și situri spirituale.",
-      en: "A city in northeastern Bangladesh famous for its lush tea gardens and spiritual heritage.",
+      en: "A picturesque city in northeastern Bangladesh, renowned for its lush tea gardens and spiritual significance.",
     },
     facts: {
       hu: [
@@ -163,6 +174,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Jelentős földgázlelőhelyekkel rendelkezik",
         "Szoros kapcsolatban áll a brit diaszpórával"
       ],
+      ro: ["Capitala ceaiului din Bangladesh", "Gazduiește mormântul sfânt al lui Shah Jalal", "Regiune cu precipitații abundente"],
+      de: ["Zentrum der Teeindustrie in Bangladesch", "Heimat des Schreins von Hazrat Shah Jalal", "Umgeben von sanften Hügeln und Regenwäldern", "Wirtschaftlich geprägt durch Überweisungen von Expatriates"],
+      en: ["Tea capital of Bangladesh", "Spiritual center of the country", "Surrounded by hills and lakes"]
     },
     
      image: "/poi-images/sylhet-cities-v2.webp",
@@ -186,10 +200,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.3667, 22.7010],
     name: { de: "Barisal", hu: "Barisal", ro: "Barisal", en: "Barisal" },
     description: {
-      de: "Die Flussstadt im Süden des Landes ist von einem weiten Netz aus Wasserwegen durchzogen und ein Agrarzentrum.",
+      de: "Die Stadt im Ganges-Delta wird wegen ihrer vielen Kanäle und Flüsse oft als das Venedig des Ostens bezeichnet.",
       hu: "A Gangesz-delta szívében fekvő várost sűrű csatornahálózata miatt gyakran a 'Kelet Velencéjeként' emlegetik. A régió az ország legfontosabb agrárbázisa, híres lebegő piacairól és rizstermeléséről.",
       ro: "Cunoscut sub numele de Veneția Orientului, Barisal este un port fluvial vital în inima deltei Gangelui.",
-      en: "A riverine city in the south, often called the Venice of Bengal due to its many waterways.",
+      en: "A major river port city in the south, often called the 'Venice of the East' due to its intricate network of rivers and canals.",
     },
     facts: {
       hu: [
@@ -198,6 +212,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az ország egyik legfontosabb agrárrégiója",
         "A Kirtankhola folyó mentén fekszik"
       ],
+      ro: ["Important nod de transport pe apă", "Regiune majoră pentru producția de orez", "Înconjurat de numeroase râuri și canale"],
+      de: ["Wichtigster Hafen für den Binnenflussverkehr", "Berühmt für schwimmende Märkte und Reisanbau", "Durchzogen von einem dichten Netz aus Wasserwegen", "Bekannt für die Produktion von Betelnüssen"],
+      en: ["Famous for floating guava markets", "Major river transport hub", "Located in the Ganges Delta"]
     },
     
      image: "/poi-images/barisal-cities-v2.webp",
@@ -221,10 +238,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.2447, 25.7439],
     name: { de: "Rangpur", hu: "Rangpur", ro: "Rangpur", en: "Rangpur" },
     description: {
-      de: "Im Nordwesten gelegen, besitzt die Stadt historische Paläste und spielt eine Schlüsselrolle in der regionalen Landwirtschaft.",
+      de: "Ein historisches Handelszentrum im Norden des Landes, das für seine Tabakproduktion und den prächtigen Tajhat-Palast bekannt ist.",
       hu: "Északnyugat-Banglades történelmi városa, amely gazdag kulturális örökséggel és pazar gyarmati kori épületekkel rendelkezik. A régió az ország egyik legfontosabb dohány- és mezőgazdasági központja.",
       ro: "Un oraș istoric din nordul țării, Rangpur este un hub comercial și industrial pentru regiunea învecinată.",
-      en: "A major city in northern Bangladesh known for its rich agricultural production and colonial history.",
+      en: "One of the major cities in northern Bangladesh, known for its agricultural importance and historical sites like Tajhat Palace.",
     },
     facts: {
       hu: [
@@ -233,6 +250,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A régió legfontosabb oktatási központja",
         "Az ország egyik legrégebbi városa"
       ],
+      ro: ["Cunoscut pentru industria tutunului", "Centru administrativ al diviziei Rangpur", "Gazduiește Palatul Tajhat Rajbari"],
+      de: ["Eine der ältesten Gemeinden in Bangladesch", "Zentrum für Tabakanbau und Textilweberei", "Heimat des beeindruckenden Tajhat-Palastes", "Wichtigster Wirtschaftsknotenpunkt in Nordbengalen"],
+      en: ["Major tobacco producing region", "Home to Tajhat Palace", "Northwestern administrative hub"]
     },
     
      image: "/poi-images/rangpur-cities-v2.webp",
@@ -256,10 +276,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.4000, 24.7471],
     name: { de: "Mymensingh", hu: "Mymensingh", ro: "Mymensingh", en: "Mymensingh" },
     description: {
-      de: "Am Ufer des alten Brahmaputra gelegen, ist diese Region für ihr reiches literarisches Erbe und landwirtschaftliche Forschung bekannt.",
+      de: "Eine bedeutende Stadt am Brahmaputra-Fluss, die für ihr reiches kulturelles Erbe und als Bildungsstandort bekannt ist.",
       hu: "A régi Brahmaputra folyó partján fekvő város mély kulturális és irodalmi gyökerekkel rendelkezik. Az ország mezőgazdasági kutatásának központja, híres népi balladáiról és gyarmati kúriáiról.",
       ro: "Situat pe malul vechiului râu Brahmaputra, Mymensingh este un centru renumit pentru educație și cultură.",
-      en: "A city on the banks of the Brahmaputra River, known for its educational institutions and local trade.",
+      en: "Located on the Brahmaputra River, this city is a major center for education and agriculture in central Bangladesh.",
     },
     facts: {
       hu: [
@@ -268,6 +288,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A Brahmaputra folyó határozza meg a tájat",
         "Fontos juta- és haltenyésztő központ"
       ],
+      ro: ["Gazduiește Universitatea Agricolă din Bangladesh", "Cunoscut pentru bogatul său patrimoniu literar", "Nod feroviar și rutier important"],
+      de: ["Liegt am Ufer des mächtigen Brahmaputra", "Bekannt für das Alexander-Schloss und historische Villen", "Sitz der Bangladesh Agricultural University", "Reich an lokaler Folklore und Traditionen"],
+      en: ["Home to Bangladesh Agricultural University", "On the banks of Brahmaputra", "Rich cultural heritage"]
     },
     
      image: "/poi-images/mymensingh-cities-v2.webp",
@@ -291,10 +314,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [91.1802, 23.4607],
     name: { de: "Comilla", hu: "Comilla", ro: "Comilla", en: "Comilla" },
     description: {
-      de: "Die Stadt nahe der indischen Grenze beherbergt antike buddhistische Ruinen und hat einen wichtigen militärischen Stützpunkt.",
+      de: "Eine geschichtsträchtige Stadt im Osten, bekannt für ihre archäologischen Stätten aus der buddhistischen Ära und köstliche Süßwaren.",
       hu: "Történelmi város Kelet-Bangladesben, amely antik buddhista romjairól és a Mainamati-hegy régészeti kincseiről ismert. Fontos kereskedelmi csomópont a főváros és a tengerpart között.",
       ro: "Un oraș cu o istorie bogată, Comilla este faimos pentru siturile sale arheologice și industria textilă.",
-      en: "A historic city in eastern Bangladesh, home to significant archaeological sites and educational institutes.",
+      en: "A historic city in eastern Bangladesh, famous for its ancient archaeological sites and traditional sweets.",
     },
     facts: {
       hu: [
@@ -303,6 +326,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A khadi szövetgyártás tradicionális központja",
         "Fontos második világháborús emlékhely"
       ],
+      ro: ["Gazduiește ruinele budiste de la Mainamati", "Cunoscut pentru desertul tradițional Rasmalai", "Centru important pe ruta Dhaka-Chittagong"],
+      de: ["Heimat der archäologischen Stätte Mainamati", "Berühmt für die Süßspeise Rasmalai", "Wichtigster Haltepunkt zwischen Dhaka und Chittagong", "Bekannt für die Entwicklung des Genossenschaftswesens"],
+      en: ["Home to Mainamati ruins", "Famous for Rasmalai sweet", "Strategic trade location"]
     },
     
      image: "/poi-images/comilla-cities-v2.webp",
@@ -326,10 +352,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.5000, 23.6238],
     name: { de: "Narayanganj", hu: "Narayanganj", ro: "Narayanganj", en: "Narayanganj" },
     description: {
-      de: "Als industrielles Herz nahe Dhaka konzentriert sich diese Stadt auf die Textilproduktion am Ufer des Flusses Shitalakshya.",
+      de: "Ein geschäftiges Industriezentrum nahe Dhaka, das historisch als das Dundee des Ostens für seinen Jutehandel bekannt war.",
       hu: "A Shitalakshya folyó partján fekvő iparváros a textil- és jutakereskedelem fellegvára. Stratégiai elhelyezkedése és forgalmas folyami kikötője miatt az ország gazdaságának egyik motorja.",
       ro: "Aproape de Dhaka, Narayanganj este un port fluvial istoric supranumit Dundee al Orientului.",
-      en: "An industrial city near Dhaka, historically known for its flourishing jute and textile sectors.",
+      en: "An industrial hub near Dhaka, historically significant for its jute trade and river transport.",
     },
     facts: {
       hu: [
@@ -338,6 +364,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Forgalmas belvízi kikötővel rendelkezik",
         "A híres Jamdani szárik szülőföldje"
       ],
+      ro: ["Cel mai vechi port fluvial industrial", "Inima industriei de iută din Bangladesh", "Centru major pentru comerțul cu bumbac"],
+      de: ["Ältester Binnenhafen von Bangladesch", "Globales Zentrum für die Jute- und Textilindustrie", "Nahe der historischen Hauptstadt Sonargaon gelegen", "Wichtigster Industriestandort am Shitalakshya-Fluss"],
+      en: ["The Dundee of the East", "Major jute trading center", "Ancient river port"]
     },
     
      image: "/poi-images/narayanganj-cities-v2.webp",
@@ -361,10 +390,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.4125, 23.9999],
     name: { de: "Gazipur", hu: "Gazipur", ro: "Gazipur", en: "Gazipur" },
     description: {
-      de: "Die schnell wachsende Metropole nördlich von Dhaka vereint riesige Industrieparks mit grünen Forschungszentren.",
+      de: "Ein schnell wachsendes Industriegebiet nördlich von Dhaka, das für seine Nationalparks und Textilfabriken bekannt ist.",
       hu: "Dinamikusan fejlődő ipari metropolisz Dakkától északra, amely gyárak ezreinek és jelentős kutatóintézeteknek ad otthont. Itt található az ország legnagyobb szafari parkja és nemzeti parkja is.",
       ro: "Un hub industrial major situat la nord de Dhaka, Gazipur este esențial pentru economia națională.",
-      en: "The fast-growing metropolis north of Dhaka combines huge industrial parks with green research centers.",
+      en: "A rapidly growing industrial city north of Dhaka, home to many textile factories and the Bishwa Ijtema gathering.",
     },
     facts: {
       hu: [
@@ -373,6 +402,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Otthont ad az ország biztonsági nyomdájának",
         "Itt rendezik a Bishwa Ijtema vallási fesztivált"
       ],
+      ro: ["Gazduiește numeroase fabrici de confecții", "Include Parcul Safari Bangabandhu Sheikh Mujib", "Centru important pentru transportul rutier"],
+      de: ["Industrielles Herz von Zentralbangladesch", "Beherbergt den Bhawal-Nationalpark", "Wichtiger Standort für Universitäten und Forschung", "Standort der ersten Hochsicherheitsdruckerei des Landes"],
+      en: ["Textile and garment hub", "Hosts the Bishwa Ijtema", "Rapidly urbanizing area"]
     },
     
      image: "/poi-images/gazipur-cities-v2.webp",
@@ -396,10 +428,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.3750, 24.8481],
     name: { de: "Bogra", hu: "Bogra", ro: "Bogra", en: "Bogra" },
     description: {
-      de: "Diese wichtige Handelsstadt im Norden wird oft als das historische Zentrum des Varendra-Gebiets angesehen.",
+      de: "Die Stadt gilt als das Tor zu Nordbengalen und ist berühmt für die antike Ausgrabungsstätte Mahasthangarh.",
       hu: "Észak-Banglades kapuja, az ország egyik legrégebbi és legjelentősebb történelmi városa. A közeli Mahasthangarh romjai egy több mint kétezer éves ősi civilizációról tanúskodnak.",
       ro: "Considerat poarta de intrare în Bengalul de Nord, Bogra este unul dintre cele mai vechi orașe din regiune.",
-      en: "This important trading town in the north is often considered the historical center of the Varendra area.",
+      en: "One of the oldest cities in Bengal, known as the 'Capital of North Bengal' and famous for its archaeological heritage.",
     },
     facts: {
       hu: [
@@ -408,6 +440,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az északi régió fontos kereskedelmi csomópontja",
         "Jelentős mezőgazdasági gépgyártással rendelkezik"
       ],
+      ro: ["Aproape de situl arheologic Mahasthangarh", "Faimos pentru iaurtul tradițional (Mishti Doi)", "Centru comercial și agricol regional"],
+      de: ["Älteste Stadt in Bangladesch (nahe Mahasthangarh)", "Berühmt für ihren speziellen süßen Joghurt (Mishti Doi)", "Wichtigster Handelsplatz für landwirtschaftliche Produkte", "Historisches Zentrum der Pundra-Zivilisation"],
+      en: ["Home to Mahasthangarh ruins", "Famous for Bogra yogurt (Doi)", "Ancient commercial center"]
     },
     
      image: "/poi-images/bogra-cities-v2.webp",
@@ -431,10 +466,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.1220, 23.9013],
     name: { de: "Kushtia", hu: "Kushtia", ro: "Kushtia", en: "Kushtia" },
     description: {
-      de: "Kushtia ist ein tief verwurzeltes kulturelles Zentrum und eng mit dem bengalischen Nationaldichter Rabindranath Tagore verbunden.",
+      de: "Das kulturelle Zentrum des Landes, bekannt als Heimat des Dichters Rabindranath Tagore und des Mystikers Lalon Shah.",
       hu: "Banglades kulturális fővárosa, amely mélyen összefonódott Rabindranáth Tagore irodalmi munkásságával és Lalon Shah misztikus filozófiájával. A város a művészetek és a spirituális zene fellegvára.",
       ro: "Cunoscut drept capitala culturală a Bangladeshului, Kushtia are o moștenire literară și muzicală profundă.",
-      en: "Kushtia is a deeply rooted cultural center, closely associated with the Bengali national poet Rabindranath Tagore.",
+      en: "The cultural capital of Bangladesh, famous for being the home of the philosopher-saint Lalon Shah and the poet Rabindranath Tagore.",
     },
     facts: {
       hu: [
@@ -443,6 +478,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A Baul zenei tradíció központja",
         "A Gorai folyó partján fekvő kulturális centrum"
       ],
+      ro: ["Gazduiește sanctuarul misticului Lalon Shah", "Locul unde a locuit poetul Rabindranath Tagore", "Centru pentru industria tutunului și a textilelor"],
+      de: ["Kulturelle Hauptstadt von Bangladesch", "Beherbergt den Schrein des Mystikers Lalon Shah", "Standort des Shilaidaha Kuthibari von Tagore", "Bedeutendes Zentrum für Volksmusik und Philosophie"],
+      en: ["Lalon Shah's shrine", "Tagore's Kuthibari in Shilaidaha", "Rich literary tradition"]
     },
     
      image: "/poi-images/kushtia-cities-v2.webp",
@@ -466,10 +504,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.2205, 23.1634],
     name: { de: "Jessore", hu: "Jessore", ro: "Jessore", en: "Jessore" },
     description: {
-      de: "Die westliche Grenzstadt ist ein wichtiger Handelsknotenpunkt zwischen Bangladesch und dem indischen Westbengalen.",
+      de: "Eine historische Stadt im Südwesten, bekannt für ihre frühe Unabhängigkeit und als wichtiger Verkehrsknotenpunkt nach Indien.",
       hu: "Stratégiai határváros délnyugaton, amely az India felé irányuló szárazföldi kereskedelem legfontosabb kapuja. A régió híres kertészetéről, virágexportjáról és történelmi gyarmati emlékeiről.",
       ro: "Situat în sud-vestul țării, Jessore este un oraș istoric și un centru important pentru agricultură.",
-      en: "The western border town is an important trading hub between Bangladesh and the Indian state of West Bengal.",
+      en: "A historic city in southwestern Bangladesh, known for its date palm juice and as the first district liberated in 1971.",
     },
     facts: {
       hu: [
@@ -478,6 +516,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az első kerület volt, amely felszabadult 1971-ben",
         "Híres a datolyapálma-nedvből készült cukráról"
       ],
+      ro: ["Primul district înființat în Bengalul britanic", "Cunoscut pentru producția de flori și curmale", "Nod feroviar major către India"],
+      de: ["Erster Bezirk in Bangladesch, der 1971 befreit wurde", "Wichtiger Eisenbahn- und Straßenknotenpunkt", "Berühmt für die Produktion von Dattelpalmensaft", "Heimat des ersten digitalen Bezirks des Landes"],
+      en: ["Famous for date juice sugar", "Gateway to Benapole land port", "First district of Bangladesh"]
     },
     
      image: "/poi-images/jessore-cities-v2.webp",
@@ -501,10 +542,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [91.9772, 21.4272],
     name: { de: "Cox's Bazar", hu: "Cox's Bazar", ro: "Cox's Bazar", en: "Cox's Bazar" },
     description: {
-      de: "Diese Küstenstadt ist das absolute touristische Zentrum des Landes und bietet endlose Strände am Indischen Ozean.",
+      de: "Die Stadt ist weltberühmt für ihren ununterbrochenen natürlichen Sandstrand, den längsten der Welt.",
       hu: "A világ leghosszabb természetes homokos strandjának otthont adó Cox's Bazar Banglades legnépszerűbb turisztikai célpontja. A Bengáli-öböl partján elterülő város híres tengeri halászatáról is.",
       ro: "Cea mai populară destinație turistică din Bangladesh, faimoasă pentru plaja sa naturală incredibil de lungă.",
-      en: "This coastal town is the absolute tourist center of the country, offering endless beaches along the Indian Ocean.",
+      en: "A popular tourist destination known for having the world's longest natural sandy sea beach, stretching over 120 kilometers.",
     },
     facts: {
       hu: [
@@ -513,6 +554,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Híres a szárított halairól és tengeri ételeiről",
         "Jelentős buddhista kulturális örökséggel bír"
       ],
+      ro: ["Cea mai lungă plajă naturală de nisip din lume", "Centru pentru industria pescuitului și a sării", "Aproape de Parcul Național Himchari"],
+      de: ["Besitzt den längsten natürlichen Sandstrand der Welt", "Wichtigstes touristisches Ziel in Bangladesch", "Zentrum der Fischerei und Salzgewinnung", "Tor zur Insel St. Martin"],
+      en: ["World's longest sea beach", "Major tourism hub", "Buddhist heritage sites nearby"]
     },
     
      image: "/poi-images/coxs-bazar-cities-v2.webp",
@@ -536,10 +580,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [91.1119, 23.9571],
     name: { de: "Brahmanbaria", hu: "Brahmanbaria", ro: "Brahmanbaria", en: "Brahmanbaria" },
     description: {
-      de: "Die traditionell geprägte Stadt ist ein Zentrum für klassische Musik und alte Handwerkskünste in Bengalen.",
+      de: "Ein bedeutendes kulturelles Zentrum im Osten, bekannt für seine Beiträge zu Musik, Literatur und Bildung.",
       hu: "Kelet-Banglades kulturális központja, amely a Titas folyó partján fekszik, és híres a bengáli klasszikus zene nagy alakjairól. A város emellett az ország egyik legfontosabb földgázkitermelő helyszíne.",
       ro: "Un oraș cu o puternică tradiție muzicală și culturală, situat în estul Bangladeshului.",
-      en: "The traditional city is a center for classical music and ancient crafts in Bengal.",
+      en: "A major cultural and educational center in eastern Bangladesh, historically known for its literary and musical contributions.",
     },
     facts: {
       hu: [
@@ -548,6 +592,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Híres a 'Chana-mukhi' nevű édességéről",
         "Fontos vasúti csomópont Kelet-Bangladesben"
       ],
+      ro: ["Sursă majoră de gaze naturale (Titas Gas)", "Cunoscut pentru instrumentele muzicale tradiționale", "Faimos pentru dulciurile locale specifice"],
+      de: ["Gilt als kulturelle Hauptstadt von Ostbangladesch", "Großes Zentrum für Erdgasproduktion", "Geburtsort vieler berühmter Musiker und Gelehrter", "Wichtiges Zentrum für Weberei und Handwerk"],
+      en: ["Cultural capital of East Bengal", "Major natural gas producer", "Titas Gas field location"]
     },
     
      image: "/poi-images/brahmanbaria-cities-v2.webp",
@@ -571,10 +618,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [88.6258, 25.6217],
     name: { de: "Dinajpur", hu: "Dinajpur", ro: "Dinajpur", en: "Dinajpur" },
     description: {
-      de: "Die ländliche Stadt im Nordwesten beherbergt kunstvolle historische Gebäude und ist eine wichtige landwirtschaftliche Basis.",
+      de: "Eine historische Stadt im Norden, bekannt für ihre Reismühlen, Kohleminen und den prächtigen Kantajew-Tempel.",
       hu: "Az északi régió történelmi városa, amely pazar terrakotta templomairól és mezőgazdasági bőségéről híres. Itt található az ország egyetlen aktív szénbányája és legszebb licsiültetvényei.",
       ro: "Un oraș istoric din nord-vest, renumit pentru templele sale magnifice și producția agricolă.",
-      en: "The rural city in the northwest is home to ornate historical buildings and is an important agricultural base.",
+      en: "A northern city famous for its fine rice and the stunning Kantajew Temple, an outstanding example of terracotta architecture.",
     },
     facts: {
       hu: [
@@ -583,6 +630,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Itt található a Ramsagar, a legnagyobb mesterséges tó",
         "Fontos szén- és kőzetbányászati központ"
       ],
+      ro: ["Gazduiește Templul Kantajew, o capodoperă în teracotă", "Faimos pentru soiul de orez aromat Chinigura", "Locația rezervației Ramsagar"],
+      de: ["Berühmt für hochwertigen aromatischen Reis (Kataribhog)", "Heimat des architektonisch einzigartigen Kantajew-Tempels", "Standort der größten Kohlemine des Landes in Barapukuria", "Wichtiges landwirtschaftliches Zentrum in Nordbengalen"],
+      en: ["Home to Kantajew Temple", "Known for aromatic rice", "Ramsagar national park nearby"]
     },
     
      image: "/poi-images/dinajpur-cities-v2.webp",
@@ -606,10 +656,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.2467, 24.0049],
     name: { de: "Pabna", hu: "Pabna", ro: "Pabna", en: "Pabna" },
     description: {
-      de: "Pabna ist eine aufstrebende Industrie- und Bildungsstadt, die am nördlichen Ufer des Flusses Padma liegt.",
+      de: "Eine wichtige Stadt am Padma-Fluss, bekannt für ihre Textilindustrie und als Standort des ersten Kernkraftwerks des Landes.",
       hu: "A Padma folyó északi partján fekvő város az ország egyik legfontosabb ipari és tudományos bázisa. Itt épül Banglades első atomerőműve, és jelentős gyógyszeripari központnak is otthont ad.",
       ro: "Situat pe malul râului Padma, Pabna este un centru industrial și educațional important.",
-      en: "Pabna is an emerging industrial and educational city located on the northern bank of the Padma River.",
+      en: "An important city in western Bangladesh, known for its hosiery industry and mental health hospital.",
     },
     facts: {
       hu: [
@@ -618,6 +668,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Itt található a Hardinge-híd, egy történelmi vasúti híd",
         "Híres a hagyományos kézi szövésű szárikról"
       ],
+      ro: ["Gazduiește celebrul pod feroviar Hardinge", "Centru pentru industria farmaceutică", "Cunoscut pentru bogatul său patrimoniu arhitectural"],
+      de: ["Wirtschaftliches Zentrum für Hosiery und Textilien", "Standort des Kernkraftwerks Ruppur", "Heimat des historischen Mental Hospital (Pabna Mental Hospital)", "Wichtiger Produzent von Milchprodukten und Getreide"],
+      en: ["Historic Pabna Mental Hospital", "Major textile and hosiery hub", "Hardinge Bridge nearby"]
     },
     
      image: "/poi-images/pabna-cities-v2.webp",
@@ -641,10 +694,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.9231, 24.2513],
     name: { de: "Tangail", hu: "Tangail", ro: "Tangail", en: "Tangail" },
     description: {
-      de: "Die Stadt ist landesweit berühmt für ihre traditionelle Handweberei und die Herstellung hochwertiger Textilien.",
+      de: "Berühmt für seine einzigartigen handgewebten Saris und köstlichen traditionellen Süßigkeiten.",
       hu: "Dakkától északra fekvő város, amely világhírű a tradicionális 'Tangail szárik' készítéséről. A régió emellett híres mezőgazdasági termékeiről, különösen a Madhupur dombos vidékein termő ananászról.",
       ro: "Renumit în întreaga regiune pentru textilele sale artizanale, Tangail este un oraș vibrant din centrul țării.",
-      en: "The city is nationally famous for its traditional hand-weaving and the production of high-quality textiles.",
+      en: "A district famous for its traditional handloom sarees and its scenic rural landscape north of Dhaka.",
     },
     facts: {
       hu: [
@@ -653,6 +706,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Jelentős ananász- és banántermelő régió",
         "Itt található a történelmi Atia-mecset"
       ],
+      ro: ["Locul de origine al faimoaselor sariuri Tangail", "Aproape de pădurea de arbori Sal din Madhupur", "Centru important pentru producția de miere"],
+      de: ["Weltberühmt für Tangail-Taant-Saris", "Bekannt für die Süßspeise Porabari Chomchom", "Wichtiger Standort für Forstwirtschaft und Landwirtschaft", "Zentrum der handwerklichen Weberei"],
+      en: ["Famous for Tangail Saree", "Rich handloom heritage", "Traditional sweet Porabari Chomchom"]
     },
     
      image: "/poi-images/tangail-cities-v2.webp",
@@ -676,10 +732,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.7000, 24.4534],
     name: { de: "Sirajganj", hu: "Sirajganj", ro: "Sirajganj", en: "Sirajganj" },
     description: {
-      de: "Als Tor zum Norden liegt die Stadt strategisch wichtig am Fluss Jamuna und ist ein bedeutender textiler Produktionsstandort.",
+      de: "Eine strategisch wichtige Stadt am Jamuna-Fluss, die als Tor zum Norden von Bangladesch gilt.",
       hu: "A hatalmas Jamuna folyó partján fekvő város Észak-Banglades legfontosabb közlekedési kapuja. Strategiai elhelyezkedése és virágzó textilipara révén a régió meghatározó gazdasági csomópontja.",
       ro: "Situat pe malul vestic al râului Jamuna, orașul este un punct strategic de legătură rutieră și feroviară.",
-      en: "As a gateway to the north, the city is strategically located on the Jamuna River and is an important textile production center.",
+      en: "A major river port and transportation hub on the Jamuna River, connecting northern Bangladesh with the rest of the country.",
     },
     facts: {
       hu: [
@@ -688,6 +744,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "A lungi-gyártás legnagyobb hazai központja",
         "Fontos tejtermelő és mezőgazdasági régió"
       ],
+      ro: ["Poarta de acces către podul Bangabandhu", "Centru major pentru industria războiului de țesut", "Gazduiește monumentul istoric Navaratna"],
+      de: ["Liegt am westlichen Ende der Jamuna-Brücke", "Wichtiges Zentrum für den Jute- und Textilhandel", "Historisch bedeutend für die Handweberei", "Wichtiger Verkehrsknotenpunkt am Fluss Jamuna"],
+      en: ["Located near Bangabandhu Bridge", "Major jute trading center", "Important river gateway"]
     },
     
      image: "/poi-images/sirajganj-cities-v2.webp",
@@ -711,10 +770,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [91.4000, 23.0159],
     name: { de: "Feni", hu: "Feni", ro: "Feni", en: "Feni" },
     description: {
-      de: "Die südöstliche Stadt fungiert als wichtiges Handelszentrum zwischen der Hauptstadt und der Hafenstadt Chittagong.",
+      de: "Eine geschäftige Stadt im Südosten, die als wichtiger Verbindungspunkt zwischen Dhaka und Chittagong dient.",
       hu: "Strategiai elhelyezkedésű város a Dakka-Csittagong főút mentén, amely fontos kereskedelmi és tranzitcsomópont. A régió híres magas írástudási arányáról és pezsgő gazdasági életéről.",
       ro: "Un oraș strategic situat la jumătatea distanței dintre Dhaka și Chittagong, Feni este un punct nodal vital.",
-      en: "The southeastern city acts as a major commercial center between the capital and the port city of Chittagong.",
+      en: "A strategic city located between Dhaka and Chittagong, serving as a vital link in the country's transport network.",
     },
     facts: {
       hu: [
@@ -723,6 +782,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az ország egyik legmagasabb írástudási arányával bír",
         "Jelentős hazautalásokból fejlődő modern régió"
       ],
+      ro: ["Bogat în patrimoniu cultural local", "Important centru pentru afaceri și comerț", "Legătură esențială pentru transportul național"],
+      de: ["Strategischer Knotenpunkt an der Nationalstraße N1", "Wichtiger Produzent von Reis und Gemüse", "Bekannt für seine hohe Alphabetisierungsrate", "Zentrum für Kleingewerbe und Handel"],
+      en: ["Important transport hub", "High literacy rate", "Muhuri Sluice Gate project nearby"]
     },
     
      image: "/poi-images/feni-cities-v2.webp",
@@ -746,10 +808,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.9400, 24.9300],
     name: { de: "Jamalpur", hu: "Jamalpur", ro: "Jamalpur", en: "Jamalpur" },
     description: {
-      de: "Am westlichen Ufer des Flusses Brahmaputra gelegen, ist diese Stadt reich an handwerklicher Tradition und Folklore.",
+      de: "Eine Stadt im Norden, die für ihre handwerklichen Stickereien und die Produktion von landwirtschaftlichen Erzeugnissen bekannt ist.",
       hu: "A Brahmaputra folyó partján elterülő város híres kézműves hagyományairól, különösen a hímzett hálóingekről és takarókról. A régió fontos mezőgazdasági központ, különösen juta- és dohánytermelése jelentős.",
       ro: "Situat în divizia Mymensingh, Jamalpur este un oraș cunoscut pentru bogăția sa agricolă.",
-      en: "Located on the western bank of the Brahmaputra River, this city is rich in craft traditions and folklore.",
+      en: "A northern city known for its nakshi kantha (embroidered quilt) handicrafts and agricultural production.",
     },
     facts: {
       hu: [
@@ -758,6 +820,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Jelentős juta- és mustártermelő terület",
         "Híres a tradicionális sárgaréz kézművességéről"
       ],
+      ro: ["Centru pentru industria iutei și a textilelor", "Situat în apropierea râului Brahmaputra", "Cunoscut pentru produsele sale de artizanat"],
+      de: ["Berühmt für Nakshi Kantha (traditionelle Stickerei)", "Wichtiges Zentrum für Tabak- und Juteanbau", "Liegt am Ufer des alten Brahmaputra-Flusses", "Bekannt für seine handgefertigten Textilien"],
+      en: ["Famous for Nakshi Kantha", "On the banks of Brahmaputra", "Agricultural processing center"]
     },
     
      image: "/poi-images/jamalpur-cities-v2.webp",
@@ -781,10 +846,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [88.9400, 24.8100],
     name: { de: "Naogaon", hu: "Naogaon", ro: "Naogaon", en: "Naogaon" },
     description: {
-      de: "Oft als die Kornkammer des Landes bezeichnet, ist diese Region ein riesiger Produzent von Reis und historischen Schätzen.",
+      de: "Eine historische Stadt im Nordwesten, bekannt für ihre Reismühlen und die Nähe zur Weltkulturerbestätte Paharpur.",
       hu: "Észak-Banglades 'magtára', amely az ország egyik legfontosabb rizstermelő területe. A város közelében található Paharpur, Dél-Ázsia egyik legjelentősebb buddhista kolostorromja és világörökségi helyszíne.",
       ro: "Un oraș important din nord-vest, Naogaon este inima producției de orez a țării.",
-      en: "Often referred to as the breadbasket of the country, this region is a massive producer of rice and historical treasures.",
+      en: "An administrative center in northern Bangladesh, serving as a hub for the region's agricultural and archaeological sites.",
     },
     facts: {
       hu: [
@@ -793,6 +858,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Itt található a legtöbb rizsmalom Bangladesben",
         "Híres a történelmi nemesi kúriáiról (Rajbari)"
       ],
+      ro: ["Faimos pentru orezul de înaltă calitate", "Aproape de situl Somapura Mahavihara", "Centru comercial major în regiunea Barind"],
+      de: ["Größtes Zentrum für Reismühlen in Bangladesch", "Tor zur antiken buddhistischen Stätte Somapura Mahavihara", "Wichtiger Produzent von Kartoffeln und Getreide", "Reich an archäologischen Denkmälern"],
+      en: ["Near Somapura Mahavihara", "Major rice producing area", "Rich in Pala dynasty history"]
     },
     
      image: "/poi-images/naogaon-cities-v2.webp",
@@ -816,10 +884,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [91.1000, 22.8300],
     name: { de: "Noakhali", hu: "Noakhali", ro: "Noakhali", en: "Noakhali" },
     description: {
-      de: "Die küstennahe Stadt besitzt eine ganz eigene Kultur und Sprache und ist bekannt für ihr widerstandsfähiges Volk gegen Naturkatastrophen.",
+      de: "Eine Küstenstadt im Süden, die für ihre Widerstandsfähigkeit gegenüber Naturkatastrophen und ihre reiche Geschichte bekannt ist.",
       hu: "Délkeleti tengerparti régió, amely erős kulturális identitásáról és a természeti erőkkel szembeni ellenálló képességéről ismert. Lakói híresek sajátos dialektusukról és sikeres vállalkozói szellemükről.",
       ro: "Un oraș de coastă cu o istorie unică, Noakhali este un centru administrativ și comercial important.",
-      en: "The coastal city has a completely unique culture and language and is known for its resilient people against natural disasters.",
+      en: "A coastal district in southeastern Bangladesh, known for its unique dialect and its resilience against natural disasters.",
     },
     facts: {
       hu: [
@@ -828,6 +896,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Fontos tengerparti halászati központ",
         "Itt található a történelmi Gandhi Ashram"
       ],
+      ro: ["Cunoscut pentru rezistența sa la inundații", "Regiune bogată în resurse de pescuit", "Centru pentru educație și servicii sociale"],
+      de: ["Zentrum für Fischerei und Landwirtschaft in der Küstenregion", "Historisch bekannt für die Produktion von Salz und Jute", "Region mit starker Migration und kulturellem Einfluss", "Bekannt für seine Kokosnuss- und Betelnussproduktion"],
+      en: ["Coastal town on Bay of Bengal", "Home to Nijhum Dwip", "History of Gandhi's peace mission"]
     },
     
      image: "/poi-images/noakhali-cities-v2.webp",
@@ -839,7 +910,7 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Die küstennahe Stadt besitzt eine ganz eigene Kultur und Sprache und ist bekannt für ihr widerstandsfähiges Volk gegen Naturkatastrophen.", "Liegt im südasiatischen Staat Bangladesch.", "Region geprägt vom Ganges-Brahmaputra-Delta und dem Golf von Bengalen.", "Klima tropischer Monsun mit ausgeprägter Regen- und Trockenzeit.", "Erreichbar über das Straßennetz und das ausgedehnte Flusssystem des Deltas.", "Verbunden mit dem Erbe der bengalischen Kultur und des historischen Bengalen.", "Die Sundarbans, der größte Mangrovenwald der Welt, prägen den Süden des Landes.", "Wirtschaft stark geprägt von Textil-, Jute- und Schifffahrtsindustrie."],
-      hu: ["Az eredeti Noakhali városközpont a 20. század elején az erózió miatt a tengerbe veszett.", "Maijdee a kerület jelenlegi, tervezett adminisztratív központja.", "A régió híres a sajátos 'Noakhailla' dialektusáról.", "Noakhali az egyik vezető bételdió- és kókuszdió-termelő terület.", "Mahatma Gandhi 1946-ban békemisszió keretében látogatott Noakhaliba.", "A régióban számos újonnan keletkezett sziget (Char) található a torkolatvidéken.", "A Noakhali Tudományos és Technológiai Egyetem a térség fontos intézménye."],
+      hu: ["Az eredeti Noakhali városközpont a 20. század elején az erózió miatt a tengerbe veszett.", "Maijdee a kerület jelenlegi, tervezett adminisztratív központja.", "Noakhali az egyik vezető bételdió- és kókuszdió-termelő terület.", "Mahatma Gandhi 1946-ban békemisszió keretében látogatott Noakhaliba.", "A régióban számos újonnan keletkezett sziget (Char) található a torkolatvidéken.", "A Noakhali Tudományos és Technológiai Egyetem a térség fontos intézménye."],
       ro: ["Orașul de coastă are o cultură și o limbă cu totul unice și este cunoscut pentru poporul său rezistent la dezastrele naturale.", "Este situat în statul sud-asiatic Bangladesh.", "Regiunea este definită de Delta Gange-Brahmaputra și Golful Bengal.", "Climatul este de tip muson tropical, cu sezon ploios și sezon secetos pronunțate.", "Accesibil prin rețeaua rutieră și prin sistemul fluvial extins al deltei.", "Legat de moștenirea culturii bengaleze și a Bengalului istoric.", "Sundarbans, cea mai mare pădure de mangrove din lume, domină sudul țării.", "Economia este puternic marcată de industria textilă, a iutei și a transportului naval."],
       en: ["Noakhali was historically known as Bhulua and was an ancient kingdom.", "The Gandhi Ashram in Noakhali was established during Mahatma Gandhi's 1947 peace mission.", "The district is a major center for the production of coconut and betel nuts.", "The Nijhum Dwip island, famous for its spotted deer, is part of Noakhali.", "Noakhali is known for its distinct dialect of Bengali.", "The district has a large number of overseas workers contributing to the national economy.", "The coast of Noakhali is a vital area for salt production in Bangladesh."]
     }
@@ -851,10 +922,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.8400, 23.6000],
     name: { de: "Faridpur", hu: "Faridpur", ro: "Faridpur", en: "Faridpur" },
     description: {
-      de: "Eine alte Stadt am Ufer des Padma-Flusses, die für ihre Dichter, spirituellen Führer und die Produktion von Jute bekannt ist.",
+      de: "Eine bedeutende Stadt in Zentralbangladesch, die für ihren Jutehandel und als Geburtsort wichtiger politischer Persönlichkeiten bekannt ist.",
       hu: "A Padma folyó partján fekvő nagy múltú város, amely spirituális hagyományairól és irodalmi nagyságairól ismert. A régió a 'juta fővárosaként' is híres, és központi szerepet játszik az ország agráréletében.",
       ro: "Situat pe malul râului Padma, Faridpur este un oraș cu o importanță istorică și religioasă deosebită.",
-      en: "An ancient city on the banks of the Padma River, known for its poets, spiritual leaders, and jute production.",
+      en: "A district in central Bangladesh, historically significant and known for its jute production and river trade.",
     },
     facts: {
       hu: [
@@ -863,6 +934,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Itt található a 'falusi költő', Jasimuddin sírja",
         "A Padma-híd révén kiválóan összekapcsolt régió"
       ],
+      ro: ["Cunoscut pentru producția de zahăr de curmale", "Centru major pentru comerțul cu iută", "Gazduiește numeroase situri sufiste importante"],
+      de: ["Eines der wichtigsten Zentren für den Jutehandel", "Geburtsort des Staatsgründers Sheikh Mujibur Rahman (Bezirk)", "Wichtiger Umschlagplatz für Agrarprodukte", "Reich an historischen Sufi-Schreinen"],
+      en: ["Birthplace of many scholars", "Major jute producing district", "Located on the Padma River"]
     },
     
      image: "/poi-images/faridpur-cities-v2.webp",
@@ -886,10 +960,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [88.8917, 25.7778],
     name: { de: "Saidpur", hu: "Saidpur", ro: "Saidpur", en: "Saidpur" },
     description: {
-      de: "Die Eisenbahnstadt im hohen Norden verbindet Handel mit einer vielfältigen Bevölkerung aus verschiedenen Teilen Südasiens.",
+      de: "Ein wichtiges Industrie- und Verkehrszentrum im Norden, bekannt für seine Eisenbahnwerkstätten und seinen Flughafen.",
       hu: "Egyedülálló ipari város északon, amelynek identitását a vasút határozza meg. Itt található Dél-Ázsia egyik legrégebbi vasúti javítóműhelye, és a város az északi régió fontos légi és kereskedelmi csomópontja.",
       ro: "Saidpur este un oraș industrial și feroviar crucial, situat în nordul extrem al Bangladeshului.",
-      en: "The railway city in the far north combines trade with a diverse population from different parts of South Asia.",
+      en: "An important railway city in northern Bangladesh, home to one of the largest railway workshops in the country.",
     },
     facts: {
       hu: [
@@ -898,6 +972,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az északi országrész fontos repülőtere itt található",
         "Híres a különleges Chini-mecsetről"
       ],
+      ro: ["Gazduiește cel mai mare atelier feroviar", "Dispune de un aeroport regional important", "Hub major pentru afaceri și distribuție"],
+      de: ["Heimat der größten Eisenbahnwerkstatt des Landes", "Wichtiger regionaler Flughafenstandort", "Bedeutendes Handelszentrum für Textilien und Waren", "Multikulturelle Stadt mit vielfältiger Bevölkerung"],
+      en: ["Railway workshop hub", "Strategic airport location", "Significant Urdu-speaking community"]
     },
     
      image: "/poi-images/saidpur-cities-v2.webp",
@@ -921,10 +998,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.7333, 23.9167],
     name: { de: "Narsingdi", hu: "Narsingdi", ro: "Narsingdi", en: "Narsingdi" },
     description: {
-      de: "Unweit von Dhaka ist diese Stadt ein boomendes Zentrum der Textilindustrie und des Handwerks.",
+      de: "Ein wichtiges Industriezentrum in der Nähe von Dhaka, das für seine florierende Textilindustrie und den Handel mit landwirtschaftlichen Erzeugnissen bekannt ist.",
       hu: "A textilipar lüktető központja Dakkától keletre, amely Ázsia egyik legnagyobb textilpiacának ad otthont. A régió régészeti jelentősége is óriási, köszönhetően a több ezer éves Wari-Bateshwar leleteknek.",
       ro: "Aproape de capitală, Narsingdi este motorul industriei textile tradiționale și moderne.",
-      en: "Not far from Dhaka, this city is a booming center of the textile industry and crafts.",
+      en: "An industrial hub east of Dhaka, famous for its textile industry and the ancient archaeological site of Wari-Bateshwar.",
     },
     facts: {
       hu: [
@@ -933,6 +1010,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az ország vezető banántermelő kerülete",
         "Jelentős ipari és energetikai bázis"
       ],
+      ro: ["Unul dintre cele mai bogate centre textile", "Important port fluvial pe malul râului Meghna", "Cunoscut pentru producția de banane și legume"],
+      de: ["Großer Produzent von Bananen und Gemüse", "Wichtiges Zentrum für handgewebte Textilien", "Beherbergt viele moderne Textilfabriken", "Liegt verkehrsgünstig an der Nationalstraße Dhaka-Sylhet"],
+      en: ["Textile and weaving center", "Home to Wari-Bateshwar ruins", "Major banana producing region"]
     },
     
      image: "/poi-images/narsingdi-cities-v2.webp",
@@ -956,10 +1036,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.6500, 23.2333],
     name: { de: "Chandpur", hu: "Chandpur", ro: "Chandpur", en: "Chandpur" },
     description: {
-      de: "Dort wo die mächtigen Flüsse Padma und Meghna zusammenfließen, liegt diese Hafenstadt, berühmt für ihren Speisefisch.",
+      de: "Die Stadt liegt am Zusammenfluss der großen Ströme Padma und Meghna und ist berühmt für ihren Hilsa-Fisch.",
       hu: "A Padma és Meghna folyók látványos összefolyásánál fekvő város, amelyet a 'Hilsa hal fővárosaként' ismernek. Strategiai folyami kikötője révén a belföldi vízi közlekedés elengedhetetlen csomópontja.",
       ro: "Renumit drept orașul peștelui Hilsa, Chandpur este situat la confluența râurilor Padma și Meghna.",
-      en: "Where the mighty Padma and Meghna rivers merge, lies this port city, famous for its food fish.",
+      en: "Located at the confluence of the Padma and Meghna rivers, this city is the 'Hilsa Capital' of Bangladesh.",
     },
     facts: {
       hu: [
@@ -968,6 +1048,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Az ország egyik legforgalmasabb folyami kikötője",
         "Híres a gyönyörű folyóparti panorámájáról"
       ],
+      ro: ["Principalul centru pentru pescuitul de Hilsa", "Important nod de transport fluvial", "Oferă peisaje spectaculoase la întâlnirea râurilor"],
+      de: ["Bekannt als die Hilsa-Stadt von Bangladesch", "Wichtiger Flusshafen und Handelsknotenpunkt", "Berühmt für den 'Mohana', den Zusammenfluss dreier Flüsse", "Zentrum des regionalen Binnenschifffahrtsverkehrs"],
+      en: ["Hilsa fish capital", "Major river transport port", "Meeting point of major rivers"]
     },
     
      image: "/poi-images/chandpur-cities-v2.webp",
@@ -991,10 +1074,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [90.6500, 22.6833],
     name: { de: "Bhola", hu: "Bhola", ro: "Bhola", en: "Bhola" },
     description: {
-      de: "Die größte Inselstadt des Landes liegt im Gangesdelta und ist umgeben von einer reichen Flussnaturlandschaft.",
+      de: "Die einzige Insel-Distrikthauptstadt des Landes, gelegen an der Mündung des Meghna-Flusses in den Golf von Bengalen.",
       hu: "Banglades legnagyobb szigetvárosa a torkolatvidéken, amelyet gazdag vízi élővilág és termékeny földek jellemeznek. A sziget óriási földgázkészletei révén kulcsszerepet játszik az ország energiaellátásában.",
       ro: "Cel mai mare oraș de pe o insulă din Bangladesh, Bhola este o regiune bogată în resurse naturale.",
-      en: "The largest island city in the country is located in the Ganges delta and is surrounded by a rich river natural landscape.",
+      en: "The administrative center of Bangladesh's largest island, situated at the mouth of the Meghna River.",
     },
     facts: {
       hu: [
@@ -1003,6 +1086,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Híres a bivalytej-termeléséről és bivalyjoghurtjáról",
         "A folyami és tengeri halászat központja"
       ],
+      ro: ["Singurul district insular al țării", "Gazduiește rezerve semnificative de gaze naturale", "Centru pentru agricultură și pescuit marin"],
+      de: ["Größte Insel von Bangladesch", "Wichtiger Standort für Erdgasförderung", "Berühmt für Büffeljoghurt und Kokosnüsse", "Region mit reicher mariner Biodiversität"],
+      en: ["Located on Bhola Island", "Famous for buffalo milk curd", "Significant natural gas reserves"]
     },
     
      image: "/poi-images/bhola-cities-v2.webp",
@@ -1026,10 +1112,10 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     coords: [89.1833, 23.5500],
     name: { de: "Jhenaidah", hu: "Jhenaidah", ro: "Jhenaidah", en: "Jhenaidah" },
     description: {
-      de: "Im Südwesten des Landes gelegen, ist diese ruhige Stadt reich an historischen Moscheen und Agrarflächen.",
+      de: "Eine landwirtschaftlich geprägte Stadt im Westen, bekannt für ihre Bananenplantagen und historischen Moscheen.",
       hu: "Délnyugat-Banglades történelmi és mezőgazdasági központja, amely számos antik mecsetet és építészeti emléket őriz a szultanátus korából. A város híres agrárinnovációiról és békés, zöld tájairól.",
       ro: "Un oraș agricol prosper din vestul țării, Jhenaidah este poarta către regiunile de frontieră.",
-      en: "Located in the southwest of the country, this quiet city is rich in historical mosques and agricultural land.",
+      en: "A district in western Bangladesh known for its agricultural diversity and several historical mosques and temples.",
     },
     facts: {
       hu: [
@@ -1038,6 +1124,9 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
         "Híres a helyi népzenéről és folklórról",
         "Az indigótermesztés egykori történelmi központja"
       ],
+      ro: ["Lider național în producția de banane", "Bogat în moschei și situri istorice vechi", "Centru educațional în creștere pentru regiune"],
+      de: ["Führend in der Bananen- und Gemüseproduktion", "Beherbergt historische Moscheen aus der Sultanatszeit", "Wichtiges Zentrum für das Bildungswesen der Region", "Bekannt für seine malerische ländliche Umgebung"],
+      en: ["Agricultural production hub", "Home to Shahi Mosque", "Rich in folk culture"]
     },
     descriptionAdvanced: {
       de: "Im Südwesten des Landes gelegen, ist diese ruhige Stadt reich an historischen Moscheen und Agrarflächen. Damit zählt der Ort zu den charakteristischen Punkten Bangladeschs im Ganges-Brahmaputra-Delta, am Golf von Bengalen und im Umfeld der Sundarbans-Mangrovenwälder, und bietet einen Einblick in die bengalische Kultur, den Monsun und die regionale Identität. Liegt im südasiatischen Staat Bangladesch. Region geprägt vom Ganges-Brahmaputra-Delta und dem Golf von Bengalen. Klima tropischer Monsun mit ausgeprägter Regen- und Trockenzeit. Erreichbar über das Straßennetz und das ausgedehnte Flusssystem des Deltas.",

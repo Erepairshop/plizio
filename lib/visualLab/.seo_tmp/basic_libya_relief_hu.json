@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-akdar-highlands-relief-v2",
+      "description": "Líbia északkeleti részén található termékeny felföld, amely a sivataggal ellentétben gazdagabb növényzettel rendelkezik.",
+      "facts": ["Északkelet-Líbia", "Termékeny felföld", "Szubmediterrán klíma"]
+    },
+    {
+      "id": "jebel-tarhuna-relief-v2",
+      "description": "A tripoli fennsík részét képező kiemelkedés, amely fontos mezőgazdasági terület az ország északi részén.",
+      "facts": ["Tripoli környéke", "Mezőgazdasági régió", "Északi felföld"]
+    },
+    {
+      "id": "jebel-nafusa-relief-v2",
+      "description": "A Tripolitániát és a Szaharát elválasztó hegylánc. Jelentős kulturális és történelmi örökséggel bír a berberek révén.",
+      "facts": ["Berber központ", "Természetes határ", "Északnyugati hegység"]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "description": "Fekete vulkanikus hegység, amely meredek falai és sötét kőzetei miatt különleges domborzati elem Líbia sivatagjában.",
+      "facts": ["Vulkanikus hegylánc", "Fekete bazalt", "Sivatagi kiemelkedés"]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "description": "Hatalmas sivatagi völgyrendszer, amely ősi időkben vízfolyások útvonala volt, ma a sivatagi domborzat mélyedéseit alkotja.",
+      "facts": ["Sivatagi völgy", "Ősi vízfolyás", "Mélységi domborzat"]
+    },
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "description": "A Szahara líbiai oldalán található kiterjedt, sík kavicssivatagos terület, minimális domborzati változással.",
+      "facts": ["Kavicssivatag", "Sík domborzat", "Szahara határa"]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "description": "Az Ubari homoksivatag mélyedésében található sós vizű tó, amelyet pálmaligetek vesznek körül.",
+      "facts": ["Oázis jellegű tó", "Sós víz", "Ubari homoksivatag"]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "description": "Az Ubari homoksivatag tavaiból álló rendszer, amely a sivatagi dűnék között helyezkedik el.",
+      "facts": ["Sivatagi tavak", "Homoksivatag", "Líbiai mélyföld"]
+    },
+    {
+      "id": "ubari-sand-sea-relief-v2",
+      "description": "Líbia hatalmas homoktengere, amelyet hatalmas, vándorló dűnék és mélyedések alkotnak.",
+      "facts": ["Homoksivatag", "Dűnevilág", "Délnyugat-Líbia"]
+    },
+    {
+      "id": "gargaf-desert-relief-v2",
+      "description": "Sziklás és kavicsos sivatagi domborzat, amely része a Líbia középső részén húzódó száraz vidékeknek.",
+      "facts": ["Kavicsos sivatag", "Száraz vidék", "Közép-Líbia"]
+    }
+  ]
+}

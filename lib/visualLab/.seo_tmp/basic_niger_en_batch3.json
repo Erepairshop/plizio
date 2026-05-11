@@ -1,0 +1,83 @@
+{
+  "lang": "en",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "diffa-frucht-life-v2",
+      "description": "Diffa's horticultural sector benefits from soil types around the regional plains, supporting diverse fruit production and small-scale gardening.",
+      "facts": ["Horticultural sector", "Regional plains soil", "Fruit production", "Small-scale gardening"]
+    },
+    {
+      "id": "maradi-kids-park-life-v2",
+      "description": "Maradi maintains community parks and green spaces, providing essential recreational areas for children and families in the urban center.",
+      "facts": ["Urban green space", "Recreational area", "Family parks", "City leisure hub"]
+    },
+    {
+      "id": "zinder-zoo-life-v2",
+      "description": "Zinder supports local wildlife interest through community-accessible spaces, highlighting regional animal diversity and educational initiatives.",
+      "facts": ["Wildlife interest", "Community-accessible", "Animal diversity", "Educational site"]
+    },
+    {
+      "id": "goulbi-goulbi-nature-v2",
+      "description": "The Goulbi area represents a crucial riparian ecosystem with seasonal water flow, supporting distinct flora and fauna typical of the Niger landscape.",
+      "facts": ["Riparian ecosystem", "Seasonal water flow", "Distinct flora/fauna", "Niger landscape"]
+    },
+    {
+      "id": "plateau-djado-relief-v2",
+      "description": "The Djado Plateau is a vast, rugged sandstone formation in northeastern Niger, characterized by dramatic cliffs and ancient rock art sites.",
+      "facts": ["Sandstone formation", "Rugged plateau", "Dramatic cliffs", "Ancient rock art"]
+    },
+    {
+      "id": "koutous-relief-v2",
+      "description": "The Koutous massif forms a prominent topographical feature in the region, influencing local drainage patterns and diverse micro-climates.",
+      "facts": ["Topographical feature", "Influences drainage", "Massif formation", "Micro-climate influence"]
+    },
+    {
+      "id": "goulbi-kaba-relief-v2",
+      "description": "Goulbi Kaba is a significant seasonal valley system, vital for regional water management and traditional agricultural activities.",
+      "facts": ["Seasonal valley", "Water management", "Agricultural importance", "Regional system"]
+    },
+    {
+      "id": "goulbi-goulbi-relief-v2",
+      "description": "This valley system is essential for the region's physical geography, creating depressions and basins that sustain seasonal ecosystems.",
+      "facts": ["Physical geography", "Seasonal depressions", "Basin formation", "Ecosystem support"]
+    },
+    {
+      "id": "tchad-basin-relief-v2",
+      "description": "The Niger segment of the Lake Chad Basin is characterized by flat, low-lying alluvial plains shaped by ancient lake levels.",
+      "facts": ["Alluvial plains", "Low-lying area", "Ancient lake influence", "Regional basin"]
+    },
+    {
+      "id": "air-massif-relief-v2",
+      "description": "The Aïr Massif is a mountainous region in the Sahara, rising significantly above the surrounding desert plains with unique volcanic formations.",
+      "facts": ["Sahara mountain region", "Volcanic formations", "Elevated desert terrain", "Unique landscape"]
+    },
+    {
+      "id": "bilma-escarpment-relief-v2",
+      "description": "The Bilma escarpment is a distinctive geological feature bordering the Tenere desert, known for its salt pans and oasis settlements.",
+      "facts": ["Geological feature", "Tenere desert border", "Salt pans area", "Oasis site"]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "description": "The Kawar cliffs define the edge of the desert basin, serving as a historic navigational reference and a site for traditional desert settlements.",
+      "facts": ["Desert basin edge", "Navigational marker", "Traditional settlement", "Geological cliff"]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "description": "Fachi Hill stands as a striking landmark within the arid landscape, influencing local travel paths and historical trade activity.",
+      "facts": ["Striking landmark", "Arid terrain feature", "Trade influence", "Travel reference"]
+    },
+    {
+      "id": "koutous-east-relief-v2",
+      "description": "The eastern section of the Koutous massif consists of undulating terrain and rocky outcrops that define the local physical relief.",
+      "facts": ["Undulating terrain", "Rocky outcrops", "Physical relief", "Eastern Koutous area"]
+    }
+  ]
+}

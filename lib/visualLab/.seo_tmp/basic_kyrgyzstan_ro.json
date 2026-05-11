@@ -1,0 +1,139 @@
+{
+  "lang": "ro",
+  "country": "Kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khan-tengri-relief-v2",
+      "description": "Khan Tengri este unul dintre cele mai înalte vârfuri din munții Tian Shan, situat la granița dintre Kârgâzstan, Kazahstan și China. Este renumit pentru forma sa piramidală aproape perfectă și marmura roz care îi dă o strălucire deosebită la apus.",
+      "facts": [
+        "Altitudine de 7010 metri",
+        "Al doilea cel mai înalt vârf din Tian Shan",
+        "Numele înseamnă Stăpânul Cerului",
+        "Ascensiune tehnică dificilă"
+      ]
+    },
+    {
+      "id": "tian-shan-relief-v2",
+      "description": "Tian Shan, cunoscut și sub numele de Munții Cerești, este un sistem montan masiv din Asia Centrală care domină peisajul Kârgâzstanului. Lanțul muntos găzduiește unii dintre cei mai mari ghețari din afara regiunilor polare.",
+      "facts": [
+        "Lungime de aproximativ 2500 km",
+        "Vârful Jengish Chokusu este cel mai înalt",
+        "Inclus în patrimoniul mondial UNESCO",
+        "Format în principal din roci sedimentare"
+      ]
+    },
+    {
+      "id": "suusamyr-valley-relief-v2",
+      "description": "Valea Suusamyr este o vale muntoasă înaltă situată la peste 2000 de metri altitudine, între lanțurile muntoase Ala-Too Kârgâz și Suusamyr-Too. Este una dintre cele mai mari pășuni alpine din țară, fiind un centru tradițional pentru creșterea animalelor.",
+      "facts": [
+        "Altitudine medie de 2200 metri",
+        "Situată la 160 km de Bișkek",
+        "Populară pentru zborul cu parapanta",
+        "Zăpada persistă până târziu în primăvară"
+      ]
+    },
+    {
+      "id": "ala-archa-gorge-relief-v2",
+      "description": "Cheile Ala Archa fac parte dintr-un parc național situat în munții Tian Shan, la mică distanță de capitala Bișkek. Zona este celebră pentru peisajele sale alpine spectaculoase, ghețari și râuri repezi de munte.",
+      "facts": [
+        "Suprafață de circa 200 km pătrați",
+        "Peste 20 de ghețari în regiune",
+        "Înființat ca parc național în 1976",
+        "Destinație populară pentru drumeții"
+      ]
+    },
+    {
+      "id": "terskey-ala-too-relief-v2",
+      "description": "Terskey Ala-Too este un lanț muntos situat în partea de sud a lacului Issyk-Kul, formând un perete natural impresionant. Este cunoscut pentru varietatea peisajelor sale, de la păduri de molid la stânci golașe și ghețari.",
+      "facts": [
+        "Altitudine maximă de 5216 metri",
+        "Lungime de aproximativ 354 km",
+        "Bogat în izvoare termale",
+        "Include faimoasa vale Karakol"
+      ]
+    },
+    {
+      "id": "kungey-ala-too-relief-v2",
+      "description": "Kungey Ala-Too este lanțul muntos care mărginește malul nordic al lacului Issyk-Kul. Numele său înseamnă \"munții însoriți\", deoarece versanții săi sudici sunt expuși direct razelor soarelui pe tot parcursul zilei.",
+      "facts": [
+        "Altitudine maximă de 4771 metri",
+        "Paralel cu lanțul Terskey Ala-Too",
+        "Munți bogați în pășuni alpine",
+        "Separat de Kazahstan prin graniță"
+      ]
+    },
+    {
+      "id": "jyrgalan-valley-relief-v2",
+      "description": "Valea Jyrgalan este o zonă pitorească situată în estul Kârgâzstanului, aproape de orașul Karakol. Este renumită pentru turismul de aventură, oferind condiții excelente pentru schi în afara pârtiei și drumeții montane.",
+      "facts": [
+        "Situată la 2250 metri altitudine",
+        "Faimoasă pentru zăpada pulver",
+        "Centru de ecoturism în plină dezvoltare",
+        "Trasee montane spre lacuri alpine"
+      ]
+    },
+    {
+      "id": "chong-kemin-valley-relief-v2",
+      "description": "Valea Chong-Kemin este o zonă protejată unică, situată între trei lanțuri muntoase majore. Valea este traversată de râul cu același nume și găzduiește un parc național care conservă o biodiversitate bogată.",
+      "facts": [
+        "Lungime de peste 100 km",
+        "Parc național înființat în 1997",
+        "Habitat pentru leopardul zăpezilor",
+        "Populară pentru rafting și echitație"
+      ]
+    },
+    {
+      "id": "arpa-valley-relief-v2",
+      "description": "Valea Arpa este o vale alpină izolată și vastă, situată în partea de sud-vest a regiunii Naryn. Este cunoscută pentru condițiile sale climatice aspre, fiind una dintre cele mai reci zone locuite din Kârgâzstan.",
+      "facts": [
+        "Altitudine de peste 3000 metri",
+        "Zonă importantă pentru păstorit",
+        "Graniță naturală cu China în apropiere",
+        "Peisaj de tundră alpină"
+      ]
+    },
+    {
+      "id": "ak-sai-valley-relief-v2",
+      "description": "Valea Ak-Sai este o depresiune montană înaltă situată la granița cu China, renumită pentru peisajele sale sălbatice. Este una dintre cele mai mari văi alpine din țară, caracterizată prin soluri permafrost și vegetație rară.",
+      "facts": [
+        "Altitudine medie de 3000-3600 metri",
+        "Temperaturi minime sub -50 de grade",
+        "Acces limitat, necesită permise speciale",
+        "Râul Ak-Sai traversează valea"
+      ]
+    },
+    {
+      "id": "fergana-valley-relief-v2",
+      "description": "Valea Fergana este o regiune fertilă și dens populată, împărțită între Kârgâzstan, Uzbekistan și Tadjikistan. Partea kârgâză a văii este mărginită de munți și este un centru vital pentru agricultură.",
+      "facts": [
+        "Cea mai mare vale din Asia Centrală",
+        "Regiune agricolă extrem de bogată",
+        "Populație diversă din punct de vedere etnic",
+        "Climă mult mai blândă decât în restul țării"
+      ]
+    },
+    {
+      "id": "syrt-plateau-relief-v2",
+      "description": "Podișul Syrt reprezintă o zonă de platouri înalte și reci, situate la altitudini mari în munții Tian Shan. Aceste \"syrts\" sunt caracterizate prin relief ondulat, ghețari și lacuri glaciare mici.",
+      "facts": [
+        "Altitudine între 3000 și 4000 metri",
+        "Zonă de tundră muntoasă",
+        "Important pentru minele de aur din regiune",
+        "Habitat pentru oile Marco Polo"
+      ]
+    },
+    {
+      "id": "karkara-valley-relief-v2",
+      "description": "Valea Karkara este situată la granița dintre Kârgâzstan și Kazahstan, fiind o poartă de acces tradițională pentru alpiniști. Valea este renumită pentru pășunile sale verzi și ca punct de plecare spre marile vârfuri din Tian Shan.",
+      "facts": [
+        "Loc de desfășurare a taberei de bază Karkara",
+        "Cunoscută istoric pentru târgurile de cai",
+        "Pășuni alpine de o calitate excepțională",
+        "Tranzit pentru expedițiile spre Khan Tengri"
+      ]
+    }
+  ]
+}

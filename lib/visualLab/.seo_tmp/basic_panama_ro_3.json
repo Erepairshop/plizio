@@ -1,0 +1,25 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "finca-agroecologica-panama-life-v2", "description": "Fermă eco-prietenoasă cu metode agricole durabile.", "facts": ["Agricultură organică", "Durabilitate", "Educare agricolă"]},
+    {"id": "laguna-de-chiriqui-sea-v2", "description": "Lagună costieră cu ecosistem marin și păduri de mangrovă.", "facts": ["Lagună costală", "Habitat marin", "Ecosistem mangrovă"]},
+    {"id": "cerro-bruja-relief-v2", "description": "Dealul Vracii cu topografie distinctivă în Panama.", "facts": ["Vârf numit", "Reper terenuri", "Caracteristică geografică"]},
+    {"id": "cerro-punta-hohe-relief-v2", "description": "Vârf înalt în provincia Chiriquí cu elevație.", "facts": ["Vârf munte", "Elevație înaltă", "Înălțime scenică"]},
+    {"id": "cerro-trinidad-relief-v2", "description": "Formațiune munte în interioml Panamei.", "facts": ["Formație vârf", "Punct elevație", "Caracteristică terenuri"]},
+    {"id": "cerro-trinidad-norte-relief-v2", "description": "Dealul Trinidad de Nord în panorama Panamei.", "facts": ["Secție vârf", "Elevație nordică", "Marcher geografic"]},
+    {"id": "volcan-baru-relief-v2", "description": "Vulcanul Barú, cel mai înalt vârf al Panamei la 3.475m.", "facts": ["Vulcan înalt", "Vulcan activ", "Vârf major"]},
+    {"id": "loma-del-pan-relief-v2", "description": "Dealul Pâinii în topografia Panamei.", "facts": ["Reper deal", "Punct elevație", "Locație numită"]},
+    {"id": "cordillera-talamanca-relief-v2", "description": "Lanț muntos Talamanca în America Centrală.", "facts": ["Lanț munți", "Graniță internațională", "Diviziunea continentală"]},
+    {"id": "cerro-patacon-relief-v2", "description": "Dealul Plătăintă în peisajul Panamei.", "facts": ["Formație vârf", "Marcher elevație", "Caracteristică geo"]},
+    {"id": "coiba-inselhuegel-relief-v2", "description": "Formații de teren insulă lângă Parcul Coiba.", "facts": ["Terenuri insulă", "Caracteristică costală", "Adiacență marină"]},
+    {"id": "azuero-berge-relief-v2", "description": "Formații muntoase peninsulei Azuero.", "facts": ["Munți peninsulă", "Vârf peninsular", "Highland costier"]},
+    {"id": "cerro-cucurucha-relief-v2", "description": "Dealul Corn cu formă conică distinctivă.", "facts": ["Vârf con-format", "Formă distinctivă", "Reper natural"]},
+    {"id": "altos-de-campana-hohe-relief-v2", "description": "Înălțimi Campana în vestul Panamei.", "facts": ["Zonă highland", "Zonă elevație", "Înălțime protejată"]},
+    {"id": "cerro-gaitancillo-relief-v2", "description": "Mic Dealul Gaitán în relief Panamei.", "facts": ["Vârf minor", "Formație deal", "Punct geografic"]}
+  ]
+}

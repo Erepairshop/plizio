@@ -27,10 +27,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Cuba's most important container port and special economic zone. Deep water container terminal. Special Economic Zone (ZEDM). Strategic logistics hub. Modern port infrastructure. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub."
     },
     factsAdvanced: {
-      de: ["Tiefe Kapazität für Großschiffe", "Sonderwirtschaftszone (ZEDM)", "Strategisches Logistikzentrum", "Moderne Hafeninfrastruktur", "Wichtigster Containerhafen und Sonderwirtschaftszone Kubas.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Nagy mélységű konténerterminál", "Különleges Gazdasági Övezet (ZEDM)", "Stratégiai logisztikai központ", "Modern kikötői infrastruktúra", "Kuba legfontosabb konténerkikötője és különleges gazdasági övezete.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Capacitate mare pentru nave mari", "Zonă Economică Specială (ZEDM)", "Centru logistic strategic", "Infrastructură portuară modernă", "Cel mai important port de containere și zonă economică specială din Cuba.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Deep water container terminal", "Special Economic Zone (ZEDM)", "Strategic logistics hub", "Modern port infrastructure", "Cuba's most important container port and special economic zone.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      de: ["Wichtigster Containerhafen und Sonderwirtschaftszone Kubas.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      hu: ["Kuba legfontosabb konténerkikötője és különleges gazdasági övezete.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Cel mai important port de containere și zonă economică specială din Cuba.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Cuba's most important container port and special economic zone.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -58,10 +58,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "One of the largest oil refineries in Cuba. Processes imported crude oil. Major energy supplier. Employs thousands of workers. Key strategic industrial facility. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation."
     },
     factsAdvanced: {
-      de: ["Verarbeitet importiertes Rohöl", "Wichtiger Energielieferant", "Beschäftigt tausende Arbeiter", "Strategisches Industrieobjekt", "Eine der größten Ölraffinerien auf Kuba.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Importált kőolajat dolgoz fel", "Fontos energiaforrás", "Több ezer munkást foglalkoztat", "Stratégiai ipari létesítmény", "Kuba egyik legnagyobb olajfinomítója.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Procesează țiței importat", "Sursă importantă de energie", "Angajează mii de muncitori", "Obiectiv industrial strategic", "Una dintre cele mai mari rafinării de petrol din Cuba.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Processes imported crude oil", "Major energy supplier", "Employs thousands of workers", "Key strategic industrial facility", "One of the largest oil refineries in Cuba.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      de: ["Eine der größten Ölraffinerien auf Kuba.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      hu: ["Kuba egyik legnagyobb olajfinomítója.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Una dintre cele mai mari rafinării de petrol din Cuba.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["One of the largest oil refineries in Cuba.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -89,10 +89,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "The center of nickel and cobalt mining in Cuba. Globally significant nickel source. Export-oriented. Large-scale industrial mining facility. Vital source of foreign currency. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub."
     },
     factsAdvanced: {
-      de: ["Weltweit bedeutende Nickelquelle", "Exportorientiert", "Große industrielle Bergbauanlage", "Wichtiger Devisenbringer", "Zentrum der Nickel- und Kobaltförderung in Kuba.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Világszinten jelentős nikkelforrás", "Exportorientált", "Hatalmas ipari bányászati létesítmény", "Fontos devizaforrás", "A kubai nikkel- és kobaltbányászat központja.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Sursă importantă de nichel la nivel mondial", "Orientată spre export", "Complex minier industrial mare", "Sursă vitală de valută", "Centrul extracției de nichel și cobalt din Cuba.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Globally significant nickel source", "Export-oriented", "Large-scale industrial mining facility", "Vital source of foreign currency", "The center of nickel and cobalt mining in Cuba.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      de: ["Zentrum der Nickel- und Kobaltförderung in Kuba.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      hu: ["A kubai nikkel- és kobaltbányászat központja.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Centrul extracției de nichel și cobalt din Cuba.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["The center of nickel and cobalt mining in Cuba.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -121,7 +121,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Kreuzfahrtterminal", "Handelshafen", "Geschichtsträchtig", "Knotenpunkt des Tourismus", "Historischer Haupthafen der Inselhauptstadt.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Üdülőhajó-kikötő", "Kereskedelmi kikötő", "Történelmi jelentőségű", "Idegenforgalmi csomópont", "A sziget fővárosának történelmi fő kikötője.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      hu: ["A sziget fővárosának történelmi fő kikötője.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
       ro: ["Terminal de croazieră", "Port comercial", "Semnificație istorică", "Hub turistic", "Portul principal istoric al capitalei insulei.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Cruise terminal", "Commercial port", "Rich historical heritage", "Tourism hub", "The historic main harbor of the island's capital.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
@@ -151,10 +151,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "The most important port in eastern Cuba. Strategic access to the east. Cargo handling hub. Regional economic driver. Natural deep-water bay. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation."
     },
     factsAdvanced: {
-      de: ["Strategischer Zugang zum Osten", "Umschlagplatz für Waren", "Wichtig für die Region", "Natürliche Bucht", "Wichtigster Hafen im Osten Kubas.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Stratégiai hozzáférés kelethez", "Áruforgalmi központ", "Fontos a régió számára", "Természetes öböl", "Kuba keleti részének legfontosabb kikötője.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Acces strategic către est", "Centru de tranzit mărfuri", "Important pentru regiune", "Golf natural", "Cel mai important port din estul Cubei.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Strategic access to the east", "Cargo handling hub", "Regional economic driver", "Natural deep-water bay", "The most important port in eastern Cuba.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      de: ["Wichtigster Hafen im Osten Kubas.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      hu: ["Kuba keleti részének legfontosabb kikötője.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Acces strategic către est", "Centru de tranzit mărfuri", "Important pentru regiune", "Cel mai important port din estul Cubei.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["The most important port in eastern Cuba.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -183,7 +183,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Öl- und Gaslogistik", "Industrielle Bedeutung", "Tiefseeanbindung", "Regionalknoten", "Industriehafen und Umschlagplatz für Erdöl.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Olaj- és gázlogisztika", "Ipari jelentőség", "Mélytengeri kapcsolat", "Regionális csomópont", "Ipari kikötő és olajátrakó hely.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      hu: ["Ipari kikötő és olajátrakó hely.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
       ro: ["Logistică petrol și gaze", "Importanță industrială", "Conexiune de mare adâncime", "Nod regional", "Port industrial și terminal petrolier.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Oil and gas logistics", "Industrial significance", "Deep-water access", "Regional hub", "Industrial port and oil terminal.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
@@ -213,9 +213,9 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Important industrial port in Camagüey. Center for fertilizer production. Industrial cargo hub. Regionally significant. Large capacity. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation."
     },
     factsAdvanced: {
-      de: ["Zentrum der Düngemittelproduktion", "Industrieller Umschlagplatz", "Regional bedeutsam", "Große Kapazität", "Wichtiger Industriehafen in Camagüey.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Wichtiger Industriehafen in Camagüey.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Műtrágyagyártási központ", "Ipari átrakóhely", "Regionálisan jelentős", "Nagy kapacitás", "Fontos ipari kikötő Camagüeyben.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Centru de producție îngrășăminte", "Centru de tranzit industrial", "Semnificație regională", "Capacitate mare", "Port industrial important în Camagüey.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Port industrial important în Camagüey.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Center for fertilizer production", "Industrial cargo hub", "Regionally significant", "Large capacity", "Important industrial port in Camagüey.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
@@ -245,7 +245,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Naturhafen", "Regionaler Handel", "Ländliche Logistik", "Küstenzugang", "Hafen in der Bucht von Nipe.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Természetes kikötő", "Regionális kereskedelem", "Vidéki logisztika", "Parti hozzáférés", "Kikötő a Nipe-öbölben.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      hu: ["Kikötő a Nipe-öbölben.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
       ro: ["Port natural", "Comerț regional", "Logistică rurală", "Acces la coastă", "Port în golful Nipe.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Natural deep harbor", "Regional trade", "Rural logistics", "Coastal access", "Port located in the Nipe Bay.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
@@ -277,7 +277,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Fischereizentrum", "Küstenhandel", "Regionaler Umschlag", "Industrielle Stütze", "Küstenhafen mit regionaler Bedeutung.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Halászközpont", "Parti kereskedelem", "Regionális átrakodás", "Ipari támasz", "Parti kikötő regionális jelentőséggel.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Centru de pescuit", "Comerț de coastă", "Tranzit regional", "Suport industrial", "Port de coastă cu semnificație regională.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Port de coastă cu semnificație regională.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Fishing hub", "Coastal trade", "Regional transit", "Industrial support", "Coastal port with regional significance.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
@@ -308,7 +308,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Regionaler Warenfluss", "Küstenschifffahrt", "Wirtschaftszentrum", "Güterumschlag", "Wichtiger regionaler Hafen an der Südküste.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Regionális áruforgalom", "Parti hajózás", "Gazdasági központ", "Áruátrakodás", "Fontos regionális kikötő a déli parton.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Flux de mărfuri regional", "Navigație de coastă", "Centru economic", "Tranzit mărfuri", "Port regional important pe coasta de sud.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Port regional important pe coasta de sud.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Regional cargo flow", "Coastal shipping", "Economic hub", "Goods handling", "Important regional port on the south coast.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
@@ -339,7 +339,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Fertigungsgüter", "Lokale Industrie", "Wirtschaftsmotor", "Arbeitsplätze", "Diverse Fertigungsanlagen der Hauptstadt.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Gyártott javak", "Helyi ipar", "Gazdasági motor", "Munkahelyek", "A főváros különféle gyártóüzemei.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Bunuri de producție", "Industrie locală", "Motor economic", "Locuri de muncă", "Diverse unități de producție ale capitalei.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Bunuri de producție", "Motor economic", "Locuri de muncă", "Diverse unități de producție ale capitalei.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Manufacturing goods", "Local industry", "Economic engine", "Employment", "Various manufacturing facilities in the capital.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
@@ -370,7 +370,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Regionale Fertigung", "Industriehub", "Beschäftigung", "Wirtschaft", "Zentrum für Produktion im Osten.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Regionális gyártás", "Ipari központ", "Foglalkoztatás", "Gazdaság", "Termelési központ keleten.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Producție regională", "Hub industrial", "Ocuparea forței de muncă", "Economie", "Centru de producție în est.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Hub industrial", "Ocuparea forței de muncă", "Economie", "Centru de producție în est.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Regional manufacturing", "Industrial hub", "Employment", "Economy", "Production center in the east.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
@@ -401,7 +401,7 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Zuckerherstellung", "Agrarindustrie", "Exportware", "Tradition", "Traditionelle Zuckerverarbeitung.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Cukorgyártás", "Agráripar", "Exportcikk", "Hagyomány", "Hagyományos cukorfeldolgozás.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Producția de zahăr", "Agroindustrie", "Produs de export", "Tradiție", "Procesare tradițională a zahărului.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Producția de zahăr", "Produs de export", "Tradiție", "Procesare tradițională a zahărului.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Sugar production", "Agro-industry", "Export product", "Tradition", "Traditional sugar processing.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
@@ -431,9 +431,9 @@ export const poiExtraCubaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hohe Kapazität", "Zuckerrohstoff", "Wirtschaftsfaktor", "Industrie", "Große Zuckerverarbeitungsanlage.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Nagy kapacitás", "Cukoralapanyag", "Gazdasági tényező", "Ipar", "Nagy cukorfeldolgozó üzem.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Capacitate mare", "Materie primă zahăr", "Factor economic", "Industrie", "Unitate mare de procesare a zahărului.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["High capacity", "Raw sugar material", "Economic factor", "Industry", "Large sugar processing facility.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      hu: ["Nagy kapacitás", "Gazdasági tényező", "Ipar", "Nagy cukorfeldolgozó üzem.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Materie primă zahăr", "Factor economic", "Unitate mare de procesare a zahărului.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Large sugar processing facility.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -463,8 +463,8 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Zementherstellung", "Bauwirtschaft", "Regionaler Bedarf", "Industrieanlage", "Wichtige Baustoffproduktion.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Cementgyártás", "Építőipar", "Regionális igény", "Ipari üzem", "Fontos építőanyag-gyártás.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Producția de ciment", "Industria construcțiilor", "Cerere regională", "Unitate industrială", "Producție importantă de materiale de construcții.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Cement production", "Construction industry", "Regional demand", "Industrial plant", "Key building materials production.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Producție importantă de materiale de construcții.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Key building materials production.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -492,10 +492,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Center of the fishing fleet. Fish processing. Fleet base. Marine resources. Export. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Fischverarbeitung", "Flottenbasis", "Meeresressourcen", "Export", "Zentrum der Fischereiflotte.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Flottenbasis", "Meeresressourcen", "Export", "Zentrum der Fischereiflotte.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Halfeldolgozás", "Flottabázis", "Tengeri erőforrások", "Export", "A halászflotta központja.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Procesarea peștelui", "Bază de flotă", "Resurse marine", "Export", "Centrul flotei de pescuit.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Fish processing", "Fleet base", "Marine resources", "Export", "Center of the fishing fleet.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Bază de flotă", "Export", "Centrul flotei de pescuit.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Center of the fishing fleet.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -523,10 +523,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Energy supply for the east. Electricity generation. Energy infrastructure. Grid stability. Industry. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Stromerzeugung", "Energieinfrastruktur", "Netzstabilität", "Industrie", "Energieversorgung für den Osten.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Áramtermelés", "Energetikai infrastruktúra", "Hálózati stabilitás", "Ipar", "Energiaellátás keleten.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Producția de energie", "Infrastructură energetică", "Stabilitatea rețelei", "Industrie", "Furnizare de energie în est.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Electricity generation", "Energy infrastructure", "Grid stability", "Industry", "Energy supply for the east.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      de: ["Energieinfrastruktur", "Industrie", "Energieversorgung für den Osten.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      hu: ["Energetikai infrastruktúra", "Hálózati stabilitás", "Ipar", "Energiaellátás keleten.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Stabilitatea rețelei", "Industrie", "Furnizare de energie în est.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Energy supply for the east.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -554,10 +554,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Processing of tropical fruits. Fruit concentrates. Export products. Agro-economy. Processing. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Fruchtkonzentrate", "Exportprodukte", "Agrarwirtschaft", "Verarbeitung", "Verarbeitung von Südfrüchten.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Agrarwirtschaft", "Verarbeitung", "Verarbeitung von Südfrüchten.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Gyümölcskoncentrátumok", "Exporttermékek", "Agrárgazdaság", "Feldolgozás", "Déli gyümölcsök feldolgozása.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Concentrate de fructe", "Produse de export", "Economie agrară", "Procesare", "Procesarea fructelor exotice.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Fruit concentrates", "Export products", "Agro-economy", "Processing", "Processing of tropical fruits.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Concentrate de fructe", "Economie agrară", "Procesare", "Procesarea fructelor exotice.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Processing of tropical fruits.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -585,10 +585,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Center of cigar manufacturing. Premium cigars. Tradition. Export. Brand product. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Premium-Zigarren", "Tradition", "Export", "Markenprodukt", "Zentrum der Zigarrenfertigung.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Tradition", "Export", "Markenprodukt", "Zentrum der Zigarrenfertigung.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Prémium szivarok", "Hagyomány", "Export", "Márkatermék", "Szivargyártási központ.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Trabucuri premium", "Tradiție", "Export", "Produs de marcă", "Centru de fabricație a trabucurilor.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Premium cigars", "Tradition", "Export", "Brand product", "Center of cigar manufacturing.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Produs de marcă", "Centru de fabricație a trabucurilor.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Center of cigar manufacturing.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -617,9 +617,9 @@ export const poiExtraCubaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Meersalz", "Ressourcen", "Industrielle Gewinnung", "Handelsgut", "Gewinnung von Meersalz.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Tengeri só", "Erőforrások", "Ipari kitermelés", "Kereskedelmi áru", "Tengeri só kitermelése.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Sare marină", "Resurse", "Extracție industrială", "Marfă de comerț", "Extracția sării marine.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Sea salt", "Resources", "Industrial extraction", "Commodity", "Extraction of sea salt.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      hu: ["Tengeri só", "Erőforrások", "Kereskedelmi áru", "Tengeri só kitermelése.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Resurse", "Extracția sării marine.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Extraction of sea salt.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -647,10 +647,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Metal processing plant. Steel production. Heavy industry. Metallurgy. Industry. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Stahlfertigung", "Schwerindustrie", "Metallurgie", "Industrie", "Metallverarbeitender Betrieb.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
-      hu: ["Acélgyártás", "Nehézipar", "Kohászat", "Ipar", "Fémfeldolgozó üzem.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Producția de oțel", "Industrie grea", "Metalurgie", "Industrie", "Unitate de procesare a metalelor.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Steel production", "Heavy industry", "Metallurgy", "Industry", "Metal processing plant.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      de: ["Stahlfertigung", "Metallurgie", "Industrie", "Metallverarbeitender Betrieb.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      hu: ["Acélgyártás", "Kohászat", "Ipar", "Fémfeldolgozó üzem.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
+      ro: ["Industrie", "Unitate de procesare a metalelor.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Metal processing plant.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -680,8 +680,8 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Spirituosen", "Destillation", "Export", "Kulturprodukt", "Produktion von lokalem Rum.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Szeszes italok", "Lepárlás", "Export", "Kulturális termék", "Helyi rum gyártása.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Băuturi spirtoase", "Distilare", "Export", "Produs cultural", "Producția de rom local.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Spirits", "Distillation", "Export", "Cultural product", "Production of local rum.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Băuturi spirtoase", "Produs cultural", "Producția de rom local.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Production of local rum.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -709,10 +709,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Traditional distillery. Rum. Distillation. Tradition. Brand. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Rum", "Destillation", "Tradition", "Marke", "Traditionelle Destillerie.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Rum", "Tradition", "Marke", "Traditionelle Destillerie.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Rum", "Lepárlás", "Hagyomány", "Márka", "Hagyományos lepárló.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Rom", "Distilare", "Tradiție", "Marcă", "Distilerie tradițională.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Rum", "Distillation", "Tradition", "Brand", "Traditional distillery.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Distilare", "Marcă", "Distilerie tradițională.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Traditional distillery.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -742,8 +742,8 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Mineralien", "Bergbau", "Industrie", "Ressourcen", "Mineralienabbau im Osten.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Ásványok", "Bányászat", "Ipar", "Erőforrások", "Ásványkitermelés keleten.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Minerale", "Minerit", "Industrie", "Resurse", "Extracția mineralelor în est.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Minerals", "Mining", "Industry", "Resources", "Mineral extraction in the east.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Minerale", "Extracția mineralelor în est.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Mineral extraction in the east.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -773,8 +773,8 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Textilien", "Bekleidung", "Industrie", "Fertigung", "Produktion von Bekleidung.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Textile", "Ruházat", "Ipar", "Gyártás", "Ruházati termékek gyártása.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Textile", "Îmbrăcăminte", "Industrie", "Producție", "Producția de articole de îmbrăcăminte.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Textiles", "Apparel", "Industry", "Manufacturing", "Production of apparel.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Industrie", "Producția de articole de îmbrăcăminte.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Production of apparel.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -802,10 +802,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Bottling of beverages. Soft drinks. Bottling. Consumers. Industry. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Erfrischungsgetränke", "Abfüllung", "Verbraucher", "Industrie", "Abfüllung von Getränken.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Erfrischungsgetränke", "Abfüllung", "Verbraucher", "Industrie", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Üdítők", "Palackozás", "Fogyasztók", "Ipar", "Italpalackozás.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Băuturi răcoritoare", "Îmbuteliere", "Consumatori", "Industrie", "Îmbutelierea băuturilor.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Soft drinks", "Bottling", "Consumers", "Industry", "Bottling of beverages.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Consumatori", "Industrie", "Îmbutelierea băuturilor.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Bottling of beverages.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -835,8 +835,8 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Strom", "Energie", "Infrastruktur", "Industrie", "Energieerzeugung für Industrie.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Áram", "Energia", "Infrastruktúra", "Ipar", "Energiatermelés az iparnak.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Electricitate", "Energie", "Infrastructură", "Industrie", "Producția de energie pentru industrie.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Electricity", "Energy", "Infrastructure", "Industry", "Energy production for industry.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Producția de energie pentru industrie.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Energy production for industry.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -864,10 +864,10 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Smaller local trading port. Local trade. Coastal access. Goods transport. Infrastructure. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Lokaler Handel", "Küstenzugang", "Warentransport", "Infrastruktur", "Kleinerer lokaler Handelshafen.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Lokaler Handel", "Infrastruktur", "Kleinerer lokaler Handelshafen.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Helyi kereskedelem", "Parti hozzáférés", "Áruszállítás", "Infrastruktúra", "Kisebb helyi kereskedelmi kikötő.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Comerț local", "Acces la coastă", "Transport mărfuri", "Infrastructură", "Port comercial local mai mic.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Local trade", "Coastal access", "Goods transport", "Infrastructure", "Smaller local trading port.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Port comercial local mai mic.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Smaller local trading port.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -897,8 +897,8 @@ export const poiExtraCubaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Mineralien", "Erze", "Industrie", "Bergbau", "Erweiterte Bergbauzone.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Ásványok", "Ércek", "Ipar", "Bányászat", "Kiterjesztett bányászati zóna.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Minerale", "Minereuri", "Industrie", "Minerit", "Zonă minieră extinsă.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
-      en: ["Minerals", "Ores", "Industry", "Mining", "Extended mining zone.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
+      ro: ["Minerale", "Minereuri", "Zonă minieră extinsă.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      en: ["Extended mining zone.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   },
   {
@@ -926,9 +926,9 @@ export const poiExtraCubaEconomicV2: POI[] = [
       en: "Port cargo handling and maintenance. Maintenance. Logistics. Handling. Infrastructure. Thus, the site is among the characteristic points of Cuba, the Caribbean island nation, reflecting the interplay of history, tobacco and sugarcane cultivation, and tropical nature. Located in Cuba, the largest island state in the Caribbean. Tropical-humid climate with distinct wet and dry seasons. Havana, the capital, is the country's political and cultural hub. The region is closely tied to tobacco, sugarcane and coffee cultivation. The Sierra Maestra range in the southeast shapes the island's topography."
     },
     factsAdvanced: {
-      de: ["Wartung", "Logistik", "Umschlag", "Infrastruktur", "Hafenumschlag und Wartung.", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
+      de: ["Wartung", "Logistik", "Umschlag", "Infrastruktur", "Liegt im karibischen Inselstaat Kuba.", "Tropisch-feuchtes Klima mit ausgeprägter Regen- und Trockenzeit.", "Hauptstadt Havanna ist das politische und kulturelle Zentrum des Landes."],
       hu: ["Karbantartás", "Logisztika", "Átrakodás", "Infrastruktúra", "Kikötői átrakodás és karbantartás.", "A karibi térség legnagyobb szigetországában, Kubában fekszik.", "Trópusi-nedves éghajlat jellemzi, kifejezett esős és száraz évszakkal.", "Az ország politikai és kulturális központja a főváros, Havanna."],
-      ro: ["Întreținere", "Logistică", "Tranzit", "Infrastructură", "Tranzit și întreținere portuară.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
+      ro: ["Logistică", "Tranzit", "Tranzit și întreținere portuară.", "Este situat în Cuba, cel mai mare stat insular din Caraibe.", "Climat tropical-umed, cu sezon ploios și sezon secetos bine conturate.", "Capitala Havana este centrul politic și cultural al țării."],
       en: ["Maintenance", "Logistics", "Handling", "Infrastructure", "Port cargo handling and maintenance.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   }

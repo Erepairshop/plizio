@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-arroz-cocle-life-v2",
+      "description": "Die Provinz Coclé ist ein bedeutendes Anbaugebiet für Reis, das wesentlich zur lokalen Lebensmittelversorgung beiträgt.",
+      "facts": ["Wichtige Reisanbauregion.", "Fruchtbare Böden der Region.", "Träger der regionalen Landwirtschaft."]
+    },
+    {
+      "id": "parque-nacional-coiba-animales-life-v2",
+      "description": "Der Coiba-Nationalpark ist ein marines Paradies mit einer enormen Vielfalt an Tieren, darunter Haie und Meeresschildkröten.",
+      "facts": ["UNESCO-Welterbe.", "Paradies für Taucher.", "Reiche marine Biodiversität."]
+    },
+    {
+      "id": "finca-maiz-veraguas-life-v2",
+      "description": "In Veraguas wird traditionell Mais angebaut, ein zentrales Grundnahrungsmittel in der panamaischen Küche.",
+      "facts": ["Traditioneller Maisanbau.", "Zentrales Agrarprodukt.", "Landwirtschaftliches Zentrum."]
+    },
+    {
+      "id": "parque-infantil-david-life-v2",
+      "description": "Ein familienfreundlicher Park in der Stadt David, der als zentraler Treffpunkt für Kinder und Familien dient.",
+      "facts": ["Zentrum in der Stadt David.", "Beliebter Spielplatz.", "Treffpunkt der Gemeinschaft."]
+    },
+    {
+      "id": "santuario-perezosos-gambo-life-v2",
+      "description": "Ein Schutzgebiet bei Gamboa, das sich dem Schutz und der Rehabilitation von Faultieren widmet.",
+      "facts": ["Schutz für Faultiere.", "Nahe dem Panamakanal.", "Wichtiger Naturschutzort."]
+    },
+    {
+      "id": "finca-tomate-chiriqui-life-v2",
+      "description": "Die Provinz Chiriquí ist berühmt für ihren hochwertigen Gemüseanbau, insbesondere für schmackhafte Tomaten.",
+      "facts": ["Zentrum für Gemüsebau.", "Günstiges Klima in Chiriquí.", "Landwirtschaftlicher Erfolg."]
+    },
+    {
+      "id": "parque-infantil-chitre-life-v2",
+      "description": "Ein belebter Spielplatz in Chitré, der als wichtiger Ort für die Freizeitgestaltung der Kinder in der Region fungiert.",
+      "facts": ["Zentraler Stadtpark.", "Sicherer Spielbereich.", "Beliebt bei Familien."]
+    },
+    {
+      "id": "zoologico-nacional-panama-life-v2",
+      "description": "Der Nationalzoo in Panama-Stadt beherbergt viele einheimische Tierarten und dient der Aufklärung über die lokale Fauna.",
+      "facts": ["Heimat vieler Arten.", "Wichtiges Bildungszentrum.", "Städtische Tierbeobachtung."]
+    },
+    {
+      "id": "granja-educativa-panama-life-v2",
+      "description": "Eine pädagogische Farm, die Kindern und Besuchern Einblicke in nachhaltige Landwirtschaft und Tierhaltung bietet.",
+      "facts": ["Interaktives Lernprojekt.", "Nachhaltige Landwirtschaft.", "Beliebt für Schulbesuche."]
+    },
+    {
+      "id": "parque-infantil-santiago-life-v2",
+      "description": "Ein beliebter Spielplatz in Santiago de Veraguas, der Kindern Raum zum Spielen in der Stadtmitte bietet.",
+      "facts": ["Zentral gelegen.", "Freizeitangebot für Kinder.", "Wichtiger Treffpunkt."]
+    },
+    {
+      "id": "criadero-cocodrilos-panama-life-v2",
+      "description": "Eine Anlage zur Aufzucht von Krokodilen, die zum Schutz dieser beeindruckenden Reptilien in Panama beiträgt.",
+      "facts": ["Schutz für Krokodile.", "Lehrreiches Projekt.", "Fokus auf Reptilienschutz."]
+    },
+    {
+      "id": "finca-agroecologica-panama-life-v2",
+      "description": "Ein landwirtschaftlicher Betrieb, der nach ökologischen Prinzipien arbeitet und regionale Produkte fördert.",
+      "facts": ["Ökologischer Landbau.", "Förderung nachhaltiger Produkte.", "Vorbild für grüne Landwirtschaft."]
+    }
+  ]
+}

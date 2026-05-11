@@ -250,6 +250,12 @@ export const poiExtraYemenEconomicV2: POI[] = [
       de: ["Befindet sich nahe der Stadt Aden.", "Wesentliche Quelle der Stromversorgung.", "Trägt zur Energieinfrastruktur des Jemen bei."],
       hu: ["Ádeni hőerőmű", "Kritikus energetikai egység", "Dél-Jemen áramellátója", "Hőenergiát termelő üzem"],
       ro: ["Furnizează energie pentru Aden", "Centrală termică"],
+      en: [
+          "Located in Aden, serving the surrounding industrial area.",
+          "Critical component of Yemen's energy infrastructure.",
+          "Operates on conventional thermal power generation technology.",
+          "Essential for sustaining local urban and commercial power demands."
+        ]
     }, image: "/poi-images/hiswa-power-station-economic-v2.webp"},
   {
     id: "marib-gas-power-plant-economic-v2",

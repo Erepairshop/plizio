@@ -102,9 +102,9 @@ export const poiExtraHaitiReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gehört zum Massif de la Hotte Gebirge.", "Wichtiger Teil des UNESCO-Biosphärenreservats.", "Heimat für seltene haitianische Orchideen.", "Gefährdet durch starke Hangabtragung.", "Niederschlagsreichste Region im Südwesten.", "Höhe liegt bei etwa 1.500 Metern."],
-      hu: ["A Massif de la Hotte hegységhez tartozik.", "Az UNESCO Bioszféra-rezervátum fontos része.", "Ritka haiti orchideák otthona.", "Súlyos talajerózió veszélyezteti.", "A délnyugati régió legcsapadékosabb területe.", "Magassága körülbelül 1500 méter."],
-      ro: ["Aparține lanțului muntos Massif de la Hotte.", "Parte importantă a Rezervației Biosferei UNESCO.", "Adăpost pentru orhidee haitiene rare.", "Amenințat de eroziunea severă a versanților.", "Cea mai ploioasă regiune din sud-vest.", "Altitudinea este de aproximativ 1.500 de metri."],
-      en: ["Belongs to the Massif de la Hotte range.", "Key part of a UNESCO Biosphere Reserve.", "Home to rare endemic Haitian orchids.", "Threatened by severe slope erosion.", "One of the wettest regions in the southwest.", "Elevation is approximately 1,500 meters."]
+      hu: ["A Massif de la Hotte hegységhez tartozik.", "Ritka haiti orchideák otthona.", "Súlyos talajerózió veszélyezteti.", "A délnyugati régió legcsapadékosabb területe.", "Magassága körülbelül 1500 méter."],
+      ro: ["Aparține lanțului muntos Massif de la Hotte.", "Parte importantă a Rezervației Biosferei UNESCO.", "Adăpost pentru orhidee haitiene rare.", "Amenințat de eroziunea severă a versanților.", "Cea mai ploioasă regiune din sud-vest."],
+      en: ["Belongs to the Massif de la Hotte range.", "Home to rare endemic Haitian orchids.", "Threatened by severe slope erosion.", "One of the wettest regions in the southwest."]
     }
   },
   {
@@ -204,10 +204,10 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: "Morne des Commissaires is a prominent mountain massif within the Chaîne de la Selle range in southeastern Haiti. Reaching elevations of over 1,800 meters, the region enjoys a temperate, almost alpine climate that stands in sharp contrast to the tropical lowlands. These unique climatic conditions have established the area as one of Haiti's premier centers for vegetable and ornamental flower cultivation. The mountain is also famous for its dense pine forests, though they face continuous pressure from agricultural expansion and charcoal production. Hikers and nature enthusiasts are drawn to Morne des Commissaires for its spectacular panoramic views and refreshing mountain air. Furthermore, the region serves as a critical watershed, providing essential water resources for the coastal towns of the southeast."
     },
     factsAdvanced: {
-      de: ["Höhe über 1.800 Meter.", "Bekannt für den Anbau von Kohl und Karotten.", "Liegt in der Nähe der Stadt Belle-Anse.", "Teil des La Visite Nationalparks.", "Kühles Klima mit häufigem Nebel.", "Wichtiger Standort für Forstbaumschulen."],
-      hu: ["Magassága meghaladja az 1800 métert.", "Káposzta- és sárgarépatermesztéséről ismert.", "Belle-Anse városa közelében fekszik.", "A La Visite Nemzeti Park része.", "Hűvös éghajlat, gyakori köddel.", "Fontos helyszín az erdészeti csemetekertek számára."],
-      ro: ["Altitudine de peste 1.800 de metri.", "Cunoscut pentru cultivarea verzei și a morcovilor.", "Situat în apropierea orașului Belle-Anse.", "Parte a Parcului Național La Visite.", "Climat răcoros cu ceață frecventă.", "Locație importantă pentru pepiniere forestiere."],
-      en: ["Elevation exceeds 1,800 meters.", "Famous for cabbage and carrot cultivation.", "Located near the town of Belle-Anse.", "Part of the La Visite National Park.", "Cool climate with frequent fog and mist.", "Important site for forestry nurseries."]
+      de: ["Bekannt für den Anbau von Kohl und Karotten.", "Liegt in der Nähe der Stadt Belle-Anse.", "Kühles Klima mit häufigem Nebel.", "Wichtiger Standort für Forstbaumschulen."],
+      hu: ["Magassága meghaladja az 1800 métert.", "Káposzta- és sárgarépatermesztéséről ismert.", "Belle-Anse városa közelében fekszik.", "Hűvös éghajlat, gyakori köddel.", "Fontos helyszín az erdészeti csemetekertek számára."],
+      ro: ["Cunoscut pentru cultivarea verzei și a morcovilor.", "Situat în apropierea orașului Belle-Anse.", "Climat răcoros cu ceață frecventă.", "Locație importantă pentru pepiniere forestiere."],
+      en: ["Elevation exceeds 1,800 meters.", "Famous for cabbage and carrot cultivation.", "Located near the town of Belle-Anse.", "Cool climate with frequent fog and mist.", "Important site for forestry nurseries."]
     }
   },
   {
@@ -242,7 +242,7 @@ export const poiExtraHaitiReliefV2: POI[] = [
       de: ["Beherbergt die Bassin-Bleu Wasserfälle.", "Wird von zwei Hauptflüssen entwässert.", "Zentrum der haitianischen Kunst und Kultur.", "Historisch bedeutend für den Kaffeeexport.", "Böden sind reich an organischem Material.", "Verbindet das Massiv de la Selle mit der Küste."],
       hu: ["Itt találhatók a Bassin-Bleu vízesések.", "Két fő folyó vezeti el a vizeit.", "A haiti művészet és kultúra központja.", "Történelmileg jelentős kávéexportáló terület.", "Szerves anyagokban gazdag talaj jellemzi.", "Összeköti a Massif de la Selle-t a tengerparttal."],
       ro: ["Găzduiește cascadele Bassin-Bleu.", "Drenată de două râuri principale.", "Centrul artei și culturii haitiene.", "Importantă istoric pentru exportul de cafea.", "Solurile sunt bogate în materie organică.", "Conectează Masivul de la Selle cu coasta."],
-      en: ["Home to the Bassin-Bleu waterfalls.", "Drained by two main river systems.", "Heart of Haitian art and handicraft culture.", "Historically significant for coffee exports.", "Soils are exceptionally rich in organic matter.", "Links the Massif de la Selle to the coastline."]
+      en: ["Drained by two main river systems.", "Heart of Haitian art and handicraft culture.", "Historically significant for coffee exports.", "Soils are exceptionally rich in organic matter.", "Links the Massif de la Selle to the coastline."]
     }
   },
   {
@@ -414,9 +414,9 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: "Pic de Bonhomme is a distinctive peak within the Massif de la Hotte in the far southwestern tip of Haiti. Located inside the Macaya National Park, it sits in a region world-renowned for its extraordinary concentration of endemic species. The peak and its surrounding slopes are frequently shrouded in mist, creating a rare cloud forest environment where ferns, mosses, and orchids flourish in abundance. Geologically, the mountain is part of an ancient, deeply dissected limestone massif that provides numerous unique ecological niches. Its remote location makes Pic de Bonhomme a critical sanctuary for endangered wildlife, such as the Hispaniolan trogon. However, preventing illegal logging and agricultural encroachment remains a persistent challenge for conservationists managing the park."
     },
     factsAdvanced: {
-      de: ["Höhe von ca. 1.300 Metern.", "Teil des Macaya-Nationalparks.", "Bekannt für seine hohe Orchideenvielfalt.", "Wichtiger Lebensraum für endemische Frösche.", "Vulkanisches Gestein unter der Kalksteindecke.", "Nur zu Fuß über steile Pfade erreichbar."],
-      hu: ["Magassága kb. 1300 méter.", "A Macaya Nemzeti Park része.", "Gazdag orchidea-diverzitásáról ismert.", "Endemikus békák fontos élőhelye.", "Vulkanikus kőzetek a mészkőréteg alatt.", "Csak gyalogosan, meredek ösvényeken érhető el."],
-      ro: ["Altitudine de cca. 1.300 de metri.", "Parte a Parcului Național Macaya.", "Cunoscut pentru marea diversitate de orhidee.", "Habitat important pentru broaște endemice.", "Roci vulcanice sub stratul de calcar.", "Accesibil doar pe jos, pe poteci abrupte."],
+      de: ["Bekannt für seine hohe Orchideenvielfalt.", "Wichtiger Lebensraum für endemische Frösche.", "Vulkanisches Gestein unter der Kalksteindecke.", "Nur zu Fuß über steile Pfade erreichbar."],
+      hu: ["Gazdag orchidea-diverzitásáról ismert.", "Endemikus békák fontos élőhelye.", "Vulkanikus kőzetek a mészkőréteg alatt.", "Csak gyalogosan, meredek ösvényeken érhető el."],
+      ro: ["Cunoscut pentru marea diversitate de orhidee.", "Habitat important pentru broaște endemice.", "Roci vulcanice sub stratul de calcar.", "Accesibil doar pe jos, pe poteci abrupte."],
       en: ["Elevation of approximately 1,300 meters.", "Located within Macaya National Park.", "Renowned for its vast orchid diversity.", "Crucial habitat for endemic frog species.", "Volcanic rock exists beneath the limestone cap.", "Accessible only by foot via steep, rugged trails."]
     }
   },
@@ -546,7 +546,7 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: "Morne La Visite is one of Haiti's highest peaks and the centerpiece of the La Visite National Park within the Chaîne de la Selle range. Standing at approximately 2,270 meters, the mountain features a cool, often misty climate that has fostered a truly unique ecosystem. It is home to significant stands of the Hispaniolan pine and remnants of high-altitude cloud forests. Morne La Visite serves as a critical habitat for several endangered species, most notably the rare Black-capped Petrel. The rugged limestone terrain and steep escarpments provide a dramatic landscape, which is unfortunately threatened by overgrazing and unregulated logging. Safeguarding this high-altitude plateau is of national importance, as it acts as a primary watershed for both the Port-au-Prince metropolitan area and the southeastern coastline."
     },
     factsAdvanced: {
-      de: ["Höhe von ca. 2.270 Metern.", "Zentrum des La Visite Nationalparks.", "Wichtiger Brutplatz für den Diablotin-Sturmvogel.", "Besteht aus oberkretazischem Kalkstein.", "Jahresniederschlag über 2.000 mm.", "Gefährdet durch illegale Karottenplantagen."],
+      de: ["Höhe von ca. 2.270 Metern.", "Zentrum des La Visite Nationalparks.", "Besteht aus oberkretazischem Kalkstein.", "Jahresniederschlag über 2.000 mm.", "Gefährdet durch illegale Karottenplantagen."],
       hu: ["Magassága kb. 2270 méter.", "A La Visite Nemzeti Park központja.", "A feketesapkás viharmadár fontos költőhelye.", "Felső kréta kori mészkőből épül fel.", "Az évi csapadék meghaladja a 2000 mm-t.", "Az illegális sárgarépa-ültetvények veszélyeztetik."],
       ro: ["Altitudine de cca. 2.270 de metri.", "Centrul Parcului Național La Visite.", "Loc de cuibărit important pentru petrelul Diablotin.", "Compus din calcar de vârstă cretacică superioară.", "Precipitații anuale de peste 2.000 mm.", "Amenințat de plantațiile ilegale de morcovi."],
       en: ["Elevation of approximately 2,270 meters.", "Core of the La Visite National Park.", "Key nesting site for the Black-capped Petrel.", "Geology features Upper Cretaceous limestone.", "Annual rainfall exceeds 2,000 mm.", "Under threat from illegal high-altitude farming."]
@@ -579,9 +579,9 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: "The Central Plateau is an expansive upland region in the heart of Haiti, situated between the Massif du Nord and the Montagnes du Trou d'Eau. As one of the country's most vital agricultural zones, it is characterized by rolling hills, wide savannas, and fertile valleys. The Artibonite River traverses the plateau, harnessed by the Péligre Dam to provide essential hydroelectric power and irrigation for the region. The climate here is generally drier than in coastal areas, which facilitates large-scale grain production and cattle ranching. Historically, the plateau has been a focal point for political movements and border disputes with the Dominican Republic. Today, while it is central to Haiti's food security, the region grapples with soil degradation and the urgent need for improved infrastructure and modern farming techniques."
     },
     factsAdvanced: {
-      de: ["Durchschnittliche Höhe ca. 300-400 Meter.", "Beherbergt den Péligre-Staudamm.", "Wichtigstes Gebiet für den Reisanbau.", "Grenzt direkt an die Dominikanische Republik.", "Zentrum der haitianischen Viehzucht.", "Böden sind überwiegend lateritisch."],
-      hu: ["Átlagos magassága kb. 300-400 méter.", "Itt található a Péligre-víztározó.", "A rizstermesztés legfontosabb területe.", "Közvetlenül határos a Dominikai Köztársasággal.", "A haiti állattenyésztés központja.", "A talaj túlnyomórészt laterites."],
-      ro: ["Altitudine medie de cca. 300-400 de metri.", "Găzduiește barajul și lacul Péligre.", "Cea mai importantă zonă pentru cultura orezului.", "Se învecinează direct cu Republica Dominicană.", "Centrul creșterii animalelor în Haiti.", "Solurile sunt preponderent lateritice."],
+      de: ["Durchschnittliche Höhe ca. 300-400 Meter.", "Beherbergt den Péligre-Staudamm.", "Wichtigstes Gebiet für den Reisanbau.", "Zentrum der haitianischen Viehzucht.", "Böden sind überwiegend lateritisch."],
+      hu: ["Átlagos magassága kb. 300-400 méter.", "Itt található a Péligre-víztározó.", "A rizstermesztés legfontosabb területe.", "A haiti állattenyésztés központja.", "A talaj túlnyomórészt laterites."],
+      ro: ["Altitudine medie de cca. 300-400 de metri.", "Găzduiește barajul și lacul Péligre.", "Cea mai importantă zonă pentru cultura orezului.", "Centrul creșterii animalelor în Haiti.", "Solurile sunt preponderent lateritice."],
       en: ["Average elevation is about 300-400 meters.", "Home to the vital Péligre Hydroelectric Dam.", "Key region for Haiti's domestic rice production.", "Shares a direct land border with the Dominican Republic.", "National hub for cattle and livestock ranching.", "Soils are primarily composed of lateritic deposits."]
     }
   },
@@ -612,7 +612,7 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: "Morne Calvaire is a prominent hill located in Pétion-Ville, an upscale suburb of Port-au-Prince. Renowned for its exclusive residential neighborhoods, it offers some of the most spectacular panoramic views overlooking the Haitian capital and the Bay of Gonâve. The name is derived from the religious stations of the cross that lead up the hill, making it a significant site for local processions. Geologically, the hill is part of the foothills of the Massif de la Selle and consists primarily of limestone. The elevation provides noticeably cooler temperatures compared to the city center, making it a highly desirable escape from the heat. Despite increasing urban development, there are ongoing efforts to preserve its remaining green spaces to maintain the ecological and aesthetic charm of this Pétion-Ville landmark."
     },
     factsAdvanced: {
-      de: ["Beliebter Aussichtspunkt in Pétion-Ville.", "Ort für religiöse Kreuzweg-Prozessionen.", "Bietet Blick auf den Golf von Gonâve.", "Kühleres Mikroklima als in Port-au-Prince.", "Gehört geologisch zum Massif de la Selle.", "Standort exklusiver Hotels und Villen."],
+      de: ["Beliebter Aussichtspunkt in Pétion-Ville.", "Bietet Blick auf den Golf von Gonâve.", "Kühleres Mikroklima als in Port-au-Prince.", "Gehört geologisch zum Massif de la Selle.", "Standort exklusiver Hotels und Villen."],
       hu: ["Népszerű kilátóhely Pétion-Ville-ben.", "Vallási keresztúti körmenetek helyszíne.", "Kilátást nyújt a Gonâve-öbölre.", "Hűvösebb mikroklíma, mint Port-au-Prince-ben.", "Geológiailag a Massif de la Selle-hez tartozik.", "Exkluzív szállodák és villák helyszíne."],
       ro: ["Punct de belvedere popular în Pétion-Ville.", "Loc pentru procesiunile religioase ale Drumului Crucii.", "Oferă vedere spre Golful Gonâve.", "Microclimat mai răcoros decât în Port-au-Prince.", "Aparține geologic de Masivul de la Selle.", "Locație pentru hoteluri și vile exclusive."],
       en: ["Popular lookout point in Pétion-Ville.", "Traditional site for religious Way of the Cross processions.", "Offers sweeping views of the Bay of Gonâve.", "Features a cooler microclimate than downtown Port-au-Prince.", "Geologically part of the Massif de la Selle foothills.", "Home to several of Haiti's most exclusive hotels and villas."]

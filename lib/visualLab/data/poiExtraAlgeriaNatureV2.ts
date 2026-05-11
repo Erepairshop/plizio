@@ -47,7 +47,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
       en: "Chott Melrhir is the lowest point of Algeria, located about 40 meters below sea level in an endorheic basin. It is a huge, seasonal salt lake that dries up almost completely in summer, leaving behind an extensive salt pan. During the winter rainy season, it fills with water and provides a vital habitat for numerous migratory birds. Geography K6 — Endorheic basins and inland waters."
     },
     factsAdvanced: {
-      de: ["Liegt 40 Meter unter dem Meeresspiegel.", "Größter Salzsee in Algerien.", "Wichtige Station für Zugvögel.", "Endorheisches Becken (kein Abfluss).", "Salzgehalt variiert stark.", "Saisonaler Wasserstand."],
+      de: ["Größter Salzsee in Algerien.", "Wichtige Station für Zugvögel.", "Endorheisches Becken (kein Abfluss).", "Salzgehalt variiert stark.", "Saisonaler Wasserstand."],
       hu: ["40 méterrel a tengerszint alatt fekszik.", "Algéria legnagyobb sós tava.", "Fontos állomás a vándormadaraknak.", "Lefolyástalan medence.", "A sótartalom erősen változik.", "Időszakos vízállás."],
       ro: ["Situat la 40 de metri sub nivelul mării.", "Cel mai mare lac sărat din Algeria.", "Stație importantă pentru păsările migratoare.", "Bazin endoreic (fără scurgere).", "Salinitatea variază puternic.", "Nivel al apei sezonier."],
       en: ["Lies 40 meters below sea level.", "Largest salt lake in Algeria.", "Important stop for migratory birds.", "Endorheic basin (no outflow).", "Salinity varies significantly.", "Seasonal water level."]
@@ -74,7 +74,7 @@ export const poiExtraAlgeriaNatureV2: POI[] = [
     factsAdvanced: {
       de: ["UNESCO-Welterbe seit 1982.", "Über 15.000 Felszeichnungen.", "Sandsteinplateau im Sahara-Kern.", "Einzigartige geologische Erosion.", "Früher ein fruchtbares Gebiet.", "Beheimatet seltene Wüstenflora."],
       hu: ["UNESCO Világörökség 1982 óta.", "Több mint 15 000 sziklarajz.", "Homokkő-fennsík a Szahara belsejében.", "Egyedi geológiai erózió.", "Valaha termékeny terület volt.", "Ritka sivatagi flórának ad otthont."],
-      ro: ["Patrimoniu Mondial UNESCO din 1982.", "Peste 15.000 de picturi rupestre.", "Platou de gresie în inima Saharei.", "Eroziune geologică unică.", "A fost odată o zonă fertilă.", "Găzduiește floră deșertică rară."],
+      ro: ["Peste 15.000 de picturi rupestre.", "Platou de gresie în inima Saharei.", "Eroziune geologică unică.", "A fost odată o zonă fertilă.", "Găzduiește floră deșertică rară."],
       en: ["UNESCO World Heritage site since 1982.", "Over 15,000 rock art sites.", "Sandstone plateau in the heart of the Sahara.", "Unique geological erosion.", "Formerly a fertile area.", "Home to rare desert flora."]
     }, image: "/poi-images/tassili-n-ajjer-nature-v2.webp"}
 ];

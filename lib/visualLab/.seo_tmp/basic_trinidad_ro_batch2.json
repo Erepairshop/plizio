@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-belle-garden-cities-v2",
+      "description": "Sat pitoresc situat în Tobago, cunoscut pentru grădinile sale verzi și atmosfera liniștită.",
+      "facts": ["Zona Tobago", "Sat pitoresc", "Grădini locale"]
+    },
+    {
+      "id": "tt-goodwood-cities-v2",
+      "description": "Așezare rurală în Tobago, renumită pentru vederile sale asupra coastei și comunitatea primitoare.",
+      "facts": ["Zona Tobago", "Vederea spre coastă", "Comunitate rurală"]
+    },
+    {
+      "id": "tt-mason-hall-cities-v2",
+      "description": "Sat din Tobago situat în proximitatea unor zone împădurite și a traseelor naturale.",
+      "facts": ["Zona Tobago", "Zonă forestieră", "Trasee naturale"]
+    },
+    {
+      "id": "tt-castara-cities-v2",
+      "description": "Sat pescăresc popular pe coasta de nord a insulei Tobago, cunoscut pentru plajele sale și viața marină.",
+      "facts": ["Tobago de nord", "Sat pescăresc", "Viață marină"]
+    },
+    {
+      "id": "tt-richmond-cities-v2",
+      "description": "Așezare în Trinidad care servește drept zonă rezidențială cu acces către facilități locale.",
+      "facts": ["Zonă rezidențială", "Trinidad", "Facilități locale"]
+    },
+    {
+      "id": "tt-glamis-cities-v2",
+      "description": "Sat liniștit situat în interiorul insulei, înconjurat de vegetație luxuriantă.",
+      "facts": ["Zona rurală", "Vegetație tropicală", "Așezare izolată"]
+    },
+    {
+      "id": "tt-mamoral-cities-v2",
+      "description": "Comunitate mică din Trinidad, cunoscută pentru mediul rural și peisajele sale neatinse.",
+      "facts": ["Comunitate mică", "Peisaj rural", "Mediu nealterat"]
+    },
+    {
+      "id": "tt-brothers-road-cities-v2",
+      "description": "Localitate rurală în Trinidad, situată într-o zonă cu dealuri domoale și plantații.",
+      "facts": ["Zonă rurală", "Dealuri domoale", "Plantații"]
+    }
+  ]
+}

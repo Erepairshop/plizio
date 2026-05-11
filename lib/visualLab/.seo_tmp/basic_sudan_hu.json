@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-dair-massif-relief-v2",
+      "description": "Jebel Dair masszívuma egy kiemelkedő hegyi tömb, amely markáns domborzati egység a régióban.",
+      "facts": ["Hegytömb", "Domborzati egység", "Kiemelkedés", "Masszívum"]
+    },
+    {
+      "id": "wadi-howar-delta-relief-v2",
+      "description": "Wadi Howar deltája egy kiterjedt száraz völgyrendszer, amely ősi vízi utakat idéz a sivatagban.",
+      "facts": ["Völgyrendszer", "Ősi vízfolyás", "Sivatagi domborzat", "Wadi-delta"]
+    },
+    {
+      "id": "jebel-marra-highlands-relief-v2",
+      "description": "Jebel Marra fennsíkja az ország legmagasabb pontjait tartalmazza, drámai és változatos domborzattal.",
+      "facts": ["Fennsík", "Legmagasabb pont", "Hegyvidék", "Változatos táj"]
+    },
+    {
+      "id": "atbara-plain-relief-v2",
+      "description": "Atbara síksága egy tágas, alacsony domborzatú terület a folyó mentén, amely ideális a mezőgazdaságnak.",
+      "facts": ["Síkság", "Atbara folyó", "Domborzat", "Mezőgazdasági táj"]
+    },
+    {
+      "id": "jebel-soturba-relief-v2",
+      "description": "Jebel Soturba hegye a Vörös-tengeri hegyek egyik karakteres csúcsa, meredek lejtőkkel.",
+      "facts": ["Hegycsúcs", "Vörös-tenger", "Meredek lejtő", "Sziklás táj"]
+    },
+    {
+      "id": "wadi-azum-valley-relief-v2",
+      "description": "Wadi Azum völgye egy fontos domborzati folyosó Darfur régiójában, amely meghatározza a környék arculatát.",
+      "facts": ["Völgy", "Darfur", "Domborzati folyosó", "Felszíni forma"]
+    },
+    {
+      "id": "nuba-hills-central-relief-v2",
+      "description": "Nuba-hegység központi vonulatai sűrűn tagolt, sziklás domborzatot mutatnak a szudáni szavannán.",
+      "facts": ["Hegyvonulat", "Sziklás felszín", "Domborzat", "Szavanna"]
+    },
+    {
+      "id": "jebel-uwaynat-sudan-relief-v2",
+      "description": "Jebel Uwaynat egy hatalmas hegycsoport a sivatag közepén, amely határkőként emelkedik ki a környezetéből.",
+      "facts": ["Hegycsoport", "Sivatagi táj", "Határhegy", "Domborzat"]
+    },
+    {
+      "id": "dongola-plain-relief-v2",
+      "description": "Dongola síksága a Nílus folyását követő széles, lapos domborzatú terület.",
+      "facts": ["Síkság", "Nílus", "Lapos domborzat", "Felszíni forma"]
+    },
+    {
+      "id": "jebel-mimi-relief-v2",
+      "description": "Jebel Mimi egy kisebb domborzati képződmény, amely jellegzetes alakjával tűnik ki a vidéki tájban.",
+      "facts": ["Hegycsúcs", "Domborzat", "Jellegzetes forma", "Szudáni táj"]
+    },
+    {
+      "id": "wadi-howar-upper-relief-v2",
+      "description": "Wadi Howar felső szakasza egy száraz völgyvonal, amely a sivatagi domborzatba mélyed.",
+      "facts": ["Száraz völgy", "Sivatagi domborzat", "Felszíni forma", "Wadi"]
+    },
+    {
+      "id": "khor-el-gash-plain-relief-v2",
+      "description": "Khor El-Gash síksága időszakos folyóvíz által kialakított, termékeny alacsony fekvésű terület.",
+      "facts": ["Síkság", "Termékeny övezet", "Időszakos víz", "Domborzat"]
+    }
+  ]
+}

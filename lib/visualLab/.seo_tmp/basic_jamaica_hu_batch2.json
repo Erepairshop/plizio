@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-cement-plant-economic-v2",
+      "description": "Cementgyár a helyi építőipar ellátására.",
+      "facts": ["Cementgyártás", "Építőanyagok", "Helyi ipar", "Infrastruktúra-építés"]
+    },
+    {
+      "id": "jm-lumber-mill-economic-v2",
+      "description": "Ipari fafeldolgozó a helyi és exportpiacra.",
+      "facts": ["Fafeldolgozás", "Épületfa", "Erdőgazdálkodás", "Exportcikkek"]
+    },
+    {
+      "id": "jm-poultry-processing-economic-v2",
+      "description": "Ipari baromfifeldolgozó az élelmiszerpiac számára.",
+      "facts": ["Baromfihús", "Élelmiszer-feldolgozás", "Agráripar", "Helyi ellátás"]
+    },
+    {
+      "id": "jm-bottling-plant-economic-v2",
+      "description": "Nagy ipari palackozóüzem üdítőitalok és helyi italok számára.",
+      "facts": ["Palackozóüzem", "Élelmiszeripar", "Ipari termelés", "Disztribúció"]
+    },
+    {
+      "id": "jm-telecom-hub-economic-v2",
+      "description": "Digitális infrastruktúra és kommunikáció központi csomópontja.",
+      "facts": ["Digitális infrastruktúra", "Telekommunikáció", "Adatátvitel", "Technológia"]
+    },
+    {
+      "id": "jm-solar-farm-economic-v2",
+      "description": "Nagy létesítmény megújuló energia termelésére.",
+      "facts": ["Megújuló energiák", "Napenergia", "Villamoshálózat", "Fenntarthatóság"]
+    },
+    {
+      "id": "jm-airport-cargo-economic-v2",
+      "description": "Fontos logisztikai helyszín légi áruszállítás számára.",
+      "facts": ["Légi áruszállítás", "Logisztika", "Export/Import", "Szállítás"]
+    },
+    {
+      "id": "jm-mineral-terminal-economic-v2",
+      "description": "Speciális létesítmény ásványi anyagok átrakodására.",
+      "facts": ["Átrakodóhely", "Ásványi anyagok", "Logisztikai terminál", "Nagykereskedelem"]
+    },
+    {
+      "id": "jm-agri-processing-economic-v2",
+      "description": "Központ helyi mezőgazdasági termékek feldolgozására.",
+      "facts": ["Mezőgazdaság", "Termékfeldolgozás", "Agrárgazdaság", "Élelmiszerek"]
+    },
+    {
+      "id": "jm-water-works-economic-v2",
+      "description": "Központi víztisztító telep a fővárosi régió számára.",
+      "facts": ["Víztisztítás", "Infrastruktúra", "Közszolgáltatások", "Erőforrás-gazdálkodás"]
+    },
+    {
+      "id": "jm-fruit-packhouse-economic-v2",
+      "description": "Speciális üzem gyümölcsök exportra történő csomagolására és előkészítésére.",
+      "facts": ["Exportcsomagolás", "Gyümölcsgazdaság", "Élelmiszer-logisztika", "Agráripar"]
+    },
+    {
+      "id": "jm-shipyard-economic-v2",
+      "description": "Hajók karbantartására és javítására szolgáló létesítmény.",
+      "facts": ["Hajójavítás", "Tengeri szolgáltatások", "Ipari karbantartás", "Kikötői infrastruktúra"]
+    }
+  ]
+}

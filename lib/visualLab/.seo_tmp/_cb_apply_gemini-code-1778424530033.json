@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "boreal-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der kanadische boreale Nadelwald ist eines der größten intakten Waldökosysteme der Erde und erstreckt sich kontinuierlich vom Yukon-Territorium im Westen bis zur Provinz Neufundland und Labrador im Osten. Er bedeckt rund 60 Prozent der gesamten kanadischen Landmasse und bildet einen entscheidenden Teil des globalen zirkumpolaren borealen Rings. Die Vegetation ist stark an die harten, eisigen Winter und kurzen Vegetationsperioden angepasst. Sie wird von Nadelbaumarten wie Schwarzfichte, Weißfichte, Banks-Kiefer und Balsamtanne dominiert, ergänzt durch widerstandsfähige Laubbäume wie Amerikanische Zitterpappel und Papierbirke. Geologisch ruht ein Großteil dieses riesigen Waldes auf dem alten Granitgestein des Kanadischen Schilds, das von einem dichten Netzwerk aus Süßwasserseen, Mooren und ausgedehnten Torflandschaften durchzogen ist. Diese Torfgebiete fungieren als eine der weltweit bedeutendsten terrestrischen Kohlenstoffsenken, die Milliarden Tonnen Kohlenstoff speichern. Der Wald bietet einen kritischen Lebensraum für ikonische kanadische Wildtiere, darunter das Waldkaribu, Grauwölfe, Elche und Waldbisons, und dient als wichtigstes Brutgebiet für Milliarden von Zugvögeln. Wirtschaftlich wird die Region intensiv für die Forstwirtschaft, den Bergbau und die Wasserkraftgewinnung genutzt. In den letzten Jahrzehnten geriet der Wald zunehmend unter ökologischen Druck durch den Klimawandel, was zu häufigeren, massiven Waldbränden und der rasanten Ausbreitung von Insektenplagen führte.",
+        "hu": "A kanadai boreális tűlevelű erdő a Föld egyik legnagyobb érintetlen erdei ökoszisztémája, amely folyamatosan húzódik a nyugati Yukon-területtől a keleti Új-Fundland és Labrador tartományig. Kanada teljes szárazföldi területének mintegy 60 százalékát borítja, és a globális cirkumpoláris boreális gyűrű döntő fontosságú részét képezi. A növényzet nagymértékben alkalmazkodott a zord, fagyos telekhez és a rövid tenyészidőszakokhoz. Elsősorban olyan tűlevelű fajok uralják, mint a fekete lucfenyő, a fehér lucfenyő, a Banks-fenyő és a balzsamfenyő, kiegészülve olyan ellenálló lombhullató fákkal, mint a rezgő nyár és a papírnyír. Geológiailag e hatalmas erdő nagy része a Kanadai-pajzs ősi gránitkőzetén nyugszik, amelyet édesvizű tavak, mocsarak és kiterjedt tőzeglápok sűrű hálózata jellemez. Ezek a tőzeglápok a világ egyik legjelentősebb szárazföldi szénelnyelőjeként működnek, több milliárd tonna szenet tárolva. Az erdő kritikus élőhelyet biztosít a jellegzetes kanadai vadvilág számára, beleértve az erdei karibut, a szürke farkasokat, a jávorszarvasokat és az erdei bölényeket, valamint az elsődleges költőhelye több milliárd vándormadárnak. Gazdaságilag a régiót intenzíven hasznosítják az ipari erdészetben, a bányászatban és a vízenergia-termelésben. Az elmúlt évtizedekben az erdő az éghajlatváltozás miatt egyre nagyobb ökológiai nyomás alá került, ami gyakoribb és masszívabb nyári erdőtüzekhez, valamint pusztító rovarjárványok gyors terjedéséhez vezetett.",
+        "ro": "Pădurea boreală canadiană reprezintă unul dintre cele mai mari ecosisteme forestiere intacte de pe Pământ, întinzându-se continuu de la Teritoriul Yukon în vest până la provincia Newfoundland și Labrador în est. Acoperă aproximativ 60% din suprafața totală a Canadei și formează un segment crucial al inelului boreal circumpolar global. Vegetația este puternic adaptată la iernile aspre, înghețate și la sezoanele scurte de creștere. Este dominată de specii de conifere precum molidul negru, molidul alb, pinul Jack și bradul balsamic, alături de copaci foioși rezistenți precum plopul tremurător și mesteacănul de hârtie. Geologic, o mare parte a acestei păduri vaste se sprijină pe roca granitică veche a Scutului Canadian, fiind caracterizată de o rețea densă de lacuri de apă dulce, mlaștini și turbării extinse. Aceste turbării acționează ca unul dintre cele mai importante rezervoare terestre de carbon din lume, stocând miliarde de tone de carbon. Pădurea oferă un habitat critic pentru fauna sălbatică canadiană iconică, inclusiv caribul de pădure, lupii cenușii, elanii și bizonii de pădure, și servește drept principal teren de reproducere pentru miliarde de păsări migratoare. Din punct de vedere economic, regiunea este intens utilizată pentru silvicultură industrială, extracția mineralelor și generarea de energie hidroelectrică. În ultimele decenii, pădurea a fost supusă unor presiuni ecologice tot mai mari din cauza schimbărilor climatice, ducând la incendii de vară mai frecvente și mai masive, precum și la expansiunea rapidă a focarelor de insecte distructive.",
+        "en": "The Canadian Boreal Forest represents one of the largest intact forest ecosystems on Earth, stretching continuously from the Yukon Territory in the west to the province of Newfoundland and Labrador in the east. It covers approximately 60 percent of Canada's total landmass and forms a crucial segment of the global circumpolar boreal ring. The vegetation is highly adapted to the harsh, freezing winters and short growing seasons, heavily dominated by coniferous species such as black spruce, white spruce, jack pine, and balsam fir, alongside resilient deciduous trees like trembling aspen and paper birch. Geologically, much of this vast forest sits atop the ancient granitic rock of the Canadian Shield, characterized by a complex, dense network of freshwater lakes, bogs, and extensive peatlands. These peatlands act as one of the world's most significant terrestrial carbon sinks, storing billions of tonnes of carbon. The forest provides a critical habitat for iconic Canadian wildlife, including woodland caribou, gray wolves, moose, and wood bison, and serves as the primary breeding ground for billions of migratory songbirds. Economically, the region is highly utilized for industrial forestry, mineral extraction, and hydroelectric power generation. In recent decades, the forest has faced increasing ecological pressures from climate change, resulting in more frequent, massive, and highly intense summer wildfires, as well as the rapid expansion of destructive insect outbreaks such as the mountain pine beetle."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der boreale Nadelwald bedeckt rund 60 Prozent der gesamten kanadischen Landmasse.",
+          "Die Waldregion erstreckt sich ununterbrochen vom Yukon bis nach Neufundland.",
+          "Er besteht hauptsächlich aus Nadelbäumen wie Fichten, Kiefern und Tannen.",
+          "Die weiten Torflandschaften speichern weltweit Milliarden Tonnen an Kohlenstoff.",
+          "Die Region dient im Sommer als primäres Brutgebiet für Milliarden von Zugvögeln.",
+          "Forstwirtschaft und Bergbau sind zentrale wirtschaftliche Faktoren in dieser Region.",
+          "Klimawandel und schwere Insektenplagen bedrohen heute die langfristige Waldgesundheit."
+        ],
+        "hu": [
+          "A boreális tűlevelű erdő Kanada teljes szárazföldi területének mintegy 60 százalékát borítja.",
+          "Az erdőrégió megszakítás nélkül húzódik Yukontól egészen Új-Fundlandig.",
+          "Főként tűlevelű fákból áll, például lucfenyőkből, erdeifenyőkből és jegenyefenyőkből.",
+          "A kiterjedt tőzeglápok világszerte több milliárd tonna szenet raktároznak.",
+          "A régió nyáron vándormadarak milliárdjainak elsődleges költőhelyeként szolgál.",
+          "Az erdészet és a bányászat meghatározó gazdasági tényezők ebben a régióban.",
+          "Az éghajlatváltozás és a súlyos rovarjárványok ma fenyegetik a hosszú távú erdőegészséget."
+        ],
+        "ro": [
+          "Pădurea boreală acoperă aproximativ 60% din masa terestră totală a Canadei.",
+          "Regiunea forestieră se întinde neîntrerupt de la Yukon până la Newfoundland.",
+          "Este formată în principal din copaci coniferi, cum ar fi molizi, pini și brazi.",
+          "Peisajele extinse de turbă stochează miliarde de tone de carbon la nivel global.",
+          "Regiunea servește vara drept principal teren de reproducere pentru miliarde de păsări migratoare.",
+          "Silvicultura și mineritul sunt factori economici centrali în această regiune.",
+          "Schimbările climatice și focarele severe de insecte amenință astăzi sănătatea forestieră pe termen lung."
+        ],
+        "en": [
+          "The boreal forest covers approximately 60 percent of Canada's entire terrestrial landmass.",
+          "The forested region stretches completely uninterrupted from the Yukon to Newfoundland.",
+          "It consists primarily of resilient coniferous trees such as spruces, pines, and firs.",
+          "The extensive peatlands store billions of tonnes of carbon on a global scale.",
+          "The region serves as the primary summer breeding ground for billions of migratory birds.",
+          "Industrial forestry and mineral mining act as central economic drivers in this region.",
+          "Climate change and severe insect outbreaks currently threaten long-term forest health."
+        ]
+      }
+    },
+    {
+      "id": "hudson-bay-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Hudson Bay ist ein gigantisches, relativ flaches Randmeer im Nordosten Kanadas, das als geografisches Hauptmerkmal des nordamerikanischen Kontinents fungiert. Mit einer Gesamtoberfläche von über 1,2 Millionen Quadratkilometern ist sie das größte Binnenmeer der Welt. Die Bucht ist im Grunde ein riesiges Einzugsgebiet, das Süßwasserabflüsse aus einem gewaltigen Netzwerk von Flüssen in Kanada und den nördlichen Vereinigten Staaten sammelt, was ihren Salzgehalt im Vergleich zum offenen Ozean massiv senkt. Aufgrund dieses geringeren Salzgehalts und der hohen nördlichen Breitengrade friert die Oberfläche der Hudson Bay während der Wintermonate vollständig zu und bleibt typischerweise von Mitte Dezember bis Mitte Juni von Eis umschlossen. Diese saisonale Eisbedeckung bietet einen absolut kritischen Lebens- und Jagdraum für die regionale Polarbärenpopulation. In den wärmeren Sommermonaten zieht die Bucht Tausende von wandernden Belugawalen an, die sich in den Flussmündungen versammeln, um sich zu häuten und ihre Kälber aufzuziehen. Historisch diente die Bucht als primäres Einfallstor für den europäischen Pelzhandel, der jahrhundertelang fest von der Hudson’s Bay Company kontrolliert wurde. Die umliegende Küstenlandschaft wird vom Kanadischen Schild dominiert und geht von borealen Wäldern in subarktische Tundra über. Die gewaltige Menge an kaltem Wasser bestimmt das regionale Klima maßgeblich, drückt die Sommertemperaturen im Osten Kanadas nach unten und erzeugt schwere Wettersysteme.",
+        "hu": "A Hudson-öböl egy gigantikus, viszonylag sekély peremtenger Kanada északkeleti részén, amely az észak-amerikai kontinens egyik meghatározó földrajzi jellemzője. Több mint 1,2 millió négyzetkilométeres teljes felületével a világ legnagyobb beltengere. Az öböl alapvetően egy hatalmas vízgyűjtő medence, amely a Kanadában és az Egyesült Államok északi részén található kiterjedt folyóhálózatból gyűjti be az édesvizet, ami a nyílt óceánhoz képest jelentősen csökkenti az általános sótartalmát. Ezen alacsonyabb sótartalom és a magas északi szélesség miatt a Hudson-öböl felszíne a téli hónapokban teljesen befagy, és általában december közepétől június közepéig jég borítja. Ez a szezonális jégtakaró abszolút kritikus vadászterületet biztosít a regionális jegesmedve-populáció számára. A melegebb nyári hónapokban az öböl vonuló belugabálnák ezreit vonzza, amelyek a folyótorkolatokban gyülekeznek vedlés és borjazás céljából. Történelmileg az öböl volt az európai szőrmekereskedelem elsődleges belépési pontja, amelyet évszázadokon át szilárdan irányított a Hudson’s Bay Company. A környező part menti tájat a Kanadai-pajzs uralja, és a boreális erdőkből szubarktikus tundrába megy át. A hatalmas mennyiségű hideg víz erőteljesen meghatározza a regionális éghajlatot, aktívan lenyomja a nyári hőmérsékletet Kelet-Kanada szerte, és súlyos időjárási rendszereket generál.",
+        "ro": "Golful Hudson este o mare marginală gigantică, relativ puțin adâncă, situată în nord-estul Canadei, funcționând ca o caracteristică geografică definitorie a continentului nord-american. Cu o suprafață totală care depășește 1,2 milioane de kilometri pătrați, este cea mai mare mare interioară din lume. Golful este în esență un bazin de drenaj imens, colectând scurgerile de apă dulce dintr-o vastă rețea de râuri din Canada și nordul Statelor Unite, ceea ce îi scade masiv salinitatea în comparație cu oceanul deschis. Din cauza acestei salinități mai scăzute și a latitudinii sale nordice ridicate, suprafața Golfului Hudson îngheață complet pe parcursul lunilor de iarnă, rămânând de obicei acoperită de gheață de la jumătatea lunii decembrie până la jumătatea lunii iunie. Această acoperire sezonieră de gheață oferă un habitat de vânătoare absolut critic pentru populația regională de urși polari. Lunile mai calde de vară atrag mii de balene beluga migratoare, care se adună în estuarele râurilor pentru a năpârli și a făta. Din punct de vedere istoric, golful a servit drept punct principal de intrare pentru comerțul european cu blănuri, controlat ferm de Hudson’s Bay Company timp de secole. Peisajul de coastă înconjurător este dominat de Scutul Canadian și trece de la păduri boreale la tundră subarctică. Masa imensă de apă rece dictează puternic clima regională, suprimând activ temperaturile de vară din estul Canadei și generând sisteme meteorologice severe.",
+        "en": "Hudson Bay is a massive, relatively shallow inland marginal sea located in northeastern Canada, functioning as a defining geographical feature of the North American continent. With a total surface area exceeding 1.2 million square kilometers, it represents the absolute largest inland sea in the world. The bay is fundamentally an immense drainage basin, collecting massive freshwater runoff from a vast network of rivers across Canada and the northern United States, which significantly lowers its overall salinity compared to the open ocean. Because of this inherently lower salinity and its high northern latitude, the surface of Hudson Bay freezes over completely during the winter months, typically remaining solidly ice-bound from mid-December until mid-June. This seasonal ice coverage provides an absolutely critical hunting habitat for the regional polar bear population. The warmer summer months attract thousands of migrating beluga whales, which congregate tightly in the river estuaries to molt and calve. Historically, the bay served as the primary entry point for the lucrative European fur trade, firmly controlled by the Hudson's Bay Company for centuries. The surrounding coastal landscape is heavily dominated by the rocky Canadian Shield and features extensive subarctic tundra and boreal forest transitions. The massive body of cold water heavily dictates the regional climate, actively suppressing summer temperatures across eastern Canada and generating severe cyclonic weather systems."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Hudson Bay ist mit über 1,2 Millionen km² das größte Binnenmeer der Erde.",
+          "Der massive Zufluss an Süßwasser senkt den Salzgehalt des Wassers erheblich.",
+          "Die Bucht ist jährlich von Mitte Dezember bis Mitte Juni vollständig mit Eis bedeckt.",
+          "Das Wintereis dient den Polarbären als extrem wichtiges Jagdgebiet.",
+          "Im Sommer versammeln sich hier Tausende von Belugawalen zur Jungenaufzucht.",
+          "Die Bucht war historisch das zentrale Eintrittstor für den europäischen Pelzhandel.",
+          "Die gewaltige Kaltwassermasse senkt aktiv die Sommertemperaturen im Osten Kanadas."
+        ],
+        "hu": [
+          "A Hudson-öböl több mint 1,2 millió négyzetkilométeres területével a világ legnagyobb beltengere.",
+          "A masszív édesvíz-beáramlás jelentősen csökkenti a tengervíz sótartalmát.",
+          "Az öböl felszínét évente december közepétől június közepéig teljesen jég borítja.",
+          "A téli jégtakaró rendkívül fontos vadászterületként szolgál a jegesmedvék számára.",
+          "Nyáron belugabálnák ezrei gyülekeznek itt a folyótorkolatokban borjazás céljából.",
+          "Az öböl történelmileg az európai szőrmekereskedelem központi belépési kapuja volt.",
+          "A hatalmas hideg víztömeg aktívan lenyomja a nyári hőmérsékleteket Kelet-Kanadában."
+        ],
+        "ro": [
+          "Golful Hudson este cea mai mare mare interioară de pe Pământ, cu peste 1,2 milioane km².",
+          "Afluxul masiv de apă dulce scade semnificativ salinitatea apei marine.",
+          "Golful este complet acoperit de gheață de la jumătatea lunii decembrie până la jumătatea lunii iunie în fiecare an.",
+          "Gheața de iarnă servește drept teren de vânătoare extrem de important pentru urșii polari.",
+          "Vara, mii de balene beluga se adună aici în estuarele râurilor pentru a făta.",
+          "Golful a fost istoric poarta centrală de intrare pentru comerțul european cu blănuri.",
+          "Masa uriașă de apă rece scade activ temperaturile de vară din estul Canadei."
+        ],
+        "en": [
+          "Hudson Bay is the largest inland sea on Earth, covering over 1.2 million square kilometers.",
+          "The massive influx of river freshwater significantly lowers the overall salinity of the bay.",
+          "The entire bay is completely covered by thick sea ice from mid-December to mid-June annually.",
+          "The solid winter ice provides an absolutely critical hunting ground for polar bears.",
+          "During the summer, thousands of beluga whales gather in the estuaries to calve.",
+          "The bay historically served as the primary entry gateway for the European fur trade.",
+          "The massive volume of cold water actively suppresses summer temperatures across Eastern Canada."
+        ]
+      }
+    },
+    {
+      "id": "mount-waddington-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Mount Waddington ist mit einer maximalen Gipfelhöhe von 4,019 Metern der absolute höchste Berg, der sich vollständig innerhalb der Grenzen der kanadischen Provinz British Columbia befindet. Zentral in den extrem rauen Pacific Ranges der Coast Mountains gelegen, erhebt sich der massive Gipfel dramatisch über die tief eingeschnittenen Küstenfjorde, darunter die nahegelegenen Bute- und Knight Inlets. Bevor er offiziell vermessen und benannt wurde, war er unter dem Namen „Mystery Mountain“ bekannt, da seine abgelegene, stark vergletscherte Lage ihn vor frühen Küstenvermessern völlig verbarg. Das Bergmassiv ist durch schwere, höchst unberechenbare Wettersysteme gekennzeichnet, die direkt vom Pazifischen Ozean aufziehen und gigantische Schneemengen abladen, wodurch ausgedehnte Gletschersysteme wie die Tiedemann- und Franklin-Gletscher entstehen. Geologisch besteht der Berg aus extrem hartem, kristallinem Vulkangestein. Die erste erfolgreiche, historisch dokumentierte Besteigung des Hauptgipfels gelang im Jahr 1936 den prominenten Bergsteigern Fritz Wiessner und Bill House. Diese Meisterleistung gilt aufgrund der extremen technischen Schwierigkeit des finalen Felsenturms als einer der bedeutendsten Meilensteine in der Geschichte des nordamerikanischen Alpinismus. Bis heute bleibt der isolierte Gipfel ein äußerst anspruchsvolles Ziel für Elite-Alpinisten und ist vollständig ohne Straßenanbindung, was komplexe logistische Anreisen mit Skiflugzeugen oder Hubschraubern erfordert, um die Basislager überhaupt zu erreichen.",
+        "hu": "A 4019 méteres maximális csúcsmagasságot elérő Mount Waddington az abszolút legmagasabb olyan hegy, amely teljes egészében a kanadai Brit Columbia tartomány határain belül helyezkedik el. A Parti-hegység (Coast Mountains) rendkívül zord Pacific Ranges vonulatának központjában található masszív csúcs drámaian magasodik a mélyen bevágódott parti fjordok, köztük a közeli Bute Inlet és Knight Inlet fölé. Hivatalos felmérése és elnevezése előtt egyszerűen csak „Rejtély-hegyként” (Mystery Mountain) volt széles körben ismert, mivel távoli, erősen eljegesedett elhelyezkedése miatt sokáig rejtve maradt a korai part menti földmérők elől. A hegytömböt súlyos, rendkívül kiszámíthatatlan, közvetlenül a Csendes-óceán felől érkező időjárási rendszerek jellemzik, amelyek gigantikus mennyiségű havat raknak le, hatalmas gleccserrendszereket hozva létre, mint amilyen a Tiedemann- és a Franklin-gleccser. Geológiailag a hegy rendkívül kemény, kristályos magmás kőzetekből áll. A főcsúcs első sikeres, történelmileg dokumentált megmászását 1936-ban a neves hegymászók, Fritz Wiessner és Bill House hajtották végre, amit a végső sziklatorony extrém technikai nehézsége miatt az észak-amerikai hegymászás történetének egyik legjelentősebb mérföldköveként tartanak számon. A rendkívül elszigetelt csúcs a mai napig is óriási kihívást jelentő célpont az elit alpinisták számára, és teljesen megközelíthetetlen közúton, így az alaptáborok elérése is komplex logisztikát, általában sítalpas bozótrepülőket vagy helikoptereket igényel.",
+        "ro": "Muntele Waddington, cu o altitudine maximă a vârfului de 4.019 metri, este absolut cel mai înalt munte situat în întregime în granițele provinciei canadiene Columbia Britanică. Situat central în asprii Munți Pacifici (Pacific Ranges) ai Munților de Coastă, vârful masiv se înalță dramatic deasupra fiordurilor de coastă adânc crestate, inclusiv fiordurile din apropiere Bute și Knight Inlets. Înainte de a fi măsurat și numit oficial, a fost cunoscut pe scară largă pur și simplu sub numele de „Muntele Misterului” (Mystery Mountain), deoarece locația sa îndepărtată și puternic glaciară l-a ținut ascuns de primii topografi de coastă. Masivul montan este caracterizat de sisteme meteorologice severe, extrem de imprevizibile, care vin direct din Oceanul Pacific, depunând cantități gigantice de zăpadă, creând sisteme glaciare extinse precum ghețarii Tiedemann și Franklin. Geologic, muntele este alcătuit din roci magmatice cristaline, extrem de solide. Prima ascensiune reușită, documentată istoric, a vârfului principal a fost realizată în 1936 de renumiții alpiniști Fritz Wiessner și Bill House, o realizare considerată una dintre cele mai importante repere din istoria alpinismului nord-american datorită dificultății tehnice extreme a turnului final de stâncă. Până în prezent, vârful extrem de izolat rămâne o țintă provocatoare pentru alpiniștii de elită și este complet lipsit de acces rutier, necesitând abordări logistice complexe care implică de obicei avioane de tufiș echipate cu schiuri sau elicoptere pentru a ajunge chiar și la taberele de bază.",
+        "en": "Mount Waddington, reaching a maximum peak elevation of exactly 4,019 meters, is the absolute highest mountain located entirely within the borders of the Canadian province of British Columbia. Situated centrally within the highly rugged Pacific Ranges of the Coast Mountains, the massive peak rises dramatically above deeply incised coastal fjords, including the nearby Bute Inlet and Knight Inlet. Before its official measurement and naming, it was widely known simply as \"Mystery Mountain\" because its remote, heavily glaciated location kept it hidden from early coastal surveyors. The mountain massif is completely characterized by severe, highly unpredictable weather systems sweeping in directly from the Pacific Ocean, which deposit gigantic quantities of snow, creating extensive glacier systems like the Tiedemann and Franklin glaciers. Geologically, the mountain is composed of extremely solid, crystalline igneous rocks. The first successful, historically documented ascent of the main summit was achieved in 1936 by the prominent mountaineers Fritz Wiessner and Bill House, a physical feat considered one of the most significant milestones in North American climbing history due to the extreme technical difficulty of the final rock tower. Today, the highly isolated peak remains a fiercely challenging target for elite alpine climbers and is entirely devoid of any road access, strictly requiring complex logistical approaches typically involving ski-equipped bush planes or helicopters just to reach the base camps."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 4.019 Metern ist er der höchste Berg, der vollständig in British Columbia liegt.",
+          "Der Berg war aufgrund seiner extrem abgelegenen Lage früher als 'Mystery Mountain' bekannt.",
+          "Vom Pazifik einziehende Stürme laden gewaltige Schneemassen auf dem Bergmassiv ab.",
+          "Die stark vergletscherte Region beheimatet riesige Gletscher wie den Tiedemann-Gletscher.",
+          "Die historische Erstbesteigung des Hauptgipfels gelang im Jahr 1936.",
+          "Der Berg besteht geologisch aus extrem hartem, massivem Vulkangestein.",
+          "Es gibt keine Straßen; Basislager können nur per Helikopter oder Flugzeug erreicht werden."
+        ],
+        "hu": [
+          "A 4019 méteres magasságával ez a legmagasabb, teljes egészében Brit Columbiában fekvő hegy.",
+          "A hegy a múltban 'Rejtély-hegy' néven volt ismert rendkívül elszigetelt fekvése miatt.",
+          "A Csendes-óceán felől érkező viharok gigantikus hómennyiséget raknak le a hegytömbön.",
+          "Az erősen eljegesedett régió olyan hatalmas gleccsereknek ad otthont, mint a Tiedemann-gleccser.",
+          "A főcsúcs történelmi, sikeres első megmászását 1936-ban hajtották végre.",
+          "A hegy geológiailag rendkívül kemény, tömör magmás kőzetekből épül fel.",
+          "Nincsenek utak; az alaptáborokat kizárólag helikopterrel vagy repülőgéppel lehet megközelíteni."
+        ],
+        "ro": [
+          "Cu 4.019 metri, este cel mai înalt munte situat în întregime în Columbia Britanică.",
+          "Muntele a fost cunoscut anterior ca 'Muntele Misterului' datorită locației sale extrem de izolate.",
+          "Furtunile care vin dinspre Pacific depun mase gigantice de zăpadă pe masivul montan.",
+          "Regiunea puternic glaciară găzduiește ghețari uriași precum ghețarul Tiedemann.",
+          "Prima ascensiune istorică a vârfului principal a avut loc în anul 1936.",
+          "Din punct de vedere geologic, muntele constă dintr-o rocă magmatică extrem de dură și masivă.",
+          "Nu există drumuri; taberele de bază pot fi atinse doar cu elicopterul sau cu avionul."
+        ],
+        "en": [
+          "At 4,019 meters, it is the highest mountain located entirely within the borders of British Columbia.",
+          "The mountain was previously known as 'Mystery Mountain' due to its extremely remote location.",
+          "Severe storms blowing in from the Pacific Ocean dump gigantic quantities of snow on the massif.",
+          "The heavily glaciated region hosts massive ice systems like the Tiedemann Glacier.",
+          "The historic first successful ascent of the main summit was completed in 1936.",
+          "Geologically, the mountain is composed of extremely hard, massive igneous rocks.",
+          "There are no roads; base camps can only be accessed via helicopter or ski-equipped planes."
+        ]
+      }
+    },
+    {
+      "id": "churchill-river-saskatchewan-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Churchill River ist ein massives Flusssystem, das die kanadischen Provinzen Saskatchewan und Manitoba durchquert und sein Wasser letztendlich in die eisige Hudson Bay ergießt. Anders als ein traditioneller, durchgehender Flusslauf ähnelt der Churchill physisch eher einer komplexen, miteinander verbundenen Kette von großen, tiefen Süßwasserseen, die durch kurze, wilde Stromschnellen und beeindruckende Wasserfälle miteinander verknüpft sind. Er entspringt in den borealen Nadelwäldern im Nordwesten Saskatchewans und bahnt sich seinen Weg ostwärts durch das extrem alte, harte Gestein des Kanadischen Schilds. Diese spezifische Geomorphologie macht die Navigation auf dem Fluss sehr anspruchsvoll, war aber historisch gesehen ideal für die Birkenrindenkanus der indigenen First Nations und später der europäischen Pelzhändler; er diente im 18. und 19. Jahrhundert als primäre „Voyageur“-Handelsroute von Ost nach West. Das Ökosystem des Flusses ist geprägt von dichten borealen Nadelwäldern aus Schwarzfichten und Banks-Kiefern. Die sauerstoffreichen Gewässer beherbergen robuste Populationen von begehrten Fischarten, darunter Glasaugenbarsch, Europäischer Hecht und See-Stör. Die gigantische Wassermenge und das Gefälle führten zum Bau mehrerer großer Wasserkraftwerke, wie dem Island Falls Damm in Saskatchewan. Trotz dieser industriellen Entwicklungen bleiben riesige Abschnitte des Flusses stark isoliert und völlig unberührt, was einen kritischen Lebensraum für Weißkopfseeadler, Elche und Schwarzbären darstellt.",
+        "hu": "A Churchill-folyó egy masszív folyórendszer, amely a kanadai Saskatchewan és Manitoba tartományokon halad keresztül, és vizét végül a fagyos Hudson-öbölbe üríti. Eltérően egy hagyományos, folyamatos folyómedertől, a Churchill fizikailag inkább nagy, mély édesvizű tavak összetett, egymásba fonódó láncolatára hasonlít, amelyeket rövid, vad zúgók és lenyűgöző vízesések kötnek össze. Északnyugat-Saskatchewan boreális erdeiben ered, és kelet felé vág magának utat a Kanadai-pajzs rendkívül ősi, kemény alapkőzetén keresztül. Ez a specifikus geomorfológia rendkívül kihívásossá teszi a folyón való navigációt, történelmileg azonban ideális volt az őslakos (First Nations) népek, majd a későbbi európai szőrmekereskedők nyírfakéreg kenujai számára, és a 18. és 19. században az elsődleges kelet-nyugati „voyageur” kereskedelmi útvonalként szolgált. A folyó ökoszisztémáját a fekete lucfenyőből és Banks-fenyőből álló, sűrű boreális erdők jellemzik. A jól oxigenizált vizek olyan keresett halfajok robusztus populációinak adnak otthont, mint a süllő (walleye), a csuka és a tavi tokhal. A gigantikus vízmennyiség és a jelentős szintkülönbségek több nagy vízerőmű építéséhez vezettek a folyó mentén, mint például a saskatchewani Island Falls gát. Ezen ipari fejlesztések ellenére a folyó hatalmas szakaszai erősen elszigeteltek és teljesen érintetlenek maradtak, kritikus élőhelyet biztosítva a fehérfejű rétisasok, jávorszarvasok és feketemedvék számára.",
+        "ro": "Râul Churchill este un sistem fluvial masiv care traversează provinciile canadiene Saskatchewan și Manitoba, descărcându-și în cele din urmă apele în înghețatul Golf Hudson. Spre deosebire de un canal fluvial tradițional și continuu, Churchill seamănă fizic cu un lanț complex și interconectat de lacuri mari și adânci de apă dulce, legate prin prăpăstii scurte și turbulente și cascade impresionante. Izvorând în pădurile boreale din nord-vestul Saskatchewanului, își croiește drum spre est prin roca extrem de veche și dură a Scutului Canadian. Această geomorfologie specifică face ca râul să fie extrem de greu de navigat, dar istoric a fost ideal pentru canoele din scoarță de mesteacăn ale Primelor Națiuni indigene și mai târziu ale comercianților europeni de blănuri, acționând ca principala rută comercială „voyageur” est-vest în secolele XVIII și XIX. Ecosistemul râului este puternic caracterizat de păduri boreale dense de molid negru și pin Jack. Apele sale bine oxigenate susțin populații robuste de specii de pești foarte căutate, inclusiv șalău (walleye), știucă nordică și sturion de lac. Volumul imens de apă și scăderile semnificative de altitudine au dus la construcția mai multor stații de generare hidroelectrică majore de-a lungul cursului său, cum ar fi barajul Island Falls din Saskatchewan. În ciuda acestor dezvoltări industriale, porțiuni vaste ale râului rămân puternic izolate și complet imaculate, oferind un habitat critic pentru vulturii pleșuvi, elani și urșii negri.",
+        "en": "The Churchill River is a massive river system traversing the Canadian provinces of Saskatchewan and Manitoba, ultimately discharging its waters into the freezing Hudson Bay. Unlike a traditional, completely continuous river channel, the Churchill physically resembles a complex, interconnected chain of massive, deep freshwater lakes linked together by short, turbulent rapids and impressive waterfalls. Originating deeply within the boreal forests of northwestern Saskatchewan, it forcefully carves its way eastward directly through the ancient, highly resistant bedrock of the Canadian Shield. This specific, rocky geomorphology makes the river highly challenging to navigate but was historically perfectly ideal for the shallow birchbark canoes of the indigenous First Nations and later European fur traders, acting as the primary east-west \"voyageur\" commercial trade route during the 18th and 19th centuries. The river's ecosystem is heavily characterized by dense surrounding boreal forests of black spruce and jack pine, and its fast-moving, well-oxygenated waters support robust populations of highly sought-after fish species, including walleye, northern pike, and massive lake sturgeon. The immense water volume and significant elevation drops have led directly to the construction of several major hydroelectric generating stations along its course, such as the massive Island Falls dam in Saskatchewan. Despite these modern industrial developments, vast stretches of the river remain highly isolated and pristine, offering a critical, undisturbed habitat for bald eagles, moose, and black bears."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Flusssystem mündet nach seinem Lauf durch Saskatchewan und Manitoba in die Hudson Bay.",
+          "Physisch ist der Fluss eher eine Kette großer Seen, die durch Stromschnellen verbunden sind.",
+          "Der Verlauf führt direkt durch das extrem harte Gestein des uralten Kanadischen Schilds.",
+          "Historisch diente der Fluss als absolut zentrale Ost-West-Handelsroute für Voyageurs.",
+          "Das Flusssystem beherbergt große Populationen von Glasaugenbarschen und See-Stören.",
+          "Trotz Staudämmen wie Island Falls bleiben gigantische Abschnitte des Flusses völlig unberührt.",
+          "Dichte boreale Wälder umgeben die Ufer und bieten Lebensraum für Elche und Bären."
+        ],
+        "hu": [
+          "A folyórendszer Saskatchewan és Manitoba átszelése után a Hudson-öbölbe torkollik.",
+          "Fizikailag a folyó inkább nagy tavak láncolata, amelyeket vad zúgók kötnek össze.",
+          "Az útvonal közvetlenül az ősi Kanadai-pajzs rendkívül kemény kőzetén halad keresztül.",
+          "Történelmileg a folyó abszolút központi kelet-nyugati kereskedelmi útvonalként szolgált.",
+          "A folyórendszer nagy süllő- és tavitokhal-populációknak ad otthont.",
+          "A gátak, mint például az Island Falls ellenére a folyó hatalmas szakaszai teljesen érintetlenek.",
+          "A partokat sűrű boreális erdők szegélyezik, amelyek jávorszarvasok és medvék élőhelyei."
+        ],
+        "ro": [
+          "Sistemul fluvial se varsă în Golful Hudson după ce traversează Saskatchewan și Manitoba.",
+          "Fizic, râul seamănă mai mult cu un lanț de lacuri mari conectate prin prăpăstii.",
+          "Cursul trece direct prin roca extrem de dură a străvechiului Scut Canadian.",
+          "Istoric, râul a servit drept rută comercială absolut centrală est-vest pentru voyageuri.",
+          "Sistemul fluvial găzduiește populații mari de șalău și sturioni de lac.",
+          "În ciuda barajelor precum Island Falls, secțiuni gigantice ale râului rămân complet neatinse.",
+          "Pădurile boreale dense înconjoară malurile, oferind habitat pentru elani și urși."
+        ],
+        "en": [
+          "The river system ultimately flows into Hudson Bay after crossing Saskatchewan and Manitoba.",
+          "Physically, the river resembles a massive chain of large lakes connected by fast rapids.",
+          "The watercourse cuts directly through the extremely hard bedrock of the ancient Canadian Shield.",
+          "Historically, the river served as the absolutely central east-west trade route for voyageurs.",
+          "The highly oxygenated river system supports large populations of walleye and lake sturgeon.",
+          "Despite hydroelectric dams like Island Falls, gigantic stretches of the river remain pristine.",
+          "Dense boreal pine forests surround the banks, providing a completely undisturbed habitat for wildlife."
+        ]
+      }
+    },
+    {
+      "id": "lake-winnipeg-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Winnipegsee (Lake Winnipeg) ist ein massiver, jedoch relativ flacher Süßwassersee in der kanadischen Provinz Manitoba. Mit einer weiten Wasseroberfläche von rund 24.500 Quadratkilometern ist er der zehntgrößte Süßwassersee der Welt. Der See ist ein direktes geografisches Überbleibsel des gigantischen prähistorischen Lake Agassiz, der während des Endes der letzten Eiszeit weite Teile der Region bedeckte. Seine östlichen Ufer sind durch das raue, felsige Terrain des Kanadischen Schilds geprägt, während die westlichen Grenzen lange, ausgedehnte Sandstrände – wie den Grand Beach – und flache landwirtschaftliche Ebenen aufweisen. Der See fungiert als massives Einzugsgebiet für einen großen Teil des nordamerikanischen Kontinents und nimmt das Wasser des Saskatchewan River, des Red River und des Winnipeg River auf, bevor er nach Norden über den Nelson River in die Hudson Bay entwässert. Der See unterstützt eine äußerst lukrative kommerzielle Süßwasserfischerei, die hauptsächlich auf Glasaugenbarsch (lokal als Pickerel bekannt) und See-Felchen abzielt. In den letzten Jahrzehnten hat der Winnipegsee jedoch schwere ökologische Schäden erlitten. Der massive landwirtschaftliche Eintrag von Phosphor- und Stickstoffdüngern aus den umliegenden Präriegebieten hat während der Sommermonate zu ausgedehnten, hochgiftigen Cyanobakterienblüten (Blaualgen) geführt. Die geringe Tiefe des Sees beschleunigt die Erwärmung des Wassers drastisch, was dieses schwerwiegende Eutrophierungsproblem weiter verschärft.",
+        "hu": "A Winnipeg-tó (Lake Winnipeg) egy masszív, ugyanakkor viszonylag sekély édesvizű tó a kanadai Manitoba tartományban. Mintegy 24 500 négyzetkilométeres, hatalmas vízfelületével a világ tizedik legnagyobb édesvizű tava. A tó közvetlen földrajzi maradványa a gigantikus történelem előtti Agassiz-tónak, amely a legutóbbi jégkorszak végén a régió nagy részét borította. Keleti partjait a Kanadai-pajzs zord, sziklás terepe határozza meg, míg nyugati határain hosszú, kiterjedt homokos strandok – mint például a Grand Beach – és sík mezőgazdasági síkságok találhatók. A tó masszív vízgyűjtő medenceként funkcionál az észak-amerikai kontinens jelentős része számára; befogadja a Saskatchewan-, a Red- és a Winnipeg-folyók vizét, mielőtt észak felé, a Nelson-folyón keresztül a Hudson-öbölbe ürülne. A tó egy rendkívül jövedelmező kereskedelmi édesvízi halászati iparágat tart fenn, amely elsősorban a süllőt (helyi nevén pickerel) és a tavi marénát célozza meg. Az elmúlt évtizedekben azonban a Winnipeg-tó súlyos ökológiai károkat szenvedett. A környező préri vízgyűjtőiről származó foszfor- és nitrogéntartalmú mezőgazdasági műtrágyák masszív beáramlása a nyári hónapokban kiterjedt, rendkívül mérgező cianobaktérium (kékalga) virágzást okoz. A tó sekélysége drasztikusan felgyorsítja a víz felmelegedését, ami tovább súlyosbítja ezt a rendkívül komoly eutrofizációs problémát.",
+        "ro": "Lacul Winnipeg este un lac de apă dulce masiv, dar relativ puțin adânc, situat în provincia canadiană Manitoba. Cu o suprafață mare de apă de aproximativ 24.500 de kilometri pătrați, este al zecelea cel mai mare lac de apă dulce din lume. Lacul este o rămășiță geografică directă a giganticei Mări preistorice Lacul Agassiz, care a acoperit o mare parte a regiunii la sfârșitul ultimei ere glaciare. Țărmurile sale estice sunt definite de terenul accidentat și stâncos al Scutului Canadian, în timp ce granițele vestice prezintă plaje lungi și extinse de nisip – cum ar fi Grand Beach – și câmpii agricole plate. Lacul acționează ca un bazin masiv de drenaj pentru o mare parte a continentului nord-american, primind apă din râurile Saskatchewan, Red și Winnipeg înainte de a se scurge spre nord, prin râul Nelson, în Golful Hudson. Lacul susține o industrie comercială extrem de profitabilă de pescuit în apă dulce, vizând în principal șalăul (cunoscut local sub numele de pickerel) și peștele alb de lac. În ultimele decenii, însă, Lacul Winnipeg a suferit degradări ecologice grave. Scurgerea agricolă masivă a îngrășămintelor cu fosfor și azot din bazinele hidrografice ale preriei înconjurătoare a provocat înfloriri extinse și extrem de toxice de cianobacterii (alge verzi-albastre) în timpul lunilor de vară. Adâncimea mică a lacului accelerează drastic încălzirea apei, ceea ce exacerbează și mai mult această problemă severă de eutrofizare.",
+        "en": "Lake Winnipeg is a massive, relatively shallow freshwater lake located in the Canadian province of Manitoba. Covering an immense surface area of approximately 24,500 square kilometers, it holds the distinction of being the tenth-largest freshwater lake in the world by surface area. The lake is a direct geographical remnant of the enormous glacial Lake Agassiz, which completely covered much of the region during the end of the last Ice Age. Its eastern shores are heavily defined by the rugged, rocky terrain of the Canadian Shield, while its western borders feature long, expansive sandy beaches, such as the famous Grand Beach, and flat agricultural plains. The lake acts as a massive drainage basin for a massive portion of the North American continent, directly receiving water from the Saskatchewan, Red, and Winnipeg rivers, before effectively draining northward via the Nelson River into Hudson Bay. The lake supports a highly lucrative commercial freshwater fishing industry, primarily targeting walleye (locally called pickerel) and lake whitefish. Over recent decades, however, Lake Winnipeg has suffered from severe ecological degradation. The massive agricultural runoff of phosphorus and nitrogen fertilizers from the surrounding prairie watersheds has caused extensive, highly toxic cyanobacteria (blue-green algae) blooms during the warm summer months. The lake's overall shallow depth accelerates the rapid warming of the water, further exacerbating this extremely severe eutrophication problem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 24.500 Quadratkilometern ist es der zehntgrößte Süßwassersee der Welt.",
+          "Der See ist ein direkter Überrest des gigantischen eiszeitlichen Lake Agassiz.",
+          "Die östlichen Ufer des Sees liegen auf dem rauen, felsigen Kanadischen Schild.",
+          "Das Wasser fließt über den breiten Nelson River in Richtung Hudson Bay ab.",
+          "Die kommerzielle Fischerei zielt primär auf lukrative Glasaugenbarsche ab.",
+          "Übermäßiger Düngereintrag aus der Landwirtschaft führt zu giftigen Algenblüten.",
+          "Die geringe Tiefe des Sees beschleunigt die gefährliche sommerliche Wassererwärmung."
+        ],
+        "hu": [
+          "A 24 500 négyzetkilométeres kiterjedésével a világ tizedik legnagyobb édesvizű tava.",
+          "A tó a gigantikus jégkorszaki Agassiz-tó közvetlen, máig fennmaradt földrajzi maradványa.",
+          "A tó keleti partjai a zord, sziklás Kanadai-pajzs területén fekszenek.",
+          "A tó vize a széles Nelson-folyón keresztül észak felé, a Hudson-öbölbe áramlik.",
+          "A kereskedelmi halászat elsődleges és legjövedelmezőbb célpontja a süllő (walleye).",
+          "A mezőgazdaságból származó túlzott műtrágya-bemosódás mérgező algavirágzást okoz.",
+          "A tó alacsony vízmélysége drasztikusan felgyorsítja a veszélyes nyári vízfelmelegedést."
+        ],
+        "ro": [
+          "Cu 24.500 de kilometri pătrați, este al zecelea cel mai mare lac de apă dulce din lume.",
+          "Lacul este o rămășiță directă a giganticei Mări glaciare Agassiz.",
+          "Țărmurile estice ale lacului se află pe Scutul Canadian aspru și stâncos.",
+          "Apa curge prin râul larg Nelson spre Golful Hudson.",
+          "Pescuitul comercial vizează în primul rând șalăul extrem de profitabil.",
+          "Scurgerile excesive de îngrășăminte din agricultură duc la înfloriri toxice de alge.",
+          "Adâncimea mică a lacului accelerează încălzirea periculoasă a apei pe timp de vară."
+        ],
+        "en": [
+          "Covering 24,500 square kilometers, it is the tenth-largest freshwater lake in the world.",
+          "The lake is a direct geographic remnant of the gigantic prehistoric glacial Lake Agassiz.",
+          "The eastern shores of the massive lake lie directly on the rugged, rocky Canadian Shield.",
+          "The lake water officially drains northward via the broad Nelson River into Hudson Bay.",
+          "The highly commercial fishing industry primarily targets the lucrative walleye species.",
+          "Massive agricultural fertilizer runoff from the prairies causes toxic summer algae blooms.",
+          "The lake's extremely shallow overall depth drastically accelerates dangerous summer water warming."
+        ]
+      }
+    },
+    {
+      "id": "prince-edward-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Prince Edward Island (PEI) ist eine geografisch stark abgrenzte Inselprovinz, die im Golf von Sankt Lorenz vor der Ostküste Kanadas liegt. Als flächenmäßig und einwohnermäßig mit Abstand kleinste Provinz des Landes wird ihre natürliche Umgebung extrem stark von ihrer Geologie und maritimen Lage bestimmt. Das Grundgestein der Insel besteht fast ausschließlich aus weichem, extrem eisenhaltigem rotem Sandstein, der rasch oxidiert und so die charakteristischen, leuchtend roten Böden der Insel produziert. Dieser äußerst fruchtbare, gut durchlässige Boden bildet die absolute Grundlage für die gewaltige Kartoffelindustrie der Insel. Die Küstenlinie ist extrem dynamisch und zeichnet sich durch eine ununterbrochene Folge von hohen roten Sandsteinklippen, tiefen Buchten und ausgedehnten Barriereinsel-Systemen mit wandernden, grasbewachsenen Sanddünen aus. Viele dieser sensiblen Dünengebiete stehen im Prince Edward Island National Park unter strengem Naturschutz. Das regionale Klima wird massiv vom umgebenden Ozeanwasser beeinflusst. Dies führt zu einem gemäßigten maritimen Klima, das im Vergleich zum kontinentalen Festland durch spätere, kühlere Frühjahrsmonate und relativ lange, milde Herbste gekennzeichnet ist. Das ursprüngliche terrestrische Ökosystem der Insel bestand primär aus dem Akadischen Wald, einer Übergangszone, die nördliche boreale Nadelbäume mit südlichen Laubbaumarten vermischt. Mehr als drei Jahrhunderte intensiver landwirtschaftlicher Rodungen haben diese ursprüngliche Walddecke jedoch extrem fragmentiert.",
+        "hu": "A Prince Edward-sziget (PEI) egy földrajzilag erősen elkülönülő szigettartomány, amely a Szent Lőrinc-öbölben, Kanada keleti partjainál fekszik. Mivel ez az ország abszolút legkisebb tartománya mind területét, mind lakosságát tekintve, természeti környezetét rendkívül erősen meghatározza a geológiája és a tengeri elhelyezkedése. A sziget alapkőzete szinte kizárólag puha, rendkívül magas vastartalmú vörös homokkőből áll, amely gyorsan oxidálódik, létrehozva a sziget jellegzetes, élénkpiros talaját. Ez a rendkívül termékeny, jó vízelvezetésű talaj képezi az abszolút alapját a sziget gigantikus burgonyaiparának. A partvonal extrém módon dinamikus, és magas vörös homokkő sziklák, mély öblök, valamint kiterjedt turzásos szigetrendszerek folyamatos láncolata jellemzi, vándorló, fűvel benőtt homokdűnékkel. Ezen érzékeny dűneterületek nagy része a Prince Edward Island Nemzeti Parkban szigorú természetvédelem alatt áll. A regionális éghajlatot masszívan befolyásolja a környező óceán vize. Ez egy olyan mérsékelt tengeri klímát eredményez, amelyet a kontinentális szárazföldhöz képest későbbi, hűvösebb tavaszi hónapok és viszonylag hosszú, enyhe őszök jellemeznek. A sziget eredeti szárazföldi ökoszisztémája elsősorban az akádiai erdőből állt, amely egy átmeneti zóna, ahol az északi boreális tűlevelűek keverednek a déli lombhullató fafajokkal. Több mint három évszázadnyi intenzív mezőgazdasági célú erdőirtás azonban ezt az eredeti erdőtakarót rendkívül feldarabolta.",
+        "ro": "Insula Prințului Edward (PEI) este o provincie insulară distinctă geografic, situată în Golful Sfântului Laurențiu, în largul coastei de est a Canadei. Fiind de departe cea mai mică provincie a țării atât ca suprafață, cât și ca populație, mediul său natural este extrem de puternic definit de geologia sa și de locația maritimă. Roca de bază a insulei este alcătuită aproape în întregime din gresie roșie sedimentară moale, extrem de bogată în fier, care se oxidează rapid pentru a produce solurile roșii caracteristice și viu colorate ale insulei. Acest sol extrem de fertil, bine drenat, formează baza absolută pentru industria gigantică a cartofilor de pe insulă. Linia coastei este extrem de dinamică, caracterizată printr-o succesiune continuă de stânci înalte de gresie roșie, golfuri adânci și sisteme extinse de insule barieră cu dune de nisip mișcătoare, acoperite de iarbă. Multe dintre aceste zone sensibile de dune sunt strict protejate în Parcul Național Prince Edward Island. Clima regională este puternic influențată de apele oceanice din jur. Acest lucru are ca rezultat un climat maritim temperat, caracterizat, în comparație cu continentul, prin luni de primăvară mai târzii și mai răcoroase și toamne relativ lungi și blânde. Ecosistemul terestru originar al insulei a constat în primul rând din Pădurea Acadiană, o zonă de tranziție care amestecă coniferele boreale nordice cu speciile de foioase sudice. Cu toate acestea, peste trei secole de defrișări agricole intense au fragmentat extrem de mult acest strat forestier original.",
+        "en": "Prince Edward Island (PEI) is a highly distinct island province located directly in the Gulf of Saint Lawrence off the eastern coast of Canada. As the absolute smallest province in the country in both physical land area and population, its natural environment is heavily defined by its geology and maritime location. The island's bedrock consists almost entirely of soft, highly iron-rich sedimentary red sandstone, which actively oxidizes rapidly to produce the island's universally characteristic, brightly colored red soils. This extremely fertile, well-draining soil forms the fundamental basis for the island's massive and lucrative potato farming industry. The entire coastline is extremely dynamic, featuring a continuous succession of towering red sandstone cliffs, deep bays, and extensive barrier island systems with shifting, grass-covered sand dunes, many of which are strictly protected within Prince Edward Island National Park. The regional climate is massively influenced by the surrounding oceanic waters, resulting in a temperate maritime climate characterized by delayed, cooler springs and relatively long, mild autumns compared to the continental mainland. The island's native terrestrial ecosystem primarily consisted of the Acadian forest, a unique transitional zone blending northern boreal conifers with southern deciduous tree species. However, over three centuries of intense agricultural clearing have heavily and permanently fragmented this original forest cover."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Prince Edward Island ist flächenmäßig die absolut kleinste Provinz Kanadas.",
+          "Das stark eisenhaltige Sandsteingestein oxidiert und erzeugt leuchtend rote Böden.",
+          "Der gut durchlässige rote Boden ist ideal für den gigantischen Kartoffelanbau.",
+          "Weite Teile der sensiblen Küstendünen werden durch einen Nationalpark geschützt.",
+          "Das maritime Klima sorgt für kühlere Frühjahre und relativ lange, milde Herbste.",
+          "Der ursprüngliche Akadische Wald wurde durch intensive Landwirtschaft stark dezimiert.",
+          "Die Insel liegt geschützt im flachen Wasser des Golfs von Sankt Lorenz."
+        ],
+        "hu": [
+          "A Prince Edward-sziget területét tekintve Kanada abszolút legkisebb tartománya.",
+          "Az erősen vastartalmú homokkő kőzet oxidálódik, és élénkpiros talajt hoz létre.",
+          "A kiváló vízelvezetésű vörös talaj ideális a gigantikus burgonyatermesztéshez.",
+          "Az érzékeny tengerparti homokdűnék nagy részét egy nemzeti park védi szigorúan.",
+          "A tengeri éghajlat hűvösebb tavaszokat és viszonylag hosszú, enyhe őszöket biztosít.",
+          "Az eredeti akádiai erdőt az intenzív mezőgazdaság miatt drasztikusan megtizedelték.",
+          "A sziget geográfiailag védve, a Szent Lőrinc-öböl sekély vizeiben fekszik."
+        ],
+        "ro": [
+          "Insula Prințului Edward este provincia absolut cea mai mică din Canada ca suprafață.",
+          "Roca de gresie cu un conținut ridicat de fier se oxidează și produce soluri roșii strălucitoare.",
+          "Solul roșu bine drenat este ideal pentru cultivarea gigantică a cartofilor.",
+          "Mari părți ale dunelor de coastă sensibile sunt strict protejate de un parc național.",
+          "Climatul maritim asigură izvoare mai reci și toamne relativ lungi și blânde.",
+          "Pădurea Acadiană originală a fost puternic decimată de agricultura intensivă.",
+          "Insula este situată la adăpost în apele puțin adânci ale Golfului Sfântului Laurențiu."
+        ],
+        "en": [
+          "Prince Edward Island is the absolute smallest province in Canada by physical landmass.",
+          "The highly iron-rich sandstone bedrock aggressively oxidizes to create bright red soils.",
+          "The well-draining, fertile red dirt is absolutely perfect for massive potato cultivation.",
+          "Extensive stretches of the highly fragile coastal dunes are strictly protected by a national park.",
+          "The surrounding ocean water creates cooler, delayed springs and prolonged, mild autumns.",
+          "The original native Acadian forest cover was heavily decimated by intense agricultural clearing.",
+          "The island is geographically sheltered within the shallow waters of the Gulf of Saint Lawrence."
+        ]
+      }
+    },
+    {
+      "id": "carmanah-walbran-provincial-park-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Carmanah Walbran Provincial Park ist ein hochbedeutendes, geschütztes Wildnisgebiet an der abgelegenen Südwestküste von Vancouver Island in British Columbia. Der Park, der 1990 nach intensiven und stark beachteten Umweltprotesten (dem sogenannten „War in the Woods“) gegründet wurde, schützt eines der kritischsten verbleibenden zusammenhängenden Gebiete des primären gemäßigten Regenwalds auf der Erde. Der Park umfasst die dicht bewaldeten und tiefen Täler der Carmanah- und Walbran-Flüsse und bietet ein geschütztes, hypermaritimes Mikroklima, das gigantische Mengen an jährlichem Niederschlag erhält. Dieser immense Niederschlag, kombiniert mit tiefen alluvialen Schwemmböden, ermöglicht das ungestörte Wachstum von wahrhaft gigantischen, uralten Bäumen. Der Wald ist weltweit dafür berühmt, einige der höchsten und ältesten Sitka-Fichten der Welt zu beherbergen, wobei einige individuelle Exemplare Höhen von weit über 95 Metern und ein Alter von mehr als 800 Jahren erreichen. Neben der Sitka-Fichte weist das Ökosystem massive Riesen-Lebensbäume (Western Redcedar) und Westamerikanische Hemlocktannen auf. Der Waldboden ist vollständig von einer dichten, komplexen Schicht aus Farnen, tiefen Moosen und extrem großen, verrottenden Totholzstämmen (Nurse Logs) bedeckt, die wichtige Nährstoffe langsam wieder an das Ökosystem abgeben. Dieser intakte Urwald bietet einen essenziellen, völlig ungestörten Lebensraum für hochspezialisierte und bedrohte Arten, insbesondere den Marmelalk, einen Seevogel, der für den Nistbau zwingend die dicken, moosigen Äste der alten Bäume benötigt.",
+        "hu": "A Carmanah Walbran Tartományi Park egy rendkívül jelentős, védett vadon a Brit Columbia-i Vancouver-sziget elszigetelt délnyugati partvidékén. A park, amelyet 1990-ben, az intenzív és széles körben nyilvánosságot kapott környezetvédelmi tiltakozásokat (az úgynevezett „War in the Woods” - Háború az erdőben) követően alapítottak, a Föld egyik legkritikusabb, egybefüggően megmaradt mérsékelt övi őserdőjét védi. A park magába foglalja a Carmanah- és a Walbran-folyók sűrűn erdősült, mély völgyeit, és olyan védett, hiper-tengeri mikroklímát biztosít, amely gigantikus mennyiségű éves csapadékot kap. Ez a hatalmas csapadék, mély hordaléktalajokkal párosulva, lehetővé teszi a valóban gigantikus, ősi fák zavartalan növekedését. Az erdő világszerte arról híres, hogy a világ legmagasabb és legöregebb szitka lucfenyőinek ad otthont, amelyek közül egyes egyedek magassága jócskán meghaladja a 95 métert, életkoruk pedig a 800 évet. A szitka lucfenyő mellett az ökoszisztémát masszív óriás tuják (Western Redcedar) és nyugati hemlokfenyők jellemzik. Az erdő talaját teljesen beborítja a páfrányok, mély mohák és a rendkívül nagy, korhadó holtfák (Nurse Logs - Dajkafák) sűrű, összetett rétege, amelyek a létfontosságú tápanyagokat lassan visszaadják az ökoszisztémának. Ez az érintetlen őserdő alapvető, teljesen zavartalan élőhelyet biztosít a rendkívül specializálódott és veszélyeztetett fajok számára, különösen a márványos alka számára, amely egy olyan tengeri madár, amelynek fészkeléséhez feltétlenül szüksége van az öreg fák vastag, mohás ágaira.",
+        "ro": "Parcul Provincial Carmanah Walbran este o zonă de sălbăticie protejată, de o importanță deosebită, situată pe coasta îndepărtată de sud-vest a Insulei Vancouver din Columbia Britanică. Înființat în 1990 în urma unor proteste de mediu intense și foarte mediatizate (așa-numitul „Război din păduri”), parcul protejează una dintre cele mai critice suprafețe contigue rămase de pădure tropicală temperată primară de pe Pământ. Parcul cuprinde văile adânci și dens împădurite ale râurilor Carmanah și Walbran, oferind un microclimat protejat, hiper-maritim, care primește cantități gigantice de precipitații anuale. Această precipitație imensă, combinată cu soluri aluviale adânci, permite creșterea netulburată a copacilor cu adevărat gigantici, antici. Pădurea este renumită la nivel mondial pentru găzduirea unora dintre cei mai înalți și mai vechi molizi Sitka din lume, cu unele exemplare individuale care ating înălțimi de mult peste 95 de metri și o vârstă de peste 800 de ani. Alături de molidul Sitka, ecosistemul prezintă tuia uriașă masivă (Western Redcedar) și tsuga vestică. Podeaua pădurii este complet acoperită de un strat dens și complex de ferigi, mușchi adânci și trunchiuri de lemn mort extrem de mari, aflate în descompunere (Nurse Logs), care eliberează lent nutrienții critici înapoi în ecosistem. Această pădure primară intactă oferă un habitat esențial, complet netulburat, pentru specii extrem de specializate și amenințate, în special alcidele marmorate, o pasăre de mare care are nevoie absolută de ramurile groase și mușchioase ale copacilor bătrâni pentru a cuibări.",
+        "en": "Carmanah Walbran Provincial Park is a highly significant, legally protected wilderness area located on the remote southwestern coast of Vancouver Island in British Columbia. Established in 1990 following intense, highly publicized environmental logging protests (often referred to as the \"War in the Woods\"), the park aggressively safeguards one of the most critical remaining contiguous tracts of old-growth temperate rainforest on Earth. The park encompasses the densely forested, deep valleys of the Carmanah and Walbran rivers, providing a physically sheltered, hyper-maritime microclimate that receives gigantic quantities of annual rainfall. This immense precipitation, completely combined with deep alluvial soils, strongly facilitates the undisturbed growth of truly gigantic, ancient trees. The forest is globally renowned for hosting some of the tallest and oldest Sitka spruce trees in the world, with some individual specimens reaching heights well over 95 meters and an age exceeding 800 years. Alongside the massive Sitka spruce, the ecosystem features gigantic western redcedars and western hemlocks. The forest floor is completely covered by a thick, complex layer of ferns, deep mosses, and extremely large decaying deadwood (nurse logs) that slowly release critical nutrients back into the ecosystem. This completely intact ancient forest provides an essential, undisturbed habitat for highly specialized and threatened wildlife species, notably the marbled murrelet, a seabird that strictly requires the extremely thick, moss-covered branches of old-growth trees for nesting."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park wurde 1990 nach heftigen und langen Umweltprotesten offiziell gegründet.",
+          "Er schützt einen der letzten großen zusammenhängenden primären Regenwälder der Erde.",
+          "Das hypermaritime Tal erhält gigantische Mengen an feuchtem Jahresniederschlag.",
+          "Einzelne Sitka-Fichten im Park sind über 95 Meter hoch und 800 Jahre alt.",
+          "Riesige, faulende Baumstämme geben als 'Nurse Logs' Nährstoffe an den Wald ab.",
+          "Der stark bedrohte Marmelalk nistet ausschließlich auf den dicken Ästen dieser uralten Bäume.",
+          "Das abgelegene Waldgebiet ist nur über unbefestigte industrielle Forststraßen erreichbar."
+        ],
+        "hu": [
+          "A parkot heves és hosszú környezetvédelmi tiltakozások után, 1990-ben alapították hivatalosan.",
+          "Ez védi a Föld egyik utolsó nagy, egybefüggő elsődleges mérsékelt övi esőerdejét.",
+          "A hiper-tengeri völgy évről évre gigantikus mennyiségű csapadékot kap.",
+          "A parkban található egyes szitka lucfenyők több mint 95 méter magasak és 800 évesek.",
+          "A hatalmas, korhadó fatörzsek 'dajkafaként' juttatják vissza a tápanyagokat az erdőbe.",
+          "Az erősen veszélyeztetett márványos alka kizárólag ezen ősfák vastag ágain fészkel.",
+          "Az elszigetelt erdőterület csak burkolatlan, ipari erdészeti utakon közelíthető meg."
+        ],
+        "ro": [
+          "Parcul a fost fondat oficial în 1990, după proteste de mediu lungi și intense.",
+          "Acesta protejează una dintre ultimele mari păduri tropicale primare continue de pe Pământ.",
+          "Valea hiper-maritimă primește cantități gigantice de precipitații anuale umede.",
+          "Unii molizi Sitka din parc au peste 95 de metri înălțime și 800 de ani vechime.",
+          "Trunchiurile de copaci uriașe, în putrefacție, returnează nutrienți în pădure sub formă de 'Nurse Logs'.",
+          "Alcidele marmorate, o specie grav amenințată, cuibărește exclusiv pe ramurile groase ale acestor copaci antici.",
+          "Zona forestieră îndepărtată poate fi accesată doar pe drumuri forestiere industriale neasfaltate."
+        ],
+        "en": [
+          "The park was officially established in 1990 following intense, prolonged environmental protests.",
+          "It protects one of the last remaining large, contiguous primary temperate rainforests on Earth.",
+          "The hyper-maritime river valley continuously receives gigantic quantities of annual rainfall.",
+          "Individual Sitka spruce trees in the park exceed 95 meters in height and 800 years in age.",
+          "Massive, rotting tree trunks act as 'nurse logs' returning vital nutrients to the forest.",
+          "The highly threatened marbled murrelet nests exclusively on the thick branches of these ancient trees.",
+          "The highly isolated forest region is only accessible via unpaved industrial logging roads."
+        ]
+      }
+    },
+    {
+      "id": "mount-assiniboine-park-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Waldökosystem im Mount Assiniboine Provincial Park in British Columbia ist ein makelloses, unberührtes Beispiel für die komplexen subalpinen und alpinen Übergangszonen (Ökotone), die in den hohen Lagen der kanadischen Rocky Mountains existieren. Aufgrund der extrem hohen Basis-Höhenlage des Parks wird die Zusammensetzung der Waldgebiete streng von harschen klimatischen Faktoren diktiert, darunter extrem kurze Vegetationsperioden, meterdicke winterliche Schneedecken und eisige Temperaturen. Die tiefer gelegenen subalpinen Täler sind dicht besiedelt von hochgradig widerstandsfähigen Nadelbaumarten, in erster Linie Küsten-Kiefer (Lodgepole Pine), Engelmann-Fichte und Felsengebirgs-Tanne (Subalpine Fir). Wenn die Höhenlage allmählich ansteigt, werden die Bäume zunehmend kleinwüchsig, verkrüppelt und weit verstreut; sie bilden eine physische Übergangszone, die als Krummholz bekannt ist. Hier formt der stürmische Wind die Bäume gewaltsam zu verdrehten, strauchartigen Gebilden, bevor der Wald letztendlich der völlig baumlosen alpinen Tundra weicht. Natürliche Waldbrände spielen eine hochgradig kritische Rolle in der ökologischen Sukzession dieses spezifischen Waldes. Die immense Hitze von natürlichen Blitzeinschlägen ist zwingend erforderlich, um die harzigen Versiegelungen an den Zapfen der Küsten-Kiefern zu schmelzen, wodurch sie ihre Samen freisetzen und den Waldboden regenerieren können. Diese vielfältigen, tiefen Waldtäler bieten einen absolut kritischen Schutz- und Nahrungsgrund für große Bergfauna, darunter Grizzlybären, Vielfraße, Wapitis und Elche. Der Wald bleibt komplett frei von jeglicher motorisierter Straßenanbindung.",
+        "hu": "A Brit Columbia-i Mount Assiniboine Tartományi Park erdei ökoszisztémája egy hibátlan, érintetlen példája a kanadai Sziklás-hegység magasabban fekvő területein létező komplex szubalpin és alpin átmeneti zónáknak (ökotonoknak). A park rendkívül magas alap tengerszint feletti magassága miatt az erdőterületek összetételét szigorúan a zord éghajlati tényezők diktálják, beleértve a rendkívül rövid tenyészidőszakokat, a méteres téli hótakarót és a fagyos hőmérsékleteket. Az alacsonyabban fekvő szubalpin völgyeket sűrűn népesítik be a rendkívül ellenálló tűlevelű fajok, elsősorban a csavarttűjű fenyő (Lodgepole Pine), az Engelmann-luc és a sziklás-hegységi jegenyefenyő (Subalpine Fir). Ahogy a magasság fokozatosan növekszik, a fák egyre inkább alacsony növésűvé, göcsörtössé és elszórtá válnak; egy olyan fizikai átmeneti zónát hoznak létre, amelyet görbefa-övezetnek (krummholz) is neveznek. Itt a viharos szél a fákat erőszakosan csavart, cserjeszerű formákká alakítja, mielőtt az erdő végleg átadná helyét a teljesen fátlan alpesi tundrának. A természetes erdőtüzek rendkívül kritikus szerepet játszanak ennek a specifikus erdőnek az ökológiai szukcessziójában. A természetes villámcsapásokból származó óriási hő feltétlenül szükséges ahhoz, hogy megolvassza a csavarttűjű fenyők tobozain lévő gyantás tömítéseket, lehetővé téve számukra, hogy kiadják magjaikat és regenerálják az erdő talaját. Ezek a változatos, mély erdei völgyek abszolút kritikus menedéket és táplálkozóhelyet nyújtanak a nagy hegyi faunának, beleértve a grizzly medvéket, a rozsomákokat, a vapitikat és a jávorszarvasokat. Az erdő teljesen mentes mindenfajta motorizált közúti kapcsolattól.",
+        "ro": "Ecosistemul forestier din Parcul Provincial Mount Assiniboine din Columbia Britanică reprezintă un exemplu imaculat și neatins al zonelor complexe de tranziție subalpină și alpină (ecotonuri) găsite la altitudini mari în Munții Stâncoși canadieni. Datorită altitudinii de bază extrem de ridicate a parcului, compoziția zonelor împădurite este strict dictată de factori climatici aspri, incluzând sezoane de creștere extrem de scurte, straturi de zăpadă de iarnă adânci de un metru și temperaturi înghețate. Văile subalpine inferioare sunt dens populate de specii de conifere foarte rezistente, în primul rând pin contorsionat (Lodgepole Pine), molid Engelmann și brad subalpin (Subalpine Fir). Pe măsură ce altitudinea crește treptat, copacii devin din ce în ce mai piperniciți, strâmbi și larg dispersați; ele formează o zonă de tranziție fizică cunoscută sub numele de krummholz. Aici, vântul furtunos modelează violent copacii în forme răsucite, asemănătoare arbuștilor, înainte ca pădurea să lase în cele din urmă locul tundrei alpine complet fără copaci. Incendiile forestiere naturale joacă un rol extrem de critic în succesiunea ecologică a acestei păduri specifice. Căldura imensă de la loviturile naturale de trăsnet este absolut necesară pentru a topi sigiliile rășinoase de pe conurile pinilor contorsionați, permițându-le să-și elibereze semințele și să regenereze podeaua pădurii. Aceste văi forestiere adânci și diverse oferă un refugiu și terenuri de hrănire absolut critice pentru fauna montană mare, inclusiv urșii grizzly, glutonii, elanii și moșii. Pădurea rămâne complet lipsită de orice legătură rutieră motorizată.",
+        "en": "The specific forest ecosystem enclosed within Mount Assiniboine Provincial Park in British Columbia represents a pristine, untouched example of the complex subalpine and alpine transition zones (ecotones) found at high elevations in the Canadian Rocky Mountains. Due to the extremely high baseline elevation of the park, the composition of the forested areas is strictly dictated by harsh, unforgiving climatic factors, including extremely short growing seasons, meter-deep winter snowpacks, and freezing temperatures. The lower subalpine valleys are densely populated by highly resilient coniferous species, primarily lodgepole pine, Engelmann spruce, and subalpine fir. As the elevation gradually increases towards the peaks, the trees become increasingly stunted, crippled, and widely dispersed; they form a physical transition zone known as the krummholz. In this highly exposed band, stormy winds violently shape the trees into twisted, shrub-like forms before the forest ultimately yields entirely to the completely treeless alpine tundra. Natural wildfires play a highly critical role in the ongoing ecological succession of this specific forest. The immense heat generated from natural lightning strikes is absolutely required to melt the thick resinous seals on the cones of the lodgepole pines, allowing them to release their seeds and fully regenerate the forest floor. These diverse, deep forested valleys provide absolutely critical shelter and foraging grounds for large mountain fauna, including grizzly bears, wolverines, elk, and moose. The entire forest environment remains completely devoid of any motorized road access."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Extreme Kälte und tiefer Schnee prägen die harten Wachstumsbedingungen im Park.",
+          "Kiefern, Fichten und subalpine Tannen dominieren die bewaldeten Täler der Region.",
+          "In höheren Lagen verformt extremer Wind die Bäume in gedrungene 'Krummholz'-Formen.",
+          "Natürliche Waldbrände sind ökologisch zwingend nötig, um die Kiefernzapfen zu öffnen.",
+          "Die Tannenwälder gehen oberhalb der Baumgrenze direkt in baumlose Alpentundra über.",
+          "Grizzlybären und Vielfraße finden im Schutz dieser Bergwälder lebenswichtige Nahrung.",
+          "Es gibt keinerlei asphaltierte Straßen, die den Zugang zu diesen Wäldern ermöglichen."
+        ],
+        "hu": [
+          "A parkban az extrém hideg és a mély hó határozza meg a zord növekedési feltételeket.",
+          "A régió erdős völgyeit fenyők, lucfenyők és szubalpin jegenyefenyők uralják.",
+          "A magasabb fekvésekben az extrém szél a fákat alacsony 'görbefa' (krummholz) formákká torzítja.",
+          "A természetes erdőtüzek ökológiailag feltétlenül szükségesek a fenyőtobozok felnyílásához.",
+          "A jegenyefenyő-erdők a fahatár felett közvetlenül a fátlan alpesi tundrába mennek át.",
+          "A grizzly medvék és a rozsomákok e hegyi erdők védelmében létfontosságú táplálékot találnak.",
+          "Egyáltalán nincsenek aszfaltozott utak, amelyek lehetővé tennék a hozzáférést ezekhez az erdőkhöz."
+        ],
+        "ro": [
+          "Frigul extrem și zăpada adâncă definesc condițiile aspre de creștere din parc.",
+          "Pinii, molizii și brazii subalpini domină văile împădurite ale regiunii.",
+          "La altitudini mai mari, vântul extrem deformează copacii în forme pipernicite de 'krummholz'.",
+          "Incendiile naturale de pădure sunt imperativ necesare ecologic pentru a deschide conurile de pin.",
+          "Pădurile de brad se contopesc direct în tundra alpină fără copaci deasupra limitei arborilor.",
+          "Urșii grizzly și glutonii găsesc hrană vitală la adăpostul acestor păduri montane.",
+          "Nu există absolut niciun drum asfaltat care să permită accesul la aceste păduri."
+        ],
+        "en": [
+          "Extreme cold temperatures and deep winter snowpack define the harsh growing conditions in the park.",
+          "Lodgepole pines, Engelmann spruces, and subalpine firs heavily dominate the forested valleys.",
+          "At higher elevations, violent winds aggressively deform the trees into stunted 'krummholz' shapes.",
+          "Natural forest wildfires are ecologically imperative to melt the resin and open the pine cones.",
+          "The dense subalpine forests transition directly into completely treeless alpine tundra.",
+          "Grizzly bears and elusive wolverines find absolutely vital food sources protected within these forests.",
+          "There are absolutely zero paved roads allowing motorized access into these ancient mountain forests."
+        ]
+      }
+    },
+    {
+      "id": "gwaii-haanas-national-park-reserve-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das terrestrische Waldökosystem des Gwaii Haanas National Park Reserve, das sich im südlichen Teil des abgelegenen Haida Gwaii Archipels in British Columbia befindet, ist ein außergewöhnliches und hochgradig unberührtes Beispiel für einen primären Küstenregenwald der gemäßigten Breiten. Die extreme geografische Isolation der Inseln vom nordamerikanischen Festland, kombiniert mit ihrer geologischen Geschichte als unvergletschertes Refugium (Refugialraum) während der letzten großen Eiszeit, hat eine höchst einzigartige Waldumgebung gefördert, die eine bedeutende Rate an endemischen Pflanzen- und Tierunterarten aufweist. Der Urwald wird massiv von hoch aufragenden, uralten Beständen aus Riesen-Lebensbaum (Western Redcedar), Westamerikanischer Hemlocktanne und Sitka-Fichte dominiert. Der ständige, schwere ozeanische Niederschlag und die moderaten ganzjährigen Temperaturen schaffen ein außergewöhnlich feuchtes Mikroklima. Dies führt zu einem extrem dichten, schwammartigen Unterholz, das vollständig von dicken Torfmoosen (Sphagnum), Farnen und hängenden Flechten erstickt wird. Seit Jahrtausenden liefert dieser Wald die grundlegenden materiellen Ressourcen für die indigene Haida Nation, insbesondere die massiven Zedernbäume, die strikt für den Bau von ozeantauglichen Kanus, Langhäusern und monumentalen Totempfählen verwendet wurden. Ökologisch ist die Waldgesundheit stark von marinen Nährstoffen (Stickstoff) abhängig, die von Bären und Adlern, welche laichende Pazifiklachse fressen, tief ins Landesinnere transportiert werden. Das einheimische Unterholz leidet jedoch unter massiven ökologischen Schäden durch den Sitka-Schwarzwedelhirsch, eine aggressive Spezies, die im 19. Jahrhundert von Siedlern ohne natürliche Feinde auf den Inseln eingeführt wurde.",
+        "hu": "A Brit Columbiában, a távoli Haida Gwaii szigetcsoport déli részén található Gwaii Haanas Nemzeti Park Rezervátum szárazföldi erdei ökoszisztémája a mérsékelt övi tengerparti esőerdők kivételes és rendkívül érintetlen példája. A szigetek extrém földrajzi elszigeteltsége az észak-amerikai kontinenstől, kombinálva azzal a geológiai történettel, miszerint a legutóbbi nagy jégkorszak alatt el nem jegesedett menedékként (refugium) szolgáltak, egy rendkívül egyedülálló erdei környezetet hozott létre, amely jelentős arányban mutat fel endemikus növény- és állat-alfajokat. Az őserdőt masszívan uralják az óriás tuja (Western Redcedar), a nyugati hemlokfenyő és a szitka lucfenyő magasba törő, ősi állományai. Az állandó, bőséges óceáni csapadék és a mérsékelt, egész éves hőmérséklet kivételesen párás mikroklímát teremt. Ez egy rendkívül sűrű, szivacsszerű aljnövényzetet eredményez, amelyet teljesen megfojtanak a vastag tőzegmohák (Sphagnum), a páfrányok és a csüngő zuzmók. Ez az erdő évezredek óta biztosítja a bennszülött haida nemzet számára a legalapvetőbb anyagi erőforrásokat, különösen a hatalmas cédrusfákat, amelyeket szigorúan az óceánjáró kenuk, a hosszúházak és a monumentális totemoszlopok építéséhez használtak. Ökológiai szempontból az erdő egészsége nagymértékben függ az ívó csendes-óceáni lazacokkal táplálkozó medvék és sasok által a szárazföld belsejébe szállított tengeri tápanyagoktól (nitrogén). Az őshonos aljnövényzet azonban masszív ökológiai károkat szenved el a szitka öszvérszarvastól, egy agresszíven legelő fajtól, amelyet a 19. században a telepesek telepítettek be a szigetekre, ahol nincsenek természetes ragadozóik.",
+        "ro": "Ecosistemul forestier terestru al Rezervației Parcului Național Gwaii Haanas, situat în partea de sud a arhipelagului izolat Haida Gwaii din Columbia Britanică, este un exemplu excepțional și extrem de neatins al unei păduri tropicale temperate de coastă primare. Izolarea geografică extremă a insulelor de continentul nord-american, combinată cu istoria lor geologică ca refugiu (refugium) neglaciat în timpul ultimei ere glaciare majore, a favorizat un mediu forestier extrem de unic, care prezintă o rată semnificativă de subspecii endemice de plante și animale. Pădurea primordială este dominată masiv de arborete impunătoare, străvechi, de tuia uriașă (Western Redcedar), tsuga vestică și molid Sitka. Precipitațiile oceanice constante și abundente și temperaturile moderate pe tot parcursul anului creează un microclimat excepțional de umed. Acest lucru are ca rezultat un subarboret extrem de dens, spongios, care este complet sufocat de mușchi de turbă groși (Sphagnum), ferigi și licheni atârnători. Timp de milenii, această pădure a furnizat resursele materiale fundamentale pentru Națiunea Indigenă Haida, în special masivii arbori de cedru care au fost utilizați strict pentru construirea de canoe capabile să navigheze pe ocean, case lungi și stâlpi totemici monumentali. Din punct de vedere ecologic, sănătatea pădurii depinde în mare măsură de nutrienții marini (azot) transportați adânc în interiorul continentului de către urșii și vulturii care se hrănesc cu somonii de Pacific care depun icre. Cu toate acestea, subarboretul nativ suferă de daune ecologice masive din cauza cerbului cu coadă neagră Sitka, o specie agresivă introdusă de coloniști în secolul al XIX-lea, fără niciun prădător natural pe insule.",
+        "en": "The terrestrial forest ecosystem of the Gwaii Haanas National Park Reserve, located directly on the southern portion of the remote Haida Gwaii archipelago in British Columbia, stands as an exceptional and highly untouched example of a primary coastal temperate rainforest. The islands' extreme geographic isolation from the North American mainland, directly combined with their geological history as an unglaciated refugium during the last major Ice Age, has strongly fostered a highly unique forest environment that features a significant rate of endemic plant and animal subspecies. The old-growth forest is massively dominated by towering, ancient stands of western redcedar, western hemlock, and Sitka spruce. The constant, heavy oceanic precipitation and highly moderate year-round temperatures create an exceptionally humid microclimate. This results in an extremely dense, spongy understory completely smothered in thick sphagnum mosses, ferns, and hanging lichens. For millennia, this exact forest has provided the absolutely fundamental material resources for the indigenous Haida Nation, specifically the massive cedar trees strictly utilized for constructing ocean-going canoes, large longhouses, and monumental carved totem poles. Ecologically, the overall forest health relies heavily on marine nutrients (specifically nitrogen) physically transported deep inland by bears and eagles feeding on spawning Pacific salmon. However, the native forest understory currently faces massive ecological damage from the Sitka black-tailed deer, an aggressive browsing species introduced by settlers in the late 19th century without any natural predators existing on the islands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ein eiszeitliches Refugium sorgte hier für die Entstehung stark endemischer Pflanzenarten.",
+          "Der Regenwald wird von gigantischen Lebensbäumen (Zedern) und Fichten dominiert.",
+          "Der extrem feuchte Waldboden ist vollständig von dicken Torfmoosen bedeckt.",
+          "Die indigene Haida Nation nutzte die riesigen Zedern traditionell für Totempfähle.",
+          "Bären transportieren Lachsreste in den Wald, die als kritischer Stickstoffdünger wirken.",
+          "Der von Siedlern eingeführte Sitka-Hirsch zerstört das natürliche Unterholz massiv.",
+          "Das isolierte Waldgebiet ist nur über das Meer auf dem Wasserweg erreichbar."
+        ],
+        "hu": [
+          "Egy jégkorszaki menedékhely (refugium) tette lehetővé az itteni erősen endemikus növényfajok kialakulását.",
+          "Az esőerdőt a gigantikus tuják (cédrusok) és a lucfenyők dominálják.",
+          "A rendkívül nedves erdőtalajt teljesen beborítják a vastag tőzegmohák.",
+          "A bennszülött haida nemzet a hatalmas cédrusokat hagyományosan totemoszlopok készítésére használta.",
+          "A medvék lazacmaradványokat visznek az erdőbe, amelyek kritikus nitrogéntrágyaként hatnak.",
+          "A telepesek által behurcolt szitka szarvas masszívan elpusztítja a természetes aljnövényzetet.",
+          "Az elszigetelt erdőterület csak a tengeren keresztül, vízi úton közelíthető meg."
+        ],
+        "ro": [
+          "Un refugiu glaciar a asigurat dezvoltarea unor specii de plante puternic endemice aici.",
+          "Pădurea tropicală este dominată de tuia uriașă (cedri) și molizi gigantici.",
+          "Podeaua extrem de umedă a pădurii este complet acoperită de mușchi groși de turbă.",
+          "Națiunea indigenă Haida folosea în mod tradițional cedrii uriași pentru stâlpii totemici.",
+          "Urșii transportă rămășițe de somon în pădure, care acționează ca un îngrășământ critic de azot.",
+          "Cerbul Sitka, introdus de coloniști, distruge masiv subarboretul natural.",
+          "Zona forestieră izolată poate fi accesată doar pe mare, pe calea apei."
+        ],
+        "en": [
+          "An unglaciated Ice Age refugium fostered the highly endemic plant species found here.",
+          "The coastal rainforest is heavily dominated by gigantic western redcedar and spruce trees.",
+          "The extremely damp forest floor is completely blanketed by thick layers of sphagnum moss.",
+          "The indigenous Haida Nation traditionally utilized the massive cedars strictly for carving totem poles.",
+          "Bears physically transport salmon carcasses into the woods, acting as a critical nitrogen fertilizer.",
+          "The introduced Sitka black-tailed deer massively destroys the natural forest understory.",
+          "The highly isolated forest region is strictly accessible only by boat via the ocean."
+        ]
+      }
+    },
+    {
+      "id": "mount-columbia-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Mount Columbia ist ein massiver, stark vergletscherter Berggipfel, der exakt auf der kontinentalen Wasserscheide liegt und die Grenze zwischen den kanadischen Provinzen Alberta und British Columbia bildet. Mit einer präzisen Höhe von 3.747 Metern ist er der absolute höchste Punkt in Alberta und der zweithöchste Gipfel in den gesamten kanadischen Rocky Mountains. Der Berg bildet einen kritischen geografischen Abschnitt des immensen Columbia-Eisfelds, einer der größten nicht-polaren Eismassen der Welt. Der Gipfel ist optisch dadurch gekennzeichnet, dass er nicht als scharfe, felsige Pyramide erscheint, sondern als breiter, kuppelartiger Gipfel, der vollständig von tiefem, permanentem Gletschereis umhüllt ist. Der Berg fungiert als ein hochgradig bedeutender hydrologischer Scheitelpunkt; das schmelzende Gletschereis von seinen massiven Hängen speist direkt in Flusssysteme, die letztendlich in drei völlig verschiedene Ozeane fließen: den Arktischen Ozean (via Athabasca River), den Pazifischen Ozean (via Columbia River) und den Atlantischen Ozean (via North Saskatchewan River zur Hudson Bay). Die historische Erstbesteigung des Berges wurde 1902 erfolgreich durch den britischen Bergsteiger James Outram und seinen Schweizer Bergführer Christian Kaufmann durchgeführt. Die Besteigung von Mount Columbia erfordert einen extrem mühsamen, 30 Kilometer langen Anmarsch quer über das zerklüftete, spaltenreiche Columbia-Eisfeld. Wegen der extremen Höhe und der völligen Ausgesetztheit wird der Berg konstant von schweren, unberechenbaren alpinen Stürmen heimgesucht, was ihn zu einem hochgradig herausfordernden und gefährlichen Ziel für moderne Alpinisten macht.",
+        "hu": "A Mount Columbia egy masszív, erősen eljegesedett hegycsúcs, amely pontosan a kontinentális vízválasztón fekszik, és a határt képezi Alberta és Brit Columbia kanadai tartományok között. Pontosan 3747 méteres magasságával az abszolút legmagasabb pont Albertában, és a második legmagasabb csúcs az egész kanadai Sziklás-hegységben. A hegy a hatalmas Columbia-jégmező, a világ egyik legnagyobb nem sarki jégtömegének kritikus földrajzi szakaszát alkotja. A csúcsot vizuálisan az jellemzi, hogy nem egy éles, sziklás piramisként jelenik meg, hanem egy széles, kupolaszerű tetőként, amelyet teljesen beborít a mély, állandó gleccserjég. A hegy rendkívül jelentős hidrológiai csomópontként funkcionál; a masszív lejtőiről leolvadó gleccserjég közvetlenül olyan folyórendszereket táplál, amelyek végül három teljesen különböző óceánba ömlenek: a Jeges-tengerbe (az Athabasca-folyón keresztül), a Csendes-óceánba (a Columbia-folyón keresztül) és az Atlanti-óceánba (a North Saskatchewan-folyón és a Hudson-öbölön keresztül). A hegy történelmi első megmászását 1902-ben sikeresen hajtotta végre James Outram brit hegymászó és svájci hegyivezetője, Christian Kaufmann. A Mount Columbia megmászása egy rendkívül fárasztó, 30 kilométeres megközelítést igényel a hasadékokkal szabdalt Columbia-jégmezőn keresztül. Az extrém magasság és a teljes kitettség miatt a hegyet folyamatosan súlyos, kiszámíthatatlan alpesi viharok ostromolják, ami a modern alpinisták számára rendkívül kihívást jelentő és veszélyes célponttá teszi.",
+        "ro": "Muntele Columbia este un vârf montan masiv, puternic glaciar, situat exact pe cumpăna apelor continentale, formând granița dintre provinciile canadiene Alberta și Columbia Britanică. Având o altitudine precisă de 3.747 de metri, deține distincția de a fi absolut cel mai înalt punct din Alberta și al doilea cel mai înalt vârf din întregii Munți Stâncoși canadieni. Muntele formează un segment geografic critic al imensului Câmp de Gheață Columbia, una dintre cele mai mari mase de gheață non-polare din lume. Vârful este caracterizat vizual prin faptul că nu se prezintă ca o piramidă ascuțită și stâncoasă, ci mai degrabă ca un vârf larg, sub formă de cupolă, complet învelit în gheață glaciară adâncă și permanentă. Muntele acționează ca un apex hidrologic extrem de semnificativ; gheața glaciară care se topește de pe pantele sale masive alimentează direct sistemele fluviale care curg în cele din urmă în trei oceane complet diferite: Oceanul Arctic (via râul Athabasca), Oceanul Pacific (via râul Columbia) și Oceanul Atlantic (via râul North Saskatchewan către Golful Hudson). Prima ascensiune istorică a muntelui a fost finalizată cu succes în 1902 de către alpinistul britanic James Outram și ghidul său elvețian Christian Kaufmann. Escaladarea Muntelui Columbia necesită o abordare extrem de anevoioasă de 30 de kilometri peste Câmpul de Gheață Columbia, plin de crevase. Datorită altitudinii extreme și expunerii depline, muntele este lovit constant de furtuni alpine severe, imprevizibile, făcându-l un obiectiv extrem de provocator și periculos pentru alpiniștii moderni.",
+        "en": "Mount Columbia is a massive, heavily glaciated mountain peak located exactly on the Continental Divide, firmly forming the border between the Canadian provinces of Alberta and British Columbia. Reaching a precise elevation of exactly 3,747 meters, it holds the absolute distinction of being the highest geographical point in Alberta and the second-highest peak in the entirety of the Canadian Rocky Mountains. The mountain forms a highly critical geographical segment of the immense Columbia Icefield, which ranks as one of the largest non-polar ice masses in the world. The peak is visually characterized by its broad, dome-like summit completely encased in deep, permanent glacial ice, rather than presenting a sharp, rocky pyramid. The mountain acts as an exceptionally significant hydrological apex; the melting glacial ice from its massive slopes feeds directly into river systems that ultimately flow into three completely different oceans: the Arctic (via the Athabasca River), the Pacific (via the Columbia River), and the Atlantic (via the North Saskatchewan River to Hudson Bay). The historical first ascent of the mountain was successfully completed in 1902 by the British mountaineer James Outram and his hired Swiss guide Christian Kaufmann. Climbing Mount Columbia strictly requires navigating an extremely arduous, 30-kilometer approach straight across the crevasse-riddled expanse of the Columbia Icefield. Because of the extreme elevation and complete lack of shelter, the mountain is constantly battered by severe, unpredictable alpine storms, making it a highly challenging and dangerous objective for modern alpine mountaineers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 3.747 Metern ist es der absolut höchste geografische Punkt in der Provinz Alberta.",
+          "Der Berg liegt exakt auf der kontinentalen Wasserscheide Kanadas.",
+          "Das Schmelzwasser des Berges fließt in den Arktischen, Pazifischen und Atlantischen Ozean.",
+          "Der Gipfel ist keine Felsspitze, sondern eine breite, stark vereiste Gletscherkuppe.",
+          "Die historische Erstbesteigung des Berges fand im Jahr 1902 statt.",
+          "Der Aufstieg erfordert einen 30 km langen Marsch über das tiefe Columbia-Eisfeld.",
+          "Starke Stürme und riesige Gletscherspalten machen die Besteigung extrem gefährlich."
+        ],
+        "hu": [
+          "A maga 3747 méterével ez Alberta tartomány abszolút legmagasabb földrajzi pontja.",
+          "A hegy pontosan Kanada kontinentális vízválasztó vonalán helyezkedik el.",
+          "A hegy olvadékvize a Jeges-, a Csendes- és az Atlanti-óceánba egyaránt eljut.",
+          "A csúcs nem egy sziklaorom, hanem egy széles, erősen eljegesedett gleccserkupola.",
+          "A hegy történelmi első megmászását 1902-ben vitték sikerhez.",
+          "A hegymászás egy 30 km-es, fárasztó menetet igényel a mély Columbia-jégmezőn keresztül.",
+          "Az erős viharok és a hatalmas gleccserhasadékok rendkívül veszélyessé teszik a mászást."
+        ],
+        "ro": [
+          "La 3.747 de metri, este absolut cel mai înalt punct geografic din provincia Alberta.",
+          "Muntele este situat exact pe cumpăna apelor continentale a Canadei.",
+          "Apa de topire a muntelui curge în Oceanele Arctic, Pacific și Atlantic.",
+          "Vârful nu este un vârf stâncos, ci mai degrabă un dom glaciar larg, puternic înghețat.",
+          "Prima ascensiune istorică a muntelui a avut loc în anul 1902.",
+          "Ascensiunea necesită un marș de 30 km peste câmpul de gheață adânc Columbia.",
+          "Furtunile puternice și crevasele uriașe ale ghețarului fac ascensiunea extrem de periculoasă."
+        ],
+        "en": [
+          "At 3,747 meters, it is the absolute highest geographic point in the province of Alberta.",
+          "The mountain sits exactly on the main Continental Divide of North America.",
+          "Glacial meltwater from the mountain physically drains into the Arctic, Pacific, and Atlantic oceans.",
+          "The summit is not a rocky spire but rather a broad, heavily iced glacial dome.",
+          "The historic first successful ascent of the mountain took place in 1902.",
+          "Climbing the peak strictly requires a 30 km march across the deep Columbia Icefield.",
+          "Severe alpine storms and massive, hidden crevasses make the ascent extremely dangerous."
+        ]
+      }
+    }
+  ]
+}

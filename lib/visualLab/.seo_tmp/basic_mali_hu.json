@@ -1,0 +1,82 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gao-cities-v2",
+      "description": "Gao a Niger folyó partján fekvő város, amely egykor a Szonghai Birodalom fővárosa volt. Fontos kereskedelmi központ a szaharai útvonalak találkozásánál.",
+      "facts": ["Egykori birodalmi székhely", "Niger folyó partján", "Kereskedelmi csomópont"]
+    },
+    {
+      "id": "segou-grand-mosque-landmarks-v2",
+      "description": "Segou egyik legmeghatározóbb vallási épülete, amely a hagyományos szudáni-száheli építészeti stílust képviseli. A város kulturális életének központi helyszíne.",
+      "facts": ["Szudáni-száheli stílus", "Segou városa", "Vallási központ"]
+    },
+    {
+      "id": "peace-monument-tombouctou-landmarks-v2",
+      "description": "Timbuktu békéjét és az ország egységét szimbolizáló emlékmű, amely a város történelmi központjának közelében található. A helyi lakosok találkozóhelye.",
+      "facts": ["Timbuktu belvárosa", "Béke jelképe", "Modern emlékmű"]
+    },
+    {
+      "id": "grand-marche-bamako-landmarks-v2",
+      "description": "Bamako legnagyobb és legnyüzsgőbb piaca, ahol a helyi kézműves termékektől a fűszerekig mindent megtalálni. A város kereskedelmi lüktetésének központja.",
+      "facts": ["Bamako legnagyobb piaca", "Helyi kereskedelem", "Nyüzsgő forgatag"]
+    },
+    {
+      "id": "mopti-fishing-culture-life-v2",
+      "description": "Mopti a halászatáról híres város, ahol a közösségek élete szorosan összefonódik a Niger folyó ritmusával. A halászok hagyományos kenukat használnak.",
+      "facts": ["Niger folyó vidéke", "Hagyományos halászat", "Mopti városa"]
+    },
+    {
+      "id": "segou-fruit-market-life-v2",
+      "description": "A segou-i gyümölcspiac gazdag választékot kínál a régióban termelt friss gyümölcsökből, különösen mangóból és citrusfélékből. A helyi gazdák itt értékesítik terményeiket.",
+      "facts": ["Friss helyi gyümölcsök", "Segou régió", "Termelői piac"]
+    },
+    {
+      "id": "kayes-orchards-life-v2",
+      "description": "Kayes környékén elterülő gyümölcsösök fontos mezőgazdasági területek, amelyek a régió gyümölcsellátását biztosítják. A forró éghajlat ideális bizonyos fajták termesztéséhez.",
+      "facts": ["Kayes régió", "Mezőgazdasági terület", "Gyümölcstermesztés"]
+    },
+    {
+      "id": "sikasso-garden-life-v2",
+      "description": "Sikasso termékeny vidékén található kertek a város élelmiszer-ellátását szolgálják, gazdag zöldség- és gyümölcsállománnyal. A régió Mali zöldségeskertjeként ismert.",
+      "facts": ["Sikasso környéke", "Termékeny talaj", "Helyi kertészet"]
+    },
+    {
+      "id": "niger-river-bird-sanctuary-life-v2",
+      "description": "A Niger folyó mentén kijelölt madárrezervátum számos költöző és helyi madárfaj számára biztosít menedéket. A vizes élőhelyek ökológiai szempontból kiemelkedőek.",
+      "facts": ["Niger folyó mentén", "Madárrezervátum", "Vizes élőhelyek"]
+    },
+    {
+      "id": "fatoma-cattle-market-life-v2",
+      "description": "Fatoma híres állatpiaca a régió egyik legfontosabb csomópontja a szarvasmarha-kereskedelem számára. A környékbeli pásztorok itt adják el állataikat.",
+      "facts": ["Szarvasmarha-kereskedelem", "Fontos régiós piac", "Helyi pásztorkodás"]
+    },
+    {
+      "id": "goundam-wetlands-life-v2",
+      "description": "Goundam közelében található vizes élőhelyek kulcsfontosságúak a helyi ökoszisztéma számára, támogatva a mezőgazdaságot és a halászatot. A vízszint évszakosan változik.",
+      "facts": ["Vizes élőhelyek", "Goundam környéke", "Ökológiai jelentőség"]
+    },
+    {
+      "id": "koulikoro-gardens-life-v2",
+      "description": "Koulikoro öntözött kertjei lehetővé teszik a folyamatos zöldségtermelést a folyó közelségének köszönhetően. Fontos szerepet játszanak a helyi ellátásban.",
+      "facts": ["Koulikoro városa", "Öntözött földek", "Zöldségtermesztés"]
+    },
+    {
+      "id": "timbuktu-palm-groves-life-v2",
+      "description": "Timbuktu oázis jellegét a hagyományos pálmaligetek biztosítják, amelyek árnyékot és datolyát adnak a város lakóinak. A sivatagi környezetben alapvető fontosságúak.",
+      "facts": ["Timbuktu oázis", "Datolyatermesztés", "Sivatagi növényzet"]
+    },
+    {
+      "id": "goundam-livestock-life-v2",
+      "description": "Goundam régió állattenyésztése a nomád és félnomád gazdálkodásra épül, akik a legelőket keresik állataikkal. Fontos gazdasági ágazat a területen.",
+      "facts": ["Goundam régió", "Állattenyésztés", "Nomád pásztorkodás"]
+    }
+  ]
+}

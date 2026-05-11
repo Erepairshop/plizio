@@ -30,16 +30,16 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       de: ["Kapazität für etwa 35.000 Zuschauer.", "Das Stadion wurde ursprünglich im Jahr 1982 eröffnet.", "Umfangreich renoviert im Jahr 2005.", "Es ist das größte Stadion der Republik Benin.", "Austragungsort der nationalen Fußballspiele.", "Gelegen in Cotonou, dem wirtschaftlichen Zentrum des Landes."]
     }, image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp",
     description: {
-      de: "",
+      de: "Das Stade de l'Amitié in Cotonou ist das größte Stadion Benins und ein zentraler Ort für nationale Sport- und Kulturereignisse.",
       hu: "Benin legnagyobb sportlétesítménye Cotonouban, amely az ország labdarúgó-válogatottjának ad otthont és fontos állami események színhelye.",
       ro: "Cel mai mare stadion din Benin, situat în Cotonou, este principala arenă pentru evenimente sportive și culturale naționale. Stadionul poartă numele Generalului Mathieu Kérékou.",
-      en: ""
+      en: "The largest stadium in Benin, located in Cotonou, serving as the main venue for national football matches and major cultural events."
     },
     facts: {
-      de: [],
+      de: ["Sitzplatzkapazität von 20.000", "Heimstätte der Nationalmannschaft", "Erbaut im Jahr 1982", "Multifunktionsarena"],
       hu: ["Kapacitás: 35 000 fő", "Helyszín: Cotonou", "Típus: Nemzeti Stadion", "Épült: 1982"],
       ro: ["Stadion național", "Situat în Cotonou", "Capacitate mare", "Evenimente sportive"],
-      en: []
+      en: ["Benin's national stadium", "Capacity of over 30,000", "Hub for sports and concerts"]
     }
   },
   {
@@ -70,16 +70,16 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       de: ["Das Denkmal in der Mitte ist der Rote Stern.", "Symbol für die marxistisch-leninistische Vergangenheit Benins.", "Der Platz liegt im Herzen von Cotonou.", "Er ist ein wichtiger Verkehrsknotenpunkt in der Stadt.", "Oftmals Ort für feierliche politische Veranstaltungen.", "Ein unverwechselbares Wahrzeichen von Cotonou."]
     }, image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp",
     description: {
-      de: "",
+      de: "Der Place de l'Étoile Rouge ist ein markanter Platz in Cotonou, der an die marxistisch-leninistische Vergangenheit des Landes erinnert.",
       hu: "A 'Vörös Csillag tér' Cotonou egyik központi csomópontja és egyben a szocialista korszak emlékműve, amely a város történelmének fontos része.",
-      ro: "Piața Stelei Roșii este un monument iconic din Cotonou, reprezentând perioada socialistă a istoriei Beninului. Este un punct de reper central în capitala economică.",
-      en: ""
+      ro: "Piața Steaua Roșie este un reper iconic în Cotonou, simbolizând perioada marxist-leninistă a istoriei moderne a Beninului.",
+      en: "A prominent public square in Cotonou featuring a large red star monument, built during Benin's Marxist-Leninist period in the 1970s."
     },
     facts: {
-      de: [],
+      de: ["Zentrum von Cotonou", "Roter Stern als Monument", "Wichtiger Verkehrsknotenpunkt", "Symbol der Revolution"],
       hu: ["Típus: Köztér", "Jelképe: Vörös csillag", "Helyszín: Cotonou", "Forgalmas csomópont"],
-      ro: ["Monument iconic", "Situată în Cotonou", "Simbol istoric", "Punct de reper"],
-      en: []
+      ro: ["Simbol revoluționar", "Punct central în Cotonou", "Monument istoric"],
+      en: ["Symbol of the revolutionary era", "Major traffic junction in Cotonou", "Historical Marxist-Leninist monument"]
     }
   },
   {
@@ -141,16 +141,16 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       de: ["Markiert die Einfahrt zum wichtigen Hafen von Cotonou.", "Ein wesentliches Element für die Sicherheit der Schifffahrt.", "Die Geschichte des Leuchtturms ist eng mit dem Hafen verbunden.", "Bietet eine gute Orientierung an der Atlantikküste.", "Ein charakteristisches Wahrzeichen für die Küstenregion.", "Der Hafen von Cotonou ist der wichtigste Seehafen Benins."]
     }, image: "/poi-images/phare-cotonou-landmarks-v2.webp",
     description: {
-      de: "",
+      de: "Der Leuchtturm von Cotonou dient der Sicherheit der Schifffahrt im geschäftigen Hafen der wirtschaftlichen Hauptstadt Benins.",
       hu: "Cotonou történelmi világítótornya, amely a tengeri hajózás biztonságát szolgálja és az ország tengeri kereskedelmének egyik szimbóluma.",
       ro: "Farul din Cotonou este un punct de reper de navigație istoric de pe coasta Atlanticului. Acesta oferă o panoramă asupra portului și oceanului.",
-      en: ""
+      en: "A historic lighthouse in the port of Cotonou that has guided ships along the Gulf of Guinea for decades."
     },
     facts: {
-      de: [],
+      de: ["Erbaut im Jahr 1885", "Höhe von 25 Metern", "In der Nähe des Hafens", "Wichtiges Navigationszeichen"],
       hu: ["Típus: Világítótorony", "Helyszín: Cotonou", "Szerep: Hajózási biztonság", "Kikötő közelében"],
       ro: ["Far de navigație", "Coasta Atlanticului", "Situat în Cotonou", "Vedere panoramică"],
-      en: []
+      en: ["Vital maritime navigation aid", "Located near the Port of Cotonou", "Iconic coastal landmark"]
     }
   },
   {
@@ -785,13 +785,13 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       en: "Cotonou Airport"
     },
     description: {
-      de: "Der internationale Flughafen Cadjehoun ist das wichtigste Luftverkehrsdrehkreuz Benins und verbindet das Land mit der Welt.",
+      de: "Der Flughafen Cadjehoun ist das wichtigste internationale Tor Benins und verbindet das Land mit dem Rest der Welt.",
       hu: "A Cadjehoun nemzetközi repülőtér Benin legfontosabb légiközlekedési csomópontja, amely összeköti az országot a világgal.",
       ro: "Aeroportul Internațional Cadjehoun este cel mai important nod aerian din Benin, conectând țara cu restul lumii.",
       en: "Cadjehoun International Airport is Benin's primary air transport hub, connecting the country to the world."
     },
     facts: {
-      de: ["Tor zur Welt.", "Nahe dem Stadtzentrum.", "Kardinal-Bernardin-Gantin-Flughafen."],
+      de: ["Internationaler Flughafen", "IATA-Code: COO", "Befindet sich in Cotonou", "Hauptdrehkreuz von Benin"],
       hu: ["Kapu a világra.", "A városközpont közelében.", "Bernardin Gantin bíboros repülőtér."],
       ro: ["Poartă către lume.", "Aproape de centrul orașului.", "Aeroportul Cardinal Bernardin Gantin."],
       en: ["Gateway to the world.", "Near the city center.", "Cardinal Bernardin Gantin Airport."]

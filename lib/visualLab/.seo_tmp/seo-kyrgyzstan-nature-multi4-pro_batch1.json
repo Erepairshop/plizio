@@ -1,0 +1,437 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": ["lib/visualLab/data/poiExtraKyrgyzstanNatureV2.ts"],
+  "items": [
+    {
+      "id": "kg-lake-issyk-kul-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Issyk-Kul ist der zehntgrößte See der Welt nach Volumen und der zweitgrößte Gebirgssee nach dem Titicacasee. Er liegt auf einer Höhe von 1.607 Metern im Tian-Shan-Gebirge im Osten Kirgisistans. Trotz seiner extremen Höhenlage und der kalten Winter in der Region friert der See nie zu. Dies ist auf seinen leichten Salzgehalt und die enorme Wassertiefe von bis zu 668 Metern zurückzuführen. Der See ist ein wichtiges Zentrum für Tourismus und verfügt über zahlreiche Kurorte und Sanatorien, die während der Sowjetzeit an seinem Nordufer in Städten wie Tscholpon-Ata errichtet wurden.",
+        "hu": "Az Iszik-köl a világ tizedik legnagyobb térfogatú tava, és a Titicaca-tó után a második legnagyobb hegyi tó. Kelet-Kirgizisztánban, a Tien-san hegységben található, 1607 méteres tengerszint feletti magasságban. Nevének jelentése kirgiz nyelven \"meleg tó\", ami arra utal, hogy a zord telek ellenére sem fagy be soha. Ez enyhe sótartalmának és hatalmas, akár 668 méteres mélységének köszönhető. A tó északi partja, különösen Csolpon-Ata környéke, a turizmus központja, ahol számos szovjet korszakból származó szanatórium és üdülőhely üzemel.",
+        "ro": "Issyk-Kul este al zecelea lac ca volum din lume și al doilea cel mai mare lac alpin după Titicaca. Este situat la o altitudine de 1.607 metri în munții Tian Shan din estul Kârgâzstanului. În ciuda altitudinii sale ridicate și a iernilor friguroase din regiune, lacul nu îngheață niciodată, datorită salinității sale ușoare și adâncimii mari care atinge 668 de metri. Malul nordic al lacului, în special în jurul orașului Cholpon-Ata, este un hub turistic important, găzduind numeroase stațiuni balneare și sanatorii construite în perioada sovietică.",
+        "en": "Issyk-Kul is the tenth largest lake in the world by volume and the second-largest alpine lake after Lake Titicaca. It is situated at an altitude of 1,607 meters in the Tian Shan mountains of eastern Kyrgyzstan. Despite the extreme elevation and the region's freezing winters, the lake never freezes. This phenomenon is due to its slight salinity and a massive depth of up to 668 meters. The northern shore of the lake, particularly around the town of Cholpon-Ata, is a major center for tourism, featuring numerous health resorts and sanatoriums built during the Soviet era."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt auf einer Höhe von 1.607 Metern über dem Meeresspiegel.",
+          "Maximale Wassertiefe von 668 Metern.",
+          "Wird von über 100 kleinen Flüssen gespeist, hat aber keinen Abfluss.",
+          "Leicht salzhaltiges Wasser verhindert das Zufrieren im Winter.",
+          "Das Nordufer ist ein beliebtes Touristenziel mit vielen Kurorten.",
+          "Von schneebedeckten Gipfeln des Tian-Shan-Gebirges umgeben."
+        ],
+        "hu": [
+          "Tengerszint feletti magassága 1607 méter.",
+          "Maximális vízmélysége eléri a 668 métert.",
+          "Több mint 100 patak táplálja, de nincs lefolyása (endorheikus).",
+          "Enyhén sós vize miatt soha nem fagy be a téli hónapokban.",
+          "Az északi part Csolpon-Ata központtal népszerű nyaralóhely.",
+          "A Tien-san hegység hófödte csúcsai veszik körül."
+        ],
+        "ro": [
+          "Este situat la o altitudine de 1.607 metri deasupra nivelului mării.",
+          "Adâncimea maximă a apei atinge 668 de metri.",
+          "Este alimentat de peste 100 de râuri, dar nu are ieșire spre ocean.",
+          "Apa ușor sărată previne înghețarea completă în timpul iernii.",
+          "Malul nordic este o destinație turistică populară cu sanatorii.",
+          "Este înconjurat de vârfurile acoperite de zăpadă din Tian Shan."
+        ],
+        "en": [
+          "Situated at an altitude of 1,607 meters above sea level.",
+          "Maximum water depth reaches an impressive 668 meters.",
+          "Fed by over 100 streams but has no outlet (endorheic basin).",
+          "Slightly saline water prevents it from freezing during winter.",
+          "The northern shore is a popular tourist destination with resorts.",
+          "Surrounded by the snow-capped peaks of the Tian Shan ranges."
+        ]
+      }
+    },
+    {
+      "id": "kg-lake-song-kol-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Song-Köl ist ein malerischer alpiner Hochgebirgssee in der Provinz Naryn in Kirgisistan. Er liegt auf einer Höhe von 3.016 Metern und ist nach dem Issyk-Kul der zweitgrößte See des Landes. Die Umgebung des Sees ist von weiten Sommerweiden, sogenannten Jailoos, umgeben, die von kirgisischen Nomaden genutzt werden, um ihre Herden in den warmen Monaten grasen zu lassen. Der See ist in den Wintermonaten von Mitte Oktober bis in den Mai hinein mit einer dicken Eisschicht bedeckt und die Zufahrtsstraßen sind oft unpassierbar.",
+        "hu": "A Szong-köl egy festői fekvésű alpesi hegyi tó Kirgizisztán Narin tartományában. 3016 méteres tengerszint feletti magasságban terül el, és az Iszik-köl után az ország második legnagyobb tava. A tó környékét hatalmas nyári legelők, úgynevezett jailook övezik, amelyeket a kirgiz nomádok használnak nyájaik legeltetésére a meleg hónapokban. A téli időszakban, október közepétől egészen májusig vastag jégréteg borítja, és a hozzá vezető hegyi hágók gyakran járhatatlanok a hó miatt.",
+        "ro": "Song-Kul este un lac alpin pitoresc situat în provincia Naryn din Kârgâzstan. Se află la o altitudine de 3.016 metri și este al doilea cel mai mare lac din țară, după Issyk-Kul. Împrejurimile lacului sunt formate din pășuni extinse de vară, cunoscute sub numele de jailoo, folosite de nomazii kârgâzi pentru a-și paște turmele în lunile mai calde. În timpul lunilor de iarnă, de la jumătatea lunii octombrie până în mai, lacul este acoperit de un strat gros de gheață, iar drumurile de acces sunt adesea impracticabile.",
+        "en": "Song-Kul is a picturesque alpine lake located in the Naryn Province of Kyrgyzstan. Situated at a high altitude of 3,016 meters, it is the second-largest lake in the country after Issyk-Kul. The surrounding area consists of vast summer pastures, known as jailoos, which are traditionally used by Kyrgyz nomads to graze their livestock during the warmer months. During the winter, from mid-October into May, the lake is covered in a thick layer of ice, and the mountain passes leading to it are often snowbound and inaccessible."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt in einer Hochgebirgssenke auf 3.016 Metern Höhe.",
+          "Gesamtfläche des Sees beträgt etwa 270 Quadratkilometer.",
+          "Wird im Sommer von Nomaden als Weideland (Jailoo) genutzt.",
+          "Zufahrt erfolgt über hohe Pässe, die im Winter geschlossen sind.",
+          "Der See ist von Oktober bis Ende Mai komplett zugefroren.",
+          "Ein beliebtes Ziel für Reittouren und Jurten-Übernachtungen."
+        ],
+        "hu": [
+          "3016 méteres magasságban, egy hegyközi medencében fekszik.",
+          "A tó teljes vízfelülete megközelítőleg 270 négyzetkilométer.",
+          "Nyáron a pásztorok tradicionális legelőjeként (jailoo) szolgál.",
+          "Megközelítése magas hágókon át történik, melyek télen le vannak zárva.",
+          "Októbertől május végéig a tó felszínét teljesen befagyott jég borítja.",
+          "Kedvelt célpontja a lovastúráknak és jurtás éjszakázásoknak."
+        ],
+        "ro": [
+          "Situat într-un bazin montan înalt la o altitudine de 3.016 metri.",
+          "Suprafața totală a lacului este de aproximativ 270 de kilometri pătrați.",
+          "Folosit de păstori ca pășune tradițională de vară (jailoo).",
+          "Accesul se face prin trecători înalte, care sunt închise iarna.",
+          "Lacul este complet înghețat din octombrie până la sfârșitul lunii mai.",
+          "O destinație populară pentru călărie și cazare în iurte."
+        ],
+        "en": [
+          "Located in a high mountain basin at an elevation of 3,016 meters.",
+          "The total surface area of the lake is approximately 270 square kilometers.",
+          "Serves as a traditional summer grazing land (jailoo) for nomads.",
+          "Accessed via high mountain passes that are closed during winter.",
+          "The lake remains completely frozen from October to late May.",
+          "A highly popular destination for horseback riding and yurt stays."
+        ]
+      }
+    },
+    {
+      "id": "kg-forest-ala-archa-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Ala-Artscha-Nationalpark ist ein alpiner Nationalpark im Tian-Shan-Gebirge, nur etwa 40 Kilometer südlich der Hauptstadt Bischkek. Der Park wurde 1976 gegründet und umfasst das malerische Tal des Flusses Ala-Artscha sowie zahlreiche schneebedeckte Gipfel und mehr als 20 Gletscher. Der höchste Punkt im Park ist der Pik Semjonow-Tjan-Schanski mit einer Höhe von 4.895 Metern. Der Park ist ein beliebtes Ziel für Tagesausflüge, Wanderungen und anspruchsvolle Bergsteigerexpeditionen, insbesondere zum bekannten Ak-Sai-Gletscher.",
+        "hu": "Az Ala-Arcsa Nemzeti Park egy alpesi nemzeti park a Tien-san hegységben, mindössze 40 kilométerre délre a fővárostól, Biskektől. Az 1976-ban alapított park magába foglalja az Ala-Arcsa folyó festői völgyét, valamint számos hófödte hegycsúcsot és több mint 20 gleccsert. A nemzeti park legmagasabb pontja a 4895 méter magas Szemjonov-Tyan-Sanszkij-csúcs. A terület népszerű célpontja az egynapos kirándulásoknak, könnyebb túráknak és a komolyabb hegymászó expedícióknak, különösen az Ak-Szaj gleccser irányába.",
+        "ro": "Parcul Național Ala Archa este un parc național alpin situat în munții Tian Shan, la doar 40 de kilometri sud de capitala Bișkek. Înființat în 1976, parcul cuprinde valea pitorească a râului Ala Archa, precum și numeroase vârfuri acoperite de zăpadă și peste 20 de ghețari. Cel mai înalt punct din parc este Vârful Semenov-Tian-Shansky, cu o altitudine de 4.895 de metri. Parcul este o destinație populară pentru excursii de o zi, drumeții și expediții montane dificile, în special spre renumitul ghețar Ak-Sai.",
+        "en": "Ala Archa National Park is an alpine national park in the Tian Shan mountains, located just about 40 kilometers south of the capital city, Bishkek. Established in 1976, the park covers the picturesque valley of the Ala Archa River, along with numerous snow-capped peaks and more than 20 glaciers. The highest point within the park is Peak Semenov-Tian-Shansky, reaching an elevation of 4,895 meters. The park is a popular destination for day trips, hiking, and challenging mountaineering expeditions, particularly to the famous Ak-Sai Glacier."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im Jahr 1976 zum Schutz der Berglandschaft südlich von Bischkek.",
+          "Umfasst mehr als 20 Gletscher, darunter den bekannten Ak-Sai-Gletscher.",
+          "Der höchste Punkt ist der Pik Semjonow-Tjan-Schanski mit 4.895 Metern.",
+          "Lebensraum für seltene Tierarten wie den Sibirischen Steinbock.",
+          "Beliebtes Ziel für Wanderer, Picknicker und Eiskletterer.",
+          "Der Name bedeutet \"Bunter Wacholder\" in der kirgisischen Sprache."
+        ],
+        "hu": [
+          "1976-ban alapították a Biskek környéki hegyi táj védelme érdekében.",
+          "Több mint 20 gleccsert foglal magába, köztük a népszerű Ak-Szaj gleccsert.",
+          "Legmagasabb pontja a 4895 méteres Szemjonov-Tyan-Sanszkij-csúcs.",
+          "Ritka állatfajok otthona, mint például a szibériai kőszáli kecske.",
+          "Népszerű hétvégi kirándulóhely a fővárosi lakosok és túrázók körében.",
+          "A park neve kirgiz nyelven \"Tarka boróka\" jelentéssel bír."
+        ],
+        "ro": [
+          "Înființat în 1976 pentru a proteja peisajul montan de la sud de Bișkek.",
+          "Include peste 20 de ghețari, printre care și renumitul ghețar Ak-Sai.",
+          "Cel mai înalt punct este Vârful Semenov-Tian-Shansky (4.895 metri).",
+          "Habitat pentru specii de animale rare, precum ibexul siberian.",
+          "O destinație frecventată pentru drumeții, picnicuri și alpinism pe gheață.",
+          "Numele se traduce prin \"Ienupăr colorat\" în limba kârgâză."
+        ],
+        "en": [
+          "Established in 1976 to protect the mountain landscape south of Bishkek.",
+          "Contains more than 20 glaciers, including the well-known Ak-Sai Glacier.",
+          "The highest peak is Semenov-Tian-Shansky at 4,895 meters.",
+          "Provides habitat for rare mountain wildlife like the Siberian ibex.",
+          "A favored weekend destination for city residents, hikers, and ice climbers.",
+          "The park's name translates to \"Brightly colored juniper\" in Kyrgyz."
+        ]
+      }
+    },
+    {
+      "id": "kg-mountain-tien-shan-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tian-Shan-Gebirge, übersetzt als \"Himmelsgebirge\", ist eines der größten Gebirgssysteme Zentralasiens. Ein Großteil dieser massiven Gebirgskette erstreckt sich über das Territorium Kirgisistans und prägt die Landschaft, das Klima und die Kultur des Landes entscheidend. Der höchste Punkt des gesamten Systems ist der Dschengisch Tschokusu (Pik Pobeda) mit 7.439 Metern an der Grenze zu China. Das Gebirge beherbergt ausgedehnte Gletschersysteme, tiefe Schluchten und ist der natürliche Lebensraum des gefährdeten Schneeleoparden.",
+        "hu": "A Tien-san, magyarul \"Mennyei-hegység\", Közép-Ázsia egyik legkiterjedtebb hegységrendszere. Ennek a hatalmas hegyvonulatnak a jelentős része Kirgizisztán területén húzódik, alapvetően meghatározva az ország domborzatát, éghajlatát és kultúráját. A teljes hegyrendszer legmagasabb pontja a 7439 méter magas Dzsengis Csokuszu (Pobeda-csúcs) a kínai határon. A hegyvidék kiterjedt gleccserrendszereket, mély szurdokvölgyeket rejt, és a veszélyeztetett hópárduc egyik legfontosabb természetes élőhelye.",
+        "ro": "Munții Tian Shan, traduși ca „Munții Cerești”, reprezintă unul dintre cele mai mari sisteme montane din Asia Centrală. O mare parte din acest lanț masiv se extinde pe teritoriul Kârgâzstanului, conturând peisajul, clima și cultura țării. Cel mai înalt punct al întregului sistem este Jengish Chokusu (Vârful Pobeda) la 7.439 de metri, situat la granița cu China. Lanțul muntos adăpostește sisteme extinse de ghețari, defileuri adânci și este habitatul natural al leopardului de zăpadă, o specie pe cale de dispariție.",
+        "en": "The Tian Shan mountains, translating to \"Celestial Mountains\", is one of the largest mountain systems in Central Asia. A significant portion of this massive range extends across the territory of Kyrgyzstan, heavily defining the country's landscape, climate, and culture. The highest peak in the entire system is Jengish Chokusu (Victory Peak) at 7,439 meters, located on the border with China. The mountain range hosts extensive glacier networks, deep gorges, and is a vital natural habitat for the endangered snow leopard."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bedeckt rund 80 Prozent der gesamten Landfläche Kirgisistans.",
+          "Höchster Punkt ist der Dschengisch Tschokusu mit 7.439 Metern.",
+          "Wichtiger Wasserspeicher Zentralasiens durch zahlreiche Gletscher.",
+          "Lebensraum für seltene Tierarten wie den Schneeleoparden und Argali.",
+          "Die Berge weisen hohe seismische Aktivität auf.",
+          "Wurde 2013 teilweise in die Liste des UNESCO-Weltnaturerbes aufgenommen."
+        ],
+        "hu": [
+          "Kirgizisztán teljes területének mintegy 80 százalékát borítja.",
+          "Legmagasabb csúcsa a 7439 méteres Dzsengis Csokuszu (Pobeda).",
+          "Közép-Ázsia fontos víztározója a kiterjedt gleccserhálózat révén.",
+          "Ritka fajok, például a hópárduc és az argali (óriásjuh) élőhelye.",
+          "A hegységrendszer tektonikailag és szeizmikusan rendkívül aktív.",
+          "Bizonyos részei 2013-ban felkerültek az UNESCO Világörökség listájára."
+        ],
+        "ro": [
+          "Acoperă aproximativ 80% din suprafața totală a Kârgâzstanului.",
+          "Cel mai înalt punct este Jengish Chokusu, având 7.439 de metri.",
+          "Rezervor important de apă pentru Asia Centrală datorită ghețarilor.",
+          "Habitat pentru specii rare, cum ar fi leopardul de zăpadă și argali.",
+          "Regiunea montană prezintă un nivel ridicat de activitate seismică.",
+          "Unele părți au fost incluse în Patrimoniul Mondial UNESCO în 2013."
+        ],
+        "en": [
+          "Covers approximately 80 percent of the total land area of Kyrgyzstan.",
+          "The highest elevation is Jengish Chokusu at 7,439 meters.",
+          "Acts as a crucial water tower for Central Asia due to its glaciers.",
+          "Provides habitat for rare species like the snow leopard and Argali sheep.",
+          "The mountain ranges experience significant tectonic and seismic activity.",
+          "Certain sections were inscribed on the UNESCO World Heritage list in 2013."
+        ]
+      }
+    },
+    {
+      "id": "kg-mountain-jengish-chokusu-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Dschengisch Tschokusu, früher als Pik Pobeda bekannt, ist mit 7.439 Metern der höchste Berg Kirgisistans und des gesamten Tian-Shan-Gebirges. Er erhebt sich massiv an der südöstlichen Grenze Kirgisistans zu China. Aufgrund seiner isolierten Lage und der extremen Wetterbedingungen wurde er erst 1943 als höchster Gipfel der Region identifiziert und löste damit den Khan Tengri ab. Die Besteigung des Dschengisch Tschokusu gilt aufgrund des launischen Wetters und der großen Lawinengefahr als eine der schwierigsten Herausforderungen im Höhenbergsteigen.",
+        "hu": "A Dzsengis Csokuszu, korábbi ismert nevén Pobeda-csúcs (Győzelem-csúcs), 7439 méteres magasságával Kirgizisztán és az egész Tien-san hegységrendszer legmagasabb hegye. A masszív hegytömb az ország délkeleti, Kínával közös határán magasodik. Elszigetelt fekvése és az extrém időjárási körülmények miatt csak 1943-ban azonosították a régió legmagasabb pontjaként, megelőzve a Han-Tengrit. Megmászása a kiszámíthatatlan időjárás és a folyamatos lavinaveszély miatt a magashegyi hegymászás egyik legnehezebb kihívásának számít.",
+        "ro": "Jengish Chokusu, cunoscut anterior sub numele de Vârful Pobeda, este, cu cei 7.439 de metri ai săi, cel mai înalt munte din Kârgâzstan și din întregul sistem Tian Shan. Se înalță masiv la granița de sud-est a Kârgâzstanului cu China. Datorită locației sale izolate și condițiilor meteorologice extreme, a fost identificat ca fiind cel mai înalt vârf din regiune abia în 1943, depășind Khan Tengri. Ascensiunea sa este considerată una dintre cele mai dificile provocări din alpinism din cauza vremii capricioase și a riscului mare de avalanșe.",
+        "en": "Jengish Chokusu, formerly known as Peak Pobeda (Victory Peak), is the highest mountain in Kyrgyzstan and the entire Tian Shan system, standing at 7,439 meters. It rises formidably on the southeastern border of Kyrgyzstan with China. Due to its remote location and extreme weather conditions, it was only identified as the region's highest peak in 1943, surpassing Khan Tengri. Climbing Jengish Chokusu is considered one of the most formidable challenges in high-altitude mountaineering because of volatile weather and severe avalanche risks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 7.439 Metern der höchste Gipfel im gesamten Tian-Shan-Gebirge.",
+          "Liegt direkt auf der internationalen Grenze zwischen Kirgisistan und China.",
+          "Wurde erst im Jahr 1943 als höchster Berg der Region vermessen.",
+          "Der russische Name 'Pik Pobeda' bedeutet 'Gipfel des Sieges'.",
+          "Ist der nördlichste Siebentausender der Erde.",
+          "Gilt als einer der schwierigsten Berge für Bergsteiger aufgrund des Klimas."
+        ],
+        "hu": [
+          "7439 méteres magasságával az egész Tien-san legmagasabb pontja.",
+          "Közvetlenül Kirgizisztán és Kína nemzetközi határvonalán helyezkedik el.",
+          "Csak 1943-ban térképezték fel és mérték be a régió legmagasabb csúcsaként.",
+          "Orosz neve, a 'Pobeda-csúcs' magyarra fordítva 'Győzelem-csúcsot' jelent.",
+          "Ez a Föld legészakabban fekvő 7000 méter feletti hegycsúcsa.",
+          "Az extrém hideg és szél miatt a legnehezebben mászható hegyek közé tartozik."
+        ],
+        "ro": [
+          "La 7.439 metri, este cel mai înalt vârf din întregul sistem Tian Shan.",
+          "Se află exact pe granița internațională dintre Kârgâzstan și China.",
+          "A fost măsurat ca fiind cel mai înalt munte din regiune abia în 1943.",
+          "Numele rusesc 'Pik Pobeda' se traduce prin 'Vârful Victoriei'.",
+          "Este cel mai nordic vârf de peste șapte mii de metri de pe Pământ.",
+          "Considerat unul dintre cei mai dificili munți pentru alpiniști."
+        ],
+        "en": [
+          "At 7,439 meters, it is the highest peak in the entire Tian Shan range.",
+          "Situated directly on the international border between Kyrgyzstan and China.",
+          "Was only surveyed and confirmed as the region's highest mountain in 1943.",
+          "The Russian name 'Peak Pobeda' translates to 'Victory Peak'.",
+          "It holds the distinction of being the northernmost 7,000-meter peak on Earth.",
+          "Renowned as one of the most difficult mountains to climb due to extreme weather."
+        ]
+      }
+    },
+    {
+      "id": "kg-mountain-khan-tengri-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Khan Tengri ist mit 7.010 Metern (einschließlich seiner Eiskappe) der zweithöchste Berg im Tian-Shan-Gebirge. Seine markante, pyramidenförmige Silhouette macht ihn zu einem der fotogensten Berge Zentralasiens. Er befindet sich am Dreiländereck zwischen Kirgisistan, Kasachstan und China. Der Berg besteht zu einem großen Teil aus rosa Marmor, weshalb er besonders bei Sonnenuntergang in leuchtenden rötlichen Farben erstrahlt, was ihm den kasachischen Spitznamen \"Kan Tau\" (Blutberg) einbrachte.",
+        "hu": "A Han-Tengri a maga 7010 méterével (a jégsapkát is beleszámítva) a Tien-san hegység második legmagasabb csúcsa. Jellegzetes, szabályos piramis alakú sziluettje Közép-Ázsia egyik legfotogénebb hegyévé teszi. A hegycsúcs pontosan Kirgizisztán, Kazahsztán és Kína hármashatárán fekszik. A hegytömb jelentős része rózsaszín márványból áll, ezért naplemente idején lenyűgöző vöröses színben pompázik, ami miatt a kazahok a \"Kan Tau\" (Vérhegy) gúnynevet adták neki.",
+        "ro": "Khan Tengri, cu o altitudine de 7.010 metri (inclusiv calota sa de gheață), este al doilea cel mai înalt munte din Munții Tian Shan. Silueta sa distinctă, sub formă de piramidă, îl face unul dintre cei mai fotogenici munți din Asia Centrală. Este situat la tripla frontieră dintre Kârgâzstan, Kazahstan și China. Muntele este format în mare parte din marmură roz, motiv pentru care strălucește în culori roșiatice intense, mai ales la apus, ceea ce i-a adus porecla kazahă de „Kan Tau” (Muntele de Sânge).",
+        "en": "Khan Tengri is the second-highest mountain in the Tian Shan range, reaching an elevation of 7,010 meters (including its glacial ice cap). Its striking, perfectly pyramidal silhouette makes it one of the most photogenic peaks in Central Asia. It is located at the tripoint border between Kyrgyzstan, Kazakhstan, and China. The mountain is largely composed of pink marble, causing it to glow in brilliant reddish hues, especially at sunset, which earned it the Kazakh nickname \"Kan Tau\" (Blood Mountain)."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höhe beträgt 7.010 Meter mit Eiskappe, geologische Höhe 6.995 Meter.",
+          "Markante Form einer perfekten, steilen Pyramide.",
+          "Befindet sich am Dreiländereck von Kirgisistan, Kasachstan und China.",
+          "Besteht aus rosa Marmor, der bei Sonnenuntergang rot leuchtet.",
+          "Gilt als einer der schönsten, aber auch anspruchsvollsten Gipfel der Welt.",
+          "Der Name 'Khan Tengri' bedeutet übersetzt 'Herr der Geister'."
+        ],
+        "hu": [
+          "Magassága jégsapkával 7010 méter, sziklamagassága 6995 méter.",
+          "Jellegzetes, tökéletes és meredek piramis alakú hegycsúcs.",
+          "Kirgizisztán, Kazahsztán és Kína nemzetközi hármashatárán fekszik.",
+          "Rózsaszín márványból épül fel, amely naplementekor vörösen izzik.",
+          "A világ egyik legszebb, ugyanakkor technikailag nehéz mászócélpontja.",
+          "A 'Han-Tengri' név jelentése a türk nyelvekben 'A Szellemek Ura'."
+        ],
+        "ro": [
+          "Altitudinea este de 7.010 metri cu calota de gheață, 6.995 metri roca de bază.",
+          "Are o formă distinctă a unei piramide perfecte și abrupte.",
+          "Se află la joncțiunea granițelor dintre Kârgâzstan, Kazahstan și China.",
+          "Este alcătuit din marmură roz care capătă o nuanță roșiatică la apus.",
+          "Este considerat unul dintre cele mai frumoase, dar dificile vârfuri din lume.",
+          "Numele 'Khan Tengri' se traduce prin 'Stăpânul spiritelor'."
+        ],
+        "en": [
+          "Elevation is 7,010 meters with the ice cap, while the rock summit is 6,995 meters.",
+          "Features a striking shape resembling a perfect, steep pyramid.",
+          "Situated exactly at the tripoint of Kyrgyzstan, Kazakhstan, and China.",
+          "Composed of pink marble that glows bright red during sunset.",
+          "Renowned as one of the world's most beautiful yet technically challenging climbs.",
+          "The name 'Khan Tengri' translates to 'Lord of the Spirits' in Turkic."
+        ]
+      }
+    },
+    {
+      "id": "kg-mountain-lenin-peak-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Lenin-Pik ist ein 7.134 Meter hoher Berg in der Transalai-Kette im Pamir-Gebirge an der Grenze zwischen Kirgisistan und Tadschikistan. Obwohl er die 7000-Meter-Marke überschreitet, gilt der Lenin-Pik als einer der am leichtesten zu besteigenden 7000er der Welt, was ihn zu einem äußerst beliebten Ziel für Hochgebirgs-Expeditionen macht. Im Jahr 2006 wurde er in Tadschikistan offiziell in Pik Abuali ibni Sino umbenannt, während er in Kirgisistan und international weiterhin meist als Lenin-Pik bekannt ist.",
+        "hu": "A Lenin-csúcs egy 7134 méter magas hegy a Pamír-hegység Transzalaj-vonulatában, Kirgizisztán és Tádzsikisztán határán. Bár magassága bőven meghaladja a 7000 métert, a Lenin-csúcsot a világ egyik legkönnyebben megmászható hétezreseként tartják számon, így rendkívül népszerű célpontja a magashegyi expedícióknak. 2006-ban Tádzsikisztánban hivatalosan átnevezték Ibn Szína-csúcsra, azonban Kirgizisztánban és a nemzetközi hegymászó közösségben továbbra is Lenin-csúcsként ismert.",
+        "ro": "Vârful Lenin este un munte cu o altitudine de 7.134 de metri situat în lanțul Trans-Alai din Munții Pamir, la granița dintre Kârgâzstan și Tadjikistan. Deși depășește pragul de 7.000 de metri, Vârful Lenin este considerat unul dintre cele mai ușor de escaladat vârfuri de peste 7.000 de metri din lume, ceea ce îl face o destinație extrem de populară pentru expedițiile de mare altitudine. În 2006, a fost redenumit oficial Vârful Ibn Sina în Tadjikistan, dar este încă cunoscut la nivel internațional sub numele de Vârful Lenin.",
+        "en": "Lenin Peak is a 7,134-meter-high mountain in the Trans-Alai range of the Pamir Mountains, situated on the border between Kyrgyzstan and Tajikistan. Despite exceeding the 7,000-meter mark, Lenin Peak is widely considered one of the easiest 7,000-meter peaks in the world to ascend, making it a highly popular destination for high-altitude expeditions. In 2006, it was officially renamed Ibn Sina Peak in Tajikistan, though it remains predominantly known as Lenin Peak in Kyrgyzstan and internationally."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erreicht eine beachtliche Höhe von 7.134 Metern über dem Meeresspiegel.",
+          "Gilt unter Bergsteigern als der am leichtesten zu besteigende 7000er.",
+          "Liegt im Pamir-Gebirge an der Grenze zu Tadschikistan.",
+          "Wurde in Tadschikistan 2006 in Pik Abuali ibni Sino (Avicenna) umbenannt.",
+          "Ausgangspunkt für viele Expeditionen ist das Basislager Achik-Tash.",
+          "Wurde 1928 von einer deutsch-sowjetischen Expedition erstmals bestiegen."
+        ],
+        "hu": [
+          "Tengerszint feletti magassága eléri a tekintélyes 7134 métert.",
+          "A hegymászók körében a legkönnyebben mászható 7000-es csúcsként tartják számon.",
+          "A Pamír-hegységben, a Tádzsikisztánnal közös határvonalon található.",
+          "Tádzsikisztánban 2006-ban Ibn Szína-csúcsra nevezték át.",
+          "A legtöbb expedíció az Acsik-Tas alaptáborból indul a csúcstámadásra.",
+          "Elsőként egy német-szovjet expedíció mászta meg 1928-ban."
+        ],
+        "ro": [
+          "Atinge o altitudine impresionantă de 7.134 de metri deasupra nivelului mării.",
+          "Considerat de alpiniști ca fiind cel mai ușor de escaladat vârf de 7.000m.",
+          "Situat în Munții Pamir, la granița sudică cu Tadjikistan.",
+          "A fost redenumit Vârful Ibn Sina (Avicenna) în Tadjikistan în 2006.",
+          "Punctul de plecare pentru multe expediții este tabăra de bază Achik-Tash.",
+          "A fost escaladat pentru prima dată în 1928 de o expediție germano-sovietică."
+        ],
+        "en": [
+          "Reaches a formidable altitude of 7,134 meters above sea level.",
+          "Regarded among mountaineers as the most accessible 7,000-meter peak.",
+          "Located in the Pamir Mountain range along the border with Tajikistan.",
+          "It was renamed Ibn Sina Peak (Avicenna) by Tajikistan in 2006.",
+          "The Achik-Tash base camp serves as the starting point for most expeditions.",
+          "Was first successfully climbed in 1928 by a joint German-Soviet expedition."
+        ]
+      }
+    },
+    {
+      "id": "kg-river-naryn-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Naryn ist mit einer Länge von 807 Kilometern der längste und wasserreichste Fluss Kirgisistans. Er entspringt hoch im Tian-Shan-Gebirge aus Gletscherwasser und fließt in westlicher Richtung durch das ganze Land. Seine starke Strömung wird durch eine Kaskade von Staudämmen, darunter der gewaltige Toktogul-Stausee, zur Erzeugung von Wasserkraft genutzt, was den größten Teil der Energieversorgung Kirgisistans sicherstellt. Im Ferghanatal in Usbekistan vereinigt sich der Naryn mit dem Kara Darya und bildet den Syr Darya, einen der wichtigsten Flüsse Zentralasiens.",
+        "hu": "A Narin folyó 807 kilométeres hosszával Kirgizisztán leghosszabb és legbővizűbb folyója. A Tien-san hegység magaslataiban, gleccserek olvadékvizéből ered, és nyugati irányban szeli át az országot. Erős sodrását vízerőművek, köztük a hatalmas Toktogul-víztározó gátrendszere hasznosítja, amely Kirgizisztán villamosenergia-ellátásának oroszlánrészét biztosítja. Az üzbegisztáni Fergana-völgyben a Narin egyesül a Kara-Darja folyóval, létrehozva a Szir-Darját, Közép-Ázsia egyik legfontosabb folyóját.",
+        "ro": "Râul Naryn este cel mai lung și mai abundent râu din Kârgâzstan, având o lungime de 807 kilometri. Izvorăște din ghețarii din înalții Munți Tian Shan și curge spre vest pe teritoriul țării. Curentul său puternic este valorificat pentru generarea de energie hidroelectrică printr-o cascadă de baraje, inclusiv masivul lac de acumulare Toktogul, furnizând cea mai mare parte a energiei Kârgâzstanului. În Valea Fergana din Uzbekistan, râul Naryn se unește cu Kara Darya pentru a forma Syr Darya, unul dintre cele mai importante râuri din Asia Centrală.",
+        "en": "The Naryn River is the longest and most voluminous river in Kyrgyzstan, stretching for 807 kilometers. It originates from glacial waters high in the Tian Shan mountains and flows westward across the country. Its powerful current is harnessed for hydroelectric power generation through a cascade of dams, including the massive Toktogul Reservoir, supplying the vast majority of Kyrgyzstan's energy needs. In the Fergana Valley of Uzbekistan, the Naryn merges with the Kara Darya to form the Syr Darya, one of Central Asia's most vital rivers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 807 Kilometern Länge der längste Fluss auf kirgisischem Territorium.",
+          "Entspringt in den Gletschern des Tian-Shan-Gebirges.",
+          "Vereinigt sich mit dem Kara Darya zum wichtigen Fluss Syr Darya.",
+          "Speist den riesigen Toktogul-Stausee zur Energiegewinnung.",
+          "Ist die Hauptquelle für die Wasserkraftversorgung des Landes.",
+          "Fließt durch tiefe, spektacular Schluchten in Richtung Westen."
+        ],
+        "hu": [
+          "807 kilométeres hosszával a leghosszabb folyó Kirgizisztán területén.",
+          "A Tien-san hegység magashegyi gleccsereiből ered.",
+          "A Kara-Darjával egyesülve alkotja a Szir-Darja folyót.",
+          "Vize táplálja a hatalmas Toktogul-víztározót energiatermelés céljából.",
+          "Az ország vízenergia-ellátásának legfőbb és legfontosabb forrása.",
+          "Mély, látványos szurdokokon keresztül áramlik nyugati irányba."
+        ],
+        "ro": [
+          "Cu o lungime de 807 kilometri, este cel mai lung râu din Kârgâzstan.",
+          "Izvorăște din topirea ghețarilor din Munții Tian Shan.",
+          "Se unește cu râul Kara Darya pentru a forma fluviul Syr Darya.",
+          "Alimentează uriașul lac de acumulare Toktogul pentru producția de energie.",
+          "Este sursa principală de energie hidroelectrică pentru întreaga țară.",
+          "Curge prin defileuri adânci și spectaculoase spre vest."
+        ],
+        "en": [
+          "At 807 kilometers long, it is the longest river within Kyrgyz territory.",
+          "Originates from the high-altitude glaciers of the Tian Shan mountains.",
+          "Merges with the Kara Darya river to form the mighty Syr Darya.",
+          "Feeds the enormous Toktogul Reservoir for energy production.",
+          "Serves as the primary source of hydroelectric power for the country.",
+          "Flows through deep, spectacular mountain gorges towards the west."
+        ]
+      }
+    },
+    {
+      "id": "kg-river-chu-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Tschüi (Chu) ist ein bedeutender 1.067 Kilometer langer Fluss im Norden Kirgisistans. Er entspringt im Kochkor-Tal und fließt durch die spektakuläre Boom-Schlucht, bevor er in das weite, landwirtschaftlich intensiv genutzte Tschüital eintritt. Ein großer Teil des Flusses bildet die natürliche Grenze zwischen Kirgisistan und Kasachstan. Der Fluss hat keine Mündung ins Meer, sondern versickert schließlich in der Wüste Mujunkum in Südkasachstan. Sein Wasser ist für die Bewässerung in beiden Ländern von entscheidender Bedeutung.",
+        "hu": "A Csu (Tschüi) egy 1067 kilométer hosszú, jelentős folyó Észak-Kirgizisztánban. A Kocs-kor völgyben ered, majd áttöri a látványos Boom-szurdokot, mielőtt kiérne a széles, mezőgazdaságilag intenzíven művelt Csu-völgybe. A folyó egy hosszú szakaszon természetes határt képez Kirgizisztán és Kazahsztán között. Nem ömlik tengerbe, vizét öntözésre használják, maradéka pedig a kazahsztáni Mujunkum-sivatag homokjában vész el. Vize mindkét ország számára kulcsfontosságú az öntözéses földművelésben.",
+        "ro": "Râul Chu este un râu important de 1.067 de kilometri lungime, situat în nordul Kârgâzstanului. Izvorăște în Valea Kochkor și curge prin spectaculosul Defileu Boom înainte de a intra în Valea Chu, o zonă agricolă vastă și intens cultivată. O mare parte a râului formează granița naturală dintre Kârgâzstan și Kazahstan. Râul nu se varsă într-o mare sau ocean, ci dispare în cele din urmă în deșertul Muyunkum din sudul Kazahstanului. Apele sale sunt vitale pentru irigații în ambele țări.",
+        "en": "The Chu River is a major 1,067-kilometer-long river traversing northern Kyrgyzstan. It originates in the Kochkor Valley and flows through the spectacular Boom Gorge before entering the expansive, agriculturally rich Chu Valley. A significant portion of the river forms the natural border between Kyrgyzstan and Kazakhstan. The river is endorheic; it does not flow into any ocean but eventually disappears into the sands of the Muyunkum Desert in southern Kazakhstan. Its waters are essential for irrigation in both countries."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fließt über eine Gesamtlänge von 1.067 Kilometern.",
+          "Bildet auf einer langen Strecke die Grenze zu Kasachstan.",
+          "Durchquert die tiefe Boom-Schlucht auf dem Weg nach Norden.",
+          "Versickert schließlich in der kasachischen Wüste Mujunkum.",
+          "Sein Wasser wird intensiv für den Anbau in der Tschüi-Ebene genutzt.",
+          "Die Hauptstadt Bischkek liegt unweit des Flusslaufs."
+        ],
+        "hu": [
+          "A folyó teljes hossza eléri az 1067 kilométert.",
+          "Hosszú szakaszon alkotja Kirgizisztán és Kazahsztán államhatárát.",
+          "Észak felé tartva átszeli a sziklás Boom-szurdokot.",
+          "Végül a kazahsztáni Mujunkum-sivatag homokjában tűnik el.",
+          "Vizét intenzíven használják a Csu-völgy termőföldjeinek öntözésére.",
+          "A kirgiz főváros, Biskek a folyó völgyének közelében fekszik."
+        ],
+        "ro": [
+          "Curge pe o lungime totală de 1.067 de kilometri.",
+          "Formează granița cu Kazahstan pe o porțiune considerabilă.",
+          "Traversează adâncul Defileu Boom în drumul său spre nord.",
+          "În cele din urmă, dispare în deșertul kazah Muyunkum.",
+          "Apele sale sunt intens folosite pentru agricultură în Valea Chu.",
+          "Capitala Bișkek este situată aproape de cursul râului."
+        ],
+        "en": [
+          "Flows over a total length of roughly 1,067 kilometers.",
+          "Forms a significant section of the border with neighboring Kazakhstan.",
+          "Passes through the rocky Boom Gorge on its journey north.",
+          "Eventually dissipates into the sands of the Muyunkum Desert in Kazakhstan.",
+          "Its waters are heavily diverted for agriculture in the fertile Chu Valley.",
+          "The capital city of Bishkek is located not far from the riverbed."
+        ]
+      }
+    },
+    {
+      "id": "kg-river-talas-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Talas ist ein 661 Kilometer langer Fluss im Nordwesten Kirgisistans. Er entsteht durch den Zusammenfluss der Flüsse Karakol und Utschkoschoi und durchfließt das breite Talas-Tal. Historische Bekanntheit erlangte der Fluss durch die Schlacht am Talas im Jahr 751, bei der arabische und verbündete Truppen die chinesische Tang-Dynastie besiegten, was die Ausbreitung des Islams in Zentralasien begünstigte. Wie der Tschüi fließt auch der Talas nach Kasachstan und verdunstet in der Wüste Mujunkum.",
+        "hu": "A Talasz egy 661 kilométer hosszú folyó Kirgizisztán északnyugati részén. A Karakol és az Ucskosoj folyók összefolyásából keletkezik, és a széles Talasz-völgyön folyik keresztül. A folyó a történelembe a 751-ben lezajlott talaszi csata révén írta be nevét, ahol az arab és szövetséges seregek legyőzték a kínai Tang-dinasztia csapatait, megállítva a kínai terjeszkedést és elősegítve az iszlám elterjedését Közép-Ázsiában. A Csu folyóhoz hasonlóan a Talasz is Kazahsztánba folyik, majd a Mujunkum-sivatagban szívódik fel.",
+        "ro": "Râul Talas este un râu de 661 de kilometri lungime situat în nord-vestul Kârgâzstanului. Se formează prin confluența râurilor Karakol și Uchkoshoi și curge prin vasta Vale Talas. Râul a dobândit o semnificație istorică majoră datorită Bătăliei de la Talas din anul 751, unde trupele arabe și aliate au învins dinastia chineză Tang, eveniment care a favorizat răspândirea islamului în Asia Centrală. La fel ca râul Chu, Talas curge spre Kazahstan și se evaporă în cele din urmă în deșertul Muyunkum.",
+        "en": "The Talas River is a 661-kilometer-long river flowing through northwestern Kyrgyzstan. It is formed by the confluence of the Karakol and Uchkoshoi rivers and winds its way through the broad Talas Valley. The river gained historical prominence due to the Battle of Talas in 751 AD, where Arab and allied forces defeated the Chinese Tang dynasty, an event that halted Chinese expansion and facilitated the spread of Islam in Central Asia. Similar to the Chu River, the Talas flows into Kazakhstan and eventually dissipates into the Muyunkum Desert."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Entsteht durch den Zusammenfluss von Karakol und Utschkoschoi.",
+          "Fließt über eine Gesamtlänge von 661 Kilometern.",
+          "Historischer Ort der Schlacht am Talas im Jahr 751.",
+          "Dient als wichtige Wasserquelle für die Landwirtschaft im Talas-Tal.",
+          "Fließt nach Westen nach Kasachstan und erreicht kein Meer.",
+          "Endet durch Verdunstung in den Sanden der Mujunkum-Wüste."
+        ],
+        "hu": [
+          "A Karakol és az Ucskosoj hegyi folyók egyesüléséből születik.",
+          "Teljes hossza 661 kilométer, vízgyűjtő területe jelentős.",
+          "A történelmi jelentőségű 751-es talaszi csata helyszíne.",
+          "Kiemelkedően fontos vízforrás a Talasz-völgy mezőgazdasága számára.",
+          "Nyugat felé, Kazahsztánba folyik, de nem ömlik tengerbe.",
+          "A Mujunkum-sivatag homokjában párolog el és tűnik el."
+        ],
+        "ro": [
+          "Se formează prin confluența râurilor Karakol și Uchkoshoi.",
+          "Curge pe o lungime totală de 661 de kilometri.",
+          "Locația istorică a faimoasei Bătălii de la Talas din anul 751.",
+          "Servește ca o sursă crucială de apă pentru agricultura din Valea Talas.",
+          "Curge spre vest, în Kazahstan, și nu atinge niciun ocean.",
+          "Se termină prin evaporare în nisipurile deșertului Muyunkum."
+        ],
+        "en": [
+          "Formed by the confluence of the Karakol and Uchkoshoi rivers.",
+          "Has a total length of 661 kilometers before disappearing.",
+          "Historical site of the significant Battle of Talas in 751 AD.",
+          "Serves as a critical water source for agriculture in the Talas Valley.",
+          "Flows westward into Kazakhstan and is an endorheic river.",
+          "Ends by dissipating into the arid sands of the Muyunkum Desert."
+        ]
+      }
+    }
+  ]
+}

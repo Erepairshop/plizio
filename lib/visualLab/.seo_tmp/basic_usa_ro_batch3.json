@@ -1,0 +1,100 @@
+{
+  "lang": "ro",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hersheypark-life-v2",
+      "description": "Hersheypark este un parc de distracții de familie situat în orașul Hershey, Pennsylvania, cu o tematică dedicată ciocolatei. Inițial a fost creat ca o zonă de agrement pentru angajații fabricii de ciocolată Hershey.",
+      "facts": [
+        "A fost deschis publicului în anul 1906.",
+        "Are peste 70 de atracții și multe montagne russe.",
+        "Este deținut de compania Hershey Entertainment."
+      ]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "Acvariul Shedd din Chicago este un acvariu public impresionant situat pe malul lacului Michigan, găzduind zeci de mii de animale acvatice. A fost pentru mult timp cel mai mare acvariu interior din lume.",
+      "facts": [
+        "A fost deschis vizitatorilor în anul 1930.",
+        "Peste două milioane de persoane îl vizitează anual.",
+        "Conține aproximativ 19 milioane de litri de apă."
+      ]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "Parcul Național Rocky Mountain este situat în statul Colorado, protejând munți spectaculoși, lacuri alpine limpezi și o varietate de animale sălbatice. Este faimos pentru Trail Ridge Road, un drum montan pavat la mare altitudine.",
+      "facts": [
+        "Parcul a fost fondat în anul 1915.",
+        "Cel mai înalt vârf este Longs Peak (4.346 m).",
+        "Suprafața sa depășește 1.000 de kilometri pătrați."
+      ]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "description": "Legoland California este un parc tematic din Carlsbad, bazat pe populara marcă de jucării de construcție LEGO. Este destinat în principal familiilor și oferă atracții interactive și orașe miniaturale uimitoare din piese.",
+      "facts": [
+        "A fost inaugurat oficial pe 20 martie 1999.",
+        "Este primul parc Legoland deschis în afara Europei.",
+        "Conține peste 30.000 de modele LEGO unice."
+      ]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "Parcul Național Grand Teton din statul Wyoming este faimos pentru vârfurile zimțate ale lanțului Teton care se ridică brusc din vale. Oferă peisaje uimitoare cu lacuri glaciare și păduri de conifere.",
+      "facts": [
+        "A fost înființat în mod oficial în anul 1929.",
+        "Vârful Grand Teton atinge 4.199 metri altitudine.",
+        "Se află la sud de Parcul Național Yellowstone."
+      ]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "Parcul Național Zion din statul Utah se remarcă prin canioanele sale spectaculoase din gresie roșiatică, sculptate de râul Virgin. Este un loc foarte popular pentru drumeții montane și explorarea naturii.",
+      "facts": [
+        "A fost primul parc național din statul Utah (1919).",
+        "Cel mai faimos traseu montan este The Narrows.",
+        "Canionul Zion are o adâncime de până la 800 metri."
+      ]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "Parcul Național Munții Great Smoky, la granița dintre Carolina de Nord și Tennessee, protejează una dintre cele mai vechi formațiuni montane din lume. Este cel mai vizitat parc național din Statele Unite.",
+      "facts": [
+        "Parcul a fost fondat în mod oficial în anul 1934.",
+        "Găzduiește o populație densă de urși negri.",
+        "Pădurile sale sunt o rezervație a biosferei."
+      ]
+    },
+    {
+      "id": "blueridge-mountains-relief-v2",
+      "description": "Munții Blue Ridge sunt o provincie fiziografică a Munților Apalași, extinzându-se din Pennsylvania până în statul Georgia. Sunt renumiți pentru peisajele lor pitorești și pentru culoarea lor albăstruie văzută de departe.",
+      "facts": [
+        "Mount Mitchell este cel mai înalt vârf (2.037 m).",
+        "Acoperă o zonă imensă în estul Statelor Unite.",
+        "Culoarea lor provine de la emisiile arborilor."
+      ]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "Platoul Colorado este o regiune întinsă din sud-vestul SUA, fiind dominată de deșerturi de mare altitudine, platouri abrupte și canioane masive. Cea mai impresionantă atracție a sa este Marele Canion.",
+      "facts": [
+        "Acoperă o suprafață de 337.000 de kilometri pătrați.",
+        "Altitudinile sale variază între 1.500 și 3.350 metri.",
+        "Este o regiune bogată în numeroase minerale utile."
+      ]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "Munții Chisos sunt un lanț muntos accidentat situat în întregime în interiorul Parcului Național Big Bend din statul Texas. Acești munți vulcanici contrastează puternic cu aridul peisaj deșertic care îi înconjoară.",
+      "facts": [
+        "Vârful Emory Peak este cel mai înalt (2.385 metri).",
+        "Sunt singurii munți aflați complet într-un parc național SUA.",
+        "Găzduiesc o floră și o faună izolată unică."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "The largest island in Mexico, located in the Gulf of California and managed by the Seri people.",
+      "facts": ["Largest island in Mexico", "Gulf of California location", "Managed by Seri people", "Protected desert ecosystem"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "An uninhabited island group near Puerto Vallarta, famous for their unique hidden beach.",
+      "facts": ["Near Puerto Vallarta", "Uninhabited islands", "Famous hidden beach", "Protected marine park"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "A small, protected island north of Isla Mujeres, renowned as a bird sanctuary.",
+      "facts": ["North of Isla Mujeres", "Protected island", "Renowned bird sanctuary", "Strict visitor limits"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "Expansive blue agave fields in Jalisco, a region essential for the production of authentic tequila.",
+      "facts": ["Located in Jalisco", "Blue agave cultivation", "Tequila production area", "UNESCO cultural landscape"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "The center of Mexico's wine production, featuring numerous vineyards and beautiful mountain views.",
+      "facts": ["Baja California region", "Wine production center", "Numerous vineyards", "Mountainous landscape"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "High-altitude regions in Veracruz known for producing high-quality Mexican coffee beans.",
+      "facts": ["Located in Veracruz", "High-altitude coffee farms", "Quality coffee production", "Traditional farming"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Traditional coffee plantations nestled in the mountainous regions of Chiapas, producing prized beans.",
+      "facts": ["Located in Chiapas", "Traditional coffee fincas", "Mountainous plantations", "Renowned coffee beans"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Fields in Oaxaca where various agave species are harvested for traditional mezcal production.",
+      "facts": ["Located in Oaxaca", "Mezcal agave production", "Diverse agave species", "Cultural heritage practice"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Vast orchards in Michoacan that make the state the world's leading producer of avocados.",
+      "facts": ["Located in Michoacan", "Leading avocado producer", "Vast agricultural orchards", "Rich volcanic soil"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Extensive fruit orchards in Sinaloa, a major region for tropical fruit exports like mangoes.",
+      "facts": ["Located in Sinaloa", "Major mango producer", "Tropical fruit exports", "Extensive farm area"]
+    }
+  ]
+}

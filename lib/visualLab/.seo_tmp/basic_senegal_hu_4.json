@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "iles-de-la-madeleine-nature-v2",
+      "description": "Dakar partjainál fekvő apró szigetek különleges ökoszisztémát rejtenek, amely számos tengeri madárfajnak ad otthont.",
+      "facts": ["Szigetcsoport", "Madárrezervátum", "Dakar"]
+    },
+    {
+      "id": "foret-de-mbao-nature-v2",
+      "description": "Mbao erdeje Dakar egyik legfontosabb zöld területe, amely segít a városi környezet klímájának szabályozásában.",
+      "facts": ["Városi erdő", "Zöldövezet", "Dakar"]
+    },
+    {
+      "id": "parc-langue-de-barbarie-nature-v2",
+      "description": "Ez a nemzeti park a folyó és az óceán találkozásánál fekvő homoknyelv, gazdag vízimadár-állománnyal.",
+      "facts": ["Nemzeti park", "Vízimadarak", "Homoknyelv"]
+    },
+    {
+      "id": "massif-du-fouta-djallon-nature-v2",
+      "description": "A Fouta-Djallon hegységrendszer Szenegál vízgyűjtő területe, változatos domborzattal és buja vegetációval.",
+      "facts": ["Hegység", "Vízgyűjtő", "Változatos táj"]
+    },
+    {
+      "id": "delta-du-sine-saloum-nature-v2",
+      "description": "A Sine-Saloum delta bonyolult vizes élőhelyrendszere, amely bioszféra-rezervátumként is funkcionál.",
+      "facts": ["Delta", "Vizes élőhely", "Bioszféra-rezervátum"]
+    },
+    {
+      "id": "lac-kassack-nature-v2",
+      "description": "Kassack tava a régió egyik fontos természetes víztározója, amely a környék élővilágának vízforrása.",
+      "facts": ["Tó", "Víztározó", "Ökológia"]
+    },
+    {
+      "id": "fleuve-gambie-nature-v2",
+      "description": "A Gambia folyó Szenegál déli részén kanyarogva alakítja a tájat és biztosít életteret számos állatfaj számára.",
+      "facts": ["Folyó", "Vadvilág", "Dél-Szenegál"]
+    },
+    {
+      "id": "monts-de-casamance-nature-v2",
+      "description": "Casamance dombsága a trópusi növényzet otthona, amely erdőségeivel és folyóival egyedi látványt nyújt.",
+      "facts": ["Dombság", "Trópusi növényzet", "Casamance"]
+    },
+    {
+      "id": "foret-de-tamba-nature-v2",
+      "description": "Tambacounda erdei a szavannás övezet részét képezik, ahol az állatvilág különleges alkalmazkodóképességről tesz tanúbizonyságot.",
+      "facts": ["Erdő", "Szavanna", "Tambacounda"]
+    },
+    {
+      "id": "delta-du-senegal-nature-v2",
+      "description": "A Szenegál folyó deltája a régió egyik legfontosabb vizes élőhelye, ahol a folyó az Atlanti-óceánba torkollik.",
+      "facts": ["Folyódelta", "Vizes élőhely", "Atlanti-óceán"]
+    },
+    {
+      "id": "zone-sableuse-cotiere-nature-v2",
+      "description": "A part menti homokos övezet dinamikus tájképét a szél és az óceán hullámai folyamatosan alakítják.",
+      "facts": ["Homokos part", "Parti dűnék", "Dinamikus táj"]
+    }
+  ]
+}

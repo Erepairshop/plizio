@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "macenta-cities-v2",
+      "descriptionAdvancedDe": "Macenta liegt in der waldreichen Region Guinée Forestière und ist ein Schmelztiegel der Kulturen, insbesondere der Toma und Maninka. Die Stadt ist ein landwirtschaftliches Zentrum, das für seine Tee- und Kaffeeplantagen bekannt ist. Der nahegelegene Ziama-Wald, ein UNESCO-Biosphärenreservat, beherbergt eine der letzten Populationen von Waldelefanten in Westafrika und macht die Region zu einem wichtigen Biodiversitäts-Hotspot. Trotz der Abholzung und des Bevölkerungsdrucks bleibt der Wald von zentraler Bedeutung für die lokale Identität und Wirtschaft. Geographie K8 – Biodiversität und Agrarwirtschaft.",
+      "descriptionAdvancedHu": "Macenta a Guinée Forestière erdős régiójában fekszik, és a kultúrák, különösen a toma és a maninka népcsoportok olvasztótégelye. A város mezőgazdasági központ, amely tea- és kávéültetvényeiről ismert. A közeli Ziama-erdő, amely az UNESCO bioszféra-rezervátuma, Nyugat-Afrika egyik utolsó erdei elefántpopulációjának ad otthont, így a régió fontos biodiverzitási forrópont. Az erdőirtás és a népességi nyomás ellenére az erdő továbbra is központi szerepet játszik a helyi identitásban és gazdaságban. Földrajz K8 – Biodiverzitás és agrárgazdaság.",
+      "descriptionAdvancedRo": "Macenta este situată în regiunea împădurită Guinée Forestière și este un creuzet de culturi, în special ale grupurilor etnice Toma și Maninka. Orașul este un centru agricol, cunoscut pentru plantațiile sale de ceai și cafea. Pădurea Ziama din apropiere, o rezervație a biosferei UNESCO, găzduiește una dintre ultimele populații de elefanți de pădure din Africa de Vest, făcând din regiune un important punct fierbinte al biodiversității. În ciuda despăduririlor și a presiunii demografice, pădurea rămâne centrală pentru identitatea și economia locală. Geografie K8 – Biodiversitate și economie agrară.",
+      "descriptionAdvancedEn": "Located in the forested Guinée Forestière region, Macenta is a melting pot of cultures, particularly the Toma and Maninka ethnic groups. The city is an agricultural hub known for its tea and coffee plantations. The nearby Ziama Forest, a UNESCO Biosphere Reserve, is home to one of the last populations of forest elephants in West Africa, making the region a significant biodiversity hotspot. Despite deforestation and population pressure, the forest remains central to the local identity and economy. Geography K8 – Biodiversity and agricultural economy.",
+      "factsAdvanced": [
+        "A Guinée Forestière régió egyik fő városa.",
+        "Körülbelül 62 000 lakos (2014).",
+        "A Toma nép kulturális központja, amely a madármaszkjairól ismert.",
+        "A közeli Ziama erdő egy UNESCO bioszféra-rezervátum.",
+        "Fontos kereskedelmi központ a kávé, a pálmaolaj és a rizs számára.",
+        "Történelmileg egy francia gyarmati katonai állomás helye.",
+        "A város súlyosan érintett volt a libériai és Sierra Leone-i polgárháborúk által.",
+        "Repülőtérrel rendelkezik belföldi járatok számára (Macenta Airport)."
+      ]
+    },
+    {
+      "id": "coyah-cities-v2",
+      "descriptionAdvancedDe": "Coyah, nur 50 Kilometer von der Hauptstadt Conakry entfernt, entwickelt sich rasch zu einem wichtigen Vorort- und Industriezentrum. Die Stadt profitiert von ihrer strategischen Lage an der Nationalstraße N1, der Hauptverkehrsader Guineas. Ursprünglich ein landwirtschaftliches Zentrum, das für seine Ananasplantagen bekannt war, siedeln sich heute zunehmend Industriebetriebe und Logistikunternehmen an. Die Nähe zur Hauptstadt führt zu einem schnellen Bevölkerungswachstum und einer zunehmenden Urbanisierung. Die Dubréka-Wasserfälle in der Nähe sind ein beliebtes Ausflugsziel. Geographie K7 — Suburbanisierung und wirtschaftliche Diversifizierung.",
+      "descriptionAdvancedHu": "Coyah, mindössze 50 kilométerre a fővárostól, Conakrytól, gyorsan fejlődik egy fontos elővárosi és ipari központtá. A város profitál stratégiai elhelyezkedéséből az N1-es főúton, Guinea fő közlekedési artériáján. Eredetileg ananászültetvényeiről ismert mezőgazdasági központ volt, ma már egyre több ipari és logisztikai vállalat telepedik le itt. A fővároshoz való közelség gyors népességnövekedéshez és növekvő urbanizációhoz vezet. A közeli Dubréka-vízesés népszerű kirándulóhely. Földrajz K7 – Elővárosiasodás és gazdasági diverzifikáció.",
+      "descriptionAdvancedRo": "Coyah, la doar 50 de kilometri de capitala Conakry, se dezvoltă rapid într-un important centru suburban și industrial. Orașul beneficiază de locația sa strategică pe drumul național N1, principala arteră de transport a Guineei. Inițial un centru agricol cunoscut pentru plantațiile de ananas, astăzi tot mai multe companii industriale și de logistică se stabilesc aici. Apropierea de capitală duce la o creștere rapidă a populației și la o urbanizare crescândă. Cascadele Dubréka din apropiere sunt o destinație populară pentru excursii. Geografie K7 – Suburbanizare și diversificare economică.",
+      "descriptionAdvancedEn": "Just 50 kilometers from the capital Conakry, Coyah is rapidly developing into a major suburban and industrial center. The city benefits from its strategic location on the N1 national road, Guinea's main transport artery. Originally an agricultural center known for its pineapple plantations, today more and more industrial and logistics companies are settling here. The proximity to the capital leads to rapid population growth and increasing urbanization. The nearby Dubréka waterfalls are a popular excursion destination. Geography K7 – Suburbanization and economic diversification.",
+      "factsAdvanced": [
+        "Stratégiai elhelyezkedés Conakry és a belső területek között, 50 km-re a fővárostól.",
+        "Gyorsan növekvő lakosság, több mint 100 000 fő a prefektúrában.",
+        "Hagyományosan az ananásztermesztés központja.",
+        "Jelentős ipari fejlesztések, beleértve a cementgyárakat.",
+        "A Coyah prefektúra adminisztratív központja.",
+        "Az N1-es főút mentén fekszik, amely a fő kereskedelmi útvonal.",
+        "Népszerű hétvégi kirándulóhely a Conakry-iak számára.",
+        "A közeli Dubréka-vízesések fontos turisztikai vonzerőt jelentenek."
+      ]
+    },
+    {
+      "id": "forecariah-cities-v2",
+      "descriptionAdvancedDe": "Forécariah liegt in der Küstenregion von Maritime Guinea und ist ein historisches Zentrum, das eng mit dem Handel über den Atlantik verbunden ist. Die Stadt liegt an einem Mündungsarm und war einst ein wichtiger Hafen für den Export von Erdnüssen, Palmprodukten und Kautschuk. Die umliegende Region ist von Mangrovensümpfen und Reisfeldern geprägt. Die Nähe zur Grenze nach Sierra Leone macht die Stadt zu einem wichtigen Ort des grenzüberschreitenden Austauschs. Die traditionelle Salzgewinnung aus Meerwasser ist ein wichtiger lokaler Wirtschaftszweig. Geographie K8 — Küstenökonomie und historische Handelsrouten.",
+      "descriptionAdvancedHu": "Forécariah a tengerparti Guinea Maritim régióban fekszik, és a transzatlanti kereskedelemmel szorosan összefüggő történelmi központ. A város egy torkolat mellett található, és egykor fontos kikötő volt a földimogyoró, a pálmatermékek és a gumi exportjára. A környező régiót mangrovemocsarak és rizsföldek jellemzik. Sierra Leone határához való közelsége a határokon átnyúló cserekereskedelem fontos helyszínévé teszi a várost. A tengervízből történő hagyományos sólepárlás fontos helyi iparág. Földrajz K8 – Part menti gazdaság és történelmi kereskedelmi útvonalak.",
+      "descriptionAdvancedRo": "Forécariah este situat în regiunea de coastă a Guineei Maritime și este un centru istoric strâns legat de comerțul transatlantic. Orașul este situat pe un estuar și a fost odată un port important pentru exportul de alune, produse din palmier și cauciuc. Regiunea înconjurătoare este caracterizată de mlaștini de mangrove și câmpuri de orez. Apropierea de granița cu Sierra Leone face din oraș un loc important pentru schimburile transfrontaliere. Extragerea tradițională a sării din apa de mare este o ramură economică locală importantă. Geografie K8 – Economie de coastă și rute comerciale istorice.",
+      "descriptionAdvancedEn": "Located in the coastal region of Maritime Guinea, Forécariah is a historic center closely linked to transatlantic trade. The city is situated on an estuary and was once an important port for the export of peanuts, palm products, and rubber. The surrounding region is characterized by mangrove swamps and rice fields. Its proximity to the Sierra Leone border makes the city an important site for cross-border exchange. Traditional salt extraction from seawater is a significant local industry. Geography K8 – Coastal economy and historical trade routes.",
+      "factsAdvanced": [
+        "A tengerparti síkságon, Sierra Leone határának közelében található.",
+        "Történelmileg fontos kikötő a Forécariah folyón.",
+        "A rizs és a sótermelés fő központja.",
+        "A prefektúra lakossága körülbelül 240 000 fő (2014).",
+        "Szorosan kötődik a Soso (Susu) etnikai csoporthoz.",
+        "A gyarmati időkben jelentős francia adminisztratív poszt volt.",
+        "A régió erősen függ az árapály-mezőgazdaságtól.",
+        "A Sierra Leone-i polgárháború alatt menekültek ezreit fogadta be."
+      ]
+    },
+    {
+      "id": "kamsar-cities-v2",
+      "descriptionAdvancedDe": "Kamsar, eine moderne Industriestadt, wurde in den 1970er Jahren speziell für den Bauxitexport erbaut. Sie ist der Endpunkt der Eisenbahnlinie aus Sangarédi und verfügt über einen der größten und modernsten Häfen Westafrikas. Die gesamte Stadtinfrastruktur, von Wohnvierteln bis hin zu Krankenhäusern, wurde um die Bergbauindustrie herum geplant. Die Compagnie des Bauxites de Guinée (CBG) ist der Hauptarbeitgeber und prägt das soziale und wirtschaftliche Leben. Die Stadt ist ein Beispiel für eine geplante Industriestadt in Afrika, die sich ausschließlich auf den Rohstoffexport konzentriert. Geographie K9 — Industrielle Enklaven und globalisierte Wirtschaft.",
+      "descriptionAdvancedHu": "Kamsar egy modern ipari város, amelyet kifejezetten a bauxit exportjára építettek az 1970-es években. A Sangarédiből induló vasútvonal végpontja, és Nyugat-Afrika egyik legnagyobb és legmodernebb kikötőjével rendelkezik. A teljes városi infrastruktúrát, a lakónegyedektől a kórházakig, a bányászat köré tervezték. A Compagnie des Bauxites de Guinée (CBG) a fő munkaadó, és meghatározza a társadalmi és gazdasági életet. A város egy tervezett afrikai ipari város példája, amely kizárólag a nyersanyag-exportra összpontosít. Földrajz K9 – Ipari enklávék és globalizált gazdaság.",
+      "descriptionAdvancedRo": "Kamsar, un oraș industrial modern, a fost construit special pentru exportul de bauxită în anii 1970. Este punctul terminus al liniei de cale ferată din Sangarédi și are unul dintre cele mai mari și mai moderne porturi din Africa de Vest. Întreaga infrastructură urbană, de la cartiere rezidențiale la spitale, a fost planificată în jurul industriei miniere. Compagnie des Bauxites de Guinée (CBG) este principalul angajator și modelează viața socială și economică. Orașul este un exemplu de oraș industrial planificat în Africa, concentrat exclusiv pe exportul de materii prime. Geografie K9 – Enclave industriale și economie globalizată.",
+      "descriptionAdvancedEn": "Kamsar, a modern industrial city, was built specifically for bauxite export in the 1970s. It is the terminus of the railway line from Sangarédi and has one of the largest and most modern ports in West Africa. The entire city infrastructure, from residential areas to hospitals, was planned around the mining industry. The Compagnie des Bauxites de Guinée (CBG) is the main employer and shapes social and economic life. The city is an example of a planned industrial city in Africa, focused exclusively on the export of raw materials. Geography K9 – Industrial enclaves and globalized economy.",
+      "factsAdvanced": [
+        "Az 1970-es években alapították a bauxit exportjára specializálódott kikötővárosként.",
+        "Nyugat-Afrika egyik legnagyobb kikötőjének ad otthont.",
+        "A Compagnie des Bauxites de Guinée (CBG) működési központja.",
+        "Vasútvonal köti össze a sangarédi bauxitbányákkal.",
+        "Jól megtervezett városi infrastruktúrával rendelkezik, amelyet a CBG kezel.",
+        "A város lakossága meghaladja a 110 000 főt (becslés).",
+        "Guinea gazdaságának kulcsfontosságú eleme, a bauxit exportjának fő kapuja.",
+        "Példa a vállalati városokra Afrikában."
+      ]
+    },
+    {
+      "id": "fria-cities-v2",
+      "descriptionAdvancedDe": "Fria, ähnlich wie Kamsar, ist eine geplante Industriestadt, die um das erste Aluminiumoxidwerk Afrikas herum gebaut wurde. Gegründet in den 1950er Jahren, wurde die Stadt von französischen Ingenieuren entworfen und verfügt über eine klare Trennung von Industrie- und Wohngebieten. Die Stadt war einst ein Symbol für den industriellen Fortschritt Guineas, hat aber in den letzten Jahren aufgrund von Betriebsschließungen und wirtschaftlichen Schwierigkeiten an Glanz verloren. Die Architektur der Stadt, insbesondere die Villen im Kolonialstil für die ausländischen Arbeiter, zeugt noch von ihrer Blütezeit. Geographie K9 — Industrieller Aufstieg und Fall.",
+      "descriptionAdvancedHu": "Fria, Kamsarhoz hasonlóan, egy tervezett ipari város, amelyet Afrika első timföldgyára köré építettek. Az 1950-es években alapított várost francia mérnökök tervezték, és az ipari és lakóövezetek világos elkülönítésével rendelkezik. A város egykor Guinea ipari fejlődésének szimbóluma volt, de az elmúlt években az üzembezárások és a gazdasági nehézségek miatt veszített fényéből. A város építészete, különösen a külföldi munkások számára épült gyarmati stílusú villák, még mindig tanúskodnak a virágkoráról. Földrajz K9 – Ipari felemelkedés és hanyatlás.",
+      "descriptionAdvancedRo": "Fria, similar cu Kamsar, este un oraș industrial planificat, construit în jurul primei uzine de alumină din Africa. Fondat în anii 1950, orașul a fost proiectat de ingineri francezi și prezintă o separare clară între zonele industriale și cele rezidențiale. Orașul a fost odată un simbol al progresului industrial al Guineei, dar și-a pierdut din strălucire în ultimii ani din cauza închiderilor de fabrici și a dificultăților economice. Arhitectura orașului, în special vilele în stil colonial pentru muncitorii străini, încă mărturisește perioada sa de glorie. Geografie K9 – Ascensiunea și declinul industrial.",
+      "descriptionAdvancedEn": "Fria, similar to Kamsar, is a planned industrial city built around Africa's first alumina refinery. Founded in the 1950s, the city was designed by French engineers and features a clear separation of industrial and residential areas. The city was once a symbol of Guinea's industrial progress but has lost its luster in recent years due to plant closures and economic difficulties. The city's architecture, especially the colonial-style villas for foreign workers, still bears witness to its heyday. Geography K9 – Industrial rise and fall.",
+      "factsAdvanced": [
+        "Az 1950-es évek végén alapították Afrika első timföldgyárának helyszínéül.",
+        "A Pechiney francia vállalat által tervezett és épített város.",
+        "A Frialco (később Friguia) timföldfinomító székhelye.",
+        "A város lakossága meghaladja a 60 000 főt.",
+        "A gyár hosszú ideig tartó leállása súlyos gazdasági válságot okozott.",
+        "Példa a 20. század közepének ipari várostervezésére Afrikában.",
+        "Vasútvonal köti össze Conakry kikötőjével.",
+        "Híres a jellegzetes, „európai” stílusú lakónegyedeiről."
+      ]
+    }
+  ]
+}

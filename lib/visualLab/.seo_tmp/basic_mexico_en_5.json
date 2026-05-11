@@ -1,0 +1,44 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-de-juarez-relief-v2",
+      "description": "A rugged mountain range located in the northern part of Baja California, bordering the United States.",
+      "facts": ["Located in Baja California", "Rugged mountain range", "Bordering the United States", "Desert vegetation"]
+    },
+    {
+      "id": "llanura-costera-del-golfo-relief-v2",
+      "description": "A vast, low-lying coastal plain extending along the Gulf of Mexico, characterized by wetlands and agricultural land.",
+      "facts": ["Along Gulf of Mexico", "Vast coastal plain", "Wetlands and marshes", "Agricultural center"]
+    },
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "A large, flat limestone peninsula separating the Gulf of Mexico from the Caribbean Sea.",
+      "facts": ["Flat limestone terrain", "Separates Gulf and Caribbean", "Rich in cenotes", "Tropical climate"]
+    },
+    {
+      "id": "llanura-de-tabasco-relief-v2",
+      "description": "A fertile lowland region in Tabasco, known for its extensive river systems and tropical vegetation.",
+      "facts": ["Located in Tabasco", "Fertile lowland", "Extensive river network", "Tropical vegetation"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "A mountainous region in the state of Sonora, marking a transition toward the Sierra Madre Occidental.",
+      "facts": ["Located in Sonora", "Mountainous terrain", "Transition zone", "Dry upland climate"]
+    },
+    {
+      "id": "sierra-de-puebla-relief-v2",
+      "description": "A dramatic mountain range in Puebla, featuring high elevations and deep valleys.",
+      "facts": ["Located in Puebla", "Dramatic mountain range", "High-altitude peaks", "Deep valleys"]
+    },
+    {
+      "id": "sierra-de-las-minas-mexico-relief-v2",
+      "description": "A significant mountainous area, notable for its diverse relief and geological importance.",
+      "facts": ["Significant mountain area", "Diverse relief features", "Geological importance", "Regional landmark"]
+    }
+  ]
+}

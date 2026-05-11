@@ -1,0 +1,50 @@
+{
+  "lang": "en",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "arco-chato-history-v2",
+      "description": "The flat arch of the Santo Domingo church, an architectural wonder that stood for centuries without support. It proves the ingenuity of colonial builders.",
+      "facts": ["Colonial architecture", "Santo Domingo church", "Architectural feat"]
+    },
+    {
+      "id": "casa-ayora-history-v2",
+      "description": "A well-preserved historical residence reflecting the colonial style of Panama City. It offers a glimpse into early residential life.",
+      "facts": ["Colonial residence", "Historic style", "Panama City"]
+    },
+    {
+      "id": "plaza-francia-history-v2",
+      "description": "A plaza in Casco Viejo dedicated to the French effort in building the Panama Canal. It honors the historical ties between France and Panama.",
+      "facts": ["Casco Viejo", "Panama Canal history", "French monument"]
+    },
+    {
+      "id": "iglesia-del-carmen-history-v2",
+      "description": "A prominent neo-Gothic church in Panama City. Its striking architecture makes it one of the most recognizable landmarks in the capital.",
+      "facts": ["Neo-Gothic", "Panama City", "Religious landmark"]
+    },
+    {
+      "id": "iglesia-de-la-merced-landmarks-v2",
+      "description": "A historic church in Casco Viejo with a facade moved from the original Panama City. It is highly valued for its colonial preservation.",
+      "facts": ["Colonial church", "Casco Viejo", "Preserved facade"]
+    },
+    {
+      "id": "centro-de-convenciones-amador-landmarks-v2",
+      "description": "A modern venue designed for large international events. It enhances Panama's status as a hub for global conferences.",
+      "facts": ["Event center", "Modern facility", "Amador Causeway"]
+    },
+    {
+      "id": "iglesia-de-san-jose-landmarks-v2",
+      "description": "Renowned for its Baroque golden altar, this church is a key cultural landmark. It attracts visitors interested in colonial art.",
+      "facts": ["Baroque altar", "Cultural landmark", "Colonial art"]
+    },
+    {
+      "id": "torre-omega-landmarks-v2",
+      "description": "A modern high-rise that defines the skyline of Panama City. It is a symbol of the country's economic development and modernity.",
+      "facts": ["Modern skyscraper", "Panama City", "Economic symbol"]
+    }
+  ]
+}

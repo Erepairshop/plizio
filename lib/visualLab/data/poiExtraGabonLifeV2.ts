@@ -65,7 +65,7 @@ export const poiExtraGabonLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Über 4.500 Quadratkilometer Schutzfläche", "Hohe Dichte an Flachlandgorillas", "Einzigartiges Grasland-Wald-Mosaik", "Wichtiges Zentrum für Ökotourismus", "Schutzstatus seit 2002", "Beheimatet afrikanische Waldelefanten"],
-      hu: ["Több mint 4500 négyzetkilométer védett terület", "Nagy sűrűségű síkvidéki gorillák", "Egyedülálló gyephavas-erdő mozaik", "Fontos ökoturisztikai központ", "Védettség 2002 óta", "Afrikai erdei elefántok otthona"],
+      hu: ["Több mint 4500 négyzetkilométer védett terület", "Nagy sűrűségű síkvidéki gorillák", "Egyedülálló gyephavas-erdő mozaik", "Védettség 2002 óta", "Afrikai erdei elefántok otthona"],
       ro: ["Peste 4500 de kilometri pătrați de arie protejată", "Densitate mare de gorile de câmpie", "Mozaic unic de pajiști și păduri", "Centru important pentru ecoturism", "Statut de protecție din 2002", "Găzduiește elefanți de pădure africani"],
       en: ["Over 4,500 square kilometers of protected area", "High density of lowland gorillas", "Unique grassland-forest mosaic", "Important center for ecotourism", "Protection status since 2002", "Home to African forest elephants"]
     }, image: "/poi-images/moukalaba-doudou-gorilla-life-v2.webp"},

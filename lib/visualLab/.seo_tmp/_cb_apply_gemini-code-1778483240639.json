@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-von-farim-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Farim, am nördlichen Ufer des Rio Cacheu gelegen, ist ein historisch bedeutender Binnenhafen, der heute eine zentrale Rolle in den nationalen Entwicklungsstrategien Guinea-Bissaus spielt. Über Jahrhunderte fungierte Farim als Endpunkt für die Flussnavigation aus dem Atlantik und als wichtigster Sammelpunkt für den Erdnussexport aus den nördlichen Savannenregionen. Die Architektur des Hafens ist funktional und wird derzeit modernisiert, um den Anforderungen des gigantischen Phosphat-Projekts von Farim gerecht zu werden. Geplant ist der Ausbau zu einem spezialisierten Verladehafen, von dem aus Millionen Tonnen Rohphosphat über den Flussweg zur Küste transportiert werden sollen. Diese industrielle Transformation macht den Hafen zum ökonomischen Motor der Region Oio. Neben der industriellen Nutzung dient der Hafen weiterhin dem regionalen Handel mit Senegal, wobei traditionelle Pirogen und kleinere Frachtschiffe Güter des täglichen Bedarfs umschlagen. Die strategische Lage an einer schmalen, aber tiefen Stelle des Rio Cacheu ermöglicht es auch größeren Schiffen, tief in das Binnenland vorzudringen. Der Hafen von Farim ist somit ein Symbol für den Übergang von der kolonialen Agrarlogistik zur modernen mineralischen Rohstoffwirtschaft Guinea-Bissaus.",
+        "hu": "Farim kikötője a Cacheu-folyó északi partján fekszik, és egy történelmi jelentőségű folyami kikötő, amely ma Guinea-Bissau nemzeti fejlesztési stratégiájának egyik központi eleme. Évszázadokon át ez a pont volt az Atlanti-óceán felől érkező folyami hajózás végpontja, és az északi szavannákról származó földimogyoró-export legfontosabb gyűjtőhelye. A kikötő építészete jelenleg átalakulóban van, mivel az üzemeltetést a monumentális farimi foszfát-projekthez igazítják. A tervek szerint a helyszínt speciális rakodókikötővé fejlesztik, ahonnan több millió tonna nyers foszfátot szállítanak majd vízi úton a tengerpart felé. Ez az ipari transzformáció a kikötőt az Oio régió gazdasági motorjává emeli. Az ipari felhasználás mellett a kikötő továbbra is a Szenegállal folytatott regionális kereskedelem bázisa, ahol hagyományos pirogok és kisebb teherhajók rakodják ki a napi szükségleti cikkeket. A Cacheu-folyó egy keskeny, de mély szakaszán való elhelyezkedése lehetővé teszi, hogy nagyobb hajók is mélyen behatoljanak a szárazföld belsejébe. Farim kikötője így a gyarmati agrárlogisztikából a modern ásványkincs-alapú gazdaságba való átmenet jelképe az országban.",
+        "ro": "Portul Farim, situat pe malul nordic al râului Cacheu, este un port fluvial cu o importanță istorică majoră, care astăzi joacă un rol central în strategiile naționale de dezvoltare ale Guineei-Bissau. Timp de secole, Farim a funcționat ca punct terminal pentru navigația fluvială dinspre Atlantic și ca principal centru de colectare pentru exportul de arahide din regiunile de savană din nord. Arhitectura portului este utilitară și se află în prezent într-un proces de modernizare pentru a răspunde cerințelor giganticului proiect de fosfați de la Farim. Planurile prevăd transformarea locației într-un port de încărcare specializat, de unde milioane de tone de fosfat brut vor fi transportate pe calea apei către coastă. Această transformare industrială face din port motorul economic al regiunii Oio. Pe lângă utilizarea industrială, portul deservește în continuare comerțul regional cu Senegal, pirogile tradiționale și navele cargo mici manipulând bunuri de larg consum. Locația strategică într-un punct îngust, dar adânc al râului Cacheu, permite navelor mai mari să pătrundă adânc în interiorul țării. Portul Farim este, prin urmare, un simbol al tranziției de la logistica agricolă colonială la economia modernă bazată pe resurse minerale a Guineei-Bissau.",
+        "en": "The Port of Farim, situated on the northern bank of the Cacheu River, is a historically significant inland port that now plays a pivotal role in Guinea-Bissau's national development strategies. For centuries, Farim served as the terminus for river navigation from the Atlantic and the primary collection hub for groundnut exports from the northern savanna regions. The port's architecture is functional and is currently undergoing modernization to meet the demands of the massive Farim Phosphate Project. Plans are in place to develop the site into a specialized loading port, from which millions of tons of raw phosphate will be transported by water to the coast. This industrial transformation is turning the port into the economic engine of the Oio region. In addition to industrial use, the port continues to facilitate regional trade with Senegal, with traditional pirogues and smaller cargo vessels handling essential daily goods. Its strategic position at a narrow yet deep section of the Cacheu River allows larger vessels to penetrate deep into the interior. The Port of Farim thus symbolizes Guinea-Bissau's transition from colonial agricultural logistics to a modern, mineral-based economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Farim ist der tiefste im Landesinneren gelegene Hafen am Rio Cacheu.",
+          "Er ist der zentrale Logistikpunkt für das nationale Phosphat-Bergbauprojekt.",
+          "Der Hafen dient als wichtiges Bindeglied für den Handel mit Südsenegal.",
+          "Die Flusstiefe erlaubt Schiffen bis zu einem gewissen Tonnenmaß das Wenden.",
+          "Historisch war der Hafen das Zentrum des 'Erdnuss-Booms' im 20. Jahrhundert.",
+          "Die Kaianlagen werden für den Schwerlastverkehr massiv verstärkt."
+        ],
+        "hu": [
+          "Farim a Cacheu-folyó legmélyebben fekvő szárazföldi kikötője.",
+          "Ez a nemzeti foszfátbányászati projekt központi logisztikai pontja.",
+          "A kikötő fontos összekötő kapu a Dél-Szenegállal folytatott kereskedelemben.",
+          "A folyó mélysége lehetővé teszi a közepes méretű teherhajók megfordulását is.",
+          "Történelmileg a kikötő a 20. századi „földimogyoró-bumm” központja volt.",
+          "A rakpartokat jelenleg megerősítik a nehézgépjárművek forgalma miatt."
+        ],
+        "ro": [
+          "Farim este portul situat cel mai adânc în interiorul țării de pe râul Cacheu.",
+          "Reprezintă punctul logistic central pentru proiectul național minier de fosfați.",
+          "Portul servește ca o legătură vitală pentru comerțul cu sudul Senegalului.",
+          "Adâncimea râului permite navelor cargo de tonaj mediu să manevreze în zonă.",
+          "Istoric, portul a fost inima exportului de arahide în perioada interbelică.",
+          "Infrastructura portuară este consolidată masiv pentru a susține utilajele grele."
+        ],
+        "en": [
+          "Farim is the furthest inland port reachable by large vessels on the Cacheu River.",
+          "It serves as the critical logistical hub for the national phosphate mining industry.",
+          "The port is a key gateway for informal and formal trade with southern Senegal.",
+          "The river's natural depth at Farim facilitates the docking of bulk carriers.",
+          "Historically, the port was the primary outlet for the region's groundnut production.",
+          "Extensive quay reinforcements are underway to support heavy mineral transport."
+        ]
+      }
+    },
+    {
+      "id": "port-von-cacine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Cacine im tiefen Süden Guinea-Bissaus ist ein strategisch wichtiger Außenposten an der Mündung des gleichnamigen Flusses. Aufgrund seiner Grenznähe zur Republik Guinea fungiert der Hafen als bedeutendes Handels- und Logistikzentrum für die Region Tombali. Die wirtschaftliche Basis von Cacine ist durch die Fischerei und den Umschlag von Agrarprodukten wie Reis und Ölpalmfrüchten geprägt. Besonders in den letzten Jahren hat der Hafen an Bedeutung gewonnen, da er als potenzieller Verladepunkt für künftige Bergbauaktivitäten im Südosten des Landes in Betracht gezogen wird. Die Architektur des Hafens ist eher rustikal und durch einfache Anlegestellen geprägt, die den Gezeiten des Atlantiks ausgesetzt sind. Dennoch ist Cacine der einzige Ort in dieser abgelegenen Region, der eine nennenswerte maritime Anbindung bietet. Für die lokale Bevölkerung ist der Hafen die lebensnotwendige Verbindung für die Zufuhr von Treibstoffen und Konsumgütern, die auf dem Landweg nur schwer heranzuschaffen sind. Cacine symbolisiert die wirtschaftliche Widerstandsfähigkeit des Südens und ist ein Schlüsselort für die regionale Integration in den westafrikanischen Küstenhandel.",
+        "hu": "Cacine kikötője Guinea-Bissau távoli déli részén, az azonos nevű folyó torkolatánál fekvő stratégiai állomás. A guineai határ közelsége miatt a kikötő Tombali régió meghatározó kereskedelmi és logisztikai központja. Cacine gazdasági alapját a halászat, valamint az olyan mezőgazdasági termények forgalmazása adja, mint a rizs és az olajpálma gyümölcse. Az utóbbi években a kikötő jelentősége nőtt, mivel az ország délkeleti részén tervezett jövőbeli bányászati tevékenységek egyik lehetséges rakodópontjaként tekintenek rá. A kikötő építészete egyszerű, rusztikus mólók jellemzik, amelyek közvetlenül ki vannak téve az Atlanti-óceán árapály-ingadozásainak. Ennek ellenére Cacine az egyetlen olyan pont ezen az elszigetelt vidéken, amely értékelhető tengeri összeköttetést biztosít. A helyi lakosság számára a kikötő az éltető elemet jelenti az üzemanyag és a fogyasztási cikkek beszállítása szempontjából, amelyeket szárazföldön csak nagy nehézségek árán lehetne célba juttatni. Cacine a déli országrész gazdasági életerejének szimbóluma és a nyugat-afrikai part menti kereskedelem regionális integrációjának kulcsfontosságú helyszíne.",
+        "ro": "Portul Cacine, situat în sudul extrem al Guineei-Bissau, este un avanpost strategic la gura de vărsare a râului cu același nume. Datorită proximității sale față de frontiera cu Republica Guineea, portul funcționează ca un centru comercial și logistic major pentru regiunea Tombali. Baza economică a localității Cacine este definită de pescuit și de tranzitul produselor agricole, precum orezul și fructele palmierului de ulei. În ultimii ani, portul a câștigat în importanță, fiind considerat un potențial punct de încărcare pentru viitoarele activități miniere din sud-estul țării. Arhitectura portului este mai degrabă rustică, fiind marcată de pontoane simple expuse mareelor Atlanticului. Cu toate acestea, Cacine este singurul loc din această regiune izolată care oferă o conexiune maritimă semnificativă. Pentru populația locală, portul reprezintă o legătură vitală pentru aprovizionarea cu combustibili și bunuri de larg consum, care sunt dificil de transportat pe cale terestră. Cacine simbolizează reziliența economică a sudului și este un punct cheie pentru integrarea regională în comerțul de coastă vest-african.",
+        "en": "The Port of Cacine, located in the deep south of Guinea-Bissau, is a strategically vital outpost at the mouth of the Cacine River. Due to its proximity to the border with the Republic of Guinea, the port serves as a major trade and logistics hub for the Tombali region. The economic foundation of Cacine is built on fishing and the handling of agricultural products such as rice and oil palm fruit. In recent years, the port's significance has grown, as it is viewed as a potential shipment point for future mining operations in the country's southeastern sector. The port's architecture remains rustic, characterized by simple piers exposed to the Atlantic's tidal shifts. Nevertheless, Cacine is the only location in this remote region providing a functional maritime link. For the local community, the port is a lifeline for importing fuel and consumer goods that are difficult to transport overland. Cacine stands as a symbol of the south's economic resilience and is a key location for regional integration into the West African coastal trade network."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cacine ist der südlichste Seehafen von Guinea-Bissau.",
+          "Der Hafen liegt in einer ökologisch sensiblen Zone nahe Guinea-Conakry.",
+          "Er dient als Basis für den grenzüberschreitenden Handel per Piroge.",
+          "Die Region um den Hafen ist reich an Bauxit-Vorkommen.",
+          "Der Hafen ist entscheidend für die Versorgung der entlegenen Tombali-Dörfer.",
+          "Große Gezeitenunterschiede bestimmen den täglichen Arbeitsrhythmus im Hafen."
+        ],
+        "hu": [
+          "Cacine Guinea-Bissau legdélebbi tengeri kikötője.",
+          "A kikötő ökológiailag érzékeny területen fekszik, közel Guinea-Conakryhoz.",
+          "Ez a bázisa a pirogokkal zajló határon átnyúló kereskedelemnek.",
+          "A kikötő környéke jelentős bauxitkészletekkel rendelkezik.",
+          "A létesítmény döntő fontosságú a távoli Tombali-falvak ellátásában.",
+          "A hatalmas árapály-különbség határozza meg a kikötői munka napi ritmusát."
+        ],
+        "ro": [
+          "Cacine este cel mai sudic port maritim al Guineei-Bissau.",
+          "Portul este situat într-o zonă ecologică sensibilă, aproape de Guineea-Conakry.",
+          "Servește drept bază pentru comerțul transfrontalier cu pirogi.",
+          "Regiunea din jurul portului deține zăcăminte importante de bauxită.",
+          "Portul este esențial pentru aprovizionarea satelor izolate din Tombali.",
+          "Amplitudinea mare a mareelor dictează programul zilnic de operare în port."
+        ],
+        "en": [
+          "Cacine is the southernmost functional seaport in Guinea-Bissau.",
+          "The port is located in an ecologically diverse zone near the border with Guinea.",
+          "It acts as the primary hub for cross-border trade conducted by pirogues.",
+          "The surrounding hinterland is rich in unexplored bauxite deposits.",
+          "The facility is indispensable for delivering supplies to remote Tombali villages.",
+          "Significant tidal variations strictly govern the daily working rhythm at the port."
+        ]
+      }
+    },
+    {
+      "id": "port-von-sao-domingos-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von São Domingos im Norden Guinea-Bissaus ist ein lebendiger Flusshafen am Rio Cacheu, der vor allem durch seine Funktion als Handelsdrehscheibe zum benachbarten Senegal geprägt ist. Die ökonomische Bedeutung dieses Hafens ergibt sich aus der strategischen Lage an der Hauptroute zwischen Bissau und Ziguinchor. Während der Hafen von Cacheu eher für den Überseeexport zuständig ist, konzentriert sich São Domingos auf den regionalen Austausch von Agrarprodukten, Holzkohle und Baumaterialien. Die Architektur des Hafens ist funktional und informell, mit zahlreichen Verladestationen, die direkt in die Mangrovenlandschaft integriert sind. Ein wesentlicher Teil des Handels wird über Pirogen abgewickelt, die die flachen Wasserwege zur Casamance-Region nutzen. Der Hafen spielt eine entscheidende Rolle für die informelle Ökonomie des Nordens und sichert tausenden Menschen in der Grenzregion das Einkommen. Infrastrukturprojekte zur Verbesserung der Anlegestellen und der Zollabfertigung haben in den letzten Jahren dazu beigetragen, den legalen Warenverkehr zu stärken. São Domingos ist somit nicht nur ein logistischer Punkt, sondern ein Symbol für die wirtschaftliche Verflechtung und den kulturellen Austausch im guineisch-senegalesischen Grenzgebiet.",
+        "hu": "São Domingos kikötője Guinea-Bissau északi részén egy élénk folyami kikötő a Cacheu-folyón, amelynek arculatát elsősorban a szomszédos Szenegállal folytatott kereskedelmi forgalom határozza meg. A kikötő gazdasági jelentősége a Bissau és Ziguinchor közötti főút mentén elfoglalt stratégiai helyzetéből adódik. Míg Cacheu kikötője inkább a tengerentúli exportért felelős, São Domingos a mezőgazdasági termékek, a faszén és az építőanyagok regionális cseréjére összpontosít. A kikötő építészete funkcionális és informális, számos rakodóállomással, amelyek közvetlenül a mangrove-tájba integrálódnak. A kereskedelem jelentős része pirogokon keresztül bonyolódik, amelyek a Casamance régió felé vezető sekély vízi utakat használják. A kikötő döntő szerepet játszik az északi országrész informális gazdaságában, és több ezer ember számára biztosít megélhetést a határvidéken. A mólók és a vámkezelés javítását célzó infrastrukturális projektek az utóbbi években hozzájárultak a legális áruforgalom erősítéséhez. São Domingos tehát nem csupán egy logisztikai pont, hanem a guineai-szenegáli határmenti gazdasági összefonódás és kulturális csere szimbóluma.",
+        "ro": "Portul São Domingos, situat în nordul Guineei-Bissau, este un port fluvial animat pe râul Cacheu, definit în principal prin funcția sa de placă turnantă comercială către Senegalul vecin. Importanța economică a acestui port derivă din locația sa strategică pe ruta principală dintre Bissau și Ziguinchor. În timp ce portul Cacheu este responsabil mai degrabă pentru exportul transoceanic, São Domingos se concentrează pe schimbul regional de produse agricole, cărbune de lemn și materiale de construcții. Arhitectura portului este una funcțională și informală, cu numeroase stații de încărcare integrate direct în peisajul de mangrove. O parte esențială a comerțului se desfășoară prin intermediul pirogilor, care utilizează căile navigabile puțin adânci către regiunea Casamance. Portul joacă un rol crucial pentru economia informală a nordului și asigură venitul pentru mii de oameni din regiunea de frontieră. Proiectele de infrastructură pentru îmbunătățirea debarcaderelor și a vămuirii au contribuit în ultimii ani la consolidarea fluxului legal de mărfuri. São Domingos nu este, prin urmare, doar un punct logistic, ci un simbol al întrepătrunderii economice și al schimbului cultural în zona de frontieră guineo-senegaleză.",
+        "en": "The Port of São Domingos in northern Guinea-Bissau is a bustling river port on the Cacheu River, primarily shaped by its role as a commercial gateway to neighboring Senegal. The port's economic importance stems from its strategic location along the primary transit route between Bissau and Ziguinchor. While the Port of Cacheu focuses more on overseas exports, São Domingos specializes in the regional exchange of agricultural produce, charcoal, and construction materials. The port's architecture is functional and largely informal, featuring numerous loading stations integrated directly into the mangrove landscape. A significant portion of the trade is conducted via pirogues that navigate the shallow waterways connecting to the Casamance region. The port plays a vital role in the north's informal economy and sustains the livelihoods of thousands in the borderlands. Recent infrastructure projects aimed at improving piers and customs clearance have helped strengthen formal trade flows. São Domingos is thus not merely a logistical point but a symbol of the economic interconnectedness and cultural exchange inherent in the Bissau-Guinean and Senegalese border region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "São Domingos ist der wichtigste Umschlagplatz für Holzkohle im Norden.",
+          "Der Hafen ist über ein Netz von Kanälen direkt mit der Casamance verbunden.",
+          "Traditionelle Pirogen beherrschen den grenzüberschreitenden Kleinhandel.",
+          "Die Flachwasserzone begrenzt den Zugang auf Schiffe mit geringem Tiefgang.",
+          "Der Hafen dient als wichtige Kontrollstation für den regionalen Warenfluss.",
+          "São Domingos profitiert massiv von der Nähe zum senegalesischen Markt."
+        ],
+        "hu": [
+          "São Domingos az északi országrész legfontosabb faszén-rakodóhelye.",
+          "A kikötőt csatornahálózat köti össze közvetlenül a Casamance vidékével.",
+          "A kiskereskedelmi forgalmat a hagyományos, fából vájt pirogok bonyolítják.",
+          "A sekély víz miatt csak kis merülésű hajók használhatják a kikötőt.",
+          "A kikötő fontos ellenőrző pont a regionális áruforgalom felügyeletében.",
+          "São Domingos gazdasága nagyban függ a szenegáli piac közelségétől."
+        ],
+        "ro": [
+          "São Domingos este cel mai important centru de distribuție pentru cărbunele de lemn în nord.",
+          "Portul este conectat direct prin rețele de canale cu regiunea Casamance.",
+          "Pirogile tradiționale domină micul comerț transfrontalier de subzistență.",
+          "Zona de ape puțin adânci limitează accesul la nave cu pescaj redus.",
+          "Portul funcționează ca o stație de control vitală pentru fluxul regional de mărfuri.",
+          "Orașul beneficiază masiv de pe urma interacțiunii economice cu piața senegaleză."
+        ],
+        "en": [
+          "São Domingos is the primary distribution point for charcoal in northern Guinea-Bissau.",
+          "The port is directly linked via a network of inland channels to the Casamance region.",
+          "Traditional pirogues are the main vessels for small-scale cross-border commerce.",
+          "Shallow water conditions restrict access to vessels with a very shallow draft.",
+          "The port serves as a critical monitoring station for regional goods movement.",
+          "São Domingos' economy is significantly bolstered by its proximity to Senegal."
+        ]
+      }
+    },
+    {
+      "id": "port-von-tite-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Tite, am südlichen Ufer des Geba-Ästuars in der Region Quinará gelegen, ist ein kleiner, aber historisch und ökonomisch bedeutsamer Verladepunkt. Seine Lage gegenüber der Hauptstadt Bissau macht ihn zu einem wichtigen logistischen Bindeglied zwischen der Metropole und den südlichen Landesteilen. Die wirtschaftliche Bedeutung von Tite basiert heute vor allem auf dem Abtransport von landwirtschaftlichen Erzeugnissen, insbesondere Reis aus den weitläufigen 'Bolonhas' der Region und Cashewnüssen. Historisch erlangte der Hafen Bekanntheit während des Unabhängigkeitskrieges, als er als einer der strategischen Versorgungspunkte für die Guerilla-Bewegung diente. Die Architektur des Hafens ist schlicht und zweckmäßig, geprägt durch eine Betonmole und Lagerbereiche, die an das raue Klima der Mangrovenzone angepasst sind. Der Hafen fungiert zudem als wichtiger Anleger für die Passagierpirogen, die Bissau in einer deutlich kürzeren Zeit erreichen als der Landweg über die Umgehungsstraße. Trotz der Konkurrenz durch den Straßentransport bleibt der Hafen von Tite ein Symbol für die maritime Tradition Guinea-Bissaus und eine unverzichtbare Infrastruktur für die ländliche Entwicklung von Quinará.",
+        "hu": "Tite kikötője a Geba-torkolat déli partján, Quinará régióban található, és bár kisméretű, történelmileg és gazdaságilag is jelentős rakodópont. A fővárossal, Bissauval szembeni elhelyezkedése miatt fontos logisztikai kapcsot jelent a metropolisz és az ország déli területei között. Tite gazdasági jelentősége ma elsősorban a mezőgazdasági termények – különösen a régió kiterjedt mocsári rizsföldjeiről (bolonhas) származó rizs és a kesudió – elszállítására épül. Történelmileg a kikötő a függetlenségi háború idején vált ismertté, mint a gerillamozgalom egyik stratégiai utánpótlási vonala. A kikötő építészete egyszerű és célszerű: egy betonmóló és a mangrove-zóna zord éghajlatához igazított raktárterületek alkotják. A kikötő emellett fontos bázisa a személyszállító pirogoknak is, amelyek lényegesen rövidebb idő alatt érik el Bissaut, mint a szárazföldi kerülőút. A közúti közlekedés versenye ellenére Tite kikötője Guinea-Bissau tengeri hagyományainak jelképe és Quinará vidékfejlesztésének nélkülözhetetlen infrastruktúrája marad.",
+        "ro": "Portul Tite, situat pe malul sudic al estuarului Geba în regiunea Quinará, este un punct de încărcare mic, dar semnificativ din punct de vedere istoric și economic. Poziția sa vizavi de capitala Bissau îl transformă într-o legătură logistică importantă între metropolă și părțile de sud ale țării. Importanța economică a localității Tite se bazează astăzi în principal pe transportul produselor agricole, în special orezul din 'bolonhas' întinse ale regiunii și nucile caju. Din punct de vedere istoric, portul a câștigat notorietate în timpul războiului de independență, servind ca unul dintre punctele strategice de aprovizionare pentru mișcarea de gherilă. Arhitectura portului este sobră și utilitară, fiind marcată de un debarcader de beton și zone de depozitare adaptate climatului aspru al zonei de mangrove. Portul funcționează, de asemenea, ca un punct de acostare important pentru pirogile de pasageri, care ajung la Bissau într-un timp mult mai scurt decât pe cale terestră prin drumul de ocolire. În ciuda concurenței transportului rutier, portul Tite rămâne un simbol al tradiției maritime a Guineei-Bissau și o infrastructură indispensabilă pentru dezvoltarea rurală a regiunii Quinará.",
+        "en": "The Port of Tite, located on the southern shore of the Geba estuary in the Quinará region, is a small but historically and economically significant loading point. Its location directly opposite the capital, Bissau, makes it a vital logistical link between the metropolis and the southern parts of the country. Today, Tite's economic importance is primarily based on the shipment of agricultural products, particularly rice from the region's extensive 'bolonhas' and cashew nuts. Historically, the port gained prominence during the War of Independence, serving as one of the strategic supply points for the guerrilla movement. The port's architecture is simple and functional, featuring a concrete pier and storage areas adapted to the harsh climate of the mangrove zone. The port also serves as a major docking point for passenger pirogues, which reach Bissau in significantly less time than the land route via the bypass road. Despite competition from road transport, the Port of Tite remains a symbol of Guinea-Bissau's maritime tradition and an indispensable piece of infrastructure for the rural development of Quinará."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Tite ist der wichtigste Verbindungshafen zwischen Bissau und der Region Quinará.",
+          "Der Hafen verkürzt die Reisezeit in den Süden im Vergleich zum Landweg massiv.",
+          "Die Region Tite ist eines der produktivsten mocsár-Reisanbaugebiete.",
+          "Während des Befreiungskrieges war der Hafen Schauplatz strategischer Operationen.",
+          "Die Betonmole des Hafens wurde in den letzten Jahren instand gesetzt.",
+          "Fischer nutzen den Hafen als Stützpunkt für den Fang im Geba-Ästuar."
+        ],
+        "hu": [
+          "Tite a legfontosabb összekötő kikötő Bissau és Quinará régió között.",
+          "A kikötő jelentősen lerövidíti a déli országrészbe tartó utazási időt.",
+          "Tite környéke az ország egyik legtermékenyebb mocsári rizstermelő vidéke.",
+          "A felszabadító háború idején a kikötő stratégiai hadműveletek színhelye volt.",
+          "A kikötő betonmólóját az elmúlt években teljesen felújították.",
+          "A halászok bázisként használják a Geba-torkolatban végzett munkájukhoz."
+        ],
+        "ro": [
+          "Tite este principalul port de legătură între Bissau și regiunea Quinará.",
+          "Traversarea cu piroga de aici către Bissau durează aproximativ 20-30 de minute.",
+          "Regiunea este renumită pentru sistemele sale tradiționale de îndiguire a orezului.",
+          "Portul a fost o bază logistică esențială pentru PAIGC în anii '60.",
+          "Include facilități minime pentru depozitarea sezonieră a nucilor caju.",
+          "Este un nod vital pentru transportul forței de muncă sezoniere către capitală."
+        ],
+        "en": [
+          "Tite serves as the primary maritime link between Bissau and the Quinará region.",
+          "The port dramatically reduces travel time to the south compared to the long overland route.",
+          "The Tite area is among the nation's most productive wetland rice-growing regions.",
+          "During the liberation struggle, the port was a site of significant strategic operations.",
+          "The port’s concrete pier has recently undergone essential maintenance repairs.",
+          "Local fishermen utilize the port as a base for operations within the Geba estuary."
+        ]
+      }
+    },
+    {
+      "id": "port-von-prabis-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Prabis, westlich der Hauptstadt Bissau gelegen, ist einer der bedeutendsten Standorte für die kleinindustrielle Fischerei und den regionalen Agrarexport in der Region Biombo. Aufgrund seiner unmittelbaren Nähe zum Ästuar des Rio Mansoa und zum offenen Atlantik bietet der Hafen exzellente Bedingungen für den Fang von hochwertigen Speisefischen und Garnelen. Die ökonomische Dynamik von Prabis wird durch den täglichen Transport von frischem Fisch, Mangos und Gemüse auf die Märkte von Bissau bestimmt. Die Architektur des Hafens ist funktional und umfasst einfache Landungsbrücken, Räuchereien für Fisch und Lagerplätze für saisonale Früchte. Prabis fungiert als logistisches Bindeglied für die landwirtschaftlichen Kooperativen der Umgebung, die ihre Erzeugnisse auf dem Seeweg effizienter in die Hauptstadt bringen können als über die oft verstopften Landstraßen. In den letzten Jahren wurden Anstrengungen unternommen, die sanitären Einrichtungen am Hafen zu verbessern, um die Qualität der exportierten Meeresfrüchte zu sichern. Der Hafen von Prabis ist ein Musterbeispiel für die Integration von kleinbäuerlicher Produktion und mariner Ressourcennutzung in der unmittelbaren Peripherie der Hauptstadt.",
+        "hu": "Prabis kikötője a fővárostól, Bissautól nyugatra található, és a kisüzemi halászat, valamint a regionális agrár-export egyik legfontosabb helyszíne a Biombo régióban. A Mansoa-folyó torkolatának és a nyílt Atlanti-óceánnak a közvetlen közelében fekvő kikötő kiváló feltételeket biztosít a kiváló minőségű étkezési halak és garnélarákok fogásához. Prabis gazdasági dinamikáját a friss hal, a mangó és a zöldségfélék napi szintű szállítása határozza meg Bissau piacaira. A kikötő építészete funkcionális: egyszerű mólók, halkonzerváló (füstölő) kunyhók és a szezonális gyümölcsök számára kialakított tárolóhelyek alkotják. Prabis logisztikai kapcsot jelent a környékbeli mezőgazdasági szövetkezetek számára, amelyek terményeiket a tengeri úton hatékonyabban juttathatják el a fővárosba, mint a gyakran zsúfolt közutakon. Az utóbbi években törekedtek a kikötői higiéniai létesítmények javítására, hogy biztosítsák az exportált tenger gyümölcseinek minőségét. Prabis kikötője kiváló példája a kistermelői termelés és a tengeri erőforrások hasznosításának integrációjára a főváros közvetlen vonzáskörzetében.",
+        "ro": "Portul Prabis, situat la vest de capitala Bissau, este una dintre cele mai importante locații pentru pescuitul la scară mică și exportul agricol regional din regiunea Biombo. Datorită proximității sale imediate față de estuarul râului Mansoa și de Oceanul Atlantic deschis, portul oferă condiții excelente pentru captura de pește de înaltă calitate și creveți. Dinamica economică a localității Prabis este determinată de transportul zilnic de pește proaspăt, mango și legume către piețele din Bissau. Arhitectura portului este funcțională și cuprinde debarcadere simple, afumătorii pentru pește și spații de depozitare pentru fructele de sezon. Prabis funcționează ca o legătură logistică pentru cooperativele agricole din zonă, care își pot transporta produsele mai eficient către capitală pe cale maritimă decât pe drumurile terestre adesea aglomerate. În ultimii ani, au fost depuse eforturi pentru îmbunătățirea facilităților sanitare din port, pentru a asigura calitatea fructelor de mare exportate. Portul Prabis este un exemplu model de integrare a producției micilor fermieri și a utilizării resurselor marine în periferia imediată a capitalei.",
+        "en": "The Port of Prabis, located west of the capital city Bissau, is one of the most significant sites for small-scale industrial fishing and regional agricultural export within the Biombo region. Thanks to its direct proximity to the Rio Mansoa estuary and the open Atlantic, the port offers excellent conditions for harvesting high-quality food fish and shrimp. The economic vitality of Prabis is driven by the daily transport of fresh fish, mangoes, and vegetables to Bissau’s markets. The port's architecture is functional, consisting of simple piers, fish smoking huts, and storage areas for seasonal fruit. Prabis acts as a logistical link for surrounding agricultural cooperatives, enabling them to transport their goods to the capital more efficiently by sea than via the often congested land routes. In recent years, efforts have been made to upgrade the port’s sanitary facilities to ensure the quality of exported seafood. The Port of Prabis serves as a model for integrating smallholder production and marine resource utilization within the capital's immediate periphery."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Prabis ist der wichtigste Lieferant für Garnelen in der Hauptstadt Bissau.",
+          "Der Hafen liegt an einem strategischen Punkt zwischen dem Mansoa und dem Meer.",
+          "Täglich landen hunderte Pirogen ihren Fang in Prabis an.",
+          "Der Ort ist bekannt für seine hochqualitativen geräucherten Meeresfrüchte.",
+          "Der Hafen dient als Hauptausfuhrort für die Mango-Ernte der Region Biombo.",
+          "Die Anfahrt von Bissau nach Prabis per Boot dauert oft weniger als eine Stunde."
+        ],
+        "hu": [
+          "Prabis a főváros, Bissau legfontosabb garnélarák-beszállítója.",
+          "A kikötő stratégiai ponton fekszik a Mansoa-folyó és az óceán között.",
+          "Naponta több száz pirog rakodik ki Prabisban.",
+          "A település híres a kiváló minőségű füstölt tengeri gyümölcseiről.",
+          "A kikötő a Biombo régió mangótermésének fő kiviteli helyszíne.",
+          "Bissauból Prabisba hajóval gyakran kevesebb mint egy óra alatt el lehet jutni."
+        ],
+        "ro": [
+          "Prabis este furnizorul principal de creveți pentru capitala Bissau.",
+          "Portul este situat într-un punct strategic între râul Mansoa și ocean.",
+          "Zilnic, sute de pirogi își descarcă captura în Prabis.",
+          "Localitatea este renumită pentru fructele de mare afumate de înaltă calitate.",
+          "Portul servește drept principal punct de export pentru recolta de mango din Biombo.",
+          "Traversarea de la Bissau la Prabis cu barca durează adesea mai puțin de o oră."
+        ],
+        "en": [
+          "Prabis is the premier supplier of fresh and processed shrimp to the Bissau market.",
+          "The port is strategically positioned at the meeting point of the Mansoa River and the ocean.",
+          "Hundreds of pirogues arrive daily to unload their catch at the Prabis docks.",
+          "The town is highly regarded for its traditional high-quality smoked seafood products.",
+          "The port acts as the primary exit point for the Biombo region's massive mango harvest.",
+          "Boat travel between Bissau and Prabis typically takes less than one hour."
+        ]
+      }
+    }
+  ]
+}

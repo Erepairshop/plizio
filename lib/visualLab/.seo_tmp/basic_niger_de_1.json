@@ -1,0 +1,86 @@
+{
+  "lang": "de",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ter-animal-habitat-life-v2",
+      "description": "Ein bedeutendes Gebiet für die lokale Fauna in der Region Tillabéri.",
+      "facts": ["Region Tillabéri", "Wichtige Fauna", "Trockenes Klima"]
+    },
+    {
+      "id": "agadez-kamel-habitat-life-v2",
+      "description": "Die Umgebung von Agadez dient als natürlicher Lebensraum für Wüstenkamele.",
+      "facts": ["Region Agadez", "Wüstenkamele", "Sahara-Rand"]
+    },
+    {
+      "id": "filingue-agri-life-v2",
+      "description": "Eine landwirtschaftlich geprägte Zone, die für den Anbau von Hirse bekannt ist.",
+      "facts": ["Region Tillabéri", "Hirseanbau", "Ländliche Struktur"]
+    },
+    {
+      "id": "maradi-kids-life-v2",
+      "description": "Ein populärer Erholungsort für Familien in der Stadt Maradi.",
+      "facts": ["Stadt Maradi", "Familienfreundlich", "Parkanlage"]
+    },
+    {
+      "id": "gaya-bird-life-v2",
+      "description": "Ein Feuchtgebiet nahe Gaya, das zahlreichen Vogelarten Zuflucht bietet.",
+      "facts": ["Nahe Niger-Fluss", "Vogelbeobachtung", "Feuchtgebiet"]
+    },
+    {
+      "id": "tessaoua-agri-life-v2",
+      "description": "Ein Zentrum für den Anbau von Erdnüssen in der Region Maradi.",
+      "facts": ["Region Maradi", "Erdnussanbau", "Agrarzentrum"]
+    },
+    {
+      "id": "konni-kids-life-v2",
+      "description": "Ein städtischer Park in Birni N'Konni für Freizeitaktivitäten.",
+      "facts": ["Birni N'Konni", "Freizeit", "Grünfläche"]
+    },
+    {
+      "id": "madaoua-agri-life-v2",
+      "description": "Diese Zone unterstützt die lokale Landwirtschaft durch fruchtbare Bodenbedingungen.",
+      "facts": ["Region Tahoua", "Fruchtbarer Boden", "Traditionelle Landwirtschaft"]
+    },
+    {
+      "id": "gouré-goat-life-v2",
+      "description": "Region, die traditionell für die Ziegenzucht genutzt wird.",
+      "facts": ["Region Zinder", "Ziegenzucht", "Sahelzone"]
+    },
+    {
+      "id": "tera-bird-life-v2",
+      "description": "Ein wichtiger Rastplatz für wandernde Vogelarten in der Nähe von Tera.",
+      "facts": ["Stadt Tera", "Zugvögel", "Biodiversität"]
+    },
+    {
+      "id": "kollo-mango-life-v2",
+      "description": "Ein Gebiet, das für seine kleinen, aber schmackhaften Mango-Plantagen bekannt ist.",
+      "facts": ["Region Tillabéri", "Mango-Anbau", "Flussnähe"]
+    },
+    {
+      "id": "say-river-life-v2",
+      "description": "Der Flussabschnitt bei Say ist reich an aquatischem Leben.",
+      "facts": ["Niger-Fluss", "Fischerei", "Ökosystem"]
+    },
+    {
+      "id": "nga-fishing-life-v2",
+      "description": "Ein traditioneller Fischereistandort entlang der Wasserwege.",
+      "facts": ["Traditionelle Fischerei", "Wasserressourcen", "Regionale Versorgung"]
+    },
+    {
+      "id": "birni-kids-life-v2",
+      "description": "Ein beliebter Spielplatz und Park im städtischen Umfeld.",
+      "facts": ["Städtische Anlage", "Spielplatz", "Sozialer Treffpunkt"]
+    },
+    {
+      "id": "magaria-agri-life-v2",
+      "description": "Eine wichtige Agrarregion für die Produktion von Nahrungsmitteln.",
+      "facts": ["Region Zinder", "Nahrungsmittel", "Agrarwirtschaft"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sc-amitie-cities-v2",
+      "description": "Amitié liegt an der Westküste von Praslin, in der Nähe des Flughafens. Der Ort ist bekannt für seine ruhige Lage und den Zugang zu den Stränden der Insel.",
+      "facts": ["Westküste Praslin", "Nahe Flugplatz", "Ruhiges Wohngebiet", "Inselzugang"]
+    },
+    {
+      "id": "sc-consolation-cities-v2",
+      "description": "Consolation befindet sich im Süden von Praslin und besticht durch eine dramatische Küstenlandschaft. Es ist ein ruhiger Ortsteil abseits der großen Touristenströme.",
+      "facts": ["Süden von Praslin", "Dramatische Küste", "Ruhige Lage", "Naturbelassen"]
+    },
+    {
+      "id": "sc-cote-dor-cities-v2",
+      "description": "Côte d’Or ist einer der bekanntesten Touristenorte auf der Insel Praslin. Er ist berühmt für seinen langen Sandstrand und die exzellente Infrastruktur für Wassersport.",
+      "facts": ["Bekannter Tourismusort", "Langer Sandstrand", "Wassersportzentrum", "Infrastruktur"]
+    },
+    {
+      "id": "sc-grand-anse-mahe-cities-v2",
+      "description": "Grand Anse auf der Hauptinsel Mahé ist ein ausgedehnter Bezirk an der Westküste. Er bietet sowohl Wohngebiete als auch landwirtschaftliche Flächen und einen weiten Blick über das Meer.",
+      "facts": ["Westküste Mahé", "Weitläufiger Bezirk", "Landwirtschaft", "Meerblick"]
+    },
+    {
+      "id": "sc-barbarons-cities-v2",
+      "description": "Barbarons liegt an der Westküste von Mahé und ist bekannt für seine friedliche Umgebung sowie nahegelegene Strände. Die Gegend ist von üppigem Grün umgeben.",
+      "facts": ["Westküste Mahé", "Friedliche Lage", "Üppiges Grün", "Strandnähe"]
+    },
+    {
+      "id": "sc-misere-cities-v2",
+      "description": "Misere ist ein Wohnbezirk auf Mahé, der in den höher gelegenen Gebieten der Insel liegt. Er bietet eine kühlere Atmosphäre und eine gute Aussicht auf die Küstenregion.",
+      "facts": ["Hügellage Mahé", "Wohnbezirk", "Kühlere Temperaturen", "Aussichtslage"]
+    },
+    {
+      "id": "sc-foret-noire-cities-v2",
+      "description": "Forêt Noire ist eine Wohngegend im Landesinneren von Mahé, benannt nach der üppigen Waldlandschaft in der Umgebung. Die Gegend ist ruhig und naturnah gelegen.",
+      "facts": ["Landesinneres Mahé", "Wohngegend", "Waldreiche Umgebung", "Ruhig"]
+    },
+    {
+      "id": "sc-port-launay-cities-v2",
+      "description": "Port Launay ist eine Region an der Westküste von Mahé, die für ihren geschützten Meerespark und ihre landschaftliche Schönheit bekannt ist. Es ist ein wichtiger Ort für Naturliebhaber.",
+      "facts": ["Westküste Mahé", "Meerespark", "Landschaftlich schön", "Naturschutzgebiet"]
+    },
+    {
+      "id": "sc-danzil-cities-v2",
+      "description": "Danzil ist ein kleinerer Ortsteil im Nordwesten von Mahé in der Nähe von Bel Ombre. Die Gegend zeichnet sich durch ihre hügelige Topographie und eine grüne Umgebung aus.",
+      "facts": ["Nordwest Mahé", "Nahe Bel Ombre", "Hügelig", "Grüne Umgebung"]
+    },
+    {
+      "id": "sc-mare-anglaise-cities-v2",
+      "description": "Mare Anglaise ist ein ruhiger Wohnbezirk im Nordwesten von Mahé, unweit des beliebten Beau Vallon. Er bietet einen entspannten Rückzugsort mit Meerblick.",
+      "facts": ["Nordwest Mahé", "Nahe Beau Vallon", "Ruhiges Wohnen", "Meerblick"]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-cafe-boquete-life-v2",
+      "description": "Boquete környéke világszerte ismert kiváló minőségű kávéültetvényeiről.",
+      "facts": ["Kávétermelés központja", "Hűvös hegyi klíma", "Kiváló minőségű kávé"]
+    },
+    {
+      "id": "parque-nacional-soberania-zoo-life-v2",
+      "description": "A Soberanía Nemzeti Park gazdag biológiai sokféleségnek ad otthont, közel a csatornához.",
+      "facts": ["Csatorna közelében fekszik", "Gazdag állatvilág", "Túraútvonalak"]
+    },
+    {
+      "id": "parque-recreativo-omar-torrijos-life-v2",
+      "description": "Panamaváros egyik legfontosabb zöld területe, népszerű kikapcsolódási hely.",
+      "facts": ["Városi park", "Sportolási lehetőségek", "Népszerű közösségi tér"]
+    },
+    {
+      "id": "refugio-vida-silvestre-taboga-life-v2",
+      "description": "Taboga szigete egy fontos vadvédelmi terület, amely gazdag tengeri élővilággal rendelkezik.",
+      "facts": ["Védett szigetvilág", "Tengeri élővilág", "Madárrezervátum"]
+    },
+    {
+      "id": "finca-orquideas-boquete-life-v2",
+      "description": "Boquete egyedülálló orchideakertje, amely a régió gazdag flóráját mutatja be.",
+      "facts": ["Orchidea-gyűjtemény", "Hegyi növényzet", "Turisztikai látnivaló"]
+    },
+    {
+      "id": "centro-naturaleza-punta-culebra-life-v2",
+      "description": "Természetközpont, amely a panamai tengeri és szárazföldi élővilágot ismerteti meg.",
+      "facts": ["Tengeri oktatóközpont", "Panamai élővilág", "Családi programok"]
+    },
+    {
+      "id": "parque-infantil-don-bosco-life-v2",
+      "description": "Közösségi játszótér és park, amely a családok számára biztosít kikapcsolódást.",
+      "facts": ["Gyermekjátszótér", "Közösségi park", "Családi rekreáció"]
+    },
+    {
+      "id": "reserva-forestal-fortuna-life-v2",
+      "description": "Jelentős erdőrezervátum, amely a régió vízellátását és ökoszisztémáját védi.",
+      "facts": ["Védett erdőség", "Fontos vízgyűjtő", "Gazdag élővilág"]
+    },
+    {
+      "id": "criadero-mariposas-boquete-life-v2",
+      "description": "Pillangófarm, amely a trópusi pillangók életciklusát mutatja be.",
+      "facts": ["Pillangótenyésztés", "Trópusi fajok", "Oktatóközpont"]
+    },
+    {
+      "id": "laguna-de-chiriqui-sea-v2",
+      "description": "Nagy tengeri öböl a karibi parton, gazdag korallzátonyokkal.",
+      "facts": ["Karibi öböl", "Korallzátonyok", "Tengeri élővilág"]
+    }
+  ]
+}

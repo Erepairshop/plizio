@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "canada",
+  "files": ["lib/visualLab/data/poiExtraCanadaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "fort-langley-history-v2",
+      "descriptionAdvancedDe": "Fort Langley, am Ufer des Fraser River in British Columbia gelegen, ist als „Geburtsort von British Columbia“ bekannt. Die ursprüngliche Festung wurde 1827 von der Hudson's Bay Company als Pelzhandelsposten gegründet und spielte eine entscheidende Rolle im Handel mit den indigenen Völkern und bei der Etablierung der britischen Souveränität. Am 19. November 1858 wurde hier die Kronkolonie British Columbia ausgerufen, was eine direkte Reaktion auf den Fraser-Canyon-Goldrausch war, um die Ordnung aufrechtzuerhalten und die Region vor amerikanischen Annexionsbestrebungen zu schützen. Heute ist die restaurierte Festung eine nationale historische Stätte, die Besuchern das Leben im 19. Jahrhundert näherbringt.",
+      "descriptionAdvancedHu": "A Fort Langley, a Fraser-folyó partján, Brit Columbia „szülőhelyeként” ismert. Az erődöt 1827-ben alapította a Hudson-öböl Társaság szőrmekereskedelmi állomásként, és kulcsfontosságú szerepet játszott a helyi őslakos népekkel folytatott kereskedelemben és a brit fennhatóság megszilárdításában. 1858. november 19-én itt kiáltották ki Brit Columbia koronagyarmatot, válaszul a Fraser-kanyon aranylázára, hogy fenntartsák a rendet és megvédjék a területet az amerikai terjeszkedési törekvésektől. Ma a helyreállított erőd nemzeti történelmi helyszín, ahol a látogatók bepillantást nyerhetnek a 19. századi életbe.",
+      "descriptionAdvancedRo": "Fort Langley, situat pe malul râului Fraser, este cunoscut drept „locul de naștere al Columbiei Britanice”. Fortul original a fost înființat în 1827 de către Compania Hudson's Bay ca post de comerț cu blănuri și a jucat un rol crucial în comerțul cu popoarele indigene și în stabilirea suveranității britanice. La 19 noiembrie 1858, aici a fost proclamată Colonia Coroanei Columbia Britanică, un răspuns direct la goana după aur din Canionul Fraser, pentru a menține ordinea și a proteja regiunea de ambițiile expansioniste americane. Astăzi, fortul restaurat este un sit istoric național care oferă vizitatorilor o imagine a vieții din secolul al XIX-lea.",
+      "descriptionAdvancedEn": "Fort Langley, located on the banks of the Fraser River, is known as the 'Birthplace of British Columbia.' The original fort was established in 1827 by the Hudson's Bay Company as a fur trading post and played a crucial role in trade with Indigenous peoples and in establishing British sovereignty. On November 19, 1858, the Crown Colony of British Columbia was proclaimed here, a direct response to the Fraser Canyon Gold Rush to maintain order and protect the region from American expansionist ambitions. Today, the restored fort is a National Historic Site that offers visitors a glimpse into 19th-century life.",
+      "factsAdvanced": [
+        "1827-ben alapította a Hudson's Bay Company.",
+        "Gyakran nevezik 'Brit Columbia szülőhelyének'.",
+        "Itt kiáltották ki Brit Columbia koronagyarmatot 1858-ban.",
+        "Fontos központ volt a Fraser-folyói aranyláz idején (1858).",
+        "Jelentős volt a lazac- és bogyókereskedelme is.",
+        "Az eredeti erődöt többször újjáépítették árvizek miatt.",
+        "Ma élő történelem múzeumként működik.",
+        "Kanada Nemzeti Történelmi Emlékhelye."
+      ]
+    },
+    {
+      "id": "old-montreal-history-v2",
+      "descriptionAdvancedDe": "Die Altstadt von Montreal (Vieux-Montréal) ist der älteste Stadtteil Montreals und reicht bis in die Anfänge der französischen Kolonialisierung im 17. Jahrhundert zurück. Gegründet 1642 als Fort Ville-Marie, entwickelte sich die Siedlung zu einem wichtigen Handels- und Verwaltungszentrum. Die kopfsteingepflasterten Straßen, wie die Rue Saint-Paul, und die Architektur aus dem 17. bis 19. Jahrhundert verleihen dem Viertel einen europäischen Charme. Zu den bedeutendsten Sehenswürdigkeiten gehören die Basilika Notre-Dame, der Alte Hafen und der Bonsecours-Markt. Das Viertel wurde in den 1960er Jahren umfassend restauriert und ist heute ein lebendiges Zentrum mit Museen, Galerien, Restaurants und Wohnungen, das jährlich Millionen von Touristen anzieht.",
+      "descriptionAdvancedHu": "Montréal óvárosa (Vieux-Montréal) a város legrégebbi negyede, melynek gyökerei a 17. századi francia gyarmatosításig nyúlnak vissza. Az 1642-ben Fort Ville-Marie néven alapított település hamar fontos kereskedelmi és közigazgatási központtá vált. A macskaköves utcák, mint a Rue Saint-Paul, és a 17-19. századi építészet európai hangulatot kölcsönöznek a negyednek. A legfontosabb látnivalók közé tartozik a Notre-Dame-bazilika, a Régi Kikötő és a Bonsecours-piac. A negyedet az 1960-as években nagyrészt felújították, és ma múzeumokkal, galériákkal, éttermekkel és lakóépületekkel teli, évente turisták millióit vonzó, nyüzsgő központ.",
+      "descriptionAdvancedRo": "Vechiul Montreal (Vieux-Montréal) este cel mai vechi cartier al orașului, cu origini care datează de la începuturile colonizării franceze în secolul al XVII-lea. Fondată în 1642 sub numele de Fort Ville-Marie, așezarea a devenit rapid un important centru comercial și administrativ. Străzile pietruite, precum Rue Saint-Paul, și arhitectura din secolele XVII-XIX conferă cartierului un farmec european. Printre cele mai importante atracții se numără Bazilica Notre-Dame, Vechiul Port și Piața Bonsecours. Cartierul a fost restaurat în mare parte în anii 1960 și astăzi este un centru vibrant, plin de muzee, galerii, restaurante și locuințe, care atrage anual milioane de turiști.",
+      "descriptionAdvancedEn": "Old Montreal (Vieux-Montréal) is the city's oldest neighborhood, with roots dating back to the beginnings of French colonization in the 17th century. Founded in 1642 as Fort Ville-Marie, the settlement quickly grew into an important commercial and administrative center. Its cobblestone streets, such as Rue Saint-Paul, and architecture from the 17th to 19th centuries give the district a European charm. Key landmarks include the Notre-Dame Basilica, the Old Port, and the Bonsecours Market. The district underwent extensive restoration in the 1960s and is now a vibrant hub of museums, galleries, restaurants, and residences, attracting millions of tourists annually.",
+      "factsAdvanced": [
+        "1642-ben alapították Ville-Marie néven francia telepesek.",
+        "Itt található Kanada legrégebbi utcája, a Rue Saint-Paul.",
+        "A Notre-Dame-bazilika 1829-ben épült neogótikus stílusban.",
+        "1964-ben Québec történelmi negyedévé nyilvánították.",
+        "A Lachine-csatorna itt torkollik a Szent Lőrinc-folyóba.",
+        "A Bonsecours-piac egykor Montreal fő közpiaca volt (1847).",
+        "A Pointe-à-Callière múzeum a város születési helyén áll.",
+        "Az óváros a 17. és 19. századi építészet keveréke."
+      ]
+    },
+    {
+      "id": "distillery-district-toronto-history-v2",
+      "descriptionAdvancedDe": "Das Distillery District in Toronto ist ein einzigartiges historisches Viertel, das einst die größte Brennerei im Britischen Empire, Gooderham and Worts, beherbergte. Gegründet 1832, wuchs die Brennerei im 19. Jahrhundert exponentiell und produzierte Millionen Gallonen Whisky für den nationalen und internationalen Markt. Die erhaltene viktorianische Industriearchitektur mit ihren Backsteingebäuden und engen Gassen ist die größte und am besten erhaltene Sammlung dieser Art in Nordamerika. Nach der Schließung der Brennerei im Jahr 1990 wurde das Gebiet in den frühen 2000er Jahren in ein lebendiges, autofreies Dorf umgewandelt, das sich der Kunst, Kultur und Unterhaltung widmet. Heute finden sich hier Galerien, Theater, Boutiquen, Restaurants und das jährliche Toronto Christmas Market.",
+      "descriptionAdvancedHu": "A torontói Distillery District egy egyedülálló történelmi negyed, amely egykor a Brit Birodalom legnagyobb szeszfőzdéjének, a Gooderham and Wortsnak adott otthont. Az 1832-ben alapított szeszfőzde a 19. században ugrásszerűen növekedett, és több millió gallon whiskyt termelt a hazai és a nemzetközi piacra. A fennmaradt viktoriánus ipari építészet, vörös téglás épületeivel és szűk utcáival, a legnagyobb és legjobb állapotban megmaradt ilyen jellegű gyűjtemény Észak-Amerikában. A szeszfőzde 1990-es bezárása után a területet a 2000-es évek elején egy nyüzsgő, autómentes faluvá alakították át, amely a művészeteknek, a kultúrának és a szórakozásnak szenteli magát. Ma galériák, színházak, butikok, éttermek és az éves Torontói Karácsonyi Vásár otthona.",
+      "descriptionAdvancedRo": "Cartierul Distileriei din Toronto este un district istoric unic, care a găzduit cândva cea mai mare distilerie din Imperiul Britanic, Gooderham and Worts. Fondată în 1832, distileria a crescut exponențial în secolul al XIX-lea, producând milioane de galoane de whisky pentru piețele interne și internaționale. Arhitectura industrială victoriană, cu clădirile sale din cărămidă roșie și străzile înguste, reprezintă cea mai mare și mai bine conservată colecție de acest gen din America de Nord. După închiderea distileriei în 1990, zona a fost transformată la începutul anilor 2000 într-un sat pietonal vibrant, dedicat artelor, culturii și divertismentului. Astăzi, găzduiește galerii, teatre, buticuri, restaurante și Târgul anual de Crăciun din Toronto.",
+      "descriptionAdvancedEn": "The Distillery District in Toronto is a unique historical area that once housed the largest distillery in the British Empire, Gooderham and Worts. Founded in 1832, the distillery grew exponentially in the 19th century, producing millions of gallons of whiskey for domestic and international markets. The preserved Victorian industrial architecture, with its red brick buildings and narrow laneways, is the largest and best-preserved collection of its kind in North America. After the distillery's closure in 1990, the area was transformed in the early 2000s into a vibrant, pedestrian-only village dedicated to arts, culture, and entertainment. Today, it is home to galleries, theaters, boutiques, restaurants, and the annual Toronto Christmas Market.",
+      "factsAdvanced": [
+        "A Gooderham & Worts szeszfőzde 1837-ben kezdte meg itt a működését.",
+        "A 19. század végére a világ legnagyobb whiskygyártója volt.",
+        "Több mint 40 viktoriánus ipari épületet őriztek meg.",
+        "1988-ban nyilvánították Nemzeti Történelmi Emlékhellyé.",
+        "A szeszfőzde 1990-ben fejezte be a termelést.",
+        "2003-ban nyílt meg, mint művészeti és kulturális negyed.",
+        "A terület teljesen gyalogos-barát, autók nem hajthatnak be.",
+        "Észak-Amerika legnagyobb viktoriánus ipari épületegyüttese."
+      ]
+    },
+    {
+      "id": "sgang-gwaay-history-v2",
+      "descriptionAdvancedDe": "SGang Gwaay, gelegen auf der Anthony-Insel im Gwaii-Haanas-Nationalpark in Haida Gwaii, ist ein UNESCO-Weltkulturerbe, das die Überreste eines traditionellen Haida-Dorfes bewahrt. Das Dorf, das im 19. Jahrhundert hauptsächlich aufgrund von Pockenepidemien verlassen wurde, enthält die weltweit größte Sammlung von in situ Haida-Totempfählen und geschnitzten Hauspfosten. Diese monumentalen Kunstwerke, die langsam von der Natur zurückerobert werden, erzählen Geschichten über die Mythologie, die soziale Struktur und die Geschichte der Haida. SGang Gwaay ist ein tief spiritueller Ort, der ein ergreifendes Zeugnis von der Kunstfertigkeit, Kultur und dem tragischen Niedergang der Haida-Nation vor der Ankunft der Europäer ist.",
+      "descriptionAdvancedHu": "Az SGang Gwaay, amely az Anthony-szigeten található a Gwaii Haanas Nemzeti Parkban, Haida Gwaii területén, egy UNESCO Világörökségi helyszín, amely egy hagyományos haida falu maradványait őrzi. A falut a 19. században hagyták el, elsősorban a fekete himlő járványai miatt, és itt található a világ legnagyobb gyűjteménye eredeti helyükön álló haida totemoszlopokból és faragott házoszlopokból. Ezek a monumentális műalkotások, amelyeket lassan visszahódít a természet, a haidák mitológiájáról, társadalmi szerkezetéről és történelméről mesélnek. Az SGang Gwaay egy mélyen spirituális hely, amely megrendítő tanúbizonysága a haida nemzet művészi képességeinek, kultúrájának és az európaiak érkezése előtti tragikus hanyatlásának.",
+      "descriptionAdvancedRo": "SGang Gwaay, situat pe Insula Anthony în Parcul Național Gwaii Haanas din Haida Gwaii, este un sit al Patrimoniului Mondial UNESCO care păstrează rămășițele unui sat tradițional Haida. Satul, abandonat în secolul al XIX-lea în mare parte din cauza epidemiilor de variolă, conține cea mai mare colecție din lume de stâlpi totemici Haida in situ și stâlpi de casă sculptați. Aceste opere de artă monumentale, recuperate lent de natură, spun povești despre mitologia, structura socială și istoria poporului Haida. SGang Gwaay este un loc profund spiritual, oferind o mărturie emoționantă a măiestriei artistice, culturii și declinului tragic al națiunii Haida înainte de contactul european.",
+      "descriptionAdvancedEn": "SGang Gwaay, located on Anthony Island in Gwaii Haanas National Park, Haida Gwaii, is a UNESCO World Heritage site that preserves the remains of a traditional Haida village. The village, abandoned in the 19th century largely due to smallpox epidemics, contains the world's largest collection of in situ Haida totem poles and carved house posts. These monumental artworks, being slowly reclaimed by nature, tell stories of the mythology, social structure, and history of the Haida people. SGang Gwaay is a profoundly spiritual place, offering a poignant testament to the artistic mastery, culture, and tragic decline of the Haida Nation prior to European contact.",
+      "factsAdvanced": [
+        "1981-ben lett UNESCO Világörökségi helyszín.",
+        "A haida nép Ninstints törzsének egykori faluja volt.",
+        "A 19. században hagyták el egy himlőjárvány miatt.",
+        "A világon itt található a legtöbb helyben álló haida totemoszlop.",
+        "A faragványok klántörténeteket és legendákat ábrázolnak.",
+        "A Gwaii Haanas Nemzeti Park része.",
+        "A helyszín csak hajóval vagy hidroplánnal érhető el.",
+        "A látogatók számát szigorúan korlátozzák a megőrzés érdekében."
+      ]
+    },
+    {
+      "id": "battlefields-park-quebec-history-v2",
+      "descriptionAdvancedDe": "Der Battlefields Park (Parc des Champs-de-Bataille) in Québec City ist einer der bedeutendsten historischen Stadtparks Kanadas. Er umfasst die Abraham-Ebene, wo 1759 die entscheidende Schlacht zwischen den britischen Truppen unter General Wolfe und den französischen Truppen unter General Montcalm stattfand. Diese Schlacht war ein Wendepunkt im Siebenjährigen Krieg und führte zur britischen Eroberung von Québec. Der 1908 gegründete Park war der erste nationale historische Park Kanadas. Heute ist er eine grüne Oase in der Stadt, die von Einheimischen und Touristen zur Erholung genutzt wird und gleichzeitig als Gedenkstätte für die kanadische Geschichte dient. Er beherbergt Gärten, Denkmäler und das Musée national des beaux-arts du Québec.",
+      "descriptionAdvancedHu": "A québeci Battlefields Park (Parc des Champs-de-Bataille) Kanada egyik legfontosabb történelmi városi parkja. Magában foglalja az Ábrahám-síkságot, ahol 1759-ben a döntő csata zajlott Wolfe tábornok brit és Montcalm tábornok francia csapatai között. Ez az ütközet fordulópontot jelentett a hétéves háborúban, és Québec brit meghódításához vezetett. Az 1908-ban létrehozott park volt Kanada első nemzeti történelmi parkja. Ma a város zöld oázisa, amelyet a helyiek és a turisták egyaránt rekreációs célokra használnak, miközben a kanadai történelem emlékhelyeként is szolgál. Kertek, emlékművek és a Musée national des beaux-arts du Québec is található itt.",
+      "descriptionAdvancedRo": "Parcul Câmpurilor de Bătălie (Parc des Champs-de-Bataille) din Quebec City este unul dintre cele mai importante parcuri urbane istorice din Canada. Acesta include Câmpiile lui Avraam, unde în 1759 a avut loc bătălia decisivă între trupele britanice conduse de generalul Wolfe și cele franceze conduse de generalul Montcalm. Această bătălie a fost un punct de cotitură în Războiul de Șapte Ani și a dus la cucerirea britanică a Quebecului. Creat în 1908, parcul a fost primul parc istoric național din Canada. Astăzi, este o oază de verdeață urbană, folosită pentru recreere de localnici și turiști, servind în același timp ca un memorial al istoriei canadiene. Găzduiește grădini, monumente și Musée national des beaux-arts du Québec.",
+      "descriptionAdvancedEn": "The Battlefields Park (Parc des Champs-de-Bataille) in Quebec City is one of Canada's most significant historic urban parks. It incorporates the Plains of Abraham, where the decisive 1759 battle took place between British troops under General Wolfe and French troops under General Montcalm. This battle was a turning point in the Seven Years' War and led to the British conquest of Quebec. Created in 1908, the park was Canada's first national historic park. Today, it is an urban green oasis used for recreation by locals and tourists alike, while also serving as a memorial to Canadian history. It hosts gardens, monuments, and the Musée national des beaux-arts du Québec.",
+      "factsAdvanced": [
+        "Kanada első nemzeti történelmi parkja, 1908-ban alapították.",
+        "Az 1759-es Ábrahám-síksági csata helyszíne.",
+        "A csata kevesebb mint egy óráig tartott.",
+        "Mindkét parancsnok, Wolfe és Montcalm is, életét vesztette a csatában.",
+        "A park területe kb. 108 hektár.",
+        "Népszerű helyszín koncerteknek, mint a Québeci Nemzeti Ünnep.",
+        "Több Martello-torony is található a park területén.",
+        "A parkban található a Musée national des beaux-arts du Québec."
+      ]
+    }
+  ]
+}

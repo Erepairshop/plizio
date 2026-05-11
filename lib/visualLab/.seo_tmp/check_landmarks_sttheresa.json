@@ -1,0 +1,14 @@
+{
+  "lang": "hu",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "st-theresa-cathedral-juba-landmarks-v2",
+      "description": "A főváros legfontosabb katolikus katedrálisa. Jelentős vallási és közösségi központ Juba szívében.",
+      "facts": ["Katolikus katedrális", "Juba központja", "Vallási közösség", "Építészeti emlék"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "janjanbureh-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Janjanbureh Island, historisch als MacCarthy Island bekannt, ist eine Flussinsel im Central River District, etwa 280 Kilometer landeinwärts von der Mündung des Gambia-Flusses gelegen. Die Insel ist geografisch durch ihre erhöhte Lage über dem Wasserspiegel charakterisiert, was sie vor den saisonalen Fluten schützt, die das umliegende Marschland prägen. Historisch war Janjanbureh ein bedeutender Außenposten des britischen Empire; die Stadt Georgetown wurde 1823 gegründet, um befreiten Sklaven eine Zuflucht zu bieten und die Kontrolle über den Binnenhandel zu sichern. Ökonomisch dient die Insel heute als administratives Zentrum der Region und als wichtiger Knotenpunkt für den Agrotourismus. Die Architektur der Stadt spiegelt mit ihren verfallenden Kolonialbauten und Lagerhäusern die Handelsgeschichte des 19. Jahrhunderts wider. Ökologisch ist die Insel von einem dichten Gürtel aus Ufervegetation umgeben, der als Lebensraum für zahlreiche Reptilien und Vögel dient. Technisch erfolgt der Zugang zur Insel über eine Fähre oder die Janjanbureh-Brücke, was für die Logistik der lokalen Landwirtschaft, insbesondere den Reishandel, von zentraler Bedeutung ist. Die Insel ist zudem ein Ausgangspunkt für Exkursionen zu den nahegelegenen Steinkreisen von Wassu, was ihre Bedeutung für das kulturelle Erbe Gambias unterstreicht.",
+        "hu": "Janjanbureh-sziget, történelmi nevén MacCarthy-sziget, a Gambia-folyó egyik legfontosabb szárazföldi szigete a Central River körzetben, mintegy 280 kilométerre a torkolattól. Földrajzi elhelyezkedése stratégiai, mivel a folyó kanyarulatában fekvő megemelkedett terület védett a szezonális áradásoktól. Történelmileg Janjanbureh a brit gyarmati közigazgatás kulcsfontosságú bázisa volt; Georgetown városát 1823-ban alapították a felszabadított rabszolgák letelepítésére és a folyami kereskedelem ellenőrzésére. Gazdaságilag a sziget ma a körzet adminisztratív központja, és egyre fontosabb szerepet játszik a kulturális turizmusban. Az épített örökség, a 19. századi gyarmati raktárakkal és hivatali épületekkel, hűen tükrözi a múltbeli kereskedelmi dinamikát. Ökológiailag a szigetet sűrű folyóparti növényzet szegélyezi, amely számos hüllőfajnak és madárnak nyújt menedéket. Technikai szempontból a sziget megközelítése kompon vagy az új hídon keresztül történik, ami elengedhetetlen a helyi rizstermelés logisztikájához. A sziget kulturális jelentőségét fokozza a közeli Wassu kőkörök közelsége, amelyekkel együtt a térség az ország történelmi emlékezetének egyik legfontosabb tartóoszlopa.",
+        "ro": "Insula Janjanbureh, cunoscută istoric sub numele de Insula MacCarthy, este o insulă fluvială situată în districtul Central River, la aproximativ 280 km în interiorul continentului. Din punct de vedere geografic, insula ocupă o poziție strategică într-o buclă a râului Gambia, fiind ferită de inundațiile majore datorită elevației sale naturale. Istoric, a reprezentat un punct central al administrației britanice; orașul Georgetown a fost fondat în 1823 ca refugiu pentru sclavii eliberați și ca bază pentru suprimarea traficului ilegal de persoane. Economic, Janjanbureh este centrul administrativ al regiunii și un pol de atracție pentru turismul istoric. Arhitectura colonială degradată a depozitelor și clădirilor guvernamentale oferă indicii despre importanța sa comercială în secolul al XIX-lea. Ecologic, insula este înconjurată de păduri riverane care susțin o biodiversitate bogată, în special avifaună și reptile. Din punct de vedere tehnic, conectivitatea insulei a fost mult îmbunătățită prin construcția podului care o leagă de malul de sud, facilitând transportul agricol regional. Situl rămâne un reper cultural major, fiind strâns legat de istoria eliberării sclavilor și de tradițiile orale ale popoarelor Mandinka și Fula din centrul Gambiei.",
+        "en": "Janjanbureh Island, historically known as MacCarthy Island, is a significant river island in the Central River District, located approximately 280 kilometers upstream from the Atlantic coast. Geographically, the island occupies a strategic position within a broad bend of the Gambia River, featuring elevated terrain that naturally protects it from seasonal flooding. Historically, Janjanbureh served as a vital colonial administrative outpost; the town of Georgetown was established in 1823 to resettle liberated slaves and to secure British control over inland river trade. Economically, the island functions today as the administrative capital of the region and a growing center for heritage tourism. Its urban landscape is defined by 19th-century colonial structures and former merchant warehouses that reflect its commercial past. Ecologically, the island is fringed by dense riparian vegetation, providing habitat for diverse bird species and reptiles. Technically, access is facilitated by both a ferry service and a modern bridge, which are crucial for the regional transport of agricultural goods, particularly rice. The island’s significance is further enhanced by its proximity to the Wassu Stone Circles, making it a cornerstone of Gambian historical and cultural identity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Historisches Zentrum für die Ansiedlung befreiter Sklaven ab 1823.",
+          "Früherer britischer Name: MacCarthy Island; Stadtname: Georgetown.",
+          "Beherbergt Relikte kolonialer Lagerhäuser aus der Erdnusshandel-Ära.",
+          "Strategischer Verbindungspunkt zwischen dem Nord- und Südufer.",
+          "Wichtiger Standort für den Ökotourismus im Landesinneren.",
+          "Zentrum des Kankurang-Maskenfestivals (UNESCO-Weltkulturerbe)."
+        ],
+        "hu": [
+          "1823-ban alapították a felszabadított rabszolgák számára.",
+          "Korábbi brit neve MacCarthy-sziget, a városé pedig Georgetown volt.",
+          "A 19. századi mogyorókereskedelem fontos folyami raktárbázisa.",
+          "Stratégiai átkelőhely a Gambia-folyó két partja között.",
+          "A szárazföldi ökoturizmus és madármegfigyelés egyik központja.",
+          "A Kankurang maszkos rituálék (UNESCO örökség) egyik fő helyszíne."
+        ],
+        "ro": [
+          "Fondat în 1823 ca așezare pentru sclavii eliberați de Marina Regală.",
+          "Cunoscut anterior sub numele britanic de Insula MacCarthy.",
+          "Păstrează ruinele depozitelor comerciale din secolul al XIX-lea.",
+          "Nod administrativ și logistic crucial pentru regiunea Central River.",
+          "Punct de plecare pentru explorarea cercurilor megalitice de la Wassu.",
+          "Gazda tradițiilor Kankurang, protejate de UNESCO ca patrimoniu imaterial."
+        ],
+        "en": [
+          "Established in 1823 as a settlement for liberated slaves.",
+          "Formerly known as MacCarthy Island with the main town called Georgetown.",
+          "Home to historic colonial-era warehouses and administrative buildings.",
+          "A key logistical link between the North and South Bank regions.",
+          "Renowned for its cultural tourism and traditional masking ceremonies.",
+          "Central to the region's historical role in the riverine trade economy."
+        ]
+      }
+    },
+    {
+      "id": "kunta-kinteh-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Kunta Kinteh Island, ehemals James Island, ist eine kleine befestigte Insel im Gambia-Fluss, etwa 30 Kilometer von der Mündung entfernt. Geografisch ist die Insel heute stark gefährdet, da die fortschreitende Küstenerosion ihre Fläche kontinuierlich verkleinert. Historisch gesehen ist der Ort von globaler Bedeutung und seit 2003 Teil des UNESCO-Weltkulturerbes. Er diente nacheinander Kurländern, Niederländern, Franzosen und Briten als strategischer Handelsposten. Die Insel war ein zentraler Knotenpunkt des transatlantischen Sklavenhandels, wo gefangene Afrikaner vor ihrem Abtransport nach Amerika interniert wurden. Die Ruinen von Fort James zeugen von der brutalen Logistik dieses Handels und den kriegerischen Auseinandersetzungen zwischen den europäischen Mächten um die Vorherrschaft am Gambia-Fluss. Ökonomisch ist die Insel heute ein Symbolort für den Kulturtourismus und das Ziel vieler Menschen aus der afrikanischen Diaspora. Technisch gesehen erfordert der Erhalt der Ruinen aufwendige Küstenschutzmaßnahmen, da die Fundamente durch die Gezeitenströmung unterspült werden. Der Namenswechsel im Jahr 2011 zu Ehren der literarischen Figur Kunta Kinteh aus Alex Haleys 'Roots' unterstreicht die Funktion der Insel als Mahnmal gegen die Sklaverei und als Ort der Identitätsstiftung für Westafrika.",
+        "hu": "A Kunta Kinteh-sziget, korábbi nevén James-sziget, egy apró erődített sziget a Gambia-folyó torkolatától mintegy 30 kilométerre. Földrajzilag a sziget ma súlyosan veszélyeztetett, mivel a folyamatos erózió drasztikusan csökkentette eredeti területét. Történelmileg a helyszín globális jelentőségű, 2003 óta az UNESCO Világörökség része. Stratégiai kereskedelmi posztként szolgált a kurlandiak, hollandok, franciák és britek számára. A sziget a transzatlanti rabszolga-kereskedelem egyik központi csomópontja volt, ahol a foglyul ejtett afrikaiakat őrizték az Amerikába történő szállítás előtt. A Fort James romjai a rabszolga-kereskedelem kegyetlen logisztikájáról és az európai hatalmak közötti, a folyó feletti ellenőrzésért vívott harcokról tanúskodnak. Gazdaságilag a sziget ma a kulturális turizmus szimbóluma, amely az afrikai diaszpóra tagjait vonzza. Technikai szempontból a romok megőrzése komoly partvédelmi munkálatokat igényel, mivel az alapokat az árapály folyamatosan alá mossa. A sziget 2011-es átnevezése Kunta Kinteh, Alex Haley 'Gyökerek' című művének főhőse tiszteletére, hangsúlyozza a hely rabszolgaság elleni mementó szerepét és identitásformáló erejét Nyugat-Afrikában.",
+        "ro": "Insula Kunta Kinteh, fostă Insula James, este o mică insulă fortificată situată în albia râului Gambia, la aproximativ 30 km de vărsare. Din punct de vedere geografic, insula este în prezent într-o stare precară, suprafața sa fiind redusă constant de eroziunea fluvială și marină. Istoric, situl are o importanță universală, fiind inclus în Patrimoniul Mondial UNESCO din 2003. A servit drept punct comercial strategic pentru curlandezi, olandezi, francezi și britanici. Insula a fost un centru major al comerțului transatlantic cu sclavi, servind ca punct de colectare și tranzit pentru mii de africani capturați înainte de a fi trimiși în Americi. Ruinele Fortului James sunt martore ale logisticii brutale a sclaviei și ale conflictelor coloniale pentru controlul accesului pe râu. Economic, insula este astăzi un simbol al turismului de memorie, atrăgând vizitatori din întreaga lume, în special din diaspora africană. Din punct de vedere tehnic, conservarea structurilor istorice necesită intervenții urgente de stabilizare a malurilor. Redenumirea insulei în 2011, în onoarea personajului Kunta Kinteh din romanul 'Roots', subliniază rolul său de monument național și loc de reflecție asupra suferinței umane cauzate de colonialism.",
+        "en": "Kunta Kinteh Island, formerly James Island, is a small fortified island in the Gambia River, situated about 30 kilometers from the Atlantic estuary. Geographically, the island is critically endangered, as ongoing erosion has significantly reduced its landmass over centuries. Historically, the site is of immense global importance and was designated a UNESCO World Heritage site in 2003. It served as a strategic trading post for Courlanders, Dutch, French, and British powers. Most notably, the island was a key transit point in the transatlantic slave trade, where captured Africans were held in brutal conditions before being shipped to the Americas. The ruins of Fort James stand as a stark reminder of this human tragedy and the colonial struggles for control over the river. Economically, the island is now a centerpiece of Gambian heritage tourism, drawing visitors from across the African diaspora. Technically, preserving the site requires complex coastal engineering to protect the remaining structures from tidal surges. Renamed in 2011 after the protagonist of Alex Haley's 'Roots,' the island serves as a powerful memorial to the transatlantic slave trade and a symbol of West African resilience."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Seit 2003 anerkanntes UNESCO-Weltkulturerbe.",
+          "Ehemals James Island, 2011 offiziell umbenannt.",
+          "Beherbergt die Ruinen von Fort James aus dem 17. Jahrhundert.",
+          "Historisch heftig umkämpft zwischen Briten und Franzosen.",
+          "Stark von Erosion betroffen; nur noch ein Bruchteil der Originalgröße.",
+          "Zentraler Schauplatz der Sklavenverschiffung in Westafrika."
+        ],
+        "hu": [
+          "2003 óta az UNESCO Világörökség része.",
+          "Korábban James-szigetként ismerték, 2011-ben nevezték át.",
+          "A 17. századi Fort James romjai találhatóak rajta.",
+          "Stratégiai fontossága miatt a brit és francia flotta is többször ostromolta.",
+          "A folyóvízi erózió miatt eredeti területének nagy részét elveszítette.",
+          "A rabszolga-kereskedelem egyik legfontosabb afrikai emlékhelye."
+        ],
+        "ro": [
+          "Inclusă în Patrimoniul Mondial UNESCO în anul 2003.",
+          "Redenumită oficial în 2011 după personajul Kunta Kinteh.",
+          "Adăpostește ruinele fortului construit inițial de curlandezi.",
+          "Punct cheie în controlul traficului comercial pe fluviul Gambia.",
+          "Suprafața actuală este amenințată sever de creșterea nivelului mării.",
+          "Simbol central al rutei sclavilor în Africa de Vest."
+        ],
+        "en": [
+          "Designated as a UNESCO World Heritage Site in 2003.",
+          "Renamed in 2011 to commemorate the legacy of Kunta Kinteh.",
+          "Features the ruins of Fort James, originally built by Courlanders.",
+          "Strategically fought over by the British and French for centuries.",
+          "The island’s area is shrinking rapidly due to coastal erosion.",
+          "A primary historical site representing the transatlantic slave trade."
+        ]
+      }
+    },
+    {
+      "id": "baboon-islands-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Baboon Islands sind ein Archipel aus fünf Inseln innerhalb des River Gambia National Parks im Central River District. Diese Inseln sind geografisch durch dichten, unberührten tropischen Regenwald und Ufersavannen geprägt, die von den ruhigen Gewässern des Gambia-Flusses umschlossen werden. Ökologisch ist der Ort von herausragender Bedeutung, da er seit 1979 das Zentrum des Chimpanzee Rehabilitation Project (CRP) beherbergt. Hier werden Schimpansen (Pan troglodytes verus), die oft aus illegalem Handel oder Tierversuchen gerettet wurden, in einem geschützten Umfeld ausgewildert. Das Betreten der Inseln ist für Menschen zum Schutz der Primaten vor Krankheiten und Stress strengstens untersagt. Ökonomisch profitiert die Region durch den verantwortungsvollen Bootstourismus, bei dem Besucher die Tiere vom Wasser aus beobachten können. Technisch wird die Versorgung der Schimpansen durch ein Team von Rangern sichergestellt, die täglich Futter ergänzen und den Gesundheitszustand der Gruppen überwachen. Neben den Schimpansen bieten die Inseln Lebensraum für Flusspferde, Krokodile und hunderte Vogelarten. Das Projekt gilt als Pionierarbeit im Bereich der Primatenforschung und hat dazu beigetragen, dass die Schimpansenpopulation in Gambia nach ihrer fast vollständigen Ausrottung wieder stabilisiert werden konnte.",
+        "hu": "A Baboon-szigetek egy öt szigetből álló szigetcsoport a River Gambia Nemzeti Park területén, a Central River körzetben. Földrajzilag a szigeteket sűrű, érintetlen trópusi esőerdők és folyóparti szavannák jellemzik, amelyeket a Gambia-folyó csendes vize vesz körül. Ökológiai szempontból a hely kiemelkedő jelentőségű, mivel 1979 óta itt működik a Csimpánz Rehabilitációs Projekt (CRP). Ebben a projektben illegális kereskedelemből vagy állatkísérletekből kimentett csimpánzokat (Pan troglodytes verus) telepítenek vissza védett környezetbe. A szigetekre való belépés tilos az emberek számára, hogy megvédjék a főemlősöket a fertőzésektől és a stressztől. Gazdaságilag a régió a felelős csónakos turizmusból profitál, ahol a látogatók a vízről figyelhetik meg az állatokat. Technikai értelemben a csimpánzok ellátását egy vadőrcsapat biztosítja, akik naponta pótolják az élelmet és figyelemmel kísérik a csoportok egészségi állapotát. A csimpánzokon kívül a szigetek élőhelyet biztosítanak vízilovaknak, krokodiloknak és több száz madárfajnak. A projekt úttörőnek számít a főemlőskutatásban, és segített stabilizálni a korábban majdnem teljesen kiirtott gambiai csimpánzpopulációt.",
+        "ro": "Insulele Baboon reprezintă un arhipelag format din cinci insule în interiorul Parcului Național River Gambia, situat în districtul Central River. Geografic, insulele sunt acoperite de păduri tropicale primare și savane de mal, fiind izolate de cursul principal al râului Gambia. Importanța ecologică a sitului este majoră, găzduind din 1979 Proiectul de Reabilitare a Cimpanzeilor (CRP). Aici, cimpanzeii (Pan troglodytes verus) salvați din comerțul ilegal sau laboratoare sunt reintroduși într-un mediu semi-sălbatic protejat. Accesul uman pe insule este strict interzis pentru a preveni transmiterea bolilor respiratorii umane către primate. Din punct de vedere economic, zona atrage turiști interesați de safari-uri fluviale, veniturile fiind direcționate către paza și conservarea parcului. Tehnic, managementul proiectului implică monitorizarea zilnică de către rangeri și suplimentarea hranei în perioadele critice. Pe lângă cimpanzei, insulele sunt populate de hipopotami, crocodili de Nil și o varietate imensă de păsări acvatice. Succesul acestui program a transformat Gambia într-un punct de referință mondial pentru conservarea speciilor de maimuțe mari, demonstrând viabilitatea proiectelor de reintroducere pe termen lung.",
+        "en": "The Baboon Islands are an archipelago of five islands located within the River Gambia National Park in the Central River District. Geographically, the islands are characterized by dense, pristine tropical rainforest and riparian savannah, completely surrounded by the tranquil waters of the Gambia River. Ecologically, the site is of exceptional value as it has hosted the Chimpanzee Rehabilitation Project (CRP) since 1979. Here, Western Chimpanzees (Pan troglodytes verus), often rescued from illegal trade or captivity, are reintroduced into a protected natural habitat. Human landing on the islands is strictly forbidden to protect the primates from potential human diseases and stress. Economically, the region benefits from regulated boat-based tourism, allowing visitors to observe the wildlife from a safe distance on the water. Technically, the project is maintained by a dedicated team of rangers who provide supplemental feeding and monitor the social health of the various chimpanzee troops. In addition to chimpanzees, the islands provide sanctuary for hippos, crocodiles, and hundreds of bird species. The project is a global pioneer in primate conservation, having successfully re-established a thriving chimpanzee population in a region where they were once nearly extinct."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Heimat des weltweit renommierten Chimpanzee Rehabilitation Project.",
+          "Betreten der Inseln ist zum Schutz der Primaten für Menschen verboten.",
+          "Besteht aus drei Hauptinseln und zwei kleineren Eilanden.",
+          "Wichtiger Lebensraum für den Roten Stummelaffen und Meerkatzen.",
+          "Beherbergt eine stabile Population von Flusspferden in den Seitenarmen.",
+          "Die Inseln sind Teil des 1978 gegründeten Nationalparks."
+        ],
+        "hu": [
+          "A világhírű Csimpánz Rehabilitációs Projekt (CRP) otthona.",
+          "A főemlősök védelmében tilos a szigetekre való belépés.",
+          "Három nagyobb és két kisebb sziget alkotja a csoportot.",
+          "A csimpánzok mellett vörös kolobuszok és cerkófok is élnek itt.",
+          "A folyóágakban jelentős víziló-populáció figyelhető meg.",
+          "A terület az 1978-ban alapított nemzeti park magját képezi."
+        ],
+        "ro": [
+          "Centrul celui mai longeviv proiect de reabilitare a cimpanzeilor din Africa.",
+          "Interdicție totală de debarcare pentru vizitatori pe toate cele 5 insule.",
+          "Habitat protejat pentru cimpanzeul de vest (Pan troglodytes verus).",
+          "Include zone de pădure tropicală umedă rară în această regiune.",
+          "Monitorizare permanentă asigurată de Departamentul de Faună Sălbatică.",
+          "Zona este recunoscută internațional pentru densitatea de hipopotami."
+        ],
+        "en": [
+          "Home to the internationally acclaimed Chimpanzee Rehabilitation Project.",
+          "Human access to the islands is strictly prohibited for animal safety.",
+          "Consists of five distinct islands within the Gambia River's main flow.",
+          "A critical sanctuary for the endangered Western Red Colobus monkey.",
+          "Regularly features sightings of large hippo pods in the surrounding waters.",
+          "Established as part of a national strategy to reintroduce native primates."
+        ]
+      }
+    },
+    {
+      "id": "jinack-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Jinack Island liegt im äußersten Nordwesten Gambias und ist Teil des Niumi National Parks an der Grenze zum Senegal. Geografisch ist die Insel durch eine flache Küstenlandschaft mit ausgedehnten Sanddünen, Salzwiesen und Mangrovensümpfen geprägt, die den Übergang zum Delta du Saloum bilden. Ökologisch ist Jinack von enormer Bedeutung als Nistplatz für gefährdete Meeresschildkröten und als Rastgebiet für tausende Zugvögel auf der ostatlantischen Flugroute. Die Insel beherbergt zudem eine kleine Population von Delfinen in den küstennahen Gewässern. Historisch war die Insel aufgrund ihrer abgeschiedenen Lage ein Rückzugsort für lokale Fischergemeinschaften und spielte eine Rolle im regionalen Kleinhandel zwischen den Flussmündungen. Ökonomisch basiert das Leben auf Jinack auf der Subsistenzfischerei und einem aufstrebenden, sehr ursprünglichen Ökotourismus. Technisch ist die Insel nur per Boot von Barra oder über Kanäle vom Festland aus erreichbar, was ihre ökologische Integrität bisher weitgehend bewahrt hat. Ein besonderes Merkmal sind die weiten, unberührten Strände, die zu den längsten des Landes gehören. Die Insel steht vor der Herausforderung des steigenden Meeresspiegels, was die empfindlichen Dünensysteme bedroht.",
+        "hu": "Jinack-sziget Gambia legészaknyugatibb részén található, és a Niumi Nemzeti Park részeként a szenegáli határnál fekszik. Földrajzilag a szigetet lapos parti táj jellemzi, kiterjedt homokdűnékkel, sós mocsarakkal és mangroveerdőkkel, amelyek a Saloum-delta felé képeznek átmenetet. Ökológiailag Jinack óriási jelentőségű a veszélyeztetett tengeri teknősök fészkelőhelyeként, valamint vándormadarak ezreinek pihenőhelyeként az kelet-atlanti vonulási útvonalon. A sziget körüli vizekben egy kisebb delfinpopuláció is él. Történelmileg az elszigetelt fekvése miatt a sziget a helyi halászközösségek menedékhelye volt, és szerepet játszott a folyótorkolatok közötti regionális kiskereskedelemben. Gazdaságilag az élet Jinackon az önellátó halászaton és a felemelkedőben lévő, rendkívül természetközeli ökoturizmuson alapul. Technikai szempontból a sziget csak Barrából induló hajóval vagy a szárazföld felőli csatornákon keresztül érhető el, ami eddig megőrizte ökológiai épségét. Különleges jellemzői a széles, érintetlen strandok, amelyek az ország leghosszabbjai közé tartoznak. A sziget előtt álló legnagyobb kihívás a tengerszint emelkedése, amely veszélyezteti az érzékeny dűnerendszereket.",
+        "ro": "Insula Jinack este situată în extremitatea nord-vestică a Gambiei, făcând parte din Parcul Național Niumi, la granița cu Senegal. Din punct de vedere geografic, insula este definită de un peisaj costier plat, cu dune de nisip extinse, mlaștini sărate și păduri de mangrove care fac tranziția către Delta Saloum. Ecologic, Jinack este de o importanță vitală ca loc de cuibărit pentru țestoasele marine aflate în pericol și ca zonă de odihnă pentru mii de păsări migratoare pe ruta est-atlantică. Apele din jurul insulei adăpostesc, de asemenea, o populație rezidentă de delfini. Istoric, izolarea sa a făcut din Jinack un refugiu pentru comunitățile de pescari locali și un punct de schimb comercial minor între estuarele regiunii. Din punct de vedere economic, activitatea principală rămâne pescuitul de subzistență, completat de un ecoturism emergent, axat pe simplitate și natură. Tehnic, accesul pe insulă este posibil doar cu barca din Barra sau prin canalele dinspre interior, ceea ce a contribuit la menținerea integrității ecosistemului. Plajele sale virgine sunt printre cele mai lungi și mai puțin exploatate din Gambia. Provocarea majoră pentru viitor este creșterea nivelului oceanului, care amenință sistemele fragile de dune și habitatele costiere.",
+        "en": "Jinack Island is located in the far northwest of The Gambia, forming an integral part of the Niumi National Park adjacent to the Senegalese border. Geographically, the island is characterized by a flat coastal landscape featuring extensive sand dunes, salt marshes, and mangrove swamps that transition into the Saloum Delta. Ecologically, Jinack is of immense importance as a nesting ground for endangered sea turtles and a critical stopover for thousands of migratory birds along the East Atlantic Flyway. The coastal waters surrounding the island are also home to a resident population of dolphins. Historically, its isolated location made it a sanctuary for local fishing communities and a minor hub for regional trade between river estuaries. Economically, livelihoods on Jinack are based on subsistence fishing and a developing, low-impact form of ecotourism. Technically, the island is accessible only by boat from Barra or via creeks from the mainland, a factor that has largely preserved its ecological integrity. A notable feature is its vast, undisturbed beaches, which are among the longest in the country. The island faces significant environmental challenges from rising sea levels, which threaten its sensitive dune systems and coastal habitats."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des grenzüberschreitenden Niumi-Saloum-Nationalparks.",
+          "Wichtigstes Nistgebiet für Grüne Meeresschildkröten in Gambia.",
+          "Besteht aus über 11 Kilometern fast unberührtem Sandstrand.",
+          "Beherbergt eine seltene Population des Atlantischen Buckeldelfins.",
+          "Nur per Boot erreichbar; weitgehend autofreie Zone.",
+          "Wichtiger Standort für den internationalen Schutz von Feuchtgebieten."
+        ],
+        "hu": [
+          "A határokon átnyúló Niumi-Saloum Nemzeti Park része.",
+          "Gambia legfontosabb fészkelőhelye a közönséges levesteknősök számára.",
+          "Több mint 11 kilométernyi érintetlen homokos parttal rendelkezik.",
+          "Az atlanti púposdelfinek egyik ritka megfigyelőhelye a közelben.",
+          "Csak hajóval érhető el, gyakorlatilag autómentes terület.",
+          "Nemzetközi jelentőségű vizes élőhelyi védelmi terület."
+        ],
+        "ro": [
+          "Integrată în Parcul Național Niumi, sit transfrontalier UNESCO.",
+          "Principalul loc de depunere a ouălor pentru țestoasele verzi.",
+          "Plaja Jinack se întinde pe mai mult de 11 km de nisip fin.",
+          "Apele litorale sunt frecventate de delfini cu cocoașă africani.",
+          "Accesibilitate limitată, asigurând protecția împotriva turismului de masă.",
+          "Ecosistem fragil amenințat direct de eroziunea eoliană și marină."
+        ],
+        "en": [
+          "Part of the cross-border Niumi-Saloum National Park complex.",
+          "Key nesting site for endangered Green and Loggerhead turtles.",
+          "Features over 11 kilometers of pristine, undeveloped coastline.",
+          "The surrounding waters are a sanctuary for the Atlantic humpback dolphin.",
+          "Accessible only by water, maintaining a quiet, car-free environment.",
+          "A vital component of the regional wetland conservation strategy."
+        ]
+      }
+    },
+    {
+      "id": "st-marys-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "St. Mary's Island ist die Sandinsel an der Mündung des Gambia-Flusses, auf der die Landeshauptstadt Banjul liegt. Geografisch ist die Insel durch eine sehr geringe Erhebung über dem Meeresspiegel und die direkte Verbindung zum Tanbi Wetland Complex im Süden charakterisiert. Historisch markiert die Insel den Beginn der modernen gambischen Geschichte; sie wurde 1816 von den Briten besetzt und als Standort für Banjul (ehemals Bathurst) gewählt, um von hier aus den transatlantischen Sklavenhandel effektiv zu unterbinden. Ökonomisch ist die Insel das administrative und kommerzielle Herz des Landes, beherbergt den einzigen Tiefseehafen Gambias und ist der Knotenpunkt für den internationalen Handel. Technisch gesehen ist die Insel über die Denton Bridge mit dem Festland verbunden und durch den Oyster Creek von den Mangrovenwäldern getrennt. Ökologisch bildet St. Mary's Island den nördlichen Abschluss eines riesigen Mangrovensystems, das als natürliche Kläranlage und Küstenschutz fungiert. Die Insel steht vor massiven ökologischen Herausforderungen durch den Anstieg des Meeresspiegels und die Versandung der Kanäle, was die Stadtplanung von Banjul vor große Probleme stellt. Dennoch bleibt sie das vitale Bindeglied zwischen dem Atlantik und dem Hinterland.",
+        "hu": "St. Mary-sziget egy homoksziget a Gambia-folyó torkolatánál, ahol az ország fővárosa, Banjul található. Földrajzilag a szigetet a tengerszint feletti igen alacsony magasság és a déli irányban a Tanbi vizes élőhely komplexumhoz való közvetlen csatlakozás jellemzi. Történelmileg a sziget a modern gambiai történelem kezdetét jelenti; 1816-ban foglalták el a britek, és itt alapították meg Banjult (korábban Bathurst), hogy hatékonyan fellépjenek a transzatlanti rabszolga-kereskedelem ellen. Gazdaságilag a sziget az ország adminisztratív és kereskedelmi szíve, itt található Gambia egyetlen mélyvízi kikötője, és ez a nemzetközi kereskedelem csomópontja. Technikai szempontból a szigetet a Denton Bridge köti össze a szárazfölddel, és az Oyster Creek választja el a mangroveerdőktől. Ökológiailag St. Mary-sziget egy hatalmas mangroverendszer északi lezárását alkotja, amely természetes tisztítóműként és partvédelemként funkcionál. A sziget komoly ökológiai kihívásokkal néz szembe a tengerszint emelkedése és a csatornák eliszaposodása miatt, ami nagy problémát jelent Banjul várostervezése számára. Ennek ellenére továbbra is létfontosságú kapocs marad az Atlanti-óceán és a hátország között.",
+        "ro": "Insula Sfânta Maria (St. Mary's Island) este o insulă de nisip situată la gura de vărsare a fluviului Gambia, pe care se află capitala Banjul. Geografic, insula se caracterizează printr-o elevație extrem de redusă față de nivelul mării și este conectată în sud cu vastul complex de zone umede Tanbi. Din punct de vedere istoric, insula marchează începutul istoriei moderne a Gambiei; a fost ocupată de britanici în 1816 pentru a fonda orașul Banjul (fostul Bathurst), cu scopul strategic de a suprima comerțul transatlantic cu sclavi. Economic, insula este inima administrativă și comercială a țării, găzduind singurul port de mare adâncime al Gambiei și fiind centrul comerțului internațional. Din punct de vedere tehnic, insula este legată de continent prin podul Denton și separată de pădurile de mangrove prin Oyster Creek. Ecologic, Insula Sfânta Maria reprezintă limita nordică a unui ecosistem vital de mangrove care acționează ca o barieră naturală împotriva inundațiilor. Insula se confruntă cu provocări ecologice majore cauzate de creșterea nivelului mării și eroziunea costieră, amenințând infrastructura urbană a capitalei. Cu toate acestea, rămâne punctul nodal de legătură între ocean și rutele comerciale din interiorul țării.",
+        "en": "St. Mary's Island is the low-lying sand island at the mouth of the Gambia River that hosts the nation's capital, Banjul. Geographically, the island is defined by its minimal elevation above sea level and its direct integration with the Tanbi Wetland Complex to the south. Historically, the island marks the onset of modern Gambian history; it was occupied by the British in 1816 and selected as the site for Banjul (formerly Bathurst) to strategically suppress the transatlantic slave trade. Economically, the island serves as the administrative and commercial heart of the country, containing The Gambia’s only deep-water port and acting as a hub for international trade. Technically, the island is connected to the mainland via the Denton Bridge and is separated from the vast mangrove forests by Oyster Creek. Ecologically, St. Mary's Island forms the northern boundary of a massive mangrove system that functions as a natural water purifier and coastal buffer. The island faces severe environmental threats from rising sea levels and the silting of its drainage channels, posing significant challenges for urban planning in Banjul. Despite these issues, it remains the vital link between the Atlantic Ocean and the Gambian interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Standort der Landeshauptstadt Banjul.",
+          "1816 von den Briten zur Bekämpfung der Sklaverei besetzt.",
+          "Beherbergt den wichtigsten Tiefseehafen des Landes.",
+          "Über die Denton Bridge mit dem Festland verbunden.",
+          "Gehört geografisch zum Mündungsdelta des Gambia-Flusses.",
+          "Direkt angrenzend an das UNESCO-Ramsar-Gebiet Tanbi."
+        ],
+        "hu": [
+          "Gambia fővárosának, Banjulnak a helyszíne.",
+          "1816-ban brit katonai bázisként alapították a rabszolga-kereskedelem ellen.",
+          "Itt található az ország egyetlen nemzetközi tengeri kikötője.",
+          "A Denton-híd az egyetlen közúti kapcsolat a szárazfölddel.",
+          "Alacsony fekvése miatt fokozottan veszélyezteti a tengerszint-emelkedés.",
+          "Szoros ökológiai kapcsolatban áll a Tanbi vizes élőhelyekkel."
+        ],
+        "ro": [
+          "Găzduiește orașul Banjul, capitala statului Gambia.",
+          "Ocupată de britanici în 1816 pentru a monitoriza traficul pe râu.",
+          "Centrul principal pentru logistica maritimă și exporturile țării.",
+          "Legată de restul țării prin podul Denton peste Oyster Creek.",
+          "Situată strategic la confluența fluviului cu Oceanul Atlantic.",
+          "Punct critic pentru biodiversitatea de coastă și mangrove."
+        ],
+        "en": [
+          "The site of The Gambia's capital city, Banjul.",
+          "Occupied by the British in 1816 to enforce the abolition of slavery.",
+          "Home to the nation's primary deep-water shipping port.",
+          "Connected to the mainland via the strategic Denton Bridge.",
+          "Geographically situated at the confluence of the river and the ocean.",
+          "Bordered by the ecologically significant Tanbi Wetland Complex."
+        ]
+      }
+    }
+  ]
+}

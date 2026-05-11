@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-walter-roth-museum-history-v2",
+      "descriptionAdvancedDe": "Das Walter Roth Museum für Anthropologie in Georgetown ist eine führende Institution, die sich dem Studium und der Erhaltung des reichen indigenen Erbes von Guyana widmet. Gegründet 1974, beherbergt es eine unschätzbare Sammlung von Artefakten, die vom Anthropologen Dr. Walter Roth zusammengetragen wurden. Die Ausstellungen bieten tiefe Einblicke in die Lebensweise, die sozialen Strukturen, die Mythen und die materielle Kultur der verschiedenen indigenen Völker Guyanas. Besucher können traditionelle Werkzeuge, Keramiken, Federarbeiten, Waffen und rituelle Gegenstände bewundern. Das Museum ist in einem eleganten Kolonialgebäude aus Holz untergebracht und dient nicht nur als Ausstellungsort, sondern auch als wichtiges Forschungszentrum. Es spielt eine entscheidende Rolle bei der Dokumentation und Wiederbelebung indigener Kulturen und Sprachen und fördert ein tieferes Verständnis für die ersten Bewohner Guyanas und ihren bedeutenden Beitrag zur nationalen Identität.",
+      "descriptionAdvancedHu": "A georgetowni Walter Roth Antropológiai Múzeum Guyana gazdag őslakos örökségének tanulmányozásával és megőrzésével foglalkozó vezető intézmény. Az 1974-ben alapított múzeum Dr. Walter Roth antropológus által összegyűjtött felbecsülhetetlen értékű leletgyűjteménynek ad otthont. A kiállítások mély betekintést nyújtanak Guyana különböző őslakos népeinek életmódjába, társadalmi struktúráiba, mítoszaiba és anyagi kultúrájába. A látogatók megcsodálhatják a hagyományos szerszámokat, kerámiákat, tollmunkákat, fegyvereket és rituális tárgyakat. A múzeum egy elegáns, fából készült gyarmati épületben kapott helyet, és nemcsak kiállítóhelyként, hanem fontos kutatóközpontként is szolgál. Döntő szerepet játszik az őslakos kultúrák és nyelvek dokumentálásában és újjáélesztésében, valamint elősegíti Guyana első lakóinak és a nemzeti identitáshoz való jelentős hozzájárulásuknak a mélyebb megértését.",
+      "descriptionAdvancedRo": "Muzeul de Antropologie Walter Roth din Georgetown este o instituție de frunte dedicată studiului și conservării bogatei moșteniri indigene a Guyanei. Fondat în 1974, muzeul găzduiește o colecție de neprețuit de artefacte adunate de antropologul dr. Walter Roth. Expozițiile oferă perspective profunde asupra modului de viață, structurilor sociale, miturilor și culturii materiale ale diferitelor popoare indigene din Guyana. Vizitatorii pot admira unelte tradiționale, ceramică, lucrări din pene, arme și obiecte ritualice. Găzduit într-o clădire colonială elegantă din lemn, muzeul servește nu numai ca spațiu expozițional, ci și ca un important centru de cercetare. Acesta joacă un rol crucial în documentarea și revitalizarea culturilor și limbilor indigene, promovând o înțelegere mai profundă a primilor locuitori ai Guyanei și a contribuției lor semnificative la identitatea națională.",
+      "descriptionAdvancedEn": "The Walter Roth Museum of Anthropology in Georgetown is a leading institution dedicated to the study and preservation of Guyana's rich indigenous heritage. Founded in 1974, it houses a priceless collection of artifacts gathered by the anthropologist Dr. Walter Roth. The exhibits provide deep insights into the way of life, social structures, myths, and material culture of Guyana's various indigenous peoples. Visitors can admire traditional tools, ceramics, featherwork, weapons, and ritual objects. Housed in an elegant wooden colonial building, the museum serves not only as an exhibition space but also as an important research center. It plays a crucial role in documenting and revitalizing indigenous cultures and languages, fostering a deeper understanding of Guyana's first inhabitants and their significant contribution to the national identity.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1974.",
+        "Erstes Museum für Anthropologie in der englischsprachigen Karibik.",
+        "Beherbergt die Sammlungen von Dr. Walter Roth.",
+        "Konzentriert sich auf das indigene Erbe Guyanas.",
+        "Befindet sich in einem historischen Kolonialgebäude.",
+        "Wichtige Forschungsstätte für Archäologen und Anthropologen.",
+        "Zeigt Artefakte wie Keramik, Werkzeuge und rituelle Objekte.",
+        "Fördert das Bewusstsein für die Kultur der indigenen Völker."
+      ]
+    }
+  ]
+}

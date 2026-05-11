@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "orango-nilpferde-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Schutzgebiet für Salzwassernilpferde auf der Insel Orango ist weltweit einzigartig und stellt eine biologische Sensation dar. Im Orango-Nationalpark haben sich die Flusspferde an ein Leben im Brackwasser und in den küstennahen Lagunen angepasst. Es ist einer der wenigen Orte auf der Erde, an denen man diese massiven Säugetiere im Ozean schwimmen oder am Sandstrand ruhen sehen kann. Diese ökologische Besonderheit ist eng mit der spirituellen Welt des Bijagó-Volkes verknüpft, für die das Nilpferd ein heiliges Totemtier darstellt, das nicht gejagt werden darf. Die Tiere nutzen die Süßwasserquellen im Inneren der Insel zum Trinken und Baden, wandern aber durch die Mangroven bis an die Atlantikküste. Die Erhaltung dieser Population ist eine Herausforderung, da sie ein sehr spezifisches Habitat benötigen, das sowohl dichten Wald als auch offene Lagunen umfasst. Wissenschaftler aus aller Welt besuchen Orango, um diese evolutionäre Anpassung zu studieren. Für Besucher bietet das Schutzgebiet die seltene Gelegenheit, Wildtierbeobachtung mit dem Verständnis für eine indigene Kultur zu verbinden, die den Schutz der Natur seit Jahrhunderten als Teil ihrer Identität begreift.",
+        "hu": "Az Orango-szigeten található sós vízi víziló-rezervátum a világ egyik legkülönlegesebb természetvédelmi területe, amely biológiai szenzációnak számít. Az Orango Nemzeti Park területén élő vízilovak egyedülálló módon alkalmazkodtak a sós és édesvíz elegyéhez, a brakkvízhez és a tengerparti lagúnákhoz. Ez az egyetlen hely a Földön, ahol ezeket a hatalmas emlősöket az óceán hullámai között úszni vagy a fehér homokos strandokon pihenni láthatjuk. Ez az ökológiai ritkaság szorosan összefonódik a bijagó nép spirituális világával, akik számára a víziló szent totemállat, így vadászata szigorúan tilos. Az állatok a sziget belsejében található édesvizű forrásokat használják ivásra, de rendszeresen kivándorolnak a mangrovékon keresztül az atlanti partokra. A populáció megőrzése kritikus fontosságú, mivel élőhelyük rendkívül speciális: sűrű erdőket, mocsarakat és nyílt tengerparti sávokat egyaránt igényel. A kutatók számára Orango egy szabadtéri laboratórium az evolúciós alkalmazkodás tanulmányozására. A látogatók számára a rezervátum nemcsak vadmegfigyelést kínál, hanem betekintést egy olyan őshonos kultúrába, amely évszázadok óta a természet tiszteletére és védelmére építi társadalmi rendjét.",
+        "ro": "Sanctuarul hipopotamilor de apă sărată de pe insula Orango este o raritate biologică la nivel mondial, reprezentând o adaptare evolutivă spectaculoasă. În cadrul Parcului Național Orango, hipopotamii au învățat să trăiască în lagunele de coastă și în apele salmastre ale Arhipelagului Bijagós. Este unul dintre puținele locuri de pe planetă unde aceste mamifere masive pot fi observate înotând în ocean sau odihnindu-se pe plajele cu nisip fin. Această particularitate ecologică este protejată nu doar de legile statului, ci și de tradițiile spirituale ale poporului Bijagó, care consideră hipopotamul un animal sacru și totem al comunității. Animalele depind de sursele de apă dulce din interiorul insulei pentru hidratare, dar își petrec o mare parte din timp în zonele de mangrove și pe litoral. Conservarea acestei specii unice este vitală, deoarece habitatul lor este fragil și supus schimbărilor climatice. Oamenii de știință vizitează frecvent Orango pentru a documenta comportamentul acestor animale în mediul marin. Pentru turiști, sanctuarul oferă o experiență de neegalat, împletind observarea faunei sălbatice cu descoperirea unei culturi indigene care a reușit să păstreze un echilibru perfect între om și natură de-a lungul secolelor.",
+        "en": "The saltwater hippo sanctuary on Orango Island is a global biological phenomenon and one of the most remarkable wildlife destinations in West Africa. Within the Orango National Park, hippos have uniquely adapted to live in brackish waters and coastal lagoons, making it the only place on Earth where these massive mammals are routinely seen swimming in the ocean or resting on sandy Atlantic beaches. This ecological anomaly is deeply intertwined with the spiritual beliefs of the local Bijagó people, who regard the hippo as a sacred totem animal, strictly forbidding any hunting. The animals alternate between freshwater pools in the island's interior for drinking and the coastal mangroves for foraging and cooling. Protecting this population is a significant conservation challenge, as they require a complex habitat consisting of dense forests, marshes, and open shorelines. Researchers from around the world visit Orango to study this rare evolutionary adaptation. For visitors, the sanctuary offers a profound opportunity to witness wildlife in an extraordinary setting while learning about an indigenous culture that has championed environmental stewardship as a core part of its identity for centuries."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der einzige Ort weltweit, an dem Nilpferde im Salzwasser leben.",
+          "Die Tiere werden von der lokalen Bevölkerung als heilig verehrt.",
+          "Das Schutzgebiet ist Teil des Orango-Nationalparks.",
+          "Die Beobachtung ist meist nur während der Regenzeit optimal möglich.",
+          "Nilpferde wandern täglich zwischen Süßwasserquellen und dem Meer.",
+          "Das Bijagó-Volk schützt die Tiere durch traditionelle Tabus."
+        ],
+        "hu": [
+          "Ez az egyetlen hely a világon, ahol a vízilovak a tengerben úsznak.",
+          "A helyi bijagó közösségek totemállatként tisztelik és védik őket.",
+          "A rezervátum az UNESCO bioszféra-rezervátum hálózatának része.",
+          "Az állatok sós vízi életmódja egyedülálló evolúciós válasz.",
+          "A megfigyelésükhöz gyakran több órás gyalogút szükséges a mocsarakon át.",
+          "A populáció mérete szigorúan ellenőrzött és védett."
+        ],
+        "ro": [
+          "Hipopotamii din Orango sunt singurii din lume care intră în apele oceanului.",
+          "Sunt protejați de tabuuri religioase ancestrale ale etniei Bijagó.",
+          "Sanctuarul este piesa centrală a Parcului Național Orango.",
+          "Accesul în zonele de observație se face doar cu ghizi locali autorizați.",
+          "Dieta lor include ierburi specifice zonelor de tranziție costieră.",
+          "Specia este monitorizată pentru a înțelege rezistența la salinitate."
+        ],
+        "en": [
+          "Orango is the only place globally where hippos inhabit a marine environment.",
+          "Local spiritual laws protect the hippos from any form of hunting.",
+          "The sanctuary is located within one of the largest protected areas in the archipelago.",
+          "The hippos are most active in the coastal zones during the early morning.",
+          "Their survival depends on a delicate balance of fresh and salt water access.",
+          "It is a key site for international marine biology research."
+        ]
+      }
+    },
+    {
+      "id": "cantanhez-schimpansen-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Cantanhez-Wald im Süden von Guinea-Bissau beherbergt eine der letzten bedeutenden Populationen des Westafrikanischen Schimpansen (Pan troglodytes verus). Dieses Gebiet stellt den letzten primären Regenwald des Landes dar und ist ein kritischer Hotspot der Biodiversität. Die Schimpansen von Cantanhez leben in einer einzigartigen Koexistenz mit der lokalen Bevölkerung, da der Wald in ein Mosaik aus landwirtschaftlichen Flächen und heiligen Hainen unterteilt ist. Der Schutz dieser Primaten basiert auf einem gemeindebasierten Modell, bei dem die Einheimischen als Hüter des Waldes fungieren. Die Forschung zeigt, dass die Schimpansen hier komplexe soziale Strukturen und Werkzeuggebrauch entwickelt haben, der spezifisch für diese Region ist. Das dichte Kronendach des Waldes bietet ihnen Schutz, während die Vielfalt an Früchten und Nüssen ihre Nahrungsgrundlage sichert. Trotz der Bedrohungen durch Abholzung und Landwirtschaft bleibt Cantanhez ein Refugium der Hoffnung für das Überleben dieser bedrohten Art. Ein Besuch in diesem Gebiet erfordert Geduld und Respekt gegenüber dem Ökosystem, bietet jedoch die seltene Chance, unsere nächsten Verwandten in einer Umgebung zu erleben, die seit Jahrtausenden nahezu unverändert geblieben ist.",
+        "hu": "A Guinea-Bissau déli részén található Cantanhez-erdő ad otthont a nyugat-afrikai csimpánzok (Pan troglodytes verus) egyik utolsó jelentős populációjának. Ez a terület az ország utolsó érintetlen esőerdő-maradványa, és a biodiverzitás szempontjából kritikus fontosságú terület. A cantanhezi csimpánzok egyedülálló módon élnek együtt a helyi lakossággal, mivel az erdő mezőgazdasági területek és szent ligetek mozaikjából áll. A főemlősök védelme egy közösségi alapú modellen nyugszik, ahol a helyiek az erdő őrzőiként tevékenykednek. A kutatások kimutatták, hogy az itt élő csimpánzok komplex szociális struktúrákat és a régióra jellemző eszközhasználati módokat fejlesztettek ki. Az erdő sűrű lombkoronája védelmet nyújt számukra, míg a gyümölcsök és diófélék bősége biztosítja táplálékukat. A fakitermelés és a mezőgazdaság jelentette fenyegetés ellenére Cantanhez továbbra is a remény szigete e veszélyeztetett faj túlélése szempontjából. A terület látogatása türelmet és az ökoszisztéma iránti mély tiszteletet igényel, de ritka lehetőséget kínál arra, hogy legközelebbi rokonainkat egy olyan környezetben láthassuk, amely évezredek óta szinte változatlan maradt.",
+        "ro": "Pădurea Cantanhez, situată în sudul Guineei-Bissau, adăpostește una dintre ultimele populații semnificative de cimpanzei vest-africani (Pan troglodytes verus). Această zonă reprezintă ultimul vestigiu de pădure tropicală primară din țară și este un punct critic pentru biodiversitate. Cimpanzeii din Cantanhez trăiesc într-o coexistență unică cu populația locală, deoarece pădurea este fragmentată într-un mozaic de terenuri agricole și crânguri sacre. Protecția acestor primate se bazează pe un model comunitar, în care localnicii acționează ca protectori ai pădurii. Cercetările indică faptul că cimpanzeii de aici au dezvoltat structuri sociale complexe și metode de utilizare a uneltelor specifice acestei regiuni. Coronamentul dens al pădurii le oferă adăpost, în timp ce varietatea de fructe și nuci le asigură baza alimentară. În ciuda amenințărilor reprezentate de defrișări și agricultură, Cantanhez rămâne un refugiu al speranței pentru supraviețuirea acestei specii periclitate. O vizită în această zonă necesită răbdare și respect față de ecosistem, dar oferă șansa rară de a observa cele mai apropiate rude ale noastre într-un mediu care a rămas aproape neschimbat de milenii.",
+        "en": "The Cantanhez Forest in southern Guinea-Bissau is home to one of the last significant populations of the Western Chimpanzee (Pan troglodytes verus). This area represents the country's last remaining primary rainforest and is a critical biodiversity hotspot. The chimpanzees of Cantanhez live in a unique coexistence with the local human population, as the forest is structured as a mosaic of agricultural plots and sacred groves. The protection of these primates relies on a community-based conservation model, where local residents act as guardians of the forest. Research has shown that the chimpanzees here have developed complex social structures and region-specific tool-use behaviors. The forest's dense canopy provides vital shelter, while the abundance of wild fruits and nuts sustains their diet. Despite threats from deforestation and expanding agriculture, Cantanhez remains a refuge of hope for the survival of this endangered species. Visiting this area requires patience and deep respect for the ecosystem, but it offers a rare chance to witness our closest relatives in a habitat that has remained largely unchanged for millennia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cantanhez ist der letzte Primärregenwald in Guinea-Bissau.",
+          "Die Schimpansen nutzen Steine als Werkzeuge, um Nüsse zu knacken.",
+          "Das Schutzgebiet wird von der lokalen Bevölkerung mitverwaltet.",
+          "Wissenschaftler untersuchen hier die Interaktion zwischen Mensch und Primat.",
+          "Der Wald beherbergt über 300 verschiedene Vogelarten.",
+          "Es ist einer der wichtigsten Orte für den Schutz von Pan troglodytes verus."
+        ],
+        "hu": [
+          "Cantanhez az ország utolsó elsődleges esőerdője.",
+          "Az itteni csimpánzok híresek a kőeszközökkel végzett diótörésről.",
+          "A védett terület a helyi falvak spirituális felügyelete alatt is áll.",
+          "A terület a Tombali régióban, az ország déli részén található.",
+          "Az erdőben több mint 300 madárfaj él együtt a majmokkal.",
+          "A rezervátum a közösségi természetvédelem nemzetközi példaképe."
+        ],
+        "ro": [
+          "Cantanhez este ultima pădure tropicală virgină din Guineea-Bissau.",
+          "Cimpanzeii de aici utilizează unelte complexe pentru a obține hrană.",
+          "Protecția speciei este asigurată prin implicarea directă a comunităților locale.",
+          "Pădurea este considerată sacră de multe triburi din regiunea Tombali.",
+          "Biodiversitatea zonei include și numeroase specii de păsări endemice.",
+          "Este un sit esențial pentru conservarea cimpanzeului vest-african."
+        ],
+        "en": [
+          "Cantanhez is the last remaining primary rainforest in Guinea-Bissau.",
+          "The resident chimpanzees are known for their sophisticated tool use.",
+          "The habitat is managed through a community-led conservation initiative.",
+          "It is located in the remote southern Tombali region.",
+          "The forest supports over 300 bird species alongside the primates.",
+          "Cantanhez is a critical site for the global survival of the Western Chimpanzee."
+        ]
+      }
+    },
+    {
+      "id": "poilao-schildkroeten-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Poilão im João-Vieira-Poilão-Nationalpark ist der bedeutendste Nistplatz für die Suppenschildkröte (Chelonia mydas) an der gesamten westafrikanischen Küste. Jedes Jahr zwischen August und Januar kommen tausende Schildkröten an die Strände dieser winzigen, unbewohnten Insel, um ihre Eier abzulegen. Poilão gilt als heiliger Ort für die Bewohner der Nachbarinseln, was den Schutz des Gebiets massiv verstärkt hat, da der Zugang traditionell streng reglementiert ist. Die Dunkelheit der Nächte und das Fehlen künstlicher Lichtquellen machen diesen Ort zu einem idealen Refugium für die empfindlichen Reptilien. Forscher und Naturschützer arbeiten hier eng mit lokalen Gemeinschaften zusammen, um die Nester vor natürlichen Feinden und dem Klimawandel zu schützen. Das Spektakel der schlüpfenden Jungtiere, die ihren Weg ins Meer suchen, ist ein ergreifendes Zeugnis der Natur. Die Insel selbst ist von kristallklarem Wasser und Korallenriffen umgeben, was sie zu einem der unberührtesten Orte im Bijagós-Archipel macht. Poilão ist ein leuchtendes Beispiel dafür, wie indigene Tabus und moderne Naturschutzbiologie gemeinsam das Überleben einer global gefährdeten Art sichern können.",
+        "hu": "A João Vieira-Poilão Nemzeti Parkban található Poilão-sziget az egész nyugat-afrikai partvidék legfontosabb fészkelőhelye a közönséges levesteknősök (Chelonia mydas) számára. Minden évben augusztus és január között teknősök ezrei érkeznek e piciny, lakatlan sziget strandjaira, hogy lerakják tojásaikat. Poilão szent helynek számít a szomszédos szigetek lakói számára, ami jelentősen hozzájárult a terület védelméhez, mivel a belépés hagyományosan szigorúan korlátozott. Az éjszakai sötétség és a mesterséges fényforrások hiánya ideális menedékké teszi a szigetet ezen érzékeny hüllők számára. Kutatók és természetvédők szorosan együttműködnek a helyi közösségekkel, hogy megvédjék a fészkeket a természetes ellenségektől és a klímaváltozás hatásaitól. A tenger felé igyekvő, frissen kikelt teknősfiókák látványa a természet egyik legmeghatóbb eseménye. A szigetet kristálytiszta víz és korallzátonyok veszik körül, így a Bijagós-szigetcsoport egyik legérintetlenebb pontja. Poilão kiváló példája annak, hogyan tudják az őshonos tabuk és a modern természetvédelmi biológia együttesen garantálni egy globálisan veszélyeztetett faj túlélését.",
+        "ro": "Insula Poilão, parte a Parcului Național João Vieira-Poilão, este cel mai important loc de cuibărit pentru țestoasa verde (Chelonia mydas) de pe întreaga coastă a Africii de Vest. În fiecare an, între lunile august și ianuarie, mii de țestoase vin pe plajele acestei insule minuscule și nelocuite pentru a-și depune ouăle. Poilão este considerată un loc sacru de către locuitorii insulelor vecine, ceea ce a întărit semnificativ protecția zonei, accesul fiind tradițional restricționat. Întunericul deplin al nopților și absența surselor de lumină artificială fac din acest loc un refugiu ideal pentru aceste reptile sensibile. Cercetătorii și conservaționiștii lucrează îndeaproape cu comunitățile locale pentru a proteja cuiburile de prădători și de efectele schimbărilor climatice. Spectacolul puilor de țestoasă care eclozează și își croiesc drum spre mare este o dovadă emoționantă a forței naturii. Insula este înconjurată de ape cristaline și recife de corali, fiind unul dintre cele mai virgine locuri din Arhipelagul Bijagós. Poilão este un exemplu strălucit al modului în care tabuurile indigene și biologia modernă de conservare pot asigura împreună supraviețuirea unei specii periclitate la nivel global.",
+        "en": "Poilão Island, located within the João Vieira-Poilão National Park, is the most significant nesting site for the Green Sea Turtle (Chelonia mydas) along the entire West African coast. Every year between August and January, thousands of turtles emerge onto the beaches of this tiny, uninhabited island to lay their eggs. Poilão is regarded as a sacred site by the inhabitants of the neighboring islands, which has historically bolstered its protection as access is traditionally strictly regulated. The absolute darkness and lack of artificial light sources make the island an ideal sanctuary for these sensitive reptiles. Conservationists and researchers work hand-in-hand with local communities to monitor and protect the nests from natural predators and environmental shifts. The sight of newly hatched turtles making their way to the ocean is a powerful testament to natural resilience. Surrounded by crystal-clear waters and vibrant coral reefs, the island remains one of the most pristine locations in the Bijagós Archipelago. Poilão serves as a global model for how indigenous taboos and modern conservation science can collaborate to ensure the survival of an endangered species."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Poilão ist der wichtigste Nistplatz für Suppenschildkröten in Westafrika.",
+          "Die Insel ist unbewohnt und wird von lokalen Stämmen als heilig betrachtet.",
+          "Bis zu 25.000 Nester werden in einer einzigen Saison gezählt.",
+          "Der Zugang ist nur für Forscher und unter strengen Auflagen möglich.",
+          "Die Insel gehört zum Nationalpark João Vieira e Poilão.",
+          "Künstliches Licht ist streng verboten, um die Tiere nicht zu desorientieren."
+        ],
+        "hu": [
+          "Ez a legjelentősebb levesteknős-fészkelőhely az egész atlanti partvidéken.",
+          "A sziget lakatlan, belépni csak rituális engedéllyel vagy kutatási célból szabad.",
+          "Egy szezonban akár 25 000 fészket is regisztrálnak a kutatók.",
+          "A sziget a Bijagós-szigetcsoport legdélebbi pontjai közé tartozik.",
+          "A teknősök védelmét a helyi közösségek spirituális meggyőződése segíti.",
+          "A terület az UNESCO világörökségi várományosi listáján is szerepel."
+        ],
+        "ro": [
+          "Poilão găzduiește cea mai mare colonie de țestoase verzi din regiune.",
+          "Insula este considerată sacră, fiind interzisă locuirea ei permanentă.",
+          "Monitorizarea cuiburilor se face pe tot parcursul sezonului de reproducere.",
+          "Eclozarea are loc de obicei la 6-8 săptămâni după depunerea ouălor.",
+          "Recifele de corali din jurul insulei sunt printre cele mai sănătoase din Atlantic.",
+          "Este un sit protejat prin convenții internaționale de mediu."
+        ],
+        "en": [
+          "Poilão is the premier nesting ground for Green Sea Turtles in West Africa.",
+          "The island is uninhabited and revered as a sacred site by the Bijagó.",
+          "Up to 25,000 nests are recorded during a peak breeding season.",
+          "Access is strictly controlled to minimize human impact on the turtles.",
+          "The island is part of the João Vieira and Poilão National Park.",
+          "Total darkness is maintained on the beaches to protect nesting females."
+        ]
+      }
+    },
+    {
+      "id": "joao-vieira-voegel-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Inselgruppe João Vieira im südlichen Teil des Bijagós-Archipels ist ein Paradies für Meeresvögel und ein unverzichtbarer Stopp auf dem ostatlantischen Flugweg. Die unbewohnten Inseln und ihre umliegenden Sandbänke bieten ideale Brut- und Rastplätze für eine Vielzahl von Arten, darunter Seeschwalben, Regenpfeifer und Pelikane. Während der europäischen Wintermonate beherbergt das Gebiet zehntausende Zugvögel, die hier die notwendigen Ressourcen finden, um zu überwintern. Die flachen Gewässer rund um die Inseln sind extrem fischreich, was die Nahrungsgrundlage für die riesigen Vogelkolonien sichert. Der Schutzstatus als Nationalpark garantiert, dass die Brutgebiete weitgehend ungestört bleiben. Die ökologische Bedeutung von João Vieira erstreckt sich weit über die Landesgrenzen hinaus, da die hier rastenden Vögel ökologische Brücken zwischen der Arktis und dem südlichen Afrika schlagen. Für Ornithologen ist die Inselgruppe einer der spektakulärsten Orte Westafrikas, um das Verhalten und die Migration seltener Seevögel in einer vollkommen natürlichen Umgebung zu studieren.",
+        "hu": "A Bijagós-szigetcsoport déli részén található João Vieira-szigetek a tengeri madarak paradicsoma és az kelet-atlanti vonulási útvonal egyik nélkülözhetetlen állomása. A lakatlan szigetek és a környező homokpadok ideális költő- és pihenőhelyet biztosítanak számos fajnak, köztük cséreknek, liléknek és pelikánoknak. Az európai téli hónapokban a terület több tízezer vonuló madarat fogad be, amelyek itt találják meg a túléléshez szükséges erőforrásokat. A szigetek körüli sekély vizek rendkívül gazdagok halakban, ami biztosítja a hatalmas madárkolóniák táplálékbázisát. A nemzeti parki státusz garantálja, hogy a fészkelőhelyek háborítatlanok maradjanak. João Vieira ökológiai jelentősége messze túlmutat az országhatárokon, mivel az itt megpihenő madarak ökológiai hidat képeznek az Arktisz és Dél-Afrika között. Az ornitológusok számára a szigetcsoport Nyugat-Afrika egyik leglátványosabb helyszíne a ritka tengeri madarak viselkedésének és vonulásának tanulmányozására, teljesen természetes, érintetlen környezetben.",
+        "ro": "Arhipelagul João Vieira, situat în partea de sud a Arhipelagului Bijagós, este un paradis pentru păsările marine și un punct de oprire indispensabil pe ruta de migrație est-atlantică. Insulele nelocuite și bancurile de nisip din jur oferă locuri ideale de reproducere și odihnă pentru o multitudine de specii, inclusiv chirighițe, ploieri și pelicani. În timpul lunilor de iarnă europene, zona găzduiește zeci de mii de păsări migratoare care găsesc aici resursele necesare pentru a supraviețui. Apele puțin adânci din jurul insulelor sunt extrem de bogate în pește, asigurând baza alimentară pentru coloniile imense de păsări. Statutul de parc național garantează că zonele de cuibărit rămân în mare parte neperturbate. Importanța ecologică a insulelor João Vieira se extinde mult dincolo de granițele naționale, deoarece păsările care poposesc aici creează punți ecologice între Arctica și sudul Africii. Pentru ornitologi, acest grup de insule este unul dintre cele mai spectaculoase locuri din Africa de Vest pentru a studia comportamentul și migrația păsărilor marine rare într-un mediu complet natural.",
+        "en": "The João Vieira islands, located in the southern section of the Bijagós Archipelago, are a sanctuary for seabirds and an essential stopover along the East Atlantic Flyway. These uninhabited islands and their surrounding sandbanks provide ideal nesting and resting grounds for a vast array of species, including terns, plovers, and pelicans. During the northern winter months, the area hosts tens of thousands of migratory birds that rely on the archipelago's rich resources to survive. The shallow coastal waters surrounding the islands are teeming with fish, providing a stable food source for the massive avian colonies. Its status as a national park ensures that nesting sites remain largely undisturbed by human activity. The ecological significance of João Vieira extends far beyond national borders, as the birds resting here form ecological links between the Arctic and Southern Africa. For ornithologists, the archipelago is one of West Africa's most spectacular locations to observe and study the behavior and migration of rare seabirds in a completely natural and pristine environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Inselgruppe ist Teil des Nationalparks João Vieira e Poilão.",
+          "Zehntausende Zugvögel nutzen die Inseln jedes Jahr als Rastplatz.",
+          "Das Gebiet ist ein wichtiger Brutplatz für seltene Seeschwalben-Arten.",
+          "Die Inseln sind aufgrund ihrer Abgelegenheit fast unberührt.",
+          "Die Gewässer sind für ihre hohe marine Biodiversität bekannt.",
+          "João Vieira ist ein bedeutender Bestandteil der East Atlantic Flyway."
+        ],
+        "hu": [
+          "A szigetek a João Vieira és Poilão Nemzeti Park részei.",
+          "Évente több tízezer vándormadár pihen meg a szigeteken.",
+          "Fontos költőhelye a ritka királycséreknek és más tengeri fajoknak.",
+          "A terület teljesen mentes a fényszennyezéstől és az emberi zavarástól.",
+          "A szigetek körüli zátonyok gazdag halállománnyal rendelkeznek.",
+          "Az ornitológiai kutatások egyik központi helyszíne a régióban."
+        ],
+        "ro": [
+          "Insulele João Vieira sunt un punct nodal pe ruta migratorie Atlantică.",
+          "Coloniile de chirighițe regale sunt printre cele mai mari din Africa.",
+          "Statutul de protecție interzice activitățile comerciale în zonă.",
+          "Biodiversitatea include și specii rare de reptile marine.",
+          "Apele din jur sunt folosite ca zone de creștere de către numeroase specii de pești.",
+          "Este un sit de importanță internațională conform Convenției Ramsar."
+        ],
+        "en": [
+          "The islands belong to the protected João Vieira and Poilão National Park.",
+          "They host one of the highest concentrations of migratory birds in the region.",
+          "The site is a major nesting ground for Royal Terns and Caspian Terns.",
+          "Minimal human presence allows for successful avian breeding cycles.",
+          "The surrounding marine area is a biodiversity hotspot.",
+          "João Vieira serves as a vital link in global bird migration patterns."
+        ]
+      }
+    },
+    {
+      "id": "cufada-voegel-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lagune von Cufada ist der größte Süßwassersee in Guinea-Bissau und das Herzstück eines der wichtigsten Feuchtgebiete Westafrikas. Als Ramsar-Gebiet von internationaler Bedeutung bietet die Lagune einen lebensnotwendigen Lebensraum für eine immense Vielfalt an Wasservögeln. In den Schilfgürteln und offenen Wasserflächen finden Arten wie Pelikane, Flamingos und zahlreiche Entenarten ideale Bedingungen zur Nahrungsaufnahme und zum Brüten. Die Umgebung der Lagune ist von dichten Wäldern und Savannen geprägt, was zu einer hohen ökologischen Komplexität führt. Neben Vögeln beherbergt das Gebiet auch Primaten und seltene Reptilien. Für die lokale Bevölkerung ist die Lagune eine wichtige Ressource für den Fischfang, wobei nachhaltige Praktiken durch den Status als Nationalpark gefördert werden. Cufada ist ein entscheidender Rückzugsort in einer Region, die zunehmend durch landwirtschaftliche Expansion unter Druck gerät. Die Stille der Lagune, nur unterbrochen durch die Rufe tausender Vögel, macht Cufada zu einem Ort von ursprünglicher Schönheit und ökologischer Stabilität.",
+        "hu": "A Cufada-lagúna Guinea-Bissau legnagyobb édesvizű tava és Nyugat-Afrika egyik legjelentősebb vizes élőhelyének központja. Mint nemzetközi jelentőségű Ramsari terület, a lagúna létfontosságú élőhelyet biztosít a vízimadarak hatalmas választéka számára. A nádasok és a nyílt vízfelületek ideális feltételeket kínálnak az olyan fajoknak, mint a pelikánok, flamingók és számos réceféle a táplálkozáshoz és a fészkeléshez. A lagúna környékét sűrű erdők és szavannák jellemzik, ami nagy ökológiai összetettséget eredményez. A madarak mellett a terület főemlősöknek és ritka hüllőknek is otthont ad. A helyi lakosság számára a lagúna fontos halászati erőforrás, ahol a fenntartható gyakorlatokat a nemzeti parki státusz segíti elő. Cufada döntő fontosságú menedékhely egy olyan régióban, amely a mezőgazdasági terjeszkedés miatt egyre nagyobb nyomás alá kerül. A lagúna csendje, amelyet csak madarak ezreinek hangja tör meg, Cufadát az érintetlen szépség és az ökológiai stabilitás helyszínévé teszi.",
+        "ro": "Laguna Cufada este cel mai mare lac de apă dulce din Guineea-Bissau și inima uneia dintre cele mai importante zone umede din Africa de Vest. Ca sit Ramsar de importanță internațională, laguna oferă un habitat vital pentru o diversitate imensă de păsări de apă. În zonele de stuf și pe suprafețele deschise de apă, specii precum pelicanii, flamingii și numeroase tipuri de rațe găsesc condiții ideale pentru hrănire și cuibărit. Împrejurimile lagunei sunt caracterizate de păduri dese și savane, ceea ce duce la o complexitate ecologică ridicată. Pe lângă păsări, zona găzduiește și primate și reptile rare. Pentru populația locală, laguna este o resursă importantă pentru pescuit, practicile durabile fiind promovate prin statutul de parc național. Cufada este un refugiu crucial într-o regiune care se află sub o presiune tot mai mare din cauza expansiunii agricole. Liniștea lagunei, întreruptă doar de strigătele a mii de păsări, face din Cufada un loc de o frumusețe primordială și stabilitate ecologică.",
+        "en": "The Cufada Lagoon is the largest freshwater lake in Guinea-Bissau and the centerpiece of one of West Africa's most significant wetlands. As a Ramsar site of international importance, the lagoon provides a vital habitat for an immense variety of waterbirds. Species such as pelicans, flamingos, and numerous duck species find ideal conditions for feeding and nesting in the reed beds and open water areas. The lagoon's surroundings are characterized by dense forests and savannas, leading to high ecological complexity. In addition to birds, the area is home to primates and rare reptiles. For the local population, the lagoon is an important resource for fishing, with sustainable practices being promoted through its status as a national park. Cufada is a crucial refuge in a region increasingly under pressure from agricultural expansion. The silence of the lagoon, broken only by the calls of thousands of birds, makes Cufada a place of original beauty and ecological stability."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cufada ist der größte Süßwasserspeicher des Landes.",
+          "Die Lagune ist seit 1990 als Ramsar-Gebiet geschützt.",
+          "Sie beherbergt über 200 verschiedene Vogelarten.",
+          "Das Gebiet ist ein wichtiger Lebensraum für Westafrikanische Schimpansen.",
+          "Nachhaltige Fischerei ist für die lokale Wirtschaft von zentraler Bedeutung.",
+          "Die Lagune reguliert das Mikroklima der umliegenden Quínara-Region."
+        ],
+        "hu": [
+          "Cufada az ország legnagyobb természetes édesvízi tava.",
+          "A terület 1990 óta élvez nemzetközi Ramsari védelmet.",
+          "Több mint 200 madárfaj fordul elő a tó és környezete területén.",
+          "A lagúna menti erdőkben csimpánzok is élnek.",
+          "A tó fontos szerepet játszik a környék vízellátásában és mezőgazdaságában.",
+          "A terület a Quínara régió ökológiai központja."
+        ],
+        "ro": [
+          "Este cea mai mare rezervă de apă dulce din Guineea-Bissau.",
+          "Laguna este protejată prin Convenția Ramsar din 1990.",
+          "Adăpostește o populație semnificativă de pelicani și flamingo.",
+          "Ecosistemul include zone de pădure de tranziție și savană umedă.",
+          "Pescuitul artizanal este reglementat pentru a proteja biodiversitatea.",
+          "Reprezintă un punct critic pentru migrația păsărilor intra-africane."
+        ],
+        "en": [
+          "Cufada is the largest freshwater body in the country.",
+          "The site has been a designated Ramsar wetland since 1990.",
+          "It supports over 200 different species of birds.",
+          "The surrounding forests are home to populations of Western Chimpanzees.",
+          "The lagoon is vital for local artisanal fishing communities.",
+          "It acts as a key environmental buffer for the Quínara region."
+        ]
+      }
+    }
+  ]
+}

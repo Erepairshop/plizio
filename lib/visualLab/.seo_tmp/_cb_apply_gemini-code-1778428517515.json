@@ -1,0 +1,244 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cv-torre-de-belem-mindelo-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Torre de Belém in Mindelo auf der Insel São Vicente ist ein markantes historisches Bauwerk, das unmittelbar an der Uferpromenade Avenida Marginal am Porto Grande liegt. Das Gebäude wurde zwischen 1918 und 1921 während der portugiesischen Kolonialherrschaft errichtet und ist eine verkleinerte, vereinfachte Replik des berühmten gleichnamigen Turms in Lissabon. Architektonisch verbindet der Turm Elemente der Manuelinik mit dem Eklektizismus des frühen 20. Jahrhunderts. Ursprünglich diente das Bauwerk als Sitz der Hafenkapitäne und als Symbol der imperialen Präsenz Portugals im strategisch wichtigen Zentralatlantik. Der Turm hat vier Stockwerke und eine charakteristische Dachterrasse mit Zinnen, von der aus der gesamte Schiffsverkehr in der Bucht überwacht werden konnte. Die physische Struktur besteht aus lokalem Stein und Beton, der weiß und ockerfarben verputzt ist. Nach der Unabhängigkeit Kap Verdes im Jahr 1975 verlor das Gebäude seine administrative Funktion und verfiel zeitweise, bevor es umfassend restauriert wurde. Heute beherbergt die Torre de Belém ein kleines Museum für Fischerei und dient als kulturelles Wahrzeichen von Mindelo, das die tiefe maritime Verbundenheit der Stadt mit der lusophonen Welt unterstreicht. Die geografische Lage direkt am Meer macht es zu einem der am meisten fotografierten Denkmäler des Archipels.",
+        "hu": "A mindelói Torre de Belém São Vicente szigetén egy markáns történelmi építmény, amely közvetlenül a Porto Grande kikötő partján, az Avenida Marginal mentén található. Az épületet 1918 és 1921 között emelték a portugál gyarmati uralom idején, és a lisszaboni híres Belém-torony kicsinyített, egyszerűsített másolata. Építészetileg a mánuel stílus elemeit ötvözi a 20. század eleji eklektikával. Eredetileg a kikötőkapitányság székhelyeként szolgált, valamint Portugália birodalmi jelenlétének szimbóluma volt a stratégiailag fontos Közép-Atlanti-óceánon. A torony négyszintes, jellegzetes csipkézett tetőterasszal rendelkezik, ahonnan egykor az öböl teljes hajóforgalmát szemmel tudták tartani. Fizikai szerkezete helyi kőből és betonból készült, fehér és okkersárga vakolattal. A Zöld-foki-szigetek 1975-ös függetlenné válása után az épület elvesztette adminisztratív funkcióját és egy időre elhanyagolttá vált, mielőtt átfogóan restaurálták volna. Ma a Torre de Belém egy kis halászati múzeumnak ad otthont, és Mindelo kulturális jelképeként szolgál, hangsúlyozva a város mély tengeri kötődését a portugál nyelvű világhoz. Közvetlen tengerparti elhelyezkedése miatt a szigetcsoport egyik legtöbbet fényképezett műemléke.",
+        "ro": "Torre de Belém din Mindelo, pe insula São Vicente, este o structură istorică proeminentă situată direct pe promenada Avenida Marginal, lângă Porto Grande. Clădirea a fost ridicată între 1918 și 1921, în timpul perioadei coloniale portugheze, și este o replică la scară redusă și simplificată a celebrului turn omonim din Lisabona. Arhitectural, turnul îmbină elemente ale stilului manuelin cu eclectismul de la începutul secolului XX. Inițial, edificiul a servit drept sediu al căpităniei portului și ca simbol al prezenței imperiale a Portugaliei în Atlanticul Central, o zonă strategică importantă. Turnul are patru etaje și o terasă caracteristică cu creneluri, de unde putea fi monitorizat întregul trafic maritim din golf. Structura fizică este realizată din piatră locală și beton, fiind tencuită în alb și ocru. După obținerea independenței Capului Verde în 1975, clădirea și-a pierdut funcția administrativă și s-a degradat temporar înainte de a fi restaurată integral. Astăzi, Torre de Belém găzduiește un mic muzeu al pescuitului și servește drept punct de reper cultural al orașului Mindelo, subliniind legătura maritimă profundă a orașului cu lumea lusofonă. Locația sa geografică direct pe malul mării îl face unul dintre cele mai fotografiate monumente din arhipelag.",
+        "en": "The Belém Tower (Torre de Belém) in Mindelo on the island of São Vicente is a striking historical landmark situated directly along the Avenida Marginal waterfront at Porto Grande. The structure was built between 1918 and 1921 during Portuguese colonial rule as a scaled-down, simplified replica of the famous original tower in Lisbon. Architecturally, the tower blends Manueline elements with early 20th-century eclecticism. It originally served as the office of the harbor master and functioned as a physical symbol of Portugal's imperial presence in the strategically vital Central Atlantic. The tower consists of four levels and features a characteristic crenelated roof terrace, providing a vantage point from which all maritime traffic in the bay could historically be monitored. The physical structure is constructed from local stone and concrete, finished with white and ochre plaster. Following Cape Verde's independence in 1975, the building lost its administrative purpose and fell into temporary disrepair before being extensively restored. Today, the Belém Tower houses a small maritime and fishing museum and stands as a cultural icon of Mindelo, emphasizing the city's deep maritime connection to the Lusophone world. Its geographic position directly on the water's edge makes it one of the most photographed monuments in the archipelago."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut zwischen 1918 und 1921 als Replik des Turms in Lissabon.",
+          "Diente ursprünglich als Sitz der Hafenverwaltung von Mindelo.",
+          "Architektonisches Denkmal im spätgotisch-portugiesischen Manuelinik-Stil.",
+          "Beherbergt heute ein spezialisiertes Museum für lokale Fischerei.",
+          "Befindet sich an der Avenida Marginal direkt am Ufer des Porto Grande.",
+          "Wurde im Jahr 2003 als Teil des historischen Zentrums renoviert.",
+          "Vier Stockwerke hoch mit einer strategischen Aussichtsplattform auf dem Dach."
+        ],
+        "hu": [
+          "1918 és 1921 között épült a lisszaboni torony másolataként.",
+          "Eredetileg a mindelói kikötői hatóság székhelyeként szolgált.",
+          "Mánuel stílusú építészeti emlék, késő gótikus díszítőelemekkel.",
+          "Ma a helyi halászat történetét bemutató múzeumnak ad otthont.",
+          "Az Avenida Marginal mentén, a Porto Grande partján található.",
+          "2003-ban a történelmi városközpont részeként újították fel.",
+          "Négyszintes épület, tetején stratégiai jelentőségű kilátóterasszal."
+        ],
+        "ro": [
+          "Construit între 1918 și 1921 ca o replică a turnului din Lisabona.",
+          "A servit inițial drept sediu al administrației portuare din Mindelo.",
+          "Monument arhitectural în stil manuelin, gotic târziu portughez.",
+          "Găzduiește astăzi un muzeu specializat în pescuitul local.",
+          "Situat pe Avenida Marginal, chiar pe malul Porto Grande.",
+          "A fost renovat în anul 2003 ca parte a centrului istoric.",
+          "Înalt de patru etaje, cu o platformă strategică de observație pe acoperiș."
+        ],
+        "en": [
+          "Built between 1918 and 1921 as a replica of the Lisbon landmark.",
+          "Originally functioned as the headquarters for the Mindelo port captaincy.",
+          "Architectural monument featuring late-Gothic Manueline-style motifs.",
+          "Currently houses a specialized museum dedicated to the local fishing industry.",
+          "Located on the Avenida Marginal, directly bordering the Porto Grande harbor.",
+          "Underwent a significant renovation in 2003 to preserve its structure.",
+          "Consists of four floors with a strategic lookout platform on the roof."
+        ]
+      }
+    },
+    {
+      "id": "cv-fortim-del-rei-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fortim d'El Rei (Königsfort) thront auf einem Hügel oberhalb des Stadtzentrums von Mindelo auf der Insel São Vicente. Die Festung wurde im Jahr 1852 fertiggestellt, um den strategisch bedeutsamen Porto Grande vor Piratenangriffen und rivalisierenden europäischen Mächten zu schützen. Zu dieser Zeit wuchs Mindelo rasant zur weltweit wichtigsten Kohlenstation für Dampfschiffe an. Geologisch ruht das Fort auf vulkanischem Basaltgestein und bietet aufgrund seiner erhöhten Lage den absolut besten Panoramablick über die gesamte Bucht und die umliegenden Berge wie den Monte Cara. Die Architektur ist funktional-militärisch geprägt, mit massiven Steinmauern und Bastionen, die einst mit schweren Kanonen bestückt waren. Im 20. Jahrhundert verlor die Anlage ihre militärische Bedeutung und wurde als Gefängnis für politische Gefangene des portugiesischen Regimes genutzt. Nach der Unabhängigkeit 1975 verfiel das Fort zusehends und ist heute weitgehend eine Ruine, was ihm jedoch einen besonderen historischen Charme verleiht. Trotz des Verfalls bleibt das Fortim d'El Rei ein unverzichtbarer Teil des kulturellen Erbes von São Vicente und ein Zeugnis der kolonialen Verteidigungsstrategie im Atlantik. Pläne für eine Restaurierung und Umwandlung in ein Kulturzentrum oder Boutique-Hotel wurden in den letzten Jahren mehrfach diskutiert, aber bisher nur teilweise umgesetzt. Die geografischen Koordinaten der Anlage lauten 16,89°N, 24,99°W.",
+        "hu": "A Fortim d'El Rei (Királyi Erőd) egy dombon trónol Mindelo városközpontja felett, São Vicente szigetén. Az erődítményt 1852-ben fejezték be, hogy megvédjék a stratégiailag jelentős Porto Grandét a kalóztámadásoktól és a rivális európai hatalmaktól. Ebben az időben Mindelo rohamosan fejlődött a gőzhajók világviszonylatban is legfontosabb szénrakodó állomásává. Geológiailag az erőd vulkáni bazaltkőzeten nyugszik, és megemelt helyzetének köszönhetően az abszolút legjobb panorámát nyújtja az egész öbölre és a környező hegyekre, mint például a Monte Carára. Az építészet funkcionális-katonai jellegű, masszív kőfalakkal és bástyákkal, amelyeken egykor nehézágyúk sorakoztak. A 20. században a létesítmény elvesztette katonai jelentőségét, és a portugál rezsim politikai foglyainak börtöneként használták. Az 1975-ös függetlenség után az erőd láthatóan romlásnak indult, ma nagyrészt romokban áll, ami azonban sajátos történelmi bájt kölcsönöz neki. A pusztulás ellenére a Fortim d'El Rei São Vicente kulturális örökségének elengedhetetlen része, és az atlanti gyarmati védelmi stratégia tanúbizonysága. Az utóbbi években többször is felmerültek tervek a restaurálására és kulturális központtá vagy butikhotellé történő átalakítására, de ezek eddig csak részben valósultak meg. A létesítmény koordinátái: é. sz. 16,89°, ny. h. 24,99°.",
+        "ro": "Fortim d'El Rei (Fortul Regelui) tronează pe un deal deasupra centrului orașului Mindelo, pe insula São Vicente. Fortificația a fost finalizată în anul 1852 pentru a proteja portul strategic Porto Grande de atacurile piraților și de puterile europene rivale. În acea perioadă, Mindelo devenea rapid cea mai importantă stație de cărbune din lume pentru navele cu aburi. Geologic, fortul se sprijină pe rocă de bazalt vulcanic și, datorită poziției sale ridicate, oferă cea mai bună vedere panoramică asupra întregului golf și a munților înconjurători, cum ar fi Monte Cara. Arhitectura are un caracter funcțional-militar, cu ziduri de piatră masive și bastioane care au fost odinioară dotate cu tunuri grele. În secolul XX, instalația și-a pierdut importanța militară și a fost utilizată ca închisoare pentru deținuții politici ai regimului portughez. După obținerea independenței în 1975, fortul s-a degradat continuu, fiind astăzi în mare parte o ruină, ceea ce îi conferă însă un farmec istoric aparte. În ciuda deteriorării, Fortim d'El Rei rămâne o parte indispensabilă a patrimoniului cultural din São Vicente și o mărturie a strategiei coloniale de apărare în Atlantic. Planuri pentru restaurarea și transformarea sa într-un centru cultural sau hotel de tip boutique au fost discutate de mai multe ori în ultimii ani, dar până acum au fost implementate doar parțial. Coordonatele instalației sunt 16,89°N, 24,99°V.",
+        "en": "Fortim d'El Rei (The King's Fort) is perched on a hill overlooking the city center of Mindelo on São Vicente Island. The fortress was completed in 1852 to protect the strategically significant Porto Grande from pirate attacks and rival European powers. At that time, Mindelo was rapidly evolving into the world's premier coaling station for steamships. Geologically, the fort rests on volcanic basalt and, due to its elevated position, offers the absolute best panoramic view of the entire bay and surrounding mountains, such as Monte Cara. The architecture is functional-military, featuring massive stone walls and bastions that were once armed with heavy cannons. During the 20th century, the facility lost its military relevance and was repurposed as a prison for political detainees under the Portuguese regime. Following independence in 1975, the fort fell into neglect and is now largely in ruins, which nonetheless grants it a unique historical atmosphere. Despite its decay, Fortim d'El Rei remains an essential part of São Vicente's cultural heritage and a testament to colonial defensive strategies in the Atlantic. Plans for its restoration and conversion into a cultural center or boutique hotel have been discussed several times in recent years, but have only been partially realized so far. The geographic coordinates of the site are 16.89°N, 24.99°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fertiggestellt im Jahr 1852 zum Schutz des Hafens Porto Grande.",
+          "Wichtigstes Verteidigungsbauwerk der Insel São Vicente im 19. Jahrhundert.",
+          "Diente im 20. Jahrhundert als Gefängnis für politische Oppositionelle.",
+          "Höchster Aussichtspunkt über die Bucht von Mindelo und den Monte Cara.",
+          "Das Fort ist massiv aus lokalem dunklem Basaltstein errichtet.",
+          "Heute eine eindrucksvolle Ruine mit hohem Denkmalschutzwert.",
+          "Namensgeber ist der portugiesische König Ferdinand II."
+        ],
+        "hu": [
+          "1852-ben fejezték be a Porto Grande kikötő védelmére.",
+          "São Vicente szigetének legfontosabb 19. századi védműve volt.",
+          "A 20. században politikai ellenzékiek börtöneként szolgált.",
+          "A legmagasabb kilátópont a Mindelo-öbölre és a Monte Carára.",
+          "Az erőd masszívan, helyi sötét bazaltkőből épült fel.",
+          "Ma lenyűgöző rom, kiemelt műemlékvédelmi értékkel bír.",
+          "Nevét II. Ferdinánd portugál király tiszteletére kapta."
+        ],
+        "ro": [
+          "Finalizat în anul 1852 pentru protecția portului Porto Grande.",
+          "Cea mai importantă structură defensivă a insulei São Vicente din secolul XIX.",
+          "A servit în secolul XX drept închisoare pentru opozanții politici.",
+          "Cel mai înalt punct de observație asupra golfului Mindelo și a muntelui Monte Cara.",
+          "Fortul este construit masiv din piatră de bazalt închisă la culoare, locală.",
+          "Astăzi este o ruină impresionantă cu o mare valoare de patrimoniu.",
+          "Numele este dat în onoarea regelui Ferdinand al II-lea al Portugaliei."
+        ],
+        "en": [
+          "Completed in 1852 to defend the strategic Porto Grande harbor.",
+          "São Vicente's primary defensive structure during the 19th century.",
+          "Utilized as a prison for political dissidents during the 20th century.",
+          "Provides the highest panoramic vantage point over Mindelo Bay.",
+          "Constructed solidly from local dark volcanic basalt stone.",
+          "Currently an evocative ruin with significant historical heritage value.",
+          "Named in honor of the Portuguese King Consort Ferdinand II."
+        ]
+      }
+    },
+    {
+      "id": "cv-historical-salt-pans-pedra-de-lume-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die historischen Salinen von Pedra de Lume befinden sich im Nordosten der Insel Sal und liegen absolut einzigartig im Krater eines erloschenen Vulkans. Der Kraterboden liegt unterhalb des Meeresspiegels, was dazu führt, dass Meerwasser durch das poröse Vulkangestein einsickert und aufgrund der extremen Verdunstung in der ariden Umgebung hochkonzentrierte Salzseen bildet. Die kommerzielle Salzgewinnung begann im Jahr 1833 durch Manuel António Martins, was der Insel ihren heutigen Namen 'Sal' verlieh. In der Blütezeit des 19. und frühen 20. Jahrhunderts wurde das Salz massiv nach Brasilien und Afrika exportiert. Technisch beeindruckend ist die im Jahr 1921 installierte Seilbahn, deren hölzerne Stützpfeiler noch heute am Kraterrand stehen; sie diente dem Transport des Salzes vom Kraterboden zum Hafen. Die Salzdichte in den Becken ist etwa 27-mal höher als im offenen Ozean, was ein Schweben auf dem Wasser ohne Anstrengung ermöglicht, ähnlich wie im Toten Meer. Geologisch ist der Krater etwa 900 Meter breit. Heute ist die industrielle Produktion eingestellt, und die Salinen fungieren primär als touristisches Highlight und Wellness-Ziel. Der Ort ist ein geschütztes nationales Kulturerbe und steht auf der Tentativliste für das UNESCO-Welterbe. Die Kombination aus industrieller Archäologie und spektakulärer Naturgeografie macht Pedra de Lume zu einem der bedeutendsten Orte des Archipels. Die Koordinaten sind 16,76°N, 22,89°W.",
+        "hu": "Pedra de Lume történelmi sólepárlói Sal szigetének északkeleti részén találhatók, abszolút egyedülálló módon egy kialudt vulkán kráterében. A kráter alja a tengerszint alatt fekszik, aminek következtében a tengervíz átszivárog a porózus vulkáni kőzeten, és a száraz környezetben végbemenő extrém párolgás miatt tömény sóstavakat hoz létre. A kereskedelmi sókitermelést 1833-ban kezdte meg Manuel António Martins, ami a szigetnek a mai 'Sal' (Só) nevet adta. A 19. században és a 20. század elején a sót tömegesen exportálták Brazíliába és Afrikába. Műszakilag lenyűgöző az 1921-ben telepített drótkötélpálya, amelynek fa tartóoszlopai ma is állnak a kráter peremén; ez szolgált a só szállítására a kráter aljáról a kikötőbe. A medencék sókoncentrációja körülbelül 27-szer magasabb, mint a nyílt óceáné, ami lehetővé teszi a vízen való lebegést minden erőfeszítés nélkül, hasonlóan a Holt-tengerhez. Geológiailag a kráter körülbelül 900 méter széles. Ma az ipari termelés már megszűnt, a sólepárlók pedig elsősorban turisztikai látványosságként és wellness-célpontként működnek. A helyszín védett nemzeti kulturális örökség, és szerepel az UNESCO Világörökségi várományos listáján. Az ipari régészet és a látványos természeti földrajz kombinációja Pedra de Lumét a szigetvilág egyik legjelentősebb helyévé teszi. Koordinátái: é. sz. 16,76°, ny. h. 22,89°.",
+        "ro": "Salinele istorice din Pedra de Lume sunt situate în nord-estul insulei Sal și se află într-un mod absolut unic în craterul unui vulcan stins. Fundul craterului este situat sub nivelul mării, ceea ce face ca apa de mare să se infiltreze prin roca vulcanică poroasă și, din cauza evaporării extreme în mediul arid, să formeze lacuri sărate cu o concentrație ridicată. Extracția comercială a sării a început în anul 1833 prin Manuel António Martins, ceea ce a dat insulei numele actual de „Sal”. În perioada de glorie a secolului XIX și începutul secolului XX, sarea era exportată masiv în Brazilia și Africa. Impresionantă din punct de vedere tehnic este telecabina instalată în anul 1921, ai cărei piloni de susținere din lemn se mai află și astăzi pe marginea craterului; aceasta servea la transportul sării de pe fundul craterului către port. Densitatea sării în bazine este de aproximativ 27 de ori mai mare decât în oceanul deschis, ceea ce permite plutirea pe apă fără efort, similar cu Marea Moartă. Geologic, craterul are o lățime de aproximativ 900 de metri. Astăzi, producția industrială a încetat, iar salinele funcționează primar ca atracție turistică și destinație wellness. Locul este un patrimoniu cultural național protejat și se află pe lista indicativă pentru Patrimoniul Mondial UNESCO. Combinația de arheologie industrială și geografie naturală spectaculoasă face din Pedra de Lume unul dintre cele mai importante locuri ale arhipelagului. Coordonatele sunt 16,76°N, 22,89°V.",
+        "en": "The historical salt pans of Pedra de Lume are situated in the northeastern part of Sal Island, uniquely positioned inside the crater of an extinct volcano. The crater floor lies below sea level, allowing seawater to infiltrate through porous volcanic rock, where extreme evaporation in the arid environment forms highly concentrated salt lakes. Commercial salt extraction was initiated in 1833 by Manuel António Martins, a venture that eventually gave the island its current name, 'Sal' (Salt). During its peak in the 19th and early 20th centuries, salt was exported in massive quantities to Brazil and Africa. A technical marvel is the aerial tramway installed in 1921, whose wooden support pillars still stand on the crater rim; it was used to transport salt from the crater floor to the coast. The salt density in the ponds is approximately 27 times higher than that of the open ocean, enabling effortless floating similar to the Dead Sea. Geologically, the crater is about 900 meters wide. Today, industrial production has ceased, and the salt pans serve primarily as a tourist highlight and wellness destination. The site is a protected national cultural heritage and is on the tentative list for UNESCO World Heritage status. The combination of industrial archaeology and spectacular natural geography makes Pedra de Lume one of the most significant locations in the archipelago. The coordinates are 16.76°N, 22.89°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Salinen liegen in einem 900 m breiten erloschenen Vulkankrater.",
+          "Der Kraterboden befindet sich geologisch unterhalb des Meeresspiegels.",
+          "Salzgewinnung gab der Insel Sal im 19. Jahrhundert ihren Namen.",
+          "Das Wasser ist 27-mal salzhaltiger als der Atlantik (ähnlich wie das Tote Meer).",
+          "Die hölzerne Seilbahn für den Salztransport wurde im Jahr 1921 erbaut.",
+          "Früher wichtigster Exportpunkt für Salz nach Brasilien und Westafrika.",
+          "Steht auf der Tentativliste für das offizielle UNESCO-Weltkulturerbe."
+        ],
+        "hu": [
+          "A sólepárlók egy 900 méter széles kialudt vulkáni kráterben találhatók.",
+          "A kráter alja geológiailag a tenger szintje alatt helyezkedik el.",
+          "A sókitermelés adta Sal szigetének a nevét a 19. században.",
+          "A víz 27-szer sósabb az Atlanti-óceánnál (hasonlóan a Holt-tengerhez).",
+          "A só szállítására szolgáló fa drótkötélpálya 1921-ben épült.",
+          "Korábban a Brazíliába és Nyugat-Afrikába irányuló sóexport központja volt.",
+          "Szerepel az UNESCO Világörökségi helyszínek várományos listáján."
+        ],
+        "ro": [
+          "Salinele se află într-un crater vulcanic stins, lat de 900 m.",
+          "Fundul craterului se află geologic sub nivelul mării.",
+          "Producția de sare a dat numele insulei Sal în secolul al XIX-lea.",
+          "Apa este de 27 de ori mai sărată decât Atlanticul (similar cu Marea Moartă).",
+          "Telecabina din lemn pentru transportul sării a fost construită în anul 1921.",
+          "Fost punct de export major pentru sare către Brazilia și Africa de Vest.",
+          "Se află pe lista indicativă pentru Patrimoniul Mondial UNESCO."
+        ],
+        "en": [
+          "The salt pans are uniquely located inside a 900m wide extinct volcanic crater.",
+          "The crater floor is geologically positioned below current sea level.",
+          "Salt production gave Sal Island its definitive name in the 19th century.",
+          "The water is 27 times saltier than the Atlantic, allowing effortless floating.",
+          "A wooden aerial tramway for salt transport was installed in 1921.",
+          "Historically the main export point for salt to Brazil and West Africa.",
+          "Currently included on the tentative list for UNESCO World Heritage status."
+        ]
+      }
+    },
+    {
+      "id": "cv-forte-duque-de-braganca-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Forte Duque de Bragança befindet sich auf der kleinen, unbewohnten Insel Ilhéu de Sal Rei, unmittelbar vor der Küste der Stadt Sal Rei auf Boa Vista. Die Festung wurde im Jahr 1820 zum Schutz der strategisch wichtigen Bucht und der wertvollen Salinen von Boa Vista errichtet. Zu dieser Zeit war der Export von Meersalz der wichtigste Wirtschaftszweig der Insel, und die reich beladenen Schiffe waren ein ständiges Ziel für Piraten und Freibeuter. Die Festung wurde massiv aus lokalem Vulkangestein und Kalkmörtel gebaut. Ihre Architektur umfasst eine kreisförmige Bastion, auf der einst schwere Kanonen stationiert waren, um den Zugang zum Hafen zu kontrollieren. Im Inneren befanden sich Unterkünfte für die Garnison und ein Munitionsdepot. Geografisch liegt das Fort auf einem flachen Felsen, der bei Ebbe fast zu Fuß erreichbar ist, aber dennoch einen effektiven Schutzwall bot. Mit dem Niedergang des Salzhandels am Ende des 19. Jahrhunderts verlor die Festung ihre Bedeutung und wurde aufgegeben. Heute sind nur noch die Ruinen der Mauern und einige Fundamente erhalten, die jedoch ein bedeutendes Denkmal der kapverdischen Verteidigungsgeschichte darstellen. Die Ruinen sind ein beliebtes Ziel für Bootstouren und bieten einen tiefen Einblick in die koloniale Vergangenheit der Insel Boa Vista. Die Anlage ist den ständigen Einflüssen der Meereserosion und des Salzwassers ausgesetzt, was ihren Verfall beschleunigt.",
+        "hu": "A Forte Duque de Bragança a kis, lakatlan Ilhéu de Sal Rei szigeten található, közvetlenül Boa Vista szigetének fővárosa, Sal Rei partjai előtt. Az erődöt 1820-ban emelték a stratégiailag fontos öböl és Boa Vista értékes sólepárlóinak védelmére. Ebben az időben a tengeri só exportja volt a sziget legfontosabb gazdasági ága, a gazdagon megrakott hajók pedig a kalózok és magánportyázók állandó célpontjai voltak. Az erőd masszívan, helyi vulkáni kőből és mészhabarcsból épült. Építészete egy kör alakú bástyát foglal magában, ahol egykor nehézágyúkat állomásoztattak a kikötő bejáratának ellenőrzésére. Odabent a helyőrség szállásai és egy lőszerraktár kaptak helyet. Földrajzilag az erőd egy lapos sziklán fekszik, amely apálykor szinte gyalog is megközelíthető, mégis hatékony védőfalat jelentett. A sókereskedelem 19. század végi hanyatlásával az erőd elvesztette jelentőségét és elhagyták. Ma már csak a falak romjai és néhány alapzat látható, amelyek azonban a zöld-foki védelmi történelem jelentős emlékei. A romok a hajótúrák kedvelt célpontjai, és mély betekintést nyújtanak Boa Vista gyarmati múltjába. A létesítmény ki van téve a tengeri erózió és a sós víz állandó hatásának, ami felgyorsítja a pusztulását.",
+        "ro": "Forte Duque de Bragança este situat pe mica insulă nelocuită Ilhéu de Sal Rei, direct în fața coastei orașului Sal Rei de pe Boa Vista. Fortăreața a fost ridicată în anul 1820 pentru protecția golfului strategic și a salinelor prețioase de pe Boa Vista. În acea perioadă, exportul de sare de mare era cea mai importantă ramură economică a insulei, iar navele bogat încărcate reprezentau o țintă constantă pentru pirați și corsari. Fortăreața a fost construită masiv din rocă vulcanică locală și mortar de var. Arhitectura sa include un bastion circular, unde au fost staționate odinioară tunuri grele pentru a controla accesul în port. În interior se aflau spații de cazare pentru garnizoană și un depozit de muniție. Din punct de vedere geografic, fortul se află pe o stâncă plată, care la reflux este aproape accesibilă pe jos, oferind totuși un zid de protecție eficient. Odată cu declinul comerțului cu sare la sfârșitul secolului XIX, fortăreața și-a pierdut importanța și a fost abandonată. Astăzi se mai păstrează doar ruinele zidurilor și câteva fundații, care reprezintă însă un monument semnificativ al istoriei defensive capverdiene. Ruinele sunt o destinație populară pentru excursii cu barca și oferă o perspectivă profundă asupra trecutului colonial al insulei Boa Vista. Instalația este expusă influențelor constante ale eroziunii marine și apei sărate, ceea ce accelerează degradarea sa.",
+        "en": "The Fort of the Duke of Bragança (Forte Duque de Bragança) is located on the small, uninhabited islet of Ilhéu de Sal Rei, directly off the coast of the town of Sal Rei on Boa Vista. The fortress was constructed in 1820 to defend the strategically vital bay and Boa Vista's highly valuable salt pans. At that time, the export of sea salt was the island's primary economic activity, making the heavily laden merchant ships frequent targets for pirates and privateers. The fortress was built solidly from local volcanic stone and lime mortar. Its architecture features a circular bastion where heavy cannons were once stationed to control access to the harbor. Inside, the facility provided quarters for the garrison and a gunpowder magazine. Geographically, the fort sits on a flat rocky outcrop that is almost accessible by foot during low tide, yet it provided an effective defensive barrier. With the decline of the salt trade at the end of the 19th century, the fortress lost its strategic relevance and was abandoned. Today, only the ruins of the walls and some foundations remain, serving as a significant monument to Cape Verdean defensive history. The ruins are a popular destination for boat tours and offer insights into Boa Vista's colonial past. The site is subject to constant coastal erosion and saltwater exposure, which accelerates its deterioration."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im Jahr 1820 zum Schutz vor Piratenangriffen.",
+          "Befindet sich auf der unbewohnten Insel Ilhéu de Sal Rei.",
+          "Diente primär der Sicherung des lukrativen Salzexports.",
+          "Architektur mit markanter kreisförmiger Geschützplattform.",
+          "Wurde am Ende des 19. Jahrhunderts nach dem Verfall des Salzhandels aufgegeben.",
+          "Besteht massiv aus lokalem dunklem Vulkangestein.",
+          "Wichtiges historisches Denkmal der Kolonialzeit auf Boa Vista."
+        ],
+        "hu": [
+          "1820-ban épült a kalóztámadások elleni védelem céljából.",
+          "A lakatlan Ilhéu de Sal Rei szigeten található.",
+          "Elsődleges feladata a jövedelmező sóexport biztosítása volt.",
+          "Építészete jellegzetes kör alakú ágyúállással rendelkezik.",
+          "A 19. század végén, a sókereskedelem hanyatlása után hagyták el.",
+          "Masszív szerkezete helyi sötét vulkáni kőből épült.",
+          "Boa Vista gyarmati korszakának fontos történelmi műemléke."
+        ],
+        "ro": [
+          "Construit în anul 1820 pentru protecția împotriva atacurilor piraților.",
+          "Situat pe insula nelocuită Ilhéu de Sal Rei.",
+          "A servit în primul rând pentru securizarea exportului lucrativ de sare.",
+          "Arhitectură cu o platformă circulară distinctă pentru artilerie.",
+          "A fost abandonat la sfârșitul secolului al XIX-lea, după declinul comerțului cu sare.",
+          "Construit masiv din rocă vulcanică locală de culoare închisă.",
+          "Monument istoric important al perioadei coloniale de pe Boa Vista."
+        ],
+        "en": [
+          "Constructed in 1820 to defend the port against aggressive pirate raids.",
+          "Situated on the uninhabited offshore islet of Ilhéu de Sal Rei.",
+          "Primarily served to safeguard the island's lucrative sea salt exports.",
+          "Features a distinctive circular bastion designed for heavy artillery.",
+          "Abandoned at the end of the 19th century following the salt trade decline.",
+          "Built massively from local dark volcanic stone and mortar.",
+          "A significant historical monument of the colonial era on Boa Vista."
+        ]
+      }
+    },
+    {
+      "id": "cv-igreja-nossa-senhora-rosario-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kirche Nossa Senhora do Rosário in Cidade Velha auf der Insel Santiago ist das älteste erhaltene koloniale Kirchengebäude der Welt in den Tropen. Ihr Bau begann bereits im Jahr 1495, kurz nach der Entdeckung des Archipels, und wurde in mehreren Phasen bis zum Ende des 15. Jahrhunderts abgeschlossen. Architektonisch ist sie ein außergewöhnliches Zeugnis der Manuelinik, des spezifisch portugiesischen spätgotischen Stils, der hier mit afrikanischen Einflüssen verschmilzt. Besonders bemerkenswert ist die gotische Kapelle im Inneren, die über ein kunstvolles Rippengewölbe verfügt – eine absolute Seltenheit in Westafrika. Die Kirche diente als religiöses Zentrum für die wachsende Gemeinschaft von Siedlern und Sklavenhändlern in Ribeira Grande. Historisch ist sie eng mit bedeutenden Persönlichkeiten verbunden; unter anderem haben hier Christoph Kolumbus und Vasco da Gama auf ihren Reisen gebetet. Im Inneren befinden sich zudem historisch wertvolle Grabplatten aus dem 16. und 17. Jahrhundert, die die Gräber prominenter kolonialer Würdenträger markieren. Geografisch liegt das schlichte, weiß getünchte Steingebäude im unteren Teil des Tals, unweit der berühmten Rua de Banana. Die Kirche wurde über die Jahrhunderte mehrfach restauriert, insbesondere nachdem sie bei Piratenüberfällen beschädigt wurde. Heute ist sie ein zentraler Bestandteil des UNESCO-Weltkulturerbes Cidade Velha und wird weiterhin für Gottesdienste genutzt.",
+        "hu": "A Cidade Velha-i Nossa Senhora do Rosário templom Santiago szigetén a világ legrégebbi, a trópusokon épségben fennmaradt gyarmati templomépülete. Építése már 1495-ben megkezdődött, röviddel a szigetvilág felfedezése után, és több szakaszban, a 15. század végére fejeződött be. Építészetileg a mánuel stílus kivételes tanúbizonysága; ez a sajátos portugál késő gótikus stílus itt afrikai hatásokkal ötvöződik. Különösen figyelemre méltó a belső gótikus kápolna, amely díszes bordás boltozattal rendelkezik – ami Nyugat-Afrikában abszolút ritkaság. A templom a Ribeira Grande-i telepesek és rabszolgakereskedők növekvő közösségének vallási központjaként szolgált. Történelmileg szorosan kapcsolódik jelentős személyiségekhez; többek között Kolumbusz Kristóf és Vasco da Gama is imádkozott itt utazásai során. Belsejében emellett történelmileg értékes, 16. és 17. századi sírlapok találhatók, amelyek prominens gyarmati méltóságok sírjait jelölik. Földrajzilag az egyszerű, fehérre meszelt kőépület a völgy alsó részén, a híres Rua de Banana közelében fekszik. A templomot az évszázadok során többször restaurálták, különösen miután kalóztámadások során megrongálódott. Ma a Cidade Velha UNESCO Világörökség központi része, és továbbra is tartanak benne istentiszteleteket.",
+        "ro": "Biserica Nossa Senhora do Rosário din Cidade Velha, de pe insula Santiago, este cea mai veche clădire bisericească colonială din lume care s-a păstrat în zonele tropicale. Construcția sa a început încă din anul 1495, la scurt timp după descoperirea arhipelagului, și a fost finalizată în mai multe etape până la sfârșitul secolului al XV-lea. Din punct de vedere arhitectural, este o mărturie excepțională a stilului manuelin, stilul gotic târziu specific portughez, care fuzionează aici cu influențe africane. Deosebit de remarcabilă este capela gotică din interior, care dispune de o boltă pe nervuri ornamentată – o raritate absolută în Africa de Vest. Biserica a servit drept centru religios pentru comunitatea în creștere de coloniști și negustori de sclavi din Ribeira Grande. Din punct de vedere istoric, este strâns legată de personalități marcante; printre alții, Cristofor Columb și Vasco da Gama s-au rugat aici în timpul călătoriilor lor. În interior se află, de asemenea, plăci funerare valoroase din secolele XVI și XVII, care marchează mormintele unor demnitari coloniali proeminenți. Geografic, clădirea simplă din piatră, văruită în alb, este situată în partea inferioară a văii, nu departe de faimoasa stradă Rua de Banana. Biserica a fost restaurată de mai multe ori de-a lungul secolelor, în special după ce a fost avariată în timpul atacurilor piraților. Astăzi este o parte centrală a Patrimoniului Mondial UNESCO Cidade Velha și continuă să fie utilizată pentru servicii religioase.",
+        "en": "The Church of Our Lady of the Rosary (Igreja Nossa Senhora do Rosário) in Cidade Velha on Santiago Island is the world's oldest surviving colonial church building in the tropics. Its construction began as early as 1495, shortly after the discovery of the archipelago, and was completed in several phases by the end of the 15th century. Architecturally, it stands as an exceptional testament to the Manueline style, the specific Portuguese late Gothic style that blends here with local African influences. Particularly noteworthy is the interior Gothic chapel, which features an elaborate ribbed vault—an absolute rarity in West Africa. The church served as the primary religious center for the growing community of settlers and slave traders in Ribeira Grande. Historically, it is closely associated with prominent figures; notably, Christopher Columbus and Vasco da Gama are documented to have prayed here during their historic voyages. The interior also contains historically valuable tomb slabs from the 16th and 17th centuries, marking the graves of prominent colonial dignitaries. Geographically, the simple, whitewashed stone building is located in the lower section of the valley, near the famous Rua de Banana. The church has been restored several times over the centuries, especially after sustaining damage during pirate raids. Today, it is a core component of the Cidade Velha UNESCO World Heritage site and remains an active place of worship."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Älteste koloniale Kirche der Welt in den Tropen (begonnen 1495).",
+          "Einziges Beispiel für ein gotisches Rippengewölbe in ganz Westafrika.",
+          "Historische Gebetsstätte von Christoph Kolumbus und Vasco da Gama.",
+          "Beherbergt wertvolle Grabplatten kolonialer Würdenträger aus dem 16. Jh.",
+          "Architektur im manuelinischen Stil mit afrikanischen Einflüssen.",
+          "Befindet sich im historischen Zentrum des UNESCO-Weltkulturerbes.",
+          "Wurde nach Zerstörungen durch Piraten mehrfach restauriert."
+        ],
+        "hu": [
+          "A világ legrégebbi gyarmati temploma a trópusokon (kezdve 1495-ben).",
+          "Az egyetlen gótikus bordás boltozatú építmény egész Nyugat-Afrikában.",
+          "Kolumbusz Kristóf és Vasco da Gama történelmi imahelye.",
+          "Értékes 16. századi gyarmati sírlapokat őriz a belsejében.",
+          "Mánuel stílusú építészet helyi afrikai motívumokkal ötvözve.",
+          "Az UNESCO Világörökség részét képező történelmi központban található.",
+          "A kalózok pusztításai után több alkalommal is restaurálták."
+        ],
+        "ro": [
+          "Cea mai veche biserică colonială din lume în zonele tropicale (începută în 1495).",
+          "Singurul exemplu de boltă gotică pe nervuri din întreaga Africă de Vest.",
+          "Loc de rugăciune istoric pentru Cristofor Columb și Vasco da Gama.",
+          "Găzduiește plăci funerare valoroase ale demnitarilor din secolul al XVI-lea.",
+          "Arhitectură în stil manuelin cu influențe africane.",
+          "Situată în centrul istoric al Patrimoniului Mondial UNESCO.",
+          "A fost restaurată de mai multe ori după distrugerile cauzate de pirați."
+        ],
+        "en": [
+          "The oldest surviving colonial church in the world's tropics (begun 1495).",
+          "Contains the only example of Gothic ribbed vaulting in all of West Africa.",
+          "Historically visited by explorers Christopher Columbus and Vasco da Gama.",
+          "Houses rare 16th-century tomb slabs belonging to colonial elites.",
+          "Features Manueline-style architecture influenced by regional aesthetics.",
+          "A primary monument within the UNESCO World Heritage site of Cidade Velha.",
+          "Continues to serve as an active parish church after centuries of restoration."
+        ]
+      }
+    }
+  ]
+}

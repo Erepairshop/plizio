@@ -1,0 +1,60 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-ganadera-los-santos-life-v2",
+      "description": "Los Santos tartomány hagyományos állattenyésztő gazdasága, jelentős helyi szereppel.",
+      "facts": ["Állattenyésztés", "Hagyományos gazdálkodás", "Agrárkulturális régió"]
+    },
+    {
+      "id": "parque-infantil-cinta-costera-life-v2",
+      "description": "Népszerű játszótér a tengerparti sétány mentén, családi kikapcsolódásra.",
+      "facts": ["Városi játszótér", "Tengerparti sétány", "Családi rekreáció"]
+    },
+    {
+      "id": "reserva-natural-punta-patino-life-v2",
+      "description": "Védett természeti terület, amely fontos élőhelyet biztosít számos állatfaj számára.",
+      "facts": ["Védett rezervátum", "Gazdag állatvilág", "Biodiverzitás"]
+    },
+    {
+      "id": "finca-arroz-cocle-life-v2",
+      "description": "Coclé tartomány rizstermelő gazdasága, amely hozzájárul Panama élelmiszerellátásához.",
+      "facts": ["Rizstermesztés", "Agrárgazdaság", "Helyi termelés"]
+    },
+    {
+      "id": "parque-nacional-coiba-animales-life-v2",
+      "description": "Coiba Nemzeti Park, amely egyedülálló állatvilággal rendelkező szigetcsoport.",
+      "facts": ["Védett nemzeti park", "Egyedi élővilág", "Búvárkodás"]
+    },
+    {
+      "id": "finca-maiz-veraguas-life-v2",
+      "description": "Veraguas tartomány kukoricatermelő gazdasága, alapvető mezőgazdasági termelőhely.",
+      "facts": ["Kukoricatermesztés", "Mezőgazdaság", "Helyi élelmiszer"]
+    },
+    {
+      "id": "parque-infantil-david-life-v2",
+      "description": "Játszótér David városában, amely a helyi gyermekek egyik kedvelt helyszíne.",
+      "facts": ["Gyermekjátszótér", "David városi park", "Közösségi tér"]
+    },
+    {
+      "id": "santuario-perezosos-gambo-life-v2",
+      "description": "Lajhármenedék, amely sérült lajhárok gondozásával és rehabilitációjával foglalkozik.",
+      "facts": ["Lajhárok védelme", "Rehabilitációs központ", "Állatvédelem"]
+    },
+    {
+      "id": "cerro-gaital-relief-v2",
+      "description": "Jelentős hegycsúcs a régióban, népszerű a túrázók körében.",
+      "facts": ["Hegyi csúcs", "Túrázás", "Panoráma"]
+    },
+    {
+      "id": "cerro-tute-relief-v2",
+      "description": "Kiemelkedő domborzati formáció, a régió egyik ismert hegye.",
+      "facts": ["Hegyi vonulat", "Túrázási célpont", "Földrajzi tájékozódási pont"]
+    }
+  ]
+}

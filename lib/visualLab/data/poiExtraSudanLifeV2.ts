@@ -27,10 +27,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A centrally located zoo in the capital for families. Home to native species. Popular with children. Educational offers. Green oasis. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Heimat heimischer Tierarten.", "Beliebt bei Kindern.", "Bildungsangebote.", "Grüne Oase.", "Ein zentral gelegener Zoo in der Hauptstadt für Familien.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Otthont ad őshonos állatfajoknak.", "Népszerű a gyerekek körében.", "Oktatási lehetőségek.", "Zöld oázis.", "Központilag elhelyezkedő állatkert a fővárosban családok számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Găzduiește specii native.", "Populară printre copii.", "Oferte educaționale.", "Oază verde.", "O grădină zoologică situată central în capitală pentru familii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Home to native species.", "Popular with children.", "Educational offers.", "Green oasis.", "A centrally located zoo in the capital for families.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein zentral gelegener Zoo in der Hauptstadt für Familien.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Központilag elhelyezkedő állatkert a fővárosban családok számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O grădină zoologică situată central în capitală pentru familii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A centrally located zoo in the capital for families.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -58,10 +58,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "One of the largest agricultural irrigation projects in the world. Main cotton-growing area. Important for economy. Large canal system. Livelihood for thousands. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Hauptanbaugebiet für Baumwolle.", "Wichtig für die Wirtschaft.", "Großes Kanalsystem.", "Lebensgrundlage für Tausende.", "Eines der größten landwirtschaftlichen Bewässerungsprojekte weltweit.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Fő gyapottermesztő terület.", "Fontos a gazdaság számára.", "Nagy csatornarendszer.", "Megélhetés ezrek számára.", "A világ egyik legnagyobb mezőgazdasági öntözési projektje.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Principală zonă de cultivare a bumbacului.", "Important pentru economie.", "Sistem mare de canale.", "Sursă de existență pentru mii.", "Unul dintre cele mai mari proiecte de irigații agricole din lume.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Main cotton-growing area.", "Important for economy.", "Large canal system.", "Livelihood for thousands.", "One of the largest agricultural irrigation projects in the world.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Eines der größten landwirtschaftlichen Bewässerungsprojekte weltweit.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["A világ egyik legnagyobb mezőgazdasági öntözési projektje.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Unul dintre cele mai mari proiecte de irigații agricole din lume.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["One of the largest agricultural irrigation projects in the world.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -89,10 +89,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A major biosphere reserve for African wildlife. Habitat for lions. Important for migratory birds. Safari experience. Protected ecosystem. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Lebensraum für Löwen.", "Wichtig für Zugvögel.", "Safari-Erlebnis.", "Geschütztes Ökosystem.", "Ein bedeutendes Biosphärenreservat für afrikanische Wildtiere.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Oroszlánok élőhelye.", "Fontos vándormadaraknak.", "Szafari élmény.", "Védett ökoszisztéma.", "Jelentős bioszféra-rezervátum az afrikai vadállatok számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Habitat pentru lei.", "Important pentru păsările migratoare.", "Experiență de safari.", "Ecosistem protejat.", "O rezervație a biosferei importantă pentru fauna africană.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Habitat for lions.", "Important for migratory birds.", "Safari experience.", "Protected ecosystem.", "A major biosphere reserve for African wildlife.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein bedeutendes Biosphärenreservat für afrikanische Wildtiere.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Jelentős bioszféra-rezervátum az afrikai vadállatok számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O rezervație a biosferei importantă pentru fauna africană.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A major biosphere reserve for African wildlife.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -120,10 +120,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A protected marine ecosystem in the Red Sea. UNESCO World Heritage. Rich in fish species. Popular for diving. Coral paradise. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["UNESCO-Welterbe.", "Reich an Fischarten.", "Beliebt zum Tauchen.", "Korallenparadies.", "Ein geschütztes marines Ökosystem im Roten Meer.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["UNESCO világörökség.", "Gazdag halfajokban.", "Népszerű búvárkodáshoz.", "Korallparadicsom.", "Védett tengeri ökoszisztéma a Vörös-tengerben.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Patrimoniu mondial UNESCO.", "Bogată în specii de pești.", "Populară pentru scufundări.", "Paradis coralifer.", "Un ecosistem marin protejat în Marea Roșie.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["UNESCO World Heritage.", "Rich in fish species.", "Popular for diving.", "Coral paradise.", "A protected marine ecosystem in the Red Sea.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein geschütztes marines Ökosystem im Roten Meer.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Védett tengeri ökoszisztéma a Vörös-tengerben.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un ecosistem marin protejat în Marea Roșie.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A protected marine ecosystem in the Red Sea.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -151,10 +151,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A peaceful garden for families in the capital. Diverse flora. Play areas. Perfect for picnics. Learning place for children. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Vielfältige Pflanzenwelt.", "Spielmöglichkeiten.", "Perfekt für Picknicks.", "Lernort für Kinder.", "Ein friedlicher Garten für Familien in der Hauptstadt.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Változatos növényvilág.", "Játéklehetőségek.", "Tökéletes piknikezéshez.", "Tanulási hely gyerekeknek.", "Békés kert családoknak a fővárosban.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Floră diversă.", "Posibilități de joacă.", "Perfect pentru picnicuri.", "Loc de învățare pentru copii.", "O grădină liniștită pentru familii în capitală.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Diverse flora.", "Play areas.", "Perfect for picnics.", "Learning place for children.", "A peaceful garden for families in the capital.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein friedlicher Garten für Familien in der Hauptstadt.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Békés kert családoknak a fővárosban.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O grădină liniștită pentru familii în capitală.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A peaceful garden for families in the capital.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -182,10 +182,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Traditional grazing areas for the Nuba people's livestock. Important for local livestock. Traditional way of life. Seasonal migration. Rich pastures. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Wichtig für die lokale Viehzucht.", "Traditionelle Lebensweise.", "Saisonale Migration.", "Reiche Weiden.", "Traditionelle Weidegebiete für das Vieh der Nuba.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Fontos a helyi állattenyésztésnek.", "Hagyományos életmód.", "Szezonális vándorlás.", "Gazdag legelők.", "Hagyományos legelőterületek a Nuba nép állatállománya számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Important pentru zootehnia locală.", "Mod de viață tradițional.", "Migrație sezonieră.", "Pășuni bogate.", "Pășuni tradiționale pentru șeptelul poporului Nuba.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Important for local livestock.", "Traditional way of life.", "Seasonal migration.", "Rich pastures.", "Traditional grazing areas for the Nuba people's livestock.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Traditionelle Weidegebiete für das Vieh der Nuba.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Hagyományos legelőterületek a Nuba nép állatállománya számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Pășuni tradiționale pentru șeptelul poporului Nuba.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Traditional grazing areas for the Nuba people's livestock.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -213,10 +213,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "An agriculturally fertile area around the Sennar Dam. Irrigation from the Blue Nile. Fruit and vegetable growing. Regional market. Dam view. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Bewässerung aus dem Blauen Nil.", "Obst- und Gemüseanbau.", "Regionaler Markt.", "Staudamm-Aussicht.", "Ein landwirtschaftlich fruchtbares Gebiet um den Sennar-Damm.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Öntözés a Kék-Nílusból.", "Gyümölcs- és zöldségtermesztés.", "Regionális piac.", "Gátra néző kilátás.", "Mezőgazdaságilag termékeny terület a Sennar-gát körül.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Irigare din Nilul Albastru.", "Cultivarea fructelor și legumelor.", "Piață regională.", "Priveliște asupra barajului.", "O zonă fertilă agricol din jurul barajului Sennar.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Irrigation from the Blue Nile.", "Fruit and vegetable growing.", "Regional market.", "Dam view.", "An agriculturally fertile area around the Sennar Dam.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein landwirtschaftlich fruchtbares Gebiet um den Sennar-Damm.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Mezőgazdaságilag termékeny terület a Sennar-gát körül.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O zonă fertilă agricol din jurul barajului Sennar.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["An agriculturally fertile area around the Sennar Dam.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -244,10 +244,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A marine habitat off the coast near Suakin. Rich marine biodiversity. Diving area. Protected corals. Fish-rich waters. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Reiche marine Biodiversität.", "Tauchgebiet.", "Geschützte Korallen.", "Fischreiche Gewässer.", "Ein mariner Lebensraum vor der Küste bei Suakin.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Gazdag tengeri biodiverzitás.", "Búvárterület.", "Védett korallok.", "Halban gazdag vizek.", "Tengeri élőhely Suakin partjainál.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Biodiversitate marină bogată.", "Zonă de scufundări.", "Corali protejați.", "Ape bogate în pești.", "Habitat marin în largul coastei lângă Suakin.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Rich marine biodiversity.", "Diving area.", "Protected corals.", "Fish-rich waters.", "A marine habitat off the coast near Suakin.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein mariner Lebensraum vor der Küste bei Suakin.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Tengeri élőhely Suakin partjainál.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Habitat marin în largul coastei lângă Suakin.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A marine habitat off the coast near Suakin.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -275,10 +275,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "An amusement park with rides for children. Popular destination. Rides. Games. Family entertainment. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Beliebtes Ausflugsziel.", "Fahrgeschäfte.", "Spiele.", "Familienunterhaltung.", "Ein Vergnügungspark mit Fahrgeschäften für Kinder.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Népszerű kirándulóhely.", "Vidámparki játékok.", "Játékok.", "Családi szórakozás.", "Vidámpark játékokkal gyerekeknek.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Destinație populară.", "Atracții.", "Jocuri.", "Divertisment familial.", "Un parc de distracții cu atracții pentru copii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Popular destination.", "Rides.", "Games.", "Family entertainment.", "An amusement park with rides for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Vergnügungspark mit Fahrgeschäften für Kinder.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Vidámpark játékokkal gyerekeknek.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un parc de distracții cu atracții pentru copii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["An amusement park with rides for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -306,10 +306,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Terraced farming on the fertile slopes of Jebel Marra. Climate for fruit growing. Traditional methods. Mountain agriculture. Local products. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Klima für Obstanbau.", "Traditionelle Methoden.", "Berglandwirtschaft.", "Lokale Erzeugnisse.", "Terrassenfeldbau in den fruchtbaren Hängen des Jebel Marra.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Klíma gyümölcstermesztéshez.", "Hagyományos módszerek.", "Hegyi mezőgazdaság.", "Helyi termékek.", "Teraszos gazdálkodás a Jebel Marra termékeny lejtőin.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Climă pentru pomicultură.", "Metode tradiționale.", "Agricultură montană.", "Produse locale.", "Agricultură în terase pe versanții fertili ai Jebel Marra.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Climate for fruit growing.", "Traditional methods.", "Mountain agriculture.", "Local products.", "Terraced farming on the fertile slopes of Jebel Marra.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Terrassenfeldbau in den fruchtbaren Hängen des Jebel Marra.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Teraszos gazdálkodás a Jebel Marra termékeny lejtőin.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Agricultură în terase pe versanții fertili ai Jebel Marra.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Terraced farming on the fertile slopes of Jebel Marra.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -337,10 +337,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A hub for fishing on Lake Nasser near Wadi Halfa. Main source for freshwater fish. Local markets. Artisanal fishing. Important for nutrition. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Hauptquelle für Süßwasserfisch.", "Lokale Märkte.", "Handwerkliche Fischerei.", "Wichtig für die Ernährung.", "Ein Zentrum für Fischerei am Nasser-Stausee bei Wadi Halfa.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Édesvízi halak fő forrása.", "Helyi piacok.", "Kisipari halászat.", "Fontos a táplálkozásban.", "Halászati központ a Nasszer-tónál, Wadi Halfa mellett.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Sursă principală de pește de apă dulce.", "Piețe locale.", "Pescuit artizanal.", "Important pentru nutriție.", "Un centru de pescuit pe lacul Nasser, aproape de Wadi Halfa.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Main source for freshwater fish.", "Local markets.", "Artisanal fishing.", "Important for nutrition.", "A hub for fishing on Lake Nasser near Wadi Halfa.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Zentrum für Fischerei am Nasser-Stausee bei Wadi Halfa.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Halászati központ a Nasszer-tónál, Wadi Halfa mellett.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un centru de pescuit pe lacul Nasser, aproape de Wadi Halfa.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A hub for fishing on Lake Nasser near Wadi Halfa.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -368,10 +368,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Agricultural region around the Roseires Dam. Irrigated area. Grain farming. Near the Blue Nile. Agricultural growth. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Bewässerungsgebiet.", "Getreideanbau.", "Nahe am Blauen Nil.", "Landwirtschaftliches Wachstum.", "Landwirtschaftliche Region um den Roseires-Staudamm.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Öntözött terület.", "Gabonatermesztés.", "A Kék-Nílus közelében.", "Mezőgazdasági növekedés.", "Mezőgazdasági régió a Roseires-gát körül.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Zonă irigată.", "Cultivarea cerealelor.", "Aproape de Nilul Albastru.", "Creștere agricolă.", "Regiune agricolă în jurul barajului Roseires.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Irrigated area.", "Grain farming.", "Near the Blue Nile.", "Agricultural growth.", "Agricultural region around the Roseires Dam.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Landwirtschaftliche Region um den Roseires-Staudamm.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Mezőgazdasági régió a Roseires-gát körül.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Regiune agricolă în jurul barajului Roseires.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Agricultural region around the Roseires Dam.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -399,10 +399,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A family resort in Dinder National Park. Nature experience for families. Wildlife observation. Ecotourism. Education for children. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Naturerlebnis für Familien.", "Wildlife-Beobachtungen.", "Ökotourismus.", "Bildung für Kinder.", "Ein Familien-Resort im Dinder Nationalpark.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Természetélmény családoknak.", "Vadvilág-megfigyelések.", "Ökoturizmus.", "Oktatás gyerekeknek.", "Családi üdülőhely a Dinder Nemzeti Parkban.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Experiență naturală pentru familii.", "Observarea faunei.", "Ecoturism.", "Educație pentru copii.", "O stațiune familială în Parcul Național Dinder.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Nature experience for families.", "Wildlife observation.", "Ecotourism.", "Education for children.", "A family resort in Dinder National Park.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Familien-Resort im Dinder Nationalpark.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Családi üdülőhely a Dinder Nemzeti Parkban.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O stațiune familială în Parcul Național Dinder.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A family resort in Dinder National Park.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -430,10 +430,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A vibrant market to explore for children and families. Local crafts. Fresh products. Colorful bustle. Cultural encounters. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Lokales Handwerk.", "Frische Produkte.", "Buntes Treiben.", "Kulturelle Begegnungen.", "Ein lebendiger Markt zum Entdecken für Kinder und Familien.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Helyi kézműves termékek.", "Friss termékek.", "Színes nyüzsgés.", "Kulturális találkozások.", "Élénk piac felfedezésre gyerekek és családok számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Artizanat local.", "Produse proaspete.", "Agitație colorată.", "Întâlniri culturale.", "O piață vibrantă de explorat pentru copii și familii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Local crafts.", "Fresh products.", "Colorful bustle.", "Cultural encounters.", "A vibrant market to explore for children and families.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein lebendiger Markt zum Entdecken für Kinder und Familien.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Élénk piac felfedezésre gyerekek és családok számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O piață vibrantă de explorat pentru copii și familii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A vibrant market to explore for children and families.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -461,10 +461,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A place to learn about Nuba culture for children. Traditional dances. Art exhibits. Learning workshops. Unique traditions. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Traditionelle Tänze.", "Kunstausstellungen.", "Lern-Workshops.", "Einzigartige Traditionen.", "Ein Ort zum Kennenlernen der Nuba-Kultur für Kinder.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Hagyományos táncok.", "Művészeti kiállítások.", "Tanuló műhelyek.", "Egyedi hagyományok.", "Hely a Nuba kultúra megismerésére gyerekek számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Dansuri tradiționale.", "Expoziții de artă.", "Ateliere de învățare.", "Tradiții unice.", "Loc pentru cunoașterea culturii Nuba pentru copii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Traditional dances.", "Art exhibits.", "Learning workshops.", "Unique traditions.", "A place to learn about Nuba culture for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Ort zum Kennenlernen der Nuba-Kultur für Kinder.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Hely a Nuba kultúra megismerésére gyerekek számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Loc pentru cunoașterea culturii Nuba pentru copii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A place to learn about Nuba culture for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -492,10 +492,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Fruit orchards along the White Nile. Citrus farming. Irrigation from the Nile. Local supply. Beautiful garden landscape. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Zitrusfrüchteanbau.", "Bewässerung aus dem Nil.", "Lokale Versorgung.", "Schöne Gartenlandschaft.", "Obstplantagen entlang des Weißen Nils.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Citrusfélék termesztése.", "Öntözés a Nílusból.", "Helyi ellátás.", "Szép kerti táj.", "Gyümölcsültetvények a Fehér-Nílus mentén.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Cultivarea citricelor.", "Irigare din Nil.", "Aprovizionare locală.", "Peisaj frumos de grădină.", "Livezi de-a lungul Nilului Alb.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Citrus farming.", "Irrigation from the Nile.", "Local supply.", "Beautiful garden landscape.", "Fruit orchards along the White Nile.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Obstplantagen entlang des Weißen Nils.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Gyümölcsültetvények a Fehér-Nílus mentén.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Livezi de-a lungul Nilului Alb.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Fruit orchards along the White Nile.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -523,10 +523,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A park on a historical island in Suakin. Historical environment. Picnic spots. Sea relaxation. Playground for children. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Historische Umgebung.", "Picknickplätze.", "Erholung am Meer.", "Spielplatz für Kinder.", "Ein Park auf einer historischen Insel in Suakin.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Történelmi környezet.", "Piknikezőhelyek.", "Pihenés a tengernél.", "Játszótér gyerekeknek.", "Park egy történelmi szigeten, Suakinban.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Cadru istoric.", "Locuri de picnic.", "Relaxare la mare.", "Loc de joacă pentru copii.", "Un parc pe o insulă istorică în Suakin.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Historical environment.", "Picnic spots.", "Sea relaxation.", "Playground for children.", "A park on a historical island in Suakin.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Park auf einer historischen Insel in Suakin.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Park egy történelmi szigeten, Suakinban.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un parc pe o insulă istorică în Suakin.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A park on a historical island in Suakin.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -554,10 +554,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A traditional village on the banks of the Blue Nile. Traditional fishing. Vibrant village life. Handmade nets. Local fish sales. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Traditionelle Fischerei.", "Lebendiges Dorfleben.", "Handgefertigte Netze.", "Lokaler Fischverkauf.", "Ein traditionelles Dorf am Ufer des Blauen Nils.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Hagyományos halászat.", "Élénk falusi élet.", "Kézzel készített hálók.", "Helyi halárusítás.", "Hagyományos falu a Kék-Nílus partján.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Pescuit tradițional.", "Viață de sat vibrantă.", "Plase artizanale.", "Vânzare locală de pește.", "Un sat tradițional pe malul Nilului Albastru.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Traditional fishing.", "Vibrant village life.", "Handmade nets.", "Local fish sales.", "A traditional village on the banks of the Blue Nile.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein traditionelles Dorf am Ufer des Blauen Nils.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Hagyományos falu a Kék-Nílus partján.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un sat tradițional pe malul Nilului Albastru.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A traditional village on the banks of the Blue Nile.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -585,10 +585,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Agricultural development around the Merowe Dam. Modern irrigation. Agrarian project. Near historical sites. Large water reserves. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Moderne Bewässerung.", "Agrarprojekt.", "Nahe historischer Stätten.", "Große Wasserreserven.", "Landwirtschaftliche Entwicklung um den Merowe-Damm.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Modern öntözés.", "Agrárprojekt.", "Közel történelmi helyekhez.", "Nagy víztartalékok.", "Mezőgazdasági fejlődés a Merowe-gát körül.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Irigare modernă.", "Proiect agricol.", "Aproape de situri istorice.", "Rezerve mari de apă.", "Dezvoltare agricolă în jurul barajului Merowe.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Modern irrigation.", "Agrarian project.", "Near historical sites.", "Large water reserves.", "Agricultural development around the Merowe Dam.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Landwirtschaftliche Entwicklung um den Merowe-Damm.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Mezőgazdasági fejlődés a Merowe-gát körül.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Dezvoltare agricolă în jurul barajului Merowe.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Agricultural development around the Merowe Dam.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -616,10 +616,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A colorful market for fresh fruit in Kassala. Rich selection. Local produce. Traditional market atmosphere. Healthy specialties. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Reiche Auswahl.", "Lokale Anbauprodukte.", "Traditionelle Marktstimmung.", "Gesunde Spezialitäten.", "Ein bunter Markt für frische Früchte in Kassala.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Gazdag választék.", "Helyi termékek.", "Hagyományos piaci hangulat.", "Egészséges specialitások.", "Színes piac friss gyümölcsökkel Kassalában.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Selecție bogată.", "Produse locale.", "Atmosferă de piață tradițională.", "Specialități sănătoase.", "O piață colorată de fructe proaspete în Kassala.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Rich selection.", "Local produce.", "Traditional market atmosphere.", "Healthy specialties.", "A colorful market for fresh fruit in Kassala.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein bunter Markt für frische Früchte in Kassala.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Színes piac friss gyümölcsökkel Kassalában.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O piață colorată de fructe proaspete în Kassala.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A colorful market for fresh fruit in Kassala.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -647,10 +647,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Traditional honey production in the Nuba Mountains. Natural honey. Traditional beekeeping. Local delicacy. Important farm income. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Natürlicher Honig.", "Traditionelle Bienenzucht.", "Lokale Delikatesse.", "Wichtiges bäuerliches Einkommen.", "Traditionelle Honiggewinnung in den Nuba-Bergen.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Természetes méz.", "Hagyományos méhészet.", "Helyi finomság.", "Fontos paraszti jövedelem.", "Hagyományos méztermelés a Nuba-hegységben.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Miere naturală.", "Apicultură tradițională.", "Delicatesă locală.", "Venit agricol important.", "Producția tradițională de miere în Munții Nuba.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Natural honey.", "Traditional beekeeping.", "Local delicacy.", "Important farm income.", "Traditional honey production in the Nuba Mountains.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Traditionelle Honiggewinnung in den Nuba-Bergen.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Hagyományos méztermelés a Nuba-hegységben.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Producția tradițională de miere în Munții Nuba.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Traditional honey production in the Nuba Mountains.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -678,10 +678,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Large date palm plantations along the Nile near Dongola. Important for date production. Culture of date harvest. Traditional farming methods. Export product. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Wichtig für Dattelproduktion.", "Kultur der Dattelernte.", "Traditionelle Anbaumethoden.", "Exportprodukt.", "Große Dattelplantagen entlang des Nils bei Dongola.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Fontos a datolyatermesztésben.", "A datolyaszüret kultúrája.", "Hagyományos termesztési módszerek.", "Exporttermék.", "Nagy datolyaültetvények a Nílus mentén, Dongolánál.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Important pentru producția de curmale.", "Cultura recoltării curmalelor.", "Metode de cultivare tradiționale.", "Produs de export.", "Plantații mari de curmali de-a lungul Nilului la Dongola.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Important for date production.", "Culture of date harvest.", "Traditional farming methods.", "Export product.", "Large date palm plantations along the Nile near Dongola.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Große Dattelplantagen entlang des Nils bei Dongola.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Nagy datolyaültetvények a Nílus mentén, Dongolánál.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Plantații mari de curmali de-a lungul Nilului la Dongola.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Large date palm plantations along the Nile near Dongola.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -709,10 +709,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A park on Tuti Island for family leisure. Green space in the city. Picnic spots. Nile view. Play area. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Grünfläche in der Stadt.", "Picknickplätze.", "Blick auf den Nil.", "Spielbereich.", "Ein Park auf der Insel Tuti für Familien-Freizeit.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Zöld terület a városban.", "Piknikezőhelyek.", "Kilátás a Nílusra.", "Játékterület.", "Park a Tuti-szigeten családi kikapcsolódásra.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Zonă verde în oraș.", "Locuri de picnic.", "Priveliște asupra Nilului.", "Zonă de joacă.", "Un parc pe insula Tuti pentru recreere familială.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Green space in the city.", "Picnic spots.", "Nile view.", "Play area.", "A park on Tuti Island for family leisure.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Park auf der Insel Tuti für Familien-Freizeit.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Park a Tuti-szigeten családi kikapcsolódásra.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un parc pe insula Tuti pentru recreere familială.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A park on Tuti Island for family leisure.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -740,10 +740,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A relaxing boat trip on the Nile for the whole family. Great experience. View from the water. Safe boats. Perfect for photos. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Tolles Erlebnis.", "Blick vom Wasser.", "Sichere Boote.", "Perfekt für Fotos.", "Eine entspannte Bootsfahrt auf dem Nil für die ganze Familie.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Nagyszerű élmény.", "Kilátás a vízről.", "Biztonságos csónakok.", "Tökéletes fotózáshoz.", "Pihentető hajókázás a Níluson az egész család számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Experiență grozavă.", "Priveliște de pe apă.", "Ambarcațiuni sigure.", "Perfect pentru fotografii.", "O croazieră relaxantă pe Nil pentru întreaga familie.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Great experience.", "View from the water.", "Safe boats.", "Perfect for photos.", "A relaxing boat trip on the Nile for the whole family.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Eine entspannte Bootsfahrt auf dem Nil für die ganze Familie.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Pihentető hajókázás a Níluson az egész család számára.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O croazieră relaxantă pe Nil pentru întreaga familie.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A relaxing boat trip on the Nile for the whole family.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -771,10 +771,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "An important grain-growing area in the east. Large cultivation areas. Wheat and sorghum. Regional center. Mechanized agriculture. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Große Anbauflächen.", "Weizen und Sorghum.", "Regionales Zentrum.", "Technisierte Landwirtschaft.", "Ein wichtiges Anbaugebiet für Getreide im Osten.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Nagy termesztőterületek.", "Búza és cirok.", "Regionális központ.", "Gépesített mezőgazdaság.", "Fontos gabonatermesztő terület keleten.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Zone mari de cultivare.", "Grâu și sorg.", "Centru regional.", "Agricultură mecanizată.", "O zonă importantă de cultivare a cerealelor în est.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Large cultivation areas.", "Wheat and sorghum.", "Regional center.", "Mechanized agriculture.", "An important grain-growing area in the east.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein wichtiges Anbaugebiet für Getreide im Osten.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Fontos gabonatermesztő terület keleten.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O zonă importantă de cultivare a cerealelor în est.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["An important grain-growing area in the east.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -802,10 +802,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A center for protecting young wildlife on the Nile. Species conservation for children. Encounter with animals. Educational programs. Important rescue work. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones."
     },
     factsAdvanced: {
-      de: ["Artenschutz für Kinder.", "Begegnung mit Tieren.", "Bildungsprogramme.", "Wichtige Rettungsarbeit.", "Ein Zentrum zum Schutz junger Wildtiere am Nil.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Fajvédelem gyerekeknek.", "Állatokkal való találkozás.", "Oktatási programok.", "Fontos mentési munka.", "Központ fiatal vadállatok védelmére a Níluson.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Conservarea speciilor pentru copii.", "Întâlnire cu animalele.", "Programe educaționale.", "Muncă importantă de salvare.", "Un centru pentru protecția faunei tinere de pe Nil.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Species conservation for children.", "Encounter with animals.", "Educational programs.", "Important rescue work.", "A center for protecting young wildlife on the Nile.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Zentrum zum Schutz junger Wildtiere am Nil.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Központ fiatal vadállatok védelmére a Níluson.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un centru pentru protecția faunei tinere de pe Nil.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A center for protecting young wildlife on the Nile.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -833,10 +833,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "Natural springs in the mountains, ideal for family outings. Cool water. Picnic spots. Natural beauty. Refreshing stop. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Kühles Wasser.", "Picknickplätze.", "Naturschönheit.", "Erfrischender Stopp.", "Natürliche Quellen im Gebirge, ideal für Familienausflüge.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Hűvös víz.", "Piknikezőhelyek.", "Természeti szépség.", "Frissítő megálló.", "Természetes források a hegyekben, ideális családi kirándulásokhoz.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Apă rece.", "Locuri de picnic.", "Frumusețe naturală.", "Oprire revigorantă.", "Izvoare naturale în munți, ideale pentru excursii în familie.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Cool water.", "Picnic spots.", "Natural beauty.", "Refreshing stop.", "Natural springs in the mountains, ideal for family outings.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Natürliche Quellen im Gebirge, ideal für Familienausflüge.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Természetes források a hegyekben, ideális családi kirándulásokhoz.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Izvoare naturale în munți, ideale pentru excursii în familie.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["Natural springs in the mountains, ideal for family outings.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -864,10 +864,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A vibrant traditional market in Dongola. Local textiles. Spices. Traditional crafts. Cultural atmosphere. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Lokale Stoffe.", "Gewürze.", "Traditionelle Handwerkskunst.", "Kulturelle Atmosphäre.", "Ein lebhafter traditioneller Markt in Dongola.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Helyi szövetek.", "Fűszerek.", "Hagyományos kézművesség.", "Kulturális hangulat.", "Élénk hagyományos piac Dongolában.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Țesături locale.", "Condimente.", "Artizanat tradițional.", "Atmosferă culturală.", "O piață tradițională vibrantă în Dongola.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Local textiles.", "Spices.", "Traditional crafts.", "Cultural atmosphere.", "A vibrant traditional market in Dongola.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein lebhafter traditioneller Markt in Dongola.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Élénk hagyományos piac Dongolában.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["O piață tradițională vibrantă în Dongola.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A vibrant traditional market in Dongola.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   },
   {
@@ -895,10 +895,10 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: "A riverside park in Kosti for children. Playgrounds. Green relaxation. Nice view. Ideal for families. Thus, the site is among the characteristic points of Sudan along the Nile, the Nubian Desert and the Red Sea, and offers insight into the ancient Nubian heritage and the regional identity. Located in the Northeast African state of Sudan. The region is shaped by the Nile and the Nubian Desert. Climate is mostly hot and dry, with desert and Sahel zones. Accessible via the national road network and Nile waterways."
     },
     factsAdvanced: {
-      de: ["Spielplätze.", "Grüne Erholung.", "Schöner Blick.", "Ideal für Familien.", "Ein Park am Flussufer in Kosti für Kinder.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
-      hu: ["Játszóterek.", "Zöld kikapcsolódás.", "Szép kilátás.", "Ideális családoknak.", "Park a folyóparton, Kostiban, gyerekeknek.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
-      ro: ["Locuri de joacă.", "Relaxare verde.", "Priveliște frumoasă.", "Ideal pentru familii.", "Un parc pe malul râului în Kosti pentru copii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
-      en: ["Playgrounds.", "Green relaxation.", "Nice view.", "Ideal for families.", "A riverside park in Kosti for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
+      de: ["Ein Park am Flussufer in Kosti für Kinder.", "Liegt im nordostafrikanischen Staat Sudan.", "Region geprägt vom Nil und der Nubischen Wüste.", "Klima überwiegend heiß und trocken, mit Wüsten- und Sahelzonen."],
+      hu: ["Park a folyóparton, Kostiban, gyerekeknek.", "Az északkelet-afrikai Szudán területén fekszik.", "A régiót a Nílus és a Núbiai-sivatag határozza meg.", "Éghajlata többségében forró és száraz, sivatagi és száheli zónákkal."],
+      ro: ["Un parc pe malul râului în Kosti pentru copii.", "Este situat în statul nord-est african Sudan.", "Regiunea este definită de Nil și de Deșertul Nubian.", "Climatul este predominant cald și uscat, cu zone deșertice și sahelene."],
+      en: ["A riverside park in Kosti for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   }
 ];

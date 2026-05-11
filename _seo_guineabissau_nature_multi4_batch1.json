@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauNatureV2.ts"],
+  "items": [
+    {
+      "id": "rio-cacheu-nature-v2",
+      "descriptionAdvancedDe": "Der Rio Cacheu ist mit einer Länge von etwa 257 Kilometern einer der bedeutendsten Flüsse im Norden Guinea-Bissaus. Er entspringt nahe der senegalesischen Grenze und mündet bei der Stadt Cacheu in einem breiten Ästuar in den Atlantik. Dieses Mündungsgebiet beherbergt den Parque Natural dos Tarrafes do Rio Cacheu, der 2000 gegründet wurde und mit über 680 Quadratkilometern eines der größten zusammenhängenden Mangrovengebiete Westafrikas schützt. Der Park ist ein entscheidender Lebensraum für den gefährdeten Afrikanischen Manati, Krokodile und Flusspferde sowie ein wichtiges Überwinterungsgebiet für Zugvögel. Im Plizio-Lehrplan wird dieser Fluss in Biologie K8 behandelt, um die ökologische Bedeutung von Mangrovenökosystemen und den Schutz der Biodiversität zu verdeutlichen.",
+      "descriptionAdvancedHu": "A Cacheu-folyó mintegy 257 kilométeres hosszával Bissau-Guinea északi részének egyik legfontosabb folyója. A szenegáli határ közelében ered, és Cacheu városánál széles tölcsértorkolattal ömlik az Atlanti-óceánba. Ez a torkolatvidék ad otthont a 2000-ben alapított Rio Cacheu Mangrove Nemzeti Parknak, amely több mint 680 négyzetkilométeres területével Nyugat-Afrika egyik legnagyobb összefüggő mangrove-erdejét védi. A park létfontosságú élőhely a veszélyeztetett afrikai manátusz, a krokodilok és a vízilovak számára, valamint fontos telelőterület a vonuló madaraknak. A Plizio tantervében a Biológia K8 tananyag részeként szerepel, a mangrove ökoszisztémák ökológiai jelentőségének és a biodiverzitás védelmének bemutatására.",
+      "descriptionAdvancedRo": "Râul Cacheu, cu o lungime de aproximativ 257 de kilometri, este unul dintre cele mai importante râuri din nordul Guineei-Bissau. Izvorăște lângă granița cu Senegal și se varsă în Oceanul Atlantic printr-un estuar larg, lângă orașul Cacheu. Acest estuar găzduiește Parcul Natural al Mangrovelor Râului Cacheu, înființat în anul 2000, care protejează una dintre cele mai mari zone continue de mangrove din Africa de Vest, acoperind peste 680 de kilometri pătrați. Parcul este un habitat crucial pentru lamantinul african, specie pe cale de dispariție, crocodili și hipopotami, precum și o zonă importantă de iernare pentru păsările migratoare. În curriculumul Plizio, acest râu este studiat la Biologie K8 pentru a ilustra importanța ecologică a ecosistemelor de mangrove și conservarea biodiversității.",
+      "descriptionAdvancedEn": "The Cacheu River, with a length of about 257 kilometers, is one of the most significant rivers in northern Guinea-Bissau. It originates near the Senegalese border and flows into the Atlantic Ocean in a wide estuary near the town of Cacheu. This estuary is home to the Rio Cacheu Mangroves Natural Park, established in 2000, which protects one of the largest continuous mangrove areas in West Africa, covering over 680 square kilometers. The park is a crucial habitat for the vulnerable African manatee, crocodiles, and hippos, as well as an important wintering ground for migratory birds. In the Plizio curriculum, this river is covered in Biology K8 to illustrate the ecological importance of mangrove ecosystems and the conservation of biodiversity.",
+      "factsAdvanced": [
+        "Hossza kb. 257 km.",
+        "A torkolatvidéki nemzeti parkot 2000-ben alapították.",
+        "A park területe több mint 680 km².",
+        "Nyugat-Afrika egyik legnagyobb mangrove-területe.",
+        "Fontos telelőhely a vonuló madarak számára.",
+        "Védelmet nyújt a veszélyeztetett afrikai manátusznak.",
+        "A folyó a nevét a történelmi Cacheu városáról kapta.",
+        "Jelentős szerepet játszik a helyi rizstermesztésben."
+      ]
+    },
+    {
+      "id": "rio-corubal-nature-v2",
+      "descriptionAdvancedDe": "Der Rio Corubal entspringt im Fouta-Djallon-Bergland in Guinea und legt etwa 450 Kilometer zurück, bevor er in Guinea-Bissau in das Geba-Ästuar mündet. Der Fluss ist bekannt für seine beeindruckende landschaftliche Schönheit, insbesondere die Saltos de Cusselinta, eine Reihe von Wasserfällen und Stromschnellen in der östlichen Region Gabú. Diese Abschnitte sind nicht nur visuell spektakulär, sondern besitzen auch ein erhebliches Potenzial für die Wasserkrafterzeugung. Der Corubal ist eine lebenswichtige Süßwasserquelle für die Landwirtschaft und die lokale Bevölkerung. Tragischerweise erlangte er 1969 traurige Berühmtheit durch den Untergang einer Fähre mit portugiesischen Soldaten. Im Plizio-Lehrplan der Geografie K7 wird der Fluss als Beispiel für die Topografie und die hydroelektrischen Ressourcen Westafrikas besprochen.",
+      "descriptionAdvancedHu": "A Corubal-folyó a guineai Fouta Djallon-hegységben ered, és körülbelül 450 kilométert tesz meg, mielőtt Bissau-Guineában a Geba-torkolatba ömlik. A folyó lenyűgöző természeti szépségéről ismert, különösen a keleti Gabú régióban található Saltos de Cusselinta vízeséseiről és zúgóiról. Ezek a szakaszok nemcsak vizuálisan látványosak, hanem jelentős vízenergia-potenciállal is rendelkeznek. A Corubal létfontosságú édesvízforrás a mezőgazdaság és a helyi lakosság számára. Szomorú hírnévre tett szert 1969-ben, amikor egy portugál katonákat szállító komp elsüllyedt a folyón. A Plizio Földrajz K7 tantervében a folyót Nyugat-Afrika domborzatának és vízenergia-forrásainak példájaként tárgyalják.",
+      "descriptionAdvancedRo": "Râul Corubal izvorăște din masivul Fouta Djallon din Guineea și parcurge aproximativ 450 de kilometri înainte de a se vărsa în estuarul Geba, în Guineea-Bissau. Râul este cunoscut pentru frumusețea sa peisagistică impresionantă, în special pentru Saltos de Cusselinta, o serie de cascade și repezișuri din regiunea estică Gabú. Aceste secțiuni nu sunt doar spectaculoase vizual, ci posedă și un potențial hidroenergetic semnificativ. Corubal este o sursă vitală de apă dulce pentru agricultură și populația locală. Din păcate, a devenit faimos în 1969 din cauza scufundării unui feribot ce transporta soldați portughezi. În curriculumul Plizio de Geografie K7, râul este discutat ca un exemplu de topografie și resurse hidroelectrice din Africa de Vest.",
+      "descriptionAdvancedEn": "The Corubal River originates in the Fouta Djallon highlands of Guinea and travels about 450 kilometers before emptying into the Geba estuary in Guinea-Bissau. The river is known for its impressive scenic beauty, especially the Saltos de Cusselinta, a series of waterfalls and rapids in the eastern Gabú region. These sections are not only visually spectacular but also possess significant potential for hydroelectric power generation. The Corubal is a vital freshwater source for agriculture and the local population. Tragically, it gained infamy in 1969 due to the sinking of a ferry carrying Portuguese soldiers. In the Plizio Geography K7 curriculum, the river is discussed as an example of West Africa's topography and hydroelectric resources.",
+      "factsAdvanced": [
+        "Hossza kb. 450 km.",
+        "A guineai Fouta Djallon-hegységben ered.",
+        "Gabú régióban látványos vízesései vannak (Saltos de Cusselinta).",
+        "Jelentős vízenergia-potenciállal bír.",
+        "1969-ben egy katonai kompkatasztrófa helyszíne volt.",
+        "Fontos édesvízforrás a mezőgazdaság számára.",
+        "A Geba-folyó torkolatába ömlik.",
+        "Kanyargós medre változatos tájakon vezet keresztül."
+      ]
+    },
+    {
+      "id": "bijagos-archipelago-nature-v2",
+      "descriptionAdvancedDe": "Der Bijagós-Archipel ist eine Gruppe von 88 Inseln und Inselchen, die sich vor der Küste Guinea-Bissaus erstrecken. Seit 1996 ist der gesamte Archipel ein UNESCO-Biosphärenreservat, das seine außergewöhnliche biologische Vielfalt und seine reiche Kultur schützt. Nur etwa 20 der Inseln sind dauerhaft bewohnt, und die Bijagó-Gesellschaft ist für ihre einzigartige matriarchalische Struktur bekannt. Der Archipel ist einer der wichtigsten Nistplätze für die Grüne Meeresschildkröte im Atlantik und beherbergt eine seltene Population von Salzwasser-Flusspferden. Die Inseln, die von Mangroven, Palmenwäldern und Savannen bedeckt sind, stellen im Plizio-Lehrplan (Geografie K9) ein Fallbeispiel für das empfindliche Gleichgewicht zwischen Mensch und Natur sowie für nachhaltigen Ökotourismus dar.",
+      "descriptionAdvancedHu": "A Bijagós-szigetcsoport 88 szigetből és szirtből álló láncolat Bissau-Guinea partjainál. Az egész szigetvilág 1996 óta UNESCO bioszféra-rezervátum, amely a rendkívüli biológiai sokféleségét és gazdag kultúráját védi. A szigetek közül csak mintegy 20 lakott állandóan, a bijagó társadalom pedig egyedülálló, matriarchális szerkezetéről ismert. A szigetcsoport az atlanti-óceáni régió egyik legfontosabb fészkelőhelye a közönséges levesteknős számára, és otthont ad egy ritka, sós vízhez alkalmazkodott vízilópopulációnak is. A mangrove-erdőkkel, pálmaligetekkel és szavannákkal borított szigetek a Plizio (Földrajz K9) tantervében esettanulmányként szolgálnak az ember és a természet közötti kényes egyensúlyra, valamint a fenntartható ökoturizmusra.",
+      "descriptionAdvancedRo": "Arhipelagul Bijagós este un grup de 88 de insule și insulițe situate în largul coastei Guineei-Bissau. Întregul arhipelag este o rezervație a biosferei UNESCO din 1996, protejând biodiversitatea sa excepțională și cultura bogată. Doar aproximativ 20 dintre insule sunt locuite permanent, iar societatea Bijagó este renumită pentru structura sa matriarhală unică. Arhipelagul este unul dintre cele mai importante locuri de cuibărit pentru țestoasa verde în Atlantic și găzduiește o populație rară de hipopotami de apă sărată. Insulele, acoperite de mangrove, păduri de palmieri și savane, reprezintă un studiu de caz în curriculumul Plizio (Geografie K9) despre echilibrul delicat dintre om și natură, precum și despre ecoturismul durabil.",
+      "descriptionAdvancedEn": "The Bijagós Archipelago is a group of 88 islands and islets stretching off the coast of Guinea-Bissau. The entire archipelago has been a UNESCO Biosphere Reserve since 1996, protecting its exceptional biological diversity and rich culture. Only about 20 of the islands are permanently inhabited, and the Bijagó society is renowned for its unique matriarchal structure. The archipelago is one of the most important nesting sites for green sea turtles in the Atlantic and is home to a rare population of saltwater hippopotamuses. The islands, covered in mangroves, palm forests, and savannas, are a case study in the Plizio curriculum (Geography K9) on the delicate balance between humans and nature, as well as sustainable ecotourism.",
+      "factsAdvanced": [
+        "88 szigetből és szirtből áll.",
+        "1996 óta UNESCO bioszféra-rezervátum.",
+        "Csak kb. 20 sziget lakott.",
+        "A bijagó társadalom matriarchális.",
+        "Fontos fészkelőhely a levesteknősök számára.",
+        "Sós vízi vízilovak otthona.",
+        "Területe kb. 10 000 km², amelyből 1600 km² szárazföld.",
+        "A lakosság főként rizstermesztésből és halászatból él."
+      ]
+    },
+    {
+      "id": "bolama-island-nature-v2",
+      "descriptionAdvancedDe": "Bolama ist die dem Festland am nächsten gelegene Insel des Bijagós-Archipels und war von 1879 bis 1941 die Hauptstadt von Portugiesisch-Guinea. Heute zeugen die verfallenden Kolonialgebäude der Stadt Bolama von dieser vergangenen Ära. Die Insel ist bekannt für ihre ruhige Atmosphäre, üppige Vegetation und ausgedehnte Cashew-Plantagen, die eine wichtige Einnahmequelle für die lokale Bevölkerung darstellen. Obwohl die koloniale Infrastruktur weitgehend verfallen ist, verleiht sie der Insel einen einzigartigen, melancholischen Charme. Bolama ist auch Teil des UNESCO-Biosphärenreservats. Im Geschichtsunterricht K11 von Plizio wird Bolama als Beispiel für die Aufstiegs- und Niedergangsdynamik kolonialer Verwaltungszentren in Westafrika behandelt.",
+      "descriptionAdvancedHu": "Bolama a Bijagós-szigetcsoport szárazföldhöz legközelebb eső szigete, amely 1879 és 1941 között Portugál-Guinea fővárosa volt. Ma Bolama városának omladozó gyarmati épületei tanúskodnak erről a letűnt korszakról. A sziget nyugodt légköréről, buja növényzetéről és kiterjedt kesudió-ültetvényeiről ismert, amelyek fontos bevételi forrást jelentenek a helyi lakosság számára. Bár a gyarmati infrastruktúra nagyrészt elhanyagolt, egyedi, melankolikus varázst kölcsönöz a szigetnek. Bolama szintén része az UNESCO bioszféra-rezervátumnak. A Plizio Történelem K11 tantervében Bolama példaként szolgál a gyarmati közigazgatási központok felemelkedésének és hanyatlásának dinamikájára Nyugat-Afrikában.",
+      "descriptionAdvancedRo": "Bolama este cea mai apropiată insulă de continent din Arhipelagul Bijagós și a fost capitala Guineei Portugheze din 1879 până în 1941. Astăzi, clădirile coloniale în paragină din orașul Bolama stau mărturie a acelei ere apuse. Insula este cunoscută pentru atmosfera sa liniștită, vegetația luxuriantă și plantațiile extinse de caju, care reprezintă o sursă importantă de venit pentru populația locală. Deși infrastructura colonială este în mare parte în ruină, aceasta conferă insulei un farmec unic, melancolic. Bolama face, de asemenea, parte din Rezervația Biosferei UNESCO. În lecțiile de Istorie K11 de la Plizio, Bolama este tratată ca un exemplu al dinamicii de ascensiune și declin a centrelor administrative coloniale din Africa de Vest.",
+      "descriptionAdvancedEn": "Bolama is the closest island to the mainland in the Bijagós Archipelago and served as the capital of Portuguese Guinea from 1879 to 1941. Today, the decaying colonial buildings of Bolama town bear witness to this bygone era. The island is known for its tranquil atmosphere, lush vegetation, and extensive cashew plantations, which are an important source of income for the local population. Although the colonial infrastructure has largely fallen into disrepair, it gives the island a unique, melancholic charm. Bolama is also part of the UNESCO Biosphere Reserve. In Plizio's History K11 lessons, Bolama is treated as an example of the rise and fall dynamics of colonial administrative centers in West Africa.",
+      "factsAdvanced": [
+        "Portugál-Guinea fővárosa volt 1879-től 1941-ig.",
+        "A fővárost később Bissauba helyezték át.",
+        "Jelentős kesudió-termesztő terület.",
+        "Híres a gyarmati építészet romjairól.",
+        "A szárazföldről komppal érhető el.",
+        "Az azonos nevű Bolama régió székhelye.",
+        "A sziget területe kb. 98 km².",
+        "Lakossága a 2009-es népszámláláskor kb. 10 000 fő volt."
+      ]
+    },
+    {
+      "id": "bubaque-island-nature-v2",
+      "descriptionAdvancedDe": "Bubaque gilt als das administrative und wirtschaftliche Zentrum des Bijagós-Archipels und ist eine der am besten erreichbaren und entwickeltsten Inseln. Sie dient als Haupttor für Besucher, die den Archipel erkunden möchten, und verfügt über den einzigen größeren Flugplatz der Region sowie regelmäßige Fährverbindungen nach Bissau. Auf Bubaque befindet sich ein kleines, aber informatives Museum, das der reichen Kultur der Bijagó gewidmet ist. Die Insel bietet eine Mischung aus lebhaften Dörfern, schönen Stränden wie dem Praia de Bruce und einer vielfältigen Landschaft aus Palmenhainen und Wäldern. Für Plizio-Studenten (Sozialkunde K6) ist Bubaque ein interessantes Beispiel für ein lokales Verwaltungszentrum, das versucht, Modernisierung und Tradition in Einklang zu bringen.",
+      "descriptionAdvancedHu": "Bubaque a Bijagós-szigetcsoport adminisztratív és gazdasági központja, valamint az egyik legkönnyebben megközelíthető és legfejlettebb sziget. Fő kapuként szolgál a szigetcsoportot felfedezni kívánó látogatók számára, itt található a régió egyetlen nagyobb repülőtere, és rendszeres kompjáratok kötik össze Bissau-val. Bubaque-n egy kicsi, de informatív múzeum is található, amely a gazdag bijagó kultúrát mutatja be. A sziget a nyüzsgő falvak, a gyönyörű strandok (mint a Praia de Bruce) és a pálmaligetekkel és erdőkkel tarkított változatos táj keveréke. A Plizio diákjai számára (Társadalomismeret K6) Bubaque érdekes példa egy olyan helyi közigazgatási központra, amely megpróbálja összeegyeztetni a modernizációt és a hagyományokat.",
+      "descriptionAdvancedRo": "Bubaque este considerat centrul administrativ și economic al Arhipelagului Bijagós și este una dintre cele mai accesibile și dezvoltate insule. Acționează ca poartă principală pentru vizitatorii care doresc să exploreze arhipelagul, având singurul aeroport major din regiune și legături regulate cu feribotul către Bissau. Pe Bubaque există un muzeu mic, dar informativ, dedicat bogatei culturi a poporului Bijagó. Insula oferă un amestec de sate pline de viață, plaje frumoase precum Praia de Bruce și un peisaj diversificat de plantații de palmieri și păduri. Pentru studenții Plizio (Studii Sociale K6), Bubaque este un exemplu interesant de centru administrativ local care încearcă să echilibreze modernizarea și tradiția.",
+      "descriptionAdvancedEn": "Bubaque is considered the administrative and economic hub of the Bijagós Archipelago and is one of the most accessible and developed islands. It serves as the main gateway for visitors wishing to explore the archipelago, having the region's only major airfield and regular ferry services to Bissau. Bubaque hosts a small but informative museum dedicated to the rich culture of the Bijagó people. The island offers a mix of lively villages, beautiful beaches like Praia de Bruce, and a diverse landscape of palm groves and forests. For Plizio students (Social Studies K6), Bubaque is an interesting example of a local administrative center trying to balance modernization and tradition.",
+      "factsAdvanced": [
+        "A Bijagós-szigetcsoport adminisztratív központja.",
+        "A régió egyetlen nagyobb repülőterével rendelkezik.",
+        "Rendszeres kompjárat köti össze Bissau-val.",
+        "Itt található a Bijagó Kulturális Múzeum.",
+        "Népszerű strandja a Praia de Bruce.",
+        "Fontos csomópont az ökoturizmus számára.",
+        "Lakossága a legmagasabb a szigetcsoporton belül.",
+        "A sziget területe kb. 75 km²."
+      ]
+    }
+  ]
+}

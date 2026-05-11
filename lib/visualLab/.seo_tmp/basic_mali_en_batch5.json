@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-tele-nature-v2",
+      "description": "Lake Télé is a significant water feature that seasonally sustains a variety of local avian and aquatic species.",
+      "facts": ["Seasonal water feature", "Local habitat support", "Avian sanctuary point", "Important rainy season site"]
+    },
+    {
+      "id": "bago-river-nature-v2",
+      "description": "The Bago River is a vital water source flowing through southern Mali, essential for local ecosystem health.",
+      "facts": ["Southern water course", "Vital ecosystem source", "Seasonal flow pattern", "Riparian zone support"]
+    },
+    {
+      "id": "mount-gourma-nature-v2",
+      "description": "Mount Gourma is a notable landmark in the eastern landscape, characterized by its rocky, rugged terrain.",
+      "facts": ["Eastern regional landmark", "Rocky terrain profile", "Prominent landscape feature", "Distinct local geography"]
+    },
+    {
+      "id": "lake-korientze-nature-v2",
+      "description": "Lake Korientzé provides a crucial water refuge during the dry season, supporting diverse local life forms.",
+      "facts": ["Dry season water refuge", "Vital habitat focus", "Local life support", "Seasonal lake area"]
+    },
+    {
+      "id": "mount-bam-nature-v2",
+      "description": "Mount Bam is a prominent topographical feature in the region, rising noticeably above the surrounding savanna.",
+      "facts": ["Topographical elevation", "Prominent savanna landmark", "Distinct terrain profile", "Local landscape interest"]
+    },
+    {
+      "id": "san-river-nature-v2",
+      "description": "The San River nourishes the fertile lands of its valley, which are central to the regional agricultural cycle.",
+      "facts": ["Fertile valley flow", "Regional agriculture heart", "Supports irrigation needs", "Seasonal river system"]
+    },
+    {
+      "id": "lake-doro-nature-v2",
+      "description": "Lake Doro is a smaller seasonal wetland providing important stopover opportunities for migratory waterbirds.",
+      "facts": ["Seasonal wetland area", "Migratory bird stopover", "Local biodiversity site", "Essential rainy season refuge"]
+    },
+    {
+      "id": "kourou-river-nature-v2",
+      "description": "The Kourou River is a seasonal waterway that plays a key role in the local hydrological environment.",
+      "facts": ["Hydrological role player", "Seasonal river flow", "Local landscape support", "Important rainy season stream"]
+    },
+    {
+      "id": "lake-aougoundou-nature-v2",
+      "description": "Lake Aougoundou serves as an essential regional water body, supporting local ecology during high-water cycles.",
+      "facts": ["Regional water body", "High-water cycle focus", "Ecological support site", "Local habitat importance"]
+    },
+    {
+      "id": "mount-bougouni-nature-v2",
+      "description": "Mount Bougouni is a notable feature in the southern landscape, offering unique biological habitats in its higher elevations.",
+      "facts": ["Southern landscape feature", "Unique biological habitat", "Notable elevation gain", "Rich local flora zone"]
+    },
+    {
+      "id": "lake-nianga-nature-v2",
+      "description": "Lake Nianga provides a localized water source that helps maintain the balance of its surrounding ecosystem.",
+      "facts": ["Localized water source", "Ecosystem balance site", "Important regional habitat", "Seasonal water level"]
+    },
+    {
+      "id": "mount-sikasso-nature-v2",
+      "description": "Mount Sikasso is a distinct topographical marker in the southern region, contributing to the area's diverse scenery.",
+      "facts": ["Southern topographical marker", "Diverse scenery source", "Local geological interest", "Characteristic terrain feature"]
+    },
+    {
+      "id": "bafing-makana-river-nature-v2",
+      "description": "The Bafing-Makana River system is a vital component of the region's river network, supporting rich riparian biodiversity.",
+      "facts": ["Regional river component", "Riparian biodiversity hub", "Essential water source", "Seasonal flow support"]
+    }
+  ]
+}

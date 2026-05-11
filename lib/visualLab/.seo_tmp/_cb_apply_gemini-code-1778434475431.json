@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ebo-town-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ebo Town ist ein dicht besiedelter Stadtteil am östlichen Rand der Kanifing Municipality, der eine einzigartige geografische Lage am Rande der weitläufigen Mangrovensümpfe des Gambia-Fluss-Ästuars einnimmt. Das Viertel entstand primär als Wohngebiet für Arbeitsmigranten aus dem Landesinneren, die in der Metropolregion Greater Banjul Beschäftigung suchten. Geografisch ist Ebo Town durch seine extrem niedrige Lage geprägt, was es zu einem der am stärksten von saisonalen Überschwemmungen betroffenen Gebiete des Landes macht. Diese hydrologische Herausforderung hat die Architektur und die soziale Organisation des Stadtteils maßgeblich beeinflusst, wobei die Bewohner komplexe Systeme von Entwässerungskanälen und Schutzwällen entwickelt haben. Wirtschaftlich ist der Stadtteil durch informellen Handel, Fischfang in den nahegelegenen Bolongs und Osztrigagewinnung geprägt. Ebo Town beherbergt eine sehr heterogene Bevölkerung, in der die ethnischen Gruppen der Jola und Mandinka stark vertreten sind. Trotz der ökologischen Risiken zeichnet sich das Viertel durch einen außergewöhnlich starken sozialen Zusammenhalt und lebendige Nachbarschaftsstrukturen aus. Für Besucher bietet Ebo Town einen Einblick in die klimatische Verwundbarkeit urbaner Siedlungen in Westafrika und die beeindruckende Anpassungsfähigkeit der lokalen Gemeinschaften an eine wassergeprägte Umwelt.",
+        "hu": "Ebo Town egy sűrűn lakott városrész a Kanifing önkormányzat keleti szélén, amely egyedülálló földrajzi helyzetet foglal el a Gambia-folyó torkolatának kiterjedt mangrovemocsarai mentén. A negyed eredetileg az ország belső területeiről érkező, a fővárosi régióban munkát kereső bevándorlók lakóhelyeként jött létre. Földrajzi jellemzője az extrém alacsony tengerszint feletti magasság, ami miatt Ebo Town az ország egyik leginkább árvízveszélyes területe. Ez a hidrológiai kihívás alapvetően meghatározza a városrész építészetét és társadalmi szerveződését; a lakók bonyolult vízelvezető csatornarendszereket és védőgátakat építettek ki. Gazdaságilag a negyedet az informális kereskedelem, a közeli folyóágakban (bolongokban) folytatott halászat és az osztrigagyűjtés jellemzi. Ebo Town lakossága rendkívül sokszínű, különösen a jola és mandinka etnikumok jelenléte meghatározó. Az ökológiai kockázatok ellenére a városrészre kiemelkedő szociális összetartás és vibráló közösségi élet jellemző. Az idelátogatók számára Ebo Town az afrikai városi közösségek klímaváltozással szembeni sebezhetőségének és a helyi lakosok lenyűgöző alkalmazkodóképességének élő példája a vizes élőhelyek peremén.",
+        "ro": "Ebo Town este un cartier urban dens situat pe marginea estică a municipalității Kanifing, ocupând o poziție geografică unică la limita mlaștinilor de mangrove ale estuarului fluviului Gambia. Cartierul s-a format inițial ca zonă rezidențială pentru migranții interni care căutau oportunități în zona metropolitană Banjul. Din punct de vedere geografic, Ebo Town este marcat de o altitudine extrem de joasă, fiind una dintre cele mai vulnerabile zone la inundații sezoniere din întreaga țară. Această provocare hidrologică a modelat arhitectura și organizarea socială a localității, locuitorii dezvoltând sisteme comunitare de drenaj și diguri artizanale. Economia locală este dominată de comerțul informal, pescuitul în canalele adiacente (bolongs) și colectarea stridiilor de către cooperativele de femei. Populația este diversă, cu o prezență semnificativă a etniilor Jola și Mandinka, ceea ce conferă locului un bogat mozaic cultural. În ciuda dificultăților ecologice, Ebo Town se distinge printr-o coeziune socială remarcabilă și o viață de cartier efervescentă. Pentru observatori, acest sector reprezintă un studiu de caz despre adaptarea urbană la mediul acvatic și reziliența comunităților vest-africane în fața schimbărilor climatice. Peisajul este un amestec de locuințe modeste și vegetație de mlaștină luxuriantă.",
+        "en": "Ebo Town is a densely populated district on the eastern edge of the Kanifing Municipality, uniquely positioned bordering the vast mangrove swamps of the Gambia River estuary. The neighborhood originally emerged as a residential gateway for internal migrants from rural provinces seeking work in the Greater Banjul Area. Geographically, Ebo Town is defined by its extremely low-lying elevation, making it one of the most flood-prone urban areas in the country during the rainy season. This hydrological reality has deeply influenced the town's architecture and social fabric, with residents creating community-led drainage systems and makeshift flood barriers. Economically, the district thrives on informal trade, artisanal fishing in the nearby creeks (bolongs), and traditional oyster harvesting. The population is a vibrant mix of ethnicities, with particularly strong Jola and Mandinka communities. Despite the environmental challenges, Ebo Town is noted for its exceptional social solidarity and active neighborhood networks. For visitors, it offers a profound insight into the intersection of urban sprawl and fragile wetland ecosystems, showcasing the incredible adaptability of Gambian communities living in harmony with a water-dominated environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ebo Town liegt fast auf Meereshöhe und grenzt direkt an den Tanbi Wetland Complex.",
+          "Der Stadtteil ist ein Hauptzentrum für die handwerkliche Osztrigagewinnung im KMC.",
+          "Aufgrund der Flutgefahr sind viele Häuser auf erhöhten Betonfundamenten gebaut.",
+          "Ebo Town beherbergt eines der aktivsten Nachbarschafts-Umweltkomitees Gambias.",
+          "Die Bewohner nutzen die Mangrovenwege als wichtige Transportrouten für Pirogen.",
+          "In der Regenzeit wird das Gebiet oft zum Schauplatz nationaler Katastrophenschutzübungen."
+        ],
+        "hu": [
+          "Ebo Town tengerszint feletti magassága sok helyen az egy métert sem éri el.",
+          "A városrész híres a közösségi alapú mocsár-rehabilitációs programjairól.",
+          "A helyi asszonyok az osztrigákat a mangrove gyökereiről gyűjtik apálykor.",
+          "A településen számos hagyományos gyógynövénykert található a mocsár szélén.",
+          "Ebo Town fontos bázisa a kisüzemi halfüstölésnek a keleti végeken.",
+          "A negyed utcáin a közösségi összefogás révén épültek ki a vízelvezető árkok."
+        ],
+        "ro": [
+          "Ebo Town face parte din zona de protecție a Complexului de Zone Umede Tanbi.",
+          "Este renumit pentru diversitatea de specii de păsări de mlaștină vizibile din cartier.",
+          "Localitatea găzduiește sedii ale unor ONG-uri axate pe adaptarea la inundații.",
+          "Relieful este intersectat de pârâuri sezoniere care se umplu în timpul fluxului.",
+          "Ebo Town este un furnizor major de cărbune vegetal artizanal pentru oraș.",
+          "Comunitatea păstrează ritualuri specifice legate de protecția împotriva apelor."
+        ],
+        "en": [
+          "Ebo Town acts as a natural buffer between the urban landscape and the river estuary.",
+          "It is a significant site for the study of urban resilient infrastructure in Gambia.",
+          "The district is home to numerous traditional boat-builders specialized in river craft.",
+          "Ebo Town features a high concentration of artisanal salt-processing sites.",
+          "The area is known for its vibrant celebrations of Jola cultural festivals.",
+          "Infrastructure projects are ongoing to connect Ebo Town to the main sewage grid."
+        ]
+      }
+    },
+    {
+      "id": "latri-kunda-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Latri Kunda, oft unterteilt in Latri Kunda Sabiji und Latri Kunda Yiringanya, ist ein zentraler und historisch bedeutender Stadtteil innerhalb des Kanifing Municipal Council. Geografisch liegt er im Herzen der Serekunda-Agglomeration und fungiert als eines der wichtigsten kommerziellen und sozialen Bindeglieder der Region. Latri Kunda ist berühmt für seinen großen Markt, der besonders für Textilien, traditionelle Kleidung und frische Lebensmittel bekannt ist. Die Geschichte des Stadtteils ist eng mit der Expansion der ursprünglichen Serekunda-Siedlung verknüpft und stellt heute einen Schmelztiegel der gambischen Mittelschicht dar. Das Stadtbild ist geprägt von einer hohen Dichte an Geschäften, Schulen und religiösen Einrichtungen, was Latri Kunda zu einem der lebendigsten Viertel macht. Das Relief ist weitgehend flach, was die Entstehung eines dichten Netzes von Straßen und Gassen begünstigt hat. Wirtschaftlich ist der Stadtteil ein Motor für den Einzelhandel und das Kleingewerbe. Die Bevölkerung ist ethnisch sehr gemischt, wobei Wolof und Mandinka die größten Gruppen bilden. Für Besucher bietet Latri Kunda eine konzentrierte Erfahrung des gambischen Stadtlebens, in dem kommerzieller Erfolg und traditionelle Gastfreundschaft in einem dynamischen urbanen Umfeld verschmelzen.",
+        "hu": "Latri Kunda, amelyet gyakran két részre, Sabijire és Yiringanyára osztanak, a Kanifing önkormányzat egyik központi és történelmileg meghatározó negyede. Földrajzi elhelyezkedése a serekundai agglomeráció szívében található, így a régió egyik legfontosabb kereskedelmi és társadalmi csomópontja. Latri Kunda híres hatalmas piacáról, amely különösen a textiláruk, a tradicionális afrikai viseletek és a friss élelmiszerek választékáról nevezetes. A negyed története szorosan összefonódott Serekunda terjeszkedésével, és mára a gambiai középosztály egyik legfontosabb bázisává vált. A városképet az üzletek, iskolák és vallási intézmények nagy sűrűsége jellemzi, ami Latri Kundát az ország egyik legélettelibb területévé teszi. A domborzat sík, ami segítette a sűrű utcahálózat kialakulását. Gazdaságilag a negyed a kiskereskedelem és a szolgáltató szektor motorja. A lakosság etnikailag rendkívül vegyes, a wolof és mandinka közösségek békés együttélése határozza meg a mindennapokat. Az idelátogatók számára Latri Kunda a sűrített gambiai városi élményt nyújtja, ahol a gazdasági pezsgés és a hagyományos vendégszeretet egy dinamikus környezetben találkozik.",
+        "ro": "Latri Kunda, subdivizat în sectoarele Sabiji și Yiringanya, este un cartier central și istoric din cadrul Kanifing Municipal Council, situat în inima aglomerației Serekunda. Localitatea funcționează ca un nod comercial și social vital, legând diversele zone rezidențiale ale metropolei. Latri Kunda este renumit pentru piața sa extinsă, considerată una dintre cele mai bune locații pentru achiziționarea textilelor de calitate și a produselor artizanale. Evoluția sa urbană reflectă creșterea spectaculoasă a Gambiei post-independență, devenind un centru pentru clasa medie și micul antreprenoriat. Arhitectura este una densă, cu clădiri comerciale la parter și locuințe la etaj, oferind străzilor o atmosferă vibrantă la orice oră. Din punct de her geologic, relieful plat a permis o dezvoltare uniformă și accesibilă. Economia locală este susținută de un mix de retail formal și piețe tradiționale, fiind un punct de referință pentru consumatorii din întreaga municipalitate. Diversitatea etnică este punctul forte al cartierului, unde Wolof și Mandinka domină peisajul cultural. Pentru turiști, Latri Kunda reprezintă locul ideal pentru a experimenta efervescența comerțului vest-african și pentru a observa integrarea tradițiilor rurale într-un context urban modern.",
+        "en": "Latri Kunda, frequently divided into the Sabiji and Yiringanya sectors, is a central and historically significant district within the Kanifing Municipal Council. Geographically positioned at the heart of the Serekunda conurbation, it acts as a primary commercial and social artery for the metropolitan region. Latri Kunda is widely celebrated for its extensive market, particularly noted as a hub for textiles, traditional attire, and fresh produce. The district’s history is inextricably linked to the expansion of Serekunda, evolving into a major residential and business base for the Gambian middle class. The townscape is characterized by a high density of retail outlets, reputable schools, and diverse religious institutions, making it one of the liveliest neighborhoods in the country. The terrain is predominantly flat, which facilitated the development of a complex grid of roads and alleyways. Economically, the district serves as an engine for small-scale industry and retail services. The population is ethically diverse, with Wolof and Mandinka groups forming the cultural backbone of the community. For visitors, Latri Kunda offers a concentrated experience of Gambian urbanity, where commercial drive and traditional hospitality merge in a dynamic city setting."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Latri Kunda Sabiji beherbergt einen der wichtigsten Knotenpunkte für den Nahverkehr.",
+          "Der Markt von Latri Kunda gilt als bester Ort für den Kauf von handgefärbten Stoffen.",
+          "Der Stadtteil liegt strategisch an der 'Kairaba Avenue', der Hauptgeschäftsstraße.",
+          "In Latri Kunda befinden sich einige der ältesten Privatschulen Gambias.",
+          "Das Relief ist flach und bildet einen stabilen Untergrund für massive Betonbauten.",
+          "Der Name 'Sabiji' weist auf eine historische Ansiedlung von Gelehrten hin."
+        ],
+        "hu": [
+          "Latri Kunda a fővárosi régió egyik legfontosabb kiskereskedelmi központja.",
+          "A negyedben található Gambia egyik legnagyobb és legnépszerűbb középiskolája.",
+          "A területen számos hagyományos és modern szabászat működik.",
+          "Latri Kunda híres az éjszakai utcai árusairól és gasztronómiájáról.",
+          "A városrész fontos vallási találkozóhely, számos nagy mecsettel.",
+          "A település népessége az egyik legmagasabb népsűrűségű Gambiában."
+        ],
+        "ro": [
+          "Latri Kunda este centrul industriei de confecții textile din municipalitate.",
+          "Relieful uniform a favorizat extinderea rapidă a rețelei electrice.",
+          "Localitatea este sediul central al mai multor organizații de transport privat.",
+          "Piața Sabiji este renumită pentru condimentele exotice aduse din interiorul țării.",
+          "Latri Kunda reprezintă un pol de atracție pentru investițiile imobiliare mici.",
+          "Atmosfera cartierului este marcată de un pluralism religios exemplar."
+        ],
+        "en": [
+          "Latri Kunda serves as a key transit node between Serekunda and the airport.",
+          "The district features a high concentration of pharmacies and clinics.",
+          "It acts as a major center for Gambian artisanal silver and gold trade.",
+          "Latri Kunda is home to several influential Gambian media houses.",
+          "The area is known for its high level of safety and community policing.",
+          "Infrastructure development has made it one of the most connected wards in KMC."
+        ]
+      }
+    },
+    {
+      "id": "albreda-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Albreda ist ein historisch bedeutsamer Ort am Nordufer des Gambia-Flusses, im Distrikt Upper Niumi gelegen. Bekannt als 'Zentrum des Friedens', spielte Albreda eine zentrale Rolle in der kolonialen Geschichte Gambias als französischer Handelsposten inmitten eines britisch dominierten Territoriums. Geografisch liegt Albreda direkt gegenüber von James Island (Kunta Kinteh Island), was die Stadt zu einem strategischen Beobachtungspunkt während der Ära des Sklavenhandels machte. Das Stadtbild ist geprägt von historischen Ruinen, darunter das Gebäude der CFAO (Compagnie Française de l'Afrique Occidentale), das heute als Museum dient. Albreda ist untrennbar mit dem benachbarten Dorf Juffureh verbunden, dem Geburtsort von Kunta Kinte, was den Ort zu einem weltweit bekannten Ziel für den Kulturtourismus und die Rückbesinnung auf afrikanische Wurzeln macht. Das Relief um Albreda ist flach und wird durch die Ufervegetation des Gambia-Flusses bestimmt. Wirtschaftlich lebt die Stadt heute überwiegend vom Tourismus, dem Fischfang und der Landwirtschaft. Für Besucher ist Albreda ein Ort der Besinnung, der die schmerzvolle Geschichte der Sklaverei dokumentiert und gleichzeitig als Symbol für die koloniale Rivalität zwischen Frankreich und Großbritannien steht.",
+        "hu": "Albreda Gambia északi partjának (North Bank) egyik legfontosabb történelmi települése az Upper Niumi körzetben. A „béke központjaként” is emlegetett város különlegessége, hogy a brit dominanciájú területen belül évszázadokig francia kereskedelmi állomásként működött. Földrajzilag Albreda közvetlenül a James-szigettel (mai nevén Kunta Kinteh-sziget) szemben fekszik, így stratégiai megfigyelőpont volt a rabszolga-kereskedelem idején. A település látképét történelmi romok és emlékhelyek határozzák meg, köztük a CFAO (Compagnie Française de l'Afrique Occidentale) egykori épülete, amely ma múzeumként funkcionál. Albreda elválaszthatatlanul összefonódott a szomszédos Juffureh faluval, amely Kunta Kinte szülőhelyeként vált világhírűvé, így a település a kulturális turizmus és a gyökerek keresésének globális központja. A domborzat sík, a partvonalat a Gambia-folyó növényvilága és mangroveerdői jellemzik. Gazdaságilag a város ma a turizmusból, a halászatból és a mezőgazdaságból él. Az idelátogatók számára Albreda a történelmi emlékezet helyszíne, amely bemutatja a gyarmati korszak ellentmondásait és a rabszolgaság tragédiáját.",
+        "ro": "Albreda este o localitate istorică de o importanță excepțională situată pe malul nordic al fluviului Gambia, în districtul Upper Niumi. Cunoscută drept un avanpost francez într-o regiune dominată de britanici, Albreda a servit drept centru comercial și punct strategic timp de peste două secole. Geografia sa este definită de proximitatea față de Insula Kunta Kinteh (fosta James Island), Albreda fiind locul de unde plecau și soseau numeroase transporturi în perioada comerțului transatlantic cu sclavi. Arhitectura locală păstrează urmele trecutei prezențe coloniale, edificiul CFAO fiind cel mai bine conservat monument, transformat astăzi într-un muzeu de referință. Orașul este strâns legat de Juffureh, satul făcut celebru de saga lui Kunta Kinte, atrăgând anual mii de turiști din diaspora africană. Din punct de vedere economic, Albreda se bazează pe turismul istoric, pescuitul artizanal și agricultura de subzistență. Relieful este plat, caracteristic câmpiei inundabile a fluviului, cu zone de mangrove care protejează malul împotriva eroziunii. Pentru vizitatori, Albreda reprezintă un sanctuar al memoriei colective, oferind o perspectivă profundă asupra rivalităților coloniale și a impactului sclaviei asupra societății gambiene. Este un punct de plecare esențial pentru pelerinajele culturale în estuarul fluviului.",
+        "en": "Albreda is a historically profound settlement located on the North Bank of the Gambia River in the Upper Niumi District. Often referred to as a 'trading post of peace,' Albreda played a unique role in Gambian history as a French enclave within a British-controlled territory for several centuries. Geographically situated directly opposite Kunta Kinteh Island (formerly James Island), it was a strategic observation and logistics point during the height of the Atlantic slave trade. The village's landscape is dotted with historical ruins and monuments, most notably the CFAO (French Company of West Africa) building, which now houses a museum. Albreda is inseparably linked with the neighboring village of Juffureh, the ancestral home of Kunta Kinte, making the area a global destination for cultural tourism and roots-seeking pilgrimages. The surrounding relief is flat, characterized by riverine forest and mangroves along the shore. Economically, the town today relies on cultural tourism, artisanal fishing, and small-scale farming. For visitors, Albreda serves as a site of reflection, documenting the painful legacy of human trafficking while symbolizing the colonial rivalry between France and Britain in West Africa. It remains a cornerstone of The Gambia's national heritage and an essential stop for understanding the country's complex past."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Albreda war ab 1681 ein französischer Handelsposten (Enklave) in Gambia.",
+          "Der Ort beherbergt das CFAO-Gebäude, eines der ältesten Steinhäuser des Landes.",
+          "Albreda gehört zusammen mit Juffureh zum UNESCO-Weltkulturerbe.",
+          "Der Ort ist bekannt für das jährliche 'International Roots Homecoming Festival'.",
+          "Albreda liegt etwa 30 Kilometer flussaufwärts von der Hauptstadt Banjul.",
+          "Die Stadt verfügt über ein bedeutendes Denkmal zur Abschaffung der Sklaverei."
+        ],
+        "hu": [
+          "Albreda volt az egyetlen hely Gambia folyópartján, ahol a franciák megvetették a lábukat.",
+          "A település múzeuma részletesen bemutatja a rabszolgahajók útvonalait.",
+          "A város melletti Kunta Kinteh-sziget csónakkal 15 perc alatt elérhető.",
+          "Albreda lakossága többségében mandinka anyanyelvű.",
+          "A település központjában egy szimbolikus szabadság-fa (Freedom Tree) áll.",
+          "A környéken jelentős a hagyományos kerámiakészítés."
+        ],
+        "ro": [
+          "Albreda a fost cedată oficial Marii Britanii prin Tratatul de la Versailles din 1783.",
+          "Situl arheologic de aici include resturi de depozite comerciale din secolul XVII.",
+          "Localitatea servește drept port fluvial pentru ambarcațiunile turistice.",
+          "Relieful din Albreda este influențat de inundațiile periodice ale fluviului.",
+          "Este un centru major pentru educația istorică a tinerilor din Gambia.",
+          "Albreda este renumită pentru peștele uscat exportat în interiorul regiunii."
+        ],
+        "en": [
+          "Albreda hosts the 'Museum of Slavery' which focuses on the North Bank history.",
+          "The town was a vital provider of supplies for the fort on James Island.",
+          "It acts as a primary landing site for roots-tourism boat trips from Banjul.",
+          "Albreda features several historic canons from the colonial defense period.",
+          "The area is home to descendants of the founding Niumi royal families.",
+          "The village is a key participant in the UNESCO Slave Route Project."
+        ]
+      }
+    },
+    {
+      "id": "juffureh-village-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Juffureh ist ein weltberühmt gewordenes Dorf im Distrikt Upper Niumi am Nordufer des Gambia-Flusses. Seine Bekanntheit verdankt es primär dem Autor Alex Haley und seinem Roman 'Roots', in dem Juffureh als Geburtsort seines Vorfahren Kunta Kinte beschrieben wird. Dieses kulturelle Erbe hat das Dorf zu einem der wichtigsten Symbole der afrikanischen Diaspora und zu einem zentralen Ort des globalen Kulturtourismus gemacht. Geografisch liegt Juffureh in einer flachen Küstenebene, nur wenige Gehminuten vom benachbarten Albreda und dem Ufer des Flusses entfernt. Das Wahrzeichen des Dorfes ist das Kunta Kinteh Haus, in dem Nachkommen der Familie Kinte leben, sowie das Juffureh-Museum, das die Geschichte des Dorfes und die Auswirkungen des Sklavenhandels dokumentiert. Trotz des internationalen Ruhms hat Juffureh seinen Charakter als traditionelles Mandinka-Dorf weitgehend bewahrt, mit Lehmbauten und schattigen Gemeinschaftsplätzen unter großen Baobabs. Wirtschaftlich profitiert das Dorf massiv von den Besuchern, die auf den Spuren von 'Roots' wandeln, sowie von der Landwirtschaft. Das Relief ist eben und wird durch landwirtschaftliche Nutzflächen für Hirse und Erdnüsse geprägt. Für Besucher ist Juffureh mehr als nur ein Ort; es ist eine emotionale Pilgerstätte, die die Verbindung zwischen Afrika und der Neuen Welt sowie die menschliche Widerstandsfähigkeit versinnbildlicht.",
+        "hu": "Juffureh Gambia egyik legismertebb települése az északi parton, az Upper Niumi körzetben. Világhírnevét Alex Haley „Gyökerek” (Roots) című regényének és az abból készült filmsorozatnak köszönheti, amelyben Juffureh-t Kunta Kinte, a történet főhősének szülőhelyeként mutatták be. Ez az örökség a falut az afrikai diaszpóra egyik legfontosabb szimbólumává és a globális kulturális turizmus központjává tette. Földrajzilag Juffureh egy sík területen fekszik, mindössze néhány perces sétára Albredától és a Gambia-folyó partjától. A falu legfontosabb látnivalója a Kinte-család háza, ahol az ősök leszármazottai ma is élnek, valamint a helyi múzeum, amely a rabszolga-kereskedelem hatásait mutatja be. A nemzetközi ismertség ellenére Juffureh megőrizte tradicionális mandinka jellegét, ahol a vályogházak és a hatalmas majomkenyérfák alatti közösségi terek határozzák meg a falu hangulatát. Gazdaságilag a település jelentős bevételeket realizál a látogatókból, miközben a mezőgazdaság, különösen a köles- és mogyorótermesztés továbbra is alapvető megélhetési forrás. A domborzat sík, a környék tájképe pedig a klasszikus szudáni szavanna jegyeit hordozza. Az idelátogatók számára Juffureh egy érzelmekkel teli zarándokhely, amely összeköti Afrikát a „New World”-del, emlékeztetve az emberi méltóságra és a túlélésre.",
+        "ro": "Juffureh este un sat devenit celebru la nivel mondial, situat în districtul Upper Niumi, pe malul nordic al fluviului Gambia. Renumele său se datorează în principal autorului Alex Haley și romanului său „Roots” (Rădăcini), în care Juffureh este descris ca fiind locul de naștere al strămoșului său, Kunta Kinte. Această moștenire culturală a transformat satul într-unul dintre cele mai importante simboluri ale diasporei africane și un centru de pelerinaj pentru turiștii din întreaga lume. Geografic, Juffureh se află pe o câmpie litorală plană, la mică distanță de Albreda și de malurile fluviului. Punctele de interes majore includ casa familiei Kinte, unde locuiesc și astăzi urmașii acestora, și Muzeul Juffureh, care detaliază istoria locală și ororile comerțului cu sclavi. În ciuda celebrității sale internaționale, Juffureh și-a păstrat structura de sat tradițional Mandinka, cu construcții din chirpici și spații comunitare umbrite de baobabi seculari. Din punct de vedere economic, satul beneficiază masiv de pe urma fluxului de turiști, dar păstrează o bază agricolă solidă centrată pe arahide și cereale. Relieful este uniform, fiind tipic pentru zonele joase de pe malul nordic al estuarului. Pentru vizitatori, Juffureh reprezintă o experiență emoționantă, un simbol al rezilienței umane și al legăturilor indestructibile dintre continente.",
+        "en": "Juffureh is a world-renowned village located in the Upper Niumi District on the North Bank of the Gambia River. It achieved global fame through Alex Haley’s novel 'Roots,' which identifies Juffureh as the birthplace of his ancestor, Kunta Kinte. This cultural legacy has elevated the village into a powerful symbol for the African diaspora and a primary site for global cultural tourism. Geographically, Juffureh sits on a flat coastal plain, just a short walk from neighboring Albreda and the riverbank. Key landmarks in the village include the Kunta Kinte family compound, where descendants still reside, and the Juffureh Museum, which archives the history of the transatlantic slave trade and its impact on the region. Despite its international prominence, Juffureh remains a traditional Mandinka village at its core, characterized by mud-brick architecture and communal gathering spaces under massive baobab trees. The local economy is significantly supported by the influx of 'roots' tourists, supplemented by subsistence farming of millet and peanuts. The terrain is level, typical of the North Bank's savanna landscape. For visitors, Juffureh is more than a destination; it is an emotional pilgrimage site that symbolizes the enduring connection between Africa and the Americas and the profound resilience of the human spirit."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Juffureh wurde durch den Bestseller 'Roots' von Alex Haley weltbekannt.",
+          "Im Dorf lebt heute die Kinte-Familie, die direkt von Kunta Kinte abstammen soll.",
+          "Das Juffureh-Museum zeigt Ausstellungen zur Geschichte der Versklavung.",
+          "Juffureh ist seit 2003 Teil des UNESCO-Weltkulturerbes.",
+          "Der Ort beherbergt das Maurel Frères Gebäude aus der Kolonialzeit.",
+          "Jährlich besuchen tausende Afroamerikaner das Dorf auf der Suche nach ihren Wurzeln."
+        ],
+        "hu": [
+          "A falut Alex Haley látogatása után, 1977-ben kezdték el fejleszteni turisztikailag.",
+          "Juffureh központjában egy modern oktatási központ is működik a helyi fiataloknak.",
+          "A falu neve valószínűleg a mandinka 'Juffur' (erdőszél) szóból ered.",
+          "A település lakói híresek a hagyományos kézműves textíliáikról.",
+          "Juffureh stratégiai pont a Gambia-folyó északi partjának felfedezéséhez.",
+          "A faluban tilos a nagyipari építkezés a történelmi jelleg megőrzése miatt."
+        ],
+        "ro": [
+          "Juffureh a devenit un sit UNESCO datorită importanței sale în istoria umanității.",
+          "Casa Kunta Kinte este protejată prin lege ca monument național.",
+          "Satul organizează periodic workshop-uri despre cultura Mandinka.",
+          "Localitatea este renumită pentru dansurile tradiționale cu măști Kankurang.",
+          "Relieful plat favorizează agricultura de caju în jurul satului.",
+          "Juffureh este considerat inima spirituală a regiunii Niumi."
+        ],
+        "en": [
+          "The Juffureh village is a key anchor of the UNESCO Slave Route Project.",
+          "It features some of the best-preserved traditional family structures in Gambia.",
+          "The village acts as a primary hub for international roots-based studies.",
+          "A major commemorative statue representing freedom stands near the river entrance.",
+          "Juffureh is a major producer of high-quality local honey.",
+          "The community maintains strong oral traditions regarding ancestral history."
+        ]
+      }
+    },
+    {
+      "id": "garowol-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Garowol ist eine bedeutende Stadt im äußersten Osten Gambias, im Distrikt Kantora der Upper River Region gelegen. Sie gehört zu den größten Siedlungen der Soninke-Bevölkerung im Land und ist bekannt für ihre starke kulturelle Identität und ihren wirtschaftlichen Fleiß. Geografisch liegt Garowol in einer trockeneren Savannenlandschaft, die durch das Relief der oberen Flussregion geprägt ist, mit leicht hügeligem Gelände und fruchtbaren Tälern. Die Stadt ist ein wichtiges Handelszentrum für grenzüberschreitende Waren zwischen Gambia, Senegal und Guinea, was ihr eine strategische Bedeutung im Osten verleiht. Garowol zeichnet sich durch eine markante Architektur aus, in der moderne Einflüsse der gambischen Diaspora mit traditionellen Bauweisen verschmelzen. Das gesellschaftliche Leben ist tief in den Werten der Soninke verwurzelt, wobei Bildung und religiöse Gelehrsamkeit einen hohen Stellenwert einnehmen. Wirtschaftlich spielt neben dem Handel die Viehzucht und der Ackerbau eine zentrale Rolle. Die Stadt dient als wichtiger Versorgungsort für die umliegenden ländlichen Gemeinden und ist ein Beispiel für die Dynamik der östlichen Provinzen Gambias. Für Besucher bietet Garowol einen authentischen Einblick in die Kultur des Soninke-Volkes und die wirtschaftliche Verflechtung der Region am Oberlauf des Gambia-Flusses.",
+        "hu": "Garowol Gambia távoli keleti részén, az Upper River régió Kantora körzetében található jelentős város. A település a szoninke népcsoport egyik legfontosabb központja az országban, amely híres erős kulturális identitásáról és gazdasági aktivitásáról. Földrajzi elhelyezkedése a felső folyószakaszra jellemző dombosabb, szárazabb szavannai tájon található, ahol a termékeny völgyek kiváló lehetőséget nyújtanak a mezőgazdaságnak. Garowol stratégiai kereskedelmi csomópont Gambia, Szenegál és Guinea határvidékén, így a térség logisztikai motorjaként funkcionál. A város építészete különleges: a hazatérő emigránsok modern betonépületei és a hagyományos szoninke udvarok egyedi városképet alkotnak. A közösségi élet alapja a vallás és az oktatás, Garowol híres az iszlám iskoláiról és tudósairól. Gazdaságilag a nemzetközi kereskedelem mellett az állattenyésztés és a földimogyoró-termesztés a legfontosabb ágazatok. A város alapvető szolgáltatásokkal látja el a környező kisfalvakat, biztosítva a régió stabilitását. Az idelátogatók számára Garowol egyedülálló bepillantást nyújt a szoninke kultúra világába és a nyugat-afrikai határmenti kereskedelem dinamikájába, távol a tengerparti nyüzsgéstől.",
+        "ro": "Garowol este un oraș major situat în extremitatea estică a Gambiei, în districtul Kantora din regiunea Upper River. Localitatea este recunoscută drept cel mai important bastion al culturii Soninke din țară, fiind renumită pentru spiritul antreprenorial al locuitorilor săi. Geografia orașului este marcată de un relief ușor colinar, specific bazinului superior al fluviului, într-o zonă de savană uscată cu soluri bogate în minerale. Garowol ocupă o poziție strategică la confluența intereselor comerciale dintre Gambia, Senegal și Guineea, funcționând ca un hub logistic pentru tranzitul de mărfuri transfrontalier. Din punct de vedere arhitectural, orașul este impresionant, cu numeroase reședințe moderne construite de diaspora locală, care contrastează cu zonele rurale învecinate. Viața socială în Garowol este guvernată de tradițiile stricte Soninke și de o educație religioasă solidă, orașul fiind un centru de învățământ islamic prestigios. Economia este diversificată, îmbinând comerțul pe scară largă cu creșterea bovinelor și agricultura intensivă. Garowol servește drept motor economic pentru întregul district Kantora, oferind infrastructură comercială și socială esențială. Pentru vizitatori, orașul oferă o perspectivă fascinantă asupra succesului comunităților migratoare gambiene și asupra profunzimii culturii tradiționale din estul țării.",
+        "en": "Garowol is a prominent town located in the far eastern reaches of The Gambia, within the Kantora District of the Upper River Region. It stands as one of the nation's most significant centers for the Soninke people, renowned for its strong cultural identity and economic industriousness. Geographically, Garowol is situated in a drier savanna landscape characterized by the undulating relief of the upper river basin, featuring fertile valleys and occasional ironstone plateaus. The town serves as a critical commercial crossroads for trade between The Gambia, Senegal, and Guinea, giving it a strategic regional importance. Garowol is architecturally distinct, showcasing a blend of modern influences from the Gambian diaspora and traditional compound layouts. Social life is deeply rooted in Soninke values, where education and religious scholarship are highly prioritized, housing several reputable Islamic schools. Economically, beyond large-scale trade, livestock rearing and agriculture—particularly groundnuts and cereals—are vital to the town's prosperity. It acts as a primary service hub for surrounding rural communities, exemplifying the dynamism of Gambia’s inland provinces. For travelers, Garowol offers an authentic window into the Soninke heritage and the bustling cross-border trade dynamics that define life along the upper Gambia River."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Garowol ist die zweitgrößte Stadt in der Upper River Region.",
+          "Die Stadt ist das inoffizielle Zentrum der Soninke-Kultur in Gambia.",
+          "Hier befinden sich einige der größten privaten Wohnhäuser des Landes (Diaspora-Bauten).",
+          "Garowol liegt in unmittelbarer Nähe zur senegalesischen Grenze.",
+          "Die Stadt ist bekannt für ihre bedeutenden islamischen Gelehrtenzentren.",
+          "Das Relief ist höher gelegen als in den meisten anderen Teilen Gambias."
+        ],
+        "hu": [
+          "Garowol híres a nagyszabású heti piacáról, amely nemzetközi hírű.",
+          "A város környékén találhatók a régió legtermékenyebb öntözéses kertészetei.",
+          "A település lakossága aktívan részt vesz a nemzetközi kereskedelmi hálózatokban.",
+          "Garowolban található az ország egyik legmodernebb magánfinanszírozású mecsetje.",
+          "A város közlekedése az utóbbi években sokat javult a Basse felé vezető aszfaltút révén.",
+          "A szoninke nyelv a domináns kommunikációs forma a városban."
+        ],
+        "ro": [
+          "Garowol este situat la peste 400 de kilometri distanță de Banjul.",
+          "Relieful local include aflorimente de gresie utilizate în construcții.",
+          "Localitatea este un punct cheie pentru colectarea și exportul de bumbac în trecut.",
+          "Garowol găzduiește o comunitate numeroasă de comercianți din Guineea.",
+          "Sistemul de conducere tradițional este foarte influent în deciziile locale.",
+          "Orașul este renumit pentru spiritul său de auto-dezvoltare comunitară."
+        ],
+        "en": [
+          "Garowol is a major hub for the regional transit of textiles and electronics.",
+          "The town features some of the highest literacy rates in religious education in URR.",
+          "It acts as a strategic buffer zone for Gambian cross-border security.",
+          "Garowol is famous for its hospitality and large-scale community feasts.",
+          "The area is a primary producer of livestock for the Gambian market.",
+          "Infrastructure and solar energy adoption are among the highest in the interior."
+        ]
+      }
+    }
+  ]
+}

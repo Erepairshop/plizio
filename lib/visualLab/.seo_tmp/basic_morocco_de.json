@@ -1,0 +1,138 @@
+{
+  "lang": "de",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ma-tanger-med-port-economic-v2",
+      "description": "Tanger Med ist ein bedeutender Tiefseehafen an der Straße von Gibraltar. Er dient als wichtiges Drehkreuz für den internationalen Containerumschlag in Marokko.",
+      "facts": ["Kapazität über 9 Mio. Container", "Straße von Gibraltar", "Wirtschaftszentrum Marokkos"]
+    },
+    {
+      "id": "ma-somaca-casablanca-economic-v2",
+      "description": "Die SOMACA-Fabrik in Casablanca ist eine zentrale Einrichtung der Automobilindustrie Marokkos. Hier werden Fahrzeuge verschiedener Marken für den lokalen und internationalen Markt gefertigt.",
+      "facts": ["Automobilstandort Casablanca", "Gründung im Jahr 1959", "Wichtiger Exporteur"]
+    },
+    {
+      "id": "ma-jbel-aouam-mine-economic-v2",
+      "description": "Die Jbel-Aouam-Mine ist ein bedeutender Standort für die Förderung von Blei- und Zinkvorkommen im Mittleren Atlas. Sie spielt eine wichtige Rolle in der regionalen Bergbauwirtschaft.",
+      "facts": ["Bergbau im Atlasgebirge", "Blei- und Zinkvorkommen", "Regionale Wirtschaftsbedeutung"]
+    },
+    {
+      "id": "ma-dar-al-makhzen-rabat-history-v2",
+      "description": "Dar al-Makhzen ist der offizielle Königspalast in Rabat. Der prachtvolle Komplex dient als Hauptsitz des marokkanischen Monarchen.",
+      "facts": ["Königspalast in Rabat", "Bauzeit 1864", "Politisches Zentrum"]
+    },
+    {
+      "id": "marrakech-palmeraie-kid-landmark-life-v2",
+      "description": "Die Oase Palmeraie bei Marrakesch ist bekannt für ihre jahrhundertealten Palmenhaine. Heute ist sie ein beliebtes Ausflugsziel mit Luxushotels und Freizeitangeboten.",
+      "facts": ["Oase bei Marrakesch", "Über 100.000 Palmen", "Tourismus-Hotspot"]
+    },
+    {
+      "id": "berkane-fruit-agriculture-life-v2",
+      "description": "Die Region um Berkane ist das Zentrum des marokkanischen Zitrusanbaus. Das mediterrane Klima begünstigt den Anbau von Clementinen und Orangen.",
+      "facts": ["Zentrum des Zitrusanbaus", "Ideal für Clementinen", "Landwirtschaftliche Region"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "Die Sahara ist der natürliche Lebensraum des Dromedars, das seit Jahrhunderten für das Überleben in der Wüste entscheidend ist. Kamele sind eng mit der Kultur der nomadischen Völker verknüpft.",
+      "facts": ["Lebensraum Wüste Sahara", "Dromedare", "Nomadische Kultur"]
+    },
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "Das Draa-Tal ist eine bedeutende Oasenregion und ein wichtiges Feuchtgebiet entlang des längsten Flusses Marokkos. Es stützt vielfältige landwirtschaftliche Systeme.",
+      "facts": ["Längster Fluss Marokkos", "Bedeutendes Feuchtgebiet", "Oasen-Landwirtschaft"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Die Region Tiznit im Süden ist bekannt für ihre traditionelle Landwirtschaft und die Produktion von Arganöl. Diese Region verbindet Wüstenklima mit landwirtschaftlicher Nutzung.",
+      "facts": ["Region Südmarokko", "Arganöl-Produktion", "Traditionelle Anbaumethoden"]
+    },
+    {
+      "id": "ouarzazate-date-agriculture-life-v2",
+      "description": "Ouarzazate ist ein Zentrum für den Anbau von Dattelpalmen in den kargen Regionen des Südens. Die lokale Landwirtschaft profitiert von den bewässerten Oasenstrukturen.",
+      "facts": ["Dattelanbauzentrum", "Süden Marokkos", "Oasenwirtschaft"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga ist ein bekannter Ort direkt an den Dünen von Erg Chebbi. Er ist das Tor zur Sahara und bekannt für Wüstenaktivitäten.",
+      "facts": ["Tor zur Sahara", "Dünen Erg Chebbi", "Tourismus-Wüstenort"]
+    },
+    {
+      "id": "sebha-boughaba-lake-nature-v2",
+      "description": "Der See Merja Boughaba ist ein wichtiges Schutzgebiet und ein Lebensraum für zahlreiche Vogelarten an der Atlantikküste. Er ist als Ramsar-Gebiet eingestuft.",
+      "facts": ["Nationalparkgebiet", "Ramsar-Schutzgebiet", "Vogelzug-Station"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "Der Bin el-Ouidane See ist ein bedeutender Stausee im Mittleren Atlas. Er dient der Bewässerung und Stromerzeugung.",
+      "facts": ["Stausee im Atlasgebirge", "Wichtiger Energielieferant", "Naturschöne Lage"]
+    },
+    {
+      "id": "oued-guir-nature-v2",
+      "description": "Der Oued Guir ist ein Flusslauf im Osten Marokkos, der durch karge Landschaften in Richtung der Sahara fließt. Er prägt die Geografie der Grenzregion.",
+      "facts": ["Fluss im Osten", "Wüstenfluss", "Region Grenzgebiet"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Der Oued Ed-Dahab ist ein bedeutendes Flusssystem in der Westsahara-Region. Es beeinflusst die lokale Ökologie in einer ariden Zone.",
+      "facts": ["Fluss in der Westsahara", "Aride Zone", "Ökologisch wichtig"]
+    },
+    {
+      "id": "cap-ghir-nature-v2",
+      "description": "Cap Ghir ist ein markantes Kap nördlich von Agadir, das den Übergang zwischen dem Hohen Atlas und der Atlantikküste markiert. Es ist bekannt für starke Meeresströmungen.",
+      "facts": ["Kap nördlich von Agadir", "Atlantikküste", "Geografischer Übergang"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "Der Oued Nfiss entspringt im Hohen Atlas und fließt durch fruchtbare Ebenen in Richtung Marrakesch. Er ist eine wichtige Wasserquelle für die Landwirtschaft.",
+      "facts": ["Hoher Atlas", "Wasserquelle Marrakesch", "Flusslauf"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "Das Mündungsgebiet des Oued Tensift in den Atlantik ist ein bedeutendes Ökosystem. Es ist ein wichtiger Lebensraum für verschiedene Küstenvogelarten.",
+      "facts": ["Flussmündung in den Atlantik", "Ökosystem", "Vogelschutzraum"]
+    },
+    {
+      "id": "cap-spartel-nature-v2",
+      "description": "Cap Spartel markiert den nordwestlichsten Punkt Afrikas, wo Atlantik und Mittelmeer aufeinandertreffen. Das Kap bietet einen spektakulären Blick über das Meer.",
+      "facts": ["Nordwestlichster Punkt Afrikas", "Atlantik trifft Mittelmeer", "Bekannte Aussicht"]
+    },
+    {
+      "id": "guelmim-plains-relief-v2",
+      "description": "Die Ebenen von Guelmim bilden das Tor zur Sahara im Süden Marokkos. Die Landschaft ist durch ein halbarides Klima geprägt.",
+      "facts": ["Ebenen Südmarokko", "Tor zur Sahara", "Halbarides Klima"]
+    },
+    {
+      "id": "figuig-oasis-relief-v2",
+      "description": "Die Oase Figuig liegt isoliert in einer bergigen Wüstenregion an der Grenze zu Algerien. Sie ist bekannt für ihre traditionellen Anbausysteme.",
+      "facts": ["Oase an der Grenze", "Bergige Wüstenregion", "Traditionelle Bewässerung"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "Die Hügel um Moulay Idriss Zerhoun prägen die Landschaft nahe der antiken Stätte Volubilis. Die hügelige Topografie ist reich an fruchtbarem Ackerland.",
+      "facts": ["Hügellandschaft", "Nähe Volubilis", "Fruchtbares Ackerland"]
+    },
+    {
+      "id": "atlas-foothills-relief-v2",
+      "description": "Die Vorgebirge des Atlas bilden den Übergang vom Gebirge zur flachen Küstenebene. Diese Region ist durch sanfte Hügel und Täler gekennzeichnet.",
+      "facts": ["Vorgebirge des Atlas", "Übergang zum Küstenland", "Hügliges Relief"]
+    },
+    {
+      "id": "oued-tensift-valley-relief-v2",
+      "description": "Das Tensift-Tal erstreckt sich vom Hohen Atlas bis zur Küste. Das Tal bildet eine wichtige landwirtschaftliche Achse für Marokko.",
+      "facts": ["Tal von Atlas bis Küste", "Landwirtschaftliche Achse", "Flussniederung"]
+    },
+    {
+      "id": "high-plateaus-relief-v2",
+      "description": "Die Hohen Plateaus im östlichen Marokko bilden eine ausgedehnte Hochlandlandschaft. Die Region ist durch kontinentales Wüstenklima geprägt.",
+      "facts": ["Hohe Plateaus", "Hochlandlandschaft", "Kontinentales Wüstenklima"]
+    }
+  ]
+}

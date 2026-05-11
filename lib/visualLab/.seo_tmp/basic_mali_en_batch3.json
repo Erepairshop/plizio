@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bamako-market-life-v2",
+      "description": "Bamako market life is defined by its constant energy, where vendors trade everything from local textiles to exotic spices.",
+      "facts": ["Capital's market heart", "Diverse trade items", "Dynamic daily activity", "Key urban commerce hub"]
+    },
+    {
+      "id": "segou-river-wildlife-life-v2",
+      "description": "The river banks near Ségou are home to various river-dwelling wildlife species adapted to the seasonal floods.",
+      "facts": ["Ségou river setting", "Diverse river wildlife", "Adapted to seasonal floods", "Important riparian habitat"]
+    },
+    {
+      "id": "sikasso-mango-farm-life-v2",
+      "description": "Sikasso is renowned for its productive mango farms, contributing significantly to Mali's fruit export economy.",
+      "facts": ["Mango production hub", "Important export sector", "Fertile regional soil", "Traditional farming craft"]
+    },
+    {
+      "id": "kayes-market-life-v2",
+      "description": "The market in Kayes is a bustling trade center that connects the surrounding rural areas with urban goods.",
+      "facts": ["Key trade interface", "Rural-urban link", "Diverse local goods", "Central market location"]
+    },
+    {
+      "id": "mopti-garden-life-v2",
+      "description": "Small-scale gardens around Mopti provide fresh produce for the local population, utilizing riverine fertility.",
+      "facts": ["Small-scale cultivation", "Local produce source", "River-fed garden plots", "Mopti riverine area"]
+    },
+    {
+      "id": "timbuktu-garden-life-v2",
+      "description": "Gardens in the Timbuktu area rely on careful water management to thrive in the challenging desert climate.",
+      "facts": ["Desert garden model", "Water management focus", "Resilient plant life", "Timbuktu oasis area"]
+    },
+    {
+      "id": "san-market-life-v2",
+      "description": "The San market is a central hub for the town's agricultural economy, where crops from the region are exchanged.",
+      "facts": ["Agricultural market hub", "Regional crop trade", "Central town site", "Traditional exchange area"]
+    },
+    {
+      "id": "goundam-garden-life-v2",
+      "description": "Goundam garden life is supported by local irrigation methods that allow for cultivation in a dry environment.",
+      "facts": ["Local irrigation model", "Dry-land cultivation", "Essential food production", "Goundam garden area"]
+    },
+    {
+      "id": "koulikoro-market-life-v2",
+      "description": "The Koulikoro market serves as a primary exchange point for goods traveling along the river trade routes.",
+      "facts": ["River trade center", "Primary exchange hub", "Regional goods focus", "Koulikoro town site"]
+    },
+    {
+      "id": "sikasso-nature-life-v2",
+      "description": "The nature around Sikasso is defined by its tropical flora, creating a lush environment distinct from the northern arid regions.",
+      "facts": ["Lush tropical environment", "Distinct flora variety", "Southern regional setting", "Fertile nature landscape"]
+    }
+  ]
+}

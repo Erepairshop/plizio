@@ -1,0 +1,76 @@
+
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaEconomicV2.ts"],
+  "items": [
+    {
+      "id": "kaleta-wasserkraftwerk-economic-v2",
+      "descriptionAdvancedDe": "Das Kaléta-Wasserkraftwerk am Fluss Konkouré ist ein Meilenstein für die Energieversorgung Guineas und ein Symbol für die Modernisierung der nationalen Infrastruktur. Mit einer installierten Leistung von 240 Megawatt hat es bei seiner Inbetriebnahme im Jahr 2015 die verfügbare Strommenge des Landes fast verdoppelt. Es wurde primär gebaut, um die chronischen Stromengpässe in der Hauptstadt Conakry zu lindern und die Industrie in Niederguinea zu unterstützen. Das Projekt wurde in Zusammenarbeit mit China realisiert und gilt als Paradebeispiel für die Nutzung des enormen guineischen Wasserkraftpotenzials. Kaléta ist ein zentraler Baustein für die wirtschaftliche Unabhängigkeit und industrielle Entwicklung des Landes. Geographie K8 — Energiewende und Infrastrukturinvestitionen.",
+      "descriptionAdvancedHu": "A Kaléta vízerőmű fordulópontot jelent Guinea energia-történelmében. A Konkouré folyón épült, 240 megawatt beépített kapacitással tiszta energiát termel, ellátva mind a gyorsan növekvő fővárost, Conakryt, mind az ország energiaigényes bányászatát. Szimbolizálja Guinea lépését az energiafüggetlenség és a fenntartható gazdasági fejlődés felé. A 2015-ben üzembe helyezett erőmű megduplázta az ország akkori áramtermelő kapacitását, és jelentősen csökkentette a főváros krónikus áramkimaradásait. A projekt kínai együttműködéssel valósult meg, és a guineai vízerő-potenciál kiaknázásának mintapéldája. Történelem K8 – Modernizáció.",
+      "descriptionAdvancedRo": "Hidrocentrala Kaléta marchează un punct de cotitură în istoria energetică a Guineei. Construită pe râul Konkouré, produce energie curată cu o capacitate instalată de 240 de megawați, alimentând atât capitala în creștere rapidă, Conakry, cât și industria minieră a țării, mare consumatoare de energie. Simbolizează pasul Guineei către independența energetică și dezvoltarea economică durabilă. La momentul inaugurării sale în 2015, centrala a dublat capacitatea de generare a energiei electrice a țării, reducând semnificativ întreruperile cronice de curent din capitală. Proiectul a fost realizat în cooperare cu China și este considerat un exemplu emblematic al exploatării potențialului hidroenergetic al Guineei. Istorie K8 — Modernizare.",
+      "descriptionAdvancedEn": "The Kaléta hydropower plant marks a turning point in Guinea's energy history. Built on the Konkouré River, it produces clean energy with an installed capacity of 240 megawatts, supplying both the rapidly growing capital Conakry and the country's energy-hungry mining industry. It symbolizes Guinea's step towards energy independence and sustainable economic development. At the time of its inauguration in 2015, the plant doubled the country's electricity generation capacity, significantly reducing the capital's chronic power outages. The project was implemented in cooperation with China and is a prime example of harnessing Guinea's hydropower potential. History K8  —  Modernization.",
+      "factsAdvanced": [
+        "Beépített teljesítmény: 240 megawatt.",
+        "A Konkouré folyó legfontosabb energiaforrása.",
+        "Ellátja Conakryt és a bányászatot.",
+        "Az energiafüggetlenség szimbóluma.",
+        "Az infrastrukturális beruházások sikeres példája.",
+        "A stabil áramellátás mint gazdasági motor.",
+        "2015-ben helyezték üzembe.",
+        "Jelentősen csökkentette az áramkimaradásokat Conakryban."
+      ]
+    },
+    {
+      "id": "souapiti-wasserkraftwerk-economic-v2",
+      "descriptionAdvancedDe": "Souapiti ist das größte Wasserkraftprojekt Guineas und eines der bedeutendsten Energievorhaben in Westafrika. Der gewaltige Staudamm am Fluss Konkouré hat eine installierte Leistung von 450 Megawatt und dient gleichzeitig als regulierendes Speicherbecken für das flussabwärts gelegene Kaléta-Kraftwerk. Durch die Schaffung eines riesigen Stausees ermöglicht Souapiti eine stabile Stromproduktion auch während der Trockenzeit, was für die guineische Wirtschaft von entscheidender Bedeutung ist. Das Kraftwerk soll Guinea nicht nur energieautark machen, sondern auch den Export von grünem Strom in die Nachbarländer des West African Power Pool ermöglichen. Die Umsiedlung tausender Menschen und der Verlust von Waldflächen markieren jedoch die ökologischen und sozialen Kosten dieses Megaprojekts. Geographie K8 — Wasserkraft und regionale Energieintegration.",
+      "descriptionAdvancedHu": "A Kaléta projektet messze meghaladó beépített kapacitásával a Souapiti vízerőmű Guinea történetének legnagyobb energiaprojektje. Egy hatalmas gát megépítésével nemcsak az energiatermelés nő drasztikusan, hanem a Konkouré folyó áramlását is szabályozzák, ami javítja a lejjebb fekvő erőművek hatékonyságát. A guineai kormány központi eszköze az iparosodás előmozdítására és az energiaexport biztosítására a szomszédos országokba. A 2021-ben felavatott erőmű 450 MW-os kapacitással rendelkezik, és egy több mint 300 négyzetkilométeres víztározót hozott létre, ami jelentős hatással volt a helyi ökoszisztémára és közösségekre, több ezer ember áttelepítését vonva maga után. Földrajz K8 – Energia-infrastruktúra.",
+      "descriptionAdvancedRo": "Cu o capacitate instalată care o depășește cu mult pe cea a proiectului Kaléta, hidrocentrala Souapiti este cel mai mare proiect energetic din istoria Guineei. Prin construcția unui baraj masiv, nu numai că producția de energie este crescută drastic, dar este reglat și debitul râului Konkouré, ceea ce îmbunătățește eficiența centralelor electrice din aval. Este un instrument central al guvernului guineean pentru a promova industrializarea și a asigura exporturile de energie către țările vecine. Inaugurată în 2021, centrala are o capacitate de generare de 450 MW și a creat un rezervor de peste 300 de kilometri pătrați, având un impact semnificativ asupra ecosistemului local și a comunităților, implicând relocarea a mii de oameni. Geografie K8 — Infrastructura energetică.",
+      "descriptionAdvancedEn": "With an installed capacity that far exceeds the Kaléta project, the Souapiti hydropower plant is the largest energy project in Guinea's history. Through the construction of a massive dam, not only is power generation drastically increased, but the flow of the Konkouré River is regulated, which improves the efficiency of downstream power plants. It is a central tool of the Guinean government to promote industrialization and secure power exports to neighboring countries. Inaugurated in 2021, the plant has a generation capacity of 450 MW and features a reservoir of over 300 square kilometers, which had significant impacts on the local ecosystem and communities, involving the resettlement of thousands of people. Geography K8  —  Energy infrastructure.",
+      "factsAdvanced": [
+        "Guinea legnagyobb vízerőmű-projektje.",
+        "A nemzeti energiatermelés hatalmas növekedése.",
+        "A Konkouré folyó szabályozása a hatékonyság növelése érdekében.",
+        "Lehetővé teszi az áramexportot a szomszédos régiókba.",
+        "Az iparosodás központi eszköze.",
+        "Hatalmas víztározó a stratégiai energiatartalékok számára.",
+        "Teljesítménye 450 megawatt.",
+        "A tározó több mint 300 négyzetkilométeres."
+      ]
+    },
+    {
+      "id": "garafiri-wasserkraftwerk-economic-v2",
+      "descriptionAdvancedDe": "Das Garafiri-Wasserkraftwerk am Oberlauf des Konkouré war das erste große Staudammprojekt, das nach der Unabhängigkeit Guineas mit massiver nationaler Beteiligung realisiert wurde. Es wurde Ende der 1990er Jahre eingeweiht und galt lange Zeit als Stolz der Nation und Symbol für den Aufbruch in eine technologische Zukunft. Mit einer Leistung von 75 Megawatt legte Garafiri den Grundstein für das moderne Stromnetz des Landes. Das Kraftwerk spielt eine wichtige Rolle bei der Versorgung der Bergbaustädte in der Region und trägt zur Stabilisierung des Netzes in Niederguinea bei. Trotz der Konkurrenz durch neuere, größere Anlagen bleibt Garafiri ein wesentlicher Bestandteil des Energiemixes und ein Zeugnis guineischen Pioniergeistes. Geschichte K7 — Industrieller Aufbau und nationale Identität.",
+      "descriptionAdvancedHu": "Guinea függetlenné válása utáni első nagyszabású gátprojektként a Garafiri vízerőmű a Konkouré folyó vízenergia-forrásainak kiaknázásában végzett úttörő munkát szimbolizálja. Bár ma már felülmúlják az olyan újabb erőművek, mint a Souapiti, továbbra is a nemzeti villamosenergia-hálózat elengedhetetlen része. Lerakta a nagyléptékű energetikai infrastruktúra megértésének alapjait, és különösen fontos az energiaigényes alumíniumipar folyamatos működéséhez. Az 1999-ben felavatott, 75 megawattos erőmű sokáig a nemzet büszkesége volt, és a technológiai jövőbe való indulás jelképe. Történelem K7 – Ipari fejlődés.",
+      "descriptionAdvancedRo": "Ca primul proiect major de baraj după independența Guineei, hidrocentrala Garafiri simbolizează munca de pionierat în utilizarea resurselor hidroenergetice ale râului Konkouré. Deși acum este depășită de centrale mai noi, precum Souapiti, rămâne o componentă esențială a rețelei electrice naționale. A pus bazele înțelegerii infrastructurii energetice la scară largă și este deosebit de importantă pentru funcționarea continuă a industriei aluminiului, mare consumatoare de energie. Inaugurată în 1999, centrala de 75 de megawați a fost mult timp mândria națiunii și un simbol al unui nou început într-un viitor tehnologic. Istorie K7 — Dezvoltare industrială.",
+      "descriptionAdvancedEn": "As the first major dam project after Guinea's independence, the Garafiri hydropower plant symbolizes pioneering work in utilizing the hydropower resources of the Konkouré River. Although it is now surpassed by newer power plants like Souapiti, it remains an essential component of the national power grid. It laid the foundation for understanding large-scale energy infrastructure and is particularly important for the continuous operation of the energy-intensive aluminum industry. Inaugurated in 1999, the 75-megawatt plant was long the pride of the nation and a symbol of a new beginning into a technological future. History K7  —  Industrial development.",
+      "factsAdvanced": [
+        "Történelmi első nagy erőmű a függetlenség után.",
+        "A nemzeti villamosenergia-hálózat alapvető eleme.",
+        "Fontos az energiaigényes alumíniumgyártáshoz.",
+        "Úttörő projekt a Konkouré folyó felső szakaszán.",
+        "A modern energetikai infrastruktúra sarokköve.",
+        "Folyamatos hozzájárulás a nemzeti stabilitáshoz.",
+        "Teljesítménye 75 megawatt.",
+        "1999-ben avatták fel."
+      ]
+    },
+    {
+      "id": "goldmine-siguiri-economic-v2",
+      "descriptionAdvancedDe": "Die Siguiri-Goldmine im Nordosten des Landes ist der bedeutendste industrielle Goldproduzent Guineas und wird mehrheitlich vom Weltmarktführer AngloGold Ashanti betrieben. Die Mine ist ein riesiger Tagebaukomplex, der jährlich Hunderttausende Unzen Gold aus den lateritischen Böden gewinnt. Neben der industriellen Großanlage ist die gesamte Region Siguiri ein Zentrum für den traditionellen Kleinstbergbau, was zu einer komplexen sozio-ökonomischen Dynamik führt. Das Gold aus Siguiri leistet einen wesentlichen Beitrag zum Staatshaushalt und macht Guinea zu einem wichtigen Akteur auf dem afrikanischen Goldmarkt. Die Mine setzt modernste Extraktionstechnologien ein, um auch aus niedriggradigen Erzen wirtschaftlich Gold zu gewinnen. Geographie K7 — Goldbergbau und regionale Wirtschaftsentwicklung.",
+      "descriptionAdvancedHu": "A Siguiri aranybánya Guinea északkeleti részén Nyugat-Afrika egyik legnagyobb külszíni fejtésű művelete, amelyet a globális iparági vezető AngloGold Ashanti irányít. Ez a bánya nemcsak az aranyexport fontos gazdasági tényezője, hanem a regionális fejlődés központjaként is működik. Modern kitermelési és feldolgozási technológiák alkalmazásával a helyszín évente nagy mennyiségű aranyat termel, ami jelentősen hozzájárul az állami költségvetéshez és a helyi foglalkoztatáshoz Siguiriban. A nagyipari létesítmény mellett az egész Siguiri régió a hagyományos kisüzemi bányászat központja, ami összetett társadalmi-gazdasági dinamikához vezet. Földrajz K6 – Bányászat és gazdaság.",
+      "descriptionAdvancedRo": "Mina de aur Siguiri din nord-estul Guineei este una dintre cele mai mari operațiuni la suprafață din Africa de Vest și este administrată de liderul mondial al industriei, AngloGold Ashanti. Această mină nu este doar un factor economic important pentru exporturile de aur, ci acționează și ca un centru pentru dezvoltarea regională. Prin utilizarea tehnologiilor moderne de extracție și procesare, situl produce anual cantități mari de aur, ceea ce contribuie semnificativ la bugetul de stat și la ocuparea forței de muncă locale în Siguiri. Pe lângă instalația industrială la scară largă, întreaga regiune Siguiri este un centru pentru mineritul artizanal tradițional, ceea ce duce la o dinamică socio-economică complexă. Geografie K6 — Minerit și economie.",
+      "descriptionAdvancedEn": "The Siguiri Gold Mine in northeast Guinea is one of West Africa's largest open-pit operations and is managed by global industry leader AngloGold Ashanti. This mine is not only an important economic factor for gold exports, but also acts as a center for regional development. By using modern extraction and processing technologies, the site produces large quantities of gold annually, which contributes significantly to the state budget and local employment in Siguiri. In addition to the large-scale industrial facility, the entire Siguiri region is a center for traditional small-scale mining, leading to a complex socio-economic dynamic. Geography K6  —  Mining and economy.",
+      "factsAdvanced": [
+        "A világpiaci vezető AngloGold Ashanti üzemelteti.",
+        "Nagyméretű külszíni bánya északkeleten.",
+        "Évente jelentős mennyiségű aranyat termel.",
+        "Fontos hozzájárulás a guineai állami költségvetéshez.",
+        "Több ezer embernek ad munkát a Siguiri régióban.",
+        "Modern feldolgozási technológiák alkalmazása.",
+        "A régió a kisüzemi aranybányászat központja is.",
+        "Évente több mint 200 000 uncia aranyat termel."
+      ]
+    }
+  ]
+}

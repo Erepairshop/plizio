@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "description": "Morrito liegt am Südufer des Nicaraguasees im Departement Río San Juan und ist bekannt für seine Fischerei.",
+      "facts": ["Río San Juan", "Nicaraguasee", "Fischerei"]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "description": "San Jorge ist ein Hafenstädtchen am Nicaraguasee, das als Ausgangspunkt für Reisen nach Ometepe dient.",
+      "facts": ["Rivas Departement", "Nicaraguasee", "Hafen"]
+    },
+    {
+      "id": "potosi-rivas-cities-v2",
+      "description": "Potosí ist eine kleine Gemeinde im Departement Rivas, deren Geschichte eng mit der landwirtschaftlichen Tradition der Region verknüpft ist.",
+      "facts": ["Rivas Departement", "Landwirtschaft", "Ruhig"]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "description": "Buenos Aires liegt direkt am Nicaraguasee in Rivas und bietet schöne Ausblicke auf das Wasser und den Vulkan Ometepe.",
+      "facts": ["Rivas Departement", "Nicaraguasee", "Panoramablick"]
+    },
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "description": "Cárdenas ist eine Gemeinde an der Grenze zu Costa Rica am Südufer des Nicaraguasees.",
+      "facts": ["Rivas Departement", "Grenzgemeinde", "Nicaraguasee"]
+    },
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "description": "San José de Cusmapa liegt in den Bergen des Departements Madriz und ist für sein kühles Klima und Kunsthandwerk bekannt.",
+      "facts": ["Madriz Departement", "Bergregion", "Kunsthandwerk"]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "description": "Yalagüina ist eine Gemeinde im Departement Madriz, die durch ihre ländliche Struktur und Traditionen geprägt ist.",
+      "facts": ["Madriz Departement", "Ländlich", "Traditionell"]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "description": "Totogalpa liegt in einer hügeligen Landschaft in Madriz und ist bekannt für die lokale landwirtschaftliche Produktion.",
+      "facts": ["Madriz Departement", "Hügelig", "Landwirtschaft"]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "description": "Palacagüina ist eine historische Gemeinde im Departement Madriz, die tief in der regionalen Kultur verwurzelt ist.",
+      "facts": ["Madriz Departement", "Kulturell", "Historisch"]
+    },
+    {
+      "id": "santa-rosa-del-penon-leon-cities-v2",
+      "description": "Santa Rosa del Peñón im Departement León ist bekannt für seine ländliche Umgebung und landwirtschaftliche Erzeugnisse.",
+      "facts": ["León Departement", "Ländlich", "Landwirtschaft"]
+    }
+  ]
+}

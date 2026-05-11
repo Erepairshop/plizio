@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ariana-cities-v2",
+      "description": "Die Stadt Ariana liegt nördlich von Tunis und ist bekannt als modernes Wohngebiet mit zahlreichen grünen Parks.",
+      "facts": ["Vorort von Tunis", "Bekannt für den Parc Bir Belhassen", "Wichtiger Bildungsstandort"]
+    },
+    {
+      "id": "ben-arous-cities-v2",
+      "description": "Ben Arous ist eine bedeutende Industriestadt im Süden des Großraums Tunis.",
+      "facts": ["Industriezentrum", "Südlich von Tunis gelegen", "Wichtiger Verkehrsknotenpunkt"]
+    },
+    {
+      "id": "nabeul-cities-v2",
+      "description": "Nabeul ist das kulturelle Zentrum der Halbinsel Cap Bon und weltweit für seine Töpferei bekannt.",
+      "facts": ["Zentrum der Töpferei", "Hauptstadt des Gouvernorats Nabeul", "Bekannt für den Wochenmarkt"]
+    },
+    {
+      "id": "beja-cities-v2",
+      "description": "Béja liegt im fruchtbaren Norden Tunesiens und ist ein wichtiges Zentrum der Landwirtschaft.",
+      "facts": ["Agrarzentrum des Nordens", "Berühmt für Weizenproduktion", "Historische Wurzeln in der Antike"]
+    },
+    {
+      "id": "jendouba-cities-v2",
+      "description": "Jendouba ist eine Stadt im Nordwesten, die als Tor zur archäologischen Stätte Bulla Regia dient.",
+      "facts": ["Nahe Bulla Regia", "Kühle Gebirgsregion", "Landwirtschaftlich geprägt"]
+    },
+    {
+      "id": "siliana-cities-v2",
+      "description": "Siliana liegt im Nordwesten des Landes und ist von bergiger Landschaft sowie fruchtbaren Feldern umgeben.",
+      "facts": ["In der Gebirgsregion gelegen", "Zentrum der Olivenölproduktion", "Historische Zeugnisse der Numider"]
+    },
+    {
+      "id": "kairouan-cities-v2",
+      "description": "Kairouan ist eine der heiligsten Städte des Islam und bekannt für ihre monumentale Architektur.",
+      "facts": ["UNESCO-Welterbe", "Zentrum der Teppichherstellung", "Große Moschee von Kairouan"]
+    },
+    {
+      "id": "sidi-bouzid-cities-v2",
+      "description": "Sidi Bouzid liegt in Zentraltunesien und ist vor allem durch den Ackerbau und Viehzucht geprägt.",
+      "facts": ["Zentrum Zentraltunesiens", "Bekannt für Obst- und Gemüseanbau", "Relativ junge moderne Stadt"]
+    },
+    {
+      "id": "monastir-cities-v2",
+      "description": "Monastir ist eine Küstenstadt am Golf von Hammamet, die für ihr Ribat und den internationalen Flughafen bekannt ist.",
+      "facts": ["Geburtsort von Habib Bourguiba", "Bekannt für das historische Ribat", "Wichtiger Tourismusstandort"]
+    },
+    {
+      "id": "mahdia-cities-v2",
+      "description": "Mahdia ist eine charmante Hafenstadt auf einer felsigen Halbinsel, die einst Hauptstadt der Fatimiden war.",
+      "facts": ["Ehemalige fatimidische Hauptstadt", "Zentrum der Fischerei", "Bekannt für feine Webkunst"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "Die Seenlandschaft in Gaza ist ein bedeutendes Ökosystem mit einer reichen Vogelwelt. Sie bietet Ruhe und ist für Naturliebhaber ein wichtiger Anlaufpunkt.",
+      "facts": ["Seenlandschaft in Gaza", "Reiche Vogelwelt", "Ökologisches Gebiet", "Ruhepol für Natur"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "Die Insel Bangue ist für ihre unberührte Natur und ihre vielfältigen Küstenlinien bekannt. Ein wichtiger Lebensraum für maritime Flora und Fauna.",
+      "facts": ["Unberührte Inselnatur", "Vielfältige Küste", "Maritimer Lebensraum", "Naturschutzgebiet"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "Die Waldgebiete von Nampula sind ökologisch äußerst wertvoll und beherbergen seltene Baumarten. Ein Gebiet, das die grüne Lunge der Provinz darstellt.",
+      "facts": ["Ökologisch wertvolle Wälder", "Seltene Baumarten", "Grüne Lunge", "Naturschutz-Gebiet"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "Die Songo-Berge bieten eine raue Naturlandschaft mit tiefen Tälern und beeindruckenden Felsformationen. Eine Region, die von ihrer wilden Schönheit lebt.",
+      "facts": ["Raue Bergwelt", "Tiefe Täler", "Felsformationen", "Wilde Schönheit"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "Die Lupata-Schlucht ist ein geologisch faszinierendes Gebiet, das den Sambesi durch eine beeindruckende Felslandschaft leitet. Ein Ort, der die Kraft des Wassers zeigt.",
+      "facts": ["Geologische Schlucht", "Faszinierende Felsen", "Sambesi-Durchbruch", "Kraft der Natur"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "Die Wälder von Macossa sind ein wichtiges Refugium für viele Tierarten. Sie bieten eine ungestörte Umgebung, die für die Biodiversität entscheidend ist.",
+      "facts": ["Tier-Refugium", "Ungestörte Umgebung", "Biodiversität-Zentrum", "Wichtiges Waldgebiet"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "Der Massingir-Stausee ist ein bedeutendes Gewässer, das zur regionalen Wasserversorgung und zur Bewahrung der lokalen Artenvielfalt beiträgt.",
+      "facts": ["Großer Stausee", "Regionale Versorgung", "Artenvielfalt-Zentrum", "Wichtiges Gewässer"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "Die Berge bei Moamba bilden eine charakteristische Landschaft mit einer Vielzahl an endemischen Pflanzen. Ein Gebiet von hoher Bedeutung für die Botanik.",
+      "facts": ["Charakteristische Landschaft", "Endemische Pflanzen", "Botanische Bedeutung", "Bergregion"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "Die Savane-Seen sind für ihre malerische Umgebung und ihre ruhigen Gewässer bekannt. Sie stellen ein wichtiges Biotop in der Region dar.",
+      "facts": ["Malerische Seen", "Ruhiges Gewässer", "Wichtiges Biotop", "Regionalschatz"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "Der Chinde ist ein bedeutender Flusslauf, der durch eine vielfältige Marschlandschaft zur Küste fließt. Ein Lebensraum für viele aquatische Arten.",
+      "facts": ["Bedeutender Flusslauf", "Marschlandschaft", "Vielfältige Flora", "Aquatischer Lebensraum"]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [ "lib/visualLab/data/poiExtraMaliLifeV2.ts" ],
+  "items": [
+    { "id": "segou-river-wildlife-life-v2", "description": "Viața sălbatică de-a lungul fluviului Niger în Segou oferă o privire asupra biodiversității bogate a regiunii.", "facts": ["Fluviul Niger", "Biodiversitate", "Segou"] },
+    { "id": "sikasso-mango-farm-life-v2", "description": "Sikasso este 'capitala mangoului' din Mali, cu ferme extinse care produc fructe de înaltă calitate.", "facts": ["Producție de mango", "Sikasso", "Export agricol"] },
+    { "id": "mopti-garden-life-v2", "description": "Grădinile din Mopti folosesc tehnici tradiționale de irigare pentru a susține producția locală lângă fluviu.", "facts": ["Irigare tradițională", "Mopti", "Producție locală"] },
+    { "id": "timbuktu-garden-life-v2", "description": "Micile grădini din Timbuktu se bazează pe gestionarea atentă a apei pentru a cultiva legume în deșert.", "facts": ["Gestionarea apei", "Grădinărit în deșert", "Timbuktu"] },
+    { "id": "san-market-life-v2", "description": "Piața din San este un punct de adunare tradițional unde se comercializează produse locale și obiecte artizanale.", "facts": ["Piață tradițională", "Produse locale", "Mali central"] },
+    { "id": "goundam-garden-life-v2", "description": "Grădinile din Goundam demonstrează efortul comunității de a sprijini securitatea alimentară în zona aridă.", "facts": ["Securitate alimentară", "Zona aridă", "Goundam"] },
+    { "id": "koulikoro-market-life-v2", "description": "Piața Koulikoro este un nod comercial activ pentru produsele de pe fluviu în apropierea capitalei.", "facts": ["Comerț fluvial", "Produse locale", "Koulikoro"] },
+    { "id": "sikasso-nature-life-v2", "description": "Zonele naturale din jurul orașului Sikasso sunt bogate în păduri și savane care susțin viața sălbatică.", "facts": ["Păduri și savane", "Sikasso", "Habitat natural"] }
+  ]
+}

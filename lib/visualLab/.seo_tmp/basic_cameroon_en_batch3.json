@@ -2,67 +2,84 @@
   "lang": "en",
   "country": "Cameroon",
   "files": [
-    "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
     "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
-    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
-    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "cimencam-figuil-economic-v2",
-      "description": "A cement plant in Figuil that supplies construction material to northern Cameroon. It is a key industrial site for the region.",
-      "facts": [
-        "in Figuil",
-        "supplies the north",
-        "cement production site"
-      ]
+      "id": "king-bell-palace-history-v2",
+      "description": "The King Bell Palace in Douala, also known as 'La Pagode', is a striking piece of architecture that served as the residence of the Duala kings.",
+      "facts": ["Known as La Pagode", "Duala royal residence", "Built in 1905", "Douala historical landmark"]
     },
     {
-      "id": "kribi-gas-plant-economic-v2",
-      "description": "A gas-fired power site in Kribi on the southern coast. It supports electricity generation and industrial demand.",
-      "facts": [
-        "in Kribi",
-        "gas-fired power",
-        "supports the energy mix"
-      ]
+      "id": "german-bridge-edea-history-v2",
+      "description": "The German Bridge in Edea is a significant engineering relic from the German colonial period, crossing the Sanaga River.",
+      "facts": ["German colonial era", "Spans Sanaga River", "Located in Edea", "Early 20th century construction"]
     },
     {
-      "id": "foumban-bauxite-economic-v2",
-      "description": "A bauxite deposit near Foumban in western Cameroon. It is one of the area's notable mineral resources.",
-      "facts": [
-        "near Foumban",
-        "in western Cameroon",
-        "bauxite resource"
-      ]
+      "id": "maroua-lamidat-history-v2",
+      "description": "The Lamidat of Maroua is a traditional Fulani sultanate in the Far North Region, serving as a spiritual and cultural hub for the local population.",
+      "facts": ["Fulani sultanate seat", "Far North Region", "Traditional palace", "Cultural heritage center"]
     },
     {
-      "id": "ngaoundal-bauxite-economic-v2",
-      "description": "A bauxite deposit in the Adamawa region near Ngaoundal. It is part of Cameroon's long-term mining potential.",
-      "facts": [
-        "near Ngaoundal",
-        "in Adamawa",
-        "mineral resource site"
-      ]
+      "id": "king-akwas-palace-history-v2",
+      "description": "The palace of King Akwa in Douala is a historic site associated with the Akwa royalty and their role in the region's colonial history.",
+      "facts": ["Akwa royal seat", "Douala historical site", "Duala ethnic heritage", "Colonial era landmark"]
     },
     {
-      "id": "camalco-makan-economic-v2",
-      "description": "A mining project in Makan linked to bauxite and aluminum plans. It reflects the country's push to develop new mineral sites.",
-      "facts": [
-        "in Makan",
-        "bauxite and aluminum plans",
-        "new mining project"
-      ]
+      "id": "dschang-colonial-center-history-v2",
+      "description": "The Dschang Colonial Center preserves the history of the town as a former hill station and administrative center during the colonial era.",
+      "facts": ["West Region location", "Former colonial hill station", "Historical administrative hub", "Preserved architecture"]
     },
     {
-      "id": "sabc-ndokoti-economic-v2",
-      "description": "A major SABC production and distribution site in Ndokoti, Douala. It helps supply drinks to the country's largest urban market.",
-      "facts": [
-        "in Ndokoti, Douala",
-        "SABC distribution hub",
-        "serves the urban market"
-      ]
+      "id": "garoua-lamidat-history-v2",
+      "description": "The Lamidat of Garoua is a prestigious traditional chiefdom in northern Cameroon, with a palace that reflects the region's Islamic heritage.",
+      "facts": ["North Region seat", "Islamic heritage site", "Traditional sultanate", "Garoua cultural landmark"]
+    },
+    {
+      "id": "pitoa-slave-market-site-history-v2",
+      "description": "Pitoa was historically a major site for the internal slave trade in northern Cameroon, now serving as a place of historical reflection.",
+      "facts": ["Internal slave trade site", "North Region location", "Historical market", "Memorial significance"]
+    },
+    {
+      "id": "fort-of-yaounde-site-history-v2",
+      "description": "The site of the original Fort of Yaounde marks the location where German forces established a permanent presence, leading to the city's founding.",
+      "facts": ["City's founding site", "German colonial fort", "Yaounde historical origin", "Military history landmark"]
+    },
+    {
+      "id": "saints-peter-and-paul-cathedral-history-v2",
+      "description": "The Saints Peter and Paul Cathedral in Douala is a grand religious structure dating back to the colonial era, serving the Catholic community.",
+      "facts": ["Douala cathedral", "Catholic landmark", "Colonial architecture", "Spiritual center of Douala"]
+    },
+    {
+      "id": "old-post-office-buea-history-v2",
+      "description": "The Old Post Office in Buea is a charming historic building from the German colonial period, once the communication hub of the region.",
+      "facts": ["German colonial building", "Located in Buea", "Historical infrastructure", "Architectural relic"]
+    },
+    {
+      "id": "yaounde-notre-dame-landmarks-v2",
+      "description": "The Notre Dame Cathedral in Yaounde is a major architectural and religious landmark, known for its distinctive design and central location.",
+      "facts": ["Capital city landmark", "Modern architecture", "Religious center", "Prominent skyline feature"]
+    },
+    {
+      "id": "mvolye-basilica-landmarks-v2",
+      "description": "The Basilica of Marie-Reine-des-Apotres in Mvolye is a significant Catholic shrine and a masterpiece of modern religious architecture in Yaounde.",
+      "facts": ["Catholic basilica", "Yaounde landmark", "Modern architectural design", "Pilgrimage site"]
+    },
+    {
+      "id": "olembe-stadium-landmarks-v2",
+      "description": "The Olembe Stadium in Yaounde is a state-of-the-art multi-purpose arena, primarily used for football and major national sporting events.",
+      "facts": ["National stadium", "60,000 capacity", "Yaounde location", "Modern sporting hub"]
+    },
+    {
+      "id": "reunification-monument-landmarks-v2",
+      "description": "The Reunification Monument is an iconic statue in Yaounde that symbolizes the joining of Cameroon's diverse colonial histories into one nation.",
+      "facts": ["Iconic national statue", "Yaounde symbol", "National unity theme", "Tourist landmark"]
+    },
+    {
+      "id": "national-museum-landmarks-v2",
+      "description": "The National Museum of Cameroon, housed in the former presidential palace in Yaounde, showcases the country's rich ethnic and artistic diversity.",
+      "facts": ["Former presidential palace", "Located in Yaounde", "Cultural artifacts hub", "Premier national museum"]
     }
   ]
 }

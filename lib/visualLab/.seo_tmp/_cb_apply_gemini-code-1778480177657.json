@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "quinara-oelpalm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ölpalmenhaine der Region Quínara sind weit mehr als nur landwirtschaftliche Flächen; sie sind das pulsierende Herz der lokalen Ökonomie und ein fester Bestandteil der kulturellen Identität im Süden Guinea-Bissaus. Die afrikanische Ölpalme (Elaeis guineensis) wächst hier in riesigen, teils wilden Hainen, die den Rhythmus des täglichen Lebens bestimmen. Die Gewinnung von rotem Palmöl ist ein aufwendiger Prozess, der oft von Frauenkollektiven in den Dörfern durchgeführt wird: Die Früchte werden gekocht, zerstampft und gefiltert, um das vitaminreiche Öl zu gewinnen, das die Basis für fast jedes traditionelle Gericht wie den 'Caldo de Mancarra' bildet. Neben dem Öl ist die Palme die Quelle für den berühmten Palmwein. Die 'Palmwein-Tapper' klettern mit erstaunlicher Geschicklichkeit an den glatten Stämmen empor, um den Saft aus den Blütenständen zu sammeln, der frisch süßlich schmeckt und schnell vergärt. Dieser Wein spielt eine zentrale Rolle bei sozialen Zusammenkünften, Hochzeiten und traditionellen Zeremonien. Die Haine bieten zudem Lebensraum für eine Vielzahl von Kleinsäugern und Vögeln, was das ökologische Gleichgewicht der Region stützt. In Quínara ist die Ölpalme ein Symbol für Ausdauer und Großzügigkeit der Natur, da fast jeder Teil des Baumes – von den Blättern für die Dachdeckung bis zu den Kernen für Brennstoff – genutzt wird.",
+        "hu": "Quínara olajpálma-ligetei Guinea-Bissau déli részének meghatározó tájképi és gazdasági elemei. Az afrikai olajpálma (Elaeis guineensis) itt nem csupán egy haszonnövény, hanem a közösségi élet alapköve, amelyből a helyiek szinte mindent előállítanak. A vörös pálmaolaj kinyerése hagyományos, kézi munkaerőt igénylő folyamat, amelyet általában az asszonyok végeznek: a termést kifőzik, összezúzzák, majd szűrik, hogy megkapják azt a sűrű, vitaminokban gazdag alapanyagot, amely nélkül elképzelhetetlen a guineai konyha és a nemzeti ételek többsége. A pálmaligetek másik fontos „terméke” a pálmabor, amelynek kinyeréséhez a férfiak különleges fonott kötelek segítségével másznak fel a fa csúcsára, hogy megcsapolják a virágzat nedvét. Ez az ital frissen édes, erjedve pedig enyhén bódító, és minden jelentős társadalmi esemény, szertartás és falusi mulatság elmaradhatatlan kelléke. Az olajpálma minden részét hasznosítják: a levelekből tetőfedő anyag és kosár készül, a magokból pedig értékes kozmetikai olajat vagy tüzelőanyagot nyernek. A ligetek árnyékában zajló mindennapi munka és a pálmabor köré szerveződő rituálék hűen tükrözik a természet és az ember közötti mély, évszázados szimbiózist Quínara vidékén.",
+        "ro": "Livezile de palmieri de ulei din regiunea Quínara reprezintă inima economică și culturală a sudului Guineei-Bissau. Palmierul de ulei african (Elaeis guineensis) crește aici în plantații vaste, adesea semi-sălbatice, care dictează ritmul vieții rurale. Producția de ulei de palmier roșu este un proces laborios, realizat de obicei de grupuri de femei în sate: fructele sunt fierte, zdrobite și filtrate pentru a extrage uleiul bogat în caroteni, esențial pentru bucătăria națională. Pe lângă ulei, palmierul este sursa faimosului vin de palmier. Culegătorii urcă cu o agilitate remarcabilă pe trunchiurile înalte pentru a colecta seva dulce care fermentează rapid, devenind centrul social al oricărei adunări comunitare sau ceremonii tradiționale. Fiecare parte a arborelui este valorificată, de la frunzele folosite pentru acoperișuri la sâmburii utilizați drept combustibil. Livezile din Quínara nu sunt doar o resursă agricolă, ci și un habitat crucial pentru biodiversitatea locală, menținând echilibrul ecologic. Această cultură ancestrală simbolizează reziliența comunităților locale și dependența lor armonioasă de resursele naturale ale pădurii tropicale, fiind un element definitoriu al peisajului din sudul țării.",
+        "en": "The oil palm groves of the Quínara region are far more than mere agricultural plots; they are the pulsating heart of the local economy and an integral part of the cultural identity in southern Guinea-Bissau. The African oil palm (Elaeis guineensis) grows here in vast, semi-wild groves that dictate the rhythm of daily life. The extraction of red palm oil is a labor-intensive process, often performed by women's collectives in the villages: the fruits are boiled, pounded, and filtered to produce the nutrient-rich oil that forms the base of almost every traditional dish, such as 'Caldo de Mancarra'. Beside the oil, the palm is the source of the famous palm wine. 'Palm wine tappers' climb the smooth trunks with astonishing agility to collect the sap from the flower buds, which is sweet when fresh and ferments quickly into a mild alcoholic beverage. This wine plays a central role in social gatherings, weddings, and traditional ceremonies. The groves also provide habitat for numerous small mammals and birds, supporting the region's ecological balance. In Quínara, the oil palm is a symbol of nature’s generosity, as nearly every part of the tree – from the fronds for roofing to the kernels for fuel – is utilized by the local population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Rotes Palmöl ist die wichtigste Fettquelle in der guineischen Küche.",
+          "Der Palmwein wird lokal oft 'Chitche' genannt und ist fermentiert.",
+          "Aus den Kernen der Früchte wird wertvolles Palmkernöl gewonnen.",
+          "Die Ernte erfolgt ganzjährig, erreicht aber in der Trockenzeit ihren Höhepunkt.",
+          "Palmblätter werden traditionell zum Decken von Rundhütten verwendet.",
+          "Die Gewinnung des Öls erfolgt fast ausschließlich in Handarbeit."
+        ],
+        "hu": [
+          "A vörös pálmaolaj rendkívül magas A-vitamin-tartalommal rendelkezik.",
+          "A pálmabor csapolása veszélyes mesterség, amely apáról fiúra száll.",
+          "A ligetek Quínara régió mezőgazdasági termelésének gerincét adják.",
+          "A pálma minden része felhasználható, így „életfának” is nevezik.",
+          "A pálmaolaj készítése során keletkező mellékterméket takarmányozásra használják.",
+          "A hagyományos pálmabor-szertartások a falusi hierarchia fontos részei."
+        ],
+        "ro": [
+          "Uleiul de palmier roșu este baza preparatului național 'Caldo de Mancarra'.",
+          "Vinul de palmier proaspăt este non-alcoolic, dar fermentează în câteva ore.",
+          "Trunchiurile de palmier sunt folosite uneori în construcții rurale ușoare.",
+          "Fibrele din frunze sunt utilizate pentru fabricarea frânghiilor rezistente.",
+          "Producția artizanală de ulei este o activitate socială majoră pentru femei.",
+          "Regiunea Quínara are cea mai mare densitate de palmieri din țară."
+        ],
+        "en": [
+          "Red palm oil is a primary source of vitamins A and E in the local diet.",
+          "Palm wine is often consumed as a ritual drink during ancestral ceremonies.",
+          "The oil palm is indigenous to West Africa and thrives in Quínara’s climate.",
+          "Tappers use a traditional rope harness called a 'corda' to climb trees.",
+          "The residue from oil extraction is often used as a natural fertilizer.",
+          "Groves are managed collectively by villages rather than large corporations."
+        ]
+      }
+    },
+    {
+      "id": "biombo-mango-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Mango-Haine von Biombo verwandeln die Region westlich von Bissau jedes Jahr zwischen April und Juni in ein farbenfrohes Paradies der Düfte. Guinea-Bissau ist berühmt für die Qualität seiner Mangos, und Biombo gilt als das Epizentrum dieses Anbaus. Die Vielfalt der Sorten ist beeindruckend, wobei die 'Manga de Bissau' besonders für ihr intensives Aroma und ihre faserfreie Textur geschätzt wird. Während der Erntesaison herrscht in den Dörfern Ausnahmezustand: Überall sieht man Lastwagen, die bis unter das Dach mit den goldenen Früchten beladen sind, und Frauen, die an den Straßenrändern prall gefüllte Körbe verkaufen. Für die lokale Bevölkerung ist die Mango weit mehr als nur ein Obst; sie ist in dieser Zeit ein wichtiges Grundnahrungsmittel und eine unverzichtbare Einkommensquelle. Da die Früchte in solchen Mengen reifen, dass sie lokal kaum konsumiert werden können, wird ein großer Teil nach Bissau transportiert oder informell in die Nachbarländer exportiert. Die riesigen, schattigen Mangobäume prägen das Landschaftsbild von Biombo und dienen als natürliche Treffpunkte für die Gemeinschaft. Trotz des enormen Potenzials fehlt es oft an industriellen Verarbeitungsmöglichkeiten, weshalb Bemühungen bestehen, die Mango-Produktion durch Trocknung oder Saftgewinnung nachhaltiger zu gestalten und den Bauern stabilere Preise zu sichern.",
+        "hu": "Biombo mangó-ligetei minden év április és június között az illatok és színek mámorító birodalmává változtatják a Bissautól nyugatra fekvő régiót. Guinea-Bissau híres a mangói minőségéről, és Biombo számít e gyümölcs termesztési központjának. A fajtaválaszték lenyűgöző, de a legkeresettebb a „Manga de Bissau”, amely intenzív aromájáról és rostmentes húsáról ismert. Az aratási szezon idején a falvakban felfokozott az élet: mindenütt aranyszínű gyümölccsel púposra rakott teherautókat és az utak mentén kosarakból mangót áruló asszonyokat látni. A helyi lakosság számára a mangó ilyenkor több mint csemege; fontos élelemforrás és a családok egyik legfőbb bevételi lehetősége. Mivel a gyümölcs egyszerre és hatalmas mennyiségben érik, a felesleget Bissauba szállítják, vagy informális utakon a szomszédos országokba exportálják. Biombo tájképét a hatalmas, árnyas mangófák határozzák meg, amelyek alatt a közösség tagjai szívesen gyűlnek össze a hőség elől menekülve. Bár a termelési potenciál óriási, a feldolgozóipar hiánya miatt sok gyümölcs kárba vész, ezért újabban aszalással és légyártással próbálják megőrizni az értékes termést és stabilabb megélhetést biztosítani a gazdáknak.",
+        "ro": "Livezile de mango din Biombo transformă regiunea aflată la vest de Bissau într-un paradis parfumat în fiecare an între lunile aprilie și iunie. Guineea-Bissau este renumită pentru calitatea fructelor sale de mango, iar Biombo este considerat centrul acestei producții. Diversitatea soiurilor este impresionantă, 'Manga de Bissau' fiind în mod special apreciată pentru aroma sa intensă și textura fină. În timpul sezonului de recoltare, satele sunt cuprinse de o efervescență comercială: camioane încărcate până la refuz cu fructe aurii pornesc spre capitală, iar marginile drumurilor sunt pline de femei care vând coșuri generoase de mango. Pentru populația locală, mangoul reprezintă o sursă vitală de hrană și un venit esențial în această perioadă a anului. Deoarece fructele se coc în cantități imense, surplusul este transportat în Bissau sau exportat informal către țările vecine. Arborii de mango uriași domină peisajul din Biombo, oferind umbră binevenită pentru întâlnirile comunitare. Deși potențialul este enorm, lipsa unităților de procesare industrială rămâne o provocare, existând inițiative recente de a promova uscarea fructelor sau producția de sucuri pentru a asigura prețuri stabile fermierilor.",
+        "en": "The mango groves of Biombo transform the region west of Bissau into a colorful, fragrant paradise every year between April and June. Guinea-Bissau is famous for the superior quality of its mangoes, and Biombo is regarded as the epicenter of this production. The variety of cultivars is impressive, with the 'Manga de Bissau' being especially prized for its intense aroma and fiber-free texture. During the peak harvest season, the villages are buzzing with activity: trucks overloaded with golden fruit head toward the capital, and women line the roadsides selling overflowing baskets. For the local population, the mango is far more than just a treat; during this time, it serves as a crucial food staple and a vital source of income for many households. Because the fruit ripens in such vast quantities that it can hardly be consumed locally, much of it is transported to Bissau or exported informally to neighboring countries. Massive, shady mango trees define the landscape of Biombo, serving as natural communal gathering spots. Despite the enormous economic potential, a lack of industrial processing facilities remains a challenge, leading to new efforts to encourage fruit drying or juice production to provide farmers with more stable incomes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Sorte 'Manga de Bissau' ist die begehrteste Frucht der Region.",
+          "Mangobäume dienen in Biombo oft als natürliche Schattenspender für Dorfversammlungen.",
+          "Während der Hochsaison sinken die Preise auf den Märkten extrem stark.",
+          "Mango-Bäume können in dieser feuchten Region über 20 Meter hoch werden.",
+          "Ein großer Teil der Ernte wird frisch auf den Märkten von Bissau verkauft.",
+          "Getrocknete Mangos aus Biombo gewinnen zunehmend an Bedeutung im Export."
+        ],
+        "hu": [
+          "A mangó-szezon a kesudió-aratással párhuzamosan zajlik Biombóban.",
+          "A helyi mangófák többsége több évtizedes, hatalmasra nőtt példány.",
+          "A gyümölcsöt gyakran közvetlenül az út szélén, frissen szedve értékesítik.",
+          "Biombo mangói híresek arról, hogy édesebbek a többi régió termésénél.",
+          "Az érett mangó héját a helyi állattartók takarmányként is hasznosítják.",
+          "A mangófa törzsét néha kenuk készítéséhez is felhasználják."
+        ],
+        "ro": [
+          "Biombo este principala sursă de aprovizionare cu mango pentru piețele din capitală.",
+          "Există peste zece soiuri locale diferite cultivate în această regiune.",
+          "Sezonul de mango este supranumit uneori 'sezonul abundenței' în sate.",
+          "Arborii oferă un microclimat răcoros în satele expuse soarelui tropical.",
+          "Transportul fructelor se face adesea în cutii de lemn fabricate local.",
+          "Proiectele comunitare încurajează transformarea mangoului în gemuri și sucuri."
+        ],
+        "en": [
+          "The 'Manga de Bissau' is renowned for having no fibers and a very sweet taste.",
+          "Mango trees are often planted along the main roads to provide shade for travelers.",
+          "Harvesting is mostly done by hand using long poles with nets.",
+          "The Biombo region benefits from the coastal humidity which aids tree growth.",
+          "Surplus mangoes are often shared among neighbors as a sign of goodwill.",
+          "Mango cultivation is a key part of the informal economy for women in Biombo."
+        ]
+      }
+    },
+    {
+      "id": "bolama-obst-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Bolama, einst das administrative Zentrum von Portugiesisch-Guinea, beherbergt heute einige der prächtigsten, wenn auch verwilderten Obstplantagen des Landes. Diese Gärten sind ein Erbe der kolonialen Stadtplanung, als die Insel als das 'Genua Westafrikas' galt und für ihre botanische Vielfalt berühmt war. Heute ernten die Bewohner von Bolama eine Fülle von Früchten, die in der salzhaltigen Meeresluft und dem fruchtbaren Boden prächtig gedeihen: von saftigen Zitrusfrüchten und Limetten über Guaven und Mangos bis hin zu den allgegenwärtigen Cashewnüssen. Die Obstgärten sind oft Teil der weitläufigen Grundstücke der alten Kolonialvillen, wo die Natur die einst geordneten Strukturen zurückerobert hat. Diese 'Garteninsel' versorgt nicht nur die lokale Bevölkerung, sondern liefert auch wertvolle Erzeugnisse per Boot nach Bissau. Das Leben auf Bolama ist eng mit dem Zyklus dieser Früchte verbunden; die Ernte bietet Arbeit und sichert die Ernährung. Besonders die Limetten von Bolama sind für ihr intensives Aroma bekannt und werden im ganzen Land geschätzt. Ein Spaziergang durch die Obsthaine der Insel ist eine Reise durch die Zeit, bei der man den Duft blühender Zitrusbäume atmet und die melancholische Schönheit einer Natur erlebt, die über die Ruinen der Geschichte triumphiert.",
+        "hu": "Bolama szigete, amely egykor Portugál-Guinea adminisztratív központja volt, ma az ország egyik legpompásabb, bár részben elvadult gyümölcsöskertjeinek ad otthont. Ezek a kertek a gyarmati várostervezés örökségei, abból az időből, amikor a szigetet „Nyugat-Afrika Genuájaként” emlegették botanikai gazdagsága miatt. Ma Bolama lakói a sós tengeri levegőn és a termékeny talajon kiválóan fejlődő gyümölcsök bőségét élvezik: a lédús citrusféléktől és limetól kezdve a guaván és mangón át egészen a mindenütt jelen lévő kesudióig. A gyümölcsösök gyakran a régi gyarmati villák hatalmas telkeinek részét képezik, ahol a természet fokozatosan visszahódította az egykor rendezett struktúrákat. Ez a „kertsziget” nemcsak a helyi lakosságot látja el, hanem értékes terményeit csónakkal Bissauba is szállítják. Az élet Bolamán szorosan összefonódik e gyümölcsök ciklusával; a betakarítás munkát ad és biztosítja az élelmezést. Különösen a bolamai lime híres intenzív aromájáról, amelyet az egész országban nagyra értékelnek. Egy séta a sziget gyümölcsösei között időutazás is egyben, ahol a virágzó citrusfák illatát belélegezve feltárul a történelem romjai felett diadalmaskodó természet melankolikus szépsége.",
+        "ro": "Insula Bolama, cândva centrul administrativ al Guineei Portugheze, găzduiește astăzi unele dintre cele mai splendide, deși parțial sălbăticite, livezi de fructe din țară. Aceste grădini sunt o moștenire a planificării urbane coloniale, dintr-o epocă în care insula era supranumită 'Genova Africii de Vest' datorită bogăției sale botanice. Astăzi, locuitorii din Bolama beneficiază de o abundență de fructe care prosperă în aerul salin și solul fertil: de la citrice suculente și lime, la guava, mango și nelipsitele nuci caju. Livezile fac adesea parte din proprietățile vaste ale vechilor vile coloniale, unde natura a recuperat treptat structurile odinioară ordonate. Această 'insulă-grădină' nu doar aprovizionează populația locală, ci trimite produse valoroase cu barca spre Bissau. Viața pe Bolama este strâns legată de ciclul acestor fructe; recoltarea oferă locuri de muncă și asigură hrana. În mod special, fructele de lime din Bolama sunt renumite pentru aroma lor intensă, fiind apreciate în toată țara. O plimbare prin livezile insulei este o călătorie în timp, unde parfumul citricelor înflorite se împletește cu frumusețea melancolică a unei naturi care triumfă asupra ruinelor istoriei.",
+        "en": "Bolama Island, once the administrative center of Portuguese Guinea, is home today to some of the country’s most splendid, albeit partially overgrown, fruit orchards. These gardens are a legacy of colonial urban planning from a time when the island was known as the 'Genoa of West Africa' for its botanical diversity. Today, the residents of Bolama harvest an abundance of fruit that thrives in the salty sea air and fertile soil: ranging from juicy citrus and limes to guavas, mangoes, and the ubiquitous cashews. The orchards are often part of the vast grounds of old colonial villas, where nature has reclaimed once-ordered structures. This 'garden island' not only sustains the local population but also sends valuable produce by boat to Bissau. Life on Bolama is closely linked to the cycle of these fruits; the harvest provides jobs and ensures food security. Bolama’s limes, in particular, are famous for their intense aroma and are prized throughout the country. A stroll through the island’s fruit groves is a journey through time, breathing in the scent of blooming citrus trees while experiencing the melancholic beauty of nature triumphing over the ruins of history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Obstbäume wurden oft vor über 100 Jahren von Siedlern gepflanzt.",
+          "Bolama ist bekannt für die besten Limetten des Bijagós-Archipels.",
+          "Früchte werden in Holzkisten per Fähre zum Festland transportiert.",
+          "Viele alte Villen sind heute von Mangroven und Obstbäumen überwuchert.",
+          "Die Erntesaison für Zitrusfrüchte beginnt meist im November.",
+          "Traditionelle Marmeladen aus Bolama sind ein beliebtes Mitbringsel."
+        ],
+        "hu": [
+          "A sziget gyümölcsösei egykor kísérleti mezőgazdasági állomások voltak.",
+          "A bolamai lime-ot a bissaui piacokon prémium termékként árazzák.",
+          "A gyümölcsszedés a helyi iskolások számára is fontos idénymunka.",
+          "A kertekben gyakran találni vadon növő papaját és banánt is.",
+          "Az öntözéshez a régi koloniális ciszternák vizét használják.",
+          "A sziget klímája kedvez az egzotikus trópusi virágoknak is."
+        ],
+        "ro": [
+          "Livezile din Bolama sunt considerate printre cele mai bio din regiune.",
+          "Citricele de aici sunt exportate informal către hotelurile din Bissau.",
+          "Arborii de caju ocupă acum zonele de margine ale vechilor plantații.",
+          "Solul vulcanic al insulei oferă un gust specific fructelor.",
+          "Localnicii prepară sucuri naturale concentrate din fructele de sezon.",
+          "Grădinile sunt un refugiu pentru multe specii de fluturi tropicali."
+        ],
+        "en": [
+          "Bolama’s orchards were part of a 19th-century botanical beautification project.",
+          "The island’s limes are essential ingredients in the local 'Caldo' soups.",
+          "Fruit transport to Bissau takes about 2 to 4 hours by traditional boat.",
+          "Many orchards have become semi-wild forests due to lack of maintenance.",
+          "The citrus harvest provides a vital cash injection for the islanders.",
+          "Local varieties of guava found here are exceptionally large and sweet."
+        ]
+      }
+    },
+    {
+      "id": "gabu-baumwolle-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Baumwollfelder von Gabú im Osten Guinea-Bissaus sind ein Zeugnis der landwirtschaftlichen Vielfalt des Landes jenseits der Cashew-Dominanz. Gabú, geprägt von einem trockeneren Savannenklima, bietet ideale Bedingungen für den Anbau von Baumwolle (Gossypium), die hier traditionell eine wichtige Rolle spielt. In der Kolonialzeit war Baumwolle ein strategisches Exportgut, und auch heute bleibt sie eine wichtige Cash-Crop für viele kleinbäuerliche Betriebe der Fula-Bevölkerung. Die weiten weißen Felder während der Erntezeit sind ein markantes Bild der Region. Die Baumwollproduktion ist eng mit dem handwerklichen Weben verbunden; in den Dörfern rund um Gabú findet man noch immer traditionelle Webstühle, auf denen die berühmten 'Panu di Pinti' hergestellt werden – kunstvolle Stoffe, die bei zeremoniellen Anlässen getragen werden. Die Baumwolle aus Gabú steht für die Verbindung von Agrarwirtschaft und handwerklicher Tradition. Trotz der Konkurrenz durch Billigimporte auf dem globalen Markt kämpfen lokale Kooperativen um den Erhalt dieses Sektors, der nicht nur Einkommen generiert, sondern auch ein tief verwurzeltes Kulturerbe bewahrt. Ein Besuch in den Baumwollregionen bietet Einblick in die harten Arbeitsbedingungen auf den Feldern und die Stolz der Weber, die aus der lokalen Faser wahre Kunstwerke schaffen.",
+        "hu": "A Guinea-Bissau keleti részén található gabúi gyapotföldek az ország mezőgazdasági sokszínűségének tanúi a kesudió dominanciáján túl. Gabú szárazabb szavanna-éghajlata ideális feltételeket biztosít a gyapot (Gossypium) termesztéséhez, amely itt hagyományosan fontos szerepet játszik. A gyarmati időszakban a gyapot stratégiai exporttermék volt, és ma is fontos bevételi forrás marad a fula lakosság számos kisgazdasága számára. A betakarítás idején a végtelen fehér mezők a régió jellegzetes képét adják. A gyapottermelés szorosan kapcsolódik a kézműves szövéshez; a Gabú környéki falvakban ma is találni hagyományos szövőszékeket, amelyeken a híres „Panu di Pinti” készül – művészi szövetek, amelyeket ünnepi alkalmakkor viselnek. A gabúi gyapot a mezőgazdaság és a kézműves hagyományok találkozását jelképezi. A világpiaci olcsó importverseny ellenére a helyi szövetkezetek küzdenek e szektor fenntartásáért, amely nemcsak jövedelmet termel, hanem mélyen gyökerező kulturális örökséget is őriz. A gyapottermelő vidékek látogatása betekintést enged a mezőkön zajló kemény munkába és a szövők büszkeségébe, akik a helyi rostokból valódi műalkotásokat hoznak létre.",
+        "ro": "Câmpurile de bumbac din Gabú, în estul Guineei-Bissau, sunt o dovadă a diversității agricole a țării dincolo de dominația culturii de caju. Gabú, caracterizat printr-un climat de savană mai uscat, oferă condiții ideale pentru cultivarea bumbacului (Gossypium), care joacă aici un rol tradițional important. În perioada colonială, bumbacul a fost un produs de export strategic, iar astăzi rămâne o cultură comercială importantă pentru multe ferme mici ale populației Fula. Câmpurile albe vaste în timpul perioadei de recoltare reprezintă o imagine distinctivă a regiunii. Producția de bumbac este strâns legată de țesutul artizanal; în satele din jurul Gabú se mai găsesc încă războaie de țesut tradiționale unde se fabrică faimoasele 'Panu di Pinti' – țesături artistice purtate la ocazii ceremoniale. Bumbacul din Gabú reprezintă legătura dintre agricultura de subzistență și tradiția meșteșugărească. În ciuda concurenței importurilor ieftine pe piața globală, cooperativele locale luptă pentru menținerea acestui sector, care nu doar generează venituri, ci păstrează și o moștenire culturală profundă. O vizită în regiunile bumbacului oferă o perspectivă asupra condițiilor grele de muncă de pe câmpuri și asupra mândriei țesătorilor care creează adevărate opere de artă din fibrele locale.",
+        "en": "The cotton fields of Gabú in eastern Guinea-Bissau are a testament to the country’s agricultural diversity beyond the dominance of cashews. Gabú, characterized by a drier savanna climate, offers ideal conditions for growing cotton (Gossypium), which has traditionally played a vital role here. During the colonial era, cotton was a strategic export, and today it remains an important cash crop for many smallholder farms of the Fula people. The vast white fields during harvest time are a striking image of the region. Cotton production is closely linked to artisanal weaving; in the villages around Gabú, one still finds traditional looms where the famous 'Panu di Pinti' are made – elaborate fabrics worn on ceremonial occasions. Cotton from Gabú represents the connection between agriculture and craft tradition. Despite competition from cheap imports on the global market, local cooperatives struggle to maintain this sector, which not only generates income but also preserves a deeply rooted cultural heritage. A visit to the cotton regions offers insight into the hard working conditions in the fields and the pride of the weavers who create true works of art from the local fiber."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gabú ist das wichtigste Zentrum für den Baumwollanbau des Landes.",
+          "Die Baumwolle wird traditionell von Hand gepflückt, um die Qualität zu wahren.",
+          "Die Fula-Weber sind berühmt für ihre gestreiften Baumwollstoffe.",
+          "Der Anbau findet meist während der Regenzeit statt.",
+          "Baumwollsamenöl wird lokal manchmal als Brennstoff oder für Seife genutzt.",
+          "In Gabú gibt es kleine Entkörnungsanlagen für die erste Verarbeitung."
+        ],
+        "hu": [
+          "A gyapottermesztés Gabú keleti részén a fula nép hagyománya.",
+          "A Panu di Pinti nevű ünnepi viselet alapanyaga az itteni gyapot.",
+          "A fehér gyapotmezők látványa december-január környékén a legszebb.",
+          "A gyapotmagból kinyert olajat a falusiak szappanfőzésre is használják.",
+          "A helyi gyapotminőség kiemelkedő a nyugat-afrikai régióban.",
+          "A szövetkezetek próbálják népszerűsíteni a biotermesztést a gazdák körében."
+        ],
+        "ro": [
+          "Bumbacul din Gabú este baza industriei textile tradiționale din țară.",
+          "Recoltarea se face manual pentru a evita impuritățile din fibre.",
+          "Războaiele de țesut orizontale sunt specifice bărbaților Fula din Gabú.",
+          "Producția a fost afectată istoric de fluctuațiile prețului mondial.",
+          "Bumbacul este o alternativă economică vitală în zonele mai secetoase.",
+          "Satele din jurul Gabú sunt renumite pentru vopsirea naturală a firelor."
+        ],
+        "en": [
+          "Gabú produces the majority of Guinea-Bissau’s raw cotton.",
+          "The cotton sector is a major source of employment for rural youth in the east.",
+          "Traditional 'Panu di Pinti' cloths are highly valued in regional markets.",
+          "Rain-fed cotton cultivation is perfectly adapted to the local climate.",
+          "Cotton stalks are often reused by farmers as organic mulch.",
+          "Local weaving cooperatives promote the use of 100% natural fibers."
+        ]
+      }
+    },
+    {
+      "id": "bambadinca-bewaesserung-life-v2",
+      "descriptionAdvanced": {
+        "de": "Bambadinca, ein strategischer Knotenpunkt in Zentral-Guinea-Bissau, ist bekannt für seine Pionierarbeit bei Bewässerungsprojekten und nachhaltiger ländlicher Entwicklung. In einer Region, in der die Landwirtschaft stark vom saisonalen Regen abhängt, haben diese Projekte die Lebensqualität der Bevölkerung massiv verbessert. Durch den Einsatz moderner Bewässerungstechniken, oft kombiniert mit erneuerbaren Energien wie Solarkraft, ist es den Bauern in Bambadinca gelungen, die Anbauperioden zu verlängern und die Erträge von Reis und Gemüse zu steigern. Diese Projekte sind ein Vorbild für die gesamte Nation, da sie zeigen, wie technologische Innovationen und lokales Wissen Hand in Hand gehen können. Bambadinca verfügt zudem über eines der fortschrittlichsten ländlichen Stromnetze des Landes, das die Pumpanlagen für die Felder antreibt. Das grüne Mosaik der bewässerten Felder rund um die Stadt ist ein Beweis für die erfolgreiche Transformation einer einst dürregefährdeten Region in ein produktives Agrarzentrum. Die Gemeinschaft in Bambadinca ist stark in die Verwaltung dieser Ressourcen eingebunden, was die soziale Nachhaltigkeit der Projekte sichert. Für Besucher ist Bambadinca ein inspirierendes Beispiel dafür, wie gezielte Investitionen in die Wasser- und Energieinfrastruktur den Weg für wirtschaftliche Unabhängigkeit und Ernährungssicherheit in Westafrika ebnen können.",
+        "hu": "Bambadinca, Közép-Guinea-Bissau stratégiai csomópontja, az öntözési projektek és a fenntartható vidékfejlesztés úttörő munkájáról ismert. Egy olyan régióban, ahol a mezőgazdaság erősen függ a szezonális esőktől, ezek a projektek jelentősen javították a lakosság életminőségét. Modern öntözési technikák alkalmazásával – amelyeket gyakran megújuló energiával, például napenergiával kombinálnak – a bambadincai gazdáknak sikerült meghosszabbítaniuk a termesztési időszakokat, és növelniük a rizs és a zöldségfélék hozamát. Ezek a projektek példaként szolgálnak az egész nemzet számára, megmutatva, hogyan járhat kéz a kézben a technológiai innováció és a helyi tudás. Bambadinca rendelkezik az ország egyik legfejlettebb vidéki elektromos hálózatával is, amely a földek vízellátását biztosító szivattyúkat működteti. A város körüli öntözött területek zöld mozaikja a bizonyíték arra, hogy egy korábban aszálynak kitett régió sikeresen átalakult termelékeny mezőgazdasági központtá. A helyi közösség szorosan részt vesz ezen erőforrások kezelésében, ami garantálja a projektek társadalmi fenntarthatóságát. A látogatók számára Bambadinca inspiráló példa arra, hogyan nyithatnak utat a víz- és energia-infrastruktúrába történő célzott befektetések a gazdasági függetlenség és az élelmezésbiztonság felé Nyugat-Afrikában.",
+        "ro": "Bambadinca, un nod strategic în centrul Guineei-Bissau, este cunoscut pentru munca sa de pionierat în proiecte de irigații și dezvoltare rurală durabilă. Într-o regiune în care agricultura depinde puternic de ploile sezoniere, aceste proiecte au îmbunătățit masiv calitatea vieții populației. Prin utilizarea tehnicilor moderne de irigații, adesea combinate cu energii regenerabile precum energia solară, fermierii din Bambadinca au reușit să prelungească perioadele de cultivare și să crească randamentele de orez și legume. Aceste proiecte sunt un model pentru întreaga națiune, demonstrând cum inovațiile tehnologice și cunoștințele locale pot merge mână în mână. Bambadinca dispune, de asemenea, de una dintre cele mai avansate rețele electrice rurale din țară, care alimentează sistemele de pompare pentru câmpuri. Mozaicul verde al câmpurilor irigate din jurul orașului este o dovadă a transformării reușite a unei regiuni odinioară expuse secetei într-un centru agricol productiv. Comunitatea din Bambadinca este puternic implicată în gestionarea acestor resurse, ceea ce asigură sustenabilitatea socială a proiectelor. Pentru vizitatori, Bambadinca este un exemplu inspirator al modului în care investițiile direcționate în infrastructura de apă și energie pot deschide calea către independența economică și securitatea alimentară în Africa de Vest.",
+        "en": "Bambadinca, a strategic hub in central Guinea-Bissau, is renowned for its pioneering work in irrigation projects and sustainable rural development. In a region where agriculture heavily depends on seasonal rains, these projects have significantly improved the local population's quality of life. By implementing modern irrigation techniques, often combined with renewable energy like solar power, farmers in Bambadinca have managed to extend growing seasons and increase yields for rice and vegetables. These projects serve as a model for the entire nation, demonstrating how technological innovation and local knowledge can go hand in hand. Bambadinca also boasts one of the country's most advanced rural power grids, which drives the pumping stations for the fields. The green mosaic of irrigated fields surrounding the town is proof of the successful transformation of a once drought-prone region into a productive agricultural center. The community in Bambadinca is deeply involved in managing these resources, ensuring the social sustainability of the projects. For visitors, Bambadinca is an inspiring example of how targeted investments in water and energy infrastructure can pave the way for economic independence and food security in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bambadinca nutzt Solarenergie für den Betrieb von Bewässerungspumpen.",
+          "Die Projekte ermöglichen bis zu drei Ernten pro Jahr.",
+          "Es ist ein wichtiges Zentrum für die Diversifizierung der Landwirtschaft.",
+          "Das Bewässerungssystem wird gemeinschaftlich von den Bauern verwaltet.",
+          "Die Region produziert hochwertigen Reis und frisches Marktgemüse.",
+          "Bambadinca gilt als Vorzeigemodell für die ländliche Elektrifizierung."
+        ],
+        "hu": [
+          "Bambadinca az ország első napenergiával működő öntözőrendszerének otthona.",
+          "Az öntözés révén a száraz évszakban is termeszthetők zöldségek.",
+          "A projektben részt vevő gazdák képzést kapnak a modern agrotechnikáról.",
+          "A helyi közösség tulajdonában lévő szövetkezet kezeli az áramhálózatot.",
+          "A víztakarékos csepegtető öntözést is sikeresen bevezették a területen.",
+          "A város fontos logisztikai központ a Bissau és Gabú közötti úton."
+        ],
+        "ro": [
+          "Proiectul de irigații din Bambadinca a fost susținut de parteneri europeni.",
+          "Sistemul asigură securitatea alimentară pentru mii de familii locale.",
+          "Utilizarea energiei solare reduce costurile de producție pentru fermieri.",
+          "Bambadinca este un punct de referință pentru ingineria rurală africană.",
+          "Terenurile irigate sunt protejate împotriva eroziunii solului.",
+          "Comunitatea a dezvoltat un sistem eficient de plată a apei utilizate."
+        ],
+        "en": [
+          "Bambadinca’s irrigation model is powered by a community-owned solar hybrid plant.",
+          "It allows for the year-round production of high-value vegetable crops.",
+          "The project has significantly reduced rural-to-urban migration in the area.",
+          "Automated irrigation techniques help conserve precious water resources.",
+          "Bambadinca is a key supplier of onions and tomatoes to Bissau markets.",
+          "The success of the project is based on a strong cooperative structure."
+        ]
+      }
+    }
+  ]
+}

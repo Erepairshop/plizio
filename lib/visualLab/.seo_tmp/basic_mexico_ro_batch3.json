@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "Insula Janitzio, în Lacul Pátzcuaro din Michoacán, este faimoasă pentru statuia sa gigantică a lui José María Morelos și cultura indigenă.",
+      "facts": ["Lacul Pátzcuaro", "Statuia José María Morelos", "Cultura indigenă"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "Isla Espíritu Santo, în Baja California Sur, este o rezervație a biosferei UNESCO, cunoscută pentru natura sa virgină și coloniile de lei de mare.",
+      "facts": ["Rezervație a biosferei UNESCO", "Coloniile de lei de mare", "Baja California"]
+    },
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Isla Tiburón, în Sonora, este cea mai mare insulă din Mexic și o zonă importantă de conservare pentru populația indigenă Seri.",
+      "facts": ["Cea mai mare insulă din Mexic", "Zonă de conservare", "Populația Seri"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "Insulele Marietas, în Nayarit, sunt un parc național faimos pentru plaja ascunsă 'Playa del Amor' și fauna marină bogată.",
+      "facts": ["Parc național", "Playa del Amor", "Fauna marină bogată"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Isla Contoy, în Quintana Roo, este o rezervație naturală nelocuită și un loc important de cuibărit pentru păsările marine.",
+      "facts": ["Rezervație naturală nelocuită", "Loc de cuibărit", "Quintana Roo"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "Câmpurile de agave din Tequila, Jalisco, sunt un sit al Patrimoniului Mondial UNESCO și sursa faimoasei tequila mexicane.",
+      "facts": ["Sit UNESCO", "Producția de tequila", "Jalisco"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "Valle de Guadalupe, în Baja California, este cea mai importantă regiune viticolă din Mexic, renumită pentru vinurile sale premiate.",
+      "facts": ["Regiune viticolă", "Baja California", "Vinuri premiate"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "Fermele de cafea din Veracruz sunt faimoase pentru cafeaua lor de înaltă calitate și peisajele pitorești.",
+      "facts": ["Cultivarea cafelei", "Veracruz", "Peisaje pitorești"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Fincas de cafea din Chiapas produc unele dintre cele mai bune cafele din Mexic, într-o regiune muntoasă și ploioasă.",
+      "facts": ["Cafea de înaltă calitate", "Chiapas", "Regiune muntoasă"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Câmpurile de agave Mezcal din Oaxaca sunt inima producției de Mezcal, o băutură spirtoasă tradițională mexicană.",
+      "facts": ["Producția de Mezcal", "Oaxaca", "Băutură spirtoasă tradițională"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Livezile de avocado din Michoacán fac din Mexic cel mai mare producător de avocado din lume.",
+      "facts": ["Producția de avocado", "Michoacán", "Cel mai mare producător"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Livezile de mango din Sinaloa sunt cunoscute pentru recoltele lor bogate și calitatea superioară a mangourilor exportate.",
+      "facts": ["Producția de mango", "Sinaloa", "Mango de calitate"]
+    }
+  ]
+}

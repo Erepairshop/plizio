@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sebkha-tindouf-lake-nature-v2",
+      "description": "Sebkha Tindouf is an expansive seasonal salt lake located on the border region, characterized by its arid, flat salt pans.",
+      "facts": ["Seasonal salt lake", "Arid landscape", "Located near the border", "Rare water accumulation"]
+    },
+    {
+      "id": "sebha-boughaba-lake-nature-v2",
+      "description": "Sidi Boughaba is a coastal freshwater lagoon and a significant Ramsar site, providing a refuge for migratory birds.",
+      "facts": ["Coastal freshwater lagoon", "Ramsar protected site", "Migratory bird sanctuary", "Biodiverse ecosystem"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "Bin el Ouidane is a large artificial reservoir in the Middle Atlas, known for its scenic views and water activities.",
+      "facts": ["Large dam reservoir", "Middle Atlas location", "Scenic mountain setting", "Water sports destination"]
+    },
+    {
+      "id": "oued-guir-nature-v2",
+      "description": "The Oued Guir is an important river system in southeastern Morocco, flowing through arid landscapes towards the Sahara.",
+      "facts": ["Southeastern river system", "Desert waterway", "Feeds oasis agriculture", "Seasonal flow variations"]
+    },
+    {
+      "id": "oued-noun-nature-v2",
+      "description": "The Oued Noun river flows through southern Morocco, shaping the landscape and supporting local oases and vegetation.",
+      "facts": ["Southern Moroccan river", "Supports oasis life", "Arid climate setting", "Regional ecosystem feature"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "The Oued Ed-Dahab area is a unique coastal landscape in southern Morocco, dominated by desert and Atlantic ocean influences.",
+      "facts": ["Southern coastal landscape", "Desert-ocean interface", "Unique biodiverse area", "Extensive bay shoreline"]
+    },
+    {
+      "id": "oued-massa-nature-v2",
+      "description": "The Oued Massa river and its national park create a protected wetland sanctuary on the Atlantic coast, rich in birdlife.",
+      "facts": ["Protected national park", "Atlantic coastal wetland", "Birdwatching site", "Diverse wildlife habitat"]
+    },
+    {
+      "id": "cap-ghir-nature-v2",
+      "description": "Cap Ghir is a prominent headland on the Atlantic coast, known for its rugged cliffs and sweeping ocean views.",
+      "facts": ["Atlantic coastal headland", "Rugged cliff scenery", "Key maritime landmark", "Ocean breeze site"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "The Oued Nfiss is a river in the High Atlas region, essential for water supply and irrigation in the Marrakech area.",
+      "facts": ["High Atlas mountain river", "Supports valley irrigation", "Feeds Lalla Takerkoust dam", "Mountainous watershed"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "The Tansift river estuary is a coastal area where the river meets the Atlantic, creating a diverse wetland habitat.",
+      "facts": ["Atlantic river estuary", "Coastal wetland habitat", "Migratory bird site", "Dynamic water environment"]
+    },
+    {
+      "id": "cap-spartel-nature-v2",
+      "description": "Cap Spartel is a headland near Tangier that marks the point where the Atlantic Ocean meets the Mediterranean Sea.",
+      "facts": ["Ocean-sea convergence point", "Famous historic lighthouse", "Near Tangier", "Panoramic coastal views"]
+    },
+    {
+      "id": "oued-noun-valley-relief-v2",
+      "description": "The Oued Noun valley is a distinct geographical feature in southern Morocco, characterized by its arid terrain and historic oases.",
+      "facts": ["Arid river valley", "Southern Moroccan relief", "Historic trade route", "Desert landscape feature"]
+    },
+    {
+      "id": "figuig-oasis-relief-v2",
+      "description": "Figuig is an isolated oasis town surrounded by rugged mountain ranges in the remote eastern reaches of Morocco.",
+      "facts": ["Isolated desert oasis", "Mountainous desert setting", "Ancient ksar architecture", "Remote eastern location"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "The hills surrounding the holy town of Moulay Idriss offer beautiful vistas and a unique landscape near the ruins of Volubilis.",
+      "facts": ["Rolling hilly terrain", "Near Volubilis", "Sacred pilgrimage site", "Panoramic mountain views"]
+    },
+    {
+      "id": "oued-tensift-valley-relief-v2",
+      "description": "The Tensift valley is a broad basin extending from the High Atlas towards the Atlantic, supporting intensive agriculture.",
+      "facts": ["Broad river valley", "Extends from High Atlas", "Fertile agricultural basin", "Major water artery"]
+    },
+    {
+      "id": "high-plateaus-relief-v2",
+      "description": "The High Plateaus are a vast, elevated semi-arid region in eastern Morocco, forming part of the inland steppe landscape.",
+      "facts": ["Elevated semi-arid region", "Eastern Morocco plateau", "Steppe-like landscape", "Spacious open terrain"]
+    }
+  ]
+}

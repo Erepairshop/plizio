@@ -1,0 +1,147 @@
+{
+  "lang": "en",
+  "country": "Uzbekistan",
+  "files": [
+    "lib/visualLab/data/poiExtraUzbekistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fergana-cities-v2",
+      "description": "Fergana is a city in eastern Uzbekistan, serving as the administrative center of Fergana Region. It is a major industrial hub in the Fergana Valley.",
+      "facts": [
+        "Founded in 1876 as New Margilan.",
+        "Known for oil refining and textile industries.",
+        "Located in the fertile Fergana Valley."
+      ]
+    },
+    {
+      "id": "shahrisabz-cities-v2",
+      "description": "Shahrisabz is a city in southern Uzbekistan, famous as the birthplace of the 14th-century Turco-Mongol conqueror Timur. It is a UNESCO World Heritage Site.",
+      "facts": [
+        "Birthplace of Amir Timur.",
+        "Historic Center is a UNESCO site.",
+        "Home to Ak-Saray Palace ruins."
+      ]
+    },
+    {
+      "id": "zarafshan-cities-v2",
+      "description": "Zarafshan is a city in the Navoiy Region of Uzbekistan, known for its gold mining industry. It is often referred to as the 'Gold Capital of Uzbekistan'.",
+      "facts": [
+        "Built in the 1960s for gold mining.",
+        "Located in the Kyzylkum Desert.",
+        "Produces a significant amount of gold."
+      ]
+    },
+    {
+      "id": "yangiyul-cities-v2",
+      "description": "Yangiyul is a city in the Tashkent Region of Uzbekistan. It is an industrial center with a focus on food processing and construction materials.",
+      "facts": [
+        "Located near the capital Tashkent.",
+        "Major railway junction.",
+        "Known for its canning factories."
+      ]
+    },
+    {
+      "id": "khodjeyli-cities-v2",
+      "description": "Khodjeyli is a city in the Republic of Karakalpakstan, Uzbekistan, situated on the Amu Darya river. It is an ancient settlement with historical significance.",
+      "facts": [
+        "Oldest city in Karakalpakstan.",
+        "Located on the Amu Darya river.",
+        "Served as a trade center in ancient times."
+      ]
+    },
+    {
+      "id": "chor-minor-bukhara-history-v2",
+      "description": "Chor Minor is a historic madrasah in the city of Bukhara, Uzbekistan, famous for its four minarets. It was built in the early 19th century.",
+      "facts": [
+        "Means 'Four Minarets' in Tajik.",
+        "Part of the historic center of Bukhara.",
+        "Built by Caliph Niyazkul."
+      ]
+    },
+    {
+      "id": "kok-gumbaz-mosque-shahrisabz-history-v2",
+      "description": "The Kok Gumbaz Mosque is a prominent historical monument in Shahrisabz, Uzbekistan, part of the Dorut Tilovat Complex. It features a large blue dome.",
+      "facts": [
+        "Built in 1437 by Ulugh Beg.",
+        "Features a distinctive blue dome.",
+        "Main Friday mosque of Shahrisabz."
+      ]
+    },
+    {
+      "id": "minor-mosque-landmarks-v2",
+      "description": "The Minor Mosque is a modern mosque in Tashkent, Uzbekistan, known for its white marble and intricate decorations. It opened in 2014.",
+      "facts": [
+        "Modern mosque built in 2014.",
+        "Made of white marble.",
+        "Features traditional Islamic ornaments."
+      ]
+    },
+    {
+      "id": "sitorai-mokhi-khosa-landmarks-v2",
+      "description": "The Sitorai Mokhi-Khosa Palace is the former summer residence of the last Emir of Bukhara, located near Bukhara, Uzbekistan. It blends Eastern and European architectural styles.",
+      "facts": [
+        "Summer residence of Bukhara's Emirs.",
+        "Combines oriental and European design.",
+        "Built in the early 20th century."
+      ]
+    },
+    {
+      "id": "siyob-bazaar-landmarks-v2",
+      "description": "Siyob Bazaar is the largest and oldest market in Samarkand, Uzbekistan, located adjacent to the Bibi-Khanym Mosque. It is a vibrant central point for local trade.",
+      "facts": [
+        "Largest bazaar in Samarkand.",
+        "Sells fresh produce, spices, and crafts.",
+        "Located near Bibi-Khanym Mosque."
+      ]
+    },
+    {
+      "id": "afrosiyob-museum-landmarks-v2",
+      "description": "The Afrosiyob Museum of Samarkand is dedicated to the history of the ancient city of Afrosiyob, the predecessor of modern Samarkand. It houses artifacts from various archaeological excavations.",
+      "facts": [
+        "Focuses on ancient Afrosiyob.",
+        "Contains archaeological finds.",
+        "Opened in 1970."
+      ]
+    },
+    {
+      "id": "kalta-minor-landmarks-v2",
+      "description": "Kalta Minor is a distinctive turquoise-tiled minaret in Khiva, Uzbekistan, notable for its unfinished height. It was intended to be the tallest minaret in Central Asia.",
+      "facts": [
+        "Means 'Short Minaret'.",
+        "Famous for its blue and green tiles.",
+        "Construction stopped in 1855."
+      ]
+    },
+    {
+      "id": "tash-khauli-palace-landmarks-v2",
+      "description": "Tash-Hauli Palace is a historical palace complex in Khiva, Uzbekistan, built in the 19th century as the main residence of the Khiva Khans. It is known for its exquisite courtyards and intricate tilework.",
+      "facts": [
+        "Built by Allah Kuli Khan.",
+        "Features several courtyards.",
+        "Richly decorated with majolica tiles."
+      ]
+    },
+    {
+      "id": "savitsky-art-museum-landmarks-v2",
+      "description": "The Savitsky Art Museum, also known as the State Museum of Art of Karakalpakstan, is located in Nukus, Uzbekistan. It houses a unique collection of Russian avant-garde art.",
+      "facts": [
+        "Located in Nukus, Karakalpakstan.",
+        "Houses a major Russian avant-garde collection.",
+        "Founded by Igor Savitsky."
+      ]
+    },
+    {
+      "id": "kyzylkum-desert-relief-v2",
+      "description": "The Kyzylkum Desert is the 15th largest desert in the world, spanning parts of Uzbekistan, Kazakhstan, and Turkmenistan. Its name means 'Red Sands' in Turkic.",
+      "facts": [
+        "15th largest desert globally.",
+        "Name means 'Red Sands'.",
+        "Rich in gold deposits."
+      ]
+    }
+  ]
+}

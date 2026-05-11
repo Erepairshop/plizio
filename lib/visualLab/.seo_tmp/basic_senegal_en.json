@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-autonome-de-dakar-economic-v2",
+      "description": "Major maritime gateway for West Africa, facilitating trade and transit to neighboring countries. It serves as a vital logistics hub for the Senegalese economy.",
+      "facts": ["Located in Dakar", "Deep-water port", "Key transit node"]
+    },
+    {
+      "id": "port-kaolack-economic-v2",
+      "description": "Important river port on the Saloum River, primarily used for the transport of agricultural products like groundnuts. It plays a significant role in regional trade within central Senegal.",
+      "facts": ["River-based port", "Saloum River location", "Agricultural hub"]
+    },
+    {
+      "id": "bokhol-solar-plant-economic-v2",
+      "description": "One of the largest photovoltaic power plants in West Africa, contributing substantially to the national grid. It promotes renewable energy development in the Saint-Louis region.",
+      "facts": ["Photovoltaic facility", "Located near Bokhol", "Renewable energy source"]
+    },
+    {
+      "id": "sn-dk-mamelles-lighthouse-history-v2",
+      "description": "Built in 1864, this historic lighthouse stands on the Mamelles hills and has guided ships towards Dakar for over a century. It remains a functional navigation aid and a prominent landmark.",
+      "facts": ["Built 1864", "Located on Mamelles", "Historic beacon"]
+    },
+    {
+      "id": "sn-sl-faidherbe-bridge-history-v2",
+      "description": "A historic metal truss bridge connecting Saint-Louis island to the mainland, designed by the Eiffel company. It is a symbol of the city's colonial heritage and engineering history.",
+      "facts": ["Completed 1897", "Connects to mainland", "Eiffel design"]
+    },
+    {
+      "id": "sn-abdoulaye-wade-stadium-landmarks-v2",
+      "description": "A modern multi-purpose stadium located in Diamniadio, hosting major international sporting events. It is a premier venue for football and national celebrations.",
+      "facts": ["Opened 2022", "Capacity 50,000", "Diamniadio location"]
+    },
+    {
+      "id": "sn-leopold-sedar-senghor-stadium-landmarks-v2",
+      "description": "A well-known multi-purpose stadium in Dakar named after the country's first president. It has been a central venue for Senegalese sports and large public gatherings for decades.",
+      "facts": ["Opened 1985", "Named after Senghor", "Dakar landmark"]
+    },
+    {
+      "id": "sn-national-theatre-daniel-sorano-landmarks-v2",
+      "description": "The country's main performing arts venue, dedicated to promoting Senegalese culture and theater. It hosts prestigious music, dance, and drama performances.",
+      "facts": ["Opened 1965", "Central Dakar venue", "Performing arts hub"]
+    },
+    {
+      "id": "sn-museum-black-civilisations-landmarks-v2",
+      "description": "A world-class museum in Dakar showcasing the history, art, and contributions of African civilizations. It features diverse exhibitions highlighting regional heritage.",
+      "facts": ["Opened 2018", "Modern architecture", "Cultural landmark"]
+    },
+    {
+      "id": "sn-dakar-grand-theatre-landmarks-v2",
+      "description": "A contemporary cultural landmark in Dakar, designed for large-scale concerts, theater plays, and national conferences. It reflects the city's vibrant modern art scene.",
+      "facts": ["Capacity 1,800", "Opened 2011", "Cultural venue"]
+    },
+    {
+      "id": "sn-palais-de-la-republique-landmarks-v2",
+      "description": "The official residence and workplace of the President of Senegal, featuring stunning colonial architecture. It is an iconic building located in the Plateau district.",
+      "facts": ["Completed 1907", "Colonial design", "Presidential palace"]
+    },
+    {
+      "id": "sn-bceao-tower-landmarks-v2",
+      "description": "The headquarters of the Central Bank of West African States, an imposing skyscraper in Dakar. It is a significant financial center and a landmark of the city's business district.",
+      "facts": ["Tallest building in Dakar", "Financial hub", "Modern architecture"]
+    },
+    {
+      "id": "sn-mosquee-divinite-landmarks-v2",
+      "description": "A unique mosque known for its distinctive architecture and location overlooking the Atlantic Ocean. It is a center of spiritual significance in Dakar.",
+      "facts": ["Coastal location", "Unique architecture", "Spiritual center"]
+    }
+  ]
+}

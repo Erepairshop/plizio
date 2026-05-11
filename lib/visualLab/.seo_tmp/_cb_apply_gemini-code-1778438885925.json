@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chiatura-manganese-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Manganmine von Chiatura im Westen Georgiens ist eine der weltweit bedeutendsten Lagerstätten für hochwertiges Manganerz. Geografisch liegt das Abbaugebiet in den zerklüfteten Schluchten des Qwirila-Flusses, wo die Flöze in den steilen Hängen des Kalksteinplateaus eingebettet sind. Historisch begann der industrielle Abbau im späten 19. Jahrhundert unter dem Einfluss deutscher Investoren und entwickelte sich in der Sowjetära zu einem gigantischen Industriekomplex. Ein technisches Markenzeichen von Chiatura ist das weitverzweigte System von Seilbahnen, das ursprünglich in den 1950er Jahren errichtet wurde, um Arbeiter und Erz effizient über die tiefen Schluchten zu transportieren. Ökonomisch ist die Mine das Rückgrat der Region Imeretien; das geförderte Erz wird primär im Ferrolegierungswerk Sestaponi weiterverarbeitet und ist ein entscheidendes Exportgut für die georgische Stahlindustrie. Trotz der Herausforderungen durch veraltete Infrastruktur und schwierige Arbeitsbedingungen wurden in den letzten Jahren Modernisierungsprozesse eingeleitet, um die Effizienz zu steigern und Umweltauflagen zu erfüllen. Die Mine prägt nicht nur die lokale Wirtschaft, sondern auch das einzigartige Stadtbild von Chiatura, das als Relikt sowjetischer Industrieplanung gilt.",
+        "hu": "A csiturai mangánbánya Nyugat-Grúziában a világ egyik legjelentősebb kiváló minőségű mangánérc-lelőhelye. Földrajzilag a bányászati terület a Kvirila-folyó szaggatott szurdokaiban található, ahol az érctérek a mészkőfennsík meredek lejtőibe ágyazódnak. Történelmileg az ipari kitermelés a 19. század végén kezdődött német befektetők hatására, majd a szovjet korszakban óriási ipari komplexummá fejlődött. Csitura technikai védjegye a kiterjedt kötélpálya-rendszer, amelyet eredetileg az 1950-es években építettek, hogy a munkásokat és az ércet hatékonyan szállítsák a mély szurdokokon keresztül. Gazdaságilag a bánya Imereti régió gerince; a kitermelt ércet elsősorban a zestafoni vasötvözet-gyárban dolgozzák fel, és a grúz acélipar döntő fontosságú exportterméke. Az elöregedett infrastruktúra és a nehéz munkakörülmények okozta kihívások ellenére az utóbbi években korszerűsítési folyamatok kezdődtek a hatékonyság növelése és a környezetvédelmi előírások betartása érdekében. A bánya nemcsak a helyi gazdaságot határozza meg, hanem Csitura egyedülálló városképét is, amely a szovjet ipari tervezés mementójaként szolgál.",
+        "ro": "Mina de mangan din Chiatura, situată în vestul Georgiei, este unul dintre cele mai importante zăcăminte de minereu de mangan de înaltă calitate din lume. Geografic, zona de extracție se află în canioanele abrupte ale râului Qvirila, unde straturile de minereu sunt încastrate în versanții platoului calcaros. Istoric, exploatarea industrială a început la sfârșitul secolului al XIX-lea sub influența investitorilor germani și s-a dezvoltat într-un complex industrial gigantic în epoca sovietică. O emblemă tehnică a orașului Chiatura este rețeaua extinsă de telecabine, construită inițial în anii 1950 pentru a transporta eficient muncitorii și minereul peste prăpastiile adânci. Economic, mina este coloana vertebrală a regiunii Imereti; minereul extras este procesat în principal la uzina de feroaliaje din Zestafoni și reprezintă un produs de export crucial pentru industria siderurgică georgiană. În ciuda provocărilor legate de infrastructura învechită și condițiile dificile de muncă, în ultimii ani au fost inițiate procese de modernizare pentru a crește eficiența și a respecta reglementările de mediu. Mina modelează nu doar economia locală, ci și peisajul urban unic din Chiatura, considerat o relicvă a planificării industriale sovietice.",
+        "en": "The Chiatura manganese mine in western Georgia is one of the world's most significant deposits of high-grade manganese ore. Geographically, the mining area is located within the rugged gorges of the Qvirila River, where the ore seams are embedded in the steep slopes of a limestone plateau. Historically, industrial mining began in the late 19th century under the influence of German investors and evolved into a massive industrial complex during the Soviet era. A technical hallmark of Chiatura is its extensive network of cable cars, originally constructed in the 1950s to efficiently transport workers and ore across the deep ravines. Economically, the mine is the backbone of the Imereti region; the extracted ore is primarily processed at the Zestafoni ferroalloy plant and is a vital export for the Georgian steel industry. Despite challenges from aging infrastructure and difficult working conditions, modernization efforts have been initiated in recent years to increase efficiency and meet environmental standards. The mine shapes not only the local economy but also the unique cityscape of Chiatura, which remains a prominent relic of Soviet industrial planning."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der größten Manganproduzenten der Welt seit 1879.",
+          "Berühmt für das weltweit erste flächendeckende Passagier-Seilbahnnetz.",
+          "Förderkapazität beträgt mehrere hunderttausend Tonnen Erz pro Jahr.",
+          "Gelegen in einem tief eingeschnittenen Flusstal des Kaukasusvorlandes.",
+          "Hauptlieferant für das georgische Ferrolegierungswerk in Sestaponi.",
+          "Umfasst sowohl Untertagebau als auch Tagebau-Anlagen."
+        ],
+        "hu": [
+          "1879 óta a világ egyik legnagyobb mangántermelője.",
+          "Híres a világ első kiterjedt személyszállító kötélpálya-hálózatáról.",
+          "Az éves kitermelési kapacitás eléri a több százezer tonnát.",
+          "A Kaukázus előterének mély folyóvölgyében helyezkedik el.",
+          "A zestafoni vasötvözet-gyár legfőbb nyersanyagforrása.",
+          "Földalatti és külszíni bányászati egységeket is magában foglal."
+        ],
+        "ro": [
+          "Unul dintre marii producători mondiali de mangan încă din 1879.",
+          "Dispune de prima rețea urbană de telecabine pentru transportul muncitorilor.",
+          "Capacitate anuală de extracție de ordinul sutelor de mii de tone.",
+          "Situată strategic în canionul râului Qvirila din Imereti.",
+          "Sursă primară de materie primă pentru combinatul siderurgic Zestafoni.",
+          "Include unități de exploatare atât în subteran, cât și la suprafață."
+        ],
+        "en": [
+          "One of the world's leading manganese producers since 1879.",
+          "Famous for the world's first comprehensive passenger cable car system.",
+          "Annual production capacity reaches several hundred thousand tons of ore.",
+          "Located in the deep river gorges of the Caucasian foothills.",
+          "Primary supplier for the Zestafoni ferroalloy processing plant.",
+          "Features a combination of underground and open-pit mining operations."
+        ]
+      }
+    },
+    {
+      "id": "rustavi-metallurgical-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Hüttenwerk Rustavi ist das größte Industrieunternehmen Georgiens im Bereich der Schwerindustrie und liegt südöstlich der Hauptstadt Tiflis. Geografisch erstreckt sich das riesige Werksgelände in der trockenen Steppenlandschaft entlang des Kura-Flusses, was die Ansiedlung einer kompletten Industriestadt ab 1948 ermöglichte. Historisch wurde das Werk als Prestigeobjekt der sowjetischen Industrialisierung errichtet, um den gesamten Kaukasus mit Stahl und Rohren zu versorgen. Ökonomisch ist Rustavi heute ein privates Unternehmen, das sich auf die Produktion von nahtlosen Rohren, Betonstahl und verschiedenen Stahllegierungen spezialisiert hat. Technisch gesehen verfügt das Werk über einen kompletten Produktionszyklus, von der Stahlschmelze bis zum Walzwerk, und exportiert seine Produkte in über 50 Länder weltweit. Ökologisch stellt der Betrieb aufgrund seiner Größe eine Herausforderung für die Luftqualität der Region dar, weshalb massiv in moderne Filtersysteme investiert wurde. Das Werk ist nicht nur ein Symbol für die georgische Industriegeschichte, sondern auch der wichtigste Arbeitgeber der Stadt Rustavi, deren soziale Struktur bis heute untrennbar mit dem Schicksal des Hüttenwerks verbunden ist.",
+        "hu": "A Rusztavi Kohászati Üzem Grúzia legnagyobb nehézipari vállalata, amely Tbiliszitől délkeletre található. Földrajzilag az óriási gyárterület a Kura-folyó menti száraz sztyeppei tájon terül el, ami 1948-tól lehetővé tette egy teljes iparváros betelepítését. Történelmileg az üzemet a szovjet iparosítás presztízsobjektumaként építették, hogy az egész Kaukázust ellássa acéllal és csövekkel. Gazdaságilag Rusztavi ma egy magánvállalat, amely varrat nélküli csövek, betonacél és különböző acélötvözetek gyártására szakosodott. Technikai szempontból az üzem teljes gyártási ciklussal rendelkezik az acélolvasztástól a hengerlésig, és termékeit a világ több mint 50 országába exportálja. Ökológiailag az üzem mérete miatt kihívást jelent a régió levegőminősége szempontjából, ezért jelentős összegeket fektettek modern szűrőrendszerekbe. A gyár nemcsak a grúz ipartörténet szimbóluma, hanem Rusztavi városának legfontosabb munkaadója is, amelynek társadalmi szerkezete a mai napig elválaszthatatlanul kötődik a kohászati üzem sorsához.",
+        "ro": "Combinatul Metalurgic Rustavi este cea mai mare întreprindere de industrie grea din Georgia, situată la sud-est de capitala Tbilisi. Geografic, situl industrial vast se întinde în stepa aridă de-a lungul râului Kura, locație care a permis fondarea unui întreg oraș industrial începând cu anul 1948. Istoric, uzina a fost construită ca un proiect de prestigiu al industrializării sovietice pentru a furniza oțel și tubulatură întregii regiuni a Caucazului. Economic, Rustavi este astăzi o companie privată specializată în producția de țevi fără sudură, armături pentru construcții și diverse aliaje de oțel. Din punct de vedere tehnic, combinatul dispune de un ciclu complet de producție, de la topirea oțelului până la laminare, exportând produsele sale în peste 50 de țări. Ecologic, funcționarea sa reprezintă o provocare pentru calitatea aerului în regiune, motiv pentru care s-au făcut investiții majore în sisteme de filtrare moderne. Uzina nu este doar un simbol al istoriei industriale georgiene, ci și principalul angajator al orașului Rustavi, a cărui structură socială rămâne strâns legată de soarta combinatului.",
+        "en": "The Rustavi Metallurgical Plant is the largest heavy industry enterprise in Georgia, located southeast of the capital, Tbilisi. Geographically, the massive industrial site stretches across the arid steppe landscape along the Kura (Mtkvari) River, a location that facilitated the establishment of an entire industrial city starting in 1948. Historically, the plant was built as a centerpiece of Soviet industrialization to supply the entire Caucasus region with steel and pipes. Economically, Rustavi is now a private company specializing in the production of seamless pipes, rebar, and various steel alloys. Technically, the plant maintains a full production cycle, from steel smelting to rolling, and exports its products to over 50 countries worldwide. Ecologically, due to its scale, the plant's operations present challenges for regional air quality, leading to significant investments in modern filtration systems. The factory is not only a symbol of Georgian industrial history but also the primary employer for the city of Rustavi, whose social fabric remains inextricably linked to the metallurgical plant's fortunes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im Jahr 1948 als größte Stahlhütte der Kaukasus-Region.",
+          "Spezialisiert auf die Herstellung von hochwertigen nahtlosen Rohren.",
+          "Exportiert Stahlprodukte in über 50 Länder auf drei Kontinenten.",
+          "Eines der wichtigsten privaten Industrieunternehmen Georgiens.",
+          "Verwendet moderne Elektrolichtbogenöfen zur Stahlerzeugung.",
+          "Befindet sich an der strategischen Eisenbahnstrecke Richtung Aserbaidschan."
+        ],
+        "hu": [
+          "1948-ban alapították a Kaukázus legnagyobb acélműveként.",
+          "Kiváló minőségű varrat nélküli csövek gyártására szakosodott.",
+          "Acéltermékeit három kontinens több mint 50 országába exportálja.",
+          "Grúzia egyik legfontosabb magántulajdonban lévő iparvállalata.",
+          "Modern elektromos ívkemencéket használ az acélgyártáshoz.",
+          "Az Azerbajdzsán felé vezető stratégiai vasútvonal mentén fekszik."
+        ],
+        "ro": [
+          "Înființat în 1948 ca pilon principal al siderurgiei caucaziene.",
+          "Lider regional în producția de țevi din oțel fără sudură.",
+          "Peste 50 de piețe internaționale de desfacere pentru produsele sale.",
+          "Companie privată cu un impact major asupra PIB-ului Georgiei.",
+          "Tehnologie bazată pe cuptoare cu arc electric pentru eficiență.",
+          "Situat strategic pe coridorul feroviar care leagă Tbilisi de Baku."
+        ],
+        "en": [
+          "Established in 1948 as the largest steelworks in the Caucasus.",
+          "Specializes in the production of high-quality seamless steel pipes.",
+          "Exports steel products to over 50 countries across three continents.",
+          "One of Georgia's most significant private industrial employers.",
+          "Utilizes modern electric arc furnace technology for steel production.",
+          "Strategically located on the railway line connecting Georgia to Azerbaijan."
+        ]
+      }
+    },
+    {
+      "id": "zestafoni-ferroalloy-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Ferrolegierungswerk Sestaponi ist ein Eckpfeiler der georgischen Schwerindustrie und liegt in der Region Imeretien. Geografisch befindet sich das Werk an einem strategischen Eisenbahnknotenpunkt, der das Mangan-Abbaugebiet Chiatura mit den Exporthäfen am Schwarzen Meer verbindet. Historisch wurde das Werk 1933 in Betrieb genommen, um das reiche Erzvorkommen der Region vor Ort zu veredeln. Ökonomisch ist das Werk heute der größte Produzent von Siliziummangan im Land und gehört zu den wichtigsten Devisenbringern Georgiens. Technisch gesehen basiert die Produktion auf Hochleistungs-Elektroöfen, in denen Manganerz zu Ferrolegierungen geschmolzen wird, die für die globale Stahlherstellung unverzichtbar sind. Ein Großteil der Produktion wird nach Nordamerika und Europa exportiert. Ökologisch ist das Werk aufgrund der hohen Emissionen in der Kritik, was zu verstärkten Investitionen in Umwelttechnologien und Staubabscheider geführt hat. Sestaponi als Industriestandort verdankt seine gesamte moderne Entwicklung diesem Werk, das tausende Arbeitsplätze sichert und Georgien als wichtigen Akteur auf dem Weltmarkt für Metalllegierungen positioniert.",
+        "hu": "A zestafoni vasötvözet-gyár a grúz nehézipar sarokköve, amely Imereti régióban található. Földrajzilag az üzem egy stratégiai vasúti csomópontnál fekszik, amely összeköti a csiturai mangánbányát a fekete-tengeri exportkikötőkkel. Történelmileg az üzemet 1933-ban helyezték üzembe, hogy a régió gazdag érckészletét helyben nemesítsék. Gazdaságilag a gyár ma az ország legnagyobb szilícium-mangán termelője, és Grúzia egyik legfontosabb devizabevételi forrása. Technikai szempontból a termelés nagy teljesítményű elektromos kemencékre épül, amelyekben a mangánércet a globális acélgyártáshoz nélkülözhetetlen vasötvözetekké olvasztják. A termelés nagy részét Észak-Amerikába és Európába exportálják. Ökológiailag az üzem a magas károsanyag-kibocsátás miatt kritikák kereszttüzében áll, ami fokozott környezetvédelmi beruházásokhoz és porszűrők beépítéséhez vezetett. Zestafoni mint ipari központ teljes modern fejlődését ennek a gyárnak köszönheti, amely több ezer munkahelyet biztosít, és Grúziát a fémötvözetek világpiacának fontos szereplőjévé teszi.",
+        "ro": "Uzina de Feroaliaje din Zestafoni este un pilon al industriei grele din Georgia, situată în regiunea Imereti. Geografic, uzina se află la un nod feroviar strategic care leagă zona minieră Chiatura de porturile de la Marea Neagră. Istoric, uzina a fost pusă în funcțiune în 1933 pentru a valorifica local bogatele zăcăminte de mangan ale regiunii. Economic, uzina este astăzi cel mai mare producător de silicomangan din țară și unul dintre principalii generatori de valută pentru Georgia. Din punct de vedere tehnic, producția se bazează pe cuptoare electrice de mare capacitate în care minereul de mangan este topit pentru a produce feroaliaje indispensabile industriei siderurgice globale. O mare parte a producției este exportată în America de Nord și Europa. Din punct de vedere ecologic, uzina este monitorizată pentru emisiile ridicate, ceea ce a dus la investiții sporite în tehnologii de mediu și filtre de praf. Dezvoltarea modernă a orașului Zestafoni ca centru industrial se datorează integral acestei uzine, care asigură mii de locuri de muncă și poziționează Georgia ca un actor important pe piața mondială a aliajelor metalice.",
+        "en": "The Zestafoni Ferroalloy Plant is a cornerstone of Georgia's heavy industry, located in the Imereti region. Geographically, the plant is situated at a strategic railway junction connecting the Chiatura manganese mining area with export ports on the Black Sea. Historically, the plant commenced operations in 1933 to refine the region's rich ore deposits locally. Economically, the factory is now the country's largest producer of silicomanganese and ranks among Georgia's most significant foreign exchange earners. Technically, production relies on high-capacity electric furnaces where manganese ore is smelted into ferroalloys essential for global steel manufacturing. A large portion of its output is exported to North America and Europe. Ecologically, the plant has faced scrutiny due to high emissions, leading to increased investments in environmental technologies and dust collectors. As an industrial hub, Zestafoni owes its modern development to this plant, which secures thousands of jobs and positions Georgia as a major player in the global metal alloys market."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes Ferrolegierungswerk im Kaukasus, eröffnet 1933.",
+          "Hauptprodukt ist Siliziummangan für die internationale Stahlindustrie.",
+          "Bezieht Manganerz direkt per Schiene aus dem nahen Chiatura.",
+          "Gehört zu den Top 10 Exportunternehmen Georgiens.",
+          "Verwendet spezialisierte Lichtbogenöfen für den Schmelzprozess.",
+          "Wesentlicher Wirtschaftsfaktor für die gesamte Region Imeretien."
+        ],
+        "hu": [
+          "A Kaukázus legnagyobb vasötvözet-gyára, 1933-ban nyílt meg.",
+          "Fő terméke a nemzetközi acélipar számára készülő szilícium-mangán.",
+          "A mangánércet közvetlenül vasúton kapja a közeli Csiturából.",
+          "Grúzia 10 legnagyobb exportőre közé tartozik.",
+          "Speciális ívkemencéket alkalmaz az olvasztási folyamathoz.",
+          "Imereti régió meghatározó gazdasági szereplője."
+        ],
+        "ro": [
+          "Cea mai mare uzină de feroaliaje din Caucaz, activă din 1933.",
+          "Produsul principal este silicomanganul pentru piața globală a oțelului.",
+          "Materie primă transportată direct pe cale ferată din exploatarea Chiatura.",
+          "Contribuie major la balanța comercială de export a Georgiei.",
+          "Tehnologie de topire bazată pe cuptoare electrice industriale.",
+          "Motorul economic principal al orașului Zestafoni și al regiunii Imereti."
+        ],
+        "en": [
+          "The largest ferroalloy plant in the Caucasus, opened in 1933.",
+          "Primary product is silicomanganese used in international steel production.",
+          "Receives manganese ore directly by rail from nearby Chiatura.",
+          "Ranks among the top 10 export-earning companies in Georgia.",
+          "Utilizes specialized electric arc furnaces for the smelting process.",
+          "A critical economic driver for the entire Imereti region."
+        ]
+      }
+    },
+    {
+      "id": "kulevi-oil-terminal-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kulevi Ölterminal, auch bekannt als Black Sea Terminal, ist eine hochmoderne Logistikanlage an der Mündung des Khobistskali-Flusses nördlich von Poti. Geografisch liegt das Terminal in einer ökologisch sensiblen Zone des Kolkheti-Tieflands, was den Bau zu einer technischen Herausforderung machte. Historisch wurde das Terminal 2008 in Betrieb genommen und befindet sich im Besitz des aserbaidschanischen Staatsunternehmens SOCAR. Ökonomisch ist Kulevi von strategischer Bedeutung für den Transit von Erdöl und Erdölprodukten aus Aserbaidschan und Zentralasien auf den Weltmarkt. Technisch verfügt die Anlage über eigene Eisenbahnrampen, ein massives Tanklager und einen Tiefwasserhafen, der für Schiffe mit hoher Tonnage ausgelegt ist. Die Kapazität des Terminals ermöglicht den Umschlag von über 10 Millionen Tonnen Kohlenwasserstoffen pro Jahr. Ökologisch unterliegt der Standort strengsten Auflagen, da er an den Kolkheti-Nationalpark grenzt; moderne Überwachungssysteme und Schutzbarrieren sollen Ölaustritte verhindern. Kulevi ist ein Paradebeispiel für die georgische Strategie, sich als zentraler Energie-Transitkorridor zwischen dem Kaspischen und dem Schwarzen Meer zu etablieren.",
+        "hu": "A Kulevi olajterminál, más néven Black Sea Terminal, egy ultramodern logisztikai létesítmény a Hobiszckali-folyó torkolatánál, Potitól északra. Földrajzilag a terminál a Kolkheti-alföld ökológiailag érzékeny zónájában található, ami technikai kihívássá tette az építkezést. Történelmileg a terminált 2008-ban helyezték üzembe, és az azerbajdzsáni állami vállalat, a SOCAR tulajdonában van. Gazdaságilag Kulevi stratégiai jelentőséggel bír az Azerbajdzsánból és Közép-Ázsiából származó kőolaj és kőolajtermékek világpiacra történő tranzitja szempontjából. Technikai szempontból a létesítmény saját vasúti rámpákkal, hatalmas tartályparkkal és mélyvízi kikötővel rendelkezik, amelyet nagy tonnatartalmú hajók fogadására terveztek. A terminál kapacitása évente több mint 10 millió tonna szénhidrogén átrakodását teszi lehetővé. Ökológiailag a helyszín a legszigorúbb előírások hatálya alá tartozik, mivel a Kolkheti Nemzeti Parkkal határos; modern megfigyelőrendszerek és védőgátak hivatottak megakadályozni az olajszivárgást. Kulevi kiváló példája Grúzia azon stratégiájának, hogy központi energia-tranzitfolyosóvá váljon a Kaszpi-tenger és a Fekete-tenger között.",
+        "ro": "Terminalul Petrolier Kulevi, cunoscut și sub numele de Black Sea Terminal, este o facilitate logistică ultramodernă situată la gura de vărsare a râului Khobistskali, la nord de Poti. Geografic, terminalul se află într-o zonă sensibilă din punct de vedere ecologic în câmpia Kolkheti, ceea ce a reprezentat o provocare tehnică în timpul construcției. Istoric, terminalul a fost dat în exploatare în 2008 și este deținut de compania de stat azeră SOCAR. Economic, Kulevi are o importanță strategică pentru tranzitul de țiței și produse petroliere din Azerbaidjan și Asia Centrală către piețele mondiale. Din punct de vedere tehnic, facilitatea dispune de rastele feroviare proprii, un parc masiv de rezervoare și un port de mare adâncime capabil să primească nave de mare tonaj. Capacitatea terminalului permite manipularea a peste 10 milioane de tone de hidrocarburi pe an. Ecologic, locația este supusă celor mai stricte reglementări, deoarece se învecinează cu Parcul Național Kolkheti; sisteme moderne de monitorizare și bariere de protecție sunt instalate pentru a preveni scurgerile de petrol. Kulevi este un exemplu elocvent al strategiei Georgiei de a se stabili ca un coridor energetic central de tranzit între Marea Caspică și Marea Neagră.",
+        "en": "The Kulevi Oil Terminal, also known as the Black Sea Terminal, is an ultra-modern logistics facility at the mouth of the Khobistskali River, north of Poti. Geographically, the terminal is located in an ecologically sensitive zone of the Kolkheti lowlands, which made its construction a significant technical challenge. Historically, the terminal commenced operations in 2008 and is owned by the Azerbaijani state energy company, SOCAR. Economically, Kulevi is of strategic importance for the transit of crude oil and petroleum products from Azerbaijan and Central Asia to global markets. Technically, the facility features its own railway ramps, a massive tank farm, and a deep-water port designed for high-tonnage vessels. The terminal's capacity allows for the transshipment of over 10 million tons of hydrocarbons annually. Ecologically, the site is subject to the strictest regulations as it borders the Kolkheti National Park; modern monitoring systems and containment barriers are utilized to prevent oil spills. Kulevi serves as a prime example of Georgia's strategy to establish itself as a central energy transit corridor between the Caspian and Black Seas."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eigentum von SOCAR, eröffnet im Mai 2008.",
+          "Spezialisiert auf den Export von aserbaidschanischem Erdöl.",
+          "Verfügt über eine Lagerkapazität von über 320.000 Kubikmetern.",
+          "Kann Tanker der Suezmax-Klasse (bis 150.000 t) abfertigen.",
+          "Grenzt direkt an das Ramsar-Schutzgebiet des Kolkheti-Parks.",
+          "Besitzt eine der modernsten Verladeinfrastrukturen am Schwarzen Meer."
+        ],
+        "hu": [
+          "A SOCAR tulajdona, 2008 májusában nyílt meg.",
+          "Az azerbajdzsáni kőolaj exportjára szakosodott.",
+          "Több mint 320 000 köbméteres tárolókapacitással rendelkezik.",
+          "Suezmax osztályú tankereket is képes fogadni (150 000 tonnáig).",
+          "Közvetlenül határos a Kolkheti Nemzeti Park Ramsari területével.",
+          "A Fekete-tenger egyik legmodernebb rakodási infrastruktúrájával bír."
+        ],
+        "ro": [
+          "Proprietatea SOCAR, operațional din mai 2008.",
+          "Hub principal pentru exportul țițeiului din Azerbaidjan.",
+          "Capacitate de stocare de peste 320.000 de metri cubi.",
+          "Capabil să proceseze nave de tip Suezmax de până la 150.000 tdw.",
+          "Situat în proximitatea rezervației de biosferă Kolkheti.",
+          "Dispune de tehnologie avansată pentru prevenirea poluării marine."
+        ],
+        "en": [
+          "Owned by SOCAR and officially opened in May 2008.",
+          "Specializes in the export of Azerbaijani crude oil and refined products.",
+          "Features a storage capacity exceeding 320,000 cubic meters.",
+          "Equipped to handle Suezmax-class tankers up to 150,000 DWT.",
+          "Directly borders the Ramsar-protected Kolkheti National Park.",
+          "Boasts some of the most advanced oil loading infrastructure on the Black Sea."
+        ]
+      }
+    },
+    {
+      "id": "supsa-sea-terminal-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Supsa See-Terminal ist ein entscheidender Endpunkt für den Transport von Rohöl aus dem Kaspischen Meer und liegt an der georgischen Schwarzmeerküste. Geografisch befindet sich das Terminal nahe der Mündung des Supsa-Flusses in der Region Guria. Historisch wurde das Terminal 1999 im Rahmen des WREP-Projekts (Western Route Export Pipeline) eröffnet und wird von BP betrieben. Ökonomisch ist Supsa von zentraler Bedeutung, da es die erste unabhängige Exportroute für aserbaidschanisches Öl nach dem Zusammenbruch der Sowjetunion darstellte und Georgien als zuverlässigen Transitstaat positionierte. Technisch gesehen ist Supsa ein Offshore-Terminal; die Verladung erfolgt über eine Einpunkt-Anlegestelle (SPM) im offenen Meer, was die Abfertigung großer Öltanker ohne herkömmliche Hafenanlagen ermöglicht. Das Terminal ist über eine 830 km lange Pipeline direkt mit den Ölfeldern bei Baku verbunden. Ökologisch wird die Anlage streng überwacht, um die Meeresumwelt und die nahegelegenen Strände zu schützen. Supsa bleibt ein strategisches Element der europäischen Energiesicherheit und ein Symbol für die transkaukasische Energiekooperation.",
+        "hu": "A szupszai tengeri terminál a Kaszpi-tengerből származó kőolaj szállításának döntő végpontja, amely a grúz fekete-tengeri parton található. Földrajzilag a terminál a Szupsza-folyó torkolata közelében, Guria régióban helyezkedik el. Történelmileg a terminált 1999-ben nyitották meg a WREP (Western Route Export Pipeline) projekt keretében, és a BP üzemelteti. Gazdaságilag Szupsza központi jelentőségű, mivel a Szovjetunió felbomlása után az első független exportútvonalat jelentette az azeri olaj számára, és Grúziát megbízható tranzitországként pozicionálta. Technikai szempontból Szupsza egy offshore terminál; a rakodás egy nyílt tengeri egypontos kikötőrendszeren (SPM) keresztül történik, ami lehetővé teszi a nagy olajszállító hajók kiszolgálását hagyományos kikötői létesítmények nélkül. A terminál egy 830 km hosszú vezetéken keresztül közvetlenül kapcsolódik a Baku melletti olajmezőkhöz. Ökológiailag a létesítményt szigorúan ellenőrzik a tengeri környezet és a közeli strandok védelme érdekében. Szupsza az európai energiabiztonság stratégiai eleme és a transzkaukázusi energiaegyüttműködés szimbóluma marad.",
+        "ro": "Terminalul Maritim Supsa este un punct final crucial pentru transportul țițeiului din Marea Caspică, situat pe coasta georgiană a Mării Negre. Geografic, terminalul se află lângă gura de vărsare a râului Supsa, în regiunea Guria. Istoric, terminalul a fost deschis în 1999 în cadrul proiectului WREP (Western Route Export Pipeline) și este operat de BP. Economic, Supsa are o importanță centrală, reprezentând prima rută de export independentă pentru petrolul azer după colapsul Uniunii Sovietice, poziționând Georgia ca un stat de tranzit fiabil. Din punct de vedere tehnic, Supsa este un terminal offshore; încărcarea se realizează printr-un sistem de amarare într-un singur punct (SPM) în largul mării, permițând operarea tancurilor petroliere mari fără facilități portuare convenționale. Terminalul este legat direct de câmpurile petroliere de lângă Baku printr-o conductă de 830 km. Ecologic, instalația este monitorizată riguros pentru a proteja mediul marin și plajele învecinate. Supsa rămâne un element strategic al securității energetice europene și un simbol al cooperării energetice transcaucaziene.",
+        "en": "The Supsa Sea Terminal is a crucial terminus for the transport of crude oil from the Caspian Sea, located on Georgia's Black Sea coast. Geographically, the terminal is situated near the mouth of the Supsa River in the Guria region. Historically, the terminal opened in 1999 as part of the Western Route Export Pipeline (WREP) project and is operated by BP. Economically, Supsa is of central importance as it represented the first independent export route for Azerbaijani oil after the collapse of the Soviet Union, positioning Georgia as a reliable transit state. Technically, Supsa is an offshore terminal; loading occurs via a Single Point Mooring (SPM) buoy located in the open sea, which allows for the handling of large oil tankers without conventional port facilities. The terminal is directly connected to the oil fields near Baku via an 830 km pipeline. Ecologically, the facility is strictly monitored to protect the marine environment and nearby beaches. Supsa remains a strategic element of European energy security and a symbol of Trans-Caucasian energy cooperation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Endpunkt der Baku-Supsa-Pipeline (WREP).",
+          "Wird vom britischen Energiekonzern BP betrieben.",
+          "Erstes Öl-Terminal Georgiens nach der Unabhängigkeit (1999).",
+          "Offshore-Anlage mit schwimmender Einpunkt-Anlegestelle (SPM).",
+          "Lagerkapazität von ca. 1 Million Barrel Rohöl vor Ort.",
+          "Wichtiger Pfeiler der Energieversorgung für europäische Märkte."
+        ],
+        "hu": [
+          "A Baku-Szupsza olajvezeték (WREP) végpontja.",
+          "A brit BP energiaóriás üzemelteti.",
+          "Grúzia első függetlenség utáni olajterminálja (1999).",
+          "Offshore létesítmény úszó egypontos kikötőrendszerrel (SPM).",
+          "Helyszíni tárolókapacitása kb. 1 millió hordó nyersolaj.",
+          "Az európai piacok energiaellátásának fontos pillére."
+        ],
+        "ro": [
+          "Punctul terminus al conductei de petrol Baku-Supsa (WREP).",
+          "Operat de consorțiul internațional condus de BP.",
+          "Primul terminal petrolier modern al Georgiei post-sovietice.",
+          "Sistem de încărcare offshore de tip Single Point Mooring.",
+          "Capacitate de stocare de aproximativ 1 milion de barili.",
+          "Element esențial pentru diversificarea rutelor energetice spre Europa."
+        ],
+        "en": [
+          "The terminus of the Baku-Supsa (Western Route Export) Pipeline.",
+          "Operated by the British energy multinational BP.",
+          "Georgia's first major oil terminal after independence, opened in 1999.",
+          "An offshore facility featuring a Single Point Mooring (SPM) buoy.",
+          "On-site storage capacity of approximately 1 million barrels of crude.",
+          "A critical infrastructure pillar for European energy market security."
+        ]
+      }
+    }
+  ]
+}

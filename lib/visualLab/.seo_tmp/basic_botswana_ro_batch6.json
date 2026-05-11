@@ -1,0 +1,159 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaborone-masa-square-landmarks-v2",
+      "description": "O piață urbană vibrantă în Central Business District, inima stilului de viață modern din Gaborone.",
+      "facts": [
+        "Hub social și comercial",
+        "Hoteluri de lux adiacente",
+        "Restaurante internaționale",
+        "Design arhitectural șic"
+      ]
+    },
+    {
+      "id": "gaborone-hindu-temple-landmarks-v2",
+      "description": "Un templu colorat și bogat ornamentat, reflectând diversitatea culturală și religioasă a capitalei.",
+      "facts": [
+        "Arhitectură indiană clasică",
+        "Centru pentru comunitatea hindu",
+        "Sculpturi detaliate",
+        "Atmosferă spirituală liniștită"
+      ]
+    },
+    {
+      "id": "francistown-supa-ngwao-museum-landmarks-v2",
+      "description": "O instituție culturală cheie în nord, care păstrează moștenirea istorică și artistică a regiunii.",
+      "facts": [
+        "Expoziții despre viața triburilor",
+        "Clădire istorică restaurată",
+        "Magazin de artizanat local",
+        "Ghidaj informativ excelent"
+      ]
+    },
+    {
+      "id": "kolobeng-livingstone-memorial-landmarks-v2",
+      "description": "Un sit istoric care marchează locul primei misiuni a lui David Livingstone în Botswana.",
+      "facts": [
+        "Rămășițe de clădiri din 1847",
+        "Símbol al istoriei creștine",
+        "Peisaj natural pitoresc",
+        "Lângă satul Kumakwane"
+      ]
+    },
+    {
+      "id": "gaborone-dam-landmarks-v2",
+      "description": "Cel mai mare baraj din Botswana, o resursă vitală de apă și un loc popular pentru recreere.",
+      "facts": [
+        "Capacitate masivă de stocare",
+        "Vederi panoramice superbe",
+        "Activități de iahting și pescuit",
+        "Sanctuar pentru păsări"
+      ]
+    },
+    {
+      "id": "gaborone-botswana-craft-landmarks-v2",
+      "description": "Cel mai mare centru de artizanat din țară, oferind o selecție vastă de produse tradiționale autentice.",
+      "facts": [
+        "Coșuri împletite celebre",
+        "Evenimente de muzică live",
+        "Restaurant cu specific local",
+        "Promovează artiștii locali"
+      ]
+    },
+    {
+      "id": "gaborone-bureau-of-standards-landmarks-v2",
+      "description": "Sediul autorității naționale pentru standardizare, o clădire modernă și impunătoare.",
+      "facts": [
+        "Garantează calitatea produselor",
+        "Arhitectură instituțională",
+        "Situat în zona industrială",
+        "Laboratoare de testare avansate"
+      ]
+    },
+    {
+      "id": "serowe-royal-cemetery-landmarks-v2",
+      "description": "Locul de odihnă al legendarilor lideri Bangwato, oferind o perspectivă istorică unică.",
+      "facts": [
+        "Amplasare pe un deal stâncos",
+        "Mormintele familiei Khama",
+        "Atmosferă plină de respect",
+        "Lângă biserica istorică"
+      ]
+    },
+    {
+      "id": "maun-nhabe-museum-landmarks-v2",
+      "description": "Un reper cultural în 'capitala turismului', axat pe tradițiile popoarelor din delta Okavango.",
+      "facts": [
+        "Clădire colonială veche",
+        "Expoziții de artă locală",
+        "Sursă de informații turistice",
+        "Promovează conservarea naturii"
+      ]
+    },
+    {
+      "id": "gaborone-sun-international-landmarks-v2",
+      "description": "Unul dintre cele mai vechi și cunoscute hoteluri de lux din capitală, un reper în industria ospitalității.",
+      "facts": [
+        "Cunoscut acum ca Avani Gaborone",
+        "Centru pentru evenimente sociale",
+        " Facilități de cazinou și sport",
+        "Grădini tropicale luxuriante"
+      ]
+    },
+    {
+      "id": "gaborone-princess-marina-hospital-landmarks-v2",
+      "description": "Principalul spital de referință din țară, numit în onoarea Prințesei Marina, Ducesă de Kent.",
+      "facts": [
+        "Cea mai mare unitate medicală",
+        "Símbol al sistemului public de sănătate",
+        "Centru de formare medicală",
+        "Înființat la independență"
+      ]
+    },
+    {
+      "id": "gaborone-university-admin-block-landmarks-v2",
+      "description": "Clădirea administrativă principală a Universității din Botswana, cu o arhitectură distinctivă.",
+      "facts": [
+        "Inima campusului UB",
+        "Design recunoscut oficial",
+        "Simbol al educației superioare",
+        "Punct central de orientare"
+      ]
+    },
+    {
+      "id": "bank-of-botswana-landmarks-v2",
+      "description": "Sediul băncii centrale a țării, o clădire securizată ce reprezintă stabilitatea financiară.",
+      "facts": [
+        "Situat în Government Enclave",
+        "Design arhitectural modern",
+        "Emite moneda națională (Pula)",
+        "Reper în districtul financiar"
+      ]
+    },
+    {
+      "id": "francistown-railway-station-landmarks-v2",
+      "description": "O gară istorică ce a servit ca punct vital pe ruta feroviară de la Cape Town la Cairo.",
+      "facts": [
+        "Arhitectură feroviară veche",
+        "Punct de legătură internațională",
+        "Importanță logistică istorică",
+        "Recent modernizată"
+      ]
+    },
+    {
+      "id": "seretse-khama-statue-landmarks-v2",
+      "description": "Statuia primului președinte al Botswanei, situată în fața Parlamentului, privind spre națiune.",
+      "facts": [
+        "Onorează tatăl națiunii",
+        "Simbol al unității și păcii",
+        "Loc pentru ceremonii oficiale",
+        "Bronz fin detaliat"
+      ]
+    }
+  ]
+}

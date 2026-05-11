@@ -14,15 +14,15 @@ export const poiExtraBeninLifeV2: POI[] = [
       en: "Songhai Center"
     },
     description: {
-      de: "Ein weltbekanntes agro-ökologisches Zentrum in Porto-Novo, das nachhaltige Landwirtschaft und Unternehmertum fördert.",
+      de: "Das Songhai Center in Porto-Novo ist ein Vorzeigeprojekt für nachhaltige Landwirtschaft und integrierte landwirtschaftliche Produktion.",
       hu: "Világhírű agroökológiai központ Porto-Novóban, amely a fenntartható mezőgazdaságot és a vállalkozói szellemet népszerűsíti.",
-      ro: "Un centru agro-ecologic de renume mondial din Porto-Novo, care promovează agricultura durabilă și antreprenoriatul.",
+      ro: "Centrul Songhai din Porto-Novo este un model de renume mondial pentru agricultura durabilă și formarea antreprenorială în Africa.",
       en: "A world-renowned agro-ecological center in Porto-Novo promoting sustainable agriculture and entrepreneurship."
     },
     facts: {
-      de: ["Gegründet 1985", "Fokus auf Bio-Anbau", "Zentrum für Ausbildung"],
+      de: ["Gegründet im Jahr 1985", "Zentrum für Agroökologie", "Ausbildung von Landwirten", "Standort in Porto-Novo"],
       hu: ["1985-ben alapították", "Biotermelésre fókuszál", "Képzési központ"],
-      ro: ["Fondat în 1985", "Focus pe agricultura bio", "Centru de formare"],
+      ro: ["Centru de cercetare", "Agricultură ecologică", "Fondat în 1985"],
       en: ["Founded in 1985", "Focus on organic farming", "Training center"]
     }, image: "/poi-images/songhai-center-life-v2.webp"},
   {
@@ -37,16 +37,16 @@ export const poiExtraBeninLifeV2: POI[] = [
       en: "Pineapple Fields of Allada"
     },
     description: {
-      de: "Allada ist das Zentrum der beninischen Ananasproduktion, bekannt für die süße 'Pain de Sucre' Sorte.",
+      de: "Die Ananasfelder von Allada sind berühmt für den Anbau der süßen Sorte 'Pain de Sucre', die ein wichtiges Exportgut ist.",
       hu: "Allada a benini ananásztermelés központja, amely az édes 'Pain de Sucre' fajtáról híres.",
-      ro: "Allada este centrul producției de ananas din Benin, renumit pentru soiul dulce 'Pain de Sucre'.",
-      en: "Allada is the center of Beninese pineapple production, famous for the sweet 'Pain de Sucre' variety."
+      ro: "Câmpiile de ananas din Allada produc unele dintre cele mai apreciate fructe din Benin, fiind esențiale pentru economia regiunii.",
+      en: "Expansive agricultural lands in Allada dedicated to the cultivation of 'Pain de Sucre' pineapples, renowned for their sweetness and export quality."
     },
     facts: {
-      de: ["Hauptexportgut", "Vulkanischer Boden", "Traditionelle Ernte"],
+      de: ["Zentrum des Ananasanbaus", "Export nach Europa", "Anbau der Sorte Pain de Sucre", "Wirtschaftsmotor der Region"],
       hu: ["Fő exporttermék", "Vulkanikus talaj", "Hagyományos aratás"],
-      ro: ["Principal produs de export", "Sol vulcanic", "Recoltare tradițională"],
-      en: ["Main export product", "Volcanic soil", "Traditional harvest"]
+      ro: ["Producție de ananas", "Export agricol major", "Sol fertil în Allada"],
+      en: ["Center of pineapple production", "Famous 'Sugar Loaf' variety", "Major source of agricultural income"]
     }, image: "/poi-images/allada-pineapple-fields-life-v2.webp"},
   {
     id: "pobe-palm-oil-plantations-life-v2",
@@ -85,13 +85,13 @@ export const poiExtraBeninLifeV2: POI[] = [
     description: {
       de: "Banikoara ist die Hauptstadt des 'weißen Goldes' in Benin und produziert den Großteil der Baumwolle des Landes.",
       hu: "Banikoara a benini 'fehér arany' fővárosa, itt termelik az ország gyapotjának nagy részét.",
-      ro: "Banikoara este capitala 'aurului alb' din Benin, producând cea mai mare parte a bumbacului din țară.",
+      ro: "Banikoara este inima producției de bumbac din Benin, regiunea fiind responsabilă pentru o mare parte din exporturile de bumbac ale țării.",
       en: "Banikoara is the capital of 'white gold' in Benin, producing the majority of the country's cotton."
     },
     facts: {
       de: ["Größtes Anbaugebiet", "Saisonale Ernte", "Wirtschaftsmotor"],
       hu: ["Legnagyobb termőterület", "Szezonális aratás", "Gazdasági motor"],
-      ro: ["Cea mai mare zonă de cultivare", "Recoltă sezonieră", "Motor economic"],
+      ro: ["Capitala bumbacului", "Aurul alb al Beninului", "Economie rurală"],
       en: ["Largest cultivation area", "Seasonal harvest", "Economic engine"]
     }, image: "/poi-images/banikoara-cotton-fields-life-v2.webp"},
   {
@@ -109,13 +109,13 @@ export const poiExtraBeninLifeV2: POI[] = [
       de: "Die Region Savalou ist berühmt für ihren Jams-Anbau und feiert jährlich ein großes Festival zu Ehren dieser Knolle.",
       hu: "Savalou régiója híres a jamszgyökér-termesztésről, és évente nagy fesztivált rendeznek a gumó tiszteletére.",
       ro: "Regiunea Savalou este renumită pentru cultivarea ignamelor și găzduiește anual un mare festival în onoarea acestei legume.",
-      en: "The Savalou region is famous for its yam cultivation and celebrates a major annual festival in honor of this tuber."
+      en: "Rich volcanic soils in Savalou where yams are the primary crop, celebrated annually during the national Yam Festival in August."
     },
     facts: {
       de: ["Hauptnahrungsmittel", "Jams-Festival im August", "Vielseitige Verwendung"],
       hu: ["Alapvető élelmiszer", "Jamsz-fesztivál augusztusban", "Sokoldalú felhasználás"],
       ro: ["Aliment de bază", "Festivalul ignamei în august", "Utilizare versatilă"],
-      en: ["Staple food", "Yam festival in August", "Versatile use"]
+      en: ["Famous for yam cultivation", "Host of the annual Yam Festival", "Staple food production region"]
     }, image: "/poi-images/savalou-yam-fields-life-v2.webp"},
   {
     id: "djougou-cashew-plantations-life-v2",
@@ -155,13 +155,13 @@ export const poiExtraBeninLifeV2: POI[] = [
       de: "Das fruchtbare Ouémé-Tal ist eines der wichtigsten Gebiete für den Reisanbau in Benin.",
       hu: "Az Ouémé-völgy kiterjedt rizsföldjei, amelyek a benini rizstermelés egyik meghatározó területei a folyó termékeny árterén.",
       ro: "Valea fertilă Ouémé este una dintre cele mai importante zone pentru cultivarea orezului din Benin.",
-      en: "The fertile Ouémé Valley is one of the most important areas for rice cultivation in Benin."
+      en: "The fertile floodplains of the Ouémé River, which provide ideal conditions for large-scale rice farming and aquatic agriculture."
     },
     facts: {
       de: ["Flussbewässerung", "Lokale Reissorten", "Sumpfiges Gelände"],
       hu: ["Típus: Rizsföld", "Helyszín: Ouémé-völgy", "Fő növény: Rizs", "Öntözött földek"],
       ro: ["Irigare fluvială", "Soiuri locale de orez", "Teren mlăștinos"],
-      en: ["River irrigation", "Local rice varieties", "Swampy terrain"]
+      en: ["Fertile river delta region", "Major rice producing area", "Highly productive agricultural zone"]
     }, image: "/poi-images/oueme-valley-rice-fields-life-v2.webp"},
   {
     id: "drabo-monkey-sanctuary-life-v2",
@@ -178,13 +178,13 @@ export const poiExtraBeninLifeV2: POI[] = [
       de: "Ein privates Schutzgebiet nahe Abomey-Calavi, das sich dem Schutz von bedrohten Affenarten widmet.",
       hu: "Abomey-Calavi közeli magánrezervátum, amely a veszélyeztetett majomfajok védelmével foglalkozik.",
       ro: "Un sanctuar privat lângă Abomey-Calavi, dedicat protejării speciilor de maimuțe pe cale de dispariție.",
-      en: "A private sanctuary near Abomey-Calavi dedicated to the protection of endangered monkey species."
+      en: "A community-managed forest sanctuary in Drabo dedicated to the protection of the endemic red-bellied monkey and other local primates."
     },
     facts: {
       de: ["Rote Stummelaffen", "Naturnaher Wald", "Bildungsprogramme"],
       hu: ["Vörös kolobuszmajmok", "Természetközeli erdő", "Oktatási programok"],
       ro: ["Maimuțe colobus roșii", "Pădure naturală", "Programe educaționale"],
-      en: ["Red colobus monkeys", "Natural forest", "Educational programs"]
+      en: ["Protected community forest", "Habitat for red-bellied monkeys", "Biodiversity conservation site"]
     }, image: "/poi-images/drabo-monkey-sanctuary-life-v2.webp"},
   {
     id: "alibori-elephant-habitat-life-v2",
@@ -225,13 +225,13 @@ export const poiExtraBeninLifeV2: POI[] = [
       de: "Der Pendjari-Nationalpark ist bekannt für seine Population westafrikanischer Löwen, die hier ein wichtiges Rückzugsgebiet finden.",
       hu: "A Pendjari Nemzeti Park területe, amely a nyugat-afrikai oroszlánok egyik legjelentősebb védett élőhelye a régióban.",
       ro: "Parcul Național Pendjari este renumit pentru populația sa de lei din Africa de Vest, care găsesc aici un refugiu important.",
-      en: "The Pendjari National Park is famous for its population of West African lions, which find an important sanctuary here."
+      en: "The prime savanna habitat within Pendjari National Park where the West African lion, a critically endangered subspecies, can still be found."
     },
     facts: {
       de: ["Spitzenprädator", "Vom Aussterben bedroht", "Schutz durch Ranger"],
       hu: ["Típus: Nemzeti Park", "Állatfaj: Oroszlán", "Státusz: Védett terület", "Természeti kincs"],
       ro: ["Prădător de top", "Pe cale de dispariție", "Protecție prin rangeri"],
-      en: ["Apex predator", "Endangered species", "Protected by rangers"]
+      en: ["Last stronghold for West African lions", "UNESCO Biosphere Reserve", "Top predator habitat in West Africa"]
     }, image: "/poi-images/pendjari-lion-territory-life-v2.webp"},
   {
     id: "w-park-buffalo-range-life-v2",
@@ -271,13 +271,13 @@ export const poiExtraBeninLifeV2: POI[] = [
       de: "Die Lagunen des Nokoué-Sees bieten Nahrung und Nistplätze für Tausende von Wasservögeln und Zugvögeln.",
       hu: "A Nokoué-tó lagúnái és vizes élőhelyei, amelyek több ezer költöző és vízhez kötődő madárfaj számára biztosítanak táplálékot.",
       ro: "Lagunele Lacului Nokoué oferă hrană și locuri de cuibărit pentru mii de păsări de apă și migratoare.",
-      en: "The lagoons of Lake Nokoué provide food and nesting sites for thousands of waterbirds and migratory birds."
+      en: "The wetlands and reed beds of Lake Nokoué, which serve as a vital nesting and feeding ground for thousands of migratory and resident bird species."
     },
     facts: {
       de: ["Reiher und Pelikane", "RAMSAR-Schutzgebiet", "Wichtiger Rastplatz"],
       hu: ["Típus: Vizes élőhely", "Régió: Nokoué-tó", "Élővilág: Vízi madarak", "RAMSAR terület"],
       ro: ["Stârci și pelicani", "Zonă protejată RAMSAR", "Loc de popas important"],
-      en: ["Herons and pelicans", "RAMSAR site", "Important stopover"]
+      en: ["Rich wetland ecosystem", "Birdwatcher's paradise", "Critical migratory stopover"]
     }, image: "/poi-images/nokoue-bird-habitat-life-v2.webp"},
   {
     id: "mono-river-hippo-zone-life-v2",
@@ -291,16 +291,16 @@ export const poiExtraBeninLifeV2: POI[] = [
       en: "Mono River Hippo Zone"
     },
     description: {
-      de: "In den tieferen Abschnitten des Mono-Flusses leben Gemeinschaften von Flusspferden, die oft in der Dämmerung zu sehen sind.",
+      de: "Die Flusspferdzonen am Mono-Fluss bieten die seltene Gelegenheit, diese majestätischen Tiere in ihrem natürlichen Lebensraum zu beobachten.",
       hu: "A Mono-folyó mélyebb szakaszaiban víziló-közösségek élnek, amelyek gyakran láthatók szürkületkor.",
-      ro: "În secțiunile mai adânci ale râului Mono trăiesc comunități de hipopotami, care pot fi văzuți adesea la amurg.",
-      en: "In the deeper sections of the Mono River live communities of hippopotamuses, often seen at dusk."
+      ro: "Zona fluviului Mono este renumită pentru populația sa de hipopotami, oferind turiștilor ocazia de a vedea aceste animale în sălbăticie.",
+      en: "A protected stretch of the Mono River that serves as a sanctuary for hippopotamuses and various aquatic bird species."
     },
     facts: {
-      de: ["Semi-aquatisch", "Grenzfluss zu Togo", "Gefährdete Art"],
+      de: ["Natürliches Habitat am Mono", "Geführte Bootstouren", "Artenschutzprojekt", "Beobachtung von Flusspferden"],
       hu: ["Félig vízi életmód", "Togói határfolyó", "Veszélyeztetett faj"],
-      ro: ["Semi-acvatic", "Râu de frontieră cu Togo", "Specie vulnerabilă"],
-      en: ["Semi-aquatic", "Border river with Togo", "Vulnerable species"]
+      ro: ["Habitat hipopotami", "Ecoturism pe fluviu", "Biodiversitate bogată"],
+      en: ["UNESCO Biosphere Reserve area", "Hippopotamus conservation zone", "Critical freshwater ecosystem"]
     }, image: "/poi-images/mono-river-hippo-zone-life-v2.webp"},
   {
     id: "grand-popo-turtle-beach-life-v2",
@@ -316,13 +316,13 @@ export const poiExtraBeninLifeV2: POI[] = [
     description: {
       de: "Die Strände von Grand-Popo sind ein wichtiger Eiablageplatz für verschiedene Arten von Meeresschildkröten.",
       hu: "Grand-Popo partvidéke, amely a tengeri teknősök egyik legfontosabb tojásrakó és szaporodó helyszíne Beninben.",
-      ro: "Plajele din Grand-Popo sunt un loc important de depunere a ouălor pentru diverse specii de țestoase marine.",
+      ro: "Plaja din Grand-Popo este un loc vital de cuibărit pentru broaștele țestoase marine, fiind protejată prin eforturi de conservare locale.",
       en: "The beaches of Grand-Popo are an important nesting site for various species of sea turtles."
     },
     facts: {
       de: ["Lederschildkröten", "Schutzprojekte vor Ort", "Eiablage bei Nacht"],
       hu: ["Típus: Tengerpart", "Régió: Grand-Popo", "Állatfaj: Tengeri teknős", "Szaporodási hely"],
-      ro: ["Țestoase luth", "Proiecte de protecție locale", "Depunerea ouălor noaptea"],
+      ro: ["Cuibărit țestoase", "Conservare marină", "Plajă de coastă"],
       en: ["Leatherback turtles", "Local protection projects", "Nesting at night"]
     }, image: "/poi-images/grand-popo-turtle-beach-life-v2.webp"},
   {
@@ -339,13 +339,13 @@ export const poiExtraBeninLifeV2: POI[] = [
     description: {
       de: "Das Borgou-Rind ist eine lokale Rasse, die perfekt an das Klima im Norden Benins angepasst ist.",
       hu: "A Borgou marha egy helyi fajta, amely tökéletesen alkalmazkodott Benin északi éghajlatához.",
-      ro: "Vitele Borgou sunt o rasă locală adaptată perfect la climatul din nordul Beninului.",
+      ro: "Regiunea Borgou este cunoscută pentru pășunatul extensiv al vitelor, o activitate tradițională practicată de poporul nomad Fulani.",
       en: "The Borgou cattle is a local breed perfectly adapted to the climate of northern Benin."
     },
     facts: {
       de: ["Resistent gegen Tsetsefliegen", "Fleisch- und Milchnutzung", "Nomadische Weidewirtschaft"],
       hu: ["Cecelégy-ellenálló", "Hús- és tejhasznosítás", "Nomád pásztorkodás"],
-      ro: ["Rezistente la muștele tsetse", "Utilizare pentru carne și lapte", "Păstorit nomad"],
+      ro: ["Pășunat tradițional", "Cultura Fulani", "Regiunea de nord"],
       en: ["Tsetse fly resistant", "Meat and milk use", "Nomadic herding"]
     }, image: "/poi-images/borgou-cattle-grazing-life-v2.webp"},
   {
@@ -363,13 +363,13 @@ export const poiExtraBeninLifeV2: POI[] = [
       de: "Ein beliebter Freizeitpark in Cotonou mit Karussells und Spielgeräten für Kinder.",
       hu: "Népszerű vidámpark Cotonouban körhintákkal és gyermekjátékokkal.",
       ro: "Un parc de distracții popular în Cotonou, cu carusele și echipamente de joacă pentru copii.",
-      en: "A popular amusement park in Cotonou with carousels and play equipment for children."
+      en: "A popular family entertainment and amusement park in Cotonou, offering rides, games, and leisure activities for children."
     },
     facts: {
       de: ["Wochenendausflugsziel", "Sicherer Spielbereich", "Zentrum von Cotonou"],
       hu: ["Hétvégi kirándulóhely", "Biztonságos játszótér", "Cotonou központja"],
       ro: ["Destinație de weekend", "Zonă de joacă sigură", "Centrul orașului Cotonou"],
-      en: ["Weekend destination", "Safe play area", "Cotonou city center"]
+      en: ["Cotonou's primary amusement park", "Family-oriented recreation hub", "Popular weekend destination"]
     }, image: "/poi-images/magic-park-cotonou-life-v2.webp"},
   {
     id: "porto-novo-botanical-garden-life-v2",
@@ -383,16 +383,16 @@ export const poiExtraBeninLifeV2: POI[] = [
       en: "Porto-Novo Botanical Garden"
     },
     description: {
-      de: "Der Jardin des Plantes et de la Nature ist eine grüne Oase in der Hauptstadt mit alten Bäumen und einem Naturlehrpfad.",
+      de: "Der Botanische Garten von Porto-Novo ist eine grüne Oase im Stadtzentrum und beherbergt eine Vielzahl lokaler Baum- und Pflanzenarten.",
       hu: "Porto-Novo botanikus kertje, egy zöld oázis a fővárosban, amely megőrzi a régió növényvilágát és edukatív célokat is szolgál.",
       ro: "Jardin des Plantes et de la Nature este o oază de verdeață în capitală, cu arbori seculari și un traseu educativ.",
-      en: "The Jardin des Plantes et de la Nature is a green oasis in the capital with ancient trees and a nature trail."
+      en: "The Jardin des Plantes et de la Nature is a historic botanical garden in Porto-Novo, featuring ancient trees and sacred Voodoo sites."
     },
     facts: {
-      de: ["Heilpflanzen", "Koloniale Gründung", "Ruhiger Rückzugsort"],
+      de: ["Gegründet im Jahr 1895", "Zentrum für Heilpflanzen", "Oase der Ruhe", "Ehemalige Kolonialgärtnerei"],
       hu: ["Típus: Botanikus kert", "Helyszín: Porto-Novo", "Élővilág: Helyi flóra", "Oktatási központ"],
       ro: ["Plante medicinale", "Fondare colonială", "Refugiu liniștit"],
-      en: ["Medicinal plants", "Colonial foundation", "Quiet retreat"]
+      en: ["Founded during the colonial era", "Contains diverse tropical flora", "Features sacred Voodoo shrines"]
     }, image: "/poi-images/porto-novo-botanical-garden-life-v2.webp"},
   {
     id: "festi-parc-cotonou-life-v2",
@@ -406,16 +406,16 @@ export const poiExtraBeninLifeV2: POI[] = [
       en: "Festi'Parc Cotonou"
     },
     description: {
-      de: "Ein moderner Vergnügungspark am Strand von Fidjrossè, ideal für Familienaktivitäten.",
+      de: "Der Festi Parc in Cotonou ist ein beliebter Freizeitpark, der besonders für Familien mit Kindern ein breites Unterhaltungsangebot bereithält.",
       hu: "A Fidjrossè tengerpartján található családi vidámpark, amely szórakozási lehetőségeket kínál a helyi gyermekek és családok számára.",
-      ro: "Un parc de distracții modern pe plaja Fidjrossè, ideal pentru activități în familie.",
-      en: "A modern amusement park on Fidjrossè beach, ideal for family activities."
+      ro: "Festi Parc este un spațiu de recreere modern în Cotonou, oferind diverse atracții și locuri de joacă pentru familiile din oraș.",
+      en: "A modern recreational park and event venue in Cotonou, frequently used for festivals, concerts, and outdoor community gatherings."
     },
     facts: {
-      de: ["Meeresbrise", "Hüpfburgen", "Abendliche Beleuchtung"],
+      de: ["Vergnügungspark in Cotonou", "Attraktionen für Kinder", "Ort für Familienausflüge", "Moderne Freizeitanlage"],
       hu: ["Típus: Vidámpark", "Helyszín: Cotonou", "Célcsoport: Gyermekek", "Tengerparti helyszín"],
-      ro: ["Briză marină", "Castele gonflabile", "Iluminat nocturn"],
-      en: ["Sea breeze", "Bouncy castles", "Evening lighting"]
+      ro: ["Parc de distracții", "Recreere urbană", "Destinație familială"],
+      en: ["Major outdoor event venue", "Public leisure and park space", "Located in central Cotonou"]
     }, image: "/poi-images/festi-parc-cotonou-life-v2.webp"},
   {
     id: "abomey-calavi-botanical-garden-life-v2",
@@ -431,13 +431,13 @@ export const poiExtraBeninLifeV2: POI[] = [
     description: {
       de: "Ein Forschungs- und Freizeitgarten der Universität, der Kindern die lokale Flora näherbringt.",
       hu: "Az Abomey-Calavi Egyetem kutatókertje, amely a trópusi növényvilág bemutatásával segíti a helyi oktatást és a tudományos kutatást.",
-      ro: "O grădină de cercetare și recreere a universității, care îi apropie pe copii de flora locală.",
+      ro: "Grădina Botanică a Universității din Abomey-Calavi este o oază de biodiversitate utilizată pentru cercetare și conservarea plantelor native.",
       en: "A university research and leisure garden that introduces children to the local flora."
     },
     facts: {
       de: ["Universitätscampus", "Tropische Arten", "Grünes Klassenzimmer"],
       hu: ["Típus: Kutatókert", "Helyszín: Abomey-Calavi", "Jelleg: Egyetemi kert", "Botanikai oktatás"],
-      ro: ["Campus universitar", "Specii tropicale", "Clasă verde"],
+      ro: ["Cercetare academică", "Conservarea plantelor", "Grădină universitară"],
       en: ["University campus", "Tropical species", "Green classroom"]
     }, image: "/poi-images/abomey-calavi-botanical-garden-life-v2.webp"},
   {
@@ -452,16 +452,16 @@ export const poiExtraBeninLifeV2: POI[] = [
       en: "Baobab Forest of Tanguiéta"
     },
     description: {
-      de: "Eine beeindruckende Ansammlung von monumentalen Baobab-Bäumen, die zahlreichen Tierarten Schutz bieten.",
+      de: "Der Affenbrotbaumwald bei Tanguiéta beeindruckt durch seine jahrhundertealten Riesenbäume, die tief in der lokalen Kultur verwurzelt sind.",
       hu: "Tanguiéta közelében található monumentális baobaberdei terület, amely egyedülálló ökoszisztémát biztosít számos állatfajnak.",
-      ro: "O colecție impresionantă de baobabi monumentali, care oferă adăpost multor specii de animale.",
-      en: "An impressive collection of monumental baobab trees that provide shelter for numerous animal species."
+      ro: "Pădurea de baobabi de lângă Tanguiéta impresionează prin arborii săi giganți și seculari, simboluri ale peisajului de savană africană.",
+      en: "A unique landscape near Tanguiéta characterized by a high concentration of ancient, majestic baobab trees against the Atakora mountains."
     },
     facts: {
-      de: ["Riesige Stammumfänge", "Lebensbaum", "Vögel und Fledermäuse"],
+      de: ["Standort im Norden Benins", "Riesige Affenbrotbäume", "Kulturelle Bedeutung", "Nahe dem Pendjari-Park"],
       hu: ["Típus: Baobab erdő", "Régió: Tanguiéta", "Jelleg: Monumentális fák", "Természetes menedék"],
-      ro: ["Circumferințe uriașe", "Copacul vieții", "Păsări și lilieci"],
-      en: ["Huge trunk circumferences", "Tree of life", "Birds and bats"]
+      ro: ["Arbori giganți", "Simbol african", "Peisaj de savană"],
+      en: ["Concentration of ancient baobabs", "Located near Pendjari Park", "Stunning savanna landscape"]
     }
   }
 ];

@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "siguiri-cities-v2",
+      "descriptionAdvancedDe": "Siguiri, im Nordosten Guineas nahe der Grenze zu Mali gelegen, ist das Herz des guineischen Goldabbaus. Die Stadt liegt am Ufer des Niger und hat eine lange Tradition im handwerklichen Goldwaschen. Seit den 1990er Jahren wird der Goldabbau von der AngloGold Ashanti-Gesellschaft industriell betrieben, was zu einem erheblichen wirtschaftlichen Aufschwung, aber auch zu sozialen und ökologischen Herausforderungen geführt hat. Siguiri ist ein historisches Zentrum des Malinke-Volkes und war Teil des alten Mali-Reiches. Die Stadt bleibt ein wichtiger Handelsknotenpunkt für die gesamte Region. Geographie K8 – Rohstoffboom und historische Reiche.",
+      "descriptionAdvancedHu": "Siguiri, Guinea északkeleti részén, a Mali határ közelében fekszik, és a guineai aranybányászat szíve. A város a Niger folyó partján fekszik, és hosszú hagyományokkal rendelkezik a kézműves aranymosás terén. Az 1990-es évek óta az aranybányászatot az AngloGold Ashanti vállalat ipari méretekben végzi, ami jelentős gazdasági fellendülést, de társadalmi és ökológiai kihívásokat is eredményezett. Siguiri a malinke nép történelmi központja és a régi Mali Birodalom része volt. A város továbbra is fontos kereskedelmi csomópont az egész régió számára. Földrajz K8 – Nyersanyag-boom és történelmi birodalmak.",
+      "descriptionAdvancedRo": "Siguiri, situat în nord-estul Guineei, aproape de granița cu Mali, este inima extracției de aur din Guineea. Orașul este situat pe malurile fluviului Niger și are o lungă tradiție în spălarea artizanală a aurului. Din anii 1990, extracția de aur este operată industrial de compania AngloGold Ashanti, ceea ce a dus la o creștere economică semnificativă, dar și la provocări sociale și ecologice. Siguiri este un centru istoric al poporului Malinke și a făcut parte din vechiul Imperiu Mali. Orașul rămâne un nod comercial important pentru întreaga regiune. Geografie K8 – Boom-ul resurselor și imperii istorice.",
+      "descriptionAdvancedEn": "Located in northeastern Guinea near the border with Mali, Siguiri is the heart of Guinean gold mining. The city is situated on the banks of the Niger River and has a long tradition of artisanal gold panning. Since the 1990s, gold mining has been operated on an industrial scale by the AngloGold Ashanti company, leading to significant economic growth but also social and ecological challenges. Siguiri is a historical center of the Malinke people and was part of the ancient Mali Empire. The city remains an important trade hub for the entire region. Geography K8 – Resource boom and historical empires.",
+      "factsAdvanced": [
+        "Guinea aranybányászatának fő központja.",
+        "A Niger és a Tinkisso folyók összefolyásánál fekszik.",
+        "A Société Aurifère de Guinée (SAG) nagy aranybányájának helyszíne.",
+        "Lakossága meghaladja a 180 000 főt a prefektúrában (2014).",
+        "Történelmileg a Mali Birodalom fontos kereskedelmi posztja volt.",
+        "A Malinke kultúra és zene egyik központja.",
+        "Jelentős kézműves aranybányászati tevékenység folyik a környéken.",
+        "Fontos határátkelőhely Mali felé."
+      ]
+    },
+    {
+      "id": "telimele-cities-v2",
+      "descriptionAdvancedDe": "Télimélé liegt im Fouta-Djallon-Hochland und ist bekannt für seine beeindruckenden Landschaften mit Tafelbergen und tiefen Tälern. Die Stadt ist ein landwirtschaftliches Zentrum, das sich auf den Anbau von Erdnüssen, Reis und Fonio spezialisiert hat. Kulturell ist Télimélé ein Zentrum der Fulbe und bekannt für sein traditionelles Handwerk, insbesondere die Weberei. Die islamische Geschichte der Region ist in den vielen kleinen Moscheen und Koranschulen sichtbar. Die malerische Lage macht es zu einem potenziellen Ziel für Ökotourismus, obwohl die Infrastruktur noch unterentwickelt ist. Geographie K7 – Agrarwirtschaft in Bergregionen und kulturelles Erbe.",
+      "descriptionAdvancedHu": "Télimélé a Fouta-Djallon-felföldön fekszik, és lenyűgöző tájairól ismert, amelyeket táblahegyek és mély völgyek jellemeznek. A város egy mezőgazdasági központ, amely a földimogyoró, a rizs és a fonio termesztésére szakosodott. Kulturálisan Télimélé a fulbék központja, és híres hagyományos kézművességéről, különösen a szövésről. A régió iszlám történelme a sok kis mecsetben és Korán-iskolában látható. Festői fekvése potenciális célponttá teszi az ökoturizmus számára, bár az infrastruktúra még fejletlen. Földrajz K7 – Hegyvidéki agrárgazdálkodás és kulturális örökség.",
+      "descriptionAdvancedRo": "Télimélé este situat în podișul Fouta Djallon și este cunoscut pentru peisajele sale impresionante cu munți tabulari și văi adânci. Orașul este un centru agricol specializat în cultivarea alunelor, orezului și fonio. Din punct de vedere cultural, Télimélé este un centru al poporului Fulani și este renumit pentru meșteșugurile sale tradiționale, în special țesutul. Istoria islamică a regiunii este vizibilă în numeroasele mici moschei și școli coranice. Locația sa pitorească îl face o destinație potențială pentru ecoturism, deși infrastructura este încă subdezvoltată. Geografie K7 – Agricultură montană și patrimoniu cultural.",
+      "descriptionAdvancedEn": "Located in the Fouta Djallon highlands, Télimélé is known for its impressive landscapes with table mountains and deep valleys. The city is an agricultural center specializing in the cultivation of peanuts, rice, and fonio. Culturally, Télimélé is a center of the Fulani people and is famous for its traditional crafts, especially weaving. The Islamic history of the region is visible in the many small mosques and Quranic schools. Its picturesque location makes it a potential destination for ecotourism, although infrastructure is still underdeveloped. Geography K7 – Mountain agriculture and cultural heritage.",
+      "factsAdvanced": [
+        "A Fouta Djallon régió festői tájain található.",
+        "A Télimélé prefektúra közigazgatási székhelye.",
+        "Fontos piac a helyi mezőgazdasági termékek, például a fonio számára.",
+        "Körülbelül 15 000 lakos a városban.",
+        "A fulbe kultúra és a hagyományos iszlám oktatás központja.",
+        "A régió híres a méztermeléséről.",
+        "A közeli táblahegyek és vízesések potenciális turisztikai vonzerőt jelentenek.",
+        "A 18. században az Almamy-uralom egyik fontos központja volt."
+      ]
+    },
+    {
+      "id": "kouroussa-cities-v2",
+      "descriptionAdvancedDe": "Kouroussa, am Ufer des Niger gelegen, ist eine Stadt von großer historischer und kultureller Bedeutung. Sie war eine wichtige Stadt im Mali-Reich und später ein Zentrum des Widerstands gegen die französische Kolonialisierung unter Samory Touré. Die Stadt ist auch bekannt als der Ort, an dem der Autor Camara Laye seine Kindheit verbrachte, die er in seinem berühmten Roman 'Das schwarze Kind' beschrieb. Heute ist Kouroussa ein wichtiger Handels- und Landwirtschaftsknotenpunkt, der für den Anbau von Baumwolle und Erdnüssen bekannt ist. Die Nähe zum Niger macht die Fischerei zu einem wichtigen Wirtschaftszweig. Geographie K8 – Historische Stätten und kulturelle Referenzen.",
+      "descriptionAdvancedHu": "Kouroussa, a Niger folyó partján fekvő város, nagy történelmi és kulturális jelentőséggel bír. Fontos város volt a Mali Birodalomban, később pedig a francia gyarmatosítás elleni ellenállás központja Samory Touré vezetésével. A város arról is ismert, hogy Camara Laye író itt töltötte gyermekkorát, amelyet híres 'Fekete fiú' című regényében írt le. Ma Kouroussa fontos kereskedelmi és mezőgazdasági csomópont, amely gyapot- és földimogyoró-termesztéséről ismert. A Niger közelsége a halászatot is fontos gazdasági ágazattá teszi. Földrajz K8 – Történelmi helyszínek és kulturális referenciák.",
+      "descriptionAdvancedRo": "Kouroussa, situat pe malurile fluviului Niger, este un oraș de mare importanță istorică și culturală. A fost un oraș important în Imperiul Mali și mai târziu un centru de rezistență împotriva colonizării franceze sub conducerea lui Samory Touré. Orașul este, de asemenea, cunoscut ca locul unde autorul Camara Laye și-a petrecut copilăria, pe care a descris-o în celebrul său roman 'Copilul negru'. Astăzi, Kouroussa este un nod comercial și agricol important, cunoscut pentru cultivarea bumbacului și a alunelor. Apropierea de Niger face din pescuit un sector economic important. Geografie K8 – Situri istorice și referințe culturale.",
+      "descriptionAdvancedEn": "Located on the banks of the Niger River, Kouroussa is a city of great historical and cultural importance. It was an important city in the Mali Empire and later a center of resistance against French colonization under Samory Touré. The city is also known as the place where the author Camara Laye spent his childhood, which he described in his famous novel 'The Dark Child'. Today, Kouroussa is an important trade and agricultural hub, known for the cultivation of cotton and peanuts. The proximity to the Niger makes fishing an important economic sector. Geography K8 – Historical sites and cultural references.",
+      "factsAdvanced": [
+        "A Niger folyó jobb partján fekszik, és fontos folyami kikötő.",
+        "A híres guineai író, Camara Laye szülővárosa.",
+        "Történelmileg a Malinke Birodalom egyik tartományi fővárosa volt.",
+        "A gyapot és a földimogyoró kereskedelmének regionális központja.",
+        "A Kouroussa prefektúra közigazgatási központja.",
+        "A város lakossága körülbelül 40 000 fő.",
+        "A hagyományos Djembe dob zene egyik fontos központja.",
+        "A Conakry-Kankan vasútvonal egyik állomása."
+      ]
+    },
+    {
+      "id": "dubreka-cities-v2",
+      "descriptionAdvancedDe": "Dubréka, in der Nähe der Hauptstadt Conakry gelegen, ist bekannt für seine malerische Landschaft, die von Mangrovenwäldern und den Ausläufern des Fouta Djallon geprägt ist. Die 'Hunde, die rauchen'-Berge (Les Chien qui fument) und die beeindruckenden Dubréka-Wasserfälle sind beliebte Naturattraktionen. Die Stadt selbst ist ein wachsendes Verwaltungs- und Handelszentrum. Die Nähe zu Conakry hat zu einer zunehmenden Besiedlung und wirtschaftlichen Entwicklung geführt, insbesondere im Bereich der Kleinindustrie und des Dienstleistungssektors. Die traditionelle Salzgewinnung und der Reisanbau bleiben jedoch wichtige wirtschaftliche Grundlagen. Geographie K7 – Naturlandschaften und städtische Expansion.",
+      "descriptionAdvancedHu": "Dubréka, Conakry főváros közelében, festői tájáról ismert, amelyet mangroveerdők és a Fouta Djallon lábánál elterülő hegyvonulatok jellemeznek. A 'dohányzó kutyák' hegyei (Les Chien qui fument) és a lenyűgöző Dubréka-vízesés népszerű természeti látnivalók. Maga a város egy növekvő közigazgatási és kereskedelmi központ. A Conakryhoz való közelség növekvő betelepüléshez és gazdasági fejlődéshez vezetett, különösen a kisipar és a szolgáltatási szektor területén. A hagyományos sólepárlás és rizstermesztés azonban továbbra is fontos gazdasági alap marad. Földrajz K7 – Természeti tájak és városi terjeszkedés.",
+      "descriptionAdvancedRo": "Dubréka, situată în apropierea capitalei Conakry, este cunoscută pentru peisajul său pitoresc, caracterizat de păduri de mangrove și de poalele masivului Fouta Djallon. Munții 'Câinii care fumează' (Les Chien qui fument) și cascadele impresionante Dubréka sunt atracții naturale populare. Orașul în sine este un centru administrativ și comercial în creștere. Apropierea de Conakry a dus la o creștere a așezărilor și la dezvoltare economică, în special în sectorul micii industrii și al serviciilor. Cu toate acestea, extracția tradițională de sare și cultivarea orezului rămân baze economice importante. Geografie K7 – Peisaje naturale și expansiune urbană.",
+      "descriptionAdvancedEn": "Located near the capital Conakry, Dubréka is known for its picturesque landscape, characterized by mangrove forests and the foothills of the Fouta Djallon. The 'Dogs That Smoke' mountains (Les Chien qui fument) and the impressive Dubréka waterfalls are popular natural attractions. The city itself is a growing administrative and commercial center. The proximity to Conakry has led to increasing settlement and economic development, especially in the small-scale industry and service sectors. However, traditional salt extraction and rice cultivation remain important economic foundations. Geography K7 – Natural landscapes and urban expansion.",
+      "factsAdvanced": [
+        "Conakry közelében található, a tengerparti régióban.",
+        "Híres a 'Les Chiens qui fument' (A dohányzó kutyák) hegyformációról.",
+        "A Dubréka-vízesés népszerű kirándulóhely.",
+        "A Dubréka prefektúra adminisztratív központja.",
+        "Fontos terület a rizs és a sótermelés számára.",
+        "A lakosság főként a Soso etnikai csoporthoz tartozik.",
+        "Növekvő urbanizáció a Conakryhoz való közelség miatt.",
+        "A gyarmati időkben fontos kereskedelmi állomás volt."
+      ]
+    },
+    {
+      "id": "boffa-cities-v2",
+      "descriptionAdvancedDe": "Boffa, an der Mündung des Rio Pongo gelegen, hat eine tiefe und komplexe Geschichte, die mit dem Sklavenhandel verbunden ist. Die Stadt war einer der wichtigsten Sklavenhandelshäfen in der Region, wovon heute noch Ruinen von Festungen und Handelsposten zeugen. Die Region ist auch als 'Flüsse des Südens' bekannt und war ein früher Kontaktpunkt zwischen Europäern und Afrikanern. Heute ist Boffa ein ruhigeres Fischer- und Landwirtschaftszentrum. Die umliegenden Mangroven und Inseln bieten eine reiche Artenvielfalt. Die Aufarbeitung der Geschichte des Sklavenhandels ist ein wichtiges lokales Anliegen. Geographie K8 – Historische Last und Küstenökosysteme.",
+      "descriptionAdvancedHu": "Boffa, a Rio Pongo torkolatánál fekvő város, mély és összetett történelemmel rendelkezik, amely a rabszolga-kereskedelemhez kötődik. A város a régió egyik legfontosabb rabszolga-kereskedelmi kikötője volt, amiről ma erődök és kereskedelmi állomások romjai tanúskodnak. A régió 'Déli Folyók' néven is ismert, és az európaiak és afrikaiak közötti korai kapcsolatfelvétel egyik pontja volt. Ma Boffa egy csendesebb halász- és mezőgazdasági központ. A környező mangroveerdők és szigetek gazdag biodiverzitást kínálnak. A rabszolga-kereskedelem történelmének feldolgozása fontos helyi ügy. Földrajz K8 – Történelmi teher és part menti ökoszisztémák.",
+      "descriptionAdvancedRo": "Boffa, situat la gura de vărsare a râului Rio Pongo, are o istorie profundă și complexă legată de comerțul cu sclavi. Orașul a fost unul dintre cele mai importante porturi de comerț cu sclavi din regiune, mărturie stând și astăzi ruinele forturilor și ale posturilor comerciale. Regiunea este, de asemenea, cunoscută sub numele de 'Râurile Sudului' și a fost un punct de contact timpuriu între europeni și africani. Astăzi, Boffa este un centru de pescuit și agricultură mai liniștit. Mangrovele și insulele înconjurătoare oferă o bogată biodiversitate. Prelucrarea istoriei comerțului cu sclavi este o preocupare locală importantă. Geografie K8 – Povara istorică și ecosistemele de coastă.",
+      "descriptionAdvancedEn": "Located at the mouth of the Rio Pongo, Boffa has a deep and complex history linked to the slave trade. The city was one of the most important slave trading ports in the region, as evidenced today by the ruins of forts and trading posts. The region is also known as the 'Rivers of the South' and was an early point of contact between Europeans and Africans. Today, Boffa is a quieter fishing and agricultural center. The surrounding mangroves and islands offer rich biodiversity. Coming to terms with the history of the slave trade is an important local concern. Geography K8 – Historical burden and coastal ecosystems.",
+      "factsAdvanced": [
+        "A Rio Pongo torkolatánál fekszik, és történelmi kikötőváros.",
+        "A 18. és 19. században a rabszolga-kereskedelem egyik fő központja volt.",
+        "Számos történelmi rom, köztük erődök és kereskedelmi állomások találhatók itt.",
+        "A Boffa prefektúra közigazgatási székhelye.",
+        "Jelentős halászati központ, különösen a garnélarák halászata.",
+        "A 'Rivières du Sud' (Déli folyók) történelmi régió része.",
+        "A lakosság nagy része a Baga és Soso etnikai csoportokhoz tartozik.",
+        "A közeli szigetek, mint a Marara-sziget, fontos ökoturisztikai helyszínek."
+      ]
+    }
+  ]
+}

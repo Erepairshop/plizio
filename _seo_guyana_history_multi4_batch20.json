@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-chateau-margot-chimney-history-v2",
+      "descriptionAdvancedDe": "Der Schornstein von Chateau Margot an der Ostküste von Demerara ist ein einsames Relikt der einst blühenden Zuckerindustrie Guyanas. Dieser hohe Ziegelschornstein aus dem 19. Jahrhundert ist alles, was von der Zuckerfabrik Chateau Margot übrig geblieben ist. Er steht als Denkmal für eine Ära, in der 'König Zucker' die Wirtschaft und Gesellschaft der Kolonie dominierte. Der Schornstein erinnert an die Tausenden von versklavten Afrikanern und späteren Vertragsarbeitern, deren harte Arbeit den Reichtum der Plantagenbesitzer schuf. Heute ist der Schornstein ein geschütztes nationales Denkmal. Er ist ein ergreifendes Symbol für das landwirtschaftliche Erbe Guyanas und eine stille Erinnerung an die komplexen und oft brutalen sozialen und wirtschaftlichen Strukturen, die mit der Zuckerproduktion verbunden waren. Seine einsame Präsenz in der Landschaft regt zum Nachdenken über die Vergangenheit und die Veränderungen an, die das Land durchgemacht hat.",
+      "descriptionAdvancedHu": "A Chateau Margot kéménye Demerara keleti partján Guyana egykor virágzó cukoriparának magányos emléke. Ez a 19. századi magas téglakémény minden, ami a Chateau Margot cukorgyárból megmaradt. Emlékműként áll egy olyan korszaknak, amikor a 'királyi cukor' uralta a gyarmat gazdaságát és társadalmát. A kémény emlékeztet a több ezer rabszolgasorba taszított afrikai és későbbi szerződéses munkás kemény munkájára, amely megteremtette az ültetvénytulajdonosok gazdagságát. Ma a kémény védett nemzeti műemlék. Guyana mezőgazdasági örökségének megrendítő szimbóluma, és csendes emlékeztető a cukortermeléssel kapcsolatos összetett és gyakran brutális társadalmi és gazdasági struktúrákra. Magányos jelenléte a tájban elgondolkodtat a múltról és az ország által átélt változásokról.",
+      "descriptionAdvancedRo": "Coșul de fum de la Chateau Margot, pe coasta de est a Demerarei, este o relicvă solitară a industriei zahărului, odinioară înfloritoare, din Guyana. Acest coș de fum înalt, din cărămidă, datând din secolul al XIX-lea, este tot ce a mai rămas din fabrica de zahăr Chateau Margot. Stă ca un monument al unei ere în care 'Regele Zahăr' domina economia și societatea coloniei. Coșul de fum amintește de miile de africani înrobiți și, mai târziu, de muncitorii angajați sub contract, a căror muncă grea a creat bogăția proprietarilor de plantații. Astăzi, coșul de fum este un monument național protejat. Este un simbol emoționant al moștenirii agricole a Guyanei și un memento tăcut al structurilor sociale și economice complexe și adesea brutale asociate cu producția de zahăr. Prezența sa solitară în peisaj invită la reflecție asupra trecutului și a schimbărilor prin care a trecut țara.",
+      "descriptionAdvancedEn": "The Chateau Margot Chimney, on the East Coast of Demerara, is a solitary relic of Guyana's once-booming sugar industry. This tall brick chimney, dating back to the 19th century, is all that remains of the Chateau Margot sugar factory. It stands as a monument to an era when 'King Sugar' dominated the colony's economy and society. The chimney is a reminder of the thousands of enslaved Africans and later indentured laborers whose hard work created the wealth of the plantation owners. Today, the chimney is a protected national monument. It is a poignant symbol of Guyana's agricultural heritage and a silent reminder of the complex and often brutal social and economic structures associated with sugar production. Its lonely presence in the landscape invites reflection on the past and the changes the country has undergone.",
+      "factsAdvanced": [
+        "Ein Überbleibsel der Zuckerfabrik Chateau Margot aus dem 19. Jahrhundert.",
+        "Symbol für die Ära, in der 'König Zucker' die Wirtschaft dominierte.",
+        "Befindet sich an der Ostküste von Demerara.",
+        "Ein geschütztes nationales Denkmal von Guyana.",
+        "Erinnert an die Arbeit von versklavten Afrikanern und Vertragsarbeitern.",
+        "Zeugt vom landwirtschaftlichen Erbe des Landes.",
+        "Der einzige verbliebene Teil der ursprünglichen Fabrik.",
+        "Ein markantes Wahrzeichen in der Landschaft."
+      ]
+    }
+  ]
+}

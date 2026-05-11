@@ -1,0 +1,34 @@
+{
+  "lang": "hu",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sokoto-ebene-relief-v2",
+      "description": "Az ország északnyugati részén elterülő síkság, amely az állattartás és mezőgazdaság fontos színtere.",
+      "facts": ["Északnyugati síkság", "Fontos legelők", "Sokoto állam"]
+    },
+    {
+      "id": "adamawa-hochland-relief-v2",
+      "description": "Nigéria keleti részén fekvő fennsíkos terület, melynek változatos élővilága és tájai ismertek.",
+      "facts": ["Keleti fennsík", "Változatos tájak", "Adamawa állam"]
+    },
+    {
+      "id": "benue-tal-relief-v2",
+      "description": "A Benue folyó termékeny völgye, amely jelentős mezőgazdasági potenciállal bír.",
+      "facts": ["Folyóvölgy", "Mezőgazdasági központ", "Termékeny talaj"]
+    },
+    {
+      "id": "gongola-tal-relief-v2",
+      "description": "A Gongola folyó melléki terület, mely a keleti államok számára fontos ökológiai folyosó.",
+      "facts": ["Folyó menti régió", "Ökológiai folyosó", "Keleti országrész"]
+    },
+    {
+      "id": "kano-ebene-relief-v2",
+      "description": "Az északi országrész kiterjedt síkvidéke, amely sűrűn lakott és mezőgazdaságilag fejlett.",
+      "facts": ["Északi síkság", "Sűrűn lakott terület", "Fejlett mezőgazdaság"]
+    }
+  ]
+}

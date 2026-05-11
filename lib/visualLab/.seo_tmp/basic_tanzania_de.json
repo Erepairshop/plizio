@@ -1,0 +1,134 @@
+{
+  "lang": "de",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kilimanjaro-relief-v2",
+      "description": "Der Kilimandscharo ist der höchste Berg Afrikas und besteht aus drei vulkanischen Kegeln, die die Landschaft Tansanias dominieren.",
+      "facts": ["Höchster Berg Afrikas", "Höhe: 5895 Meter", "Vulkanisches Massiv"]
+    },
+    {
+      "id": "mount-meru-relief-v2",
+      "description": "Der Mount Meru ist ein aktiver Vulkan in Tansania, der eine beeindruckende Caldera und steile Felswände aufweist.",
+      "facts": ["Höhe: 4562 Meter", "Teil des Arusha-Nationalparks", "Imposante Caldera"]
+    },
+    {
+      "id": "ngorongoro-crater-relief-v2",
+      "description": "Der Ngorongoro-Krater ist die größte inaktive, nicht eingestürzte und nicht erodierte Caldera der Welt und ein UNESCO-Welterbe.",
+      "facts": ["Durchmesser ca. 20 km", "Einzigartiges Ökosystem", "Weltberühmter Krater"]
+    },
+    {
+      "id": "uluguru-mountains-relief-v2",
+      "description": "Die Uluguru-Berge erheben sich abrupt über die Küstenebene und sind für ihre hohe Artenvielfalt und Nebelwälder bekannt.",
+      "facts": ["Teil der Eastern Arc", "Hohe Niederschläge", "Biodiversitäts-Hotspot"]
+    },
+    {
+      "id": "udzungwa-mountains-relief-v2",
+      "description": "Die Udzungwa-Berge bieten eine spektakuläre Topographie mit steilen Hängen und tief eingeschnittenen Tälern im Süden Tansanias.",
+      "facts": ["Teil der Eastern Arc", "Große Artenvielfalt", "Beeindruckende Gebirgskette"]
+    },
+    {
+      "id": "usambara-mountains-relief-v2",
+      "description": "Die Usambara-Berge im Nordosten Tansanias sind eine landschaftlich abwechslungsreiche Region mit zahlreichen Tälern und Hochebenen.",
+      "facts": ["Bekanntes Wandergebiet", "Kühle Hochlagen", "Frühere Siedlungsgebiete"]
+    },
+    {
+      "id": "ruaha-river-valley-relief-v2",
+      "description": "Das Ruaha-Flusstal ist ein zentrales Lebensader-System, das durch ein tiefes Tal und trockene Savannenlandschaften geprägt ist.",
+      "facts": ["Großes Flusssystem", "Wichtig für Wildtiere", "Trockene Savannenumgebung"]
+    },
+    {
+      "id": "kilombero-valley-relief-v2",
+      "description": "Das Kilombero-Tal ist eines der größten Feuchtgebiete Tansanias und dient als wichtige landwirtschaftliche Zone.",
+      "facts": ["Wichtiges Feuchtgebiet", "Fruchtbare Schwemmlandböden", "Reisanbaugebiet"]
+    },
+    {
+      "id": "pangani-river-basin-relief-v2",
+      "description": "Das Pangani-Flussbecken ist ein entscheidender Wasserlieferant für die Landwirtschaft im Nordosten Tansanias.",
+      "facts": ["Einzugsgebiet des Pangani", "Wichtig für Bewässerung", "Fließt in den Indik"]
+    },
+    {
+      "id": "great-rift-valley-relief-v2",
+      "description": "Der Ostafrikanische Grabenbruch durchzieht Tansania und bildet spektakuläre Landschaften mit tiefen Seen und steilen Grabenschultern.",
+      "facts": ["Geologische Bruchlinie", "Weltweit bedeutend", "Geologisch hochaktiv"]
+    },
+    {
+      "id": "lake-eyasi-basin-relief-v2",
+      "description": "Das Lake-Eyasi-Becken ist ein saisonaler Salzsee in einem Grabenbruch, der von trockenem und heißem Klima geprägt ist.",
+      "facts": ["Saisonaler Salzsee", "Teil des Rift Valley", "Sehr trockene Umgebung"]
+    },
+    {
+      "id": "lake-natron-basin-relief-v2",
+      "description": "Der Lake Natron ist ein hochalkalischer See in einem vulkanisch aktiven Gebiet, der für Flamingos als Brutstätte dient.",
+      "facts": ["Hochalkalisches Wasser", "Wichtiges Brutgebiet", "Vulkanisch geprägt"]
+    },
+    {
+      "id": "ol-doinyo-lengai-relief-v2",
+      "description": "Der Ol Doinyo Lengai ist ein aktiver Vulkan, bekannt für seine einzigartige karbonatitische Lava.",
+      "facts": ["Aktiver Vulkan", "Einzigartige Lavaform", "Heiliger Berg der Massai"]
+    },
+    {
+      "id": "pare-mountains-relief-v2",
+      "description": "Die Pare-Berge sind ein nördliches Gebirge in Tansania, das landschaftlich an die Usambara-Berge anschließt.",
+      "facts": ["Gebirgskette im Nordosten", "Trockene Berghänge", "Landwirtschaftliche Terrassen"]
+    },
+    {
+      "id": "livingstone-mountains-relief-v2",
+      "description": "Die Livingstone-Berge erheben sich eindrucksvoll über das nordöstliche Ufer des Malawisees.",
+      "facts": ["Steil abfallend", "Am Malawisee", "Gebirgszug im Südwesten"]
+    },
+    {
+      "id": "mbeya-range-relief-v2",
+      "description": "Die Mbeya-Berge sind eine wichtige Gebirgsformation im Südwesten Tansanias, die das lokale Klima und die Landwirtschaft prägt.",
+      "facts": ["Vulkanischer Ursprung", "Kühle Region", "Agrarwirtschaftlich wichtig"]
+    },
+    {
+      "id": "poroto-mountains-relief-v2",
+      "description": "Die Poroto-Berge sind Teil der vulkanischen Gebirgsketten im Südwesten Tansanias nahe der Stadt Mbeya.",
+      "facts": ["Vulkanische Region", "Hohe Niederschläge", "Fruchtbare Region"]
+    },
+    {
+      "id": "kipengere-range-relief-v2",
+      "description": "Die Kipengere-Berge, auch bekannt als Livingstone-Berge, bilden eine markante Barriere im Südwesten Tansanias.",
+      "facts": ["Gebirgskette", "Hochgelegene Plateaus", "Wichtige Wasserscheide"]
+    },
+    {
+      "id": "mahenge-plateau-relief-v2",
+      "description": "Das Mahenge-Plateau ist eine charakteristische Hochebene im Süden Tansanias mit tief eingeschnittenen Tälern.",
+      "facts": ["Hochebene", "Spektakuläre Täler", "Südliches Tansania"]
+    },
+    {
+      "id": "matengo-highlands-relief-v2",
+      "description": "Das Matengo-Hochland ist für seine einzigartige landwirtschaftliche Terrassierungstechnik bekannt, die Bodenerosion verhindert.",
+      "facts": ["Bekannt für Terrassen", "Hochgelegen", "Traditionelle Landwirtschaft"]
+    },
+    {
+      "id": "tunduru-plateau-relief-v2",
+      "description": "Das Tunduru-Plateau ist ein weitläufiges, relativ flaches Gebiet im Südosten Tansanias, das dünn besiedelt ist.",
+      "facts": ["Flache Hochebene", "Dünn besiedelt", "Südöstliches Tansania"]
+    },
+    {
+      "id": "serengeti-plain-relief-v2",
+      "description": "Die Serengeti-Ebene ist eine weltberühmte, weite Graslandschaft, die für ihre riesigen Tierwanderungen bekannt ist.",
+      "facts": ["Weite Graslandschaft", "Zentrum der Migration", "UNESCO-Welterbe"]
+    },
+    {
+      "id": "wembere-plain-relief-v2",
+      "description": "Die Wembere-Ebene ist ein saisonales Feuchtgebiet und ehemaliges Seebett in Zentral-Tansania.",
+      "facts": ["Saisonal überflutet", "Zentral-Tansania", "Ehemaliges Seebett"]
+    },
+    {
+      "id": "masasi-plateau-relief-v2",
+      "description": "Das Masasi-Plateau erstreckt sich über den Südosten Tansanias und ist durch eine leicht gewellte, trockene Landschaft geprägt.",
+      "facts": ["Südöstliches Tansania", "Leicht hügelig", "Trockene Region"]
+    },
+    {
+      "id": "ufipa-plateau-relief-v2",
+      "description": "Das Ufipa-Plateau liegt zwischen dem Tanganjikasee und dem Rukwasee und bietet eine isolierte, hochgelegene Umgebung.",
+      "facts": ["Zwischen zwei Seen", "Isolierte Hochebene", "Westliches Tansania"]
+    }
+  ]
+}

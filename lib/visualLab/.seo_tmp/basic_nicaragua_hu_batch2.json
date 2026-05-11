@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "villa-sandino-cities-v2",
+      "description": "Villa Sandino Chontales tartományban található növekvő város, amely a mezőgazdaság és a kereskedelem köré fejlődött.",
+      "facts": ["Növekvő város", "Mezőgazdaság", "Kereskedelem"]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "description": "Pueblo Nuevo Estelí tartományban egy mezőgazdasági közösség, dohány- és kávétermesztéséről ismert.",
+      "facts": ["Mezőgazdasági közösség", "Dohány és kávé", "Estelí"]
+    },
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "description": "Esquipulas Matagalpa tartományban található kávétermesztő közösség, amelyet Esquipulas Fekete Krisztus szobráról neveztek el.",
+      "facts": ["Kávétermesztő közösség", "Fekete Krisztus", "Matagalpa"]
+    },
+    {
+      "id": "san-dionisio-matagalpa-cities-v2",
+      "description": "San Dionisio Matagalpa tartományban egy kis vidéki közösség, kávétermesztéséről és természeti szépségéről ismert.",
+      "facts": ["Kávétermesztés", "Természeti szépség", "Vidéki közösség"]
+    },
+    {
+      "id": "el-tuma-la-dalia-cities-v2",
+      "description": "El Tuma-La Dalia Matagalpa tartományban a kávétermesztés központja, hegyvidéki tájakkal körülvéve.",
+      "facts": ["Kávétermesztés központja", "Hegyvidéki tájak", "Matagalpa"]
+    },
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "description": "Matiguás Matagalpa tartományban egy fontos mezőgazdasági központ, szarvasmarha tenyésztéséről és tejtermékeiről ismert.",
+      "facts": ["Mezőgazdasági központ", "Szarvasmarha tenyésztés", "Tejtermékek"]
+    },
+    {
+      "id": "muy-muy-matagalpa-cities-v2",
+      "description": "Muy Muy Matagalpa tartományban egy vidéki közösség, amely sajt- és tejtermék gyártásáról ismert.",
+      "facts": ["Vidéki közösség", "Sajtgyártás", "Tejtermékek"]
+    },
+    {
+      "id": "quilali-nueva-segovia-cities-v2",
+      "description": "Quilalí Nueva Segovia tartományban egy hegyi város, kávétermesztéséről és festői tájairól ismert.",
+      "facts": ["Hegyi város", "Kávétermesztés", "Festői táj"]
+    },
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "description": "San Fernando Nueva Segovia tartományban egy kis vidéki közösség, Honduras határán.",
+      "facts": ["Vidéki közösség", "Honduras határa", "Nueva Segovia"]
+    },
+    {
+      "id": "desembocadura-de-rio-grande-cities-v2",
+      "description": "Desembocadura de Río Grande egy parti közösség a Río Grande torkolatánál, halászatáról ismert.",
+      "facts": ["Parti közösség", "Halászat", "Río Grande"]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "description": "Corn Island (Islas del Maíz) két karibi sziget, korallzátonyaikról és nyugodt hangulatukról ismertek.",
+      "facts": ["Karibi szigetek", "Korallzátonyok", "Nyugodt hangulat"]
+    },
+    {
+      "id": "paiwas-cities-v2",
+      "description": "Paiwas az Északi Karib-tengeri Autonóm Régióban található mezőgazdasági közösség, kakaó- és kávétermesztéséről ismert.",
+      "facts": ["Mezőgazdasági közösség", "Kakaó és kávé", "Északi Karib-tengeri Autonóm Régió"]
+    },
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "description": "Morrito a Río San Juan folyó mentén található kis halászfalu, nyugalmáról és a Nicaragua-tó közelségéről ismert.",
+      "facts": ["Halászfalu", "Río San Juan", "Nicaragua-tó"]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "description": "San Jorge Rivas tartományban található kikötőváros a Nicaragua-tó partján, fontos kompkikötő az Ometepe-szigetre.",
+      "facts": ["Kikötőváros", "Nicaragua-tó", "Kompkikötő"]
+    },
+    {
+      "id": "belen-rivas-cities-v2",
+      "description": "Belén Rivas tartományban található, mezőgazdasági közösség, amely rizst és cukornádat termeszt.",
+      "facts": ["Mezőgazdasági közösség", "Rizs és cukornád", "Rivas"]
+    }
+  ]
+}

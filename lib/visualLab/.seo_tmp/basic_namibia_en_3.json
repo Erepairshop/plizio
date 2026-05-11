@@ -1,0 +1,104 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-etosha-pan-nature-v2",
+      "description": "Massive salt pan visible from space and a major wildlife hub.",
+      "facts": ["Massive salt pan", "Major wildlife park", "Arid landscape"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "Plateau area featuring diverse ecosystems and endangered species.",
+      "facts": ["Flat-topped mountain", "Biodiversity hotspot", "National park"]
+    },
+    {
+      "id": "na-dunes-sossusvlei-nature-v2",
+      "description": "Iconic giant red sand dunes in the heart of the Namib desert.",
+      "facts": ["Famous red dunes", "Namib Desert", "Tourist landmark"]
+    },
+    {
+      "id": "na-dead-vlei-nature-v2",
+      "description": "Clay pan featuring dead camel thorn trees against stark dunes.",
+      "facts": ["Ancient dead trees", "Stark white pan", "Iconic landscape"]
+    },
+    {
+      "id": "na-kuiseb-river-nature-v2",
+      "description": "Ephemeral riverbed forming a natural boundary in the desert.",
+      "facts": ["Ephemeral river", "Desert border", "Dry channel"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "Important watercourse supporting flora and fauna in the desert.",
+      "facts": ["Supports desert life", "Western Namibia", "Seasonal flow"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "Remote river valley known for desert-adapted elephants.",
+      "facts": ["Desert-adapted elephants", "Remote region", "Canyon views"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "Wild river valley providing a refuge for wildlife in the arid north.",
+      "facts": ["Wildlife refuge", "Northern desert", "Wild landscape"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "River course famous for dramatic geological formations.",
+      "facts": ["Geological features", "Damaraland region", "Dry riverbed"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "Spectacular long river canyon showcasing deep geological history.",
+      "facts": ["Massive canyon", "Deep gorges", "Hiking destination"]
+    },
+    {
+      "id": "na-hardap-dam-nature-v2",
+      "description": "Major dam creating a vital wetland and water reserve.",
+      "facts": ["Man-made reservoir", "Important wetland", "Water reserve"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Deep sinkhole lake with a rich historical and cultural past.",
+      "facts": ["Sinkhole lake", "Historical site", "Deep blue water"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "Small, deep sinkhole lake in northern Namibia.",
+      "facts": ["Second sinkhole lake", "Remote location", "Clear water"]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "Natural water pool providing a sanctuary for local birdlife.",
+      "facts": ["Natural water body", "Birdlife sanctuary", "Rare water"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "Seasonal wetlands supporting abundant biodiversity in the north.",
+      "facts": ["Seasonal floodplains", "Abundant wildlife", "Wetland ecosystem"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "River forming a border rich in aquatic and land wildlife.",
+      "facts": ["Border river", "Abundant wildlife", "Rich biodiversity"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "Lush river corridor essential for wildlife corridors.",
+      "facts": ["Lush corridor", "Wildlife path", "Northern Namibia"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "Major river supporting communities and wildlife in the Zambezi region.",
+      "facts": ["Major river", "Water source", "Zambezi Region"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Granite mountain range known for ancient rock art sites.",
+      "facts": ["Granite mountains", "Ancient rock art", "Scenic vistas"]
+    }
+  ]
+}

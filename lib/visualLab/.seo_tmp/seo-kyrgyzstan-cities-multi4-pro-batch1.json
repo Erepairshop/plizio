@@ -1,0 +1,419 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bishkek-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Liegt auf einer Höhe von ca. 800 Metern im weiten Tschüi-Tal.",
+          "Wurde 1825 als kokandsche Festung Pischpek gegründet.",
+          "Hieß von 1926 bis 1991 Frunse, nach dem sowjetischen General.",
+          "Gilt aufgrund zahlreicher Parks als eine der grünsten Städte Zentralasiens.",
+          "Beherbergt den Osch-Basar, einen der größten Handelsplätze der Region.",
+          "Das Stadtbild ist durch ein strenges Schachbrettmuster geprägt.",
+          "Der Ala-Too-Platz ist das Herzstück für nationale Feierlichkeiten."
+        ],
+        "hu": [
+          "Mintegy 800 méter magasan fekszik a tágas Csüi-völgyben.",
+          "1825-ben alapították Pispek néven kokandi erődítményként.",
+          "1926 és 1991 között Frunze nevet viselt egy szovjet tábornok után.",
+          "Közép-Ázsia egyik legzöldebb városa a rengeteg parknak köszönhetően.",
+          "Itt található az Os-bazár, a régió egyik legnagyobb piaca.",
+          "Utcahálózata szabályos sakktábla elrendezést követ.",
+          "Az Ala-Too tér a város és az ország politikai életének központja."
+        ],
+        "ro": [
+          "Situat la o altitudine de aproximativ 800 de metri în Valea Chuy.",
+          "Fondat în 1825 ca fortăreață kokandă sub numele Pishpek.",
+          "A purtat numele Frunze între 1926 și 1991, după un general sovietic.",
+          "Este considerat unul dintre cele mai verzi orașe din Asia Centrală.",
+          "Găzduiește Bazarul Osh, unul dintre cele mai mari din regiune.",
+          "Structura urbană urmează un model riguros de tip tablă de șah.",
+          "Piața Ala-Too este centrul principal pentru festivitățile naționale."
+        ],
+        "en": [
+          "Located at an altitude of about 800 metres in the broad Chuy Valley.",
+          "Founded in 1825 as the Kokandi fortress of Pishpek.",
+          "Named Frunze from 1926 to 1991 after a Soviet general.",
+          "Regarded as one of Central Asia's greenest cities due to many parks.",
+          "Home to the Osh Bazaar, one of the largest markets in the region.",
+          "The urban layout follows a strict grid-like checkerboard pattern.",
+          "Ala-Too Square serves as the focal point for national celebrations."
+        ]
+      }
+    },
+    {
+      "id": "osh-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Blickt auf eine über 3000-jährige Siedlungsgeschichte zurück.",
+          "Gilt als die 'südliche Hauptstadt' Kirgisistans.",
+          "Der Sulaiman-Too ist das einzige UNESCO-Welterbe der Stadt.",
+          "Der Dschajma-Basar erstreckt sich über einen Kilometer am Akbura-Fluss.",
+          "War ein bedeutender Knotenpunkt an der Seidenstraße.",
+          "Beherbergt das größte Lenin-Denkmal Zentralasiens.",
+          "Die Stadt ist ein Schmelztiegel kirgisischer und usbekischer Kultur."
+        ],
+        "hu": [
+          "Több mint 3000 éves múltra visszatekintő település.",
+          "Kirgizisztán 'déli fővárosaként' emlegetik.",
+          "A Szulajman-hegy a város egyetlen UNESCO világörökségi helyszíne.",
+          "A Dzsajma-bazár több mint egy kilométeren át húzódik az Akbura folyónál.",
+          "A Selyemút egyik legfontosabb karavánállomása volt.",
+          "Itt található Közép-Ázsia legnagyobb fennmaradt Lenin-szobra.",
+          "A város a kirgiz és üzbég kultúra különleges keveréke."
+        ],
+        "ro": [
+          "Are o istorie de așezare care depășește 3000 de ani.",
+          "Este considerat 'capitala de sud' a Kârgâzstanului.",
+          "Muntele Sulaiman-Too este singurul sit UNESCO din oraș.",
+          "Bazarul Jayma se întinde pe mai bine de un kilometru de-a lungul râului.",
+          "A fost un nod comercial vital pe vechiul Drum al Mătăsii.",
+          "Găzduiește cea mai mare statuie a lui Lenin din Asia Centrală.",
+          "Orașul este un amestec vibrant de cultură kârgâză și uzbecă."
+        ],
+        "en": [
+          "Boasts a settlement history spanning over 3000 years.",
+          "Referred to as the 'southern capital' of Kyrgyzstan.",
+          "Sulaiman-Too Mountain is the city's only UNESCO World Heritage site.",
+          "The Jayma Bazaar extends for over a kilometre along the Akbura River.",
+          "Was a vital commercial hub on the ancient Silk Road.",
+          "Home to the largest surviving Lenin monument in Central Asia.",
+          "The city is a unique melting pot of Kyrgyz and Uzbek cultures."
+        ]
+      }
+    },
+    {
+      "id": "jalal-abad-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Bekannt für seine radioaktiven Mineral- und Thermalquellen.",
+          "Das Sanatorium 'Dschalal-Abat' ist seit Zarenzeiten berühmt.",
+          "Die Stadt liegt am Rande der weltweit größten Walnusswälder.",
+          "Ist das administrative Zentrum des fruchtbaren Gebiets Dschalalabat.",
+          "Die Legende besagt, dass die Arslanbob-Wälder von Alexander dem Großen besucht wurden.",
+          "Wirtschaftlich bedeutend durch Baumwoll- und Tabakverarbeitung.",
+          "Wurde 1877 als Siedlung rund um die Heilquellen gegründet."
+        ],
+        "hu": [
+          "Híres a radioaktív ásvány- és termálvízforrásairól.",
+          "A 'Dzsalal-Abad' szanatórium már a cári idők óta ismert.",
+          "A város a világ legnagyobb dióerdeinek peremén fekszik.",
+          "A termékeny Dzsalalabad tartomány közigazgatási központja.",
+          "A legenda szerint az Arszlanbob-erdőkben Nagy Sándor is megfordult.",
+          "Gazdaságában a gyapot- és dohányfeldolgozás játszik főszerepet.",
+          "1877-ben alapították a gyógyforrások körüli településként."
+        ],
+        "ro": [
+          "Renumit pentru izvoarele sale minerale și termale radioactive.",
+          "Sanatoriul 'Jalal-Abad' este faimos încă din perioada țaristă.",
+          "Orașul se află la marginea celor mai mari păduri de nuc din lume.",
+          "Este centrul administrativ al fertilei regiuni Jalal-Abad.",
+          "Legenda spune că pădurile Arslanbob au fost vizitate de Alexandru cel Mare.",
+          "Important din punct de vedere economic pentru bumbac și tutun.",
+          "Fondat în 1877 ca o așezare în jurul izvoarelor curative."
+        ],
+        "en": [
+          "Famous for its radioactive mineral and thermal springs.",
+          "The 'Jalal-Abad' sanatorium has been renowned since Tsarist times.",
+          "The city sits at the edge of the world's largest walnut forests.",
+          "Administrative centre of the fertile Jalal-Abad Region.",
+          "Legend says the Arslanbob forests were visited by Alexander the Great.",
+          "Economically significant for cotton and tobacco processing.",
+          "Established in 1877 as a settlement around healing springs."
+        ]
+      }
+    },
+    {
+      "id": "karakol-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Wurde 1869 als russischer Militärposten gegründet.",
+          "Hieß zu Ehren eines Forschers lange Zeit Prschewalsk.",
+          "Die Dunganen-Moschee wurde ganz ohne Metallnägel erbaut.",
+          "Die russisch-orthodoxe Kathedrale besteht vollständig aus Holz.",
+          "Gilt als Tor zum Wandern und Bergsteigen im Tian-Shan-Gebirge.",
+          "Der sonntägliche Viehmarkt ist einer der größten des Landes.",
+          "Liegt am östlichen Ende des Hochgebirgssees Yssykköl."
+        ],
+        "hu": [
+          "1869-ben alapították orosz katonai őrhelyként.",
+          "Hosszú ideig Przsevalszk nevet viselte a híres kutató tiszteletére.",
+          "A dungán mecsetet egyetlen fém szög nélkül építették fel.",
+          "Az orosz ortodox katedrális teljes egészében fából készült.",
+          "A Tien-san hegységbe tartó túrázók és hegymászók kapuja.",
+          "A vasárnapi állatvásár az ország egyik legnagyobb ilyen eseménye.",
+          "Az Iszik-köl magashegyi tó keleti végénél található."
+        ],
+        "ro": [
+          "Fondat în 1869 ca un avanpost militar rusesc.",
+          "A purtat mult timp numele Prjevalsk, în onoarea exploratorului.",
+          "Moscheea dungană a fost construită fără a folosi cuie de metal.",
+          "Catedrala ortodoxă rusă este realizată integral din lemn.",
+          "Considerat poarta de acces pentru trekking în munții Tian Shan.",
+          "Piața de animale de duminică este una dintre cele mai mari din țară.",
+          "Situat la capătul estic al lacului alpin Issyk-Kul."
+        ],
+        "en": [
+          "Founded in 1869 as a Russian military outpost.",
+          "Long named Przhevalsk in honour of the famous explorer.",
+          "The Dungan Mosque was built entirely without metal nails.",
+          "The Russian Orthodox Cathedral is made completely of wood.",
+          "Gateway for hiking and mountaineering in the Tian Shan range.",
+          "The Sunday livestock market is one of the largest in the country.",
+          "Located at the eastern end of the alpine Lake Issyk-Kul."
+        ]
+      }
+    },
+    {
+      "id": "tokmok-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Liegt nahe der Ruinen der antiken Stadt Balasagun.",
+          "Der Burana-Turm aus dem 11. Jahrhundert ist das Wahrzeichen der Region.",
+          "Wurde 1864 als russische Festung am Fluss Tschu errichtet.",
+          "War im 19. Jahrhundert kurzzeitig das administrative Zentrum des Tals.",
+          "Die Stadt beherbergt eine bedeutende dunganische Gemeinschaft.",
+          "Ist ein Zentrum der Glasherstellung und Textilindustrie.",
+          "An klaren Tagen bietet sich ein Panoramablick auf die Kirgisische Kette."
+        ],
+        "hu": [
+          "Az ókori Balaszagun városának romjai közelében fekszik.",
+          "A 11. századi Burana-torony a régió legismertebb jelképe.",
+          "1864-ben alapították orosz erődként a Csu folyó partján.",
+          "A 19. században rövid ideig a völgy közigazgatási központja volt.",
+          "A városban jelentős dungán közösség él.",
+          "Az üveggyártás és a textilipar egyik fontos központja.",
+          "Tiszta napokon panorámás kilátás nyílik a Kirgiz-hegyláncra."
+        ],
+        "ro": [
+          "Situat lângă ruinele orașului antic Balasagun.",
+          "Turnul Burana din secolul al XI-lea este simbolul regiunii.",
+          "Fondat în 1864 ca fortăreață rusă pe malul râului Chu.",
+          "A fost pentru scurt timp centrul administrativ al văii în secolul XIX.",
+          "Orașul găzduiește o comunitate dungană semnificativă.",
+          "Este un centru al producției de sticlă și al industriei textile.",
+          "În zilele senine, oferă o vedere panoramică spre lanțul kârgâz."
+        ],
+        "en": [
+          "Located near the ruins of the ancient city of Balasagun.",
+          "The 11th-century Burana Tower is the region's landmark.",
+          "Established in 1864 as a Russian fort on the Chu River.",
+          "Briefly served as the valley's administrative centre in the 19th century.",
+          "The city is home to a significant Dungan community.",
+          "A hub for glass manufacturing and the textile industry.",
+          "Offers panoramic views of the Kyrgyz Range on clear days."
+        ]
+      }
+    },
+    {
+      "id": "kara-balta-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Der Name bedeutet 'Schwarze Axt' auf Kirgisisch.",
+          "War ein strategisches Zentrum der Uranverarbeitung in der UdSSR.",
+          "Liegt an der Kreuzung der Autobahnen nach Osch und Taschkent.",
+          "Die Stadt beherbergt eine der größten Goldaffinerien des Landes.",
+          "Hat eine bedeutende russische und ukrainische Bevölkerungsminderheit.",
+          "Wirtschaftlich geprägt durch Zucker- und Lebensmittelindustrie.",
+          "Gilt als westliches Tor zum fruchtbaren Tschüi-Tal."
+        ],
+        "hu": [
+          "A neve kirgizül 'fekete fejszét' jelent.",
+          "A Szovjetunió egyik stratégiai uránfeldolgozó központja volt.",
+          "Az Os és Taskent felé vezető autópályák kereszteződésében fekszik.",
+          "Itt található az ország egyik legnagyobb aranyfinomítója.",
+          "Jelentős orosz és ukrán kisebbség él a városban.",
+          "Gazdaságát a cukor- és élelmiszeripar határozza meg.",
+          "A termékeny Csüi-völgy nyugati kapujának tekintik."
+        ],
+        "ro": [
+          "Numele înseamnă 'Toporul Negru' în limba kârgâză.",
+          "A fost un centru strategic de procesare a uraniului în URSS.",
+          "Situat la intersecția autostrăzilor către Osh și Tașkent.",
+          "Găzduiește una dintre cele mai mari rafinării de aur din țară.",
+          "Are o minoritate semnificativă de populație rusă și ucraineană.",
+          "Economia este dominată de industria zahărului și alimentară.",
+          "Considerat poarta de vest către fertila Vale Chuy."
+        ],
+        "en": [
+          "The name means 'Black Axe' in the Kyrgyz language.",
+          "Was a strategic centre for uranium processing in the USSR.",
+          "Located at the junction of highways to Osh and Tashkent.",
+          "Home to one of the country's largest gold refineries.",
+          "Has a significant Russian and Ukrainian minority population.",
+          "The economy is driven by the sugar and food industries.",
+          "Considered the western gateway to the fertile Chuy Valley."
+        ]
+      }
+    },
+    {
+      "id": "naryn-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Ist die höchstgelegene Provinzhauptstadt Kirgisistans (2020 m).",
+          "Wurde 1868 als russische Garnison an der Seidenstraße gegründet.",
+          "Der Naryn-Fluss teilt die Stadt in zwei Hälften.",
+          "Ist bekannt für extrem kalte Winter mit bis zu -40 Grad.",
+          "Beherbergt einen Campus der University of Central Asia.",
+          "Die Stadt ist fast 15 km lang, aber oft nur wenige hundert Meter breit.",
+          "Ein wichtiger Stützpunkt für den Grenzhandel mit China."
+        ],
+        "hu": [
+          "Kirgizisztán legmagasabban fekvő tartományi székhelye (2020 m).",
+          "1868-ban alapították orosz helyőrségként a Selyemút mentén.",
+          "A Narin folyó szeli ketté a várost.",
+          "Híres a rendkívül hideg teleiről, a hőmérséklet a -40 fokot is elérheti.",
+          "Itt található a Közép-ázsiai Egyetem egyik kampusza.",
+          "A város közel 15 km hosszú, de gyakran csak pár száz méter széles.",
+          "A Kínával folytatott határmenti kereskedelem fontos bázisa."
+        ],
+        "ro": [
+          "Este cea mai înaltă capitală provincială din Kârgâzstan (2020 m).",
+          "Fondat în 1868 ca garnizoană rusă pe Drumul Mătăsii.",
+          "Râul Naryn împarte orașul în două jumătăți.",
+          "Renumit pentru ierni extrem de reci, de până la -40 de grade.",
+          "Găzduiește un campus al Universității din Asia Centrală.",
+          "Orașul are aproape 15 km lungime, dar lățimea este de doar sute de metri.",
+          "O bază importantă pentru comerțul de frontieră cu China."
+        ],
+        "en": [
+          "The highest provincial capital in Kyrgyzstan (2020 m).",
+          "Founded in 1868 as a Russian garrison on the Silk Road.",
+          "The Naryn River divides the city into two halves.",
+          "Known for extremely cold winters, reaching down to -40 degrees.",
+          "Home to a campus of the University of Central Asia.",
+          "The town is nearly 15 km long but often only a few hundred metres wide.",
+          "A key base for cross-border trade with China."
+        ]
+      }
+    },
+    {
+      "id": "uzgen-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "War im 11. Jahrhundert die Hauptstadt des Karachaniden-Reiches.",
+          "Besitzt drei perfekt erhaltene Mausoleen aus dem Mittelalter.",
+          "Das Minarett von Ösgön ist eines der ältesten des Landes.",
+          "Ist berühmt für die Produktion von rotem Devsira-Reis.",
+          "Blickt auf eine über 2000-jährige Geschichte zurück.",
+          "Die Mehrheit der Bevölkerung gehört der usbekischen Minderheit an.",
+          "Liegt am Ufer des Flusses Karadarja im Ferganatal."
+        ],
+        "hu": [
+          "A 11. században a Karahánida Birodalom fővárosa volt.",
+          "Három tökéletesen megőrzött középkori mauzóleummal rendelkezik.",
+          "Az özgöni minaret az ország egyik legrégebbi ilyen építménye.",
+          "Híres a vörös devszira rizs termesztéséről.",
+          "Több mint 2000 éves múltra tekint vissza.",
+          "A lakosság többsége az üzbég kisebbséghez tartozik.",
+          "A Karadarja folyó partján fekszik a Fergana-völgyben."
+        ],
+        "ro": [
+          "A fost capitala Imperiului Karakhanid în secolul al XI-lea.",
+          "Are trei mausolee medievale perfect conservate.",
+          "Minaretul din Uzgen este unul dintre cele mai vechi din țară.",
+          "Renumit pentru producția de orez roșu Devsira.",
+          "Are o istorie care se întinde pe mai mult de 2000 de ani.",
+          "Majoritatea populației aparține minorității uzbece.",
+          "Situat pe malul râului Karadarja, în Valea Fergana."
+        ],
+        "en": [
+          "Served as the capital of the Karakhanid Empire in the 11th century.",
+          "Features three perfectly preserved medieval mausoleums.",
+          "The Uzgen Minaret is one of the oldest in the country.",
+          "Famous for the production of red Devzira rice.",
+          "Boasts a history stretching back over 2000 years.",
+          "The majority of the population belongs to the Uzbek minority.",
+          "Located on the banks of the Kara Darya River in the Fergana Valley."
+        ]
+      }
+    },
+    {
+      "id": "balykchy-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Der Name bedeutet wörtlich 'Fischer' auf Kirgisisch.",
+          "Ist der Endpunkt der einzigen Eisenbahnlinie von Bischkek.",
+          "War zu Sowjetzeiten ein wichtiges Industrie- und Fischereizentrum.",
+          "Hieß von 1954 bis 1989 Rybatschje.",
+          "Liegt am windigen Westufer des Yssykköl-Sees.",
+          "Dient als wichtiger Verkehrsknotenpunkt für das gesamte Seegebiet.",
+          "War während der UdSSR ein Trockendock für Schiffstests."
+        ],
+        "hu": [
+          "A neve kirgizül szó szerint 'halászt' jelent.",
+          "A Biskekből induló egyetlen vasútvonal végállomása.",
+          "A szovjet érában fontos ipari és halászati központ volt.",
+          "1954 és 1989 között a Ribacsje nevet viselte.",
+          "Az Iszik-köl tó szeles nyugati partján fekszik.",
+          "Fontos közlekedési csomópont a teljes tóvidék számára.",
+          "A Szovjetunió idején hajókísérleti szárazdokk működött itt."
+        ],
+        "ro": [
+          "Numele înseamnă literal 'pescar' în limba kârgâză.",
+          "Este punctul terminus al singurei linii ferate din Bishkek.",
+          "A fost un centru industrial și de pescuit major în epoca sovietică.",
+          "A purtat numele Rybachye între 1954 și 1989.",
+          "Situat pe malul vestic, bătut de vânturi, al lacului Issyk-Kul.",
+          "Servește ca nod vital de transport pentru întreaga regiune a lacului.",
+          "În perioada URSS, a găzduit un doc uscat pentru testarea navelor."
+        ],
+        "en": [
+          "The name literally means 'fisherman' in Kyrgyz.",
+          "The terminus of the only railway line from Bishkek.",
+          "Was a major industrial and fishing hub in Soviet times.",
+          "Named Rybachye from 1954 to 1989.",
+          "Located on the windy western shore of Lake Issyk-Kul.",
+          "Serves as a vital transport junction for the entire lake region.",
+          "During the USSR era, it hosted a dry dock for ship testing."
+        ]
+      }
+    },
+    {
+      "id": "talas-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Gilt als Heimat des legendären kirgisischen Helden Manas.",
+          "Das Mausoleum von Manas (Gumbez) ist die wichtigste heilige Stätte.",
+          "Ist das Zentrum der kirgisischen Bohnenproduktion für den Export.",
+          "Schauplatz der historischen Schlacht am Talas im Jahr 751.",
+          "Liegt isoliert durch hohe Gebirgsketten vom Rest des Landes.",
+          "Wurde 1877 als Dorf Dmitrowskoje von russischen Siedlern gegründet.",
+          "Das Tal wird vom Fluss Talas bewässert, der im Alatau entspringt."
+        ],
+        "hu": [
+          "A legendás kirgiz hős, Manasz otthonának tekintik.",
+          "A Manasz-mauzóleum (Gumbez) a régió legfontosabb szent helye.",
+          "A kirgiz exportra szánt babtermelés központja.",
+          "A 751-es történelmi talaszi csata helyszíne.",
+          "Magas hegyláncok választják el az ország többi részétől.",
+          "1877-ben alapították Dmitrovszkoje néven orosz telepesek.",
+          "A völgyet az Alatau-hegységben eredő Talasz folyó öntözi."
+        ],
+        "ro": [
+          "Considerat casa legendarului erou kârgâz Manas.",
+          "Mausoleul lui Manas (Gumbez) este cel mai important loc sacru.",
+          "Centrul producției de fasole pentru export din Kârgâzstan.",
+          "Locul bătăliei istorice de la Talas din anul 751.",
+          "Izolat de restul țării prin lanțuri muntoase înalte.",
+          "Fondat în 1877 sub numele Dmitrovskoe de coloniști ruși.",
+          "Valea este irigată de râul Talas, care izvorăște în Alatau."
+        ],
+        "en": [
+          "Considered the home of the legendary Kyrgyz hero Manas.",
+          "The Manas Mausoleum (Gumbez) is the most important sacred site.",
+          "Centre of Kyrgyz bean production for international export.",
+          "Site of the historic Battle of Talas in the year 751.",
+          "Isolated from the rest of the country by high mountain ranges.",
+          "Founded in 1877 as Dmitrovskoye by Russian settlers.",
+          "The valley is watered by the Talas River, which rises in the Alatau."
+        ]
+      }
+    }
+  ]
+}

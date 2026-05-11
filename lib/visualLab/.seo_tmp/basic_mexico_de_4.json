@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Die größte Insel Mexikos im Golf von Kalifornien, die ein Schutzgebiet für die Seri-Indigenen ist.",
+      "facts": ["Größte Insel Mexikos", "Golf von Kalifornien", "Schutzgebiet der Seri"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "Eine geschützte Inselgruppe bei Puerto Vallarta, berühmt für den versteckten Strand 'Playa del Amor'.",
+      "facts": ["Nähe Puerto Vallarta", "Playa del Amor", "Vogelschutzgebiet"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Ein unbewohntes Naturschutzgebiet nördlich von Isla Mujeres, ein wichtiger Nistplatz für Seevögel.",
+      "facts": ["Nördlich von Isla Mujeres", "Vogel-Paradies", "Begrenzte Besucherzahl"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "Die berühmten Agavenfelder in Jalisco, die als Ursprungsort der Tequila-Produktion zum Weltkulturerbe gehören.",
+      "facts": ["Jalisco-Region", "Tequila-Ursprung", "UNESCO-Weltkulturerbe"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "Mexikos bedeutendste Weinregion in Baja California, bekannt für erstklassige Weingüter.",
+      "facts": ["Baja California", "Weinbaugebiet", "Gastronomisches Zentrum"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "Traditionsreiche Region für den Kaffeeanbau in den Hochländern von Veracruz.",
+      "facts": ["Veracruz", "Kaffeeanbau", "Hochland-Region"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Eine bedeutende Region für den biologischen Kaffeeanbau im grünen Hochland von Chiapas.",
+      "facts": ["Chiapas", "Bio-Kaffee", "Bergige Landschaft"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Das Zentrum der traditionellen Mezcal-Produktion aus verschiedenen Agavensorten in Oaxaca.",
+      "facts": ["Oaxaca", "Mezcal-Produktion", "Traditionelle Agaven"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Die weltweit wichtigste Anbauregion für Avocados, besonders um die Stadt Uruapan.",
+      "facts": ["Michoacán", "Avocado-Hauptstadt", "Weltweite Exporte"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Ein bedeutendes Anbaugebiet für Mangos in der fruchtbaren Küstenebene von Sinaloa.",
+      "facts": ["Sinaloa", "Mango-Anbau", "Fruchtbare Küstenebene"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-gasparillo-cities-v2",
+      "description": "Gasparillo ist eine Stadt in der Region Couva-Tabaquite-Talparo im Zentrum von Trinidad. Sie ist bekannt als lebendiges Wohngebiet mit einer gut ausgebauten lokalen Infrastruktur.",
+      "facts": ["Region: Couva-Tabaquite-Talparo", "Wohnortnahes Zentrum", "Zentraltrinidad gelegen"]
+    },
+    {
+      "id": "tt-guayaguayare-cities-v2",
+      "description": "Guayaguayare liegt an der südöstlichsten Spitze von Trinidad und ist eines der ältesten Fischerdörfer der Insel. Die Region ist historisch und wirtschaftlich durch die Ölindustrie geprägt.",
+      "facts": ["Südöstlichste Spitze", "Historisches Fischerdorf", "Ölindustrie-Region"]
+    },
+    {
+      "id": "tt-manzanilla-cities-v2",
+      "description": "Manzanilla ist vor allem für seinen kilometerlangen, von Palmen gesäumten Strand an der Ostküste bekannt. Es ist ein beliebtes Ziel für Naturliebhaber und Erholungssuchende.",
+      "facts": ["Ostküstenlage", "Langer Palmenstrand", "Naturnahes Gebiet"]
+    },
+    {
+      "id": "tt-dabadie-cities-v2",
+      "description": "Dabadie ist ein schnell wachsender Vorort in der Nähe von Port of Spain. Das Gebiet dient primär als Wohn- und Geschäftszone für Pendler in das urbane Zentrum.",
+      "facts": ["Vorort von Port of Spain", "Wohn- und Geschäftszone", "Pendlerregion"]
+    },
+    {
+      "id": "tt-erin-cities-v2",
+      "description": "Erin liegt im Südwesten von Trinidad und ist eine ländlich geprägte Region. Das Gebiet ist stark mit der Geschichte der Ölförderung und dem landwirtschaftlichen Erbe verbunden.",
+      "facts": ["Südwest-Region", "Ländlicher Charakter", "Ölförderungshistorie"]
+    },
+    {
+      "id": "tt-morne-quinton-cities-v2",
+      "description": "Morne Quinton ist ein kleineres Siedlungsgebiet, das sich durch seine hügelige Lage auszeichnet. Es bietet einen ruhigen Rückzugsort abseits der größeren städtischen Zentren.",
+      "facts": ["Hügelige Lage", "Ruhiges Siedlungsgebiet", "Außerhalb von Großstädten"]
+    },
+    {
+      "id": "tt-belle-garden-cities-v2",
+      "description": "Belle Garden ist eine malerische Siedlung auf der Insel Tobago. Die Region ist landwirtschaftlich geprägt und für ihre grüne, tropische Umgebung bekannt.",
+      "facts": ["Insel Tobago", "Landwirtschaft geprägt", "Tropische Umgebung"]
+    },
+    {
+      "id": "tt-castara-cities-v2",
+      "description": "Castara ist ein beliebtes Fischerdorf an der Nordküste von Tobago. Es zieht Besucher durch seine authentische Atmosphäre und den direkten Zugang zu schönen Buchten an.",
+      "facts": ["Tobago Nordküste", "Authentisches Fischerdorf", "Schöne Buchten"]
+    },
+    {
+      "id": "tt-glamis-cities-v2",
+      "description": "Glamis ist ein kleineres, lokales Siedlungsgebiet auf Trinidad. Es zeichnet sich durch eine Gemeinschaft aus, die eng mit der lokalen Landwirtschaft verbunden ist.",
+      "facts": ["Kleines Siedlungsgebiet", "Landwirtschaftliche Verbundenheit", "Lokale Gemeinschaft"]
+    },
+    {
+      "id": "tt-brasso-cities-v2",
+      "description": "Brasso liegt in einer hügeligen Region im Zentrum von Trinidad. Die Gegend ist bekannt für ihre üppige Vegetation und ihre historische Bedeutung für den Kakaoanbau.",
+      "facts": ["Zentrum von Trinidad", "Hügelige Landschaft", "Historischer Kakaoanbau"]
+    }
+  ]
+}

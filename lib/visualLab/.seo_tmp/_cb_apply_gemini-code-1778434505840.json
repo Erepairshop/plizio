@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "soma-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Soma ist eine strategisch wichtige Stadt im Distrikt Jarra West der Lower River Region in Gambia. Ihre Bedeutung verdankt sie primär ihrer Lage am Schnittpunkt des Trans-Gambia Highway und der South Bank Road, den beiden wichtigsten Verkehrsachsen des Landes. Lange Zeit war Soma der unverzichtbare Versorgungspunkt für Reisende und LKW-Fahrer, die den Gambia-Fluss mit der Fähre bei Yelitenda überqueren mussten. Seit der Eröffnung der Senegambia-Brücke im Jahr 2019 hat sich der Charakter der Stadt gewandelt; der Transitverkehr fließt nun schneller, doch Soma bleibt ein geschäftiges Handelszentrum. Die Stadt dient als wichtiger Marktort für landwirtschaftliche Erzeugnisse aus der Umgebung, insbesondere für Erdnüsse, Hirse und Vieh. Die Infrastruktur umfasst zahlreiche kleine Werkstätten, Lagerhäuser und einfache Unterkünfte, die auf den Durchgangsverkehr spezialisiert sind. Für die lokale Ökonomie ist Soma der Motor der Lower River Region, da sie ländliche Produzenten mit den Märkten im Großraum Banjul und in den Senegal verbindet. Das Stadtbild ist geprägt von einer lebhaften, staubigen Atmosphäre, die typisch für westafrikanische Verkehrsknotenpunkte ist, wobei das tägliche Leben eng mit dem Rhythmus des Fernverkehrs verknüpft bleibt.",
+        "hu": "Soma Gambia egyik legfontosabb közlekedési csomópontja, amely a Lower River régióban, Jarra West körzetben található. A város fekvése stratégiai: itt keresztezi egymást a Transz-Gambia autópálya és a déli parti főút (South Bank Road), így Soma megkerülhetetlen állomás mindenki számára, aki az országon belül vagy Szenegál északi és déli része között utazik. Évtizedekig a város gazdasága a kompátkelésre váró utasok és teherautók kiszolgálására épült, ám a közeli Szenegambia-híd 2019-es megnyitása után a forgalom dinamikája felgyorsult. Soma ma is vibráló kereskedelmi központ, ahol a környékbeli gazdák értékesítik terményeiket, például a földimogyorót és a gabonaféléket. A település fontos logisztikai bázis, ahol számos javítóműhely, raktár és kisebb vendéglátóhely működik. A város társadalmi szövetét a különböző etnikai csoportok, leginkább a mandinkák és fulák alkotják, akiknek kereskedelmi vénája meghatározza az utcák hangulatát. Az utazók számára Soma a vidéki Gambia egyik legforgalmasabb pontja, ahol testközelből tapasztalható meg a nyugat-afrikai áruforgalom és a határmenti gazdaság lüktetése.",
+        "ro": "Soma este un nod vital de transport și un centru comercial strategic situat în regiunea Lower River din Gambia, în districtul Jarra West. Orașul ocupă o poziție privilegiată la intersecția autostrăzii Trans-Gambia cu drumul principal de pe malul sudic (South Bank Road), fiind un punct de tranzit obligatoriu pentru traficul dintre nordul și sudul Senegalului, precum și pentru rutele interne gambiene. Timp de decenii, viața în Soma a gravitat în jurul serviciului de feribot de la Yelitenda, însă inaugurarea Podului Senegambia în 2019 a transformat orașul dintr-o zonă de așteptare într-un hub logistic modern și rapid. Soma funcționează ca piață regională principală pentru cereale și arahide, colectând producția agricolă din satele învecinate. Economia locală este susținută de numeroase întreprinderi mici, de la ateliere mecanice la unități de procesare a alimentelor. Din punct de vedere urbanistic, Soma este un oraș liniar, dezvoltat de-a lungul axelor rutiere, oferind o imagine autentică a dinamismului comercial vest-african. Pentru Gambia, Soma reprezintă o verigă esențială în integrarea economică regională și un pilon de stabilitate pentru aprovizionarea provinciei. Diversitatea etnică, în special prezența comunităților Mandinka și Fula, conferă orașului un caracter cosmopolit rural unic.",
+        "en": "Soma is a pivotal transport hub and commercial gateway located in the Jarra West District of the Lower River Region in The Gambia. Its strategic significance is derived from its location at the crucial crossroads of the Trans-Gambia Highway and the South Bank Road, the nation's two most important land arteries. For many years, Soma was the essential staging post for travelers and heavy freight waiting to cross the Gambia River at the Yelitenda ferry. With the 2019 opening of the Senegambia Bridge nearby, the town has transitioned into a high-speed logistics node while maintaining its status as a major regional trading center. The local economy thrives on the trade of agricultural commodities, specifically peanuts, millet, and livestock, which are gathered from the surrounding hinterland. Soma's infrastructure is characterized by a high density of mechanical workshops, warehouses, and roadside services catering to cross-border transit. It serves as a vital economic link connecting rural farmers to the urban markets of Greater Banjul and international trade routes into Senegal. The town’s atmosphere is industrious and energetic, reflecting the resilience and entrepreneurial spirit of its diverse population, predominantly Mandinka and Fula. For any traveler exploring the Gambian interior, Soma remains an unavoidable and vibrant landmark of regional connectivity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Soma liegt am strategischen Schnittpunkt des Trans-Gambia Highway und der South Bank Road.",
+          "Die Stadt ist das wirtschaftliche Zentrum der Lower River Region.",
+          "Seit der Eröffnung der Senegambia-Brücke 2019 fließt der Grenzverkehr direkt an Soma vorbei.",
+          "Ein großer Teil der Bevölkerung gehört zur Volksgruppe der Mandinka.",
+          "Soma beherbergt einen bedeutenden regionalen Markt für Vieh und Getreide.",
+          "Die Stadt ist ein wichtiger Stopp für Busse zwischen Banjul und Basse Santa Su."
+        ],
+        "hu": [
+          "Soma a Transz-Gambia autópálya és a déli parti út kereszteződésében fekszik.",
+          "A város gazdasága évtizedekig a közelben működő kompra épült.",
+          "Itt található a Lower River régió egyik legfontosabb középiskolája.",
+          "A település kulcsszerepet játszik a Szenegál és Gambia közötti tranzitkereskedelemben.",
+          "A helyi piacon kiemelkedő a kézzel készített szappanok és textíliák választéka.",
+          "Soma tengerszint feletti magassága mindössze 15-20 méter."
+        ],
+        "ro": [
+          "Soma este situat la aproximativ 180 km est de Banjul.",
+          "Inaugurarea Podului Senegambia în 2019 a redus timpii de tranzit prin oraș.",
+          "Orașul servește drept punct de colectare major pentru exportul de arahide.",
+          "Majoritatea transporturilor de marfă spre regiunea Casamance trec prin Soma.",
+          "Piața din Soma este renumită pentru produsele lactate proaspete furnizate de crescătorii Fula.",
+          "Infrastructura rutieră a fost modernizată recent pentru a suporta traficul greu."
+        ],
+        "en": [
+          "Soma is the primary commercial node connecting northern and southern Senegal via Gambia.",
+          "The town acts as the administrative and economic capital of Jarra West.",
+          "It is located only a few kilometers south of the landmark Senegambia Bridge.",
+          "Soma serves as a vital refueling and rest stop for long-distance truckers.",
+          "The weekly market (Lumo) attracts traders from across the border regions.",
+          "It is one of the fastest-growing towns in the Gambian interior."
+        ]
+      }
+    },
+    {
+      "id": "basse-santa-su-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Basse Santa Su, meist einfach Basse genannt, ist die östlichste Stadt Gambias und das administrative Zentrum der Upper River Region (URR). Geografisch liegt die Stadt am Südufer des Gambia-Flusses und fungiert seit über einem Jahrhundert als wichtigster Handelsposten des oberen Flusslaufs. Während der Kolonialzeit war Basse ein blühendes Zentrum des Erdnussexports, wovon noch heute einige verwitterte Lagerhäuser (Factoren) am Flussufer zeugen. Heute ist die Stadt das pulsierende Herz eines grenzüberschreitenden Handelsgebiets, das bis weit in den Senegal und nach Guinea hineinreicht. Die Eröffnung der modernen Basse-Wuli-Brücke im Jahr 2021 hat die Isolation des Nordufers beendet und die Stadt endgültig zu einem regionalen logistischen Kraftzentrum gemacht. Basse ist bekannt für seinen enormen Reichtum an kultureller Vielfalt, da hier Menschen der Volksgruppen Fula, Mandinka, Soninke und Wolof eng zusammenleben. Der Markt von Basse ist einer der geschäftigsten des Landes und ein Schmelztiegel der Sprachen und Waren. Neben dem Handel ist die Stadt ein wichtiges Bildungs- und Gesundheitszentrum für den Osten Gambias. Trotz der großen Entfernung zur Hauptstadt Banjul (ca. 370 km) hat Basse einen eigenständigen, dynamischen Charakter bewahrt. Für Besucher bietet die Stadt den authentischsten Einblick in das ländliche Leben am Oberlauf des Flusses, fernab der touristischen Küsteneinflüsse.",
+        "hu": "Basse Santa Su, közismert nevén egyszerűen Basse, Gambia legkeletibb városa és az Upper River régió közigazgatási központja. A város a Gambia-folyó déli partján fekszik, és több mint egy évszázada tölt be meghatározó szerepet a régió kereskedelmében. A gyarmati időkben Basse a földimogyoró-export egyik legfontosabb folyami kikötője volt, az egykori brit kereskedelmi állomások romjai ma is láthatók a vízparton. Napjainkban a város egy kiterjedt nemzetközi kereskedelmi hálózat központja, amely összeköti Gambiát Szenegállal és Guineával. A 2021-ben átadott Basse-Wuli híd történelmi jelentőségű, hiszen korábban csak lassú kompokkal lehetett átjutni az északi partra, ma viszont zavartalan az áruforgalom. Basse valódi kulturális olvasztótégely: a fula, mandinka, szoninke és wolof közösségek jelenléte gazdagítja a város mindennapjait. A helyi piac Gambia egyik legélénkebb helyszíne, ahol a textíliáktól a haszonállatokig minden megtalálható. A város nemcsak gazdasági, hanem oktatási csomópont is, számos középiskolának és szakképző intézménynek ad otthont. Bár Banjultól mintegy 370 kilométerre fekszik, Basse dinamikus fejlődése az ország egyik legfontosabb belső városává emelte. A látogatók számára a folyóparti naplemente és a hagyományos sárvályog építészet maradványai adják meg a város sajátos, patinás hangulatát.",
+        "ro": "Basse Santa Su, cunoscut în mod obișnuit sub numele de Basse, este cel mai mare oraș din estul Gambiei și reședința administrativă a regiunii Upper River. Situat pe malul sudic al fluviului Gambia, orașul a fost istoric un avanpost comercial crucial pentru exportul de arahide către Europa, vestigiile clădirilor coloniale victoriene de pe malul apei atestând această perioadă de prosperitate. În prezent, Basse reprezintă cel mai important centru de schimb transfrontalier din est, facilitând comerțul intens cu Senegal și Guineea. O realizare majoră recentă este construcția Podului Basse-Wuli, finalizat în 2021, care a înlocuit vechiul feribot și a deschis rute comerciale rapide către nordul fluviului. Din punct de vedere demografic, Basse este un mozaic etnic fascinant, fiind un bastion al culturii Fula și Soninke, ceea ce se reflectă în diversitatea lingvistică din marea sa piață centrală. Orașul joacă un rol vital în furnizarea de servicii publice, găzduind centre de sănătate și instituții de învățământ de referință pentru întreaga regiune de est. Deși se află la mare distanță de zona metropolitană a capitalei, Basse deține o influență economică semnificativă datorită poziției sale strategice la frontierele estice. Vizitarea orașului oferă o perspectivă rară asupra vieții tradiționale din bazinul superior al fluviului, unde tradiția navigației fluviale se întâlnește cu noile realități ale dezvoltării infrastructurii.",
+        "en": "Basse Santa Su, commonly referred to as Basse, is the easternmost city in The Gambia and the administrative capital of the Upper River Region (URR). Located on the south bank of the Gambia River, it has served as a primary trading post for the upper reaches of the waterway for over a century. During the colonial era, Basse was a major center for the groundnut (peanut) trade, with several historic merchant houses and riverfront wharves still standing as witnesses to its commercial past. Today, the town is the bustling heart of a cross-border trade network that extends deep into Senegal and Guinea. The inauguration of the landmark Basse-Wuli Bridge in 2021 has fundamentally ended the isolation of the North Bank, turning Basse into a premier regional logistics hub. The town is celebrated for its rich cultural diversity, being home to large communities of Fula, Mandinka, Soninke, and Wolof peoples. The Basse market is one of the most vibrant in the country, acting as a crossroads for languages, spices, and textiles. Beyond trade, the city is a critical center for health and education services for eastern Gambia. Despite being approximately 370 kilometers from the capital, Banjul, Basse retains an independent and dynamic character. For visitors, it offers the most authentic experience of rural Gambian life along the river, characterized by traditional architecture, riverine landscapes, and a deep-rooted sense of hospitality."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Basse Santa Su ist die östlichste größere Stadt in Gambia.",
+          "Die Stadt liegt etwa 370 Kilometer von der Hauptstadt Banjul entfernt.",
+          "Sie beherbergt die 2021 eingeweihte Basse-Wuli-Brücke über den Gambia-Fluss.",
+          "Historisch war Basse ein bedeutender 'River Port' für den Erdnusshandel.",
+          "Die Upper River Region wird administrativ von Basse aus geleitet.",
+          "Die Mehrheit der Bevölkerung gehört der Volksgruppe der Fula an."
+        ],
+        "hu": [
+          "Basse Gambia egyik legfontosabb folyami kereskedelmi központja.",
+          "A város és környéke híres a fula lovas hagyományokról.",
+          "Itt található az ország keleti részének legnagyobb kórháza.",
+          "A 2021-ben épült híd a város történetének legnagyobb beruházása volt.",
+          "Basse stratégiai közelségben van a szenegáli és guineai határhoz.",
+          "A város neve a 'Basse' (folyópart) és a 'Santa Su' (helyi alapító család) szavakból ered."
+        ],
+        "ro": [
+          "Basse este punctul terminus pentru majoritatea navelor comerciale fluviale.",
+          "Orașul a fost sediul unor importante case de negoț britanice și franceze.",
+          "Podul de la Basse este una dintre cele mai moderne infrastructuri din estul Africii de Vest.",
+          "Găzduiește anual un târg agricol regional de mare anvergură.",
+          "Clima este mai caldă și mai uscată decât în regiunile de coastă.",
+          "Localitatea este renumită pentru artizanii care prelucrează pielea de bovină."
+        ],
+        "en": [
+          "Basse is the major inland trading hub for the Upper River Region.",
+          "The town is a significant cultural center for the Fula and Soninke ethnic groups.",
+          "The Basse-Wuli Bridge provides the first permanent link to the north bank in the far east.",
+          "It serves as a primary logistical base for international aid organizations in the region.",
+          "The town's market is a key exchange point for cattle from neighboring Guinea.",
+          "Basse remains the primary destination for 'up-river' transport from Banjul."
+        ]
+      }
+    },
+    {
+      "id": "janjanbureh-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Janjanbureh, historisch bekannt als Georgetown, liegt auf MacCarthy Island im Gambia-Fluss und ist eine der geschichtsträchtigsten Städte des Landes. Gegründet wurde die Siedlung 1823 von den Briten als Zufluchtsort für befreite Sklaven und als administrativer Stützpunkt im Landesinneren. Die Stadt auf der Insel war über lange Zeit das Tor zum gambischen Hinterland und ein Zentrum der christlichen Missionierung und Bildung. Das Stadtbild ist geprägt von kolonialen Überresten, darunter die Ruinen des alten Gouverneurshauses und die erste methodistische Kirche Westafrikas. Janjanbureh ist heute vor allem für sein Engagement im Kulturtourismus bekannt; das jährliche Janjanbureh Kankurang Festival feiert das immaterielle UNESCO-Erbe des Kankurang-Maskenrituals der Mandinka. Geografisch ist die Lage auf der Insel einzigartig und bietet einen malerischen Blick auf den weiten Fluss, der hier oft von Flusspferden und seltenen Vögeln bevölkert wird. Obwohl die Stadt heute ruhiger ist als in ihrer Blütezeit als Handelszentrum, bleibt sie das geistige und historische Zentrum der Central River Region. Die Anbindung erfolgt über kleine Fähren oder die nahegelegene Brücke, was die isolierte, fast mystische Atmosphäre der Stadt bewahrt. Janjanbureh ist ein Ort der Stille und Besinnung, der die dunklen Kapitel des Sklavenhandels ebenso wie die Wurzeln der gambischen Unabhängigkeitsbewegung dokumentiert.",
+        "hu": "Janjanbureh, amely a gyarmati időkben Georgetown néven volt ismert, a Gambia-folyó egyik szigetén, a MacCarthy-szigeten fekszik, és az ország történelmi emlékezetének központja. A települést 1823-ban alapították a britek, eredetileg a felszabadított rabszolgák számára létrehozott menedékhelyként és katonai bázisként. Janjanbureh évtizedekig Gambia belső területeinek adminisztratív székhelye volt, és itt épültek fel az ország első nyugati típusú iskolái és templomai. A város építészete ma is őrzi a múlt nyomait: a vörös kőből emelt gyarmati épületek és a régi börtön romjai különleges atmoszférát árasztanak. A város egyik legfontosabb kulturális eseménye az éves Janjanbureh Kankurang Fesztivál, amely a mandinka nép rituális maszkos táncát mutatja be, amely az UNESCO szellemi világörökségének része. Földrajzi fekvése miatt a település gazdag élővilággal rendelkezik; a folyóparton gyakran látni vízilovakat és egzotikus madarakat. Bár a gazdasági súlypont ma már más városokba helyeződött át, Janjanbureh továbbra is a Central River régió szellemi központja marad. A szigetre való átkelés komppal vagy a modern hídon keresztül lehetséges, ami fokozza az elszigetelt, időtlen jelleget. A látogatók számára a város egyfajta élő múzeum, ahol Gambia múltja és hagyományai minden sarkon érezhetők.",
+        "ro": "Janjanbureh, cunoscut istoric sub numele de Georgetown, este situat pe Insula MacCarthy în mijlocul fluviului Gambia, fiind unul dintre cele mai vechi și mai fascinante așezări din țară. Fondat în 1823 de britanici, orașul a servit ca refugiu pentru sclavii eliberați și ca un punct strategic de control în interiorul continentului. Janjanbureh a fost timp de un secol „capitala de facto” a hinterlandului gambian, fiind un centru pionier pentru educația occidentală și misiunile creștine. Arhitectura orașului păstrează un aer nostalgic, cu ruine ale depozitelor de marfă din secolul al XIX-lea și clădiri administrative coloniale din piatră de laterită. Astăzi, orașul este renumit pentru conservarea tradițiilor locale, găzduind celebrul Festival Kankurang, dedicat unei figuri mitice protectoare din cultura Mandinka, recunoscută de UNESCO. Insula pe care se află orașul oferă un peisaj fluvial de o frumusețe rară, fiind un punct excelent pentru observarea faunei sălbatice, inclusiv a crocodililor și hipopotamilor. Janjanbureh și-a pierdut rolul comercial dominant în favoarea orașului Bansang, dar a rămas un simbol al rezilienței și al identității istorice gambiene. Accesul pe insulă se face prin intermediul unui serviciu de feribot tradițional sau prin podul din apropiere, menținând un ritm de viață liniștit, propice turismului cultural. Este o destinație obligatorie pentru cei care doresc să înțeleagă complexitatea istoriei Gambiei, de la epoca sclaviei la independență.",
+        "en": "Janjanbureh, historically known as Georgetown, is located on MacCarthy Island in the Gambia River and is one of the most historically significant towns in the nation. Founded by the British in 1823 as a sanctuary for liberated slaves and a strategic administrative outpost in the interior, the town served for decades as the gateway to the upper reaches of the colony. Janjanbureh was a pioneer in Western education and Christian missionary work in the region, housing the first Methodist church in West Africa. The town’s landscape is dotted with colonial-era relics, including red stone ruins of trade houses and the old governor's residence. Today, Janjanbureh is a major center for cultural tourism, famous for hosting the annual Janjanbureh Kankurang Festival, which celebrates the UNESCO-listed intangible heritage of the Mandinka masking tradition. Geographically, its island setting offers a unique and picturesque environment, with the river banks providing sightings of hippos and diverse birdlife. While it has become quieter than during its peak as a trade hub, it remains the intellectual and historical heart of the Central River Region. Accessible by ferry or bridge, the town retains an isolated, almost mystical atmosphere that stands in contrast to the busier mainland towns. Janjanbureh acts as a living museum, preserving both the painful legacy of the slave trade and the cultural pride of the Gambian people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Janjanbureh liegt auf MacCarthy Island, einer Insel mitten im Gambia-Fluss.",
+          "Die Stadt wurde 1823 gegründet und ist eine der ältesten britischen Siedlungen.",
+          "Hier findet jährlich das Kankurang Festival statt, ein UNESCO-Weltkulturerbe.",
+          "Die Stadt war früher Sitz des kolonialen Distrikt-Kommissars.",
+          "Es gibt mehrere historische Gebäude aus rotem Lateritstein zu besichtigen.",
+          "Die Stadt ist ein Zentrum für Vogelbeobachtungen in Gambia."
+        ],
+        "hu": [
+          "A város eredeti neve Georgetown volt, 1995-ben nevezték át Janjanburehre.",
+          "Itt található Gambia legrégebbi, 1823-ban alapított iskolája.",
+          "A sziget a folyó egyik legmélyebb szakaszán helyezkedik el.",
+          "A Kankurang-rituálé a beavatási szertartások védelmező alakját idézi meg.",
+          "Janjanbureh fontos rabszolga-felszabadító központ volt a 19. században.",
+          "A város környékén gyakran láthatók a folyóban úszó vízilovak."
+        ],
+        "ro": [
+          "Insula MacCarthy are o lungime de aproximativ 10 kilometri.",
+          "Janjanbureh a fost primul loc unde s-au stabilit 'Liberated Africans' în Gambia.",
+          "Arhitectura de piatră este specifică stilului colonial de frontieră.",
+          "Festivalul Kankurang atrage mii de turiști și antropologi în fiecare ianuarie.",
+          "Biserica Metodistă din Janjanbureh datează din prima jumătate a secolului XIX.",
+          "Orașul este administrat de un șef de district (Chief) care păstrează autoritatea tradițională."
+        ],
+        "en": [
+          "Janjanbureh was the main up-river administrative center during British rule.",
+          "The town is a hub for eco-tourism due to the surrounding riverine forest.",
+          "It was named Janjanbureh after two local figures, Janjan and Bureh.",
+          "The island was formerly known as Lemain Island before its purchase in 1823.",
+          "The town features an ancient underground 'Slave House' ruin (debated history).",
+          "It is the spiritual capital of the Central River Region."
+        ]
+      }
+    },
+    {
+      "id": "bansang-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bansang ist eine dynamische Marktstadt am Südufer des Gambia-Flusses in der Central River Region. Obwohl Janjanbureh das historische Zentrum der Region ist, hat Bansang dieses längst als wirtschaftlicher Motor überholt. Die Stadt ist vor allem für zwei Dinge bekannt: ihren lebhaften Handel und das Bansang Hospital, das als wichtigstes medizinisches Referenzzentrum für den gesamten Osten Gambias fungiert. Die Lage am Fluss machte Bansang früher zu einem wichtigen Binnenhafen für die Verschiffung von Erdnüssen, doch heute dominiert der Straßenhandel. Der Markt von Bansang ist täglich Schauplatz für den Austausch von Waren aus den umliegenden Dörfern und dem benachbarten Senegal. Geografisch liegt die Stadt in einer fruchtbaren Ebene, die für den Reisanbau in den nahegelegenen Sümpfen genutzt wird. Das Stadtbild ist geschäftig und weniger auf den Tourismus ausgerichtet als andere Orte am Fluss, was Bansang einen sehr authentischen gambischen Charakter verleiht. Die Bevölkerung ist eine bunte Mischung aus verschiedenen Ethnien, was die Stadt zu einem sozialen Knotenpunkt macht. Für Reisende ist Bansang ein wichtiger Versorgungsort auf der Route nach Basse Santa Su. Die Stadt verkörpert den modernen, pragmatischen Fortschritt im ländlichen Gambia und ist ein unverzichtbarer Pfeiler der regionalen Infrastruktur.",
+        "hu": "Bansang egy pezsgő kereskedőváros a Gambia-folyó déli partján, a Central River régióban. Míg a közeli Janjanbureh a történelemről szól, Bansang a régió valódi gazdasági motorja és szolgáltató központja. A város két legfontosabb intézménye a hatalmas helyi piac és a Bansang Kórház, amely az ország keleti részének legfontosabb egészségügyi intézménye, több százezer ember ellátásáért felelve. A település egykor virágzó folyami kikötő volt, ahol a földimogyorót hajókra rakták, ma azonban a közúti áruszállítás és a kiskereskedelem dominál. Bansang piaca híres a friss mezőgazdasági terményekről, különösen a környékbeli mocsarakban termesztett rizsről. A város társadalmi élete rendkívül aktív, a lakosság nagy része kereskedelemből vagy szolgáltatásokból él. A városkép kaotikusabb és modernebb, mint a történelmi Georgetowné, tükrözve a gyors urbanizációt és a vidéki fejlődést. A különböző etnikai csoportok, mint a mandinkák, fulák és wolofok harmonikus együttélése jellemzi a mindennapokat. Az utazók számára Bansang fontos megállóhely, ahol minden alapvető szolgáltatás megtalálható. A város jól szemlélteti Gambia belső vidékeinek átalakulását egy hagyományos folyami társadalomból egy modern kereskedelmi csomóponttá.",
+        "ro": "Bansang este un oraș comercial efervescent situat pe malul sudic al fluviului Gambia, în regiunea Central River. Deși aflat la mică distanță de orașul istoric Janjanbureh, Bansang s-a impus ca principalul pol economic și de servicii al zonei centrale. Reputația orașului se bazează în mare parte pe Spitalul Bansang, o instituție medicală de referință fondată în perioada colonială, care deservește astăzi întreg estul țării. Din punct de vedere economic, Bansang este inima comerțului regional, piața sa fiind un punct de colectare major pentru cereale și produse de subzistență. Istoric, localitatea a fost un port fluvial activ pentru transportul alunelor de pământ, rol care a evoluat astăzi spre logistica rutieră. Relieful din jurul orașului este caracterizat prin câmpii inundabile fertile, unde cultivarea orezului reprezintă o activitate agricolă de bază pentru comunitățile locale. Bansang este un amestec demografic vibrant, oferind o imagine clară a urbanizării rurale din Gambia contemporană. Orașul nu este orientat spre turismul de masă, ceea ce îi conferă o autenticitate aparte, fiind locul unde vizitatorii pot observa direct dinamica vieții cotidiene gambiene. Pentru rețeaua națională de transport, Bansang rămâne o haltă strategică pe drumul principal spre Basse Santa Su, simbolizând progresul și reziliența comunităților din interiorul țării.",
+        "en": "Bansang is a dynamic market town located on the south bank of the Gambia River in the Central River Region. While Janjanbureh holds the historical weight of the region, Bansang has long surpassed it as the primary economic and service engine. The town is most famous for its bustling trade and the Bansang Hospital, which serves as the most critical medical referral center for the entire eastern half of The Gambia. Its riverside location once made it a major inland port for shipping groundnuts, but today it is defined by a thriving road-based commerce. The Bansang market is a daily hub for the exchange of produce, livestock, and imported goods from across the region and neighboring Senegal. Geographically, the town is situated in a fertile plain, with nearby wetlands heavily utilized for large-scale rice cultivation. The townscape is industrious and practical, offering a more unfiltered view of Gambian life than the more tourist-oriented sites along the river. Its population is a vibrant mosaic of ethnic groups, making it a key social node in the interior. For travelers, Bansang provides essential services and supplies on the long journey toward Basse Santa Su. It embodies the modern, pragmatic growth of rural Gambia and remains an indispensable pillar of the country's regional health and economic infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bansang beherbergt das wichtigste Krankenhaus im Landesinneren Gambias.",
+          "Die Stadt ist ein zentraler Handelsplatz für die Central River Region.",
+          "Früher war Bansang ein bedeutender Exporthafen für Erdnüsse.",
+          "In den Sümpfen um Bansang wird großflächig Reis angebaut.",
+          "Die Stadt liegt etwa 80 Kilometer westlich von Basse Santa Su.",
+          "Der Wochenmarkt (Lumo) von Bansang zieht Händler aus dem Senegal an."
+        ],
+        "hu": [
+          "A Bansang Kórházat 1938-ban alapították a britek.",
+          "A város Gambia egyik legfontosabb rizstermesztő övezetének központja.",
+          "Bansang népessége gyorsabban nő, mint a szomszédos Janjanburehé.",
+          "A folyóparti rakpartokon még ma is láthatók a régi mogyoróraktárak.",
+          "A város fontos oktatási központ, több szakiskolával rendelkezik.",
+          "Itt található a régió legforgalmasabb közúti közlekedési csomópontja."
+        ],
+        "ro": [
+          "Spitalul Bansang este renumit pentru programul său de formare a moașelor.",
+          "Relieful orașului este dominat de apropierea de brațele secundare ale fluviului.",
+          "Bansang a depășit Janjanbureh ca populație în ultimele decenii.",
+          "Orașul are o conexiune rutieră excelentă cu restul țării prin South Bank Road.",
+          "Comunitățile de pescari locale aprovizionează piața cu pește proaspăt de apă dulce.",
+          "Este un centru major pentru distribuția semințelor de arahide către fermieri."
+        ],
+        "en": [
+          "Bansang Hospital is the largest healthcare facility outside of the Banjul area.",
+          "The town serves as a primary hub for the regional rice value chain.",
+          "It is located in the Fulladu West district of the Central River Region.",
+          "Bansang was a key stop for the historical river steamer service.",
+          "The town acts as a strategic gateway for the inland trade with Senegal.",
+          "It features some of the most active artisanal cooperatives in the region."
+        ]
+      }
+    },
+    {
+      "id": "barra-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Barra, historisch als Niumi bekannt, ist eine bedeutende Hafenstadt am Nordufer der Mündung des Gambia-Flusses, direkt gegenüber der Hauptstadt Banjul. Die Stadt ist der wichtigste logistische Knotenpunkt für das gesamte Nordufer Gambias und das Tor nach Senegal. Ihre Geschichte ist eng mit dem Königreich Niumi verknüpft, das einst den Handel am Flusseingang kontrollierte. Ein bleibendes Zeugnis dieser strategischen Bedeutung ist das nahegelegene Fort Bullen, das von den Briten errichtet wurde, um den Sklavenhandel zu unterbinden. Heute wird Barra durch den ständigen Betrieb der Banjul-Barra-Fähre geprägt, die die einzige direkte Verbindung zwischen den beiden Ufern im Mündungsbereich darstellt. Das Leben in Barra ist hektisch und geschäftig; hunderte von Menschen, Lastwagen und Händlern bevölkern täglich das Hafengelände. Die Stadt dient als Sammelpunkt für landwirtschaftliche Produkte wie Erdnüsse und Salz, die aus den nördlichen Distrikten kommen. Trotz der Modernisierung hat Barra den Charakter einer traditionellen Handelsstadt bewahrt, in der die ethnischen Gruppen der Wolof und Mandinka dominieren. Geografisch ist die Stadt von flachen Küstenebenen und Mangrovensümpfen umgeben, die ein wichtiges Ökosystem bilden. Für Reisende ist Barra der erste Kontaktpunkt mit dem ländlichen Nordufer und ein Ort, der die enge wirtschaftliche Verbindung zwischen Gambia und dem nördlichen Nachbarn Senegal versinnbildlicht.",
+        "hu": "Barra, amelyet a történelem során Niumi néven ismertek, stratégiai fontosságú kikötőváros a Gambia-folyó torkolatának északi partján, közvetlenül a fővárossal, Banjullal szemben. A város Gambia északi részének legfontosabb logisztikai csomópontja és a Szenegál felé irányuló forgalom kapuja. Történelme szorosan összefonódott a Niumi Királysággal, amely évszázadokon át uralta a folyómenti kereskedelmet. A város szélén található a Fort Bullen erőd, amelyet a britek építettek a 19. század elején a rabszolga-kereskedelem megakadályozására. Barra mindennapjait a Banjul-Barra komp határozza meg, amely az egyetlen közvetlen összeköttetést jelenti a folyó két partja között a torkolatnál. A kikötő környéke állandóan nyüzsög: árusok, utazók és teherautók töltik meg az utcákat, várva az átkelésre. Gazdaságilag a város fontos gyűjtőpontja az északon termelt földimogyorónak és a tengerparti lepárlókból származó sónak. A lakosság többsége wolof és mandinka, akiknek kultúrája és kereskedelmi hagyományai meghatározzák Barra karakterét. Földrajzi környezetét lapos partvidék és kiterjedt mangrovemocsarak jellemzik. Az utazók számára Barra a kiindulópont az északi parti felfedezésekhez és a szenegáli határ felé vezető úthoz. A város a nemzeti egység és a regionális kereskedelem nélkülözhetetlen láncszeme.",
+        "ro": "Barra, cunoscut istoric sub numele de Niumi, este un oraș portuar strategic situat pe malul nordic al estuarului fluviului Gambia, direct în fața capitalei Banjul. Orașul este principalul hub logistic pentru regiunea de nord a Gambiei și o poartă de acces vitală către Senegal. Istoria sa este marcată de moștenirea regatului Niumi, care controla taxele de navigație și comerțul la intrarea pe fluviu în perioada precolonială. Cel mai important monument istoric este Fort Bullen, situat la mică distanță de centrul orașului, construit de britanici pentru a intercepta navele cu sclavi. Viața în Barra este definită de activitatea neîntreruptă a feribotului Banjul-Barra, singura legătură directă între cele două maluri la gura de vărsare. Terminalul de feribot este inima pulsândă a orașului, un loc marcat de un comerț informal intens și de un flux constant de pasageri și mărfuri. Din punct de vedere economic, Barra servește ca centru de distribuție pentru arahide și sare, colectate din districtele nordice ale țării. Peisajul este unul de câmpie litorală, cu zone de mangrove protejate în vecinătate. Demografia orașului este dominată de etniile Wolof și Mandinka, conferind locului o identitate culturală vibrantă. Pentru Gambia, Barra reprezintă un punct strategic de securitate și o arteră economică indispensabilă care leagă capitala de rutele internaționale din nord. Vizitarea orașului Barra oferă o experiență intensă a dinamismului portuar vest-african.",
+        "en": "Barra, historically known as Niumi, is a vital port town situated on the north bank of the Gambia River estuary, directly across from the capital, Banjul. The town acts as the primary logistical hub for The Gambia’s North Bank Region and is the essential gateway for traffic heading toward Senegal. Its history is deeply rooted in the Kingdom of Niumi, which once exercised powerful control over trade at the river's entrance. A lasting testament to this strategic importance is the nearby Fort Bullen, erected by the British in the early 19th century to suppress the Atlantic slave trade. Today, Barra’s identity is centered around the constant operation of the Banjul-Barra ferry, the only direct link between the two banks at the estuary. Life in Barra is fast-paced and industrious; the ferry terminal is a constant hive of activity where traders, travelers, and long-distance trucks congregate daily. Economically, the town is a major collection point for agricultural goods like peanuts and sea salt from the northern districts. Despite modern pressures, Barra maintains the feel of a traditional trading outpost, with Wolof and Mandinka cultures predominating. Geographically, it is surrounded by flat coastal plains and critical mangrove ecosystems. For travelers, Barra is the starting point for exploring the rural North Bank and symbolizes the deep economic and historical ties between The Gambia and its northern neighbor, Senegal."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Barra ist der nördliche Endpunkt der wichtigsten Fährverbindung des Landes.",
+          "Die Stadt liegt im historischen Territorium des Königreichs Niumi.",
+          "Fort Bullen in Barra ist ein UNESCO-Weltkulturerbe.",
+          "Barra ist das Haupttor für Reisende von Gambia in den Norden Senegals.",
+          "Die lokale Wirtschaft basiert stark auf dem Fährbetrieb und dem Fischfang.",
+          "Die Stadt ist bekannt für ihre traditionellen Ringkämpfe (Gambian Wrestling)."
+        ],
+        "hu": [
+          "Barra a legfontosabb átkelőhely Banjul és az északi part között.",
+          "A Fort Bullen erőd 1826-ban épült, és ma múzeumként működik.",
+          "A város tengerpartja fontos sólepárló központ.",
+          "Itt kezdődik az északi parti út (North Bank Road), amely Basse-ig vezet.",
+          "Barra piaca a halászati termékek egyik legnagyobb elosztóhelye.",
+          "A település neve mandinka nyelven 'vámot' vagy 'adót' is jelenthetett."
+        ],
+        "ro": [
+          "Barra se află la gura de vărsare a fluviului în Oceanul Atlantic.",
+          "Feribotul transportă zilnic mii de persoane între Barra și Banjul.",
+          "Fort Bullen a fost singurul fort construit special pentru a opri traficul de sclavi.",
+          "Orașul este un centru major pentru cultivarea orezului de maree.",
+          "Demografia locală este marcată de un număr mare de comercianți senegalezi.",
+          "Relieful este foarte jos, fiind vulnerabil la creșterea nivelului mării."
+        ],
+        "en": [
+          "Barra is the largest settlement in the Lower Niumi District.",
+          "The town was a strategic military site during both World Wars.",
+          "It acts as a primary terminal for cross-border buses and bush taxis.",
+          "The historic 'Barra Point' offers the best view across the estuary to Banjul.",
+          "Barra is a key participant in the regional agricultural trade network.",
+          "The ferry journey to Banjul takes approximately 35-45 minutes."
+        ]
+      }
+    }
+  ]
+}

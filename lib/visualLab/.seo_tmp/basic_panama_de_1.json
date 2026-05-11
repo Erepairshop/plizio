@@ -1,0 +1,26 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {"id": "fuerte-san-jeronimo-history-v2", "description": "17. Jahrhundert Festung in Portobelo mit Kolonialarchitektur.", "facts": ["Kolonialfort", "Geschichtsdenkmal", "Marineverteidigung"]},
+    {"id": "casa-fuerte-de-la-aduanas-history-v2", "description": "Befestigte Zollhaus aus Panamas Kolonialzeit.", "facts": ["Handelsgebäude", "Zollinfrastruktur", "Historischer Ort"]},
+    {"id": "iglesia-de-san-jose-history-v2", "description": "17. Jahrhundert Kirche mit goldenem Altar in Altstadt Panama.", "facts": ["Kolonialkirche", "Religionsmonument", "Barockkunst"]},
+    {"id": "ruinas-del-convento-de-santo-domingo-history-v2", "description": "Ruinen eines Klosters aus der spanischen Kolonialzeit.", "facts": ["Klosterruinen", "Religionsgebäude", "Kulturelles Erbe"]},
+    {"id": "fuerte-de-san-laureano-history-v2", "description": "Historische Militärfestung aus spanischer Kolonialzeit.", "facts": ["Verteidigungsstruktur", "Kolonialdenkmal", "Militärposten"]},
+    {"id": "estacion-del-ferrocarril-de-panama-history-v2", "description": "Historischer Bahnhof aus Panamas Eisenbahnzeit.", "facts": ["Verkehrsgeschichte", "Eisenbahninfrastruktur", "Historisches Gebäude"]},
+    {"id": "catedral-metropolitana-history-v2", "description": "Metropolitan-Kathedrale mit religiöser und architektonischer Bedeutung.", "facts": ["Religionsgebäude", "Metropolitan-Kathedrale", "Architektur-Monument"]},
+    {"id": "palacio-de-las-garzas-landmarks-v2", "description": "Präsidentenpalast mit Garzenvögeln im historischen Design.", "facts": ["Regierungspalast", "Präsidentenresidenz", "Architektur-Wahrzeichen"]},
+    {"id": "torre-global-landmarks-v2", "description": "Moderner Wolkenkratzer in Panama Citys Skyline.", "facts": ["Büroturm", "Urbanes Wahrzeichen", "Moderne Architektur"]},
+    {"id": "iglesia-de-san-jose-landmarks-v2", "description": "San José Kirche mit historischem und religiösem Wert.", "facts": ["Religionsgebäude", "San-José-Kirche", "Kolonial-Monumnet"]},
+    {"id": "torre-interbank-landmarks-v2", "description": "Interbank-Finanzturm mit prägnanter Architektur.", "facts": ["Bankgebäude", "Finanzzentrum", "Büroturm"]},
+    {"id": "torre-omega-landmarks-v2", "description": "Moderner Wolkenkratzer in Panamas Finanzviertel.", "facts": ["Büroturm", "Urbanes Wahrzeichen", "Moderne Architektur"]},
+    {"id": "torre-panam-landmarks-v2", "description": "Panám-Turm mit Aussicht über Panama City.", "facts": ["Bürogebäude", "Höhengebäude", "Urbanes Wahrzeichen"]},
+    {"id": "finca-cafe-boquete-life-v2", "description": "Kaffeefarm in Boquete mit hochqualitativer Kaffeeproduktion.", "facts": ["Kaffeeplantage", "Agrar-Tourismus", "Spezialkultur"]},
+    {"id": "parque-nacional-soberania-zoo-life-v2", "description": "Souveränitäts-Nationalpark mit Tierwelt und Wanderwegen.", "facts": ["Schutzwald", "Zoo-Einrichtungen", "Tierleben"]}
+  ]
+}

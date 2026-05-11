@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khujand-cities-v2",
+      "description": "The second-largest city in Tajikistan, located on the Syr Darya River at the mouth of the Fergana Valley.",
+      "facts": ["Regional center of Sughd", "Ancient trade hub", "Located at Syr Darya", "Historical silk road city"]
+    },
+    {
+      "id": "kulob-cities-v2",
+      "description": "One of the oldest cities in Tajikistan, known as a cultural and historical center in the Khatlon Region.",
+      "facts": ["Located in Khatlon Region", "Ancient cultural center", "Site of Mir Said Ali Hamadoni", "Over 2,700 years old"]
+    },
+    {
+      "id": "istaravshan-cities-v2",
+      "description": "An ancient city in northern Tajikistan, famous for its well-preserved medieval architecture and crafts.",
+      "facts": ["Ancient architectural center", "Renowned for handicrafts", "Founded by Cyrus the Great", "Sughd region location"]
+    },
+    {
+      "id": "tursunzoda-cities-v2",
+      "description": "An industrial city west of Dushanbe, primarily known for housing one of Central Asia's largest aluminum smelters.",
+      "facts": ["Aluminum production hub", "West of Dushanbe", "Named after Mirzo Tursunzoda", "Industrial city"]
+    },
+    {
+      "id": "konibodom-cities-v2",
+      "description": "A city in the Sughd region with a long history, situated in the Fergana Valley area.",
+      "facts": ["Fergana Valley location", "Sughd region", "Ancient history", "Agricultural center"]
+    },
+    {
+      "id": "isfara-cities-v2",
+      "description": "A city in northern Tajikistan, nestled at the foot of the Turkestan Range.",
+      "facts": ["Foot of Turkestan Range", "Sughd region", "Known for apricot orchards", "Ancient settlement"]
+    },
+    {
+      "id": "panjakent-cities-v2",
+      "description": "A city on the Zeravshan River, famous for the nearby ancient ruins of the Sogdian civilization.",
+      "facts": ["Zeravshan River location", "Ancient Sogdian ruins", "Nearby Rudaki museum", "Sughd region"]
+    },
+    {
+      "id": "khorugh-cities-v2",
+      "description": "The capital of Gorno-Badakhshan, located high in the Pamir Mountains at the confluence of two rivers.",
+      "facts": ["Pamir mountain capital", "Confluence of rivers", "High altitude city", "GBAO administrative center"]
+    },
+    {
+      "id": "yovon-cities-v2",
+      "description": "An industrial and agricultural center in the Khatlon region, south of Dushanbe.",
+      "facts": ["Khatlon region", "Industrial hub", "Agricultural district", "Near Dushanbe"]
+    },
+    {
+      "id": "hisor-cities-v2",
+      "description": "Famous for the historic Hisor Fortress, the city is a major archaeological and tourist site near Dushanbe.",
+      "facts": ["Historic Hisor Fortress", "Archaeological site", "Near Dushanbe", "Cultural importance"]
+    },
+    {
+      "id": "nurek-cities-v2",
+      "description": "A city famous for the massive Nurek Dam and its large hydroelectric power station on the Vakhsh River.",
+      "facts": ["Home to Nurek Dam", "Vakhsh River location", "Hydroelectric hub", "Large reservoir"]
+    },
+    {
+      "id": "farkhor-cities-v2",
+      "description": "A town in the Khatlon region, situated on the border with Afghanistan along the Panj River.",
+      "facts": ["Border with Afghanistan", "Panj River location", "Khatlon region", "Agricultural area"]
+    },
+    {
+      "id": "vose-cities-v2",
+      "description": "An administrative center in the Khatlon region with a focus on local agriculture and rural trade.",
+      "facts": ["Khatlon region", "Agricultural district", "Administrative center", "Local trade hub"]
+    }
+  ]
+}

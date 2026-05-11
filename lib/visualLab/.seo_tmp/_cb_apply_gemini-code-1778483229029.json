@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "varela-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Varela ist eine abgelegene Küstensiedlung im äußersten Nordwesten Guinea-Bissaus, unmittelbar an der Grenze zur senegalesischen Region Casamance gelegen. Der Ort ist bekannt für seine außergewöhnliche Geografie, die sich stark vom restlichen Küstenstreifen des Landes unterscheidet; statt der üblichen Mangroven dominieren hier weite, weiße Sandstrände und massive Küstendünen. Varela fungiert als wichtiges Zentrum für den lokalen Fischfang und ist aufgrund seiner unberührten Natur ein bedeutendes Ziel für den aufkommenden Ökotourismus. Die Architektur des Ortes ist bescheiden und besteht vorwiegend aus traditionellen Bauten, ergänzt durch einige ältere koloniale Strukturen, die an die Zeit erinnern, als Varela ein beliebter Rückzugsort für die portugiesische Verwaltung war. Die wirtschaftliche Lage ist durch die isolierte Position und die schwierige Straßenverbindung nach São Domingos geprägt, was den Austausch von Waren erschwert. Dennoch bewahrt Varela eine einzigartige kulturelle Identität, die durch den Austausch mit den Nachbargemeinden in Senegal beeinflusst wird. Die umliegenden Wälder beherbergen seltene Primatenarten und machen Varela zu einem ökologischen Hotspot im Norden des Landes.",
+        "hu": "Varela egy elszigetelt tengerparti település Guinea-Bissau északnyugati csücskében, közvetlenül a szenegáli Casamance régió határán. A falu híres különleges földrajzi adottságairól, amelyek élesen elütnek az ország többi részének mangrove-uralta partvidékétől: itt vakítóan fehér homokos strandok és hatalmas parti dűnék határozzák meg a tájat. Varela a helyi halászat központja, érintetlen természeti környezete miatt pedig az ökoturizmus egyik legígéretesebb célpontja. A település építészeti arculata szerény, főként hagyományos házakból áll, amelyeket néhány régi gyarmati épület egészít ki – ezek abból az időből származnak, amikor Varela a portugál tisztviselők kedvelt pihenőhelye volt. A gazdasági helyzetet meghatározza az izoláció és a São Domingos felé vezető út nehéz járhatósága, ami korlátozza az áruforgalmat. Ennek ellenére Varela egyedülálló kulturális identitást őriz, amelyre nagy hatással van a szenegáli határ közelsége és a kétoldalú kereskedelem. A környező erdők ritka majomfajoknak adnak otthont, így a település az ország északi részének egyik fontos ökológiai csomópontja.",
+        "ro": "Varela este o așezare de coastă izolată în extremitatea nord-vestică a Guineei-Bissau, situată imediat la granița cu regiunea senegaleză Casamance. Localitatea este renumită pentru geografia sa excepțională, care diferă semnificativ de restul liniei de coastă a țării; în locul mangrovelor obișnuite, aici domină plaje vaste de nisip alb și dune de coastă masive. Varela funcționează ca un centru important pentru pescuitul local și, datorită naturii sale virgine, este o destinație majoră pentru ecoturismul emergent. Arhitectura localității este modestă, constând în principal din construcții tradiționale, completate de câteva structuri coloniale mai vechi care amintesc de perioada în care Varela era un loc de retragere preferat pentru administrația portugheză. Situația economică este marcată de poziția izolată și de conexiunea rutieră dificilă către São Domingos, ceea ce îngreunează schimbul de mărfuri. Cu toate acestea, Varela păstrează o identitate culturală unică, influențată de schimburile cu comunitățile vecine din Senegal. Pădurile înconjurătoare adăpostesc specii rare de primate, transformând Varela într-un punct focal ecologic în nordul țării.",
+        "en": "Varela is a remote coastal settlement in the far northwest of Guinea-Bissau, situated directly on the border with the Senegalese region of Casamance. The town is renowned for its exceptional geography, which stands in stark contrast to the rest of the country's coastline; instead of the typical mangroves, it features expansive white sandy beaches and massive coastal dunes. Varela serves as a vital hub for local fishing and, due to its pristine natural environment, is a primary destination for emerging ecotourism. The town's architecture is modest, primarily consisting of traditional dwellings interspersed with older colonial structures that date back to when Varela was a favored retreat for Portuguese officials. The economic landscape is shaped by its isolated position and the challenging road access to São Domingos, which restricts the regular flow of goods. Nevertheless, Varela maintains a unique cultural identity, influenced by constant interaction with neighboring communities in Senegal. The surrounding forests are home to rare primate species, making Varela a significant ecological hotspot in the north of the country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Varela besitzt die weißesten Sandstrände des guineischen Festlandes.",
+          "Der Ort war während der Kolonialzeit ein bekanntes Erholungszentrum.",
+          "Die Straße nach Varela ist in der Regenzeit oft unpassierbar.",
+          "Die Bevölkerung lebt primär von der Fischerei und dem Cashew-Anbau.",
+          "In den nahen Wäldern lebt der seltene Westafrikanische Rote Stummelaffe.",
+          "Die Meeresströmungen vor Varela sind für ihren Fischreichtum berühmt."
+        ],
+        "hu": [
+          "Varela rendelkezik a szárazföldi Guinea-Bissau legfehérebb homokos strandjaival.",
+          "A település a gyarmati időkben az adminisztráció kedvelt üdülőhelye volt.",
+          "A Varelába vezető út az esős évszakban gyakran járhatatlan.",
+          "A lakosság főként halászatból és kesudió-termesztésből tartja fenn magát.",
+          "A közeli erdőkben él a ritka nyugat-afrikai vörös kolobuszmajom.",
+          "A tengerparti dűnék természetes gátat alkotnak az atlanti hullámok ellen."
+        ],
+        "ro": [
+          "Varela deține cele mai albe plaje de nisip de pe continentul guineean.",
+          "Localitatea a fost un centru de recreere renumit în perioada colonială.",
+          "Drumul către Varela este adesea impracticabil în timpul sezonului ploios.",
+          "Populația trăiește în principal din pescuit și cultivarea nucilor caju.",
+          "În pădurile din apropiere trăiește maimuța rară Colobus roșu de vest.",
+          "Curenții marini din fața Varelei sunt renumiți pentru abundența de pește."
+        ],
+        "en": [
+          "Varela features the whitest sandy beaches on the Bissau-Guinean mainland.",
+          "The settlement was a well-known recreational hub during the colonial era.",
+          "Access via the road to Varela is often severed during the peak rainy season.",
+          "The local economy relies heavily on artisanal fishing and cashew production.",
+          "The nearby forests host the rare Western Red Colobus monkey.",
+          "The waters off Varela are considered a prime destination for sport fishing."
+        ]
+      }
+    },
+    {
+      "id": "bula-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bula ist ein bedeutendes administratives und kommerzielles Zentrum im Norden von Guinea-Bissau, gelegen in der Region Cacheu. Der Ort fungiert als entscheidender Verkehrsknotenpunkt an der Hauptstraße, die Bissau mit den nördlichen Städten Canchungo und São Domingos verbindet. Diese strategische Lage hat Bula zu einem pulsierenden Handelsplatz gemacht, an dem Agrarprodukte wie Reis, Cashewnüssen und Erdnüsse aus dem fruchtbaren Hinterland umgeschlagen werden. Die Architektur von Bula ist durch eine Mischung aus kolonialen Verwaltungsgebäuden und modernen Marktstrukturen geprägt. Historisch war Bula ein wichtiger Posten während der kolonialen 'Befriedungskampagnen' und später im Unabhängigkeitskrieg, was dem Ort eine strategische Bedeutung in der nationalen Geschichte verleiht. Die Bevölkerung ist multietnisch, wobei die Manjaco die dominierende Gruppe darstellen und die kulturellen Traditionen der Region prägen. In den letzten Jahren hat Bula durch verbesserte Infrastruktur und Bildungseinrichtungen an Bedeutung gewonnen. Der Ort dient als Tor zum Nordwesten des Landes und ist ein Symbol für die wirtschaftliche Dynamik der Cacheu-Region.",
+        "hu": "Bula Észak-Guinea-Bissau egyik legfontosabb közigazgatási és kereskedelmi központja, amely a Cacheu régióban található. A település döntő jelentőségű közlekedési csomópontként funkcionál a Bissauból Canchungo és São Domingos felé vezető főút mentén. Ez a stratégiai elhelyezkedés tette Bulát vibráló kereskedelmi hellyé, ahol a termékeny hátországból származó mezőgazdasági termények – mint a rizs, a kesudió és a földimogyoró – cserélnek gazdát. Bula építészeti arculatát a gyarmati adminisztratív épületek és a modern piaci struktúrák keveréke határozza meg. Történelmileg Bula fontos állomás volt a gyarmati „pacifikációs kampányok”, majd később a függetlenségi háború idején, ami stratégiai súlyt ad a településnek a nemzeti történelemben. A lakosság multietnikus, a meghatározó csoportot a manjaco nép alkotja, akik a régió kulturális hagyományait is formálják. Az utóbbi években Bula jelentősége nőtt a javuló infrastruktúrának és az oktatási intézmények fejlődésének köszönhetően. A város az ország északnyugati részének kapujaként szolgál, és a Cacheu régió gazdasági dinamizmusának egyik szimbóluma.",
+        "ro": "Bula este un centru administrativ și comercial important în nordul Guineei-Bissau, situat în regiunea Cacheu. Localitatea funcționează ca un nod de transport crucial pe drumul principal care leagă Bissau de orașele nordice Canchungo și São Domingos. Această poziție strategică a transformat Bula într-un loc de schimb vibrant, unde sunt colectate și distribuite produse agricole precum orezul, nucile caju și arahidele din hinterlandul fertil. Arhitectura din Bula este marcată de un amestec de clădiri administrative coloniale și structuri moderne de piață. Din punct de vedere istoric, Bula a fost un post important în timpul campaniilor coloniale de 'pacificare' și, ulterior, în războiul de independență, ceea ce îi conferă o importanță strategică în istoria națională. Populația este multietnică, grupul Manjaco fiind dominant și definind tradițiile culturale ale regiunii. În ultimii ani, Bula a câștigat în importanță datorită infrastructurii îmbunătățite și a facilităților educaționale. Localitatea servește drept poartă către nord-vestul țării și este un simbol al dinamismului economic al regiunii Cacheu.",
+        "en": "Bula is a major administrative and commercial center in northern Guinea-Bissau, located within the Cacheu region. The town functions as a critical transport hub on the main road connecting Bissau to the northern cities of Canchungo and São Domingos. This strategic location has transformed Bula into a vibrant marketplace where agricultural products such as rice, cashews, and groundnuts from the fertile hinterland are traded. Bula’s architectural character is defined by a mix of colonial administrative buildings and modern market structures. Historically, Bula served as a vital outpost during colonial 'pacification campaigns' and later during the War of Independence, granting the town significant weight in national history. The population is multi-ethnic, with the Manjaco group being dominant and shaping the region's cultural traditions. In recent years, Bula has grown in importance due to infrastructure improvements and the development of educational facilities. The town serves as a gateway to the country's northwest and stands as a symbol of the economic dynamism inherent in the Cacheu region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bula ist ein zentraler Umsteigepunkt für den Verkehr in Richtung Senegal.",
+          "Der Ort beherbergt eine bedeutende regionale Landwirtschaftsschule.",
+          "Die Mehrheit der Bevölkerung gehört zur ethnischen Gruppe der Manjaco.",
+          "Bula liegt in einer der produktivsten Reisanbauregionen des Landes.",
+          "Das historische Zentrum bewahrt einige Gebäude aus der frühen portugiesischen Ära.",
+          "Die Stadt ist bekannt für ihre lebhaften lokalen Feste und Tänze."
+        ],
+        "hu": [
+          "Bula a Szenegál felé tartó közúti forgalom egyik központi átszállóhelye.",
+          "A településen működik egy jelentős regionális mezőgazdasági iskola.",
+          "A lakosság többsége a manjaco népcsoporthoz tartozik.",
+          "Bula az ország egyik legtermékenyebb rizstermelő vidékén fekszik.",
+          "A történelmi városközpont őriz néhány korai portugál épületet.",
+          "A város híres az élénk helyi ünnepeiről és hagyományos táncairól."
+        ],
+        "ro": [
+          "Bula este un punct central de transfer pentru traficul rutier către Senegal.",
+          "Localitatea găzduiește o școală agricolă regională importantă.",
+          "Majoritatea populației aparține grupului etnic Manjaco.",
+          "Bula se află într-una dintre cele mai productive regiuni de orezărie din țară.",
+          "Centrul istoric păstrează câteva clădiri din prima perioadă portugheză.",
+          "Orașul este cunoscut pentru festivalurile locale vibrante și dansurile tradiționale."
+        ],
+        "en": [
+          "Bula serves as a central transfer point for travelers heading toward Senegal.",
+          "The town is home to a significant regional agricultural vocational school.",
+          "The majority of the inhabitants are members of the Manjaco ethnic group.",
+          "Bula is situated in one of the nation's most productive rice-growing areas.",
+          "The historic center retains several buildings from the early Portuguese era.",
+          "The town is renowned for its vibrant local festivals and traditional dances."
+        ]
+      }
+    },
+    {
+      "id": "jolmete-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Jolmete ist eine ländliche Siedlung in der Region Cacheu, die vor allem für ihre tiefe Verwurzelung in der Kultur des Manjaco-Volkes bekannt ist. Der Ort liegt abseits der großen Hauptverkehrsadern in einer Landschaft, die von dichten Palmenhainen und fruchtbaren Reisfeldern geprägt ist. Jolmete fungiert als wichtiges rituelles und soziales Zentrum für die umliegenden Tabancas (Dorfgemeinschaften). Die Architektur in Jolmete ist weitgehend traditionell geblieben, mit Wohneinheiten, die um zentrale Zeremonialplätze angeordnet sind. Wirtschaftlich basiert der Ort auf der Produktion von hochwertigem Palmöl und dem Anbau von Cashewnüssen, wobei ein Großteil der Arbeit gemeinschaftlich organisiert wird. Jolmete ist bekannt für die Bewahrung archaischer Manjaco-Bräuche, insbesondere im Zusammenhang mit Ahnenverehrung und rituellen Tänzen. Die Abgeschiedenheit des Ortes hat dazu beigetragen, dass die soziale Hierarchie, die von den Ältesten geleitet wird, bis heute stabil geblieben ist. Für Besucher bietet Jolmete einen authentischen Einblick in das ländliche Leben Guinea-Bissaus, weit entfernt von den urbanen Einflüssen der Hauptstadt.",
+        "hu": "Jolmete egy mezőgazdasági település a Cacheu régióban, amely elsősorban a manjaco nép kultúrájában betöltött mély gyökereiről ismert. A falu a nagy forgalmú útvonalaktól távol fekszik, egy olyan tájon, amelyet sűrű pálmaligetek és termékeny rizsföldek jellemeznek. Jolmete fontos rituális és társadalmi központként funkcionál a környező tabancák (faluközösségek) számára. A település építészete nagyrészt hagyományos maradt: a lakóegységek központi ceremoniális terek köré csoportosulnak. Gazdaságilag a falu a kiváló minőségű pálmaolaj-termelésre és a kesudió-termesztésre épít, a munka nagy részét pedig közösségi szinten szervezik. Jolmete híres az archaikus manjaco szokások megőrzéséről, különösen az ősök tiszteletéhez és a rituális táncokhoz kapcsolódóan. A hely elszigeteltsége hozzájárult ahhoz, hogy a vének által vezetett társadalmi hierarchia a mai napig stabil maradjon. A látogatók számára Jolmete hiteles betekintést nyújt Guinea-Bissau vidéki életébe, távol a főváros városias hatásaitól.",
+        "ro": "Jolmete este o așezare rurală în regiunea Cacheu, cunoscută în special pentru rădăcinile sale profunde în cultura poporului Manjaco. Localitatea este situată departe de marile artere de transport, într-un peisaj dominat de livezi dese de palmieri și câmpuri fertile de orez. Jolmete funcționează ca un centru ritualic și social important pentru tabancas (comunitățile sătești) din jur. Arhitectura din Jolmete a rămas în mare parte tradițională, cu unități locative dispuse în jurul unor piețe ceremoniale centrale. Din punct de vedere economic, așezarea se bazează pe producția de ulei de palmier de înaltă calitate și pe cultivarea nucilor caju, o mare parte a muncii fiind organizată comunitar. Jolmete este renumit pentru conservarea obiceiurilor arhaice Manjaco, în special a celor legate de cultul strămoșilor și dansurile rituale. Izolarea localității a ajutat la menținerea stabilității ierarhiei sociale conduse de bătrâni până în prezent. Pentru vizitatori, Jolmete oferă o perspectivă autentică asupra vieții rurale din Guineea-Bissau, departe de influențele urbane ale capitalei.",
+        "en": "Jolmete is a rural settlement in the Cacheu region, primarily known for its deep integration within the culture of the Manjaco people. The village is situated away from major transportation routes, set in a landscape defined by dense palm groves and fertile rice fields. Jolmete functions as an essential ritual and social center for the surrounding tabancas (village communities). The architecture in Jolmete remains largely traditional, with housing units organized around central ceremonial squares. Economically, the village relies on the production of high-quality palm oil and the cultivation of cashew nuts, with much of the labor organized on a communal basis. Jolmete is celebrated for its preservation of archaic Manjaco customs, particularly those associated with ancestral worship and ritual dances. The area's relative isolation has helped maintain a stable social hierarchy led by community elders. For visitors, Jolmete offers an authentic look into the rural life of Guinea-Bissau, far removed from the urban influences of the capital."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Jolmete gilt als einer der authentischsten Orte der Manjaco-Kultur.",
+          "Der Ort ist bekannt für die Herstellung von speziellem rituellen Palmwein.",
+          "Die Dorfhierarchie wird strikt durch einen Rat der Ältesten bestimmt.",
+          "Ahnenpfähle (Pecub) spielen eine zentrale Rolle im Ortsbild.",
+          "Die Landwirtschaft erfolgt nach traditionellen, ökologischen Methoden.",
+          "Jolmete ist ein Zentrum für die Ausbildung in traditionellen Tänzen."
+        ],
+        "hu": [
+          "Jolmete a manjaco kultúra egyik leghitelesebb lelőhelye.",
+          "A falu híres a speciális rituális pálmabor készítéséről.",
+          "A falu hierarchiáját szigorúan a vének tanácsa határozza meg.",
+          "Az ősök tiszteletére állított oszlopok (pecub) meghatározzák a faluképet.",
+          "A mezőgazdaság hagyományos, ökológiai módszerekkel zajlik.",
+          "Jolmete a hagyományos táncok oktatásának egyik központja."
+        ],
+        "ro": [
+          "Jolmete este considerat unul dintre cele mai autentice locuri ale culturii Manjaco.",
+          "Localitatea este renumită pentru producția de vin de palmier ritualic special.",
+          "Ierarhia satului este determinată strict de un consiliu al bătrânilor.",
+          "Stâlpii strămoșilor (pecub) joacă un rol central în peisajul localității.",
+          "Agricultura se desfășoară conform metodelor tradiționale, ecologice.",
+          "Jolmete este un centru pentru formarea în dansuri tradiționale."
+        ],
+        "en": [
+          "Jolmete is regarded as one of the most authentic sites of Manjaco culture.",
+          "The village is famous for producing a specialized ritual palm wine.",
+          "The village hierarchy is strictly governed by a council of elders.",
+          "Ancestral shrines (pecub) are a central feature of the town's layout.",
+          "Farming is conducted using time-honored ecological methods.",
+          "Jolmete serves as a regional center for traditional dance instruction."
+        ]
+      }
+    },
+    {
+      "id": "farim-phosphatmine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Phosphatminen-Projekt von Farim im Norden Guinea-Bissaus stellt eines der bedeutendsten wirtschaftlichen Vorhaben des Landes dar. Geologisch beherbergt die Farim-Senke eines der weltweit hochwertigsten Phosphatvorkommen mit geschätzten Reserven von über 100 Millionen Tonnen. Das Projekt zielt darauf ab, diese Ressource für den globalen Düngemittelmarkt zu erschließen, was Guinea-Bissau eine massive Steigerung seiner Exporterlöse ermöglichen würde. Die ökonomische Bedeutung der Mine ist immens, da sie das Potenzial hat, die Abhängigkeit des Landes vom Cashew-Export zu verringern und tausende Arbeitsplätze in der Region Oio zu schaffen. Die geplanten Infrastrukturmaßnahmen umfassen den Bau von Verladestationen am Rio Cacheu und die Verbesserung der Transportwege zur Küste. Trotz der enormen wirtschaftlichen Chancen stehen das Projekt und die beteiligten internationalen Unternehmen vor logistischen und ökologischen Herausforderungen, insbesondere im Hinblick auf den Schutz der nahen Flussökosysteme. Die Farim-Mine wird als strategisches Rückgrat für den künftigen industriellen Sektor des Landes betrachtet und ist ein zentraler Bestandteil der nationalen Entwicklungsstrategie.",
+        "hu": "A Guinea-Bissau északi részén található Farim-foszfátbánya projekt az ország egyik legjelentősebb gazdasági vállalkozása. Geológiailag a Farim-medence a világ egyik legmagasabb minőségű foszfátlelőhelyének ad otthont, a becsült készletek meghaladják a 100 millió tonnát. A projekt célja ezen erőforrás kiaknázása a globális műtrágyapiac számára, ami Guinea-Bissau számára az exportbevételek masszív növekedését tenné lehetővé. A bánya gazdasági jelentősége óriási, mivel képes csökkenteni az ország függőségét a kesudió-exporttól, és több ezer munkahelyet teremthet az Oio régióban. A tervezett infrastruktúra-fejlesztések magukban foglalják a Cacheu-folyó menti rakodóállomások építését és a partvidék felé vezető szállítási útvonalak korszerűsítését. A hatalmas gazdasági lehetőségek ellenére a projekt és a részt vevő nemzetközi vállalatok logisztikai és ökológiai kihívásokkal néznek szembe, különösen a közeli folyami ökoszisztémák védelme tekintetében. A farimi bányát az ország jövőbeli ipari szektorának stratégiai gerinceként és a nemzeti fejlesztési stratégia központi elemeként kezelik.",
+        "ro": "Proiectul minei de fosfați de la Farim, din nordul Guineei-Bissau, reprezintă unul dintre cele mai importante demersuri economice ale țării. Din punct de vedere geologic, depresiunea Farim adăpostește unul dintre cele mai calitative zăcăminte de fosfați din lume, cu rezerve estimate la peste 100 de milioane de tone. Proiectul vizează exploatarea acestei resurse pentru piața globală de îngrășăminte, ceea ce ar permite Guineei-Bissau o creștere masivă a veniturilor din export. Importanța economică a minei este imensă, având potențialul de a reduce dependența țării de exportul de caju și de a crea mii de locuri de muncă în regiunea Oio. Măsurile de infrastructură planificate includ construcția unor stații de încărcare pe râul Cacheu și îmbunătățirea rutelor de transport către coastă. În ciuda oportunităților economice enorme, proiectul și companiile internaționale implicate se confruntă cu provocări logistice și ecologice, în special în ceea ce privește protecția ecosistemelor fluviale din apropiere. Mina Farim este considerată coloana vertebrală strategică pentru viitorul sector industrial al țării și este o componentă centrală a strategiei naționale de dezvoltare.",
+        "en": "The Farim Phosphate Mine project in northern Guinea-Bissau represents one of the country's most significant economic ventures. Geologically, the Farim Depression houses one of the world's highest-grade phosphate deposits, with estimated reserves exceeding 100 million tons. The project aims to tap into this resource for the global fertilizer market, which would enable Guinea-Bissau to achieve a massive increase in export revenues. The mine's economic importance is immense, as it has the potential to reduce the country's reliance on cashew exports and create thousands of jobs within the Oio region. Planned infrastructure improvements include the construction of loading facilities along the Cacheu River and the upgrading of transport routes to the coast. Despite the enormous economic opportunities, the project and the participating international companies face logistical and ecological challenges, particularly concerning the protection of nearby river ecosystems. The Farim mine is regarded as the strategic backbone for the country's future industrial sector and is a central element of the national development strategy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Reserven von Farim gehören zu den reinsten Phosphaten weltweit.",
+          "Das Projekt wird von großen internationalen Bergbauunternehmen geführt.",
+          "Der Rio Cacheu soll als Haupttransportweg für den Export genutzt werden.",
+          "Die Mine könnte bis zu 25 % des künftigen BIP des Landes ausmachen.",
+          "Phosphat ist ein essenzieller Rohstoff für die globale Nahrungsmittelproduktion.",
+          "Das Projekt umfasst umfangreiche Umweltverträglichkeitsprüfungen."
+        ],
+        "hu": [
+          "A farimi készletek a világ legtisztább foszfátjai közé tartoznak.",
+          "A projektet nagy nemzetközi bányászati vállalatok irányítják.",
+          "A Cacheu-folyót szánják az export fő szállítási útvonalának.",
+          "A bánya a jövőben az ország GDP-jének akár 25%-át is adhatja.",
+          "A foszfát a globális élelmiszertermelés nélkülözhetetlen nyersanyaga.",
+          "A projekt kiterjedt környezeti hatástanulmányokat foglal magában."
+        ],
+        "ro": [
+          "Rezervele de la Farim sunt printre cele mai pure fosfați la nivel mondial.",
+          "Proiectul este condus de mari companii miniere internaționale.",
+          "Râul Cacheu urmează să fie utilizat ca principală cale de transport pentru export.",
+          "Mina ar putea reprezenta până la 25% din viitorul PIB al țării.",
+          "Fosfatul este o materie primă esențială pentru producția globală de alimente.",
+          "Proiectul include evaluări ample ale impactului asupra mediului."
+        ],
+        "en": [
+          "The Farim reserves are among the highest-purity phosphates globally.",
+          "The project is managed by leading international mining corporations.",
+          "The Cacheu River is designated as the primary transport route for exports.",
+          "The mine could eventually account for up to 25% of the country's GDP.",
+          "Phosphate is a critical raw material for global food production security.",
+          "The project involves comprehensive environmental impact assessments."
+        ]
+      }
+    },
+    {
+      "id": "boe-bauxitmine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bauxitvorkommen von Boé im Südosten Guinea-Bissaus zählen zu den größten und strategisch wichtigsten Mineralreserven des Landes. Geologisch ist die Region durch massive Lateritplateaus geprägt, die reich an Aluminiumerz sind. Die wirtschaftliche Erschließung dieser Vorkommen wird seit Jahrzehnten als entscheidender Faktor für die industrielle Transformation Guinea-Bissaus betrachtet. Eine großflächige Ausbeutung der Mine könnte das Land zu einem bedeutenden Akteur auf dem globalen Aluminiummarkt machen. Die größte Herausforderung für die ökonomische Rentabilität ist die fehlende Infrastruktur; der Transport des Erzes von der abgelegenen Boé-Region zur Küste erfordert den Bau einer neuen Eisenbahnlinie oder die massiven Ausbau der Flusshäfen am Rio Corubal. Das Projekt hat das Potenzial, die Binnenwirtschaft im Südosten zu beleben und dringend benötigte Einnahmen für den Staatshaushalt zu generieren. Gleichzeitig gibt es intensive Debatten über die sozialen und ökologischen Auswirkungen des Bergbaus in einer Region, die historisch und ökologisch von hoher Sensibilität ist. Das Boé-Bauxit-Projekt bleibt ein zentraler Pfeiler der langfristigen Wirtschaftsplanung und symbolisiert die Hoffnung auf eine diversifizierte Rohstoffökonomie.",
+        "hu": "A Guinea-Bissau délkeleti részén található Boé bauxitkészletei az ország legnagyobb és stratégiailag legfontosabb ásványkincs-tartalékai közé tartoznak. Geológiailag a régiót masszív laterit-fennsíkok jellemzik, amelyek rendkívül gazdagok alumíniumércben. E készletek gazdasági kiaknázását évtizedek óta Guinea-Bissau ipari átalakulásának döntő tényezőjeként kezelik. A bánya nagyléptékű üzemeltetése az országot a globális alumíniumpiac jelentős szereplőjévé tehetné. A gazdasági jövedelmezőség legnagyobb kihívása az infrastruktúra hiánya: az érc elszállítása az elszigetelt Boé régióból a partvidékre egy új vasútvonal megépítését vagy a Corubal-folyó menti kikötők jelentős bővítését igényli. A projekt képes lenne élénkíteni a délkeleti országrész belső gazdaságát, és égetően szükséges bevételeket generálna az állami költségvetés számára. Ezzel párhuzamosan intenzív viták folynak a bányászat társadalmi és ökológiai hatásairól egy olyan régióban, amely történelmileg és ökológiailag is rendkívül érzékeny. A Boé bauxit-projekt a hosszú távú gazdasági tervezés központi pillére marad, és a diverzifikált nyersanyag-gazdaság reményét jelképezi.",
+        "ro": "Zăcămintele de bauxită de la Boé, din sud-estul Guineei-Bissau, se numără printre cele mai mari și mai importante rezerve minerale strategice ale țării. Din punct de vedere geologic, regiunea este marcată de platouri de laterit masive, bogate în minereu de aluminiu. Exploatarea economică a acestor zăcăminte este considerată de decenii un factor decisiv pentru transformarea industrială a Guineei-Bissau. O exploatare pe scară largă a minei ar putea transforma țara într-un actor semnificativ pe piața globală a aluminiului. Cea mai mare provocare pentru rentabilitatea economică este lipsa infrastructurii; transportul minereului din regiunea izolată Boé către coastă necesită construcția unei noi linii de cale ferată sau extinderea masivă a porturilor fluviale de pe râul Corubal. Proiectul are potențialul de a revigora economia internă din sud-est și de a genera venituri extrem de necesare pentru bugetul de stat. În același timp, există dezbateri intense cu privire la impactul social și ecologic al mineritului într-o regiune care este istoric și ecologic de o sensibilitate ridicată. Proiectul de bauxită Boé rămâne un pilon central al planificării economice pe termen lung și simbolizează speranța pentru o economie diversificată a materiilor prime.",
+        "en": "The bauxite deposits of Boé in southeastern Guinea-Bissau are among the country's largest and most strategically important mineral reserves. Geologically, the region is characterized by massive laterite plateaus rich in aluminum ore. The economic development of these deposits has been regarded for decades as a decisive factor for the industrial transformation of Guinea-Bissau. Large-scale exploitation of the mine could elevate the country into a significant player within the global aluminum market. The primary challenge to economic viability remains the lack of infrastructure; transporting the ore from the remote Boé region to the coast requires the construction of a new railway line or a massive expansion of river ports along the Corubal River. The project has the potential to revitalize the domestic economy in the southeast and generate critically needed revenue for the national budget. Simultaneously, there are intense debates regarding the social and environmental impacts of mining in a region that holds great historical and ecological sensitivity. The Boé bauxite project remains a cornerstone of long-term economic planning and symbolizes the hope for a more diversified raw material economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Boé-Region beherbergt Bauxitvorkommen von mehreren hundert Millionen Tonnen.",
+          "Der Bau einer Eisenbahnlinie nach Buba ist ein zentraler Teil des Projekts.",
+          "Das Bauxit aus Boé hat einen besonders geringen Siliziumgehalt.",
+          "Internationale Partnerschaften, unter anderem mit China, prüfen die Erschließung.",
+          "Die Mine könnte den Hafen von Buba zum wichtigsten Industriehafen Westafrikas machen.",
+          "Ökologen warnen vor den Folgen für die Schimpansen-Population in der Boé-Region."
+        ],
+        "hu": [
+          "A Boé régió több százmillió tonnányi bauxitkészletet rejt.",
+          "A Buba felé vezető vasútvonal megépítése a projekt kulcsfontosságú része.",
+          "A boéi bauxit különösen alacsony szilíciumtartalommal rendelkezik.",
+          "Nemzetközi partnerségek, köztük kínai befektetők vizsgálnak a kitermelést.",
+          "A bánya Buba kikötőjét Nyugat-Afrika legfontosabb ipari kikötőjévé teheti.",
+          "Az ökológusok figyelmeztetnek a bányászat csimpánzpopulációra gyakorolt hatásaira."
+        ],
+        "ro": [
+          "Regiunea Boé adăpostește rezerve de bauxită de câteva sute de milioane de tone.",
+          "Construcția unei linii de cale ferată către Buba este o parte centrală a proiectului.",
+          "Bauxita din Boé are un conținut de siliciu deosebit de scăzut.",
+          "Parteneriate internaționale, inclusiv cu China, examinează dezvoltarea.",
+          "Mina ar putea transforma portul Buba în cel mai important port industrial din Africa de Vest.",
+          "Ecologiștii avertizează cu privire al consecințele asupra populației de cimpanzei din regiune."
+        ],
+        "en": [
+          "The Boé region contains bauxite reserves totaling several hundred million tons.",
+          "Constructing a railway link to Buba is a fundamental component of the project plan.",
+          "Bauxite from Boé is noted for having a particularly low silica content.",
+          "International partnerships, including with China, are evaluating the development feasibility.",
+          "The mine could establish the Port of Buba as a premier industrial harbor in West Africa.",
+          "Ecologists warn of the potential impact on the local chimpanzee populations in the Boé area."
+        ]
+      }
+    }
+  ]
+}

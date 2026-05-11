@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "massif-iférouane-nature-v2",
+      "description": "Masivul Iférouane din munții Aïr este cunoscut pentru peisajele sale montane aride și petroglifele antice.",
+      "facts": ["Munții Aïr", "Peisaje montane aride", "Petroglife antice"]
+    },
+    {
+      "id": "plateau-tchigai-relief-v2",
+      "description": "Platoul Tchigaï este o formațiune geologică distinctivă în estul Nigerului, parte a masivului Termit.",
+      "facts": ["Formațiune geologică", "Estul Nigerului", "Masivul Termit"]
+    },
+    {
+      "id": "dallol-maouri-relief-v2",
+      "description": "Dallol Maouri este o vale fosilă în vestul Nigerului, cunoscută pentru fertilitatea sa și viața sălbatică adaptată.",
+      "facts": ["Vale fosilă", "Vestul Nigerului", "Fertilitate"]
+    },
+    {
+      "id": "koutous-relief-v2",
+      "description": "Munții Koutous sunt un lanț muntos izolat în centrul Nigerului, cu peisaje stâncoase și ecosisteme adaptate deșertului.",
+      "facts": ["Lanț muntos izolat", "Centrul Nigerului", "Ecosisteme adaptate deșertului"]
+    },
+    {
+      "id": "gourma-lowland-relief-v2",
+      "description": "Câmpia Gourma este o zonă joasă semi-aridă în sud-vestul Nigerului, importantă pentru pășunat și biodiversitate.",
+      "facts": ["Zonă joasă semi-aridă", "Sud-vestul Nigerului", "Pășunat și biodiversitate"]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "description": "Stânca Kawar este o escarpă geologică proeminentă în nord-estul Nigerului, care oferă o barieră naturală și o istorie bogată.",
+      "facts": ["Escarpă geologică", "Nord-estul Nigerului", "Barieră naturală"]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "description": "Dealul Fachi este o formațiune stâncoasă proeminentă lângă oaza Fachi, servind ca punct de reper în deșertul Sahara.",
+      "facts": ["Formațiune stâncoasă", "Oaza Fachi", "Reper în Sahara"]
+    }
+  ]
+}

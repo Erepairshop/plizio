@@ -1,0 +1,80 @@
+{
+  "lang": "ro",
+  "country": "Benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninNatureV2.ts",
+    "lib/visualLab/data/poiExtraBeninReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "niger-river-benin-nature-v2",
+      "description": "Fluviul Niger formează granița naturală de nord a Beninului, fiind o resursă de apă vitală pentru regiunile semideșertice.",
+      "facts": ["Graniță naturală", "Fluviu major african", "Regiunea de nord"]
+    },
+    {
+      "id": "pendjari-river-nature-v2",
+      "description": "Râul Pendjari traversează parcul național cu același nume, fiind principala sursă de apă pentru marea varietate de animale sălbatice.",
+      "facts": ["Parc Național Pendjari", "Graniță cu Burkina Faso", "Habitat pentru faună"]
+    },
+    {
+      "id": "wari-maro-forest-relief-v2",
+      "description": "Rezervația forestieră Wari Maro este o arie protejată importantă, caracterizată prin păduri tropicale și o biodiversitate bogată.",
+      "facts": ["Rezervație forestieră", "Biodiversitate centrală", "Zonă protejată"]
+    },
+    {
+      "id": "dassa-hills-relief-v2",
+      "description": "Dealurile din Dassa-Zoumè sunt formațiuni stâncoase spectaculoase care oferă priveliști uimitoare asupra regiunii înconjurătoare.",
+      "facts": ["Orașul celor 41 de dealuri", "Formațiuni stâncoase", "Loc de pelerinaj"]
+    },
+    {
+      "id": "allada-plateau-relief-v2",
+      "description": "Podișul Allada este o regiune geografică din sudul Beninului, cu un relief ușor ondulat și un sol extrem de fertile.",
+      "facts": ["Podiș sudic", "Relief ondulat", "Zonă agricolă bogată"]
+    },
+    {
+      "id": "kandi-basin-relief-v2",
+      "description": "Bazinul Kandi este o zonă de joasă altitudine din nordul țării, fiind o regiune importantă pentru cultivarea cerealelor.",
+      "facts": ["Depresiune nordică", "Câmpii vaste", "Producție de cereale"]
+    },
+    {
+      "id": "niger-valley-relief-v2",
+      "description": "Valea Nigerului din Benin cuprinde terenurile aluviale fertile de-a lungul malului sudic al marelui fluviu african.",
+      "facts": ["Câmpie aluvială", "Agricultură de luncă", "Valea fluviului"]
+    },
+    {
+      "id": "abomey-plateau-relief-v2",
+      "description": "Podișul Abomey este o zonă istorică situată la o altitudine medie, fiind inima vechiului regat Dahomey.",
+      "facts": ["Inimă istorică", "Soluri lateritice roșii", "Altitudine medie"]
+    },
+    {
+      "id": "ouenou-kouande-forest-relief-v2",
+      "description": "Pădurea Ouenou-Kouandé este situată în nord-vestul Beninului, făcând parte din ecosistemul montan al lanțului Atakora.",
+      "facts": ["Lanțul Atakora", "Habitat endemic", "Pădure montană"]
+    },
+    {
+      "id": "savalou-hills-relief-v2",
+      "description": "Dealurile Savalou oferă un peisaj pitoresc în centrul Beninului, fiind strâns legate de tradițiile și spiritualitatea locală.",
+      "facts": ["Peisaj pitoresc", "Tradiții spirituale", "Drumeții montane"]
+    },
+    {
+      "id": "sedent-forest-relief-v2",
+      "description": "Pădurea Sédent este o zonă forestieră protejată care adăpostește numeroase specii de arbori tropicali și faună locală.",
+      "facts": ["Pădure tropicală", "Conservarea apei", "Arie protejată"]
+    },
+    {
+      "id": "ketou-plateau-relief-v2",
+      "description": "Podișul Kétou este situat în sud-estul Beninului, la granița cu Nigeria, fiind o zonă bogată în cultură Yoruba.",
+      "facts": ["Granița cu Nigeria", "Cultura Yoruba", "Relief de podiș"]
+    },
+    {
+      "id": "djougou-mountains-relief-v2",
+      "description": "Munții din jurul orașului Djougou fac parte din sistemul Atakora, oferind un relief accidentat și peisaje spectaculoase.",
+      "facts": ["Masivul Atakora", "Relief accidentat", "Nord-vestul Beninului"]
+    },
+    {
+      "id": "djigbe-forest-relief-v2",
+      "description": "Pădurea Djigbé este una dintre puținele zone forestiere rămase în sudul Beninului, fiind importantă pentru conservarea biodiversității.",
+      "facts": ["Pădure sudică", "Biodiversitate locală", "Rezervație naturală"]
+    }
+  ]
+}

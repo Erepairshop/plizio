@@ -2,64 +2,69 @@
   "lang": "ro",
   "country": "Brazil",
   "files": [
-    "lib/visualLab/data/poiExtraBrazilEconomicV2.ts",
-    "lib/visualLab/data/poiExtraBrazilHistoryV2.ts"
+    "lib/visualLab/data/poiExtraBrazilLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBrazilNatureV2.ts"
   ],
   "items": [
     {
-      "id": "santos-port-economic-v2",
-      "description": "Portul Santos este cel mai mare port din America Latină și principalul punct de ieșire pentru exporturile Braziliei. Leagă economia statului São Paulo de piețele internaționale.",
-      "facts": ["Cel mai mare port din America Latină", "În statul São Paulo", "Nod major pentru exporturi", "Important pentru cafea și soia"]
+      "id": "br-df-catedral-brasilia-landmarks-v2",
+      "description": "Catedrala Metropolitană din Brasília este o capodoperă a arhitectului Oscar Niemeyer, remarcabilă prin forma sa hiperboloidă.",
+      "facts": ["Structură din 16 coloane de beton", "Inaugurată în anul 1970", "Decorată cu vitralii albastre și verzi"]
     },
     {
-      "id": "paranagua-port-economic-v2",
-      "description": "Portul Paranaguá este unul dintre cele mai importante porturi agricole ale Braziliei. Are un rol central în exportul de cereale și alte mărfuri din sudul țării.",
-      "facts": ["În statul Paraná", "Exportă soia și porumb", "Port-cheie pentru agricultură", "Legat de coasta Atlanticului"]
+      "id": "br-df-palacio-planalto-landmarks-v2",
+      "description": "Palácio do Planalto este sediul oficial al Președinției Braziliei, situat în Piața celor Trei Puteri din Brasília.",
+      "facts": ["Proiectat de Oscar Niemeyer", "Inaugurat odată cu orașul în 1960", "Caracterizat prin coloane albe curbe"]
     },
     {
-      "id": "rio-grande-port-economic-v2",
-      "description": "Portul Rio Grande este principalul port maritim al statului Rio Grande do Sul. Susține comerțul și logistica din sudul Braziliei.",
-      "facts": ["În Rio Grande do Sul", "Port multipurpose", "Susține exporturile regionale", "Legat de sudul Braziliei"]
+      "id": "br-df-congresso-nacional-landmarks-v2",
+      "description": "Congresul Național este centrul puterii legislative braziliene, compus din două turnuri gemene și două cupole.",
+      "facts": ["Sediul Senatului și al Camerei Deputaților", "Proiect iconic de Oscar Niemeyer", "Cupolă convexă și cupolă concavă"]
     },
     {
-      "id": "vitoria-port-economic-v2",
-      "description": "Complexul portuar Vitória este un nod important pentru minereu de fier, oțel și celuloză. Susține logistica industrială a statului Espírito Santo.",
-      "facts": ["În Espírito Santo", "Manipulează minereu de fier", "Important pentru oțel și celuloză", "Complex portuar strategic"]
+      "id": "br-sp-ponte-estaiada-landmarks-v2",
+      "description": "Podul Octávio Frias de Oliveira este un simbol modern al orașului São Paulo, fiind singurul pod hobanat cu două piste curbe.",
+      "facts": ["Traversează râul Pinheiros", "Formă distinctivă în litera X", "Inaugurat în mai 2008"]
     },
     {
-      "id": "itaqui-port-economic-v2",
-      "description": "Portul Itaqui, aproape de São Luís, este un port de ape adânci important pentru minereuri și cereale. Servește ca ieșire strategică pentru nordul și centrul Braziliei.",
-      "facts": ["În Maranhão", "Port de ape adânci", "Exportă minerale și soia", "Conectat la rețele feroviare"]
+      "id": "br-sp-masp-landmarks-v2",
+      "description": "Muzeul de Artă din São Paulo este celebru pentru sediul său suspendat pe patru piloni roșii masivi.",
+      "facts": ["Proiectat de Lina Bo Bardi", "Cea mai importantă colecție de artă europeană", "Situat pe bulevardul Paulista"]
     },
     {
-      "id": "suape-port-economic-v2",
-      "description": "Portul Suape este unul dintre cele mai importante complexe portuare și industriale din nord-estul Braziliei. Leagă zona Recife de comerțul maritim și activitățile industriale.",
-      "facts": ["În Pernambuco", "Lângă Recife", "Port și zonă industrială", "Important pentru petrochimie"]
+      "id": "br-ba-elevador-lacerda-landmarks-v2",
+      "description": "Elevador Lacerda este primul lift public din lume, conectând Orașul de Sus de Orașul de Jos în Salvador.",
+      "facts": ["Inaugurat inițial în 1873", "Arhitectură în stil Art Deco", "Oferă o vedere panoramică asupra Golfului"]
     },
     {
-      "id": "pecem-port-economic-v2",
-      "description": "Portul Pecém este un port modern din Ceará, cu rol puternic în exporturi și industrie grea. A devenit un punct important pentru economia de pe coasta de nord-est.",
-      "facts": ["În Ceará", "Lângă Fortaleza", "Port modern", "Susține industria și exporturile"]
+      "id": "br-rs-catedral-pedra-landmarks-v2",
+      "description": "Catedrala de Piatră din Canela este o biserică impunătoare construită în stil neogotic, placată cu bazalt.",
+      "facts": ["Înălțimea turnului de 65 metri", "Situată în Serra Gaúcha", "Are un carillon cu 12 clopote de bronz"]
     },
     {
-      "id": "rio-de-janeiro-port-economic-v2",
-      "description": "Portul Rio de Janeiro a fost mult timp unul dintre principalele puncte maritime ale țării. Și astăzi rămâne important pentru transportul de mărfuri și pentru oraș.",
-      "facts": ["În Golful Guanabara", "Port urban", "Rol istoric major", "Legat de Rio de Janeiro"]
+      "id": "br-rj-museu-amanha-landmarks-v2",
+      "description": "Muzeul Mâine este o instituție științifică futuristă situată în zona portuară renovată din Rio de Janeiro.",
+      "facts": ["Proiectat de Santiago Calatrava", "Focus pe sustenabilitate și viitor", "Inaugurat în decembrie 2015"]
     },
     {
-      "id": "itajai-port-economic-v2",
-      "description": "Portul Itajaí este unul dintre cele mai importante porturi din sudul Braziliei pentru containere. Sprijină economia statului Santa Catarina și exporturile regionale.",
-      "facts": ["În Santa Catarina", "Port important pentru containere", "Legat de exporturi industriale", "Pe coasta atlantică"]
+      "id": "br-negro-river-nature-v2",
+      "description": "Rio Negro este cel mai mare afluent cu apă neagră al fluviului Amazon și unul dintre cele mai mari râuri din lume.",
+      "facts": ["Culoare datorată acidului humic", "Fenomenul Întâlnirea Apelor", "Izvorăște din Columbia"]
     },
     {
-      "id": "sao-francisco-do-sul-port-economic-v2",
-      "description": "Portul São Francisco do Sul este un port vechi și strategic din Santa Catarina. Joacă un rol important în exporturile și logistica din sudul Braziliei.",
-      "facts": ["În Santa Catarina", "Unul dintre cele mai vechi porturi", "Important pentru exporturi", "Port atlantic strategic"]
+      "id": "br-tapajos-river-nature-v2",
+      "description": "Râul Tapajós este cunoscut pentru apele sale cristaline și plajele cu nisip alb, fiind numit Caraibele Amazonului.",
+      "facts": ["Afluent major pe partea dreaptă a Amazonului", "Principalul oraș riveran este Santarém", "Traversează pădurea tropicală densă"]
     },
     {
-      "id": "cananeia-history-v2",
-      "description": "Cananéia este una dintre cele mai vechi așezări coloniale din Brazilia. Orașul păstrează un caracter istoric și este legat de începuturile colonizării portugheze.",
-      "facts": ["În statul São Paulo", "Așezare foarte veche", "Origini din secolul al XVI-lea", "Arhitectură colonială"]
+      "id": "br-xingu-river-nature-v2",
+      "description": "Râul Xingu este faimos pentru prima rezervație indigenă majoră din Brazilia și complexul hidroelectric Belo Monte.",
+      "facts": ["Unul dintre cei mai lungi afluenți", "Diversitate culturală și biologică ridicată", "Traversează statul Mato Grosso și Pará"]
+    },
+    {
+      "id": "br-mount-roraima-nature-v2",
+      "description": "Muntele Roraima este un munte masiv de tip tepui, situat la granița dintre Brazilia, Venezuela și Guyana.",
+      "facts": ["Vârstă geologică de 2 miliarde de ani", "Vârf plat înconjurat de stânci abrupte", "A inspirat romanul Lumea Pierdută"]
     }
   ]
 }

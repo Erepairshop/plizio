@@ -1,0 +1,39 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "fouta-djallon-archives-history-v2",
+      "descriptionAdvancedDe": "Die Archive des Fouta Djallon, die hauptsächlich in privaten Sammlungen in Städten wie Labé aufbewahrt werden, sind ein unschätzbarer Schatz des schriftlichen Erbes Westafrikas. Sie umfassen Tausende von Manuskripten, die während der Zeit des Imamats von Fouta Djallon (ca. 1725-1896) verfasst wurden. Diese Dokumente, geschrieben in Arabisch und Ajami (afrikanische Sprachen in arabischer Schrift), decken ein breites Themenspektrum ab: Theologie, Recht, Poesie, Geschichte, Genealogie und sogar Medizin. Sie widerlegen das Klischee eines schriftlosen Afrikas und zeugen von einer blühenden Gelehrtenkultur. Heute sind diese fragilen Manuskripte durch das Klima und mangelnde Konservierung bedroht, und es gibt internationale Bemühungen, sie zu digitalisieren und für zukünftige Generationen zu erhalten.",
+      "descriptionAdvancedHu": "A Fouta Djallon archívumai, amelyeket főként olyan városokban, mint Labé, magángyűjteményekben őriznek, Nyugat-Afrika írott örökségének felbecsülhetetlen értékű kincsei. Több ezer kéziratot tartalmaznak, amelyeket a Fouta Djallon Imámátus idején (kb. 1725-1896) írtak. Ezek a dokumentumok, amelyeket arabul és adzsami (afrikai nyelvek arab írással) nyelven írtak, a témák széles skáláját ölelik fel: teológia, jog, költészet, történelem, genealógia, sőt még orvostudomány is. Megcáfolják az írástudatlan Afrika kliséjét, és egy virágzó tudóskultúráról tanúskodnak. Ma ezeket a törékeny kéziratokat az éghajlat és a hiányos megőrzés veszélyezteti, és nemzetközi erőfeszítések folynak a digitalizálásukra és a jövő generációi számára való megőrzésükre.",
+      "descriptionAdvancedRo": "Arhivele din Fouta Djallon, păstrate în principal în colecții private din orașe precum Labé, reprezintă o comoară de neprețuit a patrimoniului scris al Africii de Vest. Acestea includ mii de manuscrise redactate în timpul Imamatului din Fouta Djallon (aproximativ 1725-1896). Aceste documente, scrise în arabă și ajami (limbi africane cu caractere arabe), acoperă o gamă largă de subiecte: teologie, drept, poezie, istorie, genealogie și chiar medicină. Ele infirmă clișeul unei Africi fără scriere și atestă o cultură academică înfloritoare. Astăzi, aceste manuscrise fragile sunt amenințate de climă și de lipsa conservării, iar eforturile internaționale se concentrează pe digitalizarea și păstrarea lor pentru generațiile viitoare.",
+      "descriptionAdvancedEn": "The Fouta Djallon archives, kept mainly in private collections in cities like Labé, are a priceless treasure of West Africa's written heritage. They comprise thousands of manuscripts written during the Imamate of Fouta Djallon (c. 1725-1896). These documents, written in Arabic and Ajami (African languages in Arabic script), cover a wide range of subjects: theology, law, poetry, history, genealogy, and even medicine. They refute the cliché of a preliterate Africa and testify to a flourishing culture of scholarship. Today, these fragile manuscripts are threatened by the climate and lack of conservation, and there are international efforts to digitize and preserve them for future generations.",
+      "factsAdvanced": [
+        "Sammlung von Manuskripten aus dem Imamat von Fouta Djallon.",
+        "Dokumente in Arabisch und Ajami (Pular).",
+        "Themen umfassen Recht, Theologie, Poesie und Geschichte.",
+        "Widerlegt das Vorurteil eines 'schriftlosen' Afrikas.",
+        "Hauptsächlich in privaten Familienbibliotheken in Labé.",
+        "Die Manuskripte sind durch das Klima stark gefährdet.",
+        "Internationale Projekte bemühen sich um ihre Digitalisierung."
+      ]
+    },
+    {
+      "id": "grand-mosque-kankan-history-v2",
+      "descriptionAdvancedDe": "Die Große Moschee von Kankan ist das Herzstück des spirituellen Lebens in Oberguinea und ein architektonisches Meisterwerk im traditionellen sudanesisch-sahelischen Stil. Obwohl das heutige Gebäude aus dem Jahr 1997 stammt, steht es an der Stelle einer viel älteren Moschee, die auf die Gründung Kankans als Zentrum der Mandinka-Gelehrsamkeit zurückgeht. Die ursprüngliche Moschee war ein wichtiger Ort für die Verbreitung des Islam in der Region. Die heutige Konstruktion aus Lehmziegeln mit ihren charakteristischen, aus der Wand ragenden Holzpfählen (toron) ahmt den Stil der berühmten Moscheen von Djenné und Timbuktu nach. Sie ist nicht nur ein Ort des täglichen Gebets, sondern auch ein Zentrum für islamische Erziehung und ein Treffpunkt der Gemeinschaft, der die tiefe religiöse Identität der Stadt verkörpert.",
+      "descriptionAdvancedHu": "A kankani nagymecset Felső-Guinea spirituális életének központi eleme és a hagyományos szudáni-száheli stílus építészeti remekműve. Bár a mai épület 1997-ből származik, egy sokkal régebbi mecset helyén áll, amely Kankan megalapításáig, mint a mandinka tudományosság központjáig nyúlik vissza. Az eredeti mecset fontos szerepet játszott az iszlám elterjesztésében a régióban. A mai, vályogtéglából készült építmény jellegzetes, falból kiálló faoszlopokkal (toron) Djenné és Timbuktu híres mecsetjeinek stílusát utánozza. Nemcsak a napi imádság helyszíne, hanem az iszlám oktatás központja és a közösség találkozóhelye is, amely a város mély vallási identitását testesíti meg.",
+      "descriptionAdvancedRo": "Marea Moschee din Kankan este piesa centrală a vieții spirituale din Guineea Superioară și o capodoperă arhitecturală în stilul tradițional sudano-sahelian. Deși clădirea actuală datează din 1997, ea se află pe locul unei moschei mult mai vechi, care datează de la fondarea Kankanului ca centru de erudiție Mandinka. Moscheea originală a fost un loc important pentru răspândirea islamului în regiune. Construcția actuală din cărămizi de noroi, cu stâlpii săi caracteristici de lemn (toron) ieșind din perete, imită stilul faimoaselor moschei din Djenné și Timbuktu. Nu este doar un loc de rugăciune zilnică, ci și un centru de educație islamică și un punct de întâlnire pentru comunitate, întruchipând identitatea religioasă profundă a orașului.",
+      "descriptionAdvancedEn": "The Grand Mosque of Kankan is the centerpiece of spiritual life in Upper Guinea and an architectural masterpiece in the traditional Sudanese-Sahelian style. Although the current building dates from 1997, it stands on the site of a much older mosque dating back to the founding of Kankan as a center of Mandinka scholarship. The original mosque was an important place for the spread of Islam in the region. The current mud-brick construction, with its characteristic wooden posts (toron) protruding from the wall, mimics the style of the famous mosques of Djenné and Timbuktu. It is not only a place of daily prayer but also a center for Islamic education and a community meeting point, embodying the city's deep religious identity.",
+      "factsAdvanced": [
+        "Wichtigstes religiöses Zentrum in Kankan, Oberguinea.",
+        "Architektur im sudanesisch-sahelischen Stil.",
+        "Neubau von 1997 an historischer Stätte.",
+        "Traditionelle Lehmziegelbauweise mit Holzverstrebungen.",
+        "Zentrum der islamischen Gelehrsamkeit der Mandinka.",
+        "Erinnert an die berühmten Moscheen von Djenné und Timbuktu.",
+        "Ort für große muslimische Feste und Versammlungen."
+      ]
+    }
+  ]
+}

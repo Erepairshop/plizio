@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mausoleum-camayenne-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Camayenne-Mausoleum in Conakry ist die bedeutendste nationale Gedenkstätte Guineas und dient als letzte Ruhestätte für die herausragendsten Persönlichkeiten der Landesgeschichte. Es befindet sich in unmittelbarer Nähe zur Großen Moschee von Conakry in einem gepflegten Parkgelände. Die Architektur des Mausoleums ist schlicht, aber würdevoll, geprägt durch helle Steinbauten und grüne Kuppeln, die sich harmonisch in die Umgebung einfügen. Historisch gesehen ist dieser Ort von immenser Bedeutung, da hier die Überreste von Nationalhelden wie Samori Touré, dem Anführer des Widerstands gegen die französische Kolonisation, sowie von Alpha Yaya Diallo, dem König von Labé, beigesetzt wurden. Auch Ahmed Sékou Touré, der erste Präsident des unabhängigen Guinea, fand hier seine letzte Ruhe. Das Mausoleum fungiert als spirituelles und politisches Zentrum, an dem bei nationalen Feiertagen Kranzniederlegungen und staatliche Zeremonien stattfinden. Für die guineische Bevölkerung ist es ein Ort der nationalen Identität und des Stolzes, der an den langen Weg zur Unabhängigkeit und die Verteidigung der Souveränität erinnert. Die Anlage ist für Besucher zugänglich und bietet einen Ort der Stille inmitten der quirligen Metropole Conakry, wobei die historische Schwere der hier bestatteten Persönlichkeiten in jeder Ecke spürbar ist.",
+        "hu": "A conakry-i Camayenne-mauzóleum Guinea legfontosabb nemzeti emlékhelye, amely az ország történelmének legmeghatározóbb alakjai előtt tiszteleg. A mauzóleum a főváros szívében, a Conakry-i Nagymecset közvetlen szomszédságában, egy gondozott parkban található. Az épületegyüttes stílusa visszafogott, mégis méltóságteljes, a világos kőfalak és a zöld kupolák a nyugat-afrikai iszlám építészet elemeit ötvözik a modern nemzeti szimbolikával. Ez a hely szolgál végső nyughelyéül Guinea olyan nemzeti hőseinek, mint Samori Touré, aki a 19. század végén az ellenállást vezette a francia gyarmatosítók ellen, vagy Alpha Yaya Diallo, Labé egykori uralkodója. Itt temették el Ahmed Sékou Tourét is, Guinea első elnökét, aki 1958-ban kivívta az ország függetlenségét. A mauzóleum nem csupán temetkezési hely, hanem a nemzeti emlékezet központja is, ahol állami ünnepségeket és megemlékezéseket tartanak. A látogatók számára a helyszín bepillantást enged Guinea politikai önazonosságának gyökereibe és a függetlenségi harc drámai eseményeibe. A kert csendje és a síremlékek ünnepélyessége éles ellentétben áll a környező utcák nyüzsgésével, így a mauzóleum a reflexió és a tiszteletadás szigete a modern Conakryban.",
+        "ro": "Mausoleul Camayenne din Conakry este cel mai important monument funerar național din Guineea, servind drept loc de odihnă veșnică pentru cele mai ilustre figuri ale istoriei țării. Situat în imediata vecinătate a Marii Moschei din Conakry, într-un parc bine întreținut, mausoleul reprezintă inima spirituală a identității guineene. Arhitectura sa este sobră, dar impunătoare, cu domuri verzi și structuri din piatră albă care reflectă estetica sacră locală. Importanța istorică a acestui loc este colosală, adăpostind rămășițele pământești ale unor eroi naționali precum Samori Touré, liderul legendar al rezistenței anti-coloniale, ale cărui oseminte au fost repatriate aici. De asemenea, mausoleul conține mormintele lui Alpha Yaya Diallo, regele din Labé, și al lui Ahmed Sékou Touré, primul președinte al națiunii independente. Pentru poporul guineean, Camayenne este un simbol al suveranității și al demnității recâștigate, fiind locul unde se desfășoară principalele ceremonii de comemorare la nivel de stat. Vizitatorii pot simți aici greutatea istoriei și respectul profund pe care națiunea îl poartă fondatorilor săi. Atmosfera de liniște din interiorul complexului oferă un refugiu pentru reflecție în mijlocul agitației urbane a capitalei, fiind un punct de reper esențial pentru oricine dorește să înțeleagă parcursul politic al Guineei moderne.",
+        "en": "The Camayenne Mausoleum in Conakry is Guinea's foremost national shrine and the final resting place for the most influential figures in the country's history. Located adjacent to the Conakry Grand Mosque within a serene park, the mausoleum serves as a focal point for national remembrance. The architecture is modest yet dignified, featuring pale stone structures and green domes that blend traditional Islamic aesthetics with national significance. Historically, this site is of immense importance as it houses the remains of national heroes such as Samori Touré, the 19th-century resistance leader against French colonization, and Alpha Yaya Diallo, the legendary King of Labé. Ahmed Sékou Touré, the founding father and first president of independent Guinea, is also interred here. The mausoleum is more than a burial ground; it is a spiritual and political monument where state ceremonies and wreath-laying events take place during national holidays. For Guineans, it represents the struggle for independence and the preservation of national sovereignty. The peaceful atmosphere of the grounds offers a place for reflection amidst the bustling capital, making it an essential visit for understanding the cultural and political roots of the modern Guinean state."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Mausoleum beherbergt das Grab von Ahmed Sékou Touré, dem ersten Präsidenten.",
+          "Die Überreste von Samori Touré wurden 1968 aus Gabun hierher überführt.",
+          "Es befindet sich auf dem Gelände der Großen Moschee von Conakry.",
+          "Alpha Yaya Diallo, ein bedeutender Herrscher des Fouta Djallon, ist hier bestattet.",
+          "Die Anlage ist ein zentraler Ort für staatliche Gedenkfeiern am Unabhängigkeitstag.",
+          "Das Mausoleum wird oft von ausländischen Staatsgästen besucht."
+        ],
+        "hu": [
+          "A mauzóleum Ahmed Sékou Tourénak, Guinea alapító atyjának végső nyughelye.",
+          "Samori Touré maradványait 1968-ban szállították ide Gabonból.",
+          "A síremlék a Conakry-i Nagymecset árnyékában, egy botanikus kertben fekszik.",
+          "Itt nyugszik Alpha Yaya Diallo is, aki a Fouta Djallon ellenállását vezette.",
+          "A helyszín a nemzeti ünnepnapokon tartott állami koszorúzások központja.",
+          "Az épület kupolái a guineai iszlám építészet klasszikus stílusát idézik."
+        ],
+        "ro": [
+          "Mausoleul adăpostește mormântul lui Ahmed Sékou Touré, primul președinte.",
+          "Rămășițele lui Samori Touré au fost repatriate din Gabon în anul 1968.",
+          "Este situat în incinta simbolică a Marii Moschei din capitală.",
+          "Aici se află și mormântul lui Alpha Yaya Diallo, regele legendar din Labé.",
+          "Complexul este locul principal pentru ceremoniile de Ziua Independenței.",
+          "Mausoleul este considerat panteonul național al Republicii Guineea."
+        ],
+        "en": [
+          "The mausoleum contains the tomb of Ahmed Sékou Touré, Guinea's first president.",
+          "Samori Touré's remains were repatriated from Gabon to this site in 1968.",
+          "It is located within the prestigious grounds of the Conakry Grand Mosque.",
+          "Alpha Yaya Diallo, a prominent Fouta Djallon ruler, is also buried here.",
+          "The site is the official venue for state wreath-laying on Independence Day.",
+          "The architecture features distinctive green domes and manicured gardens."
+        ]
+      }
+    },
+    {
+      "id": "almamy-yaya-tomb-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Grab von Almamy Alpha Yaya Diallo ist eine heilige historische Stätte in Guinea, die dem Gedenken an einen der mächtigsten und charismatischsten Herrscher des Fouta-Djallon-Plateaus gewidmet ist. Alpha Yaya Diallo war der König von Labé und ein zentraler Akteur im Widerstand gegen die französische Kolonialherrschaft am Ende des 19. und Anfang des 20. Jahrhunderts. Obwohl sein eigentlicher Grabort Teil des nationalen Mausoleums in Conakry ist (nachdem seine Überreste dorthin überführt wurden), bleibt der ursprüngliche Ort in der Region Labé ein bedeutendes Denkmal seiner Macht und seines Erbes. Historisch gesehen steht Alpha Yaya für die komplexe Diplomatie und den Mut der afrikanischen Aristokratie während des 'Scramble for Africa'. Er wurde mehrfach von den Franzosen verbannt und starb schließlich im Exil in Mauretanien, bevor seine sterblichen Überreste als Symbol der nationalen Versöhnung und des Stolzes in die Heimat zurückgebracht wurden. Die Stätte wird heute oft als Ort der Identitätsfindung für die Peul-Bevölkerung und alle Guineer besucht, die seinen Kampf für Autonomie und Würde ehren möchten. Sein Leben ist tief in der mündlichen Überlieferung und den Liedern der Griots verwurzelt, und sein Name bleibt ein Synonym für den unbeugsamen Geist des Hochlandes.",
+        "hu": "Almamy Alpha Yaya Diallo sírja Guinea egyik legfontosabb történelmi emlékhelye, amely a Fouta Djallon-fennsík egyik leghatalmasabb és legkarizmatikusabb uralkodójának állít emléket. Alpha Yaya Diallo Labé királya volt, és kulcsszerepet játszott a francia gyarmati törekvésekkel szembeni ellenállásban a 19. század végén és a 20. század elején. Bár földi maradványait később a conakry-i nemzeti mauzóleumba szállították át, az eredeti sírhely és a hozzá kapcsolódó emlékhelyek Labé régiójában továbbra is a hatalma és öröksége előtti tisztelet szimbólumai. Történelmileg Alpha Yaya az afrikai arisztokrácia bátor helytállását és bonyolult diplomáciai manővereit képviseli az „Afrikáért folytatott hajsza” idején. A franciák többször száműzték, és végül Mauritániában halt meg, de emlékezete a nemzeti büszkeség oszlopává vált. A helyszín ma fontos zarándokhely a fula lakosság és minden guineai számára, aki tiszteli az autonómiáért és méltóságért folytatott küzdelmet. Élete és tettei mélyen beépültek a szájhagyományba és a griotok énekeibe, neve pedig a mai napig a hegyi emberek megtörhetetlen szellemének szinonimája.",
+        "ro": "Mormântul lui Almamy Alpha Yaya Diallo este un sit istoric sacru din Guineea, dedicat memoriei unuia dintre cei mai puternici și charismatici conducători ai platoului Fouta Djallon. Alpha Yaya Diallo a fost regele din Labé și un actor central în rezistența împotriva dominației coloniale franceze la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea. Deși locul său oficial de înhumare este acum parte a mausoleului național din Conakry (după ce rămășițele sale au fost transferate acolo), locațiile originale din regiunea Labé rămân monumente semnificative ale puterii și moștenirii sale. Din punct de vedere istoric, Alpha Yaya simbolizează diplomația complexă și curajul aristocrației africane în timpul perioadei de colonizare. A fost exilat de mai multe ori de către francezi și a murit în cele din urmă în exil în Mauritania, înainte ca osemintele sale să fie repatriate ca simbol al reconcilierii și mândriei naționale. Situl este vizitat astăzi ca un loc de afirmare a identității pentru populația Fula și pentru toți guineenii care doresc să onoreze lupta sa pentru autonomie și demnitate. Viața sa este profund înrădăcinată în tradiția orală și în cântecele griotilor, iar numele său rămâne un sinonim pentru spiritul neîmblânzit al munților.",
+        "en": "The tomb and memorial sites of Almamy Alpha Yaya Diallo represent a sacred historical landmark in Guinea, dedicated to one of the most powerful and charismatic rulers of the Fouta Djallon plateau. Alpha Yaya Diallo was the King of Labé and a pivotal figure in the resistance against French colonial expansion during the late 19th and early 20th centuries. While his remains were eventually moved to the national mausoleum in Conakry as an act of national honor, the original sites in the Labé region remain powerful symbols of his authority and legacy. Historically, Alpha Yaya embodies the sophisticated diplomacy and bravery of the African aristocracy during the 'Scramble for Africa.' He was exiled several times by French authorities and eventually died in Mauritania, but his repatriation became a symbol of national reconciliation and pride. Today, the site is visited by those seeking to honor his struggle for autonomy and dignity. His life is deeply woven into the oral traditions and songs of the griots, and his name remains synonymous with the unyielding spirit of the Guinean highlands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Alpha Yaya Diallo war der Almamy (Herrscher) der Provinz Labé.",
+          "Sein Name wird in der guineischen Nationalhymne 'Liberté' indirekt geehrt.",
+          "Er wurde 1911 von den Kolonialbehörden nach Mauretanien verbannt.",
+          "Seine sterblichen Überreste wurden 1969 nach Guinea zurückgeführt.",
+          "Er gilt als einer der drei großen Nationalhelden Guineas.",
+          "Die Stätte in Labé ist ein wichtiges Ziel für kulturelle Studien der Peul-Geschichte."
+        ],
+        "hu": [
+          "Alpha Yaya Diallo Labé tartomány nagyhatalmú uralkodója volt.",
+          "Nevét és tetteit a guineai nemzeti himnusz ('Liberté') dallama is idézi.",
+          "A gyarmati hatóságok 1911-ben Mauritániába száműzték, ott is hunyt el.",
+          "Földi maradványait 1969-ben hozták haza ünnepélyes keretek között.",
+          "A Fouta Djallon-hegység lakói számára ő a szabadság legfőbb szimbóluma.",
+          "Történelmi szerepe kulcsfontosságú a gyarmatosítás előtti közigazgatás megértéséhez."
+        ],
+        "ro": [
+          "Alpha Yaya Diallo a fost conducătorul suprem al provinciei Labé.",
+          "Este unul dintre rarii lideri africani care a negociat de la egal la egal cu Franța.",
+          "A murit în exil la Port-Étienne (azi Nouadhibou, Mauritania) în 1912.",
+          "Rămășițele sale au fost mutate la Conakry pentru a uni simbolic națiunea.",
+          "Este considerat o figură legendară a rezistenței non-violente și diplomatice.",
+          "Imnul național al Guineei are rădăcini în muzica dedicată lui Alpha Yaya."
+        ],
+        "en": [
+          "Alpha Yaya Diallo was the Almamy (sovereign) of the Labé province.",
+          "His legacy is celebrated in the melody of Guinea's national anthem, 'Liberté'.",
+          "He was exiled to Mauritania by French colonial forces in 1911.",
+          "His remains were repatriated to Guinea in 1969 with full national honors.",
+          "He is regarded as one of Guinea's top three anti-colonial national heroes.",
+          "The site is a major cultural landmark for the history of the Fouta Djallon."
+        ]
+      }
+    },
+    {
+      "id": "fort-boke-museum-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fort von Boké, das heute ein bedeutendes Museum beherbergt, ist ein eindrucksvolles Zeugnis der kolonialen Vergangenheit Guineas. Es wurde im 19. Jahrhundert von den Franzosen an den Ufern des Rio Nuñez errichtet, um ihre Machtansprüche in der Region zu festigen und den lukrativen Handel zu kontrollieren. Ursprünglich diente der Standort als strategischer Posten während der Endphase des transatlantischen Sklavenhandels und später als administratives Zentrum der Kolonialverwaltung. Die Architektur des Forts ist typisch für europäische Militärbauten jener Zeit, mit massiven Mauern und unterirdischen Zellen, die einst Gefangene und Sklaven beherbergten. Heute fungiert das Fort als Regionalmuseum von Boké und zeigt eine umfangreiche Sammlung von Artefakten, die die Geschichte der Region, den Widerstand gegen die Kolonialisierung und die Kulturen der Baga, Landuma und Nalu dokumentieren. Besonders beklemmend sind die erhaltenen Verliese, die die Grausamkeit des Menschenhandels vor Augen führen. Das Museum spielt eine wichtige Rolle in der Bildungsarbeit des Landes und dient als Mahnmal für die Freiheit. Die Lage des Forts bietet zudem einen weiten Blick über den Rio Nuñez, der einst die Lebensader für den Handel mit dem Landesinneren war.",
+        "hu": "A Boké-erőd, amely ma regionális múzeumnak ad otthont, Guinea gyarmati múltjának egyik legfontosabb mementója. A 19. században a franciák építették a Rio Nuñez folyó partján, hogy megszilárdítsák hatalmukat a térségben és ellenőrizzék a jövedelmező kereskedelmi útvonalakat. A helyszín történelme sötétebb korszakokat is idéz: stratégiai pontként szolgált a transzatlanti rabszolga-kereskedelem utolsó szakaszában, majd később a gyarmati közigazgatás központja lett. Az erőd építészete az európai katonai stílust tükrözi, masszív falaival és föld alatti celláival, amelyekben egykor foglyokat és rabszolgákat őriztek. Napjainkban a múzeum gazdag gyűjteményt mutat be a környék történelméről, a gyarmatosítás elleni harcról, valamint a helyi baga, landuma és nalu népcsoportok kultúrájáról. A legmegrázóbb látnivalók közé tartoznak az épségben maradt börtöncellák, amelyek a rabszolgaság kegyetlenségére emlékeztetnek. A múzeum kulcsszerepet játszik az ország történelmi oktatásában, és a szabadságért folytatott küzdelem emlékműveként szolgál. Az erőd elhelyezkedése kiváló rálátást biztosít a Rio Nuñez folyóra, amely évszázadokon át a régió gazdasági ütőere volt.",
+        "ro": "Fortul din Boké, care astăzi găzduiește un muzeu regional important, este o mărturie impresionantă a trecutului colonial al Guineei. Construit de francezi în secolul al XIX-lea pe malurile râului Rio Nuñez, fortul a avut scopul de a consolida autoritatea colonială și de a controla rutele comerciale profitabile din regiune. Istoria acestui loc este strâns legată de perioadele întunecate ale comerțului transatlantic cu sclavi, servind ulterior ca centru administrativ principal al administrației franceze. Arhitectura fortului păstrează trăsăturile construcțiilor militare europene, cu ziduri masive și celule subterane unde erau deținuți prizonierii și sclavii înainte de a fi îmbarcați. În prezent, Muzeul din Boké expune o colecție vastă de artefacte care documentează istoria locală, rezistența împotriva ocupației și bogata cultură a etniilor Baga, Landuma și Nalu. Celulele de detenție, păstrate în starea lor originală, oferă o imagine cutremurătoare a suferinței umane din acea epocă. Muzeul joacă un rol educațional vital, fiind un memorial dedicat libertății și demnității umane. Poziția fortului oferă o vedere panoramică asupra râului Rio Nuñez, artera care a alimentat timp de secole schimburile comerciale între coastă și interiorul țării.",
+        "en": "The Fort of Boké, which today houses a significant regional museum, is a stark reminder of Guinea's colonial past. Built by the French in the 19th century along the banks of the Rio Nuñez, the fort was designed to solidify colonial rule and control lucrative trade routes in the region. Its history is deeply linked to the later stages of the transatlantic slave trade, and it later served as a central administrative post for the French colonial government. The architecture of the fort is typical of European military structures of the era, featuring thick stone walls and damp underground cells that once held captives and enslaved people. Today, the Fort Museum of Boké showcases a rich collection of artifacts documenting the region's history, the resistance against colonization, and the diverse cultures of the Baga, Landuma, and Nalu peoples. The preserved dungeons remain the most poignant part of the visit, illustrating the brutality of the slave trade. The museum serves as an essential educational center and a memorial to the struggle for freedom. Its location provides a sweeping view of the Rio Nuñez, once the vital artery for trade between the coast and the interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Fort wurde 1878 offiziell als französischer Militärposten errichtet.",
+          "Es diente als Zwischenstation für den Sklavenhandel im Rio Nuñez.",
+          "Das Museum zeigt die berühmten 'Nimba'-Masken der Baga-Kultur.",
+          "Die unterirdischen Kerker sind bis heute im Originalzustand erhalten.",
+          "Boké war aufgrund dieses Forts ein Schlüsselpunkt der kolonialen Durchdringung.",
+          "Das Fort wurde 1971 in ein Museum umgewandelt."
+        ],
+        "hu": [
+          "Az erődöt 1878-ban hozták létre hivatalos francia katonai támaszpontként.",
+          "Hírhedt helyszín volt, ahol a rabszolgákat a hajókra várva őrizték.",
+          "A múzeum kiemelkedő darabjai a baga nép 'Nimba' maszkjai.",
+          "A föld alatti tömlöcök ma is látogathatók, eredeti formájukban maradtak meg.",
+          "Boké városa az erőd miatt vált a francia közigazgatás regionális központjává.",
+          "Az épület Guinea egyik legfontosabb történelmi műemléke."
+        ],
+        "ro": [
+          "Fortul a fost stabilit oficial ca post militar francez în anul 1878.",
+          "A fost un punct terminal pentru caravanele de sclavi din interior.",
+          "Muzeul deține o colecție rară de obiecte ritualice ale poporului Baga.",
+          "Zidurile fortului au fost construite folosind materiale locale și tehnici europene.",
+          "Este unul dintre puținele forturi coloniale bine conservate din Guineea.",
+          "Locul a fost declarat monument istoric național după independență."
+        ],
+        "en": [
+          "The fort was officially established as a French military post in 1878.",
+          "It served as a major holding area for the slave trade along the Rio Nuñez.",
+          "The museum houses the famous 'Nimba' masks of the Baga people.",
+          "The underground dungeons are preserved in their original, harrowing state.",
+          "Boké became a regional colonial capital primarily due to this fortification.",
+          "The fort was converted into a museum in 1971 to educate future generations."
+        ]
+      }
+    },
+    {
+      "id": "sosso-bala-shrine-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Schrein des Sosso-Bala in Niagassola ist eine der heiligsten und kulturell bedeutendsten Stätten in ganz Westafrika. Er beherbergt das Sosso-Bala, ein heiliges Balafon (Xylophon), das aus dem 13. Jahrhundert stammt und eng mit der Gründung des Mali-Reiches verbunden ist. Laut der mündlichen Überlieferung gehörte das Instrument ursprünglich Sumanguru Kanté, dem König von Sosso, und wurde nach dessen Niederlage von Sundiata Keita erbeutet. Sundiata vertraute das Balafon der Familie Dokala an, die es seit über 800 Jahren als heiliges Erbe hütet. Der Schrein selbst ist ein bescheidenes, traditionelles Gebäude, das eine Atmosphäre tiefer Ehrfurcht ausstrahlt. Das Sosso-Bala wird nur zu ganz besonderen Anlässen gespielt und gilt als das 'Mutter-Instrument' aller Balafone der Mandinka-Kultur. Aufgrund seiner Einzigartigkeit und historischen Tiefe wurde das Sosso-Bala von der UNESCO zum Meisterwerk des mündlichen und immateriellen Erbes der Menschheit erklärt. Für Historiker und Musiker ist der Schrein ein lebendiges Archiv der vorkolonialen Geschichte und ein Symbol für die Beständigkeit der afrikanischen Traditionen über die Jahrhunderte hinweg.",
+        "hu": "A Niagassolában található Szosszo-Bala szentély Nyugat-Afrika egyik legfontosabb kulturális és spirituális helyszíne. Itt őrzik a Szosszo-Balát, egy szent balafont (xilofon), amely a 13. századból származik, és elválaszthatatlanul kapcsolódik a Mali Birodalom alapításához. A szájhagyomány szerint a hangszer eredetileg Sumanguru Kantéé, Szosszo királyáé volt, majd a veresége után Szundiata Keita tulajdonába került. Szundiata a balafont a Dokala családra bízta, akik azóta, több mint 800 éve töretlenül őrzik ezt a szent örökséget. A szentély maga egy egyszerű, hagyományos épület, amely mély tiszteletet sugároz. A Szosszo-Balát csak rendkívüli alkalmakkor szólaltatják meg, és a mandinka kultúra minden balafonjának „ősanyjaként” tekintenek rá. Egyedisége és történelmi jelentősége miatt az UNESCO az emberiség szellemi kulturális örökségének részévé nyilvánította. A történészek és zenészek számára a szentély egy élő archívum, amely a gyarmatosítás előtti afrikai történelem folytonosságát és a hagyományok erejét szimbolizálja.",
+        "ro": "Sanctuarul Sosso-Bala din Niagassola este unul dintre cele mai sacre și semnificative situri culturale din întreaga Africă de Vest. Acesta adăpostește Sosso-Bala, un balafon (xilofon) sacru ce datează din secolul al XIII-lea, fiind strâns legat de fondarea Imperiului Mali. Conform tradiției orale, instrumentul a aparținut inițial lui Sumanguru Kanté, regele Sosso, și a fost capturat de Sundiata Keita după victoria sa. Sundiata a încredințat balafonul familiei Dokala, care îl păstrează ca pe o moștenire sacră de peste 800 de ani. Sanctuarul în sine este o clădire tradițională modestă, dar care emană o atmosferă de respect profund. Sosso-Bala este utilizat doar în ocazii excepționale și este considerat „instrumentul-mamă” al tuturor balafonelor din cultura Mandinka. Datorită unicității și profunzimii sale istorice, Sosso-Bala a fost declarat de UNESCO drept o capodoperă a patrimoniului oral și imaterial al umanității. Pentru istorici și muzicologi, sanctuarul reprezintă o arhivă vie a istoriei precoloniale și un simbol al rezilienței tradițiilor africane de-a lungul secolelor.",
+        "en": "The Sosso-Bala Shrine in Niagassola is one of the most sacred and culturally significant sites in all of West Africa. It houses the Sosso-Bala, a holy balafon (xylophone) dating back to the 13th century, intricately linked to the founding of the Mali Empire. According to oral tradition, the instrument originally belonged to Sumanguru Kanté, the King of Sosso, and was captured by Sundiata Keita after his victory. Sundiata entrusted the balafon to the Dokala family, who have served as its guardians for over 800 years. The shrine itself is a modest, traditional building that exudes an atmosphere of profound reverence. The Sosso-Bala is played only during extraordinary ceremonies and is considered the 'mother instrument' of all balafons in Mandinka culture. Due to its uniqueness and historical depth, UNESCO declared the Sosso-Bala a Masterpiece of the Oral and Intangible Heritage of Humanity. For historians and musicians, the shrine is a living archive of pre-colonial African history and a symbol of the enduring power of tradition."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Sosso-Bala ist über 800 Jahre alt und immer noch funktionstüchtig.",
+          "Der Schrein wird von der Dokala-Familie, den erblichen Hütern, bewacht.",
+          "Es wurde 2001 in das UNESCO-Weltkulturerbe aufgenommen.",
+          "Das Instrument besteht aus heiligen Hölzern und Kalebassen-Resonatoren.",
+          "Der Legende nach hat das Balafon magische Kräfte.",
+          "Niagassola ist aufgrund des Schreins ein Pilgerziel für Mandinka-Musiker."
+        ],
+        "hu": [
+          "A Szosszo-Bala több mint 800 éves, és még ma is megszólaltatható.",
+          "A hangszer őrzése apáról fiúra száll a Dokala családban.",
+          "Az UNESCO 2001-ben vette fel a szellemi világörökség listájára.",
+          "A hangszer tizenkilenc lécből áll, amelyeket szent faanyagból faragtak.",
+          "A szentély Niagassola falu szívében, egy védett házban található.",
+          "A hagyomány szerint a hangszer hangja közvetít az ősök és az élők között."
+        ],
+        "ro": [
+          "Sosso-Bala are peste 800 de ani și este încă într-o stare de conservare uimitoare.",
+          "Custodele actual este descendent direct al primului păstrător numit de Sundiata.",
+          "Instrumentul este considerat simbolul unității poporului Mandinka.",
+          "Muzica interpretată la Sosso-Bala include epopei istorice vechi.",
+          "Sanctuarul este un loc de interdicție pentru cei care nu respectă tradițiile locale.",
+          "Niagassola este recunoscut internațional datorită acestui artefact unic."
+        ],
+        "en": [
+          "The Sosso-Bala is over 800 years old and remains functional today.",
+          "The shrine is guarded by the Dokala family, the hereditary keepers of the instrument.",
+          "It was recognized by UNESCO as an Intangible Heritage masterpiece in 2001.",
+          "The instrument features nineteen slats made from sacred wood.",
+          "According to legend, the balafon was brought to the human world by spirits.",
+          "Niagassola attracts scholars from around the world to study this living relic."
+        ]
+      }
+    },
+    {
+      "id": "faran-kama-monument-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Faran-Kama-Monument in Faranah ist ein zentrales historisches Wahrzeichen, das dem Gründer der Stadt, Faran Kama, gewidmet ist. Faran Kama war ein legendärer Jäger und Anführer der Oulada-Mandinka, der im 18. Jahrhundert den Grundstein für die heutige Stadt am Oberlauf des Niger legte. Das Monument steht symbolisch für die Tapferkeit, Weisheit und den Pioniergeist der Vorfahren, die die raue Savannenlandschaft besiedelten. Geografisch liegt Faranah an einer strategisch wichtigen Stelle, wo der Niger-Fluss noch schmal ist, was die Stadt historisch zu einem wichtigen Handelsposten machte. Das Denkmal ist ein Ort des Stolzes für die lokale Bevölkerung und wird oft bei traditionellen Festen und kulturellen Zeremonien aufgesucht. Es erinnert an die vorkoloniale Organisation der Mandinka-Gemeinschaften und die Bedeutung der Jägerbruderschaften (Donsow) für die soziale Stabilität. Für Besucher bietet das Monument einen Einblick in die Gründungsgeschichte der Region und die tief verwurzelten Traditionen, die Faranah bis heute prägen. Es ist eng mit der Identität der Stadt verknüpft, die später als Geburtsort des ersten Präsidenten Sékou Touré zusätzliche nationale Bedeutung erlangte.",
+        "hu": "A Faranah városában található Faran-Kama emlékmű a település alapítójának, Faran Kamának állít emléket. Faran Kama a legenda szerint egy kiváló vadász és az oulada-mandinka nép vezetője volt, aki a 18. században rakta le a mai város alapjait a Niger-folyó felső szakaszánál. Az emlékmű a bátorságot, a bölcsességet és az ősök úttörő szellemét jelképezi, akik benépesítették ezt a szavannás vidéket. Földrajzilag Faranah egy stratégiai ponton fekszik, ahol a Niger még viszonylag keskeny, így a város történelmileg fontos kereskedelmi csomóponttá válhatott. A helyi lakosság számára az emlékmű a nemzeti büszkeség és az önazonosság fontos szimbóluma, amelynél gyakran tartanak hagyományos ünnepségeket és kulturális rituálékat. Felidézi a mandinka közösségek gyarmatosítás előtti társadalmi berendezkedését és a vadásztársaságok (donszo) közösségformáló erejét. A látogatók számára az emlékmű kulcsot ad a régió alapítási történetéhez és azokhoz a mélyen gyökerező hagyományokhoz, amelyek Faranah-t ma is meghatározzák. A város később mint Sékou Touré első elnök szülőhelye vált országos hírűvé, de gyökerei a Faran Kama által kijelölt helyhez kötődnek.",
+        "ro": "Monumentul Faran-Kama din Faranah este un reper istoric central dedicat fondatorului orașului, Faran Kama. Acesta a fost un vânător legendar și un lider al grupului Oulada-Mandinka, care în secolul al XVIII-lea a pus bazele actualei așezări pe cursul superior al fluviului Niger. Monumentul simbolizează curajul, înțelepciunea și spiritul de pionierat al strămoșilor care au colonizat peisajul de savană din această regiune. Geografic, Faranah este situat într-un punct strategic unde Nigerul este încă îngust, ceea ce a făcut din oraș un punct comercial istoric important. Monumentul reprezintă un loc de mândrie pentru populația locală și este adesea punctul central al festivalurilor tradiționale și al ceremoniilor culturale. Acesta amintește de organizarea precolonială a comunităților Mandinka și de importanța frățiilor de vânători (Donsow) pentru stabilitatea socială. Pentru vizitatori, monumentul oferă o perspectivă asupra istoriei fondării regiunii și asupra tradițiilor profund înrădăcinate care definesc Faranah până în prezent. Este strâns legat de identitatea orașului, care ulterior a căpătat o importanță națională suplimentară ca loc de naștere al primului președinte, Sékou Touré.",
+        "en": "The Faran-Kama Monument in Faranah is a central historical landmark dedicated to the city's founder, Faran Kama. He was a legendary hunter and leader of the Oulada-Mandinka people, who in the 18th century laid the foundations for the current city on the upper reaches of the Niger River. The monument stands as a symbol of the bravery, wisdom, and pioneering spirit of the ancestors who settled this rugged savanna landscape. Geographically, Faranah is located at a strategic point where the Niger River is still narrow, which historically made the town an important trading post. The monument is a source of pride for the local population and is frequently featured during traditional festivals and cultural ceremonies. It serves as a reminder of the pre-colonial organization of Mandinka communities and the significance of hunter brotherhoods (Donsow) in maintaining social stability. For visitors, the monument offers insight into the founding story of the region and the deep-rooted traditions that continue to shape Faranah today. It is intricately linked to the identity of the town, which later gained additional national fame as the birthplace of Guinea's first president, Sékou Touré."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Faran Kama war ein berühmter Jäger der Oulada-Mandinka-Ethnie.",
+          "Das Monument markiert den Ort, an dem die erste Siedlung von Faranah entstand.",
+          "Faranah bedeutet übersetzt 'Platz des Faran'.",
+          "Die Stadt liegt an der Stelle, an der der Niger aus den Bergen in die Savanne fließt.",
+          "Das Monument ist ein Symbol der Donsow-Jägerbruderschaften.",
+          "Es ist ein wichtiger Ort für die mündliche Überlieferung der Stadtgeschichte."
+        ],
+        "hu": [
+          "Faran Kama az oulada-mandinka népcsoport híres vadásza volt.",
+          "Az emlékmű pontosan ott áll, ahol Faranah első kunyhóit felépítették.",
+          "Faranah neve malinké nyelven azt jelenti: 'Faran helye'.",
+          "A város a Niger-folyó partján, fontos történelmi gázlóhelyen fekszik.",
+          "Az alapító szellemét a helyi közösség ma is védelmezőként tiszteli.",
+          "Az emlékműnél tartják a város alapításának évenkénti megemlékezéseit."
+        ],
+        "ro": [
+          "Faran Kama este considerat strămoșul mitic și istoric al regiunii.",
+          "Monumentul este o piesă de artă vernaculară ce onorează spiritul manding.",
+          "Faranah a fost un punct de legătură între Fouta Djallon și regiunile de aur.",
+          "Tradiția vânătorilor Donsow este încă foarte activă în jurul acestui monument.",
+          "Orașul a crescut spectaculos de la un simplu sat de vânătoare la centru regional.",
+          "Monumentul este situat într-o piață publică centrală din Faranah."
+        ],
+        "en": [
+          "Faran Kama was a celebrated hunter of the Oulada-Mandinka ethnic group.",
+          "The monument marks the spot where Faranah's first settlement was established.",
+          "The name Faranah literally translates to 'Faran's place'.",
+          "The town is situated where the Niger River begins its journey across the savanna.",
+          "The monument embodies the values of the traditional Donsow hunter societies.",
+          "It serves as a focal point for oral history recitations during local holidays."
+        ]
+      }
+    }
+  ]
+}

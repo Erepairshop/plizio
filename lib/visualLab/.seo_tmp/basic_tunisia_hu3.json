@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rads-cities-v2",
+      "description": "Tunis ipari elővárosa, közeli kikötővel a főváros északi részén.",
+      "facts": ["Ipari város", "Kikötőváros", "Tunis agglomerációja"]
+    },
+    {
+      "id": "la-goulette-cities-v2",
+      "description": "Tunis kikötővárosa, amely a főváros tengeri kapujaként szolgál.",
+      "facts": ["Kikötőváros", "Tengeri kapu", "Tunis tengerpartja"]
+    },
+    {
+      "id": "tabarka-cities-v2",
+      "description": "Északi tengerparti város, híres korallzátonyairól és zenei fesztiváljairól.",
+      "facts": ["Északi tengerpart", "Korallzátonyok", "Zenei fesztivál"]
+    },
+    {
+      "id": "kelibia-cities-v2",
+      "description": "A Cap Bon-félsziget csücskében fekvő város, jelentős halászkikötővel és erődítménnyel.",
+      "facts": ["Cap Bon-félsziget", "Halászkikötő", "Történelmi erőd"]
+    },
+    {
+      "id": "ksar-hellal-cities-v2",
+      "description": "A Sahel régióban található város, fontos textilipari központ.",
+      "facts": ["Sahel régió", "Textilipar", "Kereskedelmi központ"]
+    },
+    {
+      "id": "moknine-cities-v2",
+      "description": "A tunéziai Sahel vidékének egyik városa, ismert kerámiaiparáról.",
+      "facts": ["Sahel régió", "Kerámiaipar", "Hagyományos város"]
+    },
+    {
+      "id": "menzel-bourguiba-cities-v2",
+      "description": "Fontos ipari központ a Bizertai-tó mellett, egykori hajógyártási múlttal.",
+      "facts": ["Ipari központ", "Bizertai-tó", "Hajógyártás"]
+    },
+    {
+      "id": "menzel-temime-cities-v2",
+      "description": "Mezőgazdasági központ a Cap Bon-félsziget keleti oldalán.",
+      "facts": ["Mezőgazdasági központ", "Cap Bon-félsziget", "Termelővidék"]
+    },
+    {
+      "id": "korba-cities-v2",
+      "description": "Tengerparti mezőgazdasági város a Cap Bon régióban, híres zöldségtermeléséről.",
+      "facts": ["Tengerparti város", "Cap Bon régió", "Mezőgazdaság"]
+    },
+    {
+      "id": "oued-ellil-cities-v2",
+      "description": "Tunis nyugati lakóövezete, modernizálódó városi környezettel.",
+      "facts": ["Tunis agglomerációja", "Lakóövezet", "Modern városi zóna"]
+    }
+  ]
+}

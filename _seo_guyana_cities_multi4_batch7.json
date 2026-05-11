@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "whim-cities-v2",
+      "descriptionAdvancedDe": "Whim ist ein Dorf an der Corentyne-Küste von Guyana, das für seine Beiträge zur Politik und zum Sport des Landes bekannt ist. Es ist der Geburtsort von zwei der bekanntesten Persönlichkeiten Guyanas: Sir Shridath Ramphal, ein ehemaliger Generalsekretär des Commonwealth, und Moses Nagamootoo, ein ehemaliger Premierminister. Das Dorf ist auch für seine Cricket-Tradition bekannt. Whim ist eine überwiegend indo-guyanische Gemeinde mit einer Wirtschaft, die auf Landwirtschaft, insbesondere Zuckerrohr- und Reisanbau, basiert. Es ist eine relativ kleine, aber eng verbundene Gemeinschaft. Das Dorf liegt entlang der Hauptküstenstraße und ist somit leicht erreichbar. Trotz seiner bescheidenen Größe hat Whim einen übergroßen Einfluss auf die nationale Bühne Guyanas gehabt.",
+      "descriptionAdvancedHu": "Whim egy falu Guyana Corentyne-partján, amely az ország politikájához és sportjához való hozzájárulásáról ismert. Itt született Guyana két legismertebb személyisége: Sir Shridath Ramphal, a Nemzetközösség egykori főtitkára, és Moses Nagamootoo, egykori miniszterelnök. A falu krikett hagyományairól is ismert. Whim egy túlnyomórészt indo-guyanai közösség, amelynek gazdasága a mezőgazdaságon, különösen a cukornád- és rizstermesztésen alapul. Ez egy viszonylag kicsi, de szorosan összetartó közösség. A falu a fő tengerparti út mentén fekszik, így könnyen megközelíthető. Szerény mérete ellenére Whim aránytalanul nagy hatást gyakorolt Guyana nemzeti színpadára.",
+      "descriptionAdvancedRo": "Whim este un sat de pe coasta Corentyne a Guyanei, remarcat pentru contribuțiile sale la politica și sportul națiunii. Este locul de naștere a două dintre cele mai proeminente figuri ale Guyanei: Sir Shridath Ramphal, un fost secretar general al Commonwealth-ului, și Moses Nagamootoo, un fost prim-ministru. Satul este, de asemenea, cunoscut pentru tradiția sa de cricket. Whim este o comunitate predominant indo-guyaneză, cu o economie bazată pe agricultură, în special pe cultivarea trestiei de zahăr și a orezului. Este o comunitate relativ mică, dar strâns unită. Satul este situat de-a lungul drumului principal de coastă, ceea ce îl face ușor accesibil. În ciuda dimensiunii sale modeste, Whim a avut un impact supradimensionat pe scena națională a Guyanei.",
+      "descriptionAdvancedEn": "Whim is a village located on the Corentyne Coast of Guyana that holds a unique place in the nation's history. Despite its small size, it is the birthplace of several remarkably influential figures, including Sir Shridath Ramphal, former Commonwealth Secretary-General, and Moses Nagamootoo and Khemraj Ramjattan, both prominent political leaders. This has given the village the nickname 'the home of the Prime Ministers'. The economy of Whim is primarily agricultural, centered around the sugar and rice industries, typical of the Corentyne region. The community is predominantly Indo-Guyanese and maintains strong cultural traditions. Whim's disproportionate contribution to national leadership makes it one of the most notable villages in Guyana.",
+      "factsAdvanced": [
+        "A Corentyne-parton található.",
+        "Sir Shridath Ramphal szülőfaluja.",
+        "Moses Nagamootoo, volt miniszterelnök is itt született.",
+        "A „miniszterelnökök otthonaként” is emlegetik.",
+        "Gazdasága a cukor- és rizstermesztésen alapul.",
+        "Túlnyomórészt indo-guyanai közösség.",
+        "Krikett hagyományairól is ismert.",
+        "Kis mérete ellenére nagy hatással volt a nemzeti politikára."
+      ]
+    },
+    {
+      "id": "black-bush-polder-cities-v2",
+      "descriptionAdvancedDe": "Black Bush Polder ist kein einzelnes Dorf, sondern ein großes landwirtschaftliches Entwicklungsprojekt in der Region East Berbice-Corentyne. Es wurde in den 1960er Jahren gegründet, um Sumpfland in fruchtbares Ackerland umzuwandeln, hauptsächlich für den Reisanbau. Das Projekt besteht aus vier Hauptsiedlungen: Lesbeholden, Mibicuri, Johanna und Yakusari. Black Bush Polder ist zu einer der wichtigsten Reisanbauregionen Guyanas geworden und trägt erheblich zur nationalen Produktion bei. Das Leben in der Region ist vollständig von der Landwirtschaft abhängig, mit zwei Erntezyklen pro Jahr, die den Rhythmus des Lebens bestimmen. Die Region steht vor Herausforderungen wie Entwässerung und Bewässerung, ist aber ein entscheidender Bestandteil des landwirtschaftlichen Sektors von Guyana.",
+      "descriptionAdvancedHu": "A Black Bush Polder nem egyetlen falu, hanem egy nagy mezőgazdasági fejlesztési projekt az East Berbice-Corentyne régióban. Az 1960-as években hozták létre, hogy a mocsaras területet termékeny termőfölddé alakítsák, elsősorban rizstermesztés céljából. A projekt négy fő településből áll: Lesbeholden, Mibicuri, Johanna és Yakusari. A Black Bush Polder Guyana egyik legfontosabb rizstermelő régiójává vált, jelentősen hozzájárulva a nemzeti termeléshez. Az élet a régióban teljes mértékben a mezőgazdaságtól függ, évente két betakarítási ciklus határozza meg az élet ritmusát. A régió kihívásokkal néz szembe, mint például a vízelvezetés és az öntözés, de Guyana mezőgazdasági szektorának létfontosságú része.",
+      "descriptionAdvancedRo": "Black Bush Polder nu este un singur sat, ci un mare proiect de dezvoltare agricolă din regiunea East Berbice-Corentyne. A fost înființat în anii 1960 pentru a transforma terenurile mlăștinoase în terenuri agricole fertile, în principal pentru cultivarea orezului. Proiectul este format din patru așezări principale: Lesbeholden, Mibicuri, Johanna și Yakusari. Black Bush Polder a devenit una dintre cele mai importante regiuni producătoare de orez din Guyana, contribuind în mod semnificativ la producția națională. Viața în zonă este complet dependentă de agricultură, cu două cicluri de recoltare pe an care dictează ritmul vieții. Regiunea se confruntă cu provocări precum drenajul și irigațiile, dar este o componentă crucială a sectorului agricol din Guyana.",
+      "descriptionAdvancedEn": "Black Bush Polder is not a single village but a large-scale agricultural settlement scheme in the East Berbice-Corentyne region. Established in the late 1950s and early 1960s, the scheme transformed thousands of acres of swampy land into a fertile basin for rice cultivation. It comprises four main polders (settlements): Lesbeholden, Mibicuri, Johanna, and Yakusari. Black Bush Polder quickly became one of Guyana's most productive rice-growing areas, often referred to as the 'rice bowl' of the country. Life in the polders revolves entirely around the cycles of planting and harvesting rice. The scheme was a major post-colonial development project and remains a critical component of Guyana's agricultural economy, though it faces ongoing challenges with drainage and infrastructure.",
+      "factsAdvanced": [
+        "Egy nagy mezőgazdasági településprogram.",
+        "Az 1950-es évek végén hozták létre.",
+        "Az ország „rizstáljaként” is ismert.",
+        "Négy fő polderből áll: Lesbeholden, Mibicuri, Johanna, Yakusari.",
+        "A mocsaras földet termékeny rizsföldekké alakították.",
+        "Guyana egyik legtermékenyebb rizstermelő területe.",
+        "Az élet a rizstermesztési ciklusok köré szerveződik.",
+        "Fontos a vízelvezetés és öntözés infrastruktúrája."
+      ]
+    },
+    {
+      "id": "springlands-cities-v2",
+      "descriptionAdvancedDe": "Springlands ist eine wichtige Gemeinde an der Corentyne-Küste und Teil der Stadt Corriverton. Historisch gesehen war es eine eigene Einheit, die sich um die Zuckerplantage Springlands drehte. Heute ist es vollständig in das städtische Gefüge von Corriverton integriert. Seine Hauptbedeutung liegt in seiner Funktion als Grenzübergang nach Suriname. Der Fähranleger von Springlands (oder Moleson Creek in der Nähe) ist der offizielle Einreisehafen, der die beiden Länder verbindet und Handel und Reisen erleichtert. Die Gegend ist ein geschäftiges Handelszentrum mit Geschäften, Märkten und Dienstleistungen, die sowohl Einheimische als auch Reisende versorgen. Die Bevölkerung ist eine Mischung aus verschiedenen ethnischen Gruppen, die die Vielfalt der Corentyne-Region widerspiegelt.",
+      "descriptionAdvancedHu": "Springlands egy fontos közösség a Corentyne-parton, és Corriverton város része. Történelmileg különálló egység volt, amely a Springlands cukorültetvény körül összpontosult. Ma már teljesen integrálódott Corriverton városi szövetébe. Fő jelentősége a Suriname-ba vezető határátkelőhelyként betöltött funkciójában rejlik. A springlands-i (vagy a közeli Moleson Creek-i) kompkikötő a hivatalos belépési kikötő, amely összeköti a két országot, megkönnyítve a kereskedelmet és az utazást. A terület egy nyüzsgő kereskedelmi központ üzletekkel, piacokkal és szolgáltatásokkal, amelyek mind a helyieket, mind az utazókat kiszolgálják. A lakosság különböző etnikai csoportok keveréke, tükrözve a Corentyne régió sokszínűségét.",
+      "descriptionAdvancedRo": "Springlands este o comunitate importantă de pe coasta Corentyne și face parte din orașul Corriverton. Din punct de vedere istoric, a fost o entitate separată, centrată în jurul plantației de zahăr Springlands. Astăzi, este pe deplin integrată în țesutul urban al Corrivertonului. Importanța sa principală constă în funcția sa de punct de trecere a frontierei către Surinam. Terminalul de feribot de la Springlands (sau Moleson Creek din apropiere) este portul oficial de intrare care leagă cele două țări, facilitând comerțul și călătoriile. Zona este un centru comercial plin de viață, cu magazine, piețe și servicii care se adresează atât localnicilor, cât și călătorilor. Populația este un amestec de diferite grupuri etnice, reflectând diversitatea regiunii Corentyne.",
+      "descriptionAdvancedEn": "Springlands is a major section of the town of Corriverton on the Corentyne Coast. It was once a separate village centered around the Springlands sugar estate. Today, it is most recognized as the location of the Guyana-Suriname ferry service at nearby Moleson Creek. This makes Springlands a critical gateway for travel and commerce between the two countries. The area is a bustling commercial hub, with a dense concentration of businesses, hotels, and markets catering to travelers and locals alike. The constant flow of people gives the area a vibrant, transient feel. It is a key entry and exit point for Guyana, playing a vital role in the economic and social life of the entire Corentyne region.",
+      "factsAdvanced": [
+        "Corriverton városának egyik fő része.",
+        "Korábban a Springlands cukorültetvény központja volt.",
+        "Itt található a Guyana-Suriname kompjárat.",
+        "Fontos kapu a két ország között.",
+        "Nyüzsgő kereskedelmi központ.",
+        "Szállodák, üzletek és piacok sokasága található itt.",
+        "A közeli Moleson Creek a hivatalos kikötő.",
+        "Kulcsfontosságú a Corentyne régió gazdasági életében."
+      ]
+    },
+    {
+      "id": "skeldon-cities-v2",
+      "descriptionAdvancedDe": "Skeldon ist eine weitere wichtige Gemeinde innerhalb der Stadt Corriverton an der Corentyne-Küste. Wie Springlands war es ursprünglich eine Zuckerplantage und hat seine Identität um die Zuckerindustrie herum aufgebaut. Das Skeldon-Zuckeranwesen, einschließlich seiner modernisierten Fabrik, war jahrzehntelang ein wichtiger Arbeitgeber und das wirtschaftliche Rückgrat der Region. Der Niedergang der Zuckerindustrie hat Skeldon vor erhebliche Herausforderungen gestellt und zu Arbeitsplatzverlusten und wirtschaftlicher Unsicherheit geführt. Die Gemeinde ist überwiegend indo-guyanisch, mit einem reichen kulturellen Erbe, das von den Vertragsarbeitern abstammt, die auf den Plantagen arbeiteten. Trotz der Schwierigkeiten bleibt die Gemeinde widerstandsfähig und sucht nach neuen Wegen für die wirtschaftliche Entwicklung, einschließlich der Diversifizierung der Landwirtschaft.",
+      "descriptionAdvancedHu": "Skeldon egy másik fontos közösség Corriverton városán belül, a Corentyne-parton. Springlandhez hasonlóan eredetileg cukorültetvény volt, és identitását a cukoripar köré építette. A Skeldon cukorgyár, beleértve a modernizált gyárat is, évtizedekig a régió egyik fő munkaadója és gazdasági gerince volt. A cukoripar hanyatlása jelentős kihívások elé állította Skeldont, ami munkahelyek elvesztéséhez és gazdasági bizonytalansághoz vezetett. A közösség túlnyomórészt indo-guyanai, gazdag kulturális örökséggel, amely az ültetvényeken dolgozó szerződéses munkásoktól származik. A nehézségek ellenére a közösség ellenálló marad, és új utakat keres a gazdasági fejlődéshez, beleértve a mezőgazdaság diverzifikálását.",
+      "descriptionAdvancedRo": "Skeldon este o altă comunitate importantă din orașul Corriverton, pe coasta Corentyne. La fel ca Springlands, a fost inițial o plantație de zahăr și și-a construit identitatea în jurul industriei zahărului. Moșia de zahăr Skeldon, inclusiv fabrica sa modernizată, a fost un angajator major și coloana vertebrală economică a regiunii timp de decenii. Declinul industriei zahărului a prezentat provocări semnificative pentru Skeldon, ducând la pierderea locurilor de muncă și la incertitudine economică. Comunitatea este predominant indo-guyaneză, cu o moștenire culturală bogată care provine de la muncitorii angajați care au lucrat pe plantații. În ciuda dificultăților, comunitatea rămâne rezistentă, căutând noi căi de dezvoltare economică, inclusiv diversificarea agriculturii.",
+      "descriptionAdvancedEn": "Skeldon is a major community within the town of Corriverton, located at the easternmost point of Guyana's coast. Its history is synonymous with the Skeldon Sugar Estate, which for over a century was the primary driver of the local economy. A large, modern sugar factory was built here in the 2000s as part of an effort to revitalize the industry. However, the eventual closure of the estate had a profound and devastating impact on the community, leading to widespread job losses. The population is predominantly Indo-Guyanese, whose ancestors were brought to work on the estate. Today, Skeldon is a community in transition, grappling with the socio-economic aftermath of the sugar industry's decline and seeking alternative livelihoods in fishing, trade, and small-scale agriculture.",
+      "factsAdvanced": [
+        "Corriverton városának része.",
+        "Guyana partjának legkeletibb pontján található.",
+        "Történelme összefonódott a Skeldon cukorgyárral.",
+        "A 2000-es években modern cukorgyárat építettek itt.",
+        "A gyár bezárása súlyos gazdasági hatással járt.",
+        "A lakosság túlnyomórészt indo-guyanai.",
+        "A közösség a cukoripar hanyatlása után új megélhetést keres.",
+        "A halászat és a kereskedelem alternatívát jelent."
+      ]
+    },
+    {
+      "id": "adventure-cities-v2",
+      "descriptionAdvancedDe": "Adventure ist ein kleines Dorf an der Essequibo-Küste in der Region Pomeroon-Supenaam. Es ist bekannt für seine Anlegestelle, die als Endstation für den Fährdienst über den Essequibo-Fluss nach Parika dient. Diese Fährverbindung ist eine wichtige Lebensader, die die Essequibo-Küste mit dem Rest von Guyana verbindet und den Transport von Menschen, Fahrzeugen und Gütern ermöglicht. Das Dorf selbst ist klein und die wirtschaftliche Aktivität konzentriert sich hauptsächlich auf die Anlegestelle und die damit verbundenen Dienstleistungen. Die Umgebung ist landwirtschaftlich geprägt, mit Reisanbau als Hauptwirtschaftszweig. Das Leben in Adventure ist ruhig und eng mit dem Fahrplan der Fähre verbunden, der den täglichen Rhythmus der Gemeinde bestimmt.",
+      "descriptionAdvancedHu": "Az Adventure egy kis falu az Essequibo-parton, a Pomeroon-Supenaam régióban. Kikötőjéről ismert, amely az Essequibo folyón át Parikába tartó kompjárat végállomásaként szolgál. Ez a kompjárat létfontosságú összeköttetést biztosít, összekötve az Essequibo-partot Guyana többi részével, lehetővé téve emberek, járművek és áruk szállítását. Maga a falu kicsi, és a gazdasági tevékenység főként a kikötőre és a kapcsolódó szolgáltatásokra összpontosul. A környező terület mezőgazdasági jellegű, a rizstermesztés a fő gazdasági ágazat. Az élet Adventure-ben csendes és szorosan kötődik a komp menetrendjéhez, amely meghatározza a közösség napi ritmusát.",
+      "descriptionAdvancedRo": "Adventure este un mic sat de pe coasta Essequibo, în regiunea Pomeroon-Supenaam. Este renumit pentru debarcaderul său, care servește drept terminal pentru serviciul de feribot care traversează râul Essequibo către Parika. Această legătură de feribot este o linie vitală, conectând coasta Essequibo cu restul Guyanei și permițând transportul de persoane, vehicule și mărfuri. Satul în sine este mic, iar activitatea economică este concentrată în principal în jurul debarcaderului și a serviciilor conexe. Zona înconjurătoare este agricolă, cultivarea orezului fiind principala activitate economică. Viața în Adventure este liniștită și strâns legată de programul feribotului, care dictează ritmul zilnic al comunității.",
+      "descriptionAdvancedEn": "Adventure is a village on the Essequibo Coast in the Pomeroon-Supenaam region. Its primary significance comes from being the location of the Adventure Stelling, the main ferry terminal connecting the Essequibo Coast with Parika on the east bank of the Essequibo River. This ferry service is a critical transportation link for the entire region, enabling the movement of people, produce, and vehicles to and from the capital. The village itself is small, with most economic activity centered around the stelling and the services that support it. The surrounding landscape is dominated by rice fields, which form the backbone of the Essequibo Coast's economy. The daily arrival and departure of the ferry dictates the rhythm of life in this quiet, functional village.",
+      "factsAdvanced": [
+        "Az Essequibo-parton található.",
+        "Itt van az Adventure Stelling, egy fontos kompkikötő.",
+        "Összeköti az Essequibo-partot Parikával.",
+        "Létfontosságú közlekedési kapocs a régió számára.",
+        "A gazdasági tevékenység a kikötő körül összpontosul.",
+        "A környező tájat rizsföldek uralják.",
+        "A falu életritmusát a komp határozza meg.",
+        "A Pomeroon-Supenaam régió része."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lang": "en",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "orosi-church-history-v2",
+      "description": "The Church of San José de Orosi is the oldest church in Costa Rica still in use, dating back to the colonial era.",
+      "facts": [
+        "Built in 1743 by Franciscan friars",
+        "Classic Spanish colonial architecture",
+        "Oldest church still in continuous use",
+        "National monument located in Orosi Valley"
+      ]
+    },
+    {
+      "id": "la-casona-santa-rosa-history-v2",
+      "description": "A historic ranch house and the site of the Battle of Santa Rosa in 1856, where Costa Rican forces defeated invaders.",
+      "facts": [
+        "Site of the 1856 Battle of Santa Rosa",
+        "Historic ranch building turned museum",
+        "Located in Santa Rosa National Park",
+        "UNESCO World Heritage site component"
+      ]
+    },
+    {
+      "id": "san-vicente-de-moravia-church-history-v2",
+      "description": "A beautiful Catholic church in the heart of Moravia, known for its distinct architectural style and local religious importance.",
+      "facts": [
+        "Located in Moravia, San José",
+        "Notable Neo-Gothic architectural elements",
+        "Center of local community life",
+        "Beautiful stained glass and wood carvings"
+      ]
+    },
+    {
+      "id": "nicoya-church-history-v2",
+      "description": "The Church of San Blas in Nicoya is one of the country's most significant colonial landmarks, founded in the 16th century.",
+      "facts": [
+        "Founded in 1544 in Nicoya",
+        "Dedicated to San Blas",
+        "Withstood several major earthquakes",
+        "Features a museum of colonial art"
+      ]
+    },
+    {
+      "id": "atlantico-railway-station-history-v2",
+      "description": "A historic railway station in San José that served as the terminal for the Atlantic railroad connection.",
+      "facts": [
+        "Opened in 1908 in San José",
+        "Grand Neoclassical architectural style",
+        "Key link for coffee exports to the coast",
+        "Now houses a cultural center"
+      ]
+    },
+    {
+      "id": "ceibo-tree-of-la-paz-history-v2",
+      "description": "A majestic and ancient Ceibo tree in La Paz, celebrated as a living monument and a symbol of national peace.",
+      "facts": [
+        "Estimated to be several centuries old",
+        "Massive trunk and spreading canopy",
+        "Located in the town of La Paz",
+        "A revered symbol of nature and stability"
+      ]
+    },
+    {
+      "id": "cr-estadio-nacional-landmarks-v2",
+      "description": "Costa Rica's modern National Stadium, a multipurpose venue and a gift from China located in La Sabana Metropolitan Park.",
+      "facts": [
+        "Opened in March 2011",
+        "Capacity for 35,000 spectators",
+        "Gift from the People's Republic of China",
+        "Iconic modern landmark in San José"
+      ]
+    },
+    {
+      "id": "cr-puente-de-la-amistad-landmarks-v2",
+      "description": "The Taiwan Friendship Bridge spans the Tempisque River, significantly improving travel to the Nicoya Peninsula.",
+      "facts": [
+        "Gift from the government of Taiwan",
+        "Inaugurated in 2003",
+        "Spans the Tempisque River",
+        "Vital link for Guanacaste tourism"
+      ]
+    },
+    {
+      "id": "cr-museo-ninos-landmarks-v2",
+      "description": "The Children's Museum of Costa Rica is an interactive educational center housed in the historic former central penitentiary.",
+      "facts": [
+        "Located in a former maximum-security prison",
+        "Inaugurated as a museum in 1994",
+        "Over 40 interactive exhibits for kids",
+        "Known as the 'Castle of Dreams'"
+      ]
+    },
+    {
+      "id": "cr-correos-costa-rica-landmarks-v2",
+      "description": "The historic Central Post Office building in San José is a masterpiece of Neoclassical architecture from the early 20th century.",
+      "facts": [
+        "Completed in 1917",
+        "Grand Neoclassical facade",
+        "National monument of Costa Rica",
+        "Houses the Philatelic Museum"
+      ]
+    }
+  ]
+}

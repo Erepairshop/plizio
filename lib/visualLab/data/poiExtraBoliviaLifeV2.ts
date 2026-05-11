@@ -4,12 +4,18 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaLifeV2: POI[] = [
   {
     id: "biocentro-guembe-life-v2",
-    description: "Ökológiai park és természetvédelmi terület Santa Cruz közelében, gazdag növény- és állatvilággal.",
-    facts: [
-      "Santa Cruz",
-      "Ökológiai park",
-      "Gazdag biodiverzitás"
-],
+    description: {
+      de: "Das Biocentro Güembé ist ein Naturpark in Santa Cruz mit dem weltweit größten Schmetterlingshaus und vielen Lagunen.",
+      hu: "Ökológiai park és természetvédelmi terület Santa Cruz közelében, gazdag növény- és állatvilággal.",
+      ro: "Biocentrul Güembé este un parc ecologic masiv și un centru de biodiversitate situat lângă orașul tropical Santa Cruz.",
+      en: "A lush eco-park near Santa Cruz known for having one of the world's largest butterfly domes."
+    },
+    facts: {
+      de: ["Riesiges Mariposarium", "Ort zur Beobachtung von Tukanen", "Vielfältige tropische Flora"],
+      hu: ["Santa Cruz", "Ökológiai park", "Gazdag biodiverzitás"],
+      ro: ["Găzduiește una dintre cele mai mari aviarii de fluturi din lume.", "Prezintă grădini botanice extinse care evidențiază flora tropicală.", "Situat lângă Santa Cruz de la Sierra în zonele joase."],
+      en: ["Located in the tropical lowlands", "Features giant aviaries and lagoons", "Promotes biodiversity conservation", "Popular for birdwatching and swimming"]
+    },
     type: "kid-landmark",
     parent: "BO-S",
     coords: [-63.2215, -17.7656],
@@ -33,12 +39,18 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     }, image: "/poi-images/biocentro-guembe-life-v2.webp"},
   {
     id: "parque-cretacico-sucre-life-v2",
-    description: "Paleontológiai park Sucre külvárosában, ahol dinoszaurusz-lábnyomokat lehet megtekinteni.",
-    facts: [
-      "Sucre",
-      "Dinoszaurusz-lábnyomok",
-      "Paleontológia"
-],
+    description: {
+      de: "Der Kreidepark in Sucre beherbergt eine der weltweit größten Sammlungen an Dinosaurier-Fußabdrücken auf einer Kalksteinwand.",
+      hu: "Paleontológiai park Sucre külvárosában, ahol dinoszaurusz-lábnyomokat lehet megtekinteni.",
+      ro: "Parcul Cretacic, lângă Sucre, este renumit pentru că conține unul dintre cele mai importante situri paleontologice din lume.",
+      en: "Fascinating dinosaur theme park in Sucre featuring thousands of authentic prehistoric footprints."
+    },
+    facts: {
+      de: ["Über 5.000 Fußspuren", "Blick auf die Cal Orcko Wand", "Lebensgröße Dinosaurier-Modelle"],
+      hu: ["Sucre", "Dinoszaurusz-lábnyomok", "Paleontológia"],
+      ro: ["Conține mii de urme de dinozauri din perioada cretacică.", "Peretele de calcar este un sit paleontologic major.", "Prezintă modele de dinozauri în mărime naturală."],
+      en: ["Located at Cal Orck'o cliff", "Over 5,000 dinosaur tracks", "Includes life-size dinosaur models", "World's largest site of its kind"]
+    },
     type: "kid-landmark",
     parent: "BO-H",
     coords: [-65.2341, -19.0064],
@@ -62,12 +74,18 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     }, image: "/poi-images/parque-cretacico-sucre-life-v2.webp"},
   {
     id: "torotoro-nationalpark-life-v2",
-    description: "Lenyűgöző nemzeti park barlangokkal, kanyonokkal és dinoszaurusz-leletekkel.",
-    facts: [
-      "Nemzeti park",
-      "Kanyonok és barlangok",
-      "Dinoszauruszok"
-],
+    description: {
+      de: "Der Torotoro-Nationalpark ist berühmt für seine tiefen Schluchten, Höhlen und versteinerten Dinosaurierspuren.",
+      hu: "Lenyűgöző nemzeti park barlangokkal, kanyonokkal és dinoszaurusz-leletekkel.",
+      ro: "Parcul Național Torotoro este un tezaur geologic și biologic situat în regiunea muntoasă a departamentului Potosí.",
+      en: "Spectacular national park famous for its deep canyons, limestone caves, and dinosaur fossils."
+    },
+    facts: {
+      de: ["Wichtigstes paläontologisches Gebiet", "Beherbergt die Umajalanta-Höhle", "Spektakuläre rote Felslandschaften"],
+      hu: ["Nemzeti park", "Kanyonok és barlangok", "Dinoszauruszok"],
+      ro: ["Renumit pentru canioanele sale dramatice și peșterile adânci de calcar.", "Conține situri de fosile semnificative și urme de dinozauri.", "Habitat pentru diverse specii de plante și animale andine endemice."],
+      en: ["Located in Potosí Department", "Home to the Vergel waterfall", "Features the Uma Jalanta cave", "High diversity of Andean flora"]
+    },
     type: "animal-habitat",
     parent: "BO-P",
     coords: [-65.7645, -18.1333],
@@ -91,12 +109,18 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     }, image: "/poi-images/torotoro-nationalpark-life-v2.webp"},
   {
     id: "eduardo-avaroa-reservat-life-v2",
-    description: "Magashegyi természetvédelmi terület a délnyugati régióban, híres lagúnáiról és flamingóiról.",
-    facts: [
-      "Délnyugat-Bolívia",
-      "Lagúnák",
-      "Flamingók"
-],
+    description: {
+      de: "Die Reserva Eduardo Avaroa ist bekannt für ihre surrealen Landschaften, aktiven Geysire und farbenfrohen Lagunen voller Flamingos.",
+      hu: "Magashegyi természetvédelmi terület a délnyugati régióban, híres lagúnáiról és flamingóiról.",
+      ro: "Rezervația Națională Eduardo Avaroa este o zonă protejată faimoasă pentru peisajele sale suprarealiste.",
+      en: "Stunning high-altitude reserve known for its colorful lagoons, flamingos, and surreal volcanic landscapes."
+    },
+    facts: {
+      de: ["Heimat von drei Flamingoarten", "Südwestliches Hochland Boliviens", "Enthält die Laguna Colorada"],
+      hu: ["Délnyugat-Bolívia", "Lagúnák", "Flamingók"],
+      ro: ["Faimoasă pentru lagunele colorate de mare altitudine, inclusiv Laguna Colorada.", "Căminul unor populații mari de flamingi care se reproduc.", "Situată la altitudini extreme în sud-vestul îndepărtat."],
+      en: ["Bolivia's most visited protected area", "Home to the Laguna Colorada", "Features the Sol de Mañana geysers", "Protects endangered Andean fauna"]
+    },
     type: "animal-habitat",
     parent: "BO-P",
     coords: [-67.8, -22.4],
@@ -120,12 +144,18 @@ export const poiExtraBoliviaLifeV2: POI[] = [
     }, image: "/poi-images/eduardo-avaroa-reservat-life-v2.webp"},
   {
     id: "kaa-iya-nationalpark-life-v2",
-    description: "Bolívia egyik legnagyobb nemzeti parkja a Gran Chaco régióban, különleges állatvilággal.",
-    facts: [
-      "Gran Chaco",
-      "Nagy nemzeti park",
-      "Vadvilág"
-],
+    description: {
+      de: "Der Kaa-Iya-Nationalpark im Gran Chaco ist das größte Schutzgebiet Boliviens und ein wichtiger Lebensraum für den Jaguar.",
+      hu: "Bolívia egyik legnagyobb nemzeti parkja a Gran Chaco régióban, különleges állatvilággal.",
+      ro: "Parcul Național Kaa-Iya del Gran Chaco este una dintre cele mai mari zone forestiere protejate din America de Sud.",
+      en: "The largest national park in Bolivia, protecting a vast area of the Gran Chaco dry forest."
+    },
+    facts: {
+      de: ["Größter Park im Gran Chaco", "Bekannt für Wildtierbeobachtung", "Schützt trockenes Buschland"],
+      hu: ["Gran Chaco", "Nagy nemzeti park", "Vadvilág"],
+      ro: ["Una dintre cele mai mari zone de pădure uscată protejate din America de Sud.", "Habitat vital pentru jaguari și pecari.", "Protejează ecosistemul fragil și amenințat Gran Chaco."],
+      en: ["Managed by indigenous peoples", "Famous for jaguar sightings", "Protects over 3.4 million hectares", "Harsh semi-arid environment"]
+    },
     type: "animal-habitat",
     parent: "BO-S",
     coords: [-61.5, -19.0],

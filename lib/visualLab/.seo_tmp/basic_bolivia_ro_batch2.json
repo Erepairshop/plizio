@@ -1,0 +1,67 @@
+{
+  "lang": "ro",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaNatureV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "plaza-murillo-landmarks-v2",
+      "description": "Plaza Murillo este centrul politic al Boliviei, fiind înconjurată de Palatul Guvernului, Congresul Național și Catedrala din La Paz.",
+      "facts": ["Kilometrul zero al țării", "Sute de porumbei", "Statuia lui Pedro Domingo Murillo", "Locul evenimentelor istorice cheie"]
+    },
+    {
+      "id": "convento-santa-teresa-landmarks-v2",
+      "description": "Mănăstirea Santa Teresa din Cochabamba este un complex religios istoric, renumit pentru arhitectura sa colonială și muzeul de artă sacră.",
+      "facts": ["Ordinul Carmeliților Desculți", "Construcție din secolul XVIII", "Muzeu cu relicve prețioase", "Recent restaurată"]
+    },
+    {
+      "id": "catedral-nuestra-senora-la-paz-landmarks-v2",
+      "description": "Catedrala Nuestra Señora de La Paz este o bazilică monumentală situată în Plaza Murillo, remarcabilă prin stilul său neoclasic impunător.",
+      "facts": ["Fațadă neoclasică", "Vitralii colorate", "Găzduiește mausoleul lui Andrés de Santa Cruz", "Construcție finalizată în 1925"]
+    },
+    {
+      "id": "biocentro-guembe-life-v2",
+      "description": "Biocentro Güembé este un paradis ecologic situat lângă Santa Cruz, găzduind cel mai mare fluturar din lume și numeroase lagune naturale.",
+      "facts": ["Fluturar gigantic", "Arie de protecție a păsărilor", "Lagune de înot naturale", "Grădini de orhidee rare"]
+    },
+    {
+      "id": "parque-cretacico-sucre-life-v2",
+      "description": "Parcul Cretacic din Sucre oferă o călătorie fascinantă în timp, adăpostind cel mai mare sit de urme de dinozauri din lume.",
+      "facts": ["Peste 5000 de urme autentice", "Replici de dinozauri la scară reală", "Zidul Cal Orcko", "Situl paleontologic principal al Boliviei"]
+    },
+    {
+      "id": "torotoro-nationalpark-life-v2",
+      "description": "Parcul Național Torotoro este un sit geologic și paleontologic de excepție, renumit pentru canioanele sale adânci și peșterile spectaculoase.",
+      "facts": ["Urme de dinozauri", "Peștera Uma Jalanta", "Canionul Torotoro", "Formațiuni geologice unice"]
+    },
+    {
+      "id": "eduardo-avaroa-reservat-life-v2",
+      "description": "Rezervația Eduardo Avaroa protejează peisaje suprarealiste din Altiplano, incluzând lagune colorate și habitatul rarior flamingi andini.",
+      "facts": ["Cea mai vizitată arie protejată", "Laguna Colorada și Laguna Verde", "Gheizerele Sol de Mañana", "Faună andină endemică"]
+    },
+    {
+      "id": "kaa-iya-nationalpark-life-v2",
+      "description": "Parcul Național Kaa-Iya del Gran Chaco este cel mai mare parc din Bolivia, fiind un refugiu crucial pentru jaguar și viața sălbatică din Chaco.",
+      "facts": ["Suprafață imensă", "Sanctuarul jaguarilor", "Administrat de indigeni", "Habitat de pădure uscată tropicală"]
+    },
+    {
+      "id": "bo-illimani-nature-v2",
+      "description": "Illimani este muntele iconic care domină orizontul orașului La Paz, fiind al doilea cel mai înalt vârf din Bolivia.",
+      "facts": ["Simbolul orașului La Paz", "Vârf triplu înzăpezit", "Altitudine de 6438 metri", "Parte din Cordillera Real"]
+    },
+    {
+      "id": "bo-sajama-nature-v2",
+      "description": "Nevado Sajama este cel mai înalt vârf din Bolivia, un stratovulcan stins situat în cel mai vechi parc național al țării.",
+      "facts": ["Altitudine de 6542 metri", "Vârf izolat impunător", "Păduri de Queñua la mare înălțime", "Sit sacru local"]
+    },
+    {
+      "id": "bo-huayna-potosi-nature-v2",
+      "description": "Huayna Potosí este cel mai popular vârf de peste 6000 de metri pentru alpiniști, datorită accesibilității sale din La Paz.",
+      "facts": ["Accesibil pentru alpiniști", "Ghețari permanenți", "Altitudine de 6088 metri", "Vedere spre Altiplano"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "country": "Singapore",
+  "files": [
+    "lib/visualLab/data/poiExtraSingaporeLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "old-parliament-house-landmarks-v2",
+      "description": "The Old Parliament House is the oldest existing government building in Singapore, constructed in 1827. It served as the meeting place for the Legislative Assembly and the Parliament of Singapore before its conversion into an arts center.",
+      "facts": ["Oldest government building", "Completed in 1827", "Former Parliament house", "Now The Arts House"]
+    }
+  ]
+}

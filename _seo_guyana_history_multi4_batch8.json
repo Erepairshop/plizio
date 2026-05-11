@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-umana-yana-history-v2",
+      "descriptionAdvancedDe": "Die Umana Yana in Georgetown ist ein beeindruckendes Beispiel für indigene Architektur und ein wichtiges nationales Symbol. Der Name bedeutet in der Sprache der Wai-Wai 'Treffpunkt des Volkes'. Es handelt sich um ein kegelförmiges, strohgedecktes Gebäude (Benab), das 1972 für die Konferenz der Außenminister der blockfreien Staaten errichtet wurde. Die gesamte Struktur wurde von etwa 60 Wai-Wai-Indigenen aus traditionellen Materialien wie Palmblättern und Lianen erbaut. Das ursprüngliche Gebäude wurde 2014 durch ein Feuer zerstört, aber 2016 originalgetreu wiederaufgebaut, was die Bedeutung dieses Ortes für die nationale Identität unterstreicht. Die Umana Yana ist nicht nur ein architektonisches Wunder, sondern auch ein Ort für kulturelle Veranstaltungen und offizielle Empfänge. Sie steht als stolzes Zeugnis für das Erbe und die Handwerkskunst der indigenen Völker Guyanas.",
+      "descriptionAdvancedHu": "A georgetowni Umana Yana az őslakos építészet lenyűgöző példája és fontos nemzeti szimbólum. A név a wai-wai nyelven azt jelenti, 'a nép találkozóhelye'. Ez egy kúp alakú, nádfedeles épület (benab), amelyet 1972-ben az el nem kötelezett országok külügyminiszteri konferenciájára emeltek. A teljes szerkezetet mintegy 60 wai-wai őslakos építette hagyományos anyagokból, például pálmalevelekből és liánokból. Az eredeti épület 2014-ben egy tűzvészben megsemmisült, de 2016-ban hűen újjáépítették, ami aláhúzza a hely nemzeti identitásban betöltött fontosságát. Az Umana Yana nemcsak építészeti csoda, hanem kulturális események és hivatalos fogadások helyszíne is. Guyana őslakos népeinek örökségének és kézművességének büszke tanúságtételeként áll.",
+      "descriptionAdvancedRo": "Umana Yana din Georgetown este un exemplu impresionant de arhitectură indigenă și un simbol național important. Numele, care înseamnă 'locul de întâlnire al poporului' în limba Wai-Wai, este un edificiu conic acoperit cu paie (benab), ridicat în 1972 pentru Conferința Miniștrilor de Externe ai Statelor Nealiniate. Întreaga structură a fost construită de aproximativ 60 de indigeni Wai-Wai din materiale tradiționale, cum ar fi frunze de palmier și liane. Clădirea originală a fost distrusă de un incendiu în 2014, dar a fost reconstruită fidel în 2016, subliniind importanța acestui loc pentru identitatea națională. Umana Yana nu este doar o minune arhitecturală, ci și un loc pentru evenimente culturale și recepții oficiale. Ea stă ca o mărturie mândră a moștenirii și măiestriei popoarelor indigene din Guyana.",
+      "descriptionAdvancedEn": "The Umana Yana in Georgetown is an impressive example of indigenous architecture and an important national symbol. The name, meaning 'meeting place of the people' in the Wai-Wai language, is a cone-shaped, thatched-roof building (benab) that was erected in 1972 for the Non-Aligned Foreign Ministers Conference. The entire structure was built by about 60 Wai-Wai Amerindians using traditional materials like palm leaves and vines. The original building was destroyed by fire in 2014 but was faithfully rebuilt in 2016, underscoring the site's importance to the national identity. The Umana Yana is not just an architectural marvel but also a venue for cultural events and official receptions. It stands as a proud testament to the heritage and craftsmanship of Guyana's indigenous peoples.",
+      "factsAdvanced": [
+        "Erbaut 1972 für die Konferenz der Blockfreien Staaten.",
+        "Name bedeutet 'Treffpunkt des Volkes' in der Wai-Wai-Sprache.",
+        "Errichtet von Wai-Wai-Indigenen aus traditionellen Materialien.",
+        "Die Dachkonstruktion besteht aus Palmblättern.",
+        "Das ursprüngliche Gebäude wurde 2014 durch ein Feuer zerstört.",
+        "2016 originalgetreu wiederaufgebaut.",
+        "Dient als Ort für kulturelle und staatliche Veranstaltungen.",
+        "Ein Symbol für das indigene Erbe Guyanas."
+      ]
+    }
+  ]
+}

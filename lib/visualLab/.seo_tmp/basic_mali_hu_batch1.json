@@ -1,0 +1,27 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    { "id": "gao-cities-v2", "description": "Gao egy történelmi város a Niger folyó partján, amely egykor a Szonghai Birodalom fővárosa volt.", "facts": ["Ősi főváros", "Niger folyó", "Kulturális központ"] },
+    { "id": "segou-grand-mosque-landmarks-v2", "description": "A segou-i Nagy Mecset egy impozáns vályogépítészetű vallási helyszín, amely a város történelmét tükrözi.", "facts": ["Vályogépítészet", "Segou városa", "Vallási épület"] },
+    { "id": "peace-monument-tombouctou-landmarks-v2", "description": "A Timbuktu-i Béke Emlékmű a megbékélés és a helyi konfliktusok lezárásának jelképe.", "facts": ["Megbékélés jelképe", "Timbuktu", "Történelmi emlékmű"] },
+    { "id": "grand-marche-bamako-landmarks-v2", "description": "A bamako-i Nagy Piac a főváros kereskedelmi szíve, ahol kézműves termékeket és fűszereket árulnak.", "facts": ["Kereskedelmi központ", "Kézművesség", "Bamako szíve"] },
+    { "id": "mopti-fishing-culture-life-v2", "description": "Mopti halászati kultúrája szorosan összefonódik a Bozo nép hagyományaival a Niger folyó mentén.", "facts": ["Bozo hagyományok", "Niger folyó", "Halászközösség"] },
+    { "id": "segou-fruit-market-life-v2", "description": "A segou-i gyümölcspiac a környék mezőgazdasági terményeit mutatja be, nyüzsgő és színes forgatagban.", "facts": ["Nyüzsgő piac", "Helyi gyümölcsök", "Segou városa"] },
+    { "id": "kayes-orchards-life-v2", "description": "A Kayes környéki gyümölcsösök a Szenegál folyó közelségének köszönhetően virágzó mezőgazdasági területek.", "facts": ["Gyümölcstermesztés", "Szenegál folyó", "Termékeny vidék"] },
+    { "id": "sikasso-garden-life-v2", "description": "Sikasso kertjei híresek dús növényzetükről és trópusi növényeikről Dél-Maliban.", "facts": ["Dús növényzet", "Trópusi növények", "Dél-Mali"] },
+    { "id": "niger-river-bird-sanctuary-life-v2", "description": "A Niger folyó menti madárrezervátum fontos állomás a vándormadarak számára.", "facts": ["Madárrezervátum", "Niger folyó", "Vándormadarak"] },
+    { "id": "fatoma-cattle-market-life-v2", "description": "Fatoma a Száhel egyik legnagyobb marhapiactere, ahol kereskedők találkoznak a régióból.", "facts": ["Marhapiac", "Száhel övezet", "Állatkereskedelem"] },
+    { "id": "goundam-wetlands-life-v2", "description": "Goundam vizes élőhelyei fontosak a helyi ökoszisztéma és a vándormadarak számára.", "facts": ["Vizes élőhely", "Ökoszisztéma", "Északi régió"] },
+    { "id": "koulikoro-gardens-life-v2", "description": "Koulikoro kertjei a helyi mezőgazdasági tudást és a folyóvízi öntözést példázzák.", "facts": ["Mezőgazdaság", "Öntözés", "Koulikoro"] },
+    { "id": "timbuktu-palm-groves-life-v2", "description": "Timbuktu pálmaligetei ikonikus sivatagi oázisok, amelyek árnyékot és erőforrást biztosítanak.", "facts": ["Sivatagi oázis", "Pálmatermesztés", "Timbuktu"] },
+    { "id": "goundam-livestock-life-v2", "description": "Goundam állattenyésztési csomópont a nomád kereskedelmi útvonalak találkozásánál.", "facts": ["Állattenyésztés", "Nomád kereskedelem", "Észak-Mali"] },
+    { "id": "bamako-market-life-v2", "description": "Bamako piaca nyüzsgő kereskedelmi központ, ahol a textil és a fűszerek uralják a kínálatot.", "facts": ["Textil és fűszerek", "Kereskedelmi központ", "Bamako"] }
+  ]
+}

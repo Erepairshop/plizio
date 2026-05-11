@@ -1,0 +1,20 @@
+{
+  "lang": "de",
+  "country": "Venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraVenezuelaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "paso-diablo-coal-mine-economic-v2",
+      "description": "Die Kohlegrube Paso Diablo ist eine bedeutende Tagebaumine im venezolanischen Bundesstaat Zulia. Sie war einst ein wichtiger Pfeiler der regionalen Wirtschaft und gehört zu den größten Kohleabbaustätten Südamerikas.",
+      "facts": ["Im Bundesstaat Zulia gelegen.", "Eine der größten Tagebaukohleminen.", "Wichtiger Wirtschaftsfaktor für Venezuela.", "Betrieben von Carbozulia."]
+    },
+    {
+      "id": "venezuela-teatro-municipal-caracas-landmark-v2",
+      "description": "Das Teatro Municipal de Caracas ist ein historisches Opernhaus und Kulturzentrum in der Hauptstadt Venezuelas. Es wurde 1881 eröffnet und ist bekannt für seine neoklassische Architektur.",
+      "facts": ["Historisches Opernhaus in Caracas.", "Eröffnet im Jahr 1881.", "Neoklassischer Baustil.", "Wichtiger Ort für Oper und Ballett."]
+    }
+  ]
+}

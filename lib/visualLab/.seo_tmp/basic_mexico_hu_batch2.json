@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Sian Ka'an egy UNESCO Bioszféra Rezervátum Yucatán félszigetén, maja romokkal, mangrove erdőkkel és gazdag élővilággal.",
+      "facts": ["UNESCO Bioszféra Rezervátum", "Maja romok", "Mangrove erdők"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "A Calakmul Bioszféra Rezervátum Campeche államban Mexikó egyik legnagyobb és legérintetlenebb esőerdője.",
+      "facts": ["Esőerdő", "Campeche", "Gazdag élővilág"]
+    },
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "A Lacandon dzsungel Chiapasban Észak-Amerika egyik utolsó nagy esőerdője, a Lacandon maja indiánok otthona.",
+      "facts": ["Esőerdő Chiapas", "Lacandon maja", "Biodiverzitás"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "Az El Vizcaíno Bioszféra Rezervátum Latin-Amerika legnagyobb természetvédelmi területe, a szürke bálnák fontos szaporodóhelye.",
+      "facts": ["Latin-Amerika legnagyobb", "Szürke bálnák", "Baja California"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "A Celestún Flamingo Rezervátum Yucatánban a flamingók és más vízimadarak nagy populációjáról ismert.",
+      "facts": ["Flamingó kolóniák", "Vízimadarak", "Yucatán"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "A La Ventanilla Teknős Rezervátum Oaxaca államban tengeri teknősöket és más tengerparti élőlényeket véd.",
+      "facts": ["Tengeri teknősök", "Oaxaca", "Tengerparti élővilág"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "A Los Tuxtlas Bioszféra Rezervátum Veracruzban egy egyedülálló köderdő ökoszisztéma, rendkívül magas biodiverzitással.",
+      "facts": ["Köderdő", "Veracruz", "Magas biodiverzitás"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "A Sierra Gorda Bioszféra Rezervátum Querétaro államban egy sokszínű hegyvidéki régió gazdag növény- és állatvilággal.",
+      "facts": ["Hegyvidéki régió", "Querétaro", "Gazdag növény- és állatvilág"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Isla Holbox Quintana Roóban egy autómentes sziget, érintetlen strandjairól és a bálna cápák megfigyeléséről híres.",
+      "facts": ["Autómentes sziget", "Érintetlen strandok", "Bálna cápák"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Isla Mujeres egy kis karibi sziget Cancún előtt, népszerű strandjairól, korallzátonyairól és a víz alatti múzeumról.",
+      "facts": ["Karibi sziget", "Korallzátonyok", "Víz alatti múzeum"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "Janitzio szigete a Pátzcuaro-tóban Michoacánban José María Morelos hatalmas szobráról és az őshonos kultúrájáról híres.",
+      "facts": ["Pátzcuaro-tó", "José María Morelos szobor", "Őshonos kultúra"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "Isla Espíritu Santo Baja California Sur államban UNESCO Bioszféra Rezervátum, érintetlen természeti környezetéről és oroszlánfóka kolóniáiról ismert.",
+      "facts": ["UNESCO Bioszféra Rezervátum", "Oroszlánfóka kolóniák", "Baja California"]
+    }
+  ]
+}

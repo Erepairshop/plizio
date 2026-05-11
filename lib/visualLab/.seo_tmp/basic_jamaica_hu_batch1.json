@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-kingston-harbour-economic-v2",
+      "description": "A világ egyik legnagyobb természetes kikötője, központi szereppel a jamaicai külkereskedelemben.",
+      "facts": ["A világ 7. legnagyobb természetes kikötője", "Központi konténerterminál", "Gazdasági központ", "Logisztikai csomópont"]
+    },
+    {
+      "id": "jm-montego-freeport-economic-v2",
+      "description": "Fontos ipari és tengerjáró övezet a sziget nyugati részén.",
+      "facts": ["Szabadkereskedelmi övezet", "Tengerjáró terminál", "Ipari központ", "Exportkikötő"]
+    },
+    {
+      "id": "jm-sugar-factory-economic-v2",
+      "description": "Jamaica egyik történelmi cukortermelő létesítménye.",
+      "facts": ["Cukornád-feldolgozás", "Hagyományos ipar", "Exporttermék", "Mezőgazdasági feldolgozás"]
+    },
+    {
+      "id": "jm-port-esquivel-economic-v2",
+      "description": "Ipari kikötő timföld és alumíniumtermékek exportjára.",
+      "facts": ["Timföldexport", "Mélyvízi móló", "Ipari logisztika", "Ásványkincs-kikötő"]
+    },
+    {
+      "id": "jm-energy-power-economic-v2",
+      "description": "Központi erőmű a fővárosi régió energiaellátásához.",
+      "facts": ["Energiatermelés", "Villamoshálózat-támogatás", "Infrastruktúra", "Közüzemi ellátás"]
+    },
+    {
+      "id": "jm-rum-distillery-economic-v2",
+      "description": "A jamaicai rumtermelés központja.",
+      "facts": ["Rumlepárlás", "Exporttermék", "Hagyományos kézművesség", "Agroturizmus"]
+    },
+    {
+      "id": "jm-coffee-processor-economic-v2",
+      "description": "Speciális üzem az exkluzív Blue Mountain kávé feldolgozására.",
+      "facts": ["Kávéfeldolgozás", "Prémium termék", "Exportminőség", "Mezőgazdaság"]
+    },
+    {
+      "id": "jm-port-royal-terminal-economic-v2",
+      "description": "Újonnan fejlesztett tengerjáró kikötő történelmi környezetben.",
+      "facts": ["Turisztikai infrastruktúra", "Kikötői létesítmény", "Gazdasági potenciál", "Tengerjárók"]
+    },
+    {
+      "id": "jm-alpart-plant-economic-v2",
+      "description": "Nagy ipari létesítmény a bauxit timfölddé történő feldolgozására.",
+      "facts": ["Timföldgyártás", "Ipari kapacitás", "Gazdasági tényező", "Nyersanyagfeldolgozás"]
+    },
+    {
+      "id": "jm-sand-export-economic-v2",
+      "description": "Létesítmény építőhomok ipari előkészítésére és exportjára.",
+      "facts": ["Bányászat", "Ipari homok", "Exportcikk", "Építőipar"]
+    },
+    {
+      "id": "jm-port-kaiser-economic-v2",
+      "description": "Bauxitszállításra szakosodott kikötői létesítmény.",
+      "facts": ["Bauxitrakodás", "Ipari kikötő", "Ömlesztett terminál", "Exportinfrastruktúra"]
+    },
+    {
+      "id": "jm-fisheries-economic-v2",
+      "description": "A sziget kereskedelmi halászatának egyik központja.",
+      "facts": ["Kereskedelmi halászat", "Halpiac", "Parti gazdaság", "Élelmiszeripar"]
+    }
+  ]
+}

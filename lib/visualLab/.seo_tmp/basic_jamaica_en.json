@@ -1,0 +1,139 @@
+{
+  "lang": "en",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yallahs-valley-relief-v2",
+      "description": "A deep, steep-sided valley in St. Thomas formed by the Yallahs River, known for its dramatic topography.",
+      "facts": [
+        "Prone to landslides during heavy rain",
+        "Major source of aggregate and sand",
+        "Scenic but rugged agricultural area"
+      ]
+    },
+    {
+      "id": "hills-of-hanover-relief-v2",
+      "description": "A series of verdant limestone hills in the western parish of Hanover, providing a backdrop to coastal resorts.",
+      "facts": [
+        "Moderate elevation with lush cover",
+        "Includes the historic Dolphin Head mountain",
+        "Critical watershed for western Jamaica"
+      ]
+    },
+    {
+      "id": "mount-diabolo-relief-v2",
+      "description": "A prominent mountain pass and peak in St. Ann, marking the transition from the central plains to the north coast.",
+      "facts": [
+        "Crossed by the main north-south highway",
+        "Known for its steep, winding ascent",
+        "Elevation of over 2,000 feet"
+      ]
+    },
+    {
+      "id": "st-catherine-hills-relief-v2",
+      "description": "A rugged limestone upland area in St. Catherine, characterized by rocky outcrops and dry forest vegetation.",
+      "facts": [
+        "Part of the southern limestone plateau",
+        "Bordering the fertile Rio Cobre valley",
+        "Rich in indigenous flora species"
+      ]
+    },
+    {
+      "id": "trelawny-highlands-relief-v2",
+      "description": "The high-altitude interior of Trelawny, forming the heart of the rugged and inaccessible Cockpit Country.",
+      "facts": [
+        "Classical cockpit karst landscape",
+        "Extremely difficult terrain to navigate",
+        "Major sanctuary for endemic wildlife"
+      ]
+    },
+    {
+      "id": "st-ann-hills-relief-v2",
+      "description": "The 'Garden Parish' is defined by these rolling limestone hills, which feature numerous waterfalls and underground rivers.",
+      "facts": [
+        "Source of the famous Dunn's River Falls",
+        "High concentration of bauxite mines",
+        "Cooler climate than the coastal plains"
+      ]
+    },
+    {
+      "id": "claren-valley-relief-v2",
+      "description": "A fertile valley region in central Jamaica, supporting diverse agricultural production including citrus and cocoa.",
+      "facts": [
+        "Enclosed by the central mountain ranges",
+        "Rich alluvial soil deposits",
+        "Hub for rural farming communities"
+      ]
+    },
+    {
+      "id": "manchester-plateau-relief-v2",
+      "description": "A high-altitude limestone plateau in central Jamaica, known for its red bauxite soil and temperate climate.",
+      "facts": [
+        "Average elevation of 2,000 feet",
+        "Center of the island's bauxite industry",
+        "Home to the town of Mandeville"
+      ]
+    },
+    {
+      "id": "st-elizabeth-plains-relief-v2",
+      "description": "The 'breadbasket' of Jamaica, consisting of flat, fertile alluvial plains that support intensive vegetable farming.",
+      "facts": [
+        "Drier climate than the northern coast",
+        "Bordered by the Santa Cruz Mountains",
+        "Utilizes extensive irrigation systems"
+      ]
+    },
+    {
+      "id": "portland-ridge-relief-v2",
+      "description": "A prominent limestone ridge on the southern coast of Clarendon, extending into the Caribbean Sea.",
+      "facts": [
+        "Home to the Portland Point Lighthouse",
+        "Features rare dry forest ecosystems",
+        "Southernmost point of the island"
+      ]
+    },
+    {
+      "id": "hellshire-hills-relief-v2",
+      "description": "A dry, rugged limestone region near Kingston, known for its unique xerophytic vegetation and endemic iguanas.",
+      "facts": [
+        "One of the last pristine dry forests",
+        "Home to the endangered Jamaican Iguana",
+        "Popular for its nearby seafood beaches"
+      ]
+    },
+    {
+      "id": "johannesburg-mountain-relief-v2",
+      "description": "A significant peak in the western part of the island, offering a commanding view of the surrounding agricultural lands.",
+      "facts": [
+        "Located in the parish of Westmoreland",
+        "Part of the western limestone range",
+        "Surrounded by sugar cane plantations"
+      ]
+    },
+    {
+      "id": "blue-mountain-peak-north-relief-v2",
+      "description": "The northern slopes of Jamaica's highest peak, characterized by extremely high rainfall and dense tropical cloud forest.",
+      "facts": [
+        "Steeper than the southern approach",
+        "Crucial for the island's water cycle",
+        "Inaccessible except via rugged trails"
+      ]
+    },
+    {
+      "id": "mocho-mountains-relief-v2",
+      "description": "A rugged limestone mountain range in central Clarendon, historically significant as a refuge for Maroons.",
+      "facts": [
+        "Contains numerous hidden caves",
+        "Rich in bauxite and limestone",
+        "Heavily forested interior terrain"
+      ]
+    }
+  ]
+}

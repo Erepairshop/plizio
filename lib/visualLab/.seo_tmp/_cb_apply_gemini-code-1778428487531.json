@@ -1,0 +1,232 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cabnave-shipyard-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Cabnave-Werft (Estaleiros Navais de Cabo Verde) befindet sich in der strategisch bedeutsamen Bucht von Porto Grande in Mindelo auf der Insel São Vicente. Das Unternehmen wurde offiziell im Jahr 1982 in Betrieb genommen und stellt seitdem eine der absolut kritischsten industriellen Säulen des kapverdischen Archipels dar. Geografisch profitiert die Werft von der geschützten Lage des natürlichen Tiefwasserhafens, der als einer der sichersten Ankerplätze im Zentralatlantik gilt. Die Infrastruktur der Werft ist hochspezialisiert und umfasst ein massives Querhelling-System mit sechs Schienenbahnen, das die gleichzeitige Trockenlegung und Reparatur von bis zu sechs Schiffen mit einer Länge von bis zu 110 Metern und einem Gewicht von bis zu 2.800 Tonnen ermöglicht. Wirtschaftlich fungiert Cabnave als ein hochgradig spezialisierter Dienstleister für die internationale Fernfischereiflotte sowie für regionale Handelsschiffe. Die Werft bietet umfassende mechanische, elektrische und schiffbauliche Dienstleistungen an, die für die maritime Sicherheit und Logistik in westafrikanischen Gewässern absolut unverzichtbar sind. Trotz technischer Herausforderungen und der Notwendigkeit kontinuierlicher Modernisierungen bleibt Cabnave ein bedeutender lokaler Arbeitgeber in Mindelo und ein Symbol für die maritime Tradition der Insel São Vicente, die eng mit dem Erbe der britischen Kohlenstationen des 19. Jahrhunderts verbunden ist.",
+        "hu": "A Cabnave hajógyár (Estaleiros Navais de Cabo Verde) a stratégiai fontosságú Porto Grande öbölben található Mindelóban, São Vicente szigetén. A vállalatot hivatalosan 1982-ben helyezték üzembe, és azóta a zöld-foki szigetvilág egyik abszolút legkritikusabb ipari oszlopát képviseli. Földrajzilag a hajógyár a természetes mélyvízi kikötő védett elhelyezkedéséből profitál, amelyet a Közép-Atlanti-óceán egyik legbiztonságosabb horgonyzóhelyeként tartanak számon. A gyár infrastruktúrája rendkívül specializált: egy masszív, hat vágányból álló keresztirányú sólyarendszerrel rendelkezik, amely lehetővé teszi akár hat, egyenként 110 méter hosszú és 2800 tonna súlyú hajó egyidejű szárazra emelését és javítását. Gazdaságilag a Cabnave magasan képzett szolgáltatóként működik a nemzetközi távolsági halászflották, valamint a regionális kereskedelmi hajók számára. A hajógyár átfogó mechanikai, elektromos és hajóépítési szolgáltatásokat nyújt, amelyek abszolút nélkülözhetetlenek a nyugat-afrikai vizek tengeri biztonsága és logisztikája szempontjából. A technikai kihívások és a folyamatos modernizáció szükségessége ellenére a Cabnave továbbra is jelentős helyi munkaadó Mindelóban, és São Vicente sziget tengeri hagyományainak szimbóluma, amely szorosan kötődik a 19. századi brit szénrakodó állomások örökségéhez.",
+        "ro": "Șantierul naval Cabnave (Estaleiros Navais de Cabo Verde) este situat în golful strategic Porto Grande din Mindelo, pe insula São Vicente. Compania a fost pusă oficial în funcțiune în anul 1982 și reprezintă de atunci unul dintre pilonii industriali absolut critici ai arhipelagului Capului Verde. Din punct de vedere geografic, șantierul beneficiază de locația protejată a portului natural de ape adânci, considerat unul dintre cele mai sigure locuri de ancorare din Atlanticul Central. Infrastructura șantierului este înalt specializată și cuprinde un sistem masiv de calare transversală cu șase căi ferate, care permite ridicarea pe uscat și repararea simultană a până la șase nave cu o lungime de până la 110 metri și o greutate de până la 2.800 de tone. Economic, Cabnave funcționează ca un furnizor de servicii înalt specializat pentru flota internațională de pescuit la distanță, precum și pentru navele comerciale regionale. Șantierul oferă servicii mecanice, electrice și de construcții navale cuprinzătoare, care sunt absolut indispensabile pentru siguranța maritimă și logistica în apele vest-africane. În ciuda provocărilor tehnice și a necesității unei modernizări continue, Cabnave rămâne un angajator local important în Mindelo și un simbol al tradiției maritime a insulei São Vicente, strâns legată de moștenirea stațiilor britanice de cărbune din secolul al XIX-lea.",
+        "en": "The Cabnave shipyard (Estaleiros Navais de Cabo Verde) is located in the strategically significant Porto Grande Bay in Mindelo, on the island of São Vicente. Officially commissioned in 1982, the company has since represented one of the absolute most critical industrial pillars of the Cape Verdean archipelago. Geographically, the shipyard benefits from the sheltered position of the natural deep-water harbor, which is regarded as one of the safest anchorages in the Central Atlantic. The facility's infrastructure is highly specialized, featuring a massive transverse slipway system with six rail tracks that allows for the simultaneous dry-docking and repair of up to six vessels with a length of up to 110 meters and a displacement of up to 2,800 tons. Economically, Cabnave functions as a high-grade service provider for the international long-distance fishing fleet as well as regional commercial vessels. The shipyard offers comprehensive mechanical, electrical, and shipbuilding services that are absolutely indispensable for maritime safety and logistics in West African waters. Despite technical challenges and the ongoing need for modernization, Cabnave remains a major local employer in Mindelo and a symbol of São Vicente's maritime tradition, which is closely linked to the 19th-century legacy of British coaling stations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Werft wurde im Jahr 1982 zur Unterstützung der nationalen Flotte gegründet.",
+          "Das Querhelling-System kann bis zu sechs Schiffe gleichzeitig abfertigen.",
+          "Schiffe bis zu einer maximalen Länge von 110 Metern werden hier repariert.",
+          "Die Anlage befindet sich im geschützten Naturhafen Porto Grande.",
+          "Cabnave ist der einzige Industriebetrieb dieser Art in Kap Verde.",
+          "Wichtigster technischer Dienstleister für die Fischerei im Zentralatlantik."
+        ],
+        "hu": [
+          "A hajógyárat 1982-ben alapították a nemzeti flotta támogatására.",
+          "A sólyarendszer egyszerre akár hat hajót is képes kiszolgálni.",
+          "Legfeljebb 110 méter hosszú hajók javítására alkalmas a létesítmény.",
+          "A komplexum a Porto Grande védett természetes kikötőjében található.",
+          "A Cabnave az egyetlen ilyen jellegű ipari létesítmény a Zöld-foki-szigeteken.",
+          "A Közép-Atlanti-óceán halászati ágazatának legfontosabb műszaki szolgáltatója."
+        ],
+        "ro": [
+          "Șantierul naval a fost fondat în anul 1982 pentru a sprijini flota națională.",
+          "Sistemul de calare transversală poate deservi până la șase nave simultan.",
+          "Aici sunt reparate nave cu o lungime maximă de până la 110 metri.",
+          "Instalația este situată în portul natural protejat Porto Grande.",
+          "Cabnave este singura unitate industrială de acest tip din Capul Verde.",
+          "Cel mai important furnizor de servicii tehnice pentru pescuitul din Atlanticul Central."
+        ],
+        "en": [
+          "The shipyard was officially established in 1982 to support the national fleet.",
+          "The transverse slipway system can handle up to six vessels simultaneously.",
+          "Vessels with a maximum length of 110 meters are repaired at this facility.",
+          "The plant is located within the naturally sheltered Porto Grande harbor.",
+          "Cabnave is the only industrial operation of its kind in Cape Verde.",
+          "Primary technical service provider for the Central Atlantic fishing industry."
+        ]
+      }
+    },
+    {
+      "id": "ceris-brewery-praia-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die CERIS-Brauerei (Companhia de Cervejas e Refrigerantes das Ilhas) ist der absolut führende Getränkeproduzent in Kap Verde und befindet sich im Industriegebiet von Praia auf der Insel Santiago. Das Unternehmen wurde in seiner modernen Form in den späten 1980er Jahren (ca. 1988) etabliert und hat die industrielle Landschaft des Landes maßgeblich geprägt. CERIS ist vor allem für die Produktion der Marke 'Strela' bekannt, dem Nationalbier von Kap Verde, das einen massiven Marktanteil besitzt und tief in der lokalen Kultur verwurzelt ist. Neben Bier produziert das Werk unter Lizenz verschiedene internationale Softdrinks und Erfrischungsgetränke. Wirtschaftlich gesehen ist die Brauerei eine der größten und stabilsten Industrieeinheiten in der Hauptstadt Praia und ein bedeutender Steuerzahler. Die Fabrik nutzt fortschrittliche Abfüllanlagen und unterliegt strengen Qualitätskontrollen, um internationalen Standards gerecht zu werden. In der Vergangenheit war das Unternehmen Teil großer globaler Konzerne wie Heineken und Diageo, was den Transfer von technischem Know-how massiv förderte. Eine der größten Herausforderungen für die Produktion am Standort Praia ist die Wasserknappheit der Insel, weshalb das Unternehmen massiv in eigene Wasseraufbereitungs- und Entsalzungssysteme investiert hat, um den hohen Bedarf der Brauprozesse nachhaltig zu decken.",
+        "hu": "A CERIS sörgyár (Companhia de Cervejas e Refrigerantes das Ilhas) a Zöld-foki Köztársaság vezető italgyártója, amely Praia ipari negyedében, Santiago szigetén található. A vállalatot modern formájában az 1980-as évek végén (kb. 1988-ban) alapították, és azóta meghatározó szerepet tölt be az ország iparában. A CERIS leginkább a 'Strela' márka gyártásáról ismert, amely a Zöld-foki-szigetek nemzeti söre, hatalmas piaci részesedéssel bír és mélyen beágyazódott a helyi kultúrába. A sör mellett az üzem licenc alapján különféle nemzetközi üdítőitalokat is gyárt. Gazdasági szempontból a sörgyár Praia egyik legnagyobb és legstabilabb ipari egysége, valamint jelentős adófizető. A gyár fejlett palackozósorokat használ, és szigorú minőségellenőrzésnek vetik alá a nemzetközi szabványoknak való megfelelés érdekében. A múltban a vállalat olyan globális óriások része volt, mint a Heineken vagy a Diageo, ami nagyban elősegítette a technikai tudás átadását. A termelés egyik legnagyobb kihívása a praiai helyszínen a sziget vízhiánya, ezért a cég jelentős beruházásokat eszközölt saját vízkezelő és sótalanító rendszerekbe, hogy fenntartható módon fedezze a sörfőzési folyamatok nagy vízigényét.",
+        "ro": "Berăria CERIS (Companhia de Cervejas e Refrigerantes das Ilhas) este cel mai important producător de băuturi din Capul Verde și este situată în zona industrială din Praia, pe insula Santiago. Compania a fost înființată în forma sa modernă la sfârșitul anilor 1980 (cca. 1988) și a marcat semnificativ peisajul industrial al țării. CERIS este cunoscută în special pentru producția mărcii „Strela”, berea națională a Capului Verde, care deține o cotă de piață masivă și este profund înrădăcinată în cultura locală. Pe lângă bere, fabrica produce sub licență diverse băuturi răcoritoare internaționale. Din punct de vedere economic, berăria este una dintre cele mai mari și mai stabile unități industriale din capitala Praia și un contribuabil important. Fabrica utilizează linii de îmbuteliere avansate și este supusă unor controale de calitate stricte pentru a respecta standardele internaționale. În trecut, compania a făcut parte din mari grupuri globale precum Heineken și Diageo, ceea ce a promovat masiv transferul de know-how tehnic. Una dintre cele mai mari provocări pentru producția din Praia este deficitul de apă de pe insulă, motiv pentru care compania a investit masiv în propriile sisteme de tratare a apei și de desalinizare pentru a acoperi în mod durabil cererea ridicată a proceselor de fabricare a berii.",
+        "en": "The CERIS brewery (Companhia de Cervejas e Refrigerantes das Ilhas) is the absolute leading beverage producer in Cape Verde, located in the industrial zone of Praia on Santiago Island. Established in its modern form in the late 1980s (approx. 1988), the company has significantly shaped the country's industrial landscape. CERIS is primarily famous for producing the 'Strela' brand, the national beer of Cape Verde, which commands a massive market share and is deeply rooted in local culture. In addition to beer, the plant manufactures various international soft drinks under license. Economically, the brewery is one of the largest and most stable industrial units in the capital city of Praia and a major taxpayer. The factory utilizes advanced bottling lines and adheres to strict quality controls to meet international standards. Historically, the company has been part of major global groups such as Heineken and Diageo, which greatly facilitated the transfer of technical expertise. One of the greatest challenges for production at the Praia site is the island's water scarcity; consequently, the company has invested heavily in its own water treatment and desalination systems to sustainably meet the high demand of the brewing processes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Getränkeproduzent des Landes mit Sitz in der Hauptstadt Praia.",
+          "Produzent von 'Strela', dem offiziellen Nationalbier der Kapverden.",
+          "Gegründet um 1988 als moderne Industrieeinheit auf Santiago.",
+          "Produziert internationale Softdrinks wie Coca-Cola unter Lizenz.",
+          "Betreibt eigene Entsalzungsanlagen zur Sicherung der Wasserversorgung.",
+          "Wichtiger lokaler Arbeitgeber mit hohem Anteil an qualifizierten Fachkräften."
+        ],
+        "hu": [
+          "Az ország legnagyobb italgyártója, székhelye Praia fővárosban van.",
+          "A 'Strela', a Zöld-foki-szigetek hivatalos nemzeti sörének gyártója.",
+          "1988 körül alapították modern ipari egységként Santiago szigetén.",
+          "Licenc alapján nemzetközi üdítőket, például Coca-Colát is gyárt.",
+          "Saját sótalanító berendezéseket üzemeltet a vízellátás biztosítására.",
+          "Fontos helyi munkaadó, magas a szakképzett munkaerő aránya az üzemben."
+        ],
+        "ro": [
+          "Cel mai mare producător de băuturi din țară, cu sediul în capitala Praia.",
+          "Producătorul „Strela”, berea națională oficială a Capului Verde.",
+          "Fondată în jurul anului 1988 ca unitate industrială modernă pe Santiago.",
+          "Produce băuturi răcoritoare internaționale sub licență, precum Coca-Cola.",
+          "Operează propriile stații de desalinizare pentru a asigura alimentarea cu apă.",
+          "Angajator local important cu o proporție ridicată de specialiști calificați."
+        ],
+        "en": [
+          "Largest beverage producer in the country, headquartered in Praia.",
+          "Producer of 'Strela', the official national beer of Cape Verde.",
+          "Established around 1988 as a modern industrial facility on Santiago.",
+          "Manufactures international soft drinks like Coca-Cola under license.",
+          "Operates private desalination plants to secure its water supply.",
+          "Key local employer with a high percentage of skilled technical staff."
+        ]
+      }
+    },
+    {
+      "id": "windfarm-gouveia-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Windpark Gouveia befindet sich auf der Insel Santiago, nordwestlich der Hauptstadt Praia, und ist ein wesentlicher Bestandteil der kapverdischen Strategie zur Energiewende. Die Anlage wurde im Rahmen des preisgekrönten Cabeólica-Projekts errichtet, dem ersten groß angelegten kommerziellen Windenergieprojekt in Afrika südlich der Sahara, das durch eine öffentlich-private Partnerschaft finanziert wurde. Der Standort Gouveia wurde aufgrund seiner geografischen Lage auf einem erhöhten Plateau gewählt, das von den konstanten und starken nordöstlichen Passatwinden profitiert, die fast das ganze Jahr über wehen. Der Windpark besteht aus mehreren modernen Windturbinen, die massiv zur Reduzierung der Abhängigkeit des Landes von teuren und umweltschädlichen Importen fossiler Brennstoffe beitragen. Wirtschaftlich gesehen hat Gouveia zusammen mit den anderen Cabeólica-Standorten dazu beigetragen, dass Kap Verde zeitweise über 20 Prozent seines Strombedarfs aus Windkraft decken konnte. Die technische Betriebsführung erfolgt nach internationalen Standards für erneuerbare Energien. Neben der reinen Stromerzeugung hat das Projekt auch positive Auswirkungen auf die lokale Infrastruktur durch den Ausbau von Zufahrtswegen und die Förderung von technischem Wissen im Bereich der Green Economy auf der Insel Santiago.",
+        "hu": "A gouveiai szélerőműpark Santiago szigetén, Praia fővárostól északnyugatra található, és a zöld-foki energiaátmeneti stratégia egyik kulcsfontosságú eleme. A létesítmény a díjnyertes Cabeólica-projekt keretében épült meg, amely az első nagyszabású kereskedelmi szélenergia-projekt volt a szubszaharai Afrikában, és amelyet állami-magán partnerség keretében finanszíroztak. Gouveia helyszínét egy magaslati fennsíkon fekvő földrajzi elhelyezkedése miatt választották ki, amely profitál az egész évben fújó, állandó és erős északkeleti passzátszelekből. A szélerőműpark több modern szélturbinából áll, amelyek masszívan hozzájárulnak az ország drága és környezetszennyező fosszilis tüzelőanyag-importjától való függőségének csökkentéséhez. Gazdasági szempontból Gouveia a többi Cabeólica-helyszínnel együtt hozzájárult ahhoz, hogy a Zöld-foki-szigetek időnként áramszükségletének több mint 20 százalékát szélenergiából fedezze. A műszaki üzemeltetés a megújuló energiákra vonatkozó nemzetközi szabványok szerint történik. A tiszta áramtermelés mellett a projekt pozitív hatással volt a helyi infrastruktúrára is a bekötőutak kiépítése és a zöld gazdasághoz kapcsolódó műszaki ismeretek terjesztése révén Santiago szigetén.",
+        "ro": "Parcul eolian Gouveia este situat pe insula Santiago, la nord-vest de capitala Praia, și este o parte esențială a strategiei de tranziție energetică din Capul Verde. Instalația a fost construită în cadrul proiectului premiat Cabeólica, primul proiect de energie eoliană comercială la scară largă din Africa subsahariană, finanțat printr-un parteneriat public-privat. Locația Gouveia a fost aleasă datorită poziției sale geografice pe un platou ridicat, care beneficiază de vânturile alizee constante și puternice din nord-est, ce suflă aproape tot anul. Parcul eolian constă din mai multe turbine eoliene moderne, care contribuie masiv la reducerea dependenței țării de importurile scumpe și poluante de combustibili fosili. Din punct de vedere economic, Gouveia, împreună cu celelalte locații Cabeólica, a contribuit la faptul că Republica Capului Verde a putut acoperi uneori peste 20% din necesarul său de energie electrică din energie eoliană. Managementul tehnic se desfășoară conform standardelor internaționale pentru energii regenerabile. Pe lângă producția propriu-zisă de energie, proiectul a avut efecte pozitive asupra infrastructurii locale prin extinderea drumurilor de acces și promovarea cunoștințelor tehnice în domeniul economiei verzi pe insula Santiago.",
+        "en": "The Gouveia Wind Farm is located on Santiago Island, northwest of the capital city, Praia, and is a vital component of Cape Verde's energy transition strategy. The facility was established as part of the award-winning Cabeólica project, the first large-scale commercial wind energy project in Sub-Saharan Africa financed through a public-private partnership. The Gouveia site was selected due to its geographic location on an elevated plateau that benefits from constant and powerful northeastern trade winds blowing nearly year-round. The wind farm consists of several modern wind turbines that contribute massively to reducing the nation's reliance on expensive and polluting fossil fuel imports. Economically, Gouveia, alongside other Cabeólica sites, has enabled Cape Verde to cover over 20 percent of its electricity demand from wind power at times. Technical operations follow international standards for renewable energy. Beyond clean power generation, the project has positively impacted local infrastructure through the expansion of access roads and the promotion of technical expertise in the green economy sector on Santiago Island."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des preisgekrönten Cabeólica-Windkraftprojekts auf Santiago.",
+          "Erster kommerzieller Windpark dieser Größenordnung in Westafrika.",
+          "Nutzt die starken nordöstlichen Passatwinde zur Stromerzeugung.",
+          "Trägt massiv zur Reduktion von CO2-Emissionen und Ölimporten bei.",
+          "Finanziert durch eine erfolgreiche öffentlich-private Partnerschaft.",
+          "Wichtiger Meilenstein für das Ziel, 50 % erneuerbare Energien zu erreichen."
+        ],
+        "hu": [
+          "A Santiago szigetén zajló, díjnyertes Cabeólica szélenergia-projekt része.",
+          "Nyugat-Afrika első ilyen léptékű kereskedelmi szélerőműparkja.",
+          "Az erős északkeleti passzátszeleket hasznosítja áramtermelésre.",
+          "Masszívan hozzájárul a CO2-kibocsátás és az olajimport csökkentéséhez.",
+          "Sikeres állami-magán partnerség (PPP) keretében finanszírozták.",
+          "Fontos mérföldkő az 50%-os megújuló részarány elérése felé."
+        ],
+        "ro": [
+          "Parte a proiectului eolian premiat Cabeólica de pe insula Santiago.",
+          "Primul parc eolian comercial de această amploare din Africa de Vest.",
+          "Utilizează vânturile alizee puternice din nord-est pentru generarea de curent.",
+          "Contribuie masiv la reducerea emisiilor de CO2 și a importurilor de petrol.",
+          "Finanțat printr-un parteneriat public-privat de succes.",
+          "Etapă importantă pentru atingerea obiectivului de 50% energii regenerabile."
+        ],
+        "en": [
+          "Part of the award-winning Cabeólica wind power project on Santiago.",
+          "First utility-scale commercial wind farm in Sub-Saharan Africa.",
+          "Harnesses strong northeastern trade winds for power generation.",
+          "Significantly reduces carbon emissions and heavy fuel oil imports.",
+          "Financed through a highly successful public-private partnership model.",
+          "Major milestone towards the national goal of 50% renewable energy."
+        ]
+      }
+    },
+    {
+      "id": "windfarm-selada-flamengo-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Windpark Selada do Flamengo liegt auf der Insel São Vicente, südöstlich der Stadt Mindelo, in einer der windreichsten Zonen des gesamten kapverdischen Archipels. Geografisch ist die Anlage auf einem Bergrücken positioniert, der wie ein natürlicher Korridor für die Passatwinde fungiert, was eine außergewöhnlich hohe Kapazitätsauslastung der Turbinen ermöglicht. Der Park ist einer von vier Standorten des Cabeólica-Projekts, das international als Vorzeigemodell für nachhaltige Energieversorgung auf Inselstaaten gilt. Seit der Inbetriebnahme im Jahr 2011/2012 hat Selada do Flamengo die Energieautarkie von São Vicente massiv gestärkt. Die installierten Windkraftanlagen speisen direkt in das lokale Stromnetz ein und decken einen signifikanten Prozentsatz des Bedarfs der Insel, was die Abhängigkeit vom Dieselkraftwerk in Mindelo drastisch reduziert hat. Wirtschaftlich gesehen stabilisiert der Park die Energiekosten, da Windkraft deutlich günstiger ist als stromerzeugende Importkraftstoffe. Die technologische Wartung der Anlagen erfolgt durch spezialisierte Teams und trägt zur Schaffung von 'grünen' Arbeitsplätzen bei. Selada do Flamengo steht symbolisch für die klimatische Transformation der Insel São Vicente hin zu einer saubereren und ökologisch verantwortungsvolleren Zukunft.",
+        "hu": "A Selada do Flamengo szélerőműpark São Vicente szigetén, Mindelo várostól délkeletre található, a teljes zöld-foki szigetvilág egyik legszelesebb övezetében. Földrajzilag a létesítmény egy olyan hegygerincen helyezkedik el, amely természetes folyosóként működik a passzátszelek számára, ami a turbinák kivételesen magas kihasználtságát teszi lehetővé. A park a Cabeólica-projekt négy helyszínének egyike, amelyet nemzetközileg a szigetországok fenntartható energiaellátásának mintamodelljeként tartanak számon. A 2011/2012-es üzembe helyezése óta a Selada do Flamengo masszívan megerősítette São Vicente energiafüggetlenségét. A telepített szélturbinák közvetlenül a helyi elektromos hálózatba táplálnak, és a sziget szükségletének jelentős százalékát fedezik, ami drasztikusan csökkentette a mindelói dízelüzemű erőműtől való függőséget. Gazdasági szempontból a park stabilizálja az energiaköltségeket, mivel a szélenergia jóval olcsóbb az importált üzemanyagokból előállított áramnál. A berendezések technológiai karbantartását specializált csapatok végzik, hozzájárulva a 'zöld' munkahelyek teremtéséhez. Selada do Flamengo São Vicente szigetének tiszta és ökológiailag felelősségteljes jövője felé mutató klímavédelmi átalakulását szimbolizálja.",
+        "ro": "Parcul eolian Selada do Flamengo este situat pe insula São Vicente, la sud-est de orașul Mindelo, într-una dintre cele mai bântuite de vânt zone din întregul arhipelag al Capului Verde. Geografic, instalația este poziționată pe o creastă montană care funcționează ca un coridor natural pentru vânturile alizee, ceea ce permite o utilizare excepțional de mare a capacității turbinelor. Parcul este unul dintre cele patru locații ale proiectului Cabeólica, considerat la nivel internațional un model de referință pentru aprovizionarea durabilă cu energie în statele insulare. De la punerea în funcțiune în anul 2011/2012, Selada do Flamengo a întărit masiv independența energetică a insulei São Vicente. Turbinele eoliene instalate debitează direct în rețeaua electrică locală și acoperă un procent semnificativ din necesarul insulei, ceea ce a redus drastic dependența de centrala diesel din Mindelo. Din punct de vedere economic, parcul stabilizează costurile energiei, deoarece energia eoliană este semnificativ mai ieftină decât combustibilii de import pentru producerea curentului. Întreținerea tehnologică a instalațiilor este realizată de echipe specializate și contribuie la crearea de locuri de muncă „verzi”. Selada do Flamengo simbolizează transformarea climatică a insulei São Vicente către un viitor mai curat și mai responsabil din punct de vedere ecologic.",
+        "en": "The Selada do Flamengo Wind Farm is located on São Vicente Island, southeast of the city of Mindelo, in one of the windiest zones of the entire Cape Verdean archipelago. Geographically, the facility is positioned on a mountain ridge that acts as a natural corridor for trade winds, enabling an exceptionally high capacity factor for the turbines. The farm is one of four sites in the Cabeólica project, which is internationally recognized as a model for sustainable energy supply in small island developing states. Since its commissioning in 2011/2012, Selada do Flamengo has massively strengthened São Vicente's energy self-sufficiency. The installed wind turbines feed directly into the local power grid and cover a significant percentage of the island's demand, drastically reducing reliance on the diesel power plant in Mindelo. Economically, the farm stabilizes energy costs, as wind power is significantly cheaper than electricity generated from imported fuels. Technological maintenance of the turbines is performed by specialized teams, contributing to the creation of 'green' jobs. Selada do Flamengo stands as a symbol of São Vicente's climate transformation toward a cleaner and more ecologically responsible future."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich auf einem strategischen Windkorridor auf São Vicente.",
+          "Inbetriebnahme erfolgte im Zeitraum 2011 bis 2012.",
+          "Teil des nationalen Cabeólica-Netzwerks für saubere Energie.",
+          "Reduziert drastisch die Abhängigkeit vom fossilen Dieselkraftwerk in Mindelo.",
+          "Erreicht eine für Windkraftanlagen überdurchschnittliche Betriebseffizienz.",
+          "Wesentlicher Faktor für die ökologische Nachhaltigkeit der Insel São Vicente.",
+          "Die Turbinen sind weithin sichtbar und prägen das moderne Relief der Insel."
+        ],
+        "hu": [
+          "São Vicente egy stratégiai szélfolyosóján helyezkedik el.",
+          "Az üzembe helyezés 2011 és 2012 között történt meg.",
+          "A tiszta energiát biztosító nemzeti Cabeólica-hálózat része.",
+          "Drasztikusan csökkenti a mindelói fosszilis dízelüzemű erőműtől való függőséget.",
+          "A szélerőműveknél átlag feletti üzemi hatékonyságot ér el.",
+          "Meghatározó tényező São Vicente szigetének ökológiai fenntarthatóságában.",
+          "A turbinák messziről láthatóak, és meghatározzák a sziget modern látképét."
+        ],
+        "ro": [
+          "Situat pe un coridor eolian strategic de pe insula São Vicente.",
+          "Punerea în funcțiune a avut loc în perioada 2011-2012.",
+          "Parte a rețelei naționale Cabeólica pentru energie curată.",
+          "Reduce drastic dependența de centrala electrică diesel fosilă din Mindelo.",
+          "Atinge o eficiență operațională peste medie pentru turbinele eoliene.",
+          "Factor esențial pentru sustenabilitatea ecologică a insulei São Vicente.",
+          "Turbinele sunt vizibile de la distanță și definesc relieful modern al insulei."
+        ],
+        "en": [
+          "Located on a strategic wind corridor on the island of São Vicente.",
+          "Successfully commissioned between 2011 and 2012.",
+          "Key component of the national Cabeólica clean energy network.",
+          "Drastically reduces reliance on the fossil-fuel diesel plant in Mindelo.",
+          "Achieves an operational efficiency well above the industry average for wind.",
+          "Major factor in the ecological sustainability of São Vicente Island.",
+          "The turbines are visible from afar and define the island's modern skyline."
+        ]
+      }
+    },
+    {
+      "id": "frescomar-factory-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Frescomar-Fabrik ist die bedeutendste Fischkonservenfabrik in Kap Verde und befindet sich in der Industriezone Lazareto bei Mindelo auf der Insel São Vicente. Das Unternehmen wurde mit erheblichem spanischen Kapital (Ubago-Gruppe) gegründet und hat sich zum absolut größten Exporteur von Waren aus Kap Verde entwickelt. Die Fabrik ist auf die Verarbeitung von Thunfisch, Makrelen und Melva spezialisiert, wobei sie massiv von den nährstoffreichen Gewässern um den Archipel profitiert. Frescomar nutzt das GSP+ Abkommen mit der Europäischen Union, das den zollfreien Export von Fischprodukten ermöglicht, was die wirtschaftliche Wettbewerbsfähigkeit der Fabrik auf dem globalen Markt sicherstellt. Mit über 1.000 Mitarbeitern, von denen ein Großteil Frauen aus der lokalen Gemeinschaft sind, ist Frescomar der wichtigste private Arbeitgeber auf São Vicente. Die Produktionsprozesse umfassen das Reinigen, Kochen und Konservieren des Fisches in Öl oder Salzlake nach modernsten hygienischen und ökologischen Standards. Wirtschaftlich gesehen generiert die Fabrik einen massiven Anteil an den nationalen Deviseneinnahmen. Zudem engagiert sich das Unternehmen für nachhaltige Fischereipraktiken (wie das 'Pole and Line'-Fischen), um die marinen Ressourcen Kap Verdes langfristig zu schützen und internationale Zertifizierungen für nachhaltigen Fischfang zu erhalten.",
+        "hu": "A Frescomar gyár a Zöld-foki Köztársaság legjelentősebb halkonzervgyára, amely São Vicente szigetén, Mindelo közelében, Lazareto ipari övezetében található. A vállalatot jelentős spanyol tőkével (Ubago-csoport) alapították, és a Zöld-foki-szigetek abszolút legnagyobb áruexportőrévé vált. A gyár tonhal, makréla és 'melva' feldolgozására specializálódott, masszívan kihasználva a szigetcsoport körüli tápanyagban gazdag vizeket. A Frescomar él azeurópai uniós GSP+ megállapodással, amely lehetővé teszi a haltermékek vámmentes exportját, biztosítva a gyár gazdasági versenyképességét a globális piacon. Több mint 1000 alkalmazottjával – akiknek többsége a helyi közösségből kikerülő nő – a Frescomar São Vicente legfontosabb magánmunkáltatója. A gyártási folyamatok magukban foglalják a hal tisztítását, főzését és olajban vagy sós lében történő tartósítását, a legmodernebb higiéniai és ökológiai szabványok szerint. Gazdasági szempontból a gyár a nemzeti devizabevételek masszív hányadát termeli ki. Ezenkívül a vállalat elkötelezett a fenntartható halászati gyakorlatok mellett (például a 'Pole and Line' horgászat), hogy hosszú távon megvédje a Zöld-foki-szigetek tengeri erőforrásait és megszerezze a nemzetközi fenntarthatósági tanúsítványokat.",
+        "ro": "Fabrica Frescomar este cea mai importantă fabrică de conserve de pește din Capul Verde și este situată în zona industrială Lazareto de lângă Mindelo, pe insula São Vicente. Compania a fost fondată cu capital spaniol semnificativ (Grupul Ubago) și a devenit absolut cel mai mare exportator de mărfuri din Capul Verde. Fabrica este specializată în procesarea tonului, macroului și melvei, beneficiind masiv de apele bogate în nutrienți din jurul arhipelagului. Frescomar utilizează acordul GSP+ cu Uniunea Europeană, care permite exportul fără taxe vamale al produselor din pește, asigurând competitivitatea economică a fabricii pe piața globală. Cu peste 1.000 de angajați, dintre care majoritatea sunt femei din comunitatea locală, Frescomar este cel mai important angajator privat de pe insula São Vicente. Procesele de producție includ curățarea, gătirea și conservarea peștelui în ulei sau saramură conform celor mai moderne standarde igienice și ecologice. Din punct de vedere economic, fabrica generează o cotă masivă din veniturile naționale în valută. În plus, compania este angajată în practici de pescuit durabil (cum ar fi pescuitul „Pole and Line”), pentru a proteja resursele marine ale Capului Verde pe termen lung și pentru a obține certificări internaționale pentru pescuit durabil.",
+        "en": "The Frescomar factory is the most significant fish canning facility in Cape Verde, located in the Lazareto industrial zone near Mindelo on the island of São Vicente. Established with substantial Spanish capital (Ubago Group), the company has evolved into the absolute largest exporter of goods from Cape Verde. The factory specializes in processing tuna, mackerel, and melva, benefiting massively from the nutrient-rich waters surrounding the archipelago. Frescomar utilizes the GSP+ agreement with the European Union, which allows for the duty-free export of fish products, ensuring the factory's economic competitiveness on the global market. With over 1,000 employees, the majority of whom are women from the local community, Frescomar is the primary private employer on São Vicente. Production processes include cleaning, cooking, and canning fish in oil or brine according to state-of-the-art hygienic and ecological standards. Economically, the factory generates a massive share of the nation's foreign exchange earnings. Furthermore, the company is committed to sustainable fishing practices (such as 'Pole and Line' fishing) to protect Cape Verde's marine resources long-term and secure international sustainable fishing certifications."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Absolut größter Exporteur von Waren der gesamten Republik Kap Verde.",
+          "Wichtigster privater Arbeitgeber auf der Insel São Vicente (über 1.000 Jobs).",
+          "Gegründet mit Investitionen der spanischen Ubago-Gruppe.",
+          "Spezialisiert auf die Verarbeitung von Thunfisch und Makrelen.",
+          "Nutzt das GSP+ Abkommen für den zollfreien Export in die EU.",
+          "Fördert nachhaltige 'Pole and Line' Fischereimethoden.",
+          "Die Fabrik befindet sich in der strategischen Industriezone Lazareto."
+        ],
+        "hu": [
+          "A Zöld-foki Köztársaság abszolút legnagyobb áruexportőre.",
+          "São Vicente legfontosabb magánmunkáltatója (több mint 1000 munkahely).",
+          "A spanyol Ubago-csoport befektetéseivel jött létre.",
+          "Tonhal és makréla feldolgozására specializálódott üzem.",
+          "A GSP+ megállapodást használja az EU-ba irányuló vámmentes kivitelhez.",
+          "Támogatja a fenntartható 'Pole and Line' halászati módszereket.",
+          "A gyár a stratégiai fekvésű Lazareto ipari övezetben található."
+        ],
+        "ro": [
+          "Cel mai mare exportator de mărfuri din întreaga Republică Capul Verde.",
+          "Cel mai important angajator privat de pe insula São Vicente (peste 1.000 locuri de muncă).",
+          "Fondată cu investiții ale grupului spaniol Ubago.",
+          "Specializată în procesarea tonului și a macroului.",
+          "Utilizează acordul GSP+ pentru exportul fără taxe în Uniunea Europeană.",
+          "Promovează metode de pescuit durabile tip „Pole and Line”.",
+          "Fabrica este situată în zona industrială strategică Lazareto."
+        ],
+        "en": [
+          "The absolute largest exporter of physical goods in the Republic of Cape Verde.",
+          "Primary private employer on São Vicente Island with over 1,000 workers.",
+          "Established through significant investment from the Spanish Ubago Group.",
+          "Specializes in the industrial processing of tuna and mackerel.",
+          "Leverages the GSP+ trade agreement for duty-free exports to the EU.",
+          "Promotes sustainable 'Pole and Line' fishing methods among local suppliers.",
+          "The facility is strategically located in the Lazareto industrial zone."
+        ]
+      }
+    }
+  ]
+}

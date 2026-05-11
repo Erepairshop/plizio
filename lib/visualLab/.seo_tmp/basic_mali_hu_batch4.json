@@ -1,0 +1,21 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [ "lib/visualLab/data/poiExtraMaliNatureV2.ts" ],
+  "items": [
+    { "id": "lake-tele-nature-v2", "description": "Tele-tó egy csendes, elszigetelt tó, amely menedéket nyújt a helyi madárvilág számára.", "facts": ["Elszigetelt tó", "Madárvilág", "Homokos síkság"] },
+    { "id": "bago-river-nature-v2", "description": "Bago folyó festői szakaszaival és ártereivel támogatja a környező élővilágot.", "facts": ["Ártéri élővilág", "Festői folyó", "Gazdag flóra"] },
+    { "id": "mount-gourma-nature-v2", "description": "Gourma régiója sivatagi síkságokkal és különleges sziklás kiemelkedésekkel rendelkezik.", "facts": ["Sivatagi síkságok", "Gourma régió", "Élővilág"] },
+    { "id": "lake-korientze-nature-v2", "description": "Korientzé-tó egy termékeny vizes élőhely Mopti közelében, kedvelt pihenőhely a vándormadaraknak.", "facts": ["Mopti közelsége", "Vizes élőhely", "Vándormadarak"] },
+    { "id": "mount-bam-nature-v2", "description": "Bam hegye a táj kiemelkedő pontja, drámai sziklafalakkal és bozótos élőhelyekkel.", "facts": ["Kiemelkedő pont", "Sziklafalak", "Bozótos élőhely"] },
+    { "id": "san-river-nature-v2", "description": "A San folyó vizével biztosítja a mezőgazdasági területek öntözését Közép-Maliban.", "facts": ["Mezőgazdaság", "Közép-Mali", "Öntözés"] },
+    { "id": "lake-doro-nature-v2", "description": "Doro-tó egy sekély állóvíz, a helyi állatállomány és vadvilág gyülekezőhelye.", "facts": ["Sekély tó", "Állatállomány", "Szavanna élőhely"] },
+    { "id": "mount-dogon-nature-v2", "description": "A Dogon fennsík és sziklás gerincei különleges környezetet biztosítanak a speciális növény- és állatvilágnak.", "facts": ["Dogonföld", "Sziklás gerincek", "Speciális ökoszisztéma"] },
+    { "id": "kourou-river-nature-v2", "description": "A Kourou folyó különböző terepeken halad át, hozzájárulva a környező területek ökológiai diverzitásához.", "facts": ["Változatos terep", "Ökológiai diverzitás", "Folyóvíz"] },
+    { "id": "lake-aougoundou-nature-v2", "description": "Aougoundou-tó egy fontos szezonális vízgyűjtő északon, amely a csapadékosabb hónapokban telik meg.", "facts": ["Szezonális vízgyűjtő", "Észak-Mali", "Vízforrás"] },
+    { "id": "mount-bougouni-nature-v2", "description": "Bougouni hegye Dél-Maliban található, szezonális erdők és sűrű bozótos övezi.", "facts": ["Dél-Mali", "Szezonális erdők", "Bozótos élőhely"] },
+    { "id": "lake-nianga-nature-v2", "description": "Nianga-tó egy nyugodt vizes élőhely, amely otthont ad számos halfajnak és vízi madárnak.", "facts": ["Vizes élőhely", "Madárvilág", "Halfajok"] },
+    { "id": "mount-sikasso-nature-v2", "description": "Sikasso környékének dombjai termékeny talajukról és egész évben zöldellő növényzetükről ismertek.", "facts": ["Termékeny dombok", "Zöldellő növényzet", "Sikasso régió"] },
+    { "id": "bafing-makana-river-nature-v2", "description": "Bafing-Makana folyó fontos nyugati vízforrás, gyors sodrásával és sziklás medrével.", "facts": ["Nyugati régió", "Gyors folyás", "Sziklás meder"] }
+  ]
+}

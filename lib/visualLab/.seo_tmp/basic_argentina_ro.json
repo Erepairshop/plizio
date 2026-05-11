@@ -2,60 +2,158 @@
   "lang": "ro",
   "country": "Argentina",
   "files": [
-    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraArgentinaHistoryV2.ts",
     "lib/visualLab/data/poiExtraArgentinaLandmarksV2.ts"
   ],
   "items": [
     {
-      "id": "ar-c-buenos-aires-cities-v2",
-      "description": "Capitala și cel mai mare oraș al Argentinei, un centru cultural vibrant cu o arhitectură europeană distinctivă.",
-      "facts": ["Fondat în 1536", "Peste 3 milioane de locuitori", "Centru politic al țării", "Situat pe malul Rio de la Plata"]
+      "id": "pucara-de-tilcara-landmarks-v2",
+      "description": "Pucará de Tilcara este o fortăreață pre-incașă reconstruită, oferind o perspectivă fascinantă asupra vieții popoarelor indigene din Quebrada de Humahuaca.",
+      "facts": [
+        "Situată pe un deal cu vedere strategică asupra văii",
+        "Construită inițial de tribul Omaguaca",
+        "Include locuințe de piatră și centre ceremoniale",
+        "Unul dintre cele mai importante situri arheologice din nord"
+      ]
     },
     {
-      "id": "ar-b-la-plata-cities-v2",
-      "description": "Capitala provinciei Buenos Aires, cunoscută pentru planificarea urbană raționalistă și Catedrala sa monumentală.",
-      "facts": ["Fondat în 1882", "Design urban în carouri", "Sediul guvernului provincial", "Arhitectură neogotică"]
+      "id": "ruinas-de-quilmes-landmarks-v2",
+      "description": "Ruinele din Quilmes sunt vestigiile celei mai mari așezări pre-columbiene din Argentina, un simbol al rezistenței împotriva spaniolilor.",
+      "facts": [
+        "Adăpostea peste 5.000 de locuitori la apogeu",
+        "Complex complex de terase și ziduri defensive",
+        "Tribul Quilmes a rezistat aici timp de 130 de ani",
+        "Situat în provincia Tucumán pe Drumul Incașilor"
+      ]
     },
     {
-      "id": "ar-b-mar-del-plata-cities-v2",
-      "description": "Cea mai populară destinație balneară a Argentinei, renumită pentru plajele sale vaste și viața de noapte activă.",
-      "facts": ["Situat pe coasta Atlanticului", "Fondat în 1874", "Centru turistic major", "Port pescăresc important"]
+      "id": "san-ignacio-mini-landmarks-v2",
+      "description": "San Ignacio Miní este cea mai bine conservată misiune iezuite din Argentina, celebră pentru stilul său „baroc guarani” sculptat în gresie roșie.",
+      "facts": [
+        "Parte din Patrimoniul Mondial UNESCO",
+        "Fondată în 1610 și relocată în 1696",
+        "Păstrează detalii sculpturale indigene unice",
+        "Situată în provincia Misiones"
+      ]
     },
     {
-      "id": "ar-b-bahia-blanca-cities-v2",
-      "description": "Un oraș portuar strategic din sudul provinciei Buenos Aires, servind ca hub comercial și industrial.",
-      "facts": ["Fondat în 1828", "Port maritim important", "Centru industrial regional", "Climat temperat-oceanic"]
+      "id": "manzana-jesuitica-landmarks-v2",
+      "description": "Manzana Jesuítica din Córdoba este inima istorică a ordinului iezuit în regiune, cuprinzând biserici, școli și universități coloniale.",
+      "facts": [
+        "Centru cultural și spiritual de o valoare imensă",
+        "Include cea mai veche universitate din Argentina",
+        "Arhitectură colonială spaniolă exemplară",
+        "Parte a listei Patrimoniului UNESCO"
+      ]
     },
     {
-      "id": "ar-b-tandil-cities-v2",
-      "description": "Un oraș pitoresc situat între dealuri, recunoscut pentru peisajele sale naturale și producția locală de brânzeturi.",
-      "facts": ["Fondat în 1823", "Regiunea munților Tandilia", "Centru turistic de munte", "Producție alimentară locală"]
+      "id": "faro-les-eclaireurs-landmarks-v2",
+      "description": "Faro Les Eclaireurs este un far pitoresc situat în Canalul Beagle, fiind cunoscut în mod popular sub numele de „Farul de la Capătul Lumii”.",
+      "facts": [
+        "Situat pe o insulă stâncoasă lângă Ushuaia",
+        "Inaugurat la 23 decembrie 1920",
+        "Vopsit în dungi roșii și albe emblematice",
+        "Ghid esențial pentru navele care navighează spre Antarctica"
+      ]
     },
     {
-      "id": "ar-b-quilmes-cities-v2",
-      "description": "Oraș industrial și istoric important din zona metropolitană a Buenos Aires-ului.",
-      "facts": ["Fondat în 1666", "Centru industrial major", "Renume pentru industria berii", "Parte a conurbației Buenos Aires"]
+      "id": "monumento-al-indio-landmarks-v2",
+      "description": "Monumento al Indio este o statuie impunătoare în provincia Tucumán, ridicată pentru a onora popoarele indigene și moștenirea lor culturală.",
+      "facts": [
+        "Situat pe drumul către Valle de Tafí",
+        "O sculptură de 6 metri pe un postament înalt",
+        "Inaugurat în anul 1943",
+        "Punct de oprire turistic obligatoriu în Quebrada de los Sosa"
+      ]
     },
     {
-      "id": "ar-b-lomas-de-zamora-cities-v2",
-      "description": "Un oraș rezidențial dezvoltat în zona metropolitană a capitalei argentiniene.",
-      "facts": ["Fondat în 1864", "Zona rezidențială", "Densitate mare a populației", "Parte a ariei metropolitane"]
+      "id": "planetario-galileo-galilei-landmarks-v2",
+      "description": "Planetariul Galileo Galilei este o clădire futuristă în parcul Palermo, servind ca principal centru de astronomie din Buenos Aires.",
+      "facts": [
+        "Inaugurat în 1967",
+        "Formă sferică inspirată de planeta Saturn",
+        "Include o colecție de meteoriți reali",
+        "Sistem de proiecție digitală de ultimă generație"
+      ]
     },
     {
-      "id": "ar-b-san-isidro-cities-v2",
-      "description": "O localitate rezidențială elegantă, situată la nord de Buenos Aires, cunoscută pentru arhitectura sa colonială.",
-      "facts": ["Fondat în 1706", "Suburbie de elită", "Catedrală istorică", "Situat pe malul râului"]
+      "id": "torre-monumental-landmarks-v2",
+      "description": "Torre Monumental, cunoscută anterior sub numele de Torre de los Ingleses, este un turn cu ceas elegant donat de comunitatea britanică.",
+      "facts": [
+        "Construit în stil palladian în 1916",
+        "Situat în Plaza Fuerza Aérea Argentina",
+        "Inspirat de Turnul cu Ceas al Parlamentului din Londra",
+        "Oferă o vedere panoramică asupra Retiro și portului"
+      ]
     },
     {
-      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
-      "description": "Oraș situat pe malul râului Paraná, jucând un rol istoric important în politica națională.",
-      "facts": ["Fondat în 1748", "Locul semnării Acordului San Nicolás", "Centru agricol regional", "Situat pe râul Paraná"]
+      "id": "palacio-aguas-corrientes-landmarks-v2",
+      "description": "Palatul Apelor Curente este una dintre cele mai frumoase clădiri din Buenos Aires, fiind inițial un imens rezervor de apă deghizat în palat.",
+      "facts": [
+        "Fațadă decorată cu 300.000 de piese ceramice britanice",
+        "Finalizat în 1894 în stil eclectic",
+        "Găzduiește Muzeul Patrimoniului Istoric",
+        "O capodoperă a ingineriei și arhitecturii sanitare"
+      ]
     },
     {
-      "id": "ar-b-lanus-cities-v2",
-      "description": "Un centru urban industrial și dens populat în provincia Buenos Aires.",
-      "facts": ["Fondat în 1888", "Centru industrial activ", "Zonă urbană densă", "Parte a conurbației"]
+      "id": "mnba-buenos-aires-landmarks-v2",
+      "description": "Muzeul Național de Arte Frumoase (MNBA) deține cea mai mare colecție de artă publică din Argentina, de la maestrii europeni la arta națională.",
+      "facts": [
+        "Găzduiește opere de Goya, Rembrandt și Van Gogh",
+        "Situat în cartierul Recoleta",
+        "Fondat în 1895",
+        "Clădirea actuală a fost o veche stație de pompare a apei"
+      ]
+    },
+    {
+      "id": "centro-cultural-kirchner-landmarks-v2",
+      "description": "Centro Cultural Kirchner (CCK) este cel mai mare centru cultural din America Latină, situat în fosta clădire somptuoasă a Poștei Centrale.",
+      "facts": [
+        "Găzduiește faimoasa sală de concerte „Balena Albastră”",
+        "Arhitectură ce îmbină stilul clasic cu cel modern",
+        "Inaugurat în mai 2015",
+        "Centru multidisciplinar pentru artă și muzică"
+      ]
+    },
+    {
+      "id": "congreso-nacion-argentina-landmarks-v2",
+      "description": "Palatul Congresului Național este sediul puterii legislative, fiind remarcabil prin cupola sa imensă de cupru și stilul greco-roman.",
+      "facts": [
+        "Inaugurat în 1906",
+        "Cupola are o înălțime de 80 de metri",
+        "Situat la capătul bulevardului Avenida de Mayo",
+        "Unul dintre cele mai mari palate legislative din lume"
+      ]
+    },
+    {
+      "id": "dique-san-roque-landmarks-v2",
+      "description": "Barajul San Roque este un punct de reper în provincia Córdoba, fiind crucial pentru controlul apelor și generarea de energie în regiune.",
+      "facts": [
+        "Formează lacul artificial San Roque",
+        "Originalul a fost cel mai mare din lume la finalizarea sa",
+        "Punct turistic major lângă Villa Carlos Paz",
+        "Cunoscut pentru descărcătorul său spectaculos tip pâlnie"
+      ]
+    },
+    {
+      "id": "puente-rosario-victoria-landmarks-v2",
+      "description": "Podul Rosario-Victoria este o realizare majoră de inginerie care leagă provinciile Santa Fe și Entre Ríos peste fluviul Paraná.",
+      "facts": [
+        "Are o lungime totală de 60 de kilometri",
+        "Inaugurat în mai 2003",
+        "Pod hobanat impunător deasupra canalului navigabil",
+        "Nod vital pentru transportul în cadrul Mercosur"
+      ]
+    },
+    {
+      "id": "viaducto-la-polvorilla-landmarks-v2",
+      "description": "Viaductul La Polvorilla este punctul culminant al Trenului Norilor, o structură metalică impresionantă suspendată la o altitudine amețitoare.",
+      "facts": [
+        "Situat la 4.220 metri deasupra nivelului mării",
+        "O capodoperă a ingineriei feroviare de la începutul secolului XX",
+        "Are o formă curbă de 224 de metri lungime",
+        "Simbol al regiunii Puna din Salta"
+      ]
     }
   ]
 }

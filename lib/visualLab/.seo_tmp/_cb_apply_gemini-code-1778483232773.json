@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "varela-schwermineralsand-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Schwermineralsand-Projekt in Varela an der Nordwestküste Guinea-Bissaus ist ein bedeutendes Vorhaben zur Diversifizierung des nationalen Bergbausektors. Die Küstenregion um Varela beherbergt reiche Ablagerungen von Zirkon, Rutil und Ilmenit, die über Jahrmillionen durch Meeresströmungen und Erosion in den weißen Küstensanden angereichert wurden. Ökonomisch gesehen hat dieses Projekt das Potenzial, Guinea-Bissau zu einem relevanten Exporteur von Industriemineralen für den Weltmarkt zu machen, insbesondere für die Keramik- und Pigmentindustrie. Die geplanten Investitionen umfassen moderne Trennanlagen und Verbesserungen der logistischen Anbindung an die Grenzregion zum Senegal. Das Projekt steht jedoch in einem ständigen Spannungsfeld zwischen wirtschaftlichem Aufschwung und ökologischer Sensibilität, da die Region Varela auch als eines der wertvollsten touristischen und ökologischen Gebiete des Landes gilt. Die technische Herausforderung besteht darin, die Gewinnung der Minerale so zu gestalten, dass das fragile Dünenökosystem und die Strände weitgehend erhalten bleiben. Für den Staat stellt das Projekt eine strategische Möglichkeit dar, Deviseneinnahmen außerhalb des Cashew-Sektors zu generieren und die industrielle Basis im Norden zu stärken.",
+        "hu": "A Guinea-Bissau északnyugati partvidékén, Varelában található nehézásványhomok-projekt az ország bányászati szektorának diverzifikálását célzó egyik legfontosabb gazdasági kezdeményezés. A Varela környéki tengerparti sáv jelentős cirkon-, rutil- és ilmenit-lelőhelyeket rejt, amelyek az évmilliók során a tengeráramlatok és az erózió hatására dúsultak fel a fehér homokos rétegekben. Gazdasági szempontból ez a projekt képes Guinea-Bissaut az ipari ásványok fontos exportőrévé tenni a világpiacon, különösen a kerámia- és pigmentipar számára. A tervezett beruházások magukban foglalják a modern elválasztó üzemek építését és a szenegáli határvidék logisztikai kapcsolatainak javítását. A projekt ugyanakkor folyamatos viták kereszttüzében áll a gazdasági előnyök és az ökológiai kockázatok miatt, mivel Varela az ország egyik legértékesebb turisztikai és természetvédelmi területe. A technikai kihívást a kitermelés olyan módon történő megvalósítása jelenti, amely megóvja a törékeny dűne-ökoszisztémát és a strandok épségét. Az állam számára a projekt stratégiai lehetőséget kínál a kesudión kívüli devizabevételek növelésére és az északi országrész iparosítására.",
+        "ro": "Proiectul de nisipuri minerale grele din Varela, pe coasta de nord-vest a Guineei-Bissau, este o inițiativă majoră pentru diversificarea sectorului minier național. Regiunea de coastă din jurul localității Varela adăpostește depozite bogate de zircon, rutil și ilmenit, care s-au acumulat de-a lungul milioanelor de ani în nisipurile albe sub acțiunea curenților marini și a eroziunii. Din punct de vedere economic, acest proiect are potențialul de a transforma Guineea-Bissau într-un exportator relevant de minerale industriale pe piața mondială, în special pentru industria ceramicii și a pigmenților. Investițiile planificate includ unități moderne de separare și îmbunătățirea conexiunilor logistice cu regiunea de frontieră cu Senegalul. Cu toate acestea, proiectul se află într-o tensiune constantă între dezvoltarea economică și sensibilitatea ecologică, deoarece zona Varela este considerată și una dintre cele mai valoroase arii turistice și ecologice ale țării. Provocarea tehnică constă în realizarea extracției în așa fel încât ecosistemul fragil al dunelor și plajele să fie conservate în mare măsură. Pentru stat, proiectul reprezintă o oportunitate strategică de a genera venituri în valută în afara sectorului de caju și de a consolida baza industrială în nord.",
+        "en": "The Varela Heavy Mineral Sands project on the northwestern coast of Guinea-Bissau is a significant undertaking aimed at diversifying the national mining sector. The coastal region around Varela houses rich deposits of zircon, rutile, and ilmenite, which have accumulated over millions of years through ocean currents and erosion within the white coastal sands. Economically, this project has the potential to establish Guinea-Bissau as a relevant exporter of industrial minerals for the global market, particularly for the ceramics and pigment industries. Planned investments include modern separation plants and infrastructure improvements to enhance logistical links with the Senegalese border region. However, the project exists in a state of tension between economic growth and ecological sensitivity, as Varela is also regarded as one of the country's most valuable tourist and ecological areas. The primary technical challenge lies in managing extraction to preserve the fragile dune ecosystem and pristine beaches. For the government, the project represents a strategic opportunity to generate foreign exchange revenues outside the cashew sector and to strengthen the industrial base in the north."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Varela beherbergt bedeutende Vorkommen von Zirkon und Titanmineralen.",
+          "Das Projekt zielt auf die Erschließung der Küstensedimente im Norden ab.",
+          "Schwermineralsande sind kritische Rohstoffe für High-Tech-Industrien.",
+          "Die geplante Mine könnte die Infrastruktur im Sektor São Domingos verbessern.",
+          "Umweltschützer fordern strenge Auflagen zum Schutz der Küstendünen.",
+          "Internationale Investoren aus dem Bergbausektor sind an der Umsetzung beteiligt."
+        ],
+        "hu": [
+          "Varela jelentős cirkon- és titánásvány-készletekkel rendelkezik.",
+          "A projekt az északi tengerparti üledékek kiaknázására irányul.",
+          "A nehézásvány-homok a csúcstechnológiás iparágak kritikus nyersanyaga.",
+          "A bánya megnyitása fejlesztheti São Domingos körzetének infrastruktúráját.",
+          "A környezetvédők szigorú előírásokat követelnek a dűnék védelmében.",
+          "Nemzetközi bányászati befektetők vesznek részt a megvalósíthatósági tanulmányokban."
+        ],
+        "ro": [
+          "Varela deține rezerve importante de zircon și minerale de titan.",
+          "Proiectul vizează exploatarea sedimentelor costiere din nordul țării.",
+          "Nisipurile minerale grele sunt materii prime critice pentru industria tech.",
+          "Mina ar putea stimula dezvoltarea infrastructurii în sectorul São Domingos.",
+          "Ecologiștii solicită condiții stricte pentru protejarea dunelor litorale.",
+          "Investitori internaționali sunt implicați în procesul de explorare și testare."
+        ],
+        "en": [
+          "Varela contains significant deposits of zircon and titanium-bearing minerals.",
+          "The project focuses on tapping into northern coastal sedimentary layers.",
+          "Heavy mineral sands are essential raw materials for high-tech manufacturing.",
+          "The mine's development could upgrade road networks in the São Domingos area.",
+          "Conservationists advocate for rigid protections of the unique dune systems.",
+          "Global mining firms are collaborating on the project's technical assessment."
+        ]
+      }
+    },
+    {
+      "id": "bissau-cicer-brauerei-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die CICER-Brauerei (Companhia Industrial de Cervejas e Refrigerantes) in Bissau ist das traditionsreichste Industrieunternehmen Guinea-Bissaus und ein Symbol für die lokale Produktion. Gegründet während der späten Kolonialzeit, war die Brauerei lange Zeit das Aushängeschild der nationalen Industrie und überstand trotz wirtschaftlicher Krisen und des Bürgerkriegs mehrere Jahrzehnte. CICER ist bekannt für die Produktion des nationalen Biers 'Pano' sowie für das unter Lizenz gebraute portugiesische 'Sagres' und verschiedene Erfrischungsgetränke. Das Werk spielt eine zentrale Rolle in der nationalen Ökonomie als einer der größten privaten Arbeitgeber und wichtiger Steuerzahler. Die Architektur der Brauerei, gelegen in der Industriezone von Bissau, ist funktional geprägt und ein Zeugnis für den technologischen Transfer jener Ära. In den letzten Jahren erlebte CICER Phasen der Modernisierung und der Suche nach neuen Investoren, um die Wettbewerbsfähigkeit gegenüber Importprodukten aus den Nachbarländern zu erhalten. Die Marke CICER ist tief im sozialen Leben Guinea-Bissaus verwurzelt und steht für den Stolz auf ein heimisches Industrieprodukt, das trotz schwieriger Rahmenbedingungen Bestand hat.",
+        "hu": "A bissaui CICER sörfőzde (Companhia Industrial de Cervejas e Refrigerantes) Guinea-Bissau legnagyobb múltú ipari vállalata és a hazai gyártás egyik legfontosabb szimbóluma. A késő gyarmati korszakban alapított üzem hosszú ideig a nemzeti ipar zászlóshajója volt, és a gazdasági válságok, valamint a polgárháború ellenére is évtizedeken át fennmaradt. A CICER elsősorban a nemzeti sörről, a „Pano”-ról, valamint a licenc alapján főzött portugál „Sagres”-ről és különböző üdítőitalokról ismert. A gyár központi szerepet tölt be a nemzetgazdaságban mint az egyik legnagyobb magánszektorbeli munkaadó és jelentős adófizető. A Bissau ipari negyedében található sörfőzde építészete funkcionális, és a korszak technológiai transzferének mementója. Az utóbbi években a CICER modernizációs folyamatokon ment keresztül és új befektetőket keresett, hogy megőrizze versenyképességét a szomszédos országokból érkező importtermékekkel szemben. A CICER márka mélyen beágyazódott Guinea-Bissau társadalmi életébe, és a nehéz körülmények között is talpon maradó hazai ipari büszkeséget jelképezi.",
+        "ro": "Berăria CICER (Companhia Industrial de Cervejas e Refrigerantes) din Bissau este cea mai veche și mai emblematică întreprindere industrială din Guineea-Bissau, fiind un simbol al producției locale. Fondată în perioada colonială târzie, fabrica a reprezentat mult timp nava-amiral a industriei naționale, supraviețuind deceniilor de crize economice și războiului civil. CICER este renumită pentru producția berii naționale 'Pano', precum și pentru berea portugheză 'Sagres' produsă sub licență și pentru diverse băuturi răcoritoare. Fabrica joacă un rol central în economia națională, fiind unul dintre cei mai mari angajatori privați și un contribuabil important la bugetul de stat. Arhitectura berăriei, situată în zona industrială a orașului Bissau, este una funcțională și constituie un martor al transferului tehnologic din acea epocă. În ultimii ani, CICER a trecut prin etape de modernizare și de căutare a unor noi investitori pentru a-și menține competitivitatea în fața produselor de import din țările vecine. Marca CICER este profund înrădăcinată în viața socială a Guineei-Bissau, reprezentând mândria unui produs industrial autohton care persistă în ciuda cadrelor economice dificile.",
+        "en": "The CICER Brewery (Companhia Industrial de Cervejas e Refrigerantes) in Bissau is the most traditional industrial enterprise in Guinea-Bissau and a cornerstone of local manufacturing. Established during the late colonial period, the brewery served for a long time as the flagship of the national industry, enduring decades of economic crisis and civil unrest. CICER is best known for producing the national beer brand 'Pano,' as well as brewing the Portuguese 'Sagres' under license and a variety of soft drinks. The plant plays a vital role in the national economy as one of the largest private-sector employers and a significant taxpayer. Located within Bissau's industrial zone, the brewery's architecture is strictly functional, reflecting the technological standards of its era. In recent years, CICER has undergone modernization efforts and sought new investment to remain competitive against imported beverages from neighboring countries. The CICER brand is deeply embedded in the social fabric of Guinea-Bissau, symbolizing national pride in a homegrown industrial product that continues to operate despite challenging circumstances."
+      },
+      "factsAdvanced": {
+        "de": [
+          "CICER ist die einzige große Brauerei in Guinea-Bissau.",
+          "Das nationale Bier 'Pano' ist nach dem traditionellen gewebten Tuch benannt.",
+          "Die Fabrik produziert auch die international bekannte Marke Sagres.",
+          "CICER ist ein wichtiger Partner für das nationale Logistiknetzwerk.",
+          "Das Unternehmen war während der Kolonialzeit ein Joint-Venture mit Portugal.",
+          "Die Brauerei verfügt über eigene Brunnenanlagen zur Wasserversorgung."
+        ],
+        "hu": [
+          "A CICER Guinea-Bissau egyetlen nagyüzemi sörgyára.",
+          "A nemzeti sör, a „Pano” nevét a hagyományos szőtt anyagról kapta.",
+          "A gyár licenc alapján Sagres sört is előállít a hazai piacra.",
+          "A vállalat az ország egyik legfontosabb ipari munkáltatója.",
+          "A gyarmati időkben portugál-guineai vegyesvállalatként indult.",
+          "Az üzem saját víztisztító és mélykúti rendszerrel rendelkezik."
+        ],
+        "ro": [
+          "CICER este singura berărie de talie industrială din Guineea-Bissau.",
+          "Berea 'Pano' este considerată un produs de identitate națională.",
+          "Fabrica deține drepturi exclusive de îmbuteliere pentru mai multe branduri globale.",
+          "Este situată în cartierul industrial Bra din Bissau.",
+          "Producția a fost reluată la capacitate maximă după restabilirea păcii în 2000.",
+          "Compania susține numeroase evenimente culturale și sportive în capitală."
+        ],
+        "en": [
+          "CICER is the sole large-scale brewery operating in Guinea-Bissau.",
+          "The flagship brand 'Pano' refers to the country's traditional textiles.",
+          "The facility produces Sagres beer under a long-standing licensing agreement.",
+          "It is a key driver of the formal industrial sector in the capital.",
+          "The brewery maintained operations through most of the country's history.",
+          "Water for production is sourced from dedicated deep artesian wells."
+        ]
+      }
+    },
+    {
+      "id": "bissau-kraftwerk-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das thermische Kraftwerk von Bissau ist der Dreh- und Angelpunkt der nationalen Energieinfrastruktur und die Hauptquelle für die Stromversorgung der Hauptstadtregion. Gelegen am Rande der Stadt, basiert das Werk primär auf der Verbrennung von Schweröl (HFO) und Diesel zur Erzeugung elektrischer Energie. Über Jahrzehnte hinweg war die Stromversorgung in Bissau durch chronische Instabilität und häufige Blackouts geprägt, was die wirtschaftliche Entwicklung massiv hemmte. Das Kraftwerk hat in den letzten Jahren durch internationale Partnerschaften, insbesondere mit Unternehmen aus der Türkei und China, wichtige Modernisierungen erfahren. Ein wesentlicher Bestandteil der aktuellen Energiestrategie ist zudem die Kooperation mit schwimmenden Kraftwerken (Karpowerships), die im Hafen von Bissau stationiert sind und das terrestrische Kraftwerk unterstützen. Das Ziel dieser Infrastruktur ist es, ein stabiles Netz für Haushalte und Industriebetriebe wie die CICER-Brauerei sicherzustellen. Trotz der Bemühungen bleibt die Abhängigkeit von fossilen Brennstoffen eine ökonomische Last. Die Anlage in Bissau ist daher nicht nur eine technische Einrichtung, sondern ein Symbol für den Kampf des Landes um energetische Souveränität und moderne Lebensbedingungen.",
+        "hu": "A bissaui hőerőmű az országos energetikai infrastruktúra tengelye és a fővárosi régió áramellátásának elsődleges forrása. A város szélén elhelyezkedő létesítmény főként nehézfűtőolaj (HFO) és gázolaj elégetésével termel elektromos energiát. Évtizedeken át Bissau áramellátását krónikus instabilitás és gyakori áramszünetek jellemezték, ami jelentősen hátráltatta a gazdasági fejlődést. Az erőmű az utóbbi években jelentős modernizáción esett át nemzetközi – különösen török és kínai – partnerségek révén. A jelenlegi energiastratégia egyik fontos eleme a Bissau kikötőjében állomásozó úszó erőművekkel (Karpowerships) való együttműködés, amelyek támogatják a szárazföldi erőmű működését. Ennek az infrastruktúrának a célja a stabil hálózat biztosítása a háztartások és az olyan ipari létesítmények számára, mint a CICER sörgyár. A törekvések ellenére a fosszilis tüzelőanyagoktól való függőség komoly gazdasági terhet jelent. A bissaui erőmű tehát nem csupán technikai létesítmény, hanem az ország energiabeli szuverenitásért és a modern életkörülményekért folytatott küzdelmének szimbóluma.",
+        "ro": "Centrala termoelectrică din Bissau este punctul nodal al infrastructurii energetice naționale și principala sursă de alimentare cu energie electrică a regiunii capitalei. Situată la marginea orașului, centrala se bazează în principal pe arderea păcurii (HFO) și a motorinei pentru generarea de electricitate. Timp de decenii, aprovizionarea cu energie în Bissau a fost marcată de o instabilitate cronică și de pene de curent frecvente, ceea ce a frânat masiv dezvoltarea economică. Centrala a beneficiat în ultimii ani de modernizări importante prin parteneriate internaționale, în special cu companii din Turcia și China. O componentă esențială a strategiei energetice actuale este și cooperarea cu centralele plutitoare (Karpowerships), staționate în portul Bissau, care susțin centrala terestră. Scopul acestei infrastructuri este de a asigura o rețea stabilă pentru gospodării și întreprinderile industriale, precum berăria CICER. În ciuda eforturilor, dependența de combustibilii fosili rămâne o povară economică. Instalația din Bissau nu este, prin urmare, doar o unitate tehnică, ci un simbol al luptei țării pentru suveranitate energetică și condiții de viață moderne.",
+        "en": "The Bissau Thermal Power Plant is the linchpin of the national energy infrastructure and the primary source of electricity for the capital region. Situated on the outskirts of the city, the plant primarily relies on heavy fuel oil (HFO) and diesel for power generation. For decades, Bissau's power supply was characterized by chronic instability and frequent blackouts, which severely hampered economic development. In recent years, the plant has undergone significant modernization through international partnerships, particularly with companies from Turkey and China. A key element of the current energy strategy involves collaboration with floating power plants (Karpowerships) stationed in the port of Bissau, which augment the output of the terrestrial plant. The goal of this infrastructure is to provide a stable grid for households and industrial facilities, such as the CICER brewery. Despite these efforts, reliance on imported fossil fuels remains a significant economic burden. Thus, the Bissau plant is not merely a technical facility but a symbol of the nation's ongoing struggle for energy sovereignty and modern living standards."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Kraftwerk ist die wichtigste Energiequelle für über 400.000 Menschen.",
+          "Die Versorgung wird durch schwimmende Kraftwerke im Hafen ergänzt.",
+          "HFO (Heavy Fuel Oil) ist der primäre Brennstoff für die Generatoren.",
+          "Das nationale Energieunternehmen EAGB verwaltet die Anlage.",
+          "Stabilität im Netz ist eine Grundvoraussetzung für den Betrieb der lokalen Industrie.",
+          "Internationale Hilfsprogramme fördern den Übergang zu effizienteren Turbinen."
+        ],
+        "hu": [
+          "Az erőmű több mint 400 000 ember számára biztosít energiát.",
+          "Az ellátást a kikötőben horgonyzó török úszó erőművek segítik.",
+          "A fő tüzelőanyag a nehézfűtőolaj, amelyet importból szereznek be.",
+          "A létesítményt az EAGB állami energiavállalat kezeli.",
+          "A stabil áramszolgáltatás elengedhetetlen a helyi ipar működéséhez.",
+          "Korszerűsítési tervek készültek a kínai-guineai együttműködés keretében."
+        ],
+        "ro": [
+          "Centrala asigură peste 80% din necesarul de consum al capitalei.",
+          "Cooperarea cu Turcia a redus semnificativ frecvența penelor de curent.",
+          "Instalația include generatoare diesel de mare capacitate.",
+          "EAGB este autoritatea responsabilă pentru distribuția energiei generate.",
+          "Costurile ridicate ale combustibilului afectează prețul final al energiei.",
+          "Modernizarea centralei este o prioritate în Planul Național de Dezvoltare."
+        ],
+        "en": [
+          "The power plant is the central energy hub for Bissau and surrounding areas.",
+          "Floating Karpowerships are currently integrated into the city’s power grid.",
+          "The facility primarily uses HFO, which is delivered via the commercial port.",
+          "It is operated by the state-owned utility company, EAGB.",
+          "Consistent power generation is critical for Bissau’s commercial sector.",
+          "Technical upgrades have been supported by both Chinese and Turkish engineers."
+        ]
+      }
+    },
+    {
+      "id": "industriezone-bra-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Industriezone Bra im Norden von Bissau ist das wichtigste industrielle Konzentrationsgebiet von Guinea-Bissau. Dieses Viertel wurde konzipiert, um verarbeitendes Gewerbe, Lagerhaltung und logistische Dienstleistungen an einem zentralen Ort zu bündeln. Bra beherbergt eine Vielzahl von Betrieben, die von der Lebensmittelverarbeitung über die Textilherstellung bis hin zu mechanischen Werkstätten reichen. Ein prominentes Beispiel für die Ansiedlung in dieser Zone ist die CICER-Brauerei. Die Lage der Industriezone an einer der Hauptverkehrsadern, die Bissau mit dem Binnenland verbindet, ist strategisch entscheidend für den Abtransport von Waren. Die Infrastruktur in Bra umfasst große Lagerkomplexe, die für den Export von Cashewnüssen und den Import von Grundnahrungsmitteln wie Reis genutzt werden. Trotz Herausforderungen wie unzureichender Energieversorgung und Entwässerung bleibt Bra der Motor des formalen Wirtschaftssektors in der Hauptstadt. Für die Stadtentwicklung von Bissau stellt die Zone ein wichtiges Beispiel für zonierte Planung dar, die darauf abzielt, industrielle Emissionen von Wohngebieten zu trennen und gleichzeitig Arbeitsplätze in Stadtnähe zu schaffen.",
+        "hu": "A Bissau északi részén található Bra ipari zóna Guinea-Bissau legfontosabb ipari központja. Ezt a negyedet azzal a céllal hozták létre, hogy egy helyre koncentrálják a feldolgozóipart, a raktározást és a logisztikai szolgáltatásokat. Bra számos üzemnek ad otthont, az élelmiszer-feldolgozástól a textilgyártáson át a gépészeti műhelyekig. A zóna egyik legismertebb létesítménye a CICER sörgyár. Az ipari zóna stratégiai elhelyezkedése a Bissau-t a belső országrésszel összekötő főút mentén alapvető fontosságú az áruk szállításához. Bra infrastruktúrája kiterjedt raktárkomplexumokat foglal magában, amelyeket a kesudió exportjára és az alapvető élelmiszerek, például a rizs importjára használnak. Az olyan kihívások ellenére, mint az elégtelen energiaellátás és a vízelvezetési problémák, Bra továbbra is a főváros formális gazdasági szektorának motorja. Bissau városfejlesztése szempontjából a zóna fontos példája a zónákra osztott tervezésnek, amelynek célja az ipari kibocsátások elkülönítése a lakóövezetektől, miközben munkahelyeket teremt a város közelében.",
+        "ro": "Zona industrială Bra, situată în nordul orașului Bissau, este cea mai importantă arie de concentrare industrială din Guineea-Bissau. Acest cartier a fost conceput pentru a grupa activitățile de prelucrare, depozitare și serviciile logistice într-un loc central. Bra găzduiește o varietate de întreprinderi, de la procesarea alimentelor și fabricarea textilelor până la ateliere mecanice. Un exemplu proeminent de unitate situată în această zonă este berăria CICER. Localizarea zonei industriale pe una dintre arterele principale care leagă Bissau de interiorul țării este crucială din punct de vedere strategic pentru transportul mărfurilor. Infrastructura din Bra include complexe mari de depozite, utilizate pentru exportul de nuci caju și importul de alimente de bază, cum ar fi orezul. În ciuda provocărilor precum alimentarea insuficientă cu energie și problemele de drenaj, Bra rămâne motorul sectorului economic formal din capitală. Pentru dezvoltarea urbană a orașului Bissau, zona reprezintă un exemplu important de planificare zonificată, menită să separe emisiile industriale de zonele rezidențiale, creând în același timp locuri de muncă în apropierea orașului.",
+        "en": "The Bra Industrial Zone in northern Bissau is Guinea-Bissau's most significant area of industrial concentration. This district was designed to consolidate manufacturing, warehousing, and logistical services in a single central location. Bra is home to a variety of businesses ranging from food processing and textile production to mechanical workshops. A prominent example of a facility in this zone is the CICER brewery. The industrial zone's strategic location along one of the main thoroughfares connecting Bissau to the interior is vital for the movement of goods. Infrastructure in Bra includes extensive warehouse complexes used for cashew nut exports and the import of staple foods like rice. Despite challenges such as inadequate power supply and drainage issues, Bra remains the engine of the formal economic sector in the capital. For Bissau's urban development, the zone is a key example of zoned planning, aimed at separating industrial emissions from residential areas while creating jobs close to the city."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bra ist das größte zusammenhängende Industriegebiet des Landes.",
+          "Die Zone liegt an der strategisch wichtigen Ausfallstraße nach Safim.",
+          "Hier befinden sich die Hauptlager für den nationalen Cashew-Export.",
+          "Die CICER-Brauerei ist der bekannteste Betrieb in diesem Viertel.",
+          "Bra dient als logistisches Drehkreuz für den Warenverkehr per LKW.",
+          "Die Industriezone ist ein wichtiger Faktor für die städtische Beschäftigung."
+        ],
+        "hu": [
+          "Bra az ország legnagyobb összefüggő ipari területe.",
+          "A zóna a Safim felé vezető stratégiai fontosságú út mentén fekszik.",
+          "Itt találhatók a nemzeti kesudió-export fő raktárai.",
+          "A CICER sörgyár a negyed legismertebb üzeme.",
+          "Bra logisztikai csomópontként szolgál a teherautós áruforgalom számára.",
+          "Az ipari zóna kulcsszerepet játszik a városi foglalkoztatásban."
+        ],
+        "ro": [
+          "Bra este cea mai mare zonă industrială contiguă din țară.",
+          "Zona este situată pe drumul strategic către Safim.",
+          "Aici se află principalele depozite pentru exportul național de caju.",
+          "Berăria CICER este cea mai cunoscută unitate din acest cartier.",
+          "Bra funcționează ca un nod logistic pentru transportul de mărfuri cu camioanele.",
+          "Zona industrială este un factor important pentru ocuparea forței de muncă urbane."
+        ],
+        "en": [
+          "Bra is the country's largest contiguous industrial area.",
+          "The zone is located along the strategic main road to Safim.",
+          "It houses the primary warehouses for national cashew exports.",
+          "The CICER brewery is the most famous business in this district.",
+          "Bra serves as a logistical hub for truck-based freight traffic.",
+          "The industrial zone is a major contributor to urban employment."
+        ]
+      }
+    },
+    {
+      "id": "cumere-industriekomplex-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Industriekomplex von Cumere, gelegen in der Nähe von Mansoa an den Ufern des Rio Geba, ist eines der ehrgeizigsten, wenn auch historisch belasteten Wirtschaftsprojekte Guinea-Bissaus. Ursprünglich in den 1970er Jahren als riesiges Zentrum für die Verarbeitung von Erdnüssen und die Produktion von Pflanzenöl konzipiert, sollte Cumere das industrielle Rückgrat des jungen unabhängigen Staates bilden. Die Architektur des Komplexes umfasst massive Fabrikhallen, Silos und eine eigene Verladeanlage am Fluss. Aufgrund politischer Instabilität, mangelnder Instandhaltung und technischer Probleme erreichte der Komplex nie sein volles Potenzial und stand über lange Zeiträume still. In den letzten Jahren gibt es verstärkte Bemühungen, Cumere zu revitalisieren, sei es durch die Ansiedlung neuer Industrien oder durch die Nutzung als logistisches Zentrum für den Agrarexport. Die strategische Lage am schiffbaren Teil des Rio Geba macht den Ort weiterhin attraktiv für Investoren, die nach effizienten Transportwegen suchen. Cumere bleibt ein Mahnmal für die industriellen Ambitionen der postkolonialen Ära und zugleich ein Ort großer wirtschaftlicher Hoffnung für die Region Oio.",
+        "hu": "A Cumere ipari komplexum, amely Mansoa közelében, a Geba-folyó partján található, Guinea-Bissau egyik legambiciózusabb, bár történelmileg nehéz sorsú gazdasági projektje. Az eredetileg az 1970-es években a földimogyoró feldolgozására és növényi olaj gyártására tervezett hatalmas központ a frissen függetlenedett állam ipari gerincét hivatott alkotni. A komplexum építészete hatalmas gyárcsarnokokat, silókat és egy saját folyami rakodópartot foglal magában. A politikai instabilitás, a karbantartás hiánya és a technikai problémák miatt a komplexum soha nem érte el teljes potenciálját, és hosszú ideig használaton kívül állt. Az utóbbi években fokozott törekvések indultak Cumere revitalizációjára, legyen szó új iparágak betelepítéséről vagy agrár-export logisztikai központként való hasznosításáról. A Geba-folyó hajózható szakaszán fekvő stratégiai elhelyezkedése továbbra is vonzóvá teszi a helyszínt a hatékony szállítási útvonalakat kereső befektetők számára. Cumere egyszerre marad a posztkoloniális éra ipari ambícióinak mementója és az Oio régió nagy gazdasági reménységének színhelye.",
+        "ro": "Complexul industrial de la Cumere, situat în apropiere de Mansoa, pe malurile râului Geba, este unul dintre cele mai ambițioase proiecte economice din Guineea-Bissau, deși marcat de dificultăți istorice. Conceput inițial în anii 1970 ca un centru uriaș pentru procesarea arahidelor și producția de ulei vegetal, Cumere trebuia să constituie coloana vertebrală industrială a tânărului stat independent. Arhitectura complexului cuprinde hale masive de fabrică, silozuri și o instalație proprie de încărcare pe râu. Din cauza instabilității politice, a lipsei de întreținere și a problemelor tehnice, complexul nu și-a atins niciodată potențialul maxim și a rămas inactiv pe perioade lungi. În ultimii ani, au existat eforturi sporite pentru revitalizarea Cumere, fie prin atragerea unor noi industrii, fie prin utilizarea sa ca centru logistic pentru exporturile agricole. Locația strategică pe partea navigabilă a râului Geba face ca locul să rămână atractiv pentru investitorii care caută rute de transport eficiente. Cumere rămâne un monument al ambițiilor industriale din era post-colonială și, în același timp, un loc de mare speranță economică pentru regiunea Oio.",
+        "en": "The Cumere Industrial Complex, located near Mansoa on the banks of the Geba River, is one of Guinea-Bissau's most ambitious, yet historically troubled, economic projects. Originally conceived in the 1970s as a massive center for peanut processing and vegetable oil production, Cumere was intended to be the industrial backbone of the newly independent state. The complex's architecture includes massive factory halls, silos, and a dedicated river loading facility. Due to political instability, lack of maintenance, and technical issues, the complex never reached its full potential and remained dormant for long periods. In recent years, there have been intensified efforts to revitalize Cumere, whether by attracting new industries or utilizing it as a logistical hub for agricultural exports. Its strategic location on the navigable part of the Geba River continues to make the site attractive to investors seeking efficient transport routes. Cumere remains a monument to the industrial ambitions of the post-colonial era and a place of significant economic hope for the Oio region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cumere war als die größte Ölmühle Westafrikas geplant.",
+          "Der Komplex verfügt über einen eigenen Tiefwasserzugang am Rio Geba.",
+          "Die Silos von Cumere sind weithin sichtbare Landmarken in der Region Oio.",
+          "Das Projekt wurde ursprünglich mit internationaler staatlicher Hilfe finanziert.",
+          "Cumere liegt strategisch günstig zwischen Bissau und Mansoa.",
+          "Revitalisierungspläne sehen die Verarbeitung von Cashewnüssen vor."
+        ],
+        "hu": [
+          "Cumerét eredetileg Nyugat-Afrika legnagyobb olajütőjének tervezték.",
+          "A komplexum saját mélyvízi kikötővel rendelkezik a Geba-folyón.",
+          "Cumere silói messziről látható tájékozódási pontok az Oio régióban.",
+          "A projektet eredetileg nemzetközi állami segítséggel finanszírozták.",
+          "Cumere stratégiai helyen, Bissau és Mansoa között fekszik.",
+          "A revitalizációs tervekben a kesudió feldolgozása is szerepel."
+        ],
+        "ro": [
+          "Cumere a fost planificată ca cea mai mare fabrică de ulei din Africa de Vest.",
+          "Complexul dispune de acces propriu la apă adâncă pe râul Geba.",
+          "Silozurile de la Cumere sunt repere vizibile de la mare distanță în regiunea Oio.",
+          "Proiectul a fost finanțat inițial cu ajutor de stat internațional.",
+          "Cumere este situată strategic între Bissau și Mansoa.",
+          "Planurile de revitalizare prevăd procesarea nucilor caju."
+        ],
+        "en": [
+          "Cumere was planned to be the largest oil mill in West Africa.",
+          "The complex features its own deep-water access on the Geba River.",
+          "The silos at Cumere are prominent landmarks visible across the Oio region.",
+          "The project was originally funded through international state aid.",
+          "Cumere is strategically located between Bissau and Mansoa.",
+          "Revitalization plans include the processing of cashew nuts."
+        ]
+      }
+    }
+  ]
+}

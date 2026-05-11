@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "guinea-grass-cities-v2",
+      "description": "Un sat pitoresc situat în districtul Orange Walk, cunoscut pentru comunitatea sa agricolă unită.",
+      "facts": ["Situat pe malul râului New River", "Populație majoritar mestizo", "Economie bazată pe trestia de zahăr"]
+    },
+    {
+      "id": "yo-creek-cities-v2",
+      "description": "O comunitate vibrantă din nordul Belizei, renumită pentru moștenirea sa culturală Maya.",
+      "facts": ["Aproape de situl arheologic Cuello", "Găzduiește festivaluri tradiționale", "Centru important pentru agricultura locală"]
+    },
+    {
+      "id": "san-ignacio-el-cayo-capital-cities-v2",
+      "description": "Inima districtului Cayo și un centru turistic major, situat la confluența râurilor Macal și Mopan.",
+      "facts": ["Al doilea oraș ca mărime din Belize", "Poartă către siturile Maya Cahal Pech", "Cunoscut pentru piețele sale vibrante"]
+    },
+    {
+      "id": "corozal-corozal-capital-cities-v2",
+      "description": "Capitala districtului nordic Corozal, un oraș liniștit situat pe malul golfului cu același nume.",
+      "facts": ["Situat aproape de granița cu Mexicul", "Fondat de refugiați din Războiul Castelor", "Atmosferă relaxată de coastă"]
+    },
+    {
+      "id": "san-jose-ow-cities-v2",
+      "description": "Un sat liniștit din districtul Orange Walk, unde tradițiile Maya sunt încă vii.",
+      "facts": ["Comunitate predominant agricolă", "Acces la rezerve naturale locale", "Păstrează dialecte indigene"]
+    },
+    {
+      "id": "santa-marta-ow-cities-v2",
+      "description": "O așezare rurală din districtul Orange Walk, cunoscută pentru peisajele sale verzi și liniște.",
+      "facts": ["Înconjurată de plantații de trestie", "Destinație pentru ecoturism rural", "Comunitate prietenoasă și primitoare"]
+    },
+    {
+      "id": "chan-chen-cities-v2",
+      "description": "Un sat situat în districtul Corozal, oferind o privire autentică asupra vieții rurale din nordul Belizei.",
+      "facts": ["Renumit pentru ospitalitatea localnicilor", "Aproape de situri istorice mai puțin cunoscute", "Economie bazată pe agricultura de subzistență"]
+    },
+    {
+      "id": "x-pichil-cities-v2",
+      "description": "O comunitate mică din nordul țării, caracterizată prin tradiții ancestrale și un stil de viață simplu.",
+      "facts": ["Nume de origine Maya", "Peisaj dominat de vegetație tropicală", "Arhitectură rurală tradițională"]
+    },
+    {
+      "id": "carmelita-cities-v2",
+      "description": "O poartă de intrare importantă în districtul Orange Walk, situată de-a lungul autostrăzii principale.",
+      "facts": ["Punct de plecare pentru tururi pe New River", "Aproape de ruinele Maya de la Lamanai", "Centru local de transport"]
+    },
+    {
+      "id": "unitedville-cities-v2",
+      "description": "Un sat divers situat în districtul Cayo, pe drumul spre capitala Belmopan.",
+      "facts": ["Comunitate multiculturală", "Situat într-o zonă deluroasă pitorească", "Acces facil la atracțiile din interiorul țării"]
+    },
+    {
+      "id": "santa-rosa-toledo-cities-v2",
+      "description": "Un sat tradițional Maya Mopan situat în districtul sudic Toledo, înconjurat de munți.",
+      "facts": ["Cunoscut pentru producția de cacao", "Promovează turismul cultural autentic", "Peisaje montane spectaculoase"]
+    },
+    {
+      "id": "san-pablo-toledo-cities-v2",
+      "description": "O așezare izolată și liniștită din districtul Toledo, unde natura și tradiția se întâlnesc.",
+      "facts": ["Populație predominant Maya", "Mod de viață sustenabil", "Înconjurat de păduri tropicale virgine"]
+    }
+  ]
+}

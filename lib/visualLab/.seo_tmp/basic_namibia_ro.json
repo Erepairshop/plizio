@@ -1,0 +1,76 @@
+{
+  "lang": "ro",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-cape-cross-animal-habitat-life-v2",
+      "description": "Rezervație naturală celebră pentru colonia sa uriașă de foci cu blană din Cape.",
+      "facts": ["Situat pe coasta Atlanticului", "Cea mai mare colonie de foci", "Istorie colonială maritimă"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "Regiune agricolă aridă susținută de barajul Hardap pentru irigații.",
+      "facts": ["Utilizează apa barajului", "Culturi de cereale și fructe", "Centru regional Mariental"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Oraș minier situat într-o zonă cu sol fertil pentru agricultură.",
+      "facts": ["Bază minieră importantă", "Sol bogat în minerale", "Producție agricolă locală"]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "description": "Centru de creștere a vitelor în regiunea Omaheke din estul Namibiei.",
+      "facts": ["Hub de export bovin", "Climat semi-arid", "Tradiții agricole locale"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Locuri de joacă și parcuri educaționale în capitala Windhoek pentru copii.",
+      "facts": ["Spații verzi urbane", "Activități recreative", "Muzee potrivite copiilor"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Localitate cunoscută pentru piața de artizanat și spații recreative pentru familii.",
+      "facts": ["Piața de artizanat local", "Punct de tranzit", "Parcuri și natură"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "Parc național în regiunea Zambezi cu ecosisteme diverse de savană și zonă umedă.",
+      "facts": ["Faună sălbatică bogată", "Ecosisteme fluviale", "Destinație de safari"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "Regiune agricolă situată de-a lungul fluviului Kavango, vitală pentru subzistență.",
+      "facts": ["Agricultură de subzistență", "Acces la apă fluvială", "Soluri aluvionare"]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "description": "Habitat vast deșertic, acasă la specii adaptate la condiții aride extreme.",
+      "facts": ["Deșert nisipos", "Adaptări la secetă", "Faună unică"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Zona de coastă cu lagună, ideală pentru observarea păsărilor și recreere familială.",
+      "facts": ["Laguna Walvis Bay", "Colonii de pelicani", "Sporturi de apă"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Așezare în centrul cultural al comunității San, cu valoare educativă despre tradiții.",
+      "facts": ["Centrul comunității San", "Tradiții ancestrale", "Turism cultural"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Oraș de coastă cu arhitectură colonială, situat între deșert și ocean.",
+      "facts": ["Arhitectură germană", "Peisaj stâncos", "Port istoric"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "Fâșia Caprivi oferă un coridor biologic bogat pentru migrația animalelor sălbatice.",
+      "facts": ["Regiune umedă", "Faună diversă", "Conector transfrontalier"]
+    }
+  ]
+}

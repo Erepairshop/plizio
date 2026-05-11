@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "A Nylon Pool egy természetes vízgyűjtő az Etosha Nemzeti Parkban, népszerű találkozóhely a vadon élő állatok számára.",
+      "facts": ["Természetes vízgyűjtő", "Etosha Nemzeti Park", "Vadállatok találkozóhelye"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "A Caprivi ártéri síkságok fontos vizes élőhelyek Namíbia északkeleti részén, sokféle madárfajnak adnak otthont.",
+      "facts": ["Vizes élőhelyek", "Északkelet-Namíbia", "Madárvilág"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "A Chobe folyó a Zambézi mellékfolyója, nagy elefántcsordáiról és gazdag vadvilágáról ismert.",
+      "facts": ["Zambézi mellékfolyó", "Elefántcsordák", "Gazdag vadvilág"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "A Kwando folyó a Caprivi-sávban létfontosságú vízi út a vadon élő állatok számára, vízilovairól és krokodiljairól ismert.",
+      "facts": ["Caprivi-sáv", "Létfontosságú vízi út", "Vízilovak és krokodilok"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "A Zambézi folyó Namíbia északi határának egy részét képezi, fontos vízforrás és élőhely.",
+      "facts": ["Északi határ", "Fontos vízforrás", "Gazdag élőhely"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Az Erongo-hegység egy erodált vulkán, egyedi sziklaképződményeiről és szan sziklarajzairól ismert.",
+      "facts": ["Erodált vulkán", "Egyedi sziklaképződmények", "Szan sziklarajzok"]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Az Erongo-hegység egy gyűrű alakú vulkáni komplexum drámai tájakkal, fontos a hegymászás és túrázás szempontjából.",
+      "facts": ["Vulkáni komplexum", "Drámai tájak", "Hegymászás és túrázás"]
+    },
+    {
+      "id": "khomas-hochland-relief-v2",
+      "description": "A Khomas-fennsík egy magaslati fennsík Windhoek körül, amelyet szavanna és dombos területek jellemeznek.",
+      "facts": ["Magaslati fennsík", "Windhoek", "Szavanna és dombos területek"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "A Waterberg-fennsík egy lenyűgöző táblás hegyvidéki képződmény, meredek szikláiról és gazdag vadvilágáról ismert.",
+      "facts": ["Táblás hegy", "Meredek sziklák", "Gazdag vadvilág"]
+    },
+    {
+      "id": "aus-mountains-relief-v2",
+      "description": "Az Aus-hegység Namíbia déli részén található, sziklás tájairól és a vadon élő oryxokról ismert.",
+      "facts": ["Déli Namíbia", "Sziklás tájak", "Vadon élő oryxok"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "A Tsau Khaeb Sperrgebiet egy hatalmas gyémánt-zárt terület érintetlen tengerparti tájakkal és sivatagi dűnékkel.",
+      "facts": ["Gyémánt-zárt terület", "Érintetlen tengerpart", "Sivatagi dűnék"]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "description": "A Huns-hegység Namíbia déli részén található ősi hegység, zord szépségéről és változatos ökoszisztémáiról ismert.",
+      "facts": ["Ősi hegység", "Zord szépség", "Változatos ökoszisztémák"]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "description": "A Muhlo-hegység egy távoli hegység Kunene régióban, egyedi növény- és állatvilágnak ad otthont.",
+      "facts": ["Távoli hegység", "Kunene régió", "Egyedi növény- és állatvilág"]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "description": "Az Otavi-hegység egy hegység Észak-Namíbiában, karsztos topográfiájáról és barlangjairól ismert.",
+      "facts": ["Észak-Namíbia", "Karsztos topográfia", "Barlangok"]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "description": "A Zebra-hegység egy lenyűgöző hegység a Namib-sivatagban, csíkos megjelenéséről ismert.",
+      "facts": ["Namib-sivatag", "Csíkos megjelenés", "Lenyűgöző hegység"]
+    }
+  ]
+}

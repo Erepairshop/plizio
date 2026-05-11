@@ -22,10 +22,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Choluteca is a notable location in Honduras that reflects the country's geographic and cultural diversity. One of the hottest and most historically significant cities in southern Honduras. At the same time capital of choluteca department. In addition founded in 1535. In the surrounding area center of livestock farming. Another characteristic feature known for its hot temperatures. In this way, Choluteca fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Choluteca", "Gegründet 1535", "Lage am Río Choluteca", "Wichtiger Südverkehr Richtung Nicaragua", "Zentrum der Viehzucht", "Bekannt für sehr heiße Temperaturen"],
+      de: ["Lage am Río Choluteca", "Wichtiger Südverkehr Richtung Nicaragua"],
       hu: ["A városban található a híres Carías-híd, amely a modern építészet egyik jelképe a régióban.", "Itt tartják minden évben a régió legnagyobb mezőgazdasági és ipari vásárát (FERISUR).", "A város neve a nahuatl nyelvből származik, jelentése 'a menekültek földje'.", "Choluteca az ország egyik legfontosabb cukornád- és dinnyetermelő vidékének központja."],
-      ro: ["Capitala departamentului Choluteca", "Fondat în 1535", "Centru de creștere a vitelor", "Cunoscut pentru temperaturi ridicate", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Choluteca Department", "Founded in 1535", "Center of livestock farming", "Known for its hot temperatures", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/choluteca-cities-v2.webp"},
   {
     id: "juticalpa-cities-v2",
@@ -47,10 +47,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Juticalpa is a notable location in Honduras that reflects the country's geographic and cultural diversity. The capital of the largest department, Olancho, known for agriculture and cattle ranching. At the same time capital of olancho department. In addition important agricultural center. In the surrounding area juticalpa river flows through the city. Another characteristic feature populous area. In this way, Juticalpa fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Olancho", "Olancho ist das größte Departement Honduras", "Wichtiger Markt für Landwirtschaft", "Zentrum der Viehzucht", "Regionaler Verkehrsknoten im Osten", "Starke Verbindung zu ländlichen Gemeinden"],
+      de: ["Olancho ist das größte Departement Honduras", "Wichtiger Markt für Landwirtschaft", "Zentrum der Viehzucht", "Regionaler Verkehrsknoten im Osten", "Starke Verbindung zu ländlichen Gemeinden"],
       hu: ["A város központjában álló Szeplőtelen Fogantatás katedrális a gyarmati építészet kiemelkedő példája.", "Juticalpa környéke az ország egyik legfontosabb tejtermelő vidéke, híres a helyi sajtjairól.", "A település neve az azték 'Xuticalpa' szóból ered, ami 'csigák völgyét' jelenti.", "Itt található az ország egyik legfontosabb mezőgazdasági szakiskolája."],
-      ro: ["Capitala departamentului Olancho", "Centru agricol important", "Râul Juticalpa traversează orașul", "Zonă populată", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Olancho Department", "Important agricultural center", "Juticalpa River flows through the city", "Populous area", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/juticalpa-cities-v2.webp"},
   {
     id: "danli-cities-v2",
@@ -72,10 +72,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Danlí is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city in the east, famous for its tobacco and cigar production. At the same time center of the cigar industry. In addition founded in 1678. In the surrounding area surrounded by pine forests. Another characteristic feature capital of el paraíso department. In this way, Danlí fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements El Paraíso", "Gegründet 1678", "Zentrum der Zigarrenindustrie", "Wichtiger Tabakanbau im Umland", "Von Pinienwäldern umgeben", "Ort eines bekannten Maisfestes"],
+      de: ["Wichtiger Tabakanbau im Umland", "Von Pinienwäldern umgeben", "Ort eines bekannten Maisfestes"],
       hu: ["A városban működő szivargyárak sokasága miatt Danlít gyakran nevezik 'Honduras Havannájának'.", "A közeli San Francisco-hegyről csodálatos panoráma nyílik az egész völgyre.", "A település jelentős kávétermelő vidék is, köszönhetően a magaslati fekvésének.", "Danlí büszkélkedhet az egyik legtisztább és leggondozottabb városközponttal az országban."],
-      ro: ["Centrul industriei de trabucuri", "Fondat în 1678", "Înconjurat de păduri de pini", "Capitala departamentului El Paraíso", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Center of the cigar industry", "Founded in 1678", "Surrounded by pine forests", "Capital of El Paraíso Department", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/danli-cities-v2.webp"},
   {
     id: "santa-rosa-de-copan-cities-v2",
@@ -97,10 +97,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Santa Rosa de Copán is a notable location in Honduras that reflects the country's geographic and cultural diversity. A charming colonial city in the west, the commercial hub of the coffee region. At the same time capital of copán department. In addition colonial architecture. In the surrounding area hub of coffee cultivation. Another characteristic feature cobblestone streets. In this way, Santa Rosa de Copán fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Copán", "Koloniale Altstadt mit gepflasterten Straßen", "Zentrum der Kaffeezone im Westen", "Sitz der bekannten Flor de Copán", "Höhere Lage als viele andere Städte des Landes", "Wichtiger Ausgangspunkt Richtung Copán Ruinas"],
+      de: ["Koloniale Altstadt mit gepflasterten Straßen", "Zentrum der Kaffeezone im Westen", "Sitz der bekannten Flor de Copán", "Höhere Lage als viele andere Städte des Landes", "Wichtiger Ausgangspunkt Richtung Copán Ruinas"],
       hu: ["A város történelmi központját nemzeti műemlékké nyilvánították a jól megőrzött építészete miatt.", "Itt található az ország egyik legrégebbi és leghíresebb dohánygyára, a Flor de Copán.", "A település tengerszint feletti magassága miatt az éghajlata sokkal hűvöseeb, mint az alacsonyabban fekvő városoké.", "Santa Rosa híres a virágzó művészeti életéről és az utcai falfestményeiről."],
-      ro: ["Capitala departamentului Copán", "Arhitectură colonială", "Centrul cultivării cafelei", "Străzi pavate", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Copán Department", "Colonial architecture", "Hub of coffee cultivation", "Cobblestone streets", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/santa-rosa-de-copan-cities-v2.webp"},
   {
     id: "la-esperanza-cities-v2",
@@ -122,10 +122,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "La Esperanza is a notable location in Honduras that reflects the country's geographic and cultural diversity. The highest city in Honduras, known for its cool climate and Lenca culture. At the same time capital of intibucá department. In addition elevation approx. 1,700 m. In the surrounding area center of lenca culture. Another characteristic feature known for potato farming. In this way, La Esperanza fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Intibucá", "Lage auf etwa 1.700 Metern Höhe", "Zentrum der Lenca-Kultur", "Bekannt für Kartoffelanbau", "Kühles Hochlandklima", "Eng mit Intibucá zusammengewachsen"],
+      de: ["Lage auf etwa 1.700 Metern Höhe", "Kühles Hochlandklima", "Eng mit Intibucá zusammengewachsen"],
       hu: ["A városban minden évben megrendezik a Híres Gombafesztivált, mivel a környéken rengeteg ehető vadgomba terem.", "La Esperanza éghajlata annyira hűvös, hogy gyakran nevezik 'Honduras Svájciának'.", "A közeli Lenca falvakban még ma is tartják a 'Guancasco' nevű ősi békekötési ceremóniát.", "Itt termelik az ország legjobb minőségű burgonyáját és almáját."],
-      ro: ["Capitala departamentului Intibucá", "Altitudine aprox. 1.700 m", "Centrul culturii Lenca", "Cunoscut pentru cultivarea cartofilor", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Intibucá Department", "Elevation approx. 1,700 m", "Center of Lenca culture", "Known for potato farming", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/la-esperanza-cities-v2.webp"},
   {
     id: "gracias-cities-v2",
@@ -147,10 +147,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Gracias is a notable location in Honduras that reflects the country's geographic and cultural diversity. A historic city with well-preserved colonial architecture and thermal springs. At the same time capital of lempira department. In addition founded in 1536. In the surrounding area near celaque national park. Another characteristic feature san cristóbal fort. In this way, Gracias fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Lempira", "Gegründet 1536", "Nahe dem Celaque-Nationalpark", "San Cristóbal Fort oberhalb der Stadt", "Bekannt für Thermalquellen in Arcilaca", "Wichtiger Ort der Kolonialgeschichte"],
+      de: ["San Cristóbal Fort oberhalb der Stadt", "Bekannt für Thermalquellen in Arcilaca", "Wichtiger Ort der Kolonialgeschichte"],
       hu: ["A város a Celaque Nemzeti Park kapuja, ahol Honduras legmagasabb csúcsa is található.", "Gracias neve a spanyol 'Gracias a Dios' (Hála Istennek) kifejezésből ered.", "A közeli Arcilaca termálfürdők vulkáni eredetű, gyógyhatású vízzel várják a látogatókat.", "Itt tartják minden évben a Lempira-napi ünnepségeket az őslakos hős tiszteletére."],
-      ro: ["Capitala departamentului Lempira", "Fondat în 1536", "Aproape de Parcul Național Celaque", "Fortul San Cristóbal", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Lempira Department", "Founded in 1536", "Near Celaque National Park", "San Cristóbal Fort", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/gracias-cities-v2.webp"},
   {
     id: "nacaome-cities-v2",
@@ -172,10 +172,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Nacaome is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city on the Pacific, an important transportation hub in the south. At the same time capital of valle department. In addition commercial center. In the surrounding area located on the nacaome river. Another characteristic feature gateway to the gulf of fonseca. In this way, Nacaome fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Valle", "Lage am Río Nacaome", "Tor zum Golf von Fonseca", "Wichtiger Verkehrsknoten im Süden", "Handels- und Verwaltungszentrum", "Heiße Tieflandlage nahe der Pazifikküste"],
+      de: ["Lage am Río Nacaome", "Wichtiger Verkehrsknoten im Süden", "Handels- und Verwaltungszentrum", "Heiße Tieflandlage nahe der Pazifikküste"],
       hu: ["A város felett ível át az ország egyik legfontosabb acélhídja a Nacaome-folyón.", "Nacaome híres a 'curiles' nevű tengeri kagylóból készült ételeiről.", "A település fontos vallási központ, ahol minden évben látványos búcsút tartanak.", "A város határában hatalmas naperőművek találhatók, kihasználva az állandó napsütést."],
-      ro: ["Capitala departamentului Valle", "Centru comercial", "Situat pe râul Nacaome", "Poarta către Golful Fonseca", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Valle Department", "Commercial center", "Located on the Nacaome River", "Gateway to the Gulf of Fonseca", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/nacaome-cities-v2.webp"},
   {
     id: "santa-barbara-cities-v2",
@@ -197,10 +197,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Santa Bárbara is a notable location in Honduras that reflects the country's geographic and cultural diversity. Known for its craftsmanship, especially the production of hats and baskets. At the same time capital of santa bárbara department. In addition center for junco palm crafts. In the surrounding area surrounded by hills. Another characteristic feature colonial church. In this way, Santa Bárbara fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Santa Bárbara", "Zentrum des Junco-Handwerks", "Bekannt für Hüte und Körbe", "Coloniale Kirche im Stadtzentrum", "Nahe dem Bergwerk El Mochito", "Hügelige Lage im Westen des Landes"],
+      de: ["Bekannt für Hüte und Körbe", "Coloniale Kirche im Stadtzentrum", "Nahe dem Bergwerk El Mochito", "Hügelige Lage im Westen des Landes"],
       hu: ["A Santa Bárbara-i junco-kalapok állítólag vetekednek a híres panamakalapok minőségével.", "A város központjában található park az egyik legszebb és leggondozottabb az egész országban.", "A környéken több látványos vízesés és barlangrendszer is felfedezhető.", "Itt található az ország egyik legfontosabb zink- és ólombányája, az El Mochito."],
-      ro: ["Capitala departamentului Santa Bárbara", "Centru pentru artizanat din iuncă", "Înconjurat de dealuri", "Biserică colonială", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Santa Bárbara Department", "Center for junco palm crafts", "Surrounded by hills", "Colonial church", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/santa-barbara-cities-v2.webp"},
   {
     id: "yoro-cities-v2",
@@ -222,10 +222,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Yoro is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city famous for the phenomenon of 'rain of fish' (Lluvia de Peces). At the same time capital of yoro department. In addition annual 'rain of fish'. In the surrounding area agricultural center. Another characteristic feature rural surroundings. In this way, Yoro fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements Yoro", "Bekannt für die Lluvia de Peces", "Jährlich erzählte Fischregen-Legende", "Wichtiges landwirtschaftliches Zentrum", "Ländlich geprägte Umgebung", "Nahe tolupanischen Gemeinschaften"],
+      de: ["Bekannt für die Lluvia de Peces", "Jährlich erzählte Fischregen-Legende", "Wichtiges landwirtschaftliches Zentrum", "Ländlich geprägte Umgebung", "Nahe tolupanischen Gemeinschaften"],
       hu: ["A 'Lluvia de Peces' jelenségét tudományosan a tornádók által felszippantott és máshol lehulló vízi élőlényekkel magyarázzák.", "A város neve az őshonos nyelven 'szívközpontot' vagy 'a világ szívét' jelenti.", "Yoro megye az ország egyik legfontosabb kukorica- és babtermelő vidéke.", "A közelben élő tolupán indiánok az ország egyik legősibb, eredeti kultúrájukat őrző népcsoportja."],
-      ro: ["Capitala departamentului Yoro", "\"Ploaia de pești\" anuală", "Centru agricol", "Mediu rural", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capital of Yoro Department", "Annual 'Rain of Fish'", "Agricultural center", "Rural surroundings", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/yoro-cities-v2.webp"},
   {
     id: "yuscaran-cities-v2",
@@ -247,10 +247,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Yuscarán is a notable location in Honduras that reflects the country's geographic and cultural diversity. A historic mining town declared a National Monument. At the same time co-capital of el paraíso department. In addition former silver mining town. In the surrounding area production of aguardiente liquor. Another characteristic feature historic architecture. In this way, Yuscarán fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Hauptstadt des Departements El Paraíso", "Ehemalige Bergbaustadt", "Als Nationaldenkmal anerkannt", "Bekannt für Aguardiente", "Historische Architektur im Zentrum", "Lage am Montserrat-Hang"],
+      de: ["Als Nationaldenkmal anerkannt", "Bekannt für Aguardiente", "Historische Architektur im Zentrum", "Lage am Montserrat-Hang"],
       hu: ["A városban működik az ország egyik legrégebbi és leghíresebb szeszfőzdéje, az 'El Buen Gusto'.", "Yuscarán környékén több mint 30 egykori bánya vágata található, amelyek egy része látogatható.", "Minden évben itt rendezik meg a Mango Fesztivált, a város környékén termő bőséges gyümölcs tiszteletére.", "A település vízellátását még ma is részben a gyarmati korban épített vízvezeték-rendszer biztosítja."],
-      ro: ["Co-capitală a departamentului El Paraíso", "Fost oraș minier", "Producția de Aguardiente", "Arhitectură istorică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Co-capital of El Paraíso Department", "Former silver mining town", "Production of Aguardiente liquor", "Historic architecture", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/yuscaran-cities-v2.webp"},
   {
     id: "choloma-cities-v2",
@@ -272,10 +272,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Choloma is a notable location in Honduras that reflects the country's geographic and cultural diversity. A rapidly growing industrial city in the Sula Valley, near San Pedro Sula. At the same time third largest city in honduras. In addition major industrial center. In the surrounding area high population density. Another characteristic feature textile factories (maquilas). In this way, Choloma fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Drittgrößte Stadt in Honduras", "Wichtiges Industriezentrum im Sula-Tal", "Nahe San Pedro Sula gelegen", "Viele Textilfabriken (Maquilas)", "Hohe Bevölkerungsdichte", "Starkes Wachstum durch Binnenmigration"],
+      de: ["Wichtiges Industriezentrum im Sula-Tal", "Nahe San Pedro Sula gelegen", "Starkes Wachstum durch Binnenmigration"],
       hu: ["Choloma az ország egyik legfontosabb adóbefizetője a hatalmas ipari termelésnek köszönhetően.", "A város neve őshonos nyelven 'völgyet' vagy 'sík vidéket' jelent.", "Itt található Közép-Amerika néhány legnagyobb és legmodernebb textilipari létesítménye.", "A város népessége az elmúlt évtizedekben többszörösére nőtt a belső migráció hatására."],
-      ro: ["Al treilea cel mai mare oraș din Honduras", "Centru industrial important", "Densitate mare a populației", "Fabrici de textile (Maquilas)", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Third largest city in Honduras", "Major industrial center", "High population density", "Textile factories (Maquilas)", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/choloma-cities-v2.webp"},
   {
     id: "villanueva-cities-v2",
@@ -299,8 +299,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Stadt im Departement Cortés", "Bekannt für Zuckerrohranbau", "Wichtiger Standort an der CA-5", "Industrieparks und Fabriken", "Nahe San Pedro Sula gelegen", "Wachsender Wohn- und Arbeitsraum"],
       hu: ["Villanueva ad otthont az ország egyik legnagyobb cukorgyárának, a Chumbaguának.", "A város híres az éves 'Feria de la Caña' (Cukornád Fesztivál) ünnepségéről.", "A településen számos modern lakópark épült az ipari dolgozók számára.", "A város határában található ipari parkok jelentős részben az USA-ba exportálnak termékeket."],
-      ro: ["Cultivarea trestiei de zahăr", "Parcuri industriale", "Aproape de San Pedro Sula", "Populație în creștere", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Sugarcane cultivation", "Industrial parks", "Near San Pedro Sula", "Growing population", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/villanueva-cities-v2.webp"},
   {
     id: "tela-cities-v2",
@@ -322,10 +322,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Tela is a notable location in Honduras that reflects the country's geographic and cultural diversity. A coastal city with beautiful beaches and a rich Garifuna culture. At the same time caribbean coastal city. In addition popular tourist destination. In the surrounding area former headquarters of the united fruit company. Another characteristic feature lancetilla botanical garden. In this way, Tela fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Karibische Küstenstadt in Atlantida", "Ehemaliger Sitz der United Fruit Company", "Lancetilla-Botanischer Garten in der Nähe", "Jeannette Kawas Nationalpark in Reichweite", "Wichtiger Ort der Garifuna-Kultur", "Erster spanischer Hafen an der Küste im Jahr 1524"],
+      de: ["Karibische Küstenstadt in Atlantida", "Lancetilla-Botanischer Garten in der Nähe", "Jeannette Kawas Nationalpark in Reichweite", "Wichtiger Ort der Garifuna-Kultur", "Erster spanischer Hafen an der Küste im Jahr 1524"],
       hu: ["Tela volt az első kikötő, amelyet a spanyolok alapítottak a hondurasi partvidéken (1524).", "A város mellett található a világ egyik legnagyobb trópusi botanikus kertje, a Lancetilla.", "A közeli Punta Sal-félsziget híres a majmairól és a rejtett lagúnáiról.", "Tela tengerparti sétánya, a 'Bulevar Costero', éjszaka éled fel igazán a helyi éttermekkel."],
-      ro: ["Oraș de coastă la Caraibe", "Destinație turistică populară", "Fostul sediu al United Fruit Company", "Grădina Botanică Lancetilla", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Caribbean coastal city", "Popular tourist destination", "Former headquarters of the United Fruit Company", "Lancetilla Botanical Garden", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/tela-cities-v2.webp"},
   {
     id: "siguatepeque-cities-v2",
@@ -347,10 +347,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Siguatepeque is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city in the central highlands, known for its pleasant climate and pine forests. At the same time 'city of pines'. In addition pleasant climate. In the surrounding area located between tegucigalpa and san pedro sula. Another characteristic feature forestry school. In this way, Siguatepeque fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Stadt im Departement Comayagua", "Zwischen Tegucigalpa und San Pedro Sula", "Lage auf über 1.100 Metern Höhe", "Bekannt als Stadt der Kiefern", "Wichtige Forst- und Landwirtschaftsschule", "Kühleres Klima als in den Tiefländern"],
+      de: ["Stadt im Departement Comayagua", "Lage auf über 1.100 Metern Höhe", "Bekannt als Stadt der Kiefern", "Wichtige Forst- und Landwirtschaftsschule", "Kühleres Klima als in den Tiefländern"],
       hu: ["A város tengerszint feletti magassága meghaladja az 1100 métert, biztosítva a hűvös klímát.", "Itt található a Panamerican Agricultural School egyik kísérleti állomása is.", "A város híres a fazekasairól és a helyi készítésű agyagedényekről.", "Siguatepeque környéke ideális a madármegfigyelésre a változatos erdőtípusok miatt."],
-      ro: ["\"Orașul pinilor\"", "Climă plăcută", "Între Tegucigalpa és San Pedro Sula", "Școala de silvicultură", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["'City of Pines'", "Pleasant climate", "Located between Tegucigalpa and San Pedro Sula", "Forestry school", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/siguatepeque-cities-v2.webp"},
   {
     id: "catacamas-cities-v2",
@@ -372,10 +372,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Catacamas is a notable location in Honduras that reflects the country's geographic and cultural diversity. One of the largest cities in Olancho, a center for agriculture and commerce. At the same time largest city in olancho. In addition cattle ranching and dairy production. In the surrounding area national university of agriculture. Another characteristic feature talgua caves are nearby. In this way, Catacamas fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Größte Stadt in Olancho", "Sitz der Nationalen Landwirtschaftsuniversität", "Bekannt für Viehzucht und Milchproduktion", "Talgua-Höhlen in der Nähe", "Wichtiger Bildungsstandort im Osten", "Ausgangsort Richtung La Mosquitia"],
+      de: ["Bekannt für Viehzucht und Milchproduktion", "Wichtiger Bildungsstandort im Osten", "Ausgangsort Richtung La Mosquitia"],
       hu: ["A Catacamas mellett található El Boquerón hegység látványos túraútvonalakat kínál.", "A városban található az ország egyik legnagyobb és legmodernebb tejfeldolgozó üzeme.", "A település híres a vendégszeretetéről és a hagyományos olanchoi konyhájáról.", "Catacamas területe az egyik legnagyobb a hondurasi önkormányzatok között."],
-      ro: ["Cel mai mare oraș din Olancho", "Creșterea vitelor și producția de lactate", "Universitatea Națională de Agricultură", "Peșterile Talgua în apropiere", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Largest city in Olancho", "Cattle ranching and dairy production", "National University of Agriculture", "Talgua Caves are nearby", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/catacamas-cities-v2.webp"},
   {
     id: "tocoa-cities-v2",
@@ -397,10 +397,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Tocoa is a notable location in Honduras that reflects the country's geographic and cultural diversity. An important city in the Aguán Valley, a significant agricultural area. At the same time located in the aguán valley. In addition center of palm oil production. In the surrounding area important transportation hub. Another characteristic feature commercial city. In this way, Tocoa fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Stadt im Aguán-Tal", "Zentrum der Palmölproduktion", "Wichtiger Verkehrsknotenpunkt", "Handelszentrum im Norden von Colón", "Verbindung Richtung Trujillo", "Stark landwirtschaftlich geprägt"],
+      de: ["Stadt im Aguán-Tal", "Handelszentrum im Norden von Colón", "Verbindung Richtung Trujillo", "Stark landwirtschaftlich geprägt"],
       hu: ["Tocoa környéke adja Honduras pálmaolaj-exportjának jelentős részét.", "A várost gyakran az 'Aguán fővárosaként' emlegetik stratégiai jelentősége miatt.", "A település modern infrastruktúrával rendelkezik, beleértve az új kórházakat és iskolákat.", "Tocoa híres a virágzó sportéletéről és a helyi labdarúgócsapatok iránti szenvedélyről."],
-      ro: ["Situat în Valea Aguán", "Centrul producției de ulei de palmier", "Nod de transport important", "Oraș comercial", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Located in the Aguán Valley", "Center of palm oil production", "Important transportation hub", "Commercial city", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/tocoa-cities-v2.webp"},
   {
     id: "la-lima-cities-v2",
@@ -422,10 +422,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "La Lima is a notable location in Honduras that reflects the country's geographic and cultural diversity. Historically known as the 'Banana Capital', founded by the United Fruit Company. At the same time historic center of the banana industry. In addition seat of the tela railroad company. In the surrounding area located on the chamelecón river. Another characteristic feature fertile sula valley. In this way, La Lima fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Historisches Zentrum der Bananenindustrie", "Sitz der Tela Railroad Company", "Lage am Chamelecón-Fluss", "Teil des fruchtbaren Sula-Tals", "Eng mit der United Fruit Company verbunden", "Ort des großen Streiks von 1954"],
+      de: ["Lage am Chamelecón-Fluss", "Teil des fruchtbaren Sula-Tals", "Eng mit der United Fruit Company verbunden", "Ort des großen Streiks von 1954"],
       hu: ["La Limában volt az első golfpálya Hondurasban, amelyet az amerikai vállalat vezetői számára építettek.", "A városban működik az FHIA (Hondurasi Mezőgazdasági Kutató Alapítvány) központja, ahol új banánfajtákat fejlesztenek.", "A település súlyos károkat szenvedett az 1974-es Fifi és a 2020-as Eta/Iota hurrikánok idején.", "La Lima volt a központja a híres 1954-es nagy sztrájknak, amely megváltoztatta a munkajogot az országban."],
-      ro: ["Centrul istoric al industriei bananelor", "Sediul Tela Railroad Company", "Situat pe râul Chamelecón", "Valea fertilă Sula", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Historic center of the banana industry", "Seat of the Tela Railroad Company", "Located on the Chamelecón River", "Fertile Sula Valley", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/la-lima-cities-v2.webp"},
   {
     id: "olanchito-cities-v2",
@@ -447,10 +447,10 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       en: "Olanchito is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city in the Aguán Valley known for its agricultural production. At the same time 'the civic city'. In addition agricultural center. In the surrounding area banana and citrus cultivation. Another characteristic feature historical importance. In this way, Olanchito fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Bekannt als La Ciudad Cívica", "Im Aguán-Tal gelegen", "Wichtiges landwirtschaftliches Zentrum", "Bananen- und Zitrusfruchtanbau", "Starke literarische Tradition", "Verbunden mit Ramón Amaya Amador"],
+      de: ["Bekannt als La Ciudad Cívica", "Im Aguán-Tal gelegen", "Wichtiges landwirtschaftliches Zentrum", "Starke literarische Tradition", "Verbunden mit Ramón Amaya Amador"],
       hu: ["Olanchito ad otthont az ország egyik legfontosabb irodalmi fesztiváljának.", "A város környékén találhatók a legnagyobb narancs- és grapefruit-ültetvények az országban.", "A település neve az 'Olancho' szóból ered, utalva az onnan érkező telepesekre.", "Olanchito híres a magas szintű oktatásáról és a városban található számos iskoláról."],
-      ro: ["\"Orașul civic\"", "Centru agricol", "Cultivarea bananelor și a citricelor", "Importanță istorică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["'The Civic City'", "Agricultural center", "Banana and citrus cultivation", "Historical importance", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -475,8 +475,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Stadt im Aguán-Tal", "Teil des Departements Colón", "Wichtiger Verkehrsknoten", "Palmöl- und Zitruswirtschaft", "Nahe Tocoa gelegen", "Wachsende Handelsfunktion"],
       hu: ["Sabá az egyik legfontosabb logisztikai központ a La Ceiba és Trujillo közötti útvonalon.", "A város környékén hatalmas afrikai olajpálma-ültetvények találhatók.", "A település gazdasága az elmúlt két évtizedben az egyik leggyorsabb növekedést mutatta a régióban.", "Sabá híres a vallási ünnepeiről és a közösségi összefogásról."],
-      ro: ["Comunitate agricolă", "Plantații de ulei de palmier", "Nod de transport", "Aproape de Tocoa", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Agricultural community", "Palm oil plantations", "Transportation hub", "Near Tocoa", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/saba-cities-v2.webp"},
   {
     id: "el-triunfo-cities-v2",
@@ -500,8 +500,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Gemeinde im Departement Choluteca", "Nahe der Grenze zu Nicaragua", "Wichtiger Handel mit Nicaragua", "Teil der südlichen Trockenregion", "Landwirtschaftlich geprägt", "Nahe dem Grenzpunkt Guasaule"],
       hu: ["El Triunfo mellett található a Guasaule határátkelő, az egyik legforgalmasabb Közép-Amerikában.", "A város fontos gyűjtőpontja a régióban termelt dinnyének és cukornádnak.", "A település történelmileg fontos szerepet játszott a két ország közötti diplomáciai és kereskedelmi kapcsolatokban.", "El Triunfo híres a hagyományos déli gasztronómiájáról és a vendégszeretetéről."],
-      ro: ["Oraș de frontieră", "Producție agricolă", "Comerț cu Nicaragua", "Regiunea sudică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Border town", "Agricultural production", "Trade with Nicaragua", "Southern region", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/el-triunfo-cities-v2.webp"},
   {
     id: "marcovia-cities-v2",
@@ -1424,10 +1424,10 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       en: "San Esteban is a notable location in Honduras that reflects the country's geographic and cultural diversity. A municipality in the Olancho department known for its livestock and timber industry. At the same time cattle ranching. In addition timber industry. In the surrounding area agricultural municipality. Another characteristic feature aguan river. In this way, San Esteban fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Viehzucht", "Holzindustrie", "Landwirtschaftliche Gemeinde", "Fluss Aguan", "Liegt im mittelamerikanischen Land Honduras.", "Spiegelt typische Merkmale seiner Region wider.", "Bestandteil der geografischen Bildung K7–K8."],
+      de: ["Liegt im mittelamerikanischen Land Honduras.", "Spiegelt typische Merkmale seiner Region wider.", "Bestandteil der geografischen Bildung K7–K8."],
       hu: ["Olancho megye középső, völgyben fekvő települése.", "Közvetlen közelében húzódik a Sierra de Agalta hegyvonulat.", "Gazdasága nagyrészt szarvasmarha-tenyésztésre és fakitermelésre épül.", "Erősen él a hagyományos 'olanchoi' lovas és állattartó kultúra.", "Környezetét sűrű fenyő- és felhőerdők borítják.", "A helyi sajtok és tejtermékek keresettek a nemzeti piacon.", "A túrázás és az ökoturizmus egyre nagyobb szerepet kap."],
-      ro: ["Creșterea vitelor", "Industria lemnului", "Comunitate agricolă", "Râul Aguan", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Cattle ranching", "Timber industry", "Agricultural municipality", "Aguan River", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1452,8 +1452,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Lenca-Gemeinde in Lempira", "Berühmt für traditionelle Keramik", "Kirche San Matías im Ortskern", "Lage über einem tiefen Canyon", "Nahe dem Celaque-Nationalpark", "Bekannt für eine extreme Zipline"],
       hu: ["Lempira megyében, egy mély kanyon peremén fekszik.", "Honduras leghíresebb lenca kerámiakészítő központja.", "A kerámiákat hagyományos módon, fazekaskorong nélkül készítik.", "Központjában áll a történelmi, kőből épült San Matías templom.", "A Celaque Nemzeti Park sziklás hegyvonulatai ölelik körbe.", "Itt működik Közép-Amerika egyik legextrém drótkötélpályája (canopy).", "A lakosság szigorúan őrzi lenca őslakos hagyományait."],
-      ro: ["Olărit Lenca", "Tiroliană extremă", "Peisaj montan", "Cultură indigenă puternică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Lenca pottery", "Extreme zip-line", "Mountainous landscape", "Strong indigenous culture", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1476,10 +1476,10 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       en: "Pespire is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city in the Choluteca department, known for its mango production. At the same time 'city of mangoes'. In addition hot, dry climate. In the surrounding area colonial architecture. Another characteristic feature agricultural center. In this way, Pespire fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Stadt im Departement Choluteca", "Bekannt für Mango-Produktion", "Lage am Pespire-Fluss", "Koloniale Altstadt mit San Francisco de Asís", "Heißes und trockenes Klima", "Anbau von Sesam, Okra und Melonen"],
+      de: ["Stadt im Departement Choluteca", "Bekannt für Mango-Produktion", "Lage am Pespire-Fluss", "Koloniale Altstadt mit San Francisco de Asís", "Anbau von Sesam, Okra und Melonen"],
       hu: ["Choluteca megye déli, száraz klímájú régiójában helyezkedik el.", "Neve lenca eredetű, 'a piritek folyóját' jelenti.", "Honduras egyik legszebben megőrzött gyarmati stílusú városa.", "Háromkupolás San Francisco de Asís temploma műemlék.", "Gazdaságát a szezám, dinnye és az okra exportja határozza meg.", "Utcáit eredeti macskakő és fehér vályogházak díszítik.", "Kiemelkedő a helyi mangótermesztés a nyári szezonban."],
-      ro: ["\"Orașul mangoului\"", "Climă caldă și uscată", "Arhitectură colonială", "Centru agricol", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["'City of Mangoes'", "Hot, dry climate", "Colonial architecture", "Agricultural center", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1504,8 +1504,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement El Paraíso", "Nahe der Grenze zu Nicaragua", "Landwirtschaft und Viehzucht", "Trockenes, hügeliges Gelände", "Kleiner grenznaher Handelsraum", "Stark ländlich geprägt"],
       hu: ["El Paraíso megye déli részén, a nicaraguai határ mentén fekszik.", "Nevének őslakos jelentése a környező folyóvízhez kötődik.", "Hagyományos, kistermelői mezőgazdaságból (kukorica, bab) élő közösség.", "A régióban a forró és száraz klíma a jellemző.", "A helyiek gyakran folytatnak helyi cserekereskedelmet a határ mentén.", "Elzártsága miatt a modern infrastruktúra csak lassan épül ki.", "Kulturálisan erős vallási hagyományokkal és fesztiválokkal bír."],
-      ro: ["Comunitate de frontieră", "Agricultură", "Regiune muntoasă", "Climă uscată", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Border municipality", "Agriculture", "Mountainous region", "Dry climate", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1528,10 +1528,10 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       en: "San José de Colinas is a notable location in Honduras that reflects the country's geographic and cultural diversity. A city in Santa Bárbara that serves as a commercial center for the surrounding coffee villages. At the same time commercial center for coffee. In addition agricultural municipality. In the surrounding area mountainous surroundings. Another characteristic feature local market. In this way, San José de Colinas fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Gemeinde im Departement Santa Bárbara", "Handelszentrum für Kaffeevölker", "Hochlandlage mit kühlerem Klima", "Wichtiger lokaler Markt", "Landwirtschaft und Viehzucht", "Nahe bergigen Kaffeezonen"],
+      de: ["Gemeinde im Departement Santa Bárbara", "Hochlandlage mit kühlerem Klima", "Wichtiger lokaler Markt", "Landwirtschaft und Viehzucht", "Nahe bergigen Kaffeezonen"],
       hu: ["Santa Bárbara megye hegyes-dombos területén helyezkedik el.", "A város nevét ('A Dombok Szent Józsefe') a környező domborzat ihlette.", "Gazdasága szorosan kötődik a kiváló minőségű kávétermesztéshez.", "Jelentős szerepet kap a helyi fafaragás és a kézműipar.", "Hűvös és csapadékos mikroklímája segíti a növénytermesztést.", "A város macskaköves történelmi központja vonzó a látogatóknak.", "Az éves vallási körmenetek a közösség kulturális pillérei."],
-      ro: ["Centru comercial pentru cafea", "Comunitate agricolă", "Mediu montan", "Piață locală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Commercial center for coffee", "Agricultural municipality", "Mountainous surroundings", "Local market", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1556,8 +1556,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Santa Bárbara", "Bekannt für Palmhüte und Handwerk", "Stark ländlich geprägte Siedlung", "Kaffee-, Mais- und Bohnenanbau", "Nahe der Gemeinde Ilama", "Traditionelle Familienwirtschaft"],
       hu: ["Santa Bárbara megyében, az Ulúa-folyó völgye felett található.", "Neve lenca eredetű, jelentése 'sok víz helye'.", "Kiemelkedő a kistermelői kávé- és kukoricatermesztés.", "A falu történelmi gyarmati temploma a régió egyik legrégebbi épülete.", "A lakosság szorosan kötődik a tradicionális mezőgazdasági módszerekhez.", "A térség vízforrásokban és hegyi patakokban rendkívül gazdag.", "Békés és viszonylag elzárt település a megyeszékhely közelében."],
-      ro: ["Producția de pălării de palmier", "Comunitate artizanală", "Tradiții rurale", "Aproape de Ilama", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Palm hat production", "Artisan community", "Rural traditions", "Near Ilama", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1580,10 +1580,10 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       en: "Nueva Arcadia is a notable location in Honduras that reflects the country's geographic and cultural diversity. A municipality in the Copán department that includes the important commercial center of La Entrada. At the same time includes the city of la entrada. In addition important transportation hub. In the surrounding area commerce and agriculture. Another characteristic feature gateway to coffee and tobacco region. In this way, Nueva Arcadia fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Gemeinde im Departement Copán", "Umfasst den Stadtkern La Entrada", "Wichtiger Verkehrsknotenpunkt", "Handel mit Kaffee und Tabak", "Tor zur Grenze und zu Copán Ruinas", "Starke agrarische Umgebung"],
+      de: ["Gemeinde im Departement Copán", "Handel mit Kaffee und Tabak", "Tor zur Grenze und zu Copán Ruinas", "Starke agrarische Umgebung"],
       hu: ["Copán megye egyik legfontosabb önkormányzata.", "Központját a köznyelvben leginkább 'La Entrada' néven ismerik.", "Stratégiai útelágazás a maja romok és Guatemala irányába.", "Gazdasága a kávé és a dohány regionális kereskedelmére épül.", "Gyors urbanizáción és népességnövekedésen ment keresztül.", "Számos bank, hotel és logisztikai cég központja Nyugat-Hondurasban.", "A völgyet kávé- és kukoricaföldek veszik körül."],
-      ro: ["Include orașul La Entrada", "Nod de transport important", "Comerț și agricultură", "Poarta către regiunea cafelei și a tutunului", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Includes the city of La Entrada", "Important transportation hub", "Commerce and agriculture", "Gateway to coffee and tobacco region", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1606,10 +1606,10 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       en: "San Nicolás is a notable location in Honduras that reflects the country's geographic and cultural diversity. A municipality in Santa Bárbara known for its coffee and handicrafts. At the same time coffee cultivation. In addition handicrafts from tule (reed). In the surrounding area colonial church. Another characteristic feature mountainous landscape. In this way, San Nicolás fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Gemeinde im Departement Santa Bárbara", "Gegründet 1840", "Bekannt für gepflasterte Straßen", "Koloniale Kirche im Zentrum", "Kaffeeanbau in den Hügeln", "Handwerk aus Tule-Schilf"],
+      de: ["Gemeinde im Departement Santa Bárbara", "Gegründet 1840", "Bekannt für gepflasterte Straßen", "Koloniale Kirche im Zentrum", "Kaffeeanbau in den Hügeln"],
       hu: ["Santa Bárbara megye hegyvidéki részén, 1840-ben alapított város.", "Központi terét egy ikonikus, több száz éves Ceiba fa uralja.", "Híres az eredeti, macskaköves utcáiról és színes vályogházairól.", "Gazdaságának fontos része a 'sombreros de junco' (hagyományos kalap) készítése.", "A környező hegyekben kiváló minőségű kávét termesztenek.", "Történelmileg az öszvérkaravánok fontos pihenőállomása volt.", "Békés atmoszférája miatt népszerű a belföldi turizmusban."],
-      ro: ["Cultivarea cafelei", "Artizanat din papură (Tule)", "Biserică colonială", "Peisaj montan", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Coffee cultivation", "Handicrafts from Tule (reed)", "Colonial church", "Mountainous landscape", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1634,8 +1634,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Santa Bárbara", "Bergige und bewaldete Lage", "Wichtiger Kaffeeanbau", "San-Vicente-Höhle in der Nähe", "Rural und schwer zugänglich", "Feuchtes Hochlandklima"],
       hu: ["Santa Bárbara megye hegyvidéki, sűrű erdővel borított részén található.", "A hondurasi kávéipar egyik legmagasabb minőséget adó régiója.", "A helyi gazdaság szinte teljes egészében az agráriumra fókuszál.", "A közelben húzódik a San Vicente mészkőbarlang-rendszer.", "Meredek, nehezen megközelíthető terepen fekszik.", "A lakosság a kávészüret idején ideiglenesen jelentősen megnő.", "A turizmus a barlangászatra és a kávétúrákra épül."],
-      ro: ["Comunitate montană", "Cultivarea cafelei", "Peisaje naturale", "Atmosferă rurală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Mountainous municipality", "Coffee cultivation", "Natural landscapes", "Rural atmosphere", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1660,8 +1660,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Garifuna-Gemeinde an der Bucht von Tela", "Eine der größten Garifuna-Siedlungen des Landes", "Historische Küstensiedlung von 1524", "Fischerei und Casabe-Tradition", "Nahe dem Punta-Izopo-Nationalpark", "Wichtiger Ort für Landrechtsfragen"],
       hu: ["Tela városa mellett fekvő, karibi tengerparti település.", "Itt alapították Honduras első spanyol városát 1524-ben.", "A falu lakossága hagyományosan garifuna (afro-karibi) származású.", "A gazdaság a halászatra és a manióka (casabe kenyér) termesztésére épül.", "Közvetlen közelében található a Punta Izopo Nemzeti Park.", "Az afro-karibi zene (punta) és gasztronómia központja.", "A közösség gyakran küzd a területeik megőrzéséért a befektetőkkel."],
-      ro: ["Cultura Garifuna", "Coasta Caraibelor", "Pescuit și turism", "Muzică și dansuri tradiționale", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Garifuna culture", "Caribbean coast", "Fishing and tourism", "Traditional music and dance", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1684,10 +1684,10 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
       en: "Balfate is a notable location in Honduras that reflects the country's geographic and cultural diversity. A coastal municipality in the Colón department with a Garifuna population. At the same time garifuna community. In addition caribbean coast. In the surrounding area agriculture and fishing. Another characteristic feature beaches and lagoons. In this way, Balfate fits naturally into the wider picture of Honduras, showing how closely linked nature, history and economy are across the country."
     },
     factsAdvanced: {
-      de: ["Küstengemeinde im Departement Colón", "Garifuna-Bevölkerung in der Region", "Karibische Strände und Lagunen", "Landwirtschaft und Fischerei", "Teilweise schwer erreichbare Straßen", "Nahe der Nordküste gelegen"],
+      de: ["Küstengemeinde im Departement Colón", "Garifuna-Bevölkerung in der Region", "Karibische Strände und Lagunen", "Teilweise schwer erreichbare Straßen", "Nahe der Nordküste gelegen"],
       hu: ["Colón megye elszigetelt, nyugati partvidéki települése.", "A lakosság jelentős részét a garifuna afro-karibi közösség adja.", "Gazdaságának alapját a kézműves halászat és kókuszfeldolgozás jelenti.", "A karibi tengerpart közvetlenül találkozik a sűrű dzsungellel.", "Nehézkes megközelíthetősége megóvja a tömegturizmustól.", "A hagyományos 'punta' zene és tánc szerves része a mindennapoknak.", "A folyótorkolatok gyakran okoznak közlekedési fennakadásokat."],
-      ro: ["Comunitate Garifuna", "Coasta Caraibelor", "Agricultură și pescuit", "Plaje și lagune", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Garifuna community", "Caribbean coast", "Agriculture and fishing", "Beaches and lagoons", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1712,8 +1712,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Garifuna-Gemeinde westlich von Trujillo", "Karibische Küstenlage", "Fischerei als wichtiger Erwerb", "Nahe dem Capiro-y-Calentura-Nationalpark", "Casabe und Maniok in der Ernährung", "Starke afrokaribische Kultur"],
       hu: ["Trujillo városa mellett fekvő tengerparti garifuna település.", "A falu hátterében a Capiro és Calentura Nemzeti Park hegyei magasodnak.", "A helyiek hagyományos kézműves halászatból és kókuszfeldolgozásból élnek.", "Híres a 'casabe', a garifunák tradicionális maniókakenyerének készítéséről.", "Fehér homokos strandjai békés turisztikai célpontok.", "A falu őrzi az afro-karibi zenei és kulturális hagyományokat.", "Az elmúlt években megindult a fenntartható ökoturizmus fejlődése."],
-      ro: ["Cultura Garifuna", "Aproape de Trujillo", "Pescuit", "Plaje caraibiene", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Garifuna culture", "Near Trujillo", "Fishing", "Caribbean beaches", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1738,8 +1738,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Atlántida", "Lage an der CA-13", "Zwischen La Ceiba und Tela", "Historische Bananenwirtschaft", "Heute wichtig für Palmöl und Zitrusfrüchte", "Starker Transitort an der Nordküste"],
       hu: ["Atlántida megyében, La Ceiba és Tela között helyezkedik el.", "Történelmileg az országos banánipar egyik kulcsfontosságú állomása volt.", "Ma az afrikai pálma, kakaó és citrusfélék termesztésére fókuszál.", "A Nombre de Dios hegység és a Pico Bonito Nemzeti Park határolja.", "Jelentős állattenyésztési (tej és hús) központ az északi parton.", "A parti főútvonal miatt fontos regionális áruszállítási csomópont.", "A régiót a nyári hurrikánszezon idején gyakran fenyegetik árvizek."],
-      ro: ["Comunitate agricolă", "Citrice și banane", "Creșterea vitelor", "Pe autostrada CA-13", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Agricultural municipality", "Citrus and bananas", "Cattle ranching", "On the CA-13 highway", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1764,8 +1764,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Santa Bárbara", "Stark landwirtschaftlich geprägt", "Wichtiger Kaffeeanbau", "Ruhige Hügel- und Talstruktur", "Traditionelle ländliche Lebensweise", "Kleine Familienbetriebe dominieren"],
       hu: ["Santa Bárbara megye déli, dombos területén található.", "Nevének jelentése a terület első felszántásához ('arar') kötődik.", "A helyi gazdaság szinte teljes egészében a prémium kávétermesztésre épül.", "Utcáit az elmúlt években színes falfestményekkel (mural) díszítették.", "A helyiek híresek a pálmalevélből font kézműves termékeikről.", "Csendes, hagyományos vidéki életmód jellemzi a falut.", "A környező hegyi források biztosítják a mezőgazdaság vízellátását."],
-      ro: ["Agricultură", "Cultivarea cafelei", "Mediu rural", "Mod de viață tradițional", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Agriculture", "Coffee cultivation", "Rural surroundings", "Traditional way of life", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1790,8 +1790,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Santa Bárbara", "Hochlandlage mit steilen Hängen", "Wichtiger Arabica-Kaffee", "Forstwirtschaft und Viehhaltung", "Relativ abgeschiedene Berggemeinde", "Kühleres Mikroklima"],
       hu: ["Santa Bárbara megye magas hegyvidéki régiójában épült fel.", "A hondurasi prémium kávétermelés egyik legelismertebb helyszíne.", "A meredek és nehezen járható terep miatt elszigetelt település.", "Hűvös és csapadékos mikroklímája ideális a kávécserjék számára.", "A kávészüret időszakában a város lakossága és forgalma megsokszorozódik.", "Gazdaságában jelentős a fakitermelés és fafeldolgozás is.", "A település utcáin számos fából és vályogból készült hagyományos ház áll."],
-      ro: ["Cultivarea cafelei", "Peisaj montan", "Comunitate rurală", "Poteci naturale", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Coffee cultivation", "Mountainous landscape", "Rural municipality", "Nature trails", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1816,8 +1816,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Ocotepeque", "Nahe der Grenze zu Guatemala", "Kaffeeanbau im Hochland", "Wichtiger lokaler Handel", "Bergige Region im Westen", "Starke Grenzraumfunktion"],
       hu: ["Santa Bárbara megye dombos, történelmi települése.", "A hagyományos 'petate' pálmalevél kalapok és táskák hazája.", "Macskaköves utcái és gyarmati házai turisztikai látványosságok.", "A kávétermesztés a helyi gazdaság legfontosabb oszlopa.", "A helyiek évente nagyszabású kávé- és kulturális fesztivált rendeznek.", "Élénk közösségi élet és erős hagyománytisztelet jellemzi.", "A város egy meredek hegyoldalba illeszkedve épült fel."],
-      ro: ["Aproape de granița cu Guatemala", "Cultivarea cafelei", "Comerț", "Regiune muntoasă", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Near the Guatemalan border", "Coffee cultivation", "Commerce", "Mountainous region", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -1842,8 +1842,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     factsAdvanced: {
       de: ["Gemeinde im Departement Olancho", "Lage am Guayape-Fluss", "Historisch mit Goldwaschen verbunden", "Heute wichtig für Mais und Bohnen", "Viehzucht in der Umgebung", "Fruchtbare alluviale Talböden"],
       hu: ["Olancho megye központjában, a Guayape-folyó völgyében fekszik.", "Történelmileg híres a folyó hordalékából mosott aranyról.", "Ma az ország egyik legfontosabb kukorica- és gabonatermesztő régiója.", "Erősen kötődik az olanchoi hagyományos, lovas állattartó kultúrához.", "Sík, rendkívül termékeny alluviális talaj veszi körül.", "A helyi tej- és hústermelés jelentős beszállítója a nemzeti piacnak.", "A Guayape-folyó gyakori áradásai rendszeresen megújítják a termőföldet."],
-      ro: ["Pe râul Guayape", "Agricultură și creșterea vitelor", "Comunitate rurală", "Spălarea aurului în istorie", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["On the Guayape River", "Agriculture and livestock", "Rural municipality", "History of gold panning", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   }
 ];

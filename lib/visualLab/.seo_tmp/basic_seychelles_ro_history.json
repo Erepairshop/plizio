@@ -1,0 +1,34 @@
+{
+  "lang": "ro",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "l-union-estate-history-v2",
+      "description": "L'Union Estate este o proprietate istorică renumită pentru moara de copra și grădinile sale.",
+      "facts": ["La Digue", "Moara de copra", "Arhitectură colonială"]
+    },
+    {
+      "id": "st-pauls-cathedral-history-v2",
+      "description": "Catedrala Sf. Paul este o biserică istorică importantă situată în inima capitalei Victoria.",
+      "facts": ["Victoria", "Clădire istorică", "Sediu anglican"]
+    },
+    {
+      "id": "eustache-sarde-house-history-v2",
+      "description": "Casa Eustache Sarde este un monument istoric reprezentativ pentru arhitectura creolă din Seychelles.",
+      "facts": ["Arhitectură creolă", "Monument istoric", "Patrimoniu local"]
+    },
+    {
+      "id": "grann-kaz-fregate-history-v2",
+      "description": "Grann Kaz de pe insula Fregate este o reședință istorică conservată cu grijă.",
+      "facts": ["Insula Fregate", "Reședință istorică", "Conservare"]
+    },
+    {
+      "id": "le-jardin-du-roi-history-v2",
+      "description": "Le Jardin du Roi este o grădină istorică creată inițial pentru cultivarea condimentelor.",
+      "facts": ["Cultivare condimente", "Grădină istorică", "Mahé"]
+    }
+  ]
+}

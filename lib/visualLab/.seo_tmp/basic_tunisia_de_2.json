@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gafsa-cities-v2",
+      "description": "Gafsa ist eine bedeutende Oasenstadt im Süden, die für ihre antiken Wasserbecken bekannt ist.",
+      "facts": ["Antike Wasserbecken", "Zentrum der Phosphatindustrie", "Historische Oasenstadt"]
+    },
+    {
+      "id": "tozeur-cities-v2",
+      "description": "Tozeur liegt am Rande der Sahara und ist für seine einzigartige Ziegelarchitektur bekannt.",
+      "facts": ["Ziegelstein-Architektur", "Tor zur Sahara", "Palmenoase"]
+    },
+    {
+      "id": "kebili-cities-v2",
+      "description": "Kebili ist eine der ältesten Oasen im Süden und ein wichtiger Ausgangspunkt für Wüstenreisen.",
+      "facts": ["Wichtige Wüstenoase", "Palmenplantagen", "Kulturelles Zentrum im Süden"]
+    },
+    {
+      "id": "gabes-cities-v2",
+      "description": "Gabès ist eine einzigartige Küstenoase, in der das Meer direkt auf die Palmenhaine trifft.",
+      "facts": ["Küstenoase", "Wichtiger Hafen", "Chemische Industrie"]
+    },
+    {
+      "id": "medenine-cities-v2",
+      "description": "Medenine liegt im Süden Tunesiens und ist bekannt für seine traditionellen Kornspeicher, sogenannte Ghorfas.",
+      "facts": ["Historische Kornspeicher", "Region der Ghorfas", "Tor zur Insel Djerba"]
+    },
+    {
+      "id": "midoun-cities-v2",
+      "description": "Midoun ist die zweitgrößte Stadt der Insel Djerba und bekannt für ihre lebendigen Märkte.",
+      "facts": ["Auf der Insel Djerba", "Traditionelle Märkte", "Nahe touristischer Zentren"]
+    },
+    {
+      "id": "hammamet-cities-v2",
+      "description": "Hammamet ist einer der beliebtesten Ferienorte an der tunesischen Küste mit historischer Medina.",
+      "facts": ["Bekannter Badeort", "Historische Medina", "Zentrum des Tourismus"]
+    },
+    {
+      "id": "zarzis-cities-v2",
+      "description": "Zarzis ist eine Küstenstadt nahe der Grenze zu Libyen und bekannt für ihre langen Strände.",
+      "facts": ["Küstenstadt im Süden", "Lange Sandstrände", "Olivenanbau"]
+    },
+    {
+      "id": "douz-cities-v2",
+      "description": "Douz wird oft als das Tor zur Sahara bezeichnet und ist für das jährliche Sahara-Festival bekannt.",
+      "facts": ["Tor zur Sahara", "Sahara-Festival", "Oasenstadt"]
+    },
+    {
+      "id": "carthage-cities-v2",
+      "description": "Karthago ist ein historischer Vorort von Tunis, der einst das Zentrum eines mächtigen Reiches war.",
+      "facts": ["Antike Hauptstadt", "UNESCO-Welterbe", "Bedeutende Ruinenstätte"]
+    }
+  ]
+}

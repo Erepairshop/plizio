@@ -1,0 +1,36 @@
+{
+  "lang": "de",
+  "country": "Swaziland",
+  "files": [
+    "lib/visualLab/data/poiExtraSwazilandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "silobela-cities-v2",
+      "description": "Silobela ist eine Ortschaft in Eswatini, die sich in einer ländlichen Umgebung befindet. Sie dient vor allem der lokalen Versorgung und Landwirtschaft.",
+      "facts": ["Ländliche Siedlung", "In Eswatini gelegen", "Lokales Versorgungszentrum"]
+    },
+    {
+      "id": "darkton-cities-v2",
+      "description": "Darkton ist ein kleinerer Ort in Eswatini, der durch seine nähere Lage zu regionalen Infrastrukturen geprägt ist. Die Bewohner sind überwiegend in der Agrarwirtschaft tätig.",
+      "facts": ["Ort in Eswatini", "Agrarisch geprägt", "Regionale Anbindung"]
+    },
+    {
+      "id": "maguga-dam-wall-landmarks-v2",
+      "description": "Die Staumauer des Maguga-Staudamms ist ein bedeutendes Bauwerk am Komati-Fluss. Sie wurde zur Wasserregulierung und zur Stromerzeugung errichtet.",
+      "facts": ["Am Komati-Fluss", "Wichtige Wasserregulierung", "Stromerzeugung"]
+    },
+    {
+      "id": "mahamba-mountain-relief-v2",
+      "description": "Der Mahamba-Berg ist eine markante Erhebung im Grenzgebiet zu Südafrika. Er ist bekannt für seine natürliche Umgebung und die hügelige Landschaft.",
+      "facts": ["Grenzregion zu Südafrika", "Hügelige Landschaft", "Natürliche Erhebung"]
+    },
+    {
+      "id": "peak-fine-forest-relief-v2",
+      "description": "Das Gebiet von Peak Fine ist durch seine ausgedehnten Waldflächen geprägt. Diese Region spielt eine wichtige Rolle für die lokale Forstwirtschaft.",
+      "facts": ["Waldreiches Gebiet", "Forstwirtschaftlich genutzt", "Regionale Landschaft"]
+    }
+  ]
+}

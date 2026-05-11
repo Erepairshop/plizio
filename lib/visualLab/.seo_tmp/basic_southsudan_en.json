@@ -1,0 +1,65 @@
+{
+  "lang": "en",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nimule-cities-v2",
+      "description": "A strategic town located near the border with Uganda, serving as a significant transit point along the White Nile.",
+      "facts": ["Located in Eastern Equatoria", "Near the South Sudan-Uganda border", "Key transit hub", "Near Nimule National Park"]
+    },
+    {
+      "id": "yirol-cities-v2",
+      "description": "Known as a regional centre in the Lakes state, the town is situated near the scenic Yirol Lake.",
+      "facts": ["Located in Lakes State", "Near Yirol Lake", "Regional administrative center", "Center for local commerce"]
+    },
+    {
+      "id": "akobo-cities-v2",
+      "description": "An important settlement located along the Akobo River, historically serving as a cross-border trade connection to Ethiopia.",
+      "facts": ["Situated on the Akobo River", "Border town with Ethiopia", "Strategic regional center", "Lush surrounding plains"]
+    },
+    {
+      "id": "nasir-cities-v2",
+      "description": "This town is positioned along the Sobat River and is a notable historical center in the Upper Nile region.",
+      "facts": ["Located on the Sobat River", "Upper Nile region", "Historical significance", "Traditional riverine settlement"]
+    },
+    {
+      "id": "magwi-cities-v2",
+      "description": "A growing town in the Eastern Equatoria region, surrounded by fertile land suitable for agriculture.",
+      "facts": ["Located in Eastern Equatoria", "Focus on agriculture", "Regional market center", "Equatorial climate"]
+    },
+    {
+      "id": "mayom-cities-v2",
+      "description": "Located in Unity State, this town is central to the regional economy and surrounding pastoralist communities.",
+      "facts": ["Located in Unity State", "Pastoralist community hub", "Regional administrative point", "Center for local trade"]
+    },
+    {
+      "id": "deim-zubeir-cities-v2",
+      "description": "A historic settlement that developed as a key station during the 19th-century trade era in Western Bahr el Ghazal.",
+      "facts": ["Located in Western Bahr el Ghazal", "Historically significant station", "19th-century origins", "Trading hub foundation"]
+    },
+    {
+      "id": "terekeka-cities-v2",
+      "description": "A riverine town situated on the banks of the White Nile, acting as a gateway between Juba and the northern regions.",
+      "facts": ["Located on the White Nile", "North of Juba", "River transport hub", "Key regional transit point"]
+    },
+    {
+      "id": "lainya-cities-v2",
+      "description": "A town nestled in the productive agricultural landscape of the Central Equatoria region.",
+      "facts": ["Located in Central Equatoria", "High agricultural potential", "Local administrative center", "Equatorial terrain"]
+    },
+    {
+      "id": "ezo-cities-v2",
+      "description": "Situated near the border with the Central African Republic, Ezo is a vital location for cross-border interactions.",
+      "facts": ["Border town with CAR", "Western Equatoria", "Trade transit point", "Regional community hub"]
+    }
+  ]
+}

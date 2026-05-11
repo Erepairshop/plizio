@@ -1,0 +1,28 @@
+{
+  "lang": "hu",
+  "country": "Japan",
+  "files": [
+    "lib/visualLab/data/poiExtraJapanLifeV2.ts",
+    "lib/visualLab/data/poiExtraJapanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shinjuku-gyoen-national-garden-life-v2",
+      "description": "Tokió egyik legnagyobb és legkedveltebb parkja, amely egykor a császári család magánkertje volt.",
+      "facts": [
+        "Három különböző kertstílust ötvöz",
+        "Híres cseresznyevirág-néző helyszín",
+        "Több mint 20 000 fa található benne"
+      ]
+    },
+    {
+      "id": "jp-berg-ontake-nature-v2",
+      "description": "Japán második legmagasabb vulkánja, amely fontos vallási zarándokhely és népszerű túracélpont.",
+      "facts": [
+        "3067 méter magas aktív vulkán",
+        "A Shugendō vallás szent hegye",
+        "Öt krátertó található rajta"
+      ]
+    }
+  ]
+}

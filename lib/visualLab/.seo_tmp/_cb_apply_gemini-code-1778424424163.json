@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "point-pelee-bird-migration-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Point Pelee Nationalpark in Ontario ist der südlichste Punkt des kanadischen Festlands und ein geografischer Trichter, der in den Eriesee ragt. Diese spezifische V-förmige Landzunge aus Sand und Kies bildet einen der wichtigsten Rastplätze für Zugvögel in ganz Nordamerika. Jedes Frühjahr und jeden Herbst nutzen Millionen von Singvögeln, Greifvögeln und Wasservögeln den Park als Zwischenstopp, um sich vor oder nach der anstrengenden Überquerung des Eriesees auszuruhen und zu fressen. Der Park ist berühmt für das jährliche Festival of Birds im Mai, das Ornithologen aus der ganzen Welt anzieht. Insgesamt wurden hier über 390 verschiedene Vogelarten dokumentiert. Neben der Vogelwanderung ist Point Pelee auch ein kritischer Sammelpunkt für den herbstlichen Zug der Monarchfalter, die sich in riesigen Trauben an den Bäumen sammeln, bevor sie nach Mexiko fliegen. Ökologisch gehört das Gebiet zur karolinischen Waldzone, die eine für Kanada ungewöhnliche Flora und Fauna aufweist, darunter seltene Baumarten wie den Zürgelbaum und den Tulpenbaum. Trotz seiner geringen Größe von nur 15 Quadratkilometern besitzt der Park aufgrund dieser massiven Migrationsereignisse eine immense ökologische Bedeutung. Strenge Schutzmaßnahmen minimieren menschliche Störungen während der Hauptzugzeiten.",
+        "hu": "Az ontariói Point Pelee Nemzeti Park a kanadai szárazföld legdélebbi pontja, és egy földrajzi tölcsér, amely az Erie-tóba nyúlik. Ez a specifikus, V alakú homok- és kavicsnyelv Észak-Amerika egyik legfontosabb pihenőhelye a vándormadarak számára. Minden tavasszal és ősszel énekesmadarak, ragadozó madarak és vízimadarak milliói használják a parkot megállóhelyként, hogy pihenjenek és táplálkozzanak az Erie-tó kimerítő átszelése előtt vagy után. A park híres a májusban megrendezett éves Madárfesztiválról (Festival of Birds), amely a világ minden tájáról vonzza az ornitológusokat. Összesen több mint 390 különböző madárfajt dokumentáltak már itt. A madárvonulás mellett a Point Pelee a pompás királylepkék őszi vonulásának kritikus gyülekezőhelye is; a lepkék hatalmas fürtökben gyűlnek össze a fákon, mielőtt Mexikóba repülnének. Ökológiai szempontból a terület a karolinai erdőzónához tartozik, amely Kanadában szokatlan növény- és állatvilággal rendelkezik, köztük olyan ritka fafajokkal, mint az ostorfa és a tulipánfa. Bár a park mérete mindössze 15 négyzetkilométer, e masszív migrációs események miatt óriási ökológiai jelentőséggel bír. Szigorú védelmi intézkedések minimalizálják az emberi zavarást a fő vonulási időszakokban.",
+        "ro": "Parcul Național Point Pelee din Ontario este cel mai sudic punct al continentului canadian și o pâlnie geografică care iese în Lacul Erie. Această limbă de nisip și pietriș specifică, în formă de V, formează unul dintre cele mai importante locuri de odihnă pentru păsările migratoare din întreaga Americă de Nord. În fiecare primăvară și toamnă, milioane de păsări cântătoare, păsări de pradă și păsări de apă folosesc parcul ca escală pentru a se odihni și a se hrăni înainte sau după traversarea epuizantă a Lacului Erie. Parcul este renumit pentru Festivalul anual al Păsărilor din luna mai, care atrage ornitologi din întreaga lume. În total, aici au fost documentate peste 390 de specii diferite de păsări. Pe lângă migrația păsărilor, Point Pelee este, de asemenea, un punct de adunare critic pentru migrația de toamnă a fluturilor Monarh, care se adună în ciorchini uriași în copaci înainte de a zbura spre Mexic. Din punct de vedere ecologic, zona aparține zonei forestiere caroliniene, care are o floră și o faună neobișnuite pentru Canada, inclusiv specii rare de arbori, cum ar fi arborele de lalea. În ciuda dimensiunii sale mici de doar 15 kilometri pătrați, parcul are o importanță ecologică imensă datorită acestor evenimente masive de migrație. Măsuri stricte de protecție reduc la minimum perturbările umane în timpul perioadelor de vârf ale migrației.",
+        "en": "Point Pelee National Park in Ontario is the southernmost point of mainland Canada and acts as a geographic funnel extending directly into Lake Erie. This specific V-shaped sand and gravel spit forms one of the most critical resting stops for migratory birds in all of North America. Every spring and autumn, millions of songbirds, raptors, and waterfowl utilize the park as a crucial staging area to rest and feed before or after the exhausting crossing of Lake Erie. The park is internationally renowned for its annual Festival of Birds held in May, which attracts thousands of ornithologists and birdwatchers. Over 390 distinct bird species have been officially documented within its boundaries. Beyond avian migration, Point Pelee is also a critical gathering point for the autumnal migration of Monarch butterflies, which cluster in massive numbers on the trees before beginning their long flight to Mexico. Ecologically, the area belongs to the Carolinian forest zone, containing flora and fauna highly unusual for Canada, including rare tree species like the hackberry and tulip tree. Despite its small physical size of merely 15 square kilometers, the park holds immense ecological significance due to these massive migration events. Strict conservation measures minimize human disturbances during the peak migration periods."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Point Pelee ist der südlichste Punkt des kanadischen Festlandes.",
+          "Im Park wurden bereits über 390 verschiedene Vogelarten dokumentiert.",
+          "Das jährliche Vogelbeobachtungsfestival findet immer im Mai statt.",
+          "Die Halbinsel fungiert als natürliche Trichterform für Zugvögel.",
+          "Im Herbst sammeln sich hier Tausende von Monarchfaltern für den Zug nach Süden.",
+          "Das Ökosystem besteht aus dem seltenen karolinischen Waldtypus.",
+          "Der Nationalpark ist mit 15 Quadratkilometern einer der kleinsten in Kanada."
+        ],
+        "hu": [
+          "A Point Pelee a kanadai szárazföld legdélebbi pontja.",
+          "A park területén több mint 390 különböző madárfajt dokumentáltak.",
+          "Az éves madármegfigyelő fesztivált mindig május hónapban rendezik meg.",
+          "A félsziget természetes tölcsérként funkcionál a vándormadarak számára.",
+          "Ősszel királylepkék ezrei gyűlnek itt össze a délre tartó vonulásuk előtt.",
+          "Az ökoszisztéma a ritka karolinai erdőtípusból áll.",
+          "A 15 négyzetkilométeres nemzeti park az egyik legkisebb Kanadában."
+        ],
+        "ro": [
+          "Point Pelee este cel mai sudic punct al continentului canadian.",
+          "Peste 390 de specii diferite de păsări au fost documentate în parc.",
+          "Festivalul anual de observare a păsărilor are loc întotdeauna în luna mai.",
+          "Peninsula acționează ca o pâlnie naturală pentru păsările migratoare.",
+          "Toamna, mii de fluturi Monarh se adună aici pentru migrația spre sud.",
+          "Ecosistemul este format din tipul rar de pădure caroliniană.",
+          "Cu 15 kilometri pătrați, este unul dintre cele mai mici parcuri naționale din Canada."
+        ],
+        "en": [
+          "Point Pelee is geographically the southernmost point of mainland Canada.",
+          "Over 390 different bird species have been officially documented in the park.",
+          "The annual birding festival takes place every year in the month of May.",
+          "The specific shape of the peninsula acts as a natural funnel for migratory birds.",
+          "In autumn, thousands of Monarch butterflies gather here before migrating south.",
+          "The regional ecosystem consists of the rare Carolinian forest type.",
+          "At just 15 square kilometers, the national park is one of the smallest in Canada."
+        ]
+      }
+    },
+    {
+      "id": "la-mauricie-black-bears-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der La Mauricie Nationalpark in der Provinz Quebec, eingebettet in die Laurentinischen Berge, ist ein wichtiges Schutzgebiet für den Amerikanischen Schwarzbären (Ursus americanus). Die ausgedehnten Mischwälder aus Nadel- und Laubbäumen bieten zusammen mit einer Vielzahl von Seen und Bächen einen idealen und nahrungsreichen Lebensraum für eine stabile Bärenpopulation. Schwarzbären sind opportunistische Allesfresser; ihre Nahrung im Park besteht zum größten Teil aus pflanzlichem Material wie Beeren (insbesondere Blaubeeren und Himbeeren), Nüssen, Wurzeln sowie Insekten und gelegentlich kleinen Säugetieren oder Fischen. Die Population im Park wird auf mehrere Dutzend Individuen geschätzt. Um Konflikte zwischen Menschen und Bären zu vermeiden, wendet das Parkmanagement strenge Vorschriften an. Besucher müssen alle Lebensmittel und duftenden Artikel in bärensicheren Behältern oder speziellen Schließfächern aufbewahren. Die Bären verbringen den langen, harten kanadischen Winter – typischerweise von November bis April – in der Winterruhe in selbstgegrabenen Höhlen oder unter umgestürzten Bäumen. In dieser Zeit zehren sie ausschließlich von den Fettreserven, die sie sich im Herbst während der Hyperphagie (einer Phase intensiver Nahrungsaufnahme) angefressen haben. Die Weibchen gebären ihre winzigen Kälber mitten im Winter während dieser Ruhephase. Das Studium der Bärenpopulation in La Mauricie liefert Forschern wichtige Daten über die Gesundheit des gesamten Laurentinischen Ökosystems.",
+        "hu": "A Quebec tartományban, a Laurentiai-hegységben fekvő La Mauricie Nemzeti Park az amerikai feketemedve (Ursus americanus) fontos védett élőhelye. A kiterjedt, tűlevelű és lombhullató fákból álló vegyes erdők, a számos tóval és patakkal együtt, ideális és táplálékban gazdag környezetet biztosítanak egy stabil medvepopuláció számára. A feketemedvék opportunista mindenevők; étrendjük a parkban nagyrészt növényi anyagokból áll, mint például bogyók (különösen áfonya és málna), diófélék, gyökerek, valamint rovarok, és alkalmanként kis emlősök vagy halak. A park populációját több tucat egyedre becsülik. Az ember és a medve közötti konfliktusok elkerülése érdekében a park vezetősége szigorú előírásokat alkalmaz. A látogatóknak minden élelmiszert és illatosított terméket medvebiztos tárolókban vagy speciális zárható szekrényekben kell tartaniuk. A medvék a hosszú, kemény kanadai telet – jellemzően novembertől áprilisig – téli álomban (torpor) töltik saját maguk által ásott barlangokban vagy kidőlt fák alatt. Ebben az időszakban kizárólag a zsírkészleteikből élnek, amelyeket ősszel, a hiperfágia (az intenzív táplálkozás időszaka) során halmoztak fel. A nőstények a tél közepén, e pihenőidőszak alatt hozzák világra apró bocsáikat. A La Mauricie medvepopulációjának tanulmányozása fontos adatokkal szolgál a kutatók számára a teljes laurentiai ökoszisztéma egészségéről.",
+        "ro": "Parcul Național La Mauricie din provincia Quebec, situat în Munții Laurențieni, este o zonă de conservare importantă pentru ursul negru american (Ursus americanus). Pădurile mixte extinse de conifere și foioase, împreună cu o varietate de lacuri și pâraie, oferă un habitat ideal și bogat în hrană pentru o populație stabilă de urși. Urșii negri sunt omnivori oportuniști; dieta lor în parc constă în mare parte din materiale vegetale precum fructe de pădure (în special afine și zmeură), nuci, rădăcini, precum și insecte și, ocazional, mamifere mici sau pești. Populația din parc este estimată la câteva zeci de indivizi. Pentru a evita conflictele dintre oameni și urși, conducerea parcului aplică reglementări stricte. Vizitatorii trebuie să păstreze toate alimentele și articolele parfumate în recipiente rezistente la urși sau în dulapuri speciale. Urșii petrec iarna canadiană lungă și aspră – de obicei din noiembrie până în aprilie – hibernând în vizuini săpate de ei înșiși sau sub copaci căzuți. În acest timp, ei trăiesc exclusiv din rezervele de grăsime pe care le-au acumulat toamna în timpul hiperfagiei (o fază de aport intens de hrană). Femelele dau naștere puilor lor minusculi în mijlocul iernii, în timpul acestei faze de odihnă. Studiul populației de urși din La Mauricie oferă cercetătorilor date importante despre sănătatea întregului ecosistem laurențian.",
+        "en": "La Mauricie National Park in the province of Quebec, nestled within the Laurentian Mountains, serves as a crucial protected habitat for the American black bear (Ursus americanus). The extensive mixed forests of coniferous and deciduous trees, combined with a dense network of lakes and streams, provide an ideal and nutrient-rich environment for a highly stable bear population. Black bears are opportunistic omnivores; their diet within the park consists largely of plant material such as berries (specifically wild blueberries and raspberries), nuts, roots, as well as insects and occasional small mammals or fish. The total bear population within the park boundaries is estimated at several dozen individuals. To proactively prevent human-bear conflicts, park management strictly enforces food storage regulations. Visitors are required to secure all food and scented items in bear-proof containers or specialized metal lockers. The bears survive the long, harsh Canadian winter—typically spanning from November to April—by entering a state of torpor (hibernation) in self-excavated dens or beneath uprooted trees. During this period, they rely entirely on the thick fat reserves accumulated during autumn hyperphagia (a phase of intense, continuous feeding). Females give birth to their tiny cubs mid-winter during this exact resting phase. Studying the bear population in La Mauricie provides biologists with vital data regarding the overall health of the Laurentian ecosystem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park liegt in den bewaldeten Laurentinischen Bergen von Quebec.",
+          "Schwarzbären sind opportunistische Allesfresser mit hohem Pflanzenanteil in der Nahrung.",
+          "Camper müssen Lebensmittel streng in bärensicheren Schränken aufbewahren.",
+          "Die Winterruhe der Bären dauert typischerweise von November bis April.",
+          "Weibliche Bären gebären ihre Jungen während der Winterruhe in der Höhle.",
+          "Im Herbst fressen sich die Bären während der Hyperphagie dicke Fettreserven an.",
+          "Die Wälder des Parks bieten reichlich Wildbeeren und Nüsse als Nahrungsquelle."
+        ],
+        "hu": [
+          "A park a quebeci Laurentiai-hegység erdős területén található.",
+          "A feketemedvék opportunista mindenevők, magas növényi táplálékaránnyal.",
+          "A kempingezőknek az élelmiszereket szigorúan medvebiztos szekrényekben kell tartaniuk.",
+          "A medvék téli álma jellemzően novembertől áprilisig tart.",
+          "A nőstény medvék a téli álom idején, a barlangban hozzák világra bocsáikat.",
+          "Ősszel a hiperfágia során a medvék vastag zsírtartalékot halmoznak fel.",
+          "A park erdei bőséges erdei bogyós gyümölcsöt és dióféléket kínálnak táplálékforrásként."
+        ],
+        "ro": [
+          "Parcul este situat în Munții Laurențieni împăduriți din Quebec.",
+          "Urșii negri sunt omnivori oportuniști, cu un conținut ridicat de plante în dieta lor.",
+          "Camperii trebuie să depoziteze alimentele strict în dulapuri rezistente la urși.",
+          "Hibernarea urșilor durează de obicei din noiembrie până în aprilie.",
+          "Ursoaicele își nasc puii în vizuină în timpul hibernării de iarnă.",
+          "Toamna, urșii acumulează rezerve groase de grăsime în timpul hiperfagiei.",
+          "Pădurile parcului oferă fructe de pădure sălbatice și nuci abundente ca sursă de hrană."
+        ],
+        "en": [
+          "The park is located within the heavily forested Laurentian Mountains of Quebec.",
+          "Black bears are opportunistic omnivores whose diets rely heavily on plant matter.",
+          "Campers are strictly required to store all food in certified bear-proof lockers.",
+          "The bears' hibernation period typically lasts from November through April.",
+          "Female black bears give birth to their cubs inside the den during hibernation.",
+          "During autumn hyperphagia, the bears consume massive calories to build fat reserves.",
+          "The park's mixed forests provide abundant wild berries and nuts for foraging."
+        ]
+      }
+    },
+    {
+      "id": "calaway-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Calaway Park befindet sich in Springbank, unmittelbar westlich der Stadtgrenze von Calgary in Alberta, und ist der größte Outdoor-Familienvergnügungspark in Westkanada. Der Park öffnete 1982 erstmals seine Tore und wurde ursprünglich von den Cartoons der Familie Feuerstein (Flintstones) inspiriert, obwohl er dieses direkte Thema später ablegte. Er erstreckt sich über eine Fläche von 160 Acres (etwa 65 Hektar) und bietet einen Panoramablick auf die Ausläufer der majestätischen Rocky Mountains. Die Anlage verfügt über mehr als 32 Fahrgeschäfte, die auf Familien und Kinder ausgerichtet sind. Die berühmteste Attraktion ist „The Vortex“, eine große Achterbahn mit doppeltem Korkenzieher, die seit den frühen Jahren des Parks ein Wahrzeichen ist. Darüber hinaus gibt es eine Wildwasserbahn (Timber Falls), ein 3D-Theater sowie zahlreiche Geschicklichkeitsspiele und Essensstände. Calaway Park ist ein stark saisonabhängiger Betrieb, der aufgrund des harschen winterlichen Klimas in Alberta ausschließlich von Mai bis Oktober geöffnet ist. In den Sommermonaten ist der Park ein bedeutender lokaler Arbeitgeber, der über 700 junge Erwachsene und Studenten aus der Region Calgary beschäftigt. Im Gegensatz zu extremen Themenparks konzentriert sich die Geschäftsführung stark auf erschwingliche familienfreundliche Unterhaltung und bietet Live-Shows, die von einem eigenen Unterhaltungsteam produziert werden. Ein angeschlossener Wohnmobilpark (RV Park) dient Touristen als Basisstation für Ausflüge in die nahegelegenen Berge.",
+        "hu": "A Calaway Park Springbankben található, közvetlenül az albertai Calgary város határától nyugatra, és Nyugat-Kanada legnagyobb szabadtéri családi vidámparkja. A park 1982-ben nyitotta meg először kapuit, és eredetileg a Frédi és Béni (Flintstones) rajzfilmek ihlették, bár ezt a közvetlen tematikát később elhagyta. A 160 acre (körülbelül 65 hektár) területen elterülő létesítmény panorámás kilátást nyújt a fenséges Sziklás-hegység lábaira. A komplexum több mint 32, családokra és gyermekekre fókuszáló attrakcióval rendelkezik. A leghíresebb hullámvasút a „The Vortex”, egy nagy, dupla dugóhúzóval rendelkező pálya, amely a park korai évei óta a helyszín egyik jelképe. Emellett található itt egy rönkcsúszda (Timber Falls), egy 3D mozi, valamint számos ügyességi játék és ételstand. A Calaway Park erősen szezonális üzemeltetésű, az albertai zord téli éghajlat miatt kizárólag májustól októberig tart nyitva. A nyári hónapokban a park jelentős helyi munkáltató, több mint 700 fiatalt és diákot foglalkoztat a calgaryi régióból. Az extrém élményparkokkal ellentétben a vezetőség határozottan a megfizethető, családbarát szórakoztatásra összpontosít, és saját szórakoztató csapata által készített élő műsorokat kínál. A parkhoz tartozó lakóautó-park (RV Park) a turisták számára a közeli hegyekbe irányuló kirándulások bázisállomásaként szolgál.",
+        "ro": "Calaway Park este situat în Springbank, imediat la vest de limitele orașului Calgary din Alberta, și este cel mai mare parc de distracții în aer liber pentru familii din vestul Canadei. Parcul și-a deschis porțile pentru prima dată în 1982 și a fost inspirat inițial de desenele animate Familia Flintstone, deși ulterior a renunțat la această tematică directă. Se întinde pe o suprafață de 160 de acri (aproximativ 65 de hectare) și oferă vedere panoramică la poalele maiestuoșilor Munți Stâncoși. Facilitatea dispune de peste 32 de atracții orientate spre familii și copii. Cea mai faimoasă atracție este „The Vortex”, un roller coaster mare cu tirbușon dublu, care a fost un punct de reper încă din primii ani ai parcului. În plus, există un tobogan cu apă cu bușteni (Timber Falls), un teatru 3D, precum și numeroase jocuri de îndemânare și standuri cu mâncare. Calaway Park este o operațiune puternic dependentă de sezon, deschisă exclusiv din mai până în octombrie din cauza climatului asprime de iarnă din Alberta. În lunile de vară, parcul este un angajator local important, angajând peste 700 de tineri și studenți din regiunea Calgary. Spre deosebire de parcurile tematice extreme, conducerea se concentrează puternic pe divertismentul accesibil pentru familii, oferind spectacole live produse de o echipă proprie de divertisment. Un parc pentru rulote (RV Park) atașat servește turiștilor ca bază pentru excursii în munții din apropiere.",
+        "en": "Calaway Park is located in Springbank, immediately west of the city limits of Calgary, Alberta, and holds the title as the largest outdoor family amusement park in Western Canada. The park originally opened its gates to the public in 1982 and was initially conceptualized around a Flintstones cartoon theme, although it later dropped the direct licensing. Spanning an expansive area of 160 acres (approximately 65 hectares), the park offers sweeping panoramic views of the foothills of the majestic Rocky Mountains. The facility features over 32 amusement rides geared specifically towards families and children. The most iconic attraction is \"The Vortex,\" a large double-corkscrew roller coaster that has been a visual landmark since the park's early operational years. Additionally, the park includes a log flume ride (Timber Falls), a 3D theater, and numerous midway skill games and food concessions. Calaway Park is a highly seasonal operation; due to Alberta's harsh winter climate, it is only open from May through October. During the summer operating months, the park serves as a major local employer, hiring over 700 young adults and students from the greater Calgary region. Unlike extreme thrill parks, the management focuses intensely on affordable family-friendly entertainment, producing daily live stage shows featuring its own in-house entertainment cast. An adjacent RV park serves as a convenient base camp for tourists exploring the nearby mountain parks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Calaway Park ist der größte Outdoor-Vergnügungspark im Westen Kanadas.",
+          "Der Park wurde im Jahr 1982 nahe der Stadt Calgary eröffnet.",
+          "Das Gelände umfasst eine Fläche von 65 Hektar mit Blick auf die Rocky Mountains.",
+          "Die Anlage bietet mehr als 32 familienfreundliche Fahrgeschäfte.",
+          "Aus klimatischen Gründen ist der Park nur von Mai bis Oktober geöffnet.",
+          "Die berühmte Doppel-Korkenzieher-Achterbahn trägt den Namen 'The Vortex'.",
+          "Der Park beschäftigt im Sommer über 700 lokale Jugendliche und Studenten."
+        ],
+        "hu": [
+          "A Calaway Park Nyugat-Kanada legnagyobb szabadtéri vidámparkja.",
+          "A parkot 1982-ben nyitották meg Calgary városának közelében.",
+          "A 65 hektáros terület a Sziklás-hegység vonulataira néz.",
+          "A komplexum több mint 32 családbarát vidámparki játékkal rendelkezik.",
+          "Éghajlati okokból a park csak májustól októberig fogadja a látogatókat.",
+          "A leghíresebb, dupla dugóhúzós hullámvasút a 'The Vortex' nevet viseli.",
+          "A nyári szezonban a létesítmény több mint 700 helyi fiatalt foglalkoztat."
+        ],
+        "ro": [
+          "Calaway Park este cel mai mare parc de distracții în aer liber din vestul Canadei.",
+          "Parcul a fost deschis în anul 1982, în apropierea orașului Calgary.",
+          "Terenul acoperă o suprafață de 65 de hectare, cu vedere la Munții Stâncoși.",
+          "Facilitatea oferă peste 32 de atracții potrivite pentru familii.",
+          "Din motive climatice, parcul este deschis doar din mai până în octombrie.",
+          "Faimosul roller coaster cu tirbușon dublu poartă numele 'The Vortex'.",
+          "Vara, parcul angajează peste 700 de tineri și studenți locali."
+        ],
+        "en": [
+          "Calaway Park is the largest outdoor amusement park in Western Canada.",
+          "The facility officially opened to the public in 1982 near Calgary.",
+          "The park grounds cover 65 hectares with views facing the Rocky Mountains.",
+          "The complex operates more than 32 family-friendly amusement rides.",
+          "Due to the regional climate, the park is only open from May to October.",
+          "The iconic double-corkscrew roller coaster is officially named 'The Vortex'.",
+          "During the summer, the park employs over 700 local youth and students."
+        ]
+      }
+    },
+    {
+      "id": "la-ronde-montreal-life-v2",
+      "descriptionAdvanced": {
+        "de": "La Ronde ist der flächenmäßig größte Vergnügungspark in der Provinz Quebec und befindet sich auf der Île Sainte-Hélène im Sankt-Lorenz-Strom nahe dem Stadtzentrum von Montreal. Der Park wurde ursprünglich als Unterhaltungskomplex für die Weltausstellung Expo 67 erbaut und am 28. April 1967 eröffnet. Bis zum Jahr 2001 wurde die Anlage von der Stadtverwaltung Montreals betrieben, bevor die Rechte an die amerikanische Freizeitparkkette Six Flags verkauft wurden, die den Park seither verwaltet und massiv modernisiert hat. Heute bietet La Ronde über 40 Fahrgeschäfte, darunter mehrere hochkarätige Achterbahnen. Das unbestrittene historische Wahrzeichen ist „Le Monstre“, die höchste doppelgleisige Holzachterbahn der Welt, die 1985 eingeweiht wurde. Eine weitere Hauptattraktion ist der „Goliath“, ein gigantischer Hypercoaster, der über die Baumgrenze hinausragt. Jedes Jahr im Sommer ist der Park der Austragungsort von L'International des Feux Loto-Québec, dem renommiertesten und größten Feuerwerkswettbewerb der Welt, der auf dem See des Parks, dem Lac des Dauphins, gezündet wird und hunderttausende Zuschauer anzieht. Im Oktober verwandelt sich der Park während des Fright Fest (Festival de la Frayeur) in ein riesiges Halloween-Event. Wegen des strengen Winters in Montreal ist La Ronde nur saisonal von Mai bis Ende Oktober geöffnet. Der Park hat wesentlich zur kulturellen und touristischen Identität Montreals beigetragen.",
+        "hu": "A La Ronde Quebec tartomány legnagyobb területű vidámparkja, amely a Szent Lőrinc-folyón fekvő Île Sainte-Hélène szigetén található, közel Montreal belvárosához. A parkot eredetileg az 1967-es montreali világkiállítás (Expo 67) szórakoztató komplexumaként építették, és 1967. április 28-án nyílt meg. A létesítményt egészen 2001-ig Montreal önkormányzata üzemeltette, mielőtt a jogokat eladták volna az amerikai Six Flags vidámparkláncnak, amely azóta is irányítja és masszívan modernizálta a területet. Ma a La Ronde több mint 40 attrakciót kínál, köztük számos csúcsminőségű hullámvasutat. Vitathatatlan történelmi jelképe a „Le Monstre”, a világ legmagasabb kétvágányú fa hullámvasútja, amelyet 1985-ben adtak át. Egy másik fő attrakció a „Goliath”, egy gigantikus hiper-hullámvasút, amely a fák lombkoronája fölé magasodik. Minden év nyarán a park ad otthont a L'International des Feux Loto-Québec-nek, a világ legrangosabb és legnagyobb tűzijáték-versenyének, amelyet a park taván, a Lac des Dauphins-on lőnek fel, és több százezer nézőt vonz. Októberben a park a Fright Fest (Festival de la Frayeur) keretében egy hatalmas halloweeni eseménnyé alakul át. A szigorú montreali tél miatt a La Ronde csak szezonálisan, májustól október végéig tart nyitva. A park jelentősen hozzájárult Montreal kulturális és turisztikai identitásához.",
+        "ro": "La Ronde este cel mai mare parc de distracții ca suprafață din provincia Quebec și este situat pe Île Sainte-Hélène, în râul Sfântul Laurențiu, aproape de centrul orașului Montreal. Parcul a fost construit inițial ca un complex de divertisment pentru Expoziția Mondială Expo 67 și s-a deschis la 28 aprilie 1967. Până în 2001, parcul a fost administrat de orașul Montreal, înainte ca drepturile să fie vândute lanțului american de parcuri tematice Six Flags, care de atunci îl gestionează și l-a modernizat masiv. Astăzi, La Ronde oferă peste 40 de atracții, inclusiv mai multe roller coastere de top. Reperul său istoric incontestabil este „Le Monstre”, cel mai înalt roller coaster din lemn cu șină dublă din lume, care a fost inaugurat în 1985. O altă atracție principală este „Goliath”, un hypercoaster gigantic care se înalță deasupra copacilor. În fiecare vară, parcul găzduiește L'International des Feux Loto-Québec, cea mai prestigioasă și cea mai mare competiție de artificii din lume, care este lansată deasupra lacului parcului, Lac des Dauphins, și atrage sute de mii de spectatori. În luna octombrie, parcul se transformă într-un eveniment masiv de Halloween în timpul Fright Fest (Festival de la Frayeur). Din cauza iernii aspre din Montreal, La Ronde este deschis doar sezonier, din mai până la sfârșitul lunii octombrie. Parcul a contribuit semnificativ la identitatea culturală și turistică a Montrealului.",
+        "en": "La Ronde is the largest amusement park in the province of Quebec and is situated on Île Sainte-Hélène in the St. Lawrence River, close to downtown Montreal. The park was originally designed and constructed as the premier entertainment complex for the Expo 67 World's Fair, officially opening on April 28, 1967. Until the year 2001, the facility was owned and operated entirely by the City of Montreal before the operational rights were sold to the American theme park corporation Six Flags, which has since managed and massively modernized the grounds. Today, La Ronde offers over 40 rides, including several world-class roller coasters. The undisputed historical landmark is \"Le Monstre,\" which holds the record as the highest dual-track wooden roller coaster in the world and was inaugurated in 1985. Another massive attraction is the \"Goliath,\" a gigantic hypercoaster that towers high above the island's tree line. Every summer, the park proudly hosts L'International des Feux Loto-Québec, the most prestigious and largest international fireworks competition in the world, launched over the park's lake, the Lac des Dauphins, attracting hundreds of thousands of spectators. In October, the park undergoes a complete thematic transformation into a massive Halloween event known as Fright Fest (Festival de la Frayeur). Due to Montreal's freezing winters, La Ronde operates strictly on a seasonal basis from May through late October. The park has contributed significantly to Montreal's tourism identity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park wurde ursprünglich für die Weltausstellung Expo 67 gebaut.",
+          "La Ronde befindet sich auf einer Insel im Sankt-Lorenz-Strom in Montreal.",
+          "Seit dem Jahr 2001 ist der Park im Besitz der amerikanischen Firma Six Flags.",
+          "Die Anlage veranstaltet den weltweit größten internationalen Feuerwerkswettbewerb.",
+          "'Le Monstre' ist die höchste doppelgleisige Holzachterbahn der Welt.",
+          "Aufgrund des Winterwetters ist der Park nur von Mai bis Oktober geöffnet.",
+          "Es ist der flächenmäßig größte Vergnügungspark in der Provinz Quebec."
+        ],
+        "hu": [
+          "A parkot eredetileg az 1967-es montreali világkiállításra (Expo 67) építették.",
+          "A La Ronde a Szent Lőrinc-folyó egyik szigetén fekszik, Montrealban.",
+          "2001 óta az amerikai Six Flags vállalat birtokolja az üzemeltetési jogokat.",
+          "A komplexum ad otthont a világ legnagyobb nemzetközi tűzijáték-versenyének.",
+          "A 'Le Monstre' a világ legmagasabb kétvágányú fa hullámvasútja.",
+          "A téli időjárás miatt a létesítmény csak májustól októberig tart nyitva.",
+          "Ez Quebec tartomány legnagyobb alapterületű szórakoztatóparkja."
+        ],
+        "ro": [
+          "Parcul a fost construit inițial pentru Expoziția Mondială Expo 67.",
+          "La Ronde este situat pe o insulă din râul Sfântul Laurențiu din Montreal.",
+          "Din 2001, parcul este deținut de compania americană Six Flags.",
+          "Facilitatea găzduiește cea mai mare competiție internațională de artificii din lume.",
+          "'Le Monstre' este cel mai înalt roller coaster din lemn cu șină dublă din lume.",
+          "Din cauza vremii de iarnă, parcul este deschis doar din mai până în octombrie.",
+          "Este cel mai mare parc de distracții ca suprafață din provincia Quebec."
+        ],
+        "en": [
+          "The park was originally constructed as the entertainment center for Expo 67.",
+          "La Ronde is located on an island in the St. Lawrence River in Montreal.",
+          "Since 2001, the facility has been operated by the American company Six Flags.",
+          "The park hosts the largest and most prestigious international fireworks competition globally.",
+          "'Le Monstre' stands as the highest dual-track wooden roller coaster in the world.",
+          "Due to severe winter weather, the park operates only from May to October.",
+          "It is the largest amusement park by land area in the province of Quebec."
+        ]
+      }
+    },
+    {
+      "id": "science-world-vancouver-life-v2",
+      "descriptionAdvanced": {
+        "de": "Science World ist ein Wissenschaftszentrum und Museum in Vancouver, British Columbia, das sich markant am östlichen Ende des False Creek befindet. Das Gebäude ist architektonisch einzigartig: Es besteht aus einer riesigen geodätischen Kuppel, die als Ausstellungszentrum für die Weltausstellung Expo 86 errichtet wurde. Nach dem Ende der Messe wurde das Gebäude renoviert und 1989 offiziell als permanentes Wissenschaftsmuseum eröffnet. Die Einrichtung wird von einer gemeinnützigen Organisation betrieben, die sich der naturwissenschaftlichen Bildung verschrieben hat. Im Inneren befinden sich zahlreiche interaktive Galerien, die Themen wie Physik, Biologie, Nachhaltigkeit und optische Täuschungen behandeln. Eine Hauptattraktion ist das OMNIMAX-Theater, das sich ganz oben in der Kuppel befindet und eine der größten Kuppelleinwände der Welt bietet, auf der beeindruckende wissenschaftliche Dokumentarfilme gezeigt werden. Das Gebäude ist abends mit einem Netzwerk aus Hunderten von hellen LED-Lichtern beleuchtet, die es zu einem der ikonischsten und meistfotografierten Wahrzeichen der Skyline von Vancouver machen. Im Jahr 2004 wurde das Museum nach einer Spende des Telekommunikationsunternehmens Telus offiziell in \"Science World at TELUS World of Science\" umbenannt, obwohl die lokale Bevölkerung den ursprünglichen Namen beibehalten hat. Mit über 850.000 Besuchern jährlich richtet sich die Institution besonders stark an Kinder und Schulklassen, um die Begeisterung für MINT-Fächer (Mathematik, Informatik, Naturwissenschaften, Technik) zu wecken.",
+        "hu": "A Science World egy tudományos központ és múzeum a kanadai Brit Columbiában, Vancouverben, amely jellegzetesen a False Creek keleti végénél helyezkedik el. Az épület építészetileg egyedülálló: egy hatalmas geodéziai kupolából áll, amelyet eredetileg az 1986-os világkiállítás (Expo 86) kiállítási központjának építettek. A kiállítás befejezése után az épületet felújították, és 1989-ben hivatalosan is megnyílt mint állandó tudományos múzeum. A létesítményt egy nonprofit szervezet üzemelteti, amely a természettudományos oktatás iránt kötelezte el magát. Belsejében számos interaktív galéria található, amelyek olyan témákat dolgoznak fel, mint a fizika, a biológia, a fenntarthatóság és az optikai csalódások. A fő attrakció az OMNIMAX mozi, amely a kupola legtetején kapott helyet, és a világ egyik legnagyobb kupolavásznával rendelkezik, ahol lenyűgöző tudományos dokumentumfilmeket vetítenek. Az épületet esténként több száz fényes LED-lámpából álló hálózat világítja meg, amely Vancouver városképének egyik legikonikusabb és legtöbbet fényképezett jelképévé teszi. 2004-ben a Telus telekommunikációs vállalat adományát követően a múzeumot hivatalosan „Science World at TELUS World of Science” névre keresztelték át, bár a helyi lakosság megőrizte az eredeti nevet. Az évente több mint 850 000 látogatót fogadó intézmény kiemelten fókuszál a gyerekekre és az iskolai osztályokra, hogy felkeltse az érdeklődést a STEM (matematika, informatika, természettudományok, technológia) tantárgyak iránt.",
+        "ro": "Science World este un centru de știință și muzeu din Vancouver, Columbia Britanică, situat vizibil la capătul estic al False Creek. Clădirea este unică din punct de vedere arhitectural: constă dintr-o cupolă geodezică imensă construită ca centru de expoziții pentru Expoziția Mondială Expo 86. După încheierea târgului, clădirea a fost renovată și s-a deschis oficial în 1989 ca muzeu de știință permanent. Facilitatea este operată de o organizație non-profit dedicată educației științifice. În interior există numeroase galerii interactive care acoperă teme precum fizica, biologia, durabilitatea și iluziile optice. O atracție principală este teatrul OMNIMAX, situat chiar în vârful cupolei, oferind unul dintre cele mai mari ecrane tip dom din lume, pe care sunt prezentate documentare științifice impresionante. Seara, clădirea este iluminată de o rețea de sute de lumini LED strălucitoare, ceea ce o face unul dintre cele mai iconice și mai fotografiate repere din orizontul orașului Vancouver. În 2004, în urma unei donații din partea companiei de telecomunicații Telus, muzeul a fost redenumit oficial „Science World la TELUS World of Science”, deși populația locală a păstrat numele original. Cu peste 850.000 de vizitatori anual, instituția vizează în mod special copiii și clasele școlare pentru a stârni entuziasmul pentru materiile STEM (matematică, informatică, științele naturii, tehnologie).",
+        "en": "Science World is a renowned science centre and museum in Vancouver, British Columbia, prominently located at the eastern end of False Creek. The building's architecture is visually striking: it consists of a massive geodesic dome originally constructed to serve as the Expo Centre for the Expo 86 World's Fair. Following the conclusion of the fair, the iconic structure was deeply renovated and officially opened to the public as a permanent science museum in 1989. The facility is operated by a non-profit organization deeply committed to science education. The interior features numerous hands-on, interactive galleries covering topics such as physics, human biology, sustainability, and optical illusions. A major attraction is the OMNIMAX theatre, located at the very top of the dome, which boasts one of the largest domed screens in the world, showcasing immersive scientific documentaries. In the evening, the exterior is illuminated by a complex network of hundreds of bright LED lights, making it one of the most iconic and highly photographed landmarks in the Vancouver skyline. In 2004, following a massive donation from the telecommunications company Telus, the facility was officially rebranded as \"Science World at TELUS World of Science,\" although locals heavily prefer the original name. Welcoming over 850,000 visitors annually, the institution strongly targets children and school groups to inspire a passion for STEM (Science, Technology, Engineering, and Mathematics) fields."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude ist eine markante geodätische Kuppel am Ufer des False Creek.",
+          "Die Kuppel wurde ursprünglich für die Weltausstellung Expo 86 erbaut.",
+          "Im Jahr 1989 wurde es offiziell als permanentes Wissenschaftsmuseum eröffnet.",
+          "Ein großes OMNIMAX-Theater projiziert Filme auf die Innenseite der Kuppel.",
+          "Das Museum wird von einer gemeinnützigen Bildungsorganisation betrieben.",
+          "Hunderte von LED-Lichtern an der Außenhülle prägen nachts die Skyline Vancouvers.",
+          "Das Zentrum verzeichnet jährlich mehr als 850.000 Besucher."
+        ],
+        "hu": [
+          "Az épület egy jellegzetes geodéziai kupola a False Creek partján.",
+          "A kupolát eredetileg az 1986-os vancouveri világkiállításra építették.",
+          "1989-ben nyílt meg hivatalosan, immár állandó tudományos múzeumként.",
+          "Egy hatalmas OMNIMAX mozi vetít filmeket a kupola belső felületére.",
+          "A múzeumot egy oktatásra fókuszáló nonprofit szervezet üzemelteti.",
+          "A külső burkolaton lévő LED-lámpák százai éjszaka Vancouver látképének meghatározói.",
+          "A központ látogatószáma évente meghaladja a 850 000 főt."
+        ],
+        "ro": [
+          "Clădirea este o cupolă geodezică proeminentă pe malul False Creek.",
+          "Cupola a fost construită inițial pentru Expoziția Mondială Expo 86.",
+          "În anul 1989 a fost deschis oficial ca muzeu de știință permanent.",
+          "Un mare teatru OMNIMAX proiectează filme pe interiorul cupolei.",
+          "Muzeul este operat de o organizație educațională non-profit.",
+          "Sute de lumini LED de pe învelișul exterior domină orizontul orașului Vancouver noaptea.",
+          "Centrul înregistrează peste 850.000 de vizitatori anual."
+        ],
+        "en": [
+          "The building features a striking geodesic dome situated on the edge of False Creek.",
+          "The massive dome was originally constructed for the Expo 86 World's Fair.",
+          "It officially opened to the public as a permanent science museum in 1989.",
+          "A large OMNIMAX theater projects documentaries directly onto the inside of the dome.",
+          "The museum is entirely operated by a non-profit educational organization.",
+          "Hundreds of exterior LED lights make it a defining feature of Vancouver's night skyline.",
+          "The science center registers more than 850,000 visitors on an annual basis."
+        ]
+      }
+    },
+    {
+      "id": "ontario-science-centre-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Ontario Science Centre, gelegen im Stadtteil North York in Toronto, ist eines der ersten Museen weltweit, das sich von passiven Ausstellungsstücken abwandte und stattdessen ein vollständig interaktives, praxisorientiertes Erlebnis bot. Das am 26. September 1969 eröffnete Zentrum wurde von dem renommierten kanadischen Architekten Raymond Moriyama im brutalistischen Architekturstil entworfen. Das Gebäude ist harmonisch und dramatisch direkt in den steilen, bewaldeten Hang der Don River Ravine integriert, was es erfordert, dass Besucher über Rolltreppen von einem Niveau zum nächsten in das Tal hinabfahren. Das Zentrum umfasst über 500 interaktive Ausstellungsstücke, die ein extrem breites Spektrum von Themen abdecken, darunter Raumfahrt, Biologie, Geologie, Telekommunikation und Musik. Es beherbergt zudem das einzige öffentliche Planetarium in Toronto und ein großes OMNIMAX-Kino. Jahrzehntelang war das Science Centre eine tragende Säule des Bildungssystems der Provinz Ontario und empfing jedes Jahr Hunderttausende von Schülern zu spezialisierten Programmen. Im Jahr 2024 wurde das Gebäude wegen struktureller Probleme mit den alternden Dachplatten überraschend von der Provinzregierung für die Öffentlichkeit geschlossen, was eine große Debatte über den geplanten Umzug der Institution an den Ontario Place an der Uferpromenade von Toronto auslöste. Trotz der Debatten um das physische Gebäude bleibt das Vermächtnis der Institution als Pionier in der weltweiten Wissenschaftskommunikation unbestritten.",
+        "hu": "A torontói North York negyedben található Ontario Science Centre egyike volt a világ legelső olyan múzeumainak, amelyek elfordultak a passzív kiállítási tárgyaktól, és ehelyett teljesen interaktív, gyakorlatorientált élményt kínáltak. Az 1969. szeptember 26-án megnyílt központot a neves kanadai építész, Raymond Moriyama tervezte brutalista építészeti stílusban. Az épület harmonikusan és drámaian illeszkedik közvetlenül a Don-folyó völgyének meredek, erdős hegyoldalába, ami megköveteli a látogatóktól, hogy mozgólépcsőkön ereszkedjenek le az egyik szintről a másikra a völgybe. A központ több mint 500 interaktív kiállítási tárgyat foglal magába, amelyek rendkívül széles témakört ölelnek fel, beleértve az űrkutatást, a biológiát, a geológiát, a telekommunikációt és a zenét. Emellett Toronto egyetlen nyilvános planetáriumának és egy nagy OMNIMAX mozinak is otthont ad. A Science Centre évtizedeken át az ontariói oktatási rendszer egyik alappillére volt, és évente diákok százezreit fogadta speciális programokra. 2024-ben az elöregedő tetőpanelek szerkezeti problémái miatt a tartományi kormányzat meglepetésszerűen bezárta az épületet a nyilvánosság előtt, ami hatalmas vitát váltott ki az intézménynek a torontói vízpartra, az Ontario Place-re tervezett áthelyezéséről. A fizikai épület körüli viták ellenére az intézmény öröksége a globális tudománykommunikáció úttörőjeként vitathatatlan marad.",
+        "ro": "Centrul de Științe din Ontario, situat în districtul North York din Toronto, este unul dintre primele muzee din lume care s-a îndepărtat de expozițiile pasive și a oferit în schimb o experiență complet interactivă și practică. Deschis la 26 septembrie 1969, centrul a fost proiectat de renumitul arhitect canadian Raymond Moriyama în stil arhitectural brutalist. Clădirea este integrată armonios și dramatic direct în panta abruptă și împădurită a râpei râului Don, cerând vizitatorilor să coboare în vale pe scări rulante de la un nivel la altul. Centrul cuprinde peste 500 de expoziții interactive care acoperă o gamă extrem de largă de subiecte, inclusiv explorarea spațiului, biologie, geologie, telecomunicații și muzică. De asemenea, găzduiește singurul planetariu public din Toronto și un cinematograf mare OMNIMAX. Timp de decenii, Science Centre a fost un pilon de bază al sistemului educațional din provincia Ontario, primind sute de mii de studenți în fiecare an pentru programe specializate. În 2024, clădirea a fost închisă în mod neașteptat publicului de către guvernul provincial din cauza unor probleme structurale cu panourile de acoperiș îmbătrânite, stârnind o dezbatere majoră cu privire la mutarea planificată a instituției la Ontario Place, pe malul apei din Toronto. În ciuda dezbaterilor din jurul clădirii fizice, moștenirea instituției de pionier în comunicarea științifică globală rămâne de necontestat.",
+        "en": "The Ontario Science Centre, located in the North York district of Toronto, ranks as one of the very first museums globally to pivot away from passive viewing exhibits toward a fully interactive, hands-on experience. Officially opened on September 26, 1969, the center was designed by renowned Canadian architect Raymond Moriyama using a striking Brutalist architectural style. The massive structure is harmoniously yet dramatically built directly into the steep, heavily wooded side of the Don River ravine, requiring visitors to descend via long escalators from one level to the next into the valley. The center houses over 500 interactive exhibits spanning an extremely broad range of scientific disciplines, including space exploration, human biology, geology, telecommunications, and music. It also houses Toronto's only public planetarium and a large OMNIMAX dome theater. For decades, the Science Centre acted as a vital pillar of the Ontario provincial education system, welcoming hundreds of thousands of students annually for specialized, curriculum-based programs. In 2024, the physical building was abruptly closed to the public by the provincial government due to sudden structural issues with the aging roof panels, sparking intense political debate regarding a planned relocation of the institution to Ontario Place on the Toronto waterfront. Despite the controversies surrounding the physical building, the institution's legacy as a global pioneer in interactive science communication remains undisputed."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Zentrum öffnete am 26. September 1969 erstmals seine Türen.",
+          "Der Architekt Raymond Moriyama entwarf das Gebäude im brutalistischen Stil.",
+          "Die Struktur ist direkt in den bewaldeten Hang der Don River Ravine gebaut.",
+          "Das Museum gilt als weltweiter Pionier für interaktive Ausstellungsstücke.",
+          "Es beherbergt mehr als 500 naturwissenschaftliche Exponate und ein Planetarium.",
+          "Jahrzehntelang besuchten jährlich Hunderttausende Schüler das Zentrum.",
+          "Wegen massiver Dachschäden wurde das Gebäude 2024 unerwartet geschlossen."
+        ],
+        "hu": [
+          "A központ 1969. szeptember 26-án nyitotta meg először a kapuit.",
+          "Raymond Moriyama építész brutalista stílusban tervezte meg az épületet.",
+          "A szerkezet közvetlenül a Don-folyó völgyének erdős hegyoldalába épült.",
+          "A múzeumot az interaktív kiállítási tárgyak globális úttörőjének tekintik.",
+          "Több mint 500 tudományos kiállítási tárgynak és egy planetáriumnak ad otthont.",
+          "Évtizedeken át évente több százezer diák látogatta meg a létesítményt.",
+          "A tető súlyos szerkezeti hibái miatt az épületet 2024-ben váratlanul bezárták."
+        ],
+        "ro": [
+          "Centrul și-a deschis porțile pentru prima dată pe 26 septembrie 1969.",
+          "Arhitectul Raymond Moriyama a proiectat clădirea în stil brutalist.",
+          "Structura este construită direct în panta împădurită a râpei râului Don.",
+          "Muzeul este considerat un pionier global al expozițiilor interactive.",
+          "Găzduiește peste 500 de exponate științifice și un planetariu.",
+          "Timp de decenii, sute de mii de studenți au vizitat centrul anual.",
+          "Din cauza deteriorării masive a acoperișului, clădirea a fost închisă neașteptat în 2024."
+        ],
+        "en": [
+          "The center originally opened its doors to the public on September 26, 1969.",
+          "Architect Raymond Moriyama designed the expansive building in the Brutalist style.",
+          "The structure is built directly into the steep, wooded side of the Don River ravine.",
+          "The museum is highly recognized as a global pioneer in interactive science exhibits.",
+          "It houses over 500 hands-on scientific exhibits alongside a public planetarium.",
+          "For decades, hundreds of thousands of students visited the facility on an annual basis.",
+          "Due to severe structural roof issues, the physical building was abruptly closed in 2024."
+        ]
+      }
+    },
+    {
+      "id": "saskatchewan-cranberry-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Anbau und die Ernte von Cranberries (Großfrüchtige Moosbeeren) in der Provinz Saskatchewan stellen einen faszinierenden Nischenzweig der kanadischen Landwirtschaft dar. Im Gegensatz zu den riesigen, industriellen Mooren in British Columbia oder Quebec konzentriert sich die Cranberry-Produktion in Saskatchewan auf den wilden Abbau sowie auf spezialisierte Farmen in der borealen Übergangszone. Diese Regionen im zentralen und nördlichen Teil der Provinz weisen saure, stark sandige und torfhaltige Böden auf, die für das Pflanzenwachstum zwingend erforderlich sind. Das raue, kalte Kontinentalklima von Saskatchewan führt zu einer deutlich kürzeren Vegetationsperiode. Diese extremen klimatischen Bedingungen wirken sich jedoch paradoxerweise positiv auf die Beeren aus: Der Kältestress zwingt die Pflanze, höhere Konzentrationen an natürlichen Zuckern und Antioxidantien (Anthocyane) einzulagern, was den Früchten aus Saskatchewan eine intensivere rote Farbe und ein robusteres Nährwertprofil verleiht als denen aus wärmeren Regionen. Die kommerzielle Ernte erfolgt im späten Herbst. Wenn Moore angelegt sind, wird oft die „Nassernte“ (wet harvesting) angewandt, bei der die Felder mit Wasser geflutet werden. Da Cranberries im Inneren kleine Luftkammern besitzen, schwimmen die reifen Früchte an die Wasseroberfläche und können maschinell abgeschöpft werden. Die indigenen Völker der Region, wie die Cree und Métis, ernten die wilden Beeren seit Jahrhunderten und nutzen sie traditionell zur Herstellung von Pemmikan, einer nahrhaften Mischung aus getrocknetem Fleisch, Fett und Beeren.",
+        "hu": "A tőzegáfonya (cranberry) termesztése és betakarítása Saskatchewan tartományban a kanadai mezőgazdaság egy lenyűgöző rétegágazata. Szemben a Brit Columbiában vagy Quebecben található hatalmas, ipari méretű ültetvényekkel, a saskatchewani tőzegáfonya-termelés a vadon termő bogyók gyűjtésére, valamint a boreális átmeneti zónában található specializálódott gazdaságokra összpontosít. A tartomány ezen középső és északi régiói savas, erősen homokos és tőzeges talajjal rendelkeznek, amely elengedhetetlen a növény növekedéséhez. Saskatchewan zord, hideg kontinentális éghajlata lényegesen rövidebb vegetációs időszakot eredményez. Ezek az extrém éghajlati viszonyok azonban paradox módon pozitív hatással vannak a bogyókra: a hideg okozta stressz arra kényszeríti a növényt, hogy nagyobb koncentrációban tároljon természetes cukrokat és antioxidánsokat (antociánokat), ami a saskatchewani gyümölcsöknek intenzívebb piros színt és robusztusabb tápanyagprofilt kölcsönöz, mint a melegebb vidékekről származóknak. A kereskedelmi betakarítás késő ősszel történik. A telepített ültetvényeken gyakran a „nedves betakarítást” (wet harvesting) alkalmazzák, amelynek során a földeket elárasztják vízzel. Mivel a tőzegáfonya belsejében kis légkamrák vannak, az érett gyümölcsök a víz felszínére úsznak, és géppel lehalászhatók. A régió őslakosai, mint például a krík és a métisek, évszázadok óta gyűjtik a vadon termő bogyókat, és hagyományosan a pemmikán – egy szárított húsból, zsírból és bogyókból álló tápláló keverék – elkészítéséhez használják.",
+        "ro": "Cultivarea și recoltarea afinelor americane (merișoare, cranberries) în provincia Saskatchewan reprezintă o ramură de nișă fascinantă a agriculturii canadiene. Spre deosebire de mlaștinile uriașe, industriale din Columbia Britanică sau Quebec, producția de merișoare din Saskatchewan se concentrează pe recoltarea sălbatică și pe fermele specializate din zona de tranziție boreală. Aceste regiuni din părțile centrale și nordice ale provinciei au soluri acide, foarte nisipoase și turboase, care sunt absolut necesare pentru creșterea plantelor. Clima continentală aspră și rece din Saskatchewan are ca rezultat un sezon de creștere semnificativ mai scurt. Cu toate acestea, condițiile climatice extreme au un efect pozitiv paradoxal asupra fructelor de pădure: stresul provocat de frig forțează planta să stocheze concentrații mai mari de zaharuri naturale și antioxidanți (antocianine), oferind fructelor din Saskatchewan o culoare roșie mai intensă și un profil nutrițional mai robust decât cele din regiunile mai calde. Recoltarea comercială are loc la sfârșitul toamnei. Atunci când sunt amenajate mlaștini, este adesea folosită „recoltarea umedă” (wet harvesting), în care câmpurile sunt inundate cu apă. Deoarece merișoarele au camere mici de aer în interior, fructele coapte plutesc la suprafața apei și pot fi adunate mecanic. Popoarele indigene din regiune, cum ar fi Cree și Métis, recoltează fructele de pădure sălbatice de secole și le folosesc în mod tradițional pentru a face pemmican, un amestec hrănitor de carne uscată, grăsime și fructe de pădure.",
+        "en": "The cultivation and foraging of cranberries in the province of Saskatchewan represents a fascinating niche sector of Canadian agriculture. Unlike the massive, industrial bogs found in British Columbia or Quebec, cranberry production in Saskatchewan focuses heavily on wild foraging and specialized micro-farms located in the boreal transition zone. These specific regions in the central and northern parts of the province offer the highly acidic, sandy, and peat-rich soils that are strictly required for the plant's survival. Saskatchewan's harsh, freezing continental climate results in a significantly shorter growing season. However, these extreme climatic conditions paradoxically produce a highly positive effect on the berries: the cold stress forces the plant to accumulate higher concentrations of natural sugars and antioxidants (anthocyanins), giving Saskatchewan berries a much more intense red color and robust nutritional profile compared to those grown in warmer coastal regions. Commercial harvesting typically occurs in late autumn. For managed bogs, \"wet harvesting\" is frequently employed, where the fields are flooded with water. Because cranberries contain tiny interior air chambers, the ripe fruits detach and float directly to the water's surface, where they are mechanically scooped up. The indigenous peoples of the region, including the Cree and Métis, have harvested wild cranberries for centuries, traditionally utilizing them as a crucial ingredient in pemmican, a highly nutritious survival mixture of dried meat, rendered fat, and berries."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Produktion in Saskatchewan konzentriert sich stark auf die boreale Übergangszone.",
+          "Cranberries benötigen zwingend saure, sandige und torfhaltige Böden zum Wachsen.",
+          "Das raue Klima führt zu höheren Antioxidantien-Werten in den Früchten.",
+          "Bei der 'Nassernte' werden die Felder geflutet, sodass die Beeren oben schwimmen.",
+          "Kleine Luftkammern im Inneren der Beere sorgen dafür, dass sie im Wasser auftreibt.",
+          "Indigene Völker mischten die Beeren traditionell mit Fleisch zu nahrhaftem Pemmikan.",
+          "Die Erntezeit der roten Beeren findet tief im Herbst statt."
+        ],
+        "hu": [
+          "A saskatchewani termelés erősen a boreális átmeneti zónára összpontosul.",
+          "A tőzegáfonyának a növekedéshez elengedhetetlenül savas, homokos és tőzeges talajra van szüksége.",
+          "A zord éghajlat magasabb antioxidáns-szintet eredményez a gyümölcsökben.",
+          "A 'nedves betakarítás' során a földeket elárasztják, így a bogyók a felszínen úsznak.",
+          "A bogyó belsejében lévő kis légkamrák gondoskodnak arról, hogy a gyümölcs fennmaradjon a vízen.",
+          "Az őslakosok hagyományosan hússal keverték a bogyókat, így tápláló pemmikánt készítettek.",
+          "A piros bogyók betakarítási időszaka mélyen ősszel van."
+        ],
+        "ro": [
+          "Producția din Saskatchewan se concentrează puternic pe zona de tranziție boreală.",
+          "Merișoarele necesită absolut soluri acide, nisipoase și turboase pentru a crește.",
+          "Clima aspră duce la niveluri mai ridicate de antioxidanți în fructele de pădure.",
+          "În timpul „recoltării umede”, câmpurile sunt inundate, permițând fructelor să plutească.",
+          "Camerele mici de aer din interiorul fructului asigură plutirea acestuia în apă.",
+          "Popoarele indigene amestecau în mod tradițional fructele cu carne pentru a face pemmican.",
+          "Sezonul de recoltare a fructelor roșii are loc toamna târziu."
+        ],
+        "en": [
+          "Cranberry production in Saskatchewan is heavily concentrated in the boreal transition zone.",
+          "The plants strictly require highly acidic, sandy, and peat-rich soils to grow properly.",
+          "The harsh continental climate forces the berries to produce higher antioxidant levels.",
+          "During 'wet harvesting', fields are flooded to allow the berries to float to the top.",
+          "Tiny air chambers located inside the berry ensure that the fruit floats in water.",
+          "Indigenous groups traditionally mixed the berries with dried meat to create pemmican.",
+          "The harvesting season for the red berries occurs deep in the autumn months."
+        ]
+      }
+    },
+    {
+      "id": "gaspereau-valley-wines-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gaspereau Valley ist ein kleines, aber äußerst bedeutendes Weinbaugebiet in Nova Scotia, das unmittelbar an das bekanntere Annapolis Valley angrenzt. Das Tal profitiert von einem einzigartigen Mikroklima, das sich ideal für den Cool-Climate-Weinbau (Kühles Klima) eignet. Die steilen Hügellandschaften des Tals mit ihren stark kieshaltigen und schieferreichen Böden bieten eine hervorragende Wasserdrainage, die für die Rebstöcke essenziell ist. Darüber hinaus schützt die Talform die Weinberge vor extremen Frostschäden im Frühjahr und Herbst, während die Nähe zur Bay of Fundy kühlende Brisen im Sommer liefert, die eine langsame und gleichmäßige Reifung der Trauben fördern. Diese langsame Reifung führt zu Weinen mit ausgeprägter Säure und intensiver Aromatik. Die Region ist bekannt für den Anbau robuster Hybridsorten wie L'Acadie Blanc und Seyval Blanc, aber auch für klassische Vitis vinifera-Sorten wie Riesling und Chardonnay. Das Gaspereau Valley spielt eine zentrale Rolle bei der Produktion von „Tidal Bay“, der allerersten Wein-Appellation in Nova Scotia, die einen knackigen, aromatischen Weißwein vorschreibt, der perfekt mit den lokalen Meeresfrüchten harmoniert. Darüber hinaus haben die Weingüter des Tals internationale Anerkennung für ihre hochwertigen Schaumweine erlangt, die nach der traditionellen Methode (Méthode Classique) hergestellt werden. Der Weintourismus ist hier rasant gewachsen, wobei Boutique-Weingüter Verkostungen mit direktem Blick auf die herbstlich leuchtenden Hügel anbieten.",
+        "hu": "A Gaspereau-völgy (Gaspereau Valley) egy kicsi, de rendkívül fontos borvidék Új-Skóciában, amely közvetlenül a közismertebb Annapolis-völgy mellett fekszik. A völgy egy egyedülálló mikroklímából profitál, amely ideális a hűvös éghajlatú (cool climate) szőlőtermesztéshez. A völgy meredek, erősen kavicsos és palás talajú domboldalai kiváló vízelvezetést biztosítanak, ami létfontosságú a szőlőtőkék számára. Emellett a völgy formája megvédi a szőlőültetvényeket a szélsőséges tavaszi és őszi fagykároktól, míg a Fundy-öböl közelsége hűsítő nyári szellőket hoz, amelyek elősegítik a szőlő lassú és egyenletes érését. Ez a lassú érési folyamat élénk savtartalmú és intenzív aromájú borokat eredményez. A régió olyan ellenálló hibrid fajták termesztéséről ismert, mint a L'Acadie Blanc és a Seyval Blanc, de klasszikus Vitis vinifera fajtákat is termesztenek, mint a Riesling és a Chardonnay. A Gaspereau-völgy központi szerepet játszik a „Tidal Bay” előállításában, amely Új-Skócia legelső saját boreredetvédelmi rendszere (appellation). Ez egy ropogós, aromás fehérbort ír elő, amely tökéletesen harmonizál a helyi tenger gyümölcseivel. Továbbá a völgy borászatai nemzetközi elismerést vívtak ki a hagyományos módszerrel (Méthode Classique) készített, prémium minőségű pezsgőikkel. A borturizmus rohamléptekben fejlődik a területen; a butikborászatok közvetlen kilátást nyújtanak az ősszel színpompás dombokra.",
+        "ro": "Valea Gaspereau este o regiune viticolă mică, dar extrem de importantă din Nova Scoția, situată imediat lângă valea mai cunoscută Annapolis. Valea beneficiază de un microclimat unic, ideal pentru viticultura de climat rece (cool climate). Dealurile abrupte ale văii, cu solurile lor pietroase și bogate în șisturi, oferă un drenaj excelent al apei, esențial pentru vița de vie. Mai mult, forma văii protejează podgoriile de daunele extreme cauzate de îngheț primăvara și toamna, în timp ce apropierea de Golful Fundy oferă brize răcoroase vara, care promovează o coacere lentă și uniformă a strugurilor. Această coacere lentă are ca rezultat vinuri cu o aciditate pronunțată și arome intense. Regiunea este renumită pentru cultivarea soiurilor hibride robuste precum L'Acadie Blanc și Seyval Blanc, precum și a soiurilor clasice Vitis vinifera precum Riesling și Chardonnay. Valea Gaspereau joacă un rol central în producția de „Tidal Bay”, prima denumire de origine a vinului (appellation) din Nova Scoția, care dictează un vin alb proaspăt și aromat, ce se armonizează perfect cu fructele de mare locale. În plus, cramele din vale au câștigat recunoaștere internațională pentru vinurile spumante de înaltă calitate, produse conform metodei tradiționale (Méthode Classique). Turismul viticol a crescut rapid aici, cramele de tip boutique oferind degustări cu vedere directă la dealurile strălucitoare toamna.",
+        "en": "The Gaspereau Valley is a geographically small yet highly significant viticultural region in Nova Scotia, situated immediately adjacent to the more widely known Annapolis Valley. The valley benefits from a unique, highly localized microclimate that is perfectly suited for cool-climate viticulture. The steeply sloped hillsides of the valley, characterized by highly gravelly and slate-rich soils, provide excellent water drainage, which is absolutely essential for the health of the grapevines. Furthermore, the steep valley walls protect the vineyards from extreme frost damage during the volatile spring and autumn seasons, while its proximity to the Bay of Fundy delivers cooling summer breezes that promote the slow, even ripening of the grapes. This extended ripening period results in wines possessing vibrant acidity and highly intense aromatics. The region is renowned for cultivating robust hybrid grape varieties such as L'Acadie Blanc and Seyval Blanc, alongside classic Vitis vinifera varieties like Riesling and Chardonnay. The Gaspereau Valley plays a central role in the production of \"Tidal Bay,\" Nova Scotia's very first official wine appellation, which dictates a crisp, aromatic white wine profile designed to pair perfectly with local Atlantic seafood. Additionally, the valley's wineries have achieved widespread international acclaim for their premium sparkling wines, which are strictly produced using the traditional method (Méthode Classique). Wine tourism has grown exponentially, with boutique wineries offering tastings overlooking the vibrant autumnal slopes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Tal grenzt direkt an das historisch bedeutsame Annapolis Valley.",
+          "Kies- und schieferreiche Böden auf steilen Hügeln bieten exzellente Wasserdrainage.",
+          "Die Weinberge profitieren stark von einem speziellen, frostschützenden Mikroklima.",
+          "Das kühle Klima bringt säurebetonte und sehr aromatische Weißweine hervor.",
+          "Lokale Winzer sind an der Produktion der Appellation 'Tidal Bay' stark beteiligt.",
+          "Die Region ist international für ihre klassischen Schaumweine anerkannt.",
+          "Beliebte angebaute Rebsorten sind L'Acadie Blanc, Riesling und Seyval Blanc."
+        ],
+        "hu": [
+          "A völgy közvetlenül a történelmi jelentőségű Annapolis-völgy mellett fekszik.",
+          "A meredek dombok kavicsos és palás talaja kiváló vízelvezetést biztosít.",
+          "A szőlőültetvények sokat profitálnak a speciális, fagykártól védő mikroklímából.",
+          "A hűvös éghajlat kifejezetten savas, élénk és nagyon aromás fehérborokat eredményez.",
+          "A helyi borászok meghatározó szerepet játszanak a 'Tidal Bay' eredetvédelemben.",
+          "A régió nemzetközileg is széleskörű elismerést szerzett hagyományos pezsgőivel.",
+          "A legkedveltebb termesztett szőlőfajták a L'Acadie Blanc, a Riesling és a Seyval Blanc."
+        ],
+        "ro": [
+          "Valea se învecinează direct cu valea istorică Annapolis.",
+          "Solurile bogate în pietriș și șist de pe dealurile abrupte oferă un drenaj excelent.",
+          "Podgoriile beneficiază masiv de un microclimat special care protejează de îngheț.",
+          "Climatul rece produce vinuri albe cu aciditate ridicată și foarte aromate.",
+          "Vinificatorii locali sunt puternic implicați în producția denumirii „Tidal Bay”.",
+          "Regiunea este recunoscută internațional pentru vinurile sale spumante clasice.",
+          "Soiurile de struguri populare cultivate includ L'Acadie Blanc, Riesling și Seyval Blanc."
+        ],
+        "en": [
+          "The valley is situated immediately adjacent to the historic Annapolis Valley.",
+          "Gravel and slate-rich soils on steep hillsides provide excellent water drainage.",
+          "The vineyards benefit massively from a highly localized, frost-protecting microclimate.",
+          "The cool climate forces the production of highly acidic, intensely aromatic white wines.",
+          "Local winemakers are deeply involved in producing the provincial 'Tidal Bay' appellation.",
+          "The region has gained widespread international acclaim for its traditional method sparkling wines.",
+          "Popularly cultivated grape varieties include L'Acadie Blanc, Riesling, and Seyval Blanc."
+        ]
+      }
+    },
+    {
+      "id": "southern-alberta-sugar-beets-life-v2",
+      "descriptionAdvanced": {
+        "de": "Süd-Alberta, insbesondere das Gebiet rund um die Stadt Taber, ist das absolute Zentrum der kanadischen Zuckerrübenindustrie. Es ist die einzige Region in ganz Kanada, in der zu 100 Prozent im Inland angebauter Zucker aus Zuckerrüben produziert wird. Die geografische Lage im sogenannten Palliser-Dreieck bedeutet, dass die Region von Natur aus semiarid (halbtrocken) ist. Der großflächige Anbau von Zuckerrüben wurde hier erst durch den Bau massiver Bewässerungsnetzwerke zu Beginn des 20. Jahrhunderts möglich. Das stark sonnenverwöhnte Klima der Region mit seinen langen, heißen Sommertagen und kühlen Nächten fördert gezielt die Einlagerung von Saccharose in der massiven Wurzel der Pflanze und sorgt so für extrem hohe Zuckergehalte. Mehr als 200 Farmbetriebe bauen die Rüben auf etwa 28.000 Acres (rund 11.300 Hektar) an. Um Bodenkrankheiten und Nematodenbefall zu vermeiden, sind die Landwirte gezwungen, strikte Fruchtfolgen einzuhalten; eine Zuckerrübe darf nur alle vier Jahre auf demselben Feld gepflanzt werden. Im Oktober, wenn die Rüben geerntet werden, beginnt die \"Kampagne\", bei der hunderte Lkw die Ernte rund um die Uhr zur einzigen verbliebenen Verarbeitungsanlage von Lantic Inc. in Taber transportieren. Die Fabrik verarbeitet die Rüben zu Kristallzucker, Flüssigzucker und Melasse, während die faserigen Reste der Rüben als nahrhaftes Futtermittel für die riesige Rindfleischindustrie Albertas gepresst werden.",
+        "hu": "Dél-Alberta, különösen a Taber városa körüli terület, a kanadai cukorrépa-ipar abszolút központja. Ez az egyetlen régió egész Kanadában, ahol 100 százalékban belföldön termesztett cukorrépából állítanak elő cukrot. A Palliser-háromszögnek nevezett területen való földrajzi elhelyezkedés azt jelenti, hogy a régió természetétől fogva félszáraz (szemi-arid). A cukorrépa nagyüzemi termesztését itt csak a hatalmas öntözőhálózatok 20. század eleji kiépítése tette lehetővé. A régió napsütéses éghajlata, a hosszú, forró nyári nappalok és a hűvös éjszakák kifejezetten elősegítik a szacharóz beépülését a növény masszív gyökerébe, így rendkívül magas cukortartalmat biztosítva. Több mint 200 gazdaság termeszt répát mintegy 28 000 acre (körülbelül 11 300 hektár) területen. A talajbetegségek és a fonálférgek (nematodák) fertőzésének elkerülése érdekében a gazdák szigorú vetésforgót kötelesek betartani; egy ugyanazon a táblán csak négyévente üzemeltethető cukorrépa. Októberben, a betakarításkor kezdődik a \"kampány\", amelynek során teherautók százai éjjel-nappal szállítják a termést a Lantic Inc. egyetlen megmaradt, taberi feldolgozóüzemébe. A gyár a répát kristálycukorrá, folyékony cukorrá és melasszá dolgozza fel, míg a répa rostos maradványait tápláló takarmányként préselik a hatalmas albertai marhahúsipar számára.",
+        "ro": "Sudul Albertei, în special zona din jurul orașului Taber, este centrul absolut al industriei sfeclei de zahăr din Canada. Este singura regiune din întreaga Canada în care 100% din zahărul produs intern este obținut din sfeclă de zahăr. Locația geografică în așa-numitul Triunghi Palliser înseamnă că regiunea este în mod natural semi-aridă. Cultivarea la scară largă a sfeclei de zahăr a fost posibilă aici doar prin construirea de rețele masive de irigații la începutul secolului al XX-lea. Clima însorită a regiunii, cu zilele sale lungi și fierbinți de vară și nopțile răcoroase, promovează în mod specific stocarea zaharozei în rădăcina masivă a plantei, asigurând astfel un conținut extrem de ridicat de zahăr. Peste 200 de ferme cultivă sfeclă pe aproximativ 28.000 de acri (aproximativ 11.300 de hectare). Pentru a evita bolile solului și infestările cu nematode, fermierii sunt obligați să mențină o rotație strictă a culturilor; sfecla de zahăr poate fi plantată pe același câmp doar o dată la patru ani. În octombrie, când sfecla este recoltată, începe „campania”, sute de camioane transportând recolta non-stop la singura unitate de procesare rămasă a Lantic Inc. din Taber. Fabrica procesează sfecla în zahăr granulat, zahăr lichid și melasă, în timp ce resturile fibroase ale sfeclei sunt presate ca hrană nutritivă pentru industria masivă a cărnii de vită din Alberta.",
+        "en": "Southern Alberta, specifically the agricultural district surrounding the town of Taber, is the absolute epicenter of the Canadian sugar beet industry. It holds the unique distinction of being the only region in all of Canada that produces 100 percent domestically grown sugar extracted from sugar beets. Geographically situated within the Palliser Triangle, the region's natural environment is historically semi-arid. The large-scale commercial cultivation of sugar beets was only made possible here through the construction of massive, expansive irrigation networks at the beginning of the 20th century. The region's sun-drenched climate, featuring long, intensely hot summer days paired with cool nights, explicitly forces the plant to store high levels of sucrose deep within its massive taproot, ensuring an exceptionally high sugar yield. More than 200 independent farms cultivate the beets across roughly 28,000 acres (about 11,300 hectares) of land. To strictly prevent soil-borne diseases and nematode infestations, farmers are mandated to utilize aggressive crop rotations; a sugar beet may only be planted in the exact same field once every four years. In October, when the beets are harvested, the intense processing \"campaign\" begins, with hundreds of heavy trucks transporting the crop 24/7 to the sole remaining processing plant owned by Lantic Inc. in Taber. The factory processes the beets into granulated sugar, liquid sugar, and molasses, while the fibrous pulp remnants are pressed and sold as highly nutritious feed for Alberta's massive beef cattle industry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Süd-Alberta ist die einzige Region Kanadas, die heimischen Zucker aus Rüben produziert.",
+          "Der Anbau im halbtrockenen Palliser-Dreieck erfordert massive künstliche Bewässerung.",
+          "Kühle Nächte und heiße Sonnentage erhöhen den Zuckergehalt in den Rüben massiv.",
+          "Über 200 Farmen bewirtschaften eine Rüben-Anbaufläche von etwa 11.300 Hektar.",
+          "Strenge Fruchtfolgen erlauben den Rübenanbau auf demselben Feld nur alle vier Jahre.",
+          "Die gesamte Ernte wird in einer einzigen riesigen Fabrik in der Stadt Taber verarbeitet.",
+          "Die faserigen Überreste der Zuckerrübe dienen der Rinderindustrie als Tierfutter."
+        ],
+        "hu": [
+          "Dél-Alberta az egyetlen kanadai régió, amely hazai répából állít elő cukrot.",
+          "A félszáraz Palliser-háromszögben történő termesztés hatalmas mesterséges öntözést igényel.",
+          "A hűvös éjszakák és a forró, napos nappalok masszívan növelik a répák cukortartalmát.",
+          "Több mint 200 gazdaság mintegy 11 300 hektáron termeszt cukorrépát.",
+          "A szigorú vetésforgó miatt ugyanazon a táblán csak négyévente lehet répát termeszteni.",
+          "A teljes termést egyetlen hatalmas gyárban dolgozzák fel Taber városában.",
+          "A cukorrépa rostos maradványait a szarvasmarhaipar használja fel állati takarmányként."
+        ],
+        "ro": [
+          "Sudul Albertei este singura regiune din Canada care produce zahăr autohton din sfeclă.",
+          "Cultivarea în Triunghiul semi-arid Palliser necesită irigații artificiale masive.",
+          "Nopțile răcoroase și zilele fierbinți însorite cresc masiv conținutul de zahăr din sfeclă.",
+          "Peste 200 de ferme cultivă o suprafață de sfeclă de aproximativ 11.300 de hectare.",
+          "Rotațiile stricte ale culturilor permit cultivarea sfeclei pe același câmp doar o dată la patru ani.",
+          "Întreaga recoltă este procesată într-o singură fabrică uriașă din orașul Taber.",
+          "Rămășițele fibroase ale sfeclei de zahăr servesc ca hrană pentru industria bovinelor."
+        ],
+        "en": [
+          "Southern Alberta is the sole region in Canada producing domestic sugar from sugar beets.",
+          "Cultivation within the semi-arid Palliser Triangle strictly requires massive artificial irrigation.",
+          "Cool nights and intense hot sunny days heavily increase the sucrose concentration in the beets.",
+          "Over 200 independent farms cultivate a total beet area of approximately 11,300 hectares.",
+          "Aggressive crop rotation mandates that beets are grown in the same field only once every four years.",
+          "The entire regional harvest is processed in a single, massive factory located in the town of Taber.",
+          "The remaining fibrous pulp of the sugar beet acts as high-quality feed for the cattle industry."
+        ]
+      }
+    },
+    {
+      "id": "montreal-insectarium-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Insectarium de Montréal ist das größte Insektenmuseum in Nordamerika und ein wesentlicher Bestandteil des Naturkomplexes \"Espace pour la vie\" (Raum für das Leben), der sich in unmittelbarer Nähe des Olympiastadions in Montreal befindet. Die Institution wurde 1990 von dem leidenschaftlichen Notar und autodidaktischen Entomologen Georges Brossard gegründet, der seine massive private Insektensammlung stiftete, um das Museum ins Leben zu rufen. Das Hauptziel der Einrichtung ist es, die oft negative Wahrnehmung von Insekten in der Öffentlichkeit zu verändern und ihre entscheidende ökologische Rolle bei der Bestäubung und im Nahrungsnetz aufzuzeigen. Nach einer mehrjährigen, 38 Millionen Dollar teuren Totalrenovierung wurde das Insectarium im April 2022 wiedereröffnet. Die neue, preisgekrönte Architektur zwingt die Besucher buchstäblich, die Welt aus der Perspektive eines Insekts zu erleben: Der Weg führt durch unterirdische, dunkle Tunnel, die Ameisenbauten nachempfunden sind, und mündet in ein riesiges, lichtdurchflutetes Gewächshaus, in dem Tausende von freifliegenden Schmetterlingen und anderen lebenden Insekten beobachtet werden können. Die Sammlung umfasst mehr als 250.000 präparierte Exemplare sowie hunderte lebende Spezies, darunter Blattschneiderameisen, Riesenkäfer und Gottesanbeterinnen. Das Museum ist zudem stark in Forschungen zur Biodiversität und zum Schutz von Bestäuberinsekten in urbanen Räumen involviert.",
+        "hu": "A Montreali Rovarcsapda (Insectarium de Montréal) Észak-Amerika legnagyobb rovarmúzeuma, és az \"Espace pour la vie\" (Tér az életnek) természettudományi komplexum szerves része, amely a montreali Olimpiai Stadion közvetlen közelében található. Az intézményt 1990-ben alapította a szenvedélyes közjegyző és autodidakta entomológus, Georges Brossard, aki hatalmas magángyűjteményét adományozta a múzeum létrehozására. A létesítmény fő célja, hogy megváltoztassa a rovarokról a társadalomban élő, gyakran negatív képet, és bemutassa a beporzásban és a táplálékláncban betöltött kritikus ökológiai szerepüket. Egy több évig tartó, 38 millió dolláros teljes rekonstrukció után az Insectarium 2022 áprilisában nyitotta meg újra kapuit. Az új, díjnyertes építészeti koncepció szó szerint arra kényszeríti a látogatókat, hogy egy rovar szemszögéből tapasztalják meg a világot: az útvonal sötét, hangyabolyokat idéző föld alatti alagutakon keresztül vezet, majd egy hatalmas, fényárban úszó üvegházban végződik, ahol több ezer szabadon repkedő pillangó és más élő rovar figyelhető meg. A gyűjtemény több mint 250 000 preparált példányt, valamint több száz élő fajt tartalmaz, köztük levélvágó hangyákat, óriásbogarakat és imádkozó sáskákat. A múzeum erősen részt vesz a biológiai sokféleséggel és a beporzó rovarok városi környezetben történő védelmével kapcsolatos kutatásokban is.",
+        "ro": "Insectarium de Montréal este cel mai mare muzeu al insectelor din America de Nord și o parte esențială a complexului natural \"Espace pour la vie\" (Spațiu pentru viață), situat în imediata vecinătate a Stadionului Olimpic din Montreal. Instituția a fost fondată în 1990 de notarul pasionat și entomologul autodidact Georges Brossard, care și-a donat colecția privată masivă de insecte pentru a da viață muzeului. Obiectivul principal al facilității este de a schimba percepția publicului, adesea negativă, asupra insectelor și de a demonstra rolul lor ecologic crucial în polenizare și în rețeaua trofică. După o renovare totală multianuală, în valoare de 38 de milioane de dolari, Insectarium a fost redeschis în aprilie 2022. Noua arhitectură premiată forțează vizitatorii la propriu să experimenteze lumea din perspectiva unei insecte: traseul duce prin tuneluri subterane, întunecate, modelate după cuiburile de furnici, și se termină într-o seră uriașă, inundată de lumină, unde pot fi observate mii de fluturi care zboară liber și alte insecte vii. Colecția include peste 250.000 de exemplare montate, precum și sute de specii vii, inclusiv furnici tăietoare de frunze, gândaci uriași și călugărițe. Muzeul este, de asemenea, puternic implicat în cercetarea biodiversității și în protecția insectelor polenizatoare în zonele urbane.",
+        "en": "The Insectarium de Montréal holds the title as the largest insect museum in North America and forms a core component of the \"Space for Life\" (Espace pour la vie) nature museum complex, located directly adjacent to the Olympic Stadium in Montreal. The institution was originally founded in 1990 by a passionate notary and self-taught entomologist named Georges Brossard, who generously donated his massive private insect collection to establish the museum. The facility's primary mission is to fundamentally alter the public's often negative perception of insects, highlighting their highly critical ecological roles in pollination and the global food web. Following a massive multi-year, $38 million total architectural reconstruction, the Insectarium officially reopened to the public in April 2022. The new, award-winning architectural layout literally forces visitors to experience the physical world from an insect's perspective: the pathway guides guests through dark, subterranean tunnels mimicking ant colonies before emerging into a massive, light-filled glasshouse where thousands of free-flying butterflies and other live insects can be intimately observed. The massive collection encompasses over 250,000 carefully mounted specimens alongside hundreds of living species, including active leafcutter ants, giant beetles, and praying mantises. The museum is heavily involved in advanced biodiversity research and urban pollinator conservation efforts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Museum in Montreal ist das größte seiner Art in ganz Nordamerika.",
+          "Es wurde 1990 von dem autodidaktischen Entomologen Georges Brossard gegründet.",
+          "Nach einem 38 Millionen Dollar teuren Umbau wurde das Museum 2022 wiedereröffnet.",
+          "Die Ausstellungsarchitektur ahmt dunkle, unterirdische Ameisenbauten exakt nach.",
+          "Die Sammlung beherbergt mehr als 250.000 fachgerecht präparierte Insekten.",
+          "Ein großes, lichtdurchflutetes Gewächshaus erlaubt die Beobachtung lebender Schmetterlinge.",
+          "Die Institution forscht aktiv am Schutz von Bestäuberinsekten im städtischen Raum."
+        ],
+        "hu": [
+          "A montreali múzeum a legnagyobb ilyen jellegű intézmény Észak-Amerikában.",
+          "Az épületet 1990-ben Georges Brossard autodidakta entomológus alapította.",
+          "Egy 38 millió dolláros felújítási projekt után a múzeum 2022-ben nyílt meg újra.",
+          "A kiállítási építészet sötét, föld alatti hangyabolyok szerkezetét utánozza le.",
+          "A gyűjtemény több mint 250 000 szakszerűen preparált rovart őriz.",
+          "Egy hatalmas, napfényes üvegház lehetővé teszi élő lepke- és rovarfajok megfigyelését.",
+          "Az intézmény aktívan kutatja a beporzó rovarok védelmét a városi környezetben."
+        ],
+        "ro": [
+          "Muzeul din Montreal este cel mai mare de acest fel din întreaga Americă de Nord.",
+          "A fost fondat în 1990 de entomologul autodidact Georges Brossard.",
+          "După o renovare de 38 de milioane de dolari, muzeul s-a redeschis în anul 2022.",
+          "Arhitectura expoziției imită cuiburile de furnici întunecate și subterane.",
+          "Colecția găzduiește peste 250.000 de insecte preparate cu grijă.",
+          "O seră mare, inundată de lumină, permite observarea fluturilor vii.",
+          "Instituția cercetează activ protecția insectelor polenizatoare în zonele urbane."
+        ],
+        "en": [
+          "The Montreal museum stands as the largest insectarium in all of North America.",
+          "It was originally founded in 1990 by the self-taught entomologist Georges Brossard.",
+          "Following a massive $38 million renovation project, the museum reopened in 2022.",
+          "The specific exhibition architecture mimics dark, subterranean ant colonies.",
+          "The extensive collection houses more than 250,000 professionally mounted insects.",
+          "A massive, sunlit glasshouse allows visitors to observe live, free-flying butterflies.",
+          "The institution actively conducts advanced research on urban pollinator conservation."
+        ]
+      }
+    }
+  ]
+}

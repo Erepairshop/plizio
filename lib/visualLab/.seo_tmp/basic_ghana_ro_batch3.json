@@ -1,0 +1,66 @@
+{
+  "lang": "ro",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "begho-ancient-city-history-v2",
+      "description": "Un fost oraș comercial înfloritor situat la granița dintre zona forestieră și savană, legând rutele de aur.",
+      "facts": ["Fondat în jurul anului 1100", "Centru multietnic de meșteșugari", "Punct terminus pentru caravanele Mande"]
+    },
+    {
+      "id": "kintampo-complex-history-v2",
+      "description": "Un sit arheologic preistoric esențial care oferă dovezi timpurii despre începuturile agriculturii în Africa de Vest.",
+      "facts": ["Datat între 2500 și 1400 î.Hr.", "Descoperiri de topoare din piatră", "Cultura Kintampo a domesticit animale"]
+    },
+    {
+      "id": "prempeh-ii-museum-history-v2",
+      "description": "Muzeul situat în Centrul Cultural Național din Kumasi, expunând regalia și obiecte personale ale foștilor monarhi Asante.",
+      "facts": ["Găzduiește haine ceremoniale regale", "Include replici ale tronurilor Ashanti", "Prezintă bijuterii vechi din aur"]
+    },
+    {
+      "id": "fort-st-jago-history-v2",
+      "description": "O fortăreață olandeză situată pe o colină deasupra Elminei, folosită pentru a proteja Castelul Elmina de atacurile terestre.",
+      "facts": ["Construit în anii 1650", "Cunoscut și sub numele de Fort Coenraadsburg", "Inițial a fost un sit religios portughez"]
+    },
+    {
+      "id": "fort-victoria-cape-coast-history-v2",
+      "description": "Un fort secundar construit pe o colină pentru a oferi protecție suplimentară Castelului Cape Coast.",
+      "facts": ["Ridicat de britanici în 1837", "Cunoscut anterior sub numele de Fort Phipps", "Oferă vedere strategică asupra mării"]
+    },
+    {
+      "id": "fort-mccarthy-history-v2",
+      "description": "O mică fortificație britanică situată pe dealurile din Cape Coast, servind ca punct de observație și apărare.",
+      "facts": ["Construit în anul 1822", "Numit după guvernatorul Charles MacCarthy", "Parte a sistemului defensiv de coastă"]
+    },
+    {
+      "id": "fort-good-hope-history-v2",
+      "description": "Un fort olandez pitoresc situat în Senya Beraku, construit pe un promontoriu stâncos pentru comerț.",
+      "facts": ["Fondat în anul 1667", "Singurul fort olandez în formă de stea", "A servit drept punct de colectare a aurului"]
+    },
+    {
+      "id": "fort-patience-history-v2",
+      "description": "Un fort olandez construit pe un promontoriu în Apam, a cărui construcție a durat neașteptat de mult timp.",
+      "facts": ["Construcție începută în 1697", "Cunoscut și ca Fort Leydsaamheid", "Utilizat ca închisoare și post de vamă"]
+    },
+    {
+      "id": "acacia-forest-savanna-animal-life-v2",
+      "description": "Un ecosistem vital de savană dominat de arbori de acacia, oferind adăpost unei faune diverse în regiunile nordice.",
+      "facts": ["Habitat pentru elefanți și antilope", "Plante rezistente la secetă", "Zonă de pășunat pentru animale sălbatice"]
+    },
+    {
+      "id": "rice-field-north-agri-life-v2",
+      "description": "Câmpuri vaste de orez situate în regiunile de nord ale Ghanei, reprezentând coloana vertebrală a economiei agricole locale.",
+      "facts": ["Recoltă intensivă în sezonul ploios", "Sursă majoră de hrană pentru regiune", "Tehnici tradiționale de irigare utilizate"]
+    },
+    {
+      "id": "keta-lake-nature-v2",
+      "description": "Cea mai mare lagună din Ghana, situată în regiunea Volta, fiind un sit Ramsar protejat de importanță internațională.",
+      "facts": ["Adăpostește numeroase specii de păsări", "Zonă de pescuit artizanal local", "Ecosistem bogat de mangrove"]
+    }
+  ]
+}

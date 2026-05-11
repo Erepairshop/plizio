@@ -1,0 +1,232 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "porto-vale-cavaleiros-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen Vale de Cavaleiros ist das wichtigste maritime Tor der Insel Fogo und liegt etwa vier Kilometer nördlich der Inselhauptstadt São Filipe. Er fungiert als entscheidender Knotenpunkt für den Personen- und Güterverkehr und sichert die Versorgung der rund 35.000 Einwohner der Insel. Da Fogo eine aktive Vulkaninsel mit steilen Küsten ist, stellt der Hafen einen der wenigen sicheren Zugangspunkte dar. Im Jahr 2013 wurde eine umfassende Modernisierung und Erweiterung abgeschlossen, bei der die Kailänge auf 160 Meter erhöht und das Hafenbecken vertieft wurde, um größere Frachtschiffe und moderne Roll-on-Roll-off-Fähren abzufertigen. Wirtschaftlich ist der Hafen für den Export lokaler Spezialitäten von zentraler Bedeutung, insbesondere für den qualitativ hochwertigen Fogo-Kaffee und den in der Chã das Caldeiras produzierten Wein. Er untersteht der nationalen Hafenverwaltung ENAPOR. Die logistische Anbindung an die Hauptstadt Santiago und die Nachbarinsel Brava erfolgt über tägliche Fährverbindungen, die für den regionalen Handel unverzichtbar sind. Die Infrastruktur umfasst spezialisierte Lagerbereiche für Container sowie Treibstofftanks, die für die Energieversorgung des lokalen Kraftwerks notwendig sind.",
+        "hu": "A Vale de Cavaleiros kikötő Fogo szigetének legfontosabb tengeri kapuja, amely körülbelül négy kilométerre északra fekszik a sziget fővárosától, São Filipétől. Döntő jelentőségű csomópontként szolgál a személy- és áruforgalom számára, biztosítva a sziget mintegy 35 000 lakosának ellátását. Mivel Fogo egy aktív vulkáni sziget meredek partokkal, a kikötő az egyike a kevés biztonságos hozzáférési pontnak. 2013-ban fejeződött be egy átfogó modernizáció és bővítés, melynek során a rakpart hosszát 160 méterre növelték, a medencét pedig kimélyítették, hogy fogadni tudják a nagyobb teherhajókat és a modern Ro-Ro kompokat. Gazdaságilag a kikötő központi szerepet játszik a helyi különlegességek exportjában, különösen a kiváló minőségű Fogo kávé és a Chã das Caldeiras-ban termelt bor esetében. Az ENAPOR nemzeti kikötői hatóság felügyelete alá tartozik. A Santiago szigetén lévő fővároshoz és a szomszédos Brava szigetéhez fűződő logisztikai kapcsolatot napi komp járatok biztosítják, amelyek elengedhetetlenek a regionális kereskedelemhez. Az infrastruktúra speciális konténertárolókat és üzemanyagtartályokat is magában foglal, amelyek a helyi erőmű energiaellátásához szükségesek.",
+        "ro": "Portul Vale de Cavaleiros este poarta maritimă principală a insulei Fogo, situat la aproximativ patru kilometri nord de capitala insulei, São Filipe. Acesta funcționează ca un nod crucial pentru traficul de pasageri și mărfuri, asigurând aprovizionarea celor aproximativ 35.000 de locuitori ai insulei. Deoarece Fogo este o insulă vulcanică activă cu coaste abrupte, portul reprezintă unul dintre puținele puncte de acces sigure. În 2013 a fost finalizată o modernizare și extindere cuprinzătoare, în cadrul căreia lungimea cheiului a fost mărită la 160 de metri, iar bazinul portuar a fost adâncit pentru a opera nave de marfă mai mari și feriboturi moderne de tip Ro-Ro. Din punct de vedere economic, portul este de o importanță centrală pentru exportul specialităților locale, în special pentru cafeaua de înaltă calitate din Fogo și vinul produs în Chã das Caldeiras. Acesta se află sub administrarea autorității portuare naționale ENAPOR. Legătura logistică cu capitala Santiago și cu insula vecină Brava este asigurată prin conexiuni zilnice de feribot, indispensabile pentru comerțul regional. Infrastructura include zone de depozitare specializate pentru containere și rezervoare de combustibil necesare pentru alimentarea cu energie a centralei electrice locale.",
+        "en": "The Port of Vale de Cavaleiros is the primary maritime gateway for the island of Fogo, located approximately four kilometers north of the island's capital, São Filipe. It serves as a vital hub for passenger and cargo traffic, ensuring the supply chain for the island's population of roughly 35,000. As Fogo is an active volcanic island with steep, rugged coastlines, the port is one of the few safe access points. A major modernization and expansion project was completed in 2013, increasing the quay length to 160 meters and deepening the harbor basin to accommodate larger cargo vessels and modern roll-on/roll-off (Ro-Ro) ferries. Economically, the port is central to the export of local specialties, particularly premium Fogo coffee and the wine produced in the Chã das Caldeiras region. It is managed by the national port authority, ENAPOR. Logistical links to the capital, Santiago, and the neighboring island of Brava are maintained through daily ferry services, which are indispensable for regional trade. The infrastructure includes specialized container storage areas and fuel depots essential for the operation of the local power plant."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt etwa 4 km nördlich der Stadt São Filipe.",
+          "Wurde 2013 für rund 18 Millionen Euro massiv erweitert.",
+          "Besitzt eine Kailänge von 160 Metern für moderne Ro-Ro-Schiffe.",
+          "Zentraler Exportpunkt für Fogo-Kaffee und lokalen Vulkanwein.",
+          "Wichtigste Lebensader für die Versorgung der 35.000 Inselbewohner.",
+          "Ermöglicht den täglichen Fährverkehr zwischen Fogo und Brava."
+        ],
+        "hu": [
+          "São Filipe városától körülbelül 4 km-re északra található.",
+          "2013-ban közel 18 millió eurós beruházással bővítették.",
+          "160 méter hosszú rakparttal rendelkezik a modern Ro-Ro hajók számára.",
+          "A Fogo kávé és a helyi vulkáni bor központi exporthelyszíne.",
+          "A 35 000 fős szigetlakosság ellátásának legfőbb ütőere.",
+          "Biztosítja a napi kompjáratot Fogo és Brava szigete között."
+        ],
+        "ro": [
+          "Situat la aproximativ 4 km nord de orașul São Filipe.",
+          "A fost extins masiv în 2013 pentru circa 18 milioane de euro.",
+          "Deține un chei cu lungimea de 160 de metri pentru nave Ro-Ro moderne.",
+          "Punct central de export pentru cafeaua Fogo și vinul vulcanic local.",
+          "Cea mai importantă arteră pentru aprovizionarea celor 35.000 de locuitori.",
+          "Permite traficul zilnic de feribot între Fogo și Brava."
+        ],
+        "en": [
+          "Located approximately 4 km north of the town of São Filipe.",
+          "Underwent a massive 18-million-euro expansion completed in 2013.",
+          "Features a 160-meter quay designed for modern Ro-Ro vessels.",
+          "Acts as the central export point for Fogo coffee and volcanic wine.",
+          "Serves as the primary lifeline for the island's 35,000 residents.",
+          "Facilitates the essential daily ferry service between Fogo and Brava."
+        ]
+      }
+    },
+    {
+      "id": "porto-sal-rei-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Sal Rei auf der Insel Boa Vista ist das ökonomische Herzstück der Insel und liegt an deren Nordwestküste. Ursprünglich ein kleiner Verladeplatz für den historischen Salzhandel, hat er sich durch den massiven Ausbau im Jahr 2015 zu einem leistungsfähigen Handelshafen entwickelt. Die Modernisierung war notwendig, um die Logistik für die rasant wachsende Tourismusindustrie und den Bau großflächiger Resortanlagen zu bewältigen. Der Hafen ist durch das vorgelagerte Ilhéu de Sal Rei vor den starken atlantischen Strömungen geschützt, was ihn zu einem der ruhigsten Häfen des Archipels macht. Die Kailänge beträgt heute etwa 160 Meter bei einer Tiefe von bis zu 7 Metern. Er schlägt jährlich zwischen 80.000 und 100.000 Tonnen Fracht um, wobei Baumaterialien, Lebensmittel und Treibstoffe für die lokale Versorgung dominieren. Neben der kommerziellen Schifffahrt dient der Hafen als Anlegestelle für Fähren aus Praia und Sal, was die Insel in das nationale Verkehrsnetz integriert. Die Verwaltung obliegt der ENAPOR. Da Boa Vista über kaum eigene Ressourcen verfügt, ist der Porto de Sal Rei die absolut kritische Infrastruktur für die Existenz der lokalen Wirtschaft und der touristischen Infrastruktur.",
+        "hu": "Boa Vista szigetének tengeri kapuja, Sal Rei kikötője a sziget északnyugati partján fekszik, és a helyi gazdaság legfontosabb láncsszeme. Az eredetileg a történelmi sókereskedelem számára fenntartott kis rakodóhely a 2015-ös jelentős bővítés révén vált korszerű kereskedelmi kikötővé. A modernizáció elengedhetetlen volt a rohamosan fejlődő turisztikai szektor és a hatalmas üdülőkomplexumok építkezéseinek logisztikai kiszolgálásához. A kikötőt a partközeli Ilhéu de Sal Rei sziget védi meg az Atlanti-óceán erős áramlataitól, így ez a szigetvilág egyik legnyugodtabb kikötőhelye. A rakpart hossza ma körülbelül 160 méter, a vízmélység pedig eléri a 7 métert. Évente 80 000 és 100 000 tonna közötti árut kezelnek itt, főként építőanyagokat, élelmiszert és üzemanyagot. A kereskedelmi hajózás mellett a kikötő fogadja a Praiából és Sal szigetéről érkező kompokat is, bekapcsolva Boa Vistát az országos közlekedési hálózatba. Az üzemeltetésért az ENAPOR felel. Mivel Boa Vista alig rendelkezik saját erőforrásokkal, a kikötő abszolút kritikus infrastruktúra a helyi gazdaság és a turisztikai létesítmények fennmaradásához.",
+        "ro": "Portul Sal Rei de pe insula Boa Vista este nucleul economic al insulei și este situat pe coasta sa de nord-vest. Inițial un mic punct de încărcare pentru comerțul istoric cu sare, acesta s-a dezvoltat într-un port comercial eficient prin extinderea masivă din anul 2015. Modernizarea a fost necesară pentru a gestiona logistica industriei turistice în creștere rapidă și construcția complexelor de resorturi pe scară largă. Portul este protejat de curenții atlantici puternici de insula de coastă Ilhéu de Sal Rei, ceea ce îl face unul dintre cele mai liniștite porturi din arhipelag. Lungimea cheiului este astăzi de aproximativ 160 de metri, cu o adâncime de până la 7 metri. Gestionează anual între 80.000 și 100.000 de tone de marfă, dominând materialele de construcție, alimentele și combustibilii pentru aprovizionarea locală. Pe lângă navigația comercială, portul servește ca punct de acostare pentru feriboturile din Praia și Sal, integrând insula în rețeaua națională de transport. Administrarea revine ENAPOR. Deoarece Boa Vista dispune de puține resurse proprii, Porto de Sal Rei este infrastructura absolut critică pentru existența economiei locale și a infrastructurii turistice.",
+        "en": "The Port of Sal Rei on Boa Vista Island is the economic centerpiece of the island, situated on its northwestern coast. Originally a minor loading point for the historic salt trade, it evolved into a high-capacity commercial harbor following a massive expansion in 2015. This modernization was essential to manage the logistics required by the rapidly growing tourism industry and the construction of large-scale resort developments. The port is naturally sheltered from strong Atlantic currents by the offshore Ilhéu de Sal Rei, making it one of the calmest harbors in the archipelago. Today, the quay length is approximately 160 meters with depths up to 7 meters. It processes between 80,000 and 100,000 tons of cargo annually, primarily construction materials, foodstuffs, and fuels for local supply. In addition to commercial shipping, the port serves as a terminal for ferries from Praia and Sal, integrating Boa Vista into the national transportation network. Managed by ENAPOR, the port is the absolute critical infrastructure for the survival of the local economy and the tourism-dependent island infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt geschützt hinter der Insel Ilhéu de Sal Rei.",
+          "Umfassende Modernisierung und Erweiterung im Jahr 2015.",
+          "Umschlagkapazität von ca. 100.000 Tonnen Fracht pro Jahr.",
+          "Wichtigster Versorgungspunkt für den Bau der Tourismus-Resorts.",
+          "Besitzt eine Kailänge von 160 m und 7 m Wassertiefe.",
+          "Regelmäßige Fährverbindungen zu den Inseln Santiago und Sal."
+        ],
+        "hu": [
+          "Védett fekvésű az Ilhéu de Sal Rei szigetnek köszönhetően.",
+          "2015-ben esett át átfogó modernizáción és bővítésen.",
+          "Éves áruforgalma eléri a 100 000 tonnát.",
+          "A turisztikai üdülőhelyek építésének legfőbb logisztikai bázisa.",
+          "160 méter hosszú rakparttal és 7 méteres vízmélységgel bír.",
+          "Rendszeres kompjáratok kötik össze Santiago és Sal szigetével."
+        ],
+        "ro": [
+          "Situat la adăpost în spatele insulei Ilhéu de Sal Rei.",
+          "Modernizare și extindere cuprinzătoare în anul 2015.",
+          "Capacitate de manipulare de circa 100.000 tone de marfă pe an.",
+          "Cel mai important punct de aprovizionare pentru construcția resorturilor.",
+          "Deține un chei de 160 m și o adâncime a apei de 7 m.",
+          "Conexiuni regulate de feribot către insulele Santiago și Sal."
+        ],
+        "en": [
+          "Naturally sheltered by the offshore Ilhéu de Sal Rei islet.",
+          "Underwent a comprehensive modernization and expansion in 2013-2015.",
+          "Handles an average of 100,000 tons of freight per year.",
+          "Critical logistical hub for the construction of major tourism resorts.",
+          "Features a 160-meter quay with a water depth of 7 meters.",
+          "Provides regular ferry links to the islands of Santiago and Sal."
+        ]
+      }
+    },
+    {
+      "id": "porto-tarrafal-sn-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Tarrafal de São Nicolau ist die ökonomische Lunge der Insel São Nicolau und liegt an deren Südwestküste. Er ersetzte im 20. Jahrhundert den historischen Hafen von Preguiça als wichtigsten Handelspunkt der Insel, da er bessere Bedingungen für moderne Schiffe bot. Der Hafen ist das einzige logistische Tor für die Einfuhr von Grundnahrungsmitteln, Treibstoffen und Industriegütern für die gesamte Inselbevölkerung. Im Jahr 2014 wurde der Hafen modernisiert, um den steigenden Anforderungen des Seehandels gerecht zu werden. Die Infrastruktur umfasst einen Kai von etwa 140 Metern Länge und spezialisierte Flächen für die Abfertigung von Containern. Ein wesentlicher wirtschaftlicher Faktor ist der Export von Fischkonserven; die lokale Fabrik nutzt den Hafen massiv für den Versand ihrer Produkte. Zudem ist der Hafen der zentrale Knotenpunkt für die regelmäßigen Fährverbindungen nach Mindelo (São Vicente) und Praia (Santiago). Trotz seiner industriellen Bedeutung bleibt der Hafen ein Ort, an dem auch die traditionelle handwerkliche Fischerei ihren Platz hat. Die Verwaltung wird durch die ENAPOR sichergestellt, die den Hafen als strategisch wichtiges Glied in der Versorgungskette der nördlichen Kapverden einstuft.",
+        "hu": "Tarrafal de São Nicolau kikötője São Nicolau szigetének gazdasági tüdeje, amely a délnyugati parton található. A 20. században vette át a történelmi Preguiça kikötőjének szerepét, mint a sziget legfontosabb kereskedelmi pontja, mivel kedvezőbb feltételeket biztosított a modern hajók számára. Ez az egyetlen logisztikai kapu az alapvető élelmiszerek, üzemanyagok és iparcikkek behozatala számára a teljes szigetlakosság részére. 2014-ben a kikötőt modernizálták, hogy megfeleljen a tengeri kereskedelem növekvő igényeinek. Az infrastruktúra egy körülbelül 140 méter hosszú rakpartot és speciális konténerkezelő területeket foglal magában. Jelentős gazdasági tényező a halkonzerv-export; a helyi gyár tömegesen használja a kikötőt termékei szállítására. Emellett a kikötő a Mindelóba (São Vicente) és Praiába (Santiago) tartó rendszeres kompjáratok központi csomópontja. Ipari jelentősége ellenére a kikötőben a hagyományos kézműves halászat is jelen van. Az üzemeltetést az ENAPOR biztosítja, amely a kikötőt a Zöld-foki-szigetek északi részének ellátási láncában stratégiailag fontos láncsszemként tartja számon.",
+        "ro": "Portul Tarrafal de São Nicolau este plămânul economic al insulei São Nicolau și este situat pe coasta sa de sud-vest. Acesta a înlocuit în secolul al XX-lea portul istoric Preguiça ca cel mai important punct comercial al insulei, deoarece oferea condiții mai bune pentru navele moderne. Portul este singura poartă logistică pentru importul alimentelor de bază, combustibililor și bunurilor industriale pentru întreaga populație a insulei. În anul 2014, portul a fost modernizat pentru a face față cerințelor tot mai mari ale comerțului maritim. Infrastructura include un chei de aproximativ 140 de metri lungime și suprafețe specializate pentru manipularea containerelor. Un factor economic esențial este exportul de conserve de pește; fabrica locală utilizează masiv portul pentru expedierea produselor sale. De asemenea, portul este nodul central pentru conexiunile regulate de feribot către Mindelo (São Vicente) și Praia (Santiago). În ciuda importanței sale industriale, portul rămâne un loc unde și pescuitul artizanal tradițional își are locul. Administrarea este asigurată de ENAPOR, care clasifică portul drept o verigă strategică importantă în lanțul de aprovizionare al nordului Capului Verde.",
+        "en": "The Port of Tarrafal de São Nicolau is the economic lung of São Nicolau Island, situated on its southwestern coast. During the 20th century, it replaced the historic port of Preguiça as the island's primary commercial point, offering superior conditions for modern maritime vessels. The port serves as the sole logistical gateway for the import of staple foods, fuel, and industrial goods for the entire island population. In 2014, the port underwent modernization to meet the increasing demands of regional trade. The infrastructure includes a quay approximately 140 meters long and dedicated areas for container handling. A major economic factor is the export of canned fish; the local canning factory relies heavily on the port for shipping its products. Furthermore, the port is the central hub for regular ferry services to Mindelo (São Vicente) and Praia (Santiago). Despite its industrial importance, the port continues to accommodate traditional artisanal fishing activities. Managed by ENAPOR, it is categorized as a strategically vital link in the supply chain for the northern Cape Verdean islands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster kommerzieller Hafen der Insel São Nicolau.",
+          "Übernahm im 20. Jahrhundert die Rolle des historischen Hafens Preguiça.",
+          "Modernisierung der Hafeneinrichtungen im Jahr 2014 abgeschlossen.",
+          "Verfügt über einen Kai mit einer Länge von 140 Metern.",
+          "Zentraler Knotenpunkt für den Export der lokalen Fischkonservenindustrie.",
+          "Einzige Anlaufstelle für regelmäßige Fähren nach Mindelo und Praia."
+        ],
+        "hu": [
+          "São Nicolau szigetének legfontosabb kereskedelmi kikötője.",
+          "A 20. században vette át a történelmi Preguiça kikötő szerepét.",
+          "A kikötői létesítmények modernizálása 2014-ben fejeződött be.",
+          "140 méter hosszú rakparttal rendelkezik az áruszállításhoz.",
+          "A helyi halkonzervipar termékeinek központi exportpontja.",
+          "A Mindelóba és Praiába tartó rendszeres kompok egyetlen kikötőhelye."
+        ],
+        "ro": [
+          "Cel mai important port comercial al insulei São Nicolau.",
+          "A preluat în secolul al XX-lea rolul portului istoric Preguiça.",
+          "Modernizarea facilităților portuare a fost finalizată în anul 2014.",
+          "Dispune de un chei cu o lungime de 140 de metri.",
+          "Nod central pentru exportul industriei locale de conserve de pește.",
+          "Singurul punct de escală pentru feriboturile regulate către Mindelo și Praia."
+        ],
+        "en": [
+          "The primary commercial port serving the island of São Nicolau.",
+          "Replaced the historic port of Preguiça during the 20th century.",
+          "Modernization of port facilities was successfully completed in 2014.",
+          "Features a main quay with a total length of 140 meters.",
+          "Acts as the central hub for the export-oriented local fish canning industry.",
+          "Sole terminal for regular passenger and freight ferries to Mindelo and Praia."
+        ]
+      }
+    },
+    {
+      "id": "porto-da-furna-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Furna (Porto da Furna) ist die absolute Lebensader der Insel Brava und liegt an deren Nordostküste. Da Brava die einzige bewohnte Kapverden-Insel ohne funktionierenden Flugplatz ist, stellt dieser Hafen die einzige physische Verbindung zur Außenwelt dar. Er ist geografisch in einem tiefen, felsigen Einschnitt gelegen, der einen gewissen Schutz vor der oft rauen atlantischen Brandung bietet. Zwischen 2011 und 2013 wurde der Hafen für rund 15 Millionen Euro umfassend erweitert und modernisiert. Die Arbeiten umfassten den Bau eines neuen Piers mit 165 Metern Länge und die Verbesserung des Passagierbereichs. Wirtschaftlich ist der Hafen zu 100 Prozent für den Import von Lebensmitteln, Baumaterialien und Treibstoffen verantwortlich, die Brava zum Überleben benötigt. Die Wassertiefe von bis zu 8 Metern erlaubt es modernen Schnellfähren und Frachtschiffen, sicher anzulegen. Der Hafen ist das logistische Herzstück für den täglichen Fährverkehr mit der benachbarten Insel Fogo, von der aus die meisten Waren und Touristen kommen. Die Infrastruktur wird von der nationalen Hafenbehörde ENAPOR verwaltet. Die Anbindung an die Inselhauptstadt Nova Sintra erfolgt über eine steile, serpentinenreiche Straße, die direkt am Hafen beginnt.",
+        "hu": "Furna kikötője (Porto da Furna) Brava szigetének abszolút életvonala, amely az északkeleti parton található. Mivel Brava az egyetlen olyan lakott zöld-foki sziget, amely nem rendelkezik működő repülőtérrel, ez a kikötő az egyetlen fizikai összeköttetés a külvilággal. Földrajzilag egy mély, sziklás bevágásban helyezkedik el, amely bizonyos védelmet nyújt a gyakran zord atlanti hullámverés ellen. 2011 és 2013 között a kikötőt mintegy 15 millió eurós beruházással átfogóan kibővítették és korszerűsítették. A munkálatok magukban foglalták egy új, 165 méter hosszú móló építését és az utasterminál fejlesztését. Gazdaságilag a kikötő 100 százalékban felelős az élelmiszerek, építőanyagok és üzemanyagok behozataláért, amelyekre Bravának a túléléshez szüksége van. A 8 méteres vízmélység lehetővé teszi a modern gyorskompok és teherhajók biztonságos kikötését. A kikötő a szomszédos Fogo szigetével bonyolított napi kompjáratok logisztikai központja, ahonnan a legtöbb áru és turista érkezik. Az infrastruktúrát az ENAPOR nemzeti kikötői hatóság kezeli. A sziget fővárosával, Nova Sintrával való összeköttetést egy meredek, szerpentinekkel teli út biztosítja, amely közvetlenül a kikötőnél kezdődik.",
+        "ro": "Portul Furna (Porto da Furna) este linia de supraviețuire absolută a insulei Brava și este situat pe coasta de nord-est. Deoarece Brava este singura insulă locuită din Capul Verde fără un aerodrom funcțional, acest port reprezintă singura legătură fizică cu lumea exterioară. Este situat geografic într-o tăietură adâncă și stâncoasă, care oferă o anumită protecție împotriva valurilor atlantice adesea aspre. Între 2011 și 2013, portul a fost extins și modernizat integral pentru aproximativ 15 milioane de euro. Lucrările au inclus construcția unui nou chei cu lungimea de 165 de metri și îmbunătățirea zonei pentru pasageri. Din punct de vedere economic, portul este responsabil în proporție de 100% pentru importul de alimente, materiale de construcții și combustibili de care Brava are nevoie pentru a supraviețui. Adâncimea apei de până la 8 metri permite feriboturilor rapide și navelor de marfă moderne să acosteze în siguranță. Portul este inima logistică pentru traficul zilnic de feribot cu insula vecină Fogo, de unde provin majoritatea mărfurilor și turiștilor. Infrastructura este administrată de autoritatea portuară națională ENAPOR. Legătura cu capitala insulei, Nova Sintra, este asigurată printr-un drum abrupt, cu multe serpentine, care începe direct de la port.",
+        "en": "The Port of Furna (Porto da Furna) is the absolute lifeline for the island of Brava, located on its northeastern coast. As Brava is the only inhabited island in Cape Verde without a functioning airfield, this port represents the sole physical link to the outside world. Geographically, it is nestled in a deep, rocky inlet that provides some shelter from the often harsh Atlantic swells. Between 2011 and 2013, the port underwent a comprehensive expansion and modernization project costing approximately 15 million euros. The work included constructing a new 165-meter-long pier and upgrading passenger facilities. Economically, the port is 100% responsible for importing the foodstuffs, construction materials, and fuels essential for the island's survival. With a water depth of up to 8 meters, it allows modern fast ferries and cargo ships to dock safely. The port is the logistical heart for daily ferry traffic with the neighboring island of Fogo, the source of most goods and visitors. The infrastructure is managed by the national port authority, ENAPOR. Access to the island's capital, Nova Sintra, is provided via a steep, winding serpentine road that begins directly at the port."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einzige logistische Verbindung Bravas zur Außenwelt (kein Flughafen).",
+          "Modernisierung und Erweiterung zwischen 2011 und 2013.",
+          "Der neue Pier hat eine Länge von insgesamt 165 Metern.",
+          "Wassertiefe von 8 m ermöglicht das Anlegen von Schnellfähren.",
+          "Hafen wickelt 100 % der Inselimporte an Lebensmitteln und Treibstoff ab.",
+          "Täglicher Fährverkehr zur Nachbarinsel Fogo als Hauptverbindung.",
+          "Startpunkt der steilen Serpentinenstraße zur Hauptstadt Nova Sintra."
+        ],
+        "hu": [
+          "Brava egyetlen logisztikai kapcsolata a külvilággal (nincs repülőtér).",
+          "2011 és 2013 között zajlott le a modernizáció és a bővítés.",
+          "Az új móló teljes hossza 165 méter.",
+          "A 8 méteres vízmélység lehetővé teszi gyorskompok fogadását.",
+          "A kikötő bonyolítja le a sziget élelmiszer- és üzemanyag-importjának 100%-át.",
+          "Fő összeköttetése a szomszédos Fogo szigetére induló napi kompjárat.",
+          "A fővárosba, Nova Sintrába vezető meredek szerpentinút kiindulópontja."
+        ],
+        "ro": [
+          "Singura legătură logistică a insulei Brava cu exteriorul (fără aeroport).",
+          "Modernizare și extindere realizată între 2011 și 2013.",
+          "Noul chei are o lungime totală de 165 de metri.",
+          "Adâncimea de 8 m permite acostarea feriboturilor rapide.",
+          "Portul gestionează 100% din importurile de alimente și combustibil.",
+          "Traficul zilnic de feribot către Fogo este principala conexiune.",
+          "Punctul de plecare al drumului abrupt în serpentine către Nova Sintra."
+        ],
+        "en": [
+          "Brava's sole logistical link to the outside world (no functioning airport).",
+          "Subjected to major expansion and modernization between 2011 and 2013.",
+          "Features a modernized quay with a total length of 165 meters.",
+          "An 8-meter water depth allows for safe docking of modern fast ferries.",
+          "Handles 100% of all island imports, including food and fuel.",
+          "Maintains a daily ferry connection to the neighboring island of Fogo.",
+          "Serves as the starting point for the steep serpentine road to Nova Sintra."
+        ]
+      }
+    },
+    {
+      "id": "porto-ingles-maio-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Porto Inglês auf der Insel Maio ist die zentrale wirtschaftliche Infrastruktur der Insel und liegt an ihrer Südwestküste. Historisch war der Hafen im 17. und 18. Jahrhundert ein bedeutender Ort für den Salzexport durch britische Händler, woraus sich der Name 'Englischer Hafen' ableitet. Lange Zeit war der Hafen nur eingeschränkt nutzbar, doch im Jahr 2022 wurde ein massives Modernisierungsprojekt im Wert von über 20 Millionen Euro abgeschlossen. Diese Investition umfasste den Bau zweier neuer Anlegestellen, die Erweiterung der Lagerkapazitäten und die Verbesserung der Ro-Ro-Infrastruktur. Damit wurde Maio erstmals effizient in den nationalen Güter- und Personenverkehr mit Santiago integriert. Wirtschaftlich ist der Hafen entscheidend für den Export von lokalem Steinsalz, Vieh und landwirtschaftlichen Erzeugnissen sowie für die Versorgung mit Baumaterialien für den entstehenden Tourismus. Der Hafen verfügt nun über einen 100 Meter langen Pier und ermöglicht die Abfertigung moderner Fähren bei fast jedem Wetter. Die Verwaltung untersteht der nationalen Hafenbehörde ENAPOR. Die Entwicklung des Hafens gilt als Schlüsselprojekt, um die wirtschaftliche Isolation der Insel Maio zu beenden und das Potenzial für nachhaltigen Tourismus und Agrarexporte zu heben.",
+        "hu": "Maio szigetén, Porto Inglês kikötője a sziget központi gazdasági infrastruktúrája, amely a délnyugati parton található. Történelmileg a 17. és 18. században a brit kereskedők által bonyolított sóexport egyik jelentős helyszíne volt, innen ered az 'Angol kikötő' név. Hosszú ideig a kikötő csak korlátozottan volt használható, de 2022-ben befejeződött egy több mint 20 millió euró értékű masszív modernizációs projekt. Ez a beruházás magában foglalta két új kikötőhely építését, a raktározási kapacitások bővítését és a Ro-Ro infrastruktúra javítását. Ezzel Maio szigete most először vált hatékonyan a nemzeti áru- és személyforgalom részévé Santiago irányába. Gazdaságilag a kikötő döntő fontosságú a helyi kősó, az állatállomány és a mezőgazdasági termékek exportja, valamint a kialakulóban lévő turizmushoz szükséges építőanyagok behozatala szempontjából. A kikötő mostantól 100 méter hosszú mólóval rendelkezik, és szinte bármilyen időjárási körülmények között lehetővé teszi a modern kompok fogadását. Az üzemeltetést az ENAPOR nemzeti kikötői hatóság végzi. A kikötő fejlesztése kulcsprojekt Maio gazdasági elszigeteltségének felszámolásában és a fenntartható turizmusban rejlő lehetőségek kiaknázásában.",
+        "ro": "Portul Porto Inglês de pe insula Maio reprezintă infrastructura economică centrală a insulei și este situat pe coasta de sud-vest a acesteia. Din punct de vedere istoric, portul a fost un loc important pentru exportul de sare de către comercianții britanici în secolele XVII și XVIII, de unde derivă numele de „Portul Englez”. Mult timp, portul a putut fi utilizat doar în mod limitat, însă în 2022 a fost finalizat un proiect masiv de modernizare în valoare de peste 20 de milioane de euro. Această investiție a inclus construcția a două noi dane, extinderea capacităților de depozitare și îmbunătățirea infrastructurii Ro-Ro. Astfel, Maio a fost integrată pentru prima dată eficient în traficul național de mărfuri și pasageri cu Santiago. Din punct de vedere economic, portul este crucial pentru exportul de sare gemă locală, animale și produse agricole, precum și pentru furnizarea de materiale de construcție pentru turismul în curs de dezvoltare. Portul dispune acum de un chei de 100 de metri lungime și permite operarea feriboturilor moderne în aproape orice condiții meteorologice. Administrarea este asigurată de autoritatea portuară națională ENAPOR. Dezvoltarea portului este considerată un proiect cheie pentru a pune capăt izolării economice a insulei Maio și pentru a valorifica potențialul turismului durabil.",
+        "en": "The Port of Porto Inglês on Maio Island is the island's central economic infrastructure, situated on its southwestern coast. Historically, during the 17th and 18th centuries, the port was a significant location for salt exports by British traders, from which the name 'English Port' originates. For a long period, the port had limited functionality, but in 2022, a massive modernization project valued at over 20 million euros was completed. This investment included the construction of two new berths, the expansion of storage capacities, and the improvement of Ro-Ro infrastructure. Consequently, Maio was efficiently integrated into national freight and passenger traffic with Santiago for the first time. Economically, the port is vital for the export of local rock salt, livestock, and agricultural products, as well as for the supply of construction materials for emerging tourism developments. The port now features a 100-meter-long pier and enables the handling of modern ferries in almost all weather conditions. It is managed by the national port authority, ENAPOR. The development of the port is considered a key project to end Maio's economic isolation and to unlock the potential for sustainable tourism and agricultural exports."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Salzhandel mit England gab dem Hafen seinen historischen Namen.",
+          "Abschluss einer 20-Millionen-Euro-Modernisierung im Jahr 2022.",
+          "Verfügt über zwei neue Anlegestellen für den Ro-Ro-Verkehr.",
+          "Pier wurde auf eine nutzbare Länge von 100 Metern erweitert.",
+          "Zentraler Punkt für den Export von lokalem Steinsalz und Vieh.",
+          "Wichtigste Verbindung zur Hauptstadt Praia auf der Insel Santiago.",
+          "Wird von der staatlichen Hafenbehörde ENAPOR verwaltet."
+        ],
+        "hu": [
+          "Az Angliával folytatott sókereskedelem adta a kikötő történelmi nevét.",
+          "2022-ben fejeződött be egy 20 millió eurós modernizációs program.",
+          "Két új kikötőhellyel rendelkezik a Ro-Ro forgalom számára.",
+          "A mólót 100 méteres hasznos hosszúságúra bővítették.",
+          "A helyi kősó és állatállomány exportjának központi helyszíne.",
+          "A Santiago szigetén lévő Praiába tartó legfontosabb útvonal.",
+          "Az ENAPOR állami kikötői hatóság kezelésében áll."
+        ],
+        "ro": [
+          "Comerțul cu sare cu Anglia a dat portului numele său istoric.",
+          "Finalizarea unei modernizări de 20 de milioane de euro în anul 2022.",
+          "Dispune de două noi dane pentru traficul de tip Ro-Ro.",
+          "Cheiul a fost extins la o lungime utilă de 100 de metri.",
+          "Punct central pentru exportul de sare gemă locală și animale.",
+          "Cea mai importantă legătură cu capitala Praia de pe insula Santiago.",
+          "Este administrat de autoritatea portuară de stat ENAPOR."
+        ],
+        "en": [
+          "Historic salt trade with England gave the port its current name.",
+          "Completed a major 20-million-euro modernization project in 2022.",
+          "Features two new berths specifically designed for Ro-Ro traffic.",
+          "The pier was extended to a functional length of 100 meters.",
+          "Primary hub for the export of local rock salt and livestock.",
+          "Main transportation link to the capital city, Praia, on Santiago.",
+          "Operated and managed by the state port authority, ENAPOR."
+        ]
+      }
+    }
+  ]
+}

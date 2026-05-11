@@ -1,0 +1,60 @@
+{
+  "lang": "en",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uy-mo-obelisco-a-los-constituyentes-landmarks-v2",
+      "description": "A tall granite obelisk in Montevideo commemorating the hundredth anniversary of the first Uruguayan Constitution. It stands at the end of the 18 de Julio avenue.",
+      "facts": ["Granite monument", "Built in 1930", "Centenary celebration", "18 de Julio avenue"]
+    },
+    {
+      "id": "uy-mo-mercado-del-puerto-landmarks-v2",
+      "description": "A historic harbor market building featuring an intricate iron structure brought from England in the 19th century. Today it is famous for its traditional parrilla restaurants.",
+      "facts": ["Iron structure", "19th-century origin", "Famous food hub", "Montevideo port"]
+    },
+    {
+      "id": "uy-ma-puente-leonel-viera-landmarks-v2",
+      "description": "An iconic wavy bridge in La Barra known for its distinctive curved design. It was engineered to cross the Maldonado River and is a recognized architectural symbol of the area.",
+      "facts": ["Wavy design", "Maldonado River crossing", "La Barra landmark", "Engineered structure"]
+    },
+    {
+      "id": "uy-mo-wtc-montevideo-landmarks-v2",
+      "description": "A modern commercial complex in the Buceo district representing the financial heart of the capital. Its towers are a hallmark of the city's growing business sector.",
+      "facts": ["Business complex", "Buceo district", "Financial hub", "Modern architecture"]
+    },
+    {
+      "id": "uy-mo-antel-arena-landmarks-v2",
+      "description": "A state-of-the-art multifunctional indoor arena in Montevideo, opened in 2018. It hosts major sporting events, concerts, and conventions.",
+      "facts": ["Multipurpose arena", "Opened in 2018", "Modern technology", "Event center"]
+    },
+    {
+      "id": "uy-ma-faro-jose-ignacio-landmarks-v2",
+      "description": "A prominent lighthouse in the upscale village of José Ignacio. It serves as a navigational aid and a landmark for the coastal tourism area.",
+      "facts": ["Coastal lighthouse", "Tourism landmark", "Navigational aid", "José Ignacio village"]
+    },
+    {
+      "id": "uy-mo-palacio-taranco-landmarks-v2",
+      "description": "A luxurious mansion that now functions as a museum of decorative arts. It was built for the Ortiz de Taranco family in the early 20th century.",
+      "facts": ["Former residence", "Decorative arts museum", "Early 20th century", "Historic mansion"]
+    },
+    {
+      "id": "uy-mo-palacio-santos-landmarks-v2",
+      "description": "An exquisite 19th-century palace that previously served as the presidential residence. It currently houses the Ministry of Foreign Affairs.",
+      "facts": ["19th-century palace", "Former presidential home", "Government building", "Neoclassical style"]
+    },
+    {
+      "id": "cuchilla-de-haedo-relief-v2",
+      "description": "The longest mountain range in Uruguay, extending across the northern part of the country. It serves as a major watershed for surrounding river systems.",
+      "facts": ["Longest range", "Northern Uruguay", "Watershed area", "Uruguayan relief"]
+    },
+    {
+      "id": "sierra-de-las-animas-relief-v2",
+      "description": "A small mountain chain characterized by its rugged peaks and beautiful scenery. It is a popular destination for hikers and nature lovers.",
+      "facts": ["Mountain chain", "Rugged peaks", "Hiking destination", "Natural landmark"]
+    }
+  ]
+}

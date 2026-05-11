@@ -1,0 +1,29 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Fincas de cafea din Chiapas sunt renumite pentru cafeaua organică cultivată la altitudini mari în pădurile montane.",
+      "facts": ["Statul Chiapas", "Cafea organică", "Altitudini mari", "Păduri montane"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Oaxaca este inima producției de mezcal, cu plantații vaste de agave tradiționale folosite în distilare.",
+      "facts": ["Statul Oaxaca", "Producție mezcal", "Agave tradiționale", "Tradiții artizanale"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Michoacán este principalul producător mondial de avocado, datorită solului său vulcanic fertil și climei favorabile.",
+      "facts": ["Statul Michoacán", "Lider mondial avocado", "Sol vulcanic fertil", "Climat favorabil"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Sinaloa este o regiune agricolă cheie, cunoscută pentru producția sa vastă de mango de înaltă calitate.",
+      "facts": ["Statul Sinaloa", "Producție mango", "Regiune agricolă", "Export fructe"]
+    }
+  ]
+}

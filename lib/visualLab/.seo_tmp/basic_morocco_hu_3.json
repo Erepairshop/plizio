@@ -1,0 +1,55 @@
+{
+  "lang": "hu",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Az Oued ed-Dahab folyóvölgye, amely fontos tengeri öbölhöz kapcsolódik.",
+      "facts": ["Folyóvölgy", "Atlanti-partvidék", "Tengeri öböl", "Sivatagi régió"]
+    },
+    {
+      "id": "cap-ghir-nature-v2",
+      "description": "Egy festői fok az Atlanti-óceán partján, látványos sziklákkal és szörfös közösséggel.",
+      "facts": ["Atlanti-óceán", "Sziklás part", "Szörfparadicsom", "Világítótorony"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "Az Nfiss folyó völgye, amely az Atlasz-hegységből táplálkozik és termékennyé teszi a tájat.",
+      "facts": ["Atlasz-hegység", "Folyóvölgy", "Termékeny vidék", "Öntözés"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "A Tensift folyó torkolatvidéke az Atlanti-óceánnál, fontos madárélőhely.",
+      "facts": ["Torkolatvidék", "Atlanti-óceán", "Madárélőhely", "Vizes terület"]
+    },
+    {
+      "id": "guelmim-plains-relief-v2",
+      "description": "A Guelmim környéki síkságok, amelyek átmenetet képeznek a sivatag felé.",
+      "facts": ["Síkság", "Sivatagi átmenet", "Berber régió", "Geológiai formáció"]
+    },
+    {
+      "id": "figuig-oasis-relief-v2",
+      "description": "Egy izolált oázis a sivatag mélyén, hegyekkel körbevéve.",
+      "facts": ["Oázis", "Sivatag", "Hegyes vidék", "Határvidék"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "Moulay Idriss szent városa, amely látványos dombvidéken terül el.",
+      "facts": ["Dombvidék", "Szent város", "Panoráma", "Történelmi helyszín"]
+    },
+    {
+      "id": "atlas-foothills-relief-v2",
+      "description": "Az Atlasz-hegység lábánál elterülő, változatos domborzatú terület.",
+      "facts": ["Atlasz-hegység", "Dombvidék", "Mezőgazdaság", "Geológia"]
+    },
+    {
+      "id": "oued-tensift-valley-relief-v2",
+      "description": "A Tensift folyó völgye, amely Marokkó egyik fontos mezőgazdasági régiója.",
+      "facts": ["Folyóvölgy", "Mezőgazdaság", "Termékeny talaj", "Atlasz-hegység"]
+    }
+  ]
+}

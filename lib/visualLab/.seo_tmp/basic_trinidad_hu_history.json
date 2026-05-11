@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-spanishtown-ruins-history-v2",
+      "description": "Spanish Town romjai a spanyol gyarmati időszak építészeti hagyományait őrzik a szigeten. A maradványok bepillantást nyújtanak a korabeli településszerkezetbe és életmódba.",
+      "facts": ["Spanyol gyarmati korszak", "Építészeti emlékek", "Történelmi romok"]
+    },
+    {
+      "id": "tt-dutch-settlement-site-history-v2",
+      "description": "Ez a terület a korai holland betelepülések egyik ismert helyszíne, amely a kereskedelmi kapcsolatok történelmi jelentőségét mutatja. A régészeti feltárások fontos leletekkel gazdagították a tudást.",
+      "facts": ["Holland betelepülések", "Történelmi kereskedelem", "Régészeti helyszín"]
+    },
+    {
+      "id": "tt-military-hospital-ruins-history-v2",
+      "description": "Az egykori katonai kórház romjai a gyarmati haderő egészségügyi infrastruktúrájának részét képezték. A maradványok a korszak orvosi körülményeire utalnak.",
+      "facts": ["Katonai kórház romjai", "Gyarmati egészségügy", "Történelmi infrastruktúra"]
+    },
+    {
+      "id": "tt-sugar-refinery-history-v2",
+      "description": "A cukorfinomító romjai a sziget egykori vezető cukoriparának fontos emlékei. Ezek az építmények a nagyüzemi mezőgazdasági feldolgozás fénykorát képviselik.",
+      "facts": ["Cukorfinomító romjai", "Mezőgazdasági örökség", "Ipari történelem"]
+    },
+    {
+      "id": "tt-spanish-garrison-history-v2",
+      "description": "A spanyol helyőrség egykori bázisának maradványai a sziget védelmi vonalának részét képezték a gyarmati konfliktusok során. A terület ma történelmi emlékhely.",
+      "facts": ["Spanyol helyőrség", "Védelmi infrastruktúra", "Gyarmati történelem"]
+    },
+    {
+      "id": "tt-indigo-vat-history-v2",
+      "description": "Az indigófeldolgozó kádak maradványai a sziget egykori festékanyag-termeléséről tanúskodnak. A létesítmények a korai ipari kezdeményezések emlékei.",
+      "facts": ["Indigófeldolgozás", "Festékanyag-termelés", "Ipari emlékek"]
+    },
+    {
+      "id": "tt-tobago-sugar-works-history-v2",
+      "description": "Ez a komplexum Tobago szigetének jelentős cukoripari létesítménye volt a 18. és 19. században. Ma az épületek a sziget agrártörténetének fontos tanúi.",
+      "facts": ["Tobago cukoripar", "Agrártörténelem", "18-19. század"]
+    },
+    {
+      "id": "tt-spanish-fort-tobago-history-v2",
+      "description": "Az egykori spanyol erőd maradványai Tobago szigetén a korabeli európai hatalmi harcokról tanúskodnak. A stratégiai helyszín ma már látogatható történelmi emlék.",
+      "facts": ["Spanyol erőd", "Tobago szigete", "Hatalmi harcok", "Történelmi emlék"]
+    },
+    {
+      "id": "tt-plantation-hospital-history-v2",
+      "description": "A hajdani ültetvényi kórház épületének romjai a korabeli munkaerő-egészségügyi viszonyokra világítanak rá. Az épület a mezőgazdasági életmód szomorú emléke.",
+      "facts": ["Ültetvényi kórház", "Munkaegészségügyi viszonyok", "Mezőgazdasági emlék"]
+    },
+    {
+      "id": "tt-fort-james-history-v2",
+      "description": "Fort James erődje az egyik legfontosabb védelmi létesítmény volt Tobago északi partvidékén. A történelmi erődítmény stratégiai elhelyezkedése lehetővé tette a környező vizek ellenőrzését.",
+      "facts": ["Tobago északi partja", "Védelmi erődítmény", "Stratégiai pont"]
+    }
+  ]
+}

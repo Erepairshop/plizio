@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "magnetic-hill-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Magnetic Hill Zoo befindet sich in Moncton, New Brunswick, und ist flächenmäßig der größte zoologische Park im atlantischen Kanada. Die Einrichtung wurde im Jahr 1953 ursprünglich als Wildfarm für verwaiste und verletzte einheimische Tiere gegründet. Heute erstreckt sich das Gelände über 16 Hektar (etwa 40 Acres) und beherbergt eine vielfältige Sammlung von rund 400 Tieren, die über 70 verschiedene einheimische und exotische Arten repräsentieren. Das Areal ist in vier spezifische geografische Zonen unterteilt: Amerika, Afrika, Asien und ein spezielles Entdeckungszentrum. Die Anlage ist vollständig von der Canadian Association of Zoos and Aquariums (CAZA) akkreditiert und engagiert sich intensiv in Artenschutzprogrammen. Zu den bedeutendsten Arten, die hier gepflegt werden, gehören der Amurtiger, Schwarz-weiße Varis und verschiedene madagassische Lemuren. Der Zoo hat im letzten Jahrzehnt umfassende Modernisierungsmaßnahmen durchgeführt, um veraltete Käfige durch weitläufige, naturalistische Gehege zu ersetzen, wobei das Amurtiger-Gehege für sein innovatives Design landesweit ausgezeichnet wurde. Ein Großteil der Finanzierung stammt von der Stadtverwaltung Moncton sowie aus den Einnahmen durch Eintrittsgelder und die Unterstützung der Organisation \"Friends of the Magnetic Hill Zoo\". Die Bildungsprogramme konzentrieren sich auf den Erhalt der biologischen Vielfalt und die Bekämpfung von Lebensraumverlusten. Die geografischen Koordinaten der Einrichtung lauten 46,13°N, 64,88°W.",
+        "hu": "A Magnetic Hill Zoo a New Brunswick tartománybeli Moncton városában található, és területét tekintve a legnagyobb zoológiai park Kanada atlanti régiójában. A létesítményt 1953-ban alapították, eredetileg az árva és sérült őshonos állatok menedékhelyeként szolgáló vadasparkként. Napjainkban a terület 16 hektárt (mintegy 40 acre) foglal magába, és egy változatos, körülbelül 400 állatból álló gyűjteménynek ad otthont, amelyek több mint 70 különböző hazai és egzotikus fajt képviselnek. A komplexum négy specifikus földrajzi zónára oszlik: Amerika, Afrika, Ázsia és egy speciális felfedezőközpont. A park a Kanadai Állatkertek és Akváriumok Szövetségének (CAZA) teljes körű akkreditációjával rendelkezik, és intenzíven részt vesz különböző fajmegőrzési programokban. Az itt gondozott legjelentősebb fajok közé tartozik az amuri tigris, a fekete-fehér vari és a különböző madagaszkári makik. Az állatkert az elmúlt évtizedben átfogó modernizációs intézkedéseket hajtott végre, hogy az elavult ketreceket tágas, naturalisztikus kifutókra cserélje; ennek során az amuri tigrisek kifutója innovatív kialakításáért országos elismerést kapott. A finanszírozás nagy része Moncton város önkormányzatától, valamint a belépőjegyekből származó bevételekből és a \"Friends of the Magnetic Hill Zoo\" nevű szervezet támogatásából származik. Az oktatási programok a biológiai sokféleség megőrzésére fókuszálnak. Földrajzi koordinátái: é. sz. 46,13°, ny. h. 64,88°.",
+        "ro": "Grădina Zoologică Magnetic Hill este situată în Moncton, New Brunswick, și este, ca suprafață, cel mai mare parc zoologic din Canada Atlantică. Facilitatea a fost fondată în anul 1953, inițial ca o fermă de animale sălbatice pentru animalele native orfane și rănite. Astăzi, terenul se întinde pe 16 hectare (aproximativ 40 de acri) și găzduiește o colecție diversă de aproximativ 400 de animale, reprezentând peste 70 de specii diferite, autohtone și exotice. Situl este împărțit în patru zone geografice specifice: America, Africa, Asia și un centru special de descoperire. Parcul este complet acreditat de Asociația Grădinilor Zoologice și Acvariilor din Canada (CAZA) și este intens implicat în programele de conservare a speciilor. Printre cele mai importante specii îngrijite aici se numără tigrul de Amur, lemurul cu guler alb și negru și diverși lemuri de Madagascar. În ultimul deceniu, grădina zoologică a implementat măsuri ample de modernizare pentru a înlocui cuștile învechite cu habitate spațioase, naturaliste; în acest proces, incinta tigrilor de Amur a primit recunoaștere națională pentru designul său inovator. O mare parte din finanțare provine de la municipalitatea din Moncton, precum și din veniturile din bilete și sprijinul organizației „Friends of the Magnetic Hill Zoo”. Programele educaționale se concentrează pe conservarea biodiversității. Coordonatele geografice sunt 46,13°N, 64,88°V.",
+        "en": "The Magnetic Hill Zoo is located in Moncton, New Brunswick, and stands as the largest zoological park in Atlantic Canada by land area. The facility was originally established in 1953 as a game farm dedicated to providing sanctuary for orphaned and injured native wildlife. Today, the expansive grounds cover 16 hectares (approximately 40 acres) and house a diverse collection of roughly 400 animals representing over 70 distinct domestic and exotic species. The area is structurally divided into four specific geographic zones: Americas, Africa, Asia, and a dedicated Discovery Centre. The facility holds full accreditation from the Canadian Association of Zoos and Aquariums (CAZA) and is heavily engaged in numerous species survival and conservation programs. Among the most significant species cared for here are the Amur tiger, black-and-white ruffed lemurs, and various other Madagascan lemur species. Over the past decade, the zoo has executed comprehensive modernization efforts to systematically replace outdated cages with spacious, naturalistic enclosures; notably, the Amur tiger habitat received national recognition for its innovative design. A substantial portion of the operational funding is provided by the City of Moncton, supplemented by admission revenues and crucial support from the \"Friends of the Magnetic Hill Zoo\" organization. Educational programs focus intensely on biodiversity conservation and habitat loss prevention. The geographic coordinates are 46.13°N, 64.88°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park wurde 1953 ursprünglich als Auffangstation für verwaiste Tiere gegründet.",
+          "Das Gelände erstreckt sich über eine Fläche von rund 16 Hektar.",
+          "Es ist der flächenmäßig größte zoologische Garten im atlantischen Kanada.",
+          "Die Einrichtung beheimatet über 400 Tiere aus 70 verschiedenen Arten.",
+          "Das Amurtiger-Gehege gewann nationale Preise für sein Design.",
+          "Der Zoo ist vollständig durch die CAZA akkreditiert.",
+          "Ein großer Teil der Finanzierung wird von der Stadt Moncton getragen."
+        ],
+        "hu": [
+          "A parkot 1953-ban eredetileg az árva állatok menedékhelyeként alapították.",
+          "Az állatkert területe hozzávetőlegesen 16 hektárt foglal magába.",
+          "Ez a legnagyobb kiterjedésű állatkert az atlanti kanadai régióban.",
+          "A létesítmény több mint 400 állatot gondoz 70 különböző fajból.",
+          "Az amuri tigrisek kifutója országos formatervezési díjakat nyert.",
+          "Az állatkert teljes körű CAZA akkreditációval rendelkezik.",
+          "A finanszírozás jelentős részét Moncton városa biztosítja."
+        ],
+        "ro": [
+          "Parcul a fost fondat în 1953 ca refugiu pentru animalele sălbatice orfane.",
+          "Terenul se întinde pe o suprafață de aproximativ 16 hectare.",
+          "Este, ca suprafață, cea mai mare grădină zoologică din Canada Atlantică.",
+          "Facilitatea găzduiește peste 400 de animale din 70 de specii diferite.",
+          "Incinta tigrilor de Amur a câștigat premii naționale pentru design.",
+          "Grădina zoologică deține o acreditare completă din partea CAZA.",
+          "O mare parte a finanțării este asigurată de orașul Moncton."
+        ],
+        "en": [
+          "The park was originally founded in 1953 as a sanctuary for orphaned animals.",
+          "The zoo grounds cover a total area of approximately 16 hectares.",
+          "It is the largest zoological park in Atlantic Canada by physical land area.",
+          "The facility accommodates over 400 animals from 70 different species.",
+          "The Amur tiger enclosure won national awards for its innovative design.",
+          "The institution is fully accredited by the Canadian Association of Zoos and Aquariums.",
+          "A substantial portion of its operational funding is provided by the City of Moncton."
+        ]
+      }
+    },
+    {
+      "id": "pei-potato-farming-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kartoffelanbau auf der Prince Edward Island (PEI) ist der wichtigste landwirtschaftliche und wirtschaftliche Motor dieser kanadischen Provinz. PEI produziert jährlich etwa 25 Prozent der gesamten Kartoffelernte Kanadas, obwohl sie die kleinste Provinz des Landes ist. Die idealen Anbaubedingungen basieren auf den charakteristischen roten, eisenhaltigen und sandigen Lehmböden, die auf einer Grundschicht aus rotem Sandstein ruhen. Diese Bodenstruktur gewährleistet eine hervorragende Wasserableitung und eine schnelle Erwärmung im Frühjahr. Die klimatischen Bedingungen, geprägt durch warme Sommer, angemessene Niederschläge und die moderierenden Einflüsse des Golfs von St. Lorenz, begünstigen das Wachstum der Knollen erheblich. Der Anbau reicht bis in das späte 18. Jahrhundert zurück und wird heute auf etwa 86.000 Acres (circa 34.800 Hektar) Land betrieben. Die Industrie generiert jährlich eine direkte und indirekte Wirtschaftsleistung von über einer Milliarde kanadischen Dollar. Die Sorte Russet Burbank dominiert die Produktion und wird primär für die Herstellung von Pommes frites und anderen verarbeiteten Produkten genutzt. Neben den Speise- und Verarbeitungskartoffeln ist PEI weltweit bekannt für die Produktion streng zertifizierter Saatkartoffeln, die aufgrund der insularen Isolation und strenger Quarantänevorschriften eine hohe Resistenz gegen bodenbürtige Krankheiten aufweisen und in zahlreiche Länder exportiert werden. Die Kartoffelbehörde der Provinz regelt die Vermarktung und fördert strenge Fruchtfolgen, um die Bodengesundheit langfristig zu erhalten.",
+        "hu": "A Prince Edward-szigeti (PEI) burgonyatermesztés e kanadai tartomány legfontosabb mezőgazdasági és gazdasági motorja. A PEI évente a teljes kanadai burgonyatermés mintegy 25 százalékát adja, noha az ország legkisebb tartománya. Az ideális termesztési feltételek a jellegzetes vörös, vasban gazdag és homokos vályogtalajon alapulnak, amely egy vörös homokkő alaprétegen nyugszik. Ez a talajszerkezet kiváló vízelvezetést és gyors tavaszi felmelegedést biztosít. A meleg nyarakkal, megfelelő csapadékkal és a Szent Lőrinc-öböl mérséklő hatásával jellemezhető éghajlati viszonyok jelentősen kedveznek a gumók növekedésének. A termesztés a 18. század végéig nyúlik vissza, és napjainkban mintegy 86 000 acre (körülbelül 34 800 hektár) földterületen folyik. Az iparág évente több mint egymilliárd kanadai dollár közvetlen és közvetett gazdasági teljesítményt generál. A termelést a Russet Burbank fajta dominálja, amelyet elsősorban hasábburgonya és egyéb feldolgozott termékek gyártására használnak. Az étkezési és feldolgozóipari burgonya mellett a PEI világszerte ismert a szigorúan tanúsított vetőburgonya termeléséről is, amely a szigeti elszigeteltségnek és a szigorú karanténelőírásoknak köszönhetően magas rezisztenciát mutat a talajból terjedő betegségekkel szemben, és számos országba exportálják. A tartomány burgonyahivatala szabályozza az értékesítést, és szigorú vetésforgót ír elő a talaj egészségének hosszú távú megőrzése érdekében.",
+        "ro": "Cultivarea cartofilor în Insula Prințului Edward (PEI) este cel mai important motor agricol și economic al acestei provincii canadiene. PEI produce anual aproximativ 25% din recolta totală de cartofi a Canadei, deși este cea mai mică provincie a țării. Condițiile ideale de cultivare se bazează pe solurile argilo-nisipoase caracteristice, roșii și bogate în fier, care se sprijină pe un strat de bază din gresie roșie. Această structură a solului asigură un drenaj excelent și o încălzire rapidă în primăvară. Condițiile climatice, caracterizate de veri calde, precipitații adecvate și influențele moderatoare ale Golfului Sfântului Laurențiu, favorizează considerabil creșterea tuberculilor. Cultivarea datează de la sfârșitul secolului al XVIII-lea și se desfășoară în prezent pe aproximativ 86.000 de acri (circa 34.800 de hectare) de teren. Industria generează anual un impact economic direct și indirect de peste un miliard de dolari canadieni. Soiul Russet Burbank domină producția și este utilizat în principal pentru producția de cartofi prăjiți și alte produse procesate. Pe lângă cartofii de consum și de procesare, PEI este cunoscută la nivel mondial pentru producția de cartofi de sămânță strict certificați, care, datorită izolării insulare și reglementărilor stricte de carantină, prezintă o rezistență ridicată la bolile din sol și sunt exportați în numeroase țări. Consiliul provincial al cartofului reglementează comercializarea și promovează rotația strictă a culturilor pentru a menține sănătatea solului.",
+        "en": "Potato farming on Prince Edward Island (PEI) is the paramount agricultural and economic driver of this Canadian province. PEI consistently produces approximately 25 percent of Canada's total potato crop annually, despite being the smallest province in the country by land area. The ideal growing conditions are deeply rooted in the island's characteristic red, iron-rich, sandy loam soils, which rest upon a foundation of red sandstone. This specific soil structure ensures excellent water drainage and rapid thermal warming during the spring months. The climatic conditions, characterized by warm summers, adequate rainfall, and the moderating oceanic influences of the Gulf of St. Lawrence, heavily favor tuber development. Commercial farming dates back to the late 18th century and is currently practiced on roughly 86,000 acres (about 34,800 hectares) of land. The industry generates a direct and indirect economic output exceeding one billion Canadian dollars annually. The Russet Burbank variety dominates production, primarily utilized for manufacturing french fries and other processed food products. Beyond table and processing potatoes, PEI is globally renowned for its production of strictly certified seed potatoes. Due to the natural insular isolation and highly stringent quarantine regulations, these seed potatoes maintain high resistance to soil-borne diseases and are exported internationally. The provincial potato board regulates marketing and enforces strict crop rotation protocols to maintain long-term soil health."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Insel produziert jährlich etwa 25 Prozent der gesamten kanadischen Kartoffelernte.",
+          "Der Boden der Insel ist für seinen hohen Eisengehalt und seine rote Farbe bekannt.",
+          "Kartoffeln werden auf einer Fläche von rund 34.800 Hektar angebaut.",
+          "Die Industrie generiert über eine Milliarde CAD an Wirtschaftsleistung pro Jahr.",
+          "Die meistangebaute Sorte ist die Russet Burbank für die industrielle Verarbeitung.",
+          "Die Insel exportiert krankheitsresistente Saatkartoffeln in zahlreiche Länder.",
+          "Der kommerzielle Anbau in der Region begann bereits im späten 18. Jahrhundert."
+        ],
+        "hu": [
+          "A sziget évente a teljes kanadai burgonyatermés körülbelül 25 százalékát adja.",
+          "A terület talaja magas vastartalmáról és jellegzetes vörös színéről ismert.",
+          "A burgonyát mintegy 34 800 hektárnyi mezőgazdasági területen termesztik.",
+          "Az iparág évi több mint egymilliárd kanadai dollár gazdasági hasznot hajt.",
+          "A leggyakrabban termesztett fajta az ipari feldolgozásra szánt Russet Burbank.",
+          "A sziget betegség-ellenálló vetőburgonyát exportál a világ számos országába.",
+          "A kereskedelmi célú termesztés a régióban már a 18. század végén elkezdődött."
+        ],
+        "ro": [
+          "Insula produce anual aproximativ 25% din recolta totală de cartofi a Canadei.",
+          "Solul insulei este cunoscut pentru conținutul său ridicat de fier și culoarea roșie.",
+          "Cartofii sunt cultivați pe o suprafață de aproximativ 34.800 de hectare.",
+          "Industria generează peste un miliard de dolari canadieni anual pentru economie.",
+          "Cel mai cultivat soi este Russet Burbank, destinat procesării industriale.",
+          "Insula exportă cartofi de sămânță rezistenți la boli în numeroase țări.",
+          "Cultivarea comercială în regiune a început încă de la sfârșitul secolului al XVIII-lea."
+        ],
+        "en": [
+          "The island produces approximately 25 percent of the total Canadian potato crop annually.",
+          "The regional soil is famous for its high iron content and characteristic red color.",
+          "Potatoes are commercially cultivated across roughly 34,800 hectares of land.",
+          "The potato industry generates over one billion CAD in economic output per year.",
+          "The Russet Burbank is the dominant variety, grown primarily for industrial processing.",
+          "The province exports highly certified, disease-resistant seed potatoes globally.",
+          "Commercial potato farming on the island dates back to the late 18th century."
+        ]
+      }
+    },
+    {
+      "id": "niagara-icewine-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Niagara-Halbinsel in der Provinz Ontario ist das globale Epizentrum der Eisweinproduktion. Kanada ist der weltweit größte Produzent von Eiswein, und über 80 Prozent davon stammen aus dieser spezifischen Region. Das einzigartige Mikroklima wird maßgeblich durch den Ontariosee und die Niagara-Schichtstufe (Niagara Escarpment) bestimmt. Der tiefe See fungiert im Herbst als Wärmespeicher, der die Vegetationsperiode verlängert, während die Schichtstufe die kalten Winterwinde einfängt, die für das schnelle Gefrieren der Trauben unerlässlich sind. Die Produktion wird streng von der Vintners Quality Alliance (VQA) reguliert. Laut Gesetz dürfen die Trauben erst geerntet werden, wenn die Temperaturen am Rebstock auf natürliche Weise -8 °C (17 °F) oder noch tiefer fallen. Die Lese findet typischerweise in den kalten Nächten zwischen Dezember und Februar statt. Durch das Gefrieren des Wassers in den Beeren konzentrieren sich Zucker, Säuren und Extrakte in einem winzigen Tropfen hochviskosen Mostes, der sofort gepresst werden muss. Für die Herstellung werden vor allem die Rebsorten Vidal Blanc, Riesling und Cabernet Franc verwendet. Die kommerzielle Produktion begann 1984 durch das Weingut Inniskillin, das 1991 mit seinem Vidal Icewine den renommierten Grand Prix d'Honneur auf der Vinexpo in Bordeaux gewann und die Region international bekannt machte. Aufgrund der extrem niedrigen Erträge und des hohen Arbeitsaufwands gehört Eiswein zu den teuersten Dessertweinen der Welt. Die Exportmärkte konzentrieren sich stark auf asiatische Länder, in denen kanadischer Eiswein als Luxusgut gilt.",
+        "hu": "Az Ontario tartománybeli Niagara-félsziget a jégbortermelés globális központja. Kanada a világ legnagyobb jégbortermelője, és a mennyiség több mint 80 százaléka ebből a specifikus régióból származik. Az egyedülálló mikroklímát alapvetően az Ontario-tó és a Niagara-lépcső (Niagara Escarpment) határozza meg. A mély vizű tó ősszel hőtárolóként funkcionál, amely meghosszabbítja a vegetációs időszakot, míg a sziklalépcső felfogja a hideg téli szeleket, amelyek elengedhetetlenek a szőlő gyors megfagyásához. A termelést a Vintners Quality Alliance (VQA) szigorúan szabályozza. A törvény értelmében a szőlőt csak akkor szabad betakarítani, ha a hőmérséklet a tőkéken természetes módon -8 °C-ra (17 °F) vagy annál alacsonyabbra süllyed. A szüret jellemzően a december és február közötti fagyos éjszakákon zajlik. A bogyókban lévő víz megfagyásával a cukor, a savak és a kivonatok egy apró csepp, rendkívül sűrű mustban koncentrálódnak, amelyet azonnal ki kell sajtolni. A gyártáshoz elsősorban Vidal Blanc, Riesling és Cabernet Franc szőlőfajtákat használnak. A kereskedelmi termelést 1984-ben az Inniskillin pincészet kezdte meg, amely 1991-ben Vidal jégborával elnyerte a rangos Grand Prix d'Honneur díjat a bordeaux-i Vinexpón, ezzel nemzetközi hírnevet szerezve a régiónak. A rendkívül alacsony hozamok és a nagy munkaigény miatt a jégbor a világ legdrágább desszertborai közé tartozik. Az exportpiacok erősen az ázsiai országokra koncentrálódnak, ahol a kanadai jégbort luxuscikknek tekintik.",
+        "ro": "Peninsula Niagara din provincia Ontario este epicentrul global al producției de icewine (vin de gheață). Canada este cel mai mare producător mondial de icewine, iar peste 80% din acesta provine din această regiune specifică. Microclimatul unic este determinat în mare măsură de Lacul Ontario și de Escarpamentul Niagara. Lacul adânc acționează ca un rezervor de căldură în toamnă, prelungind sezonul de creștere, în timp ce escarpamentul captează vânturile reci de iarnă esențiale pentru înghețarea rapidă a strugurilor. Producția este strict reglementată de Vintners Quality Alliance (VQA). Conform legii, strugurii nu pot fi recoltați decât atunci când temperaturile pe vița de vie scad natural la -8 °C (17 °F) sau chiar mai jos. Recolta are loc de obicei în nopțile reci între decembrie și februarie. Prin înghețarea apei din boabe, zahărul, acizii și extractele se concentrează într-o picătură minusculă de must extrem de vâscos, care trebuie presat imediat. Pentru producție se folosesc în principal soiurile de struguri Vidal Blanc, Riesling și Cabernet Franc. Producția comercială a început în 1984 prin crama Inniskillin, care în 1991 a câștigat prestigiosul Grand Prix d'Honneur la Vinexpo din Bordeaux cu Vidal Icewine, făcând regiunea cunoscută pe plan internațional. Datorită randamentelor extrem de scăzute și forței de muncă intense, icewine este unul dintre cele mai scumpe vinuri de desert din lume. Piețele de export se concentrează puternic pe țările asiatice, unde vinul de gheață canadian este considerat un bun de lux.",
+        "en": "The Niagara Peninsula in the province of Ontario is the global epicenter for icewine production. Canada holds the title as the world's largest producer of icewine, and over 80 percent of the national output originates from this specific region. The unique microclimate is heavily dictated by the deep waters of Lake Ontario and the sheltering geological formation of the Niagara Escarpment. The lake acts as a thermal sink during the autumn months, effectively extending the growing season, while the escarpment traps the frigid winter winds essential for rapidly freezing the grapes. Production is strictly regulated by the Vintners Quality Alliance (VQA) standards. By law, the grapes cannot be harvested until the ambient temperatures naturally drop to -8 °C (17 °F) or colder while still attached to the vine. Harvesting typically occurs during the freezing nights between December and February. As the water within the berries freezes solid, the sugars, natural acids, and fruit extracts become highly concentrated in a tiny drop of viscous must that must be pressed immediately. The primary grape varieties utilized are Vidal Blanc, Riesling, and Cabernet Franc. Commercial production began in 1984 by the Inniskillin winery, which subsequently won the prestigious Grand Prix d'Honneur at Vinexpo in Bordeaux in 1991, putting the region on the international map. Due to the extremely low juice yields and highly labor-intensive process, icewine ranks among the most expensive dessert wines globally. Export markets are heavily concentrated in Asian nations, where Canadian icewine is prized as a luxury commodity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kanada ist weltweit der größte Produzent von authentischem Eiswein.",
+          "Über 80 Prozent der kanadischen Produktion stammen von der Niagara-Halbinsel.",
+          "Die Trauben dürfen nach Gesetz erst bei Temperaturen von -8 °C geerntet werden.",
+          "Vidal Blanc, Riesling und Cabernet Franc sind die am häufigsten verwendeten Rebsorten.",
+          "Der See Ontariosee verlängert die Vegetationsperiode als natürlicher Wärmespeicher.",
+          "Die kommerzielle Produktion in der Region begann im Jahr 1984 durch Inniskillin.",
+          "Im Jahr 1991 gewann ein lokaler Eiswein den Grand Prix d'Honneur in Frankreich."
+        ],
+        "hu": [
+          "Kanada a világ legnagyobb termelője az eredeti, természetes jégbornak.",
+          "A kanadai termelés több mint 80 százaléka a Niagara-félszigetről származik.",
+          "A törvény szerint a szőlőt csak -8 °C-os vagy hidegebb hőmérsékleten szabad szüretelni.",
+          "A leggyakrabban felhasznált szőlőfajták a Vidal Blanc, a Riesling és a Cabernet Franc.",
+          "Az Ontario-tó természetes hőtárolóként meghosszabbítja az őszi vegetációs időszakot.",
+          "A régióban a kereskedelmi célú termelést 1984-ben az Inniskillin borászat kezdte meg.",
+          "1991-ben egy helyi jégbor elnyerte a Grand Prix d'Honneur díjat Franciaországban."
+        ],
+        "ro": [
+          "Canada este cel mai mare producător de vin de gheață autentic la nivel mondial.",
+          "Peste 80% din producția canadiană provine din Peninsula Niagara.",
+          "Legea impune recoltarea strugurilor doar la temperaturi de -8 °C sau mai scăzute.",
+          "Vidal Blanc, Riesling și Cabernet Franc sunt cele mai des folosite soiuri de struguri.",
+          "Lacul Ontario prelungește sezonul de creștere ca un rezervor natural de căldură.",
+          "Producția comercială în regiune a început în anul 1984 prin crama Inniskillin.",
+          "În 1991, un icewine local a câștigat Grand Prix d'Honneur în Franța."
+        ],
+        "en": [
+          "Canada stands as the largest volume producer of authentic icewine globally.",
+          "Over 80 percent of the Canadian national production comes from the Niagara Peninsula.",
+          "By law, the grapes must be harvested only when temperatures drop to -8 °C or colder.",
+          "Vidal Blanc, Riesling, and Cabernet Franc are the most frequently used grape varieties.",
+          "Lake Ontario extends the grape growing season acting as a massive natural thermal sink.",
+          "Commercial production in the Niagara region was pioneered by Inniskillin in 1984.",
+          "In 1991, a local icewine won the prestigious Grand Prix d'Honneur in France."
+        ]
+      }
+    },
+    {
+      "id": "prairie-canola-fields-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Canola-Felder in den kanadischen Prärieprovinzen – Saskatchewan, Alberta und Manitoba – prägen jeden Sommer das Landschaftsbild mit einem endlosen Meer aus leuchtend gelben Blüten. Canola ist eine der wichtigsten landwirtschaftlichen Errungenschaften Kanadas und ein massiver Wirtschaftsmotor. Die Pflanze wurde in den 1970er Jahren von den kanadischen Pflanzenzüchtern Baldur Stefansson und Richard Downey an der University of Manitoba und der landwirtschaftlichen Forschungsstation in Saskatoon entwickelt. Der Name \"Canola\" ist ein Akronym für \"Canadian oil, low acid\". Es handelt sich um eine spezielle Züchtung der Rapspflanze, bei der die ernährungsphysiologisch bedenkliche Erucasäure und die bitter schmeckenden Glucosinolate durch traditionelle Zuchtmethoden nahezu vollständig entfernt wurden. Heute werden in Kanada jährlich über 20 Millionen Acres (ca. 8 Millionen Hektar) Canola angebaut. Die Industrie trägt direkt und indirekt fast 30 Milliarden CAD zur kanadischen Wirtschaft bei und sichert hunderttausende Arbeitsplätze. Die Samen enthalten etwa 44 Prozent Öl, das aufgrund seines niedrigen Anteils an gesättigten Fettsäuren und seines hohen Rauchpunkts weltweit sehr geschätzt wird. Der eiweißreiche Presskuchen, der nach der Ölextraktion zurückbleibt, ist ein hochwertiges Futtermittel für Rinder, Schweine und Geflügel. Die Ernte erfolgt im späten Sommer und frühen Herbst. Die Pflanzen sind entscheidend für die kanadischen Agrarexporte, wobei die Hauptabnehmer in den Vereinigten Staaten, China, Japan und Mexiko liegen. Die Einführung gentechnisch veränderter herbizidresistenter Sorten in den 1990er Jahren veränderte die landwirtschaftlichen Praktiken grundlegend und ermöglichte Direktsaatverfahren, die die Bodenerosion massiv reduzierten.",
+        "hu": "A kanadai préritartományok – Saskatchewan, Alberta és Manitoba – repcemezői (canola) minden nyáron a tájkép meghatározó elemei, végtelen, élénksárga virágtengert alkotva. A canola Kanada egyik legfontosabb mezőgazdasági vívmánya és masszív gazdasági motorja. A növényt az 1970-es években fejlesztették ki kanadai növénynemesítők, Baldur Stefansson és Richard Downey a Manitobai Egyetemen, illetve a saskatooni mezőgazdasági kutatóállomáson. A \"canola\" név a \"Canadian oil, low acid\" (kanadai olaj, alacsony savtartalom) rövidítése. A repce egy speciális nemesítéséről van szó, amelyből hagyományos módszerekkel szinte teljesen eltávolították a táplálkozásélettani szempontból aggályos erukasavat és a keserű ízű glükozinolátokat. Napjainkban Kanadában évente több mint 20 millió acre (kb. 8 millió hektár) területen termesztenek canolát. Az iparág közvetlenül és közvetve közel 30 milliárd kanadai dollárral járul hozzá a gazdasághoz, és százezernyi munkahelyet biztosít. A magok körülbelül 44 százaléknyi olajat tartalmaznak, amelyet alacsony telítettzsírsav-tartalma és magas füstpontja miatt világszerte nagyra értékelnek. Az olajkivonás után visszamaradó fehérjedús pogácsa kiváló minőségű takarmány a szarvasmarhák, sertések és baromfik számára. A betakarítás nyár végén és kora ősszel történik. A termés döntő fontosságú a kanadai agrárexport szempontjából; a fő vásárlók az Egyesült Államok, Kína, Japán és Mexikó. A génmódosított, gyomirtóknak ellenálló fajták 1990-es évekbeli bevezetése alapjaiban változtatta meg a mezőgazdasági gyakorlatot, lehetővé téve a talajeróziót masszívan csökkentő direktvetéses eljárásokat.",
+        "ro": "Câmpurile de canola din provinciile de prerie canadiene – Saskatchewan, Alberta și Manitoba – modelează peisajul în fiecare vară cu o mare nesfârșită de flori galbene strălucitoare. Canola este una dintre cele mai importante realizări agricole ale Canadei și un motor economic masiv. Planta a fost dezvoltată în anii 1970 de cultivatorii de plante canadieni Baldur Stefansson și Richard Downey la Universitatea din Manitoba și la stația de cercetare agricolă din Saskatoon. Numele \"canola\" este un acronim pentru \"Canadian oil, low acid\" (ulei canadian, aciditate scăzută). Este o rasă specifică de rapiță din care acidul erucic, discutabil din punct de vedere nutrițional, și glucosinolații cu gust amar au fost eliminați aproape complet prin metode tradiționale de reproducere. Astăzi, anual se cultivă peste 20 de milioane de acri (aproximativ 8 milioane de hectare) de canola în Canada. Industria contribuie direct și indirect cu aproape 30 de miliarde de dolari canadieni la economie și asigură sute de mii de locuri de muncă. Semințele conțin aproximativ 44% ulei, care este foarte apreciat la nivel mondial pentru conținutul său scăzut de acizi grași saturați și punctul ridicat de fum. Turtele presate, bogate în proteine, rămase după extracția uleiului, sunt un furaj de înaltă calitate pentru bovine, porci și păsări de curte. Recoltarea are loc la sfârșitul verii și începutul toamnei. Recoltele sunt esențiale pentru exporturile agricole canadiene, principalii cumpărători fiind Statele Unite, China, Japonia și Mexic. Introducerea soiurilor modificate genetic rezistente la erbicide în anii 1990 a schimbat fundamental practicile agricole, permițând tehnici de semănat direct care au redus masiv eroziunea solului.",
+        "en": "The canola fields across the Canadian Prairie Provinces—Saskatchewan, Alberta, and Manitoba—dominate the summer landscape, transforming it into an endless sea of brilliant yellow flowers. Canola is arguably one of Canada's most significant agricultural achievements and a massive economic engine. The crop was originally developed in the 1970s by Canadian plant breeders Baldur Stefansson and Richard Downey at the University of Manitoba and the agricultural research station in Saskatoon. The name \"Canola\" is an acronym standing for \"Canadian oil, low acid.\" It is a specific breeding derivative of the rapeseed plant, from which the nutritionally undesirable erucic acid and the bitter-tasting glucosinolates were almost entirely eliminated using traditional breeding techniques. Today, over 20 million acres (approximately 8 million hectares) of canola are planted annually in Canada. The industry directly and indirectly contributes nearly 30 billion CAD to the Canadian economy and sustains hundreds of thousands of jobs. The tiny seeds contain roughly 44 percent oil, which is highly valued globally for its very low saturated fat content and high smoke point. The protein-rich meal left over after the oil extraction process serves as a high-quality livestock feed for cattle, swine, and poultry. Harvesting takes place in late summer and early autumn. The crop is critical to Canadian agricultural exports, with major international buyers including the United States, China, Japan, and Mexico. The introduction of genetically modified, herbicide-tolerant varieties in the 1990s fundamentally altered farming practices, allowing for zero-tillage methods that massively reduced topsoil erosion across the prairies."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Pflanze wurde in den 1970er Jahren von kanadischen Forschern gezüchtet.",
+          "Der Name Canola steht als Akronym für 'Canadian oil, low acid'.",
+          "Jährlich werden in Kanada etwa 8 Millionen Hektar der Nutzpflanze angebaut.",
+          "Die Canola-Industrie bringt der kanadischen Wirtschaft jährlich rund 30 Milliarden CAD ein.",
+          "Die Samen der Pflanze haben einen durchschnittlichen Ölgehalt von etwa 44 Prozent.",
+          "Nach der Ölgewinnung wird der Presskuchen als eiweißreiches Tierfutter verwendet.",
+          "Die Felder blühen typischerweise in den Sommermonaten in einem leuchtenden Gelb."
+        ],
+        "hu": [
+          "A növényt az 1970-es években nemesítették ki a kanadai mezőgazdasági kutatók.",
+          "A Canola név a 'Canadian oil, low acid' angol szavak rövidítéséből ered.",
+          "Évente körülbelül 8 millió hektáron termesztik ezt a haszonnövényt Kanadában.",
+          "A canolaipar évente közel 30 milliárd kanadai dollárt termel a gazdaság számára.",
+          "A növény apró magjai átlagosan 44 százalékos olajtartalommal rendelkeznek.",
+          "Az olaj kipréselése után megmaradó pogácsát magas fehérjetartalmú állati takarmányként hasznosítják.",
+          "A hatalmas kiterjedésű mezők a nyári hónapokban jellegzetes élénksárga színben pompáznak."
+        ],
+        "ro": [
+          "Planta a fost cultivată de cercetătorii canadieni în anii 1970.",
+          "Numele Canola provine din acronimul pentru 'Canadian oil, low acid'.",
+          "Aproximativ 8 milioane de hectare din această cultură sunt cultivate anual în Canada.",
+          "Industria canolei aduce economiei canadiene aproximativ 30 de miliarde de dolari CAD anual.",
+          "Semințele plantei au un conținut mediu de ulei de aproximativ 44%.",
+          "După extracția uleiului, turtele presate sunt folosite ca hrană pentru animale bogată în proteine.",
+          "Câmpurile înfloresc, de obicei, într-o nuanță strălucitoare de galben în timpul lunilor de vară."
+        ],
+        "en": [
+          "The specific crop was bred by Canadian agricultural researchers in the 1970s.",
+          "The name Canola is an acronym standing for 'Canadian oil, low acid'.",
+          "Approximately 8 million hectares of the crop are planted annually across Canada.",
+          "The canola industry generates an estimated 30 billion CAD for the Canadian economy yearly.",
+          "The small seeds of the plant possess an average oil content of roughly 44 percent.",
+          "Following the oil extraction, the remaining seed meal is utilized as high-protein animal feed.",
+          "The vast prairie fields visibly bloom with bright yellow flowers during the summer months."
+        ]
+      }
+    },
+    {
+      "id": "fraser-valley-blueberries-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fraser Valley in der Provinz British Columbia ist eines der produktivsten Anbaugebiete für Kulturheidelbeeren (Highbush Blueberries) weltweit. Die Region, die sich von Richmond über Abbotsford bis nach Chilliwack erstreckt, profitiert von idealen landwirtschaftlichen Bedingungen. Die sandigen, sauren und stark podsolierten Böden kombiniert mit dem gemäßigten pazifischen Klima, das milde Winter und warme, nicht zu heiße Sommer bietet, schaffen eine perfekte Umgebung für die aus Nordamerika stammende Beere. Die kommerzielle Blaubeerindustrie in British Columbia nahm in den 1920er Jahren ihren Anfang, als die ersten Sträucher aus New Jersey importiert wurden. Heute bewirtschaften über 800 Erzeuger eine Fläche von mehr als 30.000 Acres (etwa 12.000 Hektar). Die Erntezeit beginnt normalerweise im frühen Juli und kann sich je nach Sorte bis in den späten September erstrecken. BC produziert jährlich über 160 Millionen Pfund (ca. 72.000 Tonnen) Blaubeeren, was die Provinz zum größten Produzenten von Highbush-Blaubeeren in ganz Kanada macht. Die Früchte sind ein bedeutendes Exportgut; ein großer Teil der Ernte wird in die Vereinigten Staaten sowie in asiatische Märkte, insbesondere nach Japan und Südkorea, exportiert. Während ein Teil der Ernte frisch verkauft wird, wird ein erheblicher Prozentsatz durch das Verfahren des Individual Quick Freezing (IQF) sofort tiefgefroren, um den Nährwert und die Form für den weltweiten Export zu erhalten. Die Industrie ist stark auf temporäre ausländische Arbeitskräfte sowie den Einsatz von maschinellen Erntemaschinen angewiesen, um das massive Produktionsvolumen in dem kurzen Erntefenster bewältigen zu können.",
+        "hu": "A Brit Columbia tartománybeli Fraser-völgy a magasbokrú áfonya (highbush blueberry) egyik legtermékenyebb termesztővidéke az egész világon. A Richmondtól Abbotsfordon át egészen Chilliwackig húzódó régió ideális mezőgazdasági adottságokkal rendelkezik. A homokos, savas és erősen podzolos talaj, kombinálva a mérsékelt csendes-óceáni éghajlattal, amely enyhe teleket és meleg, de nem túlzottan forró nyarakat hoz, tökéletes környezetet teremt az Észak-Amerikában őshonos bogyós gyümölcs számára. A brit columbiai áfonyaipar kereskedelmi története az 1920-as években kezdődött, amikor az első cserjéket New Jerseyből importálták. Napjainkban több mint 800 termelő gazdálkodik több mint 30 000 acre (körülbelül 12 000 hektár) területen. A betakarítási időszak általában július elején kezdődik, és a fajtától függően egészen szeptember végéig elhúzódhat. BC évente több mint 160 millió font (kb. 72 000 tonna) áfonyát termel, amivel a tartomány Kanada legnagyobb magasbokrú áfonyatermelője. A gyümölcs jelentős exportcikk; a termés nagy részét az Egyesült Államokba, valamint ázsiai piacokra, különösen Japánba és Dél-Koreába exportálják. Bár a termés egy részét frissen értékesítik, egy jelentős százalékát az egyedi gyorsfagyasztás (IQF) eljárásával azonnal lefagyasztják, hogy megőrizzék a tápértéket és a formát a világméretű exporthoz. Az iparág nagymértékben támaszkodik az ideiglenes külföldi munkaerőre, valamint a gépi betakarítógépek használatára a hatalmas termelési volumen kezelése érdekében a rövid szüreti ablak alatt.",
+        "ro": "Valea Fraser din provincia Columbia Britanică este una dintre cele mai productive regiuni de cultivare a afinelor de cultură (highbush blueberries) din lume. Regiunea, care se întinde de la Richmond prin Abbotsford până la Chilliwack, beneficiază de condiții agricole ideale. Solurile nisipoase, acide și puternic podzolice, combinate cu clima temperată din Pacific, care oferă ierni blânde și veri calde, nu prea fierbinți, creează un mediu perfect pentru fructele de pădure native din America de Nord. Industria comercială a afinelor din BC a început în anii 1920, când primii arbuști au fost importați din New Jersey. Astăzi, peste 800 de cultivatori gestionează o suprafață de peste 30.000 de acri (aproximativ 12.000 de hectare). Sezonul de recoltare începe, de obicei, la începutul lunii iulie și se poate prelungi până la sfârșitul lunii septembrie, în funcție de soi. BC produce anual peste 160 de milioane de lire (aproximativ 72.000 de tone) de afine, devenind astfel cel mai mare producător de afine de cultură din Canada. Fructele sunt o marfă importantă de export; o mare parte din recoltă este exportată în Statele Unite și pe piețele asiatice, în special în Japonia și Coreea de Sud. În timp ce o parte din recoltă este vândută proaspătă, un procent semnificativ este imediat congelat rapid (IQF) pentru a menține valoarea nutrițională și forma pentru exportul global. Industria se bazează în mare măsură pe forța de muncă străină temporară, precum și pe utilizarea mașinilor de recoltat mecanizate pentru a gestiona volumul masiv de producție în fereastra scurtă de recoltare.",
+        "en": "The Fraser Valley in the province of British Columbia is recognized as one of the most highly productive growing regions for highbush blueberries globally. The region, extending from Richmond through Abbotsford and out to Chilliwack, benefits immensely from ideal agricultural conditions. The specific sandy, highly acidic, and podzolic soils, combined with the temperate Pacific climate offering mild winters and warm but rarely scorching summers, create the absolute perfect environment for this native North American berry. The commercial blueberry industry in BC officially traces its roots back to the 1920s when the first bushes were imported from New Jersey bogs. Today, the sector boasts over 800 independent growers managing an area exceeding 30,000 acres (approximately 12,000 hectares). The intense harvesting season typically commences in early July and can stretch into late September, depending entirely on the specific varietal planted. BC consistently produces over 160 million pounds (approx. 72,000 tonnes) of blueberries annually, firmly establishing the province as the largest producer of cultivated highbush blueberries in all of Canada. The fruit acts as a major agricultural export; a vast portion of the yearly yield is exported across the border to the United States and shipped to Asian markets, notably Japan and South Korea. While a portion of the harvest is sent to the fresh market, a massive percentage is processed using Individual Quick Freezing (IQF) technology to perfectly preserve nutritional value and structural shape for long-haul export. The industry is heavily reliant on temporary foreign agricultural workers and advanced mechanical harvesters to manage the massive crop volume within the strict, narrow harvesting window."
+      },
+      "factsAdvanced": {
+        "de": [
+          "British Columbia ist der größte kanadische Produzent von Kulturheidelbeeren.",
+          "Der kommerzielle Anbau in der Region begann erstmals in den 1920er Jahren.",
+          "Über 800 unabhängige Erzeuger wirtschaften auf mehr als 12.000 Hektar Land.",
+          "Die jährliche Produktion liegt regelmäßig bei über 72.000 Tonnen Beeren.",
+          "Die sandigen und stark sauren Böden des Tals sind ideal für die Pflanzen.",
+          "Ein großer Prozentsatz der Ernte wird durch das IQF-Verfahren schockgefrostet.",
+          "Die Haupterntezeit erstreckt sich in der Regel von Anfang Juli bis Ende September."
+        ],
+        "hu": [
+          "Brit Columbia Kanada legnagyobb mennyiségű magasbokrú áfonyáját állítja elő.",
+          "A régióban a kereskedelmi célú termesztés először az 1920-as években kezdődött meg.",
+          "Több mint 800 független termelő gazdálkodik a 12 000 hektárt meghaladó területen.",
+          "Az éves termelési volumen rendszeresen eléri a 72 000 tonnát.",
+          "A völgy homokos és erősen savas talaja tökéletes életfeltételeket biztosít a növényeknek.",
+          "A betakarított gyümölcs nagy százalékát azonnal sokkoló fagyasztással tartósítják.",
+          "A fő szüreti időszak általában július elejétől egészen szeptember végéig tart."
+        ],
+        "ro": [
+          "Columbia Britanică este cel mai mare producător de afine de cultură din Canada.",
+          "Cultivarea comercială în regiune a început pentru prima dată în anii 1920.",
+          "Peste 800 de cultivatori independenți operează pe mai mult de 12.000 de hectare.",
+          "Producția anuală este în mod regulat de peste 72.000 de tone de fructe de pădure.",
+          "Solurile nisipoase și puternic acide ale văii sunt ideale pentru aceste plante.",
+          "Un procent mare din recoltă este congelat rapid prin procesul IQF.",
+          "Sezonul principal de recoltare se întinde de obicei de la începutul lunii iulie până la sfârșitul lunii septembrie."
+        ],
+        "en": [
+          "British Columbia holds the title as Canada's largest producer of highbush blueberries.",
+          "Commercial cultivation in the Fraser Valley region first began in the 1920s.",
+          "Over 800 independent growers currently operate across more than 12,000 hectares of land.",
+          "The annual production volume regularly exceeds 72,000 metric tonnes of berries.",
+          "The sandy, highly acidic soils of the valley floor are perfect for the plants.",
+          "A large percentage of the harvest is immediately flash-frozen using the IQF process.",
+          "The primary harvesting season typically stretches from early July through late September."
+        ]
+      }
+    },
+    {
+      "id": "annapolis-valley-apples-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Annapolis Valley in Nova Scotia ist eines der historisch bedeutendsten Apfelanbaugebiete in Nordamerika. Geografisch ist das Tal durch den North Mountain und den South Mountain begrenzt, die das Gebiet vor den rauen Winden des Fundy-Beckens und des Atlantischen Ozeans schützen. Diese geologischen Formationen schaffen ein einzigartiges, mildes Mikroklima mit gut durchlässigen Böden, das ideal für den Obstbau ist. Der Apfelanbau hat tiefe historische Wurzeln; die ersten Apfelbäume wurden hier bereits 1633 von akadischen Siedlern (französischen Kolonisten) gepflanzt. Im späten 19. und frühen 20. Jahrhundert entwickelte sich die Industrie rasant, und das Tal exportierte jährlich Millionen von Fässern mit Äpfeln nach Großbritannien, was den Hafen von Halifax enorm ankurbelte. Während des Zweiten Weltkriegs brach der Exportmarkt zusammen, was zu einem dramatischen Strukturwandel der Industrie führte. Heute gibt es im Tal Hunderte von Obstgärten, die sich auf moderne, hochwertige und ertragreiche Sorten wie Honeycrisp, Gala, Cortland und Ambrosia konzentrieren. Die Region verarbeitet auch erhebliche Mengen an Äpfeln zu Cider, Apfelsaft und Backwaren. Die Bedeutung dieser landwirtschaftlichen Tradition wird jedes Jahr im Frühling mit dem Annapolis Valley Apple Blossom Festival gefeiert, das erstmals 1933 veranstaltet wurde und Zehntausende von Besuchern anzieht. Agrartourismus, einschließlich U-Pick (Selbstpflücken), ist heute eine wichtige Einnahmequelle für die lokalen Obstbauern.",
+        "hu": "Az új-skóciai Annapolis-völgy Észak-Amerika történelmileg egyik legjelentősebb almatermesztő vidéke. Földrajzilag a völgyet a North Mountain és a South Mountain (Északi- és Déli-hegység) határolja, amelyek megvédik a területet a Fundy-öböl és az Atlanti-óceán zord szeleitől. Ezek a geológiai képződmények egyedülálló, enyhe mikroklímát hoznak létre, jó vízelvezetésű talajjal, amely ideális a gyümölcstermesztéshez. Az almatermesztés mély történelmi gyökerekkel rendelkezik; az első almafákat már 1633-ban elültették itt az akádiai (francia) telepesek. A 19. század végén és a 20. század elején az iparág ugrásszerűen fejlődött, és a völgy évente több millió hordó almát exportált Nagy-Britanniába, ami óriási lendületet adott Halifax kikötőjének. A második világháború alatt az exportpiac összeomlott, ami az iparág drámai szerkezetváltásához vezetett. Ma a völgyben több száz gyümölcsös található, amelyek olyan modern, prémium minőségű és bőtermő fajtákra összpontosítanak, mint a Honeycrisp, a Gala, a Cortland és az Ambrosia. A régió jelentős mennyiségű almát dolgoz fel almabor (cider), almalé és pékáruk készítéséhez is. Ennek a mezőgazdasági hagyománynak a jelentőségét minden év tavaszán az Annapolis Valley Apple Blossom Festival (Almafavirágzás Fesztivál) ünnepli, amelyet először 1933-ban rendeztek meg, és amely több tízezer látogatót vonz. Az agroturizmus, beleértve a \"szedd magad\" (U-Pick) akciókat is, ma fontos bevételi forrást jelent a helyi termelőknek.",
+        "ro": "Valea Annapolis din Nova Scoția este una dintre cele mai importante regiuni istorice de cultivare a merelor din America de Nord. Geografic, valea este mărginită de Munții Nordici (North Mountain) și Munții Sudici (South Mountain), care protejează zona de vânturile aspre din Golful Fundy și Oceanul Atlantic. Aceste formațiuni geologice creează un microclimat unic, blând, cu soluri bine drenate, ideal pentru pomicultură. Cultivarea merelor are rădăcini istorice adânci; primii meri au fost plantați aici încă din 1633 de coloniștii acadieni (francezi). La sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, industria s-a dezvoltat rapid, iar valea a exportat anual milioane de butoaie de mere în Marea Britanie, stimulând enorm portul Halifax. În timpul celui de-al Doilea Război Mondial, piața de export s-a prăbușit, ducând la o restructurare dramatică a industriei. Astăzi, valea găzduiește sute de livezi care se concentrează pe soiuri moderne, de înaltă calitate și cu randament ridicat, cum ar fi Honeycrisp, Gala, Cortland și Ambrosia. Regiunea procesează, de asemenea, cantități semnificative de mere în cidru, suc de mere și produse de patiserie. Importanța acestei tradiții agricole este sărbătorită în fiecare primăvară cu Festivalul Florilor de Măr din Valea Annapolis (Apple Blossom Festival), care a avut loc pentru prima dată în 1933 și atrage zeci de mii de vizitatori. Agroturismul, inclusiv U-Pick (culegere proprie), este acum o sursă importantă de venit pentru fermierii locali.",
+        "en": "The Annapolis Valley in Nova Scotia stands as one of the most historically significant apple-growing regions in North America. Geographically, the valley is bordered by the North Mountain and South Mountain ridges, which act as massive barriers protecting the area from the harsh, cold winds sweeping in from the Bay of Fundy and the broader Atlantic Ocean. These distinct geological formations create a unique, mild microclimate featuring well-drained soils that is absolutely ideal for orcharding. Apple cultivation here boasts deep historical roots; the very first apple trees were planted in the soil as early as 1633 by Acadian (French) settlers. During the late 19th and early 20th centuries, the industry expanded exponentially, and the valley exported millions of wooden barrels of apples annually directly to Great Britain, which massively stimulated the economy of the Port of Halifax. During the Second World War, the overseas export market entirely collapsed, leading to a dramatic structural shift within the industry. Today, the valley is home to hundreds of commercial orchards focusing intently on modern, premium-quality, high-yield varieties such as Honeycrisp, Gala, Cortland, and Ambrosia. The region also processes significant volumes of the fruit into hard cider, pressed juice, and commercial baked goods. The enduring cultural significance of this agricultural tradition is celebrated every spring with the Annapolis Valley Apple Blossom Festival, which was first held in 1933 and reliably attracts tens of thousands of visitors. Agritourism, including highly popular U-Pick operations, now provides a vital secondary revenue stream for the local orchardists."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Berge North Mountain und South Mountain schützen das Tal vor rauen Ozeanwinden.",
+          "Die ersten Apfelbäume in der Region wurden 1633 von akadischen Siedlern gepflanzt.",
+          "Im frühen 20. Jahrhundert wurden Millionen Fass Äpfel nach Großbritannien exportiert.",
+          "Beliebte moderne Anbausorten sind heute Honeycrisp, Gala und Cortland.",
+          "Das Apfelblütenfest wird in der Region ununterbrochen seit dem Jahr 1933 gefeiert.",
+          "Während des Zweiten Weltkriegs brach der traditionelle Übersee-Exportmarkt zusammen.",
+          "Agrartourismus und Selbstpflücker-Programme sind heute wichtige Einnahmequellen."
+        ],
+        "hu": [
+          "A North Mountain és a South Mountain megvédi a völgyet a zord óceáni szelektől.",
+          "A régió legelső almafáit a francia akádiai telepesek ültették el 1633-ban.",
+          "A 20. század elején évente több millió hordónyi almát exportáltak Nagy-Britanniába.",
+          "A legnépszerűbb modern termesztett fajták közé tartozik a Honeycrisp és a Gala.",
+          "Az Almafavirágzás Fesztivált 1933 óta minden évben megszakítás nélkül megrendezik.",
+          "A második világháború éveiben a hagyományos tengerentúli exportpiac teljesen összeomlott.",
+          "Az agroturizmus és a \"szedd magad\" programok ma már elengedhetetlen bevételi források."
+        ],
+        "ro": [
+          "Munții North Mountain și South Mountain protejează valea de vânturile oceanice.",
+          "Primii meri din regiune au fost plantați în 1633 de către coloniștii acadieni.",
+          "La începutul secolului XX, milioane de butoaie de mere au fost exportate în Marea Britanie.",
+          "Soiurile moderne populare cultivate astăzi includ Honeycrisp, Gala și Cortland.",
+          "Festivalul Florilor de Măr a fost sărbătorit în regiune fără întrerupere din 1933.",
+          "În timpul celui de-al Doilea Război Mondial, piața tradițională de export de peste mări s-a prăbușit.",
+          "Agroturismul și programele de recoltare proprie sunt astăzi surse majore de venit."
+        ],
+        "en": [
+          "The North Mountain and South Mountain ridges protect the valley from harsh oceanic winds.",
+          "The very first apple trees in the area were planted by French Acadian settlers in 1633.",
+          "In the early 20th century, millions of barrels of apples were exported to Great Britain.",
+          "Highly popular modern commercial varieties grown today include Honeycrisp and Gala.",
+          "The regional Apple Blossom Festival has been celebrated continuously since 1933.",
+          "During the Second World War, the traditional overseas export market collapsed completely.",
+          "Agritourism and farm-gate U-Pick programs act as major revenue sources for farmers today."
+        ]
+      }
+    },
+    {
+      "id": "pacific-salmon-run-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Wanderung der Pazifischen Lachse (Pacific Salmon Run) in British Columbia ist eines der bedeutendsten biologischen Ereignisse der Nordhalbkugel. Jedes Jahr im späten Sommer und Herbst kehren Millionen von Lachsen aus dem Pazifischen Ozean in ihre Geburtsflüsse zurück, um zu laichen und anschließend zu sterben. Dieser anadrome Lebenszyklus betrifft fünf Hauptarten: Rotlachs (Sockeye), Königslachs (Chinook), Silberlachs (Coho), Buckellachs (Pink) und Ketalachs (Chum). Der Fraser River und sein riesiges Einzugsgebiet bilden das wichtigste Flusssystem für diesen Zug, wobei der Adams River für seine massiven Rotlachswanderungen bekannt ist, die alle vier Jahre einen dominanten Höhepunkt erreichen. Die Lachse legen dabei Hunderte von Kilometern gegen starke Strömungen und Stromschnellen zurück. Der Lachs ist eine ökologische Schlüsselart; ihr Zug transferiert immense Mengen an marinen Nährstoffen (insbesondere Stickstoff und Phosphor) tief in die terrestrischen Ökosysteme des Landesinneren. Bären, Weißkopfseeadler, Wölfe und andere Raubtiere ernähren sich intensiv von den Fischen und tragen deren Überreste in die Wälder, wodurch das Wachstum der riesigen Küstenregenwälder maßgeblich gedüngt wird. Wirtschaftlich und kulturell sind die pazifischen Lachse seit Jahrtausenden von größter Bedeutung. Für die First Nations der Region sind sie ein heiliges Nahrungsmittel und stehen im Zentrum vieler traditioneller Zeremonien und der indigenen Wirtschaft. Überfischung, der Klimawandel mit steigenden Wassertemperaturen und die Zerstörung von Lebensräumen bedrohen die Bestände heute ernsthaft.",
+        "hu": "A csendes-óceáni lazacok vonulása (Pacific Salmon Run) Brit Columbiában az északi félteke egyik legjelentősebb biológiai eseménye. Minden évben nyár végén és ősszel lazacok milliói térnek vissza a Csendes-óceánból születési folyóikba, hogy ívjanak, majd elpusztuljanak. Ez az anadrom életciklus öt fő fajt érint: vörös lazac (Sockeye), királylazac (Chinook), ezüstlazac (Coho), rózsaszín lazac (Pink) és keta lazac (Chum). A Fraser-folyó és hatalmas vízgyűjtő területe a vonulás legfontosabb folyórendszere, míg az Adams-folyó a négyévente domináns tetőpontot elérő hatalmas vöröslazac-vonulásairól híres. A lazacok több száz kilométert tesznek meg az erős áramlatokkal és zúgókkal szemben. A lazac egy ökológiai kulcsfaj; vonulásuk óriási mennyiségű tengeri tápanyagot (különösen nitrogént és foszfort) szállít mélyen a szárazföldi ökoszisztémákba. A medvék, a fehérfejű rétisasok, a farkasok és más ragadozók intenzíven táplálkoznak a halakból, és maradványaikat behordják az erdőkbe, ezáltal jelentősen trágyázzák a hatalmas part menti esőerdők növekedését. Gazdasági és kulturális szempontból a csendes-óceáni lazacok évezredek óta a legnagyobb jelentőséggel bírnak. A régió őslakosai (First Nations) számára szent táplálék, és számos hagyományos ceremónia, valamint az őslakos gazdaság középpontjában áll. A túlhalászás, a növekvő vízhőmérséklettel járó éghajlatváltozás és az élőhelyek pusztulása ma komolyan veszélyezteti az állományokat.",
+        "ro": "Migrația somonului de Pacific (Pacific Salmon Run) în Columbia Britanică este unul dintre cele mai importante evenimente biologice din emisfera nordică. În fiecare an, la sfârșitul verii și toamna, milioane de somoni se întorc din Oceanul Pacific în râurile lor natale pentru a depune icre și apoi a muri. Acest ciclu de viață anadrom afectează cinci specii principale: somonul roșu (Sockeye), somonul regal (Chinook), somonul argintiu (Coho), somonul roz (Pink) și somonul keta (Chum). Râul Fraser și bazinul său hidrografic masiv formează cel mai important sistem fluvial pentru această migrație, râul Adams fiind renumit pentru migrațiile sale masive de somon roșu, care ating un vârf dominant la fiecare patru ani. Somonii călătoresc sute de kilometri împotriva curenților puternici și a pragurilor. Somonul este o specie cheie ecologică; migrația sa transferă cantități imense de nutrienți marini (în special azot și fosfor) adânc în ecosistemele terestre din interior. Urșii, vulturii pleșuvi, lupii și alți prădători se hrănesc intens cu peștii și transportă resturile lor în păduri, fertilizând astfel semnificativ creșterea uriașelor păduri tropicale de coastă. Din punct de vedere economic și cultural, somonul de Pacific a fost de o importanță capitală de milenii. Pentru Primelor Națiuni din regiune, este un aliment sacru și se află în centrul multor ceremonii tradiționale și al economiei indigene. Pescuitul excesiv, schimbările climatice cu creșterea temperaturilor apei și distrugerea habitatelor amenință serios populațiile astăzi.",
+        "en": "The Pacific Salmon Run in British Columbia stands as one of the most significant and dramatic biological events in the Northern Hemisphere. Every year during late summer and early autumn, millions of adult salmon instinctively return from the depths of the Pacific Ocean back to their specific natal freshwater streams to spawn and ultimately die. This anadromous life cycle involves five primary species: Sockeye, Chinook, Coho, Pink, and Chum salmon. The massive Fraser River and its extensive watershed form the most critical river system for this migration, with the Adams River being globally renowned for its massive Sockeye runs, which reach a spectacular dominant peak every four years. The fish travel hundreds of kilometers inland, battling fierce currents and rapids. The salmon acts as a crucial ecological keystone species; their mass migration transfers immense volumes of marine-derived nutrients (specifically nitrogen and phosphorus) deep into inland terrestrial ecosystems. Bears, bald eagles, wolves, and other predators feed intensely on the exhausted fish, dragging the carcasses into the woods, which directly acts as a highly effective natural fertilizer for the massive coastal temperate rainforests. Economically and culturally, Pacific salmon have been of paramount importance for millennia. For the regional First Nations, the fish is considered a sacred food source and remains at the absolute center of traditional ceremonies and indigenous trade. Today, systemic overfishing, climate change causing rising river temperatures, and ongoing habitat destruction seriously threaten the long-term survival of the stocks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fünf verschiedene Lachsarten nehmen an der massiven Wanderung in BC teil.",
+          "Der Fraser River ist das wichtigste Einzugsgebiet für die ziehenden Fische.",
+          "Die Rotlachs-Wanderung am Adams River erreicht alle vier Jahre ihren Höhepunkt.",
+          "Lachse transportieren entscheidende Mengen an Stickstoff und Phosphor ins Landesinnere.",
+          "Tierische Raubtiere verteilen die Fischkadaver und düngen so den Küstenregenwald.",
+          "Für die indigenen First Nations sind Lachse seit Jahrtausenden von zentraler Bedeutung.",
+          "Anadrome Fische leben im Meer, kehren aber zur Fortpflanzung ins Süßwasser zurück."
+        ],
+        "hu": [
+          "Öt különböző lazacfaj vesz részt a tömeges brit columbiai vonulásban.",
+          "A Fraser-folyó alkotja a legfontosabb vízgyűjtő területet a vonuló halak számára.",
+          "A vörös lazacok vonulása az Adams-folyón négyévente éri el legnagyobb tetőpontját.",
+          "A lazacok a tengerből óriási mennyiségű nitrogént és foszfort szállítanak a szárazföldre.",
+          "Az erdei ragadozók széthordják a haltetemeket, így természetes módon trágyázzák az esőerdőt.",
+          "A bennszülött őslakosok (First Nations) számára a lazac évezredek óta létfontosságú.",
+          "Az anadrom halak a tengerben élnek, de az édesvízi folyókba térnek vissza szaporodni."
+        ],
+        "ro": [
+          "Cinci specii diferite de somon participă la migrația masivă din BC.",
+          "Râul Fraser este cel mai important bazin hidrografic pentru peștii migratori.",
+          "Migrația somonului roșu de pe râul Adams atinge apogeul la fiecare patru ani.",
+          "Somonul transportă cantități cruciale de azot și fosfor în interiorul continentului.",
+          "Prădătorii împrăștie carcasele de pește și fertilizează astfel pădurea tropicală de coastă.",
+          "Pentru națiunile indigene, somonul a fost de importanță centrală de milenii.",
+          "Peștii anadromi trăiesc în mare, dar se întorc în apa dulce pentru a se reproduce."
+        ],
+        "en": [
+          "Five distinct species of Pacific salmon participate in the massive BC migration.",
+          "The massive Fraser River is the primary watershed utilized by the migrating fish.",
+          "The Sockeye salmon run on the Adams River reaches a massive peak every four years.",
+          "The salmon act as a vehicle, transporting crucial oceanic nitrogen and phosphorus inland.",
+          "Forest predators drag fish carcasses into the woods, naturally fertilizing the rainforest.",
+          "For indigenous First Nations, the salmon has held central cultural importance for millennia.",
+          "Anadromous fish live their adult lives in the ocean but return to freshwater to spawn."
+        ]
+      }
+    },
+    {
+      "id": "gwaii-haanas-marine-life-v2",
+      "descriptionAdvanced": {
+        "de": "Gwaii Haanas National Marine Conservation Area Reserve and Haida Heritage Site ist ein riesiges Meeresschutzgebiet vor der Küste von Haida Gwaii (früher Queen Charlotte Islands) in British Columbia. Das im Jahr 2010 offiziell gegründete Gebiet umfasst rund 3.400 Quadratkilometer des Pazifischen Ozeans, die direkt an den terrestrischen Nationalpark angrenzen, und schafft so eine nahtlose Schutzzone vom Meeresgrund bis in die Bergspitzen. Die Meeresgewässer sind von extremen Gezeiten und nährstoffreichen Kaltwasser-Aufweichungen (Upwellings) geprägt. Diese Ozeanographie unterstützt ausgedehnte Unterwasser-Kelp-Wälder, die zu den produktivsten Ökosystemen der Erde zählen. Die biologische Vielfalt ist außergewöhnlich hoch: Mehr als 20 Arten von Meeressäugern patrouillieren durch die Gewässer, darunter Schwertwale (Orcas), wandernde Buckelwale, Grauwale sowie die stark bedrohten Stellerschen Seelöwen. Die Küstengewässer dienen auch als kritische Laichgründe für den Pazifischen Hering und als Jagdrevier für hunderttausende nistende Seevögel, wie Papageitaucher und Marmelalken. Gwaii Haanas wird in einem weltweit einzigartigen Modell kooperativ von Parks Canada und der indigenen Haida Nation verwaltet. Das Managementmodell beruht auf traditionellen ökologischen Prinzipien der Haida, wie „Yahguudang“ (Respekt vor allen Lebewesen). Kommerzielle Aktivitäten sind im Reservat stark eingeschränkt, um die kritischen Habitate zu schützen. Bodenschleppnetzfischerei ist verboten, und Besucher dürfen das Gebiet nur mit speziellen Genehmigungen per Boot oder Kajak erkunden, um die Auswirkungen auf die sensiblen Ökosysteme zu minimieren.",
+        "hu": "A Gwaii Haanas Nemzeti Tengeri Védelmi Terület és Haida Örökségi Helyszín egy hatalmas tengeri rezervátum Brit Columbiában, Haida Gwaii (korábban Sarolta királyné-szigetek) partjainál. A 2010-ben hivatalosan is megalapított terület mintegy 3400 négyzetkilométernyi Csendes-óceánt foglal magába, amely közvetlenül csatlakozik a szárazföldi nemzeti parkhoz, így egy zökkenőmentes védelmi zónát hoz létre a tengerfenéktől egészen a hegycsúcsokig. A tengervizekre a szélsőséges árapály-ingadozás és a tápanyagban gazdag, mélyből feltörő hideg áramlatok (upwelling) jellemzők. Ez az oceanográfiai környezet kiterjedt víz alatti tengeri moszaterdőket (kelp) tart fenn, amelyek a Föld legtermékenyebb ökoszisztémái közé tartoznak. A biológiai sokféleség kivételesen magas: több mint 20 tengeri emlősfaj járőrözik a vizekben, köztük kardszárnyú delfinek (orkák), vonuló hosszúszárnyú bálnák, szürke bálnák, valamint a súlyosan veszélyeztetett Steller-féle oroszlánfókák. A parti vizek a csendes-óceáni hering kritikus ívóhelyeként, valamint fészkelő tengeri madarak (például lundák és márványos alkák) százezreinek vadászterületeként is szolgálnak. A Gwaii Haanas-t egy világszerte egyedülálló modell keretében közösen irányítja a Parks Canada és a bennszülött haida nemzet. A kezelési modell a haidák hagyományos ökológiai elvein alapul, mint amilyen a \"Yahguudang\" (minden élőlény tisztelete). A rezervátumban a kereskedelmi tevékenységek szigorúan korlátozottak a kritikus élőhelyek védelme érdekében. A fenékhálós halászat tilos, a látogatók pedig csak speciális engedéllyel, hajóval vagy kajakkal fedezhetik fel a területet az ökoszisztéma védelmében.",
+        "ro": "Rezervația Națională de Conservare Marină Gwaii Haanas și Situl de Patrimoniu Haida este o zonă marină protejată uriașă în largul coastei Haida Gwaii (fostele Insule Queen Charlotte) din Columbia Britanică. Fondată oficial în 2010, aria acoperă aproximativ 3.400 de kilometri pătrați din Oceanul Pacific, direct adiacentă parcului național terestru, creând astfel o zonă de protecție continuă de la fundul mării până la vârfurile munților. Apele marine se caracterizează prin maree extreme și curenți de apă rece bogați în nutrienți din adâncuri (upwellings). Această oceanografie susține păduri subacvatice extinse de varec (kelp), care sunt printre cele mai productive ecosisteme de pe Pământ. Biodiversitatea este excepțional de mare: peste 20 de specii de mamifere marine patrulează apele, inclusiv balene ucigașe (orci), balene cu cocoașă migratoare, balene gri și leii de mare Steller, grav amenințați. Apele de coastă servesc, de asemenea, ca zone critice de reproducere pentru heringul de Pacific și ca teren de vânătoare pentru sute de mii de păsări marine care cuibăresc, cum ar fi papagalii de mare și alcidele marmorate. Gwaii Haanas este gestionată în cooperare de Parks Canada și de Națiunea Indigenă Haida, într-un model unic la nivel mondial. Modelul de management se bazează pe principiile ecologice tradiționale Haida, cum ar fi „Yahguudang” (respect pentru toate ființele vii). Activitățile comerciale sunt strict limitate în rezervație pentru a proteja habitatele critice. Pescuitul cu traule de fund este interzis, iar vizitatorii pot explora zona doar cu permise speciale, cu barca sau caiacul, pentru a minimiza impactul asupra ecosistemelor sensibile.",
+        "en": "Gwaii Haanas National Marine Conservation Area Reserve and Haida Heritage Site is a massive marine protected zone situated off the rugged coast of Haida Gwaii (formerly the Queen Charlotte Islands) in British Columbia. Officially established in 2010, the area encompasses approximately 3,400 square kilometers of the Pacific Ocean immediately adjacent to the terrestrial national park, effectively creating a seamless protection zone extending from the ocean floor to the mountain peaks. The marine waters are defined by extreme tidal fluctuations and cold, nutrient-rich deep-water upwellings. This specific oceanography supports extensive underwater kelp forests, which rank among the most highly productive ecosystems on Earth. The biodiversity is exceptionally high: more than 20 distinct species of marine mammals patrol the waters, including resident and transient orcas, migrating humpbacks, gray whales, and the critically endangered Steller sea lions. The coastal waters also serve as highly critical spawning grounds for Pacific herring and act as feeding territories for hundreds of thousands of nesting seabirds, such as tufted puffins and marbled murrelets. Gwaii Haanas is cooperatively managed by Parks Canada and the indigenous Haida Nation in a globally unique co-management model. The management framework is deeply rooted in traditional Haida ecological principles, such as \"Yahguudang\" (meaning respect for all living things). Commercial activities are heavily restricted within the reserve boundaries to protect critical habitats. Bottom-trawling fishing is strictly prohibited, and visitors may only explore the remote area via boat or kayak with highly specific permits to minimize human impact on the sensitive ecosystems."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Meeresschutzgebiet umfasst eine Fläche von rund 3.400 Quadratkilometern.",
+          "Es wurde im Jahr 2010 von der kanadischen Regierung offiziell gegründet.",
+          "Das Gebiet wird gemeinsam von Parks Canada und der indigenen Haida Nation verwaltet.",
+          "Mehr als 20 Arten von Meeressäugern sind in diesen Gewässern heimisch.",
+          "Nährstoffreiche Wasserströmungen unterstützen ausgedehnte Unterwasser-Kelp-Wälder.",
+          "Die kommerzielle Bodenschleppnetzfischerei ist im gesamten Reservat streng verboten.",
+          "Die Küsten dienen dem Pazifischen Hering als kritische, geschützte Laichgründe."
+        ],
+        "hu": [
+          "A tengeri természetvédelmi terület mintegy 3400 négyzetkilométeres területet fed le.",
+          "A rezervátumot 2010-ben alapította meg hivatalosan a kanadai kormány.",
+          "A területet a Parks Canada és a bennszülött haida nemzet közösen irányítja.",
+          "A vizekben több mint 20 különböző tengeri emlősfaj él és vadászik.",
+          "A tápanyagban gazdag feláramlások kiterjedt víz alatti tengerimoszat-erdőket tartanak fenn.",
+          "A kereskedelmi fenékhálós halászat szigorúan tilos a teljes rezervátum területén.",
+          "A sekély partvidék kritikus és védett ívóhelyet biztosít a csendes-óceáni hering számára."
+        ],
+        "ro": [
+          "Zona marină protejată acoperă o suprafață de aproximativ 3.400 de kilometri pătrați.",
+          "A fost înființată oficial de guvernul canadian în anul 2010.",
+          "Zona este gestionată în comun de Parks Canada și de Națiunea Indigenă Haida.",
+          "Peste 20 de specii de mamifere marine sunt native în aceste ape.",
+          "Curenții de apă bogați în nutrienți susțin păduri subacvatice extinse de varec.",
+          "Pescuitul comercial cu traule de fund este strict interzis în întreaga rezervație.",
+          "Zonele de coastă servesc drept locuri critice și protejate de reproducere pentru heringul de Pacific."
+        ],
+        "en": [
+          "The marine conservation area encompasses roughly 3,400 square kilometers of ocean.",
+          "The reserve was officially established by the Canadian federal government in 2010.",
+          "The massive area is co-managed by Parks Canada and the indigenous Haida Nation.",
+          "More than 20 distinct species of marine mammals reside in these protected waters.",
+          "Cold, nutrient-rich water upwellings support massive underwater kelp forests.",
+          "Commercial bottom-trawling fishing is strictly prohibited within the reserve boundaries.",
+          "The shallow coastal waters serve as critical, protected spawning grounds for Pacific herring."
+        ]
+      }
+    },
+    {
+      "id": "churchill-beluga-whales-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Ästuar des Churchill River, wo der Fluss in die Hudson Bay in Manitoba mündet, ist der Schauplatz einer der größten und spektakulärsten Walwanderungen der Welt. Jeden Sommer, hauptsächlich in den Monaten Juli und August, wandern zwischen 3.000 und 4.000 Belugawale (Weißwale) in die relativ warmen, flachen und brackigen Gewässer der Flussmündung. Sie sind Teil der größeren Westlichen Hudson Bay-Population, die auf über 55.000 Tiere geschätzt wird. Die Wale suchen das Ästuar aus mehreren biologischen Gründen auf: Das wärmere Süßwasser fördert die Häutung (Abstoßen der alten Hautschicht), bietet eine sichere Umgebung für die Geburt und Aufzucht der Kälber und ist reich an Beutefischen wie Lodde und Cisco. Belugas sind extrem soziale und hochintelligente Tiere. Sie verfügen über keine Rückenflosse, was eine Anpassung an das Schwimmen unter arktischem Eis ist, und besitzen flexible Halswirbel, wodurch sie ihren Kopf drehen können. Aufgrund ihrer komplexen und ständigen Vokalisationen aus Klicks, Pfiffen und Zwitschern werden sie oft als „Kanarienvögel des Meeres“ bezeichnet. Da sie in der flachen Mündung vor ihren natürlichen Feinden, den Schwertwalen, geschützt sind, ist das Gebiet ein idealer Zufluchtsort. Die Ansammlung der Wale hat sich zu einer zentralen Säule der Wirtschaft von Churchill entwickelt. Ökotouristen aus aller Welt kommen, um die Tiere bei Bootstouren, vom Kajak aus oder sogar beim Schnorcheln zu beobachten. Forscher nutzen die Zugänglichkeit der Sommercamps, um die Akustik und das Verhalten der Population zu studieren.",
+        "hu": "A Churchill-folyó torkolata, ahol a folyó a manitobai Hudson-öbölbe ömlik, a világ egyik legnagyobb és leglátványosabb bálnavonulásának színhelye. Minden nyáron, főként júliusban és augusztusban, 3000 és 4000 közötti beluga (fehér bálna) vándorol a folyótorkolat viszonylag meleg, sekély és félsós vizeibe. Ők a nagyobb, több mint 55 000 egyedre becsült nyugat-hudson-öbölbeli populáció részét képezik. A bálnák több biológiai okból keresik fel a torkolatot: a melegebb édesvíz elősegíti a vedlést (a régi bőrréteg levetését), biztonságos környezetet nyújt a borjak születéséhez és felneveléséhez, valamint gazdag zsákmányhalakban, például kapellán lazacban és marénában. A belugák rendkívül szociális és rendkívül intelligens állatok. Nincs hátúszójuk, ami a sarkvidéki jég alatti úszáshoz való alkalmazkodás, és rugalmas nyakcsigolyákkal rendelkeznek, amelyek lehetővé teszik számukra a fejük elfordítását. A kattogásokból, füttyökből és csiripelésekből álló összetett és folyamatos hangadásuk miatt gyakran nevezik őket a \"tenger kanáriainak\". Mivel a sekély torkolatban védve vannak természetes ellenségeiktől, a kardszárnyú delfinektől, a terület ideális menedékhely. A bálnák gyülekezése Churchill gazdaságának központi pillérévé vált. A világ minden tájáról érkeznek ökoturisták, hogy csónaktúrákon, kajakból vagy akár sznorkelezés közben figyeljék meg az állatokat. A kutatók kihasználják a nyári táborok hozzáférhetőségét a populáció akusztikájának és viselkedésének tanulmányozására.",
+        "ro": "Estuarul râului Churchill, unde râul se varsă în Golful Hudson din Manitoba, este scena uneia dintre cele mai mari și mai spectaculoase migrații de balene din lume. În fiecare vară, în principal în lunile iulie și august, între 3.000 și 4.000 de balene beluga (balene albe) migrează în apele relativ calde, puțin adânci și salmastre ale estuarului. Ele fac parte din populația mai mare din vestul Golfului Hudson, estimată la peste 55.000 de animale. Balenele vizitează estuarul din mai multe motive biologice: apa dulce mai caldă promovează năpârlirea (îndepărtarea stratului vechi de piele), oferă un mediu sigur pentru nașterea și creșterea puilor și este bogată în pești pradă precum capelin și cisco. Belugele sunt animale extrem de sociale și deosebit de inteligente. Nu au o înotătoare dorsală, ceea ce este o adaptare la înotul sub gheața arctică, și posedă vertebre cervicale flexibile, permițându-le să-și întoarcă capul. Datorită vocalizărilor lor complexe și constante, constând în clicuri, fluierături și ciripituri, sunt adesea numite „canarii mării”. Deoarece sunt protejate de inamicii lor naturali, balenele ucigașe, în estuarul puțin adânc, zona este un refugiu ideal. Adunarea balenelor a devenit un pilon central al economiei orașului Churchill. Ecoturiștii din întreaga lume vin să observe animalele în excursii cu barca, din caiac sau chiar făcând snorkeling. Cercetătorii profită de accesibilitatea taberelor de vară pentru a studia acustica și comportamentul populației.",
+        "en": "The Churchill River estuary, where the river empties into Hudson Bay in Manitoba, is the staging ground for one of the largest and most spectacular whale migrations in the world. Every summer, primarily during the months of July and August, between 3,000 and 4,000 beluga whales physically migrate into the relatively warm, shallow, and brackish waters of the estuary. They represent a concentrated fraction of the larger Western Hudson Bay population, which is estimated to exceed 55,000 individuals. The whales purposely seek out the estuary for several key biological reasons: the warmer freshwater accelerates their annual molting process (shedding the epidermal layer), provides a highly secure environment for calving and nursing young, and contains abundant prey species like capelin and cisco. Belugas are extremely social and highly intelligent cetaceans. They lack a dorsal fin, an evolutionary adaptation for swimming directly under sea ice, and uniquely possess unfused cervical vertebrae, allowing them to turn their heads from side to side. Because of their highly complex, constant vocalizations consisting of clicks, whistles, and chirps, they are globally nicknamed the \"canaries of the sea.\" Because the shallow waters of the estuary prevent their primary natural predators, orcas, from entering, the area serves as a perfect safe haven. The summer gathering has evolved into a central economic pillar for the town of Churchill. Ecotourists travel globally to observe the friendly whales via boat tours, kayaks, or even snorkeling. Marine biologists utilize the predictable summer gathering to extensively study the population's acoustics and behavior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bis zu 4.000 Belugawale versammeln sich im Sommer in der Flussmündung.",
+          "Die gesamte Beluga-Population der westlichen Hudson Bay umfasst etwa 55.000 Tiere.",
+          "Das wärmere, flache Wasser der Mündung hilft den Walen bei der jährlichen Häutung.",
+          "Die Wale haben keine Rückenflosse, um sicher unter dem arktischen Eis schwimmen zu können.",
+          "Wegen ihrer ständigen akustischen Kommunikation nennt man sie 'Kanarienvögel des Meeres'.",
+          "Das flache Wasser schützt die Wale und ihre Kälber vor angreifenden Schwertwalen.",
+          "Ökotourismus rund um die Wale ist eine wirtschaftliche Säule der Stadt Churchill."
+        ],
+        "hu": [
+          "A nyári hónapokban akár 4000 beluga is összegyűlik a folyótorkolatban.",
+          "A nyugati Hudson-öböl teljes belugapopulációja megközelítőleg 55 000 állatot számlál.",
+          "A torkolat melegebb, sekély vize nagyban segíti a bálnák éves vedlési folyamatát.",
+          "A bálnáknak nincs hátúszójuk, így biztonságosan tudnak úszni a sarki jég alatt.",
+          "Folyamatos, változatos akusztikus kommunikációjuk miatt a 'tenger kanáriainak' is nevezik őket.",
+          "A sekély víz megvédi a bálnákat és borjaikat a ragadozó kardszárnyú delfinektől.",
+          "A bálnákhoz kapcsolódó ökoturizmus Churchill város gazdaságának egyik fő alappillére."
+        ],
+        "ro": [
+          "Până la 4.000 de balene beluga se adună în estuar pe timpul verii.",
+          "Întreaga populație de beluga din vestul Golfului Hudson numără aproximativ 55.000 de animale.",
+          "Apa mai caldă și puțin adâncă ajută balenele în procesul lor anual de năpârlire.",
+          "Balenele nu au înotătoare dorsală pentru a putea înota în siguranță sub gheața arctică.",
+          "Datorită comunicării lor acustice constante, sunt numite 'canarii mării'.",
+          "Apa puțin adâncă protejează balenele și puii lor de atacurile orcilor.",
+          "Ecoturismul centrat pe balene este un pilon economic major al orașului Churchill."
+        ],
+        "en": [
+          "Up to 4,000 individual beluga whales gather in the river estuary during the summer.",
+          "The entire Western Hudson Bay beluga population numbers approximately 55,000 animals.",
+          "The warmer, shallow water of the estuary assists the whales with their annual molting.",
+          "The whales lack a dorsal fin, allowing them to swim safely beneath Arctic sea ice.",
+          "Due to their constant acoustic communication, they are widely known as the 'canaries of the sea'.",
+          "The exceptionally shallow water protects the whales and calves from predatory orcas.",
+          "Ecotourism centered around the whales serves as an economic pillar for the town of Churchill."
+        ]
+      }
+    },
+    {
+      "id": "elk-island-bison-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Elk-Island-Nationalpark, gelegen östlich der Stadt Edmonton in Alberta, nimmt eine absolut zentrale Rolle in der globalen Geschichte des Naturschutzes ein. Der Park ist weltberühmt für seinen entscheidenden Beitrag zur Rettung des amerikanischen Bisons vor der völligen Ausrottung. Anfang des 20. Jahrhunderts waren die Präriebisons in Nordamerika bis auf wenige Hundert Exemplare dezimiert worden. Im Jahr 1906 kaufte die kanadische Regierung die private Pablo-Allard-Bisonherde aus Montana auf und transferierte über 700 Tiere per Zug nach Elk Island. Der Park ist vollständig von einem massiven Zaun umgeben, der die Tiere im Inneren hält und die Herden isoliert. Die Einrichtung ist einzigartig, da sie sowohl den Präriebison (Plains Bison) im nördlichen Teil des Parks als auch den größeren Waldbison (Wood Bison) in einem abgetrennten südlichen Sektor beheimatet, wobei eine Kreuzung streng verhindert wird. Die Herden von Elk Island sind genetisch rein und gelten als vollständig frei von Krankheiten wie Tuberkulose oder Brucellose, die andere Bestände bedrohen. Wegen dieses sauberen Gesundheitsstatus dient Elk Island als nationale Saatgut-Herde. Seit Jahrzehnten werden Bisons von hier gefangen und transloziert, um wilde Populationen in Russland (Sibirien), den Vereinigten Staaten (z.B. in Montana und Alaska) und in indigenen Gemeinden in ganz Kanada neu zu gründen. Das Parkmanagement kontrolliert die Populationsgröße auf etwa 400 Präriebisons und 300 Waldbisons, um eine Überweidung des Espen-Parkland-Ökosystems zu verhindern.",
+        "hu": "A kanadai Alberta tartományban, Edmonton városától keletre fekvő Elk Island Nemzeti Park abszolút központi szerepet tölt be a természetvédelem globális történetében. A park világhírű arról a döntő hozzájárulásáról, amellyel megmentette az amerikai bölényt a teljes kipusztulástól. A 20. század elejére Észak-Amerikában a préribölények száma alig néhány száz példányra csökkent. 1906-ban a kanadai kormány felvásárolta a montanai Pablo-Allard magán bölénycsordát, és több mint 700 állatot szállított vonattal az Elk Islandre. A parkot egy masszív kerítés veszi teljesen körbe, amely bent tartja az állatokat és elszigeteli a csordákat. A létesítmény egyedülálló, mivel a park északi részén a préribölény (Plains Bison), a déli, elkülönített szektorban pedig a nagyobb termetű erdei bölény (Wood Bison) él, miközben a két fajta kereszteződését szigorúan megakadályozzák. Az Elk Island csordái genetikailag tiszták, és teljesen mentesek az olyan betegségektől, mint a tuberkulózis vagy a brucellózis, amelyek más populációkat veszélyeztetnek. E tiszta egészségügyi státusz miatt az Elk Island nemzeti \"vetőmagcsordaként\" funkcionál. Évtizedek óta fognak be és szállítanak át innen bölényeket, hogy új vad populációkat hozzanak létre Oroszországban (Szibéria), az Egyesült Államokban (pl. Montana és Alaszka), valamint a kanadai őslakos közösségekben. A park vezetősége a populáció méretét körülbelül 400 préribölényen és 300 erdei bölényen tartja, hogy megakadályozza a nyárfás parkerdő ökoszisztémájának túllegeltetését.",
+        "ro": "Parcul Național Elk Island, situat la est de orașul Edmonton în Alberta, joacă un rol absolut central în istoria globală a conservării naturii. Parcul este de renume mondial pentru contribuția sa crucială la salvarea bizonului american de la extincția totală. La începutul secolului al XX-lea, bizonii de prerie din America de Nord fuseseră decimați până la doar câteva sute de exemplare. În anul 1906, guvernul canadian a cumpărat turma privată de bizoni Pablo-Allard din Montana și a transferat peste 700 de animale cu trenul pe Insula Elk. Parcul este complet înconjurat de un gard masiv care ține animalele înăuntru și izolează turmele. Facilitatea este unică, deoarece găzduiește atât bizonul de prerie (Plains Bison) în partea de nord a parcului, cât și bizonul de pădure (Wood Bison), mai mare, într-un sector sudic separat, încrucișarea fiind strict prevenită. Turmele din Insula Elk sunt pure genetic și sunt considerate complet libere de boli precum tuberculoza sau bruceloza, care amenință alte populații. Datorită acestui statut de sănătate curat, Insula Elk servește drept turmă națională de „sămânță”. Timp de decenii, bizonii de aici au fost capturați și relocați pentru a reînființa populații sălbatice în Rusia (Siberia), Statele Unite (de ex. în Montana și Alaska) și în comunitățile indigene din întreaga Canada. Conducerea parcului controlează dimensiunea populației la aproximativ 400 de bizoni de prerie și 300 de bizoni de pădure pentru a preveni suprapășunatul ecosistemului de parcuri cu plopi tremurători.",
+        "en": "Elk Island National Park, situated east of the city of Edmonton in Alberta, plays an absolutely central and historic role in the global history of wildlife conservation. The park is world-renowned for its highly critical contribution to saving the American bison from total extinction. By the early 20th century, plains bison populations in North America had been severely decimated to merely a few hundred surviving individuals. In 1906, the Canadian federal government purchased the privately owned Pablo-Allard bison herd from Montana and physically transferred over 700 animals by train to Elk Island. The park is completely enclosed by a massive fence, which keeps the animals safely inside and effectively isolates the herds. The facility is unique because it houses both the plains bison in the northern section of the park and the significantly larger wood bison in a highly separated southern sector, strictly preventing any genetic crossbreeding. The herds at Elk Island are genetically pure and are considered entirely free from diseases like bovine tuberculosis or brucellosis, which heavily threaten other herds on the continent. Because of this pristine health status, Elk Island acts as a national seed herd. For decades, bison have been captured and translocated from here to re-establish wild populations in Russia (Siberia), the United States (such as Montana and Alaska), and across indigenous First Nation communities in Canada. Park management strictly controls the population size to approximately 400 plains bison and 300 wood bison to prevent the overgrazing of the delicate aspen parkland ecosystem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park kaufte 1906 über 700 Bisons, um die Art vor der Ausrottung zu retten.",
+          "Das gesamte Schutzgebiet ist vollständig von einem hohen Zaun umgeben.",
+          "Der nördliche Sektor beheimatet Präriebisons, der südliche Sektor Waldbisons.",
+          "Die Herden gelten als genetisch rein und absolut frei von Rinderkrankheiten.",
+          "Tiere aus dem Park wurden nach Sibirien und in die USA exportiert.",
+          "Die kontrollierte Population liegt bei rund 400 Prärie- und 300 Waldbisons.",
+          "Die Trennung der Herden verhindert eine ungewollte Kreuzung beider Unterarten."
+        ],
+        "hu": [
+          "A park 1906-ban több mint 700 bölényt vásárolt a faj megmentése érdekében.",
+          "A teljes természetvédelmi területet egy magas kerítés veszi teljesen körbe.",
+          "Az északi szektorban préribölények, a déli szektorban erdei bölények élnek.",
+          "A csordák genetikailag tiszták és teljesen mentesek a szarvasmarha-betegségektől.",
+          "A parkból származó állatokat Szibériába és az Egyesült Államokba is exportálták.",
+          "A szabályozott populáció körülbelül 400 préri- és 300 erdei bölényből áll.",
+          "A csordák fizikai elkülönítése megakadályozza a két alfaj nemkívánatos kereszteződését."
+        ],
+        "ro": [
+          "Parcul a cumpărat peste 700 de bizoni în 1906 pentru a salva specia de la extincție.",
+          "Întreaga zonă de conservare este complet înconjurată de un gard înalt.",
+          "Sectorul nordic găzduiește bizoni de prerie, iar cel sudic bizoni de pădure.",
+          "Turmele sunt considerate pure genetic și absolut libere de boli bovine.",
+          "Animale din parc au fost exportate în Siberia și în Statele Unite.",
+          "Populația controlată este de aproximativ 400 de bizoni de prerie și 300 de pădure.",
+          "Separarea fizică a turmelor previne încrucișarea nedorită a celor două subspecii."
+        ],
+        "en": [
+          "The park purchased over 700 bison in 1906 to help save the species from extinction.",
+          "The entire conservation area is completely enclosed by a high, sturdy fence.",
+          "The northern sector houses plains bison, while the southern sector houses wood bison.",
+          "The isolated herds are considered genetically pure and entirely free of bovine diseases.",
+          "Animals from the park have been successfully exported to Siberia and the United States.",
+          "The managed population stays around 400 plains bison and roughly 300 wood bison.",
+          "The strict physical separation of the herds permanently prevents unwanted crossbreeding."
+        ]
+      }
+    }
+  ]
+}

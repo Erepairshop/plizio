@@ -1,0 +1,63 @@
+{
+  "lang": "ro",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tunis-cities-v2",
+      "description": "Capitala Tunisiei, situată pe coasta golfului Tunis, este un centru cultural și administrativ vital. Orașul îmbină tradiția medinei istorice cu arhitectura modernă.",
+      "facts": ["Capitala țării", "Port important la Mediterană", "Populație peste 600.000", "Medina inclusă în UNESCO"]
+    },
+    {
+      "id": "nabeul-cities-v2",
+      "description": "Nabeul este renumit pentru atelierele sale de ceramică și industria artizanală. Este o destinație populară situată pe peninsula Cap Bon.",
+      "facts": ["Centrul olăritului tunisian", "Situat în peninsula Cap Bon", "Piață săptămânală tradițională", "Plaje renumite"]
+    },
+    {
+      "id": "zaghouan-cities-v2",
+      "description": "Zaghouan este cunoscut pentru izvoarele sale montane și apeductul roman care aproviziona odinioară orașul Cartagina. Peisajul său este dominat de masivul Jebel Zaghouan.",
+      "facts": ["Izvoare montane naturale", "Apeductul roman istoric", "Altitudine medie ridicată", "Regiune agricolă fertilă"]
+    },
+    {
+      "id": "bizerte-cities-v2",
+      "description": "Bizerte este unul dintre cele mai vechi porturi din Tunisia, situat în nordul extrem. Orașul este apreciat pentru portul său vechi și influențele mediteraneene.",
+      "facts": ["Cel mai nordic port", "Port vechi pitoresc", "Pod mobil istoric", "Lângă Lacul Ichkeul"]
+    },
+    {
+      "id": "beja-cities-v2",
+      "description": "Situat într-o regiune agricolă fertilă, Beja este un nod important pentru producția de cereale. Orașul are o istorie îndelungată, fiind locuit încă din antichitate.",
+      "facts": ["Centru agricol principal", "Producție de grâu", "Poziție strategică", "Climat mediteranean umed"]
+    },
+    {
+      "id": "siliana-cities-v2",
+      "description": "Siliana este un oraș din nord-vestul Tunisiei, cunoscut pentru peisajele sale rurale și siturile arheologice din apropiere. Economia locală se bazează în mare parte pe agricultură.",
+      "facts": ["Regiune agricolă interioară", "Situri arheologice în zonă", "Climat semi-arid", "Peisaj de dealuri"]
+    },
+    {
+      "id": "kairouan-cities-v2",
+      "description": "Kairouan este un centru religios major, fiind considerat al patrulea oraș sfânt al Islamului. Este renumit pentru Marea Moschee și covoarele sale tradiționale.",
+      "facts": ["Centru religios istoric", "Marea Moschee din Kairouan", "Industrie covoarelor", "Patrimoniu UNESCO"]
+    },
+    {
+      "id": "kasserine-cities-v2",
+      "description": "Kasserine se află în centrul Tunisiei, lângă munții Dorsali. Orașul servește ca un hub regional pentru activitățile din interiorul țării.",
+      "facts": ["Lângă Munții Dorsali", "Centru regional", "Climat continental", "Agricultură locală"]
+    },
+    {
+      "id": "sidi-bou-zid-cities-v2",
+      "description": "Sidi Bouzid este situat în centrul țării, fiind cunoscut în special pentru importanța sa în agricultura regională. Orașul are un rol activ în economia locală.",
+      "facts": ["Regiune agricolă", "Centru de distribuție", "Climat semi-arid", "Producție de fructe"]
+    },
+    {
+      "id": "monastir-cities-v2",
+      "description": "Monastir este o stațiune litorală populară, cunoscută pentru ribat-ul său impunător și mausoleul lui Habib Bourguiba. Orașul are un port de agrement modern.",
+      "facts": ["Ribatul din Monastir", "Stațiune turistică", "Mausoleul lui Bourguiba", "Aeroport internațional"]
+    }
+  ]
+}

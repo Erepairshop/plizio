@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "Antsirabe környékének rizsföldjei meghatározzák a felföldi tájat, és az ország alapvető élelmiszerforrását biztosítják.",
+      "facts": ["Hagyományos teraszos művelés", "Gleccser-szerű zöld tájak", "Zebu-szántásos technológia"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "A Nosy Tanikely tengeri nemzeti park világhírű az érintetlen zátonyrendszeréről és a trópusi halak gazdagságáról.",
+      "facts": ["A legnépszerűbb sznorkelhely", "Víz alatti nemzeti park", "Gyakori delfinészlelések"]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "A toliarai botanikus kert a száraz délnyugati vidék lenyűgöző flóráját, köztük bizarr tüskés erdőket mutat be.",
+      "facts": ["Pozsgás növények gyűjteménye", "Hatalmas baobab példányok", "Tudományos növénygyűjtemény"]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "description": "A Manakara melletti Pangalanes-csatorna létfontosságú vízi út, amely betekintést enged a helyiek hagyományos életébe.",
+      "facts": ["Mesterségesen összekötött tavak", "Hagyományos fatörzs-kenuk", "Egyedülálló folyómenti kultúra"]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Mahajanga strandja élénk találkozóhely, különösen este, amikor a helyiek élvezik a naplementét a parton.",
+      "facts": ["Híres 'Le Bord' sétány", "Utcai tenger gyümölcsei árusok", "Széles homokos partok"]
+    },
+    {
+      "id": "andohahela-nationalpark-life-v2",
+      "description": "Az Andohahela Nemzeti Park különlegessége, hogy három különböző ökoszisztémát – esőerdőt, tüskés erdőt és átmeneti erdőt – ölel fel.",
+      "facts": ["UNESCO Világörökség része", "Rendkívüli endemizmus", "Változatos éghajlati zónák"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "A Tsingy de Namoroka Nemzeti Park vad sziklaképződményeivel és elszigetelt vadonjával nyűgözi le a látogatókat.",
+      "facts": ["Kevésbé látogatott, érintetlen terület", "Barlangok és kanyonok", "Ritka baobab fajok"]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Fianarantsoa borászatai a madagaszkári borkultúra központjai, ahol helyi fajtákat kóstolhatnak az utazók.",
+      "facts": ["A madagaszkári bortermelés szíve", "Francia hagyományok", "Híres vörös- és fehérborok"]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "A Zombitse-Vohibasia Nemzeti Park a ritka madarak és endemikus növények fontos menedékhelye egy átmeneti zónában.",
+      "facts": ["Az Appert-bülbül élőhelye", "Egyedülálló baobab fák", "Könnyen elérhető az RN7 útról"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Az antsirabei termálfürdő a régió természetes forró forrásait használja gyógyászati és rekreációs célokra.",
+      "facts": ["A gyarmati időkben alapították", "Ásványi anyagokban gazdag víz", "A 'Vizek városa' szimbóluma"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Ankarafantsika a madármegfigyelők paradicsoma, számos ritka faj fészkel az itteni száraz erdőkben.",
+      "facts": ["Több mint 130 madárfaj", "Madagaszkári rétisas észlelések", "Jól kiépített tanösvények"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "A Nosy Mitsio körüli vizek kiváló búvárhelyeket kínálnak érintetlen korallokkal és gazdag tengeri faunával.",
+      "facts": ["Elszigetelt szigetcsoport", "Hatalmas halrajok", "Látványos bazaltoszlopok"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "A keleti parton fekvő Tampolo Rezervátum Madagaszkár utolsó érintetlen parti esőerdőinek egyikét védi.",
+      "facts": ["Közvetlenül az Indiai-óceán partján", "Ritka fafajok", "Parti makik élőhelye"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "A ranomafanai kétéltű-erdő a békák hihetetlen változatosságáról ismert, amelyek különösen éjszaka aktívak.",
+      "facts": ["A békák biodiverzitásának központja", "Vezetett éjszakai túrák", "Párás esőerdei klíma"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "A Mahajangában található Reniala állatkert a száraz madagaszkári nyugat flórájára és faunájára összpontosít.",
+      "facts": ["Botanikus kert és állatkert", "Teknősmentő központ", "Hatalmas baobab gyűjtemény"]
+    }
+  ]
+}

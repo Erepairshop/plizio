@@ -1,0 +1,243 @@
+
+{
+  "lang": "multi4",
+  "country": "canada",
+  "files": ["lib/visualLab/data/poiExtraCanadaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "fisgard-lighthouse-history-v2",
+      "descriptionAdvancedDe": "Das Fisgard Lighthouse, am Eingang zum Esquimalt Harbour in British Columbia gelegen, ist das erste Leuchtfeuer an der Westküste Kanadas. Es wurde 1860 in der damaligen Kolonie Vancouver Island erbaut und ist seitdem ununterbrochen in Betrieb. Der Leuchtturm wurde automatisiert, aber sein ikonisches weißes Gebäude und der rote Turm sind ein geliebtes Wahrzeichen. Er wurde gebaut, um die Schiffe der Royal Navy sicher in den Hafen zu leiten, und spielte eine entscheidende Rolle für die maritime Sicherheit in der Region. Heute ist das Fisgard Lighthouse eine nationale historische Stätte, die durch einen Damm mit Fort Rodd Hill verbunden ist und Besuchern einen Einblick in die Geschichte der kanadischen Küstenwache und der Seefahrt bietet.",
+      "descriptionAdvancedHu": "A Fisgard világítótorony, amely a brit columbiai Esquimalt kikötő bejáratánál található, Kanada nyugati partjának első világítótornya. 1860-ban épült a akkori Vancouver-szigeti gyarmaton, és azóta folyamatosan működik. A világítótornyot automatizálták, de ikonikus fehér épülete és piros tornya kedvelt jelkép maradt. Azért épült, hogy a Királyi Haditengerészet hajóit biztonságosan a kikötőbe vezesse, és döntő szerepet játszott a régió tengeri biztonságában. Ma a Fisgard világítótorony nemzeti történelmi helyszín, amely egy gáttal kapcsolódik a Fort Rodd Hillhez, és bepillantást nyújt a látogatóknak a kanadai parti őrség és a tengerészet történetébe.",
+      "descriptionAdvancedRo": "Farul Fisgard, situat la intrarea în portul Esquimalt din Columbia Britanică, este primul far de pe coasta de vest a Canadei. Construit în 1860 în fosta colonie a Insulei Vancouver, a funcționat continuu de atunci. Farul a fost automatizat, dar clădirea sa iconică albă și turnul roșu rămân un simbol iubit. A fost construit pentru a ghida în siguranță navele Marinei Regale în port și a jucat un rol crucial în siguranța maritimă a regiunii. Astăzi, Farul Fisgard este un sit istoric național, conectat la Fort Rodd Hill printr-un dig, oferind vizitatorilor o perspectivă asupra istoriei Gărzii de Coastă canadiene și a navigației.",
+      "descriptionAdvancedEn": "Fisgard Lighthouse, located at the entrance to Esquimalt Harbour in British Columbia, is the first lighthouse on Canada's west coast. Built in 1860 in the then-Colony of Vancouver Island, it has been in continuous operation ever since. The lighthouse has been automated, but its iconic white building and red tower remain a beloved landmark. It was built to guide Royal Navy ships safely into the harbour and played a crucial role in the region's maritime safety. Today, Fisgard Lighthouse is a National Historic Site, connected to Fort Rodd Hill by a causeway, offering visitors a glimpse into the history of the Canadian Coast Guard and seafaring.",
+      "factsAdvancedDe": [
+        "Erster Leuchtturm an Kanadas Westküste, erbaut 1860.",
+        "Heute ein funktionierender, automatisierter Leuchtturm.",
+        "Bewacht den Eingang zum Marinehafen Esquimalt.",
+        "Teil der nationalen historischen Stätte Fort Rodd Hill.",
+        "Der Turm ist bei Ebbe über einen Damm erreichbar.",
+        "Das Gebäude war einst das Zuhause des Leuchtturmwärters und seiner Familie.",
+        "Benannt nach dem Kriegsschiff HMS Fisgard.",
+        "Nationale historische Stätte Kanadas."
+      ],
+      "factsAdvancedHu": [
+        "Kanada nyugati partjának első világítótornya, 1860-ban épült.",
+        "Ma is működő, automatizált világítótorony.",
+        "Az Esquimalt haditengerészeti támaszpont bejáratát őrzi.",
+        "A Fort Rodd Hill Nemzeti Történelmi Emlékhely része.",
+        "A torony egy gáton keresztül megközelíthető apály idején.",
+        "Az épület egykor a világítótorony-őr és családja otthona volt.",
+        "Nevét a HMS Fisgard hadihajóról kapta.",
+        "Kanada Nemzeti Történelmi Emlékhelye."
+      ],
+      "factsAdvancedRo": [
+        "Primul far de pe coasta de vest a Canadei, construit în 1860.",
+        "Astăzi un far funcțional, automatizat.",
+        "Păzește intrarea în baza navală Esquimalt.",
+        "Parte a Sitului Istoric Național Fort Rodd Hill.",
+        "Turnul este accesibil printr-un dig la reflux.",
+        "Clădirea a fost odată casa paznicului farului și a familiei sale.",
+        "Numit după nava de război HMS Fisgard.",
+        "Sit istoric național al Canadei."
+      ],
+      "factsAdvancedEn": [
+        "Canada's first lighthouse on the west coast, built in 1860.",
+        "Still a working, automated lighthouse today.",
+        "Guards the entrance to the Esquimalt naval base.",
+        "Part of the Fort Rodd Hill National Historic Site.",
+        "The tower is accessible via a causeway at low tide.",
+        "The building was once home to the lightkeeper and his family.",
+        "Named after the warship HMS Fisgard.",
+        "National Historic Site of Canada."
+      ]
+    },
+    {
+      "id": "gulf-of-georgia-cannery-history-v2",
+      "descriptionAdvancedDe": "Die Gulf of Georgia Cannery in Steveston, British Columbia, war einst die größte Lachskonservenfabrik in der Provinz. Erbaut 1894, war sie als 'Monster Cannery' bekannt und ein zentraler Akteur in der boomenden Fischereiindustrie an der Westküste. Die Fabrik verarbeitete jahrzehntelang Lachs und später Hering, bevor sie 1979 geschlossen wurde. Heute ist sie eine nationale historische Stätte und ein Museum, das die Geschichte der Fischerei in BC lebendig werden lässt. Interaktive Exponate und eine restaurierte Konservenstraße zeigen den anstrengenden Prozess der Fischverarbeitung und erzählen die Geschichten der vielfältigen Belegschaft aus europäischen, asiatischen und First-Nations-Arbeitern, die die Industrie aufgebaut haben.",
+      "descriptionAdvancedHu": "A Gulf of Georgia Cannery Stevestonban, Brit Columbiában, egykor a tartomány legnagyobb lazackonzervgyára volt. Az 1894-ben épült gyár „Szörny Konzervgyár” néven volt ismert, és a nyugati parti virágzó halászati ipar egyik központi szereplője volt. A gyár évtizedekig lazacot, később pedig heringet dolgozott fel, mielőtt 1979-ben bezárták. Ma nemzeti történelmi emlékhely és múzeum, amely életre kelti a brit columbiai halászat történetét. Interaktív kiállítások és egy felújított konzervgyártó sor mutatja be a halfeldolgozás fáradságos folyamatát, és elmeséli az ipart felépítő, sokszínű – európai, ázsiai és őslakos – munkaerő történeteit.",
+      "descriptionAdvancedRo": "Conserva din Golful Georgiei, din Steveston, Columbia Britanică, a fost cândva cea mai mare fabrică de conserve de somon din provincie. Construită în 1894, era cunoscută sub numele de „Conserva Monstru” și a fost un jucător central în industria pescuitului în plină expansiune de pe Coasta de Vest. Fabrica a procesat somon timp de decenii și mai târziu hering, înainte de a se închide în 1979. Astăzi, este un sit istoric național și un muzeu care aduce la viață istoria pescuitului din BC. Exponate interactive și o linie de conserve restaurată prezintă procesul anevoios de prelucrare a peștelui și spun poveștile forței de muncă diverse de muncitori europeni, asiatici și ai Primelor Națiuni care au construit industria.",
+      "descriptionAdvancedEn": "The Gulf of Georgia Cannery in Steveston, British Columbia, was once the largest salmon cannery in the province. Built in 1894, it was known as the 'Monster Cannery' and was a central player in the booming West Coast fishing industry. The factory processed salmon for decades and later herring, before closing in 1979. Today, it is a National Historic Site and museum that brings the history of fishing in BC to life. Interactive exhibits and a restored canning line showcase the arduous process of fish processing and tell the stories of the diverse workforce of European, Asian, and First Nations workers who built the industry.",
+      "factsAdvancedDe": [
+        "1894 erbaut und als 'Monster Cannery' bekannt.",
+        "Einst die größte Lachskonservenfabrik in British Columbia.",
+        "Produzierte auf ihrem Höhepunkt über 2,5 Millionen Dosen Lachs pro Jahr.",
+        "Die Fabrik beschäftigte eine vielfältige Belegschaft: Chinesen, Japaner, Europäer und First Nations.",
+        "Verarbeitete neben Lachs auch Hering.",
+        "1979 endgültig geschlossen.",
+        "1976 zur nationalen historischen Stätte erklärt.",
+        "Das Museum befindet sich im Herzen des Fischerdorfes Steveston."
+      ],
+      "factsAdvancedHu": [
+        "1894-ben épült, és 'Szörny Konzervgyár' néven volt ismert.",
+        "Egykor Brit Columbia legnagyobb lazackonzervgyára volt.",
+        "Fénykorában évente több mint 2,5 millió doboz lazacot termelt.",
+        "A gyárban különböző nemzetiségű munkások dolgoztak: kínaiak, japánok, európaiak és őslakosok.",
+        "A lazac mellett heringet is feldolgoztak.",
+        "1979-ben zárt be végleg.",
+        "1976-ban nyilvánították Nemzeti Történelmi Emlékhellyé.",
+        "A múzeum a Steveston halászfalu szívében található."
+      ],
+      "factsAdvancedRo": [
+        "Construită în 1894 și cunoscută sub numele de 'Fabrica de Conserve Monstru'.",
+        "Odinioară cea mai mare fabrică de conserve de somon din Columbia Britanică.",
+        "La apogeu, producea peste 2,5 milioane de cutii de somon pe an.",
+        "Fabrica angaja o forță de muncă diversă: chinezi, japonezi, europeni și Primele Națiuni.",
+        "Pe lângă somon, procesa și hering.",
+        "Închisă definitiv în 1979.",
+        "Declarată sit istoric național în 1976.",
+        "Muzeul este situat în inima satului pescăresc Steveston."
+      ],
+      "factsAdvancedEn": [
+        "Built in 1894 and known as the 'Monster Cannery'.",
+        "Once the largest salmon cannery in British Columbia.",
+        "At its peak, produced over 2.5 million cans of salmon annually.",
+        "The factory employed a diverse workforce: Chinese, Japanese, European, and First Nations.",
+        "Besides salmon, it also processed herring.",
+        "Permanently closed in 1979.",
+        "Declared a National Historic Site in 1976.",
+        "The museum is located in the heart of the Steveston fishing village."
+      ]
+    },
+    {
+      "id": "green-gables-pei-history-v2",
+      "descriptionAdvancedDe": "Green Gables Heritage Place in Cavendish, Prince Edward Island, ist der Bauernhof, der Lucy Maud Montgomerys beliebten Roman 'Anne auf Green Gables' (1908) inspirierte. Obwohl der Roman Fiktion ist, basiert das Haus auf dem Bauernhof von Montgomerys Cousins. Das Haus und seine Umgebung wurden restauriert, um so auszusehen, wie Montgomery sie beschrieben hat, einschließlich des Spukwaldes und des Liebhaberweges. Jedes Jahr zieht dieser Ort Hunderttausende von Besuchern aus der ganzen Welt an, die die Welt von Anne Shirley erleben möchten. Green Gables ist ein Symbol für die idyllische Landschaft und die literarische Kultur von PEI und ein Zeugnis für die anhaltende Anziehungskraft von Montgomerys Geschichten.",
+      "descriptionAdvancedHu": "A Green Gables Örökségi Hely Cavendishben, a Prince Edward-szigeten az a farm, amely Lucy Maud Montgomery népszerű, 'Anne otthonra talál' (1908) című regényét ihlette. Bár a regény fikció, a ház Montgomery unokatestvéreinek farmján alapul. A házat és környékét úgy állították helyre, hogy megfeleljenek Montgomery leírásának, beleértve a Kísértetjárta Erdőt és a Szerelmesek Ösvényét is. A helyszín évente több százezer látogatót vonz a világ minden tájáról, akik szeretnék megtapasztalni Anne Shirley világát. A Green Gables a Prince Edward-sziget idilli tájának és irodalmi kultúrájának szimbóluma, valamint Montgomery történeteinek tartós vonzerejének bizonyítéka.",
+      "descriptionAdvancedRo": "Green Gables Heritage Place din Cavendish, Insula Prințului Edward, este ferma care a inspirat popularul roman al lui Lucy Maud Montgomery, 'Anne de la Green Gables' (1908). Deși romanul este o ficțiune, casa se bazează pe ferma verilor lui Montgomery. Casa și împrejurimile sale au fost restaurate pentru a arăta așa cum le-a descris Montgomery, inclusiv Pădurea Bântuită și Aleea Îndrăgostiților. În fiecare an, acest loc atrage sute de mii de vizitatori din întreaga lume care doresc să experimenteze lumea lui Anne Shirley. Green Gables este un simbol al peisajului idilic și al culturii literare din PEI și o mărturie a atracției de durată a poveștilor lui Montgomery.",
+      "descriptionAdvancedEn": "Green Gables Heritage Place in Cavendish, Prince Edward Island, is the farmhouse that inspired Lucy Maud Montgomery's beloved 1908 novel, 'Anne of Green Gables.' Although the novel is fiction, the house is based on the farm of Montgomery's cousins. The house and its surroundings have been restored to look as Montgomery described them, including the Haunted Wood and Lovers' Lane. Each year, this site attracts hundreds of thousands of visitors from around the world who want to experience the world of Anne Shirley. Green Gables is a symbol of PEI's idyllic landscape and literary culture, and a testament to the enduring appeal of Montgomery's stories.",
+      "factsAdvancedDe": [
+        "Inspirierte L. M. Montgomerys Roman 'Anne auf Green Gables' von 1908.",
+        "Das Gehöft gehörte Montgomerys Cousins, der Familie Macneill.",
+        "Der Ort befindet sich im Prince-Edward-Island-Nationalpark.",
+        "Zieht jährlich Hunderttausende von Fans aus aller Welt an.",
+        "Die Einrichtung spiegelt den Zustand des späten 19. Jahrhunderts wider.",
+        "Der 'Spukwald' und der 'Liebhaberweg' aus dem Roman sind hier zu finden.",
+        "Einer der berühmtesten literarischen Schauplätze Kanadas.",
+        "Der Roman wurde in über 36 Sprachen übersetzt."
+      ],
+      "factsAdvancedHu": [
+        "A ház inspirálta L. M. Montgomery 1908-as 'Anne otthonra talál' című regényét.",
+        "A farm Montgomery unokatestvéreié, a Macneill családé volt.",
+        "A helyszín a Prince Edward-sziget Nemzeti Parkban található.",
+        "Évente több százezer rajongó látogatja meg a világ minden tájáról.",
+        "A berendezés a 19. század végi állapotokat tükrözi.",
+        "A regényből ismert 'Kísértetjárta Erdő' és 'Szerelmesek Ösvénye' is megtalálható itt.",
+        "Kanada egyik leghíresebb irodalmi emlékhelye.",
+        "A regényt több mint 36 nyelvre fordították le."
+      ],
+      "factsAdvancedRo": [
+        "A inspirat romanul 'Anne de la Green Gables' de L. M. Montgomery din 1908.",
+        "Ferma a aparținut verilor lui Montgomery, familia Macneill.",
+        "Situl este situat în Parcul Național Insula Prințului Edward.",
+        "Atrage sute de mii de fani din întreaga lume în fiecare an.",
+        "Mobilierul reflectă starea de la sfârșitul secolului al XIX-lea.",
+        "Pădurea Bântuită și Aleea Îndrăgostiților din roman pot fi găsite aici.",
+        "Unul dintre cele mai faimoase situri literare din Canada.",
+        "Romanul a fost tradus în peste 36 de limbi."
+      ],
+      "factsAdvancedEn": [
+        "The house inspired L. M. Montgomery's 1908 novel 'Anne of Green Gables'.",
+        "The farm belonged to Montgomery's cousins, the Macneill family.",
+        "The site is located within Prince Edward Island National Park.",
+        "Attracts hundreds of thousands of fans from around the world annually.",
+        "The furnishings reflect the late 19th-century period.",
+        "The 'Haunted Wood' and 'Lover's Lane' from the novel can be found here.",
+        "One of Canada's most famous literary landmarks.",
+        "The novel has been translated into over 36 languages."
+      ]
+    },
+    {
+      "id": "province-house-charlottetown-history-v2",
+      "descriptionAdvancedDe": "Das Province House in Charlottetown, Prince Edward Island, ist als Geburtsort der Kanadischen Konföderation bekannt. Im September 1864 fand hier die Charlottetown-Konferenz statt, das erste Treffen, das schließlich zur Gründung Kanadas im Jahr 1867 führte. Das zwischen 1843 und 1847 erbaute neoklassizistische Gebäude dient seit 1847 als Sitz der Legislativversammlung von Prince Edward Island. Der Konföderationssaal, in dem die Delegierten tagten, wurde in seinem Zustand von 1864 erhalten. Das Province House ist eine nationale historische Stätte und ein mächtiges Symbol für die Entstehung Kanadas als Nation durch Dialog und Kompromiss. Es befindet sich derzeit in umfassender Restaurierung, um seine strukturelle Integrität für zukünftige Generationen zu sichern.",
+      "descriptionAdvancedHu": "A charlottetowni Province House a Kanadai Konföderáció szülőhelyeként ismert. 1864 szeptemberében itt tartották a Charlottetowni Konferenciát, az első találkozót, amely végül Kanada 1867-es megalapításához vezetett. Az 1843 és 1847 között épült neoklasszikus épület 1847 óta a Prince Edward-szigeti törvényhozó gyűlés székhelye. A Konföderációs Terem, ahol a küldöttek tanácskoztak, 1864-es állapotában maradt fenn. A Province House nemzeti történelmi emlékhely és a kanadai nemzet párbeszéd és kompromisszum útján történő megszületésének erőteljes szimbóluma. Jelenleg átfogó restauráláson esik át, hogy szerkezeti integritását a jövő generációi számára is biztosítsák.",
+      "descriptionAdvancedRo": "Province House din Charlottetown, Insula Prințului Edward, este cunoscut ca locul de naștere al Confederației Canadiene. În septembrie 1864, a găzduit Conferința de la Charlottetown, prima întâlnire care a dus în cele din urmă la crearea Canadei în 1867. Clădirea neoclasică, construită între 1843 și 1847, a servit drept sediu al Adunării Legislative a Insulei Prințului Edward din 1847. Sala Confederației, unde s-au întâlnit delegații, a fost păstrată în starea sa din 1864. Province House este un sit istoric național și un simbol puternic al nașterii Canadei ca națiune prin dialog și compromis. În prezent, se află într-un amplu proces de restaurare pentru a-i asigura integritatea structurală pentru generațiile viitoare.",
+      "descriptionAdvancedEn": "Province House in Charlottetown, Prince Edward Island, is known as the birthplace of the Canadian Confederation. In September 1864, it hosted the Charlottetown Conference, the first meeting that ultimately led to the creation of Canada in 1867. The neoclassical building, constructed between 1843 and 1847, has served as the seat of the Prince Edward Island Legislative Assembly since 1847. The Confederation Chamber, where the delegates met, has been preserved in its 1864 condition. Province House is a National Historic Site and a powerful symbol of Canada's birth as a nation through dialogue and compromise. It is currently undergoing extensive restoration to ensure its structural integrity for future generations.",
+      "factsAdvancedDe": [
+        "Geburtsort der Kanadischen Konföderation.",
+        "Gastgeber der Charlottetown-Konferenz von 1864.",
+        "Sitz der Legislative von Prince Edward Island seit 1847.",
+        "Das Gebäude wurde im neoklassizistischen Stil aus Sandstein erbaut.",
+        "Der Konföderationssaal ist im Zustand von 1864 erhalten.",
+        "Kanadas zweitältestes noch genutztes Legislativgebäude.",
+        "Nationale historische Stätte Kanadas.",
+        "Wird derzeit einer mehrjährigen, umfassenden Restaurierung unterzogen."
+      ],
+      "factsAdvancedHu": [
+        "A Kanadai Konföderáció szülőhelye.",
+        "Itt tartották az 1864-es Charlottetowni Konferenciát.",
+        "1847 óta a Prince Edward-sziget törvényhozásának épülete.",
+        "Az épület neoklasszikus stílusban épült homokkőből.",
+        "A Konföderációs Terem a mai napig az 1864-es állapotokat tükrözi.",
+        "Kanada második legrégebbi, ma is használt törvényhozási épülete.",
+        "Kanada Nemzeti Történelmi Emlékhelye.",
+        "Jelenleg egy többéves, nagyszabású felújítás alatt áll."
+      ],
+      "factsAdvancedRo": [
+        "Locul de naștere al Confederației Canadiene.",
+        "A găzduit Conferința de la Charlottetown din 1864.",
+        "Sediul legislativului Insulei Prințului Edward din 1847.",
+        "Clădirea este construită în stil neoclasic din gresie.",
+        "Camera Confederației este păstrată în starea sa din 1864.",
+        "A doua cea mai veche clădire legislativă încă în uz din Canada.",
+        "Sit istoric național al Canadei.",
+        "În prezent, este supusă unei restaurări majore de mai mulți ani."
+      ],
+      "factsAdvancedEn": [
+        "The birthplace of Canadian Confederation.",
+        "Hosted the Charlottetown Conference in 1864.",
+        "Seat of the Prince Edward Island legislature since 1847.",
+        "The building is constructed in neoclassical style from sandstone.",
+        "The Confederation Chamber is preserved in its 1864 condition.",
+        "Canada's second-oldest legislature building still in use.",
+        "National Historic Site of Canada.",
+        "Currently undergoing a major, multi-year restoration."
+      ]
+    },
+    {
+      "id": "esterhazy-flour-mill-history-v2",
+      "descriptionAdvancedDe": "Die Esterhazy-Mehlmühle in Saskatchewan ist ein wichtiges Denkmal für die ungarische Einwanderung und die landwirtschaftliche Entwicklung der kanadischen Prärie. Benannt nach Graf Pál Oszkár Esterházy, der in den 1880er Jahren ungarische Siedler in die Region brachte, war die Mühle ein wirtschaftliches Zentrum für die Gemeinde. Erbaut 1907, ist sie eine der wenigen erhaltenen Holzmühlen in der Provinz. Sie repräsentiert die entscheidende Rolle der Getreideverarbeitung für die frühen landwirtschaftlichen Gemeinschaften. Die Mühle wurde restauriert und ist heute ein Provinz-Kulturerbe, das an das Erbe der ungarischen Pioniere und die Bedeutung der Landwirtschaft für die Geschichte von Saskatchewan erinnert.",
+      "descriptionAdvancedHu": "A saskatchewani Esterhazy lisztmalom a magyar bevándorlás és a kanadai préri mezőgazdasági fejlődésének fontos emlékműve. Nevét Esterházy Pál Oszkár grófról kapta, aki az 1880-as években magyar telepeseket hozott a régióba, és a malom a közösség gazdasági központja volt. Az 1907-ben épült malom egyike a kevés fennmaradt, fából készült, berendezéssel ellátott malomnak a tartományban. A gabonafeldolgozás döntő szerepét képviseli a korai mezőgazdasági közösségek számára. A malmot felújították, és ma tartományi örökségi helyszín, amely a magyar úttörők örökségére és a mezőgazdaság fontosságára emlékeztet Saskatchewan történelmében.",
+      "descriptionAdvancedRo": "Moara de făină Esterhazy din Saskatchewan este un monument important al imigrației maghiare și al dezvoltării agricole a preriilor canadiene. Numită după contele Pál Oszkár Esterházy, care a adus coloniști maghiari în regiune în anii 1880, moara a fost un centru economic pentru comunitate. Construită în 1907, este una dintre puținele mori de lemn cu echipament original care au supraviețuit în provincie. Reprezintă rolul crucial al procesării cerealelor pentru comunitățile agricole timpurii. Moara a fost restaurată și astăzi este un sit al patrimoniului provincial, comemorând moștenirea pionierilor maghiari și importanța agriculturii în istoria provinciei Saskatchewan.",
+      "descriptionAdvancedEn": "The Esterhazy Flour Mill in Saskatchewan is an important monument to Hungarian immigration and the agricultural development of the Canadian prairies. Named after Count Pál Oszkár Esterházy, who brought Hungarian settlers to the region in the 1880s, the mill was an economic hub for the community. Built in 1907, it is one of the few surviving wood-frame mills with original equipment in the province. It represents the crucial role of grain processing for early agricultural communities. The mill has been restored and is now a Provincial Heritage Property, commemorating the legacy of Hungarian pioneers and the importance of agriculture in Saskatchewan's history.",
+      "factsAdvancedDe": [
+        "Die Mühle wurde 1907 für die ungarische Siedlergemeinde gebaut.",
+        "Benannt nach Graf Pál Oszkár Esterházy, dem Anführer der Siedler.",
+        "Eine der letzten erhaltenen Holzrahmen-Mehlmühlen mit Originalausstattung in Saskatchewan.",
+        "Die Mühle mahlte das Getreide der örtlichen Bauern zu Mehl.",
+        "Bis 1981 in Betrieb, dann wurde sie zum Museum.",
+        "Ein Symbol für das Erbe der ungarischen Einwanderer in der Prärie.",
+        "Kulturerbe der Provinz Saskatchewan.",
+        "Die nahe gelegene Stadt Esterhazy wurde ebenfalls von ungarischen Siedlern gegründet."
+      ],
+      "factsAdvancedHu": [
+        "A malmot 1907-ben építették a magyar telepesek közössége számára.",
+        "Nevét Esterházy Pál Oszkár grófról kapta, a telepesek vezetőjéről.",
+        "Saskatchewan egyik utolsó, eredeti berendezéssel rendelkező fa lisztmalma.",
+        "A malom a közeli farmerek gabonáját őrölte lisztté.",
+        "1981-ig működött, majd múzeum lett.",
+        "A malom a magyar bevándorlók préribeli örökségének szimbóluma.",
+        "Saskatchewan Tartományi Örökségi Emlékhely.",
+        "A közeli Esterhazy városát is a magyar telepesek alapították."
+      ],
+      "factsAdvancedRo": [
+        "Moara a fost construită în 1907 pentru comunitatea de coloniști maghiari.",
+        "Numită după contele Pál Oszkár Esterházy, liderul coloniștilor.",
+        "Una dintre ultimele mori de făină cu cadru de lemn și echipament original din Saskatchewan.",
+        "Moara măcina grânele fermierilor locali în făină.",
+        "A funcționat până în 1981, apoi a devenit muzeu.",
+        "Un simbol al moștenirii imigranților maghiari în prerie.",
+        "Proprietate de patrimoniu provincial din Saskatchewan.",
+        "Orașul din apropiere, Esterhazy, a fost de asemenea fondat de coloniști maghiari."
+      ],
+      "factsAdvancedEn": [
+        "The mill was built in 1907 for the Hungarian settler community.",
+        "Named after Count Pál Oszkár Esterházy, the settlers' leader.",
+        "One of Saskatchewan's last surviving wood-frame flour mills with original equipment.",
+        "The mill ground local farmers' grain into flour.",
+        "Operated until 1981, then became a museum.",
+        "A symbol of the Hungarian immigrant heritage on the prairies.",
+        "Saskatchewan Provincial Heritage Property.",
+        "The nearby town of Esterhazy was also founded by Hungarian settlers."
+      ]
+    }
+  ]
+}

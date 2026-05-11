@@ -1,0 +1,85 @@
+{
+  "lang": "ro",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "Râul Swakop este un râu intermitent al cărui estuar de la Swakopmund este o zonă umedă importantă pentru păsări.",
+      "facts": ["Râu intermitent", "Zonă umedă", "Observarea păsărilor"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "Râul Hoarusib este un râu episodic în Deșertul Kaokoveld, cunoscut pentru elefanții săi adaptați la deșert.",
+      "facts": ["Râu episodic", "Deșertul Kaokoveld", "Elefanți adaptați la deșert"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "Râul Hoanib este un alt râu episodic în Namibia, oferind un habitat vital pentru fauna sălbatică adaptată la deșert.",
+      "facts": ["Râu episodic", "Faună sălbatică de deșert", "Habitat vital"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "Râul Ugab este un râu de graniță între regiunile Kunene și Erongo, renumit pentru plantele sale Welwitschia.",
+      "facts": ["Râu de graniță", "Plante Welwitschia", "Kunene și Erongo"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "Râul Fish este cel mai lung râu din Namibia, sculptând Canionul Fish River, unul dintre cele mai mari canioane din lume.",
+      "facts": ["Cel mai lung râu", "Canionul Fish River", "Canioane mari"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Lacul Otjikoto este un lac natural de tip dolină, format prin prăbușirea unui tavan de peșteră, bogat în artefacte istorice.",
+      "facts": ["Lac dolină", "Tavan de peșteră prăbușit", "Artefacte istorice"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "Lacul Guinas este un alt lac de tip dolină din Namibia, cunoscut pentru speciile sale endemice de pești și apa sa albastră intensă.",
+      "facts": ["Specii endemice de pești", "Apă albastră intensă", "Lac dolină"]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "Nylon Pool este o groapă naturală cu apă în Parcul Național Etosha, un loc popular de adunare pentru fauna sălbatică.",
+      "facts": ["Groapă naturală cu apă", "Parcul Național Etosha", "Adunare faună sălbatică"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "Câmpiile aluviale Caprivi sunt zone umede importante în nord-estul Namibiei, susținând o avifaună diversă.",
+      "facts": ["Zone umede", "Nord-estul Namibiei", "Avifaună diversă"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "Râul Chobe este un afluent al Zambezilor, cunoscut pentru marile sale turme de elefanți și fauna sălbatică abundentă.",
+      "facts": ["Afluent Zambezi", "Turme de elefanți", "Faună sălbatică abundentă"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "Râul Kwando din Fâșia Caprivi este o cale navigabilă vitală pentru fauna sălbatică, cunoscută pentru hipopotami și crocodili.",
+      "facts": ["Fâșia Caprivi", "Cale navigabilă vitală", "Hipopotami și crocodili"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "Râul Zambezi formează o parte a graniței nordice a Namibiei, o sursă importantă de apă și habitat.",
+      "facts": ["Granița nordică", "Sursă importantă de apă", "Habitat bogat"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Munții Erongo sunt un vulcan erodat, cunoscut pentru formațiunile sale stâncoase unice și arta rupestră San.",
+      "facts": ["Vulcan erodat", "Formațiuni stâncoase unice", "Artă rupestră San"]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Munții Erongo sunt un complex vulcanic în formă de inel, cu peisaje dramatice, importanți pentru alpinism și drumeții.",
+      "facts": ["Complex vulcanic în formă de inel", "Peisaje dramatice", "Alpinism și drumeții"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "Platoul Waterberg este o formațiune impresionantă de munte platou, cunoscută pentru stâncile sale abrupte și fauna sălbatică bogată.",
+      "facts": ["Munte platou", "Stânci abrupte", "Faună sălbatică bogată"]
+    }
+  ]
+}

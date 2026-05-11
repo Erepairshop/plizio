@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPanamaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "concepcion-bugaba-cities-v2",
+      "description": "Concepción is the commercial center of the Bugaba District in Chiriquí Province. It serves as a vital agricultural hub for the surrounding fertile lands.",
+      "facts": ["Located in Chiriquí", "Commercial hub", "Agricultural region"]
+    },
+    {
+      "id": "zona-logistica-tocumen-economic-v2",
+      "description": "This logistics zone is strategically located near Tocumen International Airport. It facilitates efficient cargo handling and distribution for international trade.",
+      "facts": ["Near Tocumen Airport", "Logistics hub", "Trade center"]
+    },
+    {
+      "id": "mina-oro-economic-v2",
+      "description": "A significant mining site involved in gold extraction within Panama. It contributes to the national economy through industrial mineral production.",
+      "facts": ["Gold mining", "Industrial site", "Resource extraction"]
+    },
+    {
+      "id": "industria-bebidas-economic-v2",
+      "description": "A prominent facility focused on beverage production in Panama. It caters to both domestic and export markets with various product lines.",
+      "facts": ["Beverage production", "Manufacturing", "Export oriented"]
+    },
+    {
+      "id": "parque-tecnologico-economic-v2",
+      "description": "This technology park serves as an innovation center for companies in Panama. It promotes collaboration and technological advancement in the region.",
+      "facts": ["Innovation center", "Tech hub", "Collaboration space"]
+    },
+    {
+      "id": "fuerte-san-jeronimo-history-v2",
+      "description": "A colonial-era fort built to protect Portobelo from pirate attacks. Its stone walls reflect the military architecture of the 17th century.",
+      "facts": ["Built 17th century", "Colonial fortification", "Portobelo site"]
+    },
+    {
+      "id": "casa-fuerte-de-la-aduanas-history-v2",
+      "description": "The Custom House of Portobelo, once a crucial point for Spanish treasure storage. It stands as a symbol of colonial trade history.",
+      "facts": ["Colonial trade", "Historical landmark", "Customs house"]
+    },
+    {
+      "id": "iglesia-de-san-jose-history-v2",
+      "description": "Famous for its magnificent Golden Altar, this church survived the pirate attack of 1671. It is a centerpiece of Casco Viejo.",
+      "facts": ["Golden Altar", "Casco Viejo", "17th-century church"]
+    },
+    {
+      "id": "fuerte-de-matachin-history-v2",
+      "description": "A historical military position used during the construction of the Panama Railroad. It played a role in securing the transit route.",
+      "facts": ["Military position", "Panama Railroad", "Transit route"]
+    },
+    {
+      "id": "estacion-del-ferrocarril-de-panama-history-v2",
+      "description": "The historic terminal of the Panama Railroad, connecting the Atlantic and Pacific coasts. It marks a milestone in transcontinental transport.",
+      "facts": ["Transcontinental", "Historic railway", "Coastal link"]
+    }
+  ]
+}

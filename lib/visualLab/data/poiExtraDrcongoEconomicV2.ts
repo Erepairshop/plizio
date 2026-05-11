@@ -386,7 +386,7 @@ export const poiExtraDrcongoEconomicV2: POI[] = [
       en: "CILU Cement Plant is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. The Lukala Cement Plant (CILU) is a major producer of building materials for the country. Cement production. City of Lukala. Important for infrastructure. This location plays an important role in the economy of the DR Congo, a country known worldwide for its wealth of cobalt, copper, and diamonds. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Lukala", "Provinz Kongo Central", "CILU", "Baustoffindustrie", "Versorgung der Hauptstadtregion"],
+      de: ["Lukala", "CILU", "Baustoffindustrie", "Versorgung der Hauptstadtregion"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru cd-industry-cilu-economic-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["The Lukala Cement Plant (CILU) is a major producer of building materials for the country.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest.", "Known for its scenic or cultural significance in the region."]

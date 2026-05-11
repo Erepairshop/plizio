@@ -1,0 +1,50 @@
+{
+  "lang": "ro",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oued-noun-nature-v2",
+      "description": "Râul Noun, cunoscut și sub numele de Assaka, își are cursul în sudul Marocului, formând un estuar natural înainte de a se vărsa în Oceanul Atlantic.",
+      "facts": ["Cunoscut ca Assaka", "Sudul Marocului", "Estuar natural"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Această regiune fluvială din sudul extrem al Marocului reprezintă un ecosistem arid, vital pentru fauna locală adaptată condițiilor deșertice.",
+      "facts": ["Sudul extrem", "Ecosistem arid", "Faună deșertică"]
+    },
+    {
+      "id": "oued-tazeka-nature-v2",
+      "description": "Râul Tazeka curge prin Parcul Național Tazeka, susținând diversitatea biologică a regiunii muntoase din nordul țării.",
+      "facts": ["Parcul Național Tazeka", "Regiune muntoasă", "Nordul țării"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "Râul Nfiss izvorăște din Munții Atlas și joacă un rol esențial în irigarea văilor agricole situate în apropiere de Marrakech.",
+      "facts": ["Izvorăște din Atlas", "Irigare agricolă", "Lângă Marrakech"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "Estuarul râului Tensift reprezintă o zonă umedă importantă unde cursul de apă se întâlnește cu Oceanul Atlantic, fiind un habitat pentru diverse specii.",
+      "facts": ["Estuar important", "Oceanul Atlantic", "Habitat divers"]
+    },
+    {
+      "id": "cap-spartel-nature-v2",
+      "description": "Cap Spartel marchează punctul unde Marea Mediterană se întâlnește cu Oceanul Atlantic, oferind un peisaj natural spectaculos și un far istoric.",
+      "facts": ["Mediterana și Atlanticul", "Punct de întâlnire", "Far istoric"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "Dealurile din jurul orașului Moulay Idriss Zerhoun oferă un relief variat, fiind o regiune cu importanță istorică și culturală remarcabilă.",
+      "facts": ["Dealuri variate", "Importanță istorică", "Regiune culturală"]
+    },
+    {
+      "id": "high-plateaus-relief-v2",
+      "description": "Podișurile înalte (Hauts Plateaux) din estul Marocului sunt caracterizate printr-un relief plat, fiind o zonă de tranziție între munți și deșert.",
+      "facts": ["Estul Marocului", "Relief plat", "Zonă de tranziție"]
+    }
+  ]
+}

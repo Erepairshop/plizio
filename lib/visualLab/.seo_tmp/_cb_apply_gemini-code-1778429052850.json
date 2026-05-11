@@ -1,0 +1,244 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aeroporto-amilcar-cabral-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Amílcar Cabral International Airport (SID) ist der wichtigste internationale Luftverkehrsknotenpunkt von Kap Verde und befindet sich auf der Insel Sal, unmittelbar westlich der Hauptstadt Espargos. Die historische Bedeutung des Flughafens ist immens: Er wurde ursprünglich im Jahr 1939 von der italienischen Regierung unter Benito Mussolini als strategischer Tankstopp für Transatlantikflüge zwischen Europa und Südamerika errichtet. Während des Zweiten Weltkriegs diente er als wichtiger Stützpunkt und wurde später, in der Ära des Apartheid-Regimes in Südafrika, zu einem der wenigen afrikanischen Flughäfen, die South African Airways aufgrund internationaler Boykotte für Zwischenlandungen nutzen durften. Architektonisch wurde der Flughafen mehrfach modernisiert und verfügt über eine der längsten Landebahnen Westafrikas (3.272 Meter), die sogar als Notlandeplatz für das US-amerikanische Space Shuttle zertifiziert war. Geografisch liegt der Flughafen auf einem extrem flachen, trockenen Wüstenplateau, was ideale Sichtflugbedingungen ermöglicht. Wirtschaftlich ist der Flughafen der absolute Motor der Insel Sal, da er die Logistik für den massiven Tourismussektor abwickelt und hunderte Arbeitsplätze direkt in der Abfertigung und Flugsicherung sichert. Das Terminal bietet moderne Kapazitäten für über eine Million Passagiere pro Jahr und ist nach dem kapverdischen Unabhängigkeitshelden Amílcar Cabral benannt.",
+        "hu": "Az Amílcar Cabral nemzetközi repülőtér (SID) a Zöld-foki-szigetek legfontosabb nemzetközi légiközlekedési csomópontja, amely Sal szigetén, Espargos fővárostól közvetlenül nyugatra található. A repülőtér történelmi jelentősége óriási: eredetileg 1939-ben építette az olasz kormány Benito Mussolini irányítása alatt, mint stratégiai üzemanyag-feltöltő állomást az Európa és Dél-Amerika közötti transzatlanti járatok számára. A második világháború alatt fontos bázisként szolgált, később, a dél-afrikai apartheid-rezsim idején pedig azon kevés afrikai repülőterek egyike volt, ahol a South African Airways a nemzetközi bojkott miatt leszállhatott. Építészetileg a repülőteret többször modernizálták, Nyugat-Afrika egyik leghosszabb (3272 méteres) kifutópályájával rendelkezik, amelyet korábban az amerikai Space Shuttle kényszerleszállóhelyeként is hitelesítettek. Földrajzilag a repülőtér egy rendkívül sík, száraz sivatagi fennsíkon fekszik, ami ideális látva repülési feltételeket biztosít. Gazdasági szempontból a repülőtér Sal szigetének abszolút motorja, mivel lebonyolítja a hatalmas turisztikai szektor logisztikáját, és több száz munkahelyet biztosít a földi kiszolgálás és a légiforgalmi irányítás területén. A terminál évente több mint egymillió utas kiszolgálására alkalmas, és a zöld-foki függetlenségi hősről, Amílcar Cabralról nevezték el.",
+        "ro": "Aeroportul Internațional Amílcar Cabral (SID) este cel mai important nod de transport aerian internațional din Capul Verde, situat pe insula Sal, imediat la vest de capitala Espargos. Importanța istorică a aeroportului este imensă: a fost construit inițial în anul 1939 de guvernul italian sub Benito Mussolini ca punct strategic de realimentare pentru zborurile transatlantice între Europa și America de Sud. În timpul celui de-al Doilea Război Mondial a servit ca bază importantă, iar mai târziu, în era regimului de apartheid din Africa de Sud, a devenit unul dintre puținele aeroporturi africane unde South African Airways avea permisiunea de a ateriza pentru escală din cauza boicotului internațional. Din punct de vedere arhitectural, aeroportul a fost modernizat de mai multe ori și dispune de una dintre cele mai lungi piste din Africa de Vest (3.272 metri), care a fost certificată chiar și ca pistă de aterizare de urgență pentru naveta spațială americană (Space Shuttle). Geografic, aeroportul se află pe un platou deșertic extrem de plat și arid, ceea ce permite condiții ideale de zbor la vedere. Din punct de vedere economic, aeroportul este motorul absolut al insulei Sal, gestionând logistica pentru sectorul turistic masiv și asigurând sute de locuri de muncă direct în handling și controlul traficului aerian. Terminalul oferă capacități moderne pentru peste un milion de pasageri pe an și poartă numele eroului independenței capverdiene, Amílcar Cabral.",
+        "en": "Amílcar Cabral International Airport (SID) is the premier international aviation hub of Cape Verde, located on Sal Island, immediately west of the capital city, Espargos. The airport's historical significance is immense: it was originally constructed in 1939 by the Italian government under Benito Mussolini as a strategic refueling stop for transatlantic flights between Europe and South America. During World War II, it served as a vital base, and later, during the South African apartheid era, it was one of the few African airports permitted to host South African Airways for technical stops due to international boycotts. Architecturally, the airport has undergone several modernizations and features one of West Africa's longest runways (3,272 meters), which was even certified as an emergency landing site for the US Space Shuttle. Geographically, the airport is situated on an extremely flat, arid desert plateau, providing ideal visual flight conditions. Economically, the airport is the absolute engine of Sal Island, managing the logistics for the massive tourism sector and securing hundreds of jobs in ground handling and air traffic control. The terminal has modern capacities for over one million passengers per year and is named after the Cape Verdean independence hero Amílcar Cabral."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wurde 1939 von Italien als transatlantische Tankstation erbaut.",
+          "Verfügt über eine 3.272 Meter lange Landebahn (ehem. Space Shuttle Ausweichplatz).",
+          "Wichtigstes internationales Tor für den Tourismus in Kap Verde.",
+          "Früherer wichtiger Stützpunkt für South African Airways während des Boykotts.",
+          "Befindet sich auf einem extrem flachen Wüstenplateau bei Espargos.",
+          "Nach dem Unabhängigkeitsführer Amílcar Cabral benannt.",
+          "Logistisches Zentrum für den Luftfrachtverkehr im Zentralatlantik."
+        ],
+        "hu": [
+          "1939-ben építette Olaszország transzatlanti tankolóállomásként.",
+          "3272 méter hosszú kifutópályával rendelkezik (korábbi Space Shuttle leszállóhely).",
+          "A Zöld-foki-szigetek legfontosabb nemzetközi turisztikai kapuja.",
+          "A South African Airways fontos bázisa volt a nemzetközi bojkott idején.",
+          "Egy rendkívül sík sivatagi fennsíkon található Espargos közelében.",
+          "Amílcar Cabral függetlenségi vezetőről nevezték el.",
+          "A közép-atlanti légi áruszállítás logisztikai központja."
+        ],
+        "ro": [
+          "Construit în 1939 de Italia ca stație de realimentare transatlantică.",
+          "Dispune de o pistă de 3.272 metri (fost loc de rezervă pentru Space Shuttle).",
+          "Cea mai importantă poartă internațională pentru turismul din Capul Verde.",
+          "Fost punct de sprijin crucial pentru South African Airways în timpul boicotului.",
+          "Situat pe un platou deșertic extrem de plat lângă Espargos.",
+          "Numit după liderul pentru independență Amílcar Cabral.",
+          "Centru logistic pentru traficul aerian de marfă în Atlanticul Central."
+        ],
+        "en": [
+          "Built in 1939 by Italy as a strategic transatlantic refueling station.",
+          "Features a 3,272-meter runway, once certified for NASA Space Shuttle landings.",
+          "Serves as the primary international gateway for Cape Verdean tourism.",
+          "A historic stopover for South African Airways during the apartheid-era boycott.",
+          "Located on an exceptionally flat desert plateau near the town of Espargos.",
+          "Named in honor of Amílcar Cabral, the nation's independence leader.",
+          "Central logistical hub for air cargo throughout the Central Atlantic region."
+        ]
+      }
+    },
+    {
+      "id": "igreja-nossa-senhora-conceicao-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Igreja de Nossa Senhora da Conceição befindet sich in São Filipe auf der Insel Fogo und ist eines der ikonischsten religiösen Bauwerke des Archipels. Die Kirche wurde in ihrer heutigen Form im Jahr 1849 fertiggestellt und ersetzte einen kleineren Vorgängerbau. Architektonisch repräsentiert sie den portugiesischen Kolonialstil des 19. Jahrhunderts, der hier durch eine markante weiß-blaue Fassade und zwei symmetrische Glockentürme geprägt ist. Das Gebäude thront im oberen Teil des historischen Zentrums (Vila Baixa) und ist massiv aus lokalem Vulkangestein errichtet, das später verputzt und gestrichen wurde. Historisch war die Kirche der spirituelle Mittelpunkt für die herrschaftlichen Familien, die in den umliegenden Sobrados lebten. Im Inneren beherbergt das Gotteshaus einen prachtvollen Holzaltar und wertvolle sakrale Kunstwerke, die teilweise aus Europa importiert wurden. Geografisch markiert die Kirche den Übergang zwischen dem administrativen Plateau der Stadt und den steilen Hängen des Pico do Fogo. Sie ist der zentrale Ort für die Feierlichkeiten zur Unbefleckten Empfängnis am 8. Dezember und spielt eine wesentliche Rolle im sozialen Zusammenhalt der Inselgemeinschaft. Die Architektur sorgt durch ihre dicken Mauern für eine natürliche Kühle, die in der trockenen Hitze Fogos von großer Bedeutung ist.",
+        "hu": "A Nossa Senhora da Conceição templom São Filipében, Fogo szigetén található, és a szigetvilág egyik legikonikusabb vallási építménye. A templomot jelenlegi formájában 1849-ben fejezték be, felváltva egy korábbi, kisebb épületet. Építészetileg a 19. századi portugál gyarmati stílust képviseli, amelyet itt jellegzetes fehér-kék homlokzat és két szimmetrikus harangtorony határoz meg. Az épület a történelmi városközpont (Vila Baixa) felső részén trónol, és masszívan, helyi vulkáni kőzetből épült, amelyet később vakoltak és festettek. Történelmileg a templom a környező sobradókban lakó úri családok spirituális központja volt. Belsejében pompás faoltár és értékes szakrális műalkotások találhatók, amelyek részben Európából származnak. Földrajzilag a templom jelzi az átmenetet a város közigazgatási fennsíkja és a Pico do Fogo meredek lejtői között. Ez a központi helyszíne a Szeplőtelen Fogantatás december 8-i ünnepségeinek, és alapvető szerepet játszik a szigeti közösség társadalmi összetartásában. Az építészet vastag falaival természetes hűvöst biztosít, ami Fogo száraz hőségében nagy jelentőséggel bír.",
+        "ro": "Biserica Nossa Senhora da Conceição este situată în São Filipe, pe insula Fogo, și este una dintre cele mai emblematice structuri religioase din arhipelag. Biserica a fost finalizată în forma sa actuală în anul 1849, înlocuind o construcție anterioară mai mică. Din punct de vedere arhitectural, aceasta reprezintă stilul colonial portughez al secolului al XIX-lea, marcat aici de o fațadă alb-albastră distinctivă și două turnuri clopotniță simetrice. Edificiul tronează în partea superioară a centrului istoric (Vila Baixa) și este construit masiv din rocă vulcanică locală, tencuită și vopsită ulterior. Din punct de vedere istoric, biserica a fost centrul spiritual pentru familiile boierești care locuiau în clădirile Sobrados din jur. În interior, lăcașul de cult adăpostește un altar de lemn somptuos și opere de artă sacră valoroase, importate parțial din Europa. Geografic, biserica marchează tranziția între platoul administrativ al orașului și pantele abrupte ale vulcanului Pico do Fogo. Este locul central pentru festivitățile Neprihănitei Zămisliri de pe 8 decembrie și joacă un rol esențial în coeziunea socială a comunității insulare. Arhitectura asigură o răcoare naturală prin zidurile sale groase, fapt deosebit de important în căldura aridă din Fogo.",
+        "en": "The Church of Our Lady of the Conception (Igreja de Nossa Senhora da Conceição) is located in São Filipe on Fogo Island and is one of the most iconic religious structures in the archipelago. The church was completed in its current form in 1849, replacing a smaller previous building. Architecturally, it represents 19th-century Portuguese colonial style, characterized by a striking white-and-blue facade and two symmetrical bell towers. The structure is perched in the upper part of the historic district (Vila Baixa) and is built solidly from local volcanic stone, which was later plastered and painted. Historically, the church served as the spiritual center for the aristocratic families residing in the surrounding Sobrados. Inside, the place of worship houses a magnificent wooden altar and valuable sacred art, some of which was imported from Europe. Geographically, the church marks the transition between the city's administrative plateau and the steep slopes of Pico do Fogo. It is the focal point for the Feast of the Immaculate Conception on December 8th and plays a vital role in the social cohesion of the island community. Its thick stone walls provide natural cooling, which is of great importance in Fogo's dry heat."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das heutige Gebäude wurde im Jahr 1849 eingeweiht.",
+          "Markante weiß-blaue Fassade im portugiesischen Kolonialstil.",
+          "Befindet sich im historischen Viertel Vila Baixa in São Filipe.",
+          "Beherbergt wertvolle sakrale Kunstwerke und einen Prunkaltar.",
+          "Zentraler Punkt für die Feierlichkeiten am 8. Dezember.",
+          "Massive Bauweise aus vulkanischem Gestein sorgt für Innenraumkühlung.",
+          "Wichtiges religiöses und architektonisches Erbe der Insel Fogo."
+        ],
+        "hu": [
+          "A jelenlegi épületet 1849-ben szentelték fel.",
+          "Jellegzetes fehér-kék homlokzat portugál gyarmati stílusban.",
+          "São Filipe történelmi Vila Baixa negyedében található.",
+          "Értékes szakrális műalkotásoknak és egy pompás oltárnak ad otthont.",
+          "A december 8-i ünnepségek központi helyszíne.",
+          "Vulkáni kőzetből készült masszív fala hűvösen tartja a belső teret.",
+          "Fogo szigetének fontos vallási és építészeti öröksége."
+        ],
+        "ro": [
+          "Clădirea actuală a fost sfințită în anul 1849.",
+          "Fațadă alb-albastră distinctivă în stil colonial portughez.",
+          "Situată în cartierul istoric Vila Baixa din São Filipe.",
+          "Găzduiește opere de artă sacră valoroase și un altar somptuos.",
+          "Locul central pentru festivitățile de pe 8 decembrie.",
+          "Construcția masivă din rocă vulcanică asigură răcoarea interioară.",
+          "Patrimoniu religios și arhitectural important al insulei Fogo."
+        ],
+        "en": [
+          "The current building was officially consecrated in 1849.",
+          "Features a striking white-and-blue facade in Portuguese colonial style.",
+          "Located within the historic Vila Baixa district of São Filipe.",
+          "Houses valuable sacred artworks and a magnificent wooden altar.",
+          "Primary venue for the annual celebrations on December 8th.",
+          "Solid volcanic stone construction provides natural interior cooling.",
+          "A vital religious and architectural landmark on the island of Fogo."
+        ]
+      }
+    },
+    {
+      "id": "camara-municipal-rg-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Câmara Municipal de Ribeira Grande befindet sich im Herzen des gleichnamigen Ortes im Norden der Insel Santo Antão. Das Gebäude ist der Sitz der lokalen Stadtverwaltung und ein herausragendes Beispiel für die koloniale Verwaltungsarchitektur Kap Verdes im 19. Jahrhundert. Geografisch liegt das Rathaus in einem tiefen, üppig grünen Tal am Zusammenfluss der Ribeiras Grande und da Torre, was der Stadt eine dramatische topografische Kulisse verleiht. Das Bauwerk zeichnet sich durch seine symmetrische Fassade, die markanten Holzfensterläden und ein klassisches Ziegeldach aus. Die Architektur reflektiert den historischen Status von Ribeira Grande (ehemals Povoação) als wichtigstes administratives Zentrum der Insel vor dem Aufstieg von Porto Novo. Wirtschaftlich gesehen steuert das Rathaus die Entwicklung der landwirtschaftlich produktivsten Region des Archipels, die vor allem für den Anbau von Zuckerrohr und die Produktion von Grogue bekannt ist. Im Inneren beherbergt das Gebäude den Sitzungssaal des Gemeinderates und dient als Anlaufstelle für die Bürger der nördlichen Bezirke. Das Gebäude wurde massiv aus lokalem Stein errichtet und ist ein fester Bestandteil des architektonischen Ensembles, das den zentralen Platz der Stadt säumt. Trotz der Modernisierung der Verwaltung hat das Gebäude seinen ursprünglichen kolonialen Charakter bewahrt und symbolisiert die Beständigkeit der lokalen Regierungsführung auf der gebirgigen Insel.",
+        "hu": "Ribeira Grande városháza (Câmara Municipal de Ribeira Grande) az azonos nevű település szívében található, Santo Antão szigetének északi részén. Az épület a helyi önkormányzat székhelye, és a 19. századi zöld-foki gyarmati közigazgatási építészet kiemelkedő példája. Földrajzilag a városháza egy mély, dúsan zöldellő völgyben fekszik, a Ribeira Grande és a Ribeira da Torre folyók találkozásánál, ami drámai topográfiai hátteret ad a városnak. Az építményt szimmetrikus homlokzat, jellegzetes fazsaluk és klasszikus cseréptető jellemzi. Az építészet tükrözi Ribeira Grande (korábbi nevén Povoação) történelmi státuszát, mint a sziget legfontosabb adminisztratív központját Porto Novo felemelkedése előtt. Gazdasági szempontból a városháza irányítja a szigetvilág mezőgazdaságilag legtermékenyebb régiójának fejlődését, amely főként a cukornádtermesztésről és a grogue-készítésről ismert. Belsejében a képviselő-testület ülésterme kapott helyet, és a központi ügyintézés helyszíne az északi körzetek lakói számára. Az épület masszívan, helyi kőből épült, és szerves része a város főterét szegélyező építészeti együttesnek. A közigazgatás modernizálása ellenére az épület megőrizte eredeti gyarmati karakterét, szimbolizálva a helyi kormányzás állandóságát a hegyvidéki szigeten.",
+        "ro": "Primăria din Ribeira Grande (Câmara Municipal de Ribeira Grande) este situată în inima localității omonime din nordul insulei Santo Antão. Clădirea reprezintă sediul administrației municipale locale și este un exemplu remarcabil de arhitectură administrativă colonială din Capul Verde din secolul al XIX-lea. Geografic, primăria se află într-o vale adâncă și luxuriantă, la confluența râurilor Ribeira Grande și da Torre, ceea ce oferă orașului un fundal topografic dramatic. Edificiul se caracterizează prin fațada sa simetrică, obloanele de lemn distinctive și un acoperiș clasic din țiglă. Arhitectura reflectă statutul istoric al orașului Ribeira Grande (fostul Povoação) ca cel mai important centru administrativ al insulei înainte de ascensiunea orașului Porto Novo. Din punct de vedere economic, primăria coordonează dezvoltarea celei mai productive regiuni agricole din arhipelag, cunoscută în special pentru cultivarea trestiei de zahăr și producția de grogue. În interior, clădirea găzduiește sala de ședințe a consiliului municipal și servește drept punct de contact pentru cetățenii districtelor nordice. Clădirea este construită masiv din piatră locală și este o parte integrantă a ansamblului arhitectural care mărginește piața centrală a orașului. În ciuda modernizării administrației, clădirea și-a păstrat caracterul colonial original și simbolizează permanența guvernării locale pe această insulă muntoasă.",
+        "en": "The Ribeira Grande City Hall (Câmara Municipal de Ribeira Grande) is located in the heart of the eponymous town in northern Santo Antão Island. The building serves as the seat of the local municipal government and is a preeminent example of 19th-century Cape Verdean colonial administrative architecture. Geographically, the city hall is situated in a deep, lush valley at the confluence of the Ribeira Grande and da Torre rivers, providing the town with a dramatic topographical backdrop. The structure is distinguished by its symmetrical facade, characteristic wooden shutters, and a traditional tiled roof. The architecture reflects Ribeira Grande's (formerly Povoação) historic status as the island's primary administrative center prior to the rise of Porto Novo. Economically, the city hall manages the development of the archipelago's most agriculturally productive region, renowned for sugarcane cultivation and grogue production. Internally, the building houses the municipal council chamber and serves as the central service point for citizens of the northern districts. Built solidly from local stone, it is a permanent fixture of the architectural ensemble lining the town's central square. Despite the modernization of government services, the building has retained its original colonial character, symbolizing the continuity of local governance on this mountainous island."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sitz der Gemeindeverwaltung von Ribeira Grande im Norden von Santo Antão.",
+          "Herausragendes Beispiel für koloniale Verwaltungsarchitektur des 19. Jahrhunderts.",
+          "Befindet sich am strategischen Zusammenfluss zweier großer Flusstäler.",
+          "Einstiges administratives Hauptzentrum der Insel vor dem Aufstieg Porto Novos.",
+          "Die Fassade ist durch symmetrische Linien und traditionelle Holzfenster geprägt.",
+          "Verwaltet das wichtigste Agrargebiet für die Grogue-Produktion.",
+          "Bestandteil des geschützten historischen Stadtkerns von Ribeira Grande."
+        ],
+        "hu": [
+          "Ribeira Grande önkormányzatának székhelye Santo Antão északi részén.",
+          "A 19. századi gyarmati közigazgatási építészet kiemelkedő példája.",
+          "Két nagy folyóvölgy stratégiai találkozásánál található.",
+          "A sziget egykori fő adminisztratív központja Porto Novo felemelkedése előtt.",
+          "Homlokzatát szimmetrikus vonalak és hagyományos fazsaluk jellemzik.",
+          "Irányítja a grogue-termelés szempontjából legfontosabb agrárterületet.",
+          "Ribeira Grande védett történelmi városmagjának szerves része."
+        ],
+        "ro": [
+          "Sediul administrației municipale din Ribeira Grande, în nordul insulei Santo Antão.",
+          "Exemplu remarcabil de arhitectură administrativă colonială din secolul XIX.",
+          "Situată la confluența strategică a două văi fluviale mari.",
+          "Fostul centru administrativ principal al insulei înainte de ascensiunea Porto Novo.",
+          "Fațada este marcată de linii simetrice și obloane tradiționale din lemn.",
+          "Administrează cea mai importantă zonă agricolă pentru producția de grogue.",
+          "Parte componentă a nucleului istoric protejat din Ribeira Grande."
+        ],
+        "en": [
+          "Seat of the Ribeira Grande municipal government in northern Santo Antão.",
+          "A preeminent example of 19th-century colonial administrative design.",
+          "Strategically located at the confluence of two major river valleys.",
+          "The island's primary administrative hub prior to the emergence of Porto Novo.",
+          "Facade is defined by symmetrical lines and traditional wooden shutters.",
+          "Governs the most significant agricultural region for grogue production.",
+          "An integral part of Ribeira Grande's designated protected historic center."
+        ]
+      }
+    },
+    {
+      "id": "farol-fontainhas-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Farol de Fontainhas befindet sich an der dramatischen Nordwestküste der Insel Santo Antão, unweit des malerischen Bergdorfes Fontainhas. Der Leuchtturm wurde in der ersten Hälfte des 20. Jahrhunderts errichtet, um die Navigation entlang der extrem steilen und gefährlichen Küstenklippen zu sichern, wo der Atlantik fast ungebremst auf das Land trifft. Geografisch thront das Bauwerk auf einem schmalen Felsvorsprung hoch über der Meeresoberfläche und ist nur über einen anspruchsvollen, in den Fels gehauenen Wanderweg erreichbar. Die Architektur ist schlicht und funktional, bestehend aus einem weißen quadratischen Turm mit einer Laterne auf einer kleinen Galerie. Der Leuchtturm markiert einen der abgelegensten Punkte der Insel und ist für seine spektakuläre Aussicht auf die zerklüftete Küste und das azurblaue Meer bekannt. Wirtschaftlich war der Leuchtturm früher entscheidend für den lokalen Schiffsverkehr und die Versorgung der isolierten Küstengemeinden im Norden. Obwohl die Anlage heute automatisiert ist, bleibt das historische Gebäude ein wichtiges Wahrzeichen für Wanderer und Fotografen, die den berühmten Küstenweg von Ponta do Sol nach Cruzinha de Garça nutzen. Das Bauwerk ist massiv aus Beton und Stein gebaut, um den korrosiven Salzwinden und der hohen Luftfeuchtigkeit der Region zu widerstehen. Der Farol de Fontainhas symbolisiert die raue Einsamkeit und die maritime Sicherheit an einem der geografisch extremsten Punkte des kapverdischen Archipels.",
+        "hu": "A Fontainhas világítótorony (Farol de Fontainhas) Santo Antão szigetének drámai északnyugati partján található, nem messze a festői Fontainhas hegyi falutól. A világítótornyot a 20. század első felében emelték, hogy biztosítsák a navigációt a rendkívül meredek és veszélyes parti sziklák mentén, ahol az Atlanti-óceán szinte fékezetlenül zúdul a partra. Földrajzilag az építmény egy keskeny sziklakiszögellésen trónol magasan a tengerfelszín felett, és csak egy kihívást jelentő, sziklába vájt gyalogúton érhető el. Az építészet egyszerű és funkcionális, egy fehér, négyzet alaprajzú toronyból áll, amelynek tetején, egy kis galérián található a lámpatest. A világítótorony a sziget egyik legtávolabbi pontját jelzi, és híres a szaggatott partvidékre és az azúrkék tengerre nyíló látványos kilátásáról. Gazdaságilag a világítótorony korábban döntő fontosságú volt a helyi hajóforgalom és az elszigetelt északi parti közösségek ellátása szempontjából. Bár a létesítmény ma már automatizált, a történelmi épület fontos tájékozódási pont marad a túrázók és fotósok számára, akik a Ponta do Sol és Cruzinha de Garça közötti híres parti utat járják. Az építmény masszívan, betonból és kőből készült, hogy ellenálljon a korrozív sós szeleknek és a régió magas páratartalmának. A Fontainhas világítótorony a zord magányt és a tengeri biztonságot szimbolizálja a zöld-foki szigetvilág egyik földrajzilag legszélsőségesebb pontján.",
+        "ro": "Farul Fontainhas este situat pe coasta de nord-vest dramatică a insulei Santo Antão, nu departe de pitorescul sat montan Fontainhas. Farul a fost ridicat în prima jumătate a secolului XX pentru a securiza navigația de-a lungul stâncilor de coastă extrem de abrupte și periculoase, unde Atlanticul lovește uscatul aproape neîngrădit. Din punct de vedere geografic, edificiul tronează pe o proeminență stâncoasă îngustă, sus deasupra nivelului mării, fiind accesibil doar printr-o potecă solicitantă, tăiată în stâncă. Arhitectura este simplă și funcțională, constând dintr-un turn pătrat alb cu o lanternă pe o mică galerie. Farul marchează unul dintre cele mai izolate puncte ale insulei și este cunoscut pentru vederea sa spectaculoasă asupra coastei crestate și a mării azurii. Din punct de vedere economic, farul a fost în trecut crucial pentru traficul maritim local și aprovizionarea comunităților de coastă izolate din nord. Deși instalația este astăzi automatizată, clădirea istorică rămâne un punct de reper important pentru drumeți și fotografi care parcurg faimosul drum de coastă de la Ponta do Sol la Cruzinha de Garça. Edificiul este construit masiv din beton și piatră pentru a rezista vânturilor sărate corozive și umidității ridicate din regiune. Farul Fontainhas simbolizează singurătatea aspră și siguranța maritimă într-unul dintre cele mai extreme puncte geografice ale arhipelagului Capului Verde.",
+        "en": "The Fontainhas Lighthouse (Farol de Fontainhas) is situated on the dramatic northwestern coast of Santo Antão Island, near the picturesque mountain village of Fontainhas. The lighthouse was constructed in the first half of the 20th century to aid navigation along the extremely steep and hazardous coastal cliffs, where the Atlantic swells strike the shore with immense force. Geographically, the structure is perched on a narrow rocky outcrop high above sea level and is accessible only via a challenging hiking trail carved into the cliffs. The architecture is simple and functional, featuring a white square tower with a lantern on a small gallery. The lighthouse marks one of the island's most remote locations and is renowned for its spectacular views of the rugged coastline and the azure ocean. Economically, the lighthouse was once vital for local maritime traffic and the supply of isolated northern coastal communities. Although the facility is now automated, the historic building remains a significant landmark for hikers and photographers traversing the famous coastal path from Ponta do Sol to Cruzinha de Garça. Built solidly from concrete and stone to withstand corrosive salt winds and high humidity, the Fontainhas Lighthouse symbolizes the rugged isolation and maritime safety at one of the geographically most extreme points of the Cape Verdean archipelago."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Leuchtturm an der dramatischen Nordwestküste von Santo Antão.",
+          "Erbaut in der ersten Hälfte des 20. Jahrhunderts zur Navigationssicherung.",
+          "Liegt auf einem exponierten Felsvorsprung hoch über dem Meeresspiegel.",
+          "Nur zu Fuß über einen anspruchsvollen Küstenpfad erreichbar.",
+          "Ikonischer Wegpunkt auf der Wanderroute von Ponta do Sol nach Cruzinha.",
+          "Die weiße, quadratische Architektur bietet einen weiten Panoramablick.",
+          "Widersteht extremen Witterungsbedingungen und korrosiven Salzwinden."
+        ],
+        "hu": [
+          "Világítótorony Santo Antão drámai északnyugati partján.",
+          "A 20. század első felében épült a hajózás biztonsága érdekében.",
+          "Egy kitett sziklakiszögellésen fekszik, magasan a tenger felett.",
+          "Csak gyalogosan, egy nehéz parti ösvényen keresztül érhető el.",
+          "Ikonikus útpont a Ponta do Sol és Cruzinha közötti túraútvonalon.",
+          "A fehér, négyzetes építmény tágas panorámát kínál a tengerre.",
+          "Ellenáll az extrém időjárási körülményeknek és a sós tengeri szélnek."
+        ],
+        "ro": [
+          "Far situat pe coasta de nord-vest dramatică a insulei Santo Antão.",
+          "Construit în prima jumătate a secolului XX pentru siguranța navigației.",
+          "Amplasat pe o proeminență stâncoasă expusă, sus deasupra mării.",
+          "Accesibil doar pe jos printr-o potecă de coastă solicitantă.",
+          "Punct de reper iconic pe ruta de drumeție de la Ponta do Sol la Cruzinha.",
+          "Arhitectura albă, pătrată, oferă o vedere panoramică extinsă.",
+          "Rezistă condițiilor meteorologice extreme și vânturilor sărate corozive."
+        ],
+        "en": [
+          "A coastal lighthouse situated on the dramatic northwestern shore of Santo Antão.",
+          "Constructed in the early 20th century to secure navigation near steep cliffs.",
+          "Perched on a highly exposed rocky outcrop high above the Atlantic surface.",
+          "Strictly accessible on foot via a demanding coastal mountain path.",
+          "A legendary waypoint on the hiking route between Ponta do Sol and Cruzinha.",
+          "The white square tower design offers sweeping panoramic ocean views.",
+          "Engineered to withstand extreme weather and highly corrosive maritime winds."
+        ]
+      }
+    },
+    {
+      "id": "centro-cultural-mindelo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Centro Cultural do Mindelo (CCM) ist die wichtigste Kultureinrichtung der Insel São Vicente und befindet sich in einem historisch bedeutsamen Gebäude im Zentrum von Mindelo. Der Komplex ist in der ehemaligen 'Alfândega' (Zollhaus) untergebracht, die in der Mitte des 19. Jahrhunderts errichtet wurde und ein Paradebeispiel für die koloniale Zweckarchitektur jener Zeit darstellt. Geografisch liegt das Zentrum direkt an der Avenida Marginal, gegenüber dem Hafen Porto Grande, was seine historische Rolle als administrativer Kontrollpunkt für den Seehandel unterstreicht. Im Jahr 1997 wurde das Gebäude nach einer umfassenden Restaurierung als Kulturzentrum neu eingeweiht. Es beherbergt heute ein Theater, Ausstellungsräume für zeitgenössische Kunst, eine Bibliothek und mehrere Werkstätten. Wirtschaftlich ist das CCM ein zentraler Faktor für den Kulturtourismus in Mindelo und dient als Plattform für lokale Musiker, Maler und Handwerker. Die Architektur besticht durch ihre massiven Steinmauern, die hohen Holzdecken und einen großzügigen Innenhof, der für Open-Air-Veranstaltungen genutzt wird. Historisch spiegelt die Transformation des Gebäudes vom Zollhaus zum Kulturzentrum den Wandel der Stadt von einem rein kommerziellen Hafen zu einer der lebendigsten Kunstmetropolen Westafrikas wider. Das Zentrum ist zudem Sitz des Zentrums für Kunsthandwerk und Design und spielt eine entscheidende Rolle bei der Förderung der kapverdischen Identität im globalen Kontext.",
+        "hu": "A mindelói Kulturális Központ (Centro Cultural do Mindelo - CCM) São Vicente szigetének legfontosabb kulturális intézménye, amely egy történelmileg jelentős épületben található Mindelo központjában. A komplexum az egykori 'Alfândega' (Vámház) épületében kapott helyet, amelyet a 19. század közepén emeltek, és a korabeli gyarmati funkcionális építészet mintapéldája. Földrajzilag a központ közvetlenül az Avenida Marginal mentén, a Porto Grande kikötővel szemben helyezkedik el, ami hangsúlyozza történelmi szerepét a tengeri kereskedelem adminisztratív ellenőrző pontjaként. Az épületet 1997-ben, egy átfogó restaurálást követően avatták fel újra kulturális központként. Ma színháznak, kortárs művészeti kiállítótermeknek, könyvtárnak és több műhelynek ad otthont. Gazdasági szempontból a CCM Mindelo kulturális turizmusának meghatározó tényezője, amely platformot biztosít a helyi zenészek, festők és kézművesek számára. Az építészet a masszív kőfalakkal, a magas fagerendás mennyezetekkel és a szabadtéri rendezvényekre használt tágas belső udvarral nyűgözi le a látogatókat. Történelmileg az épület vámházból kulturális központtá való átalakulása tükrözi a város átalakulását egy tisztán kereskedelmi kikötőből Nyugat-Afrika egyik legélénkebb művészeti metropoliszává. A központ egyben a Kézműves és Design Központ székhelye is, és döntő szerepet játszik a zöld-foki identitás globális kontextusban történő népszerűsítésében.",
+        "ro": "Centrul Cultural din Mindelo (CCM) este cea mai importantă instituție culturală de pe insula São Vicente și este situat într-o clădire de importanță istorică din centrul orașului Mindelo. Complexul este găzduit în fosta „Alfândega” (Vamă), ridicată la mijlocul secolului al XIX-lea, fiind un exemplu reprezentativ de arhitectură colonială funcțională din acea perioadă. Geografic, centrul se află direct pe Avenida Marginal, vizavi de portul Porto Grande, fapt ce îi subliniază rolul istoric de punct de control administrativ pentru comerțul maritim. În anul 1997, clădirea a fost reinaugurată ca centru cultural după o restaurare cuprinzătoare. Astăzi găzduiește un teatru, spații expoziționale pentru artă contemporană, o bibliotecă și mai multe ateliere. Din punct de vedere economic, CCM este un factor central pentru turismul cultural din Mindelo și servește drept platformă pentru muzicienii, pictorii și artizanii locali. Arhitectura impresionează prin zidurile sale masive de piatră, tavanele înalte de lemn și o curte interioară generoasă, utilizată pentru evenimente în aer liber. Din punct de vedere istoric, transformarea clădirii din vamă în centru cultural reflectă schimbarea orașului de la un port pur comercial la una dintre cele mai vibrante metropole artistice din Africa de Vest. Centrul este, de asemenea, sediul Centrului pentru Artizanat și Design și joacă un rol decisiv în promovarea identității capverdiene în context global.",
+        "en": "The Mindelo Cultural Center (Centro Cultural do Mindelo - CCM) is the premier cultural institution on São Vicente Island, housed in a historically significant building in central Mindelo. The complex occupies the former 'Alfândega' (Customs House), constructed in the mid-19th century as a prime example of colonial functional architecture of that era. Geographically, the center is located directly on Avenida Marginal, opposite the Porto Grande harbor, highlighting its historic role as an administrative checkpoint for maritime trade. In 1997, the building was reinaugurated as a cultural center following extensive restoration. It now houses a theater, contemporary art exhibition spaces, a library, and several workshops. Economically, the CCM is a central driver for cultural tourism in Mindelo, serving as a platform for local musicians, painters, and artisans. The architecture is noted for its massive stone walls, high wooden ceilings, and a spacious interior courtyard used for open-air events. Historically, the building's transformation from a customs house to a cultural center reflects the city's evolution from a purely commercial port to one of West Africa's most vibrant artistic hubs. The center also serves as the headquarters for the Center for Handicrafts and Design and plays a crucial role in promoting Cape Verdean identity on a global stage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt in der ehemaligen Zollstation (Alfândega) aus dem 19. Jahrhundert.",
+          "Wurde im Jahr 1997 als offizielles Kulturzentrum neu eingeweiht.",
+          "Befindet sich an der Avenida Marginal mit Blick auf den Hafen Porto Grande.",
+          "Zentraler Austragungsort für das internationale Theaterfestival Mindelact.",
+          "Verfügt über Werkstätten für traditionelles Handwerk und zeitgenössisches Design.",
+          "Die massive Steinarchitektur bietet Platz für Ausstellungen und Konzerte.",
+          "Wichtigster Pfeiler für den Erhalt der kulturellen Identität Mindelos."
+        ],
+        "hu": [
+          "A 19. századi egykori vámház (Alfândega) épületében kapott helyet.",
+          "1997-ben avatták fel hivatalosan mint kulturális központot.",
+          "Az Avenida Marginal mentén található, kilátással a Porto Grande kikötőre.",
+          "A Mindelact nemzetközi színházi fesztivál központi helyszíne.",
+          "Hagyományos kézműves és kortárs design műhelyekkel rendelkezik.",
+          "Masszív kőépítészete tágas tereket biztosít kiállításoknak és koncerteknek.",
+          "Mindelo kulturális identitásának megőrzésében betöltött legfontosabb pillér."
+        ],
+        "ro": [
+          "Găzduit în fostul sediu al vămii (Alfândega) din secolul al XIX-lea.",
+          "Reinaugurat ca centru cultural oficial în anul 1997.",
+          "Situat pe Avenida Marginal cu vedere spre portul Porto Grande.",
+          "Locul central de desfășurare pentru festivalul internațional de teatru Mindelact.",
+          "Dispune de ateliere pentru meșteșuguri tradiționale și design contemporan.",
+          "Arhitectura masivă din piatră oferă spațiu pentru expoziții și concerte.",
+          "Pilonul principal pentru păstrarea identității culturale din Mindelo."
+        ],
+        "en": [
+          "Housed in the former 19th-century Customs House (Alfândega) building.",
+          "Officially reinaugurated as a cultural center in the year 1997.",
+          "Located on the Avenida Marginal overlooking the Porto Grande harbor.",
+          "The primary venue for the international Mindelact theater festival.",
+          "Features active workshops for traditional crafts and modern design.",
+          "Its massive stone architecture provides ample space for galleries and concerts.",
+          "The most significant pillar for preserving Mindelo's unique cultural identity."
+        ]
+      }
+    }
+  ]
+}

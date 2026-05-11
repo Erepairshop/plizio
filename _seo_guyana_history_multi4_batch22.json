@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-mission-chapel-new-amsterdam-history-v2",
+      "descriptionAdvancedDe": "Die Mission Chapel in New Amsterdam ist eine Kirche mit einer tiefen und bedeutsamen Geschichte im Kampf gegen die Sklaverei. Gegründet 1819 vom Missionar Reverend John Wray, war sie eine der ersten Kirchen in der Kolonie, die sich der Bildung und spirituellen Betreuung der versklavten Bevölkerung widmete. Die Kapelle wurde schnell zu einem Zentrum der Hoffnung und des Lernens. Ihre ursprüngliche Struktur wurde während des Demerara-Aufstands von 1823 zerstört, da sie von den Plantagenbesitzern als Unruheherd angesehen wurde. Die heutige Kirche, die später wieder aufgebaut wurde, steht als Zeugnis für den unerschütterlichen Glauben und den Widerstandsgeist der Gemeinschaft. Sie ist ein wichtiges historisches Wahrzeichen in New Amsterdam und erinnert an die entscheidende Rolle, die Missionare und religiöse Gemeinschaften bei der Unterstützung der versklavten Menschen und der Förderung der Emanzipation spielten.",
+      "descriptionAdvancedHu": "A New Amsterdam-i Missziós Kápolna a rabszolgaság elleni küzdelem mély és jelentős történelmével rendelkező templom. A John Wray tiszteletes misszionárius által 1819-ben alapított kápolna az elsők között volt a gyarmaton, amely a rabszolgasorba taszított lakosság oktatásának és lelki gondozásának szentelte magát. A kápolna gyorsan a remény és a tanulás központjává vált. Eredeti szerkezetét az 1823-as Demerara-felkelés során lerombolták, mivel az ültetvényesek a nyugtalanság fészkének tekintették. A később újjáépített mai templom a közösség rendíthetetlen hitének és ellenálló szellemének tanúbizonysága. Fontos történelmi nevezetesség New Amsterdamban, amely emlékeztet a misszionáriusok és a vallási közösségek döntő szerepére a rabszolgák támogatásában és az emancipáció előmozdításában.",
+      "descriptionAdvancedRo": "Capela Misiunii din New Amsterdam este o biserică cu o istorie profundă și semnificativă în lupta împotriva sclaviei. Fondată în 1819 de misionarul reverend John Wray, a fost una dintre primele biserici din colonie dedicate educației și îngrijirii spirituale a populației înrobite. Capela a devenit rapid un centru de speranță și învățătură. Structura sa originală a fost distrusă în timpul Revoltei Demerara din 1823, deoarece proprietarii de plantații o considerau un focar de neliniște. Biserica actuală, reconstruită ulterior, stă ca o mărturie a credinței neclintite și a spiritului de rezistență al comunității. Este un reper istoric important în New Amsterdam, amintind de rolul crucial pe care misionarii și comunitățile religioase l-au jucat în sprijinirea persoanelor înrobite și în promovarea emancipării.",
+      "descriptionAdvancedEn": "The Mission Chapel in New Amsterdam is a church with a deep and significant history in the fight against slavery. Founded in 1819 by the missionary Reverend John Wray, it was one of the first churches in the colony dedicated to the education and spiritual care of the enslaved population. The chapel quickly became a center of hope and learning. Its original structure was destroyed during the 1823 Demerara Uprising, as it was seen as a hotbed of unrest by the plantation owners. The present church, later rebuilt, stands as a testament to the unwavering faith and resilient spirit of the community. It is an important historical landmark in New Amsterdam, recalling the crucial role that missionaries and religious communities played in supporting the enslaved people and promoting emancipation.",
+      "factsAdvanced": [
+        "Gegründet 1819 vom Missionar Reverend John Wray.",
+        "Eine der ersten Kirchen, die sich um versklavte Menschen kümmerte.",
+        "Bot Bildung und spirituelle Anleitung.",
+        "Die ursprüngliche Kapelle wurde im Aufstand von 1823 zerstört.",
+        "Von Plantagenbesitzern als Unruheherd angesehen.",
+        "Später wieder aufgebaut als Symbol des Widerstands.",
+        "Wichtiges historisches Wahrzeichen in New Amsterdam.",
+        "Zeugnis der Rolle der Kirche im Kampf gegen die Sklaverei."
+      ]
+    }
+  ]
+}

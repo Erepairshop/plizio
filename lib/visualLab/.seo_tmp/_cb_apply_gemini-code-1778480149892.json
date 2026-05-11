@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "corubal-basin-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Becken des Rio Corubal im Südosten Guinea-Bissaus stellt eine der dynamischsten Reliefzonen des Landes dar. Im Gegensatz zu den flachen Küstenebenen ist dieses Gebiet durch ein stärker akzentuiertes Gefälle geprägt, da der Fluss vom Fouta-Djallon-Hochland herabfließt. Das Relief zeichnet sich durch tief in das Lateritgestein eingeschnittene Flusstäler aus, die von steilen Hängen und markanten Felsformationen flankiert werden. Besonders charakteristisch sind die zahlreichen Stromschnellen und Wasserfälle, wie die von Saltinho und Cusselinta, die durch die harten geologischen Barrieren des Untergrunds entstehen. Das Corubal-Becken fungiert als gewaltiges Entwässerungssystem für die östlichen Plateaus und ist während der Monsunzeit durch rapide ansteigende Wasserstände gekennzeichnet. Geomorphologisch gesehen ist dieses Relief eine Übergangszone zwischen den Gebirgszügen Guineas und den Ebenen Guinea-Bissaus. Die Erosionskraft des Wassers hat hier eine Landschaft geschaffen, die reich an mineralischen Ablagerungen und fruchtbaren Schwemmlandböden in den Talsohlen ist. Für die ökologische Stabilität ist dieses Becken von entscheidender Bedeutung, da es die Hydrologie des gesamten Südostens reguliert.",
+        "hu": "A Corubal-folyó medencéje Guinea-Bissau délkeleti részén az ország egyik legdinamikusabb domborzati zónája. A sík tengerparti síkságokkal ellentétben ezt a területet hangsúlyosabb esés jellemzi, mivel a folyó a Fouta-Djallon-felföldről ereszkedik le. A domborzatot a laterit kőzetbe mélyen bevágott folyóvölgyek határozzák meg, amelyeket meredek lejtők és jellegzetes sziklaformációk szegélyeznek. Különösen jellemzőek a számos zúgók és vízesések, mint például a Saltinho és a Cusselinta, amelyeket az alapkőzet kemény geológiai gátjai hoznak létre. A Corubal-medence a keleti fennsíkok hatalmas vízelvezető rendszereként működik, és a monszun idején gyorsan emelkedő vízszint jellemzi. Geomorfológiai szempontból ez a domborzat átmeneti zónát képez a guineai hegyláncok és a Bissau-guineai síkságok között. A víz eróziós ereje itt olyan tájat hozott létre, amely gazdag ásványi lerakódásokban és termékeny hordalékos talajokban a völgytalpakon. Az ökológiai stabilitás szempontjából ez a medence döntő jelentőségű, mivel szabályozza az egész délkeleti rész vízrajzát.",
+        "ro": "Bazinul râului Corubal din sud-estul Guineei-Bissau reprezintă una dintre cele mai dinamice zone de relief ale țării. Spre deosebire de câmpiile de coastă plate, această zonă este marcată de o pantă mai accentuată, deoarece râul coboară din podișul Fouta-Djallon. Relieful se caracterizează prin văi fluviale adânc săpate în roca de laterit, flancate de versanți abrupți și formațiuni stâncoase proeminente. Caracteristice sunt numeroasele praguri și cascade, cum ar fi cele de la Saltinho și Cusselinta, create de barierele geologice dure ale subsolului. Bazinul Corubal funcționează ca un sistem uriaș de drenaj pentru platourile estice și este marcat de niveluri de apă care cresc rapid în timpul sezonului musonic. Din punct de vedere geomorfologic, acest relief este o zonă de tranziție între lanțurile muntoase ale Guineei și câmpiile Guineei-Bissau. Forța de eroziune a apei a creat aici un peisaj bogat în depozite minerale și soluri aluvionare fertile în fundul văilor. Pentru stabilitatea ecologică, acest bazin este de o importanță crucială, deoarece reglează hidrologia întregului sud-est.",
+        "en": "The Corubal River basin in southeastern Guinea-Bissau represents one of the country's most dynamic relief zones. In contrast to the flat coastal plains, this area is characterized by a more pronounced gradient as the river descends from the Fouta-Djallon highlands. The relief is defined by river valleys carved deeply into the laterite bedrock, flanked by steep slopes and prominent rock formations. Particularly characteristic are the numerous rapids and waterfalls, such as those at Saltinho and Cusselinta, created by the hard geological barriers of the substrate. The Corubal basin functions as a massive drainage system for the eastern plateaus and is marked by rapidly rising water levels during the monsoon season. Geomorphologically, this relief is a transition zone between the mountain ranges of Guinea and the plains of Guinea-Bissau. The erosive power of the water has created a landscape here that is rich in mineral deposits and fertile alluvial soils on the valley floors. For ecological stability, this basin is of decisive importance, as it regulates the hydrology of the entire southeast."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Becken umfasst den wasserreichsten Nebenfluss des Rio Geba.",
+          "Das Relief weist die höchsten Strömungsgeschwindigkeiten des Landes auf.",
+          "Laterit-Krusten bilden natürliche Stufen im Flussbett.",
+          "Die jährlichen Niederschlagsmengen im Becken gehören zu den höchsten der Region.",
+          "Das Relief begünstigt die Bildung von tiefen Galeriewäldern.",
+          "In den Senken des Beckens finden sich wichtige Bauxitvorkommen."
+        ],
+        "hu": [
+          "A medence a Geba-folyó legbővízűbb mellékfolyóját foglalja magában.",
+          "Itt mérhetők az ország legnagyobb folyóvízi áramlási sebességei.",
+          "A laterit-kérgek természetes lépcsőket alkotnak a folyómederben.",
+          "A medence éves csapadékmennyisége a régióban a legmagasabbak közé tartozik.",
+          "A domborzat kedvez a mély galériaerdők kialakulásának.",
+          "A medence mélyedéseiben fontos bauxitlelőhelyek találhatók."
+        ],
+        "ro": [
+          "Bazinul cuprinde cel mai bogat în apă afluent al râului Geba.",
+          "Relieful prezintă cele mai mari viteze de curgere din țară.",
+          "Crustele de laterit formează trepte naturale în albia râului.",
+          "Cantitățile anuale de precipitații din bazin sunt printre cele mai mari din regiune.",
+          "Relieful favorizează formarea pădurilor-galerie adânce.",
+          "În depresiunile bazinului se găsesc zăcăminte importante de bauxită."
+        ],
+        "en": [
+          "The basin includes the most water-rich tributary of the Geba River.",
+          "The relief features the highest river flow velocities in the country.",
+          "Laterite crusts form natural steps within the riverbed.",
+          "Annual rainfall amounts in the basin are among the highest in the region.",
+          "The topography encourages the formation of deep gallery forests.",
+          "Significant bauxite deposits are found within the basin's depressions."
+        ]
+      }
+    },
+    {
+      "id": "mansoa-mangroves-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Relief der Mansoa-Mangroven im zentralen Küstenstreifen Guinea-Bissaus ist ein komplexes Gefüge aus amphibischen Landformen. Dieses Gebiet wird fast vollständig von den Gezeiten des Rio Mansoa beherrscht, was zu einer ständigen Umformung der Uferzonen führt. Das Relief besteht aus einem Labyrinth von Gezeitenkanälen, Schlickflächen und flachen Inseln, die nur bei Ebbe sichtbar werden. Die Bodenbeschaffenheit ist durch feine, salzhaltige Tone und organische Sedimente geprägt, die eine extrem instabile, aber hochproduktive Oberfläche bilden. Die Mangroven wirken hier als geomorphologische Architekten, indem sie mit ihren Wurzeln das Sediment festhalten und so das Land gegen die Erosion durch die starke Strömung des Mansoa-Ästuars sichern. Hinter dem direkten Gezeitenbereich geht das Relief in flache, künstlich eingedeichte 'Bolonhas' über, die für den Reisanbau genutzt werden. Diese Übergangszone ist für das hydrologische Gleichgewicht der Region Oio von zentraler Bedeutung, da sie als Puffer gegen Sturmfluten fungiert. Geologisch gesehen stellt dieses Relief ein rezentes Akkumulationsgebiet dar, in dem die Grenze zwischen Land und Meer täglich neu verhandelt wird.",
+        "hu": "A Mansoa-mangrovék domborzata Guinea-Bissau középső partvidékén kétéltű tájformák összetett rendszere. Ezt a területet szinte teljesen a Mansoa-folyó árapálya uralja, ami a part menti zónák folyamatos átalakulásához vezet. A domborzat árapály-csatornák, iszapos területek és lapos szigetek labirintusából áll, amelyek csak apálykor válnak láthatóvá. A talajszerkezetet finom, sós agyag és szerves üledékek jellemzik, amelyek rendkívül instabil, de kiemelkedően termékeny felszínt alkotnak. A mangrovék itt geomorfológiai építészként működnek, gyökereikkel megkötik az üledéket, így védik a szárazföldet a Mansoa-torkolat erős áramlatai okozta eróziótól. A közvetlen árapály-övezet mögött a domborzat sík, mesterségesen gáttal körülvett „bolonhákba” megy át, amelyeket rizstermesztésre használnak. Ez az átmeneti zóna központi jelentőségű az Oio régió hidrológiai egyensúlya szempontjából, mivel pufferként szolgál a vihardagályok ellen. Geológiai szempontból ez a domborzat egy recens felhalmozódási terület, ahol a szárazföld és a tenger közötti határvonal naponta újraformálódik.",
+        "ro": "Relieful mangrovelor Mansoa din fâșia de coastă centrală a Guineei-Bissau este o structură complexă de forme de relief amfibii. Această zonă este dominată aproape în totalitate de mareele râului Mansoa, ceea ce duce la o remodelare constantă a zonelor de mal. Relieful constă dintr-un labirint de canale de maree, suprafețe de mâl și insule plate, care devin vizibile doar la reflux. Compoziția solului este marcată de argile fine, saline și sedimente organice, care formează o suprafață extrem de instabilă, dar productivă. Mangrovele acționează aici ca arhitecți geomorfologici, fixând sedimentele cu rădăcinile lor și securizând astfel terenul împotriva eroziunii cauzate de curenții puternici ai estuarului Mansoa. În spatele zonei directe de maree, relieful trece în 'bolonhas' plate, îndiguite artificial, folosite pentru cultivarea orezului. Această zonă de tranziție este de o importanță centrală pentru echilibrul hidrologic al regiunii Oio, funcționând ca un tampon împotriva valurilor de furtună. Din punct de vedere geologic, acest relief reprezintă o zonă de acumulare recentă, în care granița dintre uscat și mare este renegociată zilnic.",
+        "en": "The relief of the Mansoa mangroves in central coastal Guinea-Bissau is a complex assembly of amphibious landforms. This area is almost entirely governed by the tides of the Mansoa River, leading to a constant reshaping of the riparian zones. The relief consists of a labyrinth of tidal channels, mudflats, and flat islands that become visible only during low tide. The soil composition is characterized by fine, saline clays and organic sediments that form an extremely unstable yet highly productive surface. Mangroves here act as geomorphological architects, using their roots to anchor sediment and thus securing the land against erosion caused by the strong currents of the Mansoa estuary. Behind the immediate tidal area, the relief transitions into flat, artificially diked 'bolonhas' used for rice cultivation. This transition zone is of central importance to the hydrological balance of the Oio region, functioning as a buffer against storm surges. Geologically, this relief represents a recent accumulation area where the boundary between land and sea is renegotiated daily."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Relief verändert sich täglich durch den massiven Schlammeintrag des Flusses.",
+          "Die Mangrovenwälder erreichen hier Höhen von über 15 Metern.",
+          "Gezeitenkanäle (Galam-Galam) durchschneiden das Relief wie ein Adernetz.",
+          "Das Gelände liegt im Durchschnitt weniger als zwei Meter über dem Meeresspiegel.",
+          "Die Sedimentation begünstigt die natürliche Landgewinnung im Ästuar.",
+          "Das Relief bietet einen natürlichen Schutz gegen die Versalzung der landeinwärts gelegenen Böden."
+        ],
+        "hu": [
+          "A domborzat naponta változik a folyó által szállított hatalmas iszapmennyiség miatt.",
+          "A mangroveerdők itt elérhetik a 15 méteres magasságot is.",
+          "Az árapály-csatornák (galam-galam) érhálózatként szövik át a tájat.",
+          "A terület átlagosan kevesebb mint két méterrel fekszik a tengerszint felett.",
+          "Az üledékképződés elősegíti a természetes földnyerést a torkolatnál.",
+          "A domborzat természetes védelmet nyújt a beljebb fekvő talajok elsózódása ellen."
+        ],
+        "ro": [
+          "Relieful se schimbă zilnic din cauza aportului masiv de mâl al râului.",
+          "Pădurile de mangrove de aici ating înălțimi de peste 15 metri.",
+          "Canalele de maree (galam-galam) străbat relieful ca o rețea de vene.",
+          "Terenul se află în medie la mai puțin de doi metri deasupra nivelului mării.",
+          "Sedimentarea favorizează câștigarea naturală de teren în estuar.",
+          "Relieful oferă o protecție naturală împotriva salinizării solurilor din interior."
+        ],
+        "en": [
+          "The relief changes daily due to the river's massive input of silt.",
+          "The mangrove forests here reach heights of over 15 meters.",
+          "Tidal channels (galam-galam) cut through the relief like a network of veins.",
+          "The terrain averages less than two meters above sea level.",
+          "Sedimentation promotes natural land reclamation in the estuary.",
+          "The topography provides a natural shield against the salinization of inland soils."
+        ]
+      }
+    },
+    {
+      "id": "rio-grande-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Relief des Rio Grande de Buba im Südwesten Guinea-Bissaus ist geomorphologisch einzigartig in Westafrika, da es einen echten 'Ria'-Typus darstellt – ein tiefes, vom Meer überflutetes Flusstal. Dieses Relief ist durch steil aufragende Uferwände aus Lateritstein geprägt, die bis zu 20 Meter über den Wasserspiegel hinausragen. Im Gegensatz zu den flachen Ästuaren des Nordens weist der Rio Grande ein fast fjordartiges Aussehen auf, wobei das tiefe Wasser direkt an die bewaldeten Hänge grenzt. Die Uferlinie ist stark zerklüftet, mit zahlreichen kleinen Buchten und Landzungen, die durch die Erosion des Salzwassers und die tektonische Absenkung des Beckens geformt wurden. Dieses Relief ermöglicht es dem Atlantik, tief in das Landesinnere vorzudringen, was zu einem konstanten Salzgehalt im gesamten System führt. Die Talsohle ist uneben und weist tiefe Rinnen auf, die ideale Bedingungen für marine Großfauna bieten. Geologisch gesehen dokumentiert dieses Relief die postglaziale Meeresspiegelanhebung, die das ehemalige Süßwassertal in einen Meeresarm verwandelte. Das steile Relief der Ufer begrenzt den Mangrowenwuchs auf schmale Streifen, was den Rio Grande optisch stark von den anderen Gewässern des Landes unterscheidet.",
+        "hu": "A Rio Grande de Buba domborzata Guinea-Bissau délnyugati részén geomorfológiailag egyedülálló Nyugat-Afrikában, mivel egy valódi „ria” típust képvisel – egy mély, tenger által elárasztott folyóvölgyet. Ezt a domborzatot meredeken emelkedő lateritkő partfalak jellemzik, amelyek akár 20 méterrel a vízszint fölé magasodnak. Az északi rész lapos torkolatvidékeivel ellentétben a Rio Grande szinte fjordszerű megjelenésű, ahol a mély víz közvetlenül érintkezik az erdős lejtőkkel. A partvonal erősen tagolt, számos kis öböllel és félszigettel, amelyeket a sós víz eróziója és a medence tektonikus süllyedése formált. Ez a domborzat lehetővé teszi, hogy az Atlanti-óceán mélyen benyomuljon a szárazföld belsejébe, ami állandó sótartalmat eredményez a teljes rendszerben. A völgytalp egyenetlen és mély árkokat tartalmaz, amelyek ideális feltételeket biztosítanak a nagytestű tengeri állatok számára. Geológiai szempontból ez a domborzat a posztglaciális tengerszint-emelkedést dokumentálja, amely az egykori édesvízi völgyet tengeri benyúlássá változtatta. A partok meredek domborzata a mangroveerdők növekedését keskeny sávokra korlátozza, ami a Rio Grandét optikailag erősen megkülönbözteti az ország többi vizétől.",
+        "ro": "Relieful râului Rio Grande de Buba din sud-vestul Guineei-Bissau este unic din punct de vedere geomorfologic în Africa de Vest, deoarece reprezintă un tip veritabil de 'ria' – o vale fluvială adâncă inundată de mare. Acest relief este caracterizat prin pereți laterali abrupți din piatră de laterit, care se ridică până la 20 de metri deasupra nivelului apei. Spre deosebire de estuarele plate din nord, Rio Grande are un aspect aproape de fiord, apa adâncă învecinându-se direct cu versanții împăduriți. Linia țărmului este puternic fragmentată, cu numeroase golfuri mici și promontorii formate prin eroziunea apei sărate și scufundarea tectonică a bazinului. Acest relief permite Atlanticului să pătrundă adânc în interiorul continentului, ceea ce duce la o salinitate constantă în întregul sistem. Fundul văii este neregulat și prezintă șanțuri adânci, care oferă condiții ideale pentru marea faună marină. Din punct de vedere geologic, acest relief documentează ridicarea post-glaciară a nivelului mării, care a transformat fosta vale de apă dulce într-un braț de mare. Relieful abrupt al malurilor limitează creșterea mangrovelor la fâșii înguste, ceea ce diferențiază vizual Rio Grande de celelalte cursuri de apă ale țării.",
+        "en": "The relief of the Rio Grande de Buba in southwestern Guinea-Bissau is geomorphologically unique in West Africa, as it represents a true 'ria' type – a deep river valley flooded by the sea. This relief is characterized by steeply rising banks of laterite stone that tower up to 20 meters above the water level. In contrast to the flat estuaries of the north, the Rio Grande has an almost fjord-like appearance, with deep water bordering directly on the forested slopes. The shoreline is highly indented, with numerous small bays and headlands shaped by saltwater erosion and the tectonic subsidence of the basin. This relief allows the Atlantic to penetrate deep into the interior, resulting in constant salinity throughout the system. The valley floor is uneven and features deep channels that provide ideal conditions for large marine fauna. Geologically, this relief documents the post-glacial sea-level rise that transformed the former freshwater valley into a saltwater inlet. The steep relief of the banks limits mangrove growth to narrow strips, visually distinguishing the Rio Grande significantly from the country's other waterways."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Relief ist das Ergebnis tektonischer Grabenbrüche und mariner Transgression.",
+          "Die Wassertiefe im Hauptkanal des Reliefs übersteigt oft 25 Meter.",
+          "Steile Lateritklippen verhindern großflächige Mangrovensümpfe.",
+          "Das Relief bildet eine natürliche Barriere zwischen der Küste und dem Boé-Plateau.",
+          "Die Uferformationen bestehen aus extrem verwitterungsresistentem Gestein.",
+          "Kleine Nebenarme schneiden sich wie Canyons in das umliegende Hochland ein."
+        ],
+        "hu": [
+          "A domborzat tektonikus árokrendszerek és tengeri elöntés eredménye.",
+          "A vízmélység a főcsatornában gyakran meghaladja a 25 métert.",
+          "A meredek laterit sziklák megakadályozzák a kiterjedt mangrove-mocsarak kialakulását.",
+          "A domborzat természetes határt képez a partvidék és a Boé-fennsík között.",
+          "A part menti képződmények rendkívül ellenálló kőzetből állnak.",
+          "Kisebb mellékágak kanyonszerűen vágnak bele a környező felföldbe."
+        ],
+        "ro": [
+          "Relieful este rezultatul faliilor tectonice și al transgresiunii marine.",
+          "Adâncimea apei în canalul principal al reliefului depășește adesea 25 de metri.",
+          "Falezele abrupte de laterit împiedică formarea mlaștinilor vaste de mangrove.",
+          "Relieful formează o barieră naturală între coastă și podișul Boé.",
+          "Formațiunile de mal sunt compuse dintr-o rocă extrem de rezistentă la eroziune.",
+          "Brațele secundare mici se taie ca niște canioane în podișul înconjurător."
+        ],
+        "en": [
+          "The relief is the result of tectonic rifting and marine transgression.",
+          "Water depth in the relief's main channel often exceeds 25 meters.",
+          "Steep laterite cliffs prevent the formation of extensive mangrove swamps.",
+          "The relief forms a natural barrier between the coast and the Boé plateau.",
+          "The shoreline formations consist of extremely erosion-resistant rock.",
+          "Small tributaries cut into the surrounding highlands like miniature canyons."
+        ]
+      }
+    },
+    {
+      "id": "bolama-palm-forest-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Relief der Palmenwälder auf der Insel Bolama ist geprägt von einer sanft welligen Küstenebene, die typisch für den inneren Bijagós-Archipel ist. Dieses Gebiet liegt kaum 5 bis 10 Meter über dem Meeresspiegel und ist geomorphologisch durch eine Mischung aus sandigen Ablagerungen und Laterit-Substraten gekennzeichnet. Das Relief wird durch dichte Bestände der afrikanischen Ölpalme (Elaeis guineensis) dominiert, die oft auf leichten Anhöhen wachsen, während sich in den Senken nach starken Regenfällen Feuchtgebiete bilden. Die Topografie der Palmenwälder ist eng mit der menschlichen Besiedlung verknüpft; viele Haine befinden sich auf den Fundamenten ehemaliger Plantagen aus der Kolonialzeit. Die flache Beschaffenheit des Reliefs ermöglicht eine gute Begehbarkeit, führt aber auch zu einer Anfälligkeit für die Versalzung der Böden durch Kapillarwirkung des nahen Meerwassers. Die Bodenoberfläche ist oft von einer Schicht aus herabgefallenen Palmwedeln bedeckt, was die Erosion verhindert. Geologisch gesehen stellt dieses Relief ein stabiles Küstenplateau dar, das im Kontrast zu den dynamischen Mangrovenzonen der Insel steht. Die sanften Erhebungen bieten zudem natürliche Abflusswege für das Regenwasser in Richtung der Küste.",
+        "hu": "Bolama szigetének pálmaerdőire jellemző domborzatot az enyhén hullámos parti síkság határozza meg, amely tipikus a belső Bijagós-szigetcsoportra. Ez a terület alig 5-10 méterrel fekszik a tengerszint felett, és geomorfológiailag homokos lerakódások és laterit-aljzatok keveréke jellemzi. A domborzatot az afrikai olajpálma (Elaeis guineensis) sűrű állományai uralják, amelyek gyakran enyhe magaslatokon nőnek, míg a mélyedésekben a heves esőzések után vizes élőhelyek alakulnak ki. A pálmaerdők topográfiája szorosan összefügg az emberi letelepedéssel; sok liget az egykori gyarmati ültetvények alapjain található. A domborzat sík jellege jó járhatóságot tesz lehetővé, de a közeli tengervíz kapilláris hatása miatt a talajok elsózódására is hajlamossá teszi a területet. A talajfelszínt gyakran lehullott pálmalevelek rétege borítja, ami megakadályozza az eróziót. Geológiai szempontból ez a domborzat egy stabil parti fennsíkot képvisel, amely éles kontrasztban áll a sziget dinamikus mangrove-zónáival. Az enyhe emelkedők természetes vízelvezetést biztosítanak az esővíz számára a part irányába.",
+        "ro": "Relieful pădurilor de palmieri de pe insula Bolama este marcat de o câmpie de coastă ușor ondulată, tipică pentru arhipelagul interior Bijagós. Această zonă se află la abia 5-10 metri deasupra nivelului mării și este caracterizată geomorfologic printr-un amestec de depozite nisipoase și substraturi de laterit. Relieful este dominat de efective dese de palmieri de ulei africani (Elaeis guineensis), care cresc adesea pe înălțimi ușoare, în timp ce în depresiuni se formează zone umede după ploi abundente. Topografia pădurilor de palmieri este strâns legată de așezările umane; multe livezi se află pe fundațiile fostelor plantații din perioada colonială. Natura plană a reliefului permite o bună accesibilitate, dar duce și la o vulnerabilitate față de salinizarea solurilor prin acțiunea capilară a apei de mare din apropiere. Suprafața solului este adesea acoperită de un strat de frunze de palmier căzute, ceea ce previne eroziunea. Din punct de vedere geologic, acest relief reprezintă un platou de coastă stabil, care stă în contrast cu zonele dinamice de mangrove ale insulei. Elevările blânde oferă, de asemenea, căi naturale de drenaj pentru apa de ploaie către coastă.",
+        "en": "The relief of the palm forests on Bolama Island is characterized by a gently undulating coastal plain, typical of the inner Bijagós Archipelago. This area sits barely 5 to 10 meters above sea level and is geomorphologically distinguished by a mix of sandy deposits and laterite substrates. The relief is dominated by dense stands of the African oil palm (Elaeis guineensis), which often grow on slight elevations, while wetlands form in the depressions after heavy rains. The topography of the palm forests is closely linked to human settlement; many groves are located on the foundations of former colonial-era plantations. The flat nature of the relief allows for easy traversal but also leads to a susceptibility to soil salinization through the capillary action of nearby seawater. The soil surface is often covered by a layer of fallen palm fronds, which prevents erosion. Geologically, this relief represents a stable coastal plateau that stands in contrast to the island's dynamic mangrove zones. The gentle rises also provide natural drainage paths for rainwater toward the coast."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Relief bildet die stabilste Landoberfläche der Insel Bolama.",
+          "Die durchschnittliche Höhe des Geländes variiert nur um wenige Meter.",
+          "Sandige Küstenablagerungen dominieren das geologische Profil.",
+          "Das Relief begünstigt das Wachstum von Nutzpflanzen unter den Palmen.",
+          "Kleine Erosionsrinnen führen das Regenwasser zu den Mangroven ab.",
+          "Der Boden weist einen hohen Humusgehalt durch organische Palmrückstände auf."
+        ],
+        "hu": [
+          "A domborzat Bolama szigetének legstabilabb felszínét alkotja.",
+          "A terep átlagos magassága mindössze néhány métert változik.",
+          "A geológiai profilt a homokos parti lerakódások uralják.",
+          "A domborzat kedvez a pálmák alatti haszonnövények termesztésének.",
+          "Kisebb eróziós árkok vezetik el az esővizet a mangrovék felé.",
+          "A talaj humusztartalma magas a pálmák szerves maradványai miatt."
+        ],
+        "ro": [
+          "Relieful formează cea mai stabilă suprafață terestră a insulei Bolama.",
+          "Altitudinea medie a terenului variază cu doar câțiva metri.",
+          "Depozitele costiere nisipoase domină profilul geologic.",
+          "Relieful favorizează creșterea plantelor utile sub palmieri.",
+          "Mici rigole de eroziune drenează apa de ploaie către mangrove.",
+          "Solul are un conținut ridicat de humus datorită reziduurilor organice de palmier."
+        ],
+        "en": [
+          "The relief constitutes the most stable land surface on Bolama Island.",
+          "The average elevation of the terrain varies by only a few meters.",
+          "Sandy coastal deposits dominate the geological profile.",
+          "The topography favors the cultivation of secondary crops under the palms.",
+          "Small erosion channels drain rainwater toward the mangroves.",
+          "The soil features a high humus content due to organic palm debris."
+        ]
+      }
+    },
+    {
+      "id": "quinara-hills-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Quinará-Hügel im zentralen Süden Guinea-Bissaus bilden eine markante Reliefschwelle zwischen den Küstenniederungen und dem höheren Boé-Plateau. Dieses Relief ist durch eine Serie von sanft ansteigenden Lateritrücken und isolierten Härtlingen geprägt, die das ansonsten flache Hinterland strukturieren. Die Hügel erreichen Höhen von bis zu 80 Metern und bieten weite Ausblicke über die umliegenden Mangrowenwälder und den Rio Grande de Buba. Geomorphologisch gesehen handelt es sich um eine Erosionslandschaft, in der widerstandsfähigere Gesteinsschichten als Erhebungen stehen geblieben sind. Das Relief beeinflusst das lokale Klima, indem es die feuchten Meereswinde zum Aufsteigen zwingt, was zu lokal erhöhten Niederschlägen führt. Die Täler zwischen den Hügeln sind oft mit fruchtbaren Schwemmböden gefüllt und beherbergen dichte Waldinseln. Dieses Relief diente in der Geschichte oft als natürlicher Rückzugsraum und Überwachungsort für die Bewegungen entlang der Flüsse. Der Boden ist durch seine intensive rote Farbe gekennzeichnet, die auf den hohen Eisenoxidgehalt des Laterits zurückzuführen ist. Für die Infrastruktur der Region stellen die Quinará-Hügel eine Herausforderung dar, da Straßenbauprojekte hier erhebliche Steigungen überwinden müssen.",
+        "hu": "A Guinea-Bissau középső-déli részén található Quinará-dombság jelentős domborzati küszöböt képez a tengerparti mélyföldek és a magasabb Boé-fennsík között. Ezt a domborzatot enyhén emelkedő lateritgerincek és izolált tanúhegyek sorozata jellemzi, amelyek strukturálják az egyébként sík hátországot. A dombok elérik a 80 méteres magasságot, és tágas kilátást nyújtanak a környező mangroveerdőkre és a Rio Grande de Bubára. Geomorfológiai szempontból ez egy eróziós táj, ahol az ellenállóbb kőzetrétegek magaslatokként maradtak meg. A domborzat befolyásolja a helyi éghajlatot: a nedves tengeri szeleket emelkedésre kényszeríti, ami helyileg megnövekedett csapadékot eredményez. A dombok közötti völgyek gyakran termékeny hordalékos talajjal teltek meg, és sűrű erdőfoltoknak adnak otthont. Ez a domborzat a történelem során gyakran szolgált természetes menedékként és a folyók menti mozgások megfigyelőhelyeként. A talaj intenzív vörös színű, ami a laterit magas vas-oxid tartalmára vezethető vissza. A régió infrastruktúrája számára a Quinará-dombság kihívást jelent, mivel az útépítési projekteknek itt jelentős emelkedőket kell leküzdeniük.",
+        "ro": "Dealurile Quinará din centrul-sudul Guineei-Bissau formează un prag de relief proeminent între depresiunile de coastă și podișul mai înalt Boé. Acest relief este caracterizat printr-o serie de creste de laterit care urcă ușor și martori de eroziune izolați, care structurează hinterlandul altfel plat. Dealurile ating înălțimi de până la 80 de metri și oferă vederi panoramice asupra pădurilor de mangrove înconjurătoare și a râului Rio Grande de Buba. Din punct de vedere geomorfologic, este vorba despre un peisaj de eroziune în care straturile de rocă mai rezistente au rămas sub formă de ridicături. Relieful influențează climatul local, forțând vânturile marine umede să urce, ceea ce duce la precipitații crescute local. Văile dintre dealuri sunt adesea umplute cu soluri aluvionare fertile și adăpostesc insule de pădure densă. Acest relief a servit adesea în istorie ca spațiu natural de retragere și loc de supraveghere pentru mișcările de-a lungul râurilor. Solul este caracterizat prin culoarea sa roșie intensă, datorată conținutului ridicat de oxizi de fier al lateritului. Pentru infrastructura regiunii, dealurile Quinará reprezintă o provocare, deoarece proiectele de construcție a drumurilor trebuie să depășească aici pante semnificative.",
+        "en": "The Quinará Hills in central-southern Guinea-Bissau form a prominent relief threshold between the coastal lowlands and the higher Boé plateau. This relief is characterized by a series of gently rising laterite ridges and isolated inselbergs that structure the otherwise flat hinterland. The hills reach heights of up to 80 meters and offer wide views over the surrounding mangrove forests and the Rio Grande de Buba. Geomorphologically, it is an erosional landscape where more resistant rock layers have remained as elevations. The relief influences the local climate by forcing moist sea winds to rise, resulting in locally increased precipitation. The valleys between the hills are often filled with fertile alluvial soils and host dense forest islands. This relief has frequently served in history as a natural retreat and surveillance point for movements along the rivers. The soil is distinguished by its intense red color, resulting from the high iron oxide content of the laterite. For the region's infrastructure, the Quinará Hills pose a challenge, as road construction projects must overcome significant gradients here."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Hügel bilden den höchsten Punkt der Region Quinará.",
+          "Das Relief besteht fast ausschließlich aus massivem Lateritgestein.",
+          "Die Erhebungen dienen als wichtige Orientierungspunkte für die Landnavigation.",
+          "Auf den Kuppen wachsen spezialisierte Sukkulenten und Gräser.",
+          "Das Relief begünstigt das Entstehen von kleinen Wasserfällen in der Regenzeit.",
+          "Quinará ist bekannt für seine 'roten Hügel', die weithin sichtbar sind."
+        ],
+        "hu": [
+          "A dombok Quinará régió legmagasabb pontjait alkotják.",
+          "A domborzat szinte kizárólag tömör laterit kőzetből áll.",
+          "A magaslatok fontos tájékozódási pontként szolgálnak a szárazföldi navigációban.",
+          "A tetőkön speciális pozsgás növények és füvek nőnek.",
+          "A domborzat kedvez a kis vízesések kialakulásának az esős évszakban.",
+          "Quinará a messziről is látható „vörös dombjairól” híres."
+        ],
+        "ro": [
+          "Dealurile formează cel mai înalt punct al regiunii Quinará.",
+          "Relieful constă aproape exclusiv din rocă masivă de laterit.",
+          "Elevațiile servesc ca puncte de orientare importante pentru navigația terestră.",
+          "Pe culmi cresc plante suculente și ierburi specializate.",
+          "Relieful favorizează apariția unor mici cascade în sezonul ploios.",
+          "Quinará este renumită pentru 'dealurile sale roșii', vizibile de la distanță."
+        ],
+        "en": [
+          "The hills represent the highest points in the Quinará region.",
+          "The relief is composed almost entirely of solid laterite rock.",
+          "The elevations serve as crucial landmarks for overland navigation.",
+          "Specialized succulents and grasses grow on the hilltops.",
+          "The topography encourages the formation of small waterfalls during the rainy season.",
+          "Quinará is famous for its 'red hills', which are visible from a long distance."
+        ]
+      }
+    }
+  ]
+}

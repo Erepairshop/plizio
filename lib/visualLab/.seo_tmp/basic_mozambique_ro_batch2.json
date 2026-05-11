@@ -1,0 +1,85 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "Gondola Kids Fun Park oferă divertisment și atracții pentru copii în Maputo, fiind un loc de recreere familial.",
+      "facts": ["Recreere familială", "Maputo", "Atracții copii"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "Plaja Pemba este cunoscută pentru apele sale calme și golful protejat, ideal pentru familii și sporturi nautice.",
+      "facts": ["Ape calme", "Pemba", "Sporturi nautice"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "Rezervația Niassa este cea mai mare zonă protejată din Mozambic și un paradis pentru iubitorii de safari.",
+      "facts": ["Cea mai mare zonă protejată", "Safari", "Faună sălbatică"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "Râul Zambezi, în Zambezia, este o sursă de viață pentru regiune, oferind numeroase oportunități de observare a faunei sălbatice.",
+      "facts": ["Sursă de viață", "Observare faună sălbatică", "Zambezia"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "Parcul Comunitar Tete este un spațiu verde pentru localnici, oferind locuri de joacă și zone de recreere.",
+      "facts": ["Spațiu verde", "Tete", "Zone de recreere"]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "Inchope oferă coridoare și habitate esențiale pentru fauna sălbatică, cruciale pentru migrația diverselor specii.",
+      "facts": ["Coridoare faună sălbatică", "Habitate", "Migrație animale"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "Chimoio Green Life este un proiect care promovează agricultura durabilă și educația ecologică pentru copii.",
+      "facts": ["Agricultură durabilă", "Educație ecologică", "Chimoio"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "Vilankulo Marine este poarta către Arhipelagul Bazaruto, renumit pentru locurile sale de scufundări și snorkeling.",
+      "facts": ["Arhipelagul Bazaruto", "Scufundări", "Snorkeling"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "Inhambane oferă arhitectură istorică și acces la plaje frumoase și locuri diverse de scufundări.",
+      "facts": ["Arhitectură istorică", "Plaje frumoase", "Locuri de scufundări"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "Ferma Gaza este un proiect agricol ce vizează dezvoltarea locală și asigurarea securității alimentare.",
+      "facts": ["Proiect agricol", "Dezvoltare locală", "Securitate alimentară"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "Provincia Cabo Delgado este cunoscută pentru cultivarea mango, contribuind semnificativ la economia locală.",
+      "facts": ["Cultivarea mango", "Cabo Delgado", "Economie locală"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "Proiectul Tete Agri este o inițiativă axată pe dezvoltarea agricolă și securitatea alimentară în regiunea Tete.",
+      "facts": ["Dezvoltare agricolă", "Regiunea Tete", "Securitate alimentară"]
+    },
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "Lacul Niassa, cunoscut și sub numele de Lacul Malawi, este unul dintre cele mai mari și adânci lacuri din Africa, cu o bogată diversitate piscicolă.",
+      "facts": ["Lacul Malawi", "Lac mare și adânc", "Diversitate piscicolă"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "Muntele Gorongosa face parte din Parcul Național Gorongosa, oferind floră și faună diversă la diverse altitudini.",
+      "facts": ["Parcul Național Gorongosa", "Floră și faună diversă", "Diverse altitudini"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "Insulele Primeiras și Segundas sunt un arhipelag protejat cu recife de corali virgine și păduri de mangrove.",
+      "facts": ["Arhipelag protejat", "Recife de corali", "Păduri de mangrove"]
+    }
+  ]
+}

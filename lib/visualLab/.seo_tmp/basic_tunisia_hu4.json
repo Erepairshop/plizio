@@ -1,0 +1,64 @@
+{
+  "lang": "hu",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-hamma-cities-v2",
+      "description": "Oázisváros Gabes közelében, híres meleg vizű forrásairól és gyógyfürdőiről.",
+      "facts": ["Oázisváros", "Gyógyfürdő", "Meleg vizű források"]
+    },
+    {
+      "id": "nefta-cities-v2",
+      "description": "A 'Szahara oázisainak ékköve', spirituális központ és datolyatermelő régió.",
+      "facts": ["Sivatagi oázis", "Spirituális központ", "Datolyatermelés"]
+    },
+    {
+      "id": "feriana-cities-v2",
+      "description": "A központi régióban fekvő település, közel az algériai határhoz.",
+      "facts": ["Központi régió", "Határ menti város", "Mezőgazdasági övezet"]
+    },
+    {
+      "id": "thala-cities-v2",
+      "description": "A magasföld egyik városa, hűvösebb klímájáról és márványbányászatáról ismert.",
+      "facts": ["Magasföldi város", "Márványbányászat", "Hűvös klíma"]
+    },
+    {
+      "id": "makthar-cities-v2",
+      "description": "Történelmi jelentőségű város a római kori Mactaris romjai mellett.",
+      "facts": ["Római romok", "Mactaris", "Történelmi település"]
+    },
+    {
+      "id": "teboursouk-cities-v2",
+      "description": "Dombon fekvő történelmi város, közel a Dougga római kori világörökséghez.",
+      "facts": ["Dougga közelsége", "Történelmi dombváros", "Mezőgazdaság"]
+    },
+    {
+      "id": "testour-cities-v2",
+      "description": "Andalúz gyökerekkel rendelkező város, híres építészetéről és gránátalma-ünnepéről.",
+      "facts": ["Andalúz építészet", "Gránátalma-ünnep", "Kulturális örökség"]
+    },
+    {
+      "id": "enfidha-cities-v2",
+      "description": "Fontos közlekedési csomópont és ipari város a keleti parton, nemzetközi repülőtérrel.",
+      "facts": ["Nemzetközi repülőtér", "Közlekedési csomópont", "Keleti part"]
+    },
+    {
+      "id": "ksour-essef-cities-v2",
+      "description": "A tengerparti régió városa, ismert kereskedelméről és kézműves hagyományairól.",
+      "facts": ["Tengerparti régió", "Kézművesség", "Kereskedelmi város"]
+    },
+    {
+      "id": "dar-chaabane-cities-v2",
+      "description": "Nabeul szomszédságában fekvő település, a hagyományos kőfaragás központja.",
+      "facts": ["Nabeul szomszédsága", "Kőfaragás", "Kézművesség"]
+    },
+    {
+      "id": "oueslatia-cities-v2",
+      "description": "A hegyvidéki régióban fekvő mezőgazdasági központ Kairouan közelében.",
+      "facts": ["Hegyvidéki régió", "Mezőgazdaság", "Kairouan régió"]
+    }
+  ]
+}

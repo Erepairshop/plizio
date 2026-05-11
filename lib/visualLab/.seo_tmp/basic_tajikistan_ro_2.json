@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghafurov-cities-v2",
+      "description": "Oraș numit în onoarea istoricului Bobojon Ghafurov, situat strategic în Valea Fergana.",
+      "facts": ["Numit după un istoric", "Situat în Valea Fergana", "Centru administrativ local"]
+    },
+    {
+      "id": "danghara-cities-v2",
+      "description": "Oraș în dezvoltare în regiunea Hatlon, cunoscut pentru proiecte agricole și industriale noi.",
+      "facts": ["Situat în regiunea Hatlon", "Proiecte economice noi", "Hub regional agricol"]
+    },
+    {
+      "id": "shahrtuz-cities-v2",
+      "description": "Așezare istorică situată în sud-vestul țării, într-o zonă cu o agricultură diversificată.",
+      "facts": ["Situat în sud-vest", "Agricultură diversificată", "Așezare istorică"]
+    },
+    {
+      "id": "zafarobod-cities-v2",
+      "description": "Oraș creat pentru a sprijini agricultura și irigațiile în nordul Tajikistanului.",
+      "facts": ["Centru de irigații", "Situat în nord", "Susține agricultura locală"]
+    },
+    {
+      "id": "shaydon-cities-v2",
+      "description": "Centru local în provincia Sughd, concentrat pe activități agricole și mică industrie.",
+      "facts": ["Situat în provincia Sughd", "Economie agricolă", "Centru local"]
+    },
+    {
+      "id": "murghob-cities-v2",
+      "description": "Unul dintre cele mai înalte orașe din Pamir, caracterizat printr-un peisaj montan spectaculos.",
+      "facts": ["Situat la mare altitudine", "Peisaj montan Pamir", "Regiune izolată"]
+    },
+    {
+      "id": "ayni-cities-v2",
+      "description": "Oraș montan numit după poetul Sadriddin Ayni, situat pe traseul strategic Dușanbe-Khujand.",
+      "facts": ["Numit după un poet", "Poziție pe traseu strategic", "Peisaj muntos"]
+    },
+    {
+      "id": "gharm-cities-v2",
+      "description": "Centru administrativ în Valea Rasht, situat într-o zonă montană pitorească și istorică.",
+      "facts": ["Situat în Valea Rasht", "Zona muntoasă", "Centru istoric"]
+    },
+    {
+      "id": "qabodiyon-cities-v2",
+      "description": "Așezare străveche cu o istorie bogată, situată în sudul țării, aproape de râul Panj.",
+      "facts": ["Așezare străveche", "Situat lângă râul Panj", "Istorie îndelungată"]
+    },
+    {
+      "id": "levakant-cities-v2",
+      "description": "Oraș industrial situat în Valea Vakhsh, cunoscut anterior sub numele de Sarband.",
+      "facts": ["Centru industrial local", "Situat pe râul Vakhsh", "Nume anterior Sarband"]
+    },
+    {
+      "id": "roghun-cities-v2",
+      "description": "Oraș renumit pentru construcția marelui baraj hidroelectric Roghun pe râul Vakhsh.",
+      "facts": ["Proiect hidroelectric major", "Situat pe râul Vakhsh", "Centru energetic"]
+    },
+    {
+      "id": "hamadoni-cities-v2",
+      "description": "Oraș situat în sud, renumit pentru mausoleul lui Mir Sayyid Ali Hamadoni.",
+      "facts": ["Mausoleu istoric", "Situat în sud", "Centru de pelerinaj"]
+    },
+    {
+      "id": "ishkoshim-cities-v2",
+      "description": "Localitate strategică situată pe malul râului Panj, la granița cu Afganistanul în Pamir.",
+      "facts": ["Punct strategic la graniță", "Situat pe râul Panj", "Poartă în Pamir"]
+    }
+  ]
+}

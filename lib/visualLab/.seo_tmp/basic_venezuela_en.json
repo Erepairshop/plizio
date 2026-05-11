@@ -1,0 +1,27 @@
+{
+  "lang": "en",
+  "country": "Venezuela",
+  "files": [
+    "lib/visualLab/data/poiExtraVenezuelaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "palua-iron-port-economic-v2",
+      "description": "Palua is a significant iron ore export port city in Venezuela. It is strategically located near the Orinoco River, facilitating trade.",
+      "facts": [
+        "Major iron ore export hub.",
+        "Located in Bolívar State.",
+        "Crucial for Venezuelan economy."
+      ]
+    },
+    {
+      "id": "paraguana-refinery-economic-v2",
+      "description": "The Paraguaná Refinery Complex is one of the world's largest oil refining centers. It plays a vital role in Venezuela's petroleum industry and economy.",
+      "facts": [
+        "Global scale oil refinery.",
+        "Located on Paraguaná Peninsula.",
+        "Key economic asset for Venezuela."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "finca-banano-baru-life-v2", "description": "Bananenfarm in Barú-Region mit Bananenproduktion.", "facts": ["Bananenplantage", "Obstanbau", "Ländliches Unternehmen"]},
+    {"id": "parque-recreativo-omar-torrijos-life-v2", "description": "Öffentlicher Freizeitpark mit Sportanlagen und Grünflächen.", "facts": ["Gemeindepark", "Sportanlagen", "Öffentliche Erholung"]},
+    {"id": "refugio-vida-silvestre-taboga-life-v2", "description": "Wildnisschutzgebiet auf Insel mit Vogelbeobachtung.", "facts": ["Wildnisschutz", "Vogelbeobachtung", "Meeresschutzgebiet"]},
+    {"id": "finca-orquideas-boquete-life-v2", "description": "Orchideenfarm mit tropischen Orchideensorten in Boquete.", "facts": ["Blumenfarm", "Botanischer Garten", "Agrar-Tourismus"]},
+    {"id": "centro-naturaleza-punta-culebra-life-v2", "description": "Naturzentrum mit Meeresausstellungen und Aquatik-Bildung.", "facts": ["Bildungszentrum", "Meeresbiologie", "Besucherstätte"]},
+    {"id": "parque-infantil-don-bosco-life-v2", "description": "Kinderpark mit Spielgeräten und Freizeitaktivitäten.", "facts": ["Spielplatz", "Familienstätte", "Erholungsgebiet"]},
+    {"id": "reserva-forestal-fortuna-life-v2", "description": "Waldschutzgebiet mit vielfältigem Regenwald-Ökosystem.", "facts": ["Schutzwald", "Biodiversität", "Schutzgebiet"]},
+    {"id": "criadero-mariposas-boquete-life-v2", "description": "Schmetterlingshaus mit tropischen Schmetterlingsarten.", "facts": ["Schmetterlingsfarm", "Insektensammlung", "Bildungszentrum"]},
+    {"id": "finca-ganadera-los-santos-life-v2", "description": "Rinderfarm mit Agrar-Tourismus in Los Santos Region.", "facts": ["Viehfarm", "Agrar-Tourismus", "Ländliche Wirtschaft"]},
+    {"id": "parque-infantil-cinta-costera-life-v2", "description": "Küsten-Kinderpark mit Meerblick und Spielbereichen.", "facts": ["Küstenpark", "Kinderstätte", "Urbane Erholung"]},
+    {"id": "reserva-natural-punta-patino-life-v2", "description": "Naturschutzgebiet mit Mangrovensümpfen und Küstenfeuchtgebieten.", "facts": ["Sumpfschutzgebiet", "Mangroven-Ökosystem", "Schutzgebiet"]},
+    {"id": "finca-arroz-cocle-life-v2", "description": "Reisfarm in der Provinz Coclé mit Anbaubetrieb.", "facts": ["Getreidebetrieb", "Landwirtschaftsfarm", "Ländliches Unternehmen"]},
+    {"id": "parque-nacional-coiba-animales-life-v2", "description": "Insel-Nationalpark mit endemischer Fauna und Biodiversität.", "facts": ["Inselpark", "Wildnisschutz", "Meeresökosystem"]},
+    {"id": "finca-maiz-veraguas-life-v2", "description": "Maisfarm in Veraguas-Region mit landwirtschaftlichem Betrieb.", "facts": ["Feldanbau", "Landwirtschaftsfarm", "Lebensmittel-Versorgung"]},
+    {"id": "parque-infantil-david-life-v2", "description": "Kinderplatz in Stadt David mit Spielgeräten und Erholungsangeboten.", "facts": ["Urbaner Spielplatz", "Familienstätte", "Gemeindepark"]}
+  ]
+}

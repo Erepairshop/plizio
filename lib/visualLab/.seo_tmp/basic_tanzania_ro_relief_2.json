@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "great-rift-valley-relief-v2",
+      "description": "Marele Rift Est-African este o caracteristică geologică majoră care traversează Tanzania, creând lacuri, vulcani și câmpii spectaculoase de-a lungul traseului său.",
+      "facts": ["Caracteristică geologică", "Traseu tectonic", "Lacuri și vulcani", "Peisaj spectaculos"]
+    },
+    {
+      "id": "lake-eyasi-basin-relief-v2",
+      "description": "Bazinul Lacului Eyasi este o zonă aridă și izolată, înconjurată de dealuri, fiind locuită de comunități tradiționale precum Hadzabe și Datoga.",
+      "facts": ["Zonă aridă", "Izolare geografică", "Comunități tradiționale", "Bazin lacustru"]
+    },
+    {
+      "id": "lake-natron-basin-relief-v2",
+      "description": "Bazinul Lacului Natron este renumit pentru apele sale extrem de alcaline, fiind principalul loc de reproducere pentru flamingo-ul mic din Africa de Est.",
+      "facts": ["Ape alcaline", "Reproducere flamingo", "Zonă vulcanică", "Bazin endoreic"]
+    },
+    {
+      "id": "ol-doinyo-lengai-relief-v2",
+      "description": "Ol Doinyo Lengai este un vulcan activ unic, cunoscut pentru lava sa neobișnuită bogată în natrocarbonat, fiind considerat un munte sacru de către masaai.",
+      "facts": ["Vulcan activ", "Lavă natrocarbonat", "Munte sacru", "Înălțime: 2.962 m"]
+    },
+    {
+      "id": "pare-mountains-relief-v2",
+      "description": "Munții Pare fac parte din Arcul Estic și reprezintă un lanț montan cu sate izolate, oferind oportunități pentru drumeții și explorarea biodiversității locale.",
+      "facts": ["Arcul Estic", "Sate izolate", "Drumeții", "Biodiversitate montană"]
+    },
+    {
+      "id": "livingstone-mountains-relief-v2",
+      "description": "Munții Livingstone se înalță spectaculos deasupra lacului Malawi, formând o barieră naturală cu versanți abrupți și peisaje montane impresionante.",
+      "facts": ["Deasupra lacului Malawi", "Barieră naturală", "Versanți abrupți", "Peisaj montan"]
+    },
+    {
+      "id": "mbeya-range-relief-v2",
+      "description": "Lanțul muntos Mbeya este o zonă de activitate vulcanică trecută, caracterizată prin soluri fertile, altitudini ridicate și peisaje verzi pe tot parcursul anului.",
+      "facts": ["Activitate vulcanică", "Soluri fertile", "Altitudine ridicată", "Peisaje verzi"]
+    },
+    {
+      "id": "poroto-mountains-relief-v2",
+      "description": "Munții Poroto sunt un grup vulcanic din sudul Tanzaniei, renumiți pentru craterele lor care găzduiesc lacuri pitorești și vegetație montană abundentă.",
+      "facts": ["Grup vulcanic", "Sudul Tanzaniei", "Cratere cu lacuri", "Vegetație montană"]
+    }
+  ]
+}

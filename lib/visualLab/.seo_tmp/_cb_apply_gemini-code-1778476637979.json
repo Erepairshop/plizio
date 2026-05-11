@@ -1,0 +1,226 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yomou-forest-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Waldreservat von Yomou (Réserve Forestière de Yomou) ist eines der letzten großen Refugien des primären tropischen Regenwaldes im äußersten Süden Guineas, unmittelbar an der Grenze zu Liberia. Geografisch liegt das Reservat in der Region Guinée Forestière und zeichnet sich durch eine extrem dichte Vegetation und eine hohe Luftfeuchtigkeit aus. Es bildet einen entscheidenden Teil des oberguineischen Regenwald-Hotspots, der für seine außergewöhnliche Biodiversität bekannt ist. In Yomou leben bedrohte Tierarten wie der Westafrikanische Schimpanse, Waldelefanten und das seltene Zwergflusspferd. Das Leben innerhalb und um das Reservat ist geprägt durch die tiefe spirituelle Verbindung der lokalen Guerzé- und Mano-Bevölkerung zum Wald, der oft als Wohnsitz von Geistern und Ahnen angesehen wird. Wirtschaftlich dient das Reservat als Schutzraum für wertvolle Edelhölzer und Medizinalpflanzen, während die Pufferzonen für den nachhaltigen Anbau von Kakao und Kaffee genutzt werden. Historisch blieb das Gebiet aufgrund seiner Abgeschiedenheit lange Zeit unberührt, sieht sich jedoch heute zunehmend dem Druck durch Holzeinschlag und die Ausweitung der Landwirtschaft ausgesetzt. Für die Wissenschaft ist Yomou ein unverzichtbares Freiluftlabor zur Erforschung der komplexen Ökosysteme des afrikanischen Regenwaldes.",
+        "hu": "A Yomou erdőrezervátum (Réserve Forestière de Yomou) Guinea legdélebbi részén, közvetlenül a libériai határ mentén található elsődleges trópusi esőerdő, az ország egyik legfontosabb biodiverzitási bástyája. Földrajzilag az Erdős-Guinea (Guinée Forestière) régióban fekszik, ahol az extrém magas páratartalom és a bőséges csapadék lehetővé tette a többszintes, sűrű esőerdő kialakulását. A rezervátum a Felső-Guineai erdővidék része, amely a világ egyik leggazdagabb, de legveszélyeztetettebb ökoszisztémája. Olyan ritka fajoknak ad otthont, mint a nyugat-afrikai csimpánz, az erdei elefánt és a rejtőzködő törpevíziló. A környéken élő kuerze és mano népcsoportok élete és kultúrája ezer szállal kötődik az erdőhöz: a „szent erdők” hagyománya révén számos területet spirituális okokból védenek, ami segített megőrizni a terület érintetlenségét. Gazdaságilag a rezervátum kulcsfontosságú a régió vízháztartásának szabályozásában és a ritka gyógynövények forrásaként. A történelmi elszigeteltség ma már a múlté, így a terület védelme egyre nagyobb kihívást jelent az illegális fakitermelés és a mezőgazdasági terjeszkedés miatt. Yomou Guinea egyik utolsó valódi vadonja, ahol az ember és a természet ősi kapcsolata még közvetlenül tapasztalható.",
+        "ro": "Rezervația forestieră Yomou (Réserve Forestière de Yomou) reprezintă unul dintre ultimele refugii majore ale pădurii tropicale primare din sudul extrem al Guineei, la granița cu Liberia. Geografic, rezervația este situată în inima regiunii Guinée Forestière, fiind definită de o vegetație extrem de densă și o umiditate ridicată pe tot parcursul anului. Acest sit face parte din ecosistemul critic al pădurilor guineene de vest, recunoscut pentru o biodiversitate excepțională ce include specii pe cale de dispariție, precum cimpanzeul vest-african, elefantul de pădure și rarisimul hipopotam pitic. Viața comunităților locale Guerzé și Mano este profund ancorată în spiritualitatea pădurii, multe zone fiind declarate „păduri sacre” unde intervenția umană este limitată de tabuuri ancestrale. Din punct de vedere economic, rezervația protejează resurse genetice vegetale inestimabile și reglează regimul precipitațiilor în bazinul transfrontalier. Istoric, inaccesibilitatea zonei a servit drept scut natural împotriva exploatării forestiere masive, însă în prezent se confruntă cu presiuni din cauza extinderii plantațiilor de palmieri de ulei și cacao. Pentru comunitatea științifică, Yomou este un punct de referință pentru studierea rezilienței pădurilor tropicale în fața schimbărilor climatice globale.",
+        "en": "The Yomou Forest Reserve (Réserve Forestière de Yomou) is one of the last major strongholds of primary tropical rainforest in the far south of Guinea, situated directly on the border with Liberia. Geographically located in the Forested Guinea region, the reserve is characterized by its exceptionally dense canopy and high year-round humidity. It is a critical part of the Upper Guinean forest hotspot, world-renowned for its biodiversity and hosting endangered species such as the West African chimpanzee, forest elephants, and the elusive pygmy hippopotamus. The daily lives of the local Guerzé and Mano peoples are deeply intertwined with the forest's spiritual dimensions; 'sacred groves' within the reserve are protected by ancestral laws that have historically prevented deforestation. Economically, the reserve safeguards vital water catchments and serves as a repository for rare medicinal flora. Historically, its remote location shielded the area from the large-scale logging seen elsewhere, though it now faces modern threats from agricultural encroachment and artisanal mining. For researchers, Yomou remains an indispensable site for studying the complex ecological dynamics of the West African rainforest belt."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Yomou beherbergt eine der letzten Populationen des seltenen Zwergflusspferds.",
+          "Das Reservat ist Teil des grenzüberschreitenden Ziama-Wonegizi-Wologizi-Korridors.",
+          "Hier wachsen einige der höchsten Ebenholz- und Mahagonibäume Guineas.",
+          "Die lokalen 'Sprechenden Wälder' sind Schauplatz traditioneller Zeremonien.",
+          "Die Niederschlagsmenge gehört mit über 2.500 mm pro Jahr zu den höchsten des Landes.",
+          "Das Reservat spielt eine Schlüsselrolle beim Schutz der regionalen Wasserquellen."
+        ],
+        "hu": [
+          "Yomou az egyik utolsó menedéke a rendkívül ritka törpevízilónak.",
+          "A rezervátum a határokon átnyúló Ziama-Wonegizi ökológiai folyosó része.",
+          "Itt találhatók Guinea legmagasabb mahagóni- és ébenfafái.",
+          "A helyi kuerze nép számára az erdő bizonyos részei szigorúan tiltott rituális helyszínek.",
+          "Az éves csapadékmennyiség meghaladja a 2500 mm-t, ami dús növényzetet biztosít.",
+          "A terület kritikus szerepet játszik a Libériába átnyúló folyók táplálásában."
+        ],
+        "ro": [
+          "Rezervația este un punct critic pentru supraviețuirea elefanților de pădure.",
+          "Ecosistemul forestier din Yomou este clasificat ca pădure tropicală umedă sempervirescentă.",
+          "Multe specii de orhidee endemice au fost identificate pentru prima dată aici.",
+          "Situl este monitorizat prin satelit pentru a preveni defrișările ilegale.",
+          "Comunitățile locale utilizează pădurea pentru culesul tradițional de fructe sălbatice.",
+          "Yomou reprezintă o barieră naturală împotriva eroziunii solului în sudul țării."
+        ],
+        "en": [
+          "Yomou is one of the few places in West Africa where pygmy hippos still exist in the wild.",
+          "The reserve forms a vital link in the transboundary Ziama-Wonegizi forest landscape.",
+          "It features some of the tallest mahogany and ebony trees in the Republic of Guinea.",
+          "The area is famous for its cultural 'sacred forests' used for initiation rites.",
+          "Annual rainfall in Yomou often exceeds 2,500 mm, sustaining its lush growth.",
+          "Conservation efforts in Yomou are critical for regional carbon sequestration goals."
+        ]
+      }
+    },
+    {
+      "id": "gaoual-cattle-plains-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rinderebenen von Gaoual (Plaines pastorales de Gaoual) sind eine der bedeutendsten Weideregionen Westafrikas und das Herzstück der pastoralen Wirtschaft im Nordwesten Guineas. Geografisch erstrecken sich diese weiten Ebenen zwischen den Ausläufern des Fouta-Djallon-Hochlandes und der senegalesischen Grenze. Das Landschaftsbild ist durch offene Baumsavannen und fruchtbare Schwemmlandebenen geprägt, die nach der Regenzeit in ein sattes Grün getaucht werden. Die Region ist die Heimat der N'Dama-Rinder, einer robusten Rasse, die für ihre Widerstandsfähigkeit gegen tropische Krankheiten weltweit geschätzt wird. Das Leben in Gaoual folgt dem Rhythmus der Transhumanz; jedes Jahr ziehen tausende Hirten der Peul (Fula) mit ihren riesigen Herden über die Ebenen, um die besten Weidegründe und Wasserstellen zu finden. Wirtschaftlich ist Gaoual der wichtigste Lieferant für Lebendvieh für die Märkte in Guinea-Bissau, Senegal und den Süden Guineas. Das pastorale Leben ist tief in den sozialen Strukturen der Region verwurzelt, wobei der Besitz von Rindern nicht nur Reichtum, sondern auch Ehre und Prestige symbolisiert. Trotz der Herausforderungen durch den Klimawandel und Landnutzungskonflikte bleiben die Ebenen von Gaoual ein Symbol für die Beständigkeit der westafrikanischen Hirtenkultur und die enorme landwirtschaftliche Kraft der Region.",
+        "hu": "Gaoual állattenyésztő síkságai (Plaines pastorales de Gaoual) Nyugat-Afrika egyik legfontosabb legelőterületét alkotják Guinea északnyugati részén. Földrajzilag a Fouta Djallon-hegység lábai és a szenegáli határ közötti tágas medencében fekszenek, ahol a tájat nyílt, fás szavannák és termékeny ártéri területek határozzák meg. A síkság az őshonos N'Dama szarvasmarha legfőbb tenyésztési körzete; ez a fajta világszerte híres az álomkórral szembeni ellenálló képességéről. Gaoual mindennapjait a transzhumáló (évszakos) pásztorkodás ritmusa határozza meg: évente fula pásztorok ezrei vonulnak át a területen hatalmas csordáikkal, követve a friss legelőket és a vízlelőhelyeket. Gazdaságilag a régió stratégiai fontosságú, hiszen innen látják el élőállattal Guinea északnyugati részét, valamint Bissau-Guineát és Szenegált is. A marhatartás a helyi társadalom alapköve; a jószágok száma jelzi a családok vagyoni helyzetét és társadalmi rangját. A klímaváltozás és a földhasználati viták ellenére Gaoual síkságai ma is a nyugat-afrikai pásztorkultúra egyik legélőbb és legerősebb bástyájának számítanak, ahol a hagyományos tudás és a regionális kereskedelem szerves egységet alkot.",
+        "ro": "Câmpiile pastorale din Gaoual (Plaines pastorales de Gaoual) reprezintă una dintre cele mai vaste și productive regiuni de pășunat din Africa de Vest, fiind inima economiei zootehnice din nord-vestul Guineei. Din punct de vedere geografic, aceste câmpii se întind între versanții masivului Fouta Djallon și frontiera cu Senegalul, oferind un peisaj de savană arborescentă și lunci inundabile fertile. Regiunea este patria vitelor din rasa N'Dama, apreciate la nivel internațional pentru rezistența lor naturală la paraziții tropicali. Viața în Gaoual este guvernată de ciclurile transhumanței; anual, mii de păstori Fula traversează aceste câmpii cu turme impresionante în căutarea celor mai bune resurse de iarbă și apă. Economic, Gaoual funcționează ca principalul centru de export de animale vii către piețele din Guinea-Bissau și Senegal. Cultura pastorală este profund înrădăcinată în structura socială locală, unde bovinele nu sunt doar un bun comercial, ci și un simbol al prestigiului și al moștenirii familiale. În ciuda provocărilor climatice actuale, câmpiile din Gaoual rămân un simbol al rezilienței modului de viață tradițional și un pilon esențial al securității alimentare regionale.",
+        "en": "The cattle plains of Gaoual (Plaines pastorales de Gaoual) comprise one of West Africa's most significant grazing regions and the heart of the pastoral economy in northwestern Guinea. Geographically, these expansive plains lie between the foothills of the Fouta Djallon highlands and the border with Senegal, featuring a landscape of wooded savannas and fertile floodplains. The region is the primary breeding ground for N'Dama cattle, a robust breed world-renowned for its natural immunity to sleeping sickness. Life in Gaoual is dictated by the rhythm of transhumance; each year, thousands of Peul (Fula) herders migrate across these plains with vast herds, following the seasonal availability of pasture and water. Economically, Gaoual serves as a vital livestock hub, supplying live animals to markets in Guinea-Bissau, Senegal, and southern Guinea. Pastoralism is deeply embedded in the local social hierarchy, where cattle ownership represents not just wealth but familial honor and prestige. Despite pressures from climate change and land-use competition, the Gaoual plains remain a living symbol of West African herding traditions and a powerhouse of regional agricultural trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gaoual ist der größte Exportknotenpunkt für N'Dama-Rinder im Nordwesten.",
+          "Die Ebenen sind während der Regenzeit fast vollständig mit nahrhaftem Gras bedeckt.",
+          "Die Region beherbergt eines der größten Viehhandelszentren der Mano-Fluss-Union.",
+          "Traditionelle Hirtenlieder der Peul beschreiben die Geografie dieser Ebenen.",
+          "Gaoual liegt in einer strategischen Senke zwischen Gebirge und Küstentiefland.",
+          "Die lokale Milchwirtschaft produziert den berühmten 'Gaoual-Käse'."
+        ],
+        "hu": [
+          "Gaoual az N'Dama marhák legfontosabb exportkapuja Bissau-Guinea felé.",
+          "A síkságok füve az esős évszakban a legmagasabb tápértékű egész Guineában.",
+          "A területen zajlik Nyugat-Afrika egyik legnagyobb éves élőállat-vására.",
+          "A pásztorkodás a lakosság több mint 90%-ának biztosít megélhetést.",
+          "A síkság geológiailag egy hatalmas üledékes medence, amely jól tárolja a vizet.",
+          "A régióban különleges, hosszú érlelésű hagyományos sajtokat is készítenek."
+        ],
+        "ro": [
+          "Gaoual deține recordul regional pentru numărul de bovine pe cap de locuitor.",
+          "Câmpiile sunt traversate de rute de transhumanță vechi de secole.",
+          "Sistemul de pășunat din Gaoual este studiat ca model de adaptare la secetă.",
+          "Bovinele din această zonă sunt exportate până în Gambia și Mali.",
+          "Piața de vite din Gaoual este un motor de creștere pentru economia locală.",
+          "Regiunea este cunoscută pentru festivalurile sale pastorale anuale."
+        ],
+        "en": [
+          "Gaoual is the premier hub for the cross-border N'Dama cattle trade.",
+          "The floodplains provide high-protein forage that is essential for calf growth.",
+          "It acts as a primary buffer zone for livestock during the dry season.",
+          "Cattle ownership in Gaoual is traditionally managed through complex clan networks.",
+          "The plains occupy a unique geological depression that retains moisture longer.",
+          "The region is a major contributor to Guinea's national agricultural exports."
+        ]
+      }
+    },
+    {
+      "id": "koundara-savannah-animals-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Savannentierwelt von Koundara (Faune de la savane de Koundara) repräsentiert eines der lebendigsten und vielfältigsten Wildtier-Ökosysteme Guineas im äußersten Nordwesten des Landes. Geografisch liegt die Region Koundara in der Sudano-Sahel-Zone, geprägt durch weite Grassavannen, Akazienwälder und saisonale Wasserläufe. Diese Landschaft bietet den idealen Lebensraum für eine Vielzahl von Großsäugern, die in anderen Teilen Westafrikas bereits selten geworden sind. Zu den markantesten Bewohnern gehören verschiedene Antilopenarten wie die Pferdeantilope und die Riesen-Elenantilope, sowie Warzenschweine, Paviane und eine reiche Vogelwelt. Koundara ist das Tor zum Badiar-Nationalpark, was die Bedeutung der Region für den Wildtierschutz unterstreicht. Das Leben in dieser Region ist stark vom extremen Klima geprägt; in der Trockenzeit konzentriert sich die Tierwelt um die wenigen verbliebenen Wasserlöcher, was spektakuläre Beobachtungen ermöglicht. Wirtschaftlich gewinnt die Beobachtung der Savannentiere durch den Ökotourismus an Bedeutung, was neue Perspektiven für die lokale Bevölkerung eröffnet. Für Forscher ist Koundara ein wichtiger Ort zur Untersuchung der Anpassung von Tierarten an die zunehmende Aridität. Die Erhaltung dieser Fauna ist eng mit dem Schutz der Migrationskorridore verbunden, die Guinea mit dem Senegal verbinden.",
+        "hu": "Koundara szavannai élővilága (Faune de la savane de Koundara) Guinea egyik leggazdagabb és leglátványosabb vadon élő ökoszisztémája az ország északnyugati csücskében. Földrajzilag a régió a szudáni-száheli övezetben fekszik, amelyet végtelen füves puszták, akácligetek és időszakos vízfolyások jellemeznek. Ez a táj ideális otthont nyújt számos olyan nagyvadnak, amelyek Nyugat-Afrika más részein már ritkaságnak számítanak. A legjellegzetesebb lakók közé tartoznak a különböző antilopfajok, mint a fakó lóantilop és az óriás eland-antilop, valamint a varacskosdisznók, páviánok és a rendkívül színes madárvilág. Koundara a Badiar Nemzeti Park kapuja, ami tovább növeli a térség természetvédelmi jelentőségét. Az élet ezen a vidéken a végletekig alkalmazkodott az éghajlathoz: a perzselő száraz évszakban az állatvilág a megmaradt kevés itatóhely köré csoportosul, ami páratlan megfigyelési lehetőségeket kínál a látogatóknak. Gazdaságilag a vadvilág megőrzése az ökoturizmus révén válik kifizetődővé, új megélhetési forrást kínálva a helyi közösségeknek. A kutatók számára Koundara fontos helyszín az állatfajok szárazsághoz való alkalmazkodásának tanulmányozására. A fauna védelme elengedhetetlen a Guinea és Szenegál közötti természetes vándorlási útvonalak fenntartásához.",
+        "ro": "Fauna de savană din Koundara (Faune de la savane de Koundara) reprezintă unul dintre cele mai vibrante și diverse ecosisteme sălbatice din Guineea, situat în extremitatea de nord-vest a țării. Geografic, regiunea Koundara se află în zona sudano-saheliană, caracterizată prin câmpii ierboase vaste, păduri de salcâmi și cursuri de apă sezoniere. Acest peisaj oferă habitatul ideal pentru o multitudine de mamifere mari care au devenit rare în alte părți ale Africii de Vest. Printre cei mai emblematici locuitori se numără diverse specii de antilope, precum antilopa cal și elandul uriaș, alături de porci mistați africani, babuini și o avifaună extrem de bogată. Koundara este poarta de acces către Parcul Național Badiar, subliniind importanța strategică a regiunii pentru conservare. Viața sălbatică aici este puternic influențată de climatul extrem; în sezonul uscat, animalele se concentrează în jurul ultimelor puncte de apă, oferind oportunități spectaculoase de observare. Din punct de vedere economic, observarea faunei prin ecoturism începe să genereze venituri pentru populația locală. Pentru cercetători, Koundara este un loc esențial pentru studiul adaptării speciilor la ariditate. Protejarea acestei faune este strâns legată de menținerea coridoarelor de migrație care leagă Guineea de Senegal.",
+        "en": "The savanna wildlife of Koundara (Faune de la savane de Koundara) represents one of Guinea's most vibrant and diverse wild ecosystems, located in the far northwestern corner of the country. Geographically, the Koundara region lies within the Sudano-Sahelian zone, characterized by vast grasslands, acacia thickets, and seasonal watercourses. This landscape provides an ideal habitat for a variety of large mammals that have become rare elsewhere in West Africa. Among the most prominent residents are various species of antelope, including the Roan antelope and the Western Giant Eland, alongside warthogs, baboons, and a prolific array of birdlife. Koundara serves as the gateway to the Badiar National Park, underscoring the region's importance for biodiversity conservation. Life in this area is heavily shaped by the extreme seasonal climate; during the intense dry season, wildlife congregates around the few remaining water holes, offering spectacular viewing opportunities. Economically, the region is increasingly tapping into eco-tourism, providing new livelihoods for local communities. For scientists, Koundara is a vital site for researching how species adapt to increasing aridity. Preserving this fauna is essential for maintaining the natural migration corridors that connect Guinea with Senegal."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koundara beherbergt die seltenen Westafrikanischen Riesen-Elenantilopen.",
+          "Die Region ist bekannt für ihre hohe Dichte an Raubvögeln wie Geiern und Adlern.",
+          "In den Galeriewäldern entlang der Flüsse leben verschiedene Primatenarten.",
+          "Die Trockenzeit ist die beste Zeit für Wildtiersichtungen an den Wasserlöchern.",
+          "Koundara ist Teil eines internationalen Korridors für wandernde Tierarten.",
+          "Lokalpatrouillen schützen die Fauna vor illegaler Wilderei."
+        ],
+        "hu": [
+          "Koundara környékén él a világ legnagyobb antilopfaja, a nyugati óriás eland.",
+          "A régió híres a ragadozó madarak, például keselyűk és sasok nagy számáról.",
+          "A folyómenti galériaerdőkben több majomfaj, köztük cerkófok is élnek.",
+          "A száraz évszak a legalkalmasabb a vadvilág megfigyelésére az itatóknál.",
+          "A terület Guinea legfontosabb vadászati tilalmi zónáinak egyike.",
+          "Koundara vadvilága szoros ökológiai egységet alkot a szenegáli Niokolo-Koba parkkal."
+        ],
+        "ro": [
+          "Savană din Koundara adăpostește peste 20 de specii de mamifere mari.",
+          "Este una dintre puținele zone din Guineea unde pot fi văzuți struți sălbatici.",
+          "Râul Koulountou este artera vitală pentru fauna din această regiune aridă.",
+          "Ecoturismul în Koundara sprijină conservarea speciilor pe cale de dispariție.",
+          "Migrația antilopelor între Guineea și Senegal este un fenomen natural anual.",
+          "Regiunea este recunoscută internațional ca zonă de importanță avifaunistică."
+        ],
+        "en": [
+          "Koundara is home to the critically endangered Western Giant Eland.",
+          "The region boasts an incredible variety of raptors, including martial eagles.",
+          "Riverine gallery forests provide refuge for several primate species.",
+          "The peak of the dry season offers the most reliable wildlife viewing at pools.",
+          "Koundara is a critical link in the regional movement of large herbivores.",
+          "Community-led initiatives are increasingly involved in protecting the local fauna."
+        ]
+      }
+    },
+    {
+      "id": "mount-nimba-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Nimba (Mont Nimba) ist eine der spektakulärsten und ökologisch bedeutendsten Naturstätten Guineas und Westafrikas. Geografisch liegt das Nimba-Massiv im Dreiländereck von Guinea, Liberia und der Elfenbeinküste und erhebt sich markant über die umgebenden Regenwälder. Der höchste Gipfel auf guineischer Seite, der Mont Richard-Molard, erreicht eine Höhe von 1.752 Metern und ist damit der höchste Punkt des Landes. Aufgrund seiner außergewöhnlichen Biodiversität und seiner einzigartigen Hochland-Graslandschaften wurde der guineische Teil des Massivs von der UNESCO zum Weltnaturerbe erklärt. Nimba beherbergt über 2.000 Gefäßpflanzenarten und endemische Tiere, die nirgendwo sonst auf der Welt vorkommen, wie die Nimba-Otterspitzmaus und die lebendgebärende Nimba-Kröte. Historisch gesehen ist der Berg ein Symbol für den Konflikt zwischen Naturschutz und industrieller Nutzung, da das Massiv über riesige Vorkommen an hochwertigem Eisenerz verfügt. Wirtschaftlich stellt dieses Erzpotenzial eine enorme Chance für Guinea dar, während internationale Naturschutzorganisationen für den Erhalt dieses 'Insel-Ökosystems' kämpfen. Für Besucher bietet der Mount Nimba atemberaubende Panoramen und eine mystische Atmosphäre, oft in Wolken gehüllt, die die Einzigartigkeit dieses westafrikanischen Hochgebirges unterstreichen.",
+        "hu": "A Nimba-hegy (Mont Nimba) Guinea és egész Nyugat-Afrika egyik legkülönlegesebb és ökológiailag legjelentősebb természeti képződménye. Földrajzilag a Nimba-masszívum Guinea, Libéria és Elefántcsontpart hármashatárán fekszik, meredeken emelkedve a környező trópusi esőerdők fölé. Legmagasabb pontja, a Mont Richard-Molard (1752 m), Guinea és Elefántcsontpart legmagasabb csúcsa is egyben. Rendkívüli biológiai sokfélesége és egyedülálló magaslati füves pusztái miatt a hegység guineai része az UNESCO világörökség része. A Nimba több mint 2000 növényfajnak és olyan endemikus állatoknak ad otthont, amelyek a világon sehol máshol nem találhatók meg, mint például a Nimba-vidra és az elevenszülő Nimba-varangy. Történelmileg a hegy a természetvédelem és az ipari kitermelés közötti küzdelem jelképe, mivel a masszívum a Föld egyik legtisztább vasérckincsét rejti. Gazdaságilag ez az érctartalék óriási lehetőséget jelent Guinea számára, miközben nemzetközi szervezetek harcolnak ezen „sziget-ökoszisztéma” megőrzéséért. A látogatók számára a Nimba-hegy lélegzetelállító panorámát és misztikus, gyakran felhőkbe burkolózó atmoszférát kínál, amely kiemeli a hegység egyedülálló jellegét a nyugat-afrikai tájban.",
+        "ro": "Muntele Nimba (Mont Nimba) este unul dintre cele mai spectaculoase și semnificative situri naturale din Guineea și din întreaga Africă de Vest. Geografic, masivul Nimba este situat la intersecția frontierelor dintre Guineea, Liberia și Coasta de Fildeș, dominând peisajul pădurilor tropicale înconjurătoare. Cel mai înalt vârf de pe partea guineeană, Mont Richard-Molard, atinge o altitudine de 1.752 de metri, fiind cel mai înalt punct al țării. Datorită biodiversității sale excepționale și a pajiștilor montane unice, partea guineeană a masivului a fost declarată de UNESCO sit al Patrimoniului Mondial Natural. Nimba găzduiește peste 2.000 de specii de plante și animale endemice care nu se mai găsesc nicăieri altundeva în lume, precum broasca vivipară de Nimba. Din punct de vedere istoric, muntele simbolizează conflictul dintre conservarea naturii și interesele industriale, deoarece masivul conține zăcăminte imense de minereu de fier de înaltă calitate. Din punct de vedere economic, acest potențial reprezintă o miză uriașă pentru Guineea, în timp ce organizațiile internaționale luptă pentru protejarea acestui „ecosistem-insulă”. Pentru vizitatori, Muntele Nimba oferă panorame uluitoare și o atmosferă mistică, fiind adesea învăluit în nori, ceea ce subliniază caracterul său unic.",
+        "en": "Mount Nimba (Mont Nimba) is one of Guinea's and West Africa's most spectacular and ecologically significant natural landmarks. Geographically, the Nimba Massif is located at the tri-border of Guinea, Liberia, and Ivory Coast, rising sharply above the surrounding tropical rainforests. Its highest peak on the Guinean side, Mont Richard-Molard, reaches an elevation of 1,752 meters, making it the highest point in both Guinea and Ivory Coast. Due to its extraordinary biodiversity and unique high-altitude grasslands, the Guinean portion of the massif was designated a UNESCO World Heritage Site. Nimba is home to over 2,000 species of vascular plants and endemic animals found nowhere else on Earth, such as the Nimba viviparous toad and the Nimba otter shrew. Historically, the mountain has become a symbol of the tension between environmental conservation and industrial resource use, as the massif contains vast deposits of high-grade iron ore. Economically, this ore represents a major opportunity for Guinea, while international conservationists work to preserve this irreplaceable 'island ecosystem.' For visitors, Mount Nimba offers breathtaking panoramas and a mystical atmosphere, often shrouded in clouds, highlighting its status as a crown jewel of African nature."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Mount Nimba ist mit 1.752 m der höchste Berg Guineas.",
+          "Das Massiv beherbergt die weltweit einzige lebendgebärende Krötenart.",
+          "Seit 1981 gehört der guineische Teil zum UNESCO-Weltnaturerbe.",
+          "Der Berg ist eine biogeografische Insel mit extrem vielen endemischen Arten.",
+          "Die Eisenkarst-Landschaften auf den Gipfeln sind weltweit einzigartig.",
+          "Ein großer Teil des Berges steht unter strengem Naturschutz (Réserve Naturelle Intégrale)."
+        ],
+        "hu": [
+          "A Nimba-hegy 1752 méterével Guinea és Elefántcsontpart legmagasabb pontja.",
+          "Itt él a világ egyetlen elevenszülő varangyfaja (Nimbaphrynoides occidentalis).",
+          "A terület 1981 óta szerepel az UNESCO természeti világörökségi listáján.",
+          "A hegységben több mint 500 új állatfajt írtak le a kutatók.",
+          "A Nimba-hegy vasérckészlete a világ egyik legjobb minőségű lelőhelye.",
+          "A csúcsok felé haladva az esőerdőt fokozatosan váltják fel a hegyi rétek."
+        ],
+        "ro": [
+          "Muntele Nimba este supranumit 'castelul de apă' al Africii de Vest.",
+          "Rezervația naturală integrală protejează peste 200 de specii endemice.",
+          "Climatul montan creează condiții pentru o floră alpină atipică la tropice.",
+          "Masivul este compus predominant din cuarțite bogate în fier.",
+          "Nimba a fost una dintre primele arii protejate transfrontaliere din Africa.",
+          "Vârful Richard-Molard este numit după un geograf francez decedat pe munte."
+        ],
+        "en": [
+          "Mount Nimba is the highest peak in West Africa outside the Cameroon line.",
+          "It is the only place on Earth where the Nimba viviparous toad is found.",
+          "UNESCO added the site to its World Heritage list in 1981.",
+          "The mountain features over 2,000 recorded species of vascular plants.",
+          "It remains on the UNESCO List of World Heritage in Danger due to mining pressure.",
+          "The massif acts as a major watershed for rivers flowing into Liberia and Ivory Coast."
+        ]
+      }
+    },
+    {
+      "id": "niger-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Niger ist die bedeutendste Wasserstraße Guineas und einer der mächtigsten Ströme Afrikas. Geografisch entspringt er im guineischen Hochland, in der Nähe der Stadt Faranah, auf einer Höhe von etwa 800 Metern über dem Meeresspiegel. In Guinea wird der Fluss oft als 'Djoliba' bezeichnet, was in der Malinké-Sprache 'Großer Strom' bedeutet. Auf seinem Weg durch Oberguinea bildet der Niger das Rückgrat des Ökosystems und der lokalen Wirtschaft, indem er fruchtbare Schwemmlandebenen für den Reisanbau bewässert und als wichtige Verkehrsader dient. Der Fluss fließt zunächst nach Norden in Richtung Mali, bevor er seinen charakteristischen Bogen durch die Sahara beschreibt. Historisch gesehen war der Niger die Wiege großer westafrikanischer Reiche wie des Mali- und des Songhai-Reiches, die ihren Reichtum dem Handel auf diesem Strom verdankten. Das Leben an den Ufern des Nigers ist geprägt durch den Rhythmus der saisonalen Fluten, die lebenswichtige Sedimente auf die Felder bringen. Wirtschaftlich ist der Niger heute für Guinea unverzichtbar für die Fischerei, den Transport und zunehmend für die Erzeugung von Wasserkraft. Für das guineische Volk ist der Niger ein heiliges Erbe und ein Symbol der regionalen Verbundenheit, da er Westafrika über tausende Kilometer miteinander verknüpft.",
+        "hu": "A Niger Guinea legfontosabb vízi útja és Afrika egyik leghatalmasabb folyama. Földrajzilag a guineai fennsíkon, Faranah városa közelében ered, mintegy 800 méteres tengerszint feletti magasságban. Guineában a folyót gyakran „Djoliba” néven emlegetik, ami malinké nyelven „Hatalmas Folyamot” jelent. Felső-Guineán áthaladva a Niger alkotja a régió ökoszisztémájának és gazdaságának gerincét: öntözi a termékeny ártéri rizsföldeket és fontos közlekedési útvonalként szolgál. A folyó először észak felé, Mali irányába tart, mielőtt leírná jellegzetes kanyarulatát a Szahara felé. Történelmileg a Niger volt a bölcsője a nagy nyugat-afrikai államoknak, mint a Mali és a Szonghai Birodalom, amelyek gazdagságukat a folyó menti kereskedelemnek köszönhették. A Niger partján zajló életet az éves áradások ritmusa határozza meg, amelyek éltető hordalékot hoznak a termőföldekre. Gazdaságilag a folyam ma is nélkülözhetetlen Guinea számára a halászat, a szállítmányozás és egyre inkább a vízi energia termelése szempontjából. A guineai nép számára a Niger szent örökség és a regionális összetartozás jelképe, amely több ezer kilométeren át köti össze Nyugat-Afrika népeit.",
+        "ro": "Nigerul este cea mai importantă arteră hidrografică a Guineei și unul dintre cele mai mari fluvii ale Africii. Geografic, acesta izvorăște din munții Guineei, în apropierea orașului Faranah, la o altitudine de aproximativ 800 de metri peste nivelul mării. În Guineea, fluviul este adesea numit „Djoliba”, ceea ce în limba Malinké înseamnă „Marele Curs de Apă”. Traversând regiunea Guineei Superioare, Nigerul reprezintă coloana vertebrală a ecosistemului și a economiei locale, irigând câmpiile fertile pentru cultura orezului și servind ca o cale vitală de transport. Fluviul curge inițial spre nord, către Mali, înainte de a descrie arcul său caracteristic prin regiunea Sahelului. Din punct de vedere istoric, Nigerul a fost leagănul marilor imperii vest-africane, precum Imperiul Mali și Imperiul Songhai, care și-au clădit prosperitatea pe comerțul fluvial. Viața pe malurile Nigerului este dictată de ritmul inundațiilor sezoniere, care depun sedimente prețioase pe terenurile agricole. Astăzi, Nigerul este indispensabil pentru pescuit, transport și, tot mai mult, pentru producția de energie hidroelectrică. Pentru poporul guineean, Nigerul este o moștenire sacră și un simbol al unității regionale, legând diverse națiuni de-a lungul a mii de kilometri.",
+        "en": "The Niger is Guinea's most vital waterway and one of Africa's mightiest rivers. Geographically, it originates in the Guinean highlands near the town of Faranah, at an elevation of approximately 800 meters above sea level. In Guinea, the river is often called the 'Djoliba,' which in the Malinké language translates to 'Great River.' As it flows through Upper Guinea, the Niger forms the backbone of the region's ecosystem and economy, irrigating fertile floodplains for rice cultivation and serving as a major transport artery. The river initially flows north toward Mali before describing its characteristic great bend toward the Sahara. Historically, the Niger was the cradle of great West African civilizations, such as the Mali and Songhai Empires, which derived their wealth from riverine trade. Daily life along the Niger is governed by the rhythm of seasonal floods that bring essential nutrients to the fields. Economically, the river is indispensable for fishing, transport, and increasingly for hydroelectric power generation. For the Guinean people, the Niger is a sacred heritage and a symbol of regional connectivity, linking West African nations across thousands of kilometers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Niger ist mit 4.180 km der drittlängste Fluss Afrikas.",
+          "Seine Quelle liegt in den Bergen von Tembakounda in Guinea.",
+          "In Guinea ist der Fluss auf weiten Strecken für Pirogen schiffbar.",
+          "Der Niger liefert das Wasser für die riesigen Reisfelder von Kouroussa und Kankan.",
+          "Der Fluss beheimatet seltene Arten wie das Afrikanische Manati.",
+          "Der Niger gilt als die spirituelle Lebensader des Mandinka-Volkes."
+        ],
+        "hu": [
+          "A Niger 4180 kilométeres hosszával Afrika harmadik leghosszabb folyója.",
+          "A folyó forrása a guineai Tembakounda-hegyekben található.",
+          "A guineai szakaszon a folyó fontos közlekedési útvonal a pirogok számára.",
+          "A folyam biztosítja az ivóvizet és az öntözővizet Felső-Guinea nagyvárosai számára.",
+          "A Niger folyó mentén alakultak ki Nyugat-Afrika legősibb városi civilizációi.",
+          "A folyó vízhozama alapvetően határozza meg a térség energiabiztonságát."
+        ],
+        "ro": [
+          "Izvorul Nigerului se află la doar 240 km de Oceanul Atlantic, dar fluviul curge spre interior.",
+          "Bazinul Nigerului în Guineea este o zonă protejată de importanță internațională.",
+          "Fluviul este vital pentru pescuitul de apă dulce, sursa principală de proteine locale.",
+          "Nigerul este reprezentat în simbolistica națională ca sursă a fertilității.",
+          "Debitul său variază dramatic între sezonul uscat și cel ploios.",
+          "Djoliba este numele sub care fluviul este celebrat în epopeile Mandinka."
+        ],
+        "en": [
+          "The Niger is the third-longest river in Africa, stretching 4,180 km.",
+          "Its source is located in the Tembakounda Mountains near the Sierra Leone border.",
+          "The river is navigable by traditional pirogues for several hundred kilometers in Guinea.",
+          "It provides the essential silt and water for the vast Upper Guinea rice basins.",
+          "The Niger basin in Guinea is home to over 250 species of freshwater fish.",
+          "It serves as a primary logistical link for trade between Guinea and Mali."
+        ]
+      }
+    }
+  ]
+}

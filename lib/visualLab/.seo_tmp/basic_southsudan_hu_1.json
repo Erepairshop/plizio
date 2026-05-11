@@ -1,0 +1,80 @@
+{
+  "lang": "hu",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aweil-cities-v2",
+      "description": "Észak-Dél-Szudán kereskedelmi csomópontja a Lol-folyó mentén. Jelentős mezőgazdasági központ.",
+      "facts": ["Lakosai főleg dinka törzsűek", "Vasúti összeköttetés", "Mezőgazdasági régió központja", "Éghajlata trópusi szavannai"]
+    },
+    {
+      "id": "kajokeji-cities-v2",
+      "description": "Közép-Egyenlítői államban fekvő város, az ugandai határ közelében. Fontos oktatási intézményeknek ad otthont.",
+      "facts": ["Határmenti kereskedelmi pont", "Sziklás dombvidéki környezet", "Oktatási központ", "Jelentős vallási közösség"]
+    },
+    {
+      "id": "akobo-cities-v2",
+      "description": "Az Akobo-folyó mellett elterülő település az ország keleti részén. Történelmileg fontos kereskedelmi kikötő.",
+      "facts": ["Folyóparti fekvés", "Határ Etiópiával", "Kereskedelmi csomópont", "Nuur törzsi terület"]
+    },
+    {
+      "id": "magwi-cities-v2",
+      "description": "Egyenlítői vidéken található város, amely a mezőgazdasági termeléséről ismert. A régió fontos központja.",
+      "facts": ["Termékeny talaj", "Mezőgazdasági központ", "Hegyvidéki klíma", "Kereskedelmi jelentőség"]
+    },
+    {
+      "id": "mayom-cities-v2",
+      "description": "Olajban gazdag területen fekvő település az egység államban. Fontos állomás a helyi gazdaság számára.",
+      "facts": ["Olajipari régió", "Nuur népesség", "Sivatagi-szavannai övezet", "Állattenyésztő központ"]
+    },
+    {
+      "id": "deim-zubeir-cities-v2",
+      "description": "Történelmi település, amely korábban kereskedelmi táborhelyként szolgált. A rabszolga-kereskedelem idején vált ismertté.",
+      "facts": ["Történelmi kereskedelmi állomás", "Nyugat-Bahr el Ghazal állam", "Keresztutak találkozása", "Szudáni kereskedelmi hagyomány"]
+    },
+    {
+      "id": "terekeka-cities-v2",
+      "description": "A Fehér-Nílus partján elterülő város, a bari nép egyik központja. Fontos folyami kikötőhely.",
+      "facts": ["Nílus-parti fekvés", "Bari népcsoport", "Halászati központ", "Közigazgatási régió"]
+    },
+    {
+      "id": "ibba-cities-v2",
+      "description": "Nyugat-Egyenlítői állambeli város, az erdős szavanna övezetben. A mezőgazdaság meghatározó szerepet tölt be.",
+      "facts": ["Erdős környezet", "Mezőgazdasági termelés", "Kereskedelmi állomás", "Helyi piac központja"]
+    },
+    {
+      "id": "amadi-cities-v2",
+      "description": "Egykori közigazgatási és mezőgazdasági központ az Egyenlítői régióban. Fontos csomópontja a helyi kereskedelemnek.",
+      "facts": ["Mezőgazdasági múlt", "Kereskedelmi központ", "Erdős szavanna", "Közigazgatási állomás"]
+    },
+    {
+      "id": "panyijar-cities-v2",
+      "description": "Mocsaras területen elterülő város, amely a halászatról és állattenyésztésről ismert. Fontos élelmezési központ.",
+      "facts": ["Mocsárvidéki övezet", "Halászati központ", "Állattenyésztés", "Szezonális megélhetés"]
+    },
+    {
+      "id": "ayod-cities-v2",
+      "description": "Jonglei állambeli település, amely a helyi állattenyésztés egyik központja. Szárazföldi útvonalak kereszteződésében áll.",
+      "facts": ["Állattenyésztő régió", "Jonglei állam", "Szavannai éghajlat", "Törzsi központ"]
+    },
+    {
+      "id": "uror-cities-v2",
+      "description": "Nagy kiterjedésű vidéki körzet központja, a pásztorkodó életmód jellemzi. Fontos törzsi találkozóhely.",
+      "facts": ["Pásztorkodó életmód", "Állattenyésztés", "Jonglei állam", "Regionális piac"]
+    },
+    {
+      "id": "nzara-cotton-ginnery-economic-v2",
+      "description": "Egykori pamutfeldolgozó létesítmény, amely az ország ipari törekvéseit szimbolizálja. A térség mezőgazdasági feldolgozásának központja volt.",
+      "facts": ["Pamutfeldolgozó üzem", "Ipari hagyomány", "Mezőgazdasági központ", "Nyugat-Egyenlítői régió"]
+    }
+  ]
+}

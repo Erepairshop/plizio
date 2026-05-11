@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "osun-relief-relief-v2",
+      "description": "A landscape characterized by undulating terrain in Osun State. It is well-drained and suitable for agricultural practices.",
+      "facts": ["Located in Osun State", "Undulating terrain", "Agricultural use"]
+    },
+    {
+      "id": "cross-river-tal-relief-v2",
+      "description": "The river valley surrounding the Cross River, supporting diverse ecosystems. It is a vital area for regional hydrology.",
+      "facts": ["River valley", "Diverse ecosystems", "Hydrology hub"]
+    },
+    {
+      "id": "ondo-relief-relief-v2",
+      "description": "An area of rolling plains and hills in Ondo State. It features fertile soil supporting cocoa and other crops.",
+      "facts": ["Located in Ondo State", "Rolling plains", "Fertile soil"]
+    },
+    {
+      "id": "nassarawa-relief-relief-v2",
+      "description": "A region of hilly terrain and plains in Nassarawa State. It forms part of the central Nigerian highland belt.",
+      "facts": ["Located in Nassarawa", "Hilly terrain", "Central highland"]
+    },
+    {
+      "id": "kaduna-tal-relief-v2",
+      "description": "The valley of the Kaduna River, providing essential water resources. It is an important agricultural and settlement corridor.",
+      "facts": ["Kaduna River valley", "Water resources", "Agricultural corridor"]
+    },
+    {
+      "id": "yobe-becken-relief-v2",
+      "description": "A semi-arid basin region in Yobe State. It is characterized by flat plains and seasonal water bodies.",
+      "facts": ["Located in Yobe State", "Semi-arid basin", "Flat plains"]
+    },
+    {
+      "id": "sokoto-ebene-relief-v2",
+      "description": "An extensive plain area in Sokoto State. It is known for its arid climate and traditional farming methods.",
+      "facts": ["Located in Sokoto State", "Extensive plains", "Arid climate"]
+    },
+    {
+      "id": "adamawa-hochland-relief-v2",
+      "description": "A significant highland area in Adamawa State. It serves as a major watershed for rivers in the region.",
+      "facts": ["Located in Adamawa State", "Highland area", "Major watershed"]
+    },
+    {
+      "id": "benue-tal-relief-v2",
+      "description": "The expansive valley of the Benue River. It is a primary area for agriculture and fishing in eastern Nigeria.",
+      "facts": ["Benue River valley", "Primary agriculture", "Eastern Nigeria"]
+    },
+    {
+      "id": "gongola-tal-relief-v2",
+      "description": "The valley surrounding the Gongola River. It is essential for livestock grazing and local small-scale irrigation.",
+      "facts": ["Gongola River valley", "Livestock grazing", "Irrigation support"]
+    },
+    {
+      "id": "kano-ebene-relief-v2",
+      "description": "The vast plains surrounding Kano. It is historically significant for trans-Saharan trade and intensive agriculture.",
+      "facts": ["Surrounds Kano", "Intensive agriculture", "Trade history"]
+    }
+  ]
+}

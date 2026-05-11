@@ -1,0 +1,29 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "space-needle-landmarks-v2",
+      "description": "Die Space Needle ist das ikonische Wahrzeichen von Seattle, das für die Weltausstellung 1962 erbaut wurde. Von der Aussichtsplattform bietet sich ein Panoramablick auf die Stadt.",
+      "facts": ["Wahrzeichen Seattles", "Erbaut 1962", "Weltausstellung", "Panoramablick"]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "description": "Faneuil Hall in Boston ist eine historische Versammlungshalle und ein Marktplatz, der eine zentrale Rolle in der amerikanischen Revolution spielte.",
+      "facts": ["Historischer Marktplatz", "In Boston", "Amerikanische Revolution", "Kulturelles Zentrum"]
+    },
+    {
+      "id": "washington-monument-landmarks-v2",
+      "description": "Das Washington Monument ist ein riesiger Obelisk in Washington, D.C., der zu Ehren des ersten US-Präsidenten George Washington errichtet wurde.",
+      "facts": ["Obelisk", "Washington D.C.", "George Washington", "Nationales Symbol"]
+    },
+    {
+      "id": "hollywood-bowl-landmarks-v2",
+      "description": "Die Hollywood Bowl ist ein berühmter Amphitheater-Veranstaltungsort in Los Angeles, der vor allem für seine Konzerte unter freiem Himmel bekannt ist.",
+      "facts": ["Amphitheater", "In Los Angeles", "Freiluftkonzerte", "Kulturikone"]
+    }
+  ]
+}

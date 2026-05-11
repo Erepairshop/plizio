@@ -1,0 +1,50 @@
+{
+  "lang": "en",
+  "country": "Mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pamplemousses-deer-park-life-v2",
+      "description": "The deer park within the Sir Seewoosagur Ramgoolam Botanical Garden offers a tranquil natural setting.",
+      "facts": ["Botanical Garden", "Deer sanctuary", "Relaxing atmosphere"]
+    },
+    {
+      "id": "vallee-des-couleurs-life-v2",
+      "description": "The Vallée des Couleurs Nature Park is famous for its unique geological formations of colored earth.",
+      "facts": ["Colored earth", "Nature park", "Quad biking"]
+    },
+    {
+      "id": "vallee-de-ferney-conservation-park-life-v2",
+      "description": "Vallée de Ferney is a nature reserve dedicated to the conservation of indigenous Mauritian forest and wildlife.",
+      "facts": ["Nature reserve", "Indigenous forest", "Wildlife conservation"]
+    },
+    {
+      "id": "seven-coloured-earth-chamarel-life-v2",
+      "description": "The Seven Coloured Earths are a natural phenomenon in Chamarel, featuring sand dunes of distinct colors.",
+      "facts": ["Natural phenomenon", "Chamarel", "Volcanic sand dunes"]
+    },
+    {
+      "id": "black-river-gorges-national-park-life-v2",
+      "description": "Black River Gorges National Park is a sprawling park protecting Mauritius's remaining rainforest, home to endemic wildlife.",
+      "facts": ["National park", "Rainforest", "Endemic species"]
+    },
+    {
+      "id": "le-morne-brabant-relief-v2",
+      "description": "Le Morne Brabant is a majestic basaltic mountain, a UNESCO World Heritage site and a symbol of freedom.",
+      "facts": ["UNESCO site", "Basaltic mountain", "Symbol of freedom"]
+    },
+    {
+      "id": "pieter-both-mountain-relief-v2",
+      "description": "Pieter Both is the second highest mountain in Mauritius, recognizable by its unique rock formation at the summit.",
+      "facts": ["Second highest peak", "Unique formation", "Challenging hike"]
+    },
+    {
+      "id": "mont-limon-relief-v2",
+      "description": "Mont Limon is the highest peak on Rodrigues Island, offering panoramic views of the entire island.",
+      "facts": ["Highest peak (Rodrigues)", "Panoramic views", "Hiking trail"]
+    }
+  ]
+}

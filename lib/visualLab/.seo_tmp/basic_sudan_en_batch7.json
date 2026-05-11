@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "red-sea-coast-sudan-nature-v2",
+      "description": "A diverse coastal ecosystem featuring vibrant coral reefs and unique marine biodiversity.",
+      "facts": ["Red Sea coast", "Coral reefs", "Marine life", "Biodiversity"]
+    },
+    {
+      "id": "white-nile-river-nature-v2",
+      "description": "A life-sustaining river corridor supporting wetlands and diverse riverside flora.",
+      "facts": ["White Nile", "Wetland habitat", "Riverside flora", "Water resource"]
+    },
+    {
+      "id": "erkowit-mountains-nature-v2",
+      "description": "A high-altitude mountain region known for its unique microclimate and forest patches.",
+      "facts": ["Highland region", "Microclimate", "Forest patches", "Erkowit"]
+    },
+    {
+      "id": "nubian-desert-nature-v2",
+      "description": "An arid, vast desert landscape with unique rock formations and rare desert wildlife.",
+      "facts": ["Nubian desert", "Arid landscape", "Rock formations", "Desert ecosystem"]
+    },
+    {
+      "id": "meidob-volcanic-field-nature-v2",
+      "description": "A geologically significant volcanic region with unique volcanic cones and plains.",
+      "facts": ["Volcanic field", "Geology", "Volcanic cones", "Meidob region"]
+    },
+    {
+      "id": "dongola-reach-nature-v2",
+      "description": "A stretch of the Nile defined by fertile banks and diverse riverine habitats.",
+      "facts": ["Nile stretch", "Riverine habitat", "Dongola", "Fertile banks"]
+    },
+    {
+      "id": "sabargum-island-nature-v2",
+      "description": "A unique island sanctuary in the Nile river, home to diverse riverbank wildlife.",
+      "facts": ["Nile island", "Wildlife refuge", "River ecosystem", "Sabargum"]
+    },
+    {
+      "id": "shendi-reach-nature-v2",
+      "description": "A fertile Nile river reach supporting diverse bird life and riparian vegetation.",
+      "facts": ["Nile reach", "Bird habitat", "Riparian flora", "Shendi area"]
+    },
+    {
+      "id": "wadi-howar-nature-v2",
+      "description": "An ancient dry river valley offering a unique desert habitat for flora and fauna.",
+      "facts": ["Dry river valley", "Desert habitat", "Ancient geology", "Wadi Howar"]
+    },
+    {
+      "id": "nile-cataract-5-nature-v2",
+      "description": "One of the Nile's spectacular cataracts, featuring rugged rock formations and fast-flowing water.",
+      "facts": ["Nile cataract", "River landscape", "Rock formations", "Cataract 5"]
+    },
+    {
+      "id": "nile-cataract-6-nature-v2",
+      "description": "A major Nile cataract passage, known for its dramatic narrow channel and rocky cliffs.",
+      "facts": ["Nile cataract", "Narrow channel", "Rocky cliffs", "Cataract 6"]
+    },
+    {
+      "id": "jebel-marra-crater-nature-v2",
+      "description": "A stunning dormant volcanic crater lake surrounded by lush highlands and diverse vegetation.",
+      "facts": ["Volcanic crater", "Crater lake", "Lush highlands", "Jebel Marra"]
+    }
+  ]
+}

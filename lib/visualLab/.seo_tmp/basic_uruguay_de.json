@@ -1,0 +1,91 @@
+{
+  "lang": "de",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUruguayNatureV2.ts",
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uy-mo-palacio-salvo-landmarks-v2",
+      "description": "Einst das höchste Gebäude Südamerikas, dominiert dieser eklektische Turm das Stadtbild von Montevideo.",
+      "facts": ["Erbaut 1928", "Architekt Mario Palanti", "105 Meter hoch", "Wahrzeichen Montevideos"]
+    },
+    {
+      "id": "uy-mo-estadio-centenario-landmarks-v2",
+      "description": "Dieses Stadion ist ein historischer Ort des Fußballs und war Schauplatz der ersten Weltmeisterschaft 1930.",
+      "facts": ["Eröffnet 1930", "Kapazität 60.000", "UNESCO-Weltkulturerbe", "Heimstadion der Nationalelf"]
+    },
+    {
+      "id": "uy-ma-la-mano-landmarks-v2",
+      "description": "Die berühmte Skulptur einer Hand, die aus dem Sand ragt, ist das Wahrzeichen des Badeortes Punta del Este.",
+      "facts": ["Erschaffen 1982", "Künstler Mario Irarrázabal", "Material Beton", "Symbol der Küste"]
+    },
+    {
+      "id": "uy-mo-teatro-solis-landmarks-v2",
+      "description": "Das bedeutendste Theater Uruguays mit einer prachtvollen neoklassizistischen Architektur im Zentrum von Montevideo.",
+      "facts": ["Eröffnet 1856", "Wichtigstes Kulturhaus", "Neoklassizistischer Stil", "Zentrum Montevideos"]
+    },
+    {
+      "id": "uy-mo-torre-antel-landmarks-v2",
+      "description": "Der moderne Wolkenkratzer ist das höchste Gebäude des Landes und dient als Hauptsitz des staatlichen Telekommunikationsunternehmens.",
+      "facts": ["Fertigstellung 2002", "Höhe 160 Meter", "Architekt Carlos Ott", "Moderne Architektur"]
+    },
+    {
+      "id": "uy-ro-faro-cabo-polonio-landmarks-v2",
+      "description": "Dieser isolierte Leuchtturm markiert einen der abgelegensten Küstenorte Uruguays in einem Naturschutzgebiet.",
+      "facts": ["Erbaut 1881", "Standort Cabo Polonio", "Kein Stromnetz", "Naturschutzgebiet"]
+    },
+    {
+      "id": "uy-ma-castillo-de-piria-landmarks-v2",
+      "description": "Ein prunkvolles Anwesen, das vom Gründer des Badeortes Piriápolis, Francisco Piria, errichtet wurde.",
+      "facts": ["Erbaut 1897", "Europäischer Stil", "Standort Piriápolis", "Kulturdenkmal"]
+    },
+    {
+      "id": "uy-ca-iglesia-cristo-obrero-landmarks-v2",
+      "description": "Ein architektonisch einzigartiges Gotteshaus aus Ziegelsteinen, das von Eladio Dieste entworfen wurde.",
+      "facts": ["Erbaut 1958", "Backstein-Architektur", "UNESCO-Status", "Standort Atlántida"]
+    },
+    {
+      "id": "uy-mo-obelisco-a-los-constituyentes-landmarks-v2",
+      "description": "Das markante Denkmal ehrt die Unterzeichner der ersten Verfassung Uruguays von 1830.",
+      "facts": ["Errichtet 1938", "Höhe 40 Meter", "Material Granit", "Park Bulevar Artigas"]
+    },
+    {
+      "id": "uy-mo-mercado-del-puerto-landmarks-v2",
+      "description": "Diese ehemalige Markthalle ist heute das Zentrum für traditionelles uruguayisches Grillfleisch, Asado.",
+      "facts": ["Eröffnet 1868", "Eiserne Struktur", "Hafenviertel", "Asado-Hotspot"]
+    },
+    {
+      "id": "uy-ma-puente-leonel-viera-landmarks-v2",
+      "description": "Eine architektonisch auffällige Wellenbrücke über den Arroyo Maldonado in der Nähe von Punta del Este.",
+      "facts": ["Erbaut 1965", "Wellenform-Design", "Verbindet Küstenorte", "Stahlbetonbau"]
+    },
+    {
+      "id": "uy-mo-castillo-pittamiglio-landmarks-v2",
+      "description": "Ein mysteriöses, labyrinthartiges Gebäude an der Rambla von Montevideo, erbaut von einem exzentrischen Architekten.",
+      "facts": ["Erbaut 1910", "Alchemistische Symbole", "Standort Montevideo", "Museum"]
+    },
+    {
+      "id": "uy-mo-antel-arena-landmarks-v2",
+      "description": "Ein hochmodernes Mehrzweckstadion in Montevideo für Sportveranstaltungen und Konzerte.",
+      "facts": ["Eröffnet 2018", "Kapazität 15.000", "Multifunktionsarena", "Moderne Technik"]
+    },
+    {
+      "id": "uy-ma-faro-jose-ignacio-landmarks-v2",
+      "description": "Ein malerischer Leuchtturm an der Küste, der das Bild des exklusiven Fischerdorfes José Ignacio prägt.",
+      "facts": ["Erbaut 1877", "Höhe 32 Meter", "Küstensymbol", "Beliebtes Touristenziel"]
+    },
+    {
+      "id": "uy-mo-palacio-taranco-landmarks-v2",
+      "description": "Ein prachtvolles französisches Herrenhaus im Stadtviertel Ciudad Vieja, heute Sitz des Kunstgewerbemuseums.",
+      "facts": ["Erbaut 1910", "Französische Architektur", "Museumsgebäude", "Historisches Zentrum"]
+    },
+    {
+      "id": "uy-mo-palacio-santos-landmarks-v2",
+      "description": "Ein historisches Stadthaus in Montevideo, das heute als Sitz des Außenministeriums dient.",
+      "facts": ["Fertiggestellt 1886", "Neoklassizismus", "Ehem. Präsidentensitz", "Stadtteil Ciudad Vieja"]
+    }
+  ]
+}

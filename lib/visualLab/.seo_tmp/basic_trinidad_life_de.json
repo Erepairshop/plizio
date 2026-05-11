@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-cleaver-woods-life-v2",
+      "description": "Cleaver Woods ist ein naturbelassenes Waldgebiet, das wichtige Einblicke in die indigene Flora von Trinidad bietet. Es ist ein geschützter Lebensraum für viele heimische Arten.",
+      "facts": ["Naturbelassenes Waldgebiet", "Indigene Flora", "Geschützter Lebensraum"]
+    },
+    {
+      "id": "tt-central-range-cocoa-life-v2",
+      "description": "Die Central Range ist berühmt für ihre hochwertigen Kakaoplantagen, die eine lange Tradition haben. Diese Region prägt das agrarische Erbe der Insel maßgeblich.",
+      "facts": ["Central Range", "Kakaoplantagen", "Agrarisches Erbe"]
+    },
+    {
+      "id": "tt-nariva-swamp-life-v2",
+      "description": "Der Nariva-Sumpf ist das größte Feuchtgebiet auf Trinidad und ein einzigartiges Ökosystem. Er bietet Lebensraum für seltene Vögel, Affen und wasserbewohnende Tiere.",
+      "facts": ["Größtes Feuchtgebiet", "Einzigartiges Ökosystem", "Vielfältige Tierwelt"]
+    },
+    {
+      "id": "tt-pigeon-point-life-v2",
+      "description": "Pigeon Point ist ein Naturschutzgebiet auf Tobago, das für seine unberührten Strände bekannt ist. Es ist ein wichtiger Ort für den Erhalt der küstennahen Artenvielfalt.",
+      "facts": ["Naturschutzgebiet", "Unberührte Strände", "Küstenartenvielfalt"]
+    },
+    {
+      "id": "tt-buccoo-reef-life-v2",
+      "description": "Das Buccoo Reef ist ein marines Ökosystem voller bunter Korallen und Fische. Es ist ein essentielles Schutzgebiet für den Erhalt der karibischen Unterwasserfauna.",
+      "facts": ["Marines Ökosystem", "Korallen und Fische", "Karibischer Erhalt"]
+    },
+    {
+      "id": "tt-nylon-pool-life-v2",
+      "description": "Der Nylon Pool ist eine flache, kristallklare Sandbank mitten im Meer. Er bietet ein faszinierendes Habitat für verschiedene marine Organismen.",
+      "facts": ["Kristallklare Sandbank", "Mitten im Meer", "Marines Habitat"]
+    },
+    {
+      "id": "tt-little-tobago-bird-sanctuary-life-v2",
+      "description": "Little Tobago ist ein geschütztes Vogelschutzgebiet nahe der Küste von Tobago. Es dient als wichtiger Brutplatz für seltene Meeresvögel.",
+      "facts": ["Vogelschutzgebiet", "Wichtiger Brutplatz", "Seltene Meeresvögel"]
+    },
+    {
+      "id": "tt-scarborough-botanical-gardens-life-v2",
+      "description": "Die Botanischen Gärten in Scarborough beherbergen eine beeindruckende Vielfalt tropischer Pflanzen. Sie dienen dem Schutz und der Erforschung der lokalen Flora.",
+      "facts": ["Scarborough", "Botanische Vielfalt", "Pflanzenschutz"]
+    },
+    {
+      "id": "tt-siparia-dairy-farms-life-v2",
+      "description": "Die Milchfarmen in Siparia sind ein wichtiger Teil der lokalen Landwirtschaft. Sie stehen für den ländlichen Lebensstil und die landwirtschaftliche Produktion der Insel.",
+      "facts": ["Siparia", "Lokale Landwirtschaft", "Ländlicher Lebensstil"]
+    },
+    {
+      "id": "tt-chacachacare-island-life-v2",
+      "description": "Chacachacare Island ist eine geschichtsträchtige Insel mit einem einzigartigen Ökosystem. Sie bietet Rückzugsorte für seltene Tiere und Pflanzen abseits der Hauptinseln.",
+      "facts": ["Geschichtsträchtige Insel", "Einzigartiges Ökosystem", "Rückzugsort"]
+    },
+    {
+      "id": "tt-saut-deau-island-life-v2",
+      "description": "Saut d'Eau Island ist ein wichtiges marines Schutzgebiet. Es bietet Lebensraum für verschiedene Vögel und marine Arten in einer abgeschiedenen Lage.",
+      "facts": ["Marines Schutzgebiet", "Wichtige Vogelwelt", "Abgeschiedene Lage"]
+    }
+  ]
+}

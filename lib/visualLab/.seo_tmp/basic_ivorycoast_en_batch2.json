@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Ivorycoast",
+  "files": [
+    "lib/visualLab/data/poiExtraIvorycoastReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lagune-grand-lahou-relief-v2",
+      "description": "The Grand-Lahou lagoon relief is a dynamic coastal environment where the Bandama River enters the Atlantic. It is characterized by shifting sandbars and mangrove forests.",
+      "facts": ["Coastal lagoon complex", "Mouth of Bandama River", "Dynamic sandbar system", "Mangrove wetlands"]
+    },
+    {
+      "id": "massif-biankouma-relief-v2",
+      "description": "The Biankouma Massif is a rugged highland area in western Ivory Coast, part of the larger Guinea Highlands. It is known for its steep slopes and traditional Yacouba mountain villages.",
+      "facts": ["Western mountain massif", "Steep granite terrain", "High rainfall zone", "Yacouba cultural heartland"]
+    },
+    {
+      "id": "becken-von-bouake-relief-v2",
+      "description": "The Bouake basin is a broad topographic depression in central Ivory Coast. It serves as a transitional zone between the northern savanna and the southern forest regions.",
+      "facts": ["Central plateau basin", "Transitional ecological zone", "Gently sloping terrain", "Second largest urban center"]
+    },
+    {
+      "id": "kuestenebene-san-pedro-relief-v2",
+      "description": "The San-Pedro coastal plain is a narrow strip of low-lying land in the southwest. It is defined by its rocky headlands, sandy bays, and proximity to the country's second-largest port.",
+      "facts": ["Southwestern coastal zone", "Rocky coastline features", "Major port gateway", "Industrial and maritime hub"]
+    },
+    {
+      "id": "savanne-fere-relief-v2",
+      "description": "The Fere savanna relief consists of open plains in the north-central part of the country. It is dominated by lateritic plateaus and seasonal watercourses known as marigots.",
+      "facts": ["North-central savanna", "Lateritic plateau relief", "Seasonal river channels", "Scattered woodland cover"]
+    },
+    {
+      "id": "lagune-tiagba-relief-v2",
+      "description": "The Tiagba lagoon relief is a scenic section of the Ebrie lagoon system. It is famous for the village of Tiagba, where traditional houses are built on stilts above the water.",
+      "facts": ["Section of Ebrie lagoon", "Famous for stilt villages", "Coastal wetland ecosystem", "Traditional fishing grounds"]
+    },
+    {
+      "id": "plateau-bongouanou-relief-v2",
+      "description": "The Bongouanou plateau is a fertile upland area in south-central Ivory Coast. It is a key agricultural zone characterized by rolling hills and extensive cocoa plantations.",
+      "facts": ["South-central highlands", "Productive cocoa region", "Rolling hill topography", "Lush tropical vegetation"]
+    },
+    {
+      "id": "massif-man-relief-v2",
+      "description": "The Man Massif is the most prominent mountain range in western Ivory Coast, containing several peaks over 1,000 meters. The relief is marked by deep canyons and dramatic waterfalls.",
+      "facts": ["Major western mountain range", "Peaks over 1,000 meters", "Dramatic vertical relief", "Cool mountain microclimate"]
+    },
+    {
+      "id": "wald-von-yapo-relief-v2",
+      "description": "The Yapo forest relief is a protected rainforest area situated on a low plateau near Agboville. It serves as a vital green lung and biodiversity corridor in the south.",
+      "facts": ["Southern forest plateau", "High canopy rainforest", "Located near Agboville", "Critical wildlife habitat"]
+    },
+    {
+      "id": "ebene-von-bondoukou-relief-v2",
+      "description": "The Bondoukou plain is a flat to gently undulating landscape in the east, near the border with Ghana. It is characterized by dry forest and savanna-parkland vegetation.",
+      "facts": ["Eastern border plains", "Transitional dry forest", "Ancient trade route hub", "Gently undulating terrain"]
+    },
+    {
+      "id": "lagune-abidjan-relief-v2",
+      "description": "The Abidjan lagoon relief comprises the central part of the Ebrie Lagoon, which splits the city into northern and southern sectors. It is the defining geographical feature of the capital.",
+      "facts": ["Central urban lagoon", "Deep-water navigation channels", "Divides Abidjan districts", "Industrialized waterfront"]
+    },
+    {
+      "id": "hochland-von-khorogo-relief-v2",
+      "description": "The Korhogo highlands form a series of low-rising plateaus and granite hills in the northern Senufo region. The relief is dotted with iconic inselbergs rising from the plains.",
+      "facts": ["Northern granite highlands", "Prominent inselbergs", "Senufo cultural region", "Arid savanna climate"]
+    },
+    {
+      "id": "flusstal-nzi-relief-v2",
+      "description": "The N'zi river valley is a long, narrow depression that runs through central Ivory Coast. It is known for its fertile soils and seasonal flooding patterns that support agriculture.",
+      "facts": ["Central river depression", "Fertile alluvial plains", "Tributary of the Bandama", "Seasonal flood cycles"]
+    },
+    {
+      "id": "lagune-abidjan-west-relief-v2",
+      "description": "The western Abidjan lagoon relief extends from the city toward the town of Dabou. It is a shallow, calm waterway lined with coconut groves and traditional fishing villages.",
+      "facts": ["Western Ebrie lagoon extension", "Shallow coastal waters", "Coconut-lined shores", "Calm inland navigation"]
+    }
+  ]
+}

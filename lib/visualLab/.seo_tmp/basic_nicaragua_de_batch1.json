@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "boaco-cities-v2",
+      "description": "Boaco, bekannt als die 'Stadt der zwei Stockwerke', liegt in einer hügeligen Region und ist ein Zentrum der Viehzucht.",
+      "facts": ["Stadt der zwei Stockwerke", "Hügelige Region", "Viehzucht"]
+    },
+    {
+      "id": "ocotal-cities-v2",
+      "description": "Ocotal ist die Hauptstadt des Departements Nueva Segovia, bekannt für seine Kaffeeplantagen und die Nähe zur Grenze Honduras.",
+      "facts": ["Hauptstadt Nueva Segovia", "Kaffeeplantagen", "Grenzstadt"]
+    },
+    {
+      "id": "chichigalpa-cities-v2",
+      "description": "Chichigalpa ist eine Stadt in Chinandega, berühmt für die Rumproduktion und den Zuckerrohranbau.",
+      "facts": ["Rumproduktion", "Zuckerrohranbau", "Chinandega"]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "description": "Diriamba in Carazo ist bekannt für sein indigenes Kulturerbe, traditionelle Tänze und die Basílica de San Sebastián.",
+      "facts": ["Indigenes Kulturerbe", "Traditionelle Tänze", "Basílica de San Sebastián"]
+    },
+    {
+      "id": "somotillo-cities-v2",
+      "description": "Somotillo ist eine Grenzstadt im Westen Nicaraguas, ein wichtiger Verkehrsknotenpunkt und Handelsplatz.",
+      "facts": ["Grenzstadt", "Verkehrsknotenpunkt", "Handelsplatz"]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "description": "Sébaco im Matagalpa-Tal ist bekannt als die 'Kornkammer Nicaraguas' wegen seiner fruchtbaren Böden und des Reisanbaus.",
+      "facts": ["Kornkammer Nicaraguas", "Reisanbau", "Matagalpa-Tal"]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "description": "Niquinohomo ist ein historisches Dorf in Masaya, Geburtsort des Nationalhelden Augusto C. Sandino.",
+      "facts": ["Historisches Dorf", "Geburtsort Sandinos", "Masaya"]
+    },
+    {
+      "id": "la-concepcion-masaya-cities-v2",
+      "description": "La Concepción in Masaya ist eine lebendige Stadt, bekannt für ihren Wochenmarkt und traditionelle Feste.",
+      "facts": ["Wochenmarkt", "Traditionelle Feste", "Masaya"]
+    },
+    {
+      "id": "tola-cities-v2",
+      "description": "Tola in Rivas ist eine Küstengemeinde, beliebt bei Surfern und bekannt für ihre schönen Strände und Ökotourismus.",
+      "facts": ["Küstengemeinde", "Surfer-Paradies", "Ökotourismus"]
+    },
+    {
+      "id": "puerto-morazan-cities-v2",
+      "description": "Puerto Morazán ist ein Hafen am Golf von Fonseca, wichtig für den Handel und Fischfang im Nordwesten Nicaraguas.",
+      "facts": ["Hafenstadt", "Golf von Fonseca", "Fischfang"]
+    },
+    {
+      "id": "el-jicaral-cities-v2",
+      "description": "El Jicaral in León ist eine ländliche Gemeinde, bekannt für ihre Viehzucht und Baumwollproduktion.",
+      "facts": ["Ländliche Gemeinde", "Viehzucht", "Baumwollproduktion"]
+    },
+    {
+      "id": "mateare-cities-v2",
+      "description": "Mateare liegt am Managuasee und ist bekannt für seine Thermalquellen und den Blick auf den Momotombo-Vulkan.",
+      "facts": ["Managuasee", "Thermalquellen", "Momotombo-Vulkan"]
+    },
+    {
+      "id": "waslala-cities-v2",
+      "description": "Waslala in der Autonomen Region Nordkaribik ist ein Zentrum der Kaffeeproduktion und des Ökotourismus.",
+      "facts": ["Kaffeeproduktion", "Ökotourismus", "Nordkaribik"]
+    },
+    {
+      "id": "san-isidro-matagalpa-cities-v2",
+      "description": "San Isidro in Matagalpa ist eine landwirtschaftliche Gemeinde, bekannt für ihren Kaffeeanbau und die natürliche Schönheit.",
+      "facts": ["Landwirtschaftliche Gemeinde", "Kaffeeanbau", "Natürliche Schönheit"]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "description": "Tecolostote in Boaco ist bekannt für seine traditionellen Feste und die Landwirtschaft, die sich auf Bohnen und Mais konzentriert.",
+      "facts": ["Traditionelle Feste", "Landwirtschaft", "Bohnen und Mais"]
+    }
+  ]
+}

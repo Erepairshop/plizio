@@ -1,0 +1,63 @@
+
+{
+  "lang": "multi4",
+  "country": "kenya",
+  "files": ["lib/visualLab/data/poiExtraKenyaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "nairobi-cities-v2",
+      "factsAdvanced": [
+        "Gegründet 1899 als Versorgungsdepot der Uganda-Eisenbahn.",
+        "Ersetzte 1907 Machakos als Hauptstadt des britischen Ostafrika-Protektorats.",
+        "Liegt auf einer Höhe von ca. 1.795 Metern.",
+        "Der Nairobi-Nationalpark wurde 1946 gegründet.",
+        "Die Bevölkerung der Metropolregion beträgt etwa 5,7 Millionen Menschen.",
+        "Beherbergt seit 1972 den Hauptsitz des UN-Umweltprogramms (UNEP)."
+      ]
+    },
+    {
+      "id": "mombasa-cities-v2",
+      "factsAdvanced": [
+        "Die älteste Stadt Kenias mit einer über 900-jährigen Geschichte.",
+        "War bis 1907 die Hauptstadt von Britisch-Ostafrika.",
+        "Die Bevölkerung lag 2019 bei etwa 1,2 Millionen Menschen.",
+        "Fort Jesus wurde zwischen 1593 und 1596 erbaut.",
+        "Die Gebäude im CBD sind als Symbol für den Ozean blau und weiß gestrichen.",
+        "Ein wichtiger Hafen für ganz Ostafrika."
+      ]
+    },
+    {
+      "id": "thika-cities-v2",
+      "factsAdvanced": [
+        "1924 von der Kolonialregierung als formelle Gemeinde anerkannt.",
+        "Liegt auf einer Höhe von 1.631 Metern über dem Meeresspiegel.",
+        "Heimat der riesigen Ananasverarbeitungsanlage von Del Monte Kenya.",
+        "Die achtspurige Thika Superhighway nach Nairobi wurde 2012 fertiggestellt.",
+        "Die Mount Kenya University gründete 2008 ihren Hauptcampus in Thika.",
+        "Bevölkerung von etwa 279.429 laut der Volkszählung 2019."
+      ]
+    },
+    {
+      "id": "naivasha-cities-v2",
+      "factsAdvanced": [
+        "1899 als Bahnhof der Uganda-Eisenbahn gegründet.",
+        "Liegt auf einer Höhe von 1.900 Metern im Rift Valley.",
+        "Epizentrum der kenianischen Blumenexportindustrie, spezialisiert auf Rosen.",
+        "Das Geothermiekraftwerk Olkaria I wurde 1981 südlich der Stadt in Betrieb genommen.",
+        "Tor zum Hell's-Gate-Nationalpark, der 1984 gegründet wurde.",
+        "Der Name leitet sich vom Massai-Wort ɛnaɨpɔ́sha ab, was „das, was wogt“ bedeutet."
+      ]
+    },
+    {
+      "id": "ruiru-cities-v2",
+      "factsAdvanced": [
+        "Historisch bekannt für ausgedehnten Sisal- und Kaffeeanbau.",
+        "Liegt an der Thika Superhighway, nur 25 Kilometer von Nairobi entfernt.",
+        "Heimat der riesigen Milchverarbeitungsanlage von Brookside Dairy.",
+        "Beherbergt den Hauptcampus der Kenyatta University.",
+        "Liegt auf einer Höhe von rund 1.565 Metern.",
+        "Verzeichnete bei der Volkszählung 2019 eine massive Bevölkerung von über 371.000."
+      ]
+    }
+  ]
+}

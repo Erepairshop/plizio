@@ -1,0 +1,68 @@
+{
+  "lang": "en",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tessaoua-agri-life-v2",
+      "description": "Tessaoua is an important market town where agriculture forms the backbone of the local economy, particularly through cereal and onion cultivation.",
+      "facts": ["Market town center", "Cereal production", "Onion cultivation", "Economic hub"]
+    },
+    {
+      "id": "konni-kids-life-v2",
+      "description": "Birni N'Konni provides essential social and educational services for the local youth population, acting as a key connector between rural and urban life.",
+      "facts": ["Social services hub", "Youth education", "Rural-urban connector", "Key town location"]
+    },
+    {
+      "id": "madaoua-agri-life-v2",
+      "description": "Madaoua is situated in an agricultural zone known for traditional mixed farming practices and livestock integration.",
+      "facts": ["Mixed farming zone", "Livestock integration", "Agricultural hub", "Traditional practices"]
+    },
+    {
+      "id": "tera-bird-life-v2",
+      "description": "The areas near Téra, near the border, host diverse bird habitats within the Sahelian landscape, serving as a transit point for avian migration.",
+      "facts": ["Sahelian bird habitat", "Avian migration route", "Border region zone", "Biodiversity area"]
+    },
+    {
+      "id": "kollo-mango-life-v2",
+      "description": "Kollo benefits from the fertile Niger River valley, allowing for productive fruit farming, including varieties such as mangoes.",
+      "facts": ["Niger River valley", "Fruit farming center", "Mango production", "Fertile soil area"]
+    },
+    {
+      "id": "say-river-life-v2",
+      "description": "The town of Say, located on the Niger River, is historically linked to water-based activities and riverside agriculture.",
+      "facts": ["Niger River location", "Riverside agriculture", "Historical town", "Water-based economy"]
+    },
+    {
+      "id": "nga-fishing-life-v2",
+      "description": "Fishing along the river systems in the N'Gourti/Gouré zones represents a traditional livelihood for communities utilizing seasonal water bodies.",
+      "facts": ["Traditional fishing", "Seasonal water zones", "Livelihood activity", "Riverside communities"]
+    },
+    {
+      "id": "birni-kids-life-v2",
+      "description": "Birni provides a range of community support and children's programs, facilitating social cohesion in this regional administrative center.",
+      "facts": ["Community programs", "Children's activities", "Social cohesion", "Administrative hub"]
+    },
+    {
+      "id": "magaria-agri-life-v2",
+      "description": "Magaria is well-known for its contribution to local agricultural output, specializing in drought-resistant crops suitable for the regional climate.",
+      "facts": ["Agricultural output", "Drought-resistant crops", "Regional farming", "Local specialty"]
+    },
+    {
+      "id": "mayahi-agri-life-v2",
+      "description": "Agriculture in the Mayahi area is fundamental, characterized by small-scale farming that supports local markets with diverse harvest products.",
+      "facts": ["Small-scale farming", "Local market support", "Diverse harvests", "Agricultural economy"]
+    },
+    {
+      "id": "gaya-agri-life-v2",
+      "description": "Gaya is a hub for agricultural trade, taking advantage of its favorable climate to support intensive farming along the river.",
+      "facts": ["Agricultural trade hub", "Intensive farming", "Riverine economy", "Favorable climate zone"]
+    }
+  ]
+}

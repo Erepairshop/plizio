@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Isla Holbox este o insulă idilică unde mașinile sunt interzise și natura este conservată cu grijă.",
+      "facts": ["Yucatán, Mexic", "Insulă fără mașini", "Turism ecologic", "Plaje neatinse"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Isla Mujeres este o insulă celebră pentru apele sale cristaline și atmosfera relaxată, situată lângă Cancún.",
+      "facts": ["Lângă Cancún", "Ape cristaline", "Snorkeling excelent", "Atmosferă relaxată"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "Janitzio este o insulă în lacul Pátzcuaro, renumită pentru cultura tradițională a pescarilor săi.",
+      "facts": ["Lacul Pátzcuaro", "Cultură tradițională", "Pescari cu plase", "Zona Michoacán"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "Isla Espíritu Santo este un paradis natural în Marea Cortez, cu peisaje dramatice și biodiversitate marină.",
+      "facts": ["Marea Cortez", "Paradis natural", "Biodiversitate marină", "Sit UNESCO"]
+    },
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Isla Tiburón este cea mai mare insulă a Mexicului, gestionată de comunitatea indigenă Seri.",
+      "facts": ["Cea mai mare insulă", "Gestionată de Seri", "Golf California", "Natură protejată"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "Insulele Marietas sunt un arhipelag protejat, celebru pentru 'Plaja Ascunsă' situată într-o crater vulcanic.",
+      "facts": ["Pacificul mexican", "Plaja Ascunsă", "Protejate ecologic", "Biodiversitate marină"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Contoy este o insulă nelocuită și sanctuar pentru mii de păsări marine, situată în zona Caraibilor.",
+      "facts": ["Sanctuar păsări", "Insulă nelocuită", "Caraibe, Mexic", "Turism limitat"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "Câmpurile de agave din Tequila sunt un peisaj cultural unic unde se cultivă planta pentru faimoasa băutură.",
+      "facts": ["Statul Jalisco", "Cultură de agave", "Peisaj UNESCO", "Tradiție seculară"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "Valle de Guadalupe este principala regiune viticolă a Mexicului, situată în peninsula Baja California.",
+      "facts": ["Regiune viticolă", "Baja California", "Climat mediteranean", "Podgorii renumite"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "Veracruz este o regiune istorică pentru producția de cafea de înaltă calitate, datorită climei sale tropicale.",
+      "facts": ["Statul Veracruz", "Producție cafea", "Regiune tropicală", "Calitate înaltă"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lang": "ro",
+  "country": "Pakistan",
+  "files": [
+    "lib/visualLab/data/poiExtraPakistanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chitral-gol-national-park-nature-v2",
+      "description": "Parcul Național Chitral Gol este situat în districtul Chitral din provincia Khyber Pakhtunkhwa și este renumit pentru biodiversitatea sa montană. Rezervația găzduiește populații rare de capre markhor și oferă peisaje alpine spectaculoase în zona Munților Hindukuș.",
+      "facts": [
+        "Situat în Munții Hindukuș",
+        "Fondat oficial în 1984",
+        "Altitudine între 1500-3500 metri",
+        "Habitat pentru capra markhor"
+      ]
+    }
+  ]
+}

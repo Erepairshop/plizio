@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "giad-industrial-city-economic-v2",
+      "description": "A comprehensive industrial hub housing various manufacturing plants and engineering workshops.",
+      "facts": ["Industrial city", "Manufacturing hub", "Engineering workshops", "Economic development"]
+    },
+    {
+      "id": "hassai-gold-mine-economic-v2",
+      "description": "A significant gold mining operation contributing to Sudan's mineral exports.",
+      "facts": ["Gold mine", "Mineral export", "Mining industry", "Economic site"]
+    },
+    {
+      "id": "jebel-amir-gold-mines-economic-v2",
+      "description": "A well-known gold mining area in Darfur, important for local and national mineral output.",
+      "facts": ["Gold mining area", "Darfur region", "Mineral resource", "Mining activity"]
+    },
+    {
+      "id": "block-6-balila-oil-field-economic-v2",
+      "description": "A critical oil production field operating in the Balila area.",
+      "facts": ["Oil field", "Balila site", "Energy production", "Extraction facility"]
+    },
+    {
+      "id": "galat-sufar-south-gold-economic-v2",
+      "description": "A gold mining zone in the north, important for mineral extraction activities.",
+      "facts": ["Gold mining zone", "Mineral site", "Extraction operation", "Northern Sudan"]
+    },
+    {
+      "id": "khartoum-north-industrial-economic-v2",
+      "description": "A major industrial zone in the capital area supporting various manufacturing businesses.",
+      "facts": ["Industrial zone", "Khartoum region", "Manufacturing businesses", "Urban economic site"]
+    },
+    {
+      "id": "al-bageer-industrial-area-economic-v2",
+      "description": "A strategic industrial estate providing space for businesses near the capital.",
+      "facts": ["Industrial estate", "Business space", "Regional logistics", "Economic hub"]
+    },
+    {
+      "id": "wad-medani-textile-factory-economic-v2",
+      "description": "A historic textile manufacturing facility in the Wad Medani region.",
+      "facts": ["Textile factory", "Wad Medani site", "Manufacturing industry", "Regional employer"]
+    },
+    {
+      "id": "gedarif-sesame-processing-economic-v2",
+      "description": "A key facility for processing sesame seeds, a major agricultural export in the Gedarif region.",
+      "facts": ["Sesame processing", "Gedarif site", "Agricultural export", "Regional crop hub"]
+    },
+    {
+      "id": "khor-omar-industrial-economic-v2",
+      "description": "An industrial development area focused on manufacturing and local processing.",
+      "facts": ["Industrial site", "Manufacturing base", "Local processing", "Economic area"]
+    }
+  ]
+}

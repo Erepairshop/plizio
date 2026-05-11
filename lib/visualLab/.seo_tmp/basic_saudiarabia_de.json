@@ -1,0 +1,30 @@
+{
+  "lang": "de",
+  "country": "Saudiarabia",
+  "files": [
+    "lib/visualLab/data/poiExtraSaudiarabiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSaudiarabiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "riyadh-cities-v2",
+      "description": "Riad ist die Hauptstadt Saudi-Arabiens und das politische sowie administrative Zentrum des Landes. Die Metropole hat sich von einer Wüstensiedlung zu einer modernen Wirtschaftsmetropole mit zahlreichen Wolkenkratzern entwickelt.",
+      "facts": ["Hauptstadt Saudi-Arabiens", "Wirtschaftliches Zentrum", "Moderne Megacity", "Zentral gelegen"]
+    },
+    {
+      "id": "sakakah-cities-v2",
+      "description": "Sakakah liegt im Nordwesten Saudi-Arabiens in der Region al-Dschauf und ist für seine antiken archäologischen Stätten bekannt. Die Stadt ist ein wichtiger landwirtschaftlicher Standort in der Region.",
+      "facts": ["Hauptstadt der Provinz al-Dschauf", "Region im Nordwesten", "Landwirtschaftlich geprägt", "Antike Geschichte"]
+    },
+    {
+      "id": "unayzah-cities-v2",
+      "description": "Unaizah befindet sich in der Provinz al-Qasim und ist für seine traditionelle Architektur und grüne Oasen inmitten der Wüste bekannt. Die Stadt blickt auf eine lange Geschichte als Handelszentrum zurück.",
+      "facts": ["Provinz al-Qasim", "Historisches Handelszentrum", "Wichtige Oasenstadt", "Kulturelles Erbe"]
+    },
+    {
+      "id": "jabal-al-nour-landmarks-v2",
+      "description": "Der Dschabal an-Nur ist ein bedeutender Berg bei Mekka, auf dem sich die Hira-Höhle befindet. Er hat eine hohe symbolische Bedeutung in der islamischen Geschichte.",
+      "facts": ["Berg bei Mekka", "Ort der Hira-Höhle", "Historisch bedeutsam", "Wichtiger Pilgerort"]
+    }
+  ]
+}

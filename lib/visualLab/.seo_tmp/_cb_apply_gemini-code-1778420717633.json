@@ -1,0 +1,87 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "los-angeles-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Los Ángeles ist die Hauptstadt der Provinz Bío Bío in der Region Biobío im südlichen Zentralchile. Geografisch liegt die Stadt in den extrem flachen, hochgradig fruchtbaren Weiten des chilenischen Central Valley, direkt positioniert zwischen den Flüssen Laja und Biobío. Wirtschaftlich fungiert Los Ángeles als das absolute operative und logistische Epizentrum der chilenischen Forst- und Holzindustrie. Die umliegenden ländlichen Gebiete werden komplett von massiven kommerziellen Kiefern- und Eukalyptusplantagen dominiert. Die Stadt beherbergt enorme Zellstoff- und Papierfabriken sowie hochaktive Holzverarbeitungsanlagen, die den Großteil der formellen lokalen Arbeitsplätze stellen und immense Exporteinnahmen generieren. Historisch gesehen wurde die Stadt 1739 als strategisches Militärfort während des langwierigen Arauco-Krieges gegen die indigenen Mapuche gegründet. Heute ist die urbane Infrastruktur stark auf den industriellen Güterverkehr zugeschnitten, was zu extremen täglichen Verkehrsstaus durch massive Holztransporter führt. Die Stadt erlebt ein sehr ausgeprägtes mediterranes Klima mit langen, trockenen Sommern, das neben der Forstwirtschaft auch eine aggressive kommerzielle Landwirtschaft massiv unterstützt.",
+        "hu": "Los Ángeles a Bío Bío tartomány fővárosa a Biobío régióban, Közép-Dél-Chilében. Földrajzilag a város a chilei Central Valley rendkívül lapos, magasan termékeny kiterjedésein helyezkedik el, közvetlenül a Laja és a Biobío folyók között. Gazdasági szempontból Los Ángeles a chilei fa- és fafeldolgozó ipar abszolút operatív és logisztikai epicentrumaként működik. A környező vidéki területeket teljesen uralják a masszív kereskedelmi fenyő- és eukaliptuszültetvények. A város hatalmas cellulóz- és papírgyáraknak, valamint rendkívül aktív fafeldolgozó üzemeknek ad otthont, amelyek a formális helyi munkahelyek túlnyomó többségét biztosítják, és óriási exportbevételeket generálnak. Történelmileg a várost 1739-ben alapították stratégiai katonai erődként az őslakos mapucsék ellen vívott elhúzódó araucói háború során. Ma a városi infrastruktúra erősen az ipari teherszállításra van szabva, ami extrém napi forgalmi dugókhoz vezet a hatalmas rönkszállító teherautók miatt. A város nagyon kifejezett mediterrán éghajlatot él át, hosszú, száraz nyarakkal, ami az erdészet mellett az agresszív kereskedelmi mezőgazdaságot is masszívan támogatja.",
+        "ro": "Los Ángeles este capitala provinciei Bío Bío din regiunea Biobío din centrul-sudul statului Chile. Geografic, orașul este situat în întinderile extrem de plate și foarte fertile ale Văii Centrale chiliene, direct între râurile Laja și Biobío. Din punct de vedere economic, Los Ángeles funcționează ca epicentrul operațional și logistic absolut al industriei forestiere și a lemnului din Chile. Zonele rurale înconjurătoare sunt complet dominate de plantații comerciale masive de pin și eucalipt. Orașul găzduiește fabrici enorme de celuloză și hârtie, precum și instalații de prelucrare a lemnului extrem de active, care asigură marea majoritate a locurilor de muncă formale locale și generează venituri imense din export. Istoric, orașul a fost fondat în 1739 ca fort militar strategic în timpul războiului prelungit din Arauco împotriva indigenilor Mapuche. Astăzi, infrastructura urbană este adaptată puternic la transportul industrial de marfă, ceea ce duce la blocaje zilnice extreme de trafic din cauza camioanelor masive de transport de bușteni. Clima mediteraneană susține masiv atât silvicultura, cât și agricultura.",
+        "en": "Los Ángeles is the capital of the Bío Bío Province in the Biobío Region of central-southern Chile. Geographically, the city is situated in the extremely flat, highly fertile expanses of the central valley, located directly between the Laja and Biobío rivers. Economically, Los Ángeles is the absolute operational and logistical epicenter of the Chilean forestry and timber industry. The surrounding rural areas are completely dominated by massive commercial pine and eucalyptus plantations. The city securely hosts enormous pulp and paper mills, as well as highly active timber processing plants, which actively provide the vast majority of local formal employment and generate immense export revenue. Historically, the city was explicitly founded in 1739 as a strategic military fort during the protracted Arauco War against the indigenous Mapuche. Today, the urban infrastructure is heavily tailored to directly support industrial freight transport, resulting in extreme daily traffic congestion involving massive logging trucks. The city experiences a highly distinct Mediterranean climate with long, dry summers, aggressively supporting commercial agriculture alongside heavy forestry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Los Ángeles liegt absolut zentral im flachen chilenischen Central Valley.",
+          "Die Metropole dient als das logistische Herz des nationalen Forstsektors.",
+          "Gigantische Papier- und Zellstofffabriken treiben die formelle Wirtschaft an.",
+          "Das flache Land unterstützt den großflächigen kommerziellen Agraranbau massiv.",
+          "Extreme Temperaturschwankungen und Verkehrsstaus prägen den Stadtalltag."
+        ],
+        "hu": [
+          "Los Ángeles abszolút központian fekszik a lapos chilei Central Valley-ben.",
+          "A metropolisz a nemzeti erdészeti szektor logisztikai szíveként szolgál.",
+          "Gigantikus papír- és cellulózgyárak hajtják a formális városi gazdaságot.",
+          "A teljesen lapos vidék masszívan támogatja a nagyüzemi kereskedelmi mezőgazdaságot.",
+          "Az extrém hőmérséklet-ingadozások és a dugók teljesen uralják a mindennapokat."
+        ],
+        "ro": [
+          "Los Ángeles este situat absolut central în Valea Centrală chiliană plată.",
+          "Metropola servește drept inima logistică absolută a sectorului forestier național.",
+          "Fabricile gigantice de hârtie și celuloză stimulează agresiv economia formală.",
+          "Terenul foarte plat susține masiv agricultura comercială la scară largă.",
+          "Fluctuațiile extreme de temperatură și blocajele de trafic domină viața urbană."
+        ],
+        "en": [
+          "Los Ángeles is located absolutely centrally within the flat Chilean Central Valley.",
+          "The metropolis serves as the absolute logistical heart of the national forestry sector.",
+          "Gigantic paper and pulp mills aggressively drive the local formal economy.",
+          "The highly flat terrain massively supports large-scale commercial agriculture.",
+          "Extreme daily temperature fluctuations and severe traffic congestion define urban life."
+        ]
+      }
+    },
+    {
+      "id": "san-antonio-cities-v2",
+      "descriptionAdvanced": {
+        "de": "San Antonio ist eine große Küstenstadt und der absolut größte Seehafen für Fracht in Chile, geografisch in der Region Valparaíso gelegen. Die Stadt ist auf einem extrem rauen Küstenstreifen erbaut, der direkt dem Pazifischen Ozean zugewandt ist und von der Mündung des Maipo-Flusses begrenzt wird. Wirtschaftlich wird San Antonio strikt und vollständig von seinem massiven maritimen Logistiksektor dominiert. Die hochmechanisierten Hafenanlagen verarbeiten enorme Volumen an Containerfracht; sie exportieren chilenisches Kupfer, Wein und kommerzielle Agrarprodukte und empfangen gleichzeitig die große Mehrheit der importierten Industriegüter des Landes. Historisch gesehen wurde der Hafen im 20. Jahrhundert massiv ausgebaut, um den überlasteten benachbarten Hafen von Valparaíso zu entlasten, und übertraf diesen schließlich im gesamten Frachtvolumen. Das städtische Umfeld ist stark utilitaristisch und zutiefst von der Schwerindustrie geprägt. Der massive tägliche Zustrom von Schwerlastwagen verursacht eine extreme infrastrukturelle Belastung und ständige Verkehrsstaus. Darüber hinaus leidet die lokale Bevölkerung stark unter extremer Lärm- und Luftverschmutzung, die direkt durch den unerbittlichen 24-Stunden-Hafenbetrieb erzeugt wird.",
+        "hu": "San Antonio egy nagy tengerparti város és Chile abszolút legnagyobb teherkikötője, amely földrajzilag a Valparaíso régióban található. A várost egy rendkívül zord tengerparti sávra építették, amely közvetlenül a Csendes-óceánra néz, és a Maipo-folyó torkolata határolja. Gazdasági szempontból San Antoniót szigorúan és teljes mértékben a masszív tengeri logisztikai szektora uralja. A magasan gépesített kikötői létesítmények óriási mennyiségű konténeres rakományt dolgoznak fel; masszívan exportálják a chilei rezet, bort és kereskedelmi mezőgazdasági termékeket, miközben az ország importált ipari javainak nagy részét is itt fogadják. Történelmileg a kikötőt a 20. században nagymértékben kibővítették a túlterhelt szomszédos valparaísói kikötő tehermentesítése érdekében, majd végül a teljes áruforgalomban meg is haladta azt. A városi környezet rendkívül utilitariánus, és mélyen formálja a nehézipar. A nehéz teherautók hatalmas napi beáramlása extrém infrastrukturális terhelést és állandó forgalmi dugókat okoz. Továbbá a helyi lakosság súlyosan szenved a könyörtelen, 24 órás ipari kikötői műveletek által közvetlenül generált extrém zaj- és légszennyezéstől.",
+        "ro": "San Antonio este un oraș de coastă major și absolut cel mai mare port maritim de marfă din Chile, situat geografic în regiunea Valparaíso. Orașul este construit pe o fâșie de coastă extrem de accidentată, orientată direct spre Oceanul Pacific, mărginită de gura râului Maipo. Din punct de vedere economic, San Antonio este strict și în întregime dominat de sectorul său masiv de logistică maritimă. Facilitățile portuare foarte mecanizate procesează volume enorme de mărfuri containerizate; exportă masiv cupru chilian, vin și produse agricole comerciale, primind în același timp marea majoritate a bunurilor industriale importate ale țării. Istoric, portul a fost extins puternic în secolul al XX-lea pentru a elibera portul vecin congestionat Valparaíso, depășindu-l în cele din urmă în volumul total de marfă. Mediul urban este extrem de utilitar și profund modelat de industria grea. Afluxul zilnic masiv de camioane de transport greu provoacă o presiune extremă asupra infrastructurii și blocaje constante. Populația locală suferă masiv din cauza poluării severe.",
+        "en": "San Antonio is a major coastal city and the absolute largest freight seaport in Chile, geographically situated in the Valparaíso Region. The city is built on a highly rugged coastal strip directly facing the Pacific Ocean, firmly bordered by the mouth of the Maipo River. Economically, San Antonio is strictly and entirely dominated by its massive maritime logistics sector. The highly mechanized port facilities seamlessly process enormous volumes of containerized cargo, heavily exporting Chilean copper, wine, and commercial agricultural products, while receiving the vast majority of the country's imported industrial goods. Historically, the port was heavily expanded in the 20th century to actively relieve the congested neighboring port of Valparaíso, eventually completely surpassing it in total freight volume. The urban environment is highly utilitarian and deeply shaped by heavy industry. The massive daily influx of heavy transport trucks aggressively causes severe infrastructural strain and constant traffic gridlock. Furthermore, the local population heavily suffers from intense noise and toxic air pollution directly generated by the relentless, 24-hour industrial port operations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "San Antonio agiert als der absolut größte Frachthafen des gesamten Landes.",
+          "Die lokale Ökonomie stützt sich strikt und exklusiv auf maritime Logistik.",
+          "Massive Containerterminals dominieren die zerrissene Küstenlinie komplett.",
+          "Industrielle Hafenaktivitäten verursachen lokal extrem schwere Verschmutzungen.",
+          "Der Hafen verbindet die nationalen Exporte absolut vital mit globalen Märkten."
+        ],
+        "hu": [
+          "San Antonio az egész ország abszolút legnagyobb és legfontosabb teherkikötője.",
+          "A helyi gazdaság szigorúan és kizárólag a masszív tengeri logisztikára épül.",
+          "A hatalmas konténerterminálok teljesen uralják a tagolt és zord partvonalat.",
+          "Az ipari kikötői tevékenység extrém súlyos helyi környezetszennyezést okoz.",
+          "A kikötő abszolút létfontosságú módon köti össze a nemzeti exportot a globális piaccal."
+        ],
+        "ro": [
+          "San Antonio funcționează ca portul de marfă absolut cel mai mare din toată țara.",
+          "Economia locală se bazează strict și exclusiv pe logistica maritimă masivă.",
+          "Terminalele masive de containere domină complet linia de coastă foarte accidentată.",
+          "Activitățile portuare industriale cauzează local o poluare extrem de severă.",
+          "Portul conectează vital exporturile naționale masive cu piețele globale asiatice."
+        ],
+        "en": [
+          "San Antonio acts as the absolutely largest freight seaport in the entire country.",
+          "The local formal economy strictly and exclusively relies on maritime logistics.",
+          "Massive container terminals completely dominate the highly rugged coastline.",
+          "Industrial port activities actively cause extremely severe local toxic pollution.",
+          "The port vitally and heavily connects national exports to distant global markets."
+        ]
+      }
+    }
+  ]
+}

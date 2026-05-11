@@ -19,7 +19,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "A Ras Dashen Etiópia legmagasabb csúcsa, amely a Simien-hegység részét képezi. A 4550 méteres magasságával a csúcs nemcsak Etiópia, hanem az egész Etióp-magasföld legkiemelkedőbb pontja. A terület zord éghajlata és meredek lejtői miatt kihívást jelent a túrázók számára, ugyanakkor páratlan kilátást nyújt a környező völgyekre és fennsíkokra. Földrajz K7 — hegycsúcsok és magaslatok."
     },
     factsAdvanced: {
-      hu: ["Etiópia legmagasabb csúcsa", "Magasság: 4550 m", "A Simien-hegység része", "Az Etióp-magasföld legmagasabb pontja", "Zord magashegyi klíma", "Kiemelt túrázási célpont"]
+      hu: ["Etiópia legmagasabb csúcsa", "Az Etióp-magasföld legmagasabb pontja", "Zord magashegyi klíma", "Kiemelt túrázási célpont"]
     },
     
   },
@@ -48,7 +48,7 @@ export const poiExtraEthiopiaReliefV2: POI[] = [
       hu: "A Tulu Dimtu a Bale-hegység legmagasabb pontja, amely a második legmagasabb csúcs Etiópiában. A 4377 méteres csúcs a Bale-hegység Nemzeti Parkban helyezkedik el, amely különleges élőhelyeket, többek között afro-alpesi moorlandokat és erdőket rejt. A hegység geológiai szerkezete változatos, a vulkanikus eredetű csúcsoktól a mély völgyekig. Földrajz K7 — vulkanikus tájak és csúcsok."
     },
     factsAdvanced: {
-      hu: ["A Bale-hegység legmagasabb pontja", "Magasság: 4377 m", "Etiópia 2. legmagasabb csúcsa", "Bale-hegység Nemzeti Park", "Afro-alpesi élőhelyek", "Vulkanikus eredetű geológia"]
+      hu: ["A Bale-hegység legmagasabb pontja", "Etiópia 2. legmagasabb csúcsa", "Bale-hegység Nemzeti Park", "Afro-alpesi élőhelyek", "Vulkanikus eredetű geológia"]
     },
     
   },

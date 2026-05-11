@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaoual-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Gaoual ist das administrative Zentrum der gleichnamigen Präfektur in der Region Boké im Nordwesten Guineas. Geografisch markiert die Stadt eine wichtige Übergangszone zwischen den Ausläufern des Fouta-Djallon-Hochlandes und den tiefer gelegenen Küstenebenen. Das Klima ist hier deutlich heißer als im Gebirge, was die Landschaft in eine weitläufige Baumsavanne verwandelt. Historisch gesehen ist Gaoual ein Schmelztiegel verschiedener ethnischer Gruppen, wobei die Peul (Fula) und Landuma die Region maßgeblich prägen. Die Wirtschaft der Stadt und ihres Umlandes ist fast ausschließlich auf die extensive Rinderzucht und den Wanderfeldbau ausgerichtet. In den fruchtbaren Tälern werden Hirse, Mais und Erdnüsse für den Eigenbedarf und den regionalen Handel angebaut. Trotz der relativen Abgeschiedenheit spielt Gaoual eine strategische Rolle im grenzüberschreitenden Handel mit den Nachbarstaaten Guinea-Bissau und Senegal. Die Infrastruktur ist rudimentär, wird jedoch durch die Anbindung an die Regionalstraßen, die ins Zentrum des Landes führen, allmählich verbessert. Die Region ist zudem bekannt für ihre archäologischen Spuren und die traditionelle Handwerkskunst der lokalen Gemeinschaften.",
+        "hu": "Gaoual városa Guinea északnyugati részén, a Boké régióban található, és az azonos nevű prefektúra székhelyeként szolgál. Földrajzi elhelyezkedése különleges, mivel egyfajta átmeneti zónát képez a Fouta Djallon-hegység hűvösebb fennsíkjai és az atlanti partvidék forró síkságai között. A tájat itt már nem a sűrű erdők, hanem a kiterjedt fás szavannák dominálják. Gazdasági szempontból Gaoual a térség egyik legfontosabb állattenyésztési központja, ahol a fula pásztorok hatalmas marhacsordái határozzák meg a mindennapi élet ritmusát. A földművelés terén a köles, a kukorica és a földimogyoró termesztése a mérvadó, amelyeket főként a helyi piacokon értékesítenek. A város stratégiai jelentőségét növeli a Guinea-Bissau és Szenegál felé irányuló határmenti kereskedelemben betöltött szerepe. Noha az infrastruktúra fejlesztésre szorul, Gaoual fontos pihenőhely az utazók számára, akik a távoli északnyugati vidékeket szelik át. A kulturális életet a fula és a landuma népcsoportok hagyományai, népdalai és kézműves technikái teszik gazdaggá, amelyek a mai napig érintetlenül fennmaradtak ebben az elszigetelt régióban.",
+        "ro": "Gaoual este centrul administrativ al prefecturii cu același nume, situat în regiunea Boké din nord-vestul Guineei. Orașul ocupă o poziție geografică strategică, fiind situat într-o zonă de tranziție între contraforturile masivului Fouta Djallon și câmpiile litorale mai joase. Peisajul este caracterizat de o savană arborescentă vastă, iar clima este tropicală, cu temperaturi ridicate în cea mai mare parte a anului. Din punct de vedere economic, Gaoual este un centru vital pentru creșterea extensivă a bovinelor, o activitate tradițională a populației Fula (Peul), care reprezintă majoritatea în această zonă. Pe lângă zootehnie, agricultura de subzistență joacă un rol crucial, cultivându-se în special mei, porumb și arahide. Orașul servește drept punct de legătură comercială pentru satele izolate din împrejurimi și facilitează schimburile de mărfuri spre frontierele cu Guinea-Bissau și Senegal. Deși este o regiune cu resurse naturale vaste, infrastructura rămâne limitată, ceea ce a păstrat caracterul autentic și tradițional al așezării. Cultura locală este o fuziune de tradiții pastorale și meșteșuguri ancestrale, reflectând diversitatea etnică a regiunii.",
+        "en": "Gaoual is the administrative capital of the Gaoual Prefecture, located in the Boké Region of northwestern Guinea. Geographically, the town marks a significant transition zone between the rugged foothills of the Fouta Djallon highlands and the lower coastal plains. The landscape is dominated by vast wooded savannas, and the climate is notably hotter than in the nearby mountains. Economically, Gaoual is one of the region's most important livestock centers, where the pastoral traditions of the Fula people define the local way of life. Large herds of cattle are a common sight, and livestock trading is a primary economic driver. In addition to ranching, subsistence farming focuses on crops like millet, maize, and peanuts. The town also plays a strategic role in cross-border trade due to its relative proximity to the frontiers of Guinea-Bissau and Senegal. While infrastructure development has been slow, Gaoual remains a key regional hub for travelers moving between the coast and the interior. The cultural fabric of the town is rich with the songs and crafts of the Fula and Landuma peoples, maintaining a traditional atmosphere far from the country's major urban centers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gaoual ist ein bedeutendes Zentrum für den Rinderhandel in Westguinea.",
+          "Die Stadt liegt am Übergang vom Fouta Djallon zur Küstensavanne.",
+          "Die Bevölkerung besteht hauptsächlich aus den Ethnien Peul und Landuma.",
+          "Gaoual ist über die Nationalstraße N22 mit der Stadt Boké verbunden.",
+          "In der Umgebung befinden sich unerschlossene Bauxit- und Eisenerzvorkommen.",
+          "Das Klima ist durch eine lange, intensive Trockenzeit geprägt."
+        ],
+        "hu": [
+          "Gaoual Nyugat-Guinea egyik legfontosabb állatvásártere.",
+          "A város a Fouta Djallon és a parti szavanna találkozásánál fekszik.",
+          "A lakosság zömét a fula és a landuma népcsoportok alkotják.",
+          "A települést az N22-es főút köti össze a régióközponttal, Bokéval.",
+          "A környéken jelentős, de még kiaknázatlan bauxit- és vasérctartalékok találhatók.",
+          "A város fontos állomása a Szenegál felé tartó kereskedelmi útvonalaknak."
+        ],
+        "ro": [
+          "Gaoual este un centru major pentru comerțul cu vite în vestul țării.",
+          "Orașul se află la granița naturală dintre muntele Fouta Djallon și savană.",
+          "Populația locală aparține în principal etniilor Peul și Landuma.",
+          "Este conectat prin drumul național N22 de orașul minier Boké.",
+          "Prefectura Gaoual deține resurse minerale importante, precum bauxita.",
+          "Clima este marcată de un sezon uscat prelungit și temperaturi extreme."
+        ],
+        "en": [
+          "Gaoual is a major regional hub for the cattle trade in western Guinea.",
+          "The town sits at the environmental junction of the Fouta Djallon and the plains.",
+          "The population is primarily composed of the Peul and Landuma ethnic groups.",
+          "It is connected to the city of Boké via the N22 national highway.",
+          "The surrounding area contains significant untapped bauxite and iron ore deposits.",
+          "Gaoual serves as a vital transit point for trade heading toward Senegal."
+        ]
+      }
+    },
+    {
+      "id": "kerouane-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kérouané ist eine geschichtsträchtige Stadt im Osten Guineas, gelegen in der Region Kankan. Sie ist bekannt für ihre zentrale Lage im Milo-Becken und ihre unmittelbare Nähe zum Simandou-Gebirge, das eines der größten unberührten Eisenerzvorkommen der Welt beherbergt. Historisch erlangte Kérouané im 19. Jahrhundert weltweite Berühmtheit als ein strategisches Bollwerk von Samori Touré, dem Gründer des Wassoulou-Reiches, der die Stadt als Verteidigungs- und Ausbildungszentrum gegen die französische Kolonialmacht nutzte. Die Überreste seiner Festungsanlagen sind bis heute ein Zeugnis dieser Zeit. Wirtschaftlich ist die Region heute vor allem durch den Goldbergbau und den Diamantenabbau geprägt, der sowohl industriell als auch in handwerklicher Form betrieben wird. Die Stadt dient als wichtiger Markt für landwirtschaftliche Produkte wie Reis, Maniok und Yams, die in den fruchtbaren Böden der Umgebung gedeihen. Kérouané steht an der Schwelle zu einer massiven Transformation, da die Erschließung des Simandou-Projekts neue Eisenbahnverbindungen und Infrastrukturen in die Region bringt. Kulturell ist die Stadt tief in den Traditionen der Malinké verwurzelt, was sich in der lokalen Musik, dem Tanz und den überlieferten mündlichen Erzählungen widerspiegelt.",
+        "hu": "Kérouané egy nagy múltú város Guinea keleti részén, a Kankan régióban, amely stratégiai fekvésével és történelmi jelentőségével emelkedik ki. A város a Milo-folyó medencéjében található, a világhírű Simandou-hegység lábánál, amely a Föld egyik legnagyobb vasérckincsét rejti. Kérouané történelmi hírnevét a 19. században alapozta meg, amikor Samori Touré, a Wassoulou Birodalom alapítója egyik legfontosabb katonai támaszpontjává és kiképzőközpontjává tette az európai gyarmatosítók elleni harc során. A városban ma is láthatók az egykori erődítmények nyomai. Napjainkban a gazdaság alapját a gyémánt- és aranybányászat képezi, amely sok embert vonz a környékre. Emellett a mezőgazdaság is jelentős: a helyi piacon bőséges a kínálat rizsből, maniókából és jamszgyökérből. A Simandou-projekt várható beindulása miatt Kérouané óriási infrastrukturális fejlődés előtt áll, beleértve egy új vasútvonal kiépítését is. A lakosság többsége malinké nemzetiségű, így a város kulturális életét a mandingó hagyományok, a hősökről szóló énekek és a griotok művészete határozza meg.",
+        "ro": "Kérouané este un oraș încărcat de istorie situat în estul Guineei, în regiunea Kankan. Este cunoscut în mod special pentru poziția sa în bazinul râului Milo și pentru proximitatea față de munții Simandou, care adăpostesc unul dintre cele mai mari zăcăminte de minereu de fier de înaltă calitate de pe planetă. Din punct de vedere istoric, Kérouané a jucat un rol crucial în secolul al XIX-lea ca fortăreață strategică pentru Samori Touré, fondatorul Imperiului Wassoulou, care a folosit orașul ca centru de rezistență împotriva expansiunii coloniale franceze. Ruinele vechilor fortificații sunt vizibile și astăzi. Economia locală contemporană gravitează în jurul exploatării diamantelor și a aurului, precum și în jurul agriculturii, cu recolte bogate de orez și igname. Orașul se pregătește pentru o transformare majoră datorită proiectului minier Simandou, care promite să aducă o cale ferată trans-guineeană și noi oportunități de dezvoltare. Populația, majoritar Malinké, păstrează vie moștenirea culturală a strămoșilor prin muzică tradițională și festivaluri care celebrează istoria rezistenței și independenței lor.",
+        "en": "Kérouané is a historic town in eastern Guinea, located within the Kankan Region. It is strategically situated in the Milo River basin and is famous for its proximity to the Simandou mountains, home to one of the world's largest untapped deposits of high-grade iron ore. Historically, Kérouané gained prominence in the 19th century as a key military stronghold for Samori Touré, the founder of the Wassoulou Empire, who used the town as a base of resistance against French colonial forces. Remnants of his fortifications can still be found in the area. Today, the town's economy is driven by diamond and gold mining, as well as agriculture, with local markets dealing in rice, cassava, and yams. Kérouané is currently on the brink of significant economic change due to the Simandou iron ore project, which is set to bring new railway infrastructure to the region. Culturally, the town is deeply rooted in Malinké traditions, where the art of the griots and oral histories of past empires continue to play a vital role in community life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kérouané war ein wichtiges militärisches Zentrum von Samori Touré.",
+          "Die Stadt liegt am Ufer des Milo-Flusses, einem Nebenfluss des Niger.",
+          "Die Region ist bekannt für ihre reichen Diamantenvorkommen.",
+          "Kérouané ist ein zentraler Zugangspunkt für das Simandou-Eisenerzprojekt.",
+          "Die Bevölkerung gehört überwiegend zur Ethnie der Malinké.",
+          "Die Stadt liegt an der Nationalstraße N1, die Kankan mit Beyla verbindet."
+        ],
+        "hu": [
+          "Kérouané Samori Touré birodalmának egyik legfontosabb erődítménye volt.",
+          "A város a Milo-folyó partján, fontos kereskedelmi útvonalon fekszik.",
+          "A környék folyómedrei híresek az ott található gyémántokról.",
+          "A település a Simandou vasércbánya fejlesztésének egyik fő logisztikai pontja.",
+          "A helyi kultúra szorosan kötődik a malinké nép mandingó hagyományaihoz.",
+          "Kérouané fontos mezőgazdasági elosztóközpont Kankan és Beyla között."
+        ],
+        "ro": [
+          "Kérouané a servit drept bază militară principală pentru Samori Touré.",
+          "Orașul este situat pe cursul superior al râului Milo.",
+          "Prefectura este una dintre cele mai importante zone de minerit de diamante.",
+          "Este un punct cheie pentru dezvoltarea infrastructurii feroviare Simandou.",
+          "Majoritatea locuitorilor sunt de etnie Malinké, cunoscuți pentru griotii lor.",
+          "Orașul este renumit pentru spiritul său de rezistență anti-colonială."
+        ],
+        "en": [
+          "Kérouané was a vital military stronghold for the 19th-century leader Samori Touré.",
+          "The town is located on the Milo River, an important tributary of the Niger.",
+          "The surrounding region is highly rich in alluvial diamond deposits.",
+          "Kérouané is central to the upcoming Trans-Guinean railway for iron ore export.",
+          "The population is predominantly Malinké, with a strong tradition of oral history.",
+          "The town connects the regional centers of Kankan and Beyla via the N1 highway."
+        ]
+      }
+    },
+    {
+      "id": "koubia-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Koubia ist eine abgelegene Stadt in den nördlichen Ausläufern des Fouta-Djallon-Massivs und Hauptstadt der gleichnamigen Präfektur. Die geografische Lage ist geprägt von rauen Plateaus, tiefen Tälern und einem Klima, das durch kühle Nächte und heiße, trockene Tage während der Harmattan-Saison gekennzeichnet ist. Koubia ist eine der am höchsten gelegenen Städte der Region, was den Zugang und die Infrastrukturentwicklung historisch erschwert hat. Diese Isolation hat jedoch dazu beigetragen, dass die traditionelle Lebensweise der Peul (Fula) fast unverfälscht erhalten blieb. Die Wirtschaft basiert nahezu vollständig auf der Viehzucht, wobei die Rinder der Region für ihre Widerstandsfähigkeit bekannt sind. Ergänzend dazu betreiben die Bewohner kleinteiligen Ackerbau, vor allem den Anbau von Getreide und Hülsenfrüchten. In Koubia herrscht ein starker Gemeinschaftssinn, der sich in den lokalen religiösen Schulen und den traditionellen Versammlungen widerspiegelt. Die Stadt dient als lokaler Handelsposten, wo Vieh gegen Waren aus der regionalen Hauptstadt Labé getauscht wird. Wanderwege in der Umgebung bieten spektakuläre Ausblicke auf die unberührte Berglandschaft Guineas, die touristisch noch weitgehend unerschlossen ist.",
+        "hu": "Koubia városa Guinea északi részén, a Fouta Djallon-hegység zord fennsíkjain fekszik, és az azonos nevű prefektúra székhelye. Ez az egyik legmagasabban fekvő és legelszigeteltebb település a régióban, ahol a tájat mély völgyek és sziklás platók tagolják. Az éghajlatot a száraz évszakban a Szaharából érkező harmattan szél határozza meg, amely nappal hőséget, éjszaka pedig szokatlan hűvöst hoz. Koubia gazdasága és társadalmi felépítése a fula pásztorkodás köré épül. A marhatartás itt nem csupán megélhetés, hanem a társadalmi státusz jelképe is. A lakosok emellett önellátó gazdálkodást folytatnak, főként foniót, kölest és babot termesztenek a völgyekben. A város infrastruktúrája korlátozott, az utak nehezen járhatóak, ami hozzájárult a helyi kultúra és az iszlám oktatási hagyományok megőrzéséhez. Koubia piaca a környékbeli pásztorok találkozóhelye, ahol az állatokat Labéból érkező iparcikkekre cserélik. A település környezete ideális a bakancsos turizmus számára, bár a modern turisztikai szolgáltatások még hiányoznak. A látogatókat a vidék érintetlensége és a hegyi levegő tisztasága nyűgözi le.",
+        "ro": "Koubia este o așezare izolată situată pe platourile înalte din nordul masivului Fouta Djallon, fiind reședința prefecturii omonime. Orașul este cunoscut pentru relieful său accidentat, cu văi adânci și peisaje montane spectaculoase, fiind unul dintre punctele urbane cele mai înalte din Guineea. Clima este specifică regiunii de munte, cu variații mari de temperatură între zi și noapte, influențată puternic de vântul Harmattan. Economia orașului Koubia este eminamente pastorală, creșterea bovinelor fiind principala ocupație a populației majoritare Fula. Animalele de aici sunt esențiale pentru comerțul regional, fiind adesea vândute în piețele din Labé. Agricultura este practicată la scară mică, axându-se pe culturi rezistente la secetă, cum ar fi fonio și meiul. Datorită accesului dificil, Koubia a reușit să-și conserve structura socială tradițională și influența puternică a școlilor coranice locale. Orașul reprezintă un exemplu de reziliență într-un mediu geografic dificil, păstrând tradiții vechi de secole în meșteșugul lânii și al pielăriei. Pentru cei care caută aventura, regiunea oferă trasee de trekking neexplorate prin peisaje de o frumusețe sălbatică.",
+        "en": "Koubia is a remote town situated on the high, rugged plateaus of northern Fouta Djallon and serves as the capital of its namesake prefecture. The geographical setting is defined by steep valleys and rocky landscapes, making it one of the highest and most isolated towns in Guinea. The climate is characterized by significant temperature swings, with hot days and cool nights, especially during the Harmattan season. Koubia's economy is almost entirely centered on pastoralism, with cattle herding being the primary livelihood of the Fula population. Livestock from Koubia is highly valued and often traded in the larger markets of Labé. Subsistence farming also exists in the fertile valley pockets, producing crops like fonio, millet, and beans. Due to its historical isolation, Koubia has preserved its traditional social structures and Islamic educational centers. The town acts as a local commercial post for surrounding pastoral communities. The surrounding environment offers untouched mountain scenery, providing great potential for eco-tourism and trekking, though modern infrastructure remains very limited."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koubia ist eine der am höchsten gelegenen Präfekturhauptstädte Guineas.",
+          "Die Stadt liegt etwa 65 Kilometer nordöstlich von Labé.",
+          "Viehzucht ist der wichtigste Wirtschaftszweig der lokalen Peul-Bevölkerung.",
+          "Die Region ist bekannt für die Produktion von traditionellem Käse.",
+          "Koubia ist während der Regenzeit oft nur schwer über Land erreichbar.",
+          "In der Stadt befinden sich bedeutende traditionelle Koranschulen."
+        ],
+        "hu": [
+          "Koubia Guinea egyik legmagasabb tengerszint feletti magasságban fekvő városa.",
+          "A település Labé városától mintegy 65 kilométerre északkeletre található.",
+          "Az állattenyésztés a helyi fula közösség legfőbb bevételi forrása.",
+          "A környék híres a hagyományos módon készített sajtjairól.",
+          "Az esős évszakban a város közúti megközelítése rendkívül nehézkes.",
+          "Koubia fontos központja a hagyományos iszlám vallási oktatásnak."
+        ],
+        "ro": [
+          "Koubia este printre cele mai înalte reședințe de prefectură din Guineea.",
+          "Se află la aproximativ 65 km nord-est de orașul Labé, centrul regional.",
+          "Zootehnia domină economia locală, fiind o zonă bogată în pășuni montane.",
+          "Regiunea Koubia este renumită pentru produsele lactate tradiționale.",
+          "Infrastructura rutieră precară face orașul greu accesibil în timpul ploilor.",
+          "Orașul păstrează o arhitectură vernaculară specifică zonei Fouta Djallon."
+        ],
+        "en": [
+          "Koubia is one of the highest-altitude prefecture capitals in Guinea.",
+          "The town is located about 65 kilometers northeast of the regional hub, Labé.",
+          "Pastoralism is the cornerstone of the local economy and culture.",
+          "The region is locally famous for its traditional cheese and dairy products.",
+          "Road access to Koubia is often restricted during the heavy rainy season.",
+          "It serves as a significant center for traditional Quranic studies in the region."
+        ]
+      }
+    },
+    {
+      "id": "koundara-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Koundara ist eine strategisch wichtige Stadt im äußersten Nordwesten Guineas, nahe den Grenzen zu Senegal und Guinea-Bissau. Geografisch liegt sie in einer flachen Savannenregion, die für ihre extremen Temperaturen bekannt ist – Koundara gilt oft als einer der heißesten Orte des Landes. Die Stadt ist das Tor zum Badiar-Nationalpark, der zusammen mit dem senegalesischen Niokolo-Koba-Park ein riesiges grenzüberschreitendes Schutzgebiet bildet. Koundara hat sich zu einem bedeutenden Handelszentrum entwickelt, da hier der gesamte Landverkehr zwischen Guinea und den nördlichen Nachbarstaaten abgewickelt wird. Die Bevölkerung ist ethnisch vielfältig, mit Peul, Bassari und Coniagui, was der Stadt eine lebendige, multikulturelle Atmosphäre verleiht. Wirtschaftlich ist die Region neben dem Transitverkehr stark von der Landwirtschaft geprägt; besonders der Anbau von Erdnüssen und Baumwolle sowie die Viehzucht spielen eine große Rolle. Jedes Jahr ist die Stadt Schauplatz traditioneller Zeremonien der Bassari, die Besucher aus der weiteren Umgebung anziehen. Trotz der Hitze und der oft staubigen Straßen ist Koundara ein wichtiger Motor für die regionale Wirtschaft und ein unverzichtbarer Knotenpunkt für den westafrikanischen Reiseverkehr.",
+        "hu": "Koundara városa Guinea távoli északnyugati sarkában fekszik, stratégiai helyen a szenegáli és a guinea-bissaui határ közelében. A város az ország egyik legforróbb pontjaként ismert, mivel egy sík, szavannás medencében terül el, ahol a hőmérséklet gyakran emelkedik 40 fok fölé. Koundara legfontosabb vonzereje a Badiar Nemzeti Park közelsége, amely a szenegáli Niokolo-Koba parkkal együtt a régió egyik legnagyobb természetvédelmi területét alkotja. Gazdaságilag a város a nemzetközi kereskedelemből és a tranzitforgalomból él: itt halad át a Guinea és Szenegál közötti áruforgalom döntő többsége. A helyi lakosság körében a földimogyoró- és pamuttermelés, valamint az állattenyésztés a legfontosabb tevékenység. A város etnikai sokszínűsége egyedülálló; a fula pásztorok mellett itt élnek a basszari és koniagui népcsoportok is, akik megőrizték különleges rítusaikat és maszkos táncaikat. Koundara poros utcái és nyüzsgő piaca a nyugat-afrikai határmenti élet hamisíthatatlan hangulatát árasztják, miközben a város kulcsszerepet játszik az ország gazdasági vérkeringésében.",
+        "ro": "Koundara este un oraș strategic situat în extremitatea nord-vestică a Guineei, în apropierea frontierelor cu Senegal și Guinea-Bissau. Geografic, se află într-o regiune de savană joasă, renumită pentru temperaturile sale extrem de ridicate, fiind adesea considerat cel mai fierbinte oraș din țară. Koundara servește drept poartă de acces către Parcul Național Badiar, o rezervație naturală crucială care face parte dintr-un complex ecologic transfrontalier cu parcul Niokolo-Koba din Senegal. Din punct de vedere economic, orașul profită masiv de pe urma comerțului transfrontalier, fiind un punct de tranzit obligatoriu pentru camioanele care transportă mărfuri între Conakry și Dakar. Agricultura regională se concentrează pe cultivarea arahidelor și a bumbacului. Comunitatea este un mozaic etnic fascinant, unde grupuri precum Fula, Bassari și Coniagui trăiesc împreună, fiecare păstrându-și tradițiile unice. Festivalurile etnice Bassari, cu măștile lor ritualice, sunt evenimente culturale majore în zonă. Deși infrastructura este solicitată de traficul greu, Koundara rămâne un centru dinamic și vital pentru integrarea economică regională în această parte a Africii de Vest.",
+        "en": "Koundara is a strategically located town in the far northwest of Guinea, near the borders with Senegal and Guinea-Bissau. Situated in a low-lying savanna basin, it is famously known as one of the hottest places in the country, with temperatures frequently soaring. The town serves as the primary gateway to the Badiar National Park, which together with Senegal's Niokolo-Koba National Park, forms a massive transboundary biosphere reserve. Economically, Koundara thrives on international trade and transit, acting as a crucial bottleneck for goods and travelers moving between Guinea and its northern neighbors. The local economy is also supported by agriculture, particularly the cultivation of peanuts and cotton, as well as livestock rearing. Koundara's population is ethnically diverse, including the Fula, Bassari, and Coniagui peoples, contributing to a rich cultural landscape. The annual Bassari initiation ceremonies and masked dances are significant local traditions that draw cultural interest. Despite the challenging climate and dusty roads, Koundara is an essential economic engine for the region and a key node in the West African transport network."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koundara gilt als einer der heißesten Orte in der Republik Guinea.",
+          "Die Stadt ist der wichtigste Grenzort für den Reiseverkehr nach Senegal.",
+          "Sie liegt am Rande des Badiar-Nationalparks.",
+          "Koundara beherbergt eine seltene Mischung aus Peul-, Bassari- und Coniagui-Kulturen.",
+          "Der Erdnussanbau ist das Rückgrat der lokalen Landwirtschaft.",
+          "Die Stadt ist ein bedeutender Knotenpunkt für den westafrikanischen Fernverkehr."
+        ],
+        "hu": [
+          "Koundarát Guinea egyik legforróbb településeként tartják számon.",
+          "A város a Szenegál felé tartó nemzetközi út legfontosabb határmenti csomópontja.",
+          "A település a Badiar Nemzeti Park kapujaként is ismert.",
+          "Itt élnek a basszari és koniagui kisebbségek, akik híresek maszkos rituáléikról.",
+          "A környék gazdasága jelentős részben a földimogyoró exportjára épül.",
+          "A város stratégiai pihenőhely a Dakar és Conakry közötti teherforgalom számára."
+        ],
+        "ro": [
+          "Koundara este cunoscut drept polul căldurii în Guineea.",
+          "Orașul este principalul punct de control la frontiera cu Senegalul.",
+          "Este baza de plecare pentru expedițiile în Parcul Național Badiar.",
+          "Diversitatea etnică include grupurile Bassari, Coniagui și Fula.",
+          "Cultivarea bumbacului reprezintă o ramură economică importantă în prefectură.",
+          "Localitatea este un nod vital pentru coridorul comercial către Dakar."
+        ],
+        "en": [
+          "Koundara is widely cited as the hottest town in the Republic of Guinea.",
+          "It is the most critical border town for traffic heading to and from Senegal.",
+          "The town is the main entry point for visiting Badiar National Park.",
+          "Koundara is home to the culturally unique Bassari and Coniagui ethnic groups.",
+          "Peanut cultivation is the leading agricultural activity in the surrounding fields.",
+          "The town serves as a vital logistics hub for West African regional trade."
+        ]
+      }
+    },
+    {
+      "id": "lelouma-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Lélouma ist eine malerische Stadt im Herzen des Fouta-Djallon-Hochlandes und Verwaltungssitz der gleichnamigen Präfektur. Die Region um Lélouma ist berühmt für ihre spektakuläre Topografie, bestehend aus tiefen Sandsteinschluchten, schroffen Klippen und zahlreichen Wasserfällen. Diese isolierte Gebirgslage hat Lélouma zu einem Zentrum für den Erhalt der traditionellen Fula-Kultur gemacht. Die Architektur der Stadt und der umliegenden Dörfer ist oft noch von den klassischen Rundhütten mit Strohdächern geprägt. Wirtschaftlich ist Lélouma vor allem für seine Landwirtschaft bekannt, insbesondere für den Anbau von Zitrusfrüchten wie Orangen und Zitronen, die im kühleren Bergklima hervorragend gedeihen. Auch die Honigproduktion und der Anbau von Fonio sind wichtige Säulen der lokalen Ökonomie. Die Stadt ist zudem ein Zentrum für traditionelle Webkunst; die hier hergestellten Stoffe sind in ganz Guinea für ihre Qualität und ihre Muster geschätzt. Obwohl die Straßenverhältnisse in der Region schwierig sind, zieht Lélouma Wanderer und Naturliebhaber an, die die unberührten Canyons und die authentische Gastfreundschaft der Hochlandbewohner suchen.",
+        "hu": "Lélouma városa a Fouta Djallon-hegység szívében található, és az azonos nevű prefektúra központja. A település és környéke Guinea egyik leglátványosabb vidéke, amelyet mély homokkő szurdokok, hatalmas sziklafalak és rejtett vízesések teszik különlegessé. Lélouma elszigeteltsége révén a fula kultúra egyik legfontosabb őrzőjévé vált, ahol a hagyományos falusi életmód és a muszlim vallási hagyományok szerves egységet alkotnak. A város gazdasága híres a citrusfélék, különösen a zamatos narancs és a citrom termesztéséről, amelyeket az ország távolabbi pontjain is nagyra értékelnek. Emellett a környék a méhészetről és a fonió (egy ősi gabonaféle) termesztéséről ismert. A helyi kézművesség egyik büszkesége a szövés; a Léloumában készített tradicionális ruhák és textilek híresek tartósságukról és egyedi mintázatukról. A vidék a kalandturizmus és a túrázás paradicsoma, ahol a látogatók érintetlen kanyonokat és lenyűgöző panorámát fedezhetnek fel, miközben bepillantást nyerhetnek a hegyi emberek mindennapjaiba.",
+        "ro": "Lélouma este un oraș pitoresc situat în inima regiunii muntoase Fouta Djallon, fiind reședința prefecturii cu același nume. Regiunea este celebră pentru topografia sa dramatică, formată din canioane adânci de gresie, faleze abrupte și numeroase cascade, ceea ce o face una dintre cele mai frumoase zone naturale din Guineea. Datorită poziției sale protejate de munte, Lélouma a rămas un bastion al culturii tradiționale Fula, unde modul de viață ancestral este încă foarte prezent. Economia locală este renumită pentru producția de citrice, în special portocale și lămâi, care beneficiază de climatul montan mai răcoros și umed. De asemenea, Lélouma este cunoscută pentru mierea sa de calitate și pentru cultivarea cerealelor tradiționale precum fonio. Un alt pilon al economiei locale este artizanatul, în special țesutul tradițional, produsele de aici fiind foarte căutate în piețele din Conakry. Deși accesul rutier este dificil din cauza reliefului, orașul atrage turiști pasionați de ecoturism și trekking, dornici să exploreze peisajele virgine și să interacționeze cu comunitățile locale autentice.",
+        "en": "Lélouma is a picturesque town nestled in the heart of the Fouta Djallon highlands and serves as the administrative seat of its namesake prefecture. The region surrounding Lélouma is renowned for its spectacular topography, featuring deep sandstone canyons, sheer cliffs, and hidden waterfalls. This isolated mountain setting has allowed Lélouma to remain a vital center for the preservation of traditional Fula culture, where ancestral customs and social structures are strictly observed. Economically, Lélouma is famous for its citrus production, particularly oranges and lemons, which thrive in the cooler highland climate. Honey production and the cultivation of the ancient grain fonio are also key pillars of the local economy. The town is a notable center for traditional weaving; the fabrics produced here are prized across Guinea for their quality and intricate patterns. Despite challenging road conditions, Lélouma is a prime destination for hikers and eco-tourists seeking pristine landscapes and an authentic glimpse into the daily lives of the highland people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Lélouma ist bekannt für seine beeindruckenden Sandsteincanyons.",
+          "Die Stadt ist ein Hauptproduzent von Orangen im Fouta Djallon.",
+          "Traditionelle Webkunst ist ein wichtiger Teil der lokalen Identität.",
+          "Die Region beherbergt zahlreiche Wasserfälle, wie die von Kinkon.",
+          "Lélouma liegt in einer der regenreichsten Zonen des Hochlandes.",
+          "Die Architektur ist geprägt von traditionellen Fula-Rundhäusern."
+        ],
+        "hu": [
+          "Lélouma környéke híres a mély és látványos homokkő szurdokairól.",
+          "A város a Fouta Djallon régió egyik legnagyobb narancstermelő központja.",
+          "A település a hagyományos guineai szövés és textilgyártás egyik fellegvára.",
+          "A régióban számos látványos, de nehezen megközelíthető vízesés található.",
+          "Lélouma éghajlata hűvösebb és csapadékosabb az országos átlagnál.",
+          "A város környékén még ma is sok az ősi stílusú, nádtetős kerek ház."
+        ],
+        "ro": [
+          "Lélouma este renumit pentru canioanele de gresie unice în Africa de Vest.",
+          "Orașul este un centru major de producție și export de portocale.",
+          "Țesătorii din Lélouma sunt faimoși pentru pânzele lor lucrate manual.",
+          "Relieful din jur oferă unele dintre cele mai spectaculoase trasee de trekking.",
+          "Clima montană favorizează o apicultură de mare succes în regiune.",
+          "Lélouma păstrează intacte multe dintre tradițiile orale ale poporului Fula."
+        ],
+        "en": [
+          "Lélouma is famous for its stunning and deep sandstone canyons.",
+          "The town is a leading producer of high-quality oranges and lemons.",
+          "Traditional weaving is a highly respected local craft in Lélouma.",
+          "The surrounding landscape is dotted with numerous secluded waterfalls.",
+          "Lélouma experiences a significantly cooler climate than the coastal regions.",
+          "It is a key site for experiencing authentic, traditional Fula village life."
+        ]
+      }
+    }
+  ]
+}

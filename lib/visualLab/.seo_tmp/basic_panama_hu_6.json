@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-trinidad-relief-v2",
+      "description": "Kiemelkedő hegycsúcs, amely a központi régió domborzatának része.",
+      "facts": ["Hegycsúcs", "Földrajzi elem", "Térség domborzata"]
+    },
+    {
+      "id": "cerro-ceniza-relief-v2",
+      "description": "Hegyvonulat, amely fontos szerepet játszik a terület vízrajzában.",
+      "facts": ["Hegyvonulat", "Vízrajzi szerep", "Természeti adottság"]
+    },
+    {
+      "id": "cerro-cara-de-iguana-relief-v2",
+      "description": "Egyedi formájú hegycsúcs, amely közkedvelt a természetjárók körében.",
+      "facts": ["Egyedi hegycsúcs", "Természetjárás", "Domborzati látnivaló"]
+    },
+    {
+      "id": "cerro-trinidad-norte-relief-v2",
+      "description": "Hegyi terület, amely az északi régió domborzati jellemzőit hordozza.",
+      "facts": ["Hegyi terület", "Északi régió", "Domborzati sajátosság"]
+    },
+    {
+      "id": "volcan-baru-relief-v2",
+      "description": "Panama legmagasabb hegye, egy alvó tűzhányó, amely lenyűgöző kilátást nyújt.",
+      "facts": ["Legmagasabb pont", "Alvó tűzhányó", "Turisztikai csúcs"]
+    },
+    {
+      "id": "loma-del-pan-relief-v2",
+      "description": "Kiemelkedő domborzati forma, amely a környező táj fölé emelkedik.",
+      "facts": ["Domborzati forma", "Panoráma", "Természeti látvány"]
+    },
+    {
+      "id": "cordillera-talamanca-relief-v2",
+      "description": "Hatalmas hegylánc, amely átszeli Panama és Costa Rica határvidékét.",
+      "facts": ["Hegylánc", "Határvidék", "Geológiai struktúra"]
+    },
+    {
+      "id": "cerro-patacon-relief-v2",
+      "description": "Fontos domborzati elem Panamaváros közelében.",
+      "facts": ["Domborzati elem", "Városközeli hegy", "Földrajzi pont"]
+    },
+    {
+      "id": "coiba-inselhuegel-relief-v2",
+      "description": "Coiba szigetének domborzati kiemelkedései, amelyek jellemzik a tájat.",
+      "facts": ["Coiba sziget", "Domborzat", "Szigeti földrajz"]
+    },
+    {
+      "id": "azuero-berge-relief-v2",
+      "description": "Az Azuero-félsziget hegyvidéki része, meghatározó domborzati adottság.",
+      "facts": ["Azuero-félsziget", "Hegyvidéki terület", "Földrajzi régió"]
+    }
+  ]
+}

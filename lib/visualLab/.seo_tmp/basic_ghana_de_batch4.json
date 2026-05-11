@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "accra-sports-stadium-landmarks-v2",
+      "description": "Das nationale Stadion Ghanas in der Hauptstadt Accra ist ein Zentrum für Fußball und große Sportveranstaltungen.",
+      "facts": ["Heimat der Nationalmannschaft.", "Eröffnet im Jahr 1960.", "Austragungsort des Afrika-Cups."]
+    },
+    {
+      "id": "elmina-castle-landmarks-v2",
+      "description": "Ein markantes Wahrzeichen an der Küste, das für seine strahlend weißen Mauern und seine düstere koloniale Geschichte bekannt ist.",
+      "facts": ["UNESCO-Weltkulturerbe.", "Ältestes europäisches Gebäude.", "Prägt die Silhouette von Elmina."]
+    },
+    {
+      "id": "baba-yara-stadium-landmarks-v2",
+      "description": "Das größte Stadion Ghanas befindet sich in Kumasi und ist die Heimstätte des berühmten Fußballvereins Asante Kotoko.",
+      "facts": ["Kapazität für über 40.000 Zuschauer.", "Benannt nach einem legendären Fußballer.", "Zentrum des Sports in der Ashanti Region."]
+    },
+    {
+      "id": "national-theatre-ghana-landmarks-v2",
+      "description": "Ein architektonisches Highlight in Accra, dessen Design an ein Segelschiff oder eine aufsteigende Welle erinnert.",
+      "facts": ["Eröffnet im Jahr 1992.", "Zentrum für darstellende Künste.", "Geschenk der chinesischen Regierung."]
+    },
+    {
+      "id": "jamestown-lighthouse-landmarks-v2",
+      "description": "Der rot-weiß gestreifte Leuchtturm in Jamestown ist eines der bekanntesten Symbole des historischen Viertels von Accra.",
+      "facts": ["Erbaut in den 1930er Jahren.", "Bietet Panoramablick auf den Hafen.", "Wahrzeichen des alten Accra."]
+    },
+    {
+      "id": "essipong-stadium-landmarks-v2",
+      "description": "Ein modernes Mehrzweckstadion in der Nähe von Sekondi-Takoradi, das für internationale Fußballturniere genutzt wird.",
+      "facts": ["Erbaut für den Afrika-Cup 2008.", "Wichtige Sportstätte im Westen.", "Moderne Architektur und Ausstattung."]
+    },
+    {
+      "id": "fishing-village-elmina-kid-life-v2",
+      "description": "Ein lebendiges Fischerdorf, in dem Kinder den traditionellen Fischfang und das bunte Treiben am Hafen hautnah erleben können.",
+      "facts": ["Hunderte bunte Fischerboote.", "Traditionelle Handwerkskunst.", "Einblick in das tägliche Leben an der Küste."]
+    },
+    {
+      "id": "wetland-sakumono-animal-life-v2",
+      "description": "Ein geschütztes Feuchtgebiet in der Nähe von Tema, das als wichtiger Rückzugsort für Zugvögel und lokale Tierarten dient.",
+      "facts": ["Ramsar-Schutzgebiet.", "Vogelbeobachtung möglich.", "Wichtiges ökologisches Reservoir."]
+    },
+    {
+      "id": "agric-college-farm-life-v2",
+      "description": "Ein landwirtschaftlicher Lehrbetrieb, der Einblicke in moderne Anbaumethoden und die Tierhaltung in Ghana bietet.",
+      "facts": ["Zentrum für Agrarbildung.", "Demonstration von Feldfrüchten.", "Praktisches Lernen für Studenten."]
+    },
+    {
+      "id": "aquarium-accra-kid-life-v2",
+      "description": "Ein kleineres Aquarium in der Hauptstadt, das Kindern die bunte Unterwasserwelt Westafrikas näherbringt.",
+      "facts": ["Heimische Fischarten.", "Bildungsprogramme für Schulen.", "Spannendes Ausflugsziel für Familien."]
+    },
+    {
+      "id": "keta-lake-nature-v2",
+      "description": "Die Keta-Lagune ist das größte Binnengewässer Ghanas und ein Paradies für Vogelliebhaber und Naturschützer.",
+      "facts": ["Brackwasser-Ökosystem.", "Heimat für Tausende Zugvögel.", "Bedeutendes Fischereigebiet."]
+    }
+  ]
+}

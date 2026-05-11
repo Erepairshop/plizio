@@ -1,0 +1,21 @@
+{
+  "lang": "ro",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "ghadames-cities-v2", "description": "Ghadames, cunoscut drept 'Perla Deșertului', este un oraș oază istoric faimos pentru arhitectura sa tradițională protejată de UNESCO.", "facts": ["Perla Deșertului", "Arhitectură de pământ", "Patrimoniu UNESCO"] },
+    { "id": "wadi-al-hayat-nature-v2", "description": "Wadi al-Hayat este o vale fertilă în mijlocul deșertului Sahara, adăpostind numeroase oaze și vestigii ale civilizației Garamantes.", "facts": ["Valea Vieții", "Oaze în deșert", "Civilizația Garamantes"] },
+    { "id": "gargaf-mountains-nature-v2", "description": "Munții Gargaf sunt o formațiune muntoasă aridă situată în centrul Libiei, cunoscută pentru peisajele lor lunare.", "facts": ["Zonă aridă", "Centrul Libiei", "Peisaj stâncos"] },
+    { "id": "tibesti-foothills-nature-v2", "description": "Poalele munților Tibesti oferă un peisaj spectaculos la granița de sud a Libiei, fiind o zonă de o frumusețe sălbatică.", "facts": ["Granița de sud", "Relief vulcanic", "Zonă izolată"] },
+    { "id": "al-haruj-nature-v2", "description": "Al-Haruj este un vast câmp vulcanic negru situat în centrul Libiei, format dintr-un platou de bazalt impresionant.", "facts": ["Câmp vulcanic", "Platou de bazalt", "Centrul Libiei"] },
+    { "id": "gargaf-desert-nature-v2", "description": "Deșertul Gargaf este o regiune aridă și stâncoasă, caracterizată prin platouri vaste și vânturi puternice.", "facts": ["Deșert stâncos", "Zonă aridă", "Vânturi de deșert"] },
+    { "id": "wadi-mathendous-nature-v2", "description": "Wadi Mathendous este celebru pentru gravurile sale rupestre preistorice de o importanță arheologică excepțională.", "facts": ["Gravuri rupestre", "Artă preistorică", "Regiunea Fezzan"] },
+    { "id": "jebel-soda-nature-v2", "description": "Jebel Soda, sau 'Muntele Negru', este o formațiune vulcanică situată în regiunea Fezzan din centrul Libiei.", "facts": ["Muntele Negru", "Origine vulcanică", "Regiunea Fezzan"] },
+    { "id": "cyrenaica-coast-nature-v2", "description": "Coasta Cyrenaica oferă peisaje mediteraneene verzi și plaje spectaculoase, contrastând puternic cu deșertul din interior.", "facts": ["Coasta mediteraneană", "Peisaj verde", "Nord-estul Libiei"] },
+    { "id": "wadi-farigh-nature-v2", "description": "Wadi Farigh este o vale de deșert situată în nord-est, cunoscută pentru formațiunile sale geologice unice.", "facts": ["Valea deșertului", "Nord-estul Libiei", "Relief arid"] }
+  ]
+}

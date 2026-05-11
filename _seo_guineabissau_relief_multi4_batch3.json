@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"],
+  "items": [
+    {
+      "id": "bafata-hills-relief-v2",
+      "descriptionAdvancedDe": "Die Bafatá-Hügel bilden ein sanft gewelltes Relief in der zentralen Region von Guinea-Bissau und erheben sich über das Tal des Geba-Flusses. Diese Landschaft ist durch Lateritböden und eine Vegetation aus Baumsavannen und Galeriewäldern entlang der Wasserläufe gekennzeichnet. Die Hügel sind nicht besonders hoch, aber ihre Position verleiht ihnen eine markante Präsenz in der ansonsten flachen Umgebung. Die Region ist ein wichtiges landwirtschaftliches Zentrum, insbesondere für Erdnüsse und Baumwolle. Die Hügel bieten nicht nur Panoramablicke, sondern sind auch kulturell bedeutsam, da die Stadt Bafatá der Geburtsort von Amílcar Cabral, dem Anführer der Unabhängigkeitsbewegung, ist.",
+      "descriptionAdvancedHu": "A Bafatá-dombság egy enyhén hullámzó domborzatot alkot Bissau-Guinea központi régiójában, amely a Geba-folyó völgye fölé emelkedik. Ezt a tájat laterit talajok, valamint fás szavannák és galériaerdők jellemzik a vízfolyások mentén. A dombok nem különösebben magasak, de elhelyezkedésük miatt markánsan kiemelkednek az egyébként sík környezetből. A régió fontos mezőgazdasági központ, különösen a földimogyoró- és gyapottermesztés területén. A dombok nemcsak panorámás kilátást nyújtanak, hanem kulturálisan is jelentősek, mivel Bafatá városa Amílcar Cabral, a függetlenségi mozgalom vezetőjének szülőhelye.",
+      "descriptionAdvancedRo": "Dealurile Bafatá formează un relief lin ondulat în regiunea centrală a Guineei-Bissau, ridicându-se deasupra văii râului Geba. Acest peisaj este caracterizat de soluri lateritice și o vegetație de savană arboricolă și păduri galerie de-a lungul cursurilor de apă. Dealurile nu sunt deosebit de înalte, dar poziția lor le conferă o prezență marcantă în mediul înconjurător, altfel plat. Regiunea este un important centru agricol, în special pentru cultivarea arahidelor și a bumbacului. Dealurile nu oferă doar vederi panoramice, ci sunt și semnificative din punct de vedere cultural, orașul Bafatá fiind locul de naștere al lui Amílcar Cabral, liderul mișcării de independență.",
+      "descriptionAdvancedEn": "The Bafatá Hills form a gently rolling relief in the central region of Guinea-Bissau, rising above the Geba River valley. This landscape is characterized by laterite soils and a vegetation of tree savannas and gallery forests along the watercourses. The hills are not particularly high, but their position gives them a prominent presence in the otherwise flat surroundings. The region is an important agricultural center, especially for peanuts and cotton. The hills not only offer panoramic views but are also culturally significant, as the city of Bafatá is the birthplace of Amílcar Cabral, the leader of the independence movement.",
+      "factsAdvanced": [
+        "Sanft gewelltes Relief in Zentral-Guinea-Bissau",
+        "Erhebt sich über das Tal des Geba-Flusses",
+        "Geprägt von Lateritböden und Baumsavanne",
+        "Wichtiges landwirtschaftliches Zentrum (Erdnüsse, Baumwolle)",
+        "Bietet Panoramablicke über die Umgebung",
+        "Bafatá ist der Geburtsort von Amílcar Cabral",
+        "Kulturell und historisch bedeutsame Region",
+        "Topografischer Kontrast in der zentralen Ebene"
+      ]
+    },
+    {
+      "id": "farim-depression-relief-v2",
+      "descriptionAdvancedDe": "Die Farim-Senke im Norden Guinea-Bissaus ist eine bemerkenswerte geologische Formation. Es handelt sich um eine große, flache Depression, deren Entstehung mit bedeutenden Phosphatvorkommen im Untergrund zusammenhängt. Das Relief ist weitgehend eben und liegt nur geringfügig über dem Meeresspiegel. Die Landschaft wird vom Rio Cacheu und seinen Nebenflüssen durchzogen. Obwohl die Böden für die Landwirtschaft genutzt werden, liegt das Hauptpotenzial der Region in den Mineralien. Das geplante Projekt zum Abbau des Farim-Phosphats könnte die wirtschaftliche Landschaft der Region drastisch verändern, birgt jedoch auch erhebliche Umweltrisiken für die fragilen Ökosysteme des nahen Cacheu-Flusses und seiner Mangroven.",
+      "descriptionAdvancedHu": "Az Észak-Bissau-Guineában található Farim-medence egy figyelemre méltó geológiai képződmény. Ez egy nagy, sík mélyedés, amelynek kialakulása a föld alatti jelentős foszfátkészletekhez kapcsolódik. A domborzat nagyrészt sík, és csak kissé van a tengerszint felett. A tájat a Cacheu-folyó és mellékfolyói szelik át. Bár a talajt mezőgazdasági célokra használják, a régió fő potenciálja az ásványkincsekben rejlik. A tervezett Farim-foszfátbányászati projekt drasztikusan megváltoztathatja a régió gazdasági képét, de jelentős környezeti kockázatokat is rejt a közeli Cacheu-folyó és mangroveerdőinek törékeny ökoszisztémáira nézve.",
+      "descriptionAdvancedRo": "Depresiunea Farim din nordul Guineei-Bissau este o formațiune geologică remarcabilă. Este o depresiune mare, plată, a cărei formare este legată de zăcăminte semnificative de fosfați în subsol. Relieful este în mare parte plat și se află la mică altitudine deasupra nivelului mării. Peisajul este traversat de râul Cacheu și afluenții săi. Deși solurile sunt folosite pentru agricultură, potențialul principal al regiunii constă în minerale. Proiectul planificat de exploatare a fosfatului de la Farim ar putea schimba drastic peisajul economic al regiunii, dar prezintă și riscuri ecologice considerabile pentru ecosistemele fragile ale râului Cacheu din apropiere și ale mangrovelor sale.",
+      "descriptionAdvancedEn": "The Farim Depression in northern Guinea-Bissau is a remarkable geological formation. It is a large, flat depression whose formation is linked to significant underground phosphate deposits. The relief is largely flat and only slightly above sea level. The landscape is traversed by the Cacheu River and its tributaries. Although the soils are used for agriculture, the region's main potential lies in its minerals. The planned Farim phosphate mining project could drastically change the region's economic landscape but also poses considerable environmental risks to the fragile ecosystems of the nearby Cacheu River and its mangroves.",
+      "factsAdvanced": [
+        "Große geologische Senke im Norden des Landes",
+        "Verbunden mit bedeutenden Phosphatvorkommen",
+        "Sehr flaches, ebenes Relief nahe dem Meeresspiegel",
+        "Durchzogen vom Rio Cacheu und seinen Nebenflüssen",
+        "Potenzielles Zentrum für den Phosphatabbau",
+        "Landwirtschaftliche Nutzung der Böden",
+        "Umweltrisiken durch potenziellen Bergbau",
+        "Wirtschaftlich strategische Mineralienlagerstätte"
+      ]
+    },
+    {
+      "id": "biombo-coastal-swamp-relief-v2",
+      "descriptionAdvancedDe": "Das Küstensumpfgebiet von Biombo, westlich der Hauptstadt Bissau gelegen, ist ein ausgedehntes und komplexes Mosaik aus Mangroven, Salzwiesen und Gezeitenkanälen. Dieses Relief ist extrem flach und wird stark von den Gezeiten des Atlantiks beeinflusst, was zu einer ständigen Vermischung von Salz- und Süßwasser führt. Das Gebiet ist von entscheidender Bedeutung für den Küstenschutz, da die Mangroven die Küste vor der erosiven Kraft der Wellen schützen. Es ist auch ein äußerst produktives Ökosystem und dient als Lebensgrundlage für die lokale Bevölkerung durch Fischerei und Reisanbau in den landeinwärts gelegenen Gebieten. Das Sumpfgebiet ist ein international anerkanntes wichtiges Vogelschutzgebiet und ein Rastplatz für unzählige Zugvögel.",
+      "descriptionAdvancedHu": "A Biombo part menti mocsárvidéke, amely a fővárostól, Bissautól nyugatra található, a mangrovék, sós mocsarak és árapály-csatornák kiterjedt és összetett mozaikja. Ez a domborzat rendkívül sík, és erősen befolyásolja az Atlanti-óceán árapálya, ami a sós és édesvíz állandó keveredéséhez vezet. A terület kulcsfontosságú a partvédelem szempontjából, mivel a mangrovék megvédik a partot a hullámok eróziós erejétől. Ez egy rendkívül termékeny ökoszisztéma is, amely a halászat és a rizstermesztés révén a helyi lakosság megélhetését biztosítja a szárazföldi területeken. A mocsárvidék nemzetközileg elismert madárvédelmi terület és számtalan vándormadár pihenőhelye.",
+      "descriptionAdvancedRo": "Mlaștina de coastă Biombo, situată la vest de capitala Bissau, este un mozaic vast și complex de mangrove, mlaștini sărate și canale de maree. Acest relief este extrem de plat și puternic influențat de mareele Atlanticului, ceea ce duce la un amestec constant de apă sărată și dulce. Zona este de o importanță crucială pentru protecția costieră, deoarece mangrovele protejează coasta de forța erozivă a valurilor. Este, de asemenea, un ecosistem extrem de productiv și servește drept sursă de trai pentru populația locală prin pescuit și cultivarea orezului în zonele interioare. Mlaștina este o zonă umedă de importanță internațională recunoscută și un loc de popas pentru nenumărate păsări migratoare.",
+      "descriptionAdvancedEn": "The Biombo coastal swamp, located west of the capital Bissau, is a vast and complex mosaic of mangroves, salt marshes, and tidal channels. This relief is extremely flat and heavily influenced by the Atlantic tides, leading to a constant mixing of salt and fresh water. The area is crucial for coastal protection, as the mangroves shield the coast from the erosive force of the waves. It is also a highly productive ecosystem, providing livelihoods for the local population through fishing and rice cultivation in the inland areas. The swamp is an internationally recognized important bird area and a stopover for countless migratory birds.",
+      "factsAdvanced": [
+        "Mosaik aus Mangroven, Salzwiesen und Gezeitenkanälen",
+        "Westlich der Hauptstadt Bissau gelegen",
+        "Extrem flaches, von den Gezeiten dominiertes Relief",
+        "Entscheidend für den natürlichen Küstenschutz",
+        "Hochproduktives Ökosystem für Fischerei und Reisanbau",
+        "International anerkanntes Vogelschutzgebiet (Important Bird Area)",
+        "Wichtiger Rastplatz für Zugvögel auf dem Ostatlantik-Zugweg",
+        "Starke Vermischung von Salz- und Süßwasser"
+      ]
+    },
+    {
+      "id": "oio-plateau-relief-v2",
+      "descriptionAdvancedDe": "Das Oio-Plateau ist eine weitläufige, sanft gewellte Hochebene, die einen Großteil der nördlichen Region Oio in Guinea-Bissau einnimmt. Im Gegensatz zu den schroffen Hochebenen im Osten ist dieses Plateau durch breite, offene Flächen und eine geringe relative Höhe gekennzeichnet. Die Böden sind relativ fruchtbar und machen die Region zu einem der landwirtschaftlichen Kerngebiete des Landes. Hier werden vor allem Cashewnüsse, Erdnüsse und Baumwolle angebaut. Die Landschaft wird von großen Feldern, kleinen Dörfern und vereinzelten großen Bäumen wie dem Baobab geprägt. Das Relief ermöglicht eine großflächige mechanisierte Landwirtschaft, die jedoch auch Herausforderungen wie Bodenerosion mit sich bringt.",
+      "descriptionAdvancedHu": "Az Oio-fennsík egy kiterjedt, enyhén hullámzó felföld, amely Bissau-Guinea északi Oio régiójának nagy részét foglalja el. A keleti meredek fennsíkokkal ellentétben ezt a fennsíkot széles, nyílt területek és alacsony relatív magasság jellemzi. A talaj viszonylag termékeny, így a régió az ország egyik legfontosabb mezőgazdasági területe. Itt főként kesudiót, földimogyorót és gyapotot termesztenek. A tájat nagy kiterjedésű szántóföldek, kis falvak és elszórtan álló nagy fák, például baobabfák jellemzik. A domborzat lehetővé teszi a nagyméretű gépesített mezőgazdaságot, ami azonban olyan kihívásokkal is jár, mint a talajerózió.",
+      "descriptionAdvancedRo": "Podișul Oio este un platou vast, lin ondulat, care ocupă o mare parte din regiunea nordică Oio din Guineea-Bissau. Spre deosebire de podișurile abrupte din est, acest platou este caracterizat de zone largi, deschise și o altitudine relativ scăzută. Solurile sunt relativ fertile, ceea ce face din regiune una dintre principalele zone agricole ale țării. Aici se cultivă în principal nuci caju, arahide și bumbac. Peisajul este dominat de câmpuri mari, sate mici și copaci mari izolați, cum ar fi baobabul. Relieful permite o agricultură mecanizată pe scară largă, care, totuși, aduce cu sine și provocări precum eroziunea solului.",
+      "descriptionAdvancedEn": "The Oio Plateau is a vast, gently undulating upland that occupies much of the northern Oio region of Guinea-Bissau. Unlike the rugged plateaus to the east, this plateau is characterized by wide, open spaces and low relative altitude. The soils are relatively fertile, making the region one of the country's agricultural heartlands. Cashews, peanuts, and cotton are the main crops grown here. The landscape is dominated by large fields, small villages, and scattered large trees such as the baobab. The relief allows for large-scale mechanized agriculture, which, however, also brings challenges such as soil erosion.",
+      "factsAdvanced": [
+        "Sanft gewellte Hochebene in der nördlichen Region Oio",
+        "Eines der landwirtschaftlichen Kerngebiete Guinea-Bissaus",
+        "Hauptanbaugebiet für Cashewnüsse und Erdnüsse",
+        "Gekennzeichnet durch weite, offene Flächen",
+        "Geringere Höhe als die Plateaus im Osten (Gabú, Boé)",
+        "Ermöglicht großflächige Landwirtschaft",
+        "Gefahr der Bodenerosion durch intensive Nutzung",
+        "Geprägt von Baobab- und Mangobäumen in der Savanne"
+      ]
+    },
+    {
+      "id": "galinhas-forest-relief-v2",
+      "descriptionAdvancedDe": "Der Wald auf der Ilha das Galinhas (Insel der Hühner), Teil des Bijagós-Archipels, ist ein wichtiges Refugium für die typische Flora und Fauna der Inselgruppe. Das Relief der Insel ist flach, aber vollständig von einem dichten, feuchten Wald bedeckt. Dieser Wald ist eine Mischung aus Primärwaldresten und sekundärer Vegetation und hat eine hohe ökologische Bedeutung. Er ist bekannt für seine reiche Vogelwelt, darunter seltene Arten, die auf den Inseln endemisch sind. Die Insel ist unbewohnt und steht unter Schutz, was zur Erhaltung dieses unberührten Zustands beiträgt. Der Wald dient als wichtiges genetisches Reservoir und als Referenzstandort für die ursprüngliche Vegetation des Bijagós-Archipels.",
+      "descriptionAdvancedHu": "Az Ilha das Galinhas (Tyúk-sziget) erdeje, a Bijagós-szigetcsoport része, fontos menedékhely a szigetcsoport tipikus növény- és állatvilága számára. A sziget domborzata sík, de teljesen sűrű, nedves erdő borítja. Ez az erdő őserdő-maradványok és másodlagos növényzet keveréke, és nagy ökológiai jelentőséggel bír. Gazdag madárvilágáról ismert, beleértve a szigeteken endemikus ritka fajokat is. A sziget lakatlan és védelem alatt áll, ami hozzájárul ennek az érintetlen állapotnak a megőrzéséhez. Az erdő fontos genetikai tározóként és referenciaterületként szolgál a Bijagós-szigetcsoport eredeti növényzete számára.",
+      "descriptionAdvancedRo": "Pădurea de pe Ilha das Galinhas (Insula Găinilor), parte a Arhipelagului Bijagós, este un refugiu important pentru flora și fauna tipice arhipelagului. Relieful insulei este plat, dar complet acoperit de o pădure densă și umedă. Această pădure este un amestec de rămășițe de pădure primară și vegetație secundară și are o mare importanță ecologică. Este cunoscută pentru avifauna sa bogată, incluzând specii rare endemice insulelor. Insula este nelocuită și se află sub protecție, ceea ce contribuie la conservarea acestei stări neatinse. Pădurea servește drept rezervor genetic important și ca sit de referință pentru vegetația originală a Arhipelagului Bijagós.",
+      "descriptionAdvancedEn": "The forest on Ilha das Galinhas (Island of Chickens), part of the Bijagós Archipelago, is an important refuge for the typical flora and fauna of the island group. The island's relief is flat but completely covered by a dense, humid forest. This forest is a mixture of primary forest remnants and secondary vegetation and has high ecological importance. It is known for its rich birdlife, including rare species endemic to the islands. The island is uninhabited and protected, which contributes to the preservation of this pristine state. The forest serves as an important genetic reservoir and as a reference site for the original vegetation of the Bijagós Archipelago.",
+      "factsAdvanced": [
+        "Dichter, feuchter Wald auf der Ilha das Galinhas",
+        "Teil des UNESCO-Biosphärenreservats Bijagós-Archipel",
+        "Die Insel ist unbewohnt und steht unter Schutz",
+        "Wichtiges Refugium für die Vogelwelt (Avifauna)",
+        "Mischung aus Primär- und Sekundärwald",
+        "Flaches Inselrelief, vollständig bewaldet",
+        "Genetisches Reservoir für die Insel-Flora",
+        "Referenzstandort für die ursprüngliche Vegetation der Bijagós"
+      ]
+    }
+  ]
+}

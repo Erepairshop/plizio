@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-parliament-building-landmarks-v2",
+      "description": "Clădirea parlamentului, un punct de reper politic important situat în inima capitalei Port of Spain.",
+      "facts": ["Port of Spain", "Simbol politic", "Centru administrativ"]
+    },
+    {
+      "id": "tt-holy-trinity-cathedral-landmarks-v2",
+      "description": "Catedrală istorică, cunoscută pentru arhitectura sa remarcabilă și importanța culturală.",
+      "facts": ["Arhitectură veche", "Sit religios", "Punct de reper"]
+    },
+    {
+      "id": "tt-cathedral-immaculate-conception-landmarks-v2",
+      "description": "O emblemă arhitecturală catolică, recunoscută pentru structura sa impresionantă și valoarea istorică.",
+      "facts": ["Catedrală", "Simbol religios", "Valoare istorică"]
+    },
+    {
+      "id": "tt-fort-king-george-tobago-landmarks-v2",
+      "description": "Fort istoric situat în Tobago, oferind panorame superbe și o privire asupra trecutului colonial.",
+      "facts": ["Tobago", "Fort istoric", "Vederea panoramică"]
+    },
+    {
+      "id": "tt-nylon-pool-landmarks-v2",
+      "description": "O piscină naturală cristalină în largul coastei Tobago, faimoasă pentru apele sale turcoaz.",
+      "facts": ["Tobago", "Piscină naturală", "Ape cristaline"]
+    },
+    {
+      "id": "tt-waterloo-temple-landmarks-v2",
+      "description": "Templu hindus construit în mare, un loc unic de rugăciune și atracție turistică spirituală.",
+      "facts": ["Templu hindus", "Construit în mare", "Punct spiritual"]
+    },
+    {
+      "id": "tt-asa-wright-nature-centre-landmarks-v2",
+      "description": "Centru de conservare a naturii, renumit pentru biodiversitatea sa bogată și observarea păsărilor.",
+      "facts": ["Conservare", "Biodiversitate", "Observarea păsărilor"]
+    },
+    {
+      "id": "tt-buccoo-reef-landmarks-v2",
+      "description": "Recif de corali spectaculos, un punct principal de atracție pentru scufundări în Tobago.",
+      "facts": ["Tobago", "Recif de corali", "Scufundări"]
+    },
+    {
+      "id": "tt-hanuman-statue-landmarks-v2",
+      "description": "Statuie monumentală a zeului Hanuman, simbol al patrimoniului cultural și religios indian din Trinidad.",
+      "facts": ["Statuie mare", "Simbol religios", "Moștenire indiană"]
+    },
+    {
+      "id": "tt-mount-st-benedict-abbey-landmarks-v2",
+      "description": "Mănăstire liniștită situată pe culmea unui deal, oferind vederi spectaculoase și pace.",
+      "facts": ["Mănăstire", "Deal panoramic", "Liniște"]
+    }
+  ]
+}

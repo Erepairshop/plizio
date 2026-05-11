@@ -1,0 +1,24 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-guayaguayare-port-economic-v2",
+      "description": "Der Hafen von Guayaguayare spielt eine zentrale Rolle für die Ölindustrie im Südosten von Trinidad. Er dient als wichtiger Umschlagplatz für Logistik und Versorgung in dieser Region.",
+      "facts": ["Südost-Trinidad", "Ölindustrie-Hafen", "Logistik-Umschlagplatz"]
+    },
+    {
+      "id": "tt-cedros-port-economic-v2",
+      "description": "Der Hafen von Cedros im Südwesten der Insel ist historisch und wirtschaftlich für den Handel und den Fischfang bedeutend. Er ist ein strategischer Punkt für lokale maritime Aktivitäten.",
+      "facts": ["Südwest-Trinidad", "Handels- und Fischerhafen", "Maritime Aktivitäten"]
+    },
+    {
+      "id": "tt-centrin-industrial-v2",
+      "description": "Centrin ist ein industrielles Zentrum, das maßgeblich an der wirtschaftlichen Entwicklung der verarbeitenden Industrie auf Trinidad beteiligt ist. Es steht für den industriellen Sektor der Insel.",
+      "facts": ["Industriezentrum", "Verarbeitende Industrie", "Wirtschaftssektor"]
+    }
+  ]
+}

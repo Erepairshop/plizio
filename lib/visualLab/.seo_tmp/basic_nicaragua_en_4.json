@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "description": "San Jose de Cusmapa is a high-altitude mountain town in the Madriz department, known for its cool climate.",
+      "facts": ["Department: Madriz", "High altitude", "Mountain town", "Northern region"]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "description": "Yalaguina is a municipality in the Madriz department, located on the Pan-American Highway.",
+      "facts": ["Department: Madriz", "Pan-Am highway", "Northern region", "Small community"]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "description": "Totogalpa is a town in the Madriz department, with a history tied to local indigenous culture.",
+      "facts": ["Department: Madriz", "Indigenous history", "Northern highlands", "Rural base"]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "description": "Palacaguina is a town in the Madriz department, historically significant for its traditional architecture.",
+      "facts": ["Department: Madriz", "Traditional town", "Northern region", "Agricultural base"]
+    },
+    {
+      "id": "santa-rosa-del-penon-leon-cities-v2",
+      "description": "Santa Rosa del Penon is a municipality in the Leon department, situated in the northwestern interior.",
+      "facts": ["Department: Leon", "Northwestern region", "Interior area", "Agricultural town"]
+    },
+    {
+      "id": "el-realejo-chinandega-cities-v2",
+      "description": "El Realejo is a historic port town in the Chinandega department, once a major colonial center.",
+      "facts": ["Department: Chinandega", "Historic port", "Colonial past", "Pacific coast"]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "description": "Santo Domingo is a mining municipality in the Chontales department, known for its gold production.",
+      "facts": ["Department: Chontales", "Mining center", "Gold production", "Central Nicaragua"]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "description": "Teustepe is a municipality in the Boaco department, surrounded by hills and agricultural lands.",
+      "facts": ["Department: Boaco", "Hilly terrain", "Central region", "Farming hub"]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "description": "Camopa is a town in the Boaco department, serving as a hub for local livestock and farming.",
+      "facts": ["Department: Boaco", "Livestock center", "Central highland", "Rural area"]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "description": "San Jose de los Remates is a town in the Boaco department, located in a scenic mountainous region.",
+      "facts": ["Department: Boaco", "Mountainous", "Central region", "Small community"]
+    }
+  ]
+}

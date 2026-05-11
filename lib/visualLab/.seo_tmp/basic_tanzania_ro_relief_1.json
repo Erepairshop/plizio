@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kilimanjaro-relief-v2",
+      "description": "Muntele Kilimanjaro este cel mai înalt vârf din Africa, un stratovulcan dormind cu ghețari care se micșorează constant din cauza schimbărilor climatice.",
+      "facts": ["Vârf: Uhuru Peak", "Altitudine: 5.895 m", "Trei conuri vulcanice", "Patrimoniu UNESCO"]
+    },
+    {
+      "id": "ngorongoro-crater-relief-v2",
+      "description": "Craterul Ngorongoro este cea mai mare calderă intactă și inactivă din lume, adăpostind o diversitate incredibilă de animale sălbatice în interiorul său.",
+      "facts": ["Calderă inactivă", "Diametru: 20 km", "Patrimoniu UNESCO", "Biodiversitate bogată"]
+    },
+    {
+      "id": "uluguru-mountains-relief-v2",
+      "description": "Munții Uluguru sunt un lanț montan cu o biodiversitate unică, fiind sursa principală de apă pentru regiunea Morogoro și orașul Dar es Salaam.",
+      "facts": ["Sursă de apă", "Biodiversitate endemică", "Altitudine mare", "Regiunea Morogoro"]
+    },
+    {
+      "id": "udzungwa-mountains-relief-v2",
+      "description": "Munții Udzungwa sunt renumiți pentru pădurile lor tropicale bogate și pentru numărul mare de specii endemice de plante și animale descoperite aici.",
+      "facts": ["Păduri tropicale", "Specii endemice", "Parc Național", "Altitudine variată"]
+    },
+    {
+      "id": "usambara-mountains-relief-v2",
+      "description": "Munții Usambara fac parte din Arcul Estic și oferă peisaje montane spectaculoase, cu o climă răcoroasă potrivită pentru agricultură și silvicultură.",
+      "facts": ["Arcul Estic", "Climă răcoroasă", "Peisaje montane", "Silvicultură"]
+    },
+    {
+      "id": "ruaha-river-valley-relief-v2",
+      "description": "Valea Râului Ruaha este o zonă vitală pentru ecosistemul parcului cu același nume, susținând populații mari de hipopotami și crocodili pe tot parcursul anului.",
+      "facts": ["Ecosistem vital", "Populații animale", "Râu important", "Parc Național"]
+    },
+    {
+      "id": "kilombero-valley-relief-v2",
+      "description": "Valea Kilombero este una dintre cele mai importante zone umede din Africa, fiind esențială pentru agricultură și conservarea speciilor rare de păsări.",
+      "facts": ["Zonă umedă", "Importanță agricolă", "Specii rare", "Bazin hidrografic"]
+    },
+    {
+      "id": "pangani-river-basin-relief-v2",
+      "description": "Bazinul Râului Pangani este o regiune geografică esențială pentru irigații, energie hidroelectrică și aprovizionarea cu apă a comunităților din nord-estul Tanzaniei.",
+      "facts": ["Energie hidro", "Sursă de irigații", "Bazin râului", "Nord-est"]
+    }
+  ]
+}

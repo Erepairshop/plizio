@@ -1,0 +1,49 @@
+{
+  "lang": "en",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shinyanga-acker-life-v2",
+      "description": "Shinyanga is centered in an agricultural region known for cotton cultivation and livestock farming. The vast fields are vital to the local economy and traditional farming practices.",
+      "facts": ["Cotton production center", "Livestock farming", "Agricultural focus", "Regional economic hub"]
+    },
+    {
+      "id": "katavi-wald-life-v2",
+      "description": "Katavi National Park is a remote wilderness area dominated by forests and wetlands. It supports large herds of buffalo and various antelope species in a pristine environment.",
+      "facts": ["Remote wilderness area", "Forested habitats", "Large buffalo herds", "Pristine ecosystem"]
+    },
+    {
+      "id": "mwanza-inseln-life-v2",
+      "description": "The islands near Mwanza within Lake Victoria serve as important fishing grounds and wildlife habitats. These locations are integral to the ecological balance of the lake.",
+      "facts": ["Lake Victoria islands", "Fishing grounds", "Ecological importance", "Wildlife sanctuary"]
+    },
+    {
+      "id": "pugu-wald-life-v2",
+      "description": "The Pugu Hills forest reserve is an ancient, biodiversity-rich area near Dar es Salaam. It serves as a vital water catchment and home to various rare species.",
+      "facts": ["Ancient forest reserve", "High biodiversity", "Water catchment area", "Near Dar es Salaam"]
+    },
+    {
+      "id": "mbeya-plantagen-life-v2",
+      "description": "Mbeya's highland climate is perfectly suited for coffee and tea plantations. These farms are crucial for both domestic consumption and the agricultural export economy.",
+      "facts": ["Highland climate", "Coffee and tea farms", "Agricultural export", "Regional trade hub"]
+    },
+    {
+      "id": "songea-farm-life-v2",
+      "description": "Songea is surrounded by extensive agricultural lands where diverse food crops are cultivated. The area supports a sustainable lifestyle rooted in traditional farming methods.",
+      "facts": ["Extensive farming", "Food crop cultivation", "Sustainable practices", "Rural community"]
+    },
+    {
+      "id": "masasi-landwirtschaft-life-v2",
+      "description": "Masasi is known for its diverse agricultural output, ranging from cashews to staple grains. The region's economy is deeply linked to successful seasonal harvesting.",
+      "facts": ["Cashew nut producer", "Staple grain farming", "Seasonal harvesting", "Agricultural region"]
+    },
+    {
+      "id": "geita-land-life-v2",
+      "description": "Geita is an area defined by both its agricultural landscape and significant mining activities. The surrounding land supports varied farming practices despite industrial development.",
+      "facts": ["Mixed-use land", "Agricultural practices", "Mining industry proximity", "Diverse landscape"]
+    }
+  ]
+}

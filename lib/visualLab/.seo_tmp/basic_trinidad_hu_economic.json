@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-guayaguayare-port-economic-v2",
+      "description": "Guayaguayare kikötője a sziget déli olajipari infrastruktúrájának egyik központi csomópontja. A létesítmény kulcsszerepet játszik a tengeri olajkitermelés logisztikai támogatásában.",
+      "facts": ["Olajipari kikötő", "Déli infrastruktúra", "Logisztikai központ", "Tengeri olajkitermelés"]
+    },
+    {
+      "id": "tt-centrin-industrial-v2",
+      "description": "A Centrin ipari komplexum az ország vegyipari és feldolgozóipari szektorának egyik jelentős bázisa. A létesítmény technológiai fejlesztései hozzájárulnak a nemzeti ipari növekedéshez.",
+      "facts": ["Ipari komplexum", "Vegyipar", "Feldolgozóipar", "Ipari növekedés"]
+    }
+  ]
+}

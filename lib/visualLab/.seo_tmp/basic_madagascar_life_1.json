@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "Der Kirindy-Wald ist ein trockenes Laubwaldgebiet, bekannt für seine einzigartige Tierwelt, einschließlich des seltenen Fossa. Er ist ein Hotspot für Naturliebhaber.",
+      "facts": ["Trockenwald", "Heimat der Fossa", "Ökotourismus", "Biodiversität"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "Der Nationalpark Tsingy de Bemaraha beherbergt spektakuläre Felsformationen und eine Vielzahl endemischer Arten. Er bietet einzigartige Erlebnisse in einer bizarren Landschaft.",
+      "facts": ["UNESCO-Welterbe", "Tsingy-Felsen", "Endemische Arten", "Abenteuer-Park"]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "description": "Die Teeplantagen von Sahambavy sind ein wichtiger Agrarstandort in der Region Fianarantsoa. Sie bieten malerische Landschaften und Einblicke in die Teeproduktion.",
+      "facts": ["Fianarantsoa", "Tee-Anbau", "Landschaftsbau", "Agrartourismus"]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Der Kinderpark in Antsirabe ist ein beliebter Erholungsort für Familien in der Stadt. Er bietet Spielmöglichkeiten in einer grünen, urbanen Umgebung.",
+      "facts": ["Antsirabe", "Familienattraktion", "Stadtpark", "Erholungsgebiet"]
+    },
+    {
+      "id": "andasibe-orchid-park-life-v2",
+      "description": "Der Orchideenpark von Andasibe ist berühmt für seine reiche Sammlung seltener malagassischer Orchideen. Er ist ein Muss für botanisch interessierte Besucher.",
+      "facts": ["Andasibe", "Botanische Vielfalt", "Orchideen-Schutz", "Naturgarten"]
+    },
+    {
+      "id": "ampefy-geyser-park-life-v2",
+      "description": "Der Geysirpark von Ampefy ist ein beeindruckendes natürliches Phänomen. Die heißen Quellen und Geysire bilden eine faszinierende geologische Attraktion.",
+      "facts": ["Ampefy", "Heißwasserquellen", "Geologische Attraktion", "Naturschauspiel"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "Der Stadtpark von Tamatave bietet eine grüne Oase im geschäftigen Hafenleben. Er ist ein beliebter Treffpunkt für Einheimische und Besucher.",
+      "facts": ["Tamatave", "Grüne Oase", "Urbaner Erholungsort", "Parkanlage"]
+    },
+    {
+      "id": "maroantsetra-vanille-farm-life-v2",
+      "description": "Maroantsetra ist ein Zentrum für den Vanilleanbau. Die Farmen bieten einen faszinierenden Einblick in den Anbau und die Verarbeitung des 'schwarzen Goldes'.",
+      "facts": ["Vanille-Zentrum", "Traditionelle Landwirtschaft", "Region Maroantsetra", "Exportgut"]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "description": "Die Korallenriffe vor Nosy Be bieten ein farbenprächtiges Unterwasserleben. Sie sind ein Paradies für Taucher und Schnorchler aus aller Welt.",
+      "facts": ["Nosy Be", "Tauchparadies", "Korallenökosystem", "Meereslebewesen"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "Der Zoo-Bereich in der Nähe von Ranomafana dient der Beobachtung und dem Schutz seltener lokaler Tierarten. Er ist eng mit dem Nationalpark verbunden.",
+      "facts": ["Ranomafana", "Tierschutz", "Beobachtungsareal", "Naturpark-nahe"]
+    },
+    {
+      "id": "lakato-lemuren-schutz-life-v2",
+      "description": "Das Schutzgebiet Lakato widmet sich dem Erhalt der Lemurenpopulationen. Es ist ein bedeutender Standort für die Forschung und den Artenschutz.",
+      "facts": ["Lemurenschutz", "Forschungsstation", "Artenschutz", "Naturschutzgebiet"]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "Die ausgedehnten Reisfelder um Antsirabe prägen das Landschaftsbild. Sie sind ein Herzstück der lokalen Landwirtschaft und ein Symbol für Madagaskar.",
+      "facts": ["Antsirabe", "Reisanbau", "Agrarlandschaft", "Traditionelle Kultur"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "Das Meeresreservat Nosy Tanikely ist ein geschütztes Gebiet mit einer unglaublichen Dichte an Meereslebewesen. Es ist ideal für Schnorcheltouren.",
+      "facts": ["Meeresreservat", "Schnorchel-Spot", "Geschützte Unterwasserwelt", "Nosy Be-Region"]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "Der botanische Garten in Toliara zeigt die faszinierende Pflanzenwelt des trockenen Südens. Er ist ein Zentrum für botanische Studien und Erholung.",
+      "facts": ["Toliara", "Trockenflora", "Botanischer Garten", "Wissenschaftlicher Ort"]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "description": "Der Kanal von Manakara ist ein bedeutender Wasserweg entlang der Ostküste. Er dient der lokalen Wirtschaft und bietet einzigartige Ausblicke auf das Hinterland.",
+      "facts": ["Ostküste", "Wasserweg", "Regionale Logistik", "Kanallandschaft"]
+    }
+  ]
+}

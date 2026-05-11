@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kipengere-range-relief-v2",
+      "description": "Munții Kipengere, cunoscuți și sub numele de Munții Livingstone, formează o barieră impresionantă deasupra Lacului Malawi, cu pajiști montane și râuri cristaline.",
+      "facts": ["Barieră montană", "Deasupra Lacului Malawi", "Pajiști montane", "Râuri cristaline"]
+    },
+    {
+      "id": "mahenge-plateau-relief-v2",
+      "description": "Platoul Mahenge este o regiune înaltă, caracterizată prin soluri fertile și un climat umed, fiind o zonă agricolă importantă pentru cultura cafelei și a orezului.",
+      "facts": ["Regiune înaltă", "Soluri fertile", "Climat umed", "Producție agricolă"]
+    },
+    {
+      "id": "matengo-highlands-relief-v2",
+      "description": "Matengo Highlands este o zonă muntoasă din sud-vestul Tanzaniei, renumită pentru sistemele sale tradiționale de cultivare în terase pe pante abrupte.",
+      "facts": ["Sud-vestul Tanzaniei", "Cultivare în terase", "Pante abrupte", "Zonă muntoasă"]
+    },
+    {
+      "id": "tunduru-plateau-relief-v2",
+      "description": "Platoul Tunduru este o zonă vastă de câmpie înaltă, acoperită în mare parte de savană și păduri de miombo, fiind puțin populată și bogată în resurse naturale.",
+      "facts": ["Câmpie înaltă", "Savană și miombo", "Resurse naturale", "Zona vastă"]
+    },
+    {
+      "id": "serengeti-plain-relief-v2",
+      "description": "Câmpiile Serengeti sunt iconice pentru ecosistemul lor vast de savană, fiind locul unde are loc cea mai mare migrație terestră a mamiferelor din lume.",
+      "facts": ["Ecosistem de savană", "Migrația animalelor", "Peisaj vast", "Patrimoniu natural"]
+    },
+    {
+      "id": "wembere-plain-relief-v2",
+      "description": "Câmpiile Wembere sunt o zonă de depresiune caracterizată prin pământuri mlaștinoase sezonier, fiind un habitat important pentru fauna locală și păsările de apă.",
+      "facts": ["Zonă de depresiune", "Mlaștini sezoniere", "Habitat local", "Păsări de apă"]
+    },
+    {
+      "id": "masasi-plateau-relief-v2",
+      "description": "Platoul Masasi este o regiune situată în sudul Tanzaniei, cu un peisaj de câmpii ușor ondulate, fiind esențial pentru economia agricolă a zonei.",
+      "facts": ["Sudul Tanzaniei", "Câmpii ondulate", "Economie agricolă", "Regiune platou"]
+    },
+    {
+      "id": "ufipa-plateau-relief-v2",
+      "description": "Platoul Ufipa este o regiune geografică izolată între Lacul Tanganyika și Lacul Rukwa, oferind un peisaj variat de platouri înalte și văi fertile.",
+      "facts": ["Între lacuri", "Peisaj variat", "Platou înalt", "Văi fertile"]
+    }
+  ]
+}

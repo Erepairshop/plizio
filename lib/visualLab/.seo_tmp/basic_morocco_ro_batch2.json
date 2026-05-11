@@ -1,0 +1,60 @@
+{
+  "lang": "ro",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oued-ziz-nature-v2",
+      "description": "Valea râului Ziz creează o oază spectaculoasă în inima deșertului, susținând palmieri și agricultură locală. Este un peisaj remarcabil care contrastează cu zonele aride înconjurătoare.",
+      "facts": ["Oază deșertică", "Vale fertilă", "Palmieri"]
+    },
+    {
+      "id": "oued-guir-nature-v2",
+      "description": "Râul Guir este un curs de apă temporar care traversează zone deșertice, contribuind la ecosistemul local după perioadele de ploaie. Este o resursă esențială pentru flora și fauna locală.",
+      "facts": ["Curs temporar", "Ecosistem deșertic", "Resursă vitală"]
+    },
+    {
+      "id": "oued-noun-nature-v2",
+      "description": "Râul Noun curge prin peisajele deșertice ale Marocului, creând ecosisteme unice de-a lungul malurilor sale. Este un punct important pentru biodiversitatea din regiunile sudice.",
+      "facts": ["Regiunea de sud", "Biodiversitate", "Ecosistem arid"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Zona râului Oued ed-Dahab oferă peisaje costiere și ecosisteme marine unice, fiind un punct focal pentru viața marină. Este o zonă distinctă în geografia sudică a Marocului.",
+      "facts": ["Peisaj costier", "Ecosistem marin", "Geografie sudică"]
+    },
+    {
+      "id": "oued-tazeka-nature-v2",
+      "description": "Valea Tazeka este situată în parcul național cu același nume, caracterizându-se prin păduri bogate și relief muntos. Este un habitat esențial pentru specii endemice de floră și faună.",
+      "facts": ["Parc Național", "Păduri bogate", "Relief muntos"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "Râul Nfiss curge din Munții Atlas, furnizând apă pentru comunitățile și terenurile agricole din aval. Valea sa oferă peisaje montane impresionante și terenuri fertile.",
+      "facts": ["Munții Atlas", "Sursă de apă", "Peisaj montan"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "Estuarul râului Tansift este un habitat important pentru păsările migratoare la vărsarea în Oceanul Atlantic. Această zonă umedă joacă un rol critic în conservarea ecosistemelor costiere.",
+      "facts": ["Estuar atlant", "Păsări migratoare", "Zonă umedă"]
+    },
+    {
+      "id": "cap-spartel-nature-v2",
+      "description": "Cap Spartel reprezintă punctul în care apele Mediteranei se întâlnesc cu Oceanul Atlantic, oferind peisaje panoramice. Este o zonă de mare importanță geografică și naturală.",
+      "facts": ["Punct geografic", "Mediterana/Atlantic", "Peisaj panoramic"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "Dealurile din jurul orașului Moulay Idriss oferă peisaje ondulate și priveliști spectaculoase asupra mediului rural. Sunt o destinație apreciată pentru drumeții și explorare istorică.",
+      "facts": ["Dealuri ondulate", "Peisaj rural", "Drumeții"]
+    },
+    {
+      "id": "high-plateaus-relief-v2",
+      "description": "Înaltele platouri din estul Marocului formează un relief vast și arid, specific zonei pre-sahariene. Aceste formațiuni geologice oferă o perspectivă asupra diversității reliefului marocan.",
+      "facts": ["Relief vast", "Zona pre-sahariană", "Geologie aridă"]
+    }
+  ]
+}

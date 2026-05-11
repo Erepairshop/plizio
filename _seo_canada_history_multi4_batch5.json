@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "canada",
+  "files": ["lib/visualLab/data/poiExtraCanadaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "fort-malden-amherstburg-history-v2",
+      "descriptionAdvancedDe": "Fort Malden in Amherstburg, Ontario, war eine britische Festung, die 1795 nach dem Jay-Vertrag erbaut wurde, um die neue Grenze zu den Vereinigten Staaten zu sichern. Während des Krieges von 1812 diente es als Hauptquartier für britische Truppen und ihre indigenen Verbündeten unter Tecumseh. Von hier aus starteten sie die erfolgreiche Belagerung von Detroit. Nach seiner Zerstörung durch die Briten beim Rückzug 1813 und einer kurzen amerikanischen Besetzung wurde das Fort wieder aufgebaut. Später diente es als Kaserne und sogar als Nervenheilanstalt. Heute ist Fort Malden eine nationale historische Stätte, die an die komplexen Grenzkonflikte und die anglo-amerikanisch-indigenen Beziehungen erinnert.",
+      "descriptionAdvancedHu": "Az amherstburgi Fort Malden egy 1795-ben, a Jay-szerződést követően épült brit erőd volt, melynek célja az Egyesült Államokkal közös új határ biztosítása volt. Az 1812-es háború alatt a brit csapatok és Tecumseh vezette őslakos szövetségeseik főhadiszállásaként szolgált. Innen indították Detroit sikeres ostromát. Miután a britek 1813-as visszavonulásukkor lerombolták és rövid időre amerikai megszállás alá került, az erődöt újjáépítették. Később laktanyaként, sőt elmegyógyintézetként is funkcionált. Ma a Fort Malden nemzeti történelmi helyszín, amely a bonyolult határkonfliktusokra és az angol-amerikai-őslakos kapcsolatokra emlékeztet.",
+      "descriptionAdvancedRo": "Fort Malden din Amherstburg, Ontario, a fost o fortăreață britanică construită în 1795, după Tratatul lui Jay, pentru a securiza noua frontieră cu Statele Unite. În timpul Războiului din 1812, a servit drept cartier general pentru trupele britanice și aliații lor indigeni sub conducerea lui Tecumseh. De aici au lansat asediul reușit al Detroitului. După ce a fost distrus de britanici la retragerea lor din 1813 și ocupat pentru scurt timp de americani, fortul a fost reconstruit. Mai târziu, a servit ca barăci și chiar ca azil de boli mintale. Astăzi, Fort Malden este un sit istoric național care comemorează conflictele complexe de frontieră și relațiile anglo-americano-indigene.",
+      "descriptionAdvancedEn": "Fort Malden in Amherstburg, Ontario, was a British fortress built in 1795 following the Jay Treaty to secure the new border with the United States. During the War of 1812, it served as the headquarters for British troops and their Indigenous allies under Tecumseh. From here, they launched the successful siege of Detroit. After being destroyed by the British upon their retreat in 1813 and briefly occupied by the Americans, the fort was rebuilt. It later served as barracks and even as a mental asylum. Today, Fort Malden is a National Historic Site commemorating the complex border conflicts and Anglo-American-Indigenous relations.",
+      "factsAdvanced": [
+        "1796 és 1813 között a brit hadsereg nyugati főhadiszállása volt Felső-Kanadában.",
+        "Az 1812-es háború kulcsfontosságú helyszíne volt.",
+        "Tecumseh, a sóuni törzsfőnök, innen irányította csapatait a britek oldalán.",
+        "Az amerikaiak 1813-ban elfoglalták és lerombolták.",
+        "A helyszínen zajlott az 1838-as Bois Blanc-i csata is.",
+        "A 19. század közepén elmegyógyintézetként is működött.",
+        "Kanada Nemzeti Történelmi Emlékhelye.",
+        "Ma a helyreállított földsáncok és egy kaszárnya látható."
+      ]
+    },
+    {
+      "id": "martello-towers-kingston-history-v2",
+      "descriptionAdvancedDe": "Die Martello-Türme in Kingston, Ontario, sind eine Gruppe von vier Verteidigungsanlagen, die in den 1840er Jahren erbaut wurden, um den Hafen von Kingston und den Rideau-Kanal vor einem möglichen amerikanischen Angriff zu schützen. Diese runden Steintürme, die auf einem britischen Design aus den Napoleonischen Kriegen basieren, waren mit schweren Kanonen auf dem Dach ausgestattet. Die vier Türme – Murney Tower, Fort Frederick Tower, Shoal Tower und Cathcart Tower – sind bemerkenswerte Beispiele für die Küstenverteidigungsstrategie des 19. Jahrhunderts. Obwohl sie nie in einem Kampf eingesetzt wurden, spielten sie eine wichtige abschreckende Rolle. Heute sind sie Teil des UNESCO-Weltkulturerbes Rideau-Kanal und als nationale historische Stätten für die Öffentlichkeit zugänglich.",
+      "descriptionAdvancedHu": "A kingstoni Martello-tornyok egy négy erődítményből álló csoport, amelyet az 1840-es években építettek Kingston kikötőjének és a Rideau-csatornának a védelmére egy esetleges amerikai támadás ellen. Ezek a kerek kőtornyok, amelyek a napóleoni háborúk idejéből származó brit terven alapulnak, a tetejükön nehézágyúkkal voltak felszerelve. A négy torony – Murney Tower, Fort Frederick Tower, Shoal Tower és Cathcart Tower – a 19. századi partvédelmi stratégia kiemelkedő példái. Bár soha nem vettek részt harcban, fontos elrettentő szerepet játszottak. Ma a Rideau-csatorna UNESCO Világörökségi helyszínének részei és nemzeti történelmi helyszínként látogathatók.",
+      "descriptionAdvancedRo": "Turnurile Martello din Kingston, Ontario, sunt un grup de patru fortificații defensive construite în anii 1840 pentru a proteja portul Kingston și Canalul Rideau de un posibil atac american. Aceste turnuri rotunde de piatră, bazate pe un design britanic din timpul Războaielor Napoleoniene, erau echipate cu tunuri grele pe acoperiș. Cele patru turnuri – Turnul Murney, Turnul Fort Frederick, Turnul Shoal și Turnul Cathcart – sunt exemple remarcabile ale strategiei de apărare de coastă din secolul al XIX-lea. Deși nu au fost niciodată folosite în luptă, au jucat un rol important de descurajare. Astăzi, fac parte din situl Patrimoniului Mondial UNESCO Canalul Rideau și sunt deschise publicului ca situri istorice naționale.",
+      "descriptionAdvancedEn": "The Martello towers in Kingston, Ontario, are a group of four defensive fortifications built in the 1840s to protect Kingston's harbour and the Rideau Canal from a potential American attack. These round stone towers, based on a British design from the Napoleonic Wars, were equipped with heavy cannons on their roofs. The four towers—Murney Tower, Fort Frederick Tower, Shoal Tower, and Cathcart Tower—are remarkable examples of 19th-century coastal defense strategy. Although they were never used in combat, they played an important deterrent role. Today, they are part of the Rideau Canal UNESCO World Heritage Site and are open to the public as National Historic Sites.",
+      "factsAdvanced": [
+        "Az 1840-es években épültek az oregoni határvita idején.",
+        "Négy torony épült Kingston védelmére: Murney, Fort Frederick, Shoal, Cathcart.",
+        "A brit birodalom partvédelmi rendszerének részei voltak.",
+        "Vastag falaik ellenálltak a korabeli ágyútűznek.",
+        "A tetejükön 360 fokban forgatható ágyúk álltak.",
+        "Soha nem vettek részt tényleges harci cselekményben.",
+        "A kingstoni erődítményrendszer UNESCO Világörökségi helyszín.",
+        "A Murney Tower ma múzeumként működik."
+      ]
+    },
+    {
+      "id": "galt-historic-railway-park-history-v2",
+      "descriptionAdvancedDe": "Der Galt Historic Railway Park in Stirling, Alberta, bewahrt einen der wichtigsten internationalen Eisenbahnknotenpunkte des späten 19. Jahrhunderts in Westkanada. Der 1890 erbaute Bahnhof war der Endpunkt der von Sir Alexander Galt finanzierten Narrow Gauge Railway und verband die Kohleminen von Lethbridge mit dem US-Bundesstaat Montana. Dieser Bahnhof war ein entscheidender Punkt für den Kohletransport, die Einwanderung und die wirtschaftliche Entwicklung der Region. Das restaurierte Bahnhofsgebäude ist eines der ältesten erhaltenen Holzbahnhöfe in Alberta und bietet Einblicke in das Leben und die Arbeit an der Grenze im Zeitalter der Dampfeisenbahn. Der Park ist ein Zeugnis für die entscheidende Rolle der Eisenbahn bei der Besiedlung des kanadischen Westens.",
+      "descriptionAdvancedHu": "A Galt Történelmi Vasúti Park Stirlingben, Albertában, Nyugat-Kanada egyik legfontosabb, 19. század végi nemzetközi vasúti csomópontját őrzi. Az 1890-ben épült állomás a Sir Alexander Galt által finanszírozott keskeny nyomtávú vasút végállomása volt, és összekötötte Lethbridge szénbányáit az amerikai Montanával. Ez az állomás kulcsfontosságú pontja volt a szénszállításnak, a bevándorlásnak és a régió gazdasági fejlődésének. A felújított állomásépület Alberta egyik legrégebbi fennmaradt faépítésű állomása, és bepillantást enged a gőzvasút korabeli határvidéki életbe és munkába. A park a vasút kanadai nyugat betelepítésében betöltött döntő szerepének tanúbizonysága.",
+      "descriptionAdvancedRo": "Parcul Feroviar Istoric Galt din Stirling, Alberta, păstrează unul dintre cele mai importante noduri feroviare internaționale de la sfârșitul secolului al XIX-lea din vestul Canadei. Gara, construită în 1890, a fost terminalul căii ferate cu ecartament îngust finanțată de Sir Alexander Galt, legând minele de cărbune din Lethbridge de statul american Montana. Această gară a fost un punct crucial pentru transportul cărbunelui, imigrație și dezvoltarea economică a regiunii. Clădirea restaurată a gării este una dintre cele mai vechi gări din lemn care au supraviețuit în Alberta și oferă o perspectivă asupra vieții și muncii la frontieră în epoca trenurilor cu aburi. Parcul este o mărturie a rolului decisiv al căilor ferate în colonizarea vestului canadian.",
+      "descriptionAdvancedEn": "The Galt Historic Railway Park in Stirling, Alberta, preserves one of Western Canada's most important late 19th-century international railway junctions. The station, built in 1890, was the terminus for the narrow-gauge railway financed by Sir Alexander Galt, linking the coal mines of Lethbridge to the U.S. state of Montana. This station was a crucial point for coal transportation, immigration, and the economic development of the region. The restored station building is one of the oldest surviving wooden stations in Alberta and offers insights into life and work on the frontier in the age of steam trains. The park stands as a testament to the decisive role of the railway in the settlement of the Canadian West.",
+      "factsAdvanced": [
+        "Az 1890-ben épült állomás egy nemzetközi vasúti határátkelő volt.",
+        "Összekötötte a dél-albertai szénmezőket Montanával, USA.",
+        "Sir Alexander Galt és fia, Elliot Galt finanszírozta a vonalat.",
+        "Alberta legidősebb fennmaradt fa állomásépülete.",
+        "A Northwest Mounted Police (Északnyugati Lovasrendőrség) is használta.",
+        "Az állomás vám- és bevándorlási irodaként is működött.",
+        "A park egy Alberta Tartományi Történelmi Emlékhely.",
+        "A vasút döntő szerepet játszott a régió betelepítésében."
+      ]
+    },
+    {
+      "id": "britannia-mine-museum-history-v2",
+      "descriptionAdvancedDe": "Das Britannia Mine Museum, eine nationale historische Stätte, befindet sich am Sea-to-Sky Highway in British Columbia. Die Britannia Mine war einst die größte Kupfermine im Britischen Empire und von 1904 bis 1974 in Betrieb. Auf ihrem Höhepunkt in den 1920er und 1930er Jahren produzierte sie erhebliche Mengen an Kupfer und anderen Metallen und trug maßgeblich zur wirtschaftlichen Entwicklung der Provinz bei. Das Museum bietet Besuchern die Möglichkeit, mit einem Minenzug in einen Stollen einzufahren und die beeindruckende Größe des Mühlengebäudes Nr. 3 zu erleben, eines der letzten erhaltenen Schwerkraft-Konzentratoren in Nordamerika. Es erzählt die Geschichte des Bergbaus, der technologischen Innovation und des Lebens in einer abgelegenen Bergbaugemeinde.",
+      "descriptionAdvancedHu": "A Britannia Bánya Múzeum egy nemzeti történelmi emlékhely a Sea-to-Sky Highway mentén, Brit Columbiában. A Britannia bánya egykor a Brit Birodalom legnagyobb rézbányája volt, 1904 és 1974 között működött. Csúcspontján, az 1920-as és 1930-as években, jelentős mennyiségű rezet és más fémeket termelt, hozzájárulva a tartomány gazdasági fejlődéséhez. A múzeum lehetőséget kínál a látogatóknak, hogy egy bányavonattal behajtsanak egy tárnába, és megtapasztalják a 3-as számú malomépület lenyűgöző méretét, amely az egyik utolsó megmaradt gravitációs ércdúsító Észak-Amerikában. A múzeum a bányászat, a technológiai innováció és egy elszigetelt bányászközösség életének történetét meséli el.",
+      "descriptionAdvancedRo": "Muzeul Minier Britannia, un sit istoric național, este situat pe autostrada Sea-to-Sky din Columbia Britanică. Mina Britannia a fost cândva cea mai mare mină de cupru din Imperiul Britanic, funcționând între 1904 și 1974. La apogeul său, în anii 1920 și 1930, a produs cantități semnificative de cupru și alte metale, contribuind major la dezvoltarea economică a provinciei. Muzeul oferă vizitatorilor șansa de a intra într-o galerie cu un tren minier și de a experimenta dimensiunea impresionantă a clădirii Morii nr. 3, unul dintre ultimele concentratoare gravitaționale care au supraviețuit în America de Nord. Spune povestea mineritului, a inovației tehnologice și a vieții într-o comunitate minieră izolată.",
+      "descriptionAdvancedEn": "The Britannia Mine Museum, a National Historic Site, is located on the Sea-to-Sky Highway in British Columbia. The Britannia Mine was once the largest copper mine in the British Empire, operating from 1904 to 1974. At its peak in the 1920s and 1930s, it produced significant amounts of copper and other metals, contributing majorly to the province's economic development. The museum offers visitors a chance to ride a mine train into a tunnel and experience the impressive scale of Mill No. 3, one of the last surviving gravity-fed concentrators in North America. It tells the story of mining, technological innovation, and life in a remote mining community.",
+      "factsAdvanced": [
+        "1904 és 1974 között működött.",
+        "Egykor a Brit Birodalom legnagyobb rézbányája volt.",
+        "Több mint 60 000 ember dolgozott itt a 70 év alatt.",
+        "A 20 szintes 3. számú ércdúsító épület nemzeti emlékhely.",
+        "A bánya több mint 210 km hosszú alagútrendszerrel rendelkezik.",
+        "A múzeum egy földalatti bányavonatos túrát is kínál.",
+        "1915-ben egy földcsuszamlás 56 ember halálát okozta.",
+        "A helyszín jelentős környezeti kármentesítésen esett át."
+      ]
+    },
+    {
+      "id": "bar-u-ranch-history-v2",
+      "descriptionAdvancedDe": "Die Bar U Ranch, eine nationale historische Stätte in den Ausläufern von Alberta, ist ein Denkmal für die große Ära der Rinderzucht im kanadischen Westen. Gegründet in den späten 1880er Jahren, war sie eine der führenden Ranches Kanadas und erstreckte sich über Tausende von Hektar. Die Ranch spielte eine entscheidende Rolle bei der Entwicklung der kanadischen Rinderindustrie und war bekannt für ihre Percheron-Zuchtpferde. Berühmte Persönlichkeiten wie der Sundance Kid arbeiteten hier. Die erhaltenen historischen Gebäude, darunter das Haupthaus, Scheunen und Werkstätten, bieten einen authentischen Einblick in das Leben und die Arbeit der Cowboys und Rancher im späten 19. und frühen 20. Jahrhundert. Die Stätte feiert die Kultur und das Erbe des Ranching in Kanada.",
+      "descriptionAdvancedHu": "A Bar U Ranch, egy nemzeti történelmi emlékhely Alberta lábainál, a kanadai nyugat nagy marhatenyésztési korszakának emlékműve. Az 1880-as évek végén alapított farm Kanada egyik vezető farmja volt, amely több ezer hektáron terült el. A farm döntő szerepet játszott a kanadai szarvasmarha-ipar fejlődésében, és híres volt Percheron tenyészlovairól. Olyan híres személyiségek is dolgoztak itt, mint a Sundance Kid. A megőrzött történelmi épületek, köztük a főépület, az istállók és a műhelyek, hiteles betekintést nyújtanak a cowboyok és a farmerek életébe és munkájába a 19. század végén és a 20. század elején. A helyszín a kanadai állattenyésztés kultúráját és örökségét ünnepli.",
+      "descriptionAdvancedRo": "Ferma Bar U, un sit istoric național situat la poalele dealurilor din Alberta, este un monument al marii ere a creșterii vitelor în vestul canadian. Înființată la sfârșitul anilor 1880, a fost una dintre cele mai importante ferme din Canada, întinzându-se pe mii de hectare. Ferma a jucat un rol crucial în dezvoltarea industriei de bovine din Canada și a fost renumită pentru caii săi de prăsilă Percheron. Aici au lucrat personalități celebre precum Sundance Kid. Clădirile istorice conservate, inclusiv casa principală, hambarele și atelierele, oferă o perspectivă autentică asupra vieții și muncii cowboy-ilor și fermierilor de la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea. Situl celebrează cultura și moștenirea creșterii animalelor în Canada.",
+      "descriptionAdvancedEn": "The Bar U Ranch, a National Historic Site located in the foothills of Alberta, is a monument to the great era of ranching in the Canadian West. Established in the late 1880s, it was one of Canada's leading ranches, sprawling over thousands of acres. The ranch played a crucial role in the development of Canada's cattle industry and was renowned for its Percheron breeding horses. Famous figures like the Sundance Kid worked here. The preserved historic buildings, including the main house, barns, and workshops, offer an authentic glimpse into the life and work of cowboys and ranchers in the late 19th and early 20th centuries. The site celebrates the culture and heritage of ranching in Canada.",
+      "factsAdvanced": [
+        "1882-ben alapították, és egyike volt a 'Négy Nagy' albertai farmnak.",
+        "Több mint 64 000 hektáron terült el fénykorában.",
+        "Híres volt a Percheron lovak tenyésztéséről.",
+        "A legenda szerint a Sundance Kid is dolgozott itt 1891-ben.",
+        "A walesi herceg (később VIII. Eduárd király) 1919-ben látogatta meg a farmot.",
+        "A Parks Canada (Kanadai Parkok) gondozza, mint nemzeti történelmi emlékhelyet.",
+        "Több mint 35 történelmi épület maradt fenn.",
+        "A helyszín a kanadai marhatenyésztés történetét mutatja be."
+      ]
+    }
+  ]
+}

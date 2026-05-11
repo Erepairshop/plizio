@@ -1,0 +1,29 @@
+{
+  "lang": "ro",
+  "country": "Indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cilegon-industrial-zone-economic-v2",
+      "description": "Cunoscut drept „Orașul Oțelului”, acest centru industrial din provincia Banten găzduiește cele mai mari facilități de producție siderurgică și petrochimică din Indonezia.",
+      "facts": [
+        "Sediul PT Krakatau Steel, cel mai mare producător regional",
+        "Situat strategic la intrarea în strâmtoarea Sunda",
+        "Principalul centru al industriei grele din vestul Javei",
+        "Hub major pentru exportul produselor chimice și oțelului"
+      ]
+    },
+    {
+      "id": "tanggguh-lng-plant-economic-v2",
+      "description": "Situat în golful Bintuni din Papua de Vest, acest complex masiv de lichefiere a gazelor naturale este unul dintre principalii piloni energetici ai Indoneziei.",
+      "facts": [
+        "Operat de BP în colaborare cu parteneri internaționali",
+        "Extrage gaze din rezervele offshore ale golfului Bintuni",
+        "Exportă GNL în principal către China, Japonia și Coreea",
+        "Unul dintre cele mai mari proiecte de investiții din țară"
+      ]
+    }
+  ]
+}

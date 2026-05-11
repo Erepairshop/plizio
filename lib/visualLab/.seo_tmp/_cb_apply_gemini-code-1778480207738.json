@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "herois-patria-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Monument der Helden des Vaterlandes (Heróis da Pátria) ist ein zentraler Pfeiler der nationalen Identität in Bissau. Es befindet sich auf einem weitläufigen Platz in unmittelbarer Nähe zum Präsidentenpalast und dient als zentrale Gedenkstätte für die Kämpfer, die ihr Leben im Unabhängigkeitskrieg gegen die portugiesische Kolonialherrschaft opferten. Die Architektur des Denkmals ist durch eine heroische, sozialistisch geprägte Ästhetik gekennzeichnet, die typisch für die postkoloniale Ära Westafrikas ist. Es zeigt oft stilisierte Darstellungen von Soldaten und Zivilisten, die gemeinsam für die Freiheit einstehen. Der Platz ist nicht nur ein Ort des stillen Gedenkens, sondern auch der Schauplatz für die wichtigsten staatlichen Zeremonien, Militärparaden und politischen Kundgebungen des Landes. Die Umgebung des Monuments wurde in den letzten Jahren renoviert, um seine Bedeutung als nationales Heiligtum zu unterstreichen. Für die Bürger von Guinea-Bissau symbolisiert dieser Ort den hohen Preis der Souveränität und die Einigkeit der verschiedenen ethnischen Gruppen im Kampf für ein gemeinsames Ziel. Die Präsenz der Nationalflagge und die ständige Bewachung durch Ehrenposten verleihen dem Ort eine feierliche und respektgebietende Atmosphäre.",
+        "hu": "A Haza Hőseinek emlékműve (Heróis da Pátria) Bissau politikai és szimbolikus szívében található, közvetlenül az elnöki palota szomszédságában. Ez a monumentális alkotás a portugál gyarmati uralom elleni függetlenségi háború mártírjainak és harcosainak állít emléket. Az emlékmű stílusa a posztkoloniális korszakra jellemző heroikus realizmust tükrözi, amely az összefogást és az áldozatvállalást hirdeti. A talapzaton gyakran láthatók a felszabadító harc kulcsfiguráinak ábrázolásai, valamint a nép egységét jelképező motívumok. A tér nem csupán egy statikus emlékhely, hanem a legfontosabb állami ünnepségek, katonai tiszteletadások és nemzeti megemlékezések helyszíne is. Az emlékmű környezete az ország szuverenitásának legfontosabb reprezentatív tere, ahol a múltbéli küzdelmek emléke találkozik a modern államiság intézményeivel. A helyi lakosok számára az emlékmű a szabadság és a nemzeti méltóság örök mementója, amely emlékeztet a függetlenség elnyerésének nehéz útjára. Az éjszakai kivilágítás és a díszőrség jelenléte tovább hangsúlyozza a helyszín szakrális jellegét a bissaui városképben.",
+        "ro": "Monumentul Eroilor Patriei (Heróis da Pátria) reprezintă punctul central al onoarei naționale în Bissau, fiind situat strategic în proximitatea Palatului Prezidențial. Acest ansamblu monumental a fost ridicat pentru a onora memoria celor care au luptat și au căzut în lungul război de eliberare împotriva administrației coloniale portugheze. Arhitectura monumentului adoptă un stil simbolic, evidențiind unitatea dintre popor și forțele armate revoluționare. Este locul unde se desfășoară principalele ceremonii de stat, depuneri de coroane și parade militare, în special cu ocazia Zilei Independenței. Monumentul nu servește doar ca omagiu pentru lideri precum Amílcar Cabral, ci și pentru miile de combatanți anonimi din toate regiunile țării. Piața din jurul monumentului a fost recent modernizată, devenind un spațiu de promenadă și reflecție pentru cetățeni și vizitatori. Semnificația sa transcende politicul, fiind un simbol al rezilienței naționale și al victoriei autodeterminării africane. Prezența constantă a drapelului național și solemnitatea locului fac din acesta unul dintre cele mai respectate repere istorice din întreaga Guinee-Bissau.",
+        "en": "The Heroes of the Fatherland Monument (Heróis da Pátria) is a cornerstone of national identity in Bissau, located in a grand square near the Presidential Palace. It stands as a solemn tribute to the fighters and martyrs who sacrificed their lives during the protracted war for independence against Portuguese colonial rule. The monument's design embodies the heroic aesthetic common in post-independence African states, emphasizing unity, struggle, and eventual triumph. This site is the primary venue for significant state ceremonies, military parades, and official commemorations, marking it as the symbolic heart of the republic. Beyond its political function, the monument serves as a public space where the history of the liberation struggle is taught to younger generations. The surrounding area is characterized by wide boulevards and government buildings, reinforcing the site's importance within the nation's capital. For the people of Guinea-Bissau, it represents the collective courage of diverse ethnic groups united under the banner of sovereignty. The site is meticulously maintained and often features a ceremonial guard, reflecting its status as a hallowed ground of national memory."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Monument befindet sich auf der Praça der Heróis da Pátria.",
+          "Es liegt in unmittelbarer Nähe zum ehemaligen Gouverneurspalast.",
+          "Der Ort ist Schauplatz der offiziellen Feiern zum Unabhängigkeitstag.",
+          "Die Gestaltung erinnert an die revolutionären Bewegungen der 1970er Jahre.",
+          "Das Denkmal wird nachts oft in den Nationalfarben beleuchtet.",
+          "Es ehrt sowohl politische Anführer als auch einfache Guerillakämpfer."
+        ],
+        "hu": [
+          "Az emlékmű Bissau központjában, az elnöki palota mellett áll.",
+          "A helyszín a nemzeti ünnepségek és katonai parádék fő tere.",
+          "Az alkotás a PAIGC szabadságharcosainak tiszteletére készült.",
+          "A tér fontos találkozóhely a diplomáciai látogatások során is.",
+          "Stílusa a modern afrikai monumentális szobrászat jegyeit hordozza.",
+          "Az emlékmű a guineai nép egységét és szabadságvágyát jelképezi."
+        ],
+        "ro": [
+          "Monumentul este situat în centrul civic al capitalei Bissau.",
+          "Găzduiește flacăra eternă în memoria martirilor independenței.",
+          "Este principalul reper pentru paradele de la 24 septembrie.",
+          "Designul reflectă ideologia de eliberare națională a anilor '70.",
+          "Zona a fost renovată integral pentru a găzdui evenimente de protocol.",
+          "Simbolizează trecerea de la rezistența armată la statul suveran."
+        ],
+        "en": [
+          "The monument is located on the main square near the Presidential Palace.",
+          "It serves as the central site for Independence Day celebrations.",
+          "The design honors the soldiers of the PAIGC liberation army.",
+          "It is a key landmark for official state and diplomatic functions.",
+          "The surrounding plaza is one of the most prominent public spaces in Bissau.",
+          "It symbolizes the victory of the struggle against colonial domination."
+        ]
+      }
+    },
+    {
+      "id": "farim-historic-town-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die historische Stadt Farim, am Nordufer des Rio Cacheu gelegen, ist eine der ältesten kolonialen Gründungen im Landesinneren von Guinea-Bissau. Sie wurde 1641 als befestigter Außenposten errichtet, um den portugiesischen Handel vor den Angriffen lokaler Mandinka-Königreiche zu schützen und die Schifffahrt auf dem Fluss zu kontrollieren. Der Name leitet sich vom Titel 'Farim' ab, den die lokalen Herrscher der Mandinka trugen. Über Jahrhunderte war die Stadt ein isolierter, aber strategisch wichtiger Punkt für den Austausch von Waren wie Sklaven, Wachs und später Erdnüssen. Die Architektur von Farim bewahrt Spuren seiner Bedeutung als Handelszentrum, mit alten Lagerhäusern und Verwaltungsgebäuden, die sich entlang des Flussufers erstrecken. Im 19. Jahrhundert war die Stadt ein wichtiger Stützpunkt während der kolonialen 'Befriedungskampagnen'. Trotz ihrer abgelegenen Lage entwickelte Farim eine multikulturelle Gesellschaft, in der Händler aus verschiedenen Teilen Westafrikas und Europas aufeinandertrafen. Heute ist Farim eine charmante Stadt, in der die koloniale Geschichte in den verfallenden Fassaden und den breiten, staubigen Straßen noch immer spürbar ist. Die Stadt dient als Tor zur nördlichen Grenze und bewahrt die Erinnerung an die schwierige Koexistenz zwischen europäischen Händlern und afrikanischen Reichen.",
+        "hu": "Farim történelmi városa a Cacheu-folyó északi partján fekszik, és Guinea-Bissau egyik legrégebbi, szárazföldi gyarmati alapítású települése. A portugálok 1641-ben hozták létre erődített állomásként, hogy megvédjék kereskedelmi érdekeiket a mandinka harcosok támadásaitól és ellenőrizzék a folyami forgalmat. A város neve a mandinka uralkodók címéből ('Farim') ered, ami jelzi a helyi hatalmi struktúrákkal való szoros kapcsolatot. Évszázadokon át Farim elszigetelt, de létfontosságú csomópont volt a rabszolgák, a viasz és később a földimogyoró kereskedelmében. Az óváros építészete ma is őrzi a múlt nyomait: a folyóparton régi raktárak és adminisztratív épületek sorakoznak, amelyek a település egykori gazdasági súlyát hirdetik. A 19. században a város fontos katonai bázis volt a gyarmati terjeszkedés során. Farim különlegessége a multikulturális múltja, ahol európai kereskedők, zöld-foki-szigeteki tisztviselők és helyi törzsek alakítottak ki egy sajátos közösséget. Bár a modern infrastruktúra fejlődése lassú, a város máig megőrizte archaikus jellegét, ahol a poros utcák és a málló vakolatú villák között tapintható a történelem. A település fontos kapu Szenegál felé, és a folyóparti naplementék ma is ugyanazt a hangulatot árasztják, mint a kalandorok idejében.",
+        "ro": "Orașul istoric Farim, situat pe malul nordic al râului Cacheu, reprezintă una dintre cele mai vechi așezări coloniale din interiorul Guineei-Bissau. Fondat în 1641 ca un avanpost fortificat, Farim avea misiunea strategică de a proteja interesele comerciale portugheze împotriva regatelor Mandinka și de a securiza rutele fluviale. Numele său provine de la titlul nobiliar 'Farim' purtat de căpeteniile locale, reflectând o istorie complexă de negocieri și conflicte între europeni și africani. Timp de secole, orașul a fost un centru vital pentru colectarea resurselor precum ceara, pieile de animale și, ulterior, arahidele destinate exportului. Arhitectura din zona istorică păstrează vestigii ale vechilor antrepozite și reședințe administrative care flanchează malul apei. În secolul al XIX-lea, Farim a servit drept bază militară esențială în timpul campaniilor de extindere colonială. Astăzi, Farim păstrează o atmosferă liniștită, unde clădirile în stil colonial, deși erodate de timp, oferă o imagine autentică a urbanismului lusitan de frontieră. Orașul rămâne un punct de tranzit important către granița cu Senegal, fiind un loc unde tradiția orală Mandinka se împletește cu moștenirea scrisă a arhivelor coloniale, oferind o perspectivă rară asupra istoriei profunde a regiunii.",
+        "en": "The historic town of Farim, perched on the northern bank of the Cacheu River, is one of Guinea-Bissau's oldest inland colonial settlements. Established in 1641 as a fortified outpost, it was intended to protect Portuguese trade from the incursions of local Mandinka kingdoms and to control riverine traffic. The town’s name is derived from 'Farim,' the title held by local Mandinka rulers, signaling a long history of interaction between colonial forces and indigenous power structures. For centuries, Farim acted as a strategic hub for the exchange of goods such as beeswax, hides, and later, groundnuts. The architecture of the historic quarter features weathered warehouses and administrative buildings along the riverfront, reflecting its past economic importance. During the 19th century, it served as a critical military base during colonial expansion efforts. Today, Farim is a quiet yet evocative town where the colonial legacy is visible in its broad streets and decaying pastel-colored villas. It remains a key transit point to the northern border with Senegal and a site where the stories of early European explorers and Mandinka warriors converge. The town offers a unique glimpse into the historical resilience of inland trade networks in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Farim wurde 1641 von den Portugiesen als Festung gegründet.",
+          "Der Name stammt vom Mandinka-Wort für 'König' oder 'Herrscher'.",
+          "Die Stadt war ein bedeutender Handelsplatz für den Export von Erdnüssen.",
+          "Farim liegt an einer strategisch wichtigen Stelle des Rio Cacheu.",
+          "Im 19. Jahrhundert war es Schauplatz zahlreicher Grenzkonflikte.",
+          "Die Architektur zeigt typische Merkmale des portugiesischen Hinterland-Stils."
+        ],
+        "hu": [
+          "A várost 1641-ben alapították, eredetileg katonai erődként.",
+          "Nevét a helyi mandinka uralkodók tiszteletére kapta.",
+          "Fontos kereskedelmi központ volt a viasz és a rabszolgák korában.",
+          "A Cacheu-folyó itt még jelentős mélységű, ami segítette a hajózást.",
+          "Farim óvárosában ma is állnak a 19. századi kereskedőházak.",
+          "A település fontos összekötő kapu a mai Szenegál irányába."
+        ],
+        "ro": [
+          "Farim a fost înființat în 1641 pentru a securiza comerțul cu ceară.",
+          "Este unul dintre puținele orașe din interior cu un plan urbanistic vechi.",
+          "Râul Cacheu a permis accesul navelor de mare tonaj până aici.",
+          "A servit drept garnizoană principală pentru protecția frontierei de nord.",
+          "Moștenirea culturală Mandinka este predominantă în tradițiile locale.",
+          "Clădirile coloniale sunt construite cu ziduri groase pentru a rezista căldurii."
+        ],
+        "en": [
+          "Farim was established in 1641 as a fortified river port.",
+          "The town's name reflects the title of local Mandinka chieftains.",
+          "It was a major center for the groundnut trade in the early 20th century.",
+          "The Cacheu River provided a vital link to the Atlantic coast.",
+          "Historical records describe it as a cosmopolitan inland trade station.",
+          "Many of the colonial-era administrative buildings are still in use."
+        ]
+      }
+    },
+    {
+      "id": "fulacunda-ruins-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kolonialruinen von Fulacunda im Herzen der Region Quínara sind ein stilles Zeugnis der einstigen administrativen Bedeutung dieses Ortes. Während der portugiesischen Herrschaft fungierte Fulacunda als wichtiger Verwaltungssitz für den Süden des Landes und war ein Knotenpunkt für die landwirtschaftliche Erfassung der Region. Die Architektur der heute teilweise verfallenen Gebäude zeigt den typischen Stil der Jahrhundertwende, mit massiven Mauern, hohen Decken und umlaufenden Veranden, die für das tropische Klima konzipiert waren. Nach der Unabhängigkeit und aufgrund der Verschiebung der wirtschaftlichen Schwerpunkte verfielen viele dieser Gebäude, was ihnen heute eine fast geisterhafte, aber faszinierende Aura verleiht. Zwischen den Ruinen der alten Post, der Schule und der Residenz des Distriktverwalters wuchert heute die tropische Vegetation, was die Vergänglichkeit der kolonialen Macht eindrucksvoll illustriert. Fulacunda war zudem ein Ort, an dem die lokale Bevölkerung in direkten Kontakt mit dem kolonialen Unterdrückungsapparat kam, was den Ort zu einem wichtigen Teil des kollektiven Gedächtnisses macht. Ein Besuch dieser Ruinen bietet eine melancholische Perspektive auf die Geschichte von Quínara und zeigt die architektonischen Ambitionen, die einst tief in den guineischen Busch getragen wurden.",
+        "hu": "Fulacunda gyarmati romjai Quínara régió szívében találhatók, és néma tanúi a település egykori adminisztratív jelentőségének. A portugál uralom alatt Fulacunda fontos járási központként szolgált, ahol a déli országrész mezőgazdasági termelését és közigazgatását irányították. Az épületek maradványai a 20. század eleji gyarmati stílust tükrözik: vastag falak, tágas verandák és magas tetőszerkezetek jellemzik őket, amelyeket a trópusi hőség elleni védekezésre terveztek. A függetlenség elnyerése után a gazdasági hangsúlyok áthelyeződtek, és a város korábbi központja pusztulásnak indult, mára pedig misztikus, kísérteties látványt nyújt. Az egykori posta, iskola és a körzeti kormányzó rezidenciájának romjai között ma már a dzsungel növényzete az úr, ami drámai módon szemlélteti a gyarmati hatalom mulandóságát. Fulacunda történelmi jelentőségét fokozza, hogy a helyi lakosság számára ez a helyszín jelentette a közvetlen kapcsolatot a gyarmati államgépezettel. A romok látogatása különleges időutazás, amely bemutatja Quínara múltját és azt az építészeti törekvést, amellyel az európaiak megpróbálták átformálni a guineai vadont.",
+        "ro": "Ruinele coloniale din Fulacunda, situate în regiunea Quínara, reprezintă un vestigiu melancolic al importanței administrative pe care această localitate a deținut-o în trecut. În perioada dominației portugheze, Fulacunda a fost un centru logistic și administrativ crucial pentru sudul țării, coordonând colectarea produselor agricole din zonele înconjurătoare. Arhitectura clădirilor, acum aflate în diverse stadii de degradare, păstrează elemente specifice stilului colonial de la începutul secolului XX, cu verande largi și structuri masive din piatră. După obținerea independenței, declinul economic al regiunii a dus la abandonarea multor edificii oficiale, care astăzi sunt treptat revendicate de vegetația luxuriantă. Vizitarea acestor ruine, printre care se numără vechea școală și sediul administrativ, oferă o perspectivă unică asupra modului în care puterea colonială încerca să își exercite controlul în zonele izolate ale Africii de Vest. Fulacunda rămâne un punct de interes pentru cei pasionați de arheologia industrială și istoria socială, fiind un martor tăcut al transformărilor politice care au modelat Guineea-Bissau modernă. Atmosfera sitului este una de liniște profundă, invitând la reflecție asupra trecerii timpului și a fragilității structurilor umane în fața naturii tropicale.",
+        "en": "The colonial ruins of Fulacunda, located in the heart of the Quínara region, stand as silent witnesses to the town's former administrative importance. During the Portuguese era, Fulacunda served as a vital hub for southern regional governance and agricultural oversight. The architecture of the remaining structures displays the characteristic style of the early 20th century, with thick masonry, high ceilings, and expansive verandas designed to combat the tropical heat. Since independence and the subsequent shift in economic priorities, many of these official buildings have fallen into decay, creating a hauntingly beautiful landscape where nature is slowly reclaiming the brickwork. The ruins of the former post office, school, and district administrator's residence provide a physical record of the colonial presence in the interior. Fulacunda was a place where local communities directly encountered the colonial state apparatus, making it a significant site for collective memory and historical study. A visit to these ruins offers a somber perspective on the history of Quínara and illustrates the architectural ambitions that were once extended deep into the Bissau-Guinean bush. It remains a poignant reminder of a past era and the inevitable cycle of rise and decline in colonial history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fulacunda war ein strategisches Verwaltungszentrum in der Region Quínara.",
+          "Die Ruinen stammen hauptsächlich aus der Zeit zwischen 1910 und 1940.",
+          "Das Gebäude der alten Verwaltung ist das markanteste Bauwerk vor Ort.",
+          "Die Region war historisch für den Anbau von Ölpalmen bekannt.",
+          "Viele Gebäude wurden während der Kämpfe in den 1970ern beschädigt.",
+          "Heute wird Fulacunda als Ausgangspunkt für Touren in die Natur genutzt."
+        ],
+        "hu": [
+          "Fulacunda a gyarmati időkben Quínara régió székhelye volt.",
+          "Az épületek a 20. század első felének tipikus trópusi stílusát mutatják.",
+          "A romok között látható az egykori járási kapitányság épülete is.",
+          "A város hanyatlása a függetlenség utáni elvándorlás miatt gyorsult fel.",
+          "A terület ma gazdag madárvilágáról és érintetlen erdőiről ismert.",
+          "A romos villák kertjeiben még láthatók az egykori gyarmati dísznövények."
+        ],
+        "ro": [
+          "Fulacunda a fost un punct cheie pentru colectarea uleiului de palmier.",
+          "Situl cuprinde resturile unor vile comerciale și clădiri publice.",
+          "Arhitectura a fost influențată de stilul regiunii mediteraneene.",
+          "Orașul este situat în apropierea brațului de mare Rio Grande de Buba.",
+          "Ruinele sunt considerate un monument al istoriei administrative locale.",
+          "Natura a integrat zidurile vechi în ecosistemul forestier din jur."
+        ],
+        "en": [
+          "Fulacunda served as the administrative capital of the Quínara district.",
+          "The ruins represent a period of intense colonial expansion in the south.",
+          "Key structures include the old post office and colonial school house.",
+          "The town was a primary collection point for local palm oil production.",
+          "Its decline began after the capital was moved to its current location.",
+          "The site is often visited by researchers studying colonial urban history."
+        ]
+      }
+    },
+    {
+      "id": "buba-historic-port-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der historische Hafen von Buba liegt an der Spitze des Rio Grande de Buba, einem tiefen Meeresarm, der weit in das Landesinnere von Guinea-Bissau reicht. Aufgrund dieser außergewöhnlichen geografischen Lage war der Hafen über Jahrhunderte ein strategischer Knotenpunkt für den Handel und die Logistik. Schon früh nutzten die Portugiesen diesen natürlichen Tiefwasserhafen, um Waren aus den südlichen Regenwäldern und den östlichen Savannen zu verschiffen. Im 19. und 20. Jahrhundert entwickelte sich Buba zu einem bedeutenden Zentrum für den Export von Tropenholz, Palmöl und später Cashewnüssen. Die Architektur des Hafengeländes ist funktional geprägt, mit alten Kaianlagen, massiven Lagerhäusern und den Überresten kolonialer Zollstationen. Während des Unabhängigkeitskrieges war Buba aufgrund seiner strategischen Lage und des Hafens ein hart umkämpftes Ziel, da die Kontrolle über den Wasserweg den Zugang zum gesamten Süden sicherte. Heute ist der Hafen weiterhin in Betrieb, wenn auch in kleinerem Maßstab, und bewahrt die Atmosphäre eines geschäftigen Außenpostens. Der Kontrast zwischen den rostigen Industrieanlagen, den traditionellen Pirogen der Fischer und der majestätischen Natur des Rio Grande macht Buba zu einem einzigartigen Ort, an dem Wirtschaftsgeschichte und Geografie aufeinandertreffen.",
+        "hu": "Buba történelmi kikötője a Rio Grande de Buba torkolatánál fekszik, amely egy mély, tengerszerű öböl, mélyen benyúlva Guinea-Bissau szárazföldjébe. E különleges földrajzi adottságnak köszönhetően a kikötő évszázadokon át stratégiai csomópontként szolgált a kereskedelem és a logisztika számára. A portugálok már korán felismerték a természetes mélyvízi kikötő előnyeit, és innen szállították el a déli esőerdők és a keleti szavannák kincseit. A 19. és 20. században Buba a trópusi fa, a pálmaolaj, majd később a kesudió exportjának egyik legfontosabb központjává vált. A kikötői terület építészete funkcionális: régi rakpartok, robusztus raktárak és a gyarmati vámszolgálat maradványai jellemzik. A függetlenségi háború alatt Buba kulcsfontosságú célpont volt, hiszen aki a kikötőt uralta, az ellenőrizte az egész déli régió vízi utánpótlását. Ma a kikötő továbbra is üzemel, bár forgalma elmarad a korábbitól, de még mindig őrzi a határvidéki kereskedővárosok nyüzsgő hangulatát. A rozsdásodó ipari berendezések, a halászok színes pirogjai és a Rio Grande fenséges látványa egyedülálló módon ötvözi a gazdaságtörténetet a természet erejével.",
+        "ro": "Portul istoric din Buba este situat în capătul estuarului Rio Grande de Buba, un braț de mare adânc care pătrunde adânc în interiorul teritoriului Guineei-Bissau. Această poziție geografică privilegiată a transformat portul într-un nod strategic pentru comerț și logistică încă din primele secole de prezență europeană. Fiind un port natural de mare adâncime, Buba a facilitat exportul resurselor naturale din regiunile de sud și est, inclusiv lemnul prețios și uleiul de palmier. În perioada colonială târzie, portul a fost modernizat pentru a susține volume mari de mărfuri, devenind esențial pentru economia regiunii Quínara. Arhitectura portuară păstrează urmele vechilor antrepozite și ale digurilor de piatră care au rezistat deceniilor de utilizare intensă. În timpul războiului de eliberare, controlul asupra orașului Buba și a portului său a fost o prioritate strategică pentru ambele tabere, datorită accesului pe care îl oferea către interiorul țării. Astăzi, Buba rămâne un port activ pentru comerțul regional, unde navele moderne se întâlnesc cu ambarcațiunile tradiționale. Peisajul portuar, dominat de contrastul dintre infrastructura industrială și apele liniștite ale estuarului, oferă o imagine fidelă a istoriei maritime și economice a țării.",
+        "en": "The historic port of Buba is situated at the head of the Rio Grande de Buba, a deep saltwater inlet that reaches far into the interior of Guinea-Bissau. Due to its unique geography, the port has functioned as a strategic hub for trade and logistics for centuries. Portuguese colonizers utilized this natural deep-water harbor early on to ship resources from the southern rainforests and eastern savannas. During the 19th and 20th centuries, Buba grew into a major export center for tropical timber, palm oil, and eventually cashews. The port area’s architecture is primarily functional, featuring old stone wharves, massive warehouses, and the remains of colonial customs houses. During the War of Independence, Buba was a highly contested prize; controlling the waterway meant securing access to the entire southern theater of operations. Today, the port remains operational, though on a smaller scale, and retains the atmosphere of a bustling frontier outpost. The contrast between weathered industrial structures, traditional fishing pirogues, and the majestic natural beauty of the Rio Grande makes Buba a unique junction of economic history and environmental splendor."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen von Buba liegt am tiefsten Meeresarm Westafrikas.",
+          "Er diente als Hauptausfuhrhafen für wertvolles Tropenholz.",
+          "Die Portugiesen planten hier einst eine strategische Eisenbahnverbindung.",
+          "Buba war während des Unabhängigkeitskrieges eine wichtige Garnisonsstadt.",
+          "Der Hafen ist auch für Schiffe mit größerem Tiefgang zugänglich.",
+          "Heute ist Buba ein wichtiges Zentrum für den Cashew-Export der Region."
+        ],
+        "hu": [
+          "Buba kikötője Nyugat-Afrika egyik legmélyebb természetes öblében található.",
+          "A gyarmati időkben ez volt a trópusi faexport fő központja.",
+          "A város neve a Rio Grande de Buba folyóról kapta a nevét.",
+          "A függetlenségi háborúban a portugál flotta fontos bázisa volt.",
+          "A kikötő környéke ma is a déli országrész logisztikai központja.",
+          "A területen még láthatók a 20. század eleji vámraktárak falai."
+        ],
+        "ro": [
+          "Buba deține unul dintre puținele porturi de mare adâncime din țară.",
+          "A fost punctul terminal pentru transportul produselor din regiunea Boé.",
+          "Geografia locului seamănă cu cea a unui fiord tropical.",
+          "Orașul a găzduit una dintre cele mai mari baze militare portugheze.",
+          "Economia locală depinde și astăzi de activitățile portuare și pescuit.",
+          "Este considerat poarta de intrare către Parcul Național Cufada."
+        ],
+        "en": [
+          "Buba's port is located at the end of a unique 50km long saltwater inlet.",
+          "It was historically a major outlet for timber and palm kernel exports.",
+          "The port was a key strategic point for controlling the southern interior.",
+          "Significant colonial-era infrastructure still dots the waterfront.",
+          "Buba remains a vital link between the coast and the eastern highlands.",
+          "The area is known for its dramatic tidal range within the deep harbor."
+        ]
+      }
+    },
+    {
+      "id": "catio-historical-center-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das historische Zentrum von Catió ist der kulturelle und administrative Anker der Region Tombali im tiefen Süden von Guinea-Bissau. Die Stadt hat eine reiche Geschichte als Zentrum der Reisproduktion, die durch das Volk der Balanta in den umliegenden Mangrovensümpfen perfektioniert wurde. Das historische Viertel spiegelt die koloniale Architektur des frühen 20. Jahrhunderts wider, mit Verwaltungsgebäuden, Schulen und Handelshäusern, die oft mit Ziegeldächern und breiten Arkaden ausgestattet sind. Catió war ein Symbol für die koloniale Wirtschaftskraft im Süden, diente aber auch als Ausgangspunkt für soziale und politische Veränderungen. Während des Unabhängigkeitskampfes war die Region Tombali eine Hochburg des Widerstands, was Catió zu einem Ort von großer symbolischer Bedeutung für die PAIGC machte. Heute bewahrt das Zentrum eine ruhige, fast nostalgische Atmosphäre, in der das Erbe der kolonialen Stadtplanung auf die lebendige Kultur der lokalen Bevölkerung trifft. Die Architektur ist durch die hohe Luftfeuchtigkeit und die Zeit gezeichnet, was dem Ort eine besondere historische Tiefe verleiht. Ein Spaziergang durch Catió offenbart die Geschichte einer Stadt, die zwischen den Anforderungen einer kolonialen Exportwirtschaft und der traditionellen Lebensweise der Reisbauern gewachsen ist.",
+        "hu": "Catió történelmi központja a déli Tombali régió kulturális és adminisztratív tartóoszlopa. A város története szorosan összefonódik a rizstermeléssel, amelyet a környékbeli mangrove-mocsarakban a balanta népcsoport fejlesztett tökélyre. Az óváros a 20. század eleji gyarmati építészet jegyeit hordozza: az adminisztratív épületek, iskolák és kereskedőházak jellegzetes cseréptetői és tágas árkádjai a korszak eleganciáját és praktikumát idézik. Catió a déli országrész gazdasági erejének szimbóluma volt, de egyben a társadalmi és politikai változások bölcsője is. A függetlenségi harcok idején Tombali régió az ellenállás egyik legfőbb bástyája volt, így Catió városa kiemelt jelentőséggel bírt a szabadságharcosok számára. Ma a központ csendes, nosztalgikus hangulatot áraszt, ahol a gyarmati várostervezés emlékei keverednek a helyi közösségek lüktető mindennapjaival. Az épületek falain látszik az idő és a trópusi éghajlat nyoma, ami sajátos mélységet ad a városképnek. Catió ma is emlékeztet arra a korszakra, amikor a város a gyarmati exportgazdaság és a hagyományos afrikai életmód metszéspontjában állt, megőrizve identitását a változó időkben is.",
+        "ro": "Centrul istoric din Catió reprezintă nucleul administrativ și cultural al regiunii Tombali, situată în extremitatea sudică a Guineei-Bissau. Orașul are o istorie îndelungată legată de producția de orez, o activitate în care populația locală Balanta excelează de generații. Zona istorică este marcată de clădiri coloniale de la începutul secolului XX, caracterizate prin arcade largi și acoperișuri de țiglă, adaptate climatului umed din sud. Catió a funcționat ca un centru de putere economică în perioada colonială, fiind punctul de colectare pentru produsele agricole destinate exportului fluvial. În timpul războiului de eliberare națională, Catió și împrejurimile sale au fost teatrul unor operațiuni de gherilă intense, regiunea fiind una dintre primele eliberate de sub controlul portughez. Astăzi, centrul istoric păstrează o atmosferă liniștită, oferind o fereastră spre trecutul urbanistic al țării. Deși multe clădiri necesită restaurare, farmecul lor original și dispunerea străzilor vorbesc despre o epocă în care Catió era considerat 'perla sudului'. Orașul rămâne un punct de referință pentru identitatea regională, împletind moștenirea arhitecturală lusitană cu tradițiile agricole ancestrale ale popoarelor din Tombali.",
+        "en": "The historical center of Catió is the cultural and administrative anchor of the Tombali region in the deep south of Guinea-Bissau. The city boasts a rich history as a major hub for rice production, a craft perfected by the Balanta people in the surrounding mangrove swamps. The historic district showcases early 20th-century colonial architecture, with administrative buildings, schools, and trading houses often featuring red-tiled roofs and broad arcades. Catió was a symbol of colonial economic power in the south but also served as a focal point for social and political change. During the struggle for independence, the Tombali region was a stronghold of resistance, giving Catió immense symbolic value for the liberation movement. Today, the center preserves a quiet, nostalgic atmosphere where the legacy of colonial urban planning meets the vibrant daily life of the local population. The architecture bears the marks of time and high tropical humidity, adding a layer of historical depth to the town. Walking through Catió reveals the story of a city that grew between the demands of a colonial export economy and the traditional ways of life of the coastal rice farmers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Catió ist als die 'Reishauptstadt' von Guinea-Bissau bekannt.",
+          "Das historische Zentrum liegt am Rio Como, einem Nebenfluss des Cumbijã.",
+          "Die Stadt war ein wichtiges Bildungszentrum in der Kolonialzeit.",
+          "Tombali, die Region um Catió, war eine Hochburg der PAIGC.",
+          "Die Architektur zeigt Einflüsse aus der portugiesischen Algarve.",
+          "Das Stadtlayout ist geprägt von weiten Plätzen und schattigen Alleen."
+        ],
+        "hu": [
+          "Catiót gyakran Guinea-Bissau 'rizsfővárosaként' emlegetik.",
+          "A történelmi negyed a Como-folyó partján alakult ki.",
+          "A város a 20. század közepén fontos kereskedelmi kikötő volt.",
+          "Catió volt a déli ellenállási mozgalom egyik szimbolikus központja.",
+          "Az óvárosban számos 19. századi missziós épület is található.",
+          "A település ma a déli országrész legfontosabb oktatási gócpontja."
+        ],
+        "ro": [
+          "Catió este centrul celei mai fertile regiuni agricole din țară.",
+          "Arhitectura centrului istoric include foste sedii ale companiilor agricole.",
+          "Orașul a fost un punct strategic pentru controlul graniței de sud.",
+          "Aici s-au format mulți dintre liderii politici de după independență.",
+          "Sistemul de irigații din jurul orașului datează din epoca pre-colonială.",
+          "Este un nod important pentru transportul fluvial către insulele sudice."
+        ],
+        "en": [
+          "Catió is famously known as the 'Rice Capital' of the nation.",
+          "The historic center is situated along the banks of the Como River.",
+          "It served as a key administrative post for the Portuguese in the south.",
+          "The town played a pivotal role in the mobilization of the PAIGC.",
+          "Colonial buildings in Catió are noted for their unique southern styles.",
+          "It remains a vital commercial link for the remote Tombali region."
+        ]
+      }
+    }
+  ]
+}

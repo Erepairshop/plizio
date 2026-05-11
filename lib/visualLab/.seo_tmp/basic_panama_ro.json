@@ -1,0 +1,67 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPanamaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "concepcion-bugaba-cities-v2",
+      "description": "Oraș situat în provincia Chiriquí, cunoscut drept un centru agricol și comercial important al regiunii.",
+      "facts": ["Situat în Chiriquí", "Centru agricol", "Comunitate activă"]
+    },
+    {
+      "id": "puerto-cristobal-economic-v2",
+      "description": "Port strategic situat la intrarea atlantică a Canalului Panama, vital pentru comerțul maritim internațional.",
+      "facts": ["Intrarea Atlantică", "Port maritim", "Hub logistic"]
+    },
+    {
+      "id": "parque-tecnologico-economic-v2",
+      "description": "Un hub dedicat inovației și tehnologiei, destinat stimulării dezvoltării economice în sectorul IT din Panama.",
+      "facts": ["Centru de inovare", "Focus pe IT", "Dezvoltare regională"]
+    },
+    {
+      "id": "iglesia-de-san-jose-history-v2",
+      "description": "Cunoscută pentru altarul său din aur baroc, biserica este un simbol istoric al orașului vechi Casco Viejo.",
+      "facts": ["Altar de aur", "Stil baroc", "Casco Viejo"]
+    },
+    {
+      "id": "fuerte-de-matachin-history-v2",
+      "description": "O fortificație istorică care a jucat un rol defensiv strategic în perioada colonială a regiunii.",
+      "facts": ["Fortificație veche", "Rol defensiv", "Moștenire colonială"]
+    },
+    {
+      "id": "casa-ayora-history-v2",
+      "description": "O clădire cu valoare istorică, reprezentativă pentru arhitectura tradițională a centrului istoric.",
+      "facts": ["Arhitectură tradițională", "Centrul istoric", "Clădire protejată"]
+    },
+    {
+      "id": "plaza-francia-history-v2",
+      "description": "Piață publică situată în Casco Viejo, dedicată memoriei inginerilor francezi care au încercat construcția canalului.",
+      "facts": ["Casco Viejo", "Omagiu francez", "Ziduri istorice"]
+    },
+    {
+      "id": "iglesia-del-carmen-history-v2",
+      "description": "Biserică neogotică remarcabilă din Panama City, recunoscută pentru arhitectura sa distinctivă și turnurile înalte.",
+      "facts": ["Stil neogotic", "Panama City", "Arhitectură înaltă"]
+    },
+    {
+      "id": "iglesia-de-la-merced-landmarks-v2",
+      "description": "Biserică istorică ale cărei fațade au fost conservate și mutate din vechiul oraș Panama la actuala locație.",
+      "facts": ["Casco Viejo", "Fațadă istorică", "Patrimoniu religios"]
+    },
+    {
+      "id": "teatro-nacional-landmarks-v2",
+      "description": "O clădire impunătoare și principalul centru cultural unde au loc evenimente artistice și spectacole de operă.",
+      "facts": ["Centru cultural", "Stil neoclasic", "Panama City"]
+    },
+    {
+      "id": "torre-omega-landmarks-v2",
+      "description": "O clădire modernă de birouri, reprezentativă pentru dezvoltarea arhitecturală contemporană a capitalei.",
+      "facts": ["Clădire modernă", "Panama City", "Arhitectură office"]
+    }
+  ]
+}

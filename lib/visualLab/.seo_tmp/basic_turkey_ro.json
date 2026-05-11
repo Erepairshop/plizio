@@ -1,0 +1,30 @@
+{
+  "lang": "ro",
+  "country": "Turkey",
+  "files": [
+    "lib/visualLab/data/poiExtraTurkeyCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTurkeyLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "eskisehir-cities-v2",
+      "description": "Eskişehir este un centru universitar dinamic situat în nord-vestul Anatoliei, traversat de râul Porsuk.",
+      "facts": [
+        "Populație de peste 800.000 locuitori",
+        "Celebră pentru universitățile sale",
+        "Centru industrial și feroviar",
+        "Situat pe malul râului Porsuk"
+      ]
+    },
+    {
+      "id": "pamukkale-landmarks-v2",
+      "description": "Pamukkale, cunoscut și sub numele de \"Castelul de Bumbac\", este renumit pentru terasele sale de travertin alb și apele termale bogate în minerale.",
+      "facts": [
+        "Patrimoniu Mondial UNESCO",
+        "Terase formate din depuneri de calcar",
+        "Ape termale cu proprietăți curative",
+        "Situat lângă anticul Hierapolis"
+      ]
+    }
+  ]
+}

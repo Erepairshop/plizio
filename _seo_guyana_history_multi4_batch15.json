@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-georgetown-lighthouse-history-v2",
+      "descriptionAdvancedDe": "Der Leuchtturm von Georgetown ist ein ikonisches Wahrzeichen an der Küste der Hauptstadt. Mit seinen markanten roten und weißen Streifen dient er seit seiner Fertigstellung im Jahr 1830 als wichtiges Navigationshilfsmittel für Schiffe, die in den Demerara-Fluss einlaufen. Der achteckige Ziegelturm ersetzte eine frühere Holzkonstruktion der Niederländer und ist etwa 31 Meter hoch. Von seiner Spitze bietet sich ein Panoramablick über die Stadt und den Atlantischen Ozean. Der Leuchtturm war Zeuge der gesamten modernen Entwicklung Georgetowns, von der späten Kolonialzeit über die Unabhängigkeit bis heute. Obwohl seine ursprüngliche Lampe modernisiert wurde, bleibt er ein aktives Schifffahrtszeichen. Er ist nicht nur ein funktionales Bauwerk, sondern auch ein beliebtes Symbol für Georgetown, das an die maritime Geschichte der Stadt und ihre historische Bedeutung als wichtiger Hafen in der Karibik erinnert.",
+      "descriptionAdvancedHu": "A georgetowni világítótorony a főváros partjának ikonikus nevezetessége. Jellegzetes piros és fehér csíkjaival 1830-as befejezése óta fontos navigációs segédeszközként szolgál a Demerara folyóba behajózó hajók számára. A nyolcszögletű téglatorony egy korábbi holland faépítményt váltott fel, és körülbelül 31 méter magas. Tetejéről panorámás kilátás nyílik a városra és az Atlanti-óceánra. A világítótorony tanúja volt Georgetown egész modern fejlődésének, a késői gyarmati időszaktól a függetlenségen át napjainkig. Bár eredeti lámpáját modernizálták, továbbra is aktív hajózási jelzés. Nemcsak funkcionális építmény, hanem Georgetown kedvelt szimbóluma is, amely a város tengeri történelmére és a Karib-térség fontos kikötőjeként betöltött történelmi jelentőségére emlékeztet.",
+      "descriptionAdvancedRo": "Farul din Georgetown este un reper iconic pe coasta capitalei. Cu dungile sale roșii și albe distinctive, acesta a servit drept un important ajutor de navigație pentru navele care intră în râul Demerara de la finalizarea sa în 1830. Turnul octogonal din cărămidă a înlocuit o structură anterioară din lemn construită de olandezi și are o înălțime de aproximativ 31 de metri. Din vârful său, se oferă o vedere panoramică asupra orașului și a Oceanului Atlantic. Farul a fost martor la întreaga dezvoltare modernă a Georgetownului, de la perioada colonială târzie la independență și până în prezent. Deși lampa sa originală a fost modernizată, acesta rămâne un semnal maritim activ. Nu este doar o structură funcțională, ci și un simbol îndrăgit al Georgetownului, amintind de istoria maritimă a orașului și de importanța sa istorică sebagai un port major în Caraibe.",
+      "descriptionAdvancedEn": "The Georgetown Lighthouse is an iconic landmark on the capital's coast. With its distinctive red and white stripes, it has served as an important navigational aid for ships entering the Demerara River since its completion in 1830. The octagonal brick tower replaced an earlier wooden structure built by the Dutch and stands at a height of about 31 meters. Its top offers a panoramic view of the city and the Atlantic Ocean. The lighthouse has witnessed Georgetown's entire modern development, from the late colonial period through independence to the present day. Although its original lamp has been modernized, it remains an active navigational signal. It is not just a functional structure but also a beloved symbol of Georgetown, recalling the city's maritime history and its historical importance as a major port in the Caribbean.",
+      "factsAdvanced": [
+        "Fertiggestellt im Jahr 1830.",
+        "Ersetzte einen früheren hölzernen Leuchtturm der Niederländer.",
+        "Etwa 31 Meter hoch mit einer achteckigen Form.",
+        "Markante rote und weiße horizontale Streifen.",
+        "Dient als Navigationshilfe für den Demerara-Fluss.",
+        "Bietet einen Panoramablick über Georgetown und den Atlantik.",
+        "Ein wichtiges Symbol der maritimen Geschichte der Stadt.",
+        "Bleibt ein aktives Schifffahrtszeichen."
+      ]
+    }
+  ]
+}

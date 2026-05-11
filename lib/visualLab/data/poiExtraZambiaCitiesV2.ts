@@ -544,13 +544,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Mpulungu ist der einzige internationale Hafen Sambias und liegt am südlichen Ufer des Tanganjikasees.",
       hu: "Zambia egyetlen nemzetközi kikötővárosa a Tanganyika-tó déli csücskénél, amely fontos kereskedelmi kapu Tanzánia és Burundi felé.",
       ro: "Mpulungu este cel mai important port al Zambiei, situat pe malul sudic al lacului Tanganyika.",
-      en: "Mpulungu is Zambia's only port on Lake Tanganyika, facilitating trade with neighboring countries."
+      en: "A port town located on the shores of Lake Tanganyika. It serves as an important transit point for trade between Zambia and its neighbors."
     },
     facts: {
       de: ["Wichtiger Hafen für den Fischfang", "Tor zum Tanganjikasee", "Handelszentrum für die Region"],
       hu: ["Fontos halászati központ", "Kompjáratok indulnak innen", "A Tanganyika-tó partján fekszik"],
       ro: ["Singurul port internațional al țării", "Terminal feroviar și comercial", "Poartă către estul Africii", "Altitudine de aproximativ 770 metri"],
-      en: ["Only port on Lake Tanganyika", "Trade hub", "Fishing community"]
+      en: ["Located on Lake Tanganyika.", "Major Zambian port.", "Regional trade hub."]
     }, image: "/poi-images/mpulungu-cities-v2.webp"},
   {
     id: "senanga-cities-v2",
@@ -785,13 +785,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Diese Stadt im Copperbelt ist ein bedeutendes Zentrum für den Kupferbergbau und die Metallverarbeitung.",
       hu: "A Copperbelt tartományban található bányászváros, amely jelentős réz- és kobaltkészleteiről, valamint modern kohászati üzemeiről ismert.",
       ro: "Chambishi este un oraș minier situat în provincia Copperbelt, fiind un centru vital pentru industria cuprului.",
-      en: "Chambishi is a growing mining town in the Copperbelt, home to a significant multi-facility economic zone."
+      en: "An industrial town in the Copperbelt province known for its large copper mining operations."
     },
     facts: {
       de: ["Sitz großer Kupferhütten", "Bedeutendes Industriezentrum", "An der Straße nach Kitwe"],
       hu: ["Jelentős rézbányászat", "Kohászati üzemek", "Kitwe közelében található"],
       ro: ["Parte a regiunii miniere strategice", "Găzduiește topitorii de cupru majore", "Centru industrial în plină dezvoltare", "Situat între Kitwe și Chingola"],
-      en: ["Mining town", "Multi-facility economic zone", "Copperbelt Province"]
+      en: ["Copperbelt province town.", "Major mining center.", "Industrial significance."]
     }, image: "/poi-images/chambishi-cities-v2.webp",
     descriptionAdvanced: {
       en: "Chambishi is a significant mining town situated in Zambia's Copperbelt Province. It is renowned for its large-scale copper and cobalt mining operations, which serve as a primary economic driver for both the town and the nation. As an industrial center, Chambishi is characterized by its heavy infrastructure and large workforce engaged in the processing of mineral resources. The town plays a pivotal role in the Zambian economy, representing the historical and ongoing importance of the Copperbelt to the country's GDP. Industry — mineral extraction and processing."
@@ -828,13 +828,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Lufwanyama ist bekannt für seine reichen Smaragdvorkommen und ist ein wichtiges Bergbaugebiet im Copperbelt.",
       hu: "Kiterjedt mezőgazdasági és bányászati körzet a Copperbelt tartományban, amely különösen a smaragdbányászatáról híres.",
       ro: "Lufwanyama este cunoscut drept centrul mondial al mineritului de smaralde, fiind situat în provincia Copperbelt.",
-      en: "Lufwanyama is a sprawling district in the Copperbelt Province known for both agriculture and emerald mining."
+      en: "A district town in the Copperbelt, recognized for its natural resources and mining potential."
     },
     facts: {
       de: ["Zentrum des Smaragdbergbaus", "Ländlich geprägter Distrikt", "Wichtige Rohstoffquelle"],
       hu: ["Smaragdbányászat", "Mezőgazdasági terület", "Ritkán lakott vidék"],
       ro: ["Zăcăminte bogate de pietre prețioase", "Zona principală de extracție a smaraldelor", "District cu potențial agricol ridicat", "Râul Lufwanyama traversează regiunea"],
-      en: ["Emerald mining", "Agricultural district", "Copperbelt Province"]
+      en: ["Located in Copperbelt province.", "District administration center.", "Mining and natural resources."]
     }, image: "/poi-images/lufwanyama-cities-v2.webp"},
   {
     id: "chongwe-cities-v2",
@@ -846,13 +846,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Chongwe liegt östlich der Hauptstadt Lusaka und dient als wichtiges landwirtschaftliches Versorgungszentrum.",
       hu: "Lusaka tartomány egyik gyorsan fejlődő városa, amely a Chongwe folyó mentén fekszik, és fontos oktatási intézményeknek ad otthont.",
       ro: "Chongwe este un oraș administrativ situat la est de capitala Lusaka, servind ca nod important de transport.",
-      en: "Chongwe is a town in Lusaka Province that serves as a vital agricultural and educational center."
+      en: "A town situated east of Lusaka, serving as a gateway and important agricultural region."
     },
     facts: {
       de: ["Sitz des Distrikts Chongwe", "Wichtige Agrarregion", "Nahe an der Hauptstadt Lusaka"],
       hu: ["Egyetemi központ", "A Chongwe folyó szeli át", "Lusaka közelében fekszik"],
       ro: ["Sediul Universității din Zambia", "Centru agricol regional", "Traversat de râul Chongwe", "Aproape de Parcul Național Lower Zambezi"],
-      en: ["Educational center", "Lusaka Province", "Chongwe River"]
+      en: ["Near Lusaka.", "Agricultural center.", "Growing residential area."]
     }, image: "/poi-images/chongwe-cities-v2.webp"},
   {
     id: "chilanga-cities-v2",
@@ -889,13 +889,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Serenje ist ein wichtiger Verkehrsknotenpunkt an der Great North Road und dem TAZARA-Bahnhof.",
       hu: "A Központi tartományban elhelyezkedő város, amely fontos közlekedési csomópont a Nagy-északi út mentén, közel a kongói határhoz.",
       ro: "Serenje este un nod comercial situat pe Great North Road, fiind un punct strategic pentru transportul spre nordul țării.",
-      en: "Serenje is an important junction town in Central Province, located near the Great North Road."
+      en: "A town in the Muchinga province located along the Great North Road."
     },
     facts: {
       de: ["Knotenpunkt der Great North Road", "Station der TAZARA-Eisenbahn", "Zentrum der Landwirtschaft"],
       hu: ["Közlekedési csomópont", "Mezőgazdasági központ", "A TAZARA vasútvonal mentén"],
       ro: ["Centru agricol și forestier", "Punct de acces către cascadele Kundalila", "Găzduiește un aerodrom local", "Situat în provincia Centrală"],
-      en: ["Junction town", "Central Province", "Near Kundalila Falls"]
+      en: ["Muchinga province town.", "On the Great North Road.", "Transport transit point."]
     }, image: "/poi-images/serenje-cities-v2.webp"},
   {
     id: "mkushi-cities-v2",
@@ -950,13 +950,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Nyimba liegt in der Ostprovinz an der Great East Road und ist ein bekannter Raststopp für Reisende.",
       hu: "A Keleti tartományban található település, amely a Luangwa-völgy kapujaként és a Great East Road fontos megállóhelyeként ismert.",
       ro: "Nyimba este un centru administrativ în provincia de Est, situat pe drumul principal care leagă Lusaka de Malawi.",
-      en: "Nyimba is a town in Eastern Province serving as an important stopover along the Great East Road."
+      en: "A town in the Eastern province, known for its strategic location on the Great East Road."
     },
     facts: {
       de: ["An der Great East Road", "Zentrum für Bananenhandel", "Wichtiger regionaler Markt"],
       hu: ["A Great East Road mentén", "Tranzitállomás", "Mezőgazdasági környezet"],
       ro: ["Punct important pe Great East Road", "Cunoscut pentru piața locală de produse", "Zonă cu relief deluros și păduri", "Centru pentru comunitățile Nsenga"],
-      en: ["Stopover town", "Eastern Province", "Great East Road"]
+      en: ["Eastern province town.", "Great East Road location.", "Trade transit point."]
     }, image: "/poi-images/nyimba-cities-v2.webp"},
   {
     id: "chama-cities-v2",
@@ -993,13 +993,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Luwingu ist ein administratives Zentrum in der Nordprovinz, umgeben von fruchtbarem Ackerland.",
       hu: "Az Északi tartományban fekvő város, amely a Bangweulu-mocsárvidék közelében található, és a környék közigazgatási központja.",
       ro: "Luwingu este un oraș situat în provincia de Nord, fiind un centru pentru agricultura de subzistență și pescuit.",
-      en: "Luwingu is a town in Northern Province acting as an administrative and commercial center."
+      en: "A town in the Northern province, serving as a local commercial and administrative hub."
     },
     facts: {
       de: ["Sitz der Distriktverwaltung", "Region für Maniokanbau", "Zentrum der Nordprovinz"],
       hu: ["Közigazgatási központ", "Az Északi tartományban van", "Halászati lehetőségek"],
       ro: ["Aproape de mlaștinile Bangweulu", "Centru comercial pentru orez și pește", "Nod rutier între Kasama și Mansa", "Climat tropical cu precipitații abundente"],
-      en: ["Administrative center", "Northern Province", "Trading hub"]
+      en: ["Northern province town.", "Local administrative center.", "Agriculture-based economy."]
     }, image: "/poi-images/luwingu-cities-v2.webp"},
   {
     id: "kaputa-cities-v2",
@@ -1065,13 +1065,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Die Stadt liegt in den Mafinga Hills an der Grenze zu Malawi und ist für ihre bergige Landschaft bekannt.",
       hu: "Zambia legmagasabb hegyvidéki területén fekvő körzet, amely a malawi határ mentén húzódó Mafinga-hegységről kapta a nevét.",
       ro: "Mafinga este un district muntos situat la granița cu Malawi, adăpostind cel mai înalt punct din Zambia.",
-      en: "Mafinga is a rural town in Muchinga Province, located near the Mafinga Hills."
+      en: "A town situated in the mountainous Muchinga province, near the border with Malawi."
     },
     facts: {
       de: ["Höchste Erhebung Sambias nahebei", "An der Grenze zu Malawi", "Kühleres Bergklima"],
       hu: ["Hegyi domborzat", "Zambia legmagasabb pontja", "Vízgyűjtő terület"],
       ro: ["Casă a Munților Mafinga Hills", "Peisaj spectaculos de mare altitudine", "Zonă bogată în biodiversitate montană", "Izvoarele unor râuri importante"],
-      en: ["Rural town", "Muchinga Province", "Near Mafinga Hills"]
+      en: ["Muchinga province.", "Mountainous landscape.", "Border area."]
     }, image: "/poi-images/mafinga-cities-v2.webp"},
   {
     id: "kasempa-cities-v2",
@@ -1101,13 +1101,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Lukulu ist eine Stadt in Westliche Provinz set on the Zambezi River, functioning as a fishing center.",
       hu: "Lukulu egy város in Nyugati tartomány set on the Zambezi River, functioning as a fishing center.",
       ro: "Lukulu este un oraș pitoresc situat pe malul râului Zambezi, în provincia de Vest a țării.",
-      en: "Lukulu is a town in Western Province set on the Zambezi River, functioning as a fishing center."
+      en: "A town on the Zambezi River in the Western province, primarily focused on agriculture."
     },
     facts: {
       de: ["Fishing Zentrum", "Western Provinz", "Gelegen on the Zambezi"],
       hu: ["Fishing központ", "Western Tartomány", "Található on the Zambezi"],
       ro: ["Cunoscut pentru pescuitul de tigru", "Zonă cu plaje nisipoase pe râu", "Punct de plecare pentru explorări fluviale", "Legătură cu regiunea Barotseland"],
-      en: ["Fishing center", "Western Province", "Located on the Zambezi"]
+      en: ["On the Zambezi River.", "Western province town.", "Agricultural hub."]
     }, image: "/poi-images/lukulu-cities-v2.webp"},
   {
     id: "kalabo-cities-v2",
@@ -1119,13 +1119,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Kalabo liegt im Westen Sambias und ist der Ausgangspunkt für Besuche im Liuwa-Plain-Nationalpark.",
       hu: "A Nyugati tartományban, a Liuwa Plain Nemzeti Park közelében fekvő város, amely a Zambézi árterének egyik távoli települése.",
       ro: "Kalabo este poarta de intrare către Parcul Național Liuwa Plain, situat în inima câmpiilor inundabile din vest.",
-      en: "Kalabo is a town in Western Province near the Angolan border and Liuwa Plain National Park."
+      en: "A town in the Western province, known for its proximity to the Liuwa Plain National Park."
     },
     facts: {
       de: ["Tor zum Liuwa-Plain-Nationalpark", "Am Ufer des Luanginga-Flusses", "Isolierte Lage im Westen"],
       hu: ["A Liuwa Plain kapuja", "A Zambézi árterén", "Vitorláshajós közlekedés"],
       ro: ["Acces la marea migrație a gnuilor", "Situat pe malul râului Luanginga", "Infrastructură de poduri modernă recentă", "Punct cultural pentru poporul Lozi"],
-      en: ["Near Liuwa Plain", "Western Province", "Border town"]
+      en: ["Near Liuwa Plain.", "Western province.", "Wetland landscape."]
     }, image: "/poi-images/kalabo-cities-v2.webp"},
   {
     id: "sinazongwe-cities-v2",
@@ -1155,13 +1155,13 @@ export const poiExtraZambiaCitiesV2: POI[] = [
       de: "Rufunsa ist ein relativ neuer Distrikt in der Provinz Lusaka, der durch seine Goldvorkommen an Bedeutung gewinnt.",
       hu: "Lusaka tartomány keleti részén található körzet, amely vadregényes dombvidékéről és a Great East Road menti fekvéséről ismert.",
       ro: "Rufunsa este un centru de dezvoltare situat la est de Lusaka, cunoscut pentru resursele sale naturale și peisajele sălbatice.",
-      en: "Rufunsa is a town and district in Lusaka Province known for traditional mining and natural landscapes."
+      en: "A town located east of Lusaka, becoming a significant district administrative center."
     },
     facts: {
       de: ["Bekannt für handwerklichen Goldbergbau", "An der Great East Road", "Ländliches Entwicklungsgebiet"],
       hu: ["Lusaka tartományban", "Dombvidéki táj", "Vadvédelmi területek"],
       ro: ["Nod rutier pe Great East Road", "Zonă cu potențial de minerit aurifer", "Intrare în valea râului Luangwa", "District creat recent pentru descentralizare"],
-      en: ["Natural landscapes", "Lusaka Province", "Rural district"]
+      en: ["District center.", "East of Lusaka.", "Developing town."]
     }
   }
 ];

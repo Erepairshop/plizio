@@ -1,0 +1,56 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"],
+  "items": [
+    {
+      "id": "fulacunda-ruins-history-v2",
+      "descriptionAdvancedDe": "Die Ruinen von Fulacunda im Süden Guinea-Bissaus sind stille Zeugen der portugiesischen Bemühungen, das Landesinnere zu kontrollieren und wirtschaftlich zu erschließen. Als Teil eines Netzwerks von kleinen Handelsposten (Feitorias) im 19. und frühen 20. Jahrhundert diente Fulacunda als Sammelstelle für Kautschuk, Palmöl und andere landwirtschaftliche Produkte. Die heute von dichter Vegetation überwucherten Überreste der Verwaltungsgebäude und Lagerhäuser erzählen eine Geschichte von Handel, Ausbeutung und dem Aufeinandertreffen von Kulturen. Die Ruinen sind ein Symbol für die koloniale Durchdringung des ländlichen Raums und bieten einen Einblick in die Wirtschaftsgeschichte einer Region, die lange Zeit nur über die Flüsse zugänglich war.",
+      "descriptionAdvancedHu": "Fulacunda romjai Bissau-Guinea déli részén csendes tanúi a portugálok azon törekvéseinek, hogy ellenőrzésük alá vonják és gazdaságilag kiaknázzák az ország belsejét. A 19. és 20. század eleji kis kereskedelmi állomások (feitorias) hálózatának részeként Fulacunda a kaucsuk, pálmaolaj és más mezőgazdasági termékek gyűjtőhelye volt. A ma sűrű növényzet által benőtt közigazgatási épületek és raktárak maradványai a kereskedelem, a kizsákmányolás és a kultúrák találkozásának történetét mesélik el. A romok a gyarmati behatolás szimbólumai a vidéki területeken, és bepillantást engednek egy olyan régió gazdaságtörténetébe, amely sokáig csak a folyókon keresztül volt megközelíthető.",
+      "descriptionAdvancedRo": "Ruinele din Fulacunda, în sudul Guineei-Bissau, sunt martori tăcuți ai eforturilor portugheze de a controla și exploata economic interiorul țării. Ca parte a unei rețele de mici posturi comerciale (feitorias) în secolul al XIX-lea și începutul secolului al XX-lea, Fulacunda a servit ca punct de colectare pentru cauciuc, ulei de palmier și alte produse agricole. Rămășițele clădirilor administrative și ale depozitelor, acum acoperite de vegetație densă, spun o poveste despre comerț, exploatare și întâlnirea culturilor. Ruinele sunt un simbol al pătrunderii coloniale în spațiul rural și oferă o perspectivă asupra istoriei economice a unei regiuni care a fost mult timp accesibilă doar pe calea apelor.",
+      "descriptionAdvancedEn": "The ruins of Fulacunda in southern Guinea-Bissau are silent witnesses to the Portuguese efforts to control and economically develop the country's interior. As part of a network of small trading posts (feitorias) in the 19th and early 20th centuries, Fulacunda served as a collection point for rubber, palm oil, and other agricultural products. The remains of the administrative buildings and warehouses, now overgrown with dense vegetation, tell a story of trade, exploitation, and the meeting of cultures. The ruins are a symbol of colonial penetration into rural areas and offer an insight into the economic history of a region that was long accessible only by river.",
+      "factsAdvanced": [
+        "Ehemaliger Handelsposten im Quinara-Region.",
+        "Teil des kolonialen Netzwerks zur Ausbeutung von Ressourcen.",
+        "Fokus auf Kautschuk- und Palmölgewinnung.",
+        "Die Ruinen umfassen Fundamente von Lagerhäusern.",
+        "Symbol für die wirtschaftliche Kolonialisierung des Südens.",
+        "Die Aufgabe des Postens spiegelt veränderte Handelsrouten wider.",
+        "Heute ein Ort von historischer und archäologischer Bedeutung."
+      ]
+    },
+    {
+      "id": "buba-historic-port-history-v2",
+      "descriptionAdvancedDe": "Der Hafen von Buba, am tiefen und geschützten Ästuar des Rio Grande de Buba gelegen, hatte eine enorme strategische Bedeutung für die koloniale Wirtschaft. Seine Lage ermöglichte es großen Schiffen, weit ins Landesinnere vorzudringen, was ihn zu einem idealen Exporthafen für Produkte aus dem Südosten machte. Im 20. Jahrhundert wurde er zum Hauptumschlagplatz für Bauxit aus den Minen von Boé. Die verfallenden Betonpiers und rostenden Industrieanlagen zeugen von dieser intensiven Wirtschaftsperiode. Nach der Unabhängigkeit und der Einstellung des Bauxitabbaus verlor der Hafen an Bedeutung. Heute sind die Ruinen ein melancholisches Denkmal für die Ambitionen und den letztendlichen Niedergang einer auf Rohstoffexport ausgerichteten Kolonialwirtschaft.",
+      "descriptionAdvancedHu": "A Buba kikötő, a Rio Grande de Buba mély és védett torkolatában, óriási stratégiai jelentőséggel bírt a gyarmati gazdaság számára. Fekvése lehetővé tette, hogy a nagy hajók messze behatoljanak az ország belsejébe, ami ideális exportkikötővé tette a délkeletről származó termékek számára. A 20. században a Boé-i bányákból származó bauxit fő átrakodóhelyévé vált. Az omladozó betonmólók és a rozsdásodó ipari létesítmények tanúskodnak erről az intenzív gazdasági időszakról. A függetlenség és a bauxitbányászat leállítása után a kikötő elvesztette jelentőségét. Ma a romok egy melankolikus emlékművei a nyersanyagexportra összpontosító gyarmati gazdaság ambícióinak és végső hanyatlásának.",
+      "descriptionAdvancedRo": "Portul Buba, situat la estuarul adânc și protejat al Rio Grande de Buba, a avut o importanță strategică enormă pentru economia colonială. Poziția sa permitea navelor mari să pătrundă adânc în interiorul țării, făcându-l un port de export ideal pentru produsele din sud-est. În secolul al XX-lea, a devenit principalul punct de transbordare pentru bauxita din minele de la Boé. Debarcaderele de beton în paragină și instalațiile industriale ruginite mărturisesc această perioadă economică intensă. După independență și încetarea exploatării bauxitei, portul și-a pierdut din importanță. Astăzi, ruinele sunt un monument melancolic al ambițiilor și al declinului final al unei economii coloniale axate pe exportul de materii prime.",
+      "descriptionAdvancedEn": "The port of Buba, located on the deep and sheltered estuary of the Rio Grande de Buba, was of enormous strategic importance to the colonial economy. Its location allowed large ships to penetrate far inland, making it an ideal export port for products from the southeast. In the 20th century, it became the main transshipment point for bauxite from the Boé mines. The decaying concrete piers and rusting industrial facilities bear witness to this intense economic period. After independence and the cessation of bauxite mining, the port lost its importance. Today, the ruins are a melancholic monument to the ambitions and eventual decline of a colonial economy focused on raw material exports.",
+      "factsAdvanced": [
+        "Strategische Lage am Rio Grande de Buba Ästuar.",
+        "Wichtiger Exporthafen für Bauxit in den 1950er-70er Jahren.",
+        "Einst als potenzieller Tiefwasserhafen für das moderne Guinea-Bissau geplant.",
+        "Die Infrastruktur wurde für den Bergbau errichtet.",
+        "Der Niedergang des Hafens ist mit dem Ende des Bergbaus verbunden.",
+        "Zeugnis für die auf Rohstoffausbeutung basierende Kolonialwirtschaft.",
+        "Die Ruinen umfassen Piers, Lagerhallen und Förderanlagen."
+      ]
+    },
+    {
+      "id": "catio-historical-center-history-v2",
+      "descriptionAdvancedDe": "Catió, im Herzen der Tombali-Region im Süden Guinea-Bissaus, ist eine Stadt, deren Geschichte eng mit dem Reisanbau verbunden ist. Die Portugiesen erkannten das Potenzial der fruchtbaren Böden und machten Catió zu einem Verwaltungszentrum für die landwirtschaftliche Produktion. Das historische Zentrum der Stadt spiegelt diese Vergangenheit wider. Die Kolonialarchitektur, obwohl oft in einem Zustand des Verfalls, zeigt die typischen Merkmale portugiesischer Verwaltungsstädte mit einem zentralen Platz, einer Kirche und Regierungsgebäuden. Catió war auch ein strategischer Punkt während des Befreiungskrieges. Heute ist die Stadt ein wichtiger regionaler Markt und das Tor zum Cantanhez-Nationalpark, aber ihr historischer Kern bewahrt die Erinnerung an ihre koloniale Vergangenheit und ihre Rolle als Zentrum der 'Reisschüssel' des Landes.",
+      "descriptionAdvancedHu": "Catió, a Tombali régió szívében, Bissau-Guinea déli részén, egy olyan város, amelynek története szorosan kapcsolódik a rizstermesztéshez. A portugálok felismerték a termékeny talajban rejlő lehetőségeket, és Catiót a mezőgazdasági termelés közigazgatási központjává tették. A város történelmi központja ezt a múltat tükrözi. A gyarmati építészet, bár gyakran leromlott állapotban van, a tipikus portugál közigazgatási városok jellegzetességeit mutatja központi térrel, templommal és kormányzati épületekkel. Catió stratégiai pont volt a felszabadító háború alatt is. Ma a város fontos regionális piac és a Cantanhez Nemzeti Park kapuja, de történelmi magja megőrzi gyarmati múltjának és az ország 'rizsescsészéjeként' betöltött szerepének emlékét.",
+      "descriptionAdvancedRo": "Catió, în inima regiunii Tombali din sudul Guineei-Bissau, este un oraș a cărui istorie este strâns legată de cultivarea orezului. Portughezii au recunoscut potențialul solurilor fertile și au transformat Catió într-un centru administrativ pentru producția agricolă. Centrul istoric al orașului reflectă acest trecut. Arhitectura colonială, deși adesea într-o stare de degradare, prezintă trăsăturile tipice ale orașelor administrative portugheze, cu o piață centrală, o biserică și clădiri guvernamentale. Catió a fost, de asemenea, un punct strategic în timpul războiului de eliberare. Astăzi, orașul este o piață regională importantă și poarta de acces către Parcul Național Cantanhez, dar nucleul său istoric păstrează amintirea trecutului său colonial și a rolului său de 'bol de orez' al țării.",
+      "descriptionAdvancedEn": "Catió, in the heart of the Tombali region in southern Guinea-Bissau, is a town whose history is closely linked to rice cultivation. The Portuguese recognized the potential of the fertile soils and made Catió an administrative center for agricultural production. The town's historic center reflects this past. The colonial architecture, though often in a state of decay, shows the typical features of Portuguese administrative towns with a central square, a church, and government buildings. Catió was also a strategic point during the liberation war. Today, the town is an important regional market and the gateway to the Cantanhez National Park, but its historic core preserves the memory of its colonial past and its role as the country's 'rice bowl'.",
+      "factsAdvanced": [
+        "Administratives Zentrum der Tombali-Region.",
+        "Historisches Herz der 'Reisschüssel' von Guinea-Bissau.",
+        "Koloniale Stadtplanung um einen zentralen Platz (Praça).",
+        "Wichtiger Stützpunkt im Befreiungskrieg für die PAIGC.",
+        "Tor zum Cantanhez-Nationalpark, bekannt für seine Schimpansen.",
+        "Architektur zeigt verfallende, aber charakteristische Kolonialbauten.",
+        "Die Wirtschaft ist bis heute stark von der Landwirtschaft geprägt."
+      ]
+    }
+  ]
+}

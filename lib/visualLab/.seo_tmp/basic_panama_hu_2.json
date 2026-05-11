@@ -1,0 +1,30 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "iglesia-del-carmen-history-v2",
+      "description": "Panamaváros egyik legszebb gótikus stílusú temploma, amely fontos vallási központ.",
+      "facts": ["Gótikus építészeti stílus", "Fontos vallási központ", "Panamaváros látványossága"]
+    },
+    {
+      "id": "palacio-justicia-landmarks-v2",
+      "description": "A panamai igazságszolgáltatási rendszer központi épülete, jelentős közigazgatási helyszín.",
+      "facts": ["Igazságszolgáltatási központ", "Közigazgatási épület", "Fontos állami intézmény"]
+    },
+    {
+      "id": "torre-omega-landmarks-v2",
+      "description": "Panamaváros modern felhőkarcolója, amely a város fejlődő arculatát tükrözi.",
+      "facts": ["Modern építészeti megoldás", "Panamaváros sziluettje", "Jelentős irodaház"]
+    },
+    {
+      "id": "torre-las-americas-landmarks-v2",
+      "description": "Egy prominens irodatorony-együttes, amely a modern üzleti élet színtere.",
+      "facts": ["Modern üzleti központ", "Irodai negyed része", "Panamaváros egyik tornya"]
+    }
+  ]
+}

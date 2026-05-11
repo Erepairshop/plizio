@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-kenya-massif-relief-v2",
+      "description": "Das beeindruckende Zentralmassiv des Mount Kenya, das mit seinen schneebedeckten Gipfeln und Gletschern das Hochland dominiert.",
+      "facts": ["Höchster Berg Kenias", "Erloschener Schichtvulkan", "UNESCO-Weltnaturerbe", "Zentral in Kenia gelegen"]
+    },
+    {
+      "id": "aberdare-range-relief-v2",
+      "description": "Ein vulkanisches Gebirgsmassiv im Westen des Mount Kenya, das für seine tiefen Täler, Wasserfälle und dichten Nebelwälder bekannt ist.",
+      "facts": ["Teil des Great Rift Valleys", "Wichtiges Wassereinzugsgebiet", "Dramatische Klippen", "Höhen bis über 4.000 Meter"]
+    },
+    {
+      "id": "cherangani-hills-relief-v2",
+      "description": "Eines der fünf wichtigsten Wassereinzugsgebiete Kenias, bestehend aus einer Kette von Hügeln mit einer einzigartigen afro-alpinen Flora.",
+      "facts": ["Westliches Rift Valley", "Unberührte Berglandschaft", "Traditionelle Siedlungsgebiete", "Bedeutende Biodiversität"]
+    },
+    {
+      "id": "ndoto-mountains-relief-v2",
+      "description": "Ein abgelegenes und spektakuläres Gebirge im Norden Kenias, das durch schroffe Granitgipfel und unberührte Wildnis besticht.",
+      "facts": ["Im Marsabit County", "Eldorado für Kletterer", "Abgelegene Bergregion", "Wasserspeicher für die Wüste"]
+    },
+    {
+      "id": "mathews-range-relief-v2",
+      "description": "Auch als Lenkiyio Hills bekannt, ist dieses isolierte Gebirge eine biologische Insel inmitten der trockenen Ebenen des Nordens.",
+      "facts": ["Isolierte Bergregion", "Heimat seltener Schmetterlinge", "Dichter Bergregenwald", "Im Norden Kenias"]
+    },
+    {
+      "id": "mount-nyiru-relief-v2",
+      "description": "Ein imposanter Berg im Norden Kenias, der steil aus der Wüste aufragt und für den dort lebenden Stamm der Samburu heilig ist.",
+      "facts": ["Südlich des Turkana-Sees", "Heiliger Berg der Samburu", "Isolierter Waldgipfel", "Markantes Relief"]
+    },
+    {
+      "id": "mount-longonot-relief-v2",
+      "description": "Ein klassischer Schichtvulkan im Rift Valley, dessen steile Hänge und der kreisförmige Kraterrand ein markantes geografisches Merkmal bilden.",
+      "facts": ["Perfekte Kegelform", "Riesiger Einbruchkrater", "Geologisches Wunder", "Nahe Naivasha gelegen"]
+    },
+    {
+      "id": "tana-delta-relief-v2",
+      "description": "Ein weitläufiges Feuchtgebiet an der Mündung des Tana-Flusses, das eine komplexe Landschaft aus Kanälen, Sümpfen und Dünen bildet.",
+      "facts": ["Größtes Delta Kenias", "Reiche Küstenökologie", "Mündung in den Indischen Ozean", "Wichtiges Brutgebiet"]
+    },
+    {
+      "id": "chalbi-desert-relief-v2",
+      "description": "Eine riesige, weiße Salzwüste im Norden Kenias, die einst Teil eines prähistorischen Sees war und für ihre surreale Schönheit bekannt ist.",
+      "facts": ["Größte Wüste Kenias", "Ehemaliger Seeboden", "Extrem heiße Region", "Ort für spektakuläre Fata Morganas"]
+    },
+    {
+      "id": "susswa-volcano-relief-v2",
+      "description": "Ein einzigartiger Doppelschildvulkan, der für seinen \"Krater im Krater\" und seine ausgedehnten Lavahöhlen bekannt ist.",
+      "facts": ["Doppelkrater-Struktur", "Umfangreiches Höhlensystem", "Geologische Rarität", "Im Rift Valley"]
+    },
+    {
+      "id": "kinangop-plateau-relief-v2",
+      "description": "Ein Hochplateau am westlichen Rand der Aberdare-Berge, das für seine weiten Grasflächen und seine Bedeutung für die Landwirtschaft bekannt ist.",
+      "facts": ["Zwischen Rift und Bergen", "Kühles Hochlandklima", "Zentrum der Milchwirtschaft", "Wichtiger Lebensraum für Vögel"]
+    },
+    {
+      "id": "ndere-island-relief-v2",
+      "description": "Eine kleine Insel im Viktoriasee, die aus dem Wasser ragt und als Refugium für seltene Vögel und Reptilien dient.",
+      "facts": ["Insel im Viktoriasee", "Nationalpark-Status", "Vulkanische Felsen", "Ruhiges Naturreservat"]
+    },
+    {
+      "id": "kacheliba-plains-relief-v2",
+      "description": "Weite, offene Ebenen im Nordwesten Kenias, die durch ihre Halbwüstenlandschaft und die traditionelle pastorale Lebensweise geprägt sind.",
+      "facts": ["Im Pokot-Land", "Aride Graslandschaften", "Pastorales Weidegebiet", "Grenze zu Uganda"]
+    }
+  ]
+}

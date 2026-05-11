@@ -1,0 +1,77 @@
+{
+  "lang": "en",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sn-dakar-arena-landmarks-v2",
+      "description": "A modern multi-purpose sports and entertainment complex in Diamniadio, hosting high-profile international basketball matches and concerts.",
+      "facts": ["Opened 2018", "Diamniadio location", "Basketball venue"]
+    },
+    {
+      "id": "sn-hotel-de-ville-dakar-landmarks-v2",
+      "description": "The town hall of Dakar, a historic building that serves as the administrative center for the city's government and municipal services.",
+      "facts": ["Historic building", "Dakar administration", "Central location"]
+    },
+    {
+      "id": "sn-massalikoul-jinaan-mosque-landmarks-v2",
+      "description": "One of the largest mosques in West Africa, known for its intricate design and impressive capacity. It is a major center for worship and community gathering in Dakar.",
+      "facts": ["Capacity 30,000", "Intricate design", "Major landmark"]
+    },
+    {
+      "id": "sn-marche-kermel-landmarks-v2",
+      "description": "A popular market in Dakar renowned for its colonial architecture and vibrant selection of fresh food, flowers, and local crafts.",
+      "facts": ["Colonial architecture", "Dakar market", "Local crafts"]
+    },
+    {
+      "id": "sn-maison-ousmane-sow-landmarks-v2",
+      "description": "The residence and studio of renowned sculptor Ousmane Sow, now a cultural landmark honoring his life and work.",
+      "facts": ["Sculptor studio", "Dakar landmark", "Artistic heritage"]
+    },
+    {
+      "id": "ferme-de-kolda-life-v2",
+      "description": "A local agricultural farm focusing on regional crop cultivation and rural development, contributing to the livelihoods in the Kolda area.",
+      "facts": ["Kolda region", "Rural development", "Agricultural farm"]
+    },
+    {
+      "id": "parc-lompoul-life-v2",
+      "description": "A unique park area showcasing the natural environment and local ecological diversity, popular for nature activities.",
+      "facts": ["Nature park", "Ecological site", "Lompoul area"]
+    },
+    {
+      "id": "culture-coton-tambacounda-life-v2",
+      "description": "An agricultural zone in Tambacounda dedicated to cotton production, which is a major contributor to the local agricultural economy.",
+      "facts": ["Cotton production", "Tambacounda", "Agro-hub"]
+    },
+    {
+      "id": "ferme-avicole-thiès-life-v2",
+      "description": "A poultry farming facility in the Thiès region, providing essential agricultural products and supporting food supply in the area.",
+      "facts": ["Poultry farm", "Thiès region", "Food production"]
+    },
+    {
+      "id": "plage-des-enfants-life-v2",
+      "description": "A designated recreational beach area popular with families and children, providing a safe space for leisure and outdoor activities.",
+      "facts": ["Recreational beach", "Family-friendly", "Outdoor leisure"]
+    },
+    {
+      "id": "reserve-fathala-life-v2",
+      "description": "A protected wildlife reserve featuring a diverse ecosystem, offering visitors opportunities to see local fauna and forest environments.",
+      "facts": ["Wildlife reserve", "Protected area", "Fauna habitat"]
+    },
+    {
+      "id": "jardin-botanique-dakar-life-v2",
+      "description": "A botanical garden in Dakar displaying a collection of regional plant species and providing a tranquil green space within the city.",
+      "facts": ["Botanical garden", "Dakar green space", "Local flora"]
+    },
+    {
+      "id": "culture-tomate-podor-life-v2",
+      "description": "A major agricultural project in the Podor region focused on large-scale tomato cultivation for regional markets.",
+      "facts": ["Tomato production", "Podor region", "Agricultural project"]
+    }
+  ]
+}

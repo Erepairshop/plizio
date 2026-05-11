@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-e-concepcion-del-uruguay-cities-v2",
+      "description": "A historic port city on the Uruguay River, known for its academic tradition and its role in the nation's formation.",
+      "facts": ["Home to the historic Justo José de Urquiza college", "Important river port and educational center", "Known as the 'Historical City' of Entre Ríos"]
+    },
+    {
+      "id": "ar-p-formosa-cities-v2",
+      "description": "The capital of Formosa Province, this subtropical city features a beautiful riverfront and acts as a gateway to the Pilcomayo region.",
+      "facts": ["Located on the banks of the Paraguay River", "Known for its modern 'Costanera' promenade", "Center for the region's cattle and timber industries"]
+    },
+    {
+      "id": "ar-p-clorinda-cities-v2",
+      "description": "A bustling border city in Formosa, located across the river from Asunción, Paraguay, and serving as a key trade link.",
+      "facts": ["The second-largest city in Formosa Province", "Strategic commercial point on the Paraguay River", "Connected to Paraguay via the San Ignacio de Loyola bridge"]
+    },
+    {
+      "id": "ar-y-san-salvador-de-jujuy-cities-v2",
+      "description": "The capital of Jujuy Province, nestled in the Andes foothills and serving as the gateway to the stunning Quebrada de Humahuaca.",
+      "facts": ["Known as 'La Tacita de Plata' (The Silver Cup)", "Surrounded by colorful mountains and valleys", "A major cultural center for Andean traditions"]
+    },
+    {
+      "id": "ar-y-san-pedro-de-jujuy-cities-v2",
+      "description": "A productive city in the fertile San Pedro valley, known for its sugar industry and lively carnival traditions.",
+      "facts": ["Center for major sugar cane and citrus production", "Famous for its vibrant 'Carnaval de las Yungas'", "Located in a lush, subtropical ecological zone"]
+    },
+    {
+      "id": "ar-y-palpala-cities-v2",
+      "description": "An industrial city near the capital of Jujuy, historically significant for its steel production and mineral processing.",
+      "facts": ["Known as the 'Industrial Capital' of Jujuy", "Site of the first blast furnace in Argentina", "Strategic center for the regional mining industry"]
+    },
+    {
+      "id": "ar-l-santa-rosa-cities-v2",
+      "description": "The capital of La Pampa Province, Santa Rosa is a tranquil city in the heart of the Argentine pampa, known for its rural heritage.",
+      "facts": ["Founded in 1892 as a rural settlement", "Surrounded by vast plains and caldén forests", "Home to the impressive Provincial Cultural Center"]
+    },
+    {
+      "id": "ar-l-general-pico-cities-v2",
+      "description": "The second-largest city in La Pampa, General Pico is a thriving agricultural and industrial hub with a strong pioneering spirit.",
+      "facts": ["Founded at a strategic railway junction in 1905", "Major center for soy, corn, and sunflower production", "Features a prominent free trade zone"]
+    },
+    {
+      "id": "ar-f-la-rioja-cities-v2",
+      "description": "The capital of La Rioja Province, located at the foot of the Velasco mountains and known for its arid beauty and olive production.",
+      "facts": ["Founded in 1591 by Juan Ramírez de Velasco", "Major producer of world-class olives and wines", "Gateway to the Talampaya National Park"]
+    },
+    {
+      "id": "ar-f-chilecito-cities-v2",
+      "description": "The second city of La Rioja, Chilecito is set in a fertile valley famous for its vineyards and historic mining cable car.",
+      "facts": ["Home to the world's longest high-altitude cable car", "Renowned for its Torrontés white wine production", "Surrounded by the majestic Famatina mountains"]
+    },
+    {
+      "id": "ar-m-mendoza-cities-v2",
+      "description": "A beautiful desert city transformed by irrigation, Mendoza is the heart of Argentina's wine country and a hub for Andes mountaineering.",
+      "facts": ["World Capital of Wine and Malbec", "Gateway to Aconcagua, the highest peak in the Americas", "Known for its wide tree-lined avenues and plazas"]
+    },
+    {
+      "id": "ar-m-godoy-cruz-cities-v2",
+      "description": "Part of the Greater Mendoza metropolitan area, Godoy Cruz is a vibrant city known for its shopping, parks, and historic wineries.",
+      "facts": ["Named after Tomás Godoy Cruz, a local independence hero", "Home to the popular San Vicente Park", "Significant residential and commercial district of Mendoza"]
+    },
+    {
+      "id": "ar-m-lujan-de-cuyo-cities-v2",
+      "description": "A historic district in Mendoza, Luján de Cuyo is considered the 'Land of Malbec' and features many of the country's most famous wineries.",
+      "facts": ["The premier region for Malbec grape cultivation", "Home to prestigious and historic 'bodegas'", "Offers stunning views of the snow-capped Andes"]
+    },
+    {
+      "id": "ar-n-posadas-cities-v2",
+      "description": "The capital of Misiones Province, Posadas is a bustling river city acting as a gateway to the Jesuit Missions and the Iberá Wetlands.",
+      "facts": ["Located on the banks of the Paraná River", "Connected to Paraguay via the San Roque González bridge", "Features a long and scenic riverfront promenade"]
+    },
+    {
+      "id": "ar-n-obera-cities-v2",
+      "description": "A multi-cultural city in Misiones, Oberá was founded by immigrants and is known as the 'National Capital of the Immigrant'.",
+      "facts": ["Hosts the annual National Immigrant's Festival", "Surrounded by lush yerba mate and tea plantations", "Home to the beautiful Bird Park (Parque de las Aves)"]
+    }
+  ]
+}

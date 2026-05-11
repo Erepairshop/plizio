@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Paraguay",
+  "files": [
+    "lib/visualLab/data/poiExtraParaguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "serrania-de-amambay-relief-v2",
+      "description": "Die Serranía de Amambay ist ein bewaldetes Gebirge im Osten Paraguays an der Grenze zu Brasilien. Es bildet eine natürliche Wasserscheide zwischen den Einzugsgebieten der Flüsse Paraguay und Paraná.",
+      "facts": ["Höhenlage bis 700 Meter", "Grenze zu Brasilien", "Wichtige Wasserscheide", "Dichte Waldvegetation"]
+    },
+    {
+      "id": "cerro-memby-relief-v2",
+      "description": "Der Cerro Memby ist ein markanter isolierter Berg im Departamento Concepción. Er ist ein bekanntes geographisches Wahrzeichen der Region und bietet einen weiten Ausblick über das umgebende Tiefland.",
+      "facts": ["Departamento Concepción", "Isolierte Bergform", "Bekanntes Wahrzeichen", "Panoramablick"]
+    }
+  ]
+}

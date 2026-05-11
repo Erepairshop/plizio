@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "somoto-cities-v2",
+      "description": "Somoto is the capital of the Madriz department, known for its proximity to a deep river canyon.",
+      "facts": ["Department: Madriz", "Known for canyon", "Northern highlands", "Regional trade hub"]
+    },
+    {
+      "id": "ocotal-cities-v2",
+      "description": "Ocotal serves as the seat of the Nueva Segovia department, located in the mountainous north.",
+      "facts": ["Department: Nueva Segovia", "Highland city", "Founded in 1780", "Coffee growing region"]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "description": "Diriamba is a cultural town in the Carazo department, famous for its traditional dances and coffee production.",
+      "facts": ["Department: Carazo", "Cultural center", "Coffee hub", "Elevation: 580m"]
+    },
+    {
+      "id": "somotillo-cities-v2",
+      "description": "Somotillo is a town in the Chinandega department, situated near the border with Honduras.",
+      "facts": ["Department: Chinandega", "Near border", "Agricultural area", "Tropical climate"]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "description": "Sebaco is a major commercial intersection in the Matagalpa department, serving as a hub for regional agriculture.",
+      "facts": ["Department: Matagalpa", "Agricultural hub", "Valley location", "Trade crossroads"]
+    },
+    {
+      "id": "posoltega-cities-v2",
+      "description": "Posoltega is a municipality in the Chinandega department, historically focused on agriculture.",
+      "facts": ["Department: Chinandega", "Western plains", "Farming community", "Near volcanoes"]
+    },
+    {
+      "id": "masatepe-cities-v2",
+      "description": "Masatepe is a town in the Masaya department, recognized for its artisan crafts and furniture making.",
+      "facts": ["Department: Masaya", "Crafts center", "Furniture production", "Volcanic plateau"]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "description": "Niquinohomo is a historic town in the Masaya department, known as the birthplace of Augusto César Sandino.",
+      "facts": ["Department: Masaya", "Birthplace of Sandino", "Pueblos Blancos", "Highland climate"]
+    },
+    {
+      "id": "rio-blanco-cities-v2",
+      "description": "Rio Blanco is a growing town in the Matagalpa department, acting as a gateway to the Caribbean region.",
+      "facts": ["Department: Matagalpa", "Gateway to east", "Livestock farming", "Mountainous terrain"]
+    },
+    {
+      "id": "rosita-cities-v2",
+      "description": "Rosita is a mining town in the North Caribbean Coast Autonomous Region, historically significant for mineral extraction.",
+      "facts": ["Region: North Caribbean", "Mining history", "Tropical forest", "Gold extraction"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "new-amsterdam-cities-v2",
+      "descriptionAdvanced": {
+        "de": "New Amsterdam, am östlichen Ufer des Berbice-Flusses gelegen, ist eine der geschichtsträchtigsten Städte Guyanas. Die Siedlung wurde ursprünglich von den Niederländern im 18. Jahrhundert in der Nähe des Fort Sint Andries gegründet, bevor sie an ihren heutigen Standort verlegt wurde. Als ehemalige Hauptstadt der Kolonie Berbice bewahrt die Stadt einen besonderen kolonialen Charakter, der sich in der hölzernen Architektur und dem schachbrettartigen Straßenlayout widerspiegelt. Geografisch liegt New Amsterdam etwa 100 Kilometer östlich von Georgetown und fungiert als wichtigstes administratives und kommerzielles Zentrum der Region East Berbice-Corentyne. Die Wirtschaft der Stadt ist eng mit der umliegenden Zuckerrohr- und Reisproduktion verknüpft. Ein architektonisches Highlight ist das Rathaus mit seinem markanten Uhrturm. Die Stadt ist zudem ein bedeutender Bildungsstandort und beherbergt das Berbice Campus der Universität von Guyana. Trotz der Konkurrenz durch die Hauptstadt Georgetown bleibt New Amsterdam das kulturelle Herz des Berbice-Distrikts und ein Zeugnis der niederländischen und britischen Kolonialgeschichte in Südamerika.",
+        "hu": "New Amsterdam a Berbice-folyó keleti partján fekszik, és Guyana egyik legősibb, történelmi emlékekben gazdag városa. A települést eredetileg a hollandok alapították a 18. században a Fort Sint Andries erőd közelében, majd később helyezték át mai, végleges helyére. Mint a korábbi Berbice gyarmat székhelye, a város máig őrzi sajátos koloniális arculatát, amelyet a díszes faépületek és a szabályos, négyzethálós utcaszerkezet határoz meg. Földrajzilag mintegy 100 kilométerre keletre található Georgetowntól, és az East Berbice-Corentyne régió legfontosabb közigazgatási és kereskedelmi központjaként funkcionál. A város gazdasága szorosan összefonódik a környező cukornád- és rizstermesztéssel. Építészeti örökségének kiemelkedő darabja a városháza az ikonikus óratoronnyal. New Amsterdam fontos oktatási központ is, itt található a Guyanai Egyetem Berbice-i campusa. A főváros dominanciája ellenére New Amsterdam megőrizte regionális jelentőségét, mint a Berbice-vidék kulturális és gazdasági motorja, egyben a holland és brit vízépítő és várostervező művészet mementója.",
+        "ro": "New Amsterdam, situat pe malul estic al râului Berbice, este unul dintre cele mai vechi și încărcate de istorie orașe din Guyana. Așezarea a fost fondată inițial de olandezi în secolul al XVIII-lea, în apropierea fortului Sint Andries, înainte de a fi mutată pe amplasamentul actual. Ca fostă capitală a coloniei Berbice, orașul păstrează un caracter colonial distinct, reflectat în arhitectura sa din lemn și în structura stradală ortogonală. Din punct de vedere geografic, New Amsterdam se află la aproximativ 100 de kilometri est de Georgetown și funcționează ca principal centru administrativ și comercial al regiunii East Berbice-Corentyne. Economia orașului este strâns legată de producția de trestie de zahăr și orez din zonele limitrofe. Un punct de atracție arhitectural major este primăria, cu turnul său cu ceas emblematic. Orașul este, de asemenea, un centru educațional important, găzduind campusul Berbice al Universității din Guyana. În ciuda ascensiunii capitalei Georgetown, New Amsterdam rămâne inima culturală a districtului Berbice și un martor al influențelor coloniale olandeze și britanice în America de Sud.",
+        "en": "New Amsterdam, positioned on the eastern bank of the Berbice River, is one of Guyana's most historic urban centers. Originally established by the Dutch in the 18th century near Fort Sint Andries, the settlement was later relocated to its current site. As the former capital of the Berbice colony, the town retains a distinct colonial ambiance, characterized by traditional wooden architecture and a grid-like street pattern. Geographically situated about 100 kilometers east of Georgetown, it serves as the administrative and commercial hub for the East Berbice-Corentyne region. The local economy is deeply integrated with the surrounding sugar and rice industries. An architectural landmark of the town is the New Amsterdam Town Hall, noted for its prominent clock tower. The town also functions as a vital educational center, hosting the Berbice Campus of the University of Guyana. Despite the centralization of power in Georgetown, New Amsterdam remains the cultural anchor of the Berbice district and a living testament to the Dutch and British colonial legacies in South America."
+      },
+      "factsAdvanced": {
+        "de": [
+          "New Amsterdam wurde 1791 an seinen heutigen Standort verlegt.",
+          "Die Stadt war die Hauptstadt der eigenständigen niederländischen Kolonie Berbice.",
+          "Das Rathaus gilt als eines der schönsten Beispiele für viktorianische Holzarchitektur.",
+          "Die Stadt liegt etwa 6 Kilometer oberhalb der Mündung des Berbice in den Atlantik.",
+          "New Amsterdam ist über die Berbice River Bridge mit dem Westen des Landes verbunden.",
+          "Die Stadt ist bekannt für ihre multikulturellen religiösen Stätten, darunter historische Moscheen."
+        ],
+        "hu": [
+          "New Amsterdamot 1791-ben helyezték át a mai, mocsaras területtől védettebb helyére.",
+          "A város az egykori önálló holland Berbice gyarmat közigazgatási központja volt.",
+          "A városháza a viktoriánus kori faépítészet egyik legszebb dél-amerikai példája.",
+          "A település 6 kilométerre fekszik a Berbice-folyó atlanti torkolatától.",
+          "A Berbice-folyó hídja biztosítja az állandó közúti kapcsolatot a főváros felé.",
+          "A város híres a különböző etnikumok békés együttéléséről és templomaik sokszínűségéről."
+        ],
+        "ro": [
+          "New Amsterdam a fost mutat pe actualul amplasament în anul 1791.",
+          "Orașul a servit drept capitală a coloniei olandeze Berbice până la unificarea Guyanei.",
+          "Primăria locală este un monument istoric construit integral din lemn în stil victorian.",
+          "Localitatea este situată la intersecția râului Canje cu râul Berbice.",
+          "Podul peste râul Berbice a eliminat dependența de feribot pentru accesul spre Georgetown.",
+          "Găzduiește una dintre cele mai vechi unități spitalicești psihiatrice din regiune."
+        ],
+        "en": [
+          "New Amsterdam was established at its present location in 1791.",
+          "It was the administrative seat of the Dutch colony of Berbice before the British takeover.",
+          "The Town Hall features a high tower that is a dominant landmark in the flat landscape.",
+          "The town is located at the confluence of the Canje and Berbice Rivers.",
+          "The Berbice River Bridge, opened in 2008, links the town to the West Bank.",
+          "It is a key center for the regional distribution of agricultural fertilizers and machinery."
+        ]
+      }
+    },
+    {
+      "id": "anna-regina-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Anna Regina ist die Hauptstadt der Region Pomeroon-Supenaam und das wichtigste urbane Zentrum an der sogenannten 'Essequibo Coast' Guyanas. Die Stadt hat ihre Wurzeln in einer ehemaligen Zuckerrohrplantage und wurde erst 1970 offiziell zur Stadt erhoben. Anna Regina ist geprägt durch ein weitläufiges Netz von Kanälen und Deichen, die für den großflächigen Reisanbau in der Umgebung unerlässlich sind. Die Architektur ist funktional und spiegelt die Bedeutung der Stadt als administrativer Knotenpunkt wider. Ein zentrales historisches Denkmal ist das Damon-Monument, das an den Sklavenaufstand von 1834 erinnert. Geografisch liegt die Stadt eingebettet zwischen dem Atlantischen Ozean und den fruchtbaren Ebenen des Hinterlandes. Die Wirtschaft wird fast ausschließlich durch den Reissektor dominiert, wobei Anna Regina als zentraler Markt- und Verarbeitungsplatz fungiert. Die Nähe zum Mainstay Lake macht die Stadt zudem zu einem Ausgangspunkt für lokale Erholungsreisen. Anna Regina symbolisiert den Stolz der bäuerlichen Gemeinschaften der Essequibo-Region und ist ein Musterbeispiel für die Transformation von kolonialen Plantagenstrukturen in ein modernes Verwaltungszentrum.",
+        "hu": "Anna Regina Pomeroon-Supenaam régió székhelye és a guyanai „Essequibo-part” legfontosabb városi központja. A város eredetileg egy cukornádültetvény területén alakult ki, és csak 1970-ben kapott városi rangot. Anna Reginát csatornák és gátak szövevényes hálózata jellemzi, amelyek nélkülözhetetlenek a környéken folyó nagyszabású rizstermesztéshez. Az építészet funkcionális, tükrözve a település közigazgatási szerepét. A város egyik legfontosabb történelmi emléke a Damon-emlékmű, amely az 1834-es rabszolgalázadás vezérének állít emléket. Földrajzilag a város az Atlanti-óceán és a hátország termékeny síkságai között helyezkedik el. Gazdaságát szinte teljes egészében a rizsszektor uralja, Anna Regina pedig központi piacként és feldolgozóhelyként szolgál. A közeli Mainstay-tó népszerűsége miatt a város a helyi turizmus egyik fontos bázisa is. Anna Regina az Essequibo-vidék gazdálkodó közösségeinek büszkeségét jelképezi, és kiváló példája annak, hogyan alakultak át az egykori gyarmati ültetvények modern közigazgatási központokká.",
+        "ro": "Anna Regina este capitala regiunii Pomeroon-Supenaam și cel mai important centru urban de pe așa-numita 'Essequibo Coast' din Guyana. Orașul își are originile într-o fostă plantație de trestie de zahăr și a primit statutul oficial de oraș abia în 1970. Anna Regina este marcată de o rețea vastă de canale și diguri, esențiale pentru cultivarea orezului pe scară largă în împrejurimi. Arhitectura este funcțională, reflectând importanța orașului ca nod administrativ. Un monument istoric central este Monumentul Damon, care comemorează revolta sclavilor din 1834. Din punct de vedere geografic, orașul este situat între Oceanul Atlantic și câmpiile fertile din interior. Economia este dominată aproape exclusiv de sectorul orezului, Anna Regina funcționând ca principal loc de comercializare și procesare. Proximitatea față de lacul Mainstay transformă orașul și într-un punct de plecare pentru activități recreative locale. Anna Regina simbolizează mândria comunităților de fermieri din regiunea Essequibo și este un exemplu model de transformare a structurilor coloniale de plantație într-un centru administrativ modern.",
+        "en": "Anna Regina is the capital of the Pomeroon-Supenaam region and the preeminent urban center along Guyana's 'Essequibo Coast.' The town's roots lie in a former sugar plantation, and it officially achieved township status in 1970. Anna Regina is characterized by an extensive system of canals and dikes, which are critical for the large-scale rice cultivation that dominates the surrounding area. The architecture is primarily functional, reflecting the town's role as a regional administrative hub. A key historical landmark is the Damon Monument, erected to honor the leader of the 1834 slave protest. Geographically, the town is nestled between the Atlantic Ocean and the fertile plains of the hinterland. The local economy is almost entirely driven by the rice sector, with Anna Regina serving as the central marketplace and processing point. Its proximity to Lake Mainstay also makes it a popular base for local recreation. Anna Regina embodies the resilience and pride of the farming communities in the Essequibo region, marking the successful evolution of colonial plantation land into a modern governance center."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Anna Regina wurde erst 1970 während des Unabhängigkeits-Hypes zur Stadt.",
+          "Das Damon-Monument erinnert an einen friedlichen Protest gegen das Lehrlingssystem.",
+          "Die Stadt ist das logistische Zentrum für die Reisbauern des Essequibo-Distrikts.",
+          "Anna Regina beherbergt eine der modernsten Reismühlen der Karibik.",
+          "In der Nähe liegt der Mainstay Lake, bekannt für sein klares, kaffeefarbenes Wasser.",
+          "Die Stadtverwaltung kontrolliert ein komplexes Entwässerungssystem zum Meer."
+        ],
+        "hu": [
+          "Anna Regina 1970-ben kapott városi rangot, az ország köztársasággá válásakor.",
+          "A Damon-emlékmű egy 1834-es békés ültetvényes tiltakozásnak állít emléket.",
+          "A város az Essequibo-vidék rizstermesztőinek elsődleges logisztikai központja.",
+          "Itt található a Karib-térség egyik legmodernebb rizshántoló üzeme.",
+          "A közeli Mainstay-tó különlegessége a tiszta, de sötétbarna, „kávészínű” vize.",
+          "A város tengerszint feletti magassága miatt bonyolult zsiliprendszer védi a belterületeket."
+        ],
+        "ro": [
+          "Anna Regina a devenit oraș oficial în 1970, odată cu proclamarea Republicii.",
+          "Monumentul Damon este dedicat unui martir care a luptat pentru drepturile foștilor sclavi.",
+          "Orașul servește drept nod de colectare pentru recoltele de orez din toată regiunea 2.",
+          "Include facilități guvernamentale majore, precum Tribunalul de Magistrați.",
+          "Lacul Mainstay, aflat la mică distanță, este renumit pentru plajele sale de nisip alb.",
+          "Economia locală depinde de funcționarea eficientă a canalelor de irigații olandeze."
+        ],
+        "en": [
+          "Anna Regina was incorporated as a town in 1970.",
+          "The Damon Monument commemorates the 1834 rebellion at La Belle Alliance.",
+          "The town is the primary commercial hub for the Essequibo Coast rice belt.",
+          "It features significant infrastructure for the storage and export of agricultural goods.",
+          "The nearby Mainstay Lake is a major domestic tourism attraction.",
+          "Anna Regina's layout still follows the original boundaries of colonial estates."
+        ]
+      }
+    },
+    {
+      "id": "bartica-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bartica, oft als das 'Tor zum Hinterland' bezeichnet, liegt strategisch am Zusammenfluss der drei mächtigen Flüsse Essequibo, Mazaruni und Cuyuni. Diese einzigartige geografische Lage hat die Stadt zum unverzichtbaren logistischen Knotenpunkt für Guyanas Bergbauindustrie gemacht. Ursprünglich als anglikanische Missionsstation im 19. Jahrhundert gegründet, entwickelte sich Bartica schnell zu einem pulsierenden Umschlagplatz für Gold- und Diamantensucher. Die Architektur der Stadt ist geprägt von funktionalen Gebäuden, Werkstätten und Versorgungsstationen, die den rauen Anforderungen des Bergbausektors gerecht werden. Wirtschaftlich gesehen hängt fast jeder Aspekt des Lebens in Bartica von den Aktivitäten im Landesinneren ab; die Stadt versorgt die Camps mit Treibstoff, Lebensmitteln und Ausrüstung. Ein kulturelles Highlight ist die jährliche Bartica Regatta, die Besucher aus dem ganzen Land anzieht. Das Relief um die Stadt ist sanft hügelig und bietet einen reizvollen Kontrast zu den weiten Wasserflächen der Flussmündungen. Bartica ist ein Schmelztiegel der Kulturen, in dem sich Bergleute, Händler und indigene Völker begegnen, und steht heute an der Schwelle zu einer modernen Stadtentwicklung mit dem Ziel, das erste 'Green Town' Guyanas zu werden.",
+        "hu": "Bartica, amelyet gyakran a „hátország kapujaként” emlegetnek, stratégiai helyen, három hatalmas folyó – az Essequibo, a Mazaruni és a Cuyuni – találkozásánál fekszik. Ez az egyedülálló földrajzi elhelyezkedés tette a várost Guyana bányászatának nélkülözhetetlen logisztikai csomópontjává. Az eredetileg anglikán missziós állomásként alapított település a 19. században gyorsan az arany- és gyémántásók vibráló központjává fejlődött. A város építészetét a funkcionális épületek, műhelyek és ellátóállomások jellemzik, amelyek a bányászati szektor zord követelményeihez igazodnak. Gazdaságilag Bartica szinte minden szempontból a belső területek tevékenységétől függ; a város látja el a táborokat üzemanyaggal, élelemmel és felszereléssel. Kulturális szempontból kiemelkedik az évente megrendezett Bartica Regatta, amely az egész országból vonzza a látogatókat. A várost övező domborzat enyhén lankás, kellemes kontrasztot alkotva a folyótorkolatok hatalmas vízfelületeivel. Bartica a kultúrák olvasztótégelye, ahol bányászok, kereskedők és őslakos népek találkoznak, és ma Guyana első „zöld városává” válásának küszöbén áll.",
+        "ro": "Bartica, supranumit adesea 'Poarta către Interior', este situat strategic la confluența a trei râuri puternice: Essequibo, Mazaruni și Cuyuni. Această poziție geografică unică a transformat orașul într-un nod logistic indispensabil pentru industria minieră din Guyana. Fondat inițial ca o stațiune misionară anglicană în secolul al XIX-lea, Bartica s-a dezvoltat rapid într-un centru vibrant pentru căutătorii de aur și diamante. Arhitectura orașului este marcată de clădiri funcționale, ateliere și stații de aprovizionare care răspund cerințelor aspre ale sectorului minier. Din punct de vedere economic, aproape fiecare aspect al vieții din Bartica depinde de activitățile din interiorul țării; orașul aprovizionează taberele miniere cu combustibil, alimente și echipamente. Un punct culminant cultural este Regata Bartica, organizată anual, care atrage vizitatori din întreaga țară. Relieful din jurul orașului este ușor deluros, oferind un contrast plăcut cu suprafețele vaste de apă ale gurilor de vărsare ale râurilor. Bartica este un creuzet de culturi, unde se întâlnesc minieri, comercianți și popoare indigene, aflându-se astăzi în pragul unei dezvoltări urbane moderne, cu scopul de a deveni primul 'Green Town' din Guyana.",
+        "en": "Bartica, frequently called the 'Gateway to the Interior,' is strategically located at the confluence of three major rivers: the Essequibo, Mazaruni, and Cuyuni. This unique geographical positioning has made the town an indispensable logistical hub for Guyana's mining industry. Originally established as an Anglican mission station in the 19th century, Bartica rapidly evolved into a bustling center for gold and diamond prospectors. The town's architecture features functional buildings, workshops, and supply stations tailored to the rigorous demands of the mining sector. Economically, nearly every facet of life in Bartica is linked to interior operations; the town provides mining camps with fuel, food, and machinery. A cultural highlight is the annual Bartica Regatta, which draws spectators from across the nation. The surrounding terrain is gently rolling, offering a scenic contrast to the vast river expanses at the confluence. Bartica is a cultural melting pot where miners, traders, and indigenous peoples intersect, and it is currently aiming to modernize as Guyana’s first officially designated 'Green Town.'"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bartica ist der Ausgangspunkt für fast alle Bergbau-Expeditionen im Mazaruni-Distrikt.",
+          "Der Name stammt aus der indigenen Sprache und bedeutet 'rotes Land'.",
+          "Die Stadt beherbergt ein wichtiges regionales Krankenhaus für die Bergbauregion.",
+          "Die Bartica Regatta zu Ostern ist eines der größten Sportevents Guyanas.",
+          "Die Regierung plant, Bartica durch Solarenergie vollständig energieautark zu machen.",
+          "Es gibt keine Brückenverbindung nach Georgetown; der Zugang erfolgt per Boot oder Flugzeug."
+        ],
+        "hu": [
+          "Bartica a Mazaruni-körzet szinte összes bányászati expedíciójának kiindulópontja.",
+          "A város neve az őslakosok nyelvén „vörös földet” jelent.",
+          "A település fontos regionális kórházzal rendelkezik, amely a bányavidéket szolgálja ki.",
+          "A húsvéti Bartica Regatta Guyana egyik legnagyobb sporteseménye.",
+          "A kormány tervei szerint Bartica lesz az ország első, teljesen napenergiával működő városa.",
+          "Nincs híd Georgetowon felé, a város csak hajóval vagy repülővel közelíthető meg."
+        ],
+        "ro": [
+          "Bartica este punctul de plecare pentru majoritatea expedițiilor miniere din districtul Mazaruni.",
+          "Numele provine dintr-o limbă indigenă și înseamnă 'pământ roșu'.",
+          "Orașul găzduiește un spital regional vital pentru urgențele din zonele miniere.",
+          "Regata Bartica de Paște este unul dintre cele mai mari evenimente sportive din Guyana.",
+          "Guvernul intenționează să facă din Bartica un model de oraș sustenabil prin energie solară.",
+          "Nu există o legătură terestră directă cu Georgetown, accesul fiind exclusiv naval sau aerian."
+        ],
+        "en": [
+          "Bartica is the primary staging point for mining activities in the Mazaruni and Cuyuni districts.",
+          "The town's name is derived from an Amerindian word meaning 'red earth.'",
+          "It serves as a critical healthcare hub for miners working in remote interior camps.",
+          "The annual Bartica Regatta is a premier national powerboat racing event.",
+          "Bartica was designated as a pilot site for Guyana’s national green economy initiative.",
+          "Transportation to Georgetown relies on high-speed river taxis and light aircraft."
+        ]
+      }
+    },
+    {
+      "id": "corriverton-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Corriverton ist die östlichste Stadt Guyanas und liegt direkt am Corentyne-Fluss, der die natürliche Grenze zu Suriname bildet. Die Stadt entstand aus dem Zusammenschluss der beiden Siedlungen Springlands und Skeldon und fungiert heute als Guyanas wichtigstes Tor zum östlichen Nachbarn. Die wirtschaftliche Bedeutung von Corriverton ist untrennbar mit der Zuckerindustrie verbunden; die Skeldon Sugar Estate war lange Zeit einer der größten Arbeitgeber und industriellen Komplexe des Landes. Neben dem Zuckersektor prägt der grenzüberschreitende Handel und der Schmuggel die lokale Ökonomie. Geografisch ist der Ort flach und durch die Küstenautobahn erschlossen, die hier ihren Endpunkt findet. Die Architektur von Corriverton ist eine Mischung aus kommerziellen Lagerhäusern, kolonialen Wohnhäusern und modernen Einkaufszentren, die vom regen Grenzverkehr profitieren. Die Bevölkerung ist ethnisch vielfältig, wobei die ostindische Gemeinschaft stark vertreten ist, was sich in zahlreichen Hindu-Tempeln und der lokalen Gastronomie widerspiegelt. Die Fähre nach South Drain in Suriname ist das logistische Herzstück der Stadt und symbolisiert Corrivertons Rolle als Bindeglied in der regionalen Integration Südamerikas.",
+        "hu": "Corriverton Guyana legkeletibb városa, amely közvetlenül a Suriname-mal határos Corentyne-folyó partján fekszik. A város két település, Springlands és Skeldon összevonásával jött létre, és ma Guyana legfontosabb kapuja keleti szomszédja felé. Corriverton gazdasági jelentősége elválaszthatatlan a cukoripartól; a Skeldon Sugar Estate hosszú ideig az ország egyik legnagyobb munkáltatója és ipari komplexuma volt. A cukorágazat mellett a határon átnyúló kereskedelem és az informális gazdaság határozza meg a helyi dinamikát. Földrajzilag a terület sík, és itt végződik a part menti főútvonal. Corriverton építészete kereskedelmi raktárak, gyarmati stílusú lakóházak és modern üzletközpontok elegye, amelyek a határmenti forgalomból profitálnak. A lakosság etnikailag sokszínű, különösen erős az indiai származású közösség jelenléte, ami a számos hindu templomban és a helyi gasztronómiában is megmutatkozik. A suriname-i South Drainbe tartó komp a város logisztikai szíve, és Corrivertonnak Dél-Amerika regionális integrációjában betöltött szerepét jelképezi.",
+        "ro": "Corriverton este cel mai estic oraș din Guyana, situat direct pe malul râului Corentyne, care formează granița naturală cu Suriname. Orașul a luat naștere prin fuziunea celor două așezări, Springlands și Skeldon, fiind astăzi principala poartă de acces a Guyanei către vecinul său estic. Importanța economică a localității Corriverton este inseparabil legată de industria zahărului; Skeldon Sugar Estate a fost mult timp unul dintre cei mai mari angajatori și complexe industriale din țară. Pe lângă sectorul zahărului, comerțul transfrontalier și economia informală definesc dinamica locală. Din punct de vedere geografic, zona este plană și deservită de autostrada de coastă, care își are punctul terminal aici. Arhitectura din Corriverton este un amestec de antrepozite comerciale, case coloniale și centre comerciale moderne, care beneficiază de traficul intens de frontieră. Populația este diversă din punct de vedere etnic, comunitatea est-indiană fiind puternic reprezentată, fapt vizibil în numeroasele temple hinduse și în gastronomia locală. Feribotul către South Drain din Suriname este inima logistică a orașului și simbolizează rolul Corriverton ca verigă în integrarea regională a Americii de Sud.",
+        "en": "Corriverton is Guyana's easternmost town, situated on the banks of the Corentyne River, which marks the natural border with Suriname. Formed by the amalgamation of the settlements of Springlands and Skeldon, the town serves as Guyana’s primary gateway to its eastern neighbor. Corriverton’s economic identity is inextricably linked to the sugar industry; the Skeldon Sugar Estate was for a long time one of the nation's largest employers and most significant industrial complexes. Beyond sugar, cross-border trade and informal economic activities drive the local dynamic. Geographically, the terrain is flat and marks the terminus of the national coastal highway. The architecture of Corriverton is a mix of commercial warehouses, colonial residences, and modern shopping centers that thrive on the border traffic. The population is ethnically diverse, with a strong East Indian presence reflected in the town's numerous Hindu temples and culinary traditions. The ferry link to South Drain in Suriname is the town's logistical heartbeat, symbolizing Corriverton's role as a vital link in South American regional integration."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Corriverton liegt etwa 300 Kilometer östlich der Hauptstadt Georgetown.",
+          "Die Stadt besteht aus den beiden Hauptzentren Springlands und Skeldon.",
+          "Die Skeldon Sugar Factory war einst das größte Industrieprojekt Guyanas.",
+          "Die Fähre 'MV Canawaima' verbindet Corriverton täglich mit Suriname.",
+          "Corriverton ist ein Zentrum für den Hinduismus in Guyana mit vielen prachtvollen Mandirs.",
+          "Der Ort ist bekannt für seine lebhaften Märkte mit surinamischen und guyanesischen Waren."
+        ],
+        "hu": [
+          "Corriverton körülbelül 300 kilométerre keletre fekszik a fővárostól, Georgetowntól.",
+          "A város két központi településrészből, Springlandsből és Skeldonból áll.",
+          "A skeldoni cukorgyár egykor Guyana legnagyobb ipari beruházása volt.",
+          "Az MV Canawaima komp naponta köti össze Corriverton városát Suriname-mal.",
+          "Corriverton a gyanai hinduizmus egyik központja, számos díszes templommal (mandir).",
+          "A város piacai híresek a suriname-i és guyanai áruk gazdag választékáról."
+        ],
+        "ro": [
+          "Corriverton se află la aproximativ 300 de kilometri est de capitala Georgetown.",
+          "Orașul este format din două nuclee principale: Springlands și Skeldon.",
+          "Fabrica de zahăr din Skeldon a reprezentat cea mai mare investiție industrială din istoria Guyanei.",
+          "Feribotul 'MV Canawaima' asigură singura legătură navală regulată cu Suriname.",
+          "Corriverton găzduiește o populație majoritară de origine indiană.",
+          "Economia locală a beneficiat masiv de modernizarea infrastructurii de transport regional."
+        ],
+        "en": [
+          "Corriverton is located roughly 300 kilometers east of Georgetown.",
+          "The town was established in 1970 through the merger of Skeldon and Springlands.",
+          "The Skeldon Sugar Estate remains a massive feature of the town's landscape.",
+          "The international ferry crossing to Suriname is located at Moleson Creek, nearby.",
+          "The town is a significant center for East Indian culture and religious festivals.",
+          "Corriverton acts as a key commercial hub for the Corentyne river basin area."
+        ]
+      }
+    },
+    {
+      "id": "rose-hall-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Rose Hall ist eine der kleinsten, aber historisch bedeutendsten Städte Guyanas, gelegen an der Corentyne-Küste in der Region East Berbice-Corentyne. Berühmt wurde der Ort durch den Rose Hall Sklavenaufstand von 1813, ein Ereignis, das tief im kollektiven Gedächtnis des Landes verwurzelt ist und den Kampf für Freiheit symbolisiert. Rose Hall erhielt erst 1970 offiziell den Stadtstatus und hat sich seitdem zu einem wichtigen kommerziellen Knotenpunkt für die umliegenden Agrargemeinschaften entwickelt. Die Wirtschaft der Stadt ist untrennbar mit dem Zuckersektor und der Rose Hall Sugar Estate verbunden, die über Generationen hinweg das soziale Gefüge bestimmte. Das Stadtbild ist geprägt von einer lebhaften Hauptstraße mit zahlreichen Geschäften und Banken, die die Stadt zum wirtschaftlichen Zentrum der mittleren Corentyne-Küste machen. Die Architektur zeigt eine Mischung aus traditionellen Holzhäusern auf Stelzen und moderneren Betonbauten. Rose Hall ist bekannt für seine starke Gemeinschaft und den multikulturellen Zusammenhalt, wobei die Einflüsse der ostindischen und afrikanischen Vorfahren in den Festen und der lokalen Kultur allgegenwärtig sind. Trotz seiner geringen Größe spielt Rose Hall eine unverhältnismäßig große Rolle in der politischen und wirtschaftlichen Geschichte Guyanas.",
+        "hu": "Rose Hall Guyana egyik legkisebb, de történelmileg legjelentősebb városa, amely a Corentyne-parton fekszik, az East Berbice-Corentyne régióban. A település az 1813-as Rose Hall-i rabszolgalázadás révén vált híressé, amely esemény mélyen beleivódott az ország kollektív emlékezetébe, és a szabadságért folytatott küzdelem jelképévé vált. Rose Hall 1970-ben kapott városi rangot, és azóta a környező mezőgazdasági közösségek fontos kereskedelmi csomópontjává fejlődött. A város gazdasága elválaszthatatlan a cukorágazattól és a Rose Hall Sugar Estate-től, amely generációkon át meghatározta a társadalmi struktúrát. A városképet a nyüzsgő főutca jellemzi, számos üzlettel és bankkal, amelyek a várost a középső Corentyne-part gazdasági központjává teszik. Az építészetben keverednek a hagyományos, cölöpökön álló faházak és a modernebb betonépületek. Rose Hall híres erős közösségi szelleméről és multikulturalizmusáról, ahol az indiai és afrikai ősök öröksége a fesztiválokon és a helyi kultúrában egyaránt jelen van. Kis mérete ellenére Rose Hall aránytalanul nagy szerepet játszik Guyana politikai és gazdaságtörténetében.",
+        "ro": "Rose Hall este unul dintre cele mai mici, dar cele mai semnificative orașe din punct de vedere istoric din Guyana, situat pe coasta Corentyne în regiunea East Berbice-Corentyne. Localitatea a devenit faimoasă datorită revoltei sclavilor de la Rose Hall din 1813, un eveniment profund înrădăcinat în memoria colectivă a țării, simbolizând lupta pentru libertate. Rose Hall a primit oficial statutul de oraș abia în 1970 și s-a dezvoltat de atunci într-un nod comercial important pentru comunitățile agricole din jur. Economia orașului este inseparabil legată de sectorul zahărului și de Skeldon Sugar Estate, care a definit structura socială timp de generații. Peisajul urban este marcat de o stradă principală animată, cu numeroase magazine și bănci, care fac din oraș centrul economic al coastei centrale Corentyne. Arhitectura prezintă un amestec de case tradiționale din lemn pe piloni și construcții mai moderne din beton. Rose Hall este cunoscut pentru comunitatea sa puternică și coeziunea multiculturală, influențele strămoșilor est-indieni și africani fiind omniprezente în sărbători și în cultura locală. În ciuda dimensiunii sale reduse, Rose Hall joacă un rol disproporționat de mare în istoria politică și economică a Guyanei.",
+        "en": "Rose Hall is one of Guyana's smallest yet most historically resonant towns, located on the Corentyne Coast in the East Berbice-Corentyne region. The settlement gained prominence following the 1813 Rose Hall slave uprising, an event deeply etched into the nation's collective memory as a symbol of the fight for liberation. Officially incorporated as a town in 1970, Rose Hall has since evolved into a critical commercial hub for the surrounding rural agricultural communities. The town's economy is inextricably tied to the sugar industry and the Rose Hall Sugar Estate, which governed local social structures for generations. The urban landscape features a vibrant main thoroughfare lined with shops and financial institutions, establishing the town as the economic pulse of the central Corentyne coast. The architecture is a blend of traditional stilted wooden houses and contemporary concrete structures. Rose Hall is renowned for its strong sense of community and multicultural harmony, with the legacies of East Indian and African ancestors permeating local festivals and customs. Despite its compact size, Rose Hall occupies a significant place in Guyana's political and economic narrative."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Rose Hall war Schauplatz eines der folgenschwersten Sklavenaufstände im Jahr 1813.",
+          "Die Stadt ist flächenmäßig die kleinste der offiziellen Städte Guyanas.",
+          "Rose Hall dient als kommerzielles Zentrum für über 20 umliegende Dörfer.",
+          "Die Rose Hall Sugar Factory ist eine der ältesten noch teilweise aktiven Anlagen.",
+          "Die Stadt ist bekannt für ihre hohe Dichte an Einzelhandelsgeschäften.",
+          "Rose Hall spielt eine zentrale Rolle bei den Feierlichkeiten zum indischen Einwanderungstag."
+        ],
+        "hu": [
+          "Rose Hall volt az 1813-as, egyik legfontosabb rabszolgalázadás helyszíne.",
+          "Területét tekintve ez Guyana legkisebb hivatalos városa.",
+          "Rose Hall több mint 20 környező falu kereskedelmi központjaként szolgál.",
+          "A helyi cukorgyár az ország egyik legrégebbi ilyen jellegű létesítménye.",
+          "A város híres a kiskereskedelmi üzletek rendkívüli sűrűségéről.",
+          "Rose Hall központi szerepet játszik az indiai bevándorlási nap ünnepségeiben."
+        ],
+        "ro": [
+          "Rose Hall a fost scena unei revolte majore a sclavilor în anul 1813.",
+          "Este orașul cu cea mai mică suprafață administrativă din Guyana.",
+          "Localitatea funcționează ca un centru de servicii pentru zona centrală a districtului Corentyne.",
+          "Fabrica de zahăr locală a fost redeschisă recent pentru a stimula economia regională.",
+          "Orașul este renumit pentru spiritul său antreprenorial și piețele de zi.",
+          "Rose Hall găzduiește monumente dedicate luptei pentru emanciparea sclavilor."
+        ],
+        "en": [
+          "The Rose Hall slave uprising of 1813 is a cornerstone of Guyanese resistance history.",
+          "It is officially the smallest of Guyana's recognized municipalities by area.",
+          "The town serves as a vital financial center for the Berbice agricultural belt.",
+          "The Rose Hall Estate is one of the pillars of the Guyana Sugar Corporation (GuySuCo).",
+          "Its main street is considered one of the busiest commercial zones outside Georgetown.",
+          "The town is a significant site for the celebration of Emancipation Day in August."
+        ]
+      }
+    }
+  ]
+}

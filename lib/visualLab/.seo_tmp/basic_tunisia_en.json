@@ -1,0 +1,70 @@
+{
+  "lang": "en",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-feija-forest-nature-v2",
+      "description": "El Feija National Park is a lush forest region in the Kroumirie mountains, known for its diverse flora and rare wildlife like the Barbary stag. It is a key area for nature conservation.",
+      "facts": ["National forest park", "Kroumirie mountains", "Barbary stag habitat", "Diverse biodiversity"]
+    },
+    {
+      "id": "boukornine-mountain-nature-v2",
+      "description": "Boukornine National Park is a mountain range situated near the coast and the capital city, Tunis. It is appreciated for its scenic vistas and protected ecosystems.",
+      "facts": ["National park range", "Coastal mountain view", "Near Tunis", "Protected ecosystem"]
+    },
+    {
+      "id": "jebel-orbata-nature-v2",
+      "description": "Jebel Orbata is a mountain area in central Tunisia, characterized by its arid terrain and unique desert-adapted plant life. It is an important region for study and conservation.",
+      "facts": ["Central mountain range", "Arid desert terrain", "Desert plant life", "Conservation area"]
+    },
+    {
+      "id": "chott-el-jerid-east-nature-v2",
+      "description": "The eastern section of Chott el-Jerid is a vast salt lake that transforms into a shimmering desert expanse during the summer. It is a landscape of natural beauty and geological interest.",
+      "facts": ["Vast salt lake", "Shimmering desert landscape", "Natural geological site", "Unique natural expanse"]
+    },
+    {
+      "id": "mountain-range-north-nature-v2",
+      "description": "The northern mountain range of Tunisia is a green, fertile region forming part of the Atlas Mountains system. It supports diverse agriculture and forest ecosystems.",
+      "facts": ["Northern Atlas system", "Green fertile region", "Diverse ecosystems", "Agricultural support"]
+    },
+    {
+      "id": "gulf-of-tunis-islands-nature-v2",
+      "description": "The islands in the Gulf of Tunis are small, protected marine environments that provide essential habitats for seabirds and marine biodiversity. They are key elements of the northern coastline.",
+      "facts": ["Protected marine site", "Seabird habitats", "Gulf of Tunis", "Marine biodiversity"]
+    },
+    {
+      "id": "jebel-abderrahmane-nature-v2",
+      "description": "Jebel Abderrahmane is a mountain formation on the Cap Bon peninsula, providing a natural elevated landscape covered in coastal scrub and native trees.",
+      "facts": ["Cap Bon mountains", "Natural elevated terrain", "Coastal scrub habitat", "Native tree coverage"]
+    },
+    {
+      "id": "coast-of-mahdia-nature-v2",
+      "description": "The coastline of Mahdia is characterized by its clear waters, rocky shores, and stretches of sandy beaches. It serves as a vital habitat for diverse marine life in the region.",
+      "facts": ["Clear coastal waters", "Rocky and sandy shores", "Vital marine habitat", "Sahel region coast"]
+    },
+    {
+      "id": "el-djem-region-nature-v2",
+      "description": "The region surrounding El Djem is a predominantly flat, agricultural plateau with scattered trees and vegetation. It reflects the typical landscape of the Tunisian Sahel plains.",
+      "facts": ["Agricultural plateau", "Tunisian Sahel plains", "Flat landscape", "Open vegetation"]
+    },
+    {
+      "id": "gulf-of-gabes-coastal-nature-v2",
+      "description": "The Gulf of Gabes is a wide coastal region known for its shallow waters and extensive sandy beaches. It is a critical ecosystem for fish breeding and coastal biodiversity.",
+      "facts": ["Wide coastal region", "Shallow marine waters", "Fish breeding area", "Biodiverse ecosystem"]
+    },
+    {
+      "id": "djebel-es-sif-relief-v2",
+      "description": "Djebel es Sif is a prominent rocky peak in Tunisia, rising above the surrounding landscape as a distinct geological formation. It is part of the country's varied mountainous relief.",
+      "facts": ["Prominent rocky peak", "Geological formation", "Varied relief", "Landmark mountain"]
+    },
+    {
+      "id": "djebel-ben-youne-relief-v2",
+      "description": "Djebel Ben Youne is a mountainous area featuring slopes and rugged terrain, contributing to the distinct relief of the region. It is a notable natural structure in the landscape.",
+      "facts": ["Mountainous area", "Rugged terrain slopes", "Distinct natural relief", "Notable landform"]
+    }
+  ]
+}

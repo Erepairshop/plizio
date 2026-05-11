@@ -1,0 +1,104 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ponte-ferro-rg-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ponte de Ferro in Ribeira Grande auf der Insel Santo Antão ist ein herausragendes Denkmal der industriellen Architektur des späten 19. Jahrhunderts. Sie wurde während der portugiesischen Kolonialherrschaft errichtet, um die tiefe und oft reißende Schlucht des Flusses Ribeira Grande zu überspannen. Diese Metallkonstruktion war eine technologische Notwendigkeit, um das administrative Zentrum der Stadt mit den fruchtbaren landwirtschaftlichen Tälern des Hinterlandes, wie der Ribeira da Torre, sicher zu verbinden. Die Brücke wurde massiv aus Europa importiert – vermutlich aus portugiesischen oder belgischen Gießereien – und vor Ort montiert, was für die damalige Zeit eine enorme logistische Herausforderung auf der gebirgigen Insel darstellte. Architektonisch besticht sie durch ihre filigrane Gitterstruktur aus Eisen, die typisch für die Ära der industriellen Revolution ist. Über Jahrzehnte war sie die absolut wichtigste Verkehrsader für den Transport von Zuckerrohr, Kaffee und Passagieren. Trotz der Errichtung moderner Betonbrücken in der unmittelbaren Umgebung bleibt die Ponte de Ferro als historisches Wahrzeichen für Fußgänger erhalten. Das Bauwerk hat über ein Jahrhundert lang den korrosiven Einflüssen der salzhaltigen Meeresluft und den gewaltigen Sturzfluten (Cheias) des Flusses getrotzt. Sie steht heute unter lokalem Denkmalschutz und ist ein Symbol für den Beginn der infrastrukturellen Moderne auf Santo Antão.",
+        "hu": "A Ribeira Grande-i vashíd (Ponte de Ferro) Santo Antão szigetén a 19. század végi ipari építészet kiemelkedő emléke. A portugál gyarmati uralom idején építették, hogy átívelje a Ribeira Grande folyó mély és gyakran rohanó medrét. Ez a fémszerkezet technológiai kényszer volt annak érdekében, hogy a város adminisztratív központját biztonságosan összekössék a hátország termékeny mezőgazdasági völgyeivel, például a Ribeira da Torréval. A hidat tömegesen Európából – feltehetően portugál vagy belga öntödékből – importálták és a helyszínen szerelték össze, ami abban az időben hatalmas logisztikai kihívást jelentett a hegyvidéki szigeten. Építészetileg a finom rácsos vasszerkezet jellemzi, amely az ipari forradalom korszakára volt jellemző. Évtizedeken át ez volt az abszolút legfontosabb közlekedési útvonal a cukornád, a kávé és az utasok szállítása számára. A közvetlen közelben épült modern betonhidak ellenére a Ponte de Ferro történelmi jelképként megmaradt a gyalogosforgalom számára. Az építmény több mint egy évszázadon át dacolt a sós tengeri levegő korrozív hatásaival és a folyó hatalmas áradásaival. Ma helyi műemlékvédelem alatt áll, és Santo Antão infrastrukturális modernizációjának kezdetét szimbolizálja.",
+        "ro": "Ponte de Ferro (Podul de Fier) din Ribeira Grande, pe insula Santo Antão, este un monument remarcabil al arhitecturii industriale de la sfârșitul secolului al XIX-lea. Podul a fost construit în timpul dominației coloniale portugheze pentru a traversa albia adâncă și adesea tumultoasă a râului Ribeira Grande. Această construcție metalică a reprezentat o necesitate tehnologică pentru a conecta în siguranță centrul administrativ al orașului cu văile agricole fertile din interior, cum ar fi Ribeira da Torre. Structura a fost importată masiv din Europa – probabil din turnătorii portugheze sau belgiene – și asamblată la fața locului, ceea ce la acea vreme a reprezentat o provocare logistică enormă pe insula muntoasă. Din punct de vedere arhitectural, podul impresionează prin structura sa filigranată de zăbrele din fier, tipică epocii revoluției industriale. Timp de decenii, a fost cea mai importantă arteră de transport pentru trestia de zahăr, cafea și pasageri. În ciuda construcției unor poduri moderne din beton în imediata vecinătate, Ponte de Ferro rămâne un punct de reper istoric pentru pietoni. Structura a rezistat peste un secol influențelor corozive ale aerului marin sărat și viiturilor violente ale râului. Astăzi, podul este protejat ca monument local și simbolizează începutul modernizării infrastructurii pe Santo Antão.",
+        "en": "The Iron Bridge (Ponte de Ferro) in Ribeira Grande on the island of Santo Antão is a preeminent monument of late 19th-century industrial architecture. It was constructed during the Portuguese colonial era to span the deep and often torrential riverbed of the Ribeira Grande. This metallic structure was a technological necessity to securely connect the town's administrative center with the fertile agricultural valleys of the interior, such as Ribeira da Torre. The bridge components were imported in their entirety from Europe—likely from Portuguese or Belgian foundries—and assembled on-site, representing a massive logistical feat for that period on the mountainous island. Architecturally, it is distinguished by its delicate iron lattice framework, characteristic of the Industrial Revolution era. For decades, it served as the absolute primary artery for transporting sugarcane, coffee, and passengers. Despite the addition of modern concrete bridges nearby, the Ponte de Ferro remains a historic landmark dedicated to pedestrian use. The structure has withstood over a century of corrosive maritime salt air and the river's massive flash floods (cheias). Today, it is designated as a local heritage site and symbolizes the dawn of infrastructural modernization on Santo Antão."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Historische Eisenkonstruktion aus dem späten 19. Jahrhundert.",
+          "Wurde massiv aus Europa importiert und vor Ort zusammengebaut.",
+          "Überspannt das oft gefährliche Flussbett der Ribeira Grande.",
+          "Einst die zentrale Route für den Export von Zuckerrohr und Kaffee.",
+          "Ikonisches Beispiel für koloniale Ingenieurskunst auf den Kapverden.",
+          "Widerstand über 100 Jahre lang schweren Sturzfluten und Salzwasser.",
+          "Dient heute als wichtige Fußgängerbrücke im Stadtzentrum."
+        ],
+        "hu": [
+          "19. század végéről származó történelmi vasszerkezet.",
+          "Európából szállították a szigetre és helyben szerelték össze.",
+          "A Ribeira Grande gyakran veszélyes folyómedre felett ível át.",
+          "Egykor a cukornád- és kávéexport központi útvonala volt.",
+          "A zöld-foki gyarmati mérnöki tudomány ikonikus példája.",
+          "Több mint 100 éven át ellenállt a villámáradásoknak és a sós víznek.",
+          "Ma fontos gyalogos hídként szolgál a városközpontban."
+        ],
+        "ro": [
+          "Construcție istorică din fier de la sfârșitul secolului al XIX-lea.",
+          "A fost importată masiv din Europa și asamblată la fața locului.",
+          "Traversează albia adesea periculoasă a râului Ribeira Grande.",
+          "Fostă rută centrală pentru exportul de trestie de zahăr și cafea.",
+          "Exemplu iconic de inginerie colonială în Capul Verde.",
+          "A rezistat peste 100 de ani viiturilor severe și apei sărate.",
+          "Servește astăzi ca pod pietonal important în centrul orașului."
+        ],
+        "en": [
+          "A historic iron framework dating back to the late 19th century.",
+          "The structure was imported from Europe and assembled on the island.",
+          "Spans the frequently dangerous riverbed of the Ribeira Grande.",
+          "Formerly the primary route for the export of sugarcane and coffee.",
+          "An iconic example of Portuguese colonial engineering in West Africa.",
+          "Has successfully withstood over 100 years of flash floods and salt air.",
+          "Currently functions as an essential pedestrian link in the town center."
+        ]
+      }
+    },
+    {
+      "id": "jardim-botanico-santiago-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Jardim Botânico Nacional Grandvaux Barbosa befindet sich in São Jorge dos Órgãos auf der Insel Santiago und ist der absolut einzige botanische Garten des kapverdischen Archipels. Er wurde im Jahr 1986 gegründet und ist nach dem renommierten portugiesischen Botaniker Luís Augusto Grandvaux Barbosa benannt, der die Flora der Inseln maßgeblich erforschte. Geografisch liegt der Garten auf einer Höhe von etwa 400 Metern in einem der feuchtesten Täler der Insel, was das Überleben zahlreicher seltener Pflanzenarten ermöglicht. Die Anlage erstreckt sich über rund 3 Hektar und beherbergt eine massive Sammlung von über 60 endemischen Arten des Archipels, darunter den ikonischen Drachenbaum (Dracaena draco) und die Asteracea (Nauplius daltonii). Der Garten dient nicht nur der Naherholung, sondern fungiert primär als wissenschaftliches Zentrum für den Erhalt der biologischen Vielfalt und die Erforschung der Desertifikation. Wirtschaftlich ist die Institution eng mit dem Nationalen Institut für Agrarforschung und -entwicklung (INIDA) verbunden. Die Architektur des Gartens ist durch terrassierte Beete und Steinpfade geprägt, die harmonisch in die vulkanische Berglandschaft integriert sind. Für Kap Verde ist dieser Ort ein absolut kritisches Refugium für gefährdete Pflanzen, die durch die langjährigen Dürreperioden und menschliche Eingriffe vom Aussterben bedroht sind. Die Anlage beherbergt zudem Baumschulen zur Wiederaufforstung der Insel.",
+        "hu": "A Grandvaux Barbosa Nemzeti Botanikus Kert (Jardim Botânico Nacional Grandvaux Barbosa) São Jorge dos Órgãosban, Santiago szigetén található, és a zöld-foki szigetvilág abszolút egyetlen botanikus kertje. 1986-ban alapították, és Luís Augusto Grandvaux Barbosa neves portugál botanikusról nevezték el, aki jelentős kutatásokat végzett a szigetek flórájával kapcsolatban. Földrajzilag a kert körülbelül 400 méteres magasságban, a sziget egyik legpárásabb völgyében fekszik, ami lehetővé teszi számos ritka növényfaj túlélését. A létesítmény mintegy 3 hektáron terül el, és több mint 60 endemikus fajnak ad otthont, köztük az ikonikus sárkányfának (Dracaena draco) és a szigetvilágra jellemző fészkesvirágzatúaknak. A kert nem csupán pihenőhely, hanem elsősorban a biológiai sokféleség megőrzését és az elsivatagosodás elleni küzdelmet szolgáló tudományos központ. Gazdaságilag az intézmény szorosan kapcsolódik a Nemzeti Agrárkutatási és Fejlesztési Intézethez (INIDA). A kert kialakítását teraszos ágyások és kőösvények jellemzik, amelyek harmonikusan illeszkednek a vulkanikus hegyi tájba. A Zöld-foki-szigetek számára ez a hely abszolút kritikus menedékhely a veszélyeztetett növények számára, amelyeket a hosszú aszályos időszakok és az emberi beavatkozás a kihalás szélére sodort. A komplexum faiskolákat is fenntart a sziget erdősítési programjaihoz.",
+        "ro": "Grădina Botanică Națională Grandvaux Barbosa este situată în São Jorge dos Órgãos pe insula Santiago și este singura grădină botanică din întreg arhipelagul Capului Verde. A fost înființată în anul 1986 și poartă numele renumitului botanist portughez Luís Augusto Grandvaux Barbosa, care a cercetat intens flora insulelor. Geografic, grădina se află la o altitudine de aproximativ 400 de metri într-una dintre cele mai umede văi ale insulei, fapt ce permite supraviețuirea a numeroase specii de plante rare. Facilitatea se întinde pe circa 3 hectare și găzduiește o colecție masivă de peste 60 de specii endemice din arhipelag, incluzând iconicul arbore dragon (Dracaena draco) și Nauplius daltonii. Grădina nu servește doar pentru recreere, ci funcționează primar ca centru științific pentru conservarea biodiversității și cercetarea deșertificării. Din punct de vedere economic, instituția este strâns legată de Institutul Național de Cercetare și Dezvoltare Agricolă (INIDA). Arhitectura grădinii este marcată de straturi terasate și poteci de piatră integrate armonios în peisajul montan vulcanic. Pentru Capul Verde, acest loc este un refugiu absolut critic pentru plantele periclitate, care sunt amenințate cu dispariția din cauza perioadelor lungi de secetă și a intervenției umane. Instalația adăpostește, de asemenea, pepiniere pentru reîmpădurirea insulei.",
+        "en": "The Grandvaux Barbosa National Botanical Garden is located in São Jorge dos Órgãos on Santiago Island and stands as the absolute only botanical garden in the Cape Verdean archipelago. Established in 1986, it is named after the renowned Portuguese botanist Luís Augusto Grandvaux Barbosa, who conducted extensive research on the islands' flora. Geographically, the garden is situated at an elevation of approximately 400 meters in one of the island's most humid valleys, which facilitates the survival of numerous rare plant species. The facility spans about 3 hectares and houses a massive collection of over 60 endemic species from the archipelago, including the iconic Dragon Tree (Dracaena draco) and Nauplius daltonii. The garden serves not only as a recreational site but primarily as a scientific center for biodiversity conservation and desertification research. Economically, the institution is closely linked to the National Institute for Agricultural Research and Development (INIDA). The garden's layout is characterized by terraced beds and stone paths harmoniously integrated into the volcanic mountain landscape. For Cape Verde, this site is an absolutely critical sanctuary for endangered plants threatened by long-term droughts and human activity. The complex also maintains nurseries for the island's reforestation efforts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einziger offizieller botanischer Garten des gesamten kapverdischen Archipels.",
+          "Gegründet im Jahr 1986 zur Bewahrung der endemischen Inselflora.",
+          "Befindet sich in São Jorge dos Órgãos auf ca. 400 m Meereshöhe.",
+          "Beherbergt über 60 seltene Pflanzenarten, die nur auf den Inseln vorkommen.",
+          "Wissenschaftliches Zentrum für den Kampf gegen die Desertifikation.",
+          "Beinhaltet seltene Exemplare des kapverdischen Drachenbaums.",
+          "Die Anlage ist terrassiert und nutzt lokale vulkanische Steinmaterialien."
+        ],
+        "hu": [
+          "A teljes zöld-foki szigetvilág egyetlen hivatalos botanikus kertje.",
+          "1986-ban alapították az endemikus szigeti flóra megőrzése céljából.",
+          "São Jorge dos Órgãos településen, kb. 400 méteres magasságban található.",
+          "Több mint 60 olyan ritka növényfajt őriz, amely csak a szigeteken honos.",
+          "Az elsivatagosodás elleni küzdelem fontos tudományos központja.",
+          "A ritka zöld-foki sárkányfa példányai is megtalálhatók benne.",
+          "A terület teraszos kialakítású, helyi vulkáni kőzeteket használtak az építéséhez."
+        ],
+        "ro": [
+          "Singura grădină botanică oficială din întregul arhipelag Capul Verde.",
+          "Fondată în anul 1986 pentru conservarea florei endemice a insulelor.",
+          "Situată în São Jorge dos Órgãos la o altitudine de circa 400 m.",
+          "Găzduiește peste 60 de specii de plante rare întâlnite doar pe insule.",
+          "Centru științific pentru lupta împotriva deșertificării.",
+          "Include exemplare rare ale arborelui dragon capverdian.",
+          "Amenajarea este terasată și utilizează materiale din piatră vulcanică locală."
+        ],
+        "en": [
+          "The absolute only official botanical garden in the entire Cape Verdean archipelago.",
+          "Founded in 1986 explicitly to preserve the nation's endemic flora.",
+          "Located in São Jorge dos Órgãos at an altitude of approximately 400m.",
+          "Houses more than 60 rare plant species found nowhere else on Earth.",
+          "Serves as a primary scientific hub for studying and fighting desertification.",
+          "Contains significant specimens of the endemic Cape Verdean Dragon Tree.",
+          "The 3-hectare site is intricately terraced using local volcanic rock."
+        ]
+      }
+    }
+  ]
+}

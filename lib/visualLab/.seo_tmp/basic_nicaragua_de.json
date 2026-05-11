@@ -1,0 +1,89 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "boaco-cities-v2",
+      "description": "Boaco ist die Hauptstadt des gleichnamigen Departements im Zentrum Nicaraguas. Die Stadt ist von hügeligem Gelände umgeben und bekannt als 'Stadt zwischen den zwei Meeren'.",
+      "facts": ["Departementshauptstadt", "Hügelige Lage", "Zentrales Nicaragua"]
+    },
+    {
+      "id": "ocotal-cities-v2",
+      "description": "Ocotal liegt im Norden Nicaraguas und ist die Hauptstadt des Departements Nueva Segovia. Die Region zeichnet sich durch ihre kühleren Temperaturen und Berglandschaften aus.",
+      "facts": ["Nueva Segovia Hauptstadt", "Nördliches Nicaragua", "Bergregion"]
+    },
+    {
+      "id": "chichigalpa-cities-v2",
+      "description": "Chichigalpa liegt im Departement Chinandega und ist stark von der Zuckerrohrindustrie geprägt. Die Stadt profitiert von der fruchtbaren Vulkanerde der Umgebung.",
+      "facts": ["Zuckerrohranbau Zentrum", "Chinandega Departement", "Vulkanische Böden"]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "description": "Diriamba liegt im Departement Carazo und ist bekannt für sein angenehmes Klima und die Kaffeeproduktion. Die Stadt ist ein kulturelles Zentrum der Region.",
+      "facts": ["Carazo Departement", "Kaffeeanbau", "Angenehmes Hochlandklima"]
+    },
+    {
+      "id": "somotillo-cities-v2",
+      "description": "Somotillo ist eine Stadt im Departement Chinandega nahe der Grenze zu Honduras. Die Wirtschaft basiert überwiegend auf Landwirtschaft und Viehzucht.",
+      "facts": ["Chinandega Departement", "Grenznah", "Agrarwirtschaft"]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "description": "Sébaco ist ein wichtiger Verkehrsknotenpunkt im Departement Matagalpa. Die Stadt ist das Zentrum des Gemüse- und Reisanbaus im Sébaco-Tal.",
+      "facts": ["Matagalpa Departement", "Verkehrsknotenpunkt", "Reisanbauzentrum"]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "description": "Niquinohomo ist ein historisches Dorf im Departement Masaya. Es ist der Geburtsort von Augusto César Sandino und für sein Kunsthandwerk bekannt.",
+      "facts": ["Masaya Departement", "Geburtsort Sandinos", "Kunsthandwerk"]
+    },
+    {
+      "id": "la-concepcion-masaya-cities-v2",
+      "description": "La Concepción ist eine Gemeinde im Departement Masaya, bekannt für den Anbau von Orangen und Kaffee. Das Klima ist aufgrund der Höhenlage mild.",
+      "facts": ["Masaya Departement", "Orangenanbau", "Mildes Hochlandklima"]
+    },
+    {
+      "id": "tola-cities-v2",
+      "description": "Tola liegt im Departement Rivas und ist das Tor zu den berühmten Stränden der Pazifikküste. Die Region entwickelt sich zunehmend zum Tourismuszentrum.",
+      "facts": ["Rivas Departement", "Pazifikküste", "Tourismus"]
+    },
+    {
+      "id": "puerto-morazan-cities-v2",
+      "description": "Puerto Morazán ist eine Hafenstadt am Golf von Fonseca im Departement Chinandega. Der Ort spielt eine wichtige Rolle für die lokale Fischerei.",
+      "facts": ["Chinandega Departement", "Golf von Fonseca", "Fischereihafen"]
+    },
+    {
+      "id": "el-jicaral-cities-v2",
+      "description": "El Jicaral liegt im Departement León in einer weitläufigen Ebene. Die Gemeinde ist überwiegend landwirtschaftlich geprägt.",
+      "facts": ["León Departement", "Agrarwirtschaft", "Ebenes Gelände"]
+    },
+    {
+      "id": "mateare-cities-v2",
+      "description": "Mateare liegt westlich der Hauptstadt Managua am Ufer des Managua-Sees. Die Stadt wächst aufgrund ihrer Nähe zur Hauptstadt stark.",
+      "facts": ["Nahe Managua", "Managua-See", "Wachsende Stadt"]
+    },
+    {
+      "id": "waslala-cities-v2",
+      "description": "Waslala liegt in einer abgelegenen Waldregion im Norden Nicaraguas. Die Wirtschaft ist durch Kaffeeanbau und Viehzucht gekennzeichnet.",
+      "facts": ["Nord-Nicaragua", "Waldregion", "Viehzucht"]
+    },
+    {
+      "id": "san-isidro-matagalpa-cities-v2",
+      "description": "San Isidro ist eine Gemeinde im Departement Matagalpa. Die Region ist bekannt für fruchtbare Böden und vielfältige landwirtschaftliche Erzeugnisse.",
+      "facts": ["Matagalpa Departement", "Fruchtbare Böden", "Landwirtschaft"]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "description": "Tecolostote ist eine kleine Ortschaft im Departement Boaco. Die Region ist von trockenen Wäldern und hügeligen Landschaften geprägt.",
+      "facts": ["Boaco Departement", "Trockenwald", "Hügelig"]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"],
+  "items": [
+    {
+      "id": "corubal-basin-relief-v2",
+      "descriptionAdvancedDe": "Das Corubal-Becken, das Einzugsgebiet des gleichnamigen Flusses, ist eine der prägendsten Landschaften im Osten Guinea-Bissaus. Das Relief ist durch den Fluss tief erodiert, was zu steilen Tälern, Schluchten und markanten Stromschnellen wie den Saltinho-Fällen führt. Diese dynamische Topografie steht im Kontrast zu den flacheren westlichen Landesteilen. Das Becken ist ökologisch und hydrologisch von großer Bedeutung, da es die Wasserversorgung für weite Teile des Landes sichert und eine hohe Biodiversität, insbesondere in den Galeriewäldern entlang des Ufers, aufweist. Die Böden in den Tälern sind durch Sedimentablagerungen fruchtbar und ermöglichen kleinbäuerliche Landwirtschaft.",
+      "descriptionAdvancedHu": "A Corubal-medence, amely a névadó folyó vízgyűjtő területe, Bissau-Guinea keleti részének egyik legmeghatározóbb tájegysége. A domborzatot a folyó mélyen erodálta, ami meredek völgyek, szurdokok és olyan látványos zúgók kialakulásához vezetett, mint a Saltinho-vízesés. Ez a dinamikus topográfia ellentétben áll az ország laposabb nyugati területeivel. A medence ökológiai és hidrogeológiai szempontból rendkívül fontos, mivel az ország nagy részének vízellátását biztosítja, és magas biodiverzitásnak ad otthont, különösen a part menti galériaerdőkben. A völgyek talaja az üledéklerakódásoknak köszönhetően termékeny, ami lehetővé teszi a kisparaszti gazdálkodást.",
+      "descriptionAdvancedRo": "Bazinul Corubal, zona hidrografică a râului cu același nume, este unul dintre cele mai definitorii peisaje din estul Guineei-Bissau. Relieful este profund erodat de râu, ceea ce a dus la formarea de văi abrupte, canioane și repezișuri marcante, precum cascadele Saltinho. Această topografie dinamică contrastează cu regiunile mai plate din vestul țării. Bazinul are o importanță ecologică și hidrologică majoră, asigurând alimentarea cu apă pentru mari părți ale țării și găzduind o biodiversitate ridicată, în special în pădurile galerie de-a lungul malurilor. Solurile din văi sunt fertile datorită depunerilor de sedimente, permițând agricultura la scară mică.",
+      "descriptionAdvancedEn": "The Corubal Basin, the catchment area of the river of the same name, is one of the most defining landscapes in eastern Guinea-Bissau. The relief is deeply eroded by the river, resulting in steep valleys, canyons, and prominent rapids like the Saltinho Falls. This dynamic topography contrasts with the flatter western parts of the country. The basin is of great ecological and hydrological importance as it secures the water supply for large parts of the country and hosts high biodiversity, especially in the gallery forests along the banks. The soils in the valleys are fertile due to sediment deposits, enabling small-scale agriculture.",
+      "factsAdvanced": [
+        "Definiert durch den Corubal-Fluss, den längsten Fluss des Landes",
+        "Erosionslandschaft mit tiefen Tälern und Schluchten",
+        "Beinhaltet die bekannten Saltinho-Stromschnellen",
+        "Wichtige hydrologische Ressource für den Osten Guinea-Bissaus",
+        "Hohe Biodiversität in den Galeriewäldern",
+        "Fruchtbare Böden in den Tälern durch Sedimentation",
+        "Steht im topografischen Kontrast zur Küstenebene",
+        "Ökologischer Korridor für viele Tierarten"
+      ]
+    },
+    {
+      "id": "mansoa-mangroves-relief-v2",
+      "descriptionAdvancedDe": "Die Mangrovenwälder am Mansoa-Fluss, insbesondere in der Nähe seiner Mündung in den Atlantik, bilden eines der wichtigsten und komplexesten Ökosysteme Guinea-Bissaus. Dieses Relief ist durch das Zusammenspiel von Süßwasser des Flusses und Salzwasser des Ozeans geprägt. Die dichten Wurzelwerke der Mangrovenbäume stabilisieren die Küstenlinie, verhindern Erosion und schaffen ein geschütztes Habitat für eine immense Vielfalt an Meereslebewesen, darunter Fische, Krabben und Weichtiere. Diese Gebiete dienen als Kinderstube für viele kommerziell wichtige Fischarten. Die Mangroven sind zudem ein entscheidender Kohlenstoffspeicher und spielen eine wichtige Rolle im globalen Klimaschutz.",
+      "descriptionAdvancedHu": "A Mansoa-folyó menti mangroveerdők, különösen az Atlanti-óceánba való torkolatának közelében, Bissau-Guinea egyik legfontosabb és legösszetettebb ökoszisztémáját alkotják. Ezt a domborzatot a folyó édesvizének és az óceán sós vizének kölcsönhatása alakítja. A mangrovefák sűrű gyökérzete stabilizálja a partvonalat, megakadályozza az eróziót, és védett élőhelyet teremt a tengeri élőlények, köztük halak, rákok és puhatestűek hatalmas sokfélesége számára. Ezek a területek számos, kereskedelmileg fontos halfaj bölcsőjeként szolgálnak. A mangrovék emellett kulcsfontosságú szén-dioxid-tárolók, és fontos szerepet játszanak a globális éghajlatvédelemben.",
+      "descriptionAdvancedRo": "Pădurile de mangrove de pe râul Mansoa, în special în apropierea gurii sale de vărsare în Atlantic, formează unul dintre cele mai importante și complexe ecosisteme din Guineea-Bissau. Acest relief este modelat de interacțiunea dintre apa dulce a râului și apa sărată a oceanului. Sistemele dense de rădăcini ale arborilor de mangrove stabilizează linia de coastă, previn eroziunea și creează un habitat protejat pentru o imensă diversitate de viețuitoare marine, inclusiv pești, crabi și moluște. Aceste zone servesc drept loc de reproducere pentru multe specii de pești importante comercial. De asemenea, mangrovele sunt un rezervor crucial de carbon și joacă un rol important în protecția climatică globală.",
+      "descriptionAdvancedEn": "The mangrove forests along the Mansoa River, especially near its mouth into the Atlantic, form one of Guinea-Bissau's most important and complex ecosystems. This relief is shaped by the interaction of the river's freshwater and the ocean's saltwater. The dense root systems of the mangrove trees stabilize the coastline, prevent erosion, and create a protected habitat for an immense diversity of marine life, including fish, crabs, and mollusks. These areas serve as nurseries for many commercially important fish species. The mangroves are also a crucial carbon sink, playing an important role in global climate protection.",
+      "factsAdvanced": [
+        "Gezeitenbeeinflusstes Ökosystem am Mansoa-Fluss",
+        "Dichtes Wurzelwerk stabilisiert die Küste",
+        "Schützt vor Bodenerosion durch Gezeiten und Stürme",
+        "Wichtige Kinderstube für Fische und Krustentiere",
+        "Hohe Biodiversität an der Schnittstelle von Süß- und Salzwasser",
+        "Wichtiger Kohlenstoffspeicher (Blue Carbon)",
+        "Lebensgrundlage für lokale Fischergemeinden",
+        "Befindet sich in der administrativen Region Oio"
+      ]
+    },
+    {
+      "id": "rio-grande-relief-v2",
+      "descriptionAdvancedDe": "Das Küstenrelief des Rio Grande de Buba ist eine geologische Besonderheit in Westafrika. Anders als bei einem typischen Flussdelta handelt es sich hier um einen ertrunkenen, fjordähnlichen Meeresarm, der tief in das Festland hineinreicht. Dieses Relief entstand durch einen tektonischen Grabenbruch, der vom Meer geflutet wurde. Das Ergebnis ist ein breites und tiefes Gewässer mit steilen Ufern, das von ausgedehnten Mangrovenwäldern gesäumt ist. Diese Struktur schafft ein einzigartiges marines Ökosystem und ist Teil des Nationalparks Lagoas de Cufada. Die Tiefe des Meeresarms ermöglicht es sogar großen Meerestieren, weit ins Landesinnere vorzudringen.",
+      "descriptionAdvancedHu": "A Rio Grande de Buba partmenti domborzata egy geológiai különlegesség Nyugat-Afrikában. Egy tipikus folyódeltával ellentétben ez egy elöntött, fjordszerű tengerág, amely mélyen benyúlik a szárazföldbe. Ez a domborzat egy tektonikus árok beszakadásával jött létre, amelyet a tenger elárasztott. Az eredmény egy széles és mély víztömeg meredek partokkal, amelyet kiterjedt mangroveerdők szegélyeznek. Ez a szerkezet egyedülálló tengeri ökoszisztémát hoz létre, és a Lagoas de Cufada Nemzeti Park részét képezi. A tengerág mélysége még a nagy tengeri állatoknak is lehetővé teszi, hogy messze behatoljanak a szárazföld belsejébe.",
+      "descriptionAdvancedRo": "Relieful de coastă al Rio Grande de Buba este o particularitate geologică în Africa de Vest. Spre deosebire de o deltă tipică, acesta este un braț de mare scufundat, asemănător unui fiord, care pătrunde adânc în continent. Acest relief a apărut în urma unui colaps de graben tectonic, care a fost inundat de mare. Rezultatul este un corp de apă larg și adânc, cu maluri abrupte, mărginit de păduri extinse de mangrove. Această structură creează un ecosistem marin unic și face parte din Parcul Național Lagoas de Cufada. Adâncimea brațului de mare permite chiar și animalelor marine mari să pătrundă departe în interiorul țării.",
+      "descriptionAdvancedEn": "The coastal relief of the Rio Grande de Buba is a geological peculiarity in West Africa. Unlike a typical river delta, this is a drowned, fjord-like arm of the sea that extends deep into the mainland. This relief was formed by the collapse of a tectonic graben, which was then flooded by the sea. The result is a wide and deep body of water with steep banks, lined with extensive mangrove forests. This structure creates a unique marine ecosystem and is part of the Lagoas de Cufada National Park. The depth of the sea arm even allows large marine animals to penetrate far inland.",
+      "factsAdvanced": [
+        "Fjordähnlicher Meeresarm, kein klassisches Flussdelta",
+        "Entstanden durch tektonischen Grabenbruch",
+        "Gehört zum Nationalpark Lagoas de Cufada",
+        "Sehr tiefes Gewässer, bis zu 30 Meter",
+        "Ermöglicht das Vordringen von Meerestieren ins Landesinnere",
+        "Gesäumt von dichten Mangrovenwäldern",
+        "Befindet sich in der südlichen Quinara-Region",
+        "Wichtiges Gebiet für Biodiversität und Naturschutz"
+      ]
+    },
+    {
+      "id": "bolama-palm-forest-relief-v2",
+      "descriptionAdvancedDe": "Die Insel Bolama, Teil des Bijagós-Archipels und ehemalige Hauptstadt von Portugiesisch-Guinea, ist landschaftlich von dichten Palmenhainen geprägt. Dieses Relief besteht nicht aus natürlichen Wäldern, sondern größtenteils aus über Jahrhunderte kultivierten Ölpalmen (Elaeis guineensis). Diese Monokultur hat die ursprüngliche Vegetation der Insel stark verändert. Die Palmenhaine sind wirtschaftlich bedeutend für die Produktion von Palmöl und Palmwein, prägen aber auch das soziale und kulturelle Leben. Die Landschaft wird durch die geometrische Anordnung der Plantagen und die verfallenden Kolonialbauten der alten Hauptstadt Bolama strukturiert, was einen einzigartigen, fast melancholischen Charakter erzeugt.",
+      "descriptionAdvancedHu": "Bolama szigetét, a Bijagós-szigetcsoport részét és Portugál-Guinea egykori fővárosát, sűrű pálmaligetek jellemzik. Ez a táj nem természetes erdőkből áll, hanem nagyrészt évszázadok óta termesztett olajpálmákból (Elaeis guineensis). Ez a monokultúra nagymértékben megváltoztatta a sziget eredeti növényzetét. A pálmaligetek gazdaságilag fontosak a pálmaolaj- és pálmabor-termelés szempontjából, de a társadalmi és kulturális életet is meghatározzák. A tájat az ültetvények geometrikus elrendezése és a régi főváros, Bolama omladozó gyarmati épületei tagolják, ami egyedi, szinte melankolikus jelleget kölcsönöz.",
+      "descriptionAdvancedRo": "Insula Bolama, parte a Arhipelagului Bijagós și fosta capitală a Guineei Portugheze, este caracterizată peisagistic de plantații dense de palmieri. Acest relief nu este format din păduri naturale, ci în mare parte din palmieri de ulei (Elaeis guineensis) cultivați de-a lungul secolelor. Această monocultură a schimbat în mod semnificativ vegetația originală a insulei. Plantațiile de palmieri sunt importante din punct de vedere economic pentru producția de ulei de palmier și vin de palmier, dar modelează și viața socială și culturală. Peisajul este structurat de dispunerea geometrică a plantațiilor și de clădirile coloniale în ruină ale vechii capitale Bolama, creând un caracter unic, aproape melancolic.",
+      "descriptionAdvancedEn": "The island of Bolama, part of the Bijagós Archipelago and the former capital of Portuguese Guinea, is scenically characterized by dense palm groves. This landscape does not consist of natural forests but largely of oil palms (Elaeis guineensis) cultivated over centuries. This monoculture has significantly altered the island's original vegetation. The palm groves are economically important for the production of palm oil and palm wine, but they also shape social and cultural life. The landscape is structured by the geometric arrangement of the plantations and the decaying colonial buildings of the old capital, Bolama, creating a unique, almost melancholic character.",
+      "factsAdvanced": [
+        "Geprägt durch kultivierte Ölpalmen (Elaeis guineensis)",
+        "Größtenteils eine Monokultur, kein natürlicher Wald",
+        "Wirtschaftliche Bedeutung durch Palmöl und Palmwein",
+        "Befindet sich auf der Insel Bolama im Bijagós-Archipel",
+        "Ehemalige Hauptstadt von Portugiesisch-Guinea",
+        "Landschaft wird durch Plantagenstrukturen geformt",
+        "Kombination aus Natur und kolonialer Geschichte",
+        "Die ursprüngliche Vegetation wurde stark verändert"
+      ]
+    },
+    {
+      "id": "quinara-hills-relief-v2",
+      "descriptionAdvancedDe": "Das Hügelland von Quinará bildet ein sanft gewelltes Relief im Süden von Guinea-Bissau und hebt sich von den flachen Küstenebenen ab. Die Hügel bestehen hauptsächlich aus Lateritböden, die reich an Eisen und Aluminium sind und der Landschaft ihre charakteristische rötliche Farbe verleihen. Diese Region fungiert als wichtige Wasserscheide zwischen den südlichen Flusssystemen des Landes. Die Vegetation ist eine Mischung aus offener Savanne und dichteren Waldstücken. Die Böden eignen sich gut für den Anbau von Cashew-Nüssen, was die Region zu einem wichtigen landwirtschaftlichen Zentrum für diesen Exportartikel macht. Die sanften Hänge und Täler prägen die ländliche Siedlungsstruktur.",
+      "descriptionAdvancedHu": "A Quinará-dombság egy enyhén hullámzó domborzatot alkot Bissau-Guinea déli részén, elválasztva azt a sík part menti alföldektől. A dombokat főként laterit talajok alkotják, amelyek vasban és alumíniumban gazdagok, és a tájnak jellegzetes vöröses színt kölcsönöznek. Ez a régió fontos vízválasztóként funkcionál az ország déli folyórendszerei között. A növényzet nyílt szavannák és sűrűbb erdőfoltok keveréke. A talaj kiválóan alkalmas a kesudió termesztésére, ami a régiót ennek az exportcikknek a fontos mezőgazdasági központjává teszi. Az enyhe lejtők és völgyek meghatározzák a vidéki településszerkezetet.",
+      "descriptionAdvancedRo": "Dealurile din Quinará formează un relief lin ondulat în sudul Guineei-Bissau, deosebindu-se de câmpiile de coastă plate. Dealurile sunt compuse în principal din soluri lateritice, bogate în fier și aluminiu, care conferă peisajului culoarea sa roșiatică caracteristică. Această regiune acționează ca un important bazin hidrografic între sistemele fluviale sudice ale țării. Vegetația este un amestec de savană deschisă și pâlcuri de pădure mai densă. Solurile sunt potrivite pentru cultivarea nucilor caju, ceea ce face din regiune un centru agricol important pentru acest produs de export. Pantele și văile line modelează structura așezărilor rurale.",
+      "descriptionAdvancedEn": "The Quinará Hills form a gently undulating relief in the south of Guinea-Bissau, standing out from the flat coastal plains. The hills consist mainly of laterite soils, which are rich in iron and aluminum and give the landscape its characteristic reddish color. This region acts as an important watershed between the country's southern river systems. The vegetation is a mixture of open savanna and denser forest patches. The soils are well-suited for cashew cultivation, making the region an important agricultural center for this export commodity. The gentle slopes and valleys shape the rural settlement structure.",
+      "factsAdvanced": [
+        "Sanft gewelltes Hügelland in der südlichen Quinará-Region",
+        "Besteht aus eisenreichen Lateritböden",
+        "Wichtige Wasserscheide für südliche Flüsse",
+        "Geprägt durch den Anbau von Cashew-Nüssen",
+        "Vegetation ist eine Mischung aus Savanne und Wald",
+        "Hebt sich topografisch von der Küstenebene ab",
+        "Bestimmt die ländliche Siedlungsstruktur",
+        "Fruchtbare Böden in den Tälern"
+      ]
+    }
+  ]
+}

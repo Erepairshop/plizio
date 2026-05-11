@@ -177,7 +177,7 @@ export const poiExtraZambiaReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höhe im Durchschnitt 1200 m", "Historisches Zentrum der Bergbauindustrie", "Enthält signifikante Vorkommen von Blei und Zink", "Verkehrsknotenpunkt zwischen Nord- und Südsambia", "Bedeutender Bereich für die Maisproduktion"],
-      ro: ["Are o altitudine medie de aproximativ 1200 metri.", "Este o regiune de importanță istorică pentru extracția plumbului și zincului.", "Relieful este presărat cu zone de vegetație de savană.", "Este străbătut de principalele artere de transport zambiene.", "Podișul servește drept cumpănă a apelor între bazinele Kafue și Luangwa.", "Zona este esențială pentru dezvoltarea agricolă a Zambiei centrale."]
+      ro: ["Este o regiune de importanță istorică pentru extracția plumbului și zincului.", "Relieful este presărat cu zone de vegetație de savană.", "Este străbătut de principalele artere de transport zambiene.", "Podișul servește drept cumpănă a apelor între bazinele Kafue și Luangwa.", "Zona este esențială pentru dezvoltarea agricolă a Zambiei centrale."]
     }
   },
   {
@@ -186,12 +186,12 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-06",
     coords: [25.0, -12.0],
     name: { de: "Nordwest-Hochland", hu: "Északnyugati felföld", ro: "Podișul de nord-vest", en: "Northwestern Highlands" },
-    description: { de: "Hügeliges Gelände im Nordwesten Sambias.", hu: "Hilly terület Zambia északnyugati részén.", ro: "Podișul de Nord-Vest reprezintă o regiune înaltă a Zambiei, caracterizată prin soluri bogate și precipitații abundente.", en: "Hilly terrain in northwestern Zambia." },
+    description: { de: "Hügeliges Gelände im Nordwesten Sambias.", hu: "Hilly terület Zambia északnyugati részén.", ro: "Podișul de Nord-Vest reprezintă o regiune înaltă a Zambiei, caracterizată prin soluri bogate și precipitații abundente.", en: "A high-altitude plateau area in north-western Zambia, influencing regional climate and drainage." },
     facts: {
       de: ["Wichtiger Wasserspeicher für Flüsse.", "Sehr regenreich."],
       hu: ["Fontos víztároló a folyók számára.", "Nagyon csapadékos."],
       ro: ["Zona cu cea mai mare umiditate", "Relief dominat de platouri ondulate", "Sursă a multor afluenți ai Zambeziului", "Acoperit de păduri dense de tip uscat"],
-      en: ["Important water reservoir for rivers.", "Very rainy."]
+      en: ["North-western plateau.", "High altitude.", "Climatic influence."]
     }, image: "/poi-images/northwestern-highlands-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die nordwestlichen Hochländer Sambias sind durch eine komplex gegliederte Topografie aus plateausartigen Hügeln und tief eingeschnittenen Flusstälern gekennzeichnet. Diese Region ist von hoher Bedeutung für die Wasserversorgung zahlreicher großer Flüsse, darunter der Sambesi. Die Landschaft ist bewaldet und bietet eine vielfältige Geologie, die noch weitgehend in ihrem natürlichen Zustand ist. Geografie K7 — Wassereinzugsgebiete und Hochlandschaften.",
@@ -254,12 +254,12 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-08",
     coords: [30.0, -9.5],
     name: { de: "Mporokoso-Plateau", hu: "Mporokoso-fennsík", ro: "Platoul Mporokoso", en: "Mporokoso Plateau" },
-    description: { de: "Ein Plateau im Norden mit vielen Wasserfällen.", hu: "Fennsík az északi részen, sok vízeséssel.", ro: "Un platou în nord cu multe cascade.", en: "A plateau in the north with many waterfalls." },
+    description: { de: "Ein Plateau im Norden mit vielen Wasserfällen.", hu: "Fennsík az északi részen, sok vízeséssel.", ro: "Un platou în nord cu multe cascade.", en: "An elevated terrain region in the Northern province of Zambia." },
     facts: {
       de: ["Hohe Niederschlagsmengen.", "Wasserreiches Gebiet."],
       hu: ["Magas csapadékmennyiség.", "Vízben gazdag terület."],
       ro: ["Precipitații ridicate.", "Zonă bogată în apă."],
-      en: ["High rainfall.", "Water-rich area."]
+      en: ["Northern province.", "Elevated terrain.", "Plateau region."]
     }, image: "/poi-images/mporokoso-plateau-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Mporokoso-Plateau ist eine abgelegene Hochlandregion im Norden Sambias, die vor allem durch ihre zahlreichen Wasserfälle bekannt ist. Geologisch gesehen handelt es sich um eine stabile Hochfläche, die von den Flüssen des nördlichen Einzugsgebiets tief eingekerbt wurde, was zur Bildung dieser spektakulären Naturereignisse führte. Die Topografie ist durch eine Mischung aus Wald und Savanne geprägt. Geografie K7 — Plateaus und Landschaftsformen durch Erosion.",
@@ -444,12 +444,12 @@ export const poiExtraZambiaReliefV2: POI[] = [
     parent: "ZM-06",
     coords: [26.0, -11.0],
     name: { de: "Katanga-Plateau-Ausläufer", hu: "Katanga-fennsík nyúlványa", ro: "Prelungirea Platoului Katanga", en: "Katanga Plateau Extension" },
-    description: { de: "Ein nördlicher Ausläufer des Katanga-Plateaus.", hu: "A közép-afrikai Katanga-fennsík Zambiába átnyúló része, amely ásványkincsekben rendkívül gazdag terület.", ro: "Extensia Podișului Katanga pătrunde în nordul Zambiei, fiind o regiune celebră pentru bogățiile sale minerale.", en: "A northern extension of the Katanga Plateau." },
+    description: { de: "Ein nördlicher Ausläufer des Katanga-Plateaus.", hu: "A közép-afrikai Katanga-fennsík Zambiába átnyúló része, amely ásványkincsekben rendkívül gazdag terület.", ro: "Extensia Podișului Katanga pătrunde în nordul Zambiei, fiind o regiune celebră pentru bogățiile sale minerale.", en: "An extension of the Katanga plateau into Zambian territory, defining local topography." },
     facts: {
       de: ["Reich an Mineralien.", "Hügeliges Gelände."],
       hu: ["Magasföldi domborzat", "Ásványkincsekben gazdag", "Geológiai folytonosság"],
       ro: ["Geologie bogată în cupru și cobalt", "Relief de platou cu altitudini medii", "Parte a complexului geologic african", "Zonă cu activitate minieră intensă"],
-      en: ["Rich in minerals.", "Hilly terrain."]
+      en: ["Extension of Katanga plateau.", "Defines topography.", "Zambian territory."]
     }, image: "/poi-images/katanga-plateau-extension-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Verlängerung des Katanga-Plateaus erstreckt sich über die nördlichen Grenzgebiete Sambias und ist durch ihre geologische Kontinuität zu den mineralreichen Regionen Kongos gekennzeichnet. Diese Region ist geografisch geprägt durch ein stabiles Hochplateau, das von zahlreichen Wasserläufen durchschnitten wird. Sie bildet eine wichtige Grundlage für den Bergbau und die forstwirtschaftliche Nutzung in Nord-Sambia. Geografie K7 — Geologische Einheiten und Wirtschaftsregionen."

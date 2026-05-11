@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Der Kinderpark in Antsirabe ist ein beliebter Erholungsort für Familien im Herzen der Thermalstadt.",
+      "facts": ["Zentrale Lage in Antsirabe", "Grünflächen und Spielbereiche", "Treffpunkt für lokale Familien"]
+    },
+    {
+      "id": "andasibe-orchid-park-life-v2",
+      "description": "Der Orchideenpark von Andasibe beherbergt eine beeindruckende Sammlung endemischer Orchideenarten in ihrem natürlichen Lebensraum.",
+      "facts": ["Zentrum der Orchideenvielfalt", "Blütezeit zwischen Oktober und Januar", "Lehrreiche Naturpfade"]
+    },
+    {
+      "id": "ampefy-geyser-park-life-v2",
+      "description": "Die Geysire von Ampefy sind ein einzigartiges geologisches Phänomen, bei dem mineralreiches Wasser aus dem Boden sprudelt.",
+      "facts": ["Kaltwasser-Geysire", "Bizarre Kalksteinformationen", "Heilsame Mineralvorkommen"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "Der Stadtpark von Tamatave bietet eine schattige Oase in der belebten Hafenstadt und lädt zum Verweilen ein.",
+      "facts": ["Großer Bestand an alten Bäumen", "In der Nähe des Hafens gelegen", "Wichtiger städtischer Freiraum"]
+    },
+    {
+      "id": "maroantsetra-vanille-farm-life-v2",
+      "description": "Auf den Vanillefarmen von Maroantsetra erfahren Besucher alles über den mühsamen Prozess des Anbaus und der Bestäubung der Vanille.",
+      "facts": ["Haupteinnahmequelle der Region", "Handbestäubung der Blüten", "Intensiver Duft während der Ernte"]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "description": "Das Korallenriff von Nosy Be ist ein Paradies für Taucher und Schnorchler mit einer unglaublichen Vielfalt an Meeresbewohnern.",
+      "facts": ["Bunte Korallengärten", "Sichtungen von Meeresschildkröten", "Kristallklares, warmes Wasser"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "Der Zoo-Bereich von Ranomafana bietet die Möglichkeit, einige der seltensten Tierarten der Region aus nächster Nähe zu beobachten.",
+      "facts": ["Forschungsnahe Einrichtung", "Schutz bedrohter Tierarten", "Inmitten des Regenwaldes"]
+    },
+    {
+      "id": "lakato-lemuren-schutz-life-v2",
+      "description": "Das Schutzgebiet in Lakato widmet sich dem Erhalt gefährdeter Lemurenarten und deren Lebensraum im dichten Wald.",
+      "facts": ["Fokus auf lokale Endemiten", "Gemeindebasiertes Naturschutzprojekt", "Wichtiger Korridor für Wildtiere"]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "Die Reisfelder rund um Antsirabe prägen die Landschaft des Hochlands und sind die Grundlage der lokalen Ernährung.",
+      "facts": ["Traditioneller Terrassenanbau", "Malerische grüne Landschaften", "Harte Arbeit mit Zebu-Rindern"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "Der Marine-Nationalpark Nosy Tanikely ist weltberühmt für sein intaktes Riffsystem und den Reichtum an tropischen Fischen.",
+      "facts": ["Beliebtester Schnorchelspot", "Unterwasser-Nationalpark", "Häufige Delfinsichtungen"]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "Der botanische Garten von Toliara zeigt die faszinierende Flora des trockenen Südens, darunter skurrile Dornenwaldgewächse.",
+      "facts": ["Spezialisierung auf Sukkulenten", "Riesige Baobab-Exemplare", "Wissenschaftliche Pflanzensammlung"]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "description": "Der Canal des Pangalanes bei Manakara ist eine lebenswichtige Wasserstraße für den Transport und bietet Einblicke in das traditionelle Leben.",
+      "facts": ["Künstlich verbundene Wasserwege", "Traditionelle Pirogen-Fahrten", "Einzigartige Flussufer-Kultur"]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Der Strand von Mahajanga ist ein lebendiger Treffpunkt, besonders am Abend, wenn die Einheimischen den Sonnenuntergang genießen.",
+      "facts": ["Berühmter 'Le Bord' Boulevard", "Streetfood-Stände mit Meeresfrüchten", "Breite Sandstrände"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "Der Tsingy de Namoroka Nationalpark beeindruckt durch seine wilden Felsformationen und abgelegene Wildnis.",
+      "facts": ["Weniger besucht und ursprünglich", "Höhlen und Canyons", "Seltene Baobab-Arten"]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Die Weingüter von Fianarantsoa sind das Herz der madagassischen Weinproduktion und bieten Verkostungen lokaler Sorten an.",
+      "facts": ["Zentrum des Weinbaus", "Französisches Erbe", "Rot-, Weiß- und Roséweine"]
+    }
+  ]
+}

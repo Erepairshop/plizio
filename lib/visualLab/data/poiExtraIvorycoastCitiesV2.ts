@@ -32,9 +32,9 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       en: "Abidjan, the economic capital of Ivory Coast, is a vibrant metropolis on the Gulf of Guinea. With over 4.3 million residents, the city is a major port and financial hub of West Africa. The skyline is dominated by modern skyscrapers in the Plateau district, while the city is bisected by the Ébrié Lagoon. A landmark is St. Paul's Cathedral, consecrated in 1985, known for its unique architecture. The city serves as a central trade hub for the export of cocoa and coffee. Geography K8 – coastal metropolises."
     },
     factsAdvanced: {
-      de: ["Bevölkerung von über 4,3 Millionen Menschen.", "Zentrales Finanz- und Hafen-Zentrum.", "St. Paul-Kathedrale 1985 fertiggestellt.", "Wichtigster Exporthafen für Kakao.", "Gelegen an der Ébrié-Lagune.", "Wirtschaftsmotor der Elfenbeinküste."],
-      hu: ["Több mint 4,3 millió lakos.", "Központi pénzügyi és kikötői csomópont.", "A Szent Pál-katedrális 1985-ben épült.", "A kakaó legfontosabb kiviteli kikötője.", "Az Ébrié-lagúna partján fekszik.", "Elefántcsontpart gazdasági motorja."],
-      ro: ["Populație de peste 4,3 milioane de oameni.", "Centru financiar și portuar central.", "Catedrala Sf. Paul a fost finalizată în 1985.", "Cel mai important port de export pentru cacao.", "Situat pe laguna Ébrié.", "Motorul economic al Coastei de Fildeș."],
+      de: ["Bevölkerung von über 4,3 Millionen Menschen.", "Zentrales Finanz- und Hafen-Zentrum.", "St. Paul-Kathedrale 1985 fertiggestellt.", "Wichtigster Exporthafen für Kakao.", "Gelegen an der Ébrié-Lagune."],
+      hu: ["Több mint 4,3 millió lakos.", "Központi pénzügyi és kikötői csomópont.", "A Szent Pál-katedrális 1985-ben épült.", "A kakaó legfontosabb kiviteli kikötője.", "Az Ébrié-lagúna partján fekszik."],
+      ro: ["Populație de peste 4,3 milioane de oameni.", "Centru financiar și portuar central.", "Catedrala Sf. Paul a fost finalizată în 1985.", "Cel mai important port de export pentru cacao.", "Situat pe laguna Ébrié."],
       en: ["Population of over 4.3 million people.", "Central financial and port hub.", "St. Paul's Cathedral completed in 1985.", "Most important export port for cocoa.", "Located on the Ébrié Lagoon.", "Economic engine of Ivory Coast."]
     }, image: "/poi-images/abidjan-cities-v2.webp"},
   {
@@ -169,7 +169,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       ro: "San-Pédro este al doilea cel mai mare oraș-port din Coasta de Fildeș, situat pe coasta atlantică în sud-vestul țării. Orașul a fost dezvoltat la sfârșitul anilor 1960 ca un mare proiect guvernamental planificat, menit să descongestioneze portul Abidjan și să accelereze dezvoltarea regiunii vestice slab populate. Astăzi este principalul port de export al cacaoului la nivel mondial și un centru major pentru lemnul tropical, cauciuc și uleiul de palmier. Înconjurat de păduri tropicale și plaje întinse, devine treptat o destinație turistică în creștere. Servește totodată drept poartă spre Parcul Național Taï, sit UNESCO al patrimoniului natural mondial, și găzduiește modernul stadion Laurent Pokou. Geografie K7 – infrastructură portuară și comerț global."
     },
     factsAdvanced: {
-      en: ["World's leading port for cocoa exports", "Founded as a modern port city in 1968", "Capital of the Bas-Sassandra District", "Second-largest port in Ivory Coast", "Major center for the timber and rubber industries", "Home to the Laurent Pokou Stadium", "Famous for beautiful Atlantic beaches", "Gateway to the Taï National Park"]
+      en: ["World's leading port for cocoa exports", "Founded as a modern port city in 1968", "Capital of the Bas-Sassandra District", "Major center for the timber and rubber industries", "Home to the Laurent Pokou Stadium", "Famous for beautiful Atlantic beaches", "Gateway to the Taï National Park"]
     }
   },
   {
@@ -237,7 +237,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Beiname: Stadt der 18 Berge.", "Zentrum des Dan-Volkes (Yacouba).", "Berühmt für Maskentänze und Stelzenläufer.", "Wichtiges Kaffeanbaugebiet des Westens.", "Bekannt für den Wasserfall 'La Cascade de Man'.", "Höchster Punkt der Umgebung ist der Mont Tonkpi.", "Berühmt für die Brücke aus lebenden Lianen in der Nähe.", "Kühleres Klima als im Rest des Landes."],
-      en: ["Known as the 'City of 18 Mountains'", "Capital of the Tonkpi Region", "Surrounded by Mount Tonkpi and Mount Toura", "Center of the Dan (Yacouba) ethnic group", "Major producer of high-quality Robusta coffee", "Famous for the 'La Cascade' waterfall", "Known for traditional stilt dances and masks", "High-altitude city with a tropical mountain climate"]
+      en: ["Capital of the Tonkpi Region", "Surrounded by Mount Tonkpi and Mount Toura", "Center of the Dan (Yacouba) ethnic group", "Major producer of high-quality Robusta coffee", "Famous for the 'La Cascade' waterfall", "Known for traditional stilt dances and masks", "High-altitude city with a tropical mountain climate"]
     }
   },
   {
@@ -1603,7 +1603,7 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptstadt der Region Bafing.", "Zentrum des Mahou-Volkes (Mande-Kultur).", "Wichtiger Produzent von Soja und Reis.", "Bedeutendes Zentrum für islamische Studien.", "Gelegen in einer markanten Hügel-Savanne.", "Tor zu den Bergen von Guinea.", "Bekannt für traditionelle Webarbeiten.", "Wichtiger lokaler Viehmarkt."],
-      en: ["Capital of the Bafing Region", "Major center for the Mahouka (Malinké) people", "Significant hub for cashew and cattle trade", "Historically a center for Islamic education", "Located in the northwestern savanna-hill zone", "Key trade gateway near the Guinea border", "Known for the traditional Fadika cultural heritage", "Important regional administrative powerhouse"]
+      en: ["Major center for the Mahouka (Malinké) people", "Significant hub for cashew and cattle trade", "Historically a center for Islamic education", "Located in the northwestern savanna-hill zone", "Key trade gateway near the Guinea border", "Known for the traditional Fadika cultural heritage", "Important regional administrative powerhouse"]
     }
   },
   {

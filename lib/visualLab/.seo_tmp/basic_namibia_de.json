@@ -1,0 +1,79 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "otjikoto-goldmine-economic-v2",
+      "description": "Die Otjikoto-Goldmine ist ein bedeutender Bergbaubetrieb im Norden Namibias. Sie trägt maßgeblich zur wirtschaftlichen Entwicklung der Region bei.",
+      "facts": ["Goldabbau in Namibia", "Moderne Tagebau-Technik", "Wichtiger Arbeitgeber", "Region Oshikoto"]
+    },
+    {
+      "id": "matchless-kupfermine-economic-v2",
+      "description": "Die Matchless-Kupfermine liegt nahe Windhoek und hat eine lange Tradition im namibischen Bergbau. Heute dient sie vor allem der wirtschaftlichen Rohstoffgewinnung.",
+      "facts": ["Kupfervorkommen", "Bei Windhoek gelegen", "Historischer Bergbau", "Namibische Wirtschaft"]
+    },
+    {
+      "id": "otjihase-kupfermine-economic-v2",
+      "description": "Die Otjihase-Mine ist eine bekannte Kupfermine, die für ihre untertägigen Abbauaktivitäten bekannt ist. Sie spielt eine wichtige Rolle in der Kupferproduktion des Landes.",
+      "facts": ["Untertagebau", "Kupferkonzentrat", "Wirtschaftssektor Bergbau", "Region Khomas"]
+    },
+    {
+      "id": "heldenacker-history-v2",
+      "description": "Der Heldenacker ist eine nationale Gedenkstätte bei Windhoek. Er erinnert an die namibischen Freiheitskämpfer, die ihr Leben im Unabhängigkeitskampf ließen.",
+      "facts": ["Nationale Gedenkstätte", "Bei Windhoek", "Namibischer Unabhängigkeitskampf", "Historisches Denkmal"]
+    },
+    {
+      "id": "franketurm-history-v2",
+      "description": "Der Franketurm ist ein historisches Bauwerk in Namibia, das an die koloniale Ära erinnert. Er ist ein Zeugnis der frühen Siedlungsgeschichte des Landes.",
+      "facts": ["Koloniale Geschichte", "Historisches Bauwerk", "Siedlungsarchitektur", "Namibische Vergangenheit"]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "description": "Das Nakambale-Museum befindet sich in der ehemaligen Missionsstation Olukonda. Es bewahrt das kulturelle Erbe der Ovambo-Region und die Geschichte der finnischen Missionare.",
+      "facts": ["Ehemalige Missionsstation", "Ovambo-Kultur", "Historisches Museum", "Olukonda"]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "description": "Das Goerke-Haus in Lüderitz ist ein architektonisches Juwel aus der Diamantenzeit. Es zeugt vom Reichtum und Lebensstil der frühen deutschen Siedler.",
+      "facts": ["Lüderitz", "Diamantenzeit", "Architektonisches Erbe", "Frühe Siedlerzeit"]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "description": "Der Tintenpalast in Windhoek dient heute als Sitz des namibischen Parlaments. Das Gebäude ist eines der markantesten Wahrzeichen der namibischen Hauptstadt.",
+      "facts": ["Parlamentssitz", "Windhoek", "Landmarke", "Politisches Zentrum"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "Die Hardap-Region zeichnet sich durch intensive Bewässerungslandwirtschaft aus. Der Hardap-Damm ermöglicht den Anbau von Getreide und Gemüse in einer trockenen Umgebung.",
+      "facts": ["Bewässerungslandwirtschaft", "Hardap-Damm", "Agrarregion", "Gemüseanbau"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Die Region um Tsumeb nutzt die fruchtbaren Böden für die Landwirtschaft. Neben dem Bergbau spielt der Ackerbau für die lokale Versorgung eine wichtige Rolle.",
+      "facts": ["Landwirtschaftliche Nutzung", "Tsumeb", "Regionale Versorgung", "Fruchtbare Böden"]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "description": "Gobabis ist das Zentrum der namibischen Rinderzucht. Die Region um die Stadt ist bekannt für ihre ausgedehnten Farmen und die Fleischproduktion.",
+      "facts": ["Rinderzucht-Zentrum", "Fleischproduktion", "Omaheke-Region", "Farmwirtschaft"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Windhoek bietet zahlreiche Parks und Unterhaltungsmöglichkeiten für Kinder. Es ist ein familienfreundliches Ziel in der namibischen Hauptstadt.",
+      "facts": ["Windhoek", "Familienfreundlich", "Parks für Kinder", "Hauptstadt"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Okahandja ist für seine Märkte bekannt, die auch für Kinder interessante Einblicke bieten. Die Stadt liegt verkehrsgünstig an der Route in den Norden.",
+      "facts": ["Okahandja", "Kunsthandwerksmarkt", "Familienziel", "Durchgangsort"]
+    }
+  ]
+}

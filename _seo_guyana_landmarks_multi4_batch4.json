@@ -1,0 +1,76 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "berbice-bridge-landmarks-v2",
+      "descriptionAdvancedDe": "Die Berbice-Brücke ist eine Pontonbrücke, die den Berbice-Fluss in Guyana überspannt und die Regionen Berbice-Corentyne und East Berbice-Corentyne miteinander verbindet. Sie wurde 2008 fertiggestellt und ist eine der längsten Pontonbrücken der Welt. Die Brücke hat den Transport in der Region revolutioniert, da sie die langwierige und oft unzuverlässige Fährverbindung ersetzt hat. Sie ist eine privat finanzierte Mautbrücke, die eine entscheidende Rolle für den Handel und die soziale Interaktion zwischen den östlichen Regionen Guyanas spielt. Die Brücke ist nicht nur eine wichtige Verkehrsader, sondern auch ein Symbol für die Modernisierung und Entwicklung der Infrastruktur des Landes, die darauf abzielt, abgelegene Gebiete besser zu integrieren und das wirtschaftliche Wachstum zu fördern.",
+      "descriptionAdvancedHu": "A Berbice-híd egy pontonhíd, amely átszeli a Berbice folyót Guyanában, összekötve a Berbice-Corentyne és a Kelet-Berbice-Corentyne régiókat. A 2008-ban elkészült híd a világ egyik leghosszabb pontonhídja. A híd forradalmasította a közlekedést a régióban, mivel felváltotta a hosszadalmas és gyakran megbízhatatlan kompjáratot. Ez egy magánfinanszírozású fizetős híd, amely döntő szerepet játszik a kereskedelemben és a társadalmi interakcióban Guyana keleti régiói között. A híd nemcsak fontos közlekedési útvonal, hanem az ország infrastrukturális modernizációjának és fejlődésének szimbóluma is, amelynek célja a távoli területek jobb integrálása és a gazdasági növekedés elősegítése.",
+      "descriptionAdvancedRo": "Podul Berbice este un pod de pontoane care traversează râul Berbice din Guyana, legând regiunile Berbice-Corentyne și East Berbice-Corentyne. Finalizat în 2008, este unul dintre cele mai lungi poduri de pontoane din lume. Podul a revoluționat transportul în regiune, înlocuind serviciul de feribot, care era îndelungat și adesea nesigur. Este un pod cu taxă finanțat din surse private, care joacă un rol crucial în comerțul și interacțiunea socială dintre regiunile estice ale Guyanei. Podul nu este doar o arteră de transport importantă, ci și un simbol al modernizării și dezvoltării infrastructurii țării, care urmărește o mai bună integrare a zonelor îndepărtate și promovarea creșterii economice.",
+      "descriptionAdvancedEn": "The Berbice Bridge is a pontoon bridge that spans the Berbice River in Guyana, connecting the Berbice-Corentyne and East Berbice-Corentyne regions. Completed in 2008, it is one of the longest pontoon bridges in the world. The bridge has revolutionized transport in the region, replacing the lengthy and often unreliable ferry service. It is a privately financed toll bridge that plays a crucial role in commerce and social interaction between the eastern regions of Guyana. The bridge is not only an important transport artery but also a symbol of the country's infrastructural modernization and development, aimed at better integrating remote areas and promoting economic growth.",
+      "factsAdvanced": [
+        "Opened on December 23, 2008.",
+        "It is a floating pontoon bridge with a length of 1,570 meters (5,150 ft).",
+        "It is the sixth-longest floating bridge in the world.",
+        "Connects New Amsterdam to Rosignol.",
+        "Replaced a government-operated ferry service.",
+        "It is a toll bridge operated by the Berbice Bridge Company Inc.",
+        "The bridge has a retractor span to allow large vessels to pass.",
+        "Construction took approximately two years."
+      ]
+    },
+    {
+      "id": "state-house-guyana-landmarks-v2",
+      "descriptionAdvancedDe": "Das State House in Georgetown ist die offizielle Residenz des Präsidenten von Guyana. Dieses elegante Holzgebäude wurde 1858 erbaut und diente ursprünglich als Residenz des britischen Gouverneurs während der Kolonialzeit. Nach der Unabhängigkeit Guyanas wurde es zur Residenz des Präsidenten. Das Gebäude ist ein herausragendes Beispiel für die koloniale Holzarchitektur und zeichnet sich durch seine weitläufigen Veranden und Jalousiefenster aus, die für das tropische Klima geeignet sind. Es liegt inmitten eines wunderschön angelegten Gartens und strahlt eine Aura von Würde und historischer Bedeutung aus. Das State House ist nicht nur ein privater Wohnsitz, sondern auch ein Ort für offizielle Empfänge und staatliche Zeremonien, was es zu einem zentralen Punkt im politischen Leben Guyanas macht.",
+      "descriptionAdvancedHu": "A georgetowni Állami Ház Guyana elnökének hivatalos rezidenciája. Ezt az elegáns faépületet 1858-ban építették, és eredetileg a brit kormányzó rezidenciájaként szolgált a gyarmati időszakban. Guyana függetlenné válása után az elnök rezidenciája lett. Az épület a gyarmati faépítészet kiemelkedő példája, amelyet tágas verandái és a trópusi éghajlatnak megfelelő zsalugáteres ablakai jellemeznek. Egy gyönyörűen parkosított kert közepén fekszik, és méltóságot és történelmi jelentőséget sugároz. Az Állami Ház nemcsak magánrezidencia, hanem hivatalos fogadások és állami szertartások helyszíne is, ami Guyana politikai életének központi pontjává teszi.",
+      "descriptionAdvancedRo": "Casa de Stat din Georgetown este reședința oficială a președintelui Guyanei. Această clădire elegantă din lemn a fost construită în 1858 și a servit inițial ca reședință a guvernatorului britanic în timpul perioadei coloniale. După independența Guyanei, a devenit reședința președintelui. Clădirea este un exemplu remarcabil de arhitectură colonială din lemn, caracterizată prin verande sale extinse și ferestrele cu jaluzele, potrivite pentru climatul tropical. Este situată în mijlocul unei grădini frumos amenajate și emană o aură de demnitate și importanță istorică. Casa de Stat nu este doar o reședință privată, ci și un loc pentru recepții oficiale și ceremonii de stat, ceea ce o face un punct central în viața politică a Guyanei.",
+      "descriptionAdvancedEn": "State House in Georgetown is the official residence of the President of Guyana. This elegant wooden building was constructed in 1858 and originally served as the residence of the British Governor during the colonial era. After Guyana gained independence, it became the President's residence. The building is an outstanding example of colonial wooden architecture, characterized by its spacious verandas and jalousie windows, which are well-suited for the tropical climate. It is set amidst a beautifully landscaped garden and exudes an aura of dignity and historical significance. State House is not only a private residence but also a venue for official receptions and state ceremonies, making it a central point in Guyana's political life.",
+      "factsAdvanced": [
+        "Built in 1858.",
+        "Official residence of the President of Guyana.",
+        "Formerly the residence of the British Governor.",
+        "An excellent example of colonial wooden architecture.",
+        "Features large verandas and traditional Demerara windows.",
+        "The building is located on Main Street in Georgetown.",
+        "Set in extensive, well-maintained gardens.",
+        "A venue for state functions and official receptions."
+      ]
+    },
+    {
+      "id": "guyana-national-museum-landmarks-v2",
+      "descriptionAdvancedDe": "Das Nationalmuseum von Guyana in Georgetown wurde 1868 gegründet und ist eine der ältesten Institutionen seiner Art in der Karibik. Es beherbergt eine vielfältige Sammlung, die die Naturgeschichte, Anthropologie und Archäologie des Landes umfasst. Die Ausstellungen reichen von der reichen Flora und Fauna Guyanas, einschließlich eines beeindruckenden Modells eines Riesenfaultiers, bis hin zu Artefakten der indigenen Völker und Exponaten aus der Kolonialzeit. Das Museum spielt eine wichtige Rolle bei der Bewahrung des nationalen Erbes und der Bildung der Öffentlichkeit. Obwohl es im Laufe der Jahre unter Platzmangel und unzureichender Finanzierung gelitten hat, bleibt es eine Schatzkammer der guyanischen Geschichte und Kultur und bietet Besuchern einen faszinierenden Einblick in die vielfältige Vergangenheit und Gegenwart des Landes.",
+      "descriptionAdvancedHu": "A Guyanai Nemzeti Múzeumot 1868-ban alapították Georgetownban, és a Karib-térség egyik legrégebbi ilyen jellegű intézménye. Változatos gyűjteménynek ad otthont, amely az ország természettörténetét, antropológiáját és régészetét öleli fel. A kiállítások Guyana gazdag növény- és állatvilágától, beleértve egy óriás lajhár lenyűgöző modelljét, az őslakos népek tárgyi emlékeiig és a gyarmati időszakból származó kiállítási tárgyakig terjednek. A múzeum fontos szerepet játszik a nemzeti örökség megőrzésében és a közvélemény oktatásában. Bár az évek során helyhiánnyal és elégtelen finanszírozással küzdött, továbbra is a guyanai történelem és kultúra kincsesbányája marad, és a látogatóknak lenyűgöző betekintést nyújt az ország sokszínű múltjába és jelenébe.",
+      "descriptionAdvancedRo": "Muzeul Național al Guyanei din Georgetown, fondat în 1868, este una dintre cele mai vechi instituții de acest gen din Caraibe. Acesta găzduiește o colecție diversă care acoperă istoria naturală, antropologia și arheologia țării. Expozițiile variază de la flora și fauna bogată a Guyanei, inclusiv un model impresionant de leneș gigant, la artefacte ale popoarelor indigene și exponate din perioada colonială. Muzeul joacă un rol important în conservarea patrimoniului național și educarea publicului. Deși a suferit de-a lungul anilor de lipsa spațiului și de finanțare inadecvată, rămâne o comoară a istoriei și culturii guyaneze, oferind vizitatorilor o perspectivă fascinantă asupra trecutului și prezentului divers al țării.",
+      "descriptionAdvancedEn": "The Guyana National Museum in Georgetown, founded in 1868, is one of the oldest institutions of its kind in the Caribbean. It houses a diverse collection covering the country's natural history, anthropology, and archaeology. The exhibits range from Guyana's rich flora and fauna, including an impressive model of a giant sloth, to artifacts of the indigenous peoples and exhibits from the colonial period. The museum plays an important role in preserving the national heritage and educating the public. Although it has suffered from a lack of space and inadequate funding over the years, it remains a treasure trove of Guyanese history and culture, offering visitors a fascinating insight into the country's diverse past and present.",
+      "factsAdvanced": [
+        "Established in 1868.",
+        "It is the oldest museum in Guyana.",
+        "Its collections focus on natural history, anthropology, and archaeology.",
+        "One of its most famous exhibits is a replica of a giant sloth (Megatherium).",
+        "The museum was initially housed in the upper flat of the Stabroek Market.",
+        "The current building was occupied in 1951.",
+        "It plays a crucial role in education and the preservation of national heritage.",
+        "Located in the heart of Georgetown, on North Road."
+      ]
+    },
+    {
+      "id": "walter-roth-museum-landmarks-v2",
+      "descriptionAdvancedDe": "Das Walter Roth Museum für Anthropologie in Georgetown widmet sich der Erforschung, Sammlung und Bewahrung der alten Kulturen Guyanas. Das 1974 gegründete Museum wurde zu Ehren von Walter Roth benannt, einem Pionier-Anthropologen, der das Leben der indigenen Völker Guyanas umfassend dokumentierte. Die Sammlung des Museums umfasst eine beeindruckende Auswahl an Artefakten, darunter Keramik, Werkzeuge, Schmuck und zeremonielle Gegenstände der verschiedenen indigenen Gruppen. Es ist in einem charmanten alten Holzhaus untergebracht, das selbst ein Stück Geschichte ist. Das Museum dient nicht nur als Aufbewahrungsort für wertvolle Artefakte, sondern auch als Forschungszentrum und Bildungsstätte, das das Bewusstsein für das reiche indigene Erbe Guyanas schärft und fördert.",
+      "descriptionAdvancedHu": "A georgetowni Walter Roth Antropológiai Múzeum Guyana ősi kultúráinak kutatásának, gyűjtésének és megőrzésének szenteli magát. Az 1974-ben alapított múzeumot Walter Roth, egy úttörő antropológus tiszteletére nevezték el, aki átfogóan dokumentálta Guyana őslakos népeinek életét. A múzeum gyűjteménye lenyűgöző választékot tartalmaz tárgyi emlékekből, köztük kerámiákból, szerszámokból, ékszerekből és a különböző őslakos csoportok szertartási tárgyaiból. Egy bájos, régi faházban található, amely maga is egy darabka történelem. A múzeum nemcsak értékes tárgyak tárhelyeként szolgál, hanem kutatóközpontként és oktatási intézményként is, amely felhívja a figyelmet és elősegíti Guyana gazdag őslakos örökségének tudatosítását.",
+      "descriptionAdvancedRo": "Muzeul de Antropologie Walter Roth din Georgetown este dedicat cercetării, colectării și conservării culturilor antice ale Guyanei. Fondat în 1974, muzeul a fost numit în onoarea lui Walter Roth, un antropolog de pionierat care a documentat pe larg viața popoarelor indigene din Guyana. Colecția muzeului include o selecție impresionantă de artefacte, inclusiv ceramică, unelte, bijuterii și obiecte ceremoniale ale diferitelor grupuri indigene. Este găzduit într-o casă veche și fermecătoare din lemn, care este ea însăși o bucată de istorie. Muzeul nu servește doar ca depozitar pentru artefacte valoroase, ci și ca centru de cercetare și instituție educațională, sporind și promovând conștientizarea bogatei moșteniri indigene a Guyanei.",
+      "descriptionAdvancedEn": "The Walter Roth Museum of Anthropology in Georgetown is dedicated to the research, collection, and preservation of Guyana's ancient cultures. Founded in 1974, the museum was named in honor of Walter Roth, a pioneer anthropologist who extensively documented the lives of Guyana's indigenous peoples. The museum's collection includes an impressive array of artifacts, including pottery, tools, jewelry, and ceremonial items from the various indigenous groups. It is housed in a charming old wooden house that is itself a piece of history. The museum serves not only as a repository for valuable artifacts but also as a research center and educational institution, raising and promoting awareness of Guyana's rich indigenous heritage.",
+      "factsAdvanced": [
+        "Founded on December 25, 1974.",
+        "Named after the pioneer anthropologist Walter Roth.",
+        "Dedicated to the study and preservation of Guyana's indigenous cultures.",
+        "Housed in a historic wooden building on Main Street, Georgetown.",
+        "The collection includes artifacts from all nine indigenous groups of Guyana.",
+        "It was the first museum of anthropology in the English-speaking Caribbean.",
+        "Its collections were initially based on the collections of Walter Roth and J.J. Quelch.",
+        "Serves as an important center for archaeological and anthropological research."
+      ]
+    }
+  ]
+}

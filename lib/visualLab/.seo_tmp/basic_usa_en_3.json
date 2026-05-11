@@ -1,0 +1,50 @@
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "seaworld-orlando-life-v2",
+      "description": "SeaWorld Orlando is a massive marine zoological park and theme park in Florida. It is famous for its large-scale aquatic animal exhibits, thrill rides, and conservation programs.",
+      "facts": ["Florida marine park", "Aquatic animal exhibits", "Known for thrill rides", "Marine conservation focus"]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "Zion National Park is a protected area in southwestern Utah distinguished by Zion Canyon's steep red cliffs. It is a world-renowned hiking destination featuring unique rock formations.",
+      "facts": ["Southwestern Utah park", "Famous red canyon walls", "World-class hiking destination", "Unique rock formations"]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "Great Smoky Mountains National Park straddles the border of North Carolina and Tennessee. It is the most-visited national park in the US, known for its mist-covered peaks and rich biodiversity.",
+      "facts": ["NC and TN border", "Most-visited US national park", "Rich mountain biodiversity", "Known for mist-covered peaks"]
+    },
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "description": "Knott's Berry Farm is a popular theme park in Buena Park, California. It began as a farm and berry stand and has grown into a major entertainment complex with classic roller coasters.",
+      "facts": ["Located in Buena Park", "Started as a farm", "Major amusement park", "Classic roller coasters"]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "The Colorado Plateau is a vast, high-altitude desert region spanning parts of Arizona, Utah, Colorado, and New Mexico. It is home to iconic landmarks like the Grand Canyon.",
+      "facts": ["Vast desert region", "Spans four states", "High-altitude plateau", "Home to Grand Canyon"]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "description": "The Sierra Madre Occidental is a major mountain range in northwestern Mexico that extends into the southwestern United States. It features deep canyons and diverse montane ecosystems.",
+      "facts": ["Major mountain range", "Extends into US southwest", "Features deep canyons", "Diverse forest ecosystems"]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "The Chisos Mountains are a small but rugged mountain range located in Big Bend National Park, Texas. They form a dramatic, high-altitude island in the middle of the Chihuahuan Desert.",
+      "facts": ["Located in Big Bend NP", "Rugged mountain range", "High-altitude desert island", "Unique desert biodiversity"]
+    },
+    {
+      "id": "olympic-mountains-relief-v2",
+      "description": "The Olympic Mountains are a significant mountain range in the Olympic Peninsula of Washington state. They are known for their glacial peaks and their impact on local precipitation levels.",
+      "facts": ["Olympic Peninsula range", "Significant glacial peaks", "Influences local weather", "Spectacular mountain scenery"]
+    }
+  ]
+}

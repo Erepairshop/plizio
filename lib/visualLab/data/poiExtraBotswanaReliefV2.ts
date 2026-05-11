@@ -66,12 +66,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [21.7, -18.7],
     name: { de: "Tsodilo-Hügel", hu: "Tsodilo-dombok", ro: "Dealurile Tsodilo", en: "Tsodilo Hills" },
-    description: { de: "Einzigartige Erhebung in der flachen Kalahari, bekannt für Felsmalereien.", hu: "A Tsodilo-hegység sziklás magaslatai erősen kiemelkednek a környező sík vidékről. A dombok vallási és régészeti jelentősége miatt különleges tájelemek Botswana északnyugati részén.", ro: "Formă de relief unică în Kalahari plat, cunoscută pentru picturile rupestre.", en: "Tsodilo Hills are rocky hills rising above the Kalahari in northwestern Botswana. They are also linked to ancient rock art and long human use." },
+    description: { de: "Einzigartige Erhebung in der flachen Kalahari, bekannt für Felsmalereien.", hu: "A Tsodilo-hegység sziklás magaslatai erősen kiemelkednek a környező sík vidékről. A dombok vallási és régészeti jelentősége miatt különleges tájelemek Botswana északnyugati részén.", ro: "Formațiuni stâncoase izolate în deșertul Kalahari, cele mai înalte puncte din nord-vestul Botswanei.", en: "Rising from the Kalahari, the Tsodilo Hills are the highest point in Botswana, consisting of four main quartzite ridges." },
     facts: {
       de: ["Heilige Stätte.", "Über 4000 Felsmalereien."],
       hu: ["Sziklás magaslat", "UNESCO helyszín", "Rock art és szakrális jelentés"],
-      ro: ["Loc sacru.", "Peste 4000 de picturi rupestre."],
-      en: ["Rock hills", "Kalahari fringe", "Ancient art"]
+      ro: ["Vârf maxim de 1.400m", "Cunoscute sub numele 'Muntele Zeilor'", "Patrimoniu mondial UNESCO", "Cuarțit masiv străvechi"],
+      en: ["Highest point in Botswana", "Kalahari Desert location", "Four distinct hill ridges", "Ancient quartzite rock"]
     },
     descriptionAdvanced: {
       ro: "Dealurile Tsodilo, cunoscute drept 'Louvrul Deșertului', găzduiesc una dintre cele mai mari concentrații de artă rupestră din lume, cu peste 4.500 de picturi realizate de-a lungul a mii de ani. Aceste formațiuni geologice proeminente sunt considerate sacre de către poporul San, care crede că aici s-au născut primii oameni. Tsodilo Hills reprezintă o conexiune culturală profundă între istoria umană timpurie și peisajul arid al Botswanei. Istorie K6 — arta preistorică."
@@ -180,12 +180,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NE",
     coords: [27.7, -21.4],
     name: { de: "Shashe-Fluss", hu: "Shashe folyó", ro: "Râul Shashe", en: "Shashe River" },
-    description: { de: "Ein weiterer Nebenfluss des Limpopo an der Grenze.", hu: "A Shashe folyó Botswana keleti részének fontos vízfolyása. A meder és a környező síkság a régió vízrendszerének egyik alapvető eleme.", ro: "Un alt afluent de frontieră al Limpopo.", en: "The Shashe River is a seasonal river in eastern Botswana. It feeds part of the Limpopo drainage system." },
+    description: { de: "Ein weiterer Nebenfluss des Limpopo an der Grenze.", hu: "Botswana északkeleti részének meghatározó folyója, amely fontos vízforrást biztosít a mezőgazdaság számára.", ro: "Un alt afluent de frontieră al Limpopo.", en: "The Shashe River is a major ephemeral river that forms part of the international border between Botswana and Zimbabwe." },
     facts: {
       de: ["Grenzfluss zu Simbabwe.", "Sandiger Untergrund."],
-      hu: ["Kelet-Botswana", "Vízfolyás", "Limpopo-medence"],
+      hu: ["A Limpopo-folyó mellékfolyója", "Itt található a Shashe-gát", "Zimbabwével alkot határszakaszt", "Időszakos vízhozam jellemzi"],
       ro: ["Râu de frontieră cu Zimbabwe.", "Albie nisipoasă."],
-      en: ["Seasonal river", "Eastern Botswana", "Limpopo basin"]
+      en: ["Ephemeral river system", "Border with Zimbabwe", "Major Limpopo tributary", "Site of Shashe Dam"]
     },
     descriptionAdvanced: {
       hu: "A(z) shashe-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -200,12 +200,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NE",
     coords: [27.6, -21.2],
     name: { de: "Tati-Fluss", hu: "Tati folyó", ro: "Râul Tati", en: "Tati River" },
-    description: { de: "Ein kleinerer Nebenfluss im Nordosten.", hu: "Kisebb mellékfolyó északkeleten.", ro: "Un afluent mai mic în nord-est.", en: "The Tati River forms part of the drainage network around Francistown. It has shaped settlement and mining areas in the northeast." },
+    description: { de: "Ein kleinerer Nebenfluss im Nordosten.", hu: "Kisebb mellékfolyó északkeleten.", ro: "Un afluent mai mic în nord-est.", en: "The Tati River flows through the city of Francistown, serving as a key drainage system in the northeastern region." },
     facts: {
       de: ["Fließt bei Francistown.", "Saisonal geprägt."],
       hu: ["Francistown mellett folyik.", "Időszakos jellegű."],
       ro: ["Curge pe lângă Francistown.", "Cu caracter sezonier."],
-      en: ["Drainage river", "Near Francistown", "Northeast Botswana"]
+      en: ["Flows through Francistown", "Northeast Botswana location", "Seasonal river flow", "Historic mining region river"]
     },
     descriptionAdvanced: {
       hu: "A(z) tati-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -219,12 +219,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SE",
     coords: [25.9, -24.7],
     name: { de: "Moshaweng-Fluss", hu: "Moshaweng folyó", ro: "Râul Moshaweng", en: "Moshaweng River" },
-    description: { de: "Der Moshaweng River ist ein saisonaler Fluss in Botswana mit Bedeutung für Wasserführung und Landschaft.", hu: "Kis mellékfolyó délkeleten.", ro: "Afluent mic în sud-est.", en: "The Moshaweng River is a smaller seasonal river in southeastern Botswana. It contributes to local drainage and valley landscapes." },
+    description: { de: "Der Moshaweng River ist ein saisonaler Fluss in Botswana mit Bedeutung für Wasserführung und Landschaft.", hu: "Kis mellékfolyó délkeleten.", ro: "O vale de râu efemeră situată în sudul țării, crucială pentru ecosistemul arid din Kalahari.", en: "The Moshaweng is a seasonal river in southern Botswana, typical of the dry drainage systems found in the Kalahari region." },
     facts: {
       de: ["Saisonaler Wasserlauf", "Teil des Binnenflussnetzes", "prägt die Umgebung"],
       hu: ["Gaborone közelében.", "Gyakran kiszárad."],
-      ro: ["Lângă Gaborone.", "Seacă adesea."],
-      en: ["Seasonal river", "Southeast Botswana", "Local drainage"]
+      ro: ["Albie uscată majoritatea anului", "Inundații rare dar intense", "Habitat pentru viața sălbatică", "Parte a bazinului Molopo"],
+      en: ["Seasonal watercourse", "Southern Botswana relief", "Kalahari drainage system", "Ephemeral desert river"]
     },
     descriptionAdvanced: {
       hu: "A(z) moshaweng-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -258,12 +258,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-KW",
     coords: [20.7, -25.5],
     name: { de: "Nossob-Fluss", hu: "Nossob folyó", ro: "Râul Nossob", en: "Nossob River" },
-    description: { de: "Der Nossob River verläuft als zeitweise wasserführender Fluss durch den südlichen Kalahari-Raum.", hu: "A Nossob folyó inkább száraz meder, mint állandó vízfolyás. A Kalahári száraz tájának jól ismert, időszakosan vízzel telő eleme.", ro: "Un râu temporar de-a lungul graniței cu Namibia.", en: "The Nossob is a dry river channel in the Kalahari region. It is better known for its valley than for year-round flow." },
+    description: { de: "Der Nossob River verläuft als zeitweise wasserführender Fluss durch den südlichen Kalahari-Raum.", hu: "A Nossob folyó inkább száraz meder, mint állandó vízfolyás. A Kalahári száraz tájának jól ismert, időszakosan vízzel telő eleme.", ro: "Un râu sezonier impunător care formează granița naturală dintre Botswana și Africa de Sud.", en: "The Nossob River is a fossil riverbed forming the border with South Africa within the Kgalagadi Transfrontier Park." },
     facts: {
       de: ["Ephemerer Fluss", "Kalahari-Region", "Grenzraum im Süden"],
       hu: ["Száraz folyómeder", "Kalahári térsége", "Időszakos vízhozam"],
-      ro: ["Curge rar.", "Albie uscată."],
-      en: ["Dry riverbed", "Kalahari", "Seasonal watercourse"]
+      ro: ["Străbate parcul Kgalagadi", "Coridor de migrație animală", "Peisaj de dune roșii", "Bazin hidrografic vast"],
+      en: ["Fossil riverbed", "South Africa border", "Kgalagadi Transfrontier Park", "Dry river system"]
     },
     descriptionAdvanced: {
       hu: "A(z) nossob-river-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -334,12 +334,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [23.5, -18.6],
     name: { de: "Selinda-Spillway", hu: "Selinda-csatorna", ro: "Canalul Selinda", en: "Selinda Spillway" },
-    description: { de: "Ein Wasserweg, der den Kwando mit dem Okavango verbindet.", hu: "Vízi út, amely összeköti a Kwandót az Okavangóval.", ro: "Un canal care conectează Kwando cu Okavango.", en: "The Selinda Spillway is a seasonal water channel in northern Botswana. It links wetlands and floodplains when waters rise." },
+    description: { de: "Ein Wasserweg, der den Kwando mit dem Okavango verbindet.", hu: "Vízi út, amely összeköti a Kwandót az Okavangóval.", ro: "Un canal natural fascinant care conectează ocazional râul Linyanti de delta Okavango.", en: "The Selinda Spillway is a unique waterway that can connect the Okavango Delta to the Linyanti River system during high floods." },
     facts: {
       de: ["Gelegentlich wasserführend.", "Sehr abgelegen."],
       hu: ["Alkalmanként vízzel teli.", "Nagyon elszigetelt."],
-      ro: ["Uneori cu apă.", "Foarte izolat."],
-      en: ["Seasonal channel", "Wetland link", "Northern Botswana"]
+      ro: ["Inundații bidirecționale rare", "Zonă de safari exclusivistă", "Peisaj acvatic spectaculos", "Importanță ecologică majoră"],
+      en: ["Ephemeral flood channel", "Connects Okavango and Linyanti", "Dynamic wetland relief", "High-flood dependent"]
     },
     descriptionAdvanced: {
       hu: "A(z) selinda-spillway-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -353,12 +353,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [24.1, -19.2],
     name: { de: "Mababe-Depression", hu: "Mababe-mélyedés", ro: "Depresiunea Mababe", en: "Mababe Depression" },
-    description: { de: "Ein ehemaliger See, heute eine riesige Grasfläche.", hu: "A Mababe-mélyedés alacsony fekvésű tájelemként kapcsolódik a botswanai északi vizes élőhelyekhez. A terület a felszíni lefolyás és a szezonális vízmozgás szempontjából fontos.", ro: "Fost lac, astăzi o zonă vastă cu iarbă.", en: "Mababe Depression is a low-lying basin near Botswana's northern wetland systems. It helps shape flood patterns and habitat." },
+    description: { de: "Ein ehemaliger See, heute eine riesige Grasfläche.", hu: "A Mababe-mélyedés alacsony fekvésű tájelemként kapcsolódik a botswanai északi vizes élőhelyekhez. A terület a felszíni lefolyás és a szezonális vízmozgás szempontjából fontos.", ro: "O depresiune joasă și plată, rămășiță a unui imens lac preistoric, acum o câmpie bogată în iarbă.", en: "The Mababe Depression is a vast, flat basin that was once part of the ancient Lake Makgadikgadi, now a seasonal marshland." },
     facts: {
       de: ["Ehemaliger See.", "Zieht viele Tiere an."],
       hu: ["Mélységi medence", "Északi Botswana", "Szezonális vizek"],
-      ro: ["Fost lac.", "Atrage multe animale."],
-      en: ["Low basin", "Northern wetlands", "Floodplain landscape"]
+      ro: ["Lângă parcul Chobe", "Pășuni sezoniere bogate", "Frecventată de mari turme", "Sol argilos fertil"],
+      en: ["Ancient lake basin", "Seasonal marshland", "Located north of Maun", "Fertile wildlife habitat"]
     },
     descriptionAdvanced: {
       hu: "A(z) mababe-depression-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -391,11 +391,11 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-NW",
     coords: [22.7, -19.5],
     name: { de: "Xudum-Delta", hu: "Xudum-delta", ro: "Delta Xudum", en: "Xudum Delta" },
-    description: { de: "Ein Teil des Okavango-Deltas mit vielen Kanälen.", hu: "Az Xudum-delta az Okavango vízrendszerének mocsaras és tagolt reliefű része. A víz által formált táj a delta déli szakaszának karakterét adja.", ro: "O parte a deltei Okavango cu multe canale.", en: "Xudum Delta is part of the Okavango wetland landscape in northern Botswana. It is defined by channels, marshes, and islands." },
+    description: { de: "Ein Teil des Okavango-Deltas mit vielen Kanälen.", hu: "Az Okavango-delta egyik leglátványosabb vizes élőhelye, amely híres a gazdag vízi világáról.", ro: "O secțiune pitorească și sălbatică a deltei Okavango, caracterizată prin canale înguste și lagune cristaline.", en: "Xudum Delta is part of the Okavango wetland landscape in northern Botswana. It is defined by channels, marshes, and islands." },
     facts: {
       de: ["Reich an Wasserlilien.", "Viel Vogelwelt."],
-      hu: ["Okavango-rendszer", "Mocsaras táj", "Delta-relief"],
-      ro: ["Bogată în nuferi.", "Multe specii de păsări.", "Birds."],
+      hu: ["Mokoro (kenu) túrák helyszíne", "Számos csatorna és lagúna", "Elefántok és vízilovak kedvelt helye", "A delta délnyugati részén van"],
+      ro: ["Zonă inundabilă permanentă", "Accesibilă în principal cu mokoro", "Biodiversitate acvatică", "Peisaj de papirus și stuf"],
       en: ["Okavango system", "Wetland channels", "Northern Botswana"]
     },
     descriptionAdvanced: {
@@ -429,12 +429,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-SO",
     coords: [24.7, -24.6],
     name: { de: "Jwaneng-Plateau", hu: "Jwaneng-fennsík", ro: "Platoul Jwaneng", en: "Jwaneng Plateau" },
-    description: { de: "Ein Plateau im Südosten Botswanas.", hu: "A Jwaneng-fennsík enyhén magasabban fekvő tájként emelkedik a környezete fölé. A terület a déli botswanai domborzat és a bányavidék találkozási pontja.", ro: "Un platou în sud-estul Botswanei.", en: "Jwaneng Plateau is a raised landform near Jwaneng in southern Botswana. It sits within the broader Kalahari terrain." },
+    description: { de: "Ein Plateau im Südosten Botswanas.", hu: "A Kalahári-medence szélén fekvő fennsík, amely geológiai adottságai révén a világ legértékesebb gyémántjait rejti.", ro: "Un platou înalt situat în sudul Botswanei, cunoscut pentru bogățiile sale geologice subterane.", en: "The Jwaneng Plateau is an elevated region in south-central Botswana, notable for its significant mineral wealth beneath the surface." },
     facts: {
       de: ["Bekannt für Diamanten.", "Flache Hochebene."],
-      hu: ["Fennsík", "Jwaneng térsége", "Déli Botswana"],
-      ro: ["Cunoscut pentru diamante.", "Platou plat."],
-      en: ["Raised terrain", "Jwaneng area", "Southern Botswana"]
+      hu: ["Sík, bozótos tájvidék", "Átlagosan 1000 méter feletti magasság", "Alacsony éves csapadékmennyiség", "Fontos bányászati terület"],
+      ro: ["Altitudine relativ ridicată", "Substrat de roci vulcanice", "Găzduiește rezerve de diamante", "Climat semi-arid"],
+      en: ["Elevated plains region", "South-central location", "Site of major diamond mines", "Flat Kalahari relief"]
     },
     descriptionAdvanced: {
       hu: "A(z) jwaneng-plateau-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -448,11 +448,11 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-CE",
     coords: [26.7, -22.4],
     name: { de: "Serowe-Hügel", hu: "Serowe-dombok", ro: "Dealurile Serowe", en: "Serowe Hills" },
-    description: { de: "Hügellandschaft nahe der Stadt Serowe.", hu: "Serowe városához közeli dombvidék.", ro: "Zona deluroasă lângă orașul Serowe.", en: "Hilly landscape near the town of Serowe." },
+    description: { de: "Hügellandschaft nahe der Stadt Serowe.", hu: "Serowe városához közeli dombvidék.", ro: "Dealuri de gresie care domină peisajul așezării Serowe, oferind protecție și puncte de observație.", en: "Hilly landscape near the town of Serowe." },
     facts: {
       de: ["Traditionelles Siedlungsgebiet.", "Schöne Aussichtspunkte."],
       hu: ["Hagyományos települési terület.", "Szép kilátópontok."],
-      ro: ["Zonă de așezare tradițională.", "Puncte de belvedere frumoase.", "Views."],
+      ro: ["Formațiuni stâncoase plate", "Loc de așezare istorică", "Vedere spre câmpiile Kalahari", "Vegetație specifică de deal"],
       en: ["Traditional settlement area.", "Beautiful viewpoints."]
     },
     descriptionAdvanced: {
@@ -467,12 +467,12 @@ export const poiExtraBotswanaReliefV2: POI[] = [
     parent: "BW-CE",
     coords: [25.6, -21.4],
     name: { de: "Letlhakane-Depression", hu: "Letlhakane-mélyedés", ro: "Depresiunea Letlhakane", en: "Letlhakane Depression" },
-    description: { de: "Eine Senke in der zentralen Kalahari.", hu: "Mélyedés a középső Kalaháriban.", ro: "O depresiune în Kalahari central.", en: "Letlhakane Depression is a low-lying landscape feature near Letlhakane. It is part of the region's broad Kalahari relief." },
+    description: { de: "Eine Senke in der zentralen Kalahari.", hu: "Mélyedés a középső Kalaháriban.", ro: "O zonă joasă în districtul Central, caracterizată prin depozite minerale și formațiuni de suprafață specifice.", en: "The Letlhakane Depression is a low-lying basin in central Botswana characterized by pans and significant kimberlite deposits." },
     facts: {
       de: ["Trockenes Becken.", "Wichtige Mineralvorkommen."],
       hu: ["Száraz medence.", "Fontos ásványkincs-lelőhelyek."],
-      ro: ["Bazin sec.", "Depozite minerale importante."],
-      en: ["Low-lying area", "Letlhakane", "Kalahari landscape"]
+      ro: ["Situată lângă Makgadikgadi", "Zonă de colectare a apei", "Geologie de tip kimberlit", "Relief relativ plat"],
+      en: ["Low-lying basin", "Central Botswana location", "Home to kimberlite pipes", "Arid pan landscape"]
       },
     descriptionAdvanced: {
       hu: "A(z) letlhakane-depression-relief-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"

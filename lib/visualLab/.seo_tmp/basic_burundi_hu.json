@@ -1,0 +1,99 @@
+{
+  "lang": "hu",
+  "country": "Burundi",
+  "files": [
+    "lib/visualLab/data/poiExtraBurundiReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gikizi-relief-v2",
+      "description": "A Gikizi-hegy, ahol a Nílus folyó legdélebbi forrását tartják számon, fontos földrajzi emlékhely.",
+      "facts": [
+        "A Nílus forrásaként tisztelt hely",
+        "Rutana tartományban található",
+        "Piramis alakú emlékmű jelzi a forrást"
+      ]
+    },
+    {
+      "id": "musongati-relief-v2",
+      "description": "A Musongati-domb, amely hatalmas nikkel- és egyéb ásványkincs-lelőhelyeiről vált ismertté.",
+      "facts": [
+        "Jelentős bányászati potenciál",
+        "Rutana tartomány keleti részén fekszik",
+        "Gazdag laterites talaj jellemzi"
+      ]
+    },
+    {
+      "id": "gishora-relief-v2",
+      "description": "Gishora dombja, amely nemcsak szakrális dobszentélyéről, hanem lenyűgöző panorámájáról is híres.",
+      "facts": [
+        "Gitega közelében fekvő magaslat",
+        "Kulturális és tájképi jelentőség",
+        "Hagyományos királyi birtok volt"
+      ]
+    },
+    {
+      "id": "teza-relief-v2",
+      "description": "A Teza-dombság, amely a Kibira-erdő szélén fekszik és Burundi egyik legmagasabban fekvő teaültetvényeinek ad otthont.",
+      "facts": [
+        "Magashegyi teaültetvények",
+        "Gyakori ködképződés és hűvös klíma",
+        "Látványos zöldellő lankák"
+      ]
+    },
+    {
+      "id": "songa-relief-v2",
+      "description": "A Songa-hegy, amely Gitega tartomány egyik meghatározó magaslata, tiszta időben messzire ellátszik róla.",
+      "facts": [
+        "A központi fennsík része",
+        "Fontos helyi tájékozódási pont",
+        "Mezőgazdasági művelés a lejtőkön"
+      ]
+    },
+    {
+      "id": "karonje-relief-v2",
+      "description": "Karonje hegye, amely a Burundi-felföld egyik jelentős csúcsa, változatos növénytakaróval.",
+      "facts": [
+        "Kiemelkedő domborzati forma",
+        "A hegyi esőerdő övezethez tartozik",
+        "Népszerű a kirándulók körében"
+      ]
+    },
+    {
+      "id": "cene-relief-v2",
+      "description": "Cene dombja a központi plateau területén, amely a burundi tájra jellemző sűrűn lakott dombvidék mintapéldája.",
+      "facts": [
+        "Tipikus dombvidéki elhelyezkedés",
+        "Mezőgazdasági teraszok jellemzik",
+        "Sűrű tanyasias településszerkezet"
+      ]
+    },
+    {
+      "id": "birira-relief-v2",
+      "description": "Birira hegyvonulata, amely a Congo-Nílus vízválasztó gerincének részét képezi.",
+      "facts": [
+        "Fontos vízválasztó szerep",
+        "Hűvös, magashegyi éghajlat",
+        "Gazdag biodiverzitású peremerdők"
+      ]
+    },
+    {
+      "id": "nkoma-relief-v2",
+      "description": "Nkoma hegye, amely a helyi hagyományokban és legendákban is gyakran szereplő szakrális magaslat.",
+      "facts": [
+        "Történelmi és spirituális jelentőség",
+        "Délkelet-Burundiban található",
+        "Jellegzetes sziklaképződmények"
+      ]
+    },
+    {
+      "id": "mikuba-relief-v2",
+      "description": "Mikuba dombja Muramvya környékén, amely a királyi korszakban fontos rituális helyszín volt.",
+      "facts": [
+        "A történelmi királyi udvar közelében",
+        "Mérsékelt, kellemes klíma",
+        "Jelentős kulturális örökség"
+      ]
+    }
+  ]
+}

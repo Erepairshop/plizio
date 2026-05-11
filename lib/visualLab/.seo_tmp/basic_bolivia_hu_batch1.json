@@ -1,0 +1,80 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-tiwanaku-history-v2",
+      "description": "Prekolumbiánus régészeti lelőhely Nyugat-Bolíviában, az Inka Birodalom előtti egyik legfontosabb civilizáció vallási és politikai központja.",
+      "facts": ["Tengerszint feletti magassága 3850 méter", "Virágkora 500 és 950 közé tehető", "UNESCO Világörökség része 2000 óta"]
+    },
+    {
+      "id": "bo-puma-punku-history-v2",
+      "description": "Tiwanaku templomkomplexumának része, amely hatalmas, precízen megmunkált kőtömbjeiről és bonyolult mérnöki megoldásairól híres.",
+      "facts": ["A kőtömbök súlya eléri a 130 tonnát", "Vörös homokkőből és andezitből épült", "Híres a tökéletes derékszögű vágásokról"]
+    },
+    {
+      "id": "bo-akapana-history-v2",
+      "description": "Egy hatalmas, piramisszerű teraszos építmény Tiwanakuban, amely eredetileg hét szintből állt és szent hegyet szimbolizált.",
+      "facts": ["Magassága eléri a 18 métert", "Alapterülete 210 x 210 méter", "Bonyolult vízelvezető rendszerrel rendelkezett"]
+    },
+    {
+      "id": "bo-puerta-del-sol-history-v2",
+      "description": "A Napkapu egy egyetlen andezittömbből kifaragott monumentális építmény, a tiwanakui kultúra egyik legikonikusabb emléke.",
+      "facts": ["Súlya körülbelül 10 tonna", "Faragott figurái csillagászati jelentőségűek", "3 méter magas és 4 méter széles"]
+    },
+    {
+      "id": "bo-kalasasaya-history-v2",
+      "description": "Egy nagy, téglalap alakú udvar Tiwanakuban, amelyet hatalmas kőoszlopok vesznek körül, és valószínűleg csillagászati megfigyelésekre használták.",
+      "facts": ["Itt található a híres Ponce-monolit", "Mérete 128 x 118 méter", "A falak pontosan a napéjegyenlőséghez igazodnak"]
+    },
+    {
+      "id": "bo-incallajta-history-v2",
+      "description": "Az Inka Birodalom egyik legfontosabb keleti erődítménye és adminisztratív központja, amelyet az amazóniai törzsek elleni védelemre emeltek.",
+      "facts": ["Tupac Inca Yupanqui építtette 1470 körül", "Területe közel 80 hektár", "Hatalmas központi csarnoka 78 méter hosszú"]
+    },
+    {
+      "id": "bo-palacio-quemado-history-v2",
+      "description": "A 'Leégett Palota' Bolívia kormányzati székhelye La Pazban, amely nevét az 1875-ös felkelés során elszenvedett tűzvészről kapta.",
+      "facts": ["A Plaza Murillo téren található", "Neoklasszikus stílusban épült", "1853-ban adták át"]
+    },
+    {
+      "id": "cristo-concordia-landmarks-v2",
+      "description": "Hatalmas Krisztus-szobor Cochabamba városában, amely a San Pedro-domb tetején állva a béke szimbólumaként tekint a völgyre.",
+      "facts": ["Magassága 34,2 méter (talapzat nélkül)", "A világ egyik legmagasabb Krisztus-szobra", "1399 lépcsőfok vezet fel hozzá"]
+    },
+    {
+      "id": "basilica-san-francisco-landmarks-v2",
+      "description": "La Paz egyik legszebb barokk stílusú temploma, amelynek homlokzatát gazdag andoki motívumok és faragványok díszítik.",
+      "facts": ["Építése 1743-ban kezdődött", "A mestizo barokk stílus remekműve", "Tetőteréből panorámás kilátás nyílik a városra"]
+    },
+    {
+      "id": "catedral-metropolitana-sucre-landmarks-v2",
+      "description": "Sucre főterén álló monumentális székesegyház, amely a reneszánsz, a barokk és a neogótikus építészeti stílusok elemeit ötvözi.",
+      "facts": ["Híres a gazdag egyházművészeti múzeumáról", "Építése több mint egy évszázadig tartott", "Itt őrzik a Guadalupe-i Szűz kegyképét"]
+    },
+    {
+      "id": "plaza-murillo-landmarks-v2",
+      "description": "La Paz történelmi központja és politikai életének szíve, ahol az Elnöki Palota és a Nemzeti Kongresszus épülete is található.",
+      "facts": ["Pedro Domingo Murillo szabadságharcosról nevezték el", "A város legfontosabb közéleti tere", "Számos galamb és szökőkút díszíti"]
+    },
+    {
+      "id": "convento-santa-teresa-landmarks-v2",
+      "description": "Potosí városában található egykori kolostor, amely ma múzeumként működik, bemutatva a gyarmati korszak vallási életét és művészetét.",
+      "facts": ["1685-ben alapították", "Kiváló állapotban maradt fenn a berendezése", "Híres a gazdag festménygyűjteményéről"]
+    },
+    {
+      "id": "catedral-nuestra-senora-la-paz-landmarks-v2",
+      "description": "La Paz főszékesegyháza a Plaza Murillo téren, egy neoklasszikus épület hatalmas kupolával és lenyűgöző belső terekkel.",
+      "facts": ["1835-ben kezdték építeni", "Két tornya csak később készült el", "Olasz márvány díszíti a belsejét"]
+    },
+    {
+      "id": "iglesia-san-lorenzo-landmarks-v2",
+      "description": "Potosí egyik leglátványosabb temploma, amelynek rendkívül gazdagon faragott kőhomlokzata a barokk művészet csúcspontja.",
+      "facts": ["A 16. században épült eredetileg", "Faragványai andoki mitológiai elemeket tartalmaznak", "Vörös homokkőből készült a homlokzata"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "Mexikóváros szívében található híres állatkert, amely hatalmas fajgazdagsággal és fontos természetvédelmi programokkal várja a látogatókat.",
+      "facts": ["Mexikóváros", "Hatalmas állatkert", "Természetvédelem", "Családi program"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "Jelentős állatkert Mexikóváros északkeleti részén, amely különösen az ökoszisztémák bemutatására és az oktatásra helyezi a hangsúlyt.",
+      "facts": ["Észak-Mexikóváros", "Oktatóközpont", "Fajgazdagság", "Zöldövezet"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "Mexikó egyik legmodernebb állatkertje, amely látványos szafari élményt és változatos állatvilágot kínál a látogatóknak.",
+      "facts": ["Guadalajara", "Modern állatkert", "Szafari élmény", "Sokszínű fauna"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Lenyűgöző földalatti akvárium Mexikóvárosban, ahol több ezer tengeri állatot láthatunk egy modern, interaktív kiállításon.",
+      "facts": ["Mexikóváros", "Modern akvárium", "Tengeri élővilág", "Földalatti"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Kulturális és ökológiai park a Yucatán-félszigeten, amely a mexikói természetet és tradíciókat ötvözi egyedülálló módon.",
+      "facts": ["Yucatán-félsziget", "Ökopark", "Kultúra", "Természetvédelem"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Puebla közelében található szafari park, ahol szabadon kószáló állatokat figyelhetünk meg természetes környezetükben.",
+      "facts": ["Puebla közelében", "Szafari élmény", "Szabad állatok", "Természetes élőhely"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "Mexikó egyik legnagyobb szabadtéri szafari parkja, amely természetes élőhelyeket biztosít számtalan állatfaj számára.",
+      "facts": ["Szabadtéri szafari", "Hatalmas terület", "Természetes élőhely", "Állatvédelem"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "UNESCO világörökségi helyszín, ahol milliókban mérhető a Mexikóba vándorló uralkodólepke populáció telelése.",
+      "facts": ["UNESCO helyszín", "Uralkodólepke", "Vándorlás", "Éves telelés"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Hatalmas bioszféra rezervátum a Karib-tenger partján, amely érintetlen dzsungeleket, mocsarakat és korallzátonyokat védelmez.",
+      "facts": ["Bioszféra rezervátum", "Karib-tenger", "Érintetlen természet", "Védett élővilág"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "A maja romokat körülvevő hatalmas bioszféra rezervátum, amely a trópusi esőerdők élővilágának egyik legfontosabb menedéke.",
+      "facts": ["Bioszféra rezervátum", "Trópusi esőerdő", "Maja romok", "Fajgazdagság"]
+    }
+  ]
+}

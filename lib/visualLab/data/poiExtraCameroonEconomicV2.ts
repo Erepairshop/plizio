@@ -143,13 +143,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Die ALUCAM-Hütte in Edea steht für die Schwerindustrie Kameruns. Mit Strom aus Wasserkraft wird dort Aluminium für den Inlandsmarkt und Export verarbeitet.",
       hu: "Az Edea-i ALUCAM az ország egyik legfontosabb alumíniumkohója. A Sanaga vizierőműveinek áramát használja.",
       ro: "ALUCAM din Edéa este un reper al industriei aluminiului din Camerun. Unitatea este legată de energia hidro și de zona industrială a orașului.",
-      en: "A major aluminum smelter in Edea. It relies on hydroelectric power from the Sanaga basin."
+      en: "The Alucam aluminum smelter in Edea is a cornerstone of Cameroon's heavy industry, utilizing hydroelectric power from the Sanaga River."
     },
     facts: {
       de: ["Aluminiumstandort in Edea", "nutzt Wasserkraft", "Teil der Schwerindustrie"],
       hu: ["alumíniumkohó Edeában", "vízenergia hajtja", "nehézipari üzem"],
       ro: ["în Edéa", "parte din industria aluminiului", "legată de energia hidro"],
-      en: ["based in Edea", "powered by hydroelectricity", "part of the aluminum industry"]
+      en: ["Operational since 1957", "Uses Edea hydroelectric power", "Major aluminum exporter", "Located in the Littoral Region"]
     }
   },
   {
@@ -323,13 +323,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Das Geovic-Projekt steht für den Bergbau auf Kobalt und andere Erze im Osten Kameruns. Es gehört zu den bekannten industriellen Rohstoffvorhaben des Landes.",
       hu: "A Geovic-projekt a keleti régió kobalt- és nikkelvagyonát célozza. Az akkumulátoriparhoz kötődő stratégiai bányászati terület.",
       ro: "Proiectul Geovic este asociat cu resurse de cobalt din estul Camerunului. Numele este legat de un perimetru minier strategic pentru metalele critice.",
-      en: "A cobalt-nickel mining project in eastern Cameroon near Lomie. It is often cited among the country's strategic mineral deposits."
+      en: "The Geovic cobalt-nickel-manganese project in Lomié represents one of the world's largest undeveloped cobalt deposits."
     },
     facts: {
       de: ["Kobalt- und Erzprojekt", "im Osten Kameruns", "Teil des Bergbausektors"],
       hu: ["kobalt és nikkel", "keleti bányaprojekt", "stratégiai nyersanyagforrás"],
       ro: ["în estul țării", "asociat cu cobaltul", "proiect minier strategic"],
-      en: ["near Lomie", "cobalt and nickel project", "strategic mineral deposit"]
+      en: ["Located in East Region", "Significant cobalt reserve", "Nickel and manganese deposits", "Lomié mining district"]
     }
   },
   {
@@ -353,13 +353,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Das Eisenerzprojekt von Mbalam liegt im Grenzraum zu Gabun und Kongo. Es gilt als einer der großen Rohstoffpläne für den Exportsektor.",
       hu: "A Mbalam vasércprojekt Kamerun egyik legnagyobb nyersanyagfejlesztése. Az exporthoz és a vasúti infrastruktúrához is kapcsolódik.",
       ro: "Mbalam este unul dintre cele mai cunoscute zăcăminte de minereu de fier din sud-estul Camerunului. Este urmărit pentru potențialul său industrial și de export.",
-      en: "A major iron-ore deposit in southeastern Cameroon near Mbalam. It remains part of the country's long-term mining plans."
+      en: "The Mbalam iron ore project is a massive mining development intended to tap into high-grade iron deposits near the border with Congo."
     },
     facts: {
       de: ["Eisenerzvorkommen im Süden", "Grenzraum zu Gabun", "strategisch für den Export"],
       hu: ["vasércprojekt", "exportorientált fejlesztés", "vasúti kapcsolódás"],
       ro: ["zăcământ de fier", "aproape de granița cu Congo", "interes industrial ridicat"],
-      en: ["near Mbalam", "in southeastern Cameroon", "planned iron ore project"]
+      en: ["High-grade iron ore", "Cross-border infrastructure", "East Region location", "Strategic mining project"]
     }
   },
   {
@@ -413,13 +413,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Minim Martap ist eines der bekanntesten Bauxitprojekte Kameruns. Die Lagerstätte wird mit dem Ausbau der Aluminiumkette im Land verbunden.",
       hu: "A Minim-Martap lelőhely az Adamaoua-fennsík egyik legnagyobb bauxitvagyona. A lehetséges alumíniumipari fejlesztések alapja.",
       ro: "Minim Martap este unul dintre cele mai cunoscute zăcăminte de bauxită din Adamawa. Resursa este urmărită pentru dezvoltarea industriei aluminiului.",
-      en: "A bauxite deposit in the Adamawa region near Minim Martap. It is one of Cameroon's best known aluminum raw material sites."
+      en: "The Minim-Martap bauxite deposit in the Adamawa Region is one of the highest-grade bauxite resources currently under development in Africa."
     },
     facts: {
       de: ["Bauxitvorkommen in Adamaoua", "wichtig für Aluminium", "großes Rohstoffprojekt"],
       hu: ["bauxitlelőhely", "Adamaoua-fennsík", "alumínium-alapanyag"],
       ro: ["în regiunea Adamawa", "zăcământ de bauxită", "legat de aluminiu"],
-      en: ["in Adamawa", "near Minim Martap", "bauxite resource"]
+      en: ["Adamawa Region project", "High-grade alumina content", "Large scale reserves", "Rail link to Kribi port"]
     }
   },
   {
@@ -473,13 +473,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Cimencam in Douala ist ein zentraler Zementstandort für den nationalen Markt. Die Anlage versorgt Bauprojekte und Infrastrukturvorhaben mit Baustoffen.",
       hu: "A doualai CIMENCAM üzem az ország egyik fő cementgyára. A nagyvárosi építkezések és infrastruktúra ellátásában fontos.",
       ro: "Cimencam din Douala este una dintre unitățile importante ale industriei cimentului din Camerun. Fabrica servește piața construcțiilor din zona de coastă.",
-      en: "A cement production site in Douala tied to Cameroon's construction supply chain. It serves the country's busiest industrial city."
+      en: "Cimencam's Douala plant is the oldest cement factory in Cameroon, supplying the construction needs of the country's largest city and economic hub."
     },
     facts: {
       de: ["Zementwerk in Douala", "wichtig für den Bausektor", "liefert Baustoffe für das Land"],
       hu: ["cementgyár Doualában", "építőanyag-termelés", "nagy városi piac"],
       ro: ["în Douala", "producție de ciment", "importantă pentru construcții"],
-      en: ["in Douala", "cement production site", "serves construction demand"]
+      en: ["Part of LafargeHolcim group", "Located in Douala port area", "Primary cement supplier", "Established in the 1960s"]
     }
   },
   {
@@ -503,13 +503,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Das Dangote-Zementwerk in Douala stärkt den Wettbewerb auf dem Baustoffmarkt. Es ist auf die Versorgung von Städten und Großprojekten ausgerichtet.",
       hu: "A Dangote gyára Doualában erősíti a cementpiaci kínálatot. A városi és országos építkezésekhez szállít.",
       ro: "Unitatea Dangote Cement din Douala face parte din lanțul modern al cimentului din Camerun. Poziția sa portuară ajută distribuția către piața internă.",
-      en: "A cement plant in Douala that adds local supply for construction and infrastructure. It is part of the city's industrial belt."
+      en: "The Dangote Cement plant in Douala is a modern grinding facility that has significantly increased Cameroon's domestic cement production capacity."
     },
     facts: {
       de: ["Zementproduktion in Douala", "Teil eines großen Konzerns", "wichtig für Bau und Infrastruktur"],
       hu: ["cementtermelés Doualában", "piaci ellátó üzem", "építkezésekhez termel"],
       ro: ["în Douala", "unitate de ciment", "legată de logistica portuară"],
-      en: ["in Douala", "cement plant", "supports infrastructure work"]
+      en: ["Owned by Dangote Group", "1.5 million ton capacity", "Located at Douala port", "Commissioned in 2015"]
     }
   },
   {
@@ -533,13 +533,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Die Chococam-Fabrik in Douala ist ein bekannter Lebensmittelstandort des Landes. Dort werden vor allem Schokolade und Kakaoprodukte verarbeitet.",
       hu: "A Chococam doualai üzeme ismert kameruni élelmiszeripari helyszín. Kakaó alapú termékeket dolgoz fel.",
       ro: "Fabrica Chococam din Douala produce ciocolată și dulciuri pentru piața locală. Este unul dintre numele cunoscute ale industriei alimentare din oraș.",
-      en: "A cocoa-processing factory in Douala linked to one of Cameroon's best known food brands. It connects cocoa harvests to consumer products."
+      en: "Chococam is Cameroon's leading cocoa processing company, producing a wide range of chocolate products and spreads in its Douala factory."
     },
     facts: {
       de: ["Lebensmittelwerk in Douala", "Kakaoverarbeitung", "bekannte Marke in Kamerun"],
       hu: ["élelmiszeripari üzem", "kakaófeldolgozás", "ismert hazai márka"],
       ro: ["în Douala", "industrie alimentară", "ciocolată și dulciuri"],
-      en: ["in Douala", "cocoa processing", "food manufacturing site"]
+      en: ["Subsidiary of Tiger Brands", "Process local cocoa beans", "Market leader in sweets", "Based in Douala"]
     }
   },
   {
@@ -563,13 +563,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Die CDC-Kautschukproduktion in Tiko gehört zu den wichtigen Agrarindustrien des Südwestens. Sie verbindet Plantagenwirtschaft mit industrieller Verarbeitung.",
       hu: "A CDC tiko-i gumitelep és feldolgozó üzem az ültetvénygazdaság része. A dél-nyugati régió egyik fontos exportágazata.",
       ro: "CDC din Tiko este legată de plantațiile și procesarea cauciucului din sud-vestul Camerunului. Activitatea sa susține o parte din economia agricolă regională.",
-      en: "A rubber production site in Tiko tied to the Cameroon Development Corporation. It is part of the coastal plantation economy."
+      en: "The Cameroon Development Corporation operates extensive rubber plantations and processing facilities in Tiko, contributing to the country's export economy."
     },
     facts: {
       de: ["Kautschukstandort in Tiko", "Teil der CDC", "Agrarindustrie im Südwesten"],
       hu: ["kaucsukfeldolgozás", "ültetvénygazdaság", "exporttermelő térség"],
       ro: ["în Tiko", "legată de cauciuc", "parte din CDC"],
-      en: ["in Tiko", "plantation-based rubber", "part of the CDC network"]
+      en: ["State-owned enterprise", "Southwest Region location", "Major agricultural employer", "Export-grade natural rubber"]
     }
   },
   {
@@ -593,13 +593,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Socapalm in Dibombari steht für die Palmölproduktion im Küstenraum Kameruns. Der Standort ist eng mit der industriellen Landwirtschaft verbunden.",
       hu: "A Socapalm dibombari telepe a pálmaolaj-termeléshez kapcsolódik. A partvidéki agráripar egyik nagy szereplője.",
       ro: "SOCAPALM din Dibombari este asociată cu palmierul de ulei și procesarea sa. Site-ul are un rol important în agroindustria cameruneză.",
-      en: "A palm oil site in Dibombari near Douala. It links plantation farming with industrial processing for the domestic market."
+      en: "Socapalm's Dibombari estate is a major palm oil production site, featuring extensive plantations and an industrial refinery."
     },
     facts: {
       de: ["Palmölproduktion bei Douala", "Plantagenwirtschaft", "wichtiger Agrarbetrieb"],
       hu: ["pálmaolaj-üzem", "agráripari telep", "partvidéki termelés"],
       ro: ["în Dibombari", "palmier de ulei", "agroindustrie"],
-      en: ["near Douala", "palm oil production", "plantation agriculture"]
+      en: ["Palm oil production", "Industrial refinery onsite", "Littoral Region location", "Part of Socfin Group"]
     }
   },
   {
@@ -623,13 +623,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Hevecam in Niété ist ein großer Kautschukstandort im Süden Kameruns. Die Produktion verbindet Plantagenwirtschaft mit industrieller Verarbeitung.",
       hu: "A Hevecam Niété környékén nagy kaucsukültetvényeket működtet. A déli régió egyik jelentős exporttermelője.",
       ro: "HEVECAM din Niété este cunoscută pentru plantațiile de cauciuc din sudul Camerunului. Compania are o poziție importantă în sectorul agricol și industrial.",
-      en: "A large rubber plantation and processing site in Niété in southern Cameroon. It is one of the region's major export-oriented agribusinesses."
+      en: "Hevecam operates one of the largest rubber plantations in Cameroon near Niete, processing latex into high-quality sheets for global markets."
     },
     facts: {
       de: ["Kautschuk in Niété", "Teil der Agrarindustrie", "wichtiger Exportrohstoff"],
       hu: ["kaucsukültetvények", "déli exportágazat", "Niété térsége"],
       ro: ["în Niété", "plantații de cauciuc", "sector agroindustrial"],
-      en: ["in Niété", "rubber plantation", "export-oriented agribusiness"]
+      en: ["South Region location", "Massive rubber estate", "Latex processing plant", "Major exporter"]
     }
   },
   {
@@ -653,13 +653,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Die SABC-Brauerei in Yaounde ist einer der wichtigsten Getränkeproduzenten des Landes. Von hier aus werden Bier und andere Getränke für große Teile Kameruns geliefert.",
       hu: "A SABC yaoundéi sörgyára a kameruni italipar egyik fő üzeme. Az országos márkák nagy része innen is eljut a piacra.",
       ro: "Brewery-ul SABC din Yaoundé este legat de producția de băuturi pentru piața națională. Unitatea face parte din rețeaua industrială a capitalei.",
-      en: "A major beverage plant in Yaounde and part of Cameroon's leading drinks network. It supplies beer and soft drinks to the central region."
+      en: "The SABC brewery in Yaounde is a major industrial facility producing beer and soft drinks for the capital region and central Cameroon."
     },
     facts: {
       de: ["Brauerei in Yaounde", "Teil der Getränkeindustrie", "belieferter Landesmarkt"],
       hu: ["sörgyár Yaoundéban", "italipari központ", "országos márkák"],
       ro: ["în Yaoundé", "producție de băuturi", "unitate industrială urbană"],
-      en: ["in Yaounde", "beverage production", "supplies the central region"]
+      en: ["Part of Castel Group", "Major regional employer", "Large scale bottling plant", "Founded in 1948"]
     }
   },
   {
@@ -683,13 +683,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "CICAM in Garoua steht für die textile Verarbeitung im Norden Kameruns. Der Standort ist eng mit der regionalen Baumwollwirtschaft verbunden.",
       hu: "A CICAM garouai textilüzeme az északi gyapottermelés feldolgozására épül. Garoua régi ipari központja.",
       ro: "CICAM din Garoua este asociată cu industria textilă cameruneză. Fabrica a avut un rol cunoscut în prelucrarea fibrelor și a țesăturilor.",
-      en: ""
+      en: "Cicam's Garoua plant is the center of Cameroon's textile industry, processing locally grown cotton into fabrics and clothing."
     },
     facts: {
       de: ["Textilstandort in Garoua", "verarbeitet Baumwolle", "Teil der Industrie im Norden"],
       hu: ["textilfeldolgozás Garouában", "gyapot alapanyag", "északi ipari bázis"],
       ro: ["în Garoua", "industrie textilă", "prelucrare de fibre"],
-      en: []
+      en: ["North Region location", "Textile manufacturing", "Uses local cotton", "State-supported industry"]
     }
   },
   {
@@ -713,13 +713,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "SODECOTON in Maroua ist ein zentraler Akteur der Baumwollwirtschaft im Norden Kameruns. Das Unternehmen verbindet Anbau, Sammlung und Vermarktung.",
       hu: "A SODECOTON marouai üzeme a kameruni gyapotfeldolgozás egyik kulcspontja. A farmerhálózat és az exportlánc része.",
       ro: "SODECOTON din Maroua este compania de referință pentru bumbacul din nordul Camerunului. Ea conectează producția agricolă cu prelucrarea industrială.",
-      en: ""
+      en: "Sodecoton's Maroua facility manages the collection and initial processing of cotton from thousands of smallholder farmers in the Far North."
     },
     facts: {
       de: ["Baumwollwirtschaft im Norden", "Standort Maroua", "wichtiger Agrarkonzern"],
       hu: ["gyapotfeldolgozás", "marouai üzem", "északi exportlánc"],
       ro: ["în Maroua", "companie de bumbac", "legătură între agricultură și industrie"],
-      en: []
+      en: ["Cotton ginning center", "Far North Region", "Rural development hub", "Key agricultural player"]
     }
   },
   {
@@ -743,13 +743,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Das Zementwerk von Figuil versorgt den Norden Kameruns mit Baustoffen. Es ist ein wichtiger Standort für Infrastruktur und Bauwirtschaft.",
       hu: "A figuili CIMENCAM üzem az északi régió cementellátását biztosítja. A távoli területek építkezéseihez is szállít.",
       ro: "Cimencam din Figuil este o fabrică importantă de ciment din nordul Camerunului. Amplasarea ei sprijină aprovizionarea regiunilor din interior.",
-      en: "A cement plant in Figuil that supplies construction material to northern Cameroon. It is a key industrial site for the region."
+      en: "The Cimencam factory in Figuil is the primary cement producer for northern Cameroon, utilizing local limestone deposits for production."
     },
     facts: {
       de: ["Zementproduktion in Figuil", "für den Norden wichtig", "stützt Bauprojekte"],
       hu: ["cementgyár Figuilben", "északi ellátás", "építőanyag-termelés"],
       ro: ["în Figuil", "producție de ciment", "importantă pentru nord"],
-      en: ["in Figuil", "supplies the north", "cement production site"]
+      en: ["North Region location", "Local limestone source", "Supplies northern markets", "Industrial landmark"]
     }
   },
   {
@@ -773,13 +773,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Die Gasanlage bei Kribi ist Teil der Energieinfrastruktur an der Küste. Sie unterstützt die Stromerzeugung und industrielle Nutzung von Gas.",
       hu: "A kribi gázüzem a partvidék energiaellátásához kapcsolódik. Földgázt használ áramtermelésre és ipari célokra.",
       ro: "Centrala pe gaz din Kribi întărește producția de electricitate din sudul Camerunului. Amplasarea de coastă o face relevantă pentru infrastructura energetică.",
-      en: "A gas-fired power site in Kribi on the southern coast. It supports electricity generation and industrial demand."
+      en: "The Kribi gas-to-power plant uses natural gas from offshore fields to generate electricity, supporting Cameroon's energy grid."
     },
     facts: {
       de: ["Energieanlage in Kribi", "nutzt Erdgas", "wichtig für Strom und Industrie"],
       hu: ["gázüzem Kribiben", "földgázra épül", "áram és ipar"],
       ro: ["în Kribi", "centrală pe gaz", "sprijină rețeaua electrică"],
-      en: ["in Kribi", "gas-fired power", "supports the energy mix"]
+      en: ["Natural gas fueled", "South Region location", "Power generation hub", "Near Kribi deep sea port"]
     }
   },
   {
@@ -803,13 +803,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Das Bauxitvorkommen bei Foumban gehört zu den Rohstoffprojekten im Westen Kameruns. Es steht im Zusammenhang mit den Aluminiumplänen des Landes.",
       hu: "A Foumban környéki bauxitlelőhely a nyugati régió nyersanyagbázisához tartozik. Az alumíniumipari tervek egyik tartaléka.",
       ro: "Zona Foumban este menționată în legătură cu resurse de bauxită din vestul Camerunului. Proiectul arată potențialul mineral al regiunii.",
-      en: "A bauxite deposit near Foumban in western Cameroon. It is one of the area's notable mineral resources."
+      en: "The Foumban bauxite deposits in the West Region are a potential source of alumina, currently being evaluated for industrial extraction."
     },
     facts: {
       de: ["Bauxit im Westen", "bei Foumban", "Rohstoff für Aluminium"],
       hu: ["bauxit a nyugaton", "Foumban térsége", "alumínium-alapanyag"],
       ro: ["în vestul Camerunului", "asociată cu bauxita", "potențial minier"],
-      en: ["near Foumban", "in western Cameroon", "bauxite resource"]
+      en: ["West Region location", "Bauxite reserves", "Industrial potential", "Mining exploration site"]
     }
   },
   {
@@ -833,13 +833,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Das Bauxitprojekt von Ngaoundal liegt in Adamaoua und gehört zu den bekannten Bergbauvorhaben der Region. Es ist für die Rohstoffstrategie Kameruns relevant.",
       hu: "A Ngaoundal melletti bauxitprojekt az Adamaoua nyersanyagkészletét erősíti. A jövőbeli ipari fejlesztésekhez kötődik.",
       ro: "Zona Ngaoundal este cunoscută pentru resursele sale de bauxită din Adamawa. Zăcământul este urmărit ca parte a potențialului minier al regiunii.",
-      en: "A bauxite deposit in the Adamawa region near Ngaoundal. It is part of Cameroon's long-term mining potential."
+      en: "Ngaoundal holds significant bauxite reserves in the Adamawa Region, positioned as a key asset for Cameroon's future aluminum industry."
     },
     facts: {
       de: ["Bauxit in Adamaoua", "Rohstoffprojekt bei Ngaoundal", "Teil der Bergbauplanung"],
       hu: ["bauxit Adamaouában", "Ngaoundal térsége", "ipari fejlesztési alap"],
       ro: ["în Adamawa", "zăcământ de bauxită", "potențial minier regional"],
-      en: ["near Ngaoundal", "in Adamawa", "mineral resource site"]
+      en: ["Adamawa Region", "Major bauxite deposit", "Future mining site", "Strategic mineral resource"]
     }
   },
   {
@@ -863,13 +863,13 @@ export const poiExtraCameroonEconomicV2: POI[] = [
       de: "Camalco in Makan steht für ein Aluminium- und Bauxitvorhaben in der nördlichen Zentralregion. Der Standort wird mit industrieller Rohstoffentwicklung verbunden.",
       hu: "A Camalco Makanban bauxit- és alumíniumipari projektet fejleszt. A nyersanyag-kitermeléshez és a feldolgozáshoz is kapcsolódik.",
       ro: "Proiectul Camalco din zona Makan este legat de resursele minerale ale estului Camerunului. Numele apare în contextul dezvoltării unor exploatări viitoare.",
-      en: "A mining project in Makan linked to bauxite and aluminum plans. It reflects the country's push to develop new mineral sites."
+      en: "The Camalco Makan bauxite project focuses on developing the high-quality mineral resources found in the Makan area of the Adamawa plateau."
     },
     facts: {
       de: ["Aluminiumprojekt in Makan", "Rohstoffsektor", "Teil der Industriepläne"],
       hu: ["bauxitprojekt Makanban", "nyersanyag-kitermelés", "alumíniumlánc"],
       ro: ["în estul Camerunului", "proiect minier", "legat de resurse minerale"],
-      en: ["in Makan", "bauxite and aluminum plans", "new mining project"]
+      en: ["Adamawa Region project", "High-grade bauxite", "Managed by Camalco", "Part of mining expansion"]
     }
   },
   {

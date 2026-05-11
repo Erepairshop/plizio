@@ -1129,16 +1129,13 @@ export const poiExtraIvorycoastEconomicV2: POI[] = [
       en: "Brassivoire Brewery"
     },
     description: {
-      de: "Eine hochmoderne Brauerei in Anyama, die den Wettbewerb auf dem ivorischen Getränkemarkt belebt.",
+      de: "Eine moderne Brauerei in Anyama, die als Joint Venture zwischen Heineken und CFAO betrieben wird.",
       hu: "Egy ultramodern sörfőzde Anyamában, amely fellendíti a versenyt az elefántcsontparti italpiacon.",
       ro: "O berărie ultramodernă în Anyama, care stimulează concurența pe piața de băuturi din Coasta de Fildeș.",
       en: "An ultra-modern brewery in Anyama that stimulates competition in the Ivorian beverage market."
     },
     facts: {
-      de: [
-        "Ein Joint Venture von Heineken und CFAO.",
-        "Eröffnet 2017."
-      ],
+      de: ["Sitz in Anyama", "Gegründet 2015", "Produziert Biermarken wie Ivoire"],
       hu: [
         "A Heineken és a CFAO közös vállalata.",
         "2017-ben nyitották meg."

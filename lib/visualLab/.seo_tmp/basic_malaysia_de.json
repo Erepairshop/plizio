@@ -1,0 +1,95 @@
+{
+  "lang": "de",
+  "country": "Malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "shah-alam-cities-v2",
+      "description": "Shah Alam ist die Landeshauptstadt von Selangor und bekannt für ihre markante blaue Sultan-Salahuddin-Abdul-Aziz-Moschee.",
+      "facts": ["Hauptstadt von Selangor", "Berühmt für Blaue Moschee", "Wichtiger Industriestandort"]
+    },
+    {
+      "id": "alorsetar-cities-v2",
+      "description": "Alor Setar ist die Hauptstadt des Bundesstaates Kedah und dient als regionales Zentrum für die Reisproduktion.",
+      "facts": ["Hauptstadt von Kedah", "Zentrum der Reisregion", "Geburtsort zweier Premierminister"]
+    },
+    {
+      "id": "putrajaya-cities-v2",
+      "description": "Putrajaya fungiert als das administrative Zentrum Malaysias und beeindruckt durch moderne Architektur und weitläufige Parks.",
+      "facts": ["Administratives Zentrum", "Moderne Stadtplanung", "Große künstliche Seen"]
+    },
+    {
+      "id": "subang-jaya-cities-v2",
+      "description": "Subang Jaya ist eine dicht besiedelte Stadt in Selangor, die sich zu einem lebendigen Bildungs- und Einkaufszentrum entwickelt hat.",
+      "facts": ["Stadt in Selangor", "Wichtiger Bildungsstandort", "Starke Infrastruktur"]
+    },
+    {
+      "id": "petaling-jaya-cities-v2",
+      "description": "Petaling Jaya, oft PJ genannt, ist eine bedeutende Satellitenstadt in der Nähe von Kuala Lumpur mit vielfältigen Wohn- und Gewerbegebieten.",
+      "facts": ["Große Satellitenstadt", "Nahe Kuala Lumpur", "Vielfältige Gewerbegebiete"]
+    },
+    {
+      "id": "miri-cities-v2",
+      "description": "Miri ist eine Küstenstadt in Sarawak und gilt als Geburtsort der malaysischen Ölindustrie.",
+      "facts": ["Zentrum der Ölindustrie", "Stadt in Sarawak", "Tor zum Mulu-Nationalpark"]
+    },
+    {
+      "id": "muar-cities-v2",
+      "description": "Muar ist eine königliche Stadt im Bundesstaat Johor, bekannt für ihre gut erhaltene Architektur aus der Kolonialzeit.",
+      "facts": ["Königliche Stadt in Johor", "Koloniale Architektur", "Bekannt für Gastronomie"]
+    },
+    {
+      "id": "batu-pahat-cities-v2",
+      "description": "Batu Pahat ist eine geschäftige Stadt in Johor, die ein bedeutendes Zentrum für Textil- und Elektronikfertigung ist.",
+      "facts": ["Stadt in Johor", "Industrie- und Handelszentrum", "Wichtiger Textilstandort"]
+    },
+    {
+      "id": "kulim-cities-v2",
+      "description": "Kulim ist eine wachsende Stadt im Bundesstaat Kedah, die durch den nahegelegenen High-Tech-Park stark geprägt ist.",
+      "facts": ["Stadt in Kedah", "High-Tech-Park Standort", "Wachsende Industriestadt"]
+    },
+    {
+      "id": "bako-nationalpark-life-v2",
+      "description": "Der Bako-Nationalpark ist das älteste Naturschutzgebiet in Sarawak und bietet eine beeindruckende Vielfalt an Flora und Fauna.",
+      "facts": ["Ältester Park Sarawaks", "Reiche Küstenvegetation", "Heimat von Nasenaffen"]
+    },
+    {
+      "id": "semenggoh-wildlife-centre-life-v2",
+      "description": "Das Semenggoh Wildlife Centre ist eine wichtige Rehabilitationseinrichtung für Orang-Utans in Sarawak.",
+      "facts": ["Orang-Utan-Schutz", "Rehabilitationszentrum", "Waldschutzgebiet"]
+    },
+    {
+      "id": "perdana-botanical-gardens-life-v2",
+      "description": "Die Perdana Botanical Gardens in Kuala Lumpur sind eine weitläufige grüne Oase mitten im geschäftigen Stadtzentrum.",
+      "facts": ["Botanischer Garten", "Mitten in Kuala Lumpur", "Große Pflanzenvielfalt"]
+    },
+    {
+      "id": "kinabalu-park-life-v2",
+      "description": "Der Kinabalu-Park ist ein UNESCO-Welterbe und beheimatet den höchsten Berg Malaysias, den Mount Kinabalu.",
+      "facts": ["UNESCO-Welterbe", "Mount Kinabalu", "Hohe Artenvielfalt"]
+    },
+    {
+      "id": "klcc-park-life-v2",
+      "description": "Der KLCC-Park wurde als grüne Erholungsfläche direkt zu Füßen der berühmten Petronas Towers entworfen.",
+      "facts": ["Park im Stadtzentrum", "Nahe Petronas Towers", "Beliebter Treffpunkt"]
+    },
+    {
+      "id": "zoo-negara-malaysia-life-v2",
+      "description": "Zoo Negara ist der nationale Zoo Malaysias und beherbergt eine umfangreiche Sammlung exotischer Tiere.",
+      "facts": ["Nationaler Zoo", "Große Artenvielfalt", "Beliebtes Ausflugsziel"]
+    },
+    {
+      "id": "frim-forest-research-institute-malaysia-life-v2",
+      "description": "Das FRIM ist ein renommiertes Forschungsinstitut, das sich der Erhaltung und nachhaltigen Nutzung der Wälder widmet.",
+      "facts": ["Forschungsinstitut", "Waldschutz", "Wichtige Waldfläche"]
+    },
+    {
+      "id": "johor-zoo-life-v2",
+      "description": "Der Johor Zoo ist einer der ältesten Zoos des Landes und ein bekanntes Ziel für Familien in der Region Johor.",
+      "facts": ["Einer der ältesten Zoos", "In Johor Bahru", "Familienattraktion"]
+    }
+  ]
+}

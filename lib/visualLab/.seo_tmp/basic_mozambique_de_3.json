@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "Niassa bietet aufregende Safari-Erlebnisse für junge Entdecker, bei denen sie die afrikanische Tierwelt in ihrem natürlichen Lebensraum beobachten können.",
+      "facts": ["Safari-Erlebnisse", "Afrikanische Tierwelt", "Natur entdecken", "Bildungsreisen"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "Der Sambesi ist ein faszinierender Fluss, an dessen Ufern Kinder viel über die Bedeutung von Wasserwegen für das Leben und die Kultur in Mosambik lernen können.",
+      "facts": ["Bedeutender Fluss", "Kulturelles Leben", "Wasserweg-Bildung", "Natur pur"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "Der Community Park in Tete ist ein Ort für Begegnungen und gemeinsames Spielen. Er unterstützt die soziale Integration und bietet Raum für Freizeitaktivitäten.",
+      "facts": ["Ort der Begegnung", "Soziale Integration", "Freizeitaktivitäten", "Gemeinschaftsraum"]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "Inchope zeichnet sich durch seine reiche Vielfalt an Lebensräumen aus, die verschiedenen Tierarten Schutz bieten. Ein wichtiges Gebiet für den regionalen Artenschutz.",
+      "facts": ["Vielfältige Lebensräume", "Artenschutz-Gebiet", "Regionale Tierwelt", "Naturschutz-Hotspot"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "Chimoio setzt sich für grüne Erholungsflächen ein, wo Familien in einer naturnahen Umgebung Zeit verbringen können. Ideal für ein Picknick oder Spiele im Grünen.",
+      "facts": ["Grüne Erholungsflächen", "Familienfreundlich", "Naturnahes Spiel", "Lokale Oase"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "Vilankulo ist bekannt für seine maritimen Entdeckungstouren, die jungen Besuchern die Welt unter Wasser und die Bedeutung des Schutzes der Ozeane näherbringen.",
+      "facts": ["Maritime Bildung", "Unterwasser-Welt", "Schutz der Ozeane", "Abenteuerliche Touren"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "Inhambane bietet spannende Entdeckungsmöglichkeiten rund um die Küstenkultur und die Geschichte der Handelsrouten. Ein lehrreicher Ausflug für Kinder.",
+      "facts": ["Küstenkultur", "Historische Routen", "Bildungsangebot", "Entdeckungsreise"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "In Gaza können Kinder den Alltag auf einer Farm kennenlernen, mehr über den Anbau von Lebensmitteln erfahren und den direkten Kontakt mit Tieren erleben.",
+      "facts": ["Erlebnisfarm", "Landwirtschaft lernen", "Tierkontakt", "Lehrreicher Alltag"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "Cabo Delgado ist berühmt für seine saftigen Mangoplantagen. Kinder erfahren hier mehr über den Anbau und die Ernte dieser beliebten tropischen Frucht.",
+      "facts": ["Mangoplantagen", "Ernteerfahrung", "Tropische Fruchtkultur", "Lehrreich"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "Das Agrarprojekt in Tete zeigt modernen nachhaltigen Anbau. Hier können Kinder erleben, wie Nahrungsmittel effizient und umweltschonend erzeugt werden.",
+      "facts": ["Nachhaltiger Anbau", "Agrar-Projekt", "Umweltbildung", "Nahrungsmittelkunde"]
+    }
+  ]
+}

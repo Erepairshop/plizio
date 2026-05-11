@@ -1,0 +1,76 @@
+{
+  "lang": "hu",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-batenstein-landmarks-v2",
+      "description": "Butre városában, egy domb tetején található egykori holland erőd romjai.",
+      "facts": ["1656-ban épült.", "A Butre-i Szerződés aláírásának helyszíne.", "Csodálatos kilátást nyújt a környező öbölre.", "UNESCO Világörökség része."]
+    },
+    {
+      "id": "ashanti-uplands-relief-v2",
+      "description": "Ghána középső részén elterülő dombvidék, amely az ország mezőgazdasági szívét alkotja.",
+      "facts": ["Átlagos magassága 300-600 méter.", "Dús trópusi erdők borítják.", "Fontos kakaótermelő vidék."]
+    },
+    {
+      "id": "denu-coastal-plain-relief-v2",
+      "description": "Ghána délkeleti részén, a Togo határánál fekvő homokos tengerparti síkság.",
+      "facts": ["Alacsonyan fekvő terület lagúnákkal.", "Pálmafák és homokdűnék jellemzik.", "Fontos halászati és kókusztermesztő vidék."]
+    },
+    {
+      "id": "tano-basin-relief-v2",
+      "description": "A Tano folyó vízgyűjtő területe Ghána délnyugati részén, gazdag természeti kincsekkel.",
+      "facts": ["Mély völgyek és dús erdők jellemzik.", "Jelentős bauxit- és aranylelőhelyek.", "Trópusi esőerdei éghajlat uralkodik itt."]
+    },
+    {
+      "id": "kintampo-plateau-relief-v2",
+      "description": "Ghána központi részén található fennsík, amely vízválasztóként is szolgál.",
+      "facts": ["Homokkő formációk építik fel.", "Itt találhatók a híres Kintampo-vízesések.", "Szavanna és erdőfoltok váltják egymást."]
+    },
+    {
+      "id": "fanteakwa-escarpment-relief-v2",
+      "description": "Az Akwapim-Togo hegység része, egy meredek peremvidék Ghána keleti felén.",
+      "facts": ["Magas sziklafalak és mély szurdokok.", "Sűrű növényzet és ritka madárfajok.", "Fontos ökoturisztikai célpont."]
+    },
+    {
+      "id": "akwapim-plains-relief-v2",
+      "description": "Az Akwapim-hegység lábánál elterülő termékeny síkság Dél-Ghánában.",
+      "facts": ["Enyhén hullámos domborzat.", "Sűrűn lakott terület Accra közelében.", "Zöldségek és gyümölcsök termesztésének helyszíne."]
+    },
+    {
+      "id": "bongo-hills-relief-v2",
+      "description": "Ghána északi részén található gránitsziklás dombvidék, különleges alakzatokkal.",
+      "facts": ["Hatalmas, gömbölyded sziklák jellemzik.", "A helyi kultúra szent helye.", "Látványos tájképi elem a szavannán."]
+    },
+    {
+      "id": "akposso-hills-relief-v2",
+      "description": "A Volta régióban, a Togo-határ mentén fekvő hegyvidék, gazdag biodiverzitással.",
+      "facts": ["Ghána legmagasabb pontjai közé tartozik.", "Hűvösebb klímája alkalmas a kávétermesztésre.", "Dús vízesések és patakok tarkítják."]
+    },
+    {
+      "id": "shai-hills-relief-v2",
+      "description": "Accra síkságából kiemelkedő szigethegyek, amelyek ma természetvédelmi területet alkotnak.",
+      "facts": ["Ősi barlangok és sziklás csúcsok.", "Antilopok és páviánok élőhelye.", "A shai nép egykori lakóhelye."]
+    },
+    {
+      "id": "oti-plain-relief-v2",
+      "description": "Az Oti folyó mentén elterülő mocsaras, alacsony síkság Ghána északkeleti részén.",
+      "facts": ["Az esős évszakban gyakran elárad.", "Kiváló legelőterület az állattenyésztőknek.", "Szavannai növényzet uralja."]
+    },
+    {
+      "id": "nkawkaw-escarpment-relief-v2",
+      "description": "A Kwahu-fennsík meredek, látványos sziklafala a déli országrészben.",
+      "facts": ["Híres a siklóernyős fesztiválokról.", "Több mint 600 méterrel emelkedik a síkság fölé.", "Függőleges sziklák és vízesések."]
+    },
+    {
+      "id": "gambia-hills-relief-v2",
+      "description": "Ghána északkeleti sarkában található dombvidék a Gambaga-perem közelében.",
+      "facts": ["Vörös homokkő sziklák jellemzik.", "A mamprusi nép történelmi szálláshelye.", "Száraz, szavannai éghajlat jellemzi."]
+    }
+  ]
+}

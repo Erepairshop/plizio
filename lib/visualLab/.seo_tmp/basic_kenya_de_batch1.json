@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "koobi-fora-history-v2",
+      "description": "Eine der weltweit bedeutendsten paläoanthropologischen Fundstellen am Turkana-See, bekannt als Wiege der Menschheit.",
+      "facts": ["Am Ostufer des Turkana-Sees", "Funde von Homo habilis", "Über 4 Millionen Jahre alt", "Weltkulturerbe der UNESCO"]
+    },
+    {
+      "id": "lamu-old-town-history-v2",
+      "description": "Die älteste und am besten erhaltene Swahili-Siedlung in Ostafrika, die seit über 700 Jahren kontinuierlich bewohnt ist.",
+      "facts": ["UNESCO-Weltkulturerbe", "Architektur aus Korallenstein", "Autofreie Inselstadt", "Zentrum der Swahili-Kultur"]
+    },
+    {
+      "id": "vasco-da-gama-pillar-history-v2",
+      "description": "Ein historisches Denkmal in Malindi, das 1498 vom portugiesischen Entdecker Vasco da Gama als Navigationshilfe errichtet wurde.",
+      "facts": ["In Malindi gelegen", "Aus Korallengestein erbaut", "Eines der ältesten Denkmäler", "Portugiesisches Erbe"]
+    },
+    {
+      "id": "jumba-la-mtwana-history-v2",
+      "description": "Die Ruinen einer Swahili-Siedlung aus dem 14. Jahrhundert an der Küste, deren Name \"Haus des Sklaven\" bedeutet.",
+      "facts": ["Nördlich von Mombasa", "Drei Moscheen vor Ort", "Direkt am Indischen Ozean", "Im 15. Jahrhundert verlassen"]
+    },
+    {
+      "id": "takwa-ruins-history-v2",
+      "description": "Die Überreste einer Swahili-Handelsstadt aus dem 15. und 16. Jahrhundert auf der Insel Manda, die für ihre Freitagsmoschee bekannt ist.",
+      "facts": ["Auf der Insel Manda", "1982 zum Nationaldenkmal ernannt", "Einzigartige Säulengräber", "Nur per Boot erreichbar"]
+    },
+    {
+      "id": "kapenguria-museum-history-v2",
+      "description": "Ein Museum, das in den ehemaligen Gefängniszellen untergebracht ist, in denen die \"Kapenguria Six\" während des Unabhängigkeitskampfes inhaftiert waren.",
+      "facts": ["Ehemaliges Gefängnis", "Geschichte des Mau-Mau-Aufstands", "Jomo Kenyatta war hier inhaftiert", "Im Westen Kenias"]
+    },
+    {
+      "id": "karen-blixen-museum-history-v2",
+      "description": "Das ehemalige Wohnhaus der berühmten dänischen Autorin von \"Jenseits von Afrika\", das heute Einblicke in das koloniale Leben bietet.",
+      "facts": ["Ehemals eine Kaffeefarm", "In der Nähe von Nairobi", "Originalmöbel der Autorin", "Historisches Farmhaus"]
+    },
+    {
+      "id": "mnarani-ruins-history-v2",
+      "description": "Die Überreste von zwei Moscheen und Gräbern aus dem 14. Jahrhundert, die hoch über dem Kilifi Creek thronen.",
+      "facts": ["Blick auf den Kilifi Creek", "Große Freitagsmoschee", "Baobab-Bäume auf dem Gelände", "Swahili-Architektur"]
+    },
+    {
+      "id": "pate-island-ruins-history-v2",
+      "description": "Historische Ruinen auf der größten Insel des Lamu-Archipels, die einst ein mächtiges Zentrum des Swahili-Handels waren.",
+      "facts": ["Im Lamu-Archipel", "Berühmt für Pate-Chronik", "Traditionelle Handwerkskunst", "Antike Korallensteinbauten"]
+    },
+    {
+      "id": "uhuru-gardens-history-v2",
+      "description": "Ein Gedenkpark in Nairobi, der an dem Ort errichtet wurde, an dem 1963 die Unabhängigkeit Kenias offiziell erklärt wurde.",
+      "facts": ["Größter Gedenkpark Kenias", "Ort der Unabhängigkeitsfeier", "Denkmal zum 20. Jahrestag", "In der Nähe des Wilson Airport"]
+    },
+    {
+      "id": "olorgesailie-history-v2",
+      "description": "Eine bedeutende archäologische Stätte im Rift Valley, die für ihre enorme Dichte an prähistorischen Steinwerkzeugen bekannt ist.",
+      "facts": ["Zentrum für Faustkeile", "Frühmenschliche Siedlung", "Im Great Rift Valley", "Vor über 600.000 Jahren bewohnt"]
+    },
+    {
+      "id": "kariandusi-history-v2",
+      "description": "Eine Fundstelle aus der Acheuléen-Zeit, die 1928 von Louis Leakey entdeckt wurde und zahlreiche Faustkeile beherbergt.",
+      "facts": ["Nahe dem Elmenteita-See", "Steinzeitliche Werkzeuge", "Louis Leakey Ausgrabungen", "Vulkanische Obsidianfunde"]
+    },
+    {
+      "id": "hyrax-hill-history-v2",
+      "description": "Ein prähistorischer Siedlungsplatz bei Nakuru, der Funde aus der Steinzeit bis zur Eisenzeit umfasst.",
+      "facts": ["Archäologisches Museum", "Antike Grabanlagen", "Entdeckt von Mary Leakey", "Blick auf den Nakuru-See"]
+    },
+    {
+      "id": "kenyatta-house-maralal-history-v2",
+      "description": "Das Haus, in dem Jomo Kenyatta kurz vor seiner Entlassung aus der Haft im Jahr 1961 unter Hausarrest stand.",
+      "facts": ["In Maralal gelegen", "Historischer ort der Freiheit", "Originale Einrichtungsstücke", "Meilenstein zur Unabhängigkeit"]
+    },
+    {
+      "id": "rabai-museum-history-v2",
+      "description": "Die erste christliche Missionsstation in Kenia, die 1846 von Ludwig Krapf und Johannes Rebmann gegründet wurde.",
+      "facts": ["Erste Kirche Kenias", "Nahe Mombasa gelegen", "Zentrum früher Missionierung", "Kultur der Mijikenda"]
+    }
+  ]
+}

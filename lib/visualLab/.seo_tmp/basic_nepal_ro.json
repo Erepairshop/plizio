@@ -1,0 +1,24 @@
+{
+  "lang": "ro",
+  "country": "Nepal",
+  "files": [
+    "lib/visualLab/data/poiExtraNepalCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalaiya-cities-v2",
+      "description": "Kalaiya este un oraș din sudul Nepalului, situat în districtul Bara. Este un centru comercial important în regiunea Terai, conectat la rutele comerciale din India vecină.",
+      "facts": ["Situat în districtul Bara", "Regiunea Terai", "Centru comercial local", "Climat subtropical"]
+    },
+    {
+      "id": "tikapur-cities-v2",
+      "description": "Tikapur este un oraș din districtul Kailali, cunoscut pentru grădinile sale extinse și pentru proximitatea față de Parcul Național Bardia. Este o destinație importantă pentru ecoturism în vestul Nepalului.",
+      "facts": ["Situat în districtul Kailali", "Proximitatea parcului Bardia", "Zone verzi extinse", "Poartă spre vestul Nepalului"]
+    },
+    {
+      "id": "siraha-cities-v2",
+      "description": "Siraha este un oraș administrativ din estul Nepalului, fiind capitala districtului cu același nume. Economia locală se bazează în principal pe agricultură și comerțul cu cereale.",
+      "facts": ["Capitala districtului Siraha", "Regiunea estică Terai", "Economie agricolă", "Centru administrativ regional"]
+    }
+  ]
+}

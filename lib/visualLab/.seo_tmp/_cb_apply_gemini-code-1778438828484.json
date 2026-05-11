@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tanji-fishing-village-life-v2",
+      "descriptionAdvanced": {
+        "de": "Tanji Fishing Beach ist einer der bedeutendsten und geschäftigsten Anlandungsplätze für handwerkliche Fischerei an der Westküste Gambias. Das Dorf Tanji ist ökonomisch fast vollständig von der Meeresnutzung abhängig, wobei Hunderte von farbenfrohen Pirogen täglich den Atlantik befahren. Der Ort ist bekannt für seine weitläufigen Räuchereien, in denen Fisch – vor allem Bonga und Sardinellen – nach traditionellen Methoden konserviert wird, um in das Landesinnere oder in Nachbarländer wie Mali und Guinea exportiert zu werden. Technisch gesehen ist die Logistik vor Ort beeindruckend: Junge Männer transportieren die schweren Körbe mit Fisch im Laufschritt vom Wasser zu den Verarbeitungsstellen, während Frauen die zentrale Rolle beim Verkauf und der Trocknung übernehmen. Ökologisch steht Tanji vor Herausforderungen durch Überfischung und den Klimawandel, der die Küstenlinie erodiert. Dennoch bleibt der Strand ein vitales Beispiel für die westafrikanische Küstenkultur. Neben der wirtschaftlichen Komponente beherbergt Tanji auch ein Dorf-Museum, das die lokale Geschichte dokumentiert. Die Luft in Tanji ist stets vom Rauch der Öfen und dem salzigen Geruch des Meeres erfüllt, was die intensive Arbeitsatmosphäre dieses Ortes unterstreicht. Für die Ernährungssicherheit Gambias ist Tanji ein unverzichtbarer Knotenpunkt, da ein Großteil des im Land konsumierten Proteins hier angelandet wird.",
+        "hu": "A Tanji halászfalu Gambia legfontosabb kézműves halászati központja az Atlanti-óceán partján. A gazdaság motorját a naponta érkező több száz színes bödönhajó (pirogue) adja, amelyek a tenger bőséges forrásait aknázzák ki. A part mentén elhelyezkedő hatalmas füstölőházak a település jellegzetes építményei, ahol hagyományos módszerekkel tartósítják a halat – főként bongát és szardíniát – a belföldi piacokra és a szomszédos országokba, például Maliba történő szállításra. A logisztikai folyamatok rendkívül szervezettek: a férfiak a tengerből hozzák ki a zsákmányt, míg a nők végzik a tisztítást, a füstölést és a kereskedelmi folyamatok nagy részét. Ökológiai szempontból a terület nagy nyomás alatt áll a túlhalászás és a partmenti erózió miatt, de továbbra is a régió biodiverzitásának egyik kulcspontja. A település kulturális jelentőségét növeli a Tanji Village Museum, amely bemutatja a helyi közösségek életmódját és történelmét. A látogatók számára ez a helyszín nyújtja a legnyersebb és legőszintébb betekintést a nyugat-afrikai part menti gazdaságba. A füstölt hal illata és a kikötő állandó nyüzsgése meghatározza a falu identitását, amely Gambia élelmezésbiztonságának egyik legfőbb pillére.",
+        "ro": "Tanji Fishing Beach este cel mai vibrant și important punct de debarcare pentru pescuitul artizanal de pe coasta atlantică a Gambiei. Economia locală se bazează aproape exclusiv pe resursele marine, sute de pirogi colorate aducând zilnic tone de pește la mal. Satul este renumit pentru sistemul său extins de afumătorii tradiționale, unde peștele (în special speciile Bonga și Sardinella) este conservat pentru a fi transportat în interiorul continentului, către piețele din Mali și Guineea. Din punct de vedere tehnic, procesul este unul de o intensitate remarcabilă, implicând o diviziune clară a muncii: bărbații se ocupă de captură, în timp ce femeile domină sectoarele de prelucrare și comercializare. Provocările ecologice sunt semnificative, incluzând supraexploatarea resurselor piscicole de către flotele industriale și eroziunea costieră accelerată. Totuși, Tanji rămâne un pilon cultural și economic, oferind o privire autentică asupra modului de viață vest-african. În apropiere se află și un muzeu al satului care documentează tradițiile locale. Atmosfera este definită de fumul constant al cuptoarelor și de activitatea neîncetată a comercianților, transformând plaja într-un nod logistic vital pentru securitatea alimentară a întregii regiuni Gambia-Senegal.",
+        "en": "Tanji Fishing Beach is the most significant artisanal fishing hub on the Gambian coast. The local economy is driven by the daily arrival of hundreds of brightly painted pirogues, which harvest the Atlantic's resources. The village is famous for its extensive smoking ovens, where fish—primarily bonga and sardinella—are preserved using age-old techniques for export to the Gambian interior and neighboring countries like Mali. Technically, the logistics of Tanji are a marvel of manual labor; young men carry heavy baskets of fish through the surf, while women manage the processing and market trade. Ecologically, Tanji faces pressure from industrial overfishing and coastal erosion, making sustainable management a critical issue for the community. Culturally, the village maintains its traditional roots, partially documented at the nearby Tanji Village Museum. The beach serves as a vital protein source for the nation, and its bustling atmosphere is a sensory overload of woodsmoke, salt air, and constant commercial activity. It represents the backbone of the Gambian maritime economy, illustrating the complex relationship between traditional livelihoods and the growing demands of regional food security."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Standort für die traditionelle Fischräucherung in Gambia.",
+          "Exportiert geräucherten Fisch bis nach Mali und Guinea.",
+          "Hunderte handgefertigte Pirogen landen hier täglich an.",
+          "Frauen kontrollieren den Großteil des Fischhandels und der Verarbeitung.",
+          "Wichtige Quelle für die Proteinversorgung der gambischen Bevölkerung.",
+          "Beherbergt ein Dorf-Museum zur lokalen Kulturgeschichte."
+        ],
+        "hu": [
+          "Gambia legnagyobb kézműves halászati és füstölő központja.",
+          "A füstölt halat távoli országokba, például Maliba is exportálják.",
+          "A munkafolyamatokat szigorú nemek közötti munkamegosztás jellemzi.",
+          "Naponta több száz színes pirogue (hagyományos csónak) látható itt.",
+          "A falu mellett található Gambia egyik legfontosabb madárrezervátuma.",
+          "A halászati ágazat Brikama után a régió legnagyobb munkaadója."
+        ],
+        "ro": [
+          "Centrul principal de afumare a peștelui folosind metode tradiționale.",
+          "Punct strategic pentru exportul regional de pește în West Africa.",
+          "Sute de bărci tradiționale (pirogi) acostează zilnic pe plajă.",
+          "Femeile joacă rolul central în procesarea și vânzarea capturii.",
+          "Sursă vitală de proteine pentru populația locală și regională.",
+          "Situl include un muzeu etnografic dedicat vieții rurale gambiene."
+        ],
+        "en": [
+          "The largest artisanal fish smoking and landing site in The Gambia.",
+          "Key export hub for smoked fish to inland West African nations.",
+          "Features hundreds of traditional, hand-painted fishing pirogues.",
+          "The processing industry is primarily managed and run by women.",
+          "Crucial for the country's domestic food security and protein supply.",
+          "A major center for coastal economic activity and local trade."
+        ]
+      }
+    },
+    {
+      "id": "serekunda-central-market-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Serekunda Central Market ist das pulsierende wirtschaftliche Herz der größten Stadt Gambias und ein Spiegelbild des urbanen Lebens in Westafrika. Geografisch im Zentrum von Serekunda gelegen, erstreckt sich der Markt über ein weitläufiges Labyrinth aus Gassen, die oft bis weit in die umliegenden Straßen ausufern. Hier wird nahezu alles gehandelt: von frischen Lebensmitteln wie Maniok, Chilis und Bittertomaten bis hin zu Stoffen, Elektronik und traditioneller Medizin. Ökonomisch ist der Markt der wichtigste informelle Sektor des Landes und bietet Tausenden von Kleinhändlern eine Existenzgrundlage. Technisch gesehen ist die Organisation des Marktes ein komplexes System aus festen Ständen und fliegenden Händlern, das trotz des scheinbaren Chaos nach klaren sozialen und wirtschaftlichen Regeln funktioniert. Historisch entwickelte sich der Markt parallel zum rasanten Wachstum von Serekunda, das die Hauptstadt Banjul als wirtschaftliches Zentrum überholte. Besucher finden hier eine enorme Vielfalt an westafrikanischen Textilien, insbesondere Batik- und Wax-Print-Stoffe, die oft direkt vor Ort verarbeitet werden. Der Markt ist zudem ein wichtiger sozialer Treffpunkt, an dem Informationen und Neuigkeiten aus dem ganzen Land zusammenlaufen. Die Bewirtschaftung und Müllentsorgung stellen die Stadtverwaltung vor große Herausforderungen, doch bleibt der Markt das unverzichtbare Versorgungszentrum für die städtische Bevölkerung.",
+        "hu": "A serekundai központi piac Gambia legnagyobb városának lüktető gazdasági szíve, és a nyugat-afrikai városi élet egyik legmeghatározóbb helyszíne. A város központjában elterülő piac egy hatalmas labirintus, amely gyakran a környező utcákra is kiáramlik, teljesen elmosva a határokat az üzletek és a közterületek között. Gazdasági szempontból ez az ország legfontosabb informális szektora, ahol a friss élelmiszerektől (manióka, chili, keserűparadicsom) kezdve a textileken és elektronikán át a hagyományos orvoslásig minden megtalálható. A piac párhuzamosan nőtt Serekunda robbanásszerű népességnövekedésével, amely mára gazdasági súlyban megelőzte a fővárost, Banjult. A technikai értelemben vett szervezetlenség mögött egy szigorú szociális és kereskedelmi hierarchia húzódik meg, ahol minden árusnak megvan a maga rögzített helye és vevőköre. Különösen híres a textilrészleg, ahol a helyi batikolt anyagok és a viasznyomott szövetek (Wax Print) óriási választékát kínálják. A piac nemcsak kereskedelmi csomópont, hanem közösségi tér is, ahol az információk gyorsabban terjednek, mint a médiában. Bár a zsúfoltság és a logisztikai nehézségek komoly kihívást jelentenek a városvezetésnek, a piac továbbra is a lakosság elsődleges beszerzési forrása.",
+        "ro": "Piața Centrală din Serekunda reprezintă inima economică a celei mai mari aglomerări urbane din Gambia, fiind un simbol al dinamismului vest-african. Situată în centrul orașului Serekunda, piața se extinde într-un labirint dens de alei și tarabe care ocupă adesea străzile adiacente. Din punct de vedere economic, este cel mai important punct de comerț informal din țară, asigurând subzistența pentru mii de familii prin vânzarea unei game vaste de produse: de la alimente proaspete și condimente, până la electronice și textile. Piața a evoluat odată cu explozia demografică a orașului, depășind capitala Banjul ca volum de tranzacții și importanță comercială. Un sector remarcabil este cel al materialelor textile, unde sunt expuse celebrele țesături batik și wax-print, esențiale pentru moda locală. Din punct de vedere tehnic, administrarea pieței este o provocare constantă pentru autoritățile locale în ceea ce privește salubritatea și logistica transporturilor. Totuși, structura socială a pieței este foarte solidă, bazată pe rețele de comercianți cu vechime. Serekunda Market nu este doar un loc de schimb material, ci și un spațiu de interacțiune socială intensă, reflectând diversitatea etnică și culturală a Gambiei moderne.",
+        "en": "Serekunda Central Market is the throbbing commercial heart of The Gambia’s largest city and a quintessential example of a West African urban marketplace. Located at the center of Serekunda, the market sprawls through a labyrinth of narrow alleys, often overflowing into the surrounding arterial roads. Economically, it is the nation's most vital hub for the informal sector, providing livelihoods for thousands of vendors selling everything from fresh produce like cassava and bitter tomatoes to electronics and traditional medicines. The market's growth has mirrored the rapid urbanization of Serekunda, which has long surpassed the capital, Banjul, in economic significance. Technically, the market functions through a complex social hierarchy of established stalls and mobile vendors, managing a massive daily flow of goods and people. It is particularly renowned for its textile section, where vibrant batik and wax-print fabrics are traded and tailored on-site. Socially, the market acts as a primary communications hub for the urban population. While the sheer density presents ongoing logistical and sanitation challenges for city planners, the market remains the indispensable lifeline for the daily needs of the Gambian people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Markt in Gambia und wichtigstes Handelszentrum der Kanifing-Region.",
+          "Bedeutendster Standort für den Handel mit handgefertigten Batik-Stoffen.",
+          "Versorgt die städtische Bevölkerung mit täglich frischen Agrarprodukten.",
+          "Zentrum des informellen Sektors mit tausenden von Kleinstunternehmen.",
+          "Befindet sich am strategischen Verkehrsknotenpunkt der Sayerr Jobe Avenue.",
+          "Übertrifft die Hauptstadt Banjul in Bezug auf Handelsvolumen und Besucherfrequenz."
+        ],
+        "hu": [
+          "Gambia legnagyobb piaca, amely Serekunda gazdasági motorja.",
+          "Kiemelkedő a helyben készített batikolt textíliák választéka.",
+          "A városi lakosság elsődleges élelmiszer-beszerzési forrása.",
+          "Több ezer árusnak és kisvállalkozásnak biztosít napi bevételt.",
+          "A piac területe folyamatosan terjeszkedik a környező lakónegyedek felé.",
+          "A nyugat-afrikai kereskedelmi kultúra egyik legélőbb példája."
+        ],
+        "ro": [
+          "Cea mai mare piață din Gambia și nucleul comercial al regiunii Kanifing.",
+          "Punct de referință pentru comerțul cu țesături tradiționale și batik.",
+          "Asigură distribuția principală de produse agricole pentru zona urbană.",
+          "Reprezintă baza economiei informale, depășind capitala în activitate.",
+          "Situată la intersecția principalelor rute de transport din Serekunda.",
+          "Locul principal de întâlnire socială și schimb de informații din oraș."
+        ],
+        "en": [
+          "The largest market in The Gambia and its primary commercial engine.",
+          "Famous for its wide variety of locally made batik and tie-dye fabrics.",
+          "Serves as the main distribution point for fresh produce in the metro area.",
+          "Home to thousands of informal traders and small-scale businesses.",
+          "Located in the geographic and economic center of the Kanifing Municipality.",
+          "Handles a higher volume of trade than the markets in the capital city."
+        ]
+      }
+    },
+    {
+      "id": "lamin-lodge-mangroves-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lamin Lodge ist eine markante, mehrstöckige Holzstruktur, die am Rande des Tanbi Wetland Complex auf Stelzen über dem Wasser errichtet wurde. Sie dient als Tor zu einem der ökologisch wichtigsten Mangrovensysteme Gambias, den Lamin Bolongs. Geografisch liegt sie in der Nähe des Dorfes Lamin und bietet Zugang zu einem verzweigten Netzwerk aus Salzwasserkanälen. Ein zentraler wirtschaftlicher Aspekt dieses Ortes ist die traditionelle Austernernte, die fast ausschließlich von Frauen durchgeführt wird. Diese Frauen paddeln in Pirogen in die Mangroven, schneiden die Austern von den Wurzeln der Roten Mangrove (Rhizophora mangle) und verarbeiten sie an Land, wobei die Schalen oft als Baumaterial oder zur Kalkgewinnung genutzt werden. Technisch gesehen ist die Lamin Lodge aus lokalem Holz ohne moderne Schwermaschinen erbaut worden und fügt sich organisch in die Umgebung ein. Ökologisch fungieren die Mangroven als Kinderstube für Fische und als Schutzbarriere gegen Küstenerosion. Das Gebiet ist ein Paradies für Ornithologen, da Arten wie der Blauschwanz-Smaragdspint und verschiedene Eisvögel hier heimisch sind. Die Lodge selbst fungiert heute als Restaurant und Ausgangspunkt für Bootstouren, die den nachhaltigen Ökotourismus in der Region fördern. Die Symbiose aus lokaler Subsistenzwirtschaft (Austernfang) und sanftem Tourismus macht Lamin zu einem Paradebeispiel für die Nutzung von Feuchtgebieten.",
+        "hu": "A Lamin Lodge egy többszintes, fából készült építmény, amely a Tanbi vizes élőhely komplexum szélén, cölöpökön áll a Lamin Bolong egyik ága felett. Ez a különleges épület kapuként szolgál Gambia egyik legfontosabb mangrove-ökoszisztémájához. Földrajzilag Lamin falu közelében található, ahol a sós vízi csatornák szövevényes hálózata alakult ki. A helyi gazdaság egyik legfontosabb és leglátványosabb eleme a hagyományos osztrigahalászat, amelyet szinte kizárólag nők végeznek. A nők pirogokkal eveznek be a mangroveerdőbe, hogy a vörös mangrove (Rhizophora mangle) gyökereiről begyűjtsék az osztrigákat. Az összegyűjtött kagylóhéjakat később az építőiparban mészpótlóként vagy útburkolóként hasznosítják. Ökológiai szempontból a terület felbecsülhetetlen: a mangroveerdő bölcsőként szolgál számos halfaj számára, és védi a partvonalat az eróziótól. A környék a madármegfigyelők paradicsoma, ahol olyan fajok fészkelnek, mint a kékszakállas gyurgyalag vagy a különböző jégmadarak. A Lamin Lodge ma már ökoturisztikai központként és étteremként is funkcionál, lehetőséget adva a látogatóknak, hogy csónaktúrák keretében fedezzék fel a vizes élőhelyek biodiverzitását, miközben támogatják a helyi közösségeket.",
+        "ro": "Lamin Lodge este o structură de lemn emblematică, construită pe mai multe niveluri pe piloni, situată la marginea complexului de zone umede Tanbi, deasupra brațului Lamin Bolong. Aceasta servește drept punct de acces principal către vastele păduri de mangrove care definesc estuarul râului Gambia. Din punct de vedere economic, zona este celebră pentru colectarea tradițională a stridiilor, o activitate gestionată aproape integral de cooperativele de femei din Lamin. Acestea recoltează stridiile de pe rădăcinile mangrovelor roșii (Rhizophora mangle), procesând carnea pentru consum și utilizând cochiliile pentru producția de var sau ca material de construcție. Din punct de vedere tehnic, lodge-ul este o capodoperă a arhitecturii rustice locale, oferind o panoramă vastă asupra canalelor navigabile. Ecologic, mlaştinile de mangrove sunt vitale pentru reproducerea peștilor și protecția împotriva inundațiilor marine. Situl este un punct fierbinte pentru ornitologie, adăpostind specii rare de păsări acvatice și kingfishers. Lamin Lodge combină armonios turismul ecologic cu practicile de subzistență tradiționale, oferind o perspectivă clară asupra modului în care comunitățile locale depind de sănătatea ecosistemelor de zonă umedă.",
+        "en": "Lamin Lodge is a distinctive multi-story wooden structure built on stilts over the Lamin Bolong, within the Tanbi Wetland Complex. It serves as a vital gateway to one of the most extensive mangrove ecosystems in The Gambia. Geographically located near Lamin village, the area is characterized by a network of tidal saltwater creeks. A cornerstone of the local economy is the traditional oyster harvesting industry, which is almost exclusively operated by local women. These harvesters navigate the mangroves in small pirogues to collect oysters from the roots of the Red Mangrove (Rhizophora mangle). The shells are later processed for lime production or used as construction aggregate. Technically, the lodge is an architectural landmark made from local timber, blending into the natural environment. Ecologically, the mangroves act as a crucial nursery for marine life and a buffer against coastal erosion. The area is a premier destination for birdwatchers, home to species like the Blue-cheeked Bee-eater and various kingfishers. Today, Lamin Lodge functions as an eco-tourism hub and restaurant, facilitating boat trips that allow visitors to explore the biodiversity of the bolongs while supporting the local community’s traditional way of life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einzigartige mehrstöckige Holzarchitektur auf Stelzen über dem Sumpf.",
+          "Zentrum der lokalen Austernernte, die von Frauenkooperativen betrieben wird.",
+          "Gehört zum geschützten Tanbi Wetland Complex.",
+          "Wichtiger Lebensraum für die Rote Mangrove und seltene Wasservögel.",
+          "Ausgangspunkt für Erkundungstouren mit traditionellen Booten.",
+          "Verwendet Muschelschalen als nachhaltigen Baustoff in der Umgebung."
+        ],
+        "hu": [
+          "Különleges, fából készült többszintes épület a mocsár felett.",
+          "A környék az osztrigagyűjtő asszonyok munkájáról nevezetes.",
+          "A Tanbi vizes élőhely komplexum részeként ökológiai védelem alatt áll.",
+          "A vörös mangrove gyökerei között számos halfaj talál menedéket.",
+          "Népszerű helyszín a madármegfigyelők és a csónakos turisták számára.",
+          "A kagylóhéjakat a helyi építkezéseken mészpótlóként használják."
+        ],
+        "ro": [
+          "Arhitectură rustică unică, construită integral din lemn pe piloni.",
+          "Centru pentru recoltarea tradițională a stridiilor de către femei.",
+          "Situat în interiorul Rezervației de Zone Umede Tanbi.",
+          "Habitat esențial pentru specii de mangrove roșii și păsări exotice.",
+          "Oferă rute de navigație prin canalele naturale ale râului Gambia.",
+          "Cochiliile de stridii din zonă sunt utilizate industrial pentru producția de var."
+        ],
+        "en": [
+          "An iconic multi-level wooden lodge built on stilts over the creek.",
+          "Hub for the local oyster industry, traditionally run by women's groups.",
+          "Located within the internationally recognized Tanbi Wetland Complex.",
+          "The surrounding mangroves serve as a vital carbon sink and fish nursery.",
+          "A primary starting point for birdwatching tours and creek excursions.",
+          "Oyster shells from the area are recycled into building materials and lime."
+        ]
+      }
+    },
+    {
+      "id": "gunjur-turtle-conservation-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gunjur Turtle Conservation Project ist eine gemeindebasierte Initiative an der Südküste Gambias, die sich dem Schutz gefährdeter Meeresschildkröten widmet. Der Fokus liegt primär auf der Suppenschildkröte (Chelonia mydas) und der Lederschildkröte, die die Strände von Gunjur zur Eiablage nutzen. Historisch gesehen waren Schildkröteneier und Fleisch eine Proteinquelle für die Küstenbewohner, doch das Projekt hat durch Aufklärung einen tiefgreifenden Wandel bewirkt. Technisch umfasst die Arbeit das Patrouillieren der Strände während der Nestsaison, das Umbetten von Gelegen in geschützte Brutstätten (Hatcheries), um sie vor Raubtieren und Wilderern zu schützen, sowie die Dokumentation der Populationen. Ökonomisch profitiert das Dorf durch den wachsenden Ökotourismus, da Besucher die kontrollierte Freilassung der Jungtiere miterleben können. Die Initiative wird größtenteils von Freiwilligen aus der lokalen Gemeinschaft getragen, was die soziale Verankerung des Naturschutzes stärkt. Ökologisch gesehen ist Gunjur einer der wenigen verbliebenen sicheren Brutplätze an der westafrikanischen Küste, da die Urbanisierung in anderen Regionen die Nistplätze zerstört hat. Das Projekt arbeitet auch an der Reduzierung von Plastikmüll am Strand, da dieser eine tödliche Gefahr für die Schildkröten darstellt. Durch internationale Kooperationen werden zudem Satelliten-Tracking-Daten gesammelt, um die Migrationsrouten der Tiere im Atlantik besser zu verstehen.",
+        "hu": "A gunjuri teknősvédelmi projekt egy közösségi alapú kezdeményezés Gambia déli partvidékén, amely a veszélyeztetett tengeri teknősök megőrzésére fókuszál. A projekt elsősorban a közönséges levesteknős (Chelonia mydas) és a kérgesteknős védelmére koncentrál, amelyek Gunjur homokos strandjait használják tojásrakó helyként. Történelmileg a teknősök húsa és tojása fontos táplálékforrás volt a helyieknek, de a projekt oktatási tevékenysége révén mára a lakosság a teknősök őrzőjévé vált. Technikai szempontból a munka magában foglalja a part menti őrjáratokat a fészkelési szezonban, a veszélyeztetett fészkek védett keltetőkbe (hatcheries) történő áthelyezését és a kikelő kisteknősök biztonságos tengerbe juttatását. Gazdaságilag a falu profitál a fenntartható turizmusból, mivel a látogatók részt vehetnek a teknősök szabadon engedésénél, ami bevételt generál a közösségnek. Ökológiai szempontból Gunjur kritikus menedékhely, mivel a környező régiók beépítése miatt drasztikusan csökkent a természetes fészkelőhelyek száma. A kezdeményezés szorosan kapcsolódik a tengerparti műanyagszennyezés elleni küzdelemhez is, mivel a hulladék komoly veszélyt jelent a kifejlett egyedekre. Nemzetközi kutatócsoportokkal együttműködve ma már műholdas nyomkövetést is alkalmaznak a teknősök vándorlási útvonalainak feltérképezésére.",
+        "ro": "Proiectul de Conservare a Broaștelor Țestoase din Gunjur este o inițiativă comunitară situată pe coasta de sud a Gambiei, dedicată protejării speciilor marine pe cale de dispariție. Activitatea principală vizează țestoasa verde (Chelonia mydas) și țestoasa luth, care folosesc plajele din Gunjur pentru cuibărit. Din punct de vedere istoric, consumul de ouă și carne de țestoasă era comun în zonă, însă eforturile educaționale ale proiectului au transformat localnicii în protectori ai acestor reptile. Din punct de vedere tehnic, voluntarii patrulează plajele în timpul nopții, monitorizează cuiburile și relocă ouăle în zone securizate pentru a le proteja de prădători și braconaj. Economic, proiectul susține turismul sustenabil, oferind vizitatorilor șansa de a asista la eliberarea puilor în ocean, fondurile fiind reinvestite în comunitate. Ecologic, Gunjur rămâne unul dintre puținele sanctuare sigure de pe coasta vest-africană, într-un context de urbanizare rapidă. Proiectul include, de asemenea, programe de curățare a plajelor de resturi de plastic, care reprezintă o amenințare letală pentru fauna marină. Colaborarea cu organizații internaționale permite monitorizarea prin satelit a rutelor migratoare, oferind date esențiale pentru biologia marină globală.",
+        "en": "The Gunjur Turtle Conservation Project is a grassroots initiative on The Gambia's southern coast dedicated to protecting endangered sea turtles. The project focuses primarily on the Green Turtle (Chelonia mydas) and the Leatherback Turtle, which utilize Gunjur's sandy beaches as nesting grounds. Historically, turtles were hunted for meat and eggs, but intensive community outreach has successfully shifted local attitudes toward conservation. Technically, the operation involves nightly beach patrols during the nesting season, relocating vulnerable nests to protected hatcheries to prevent predation and poaching, and documenting nesting success. Economically, the initiative drives eco-tourism in Gunjur, as visitors pay to witness the controlled release of hatchlings, providing sustainable income for the village. Ecologically, Gunjur is one of the few remaining undisturbed nesting sites in the region due to increasing coastal development elsewhere. The project also spearheads beach clean-up campaigns to mitigate the threat of plastic pollution, which often entangles or is ingested by the turtles. By working with international researchers, the project contributes to the understanding of Atlantic migratory patterns through satellite tagging and data sharing."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Schützt primär die vom Aussterben bedrohte Suppenschildkröte.",
+          "Wird fast vollständig von lokalen Freiwilligen betrieben.",
+          "Betreibt geschützte Brutstätten (Hatcheries) direkt am Strand.",
+          "Führt nächtliche Patrouillen zur Verhinderung von Wilderei durch.",
+          "Wichtiger Standort für die Erforschung atlantischer Migrationsrouten.",
+          "Kombiniert Artenschutz mit Bildungsarbeit für gambische Fischer."
+        ],
+        "hu": [
+          "A közönséges levesteknős és a kérgesteknős védelmére szakosodott.",
+          "Gambia egyik legsikeresebb közösségi alapú természetvédelmi projektje.",
+          "A fészkeket elkerített keltetőkben védik a ragadozóktól.",
+          "Éjszakai strandőrséget tartanak a tojásrakási időszakban.",
+          "A turisták részt vehetnek a kikelő teknősök tengerbe engedésénél.",
+          "Szoros kapcsolatban áll a helyi környezetvédelmi iskolai klubokkal."
+        ],
+        "ro": [
+          "Dedicat protecției țestoaselor verzi și a țestoaselor luth.",
+          "Inițiativă bazată exclusiv pe participarea voluntară a comunității.",
+          "Utilizează incubatoare naturale protejate pentru a crește rata de supraviețuire.",
+          "Monitorizează activ plajele împotriva braconajului nocturn.",
+          "Sursă importantă de date pentru cercetarea migrației marine în Atlantic.",
+          "Include campanii periodice de eliminare a deșeurilor de pe plajă."
+        ],
+        "en": [
+          "Focuses on the conservation of Green and Leatherback sea turtles.",
+          "A completely community-led initiative based in Gunjur village.",
+          "Maintains protected hatcheries to safeguard eggs from predators.",
+          "Organizes volunteer patrols to monitor nesting activity at night.",
+          "Contributes to international marine biology through satellite tracking.",
+          "Successfully ended the local practice of harvesting turtle eggs for food."
+        ]
+      }
+    },
+    {
+      "id": "njau-recycling-center-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Njau Recycling & Learning Center ist ein preisgekröntes ökologisches und soziales Projekt im ländlichen Norden Gambias. Gegründet von Isatou Ceesay, bekannt als 'Queen of Recycling', begann die Initiative als Antwort auf die massive Plastikverschmutzung, die das Vieh tötete und die Böden unfruchtbar machte. Technisch gesehen basiert das Projekt auf dem Upcycling von Polyethylen-Abfällen (Plastiktüten), die gereinigt, in Streifen geschnitten und zu hochwertigen Produkten wie Taschen, Geldbörsen und Matten verwebt werden. Ökonomisch hat das Zentrum das Leben hunderter Frauen in der Region Njau verändert, indem es ihnen ein unabhängiges Einkommen ermöglichte, das weit über dem Durchschnitt der Subsistenzlandwirtschaft liegt. Das Projekt dient zudem als Bildungszentrum, in dem Dorfbewohner Techniken zur Kompostierung, zur Herstellung von rauchfreien Kochherden und zur nachhaltigen Landwirtschaft erlernen. Geografisch liegt Njau in einer trockenen Region, in der Ressourcenknappheit herrscht, was den Wert der Wiederverwertung unterstreicht. Das Zentrum hat internationale Anerkennung gefunden und gilt weltweit als Vorbild für 'Circular Economy' in Entwicklungsländern. Ökologisch trägt es zur signifikanten Reduzierung von Plastikmüll in den Dörfern bei und schützt so die lokale Flora und Fauna. Es zeigt eindrucksvoll, wie Umweltschutz direkt mit der Stärkung von Frauenrechten verknüpft werden kann.",
+        "hu": "A njaui Újrahasznosítási és Tanulási Központ egy díjnyertes ökológiai és szociális kezdeményezés Gambia északi, vidéki részén. A projektet Isatou Ceesay, az 'újrahasznosítás királynője' alapította válaszul a falvakat elöntő műanyaghulladékra, amely elpusztította a háziállatokat és szennyezte a termőföldeket. Technikai szempontból a központ az upcycling (értéknövelő újrahasznosítás) módszerét alkalmazza: a kidobott polietilén zacskókat megtisztítják, csíkokra vágják, majd táskákká, pénztárcákká és szőnyegekké szövik össze. Gazdaságilag a kezdeményezés forradalmi a régióban, mivel több száz nő számára biztosít önálló jövedelmet, függetlenítve őket a bizonytalan mezőgazdasági termeléstől. A központ oktatási intézményként is funkcionál, ahol a fenntartható gazdálkodást, a komposztálást és a környezetbarát tűzhelyek készítését tanítják. Földrajzilag Njau egy száraz, erőforrásokban szegény területen fekszik, így a hulladék alapanyagként való használata létfontosságú. A projekt nemzetközi hírnévre tett szert, mint a körforgásos gazdaság egyik legsikeresebb afrikai példája. Ökológiai hatása jelentős: több tonna műanyagot távolítottak el a környezetből, miközben szemléletformáló munkájukkal a következő generációkat is környezettudatosságra nevelik.",
+        "ro": "Centrul de Reciclare și Învățare din Njau este un proiect ecologic și social de referință situat în nordul rural al Gambiei. Fondat de Isatou Ceesay, supranumită 'Regina Reciclării', centrul a apărut ca o soluție la poluarea masivă cu plastic care afecta sănătatea animalelor și calitatea solului. Din punct de vedere tehnic, proiectul utilizează tehnici de 'upcycling' pentru deșeurile de polietilenă; pungile de plastic sunt spălate, tăiate în fâșii și țesute manual în produse durabile, precum genți, portofele și covorașe. Economic, centrul a transformat radical viața femeilor din Njau, oferindu-le independență financiară și posibilitatea de a finanța educația copiilor lor. Pe lângă reciclare, situl funcționează ca un centru de învățare pentru agricultura sustenabilă, producția de brichete combustibile din resturi vegetale și utilizarea cuptoarelor eficiente energetic. Geografic, Njau se află într-o regiune aridă, unde gestionarea resurselor este critică. Proiectul a primit numeroase premii internaționale pentru modelul său de economie circulară aplicat în comunități izolate. Ecologic, inițiativa a dus la o reducere vizibilă a deșeurilor în satele din jur, protejând ecosistemele locale și demonstrând că protecția mediului poate fi un motor puternic pentru emanciparea socială.",
+        "en": "The Njau Recycling & Learning Center is an award-winning ecological and social enterprise located in rural northern Gambia. Founded by Isatou Ceesay, widely known as the 'Queen of Recycling,' the initiative began in response to the devastating plastic pollution that was killing local livestock and polluting farmland. Technically, the center specializes in the upcycling of polyethylene waste; discarded plastic bags are cleaned, cut into strips, and woven into high-quality products such as handbags, purses, and mats. Economically, the project has empowered hundreds of women in the Njau region by providing a steady income independent of subsistence farming. Beyond waste management, the center serves as a hub for environmental education, teaching skills in composting, the production of fuel-efficient stoves, and sustainable agricultural practices. Geographically, Njau's location in a resource-scarce, arid zone makes the reuse of materials particularly vital. The project has gained international acclaim as a model for the circular economy in developing nations. Ecologically, it has significantly reduced the volume of plastic waste in the community, protecting soil and animal health while promoting a culture of environmental stewardship and gender equality."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet von Isatou Ceesay zur Bekämpfung der Plastikflut.",
+          "Verwandelt Plastikabfälle in gewebte Taschen und Textilien.",
+          "Bietet hunderten Frauen im ländlichen Gambia eine feste Arbeit.",
+          "Dient als Bildungsstätte für nachhaltige Landwirtschaftstechniken.",
+          "Pionierprojekt der Circular Economy (Kreislaufwirtschaft) in Afrika.",
+          "Reduzierte die Sterblichkeitsrate von Vieh durch Plastikaufnahme drastisch."
+        ],
+        "hu": [
+          "Isatou Ceesay alapította, aki világszerte ismert környezetvédelmi aktivista.",
+          "Kidobott műanyag zacskókból készítenek tartós használati tárgyakat.",
+          "A helyi nők számára az egyetlen biztos készpénzes jövedelemforrás.",
+          "Oktatást nyújtanak a komposztálásról és a biogáz használatáról.",
+          "Számos nemzetközi környezetvédelmi díjat nyert a kezdeményezés.",
+          "Segített megtisztítani a vidéki legelőket a mérgező hulladéktól."
+        ],
+        "ro": [
+          "Fondat de Isatou Ceesay, lider mondial în mișcarea de reciclare.",
+          "Transformă pungile de plastic în accesorii de modă și uz casnic.",
+          "Motor economic pentru emanciparea femeilor din nordul Gambiei.",
+          "Centru de formare pentru tehnologii eco-prietenoase și agricultură.",
+          "Model internațional pentru economia circulară în zonele rurale.",
+          "Contribuie direct la sănătatea șeptelului prin eliminarea plasticului de pe pășuni."
+        ],
+        "en": [
+          "Founded by Isatou Ceesay to tackle the crisis of plastic pollution.",
+          "Specializes in weaving discarded plastic bags into functional bags and wallets.",
+          "Provides an essential source of independent income for local women.",
+          "Functions as a training center for sustainable living and clean energy.",
+          "A globally recognized example of successful grassroots upcycling.",
+          "Has vastly improved local environmental hygiene and soil quality."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lang": "de",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ma-tanger-med-port-economic-v2",
+      "description": "Tanger Med ist einer der größten Häfen Afrikas und ein wichtiges maritimes Tor zwischen Europa und Afrika.",
+      "facts": ["Größter Hafen Afrikas", "Zwischen Europa und Afrika", "Wichtiger Handelsknotenpunkt"]
+    },
+    {
+      "id": "ma-somaca-casablanca-economic-v2",
+      "description": "SOMACA (Société Marocaine de Constructions Automobiles) in Casablanca ist ein bedeutender Automobilhersteller in Marokko.",
+      "facts": ["Automobilhersteller", "Casablanca", "Industrieller Sektor"]
+    },
+    {
+      "id": "ma-jbel-aouam-mine-economic-v2",
+      "description": "Die Jbel Aouam Mine ist eine historische Blei- und Zinkmine im Mittleren Atlas, die für ihre Mineralien bekannt ist.",
+      "facts": ["Blei- und Zinkmine", "Mittlerer Atlas", "Historischer Bergbau"]
+    },
+    {
+      "id": "ma-dar-al-makhzen-rabat-history-v2",
+      "description": "Der Dar al-Makhzen in Rabat ist der offizielle Palast des Königs von Marokko und ein beeindruckendes architektonisches Werk.",
+      "facts": ["Königlicher Palast", "Rabat", "Beeindruckende Architektur"]
+    },
+    {
+      "id": "marrakech-palmeraie-kid-landmark-life-v2",
+      "description": "Die Palmeraie von Marrakesch ist eine Oase mit tausenden von Dattelpalmen, ideal für Kamelreiten und Entspannung.",
+      "facts": ["Oase Marrakesch", "Dattelpalmen", "Kamelreiten"]
+    },
+    {
+      "id": "berkane-fruit-agriculture-life-v2",
+      "description": "Die Region Berkane ist bekannt für ihre fruchtbaren Böden und die Produktion von Zitrusfrüchten und Gemüse.",
+      "facts": ["Fruchtbare Böden", "Zitrusfrüchte", "Landwirtschaftliches Zentrum"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "Die Sahara ist der natürliche Lebensraum der Kamele, die für den Transport und als Lebensgrundlage der Nomaden dienen.",
+      "facts": ["Kamellebensraum", "Sahara", "Nomadenkultur"]
+    },
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "Die Feuchtgebiete des Oued Draa sind ein wichtiges Ökosystem für Zugvögel und die lokale Tierwelt im Süden Marokkos.",
+      "facts": ["Feuchtgebiete", "Zugvögel", "Südmarokko"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Tiznit ist bekannt für seine Silberschmiedekunst und eine Region, die auf Arganölproduktion und traditionelle Landwirtschaft setzt.",
+      "facts": ["Arganölproduktion", "Silberschmiedekunst", "Traditionelle Landwirtschaft"]
+    },
+    {
+      "id": "ouarzazate-date-agriculture-life-v2",
+      "description": "Die Oasen um Ouarzazate sind berühmt für den Dattelanbau, der eine wichtige Einkommensquelle darstellt.",
+      "facts": ["Dattelanbau", "Ouarzazate", "Wichtige Einkommensquelle"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga ist das Tor zu den Dünen von Erg Chebbi, die für ihre beeindruckenden Sandlandschaften und Kamelsafaris bekannt sind.",
+      "facts": ["Erg Chebbi Dünen", "Kamelsafaris", "Wüstenlandschaft"]
+    }
+  ]
+}

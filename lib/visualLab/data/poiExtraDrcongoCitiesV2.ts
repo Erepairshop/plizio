@@ -227,7 +227,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Founded in 1910 as Élisabethville by the Union Minière du Haut-Katanga.", "Administrative capital of the Haut-Katanga province.", "Primary center for copper and cobalt mining industries.", "Houses the University of Lubumbashi.", "Strategically located near the Zambian border.", "Famous for its vibrant trade and industrial development."],
-      de: ["Früherer Name: Élisabethville.", "Zweitgrößte Stadt des Landes.", "Hauptstadt von Haut-Katanga.", "Die Eisenbahn erreichte den Ort 1910.", "Starker Bezug zu Kupfer- und Kobaltbergbau.", "Nahe an der Grenze zu Sambia."]
+      de: ["Früherer Name: Élisabethville.", "Hauptstadt von Haut-Katanga.", "Die Eisenbahn erreichte den Ort 1910.", "Starker Bezug zu Kupfer- und Kobaltbergbau.", "Nahe an der Grenze zu Sambia."]
     }
   },
     description: {
@@ -261,7 +261,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       de: "Likasi, früher Jadotville, ist eine Bergbaustadt in Haut-Katanga und Teil des großen Kupfergürtels im Südosten des Landes. Der Ort ist eng mit dem Schürf- und Industriegebiet rund um Shinkolobwe verbunden, das westlich der Stadt liegt und weltweit wegen seiner Uranlagerstätte bekannt wurde. Likasi liegt damit an einer Schnittstelle von Rohstoffförderung, Straßentransport und Wohnquartieren für Beschäftigte des Bergbaukomplexes. Die Stadt wirkt auf der Karte unscheinbar, trägt aber die Last eines ganzen Industriezweigs. Für Geografie K8 ist Likasi ein prägnantes Beispiel für Rohstoffräume und urbane Abhängigkeit."
     },
     factsAdvanced: {
-      en: ["Formerly known as Jadotville.", "Located at the center of the Katanga mining region.", "Key industrial base for copper and cobalt refining.", "Significant contributor to the national economy through mining.", "Located along the regional rail network connecting mining hubs.", "Known for its historical role in colonial mining operations."],
+      en: ["Located at the center of the Katanga mining region.", "Key industrial base for copper and cobalt refining.", "Significant contributor to the national economy through mining.", "Located along the regional rail network connecting mining hubs.", "Known for its historical role in colonial mining operations."],
       de: ["Frühere Namen: Jadotville und Jadotstad.", "Stadt in Haut-Katanga.", "Shinkolobwe liegt etwa 20 km westlich.", "Berühmt für Kupfer- und Kobaltförderung.", "Wichtiger Ort im Katanga-Kupfergürtel.", "Die Stadt war eng mit dem Bergbau um Shituru verbunden."]
     }
   },
@@ -367,7 +367,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Capital of the Lualaba province.", "Crucial site for global cobalt and copper supply chains.", "Home to some of the world's largest open-pit mining operations.", "Rapid demographic growth driven by the mining sector.", "Located at the western end of the Katanga Copperbelt.", "Key hub for industrial and engineering services in the region."],
-      de: ["Hauptstadt von Lualaba.", "Wichtiges Zentrum für Kupfer und Kobalt.", "Industrialisierung begann um 1901.", "Mit dem Namen Kolwesi/Kolwezi in älteren Quellen belegt.", "Ort des bekannten Kolwezi-Konflikts von 1978.", "Stadt auf einer trockenen Hochfläche."]
+      de: ["Wichtiges Zentrum für Kupfer und Kobalt.", "Industrialisierung begann um 1901.", "Mit dem Namen Kolwesi/Kolwezi in älteren Quellen belegt.", "Ort des bekannten Kolwezi-Konflikts von 1978.", "Stadt auf einer trockenen Hochfläche."]
     }
   },
     description: {
@@ -402,7 +402,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Site of the Tenke Fungurume Mining operation.", "Vital hub for large-scale copper and cobalt production.", "Located along the central railway corridor in the mining belt.", "Rapid urban growth centered on industrial employment.", "Critical to the DRC's position in the global mining sector.", "Infrastructure heavily reliant on industrial and logistical support."],
-      de: ["Stadt in der Provinz Lualaba.", "Teil des Tenke-Fungurume-Minenraums.", "Kupfer- und Kobaltförderung prägen den Ort.", "Wachstum durch industrielle Bergbauprojekte.", "Lage im südöstlichen Katanga-Kupfergürtel.", "Enge Verbindung zu Tenke Fungurume Mining."]
+      de: ["Teil des Tenke-Fungurume-Minenraums.", "Kupfer- und Kobaltförderung prägen den Ort.", "Wachstum durch industrielle Bergbauprojekte.", "Lage im südöstlichen Katanga-Kupfergürtel.", "Enge Verbindung zu Tenke Fungurume Mining."]
     }
   },
     description: {
@@ -437,7 +437,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Important transit point on the railway line in Lualaba province.", "Facilitates transport of copper and cobalt ores.", "Strategically located between major industrial mining hubs.", "Historically tied to the development of Congolese railway infrastructure.", "Serves as a service node for transport and mining industries.", "Regionally significant for facilitating regional trade flows."],
-      de: ["Verwaltungszentrum des Territoriums Mutshatsha.", "Liegt in der Provinz Lualaba.", "Nahe den Grenzen zu Sambia und Angola.", "Teil des südwestlichen Grenzraums des Landes.", "Wichtiger Ort zwischen ländlichem Raum und Bergbauachsen.", "Verbunden mit den Verkehrswegen Richtung Kolwezi und Dilolo."]
+      de: ["Verwaltungszentrum des Territoriums Mutshatsha.", "Nahe den Grenzen zu Sambia und Angola.", "Teil des südwestlichen Grenzraums des Landes.", "Wichtiger Ort zwischen ländlichem Raum und Bergbauachsen.", "Verbunden mit den Verkehrswegen Richtung Kolwezi und Dilolo."]
     }
   },
     description: {
@@ -472,7 +472,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Key junction for the national railway network.", "Administrative center of the Haut-Lomami province.", "Historically significant military and transit base.", "Located at a central crossroads for regional transport.", "Supports a mix of agricultural and service-based local economies.", "Serves as a gateway for travel between southern and central DRC."],
-      de: ["Hauptstadt von Haut-Lomami.", "Wichtiger Eisenbahnknoten im Landesnetz.", "Drei Bahnrichtungen: Norden, Westen und Südosten.", "Es gibt einen zivilen Flughafen und eine Militärbasis.", "Lage an der Lubumbashi-Ilebo-Bahn.", "Verbindung nach Kindu und Kalemie."]
+      de: ["Wichtiger Eisenbahnknoten im Landesnetz.", "Drei Bahnrichtungen: Norden, Westen und Südosten.", "Es gibt einen zivilen Flughafen und eine Militärbasis.", "Lage an der Lubumbashi-Ilebo-Bahn.", "Verbindung nach Kindu und Kalemie."]
     }
   },
     description: {
@@ -506,8 +506,8 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       de: "Bukama liegt in Haut-Lomami am Lualaba-Fluss und ist für die Wasserwege des Landes ein wichtiger Scharnierpunkt. Hier wird der Flussabschnitt für große Strecken schiffbar, bevor sich im Upemba-Becken eine Kette aus Seen und Sümpfen öffnet. Bukama ist damit nicht nur eine Stadt, sondern eine Art Übergang zwischen Fluss, Seenlandschaft und Binnenverkehr. Genau diese Lage erklärt auch, warum der Ort in Karten und Reiseberichten immer wieder auftaucht: als Punkt, an dem Wassertransport, Bahn und regionale Versorgung aufeinandertreffen. Geografie K7 — Flusssysteme und Binnenverkehr."
     },
     factsAdvanced: {
-      en: ["Situated on the Lualaba River.", "Historically important river port and rail terminal.", "Provides multimodal transport links for the Haut-Lomami region.", "Regional center for agricultural market interaction.", "Located along important internal trade corridors.", "Supports regional connectivity through its transit infrastructure."],
-      de: ["Stadt in der Provinz Haut-Lomami.", "Lage am Lualaba-Fluss.", "Ab Bukama wird der Fluss über lange Strecken schiffbar.", "Das Upemba-Becken beginnt südlich des Ortes.", "Verbindung zu den Seen Upemba und Kisale.", "Wichtiger Punkt für Fluss- und Bahnverkehr."]
+      en: ["Historically important river port and rail terminal.", "Provides multimodal transport links for the Haut-Lomami region.", "Regional center for agricultural market interaction.", "Located along important internal trade corridors.", "Supports regional connectivity through its transit infrastructure."],
+      de: ["Lage am Lualaba-Fluss.", "Ab Bukama wird der Fluss über lange Strecken schiffbar.", "Das Upemba-Becken beginnt südlich des Ortes.", "Verbindung zu den Seen Upemba und Kisale.", "Wichtiger Punkt für Fluss- und Bahnverkehr."]
     }
   },
     description: {
@@ -577,7 +577,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located on the western shore of Lake Tanganyika.", "Major port connecting DRC to Tanzania.", "Key hub for regional trade and lake-based logistics.", "Significant center for the fishing industry in Lake Tanganyika.", "Capital of the Tanganyika province.", "Gateway for eastern trade and regional economic interaction."],
-      de: ["Hauptstadt von Tanganyika.", "Lage am westlichen Ufer des Tanganjikasees.", "Frühere Namen: Albertville und Albertstad.", "Wichtiger Hafen- und Handelsort.", "Kiswahili ist die wichtigste Alltagssprache.", "Anbindung an den Seehandel Richtung Tansania."]
+      de: ["Lage am westlichen Ufer des Tanganjikasees.", "Frühere Namen: Albertville und Albertstad.", "Wichtiger Hafen- und Handelsort.", "Kiswahili ist die wichtigste Alltagssprache.", "Anbindung an den Seehandel Richtung Tansania."]
     }
   },
     description: {
@@ -612,7 +612,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Situated on the Lualaba River.", "Famous for the 'Gates of Hell' river rapids.", "Historic site for river exploration and navigation challenges.", "Essential local node for river transport and commerce.", "Regional center for agricultural and service activities in Tanganyika.", "Known for its strategic position on the river's upper course."],
-      de: ["Stadt in der Provinz Tanganyika.", "Lage am Lualaba-Fluss.", "Kongolo-Brücke überquert den Fluss.", "Brücke dient Bahn- und Straßenverkehr.", "Wichtiger Punkt auf dem nationalen Schienennetz.", "Der Fluss wird bei Kongolo landschaftlich enger und schwieriger."]
+      de: ["Lage am Lualaba-Fluss.", "Kongolo-Brücke überquert den Fluss.", "Brücke dient Bahn- und Straßenverkehr.", "Wichtiger Punkt auf dem nationalen Schienennetz.", "Der Fluss wird bei Kongolo landschaftlich enger und schwieriger."]
     }
   },
     description: {
@@ -647,7 +647,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Renowned for significant tin, tantalum, and lithium deposits.", "Associated with the historic Kitotolo mine complex.", "Key site for mineral extraction in Tanganyika province.", "Focus of ongoing international geological exploration.", "Serves as an industrial hub within the region.", "Population linked to the mining and service sectors."],
-      de: ["Stadt in der Provinz Tanganyika.", "Manono-Kitolo war ein historisches Bergbaugebiet.", "Dort wurden Zinn und Coltan gefördert.", "Das Gebiet enthält große Lithiumvorkommen.", "Die Mine wurde bis in die späten 1970er-Jahre genutzt.", "Wichtiges Beispiel für Batterierohstoffe im Kongo."]
+      de: ["Manono-Kitolo war ein historisches Bergbaugebiet.", "Dort wurden Zinn und Coltan gefördert.", "Das Gebiet enthält große Lithiumvorkommen.", "Die Mine wurde bis in die späten 1970er-Jahre genutzt.", "Wichtiges Beispiel für Batterierohstoffe im Kongo."]
     }
   },
     description: {
@@ -682,7 +682,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Capital of the South Kivu province.", "Strategically located on the southern shores of Lake Kivu.", "Significant regional center for education and healthcare.", "Gateway for cross-border trade with Rwanda.", "Known for its picturesque hilly landscape and lakeside views.", "Crucial administrative and commercial hub in eastern DRC."],
-      de: ["Hauptstadt von Süd-Kivu.", "Lage am südwestlichen Ufer des Kivussees.", "Gegenüber liegt Cyangugu in Ruanda.", "Getrennt durch den Ruzizi-Fluss.", "Früherer Name: Costermansville.", "Wichtiger Verwaltungs- und Handelsort im Osten des Landes."]
+      de: ["Lage am südwestlichen Ufer des Kivussees.", "Gegenüber liegt Cyangugu in Ruanda.", "Getrennt durch den Ruzizi-Fluss.", "Früherer Name: Costermansville.", "Wichtiger Verwaltungs- und Handelsort im Osten des Landes."]
     }
   },
     description: {
@@ -1380,7 +1380,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Mongala.", "Geburtsort von Mobutu Sese Seko.", "Bevölkerung überwiegend aus dem Volk der Ngombe.", "Wichtiger Flusshafen für den Verkehr zwischen Mbandaka und Kisangani.", "Sitz einer historisch bedeutenden katholischen Mission."],
       hu: ["Mongala tartomány fővárosa.", "Mobutu Sese Seko szülőhelye.", "Lakossága főként a ngombe néphez tartozik.", "Fontos folyami kikötő az Mbandaka–Kisangani útvonalon.", "Történelmileg jelentős katolikus misszió helyszíne."],
-      ro: ["Capitala provinciei Mongala.", "Situat pe malul nordic al fluviului Congo.", "Locul de naștere al lui Mobutu Sese Seko.", "Populația este în mare parte din etnia Ngombe.", "Port fluvial important pe ruta Mbandaka–Kisangani.", "Sediu istoric al unei importante misiuni catolice."],
+      ro: ["Situat pe malul nordic al fluviului Congo.", "Locul de naștere al lui Mobutu Sese Seko.", "Populația este în mare parte din etnia Ngombe.", "Port fluvial important pe ruta Mbandaka–Kisangani.", "Sediu istoric al unei importante misiuni catolice."],
       en: ["Capital of Mongala province.", "Situated on the northern bank of the Congo River.", "Birthplace of Mobutu Sese Seko.", "Population mostly belongs to the Ngombe people.", "Important river port on the Mbandaka–Kisangani route.", "Site of a historically significant Catholic mission."]
     }
   },
@@ -1524,7 +1524,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Équateur.", "Liegt direkt am Äquator am Kongo-Fluss.", "In der Nähe befindet sich der 1900 gegründete Botanische Garten Eala.", "Wichtiger Flusshafen zwischen Kinshasa und Kisangani.", "Wirtschaft auf Flusstransport, Fischerei und Palmöl ausgerichtet."],
       hu: ["Az Équateur tartomány fővárosa.", "A Kongó folyón, közvetlenül az Egyenlítő mentén fekszik.", "Korábbi neve Coquilhatville volt.", "A közelben található az 1900-ban alapított Eala Botanikus Kert.", "Fontos folyami kikötő Kinshasa és Kisangani között.", "Gazdasága a folyami közlekedésre, a halászatra és a pálmaolajra épül."],
-      ro: ["Capitala provinciei Équateur.", "Situat pe fluviul Congo, exact pe Ecuator.", "În apropiere se află Grădina Botanică Eala, fondată în 1900.", "Port fluvial important între Kinshasa și Kisangani.", "Economia se bazează pe transport fluvial, pescuit și ulei de palmier."],
+      ro: ["Situat pe fluviul Congo, exact pe Ecuator.", "În apropiere se află Grădina Botanică Eala, fondată în 1900.", "Port fluvial important între Kinshasa și Kisangani.", "Economia se bazează pe transport fluvial, pescuit și ulei de palmier."],
       en: ["Capital of Équateur province.", "Located on the Congo River right at the Equator.", "Near the Eala Botanical Garden, founded in 1900.", "Important river port between Kinshasa and Kisangani.", "Economy based on river transport, fishing, and palm oil."]
     }
   },
@@ -1633,7 +1633,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       de: ["Hauptstadt der Provinz Tshuapa.", "Liegt am Tshuapa-Fluss, einem Nebenfluss des Kongo.", "Mitten im äquatorialen Regenwald gelegen.", "Verfügt über einen kleinen Inlandsflughafen.", "Provinz Tshuapa ist Teil des Bonobo-Lebensraums."],
       hu: ["Tshuapa tartomány fővárosa.", "A Tshuapa folyón fekszik, amely a Kongó mellékfolyója.", "Egyenlítői esőerdő közepén található.", "Tshuapa tartomány a bonobók élőhelyének része."],
       ro: ["Capitala provinciei Tshuapa.", "Situat pe râul Tshuapa, afluent al Congoului.", "Aflat în mijlocul pădurii tropicale ecuatoriale.", "Provincia Tshuapa face parte din habitatul bonobo."],
-      en: ["Capital of Tshuapa province.", "Located on the Tshuapa River, a tributary of the Congo.", "Sits in the heart of the equatorial rainforest.", "Tshuapa province is part of the bonobo habitat."]
+      en: ["Located on the Tshuapa River, a tributary of the Congo.", "Sits in the heart of the equatorial rainforest.", "Tshuapa province is part of the bonobo habitat."]
     }
   },
   {
@@ -1921,7 +1921,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       de: ["Hauptstadt der Provinz Kasaï-Oriental.", "Eine der größten Städte der DR Kongo nach Bevölkerung.", "Globales Zentrum für Industriediamanten.", "Entstand rund um die Bergbaugesellschaft MIBA.", "Hat nur eine sehr begrenzte befestigte Infrastruktur."],
       hu: ["Kasaï-Oriental tartomány fővárosa.", "A KDK egyik legnépesebb városa.", "Az ipari gyémántok globális központja.", "A MIBA bányavállalat köré épült.", "A gyémántbumm idején gyorsan nőtt.", "A burkolt infrastruktúra mértéke nagyon korlátozott."],
       ro: ["Capitala provinciei Kasaï-Oriental.", "Unul dintre cele mai populate orașe din RD Congo.", "Centru global pentru diamantele industriale.", "S-a dezvoltat în jurul companiei miniere MIBA."],
-      en: ["Capital of Kasaï-Oriental province.", "One of the most populous cities in the DRC.", "Global center for industrial diamonds.", "Grew up around the MIBA mining company.", "Expanded rapidly during the diamond boom."]
+      en: ["Capital of Kasaï-Oriental province.", "Global center for industrial diamonds.", "Grew up around the MIBA mining company.", "Expanded rapidly during the diamond boom."]
     }
   },
   {
@@ -2064,7 +2064,7 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Hauptstadt der Provinz Sankuru.", "Liegt am Sankuru-Fluss, einem Nebenfluss des Kasaï.", "Im 19. Jahrhundert wichtiger Posten des Kongo-Freistaats.", "Wirtschaft beruht auf Fischerei, Landwirtschaft und Flusshandel.", "Umgeben von dichten Wäldern."],
       hu: ["Sankuru tartomány fővárosa.", "A Sankuru folyó partján fekszik, amely a Kasaï mellékfolyója.", "A 19. században a Kongói Szabadállam fontos állomása volt.", "Folyón keresztül kapcsolódik a Kasai-medencéhez.", "Gazdasága a halászatra, mezőgazdaságra és folyami kereskedelemre épül."],
-      ro: ["Capitala provinciei Sankuru.", "Situat pe râul Sankuru, afluent al Kasaï.", "În secolul XIX, important post al Statului Liber Congo.", "Conectat prin râu la bazinul Kasai.", "Economia se bazează pe pescuit, agricultură și comerț fluvial."],
+      ro: ["Situat pe râul Sankuru, afluent al Kasaï.", "În secolul XIX, important post al Statului Liber Congo.", "Conectat prin râu la bazinul Kasai.", "Economia se bazează pe pescuit, agricultură și comerț fluvial."],
       en: ["Capital of Sankuru province.", "Situated on the Sankuru River, a tributary of the Kasaï.", "Important Congo Free State post in the 19th century.", "Economy based on fishing, agriculture, and river trade."]
     }
   },

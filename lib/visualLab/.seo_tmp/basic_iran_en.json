@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Iran",
+  "files": [
+    "lib/visualLab/data/poiExtraIranLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "azadi-tower-landmarks-v2",
+      "description": "The Azadi Tower is a prominent monument in Tehran, symbolizing the gateway to the city and combining traditional Sassanid and Islamic architectural styles.",
+      "facts": [
+        "Inaugurated in 1971",
+        "Stands 45 meters tall",
+        "Clad in over 8,000 marble blocks",
+        "Designed by architect Hossein Amanat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "lang": "de",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "zelten-oil-field-economic-v2", "description": "Das Zelten-Ölfeld war die erste große Ölentdeckung in Libyen und bleibt ein Eckpfeiler der nationalen Wirtschaft.", "facts": ["Erstes großes Ölfeld", "Syrte-Becken", "Wirtschaftliches Rückgrat"] },
+    { "id": "ly-karamanli-mosque-history-v2", "description": "Die Karamanli-Moschee ist ein bedeutendes historisches Gotteshaus in Tripolis, erbaut während der Karamanli-Dynastie.", "facts": ["Tripolis Altstadt", "Karamanli-Dynastie", "Historische Moschee"] },
+    { "id": "corinthia-hotel-tripoli-landmarks-v2", "description": "Das Corinthia Hotel ist ein markantes Wahrzeichen von Tripolis und gilt als eines der luxuriösesten Hotels der Stadt.", "facts": ["Luxushotel", "Tripolis Skyline", "Modernes Wahrzeichen"] },
+    { "id": "jamal-abdul-nasser-mosque-landmarks-v2", "description": "Die Jamal-Abdul-Nasser-Moschee ist eine zentrale Moschee in Tripolis, die in einer ehemaligen Kathedrale untergebracht ist.", "facts": ["Zentrale Moschee", "Ehemalige Kathedrale", "Tripolis Zentrum"] },
+    { "id": "tripoli-stadium-landmarks-v2", "description": "Das Tripolis-Stadion ist die größte Sportarena der Hauptstadt und Austragungsort wichtiger Fußballspiele.", "facts": ["Nationalstadion", "Tripolis Stadt", "Sportzentrum"] },
+    { "id": "tibesti-hotel-benghazi-landmarks-v2", "description": "Das Tibesti Hotel ist ein bekanntes Hotel-Wahrzeichen in Bengasi, der zweitgrößten Stadt Libyens.", "facts": ["Bengasi Wahrzeichen", "Luxusunterkunft", "Ostlibyen"] },
+    { "id": "ras-lanuf-refinery-landmarks-v2", "description": "Die Ras-Lanuf-Raffinerie ist eine bedeutende Industrieanlage am Golf von Syrte, die entscheidend für die Ölverarbeitung ist.", "facts": ["Ölraffinerie", "Golf von Syrte", "Industriezentrum"] },
+    { "id": "sabha-airport-terminal-landmarks-v2", "description": "Das Terminal des Flughafens Sabha ist ein wichtiges architektonisches und logistisches Tor zur Wüstenregion Fezzan.", "facts": ["Flughafen Sabha", "Tor zum Fezzan", "Regionale Logistik"] },
+    { "id": "benghazi-university-campus-landmarks-v2", "description": "Der Campus der Universität Bengasi ist ein bedeutendes Bildungszentrum mit markanter Architektur in Ostlibyen.", "facts": ["Universität Bengasi", "Bildungszentrum", "Moderne Architektur"] },
+    { "id": "al-majidiya-mosque-tripoli-landmarks-v2", "description": "Die Al-Majidiya-Moschee ist eine historische Moschee in der Altstadt von Tripolis mit großer kultureller Bedeutung.", "facts": ["Altstadt Tripolis", "Islamisches Erbe", "Historisches Bauwerk"] },
+    { "id": "mizdah-plateau-nature-v2", "description": "Das Mizdah-Plateau ist ein weites Kalksteinplateau im Westen Libyens, bekannt für seine karge Schönheit.", "facts": ["Kalksteinplateau", "Westlibyen", "Aride Landschaft"] },
+    { "id": "sarir-tanezrouft-nature-v2", "description": "Sarir Tanezrouft ist eine extrem flache und trockene Wüstenebene im südlichen Teil der Sahara.", "facts": ["Wüstenebene", "Extreme Trockenheit", "Südliche Sahara"] },
+    { "id": "gargaf-desert-nature-v2", "description": "Die Gargaf-Wüste ist geprägt durch weite Steinplateaus und tiefe, trockene Wadis im Herzen Libyens.", "facts": ["Steinwüste", "Zentrallibyen", "Hamada-Landschaft"] },
+    { "id": "cyrenaica-coast-nature-v2", "description": "Die Küste der Cyrenaika bietet grüne mediterrane Landschaften und steile Klippen am Mittelmeer.", "facts": ["Mittelmeerküste", "Grüne Landschaften", "Nordostlibyen"] }
+  ]
+}

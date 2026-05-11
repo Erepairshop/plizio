@@ -1,0 +1,61 @@
+
+{
+  "lang": "ro",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hersheypark-life-v2",
+      "description": "Hersheypark este un parc tematic de familie situat în Hershey, Pennsylvania, cu o tematică bazată pe ciocolata Hershey.",
+      "facts": ["Fondat inițial pentru angajații Hershey", "Are peste 70 de atracții și roller-coastere", "Include o grădină zoologică și un parc acvatic"]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "Acvariul Shedd din Chicago este unul dintre cele mai mari acvarii interioare din lume, găzduind peste 32.000 de animale acvatice.",
+      "facts": ["Deschis în 1930", "Atracție populară pe malul lacului Michigan", "Expoziții renumite includ Amazon Rising și Wild Reef"]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "Parcul Național Rocky Mountain din Colorado impresionează prin vârfuri montane înalte, faună abundentă și șoseaua spectaculoasă Trail Ridge Road.",
+      "facts": ["Trail Ridge Road atinge peste 3.700 de metri", "Are peste 100 de vârfuri de peste 3.300 m", "Un paradis pentru drumeții și observarea vieții sălbatice"]
+    },
+    {
+      "id": "legoland-california-life-v2",
+      "description": "Legoland California este un parc tematic din Carlsbad, bazat pe jucăriile de construcție Lego, destinat familiilor cu copii mici.",
+      "facts": ["Primul parc Legoland din afara Europei", "Include Miniland USA, cu machete din piese Lego", "Are un parc acvatic și un acvariu Sea Life"]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "Parcul Național Grand Teton din Wyoming este renumit pentru lanțul muntos Teton, ale cărui vârfuri dramatice se înalță abrupt deasupra văii Jackson Hole.",
+      "facts": ["Nu are poale, ceea ce face munții impunători", "Popular pentru alpinism, drumeții și pescuit", "Râul Snake șerpuiește prin parc"]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "Parcul Național Zion din Utah este faimos pentru canionul său adânc și stâncile masive de gresie, de culori crem, roz și roșu.",
+      "facts": ["Canionul Zion are 24 km lungime", "Râul Virgin a modelat peisajul", "Trasee celebre includ The Narrows și Angels Landing"]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "Parcul Național Great Smoky Mountains, la granița dintre Carolina de Nord și Tennessee, este cel mai vizitat parc național din SUA, cunoscut pentru biodiversitatea sa.",
+      "facts": ["Renumit pentru ceața sa caracteristică", "Acasă pentru o diversitate uimitoare de plante și animale", "Are peste 1.300 km de trasee de drumeție"]
+    },
+    {
+      "id": "blueridge-mountains-relief-v2",
+      "description": "Munții Blue Ridge sunt un lanț muntos din estul Statelor Unite, parte a Apalașilor, cunoscuți pentru nuanța lor albăstruie văzută de la distanță.",
+      "facts": ["Se întind de la Pennsylvania la Georgia", "Traversați de Blue Ridge Parkway", "O destinație populară pentru peisajele de toamnă"]
+    },
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "Podișul Colorado este o regiune mare din sud-vestul SUA, renumită pentru parcurile sale naționale și canioanele adânci, inclusiv Marele Canion.",
+      "facts": ["Acoperă patru state (AZ, UT, CO, NM)", "Modelat de eroziunea râului Colorado", "Peisaj deșertic înalt, cu mese și butte"]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "Munții Chisos, situați în Parcul Național Big Bend din Texas, sunt singurul lanț muntos conținut în întregime într-un parc național din SUA.",
+      "facts": ["Formați din activitate vulcanică", "Oferă un habitat montan în mijlocul deșertului", "Vârful Emory este cel mai înalt punct"]
+    }
+  ]
+}

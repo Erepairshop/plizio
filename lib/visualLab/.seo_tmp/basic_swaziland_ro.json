@@ -1,0 +1,86 @@
+{
+  "lang": "ro",
+  "country": "Swaziland",
+  "files": [
+    "lib/visualLab/data/poiExtraSwazilandCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSwazilandReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "matata-cities-v2",
+      "description": "Matata este o localitate din Eswatini, situată într-o zonă cu vegetație specifică savanei. Este un nod local important pentru comunitățile din regiunea respectivă.",
+      "facts": ["Localitate în Eswatini", "Regiunea Lubombo", "Populație rurală", "Climat subtropical"]
+    },
+    {
+      "id": "mankayane-cities-v2",
+      "description": "Mankayane este un orășel situat în vestul țării, cunoscut pentru rolul său de centru administrativ local și de tranzit. Orașul se află într-o zonă de dealuri, oferind acces către zonele mai înalte ale regatului.",
+      "facts": ["Situat în vestul Eswatini", "Centru administrativ local", "Altitudine medie", "Conectat la drumuri principale"]
+    },
+    {
+      "id": "granvalley-cities-v2",
+      "description": "Granvalley reprezintă o așezare din Eswatini, caracterizată prin activități agricole specifice văilor fertile. Zona este cunoscută pentru peisajul său verde și producția agricolă locală.",
+      "facts": ["Așezare agricolă", "Vale fertilă", "Economie rurală", "Peisaj montan"]
+    },
+    {
+      "id": "abercorn-cities-v2",
+      "description": "Abercorn este o localitate situată în Eswatini, integrată în peisajul rural al țării. Zona este caracterizată prin climă temperată de altitudine și activități tradiționale.",
+      "facts": ["Localitate rurală", "Regiunea Hhohho", "Climat montan", "Agricultură de subzistență"]
+    },
+    {
+      "id": "swaziland-national-museum-landmarks-v2",
+      "description": "Muzeul Național al Eswatini din Lobamba păstrează moștenirea culturală și istorică a poporului swazi. Instituția expune obiecte tradiționale, costume și mărturii ale evoluției regatului.",
+      "facts": ["Situat în Lobamba", "Centru cultural național", "Istorie swazi", "Colecții etnografice"]
+    },
+    {
+      "id": "dlangeni-hills-relief-v2",
+      "description": "Dealurile Dlangeni sunt o formațiune muntoasă care domină peisajul din centrul Eswatini. Aceste înălțimi sunt importante pentru biodiversitatea locală și pentru protecția solului.",
+      "facts": ["Formațiune muntoasă", "Centrul Eswatini", "Biodiversitate", "Eroziune redusă"]
+    },
+    {
+      "id": "makonjwa-mountains-relief-v2",
+      "description": "Munții Makonjwa formează un lanț muntos impresionant, recunoscut la nivel mondial pentru formațiunile geologice vechi de miliarde de ani. Această zonă este un sit de o importanță geologică excepțională.",
+      "facts": ["Geologie antică", "Lanț muntos", "Sit de importanță mondială", "Bogății minerale"]
+    },
+    {
+      "id": "mahamba-mountain-relief-v2",
+      "description": "Muntele Mahamba se află în apropierea graniței de sud a țării, fiind o importantă punct de reper geografic. Zona sa este marcată de relief accidentat și o vegetație specifică de tufișuri.",
+      "facts": ["Granița de sud", "Relief accidentat", "Punct de reper", "Vegetație de tufiș"]
+    },
+    {
+      "id": "lubombo-plateau-relief-v2",
+      "description": "Podișul Lubombo este o regiune geografică distinctă care traversează estul Eswatini, formând un escarpament natural. Platoul găzduiește ecosisteme variate, de la păduri uscate până la savane.",
+      "facts": ["Traversează estul țării", "Escarpament natural", "Ecosisteme variate", "Regiune geografică"]
+    },
+    {
+      "id": "highveld-escarpment-relief-v2",
+      "description": "Escarpamentul Highveld reprezintă zona de tranziție între podișul înalt și zonele joase ale țării. Este o regiune cu pantă abruptă, cu precipitații frecvente care susțin vegetația bogată.",
+      "facts": ["Zonă de tranziție", "Pantă abruptă", "Precipitații ridicate", "Vegetație luxuriantă"]
+    },
+    {
+      "id": "middleveld-hills-relief-v2",
+      "description": "Dealurile din Middleveld alcătuiesc inima agricolă a țării, fiind o zonă cu relief ondulat. Climatul temperat și solul fertil fac din această regiune centrul activităților agricole din Eswatini.",
+      "facts": ["Relief ondulat", "Inima agricolă", "Climat temperat", "Sol fertil"]
+    },
+    {
+      "id": "lowveld-plain-relief-v2",
+      "description": "Câmpiile Lowveld reprezintă regiunea de joasă altitudine a țării, caracterizată prin climat cald și uscat. Este o zonă extinsă de savană, ideală pentru rezervații naturale și agricultură extensivă.",
+      "facts": ["Altitudine joasă", "Climat cald și uscat", "Regiune de savană", "Potențial agricol"]
+    },
+    {
+      "id": "mhlambanyatsi-forest-relief-v2",
+      "description": "Pădurea Mhlambanyatsi este una dintre principalele zone forestiere plantate din Eswatini, contribuind semnificativ la economia națională prin industria lemnului. Suprafața sa acoperă dealuri verzi și văi.",
+      "facts": ["Pădure plantată", "Industria lemnului", "Relief deluros", "Importanță economică"]
+    },
+    {
+      "id": "sandlane-forest-relief-v2",
+      "description": "Pădurea Sandlane este o zonă împădurită din Eswatini, situată într-un teren variat care susține ecosisteme locale. Aceasta servește drept habitat natural pentru diverse specii de plante și animale.",
+      "facts": ["Zonă împădurită", "Habitat natural", "Biodiversitate locală", "Teren variat"]
+    },
+    {
+      "id": "gege-forest-relief-v2",
+      "description": "Pădurea Gege este situată în regiunile înalte din sud-vestul Eswatini. Zona prezintă un peisaj deluros, cu vegetație adaptată climei montane locale și condițiilor specifice regiunii.",
+      "facts": ["Sud-vestul țării", "Peisaj deluros", "Climat montan", "Vegetație adaptată"]
+    }
+  ]
+}

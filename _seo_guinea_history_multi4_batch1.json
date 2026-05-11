@@ -1,0 +1,71 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "mausoleum-camayenne-history-v2",
+      "descriptionAdvancedDe": "Das Camayenne-Mausoleum in Conakry ist eine der wichtigsten Gedenkstätten Guineas und symbolisiert die Souveränität und den Nationalstolz des Landes. Es beherbergt die sterblichen Überreste von Ahmed Sékou Touré, dem ersten Präsidenten nach der Unabhängigkeit 1958, der das Land über 26 Jahre lang mit starker Hand regierte. Neben ihm ruht hier auch Samory Touré, ein legendärer westafrikanischer Herrscher und Widerstandskämpfer des 19. Jahrhunderts, dessen Kampf gegen die französische Kolonialisierung tief im nationalen Gedächtnis verankert ist. Die Anlage dient als Ort staatlicher Zeremonien und erinnert die guineische Bevölkerung an die Schlüsselmomente ihres Strebens nach Selbstbestimmung und an die prägenden Figuren ihrer Geschichte.",
+      "descriptionAdvancedHu": "A conakryi Camayenne-mauzóleum Guinea egyik legfontosabb emlékhelye, amely az ország szuverenitását és nemzeti büszkeségét szimbolizálja. Itt nyugszanak Ahmed Sékou Tourénak, az 1958-as függetlenség utáni első elnöknek a földi maradványai, aki 26 éven át erős kézzel vezette az országot. Mellette nyugszik Samory Touré, a 19. század legendás nyugat-afrikai uralkodója és ellenállási harcosa, akinek a francia gyarmatosítás elleni küzdelme mélyen beágyazódott a nemzeti emlékezetbe. A létesítmény állami szertartások helyszínéül szolgál, és a guineaiakat önrendelkezési törekvéseik kulcsfontosságú pillanataira és történelmük meghatározó alakjaira emlékezteti.",
+      "descriptionAdvancedRo": "Mausoleul Camayenne din Conakry este unul dintre cele mai importante situri comemorative din Guineea, simbolizând suveranitatea și mândria națională a țării. Acesta adăpostește rămășițele pământești ale lui Ahmed Sékou Touré, primul președinte după independența din 1958, care a condus țara cu o mână de fier timp de peste 26 de ani. Alături de el se odihnește Samory Touré, un legendar conducător și luptător al rezistenței vest-africane din secolul al XIX-lea, a cărui luptă împotriva colonizării franceze este adânc înrădăcinată în memoria națională. Complexul servește drept loc pentru ceremonii de stat și amintește poporului guineean de momentele cheie ale luptei pentru autodeterminare și de figurile marcante ale istoriei sale.",
+      "descriptionAdvancedEn": "The Camayenne Mausoleum in Conakry is one of Guinea's most important memorial sites, symbolizing the country's sovereignty and national pride. It houses the remains of Ahmed Sékou Touré, the first president after independence in 1958, who ruled the country with a firm hand for over 26 years. Alongside him rests Samory Touré, a legendary 19th-century West African ruler and resistance fighter whose struggle against French colonization is deeply embedded in the national memory. The complex serves as a venue for state ceremonies and reminds the Guinean people of the key moments in their quest for self-determination and the defining figures of their history.",
+      "factsAdvanced": [
+        "Letzte Ruhestätte von Präsident Ahmed Sékou Touré.",
+        "Grabstätte des Widerstandskämpfers Samory Touré.",
+        "Symbol der nationalen Unabhängigkeit Guineas.",
+        "Befindet sich im Stadtteil Camayenne in Conakry.",
+        "Ort für offizielle Gedenkveranstaltungen.",
+        "Sékou Touré regierte von 1958 bis 1984.",
+        "Samory Touré kämpfte im 19. Jahrhundert gegen Frankreich."
+      ]
+    },
+    {
+      "id": "almamy-yaya-tomb-history-v2",
+      "descriptionAdvancedDe": "Die Grabstätte von Almamy Yaya Diallo in Labé ist ein zentraler Ort der Erinnerung für die Fulbe-Gemeinschaft und die gesamte Nation. Alfa Yaya, wie er oft genannt wird, war ein einflussreicher Herrscher des Imamats Fouta Djallon im späten 19. und frühen 20. Jahrhundert. Er ist vor allem für seinen diplomatischen und strategischen Widerstand gegen das Vordringen der französischen Kolonialmacht bekannt. Obwohl er zunächst versuchte, durch Verträge die Autonomie seines Reiches zu sichern, wurde er von den Franzosen als Bedrohung angesehen, abgesetzt und ins Exil verbannt, wo er 1912 starb. Sein Grab in Labé ist heute ein Symbol des Stolzes und des Widerstandsgeistes des Fouta Djallon und ehrt sein Vermächtnis im Kampf um Souveränität.",
+      "descriptionAdvancedHu": "Almamy Yaya Diallo sírja Labéban a fulbe közösség és az egész nemzet emlékezetének központi helye. Alfa Yaya, ahogy gyakran nevezik, a Fouta Djallon Imámátus befolyásos uralkodója volt a 19. század végén és a 20. század elején. Leginkább a francia gyarmati hatalom előretörésével szembeni diplomáciai és stratégiai ellenállásáról ismert. Bár kezdetben szerződésekkel próbálta biztosítani birodalma autonómiáját, a franciák fenyegetésnek tekintették, letették a trónról és száműzetésbe kényszerítették, ahol 1912-ben meghalt. Sírja Labéban ma a Fouta Djallon büszkeségének és ellenállási szellemének szimbóluma, és a szuverenitásért folytatott küzdelemben szerzett öröksége előtt tiszteleg.",
+      "descriptionAdvancedRo": "Mormântul lui Almamy Yaya Diallo din Labé este un loc central de comemorare pentru comunitatea Fulbe și pentru întreaga națiune. Alfa Yaya, așa cum este adesea numit, a fost un conducător influent al Imamatului Fouta Djallon la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea. El este cunoscut în principal pentru rezistența sa diplomatică și strategică împotriva înaintării puterii coloniale franceze. Deși inițial a încercat să asigure autonomia imperiului său prin tratate, a fost considerat o amenințare de către francezi, a fost detronat și exilat, murind în 1912. Mormântul său din Labé este astăzi un simbol al mândriei și spiritului de rezistență al Fouta Djallon, onorându-i moștenirea în lupta pentru suveranitate.",
+      "descriptionAdvancedEn": "The tomb of Almamy Yaya Diallo in Labé is a central place of remembrance for the Fulbe community and the entire nation. Alfa Yaya, as he is often called, was an influential ruler of the Imamate of Fouta Djallon in the late 19th and early 20th centuries. He is best known for his diplomatic and strategic resistance against the advance of French colonial power. Although he initially tried to secure the autonomy of his empire through treaties, he was seen as a threat by the French, deposed, and exiled, where he died in 1912. His tomb in Labé is now a symbol of the pride and spirit of resistance of the Fouta Djallon, honoring his legacy in the struggle for sovereignty.",
+      "factsAdvanced": [
+        "Grab des Herrschers Alfa Yaya Diallo von Fouta Djallon.",
+        "Symbol des Widerstands gegen die französische Kolonisation.",
+        "Alfa Yaya starb 1912 im Exil.",
+        "Wichtige Gedenkstätte in der Stadt Labé.",
+        "Er war eine Schlüsselfigur in der Geschichte der Fulbe.",
+        "Die Stätte ehrt den Kampf um regionale Autonomie.",
+        "Das Fouta Djallon war ein bedeutendes Imamat in Westafrika."
+      ]
+    },
+    {
+      "id": "fort-boke-museum-history-v2",
+      "descriptionAdvancedDe": "Das Fort von Boké, erbaut 1878, ist ein eindringliches Zeugnis der französischen Kolonialpräsenz in Guinea und der dunklen Geschichte des Sklavenhandels in der Region. An strategisch günstiger Position am Rio Nuñez gelegen, diente das Fort dazu, die französischen Handelsinteressen zu schützen und die Kontrolle über das Hinterland zu sichern. Später wurde es zu einem Verwaltungszentrum. Heute beherbergt das Gebäude ein Museum, das die komplexe Geschichte der Region dokumentiert. Die Ausstellungen befassen sich mit den lokalen Kulturen, dem Widerstand gegen die Kolonialisierung und der tragischen Rolle, die der Hafen von Boké im transatlantischen Sklavenhandel spielte. Es ist ein wichtiger Ort für das historische Bewusstsein Guineas.",
+      "descriptionAdvancedHu": "A Bokéi Erőd, amely 1878-ban épült, a guineai francia gyarmati jelenlét és a rabszolga-kereskedelem sötét történelmének megrendítő tanúja. A Rio Nuñez stratégiai pontján elhelyezkedő erőd a francia kereskedelmi érdekek védelmét és a hátország feletti ellenőrzés biztosítását szolgálta. Később közigazgatási központtá vált. Ma az épületben egy múzeum működik, amely a régió összetett történelmét dokumentálja. A kiállítások a helyi kultúrákkal, a gyarmatosítás elleni ellenállással és a bokéi kikötőnek a transzatlanti rabszolga-kereskedelemben játszott tragikus szerepével foglalkoznak. Guinea történelmi tudatának fontos helyszíne.",
+      "descriptionAdvancedRo": "Fortul din Boké, construit în 1878, este o mărturie copleșitoare a prezenței coloniale franceze în Guineea și a istoriei întunecate a comerțului cu sclavi din regiune. Situat într-o poziție strategică pe Rio Nuñez, fortul a servit la protejarea intereselor comerciale franceze și la asigurarea controlului asupra hinterlandului. Ulterior, a devenit un centru administrativ. Astăzi, clădirea găzduiește un muzeu care documentează istoria complexă a regiunii. Expozițiile abordează culturile locale, rezistența împotriva colonizării și rolul tragic pe care portul Boké l-a jucat în comerțul transatlantic cu sclavi. Este un loc important pentru conștiința istorică a Guineei.",
+      "descriptionAdvancedEn": "The Fort of Boké, built in 1878, is a powerful testament to the French colonial presence in Guinea and the dark history of the slave trade in the region. Strategically located on the Rio Nuñez, the fort served to protect French commercial interests and secure control over the hinterland. It later became an administrative center. Today, the building houses a museum that documents the complex history of the region. The exhibitions deal with local cultures, resistance to colonization, and the tragic role the port of Boké played in the transatlantic slave trade. It is an important site for Guinea's historical consciousness.",
+      "factsAdvanced": [
+        "Erbaut 1878 von den französischen Kolonialherren.",
+        "Strategische Lage am Ufer des Rio Nuñez.",
+        "Diente ursprünglich der Sicherung von Handelsrouten.",
+        "Das Museum dokumentiert die Geschichte des Sklavenhandels.",
+        "Ein wichtiges Symbol der Kolonialarchitektur in Guinea.",
+        "Der Rio Nuñez war eine wichtige Route für den Handel.",
+        "Heute ein Ort der Aufklärung und des Gedenkens."
+      ]
+    },
+    {
+      "id": "sosso-bala-shrine-history-v2",
+      "descriptionAdvancedDe": "Das Heiligtum von Sosso-Bala in Niagassola beherbergt eines der heiligsten und ältesten Musikinstrumente Westafrikas. Der Sosso-Bala ist ein Balafon (ein hölzernes Xylophon) aus dem 13. Jahrhundert und gilt als das Originalinstrument des Königs Sumanguru Kanté, dem Herrscher des Sosso-Reiches. Der Legende nach wurde es nach Sumangurus Niederlage gegen Sundiata Keïta, den Gründer des Mali-Reiches, an die Griot-Familie Kouyaté übergeben. Seitdem wird es von Generation zu Generation weitergegeben. Das Instrument und die damit verbundenen mündlichen Überlieferungen wurden 2001 von der UNESCO als Meisterwerk des mündlichen und immateriellen Erbes der Menschheit anerkannt. Es ist ein lebendiges Symbol der Mandinka-Kultur und ihrer tiefen historischen Wurzeln.",
+      "descriptionAdvancedHu": "A niagassolai Sosso-Bala szentély Nyugat-Afrika egyik legszentebb és legrégebbi hangszerének ad otthont. A Sosso-Bala egy 13. századi balafon (fa xilofon), amelyet Sumanguru Kanté király, a Sosso Birodalom uralkodójának eredeti hangszereként tartanak számon. A legenda szerint Sumanguru veresége után, amelyet a Mali Birodalom alapítója, Szundiata Keita mért rá, a Kouyaté griot családhoz került. Azóta generációról generációra öröklődik. A hangszert és a hozzá kapcsolódó szóbeli hagyományokat az UNESCO 2001-ben az emberiség szellemi kulturális örökségének mesterműveként ismerte el. A mandinka kultúra és mély történelmi gyökereinek élő szimbóluma.",
+      "descriptionAdvancedRo": "Santuariul Sosso-Bala din Niagassola găzduiește unul dintre cele mai sacre și vechi instrumente muzicale din Africa de Vest. Sosso-Bala este un balafon (un xilofon din lemn) din secolul al XIII-lea și este considerat instrumentul original al regelui Sumanguru Kanté, conducătorul Imperiului Sosso. Legenda spune că, după înfrângerea lui Sumanguru de către Sundiata Keïta, fondatorul Imperiului Mali, acesta a fost încredințat familiei de griot Kouyaté. De atunci, a fost transmis din generație în generație. Instrumentul și tradițiile orale asociate au fost recunoscute de UNESCO în 2001 drept o capodoperă a patrimoniului oral și imaterial al umanității. Este un simbol viu al culturii Mandinka și al rădăcinilor sale istorice profunde.",
+      "descriptionAdvancedEn": "The Sosso-Bala Shrine in Niagassola houses one of West Africa's most sacred and ancient musical instruments. The Sosso-Bala is a 13th-century balafon (a wooden xylophone) and is considered the original instrument of King Sumanguru Kanté, the ruler of the Sosso Empire. According to legend, after Sumanguru's defeat by Sundiata Keïta, the founder of the Mali Empire, it was entrusted to the Kouyaté griot family. It has since been passed down from generation to generation. The instrument and its associated oral traditions were recognized by UNESCO in 2001 as a Masterpiece of the Oral and Intangible Heritage of Humanity. It is a living symbol of Mandinka culture and its deep historical roots.",
+      "factsAdvanced": [
+        "Heimat des heiligen Sosso-Bala Instruments aus dem 13. Jh.",
+        "Ursprünglich im Besitz von König Sumanguru Kanté.",
+        "UNESCO-Meisterwerk des immateriellen Kulturerbes.",
+        "Wird von der Kouyaté-Familie in Niagassola gehütet.",
+        "Symbol für die Kontinuität der Mandinka-Kultur.",
+        "Das Balafon ist ein zentrales Instrument der Griot-Tradition.",
+        "Verknüpft mit der Gründung des Mali-Reiches."
+      ]
+    }
+  ]
+}

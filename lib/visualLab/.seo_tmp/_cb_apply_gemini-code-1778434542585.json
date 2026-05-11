@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ivindo-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Ivindo-Fluss ist der bedeutendste Nebenfluss des Ogooué im Nordosten Gabuns und bildet das ökologische Rückgrat einer der unberührtesten Regenwaldregionen Afrikas. Er entspringt im Grenzgebiet zwischen Gabun und der Republik Kongo und fließt über hunderte Kilometer durch dichten Primärwald, bevor er bei Kan-Kan in den Ogooué mündet. Der Fluss ist weltweit bekannt für seine spektakulären Wasserfälle, allen voran die Kongou-Fälle, die zu den imposantesten Katarakten Zentralafrikas gehören. Das dunkle, teefarbene Wasser des Ivindo ist typisch für Schwarzwasserflüsse des Kongobeckens, reich an Huminsäuren und arm an Sedimenten. Diese chemische Zusammensetzung hat eine spezialisierte aquatische Fauna hervorgebracht, darunter zahlreiche endemische Fischarten. Entlang seiner Ufer erstreckt sich der Ivindo-Nationalpark, ein UNESCO-Welterbe, das als Refugium für Waldelefanten, Flusspferde und Gorillas dient. Die Navigation auf dem Ivindo ist aufgrund zahlreicher Stromschnellen und der dichten Ufervegetation eine Herausforderung und erfordert große Erfahrung der lokalen Bootsführer. Für die wissenschaftliche Forschung bietet der Flusslauf unschätzbare Einblicke in die ungestörte Dynamik tropischer Flusssysteme. Historisch gesehen war der Fluss eine wichtige Route für die Wanderungen der Bantu-Völker und bleibt bis heute eine lebensnotwendige Ressource für die lokalen Gemeinschaften, die von der Fischerei und dem Ökotourismus leben.",
+        "hu": "Az Ivindo-folyó Gabon északkeleti részének legfontosabb folyóvize, az Ogooué legnagyobb mellékfolyója, amely egyben az afrikai kontinens egyik legérintetlenebb esőerdei ökoszisztémájának tengelye. A folyó a Gabon és a Kongói Köztársaság határvidékén ered, és sűrű, elsődleges esőerdőkön keresztül kanyarog, amíg el nem éri az Ogoouét. Az Ivindo hírnevét elsősorban a rajta található monumentális vízeséseknek köszönheti, amelyek közül a Kongou-vízesés a leglátványosabb; ezt a helyet gyakran emlegetik „Közép-Afrika Iguazu-jaként”. A folyó vize jellegzetesen sötét, „fekete víz”, amely a magas huminsav-tartalomnak köszönhető, és kevés hordalékot szállít, ami sajátos vízi élővilágot eredményez. Az Ivindo-folyó mentén terül el az azonos nevű nemzeti park, amely az UNESCO világörökség része, és olyan ritka fajoknak nyújt menedéket, mint az erdei elefánt, a gorilla és a csimpánz. A folyó folyása rendkívül dinamikus, számos zúgó és katarakta tarkítja, ami megnehezíti a hajózást, de éppen ez az elszigeteltség óvta meg a vidéket az ipari kiaknázástól. A helyi lakosság számára a folyó szent és az élet forrása, a halászat és a modern ökoturizmus alapja. Tudományos szempontból az Ivindo a trópusi folyórendszerek egyik utolsó háborítatlan példája, ahol a természetes folyamatok emberi beavatkozás nélkül zajlanak.",
+        "ro": "Râul Ivindo este cel mai important afluent al fluviului Ogooué din nord-estul Gabonului și reprezintă axa ecologică a uneia dintre cele mai virgine regiuni de pădure tropicală din Africa. Izvorând din zona de frontieră dintre Gabon și Republica Congo, râul curge prin păduri primare dense înainte de a se vărsa în Ogooué. Ivindo este renumit la nivel mondial pentru cascadele sale spectaculoase, în special Cascada Kongou, considerată una dintre cele mai impunătoare din Africa Centrală datorită lățimii și debitului său. Apa râului are o culoare închisă, caracteristică râurilor de tip „blackwater”, fiind bogată în acizi humici și săracă în sedimente, ceea ce a dus la evoluția unei faune acvatice endemice. De-a lungul cursului său se întinde Parcul Național Ivindo, sit inclus în patrimoniul mondial UNESCO, care servește drept refugiu pentru elefanți de pădure, hipopotami și numeroase primate. Navigația pe Ivindo este dificilă din cauza numeroaselor praguri și cataracte, necesitând o cunoaștere profundă a curentului din partea localnicilor care folosesc pirogile. Din punct de vedere istoric, valea râului a fost o rută de migrație pentru populațiile Bantu și rămâne o sursă vitală de subzistență pentru comunitățile actuale prin pescuit și turism ecologic. Pentru cercetători, Ivindo oferă un laborator natural inestimabil pentru studierea dinamicii nealterate a sistemelor fluviale ecuatoriale.",
+        "en": "The Ivindo River is the most significant tributary of the Ogooué in northeastern Gabon, serving as the ecological backbone of one of Africa's most pristine rainforest regions. Originating in the borderlands between Gabon and the Republic of Congo, it flows through dense primary forest for hundreds of kilometers before joining the Ogooué. The river is globally renowned for its spectacular waterfalls, most notably the Kongou Falls, which are among the most impressive cataracts in Central Africa. The dark, tea-colored water of the Ivindo is typical of the blackwater rivers of the Congo Basin, rich in humic acids and low in sediment. This chemical composition has fostered a specialized aquatic fauna, including numerous endemic fish species. Along its banks lies the Ivindo National Park, a UNESCO World Heritage site that provides a sanctuary for forest elephants, hippos, and gorillas. Navigation on the Ivindo is challenging due to numerous rapids and dense riverbank vegetation, requiring great expertise from local boatmen. For scientific research, the river provides invaluable insights into the undisturbed dynamics of tropical river systems. Historically, the river was an important route for the migrations of Bantu peoples and remains a vital resource today for local communities who depend on fishing and ecotourism. It represents a rare example of a river system functioning entirely according to natural cycles."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Ivindo ist der größte und wasserreichste Nebenfluss des Ogooué.",
+          "Die Kongou-Fälle am Ivindo sind über 3 Kilometer breit.",
+          "Der Flusslauf liegt fast vollständig innerhalb geschützter Nationalparks.",
+          "Sein Wasser ist aufgrund von Waldhumus extrem dunkel gefärbt.",
+          "Er beherbergt seltene Süßwasserfische der Gattung Mormyridae.",
+          "Die Mündung in den Ogooué markiert eine wichtige biogeografische Grenze."
+        ],
+        "hu": [
+          "Az Ivindo a Kongou-vízesésen keresztül több mint 50 métert esik.",
+          "A folyó mente az UNESCO Világörökség része 2021 óta.",
+          "Vize rendkívül savas, ami megakadályozza a szúnyoglárvák elszaporodását.",
+          "A folyó középső szakasza csak gyalogosan vagy piroggal érhető el.",
+          "Fontos szerepet játszik az erdei elefántok szezonális vándorlásában.",
+          "Az Ivindo-medence a világ egyik legnagyobb szén-dioxid-elnyelője."
+        ],
+        "ro": [
+          "Râul traversează linia Ecuatorului în drumul său spre sud-vest.",
+          "Cascadele Mingouli și Kongou sunt principalele sale atracții naturale.",
+          "Debitul râului variază semnificativ între sezonul ploios și cel secetos.",
+          "Ivindo este o sursă majoră de hrană pentru satele Kota și Fang.",
+          "Este considerat unul dintre cele mai curate râuri de pe continent.",
+          "Albia sa este presărată cu numeroase insule acoperite de junglă virgină."
+        ],
+        "en": [
+          "The Ivindo River is famous for the thunderous Kongou and Mingouli Falls.",
+          "It flows through the heart of Gabon’s primary equatorial rainforest.",
+          "The river basin is a critical habitat for the endangered forest elephant.",
+          "Its blackwater chemistry supports unique endemic aquatic biodiversity.",
+          "The river is a primary access route for the remote Langoué Baï region.",
+          "It has been protected under the Ivindo National Park status since 2002."
+        ]
+      }
+    },
+    {
+      "id": "ngounie-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ngounié ist der zweitwichtigste Nebenfluss des Ogooué und durchfließt den südlichen und zentralen Teil Gabuns. Sie entspringt im Chaillu-Massiv und fließt in nördlicher Richtung, wobei sie die gleichnamige Provinz Ngounié prägt, bevor sie bei Lambaréné in den Ogooué mündet. Der Fluss spielt eine entscheidende Rolle in der wirtschaftlichen Geografie Gabuns, da sein Tal eine der fruchtbarsten Regionen des Landes für die Landwirtschaft darstellt. Historisch war die Ngounié ein bedeutender Transportweg für die Holzindustrie; riesige Flöße aus Okoumé-Holz wurden auf ihren Wassern flussabwärts manövriert. Die Landschaft entlang des Flusses ist abwechslungsreich und reicht von dichten Regenwäldern im Oberlauf bis hin zu offeneren Waldsavannen-Mosaiken in der Nähe von Mouila. Eine geologische Besonderheit sind die zahlreichen Karstphänomene und Höhlen in der Nähe des Flusses, sowie die beeindruckenden Fougamou-Stromschnellen. Die Ngounié ist zudem reich an Fischbeständen, die die Lebensgrundlage für viele Ufergemeinden bilden. Während der Regenzeit schwillt der Fluss massiv an und überflutet weite Uferbereiche, was zur Fruchtbarkeit der angrenzenden Ebenen beiträgt. Für Reisende bietet der Flusslauf authentische Einblicke in das ländliche Gabun, abseits der großen Küstenstädte. Der Schutz der Wasserqualität ist aufgrund der zunehmenden landwirtschaftlichen Nutzung und des Bergbaus in der Region ein wichtiges Thema der lokalen Umweltpolitik.",
+        "hu": "A Ngounié folyó Gabon második legjelentősebb mellékfolyója, amely az ország déli és középső részét szeli át. A Chaillu-masszívum hegyei között ered, és északi irányba tartva áthalad a róla elnevezett Ngounié tartományon, majd Lambaréné közelében egyesül az Ogooué-val. A folyó völgye Gabon egyik legfontosabb mezőgazdasági területe, ahol a termékeny hordalékos talaj kiváló feltételeket biztosít a termesztéshez. Történelmileg a Ngounié kulcsszerepet játszott a fakitermelésben; az értékes okoumé rönköket hatalmas tutajokba rendezve úsztatták le a folyón az óceáni kikötők felé. A folyó menti táj rendkívül változatos: a felső szakaszon meredek völgyek és zúgók jellemzik, míg Mouila környékén a meder kiszélesedik, és szavannás foltokkal tarkított erdők övezik. A Ngounié-folyón találhatók a híres Fougamou-zúgók, amelyek látványos víztömegeikkel a folyó erejét hirdetik. A folyó halfaunája gazdag, alapvető fehérjeforrást biztosítva a környékbeli falvak számára. Az esős évszakban a folyó szintje jelentősen megemelkedik, táplálva a part menti mocsárvidékeket. A Ngounié nemcsak gazdasági útvonal, hanem kulturális kapocs is a belső területek és a parti régiók között. A környezetvédelem számára a folyó tisztaságának megőrzése kiemelt feladat, különösen a környékbeli bányászati és intenzív mezőgazdasági tevékenységek fényében.",
+        "ro": "Râul Ngounié este al doilea cel mai important afluent al fluviului Ogooué, străbătând partea de sud și centrală a Gabonului. Izvorând din inima masivului Chaillu, acesta curge spre nord, dând numele provinciei pe care o traversează înainte de a se vărsa în Ogooué la sud de Lambaréné. Valea râului Ngounié este una dintre cele mai fertile zone agricole ale țării, fiind crucială pentru producția locală de alimente. Din punct de vedere istoric, râul a fost artera principală pentru transportul lemnului de okoumé, buștenii fiind legați în plute uriașe și ghidați pe curent spre aval. Peisajul riveran variază de la jungle montane abrupte în cursul superior, la un mozaic de pădure și savană în apropiere de orașul Mouila. O trăsătură geologică notabilă sunt pragurile de la Fougamou, unde cursul râului devine extrem de turbulent. Ngounié este bogat în resurse piscicole, susținând numeroase comunități locale de pescari. În timpul sezonului ploios, râul inundă câmpiile adiacente, depunând sedimente bogate care mențin productivitatea solului. Protejarea bazinului Ngounié este esențială pentru echilibrul hidrologic al întregului sistem Ogooué. Pentru turiști, râul oferă oportunități de navigare tradițională și observare a vieții rurale autentice gaboneze. Gestionarea durabilă a resurselor de apă este o provocare actuală, având în vedere expansiunea agro-industrială din regiune.",
+        "en": "The Ngounié River is the second most important tributary of the Ogooué, flowing through the southern and central parts of Gabon. Rising in the Chaillu Massif, it flows northward, defining the province that bears its name before joining the Ogooué south of Lambaréné. The Ngounié valley is one of the most fertile agricultural regions in Gabon, making it vital for national food production. Historically, the river served as a major transport artery for the timber industry, with massive rafts of okoumé logs being floated downstream to coastal ports. The landscape along the river is diverse, ranging from steep forested valleys in its upper reaches to forest-savanna mosaics near the city of Mouila. Notable geological features include the turbulent rapids of Fougamou and numerous karst formations in the surrounding hills. The river supports a wealth of fish species, providing a primary protein source for riverside communities. During the rainy season, the Ngounié swells significantly, flooding the surrounding plains and depositing nutrient-rich silt. The preservation of the Ngounié basin is critical for the hydrological balance of the entire Ogooué system. For travelers, the river offers a glimpse into Gabon’s rural heartland and the traditional lifestyles of the people living along its banks. Sustainable management of the river is currently a priority due to increasing industrial and agricultural activity in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Ngounié mündet bei Lambaréné in den Ogooué-Fluss.",
+          "Sie ist die Hauptverkehrsader der gleichnamigen Provinz Ngounié.",
+          "Die Stadt Mouila liegt direkt an den Ufern dieses Flusses.",
+          "Die Fougamou-Stromschnellen sind ein bekanntes Hindernis für die Schifffahrt.",
+          "Früher wurden riesige Holzflöße über Hunderte Kilometer auf ihr transportiert.",
+          "Der Fluss ist bekannt für seine hohe Population an Süßwasserwelsen."
+        ],
+        "hu": [
+          "A folyó a Chaillu-hegység kristályos kőzetei közül ered.",
+          "A Ngounié vízgyűjtője Gabon egyik legfontosabb rizstermesztő vidéke.",
+          "A folyó mentén számos bauxit- és vasérclelőhely található.",
+          "Az esős évszakban a folyó sebessége megduplázódhat.",
+          "A part menti barlangokban fontos régészeti leleteket találtak.",
+          "Lambaréné hídja az egyik legfontosabb átkelő a folyó torkolatánál."
+        ],
+        "ro": [
+          "Ngounié izvorăște de la o altitudine de peste 600 de metri.",
+          "Este navigabil pentru ambarcațiuni mici pe porțiuni lungi lângă Mouila.",
+          "Râul a fost explorat intens de francezi în secolul al XIX-lea.",
+          "Valea sa găzduiește unele dintre cele mai mari plantații de palmieri de ulei.",
+          "Inundațiile sezoniere sunt vitale pentru fertilizarea naturală a solului.",
+          "Fauna include specii rare de vidre și crocodili pitici."
+        ],
+        "en": [
+          "The Ngounié is the Ogooué's primary southern tributary.",
+          "It flows through Mouila, the provincial capital of Ngounié.",
+          "The river basin is a major center for Gabon's palm oil and timber production.",
+          "Its upper course is marked by steep canyons and dense rainforest.",
+          "The Fougamou rapids are a major natural landmark on the river.",
+          "It is a critical water source for the agricultural communities of southern Gabon."
+        ]
+      }
+    },
+    {
+      "id": "nyanga-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Nyanga-Fluss ist der zweitlängste Fluss Gabuns und der einzige bedeutende Strom im Süden des Landes, der nicht in das Ogooué-Becken fließt, sondern direkt in den Atlantik mündet. Er entspringt im südlichen Teil des Chaillu-Massivs und beschreibt einen weiten Bogen nach Südwesten durch die Provinz Nyanga. Der Fluss ist charakteristisch für den Übergang zwischen dem zentralafrikanischen Regenwald und den südlichen Savannengebieten. Im Gegensatz zu den schlammigeren Flüssen des Nordens führt der Nyanga in der Trockenzeit oft sehr klares Wasser. Der Flusslauf ist durch zahlreiche Windungen und saisonale Sandbänke geprägt, die in der Trockenzeit weite Flächen freigeben. Die Uferregionen beherbergen eine spezialisierte Flora und Fauna, darunter Galeriewälder, die Lebensraum für seltene Vogelarten und Antilopen bieten. Die Stadt Tchibanga liegt strategisch an seinen Ufern und nutzt den Fluss als lebenswichtige Wasserquelle. Nahe der Mündung bei Mayumba durchbricht der Nyanga die Küstenberge und bildet eine ästuarähnliche Zone, die reich an marinen und flussgebundenen Ressourcen ist. Wirtschaftlich ist der Nyanga-Fluss für die lokale Fischerei und die Bewässerung der umliegenden Rinderfarmen von großer Bedeutung. Aufgrund seiner Lage im trockeneren Süden Gabuns unterliegt der Wasserstand starken saisonalen Schwankungen, was die Navigation im Vergleich zu den äquatorialen Flüssen des Nordens erschwert. Der Nyanga bleibt ein Symbol für die geografische Vielfalt Gabuns und seine Verbindung zum südlichen Afrika.",
+        "hu": "A Nyanga-folyó Gabon második leghosszabb folyója, és az ország déli részének egyetlen olyan jelentős vízfolyása, amely nem az Ogooué-medencébe torkollik, hanem közvetlenül az Atlanti-óceánba ömlik. A folyó a Chaillu-masszívum déli részén ered, majd egy hatalmas kanyart leírva délnyugati irányba szeli át a róla elnevezett Nyanga tartományt. A folyó különlegessége, hogy a közép-afrikai esőerdők és a déli szavannák közötti átmeneti zónában halad, így élővilága mindkét ökoszisztéma jegyeit hordozza. A Nyanga vize az esős évszakon kívül meglepően tiszta, és medrében ilyenkor hatalmas homokpadok bukkannak elő. A folyó partján húzódó galériaerdők fontos menedéket nyújtanak az antilopoknak és számos ritka madárfajnak. Tchibanga városa a folyó mentén épült fel, és gazdasága szorosan összefügg a vízhasználattal, különösen az állattenyésztés és a mezőgazdaság terén. A torkolat közelében, Mayumbánál a folyó áttöri a part menti hegyeket, létrehozva egy biológiailag rendkívül gazdag torkolati zónát. Gazdasági szempontból a Nyanga a helyi halászat tartóoszlopa, de a szállításban kisebb szerepet játszik, mint az Ogooué, mivel vízállása az évszakoktól függően erősen ingadozik. A Nyanga-folyó a gaboni táj sokszínűségének jelképe, amely összeköti a belső hegyvidékeket az óceánparti sávval.",
+        "ro": "Râul Nyanga este al doilea cel mai lung râu din Gabon și singurul curs de apă major din sudul țării care nu aparține bazinului Ogooué, vărsându-se direct în Oceanul Atlantic. Acesta izvorăște din extremitatea sudică a masivului Chaillu și parcurge un traseu sinuos spre sud-vest prin provincia Nyanga. Râul este emblematic pentru zona de tranziție între marea pădure tropicală și savanele meridionale, oferind peisaje unice de o frumusețe sălbatică. În timpul sezonului secetos, apele sale devin remarcabil de limpezi, dezvăluind bancuri de nisip întinse în albia sa. Malurile sunt mărginite de păduri-galerie care adăpostesc o biodiversitate specifică, inclusiv specii de păsări limicole și antilope. Orașul Tchibanga este principalul centru urban situat pe cursul său, râul fiind vital pentru alimentarea cu apă și pentru fermele zootehnice din regiune. Aproape de vărsarea sa lângă Mayumba, Nyanga străpunge lanțul muntos de coastă, formând un estuar bogat în resurse piscicole. Din punct de vedere economic, râul susține pescuitul artizanal și mica agricultură de subzistență. Navigația pe Nyanga este limitată de variațiile sezoniere mari ale debitului, ceea ce i-a păstrat un caracter mai puțin industrializat comparativ cu alte râuri gaboneze. Nyanga rămâne un simbol al identității sudice a Gabonului, reprezentând o legătură ecologică esențială între munți și ocean.",
+        "en": "The Nyanga River is the second longest river in Gabon and the only major waterway in the south that flows directly into the Atlantic Ocean instead of joining the Ogooué basin. It originates in the southern Chaillu Massif and flows in a wide southwestward arc through Nyanga Province. The river is a hallmark of the transition between the Central African rainforest and the southern savannas, offering a unique ecological profile. Unlike the silt-heavy rivers of the north, the Nyanga often has very clear water during the dry season. Its course is marked by numerous meanders and seasonal sandbars that emerge when water levels drop. The riverbanks are lined with gallery forests that provide a critical habitat for rare birds and antelopes. The city of Tchibanga is strategically located on its banks, depending on the river as its primary water source. Near its mouth at Mayumba, the Nyanga cuts through coastal mountains to form a nutrient-rich estuary supporting diverse marine and freshwater life. Economically, the river is vital for local fishing and irrigation for the region's cattle ranches. Due to its location in the drier southern part of Gabon, the water level fluctuates significantly with the seasons, making navigation more challenging than on equatorial rivers. The Nyanga stands as a symbol of Gabon’s geographic diversity and its connection to the landscapes of Southern Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Nyanga-Fluss mündet in der Nähe der Stadt Mayumba in den Atlantik.",
+          "Er ist nach dem Ogooué der zweitlängste Fluss Gabuns.",
+          "Der Fluss durchquert die größten Savannengebiete des Landes.",
+          "In der Trockenzeit sinkt der Wasserstand so tief, dass weite Sandbänke entstehen.",
+          "Tchibanga nutzt den Nyanga-Fluss für seine städtische Wasserversorgung.",
+          "An seiner Mündung befindet sich ein wichtiges Brutgebiet für Meeresschildkröten."
+        ],
+        "hu": [
+          "A Nyanga hossza meghaladja a 600 kilométert.",
+          "Ez az egyetlen nagy gaboni folyó, amely délről közvetlenül az óceánba tart.",
+          "Völgye az ország legfontosabb szarvasmarha-tenyésztő vidéke.",
+          "A folyó a Chaillu-masszívum déli nyúlványainál ered.",
+          "Torkolata a Mayumba Nemzeti Park közvetlen szomszédságában található.",
+          "A Nyanga medre kevésbé alkalmas nehéz ipari hajózásra a zátonyok miatt."
+        ],
+        "ro": [
+          "Nyanga izvorăște din sudul masivului Chaillu, la granița cu Congo.",
+          "Râul formează granița naturală între mai multe districte din sud.",
+          "Este renumit pentru puritatea apei sale în timpul iernii australe.",
+          "În estuarul său se întâlnesc specii rare de pești euryhalini.",
+          "Bazinul Nyanga este esențial pentru irigarea culturilor de orez locale.",
+          "Traversează parcuri naționale și zone de vânătoare protejate."
+        ],
+        "en": [
+          "The Nyanga is the second longest river in Gabon at over 600 km.",
+          "It is the primary drainage system for Gabon's southern savanna belt.",
+          "The river flows into the Atlantic Ocean near the coastal town of Mayumba.",
+          "It supports the highest concentration of cattle ranches in the country.",
+          "The Nyanga's estuary is a major biodiversity hotspot for coastal birds.",
+          "Seasonal water fluctuations define the rhythm of life for riverside communities."
+        ]
+      }
+    },
+    {
+      "id": "mount-iboundji-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Iboundji ist einer der markantesten Gipfel Gabuns und liegt im Herzen des Chaillu-Massivs in der Provinz Ogooué-Lolo. Lange Zeit galt er mit einer oft zitierten Höhe von etwa 1.575 Metern als der höchste Berg des Landes, auch wenn neuere Messungen den Mont Bengoué im Nordosten als potenziell höher einstufen. Dennoch bleibt der Mont Iboundji ein mystischer und ökologisch bedeutender Ort. Er ist von dichtem Bergregenwald bedeckt, der eine einzigartige Flora beherbergt, darunter zahlreiche endemische Orchideenarten und Farne, die an die kühleren Temperaturen und die ständige Wolkenbildung der Höhenlagen angepasst sind. Die Region um den Berg ist ein wichtiger Wasserspeicher, aus dem zahlreiche Bäche entspringen, die den Ogooué und seine Nebenflüsse speisen. Für die lokale Bevölkerung der umliegenden Dörfer besitzt der Berg eine spirituelle Bedeutung und wird oft mit Ahnenkulten und traditionellen Mythen in Verbindung gebracht. Die Besteigung des Mont Iboundji ist ein anspruchsvolles Unterfangen, da es kaum ausgebaute Wege gibt und die Expedition durch dichten Dschungel und steiles Gelände führt. Wissenschaftlich gesehen ist das Gebiet um den Iboundji noch nicht vollständig erforscht, was regelmäßig Botaniker und Zoologen anzieht, die auf der Suche nach unentdeckten Arten sind. Der Berg symbolisiert die unberührte Wildnis des gabunischen Hinterlandes und den Schutz der Biodiversität im Chaillu-Massiv. Ein Besuch in der Region bietet atemberaubende Ausblicke über das endlose grüne Blätterdach Gabuns.",
+        "hu": "A Mont Iboundji Gabon egyik legismertebb hegycsúcsa, amely az ország középső-keleti részén, az Ogooué-Lolo tartományban, a Chaillu-masszívum szívében található. Hosszú ideig tartotta magát az a nézet, hogy 1575 méteres magasságával ez Gabon legmagasabb pontja, bár a modern műholdas mérések szerint a Mont Bengoué valószínűleg megelőzi. Ettől függetlenül az Iboundji továbbra is a gaboni hegyvidék jelképe és ökológiai kincsesbánya. Csúcsait sűrű hegyi köderdő borítja, amelynek mikroklímája eltér az alföldi esőerdőkétől; itt különleges orchideák, páfrányok és mohák élnek, amelyek a folyamatos párának köszönhetik létüket. A hegy fontos vízválasztó és forrásvidék, amely számos folyót táplál a térségben. A környező népcsoportok számára a Mont Iboundji szent hely, az ősök szellemeinek lakóhelye, így a helyi kultúra szerves részét képezi. A hegy megközelítése és megmászása komoly fizikai kihívást jelent, mivel nincsenek kiépített turistautak, az utat pedig sűrű bozótos és meredek sziklák nehezítik. Tudományos szempontból a terület a biodiverzitás egyik hotspotja, ahol a kutatók még ma is találnak új fajokat. Az Iboundji látványa, ahogy a felhőkbe vész, Gabon vad és érintetlen természetének egyik leghatalmasabb mementója. A hegy megőrzése kulcsfontosságú a Chaillu-masszívum vízháztartásának és egyedülálló növényvilágának védelme érdekében.",
+        "ro": "Muntele Iboundji este unul dintre cele mai emblematice vârfuri din Gabon, situat în inima masivului Chaillu, în provincia Ogooué-Lolo. Timp de decenii, a fost considerat cel mai înalt punct al țării, cu o altitudine raportată de 1.575 de metri, deși măsurători recente sugerează că Mont Bengoué ar putea deține acest titlu. Cu toate acestea, Iboundji rămâne un munte legendar și un centru de biodiversitate montană. Este acoperit de o pădure tropicală de munte extrem de densă, caracterizată prin prezența constantă a ceții, ceea ce a permis dezvoltarea unei flore unice, incluzând numeroase specii de orhidee endemice și ferigi arborescente. Muntele funcționează ca un turn de apă natural, alimentând rețeaua hidrografică a regiunii prin numeroase izvoare care se varsă în bazinele râurilor Ogooué și Ngounié. Pentru comunitățile locale, muntele are o dimensiune sacră, fiind adesea asociat cu tradiții ancestrale și mituri cosmogonice. Accesul pe vârf este dificil, necesitând expediții organizate prin teren accidentat și vegetație luxuriantă, fiind o destinație căutată de botaniști și exploratori. Din punct de vedere științific, masivul Iboundji reprezintă un ecosistem insular de înălțime, oferind date prețioase despre adaptarea speciilor la altitudine în zona ecuatorială. Protejarea acestui masiv este esențială pentru conservarea habitatelor de munte din Gabon, care sunt printre cele mai puțin perturbate de activitățile umane pe continentul african.",
+        "en": "Mount Iboundji is one of Gabon's most prominent peaks, situated in the heart of the Chaillu Massif in the Ogooué-Lolo province. For a long time, it was officially regarded as the highest point in Gabon with an often-cited elevation of 1,575 meters, although recent surveys suggest that Mount Bengoué in the northeast may be slightly higher. Regardless of its exact rank, Mount Iboundji remains a mystical and ecologically significant landmark. It is shrouded in dense montane rainforest, which hosts a unique variety of flora, including endemic orchids and ferns adapted to the cooler temperatures and frequent cloud cover of the highlands. The mountain serves as a vital watershed, with numerous streams originating from its slopes to feed the Ogooué and Ngounié river systems. For the local communities, Mount Iboundji holds deep spiritual significance and is frequently linked to ancestral worship and traditional lore. Reaching the summit is a formidable challenge, as there are no established trails, requiring trekkers to navigate steep terrain and thick undergrowth. Scientifically, the area around Iboundji is a biodiversity hotspot, attracting botanists and zoologists seeking rare species in its largely unexplored forests. The mountain symbolizes the untamed wilderness of Gabon's interior and the importance of preserving the unique montane ecosystems of the Chaillu range. It offers breathtaking vistas over the vast, unbroken green canopy of the Gabonese landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Iboundji liegt im Chaillu-Massiv im Osten Gabuns.",
+          "Seine Höhe wird traditionell mit etwa 1.575 Metern angegeben.",
+          "Er galt jahrzehntelang als der höchste Berg der Gabunischen Republik.",
+          "Der Gipfel ist fast ständig in Wolken und Nebel gehüllt.",
+          "In den Bergwäldern leben seltene Primaten und endemische Vögel.",
+          "Der Berg ist eine wichtige Quelle für die Zuflüsse der Ngounié."
+        ],
+        "hu": [
+          "A hegy a Chaillu-masszívum központi részének legmagasabb pontja.",
+          "A Mont Iboundji nevét a környéken élő helyi klánoktól kapta.",
+          "A hegycsúcs megmászásához engedély és helyi vezető szükséges.",
+          "Flórája gazdag epifita növényekben és ritka hegyi mohákban.",
+          "A terület geológiáját ősi prekambriumi kőzetek alkotják.",
+          "Az Iboundji környéke fontos vadászterület a helyi közösségek számára."
+        ],
+        "ro": [
+          "Muntele Iboundji este situat în provincia Ogooué-Lolo.",
+          "Este acoperit de păduri de nori, un habitat rar în Gabon.",
+          "Muntele este format din roci cristaline foarte vechi.",
+          "Temperatura pe vârf poate fi cu 10-15 grade mai mică decât la coastă.",
+          "Aici se găsesc specii de plante care nu cresc în zonele de câmpie.",
+          "Reprezintă un obiectiv de interes major pentru ecoturismul montan."
+        ],
+        "en": [
+          "Mount Iboundji is located in the rugged Chaillu Massif range.",
+          "It is traditionally cited as the highest mountain in Gabon at 1,575m.",
+          "The peak is characterized by high rainfall and persistent mist.",
+          "It provides a unique habitat for montane-adapted species of Central Africa.",
+          "The mountain is considered a sacred site by many local ethnic groups.",
+          "Reaching its summit requires a multi-day trek through primary forest."
+        ]
+      }
+    },
+    {
+      "id": "mount-milondo-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Milondo ist ein bedeutender Gipfel innerhalb des Chaillu-Massivs im südzentralen Gabun, gelegen in der Provinz Ngounié. Mit einer Höhe von etwa 1.020 Metern ist er einer der markantesten Berge der Region und ein wichtiger Bestandteil der topografischen Barriere, die das Landesinnere vom Küstenbecken trennt. Der Berg ist vollständig von dichtem, primärem Regenwald bedeckt, der eine außergewöhnliche biologische Vielfalt beherbergt. Besonders hervorzuheben ist der Reichtum an endemischen Pflanzenarten und die Bedeutung des Berges als Lebensraum für bedrohte Tierarten wie Waldelefanten, Mandrills und Gorillas. Geologisch besteht der Mont Milondo aus uraltem präkambrischem Gestein, das im Laufe der Jahrmillionen durch Erosion geformt wurde. Die Hänge des Berges sind steil und von zahlreichen tiefen Tälern durchzogen, durch die kristallklare Gebirgsbäche fließen, die später in den Ngounié-Fluss münden. Für die lokale Bevölkerung ist der Mont Milondo ein Orientierungspunkt und ein Ort, der in vielen mündlichen Überlieferungen eine Rolle spielt. Aufgrund der schwierigen Zugänglichkeit ist der Berg weitgehend unberührt von industrieller Nutzung oder Holzeinschlag geblieben, was ihn zu einem wertvollen ökologischen Referenzgebiet macht. Wanderungen in dieser Region sind nur für erfahrene Expeditionen möglich und bieten ein authentisches Wildniserlebnis. Der Mont Milondo verkörpert die raue Schönheit des gabunischen Hochlandes und die Notwendigkeit, diese sensiblen Bergökosysteme vor den Einflüssen des Klimawandels und der Abholzung zu schützen.",
+        "hu": "A Mont Milondo Gabon déli-középső részén, a Ngounié tartományban emelkedő Chaillu-masszívum egyik kiemelkedő csúcsa. Körülbelül 1020 méteres magasságával a régió egyik legmeghatározóbb hegyvonulata, amely természetes határt képez a belső fennsíkok és a tengerparti síkságok között. A hegyet tetőtől talpig sűrű, elsődleges esőerdő borítja, amely a biodiverzitás szempontjából felbecsülhetetlen értékű; számos ritka növényfaj és veszélyeztetett állat, például mandrillok, erdei elefántok és síkvidéki gorillák otthona. Geológiailag a Mont Milondo ősi, prekambriumi kristályos kőzetekből épül fel, amelyeket az évmilliók során a trópusi erózió formált meredek bércekké. A hegyoldalakon lezúduló patakok és kis vízesések táplálják a Ngounié-folyó vízrendszerét, biztosítva a régió vízellátását. A helyi közösségek számára a Milondo nemcsak egy hegy, hanem egy spirituális viszonyítási pont, amelyhez számos legenda kötődik. Az elszigeteltség és a nehéz terepviszonyok megóvták a területet a nagyüzemi fakitermeléstől, így a Mont Milondo a gaboni vadon egyik utolsó háborítatlan bástyája marad. A hegy környéki expedíciók igazi kalandot kínálnak a természetbúvárok számára, akik megismerhetik Gabon kevésbé látogatott, hegyvidéki arcát. A csúcs megmászása során feltáruló panoráma az összefüggő zöld erdőtengerről Gabon egyik legszebb természeti látképe.",
+        "ro": "Muntele Milondo este un vârf proeminent situat în masivul Chaillu din centrul-sudul Gabonului, în provincia Ngounié. Cu o altitudine de aproximativ 1.020 de metri, acesta reprezintă un punct de reper topografic major, făcând parte din lanțul muntos care separă interiorul țării de câmpiile de coastă. Muntele este acoperit integral de o pădure tropicală primară de o densitate impresionantă, care adăpostește o biodiversitate exuberantă. Milondo este un habitat esențial pentru numeroase specii periclitate, inclusiv mandrili, gorile de câmpie și elefanți de pădure. Din punct de vedere geologic, muntele este format din roci precambriene foarte vechi, modelate de eroziunea tropicală intensă de-a lungul mileniilor. Versanții săi abrupți sunt străbătuți de numeroase cursuri de apă cristalină care alimentează bazinul râului Ngounié. Pentru populația locală, Muntele Milondo este un punct de referință geografic și cultural, fiind prezent în numeroase relatări ale folclorului regional. Izolarea sa geografică și dificultatea accesului au protejat muntele de exploatarea forestieră intensivă, păstrându-l ca un ecosistem de referință pentru cercetările ecologice. Expedițiile în această zonă oferă o experiență de sălbăticie autentică, fiind rezervate celor mai experimentați exploratori. Muntele Milondo simbolizează frumusețea aspră a înălțimilor gaboneze și importanța conservării habitatelor de munte pentru stabilitatea climatică a regiunii.",
+        "en": "Mount Milondo is a significant peak within the Chaillu Massif in south-central Gabon, located in the Ngounié province. Rising to an elevation of approximately 1,020 meters, it is one of the region's most prominent mountains and forms part of the topographical barrier between the inland plateaus and the coastal basins. The mountain is completely cloaked in dense, primary rainforest, which harbors an exceptional degree of biological diversity. It is particularly noted for its wealth of endemic plant species and its importance as a habitat for endangered wildlife such as forest elephants, mandrills, and gorillas. Geologically, Mount Milondo consists of ancient Precambrian rocks that have been shaped over millions of years by tropical erosion. Its steep slopes are carved by numerous valleys with crystal-clear mountain streams that eventually flow into the Ngounié River system. For the local population, Mount Milondo is a key geographic landmark and a place of significance in oral traditions. Due to its rugged terrain and relative inaccessibility, the mountain has remained largely untouched by commercial logging, making it a pristine ecological reference site. Trekking in this region provides an authentic wilderness experience for seasoned explorers. Mount Milondo embodies the raw beauty of the Gabonese highlands and highlights the critical need to protect these sensitive montane ecosystems from the pressures of environmental change."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Milondo hat eine Gipfelhöhe von etwa 1.020 Metern.",
+          "Er liegt im Gebirgszug des Chaillu-Massivs in der Provinz Ngounié.",
+          "Der Berg ist ein wichtiger Lebensraum für große Gruppen von Mandrills.",
+          "Seine Gebirgsbäche sind eine Hauptquelle für den Ngounié-Fluss.",
+          "Das Gestein des Berges gehört zu den ältesten Formationen Gabuns.",
+          "Aufgrund der Dichte des Waldes ist der Gipfel nur schwer erreichbar."
+        ],
+        "hu": [
+          "A hegy magassága eléri az 1020 métert, ami ritka a gaboni domborzatban.",
+          "A Mont Milondo fontos vízválasztó hegység Gabon déli részén.",
+          "Környéke híres a különleges trópusi fafajok nagy sűrűségéről.",
+          "A hegy lábánál számos kisebb vízesés található a sűrű erdőben.",
+          "A területen tilos az ipari méretű fakitermelés a védettség miatt.",
+          "A Mont Milondo Gabon egyik legkevésbé kutatott hegyvidéki területe."
+        ],
+        "ro": [
+          "Este unul dintre puținele vârfuri din Gabon care depășesc 1.000 de metri.",
+          "Face parte din masivul muntos care se întinde până în Congo.",
+          "Versanții muntelui sunt acoperiți de vegetație de tip epifit abundentă.",
+          "Milondo este o zonă de refugiu pentru fauna alungată de activitățile de la câmpie.",
+          "Aici s-au descoperit specii rare de amfibieni specifice altitudinii.",
+          "Muntele este vizibil de la mari distanțe în zilele senine din Ngounié."
+        ],
+        "en": [
+          "Mount Milondo reaches an altitude of approximately 1,020 meters.",
+          "It is located within the ancient rock formations of the Chaillu Massif.",
+          "The area is a significant sanctuary for forest-dwelling primates.",
+          "It contributes significantly to the headwaters of the Ngounié River.",
+          "The mountain remains free of major human settlements and roads.",
+          "It represents a prime example of undisturbed Central African montane forest."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": ["lib/visualLab/data/poiExtraKyrgyzstanEconomicV2.ts"],
+  "items": [
+    {
+      "id": "kara-suu-bazaar-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kara-Suu-Basar im Süden Kirgisistans nahe der Stadt Osch ist einer der bedeutendsten Großmärkte Zentralasiens und das wichtigste Handelszentrum für das Ferganatal. Ähnlich wie der Dordoi-Basar im Norden basiert er größtenteils auf umgebauten Schiffscontainern und dient als gigantischer Umschlagplatz für asiatische Importwaren, insbesondere aus China. Der Markt profitiert massiv von seiner geografischen Nähe zur usbekischen Grenze, was ihn zu einem zentralen Knotenpunkt für den grenzüberschreitenden Handel macht. Für die Wirtschaft in den südlichen Provinzen Kirgisistans ist der Basar von überragender Bedeutung, da er Zehntausende von Arbeitsplätzen sichert und den regionalen Warenaustausch dominiert.",
+        "hu": "A dél-kirgizisztáni Osz városa közelében található Kara-Suu Bazár Közép-Ázsia egyik legjelentősebb nagykereskedelmi piaca, és a Fergana-völgy legfőbb kereskedelmi központja. Az északi Dordoi Bazárhoz hasonlóan főként átalakított tengeri konténerekből épül fel, és óriási elosztóállomásként szolgál az ázsiai, különösen a kínai importáruk számára. A piac hatalmas mértékben profitál az üzbég határ közelségéből, ami a határokon átnyúló áruforgalom nélkülözhetetlen csomópontjává teszi. A déli tartományok gazdasága számára a bazár kiemelkedő fontosságú, mivel munkahelyek tízezreit biztosítja és uralja a regionális kereskedelmet.",
+        "ro": "Bazarul Kara-Suu, situat în sudul Kârgâzstanului, lângă orașul Osh, este una dintre cele mai importante piețe en-gros din Asia Centrală și principalul centru comercial pentru Valea Fergana. La fel ca bazarul Dordoi din nord, este construit în mare parte din containere maritime modificate și servește drept un hub gigantic pentru mărfurile de import asiatice, în special din China. Piața beneficiază masiv de proximitatea sa geografică față de granița cu Uzbekistanul, devenind un nod central pentru comerțul transfrontalier. Pentru economia provinciilor din sud, bazarul este de o importanță vitală, asigurând zeci de mii de locuri de muncă și dominând schimbul regional de mărfuri.",
+        "en": "The Kara-Suu Bazaar, located in southern Kyrgyzstan near the city of Osh, is one of Central Asia's most significant wholesale markets and the primary trading hub for the Fergana Valley. Similar to the Dordoi Bazaar in the north, it is largely constructed from modified shipping containers and serves as a massive distribution point for Asian imports, particularly from China. The market benefits immensely from its close geographical proximity to the Uzbek border, making it a central node for cross-border trade. For the economy of the southern provinces, the bazaar is of paramount importance, securing tens of thousands of jobs and dominating regional commerce."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der Region Osch, nahe der Grenze zu Usbekistan.",
+          "Ist der größte Großhandelsmarkt im Süden des Landes.",
+          "Dient als Hauptverteilerzentrum für das gesamte Ferganatal.",
+          "Die Infrastruktur besteht überwiegend aus Seecontainern.",
+          "Handelt vor allem mit Textilien, Haushaltswaren und Elektronik.",
+          "Sichert das Einkommen zehntausender lokaler Familien.",
+          "Die Grenzöffnung zu Usbekistan belebte das Geschäft enorm."
+        ],
+        "hu": [
+          "Osz régióban fekszik, közvetlenül az üzbég határ mellett.",
+          "Az ország déli részének legnagyobb nagykereskedelmi piaca.",
+          "Az egész Fergana-völgy fő áruelosztó központjaként működik.",
+          "Az infrastruktúra túlnyomórészt tengeri konténerekből áll.",
+          "Főként textíliákat, háztartási cikkeket és elektronikát árulnak.",
+          "Helyi családok tízezreinek biztosítja a megélhetést.",
+          "Az üzbég határnyitás hatalmas lendületet adott a forgalomnak."
+        ],
+        "ro": [
+          "Este situat în regiunea Osh, foarte aproape de granița cu Uzbekistanul.",
+          "Este cea mai mare piață en-gros din sudul țării.",
+          "Acționează ca centru principal de distribuție pentru Valea Fergana.",
+          "Infrastructura sa este formată preponderent din containere maritime.",
+          "Comercializează în principal textile, bunuri casnice și electronice.",
+          "Asigură venitul pentru zeci de mii de familii locale.",
+          "Deschiderea graniței cu Uzbekistanul a stimulat masiv afacerile."
+        ],
+        "en": [
+          "Located in the Osh Region, in close proximity to the Uzbek border.",
+          "Recognized as the largest wholesale market in the southern territory.",
+          "Serves as the primary distribution center for the entire Fergana Valley.",
+          "Its physical infrastructure heavily utilizes repurposed shipping containers.",
+          "Trades primarily in textiles, household goods, and cheap electronics.",
+          "Secures the primary livelihood for tens of thousands of local families.",
+          "The reopening of the Uzbek border massively boosted market volume."
+        ]
+      }
+    },
+    {
+      "id": "osh-bazaar-bishkek-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Osch-Basar, nicht zu verwechseln mit einem Markt in der gleichnamigen Stadt, ist der bekannteste und lebhafteste Lebensmittel- und Alltagsmarkt im Herzen der Hauptstadt Bischkek. Im Gegensatz zum auf Großhandel ausgerichteten Dordoi-Basar konzentriert sich der Osch-Basar auf den täglichen Bedarf der Stadtbevölkerung. Hier werden frische landwirtschaftliche Erzeugnisse, Gewürze, traditionelle Kleidung, handgefertigte Souvenirs und Haushaltswaren in einem Labyrinth aus überdachten und offenen Gängen gehandelt. Der Basar ist ein unverzichtbarer Wirtschaftsfaktor für unzählige Kleinbauern und Handwerker aus dem Umland, die ihre Produkte hier direkt an die Endverbraucher verkaufen können.",
+        "hu": "Az Osz Bazár – amelyet nem szabad összetéveszteni a névadó városban lévő piaccal – a főváros, Biskek szívében található legélénkebb élelmiszer- és mindennapi cikkek piaca. A nagykereskedelemre fókuszáló Dordoi Bazárral ellentétben az Osz Bazár a városi lakosság napi szükségleteinek kielégítésére összpontosít. A fedett és nyitott folyosók labirintusában friss mezőgazdasági termékeket, fűszereket, hagyományos ruházatot, kézműves ajándéktárgyakat és háztartási cikkeket árulnak. A bazár elengedhetetlen gazdasági tényező a környező régiók számtalan kistermelője és kézművese számára, akik itt közvetlenül a fogyasztóknak értékesíthetik áruikat.",
+        "ro": "Bazarul Osh, care nu trebuie confundat cu o piață din orașul cu același nume, este cel mai faimos și animat târg de alimente și bunuri de uz curent din inima capitalei Bishkek. Spre deosebire de bazarul Dordoi, axat pe comerțul en-gros, Bazarul Osh se concentrează pe nevoile zilnice ale populației urbane. Aici se comercializează produse agricole proaspete, condimente, îmbrăcăminte tradițională, suveniruri artizanale și articole de uz casnic, într-un labirint de alei acoperite și în aer liber. Bazarul reprezintă un motor economic indispensabil pentru nenumărați mici fermieri și meșteșugari din împrejurimi, care își pot vinde produsele direct consumatorilor finali.",
+        "en": "The Osh Bazaar, not to be confused with a market in the city of the same name, is the most famous and bustling food and daily goods market in the heart of the capital, Bishkek. Unlike the wholesale-oriented Dordoi Bazaar, Osh Bazaar focuses on the everyday retail needs of the urban population. Fresh agricultural produce, vibrant spices, traditional clothing, handcrafted souvenirs, and household goods are traded within a massive labyrinth of covered and open-air aisles. The bazaar is an indispensable economic lifeline for countless small-scale farmers and artisans from the surrounding regions, allowing them to sell their products directly to end consumers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im zentralen westlichen Teil von Bischkek.",
+          "Ist der primäre Einzelhandelsmarkt für die Hauptstadtbewohner.",
+          "Verkauft eine immense Auswahl an frischen Lebensmitteln.",
+          "Besitzt separate Sektionen für traditionelle kirgisische Kleidung.",
+          "Bietet direkten Marktzugang für lokale Landwirte aus dem Chüi-Tal.",
+          "Ein wichtiges Zentrum für den Handel mit Trockenfrüchten und Nüssen.",
+          "Zieht auch viele Touristen auf der Suche nach Souvenirs an."
+        ],
+        "hu": [
+          "Biskek központi nyugati részén terül el.",
+          "A fővárosi lakosok elsődleges kiskereskedelmi piaca.",
+          "Hatalmas választékban kínál friss helyi élelmiszereket.",
+          "Külön részlegek foglalkoznak a hagyományos kirgiz ruházattal.",
+          "Közvetlen piacra jutást biztosít a Chüi-völgy gazdáinak.",
+          "Az aszalt gyümölcsök és diófélék kereskedelmének központja.",
+          "Rengeteg ajándéktárgyat kereső turistát is vonz."
+        ],
+        "ro": [
+          "Este amplasat în partea central-vestică a orașului Bishkek.",
+          "Constituie piața principală de retail pentru locuitorii capitalei.",
+          "Comercializează o gamă imensă de alimente proaspete.",
+          "Deține secțiuni separate pentru îmbrăcămintea tradițională kârgâză.",
+          "Oferă acces direct la piață fermierilor locali din Valea Chüy.",
+          "Un centru important pentru comerțul cu fructe uscate și nuci.",
+          "Atrage numeroși turiști aflați în căutare de suveniruri autentice."
+        ],
+        "en": [
+          "Located in the central-western district of Bishkek.",
+          "Serves as the primary retail food market for capital residents.",
+          "Sells an immense variety of fresh domestic agricultural products.",
+          "Features dedicated sections for traditional Kyrgyz garments.",
+          "Provides direct market access for local farmers from the Chüy Valley.",
+          "A major hub for the trade of Central Asian dried fruits and nuts.",
+          "Attracts significant tourist foot traffic looking for authentic souvenirs."
+        ]
+      }
+    },
+    {
+      "id": "kara-balta-mining-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Bergbau-Kombinat Kara-Balta, gelegen in der nördlichen Region Chüi, blickt auf eine lange und komplexe Industriegeschichte zurück. Während der Sowjetzeit war die Anlage eine streng geheime, strategisch entscheidende Einrichtung für die Verarbeitung von Uranerz zur Versorgung des sowjetischen Nuklearprogramms. Nach der Unabhängigkeit Kirgisistans und dem drastischen Rückgang des Uranabbaus wurde das Kombinat gezwungen, sein Geschäftsmodell zu diversifizieren. Heute verarbeitet die riesige Industrieanlage neben verbliebenen Uranerzen aus den Nachbarländern hauptsächlich gold- und silberhaltige Erze aus verschiedenen kirgisischen Minen. Das Werk bleibt ein bedeutender Arbeitgeber in der Region, kämpft jedoch mit veralteter Infrastruktur und dem schweren ökologischen Erbe seiner Vergangenheit.",
+        "hu": "Az északi Chüi régióban található Kara-Balta Bányászati Kombinát hosszú és összetett ipari múltra tekint vissza. A szovjet időkben a létesítmény egy szigorúan titkos, stratégiai jelentőségű uránérc-feldolgozó volt, amely a szovjet nukleáris programot szolgálta ki. Kirgizisztán függetlenedése és az uránbányászat drasztikus visszaesése után a kombinát kénytelen volt diverzifikálni üzleti modelljét. Napjainkban a hatalmas ipari komplexum – a szomszédos országokból származó maradék uránérc mellett – főként különböző kirgiz bányákból származó arany- és ezüsttartalmú érceket dolgoz fel. Az üzem továbbra is jelentős munkaadó a régióban, bár küzd az elavult infrastruktúrával és a múlt súlyos ökológiai örökségével.",
+        "ro": "Combinatul Minier Kara-Balta, situat în regiunea nordică Chüy, are o istorie industrială lungă și complexă. În perioada sovietică, unitatea era o facilitate strict secretă, de importanță strategică, dedicată procesării minereului de uraniu pentru programul nuclear sovietic. După independența Kârgâzstanului și declinul drastic al extracției de uraniu, combinatul a fost forțat să își diversifice modelul de afaceri. Astăzi, imensul complex industrial procesează în principal minereuri purtătoare de aur și argint din diverse mine kârgâze, alături de cantități reziduale de uraniu din țările vecine. Fabrica rămâne un angajator major în regiune, deși se confruntă cu o infrastructură învechită și cu moștenirea ecologică grea a trecutului său.",
+        "en": "The Kara-Balta Mining Plant, located in the northern Chüy Region, possesses a long and highly complex industrial history. During the Soviet era, the facility operated as a strictly classified, strategically crucial plant for processing uranium ore to supply the Soviet nuclear program. Following Kyrgyzstan's independence and the drastic decline in domestic uranium mining, the combine was forced to diversify its business model. Today, the massive industrial complex primarily processes gold- and silver-bearing ores from various Kyrgyz mines, alongside residual uranium from neighboring countries. The plant remains a significant regional employer, although it struggles with outdated infrastructure and the severe ecological legacy of its past operations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der Stadt Kara-Balta im Chüi-Tal.",
+          "War in der Sowjetzeit ein hochgeheimes Uran-Verarbeitungswerk.",
+          "Verarbeitete einst Uran aus ganz Zentralasien.",
+          "Fokus liegt heute auf der Raffinierung von Golderzen.",
+          "Bietet industrielle Arbeitsplätze für die lokale Bevölkerung.",
+          "Hat mit großen Mengen radioaktiver Abfälle zu kämpfen.",
+          "Ein Konsortium ausländischer Investoren beteiligte sich an der Umstrukturierung."
+        ],
+        "hu": [
+          "Kara-Balta városában, a Chüi-völgyben található.",
+          "A szovjet érában szigorúan titkos uránfeldolgozó volt.",
+          "Egykor egész Közép-Ázsiából érkezett ide uránérc.",
+          "Ma elsősorban aranyércek finomítására fókuszál.",
+          "Kritikus ipari munkahelyeket biztosít a helyi lakosságnak.",
+          "Hatalmas mennyiségű radioaktív hulladékkal kell megküzdenie.",
+          "Külföldi befektetői konzorcium is részt vett az átalakításában."
+        ],
+        "ro": [
+          "Este situat în orașul Kara-Balta, în Valea Chüy.",
+          "În era sovietică a fost o fabrică secretă de procesare a uraniului.",
+          "Procesa odinioară uraniu din întreaga Asie Centrală.",
+          "În prezent se concentrează pe rafinarea minereurilor de aur.",
+          "Oferă locuri de muncă industriale vitale pentru populația locală.",
+          "Trebuie să gestioneze cantități masive de deșeuri radioactive.",
+          "Un consorțiu de investitori străini a participat la restructurarea sa."
+        ],
+        "en": [
+          "Located in the city of Kara-Balta within the Chüy Valley.",
+          "Operated as a highly classified uranium processing plant in the Soviet era.",
+          "Historically processed uranium ore sourced from across Central Asia.",
+          "Current operations focus heavily on refining gold-bearing ores.",
+          "Provides critical industrial employment for the local population.",
+          "Continues to manage massive volumes of radioactive tailings.",
+          "A consortium of foreign investors participated in its corporate restructuring."
+        ]
+      }
+    },
+    {
+      "id": "khaidarkan-mercury-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Khaidarkan-Quecksilberkombinat in der südwestlichen Region Batken ist eine der wenigen noch weltweit operierenden primären Quecksilberminen. Gegründet 1941 während des Zweiten Weltkriegs, um den sowjetischen Militärbedarf zu decken, war das Werk über Jahrzehnte ein globaler Hauptproduzent dieses flüssigen Metalls. Mit dem weltweiten Bemühen, die Quecksilbernutzung aufgrund seiner extremen Toxizität zu reduzieren (Minamata-Übereinkommen), sank die internationale Nachfrage dramatisch. Dennoch wird in Khaidarkan weiterhin gefördert, oft mit veralteten Technologien, was zu massiven lokalen Umwelt- und Gesundheitsrisiken führt. Die wirtschaftliche Abhängigkeit der abgelegenen Stadt von der Mine erschwert Bemühungen, die Produktion vollständig einzustellen.",
+        "hu": "A délnyugati Batken régióban található Khaidarkan Higanykombinát egyike a világ utolsó, ma is működő elsődleges higanybányáinak. A létesítményt 1941-ben, a második világháború alatt alapították a szovjet hadiipari igények kielégítésére, és évtizedekig a folyékony fém egyik fő globális előállítója volt. A higany extrém toxicitása miatt a felhasználás csökkentésére irányuló nemzetközi törekvések (Minamata-egyezmény) nyomán a kereslet drasztikusan visszaesett. Ennek ellenére Khaidarkanban folytatódik a kitermelés, gyakran elavult technológiákkal, ami súlyos helyi környezeti és egészségügyi kockázatokat jelent. A távoli város gazdasági függősége a bányától nagyban megnehezíti a termelés teljes leállítására tett kísérleteket.",
+        "ro": "Combinatul de Mercur Khaidarkan din regiunea sud-vestică Batken este una dintre puținele mine primare de mercur încă operaționale la nivel mondial. Fondată în 1941, în timpul celui de-al Doilea Război Mondial, pentru a satisface cerințele militare sovietice, fabrica a fost decenii la rând un producător global major al acestui metal lichid. Odată cu eforturile globale de reducere a utilizării mercurului din cauza toxicității sale extreme (Convenția de la Minamata), cererea internațională a scăzut dramatic. Cu toate acestea, extracția continuă la Khaidarkan, adesea cu tehnologii învechite, provocând riscuri masive pentru mediu și sănătatea locală. Dependența economică a orașului izolat de această mină îngreunează eforturile de oprire completă a producției.",
+        "en": "The Khaidarkan Mercury Plant, located in the southwestern Batken Region, is one of the last primary mercury mines still operating globally. Established in 1941 during World War II to meet Soviet military demands, the facility was a major global producer of the liquid metal for decades. Following international efforts to phase out mercury use due to its extreme toxicity (Minamata Convention), global demand plummeted. Nevertheless, extraction continues at Khaidarkan, often utilizing outdated technologies, which poses massive environmental and health risks to the local area. The remote town's complete economic dependence on the mine severely complicates efforts to permanently halt production."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der isolierten Batken-Region im Südwesten.",
+          "Der Betrieb startete 1941 aufgrund militärischer Erfordernisse.",
+          "Gehört zu den letzten primären Quecksilberminen der Welt.",
+          "Die Produktion ist global wegen Umweltabkommen stark umstritten.",
+          "Verursacht erhebliche ökologische Belastungen vor Ort.",
+          "Die Stadt Khaidarkan ist wirtschaftlich fast vollständig davon abhängig.",
+          "Fördert nebenbei auch geringe Mengen an Antimon und Fluorit."
+        ],
+        "hu": [
+          "Az elszigetelt délnyugati Batken régióban működik.",
+          "A termelés 1941-ben indult a háborús szükségletek miatt.",
+          "A világ egyik utolsó elsődleges higanybányája.",
+          "A kitermelés a nemzetközi környezetvédelmi egyezmények miatt vitatott.",
+          "Jelentős ökológiai és egészségügyi terhelést okoz a térségben.",
+          "Khaidarkan városa gazdaságilag szinte teljesen az üzemtől függ.",
+          "Melléktermékként kisebb mennyiségben antimont és fluoritot is bányásznak."
+        ],
+        "ro": [
+          "Este localizat în regiunea izolată Batken din sud-vest.",
+          "Operațiunile au început în 1941 din necesități militare.",
+          "Este printre ultimele mine primare de mercur din lume.",
+          "Producția este extrem de controversată din cauza acordurilor de mediu.",
+          "Generează un impact ecologic și sanitar sever pe plan local.",
+          "Orașul Khaidarkan depinde aproape în totalitate economic de mină.",
+          "Extrage și cantități mai mici de antimoniu și fluorină ca produse secundare."
+        ],
+        "en": [
+          "Located in the geographically isolated Batken Region in the southwest.",
+          "Operations commenced in 1941 to satisfy wartime military needs.",
+          "Remains one of the very last primary mercury mines on Earth.",
+          "Continued production is highly controversial due to global environmental pacts.",
+          "Causes severe and ongoing ecological and health impacts locally.",
+          "The surrounding town is almost entirely economically dependent on the plant.",
+          "Also extracts smaller quantities of antimony and fluorite as byproducts."
+        ]
+      }
+    },
+    {
+      "id": "kadamjay-antimony-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kadamjay-Antimonkombinat, ebenfalls in der Batken-Region gelegen, war einst ein industrieller Stolz der Sowjetunion. In seiner Blütezeit deckte das Werk fast den gesamten Bedarf des Sowjetimperiums an Antimon, einem Halbmetall, das entscheidend für die Herstellung von Batterien, Flammschutzmitteln und militärischer Ausrüstung ist. Das hier produzierte Antimon galt wegen seiner hohen Qualität als weltweiter Standard (Kadamjay-Standard). Nach dem Zusammenbruch der UdSSR verlor das Kombinat seine traditionellen Absatzmärkte und geriet in eine tiefe wirtschaftliche Krise. Trotz mehrerer Versuche der Privatisierung und Wiederbelebung kämpft das Werk heute mit erschöpften lokalen Erzvorkommen und einer dringend renovierungsbedürftigen Infrastruktur.",
+        "hu": "A szintén a Batken régióban található Kadamjay Antimonkombinát egykor a Szovjetunió ipari büszkesége volt. Fénykorában az üzem szinte a teljes szovjet birodalom antimonszükségletét fedezte; ez a félfém kulcsfontosságú az akkumulátorok, égésgátlók és katonai felszerelések gyártásában. Az itt előállított antimon kivételes tisztasága miatt globális referenciaként (Kadamjay-szabvány) szolgált. A Szovjetunió felbomlása után a kombinát elvesztette hagyományos piacait, és mély gazdasági válságba zuhant. Számos privatizációs és újraindítási kísérlet ellenére az üzem ma kimerült helyi érckészletekkel és sürgős felújításra szoruló infrastruktúrával küzd.",
+        "ro": "Combinatul de Antimoniu Kadamjay, situat de asemenea în regiunea Batken, a fost odinioară o mândrie industrială a Uniunii Sovietice. În perioada sa de apogeu, fabrica acoperea aproape întregul necesar de antimoniu al imperiului sovietic, un semimetal crucial pentru producția de baterii, ignifuganți și echipamente militare. Antimoniul produs aici era considerat un standard global de puritate (Standardul Kadamjay). După prăbușirea URSS, combinatul și-a pierdut piețele tradiționale de desfacere și a intrat într-o criză economică profundă. În ciuda mai multor încercări de privatizare și revitalizare, astăzi fabrica se confruntă cu zăcăminte locale epuizate și o infrastructură care necesită renovări urgente.",
+        "en": "The Kadamjay Antimony Plant, also located in the Batken Region, was once an industrial pride of the Soviet Union. During its peak, the facility supplied nearly the entire Soviet empire's demand for antimony, a metalloid critical for manufacturing batteries, flame retardants, and military equipment. The antimony produced here was of such high purity that it served as a global benchmark known as the 'Kadamjay Standard.' Following the collapse of the USSR, the combine lost its traditional captive markets and plunged into a deep economic crisis. Despite multiple privatization and revitalization attempts, the plant today struggles with depleted local ore reserves and infrastructure in desperate need of renovation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der Stadt Kadamjay in Südkirgisistan.",
+          "War ehemals einer der größten Antimon-Produzenten weltweit.",
+          "Das Metall galt global als Reinheitsstandard (Kadamjay-Standard).",
+          "Erlebte nach 1991 einen massiven wirtschaftlichen Niedergang.",
+          "Die eigenen Erzreserven in der direkten Umgebung sind weitgehend erschöpft.",
+          "Versuchte, auf die Verarbeitung importierter Rohstoffe umzusteigen.",
+          "Ein wichtiges historisches Beispiel sowjetischer Monostädte."
+        ],
+        "hu": [
+          "A dél-kirgizisztáni Kadamjay városában található.",
+          "Egykor a világ egyik legjelentősebb antimon-előállítója volt.",
+          "Az itteni fém globális tisztasági etalonként szolgált (Kadamjay-szabvány).",
+          "1991 után drámai gazdasági hanyatlást élt át.",
+          "A közvetlen környezetében lévő saját érckészletek jórészt kimerültek.",
+          "Kísérletet tettek az importált nyersanyagok feldolgozására is.",
+          "A szovjet egyiparos városok (monogorod) egyik klasszikus példája."
+        ],
+        "ro": [
+          "Este situat în orașul Kadamjay din sudul Kârgâzstanului.",
+          "A fost anterior unul dintre cei mai mari producători de antimoniu din lume.",
+          "Metalul produs aici a reprezentat un etalon global de puritate.",
+          "A suferit un declin economic masiv după anul 1991.",
+          "Rezervele proprii de minereu din imediata vecinătate sunt mult epuizate.",
+          "A încercat să treacă la procesarea de materii prime din import.",
+          "Un exemplu istoric important al orașelor monoindustriale sovietice."
+        ],
+        "en": [
+          "Located in the town of Kadamjay in southern Kyrgyzstan.",
+          "Formerly ranked among the absolute largest antimony producers worldwide.",
+          "The metal refined here was recognized globally as a purity benchmark.",
+          "Experienced a massive and sustained economic decline following 1991.",
+          "Local ore reserves in the immediate vicinity have been largely exhausted.",
+          "Attempted to pivot towards processing imported raw materials.",
+          "Serves as a prime historical example of Soviet single-industry towns."
+        ]
+      }
+    },
+    {
+      "id": "kyzyl-kiya-coal-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kohlemine in Kyzyl-Kiya, gelegen in der Batken-Region, gehört zu den ältesten industriellen Bergbauzentren Kirgisistans. Die Förderung von Steinkohle begann hier bereits Ende des 19. Jahrhunderts unter dem russischen Zarenreich, womit die Stadt ihren Spitznamen „Heizer Zentralasiens“ erhielt. Während der Sowjetzeit florierte die Mine und lieferte enorme Mengen an Kohle für das Eisenbahnnetz und die wachsende Industrie in der gesamten Region. Nach der Unabhängigkeit kam es zu einem dramatischen Einbruch der Fördermengen, bedingt durch fehlende Investitionen und den Verlust staatlicher Subventionen. Dennoch wird in Kyzyl-Kiya weiterhin Kohle abgebaut, die heute primär zur Winterbeheizung privater Haushalte im Süden Kirgisistans dient.",
+        "hu": "A Batken régióban található Kizil-Kija szénbánya Kirgizisztán egyik legrégebbi ipari bányászati központja. A feketeszén kitermelése már a 19. század végén, az Orosz Birodalom idején megkezdődött, aminek köszönhetően a város kiérdemelte a „Közép-Ázsia fűtője” becenevet. A szovjet korszakban a bánya virágzott, és hatalmas mennyiségű szenet biztosított a vasúthálózat és a régió növekvő ipara számára. A függetlenné válás után a kitermelés drámaian visszaesett a beruházások hiánya és az állami támogatások megszűnése miatt. Ennek ellenére Kizil-Kijában ma is bányásznak szenet, amelyet elsősorban a dél-kirgizisztáni háztartások téli fűtésére használnak.",
+        "ro": "Mina de cărbune din Kyzyl-Kiya, situată în regiunea Batken, este unul dintre cele mai vechi centre de exploatare industrială din Kârgâzstan. Extracția huilei a început aici încă de la sfârșitul secolului al XIX-lea, sub Imperiul Rus, orașul primind porecla de „fochistul Asiei Centrale”. În timpul erei sovietice, mina a prosperat, furnizând cantități enorme de cărbune pentru rețeaua feroviară și pentru industria în expansiune din întreaga regiune. După obținerea independenței, volumele de producție au suferit o prăbușire dramatică din cauza lipsei de investiții și a pierderii subvențiilor de stat. Cu toate acestea, extracția de cărbune continuă în Kyzyl-Kiya, fiind folosit astăzi în principal pentru încălzirea de iarnă a gospodăriilor din sudul țării.",
+        "en": "The coal mine in Kyzyl-Kiya, located in the Batken Region, is one of the oldest industrial mining centers in Kyrgyzstan. Hard coal extraction began here in the late 19th century under the Russian Empire, earning the city the moniker 'the stoker of Central Asia.' During the Soviet era, the mine flourished, supplying massive quantities of coal for the railway network and the growing industry throughout the entire region. Following independence, production volumes suffered a dramatic collapse due to a lack of investment and the loss of state subsidies. Nevertheless, coal is still actively mined in Kyzyl-Kiya today, primarily utilized for winter heating in private households across southern Kyrgyzstan."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eines der ältesten Kohleabbaugebiete Kirgisistans (seit 1898).",
+          "Trug den historischen Beinamen 'Heizer Zentralasiens'.",
+          "Befindet sich in der südwestlichen Batken-Region.",
+          "Lieferte früher den Hauptbrennstoff für regionale Eisenbahnen.",
+          "Die Produktion ist seit der Sowjetzeit massiv gesunken.",
+          "Fördert heute hauptsächlich für den lokalen Haushaltsbedarf.",
+          "Einige Gruben werden inzwischen privat und informell betrieben."
+        ],
+        "hu": [
+          "Kirgizisztán egyik legősibb szénmedencéje (1898 óta).",
+          "Történelmileg a 'Közép-Ázsia fűtője' névvel illették.",
+          "A délnyugati Batken régióban helyezkedik el.",
+          "Korábban a regionális vasutak fő fűtőanyag-beszállítója volt.",
+          "A termelés a szovjet időkhöz képest hatalmasat esett.",
+          "Ma jórészt a helyi lakossági fűtési igényeket elégíti ki.",
+          "Egyes aknákat napjainkban magánúton, informálisan művelnek."
+        ],
+        "ro": [
+          "Unul dintre cele mai vechi bazine carbonifere kârgâze (din 1898).",
+          "A purtat denumirea istorică de 'fochistul Asiei Centrale'.",
+          "Este localizată în regiunea sud-vestică Batken.",
+          "A asigurat în trecut combustibilul principal pentru căile ferate regionale.",
+          "Producția a scăzut masiv comparativ cu perioada sovietică.",
+          "Extrage astăzi preponderent pentru nevoile casnice locale.",
+          "Unele galerii sunt operate în prezent privat și informal."
+        ],
+        "en": [
+          "One of the oldest coal mining basins in Kyrgyzstan (since 1898).",
+          "Historically bore the nickname 'the stoker of Central Asia'.",
+          "Located in the southwestern Batken Region.",
+          "Previously supplied the primary fuel for regional railway networks.",
+          "Production has dropped massively since the height of the Soviet era.",
+          "Currently extracts coal mainly to satisfy local household heating needs.",
+          "Several mine shafts are now operated privately and informally."
+        ]
+      }
+    },
+    {
+      "id": "sulukta-coal-mine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Sulukta, in der äußersten südwestlichen Ecke Kirgisistans gelegen, ist eine weitere historische Bergbaustadt mit einer langen Kohlefördertradition, die bis ins Jahr 1868 zurückreicht. Die hier abgebaute Braunkohle zeichnet sich durch einen verhältnismäßig hohen Heizwert aus und war jahrzehntelang eine gefragte Ressource im Ferganatal. Während der Sowjetzeit wuchs Sulukta zu einer bedeutenden Industriestadt heran, die über eine Schmalspurbahn mit dem weiteren Eisenbahnnetz verbunden war. Mit dem wirtschaftlichen Wandel in den 1990er Jahren und der Erschöpfung der am leichtesten zugänglichen Flöze geriet die lokale Industrie in eine tiefe Krise. Heute wird der Abbau in kleinerem Maßstab fortgesetzt, oft durch private Kleinstunternehmen, um die Winterheizung der abgelegenen Gemeinden zu sichern.",
+        "hu": "A Kirgizisztán legdélnyugatibb csücskében fekvő Szulukta szintén egy történelmi bányászváros, amelynek szénkitermelési hagyományai egészen 1868-ig nyúlnak vissza. Az itt bányászott barnaszén viszonylag magas fűtőértékkel rendelkezik, és évtizedekig keresett nyersanyag volt a Fergana-völgyben. A szovjet érában Szulukta jelentős iparvárossá nőtte ki magát, amelyet egy keskeny nyomtávú vasútvonal kapcsolt be a tágabb hálózatba. Az 1990-es évek gazdasági átalakulása és a legkönnyebben hozzáférhető telérek kimerülése miatt a helyi ipar mély válságba került. Ma a kitermelés kisebb léptékben, gyakran magán kisvállalkozások révén folytatódik, hogy biztosítsák az elszigetelt közösségek téli fűtőanyagát.",
+        "ro": "Sulukta, situată în extremitatea sud-vestică a Kârgâzstanului, este un alt oraș minier istoric, cu o lungă tradiție în extracția cărbunelui care datează din 1868. Cărbunele brun exploatat aici se distinge printr-o putere calorifică relativ ridicată și a fost decenii la rând o resursă căutată în Valea Fergana. În timpul perioadei sovietice, Sulukta a devenit un oraș industrial important, conectat la rețeaua feroviară extinsă printr-o linie cu ecartament îngust. Odată cu tranziția economică din anii 1990 și epuizarea celor mai accesibile filoane, industria locală a intrat într-o criză profundă. Astăzi, extracția continuă la o scară mai redusă, adesea prin intermediul micilor companii private, pentru a asigura încălzirea de iarnă a comunităților izolate.",
+        "en": "Sulukta, located in the extreme southwestern corner of Kyrgyzstan, is another historical mining town with a long coal extraction tradition dating back to 1868. The brown coal mined here is characterized by a relatively high calorific value and was a highly sought-after resource in the Fergana Valley for decades. During the Soviet era, Sulukta expanded into a significant industrial city, connected to the broader railway network via a narrow-gauge line. With the economic transition in the 1990s and the depletion of the most easily accessible seams, the local industry fell into a deep crisis. Today, extraction continues on a smaller scale, often driven by private micro-enterprises, to secure winter heating for the remote communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt im äußersten Südwesten Kirgisistans in der Batken-Region.",
+          "Die Kohleförderung begann hier nachweislich bereits 1868.",
+          "Fördert hochwertige Braunkohle für das Ferganatal.",
+          "Verfügte früher über eine wichtige Schmalspurbahnanbindung.",
+          "Erlebte nach der Unabhängigkeit einen drastischen Bevölkerungsrückgang.",
+          "Die tieferen Kohleflöze sind technisch schwieriger abzubauen.",
+          "Heute dominieren private Kleinbetriebe die Restförderung."
+        ],
+        "hu": [
+          "Kirgizisztán legdélnyugatibb peremén, a Batken régióban fekszik.",
+          "A szénkitermelés hivatalos kezdete 1868-ra tehető.",
+          "Kiváló minőségű barnaszenet ad a Fergana-völgynek.",
+          "Korábban egy fontos keskeny nyomtávú vasútvonallal rendelkezett.",
+          "A függetlenedés után drasztikus népességcsökkenést szenvedett el.",
+          "A mélyebb szénrétegek kitermelése technikailag sokkal nehezebb.",
+          "Napjainkban a maradék termelést apró magáncégek uralják."
+        ],
+        "ro": [
+          "Se află în extremitatea sud-vestică a Kârgâzstanului, în regiunea Batken.",
+          "Extracția atestată a cărbunelui a început aici încă din 1868.",
+          "Furnizează cărbune brun de înaltă calitate pentru Valea Fergana.",
+          "A beneficiat în trecut de o importantă conexiune feroviară cu ecartament îngust.",
+          "A suferit o scădere drastică a populației după independență.",
+          "Straturile de cărbune mai adânci sunt mai greu de exploatat tehnic.",
+          "Astăzi, extracția reziduală este dominată de mici firme private."
+        ],
+        "en": [
+          "Located in the extreme southwest of Kyrgyzstan within the Batken Region.",
+          "Documented coal extraction at this site began as early as 1868.",
+          "Produces high-quality brown coal destined for the Fergana Valley.",
+          "Previously featured a crucial narrow-gauge railway connection.",
+          "Experienced a drastic population decline following national independence.",
+          "Deeper remaining coal seams are significantly harder to mine technically.",
+          "Residual extraction is currently dominated by small private enterprises."
+        ]
+      }
+    },
+    {
+      "id": "kant-cement-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Zementwerk in Kant ist das Rückgrat der Bauindustrie im Norden Kirgisistans und eine der produktivsten Industrieanlagen der Chüi-Region. Seit seiner Inbetriebnahme im Jahr 1964 stellt das Werk Zement und andere grundlegende Baumaterialien her, die für die Infrastrukturentwicklung des gesamten Landes unverzichtbar sind. Nach einem Rückgang der Produktion in den 1990er Jahren profitierte die Anlage in den letzten Jahrzehnten enorm vom Bauboom in der nahegelegenen Hauptstadt Bischkek sowie von Straßenbauprojekten. Durch strategische Investitionen kasachischer Anteilseigner wurde das Werk modernisiert, um die Kapazität zu erhöhen und gleichzeitig die früher erhebliche Staubbelastung für die Umwelt zu reduzieren.",
+        "hu": "A kanti cementgyár Észak-Kirgizisztán építőiparának gerince és a Chüi régió egyik legtermelékenyebb ipari létesítménye. 1964-es üzembe helyezése óta a gyár cementet és egyéb alapvető építőanyagokat állít elő, amelyek nélkülözhetetlenek az ország infrastrukturális fejlődéséhez. Az 1990-es évek termelés-visszaesése után a létesítmény az elmúlt évtizedekben óriási hasznot húzott a közeli főváros, Biskek építőipari fellendüléséből, valamint a nagy útépítési projektekből. A kazah részvényesek stratégiai befektetései révén a gyárat modernizálták, hogy növeljék a kapacitást, miközben csökkentették a korábban jelentős környezeti porterhelést.",
+        "ro": "Fabrica de ciment din Kant este coloana vertebrală a industriei construcțiilor din nordul Kârgâzstanului și una dintre cele mai productive unități industriale din regiunea Chüy. De la inaugurarea sa în 1964, fabrica produce ciment și alte materiale de construcție de bază, indispensabile pentru dezvoltarea infrastructurii întregii țări. După o scădere a producției în anii 1990, facilitatea a profitat enorm în ultimele decenii de boom-ul imobiliar din capitala apropiată Bishkek, precum și de proiectele majore de infrastructură rutieră. Prin investiții strategice ale acționarilor kazahi, fabrica a fost modernizată pentru a crește capacitatea, reducând totodată poluarea istorică cu praf a mediului.",
+        "en": "The Kant Cement Plant serves as the backbone of the construction industry in northern Kyrgyzstan and is one of the most productive industrial facilities in the Chüy Region. Since its commissioning in 1964, the plant has manufactured cement and other fundamental building materials indispensable for the nation's infrastructural development. Following a production slump in the 1990s, the facility has profited enormously in recent decades from the construction boom in the nearby capital, Bishkek, as well as major road building projects. Strategic investments by Kazakh shareholders have modernized the plant, increasing capacity while simultaneously mitigating its historically significant dust pollution."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der Stadt Kant, unweit der Hauptstadt Bischkek.",
+          "Wurde 1964 errichtet und ist der größte Zementproduzent im Norden.",
+          "Profitiert stark vom Bauboom in Bischkek.",
+          "Liefert Baustoffe für nationale Straßen- und Infrastrukturprojekte.",
+          "Wurde durch kasachisches Kapital umfassend modernisiert.",
+          "Hat in Filteranlagen investiert, um die Staubemissionen zu senken.",
+          "Produziert verschiedene Zementsorten für unterschiedliche Baukriterien."
+        ],
+        "hu": [
+          "Kant városában található, Biskek közvetlen közelében.",
+          "1964-ben épült, és észak legnagyobb cementgyártója.",
+          "Erősen profitál a biskeki ingatlanépítési lázból.",
+          "Építőanyagot biztosít az országos út- és infrastruktúra-projektekhez.",
+          "Kazah tőkebevonás révén átfogó modernizáción esett át.",
+          "Szűrőberendezésekbe ruházott be a porkibocsátás csökkentése érdekében.",
+          "Többféle cementtípust gyárt a különböző építési szabványokhoz."
+        ],
+        "ro": [
+          "Se află în orașul Kant, la mică distanță de capitala Bishkek.",
+          "Construită în 1964, este cel mai mare producător de ciment din nord.",
+          "Beneficiază puternic de boom-ul construcțiilor din Bishkek.",
+          "Furnizează materiale pentru proiecte naționale de drumuri și infrastructură.",
+          "A fost amplu modernizată prin intermediul capitalului kazah.",
+          "A investit în sisteme de filtrare pentru a reduce emisiile de praf.",
+          "Produce diverse tipuri de ciment pentru cerințe variate de construcție."
+        ],
+        "en": [
+          "Located in the town of Kant, a short distance from the capital Bishkek.",
+          "Constructed in 1964, it remains the largest cement producer in the north.",
+          "Benefits heavily from the ongoing real estate construction boom in Bishkek.",
+          "Supplies materials for national highway and critical infrastructure projects.",
+          "Underwent comprehensive modernization backed by Kazakh corporate capital.",
+          "Invested in advanced filtration systems to significantly lower dust emissions.",
+          "Manufactures multiple grades of cement to meet various structural standards."
+        ]
+      }
+    },
+    {
+      "id": "mailuu-suu-lightbulb-factory-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Glühlampenfabrik in Mailuu-Suu, gelegen in der südlichen Dschalal-Abad-Region, ist ein bemerkenswertes industrielles Überbleibsel aus der Sowjetzeit. Ursprünglich wurde die Stadt in den 1940er Jahren um streng geheime Uranminen herum gebaut. Nachdem das Uran erschöpft war, errichtete der sowjetische Staat in den 1960er Jahren die Glühlampenfabrik, um der Bevölkerung eine neue wirtschaftliche Grundlage zu geben. Die Anlage produzierte jährlich Hunderte Millionen Glühbirnen, die in der gesamten UdSSR verwendet wurden. Erstaunlicherweise überlebte die Fabrik den Zerfall der Sowjetunion und exportiert bis heute traditionelle Leuchtmittel in benachbarte zentralasiatische Staaten, auch wenn sie starker Konkurrenz durch moderne LED-Technologie aus China ausgesetzt ist.",
+        "hu": "A déli Dzsalal-Abad régióban található Mailuu-Suu izzógyára a szovjet ipar egy figyelemre méltó túlélője. A várost eredetileg a 40-es években építették szigorúan titkos uránbányák köré. Miután az urán kimerült, a szovjet állam a 60-as években hozta létre az izzógyárat, hogy új gazdasági alapot biztosítson az itt élőknek. A létesítmény évente több százmillió villanykörtét gyártott, amelyeket az egész Szovjetunióban használtak. Meglepő módon a gyár túlélte a Szovjetunió felbomlását, és a mai napig exportál hagyományos fényforrásokat a szomszédos közép-ázsiai országokba, bár egyre nagyobb nyomás nehezedik rá a Kínából érkező modern LED-technológia miatt.",
+        "ro": "Fabrica de becuri din Mailuu-Suu, situată în regiunea sudică Jalal-Abad, este o relicvă industrială remarcabilă din perioada sovietică. Inițial, orașul a fost construit în anii 1940 în jurul unor mine de uraniu strict secrete. După epuizarea uraniului, statul sovietic a înființat fabrica de becuri în anii 1960 pentru a oferi populației o nouă bază economică. Unitatea producea anual sute de milioane de becuri care iluminau întreaga URSS. În mod surprinzător, fabrica a supraviețuit prăbușirii Uniunii Sovietice și continuă și astăzi să exporte corpuri de iluminat tradiționale în statele vecine din Asia Centrală, deși se confruntă cu o concurență acerbă din partea tehnologiei moderne LED din China.",
+        "en": "The Mailuu-Suu Lightbulb Factory, situated in the southern Jalal-Abad Region, is a remarkable industrial survivor of the Soviet era. The town was originally constructed in the 1940s around top-secret uranium mines. After the uranium was depleted, the Soviet state established the lightbulb factory in the 1960s to provide the population with a new economic foundation. The facility churned out hundreds of millions of bulbs annually, illuminating homes across the entire USSR. Astonishingly, the factory survived the collapse of the Soviet Union and continues to export traditional incandescent bulbs to neighboring Central Asian states today, despite facing fierce competition from modern LED technology originating from China."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der ehemaligen geschlossenen Uran-Stadt Mailuu-Suu.",
+          "Wurde gegründet, um Arbeitslosigkeit nach dem Bergbauende zu verhindern.",
+          "Produzierte einst Beleuchtung für die gesamte Sowjetunion.",
+          "Ist bis heute einer der wichtigsten Arbeitgeber der Region.",
+          "Exportiert weiterhin in Länder wie Usbekistan und Tadschikistan.",
+          "Leidet unter der starken Konkurrenz durch billige LED-Importe.",
+          "Die Stadt kämpft noch immer mit radioaktiven Abraumhalden."
+        ],
+        "hu": [
+          "Az egykori zárt uránvárosban, Mailuu-Suu-ban található.",
+          "Azért alapították, hogy megelőzzék a bányászat utáni munkanélküliséget.",
+          "Valaha az egész Szovjetunió számára állított elő világítástechnikát.",
+          "A mai napig a régió egyik legfontosabb ipari munkaadója.",
+          "Továbbra is exportál olyan országokba, mint Üzbegisztán és Tádzsikisztán.",
+          "Megszenvedi az olcsó LED-import jelentette erős piaci versenyt.",
+          "A város még mindig küzd a korábbi bányászat radioaktív meddőhányóival."
+        ],
+        "ro": [
+          "Se află în fostul oraș închis al uraniului, Mailuu-Suu.",
+          "A fost fondată pentru a preveni șomajul după închiderea minelor.",
+          "Producea odinioară corpuri de iluminat pentru întreaga Uniune Sovietică.",
+          "Rămâne până astăzi unul dintre cei mai importanți angajatori din regiune.",
+          "Continuă să exporte în țări precum Uzbekistan și Tadjikistan.",
+          "Suferă din cauza concurenței puternice a importurilor ieftine de LED-uri.",
+          "Orașul se luptă în continuare cu sterilul radioactiv lăsat în urmă."
+        ],
+        "en": [
+          "Located in the formerly closed uranium-mining town of Mailuu-Suu.",
+          "Established to prevent mass unemployment after uranium mining ceased.",
+          "Historically manufactured lighting solutions for the entire Soviet Union.",
+          "Remains one of the most critical industrial employers in the region today.",
+          "Continues to export products to nations like Uzbekistan and Tajikistan.",
+          "Struggles significantly against the heavy competition of cheap LED imports.",
+          "The surrounding town still battles the legacy of radioactive tailings."
+        ]
+      }
+    },
+    {
+      "id": "balykchy-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Balykchy am westlichen Ufer des Issyk-Kul-Sees war historisch das wichtigste logistische Bindeglied zwischen dem Landtransport und der Seeschifffahrt in Kirgisistan. Während der Sowjetzeit endete hier die Eisenbahnstrecke aus Bischkek, und Güter wie Kohle, landwirtschaftliche Produkte und Industriewaren wurden auf Frachtschiffe verladen, um sie an das östliche Seeufer nach Karakol zu transportieren. Mit dem Ausbau der Straßeninfrastruktur rund um den See verlor die Frachtschifffahrt drastisch an Bedeutung, was zum wirtschaftlichen Niedergang des Hafens führte. Heute liegen weite Teile der Anlage und der alten Flotte brach, doch Balykchy bleibt ein strategischer Eisenbahnknotenpunkt und hofft auf wirtschaftliche Impulse durch neue Tourismusprojekte.",
+        "hu": "Az Iszik-köl tó nyugati partján fekvő Balykchy kikötője történelmileg Kirgizisztán legfontosabb logisztikai láncszeme volt a szárazföldi és a tavi szállítmányozás között. A szovjet időkben itt végződött a Biskekből érkező vasútvonal, ahonnan az olyan árukat, mint a szén, mezőgazdasági termékek és ipari cikkek, teherhajókra rakták, hogy a tó keleti partjára, Karakolba szállítsák. A tó körüli közúti infrastruktúra fejlesztésével a vízi teherszállítás drasztikusan veszített jelentőségéből, ami a kikötő gazdasági hanyatlásához vezetett. Ma a létesítmény és a régi flotta nagy része kihasználatlanul áll, de Balykchy továbbra is stratégiai vasúti csomópont maradt, amely új turisztikai projektektől remél gazdasági fellendülést.",
+        "ro": "Portul Balykchy, situat pe malul vestic al lacului Issyk-Kul, a fost istoric cea mai importantă verigă logistică între transportul terestru și navigația pe lac în Kârgâzstan. În perioada sovietică, linia de cale ferată de la Bishkek se termina aici, iar mărfuri precum cărbunele, produsele agricole și bunurile industriale erau încărcate pe nave de marfă pentru a fi transportate pe malul estic, spre Karakol. Odată cu dezvoltarea infrastructurii rutiere în jurul lacului, transportul de marfă pe apă și-a pierdut drastic din importanță, ducând la declinul economic al portului. Astăzi, mari părți ale facilității și vechea flotă stau nefolosite, dar Balykchy rămâne un nod feroviar strategic și speră la o relansare economică prin noi proiecte turistice.",
+        "en": "The Port of Balykchy, located on the western shore of Lake Issyk-Kul, was historically the most critical logistical link between overland transport and lake navigation in Kyrgyzstan. During the Soviet era, the railway line from Bishkek terminated here, where freight such as coal, agricultural produce, and industrial goods were loaded onto cargo ships for transport to Karakol on the eastern shore. With the extensive development of road infrastructure around the lake, maritime freight shipping drastically lost its relevance, leading to the economic decline of the port. Today, large portions of the facility and the old fleet lie dormant, yet Balykchy remains a strategic railway terminus hoping for economic revitalization through new tourism projects."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt am strategisch wichtigen Westufer des Issyk-Kul.",
+          "War einst der wichtigste Umschlaghafen für Seetransporte.",
+          "Verbindet das Schifffahrtsnetzwerk mit der nationalen Eisenbahn.",
+          "Die kommerzielle Schifffahrt kam fast vollständig zum Erliegen.",
+          "Rostende sowjetische Frachtschiffe prägen heute das Hafenbild.",
+          "Die Stadt Balykchy sucht nach wirtschaftlicher Neuausrichtung.",
+          "Dient weiterhin als primärer Ankunftsort für viele See-Touristen."
+        ],
+        "hu": [
+          "Az Iszik-köl tó stratégiailag fontos nyugati partján helyezkedik el.",
+          "Egykor a tavi szállítmányozás legfőbb átrakodó kikötője volt.",
+          "Összeköti a tavi hajózási hálózatot az országos vasúttal.",
+          "A kereskedelmi célú hajózás mára szinte teljesen leállt.",
+          "A kikötő képét ma rozsdásodó szovjet teherhajók határozzák meg.",
+          "Balykchy városa aktívan keresi a gazdasági megújulás útjait.",
+          "Továbbra is az Iszik-kölhöz érkező turisták fő érkezési pontja."
+        ],
+        "ro": [
+          "Se află pe malul vestic, strategic important, al lacului Issyk-Kul.",
+          "A fost anterior cel mai important port de transbordare pentru navigație.",
+          "Conectează rețeaua de transport pe apă cu calea ferată națională.",
+          "Navigația comercială a ajuns la un blocaj aproape total.",
+          "Navele de marfă sovietice ruginite domină peisajul actual al portului.",
+          "Orașul Balykchy caută o nouă direcție și revitalizare economică.",
+          "Servește în continuare drept punct principal de sosire pentru turiști."
+        ],
+        "en": [
+          "Situated on the strategically vital western shore of Lake Issyk-Kul.",
+          "Formerly operated as the foremost transshipment port for lake transport.",
+          "Connects the lake's maritime network directly to the national railway.",
+          "Commercial freight shipping on the lake has come to an almost complete halt.",
+          "Rusting Soviet-era cargo vessels now dominate the port's landscape.",
+          "The city of Balykchy is actively seeking new economic redirection.",
+          "Continues to serve as the primary arrival point for many lake tourists."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "description": "Esquipulas in Matagalpa is a coffee-growing community, named after the Black Christ of Esquipulas statue.",
+      "facts": ["Coffee-growing community", "Black Christ of Esquipulas", "Matagalpa"]
+    },
+    {
+      "id": "la-dalia-matagalpa-cities-v2",
+      "description": "La Dalia in Matagalpa is a major coffee-producing region, known for its mountainous terrain and agricultural output.",
+      "facts": ["Coffee-producing region", "Mountainous terrain", "Agricultural output"]
+    },
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "description": "Matiguás in Matagalpa is an important agricultural center, known for cattle ranching and dairy products.",
+      "facts": ["Agricultural center", "Cattle ranching", "Dairy products"]
+    },
+    {
+      "id": "san-ramon-matagalpa-cities-v2",
+      "description": "San Ramón in Matagalpa is a mountainous municipality, known for its quality coffee and green landscapes.",
+      "facts": ["Mountainous municipality", "Quality coffee", "Green landscapes"]
+    },
+    {
+      "id": "terrabona-matagalpa-cities-v2",
+      "description": "Terrabona in Matagalpa is known for its agricultural production, particularly coffee and beans.",
+      "facts": ["Agricultural production", "Coffee and beans", "Matagalpa"]
+    },
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "description": "San Fernando in Nueva Segovia is a small rural community on the border with Honduras.",
+      "facts": ["Rural community", "Honduras border", "Nueva Segovia"]
+    },
+    {
+      "id": "el-jicaro-nueva-segovia-cities-v2",
+      "description": "El Jícaro in Nueva Segovia is a mining town, famous for its gold exploitation and mining history.",
+      "facts": ["Mining town", "Gold exploitation", "Mining history"]
+    },
+    {
+      "id": "desembocadura-de-rio-grande-cities-v2",
+      "description": "Desembocadura de Río Grande is a coastal community at the mouth of the Río Grande, known for its fishing.",
+      "facts": ["Coastal community", "Fishing", "Río Grande"]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "description": "Corn Island (Islas del Maíz) are two Caribbean islands, known for their coral reefs and relaxed atmosphere.",
+      "facts": ["Caribbean islands", "Coral reefs", "Relaxed atmosphere"]
+    },
+    {
+      "id": "la-cruz-de-rio-grande-cities-v2",
+      "description": "La Cruz de Río Grande is a rural community in the North Caribbean Coast Autonomous Region, known for its indigenous cultures.",
+      "facts": ["Rural community", "Indigenous cultures", "North Caribbean Coast"]
+    },
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "description": "Morrito on the Río San Juan is a small fishing village, known for its tranquility and proximity to Lake Nicaragua.",
+      "facts": ["Fishing village", "Río San Juan", "Lake Nicaragua"]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "description": "San Jorge in Rivas is a port town on Lake Nicaragua, an important ferry terminal to Ometepe Island.",
+      "facts": ["Port town", "Lake Nicaragua", "Ferry terminal"]
+    },
+    {
+      "id": "belen-rivas-cities-v2",
+      "description": "Belén in Rivas is an agricultural community that cultivates rice and sugar cane.",
+      "facts": ["Agricultural community", "Rice and sugar cane", "Rivas"]
+    },
+    {
+      "id": "potosi-rivas-cities-v2",
+      "description": "Potosí in Rivas is a small community, known for its thermal springs and proximity to volcanoes.",
+      "facts": ["Thermal springs", "Volcanoes", "Rivas"]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "description": "Buenos Aires in Rivas is a quiet agricultural community, known for its rice and sugar cane cultivation.",
+      "facts": ["Agricultural community", "Rice and sugar cane", "Rivas"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-red-house-history-v2",
+      "descriptionAdvancedDe": "Das Rote Haus in Georgetown ist ein markantes historisches Gebäude, das vor allem für seine leuchtend rote Fassade und seine politische Bedeutung bekannt ist. Ursprünglich als privates Wohnhaus im späten 19. Jahrhundert erbaut, wurde es später von der Kolonialregierung erworben. Seine berühmteste Rolle war die als offizielle Residenz von Dr. Cheddi Jagan, einer zentralen Figur in der guyanischen Politik, während seiner Zeit als Premierminister. Das Holzgebäude mit seinen komplizierten Verzierungen und dem amerikanischen Kolonialstil ist ein schönes Beispiel für die Architektur dieser Epoche. Heute beherbergt das Rote Haus das Cheddi Jagan Research Centre, ein Archiv und eine Forschungseinrichtung, die sich dem Leben und Werk von Cheddi und Janet Jagan widmet. Es dient als Bildungsressource und erinnert an eine entscheidende Periode des anti-kolonialen Kampfes und der politischen Entwicklung Guyanas.",
+      "descriptionAdvancedHu": "A georgetowni Vörös Ház egy jellegzetes történelmi épület, amely leginkább élénkvörös homlokzatáról és politikai jelentőségéről ismert. Eredetileg a 19. század végén magánlakásként épült, később a gyarmati kormány vásárolta meg. Leghíresebb szerepe az volt, hogy Dr. Cheddi Jagan, a guyanai politika központi alakjának hivatalos rezidenciája volt miniszterelnöksége idején. A bonyolult díszítésekkel és amerikai gyarmati stílussal rendelkező faépület a korszak építészetének gyönyörű példája. Ma a Vörös Ház ad otthont a Cheddi Jagan Kutatóközpontnak, egy archívumnak és kutatóintézetnek, amely Cheddi és Janet Jagan életének és munkásságának szenteli magát. Oktatási forrásként szolgál, és Guyana gyarmatiellenes küzdelmének és politikai fejlődésének egy döntő időszakára emlékeztet.",
+      "descriptionAdvancedRo": "Casa Roșie din Georgetown este o clădire istorică distinctivă, cunoscută în principal pentru fațada sa de un roșu aprins și pentru semnificația sa politică. Construită inițial ca reședință privată la sfârșitul secolului al XIX-lea, a fost ulterior achiziționată de guvernul colonial. Cel mai faimos rol al său a fost acela de reședință oficială a Dr. Cheddi Jagan, o figură centrală în politica guyaneză, în timpul mandatului său de premier. Clădirea din lemn, cu decorațiunile sale complexe și stilul colonial american, este un exemplu frumos de arhitectură a epocii. Astăzi, Casa Roșie găzduiește Centrul de Cercetare Cheddi Jagan, o arhivă și o instituție de cercetare dedicată vieții și activității lui Cheddi și Janet Jagan. Acesta servește ca resursă educațională și amintește de o perioadă crucială a luptei anticoloniale și a dezvoltării politice a Guyanei.",
+      "descriptionAdvancedEn": "The Red House in Georgetown is a distinctive historical building, best known for its bright red facade and its political significance. Originally built as a private residence in the late 19th century, it was later acquired by the colonial government. Its most famous role was as the official residence of Dr. Cheddi Jagan, a central figure in Guyanese politics, during his time as Premier. The wooden building, with its intricate fretwork and American colonial style, is a beautiful example of the architecture of its era. Today, the Red House is home to the Cheddi Jagan Research Centre, an archive and research facility dedicated to the life and work of Cheddi and Janet Jagan. It serves as an educational resource and a reminder of a crucial period of Guyana's anti-colonial struggle and political development.",
+      "factsAdvanced": [
+        "Erbaut im späten 19. Jahrhundert.",
+        "Bekannt für seine markante rote Farbe.",
+        "War die offizielle Residenz von Premierminister Dr. Cheddi Jagan.",
+        "Architektur im amerikanischen Kolonialstil.",
+        "Beherbergt heute das Cheddi Jagan Research Centre.",
+        "Das Zentrum archiviert Dokumente zur politischen Geschichte Guyanas.",
+        "Ein Symbol des Kampfes für die Unabhängigkeit.",
+        "Befindet sich in der High Street, Kingston, Georgetown."
+      ]
+    }
+  ]
+}

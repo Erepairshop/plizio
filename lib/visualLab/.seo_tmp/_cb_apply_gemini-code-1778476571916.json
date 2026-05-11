@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalksteinwerk-sougueta-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kalksteinwerk Souguéta ist eine zentrale industrielle Anlage in der Präfektur Kindia und spielt eine entscheidende Rolle für die guineische Bauindustrie. Geografisch liegt das Werk in einer Region, die reich an hochwertigen Kalksteinvorkommen ist, welche die Basis für die Produktion von Kalk und Zementzuschlagstoffen bilden. Die Anlage verarbeitet den im Tagebau gewonnenen Kalkstein direkt vor Ort durch Brechen, Mahlen und Brennen. Wirtschaftlich ist Souguéta von strategischer Bedeutung, da es die Abhängigkeit Guineas von teuren Importen für den Wohnungs- und Infrastrukturbau verringert. Die Nähe zur Nationalstraße N1 ermöglicht einen effizienten Transport der Produkte in die Hauptstadt Conakry sowie in das Landesinnere. Das Werk ist ein wichtiger Arbeitgeber in der ländlichen Zone von Kindia und trägt zur Diversifizierung der lokalen Wirtschaft bei, die traditionell stark agrarisch geprägt ist. Technologisch wurde die Anlage in den letzten Jahren modernisiert, um die Energieeffizienz zu steigern und die Staubemissionen zu reduzieren. Trotz der industriellen Prägung ist die Umgebung durch die markanten Felsformationen der Region Kindia gekennzeichnet, die eine beeindruckende Kulisse für die bergbaulichen Aktivitäten bilden.",
+        "hu": "A souguétai mészkőmű Guinea egyik kulcsfontosságú ipari létesítménye a Kindia prefektúrában, amely alapvető szerepet játszik az ország építőiparának kiszolgálásában. A gyár olyan földrajzi övezetben fekszik, amely gazdag kiváló minőségű mészkőlelőhelyekben; ezek adják az alapanyagot a mész- és cementadalékok gyártásához. A komplexum a helyszíni külszíni fejtésből származó mészkövet dolgozza fel aprítási, őrlési és égetési folyamatokon keresztül. Gazdaságilag Souguéta stratégiai jelentőségű, mivel csökkenti Guinea függőségét a drága import építőanyagoktól, támogatva ezzel az állami infrastruktúra-fejlesztéseket és a lakásépítéseket. Az N1-es országút közelsége lehetővé teszi a késztermékek gyors eljuttatását Conakryba és a belső régiókba egyaránt. A gyár a környék egyik legnagyobb munkaadója, segítve a hagyományosan mezőgazdaságból élő helyi közösségek megélhetését. Az utóbbi időben jelentős technológiai korszerűsítések történtek az üzemben az energiahatékonyság növelése és a környezeti porártalom csökkentése érdekében. A tájat a Kindia régióra jellemző látványos sziklaformációk uralják, amelyek különleges hátteret adnak az ipari tevékenységnek.",
+        "ro": "Fabrica de calcar din Souguéta este o unitate industrială centrală situată în prefectura Kindia, având un rol decisiv pentru industria construcțiilor din Guineea. Din punct de vedere geografic, fabrica este amplasată într-o regiune bogată în depozite de calcar de înaltă puritate, care constituie materia primă pentru producția de var și aditivi pentru ciment. Instalația procesează piatra extrasă din carierele adiacente prin procese de concasare, măcinare și calcinare direct la fața locului. Din punct de vedere economic, Souguéta are o importanță strategică, reducând dependența țării de importurile costisitoare de materiale necesare proiectelor de infrastructură și locuințe. Proximitatea față de drumul național N1 facilitează transportul eficient al produselor către capitala Conakry și către regiunile interioare. Fabrica reprezintă un angajator major în zona rurală a Kindiei, contribuind la diversificarea economiei locale, care este tradițional agrară. Tehnologic, unitatea a beneficiat recent de modernizări pentru creșterea eficienței energetice și reducerea emisiilor de praf. Deși este un sit industrial, împrejurimile sunt marcate de formațiunile stâncoase spectaculoase specifice regiunii, oferind un contrast vizual puternic.",
+        "en": "The Souguéta Limestone Plant is a pivotal industrial facility in the Kindia Prefecture, playing a critical role in supporting Guinea's construction sector. Geographically, the plant is situated in a region endowed with high-quality limestone deposits, which serve as the raw material for lime and cement additives. The facility processes stone extracted from nearby open-pit quarries through crushing, grinding, and calcination stages on-site. Economically, Souguéta holds strategic importance by reducing Guinea's reliance on expensive imported construction materials, thereby supporting national infrastructure and housing development. Its location near the N1 national highway allows for the efficient transport of finished products to the capital, Conakry, and the interior regions. The plant is a major employer in the rural Kindia area, fostering economic diversification in a traditionally agricultural zone. In recent years, technological upgrades have been implemented to improve energy efficiency and mitigate dust emissions. Despite the industrial activity, the surrounding landscape is defined by the striking rock formations typical of the Kindia region, providing a dramatic backdrop to the extraction works."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Werk ist einer der Hauptlieferanten für Kalkprodukte in Guinea.",
+          "Es nutzt die Kalksteinvorkommen der Region Basse-Guinée.",
+          "Souguéta liegt verkehrsgünstig an der Hauptachse Conakry-Mamou.",
+          "Die industrielle Kalkbrennerei ist ein seltener Wirtschaftszweig im Land.",
+          "Die Anlage versorgt auch die Landwirtschaft mit Bodenverbesserungsmitteln.",
+          "Das Werk hat zur Modernisierung der lokalen Strominfrastruktur beigetragen."
+        ],
+        "hu": [
+          "Souguéta Guinea egyik legfontosabb mésztermék-beszállítója.",
+          "A gyár az Alsó-Guinea régió gazdag mészkőrétegeit aknázza ki.",
+          "A település a Conakry-Mamou közötti fő közlekedési útvonal mentén fekszik.",
+          "Az üzem mezőgazdasági talajjavító mészport is előállít.",
+          "A mészkőmű építése javította a környék elektromos hálózatát.",
+          "A gyár technológiája alkalmas speciális építőipari adalékok gyártására is."
+        ],
+        "ro": [
+          "Souguéta este principalul furnizor de var industrial din Republica Guineea.",
+          "Exploatarea se bazează pe rezervele geologice masive din Basse-Guinée.",
+          "Localizarea pe ruta N1 asigură accesul facil la piețele de desfacere.",
+          "Fabrica produce și var stins utilizat în agricultură pentru corectarea acidității solului.",
+          "Unitatea a stimulat dezvoltarea micilor afaceri de transport în zonă.",
+          "Modernizările recente au inclus filtre de aer de înaltă capacitate."
+        ],
+        "en": [
+          "Souguéta is a leading supplier of lime-based products in Guinea.",
+          "The plant taps into the extensive limestone beds of the Lower Guinea region.",
+          "It is strategically located on the primary Conakry-Mamou transport corridor.",
+          "The facility produces agricultural lime used to improve soil quality.",
+          "The plant's presence has led to significant local electrical grid upgrades.",
+          "It is one of the few large-scale non-mining industrial sites in the interior."
+        ]
+      }
+    },
+    {
+      "id": "zementwerk-conakry-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Zementwerk Conakry, betrieben von Ciments de Guinée, ist die wichtigste Produktionsstätte für Baustoffe im Land und ein Symbol für die industrielle Entwicklung der Hauptstadt. Geografisch liegt das Werk strategisch günstig in der Industriezone von Conakry, mit direktem Zugang zum Hafen, was für den Import von Klinker – dem Hauptrohstoff für die Zementherstellung – von entscheidender Bedeutung ist. Da Guinea selbst nur über begrenzte Klinker-Ressourcen verfügt, fungiert das Werk primär als Mahlstation und Mischanlage für hochwertige Zementsorten. Wirtschaftlich ist die Anlage das Rückgrat des guineischen Bausektors; ohne ihre Produktion wären Großprojekte wie Staudämme, Brücken und der städtische Wohnungsbau kaum realisierbar. Das Werk hat über die Jahrzehnte seine Kapazitäten kontinuierlich erweitert, um der steigenden Nachfrage gerecht zu werden. Die Präsenz von Ciments de Guinée hat zudem zur Ansiedlung zahlreicher Logistik- und Dienstleistungsunternehmen in der Umgebung geführt. Trotz der Herausforderungen durch die hohe Luftfeuchtigkeit an der Küste arbeitet das Werk mit modernen Standards der Qualitätskontrolle. Es stellt einen wesentlichen Faktor für die nationale Wertschöpfung dar und sichert hunderte qualifizierte Arbeitsplätze im industriellen Herzen Guineas.",
+        "hu": "A conakry-i cementgyár, amelyet a Ciments de Guinée üzemeltet, az ország legfontosabb építőanyag-előállító üzeme, és a főváros ipari fejlődésének egyik tartóoszlopa. Földrajzilag a gyár stratégiai helyen, Conakry ipari negyedében található, közvetlen összeköttetéssel a kikötőhöz. Ez elengedhetetlen a klinker – a cementgyártás alapanyaga – importjához, mivel Guinea saját klinkerkészletei korlátozottak. Az üzem elsősorban őrlőállomásként és keverőüzemként funkcionál, ahol különböző minőségű cementfajtákat állítanak elő a hazai piac számára. Gazdaságilag a létesítmény a guineai építőipar gerincét alkotja; az itt készült termékek nélkül a nagyberuházások, például gátak, hidak és a városi lakóparkok építése kivitelezhetetlen lenne. Az évtizedek során a gyár folyamatosan bővítette kapacitásait, hogy lépést tartson a növekvő kereslettel. A Ciments de Guinée jelenléte számos logisztikai és szolgáltató vállalkozást vonzott a környékre. A tengerparti párás levegő okozta technológiai nehézségek ellenére az üzem szigorú minőségbiztosítási szabványok szerint működik. A gyár meghatározó szerepet játszik a nemzeti GDP növelésében, és több száz képzett szakembernek biztosít stabil megélhetést Guinea ipari szívében.",
+        "ro": "Fabrica de ciment din Conakry, operată de Ciments de Guinée, este cea mai importantă unitate de producție a materialelor de construcție din țară și un simbol al dezvoltării industriale a capitalei. Geografic, fabrica este situată strategic în zona industrială a orașului Conakry, având acces direct la port, ceea ce este vital pentru importul de clincher – materia primă principală pentru fabricarea cimentului. Deoarece Guineea deține resurse limitate de clincher, fabrica funcționează în principal ca o stație de măcinare și amestecare pentru sortimente de ciment de înaltă calitate. Din punct de vedere economic, unitatea reprezintă coloana vertebrală a sectorului construcțiilor din Guineea; fără producția sa, marile proiecte precum barajele, podurile și ansamblurile rezidențiale urbane ar fi greu de realizat. De-a lungul deceniilor, fabrica și-a extins continuu capacitățile pentru a face față cererii interne în creștere. Prezența Ciments de Guinée a stimulat, de asemenea, dezvoltarea numeroaselor firme de logistică și servicii în vecinătate. În ciuda provocărilor cauzate de umiditatea ridicată de pe coastă, fabrica aplică standarde moderne de control al calității, fiind un factor esențial pentru valoarea adăugată națională și asigurând sute de locuri de muncă calificate.",
+        "en": "The Conakry Cement Plant, operated by Ciments de Guinée, is the most vital construction material production site in the country and a cornerstone of the capital's industrial landscape. Geographically, the plant is strategically located within Conakry's industrial zone, with direct access to the port—a crucial link for the import of clinker, the primary raw material for cement production. As Guinea possesses limited domestic clinker resources, the plant functions primarily as a grinding and blending station for various high-grade cement types. Economically, the facility is the backbone of the Guinean construction industry; major projects such as dams, bridges, and urban housing developments rely heavily on its output. Over the decades, the plant has consistently expanded its capacity to keep pace with rising domestic demand. The presence of Ciments de Guinée has also spurred the growth of numerous logistics and service companies in the surrounding area. Despite the technical challenges posed by the high coastal humidity, the plant maintains modern quality control standards. It represents a significant contributor to the national economy and provides stable, skilled employment in Guinea's industrial heartland."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ciments de Guinée ist der älteste und größte Zementproduzent des Landes.",
+          "Das Werk verarbeitet importierten Klinker zu verschiedenen Zementklassen.",
+          "Es befindet sich in unmittelbarer Nähe zum autonomen Hafen von Conakry.",
+          "Die Anlage verfügt über eigene Silos mit massiver Lagerkapazität.",
+          "Das Werk beliefert fast alle großen Infrastrukturprojekte Guineas.",
+          "Qualitätssicherung erfolgt nach internationalen ISO-Standards."
+        ],
+        "hu": [
+          "A Ciments de Guinée az ország legrégebbi és legnagyobb cementgyártója.",
+          "Az üzem az importált klinkert őrli és keveri különböző cementtípusokká.",
+          "A gyár közvetlenül a conakry-i autonóm kikötő szomszédságában épült fel.",
+          "Hatalmas tárolókapacitású silókkal rendelkezik a folyamatos ellátás érdekében.",
+          "Ez az egység szolgálja ki Guinea szinte összes nagy híd- és gátépítését.",
+          "A termelés megfelel a nemzetközi ISO minőségirányítási szabványoknak."
+        ],
+        "ro": [
+          "Ciments de Guinée este pionierul industriei de ciment din Republica Guineea.",
+          "Unitatea transformă clincherul importat în ciment de tip Portland.",
+          "Accesul la portul Conakry reduce semnificativ costurile de transport ale materiei prime.",
+          "Capacitatea de stocare în silozuri este una dintre cele mai mari din regiune.",
+          "Fabrica este esențială pentru urbanizarea accelerată a peninsulei Kaloum.",
+          "Procesul de producție include monitorizarea constantă a impactului asupra mediului."
+        ],
+        "en": [
+          "Ciments de Guinée is the oldest and largest cement producer in the country.",
+          "The plant processes imported clinker into several grades of Portland cement.",
+          "It is located adjacent to the Autonomous Port of Conakry for logistical ease.",
+          "The facility features massive silos for large-scale raw material storage.",
+          "It is the primary cement source for Guinea's major dam and bridge projects.",
+          "Production follows strict international ISO quality management standards."
+        ]
+      }
+    },
+    {
+      "id": "bauxitmine-koumbia-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bauxitmine Koumbia ist ein bedeutendes Bergbauprojekt in der Präfektur Gaoual, gelegen in der Region Boké im Nordwesten Guineas. Das Projekt wird von Alliance Mining Commodities (AMC) entwickelt und konzentriert sich auf eine der weltweit größten unerschlossenen Bauxitlagerstätten mit extrem hohem Aluminiumoxidgehalt. Geografisch liegt Koumbia auf einem weitläufigen Plateau, das Teil des westguineischen Bauxitgürtels ist. Die Erschließung dieses Standorts erfordert eine umfangreiche logistische Planung, einschließlich des Baus einer neuen Transportinfrastruktur zum Hafen. Wirtschaftlich ist Koumbia ein zentraler Baustein in Guineas Strategie, seine Position als weltweit führender Bauxit-Exporteur weiter zu festigen. Das Erz in Koumbia gilt als besonders hochwertig, da es geringe Mengen an reaktivem Siliziumdioxid enthält, was die Weiterverarbeitung zu Aluminium effizienter macht. Das Projekt hat bereits während der Entwicklungsphase zur Verbesserung der lokalen Infrastruktur in der abgelegenen Präfektur Gaoual beigetragen. Neben der wirtschaftlichen Bedeutung steht die Mine vor der Herausforderung, den Bergbau mit dem Schutz der lokalen Ökosysteme und der Unterstützung der ländlichen Gemeinschaften, die hauptsächlich von der Viehzucht leben, in Einklang zu bringen.",
+        "hu": "A koumbiai bauxitbánya egy jelentős bányászati projekt a Gaoual prefektúrában, Guinea északnyugati részén, a Boké régióban. A projektet az Alliance Mining Commodities (AMC) fejleszti, és a világ egyik legnagyobb, eddig kiaknázatlan, rendkívül magas alumínium-oxid tartalmú bauxitkészletére összpontosít. Földrajzilag Koumbia egy tágas fennsíkon helyezkedik el, amely a nyugat-guineai bauxitövezet szerves része. A lelőhely kiaknázása komoly logisztikai felkészülést igényel, beleértve egy új szállítási útvonal kiépítését a kikötők felé. Gazdasági szempontból Koumbia központi eleme Guinea azon stratégiájának, hogy tovább erősítse pozícióját a világ vezető bauxit-exportőreként. Az itt található érc különösen értékesnek számít, mivel alacsony a reaktív szilícium-dioxid tartalma, ami megkönnyíti és költséghatékonyabbá teszi az alumíniumgyártást. A projekt már a fejlesztési szakaszban hozzájárult a távoli Gaoual prefektúra infrastruktúrájának javításához. A gazdasági előnyök mellett a bányának szembe kell néznie azzal a kihívással, hogy egyensúlyt teremtsen az ipari tevékenység, a helyi ökoszisztémák védelme és a hagyományosan állattenyésztésből élő közösségek támogatása között.",
+        "ro": "Mina de bauxită Koumbia este un proiect minier major situat în prefectura Gaoual, în regiunea Boké din nord-vestul Guineei. Dezvoltat de compania Alliance Mining Commodities (AMC), proiectul vizează unul dintre cele mai mari zăcăminte de bauxită neexploatate din lume, remarcabil prin conținutul său ridicat de alumină. Geografic, Koumbia se află pe un platou vast care face parte din bogata centură de bauxită a Guineei de Vest. Exploatarea acestui sit necesită o planificare logistică amplă, incluzând construcția unei infrastructuri de transport dedicate către terminalele portuare. Din punct de vedere economic, Koumbia este un element central în strategia Guineei de a-și consolida poziția de lider mondial în exportul de bauxită. Minereul de aici este considerat de calitate premium datorită conținutului scăzut de silice reactivă, ceea ce optimizează procesul de rafinare a aluminiului. Proiectul a început deja să aducă îmbunătățiri infrastructurii locale în prefectura izolată Gaoual. Pe lângă miza economică, mina se confruntă cu provocarea de a armoniza activitatea industrială cu protecția ecosistemelor locale și cu susținerea comunităților rurale, care depind în principal de creșterea animalelor.",
+        "en": "The Koumbia Bauxite Mine is a major mining project in the Gaoual Prefecture, located in the Boké Region of northwestern Guinea. Developed by Alliance Mining Commodities (AMC), the project targets one of the world's largest untapped bauxite deposits, distinguished by its exceptionally high alumina content. Geographically, Koumbia is situated on an extensive plateau within the prolific West Guinean bauxite belt. Developing this site requires significant logistical preparation, including the construction of a dedicated transport corridor to reach the coast. Economically, Koumbia is a cornerstone of Guinea's strategy to further cement its position as a global leader in bauxite exports. The ore found here is considered premium grade due to its low reactive silica content, which enhances the efficiency of the aluminum refining process. Even in its developmental stages, the project has contributed to infrastructure improvements in the remote Gaoual Prefecture. Beyond its economic impact, the mine faces the challenge of balancing industrial operations with environmental conservation and supporting the local rural communities that primarily rely on livestock farming."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koumbia verfügt über geschätzte Reserven von über 2 Milliarden Tonnen Bauxit.",
+          "Das Erz gehört mit über 48 % Aluminiumoxid zur Weltklasse.",
+          "Hinter dem Projekt steht das Konsortium Alliance Mining Commodities (AMC).",
+          "Ein geplantes Schienensystem soll Koumbia mit dem Hafen verbinden.",
+          "Die Mine liegt in einer ökologisch sensiblen Zone des Boké-Beckens.",
+          "Es ist eines der größten Greenfield-Projekte im guineischen Bergbau."
+        ],
+        "hu": [
+          "Koumbia becsült bauxitkészlete meghaladja a 2 milliárd tonnát.",
+          "Az érc 48% feletti alumínium-oxid tartalmával a világ élvonalába tartozik.",
+          "A projekt mögött az Alliance Mining Commodities (AMC) konzorcium áll.",
+          "Egy tervezett vasútvonal fogja összekötni a bányát a tengerparti terminálokkal.",
+          "A bánya a Boké-medence egyik ökológiailag legértékesebb részén található.",
+          "Ez Guinea egyik legnagyobb zöldmezős bányászati beruházása."
+        ],
+        "ro": [
+          "Zăcământul Koumbia este evaluat la peste 2 miliarde de tone de bauxită.",
+          "Minereul se distinge printr-o puritate ridicată, ideală pentru exportul direct.",
+          "Proiectul este dezvoltat de consorțiul internațional AMC.",
+          "Logistica proiectului include un coridor de transport de mare capacitate.",
+          "Mina va genera venituri semnificative la bugetul de stat pe termen lung.",
+          "Regiunea Gaoual a beneficiat de noi foraje de apă datorită proiectului."
+        ],
+        "en": [
+          "Koumbia holds estimated reserves of over 2 billion tonnes of bauxite.",
+          "The ore grade exceeds 48% alumina, placing it in the top tier globally.",
+          "The project is being spearheaded by Alliance Mining Commodities (AMC).",
+          "A planned heavy-haul railway will connect Koumbia to the export ports.",
+          "The mine is located within a sensitive ecological zone of the Boké basin.",
+          "It represents one of the largest greenfield mining developments in Guinea."
+        ]
+      }
+    },
+    {
+      "id": "niani-history-v2",
+      "descriptionAdvanced": {
+        "de": "Niani ist eine der bedeutendsten archäologischen und historischen Stätten Westafrikas und war einst die legendäre Hauptstadt des Mali-Reiches im 13. und 14. Jahrhundert. Geografisch liegt der Ort im Nordosten Guineas in der Präfektur Siguiri, am Ufer des Sankarani-Flusses, einem Nebenfluss des Niger. In seiner Blütezeit war Niani die Residenz von Sundiata Keita, dem Gründer des Reiches, und später des berühmten Mansa Musa, der für seinen sagenhaften Reichtum bekannt war. Die Stadt war ein zentraler Knotenpunkt des Transsahara-Handels, wo Gold, Salz und Sklaven gehandelt wurden. Archäologische Ausgrabungen haben Überreste von Palästen, Moscheen und Wohnvierteln freigelegt, die von einer hochentwickelten städtischen Zivilisation zeugen. Historisch markiert Niani den Höhepunkt der politischen und kulturellen Macht der Mandinka. Der Niedergang der Stadt begann im 15. Jahrhundert durch Angriffe konkurrierender Reiche und die Verlagerung der Handelsrouten. Heute ist Niani ein Symbol für das historische Erbe Guineas und ein Ort der Besinnung auf die Größe der vorkolonialen afrikanischen Reiche. Die Stätte zieht Historiker und Touristen an, die die Ursprünge der Manding-Kultur und die Geschichte des Goldreiches erforschen möchten.",
+        "hu": "Niani Nyugat-Afrika egyik legfontosabb régészeti és történelmi helyszíne, amely a 13. és 14. században a legendás Mali Birodalom fővárosaként szolgált. Földrajzilag Guinea északkeleti részén, a Siguiri prefektúrában található, a Niger egyik mellékfolyója, a Sankarani partján. Fénykorában Niani volt a birodalom alapítójának, Szundiata Keitának (Sundiata Keita), majd később a mesés gazdagságáról híres Mansa Musának a székhelye. A város a transzszaharai kereskedelem egyik központi csomópontja volt, ahol arannyal, sóval és rabszolgákkal kereskedtek. A régészeti feltárások paloták, mecsetek és lakónegyedek maradványait hozták felszínre, amelyek egy fejlett városi civilizációról tanúskodnak. Történelmileg Niani a mandinka nép politikai és kulturális hatalmának csúcsát jelképezi. A város hanyatlása a 15. században kezdődött a rivális birodalmak támadásai és a kereskedelmi útvonalak áthelyeződése miatt. Ma Niani Guinea történelmi örökségének egyik legfontosabb szimbóluma, ahol a látogatók és kutatók a gyarmatosítás előtti afrikai birodalmak nagyságát és a mandingó kultúra gyökereit tanulmányozhatják.",
+        "ro": "Niani este unul dintre cele mai importante situri arheologice și istorice din Africa de Vest, fiind fosta capitală legendară a Imperiului Mali în secolele al XIII-lea și al XIV-lea. Geografic, localitatea este situată în nord-estul Guineei, în prefectura Siguiri, pe malul râului Sankarani, un afluent al Nigerului. În perioada sa de glorie, Niani a fost reședința lui Sundiata Keita, fondatorul imperiului, și ulterior a celebrului Mansa Musa, cunoscut pentru bogăția sa fabuloasă. Orașul era un nod central al comerțului trans-saharian, unde se tranzacționau aurul, sarea și sclavii. Săpăturile arheologice au scos la iveală vestigii ale unor palate, moschei și cartiere rezidențiale, care atestă existența unei civilizații urbane sofisticate. Din punct de vedere istoric, Niani marchează apogeul puterii politice și culturale a poporului Mandinka. Declinul orașului a început în secolul al XV-lea, din cauza atacurilor imperiilor rivale și a deplasării rutelor comerciale. Astăzi, Niani este un simbol al moștenirii istorice a Guineei și un loc de reflecție asupra măreției imperiilor africane precoloniale, atrăgând istorici și turiști dornici să exploreze rădăcinile culturii Manding.",
+        "en": "Niani is one of the most significant archaeological and historical sites in West Africa, once serving as the legendary capital of the Mali Empire during the 13th and 14th centuries. Geographically, it is located in northeastern Guinea within the Siguiri Prefecture, on the banks of the Sankarani River, a tributary of the Niger. In its prime, Niani was the royal residence of Sundiata Keita, the empire's founder, and later of the famous Mansa Musa, renowned for his legendary wealth. The city was a central hub of the trans-Saharan trade routes, where gold, salt, and ivory were exchanged. Archaeological excavations have revealed remains of palaces, mosques, and residential quarters, testifying to a highly developed urban civilization. Historically, Niani represents the peak of Mandinka political and cultural power. The city's decline began in the 15th century due to raids by rival empires and shifts in trade routes. Today, Niani stands as a profound symbol of Guinea's historical heritage, offering insights into the grandeur of pre-colonial African empires and the roots of Manding culture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Niani war die erste Hauptstadt des mächtigen Mali-Reiches.",
+          "Sundiata Keita erklärte Niani im 13. Jahrhundert zu seinem Regierungssitz.",
+          "Die Stadt lag strategisch am schiffbaren Sankarani-Fluss.",
+          "Mansa Musa brach von Niani aus zu seiner berühmten Pilgerreise nach Mekka auf.",
+          "Archäologen fanden dort bedeutende Keramiken und Eisenverhüttungsstätten.",
+          "Niani gilt heute als Nationaldenkmal der Republik Guinea."
+        ],
+        "hu": [
+          "Niani volt a hatalmas Mali Birodalom első fővárosa.",
+          "Szundiata Keita a 13. században tette Nianit uralkodói székhelyévé.",
+          "A város stratégiai helyen, a hajózható Sankarani-folyó partján feküdt.",
+          "Mansa Musa Nianiból indult el legendás mekkai zarándoklatára.",
+          "A régészeti leletek fejlett vasművességre és kerámiakultúrára utalnak.",
+          "Niani ma Guinea egyik legfontosabb történelmi emlékhelye."
+        ],
+        "ro": [
+          "Niani a servit drept capitală a Imperiului Mali timp de peste două secole.",
+          "Este locul de origine al dinastiei Keita, care a dominat Africa de Vest.",
+          "Poziția pe râul Sankarani facilita transportul aurului către nord.",
+          "Orașul a fost descris de călători celebri precum Ibn Battuta.",
+          "Vestigiile arheologice confirmă utilizarea tehnicilor avansate de construcție.",
+          "Niani este inclus pe lista siturilor de importanță istorică națională."
+        ],
+        "en": [
+          "Niani was the inaugural capital of the powerful medieval Mali Empire.",
+          "Sundiata Keita established Niani as his seat of power in the 13th century.",
+          "The city was strategically located on the navigable Sankarani River.",
+          "Mansa Musa set out from Niani for his famous pilgrimage to Mecca.",
+          "Archaeological finds include significant pottery and evidence of iron smelting.",
+          "Niani is a protected national historical site in the Republic of Guinea."
+        ]
+      }
+    },
+    {
+      "id": "bissandougou-history-v2",
+      "descriptionAdvanced": {
+        "de": "Bissandougou ist eine historisch bedeutende Stätte in der Präfektur Kankan, die im späten 19. Jahrhundert als Hauptstadt des Wassoulou-Reiches von Samori Touré fungierte. Die Stadt wurde um 1878 gegründet und war das strategische, militärische und spirituelle Zentrum von Samoris Widerstand gegen die französische Kolonialexpansion in Westafrika. Geografisch liegt Bissandougou in einer Savannenregion, die Samori aufgrund ihrer Verteidigungsvorteile und der Nähe zu Handelswegen wählte. Die Stadt war berühmt für ihre Befestigungsanlagen, ihre Koranschulen und ihre Rolle als Ausbildungsstätte für Samoris Elitetruppen, die Sofas. Hier unterzeichnete Samori 1886 und 1887 Verträge mit den Franzosen, die jedoch nur von kurzer Dauer waren. 1891 wurde Bissandougou nach einer heftigen Belagerung von französischen Truppen unter Oberst Archinard eingenommen und weitgehend zerstört. Historisch symbolisiert der Ort den entschlossenen Widerstand afrikanischer Herrscher gegen den Imperialismus. Heute erinnern Gedenkstätten und Ruinen an die einstige Bedeutung der Stadt als Bollwerk der Freiheit. Bissandougou bleibt ein wichtiger Ort der Erinnerungskultur für das guineische Volk und die Nachfahren der Mandinka.",
+        "hu": "Bissandougou egy történelmileg kiemelkedő helyszín a Kankan prefektúrában, amely a 19. század végén Samori Touré Wassoulou Birodalmának fővárosaként szolgált. A várost 1878 körül alapították, és ez volt a stratégiai, katonai és szellemi központja Samori ellenállásának a nyugat-afrikai francia gyarmati terjeszkedéssel szemben. Földrajzilag Bissandougou egy szavannás régióban fekszik, amelyet Samori a védelmi előnyei és a kereskedelmi utak közelsége miatt választott. A város híres volt erődítményeiről, korán-iskoláiról és a „szofák”, azaz Samori elit csapatainak kiképzőhelyeként betöltött szerepéről. Itt írták alá 1886-ban és 1887-ben azokat a szerződéseket a franciákkal, amelyek rövid ideig fegyverszünetet biztosítottak. 1891-ben Bissandougou-t egy heves ostrom után a francia csapatok Archinard ezredes vezetésével elfoglalták és nagyrészt elpusztították. Történelmileg a hely az afrikai uralkodók imperializmussal szembeni elszánt ellenállását jelképezi. Ma emlékhelyek és romok emlékeztetnek a város egykori jelentőségére, mint a szabadság bástyájára. Bissandougou továbbra is a guineai nép és a mandinka utódok emlékezetkultúrájának fontos állomása.",
+        "ro": "Bissandougou este un sit istoric de o importanță majoră în prefectura Kankan, servind drept capitală a Imperiului Wassoulou condus de Samori Touré la sfârșitul secolului al XIX-lea. Orașul a fost fondat în jurul anului 1878 și a fost centrul strategic, militar și spiritual al rezistenței lui Samori împotriva expansiunii coloniale franceze în Africa de Vest. Geografic, Bissandougou este situat într-o regiune de savană, aleasă de Samori pentru avantajele sale defensive și proximitatea față de rutele comerciale. Orașul era renumit pentru fortificațiile sale, școlile coranice și rolul său de centru de antrenament pentru trupele de elită ale lui Samori, cunoscute sub numele de „sofas”. Aici au fost semnate tratatele din 1886 și 1887 cu francezii, care însă au avut o durată scurtă. În 1891, Bissandougou a fost cucerit și în mare parte distrus de trupele franceze sub comanda colonelului Archinard, după un asediu violent. Din punct de vedere istoric, locul simbolizează rezistența dârză a conducătorilor africani împotriva imperialismului. Astăzi, monumentele și ruinele amintesc de fosta importanță a orașului ca bastion al libertății, Bissandougou rămânând un loc esențial de memorie pentru poporul guineean și descendenții Mandinka.",
+        "en": "Bissandougou is a historically prominent site in the Kankan Prefecture, which served as the capital of Samori Touré's Wassoulou Empire in the late 19th century. Founded around 1878, the city was the strategic, military, and spiritual center of Samori's resistance against French colonial expansion in West Africa. Geographically, Bissandougou is located in a savanna region chosen by Samori for its defensive advantages and proximity to vital trade routes. The city was famous for its fortifications, Quranic schools, and its role as a training ground for Samori's elite troops, known as the 'sofas'. It was here that Samori signed the 1886 and 1887 treaties with the French, which provided only a brief respite from conflict. In 1891, after a fierce siege, Bissandougou was captured and largely destroyed by French forces under Colonel Archinard. Historically, the site symbolizes the determined resistance of African rulers against imperialism. Today, memorials and ruins stand as reminders of the city's former significance as a bastion of independence. Bissandougou remains a crucial site of memory for the Guinean people and Mandinka descendants."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bissandougou war das Machtzentrum von Samori Touré, dem 'Napoleon des Sudans'.",
+          "Die Stadt wurde 1878 zur Hauptstadt des Wassoulou-Reiches erklärt.",
+          "Samori Touré unterzeichnete hier diplomatische Verträge mit Frankreich.",
+          "Die Stadt verfügte über eine eigene Waffenproduktion und Schmieden.",
+          "Französische Truppen zerstörten die Stadt im April 1891 fast vollständig.",
+          "Heute ist der Ort ein bedeutendes Ziel für geschichtsinteressierte Reisende."
+        ],
+        "hu": [
+          "Bissandougou volt Samori Touré, a 'szudáni Napóleon' hatalmi központja.",
+          "A várost 1878-ban tették a Wassoulou Birodalom fővárosává.",
+          "Samori Touré itt folytatott diplomáciai tárgyalásokat a francia kormánnyal.",
+          "A település saját fegyvergyártó műhelyekkel és kovácsműhelyekkel rendelkezett.",
+          "A francia csapatok 1891 áprilisában foglalták el és égették fel a várost.",
+          "A helyszín ma Guinea nemzeti ellenállásának egyik legfontosabb emlékhelye."
+        ],
+        "ro": [
+          "Bissandougou a fost inima administrativă a celui mai mare imperiu de rezistență din vest.",
+          "Orașul era protejat de ziduri groase de pământ (tata).",
+          "Samori a organizat aici o armată modernă dotată cu puști europene.",
+          "Cucerirea orașului a marcat un pas decisiv în colonizarea franceză a Guineei.",
+          "Mausoleul eroilor locali este situat în apropierea vechilor ruine.",
+          "Este considerat locul de naștere al strategiei militare moderne vest-africane."
+        ],
+        "en": [
+          "Bissandougou was the power base for Samori Touré, the 'Napoleon of the Sudan'.",
+          "The city was established as the capital of the Wassoulou Empire in 1878.",
+          "Samori Touré negotiated key diplomatic treaties with France in this city.",
+          "The town featured independent weapon manufacturing and advanced blacksmithing.",
+          "French colonial forces captured and razed the city in April 1891.",
+          "The site is a major national monument dedicated to African anti-colonial resistance."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLifeV2.ts",
+    "lib/visualLab/data/poiExtraDrcongoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ouaka-palm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ölpalmenhaine in der zentral gelegenen Präfektur Ouaka repräsentieren einen essenziellen Pfeiler der lokalen Subsistenzwirtschaft in der Zentralafrikanischen Republik. Die landwirtschaftlichen Zonen rund um die Stadt Bambari bieten aufgrund der ausreichend hohen Niederschläge und tropischen Temperaturen optimale Bedingungen für den Anbau von Ölpalmen. Historisch gesehen wurde die kommerzielle Palmölproduktion während der Kolonialzeit für den Export gefördert, doch heute liegt sie fast ausschließlich in den Händen von Kleinbauern. Das extrahierte rote Palmöl ist ein unverzichtbares Grundnahrungsmittel für die lokale Bevölkerung und dient gleichzeitig als Basis für die handwerkliche Herstellung von traditioneller Seife. Wirtschaftlich betrachtet leiden die Bauern unter der fehlenden Verarbeitungsinfrastruktur und den katastrophalen Transportwegen, die den Zugang zu größeren Märkten wie der Hauptstadt Bangui massiv erschweren. Während der andauernden Bürgerkriege wurden viele Plantagen aufgegeben oder zerstört, da die Bauern vor bewaffneten Milizen fliehen mussten.",
+        "hu": "A központi elhelyezkedésű Ouaka prefektúra pálmaolaj-ligetei a helyi önellátó mezőgazdaság alapvető pillérét jelentik a Közép-afrikai Köztársaságban. A Bambari városa körüli mezőgazdasági övezetek a kellően magas csapadékmennyiség és a trópusi hőmérséklet miatt optimális feltételeket biztosítanak az olajpálmák termesztéséhez. Történelmileg a kereskedelmi célú pálmaolaj-termelést a gyarmati időszakban exportra ösztönözték, de ma már szinte kizárólag a kisbirtokos gazdák kezében van. A kinyert vörös pálmaolaj a helyi lakosság nélkülözhetetlen alapélelmiszere, egyúttal a hagyományos szappan kézműves előállításának alapanyaga is. Gazdasági szempontból a gazdák nagymértékben szenvednek a feldolgozó infrastruktúra hiányától és a katasztrofális szállítási útvonalaktól, amelyek rendkívül megnehezítik a nagyobb piacokhoz, például a fővároshoz, Banguihoz való hozzáférést. A folyamatos polgárháborúk során számos ültetvényt elhagytak vagy elpusztítottak, mivel a gazdáknak menekülniük kellett a fegyveres milíciák elől.",
+        "ro": "Plantațiile de palmieri de ulei din prefectura centrală Ouaka reprezintă un pilon esențial al economiei locale de subzistență din Republica Centrafricană. Zonele agricole din jurul orașului Bambari oferă condiții optime pentru cultivarea palmierilor de ulei datorită precipitațiilor suficient de mari și temperaturilor tropicale. Din punct de vedere istoric, producția comercială de ulei de palmier a fost încurajată pentru export în perioada colonială, dar astăzi se află aproape exclusiv în mâinile micilor fermieri. Uleiul de palmier roșu extras este un aliment de bază indispensabil pentru populația locală și servește, de asemenea, ca bază pentru producția artizanală de săpun tradițional. Economic, fermierii suferă masiv din cauza lipsei infrastructurii de procesare și a rutelor de transport dezastruoase, care îngreunează accesul la piețe mai mari precum capitala Bangui. În timpul războaielor civile continue, multe plantații au fost abandonate sau distruse, fermierii fiind forțați să fugă de milițiile armate.",
+        "en": "The oil palm groves in the centrally located Ouaka prefecture represent an essential pillar of the local subsistence economy in the Central African Republic. The agricultural zones surrounding the city of Bambari offer optimal conditions for the cultivation of oil palms due to sufficiently high rainfall and tropical temperatures. Historically, commercial palm oil production was encouraged for export during the colonial period, but today it rests almost entirely in the hands of smallholder farmers. The extracted red palm oil is an indispensable staple food for the local population and simultaneously serves as the base for the artisanal production of traditional soap. Economically, farmers suffer significantly from the total lack of processing infrastructure and disastrous transport routes, which heavily impede access to larger markets like the capital, Bangui. During the ongoing civil wars, numerous plantations were completely abandoned or destroyed, as local farmers were forced to flee from armed militias."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Region um Bambari ist ideal für den Ölpalmenanbau.",
+          "Palmöl ist ein unverzichtbares lokales Grundnahrungsmittel.",
+          "Der Anbau wird heutzutage primär von Kleinbauern betrieben.",
+          "Aus dem Öl wird traditionell handwerkliche Seife hergestellt.",
+          "Schlechte Straßen blockieren den Zugang zu den Großmärkten."
+        ],
+        "hu": [
+          "A Bambari környéki régió ideális az olajpálmák termesztésére.",
+          "A kinyert vörös pálmaolaj nélkülözhetetlen helyi alapélelmiszer.",
+          "A termesztést ma már elsősorban a kisbirtokos gazdák végzik.",
+          "Az olajból hagyományos és kézműves szappant is készítenek.",
+          "A rendkívül rossz utak elzárják a hozzáférést a nagypiacokhoz."
+        ],
+        "ro": [
+          "Regiunea din jurul Bambari este ideală pentru palmierii de ulei.",
+          "Uleiul de palmier este un aliment local de bază indispensabil.",
+          "Cultivarea este realizată în prezent mai ales de micii fermieri.",
+          "Săpunul artizanal tradițional este produs direct din acest ulei.",
+          "Drumurile extrem de proaste blochează accesul la piețele mari."
+        ],
+        "en": [
+          "The region around Bambari is highly ideal for oil palm cultivation.",
+          "Extracted palm oil is an absolutely indispensable local staple food.",
+          "Cultivation is currently carried out primarily by smallholder farmers.",
+          "Traditional artisanal soap is heavily manufactured from the local oil.",
+          "Extremely poor road conditions effectively block access to major markets."
+        ]
+      }
+    },
+    {
+      "id": "mbomou-chimps-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die dichten Waldgebiete und Flusstäler der Präfektur Mbomou im isolierten Südosten der Zentralafrikanischen Republik sind ein entscheidender, natürlicher Lebensraum für den stark gefährdeten Östlichen Schimpansen (Pan troglodytes schweinfurthii). Diese Region ist geprägt von weitreichenden Galeriewäldern, die sich entlang der großen Wasserwege bis zur Grenze der Demokratischen Republik Kongo erstrecken. Ökologisch spielen die Schimpansen eine zentrale Rolle bei der Samenverbreitung, was für den Erhalt der Waldstruktur essenziell ist. Wirtschaftlich hätte das Gebiet theoretisch ein hohes Potenzial für den internationalen Primaten-Ökotourismus. In der Realität ist dieses Potenzial jedoch gleich null. Seit mehr als einem Jahrzehnt wird die Region stark durch bewaffnete Gruppen wie die LRA (Lord’s Resistance Army) und lokale Milizen destabilisiert. Die völlige Abwesenheit staatlicher Forst- und Wildhüter führt zu massiver Wilderei; Schimpansen werden häufig für den illegalen Buschfleischmarkt (Bushmeat) getötet oder als Haustiere gehandelt, was die Population an den Rand der Ausrottung drängt.",
+        "hu": "A Közép-afrikai Köztársaság elszigetelt délkeleti részén, a Mbomou prefektúrában található sűrű erdőségek és folyóvölgyek döntő fontosságú, természetes élőhelyei a súlyosan veszélyeztetett kelet-afrikai csimpánznak (Pan troglodytes schweinfurthii). Ezt a régiót kiterjedt galériaerdők jellemzik, amelyek a nagy vízi utak mentén egészen a Kongói Demokratikus Köztársaság határáig nyúlnak. Ökológiai szempontból a csimpánzok kulcsszerepet játszanak a magvak terjesztésében, ami elengedhetetlen az erdei struktúra fenntartásához. Gazdasági szempontból a terület elméletileg nagy potenciállal rendelkezne a nemzetközi főemlős-ökoturizmus számára. A valóságban azonban ez a potenciál egyenlő a nullával. A régiót több mint egy évtizede erősen destabilizálják az olyan fegyveres csoportok, mint az LRA (Lord's Resistance Army) és a helyi milíciák. Az állami erdészek és vadőrök teljes hiánya masszív orvvadászathoz vezet; a csimpánzokat gyakran megölik az illegális vadhúspiac (bushmeat) számára, ami a populációt a kihalás szélére sodorja.",
+        "ro": "Pădurile dense și văile râurilor din prefectura Mbomou, în sud-estul izolat al Republicii Centrafricane, reprezintă un habitat natural crucial pentru cimpanzeul estic, puternic amenințat cu dispariția. Această regiune se caracterizează prin păduri de galerie extinse care se întind de-a lungul căilor navigabile majore până la granița cu Republica Democratică Congo. Din punct de vedere ecologic, cimpanzeii joacă un rol central în dispersia semințelor, care este esențială pentru menținerea structurii pădurii. Din punct de vedere economic, zona ar avea teoretic un potențial ridicat pentru ecoturismul internațional axat pe primate. În realitate, însă, acest potențial este zero. De mai bine de un deceniu, regiunea a fost grav destabilizată de grupuri armate precum LRA (Lord's Resistance Army) și miliții locale. Absența totală a pădurarilor și a rangerilor de stat duce la braconaj masiv; cimpanzeii sunt adesea uciși pentru piața ilegală a cărnii de vânat (bushmeat), împingând populația în pragul extincției.",
+        "en": "The dense forest areas and river valleys of the Mbomou prefecture in the highly isolated southeast of the Central African Republic represent a crucial natural habitat for the highly endangered Eastern chimpanzee. This region is characterized by extensive gallery forests that stretch along major waterways right to the border of the Democratic Republic of Congo. Ecologically, chimpanzees play an absolutely central role in seed dispersal, which is essential for maintaining the regional forest structure. Economically, the area would theoretically have high potential for international primate eco-tourism. In reality, however, this economic potential is absolute zero. For more than a decade, the region has been heavily destabilized by armed groups such as the LRA (Lord's Resistance Army) and various local militias. The complete absence of state foresters and wildlife rangers leads to massive, unchecked poaching; chimpanzees are frequently killed for the illegal bushmeat market or traded as pets, pushing the fragile local population to the brink of extinction."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Mbomou-Präfektur liegt im isolierten Südosten des Landes.",
+          "Galeriewälder sind der Hauptlebensraum der Schimpansen.",
+          "Die Tiere spielen eine wichtige Rolle bei der Samenverbreitung.",
+          "Der illegale Handel mit Buschfleisch dezimiert die Bestände.",
+          "Bewaffnete Gruppen machen jeglichen Naturschutz unmöglich."
+        ],
+        "hu": [
+          "A Mbomou prefektúra az ország erősen elszigetelt délkeleti részén van.",
+          "A sűrű galériaerdők jelentik a csimpánzok elsődleges élőhelyét.",
+          "A főemlősök kritikus szerepet játszanak az erdei magvak terjesztésében.",
+          "Az illegális vadhúskereskedelem drasztikusan tizedeli az állományt.",
+          "A fegyveres csoportok jelenléte teljesen lehetetlenné teszi a védelmet."
+        ],
+        "ro": [
+          "Prefectura Mbomou este situată în sud-estul complet izolat al țării.",
+          "Pădurile de galerie sunt habitatul principal al cimpanzeilor locali.",
+          "Animalele joacă un rol important în dispersarea semințelor de pădure.",
+          "Comerțul ilegal cu carne de vânat decimează drastic populațiile.",
+          "Grupurile armate fac orice conservare a naturii complet imposibilă."
+        ],
+        "en": [
+          "The Mbomou prefecture is located in the isolated southeast of the country.",
+          "Extensive gallery forests act as the primary habitat for local chimpanzees.",
+          "The primates play an incredibly critical role in regional seed dispersal.",
+          "The illegal trade in bushmeat drastically and rapidly decimates populations.",
+          "The ongoing presence of armed groups makes nature conservation impossible."
+        ]
+      }
+    },
+    {
+      "id": "basse-kotto-tobacco-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Tabakfarmen in der Präfektur Basse-Kotto, vor allem in den Gebieten um die Stadt Alindao im Süden der Zentralafrikanischen Republik, sind ein historisches Relikt der agrarischen Exportwirtschaft. Während der französischen Kolonialzeit und in den ersten Jahrzehnten nach der Unabhängigkeit wurde der Tabakanbau staatlich massiv gefördert. Er galt als wichtiges Cash-Crop (Exportfrucht), das Tausenden von Kleinbauernfamilien ein festes und planbares Einkommen sicherte. Wirtschaftlich brach dieser Sektor jedoch fast vollständig zusammen, da die Infrastruktur zerfiel, internationale Käufer abwanderten und schließlich der verheerende Bürgerkrieg die Region erfasste. Die Verarbeitungsfabriken wurden geplündert oder aus Mangel an Investitionen geschlossen. Heute sind die ehemaligen Tabakbauern aus purer existenzieller Notwendigkeit in die reine Subsistenzwirtschaft zurückgekehrt und bauen primär Maniok, Mais und Erdnüsse an, um ihre eigenen Familien vor Hunger zu bewahren. Das Wissen über den Tabakanbau existiert zwar noch in der lokalen Bevölkerung, doch fehlt es komplett an Kapital und Sicherheit für einen Neustart.",
+        "hu": "A Basse-Kotto prefektúra dohányültetvényei, különösen az ország déli részén fekvő Alindao városa körüli területeken, a nemzeti agrár-exportgazdaság történelmi relikviái. A francia gyarmati időszakban és a függetlenséget követő első évtizedekben a dohánytermesztést az állam erőteljesen támogatta. Fontos exportnövényként (cash crop) tartották számon, amely több ezer kisbirtokos család számára biztosított fix és tervezhető jövedelmet. Gazdaságilag azonban ez az ágazat szinte teljesen összeomlott az infrastruktúra hanyatlása, a nemzetközi felvásárlók elvándorlása, és végül a régiót is elérő pusztító polgárháború miatt. A feldolgozóüzemeket kifosztották, vagy beruházások hiányában végleg bezárták. Ma a korábbi dohánytermesztők puszta egzisztenciális kényszerből visszatértek a tisztán önellátó gazdálkodáshoz, és elsősorban maniókát, kukoricát és földimogyorót termesztenek, hogy megóvják saját családjukat az éhezéstől. Bár a dohánytermesztés tudása még mindig él a helyi lakosságban, az újrainduláshoz teljesen hiányzik a tőke és a biztonság.",
+        "ro": "Fermele de tutun din prefectura Basse-Kotto, în special în zonele din jurul orașului Alindao din sudul Republicii Centrafricane, sunt o relicvă istorică a economiei de export agricol. În timpul perioadei coloniale franceze și în primele decenii după independență, cultivarea tutunului a fost puternic susținută de stat. A fost considerată o cultură comercială (cash crop) importantă care asigura un venit fix și previzibil pentru mii de familii de mici fermieri. Cu toate acestea, din punct de vedere economic, acest sector s-a prăbușit aproape complet pe măsură ce infrastructura s-a deteriorat, cumpărătorii internaționali au plecat și, în cele din urmă, războiul civil devastator a cuprins regiunea. Fabricile de prelucrare au fost jefuite sau închise permanent din lipsă de investiții. Astăzi, foștii cultivatori de tutun s-au întors la agricultura de subzistență pură din necesitate, cultivând în principal manioc, porumb și alune pentru a-și salva familiile de la foamete. Capitalul și securitatea lipsesc complet pentru o repornire a sectorului.",
+        "en": "The tobacco farms in the Basse-Kotto prefecture, primarily in the areas surrounding the city of Alindao in the southern Central African Republic, serve as a historical relic of the national agricultural export economy. During the French colonial era and in the initial decades following independence, tobacco cultivation was heavily supported and promoted by the state. It was considered a highly vital cash crop that secured a fixed and reliable income for thousands of smallholder families. Economically, however, this sector collapsed almost entirely as the national infrastructure decayed, international buyers abandoned the market, and ultimately the devastating civil war swept through the region. Processing factories were completely looted or permanently shuttered due to a total lack of investment. Today, out of pure existential necessity, former tobacco farmers have returned entirely to basic subsistence farming, growing primarily cassava, corn, and peanuts simply to save their own families from severe hunger. The capital and physical security required for a restart are completely absent."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Region Alindao war historisch das Zentrum des Tabakanbaus.",
+          "Der Tabak diente als enorm wichtiges Exportgut (Cash Crop).",
+          "Tausende Bauernfamilien lebten von den sicheren Einnahmen.",
+          "Infrastrukturverfall und Krieg haben die Industrie zerstört.",
+          "Ehemalige Tabakbauern betreiben heute reine Subsistenzwirtschaft."
+        ],
+        "hu": [
+          "Történelmileg Alindao régiója volt az országos dohánytermesztés központja.",
+          "A dohány rendkívül fontos nemzeti exportcikként (cash crop) funkcionált.",
+          "Több ezer helyi kisbirtokos család élt az ebből származó fix jövedelemből.",
+          "A közúti infrastruktúra hanyatlása és a háború teljesen tönkretette az ipart.",
+          "A korábbi dohánytermesztők ma már kizárólag a puszta önellátásból élnek."
+        ],
+        "ro": [
+          "Regiunea Alindao a fost istoric centrul absolut al cultivării tutunului.",
+          "Tutunul a servit ca o marfă de export extrem de importantă național.",
+          "Mii de familii locale de fermieri au trăit pe baza venitului sigur.",
+          "Declinul infrastructurii și războiul au distrus complet această industrie.",
+          "Foștii fermieri de tutun practică astăzi o agricultură de subzistență pură."
+        ],
+        "en": [
+          "The Alindao region was historically the center of tobacco cultivation.",
+          "Tobacco functioned as a highly critical national export commodity.",
+          "Thousands of local farming families relied completely on the secure income.",
+          "Infrastructure decay and violent warfare thoroughly destroyed the industry.",
+          "Former tobacco farmers currently engage in pure subsistence agriculture."
+        ]
+      }
+    },
+    {
+      "id": "haute-kotto-honey-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Sammeln von Wildhonig in den ausgedehnten, tropischen Feuchtwäldern der Präfektur Haute-Kotto, insbesondere rund um die Stadt Bria im Osten der Zentralafrikanischen Republik, ist eine sehr alte und tief verwurzelte Tradition. Für die einheimischen Gemeinschaften stellt dieser Honig ein extrem wichtiges Nicht-Holz-Waldprodukt (NTFP) dar. Wirtschaftlich betrachtet bietet der Verkauf von wildem Honig auf den lokalen und regionalen Märkten eine entscheidende Einkommensquelle in einer Region, in der formelle Arbeitsplätze faktisch nicht existieren und der Handel durch den brutalen Bürgerkrieg stark eingeschränkt ist. Die traditionelle Erntemethode bringt jedoch enorme ökologische Risiken mit sich: Die Sammler nutzen häufig brennende Fackeln und intensiven Rauch, um die Wildbienen aus ihren hoch in den Baumkronen gelegenen Nestern zu vertreiben. Während der langen Trockenzeit führen unkontrolliert zurückgelassene Glutnester immer wieder zu verheerenden Waldbränden, die große Teile der natürlichen Flora und Fauna vernichten. Internationale NGOs versuchen seit Jahren, moderne und nachhaltigere Imkereitechniken in der Region zu etablieren.",
+        "hu": "A vadméz gyűjtése a Haute-Kotto prefektúra kiterjedt trópusi nedves erdeiben, különösen a Közép-afrikai Köztársaság keleti részén fekvő Bria városa körül, nagyon régi és mélyen gyökerező hagyomány. A helyi közösségek számára ez a méz rendkívül fontos nem faanyagú erdei termék (NTFP). Gazdasági szempontból a vadméz eladása a helyi és regionális piacokon döntő bevételi forrást jelent egy olyan régióban, ahol gyakorlatilag nem léteznek formális munkahelyek, és a kereskedelmet súlyosan korlátozza a brutális polgárháború. A hagyományos betakarítási módszer azonban hatalmas ökológiai kockázatokkal jár: a gyűjtők gyakran égő fáklyákat és intenzív füstöt használnak, hogy kiűzzék a vadméheket a fák koronájában magasan fekvő fészkeikből. A hosszú száraz évszak során az ellenőrizetlenül hátrahagyott parázs gyakran pusztító erdőtüzekhez vezet, amelyek a természetes növény- és állatvilág jelentős részét elpusztítják. Nemzetközi civil szervezetek évek óta próbálnak modernebb és fenntarthatóbb méhészeti technikákat meghonosítani a régióban.",
+        "ro": "Colectarea mierii sălbatice în pădurile tropicale extinse din prefectura Haute-Kotto, în special în jurul orașului Bria din estul Republicii Centrafricane, este o tradiție foarte veche și profund înrădăcinată. Pentru comunitățile indigene, această miere reprezintă un produs forestier non-lemnos (NTFP) extrem de important. Din punct de vedere economic, vânzarea mierii sălbatice pe piețele locale și regionale oferă o sursă crucială de venit într-o regiune în care locurile de muncă formale sunt practic inexistente, iar comerțul este puternic restricționat de războiul civil. Cu toate acestea, metoda tradițională de recoltare implică riscuri ecologice masive: colectorii folosesc frecvent torțe aprinse și fum intens pentru a alunga albinele sălbatice din cuiburile lor aflate sus în coronamentul copacilor. În timpul sezonului uscat lung, tăciunii lăsați necontrolați duc adesea la incendii forestiere devastatoare, distrugând suprafețe mari de floră și faună naturală. ONG-urile internaționale încearcă să introducă apicultura modernă.",
+        "en": "The collection of wild honey in the extensive, tropical humid forests of the Haute-Kotto prefecture, particularly around the city of Bria in the eastern Central African Republic, is a very old and deeply rooted tradition. For the indigenous communities, this honey represents an extremely vital non-timber forest product (NTFP). Economically, the sale of wild honey in local and regional markets provides a crucial source of supplementary income in a region where formal employment is practically non-existent and trade is heavily restricted by the brutal civil war. However, the traditional harvesting method carries massive ecological risks: collectors frequently utilize burning torches and intense smoke to drive the wild bees from their nests located high in the tree canopy. During the long dry season, uncontrolled embers left behind frequently lead to devastating forest fires that destroy large swathes of the natural flora and fauna. International NGOs have been trying for years to establish modern, highly sustainable beekeeping techniques in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Region um Bria ist für die traditionelle Honigjagd bekannt.",
+          "Waldhonig ist ein wichtiges lokales Nicht-Holz-Waldprodukt.",
+          "Der Verkauf von Honig sichert vielen Familien ein Einkommen.",
+          "Die Nutzung von Rauch führt oft zu verheerenden Waldbränden.",
+          "NGOs fördern den Wechsel zur modernen, sicheren Imkerei."
+        ],
+        "hu": [
+          "Bria régiója országszerte híres a hagyományos vadméz-vadászatról.",
+          "Az erdei méz rendkívül fontos nem faanyagú erdei termék a piacon.",
+          "A mézeladás rengeteg elszigetelt család számára biztosít készpénzt.",
+          "A füsttel történő gyűjtés a száraz évszakban gyakran okoz erdőtüzet.",
+          "A civil szervezetek erősen támogatják a biztonságos méhészetre való átállást."
+        ],
+        "ro": [
+          "Regiunea Bria este național faimoasă pentru vânătoarea de miere.",
+          "Mierea de pădure este un important produs forestier non-lemnos.",
+          "Vânzarea mierii oferă un venit în numerar pentru multe familii.",
+          "Utilizarea fumului duce frecvent la incendii forestiere devastatoare.",
+          "ONG-urile promovează activ trecerea la apicultura modernă și sigură."
+        ],
+        "en": [
+          "The Bria region is highly famous for traditional wild honey hunting.",
+          "Forest honey serves as a vital local non-timber forest product.",
+          "The sale of honey provides a critical cash income for many families.",
+          "The use of smoke during harvests frequently sparks massive forest fires.",
+          "NGOs actively encourage the transition to safe, modern beekeeping."
+        ]
+      }
+    },
+    {
+      "id": "nana-grebizi-rice-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Sumpf- und Flusstäler der Präfektur Nana-Grébizi, insbesondere in den Ebenen rund um die Stadt Kaga-Bandoro im zentral-nördlichen Teil der Zentralafrikanischen Republik, bieten hervorragende geografische Bedingungen für den Reisanbau. Wirtschaftlich ist Reis neben Maniok eine der wichtigsten Grundnahrungspflanzen für die Ernährungssicherheit der Region. Die Landwirtschaft wird hier fast ausschließlich von Kleinbauern in extrem mühsamer Handarbeit betrieben, da es völlig an mechanisierten landwirtschaftlichen Geräten, modernen Bewässerungssystemen oder chemischem Dünger mangelt. Historisch und aktuell ist die Vermarktung der Reisernte ein massives Problem: Da die Straßeninfrastruktur in der Region fast vollständig zerstört ist, können die Bauern ihre Erträge kaum zu profitablen Preisen in die Hauptstadt Bangui transportieren. Zusätzlich wurde der Agrarsektor durch die jahrelange Besatzung bewaffneter Séléka-Milizen stark geschädigt, die oft die Ernten der Bauern stahlen oder Felder unzugänglich machten. Der Reisanbau hier ist ein reiner Kampf um die tägliche Existenz.",
+        "hu": "A Nana-Grébizi prefektúra mocsaras völgyei és folyópartjai, különösen a Közép-afrikai Köztársaság középső-északi részén fekvő Kaga-Bandoro városa körüli síkságokon, kiváló földrajzi feltételeket biztosítanak a rizstermesztéshez. Gazdasági szempontból a rizs a manióka mellett az egyik legfontosabb alapélelmiszer a régió élelmezésbiztonsága szempontjából. A mezőgazdaságot itt szinte kizárólag kisbirtokos gazdák végzik rendkívül fáradságos kétkezi munkával, mivel a gépesített mezőgazdasági berendezések, a modern öntözőrendszerek vagy a vegyi műtrágyák teljesen hiányoznak. Történelmileg és napjainkban is a rizstermés értékesítése hatalmas problémát jelent: mivel a régió közúti infrastruktúrája szinte teljesen megsemmisült, a gazdák alig tudják nyereséges áron elszállítani terményeiket a fővárosba, Banguiba. Ezenkívül a mezőgazdasági szektort súlyosan károsította a fegyveres Séléka-milíciák többéves megszállása, akik gyakran ellopták a gazdák termését, vagy elérhetetlenné tették a földeket. Az itteni rizstermesztés a mindennapi létezésért folytatott puszta küzdelem.",
+        "ro": "Văile mlăștinoase și fluviale din prefectura Nana-Grébizi, în special în câmpiile din jurul orașului Kaga-Bandoro din partea central-nordică a Republicii Centrafricane, oferă condiții geografice excelente pentru cultivarea orezului. Din punct de vedere economic, orezul, alături de manioc, este una dintre cele mai importante culturi alimentare de bază pentru securitatea alimentară a regiunii. Agricultura este practicată aici aproape exclusiv de micii fermieri, printr-o muncă manuală extrem de grea, deoarece echipamentele agricole mecanizate, sistemele moderne de irigații sau îngrășămintele chimice lipsesc complet. Din punct de vedere istoric și actual, comercializarea recoltei de orez este o problemă masivă: din cauza infrastructurii rutiere distruse aproape complet, fermierii abia își pot transporta randamentele la capitala Bangui la prețuri profitabile. În plus, sectorul a fost grav afectat de anii de ocupație de către milițiile armate Séléka, care au furat adesea recoltele. Cultivarea orezului aici este o luptă pură pentru existența zilnică.",
+        "en": "The swamp and river valleys of the Nana-Grébizi prefecture, particularly in the plains surrounding the city of Kaga-Bandoro in the central-northern part of the Central African Republic, offer excellent geographical conditions for rice cultivation. Economically, rice, alongside cassava, is one of the most vital staple food crops for the region's overall food security. Agriculture here is carried out almost exclusively by smallholder farmers using extremely laborious manual labor, as there is a complete lack of mechanized agricultural equipment, modern irrigation systems, or chemical fertilizers. Historically and currently, marketing the rice harvest presents a massive problem: because the road infrastructure in the region is almost completely destroyed, farmers can barely transport their yields to the capital, Bangui, at profitable prices. Additionally, the agricultural sector was severely damaged by years of occupation by armed Séléka militias, who frequently stole farmers' harvests or rendered fields inaccessible. Rice farming here is a pure struggle for daily existence."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sumpfige Täler um Kaga-Bandoro sind ideal für den Reisanbau.",
+          "Reis ist neben Maniok das absolute Grundnahrungsmittel hier.",
+          "Der Anbau erfolgt fast komplett durch schwerste Handarbeit.",
+          "Schlechte Straßen verhindern den Transport in die Hauptstadt.",
+          "Bewaffnete Milizen plünderten in der Krise oft die Ernten."
+        ],
+        "hu": [
+          "A Kaga-Bandoro körüli mocsaras völgyek ideálisak a rizshez.",
+          "A rizs a manióka mellett az abszolút legfőbb alapélelmiszer.",
+          "A növény termesztése szinte kizárólag kemény kézi munkával zajlik.",
+          "A rendkívül rossz utak megakadályozzák a fővárosba szállítást.",
+          "A fegyveres milíciák a válság idején gyakran ellopták a termést."
+        ],
+        "ro": [
+          "Văile mlăștinoase din jurul Kaga-Bandoro sunt ideale pentru orez.",
+          "Orezul este alimentul de bază absolut aici, alături de manioc.",
+          "Cultivarea se realizează aproape complet prin muncă manuală grea.",
+          "Drumurile proaste împiedică total transportul profitabil spre capitală.",
+          "Milițiile armate au furat frecvent recoltele în timpul crizei."
+        ],
+        "en": [
+          "The swampy valleys around Kaga-Bandoro are ideal for rice farming.",
+          "Rice, alongside cassava, serves as the absolute local staple food.",
+          "Cultivation is executed almost entirely through extremely hard manual labor.",
+          "Decayed roads prevent the profitable transport of goods to the capital.",
+          "Armed militias frequently looted the hard-earned harvests during the crisis."
+        ]
+      }
+    },
+    {
+      "id": "ouham-pende-sorghum-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die weiten landwirtschaftlichen Ebenen der Präfektur Ouham-Pendé im extremen Nordwesten der Zentralafrikanischen Republik, insbesondere rund um die Städte Paoua und Bozoum, sind das Zentrum des traditionellen Sorghum-Anbaus (Hirse). Aufgrund der trockeneren klimatischen Bedingungen, die den Übergang zur Sahelzone markieren, ist Sorghum das perfekte, dürreresistente Getreide für die Ernährungssicherheit der lokalen Bevölkerung. Wirtschaftlich spielt Sorghum nicht nur als Grundnahrungsmittel (in Form von Brei) eine entscheidende Rolle, sondern wird auch intensiv zur Herstellung von 'Bili-bili' verwendet – einem traditionellen, lokal gebrauten Bier, dessen Verkauf auf den Märkten eine extrem wichtige Einkommensquelle für Frauen darstellt. Historisch gesehen wurde die Bauernökonomie in Ouham-Pendé seit 2013 jedoch stark durch brutale Konflikte zwischen Rebellengruppen und durch gewaltsame Auseinandersetzungen mit einwandernden nomadischen Rinderhirten gestört. Viele Felder mussten aufgegeben werden, weil die Arbeit auf den Äckern schlichtweg zu gefährlich wurde, was mehrfach zu lokalen Hungerkrisen führte.",
+        "hu": "A Közép-afrikai Köztársaság legészaknyugatibb részén fekvő Ouham-Pendé prefektúra kiterjedt mezőgazdasági síkságai, különösen Paoua és Bozoum városok környékén, a hagyományos ciroktermesztés (sorghum) központjai. A szárazabb éghajlati viszonyok miatt, amelyek a Száhel-övezetbe való átmenetet jelzik, a cirok a tökéletes, szárazságtűrő gabona a helyi lakosság élelmezésbiztonsága szempontjából. Gazdasági szempontból a cirok nemcsak alapélelmiszerként (kása formájában) játszik döntő szerepet, hanem intenzíven használják a 'bili-bili' nevű hagyományos, helyben főzött sör előállítására is, amelynek a piacokon történő értékesítése rendkívül fontos jövedelemforrás a nők számára. Történelmileg azonban 2013 óta az Ouham-Pendé-i parasztgazdaságokat súlyosan megzavarták a lázadó csoportok közötti brutális konfliktusok, valamint a bevándorló nomád szarvasmarha-pásztorokkal való erőszakos összecsapások. Sok földet fel kellett adni, mert a szántóföldeken végzett munka egyszerűen túl veszélyessé vált, ami többször is helyi éhínségekhez vezetett.",
+        "ro": "Vastele câmpii agricole din prefectura Ouham-Pendé, în extremitatea nord-vestică a Republicii Centrafricane, în special în jurul orașelor Paoua și Bozoum, sunt centrul cultivării tradiționale a sorgului (mei). Datorită condițiilor climatice mai uscate, care marchează tranziția către zona Sahel, sorgul este cereala perfectă, rezistentă la secetă, pentru securitatea alimentară a populației locale. Din punct de vedere economic, sorgul joacă un rol crucial nu doar ca aliment de bază (sub formă de terci), ci este folosit și intens pentru a produce „bili-bili” – o bere tradițională fabricată local, a cărei vânzare pe piețe reprezintă o sursă de venit extrem de importantă pentru femei. Din punct de vedere istoric, economia țărănească din Ouham-Pendé a fost grav perturbată din 2013 de conflicte brutale între grupurile rebele și de ciocniri violente cu păstorii nomazi imigranți. Multe câmpuri au trebuit să fie abandonate deoarece munca pe pământ a devenit pur și simplu prea periculoasă, ceea ce a dus adesea la foamete.",
+        "en": "The vast agricultural plains of the Ouham-Pendé prefecture in the extreme northwest of the Central African Republic, particularly surrounding the cities of Paoua and Bozoum, serve as the center of traditional sorghum (millet) cultivation. Due to the drier climatic conditions marking the transition toward the Sahel zone, sorghum is the perfect drought-resistant grain for ensuring the local population's food security. Economically, sorghum plays a crucial role not only as a primary staple food (consumed as porridge) but is also used intensively to produce 'bili-bili'—a traditional, locally brewed beer whose sale in the markets represents an extremely vital source of income for women. Historically, however, the peasant economy in Ouham-Pendé has been severely disrupted since 2013 by brutal conflicts between rebel groups and violent clashes with incoming nomadic cattle herders. Countless agricultural fields had to be completely abandoned because working the land simply became too deadly and dangerous, frequently leading to acute localized hunger crises."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sorghum (Hirse) ist das dürreresistente Hauptgetreide der Region.",
+          "Ouham-Pendé liegt im Nordwesten am Rande der trockenen Sahelzone.",
+          "Aus dem Getreide wird das lokal sehr beliebte Bili-bili-Bier gebraut.",
+          "Der Verkauf dieses Bieres sichert Frauen ein wichtiges Einkommen.",
+          "Gewalt zwischen Bauern und Nomaden behindert die Landwirtschaft oft."
+        ],
+        "hu": [
+          "A cirok (sorghum) a régió szárazságtűrő, legfőbb gabonaféléje.",
+          "Ouham-Pendé északnyugaton, a száraz Száhel-övezet peremén fekszik.",
+          "A gabonából főzik a helyiek körében nagyon népszerű Bili-bili sört.",
+          "A sör eladása a piacokon döntő fontosságú jövedelmet biztosít a nőknek.",
+          "A gazdák és a nomád pásztorok közötti erőszak gátolja a mezőgazdaságot."
+        ],
+        "ro": [
+          "Sorgul este principala cereală locală rezistentă la secetă.",
+          "Ouham-Pendé se află în nord-vest, la marginea zonei uscate Sahel.",
+          "Cereala este folosită pentru a prepara populara bere tradițională Bili-bili.",
+          "Vânzarea acestei beri asigură un venit financiar esențial pentru femei.",
+          "Violența dintre fermieri și nomazi împiedică adesea sever agricultura."
+        ],
+        "en": [
+          "Sorghum heavily serves as the region's main drought-resistant grain crop.",
+          "Ouham-Pendé is located in the northwest, on the edge of the dry Sahel.",
+          "The grain is utilized to brew the highly popular traditional Bili-bili beer.",
+          "Selling this traditional beer secures a highly vital cash income for women.",
+          "Armed violence between farmers and nomadic herders frequently stops farming."
+        ]
+      }
+    },
+    {
+      "id": "ombella-mpoko-gardens-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Gemüsegärten (Maraîchage) in der Präfektur Ombella-M'Poko, die die Hauptstadt Bangui unmittelbar umschließen, sind die wichtigste landwirtschaftliche Lebensader für die urbane Ernährungssicherheit. Geografisch profitiert diese peri-urbane Landwirtschaft von der Nähe zum Ubangi-Fluss und seinen zahlreichen kleinen Zuflüssen, die eine Bewässerung auch während der Trockenzeit ermöglichen. Wirtschaftlich gesehen versorgen Tausende von Kleinbauern die Großmärkte der Hauptstadt (wie den PK5-Markt) täglich mit frischen Tomaten, Zwiebeln, Salat, Amaranth-Blättern und anderen Gemüsesorten. Diese Form der stadtnahen Landwirtschaft ist hochprofitabel, da die extrem kurzen Transportwege den Verderb der frischen Ware minimieren. Der Transport erfolgt traditionell auf überladenen Handkarren oder alten Pick-up-Trucks. Historisch und aktuell ist diese Region aufgrund ihrer strategischen Nähe zu Bangui jedoch sehr anfällig für politische Unruhen; während des Bürgerkriegs wurden viele Gärten zerstört oder geplündert. Dennoch ist der Sektor erstaunlich resilient und erholt sich nach Krisen meist schnell, da die konstante Nachfrage der über 800.000 Hauptstadtbewohner die Produktion lukrativ hält.",
+        "hu": "Az Ombella-M'Poko prefektúra zöldségkertjei (maraîchage), amelyek közvetlenül körülveszik a fővárost, Banguit, a városi élelmezésbiztonság legfontosabb mezőgazdasági mentőövei. Földrajzilag ez a városkörnyéki (peri-urbán) mezőgazdaság sokat profitál az Ubangi-folyó és számos kisebb mellékfolyója közelségéből, amelyek a száraz évszakban is lehetővé teszik az öntözést. Gazdasági szempontból kisbirtokos gazdák ezrei látják el naponta friss paradicsommal, hagymával, salátával, amarántlevelekkel és egyéb zöldségekkel a főváros nagypiacait (például a PK5 piacot). A városközeli mezőgazdaság ezen formája rendkívül jövedelmező, mivel a rendkívül rövid szállítási útvonalak minimálisra csökkentik a friss áru megromlását. A szállítás hagyományosan túlzsúfolt kézikocsikon vagy régi kisteherautókon történik. Történelmileg és napjainkban is azonban ez a régió a Banguihoz való stratégiai közelsége miatt nagyon érzékeny a politikai zavargásokra; a polgárháború alatt sok kertet elpusztítottak vagy kifosztottak. Ennek ellenére a szektor elképesztően rugalmas, és a válságok után általában gyorsan talpra áll, mivel a több mint 800 000 fővárosi lakos folyamatos kereslete jövedelmezővé teszi a termelést.",
+        "ro": "Grădinile de legume (maraîchage) din prefectura Ombella-M'Poko, care înconjoară imediat capitala Bangui, sunt cea mai importantă salvare agricolă pentru securitatea alimentară urbană. Geografic, această agricultură peri-urbană beneficiază de proximitatea fluviului Ubangi și a numeroșilor săi afluenți mici, care permit irigarea chiar și în timpul sezonului uscat. Din punct de vedere economic, mii de mici fermieri aprovizionează zilnic marile piețe ale capitalei (cum ar fi piața PK5) cu roșii proaspete, ceapă, salată, frunze de amarant și alte legume. Această formă de agricultură din apropierea orașului este extrem de profitabilă, deoarece rutele de transport extrem de scurte reduc la minimum stricarea produselor proaspete. Transportul are loc în mod tradițional pe cărucioare manuale supraîncărcate sau pe camionete vechi. Cu toate acestea, din cauza apropierii sale strategice de Bangui, regiunea este foarte vulnerabilă la tulburările politice; în timpul războiului civil, multe grădini au fost distruse. Sectorul rămâne totuși rezilient datorită cererii uriașe din capitală.",
+        "en": "The vegetable market gardens (maraîchage) in the Ombella-M'Poko prefecture, which immediately surround the capital city of Bangui, act as the most vital agricultural lifeline for urban food security. Geographically, this peri-urban agriculture highly benefits from its proximity to the massive Ubangi River and its numerous small tributaries, which enable irrigation even during the severe dry season. Economically, thousands of smallholder farmers supply the capital's major wholesale markets (such as the PK5 market) daily with fresh tomatoes, onions, lettuce, amaranth leaves, and various other vegetables. This specific form of near-city agriculture is highly profitable because the extremely short transport routes minimize the spoilage of fresh goods. Transportation is traditionally carried out on heavily overloaded handcarts or old, battered pick-up trucks. Historically and currently, however, this region is highly vulnerable to political unrest due to its strategic proximity to Bangui; during the civil war, many gardens were completely destroyed or looted. Nevertheless, the sector is astonishingly resilient, recovering quickly after crises as the constant demand from the capital's 800,000 residents keeps production lucrative."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Gärten liegen direkt im Umland der Hauptstadt Bangui.",
+          "Sie sichern die tägliche Versorgung der Großmärkte mit Gemüse.",
+          "Die Nähe zum Ubangi-Fluss ermöglicht die Bewässerung im Sommer.",
+          "Kurze Transportwege verhindern, dass die Ernte schnell verdirbt.",
+          "Die Landwirtschaft erholt sich nach Plünderungen meist sehr schnell."
+        ],
+        "hu": [
+          "A kertek közvetlenül a hatalmas főváros, Bangui vonzáskörzetében vannak.",
+          "Ezek biztosítják a nagypiacok mindennapi, folyamatos zöldségellátását.",
+          "Az Ubangi-folyó közelsége a hosszú száraz évszakban is lehetővé teszi az öntözést.",
+          "A rövid szállítási távolság megakadályozza, hogy a friss termés megromoljon.",
+          "A szektor a háborús pusztítások után is elképesztően gyorsan talpra áll."
+        ],
+        "ro": [
+          "Grădinile sunt situate chiar în împrejurimile capitalei Bangui.",
+          "Ele asigură aprovizionarea zilnică a marilor piețe cu legume proaspete.",
+          "Apropierea fluviului Ubangi permite irigarea în sezonul uscat.",
+          "Rutele scurte de transport împiedică alterarea rapidă a recoltei.",
+          "Agricultura de aici își revine de obicei foarte repede după jafuri."
+        ],
+        "en": [
+          "The market gardens are located directly on the immediate outskirts of Bangui.",
+          "They secure the absolute daily supply of fresh vegetables to wholesale markets.",
+          "Proximity to the Ubangi River readily enables vital dry-season irrigation.",
+          "Extremely short transport routes thoroughly prevent the fast spoilage of harvests.",
+          "The agricultural sector typically recovers incredibly quickly after wartime looting."
+        ]
+      }
+    },
+    {
+      "id": "zemongo-wildlife-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Zemongo-Wildtierreservat befindet sich im äußersten Osten der Zentralafrikanischen Republik, in der Präfektur Haut-Mbomou an der Grenze zum Südsudan. Geografisch ist die Region durch eine schwer zugängliche Mischung aus dichten Waldgalerien und ausgedehnten Sudansavannen geprägt. Ökologisch war dieses isolierte Reservat historisch die Heimat einer enormen Artenvielfalt, darunter große Herden von Waldelefanten, Löwen, afrikanischen Wildhunden und Östlichen Schimpansen. Wirtschaftlich ist das Gebiet jedoch eine absolute Tragödie: Tourismus oder staatliches Wildtiermanagement existieren hier schlichtweg nicht. Seit den frühen 2000er Jahren ist Haut-Mbomou das Rückzugsgebiet der Lord’s Resistance Army (LRA) und anderer bewaffneter Söldnergruppen aus den Nachbarländern. Diese Gruppen haben das Schutzgebiet als Basis genutzt und die Tierwelt durch kommerzielle Wilderei auf Elfenbein und Buschfleisch bis zur Fast-Ausrottung geplündert. Das Zemongo-Reservat existiert derzeit fast nur noch auf dem Papier und illustriert die verheerenden Auswirkungen von grenzüberschreitender politischer Instabilität auf die letzten Wildnisse Afrikas.",
+        "hu": "A Zemongo Állatrezervátum a Közép-afrikai Köztársaság legkeletibb részén, a Haut-Mbomou prefektúrában, a dél-szudáni határon található. Földrajzilag a régiót a sűrű galériaerdők és a kiterjedt szudáni szavannák nehezen megközelíthető keveréke jellemzi. Ökológiai szempontból ez az elszigetelt rezervátum történelmileg hatalmas biodiverzitásnak adott otthont, köztük erdei elefántok, oroszlánok, afrikai vadkutyák és kelet-afrikai csimpánzok nagy csordáinak. Gazdasági szempontból azonban a terület abszolút tragédia: a turizmus vagy az állami vadgazdálkodás itt egyszerűen nem létezik. A 2000-es évek eleje óta a Haut-Mbomou régió a Lord's Resistance Army (LRA) és más, a szomszédos országokból származó fegyveres zsoldoscsoportok menedéke. Ezek a csoportok bázisként használták a védett területet, és a kereskedelmi célú elefántcsont- és vadhús-orvvadászattal a szinte teljes kihalásig fosztogatták a vadvilágot. A Zemongo rezervátum jelenleg szinte csak papíron létezik, és jól illusztrálja a határokon átnyúló politikai instabilitás pusztító hatását Afrika utolsó vadonjaira.",
+        "ro": "Rezervația de animale sălbatice Zemongo este situată în extremitatea estică a Republicii Centrafricane, în prefectura Haut-Mbomou, la granița cu Sudanul de Sud. Geografic, regiunea este caracterizată de un amestec greu accesibil de galerii de pădure dense și savane sudaneze extinse. Din punct de vedere ecologic, această rezervație izolată a găzduit istoric o biodiversitate enormă, incluzând turme mari de elefanți de pădure, lei, câini sălbatici africani și cimpanzei estici. Economic însă, zona este o tragedie absolută: turismul sau managementul de stat al faunei sălbatice pur și simplu nu există aici. De la începutul anilor 2000, Haut-Mbomou a fost sanctuarul LRA (Lord's Resistance Army) și al altor grupuri de mercenari înarmați din țările vecine. Aceste grupuri au folosit zona protejată ca bază și au jefuit viața sălbatică aproape până la dispariție prin braconaj comercial pentru fildeș și carne. Rezervația Zemongo există în prezent aproape doar pe hârtie.",
+        "en": "The Zemongo Wildlife Reserve is located in the far eastern reaches of the Central African Republic, within the Haut-Mbomou prefecture right on the border with South Sudan. Geographically, the region is characterized by an extremely inaccessible mix of dense gallery forests and expansive Sudanian savannas. Ecologically, this isolated reserve was historically home to massive biodiversity, including large herds of forest elephants, lions, African wild dogs, and Eastern chimpanzees. Economically, however, the area is an absolute tragedy: tourism or formal state wildlife management simply do not exist here. Since the early 2000s, Haut-Mbomou has served as the primary sanctuary for the Lord's Resistance Army (LRA) and various other heavily armed mercenary groups from neighboring countries. These militias have used the protected area as a military base and have thoroughly pillaged the wildlife to near extinction through commercial poaching for ivory and bushmeat. The Zemongo Reserve currently exists almost solely on paper, perfectly illustrating the devastating impact of cross-border political instability on Africa's last remaining wildernesses."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Reservat liegt ganz im Osten an der Grenze zum Südsudan.",
+          "Die Region besteht aus Savannen und dichten Galeriewäldern.",
+          "Historisch gab es hier Elefanten, Löwen und auch Schimpansen.",
+          "Bewaffnete Rebellengruppen nutzen den Park heute als Basis.",
+          "Kommerzielle Wilderei hat die Tierbestände fast vernichtet."
+        ],
+        "hu": [
+          "A rezervátum az ország legkeletibb csücskében, Dél-Szudán határán fekszik.",
+          "A régió szavannák és sűrű trópusi galériaerdők nehezen járható keveréke.",
+          "Történelmileg rengeteg elefánt, oroszlán és csimpánz élt ezen a területen.",
+          "Fegyveres lázadó csoportok (pl. az LRA) ma főként katonai bázisként használják.",
+          "A brutális kereskedelmi orvvadászat szinte teljesen kipusztította a vadvilágot."
+        ],
+        "ro": [
+          "Rezervația se află în estul extrem, la granița cu statul Sudanul de Sud.",
+          "Regiunea este un amestec de savane și păduri dense de galerie.",
+          "Istoric, aici trăiau mulți elefanți de pădure, lei și cimpanzei.",
+          "Grupurile rebele armate folosesc astăzi parcul național ca bază.",
+          "Braconajul comercial masiv a eradicat aproape complet animalele."
+        ],
+        "en": [
+          "The reserve is located in the extreme east, bordering South Sudan.",
+          "The region is comprised of extensive savannas and dense gallery forests.",
+          "Historically, the area was populated by elephants, lions, and chimpanzees.",
+          "Heavily armed rebel groups currently use the national park as a military base.",
+          "Unchecked commercial poaching has nearly completely eradicated the wildlife."
+        ]
+      }
+    },
+    {
+      "id": "lobaye-forestry-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die dichten tropischen Regenwälder der Präfektur Lobaye im Südwesten der Zentralafrikanischen Republik sind das absolute Zentrum der nationalen Forstwirtschaft. Ökologisch beherbergen diese Urwälder eine immense Biodiversität, doch ihre wirtschaftliche Nutzung dominiert die Realität der Region. Edelholzeinschlag – insbesondere von wertvollen Baumarten wie Sapelli, Ayous und Sipo – ist nach Diamanten das zweitwichtigste Exportgut des Landes. Der Sektor wird weitgehend von großen, ausländischen Holzfirmen betrieben, die Konzessionen vom Staat pachten. Die riesigen Baumstämme werden auf Lastwagen über extrem schlechte Pisten ins benachbarte Kamerun zum Hafen von Douala transportiert. Historisch und aktuell ist die Forstwirtschaft hoch umstritten: Während sie formelle Arbeitsplätze schafft, bringt sie gleichzeitig Abholzung und massive Lebensraumzerstörung mit sich. Am stärksten davon betroffen ist das indigene Volk der Ba'Aka (Pygmäen), das als traditionelle Waldnomaden auf ein intaktes Ökosystem angewiesen ist. Ihr Lebensraum schwindet, während die Gewinne aus dem Holzexport selten in die lokale soziale Infrastruktur wie Schulen oder Krankenhäuser reinvestiert werden.",
+        "hu": "A Közép-afrikai Köztársaság délnyugati részén fekvő Lobaye prefektúra sűrű trópusi esőerdei a nemzeti erdőgazdálkodás abszolút központjai. Ökológiai szempontból ezek az őserdők hatalmas biodiverzitásnak adnak otthont, de a régió valóságát a gazdasági célú hasznosításuk uralja. A nemesfák fakitermelése – különösen az olyan értékes fafajoké, mint a sapelli, az ayous és a sipo – a gyémánt után az ország második legfontosabb exportcikke. Az ágazatot nagyrészt nagy, külföldi fakitermelő cégek működtetik, amelyek koncessziókat bérelnek az államtól. A hatalmas farönköket teherautókon, rendkívül rossz utakon szállítják a szomszédos Kamerunba, Douala kikötőjébe. Történelmileg és napjainkban is az erdőgazdálkodás rendkívül ellentmondásos: miközben formális munkahelyeket teremt, egyúttal erdőirtással és hatalmas élőhely-pusztítással is jár. A leginkább érintett a ba'aka (pigmeus) őslakos nép, amely hagyományos erdei nomádként egy ép ökoszisztémára van utalva. Élőhelyük egyre zsugorodik, miközben a faexportból származó nyereséget ritkán forgatják vissza a helyi szociális infrastruktúrába, például iskolákba vagy kórházakba.",
+        "ro": "Pădurile tropicale dense din prefectura Lobaye, în sud-vestul Republicii Centrafricane, reprezintă centrul absolut al silviculturii naționale. Din punct de vedere ecologic, aceste păduri primare adăpostesc o biodiversitate imensă, dar exploatarea lor economică domină realitatea regiunii. Exploatarea lemnului de esență tare – în special a speciilor valoroase precum sapelli, ayous și sipo – este al doilea cel mai important produs de export al țării după diamante. Sectorul este operat în mare parte de mari companii forestiere străine care închiriază concesiuni de la stat. Buștenii uriași sunt transportați cu camioanele pe drumuri extrem de proaste către țara vecină Camerun, la portul Douala. Istoric și actual, silvicultura este foarte controversată: deși creează locuri de muncă formale, duce la defrișări și la distrugerea masivă a habitatelor. Cei mai afectați sunt populația indigenă Ba'Aka (pigmei), care, ca nomazi tradiționali ai pădurii, depind de un ecosistem intact. Habitatul lor scade drastic.",
+        "en": "The dense tropical rainforests of the Lobaye prefecture in the southwestern Central African Republic serve as the absolute center of the national forestry industry. Ecologically, these primeval forests harbor immense biodiversity, but their economic exploitation dominates the reality of the region. The logging of precious hardwoods—particularly valuable tree species such as Sapelli, Ayous, and Sipo—is the country's second most important export commodity after diamonds. The sector is largely operated by large, foreign-owned logging companies that lease massive concessions from the state. The giant logs are transported on heavy trucks over extremely poor dirt roads into neighboring Cameroon to the seaport of Douala. Historically and currently, the forestry industry is highly controversial: while it creates rare formal employment, it simultaneously brings severe deforestation and massive habitat destruction. The most heavily affected are the indigenous Ba'Aka (Pygmy) people, who, as traditional forest nomads, rely entirely on an intact ecosystem for survival. Their habitat is rapidly shrinking, while the profits from timber exports are rarely reinvested into local social infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Lobaye ist das absolute Zentrum der nationalen Holzindustrie.",
+          "Edelholz ist das zweitwichtigste Exportgut nach Diamanten.",
+          "Die Forstkonzessionen werden oft an ausländische Firmen vergeben.",
+          "Der Holzeinschlag bedroht den Lebensraum der indigenen Pygmäen.",
+          "Die Baumstämme werden über extrem schlechte Pisten abtransportiert."
+        ],
+        "hu": [
+          "Lobaye régiója a hivatalos nemzeti faipar abszolút központja.",
+          "A nemesfa a második legfontosabb exportcikk a gyémánt után.",
+          "A fakitermelési koncessziókat gyakran nagy külföldi cégek kapják.",
+          "A brutális fakitermelés erősen fenyegeti az őslakos pigmeusok élőhelyét.",
+          "A hatalmas farönköket rendkívül rossz minőségű utakon szállítják el."
+        ],
+        "ro": [
+          "Lobaye este centrul absolut al industriei forestiere naționale.",
+          "Lemnul prețios este al doilea produs de export după diamante.",
+          "Concesiunile forestiere sunt adesea acordate firmelor străine.",
+          "Tăierea copacilor amenință masiv habitatul pigmeilor indigeni.",
+          "Buștenii masivi sunt transportați pe drumuri de pământ foarte proaste."
+        ],
+        "en": [
+          "Lobaye is the absolute epicenter of the national timber industry.",
+          "Hardwood acts as the country's second most vital export after diamonds.",
+          "Forestry concessions are frequently leased directly to foreign companies.",
+          "Intensive logging heavily threatens the habitat of the indigenous Pygmies.",
+          "The massive logs are transported out over extremely poor dirt tracks."
+        ]
+      }
+    },
+    {
+      "id": "ubangi-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Ubangi-Fluss ist das wichtigste und größte Flusssystem der Zentralafrikanischen Republik und bildet auf einer Länge von mehreren hundert Kilometern die natürliche Staatsgrenze zur Demokratischen Republik Kongo. Er entsteht aus dem Zusammenfluss von Uele und Mbomou und ist der größte rechtsseitige Nebenfluss des mächtigen Kongo-Flusses. Geografisch und wirtschaftlich ist der Ubangi eine existenzielle Lebensader für das geopolitisch isolierte Binnenland. Die Hauptstadt Bangui liegt direkt an seinem Ufer. Historisch war der Fluss die zentrale Route für die französische Kolonialdurchdringung und den Handel. Heute dient er als essenzieller Transportkorridor für Frachtschiffe, die Treibstoff, Baumaterialien und Konsumgüter zwischen Bangui und Brazzaville (bzw. Kinshasa) transportieren. Der Fluss sichert zudem durch Subsistenzfischerei die Proteinversorgung von Hunderttausenden Anwohnern. Ein massives infrastrukturelles Problem ist jedoch die ausgeprägte Trockenzeit: Der stark sinkende Wasserpegel des Ubangi macht die kommerzielle Schifffahrt monatelang unmöglich, was regelmäßig zu schweren Versorgungsengpässen und explodierenden Preisen in der Hauptstadt führt.",
+        "hu": "Az Ubangi-folyó a Közép-afrikai Köztársaság legfontosabb és legnagyobb folyórendszere, amely több száz kilométeren keresztül alkotja a természetes államhatárt a Kongói Demokratikus Köztársasággal. Az Uele és a Mbomou folyók összefolyásából ered, és a hatalmas Kongó folyó legnagyobb jobb parti mellékfolyója. Földrajzi és gazdasági szempontból az Ubangi egzisztenciális mentőöv a geopolitikailag elszigetelt, tengerparttal nem rendelkező ország számára. A főváros, Bangui közvetlenül a partján fekszik. Történelmileg a folyó a francia gyarmati behatolás és a kereskedelem központi útvonala volt. Ma létfontosságú tranzitfolyosóként szolgál az üzemanyagot, építőanyagokat és fogyasztási cikkeket Bangui és Brazzaville (vagy Kinshasa) között szállító teherhajók számára. A folyó az önellátó halászat révén több százezer lakos fehérjeellátását is biztosítja. Hatalmas infrastrukturális problémát jelent azonban a kifejezett száraz évszak: az Ubangi drasztikusan csökkenő vízszintje hónapokra lehetetlenné teszi a kereskedelmi hajózást, ami rendszeresen súlyos ellátási hiányokhoz és robbanásszerűen emelkedő árakhoz vezet a fővárosban.",
+        "ro": "Fluviul Ubangi este cel mai important și cel mai mare sistem fluvial din Republica Centrafricană și formează granița naturală cu Republica Democratică Congo pe o distanță de câteva sute de kilometri. Este format din confluența râurilor Uele și Mbomou și este cel mai mare afluent de pe malul drept al marelui fluviu Congo. Geografic și economic, Ubangi este un colac de salvare existențial pentru această țară izolată geopolitic, fără ieșire la mare. Capitala Bangui este situată chiar pe malurile sale. Istoric, râul a fost ruta centrală pentru pătrunderea colonială franceză și pentru comerț. Astăzi, servește ca un coridor de transport esențial pentru navele de marfă care transportă combustibil, materiale de construcție și bunuri de consum între Bangui și Brazzaville. Râul asigură, de asemenea, aprovizionarea cu proteine pentru sute de mii de locuitori prin pescuitul de subzistență. Cu toate acestea, sezonul uscat reprezintă o problemă infrastructură masivă: nivelul apei face navigația comercială imposibilă luni de zile.",
+        "en": "The Ubangi River is the most important and largest river system in the Central African Republic, forming the natural national border with the Democratic Republic of Congo for several hundred kilometers. It is formed by the confluence of the Uele and Mbomou rivers and is the largest right-bank tributary of the massive Congo River. Geographically and economically, the Ubangi is an existential lifeline for the geopolitically isolated, landlocked country. The capital city of Bangui is located directly on its banks. Historically, the river was the central route for French colonial penetration and regional trade. Today, it serves as an essential transport corridor for cargo ships ferrying fuel, construction materials, and consumer goods between Bangui and Brazzaville (or Kinshasa). The river also ensures the protein supply for hundreds of thousands of local residents through intense subsistence fishing. A massive infrastructural problem, however, is the pronounced dry season: the rapidly dropping water level of the Ubangi makes commercial navigation completely impossible for months, regularly leading to severe supply shortages and exploding prices in the capital."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Er ist der wichtigste und größte Fluss in der Zentralafrikanischen Republik.",
+          "Der Ubangi bildet die natürliche Staatsgrenze zur DR Kongo.",
+          "Die Hauptstadt Bangui liegt strategisch direkt am Flussufer.",
+          "Er ist eine existenzielle Wasserstraße für den Frachtverkehr.",
+          "In der extremen Trockenzeit kommt die Schifffahrt oft zum Erliegen."
+        ],
+        "hu": [
+          "Ez a Közép-afrikai Köztársaság legnagyobb és legfontosabb folyója.",
+          "Az Ubangi alkotja a természetes országhatárt a Kongói DK-val.",
+          "A főváros, Bangui stratégiailag közvetlenül a folyóparton fekszik.",
+          "Egzisztenciális jelentőségű nemzetközi vízi út a teherforgalom számára.",
+          "Az extrém száraz évszakban a teherhajózás teljesen megbénul."
+        ],
+        "ro": [
+          "Este cel mai important și cel mai mare fluviu din țară.",
+          "Ubangi formează granița naturală cu Republica Democratică Congo.",
+          "Capitala Bangui este situată strategic direct pe malul fluviului.",
+          "Este o cale navigabilă absolut existențială pentru traficul de marfă.",
+          "În sezonul extrem de uscat, navigația comercială se oprește complet."
+        ],
+        "en": [
+          "It is the largest and most critical river in the Central African Republic.",
+          "The Ubangi forms the natural national border with the DR Congo.",
+          "The capital city of Bangui is strategically located directly on its banks.",
+          "It acts as an existential inland waterway for commercial freight traffic.",
+          "During the extreme dry season, commercial shipping frequently halts completely."
+        ]
+      }
+    }
+  ]
+}

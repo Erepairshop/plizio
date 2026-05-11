@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "arul-mihu-temple-landmarks-v2",
+      "description": "Templul Arul Mihu Navasakthi Vinayagar este un reper spiritual vibrant în Victoria.",
+      "facts": ["Victoria", "Templu hindus", "Arhitectură colorată"]
+    },
+    {
+      "id": "palais-de-justice-landmarks-v2",
+      "description": "Palais de Justice este clădirea administrativă principală a sistemului judiciar din Seychelles.",
+      "facts": ["Victoria", "Sistem judiciar", "Clădire administrativă"]
+    },
+    {
+      "id": "iccs-victoria-landmarks-v2",
+      "description": "Centrul Internațional de Conferințe (ICCS) din Victoria este un centru cultural și de afaceri major.",
+      "facts": ["Victoria", "Centru de conferințe", "Hub cultural"]
+    },
+    {
+      "id": "st-mary-church-la-digue-landmarks-v2",
+      "description": "Biserica Sf. Maria de pe insula La Digue este un punct central pentru comunitatea locală.",
+      "facts": ["La Digue", "Biserică", "Punct de reper"]
+    },
+    {
+      "id": "denis-island-lighthouse-landmarks-v2",
+      "description": "Farul de pe insula Denis este un reper istoric esențial pentru navigația maritimă.",
+      "facts": ["Insula Denis", "Far", "Navigație"]
+    },
+    {
+      "id": "unity-stadium-landmarks-v2",
+      "description": "Stadionul Unity este principala arenă sportivă din insulele Seychelles.",
+      "facts": ["Mahé", "Stadion", "Sport"]
+    },
+    {
+      "id": "peace-memorial-victoria-landmarks-v2",
+      "description": "Monumentul Păcii din Victoria este dedicat armoniei și valorilor naționale.",
+      "facts": ["Victoria", "Monument", "Valori naționale"]
+    },
+    {
+      "id": "diamond-jubilee-monument-landmarks-v2",
+      "description": "Monumentul Diamond Jubilee din Victoria marchează un moment istoric important pentru țară.",
+      "facts": ["Victoria", "Monument", "Istorie"]
+    },
+    {
+      "id": "siad-au-cap-landmarks-v2",
+      "description": "Siad au Cap este o zonă marcată prin reperele sale locale de pe coasta insulei Mahé.",
+      "facts": ["Mahé", "Zonă costieră", "Reper local"]
+    },
+    {
+      "id": "la-gogue-dam-landmarks-v2",
+      "description": "Barajul La Gogue este cea mai importantă facilitate de stocare a apei din Mahé.",
+      "facts": ["Mahé", "Baraj", "Resurse apă"]
+    }
+  ]
+}

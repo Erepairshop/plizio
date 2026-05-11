@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts",
+    "lib/visualLab/data/poiExtraGeorgiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kabafita-forest-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kabafita Forest Reserve liegt im Einzugsgebiet von Brikama in der West Coast Region und stellt eine bedeutende ökologische Barriere auf dem küstennahen Plateau dar. Geografisch ist das Relief durch eine flache Topografie auf einer Basis aus tertiärem Laterit geprägt, die sanft in Richtung der südlichen Feuchtgebiete abfällt. Dieser Wald erfüllt eine kritische hydrologische Funktion, indem er die Versickerung von Oberflächenwasser in die Aquifere begünstigt, die die Greater Banjul Area mit Trinkwasser versorgen. Ökologisch beherbergt Kabafita eine Mischung aus Sekundärwald und Park-Savanne, die als Rückzugsraum für kleine Säugetiere und zahlreiche Vogelarten in einer zunehmend urbanisierten Umgebung dient. Historisch wurde das Reservat eingerichtet, um die unkontrollierte Ausdehnung der Stadt Brikama nach Norden zu begrenzen und den wertvollen Baumbestand vor illegaler Holzentnahme zu schützen. Ökonomisch ist der Wald durch die Gewinnung von Nichtholzprodukten und als Standort für forstwirtschaftliche Bildungsinitiativen von Bedeutung. Technisch gesehen ist die Erhaltung der Bodenstruktur auf diesem Relief entscheidend, um die Versiegelung durch fortschreitende Siedlungsaktivitäten zu verhindern und das lokale Mikroklima stabil zu halten. Der Kabafita Forest ist somit ein Schlüsselstandort für die nachhaltige Stadtentwicklung und den Ressourcenschutz im Ballungsraum Kombo.",
+        "hu": "A Kabafita erdőrezervátum Brikama vonzáskörzetében, a nyugati parti régióban található, és jelentős ökológiai gátat képez a tengerparti fennsíkon. Földrajzilag a domborzatot harmadidőszaki lateritre épülő lapos topográfia jellemzi, amely enyhén lejt a déli vizes élőhelyek felé. Ez az erdő kritikus hidrológiai funkciót tölt be azáltal, hogy elősegíti a felszíni vizek beszivárgását a víztartó rétegekbe, amelyek a Nagy-Banjul terület ivóvízellátását biztosítják. Ökológiailag Kabafita másodlagos erdők és park-szavannák keverékének ad otthont, amely menedékként szolgál a kisemlősök és számos madárfaj számára a folyamatosan városiasodó környezetben. Történelmileg a rezervátumot azért hozták létre, hogy korlátozzák Brikama városának északi irányú, ellenőrizetlen terjeszkedését, és megvédjék az értékes faállományt az illegális kitermeléstől. Gazdaságilag az erdő a nem faalapú termékek gyűjtése és az erdészeti oktatási kezdeményezések helyszíneként jelentős. Technikai szempontból a talajszerkezet megőrzése ezen a domborzaton döntő fontosságú a városi beépítés miatti talajlezárás megakadályozása és a helyi mikroklíma stabilan tartása érdekében. A Kabafita-erdő tehát a fenntartható városfejlesztés és az erőforrás-védelem kulcsfontosságú helyszíne a Kombo-agglomerációban.",
+        "ro": "Rezervația forestieră Kabafita este situată în zona de influență a orașului Brikama, în regiunea West Coast, reprezentând o barieră ecologică semnificativă pe platoul de coastă. Geografic, relieful este caracterizat printr-o topografie plană pe un fundament de laterit terțiar, care coboară lin spre zonele umede din sud. Această pădure îndeplinește o funcție hidrologică critică, favorizând infiltrarea apelor de suprafață în acviferele care alimentează cu apă potabilă Zona Metropolitană Banjul. Ecologic, Kabafita adăpostește un mix de pădure secundară și savană de tip parc, servind drept refugiu pentru mamifere mici și numeroase specii de păsări într-un mediu tot mai urbanizat. Istoric, rezervația a fost înființată pentru a limita expansiunea necontrolată a orașului Brikama spre nord și pentru a proteja masa lemnoasă valoroasă împotriva tăierilor ilegale. Economic, pădurea este importantă prin colectarea produselor nelemnoase și ca locație pentru inițiative educaționale silvice. Din punct de vedere tehnic, menținerea structurii solului pe acest relief este crucială pentru a preveni impermeabilizarea cauzată de activitățile de construcție și pentru a menține stabilitatea microclimatului local. Pădurea Kabafita este astfel un sit cheie pentru dezvoltarea urbană durabilă și protecția resurselor în aglomerația Kombo.",
+        "en": "The Kabafita Forest Reserve is located in the Brikama catchment area within the West Coast Region, acting as a vital ecological barrier on the coastal plateau. Geographically, the relief is defined by flat topography resting on a Tertiary laterite base, gently sloping toward the southern wetlands. This forest fulfills a critical hydrological function by promoting the infiltration of surface water into the aquifers that provide drinking water for the Greater Banjul Area. Ecologically, Kabafita hosts a blend of secondary forest and parkland savannah, serving as a sanctuary for small mammals and numerous bird species within an increasingly urbanized setting. Historically, the reserve was established to curb the uncontrolled northward expansion of Brikama and to protect valuable timber from illegal harvesting. Economically, the forest is significant for the gathering of non-timber forest products and as a site for forestry education initiatives. Technically, preserving the soil structure on this relief is essential to prevent ground sealing from encroaching settlement activities and to stabilize the local microclimate. Kabafita Forest is therefore a key site for sustainable urban development and resource conservation in the Kombo metropolitan area."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Strategischer Schutzgürtel gegen die Zersiedelung von Brikama.",
+          "Wichtiger Standort für die Regeneration des regionalen Grundwassers.",
+          "Reliefgeprägt durch ein stabiles lateritisches Hochplateau.",
+          "Beherbergt Bildungszentren für westafrikanische Forstwirtschaft.",
+          "Schützt die Biodiversität in einer dicht besiedelten Region.",
+          "Wesentlicher Faktor für den Erosionsschutz im südlichen Kombo-Distrikt."
+        ],
+        "hu": [
+          "Stratégiai védőöv Brikama városi terjeszkedése ellen.",
+          "Fontos helyszín a regionális talajvíz utánpótlása szempontjából.",
+          "Domborzatát stabil laterites fennsík jellemzi.",
+          "Nyugat-afrikai erdészeti oktatási központoknak ad otthont.",
+          "Védi a biodiverzitást egy sűrűn lakott régióban.",
+          "Alapvető szerepet játszik a talajerózió elleni védelemben Dél-Kombóban."
+        ],
+        "ro": [
+          "Centru strategic de control al expansiunii urbane în Brikama.",
+          "Arie critică pentru reîncărcarea rezervelor de apă subterană.",
+          "Relief dominat de un platou înalt de laterit stabil.",
+          "Găzduiește facilități de formare în managementul forestier.",
+          "Sanctuar de biodiversitate într-o zonă cu presiune demografică mare.",
+          "Element esențial în strategia de prevenire a eroziunii solului."
+        ],
+        "en": [
+          "A strategic buffer zone against the urban sprawl of Brikama.",
+          "Key area for the recharge of regional groundwater supplies.",
+          "Topographically defined by a stable lateritic upland plateau.",
+          "Home to vocational training centers for West African forestry.",
+          "Preserves biodiversity within a densely populated urban fringe.",
+          "Essential for preventing soil erosion in the southern Kombo districts."
+        ]
+      }
+    },
+    {
+      "id": "berending-forest-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Berending Forest Reserve liegt in der North Bank Region, unweit der Grenze zum Senegal. Geografisch stellt es eine der wenigen verbliebenen Waldflächen auf dem sandigen Küstenplateau nördlich des Gambia-Flusses dar. Das Relief ist durch eine flache bis leicht wellige Topografie geprägt, die auf einer Schicht aus pleistozänen Sanden und darunter liegendem Laterit ruht. Ökologisch ist der Wald als Schutzbarriere gegen die vom Meer heraufziehende Versalzung und als Windschutz für die dahinter liegenden Agrarflächen von großer Bedeutung. Die Vegetation besteht aus einer Mischung von Trockenwaldarten und Küsten-Savanne, die an die saisonale Trockenheit angepasst sind. Historisch ist das Gebiet eng mit der spirituellen Bedeutung der nahegelegenen heiligen Krokodilbecken verknüpft, was zur Bewahrung des Baumbestands beigetragen hat. Ökonomisch wird der Wald heute für die nachhaltige Gewinnung von Medizinalpflanzen und als Standort für den Ökotourismus genutzt. Technisch gesehen ist die Bodenstabilität auf diesem Relief entscheidend, um das Vordringen von Flugsanden in das Landesinnere zu verhindern. Der Berending Forest ist ein exemplarisches Beispiel für die ökologische Resilienz der nordgambischen Küstenlandschaft gegenüber klimatischen Belastungen.",
+        "hu": "A Berending erdőrezervátum a North Bank régióban található, nem messze a szenegáli határtól. Földrajzilag ez az egyik kevés megmaradt erdőterület a Gambia-folyótól északra fekvő homokos parti fennsíkon. A domborzatot lapos vagy enyhén hullámos topográfia jellemzi, amely pleisztocén homokrétegen és az alatta fekvő lateriten nyugszik. Ökológiailag az erdő nagy jelentőséggel bír, mint a tenger felől érkező elsózódás elleni védőgát, valamint a mögötte fekvő mezőgazdasági területek szélfogója. A vegetáció száraz erdei fajok és parti szavanna keverékéből áll, amelyek alkalmazkodtak a szezonális szárazsághoz. Történelmileg a terület szorosan kapcsolódik a közeli szent krokodilmedencék spirituális jelentőségéhez, ami hozzájárult a faállomány megőrzéséhez. Gazdaságilag az erdőt ma gyógynövények fenntartható gyűjtésére és ökoturisztikai helyszínként hasznosítják. Technikai szempontból a talaj stabilitása ezen a domborzaton döntő fontosságú a futóhomok szárazföld belseje felé történő benyomulásának megakadályozása érdekében. A Berending-erdő kiváló példája az észak-gambiai parti táj ökológiai rugalmasságának az éghajlati terhelésekkel szemben.",
+        "ro": "Rezervația forestieră Berending este situată în regiunea North Bank, aproape de frontiera cu Senegal. Din punct de vedere geografic, reprezintă una dintre puținele zone împădurite rămase pe platoul nisipos de coastă de la nord de fluviul Gambia. Relieful este caracterizat printr-o topografie plană sau ușor vălurită, sprijinită pe un strat de nisipuri pleistocene și laterit subiacent. Ecologic, pădurea are o mare importanță ca barieră de protecție împotriva salinizării venite dinspre mare și ca paravan împotriva vântului pentru terenurile agricole din hinterland. Vegetația constă dintr-un amestec de specii de pădure uscată și savană de coastă, adaptate la seceta sezonieră. Istoric, zona este strâns legată de semnificația spirituală a bazinelor sacre cu crocodili din apropiere, fapt care a contribuit la conservarea arborilor. Economic, pădurea este utilizată astăzi pentru recoltarea durabilă a plantelor medicinale și ca destinație pentru ecoturism. Din punct de vedere tehnic, stabilitatea solului pe acest relief este crucială pentru a preveni avansul dunelor de nisip spre interiorul continentului. Pădurea Berending este un exemplu elocvent de reziliență ecologică a peisajului costier din nordul Gambiei în fața stresului climatic.",
+        "en": "The Berending Forest Reserve is located in the North Bank Region, near the border with Senegal. Geographically, it represents one of the few remaining forested areas on the sandy coastal plateau north of the Gambia River. The relief is characterized by flat to gently undulating topography, resting on a layer of Pleistocene sands and underlying laterite. Ecologically, the forest is of great importance as a protective barrier against sea-borne salinization and as a windbreak for the agricultural lands behind it. The vegetation consists of a mix of dry forest species and coastal savannah, adapted to seasonal drought. Historically, the area is closely linked to the spiritual significance of the nearby sacred crocodile pools, which has helped preserve the tree cover. Economically, the forest is now used for the sustainable harvesting of medicinal plants and as a location for ecotourism. Technically, soil stability on this relief is crucial to prevent the encroachment of windblown sands further inland. Berending Forest is a prime example of the ecological resilience of the North Gambian coastal landscape in the face of climatic pressures."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtige Barriere gegen das Vordringen von Salzwasser und Sand.",
+          "Gelegen auf einem geologisch jungen sandigen Küstenplateau.",
+          "Schützt die Biodiversität in der Nähe der heiligen Berending-Stätten.",
+          "Fördert das lokale Mikroklima in der niederschlagsarmen North Bank Region.",
+          "Lebensraum für spezialisierte trockenresistente Baumarten.",
+          "Wesentlicher Bestandteil des ökologischen Netzwerks an der senegalesischen Grenze."
+        ],
+        "hu": [
+          "Fontos gát a sós víz és a homok benyomulása ellen.",
+          "Geológiailag fiatal, homokos parti fennsíkon fekszik.",
+          "Védi a biodiverzitást a berendingi szent helyek közelében.",
+          "Javítja a mikroklímát a csapadékszegény North Bank régióban.",
+          "Szárazságtűrő fafajok speciális élőhelye.",
+          "A szenegáli határ menti ökológiai hálózat szerves része."
+        ],
+        "ro": [
+          "Barieră naturală împotriva intruziunii saline și a nisipurilor mobile.",
+          "Situată pe un platou de coastă format din depozite nisipoase recente.",
+          "Protejează flora și fauna din proximitatea siturilor sacre Berending.",
+          "Reglează microclimatul în regiunea aridă North Bank.",
+          "Adăpostește specii de arbori adaptate la perioade lungi de secetă.",
+          "Segment vital al coridorului ecologic de la granița cu Senegal."
+        ],
+        "en": [
+          "A critical barrier against saltwater intrusion and drifting sands.",
+          "Located on a geologically recent sandy coastal plateau.",
+          "Preserves biodiversity near the sacred Berending traditional sites.",
+          "Enhances the local microclimate in the arid North Bank Region.",
+          "Home to specialized drought-resistant West African tree species.",
+          "A key component of the ecological network along the Senegalese border."
+        ]
+      }
+    },
+    {
+      "id": "kwinella-hills-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kwinella Hills liegen in der Lower River Region, unmittelbar angrenzend an den Kiang West National Park. Geografisch bilden sie eine markante Kette von lateritischen Erhebungen, die das Niveau der umliegenden Schwemmlandebenen um etwa 20 bis 30 Meter überragen. Dieses Relief ist durch steile, oft zerklüftete Hänge und flache Gipfelplateaus charakterisiert, die aus eisenreichem Gestein bestehen. Ökologisch bieten die Hügel eine trockene Inselumgebung innerhalb des feuchten Flusssystems, was zur Ansiedlung spezialisierter Flora wie dorniger Akazien und sukkulenter Pflanzen führt. Historisch dienten die Kwinella Hills den lokalen Gemeinschaften als natürlicher Fluchtpunkt vor den saisonalen Überschwemmungen des Gambia-Flusses und als Aussichtspunkte zur Überwachung der Handelsrouten. Ökonomisch ist die Region für den Wandertourismus und die Beobachtung von Greifvögeln von Bedeutung, die die thermischen Aufwinde an den Hängen nutzen. Technisch gesehen ist das Relief ein wichtiges Element für den lokalen Bodenschutz, da die festen Gesteinsformationen das Abfließen von Sedimenten in die Mangrovenwälder verlangsamen. Die Hügelketten von Kwinella verdeutlichen die geomorphologische Dynamik im zentralen Gambia, wo widerstandsfähige Lateritkappen die Erosion des Hinterlandes begrenzen.",
+        "hu": "A Kwinella-dombság a Lower River régióban található, közvetlenül a Kiang West Nemzeti Park szomszédságában. Földrajzilag laterit kiemelkedések jellegzetes láncolatát alkotják, amelyek körülbelül 20-30 méterrel magasodnak a környező ártéri síkságok fölé. Ezt a domborzatot meredek, gyakran szabdalt lejtők és lapos csúcsfennsíkok jellemzik, amelyek vasban gazdag kőzetből állnak. Ökológiailag a dombok száraz szigeti környezetet biztosítanak a nedves folyórendszeren belül, ami olyan speciális flóra megtelepedéséhez vezet, mint a tövises akáciák és a pozsgás növények. Történelmileg a Kwinella-dombság a helyi közösségek számára természetes menekülési pontként szolgált a Gambia-folyó szezonális áradásai elől, és megfigyelőpontként a kereskedelmi útvonalak ellenőrzésére. Gazdaságilag a régió a túrázás és a ragadozó madarak megfigyelése szempontjából jelentős, amelyek kihasználják a lejtők menti termikes feláramlásokat. Technikai szempontból a domborzat fontos eleme a helyi talajvédelemnek, mivel a szilárd kőzetképződmények lassítják az üledék lemosódását a mangroveerdőkbe. A kwinellai dombvonulatok jól szemléltetik Közép-Gambia geomorfológiai dinamikáját, ahol az ellenálló laterit sapkák korlátozzák a hátország erózióját.",
+        "ro": "Dealurile Kwinella (Kwinella Hills) sunt situate în regiunea Lower River, adiacente Parcului Național Kiang West. Din punct de vedere geografic, ele formează un lanț proeminent de ridicături lateritice care depășesc nivelul câmpiilor aluvionare înconjurătoare cu aproximativ 20 până la 30 de metri. Acest relief este caracterizat prin pante abrupte, adesea fragmentate, și platouri somitale plane, compuse din rocă bogată în fier. Ecologic, dealurile oferă un mediu de insulă aridă în cadrul sistemului fluvial umed, ceea ce duce la stabilirea unei flore specializate, cum ar fi acaciile spinoase și plantele suculente. Istoric, dealurile Kwinella au servit comunităților locale ca puncte naturale de refugiu împotriva inundațiilor sezoniere ale fluviului Gambia și ca puncte de observație pentru monitorizarea rutelor comerciale. Economic, regiunea este importantă pentru drumeții și observarea păsărilor de pradă, care utilizează curenții termici ascendenți de-a lungul pantelor. Din punct de vedere tehnic, relieful este un element crucial pentru protecția solului local, deoarece formațiunile de rocă solidă încetinesc scurgerea sedimentelor spre pădurile de mangrove. Lanțurile deluroase din Kwinella ilustrează dinamica geomorfologică din centrul Gambiei, unde calotele de laterit rezistent limitează eroziunea hinterlandului.",
+        "en": "The Kwinella Hills are located in the Lower River Region, directly adjacent to the Kiang West National Park. Geographically, they form a prominent chain of lateritic elevations that rise about 20 to 30 meters above the surrounding alluvial floodplains. This relief is characterized by steep, often rugged slopes and flat summit plateaus composed of iron-rich rock. Ecologically, the hills offer a dry island environment within the moist river system, leading to the establishment of specialized flora such as thorny acacias and succulent plants. Historically, the Kwinella Hills served local communities as natural refuges from the seasonal floods of the Gambia River and as vantage points for monitoring trade routes. Economically, the region is significant for hiking tourism and the observation of birds of prey, which utilize the thermal updrafts along the slopes. Technically, the relief is a crucial element for local soil conservation, as the solid rock formations slow the runoff of sediments into the mangrove forests. The hill ranges of Kwinella illustrate the geomorphological dynamics in central Gambia, where resilient laterite caps limit the erosion of the hinterland."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Markante Hügelkette am Rande des Kiang West National Parks.",
+          "Besteht aus geologisch alten, eisenreichen Laterit-Härtlingen.",
+          "Wichtiger Standort für Greifvögel aufgrund thermischer Aufwinde.",
+          "Historischer Rückzugsort der Mandinka vor Flusshochwasser.",
+          "Reguliert den Oberflächenabfluss in die südlichen Bolongs.",
+          "Bietet einige der wenigen echten Steigungen im gambischen Straßennetz."
+        ],
+        "hu": [
+          "Jellegzetes dombsor a Kiang West Nemzeti Park szélén.",
+          "Geológiailag idős, vasban gazdag laterit tanúhegyekből áll.",
+          "Fontos helyszín a ragadozó madarak megfigyelésére a termikek miatt.",
+          "A mandinka nép történelmi menedékhelye az áradások elől.",
+          "Szabályozza a felszíni vízelvezetést a déli bolongok felé.",
+          "A kevés valódi emelkedő egyike a gambiai úthálózaton."
+        ],
+        "ro": [
+          "Lanț deluros proeminent la marginea Parcului Național Kiang West.",
+          "Relief format din structuri vechi de laterit feros rezistent.",
+          "Punct de observație ideal pentru păsările de pradă datorită termicelor.",
+          "Refugiu istoric al populației Mandinka împotriva viiturilor fluviale.",
+          "Rol major în controlul scurgerilor de suprafață către afluenții sudici.",
+          "Include pante care depășesc topografia plană obișnuită a țării."
+        ],
+        "en": [
+          "A prominent range of hills bordering the Kiang West National Park.",
+          "Composed of geologically ancient, iron-rich laterite landforms.",
+          "A key site for observing raptors utilizing thermal updrafts.",
+          "Historically served as a Mandinka refuge from river flooding.",
+          "Regulates surface runoff into the southern tidal creek systems.",
+          "Features some of the few significant gradients in the Gambian road network."
+        ]
+      }
+    },
+    {
+      "id": "batumi-sea-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Seehafen von Batumi ist ein zentraler wirtschaftlicher Knotenpunkt Georgiens am Schwarzen Meer und dient als wichtigstes Tor für den Export kaukasischer Ressourcen. Geografisch liegt der Hafen in einer tiefen Bucht, die Schutz vor starken Meeresströmungen bietet und ganzjährig eisfrei bleibt. Historisch erlangte der Hafen im späten 19. Jahrhundert weltweite Bedeutung, als er durch die Eisenbahn mit Baku verbunden wurde und zum weltweit führenden Umschlagplatz für Rohöl aufstieg. Ökonomisch ist der Hafen heute multifunktional ausgerichtet und umfasst Terminals für Öl, Trockenfracht, Container und Passagiere. Er ist ein wesentlicher Bestandteil der TRACECA-Handelsroute (Transport Corridor Europe-Caucasus-Asia) und spielt eine Schlüsselrolle in der Versorgung Zentralasiens. Technisch gesehen verfügt der Hafen über moderne Verladeanlagen, die auf den Export von Erdölprodukten aus Aserbaidschan und Kasachstan spezialisiert sind. Ökologisch steht der Hafenbetrieb unter strenger Überwachung, um die Wasserqualität der touristisch wichtigen Küstenregion von Adjara zu schützen. Die Bedeutung des Hafens wird durch seine Funktion als Freihandelszone und seine Anbindung an das georgische Schienennetz unterstrichen, was Batumi zu einem unverzichtbaren Akteur im eurasischen Transitverkehr macht.",
+        "hu": "Batumi tengeri kikötője Grúzia központi gazdasági csomópontja a Fekete-tengernél, és a kaukázusi erőforrások exportjának legfontosabb kapujaként szolgál. Földrajzilag a kikötő egy mély öbölben található, amely védelmet nyújt az erős tengeri áramlatok ellen, és egész évben jégmentes marad. Történelmileg a kikötő a 19. század végén tett szert világhírre, amikor vasút kötötte össze Bakuval, és a világ vezető kőolaj-átrakodóhelyévé vált. Gazdaságilag a kikötő ma multifunkcionális, kőolaj-, szárazáru-, konténer- és utasterminálokkal rendelkezik. A TRACECA (Európa-Kaukázus-Ázsia közlekedési folyosó) kereskedelmi útvonal szerves része, és kulcsszerepet játszik Közép-Ázsia ellátásában. Technikai szempontból a kikötő modern rakodóberendezésekkel rendelkezik, amelyek az Azerbajdzsánból és Kazahsztánból származó kőolajtermékek exportjára szakosodtak. Ökológiailag a kikötő működése szigorú felügyelet alatt áll, hogy megvédjék Adzsara turisztikailag fontos parti régiójának vízminőségét. A kikötő jelentőségét hangsúlyozza szabadkereskedelmi övezet funkciója és a grúz vasúthálózathoz való csatlakozása, ami Batumit az eurázsiai tranzitforgalom nélkülözhetetlen szereplőjévé teszi.",
+        "ro": "Portul maritim Batumi este un nod economic central al Georgiei la Marea Neagră, servind drept poarta principală pentru exportul resurselor caucaziene. Geografic, portul este situat într-un golf adânc, care oferă protecție împotriva curenților marini puternici și rămâne liber de gheață tot anul. Istoric, portul a dobândit o importanță mondială la sfârșitul secolului al XIX-lea, când a fost conectat prin cale ferată cu Baku, devenind cel mai mare punct de transbordare a petrolului brut din lume. Economic, portul este astăzi multifuncțional, incluzând terminale pentru petrol, mărfuri vrac, containere și pasageri. Este o componentă esențială a rutei comerciale TRACECA (Coridorul de Transport Europa-Caucaz-Asia) și joacă un rol cheie în aprovizionarea Asiei Centrale. Din punct de vedere tehnic, portul dispune de instalații de încărcare moderne, specializate în exportul produselor petroliere din Azerbaidjan și Kazahstan. Ecologic, activitatea portuară este sub monitorizare strictă pentru a proteja calitatea apei în regiunea de coastă Adjara, vitală pentru turism. Importanța portului este subliniată de funcția sa de zonă de comerț liber și de conexiunea cu rețeaua feroviară georgiană, transformând Batumi într-un actor indispensabil în traficul de tranzit eurasiatic.",
+        "en": "The Batumi Sea Port is a central economic hub for Georgia on the Black Sea, serving as the primary gateway for the export of Caucasian resources. Geographically, the port is situated in a deep bay that provides shelter from strong sea currents and remains ice-free year-round. Historically, the port achieved global significance in the late 19th century when it was connected to Baku by rail, becoming the world's leading transshipment point for crude oil. Economically, the port is now multifunctional, comprising terminals for oil, dry bulk, containers, and passengers. It is an integral component of the TRACECA (Transport Corridor Europe-Caucasus-Asia) trade route and plays a key role in supplying Central Asia. Technically, the port features modern loading facilities specialized in the export of petroleum products from Azerbaijan and Kazakhstan. Ecologically, port operations are strictly monitored to protect the water quality of the Adjara coastal region, which is vital for tourism. The port's importance is underscored by its function as a free trade zone and its link to the Georgian rail network, making Batumi an indispensable player in Eurasian transit traffic."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster Umschlagplatz für Erdölprodukte aus dem Kaspischen Meer.",
+          "Ganzjährig eisfreier Tiefwasserhafen am Schwarzen Meer.",
+          "Historischer Endpunkt der Öl-Pipeline von Baku (Aserbaidschan).",
+          "Zentrum des georgischen Passagier- und Fährverkehrs.",
+          "Integriert in die Freihandelszone von Batumi.",
+          "Schlüsselknotenpunkt der modernen Seidenstraße (Warenkorridor)."
+        ],
+        "hu": [
+          "A Kaszpi-tengeri kőolajtermékek legfontosabb átrakodóhelye.",
+          "Egész évben jégmentes mélyvízi kikötő a Fekete-tengernél.",
+          "A bakui (Azerbajdzsán) olajvezeték történelmi végpontja.",
+          "A grúz személyszállítás és kompközlekedés központja.",
+          "A batumi szabadkereskedelmi övezet szerves része.",
+          "A modern selyemút (árufolyosó) kulcsfontosságú csomópontja."
+        ],
+        "ro": [
+          "Principalul punct de tranzit pentru produsele petroliere caspice.",
+          "Port de mare adâncime liber de gheață pe tot parcursul anului.",
+          "Terminus istoric al conductei de petrol de la Baku (Azerbaidjan).",
+          "Centrul principal pentru traficul feribot și de pasageri din Georgia.",
+          "Beneficiază de facilitățile unei zone economice libere.",
+          "Nod strategic în cadrul coridorului internațional de transport TRACECA."
+        ],
+        "en": [
+          "Primary transshipment hub for petroleum products from the Caspian Sea.",
+          "A deep-water port on the Black Sea that remains ice-free year-round.",
+          "The historic terminus of the oil pipeline originating in Baku, Azerbaijan.",
+          "A major hub for Georgian passenger and international ferry traffic.",
+          "Integrated within the Batumi Free Industrial and Trade Zone.",
+          "A key node on the modern Silk Road (TRACECA transport corridor)."
+        ]
+      }
+    },
+    {
+      "id": "poti-sea-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Seehafen von Poti ist der größte Frachthafen Georgiens und ein unverzichtbarer Logistikpunkt an der Ostküste des Schwarzen Meeres. Geografisch liegt der Hafen an der Mündung des Rioni-Flusses, was besondere Anforderungen an die Versandungskontrolle und das Sedimentmanagement stellt. Historisch wurde Poti bereits in der Antike als Phasis genutzt und im 19. Jahrhundert durch den Ingenieur Niko Nikoladze zu einem modernen Industriehafen ausgebaut. Ökonomisch ist Poti das Rückgrat des georgischen Außenhandels; über 80% des Containerverkehrs des Landes werden hier abgewickelt. Der Hafen ist direkt mit einer Freihandelszone (FIZ) verbunden, die internationale Investoren anzieht und die industrielle Fertigung in der Region fördert. Technisch gesehen umfasst der Hafen 15 Liegeplätze und ist auf den Umschlag von Erzen, Düngemitteln, Getreide und Neufahrzeugen spezialisiert. Ökologisch befindet sich der Hafen in unmittelbarer Nähe zum geschützten Kolkheti-Nationalpark, was ein hohes Maß an Umweltauflagen für den Schiffsbetrieb erfordert. Die strategische Bedeutung von Poti wird durch seine Funktion als Bindeglied zwischen Zentralasien und Europa unterstrichen, wobei der Hafen eine zentrale Rolle bei der Versorgung der Binnenstaaten Armenien und Aserbaidschan spielt.",
+        "hu": "Poti tengeri kikötője Grúzia legnagyobb teherkikötője és a Fekete-tenger keleti partjának nélkülözhetetlen logisztikai pontja. Földrajzilag a kikötő a Rioni-folyó torkolatánál található, ami különleges követelményeket támaszt az eliszaposodás-kontroll és az üledékkezelés terén. Történelmileg Potit már az ókorban is használták Phasis néven, majd a 19. században Niko Nikoladze mérnök fejlesztette modern ipari kikötővé. Gazdaságilag Poti a grúz külkereskedelem gerince; az ország konténerforgalmának több mint 80%-át itt bonyolítják le. A kikötő közvetlenül kapcsolódik egy szabad ipari övezethez (FIZ), amely vonzza a nemzetközi befektetőket és ösztönzi az ipari termelést a régióban. Technikai szempontból a kikötő 15 horgonyzóhellyel rendelkezik, és ércek, műtrágyák, gabona és új járművek átrakodására szakosodott. Ökológiailag a kikötő a védett Kolkheti Nemzeti Park közvetlen közelében található, ami magas környezetvédelmi követelményeket támaszt a hajóforgalommal szemben. Poti stratégiai jelentőségét hangsúlyozza a Közép-Ázsia és Európa közötti összekötő szerepe, ahol a kikötő központi szerepet játszik a tengerparttal nem rendelkező Örményország és Azerbajdzsán ellátásában.",
+        "ro": "Portul maritim Poti este cel mai mare port de marfă al Georgiei și un punct logistic indispensabil pe coasta de est a Mării Negre. Geografic, portul este situat la gura de vărsare a râului Rioni, ceea ce impune cerințe speciale pentru controlul colmatării și managementul sedimentelor. Istoric, Poti a fost utilizat încă din antichitate sub numele de Phasis și a fost transformat într-un port industrial modern în secolul al XIX-lea de către inginerul Niko Nikoladze. Economic, Poti reprezintă coloana vertebrală a comerțului exterior georgian; peste 80% din traficul de containere al țării este gestionat aici. Portul este conectat direct cu o zonă industrială liberă (FIZ), care atrage investitori internaționali și promovează producția industrială în regiune. Din punct de vedere tehnic, portul include 15 dane și este specializat în transbordarea minereurilor, îngrășămintelor, cerealelor și vehiculelor noi. Ecologic, portul se află în imediata vecinătate a Parcului Național Kolkheti, ceea ce necesită standarde de mediu ridicate pentru operațiunile navale. Importanța strategică a portului Poti este subliniată de funcția sa de verigă între Asia Centrală și Europa, jucând un rol central în aprovizionarea statelor fără ieșire la mare, Armenia și Azerbaidjan.",
+        "en": "The Poti Sea Port is Georgia’s largest cargo port and an indispensable logistical node on the eastern coast of the Black Sea. Geographically, the port is situated at the mouth of the Rioni River, which necessitates sophisticated siltation control and sediment management. Historically, Poti was utilized in antiquity as Phasis and was developed into a modern industrial port in the 19th century by the engineer Niko Nikoladze. Economically, Poti is the backbone of Georgian foreign trade, handling over 80% of the nation's container traffic. The port is directly linked to a Free Industrial Zone (FIZ), attracting international investors and stimulating industrial manufacturing in the region. Technically, the port comprises 15 berths and specializes in the transshipment of ores, fertilizers, grain, and new vehicles. Ecologically, the port is located in immediate proximity to the protected Kolkheti National Park, requiring high environmental standards for maritime operations. Poti's strategic importance is highlighted by its function as a bridge between Central Asia and Europe, playing a pivotal role in supplying the landlocked nations of Armenia and Azerbaijan."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Containerhafen Georgiens mit 15 Liegeplätzen.",
+          "Direkte Anbindung an die erste Freie Industriezone des Kaukasus.",
+          "Zentraler Logistikknotenpunkt für Armenien und Aserbaidschan.",
+          "Liegt an der strategischen Mündung des wasserreichen Rioni-Flusses.",
+          "Historischer Standort der antiken griechischen Kolonie Phasis.",
+          "Wichtigster Importhafen für Kraftfahrzeuge im Kaukasus-Raum."
+        ],
+        "hu": [
+          "Grúzia legnagyobb konténerkikötője 15 horgonyzóhellyel.",
+          "Közvetlen kapcsolat a Kaukázus első szabad ipari övezetéhez.",
+          "Örményország és Azerbajdzsán központi logisztikai csomópontja.",
+          "A vízbő Rioni-folyó stratégiai torkolatánál fekszik.",
+          "Az ókori görög Phasis kolónia történelmi helyszíne.",
+          "A Kaukázus legfontosabb gépjármű-import kikötője."
+        ],
+        "ro": [
+          "Cel mai mare terminal de containere din Georgia, cu 15 dane active.",
+          "Conectat cu prima Zonă Industrială Liberă din regiunea Caucazului.",
+          "Nod logistic vital pentru tranzitul mărfurilor spre Armenia și Azerbaidjan.",
+          "Situat la confluența strategică a râului Rioni cu Marea Neagră.",
+          "Situl istoric al coloniei grecești antice Phasis.",
+          "Principalul punct de intrare pentru importurile auto în Caucaz."
+        ],
+        "en": [
+          "The largest container port in Georgia, featuring 15 operational berths.",
+          "Directly linked to the Caucasus' first Free Industrial Zone.",
+          "A primary logistics hub for goods transiting to Armenia and Azerbaijan.",
+          "Located at the strategic mouth of the high-discharge Rioni River.",
+          "The historical site of the ancient Greek colony of Phasis.",
+          "The leading port for automotive imports in the Caucasus region."
+        ]
+      }
+    }
+  ]
+}

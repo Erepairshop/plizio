@@ -94,8 +94,8 @@ export const poiExtraMaliHistoryV2: POI[] = [
       ro: "Moscheea Djinguereber este cea mai veche moschee din Timbuktu și o capodoperă arhitecturală ridicată din ordinul legendarului Mansa Musa în 1327, după întoarcerea sa din pelerinajul la Mecca. Se spune că împăratul l-a adus pe arhitectul andaluz Abu Ishaq al-Sahili pentru a proiecta acest edificiu unic, introducând tehnici noi de construcție în regiune. Clădirea este construită în principal din pământ și materiale organice, având un aspect masiv și organic. Djinguereber este singura moschee din Timbuktu accesibilă non-musulmanilor în anumite condiții și continuă să fie centrul vieții religioase a orașului de peste șapte secole. Történelem K8 — pelerinajul lui Mansa Musa și impactul său."
     },
     factsAdvanced: {
-      hu: ["Mansa Musa építtette 1327-ben", "Timbuktu legrégebbi mecsetje", "Abu Ishaq al-Sahili andalúziai építész tervezte", "Vályogból és mészkőből épült", "UNESCO Világörökségi helyszín", "Két jellegzetes minaretje van", "Mali egyik legfontosabb zarándokhelye"],
-      ro: ["Construită în 1327 de împăratul Mansa Musa", "Proiectată de arhitectul andaluz Abu Ishaq al-Sahili", "Cea mai veche moschee din Timbuktu încă în picioare", "Declarată monument istoric de către UNESCO", "Construcție din pământ cu întărituri de lemn", "A supraviețuit numeroaselor asedii și nisipului deșertic", "Centru de pelerinaj și studiu timp de 700 de ani"]
+      hu: ["Mansa Musa építtette 1327-ben", "Timbuktu legrégebbi mecsetje", "Vályogból és mészkőből épült", "UNESCO Világörökségi helyszín", "Két jellegzetes minaretje van", "Mali egyik legfontosabb zarándokhelye"],
+      ro: ["Construită în 1327 de împăratul Mansa Musa", "Cea mai veche moschee din Timbuktu încă în picioare", "Declarată monument istoric de către UNESCO", "Construcție din pământ cu întărituri de lemn", "A supraviețuit numeroaselor asedii și nisipului deșertic", "Centru de pelerinaj și studiu timp de 700 de ani"]
     }
   },
   {
@@ -222,7 +222,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       ro: "Essouk, cunoscut în istorie sub numele de Tadmekka, a fost un oraș comercial și religios de o importanță vitală situat în masivul Adrar des Ifoghas din nordul statului Mali. În secolele IX-XII, Tadmekka a fost un punct nodal pe rutele transsahariene, fiind faimos pentru turnarea monedelor de aur 'fără marcă' și pentru rolul său în răspândirea alfabetului Tifinagh. Ruinele sale de astăzi, care includ resturi de case, moschei și inscripții rupestre, oferă dovezi neprețuite despre bogăția și sofisticarea civilizațiilor de deșert. Essouk este considerat leagănul culturii Tuareg (Kel Tamasheq), fiind locul unde are loc anual 'Festivalul Nopților de la Essouk' pentru a celebra această moștenire. Történelem K8 — comerțul cu aur în Sahara medievală."
     },
     factsAdvanced: {
-      hu: ["A középkori Tadmakka városának romjai", "Fontos transzszaharai kereskedelmi központ volt", "Kidal régióban, a hegység szívében található", "A 9. és 15. század között virágzott", "Arany- és sókereskedelem kulcsállomása", "Gazdag régészeti leletek (mecsetek, házak)", "A tuareg kultúra egyik bölcsője"],
+      hu: ["A középkori Tadmakka városának romjai", "Fontos transzszaharai kereskedelmi központ volt", "Kidal régióban, a hegység szívében található", "Arany- és sókereskedelem kulcsállomása", "Gazdag régészeti leletek (mecsetek, házak)", "A tuareg kultúra egyik bölcsője"],
       ro: ["Ruinele orașului medieval Tadmekka", "Centru major de batere a monedelor de aur în secolul 10", "Leagăn spiritual și cultural al tuaregilor", "Situat în masivul Adrar des Ifoghas", "Bogat în inscripții antice în alfabetul Tifinagh", "Oprire esențială pe rutele comerciale nord-africane", "Loc de desfășurare a festivalului cultural anual"]
     }
   },
@@ -318,7 +318,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       ro: "Hamdallahi, care înseamnă 'Slavă lui Dumnezeu', a fost capitala Imperiului Fulani (Peul) din Macina, fondat în 1820 de Seku Amadu. Orașul a fost proiectat ca o cetate teocratică islamică pură, cu reguli sociale și religioase stricte, devenind un centru de putere și învățătură în Delta Nigerului. Orașul a fost distrus în 1862 de El Hadj Umar Tall, iar astăzi ruinele sale silențioase de lângă Mopti evocă gloria și căderea unui imperiu nomad sedentarizat. Vizitatorii pot vedea fundațiile marii moschei și ale palatului imperial, locuri care încă emană o aură de sacralitate. Hamdallahi rămâne un punct de referință fundamental pentru identitatea poporului Fulani. Történelem K8 — jihadurile și statele Fulani."
     },
     factsAdvanced: {
-      hu: ["A Macina (Masina) Birodalom egykori fővárosa", "Seku Amadu alapította 1820-ban", "Teokratikus államszervezet központja volt", "1862-ben rombolták le a tukulor hódítók", "Mopti városától nem messze található", "Híres volt szigorú iszlám iskoláiról", "Ma jelentős régészeti és történelmi helyszín"],
+      hu: ["A Macina (Masina) Birodalom egykori fővárosa", "Teokratikus államszervezet központja volt", "1862-ben rombolták le a tukulor hódítók", "Mopti városától nem messze található", "Híres volt szigorú iszlám iskoláiról", "Ma jelentős régészeti és történelmi helyszín"],
       ro: ["Fosta capitală a Imperiului Fulani din Macina", "Fondat în 1820 de liderul religios Seku Amadu", "Centru al unei teocrații islamice riguroase", "Distrus în urma bătăliei din 1862", "Ruinele includ marea moschee și palatul regal", "Situat la aproximativ 25 km de orașul Mopti", "Loc de mare importanță istorică pentru etnia Fulani"]
     }
   },
@@ -543,7 +543,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["A Bambara Birodalom eredeti székhelye", "A 18. századi Biton Mamary Coulibaly uralkodó városa", "Híres a jellegzetes vörös vályogépítészetéről", "A Niger folyó partján fekszik", "Történelmi mecsetek és sírok találhatók itt", "A bambara kultúra egyik legszentebb helye", "Közvetlen közelében fekszik a modern Ségou"],
-      ro: ["Leagănul Imperiului Bambara din secolul 18", "Găzduiește mormântul regelui Biton Coulibaly", "Sat istoric cu arhitectură de lut autentică", "Situat pe malul stâng al fluviului Niger", "Centru spiritual pentru tradițiile Bambara", "Păstrează vestigiile primului palat regal", "Loc de mare importanță pentru identitatea națională"]
+      ro: ["Leagănul Imperiului Bambara din secolul 18", "Sat istoric cu arhitectură de lut autentică", "Situat pe malul stâng al fluviului Niger", "Centru spiritual pentru tradițiile Bambara", "Păstrează vestigiile primului palat regal", "Loc de mare importanță pentru identitatea națională"]
     }
   },
   {
@@ -606,7 +606,7 @@ export const poiExtraMaliHistoryV2: POI[] = [
       ro: "Barajul de la Markala, oficial numit Barajul Sansanding, este o realizare inginerească monumentală din perioada colonială franceză (1934-1947), concepută pentru a transforma agricultura în Mali. Proiectul a fost pilonul central al 'Office du Niger', un vast program de irigații menit să facă din valea Nigerului un 'Egipt al Africii de Vest' pentru producția de bumbac și orez. Construcția sa a implicat mii de lucrători și a schimbat radical hidrografia regiunii, permițând irigarea a mii de hectare de teren arid. Dincolo de utilitatea sa economică, barajul este un simbol al erei industriale în Africa de Vest și un punct strategic de transport peste fluviu. Gazdaság K6 — Marile proiecte de irigații."
     },
     factsAdvanced: {
-      hu: ["Mali legnagyobb folyami gátja a Nigeren", "1934 és 1947 között épült", "Az Office du Niger öntözőrendszer vízbázisa", "Francia gyarmati mérnöki teljesítmény", "Híres a felette átívelő közúti hídról", "Lehetővé tette a nagyméretű rizstermesztést", "Ségou régió stratégiai létesítménye"],
+      hu: ["Mali legnagyobb folyami gátja a Nigeren", "Az Office du Niger öntözőrendszer vízbázisa", "Francia gyarmati mérnöki teljesítmény", "Híres a felette átívelő közúti hídról", "Lehetővé tette a nagyméretű rizstermesztést", "Ségou régió stratégiai létesítménye"],
       ro: ["Finalizat în 1947 după 13 ani de construcție", "Pilonul central al proiectului Office du Niger", "Lung de peste 800 de metri", "Reglează fluxul Nigerului pentru irigații masive", "Realizare majoră a ingineriei coloniale franceze", "Nod rutier vital între Ségou și nord", "A permis transformarea Sahelului în zonă agricolă"]
     }
   },

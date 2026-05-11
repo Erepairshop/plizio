@@ -1,0 +1,46 @@
+{
+  "lang": "ro",
+  "country": "Suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLifeV2.ts",
+    "lib/visualLab/data/poiExtraSurinameNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sr-rosebel-goldmine-economic-v2",
+      "description": "Această mină de aur este unul dintre cei mai mari producători de metale prețioase din Suriname, situată în districtul Brokopondo. Operațiunile sale au un impact semnificativ asupra economiei locale prin exporturi și crearea de locuri de muncă.",
+      "facts": ["Situată în districtul Brokopondo", "Producător major de aur", "Esențială pentru economia țării"]
+    },
+    {
+      "id": "sr-tambaredjo-oelfeld-economic-v2",
+      "description": "Câmpul petrolier Tambaredjo reprezintă inima industriei extractive de hidrocarburi din Suriname, situat aproape de coasta de nord. Acesta contribuie constant la independența energetică și la veniturile bugetare ale statului.",
+      "facts": ["Câmp petrolier principal", "Situat în nordul țării", "Sursă vitală de venituri"]
+    },
+    {
+      "id": "sr-de-molen-getreidemuehle-economic-v2",
+      "description": "O moară istorică de cereale care a servit mult timp ca punct central de procesare a hranei în Suriname. Simbolizează tradiția agricolă și capacitatea de prelucrare locală a resurselor.",
+      "facts": ["Moară istorică", "Procesare cereale", "Simbol agricol local"]
+    },
+    {
+      "id": "sr-argos-zementterminal-economic-v2",
+      "description": "Terminalul de ciment Argos este un nod logistic crucial pentru importul și distribuția materialelor de construcții în Suriname. Facilitatea sprijină dezvoltarea infrastructurii urbane și a proiectelor rezidențiale naționale.",
+      "facts": ["Terminal de ciment", "Nod logistic import", "Susține construcțiile"]
+    },
+    {
+      "id": "sr-traymore-hafen-economic-v2",
+      "description": "Portul Traymore reprezintă o legătură comercială importantă, facilitând tranzitul mărfurilor prin infrastructura maritimă a Surinamei. Este esențial pentru operațiunile comerciale internaționale și logistica locală.",
+      "facts": ["Infrastructură portuară", "Hub comercial maritim", "Tranzit de mărfuri"]
+    },
+    {
+      "id": "paramaribo-life-v2",
+      "description": "Paramaribo este capitala și centrul vieții sociale, culturale și economice din Suriname, cunoscut pentru arhitectura sa colonială olandeză. Orașul găzduiește o diversitate etnică remarcabilă și o viață de noapte vibrantă.",
+      "facts": ["Capitala Surinamei", "Arhitectură colonială", "Centru diversității etnice"]
+    },
+    {
+      "id": "sr-bigi-pan-nature-v2",
+      "description": "Bigi Pan este o arie naturală protejată, recunoscută pentru ecosistemul său de lagună bogat în biodiversitate și habitat pentru numeroase păsări migratoare. Este o destinație principală pentru turismul ecologic și observarea naturii.",
+      "facts": ["Ecosistem de lagună", "Habitat de păsări", "Destinație eco-turistică"]
+    }
+  ]
+}

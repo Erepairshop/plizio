@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "Az átmeneti régióban fekvő terület számos állatfaj számára nyújt menedéket. A környezetváltozás figyelemmel kísérése központi kutatási téma itt.",
+      "facts": ["Átmeneti régió", "Állatfajok menedéke", "Környezeti kutatások", "Védett élőhely"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "A városi zöldövezet a helyi gyerekeknek kínál természetközeli kikapcsolódást. A területen oktatóösvények segítik a növényvilág megismerését.",
+      "facts": ["Városi zöldövezet", "Természetközeli kikapcsolódás", "Oktatóösvények", "Növényvilág"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "A tengerparti város gyermekprogramjai a tengeri élővilág és a korallzátonyok védelmére épülnek. A gyerekek oktatójátékokon keresztül tanulhatnak a tengerről.",
+      "facts": ["Tengerparti programok", "Tengeri élővilág", "Korallzátonyok", "Oktatójátékok"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "A városi központban kialakított interaktív állomás a történelem és a természet felfedezését teszi lehetővé. A programok a kíváncsi gyerekek fejlesztését szolgálják.",
+      "facts": ["Interaktív állomás", "Természetfelfedezés", "Gyermekfejlesztés", "Városi központ"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "Az oktatófarm betekintést nyújt a mezőgazdasági folyamatokba. A gyerekek közvetlenül tapasztalhatják meg a növénytermesztést és az állattartást.",
+      "facts": ["Oktatófarm", "Mezőgazdasági folyamatok", "Növénytermesztés", "Állattartás"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "A régió híres kiterjedt mangóültetvényeiről, amelyek a mezőgazdaság gerincét alkotják. A gyümölcstermesztés generációk óta meghatározó tevékenység itt.",
+      "facts": ["Mangóültetvények", "Mezőgazdasági régió", "Gyümölcstermesztés", "Hagyományos tevékenység"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "A mezőgazdasági kísérleti projekt új termesztési módszereket vizsgál a helyi közösségek támogatására. A cél a hatékonyság és a fenntarthatóság növelése.",
+      "facts": ["Kísérleti projekt", "Új módszerek", "Közösségi támogatás", "Fenntarthatóság"]
+    },
+    {
+      "id": "zambezi-river-nature-v2",
+      "description": "Afrika egyik legfontosabb folyója, mely gazdag biodiverzitásával az ország északi részének ökoszisztémáját táplálja. A folyó medre mentén számos faj él.",
+      "facts": ["Folyórendszer", "Gazdag biodiverzitás", "Ökoszisztéma tápláló", "Észak-Mozambik"]
+    },
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "A hatalmas édesvízi tó egyedülálló cichlid-fajoknak ad otthont. A kristálytiszta víz és a környékbeli erdők fontos ökológiai folyosót alkotnak.",
+      "facts": ["Édesvízi tó", "Egyedülálló cichlid-fajok", "Kristálytiszta víz", "Ökológiai folyosó"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "A hegyvidék a környező szavannák ökológiai szigete, mely számos endemikus fajnak ad otthont. A hegyi erdők vízgyűjtő szerepe kulcsfontosságú.",
+      "facts": ["Hegyvidék", "Ökológiai sziget", "Endemikus fajok", "Vízgyűjtő szerep"]
+    }
+  ]
+}

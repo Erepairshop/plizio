@@ -1,0 +1,66 @@
+{
+  "lang": "en",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBangladeshLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "naogaon-cities-v2",
+      "description": "An administrative center in northern Bangladesh, serving as a hub for the region's agricultural and archaeological sites.",
+      "facts": ["Near Somapura Mahavihara", "Major rice producing area", "Rich in Pala dynasty history"]
+    },
+    {
+      "id": "noakhali-cities-v2",
+      "description": "A coastal district in southeastern Bangladesh, known for its unique dialect and its resilience against natural disasters.",
+      "facts": ["Coastal town on Bay of Bengal", "Home to Nijhum Dwip", "History of Gandhi's peace mission"]
+    },
+    {
+      "id": "faridpur-cities-v2",
+      "description": "A district in central Bangladesh, historically significant and known for its jute production and river trade.",
+      "facts": ["Birthplace of many scholars", "Major jute producing district", "Located on the Padma River"]
+    },
+    {
+      "id": "saidpur-cities-v2",
+      "description": "An important railway city in northern Bangladesh, home to one of the largest railway workshops in the country.",
+      "facts": ["Railway workshop hub", "Strategic airport location", "Significant Urdu-speaking community"]
+    },
+    {
+      "id": "narsingdi-cities-v2",
+      "description": "An industrial hub east of Dhaka, famous for its textile industry and the ancient archaeological site of Wari-Bateshwar.",
+      "facts": ["Textile and weaving center", "Home to Wari-Bateshwar ruins", "Major banana producing region"]
+    },
+    {
+      "id": "chandpur-cities-v2",
+      "description": "Located at the confluence of the Padma and Meghna rivers, this city is the 'Hilsa Capital' of Bangladesh.",
+      "facts": ["Hilsa fish capital", "Major river transport port", "Meeting point of major rivers"]
+    },
+    {
+      "id": "bhola-cities-v2",
+      "description": "The administrative center of Bangladesh's largest island, situated at the mouth of the Meghna River.",
+      "facts": ["Located on Bhola Island", "Famous for buffalo milk curd", "Significant natural gas reserves"]
+    },
+    {
+      "id": "jhenaidah-cities-v2",
+      "description": "A district in western Bangladesh known for its agricultural diversity and several historical mosques and temples.",
+      "facts": ["Agricultural production hub", "Home to Shahi Mosque", "Rich in folk culture"]
+    },
+    {
+      "id": "bd-central-railway-building-landmarks-v2",
+      "description": "An iconic colonial-era administrative building in Chittagong, reflecting British architectural style and railway history.",
+      "facts": ["Colonial architectural gem", "Central railway administration", "Historic landmark of Chittagong"]
+    },
+    {
+      "id": "hatirjheel-life-v2",
+      "description": "A modernized lakefront area in Dhaka, providing a scenic public space for recreation and easing traffic congestion.",
+      "facts": ["Major urban recreation spot", "Stunning evening lighting", "Innovative water management project"]
+    },
+    {
+      "id": "nandan-park-life-v2",
+      "description": "One of the largest amusement and water parks in Bangladesh, offering a wide range of rides and entertainment for families.",
+      "facts": ["Popular family theme park", "Located in Savar", "Features large water park"]
+    }
+  ]
+}

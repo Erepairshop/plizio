@@ -1,0 +1,30 @@
+{
+  "lang": "ro",
+  "country": "Vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamCitiesV2.ts",
+    "lib/visualLab/data/poiExtraVietnamReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ha-tien-cities-v2",
+      "description": "Ha Tien este un oraș de coastă vibrant din sudul Vietnamului, cunoscut pentru peisajele sale pitorești și granița cu Cambodgia. Este un centru comercial important și o poartă către insula Phu Quoc.",
+      "facts": [
+        "Situat în provincia Kien Giang.",
+        "Are o graniță terestră cu Cambodgia.",
+        "Port important pentru comerț și turism.",
+        "Aproape de Parcul Național Phu Quoc."
+      ]
+    },
+    {
+      "id": "ta-xua-mountain-relief-v2",
+      "description": "Ta Xua este un lanț muntos spectaculos din nordul Vietnamului, faimos pentru marea de nori care adesea învăluie vârfurile sale, oferind priveliști impresionante. Este o destinație populară pentru vânătorii de nori și motocicliști.",
+      "facts": [
+        "Situat în provincia Son La.",
+        "Cunoscut pentru marea de nori.",
+        "Vârfurile sale ating peste 2.800 de metri.",
+        "O destinație populară pentru drumeții și fotografie."
+      ]
+    }
+  ]
+}

@@ -23,13 +23,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Königspalast von Foumban ist das kulturelle Zentrum des Bamoun-Reiches. Er steht für die bis heute lebendige Herrschertradition der Stadt.",
       hu: "A foumbani királyi palota a Bamoun királyság központja. A hely a helyi uralkodói hagyomány egyik legfontosabb jelképe.",
       ro: "Palatul Regal din Foumban este centrul simbolic al regatului Bamoun. Găzduiește colecții legate de istoria și arta curții regale.",
-      en: "The royal palace in Foumban is the seat of the Bamoun kingdom. It remains the city's main symbol of royal tradition."
+      en: "The Royal Palace of Foumban is the seat of the Bamum Sultanate, showcasing the rich history and architecture of one of Cameroon's oldest kingdoms."
     },
     facts: {
       de: ["Sitz des Bamoun-Sultans", "wichtiges Kulturzentrum", "prägend für Foumban"],
       hu: ["Bamoun királyság", "Foumban központja", "uralkodói palota"],
       ro: ["reședința tradițională a bamunilor", "include un muzeu al curții", "în orașul Foumban"],
-      en: ["seat of the Bamoun king", "in Foumban", "royal heritage site"]
+      en: ["Seat of Bamum Sultanate", "Built in 1917", "Traditional architecture", "Museum of Bamum history"]
     }
   },
   {
@@ -53,13 +53,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Bimbia war ein früher Hafen des Sklavenhandels an der Küste Kameruns. Der Ort erinnert an ein dunkles Kapitel der atlantischen Geschichte.",
       hu: "Bimbia egykori rabszolga-kereskedelmi kikötő volt a partvidéken. Ma a gyarmati korszak és a rabszolga-kereskedelem emlékhelye.",
       ro: "Bimbia este un sit istoric asociat cu comerțul transatlantic cu sclavi. Locul amintește de o etapă dureroasă din istoria coastei cameruneze.",
-      en: "An old Atlantic slave-trade site near Limbe. The ruins mark one of the darkest chapters in the region's coastal history."
+      en: "Bimbia was a major slave trading port on the coast of Cameroon, now serving as a somber memorial site for the transatlantic slave trade."
     },
     facts: {
       de: ["Ort am Atlantik", "mit Sklavenhandel verbunden", "historischer Erinnerungsort"],
       hu: ["egykori rabszolga-port", "Limbe közelében", "emlékhely"],
       ro: ["pe coasta de sud-vest", "legat de comerțul cu sclavi", "sit memorial istoric"],
-      en: ["near Limbe", "linked to slave trade", "historical memorial site"]
+      en: ["Transatlantic slave trade site", "Southwest Region coast", "Historical ruins", "Memorial landmark"]
     }
   },
   {
@@ -113,13 +113,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Die Prime Minister's Lodge in Buea ist eng mit der politischen Geschichte des anglophonen Kameruns verbunden. Das Gebäude steht für die koloniale und staatliche Vergangenheit der Region.",
       hu: "A Prime Minister s Lodge Buea egyik fontos kormányzati épülete. A gyarmati múlt és az állami jelen egyszerre kapcsolódik hozzá.",
       ro: "Prime Ministers Lodge este asociat cu reședința oficială a premierului în Buea. Locul reflectă istoria administrativă a capitalei regionale.",
-      en: "An old government residence in Buea linked to Cameroon's colonial and post-colonial administration. It is part of the city's political memory."
+      en: "The Prime Minister's Lodge in Buea was the residence of the heads of government during the British Southern Cameroons colonial era."
     },
     facts: {
       de: ["offizielle Residenz in Buea", "politisch bedeutsamer Ort", "kolonialer Hintergrund"],
       hu: ["Buea városában", "kormányzati rezidencia", "gyarmati eredet"],
       ro: ["în Buea", "reședință oficială", "legat de administrația regională"],
-      en: ["in Buea", "government residence", "linked to colonial rule"]
+      en: ["Colonial architecture", "Located in Buea", "British era landmark", "Political history site"]
     }
   },
   {
@@ -143,13 +143,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Bismarck-Brunnen in Douala geht auf die deutsche Kolonialzeit zurück. Er ist eines der ältesten kolonialen Denkmäler der Stadt.",
       hu: "A Bismarck-kút Douala egyik ismert gyarmati emlékműve. A német korszak városi örökségéhez tartozik.",
       ro: "Fântâna Bismarck din Douala este un vestigiu al perioadei coloniale germane. Ea marchează memoria urbană a unuia dintre cele mai vechi centre ale orașului.",
-      en: "A colonial-era fountain in Douala. It is one of the city's oldest surviving monuments from the German period."
+      en: "The Bismarck Fountain in Buea is a relic of the German colonial period, named after the German Chancellor Otto von Bismarck."
     },
     facts: {
       de: ["in Douala", "aus der Kolonialzeit", "historisches Stadtdenkmal"],
       hu: ["Douala központja", "gyarmati emlék", "német korszak"],
       ro: ["în Douala", "monument din epoca germană", "reper urban istoric"],
-      en: ["in Douala", "from the German era", "one of the old monuments"]
+      en: ["German colonial relic", "Located in Buea", "Named after Chancellor Bismarck", "Early 20th century monument"]
     }
   },
   {
@@ -173,13 +173,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Palast von Charles Atangana erinnert an eine wichtige Figur der kolonialen Zeit in Yaounde. Das Anwesen steht für Macht, Anpassung und lokale Geschichte.",
       hu: "Charles Atangana palotája Yaoundé történeti emlékhelye. A kameruni elit és a gyarmati korszak kapcsolatát idézi.",
       ro: "Palatul lui Charles Atangana amintește de unul dintre cei mai cunoscuți lideri tradiționali din zona Yaoundé. Clădirea păstrează memoria elitei locale de la începutul secolului XX.",
-      en: "The palace of Charles Atangana in Yaounde recalls a major traditional leader from the colonial era. It reflects local power under French rule."
+      en: "The palace of Charles Atangana, the paramount chief of the Ewondo people, is a historic residence in Yaounde reflecting the colonial chiefdom era."
     },
     facts: {
       de: ["mit Charles Atangana verbunden", "in Yaounde", "kolonialgeschichtlicher Ort"],
       hu: ["Yaoundéban található", "történeti palota", "koloniális korszak"],
       ro: ["în Yaoundé", "legat de Charles Atangana", "lider tradițional influent"],
-      en: ["in Yaounde", "linked to Charles Atangana", "colonial-era palace"]
+      en: ["Ewondo chief residence", "Yaounde landmark", "Early 20th century", "Historical chiefdom site"]
     }
   },
   {
@@ -203,13 +203,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Palast des Fon von Mankon ist das Zentrum der traditionellen Herrschaft bei Bamenda. Er steht für die Kultur und Autorität des Mankon-Volkes.",
       hu: "A Mankon fón palotája a bamendai hagyományos vezetés központja. A helyi királyi kultúra egyik fő helyszíne.",
       ro: "Palatul Fonului din Mankon este un centru al tradiției din zona Bamenda. El rămâne un simbol al autorității culturale și al continuității locale.",
-      en: "The palace of the Fon of Mankon is a traditional authority center near Bamenda. It remains a key site of Grassfields culture."
+      en: "The Mankon Fon's Palace is a major cultural and historical center in Bamenda, serving as the traditional seat of the Mankon kingdom."
     },
     facts: {
       de: ["traditionelle Herrscherresidenz", "bei Bamenda", "wichtig für die Bamenda-Region"],
       hu: ["Bamenda térsége", "hagyományos palota", "fóni központ"],
       ro: ["în Bamenda", "palat tradițional", "centru cultural Mankon"],
-      en: ["near Bamenda", "seat of the Fon", "Grassfields heritage"]
+      en: ["Mankon kingdom seat", "Bamenda cultural site", "Traditional palace", "Living history museum"]
     }
   },
   {
@@ -263,13 +263,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Die Kathedrale Notre-Dame-des-Victoires ist eine der wichtigsten Kirchen in Yaounde. Sie ist eng mit der Entwicklung der Hauptstadt verbunden.",
       hu: "A Notre-Dame des Victoires Yaoundé egyik fő katolikus temploma. A város vallási életének meghatározó épülete.",
       ro: "Catedrala Notre-Dame-des-Victoires este una dintre bisericile importante din Yaoundé. Edificiul are un rol religios și urban în centrul capitalei.",
-      en: "A major Catholic cathedral in Yaounde. It is one of the capital's best-known religious buildings."
+      en: "Notre-Dame-des-Victoires is a historic cathedral in Yaounde, serving as a spiritual center and a monument of religious history in the capital."
     },
     facts: {
       de: ["Kathedrale in Yaounde", "wichtiges katholisches Zentrum", "prägt das Stadtbild"],
       hu: ["Yaoundé székesegyház", "katolikus templom", "vallási központ"],
       ro: ["în Yaoundé", "catedrală catolică", "reper central al orașului"],
-      en: ["in Yaounde", "Catholic cathedral", "important religious site"]
+      en: ["Yaounde cathedral", "Religious landmark", "Colonial era origin", "Spiritual heart of the city"]
     }
   },
   {
@@ -293,13 +293,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das Reunification Monument in Yaounde erinnert an die Vereinigung der Landesteile Kameruns 1961. Es ist ein zentrales nationales Erinnerungssymbol.",
       hu: "A reunifikációs emlékmű a két Kamerun egyesítését idézi fel. Yaoundé egyik legismertebb modern történelmi szimbóluma.",
       ro: "Monumentul Reunificării din Yaoundé marchează un moment-cheie din istoria Camerunului modern. El simbolizează unirea fostelor teritorii administrate separat.",
-      en: "A national monument in Yaounde commemorating the reunification of Cameroon in 1961. It is a central symbol of state unity."
+      en: "The Reunification Monument in Yaounde commemorates the 1961 union of French and British Cameroons into a single nation."
     },
     facts: {
       de: ["in Yaounde", "bezieht sich auf 1961", "Symbol der nationalen Einheit"],
       hu: ["egyesülési emlékmű", "Yaoundéban áll", "a két Kamerun emléke"],
       ro: ["în Yaoundé", "simbol al reunificării", "dedicat istoriei moderne"],
-      en: ["in Yaounde", "marks 1961 reunification", "symbol of national unity"]
+      en: ["Commemorates 1961 union", "Yaounde landmark", "Architectural symbolism", "National unity monument"]
     }
   },
   {
@@ -413,13 +413,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der alte deutsche Friedhof in Douala geht auf die Kolonialzeit zurück. Er dokumentiert die frühe europäische Präsenz in der Hafenstadt.",
       hu: "A doualai régi német temető a gyarmati korszak egyik csendes emlékhelye. Német telepesek és tisztviselők nyughelye.",
       ro: "Cimitirul german vechi din Douala este un vestigiu al perioadei coloniale. Aici se păstrează memoria primilor coloniști și administratori germani.",
-      en: "An old colonial cemetery in Douala. It keeps graves and traces from the German period of the city's history."
+      en: "The Old German Cemetery in Douala contains the graves of German colonial officials and settlers from the late 19th and early 20th centuries."
     },
     facts: {
       de: ["kolonialer Friedhof", "in Douala", "historischer Erinnerungsort"],
       hu: ["Douala története", "gyarmati temető", "német korszak"],
       ro: ["în Douala", "din perioada germană", "sit memorial colonial"],
-      en: ["in Douala", "colonial cemetery", "German-period graves"]
+      en: ["German colonial era", "Located in Douala", "Late 19th century", "Historical burial ground"]
     }
   },
   {
@@ -443,13 +443,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das General-Leclerc-Denkmal erinnert an die französische Militärgeschichte in Kamerun. Es gehört zu den bekannten Erinnerungsorten der Hauptstadt.",
       hu: "A Leclerc-emlékmű a francia katonai jelenlét emléke Kamerunban. A második világháború utáni korszakhoz kapcsolódik.",
       ro: "Monumentul dedicat generalului Leclerc amintește de epoca celui de-al Doilea Război Mondial și a administrației franceze. Este un reper istoric urban important.",
-      en: "A French colonial-era monument in Yaounde. It is tied to the city's wartime and administrative past."
+      en: "The General Leclerc Monument in Douala honors the French commander who played a key role in the Free French movement during World War II."
     },
     facts: {
       de: ["Gedenkmal in Yaounde", "Bezug zur Kolonialzeit", "Teil der Stadtgeschichte"],
       hu: ["francia emlékmű", "a fővárosban", "háború utáni időszak"],
       ro: ["monument comemorativ", "legat de perioada franceză", "reper urban"],
-      en: ["in Yaounde", "colonial monument", "linked to wartime history"]
+      en: ["Douala monument", "WWII history site", "Honors General Leclerc", "Free French landmark"]
     }
   },
   {
@@ -473,13 +473,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das Lamidat von Banyo ist ein traditionelles Herrschaftszentrum in Adamaoua. Es steht für die lange Fulbe-Tradition in der Region.",
       hu: "A banyo-i lamidát a helyi muszlim uralkodói hagyomány központja. Az Adamaoua térség történeti emléke.",
       ro: "Lamidatul din Banyo este centrul tradițional al autorității locale din Adamawa. Complexul reflectă rolul religios și politic al liderului tradițional.",
-      en: "The traditional lamidat of Banyo in the Adamawa region. It reflects the long-standing Muslim rule of the northern plateau."
+      en: "The Lamidat of Banyo is a traditional Fulbe chiefdom in the Adamawa Region, preserving centuries-old administrative and cultural practices."
     },
     facts: {
       de: ["traditioneller Palast", "in Adamaoua", "Fulbe-Herrschaftszentrum"],
       hu: ["Banyo városa", "lamidati központ", "Adamaoua örökség"],
       ro: ["în Banyo", "autoritate tradițională", "în regiunea Adamawa"],
-      en: ["in Banyo", "traditional lamidat", "part of Adamawa history"]
+      en: ["Fulbe traditional seat", "Adamawa Region", "Centuries-old chiefdom", "Cultural heritage site"]
     }
   },
   {
@@ -503,13 +503,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das Lamidat von Ngaoundere ist ein wichtiges Zentrum der traditionellen Autorität im Norden Kameruns. Der Hof prägt die Geschichte der Stadt bis heute.",
       hu: "A Ngaoundéré-i lamidát az Adamaoua egyik legfontosabb hagyományos rezidenciája. A fulani uralom történetét idézi.",
       ro: "Lamidatul din Ngaoundéré este unul dintre reperele istorice ale nordului Camerunului central. El păstrează structura politică a comunității Fulani.",
-      en: "The lamidat of Ngaoundere is a major traditional authority center in Adamawa. It remains a key symbol of local rule and heritage."
+      en: "The Lamidat of Ngaoundere is one of the most powerful traditional sultanates in northern Cameroon, located in the heart of the Adamawa plateau."
     },
     facts: {
       de: ["traditionelles Herrschaftszentrum", "in Ngaoundere", "wichtig für Adamaoua"],
       hu: ["Ngaoundérében áll", "hagyományos rezidencia", "fulani örökség"],
       ro: ["în Ngaoundéré", "centru fulani", "instituție tradițională"],
-      en: ["in Ngaoundere", "traditional authority", "important in Adamawa"]
+      en: ["Traditional sultanate", "Adamawa Region", "Fulbe cultural center", "Historical palace site"]
     }
   },
   {
@@ -533,13 +533,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Palast von König Bell erinnert an die Macht der Duala-Herrscher in Douala. Er gehört zu den zentralen Orten der Stadtgeschichte.",
       hu: "A King Bell palota Douala történeti uralkodói központja. A Duala nép egyik fontos dinasztikus emléke.",
       ro: "Palatul regelui Bell din Douala amintește de dinastia care a condus o parte importantă a orașului. Locul este legat de istoria comercială a coastei.",
-      en: "The palace of King Bell in Douala is tied to one of the city's best known ruling families. It preserves the memory of coastal leadership."
+      en: "The King Bell Palace in Douala, also known as 'La Pagode', is a striking piece of architecture that served as the residence of the Duala kings."
     },
     facts: {
       de: ["Palast in Douala", "mit den Duala verbunden", "kolonialzeitlich bedeutsam"],
       hu: ["Douala városa", "King Bell dinasztia", "uralkodói palota"],
       ro: ["în Douala", "legat de dinastia Bell", "istorie comercială"],
-      en: ["in Douala", "linked to the Bell dynasty", "traditional coastal palace"]
+      en: ["Known as La Pagode", "Duala royal residence", "Built in 1905", "Douala historical landmark"]
     }
   },
   {
@@ -563,13 +563,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Die deutsche Brücke in Edea geht auf die frühe Infrastrukturgeschichte Kameruns zurück. Sie steht für die koloniale Erschließung des Sanaga-Raums.",
       hu: "A német híd Edeában a gyarmati infrastruktúra emléke. A Sanaga menti korai közlekedést idézi.",
       ro: "Podul german din Edéa este un vestigiu al infrastructurii coloniale timpurii. Construcția marchează importanța strategică a trecerii peste Sanaga.",
-      en: "A bridge in Edea dating back to the German colonial period. It is one of the town's old engineering landmarks."
+      en: "The German Bridge in Edea is a significant engineering relic from the German colonial period, crossing the Sanaga River."
     },
     facts: {
       de: ["Brücke in Edea", "aus der Kolonialzeit", "über den Sanaga"],
       hu: ["Edea városában", "gyarmati híd", "Sanaga menti örökség"],
       ro: ["în Edéa", "din perioada germană", "peste Sanaga"],
-      en: ["in Edea", "from the German era", "historic bridge"]
+      en: ["German colonial era", "Spans Sanaga River", "Located in Edea", "Early 20th century construction"]
     }
   },
   {
@@ -623,13 +623,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das Lamidat von Maroua ist das traditionelle Machtzentrum der Stadt im äußersten Norden. Es steht für die politische Geschichte der Region.",
       hu: "A marouai lamidát Észak-Kamerun egyik legfontosabb hagyományos uralkodói központja. A muszlim vezetés régi intézménye kapcsolódik hozzá.",
       ro: "Lamidatul din Maroua este un punct de referință pentru istoria islamică și politică a Far North. Complexul tradițional rămâne activ și astăzi.",
-      en: "The lamidat of Maroua is the traditional power center of the Far North capital. It reflects the region's Islamic political history."
+      en: "The Lamidat of Maroua is a traditional Fulani sultanate in the Far North Region, serving as a spiritual and cultural hub for the local population."
     },
     facts: {
       de: ["in Maroua", "traditionelle Herrschaft", "wichtig im Norden"],
       hu: ["Maroua központja", "lamidati hagyomány", "északi örökség"],
       ro: ["în Maroua", "centru islamic tradițional", "activ și astăzi"],
-      en: ["in Maroua", "traditional power center", "Far North heritage"]
+      en: ["Fulani sultanate seat", "Far North Region", "Traditional palace", "Cultural heritage center"]
     }
   },
   {
@@ -653,13 +653,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Palast von König Akwa gehört zu den wichtigen traditionellen Orten der Duala in Douala. Er erinnert an die historische Rolle der lokalen Herrscherfamilien.",
       hu: "A King Akwa palota Douala egyik történeti uralkodói helyszíne. A Duala közösség dinasztikus múltját őrzi.",
       ro: "Palatul regelui Akwa din Douala este legat de o altă familie influentă a orașului. Reședința amintește de structurile tradiționale ale elitei locale.",
-      en: "The palace of King Akwa in Douala belongs to one of the city's influential royal families. It is an important part of Duala history."
+      en: "The palace of King Akwa in Douala is a historic site associated with the Akwa royalty and their role in the region's colonial history."
     },
     facts: {
       de: ["in Douala", "mit den Duala verbunden", "traditioneller Herrschersitz"],
       hu: ["Douala városában", "Akwa dinasztia", "történeti palota"],
       ro: ["în Douala", "legat de familia Akwa", "reședință tradițională"],
-      en: ["in Douala", "linked to the Akwa family", "traditional royal palace"]
+      en: ["Akwa royal seat", "Douala historical site", "Duala ethnic heritage", "Colonial era landmark"]
     }
   },
   {
@@ -683,13 +683,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das koloniale Zentrum von Dschang bewahrt Spuren der deutschen und französischen Verwaltung. Es gehört zu den wichtigsten historischen Bereichen der Stadt.",
       hu: "A dschangi gyarmati központ a hegyvidéki város korai városszerkezetét idézi. A kolonializmus nyomai jól láthatók benne.",
       ro: "Centrul colonial din Dschang păstrează urme ale administrației europene din perioada mandatului. Zona reflectă urbanizarea timpurie a regiunii.",
-      en: "Dschang's colonial center preserves traces of German and French administration. It is one of the city's most historic areas."
+      en: "The Dschang Colonial Center preserves the history of the town as a former hill station and administrative center during the colonial era."
     },
     facts: {
       de: ["Kolonialarchitektur in Dschang", "Verwaltungsgeschichte", "historischer Stadtkern"],
       hu: ["Dschang központja", "gyarmati városmag", "hegyvidéki település"],
       ro: ["în Dschang", "moștenire colonială", "urbanizare timpurie"],
-      en: ["in Dschang", "colonial-era center", "historic urban core"]
+      en: ["West Region location", "Former colonial hill station", "Historical administrative hub", "Preserved architecture"]
     }
   },
   {
@@ -713,13 +713,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das Lamidat von Garoua ist ein zentrales Symbol der traditionellen Macht im Norden Kameruns. Der Hof prägt die Geschichte der Stadt und der Region.",
       hu: "A garouai lamidát az északi uralkodói kultúra egyik fő központja. A fulani hagyomány és a városi történelem találkozik itt.",
       ro: "Lamidatul din Garoua este un centru tradițional important din nordul Camerunului. El continuă să reprezinte autoritatea locală și memoria comunității.",
-      en: "The lamidat of Garoua is a major traditional institution on the Benue River. It anchors the city's historical and social identity."
+      en: "The Lamidat of Garoua is a prestigious traditional chiefdom in northern Cameroon, with a palace that reflects the region's Islamic heritage."
     },
     facts: {
       de: ["traditionelles Herrschaftszentrum", "in Garoua", "wichtig für den Norden"],
       hu: ["Garoua városa", "fulani lamidát", "hagyományos központ"],
       ro: ["în Garoua", "autoritate tradițională", "important în nord"],
-      en: ["in Garoua", "on the Benue River", "traditional authority center"]
+      en: ["North Region seat", "Islamic heritage site", "Traditional sultanate", "Garoua cultural landmark"]
     }
   },
   {
@@ -743,13 +743,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der historische Sklavenmarkt von Pitoa erinnert an alte Handelsrouten im Norden Kameruns. Der Ort steht für ein schwieriges Kapitel der Regionalgeschichte.",
       hu: "A pitoa-i rabszolgapiac helyszíne az északi múlt sötétebb korszakára emlékeztet. Ma történeti emlékhely.",
       ro: "Sitului vechiului târg de sclavi din Pitoa i se leagă o parte dureroasă a istoriei regionale. Locul amintește de rețelele comerciale din nordul Camerunului.",
-      en: "The old slave market site in Pitoa recalls historic trade routes in northern Cameroon. It stands as a difficult memorial site."
+      en: "Pitoa was historically a major site for the internal slave trade in northern Cameroon, now serving as a place of historical reflection."
     },
     facts: {
       de: ["historischer Handelsort", "im Norden Kameruns", "mit Sklavenhandel verbunden"],
       hu: ["Pitoa térsége", "rabszolga-kereskedelem", "emlékhely"],
       ro: ["în Pitoa", "legat de comerțul cu sclavi", "memorie istorică dureroasă"],
-      en: ["in Pitoa", "linked to slave trade", "historical memorial site"]
+      en: ["Internal slave trade site", "North Region location", "Historical market", "Memorial significance"]
     }
   },
   {
@@ -803,13 +803,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Der Standort des alten Forts von Yaounde erinnert an die frühe Kolonialzeit der Hauptstadt. Er gehört zu den historischen Orten der Stadtentwicklung.",
       hu: "A yaoundéi erődhely a főváros korai gyarmati korszakát idézi. A városi közigazgatás kezdetéhez kapcsolódik.",
       ro: "Situl vechiului fort din Yaoundé păstrează memoria ocupației și a administrației coloniale. Zona este legată de primele forme de control militar în capitală.",
-      en: "The site of the old fort in Yaounde recalls the city's early colonial military outpost. It marks the start of its urban history."
+      en: "The site of the original Fort of Yaounde marks the location where German forces established a permanent presence, leading to the city's founding."
     },
     facts: {
       de: ["historischer Militärstandort", "in Yaounde", "Bezug zur Kolonialzeit"],
       hu: ["Yaoundé története", "korai erődhely", "gyarmati adminisztráció"],
       ro: ["în Yaoundé", "sit colonial", "legat de administrația militară"],
-      en: ["in Yaounde", "former colonial fort", "early city history"]
+      en: ["City's founding site", "German colonial fort", "Yaounde historical origin", "Military history landmark"]
     }
   },
   {
@@ -833,13 +833,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Die Kathedrale Saints Peter and Paul ist ein bekanntes katholisches Gotteshaus in Kamerun. Sie steht für den religiösen Einfluss in der Küstenregion.",
       hu: "A Saints Peter and Paul katedrális Douala egyik fő katolikus temploma. A város vallási és építészeti örökségéhez tartozik.",
       ro: "Catedrala Sfinții Petru și Paul este unul dintre reperele religioase istorice ale orașului Douala. Edificiul are un loc important în viața catolică locală.",
-      en: "A major Catholic cathedral in Douala. It is one of the city's most important religious buildings."
+      en: "The Saints Peter and Paul Cathedral in Douala is a grand religious structure dating back to the colonial era, serving the Catholic community."
     },
     facts: {
       de: ["Kirche in Douala", "katholisches Zentrum", "prägend für das Stadtbild"],
       hu: ["Douala székesegyháza", "katolikus templom", "városi örökség"],
       ro: ["în Douala", "catedrală catolică", "reper religios istoric"],
-      en: ["in Douala", "Catholic cathedral", "major religious landmark"]
+      en: ["Douala cathedral", "Catholic landmark", "Colonial architecture", "Spiritual center of Douala"]
     }
   },
   {
@@ -863,13 +863,13 @@ export const poiExtraCameroonHistoryV2: POI[] = [
       de: "Das alte Postamt von Buea ist ein Relikt der kolonialen Verwaltungszeit. Es spiegelt die frühe urbane Entwicklung der Stadt wider.",
       hu: "A bueai régi postahivatal a gyarmati közigazgatás egyik emléke. A hegyi város korai központi funkcióit mutatja.",
       ro: "Vechiul oficiu poștal din Buea este un vestigiu al administrației coloniale. Clădirea amintește de rolul orașului în perioada germană și britanică.",
-      en: "The old post office in Buea is a reminder of the town's colonial administrative era. It reflects the city's early public infrastructure."
+      en: "The Old Post Office in Buea is a charming historic building from the German colonial period, once the communication hub of the region."
     },
     facts: {
       de: ["historisches Verwaltungsgebäude", "in Buea", "aus der Kolonialzeit"],
       hu: ["Buea városában", "régi postahivatal", "gyarmati korszak"],
       ro: ["în Buea", "clădire colonială", "legat de poșta veche"],
-      en: ["in Buea", "colonial-era building", "old public office"]
+      en: ["German colonial building", "Located in Buea", "Historical infrastructure", "Architectural relic"]
     }
   },
   {

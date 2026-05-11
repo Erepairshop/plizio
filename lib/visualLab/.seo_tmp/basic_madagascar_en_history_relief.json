@@ -1,0 +1,40 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "alasora-royal-village-history-v2",
+      "description": "Alasora is one of the twelve sacred hills of Imerina, housing ancient royal tombs and remnants of early Merina monarchical settlement.",
+      "facts": ["Sacred royal Imerina hill", "Ancient royal tombs", "Early Merina kingdom site"]
+    },
+    {
+      "id": "nosy-mangabe-dutch-inscriptions-history-v2",
+      "description": "Nosy Mangabe island features rocks with historic inscriptions left by 17th-century Dutch sailors, a testament to early maritime exploration in Madagascar.",
+      "facts": ["Historical maritime site", "17th-century Dutch inscriptions", "Early exploration remnant"]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "description": "The foothills of Boby Peak, the second-highest mountain in Madagascar, offer spectacular rugged terrain and views of the Andringitra massif.",
+      "facts": ["Scenic mountain foothills", "Rugged Andringitra terrain", "High-altitude landscape"]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "description": "The Manongarivo Massif is a rugged mountain range in northwestern Madagascar known for its dramatic topography and secluded wilderness.",
+      "facts": ["Rugged mountain massif", "Dramatic northwestern landscape", "Isolated wilderness zone"]
+    },
+    {
+      "id": "vohimana-relief-v2",
+      "description": "Vohimana is a unique mountainous region featuring complex topographical features, crucial for local water management and forest biodiversity.",
+      "facts": ["Complex mountain topography", "Regional water source", "Biodiversity-rich elevation"]
+    },
+    {
+      "id": "ranomafana-hills-relief-v2",
+      "description": "The hills surrounding Ranomafana display steep, verdant slopes characteristic of the eastern escarpment, home to unique rainforest flora.",
+      "facts": ["Steep verdant slopes", "Eastern escarpment feature", "Rainforest-covered terrain"]
+    }
+  ]
+}

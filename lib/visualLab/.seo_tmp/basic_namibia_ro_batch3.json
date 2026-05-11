@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aus-mountains-relief-v2",
+      "description": "Munții Aus din sudul Namibiei sunt cunoscuți pentru peisajele lor stâncoase și oryxii sălbatici.",
+      "facts": ["Munți stâncoși", "Sudul Namibiei", "Oryx sălbatic"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "Tsau Khaeb Sperrgebiet este o zonă vastă diamantiferă restricționată, cu peisaje costiere virgine și dune de deșert.",
+      "facts": ["Zonă diamantiferă restricționată", "Coastă virgină", "Dune de deșert"]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "description": "Munții Huns din sudul Namibiei sunt un lanț muntos antic, caracterizat prin frumusețe sălbatică și ecosisteme diverse.",
+      "facts": ["Lanț muntos antic", "Frumusețe sălbatică", "Ecosisteme diverse"]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "description": "Munții Naukluft fac parte din Parcul Namib-Naukluft, cunoscuți pentru terenul lor accidentat și izvoarele naturale.",
+      "facts": ["Parcul Namib-Naukluft", "Teren accidentat", "Izvoare naturale"]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "description": "Munții Muhlo sunt un lanț muntos izolat în regiunea Kunene, adăpostind floră și faună unică.",
+      "facts": ["Lanț muntos izolat", "Regiunea Kunene", "Floră și faună unică"]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "description": "Munții Otavi sunt un lanț muntos din nordul Namibiei, cunoscuți pentru topografia lor carstică și peșteri.",
+      "facts": ["Nordul Namibiei", "Topografie carstică", "Peșteri"]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "description": "Munții Zebra sunt un lanț muntos izbitor în Deșertul Namib, caracterizat prin aspectul lor dungat.",
+      "facts": ["Deșertul Namib", "Aspect dungat", "Lanț muntos izbitor"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "Munții Baynes sunt un lanț muntos accidentat în Kaokoveld, oferind priveliști spectaculoase și faună sălbatică rară.",
+      "facts": ["Lanț muntos accidentat", "Kaokoveld", "Faună sălbatică rară"]
+    },
+    {
+      "id": "khoe-khoe-mountains-relief-v2",
+      "description": "Munții Khoe-Khoe sunt un lanț muntos în sudul Namibiei, care se întinde pe teritoriul poporului Khoe-Khoe.",
+      "facts": ["Lanț muntos", "Sudul Namibiei", "Poporul Khoe-Khoe"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Ongongo este o sursă termală naturală în Kaokoveld, înconjurată de o oază verde vibrantă și palmieri.",
+      "facts": ["Sursă termală naturală", "Kaokoveld", "Oază verde vibrantă"]
+    }
+  ]
+}

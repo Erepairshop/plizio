@@ -1,0 +1,159 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gaborone-three-dikgosi-monument-landmarks-v2",
+      "description": "Un punct de reper iconic în inima capitalei, onorând liderii care au asigurat viitorul Botswanei.",
+      "facts": [
+        "Situat în Central Business District",
+        "Statui din bronz masiv",
+        "Loc popular pentru fotografii",
+        "Simbol al independenței"
+      ]
+    },
+    {
+      "id": "gaborone-sadc-headquarters-landmarks-v2",
+      "description": "Sediul Comunității de Dezvoltare a Africii Australe, o clădire modernă ce reflectă rolul regional al orașului.",
+      "facts": [
+        "Arhitectură contemporană",
+        "Centru diplomatic major",
+        "Situat pe Government Enclave",
+        "Găzduiește birouri regionale"
+      ]
+    },
+    {
+      "id": "gaborone-itowers-landmarks-v2",
+      "description": "Cele mai înalte clădiri din Botswana, definind linia orizontului modern a orașului Gaborone.",
+      "facts": [
+        "Turnuri gemene impunătoare",
+        "Utilizare mixtă: birouri și locuințe",
+        "Design de sticlă și oțel",
+        "Vedere panoramică asupra orașului"
+      ]
+    },
+    {
+      "id": "kazungula-bridge-landmarks-v2",
+      "description": "O capodoperă inginerească ce traversează fluviul Zambezi, conectând Botswana de Zambia.",
+      "facts": [
+        "Pod curbat spectaculos",
+        "Inaugurat în 2021",
+        "Cale ferată și rutieră",
+        "Înlocuiește vechiul bac"
+      ]
+    },
+    {
+      "id": "francistown-obed-itani-chilume-stadium-landmarks-v2",
+      "description": "Cel mai mare stadion din nordul țării, o facilitate sportivă modernă utilizată pentru evenimente majore.",
+      "facts": [
+        "Capacitate de 26.000 locuri",
+        "Cunoscut anterior ca Stadionul Francistown",
+        "Gazdă pentru meciuri internaționale",
+        "Design arhitectural modern"
+      ]
+    },
+    {
+      "id": "gaborone-national-assembly-landmarks-v2",
+      "description": "Clădirea Parlamentului Botswanei, centrul puterii legislative a uneia dintre cele mai vechi democrații din Africa.",
+      "facts": [
+        "Situat în Government Enclave",
+        "Arhitectură oficială sobră",
+        "Lângă statuia lui Seretse Khama",
+        "Deschis pentru vizite ghidate"
+      ]
+    },
+    {
+      "id": "gaborone-innovation-hub-landmarks-v2",
+      "description": "O clădire cu un design futurist, menită să fie centrul dezvoltării tehnologice și al cercetării.",
+      "facts": [
+        "Arhitectură organică unică",
+        "Focus pe sustenabilitate",
+        "Incubator pentru startup-uri",
+        "Situat lângă aeroport"
+      ]
+    },
+    {
+      "id": "gaborone-christ-the-king-cathedral-landmarks-v2",
+      "description": "Catedrala catolică principală din Gaborone, un reper spiritual important cu un design arhitectural distinctiv.",
+      "facts": [
+        "Sediul Episcopiei de Gaborone",
+        "Vitralii frumoase",
+        "Situată în zona centrală",
+        "Loc de cult liniștit"
+      ]
+    },
+    {
+      "id": "gaborone-orapa-house-landmarks-v2",
+      "description": "O clădire istorică înaltă, utilizată timp de decenii pentru sortarea și evaluarea diamantelor din Botswana.",
+      "facts": [
+        "Design brutalist iconic",
+        "Ferestre orientate spre sud (lumină constantă)",
+        "Reper în centrul orașului",
+        "Simbol al industriei diamantelor"
+      ]
+    },
+    {
+      "id": "gaborone-gicc-landmarks-v2",
+      "description": "Centrul Internațional de Convenții Gaborone, principala locație pentru conferințe și evenimente internaționale.",
+      "facts": [
+        "Capacitate mare de primire",
+        "Parte a complexului Grand Palm",
+        "Standarde de lux",
+        "Găzduiește summit-uri politice"
+      ]
+    },
+    {
+      "id": "lobatse-high-court-landmarks-v2",
+      "description": "Sediul istoric al Curții Supreme a Botswanei, situat în orașul unde a început sistemul judiciar modern.",
+      "facts": [
+        "Clădire de importanță juridică",
+        "Stil arhitectural colonial",
+        "Situat în sudul țării",
+        "Păstrează arhive judiciare"
+      ]
+    },
+    {
+      "id": "gaborone-national-museum-landmarks-v2",
+      "description": "Muzeul Național și Galeria de Artă, un reper cultural major care educă vizitatorii despre istoria țării.",
+      "facts": [
+        "Expoziții de artă africană",
+        "Grădină botanică adiacentă",
+        "Situat pe strada Main Mall",
+        "Centru de evenimente culturale"
+      ]
+    },
+    {
+      "id": "moeng-college-historic-building-landmarks-v2",
+      "description": "O instituție de învățământ istorică situată într-o zonă izolată, cunoscută pentru arhitectura sa deosebită.",
+      "facts": [
+        "Fondată de Tshekedi Khama",
+        "Situată în dealurile Tswapong",
+        "Construcție din piatră locală",
+        "Moștenire educațională valoroasă"
+      ]
+    },
+    {
+      "id": "old-palapye-church-ruins-landmarks-v2",
+      "description": "Ruinele impresionante ale unei biserici misionare din secolul al XIX-lea, construite din cărămidă arsă.",
+      "facts": [
+        "Fostă capitală a Bangwato",
+        "Arhitectură gotică africană",
+        "Monument național",
+        "Lângă satul Malaka"
+      ]
+    },
+    {
+      "id": "mochudi-phuthadikobo-museum-landmarks-v2",
+      "description": "Muzeul Phuthadikobo, situat într-o clădire istorică pe un deal, oferind o panoramă asupra satului tradițional.",
+      "facts": [
+        "Fostă școală a tribului",
+        "Focus pe cultura Bakgatla",
+        "Ateliere de serigrafie",
+        "Reper vizual major în Mochudi"
+      ]
+    }
+  ]
+}

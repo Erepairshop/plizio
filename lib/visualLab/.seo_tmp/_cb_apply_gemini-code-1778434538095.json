@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pointe-denis-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Pointe-Denis ist eine schmale Sandhalbinsel, die das Ästuar des Komo-Flusses vom offenen Atlantik trennt und direkt gegenüber der Hauptstadt Libreville liegt. Geografisch gesehen ist diese Landzunge ein dynamisches System aus weißen Sandstränden, Küstendünen und dahinterliegenden Mangroven- sowie Sekundärwäldern. Trotz der Nähe zur Metropole bewahrt Pointe-Denis eine erstaunliche Biodiversität. Die Strände sind von globaler Bedeutung als Nistplätze für Meeresschildkröten, insbesondere für die Lederschildkröte, die hier während der Regenzeit ihre Eier ablegt. In den Gewässern rund um die Halbinsel lassen sich zudem Delfine und während der Migrationszeit Buckelwale beobachten. Das Ökosystem dient als natürlicher Schutzwall gegen Küstenerosion für die Bucht von Libreville. Während die Westküste dem rauen Atlantik zugewandt ist, bieten die Lagunen der Ostseite ruhige Gewässer, die reich an mariner Fauna sind. In den letzten Jahrzehnten hat sich Pointe-Denis zum wichtigsten Naherholungsgebiet für die Hauptstadt entwickelt, was einen Spagat zwischen touristischer Nutzung und dem Schutz der sensiblen Brutgebiete erfordert. Die Vegetation der Halbinsel besteht aus einer Mischung von salztoleranten Pionierpflanzen am Strand und dichten Palmenhainen im Inneren. Für Naturbeobachter bietet der Ort die seltene Gelegenheit, die Übergangszone zwischen einem großen Flussdelta und der Meeresumwelt zu studieren.",
+        "hu": "Pointe-Denis egy keskeny homokos félsziget, amely a Komo-folyó torkolatát választja el az Atlanti-óceán nyílt vizétől, közvetlenül Libreville-lel szemben. Földrajzi szempontból ez a földnyelv egy dinamikusan változó homokpad-rendszer, amelyet fehér homokos strandok, dűnék és a mögöttük meghúzódó mangroveerdők alkotnak. A főváros közelsége ellenére Pointe-Denis megőrizte kiemelkedő ökológiai jelentőségét: a strandok a világ legfontosabb lantteknős-fészkelőhelyei közé tartoznak. A teknősök tojásrakási szezonja alatt a terület szigorú védelem alatt áll, hogy minimalizálják az emberi zavarást. A félsziget körüli vizekben gyakran láthatók delfinek, a bálnák vonulási időszakában pedig a púpos bálnák is feltűnnek a horizonton. Pointe-Denis nyugati partja a nyílt óceán hullámverésének van kitéve, míg a keleti, lagúnás oldal csendesebb vizei gazdag halállománynak és madárvilágnak adnak otthont. A növényzet a sós környezetet kedvelő pionír fajoktól a sűrű kókuszpálma-ligetekig terjed. A félsziget nemcsak természetvédelmi terület, hanem a fővárosiak kedvelt pihenőhelye is, ami állandó kihívást jelent a fenntartható turizmus számára. A terület segít megérteni a tengerparti ökoszisztémák érzékenységét és a part menti erózió elleni természetes védekezés fontosságát Gabon partjainál.",
+        "ro": "Pointe-Denis este o peninsulă îngustă de nisip care separă estuarul râului Komo de Oceanul Atlantic, fiind situată chiar în fața capitalei Libreville. Din punct de vedere geografic, această fâșie de pământ reprezintă un sistem dinamic de plaje cu nisip alb, dune de coastă și păduri secundare, mărginite de zone cu mangrove. În ciuda proximității față de metropolă, Pointe-Denis păstrează o biodiversitate uimitoare, fiind un sit de cuibărit de importanță globală pentru țestoasele marine, în special pentru țestoasa pieloasă. Ecosistemul peninsulei acționează ca o barieră naturală împotriva eroziunii costiere, protejând golful Libreville de forța valurilor atlantice. În timp ce coasta de vest este expusă oceanului, zonele de lagună din est oferă ape liniștite, bogate în faună marină și avifaună. În ultimele decenii, Pointe-Denis a devenit principala destinație de agrement pentru locuitorii capitalei, ceea ce necesită un management strict pentru a echilibra turismul cu protejarea habitatelor sensibile de reproducere. Vegetația peninsulei este o combinație de plante pionier tolerante la sare și palmieri denși în zonele centrale. Pentru cercetători, locația oferă oportunități unice de a observa tranziția dintre un delta fluvial mare și mediul marin pelagic. Este un refugiu natural esențial care demonstrează reziliența naturii gaboneze la marginea expansiunii urbane.",
+        "en": "Pointe-Denis is a narrow sandy peninsula that separates the Komo River estuary from the open Atlantic Ocean, positioned directly across from the capital, Libreville. Geographically, this spit is a dynamic system of white sand beaches, coastal dunes, and back-barrier mangroves and secondary forests. Despite its proximity to the metropolis, Pointe-Denis maintains remarkable biodiversity; its beaches are globally significant nesting sites for sea turtles, particularly the leatherback turtle, which lays its eggs here during the rainy season. The waters surrounding the peninsula are frequent sighting spots for dolphins and, during migration seasons, humpback whales. The ecosystem serves as a natural buffer against coastal erosion for the Bay of Libreville. While the western coast faces the raw Atlantic surf, the eastern lagoon side offers calm waters rich in marine fauna and birdlife. Over the decades, Pointe-Denis has evolved into the primary recreational area for the capital's residents, necessitating a delicate balance between tourism and the preservation of sensitive breeding habitats. The peninsula's vegetation consists of salt-tolerant pioneer plants on the shore and dense palm groves inland. For nature observers, it provides a rare opportunity to study the transition zone between a major river delta and the marine environment, standing as a vital green lung for the Estuaire province."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pointe-Denis ist eines der wichtigsten Brutgebiete für Lederschildkröten in Gabun.",
+          "Die Halbinsel ist nur mit dem Boot von Libreville aus erreichbar.",
+          "Sie trennt das Komo-Ästuar von den Wellen des Atlantiks.",
+          "Delfine und Buckelwale ziehen regelmäßig an der Küste vorbei.",
+          "Das Gebiet kombiniert maritime Savanne mit dichten Mangrovenwäldern.",
+          "Die Strände erstrecken sich über mehrere Kilometer feinen weißen Sandes."
+        ],
+        "hu": [
+          "Pointe-Denis a lantteknősök egyik legfontosabb védett fészkelőhelye a régióban.",
+          "A félsziget Libreville kikötőjéből 15-20 perces hajóúttal érhető el.",
+          "Természetes gátat képez az óceáni hullámok és a Komo-torkolat között.",
+          "A területen tilos az éjszakai kivilágítás a teknősök védelme érdekében.",
+          "A belső lagúnákban ritka vízi madarak figyelhetők meg.",
+          "A dűnék növényzete kulcsszerepet játszik a partvonal megőrzésében."
+        ],
+        "ro": [
+          "Plaja este un sit critic pentru monitorizarea țestoaselor marine din 2002.",
+          "Accesul se face predominant prin debarcaderul Michel Marine din Libreville.",
+          "Pointe-Denis este punctul de plecare pentru explorarea parcului Pongara.",
+          "Ecosistemul include dune mobile și păduri de coastă intacte.",
+          "În sezonul uscat, apele sunt deosebit de limpezi, ideale pentru snorkeling.",
+          "Penisula este numită după influentul lider Mpongwe, Regele Denis."
+        ],
+        "en": [
+          "Pointe-Denis is a major nesting hotspot for the endangered leatherback turtle.",
+          "It is the closest wilderness area to Gabon's capital, Libreville.",
+          "The peninsula provides essential protection against Atlantic storm surges.",
+          "Humpback whales are frequently spotted offshore from July to September.",
+          "The area features a unique mix of marine and estuary biodiversity.",
+          "Its coastline is characterized by vast stretches of undeveloped sandy beach."
+        ]
+      }
+    },
+    {
+      "id": "cap-lopez-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Cap Lopez markiert den westlichsten Punkt der gabunischen Küste auf der Mandji-Halbinsel und ist ein Ort von außergewöhnlicher geografischer und ökologischer Bedeutung. Hier treffen die warmen Strömungen des Golfs von Guinea auf die kühleren Wassermassen des südlichen Atlantiks, was zu einem nährstoffreichen marinen Umfeld führt. Diese ozeanografische Besonderheit macht Cap Lopez zu einem wichtigen Korridor für wandernde Meeresbewohner. Besonders spektakulär ist die jährliche Ankunft der Buckelwale zwischen Juli und September, die in den geschützten Buchten rund um das Kap kalben und sich paaren. Die Küstenlinie besteht aus einer Mischung von Sandbänden, die durch starke Strömungen ständig umgeformt werden, und angrenzenden Mangrovengebieten. Trotz der industriellen Präsenz durch die nahegelegenen Ölterminals von Port-Gentil bleibt das Kap ein kritischer Lebensraum für bedrohte Meeresschildkröten, die die abgelegenen Strandabschnitte zur Eiablage nutzen. Die Vogelwelt ist ebenso vielfältig, mit zahlreichen Seevögeln, die die fischreichen Gewässer als Jagdgrund nutzen. Geografisch definiert Cap Lopez die Grenze zwischen der offenen Meeresküste und der geschützten Bucht von Port-Gentil. Die Erhaltung des ökologischen Gleichgewichts an diesem strategischen Punkt ist eine ständige Herausforderung, da hier wirtschaftliche Interessen der Erdölindustrie und der Schutz mariner Biodiversität unmittelbar aufeinandertreffen.",
+        "hu": "Cap Lopez Gabon legnyugatibb pontja a Mandji-félszigeten, amely Port-Gentil városától északra található. Ez a földrajzi pont különleges jelentőséggel bír az óceáni áramlatok találkozása miatt: a Guineai-öböl meleg vizei itt érintkeznek a déli irányból érkező hűvösebb áramlatokkal, ami tápanyagban gazdag vizeket eredményez. Ennek köszönhetően a Cap Lopez környéke a tengeri élővilág egyik legfontosabb vonulási folyosója Közép-Afrikában. A leglátványosabb esemény a hosszúszárnyú bálnák megjelenése július és szeptember között, amelyek a párzáshoz és az elléshez választják a kapu körüli védettebb vizeket. A partvonalat a folyamatosan változó homokpadok és a mögöttük fekvő mangroveerdők jellemzik. Bár a terület Gabon kőolajiparának központja, a távoli partszakaszok továbbra is fontos fészkelőhelyei a tengeri teknősöknek. A madárvilág szintén rendkívül gazdag, számos tengeri madárfaj használja a területet táplálkozóhelyként. A Cap Lopez földrajzilag elválasztja a nyílt Atlanti-óceánt a Port-Gentil-i öböl nyugodtabb vizeitől. A terület ökológiai egyensúlyának megőrzése kiemelt feladat, mivel a gazdasági érdekek és a tengeri biodiverzitás védelme itt közvetlenül találkozik. A látogatók számára a kapu a vad óceán és az ipari modernizáció különös találkozását kínálja.",
+        "ro": "Cap Lopez reprezintă cel mai vestic punct al coastei gaboneze, situat pe peninsula Mandji, fiind un loc de o importanță geografică și ecologică remarcabilă. Aici, curenții calzi ai Golfului Guineei se întâlnesc cu masele de apă mai reci ale Atlanticului de Sud, creând un mediu marin extrem de bogat în nutrienți. Această caracteristică oceanografică transformă Cap Lopez într-un coridor vital pentru migrația megafaunei marine. Un fenomen spectaculos este prezența anuală a balenelor cu cocoașă între iulie și septembrie, care folosesc apele din jurul capului pentru reproducere. Linia de coastă este formată dintr-un amestec de bancuri de nisip, modelate constant de curenți puternici, și zone adiacente de mangrove. În ciuda activității industriale intense legate de terminalele petroliere din Port-Gentil, Cap Lopez rămâne un habitat critic pentru țestoasele marine care își depun ouăle pe plajele izolate. Avifauna este de asemenea diversă, numeroase păsări marine profitând de abundența peștelui. Geografic, Cap Lopez definește limita dintre oceanul deschis și golful adăpostit al orașului Port-Gentil. Conservarea echilibrului ecologic în acest punct strategic este o provocare constantă, având în vedere intersecția dintre interesele economice petroliere și protecția biodiversității marine. Pentru navigatori, acest punct rămâne un reper istoric și natural de prim rang în Africa Centrală.",
+        "en": "Cap Lopez marks the westernmost point of the Gabonese coastline on the Mandji Peninsula, serving as a location of extraordinary geographic and ecological significance. Here, the warm currents of the Gulf of Guinea meet the cooler water masses of the South Atlantic, creating a nutrient-rich marine environment. This oceanographic feature makes Cap Lopez a vital corridor for migrating marine life. Most spectacular is the annual arrival of humpback whales between July and September, which use the waters around the cape for calving and mating. The coastline consists of shifting sandbars, constantly reshaped by powerful currents, and adjacent mangrove areas. Despite the industrial presence of nearby oil terminals in Port-Gentil, the cape remains a critical habitat for endangered sea turtles that utilize the remote beach stretches for nesting. The birdlife is equally diverse, with numerous seabirds using the fish-abundant waters as a primary hunting ground. Geographically, Cap Lopez defines the boundary between the open ocean coast and the protected bay of Port-Gentil. Maintaining the ecological balance at this strategic point is a constant challenge, as major economic interests from the oil industry directly intersect with the protection of marine biodiversity. It stands as a unique frontier where the raw power of the Atlantic meets Gabon's industrial heartland."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cap Lopez ist der westlichste geografische Punkt Gabuns.",
+          "Die Gewässer sind ein weltweit bekannter Hotspot für Buckelwale.",
+          "Es markiert den Übergang zwischen dem Atlantik und der Bucht von Port-Gentil.",
+          "Starke Meeresströmungen verändern hier ständig die Form der Küste.",
+          "Das Gebiet beherbergt wichtige Erdölverladeterminals neben Naturschutzzonen.",
+          "Mehrere bedrohte Arten von Meeresschildkröten nisten an den Stränden."
+        ],
+        "hu": [
+          "Cap Lopez Gabon és a Mandji-félsziget legnyugatibb csücske.",
+          "A bálnák vonulási útvonalának egyik legfontosabb megállója júliustól szeptemberig.",
+          "Ith találkoznak a hideg és meleg tengeri áramlatok.",
+          "A terület stratégiai fontosságú Gabon kőolaj-exportja szempontjából.",
+          "A tengeri madarak nagy sűrűségben fészkelnek a közeli mocsarakban.",
+          "A kapu környékén mérték Gabon partjainál a legmagasabb hullámokat."
+        ],
+        "ro": [
+          "Cap Lopez este punctul de reper pentru intrarea în portul Port-Gentil.",
+          "Apele din jurul capului sunt extrem de bogate în plancton și pește.",
+          "Migrația balenelor cu cocoașă atrage numeroși cercetători marini în zonă.",
+          "Terenul este format din depuneri aluvionare aduse de fluviul Ogooué.",
+          "Farul istoric de aici a ghidat navele timp de peste un secol.",
+          "Biodiversitatea marină include rechini, delfini și rari lamantini."
+        ],
+        "en": [
+          "Cap Lopez is the westernmost geographical extremity of Gabon.",
+          "The area is a premier destination for humpback whale watching in Central Africa.",
+          "It marks a significant oceanographic boundary between current systems.",
+          "The beaches are essential nesting habitats for leatherback sea turtles.",
+          "Oil infrastructure and marine life coexist in close proximity at the cape.",
+          "The surrounding waters are famous for high concentrations of game fish."
+        ]
+      }
+    },
+    {
+      "id": "lake-onangue-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Onangué-See ist einer der größten und ökologisch bedeutendsten Seen im komplexen Netzwerk des Ogooué-Deltas in Zentral-Gabun. Er liegt südlich von Lambaréné und ist durch Kanäle direkt mit dem Ogooué-Fluss verbunden, was zu einem ständigen Austausch von Wasser und Nährstoffen führt. Der See ist bekannt für seine außergewöhnliche Fischfauna, die die Grundlage für die lokale Binnenfischerei bildet. Die Ufer des Sees sind von dichten Primärwäldern und ausgedehnten Sumpfgebieten umgeben, die als Rückzugsort für Waldelefanten, Flusspferde und verschiedene Primatenarten dienen. Eine Besonderheit des Onangué-Sees ist das Vorkommen des Westafrikanischen Manatis, das in den ruhigen, pflanzenreichen Buchten ideale Lebensbedingungen findet. Die Vogelwelt am See ist spektakulär und umfasst Fischadler, verschiedene Reiherarten und den seltenen Pel-Fischeule. Geologisch gesehen ist der See Teil einer Senke, die während der Regenzeit massiv anschwillt und weite Teile der Ufervegetation überschwemmt, was die biologische Produktivität des Systems steigert. Für die lokale Bevölkerung der Galoa- und Enenga-Völker ist der See nicht nur eine Nahrungsquelle, sondern auch ein Ort tief verwurzelter spiritueller Traditionen. Die Erhaltung dieses Ökosystems ist entscheidend für den Schutz der Süßwasserbiodiversität in Gabun, da der See als Refugium für Arten dient, die im Hauptstrom des Ogooué stärkeren Störungen ausgesetzt sind.",
+        "hu": "Az Onangué-tó Gabon középső részén, Lambarénétől délre található, és az Ogooué-folyó vízrendszerének egyik legnagyobb és legfontosabb tava. A tavat számos csatorna köti össze a folyóval, ami folyamatos víz- és tápanyagcserét tesz lehetővé, rendkívül gazdag halállományt eredményezve. Az Onangué-tó környéke szinte érintetlen őserdőkkel és mocsaras területekkel övezett, amelyek menedéket nyújtanak erdei elefántoknak, vízilovaknak és különféle majomfajoknak. A tó egyik legkülönlegesebb lakója a ritka afrikai manátusz, amely a növényzetben gazdag, nyugodt öblökben talál ideális életteret. A madárvilág szintén lenyűgöző: halászsasok, kócsagok és a ritka Pel-féle halászbagoly is fészkel a partmenti fák ágai között. Az Onangué-tó az esős évszakban jelentősen megárad, elárasztva a környező erdőket, ami kulcsfontosságú a halak ívása és az ökoszisztéma megújulása szempontjatosából. A helyi galoa és enenga népcsoportok számára a tó nemcsak élelemforrás, hanem spirituális jelentőséggel is bír, számos legenda és rituálé kötődik hozzá. A természetvédelmi erőfeszítések középpontjában a fenntartható halászat és a vízminőség megőrzése áll, hogy biztosítsák ezen egyedülálló édesvízi paradicsom jövőjét.",
+        "ro": "Lacul Onangué este unul dintre cele mai mari și mai importante lacuri din punct de vedere ecologic din rețeaua complexă a deltei fluviului Ogooué, în centrul Gabonului. Situat la sud de Lambaréné, acesta este conectat prin canale direct cu fluviul Ogooué, facilitând un schimb constant de apă și nutrienți. Lacul este renumit pentru fauna sa piscicolă excepțională, care constituie baza pescuitului local. Malurile lacului sunt înconjurate de păduri primare dense și mlaștini vaste, servind drept refugiu pentru elefanți de pădure, hipopotami și diverse specii de primate. O particularitate a lacului Onangué este prezența lamantinului african, care găsește condiții ideale de viață în golfurile liniștite și bogate în vegetație. Avifauna de pe lac este spectaculoasă, incluzând vulturi peștiari, diverse specii de egrete și rara bufniță pescară a lui Pel. Din punct de vedere geologic, lacul face parte dintr-o depresiune care se umple masiv în timpul sezonului ploios, inundând zone largi de vegetație riverană, ceea ce crește productivitatea biologică a sistemului. Pentru populațiile locale Galoa și Enenga, lacul nu este doar o sursă de hrană, ci și un loc cu tradiții spirituale profunde. Conservarea acestui ecosistem este crucială pentru protejarea biodiversității de apă dulce din Gabon, servind drept sanctuar pentru specii care sunt mai expuse perturbărilor în cursul principal al fluviului.",
+        "en": "Lake Onangué is one of the largest and most ecologically significant lakes within the complex network of the Ogooué Delta in central Gabon. Located south of Lambaréné, it is directly connected to the Ogooué River via several channels, enabling a constant exchange of water and nutrients. The lake is famous for its exceptional fish biodiversity, which forms the backbone of the local inland fishing economy. Its shores are surrounded by dense primary rainforests and extensive wetlands, providing a refuge for forest elephants, hippos, and various primate species. A key feature of Lake Onangué is the presence of the endangered West African manatee, which thrives in the calm, vegetation-rich bays. The lake's birdlife is spectacular, featuring ospreys, numerous heron species, and the elusive Pel’s fishing owl. Geologically, the lake sits within a depression that expands significantly during the rainy season, flooding the surrounding riparian vegetation and boosting the system's overall biological productivity. For the local Galoa and Enenga people, the lake is not only a food source but also a place of deep-rooted spiritual traditions. Preserving this ecosystem is vital for the protection of Gabon’s freshwater biodiversity, as the lake acts as a sanctuary for species that face more significant disturbances in the main channel of the Ogooué."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Onangué-See ist einer der größten Süßwasserseen Gabuns.",
+          "Er ist ein wichtiger Lebensraum für das gefährdete Westafrikanische Manati.",
+          "Der See ist durch natürliche Kanäle dauerhaft mit dem Ogooué verbunden.",
+          "Lokal wird er von den Galoa- und Enenga-Ethnien für den Fischfang genutzt.",
+          "Hunderte von Vogelarten nutzen den See als Rast- und Brutplatz.",
+          "Während der Regenzeit vergrößert sich die Wasserfläche des Sees erheblich."
+        ],
+        "hu": [
+          "Az Onangué-tó Gabon egyik legfontosabb halászati területe.",
+          "A tó vizében ritka édesvízi teknősfajok is élnek.",
+          "A környékbeli mocsarak fontos szén-dioxid-tárolók.",
+          "A helyi közösségek hagyományos pirogákkal közlekednek a tavon.",
+          "A tó partján számos kis halászfalu található, amelyek elszigetelten élnek.",
+          "Az Onangué-tó fontos szerepet játszik a regionális vízháztartás szabályozásában."
+        ],
+        "ro": [
+          "Lacul Onangué găzduiește o populație semnificativă de hipopotami.",
+          "Este considerat un sit critic pentru conservarea biodiversității de apă dulce.",
+          "Canalele care îl leagă de Ogooué sunt navigabile pe tot parcursul anului.",
+          "Fauna include specii de pești endemice bazinului Ogooué.",
+          "Uscarea parțială în sezonul secetos creează zone bogate de pășunat.",
+          "Lacul este inclus în programe de protecție a zonelor umede Ramsar."
+        ],
+        "en": [
+          "Lake Onangué is a primary habitat for the West African manatee in Gabon.",
+          "It is interconnected with several other lakes in the Middle Ogooué region.",
+          "The lake supports a diverse artisanal fishery essential for local protein.",
+          "Dense gallery forests surrounding the lake host a high density of primates.",
+          "It serves as a major breeding ground for several species of aquatic birds.",
+          "The water system acts as a natural regulator for the Ogooué's seasonal floods."
+        ]
+      }
+    },
+    {
+      "id": "lake-azingo-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Azingo-See liegt nördlich des Ogooué-Flusses im Westen Gabuns und ist Teil des weitläufigen Seensystems der Provinz Moyen-Ogooué. Dieser See ist charakterisiert durch seine tiefe Lage inmitten unberührter Regenwälder und seine relative Abgeschiedenheit, die ihn zu einem wertvollen Naturreservat macht. Wie seine Nachbarseen ist Azingo durch schmale Kanäle mit dem Ogooué verbunden, was eine dynamische Hydrologie gewährleistet. Der See ist ein Hotspot für die aquatische Biodiversität und beherbergt zahlreiche Fischarten, die sowohl für das Ökosystem als auch für die lokale Ernährungssicherheit von Bedeutung sind. Eine der herausragendsten ökologischen Besonderheiten ist die Präsenz des Westafrikanischen Manatis, das in den ruhigen Gewässern des Azingo-Sees einen sicheren Lebensraum findet. Entlang der Ufer können Besucher oft Waldelefanten und Büffel beobachten, die zum Trinken an den See kommen. Die dichte Vegetation am Seeufer besteht aus einer Mischung von Sumpfwäldern und Lianen, die Lebensraum für eine Vielzahl von Affenarten bieten. Geologisch gesehen ist der See ein Überbleibsel alter Flussläufe und Senken des Ogooué-Beckens. Für die wissenschaftliche Forschung bietet Azingo die Möglichkeit, ein weitgehend ungestörtes tropisches Seesystem zu untersuchen. Trotz seiner natürlichen Schönheit ist der See nur schwer zugänglich, was zum Erhalt seiner Ursprünglichkeit beigetragen hat.",
+        "hu": "Az Azingo-tó Gabon nyugati részén, az Ogooué-folyótól északra fekszik, és a Moyen-Ogooué tartomány kiterjedt tórendszerének szerves része. A tó különlegessége az elszigeteltségében és az érintetlen esőerdei környezetében rejlik, ami miatt Gabon egyik legértékesebb természetvédelmi területének számít. Az Azingo-tavat keskeny, kanyargós csatornák kötik össze az Ogooué-val, biztosítva a víz folyamatos frissülését és a tápanyagellátást. A tó édesvízi biodiverzitása kiemelkedő: számos halfaj él itt, amelyek a helyi ökoszisztéma alapkövei. Az ökológiai szempontból legjelentősebb lakója az afrikai manátusz, amely a tó nyugodt, növényekkel teli öbleiben talál menedéket. A part menti sűrű erdőkben erdei elefántok, bivalyok és különféle főemlősök élnek, amelyek gyakran merészkednek le a vízhez. A tó körüli vegetáció mocsári erdőkből és dús lianákból áll, ami ideális fészkelőhely a vízi madarak számára is. Az Azingo-tó geológiai eredete az Ogooué-medence ősi folyómedreinek és süllyedékeinek maradványa. Mivel a tó nehezen megközelíthető, megőrizte ősi állapotát, így a kutatók számára fontos viszonyítási pont a trópusi tavak tanulmányozásában. A természetbarátok számára az Azingo az abszolút csend és a háborítatlan vadon birodalma.",
+        "ro": "Lacul Azingo este situat la nord de fluviul Ogooué, în vestul Gabonului, făcând parte din vastul sistem lacustru al provinciei Moyen-Ogooué. Acest lac este caracterizat prin amplasarea sa izolată în mijlocul pădurilor tropicale virgine, ceea ce îl transformă într-o rezervație naturală de mare valoare. La fel ca lacurile vecine, Azingo este conectat prin canale înguste cu Ogooué, asigurând o hidrologie dinamică și un transport natural de specii acvatice. Lacul este un punct fierbinte pentru biodiversitatea acvatică, adăpostind numeroase specii de pești esențiale pentru ecosistem și pentru securitatea alimentară locală. Una dintre cele mai remarcabile caracteristici ecologice este prezența lamantinului african, care găsește în apele liniștite ale lacului Azingo un habitat sigur. De-a lungul malurilor, pot fi observați frecvent elefanți de pădure și bivoli care vin să se adape. Vegetația densă de pe maluri constă într-un amestec de păduri mlăștinoase și liane, care oferă habitat pentru o varietate de specii de maimuțe. Din punct de vedere geologic, lacul este o relicvă a vechilor cursuri de apă ale bazinului Ogooué. Pentru cercetarea științifică, Azingo oferă posibilitatea de a studia un sistem lacustru tropical în mare parte neperturbat. În ciuda frumuseții sale naturale, accesul la lac este dificil, fapt care a contribuit la conservarea stării sale primordiale.",
+        "en": "Lake Azingo is situated north of the Ogooué River in western Gabon and is an integral part of the extensive lake system in the Moyen-Ogooué province. This lake is characterized by its secluded location amidst pristine rainforests, making it a valuable natural reserve. Like its neighboring lakes, Azingo is connected to the Ogooué via narrow channels, ensuring a dynamic hydrology. The lake is a hotspot for aquatic biodiversity, hosting numerous fish species vital to the ecosystem and local food security. One of its most outstanding ecological features is the presence of the West African manatee, which finds a safe habitat in the calm waters of Lake Azingo. Along the shores, visitors can often observe forest elephants and buffalos coming to drink. The dense shoreline vegetation consists of a mix of swamp forests and vines, providing habitats for a variety of primate species. Geologically, the lake is a remnant of ancient river courses and depressions within the Ogooué basin. For scientific research, Azingo offers the chance to study a largely undisturbed tropical lake system. Despite its natural beauty, the lake remains difficult to access, which has helped preserve its primordial state, far from the pressures of modern development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Azingo gehört zum Seensystem des Mittleren Ogooué.",
+          "Er ist einer der besten Orte zur Beobachtung des Westafrikanischen Manatis.",
+          "Der See ist von nahezu unberührtem tropischem Regenwald umgeben.",
+          "Die Anreise erfolgt meist per Boot durch schmale, verwundene Kanäle.",
+          "Elefantenpfade führen direkt aus dem Dschungel an das Seeufer.",
+          "Der See ist ein wichtiger Rückzugsort für das seltene Panzerkrokodil."
+        ],
+        "hu": [
+          "Az Azingo-tó vize híres a tisztaságáról és magas oxigéntartalmáról.",
+          "A tó az UNESCO által védett vizes élőhelyek közé tartozik.",
+          "A területen tilos a motoros csónakok használata a csend megőrzése érdekében.",
+          "A part menti erdőkben jelentős csimpánzpopuláció él.",
+          "Az Azingo név a helyi nyelvjárásban 'távoli vizet' jelent.",
+          "A tó mélysége helyenként meghaladja a 10 métert."
+        ],
+        "ro": [
+          "Lacul Azingo este situat la nord-vest de orașul Lambaréné.",
+          "Reprezintă o zonă importantă de reproducere pentru păsările acvatice.",
+          "Pescuitul comercial este strict reglementat pentru a proteja lamantinii.",
+          "Malurile sale sunt compuse din soluri aluvionare fertile.",
+          "Este considerat unul dintre cele mai pitorești lacuri din Gabon.",
+          "Biodiversitatea sa include peste 50 de specii de pești de apă dulce."
+        ],
+        "en": [
+          "Lake Azingo is part of the Ogooué's complex hydrological system.",
+          "It is a key site for the conservation of the African manatee.",
+          "The lake is surrounded by primary rainforest with minimal human impact.",
+          "It acts as a critical freshwater reservoir during the dry season.",
+          "Access to the lake is a journey through dense, vine-covered channels.",
+          "It supports unique flora, including rare aquatic orchids."
+        ]
+      }
+    },
+    {
+      "id": "lake-mandje-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mandjé-See ist ein verstecktes Juwel innerhalb des ausgedehnten Seensystems der Provinz Moyen-Ogooué in Zentral-Gabun. Er ist Teil eines komplexen Feuchtgebietes, das durch den Ogooué-Fluss gespeist wird und sich durch eine besonders ruhige und ungestörte Atmosphäre auszeichnet. Geografisch liegt der See in einer flachen Beckenstruktur, die von dichten Galeriewäldern und sumpfigen Graslandschaften umgeben ist. Diese Landschaften bilden einen idealen Lebensraum für eine Vielzahl von Wasservögeln, darunter Seeadler, Reiher und Eisvögel, was den Mandjé-See zu einem wichtigen Ziel für Ornithologen macht. Der See beherbergt zudem bedeutende Bestände an Süßwasserfischen, die für das ökologische Gleichgewicht des Deltas von zentraler Bedeutung sind. Eine Besonderheit des Mandjé-Sees ist die hohe Dichte an aquatischer Vegetation, die als Versteck für Jungfische und als Nahrungsquelle für das Westafrikanische Manati dient. Trotz seiner ökologischen Bedeutung ist der See touristisch kaum erschlossen, was den Besuchern ein authentisches Erlebnis der gabunischen Wildnis bietet. Der See dient auch als natürlicher Filter für das Wasser des Ogooué-Beckens. Die lokale Bevölkerung nutzt den See für eine nachhaltige Subsistenzfischerei, die im Einklang mit den natürlichen Zyklen des Gewässers steht. Die Erhaltung des Mandjé-Sees ist ein wichtiger Bestandteil der nationalen Strategie zum Schutz der Feuchtgebiete Gabuns, um die Biodiversität dieses einzigartigen Ökosystems für zukünftige Generationen zu bewahren.",
+        "hu": "A Mandjé-tó Gabon középső részén, a Moyen-Ogooué tartomány tórendszerének egyik kevésbé ismert, de ökológiailag annál értékesebb tagja. A tó egy kiterjedt vizes élőhely része, amelyet az Ogooué-folyó táplál, és amelyet különösen nyugodt, háborítatlan környezet jellemez. Földrajzi szempontból a tó egy lapos medencében fekszik, amelyet sűrű galériaerdők és mocsaras rétek öveznek. Ez a táj ideális fészkelő- és táplálkozóhely számos vízimadár számára, beleértve a halászsasokat, kócsagokat és jégmadarakat, így a Mandjé-tó az ornitológusok egyik kedvelt célpontja. A tó édesvízi halállománya kiemelkedő, ami kulcsfontosságú a delta ökológiai egyensúlyának fenntartásához. A Mandjé-tó egyik jellegzetessége a sűrű vízi növényzet, amely búvóhelyet nyújt az ivadékoknak és táplálékot biztosít a ritka afrikai manátuszoknak. Annak ellenére, hogy ökológiai jelentősége nagy, a tó turisztikailag szinte teljesen kiaknázatlan, ami garantálja az autentikus vadon élményét az idelátogatók számára. A tó természetes szűrőként is funkcionál az Ogooué-medence vízrendszerében. A helyi lakosság fenntartható módon halászik a tavon, tiszteletben tartva a víz természetes ciklusait. A Mandjé-tó megőrzése a gaboni vizes élőhelyek védelmét célzó nemzeti stratégia fontos része, biztosítva ezen egyedi ökoszisztéma fennmaradását.",
+        "ro": "Lacul Mandjé este o bijuterie ascunsă în cadrul sistemului vast de lacuri din provincia Moyen-Ogooué, în centrul Gabonului. Face parte dintr-o zonă umedă complexă, alimentată de fluviul Ogooué, și se distinge printr-o atmosferă deosebit de calmă și neperturbată. Din punct de vedere geografic, lacul este situat într-o structură de bazin plan, înconjurat de păduri-galerie dense și pajiști mlăștinoase. Aceste peisaje formează un habitat ideal pentru o multitudine de păsări acvatice, inclusiv vulturi pescari, egrete și pescărași, făcând din lacul Mandjé o destinație importantă pentru ornitologi. Lacul adăpostește, de asemenea, stocuri semnificative de pești de apă dulce, care sunt esențiale pentru echilibrul ecologic al deltei. O particularitate a lacului Mandjé este densitatea ridicată a vegetației acvatice, care servește drept ascunzătoare pentru puietul de pește și ca sursă de hrană pentru lamantinul african. În ciuda importanței sale ecologice, lacul este aproape neexploatat din punct de vedere turistic, oferind vizitatorilor o experiență autentică a sălbăticiei gaboneze. Lacul funcționează și ca un filtru natural pentru apele bazinului Ogooué. Populația locală utilizează lacul pentru un pescuit de subzistență durabil, în armonie cu ciclurile naturale ale apei. Conservarea lacului Mandjé este o componentă vitală a strategiei naționale de protecție a zonelor umede din Gabon, menită să păstreze biodiversitatea acestui ecosistem unic pentru generațiile viitoare.",
+        "en": "Lake Mandjé is a hidden gem within the vast lake system of the Moyen-Ogooué province in central Gabon. It is part of a complex wetland network fed by the Ogooué River and is noted for its particularly calm and undisturbed atmosphere. Geographically, the lake is situated in a flat basin structure, surrounded by dense gallery forests and marshy grasslands. These landscapes provide an ideal habitat for a wide variety of waterfowl, including fish eagles, herons, and kingfishers, making Lake Mandjé an important destination for ornithologists. The lake also hosts significant populations of freshwater fish, which are central to the ecological balance of the delta. A unique feature of Lake Mandjé is its high density of aquatic vegetation, which serves as a nursery for juvenile fish and a food source for the West African manatee. Despite its ecological importance, the lake is barely developed for tourism, offering visitors an authentic experience of the Gabonese wilderness. The lake also acts as a natural filter for the waters of the Ogooué basin. Local communities engage in sustainable subsistence fishing that respects the water's natural cycles. Preserving Lake Mandjé is a key part of Gabon’s national strategy for protecting wetlands, ensuring the survival of this unique ecosystem's biodiversity for future generations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mandjé-See ist Teil des UNESCO-Ramsar-Gebiets im Mittleren Ogooué.",
+          "Er ist bekannt für seine hohe Dichte an Eisvögeln und Reihern.",
+          "Die aquatische Flora des Sees ist eine der vielfältigsten in Gabun.",
+          "Der See liegt in einer Region mit extrem geringer menschlicher Besiedlung.",
+          "Manatis nutzen den See als sicheren Rückzugsort während der Trockenzeit.",
+          "Die Wasserqualität des Sees gilt als exzellent."
+        ],
+        "hu": [
+          "A Mandjé-tó az egyik legfontosabb ívóhely a mocsári halak számára.",
+          "A tó partján nincsenek nagyobb települések, csak ideiglenes halásztáborok.",
+          "A vízimadarak diverzitása itt az egyik legmagasabb Közép-Gabonban.",
+          "A tó fontos szerepet játszik a hordalék leülepedésében.",
+          "Az erdőkben ritka orchideafajok találhatók a tó közvetlen közelében.",
+          "A Mandjé-tó vize kristálytiszta az esős évszakon kívül."
+        ],
+        "ro": [
+          "Lacul Mandjé este un sanctuar pentru specii migratoare de păsări din Europa.",
+          "Ecosistemul său este dominat de păduri de mangrove de apă dulce.",
+          "Este unul dintre cele mai puțin poluate lacuri din bazinul Ogooué.",
+          "Localnicii folosesc tehnici de pescuit ancestrale, neinvazive.",
+          "Fauna terestră include sitatunga și numeroase specii de amfibieni.",
+          "Accesul la lac se face prin canale naturale extrem de înguste."
+        ],
+        "en": [
+          "Lake Mandjé is a critical component of the Moyen-Ogooué wetland complex.",
+          "It acts as a vital refuge for diverse species of African kingfishers.",
+          "The lake's floating vegetation provides a unique ecosystem for invertebrates.",
+          "It remains one of the most pristine freshwater bodies in Central Africa.",
+          "The lake supports the seasonal migration patterns of local fish species.",
+          "Conservation focuses on maintaining its status as a high-biodiversity site."
+        ]
+      }
+    }
+  ]
+}

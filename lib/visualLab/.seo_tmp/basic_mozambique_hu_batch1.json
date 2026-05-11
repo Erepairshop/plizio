@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "description": "A Bazaruto-szigetcsoport egy tengeri rezervátum érintetlen korallzátonyokkal, delfinekkel és dugongokkal.",
+      "facts": ["Tengeri rezervátum", "Korallzátonyok", "Delfinek és dugongok"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "A Quirimbas-szigetcsoport történelmi szigeteiről, érintetlen strandjairól és gazdag tengeri élővilágáról ismert.",
+      "facts": ["Történelmi szigetek", "Érintetlen strandok", "Tengeri biodiverzitás"]
+    },
+    {
+      "id": "maputo-special-reserve-life-v2",
+      "description": "A Maputo Különleges Rezervátum a vadon élő állatok védelmére szolgál, különösen az elefántok és tengeri teknősök számára.",
+      "facts": ["Vadvédelmi terület", "Elefántok", "Tengeri teknősök"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "A Zinave Nemzeti Park fontos vadvédelmi terület Dél-Mozambikban, elefántpopulációjáról ismert.",
+      "facts": ["Vadvédelmi terület", "Elefántpopuláció", "Dél-Mozambik"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "A Pomene Természetvédelmi Terület érintetlen strandokat, mangrove erdőket és gazdag víz alatti világot kínál.",
+      "facts": ["Érintetlen strandok", "Mangrove erdők", "Víz alatti világ"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "A Nampula régió fontos mezőgazdasági központ, pamut, kesudió és kukorica termesztéséről ismert.",
+      "facts": ["Mezőgazdasági központ", "Pamut", "Kesudió és kukorica"]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "description": "Zambézia kulcsfontosságú cukortermelő régió, kiterjedt ültetvényei jelentősen hozzájárulnak Mozambik gazdaságához.",
+      "facts": ["Cukortermelés", "Kiterjedt ültetvények", "Zambézia"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "Manica kávétermő területei kiváló minőségű kávét termelnek, a hűvösebb hegyvidéki éghajlaton virágoznak.",
+      "facts": ["Kiváló minőségű kávé", "Manica", "Hegyvidéki éghajlat"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "Niassa a dohánytermesztésről ismert, amely jelentős jövedelemforrás a helyi lakosság számára.",
+      "facts": ["Dohánytermesztés", "Niassa", "Jövedelemforrás"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "A Maputo Botanikus Kert egy zöld oázis a városban, trópusi növények sokféleségét mutatja be.",
+      "facts": ["Botanikus kert", "Maputo", "Trópusi növények"]
+    },
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "A Beira Tengeri Park védi a part menti vizeket és mangrove erdőket, gazdag tengeri élővilágnak nyújtva élőhelyet.",
+      "facts": ["Part menti vizek", "Mangrove erdők", "Tengeri élővilág"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "Mozambik szigete, az UNESCO Világörökség része, gazdag történelmet, ősi erődítményeket és vibráló korallzátonyokat kínál.",
+      "facts": ["UNESCO Világörökség", "Ősi erődítmények", "Korallzátonyok"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "Tofo Beach népszerű tengerparti úti cél, híres a búvárkodási lehetőségekről, ahol bálnacápákkal és mantarájákkal lehet találkozni.",
+      "facts": ["Bálnacápák", "Mantaráják", "Búvárkodás"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "A Limpopo Gyermek Állatkert tanulságos élményt nyújt a gyermekeknek a régió vadvilágának felfedezéséhez.",
+      "facts": ["Vadvilág", "Limpopo", "Tanulságos élmény"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "A Maputo Természettudományi Múzeum Mozambik gazdag növény- és állatvilágát mutatja be, beleértve ritka elefántmagzatokat is.",
+      "facts": ["Növény- és állatvilág", "Elefántmagzatok", "Természettudomány"]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bolivia-cordillera-real-relief-v2",
+      "description": "Az Andok leglátványosabb bolíviai hegylánca, amelynek 6000 méter feletti havas csúcsai drámai hátteret biztosítanak La Paz városának.",
+      "facts": ["Mintegy 125 km hosszan húzódik", "Hatalmas gleccserek és tavak jellemzik", "Legmagasabb csúcsa az Illampu"]
+    },
+    {
+      "id": "bolivia-cordillera-occidental-relief-v2",
+      "description": "Az Andok nyugati lánca, amely Bolívia és Chile határán húzódik, sivatagos tájaival és számos kialudt vulkánjával.",
+      "facts": ["Vulkanikus eredetű vonulat", "Itt található az ország legmagasabb pontja", "Rendkívül száraz, kietlen vidék"]
+    },
+    {
+      "id": "bolivia-altiplano-andino-relief-v2",
+      "description": "A világ második legmagasabb fennsíkja az Andok két vonulata között, amely ősi kultúrák bölcsője és Bolívia politikai központja.",
+      "facts": ["Átlagmagassága 3800 méter", "Itt található a Titicaca-tó", "Lefolyástalan vízrajzi rendszer jellemzi"]
+    },
+    {
+      "id": "bolivia-llanos-de-moxos-relief-v2",
+      "description": "Hatalmas trópusi síkság és vizes élőhely Bolívia északi részén, amely híres ősi, mesterséges dombjairól és csatornarendszereiről.",
+      "facts": ["Az Amazonas-medence része", "Időszakos árvizek jellemzik", "Prekolumbiánus tájgazdálkodás nyomai"]
+    },
+    {
+      "id": "bolivia-bosque-seco-chiquitano-relief-v2",
+      "description": "Egyedülálló trópusi száraz erdő Bolívia keleti részén, amely az Amazonas és a Chaco régiók között alkot ökológiai átmenetet.",
+      "facts": ["A világ legnagyobb száraz erdője", "Gazdag és különleges biológiai sokféleség", "Hosszú, száraz időszakok jellemzik"]
+    },
+    {
+      "id": "bolivia-cerro-zapaleri-relief-v2",
+      "description": "Vulkanikus hegycsúcs az Andok déli részén, amely Bolívia, Chile és Argentína hármas határpontját jelöli.",
+      "facts": ["Magassága 5653 méter", "Fontos geodéziai és politikai pont", "Az Eduardo Avaroa Rezervátum területén van"]
+    },
+    {
+      "id": "bolivia-meseta-de-caparu-relief-v2",
+      "description": "Hatalmas, elszigetelt homokkő táblahegy Bolívia északkeleti részén, amely érintetlen ökoszisztémájáról és látványos vízeséseiről nevezetes.",
+      "facts": ["Tepui típusú formáció", "A Noel Kempff Mercado Nemzeti Park része", "Több mint egymilliárd éves kőzetek"]
+    },
+    {
+      "id": "bolivia-cordillera-de-lipez-relief-v2",
+      "description": "Bolívia legdélebbi és legzordabb hegyvidéke az Andok nyugati ágában, szürreális lagúnákkal és aktív geotermikus területekkel.",
+      "facts": ["Itt található az Uturuncu-vulkán", "Extrém hideg és száraz éghajlat", "Félsivatagi és vulkáni táj"]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"],
+  "items": [
+    {
+      "id": "amilcar-cabral-house-history-v2",
+      "descriptionAdvancedDe": "Das Geburtshaus von Amílcar Cabral in Bafatá ist mehr als nur ein Gebäude; es ist ein Wallfahrtsort für diejenigen, die die Wurzeln des Unabhängigkeitskampfes von Guinea-Bissau und Kap Verde verstehen möchten. Das 1924 in diesem bescheidenen Haus geborene Cabral wurde zum intellektuellen und politischen Führer der PAIGC. Das heute als Museum dienende Haus gibt Einblicke in sein frühes Leben und das Umfeld, das seine revolutionären Ideen prägte. Besucher finden eine Sammlung persönlicher Gegenstände, Fotos und Dokumente, die nicht nur die Geschichte eines Mannes, sondern die eines ganzen Befreiungsprozesses erzählen, der die politische Landkarte Westafrikas nachhaltig veränderte.",
+      "descriptionAdvancedHu": "Amílcar Cabral szülőháza Bafátában nem csupán egy épület; zarándokhely azok számára, akik meg akarják érteni Bissau-Guinea és a Zöld-foki Köztársaság függetlenségi harcának gyökereit. Az 1924-ben ebben a szerény házban született Cabral a PAIGC intellektuális és politikai vezetőjévé vált. A ma múzeumként működő ház bepillantást nyújt korai életébe és abba a környezetbe, amely forradalmi eszméit formálta. A látogatók személyes tárgyakból, fényképekből és dokumentumokból álló gyűjteményt találnak, amely nemcsak egy ember történetét meséli el, hanem egy egész felszabadítási folyamatét, amely tartósan megváltoztatta Nyugat-Afrika politikai térképét.",
+      "descriptionAdvancedRo": "Casa natală a lui Amílcar Cabral din Bafatá este mai mult decât o simplă clădire; este un loc de pelerinaj pentru cei care doresc să înțeleagă rădăcinile luptei pentru independență din Guineea-Bissau și Capul Verde. Născut în 1924 în această casă modestă, Cabral a devenit liderul intelectual și politic al PAIGC. Casa, care astăzi servește drept muzeu, oferă o perspectivă asupra vieții sale timpurii și a mediului care i-a modelat ideile revoluționare. Vizitatorii găsesc o colecție de obiecte personale, fotografii și documente care spun nu doar povestea unui om, ci a unui întreg proces de eliberare ce a schimbat durabil harta politică a Africii de Vest.",
+      "descriptionAdvancedEn": "Amílcar Cabral's birthplace in Bafatá is more than just a building; it is a pilgrimage site for those who wish to understand the roots of the independence struggle of Guinea-Bissau and Cape Verde. Born in this modest house in 1924, Cabral became the intellectual and political leader of the PAIGC. The house, now a museum, offers insights into his early life and the environment that shaped his revolutionary ideas. Visitors will find a collection of personal items, photographs, and documents that tell not only the story of one man, but of an entire liberation process that permanently changed the political map of West Africa.",
+      "factsAdvanced": [
+        "Geburtsjahr von Amílcar Cabral: 1924.",
+        "Das Haus wurde in ein Museum umgewandelt.",
+        "Standort in der zweitgrößten Stadt, Bafatá.",
+        "Sammlung von persönlichen Artefakten Cabrals.",
+        "Symbol für den Beginn des Befreiungskampfes.",
+        "Architektonisch ein typisches Kolonialhaus.",
+        "Wichtige Station für das historische Gedächtnis des Landes."
+      ]
+    },
+    {
+      "id": "bolama-governor-palace-history-v2",
+      "descriptionAdvancedDe": "Die Ruinen des Gouverneurspalastes auf der Insel Bolama sind ein melancholisches Symbol für eine vergangene Ära. Bolama war von 1879 bis 1941 die Hauptstadt von Portugiesisch-Guinea, und der Palast war das prächtige Zentrum der Kolonialverwaltung. Seine neoklassizistische Architektur, obwohl jetzt von tropischer Vegetation überwuchert, zeugt noch immer von der einstigen Macht und dem Prestige. Der Verfall des Palastes spiegelt den wirtschaftlichen Niedergang der Insel wider, nachdem die Hauptstadt nach Bissau verlegt wurde. Heute sind die Ruinen ein faszinierender, fast poetischer Ort, der zum Nachdenken über die Vergänglichkeit von Macht und die Spuren der Geschichte anregt.",
+      "descriptionAdvancedHu": "A kormányzói palota romjai Bolama szigetén egy letűnt korszak melankolikus szimbólumai. Bolama 1879 és 1941 között Portugál-Guinea fővárosa volt, és a palota a gyarmati közigazgatás pompás központja volt. Neoklasszicista építészete, bár ma már trópusi növényzet borítja, még mindig tanúskodik egykori hatalmáról és presztízséről. A palota pusztulása a sziget gazdasági hanyatlását tükrözi, miután a fővárost Bissauba helyezték át. Ma a romok egy lenyűgöző, szinte költői helyszínt jelentenek, amely elgondolkodtat a hatalom mulandóságáról és a történelem nyomairól.",
+      "descriptionAdvancedRo": "Ruinele Palatului Guvernatorului de pe insula Bolama sunt un simbol melancolic al unei ere apuse. Bolama a fost capitala Guineei Portugheze între 1879 și 1941, iar palatul era centrul splendid al administrației coloniale. Arhitectura sa neoclasică, deși acum acoperită de vegetație tropicală, încă mărturisește puterea și prestigiul de odinioară. Decăderea palatului reflectă declinul economic al insulei după mutarea capitalei la Bissau. Astăzi, ruinele sunt un loc fascinant, aproape poetic, care invită la reflecție asupra efemerității puterii și a urmelor istoriei.",
+      "descriptionAdvancedEn": "The ruins of the Governor's Palace on Bolama Island are a melancholic symbol of a bygone era. Bolama was the capital of Portuguese Guinea from 1879 to 1941, and the palace was the splendid center of colonial administration. Its neoclassical architecture, though now overgrown with tropical vegetation, still testifies to its former power and prestige. The decay of the palace reflects the economic decline of the island after the capital was moved to Bissau. Today, the ruins are a fascinating, almost poetic place that encourages reflection on the transience of power and the traces of history.",
+      "factsAdvanced": [
+        "Bolama war Hauptstadt von 1879 bis 1941.",
+        "Architekturstil: Neoklassizismus.",
+        "Der Palast wurde nach 1941 dem Verfall preisgegeben.",
+        "Einstiger Sitz des portugiesischen Gouverneurs.",
+        "Symbol für den Aufstieg und Fall Bolamas.",
+        "Die Ruinen stehen auf der UNESCO-Vorschlagsliste.",
+        "Heute von üppiger tropischer Vegetation überwuchert."
+      ]
+    },
+    {
+      "id": "madina-boe-site-history-v2",
+      "descriptionAdvancedDe": "Madina do Boé ist ein Name, der in der Geschichte Guinea-Bissaus eine immense Bedeutung hat. An diesem abgelegenen Ort, tief im Südosten des Landes, versammelten sich am 24. September 1973 die Führer der PAIGC, um einseitig die Unabhängigkeit von Portugal zu erklären. Diese mutige Handlung, noch während der Krieg andauerte, schuf eine neue politische Realität und mobilisierte internationale Unterstützung. Die Wahl dieses Ortes, weit entfernt von den portugiesischen Hauptstützpunkten, war strategisch. Heute befindet sich hier ein Denkmal, das an diesen entscheidenden Moment erinnert, den symbolischen Geburtsort des modernen Staates Guinea-Bissau, lange bevor die Unabhängigkeit international anerkannt wurde.",
+      "descriptionAdvancedHu": "Madina do Boé egy olyan név, amely óriási jelentőséggel bír Bissau-Guinea történetében. Ezen a távoli helyen, az ország délkeleti részének mélyén, 1973. szeptember 24-én gyűltek össze a PAIGC vezetői, hogy egyoldalúan kikiáltsák a függetlenséget Portugáliától. Ez a bátor cselekedet, még a háború alatt, új politikai valóságot teremtett és nemzetközi támogatást mozgósított. A helyszín kiválasztása, távol a portugál fő támaszpontoktól, stratégiai jelentőségű volt. Ma egy emlékmű áll itt, amely erre a döntő pillanatra emlékeztet, a modern Bissau-Guinea állam szimbolikus szülőhelyére, jóval azelőtt, hogy a függetlenséget nemzetközileg elismerték volna.",
+      "descriptionAdvancedRo": "Madina do Boé este un nume cu o importanță imensă în istoria Guineei-Bissau. În acest loc izolat, adânc în sud-estul țării, liderii PAIGC s-au adunat la 24 septembrie 1973 pentru a declara unilateral independența față de Portugalia. Acest act curajos, realizat în timp ce războiul era încă în desfășurare, a creat o nouă realitate politică și a mobilizat sprijin internațional. Alegerea acestui loc, departe de principalele baze portugheze, a fost strategică. Astăzi, aici se află un monument care comemorează acest moment crucial, locul de naștere simbolic al statului modern Guineea-Bissau, cu mult înainte ca independența să fie recunoscută la nivel internațional.",
+      "descriptionAdvancedEn": "Madina do Boé is a name that holds immense significance in the history of Guinea-Bissau. In this remote location, deep in the country's southeast, the leaders of the PAIGC gathered on September 24, 1973, to unilaterally declare independence from Portugal. This bold act, carried out while the war was still ongoing, created a new political reality and mobilized international support. The choice of this location, far from the main Portuguese bases, was strategic. Today, a monument stands here, commemorating this decisive moment, the symbolic birthplace of the modern state of Guinea-Bissau, long before its independence was internationally recognized.",
+      "factsAdvanced": [
+        "Unabhängigkeitserklärung am 24. September 1973.",
+        "Erste Nationalversammlung der PAIGC fand hier statt.",
+        "Die Region Boé war eine befreite Zone im Krieg.",
+        "Die Erklärung erfolgte vor der Nelkenrevolution in Portugal.",
+        "Symbol für den politischen Willen zur Souveränität.",
+        "Jährliche nationale Feierlichkeiten finden hier statt.",
+        "Der Ort liegt in einer hügeligen, schwer zugänglichen Region."
+      ]
+    },
+    {
+      "id": "guiledje-military-museum-history-v2",
+      "descriptionAdvancedDe": "Die ehemalige Militärbasis von Guiledje im Süden des Landes ist ein eindringliches Zeugnis der Härte des Befreiungskrieges (1963-1974). Als wichtiger Stützpunkt der portugiesischen Armee war sie jahrelang von den PAIGC-Guerillas belagert. Die Einnahme von Guiledje im Jahr 1973 war ein entscheidender Sieg für die Befreiungsbewegung und ein Wendepunkt im Krieg. Das heutige Freilichtmuseum zeigt die Überreste der Kämpfe: zurückgelassene Panzer, Artilleriegeschütze und die Ruinen der Kaserne. Es ist ein Ort des Gedenkens, der die militärischen Strategien und den hohen Preis des Kampfes für die Unabhängigkeit Guinea-Bissaus dokumentiert.",
+      "descriptionAdvancedHu": "Az egykori Guiledje katonai bázis az ország déli részén a felszabadító háború (1963-1974) keménységének megrendítő tanúbizonysága. A portugál hadsereg fontos támaszpontjaként évekig a PAIGC gerillái ostromolták. Guiledje 1973-as bevétele döntő győzelem volt a felszabadítási mozgalom számára és fordulópontot jelentett a háborúban. A mai szabadtéri múzeum a harcok maradványait mutatja be: elhagyott tankokat, tüzérségi ágyúkat és a laktanya romjait. Ez egy emlékhely, amely dokumentálja a katonai stratégiákat és a Bissau-Guinea függetlenségéért vívott harc magas árát.",
+      "descriptionAdvancedRo": "Fosta bază militară de la Guiledje, în sudul țării, este o mărturie impresionantă a durității războiului de eliberare (1963-1974). Fiind un punct de sprijin important al armatei portugheze, a fost asediată ani de zile de gherilele PAIGC. Cucerirea Guiledje în 1973 a fost o victorie decisivă pentru mișcarea de eliberare și un punct de cotitură în război. Muzeul în aer liber de astăzi expune rămășițele luptelor: tancuri abandonate, piese de artilerie și ruinele cazărmii. Este un loc de comemorare care documentează strategiile militare și prețul ridicat al luptei pentru independența Guineei-Bissau.",
+      "descriptionAdvancedEn": "The former military base of Guiledje in the south of the country is a poignant testament to the harshness of the liberation war (1963-1974). As an important base for the Portuguese army, it was besieged for years by PAIGC guerrillas. The capture of Guiledje in 1973 was a decisive victory for the liberation movement and a turning point in the war. Today's open-air museum displays the remnants of the fighting: abandoned tanks, artillery pieces, and the ruins of the barracks. It is a place of remembrance that documents the military strategies and the high price of the struggle for Guinea-Bissau's independence.",
+      "factsAdvanced": [
+        "Schauplatz einer entscheidenden Schlacht im Jahr 1973.",
+        "Die Belagerung dauerte mehrere Monate.",
+        "Ausgestellt sind sowjetische T-34 Panzer der PAIGC.",
+        "Die Basis wurde von portugiesischen Kommandos verteidigt.",
+        "Der Fall von Guiledje beschleunigte den Rückzug Portugals.",
+        "Das Museum wurde zur Bewahrung der Kriegsgeschichte gegründet.",
+        "Liegt nahe der Grenze zu Guinea-Conakry."
+      ]
+    }
+  ]
+}

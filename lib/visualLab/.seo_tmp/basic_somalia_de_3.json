@@ -1,0 +1,14 @@
+{
+  "lang": "de",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "golis-northern-slope-nature-v2",
+      "description": "Der nördliche Abhang des Golis-Gebirges zeigt einen steilen Wechsel in der Vegetationszone.",
+      "facts": ["Gebirgsabhang", "Nordküste", "Klimazone"]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "lang": "ro",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kornaka-cities-v2",
+      "description": "Kornaka este un oraș situat în regiunea Maradi din Niger, cunoscut pentru rolul său în comerțul agricol regional.",
+      "facts": ["Situat în regiunea Maradi", "Centru agricol local", "Populație predominant rurală"]
+    },
+    {
+      "id": "tahoua-zoo-life-v2",
+      "description": "Parcul zoologic din Tahoua oferă o privire asupra faunei locale din regiunea Sahel, fiind un punct important de atracție pentru vizitatori.",
+      "facts": ["Situat în orașul Tahoua", "Faună specifică regiunii Sahel", "Punct de educație ecologică"]
+    },
+    {
+      "id": "maradi-kids-life-v2",
+      "description": "Zonele destinate copiilor din Maradi sunt centre comunitare esențiale pentru activități recreative și educaționale în al doilea oraș ca mărime din Niger.",
+      "facts": ["Situat în Maradi", "Activități recreative pentru copii", "Centru comunitar"]
+    },
+    {
+      "id": "gaya-bird-life-v2",
+      "description": "Gaya este un punct strategic pentru observarea păsărilor migratoare, datorită apropierii de râul Niger și a zonelor umede protejate.",
+      "facts": ["Zona umedă lângă râul Niger", "Habitat pentru păsări migratoare", "Regiune cu biodiversitate bogată"]
+    },
+    {
+      "id": "tessaoua-agri-life-v2",
+      "description": "Tessaoua este recunoscută pentru activitățile agricole intense, concentrându-se în special pe cultivarea cerealelor esențiale pentru economia locală.",
+      "facts": ["Centru agricol important", "Cultivarea cerealelor", "Economie bazată pe agricultură"]
+    },
+    {
+      "id": "madaoua-agri-life-v2",
+      "description": "Orașul Madaoua servește ca un hub agricol vital în Niger, susținând producția locală de culturi alimentare în mediul arid.",
+      "facts": ["Hub agricol regional", "Producție de culturi alimentare", "Situat în zona de tranziție"]
+    },
+    {
+      "id": "tera-bird-life-v2",
+      "description": "Tera oferă un habitat natural divers, fiind un loc propice pentru observarea avifaunei locale din vestul Nigerului.",
+      "facts": ["Situat în vestul Nigerului", "Observarea păsărilor", "Biodiversitate variată"]
+    },
+    {
+      "id": "kollo-mango-life-v2",
+      "description": "Regiunea Kollo este cunoscută pentru livezile sale, având condiții favorabile pentru cultivarea diverselor tipuri de fructe, inclusiv mango.",
+      "facts": ["Producție de fructe", "Livezi de mango", "Agricultură locală"]
+    },
+    {
+      "id": "say-river-life-v2",
+      "description": "Say, situat pe malul râului Niger, este un centru unde viața comunitară este strâns legată de resursele acvatice și pescuit.",
+      "facts": ["Situat pe râul Niger", "Activități de pescuit", "Importanță istorică locală"]
+    },
+    {
+      "id": "nga-fishing-life-v2",
+      "description": "Zonele de pescuit din jurul orașului N'Gourti reprezintă o sursă importantă de subzistență pentru populația locală din estul țării.",
+      "facts": ["Pescuit de subzistență", "Situat în estul Nigerului", "Resurse acvatice locale"]
+    },
+    {
+      "id": "magaria-agri-life-v2",
+      "description": "Magaria este un centru agricol activ, unde cultivarea legumelor și a altor culturi sezoniere joacă un rol esențial în viața economică.",
+      "facts": ["Centru agricol local", "Cultivarea legumelor", "Economie bazată pe piața locală"]
+    },
+    {
+      "id": "mayahi-agri-life-v2",
+      "description": "Mayahi se concentrează pe dezvoltarea agriculturii de subzistență, fiind un nod important pentru fermierii din regiunea Maradi.",
+      "facts": ["Agricultură de subzistență", "Regiunea Maradi", "Punct de colectare agricolă"]
+    },
+    {
+      "id": "gaya-agri-life-v2",
+      "description": "Activitățile agricole din Gaya beneficiază de fertilitatea solurilor din valea râului Niger, fiind o zonă cu potențial agricol ridicat.",
+      "facts": ["Agricultură pe valea râului Niger", "Soluri fertile", "Diversitate agricolă"]
+    },
+    {
+      "id": "maradi-kids-park-life-v2",
+      "description": "Parcul de joacă din Maradi este o destinație populară pentru recreerea copiilor, oferind un spațiu sigur pentru activități în aer liber.",
+      "facts": ["Situat în Maradi", "Spațiu recreativ", "Destinație pentru copii"]
+    },
+    {
+      "id": "diffa-frucht-life-v2",
+      "description": "Diffa este o regiune agricolă distinctă, unde condițiile locale permit cultivarea unor soiuri de fructe rezistente la mediul semiarid.",
+      "facts": ["Situat în estul Nigerului", "Cultivarea fructelor", "Adaptare la mediu semiarid"]
+    },
+    {
+      "id": "massif-iférouane-nature-v2",
+      "description": "Masivul Iférouane face parte din peisajul stâncos al munților Aïr, oferind formațiuni geologice spectaculoase în nordul Nigerului.",
+      "facts": ["Situat în munții Aïr", "Peisaj montan stâncos", "Formațiuni geologice"]
+    },
+    {
+      "id": "plateau-tchigai-relief-v2",
+      "description": "Podișul Tchigai este o formațiune geologică aridă situată în nord-estul Nigerului, caracterizată prin platouri întinse și peisaje de deșert.",
+      "facts": ["Regiunea nord-estică", "Podiș arid", "Peisaj deșertic"]
+    },
+    {
+      "id": "dallol-maouri-relief-v2",
+      "description": "Dallol Maouri este o vale fosilă impresionantă, care joacă un rol important în peisajul hidrografic și agricol din sud-vestul țării.",
+      "facts": ["Vale fosilă", "Sud-vestul Nigerului", "Importanță hidrografică"]
+    },
+    {
+      "id": "koutous-relief-v2",
+      "description": "Masivul Koutous reprezintă o zonă cu relief accidentat, fiind un punct de referință geografic important în estul Nigerului.",
+      "facts": ["Relief accidentat", "Estul Nigerului", "Punct de referință"]
+    },
+    {
+      "id": "gourma-lowland-relief-v2",
+      "description": "Regiunea joasă Gourma este caracterizată prin câmpii extinse și o biodiversitate adaptată la condițiile climatice din zona de graniță.",
+      "facts": ["Regiune de câmpie", "Biodiversitate specifică", "Zonă de frontieră"]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "description": "Stâncile Kawar sunt formațiuni geologice impresionante situate în inima deșertului Sahara, fiind un punct istoric pe rutele comerciale transsahariene.",
+      "facts": ["Formațiuni stâncoase", "Deșertul Sahara", "Rute comerciale istorice"]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "description": "Dealul Fachi domină peisajul din oaza cu același nume, oferind o priveliște asupra întinderilor de nisip din Sahara.",
+      "facts": ["Situat lângă oaza Fachi", "Deșertul Sahara", "Punct de observație"]
+    }
+  ]
+}

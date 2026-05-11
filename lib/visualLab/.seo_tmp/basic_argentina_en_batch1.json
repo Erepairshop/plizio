@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-b-la-plata-cities-v2",
+      "description": "The capital of Buenos Aires Province, La Plata is a planned city famous for its unique grid layout and neo-Gothic cathedral.",
+      "facts": ["Planned city founded in 1882", "Home to the Curutchet House by Le Corbusier", "Features one of the largest cathedrals in South America"]
+    },
+    {
+      "id": "ar-b-mar-del-plata-cities-v2",
+      "description": "Argentina's premier seaside resort on the Atlantic coast, known for its beautiful beaches, vibrant nightlife, and grand casino.",
+      "facts": ["Major fishing port on the Atlantic", "Host of an international film festival", "Known for its distinctive Belle Époque architecture"]
+    },
+    {
+      "id": "ar-b-bahia-blanca-cities-v2",
+      "description": "An important port city and industrial hub in the south of Buenos Aires Province, acting as a gateway to the Patagonian region.",
+      "facts": ["Deep-water port on the Atlantic Ocean", "Major center for the petrochemical industry", "Known for its strong basketball tradition"]
+    },
+    {
+      "id": "ar-b-tandil-cities-v2",
+      "description": "A charming city located in the ancient Tandilia hills, famous for its scenic landscapes and the historic 'moving stone'.",
+      "facts": ["Surrounded by one of the world's oldest mountain ranges", "Renowned for its production of artisanal cheeses and salamis", "Popular destination for trekking and outdoor activities"]
+    },
+    {
+      "id": "ar-b-lomas-de-zamora-cities-v2",
+      "description": "A large residential and commercial city within the Greater Buenos Aires metropolitan area, featuring historic architecture and parks.",
+      "facts": ["Significant railway hub in the southern suburbs", "Home to the historic Lomas Athletic Club", "Part of a key industrial corridor"]
+    },
+    {
+      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+      "description": "Located on the banks of the Paraná River, this city is a major industrial center and a significant religious pilgrimage site.",
+      "facts": ["Home to the Sanctuary of Our Lady of the Rosary", "Site of a major steel manufacturing plant", "Played a key role in the 1853 Constitution agreement"]
+    },
+    {
+      "id": "ar-b-lanus-cities-v2",
+      "description": "A bustling industrial and residential city in Greater Buenos Aires, known for its strong community identity and sports passion.",
+      "facts": ["Major center for the leather and textile industries", "Home to the prominent Club Atlético Lanús", "Densely populated urban area near the capital"]
+    },
+    {
+      "id": "ar-k-catamarca-cities-v2",
+      "description": "Formally San Fernando del Valle de Catamarca, this city sits in a mountain valley and is known for its colonial architecture and weaving.",
+      "facts": ["Capital of the Catamarca Province", "Famed for the Virgin of the Valley sanctuary", "Center for traditional hand-woven poncho production"]
+    },
+    {
+      "id": "ar-k-belen-cities-v2",
+      "description": "Known as the 'Cradle of the Poncho', Belén is a historic town in Catamarca surrounded by rugged mountain scenery.",
+      "facts": ["Famous for high-quality vicuña and llama wool textiles", "Founded in 1681 in the Belén Valley", "Strategic stop on the legendary Route 40"]
+    },
+    {
+      "id": "ar-k-andalgala-cities-v2",
+      "description": "A picturesque town located at the foot of the Aconquija mountains, known for its mining history and agricultural production.",
+      "facts": ["Center for rhodochrosite gemstone mining", "Major producer of walnuts and olives", "Located near the scenic Cuesta de la Chilca"]
+    },
+    {
+      "id": "ar-h-resistencia-cities-v2",
+      "description": "The capital of Chaco Province, Resistencia is celebrated as the 'City of Sculptures' with hundreds of artworks displayed on its streets.",
+      "facts": ["Hosts the International Sculpture Biennial", "Major cultural and economic hub of the Chaco region", "Known for its extensive urban forest and parks"]
+    },
+    {
+      "id": "ar-h-presidencia-roque-saenz-pena-cities-v2",
+      "description": "The second-largest city in Chaco, known for its thermal baths and as a central hub for the regional cotton industry.",
+      "facts": ["Home to the popular Termas de Sáenz Peña", "Nicknamed the 'Cotton Capital' of Argentina", "Features a prominent zoo and botanical garden"]
+    },
+    {
+      "id": "ar-h-villa-angela-cities-v2",
+      "description": "A key commercial city in the southwest of Chaco Province, known for its agriculture and vibrant carnival celebrations.",
+      "facts": ["Major center for sunflower and cotton production", "Famous for its energetic annual carnival parades", "Important logistical hub for the southern Chaco"]
+    },
+    {
+      "id": "ar-u-rawson-cities-v2",
+      "description": "The administrative capital of Chubut Province, located near the Atlantic coast where the Chubut River meets the sea.",
+      "facts": ["Founded by Welsh settlers in 1865", "Home to the provincial government offices", "Located near the Playa Unión beach resort"]
+    },
+    {
+      "id": "ar-u-comodoro-rivadavia-cities-v2",
+      "description": "The largest city in Chubut, Comodoro Rivadavia is a vital industrial center known for its oil production and coastal winds.",
+      "facts": ["The birthplace of the Argentine oil industry", "Strategic port on the San Jorge Gulf", "Surrounded by the iconic Chenque Hill"]
+    }
+  ]
+}

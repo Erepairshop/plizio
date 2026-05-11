@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-yerette-life-v2",
+      "description": "Yerette egy különleges kolibri-menedékhely, ahol több tucat fajt figyelhetnek meg a látogatók természetes környezetükben. A helyszín a sziget gazdag biodiverzitásának szimbóluma.",
+      "facts": ["Kolibri-menedékhely", "Biodiverzitás", "Természetes élőhely"]
+    },
+    {
+      "id": "tt-central-range-cocoa-life-v2",
+      "description": "A Central Range területén található kakaóültetvények az ország hagyományos mezőgazdaságának részét képezik. A kiváló minőségű kakaó nemzetközi elismerésnek örvend.",
+      "facts": ["Kakaóültetvények", "Mezőgazdasági örökség", "Kiváló minőség"]
+    },
+    {
+      "id": "tt-aripo-savannas-life-v2",
+      "description": "Az Aripo Szavannák egyedülálló ökoszisztémát képviselnek Trinidad északi részén, amely számos ritka növény- és állatfajnak ad otthont. A védett terület fontos ökológiai kincs.",
+      "facts": ["Egyedülálló ökoszisztéma", "Védett terület", "Ritka élővilág"]
+    },
+    {
+      "id": "tt-nariva-swamp-life-v2",
+      "description": "A Nariva Mocsár a sziget legnagyobb édesvízi vizes élőhelye, amely fontos vándormadár-állomás. A terület természetvédelmi jelentősége kimagasló az egész régióban.",
+      "facts": ["Mocsárvilág", "Vizes élőhely", "Vándormadarak", "Természetvédelem"]
+    },
+    {
+      "id": "tt-bush-bush-sanctuary-life-v2",
+      "description": "A Bush Bush Menedékhely a Nariva Mocsár védett magterülete, ahol zavartalanul élhetnek a trópusi fajok. A nehezen megközelíthető vidék az érintetlen természet otthona.",
+      "facts": ["Menedékhely", "Érintetlen természet", "Trópusi élővilág"]
+    },
+    {
+      "id": "tt-matura-turtle-beach-life-v2",
+      "description": "A Matura teknősvédelmi strand a bőrösteknősök egyik legfontosabb tojásrakóhelye. Az önkéntesek és természetvédők folyamatosan óvják a partvidéket.",
+      "facts": ["Teknősvédelmi strand", "Bőrösteknősök", "Tojásrakóhely"]
+    },
+    {
+      "id": "tt-pigeon-point-life-v2",
+      "description": "A Pigeon Point Tobago leghíresebb üdülőhelye, fehér homokos partjaival és kristálytiszta vizeivel. A terület az élővilág és a turizmus harmóniáját tükrözi.",
+      "facts": ["Tobago üdülőhely", "Homokos part", "Kristálytiszta víz"]
+    },
+    {
+      "id": "tt-buccoo-reef-life-v2",
+      "description": "A Buccoo Reef nemcsak turisztikai látványosság, hanem Tobago tengeri élővilágának egyik legfontosabb menedéke. A zátony körül számtalan hal- és korallfaj él.",
+      "facts": ["Tengeri menedék", "Korallzátony", "Hal- és korallfajok"]
+    },
+    {
+      "id": "tt-nylon-pool-life-v2",
+      "description": "A Nylon Pool egy sekély, kristálytiszta lagúna a tenger közepén, amely az úszók és búvárok kedvenc célpontja. A víz természetes türkiz színe lenyűgöző látványt nyújt.",
+      "facts": ["Sekély lagúna", "Turistacélpont", "Türkiz víz"]
+    },
+    {
+      "id": "tt-little-tobago-bird-sanctuary-life-v2",
+      "description": "Little Tobago szigete egy híres madár-szentély, ahol a ritka tengeri madarakat figyelhetik meg természetes környezetükben. A természetvédelmi terület Tobago egyik kincse.",
+      "facts": ["Madár-szentély", "Tengeri madarak", "Természetvédelem"]
+    }
+  ]
+}

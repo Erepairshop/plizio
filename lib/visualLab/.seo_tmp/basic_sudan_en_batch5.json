@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sudan-national-zoo-life-v2",
+      "description": "A public zoo in Khartoum, serving as a recreational and educational site.",
+      "facts": ["Public zoo", "Khartoum site", "Education", "Recreation"]
+    },
+    {
+      "id": "khartoum-botanic-garden-life-v2",
+      "description": "A tranquil botanical garden showcasing a variety of Sudanese flora.",
+      "facts": ["Botanical garden", "Sudanese flora", "Tranquil space", "Khartoum landmark"]
+    },
+    {
+      "id": "nuba-mountains-grazing-life-v2",
+      "description": "A traditional region for pastoral activity and cattle grazing in the Nuba Mountains.",
+      "facts": ["Pastoral region", "Cattle grazing", "Nuba Mountains", "Traditional life"]
+    },
+    {
+      "id": "sennar-dam-agricultural-life-v2",
+      "description": "An irrigation-based agricultural zone around the Sennar Dam providing local produce.",
+      "facts": ["Agricultural zone", "Sennar Dam", "Irrigation", "Local farming"]
+    },
+    {
+      "id": "suakin-archipelago-life-v2",
+      "description": "A scenic island cluster with traditional fishing practices and coastal heritage.",
+      "facts": ["Island cluster", "Traditional fishing", "Coastal heritage", "Red Sea site"]
+    },
+    {
+      "id": "khartoum-amusement-park-life-v2",
+      "description": "A family-oriented amusement park offering leisure and entertainment in the capital.",
+      "facts": ["Amusement park", "Family leisure", "Entertainment hub", "Khartoum site"]
+    },
+    {
+      "id": "wadi-halfa-fishing-life-v2",
+      "description": "A community-focused area known for traditional Nile fishing and trade.",
+      "facts": ["Nile fishing", "Community life", "Wadi Halfa", "Tradition"]
+    },
+    {
+      "id": "er-roseires-dam-agriculture-life-v2",
+      "description": "A large-scale agricultural area benefiting from the water resources of the Er-Roseires Dam.",
+      "facts": ["Agricultural area", "Water irrigation", "Dam site", "Crop production"]
+    },
+    {
+      "id": "dinder-eco-lodge-life-v2",
+      "description": "A peaceful eco-lodge facility offering nature-oriented accommodation and wildlife viewing.",
+      "facts": ["Eco-lodge", "Wildlife viewing", "Nature accommodation", "Dinder region"]
+    },
+    {
+      "id": "atbara-market-life-v2",
+      "description": "A lively regional market hub famous for local trade and traditional goods.",
+      "facts": ["Regional market", "Local trade", "Traditional goods", "Atbara site"]
+    },
+    {
+      "id": "nuba-mountains-arts-life-v2",
+      "description": "A community cultural center focused on Nuba traditional arts and crafts.",
+      "facts": ["Cultural center", "Nuba arts", "Crafts", "Community life"]
+    }
+  ]
+}

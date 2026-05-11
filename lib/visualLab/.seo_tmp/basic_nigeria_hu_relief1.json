@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "delta-niger-relief-v2",
+      "description": "Nigéria hatalmas, mocsaras folyódeltája, melynek gazdag élővilága és kőolajkészletei meghatározóak.",
+      "facts": ["Afrika legnagyobb deltája", "Gazdag kőolajkészletek", "Sűrű mangrove mocsarak"]
+    },
+    {
+      "id": "mandara-berge-relief-v2",
+      "description": "A Nigéria és Kamerun határán elnyúló hegyvidék látványos, teraszos művelésű táj.",
+      "facts": ["Határ menti hegyvidék", "Teraszos mezőgazdaság", "Vulkáni eredetű kőzetek"]
+    },
+    {
+      "id": "alantika-berge-relief-v2",
+      "description": "Elszigetelt hegyvidéki terület, amely megőrizte hagyományos joruba és egyéb törzsi közösségeit.",
+      "facts": ["Nehezen megközelíthető vidék", "Elszigetelt törzsi kultúrák", "Adamawa állam része"]
+    },
+    {
+      "id": "shere-hills-relief-v2",
+      "description": "A Jos-fennsík legmagasabb pontjai, melyek látványos sziklás formációikkal emelkednek ki.",
+      "facts": ["Jos-fennsík része", "Sziklás hegycsúcsok", "Plateau állam"]
+    },
+    {
+      "id": "kogi-hügel-relief-v2",
+      "description": "A Niger és a Benue folyók találkozásánál fekvő, dombos terület.",
+      "facts": ["Folyók találkozása", "Dombos táj", "Kogi állam"]
+    },
+    {
+      "id": "osun-relief-relief-v2",
+      "description": "Délnyugat-Nigéria dombos vidéke, mely híres termékeny talajáról és trópusi növényzetéről.",
+      "facts": ["Délnyugati dombság", "Termékeny mezőgazdaság", "Osun állam"]
+    },
+    {
+      "id": "cross-river-tal-relief-v2",
+      "description": "Délkelet-Nigéria folyóvölgye, amely fontos trópusi erdőterületeket foglal magában.",
+      "facts": ["Délkeleti folyóvölgy", "Trópusi esőerdők", "Cross River állam"]
+    },
+    {
+      "id": "ondo-relief-relief-v2",
+      "description": "Az Ondo államot jellemző hullámos dombság, amely az agrártermelés egyik központja.",
+      "facts": ["Mezőgazdasági dombság", "Trópusi növénytermesztés", "Ondo állam"]
+    },
+    {
+      "id": "nassarawa-relief-relief-v2",
+      "description": "Közép-Nigéria síkságokkal és alacsonyabb dombokkal tarkított vidéke.",
+      "facts": ["Közép-nigériai táj", "Szavannás dombvidék", "Nassarawa állam"]
+    },
+    {
+      "id": "kaduna-tal-relief-v2",
+      "description": "A Kaduna folyó mentén húzódó völgy, amely fontos közlekedési és agrárövezet.",
+      "facts": ["Folyó menti völgy", "Fontos agrárterület", "Kaduna állam"]
+    }
+  ]
+}

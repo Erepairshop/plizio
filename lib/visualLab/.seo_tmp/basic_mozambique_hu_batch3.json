@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-river-nature-v2",
+      "description": "A Limpopo folyó Dél-Afrika egyik jelentős folyója, Mozambikon keresztül folyik, és létfontosságú ökoszisztémát alkot.",
+      "facts": ["Jelentős folyó", "Dél-Afrika", "Létfontosságú ökoszisztéma"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "A Prímeiras és Segundas szigetek egy védett szigetcsoport érintetlen korallzátonyokkal és mangrove erdőkkel.",
+      "facts": ["Védett szigetcsoport", "Korallzátonyok", "Mangrove erdők"]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "description": "A Maputo-öböl egy nagy természetes kikötő, sokféle tengeri élővilágnak ad otthont, és fontos a helyi halászat számára.",
+      "facts": ["Természetes kikötő", "Sokféle tengeri élővilág", "Helyi halászat"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "A Quirimbas-szigetcsoport egy 32 szigetből álló nemzeti park, érintetlen szépségéről és tengeri biodiverzitásáról ismert.",
+      "facts": ["Nemzeti park", "32 sziget", "Tengeri biodiverzitás"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "A Romué-hegy egy kiemelkedő csúcs Manica tartományban, gazdag növényzettel és ritka madárfajokkal.",
+      "facts": ["Kiemelkedő csúcs", "Manica tartomány", "Ritka madárfajok"]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "description": "A Rovuma folyó alkotja Mozambik és Tanzánia közötti természetes határt, változatos ökoszisztémákat támogatva.",
+      "facts": ["Természetes határ", "Tanzánia", "Változatos ökoszisztémák"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "Inda sziget egy kis sziget Mozambik partjainál, érintetlen strandjairól és vibráló korallzátonyairól ismert.",
+      "facts": ["Érintetlen strandok", "Korallzátonyok", "Parti sziget"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "A Chiuta-tó egy sekély édesvízi tó a Malawi határán, fontos a halászat és a madármegfigyelés szempontjából.",
+      "facts": ["Sekély édesvízi tó", "Malawi határ", "Halászat és madármegfigyelés"]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "description": "A Pungo-hegy Zambézia tartományban fontos helyi növény- és állatvilágnak ad otthont, gazdag biodiverzitást kínálva.",
+      "facts": ["Zambézia tartomány", "Helyi növény- és állatvilág", "Gazdag biodiverzitás"]
+    },
+    {
+      "id": "buzi-river-nature-v2",
+      "description": "A Buzi folyó egy jelentős folyó Közép-Mozambikban, amely táplálja a kiterjedt mangrove erdőket és a vadon élő állatokat.",
+      "facts": ["Jelentős folyó", "Közép-Mozambik", "Mangrove erdők"]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "A Gaza-tó egy édesvízi tó Gaza tartományban, létfontosságú vízforrás a környező közösségek számára.",
+      "facts": ["Édesvízi tó", "Gaza tartomány", "Létfontosságú vízforrás"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "Bangue sziget a Bazaruto-szigetcsoport része, érintetlen strandjairól és a tengeri teknősök fészkelőhelyeként ismert.",
+      "facts": ["Bazaruto-szigetcsoport", "Érintetlen strandok", "Tengeri teknősök"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "A Nampula erdők létfontosságú ökoszisztémák, amelyek sokféle növény- és állatvilágot rejtenek a régióban.",
+      "facts": ["Létfontosságú ökoszisztémák", "Nampula", "Sokféle növény- és állatvilág"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "A Songo-hegy Tete tartományban egy kiemelkedő magaslat, gazdag biodiverzitásáról ismert.",
+      "facts": ["Tete tartomány", "Gazdag biodiverzitás", "Kiemelkedő magaslat"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "A Lupata-szurdok a Zambézi folyó látványos áttörése a hegyeken, festői szépségéről híres.",
+      "facts": ["Zambézi folyó", "Látványos áttörés", "Festői szépség"]
+    }
+  ]
+}

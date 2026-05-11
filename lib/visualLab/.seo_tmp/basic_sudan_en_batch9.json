@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kosti-ridge-relief-v2",
+      "description": "A low-lying ridge feature providing a slight elevation change along the White Nile.",
+      "facts": ["Low ridge", "White Nile", "Elevation", "Relief feature"]
+    },
+    {
+      "id": "jebel-dair-massif-relief-v2",
+      "description": "A significant mountainous massif forming a central landmark in the Nuba Mountains region.",
+      "facts": ["Massif", "Mountain landmark", "Nuba Mountains", "Geological feature"]
+    },
+    {
+      "id": "wadi-howar-delta-relief-v2",
+      "description": "The flat, sediment-rich delta area at the end of the ancient Wadi Howar watercourse.",
+      "facts": ["Sediment delta", "Wadi Howar", "Flat landscape", "Ancient feature"]
+    },
+    {
+      "id": "jebel-marra-highlands-relief-v2",
+      "description": "The highest mountain plateau region in Sudan, characterized by dramatic, craggy relief.",
+      "facts": ["Mountain plateau", "Highlands", "Jebel Marra", "Craggy relief"]
+    },
+    {
+      "id": "atbara-plain-relief-v2",
+      "description": "A vast, flat plain area that dominates the region between the Nile and the Atbara river.",
+      "facts": ["Vast plain", "Atbara region", "Flat landscape", "Relief feature"]
+    },
+    {
+      "id": "jebel-soturba-relief-v2",
+      "description": "A rugged mountain group within the Red Sea range, known for sharp rocky peaks.",
+      "facts": ["Mountain group", "Red Sea range", "Rocky peaks", "Soturba"]
+    },
+    {
+      "id": "wadi-azum-valley-relief-v2",
+      "description": "A productive river valley in the west, carving through the hilly landscape.",
+      "facts": ["River valley", "Hilly landscape", "Productive land", "Wadi Azum"]
+    },
+    {
+      "id": "nuba-hills-central-relief-v2",
+      "description": "The central cluster of hills in the Nuba range, featuring dense rock formations.",
+      "facts": ["Hill cluster", "Nuba range", "Rock formations", "Central Nuba"]
+    },
+    {
+      "id": "jebel-uwaynat-sudan-relief-v2",
+      "description": "A unique, massive granite mountain formation straddling the remote desert border.",
+      "facts": ["Massive granite mountain", "Desert border", "Geological feature", "Uwaynat"]
+    },
+    {
+      "id": "dongola-plain-relief-v2",
+      "description": "A wide, flat plain along the Nile that supports agricultural activity near Dongola.",
+      "facts": ["Wide plain", "Dongola", "Nile corridor", "Agricultural land"]
+    },
+    {
+      "id": "jebel-mimi-relief-v2",
+      "description": "A distinct solitary hill formation rising from the surrounding plains.",
+      "facts": ["Solitary hill", "Plain landscape", "Relief feature", "Mimi"]
+    },
+    {
+      "id": "wadi-howar-upper-relief-v2",
+      "description": "The upper, higher-elevation section of the historic dry river bed of Wadi Howar.",
+      "facts": ["Higher elevation", "Dry river bed", "Wadi Howar", "Geological feature"]
+    },
+    {
+      "id": "khor-el-gash-plain-relief-v2",
+      "description": "The fertile flood plain formed by the ephemeral Gash river in eastern Sudan.",
+      "facts": ["Fertile flood plain", "Ephemeral river", "Eastern Sudan", "Gash river"]
+    }
+  ]
+}

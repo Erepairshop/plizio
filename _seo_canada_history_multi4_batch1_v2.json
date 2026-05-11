@@ -1,0 +1,243 @@
+
+{
+  "lang": "multi4",
+  "country": "canada",
+  "files": ["lib/visualLab/data/poiExtraCanadaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "fort-york-toronto-history-v2",
+      "descriptionAdvancedDe": "Fort York in Toronto ist eine historische Militäranlage, die während des Kriegs von 1812 eine zentrale Rolle bei der Verteidigung der Stadt gegen amerikanische Truppen spielte. Heute ist es eine National Historic Site und bietet Einblicke in das Leben der Garnison. Die Anlage umfasst die größte Sammlung von Originalgebäuden aus dem Krieg von 1812 in Kanada und ist ein zentraler Ort für das Verständnis der frühen Geschichte Torontos und der anglo-amerikanischen Konflikte. Die regelmäßig stattfindenden historischen Nachstellungen und Führungen machen die Vergangenheit lebendig. Geschichte K7 — Kanadisch-Amerikanische Konflikte.",
+      "descriptionAdvancedHu": "A torontói Fort York egy történelmi erődítmény, amely az 1812-es háború során kulcsfontosságú szerepet játszott a város amerikai csapatokkal szembeni védelmében. Ma nemzeti történelmi helyszínként működik, bepillantást engedve a helyőrség életébe. Az erőd ad otthont Kanadában a legnagyobb, 1812-es háborúból származó eredeti épületgyűjteménynek, és alapvető fontosságú Toronto korai történelmének és az angol-amerikai konfliktusoknak a megértéséhez. A rendszeres történelmi bemutatók és vezetett túrák életre keltik a múltat. Történelem K7 — Kanadai-amerikai konfliktusok.",
+      "descriptionAdvancedRo": "Fort York din Toronto este o instalație militară istorică care a jucat un rol central în apărarea orașului împotriva trupelor americane în timpul Războiului din 1812. Astăzi, este un Sit Istoric Național și oferă o perspectivă asupra vieții de garnizoană. Complexul include cea mai mare colecție de clădiri originale din Războiul din 1812 din Canada și este un loc central pentru înțelegerea istoriei timpurii a Torontoului și a conflictelor anglo-americane. Reconstituirile istorice și tururile ghidate regulate aduc trecutul la viață. Istorie K7 — Conflicte canadiano-americane.",
+      "descriptionAdvancedEn": "Fort York in Toronto is a historic military installation that played a central role in the city's defense against American troops during the War of 1812. Today, it is a National Historic Site and offers insights into garrison life. The complex features Canada's largest collection of original War of 1812 buildings and is a key site for understanding Toronto's early history and Anglo-American conflicts. The regular historical reenactments and guided tours bring the past to life. History K7 — Canadian-American Conflicts.",
+      "factsAdvancedDe": [
+        "Gegründet 1793 zum Schutz von Oberkanada.",
+        "Schauplatz der Schlacht von York 1813.",
+        "Nationale historische Stätte Kanadas.",
+        "Größte Sammlung von Originalgebäuden aus dem Krieg von 1812.",
+        "Spielte eine entscheidende Rolle bei der Verteidigung von Toronto (damals York).",
+        "Lebendiges Geschichtsmuseum, das das Leben in der Garnison zeigt.",
+        "Regelmäßige Kanonen- und Musketenvorführungen.",
+        "Die Festung wurde 1813 von den Amerikanern erobert und niedergebrannt."
+      ],
+      "factsAdvancedHu": [
+        "1793-ban alapították Felső-Kanada védelmére.",
+        "Az 1813-as yorki csata helyszíne.",
+        "Kanada Nemzeti Történelmi Emlékhelye.",
+        "A legtöbb, 1812-es háborúból származó eredeti épület itt található.",
+        "Döntő szerepet játszott Toronto (York) védelmében.",
+        "A helyőrségi életet bemutató élő történelem múzeum.",
+        "Rendszeres ágyú- és muskétabemutatók.",
+        "Az erődöt az amerikaiak elfoglalták és felégették 1813-ban."
+      ],
+      "factsAdvancedRo": [
+        "Fondat în 1793 pentru a proteja Canada Superioară.",
+        "Locul Bătăliei de la York din 1813.",
+        "Sit istoric național al Canadei.",
+        "Cea mai mare colecție de clădiri originale din Războiul din 1812.",
+        "A jucat un rol crucial în apărarea orașului Toronto (pe atunci York).",
+        "Muzeu de istorie vie ce prezintă viața de garnizoană.",
+        "Demonstrații regulate cu tunuri și muschete.",
+        "Fortul a fost capturat și ars de americani în 1813."
+      ],
+      "factsAdvancedEn": [
+        "Founded in 1793 to protect Upper Canada.",
+        "Site of the Battle of York in 1813.",
+        "National Historic Site of Canada.",
+        "Largest collection of original War of 1812 buildings.",
+        "Played a crucial role in defending Toronto (then York).",
+        "Living history museum showcasing garrison life.",
+        "Regular cannon and musket demonstrations.",
+        "The fort was captured and burned by the Americans in 1813."
+      ]
+    },
+    {
+      "id": "battle-of-batoche-history-v2",
+      "descriptionAdvancedDe": "Die Schlacht von Batoche im Jahr 1885 war die entscheidende Auseinandersetzung der Nordwest-Rebellion zwischen den Métis unter Louis Riel und den kanadischen Regierungstruppen. Sie dauerte vier Tage und endete mit der Niederlage der Métis, was den bewaffneten Widerstand beendete. Dieses Ereignis ist ein Wendepunkt in der Geschichte Westkanadas und prägt die Identität der Métis bis heute. Der Ort ist heute eine nationale historische Stätte, die an den Kampf der Métis für ihre Rechte und ihr Land erinnert. Geschichte K8 — Koloniale Konflikte und Minderheitenrechte.",
+      "descriptionAdvancedHu": "A batoche-i csata 1885-ben az Északnyugati Felkelés döntő összecsapása volt a Louis Riel vezette métiszek és a kanadai kormánycsapatok között. Négy napig tartott és a métiszek vereségével végződött, ami véget vetett a fegyveres ellenállásnak. Ez az esemény fordulópontot jelent Nyugat-Kanada történetében, és a mai napig formálja a métisz identitást. A helyszín ma nemzeti történelmi emlékhely, amely a métiszek jogaiért és földjéért folytatott küzdelmére emlékeztet. Történelem K8 — Gyarmati konfliktusok és kisebbségi jogok.",
+      "descriptionAdvancedRo": "Bătălia de la Batoche din 1885 a fost confruntarea decisivă a Rebeliunii de Nord-Vest între Métis, conduși de Louis Riel, și forțele guvernamentale canadiene. A durat patru zile și s-a încheiat cu înfrângerea Métis, punând capăt rezistenței armate. Acest eveniment este un punct de cotitură în istoria vestului Canadei și modelează identitatea Métis până în prezent. Situl este acum un loc istoric național, care comemorează lupta Métis pentru drepturile și pământul lor. Istorie K8 — Conflicte coloniale și drepturile minorităților.",
+      "descriptionAdvancedEn": "The Battle of Batoche in 1885 was the decisive engagement of the North-West Rebellion between the Métis, led by Louis Riel, and Canadian government forces. It lasted for four days and ended in a Métis defeat, bringing an end to the armed resistance. This event is a turning point in the history of Western Canada and shapes Métis identity to this day. The site is now a national historic site, commemorating the Métis struggle for their rights and land. History K8 — Colonial Conflicts and Minority Rights.",
+      "factsAdvancedDe": [
+        "Entscheidende Schlacht der Nordwest-Rebellion 1885.",
+        "Die Métis kämpften unter Louis Riel für ihr Land.",
+        "Die kanadischen Truppen wurden von General Frederick Middleton angeführt.",
+        "Die Schlacht dauerte vier Tage, vom 9. bis 12. Mai 1885.",
+        "Der Einsatz des Gatling-Gewehrs war ein entscheidender Faktor.",
+        "Die Niederlage beendete den bewaffneten Widerstand der Métis.",
+        "Louis Riel wurde später wegen Hochverrats hingerichtet.",
+        "Das Schlachtfeld ist heute eine nationale historische Stätte."
+      ],
+      "factsAdvancedHu": [
+        "Az Északnyugati Felkelés döntő csatája 1885-ben.",
+        "A métiszek Louis Riel vezetésével harcoltak a földjeikért.",
+        "A kanadai csapatokat Frederick Middleton tábornok vezette.",
+        "A csata négy napig tartott, 1885. május 9-12.",
+        "A Gatling-géppuska bevetése döntő tényező volt.",
+        "A vereség a métisz fegyveres ellenállás végét jelentette.",
+        "Louis Rielt később hazaárulásért kivégezték.",
+        "A csatatér ma Nemzeti Történelmi Emlékhely."
+      ],
+      "factsAdvancedRo": [
+        "Bătălia decisivă a Rebeliunii de Nord-Vest din 1885.",
+        "Métis au luptat sub conducerea lui Louis Riel pentru pământurile lor.",
+        "Trupele canadiene au fost conduse de generalul Frederick Middleton.",
+        "Bătălia a durat patru zile, 9-12 mai 1885.",
+        "Utilizarea mitralierei Gatling a fost un factor decisiv.",
+        "Înfrângerea a pus capăt rezistenței armate a Métis.",
+        "Louis Riel a fost ulterior executat pentru trădare.",
+        "Câmpul de luptă este acum un sit istoric național."
+      ],
+      "factsAdvancedEn": [
+        "Decisive battle of the North-West Rebellion in 1885.",
+        "The Métis fought under Louis Riel for their land rights.",
+        "Canadian troops were led by General Frederick Middleton.",
+        "The battle lasted four days, May 9-12, 1885.",
+        "The use of the Gatling gun was a decisive factor.",
+        "The defeat marked the end of Métis armed resistance.",
+        "Louis Riel was later executed for treason.",
+        "The battlefield is now a National Historic Site."
+      ]
+    },
+    {
+      "id": "grosse-ile-irish-memorial-history-v2",
+      "descriptionAdvancedDe": "Grosse Île im Sankt-Lorenz-Strom diente im 19. Jahrhundert als Quarantänestation für europäische Einwanderer, besonders während der großen irischen Hungersnot von 1847. Tausende irische Einwanderer, die vor der Hungersnot flohen, starben hier an Typhus und anderen Krankheiten. Das Irische Denkmal, ein Keltenkreuz, ehrt ihr Andenken. Die Insel ist ein ergreifendes Symbol für die Einwanderungsgeschichte Kanadas und die Tragödien, die viele auf ihrer Reise in eine neue Welt erlitten. Heute ist sie eine nationale historische Stätte. Geschichte K8 — Einwanderung und historische Tragödien.",
+      "descriptionAdvancedHu": "A Szent Lőrinc-folyóban található Grosse Île a 19. században karanténállomásként szolgált az európai bevándorlók számára, különösen az 1847-es nagy ír éhínség idején. Az éhínség elől menekülő ír bevándorlók ezrei haltak meg itt tífuszban és más betegségekben. Az Ír Emlékmű, egy kelta kereszt, az ő emléküket őrzi. A sziget Kanada bevándorlási történelmének és a sokak által az új világ felé vezető úton elszenvedett tragédiáknak a megrendítő szimbóluma. Ma nemzeti történelmi emlékhely. Történelem K8 — Bevándorlás és történelmi tragédiák.",
+      "descriptionAdvancedRo": "Grosse Île, pe fluviul Sfântul Laurențiu, a servit drept stație de carantină pentru imigranții europeni în secolul al XIX-lea, în special în timpul Marii Foamete Irlandeze din 1847. Mii de imigranți irlandezi care fugeau de foamete au murit aici de tifos și alte boli. Memorialul Irlandez, o cruce celtică, le onorează memoria. Insula este un simbol emoționant al istoriei imigrației canadiene și al tragediilor suferite de mulți în călătoria lor către o lume nouă. Astăzi este un sit istoric național. Istorie K8 — Imigrație și tragedii istorice.",
+      "descriptionAdvancedEn": "Grosse Île in the St. Lawrence River served as a quarantine station for European immigrants in the 19th century, especially during the Great Irish Famine of 1847. Thousands of Irish immigrants fleeing the famine died here from typhus and other diseases. The Irish Memorial, a Celtic cross, honors their memory. The island is a poignant symbol of Canada's immigration history and the tragedies many suffered on their journey to a new world. It is now a National Historic Site. History K8 — Immigration and Historical Tragedies.",
+      "factsAdvancedDe": [
+        "Quarantänestation von 1832 bis 1937.",
+        "Zentrum der irischen Einwanderungswelle von 1847.",
+        "Über 5.000 irische Einwanderer sind auf der Insel begraben.",
+        "Ein Keltenkreuz wurde 1909 zum Gedenken an die Verstorbenen errichtet.",
+        "Typhus war 1847 die Haupttodesursache.",
+        "Nationale historische Stätte Kanadas.",
+        "Der Ort zeigt die menschliche Seite der kanadischen Einwanderung.",
+        "Liegt im Sankt-Lorenz-Strom in der Nähe von Québec City."
+      ],
+      "factsAdvancedHu": [
+        "Karanténállomás 1832 és 1937 között.",
+        "Az 1847-es ír bevándorlási hullám központja.",
+        "Több mint 5000 ír bevándorló van a szigeten eltemetve.",
+        "Az itt elhunytak emlékére kelta keresztet emeltek 1909-ben.",
+        "A tífusz volt a fő halálozási ok 1847-ben.",
+        "Kanada Nemzeti Történelmi Emlékhelye.",
+        "A hely a kanadai bevándorlás emberi oldalát mutatja be.",
+        "A Szent Lőrinc-folyón található, Québec városa közelében."
+      ],
+      "factsAdvancedRo": [
+        "Stație de carantină între 1832 și 1937.",
+        "Centrul valului de imigrație irlandeză din 1847.",
+        "Peste 5.000 de imigranți irlandezi sunt îngropați pe insulă.",
+        "O cruce celtică a fost ridicată în 1909 în memoria celor decedați.",
+        "Tifosul a fost principala cauză de deces în 1847.",
+        "Sit istoric național al Canadei.",
+        "Locul prezintă latura umană a imigrației canadiene.",
+        "Situată pe fluviul Sfântul Laurențiu, lângă orașul Quebec."
+      ],
+      "factsAdvancedEn": [
+        "Quarantine station from 1832 to 1937.",
+        "Center of the 1847 Irish immigration wave.",
+        "Over 5,000 Irish immigrants are buried on the island.",
+        "A Celtic cross was erected in 1909 to commemorate the deceased.",
+        "Typhus was the main cause of death in 1847.",
+        "National Historic Site of Canada.",
+        "The site shows the human side of Canadian immigration.",
+        "Located in the St. Lawrence River, near Quebec City."
+      ]
+    },
+    {
+      "id": "fort-henry-kingston-history-v2",
+      "descriptionAdvancedDe": "Fort Henry in Kingston wurde im frühen 19. Jahrhundert errichtet, um den strategisch wichtigen Rideau-Kanal und den Marinestützpunkt Kingston vor amerikanischen Angriffen zu schützen. Die heutige, größere Festung wurde zwischen 1832 und 1837 erbaut und ist ein beeindruckendes Beispiel britischer Militärarchitektur. Obwohl es nie angegriffen wurde, spielte das Fort eine wichtige Rolle als Garnison. Heute ist es als „lebendiges Museum“ bekannt, in dem die berühmte Fort Henry Guard historische Militärübungen und -zeremonien vorführt. Es ist Teil des UNESCO-Welterbes Rideau-Kanal. Geschichte K7 — Britische Militärarchitektur.",
+      "descriptionAdvancedHu": "A kingstoni Fort Henry a 19. század elején épült a stratégiailag fontos Rideau-csatorna és a kingstoni haditengerészeti támaszpont védelmére az amerikai támadásokkal szemben. A jelenlegi, nagyobb erődítmény 1832 és 1837 között épült, és a brit katonai építészet lenyűgöző példája. Bár soha nem érte támadás, az erőd fontos szerepet játszott helyőrségként. Ma „élő múzeumként” ismert, ahol a híres Fort Henry Gárda korhű katonai gyakorlatokat és ceremóniákat mutat be. A Rideau-csatorna UNESCO Világörökségi helyszín része. Történelem K7 — Brit katonai építészet.",
+      "descriptionAdvancedRo": "Fortul Henry din Kingston a fost construit la începutul secolului al XIX-lea pentru a proteja Canalul Rideau, important din punct de vedere strategic, și baza navală Kingston de atacurile americane. Fortăreața actuală, mai mare, a fost construită între 1832 și 1837 și este un exemplu impresionant de arhitectură militară britanică. Deși nu a fost niciodată atacat, fortul a jucat un rol important ca garnizoană. Astăzi este cunoscut ca un „muzeu viu”, unde faimoasa Gardă a Fortului Henry execută exerciții și ceremonii militare de epocă. Face parte din situl Patrimoniului Mondial UNESCO Canalul Rideau. Istorie K7 — Arhitectură militară britanică.",
+      "descriptionAdvancedEn": "Fort Henry in Kingston was built in the early 19th century to protect the strategically important Rideau Canal and the Kingston naval base from American attacks. The current, larger fortress was constructed between 1832 and 1837 and is an impressive example of British military architecture. Although never attacked, the fort played an important role as a garrison. Today, it is known as a 'living museum,' where the famous Fort Henry Guard performs period military drills and ceremonies. It is part of the Rideau Canal UNESCO World Heritage Site. History K7 — British Military Architecture.",
+      "factsAdvancedDe": [
+        "Erbaut nach dem Krieg von 1812 zur Stärkung der Verteidigung.",
+        "Bewachte den Eingang zum Rideau-Kanal und den Hafen von Kingston.",
+        "Klassisches Beispiel britischer Militärarchitektur.",
+        "Teil des UNESCO-Weltkulturerbes zusammen mit dem Rideau-Kanal.",
+        "Niemals in einem tatsächlichen Kampf eingesetzt.",
+        "Berühmt für seine spektakuläre Sonnenuntergangszeremonie mit Kanonen.",
+        "Die Fort Henry Guard imitiert die britische Infanterie des 19. Jahrhunderts.",
+        "Ein Museum befindet sich ebenfalls auf dem Gelände."
+      ],
+      "factsAdvancedHu": [
+        "Az 1812-es háború után épült a védelem megerősítésére.",
+        "A Rideau-csatorna bejáratát és a kingstoni kikötőt őrizte.",
+        "A brit katonai építészet klasszikus példája.",
+        "Az UNESCO Világörökség része a Rideau-csatornával együtt.",
+        "Soha nem vett részt tényleges harcban.",
+        "Híres a napnyugtakor tartott látványos ágyúceremóniájáról.",
+        "A Fort Henry Gárda a 19. századi brit gyalogságot imitálja.",
+        "A helyszínen egy múzeum is működik."
+      ],
+      "factsAdvancedRo": [
+        "Construit după Războiul din 1812 pentru a întări apărarea.",
+        "Păzea intrarea în Canalul Rideau și portul Kingston.",
+        "Exemplu clasic de arhitectură militară britanică.",
+        "Parte a Patrimoniului Mondial UNESCO împreună cu Canalul Rideau.",
+        "Niciodată implicat într-o luptă reală.",
+        "Renumit pentru ceremonia spectaculoasă cu tunuri la apus.",
+        "Garda Fortului Henry imită infanteria britanică din secolul al XIX-lea.",
+        "Un muzeu funcționează de asemenea la fața locului."
+      ],
+      "factsAdvancedEn": [
+        "Built after the War of 1812 to strengthen defenses.",
+        "Guarded the entrance to the Rideau Canal and Kingston's harbour.",
+        "Classic example of British military architecture.",
+        "Part of the UNESCO World Heritage Site along with the Rideau Canal.",
+        "Never engaged in an actual battle.",
+        "Famous for its spectacular sunset cannon ceremony.",
+        "The Fort Henry Guard emulates 19th-century British infantry.",
+        "A museum also operates on the site."
+      ]
+    },
+    {
+      "id": "klondike-gold-rush-history-v2",
+      "descriptionAdvancedDe": "Der Klondike-Goldrausch, ausgelöst durch den Goldfund am Bonanza Creek im Jahr 1896, lockte rund 100.000 Goldsucher in die abgelegene Yukon-Region. Die Reise, insbesondere über die Pässe Chilkoot und White, war extrem hart und gefährlich. Dawson City wuchs explosionsartig zur größten Stadt westlich von Winnipeg und nördlich von Seattle. Obwohl nur wenige reich wurden, führte der Goldrausch zur Entwicklung des Yukon und zur Etablierung einer kanadischen Präsenz im Norden. Dieses epische Abenteuer ist ein prägender Mythos der kanadischen Geschichte. Geschichte K8 — Rohstoffrausch und wirtschaftlicher Wandel.",
+      "descriptionAdvancedHu": "A klondike-i aranyláz, amelyet az 1896-os aranylelet váltott ki a Bonanza Creek-en, mintegy 100 000 aranyásót vonzott a távoli Yukon területére. Az út, különösen a Chilkoot- és a White-hágón keresztül, rendkívül nehéz és veszélyes volt. Dawson City robbanásszerűen növekedett, és Winnipeg-től nyugatra és Seattle-től északra a legnagyobb várossá vált. Bár csak kevesen gazdagodtak meg, az aranyláz a Yukon fejlődéséhez és a kanadai jelenlét északi megerősítéséhez vezetett. Ez az epikus kaland a kanadai történelem egyik meghatározó mítosza. Történelem K8 — Nyersanyagláz és gazdasági átalakulás.",
+      "descriptionAdvancedRo": "Goana după aur din Klondike, declanșată de descoperirea aurului pe pârâul Bonanza în 1896, a atras aproximativ 100.000 de căutători în regiunea îndepărtată Yukon. Călătoria, în special peste trecătorile Chilkoot și White, a fost extrem de dură și periculoasă. Dawson City a crescut exploziv, devenind cel mai mare oraș la vest de Winnipeg și la nord de Seattle. Deși puțini s-au îmbogățit, goana după aur a dus la dezvoltarea Yukonului și la stabilirea unei prezențe canadiene în nord. Această aventură epică este un mit definitoriu al istoriei canadiene. Istorie K8 — Goana după resurse și schimbare economică.",
+      "descriptionAdvancedEn": "The Klondike Gold Rush, triggered by the 1896 gold discovery on Bonanza Creek, drew some 100,000 prospectors to the remote Yukon region. The journey, especially over the Chilkoot and White Pass trails, was extremely harsh and perilous. Dawson City grew explosively to become the largest city west of Winnipeg and north of Seattle. Though few struck it rich, the gold rush led to the development of the Yukon and established a Canadian presence in the north. This epic adventure is a defining myth in Canadian history. History K8 — Resource Rush and Economic Change.",
+      "factsAdvancedDe": [
+        "Begann 1896 mit Goldfunden am Bonanza Creek.",
+        "Ungefähr 100.000 Menschen machten sich auf den Weg in den Yukon.",
+        "Der Chilkoot Pass war eine der schwierigsten Routen.",
+        "Dawson City wurde zum Zentrum des Goldrausches.",
+        "Die meisten Goldsucher wurden nicht reich.",
+        "Führte 1898 zur Gründung des Yukon-Territoriums.",
+        "Die Geschichten wurden durch Jack London und Robert W. Service berühmt.",
+        "Der Klondike Gold Rush National Historical Park erinnert daran."
+      ],
+      "factsAdvancedHu": [
+        "1896-ban kezdődött aranyleletekkel a Bonanza Creek-en.",
+        "Körülbelül 100 000 ember indult útnak a Yukon felé.",
+        "A Chilkoot-hágó volt az egyik legnehezebb útvonal.",
+        "Dawson City lett az aranyláz központja.",
+        "A legtöbb aranyásó nem lett gazdag.",
+        "Hozzájárult a Yukon terület megalapításához 1898-ban.",
+        "A történeteket Jack London és Robert W. Service tette híressé.",
+        "A Klondike-i Aranyláz Nemzeti Történelmi Park emlékezik meg róla."
+      ],
+      "factsAdvancedRo": [
+        "A început în 1896 cu descoperiri de aur pe Bonanza Creek.",
+        "Aproximativ 100.000 de oameni au pornit spre Yukon.",
+        "Pasul Chilkoot a fost una dintre cele mai dificile rute.",
+        "Dawson City a devenit centrul goanei după aur.",
+        "Majoritatea căutătorilor de aur nu s-au îmbogățit.",
+        "A dus la crearea Teritoriului Yukon în 1898.",
+        "Poveștile au fost făcute celebre de Jack London și Robert W. Service.",
+        "Parcul Național Istoric Klondike Gold Rush comemorează evenimentul."
+      ],
+      "factsAdvancedEn": [
+        "Started in 1896 with gold discoveries on Bonanza Creek.",
+        "Approximately 100,000 people set out for the Yukon.",
+        "The Chilkoot Pass was one of the most difficult routes.",
+        "Dawson City became the center of the gold rush.",
+        "Most prospectors did not strike it rich.",
+        "Led to the creation of the Yukon Territory in 1898.",
+        "The stories were made famous by Jack London and Robert W. Service.",
+        "The Klondike Gold Rush National Historical Park commemorates it."
+      ]
+    }
+  ]
+}

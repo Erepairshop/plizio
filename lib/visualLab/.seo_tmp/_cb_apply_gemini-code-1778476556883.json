@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hafen-katougouma-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Katougouma ist ein moderner und strategisch bedeutender Bauxit-Exporthafen in der Präfektur Boké, gelegen am Ufer des Rio Nuñez in Maritime Guinea. Er wurde als Teil der massiven Infrastrukturoffensive des SMB-Winning-Konsortiums errichtet, um den weltweit steigenden Bedarf an Aluminiumrohstoffen, insbesondere aus China, zu decken. Geografisch liegt der Hafen in einer flachen, von Gezeiten beeinflussten Flusslandschaft, die durch weitläufige Mangrovenwälder und schlammige Uferzonen geprägt ist. Die Anlage fungiert als primärer Verladepunkt, an dem das Bauxiterz von schweren Muldenkippern angeliefert und über hochmoderne Förderbandsysteme auf Flusskähne (Leichter) verladen wird. Diese Kähne transportieren das Erz flussabwärts zu den im tiefen Wasser des Atlantiks wartenden Hochseeschiffen. Wirtschaftlich hat der Hafen von Katougouma die Region Boké grundlegend transformiert, indem er tausende Arbeitsplätze geschaffen und den Aufbau lokaler Zulieferbetriebe gefördert hat. Die rasante Entwicklung des Hafens ist ein Beispiel für den aktuellen Bergbau-Boom in Guinea, bringt jedoch auch erhebliche ökologische Herausforderungen für das empfindliche Ökosystem des Rio Nuñez mit sich. Der Hafen ist heute ein unverzichtbares Glied in der globalen Aluminium-Lieferkette.",
+        "hu": "Katougouma kikötője egy modern és stratégiailag kiemelt fontosságú bauxit-exportterminál a Boké prefektúrában, a Rio Nuñez folyó partján. A létesítmény az SMB-Winning konzorcium nagyszabású infrastrukturális beruházásának részeként jött létre, hogy kiszolgálja a globális, különösen a kínai alumíniumipar növekvő nyersanyagigényét. Földrajzilag a kikötő az árapály által befolyásolt folyómenti síkságon fekszik, ahol a tájat kiterjedt mangrove-erdők és mocsaras partvidékek jellemzik. A kikötő elsődleges feladata az érc berakodása: a bányákból érkező bauxitot teherautókról modern szállítószalag-rendszereken keresztül bárkákra helyezik, amelyek a folyón leúsztatva juttatják el az árut az Atlanti-óceán mélyebb vizein horgonyzó óriáshajókhoz. Gazdaságilag Katougouma alapjaiban változtatta meg a régiót, több ezer munkahelyet teremtve és fellendítve a helyi kereskedelmet. A kikötő gyors kiépülése a guineai bányászati fellendülés egyik leglátványosabb jele, ugyanakkor komoly környezetvédelmi kérdéseket is felvet a Rio Nuñez érzékeny ökoszisztémájának megőrzése kapcsán. Napjainkban a kikötő a világ alumínium-ellátási láncának egyik megkerülhetetlen állomása.",
+        "ro": "Portul Katougouma este un terminal modern și strategic pentru exportul de bauxită, situat în prefectura Boké, pe malul râului Rio Nuñez în Guineea Maritimă. Acesta a fost construit ca parte a ofensivei masive de infrastructură a consorțiului SMB-Winning pentru a satisface cererea globală tot mai mare de materii prime pentru aluminiu, în special din China. Din punct de vedere geografic, portul este amplasat într-un peisaj fluvial plat, influențat de maree, caracterizat prin păduri de mangrove întinse și zone de mal nămoloase. Instalația funcționează ca un punct de încărcare primar, unde minereul de bauxită este adus de basculante grele și încărcat pe barje fluviale prin sisteme sofisticate de benzi transportoare. Aceste barje transportă minereul în aval către navele oceanice care așteaptă în apele adânci ale Atlanticului. Din punct de vedere economic, portul Katougouma a transformat fundamental regiunea Boké, creând mii de locuri de muncă și stimulând dezvoltarea furnizorilor locali. Dezvoltarea rapidă a portului este un exemplu al actualului boom minier din Guineea, deși aduce provocări ecologice semnificative pentru ecosistemul fragil al râului Rio Nuñez. Portul este astăzi o verigă indispensabilă în lanțul global de aprovizionare cu aluminiu.",
+        "en": "The Port of Katougouma is a modern and strategically vital bauxite export terminal in the Boké Prefecture, situated on the banks of the Rio Nuñez in Maritime Guinea. It was established as part of a massive infrastructure drive by the SMB-Winning consortium to meet the rising global demand for aluminum raw materials, particularly from China. Geographically, the port is located in a flat, tidal river landscape defined by extensive mangrove forests and muddy banks. The facility serves as a primary loading point where bauxite ore is delivered by heavy trucks and transferred onto river barges via advanced conveyor systems. These barges then transport the ore downstream to large ocean-going vessels anchored in the deeper waters of the Atlantic. Economically, the Port of Katougouma has fundamentally reshaped the Boké region, generating thousands of jobs and fostering the growth of local support industries. Its rapid development exemplifies Guinea's current mining boom, though it also presents significant environmental challenges to the delicate Rio Nuñez ecosystem. Today, the port is an indispensable link in the global aluminum supply chain."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Katougouma ist einer der Hauptverladepunkte des SMB-Winning-Konsortiums.",
+          "Der Hafen liegt am Rio Nuñez, etwa 30 km von der Atlantikküste entfernt.",
+          "Hier wird Bauxit mithilfe eines innovativen Leichter-Systems exportiert.",
+          "Der Hafenbetrieb läuft 24 Stunden am Tag, um die Exportquoten zu erfüllen.",
+          "Das Projekt hat zur Asphaltierung wichtiger Verbindungsstraßen in Boké geführt.",
+          "Die Anlage umfasst Werkstätten für die Wartung der schweren Bergbauflotte."
+        ],
+        "hu": [
+          "Katougouma az SMB-Winning konzorcium egyik központi rakodóállomása.",
+          "A kikötő a Rio Nuñez partján fekszik, mintegy 30 km-re az óceántól.",
+          "Az ércet innovatív bárkás rendszerrel juttatják el a mélyvízi hajókhoz.",
+          "A létesítmény a nap 24 órájában üzemel a magas exportigények miatt.",
+          "A kikötő építése fellendítette a Boké környéki úthálózat fejlesztését.",
+          "A helyszínen jelentős javítóbázis működik a bányagépek karbantartására."
+        ],
+        "ro": [
+          "Katougouma este un terminal cheie operat de consorțiul SMB-Winning.",
+          "Portul este situat pe râul Rio Nuñez, la 30 km de vărsarea în ocean.",
+          "Sistemul de transport utilizează barje de mare capacitate pentru transbordare.",
+          "Activitatea portuară este continuă, asigurând volume masive de export.",
+          "Infrastructura portului a atras investiții în drumurile regionale adiacente.",
+          "Locația include facilități logistice avansate pentru flota minieră."
+        ],
+        "en": [
+          "Katougouma is a central loading hub for the SMB-Winning consortium.",
+          "The port is located on the Rio Nuñez, roughly 30 km inland from the coast.",
+          "It utilizes an innovative barge system to reach deep-water bulk carriers.",
+          "Operations run 24/7 to maintain high-volume bauxite export targets.",
+          "The port development spurred the paving of key regional roads in Boké.",
+          "The site features extensive maintenance workshops for heavy mining equipment."
+        ]
+      }
+    },
+    {
+      "id": "bauxitmine-sangaredi-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bauxitmine von Sangarédi ist das Herzstück des guineischen Bergbausektors und gilt als eine der qualitativ hochwertigsten Lagerstätten für Aluminiumerz weltweit. Sie befindet sich in der Präfektur Boké auf einem markanten Lateritplateau im Westen Guineas. Seit ihrer Inbetriebnahme in den frühen 1970er Jahren wird die Mine von der Compagnie des Bauxites de Guinée (CBG) betrieben, einem Gemeinschaftsunternehmen des guineischen Staates und internationaler Konzerne. Geografisch ist das Bergbaugebiet durch weite Tagebauflächen geprägt, in denen die charakteristische rote Erde Guineas offenliegt. Das hier abgebaute Erz zeichnet sich durch einen außergewöhnlich hohen Aluminiumoxidgehalt und eine geringe Verunreinigung aus, was es auf dem Weltmarkt besonders begehrt macht. Die Mine ist über eine 135 Kilometer lange, unternehmenseigene Eisenbahnlinie direkt mit dem Hafen von Kamsar verbunden, über den der globale Export abgewickelt wird. Wirtschaftlich ist Sangarédi der wichtigste Devisenbringer des Landes und hat über Jahrzehnte hinweg die nationale Wirtschaft stabilisiert. Die industrielle Erschließung hat zur Entstehung einer modernen Bergbaustadt mit umfangreicher Infrastruktur geführt, stellt die Region jedoch gleichzeitig vor enorme ökologische Herausforderungen durch die großflächige Landschaftsveränderung.",
+        "hu": "A sangarédi bauxitbánya a guineai bányászati szektor központi eleme, és világszerte az egyik legjobb minőségű alumíniumérc-lelőhelyként tartják számon. A bánya a nyugat-guineai Boké prefektúrában, egy jellegzetes laterit-fennsíkon található. Az 1970-es évek eleje óta üzemelő létesítményt a Compagnie des Bauxites de Guinée (CBG) kezeli, amely az állam és nemzetközi konzorciumok közös vállalkozása. Földrajzi szempontból a bányaterületet hatalmas külszíni fejtések uralják, ahol Guinea jellegzetes vörös földje látható. Az itt kitermelt érc rendkívül magas alumínium-oxid tartalmáról és alacsony szennyeződéséről híres, ami miatt a világpiacon az egyik legkeresettebb alapanyag. A bányát egy 135 kilométer hosszú, saját vasútvonal köti össze közvetlenül Kamsar kikötőjével, ahonnan az áru a globális piacokra kerül. Gazdaságilag Sangarédi az ország legfontosabb devizaforrása, amely évtizedek óta alapvetően meghatározza Guinea nemzeti össztermékét. Az ipari fejlesztés eredményeként egy modern bányászváros jött létre kiterjedt infrastruktúrával, de a tevékenység jelentős ökológiai lábnyomot hagy a táj drasztikus átalakítása révén.",
+        "ro": "Mina de bauxită de la Sangarédi reprezintă piesa centrală a sectorului minier din Guineea și este considerată unul dintre cele mai bogate zăcăminte de minereu de aluminiu din lume. Situată în prefectura Boké, pe un platou lateritic proeminent în vestul țării, mina este operată de la începutul anilor 1970 de Compagnie des Bauxites de Guinée (CBG). Din punct de vedere geografic, zona minieră este marcată de cariere de suprafață vaste, unde pământul roșu caracteristic Guineei este expus. Minereul extras aici se distinge printr-un conținut excepțional de ridicat de alumină și impurități minime, fiind extrem de căutat pe piața mondială. Mina este conectată direct de portul Kamsar printr-o cale ferată dedicată de 135 de kilometri, facilitând exportul global rapid. Din punct de vedere economic, Sangarédi este cel mai important contributor la veniturile în valută ale țării, stabilizând economia națională timp de decenii. Dezvoltarea industrială a dus la apariția unui oraș minier modern cu infrastructură extinsă, însă activitatea extractivă reprezintă și o provocare ecologică majoră din cauza transformării radicale a peisajului natural.",
+        "en": "The Sangarédi Bauxite Mine is the crown jewel of Guinea's mining sector and is recognized globally for having some of the highest-quality aluminum ore deposits on Earth. Located in the Boké Prefecture on a prominent laterite plateau in western Guinea, the mine has been operated since the early 1970s by the Compagnie des Bauxites de Guinée (CBG), a joint venture between the Guinean state and international partners. Geographically, the mining area is defined by vast open-pit sites where Guinea's characteristic red soil is prominently exposed. The ore extracted here is famous for its exceptionally high alumina content and low impurities, making it highly coveted on the global market. The mine is linked directly to the Port of Kamsar via a dedicated 135-kilometer railway line, through which all global exports are handled. Economically, Sangarédi is the nation's primary source of foreign exchange and has stabilized the national economy for decades. Industrial development has led to the creation of a modern mining town with extensive infrastructure, though it also poses significant environmental challenges due to large-scale land alteration."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sangarédi liefert Bauxit mit einem Aluminiumoxidgehalt von oft über 50 %.",
+          "Die Mine wird von der CBG, einem der ältesten Bergbauunternehmen Guineas, betrieben.",
+          "Sie ist der Ausgangspunkt der wichtigsten Erzeisenbahn des Landes.",
+          "Der Tagebau umfasst mehrere Plateaus wie Sangarédi, Bidikoum und Silidara.",
+          "Sangarédi ist ein bedeutender Arbeitgeber für hochqualifizierte guineische Techniker.",
+          "Die Mine deckt einen signifikanten Anteil der weltweiten Bauxitnachfrage."
+        ],
+        "hu": [
+          "Sangarédi bauxitja gyakran 50% feletti alumínium-oxid tartalommal bír.",
+          "A bányát üzemeltető CBG az egyik legrégebbi bányavállalat az országban.",
+          "Ez a bánya a kiindulópontja Guinea legfontosabb ércszállító vasútvonalának.",
+          "A külszíni fejtés több fennsíkot is érint, köztük Bidikoumot és Silidarát.",
+          "A bánya több ezer képzett helyi szakmunkásnak és mérnöknek ad munkát.",
+          "Az itt kitermelt érc alapvető fontosságú a világ alumíniumipara számára."
+        ],
+        "ro": [
+          "Bauxita din Sangarédi are adesea o puritate ce depășește 50% oxid de aluminiu.",
+          "CBG, operatorul minei, este un parteneriat public-privat istoric în Guineea.",
+          "Mina alimentează zilnic zeci de trenuri încărcate spre terminalul Kamsar.",
+          "Exploatarea se desfășoară pe mai multe perimetre, precum platoul Silidara.",
+          "Sangarédi este un hub tehnologic pentru industria extractivă din Africa de Vest.",
+          "Activitatea minei contribuie masiv la PIB-ul Republicii Guineea."
+        ],
+        "en": [
+          "Sangarédi provides bauxite with an alumina content often exceeding 50%.",
+          "The mine is operated by CBG, one of Guinea's most established mining firms.",
+          "It serves as the starting point for the country's most critical ore railway.",
+          "Open-pit operations span several plateaus, including Sangarédi and Silidara.",
+          "The mine is a major employer for high-skilled Guinean technicians and engineers.",
+          "Sangarédi accounts for a significant percentage of total global bauxite supply."
+        ]
+      }
+    },
+    {
+      "id": "bauxitmine-debele-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bauxitmine Debele, oft auch als Kindia-Mine bezeichnet, ist ein bedeutender Bergbaustandort in der Region Maritime Guinea, etwa 100 Kilometer östlich von Conakry. Sie wird von der Compagnie des Bauxites de Kindia (CBK) betrieben, einer Tochtergesellschaft des russischen Aluminiumriesen RUSAL. Die Mine spielt eine zentrale Rolle in der wirtschaftlichen Zusammenarbeit zwischen Guinea und Russland. Geografisch liegt Debele in einer hügeligen Landschaft, die den Übergang zum Fouta-Djallon-Hochland markiert. Das hier gewonnene Bauxit wird über eine historische, für den Bergbau modernisierte Eisenbahnlinie direkt zum Hafen von Conakry transportiert, wo RUSAL über eigene Verladeeinrichtungen verfügt. Seit ihrer Eröffnung in den 1970er Jahren (damals mit sowjetischer Unterstützung) hat die Mine zur Entwicklung der lokalen Infrastruktur beigetragen, einschließlich der Strom- und Wasserversorgung für die umliegenden Gemeinden. Wirtschaftlich ist Debele ein stabiler Faktor für die Beschäftigung in der Präfektur Kindia. Trotz ihrer langen Betriebsdauer verfügt die Mine weiterhin über beträchtliche Reserven. Die ökologischen Auswirkungen des Tagebaus werden durch Rekultivierungsmaßnahmen flankiert, bleiben jedoch ein wichtiges Thema im Dialog mit der lokalen Bevölkerung.",
+        "hu": "A debéléi bauxitbánya, amelyet gyakran Kindia-bányaként is emlegetnek, fontos bányászati helyszín Alsó-Guineában, mintegy 100 kilométerre keletre Conakrytól. A bányát a Compagnie des Bauxites de Kindia (CBK) üzemelteti, amely az orosz alumíniumipari óriás, a RUSAL leányvállalata. A bánya központi szerepet játszik a Guinea és Oroszország közötti gazdasági együttműködésben. Földrajzilag Debélé egy dombos vidéken fekszik, amely a Fouta Djallon-hegység előterét képezi. Az itt kitermelt bauxitot egy történelmi, kifejezetten a bányászat céljára modernizált vasútvonalon szállítják közvetlenül a conakry-i kikötőbe, ahol a RUSAL saját rakodóterminállal rendelkezik. Az 1970-es években – még szovjet segítséggel – megnyitott bánya jelentősen hozzájárult a helyi infrastruktúra, például az áram- és vízhálózat fejlesztéséhez a környező közösségekben. Gazdasági szempontból Debélé a Kindia prefektúra egyik legstabilabb munkaadója. Hosszú üzemideje ellenére a bánya még mindig jelentős tartalékokkal rendelkezik. A külszíni fejtés környezeti hatásait rekultivációs programokkal igyekeznek mérsékelni, bár a táj átalakítása továbbra is fontos téma a helyi lakossággal folytatott párbeszédben.",
+        "ro": "Mina de bauxită Debele, cunoscută adesea sub numele de mina Kindia, este un sit minier important situat în regiunea Guineea Maritimă, la aproximativ 100 de kilometri est de Conakry. Aceasta este operată de Compagnie des Bauxites de Kindia (CBK), o filială a gigantului rus al aluminiului, RUSAL. Mina joacă un rol central în cooperarea economică dintre Guineea și Rusia. Geografic, Debele este amplasată într-un peisaj colinar care marchează tranziția spre masivul Fouta Djallon. Bauxita extrasă aici este transportată pe o linie de cale ferată istorică, modernizată pentru scopuri miniere, direct către portul Conakry, unde RUSAL deține propriile facilități de încărcare. De la deschiderea sa în anii 1970 (inițial cu sprijin sovietic), mina a contribuit la dezvoltarea infrastructurii locale, inclusiv la alimentarea cu energie electrică și apă a comunităților din jur. Din punct de vedere economic, Debele este un factor de stabilitate pentru ocuparea forței de muncă în prefectura Kindia. În ciuda duratei lungi de funcționare, mina deține încă rezerve considerabile. Impactul ecologic al carierei de suprafață este gestionat prin măsuri de recultivare, rămânând totuși un subiect important în dialogul cu populația locală.",
+        "en": "The Debele Bauxite Mine, often referred to as the Kindia Mine, is a significant mining operation in Maritime Guinea, located about 100 kilometers east of Conakry. It is operated by the Compagnie des Bauxites de Kindia (CBK), a subsidiary of the Russian aluminum giant RUSAL. The mine plays a central role in the economic cooperation between Guinea and Russia. Geographically, Debele is set in a hilly landscape that marks the foothills of the Fouta Djallon highlands. The bauxite extracted here is transported via a historic railway line, modernized for mining purposes, directly to the Port of Conakry, where RUSAL maintains its own loading facilities. Since its opening in the 1970s (originally with Soviet assistance), the mine has contributed to the development of local infrastructure, including power and water supply for surrounding communities. Economically, Debele is a stable employer within the Kindia Prefecture. Despite its long history of operation, the mine still holds substantial reserves. Environmental impacts from open-pit mining are addressed through land reclamation efforts, though landscape changes remain a key point of discussion with local residents."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Debele ist das Zentrum der Aktivitäten von RUSAL in Guinea.",
+          "Die Mine wurde in den 1970er Jahren mit sowjetischer Hilfe erschlossen.",
+          "Ein eigener Bahnknotenpunkt verbindet Debele mit dem Hafen von Conakry.",
+          "Das Erz wird zur Weiterverarbeitung oft in russische Aluminiumhütten exportiert.",
+          "Debele ist einer der größten Steuerzahler in der Region Kindia.",
+          "RUSAL betreibt in der Nähe soziale Projekte wie Krankenhäuser und Schulen."
+        ],
+        "hu": [
+          "Debélé a RUSAL guineai tevékenységének központi bázisa.",
+          "A bányát az 1970-es években, szovjet technikai segítséggel nyitották meg.",
+          "Külön vasútvonal köti össze a bányát a conakry-i kikötői terminállal.",
+          "Az itt kitermelt bauxit jelentős részét oroszországi kohókban dolgozzák fel.",
+          "A bánya Kindia régió egyik legnagyobb adófizetője.",
+          "A RUSAL több szociális projektet, köztük kórházat is fenntart a térségben."
+        ],
+        "ro": [
+          "Debele este sediul operațiunilor companiei ruse RUSAL în Guineea.",
+          "Mina a fost dezvoltată inițial în perioada de cooperare cu Uniunea Sovietică.",
+          "Beneficiază de o rută feroviară dedicată spre portul capitalei.",
+          "Minereul de la Debele este esențial pentru rafinăriile de alumină din Rusia.",
+          "Este un pilon economic major pentru orașul Kindia și împrejurimi.",
+          "Compania a investit în infrastructura de sănătate din zona Debele-Mambia."
+        ],
+        "en": [
+          "Debele is the center of RUSAL's mining operations in Guinea.",
+          "The mine was developed in the 1970s with technical assistance from the USSR.",
+          "A dedicated railway link connects Debele to the Port of Conakry.",
+          "Much of the ore is exported for processing in Russian aluminum smelters.",
+          "Debele is one of the largest taxpayers in the Kindia region.",
+          "RUSAL operates various social projects, including local clinics and schools."
+        ]
+      }
+    },
+    {
+      "id": "simandou-eisenerzmine-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Simandou-Eisenerzprojekt im Südosten Guineas gilt als das größte und bedeutendste unerschlossene Bergbauvorhaben der Welt. Das Simandou-Gebirge beherbergt gigantische Vorkommen an extrem hochwertigem Eisenerz mit einem Eisengehalt von über 65 %, was es zu einer strategischen Ressource für die globale Stahlindustrie macht. Geografisch erstreckt sich das Projekt über eine bewaldete Bergkette, die ökologisch hochsensibel ist und seltene Tierarten beherbergt. Die Erschließung ist ein monumentales Unterfangen, das den Bau des 'Transguinéen' erfordert – einer über 600 Kilometer langen Eisenbahnlinie quer durch das Land bis zu einem neuen Tiefwasserhafen an der Küste. Das Projekt wird von internationalen Konsortien wie Rio Tinto und dem Winning Consortium Simandou (WCS) unter Beteiligung des guineischen Staates vorangetrieben. Wirtschaftlich hat Simandou das Potenzial, das Bruttoinlandsprodukt Guineas zu verdoppeln und die gesamte Infrastruktur des Landes zu revolutionieren. Trotz jahrelanger Verzögerungen durch rechtliche und logistische Hürden gilt der Start des Abbaus als Wendepunkt für die wirtschaftliche Zukunft Westafrikas. Die Herausforderung liegt darin, den industriellen Fortschritt mit dem Schutz der Biodiversität und den Rechten der lokalen Gemeinschaften in Einklang zu bringen.",
+        "hu": "A délkelet-guineai Simandou vasércprojekt a világ legnagyobb és legjelentősebb kiaknázatlan bányászati vállalkozása. A Simandou-hegység gigantikus mennyiségű, rendkívül magas – 65% feletti – vastartalmú ércet rejt, amely stratégiai fontosságú erőforrás a globális acélipar számára. Földrajzilag a projekt egy erdős hegyvonulaton húzódik keresztül, amely ökológiailag rendkívül érzékeny, és számos ritka fajnak ad otthont. A kitermelés megkezdése monumentális feladat, amely magában foglalja a 'Transguinéen' vasútvonal megépítését: ez a több mint 600 kilométer hosszú pálya az egész országon áthaladva köti majd össze a bányát egy új, mélyvízi tengeri kikötővel. A projektet olyan nemzetközi konzorciumok vezetik, mint a Rio Tinto és a Winning Consortium Simandou (WCS), a guineai állam részvételével. Gazdaságilag Simandou képes lehet Guinea nemzeti össztermékének megduplázására és az ország teljes infrastruktúrájának forradalmasítására. A jogi és logisztikai nehézségek miatti több éves csúszás ellenére a bánya beindítása Nyugat-Afrika gazdasági jövőjének mérföldköve lehet. A legnagyobb kihívást az ipari fejlődés, a biodiverzitás védelme és a helyi közösségek jogainak összehangolása jelenti.",
+        "ro": "Proiectul de minereu de fier Simandou din sud-estul Guineei este considerat cea mai mare și mai importantă inițiativă minieră neexploatată din lume. Munții Simandou adăpostesc rezerve gigantice de minereu de fier de calitate superioară, cu un conținut de fier de peste 65%, ceea ce îl face o resursă strategică pentru industria siderurgică globală. Geografic, proiectul se întinde pe un lanț muntos împădurit, extrem de sensibil din punct de vedere ecologic, fiind habitatul unor specii rare. Dezvoltarea este o întreprindere monumentală care necesită construcția 'Transguinéen' – o linie de cale ferată de peste 600 de kilometri care traversează țara până la un nou port de adâncime de pe coastă. Proiectul este condus de consorții internaționale precum Rio Tinto și Winning Consortium Simandou (WCS), cu participarea statului guineean. Din punct de vedere economic, Simandou are potențialul de a dubla Produsul Intern Brut al Guineei și de a revoluționa întreaga infrastructură a țării. În ciuda anilor de întârzieri cauzate de obstacole juridice și logistice, începerea exploatării este văzută ca un punct de cotitură pentru viitorul economic al Africii de Vest. Provocarea constă în echilibrarea progresului industrial cu protecția biodiversității și drepturile comunităților locale.",
+        "en": "The Simandou iron ore project in southeastern Guinea is regarded as the world's largest and most significant untapped mining venture. The Simandou mountains house gargantuan deposits of extremely high-grade iron ore, with an iron content exceeding 65%, making it a strategic resource for the global steel industry. Geographically, the project spans a forested mountain range that is ecologically highly sensitive and home to rare species. Its development is a monumental undertaking involving the construction of the 'Transguinéen'—a railway line stretching over 600 kilometers across the country to a new deep-water port on the coast. The project is being driven by international consortia, including Rio Tinto and Winning Consortium Simandou (WCS), with participation from the Guinean government. Economically, Simandou has the potential to double Guinea's GDP and revolutionize the nation's entire infrastructure. Despite years of delays due to legal and logistical hurdles, the start of mining operations is seen as a turning point for West Africa's economic future. The primary challenge lies in balancing industrial progress with biodiversity conservation and the rights of local communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Simandou besitzt die weltweit größten unerschlossenen Reserven an hochgradigem Eisenerz.",
+          "Der Bau der 650 km langen Trans-Guinea-Eisenbahn ist Teil des Projekts.",
+          "Es ist in zwei Hauptblöcke unterteilt: Norden (WCS) und Süden (Rio Tinto).",
+          "Das Erz ermöglicht eine effizientere Stahlproduktion mit geringeren CO2-Emissionen.",
+          "Das Projekt wird voraussichtlich zehntausende direkte und indirekte Arbeitsplätze schaffen.",
+          "Die Simandou-Berge sind ein Hotspot der Biodiversität in Westafrika."
+        ],
+        "hu": [
+          "Simandou rendelkezik a világ legnagyobb kiaknázatlan, magas minőségű vasérckészletével.",
+          "A projekt része egy 650 km hosszú, az országot átszelő vasútvonal megépítése.",
+          "A terület két fő blokkra oszlik: az északira (WCS) és a délire (Rio Tinto).",
+          "Az érc kiváló minősége lehetővé teszi az alacsonyabb szén-dioxid-kibocsátású acélgyártást.",
+          "A beruházás várhatóan több tízezer közvetlen és közvetett munkahelyet teremt.",
+          "A Simandou-hegység Nyugat-Afrika egyik legfontosabb biodiverzitási gócpontja."
+        ],
+        "ro": [
+          "Simandou deține cele mai mari rezerve de fier de înaltă puritate neexploatate la nivel global.",
+          "Proiectul include construcția căii ferate Trans-Guineea, lungă de 650 km.",
+          "Exploatarea este împărțită între giganții Rio Tinto și consorțiul WCS.",
+          "Minereul de aici este crucial pentru tehnologiile verzi de fabricare a oțelului.",
+          "Se estimează că Simandou va fi principalul motor de creștere al PIB-ului guineean.",
+          "Munții Simandou adăpostesc specii de cimpanzei și floră endemică protejată."
+        ],
+        "en": [
+          "Simandou holds the world's largest untapped reserves of high-grade iron ore.",
+          "The construction of the 650 km Trans-Guinean railway is a core part of the project.",
+          "It is divided into two main sections: North (WCS) and South (Rio Tinto).",
+          "The high iron content allows for more efficient, lower-emission steel production.",
+          "The project is expected to create tens of thousands of direct and indirect jobs.",
+          "The Simandou mountain range is a critical biodiversity hotspot in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "kaleta-wasserkraftwerk-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wasserkraftwerk Kaléta ist eines der bedeutendsten Energieprojekte Guineas und markiert einen Wendepunkt in der Stromversorgung des Landes. Es liegt am Konkouré-Fluss in der Präfektur Dubréka, etwa 150 Kilometer nordöstlich der Hauptstadt Conakry. Mit einer installierten Leistung von 240 Megawatt hat Kaléta die Energiekapazität des Landes bei seiner Inbetriebnahme im Jahr 2015 nahezu verdoppelt. Geografisch nutzt das Kraftwerk die natürlichen Gefälle des Konkouré-Flusses in einer Region, die durch dichte tropische Vegetation und wasserreiche Zuflüsse geprägt ist. Finanziert wurde das Mammutprojekt primär durch die China Exim Bank und gebaut von der China International Water & Electric Corporation (CWE). Wirtschaftlich ist Kaléta von existenzieller Bedeutung, da es die chronischen Stromausfälle in Conakry und den umliegenden Städten drastisch reduziert und die industrielle Entwicklung, insbesondere im Bergbausektor, fördert. Das Kraftwerk ist Teil einer Kaskade von Staudämmen am Konkouré, zu der auch die Projekte Garafiri und Souapiti gehören. Kaléta ist für viele Guineer ein Symbol für Modernisierung und nationalen Stolz geworden, da es den Zugang zu Elektrizität für einen großen Teil der Bevölkerung verbessert hat.",
+        "hu": "A Kaléta vízerőmű Guinea egyik legjelentősebb energetikai projektje, amely mérföldkövet jelent az ország áramellátásában. Az erőmű a Konkouré-folyón található a Dubréka prefektúrában, mintegy 150 kilométerre északkeletre a fővárostól, Conakrytól. A 240 megawatt beépített kapacitással rendelkező Kaléta 2015-ös üzembe helyezésekor szinte megduplázta az ország akkori energiatermelését. Földrajzilag az erőmű a Konkouré-folyó természetes esését használja ki egy olyan vidéken, amelyet sűrű trópusi növényzet és vízbő mellékfolyók jellemeznek. A hatalmas projektet elsősorban a China Exim Bank finanszírozta, a kivitelező pedig a China International Water & Electric Corporation (CWE) volt. Gazdaságilag Kaléta létfontosságú, mivel drasztikusan csökkentette a krónikus áramkimaradásokat Conakryban és a környező városokban, valamint elősegítette az ipari fejlődést, különösen a bányászati szektorban. Az erőmű a Konkouré-folyón kialakított gátrendszer része, amelyhez a Garafiri és a Souapiti projektek is tartoznak. Kaléta sok guineai számára a modernizáció és a nemzeti büszkeség szimbólumává vált, mivel jelentősen javította a lakosság elektromos áramhoz való hozzáférését.",
+        "ro": "Hidrocentrala Kaléta este unul dintre cele mai importante proiecte energetice din Guineea, marcând un punct de cotitură în alimentarea cu energie electrică a țării. Situată pe râul Konkouré, în prefectura Dubréka, la aproximativ 150 de kilometri nord-est de capitala Conakry, hidrocentrala are o capacitate instalată de 240 de megawați. Inaugurarea sa în 2015 a dus la aproape dublarea capacității energetice naționale de la acea vreme. Din punct de vedere geografic, centrala utilizează căderile naturale de apă ale râului Konkouré într-o regiune caracterizată prin vegetație tropicală densă și afluenți bogați. Proiectul a fost finanțat în principal de China Exim Bank și construit de China International Water & Electric Corporation (CWE). Din punct de vedere economic, Kaléta este de o importanță vitală, reducând drastic penele de curent cronice din Conakry și orașele învecinate și stimulând dezvoltarea industrială, în special în sectorul minier. Centrala face parte dintr-o cascadă de baraje pe râul Konkouré, care include și proiectele Garafiri și Souapiti. Kaléta a devenit un simbol al modernizării și mândriei naționale pentru mulți guineeni, îmbunătățind accesul la electricitate pentru o mare parte a populației.",
+        "en": "The Kaléta Hydropower Plant is one of Guinea's most significant energy projects, marking a turning point in the country's electricity supply. Located on the Konkouré River in the Dubréka Prefecture, about 150 kilometers northeast of the capital, Conakry, the plant has an installed capacity of 240 megawatts. Upon its commissioning in 2015, Kaléta nearly doubled the country's total energy capacity. Geographically, the plant harnesses the natural flow of the Konkouré River in a region characterized by dense tropical vegetation and water-rich tributaries. The massive project was primarily funded by the China Exim Bank and built by the China International Water & Electric Corporation (CWE). Economically, Kaléta is of existential importance, drastically reducing the chronic power outages in Conakry and surrounding cities while promoting industrial development, especially in the mining sector. The plant is part of a cascade of dams on the Konkouré River, which also includes the Garafiri and Souapiti projects. Kaléta has become a symbol of modernization and national pride for many Guineans, as it has significantly improved electricity access for a large portion of the population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kaléta hat eine installierte Kapazität von 240 MW.",
+          "Das Kraftwerk wurde am guineischen Unabhängigkeitstag 2015 eingeweiht.",
+          "Es wird durch den Konkouré-Fluss gespeist, Guineas wasserreichsten Strom.",
+          "China finanzierte 75 % der Baukosten des Projekts.",
+          "Die Staumauer ist über 1,5 Kilometer lang.",
+          "Kaléta liefert Strom an das nationale Verbundnetz (SOGEKA)."
+        ],
+        "hu": [
+          "Kaléta beépített teljesítménye 240 megawatt.",
+          "Az erőművet 2015-ben, Guinea függetlenségének napján avatták fel.",
+          "A Konkouré-folyó táplálja, amely Guinea legbővizűbb folyója.",
+          "A projekt költségeinek 75%-át kínai hitelből fedezték.",
+          "Az erőmű gátja több mint 1,5 kilométer hosszú.",
+          "Kaléta kulcsszerepet játszik a nemzeti villamosenergia-hálózat stabilitásában."
+        ],
+        "ro": [
+          "Kaléta are o capacitate instalată totală de 240 MW.",
+          "Hidrocentrala a fost inaugurată oficial pe 28 septembrie 2015.",
+          "Utilizează debitul râului Konkouré, cel mai important curs de apă din vest.",
+          "Proiectul a fost realizat printr-un parteneriat strategic cu investitori chinezi.",
+          "Barajul are o lungime impresionantă de peste 1.500 de metri.",
+          "Energia produsă alimentează rețeaua interconectată a Guineei (EDG)."
+        ],
+        "en": [
+          "Kaléta has an installed capacity of 240 MW.",
+          "The plant was inaugurated on Guinea's Independence Day in 2015.",
+          "It is fed by the Konkouré River, Guinea's most water-rich river.",
+          "China funded 75% of the project's construction costs.",
+          "The dam wall stretches over 1.5 kilometers in length.",
+          "Kaléta provides electricity to the national interconnected grid (SOGEKA)."
+        ]
+      }
+    }
+  ]
+}

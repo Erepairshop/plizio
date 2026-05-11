@@ -1,0 +1,16 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [ "lib/visualLab/data/poiExtraMaliLifeV2.ts" ],
+  "items": [
+    { "id": "segou-river-wildlife-life-v2", "description": "Segou környékén a Niger folyó vadvilága gazdag és változatos, lenyűgöző látványt nyújtva.", "facts": ["Niger folyó", "Vadvilág", "Segou körzete"] },
+    { "id": "sikasso-mango-farm-life-v2", "description": "Sikasso a mangó fővárosa, hatalmas gyümölcsöskertekkel, amelyek kiváló minőségű gyümölcsöt termelnek.", "facts": ["Mangótermesztés", "Sikasso régió", "Mezőgazdasági export"] },
+    { "id": "kayes-market-life-v2", "description": "Kayes piaca egy nyüzsgő kereskedelmi helyszín, közel a szenegáli határhoz.", "facts": ["Kereskedelmi csomópont", "Kayes városa", "Szenegál közelsége"] },
+    { "id": "mopti-garden-life-v2", "description": "Mopti kertjei hagyományos öntözési módszerekkel működnek a folyópart mentén.", "facts": ["Hagyományos öntözés", "Folyópart", "Mopti városa"] },
+    { "id": "timbuktu-garden-life-v2", "description": "Timbuktu kiskereskedelmi kertjei gondos vízgazdálkodással támogatják a sivatagi növénytermesztést.", "facts": ["Vízgazdálkodás", "Sivatagi kertészet", "Timbuktu"] },
+    { "id": "san-market-life-v2", "description": "A San piac hagyományos találkozóhelye a kereskedőknek és a helyieknek.", "facts": ["Hagyományos találkozóhely", "Helyi kereskedelem", "Közép-Mali"] },
+    { "id": "goundam-garden-life-v2", "description": "Goundam kertjei az élelmezésbiztonságot szolgálják az északi, szárazabb zónákban.", "facts": ["Élelmezésbiztonság", "Északi régió", "Kertészet"] },
+    { "id": "koulikoro-market-life-v2", "description": "Koulikoro piaca forgalmas központja a folyami kereskedelemnek a főváros közelében.", "facts": ["Folyami kereskedelem", "Forgalmas piac", "Koulikoro"] },
+    { "id": "sikasso-nature-life-v2", "description": "Sikasso környékének természeti területei erdőkből és szavannákból állnak, támogatva a helyi élővilágot.", "facts": ["Erdők és szavannák", "Sikasso régió", "Élővilág"] }
+  ]
+}

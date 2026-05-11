@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maputsoe-cities-v2",
+      "description": "Lesotho északi részén található kereskedelmi központ, amely a Mohokare-folyó mentén helyezkedik el.",
+      "facts": ["Fontos ipari csomópont", "Kereskedelmi kapu Dél-Afrika felé", "Északi régió központja"]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "description": "Hagyományos falusi település Lesotho délnyugati részén, mely a mezőgazdasági környezetéről ismert.",
+      "facts": ["Mezőgazdasági közösség", "Délnyugati fekvés", "Alacsonyabb fekvésű terület"]
+    },
+    {
+      "id": "makhonoane-cities-v2",
+      "description": "Kisebb település Lesotho északi részén, amely a helyi közösségi élet és gazdálkodás színhelye.",
+      "facts": ["Hagyományos életmód", "Északi hegyvidéki környék", "Helyi kereskedelem"]
+    },
+    {
+      "id": "phamong-cities-v2",
+      "description": "Vidéki település a hegyvidéki területeken, amely a természeti környezet közelségét kínálja.",
+      "facts": ["Hegyvidéki elhelyezkedés", "Hagyományos építészet", "Csendes környezet"]
+    },
+    {
+      "id": "mount-moorosi-cities-v2",
+      "description": "Történelmi jelentőségű település a Quthing-kerületben, amely hegyi erődjéről vált ismertté.",
+      "facts": ["Történelmi erődítmény", "Quthing-kerület része", "Sziklás hegyi környezet"]
+    },
+    {
+      "id": "mphaki-cities-v2",
+      "description": "Hegyek közé ékelt település, amely a vidéki Lesotho egyik jellegzetes állomása.",
+      "facts": ["Hegyi útvonalon fekszik", "Magasan fekvő település", "Helyi gazdálkodás"]
+    },
+    {
+      "id": "sekake-cities-v2",
+      "description": "Kisebb közösség a Senqu-folyó közelében, fontos állomás a környékbeli közlekedésben.",
+      "facts": ["Senqu-folyó környéke", "Helyi közlekedési csomópont", "Vidéki település"]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "description": "A Katse-gát közelében található település, amely a vízügyi fejlesztések révén vált ismertté.",
+      "facts": ["Katse-gát szomszédsága", "Fejlődő infrastruktúra", "Hegyi régió"]
+    },
+    {
+      "id": "katse-cities-v2",
+      "description": "Lesotho egyik legfontosabb ipari központja, amely a nagy víztározójáról és gátjáról híres.",
+      "facts": ["Katse-gát otthona", "Vízi erőmű központja", "Turisztikai célpont"]
+    },
+    {
+      "id": "thaba-bosiu-cities-v2",
+      "description": "Az ország nemzeti örökségének egyik legfontosabb helyszíne, egy történelmi jelentőségű hegyi erőd.",
+      "facts": ["Történelmi nemzeti erőd", "Basotho kultúra bölcsője", "Kulturális világörökség"]
+    },
+    {
+      "id": "saint-michaels-cities-v2",
+      "description": "Kisebb település a főváros közelében, amely a környékbeli mezőgazdasági területek ellátásában játszik szerepet.",
+      "facts": ["Fővároshoz közeli fekvés", "Mezőgazdasági övezet", "Helyi szolgáltatások"]
+    },
+    {
+      "id": "khabos-cities-v2",
+      "description": "Vidéki falu az ország északi részén, amely az egyszerű hagyományos életmódot őrzi.",
+      "facts": ["Hagyományos falu", "Hegyvidéki elhelyezkedés", "Nyugodt környezet"]
+    },
+    {
+      "id": "maphutseng-cities-v2",
+      "description": "Település Mohale-Hoek közelében, mely a környékbeli kereskedelem és mezőgazdaság fókuszpontja.",
+      "facts": ["Mohale-Hoek szomszédsága", "Mezőgazdasági központ", "Helyi piacok"]
+    },
+    {
+      "id": "alwynskop-cities-v2",
+      "description": "Kisebb település a déli régióban, mely a környező hegyek és mezők ölelésében található.",
+      "facts": ["Déli hegyvidéki régió", "Természetközeli élet", "Helyi közösség"]
+    },
+    {
+      "id": "letseng-la-terae-cities-v2",
+      "description": "A világ egyik legmagasabban fekvő bányászati központja, amely gyémántkitermeléséről ismert.",
+      "facts": ["Magaslati gyémántbánya", "Extrém időjárás", "Ipari központ"]
+    }
+  ]
+}

@@ -20,16 +20,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A tsodilo-hills-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/tsodilo-hills-history-v2.webp",
     description: {
-      de: "Die Tsodilo Hills sind ein UNESCO-Welterbe mit außergewöhnlich dichter Felskunst und tiefer spiritueller Bedeutung.",
-      hu: "A Tsodilo-hegység Botswana egyik legismertebb őskori és szakrális helyszíne. A sziklarajzok és a hosszú emberi jelenlét miatt a térség kiemelt történeti emlék.",
-      ro: "Tsodilo Hills este un sit cu artă rupestră remarcabilă și cu o puternică valoare spirituală. Zona este una dintre cele mai cunoscute destinații istorice din nord-vestul Botswanei.",
-      en: "A major rock art site in northwestern Botswana. It is one of the country's most important heritage places."
+      de: "Die Tsodilo-Hügel beherbergen eine der weltweit höchsten Dichten an Felsmalereien und gelten als heiliger Ort.",
+      hu: "Az UNESCO Világörökség része, amely több mint 4500 ősi sziklafestménynek ad otthont a Kalahári-sivatagban.",
+      ro: "Un sit din patrimoniul mondial UNESCO supranumit 'Louvre-ul deșertului' pentru picturile sale rupestre străvechi.",
+      en: "The Tsodilo Hills are a sacred UNESCO World Heritage site featuring over 4,500 rock paintings by the San people."
     },
     facts: {
-      de: ["UNESCO-Welterbe", "Felsmalereien", "im Nordwesten Botswanas"],
-      hu: ["UNESCO helyszín", "Sziklarajzok", "Szent hely a San népeknek"],
-      ro: ["sit UNESCO", "artă rupestră", "nord-vestul țării"],
-      en: ["Rock art", "UNESCO site", "Northwestern Botswana"]
+      de: ["UNESCO-Welterbe", "Über 4500 Felsmalereien", "Spiritualität der San-Völker"],
+      hu: ["A sivatag Louvre-jának hívják", "Szent hely a szan nép számára", "Több mint 100 000 évnyi történelem", "Négy fő domb alkotja"],
+      ro: ["Peste 4.500 de picturi", "Sălaș spiritual pentru San", "Locuit de mii de ani", "Patru dealuri principale"],
+      en: ["UNESCO World Heritage site", "Over 4,500 rock paintings", "Sacred site for San and Hambukushu", "Spans 100,000 years of history"]
     }
   },
   {
@@ -51,15 +51,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/domboshaba-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen von Domboshaba erinnern an eine frühe steinerne Siedlung im Nordosten Botswanas.",
-      hu: "A Domboshaba romjai egy egykori kőből épült település maradványai. A hely a térség korai államalakulatainak és Kalanga örökségének fontos emléke.",
-      ro: "",
-      en: "Ruins of a former stone settlement in eastern Botswana. The site reflects the area's early political history."
+      hu: "A Nagy-Zimbabwe birodalom stílusában épült kőromok Botswana északkeleti részén.",
+      ro: "Ruinele unei așezări din piatră din secolul al XV-lea, reprezentând cultura Mwenemutapa în estul Botswanei.",
+      en: "Domboshaba is an iron-age stone walled settlement that served as a regional capital for the Great Zimbabwe-style culture."
     },
     facts: {
       de: ["Ruinen einer Siedlung", "Steinmauern erhalten", "Kalanga-Geschichte"],
-      hu: ["Kőromok", "Kalanga örökség", "Korai település"],
-      ro: [],
-      en: ["Stone ruins", "Early settlement", "Eastern Botswana"]
+      hu: ["A 15. századból származik", "Habarcs nélkül épült kőfalak", "A Kalanga királyok székhelye volt", "Kulturális fesztiválok helyszíne"],
+      ro: ["Ziduri fără mortar", "Centru comercial istoric", "Aproape de Francistown", "Legături cu Marele Zimbabwe"],
+      en: ["Stone-walled settlement", "Great Zimbabwe-style architecture", "Dating back to 1450 AD", "Located in North East District"]
     }
   },
   {
@@ -81,14 +81,14 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     },
     description: {
       de: "Toutswe Mogala Hill ist ein archäologischer Hügel, der mit der Toutswe-Kultur verbunden ist.",
-      hu: "A Toutswe Mogala Hill régészeti lelőhely a korai településtörténethez kapcsolódik. A dombon fennmaradt nyomok a vaskori életmódot és a helyi közösségek múltját idézik.",
-      ro: "",
+      hu: "Egy vaskori település maradványai egy lapos tetejű dombon, amely fontos régészeti lelőhely.",
+      ro: "Un sit arheologic de pe un deal plat, centru al unei culturi înfloritoare de crescători de vite în epoca fierului.",
       en: "An archaeological hill site linked to the ancient Toutswe culture. It is an important part of Botswana's precolonial past."
     },
     facts: {
       de: ["Archäologische Stätte", "Namensgeber einer Kultur", "im Zentrum Botswanas"],
-      hu: ["Régészeti lelőhely", "Vaskori nyomok", "Dombtetőn fekszik"],
-      ro: [],
+      hu: ["A 7. és 19. század között lakták", "Jelentős marhatartó központ volt", "Kiterjedt hulladékdombok (middenek)", "A Toutswe-kultúra névadója"],
+      ro: ["Cunoscut pentru ceramica Toutswe", "Sistem social ierarhizat", "Lângă satul Palapye", "Abandonat în secolul XIX"],
       en: ["Archaeological site", "Ancient culture", "Central Botswana"]
     }
   },
@@ -110,16 +110,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A matsieng-footprints-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/matsieng-footprints-history-v2.webp",
     description: {
-      de: "Die Matsieng Footprints sind mit einer bekannten Gründungslegende der Region verbunden.",
+      de: "Die Matsieng-Fußabdrücke sind Felsgravuren, die laut Legende die Entstehung der Menschheit markieren.",
       hu: "A Matsieng lábnyomok egy ismert helyi eredetmondához kapcsolódó sziklaalakzatok. A hely egyszerre természeti jelenség és a szóbeli hagyomány része.",
-      ro: "",
-      en: "Large rock footprints linked to local origin legends. The site is a well-known part of Botswana's oral history."
+      ro: "Un sit mitologic cu gravuri în stâncă despre care legendele Tswana spun că sunt urmele primului om.",
+      en: "Matsieng is a significant cultural site featuring rock carvings, including large human-like footprints central to Tswana creation myths."
     },
     facts: {
-      de: ["Spuren im Fels", "Teil der mündlichen Überlieferung", "südöstlich von Gaborone"],
+      de: ["Antike Felsgravuren", "Mythen der Tswana", "Archäologische Fundstätte"],
       hu: ["Eredetmondához kötődik", "Sziklalábnyomok", "Gaborone közelében"],
-      ro: [],
-      en: ["Rock footprints", "Origin legend", "Cultural site"]
+      ro: ["Urme de oameni și animale", "Gravuri în gresie", "Loc de pelerinaj tradițional", "Lângă satul Mochudi"],
+      en: ["Ancient rock carvings", "Tswana creation myth site", "Human and animal footprints", "Located near Mochudi"]
     }
   },
   {
@@ -140,15 +140,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A kolobeng-mission-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/kolobeng-mission-history-v2.webp",
     description: {
-      de: "Kolobeng war eine Missionsstation, die eng mit der Frühgeschichte der christlichen Mission in Botswana verbunden ist.",
+      de: "In Kolobeng gründete David Livingstone seine einzige permanente Missionsstation in Botswana.",
       hu: "A Kolobeng misszió a 19. századi misszionárius tevékenység egyik fontos botswanai helyszíne. David Livingstone jelenléte miatt a történeti emlékezetben különleges szerepe van.",
-      ro: "",
+      ro: "Ruinele misiunii fondate de David Livingstone în secolul al XIX-lea, prima de acest fel din regiune.",
       en: "A mission station linked to David Livingstone's work in Botswana. It remains a key colonial-era heritage site."
     },
     facts: {
-      de: ["Missionsgeschichte", "David Livingstone wirkte dort", "nahe Gaborone"],
+      de: [" Livingstone-Wohnhaus-Ruinen", "Erstes Schulgebäude", "Missionsgeschichte des 19. Jahrhunderts"],
       hu: ["Livingstone-hoz kötődik", "19. századi misszió", "Kolobeng térsége"],
-      ro: [],
+      ro: ["Rămășițele casei lui Livingstone", "Atacată de boeri în 1852", "Baza explorărilor spre nord", "Monument național protejat"],
       en: ["Livingstone link", "Mission station", "19th century history"]
     }
   },
@@ -171,15 +171,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     },
     description: {
       de: "Old Palapye war ein früher politischer und religiöser Mittelpunkt der Bangwato.",
-      hu: "Old Palapye egykori főváros és királyi központ volt a Bangwato történetében. A romok és a településnyomok a régi politikai központ múltját őrzik.",
+      hu: "A Bangwato törzs egykori fővárosa a 19. század végén, Khama III uralkodása alatt.",
       ro: "Old Palapye a fost o așezare importantă în istoria timpurie a zonei centrale din Botswana. Ruinele păstrează urme ale vieții politice și religioase de odinioară.",
-      en: "The remains of the old settlement at Palapye. The site preserves ruins from an important chapter in eastern Botswana's history."
+      en: "Old Palapye was the 19th-century capital of the Bangwato, established by Kgosi Khama III before moving to Serowe."
     },
     facts: {
       de: ["Ehemalige Siedlung", "Historische Kirchenruinen", "Bezug zu Khama III"],
-      hu: ["Egykori főváros", "Bangwato központ", "Településromok"],
+      hu: ["1889-ben alapították", "A londoni missziós templom romjai", "Történelmi temetők találhatók itt", "A vízhiány miatt hagyták el"],
       ro: ["așezare istorică", "ruine de biserică", "legată de Bangwato"],
-      en: ["Former settlement", "Church ruins", "Historical site"]
+      en: ["Former Bangwato capital", "Established by Khama III", "Ruins of the LMS church", "Active from 1889 to 1902"]
     }
   },
   {
@@ -200,16 +200,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A khama-iii-memorial-museum-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/khama-iii-memorial-museum-history-v2.webp",
     description: {
-      de: "Das Museum erinnert an Khama III und seine Rolle in der Geschichte der Bangwato.",
+      de: "Dieses Museum in Serowe ist dem Leben und Vermächtnis von König Khama III. gewidmet.",
       hu: "A Khama III emlékmúzeum Serowe történeti és királyi örökségét mutatja be. A kiállítások a Bangwato vezetőinek és a régió múltjának állítanak emléket.",
-      ro: "",
-      en: "A memorial museum in Serowe dedicated to Khama III and the Bangwato story. It is a major local history stop."
+      ro: "Un muzeu dedicat vieții și moștenirii regelui Khama al III-lea, figura centrală a rezistenței coloniale.",
+      en: "Located in Serowe, this museum preserves the history of the Khama dynasty and the cultural heritage of the Bangwato people."
     },
     facts: {
-      de: ["Erinnerung an Khama III", "Dynastische Geschichte", "in Serowe"],
+      de: ["Geschichte der Bamangwato", "Königliche Relikte", "Traditionelle Architektur"],
       hu: ["Serowe-ban található", "Khama III emléke", "Királyi történelem"],
-      ro: [],
-      en: ["Serowe museum", "Bangwato heritage", "Khama III"]
+      ro: ["Situat în Serowe", "Găzduit într-o clădire istorică", "Arhivele familiei regale", "Expoziții despre tribul Bangwato"],
+      en: ["Located in Serowe", "Khama family history", "Bangwato cultural artifacts", "Housed in a historic building"]
     }
   },
   {
@@ -230,16 +230,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A phuthadikobo-museum-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/phuthadikobo-museum-history-v2.webp",
     description: {
-      de: "Das Phuthadikobo Museum bewahrt die Geschichte und Kultur der Bakgatla in Mochudi.",
-      hu: "A Phuthadikobo Múzeum Mochudi kulturális és történeti emlékeit gyűjti össze. Az egykori dombtetői épület ma a Kalanga közösség múltját mutatja be.",
-      ro: "",
-      en: "A community museum in Mochudi focused on local history and culture. It is one of Botswana's notable heritage museums."
+      de: "Das Phuthadikobo Museum in Mochudi bewahrt die Kultur und Geschichte des Bakgatla-Stammes.",
+      hu: "Mochudi dombtetőjén található múzeum, amely a Bakgatla nép történelmét és kultúráját mutatja be.",
+      ro: "Un muzeu vibrant situat pe un deal, documentând istoria și cultura tribului Bakgatla.",
+      en: "Perched on a hill in Mochudi, this museum documents the history and traditions of the Bakgatla-ba-Kgafela tribe."
     },
     facts: {
-      de: ["Lokales Geschichtsmuseum", "Bakgatla-Erbe", "in einem Hügelgebäude"],
-      hu: ["Mochudi-ban", "Kalanga kultúra", "Régi iskolai épület"],
-      ro: [],
-      en: ["Mochudi", "Local heritage", "Community museum"]
+      de: ["Lage auf einem Hügel", "Historisches Schulhaus", "Fotografische Sammlungen"],
+      hu: ["Egy régi iskolaépületben működik", "Gazdag fotóarchívummal rendelkezik", "Hagyományos kézműves tárgyak", "Kilátás nyílik a falu főterére"],
+      ro: ["Fostă școală colonială", "Vedere panoramică asupra Mochudi", "Colecție rară de fotografii", "Focus pe tradițiile Kgotla"],
+      en: ["Located in Mochudi", "Bakgatla tribal history", "Historic school building", "Focus on local traditions"]
     }
   },
   {
@@ -261,15 +261,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/three-dikgosi-monument-history-v2.webp",
     description: {
       de: "Das Drei-Dikgosi-Monument ehrt die drei Chiefs, die für die Unabhängigkeit Botswanas wichtig waren.",
-      hu: "A Three Dikgosi Monument Gaborone egyik legfontosabb nemzeti emlékhelye. A három főnök szobrai a gyarmati korszakból az önálló államiság felé vezető utat idézik.",
-      ro: "Three Dikgosi Monument îl comemorează pe cei trei șefi care au avut un rol important în drumul Botswanei spre independență. Monumentul se află în Gaborone și este un reper civic central.",
-      en: "A monument in Gaborone honoring the three dikgosi who helped shape Botswana's political history."
+      hu: "Emlékmű Gaboronéban, amely azt a három főnököt ábrázolja, akik Angliába utaztak a brit védelemért.",
+      ro: "Statui impunătoare de bronz ale celor trei mari căpetenii care au cerut protecția britanică pentru a salva țara.",
+      en: "This bronze monument honors the three Tswana chiefs who traveled to London in 1895 to secure British protection."
     },
     facts: {
       de: ["Drei Stammesführer", "Politische Erinnerung", "im Zentrum von Gaborone"],
-      hu: ["Gaborone-ban", "Három főnök emléke", "Nemzeti jelkép"],
-      ro: ["trei șefi tradiționali", "în Gaborone", "legat de independență"],
-      en: ["Three chiefs", "Gaborone", "National symbol"]
+      hu: ["Khama III, Sebele I és Bathoen I", "1895-ös történelmi út emlékére", "A függetlenség szimbóluma", "Bronzból készült óriásszobrok"],
+      ro: ["Reprezintă unitatea națională", "Inaugurat în 2005", "Situat în Gaborone CBD", "Eroi: Khama, Sebele și Bathoen"],
+      en: ["Honors Khama III, Sebele I, Bathoen I", "Located in Gaborone CBD", "Commemorates the 1895 trip", "Symbol of national identity"]
     }
   },
   {
@@ -290,16 +290,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A botswana-national-museum-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/botswana-national-museum-history-v2.webp",
     description: {
-      de: "Das Botswana National Museum sammelt Kunst, Geschichte und Naturkunde des Landes.",
-      hu: "A Botswana National Museum a nemzeti örökség egyik központi intézménye. Régészeti, néprajzi és történeti gyűjteményei az ország múltját fogják össze.",
-      ro: "",
-      en: "The national museum in Gaborone preserves history, art, and natural heritage. It is a central cultural institution."
+      de: "Das Nationalmuseum in Gaborone zeigt die reiche natürliche und kulturelle Geschichte des Landes.",
+      hu: "A főváros kulturális központja, amely Botswana természeti és társadalomtörténetét őrzi.",
+      ro: "Principala instituție culturală a țării care conservă patrimoniul natural și istoric al Botswanei.",
+      en: "The National Museum and Art Gallery in Gaborone is the primary institution for preserving Botswana's cultural and natural heritage."
     },
     facts: {
-      de: ["Nationales Museum", "Sammlungen zur Landesgeschichte", "in Gaborone"],
-      hu: ["Nemzeti múzeum", "Gaborone-ban", "Régészeti és néprajzi gyűjtemény"],
-      ro: [],
-      en: ["National collection", "Gaborone", "History and culture"]
+      de: ["Gegründet 1968", "Kunstgalerie enthalten", "Zentrum für kulturelle Bildung"],
+      hu: ["1968-ban alapították", "Híres képzőművészeti galéria", "Sziklafestmény másolatok", "Interaktív néprajzi kiállítások"],
+      ro: ["Inaugurat în 1968", "Găzduiește Galeria de Artă", "Colecții etnografice bogate", "Centru de cercetare științifică"],
+      en: ["National cultural repository", "Located in Gaborone", "Established in 1968", "Features art and ethnography"]
     }
   },
   {
@@ -322,14 +322,14 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     description: {
       de: "Das Museum würdigt Kgosi Sechele I und die Geschichte der Bakwena.",
       hu: "A Kgosi Sechele I Museum a Bakwena vezetőjének és a környék történetének állít emléket. A múzeum a helyi királyi örökséget és a közösségi emlékezetet kapcsolja össze.",
-      ro: "",
-      en: "A museum dedicated to Kgosi Sechele I and the Bakwena legacy. It preserves political and cultural history in western Botswana."
+      ro: "Un centru cultural în Molepolole dedicat memoriei regelui Sechele I, un lider strategic al Bakwena.",
+      en: "Housed in a former police station in Molepolole, this museum tells the story of the Bakwena and their leader Sechele I."
     },
     facts: {
       de: ["Bakwena-Tradition", "Bezug zu Sechele I", "im Raum Molepolole"],
       hu: ["Molepolole térsége", "Bakwena örökség", "Királyi emlékhely"],
-      ro: [],
-      en: ["Bakwena heritage", "Sechele I", "Local history"]
+      ro: ["Fostă secție de poliție", "Expoziții despre tradiția orală", "Punct de plecare spre Dimawe", "Promovează meșteșugurile locale"],
+      en: ["Located in Molepolole", "Bakwena tribal history", "Focus on Sechele I", "Community-based museum"]
     }
   },
   {
@@ -350,16 +350,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A supa-ngwao-museum-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/supa-ngwao-museum-history-v2.webp",
     description: {
-      de: "Das Supa-Ngwao-Museum zeigt die regionale Geschichte und Kultur von Francistown und Umgebung.",
+      de: "Das Supa Ngwao Museum in Francistown beleuchtet die Geschichte und das Erbe des Nordostens.",
       hu: "A Supa Ngwao Museum Francistown kulturális és történeti gyűjteményeinek otthona. A múzeum a város és az északi régió örökségét mutatja be.",
-      ro: "",
-      en: "A museum in Francistown that presents northern Botswana's heritage. It combines history, culture, and local memory."
+      ro: "Muzeul regional din Francistown care prezintă istoria minieră și diversitatea etnică din nordul țării.",
+      en: "Supa Ngwao serves as the regional museum for Francistown, showcasing the history of the Kalanga people and the local gold rush."
     },
     facts: {
-      de: ["Regionalmuseum", "Kultur und Alltagsleben", "in Nordost-Botswana"],
+      de: ["Regionale Geschichte", "Traditionelle Handwerkskunst", "Erhaltung lokaler Identität"],
       hu: ["Francistown-ban", "Helytörténeti gyűjtemény", "Északi Botswana öröksége"],
-      ro: [],
-      en: ["Francistown", "Northern heritage", "Cultural preservation"]
+      ro: ["Focus pe cultura Kalanga", "Expoziții despre goana după aur", "Situat într-o închisoare veche", "Numele înseamnă 'arată cultura'"],
+      en: ["Located in Francistown", "Kalanga culture and history", "Early gold mining artifacts", "Regional information center"]
     }
   },
   {
@@ -380,16 +380,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A nhabe-museum-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/nhabe-museum-history-v2.webp",
     description: {
-      de: "Das Nhabe Museum in Maun dokumentiert die Geschichte und Kultur von Ngamiland.",
-      hu: "A Nhabe Múzeum Maun helytörténeti és kulturális örökségét mutatja be. A nyugat-botswanai közösségek múltját és mindennapi emlékeit gyűjti össze.",
-      ro: "",
-      en: "A museum in Maun focused on the history of Ngamiland. It connects local communities with the Okavango region's past."
+      de: "Das Nhabe Museum in Maun präsentiert die faszinierende Kultur des Ngamiland-Distrikts.",
+      hu: "Maun városában található intézmény, amely az Okavango-delta népeinek örökségét ápolja.",
+      ro: "Un mic muzeu în Maun care documentează istoria naturală și viața comunităților din delta Okavango.",
+      en: "The Nhabe Museum in Maun displays the rich natural and cultural history of the Ngamiland region and the Okavango Delta."
     },
     facts: {
-      de: ["Museum in Maun", "Ngamiland-Erbe", "Lokale Kulturgeschichte"],
-      hu: ["Maun-ban", "Helytörténeti múzeum", "Nyugat-Botswana öröksége"],
-      ro: [],
-      en: ["Maun museum", "Ngamiland history", "Okavango region"]
+      de: ["Ehemaliges britisches Fort", "Ökologische Ausstellungen", "Kunst lokaler Stämme"],
+      hu: ["Egy brit gyarmati épületben van", "A Bayei és Hambukushu kultúra", "Hagyományos kosárfonó kiállítás", "Helyi művészek alkotóhelye"],
+      ro: ["Găzduit într-o clădire militară veche", "Colecție de unelte tradiționale", "Arta meșteșugului împletitului", "Sprijinit de comunitatea locală"],
+      en: ["Located in Maun", "Ngamiland regional history", "Okavango Delta focus", "Historic building site"]
     }
   },
   {
@@ -411,15 +411,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/lepokole-hills-history-v2.webp",
     description: {
       de: "Die Lepokole Hills sind ein historisch und archäologisch bedeutsamer Hügelzug im Osten Botswanas.",
-      hu: "A Lepokole-dombok történeti tájként őrzik a kelet-botswanai múlt nyomait. A dombvidék a helyi településtörténet és a hagyományos emlékezet része.",
-      ro: "",
-      en: "A hill area in eastern Botswana known for archaeology and rock art. It links landscape with early human history."
+      hu: "Látványos gránitdombok Bobonong közelében, ahol ősi sziklafestmények és kőfalak találhatók.",
+      ro: "Dealuri spectaculoase în apropiere de Bobonong, cunoscute pentru adăposturile stâncoase cu picturi San.",
+      en: "The Lepokole Hills contain significant rock art and archaeological sites linked to the San people and early Tswana settlements."
     },
     facts: {
       de: ["Hügelzug mit Geschichte", "Archäologischer Wert", "östliches Botswana"],
-      hu: ["Kelet-Botswana", "Történeti dombvidék", "Helyi emlékezet"],
-      ro: [],
-      en: ["Rock art", "Eastern Botswana", "Archaeology"]
+      hu: ["A szan nép utolsó menedéke volt", "Védett régészeti terület", "Különleges kőzetformációk", "Történelmi vadászterület"],
+      ro: ["Picturi bine conservate", "Formațiuni de granit unice", "Importanță pentru tribul Babirwa", "Potențial pentru ecoturism"],
+      en: ["Rich rock art sites", "San and early Tswana history", "Located near Bobonong", "Nature and heritage trail"]
     }
   },
   {
@@ -442,14 +442,14 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     description: {
       de: "Das Mamuno-Monument erinnert an die Grenzverbindung und den Handel am Nordwest-Rand Botswanas.",
       hu: "A Mamuno-emlékhely a határ menti mozgás és a regionális kapcsolatok történetére utal. A nyugati határzóna egyik ismert jelképes pontja.",
-      ro: "",
-      en: "A border monument associated with travel and trade at Mamuno. It reflects western Botswana's cross-border history."
+      ro: "Un sit aflat la granița cu Namibia, renumit pentru gravurile în stâncă reprezentând animale și figuri umane.",
+      en: "The Mamuno rock engravings are an important archaeological site near the Namibian border featuring ancient animal and geometric designs."
     },
     facts: {
       de: ["Grenzort Mamuno", "Bezug zu Namibia", "historischer Verkehrspunkt"],
       hu: ["Határvidéki helyszín", "Regionális kapcsolatok", "Nyugati Botswana"],
-      ro: [],
-      en: ["Border site", "Regional trade", "Western Botswana"]
+      ro: ["Stil artistic distinctiv", "Aproape de orașul Charles Hill", "Vechime de mii de ani", "Zonă de tranzit istorică"],
+      en: ["Prehistoric rock engravings", "Animal and geometric motifs", "Located near Mamuno border", "Evidence of early habitation"]
     }
   },
   {
@@ -471,15 +471,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/dimawe-battlefield-history-v2.webp",
     description: {
       de: "Das Dimawe Battlefield ist mit einem wichtigen Gefecht des 19. Jahrhunderts verbunden.",
-      hu: "A Dimawe csatatér a 19. századi fegyveres konfliktusok egyik fontos botswanai helyszíne. A csata a helyi vezetők és a külső erők közötti összecsapásokat idézi fel.",
-      ro: "",
-      en: "A battlefield remembered for the 19th-century conflict at Dimawe. It is part of Botswana's military past."
+      hu: "Az 1852-es csata helyszíne, ahol a batszvana törzsek sikeresen megvédték magukat a búrok ellen.",
+      ro: "Locul unei bătălii istorice din 1852 unde triburile unite au rezistat invaziei boerilor.",
+      en: "Dimawe was the site of a pivotal 1852 battle where the Bakwena successfully resisted an invasion by Boer commandos."
     },
     facts: {
       de: ["Schlacht von 1852", "Teil der Tswana-Geschichte", "im Westen Botswanas"],
-      hu: ["1850-es évek", "Csatatér", "Sechele I korszakához kötődik"],
-      ro: [],
-      en: ["Battle site", "19th century conflict", "Historical memory"]
+      hu: ["A botswanai ellenállás jelképe", "Sechele I király vezetése alatt", "Sziklás erődítmények nyomai", "Nemzeti örökségi helyszín"],
+      ro: ["Símbol al rezistenței Tswana", "Condusă de Kgosi Sechele I", "Rămășițe de fortificații", "Aproape de Molepolole"],
+      en: ["1852 battle site", "Bakwena vs Boer commandos", "Key event in Tswana history", "Located near Manyana"]
     }
   },
   {
@@ -500,16 +500,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A manyana-rock-paintings-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/manyana-rock-paintings-history-v2.webp",
     description: {
-      de: "Die Felsmalereien von Manyana sind ein wichtiges Zeugnis der frühen Bewohner der Region.",
+      de: "Die Felsmalereien von Manyana bieten einen Einblick in die Kunst und das Leben der frühen Bewohner der Region.",
       hu: "A Manyana sziklafestmények a korai vizuális kultúra és az ősi közösségek nyomait őrzik. A hely a botswanai rock art egyik ismert példája.",
-      ro: "",
-      en: "Ancient rock paintings near Manyana that preserve San art. The site is part of Botswana's deep precolonial record."
+      ro: "Picturi rupestre San remarcabile situate pe o stâncă de granit, ilustrând viața sălbatică și figuri umane.",
+      en: "These ancient rock paintings near Manyana village are believed to have been created by the San people over 2,000 years ago."
     },
     facts: {
-      de: ["Rock Art", "san-bezogene Überlieferung", "geschützte Kulturerbestätte"],
+      de: ["Tausende Jahre alt", "Leicht zugängliche Felswand", "Darstellungen von Tieren"],
       hu: ["Sziklafestmények", "Régészeti érték", "Manyana falunál"],
-      ro: [],
-      en: ["San rock art", "Southern Botswana", "Precolonial heritage"]
+      ro: ["Lângă satul Manyana", "Accesibile vizitatorilor", "Stil artistic policrom", "Situl Livingstones Tree în apropiere"],
+      en: ["Ancient San rock art", "Estimated 2,000 years old", "Located near Manyana village", "Features giraffe and human figures"]
     }
   },
   {
@@ -530,16 +530,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A livingstones-tree-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/livingstones-tree-history-v2.webp",
     description: {
-      de: "Livingstones Tree ist ein historischer Ort, der mit den Reisen von David Livingstone verbunden ist.",
-      hu: "A Livingstone fája egy misszionárius emlékezetéhez kötődő történeti helyszín. A fa a helyi keresztény missziók és a 19. századi utazások jelképe lett.",
-      ro: "",
-      en: "A tree site linked to David Livingstone's travels in Botswana. It is a symbolic marker of early exploration history."
+      de: "Der Livingstone-Baum bei Manyana soll der Ort gewesen sein, an dem der Entdecker seine Botschaften hinterließ.",
+      hu: "Egy hatalmas fa Manyana közelében, amely alatt a híres felfedező, David Livingstone pihent és prédikált.",
+      ro: "Un arbore sub care se crede că David Livingstone a predicat și s-a odihnit în timpul călătoriilor sale.",
+      en: "This historic baobab or fig tree is associated with explorer David Livingstone, who used it as a landmark during his travels."
     },
     facts: {
-      de: ["Mit Livingstone verbunden", "Missionsroute", "lokales Erinnerungszeichen"],
-      hu: ["Livingstone emléke", "Missziós történet", "Jelképes fa"],
-      ro: [],
-      en: ["Livingstone link", "Travel history", "Symbolic site"]
+      de: ["Historischer Feigenbaum", "Legende um David Livingstone", "Wahrzeichen von Manyana"],
+      hu: ["Több mint 150 éves emlékhely", "A missziós utak egyik állomása", "Közelében sziklafestmények vannak", "Természeti és történelmi emlékmű"],
+      ro: ["Specie de Ficus pretoriae", "Símbol al epocii misionare", "Situat în satul Manyana", "Protejat ca monument național"],
+      en: ["Linked to David Livingstone", "Located near Manyana", "Historical landmark", "Used as a shaded campsite"]
     }
   },
   {
@@ -561,15 +561,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/shoshong-historic-site-history-v2.webp",
     description: {
       de: "Shoshong war einst ein bedeutender Siedlungs- und Handelsort im Inneren Botswanas.",
-      hu: "Shoshong történeti helyszíne egykor fontos település és kereskedelmi állomás volt. A régi központ a közép-botswanai történelem egyik kulcspontja.",
-      ro: "",
-      en: "The former settlement of Shoshong was once an important trading and political centre. Its remains reflect central Botswana's past."
+      hu: "A 19. század közepén a Bangwato törzs legfontosabb városa és kereskedelmi központja volt.",
+      ro: "Fosta capitală a poporului Bangwato în secolul al XIX-lea, un centru comercial major la acea vreme.",
+      en: "Shoshong was once a major regional trade hub and the capital of several Tswana tribes during the 19th century."
     },
     facts: {
       de: ["Ehemaliger Machtort", "Handelsgeschichte", "Central District"],
-      hu: ["Egykori település", "Kereskedelmi útvonal", "Közép-Botswana"],
-      ro: [],
-      en: ["Former capital", "Trade centre", "Central Botswana"]
+      hu: ["Egykor 30 000 lakosa volt", "Védett völgyben helyezkedik el", "A misszionáriusok bázisa volt", "Khama III itt keresztelkedett meg"],
+      ro: ["Aproape de dealurile Shoshong", "Vizitat de exploratori celebri", "Centru al rutei spre nord", "Rămășițe de fundații vechi"],
+      en: ["Former regional trade hub", "19th-century tribal capital", "Located in Central District", "Strategically located at a pass"]
     }
   },
   {
@@ -592,14 +592,14 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     description: {
       de: "Die Gcwihaba Caves sind ein Höhlensystem mit geologischer und historischer Bedeutung.",
       hu: "A Gcwihaba-barlangok a földtani formák mellett történeti és kulturális emléket is jelentenek. A barlangrendszer a nyugat-botswanai örökség különleges része.",
-      ro: "",
-      en: "A major cave system in northwestern Botswana. The caves are known for geology and long human use."
+      ro: "Un sistem spectaculos de peșteri cu stalactite și stalagmite, explorat de comunitățile locale de secole.",
+      en: "Gcwihaba Caves are a remote geological wonder featuring massive stalactites and stalagmites with deep ties to local oral history."
     },
     facts: {
       de: ["Kalksteinhöhlen", "abgelegene Nordwestregion", "spektakuläre Tropfsteinformationen"],
       hu: ["Barlangrendszer", "Nyugat-Botswana", "Kulturális érték"],
-      ro: [],
-      en: ["Cave system", "Northwestern Botswana", "Geological site"]
+      ro: ["Cunoscute și sub numele Drotsky's", "Izolate în deșertul Kalahari", "Sistem de peșteri labirintice", "Legende despre comori ascunse"],
+      en: ["Underground cave system", "UNESCO tentative list", "Located in Kalahari Desert", "Linked to local legends"]
     }
   },
   {
@@ -620,16 +620,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A moremi-gorge-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/moremi-gorge-history-v2.webp",
     description: {
-      de: "Die Moremi Gorge gilt als landschaftlich und kulturell bedeutender Ort in den Tswapong Hills.",
-      hu: "A Moremi-szurdok a helyi tájhoz és emlékezethez kötődő történeti pont. A szurdok a környék természetes átjáróit és régi útvonalait idézi fel.",
-      ro: "",
-      en: "A scenic gorge near Palapye with strong local cultural associations. It mixes landscape, legend, and heritage."
+      de: "Die Moremi-Schlucht in den Tswapong Hills ist ein spiritueller Ort mit Wasserfällen und antiken Grabstätten.",
+      hu: "A Tswapong-hegység szent szakadéka, amely vízeséseiről és ősi spirituális jelentőségéről ismert.",
+      ro: "Un defileu sacru în dealurile Tswapong, renumit pentru cascadele sale și semnificația spirituală profundă.",
+      en: "This scenic gorge in the Tswapong Hills is a sacred site for the local community, featuring permanent waterfalls and ancient shrines."
     },
     facts: {
-      de: ["Schlucht in Ostbotswana", "heiliger Ort", "mit Wasserfall verbunden"],
-      hu: ["Szurdok", "Helyi történeti pont", "Természetes átjáró"],
-      ro: [],
-      en: ["Near Palapye", "Scenic gorge", "Local stories"]
+      de: ["Heilige Ahnenstätte", "Einzigartige Vegetation", "Historische Rückzugsorte"],
+      hu: ["Az ősök szellemeinek lakhelye", "Szigorú belépési rituálék", "Ritka keselyűk fészkelőhelye", "Természetes medencék és sziklák"],
+      ro: ["Găzduiește vulturi rari", "Loc de ritualuri ancestrale", "Gestionat de comunitate", "Biodiversitate bogată"],
+      en: ["Sacred ancestral site", "Located in Tswapong Hills", "Features permanent waterfalls", "Managed by local community"]
     }
   },
   {
@@ -651,15 +651,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/motlhabaneng-rock-paintings-history-v2.webp",
     description: {
       de: "Die Felsmalereien von Motlhabaneng gehören zu den archäologischen Spuren früher Siedlungen.",
-      hu: "A Motlhabaneng sziklafestmények a korai közösségek művészi és rituális nyomait mutatják. A lelőhely a botswanai rock art térképének fontos pontja.",
-      ro: "",
-      en: "Rock paintings at Motlhabaneng that add to Botswana's ancient art record. They show long human presence in the area."
+      hu: "A Tuli-blokkban található sziklaművészeti lelőhely, amely a szan vadászó-gyűjtögetők életét örökíti meg.",
+      ro: "Picturi rupestre situate în estul Botswanei, prezentând scene detaliate de vânătoare și ritualuri.",
+      en: "The Motlhabaneng rock art site in the Tuli Block features well-preserved paintings of animals and human figures."
     },
     facts: {
       de: ["Archäologische Felskunst", "lokales Kulturerbe", "im Osten Botswanas"],
-      hu: ["Sziklarajzok", "Rituális örökség", "Régészeti lelőhely"],
-      ro: [],
-      en: ["Rock art", "Ancient heritage", "Eastern Botswana"]
+      hu: ["Vörös okkerrel festett alakok", "Állatokat és embereket ábrázol", "Homokkő sziklafalakon található", "Évszázados kulturális örökség"],
+      ro: ["În apropiere de Tuli Block", "Moștenire a poporului San", "Culori naturale durabile", "Acces prin albii de râu secate"],
+      en: ["Located in Tuli Block", "San rock art paintings", "Depicts wildlife and humans", "Accessible heritage site"]
     }
   },
   {
@@ -681,15 +681,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/serowe-royal-cemetery-history-v2.webp",
     description: {
       de: "Der königliche Friedhof in Serowe ist eng mit der Geschichte der Khama-Dynastie verbunden.",
-      hu: "A Serowe királyi temető a Bangwato uralkodóház emlékhelye. A temetkezési hely a helyi monarchikus hagyomány egyik legfontosabb pontja.",
-      ro: "",
-      en: "The royal cemetery in Serowe is the burial place of Bangwato leaders. It is closely tied to the Khama family history."
+      hu: "A Khama-család és Botswana alapító elnökének, Sir Seretse Khamának a nyughelye Serowéban.",
+      ro: "Cimitirul unde odihnesc membrii familiei regale Khama, dominând așezarea Serowe de pe un deal.",
+      en: "This cemetery is the final resting place of the Khama family, including Botswana's first president, Sir Seretse Khama."
     },
     facts: {
       de: ["Gräber der Herrscherfamilie", "Serowe als Königsort", "Bangwato-Geschichte"],
-      hu: ["Serowe-ban", "Bangwato uralkodóház", "Királyi temetkezés"],
-      ro: [],
-      en: ["Royal burials", "Serowe", "Bangwato leadership"]
+      hu: ["Egy dombtetőn található", "A törzsi kgotla felett fekszik", "A királyi dinasztia panteonja", "Lenyűgöző kilátás a városra"],
+      ro: ["Mormântul lui Seretse Khama", "Símbolul totemic al antilopei Duiker", "Loc de respect național", "Vedere asupra satului tradițional"],
+      en: ["Resting place of Khama family", "Located in Serowe", "Graves of Seretse and Ruth Khama", "Sacred national site"]
     }
   },
   {
@@ -711,15 +711,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/mochudi-kgotla-history-v2.webp",
     description: {
       de: "Die Kgotla in Mochudi steht für die traditionelle Rats- und Versammlungsordnung der Bakgatla.",
-      hu: "A Mochudi kgotla a hagyományos közösségi döntéshozatal emlékét és gyakorlatát képviseli. A hely a helyi igazgatás és a nyilvános tanácskozás fontos intézménye.",
-      ro: "",
-      en: "A traditional kgotla in Mochudi that reflects community decision-making. It remains a living part of local governance."
+      hu: "A Bakgatla törzs hagyományos tanácskozóhelye, ahol a mai napig törzsi bíráskodás és gyűlések zajlanak.",
+      ro: "Tribunalul tradițional al poporului Bakgatla, inima guvernării locale și a justiției comunitare.",
+      en: "The Kgotla in Mochudi is the traditional public meeting place and court of the Bakgatla-ba-Kgafela people."
     },
     facts: {
       de: ["Traditionelle Versammlung", "Lokale Rechtspflege", "Bakgatla-Tradition"],
-      hu: ["Hagyományos gyűléshely", "Közösségi döntéshozatal", "Mochudi-ban"],
-      ro: [],
-      en: ["Traditional council", "Mochudi", "Community governance"]
+      hu: ["A falu szellemi központja", "Félkör alakú faépítmény", "Törzsi vezetők székhelye", "Élő kulturális hagyomány"],
+      ro: ["Centru de luare a deciziilor", "Arhitectură tradițională vie", "Utilizat pentru ceremonii", "Condus de șeful de trib"],
+      en: ["Traditional tribal court", "Located in Mochudi", "Center of tribal governance", "Historic meeting place"]
     }
   },
   {
@@ -740,16 +740,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A ntsweng-heritage-site-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/ntsweng-heritage-site-history-v2.webp",
     description: {
-      de: "Ntsweng bewahrt die Spuren einer historischen Siedlung und ihrer lokalen Überlieferung.",
+      de: "Ntsweng ist die ehemalige Hauptstadt der Bakwena und ein bedeutendes archäologisches Denkmal.",
       hu: "A Ntsweng örökségi helyszín a helyi településtörténet és a közösségi emlékezet részét őrzi. A terület a hagyományos botswanai múlt egyik fontos nyoma.",
-      ro: "",
-      en: "A heritage area linked to older settlement patterns and local memory. It represents a layered part of central Botswana's past."
+      ro: "Locul fostei așezări Molepolole, abandonat în 1937, păstrând urmele vechii capitale Bakwena.",
+      en: "Ntsweng was the former capital of the Bakwena people before they moved to present-day Molepolole in 1937."
     },
     facts: {
-      de: ["Historische Siedlung", "Lokales Erbe", "Tradition im Süden Botswanas"],
+      de: ["Historische Siedlungsreste", "Königliche Gräber", "Zentrum der Stammesgeschichte"],
       hu: ["Örökségi helyszín", "Településtörténet", "Közösségi emlékezet"],
-      ro: [],
-      en: ["Heritage site", "Settlement history", "Central Botswana"]
+      ro: ["Găzduiește morminte regale", "Muzeu în aer liber", "Importanță istorică strategică", "Săpături arheologice active"],
+      en: ["Former Bakwena capital", "Located near Molepolole", "Archaeological ruins site", "Abandoned in 1937"]
     }
   },
   {
@@ -771,15 +771,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/kanye-kgotla-history-v2.webp",
     description: {
       de: "Die Kgotla in Kanye ist ein zentraler Ort für Beratung, Recht und Gemeinschaftsentscheidungen.",
-      hu: "A Kanye kgotla a hagyományos közösségi tanácskozás és igazságszolgáltatás helye. A hely a város társadalmi és történeti központi tere volt.",
-      ro: "",
-      en: "The kgotla in Kanye is part of the town's traditional leadership structure. It stands for public discussion and local authority."
+      hu: "A Bangwaketse nép ősi tanácskozóhelye, Botswana egyik legrégebbi folyamatosan lakott településén.",
+      ro: "Centrul administrativ tradițional al tribului Bangwaketse, situat într-una dintre cele mai vechi așezări.",
+      en: "The Kanye Kgotla serves as the administrative and judicial center for the Bangwaketse tribe, one of the oldest settlements in Botswana."
     },
     facts: {
       de: ["Traditioneller Rat", "Gemeinschaftsleben", "Ngwaketse-Geschichte"],
-      hu: ["Kanye-ban", "Hagyományos gyűléshely", "Közösségi döntéshozatal"],
-      ro: [],
-      en: ["Traditional court", "Kanye", "Leadership site"]
+      hu: ["Kanye dombjainak tetején van", "Történelmi jelentőségű ítéletek", "Hagyományos építészeti stílus", "Fontos politikai események helyszíne"],
+      ro: ["Unul dintre cele mai mari Kgotla", "Așezat pe un platou înalt", "Istorie lungă de autonomie", "Păstrează legile cutumiare"],
+      en: ["Bangwaketse tribal center", "Located in Kanye", "One of the oldest kgotlas", "Traditional judicial site"]
     }
   },
   {
@@ -800,16 +800,16 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       hu: ["A francistown-old-gold-mines-history-v2 területe több mint 500 hektár.", "1990-ben kapott kiemelt jelentőséget.", "Botswana egyik kulcsfontosságú pontja.", "A régió népessége az elmúlt években folyamatosan nőtt.", "Több ritka állatfaj élőhelye is itt található.", "A terület klímája félszáraz, szavannás jellegű."]
     }, image: "/poi-images/francistown-old-gold-mines-history-v2.webp",
     description: {
-      de: "Die alten Goldminen bei Francistown stehen für die frühe Bergbaugeschichte im Nordosten Botswanas.",
+      de: "Die alten Goldminen um Francistown zeugen vom Goldrausch des späten 19. Jahrhunderts in dieser Region.",
       hu: "Francistown régi aranybányái a város korai fejlődésének alapját adták. A bányászati múlt a település történetének egyik legfontosabb fejezete.",
-      ro: "",
-      en: "The old gold mines around Francistown recall the town's early mining boom. They are part of northern Botswana's industrial past."
+      ro: "Rămășițele primelor mine de aur din Africa Australă, care au declanșat prima goană după aur din regiune.",
+      en: "The ruins of early gold mines around Francistown reflect the 19th-century gold rush that predates the Witwatersrand discovery."
     },
     facts: {
-      de: ["Früher Bergbau", "Goldsuche", "Francistown-Region"],
+      de: ["Erste Goldmine des Südens", "Vorkolonialer Bergbau", "Historische Schächte"],
       hu: ["Aranybányászati múlt", "A város eredete", "Közép-északi Botswana"],
-      ro: [],
-      en: ["Gold mining history", "Francistown", "Mining heritage"]
+      ro: ["Exploatate în anii 1860", "Descoperite de Karl Mauch", "Minele Monarch și altele", "Originea numelui orașului"],
+      en: ["Site of early gold rush", "Predates Johannesburg mines", "Located near Francistown", "Historical industrial ruins"]
     }
   },
   {
@@ -832,14 +832,14 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     description: {
       de: "Das Denkmal bei der Orapa Diamond Mine erinnert an die industrielle Entwicklung durch den Diamantenabbau.",
       hu: "Az orapai gyémántbánya emlékműve a bányavidék kialakulásának történetére utal. Az emlékhely a modern botswanai gyémántipar kezdetét idézi fel.",
-      ro: "",
-      en: "A monument linked to the Orapa diamond mine and its role in Botswana's modern economy. It marks the mining era in the central region."
+      ro: "Un monument dedicat descoperirii pipei de kimberlit AK1, care a schimbat destinul economic al Botswanei.",
+      en: "This monument commemorates the 1967 discovery of diamonds at Orapa, which transformed Botswana's economic future."
     },
     facts: {
       de: ["Denkmal für den Bergbau", "Orapa als Diamantenzentrum", "Botswanas Minengeschichte"],
       hu: ["Orapa története", "Gyémántipari emlék", "Bányavidéki jelkép"],
-      ro: [],
-      en: ["Diamond industry", "Orapa area", "Economic memory"]
+      ro: ["Marchează punctul descoperirii", "Simbol al prosperității", "Acces restricționat (zonă minieră)", "Inaugurat de lideri de stat"],
+      en: ["Commemorates 1967 discovery", "Located in Orapa", "Symbol of economic shift", "Honors early geologists"]
     }
   },
   {
@@ -861,15 +861,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     }, image: "/poi-images/baratani-hill-history-v2.webp",
     description: {
       de: "Baratani Hill ist ein lokaler Hügel mit regionaler geschichtlicher Bedeutung.",
-      hu: "A Baratani-domb a helyi tájhoz kötődő történeti pontként ismert. A domb a közösségi emlékezetben őrzött, egyszerű, de fontos tájelem.",
-      ro: "",
-      en: "A local hill site with community associations in eastern Botswana. It adds a smaller but meaningful place to the heritage map."
+      hu: "Otse közelében fekvő misztikus hegy, amelyhez a legenda szerint két tragikus sorsú szerelmes története fűződik.",
+      ro: "Cunoscut sub numele de 'Dealul Îndrăgostiților', este un loc plin de legende despre o iubire tragică interzisă.",
+      en: "Baratani Hill, or 'Lovers' Hill', is a place of deep legend near Otse village, said to be haunted by star-crossed lovers."
     },
     facts: {
       de: ["Hügel mit Tradition", "Lokaler Orientierungspunkt", "mündliche Überlieferung"],
-      hu: ["Dombvidéki helyszín", "Helyi emlékezet", "Történeti táj"],
-      ro: [],
-      en: ["Local landmark", "Eastern Botswana", "Community history"]
+      hu: ["A neve Szerelmesek hegyét jelenti", "A helyiek szerint szellemek lakják", "Tilos rámutatni a dombra", "Botswana egyik legmagasabb pontja"],
+      ro: ["Lângă satul Otse", "Considerat munte sacru", "Acces interzis turiștilor", "Parte din folclorul local"],
+      en: ["Known as Lovers' Hill", "Located near Otse", "Place of local legends", "Steep cultural significance"]
     }
   },
   {
@@ -891,15 +891,15 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
     },
     description: {
       de: "Der Baobab von Kasane gilt als markanter historischer Treffpunkt im Chobe-Gebiet.",
-      hu: "A kasanei baobab egy régi, emlékezetes fa, amelyhez helyi történetek és útjelző szerep kapcsolódik. A fa a térség múltjának élő jelképe.",
-      ro: "",
-      en: "A historic baobab near Kasane associated with local memory and travel routes. It blends natural and cultural heritage."
+      hu: "Egy hatalmas, üreges baobab fa, amelyet a 20. század elején börtönként használtak a gyarmati hatóságok.",
+      ro: "Un baobab gigant care a servit drept închisoare locală în epoca colonială timpurie.",
+      en: "This enormous hollow baobab tree in Kasane once served as a local prison and now stands as a popular historical landmark."
     },
     facts: {
       de: ["Alter Affenbrotbaum", "Kasane als Grenzort", "Bezug zur Regionalgeschichte"],
-      hu: ["Kasane-ban", "Ősi baobab", "Helyi történetek"],
-      ro: [],
-      en: ["Historic tree", "Kasane", "Travel landmark"]
+      hu: ["Több száz éves élő növény", "Kasane központjában található", "Különleges üreges törzs", "Ma védett turisztikai látványosság"],
+      ro: ["Situat lângă secția de poliție", "Interior cavitar natural", "Vechime de sute de ani", "Atracție turistică în Kasane"],
+      en: ["Former hollowed-out prison", "Located in Kasane", "Giant ancient baobab", "Unique historical curiosity"]
     }
   },
 ];

@@ -10,134 +10,69 @@
   ],
   "items": [
     {
-      "id": "royal-palaces-abomey-history-v2",
-      "descriptionRo": "Fostul sediu al Regatului Dahomey, complexul cuprinde palate regale construite între secolele XVII și XIX. Aceste structuri din pământ sunt un simbol al puterii monarhilor locali.",
-      "factsRo": [
-        "Sediul Regatului Dahomey",
-        "Construite sec. XVII-XIX",
-        "Material: pământ și argilă",
-        "Patrimoniu mondial UNESCO"
-      ]
-    },
-    {
-      "id": "door-no-return-ouidah-history-v2",
-      "descriptionRo": "Poarta simbolică din Ouidah marchează punctul final al drumului sclavilor către mare. Este un monument de comemorare a miilor de oameni trimiși forțat în exil.",
-      "factsRo": [
-        "Memorial al sclaviei",
-        "Situată în Ouidah",
-        "Punct de plecare maritim",
-        "Simbol al suferinței"
-      ]
-    },
-    {
-      "id": "temple-pythons-ouidah-history-v2",
-      "descriptionRo": "Un lăcaș de cult tradițional din Ouidah unde pitonii sunt considerați creaturi sacre. Templele găzduiesc zeci de șerpi care circulă liber în incintă.",
-      "factsRo": [
-        "Lăcaș de cult voodoo",
-        "Pitonii sunt sacri",
-        "Situat în Ouidah",
-        "Ritualuri tradiționale"
-      ]
-    },
-    {
-      "id": "portuguese-fort-ouidah-history-v2",
-      "descriptionRo": "Construit de portughezi în secolul al XVIII-lea, acest fort a fost un centru important al comerțului colonial. Astăzi găzduiește un muzeu istoric despre perioada colonială.",
-      "factsRo": [
-        "Construit sec. XVIII",
-        "Fost centru comercial",
-        "Muzeu istoric local",
-        "Arhitectură colonială"
-      ]
-    },
-    {
       "id": "musee-honme-porto-novo-history-v2",
-      "descriptionRo": "Muzeul Honmé este fosta reședință a regilor din Porto-Novo. Expoziția prezintă obiecte regale, tronuri și artefacte ce ilustrează viața suveranilor locali.",
-      "factsRo": [
-        "Fostă reședință regală",
-        "Situat în Porto-Novo",
-        "Colecție de artă regală",
-        "Istorie locală"
-      ]
-    },
-    {
-      "id": "great-mosque-porto-novo-history-v2",
-      "descriptionRo": "Această moschee distinctivă este renumită pentru arhitectura sa braziliană unică. Este un monument religios și cultural major al orașului Porto-Novo.",
-      "factsRo": [
-        "Arhitectură braziliană",
-        "Situată în Porto-Novo",
-        "Centru religios major",
-        "Construcție istorică"
-      ]
-    },
-    {
-      "id": "agongointo-underground-history-v2",
-      "descriptionRo": "Satul subteran Agongointo constă într-o rețea de adăposturi construite de regele Dakodonou în secolul al XVII-lea. Structurile au fost descoperite în timpul unor lucrări moderne.",
-      "factsRo": [
-        "Construit sec. XVII",
-        "Rețea de adăposturi",
-        "Descoperire arheologică",
-        "Tehnici defensive"
-      ]
-    },
-    {
-      "id": "palace-king-nikki-history-v2",
-      "descriptionRo": "Palatul este centrul administrativ și spiritual al regatului Nikki din nordul Beninului. Este locul unde au loc ceremoniile tradiționale ale conducătorilor Bariba.",
-      "factsRo": [
-        "Sediul regatului Nikki",
-        "Centru spiritual Bariba",
-        "Nordul Beninului",
-        "Ceremonii tradiționale"
-      ]
-    },
-    {
-      "id": "akaba-idenan-ketou-history-v2",
-      "descriptionRo": "Poarta sacră Akaba Idenan este intrarea istorică în orașul vechi Ketou. Este considerată un simbol al protecției și identității comunității locale.",
-      "factsRo": [
-        "Poartă istorică",
-        "Situată în Ketou",
-        "Simbol identitar",
-        "Protecție spirituală"
-      ]
+      "description": "Muzeul Honmè este situat în fostul palat al regelui Toffa din Porto-Novo, oferind o perspectivă rară asupra vieții curții regale.",
+      "facts": ["Fost palat regal", "Situat în Porto-Novo", "Patrimoniu cultural"]
     },
     {
       "id": "tata-somba-houses-history-v2",
-      "descriptionRo": "Casele Tata Somba sunt fortărețe tradiționale din lut, specifice etniei Betammaribe din regiunea Atakora. Structura lor defensivă este unică în arhitectura africană.",
-      "factsRo": [
-        "Case-fortărețe",
-        "Etnia Betammaribe",
-        "Regiunea Atakora",
-        "Arhitectură defensivă"
-      ]
-    },
-    {
-      "id": "stade-amitie-cotonou-landmarks-v2",
-      "descriptionRo": "Cel mai mare stadion din Benin, situat în Cotonou, este principala arenă pentru evenimente sportive și culturale naționale. Stadionul poartă numele Generalului Mathieu Kérékou.",
-      "factsRo": [
-        "Stadion național",
-        "Situat în Cotonou",
-        "Capacitate mare",
-        "Evenimente sportive"
-      ]
+      "description": "Casele Tata Somba sunt locuințe fortificate unice, construite din pământ de poporul Somba în regiunea muntoasă Atakora.",
+      "facts": ["Locuințe fortificate", "Construcții din pământ", "Regiunea Atakora"]
     },
     {
       "id": "place-etoile-rouge-cotonou-landmarks-v2",
-      "descriptionRo": "Piața Stelei Roșii este un monument iconic din Cotonou, reprezentând perioada socialistă a istoriei Beninului. Este un punct de reper central în capitala economică.",
-      "factsRo": [
-        "Monument iconic",
-        "Situată în Cotonou",
-        "Simbol istoric",
-        "Punct de reper"
-      ]
+      "description": "Piața Steaua Roșie este un reper iconic în Cotonou, simbolizând perioada marxist-leninistă a istoriei moderne a Beninului.",
+      "facts": ["Simbol revoluționar", "Punct central în Cotonou", "Monument istoric"]
     },
     {
-      "id": "phare-cotonou-landmarks-v2",
-      "descriptionRo": "Farul din Cotonou este un punct de reper de navigație istoric de pe coasta Atlanticului. Acesta oferă o panoramă asupra portului și oceanului.",
-      "factsRo": [
-        "Far de navigație",
-        "Coasta Atlanticului",
-        "Situat în Cotonou",
-        "Vedere panoramică"
-      ]
+      "id": "songhai-center-life-v2",
+      "description": "Centrul Songhai din Porto-Novo este un model de renume mondial pentru agricultura durabilă și formarea antreprenorială în Africa.",
+      "facts": ["Centru de cercetare", "Agricultură ecologică", "Fondat în 1985"]
+    },
+    {
+      "id": "allada-pineapple-fields-life-v2",
+      "description": "Câmpiile de ananas din Allada produc unele dintre cele mai apreciate fructe din Benin, fiind esențiale pentru economia regiunii.",
+      "facts": ["Producție de ananas", "Export agricol major", "Sol fertil în Allada"]
+    },
+    {
+      "id": "banikoara-cotton-fields-life-v2",
+      "description": "Banikoara este inima producției de bumbac din Benin, regiunea fiind responsabilă pentru o mare parte din exporturile de bumbac ale țării.",
+      "facts": ["Capitala bumbacului", "Aurul alb al Beninului", "Economie rurală"]
+    },
+    {
+      "id": "mono-river-hippo-zone-life-v2",
+      "description": "Zona fluviului Mono este renumită pentru populația sa de hipopotami, oferind turiștilor ocazia de a vedea aceste animale în sălbăticie.",
+      "facts": ["Habitat hipopotami", "Ecoturism pe fluviu", "Biodiversitate bogată"]
+    },
+    {
+      "id": "grand-popo-turtle-beach-life-v2",
+      "description": "Plaja din Grand-Popo este un loc vital de cuibărit pentru broaștele țestoase marine, fiind protejată prin eforturi de conservare locale.",
+      "facts": ["Cuibărit țestoase", "Conservare marină", "Plajă de coastă"]
+    },
+    {
+      "id": "borgou-cattle-grazing-life-v2",
+      "description": "Regiunea Borgou este cunoscută pentru pășunatul extensiv al vitelor, o activitate tradițională practicată de poporul nomad Fulani.",
+      "facts": ["Pășunat tradițional", "Cultura Fulani", "Regiunea de nord"]
+    },
+    {
+      "id": "festi-parc-cotonou-life-v2",
+      "description": "Festi Parc este un spațiu de recreere modern în Cotonou, oferind diverse atracții și locuri de joacă pentru familiile din oraș.",
+      "facts": ["Parc de distracții", "Recreere urbană", "Destinație familială"]
+    },
+    {
+      "id": "abomey-calavi-botanical-garden-life-v2",
+      "description": "Grădina Botanică a Universității din Abomey-Calavi este o oază de biodiversitate utilizată pentru cercetare și conservarea plantelor native.",
+      "facts": ["Cercetare academică", "Conservarea plantelor", "Grădină universitară"]
+    },
+    {
+      "id": "tanguieta-baobab-forest-life-v2",
+      "description": "Pădurea de baobabi de lângă Tanguiéta impresionează prin arborii săi giganți și seculari, simboluri ale peisajului de savană africană.",
+      "facts": ["Arbori giganți", "Simbol african", "Peisaj de savană"]
+    },
+    {
+      "id": "oueme-river-nature-v2",
+      "description": "Fluviul Ouémé este cel mai lung curs de apă din Benin, fiind vital pentru pescuit, agricultură și transport în sudul țării.",
+      "facts": ["Cel mai lung fluviu", "Vital pentru pescuit", "Cale navigabilă"]
     }
   ]
 }

@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "andre-felix-wildlife-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der André-Félix-Nationalpark und seine angrenzenden Wildschutzgebiete befinden sich im äußersten Nordosten der Zentralafrikanischen Republik, in der Präfektur Vakaga an der Grenze zum Sudan. Geografisch wird die Region von einer weiten Dornstrauchsavanne und offenen Waldlandschaften dominiert. Die lokale Tierwelt umfasste historisch eine große Anzahl an Elefanten, Büffeln, Straußen und Großkatzen. Wirtschaftlich und ökologisch hat das Gebiet in den letzten Jahrzehnten extrem gelitten. Die anhaltenden bewaffneten Konflikte und die geographische Isolation haben dazu geführt, dass das Schutzgebiet faktisch unkontrolliert ist. Wilderer, oft in grenzüberschreitenden Banden organisiert, haben die Tierpopulationen massiv dezimiert. Der Tourismus, der theoretisch Einnahmen für den Parkschutz und die lokale Bevölkerung generieren könnte, liegt seit Jahrzehnten bei null. Für die lokale Bevölkerung spielt das Gebiet primär eine Rolle als Weideland für transhumante Viehzüchter, die mit ihren Herden die Grenzen überqueren. Die Stätte ist ein klares Beispiel für die gravierenden Auswirkungen politischer Instabilität auf den Naturschutz.",
+        "hu": "Az André-Félix Nemzeti Park és a hozzá tartozó vadon élő állatok védett területei a Közép-afrikai Köztársaság legészakkeletibb részén, a Vakaga prefektúrában, a szudáni határ mentén találhatók. Földrajzilag a régiót kiterjedt tüskés szavannák és nyílt erdőségek uralják. A helyi állatvilág történelmileg nagyszámú elefántot, bivalyt, struccot és nagymacskát foglalt magában. Gazdasági és ökológiai szempontból a terület az elmúlt évtizedekben rendkívül sokat szenvedett. A folyamatos fegyveres konfliktusok és a földrajzi elszigeteltség miatt a védett terület gyakorlatilag ellenőrizetlen. Az orvvadászok, akik gyakran határokon átnyúló bandákba szerveződnek, jelentősen megtizedelték az állományt. A turizmus, amely elméletileg bevételt generálhatna a park védelmére és a helyi lakosság számára, évtizedek óta a nullán áll. A lakosság számára a terület elsősorban a transzhumáns (vándorló) állattenyésztők legelőjeként funkcionál, akik csordáikkal gyakran átlépik az országhatárokat. A helyszín a politikai instabilitás természetvédelemre gyakorolt súlyos hatásait tükrözi.",
+        "ro": "Parcul Național André-Félix și zonele sale adiacente de protecție a faunei sălbatice sunt situate în nord-estul extrem al Republicii Centrafricane, în prefectura Vakaga, la granița cu Sudanul. Geografic, regiunea este dominată de o savană vastă cu arbuști spinoși și peisaje forestiere deschise. Fauna locală a inclus istoric un număr mare de elefanți, bivoli, struți și feline mari. Din punct de vedere economic și ecologic, zona a suferit extrem de mult în ultimele decenii. Conflictele armate continue și izolarea geografică au făcut ca aria protejată să fie practic necontrolată. Braconierii, adesea organizați în bande transfrontaliere, au decimat masiv populațiile de animale. Turismul, care teoretic ar putea genera venituri pentru protecția parcului și populația locală, este la zero de decenii. Pentru populația locală, zona joacă în principal un rol de pășune pentru crescătorii de animale transhumanți, care trec frecvent granițele cu turmele lor. Situl este un exemplu clar al efectelor instabilității politice asupra conservării naturii.",
+        "en": "The André-Félix National Park and its adjacent wildlife protection areas are located in the extreme northeast of the Central African Republic, in the Vakaga prefecture on the border with Sudan. Geographically, the region is dominated by a vast thorn-shrub savanna and open woodland landscapes. The local wildlife historically included a large number of elephants, buffaloes, ostriches, and big cats. Economically and ecologically, the area has suffered extremely over the past decades. Ongoing armed conflicts and severe geographical isolation have left the protected area virtually uncontrolled. Poachers, often organized in cross-border gangs, have massively decimated the animal populations. Tourism, which could theoretically generate revenue for park protection and the local population, has been at zero for decades. For the local population, the area primarily plays a role as grazing land for transhumant livestock breeders, who frequently cross borders with their herds. The site is a clear example of the severe effects of political instability on nature conservation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Park liegt in der nordöstlichen Präfektur Vakaga.",
+          "Er grenzt direkt an den benachbarten Staat Sudan.",
+          "Das Gebiet wird von Dornstrauchsavannen dominiert.",
+          "Grenzüberschreitende Wilderei ist ein massives Problem.",
+          "Nomaden nutzen die Flächen oft als Weideland."
+        ],
+        "hu": [
+          "A park az északkeleti Vakaga prefektúrában fekszik.",
+          "Közvetlenül a szomszédos Szudán államával határos.",
+          "A területet elsősorban tüskés szavannák uralják.",
+          "A határokon átnyúló orvvadászat hatalmas probléma.",
+          "A nomádok gyakran használják a területet legelőként."
+        ],
+        "ro": [
+          "Parcul este situat în prefectura nord-estică Vakaga.",
+          "Se învecinează direct cu statul vecin Sudan.",
+          "Zona este dominată în principal de savana cu spini.",
+          "Braconajul transfrontalier este o problemă masivă.",
+          "Nomazii folosesc frecvent zona drept teren de pășunat."
+        ],
+        "en": [
+          "The park is located in the northeastern Vakaga prefecture.",
+          "It directly borders the neighboring country of Sudan.",
+          "The area is predominantly dominated by thorn savanna.",
+          "Cross-border poaching remains a massive local problem.",
+          "Nomadic herders frequently use the land for grazing."
+        ]
+      }
+    },
+    {
+      "id": "bamingui-wildlife-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Bamingui-Bangoran-Nationalpark-Biosphärenreservat erstreckt sich über den nördlichen Teil der Zentralafrikanischen Republik. Es wird von den Flusssystemen des Bamingui und Bangoran durchzogen, die für das subsahelische Ökosystem überlebenswichtig sind. Historisch galt die Region als eines der artenreichsten Gebiete Zentralafrikas mit riesigen Populationen von Riesen-Elenantilopen, Leoparden und Geparden. Wirtschaftlich ist die Bedeutung des Parks für den Naturschutz und potenziellen Ökotourismus enorm, doch in der Realität haben Jahrzehnte der politischen Instabilität zum vollständigen Zusammenbruch der Verwaltung geführt. Ohne bezahlte Wildhüter oder staatliche Infrastruktur ist das Gebiet schwerer organisierter Wilderei zum Opfer gefallen. Die lokale Wirtschaft stützt sich auf Subsistenzfischerei in den Flüssen und Landwirtschaft an den Rändern des Parks. Der fehlende Schutz beeinträchtigt nicht nur die Tierwelt, sondern auch die Lebensgrundlage der einheimischen Fischer, da das ökologische Gleichgewicht der Wasserwege durch unregulierte Ausbeutung gestört wird.",
+        "hu": "A Bamingui-Bangoran Nemzeti Park és Bioszféra-rezervátum a Közép-afrikai Köztársaság északi részén terül el. A Bamingui és a Bangoran folyórendszerek szelik át, amelyek létfontosságúak a szubszáheli ökoszisztéma fennmaradásához. Történelmileg a régiót Közép-Afrika egyik fajokban leggazdagabb területének tartották, hatalmas jávorantilop-, leopárd- és gepárdpopulációkkal. Gazdasági szempontból a park jelentősége a természetvédelem és a potenciális ökoturizmus terén óriási lenne, de a valóságban a politikai instabilitás évtizedei a közigazgatás teljes összeomlásához vezettek. Fizetett vadőrök és állami infrastruktúra hiányában a terület a szervezett orvvadászat súlyos áldozatává vált. A helyi gazdaság a folyókban folytatott önellátó halászatra és a park peremén folytatott mezőgazdaságra támaszkodik. A védelem hiánya nemcsak az állatvilágot, hanem a helyi halászok megélhetését is érinti, mivel a vízi utak ökológiai egyensúlyát a szabályozatlan kizsákmányolás erősen megzavarja.",
+        "ro": "Rezervația Biosferei și Parcul Național Bamingui-Bangoran se întinde în partea de nord a Republicii Centrafricane. Este traversat de sistemele fluviale Bamingui și Bangoran, care sunt vitale pentru ecosistemul sub-sahelian. Istoric, regiunea a fost considerată una dintre cele mai bogate în specii din Africa Centrală, având populații uriașe de elani giganți, leoparzi și gheparzi. Din punct de vedere economic, importanța parcului pentru conservare și potențialul ecoturism este imensă, dar în realitate, decenii de instabilitate politică au dus la prăbușirea completă a administrației. Fără pădurari plătiți sau infrastructură de stat, zona a căzut victima braconajului organizat masiv. Economia locală se bazează pe pescuitul de subzistență în râuri și pe agricultura la marginile parcului. Lipsa de protecție afectează nu numai fauna sălbatică, ci și mijloacele de trai ale pescarilor locali, deoarece echilibrul ecologic al căilor navigabile este perturbat de exploatarea nereglementată.",
+        "en": "The Bamingui-Bangoran National Park and Biosphere Reserve spans the northern part of the Central African Republic. It is intersected by the Bamingui and Bangoran river systems, which are vital for the survival of the sub-Sahelian ecosystem. Historically, the region was considered one of the most species-rich areas in Central Africa, boasting huge populations of giant eland, leopards, and cheetahs. Economically, the park's importance for nature conservation and potential eco-tourism is enormous, but in reality, decades of political instability have led to the complete collapse of its administration. Without paid park rangers or state infrastructure, the area has fallen victim to severe organized poaching. The local economy relies on subsistence fishing in the rivers and agriculture on the fringes of the park. The lack of protection affects not only the wildlife but also the livelihoods of local fishermen, as the ecological balance of the waterways is disrupted by highly unregulated exploitation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Reservat liegt im Norden der Republik.",
+          "Zwei große Flusssysteme durchziehen den Nationalpark.",
+          "Das Gebiet leidet stark unter organisierter Wilderei.",
+          "Die staatliche Parkverwaltung ist nahezu zusammengebrochen.",
+          "Lokale Gemeinden betreiben Subsistenzfischerei in den Flüssen."
+        ],
+        "hu": [
+          "A rezervátum a köztársaság északi részén terül el.",
+          "Két nagy folyórendszer szeli át a nemzeti parkot.",
+          "A terület erősen szenved a szervezett orvvadászattól.",
+          "Az állami parkigazgatás szinte teljesen összeomlott.",
+          "A helyi közösségek önellátó halászatot folytatnak."
+        ],
+        "ro": [
+          "Rezervația este situată în nordul republicii.",
+          "Două sisteme fluviale majore traversează parcul național.",
+          "Zona suferă foarte mult din cauza braconajului organizat.",
+          "Administrația parcului de stat s-a prăbușit aproape complet.",
+          "Comunitățile locale practică pescuitul de subzistență."
+        ],
+        "en": [
+          "The reserve is located in the northern part of the republic.",
+          "Two major river systems flow through the national park.",
+          "The area suffers heavily from organized wildlife poaching.",
+          "The state park administration has almost completely collapsed.",
+          "Local communities practice subsistence fishing in the rivers."
+        ]
+      }
+    },
+    {
+      "id": "vakaga-pastoral-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die pastoralen Weidegebiete der Vakaga-Präfektur liegen im weiten Nordosten der Zentralafrikanischen Republik und sind stark von der sahelischen Klimazone geprägt. Diese trockenen, weiten Ebenen sind das Zentrum der Transhumanz, einer Form der mobilen Weidewirtschaft. Die Wirtschaft der Region basiert fast ausschließlich auf der Viehzucht, die von halbnomadischen Fulani (Peul)-Hirten betrieben wird. Jedes Jahr treiben sie große Rinderherden auf der Suche nach Wasser und frischem Weideland über die durchlässigen Grenzen in Richtung Tschad oder Sudan. Diese Rinder sind ein entscheidender Wirtschaftsfaktor für das Land, da sie den Großteil des nationalen Fleischbedarfs decken. Historisch und aktuell führt der Rhythmus der Transhumanz jedoch häufig zu Ressourcenkonflikten zwischen den nomadischen Hirten und den sesshaften Ackerbauern, insbesondere bei der Nutzung von Wasserstellen. Die staatliche Regulierung dieser Migrationsrouten ist schwach, was in Kombination mit der Präsenz bewaffneter Gruppen die Unsicherheit in der Region kontinuierlich verschärft.",
+        "hu": "A Vakaga prefektúra pásztorkodási és legeltetési területei a Közép-afrikai Köztársaság távoli északkeleti részén találhatók, és erősen meghatározza őket a száheli éghajlati övezet. Ezek a száraz, kiterjedt síkságok a transzhumancia, azaz a mobilis legeltető állattartás központjai. A régió gazdasága szinte kizárólag az állattenyésztésen alapul, amelyet félnomád fulani (peul) pásztorok végeznek. Minden évben hatalmas szarvasmarha-csordákat terelnek a határokon keresztül Csád vagy Szudán felé, friss vizet és legelőt keresve. Ezek a szarvasmarhák kritikus gazdasági tényezőt jelentenek az ország számára, mivel ők fedezik a nemzeti húsigény nagy részét. Történelmileg és napjainkban is a transzhumancia ritmusa gyakran vezet erőforrás-konfliktusokhoz a nomád pásztorok és a letelepedett földművesek között, különösen a vízlelőhelyek használata miatt. Ezeknek a vándorlási útvonalaknak az állami szabályozása gyenge, ami a fegyveres csoportok jelenlétével párosulva folyamatosan súlyosbítja a régió bizonytalanságát.",
+        "ro": "Terenurile pastorale din prefectura Vakaga sunt situate în nord-estul îndepărtat al Republicii Centrafricane și sunt puternic influențate de zona climatică saheliană. Aceste câmpii uscate și vaste sunt centrul transhumanței, o formă de păstorit mobil. Economia regiunii se bazează aproape exclusiv pe creșterea animalelor, practicată de păstorii semi-nomazi Fulani (Peul). În fiecare an, aceștia conduc turme mari de vite peste granițele poroase către Ciad sau Sudan, în căutare de apă și pășuni proaspete. Aceste vite sunt un factor economic crucial pentru țară, acoperind cea mai mare parte a necesarului național de carne. Din punct de vedere istoric și actual, ritmul transhumanței duce frecvent la conflicte pentru resurse între păstorii nomazi și fermierii sedentari, în special privind accesul la sursele de apă. Reglementarea statală a acestor rute de migrație este slabă, ceea ce, combinat cu prezența grupurilor armate, exacerbează continuu insecuritatea.",
+        "en": "The pastoral grazing lands of the Vakaga prefecture are located in the far northeast of the Central African Republic and are heavily influenced by the Sahelian climate zone. These dry, expansive plains are the absolute center of transhumance, a form of mobile pastoralism. The region's economy is almost exclusively based on livestock breeding, conducted by semi-nomadic Fulani (Peul) herders. Every year, they drive large herds of cattle across the porous borders toward Chad or Sudan in search of water and fresh grazing land. These cattle are a critical economic factor for the country, as they supply the vast majority of the national demand for meat. Historically and currently, however, the rhythm of transhumance frequently leads to resource conflicts between the nomadic herders and sedentary farmers, particularly regarding the use of water sources. State regulation of these migration routes is extremely weak, which, combined with the presence of armed groups, continuously exacerbates insecurity in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebiet liegt in der trockenen, sahelischen Klimazone.",
+          "Halbnomadische Hirten betreiben hier Transhumanz.",
+          "Die Rinder decken den Großteil des nationalen Fleischbedarfs.",
+          "Es kommt oft zu Konflikten mit sesshaften Bauern.",
+          "Die Herden überqueren oft Grenzen in Richtung Tschad."
+        ],
+        "hu": [
+          "A terület a száraz, száheli éghajlati övezetben fekszik.",
+          "A félnomád pásztorok itt transzhumáns állattartást folytatnak.",
+          "A szarvasmarhák fedezik a nemzeti húsigény legnagyobb részét.",
+          "Gyakran alakulnak ki konfliktusok a letelepedett gazdákkal.",
+          "A csordák gyakran lépik át a határt Csád irányába."
+        ],
+        "ro": [
+          "Zona este situată în zona climatică uscată, saheliană.",
+          "Păstorii semi-nomazi practică aici transhumanța animalelor.",
+          "Vitele acoperă majoritatea necesarului național de carne.",
+          "Apar frecvent conflicte majore cu fermierii sedentari.",
+          "Turmele traversează adesea granițele către statul Ciad."
+        ],
+        "en": [
+          "The area is located in the dry, Sahelian climate zone.",
+          "Semi-nomadic herders actively practice transhumance here.",
+          "The cattle supply the vast majority of the national meat demand.",
+          "Severe resource conflicts often arise with sedentary farmers.",
+          "The herds frequently cross national borders towards Chad."
+        ]
+      }
+    },
+    {
+      "id": "ouham-cotton-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Baumwollfelder der Ouham-Präfektur im Nordwesten der Zentralafrikanischen Republik um die Stadt Bossangoa repräsentieren das historische Herz der nationalen Cash-Crop-Wirtschaft. Eingeführt unter der französischen Kolonialverwaltung in den 1920er Jahren, wurde die Baumwollproduktion zum wichtigsten Exportgut und Arbeitgeber der Region. Zu Spitzenzeiten versorgte dieser Sektor Tausende von Familien mit einem festen Einkommen und kurbelte die lokale Infrastruktur durch Baumwollentkörnungsanlagen (Egreniermaschinen) an. In den letzten Jahrzehnten ist die Branche jedoch aufgrund des Verfalls der Weltmarktpreise, fehlender staatlicher Investitionen und vor allem durch die gewaltsamen Konflikte seit 2013 fast vollständig kollabiert. Landwirte in der Ouham-Region waren gezwungen, die exportorientierte Baumwolle aufzugeben und sich auf Subsistenzwirtschaft wie den Anbau von Maniok und Mais zu konzentrieren, um das eigene Überleben zu sichern. Die verlassenen und verrosteten Verarbeitungsanlagen in Bossangoa sind heute stumme Zeugen einer einst florierenden Agrarindustrie.",
+        "hu": "A Közép-afrikai Köztársaság északnyugati részén, Bossangoa városa körül található Ouham prefektúra gyapotföldjei a nemzeti export-mezőgazdaság (cash crop) történelmi szívét képviselik. Az 1920-as években, a francia gyarmati közigazgatás alatt bevezetett gyapottermelés a régió legfontosabb exportcikkévé és munkaadójává vált. Fénykorában ez az ágazat családok ezreinek biztosított stabil jövedelmet, és a gyapottisztító üzemek révén fellendítette a helyi infrastruktúrát. Az elmúlt évtizedekben azonban az iparág szinte teljesen összeomlott a világpiaci árak zuhanása, az állami beruházások hiánya és mindenekelőtt a 2013 óta tartó fegyveres konfliktusok miatt. Az Ouham régió gazdái kénytelenek voltak felhagyni az exportra szánt gyapot termesztésével, és a saját túlélésük biztosítása érdekében áttértek az önellátó mezőgazdaságra, például a manióka és a kukorica termesztésére. A bossangoai elhagyatott és rozsdásodó feldolgozóüzemek ma egy egykor virágzó agráripar néma tanúi.",
+        "ro": "Câmpurile de bumbac din prefectura Ouham, în nord-vestul Republicii Centrafricane, în jurul orașului Bossangoa, reprezintă inima istorică a economiei naționale a culturilor de numerar (cash crops). Introdusă sub administrația colonială franceză în anii 1920, producția de bumbac a devenit cel mai important export și angajator din regiune. La apogeu, acest sector a oferit un venit stabil pentru mii de familii și a stimulat infrastructura locală prin stațiile de egrenare a bumbacului. În ultimele decenii însă, industria s-a prăbușit aproape complet din cauza scăderii prețurilor globale, a lipsei de investiții de stat și, mai ales, a conflictelor violente din 2013. Fermierii din regiunea Ouham au fost forțați să abandoneze bumbacul orientat spre export și să se concentreze pe agricultura de subzistență, cum ar fi cultivarea de manioc și porumb, pentru a-și asigura supraviețuirea. Facilitățile de procesare abandonate și ruginite din Bossangoa sunt astăzi martori tăcuți ai unei industrii odată prospere.",
+        "en": "The cotton fields of the Ouham prefecture in the northwestern Central African Republic, surrounding the city of Bossangoa, represent the historical heart of the national cash crop economy. Introduced under French colonial administration in the 1920s, cotton production quickly became the region's most important export commodity and primary employer. At its peak, this sector provided a steady income for thousands of families and boosted local infrastructure through cotton ginning plants. In recent decades, however, the industry has almost completely collapsed due to the sharp decline in global market prices, a total lack of state investment, and, above all, the violent armed conflicts since 2013. Farmers in the Ouham region were forced to abandon export-oriented cotton and pivot strictly to subsistence farming, such as cultivating cassava and maize, simply to ensure their own survival. The abandoned and rusting processing facilities in Bossangoa stand today as silent witnesses to a once-flourishing agricultural industry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Felder liegen in der nordwestlichen Ouham-Präfektur.",
+          "Baumwolle wurde in den 1920er Jahren hier eingeführt.",
+          "Es war historisch das wichtigste Exportgut der Region.",
+          "Die Produktion ist durch den Bürgerkrieg fast kollabiert.",
+          "Bauern setzen nun vermehrt auf Subsistenzwirtschaft."
+        ],
+        "hu": [
+          "A földek az északnyugati Ouham prefektúrában találhatók.",
+          "A gyapotot az 1920-as években honosították meg itt.",
+          "Történelmileg ez volt a régió legfőbb exportcikke.",
+          "A termelés a fegyveres polgárháború miatt szinte összeomlott.",
+          "A gazdák ma már kényszerből az önellátó gazdálkodásra tértek át."
+        ],
+        "ro": [
+          "Câmpurile sunt situate în prefectura nord-vestică Ouham.",
+          "Bumbacul a fost introdus oficial aici în anii 1920.",
+          "A fost istoric cel mai important produs de export al zonei.",
+          "Producția s-a prăbușit aproape total din cauza războiului.",
+          "Fermierii se bazează acum din ce în ce mai mult pe subzistență."
+        ],
+        "en": [
+          "The fields are located in the northwestern Ouham prefecture.",
+          "Cotton was officially introduced here during the 1920s.",
+          "It was historically the most critical export good of the region.",
+          "Production has almost completely collapsed due to the civil war.",
+          "Farmers now increasingly rely on basic subsistence agriculture."
+        ]
+      }
+    },
+    {
+      "id": "mbaiki-coffee-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kaffeeplantagen von Mbaïki befinden sich in der Präfektur Lobaye, südlich der Hauptstadt Bangui, eingebettet in die fruchtbaren und feuchten Regenwälder der Region. Wirtschaftlich war der Kaffeeanbau (insbesondere der Robusta-Sorte) in Mbaïki neben der Holzindustrie über Jahrzehnte hinweg das Rückgrat der lokalen Ökonomie. Die dichten Wälder bieten das perfekte Mikroklima für die Kaffeesträucher. Historisch wurden diese Plantagen oft von Großgrundbesitzern betrieben, die sich stark auf die Handarbeit der lokalen Ba'Aka (Pygmäen) und der Bantubevölkerung verließen. Aufgrund logistischer Probleme, dem Fehlen von asphaltierten Transportwegen und stark schwankenden Weltmarktpreisen hat die Kaffeeproduktion in den letzten Jahren jedoch stark abgenommen. Viele Landwirte erhalten keine angemessene Entlohnung für ihre Ernten. Dennoch bleibt der Sektor ein essenzieller Bestandteil der Identität von Mbaïki. Die Kaffeekirschen werden noch immer größtenteils traditionell per Hand geerntet und in der Sonne getrocknet, bevor sie den Weg in die Röstung und den regionalen Handel finden.",
+        "hu": "Mbaïki kávéültetvényei a Lobaye prefektúrában, a fővárostól, Banguitól délre találhatók, beágyazódva a régió termékeny és párás esőerdeibe. Gazdasági szempontból a kávétermesztés (különösen a Robusta fajta) évtizedeken át a helyi gazdaság gerincét képezte a faipar mellett. A sűrű erdők tökéletes mikroklímát biztosítanak a kávécserjék számára. Történelmileg ezeket az ültetvényeket gyakran nagybirtokosok üzemeltették, akik nagymértékben támaszkodtak a helyi ba'aka (pigmeus) és bantu lakosság kétkezi munkájára. A logisztikai problémák, az aszfaltozott szállítási útvonalak hiánya és a világpiaci árak erős ingadozása miatt azonban a kávétermelés az elmúlt években jelentősen visszaesett. Sok gazda nem kap megfelelő díjazást a terméséért. Ennek ellenére az ágazat Mbaïki identitásának alapvető része marad. A kávécseresznyét még mindig nagyrészt hagyományosan, kézzel szüretelik, és a napon szárítják, mielőtt pörkölésre és a regionális kereskedelembe kerülne.",
+        "ro": "Plantațiile de cafea din Mbaïki sunt situate în prefectura Lobaye, la sud de capitala Bangui, fiind încorporate în pădurile tropicale fertile și umede ale regiunii. Din punct de vedere economic, cultivarea cafelei (în special a soiului Robusta) a fost coloana vertebrală a economiei locale din Mbaïki timp de decenii, alături de industria lemnului. Pădurile dense oferă microclimatul perfect pentru arbuștii de cafea. Din punct de vedere istoric, aceste plantații au fost adesea administrate de mari proprietari de pământ care se bazau puternic pe munca manuală a populației locale Ba'Aka (pigmei) și a populației Bantu. Cu toate acestea, din cauza problemelor logistice, a lipsei de rute de transport asfaltate și a fluctuațiilor severe ale prețurilor pe piața mondială, producția de cafea a scăzut brusc în ultimii ani. Mulți fermieri nu primesc o remunerație adecvată pentru recoltele lor. Cu toate acestea, sectorul rămâne o parte esențială a identității locale. Boabele de cafea sunt încă recoltate în mare parte manual.",
+        "en": "The coffee plantations of Mbaïki are located in the Lobaye prefecture, south of the capital Bangui, embedded in the highly fertile and humid rainforests of the region. Economically, coffee cultivation (particularly the Robusta variety) in Mbaïki served as the absolute backbone of the local economy for decades, alongside the logging industry. The dense forests provide the perfect microclimate for the coffee shrubs. Historically, these plantations were often operated by large landowners who relied heavily on the manual labor of the local Ba'Aka (Pygmy) and Bantu populations. However, due to severe logistical problems, a total lack of paved transport routes, and fluctuating world market prices, coffee production has declined sharply in recent years. Many farmers no longer receive adequate compensation for their harvests. Nevertheless, the sector remains an essential component of Mbaïki's identity. The coffee cherries are still largely harvested traditionally by hand and dried in the sun before making their way to roasting facilities and regional trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Plantagen befinden sich in der südlichen Lobaye-Region.",
+          "Angebaut wird hier hauptsächlich die robuste Robusta-Sorte.",
+          "Der dichte Regenwald bietet das perfekte Mikroklima.",
+          "Fehlende Straßen erschweren den Transport der Kaffeebohnen.",
+          "Die Ernte erfolgt fast ausschließlich durch reine Handarbeit."
+        ],
+        "hu": [
+          "Az ültetvények a déli Lobaye régió sűrű erdeiben fekszenek.",
+          "A területen főként az ellenálló Robusta kávéfajtát termesztik.",
+          "A dús esőerdő tökéletes és párás mikroklímát biztosít.",
+          "A hiányzó utak jelentősen megnehezítik a kávébabok szállítását.",
+          "A szüretelés szinte kizárólag kemény kétkezi munkával történik."
+        ],
+        "ro": [
+          "Plantațiile sunt situate în regiunea sudică împădurită Lobaye.",
+          "Aici se cultivă în principal soiul robust de cafea Robusta.",
+          "Pădurea tropicală densă oferă microclimatul absolut perfect.",
+          "Lipsa drumurilor face transportul boabelor de cafea dificil.",
+          "Recoltarea se face aproape exclusiv prin muncă manuală."
+        ],
+        "en": [
+          "The plantations are located in the southern Lobaye region.",
+          "The area primarily cultivates the hardy Robusta coffee variety.",
+          "The dense rainforest provides the absolute perfect microclimate.",
+          "A lack of paved roads severely complicates coffee bean transport.",
+          "The harvest is conducted almost exclusively by hard manual labor."
+        ]
+      }
+    },
+    {
+      "id": "bangui-zoo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Zoo von Bangui, oft als Parc Centrafricain bekannt, ist die einzige zoologische Einrichtung der Zentralafrikanischen Republik und befindet sich direkt in der Hauptstadt. Er wurde in der postkolonialen Ära mit dem Ziel gegründet, die reiche Biodiversität des Landes zu präsentieren und als Erholungsraum für die städtische Bevölkerung zu dienen. Historisch gesehen war der Zoo ein beliebter Anziehungspunkt für Familien, geriet jedoch in den letzten Jahrzehnten aufgrund der chronischen Unterfinanzierung und der wiederkehrenden Bürgerkriege in einen katastrophalen Zustand. Die wirtschaftliche Realität des Zoos ist prekär: Es gibt kaum staatliche Budgets für Futter oder tiermedizinische Versorgung. Oft überleben die verbliebenen Tiere, darunter Krokodile, Primaten und Raubkatzen, nur durch private Spenden von lokalen Bürgern oder internationalen NGOs. Trotz der schlechten Infrastruktur und der bedrückenden Bedingungen für die Tiere erfüllt der Zoo weiterhin eine Bildungsfunktion für die Kinder in Bangui, die oft keine andere Möglichkeit haben, die wilde Fauna ihres eigenen Landes aus der Nähe zu sehen.",
+        "hu": "A bangui állatkert, amelyet gyakran Parc Centrafricain néven is ismernek, a Közép-afrikai Köztársaság egyetlen zoológiai intézménye, és közvetlenül a fővárosban található. A posztkoloniális korszakban alapították azzal a céllal, hogy bemutassa az ország gazdag biodiverzitását, és rekreációs teret biztosítson a városi lakosság számára. Történelmileg az állatkert népszerű célpont volt a családok körében, de az elmúlt évtizedekben a krónikus alulfinanszírozottság és a visszatérő polgárháborúk miatt katasztrofális állapotba került. Az állatkert gazdasági valósága rendkívül bizonytalan: alig van állami költségvetés a takarmányra vagy az állatorvosi ellátásra. A megmaradt állatok – köztük krokodilok, főemlősök és nagymacskák – gyakran csak a helyi polgárok vagy nemzetközi civil szervezetek magánadományaiból maradnak életben. A rossz infrastruktúra és az állatok számára nyomasztó körülmények ellenére az állatkert továbbra is oktatási funkciót tölt be a bangui gyerekek számára, akiknek gyakran nincs más lehetőségük közelről látni saját országuk vadon élő állatait.",
+        "ro": "Grădina Zoologică din Bangui, cunoscută adesea sub numele de Parc Centrafricain, este singura instituție zoologică din Republica Centrafricană și se află chiar în capitală. A fost fondată în era postcolonială cu scopul de a prezenta bogata biodiversitate a țării și de a servi ca zonă de recreere pentru populația urbană. Istoric, grădina zoologică a fost o atracție populară pentru familii, dar în ultimele decenii a ajuns într-o stare dezastruoasă din cauza subfinanțării cronice și a războaielor civile recurente. Realitatea economică a grădinii zoologice este precară: cu greu există bugete de stat pentru hrană sau îngrijire veterinară. Adesea, animalele rămase, inclusiv crocodili, primate și feline mari, supraviețuiesc doar datorită donațiilor private de la cetățenii locali sau de la ONG-uri internaționale. În ciuda infrastructurii slabe și a condițiilor dificile pentru animale, grădina zoologică continuă să îndeplinească o funcție educațională pentru copiii din Bangui.",
+        "en": "The Bangui Zoo, widely known as the Parc Centrafricain, is the only zoological institution in the Central African Republic and is located directly in the capital. It was founded in the post-colonial era with the aim of showcasing the country's rich biodiversity and serving as a recreational area for the urban population. Historically, the zoo was a popular attraction for families but has fallen into a disastrous state in recent decades due to chronic underfunding and recurring civil wars. The economic reality of the zoo is highly precarious: there is virtually no state budget allocated for animal feed or basic veterinary care. Often, the remaining animals, which include crocodiles, primates, and big cats, survive solely through private donations from local citizens or international NGOs. Despite the highly degraded infrastructure and the depressing conditions for the animals, the zoo continues to fulfill an educational function for the children of Bangui, who often have no other opportunity to see the wild fauna of their own country up close."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der einzige zoologische Garten im gesamten Land.",
+          "Der Zoo wurde zur Erholung der Stadtbevölkerung gegründet.",
+          "Chronischer Geldmangel hat die Infrastruktur zerstört.",
+          "Die Tiere überleben oft nur durch private Spenden.",
+          "Für viele Schulkinder ist es der einzige Zugang zu Wildtieren."
+        ],
+        "hu": [
+          "Ez az egyetlen hivatalos állatkert az egész ország területén.",
+          "Az állatkertet a városi lakosság kikapcsolódására alapították.",
+          "A krónikus pénzhiány teljesen tönkretette az infrastruktúrát.",
+          "Az állatok gyakran csak magánadományokból maradnak életben.",
+          "Sok iskolás számára ez az egyetlen mód a vadállatok megfigyelésére."
+        ],
+        "ro": [
+          "Este singura grădină zoologică din întreaga țară.",
+          "Grădina zoologică a fost fondată pentru recreerea urbană.",
+          "Lipsa cronică de fonduri a distrus complet infrastructura.",
+          "Animalele supraviețuiesc adesea doar prin donații private.",
+          "Pentru mulți copii, este singurul acces la animale sălbatice."
+        ],
+        "en": [
+          "It is the only officially operating zoological garden in the country.",
+          "The zoo was established to provide urban recreational space.",
+          "A severe chronic lack of funds has destroyed the infrastructure.",
+          "The animals frequently survive solely through private donations.",
+          "For many schoolchildren, it is their only access to wildlife."
+        ]
+      }
+    },
+    {
+      "id": "boali-recreation-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Boali-Wasserfälle (Chutes de Boali) befinden sich etwa 100 Kilometer nordwestlich von Bangui in der Präfektur Ombella-M'Poko und sind eines der bekanntesten Naturwahrzeichen der Zentralafrikanischen Republik. Der M'Poko-Fluss stürzt hier auf einer Breite von 250 Metern eindrucksvoll rund 50 Meter in die Tiefe. Wirtschaftlich ist dieser Ort von existenzieller Bedeutung für das Land: Das nahegelegene Wasserkraftwerk von Boali (Boali I, II und III) produziert fast den gesamten Strom für die Hauptstadt Bangui. Ohne diese Anlagen würde das öffentliche Leben in der Metropole zum Erliegen kommen. Abseits der Energiegewinnung dienen die Wasserfälle als extrem wichtiges Naherholungsgebiet für die Stadtbewohner. An den Wochenenden reisen Familien aus Bangui an, was eine florierende, lokale Mikrowirtschaft geschaffen hat. Lokale Händler und Fischer verkaufen gegrillten Fisch, Maniok und Erfrischungen an die Besucher. Historisch war Boali ein Vorzeigeprojekt für die industrielle Entwicklung des Landes, heute spiegeln Stromausfälle jedoch die mangelnde Wartung der alternden Infrastruktur wider.",
+        "hu": "A Boali-vízesés (Chutes de Boali) Banguitól mintegy 100 kilométerre északnyugatra, az Ombella-M'Poko prefektúrában található, és a Közép-afrikai Köztársaság egyik legismertebb természeti nevezetessége. Az M'Poko-folyó itt 250 méter szélességben, lenyűgöző módon mintegy 50 méteres mélységbe zuhan. Gazdasági szempontból ez a hely létfontosságú az ország számára: a közeli boali vízerőmű (Boali I, II és III) termeli a főváros, Bangui szinte teljes villamosenergiáját. E létesítmények nélkül a metropolisz közösségi élete teljesen megbénulna. Az energiatermelés mellett a vízesések rendkívül fontos rekreációs területként szolgálnak a városlakók számára. Hétvégente családok utaznak ide Banguiból, ami egy virágzó helyi mikrogazdaságot hozott létre. A helyi árusok és halászok grillezett halat, maniókát és frissítőket árulnak a látogatóknak. Történelmileg Boali az ország ipari fejlődésének mintaprojektje volt, ma azonban a gyakori áramkimaradások az elöregedő infrastruktúra karbantartásának hiányát tükrözik.",
+        "ro": "Cascadele Boali (Chutes de Boali) sunt situate la aproximativ 100 de kilometri nord-vest de Bangui, în prefectura Ombella-M'Poko, fiind unul dintre cele mai faimoase repere naturale ale Republicii Centrafricane. Râul M'Poko se prăbușește aici spectaculos de la o înălțime de aproximativ 50 de metri, pe o lățime de 250 de metri. Din punct de vedere economic, acest loc este de o importanță existențială pentru țară: centrala hidroelectrică din apropiere (Boali I, II și III) produce aproape toată energia electrică pentru capitala Bangui. Fără aceste facilități, viața publică din metropolă ar paraliza. Dincolo de generarea de energie, cascadele servesc ca o zonă de recreere extrem de importantă pentru locuitorii orașului. La sfârșit de săptămână, familiile din Bangui călătoresc aici, creând o micro-economie locală prosperă. Comercianții și pescarii locali vând pește la grătar, manioc și băuturi răcoritoare vizitatorilor. Istoric, a fost un proiect etalon, dar astăzi penele de curent arată lipsa de întreținere.",
+        "en": "The Boali Falls (Chutes de Boali) are located about 100 kilometers northwest of Bangui in the Ombella-M'Poko prefecture and serve as one of the most famous natural landmarks of the Central African Republic. The M'Poko River impressively plunges about 50 meters down over a width of 250 meters. Economically, this location is of existential importance to the country: the nearby Boali hydroelectric power plants (Boali I, II, and III) generate nearly all of the electricity for the capital city of Bangui. Without these facilities, public life in the metropolis would grind to a halt. Beyond energy production, the waterfalls serve as an extremely important recreational area for city dwellers. On weekends, families travel from Bangui, which has created a flourishing local micro-economy. Local vendors and fishermen sell grilled fish, cassava, and refreshments to the visitors. Historically, Boali was a showcase project for the country's industrial development, but today, frequent power outages reflect the severe lack of maintenance of the aging infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Wasserfälle sind etwa 100 Kilometer von Bangui entfernt.",
+          "Das Wasser stürzt hier rund 50 Meter in die Tiefe.",
+          "Das lokale Kraftwerk liefert fast den gesamten Strom für Bangui.",
+          "Der Ort ist ein sehr beliebtes Wochenendziel für Familien.",
+          "Lokale Händler profitieren vom Verkauf von gegrilltem Fisch."
+        ],
+        "hu": [
+          "A vízesések körülbelül 100 kilométerre találhatók Banguitól.",
+          "A folyó vize itt mintegy 50 méteres mélységbe zuhan alá.",
+          "A helyi erőmű adja Bangui áramellátásának majdnem egészét.",
+          "A terület nagyon népszerű hétvégi kirándulóhely a családoknak.",
+          "A helyi árusok jelentősen profitálnak a grillezett hal eladásából."
+        ],
+        "ro": [
+          "Cascadele sunt situate la aproximativ 100 de kilometri de Bangui.",
+          "Apele râului se prăbușesc aici de la o înălțime de 50 de metri.",
+          "Centrala locală furnizează aproape tot curentul pentru Bangui.",
+          "Locul este o destinație de weekend foarte populară pentru familii.",
+          "Comercianții locali profită masiv din vânzarea de pește la grătar."
+        ],
+        "en": [
+          "The waterfalls are located roughly 100 kilometers from Bangui.",
+          "The river's water plunges approximately 50 meters down here.",
+          "The local power plant supplies almost all electricity for Bangui.",
+          "The location is a highly popular weekend destination for families.",
+          "Local vendors profit significantly from selling grilled fish."
+        ]
+      }
+    },
+    {
+      "id": "nana-mambere-cattle-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rindermärkte der Präfektur Nana-Mambéré, insbesondere rund um die Stadt Bouar im Westen der Zentralafrikanischen Republik, sind der absolute Dreh- und Angelpunkt für die nationale Fleischversorgung. Die Region liegt strategisch günstig an der Hauptverkehrsstraße, die den wichtigen Seehafen Douala in Kamerun mit Bangui verbindet. Wirtschaftlich ist dieser Viehhandel von enormer Bedeutung. Halbnomadische Fulani-Hirten (Peul) treiben ihre Zebu-Rinder aus den nördlichen Weidegebieten oder aus Kamerun zu diesen Märkten. Dort werden die Tiere von Großhändlern aufgekauft, auf Lkws verladen und in die Hauptstadt transportiert. Dieser Handel generiert nicht nur Einkommen für die Hirten, sondern schafft eine breite Wertschöpfungskette für lokale Metzger, Transporteure und Veterinärdienste. Historisch gesehen wurde dieses fragile Wirtschaftssystem durch den Bürgerkrieg ab 2013 schwer erschüttert, als bewaffnete Milizen begannen, Viehherden systematisch zu stehlen und Zölle an illegalen Straßensperren zu erpressen. Trotz dieser enormen Sicherheitsrisiken bleibt der Rinderhandel in Nana-Mambéré eine unverzichtbare Säule der Lebensmittelversorgung des Landes.",
+        "hu": "A Nana-Mambéré prefektúra szarvasmarhapiacai, különösen a Közép-afrikai Köztársaság nyugati részén fekvő Bouar városa körül, a nemzeti húsellátás abszolút központjai. A régió stratégiailag nagyon kedvező helyen, a kameruni Douala fontos tengeri kikötőjét Banguival összekötő fő közlekedési útvonalon fekszik. Gazdasági szempontból ez az állatkereskedelem óriási jelentőségű. Félnomád fulani (peul) pásztorok hajtják zebu marháikat az északi legelőkről vagy Kamerunból ezekre a piacokra. Ott a nagykereskedők felvásárolják az állatokat, teherautókra rakják és a fővárosba szállítják őket. Ez a kereskedelem nemcsak a pásztorok számára termel jövedelmet, hanem széles értékláncot hoz létre a helyi hentesek, szállítmányozók és állatorvosi szolgálatok számára is. Történelmileg ezt a törékeny gazdasági rendszert súlyosan megrázta a 2013-ban kezdődött polgárháború, amikor a fegyveres milíciák elkezdték szisztematikusan ellopni az állományokat és vámot zsarolni az illegális útakadályoknál. A hatalmas biztonsági kockázatok ellenére az itteni szarvasmarha-kereskedelem elengedhetetlen marad.",
+        "ro": "Piețele de vite din prefectura Nana-Mambéré, în special în jurul orașului Bouar din vestul Republicii Centrafricane, sunt punctul central absolut pentru aprovizionarea națională cu carne. Regiunea este situată strategic pe principala arteră de transport care leagă importantul port maritim Douala din Camerun de Bangui. Din punct de vedere economic, acest comerț cu animale are o importanță enormă. Păstorii semi-nomazi Fulani (Peul) își conduc vitele zebu din pășunile nordice sau din Camerun către aceste piețe. Acolo, animalele sunt cumpărate de comercianții angro, încărcate în camioane și transportate în capitală. Acest comerț nu numai că generează venituri pentru păstori, ci creează și un lanț valoric larg pentru măcelarii locali, transportatorii și serviciile veterinare. Istoric, acest sistem economic fragil a fost grav zdruncinat de războiul civil din 2013, când milițiile armate au început să fure sistematic turmele și să extorcheze taxe. În ciuda acestor riscuri masive de securitate, comerțul cu vite rămâne un pilon indispensabil.",
+        "en": "The cattle markets of the Nana-Mambéré prefecture, particularly around the city of Bouar in the western Central African Republic, are the absolute hub for the national meat supply. The region is strategically located on the main transport artery connecting the vital seaport of Douala in Cameroon with Bangui. Economically, this livestock trade is of enormous importance. Semi-nomadic Fulani (Peul) herders drive their Zebu cattle from the northern grazing areas or from Cameroon to these markets. There, the animals are purchased by wholesale traders, loaded onto transport trucks, and shipped to the capital. This trade not only generates essential income for the herders but also creates a broad value chain for local butchers, transporters, and veterinary services. Historically, this fragile economic system was severely shaken by the civil war starting in 2013, when armed militias began systematically stealing livestock and extorting tolls at illegal roadblocks. Despite these massive security risks, the cattle trade in Nana-Mambéré remains an indispensable pillar of the country's food supply."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Märkte sichern den Großteil der nationalen Fleischversorgung.",
+          "Fulani-Hirten treiben ihre Zebu-Rinder zu diesen Handelsplätzen.",
+          "Die Stadt Bouar ist das absolute Zentrum dieses Viehhandels.",
+          "Von hier aus werden die Rinder per Lkw nach Bangui gebracht.",
+          "Bewaffnete Milizen erpressen oft Steuern an den Transportrouten."
+        ],
+        "hu": [
+          "A piacok biztosítják a nemzeti húsellátás messze legnagyobb részét.",
+          "A fulani pásztorok hajtják a zebu marhákat ezekre a kereskedőhelyekre.",
+          "Bouar városa ennek az állatkereskedelemnek az abszolút központja.",
+          "Innen a felvásárolt szarvasmarhákat teherautókkal viszik Banguiba.",
+          "A fegyveres milíciák gyakran zsarolnak ki adót a szállítási útvonalakon."
+        ],
+        "ro": [
+          "Piețele asigură cea mai mare parte a aprovizionării cu carne.",
+          "Păstorii Fulani își aduc vitele zebu în aceste locuri de comerț.",
+          "Orașul Bouar este centrul absolut al acestui comerț cu animale.",
+          "De aici, vitele sunt transportate cu camioanele spre Bangui.",
+          "Milițiile armate extorchează frecvent taxe pe rutele de transport."
+        ],
+        "en": [
+          "The markets secure the vast majority of the national meat supply.",
+          "Fulani herders drive their Zebu cattle to these trading posts.",
+          "The city of Bouar is the absolute center of this livestock trade.",
+          "From here, the cattle are transported to Bangui via large trucks.",
+          "Armed militias frequently extort illegal taxes on transport routes."
+        ]
+      }
+    },
+    {
+      "id": "sangha-butterflies-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ufer des Sangha-Flusses im äußersten Südwesten der Zentralafrikanischen Republik sind berühmt für ein spektakuläres natürliches Phänomen: die massive Zusammenkunft von Schmetterlingen. In den feuchten, schlammigen Bereichen der Uferbänke sammeln sich oft Hunderttausende Schmetterlinge gleichzeitig. Ökologisch gesehen tun sie dies, um essentielle Mineralsalze aus dem feuchten Boden aufzusaugen (Puddling). Diese Schmetterlingsansammlungen sind ein exzellenter Bioindikator für die unberührte Gesundheit des Primärregenwaldes im Dzanga-Sangha-Schutzgebiet. Wirtschaftlich birgt dieses farbenprächtige Phänomen ein enormes Potenzial für den nachhaltigen Ökotourismus. Touristen, Naturfotografen und Insektenforscher, die den Park besuchen, generieren Einnahmen, die direkt in den Schutz des Waldes und in die Unterstützung der lokalen Ba'Aka-Gemeinschaften fließen. Historisch wurde das Gebiet durch illegale Abholzung bedroht, jedoch haben internationale Schutzprogramme dazu beigetragen, den Lebensraum der Schmetterlinge zu bewahren. Das Phänomen unterstreicht die komplexe und faszinierende Biodiversität Zentralafrikas abseits der klassischen Großtiere.",
+        "hu": "A Sangha-folyó partjai a Közép-afrikai Köztársaság legdélnyugatibb részén egy látványos természeti jelenségről híresek: a pillangók tömeges gyülekezéséről. A folyópartok nedves, iszapos részein gyakran több százezer pillangó gyűlik össze egy időben. Ökológiai szempontból ezt azért teszik, hogy a nedves talajból felszívják az életükhöz nélkülözhetetlen ásványi sókat. Ezek a hatalmas lepkerajok kiváló bioindikátorai a Dzanga-Sangha Védett Területen található őserdő érintetlen egészségének. Gazdasági szempontból ez a színpompás jelenség óriási lehetőséget rejt magában a fenntartható ökoturizmus számára. A parkba látogató turisták, természetfotósok és rovarkutatók olyan bevételeket generálnak, amelyek közvetlenül az erdő védelmét és a helyi ba'aka közösségek támogatását szolgálják. Történelmileg a területet fenyegette az illegális fakitermelés, de a nemzetközi védelmi programok segítettek megőrizni a lepkék élőhelyét. A jelenség jól mutatja Közép-Afrika összetett és lenyűgöző biodiverzitását a klasszikus nagyállatokon túl is.",
+        "ro": "Malurile râului Sangha din sud-vestul extrem al Republicii Centrafricane sunt faimoase pentru un fenomen natural spectaculos: adunarea masivă a fluturilor. În zonele umede și noroioase ale malurilor, se adună adesea sute de mii de fluturi simultan. Din punct de vedere ecologic, ei fac acest lucru pentru a absorbi sărurile minerale esențiale din solul umed. Aceste concentrări de fluturi sunt un excelent bioindicator pentru sănătatea neatinsă a pădurii tropicale primare din Aria Protejată Dzanga-Sangha. Economic, acest fenomen colorat are un potențial enorm pentru ecoturismul durabil. Turiștii, fotografii de natură și entomologii care vizitează parcul generează venituri care merg direct către protejarea pădurii și susținerea comunităților locale Ba'Aka. Din punct de vedere istoric, zona a fost amenințată de tăierea ilegală a arborilor, dar programele internaționale de conservare au ajutat la păstrarea habitatului fluturilor. Fenomenul subliniază biodiversitatea complexă și fascinantă a Africii Centrale dincolo de animalele mari.",
+        "en": "The banks of the Sangha River in the extreme southwest of the Central African Republic are famous for a spectacular natural phenomenon: the massive congregation of butterflies. In the damp, muddy areas of the riverbanks, hundreds of thousands of butterflies frequently gather at the exact same time. Ecologically, they do this to absorb essential mineral salts from the wet soil (a behavior known as mud-puddling). These massive butterfly swarms are an excellent bio-indicator of the pristine health of the primary rainforest within the Dzanga-Sangha Protected Area. Economically, this highly colorful phenomenon holds enormous potential for sustainable eco-tourism. Tourists, nature photographers, and entomologists who visit the park generate revenue that goes directly into forest conservation and supports the local Ba'Aka communities. Historically, the area was heavily threatened by illegal logging, but international conservation programs have helped to preserve the butterflies' habitat. The phenomenon highlights the complex and fascinating biodiversity of Central Africa beyond the classic large mammals."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hunderttausende Schmetterlinge sammeln sich am Flussufer.",
+          "Sie saugen dort lebenswichtige Mineralsalze aus dem Schlamm.",
+          "Die Ansammlung ist ein Bioindikator für einen gesunden Wald.",
+          "Das Phänomen zieht internationale Fotografen und Forscher an.",
+          "Internationale Schutzprogramme bewahren diesen Lebensraum."
+        ],
+        "hu": [
+          "Több százezer pillangó gyűlik össze egyszerre a folyóparton.",
+          "Az iszapból szívják fel az életükhöz elengedhetetlen sókat.",
+          "A lepkék jelenléte a trópusi erdő egészségének bioindikátora.",
+          "A jelenség nemzetközi fotósokat és rovarkutatókat vonz ide.",
+          "A nemzetközi védelmi programok sikeresen megőrzik ezt az élőhelyet."
+        ],
+        "ro": [
+          "Sute de mii de fluturi se adună masiv pe malurile râului.",
+          "Ei absorb sărurile minerale vitale direct din noroiul umed.",
+          "Adunarea lor este un bioindicator clar pentru o pădure sănătoasă.",
+          "Fenomenul atrage fotografi internaționali și cercetători.",
+          "Programele internaționale de conservare protejează acest habitat."
+        ],
+        "en": [
+          "Hundreds of thousands of butterflies gather on the riverbanks.",
+          "They extract vital mineral salts directly from the wet mud.",
+          "The gathering acts as a bio-indicator for a highly healthy forest.",
+          "The natural phenomenon attracts international photographers.",
+          "International conservation programs actively preserve this habitat."
+        ]
+      }
+    },
+    {
+      "id": "vakaga-hippos-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Flusssysteme der Vakaga-Präfektur im Nordosten der Zentralafrikanischen Republik sind einer der wichtigsten natürlichen Lebensräume für Flusspferde (Hippopotamus amphibius) im Land. Ökologisch spielen diese massiven Tiere eine absolute Schlüsselrolle: Durch ihren Dung, den sie im Wasser absetzen, bringen sie lebenswichtige Nährstoffe in die Flüsse ein, was die Fischpopulationen nährt und das gesamte aquatische Ökosystem im Gleichgewicht hält. Wirtschaftlich sind die lokalen Fischergemeinschaften der Region direkt von diesem nährstoffreichen Wasser abhängig, um ihren täglichen Lebensunterhalt zu sichern. Historisch gab es in dieser Gegend riesige Flusspferdpopulationen, doch in den letzten Jahrzehnten ist ihr Bestand dramatisch eingebrochen. Der Grund dafür ist die eskalierende Wilderei. Flusspferde werden nicht nur wegen ihres Fleisches illegal gejagt, sondern vor allem wegen ihrer Zähne (Flusspferdelfenbein), die auf dem internationalen Schwarzmarkt als Ersatz für Elefantenelfenbein stark gefragt sind. Der fehlende staatliche Schutz in der isolierten Vakaga-Region macht die Flusspferde extrem anfällig.",
+        "hu": "A Vakaga prefektúra folyórendszerei a Közép-afrikai Köztársaság északkeleti részén a vízilovak (Hippopotamus amphibius) egyik legfontosabb természetes élőhelyei az országban. Ökológiai szempontból ezek a hatalmas állatok abszolút kulcsszerepet játszanak: a vízbe ürített trágyájuk révén létfontosságú tápanyagokat juttatnak a folyókba, ami táplálja a halpopulációkat és egyensúlyban tartja az egész vízi ökoszisztémát. Gazdasági szempontból a régió halászközösségei közvetlenül függenek ettől a tápanyagban gazdag víztől mindennapi megélhetésük biztosítása érdekében. Történelmileg hatalmas vízilópopulációk éltek ezen a területen, de az elmúlt évtizedekben az állomány drámaian visszaesett. Ennek oka az eszkalálódó orvvadászat. A vízilovakat nemcsak húsuk miatt vadásszák illegálisan, hanem elsősorban fogaik (víziló elefántcsont) miatt, amelyeket a nemzetközi feketepiacon az elefántcsont helyettesítőjeként rendkívül keresnek. Az elszigetelt Vakaga régióban az állami védelem hiánya rendkívül sebezhetővé teszi az állatokat.",
+        "ro": "Sistemele fluviale din prefectura Vakaga din nord-estul Republicii Centrafricane sunt unul dintre cele mai importante habitate naturale pentru hipopotami (Hippopotamus amphibius) din țară. Din punct de vedere ecologic, aceste animale masive joacă un rol absolut cheie: prin balega lor depusă în apă, introduc nutrienți vitali în râuri, ceea ce hrănește populațiile de pești și menține echilibrul întregului ecosistem acvatic. Economic, comunitățile locale de pescari din regiune depind direct de această apă bogată în nutrienți pentru a-și asigura existența zilnică. Din punct de vedere istoric, existau populații uriașe de hipopotami în această zonă, dar în ultimele decenii numărul lor a scăzut dramatic. Motivul este braconajul în escaladare. Hipopotamii sunt vânați ilegal nu doar pentru carnea lor, ci mai ales pentru dinții lor (fildeș de hipopotam), care sunt la mare căutare pe piața neagră internațională ca substitut pentru fildeșul de elefant. Lipsa protecției statului îi face extrem de vulnerabili.",
+        "en": "The river systems of the Vakaga prefecture in the northeast of the Central African Republic are one of the most vital natural habitats for hippopotamuses (Hippopotamus amphibius) in the entire country. Ecologically, these massive animals play an absolute key role: through their dung deposited in the water, they introduce vital nutrients into the rivers, which heavily feeds the fish populations and keeps the entire aquatic ecosystem in balance. Economically, the local fishing communities in the region depend directly on this nutrient-rich water to secure their daily livelihoods. Historically, there were huge hippopotamus populations in this specific area, but in recent decades, their numbers have plummeted dramatically. The primary reason for this is escalating poaching. Hippos are illegally hunted not only for their meat but primarily for their teeth (hippo ivory), which are highly sought after on the international black market as a substitute for elephant ivory. The lack of state protection in the isolated Vakaga region makes the hippos extremely vulnerable."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Flüsse in Vakaga sind ein Hauptlebensraum für Flusspferde.",
+          "Der Dung der Tiere nährt Fische und das aquatische Ökosystem.",
+          "Lokale Fischer sind von diesem ökologischen Zyklus abhängig.",
+          "Flusspferde werden zunehmend wegen ihrer Zähne gejagt.",
+          "Flusspferd-Elfenbein wird teuer auf dem Schwarzmarkt gehandelt."
+        ],
+        "hu": [
+          "A Vakaga folyói a helyi vízilovak elsődleges élőhelyei.",
+          "Az állatok ürüléke halakat és a teljes vízi ökoszisztémát táplálja.",
+          "A helyi halászok megélhetése teljesen ettől a ciklustól függ.",
+          "A vízilovakat egyre gyakrabban vadásszák a fogaik miatt.",
+          "A víziló fogából készült elefántcsont rendkívül drága a feketepiacon."
+        ],
+        "ro": [
+          "Râurile din Vakaga sunt un habitat principal pentru hipopotami.",
+          "Balega lor hrănește masiv peștii și întregul ecosistem acvatic.",
+          "Pescarii locali depind complet de acest ciclu ecologic.",
+          "Hipopotamii sunt din ce în ce mai vânați pentru dinții lor.",
+          "Fildeșul de hipopotam se vinde extrem de scump pe piața neagră."
+        ],
+        "en": [
+          "The rivers in Vakaga are a primary habitat for hippopotamuses.",
+          "The animals' dung heavily feeds fish and the aquatic ecosystem.",
+          "Local fishermen depend entirely on this natural ecological cycle.",
+          "Hippos are increasingly hunted illegally solely for their teeth.",
+          "Hippo ivory is traded expensively on the international black market."
+        ]
+      }
+    }
+  ]
+}

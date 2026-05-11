@@ -1,0 +1,87 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "space-needle-landmarks-v2",
+      "description": "Die Space Needle ist ein markanter Aussichtsturm in Seattle, Washington, erbaut für die Weltausstellung 1962. Sie bietet einen 360-Grad-Blick auf die Stadt und die Umgebung.",
+      "facts": ["Iconisches Wahrzeichen Seattles.", "Höhe von 184 Metern.", "Drehendes Restaurant an der Spitze."]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "description": "Faneuil Hall in Boston, Massachusetts, ist eine historische Markthalle und ein Versammlungsort, der als Wiege der amerikanischen Freiheit bekannt ist.",
+      "facts": ["Wichtiger Ort der amerikanischen Revolution.", "Heute ein Einkaufszentrum.", "Beliebte Touristenattraktion."]
+    },
+    {
+      "id": "washington-monument-landmarks-v2",
+      "description": "Das Washington Monument ist ein hoher Obelisk in Washington, D.C., der George Washington, dem ersten Präsidenten der Vereinigten Staaten, gewidmet ist. Es ist ein Symbol nationaler Einheit.",
+      "facts": ["Höchstes Bauwerk in Washington, D.C.", "Aus Marmor, Granit und Sandstein.", "Gedenkstätte für George Washington."]
+    },
+    {
+      "id": "hollywood-bowl-landmarks-v2",
+      "description": "Die Hollywood Bowl ist ein berühmtes Amphitheater in Hollywood, Los Angeles, Kalifornien, bekannt für ihre unverwechselbare Muschelform und als Veranstaltungsort für Musikkonzerte.",
+      "facts": ["Historisches Wahrzeichen Los Angeles.", "Große Freilichtbühne.", "Heimat des Hollywood Bowl Orchestra."]
+    },
+    {
+      "id": "san-diego-zoo-life-v2",
+      "description": "Der San Diego Zoo ist ein weltberühmter Tierpark in San Diego, Kalifornien, bekannt für seine innovativen Gehege und Schutzprogramme. Er beherbergt über 12.000 Tiere.",
+      "facts": ["Einer der größten Zoos der Welt.", "Artenvielfalt und Artenschutz.", "Bekannt für seine Pandabären."]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "Der Yellowstone-Nationalpark ist der älteste Nationalpark der Welt und liegt hauptsächlich in Wyoming. Er ist berühmt für seine Geysire, heißen Quellen und Wildtiere.",
+      "facts": ["Erster Nationalpark weltweit.", "Bekannt für Geysire wie Old Faithful.", "Vielfältige Tierwelt (Bisons, Bären)."]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "Walt Disney World Resort in Orlando, Florida, ist ein riesiger Themenparkkomplex mit vier Hauptparks und zahlreichen Attraktionen. Es ist ein beliebtes Urlaubsziel für Familien.",
+      "facts": ["Größter Disney-Themenpark.", "Vier Hauptparks und zwei Wasserparks.", "Jährlich Millionen Besucher."]
+    },
+    {
+      "id": "everglades-national-park-life-v2",
+      "description": "Der Everglades-Nationalpark in Florida ist ein einzigartiges subtropisches Feuchtgebiet und ein UNESCO-Weltnaturerbe. Er beherbergt eine reiche Vielfalt an Wildtieren, darunter Alligatoren.",
+      "facts": ["Größtes tropisches Wildnisgebiet der USA.", "UNESCO-Weltnaturerbe.", "Heimat von Alligatoren und Seekühen."]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "description": "Der Central Park Zoo ist ein kleiner, aber beliebter Zoo im Herzen des Central Parks in New York City. Er bietet eine Heimat für verschiedene Tierarten in einer städtischen Umgebung.",
+      "facts": ["Im Central Park, New York City.", "Kleine, aber feine Tierauswahl.", "Beliebt bei Familien."]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "Der Denali-Nationalpark in Alaska beherbergt den höchsten Berg Nordamerikas, den Denali. Er ist bekannt für seine unberührte Wildnis und arktische Tierwelt.",
+      "facts": ["Höchster Berg Nordamerikas (Denali).", "Riesige Wildnisfläche.", "Beobachtung von Grizzlybären möglich."]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "Der Glacier-Nationalpark in Montana, oft als „Krone des Kontinents“ bezeichnet, ist bekannt für seine dramatischen Gletscherlandschaften, Seen und alpinen Wälder.",
+      "facts": ["Gletschergespeiste Seen.", "Going-to-the-Sun Road.", "Heimat von Bergziegen und Elchen."]
+    },
+    {
+      "id": "hersheypark-life-v2",
+      "description": "Hersheypark ist ein Themenpark in Hershey, Pennsylvania, der ursprünglich für die Mitarbeiter der Hershey Chocolate Company gebaut wurde. Er bietet Fahrgeschäfte und Shows zum Thema Schokolade.",
+      "facts": ["Themenpark der Hershey Company.", "Achterbahnen und Wasserattraktionen.", "Süßes Vergnügen für die ganze Familie."]
+    },
+    {
+      "id": "olympic-national-park-life-v2",
+      "description": "Der Olympic-Nationalpark in Washington ist ein UNESCO-Weltnaturerbe, das eine Vielzahl von Ökosystemen schützt, darunter Regenwälder, Bergketten und eine Küstenlinie.",
+      "facts": ["UNESCO-Weltnaturerbe.", "Einzigartige Ökosysteme.", "Temperierter Regenwald."]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "Das Shedd Aquarium in Chicago, Illinois, ist eines der größten Aquarien der Welt und beherbergt eine beeindruckende Vielfalt an Wasserlebewesen. Es liegt am Lake Michigan.",
+      "facts": ["Eines der größten Indoor-Aquarien.", "Über 32.000 Tiere.", "Forschung und Artenschutz."]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "Der Rocky Mountain National Park in Colorado ist berühmt für seine hochalpinen Landschaften, schneebedeckten Gipfel und reiche Tierwelt. Er ist ein Paradies für Wanderer.",
+      "facts": ["Spektakuläre Berglandschaften.", "Trail Ridge Road.", "Elche und Dickhornschafe."]
+    }
+  ]
+}

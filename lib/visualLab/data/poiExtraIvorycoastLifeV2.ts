@@ -100,7 +100,7 @@ export const poiExtraIvorycoastLifeV2: POI[] = [
       de: ["Höchster Punkt ca. 1.752 m.", "UNESCO-Welterbe seit 1981.", "Großes Eisenerzvorkommen.", "Einzigartige Graslandökosysteme.", "Enthält über 2.000 Pflanzenarten.", "Wichtig für die Klimaforschung."],
       hu: ["Legmagasabb pontja kb. 1752 m.", "1981 óta UNESCO Világörökség.", "Jelentős vasérckészlet.", "Egyedülálló gyeptársulásos ökoszisztémák.", "Több mint 2000 növényfaj található itt.", "Fontos az éghajlatkutatás számára."],
       ro: ["Cel mai înalt punct cca. 1.752 m.", "Patrimoniul Mondial UNESCO din 1981.", "Zăcăminte mari de minereu de fier.", "Ecosisteme de pășuni unice.", "Conține peste 2.000 de specii de plante.", "Important pentru cercetarea climatică."],
-      en: ["Highest point approx. 1,752 m.", "UNESCO World Heritage since 1981.", "Large iron ore deposits.", "Unique grassland ecosystems.", "Contains over 2,000 plant species.", "Important for climate research."]
+      en: ["Highest point approx. 1,752 m.", "Large iron ore deposits.", "Unique grassland ecosystems.", "Contains over 2,000 plant species.", "Important for climate research."]
     }, image: "/poi-images/reserve-naturelle-mont-nimba-life-v2.webp"},
   {
     id: "plantation-de-cafe-man-life-v2",

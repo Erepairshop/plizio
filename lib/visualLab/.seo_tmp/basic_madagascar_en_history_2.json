@@ -1,0 +1,39 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "antongil-bay-dutch-settlement-history-v2",
+      "description": "Antongil Bay was a site of historical Dutch settlement attempts in the 17th century, highlighting early European maritime interest in Madagascar's strategic location.",
+      "facts": ["17th-century European outpost", "Strategic maritime location", "Part of early colonial history"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Antongona consists of ancient stone fortifications built by the Merina kings, serving as a defensive structure in the central highlands to protect royal interests.",
+      "facts": ["Historic Merina fortifications", "Central highland defensive site", "Symbol of ancient royal power"]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "description": "Analamazaotra served as a colonial station during the era of French administration, acting as a center for infrastructure management and resource exploitation.",
+      "facts": ["French colonial era site", "Infrastructure hub of the time", "Witness to colonial administration"]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "description": "Toliara grew as an important administrative and trading center during the French colonial period, connecting the southwest with international maritime routes.",
+      "facts": ["Key southwestern trade hub", "Important colonial administration center", "Historical gateway to the southwest"]
+    },
+    {
+      "id": "cap-mined-diego-suarez-history-v2",
+      "description": "Diego Suarez (Antsiranana) and the surrounding Cape region have a long history as a strategic naval base, utilized by colonial powers for its natural harbor.",
+      "facts": ["Major strategic naval base", "Historical French colonial stronghold", "Famous natural deep-water harbor"]
+    },
+    {
+      "id": "nosy-boraha-fort-history-v2",
+      "description": "Nosy Boraha, formerly known as Île Sainte-Marie, contains historical fortifications that protected the island against pirates and rival colonial powers.",
+      "facts": ["Historical defensive fort", "Former hideout for pirates", "Important strategic island outpost"]
+    }
+  ]
+}

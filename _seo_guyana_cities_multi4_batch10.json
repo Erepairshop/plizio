@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "de-willem-cities-v2",
+      "descriptionAdvancedDe": "De Willem ist ein Dorf an der Westküste von Demerara in Guyana. Sein niederländischer Name spiegelt das koloniale Erbe der Region wider. Es liegt in einem dicht besiedelten Küstenstreifen, der für seine landwirtschaftliche Produktivität bekannt ist. Die Gemeinde ist überwiegend indo-guyanisch, und ihre Wirtschaft basiert traditionell auf dem Zuckerrohranbau. Mit dem Niedergang der Zuckerindustrie haben sich viele Einwohner anderen landwirtschaftlichen Tätigkeiten wie Reisanbau und Viehzucht sowie kleinen Unternehmen zugewandt. De Willem ist durch die Hauptküstenstraße gut angebunden, was den Zugang zu nahegelegenen Handelszentren wie Vreed-en-Hoop ermöglicht. Das Dorf bewahrt einen starken Gemeinschaftsgeist und reiche kulturelle Traditionen.",
+      "descriptionAdvancedHu": "De Willem egy falu Guyana Demerara nyugati partján. Holland neve a régió gyarmati örökségét tükrözi. Sűrűn lakott tengerparti sávban fekszik, amely mezőgazdasági termelékenységéről ismert. A közösség túlnyomórészt indo-guyanai, és gazdasága hagyományosan a cukornádtermesztésen alapult. A cukoripar hanyatlásával sok lakos más mezőgazdasági tevékenységek, például rizstermesztés és állattenyésztés, valamint kisvállalkozások felé fordult. De Willemet a fő tengerparti út jól összeköti, ami hozzáférést biztosít a közeli kereskedelmi központokhoz, mint például Vreed-en-Hoop. A falu megőrzi erős közösségi szellemét és gazdag kulturális hagyományait.",
+      "descriptionAdvancedRo": "De Willem este un sat de pe coasta de vest a Demerarei din Guyana. Numele său olandez reflectă moștenirea colonială a regiunii. Este situat într-o fâșie de coastă dens populată, cunoscută pentru productivitatea sa agricolă. Comunitatea este predominant indo-guyaneză, iar economia sa s-a bazat în mod tradițional pe cultivarea trestiei de zahăr. Odată cu declinul industriei zahărului, mulți locuitori s-au orientat spre alte activități agricole, cum ar fi cultivarea orezului și creșterea animalelor, precum și spre mici afaceri. De Willem este bine conectat prin drumul principal de coastă, permițând accesul la centrele comerciale din apropiere, cum ar fi Vreed-en-Hoop. Satul menține un spirit comunitar puternic și tradiții culturale bogate.",
+      "descriptionAdvancedEn": "De Willem is a village on the West Coast of Demerara, its Dutch name a reminder of the early colonial history of Guyana's coastland. The community is part of the continuous belt of villages along this coast, historically developed around sugar plantations. Today, it is a predominantly residential area with a strong agricultural base, including rice and cash crop cultivation. The population is largely Indo-Guyanese. The village is situated along the main public road, which provides a vital link for residents to access markets and services in larger nearby centers like Vreed-en-Hoop and Parika. De Willem maintains a quiet, rural character, typical of the West Coast Demerara, with close-knit family structures and community life.",
+      "factsAdvanced": [
+        "Holland neve a gyarmati múltra utal.",
+        "A Demerara nyugati partján található.",
+        "Történelmileg cukorültetvények vették körül.",
+        "Ma főként lakó- és mezőgazdasági terület.",
+        "A lakosság nagyrészt indo-guyanai.",
+        "A fő tengerparti út mentén fekszik.",
+        "Csendes, vidéki jellegű falu.",
+        "Erős közösségi és családi kötelékek jellemzik."
+      ]
+    },
+    {
+      "id": "ruimveldt-cities-v2",
+      "descriptionAdvancedDe": "Ruimveldt ist ein wichtiger Industrie- und Wohnbezirk am südlichen Rand von Georgetown. Es war ursprünglich eine große Zuckerplantage, wurde aber im Laufe der Zeit in die wachsende Hauptstadt integriert. Heute ist Ruimveldt ein vielfältiges Gebiet, das große Industrieanlagen, Lagerhäuser und Produktionsstätten beherbergt. Der Ruimveldt Industrial Estate ist ein wichtiger Knotenpunkt für die verarbeitende Industrie in Guyana. Daneben gibt es auch dicht besiedelte Wohnviertel. Das Gebiet wird vom Demerara-Fluss begrenzt, und seine Ufer sind oft von kommerziellen und industriellen Aktivitäten geprägt. Ruimveldt ist ein Beispiel für die Stadtentwicklung von Georgetown, bei der ehemalige landwirtschaftliche Flächen in multifunktionale städtische Zonen umgewandelt werden.",
+      "descriptionAdvancedHu": "Ruimveldt egy fontos ipari és lakónegyed Georgetown déli peremén. Eredetileg nagy cukorültetvény volt, de az idők során integrálódott a növekvő fővárosba. Ma Ruimveldt egy sokszínű terület, amely nagy ipari létesítményeknek, raktáraknak és gyártóüzemeknek ad otthont. A Ruimveldt ipari park Guyana feldolgozóiparának egyik fontos csomópontja. Emellett sűrűn lakott lakónegyedek is találhatók itt. A területet a Demerara folyó határolja, és partjait gyakran kereskedelmi és ipari tevékenységek jellemzik. Ruimveldt példa Georgetown városfejlődésére, ahol az egykori mezőgazdasági területeket többfunkciós városi zónákká alakítják át.",
+      "descriptionAdvancedRo": "Ruimveldt este un important district industrial și rezidențial la marginea de sud a orașului Georgetown. A fost inițial o mare plantație de zahăr, dar a fost absorbită de capitala în creștere de-a lungul timpului. Astăzi, Ruimveldt este o zonă diversă, care găzduiește facilități industriale mari, depozite și unități de producție. Zona industrială Ruimveldt este un nod important pentru industria prelucrătoare din Guyana. Alături de acestea, există și cartiere rezidențiale dens populate. Zona este mărginită de râul Demerara, iar malurile sale sunt adesea caracterizate de activități comerciale și industriale. Ruimveldt este un exemplu de dezvoltare urbană a Georgetown, unde fostele terenuri agricole sunt transformate în zone urbane multifuncționale.",
+      "descriptionAdvancedEn": "Ruimveldt is a major industrial and residential area on the southern edge of Georgetown. Originally a Dutch plantation, its name means 'spacious field'. Over the 20th century, it was absorbed into the expanding capital city. Today, it is known for the Ruimveldt Industrial Site, one of Guyana's most important manufacturing and industrial parks, housing numerous factories, warehouses, and businesses. The area is also a densely populated residential district, with a diverse mix of income levels. Its location on the bank of the Demerara River makes it strategic for shipping and industrial logistics. Ruimveldt is a critical economic zone for Georgetown, representing the country's industrial sector and urban expansion.",
+      "factsAdvanced": [
+        "Georgetown déli részén található ipari és lakóövezet.",
+        "A neve hollandul „tágas mezőt” jelent.",
+        "Eredetileg ültetvény volt.",
+        "Itt található a Ruimveldt ipari park.",
+        "Guyana egyik legfontosabb ipari központja.",
+        "Sűrűn lakott lakónegyedekkel is rendelkezik.",
+        "A Demerara folyó partján fekszik.",
+        "Georgetown gazdasági és városi terjeszkedésének kulcsfontosságú területe."
+      ]
+    },
+    {
+      "id": "la-grange-cities-v2",
+      "descriptionAdvancedDe": "La Grange ist ein Dorf an der Westbank des Demerara-Flusses, südlich der Demerara Harbour Bridge. Sein französischer Name, der „die Scheune“ bedeutet, deutet auf eine Vergangenheit als Plantage hin. Heute ist es eine überwiegend wohngeprägte Gemeinde, die von landwirtschaftlichen Flächen umgeben ist. Die Einwohner sind in einer Vielzahl von Berufen tätig, viele pendeln über die Brücke nach Georgetown. Die Gemeinde hat eine gemischte Bevölkerung und ein aktives Gemeinschaftsleben. La Grange profitiert von seiner Lage in der Nähe der Brücke, die einen einfachen Zugang zur Hauptstadt bietet, aber es bewahrt einen ruhigeren, ländlicheren Charakter als die städtischen Gebiete auf der anderen Seite des Flusses. Die Landwirtschaft, einschließlich Reisanbau und Viehzucht, spielt immer noch eine wichtige Rolle in der lokalen Wirtschaft.",
+      "descriptionAdvancedHu": "A La Grange egy falu a Demerara folyó nyugati partján, a Demerara kikötőhídtól délre. Francia neve, amely „a pajtát” jelenti, ültetvényes múltra utal. Ma túlnyomórészt lakóközösség, amelyet mezőgazdasági területek vesznek körül. A lakosok sokféle szakmában dolgoznak, sokan ingáznak a hídon át Georgetownba. A közösség vegyes lakossággal és aktív közösségi élettel rendelkezik. La Grange profitál a híd közelségéből, amely könnyű hozzáférést biztosít a fővároshoz, de megőrzi a folyó túloldalán lévő városi területeknél csendesebb, vidékiesebb jellegét. A mezőgazdaság, beleértve a rizstermesztést és az állattenyésztést, továbbra is fontos szerepet játszik a helyi gazdaságban.",
+      "descriptionAdvancedRo": "La Grange este un sat de pe malul de vest al râului Demerara, situat la sud de podul Demerara Harbour. Numele său francez, care înseamnă „hambarul”, sugerează un trecut de plantație. Astăzi, este o comunitate predominant rezidențială, înconjurată de terenuri agricole. Locuitorii sunt angajați într-o varietate de ocupații, mulți făcând naveta peste pod spre Georgetown. Comunitatea are o populație mixtă și o viață comunitară activă. La Grange beneficiază de locația sa în apropierea podului, care oferă acces ușor la capitală, dar menține un caracter mai liniștit, mai rural decât zonele urbane de peste râu. Agricultura, inclusiv cultivarea orezului și creșterea animalelor, joacă încă un rol important în economia locală.",
+      "descriptionAdvancedEn": "La Grange is a village on the West Bank of Demerara, located just south of the Demerara Harbour Bridge. Its name, French for 'The Barn', points to its history as a plantation. Today, La Grange is a populous residential community. Its strategic location near the Harbour Bridge makes it a popular place to live for people working in Georgetown, offering a slightly more relaxed, suburban atmosphere compared to the capital. The community is a mix of residential housing and small-scale agriculture. The main West Bank road runs through it, hosting a variety of small businesses. La Grange is a vibrant community that showcases the rapid residential development occurring on the West Bank of Demerara.",
+      "factsAdvanced": [
+        "A Demerara nyugati partján, a kikötőhídtól délre található.",
+        "A neve franciául „a pajtát” jelenti.",
+        "Népszerű lakóhely a Georgetownban dolgozók számára.",
+        "Kellemesebb, külvárosi hangulatot kínál.",
+        "Lakóházak és kisüzemi mezőgazdaság keveréke jellemzi.",
+        "A fő út mentén számos kisvállalkozás működik.",
+        "A falu a nyugati part gyors lakóövezeti fejlődését mutatja.",
+        "Vegyes etnikai összetételű lakossága van."
+      ]
+    },
+    {
+      "id": "wales-cities-v2",
+      "descriptionAdvancedDe": "Wales ist eine Gemeinde an der Westbank des Demerara-Flusses, die historisch gesehen für eines der größten Zuckeranwesen des Landes bekannt ist, das Wales Sugar Estate. Die Schließung des Anwesens im Jahr 2016 hatte verheerende sozioökonomische Auswirkungen auf die Gemeinde und Tausende von Arbeitern und ihre Familien, die direkt oder indirekt davon abhängig waren. Wales war eine klassische „Zuckerstadt“, deren gesamtes Leben sich um die Plantage drehte. Seit der Schließung kämpft die Gemeinde mit hoher Arbeitslosigkeit und wirtschaftlicher Not. Es werden Anstrengungen unternommen, die lokale Wirtschaft durch die Förderung von Reisanbau und anderen landwirtschaftlichen Unternehmungen zu diversifizieren. Die Geschichte von Wales ist ein eindringliches Beispiel für die tiefgreifenden Auswirkungen des Niedergangs der Zuckerindustrie auf die guyanischen Gemeinden.",
+      "descriptionAdvancedHu": "Wales egy közösség a Demerara folyó nyugati partján, amely történelmileg az ország egyik legnagyobb cukorgyáráról, a Wales Sugar Estate-ről ismert. A birtok 2016-os bezárása pusztító társadalmi-gazdasági hatással volt a közösségre, érintve több ezer munkást és családjaikat, akik közvetlenül vagy közvetve függtek tőle. Wales klasszikus „cukorváros” volt, amelynek egész élete az ültetvény körül forgott. A bezárás óta a közösség magas munkanélküliséggel és gazdasági nehézségekkel küzd. Erőfeszítések történnek a helyi gazdaság diverzifikálására a rizstermesztés és más mezőgazdasági vállalkozások ösztönzésével. Wales története megrendítő példája a cukoripar hanyatlásának a guyanai közösségekre gyakorolt mélyreható hatásainak.",
+      "descriptionAdvancedRo": "Wales este o comunitate de pe malul de vest al râului Demerara, renumită din punct de vedere istoric pentru una dintre cele mai mari moșii de zahăr din țară, Wales Sugar Estate. Închiderea moșiei în 2016 a avut un impact socio-economic devastator asupra comunității, afectând mii de muncitori și familiile acestora care depindeau direct sau indirect de aceasta. Wales a fost un „oraș de zahăr” clasic, cu întreaga sa viață învârtindu-se în jurul plantației. De la închidere, comunitatea s-a luptat cu un șomaj ridicat și cu dificultăți economice. Se fac eforturi pentru a diversifica economia locală prin promovarea cultivării orezului și a altor întreprinderi agricole. Povestea Țării Galilor este un exemplu elocvent al impactului profund al declinului industriei zahărului asupra comunităților guyaneze.",
+      "descriptionAdvancedEn": "Wales is a village on the West Bank of Demerara, historically synonymous with the Wales Sugar Estate. For over a century, the estate was the heart of the community, employing thousands and shaping every aspect of local life. The closure of the estate in 2016 was a major blow, leading to significant unemployment and economic hardship for the entire region. The story of Wales is a poignant case study in the decline of Guyana's sugar industry and its human cost. Before its closure, it was a bustling hub of activity, especially during the harvest season. Today, the community is in a period of difficult transition, as former sugar workers and their families seek alternative livelihoods in farming, fishing, and small businesses. The legacy of 'King Sugar' still looms large over Wales.",
+      "factsAdvanced": [
+        "A Demerara nyugati partján található.",
+        "Híres volt a Wales cukorgyárról.",
+        "A gyár bezárása 2016-ban súlyos csapás volt.",
+        "Jelentős munkanélküliséget és gazdasági nehézségeket okozott.",
+        "A közösség élete a cukoripartól függött.",
+        "A lakosok új megélhetési forrásokat keresnek.",
+        "A rizstermesztés és a halászat alternatívát jelent.",
+        "A cukoripar hanyatlásának szomorú példája."
+      ]
+    },
+    {
+      "id": "pouderoyen-cities-v2",
+      "descriptionAdvancedDe": "Pouderoyen ist eine Gemeinde an der Westbank des Demerara-Flusses, die Teil des städtischen Ballungsraums ist, der sich von Vreed-en-Hoop aus erstreckt. Sein niederländischer Name bedeutet „Puder“. Es ist eine dicht besiedelte Wohngegend mit einer Mischung aus Wohn- und Geschäftseigenschaften. Pouderoyen beherbergt das West Demerara Regional Hospital, das wichtigste medizinische Zentrum für die Region, was seine Bedeutung als Dienstleistungszentrum unterstreicht. Die Hauptstraße ist ein Zentrum der Aktivität mit vielen Geschäften, Banken und anderen Dienstleistungen. Die Gemeinde hat eine vielfältige Bevölkerung und ist ein aktives soziales und wirtschaftliches Zentrum. Ihre Entwicklung ist eng mit dem Wachstum von Vreed-en-Hoop und der zunehmenden Urbanisierung der Westbank verbunden.",
+      "descriptionAdvancedHu": "Pouderoyen egy közösség a Demerara folyó nyugati partján, amely a Vreed-en-Hoop-tól kiterjedő városi agglomeráció része. Holland neve „port” jelent. Sűrűn lakott lakónegyed, lakó- és kereskedelmi ingatlanok keverékével. Pouderoyen ad otthont a West Demerara Regionális Kórháznak, a régió fő orvosi központjának, ami növeli szolgáltató központként betöltött jelentőségét. A főút a tevékenységek központja, számos üzlettel, bankkal és egyéb szolgáltatással. A közösség sokszínű lakossággal rendelkezik, és aktív társadalmi és gazdasági központ. Fejlődése szorosan kapcsolódik Vreed-en-Hoop növekedéséhez és a nyugati part növekvő urbanizációjához.",
+      "descriptionAdvancedRo": "Pouderoyen este o comunitate de pe malul de vest al râului Demerara, care face parte din aglomerația urbană care se extinde de la Vreed-en-Hoop. Numele său olandez se traduce prin „pudră”. Este o zonă rezidențială dens populată, cu un amestec de proprietăți rezidențiale și comerciale. Pouderoyen găzduiește Spitalul Regional West Demerara, principalul centru medical pentru regiune, ceea ce îi sporește importanța ca centru de servicii. Drumul principal este un centru de activitate, cu multe magazine, bănci și alte servicii. Comunitatea are o populație diversă și este un centru social și economic activ. Dezvoltarea sa este strâns legată de creșterea Vreed-en-Hoop și de urbanizarea crescândă a malului de vest.",
+      "descriptionAdvancedEn": "Pouderoyen is a village on the West Bank of Demerara, located north of Vreed-en-Hoop. Its name is Dutch. It is a densely populated community that forms part of the continuous urban-like strip along this part of the river. Pouderoyen is critically important as it is the location of the West Demerara Regional Hospital, the primary public healthcare facility for the entire Essequibo Islands-West Demerara region. The main public road is lined with businesses, making it a busy commercial area. The community is a blend of residential homes and commercial enterprises, serving as a vital service hub for the West Bank. Its development is closely linked to the growth of its southern neighbor, Vreed-en-Hoop.",
+      "factsAdvanced": [
+        "A Demerara nyugati partján található, Vreed-en-Hoop-tól északra.",
+        "Holland eredetű neve van.",
+        "Sűrűn lakott közösség.",
+        "Itt található a West Demerara Regionális Kórház.",
+        "A régió elsődleges egészségügyi létesítménye.",
+        "A fő út mentén forgalmas kereskedelmi terület.",
+        "Fontos szolgáltató központ a nyugati parton.",
+        "Fejlődése szorosan kötődik Vreed-en-Hoophoz."
+      ]
+    }
+  ]
+}

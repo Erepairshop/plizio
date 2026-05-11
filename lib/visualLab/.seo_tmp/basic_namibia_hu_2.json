@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-otjiwarongo-agriculture-life-v2",
+      "description": "Otjiwarongo városa a namíbiai szarvasmarha-tenyésztés egyik központi mezőgazdasági régiója.",
+      "facts": ["Központ: Otjozondjupa", "Állattenyésztés", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "description": "Mariental a sivatagi mezőgazdaság központja, amely híres a közeli öntözött területeiről.",
+      "facts": ["Régió: Hardap", "Öntözéses földek", "Mezőgazdaság"]
+    },
+    {
+      "id": "namibia-outjo-agriculture-life-v2",
+      "description": "Outjo a mezőgazdasági kereskedelem fontos csomópontja az észak-namíbiai régióban.",
+      "facts": ["Régió: Kunene", "Kereskedelmi központ", "Állattenyésztés"]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "description": "Rundu városa az északi mezőgazdasági övezet egyik kulcsfontosságú kereskedelmi központja a folyó mentén.",
+      "facts": ["Régió: Kavango", "Folyómenti", "Kereskedelem"]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "description": "Sesriem környéke a gyermekek számára a namíb sivatagi élmények kapuja.",
+      "facts": ["Sivatagi táj", "Családbarát", "Természeti élmény"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Walvis Bay kikötővárosa számos vízi és szabadidős élményt kínál a családoknak.",
+      "facts": ["Kikötőváros", "Tengerparti", "Szabadidő"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Tsumkwe környéke a hagyományos életmód megismerésére nyújt lehetőséget a családok számára.",
+      "facts": ["Kulturális helyszín", "Hagyományőrzés", "Kalandturizmus"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Lüderitz történelmi tengerparti városa különleges látnivalókkal várja a gyermekes családokat.",
+      "facts": ["Tengerparti", "Történelmi város", "Kalandos környezet"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "A Caprivi-sáv sűrű erdői és mocsaras területei kivételes vadállomány otthona.",
+      "facts": ["Biodiverzitás", "Vizes élőhely", "Trópusi erdő"]
+    },
+    {
+      "id": "namibia-damaraland-animal-habitat-life-v2",
+      "description": "Damaraland száraz környezete a sivatagi elefántok egyik híres menedékhelye.",
+      "facts": ["Sivatagi elefántok", "Vadvilág", "Száraz éghajlat"]
+    }
+  ]
+}

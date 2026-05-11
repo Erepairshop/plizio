@@ -1,0 +1,236 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "desalination-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Meerwasserentsalzungsanlage Palmarejo befindet sich am südwestlichen Rand der Hauptstadt Praia auf der Insel Santiago und stellt die absolut kritischste Infrastruktur für die Wasserversorgung der bevölkerungsreichsten Stadt Kap Verdes dar. Da Santiago unter chronischem Wassermangel und unregelmäßigen Niederschlägen leidet, ist die Gewinnung von Trinkwasser aus dem Atlantik existenziell. Die Anlage nutzt das hochmoderne Verfahren der Umkehrosmose (Reverse Osmosis), bei dem Meerwasser unter extrem hohem Druck durch semipermeable Membranen gepresst wird, um Salz und Mineralien fast vollständig zu entfernen. Die Fabrik wird von der staatlichen Versorgungsgesellschaft ELECTRA betrieben und hat in den letzten Jahrzehnten massive Erweiterungen erfahren, um den rasant steigenden Bedarf der wachsenden urbanen Bevölkerung und der Industrie zu decken. Wirtschaftlich ist die Anlage jedoch eine Herausforderung, da der Prozess der Entsalzung massiv energieintensiv ist und Kap Verde bisher stark von importierten fossilen Brennstoffen zur Stromerzeugung abhängt. Dennoch ist die Anlage der einzige Garant für eine stabile Wasserversorgung abseits der erschöpften Grundwasserleiter im Landesinneren. In unmittelbarer Nähe wurden zudem Versuche unternommen, die Abwärme und Nebenprodukte effizienter zu nutzen. Die Anlage unterliegt strengen Qualitätskontrollen, um die Übereinstimmung mit internationalen Gesundheitsstandards für Trinkwasser sicherzustellen.",
+        "hu": "A palmarejói tengervíz-sótalanító üzem Praia főváros délnyugati szélén, Santiago szigetén található, és a legnépesebb zöld-foki város vízellátásának abszolút kritikus infrastruktúráját jelenti. Mivel Santiago krónikus vízhiányban szenved és a csapadék eloszlása rendkívül szabálytalan, az ivóvíz Atlanti-óceánból történő kinyerése egzisztenciális kérdés. Az üzem a legkorszerűbb fordított ozmózis (Reverse Osmosis) eljárást alkalmazza, amely során a tengervizet rendkívül nagy nyomáson préselik át féligáteresztő membránokon, hogy a sót és az ásványi anyagokat szinte teljes mértékben eltávolítsák. A gyárat az ELECTRA állami közműszolgáltató üzemelteti, és az elmúlt évtizedekben masszív bővítéseken esett át, hogy kielégítse a növekvő városi lakosság és az ipar rohamosan emelkedő igényeit. Gazdasági szempontból az üzem komoly kihívást jelent, mivel a sótalanítási folyamat rendkívül energiaigényes, a Zöld-foki-szigetek pedig eddig nagymértékben importált fosszilis tüzelőanyagoktól függött az áramtermelésben. Ennek ellenére ez az üzem az egyetlen garancia a stabil vízellátásra a sziget belsejében lévő, kimerült talajvízforrások mellett. A közvetlen közelben kísérleteket végeztek a hulladékhő és a melléktermékek hatékonyabb felhasználására is. A létesítmény szigorú minőségellenőrzés alatt áll, biztosítva az ivóvízre vonatkozó nemzetközi egészségügyi szabványoknak való megfelelést.",
+        "ro": "Uzina de desalinizare a apei de mare din Palmarejo este situată la periferia sud-vestică a capitalei Praia, pe insula Santiago, și reprezintă infrastructura absolut critică pentru alimentarea cu apă a celui mai populat oraș din Capul Verde. Deoarece Santiago suferă de un deficit cronic de apă și precipitații neregulate, obținerea apei potabile din Oceanul Atlantic este o chestiune existențială. Instalația utilizează procesul ultramodern de osmoză inversă (Reverse Osmosis), prin care apa de mare este presată sub o presiune extrem de ridicată prin membrane semipermeabile pentru a elimina aproape complet sarea și mineralele. Fabrica este operată de compania de stat ELECTRA și a beneficiat de extinderi masive în ultimele decenii pentru a satisface cererea în creștere rapidă a populației urbane și a industriei. Din punct de vedere economic, uzina reprezintă o provocare, deoarece procesul de desalinizare este extrem de intensiv din punct de vedere energetic, iar Capul Verde a depins până acum masiv de combustibilii fosili importați pentru generarea de energie electrică. Cu toate acestea, uzina este singurul garant pentru o alimentare stabilă cu apă, în afara straturilor acvifere epuizate din interiorul insulei. În imediata vecinătate s-au realizat, de asemenea, încercări de a utiliza mai eficient căldura reziduală și subprodusele. Instalația este supusă unor controale stricte de calitate pentru a asigura conformitatea cu standardele internaționale de sănătate pentru apa potabilă.",
+        "en": "The Palmarejo Desalination Plant is located on the southwestern outskirts of the capital city, Praia, on Santiago Island, and represents the absolute most critical infrastructure for the water supply of Cape Verde's most populous urban area. Since Santiago suffers from chronic water scarcity and highly irregular rainfall, extracting potable water from the Atlantic Ocean is an existential necessity. The facility utilizes state-of-the-art Reverse Osmosis technology, where seawater is forced under extremely high pressure through semi-permeable membranes to almost completely remove salt and dissolved minerals. Operated by the state utility company ELECTRA, the plant has undergone massive expansions over recent decades to meet the rapidly rising demands of the growing urban population and industrial sectors. Economically, the plant presents a challenge as the desalination process is heavily energy-intensive, and Cape Verde has historically relied on imported fossil fuels for electricity generation. Nevertheless, the facility is the sole guarantor of a stable water supply, bypassing the exhausted groundwater aquifers found in the island's interior. In the immediate vicinity, efforts have been made to utilize waste heat and process byproducts more efficiently. The plant is subject to rigorous quality controls to ensure total compliance with international health standards for drinking water."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hauptquelle für die Trinkwasserversorgung der Hauptstadt Praia.",
+          "Nutzt modernste Umkehrosmose-Technologie zur Meerwasserreinigung.",
+          "Wird von der staatlichen Energie- und Wassergesellschaft ELECTRA betrieben.",
+          "Sichert das Überleben der Bevölkerung unabhängig von Regenfällen.",
+          "Gilt als eine der größten und energieintensivsten Industrieanlagen der Insel.",
+          "Unterliegt täglichen strengen Laborkontrollen der Wasserqualität."
+        ],
+        "hu": [
+          "Praia főváros ivóvízellátásának elsődleges és legfontosabb forrása.",
+          "Modern fordított ozmózis technológiát alkalmaz a tengervíz tisztítására.",
+          "Az ELECTRA állami energia- és vízművállalat üzemelteti a létesítményt.",
+          "A csapadékmennyiségtől függetlenül biztosítja a lakosság túlélését.",
+          "A sziget egyik legnagyobb és leginkább energiaigényes ipari létesítménye.",
+          "Napi rendszerességű, szigorú laboratóriumi ellenőrzéseknek vetik alá a vízminőséget."
+        ],
+        "ro": [
+          "Sursa principală pentru alimentarea cu apă potabilă a capitalei Praia.",
+          "Utilizează tehnologia modernă de osmoză inversă pentru purificarea apei de mare.",
+          "Este operată de compania de stat de energie și apă ELECTRA.",
+          "Asigură supraviețuirea populației indiferent de cantitatea de precipitații.",
+          "Este considerată una dintre cele mai mari și mai energofage instalații industriale de pe insulă.",
+          "Este supusă zilnic unor controale stricte de laborator pentru calitatea apei."
+        ],
+        "en": [
+          "Primary source of potable water for the capital city, Praia.",
+          "Employs advanced reverse osmosis technology for seawater purification.",
+          "Operated and maintained by the state-owned utility company ELECTRA.",
+          "Guarantees a stable water supply regardless of seasonal rainfall levels.",
+          "Recognized as one of the largest and most energy-intensive industrial sites on the island.",
+          "Subject to rigorous daily laboratory monitoring of chemical and biological water quality."
+        ]
+      }
+    },
+    {
+      "id": "achada-grande-industrial-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Industriezone Achada Grande befindet sich im Osten von Praia auf der Insel Santiago und bildet das logistische und industrielle Herzstück von Kap Verde. Ihre strategische Lage ist absolut einzigartig, da sie unmittelbar zwischen dem Seehafen Porto da Praia und dem internationalen Flughafen Nelson Mandela liegt. Dieses geografische Dreieck ermöglicht eine hocheffiziente Abwicklung von Warenströmen. Die Zone beherbergt eine massive Konzentration von Lagerhäusern, Import-Export-Unternehmen, Bauzulieferern und mittelständischen Produktionsbetrieben. Hier werden lebenswichtige Güter wie Mehl, Zement und verarbeitete Lebensmittel für den nationalen Markt gelagert und verteilt. In den letzten Jahren hat die Regierung massiv in die Infrastruktur von Achada Grande investiert, einschließlich der Asphaltierung von Schwerlaststraßen und der Verbesserung der Strom- und Wasseranschlüsse. Die wirtschaftliche Bedeutung der Zone für die nationale Beschäftigungsrate ist enorm, da hunderte von Logistik- und Industriearbeitsplätzen direkt am Standort konzentriert sind. Zudem befinden sich hier wichtige Treibstofflager, die für die Energieversorgung der gesamten Insel Santiago und den Betrieb des Flughafens unverzichtbar sind. Die Architektur der Zone ist rein funktional durch großflächige Hallen und Containerterminals geprägt, was den industriellen Charakter der Hauptstadt unterstreicht.",
+        "hu": "Az Achada Grande ipari övezet Praia keleti részén, Santiago szigetén található, és a Zöld-foki-szigetek logisztikai és ipari központját alkotja. Stratégiai elhelyezkedése abszolút egyedülálló, mivel közvetlenül a Porto da Praia tengeri kikötő és a Nelson Mandela nemzetközi repülőtér között fekszik. Ez a földrajzi háromszög lehetővé teszi az áruforgalom rendkívül hatékony kezelését. Az övezetben hatalmas koncentrációban találhatók raktárak, import-export vállalatok, építőanyag-beszállítók és közepes méretű gyártóüzemek. Itt tárolják és osztják el a nemzeti piac számára alapvető fontosságú árukat, például lisztet, cementet és feldolgozott élelmiszereket. Az elmúlt években a kormány jelentős beruházásokat eszközölt Achada Grande infrastruktúrájába, beleértve a nehézgépjárművek számára alkalmas utak aszfaltozását, valamint az áram- és vízhálózat fejlesztését. Az övezet gazdasági jelentősége a nemzeti foglalkoztatás szempontjából óriási, mivel több száz logisztikai és ipari munkahely összpontosul közvetlenül ezen a helyszínen. Ezenkívül itt találhatók azok a fontos üzemanyag-raktárak is, amelyek nélkülözhetetlenek az egész Santiago sziget energiaellátásához és a repülőtér működéséhez. Az övezet építészete tisztán funkcionális, nagy csarnokok és konténerterminálok jellemzik, ami kiemeli a főváros ipari jellegét.",
+        "ro": "Zona industrială Achada Grande este situată în estul orașului Praia, pe insula Santiago, și formează nucleul logistic și industrial al Capului Verde. Locația sa strategică este absolut unică, deoarece se află imediat între portul maritim Porto da Praia și Aeroportul Internațional Nelson Mandela. Acest triunghi geografic permite gestionarea extrem de eficientă a fluxurilor de mărfuri. Zona găzduiește o concentrație masivă de depozite, companii de import-export, furnizori de construcții și unități de producție mijlocii. Aici sunt depozitate și distribuite bunuri esențiale precum făina, cimentul și alimentele procesate pentru piața națională. În ultimii ani, guvernul a investit masiv în infrastructura din Achada Grande, inclusiv pavarea drumurilor pentru trafic greu și îmbunătățirea conexiunilor de energie și apă. Importanța economică a zonei pentru rata națională de ocupare a forței de muncă este enormă, deoarece sute de locuri de muncă în logistică și industrie sunt concentrate direct în acest amplasament. În plus, aici se află depozite importante de combustibil, indispensabile pentru alimentarea cu energie a întregii insule Santiago și pentru operarea aeroportului. Arhitectura zonei este pur funcțională, marcată de hale mari și terminale de containere, subliniind caracterul industrial al capitalei.",
+        "en": "The Achada Grande Industrial Zone is located in eastern Praia on Santiago Island and forms the logistical and industrial heart of Cape Verde. Its strategic positioning is absolutely unique, as it lies directly between the Port of Praia and Nelson Mandela International Airport. This geographic triangle facilitates highly efficient management of cargo flows. The zone hosts a massive concentration of warehouses, import-export firms, construction material suppliers, and medium-sized manufacturing plants. Essential commodities such as flour, cement, and processed foods for the national market are stored and distributed here. In recent years, the government has invested heavily in Achada Grande's infrastructure, including the paving of heavy-duty roads and upgrading electricity and water connections. The economic significance of the zone for national employment levels is immense, with hundreds of logistical and industrial jobs concentrated directly at the site. Furthermore, major fuel storage facilities essential for the entire island of Santiago's energy supply and airport operations are located here. The architecture of the zone is purely functional, dominated by large-scale warehouses and container terminals, underscoring the capital city's industrial character."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentraler Industriestandort von Kap Verde mit höchster Betriebsdichte.",
+          "Strategisch positioniert zwischen dem Haupthafen und dem internationalen Flughafen.",
+          "Wichtigster Umschlagplatz für Baumaterialien und Grundnahrungsmittel.",
+          "Beherbergt die strategischen Treibstoffreserven für die Insel Santiago.",
+          "Massiver Ausbau der Infrastruktur und Schwerlastwege in den letzten Jahren.",
+          "Hauptknotenpunkt für die nationale Logistik und Güterverteilung."
+        ],
+        "hu": [
+          "A Zöld-foki-szigetek központi ipari területe, a legmagasabb üzemkoncentrációval.",
+          "Stratégiai elhelyezkedés a fő kikötő és a nemzetközi repülőtér között.",
+          "Az építőanyagok és alapvető élelmiszerek legfontosabb elosztóhelye.",
+          "Itt találhatók Santiago szigetének stratégiai üzemanyag-tartalékai.",
+          "Az elmúlt években jelentősen fejlesztették az úthálózatot és az infrastruktúrát.",
+          "A nemzeti logisztika és áruelosztás legfőbb csomópontja."
+        ],
+        "ro": [
+          "Locația industrială centrală a Capului Verde cu cea mai mare densitate de unități.",
+          "Poziționată strategic între portul principal și aeroportul internațional.",
+          "Cel mai important punct de transbordare pentru materiale de construcții și alimente de bază.",
+          "Găzduiește rezervele strategice de combustibil pentru insula Santiago.",
+          "Extindere masivă a infrastructurii și a drumurilor de trafic greu în ultimii ani.",
+          "Nodul principal pentru logistica națională și distribuția de mărfuri."
+        ],
+        "en": [
+          "Cape Verde's central industrial location with the highest density of commercial units.",
+          "Strategically positioned between the main seaport and the international airport.",
+          "Primary transit and storage point for construction materials and basic foodstuffs.",
+          "Houses the strategic national fuel reserves for Santiago Island.",
+          "Significant infrastructure upgrades for heavy-duty roads completed recently.",
+          "Main logistical hub for national supply chain and local goods distribution."
+        ]
+      }
+    },
+    {
+      "id": "lazareto-industrial-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Industriezone Lazareto liegt am westlichen Rand von Mindelo auf der Insel São Vicente und bildet das wirtschaftliche Gegengewicht zum historischen Stadtzentrum. Geografisch erstreckt sich die Zone entlang der Küste südwestlich des Hafens Porto Grande. Lazareto hat sich zum absolut wichtigsten Industriestandort der nördlichen Inselgruppe entwickelt. Der bedeutendste Betrieb in dieser Zone ist die Fischkonservenfabrik Frescomar, die einen massiven Anteil an den nationalen Exporten hält und über tausend Menschen beschäftigt. Neben der Fischverarbeitung beherbergt Lazareto Unternehmen aus dem Bereich der Logistik, der Schiffsversorgung und handwerkliche Betriebe. Die Zone profitiert massiv von der Nähe zum Tiefwasserhafen, was den Transport von Rohstoffen und fertigen Waren hocheffizient macht. Historisch leitet sich der Name 'Lazareto' von einer Quarantänestation ab, die im 19. Jahrhundert für ankommende Seeleute errichtet wurde. Heute ist das Gebiet jedoch vollständig industrialisiert und verfügt über moderne Energie- und Wasseranschlüsse. Wirtschaftlich gesehen generiert die Zone einen erheblichen Teil der Deviseneinnahmen von São Vicente. Trotz des industriellen Charakters ist die Zone auch ein Standort für die berufliche Bildung, da spezialisierte Zentren hier Fachkräfte für die maritime Wirtschaft ausbilden. Die Infrastruktur wird kontinuierlich ausgebaut, um weitere ausländische Investoren, insbesondere aus dem Fischereisektor, anzuziehen.",
+        "hu": "A Lazareto ipari övezet Mindelo nyugati szélén, São Vicente szigetén található, és a történelmi városközpont gazdasági ellensúlyát képezi. Földrajzilag az övezet a Porto Grande kikötőtől délnyugatra, a tengerpart mentén húzódik. Lazareto az északi szigetcsoport abszolút legfontosabb ipari helyszínévé fejlődött. A zóna legjelentősebb üzeme a Frescomar halkonzervgyár, amely a nemzeti export masszív hányadát adja, és több mint ezer embernek ad munkát. A halfeldolgozás mellett Lazareto logisztikai, hajóellátó és kisipari vállalkozásoknak is otthont ad. Az övezet hatalmasat profitál a mélyvízi kikötő közelségéből, ami rendkívül hatékonnyá teszi a nyersanyagok és a késztermékek szállítását. Történelmileg a 'Lazareto' név egy karanténállomásra utal, amelyet a 19. században az érkező tengerészek számára hoztak létre. Ma azonban a terület teljesen iparosodott, és modern áram- és vízhálózattal rendelkezik. Gazdasági szempontból az övezet termeli ki São Vicente devizabevételeinek jelentős részét. Az ipari jelleg ellenére a zóna a szakképzés helyszíne is, mivel speciális központok itt képzik a tengeri gazdaság szakembereit. Az infrastruktúrát folyamatosan bővítik, hogy további külföldi befektetőket vonzzanak, különösen a halászati ágazatból.",
+        "ro": "Zona industrială Lazareto este situată la marginea vestică a orașului Mindelo, pe insula São Vicente, și reprezintă contraponderea economică a centrului istoric al orașului. Geografic, zona se întinde de-a lungul coastei, la sud-vest de portul Porto Grande. Lazareto a devenit locația industrială absolut cea mai importantă din grupul de insule din nord. Cea mai semnificativă unitate din această zonă este fabrica de conserve de pește Frescomar, care deține o pondere masivă în exporturile naționale și angajează peste o mie de persoane. Pe lângă procesarea peștelui, Lazareto găzduiește companii din domeniul logisticii, aprovizionării navelor și unități meșteșugărești. Zona beneficiază masiv de proximitatea față de portul de ape adânci, ceea ce face transportul materiilor prime și al produselor finite extrem de eficient. Din punct de vedere istoric, numele „Lazareto” derivă de la o stație de carantină construită în secolul al XIX-lea pentru marinarul care soseau. Astăzi, însă, zona este complet industrializată și dispune de conexiuni moderne de energie și apă. Din punct de vedere economic, zona generează o parte considerabilă din veniturile în valută ale insulei São Vicente. În ciuda caracterului industrial, zona este și un loc pentru formarea profesională, deoarece centre specializate pregătesc aici forța de muncă pentru economia maritimă. Infrastructura este extinsă continuu pentru a atrage și alți investitori străini, în special din sectorul pescuitului.",
+        "en": "The Lazareto Industrial Zone is situated on the western edge of Mindelo on the island of São Vicente and acts as the economic counterweight to the historic city center. Geographically, the zone stretches along the coast southwest of the Porto Grande harbor. Lazareto has evolved into the absolute primary industrial site for the northern island group. The most significant operation in this zone is the Frescomar fish canning factory, which accounts for a massive share of national exports and employs over a thousand people. Besides fish processing, Lazareto houses companies specialized in logistics, ship chandling, and artisanal workshops. The zone benefits massively from its proximity to the deep-water port, making the transport of raw materials and finished goods highly efficient. Historically, the name 'Lazareto' derives from a quarantine station built in the 19th century for arriving sailors. Today, the area is fully industrialized and equipped with modern electricity and water services. Economically, the zone generates a substantial portion of São Vicente's foreign exchange earnings. Despite its industrial nature, the zone also serves as a location for vocational training, as specialized centers train staff for the maritime economy. Infrastructure is continuously upgraded to attract more foreign investors, particularly from the fishing sector."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster Industriestandort im Norden von Kap Verde.",
+          "Heimat der Frescomar-Fabrik, dem größten Exporteur des Landes.",
+          "Spezialisierung auf maritime Logistik und Fischverarbeitung.",
+          "Liegt strategisch günstig in unmittelbarer Nähe zum Porto Grande.",
+          "Historisch benannt nach einer Quarantänestation für Seeleute.",
+          "Zentraler Arbeitgeber für die lokale Bevölkerung von Mindelo.",
+          "Verfügt über moderne Ausbildungseinrichtungen für Berufe auf See."
+        ],
+        "hu": [
+          "Észak-Zöld-foki-szigetek legfontosabb ipari helyszíne.",
+          "Itt található a Frescomar gyár, az ország legnagyobb exportőre.",
+          "A tengeri logisztikára és a halfeldolgozásra specializálódott.",
+          "Stratégiai fekvésű, közvetlenül a Porto Grande kikötő mellett.",
+          "Történelmileg egy tengerészek számára fenntartott karanténállomásról nevezték el.",
+          "Mindelo lakossága számára központi munkáltatóként szolgál.",
+          "Modern képzési létesítményekkel rendelkezik a tengerészeti szakmák számára."
+        ],
+        "ro": [
+          "Cea mai importantă locație industrială din nordul Capului Verde.",
+          "Găzduiește fabrica Frescomar, cel mai mare exportator al țării.",
+          "Specializată în logistică maritimă și procesarea peștelui.",
+          "Situată strategic în imediata apropiere a portului Porto Grande.",
+          "Numită istoric după o stație de carantină pentru marinari.",
+          "Angajator central pentru populația locală din Mindelo.",
+          "Dispune de facilități moderne de instruire pentru profesiile maritime."
+        ],
+        "en": [
+          "The primary industrial site in the northern part of Cape Verde.",
+          "Home to the Frescomar factory, the country's largest exporter of goods.",
+          "Specializes in maritime logistics and large-scale fish processing.",
+          "Strategically located in immediate proximity to the Porto Grande harbor.",
+          "Historically named after a 19th-century quarantine station for sailors.",
+          "Main employer for the local population of Mindelo and surrounding areas.",
+          "Features modern vocational training centers for the maritime industry."
+        ]
+      }
+    },
+    {
+      "id": "solar-plant-palmarejo-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Solarkraftwerk Palmarejo befindet sich auf der Insel Santiago, unweit der Hauptstadt Praia, und ist ein Meilenstein in der kapverdischen Politik zur Förderung erneuerbarer Energien. Die Anlage wurde im Rahmen der nationalen Strategie errichtet, die Abhängigkeit von teuren und CO2-intensiven Importen fossiler Brennstoffe massiv zu verringern. Mit tausenden installierten Photovoltaik-Modulen auf einer Fläche von mehreren Hektar war es bei seiner Einweihung eines der größten Solarkraftwerke in Westafrika. Geografisch profitiert die Anlage von der außergewöhnlich hohen Sonneneinstrahlung und der geringen Bewölkung, die für die aride Zone von Santiago charakteristisch sind. Das Kraftwerk speist direkt in das lokale Stromnetz ein, das von der staatlichen Gesellschaft ELECTRA verwaltet wird. Wirtschaftlich gesehen trägt die Anlage zur Stabilisierung der Energiekosten bei und fördert die ökologische Nachhaltigkeit des Landes. Das Projekt wurde mit internationaler Unterstützung, insbesondere aus Portugal und durch multilaterale Entwicklungsbanken, finanziert. Neben der reinen Stromerzeugung dient das Solarkraftwerk Palmarejo auch als technologisches Demonstrationsprojekt für die Ausbildung einheimischer Ingenieure im Bereich der sauberen Energie. Die Lage in der Nähe des Industriegebiets von Praia macht es zu einem hocheffizienten dezentralen Energieerzeuger für die wichtigsten wirtschaftlichen Abnehmer der Insel.",
+        "hu": "A palmarejói naperőmű Santiago szigetén, Praia főváros közelében található, és mérföldkövet jelent a megújuló energiák népszerűsítését célzó zöld-foki politikában. A létesítményt azon nemzeti stratégia keretében építették, amely masszívan csökkenteni kívánja a drága és magas CO2-kibocsátással járó fosszilis tüzelőanyag-importtól való függőséget. A több hektáros területen telepített több ezer fotovoltaikus modullal az átadásakor Nyugat-Afrika egyik legnagyobb naperőműve volt. Földrajzilag a létesítmény profitál a kiemelkedően magas napsütéses órák számából és a Santiagóra jellemző csekély felhőzetből. Az erőmű közvetlenül a helyi elektromos hálózatba táplál, amelyet az ELECTRA állami vállalat kezel. Gazdasági szempontból a létesítmény hozzájárul az energiaköltségek stabilizálásához és elősegíti az ország ökológiai fenntarthatóságát. A projektet nemzetközi támogatással, különösen Portugália és többoldalú fejlesztési bankok közreműködésével finanszírozták. A tiszta áramtermelés mellett a palmarejói naperőmű technológiai demonstrációs projektként is szolgál a helyi mérnökök tiszta energiával kapcsolatos képzéséhez. A Praia ipari övezetének közelében lévő elhelyezkedése rendkívül hatékony decentralizált energiatermelővé teszi a sziget legfontosabb gazdasági szereplői számára.",
+        "ro": "Centrala solară din Palmarejo este situată pe insula Santiago, nu departe de capitala Praia, și reprezintă o piatră de hotar în politica din Capul Verde de promovare a energiilor regenerabile. Instalația a fost construită în cadrul strategiei naționale de a reduce masiv dependența de importurile scumpe de combustibili fosili cu emisii mari de CO2. Cu mii de module fotovoltaice instalate pe o suprafață de câteva hectare, la inaugurarea sa a fost una dintre cele mai mari centrale solare din Africa de Vest. Din punct de vedere geografic, instalația beneficiază de radiația solară excepțional de mare și de nebulozitatea redusă, caracteristice zonei aride din Santiago. Centrala debitează direct în rețeaua electrică locală, administrată de compania de stat ELECTRA. Din punct de vedere economic, instalația contribuie la stabilizarea costurilor energetice și promovează sustenabilitatea ecologică a țării. Proiectul a fost finanțat cu sprijin internațional, în special din partea Portugaliei și a băncilor multilaterale de dezvoltare. Pe lângă producția propriu-zisă de energie, centrala solară din Palmarejo servește și ca proiect tehnologic demonstrativ pentru instruirea inginerilor locali în domeniul energiei curate. Locația în apropierea zonei industriale din Praia o face un generator de energie descentralizat extrem de eficient pentru cei mai importanți consumatori economici ai insulei.",
+        "en": "The Palmarejo Solar Power Plant is located on Santiago Island, near the capital city of Praia, and stands as a major milestone in Cape Verde's policy of promoting renewable energy. The facility was established as part of the national strategy to aggressively reduce dependence on expensive, carbon-intensive fossil fuel imports. Featuring thousands of photovoltaic modules spread over several hectares, it was one of the largest solar plants in West Africa at the time of its inauguration. Geographically, the plant benefits from the exceptionally high solar irradiance and low cloud cover characteristic of Santiago's arid zone. The power plant feeds directly into the local electricity grid, managed by the state utility company ELECTRA. Economically, the facility helps stabilize energy costs and supports the nation's environmental sustainability goals. The project was financed with international support, notably from Portugal and through multilateral development banks. Beyond clean energy generation, the Palmarejo Solar Plant serves as a technological demonstration project for training local engineers in the field of clean energy. Its location near Praia's industrial zone makes it a highly efficient decentralized energy producer for the island's primary economic consumers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eine der ersten großen Photovoltaik-Anlagen in Westafrika.",
+          "Besteht aus tausenden Solarpanelen auf einer weitläufigen Fläche.",
+          "Reduziert massiv den Bedarf an importiertem Diesel zur Stromerzeugung.",
+          "Strategisch gelegen nahe der Industriezentren der Hauptstadt Praia.",
+          "Wurde mit internationaler finanzieller und technischer Hilfe errichtet.",
+          "Wichtiger Pfeiler der kapverdischen Energiewende hin zu 50 % Erneuerbaren.",
+          "Dient als Ausbildungsstätte für kapverdische Techniker für Solarenergie."
+        ],
+        "hu": [
+          "Nyugat-Afrika egyik első nagyszabású fotovoltaikus létesítménye.",
+          "Több ezer napelemmodulból áll egy kiterjedt területen.",
+          "Masszívan csökkenti az áramtermeléshez szükséges importált dízel mennyiségét.",
+          "Stratégiai fekvésű, közel Praia főváros ipari központjaihoz.",
+          "Nemzetközi pénzügyi és technikai segítségnyújtással épült meg.",
+          "A zöld-foki energiaátmenet fontos pillére az 50%-os megújuló cél felé.",
+          "Képzési helyszínként szolgál a zöld-foki napelemes technikusok számára."
+        ],
+        "ro": [
+          "Una dintre primele mari instalații fotovoltaice din Africa de Vest.",
+          "Formată din mii de panouri solare pe o suprafață extinsă.",
+          "Reduce masiv necesarul de motorină importată pentru generarea de curent.",
+          "Situată strategic lângă centrele industriale ale capitalei Praia.",
+          "A fost construită cu ajutor financiar și tehnic internațional.",
+          "Pilon important al tranziției energetice din Capul Verde către 50% regenerabile.",
+          "Servește ca loc de instruire pentru tehnicienii capverdieni în energie solară."
+        ],
+        "en": [
+          "One of the first large-scale photovoltaic facilities in West Africa.",
+          "Comprises thousands of solar panels deployed across an extensive site.",
+          "Significantly reduces the amount of imported diesel required for power.",
+          "Strategically located near the industrial demand centers of Praia.",
+          "Established through international financial and technical cooperation.",
+          "Core pillar of the national goal to reach 50% renewable energy penetration.",
+          "Functions as a training ground for local renewable energy technicians."
+        ]
+      }
+    },
+    {
+      "id": "grogue-distillery-paul-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Grogue-Brennereien im Tal von Paul auf der Insel Santo Antão sind das wirtschaftliche und kulturelle Herzstück dieser Region. Grogue ist das Nationalgetränk von Kap Verde, ein hochprozentiger Rum, der ausschließlich aus reinem Zuckerrohrsaft gewonnen wird. Das Paul-Tal bietet durch seine außergewöhnliche Fruchtbarkeit und die reichen Wasserressourcen die absolut besten Bedingungen für den Anbau von qualitativ hochwertigem Zuckerrohr. Die Produktion erfolgt massiv während der Erntesaison zwischen Januar und Juni. In den traditionellen Brennereien, den sogenannten 'Trapiches', wird das Zuckerrohr meist noch mechanisch oder in einigen Fällen mit Ochsenkraft gepresst. Der gewonnene Saft fermentiert anschließend mehrere Tage in großen Tanks, bevor er in handgefertigten Kupferkesseln (Alambiques) über Holzfeuer destilliert wird. Wirtschaftlich gesehen ist Grogue das wichtigste Exportprodukt des Tals und sichert das Einkommen hunderter Kleinbauern und Destillateure. In den letzten Jahren hat die Regierung strenge Gesetze zur Qualitätssicherung und Zertifizierung eingeführt, um den Grogue aus Paul für den internationalen Markt wettbewerbsfähig zu machen. Das Tal von Paul ist für seine 'Grogue-Routen' bekannt, die Ökotouristen anziehen und so eine zusätzliche Einnahmequelle generieren. Die Brennereien sind somit ein Symbol für die Symbiose aus jahrhundertealtem Handwerk und moderner ländlicher Wirtschaftsentwicklung.",
+        "hu": "A Paul-völgyben (Santo Antão szigetén) található grogue-lepárlók a régió gazdasági és kulturális szívét jelentik. A grogue a Zöld-foki-szigetek nemzeti itala, egy magas alkoholtartalmú rum, amelyet kizárólag tiszta cukornádlevéből állítanak elő. A Paul-völgy rendkívüli termékenységének és bőséges vízkészleteinek köszönhetően az abszolút legjobb feltételeket kínálja a kiváló minőségű cukornád termesztéséhez. A termelés tömegesen zajlik a január és június közötti betakarítási szezonban. A hagyományos lepárlókban, az úgynevezett 'trapiche'-ekben a cukornádat többnyire mechanikusan, esetenként még ökörerővel préselik. A kinyert lé ezután több napig erjed nagy tartályokban, mielőtt kézzel készített rézüstökben (alambiques), fatűz felett lepárolják. Gazdasági szempontból a grogue a völgy legfontosabb exportterméke, amely kisgazdák és lepárlók százainak biztosítja a megélhetést. Az elmúlt években a kormány szigorú minőségbiztosítási és tanúsítási törvényeket vezetett be, hogy a Paul-völgyi grogue-ot versenyképessé tegye a nemzetközi piacon. A völgy híres 'grogue-útvonalairól', amelyek vonzzák az ökoturistákat, így kiegészítő bevételi forrást jelentenek. A lepárlók tehát az évszázados kézművesség és a modern vidéki gazdaságfejlesztés szimbiózisának szimbólumai.",
+        "ro": "Distileriile de grogue din valea Paul, pe insula Santo Antão, reprezintă nucleul economic și cultural al acestei regiuni. Grogue este băutura națională a Capului Verde, un rom cu un conținut ridicat de alcool, obținut exclusiv din sucul pur de trestie de zahăr. Valea Paul oferă, prin fertilitatea sa excepțională și resursele bogate de apă, condițiile absolut cele mai bune pentru cultivarea trestiei de zahăr de înaltă calitate. Producția are loc masiv în timpul sezonului de recoltare între ianuarie și iunie. În distileriile tradiționale, așa-numitele „trapiches”, trestia de zahăr este presată în mare parte încă mecanic sau, în unele cazuri, cu forța boilor. Sucul obținut fermentează apoi câteva zile în rezervoare mari, înainte de a fi distilat în cazane de cupru lucrate manual (alambiques) la foc de lemne. Din punct de vedere economic, grogue este cel mai important produs de export al văii și asigură veniturile a sute de mici fermieri și distilatori. În ultimii ani, guvernul a introdus legi stricte pentru asigurarea calității și certificare, pentru a face grogue-ul din Paul competitiv pe piața internațională. Valea Paul este cunoscută pentru „rutele grogue-ului”, care atrag ecoturiști și generează astfel o sursă suplimentară de venit. Distileriile sunt, prin urmare, un simbol al simbiozei dintre meșteșugul vechi de secole și dezvoltarea economică rurală modernă.",
+        "en": "The grogue distilleries in the Paul Valley on Santo Antão Island are the economic and cultural heart of the region. Grogue is the national drink of Cape Verde, a high-proof rum produced exclusively from pure sugarcane juice. Due to its exceptional fertility and abundant water resources, the Paul Valley provides the absolute best conditions for cultivating high-quality sugarcane. Production is heavily concentrated during the harvest season between January and June. In traditional distilleries known as 'trapiches,' the sugarcane is mostly crushed mechanically, or in some traditional cases, using oxen. The extracted juice ferments for several days in large vats before being distilled in handcrafted copper stills (alambiques) over wood fires. Economically, grogue is the valley's most important export product, securing the livelihoods of hundreds of small-scale farmers and distillers. In recent years, the government has introduced strict quality assurance and certification laws to make Paul's grogue competitive on the international market. The Paul Valley is famous for its 'grogue routes,' which attract ecotourists and generate additional revenue. The distilleries thus stand as a symbol of the symbiosis between centuries-old craftsmanship and modern rural economic development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Produktionszentrum für Grogue, den traditionellen kapverdischen Rum.",
+          "Nutzt reinen Zuckerrohrsaft ohne Zusatz von Melasse oder Zucker.",
+          "Die Haupternte- und Brennzeit liegt zwischen Januar und Juni.",
+          "Traditionelle Kupfer-Destillationsapparate (Alambiques) sind im Einsatz.",
+          "Wichtigster Wirtschaftsfaktor für die ländliche Bevölkerung im Paul-Tal.",
+          "Staatliche Zertifizierung garantiert heute hohe Qualitätsstandards.",
+          "Zieht massiv Ökotouristen zur Besichtigung des Herstellungsprozesses an."
+        ],
+        "hu": [
+          "A grogue, a hagyományos zöld-foki rum gyártási központja.",
+          "Tiszta cukornádlevet használ melasz vagy cukor hozzáadása nélkül.",
+          "A fő betakarítási és lepárlási időszak januártól júniusig tart.",
+          "Hagyományos réz lepárlóüstöket (alambiques) használnak a völgyben.",
+          "A Paul-völgy vidéki lakossága számára a legfontosabb gazdasági tényező.",
+          "Állami tanúsítás garantálja ma már a magas minőségi színvonalat.",
+          "Tömegesen vonzza az ökoturistákat a gyártási folyamat megtekintésére."
+        ],
+        "ro": [
+          "Centrul de producție pentru grogue, romul tradițional din Capul Verde.",
+          "Utilizează sucul pur de trestie de zahăr fără adaos de melasă sau zahăr.",
+          "Perioada principală de recoltare și distilare este între ianuarie și iunie.",
+          "Sunt utilizate aparate de distilare tradiționale din cupru (alambiques).",
+          "Cel mai important factor economic pentru populația rurală din Valea Paul.",
+          "Certificarea de stat garantează astăzi standarde înalte de calitate.",
+          "Atrage masiv ecoturiști pentru vizitarea procesului de fabricație."
+        ],
+        "en": [
+          "Premier production center for grogue, the traditional Cape Verdean rum.",
+          "Uses 100% pure sugarcane juice without added molasses or refined sugar.",
+          "The peak harvest and distillation season occurs from January to June.",
+          "Traditional wood-fired copper stills (alambiques) are still widely used.",
+          "Vital economic driver for the rural community within the Paul Valley.",
+          "National certification programs now guarantee high production standards.",
+          "Attracts significant numbers of ecotourists interested in artisanal processes."
+        ]
+      }
+    }
+  ]
+}

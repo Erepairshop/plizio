@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maputo-city-hall-landmarks-v2",
+      "description": "An elegant colonial-era building serving as the seat of local government in Maputo.",
+      "facts": ["Neo-classical architecture", "Located on Independence Square", "Built in 1947", "Administrative landmark"]
+    },
+    {
+      "id": "cathedral-of-beira-landmarks-v2",
+      "description": "A striking cathedral in the city of Beira known for its unusual architectural style and history.",
+      "facts": ["Roman Catholic cathedral", "Located in Beira", "Constructed mid-20th century", "Local spiritual center"]
+    },
+    {
+      "id": "palacio-sao-paulo-landmarks-v2",
+      "description": "A historic palace on the Island of Mozambique that once served as the governor's residence.",
+      "facts": ["Former governor's palace", "Located on Ilha de Moçambique", "18th-century architecture", "UNESCO World Heritage area"]
+    }
+  ]
+}

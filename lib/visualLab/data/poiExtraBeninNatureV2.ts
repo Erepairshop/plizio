@@ -20,16 +20,16 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: ["Länge von etwa 510 Kilometern.", "Größter Fluss des Landes Benin.", "Mündet in die Nokoué-Lagune nördlich von Cotonou.", "Bedeutend für die Bewässerung der Landwirtschaft.", "Lebensraum für zahlreiche Süßwasserfische.", "Flussverlauf durch mehrere Klimazonen."]
     }, image: "/poi-images/oueme-river-nature-v2.webp",
     description: {
-      de: "",
+      de: "Der Ouémé ist der längste Fluss Benins und eine lebenswichtige Wasserquelle für Landwirtschaft und Fischerei im Süden des Landes.",
       hu: "Az Ouémé Benin leghosszabb folyója, amelynek vízgyűjtő területe létfontosságú az ország mezőgazdasága és vízellátása szempontjából.",
-      ro: "",
-      en: ""
+      ro: "Fluviul Ouémé este cel mai lung curs de apă din Benin, fiind vital pentru pescuit, agricultură și transport în sudul țării.",
+      en: "Benin's longest river, flowing over 500 kilometers and serving as a vital waterway for agriculture, fishing, and regional transport."
     },
     facts: {
-      de: [],
+      de: ["Länge von ca. 510 km", "Mündet in den Nokoué-See", "Wichtigster Fluss Benins", "Reich an Fischarten"],
       hu: ["Típus: Folyó", "Hossz: 510 km", "Szerep: Vízellátás", "Mezőgazdasági jelentőség"],
-      ro: [],
-      en: []
+      ro: ["Cel mai lung fluviu", "Vital pentru pescuit", "Cale navigabilă"],
+      en: ["Longest river in Benin", "Primary source of irrigation", "Rich in freshwater fish species"]
     }
   },
   {
@@ -47,19 +47,19 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: "Der Niger-Fluss bildet einen Teil der nördlichen Grenze Benins und ist eine lebenswichtige Ressource für die gesamte Region. Er verbindet Benin mit seinen Nachbarländern und ist von großer Bedeutung für den regionalen Handel und die Fischerei. Die Landschaften entlang des Nigers in Benin sind durch ausgedehnte Savannen und eine reiche Tierwelt geprägt. Sachkunde K6 — Die großen Flüsse Afrikas."
     },
     factsAdvanced: {
-      de: ["Bildet einen bedeutenden Teil der Staatsgrenze im Norden.", "Drittlängster Fluss Afrikas.", "Wichtige Lebensader für die Menschen in der Region.", "Lebensraum für Flusspferde und Krokodile.", "Bedeutendes Zentrum für den regionalen Fischfang.", "Die Uferbereiche bieten Weideflächen für das Vieh."]
+      de: ["Bildet einen bedeutenden Teil der Staatsgrenze im Norden.", "Wichtige Lebensader für die Menschen in der Region.", "Lebensraum für Flusspferde und Krokodile.", "Bedeutendes Zentrum für den regionalen Fischfang.", "Die Uferbereiche bieten Weideflächen für das Vieh."]
     }, image: "/poi-images/niger-river-benin-nature-v2.webp",
     description: {
-      de: "",
+      de: "Der Niger bildet im Norden die natürliche Grenze Benins zu Niger und prägt die fruchtbare Flusslandschaft der Region.",
       hu: "A Niger folyó az ország északi határán halad át, jelentős szerepet játszva az ökoszisztémák és a vízi szállítás fenntartásában.",
-      ro: "",
-      en: ""
+      ro: "Fluviul Niger formează granița naturală de nord a Beninului, fiind o resursă de apă vitală pentru regiunile semideșertice.",
+      en: "A major international river that forms a natural border between Benin and Niger in the extreme north of the country."
     },
     facts: {
-      de: [],
+      de: ["Grenzfluss im Norden", "Drittlängster Fluss Afrikas", "Wichtige Handelsroute", "Fruchtbare Überschwemmungsgebiete"],
       hu: ["Típus: Folyó", "Helyszín: Északi határ", "Jelentőség: Határfolyó", "Ökológiai szerep"],
-      ro: [],
-      en: []
+      ro: ["Graniță naturală", "Fluviu major african", "Regiunea de nord"],
+      en: ["Forms the northern national border", "Major West African waterway", "Supports riverine agriculture"]
     }
   },
   {
@@ -80,16 +80,16 @@ export const poiExtraBeninNatureV2: POI[] = [
       de: ["Lebensader des Pendjari-Nationalparks.", "Zentrale Wasserquelle für Elefantenherden.", "Die Trockenzeit macht das Gebiet besonders wildreich.", "Wichtiger Lebensraum für gefährdete Arten.", "Die Flussufer bieten ein reiches Ökosystem.", "Der Park ist ein UNESCO-Biosphärenreservat."]
     }, image: "/poi-images/pendjari-river-nature-v2.webp",
     description: {
-      de: "",
+      de: "Der Pendjari-Fluss durchfließt den gleichnamigen Nationalpark und ist ein Magnet für die vielfältige Tierwelt im Norden Benins.",
       hu: "A Pendjari folyó a nemzeti park ökoszisztémájának gerince, amely egész évben biztosítja a vizet a régió vadállománya számára.",
-      ro: "",
-      en: ""
+      ro: "Râul Pendjari traversează parcul național cu același nume, fiind principala sursă de apă pentru marea varietate de animale sălbatice.",
+      en: "A seasonal river that meanders through Pendjari National Park, providing life-sustaining water to the park's diverse wildlife."
     },
     facts: {
-      de: [],
+      de: ["Teil des WAP-Komplexes", "Natürliche Grenze zu Burkina Faso", "Trinkquelle für Wildtiere", "Namensgeber des Nationalparks"],
       hu: ["Típus: Folyó", "Helyszín: Pendjari Nemzeti Park", "Szerep: Vízkészlet", "Ökológiai gerinc"],
-      ro: [],
-      en: []
+      ro: ["Parc Național Pendjari", "Graniță cu Burkina Faso", "Habitat pentru faună"],
+      en: ["Flows through Pendjari National Park", "Critical water source for wildlife", "Forms natural pools in the dry season"]
     }
   },
   {

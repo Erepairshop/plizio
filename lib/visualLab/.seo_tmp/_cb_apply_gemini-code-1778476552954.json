@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wonkifong-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Wonkifong ist ein bedeutendes landwirtschaftliches und gewerbliches Zentrum in der Präfektur Coyah, gelegen in der Region Maritime Guinea. Die Stadt liegt in einer strategisch günstigen Zone zwischen der Hauptstadt Conakry und der Grenze zu Sierra Leone. Geografisch ist die Region durch ihre flache Küstenebene, zahlreiche Wasserläufe und ausgedehnte Mangrovensümpfe geprägt. Wonkifong spielt eine zentrale Rolle in der Versorgung der Hauptstadt mit Agrarprodukten, insbesondere mit Palmöl, Maniok und verschiedenen Obstsorten. Eine Besonderheit der lokalen Wirtschaft ist die traditionelle Salzgewinnung in den küstennahen Verdunstungsbecken, eine Tätigkeit, die seit Generationen von den ansässigen Gemeinschaften ausgeübt wird. Die Infrastruktur der Stadt hat durch die Modernisierung der Nationalstraße an Bedeutung gewonnen, was den Transport von Waren erheblich erleichtert. Kulturell ist Wonkifong tief in den Traditionen der Susu verwurzelt, wobei der lokale Markt das soziale Herzstück der Gemeinde bildet. Trotz der zunehmenden Urbanisierung bewahrt die Stadt ihren ländlichen Charakter und ihre enge Bindung an die natürlichen Ressourcen der Küstenregion.",
+        "hu": "Wonkifong egy jelentős mezőgazdasági és kereskedelmi központ a Coyah prefektúrában, Alsó-Guinea régiójában. A város stratégiai helyen, a főváros, Conakry és a sierra leone-i határ közötti útvonalon fekszik. Földrajzi környezetét a sík parti síkság, számos kisebb vízfolyás és kiterjedt mangrove-mocsarak határozzák meg. Wonkifong kulcsszerepet játszik a főváros élelmiszerellátásában, különösen a pálmaolaj, a manióka és a különféle trópusi gyümölcsök tekintetében. A helyi gazdaság egyik egyedülálló ága a hagyományos sólepárlás, amelyet a tengerparti medencékben végeznek; ez a mesterség generációk óta száll apáról fiúra a helyi közösségekben. A település infrastruktúrája sokat fejlődött az országos főút modernizációjával, ami megkönnyítette az áruk szállítását. Kulturális szempontból Wonkifong a szuszu népcsoport egyik bástyája, ahol a helyi piac nemcsak gazdasági, hanem fontos közösségi találkozóhely is. A fokozódó városiasodás ellenére a település megőrizte vidéki báját és szoros kapcsolatát a tengerparti ökoszisztémával.",
+        "ro": "Wonkifong este un centru agricol și comercial important situat în prefectura Coyah, în regiunea Guineea Maritimă. Orașul ocupă o poziție strategică pe coridorul rutier ce leagă capitala Conakry de frontiera cu Sierra Leone. Din punct de vedere geografic, regiunea este caracterizată de o câmpie litorală joasă, traversată de numeroase cursuri de apă și mărginită de mlaștini de mangrove. Wonkifong joacă un rol esențial în aprovizionarea capitalei cu produse de bază, precum uleiul de palmier, maniocul și diverse fructe tropicale. O trăsătură distinctivă a economiei locale este extracția tradițională a sării din bazinele de evaporare de coastă, o activitate practicată de generații de comunitățile locale. Infrastructura orașului a beneficiat de modernizarea drumurilor naționale, facilitând fluxul de mărfuri către piețele urbane. Cultural, Wonkifong este un centru al etniei Susu, unde piețele locale reprezintă inima vieții sociale. În ciuda expansiunii urbane, localitatea își păstrează caracterul rural și legătura strânsă cu resursele naturale ale zonei de coastă, fiind un punct de tranzit vital în economia regională.",
+        "en": "Wonkifong is a significant agricultural and commercial hub in the Coyah Prefecture, situated in the Maritime Guinea region. The town is strategically located between the capital, Conakry, and the border with Sierra Leone. Geographically, the area is defined by its flat coastal plains, numerous small waterways, and extensive mangrove swamps. Wonkifong plays a crucial role in supplying the capital with agricultural products, particularly palm oil, cassava, and various tropical fruits. A unique feature of the local economy is traditional salt production in coastal evaporation ponds, a craft passed down through generations within the local communities. The town's infrastructure has improved with the modernization of the national highway, greatly facilitating the transport of goods to urban centers. Culturally, Wonkifong is a stronghold of the Susu people, with the local market serving as the social heart of the community. Despite increasing urbanization, the town maintains its rural character and its deep connection to the coastal ecosystem, remaining a vital transit point for regional trade."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wonkifong liegt in der Präfektur Coyah in Küstennähe.",
+          "Die Stadt ist ein bedeutendes Zentrum für die Palmölproduktion.",
+          "Traditionelle Salzgewinnung ist ein wichtiger lokaler Wirtschaftszweig.",
+          "Es dient als Agrar-Versorgungspunkt für die Hauptstadt Conakry.",
+          "Die Region ist durch ausgedehnte Mangroven-Ökosysteme geprägt.",
+          "Die Nationalstraße N4 führt durch das Stadtgebiet."
+        ],
+        "hu": [
+          "Wonkifong a tengerpart közelében, a Coyah prefektúrában található.",
+          "A város a régió egyik legfontosabb pálmaolaj-termelő központja.",
+          "A hagyományos sólepárlás generációk óta meghatározó iparág.",
+          "Fontos mezőgazdasági beszállítója a közeli Conakry városának.",
+          "A környéket kiterjedt és értékes mangrove-erdők övezik.",
+          "A Sierra Leone felé vezető N4-es főút a városon halad át."
+        ],
+        "ro": [
+          "Wonkifong este situat în prefectura Coyah, aproape de zona de coastă.",
+          "Orașul reprezintă un centru major pentru producția de ulei de palmier.",
+          "Extracția artizanală a sării este o activitate economică tradițională.",
+          "Funcționează ca un punct de colectare agricolă pentru piața din Conakry.",
+          "Ecosistemul local este dominat de păduri de mangrove protejate.",
+          "Este un punct de tranzit pe drumul național N4 către Sierra Leone."
+        ],
+        "en": [
+          "Wonkifong is located in the Coyah Prefecture near the Atlantic coast.",
+          "The town is a significant center for regional palm oil production.",
+          "Traditional salt extraction is a key local economic activity.",
+          "It serves as a vital agricultural supply point for the capital, Conakry.",
+          "The surrounding area features extensive and biodiverse mangrove forests.",
+          "The N4 national highway passes through the heart of the town."
+        ]
+      }
+    },
+    {
+      "id": "koule-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Koulé ist ein bedeutendes städtisches Zentrum in der Präfektur Nzérékoré, tief im Südosten Guineas in der Region Guinée Forestière gelegen. Die Stadt liegt in einer üppigen, hügeligen Landschaft, die durch dichte tropische Wälder und ein feuchtes äquatoriales Klima geprägt ist. Koulé dient als wichtiger Knotenpunkt für den Handel und den Verkehr in der Waldregion, insbesondere aufgrund seiner Lage an der Hauptstraße, die Nzérékoré mit der Grenze zu Liberia verbindet. Die lokale Wirtschaft basiert primär auf der Landwirtschaft, wobei der Anbau von Palmöl, Kautschuk und Kaffee die wichtigsten Einnahmequellen darstellt. Koulé ist bekannt für seinen lebhaften Markt, auf dem landwirtschaftliche Erzeugnisse aus der gesamten Region gehandelt werden. Die Bevölkerung setzt sich überwiegend aus den Ethnien der Guerzé (Kpelle) und Mano zusammen, deren kulturelle Identität eng mit den Traditionen des Waldes und spirituellen Riten verknüpft ist. In der jüngeren Geschichte war Koulé oft ein Ort der Zuflucht und des Austauschs für Menschen aus den benachbarten Krisengebieten, was die soziale Dynamik der Stadt beeinflusst hat. Trotz infrastruktureller Herausforderungen bleibt Koulé ein vitaler Motor für die wirtschaftliche Entwicklung im äußersten Südosten des Landes.",
+        "hu": "Koulé egy fontos városi központ a Nzérékoré prefektúrában, Guinea délkeleti részén, az Erdős-Guinea régió szívében. A település buja, dombos vidéken fekszik, amelyet sűrű trópusi erdők és párás egyenlítői éghajlat jellemez. Koulé stratégiai csomópontként szolgál az erdei régió kereskedelmében és közlekedésében, különösen a Nzérékorét a libériai határral összekötő főút mentén elfoglalt helyzete miatt. A helyi gazdaság alapja a mezőgazdaság: a pálmaolaj, a kaucsuk és a kávé termesztése a legfontosabb bevételi forrás az itt élők számára. Koulé híres nyüzsgő piacáról, ahol a régió minden részéből érkező agrártermékek gazdát cserélnek. A lakosság zömét a kuerze (guerzé) és a mano népcsoportok alkotják, akiknek kulturális identitása szorosan összefonódik az erdő hagyományaival és a spirituális rítusokkal. A közelmúlt történelmében Koulé gyakran szolgált menedékként a szomszédos országok konfliktusai elől menekülők számára, ami rányomta bélyegét a város társadalmi dinamikájára. Az infrastruktúra nehézségei ellenére Koulé továbbra is a délkeleti országrész gazdasági fejlődésének egyik motorja.",
+        "ro": "Koulé este un centru urban semnificativ situat în prefectura Nzérékoré, în sud-estul Guineei, în inima regiunii Guinée Forestière. Orașul este amplasat într-un peisaj luxuriant, cu dealuri acoperite de păduri tropicale dense și un climat ecuatorial umed. Koulé funcționează ca un nod comercial și de transport vital pentru regiunea forestieră, beneficiind de poziția sa pe drumul principal care leagă Nzérékoré de frontiera cu Liberia. Economia locală se bazează în principal pe agricultură, cultivarea palmierilor de ulei, a arborelui de cauciuc și a cafelei fiind principalele surse de venit. Piața din Koulé este renumită pentru efervescența sa, fiind un punct de colectare pentru produsele agricole din întreaga zonă. Populația este formată majoritar din etniile Guerzé și Mano, a căror identitate culturală este profund legată de tradițiile ancestrale ale pădurii. În istoria recentă, orașul a jucat un rol de refugiu pentru populațiile afectate de conflictele transfrontaliere, ceea ce a dus la o diversitate socială sporită. În ciuda provocărilor legate de infrastructură, Koulé rămâne un pol de stabilitate și dezvoltare economică în extremitatea sud-estică a țării.",
+        "en": "Koulé is a prominent urban center in the Nzérékoré Prefecture, located in the far southeast of Guinea within the Forested Guinea region. The town is set amidst a lush, hilly landscape characterized by dense tropical rainforests and a humid equatorial climate. Koulé serves as a vital trade and transport junction in the forest region, particularly due to its location on the primary highway connecting Nzérékoré to the border with Liberia. The local economy is primarily based on agriculture, with palm oil, rubber, and coffee being the main sources of income for its residents. Koulé is well-known for its bustling market, where agricultural products from across the region are traded. The population consists mainly of the Guerzé (Kpelle) and Mano ethnic groups, whose cultural identity is closely tied to forest traditions and spiritual rites. In recent history, Koulé has often provided refuge for people fleeing conflicts in neighboring countries, shaping the town's social dynamics. Despite infrastructure challenges, Koulé remains a vital driver of economic development in the country's southeastern interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koulé liegt in der Region Waldguinea in der Präfektur Nzérékoré.",
+          "Die Stadt ist ein strategischer Knotenpunkt an der Straße nach Liberia.",
+          "Palmöl und Kautschuk sind die wichtigsten Exportprodukte der Region.",
+          "Der lokale Markt zieht Händler aus dem gesamten Südosten an.",
+          "Die Bevölkerung gehört überwiegend zu den Ethnien Guerzé und Mano.",
+          "Koulé ist bekannt für seine lebendige traditionelle Handwerkskunst."
+        ],
+        "hu": [
+          "Koulé az Erdős-Guinea régióban, a Nzérékoré prefektúrában fekszik.",
+          "A város stratégiai pont a Libéria felé vezető kereskedelmi úton.",
+          "A pálmaolaj és a kaucsuk a környék legfontosabb exportterméke.",
+          "A helyi piac a délkeleti országrész egyik legjelentősebb gyűjtőpontja.",
+          "A lakosság főként a kuerze és a mano népcsoportokhoz tartozik.",
+          "A város híres a hagyományos erdei kézműves termékeiről."
+        ],
+        "ro": [
+          "Koulé se află în regiunea Guinée Forestière, prefectura Nzérékoré.",
+          "Orașul este un nod rutier strategic pe axa către frontiera cu Liberia.",
+          "Uleiul de palmier și cauciucul sunt pilonii economiei locale.",
+          "Piața săptămânală din Koulé este una dintre cele mai mari din regiune.",
+          "Etnic, orașul este dominat de comunitățile Guerzé și Mano.",
+          "Localitatea a servit istoric ca punct de refugiu și tranzit regional."
+        ],
+        "en": [
+          "Koulé is situated in the Forested Guinea region, Nzérékoré Prefecture.",
+          "The town is a strategic hub on the main road to the Liberian border.",
+          "Palm oil and rubber are the primary commercial crops in the area.",
+          "The local market is a major gathering point for regional traders.",
+          "The population is largely composed of the Guerzé and Mano ethnic groups.",
+          "Koulé is an essential link for transport in the southeastern interior."
+        ]
+      }
+    },
+    {
+      "id": "niagassola-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Niagassola ist eine historisch und kulturell herausragende Stadt in der Präfektur Siguiri, im Norden Oberguineas nahe der Grenze zu Mali. Die Stadt ist weltbekannt als Hüterin des Sosso-Bala, eines heiligen Balafons (Xylophons), das seit dem 13. Jahrhundert in der Obhut der Familie Dokala steht und zum immateriellen Kulturerbe der UNESCO gehört. Dieses Instrument gilt als das Ursprungsbalafon des Mandinka-Volkes und ist eng mit der Legende von Sundiata Keita und dem Aufstieg des Mali-Reiches verbunden. Geografisch liegt Niagassola in einer flachen Savannenlandschaft, die durch das Tal des Niger-Flusses und seiner Nebenflüsse geprägt ist. Die Wirtschaft der Region basiert auf dem handwerklichen Goldbergbau, der in den umliegenden Gebieten weit verbreitet ist, sowie auf der Landwirtschaft, insbesondere dem Anbau von Hirse und Erdnüssen. Niagassola ist ein bedeutender Ort für Forscher, Musiker und Historiker, die die Wurzeln der westafrikanischen Mandinka-Kultur studieren möchten. Trotz seiner kulturellen Schwere bleibt der Ort eine traditionelle ländliche Gemeinschaft, die ihre jahrhundertealten sozialen Strukturen und Bräuche in einer sich modernisierenden Welt bewahrt.",
+        "hu": "Niagassola egy történelmi és kulturális szempontból kiemelkedő település a Siguiri prefektúrában, Felső-Guinea északi részén, a mali határ közelében. A város világszerte ismert a Szosszo-Bala (Sosso-Bala) őrzőjeként; ez egy szent balafon (xilofon), amelyet a 13. század óta a Dokala család gondoz, és az UNESCO szellemi világörökségének része. Az hangszer a mandinka nép eredeti balafonjának számít, és szorosan kötődik Sundiata Keita legendájához, valamint a Mali Birodalom felemelkedéséhez. Földrajzilag Niagassola sík szavannás vidéken fekszik, amelyet a Niger-folyó és mellékfolyóinak völgye határoz meg. A régió gazdasága a környéken széles körben elterjedt hagyományos aranymosásra, valamint a mezőgazdaságra, különösen a köles és a földimogyoró termesztésére épül. Niagassola fontos zarándokhely a kutatók, zenészek és történészek számára, akik a nyugat-afrikai mandinka kultúra gyökereit keresik. Kulturális súlya ellenére a település megmaradt egy hagyományos vidéki közösségnek, amely a modernizálódó világban is hűen őrzi évszázados társadalmi struktúráit és szokásait.",
+        "ro": "Niagassola este o localitate de o importanță istorică și culturală excepțională, situată în prefectura Siguiri, în nordul Guineei Superioare, aproape de granița cu Mali. Orașul este celebru în întreaga lume ca fiind păstrătorul Sosso-Bala, un balafon (xilofon) sacru care se află sub protecția familiei Dokala încă din secolul al XIII-lea și face parte din patrimoniul cultural imaterial al UNESCO. Acest instrument este considerat balafonul originar al poporului Mandinka și este strâns legat de legenda lui Sundiata Keita și de ascensiunea Imperiului Mali. Geografic, Niagassola se află într-un peisaj de savană joasă, modelat de valea fluviului Niger. Economia regiunii se bazează pe mineritul artizanal de aur, o activitate tradițională intensă, și pe agricultura de subzistență, axată pe cultivarea meiului și a arahidelor. Niagassola atrage cercetători, muzicieni și istorici dornici să studieze rădăcinile culturii Mandinka. În ciuda relevanței sale culturale globale, orașul rămâne o comunitate rurală tradițională, unde structurile sociale și obiceiurile multiseculare sunt păstrate cu rigoare în fața modernității.",
+        "en": "Niagassola is a town of exceptional historical and cultural significance in the Siguiri Prefecture, located in northern Upper Guinea near the Malian border. The town is globally renowned as the guardian of the Sosso-Bala, a sacred balafon (xylophone) that has been in the care of the Dokala family since the 13th century and is recognized as part of UNESCO's Intangible Cultural Heritage. This instrument is considered the original balafon of the Mandinka people and is deeply intertwined with the legend of Sundiata Keita and the rise of the Mali Empire. Geographically, Niagassola is situated in a flat savanna landscape shaped by the Niger River valley. The regional economy relies on artisanal gold mining, which is widespread in the surrounding areas, alongside agriculture focusing on millet and peanuts. Niagassola is a vital site for researchers, musicians, and historians seeking to explore the roots of West African Mandinka culture. Despite its heavy cultural importance, the town remains a traditional rural community, preserving its centuries-old social structures and customs in a modernizing world."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Niagassola beherbergt das Sosso-Bala, ein UNESCO-Weltkulturerbe.",
+          "Das heilige Balafon stammt aus dem 13. Jahrhundert.",
+          "Die Stadt liegt in der goldreichen Region Siguiri.",
+          "Niagassola ist ein Zentrum der Mandinka-Kultur und Geschichte.",
+          "Der Ort wird von der Hüter-Familie Dokala verwaltet.",
+          "Die Landwirtschaft konzentriert sich auf den Anbau von Hirse und Mais."
+        ],
+        "hu": [
+          "Niagassola őrzi az UNESCO szellemi világörökség részét képező Szosszo-Balát.",
+          "A szent hangszer a 13. század óta van a település birtokában.",
+          "A város az aranyban gazdag Siguiri prefektúrában található.",
+          "Niagassola a mandinka kultúra és történelem egyik legfontosabb bölcsője.",
+          "A hangszert és a rituálékat a Dokala család gondozza évszázadok óta.",
+          "A környék gazdaságát a hagyományos aranymosás és az agrártermelés adja."
+        ],
+        "ro": [
+          "Niagassola este locul unde este păstrat Sosso-Bala, instrument UNESCO.",
+          "Balafonul sacru datează de la fondarea Imperiului Mali în secolul XIII.",
+          "Orașul este situat în prefectura Siguiri, zonă bogată în aur.",
+          "Reprezintă un centru spiritual major pentru comunitățile Mandinka.",
+          "Familia Dokala este custodele tradițional al artefactelor sacre.",
+          "Economia se bazează pe mineritul artizanal și cultivarea cerealelor."
+        ],
+        "en": [
+          "Niagassola is the home of the Sosso-Bala, a UNESCO Intangible Heritage site.",
+          "The sacred balafon dates back to the 13th-century Mali Empire.",
+          "The town is located in the gold-rich Siguiri Prefecture.",
+          "Niagassola is a paramount center for Mandinka history and oral tradition.",
+          "The Dokala family has served as the guardians of the balafon for centuries.",
+          "Artisanal gold mining is a major source of income for the local population."
+        ]
+      }
+    },
+    {
+      "id": "hafen-kamsar-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Kamsar ist der bedeutendste Exporthafen Guineas und einer der größten Bauxitumschlagplätze der Welt. Er liegt in der Präfektur Boké an der Mündung des Rio Nuñez in den Atlantischen Ozean. Der Hafen wurde in den 1970er Jahren speziell für den Export von Bauxiterz errichtet, das aus den Minen von Sangarédi herantransportiert wird. Betrieben wird die Anlage von der Compagnie des Bauxites de Guinée (CBG). Geografisch ist der Standort durch ein tiefes Ästuar geprägt, das für große Massengutfrachter zugänglich gemacht wurde. Die Infrastruktur umfasst einen kilometerlangen Verladesteg, umfangreiche Lagerkapazitäten und eine eigene Eisenbahnentladestation. Wirtschaftlich ist der Hafen von Kamsar die lebenswichtige Lunge der guineischen Wirtschaft, da hier ein erheblicher Teil der nationalen Exporterlöse generiert wird. Die Stadt Kamsar hat sich um den Hafen herum als eine moderne Industriesiedlung entwickelt, mit Einrichtungen, die weit über den Standard anderer guineischer Städte hinausgehen. Trotz des industriellen Fokus ist das umliegende Ökosystem der Mangroven von großer ökologischer Bedeutung, steht jedoch unter dem ständigen Druck der industriellen Expansion.",
+        "hu": "Kamsar kikötője Guinea legfontosabb exportkapuja és a világ egyik legnagyobb bauxitrakodó helye. A kikötő a Boké prefektúrában található, ott, ahol a Rio Nuñez folyó az Atlanti-óceánba torkollik. A létesítményt az 1970-es években építették kifejezetten a sangarédi bányákból érkező bauxit tengeri szállítására, és a Compagnie des Bauxites de Guinée (CBG) üzemelteti. Földrajzilag a helyszínt egy mély torkolat jellemzi, amelyet alkalmassá tettek a hatalmas ércszállító hajók fogadására. Az infrastruktúra részét képezi egy több kilométer hosszú rakodómóló, hatalmas tárolókapacitások és egy saját vasúti terminál. Gazdasági szempontból Kamsar kikötője a guineai gazdaság éltető eleme, hiszen az ország exportbevételeinek jelentős része innen származik. Kamsar városa a kikötő köré épült modern ipari településként fejlődött ki, amelynek szolgáltatásai messze meghaladják az átlagos guineai városokét. Az ipari jelleg ellenére a környező mangrove-erdők ökológiai jelentősége kiemelkedő, bár a folyamatos ipari bővülés komoly környezeti nyomást gyakorol rájuk.",
+        "ro": "Portul Kamsar este principalul terminal de export al Guineei și unul dintre cele mai mari centre de manipulare a bauxitei din lume. Acesta este situat în prefectura Boké, la vărsarea râului Rio Nuñez în Oceanul Atlantic. Portul a fost construit în anii 1970 special pentru exportul minereului de bauxită transportat de la minele din Sangarédi și este operat de Compagnie des Bauxites de Guinée (CBG). Geografic, locația este definită de un estuar adânc, amenajat pentru a permite accesul navelor mineraliere de mare tonaj. Infrastructura include un debarcader de încărcare lung de câțiva kilometri, depozite vaste și o stație dedicată de descărcare feroviară. Din punct de vedere economic, portul Kamsar reprezintă plămânul vital al economiei guineene, generând o parte substanțială din veniturile naționale din export. Orașul Kamsar s-a dezvoltat în jurul portului ca o așezare industrială modernă, beneficiind de facilități superioare mediei naționale. În ciuda concentrării industriale, ecosistemul de mangrove din jur rămâne de o importanță ecologică majoră, fiind însă sub presiunea constantă a extinderii terminalelor portuare.",
+        "en": "The Port of Kamsar is Guinea's premier export terminal and one of the largest bauxite handling facilities in the world. It is located in the Boké Prefecture at the mouth of the Rio Nuñez on the Atlantic coast. Built in the 1970s specifically to handle bauxite ore transported from the Sangarédi mines, the port is operated by the Compagnie des Bauxites de Guinée (CBG). Geographically, the site features a deep estuary that has been modified to accommodate massive bulk carriers. Its infrastructure includes a loading pier extending several kilometers into the water, vast storage yards, and a dedicated railway offloading station. Economically, the Port of Kamsar is the vital lung of the Guinean economy, generating a significant portion of the nation's export revenue. The city of Kamsar has grown around the port as a modern industrial settlement, with facilities that often exceed the national average. Despite its industrial focus, the surrounding mangrove ecosystem remains ecologically significant, though it faces ongoing pressure from industrial expansion."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen Kamsar ist Guineas wichtigster Terminal für den Bauxitexport.",
+          "Betrieben wird die Anlage von der Bergbaugesellschaft CBG.",
+          "Die Verladebrücke erstreckt sich über 1,6 km in den Rio Nuñez.",
+          "Kamsar ist direkt mit der Bauxitmine in Sangarédi verbunden.",
+          "Der Hafen kann Capesize-Schiffe mit großer Tonnage abfertigen.",
+          "In Kamsar befindet sich eine der modernsten Verarbeitungsanlagen für Erz."
+        ],
+        "hu": [
+          "Kamsar kikötője Guinea legjelentősebb bauxit-exportáló terminálja.",
+          "A létesítmény üzemeltetéséért a CBG bányavállalat felelős.",
+          "A kikötő rakodómólója 1,6 kilométer hosszan nyúlik be a folyóba.",
+          "A terminált közvetlen vasútvonal köti össze a sangarédi bányákkal.",
+          "A kikötő képes a legnagyobb tonnatartalmú ércszállító hajók fogadására.",
+          "Kamsarban található az ország egyik legmodernebb érczúzó és -szárító üzeme."
+        ],
+        "ro": [
+          "Portul Kamsar este principalul punct de ieșire pentru bauxita guineeană.",
+          "Instalațiile portuare sunt gestionate de compania minieră CBG.",
+          "Digul de încărcare are o lungime de 1,6 km în estuarul Rio Nuñez.",
+          "Portul este conectat feroviar direct cu zona minieră Sangarédi.",
+          "Terminalul poate opera nave de tip Capesize cu capacitate masivă.",
+          "Kamsar dispune de o infrastructură industrială de nivel internațional."
+        ],
+        "en": [
+          "Port of Kamsar is Guinea's primary terminal for global bauxite exports.",
+          "The facility is operated and managed by the CBG mining company.",
+          "The loading pier extends 1.6 kilometers into the Rio Nuñez estuary.",
+          "It is connected by a dedicated heavy-rail line to the Sangarédi mines.",
+          "The port is capable of handling massive Capesize bulk carriers.",
+          "Kamsar features state-of-the-art ore crushing and drying facilities."
+        ]
+      }
+    },
+    {
+      "id": "hafen-dapilon-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Dapilon ist ein wichtiger Bauxit-Exporthafen in der Präfektur Boké, gelegen am Ufer des Rio Nuñez in Maritime Guinea. Er ist Teil des Logistiknetzwerks des SMB-Winning-Konsortiums (Société Minière de Boké), das in den letzten Jahren zu einem der größten Bauxitproduzenten weltweit aufgestiegen ist. Geografisch liegt der Hafen in einer flachen Flusslandschaft, die durch Gezeitenströme und Mangroven geprägt ist. Dapilon dient als zentraler Verladepunkt, an dem das Erz von Lastwagen und Förderbändern auf Leichter (flache Frachtschiffe) verladen wird, die es dann zu größeren Schiffen vor der Küste transportieren. Die Entwicklung von Dapilon war ein Schlüsselfaktor für den rasanten Anstieg der guineischen Bauxitexporte nach China. Wirtschaftlich hat der Hafen die Region Boké grundlegend verändert, indem er Tausende von Arbeitsplätzen geschaffen und neue Infrastrukturen wie Straßen und Stromversorgungen hervorgebracht hat. Dennoch steht das Projekt aufgrund seiner massiven Auswirkungen auf die Umwelt und die traditionelle Fischerei sowie Landwirtschaft in der Kritik. Der Hafen ist ein Symbol für den modernen Rohstoffboom in Guinea und die enge wirtschaftliche Verflechtung des Landes mit den globalen Märkten.",
+        "hu": "Dapilon kikötője egy jelentős bauxit-exportkikötő a Boké prefektúrában, a Rio Nuñez folyó partján, Alsó-Guineában. A kikötő az SMB-Winning konzorcium (Société Minière de Boké) logisztikai hálózatának része, amely az elmúlt években a világ egyik legnagyobb bauxittermelőjévé vált. Földrajzilag a kikötő sík folyóparti területen fekszik, amelyet az árapály és a mangrove-erdők határoznak meg. Dapilon központi rakodópontként szolgál, ahol az ércet teherautókról és szállítószalagokról bárkákra rakják, amelyek azután a part menti mélyebb vizeken várakozó nagyobb hajókhoz szállítják azt. Dapilon fejlesztése kulcsfontosságú volt a guineai bauxit Kínába irányuló exportjának drasztikus növekedésében. Gazdaságilag a kikötő alapjaiban változtatta meg Boké régióját: több ezer munkahelyet teremtett, és új infrastruktúrákat, például utakat és áramellátást hozott létre. Ugyanakkor a projektet számos kritika éri a környezetre, valamint a hagyományos halászatra és mezőgazdaságra gyakorolt jelentős hatása miatt. A kikötő a modern guineai nyersanyagboom és az ország globális piacokhoz való szoros kötődésének szimbóluma.",
+        "ro": "Portul Dapilon este un terminal vital pentru exportul de bauxită situat în prefectura Boké, pe malul râului Rio Nuñez. Acesta face parte din rețeaua logistică a consorțiului SMB-Winning (Société Minière de Boké), care a devenit recent unul dintre cei mai mari producători de bauxită la nivel global. Geografic, portul este amplasat într-o zonă de câmpie fluvială influențată de maree și ecosisteme de mangrove. Dapilon funcționează ca un punct de transbordare, unde minereul este încărcat de pe camioane sau benzi transportoare pe barje, care îl transferă apoi pe navele oceanice ancorate în larg. Dezvoltarea portului Dapilon a fost un factor determinant pentru creșterea rapidă a exporturilor de bauxită guineene către China. Din punct de vedere economic, acesta a transformat regiunea Boké, generând mii de locuri de muncă și stimulând dezvoltarea infrastructurii rutiere. Totuși, proiectul a atras și critici referitoare la impactul ecologic asupra estuarelor și la perturbarea activităților tradiționale de pescuit. Portul rămâne un simbol al boom-ului extractiv modern din Guineea și al integrării țării în lanțurile de aprovizionare globale.",
+        "en": "The Port of Dapilon is a major bauxite export terminal in the Boké Prefecture, situated on the banks of the Rio Nuñez in Maritime Guinea. It is a key part of the logistics network for the SMB-Winning consortium (Société Minière de Boké), which has recently emerged as one of the world's leading bauxite producers. Geographically, the port is located in a flat riverine landscape shaped by tidal currents and mangroves. Dapilon serves as a central loading point where ore is transferred from trucks and conveyor belts onto barges, which then transport it to larger vessels anchored offshore. The development of Dapilon has been a primary driver behind the rapid surge in Guinean bauxite exports to China. Economically, the port has fundamentally transformed the Boké region, creating thousands of jobs and spawning new infrastructure such as roads and power supplies. However, the project has also faced criticism for its significant environmental impact on estuaries and the disruption of traditional fishing and farming. The port stands as a symbol of Guinea's modern resource boom and the country's tight integration into global commodity markets."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hafen Dapilon ist ein zentraler Verladepunkt des SMB-Winning-Konsortiums.",
+          "Der Hafen liegt am Ufer des Rio Nuñez in der Präfektur Boké.",
+          "Bauxit wird hier von Lastwagen auf Flussschiffe (Leichter) umgeladen.",
+          "Dapilon hat maßgeblich zum Aufstieg Guineas als Bauxit-Exporteur beigetragen.",
+          "Das Projekt ist Teil der chinesischen 'Belt and Road'-Initiative in Guinea.",
+          "In der Umgebung des Hafens wurden neue Straßen und Energieanlagen gebaut."
+        ],
+        "hu": [
+          "Dapilon kikötője az SMB-Winning konzorcium egyik fő rakodóbázisa.",
+          "A kikötő a Rio Nuñez folyó partján, a Boké prefektúrában fekszik.",
+          "A bauxitot itt bárkákra rakják, majd mélyvízi hajókra transzportálják.",
+          "A kikötő kulcsszerepet játszik a Kínába irányuló ércszállításban.",
+          "A projekt része a kínai 'Egy övezet, egy út' kezdeményezésnek Guineában.",
+          "A kikötő környékén jelentős infrastrukturális fejlesztések mentek végbe."
+        ],
+        "ro": [
+          "Portul Dapilon este un terminal de transbordare al consorțiului SMB.",
+          "Localizarea sa pe Rio Nuñez permite transportul fluvial eficient.",
+          "Minereul este transferat de pe camioane pe barje către navele din larg.",
+          "Dapilon a accelerat masiv ritmul exporturilor de bauxită către Asia.",
+          "Este un element central al investițiilor chineze în sectorul minier guineean.",
+          "Regiunea a beneficiat de noi drumuri și acces la electricitate prin acest port."
+        ],
+        "en": [
+          "Port of Dapilon is a key transshipment hub for the SMB consortium.",
+          "The port is located on the Rio Nuñez river in the Boké Prefecture.",
+          "Ore is loaded onto river barges before being transferred to deep-sea vessels.",
+          "Dapilon has been pivotal in increasing Guinea's bauxite exports to China.",
+          "The facility is a cornerstone of Chinese mining investment in the country.",
+          "Significant infrastructure, including new roads, was built to support the port."
+        ]
+      }
+    }
+  ]
+}

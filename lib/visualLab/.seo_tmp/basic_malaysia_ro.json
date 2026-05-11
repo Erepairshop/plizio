@@ -1,0 +1,76 @@
+{
+  "lang": "ro",
+  "country": "Malaysia",
+  "files": [
+    "lib/visualLab/data/poiExtraMalaysiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMalaysiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kuching-cities-v2",
+      "description": "Kuching este capitala statului Sarawak, situată pe insula Borneo.",
+      "facts": ["Capitala statului Sarawak", "Oraș pe insula Borneo", "Centru cultural important", "Populație diversă"]
+    },
+    {
+      "id": "kuantan-cities-v2",
+      "description": "Kuantan este capitala statului Pahang, situată pe coasta de est a Peninsulei Malaysia.",
+      "facts": ["Capitala statului Pahang", "Coasta de est", "Centru administrativ", "Turism regional"]
+    },
+    {
+      "id": "alorsetar-cities-v2",
+      "description": "Alor Setar este capitala statului Kedah, cunoscut pentru arhitectura sa tradițională și peisajele agricole.",
+      "facts": ["Capitala statului Kedah", "Arhitectură tradițională", "Zona agricolă", "Centru istoric"]
+    },
+    {
+      "id": "putrajaya-cities-v2",
+      "description": "Putrajaya este centrul administrativ al Malaeziei, renumit pentru designul său urban modern și spațiile verzi.",
+      "facts": ["Centrul administrativ", "Planificare urbană modernă", "Lac artificial", "Arhitectură contemporană"]
+    },
+    {
+      "id": "subang-jaya-cities-v2",
+      "description": "Subang Jaya este un oraș suburban major în statul Selangor, parte a aglomerării urbane Kuala Lumpur.",
+      "facts": ["Oraș suburban", "Statul Selangor", "Aproape de Kuala Lumpur", "Centru comercial"]
+    },
+    {
+      "id": "petaling-jaya-cities-v2",
+      "description": "Petaling Jaya este un oraș dezvoltat inițial ca zonă rezidențială, devenit astăzi un hub economic important în Selangor.",
+      "facts": ["Hub economic", "Statul Selangor", "Dezvoltare rezidențială", "Conexiuni urbane bune"]
+    },
+    {
+      "id": "miri-cities-v2",
+      "description": "Miri este un oraș de coastă din Sarawak, cunoscut istoric pentru industria sa petrolieră.",
+      "facts": ["Oraș de coastă", "Statul Sarawak", "Industria petrolieră", "Poartă către parcuri naționale"]
+    },
+    {
+      "id": "batu-pahat-cities-v2",
+      "description": "Batu Pahat este un oraș comercial și industrial situat în statul Johor.",
+      "facts": ["Centru comercial", "Statul Johor", "Industrie manufacturieră", "Activitate economică"]
+    },
+    {
+      "id": "lahad-datu-cities-v2",
+      "description": "Lahad Datu este un oraș din Sabah, servind ca punct logistic pentru industria agricolă a regiunii.",
+      "facts": ["Oraș în Sabah", "Centru agricol", "Punct logistic", "Lângă Rezervația Danum Valley"]
+    },
+    {
+      "id": "bayan-lepas-ftez-industry-economic-v2",
+      "description": "Bayan Lepas Free Trade Zone este o zonă economică cheie în Penang, specializată în producția electronică.",
+      "facts": ["Zonă de liber schimb", "Penang", "Producție electronică", "Hub industrial"]
+    },
+    {
+      "id": "bako-nationalpark-life-v2",
+      "description": "Parcul Național Bako este cel mai vechi parc național din Sarawak, protejând o diversitate biologică remarcabilă.",
+      "facts": ["Cel mai vechi din Sarawak", "Ecosisteme diverse", "Habitat pentru maimuțe proboscis", "Peisaje de coastă"]
+    },
+    {
+      "id": "semenggoh-wildlife-centre-life-v2",
+      "description": "Centrul de reabilitare Semenggoh oferă un refugiu pentru urangutanii orfani sau salvați din captivitate.",
+      "facts": ["Centru de reabilitare", "Habitat pentru urangutani", "Programe de conservare", "Educație ecologică"]
+    },
+    {
+      "id": "kinabalu-park-life-v2",
+      "description": "Parcul Kinabalu, sit al Patrimoniului Mondial UNESCO, găzduiește muntele omonim și o floră alpină variată.",
+      "facts": ["Patrimoniu Mondial UNESCO", "Muntele Kinabalu", "Biodiversitate bogată", "Floră alpină unică"]
+    }
+  ]
+}

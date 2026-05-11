@@ -1,0 +1,25 @@
+{
+  "lang": "hu",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "khoms-power-plant-economic-v2", "description": "A Khoms erőmű Líbia egyik legfontosabb energiatermelő létesítménye, amely az északnyugati régiót látja el.", "facts": ["Fontos erőmű", "Khoms városa", "Energiatermelés"] },
+    { "id": "ly-bir-hakeim-history-v2", "description": "Bir Hakeim egy történelmi helyszín a sivatagban, ahol a második világháború egyik fontos csatája zajlott.", "facts": ["Világháborús helyszín", "Sivatagi erőd", "Történelmi csata"] },
+    { "id": "jamal-abdul-nasser-mosque-landmarks-v2", "description": "A Jamal Abdul Nasser mecset Tripoli egyik legnagyobb és legfontosabb vallási épülete, a város szívében.", "facts": ["Tripoli központja", "Nagy mecset", "Vallási jelkép"] },
+    { "id": "brega-oil-terminal-landmarks-v2", "description": "A Brega olajterminál Líbia egyik kulcsfontosságú ipari létesítménye, amely az olajexport központja.", "facts": ["Olajterminál", "Ipari kikötő", "Gazdasági központ"] },
+    { "id": "gar-al-marah-nature-v2", "description": "Gar al-Marah egy különleges geológiai formáció Líbia északkeleti részén, a sivatagi táj egyik érdekessége.", "facts": ["Geológiai formáció", "Északkelet-Líbia", "Sivatagi táj"] },
+    { "id": "gargaf-mountains-nature-v2", "description": "A Gargaf-hegység egy száraz, sziklás vonulat Közép-Líbiában, amely messziről is jól látható a sivatagban.", "facts": ["Sziklás hegység", "Közép-Líbia", "Kietlen vidék"] },
+    { "id": "mizdah-plateau-nature-v2", "description": "A Mizdah-fennsík egy hatalmas mészkőfennsík Nyugat-Líbiában, amely nevét Mizdah városáról kapta.", "facts": ["Mészkőfennsík", "Nyugat-Líbia", "Magaslati terület"] },
+    { "id": "sarir-tanezrouft-nature-v2", "description": "Sarir Tanezrouft egy rendkívül száraz és sík kavicssivatag a Szahara déli részén, ahol szinte nincs élet.", "facts": ["Kavicssivatag", "Sík vidék", "Extrém szárazság"] },
+    { "id": "jebel-aswad-nature-v2", "description": "Jebel Aswad, vagyis a 'Fekete-hegy', egy vulkáni eredetű masszívum a Fezzan régióban.", "facts": ["Vulkáni eredet", "Fekete kőzetek", "Fezzan régió"] },
+    { "id": "jebel-uwaynat-nature-v2", "description": "A Jebel Uwaynat egy hatalmas hegy a líbiai-egyiptomi-szudáni határon, híres ősi sziklafestményeiről.", "facts": ["Hármas határ", "Ősi sziklarajzok", "Sivatagi hegy"] },
+    { "id": "gargaf-desert-nature-v2", "description": "A Gargaf-sivatag egy köves sivatagi terület, melyet magas fennsíkok és kiszáradt folyóvölgyek jellemeznek.", "facts": ["Köves sivatag", "Hamada táj", "Közép-Líbia"] },
+    { "id": "jebel-soda-nature-v2", "description": "Jebel Soda egy vulkanikus hegyvonulat Közép-Líbiában, melynek sötét színe uralja a környék tájképét.", "facts": ["Vulkáni vonulat", "Sötét kőzetek", "Közép-Líbia"] }
+  ]
+}

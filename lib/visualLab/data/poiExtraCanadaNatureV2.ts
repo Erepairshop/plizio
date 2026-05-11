@@ -9,10 +9,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-115.6506, 50.9225],
     name: { de: "Mount Assiniboine", hu: "Mount Assiniboine", ro: "Muntele Assiniboine", en: "Mount Assiniboine" },
     description: {
-      de: "Mount Assiniboine ist ein markanter Gipfel in den Canadian Rockies an der Grenze von British Columbia und Alberta.",
-      hu: "A Mount Assiniboine a Sziklás-hegység egyik legismertebb csúcsa. A környező tartományi park magashegyi tavakkal és alpesi tájjal ismert.",
-      ro: "Mount Assiniboine este un v?rf proeminent din Mun?ii St?nco?i canadieni, la grani?a dintre Alberta ?i Columbia Britanic?. Este unul dintre cele mai cunoscute puncte alpine din regiune.",
-      en: "Mount Assiniboine is a sharp, pyramid-shaped peak in the Canadian Rockies on the Alberta-British Columbia border. It is one of the most famous mountains in the region."
+      de: "Das Matterhorn der Rocky Mountains besticht durch seine markante Pyramidenform an der Grenze zwischen British Columbia und Alberta.",
+      hu: "A Sziklás-hegység egyik leglátványosabb csúcsa Brit Columbia és Alberta határán, amelyet alakja miatt \"Kanada Matterhornjának\" is neveznek.",
+      ro: "Supranumit „Matterhorn-ul Americii de Nord” datorită formei sale piramidale spectaculoase, acest vârf domină peisajul Alpilor Canadieni.",
+      en: "Known as the Matterhorn of the Rockies, this striking peak is a landmark of the Canadian Cordillera."
     },
     descriptionAdvanced: {
       hu: "A Mount Assiniboine a kanadai Sziklás-hegység egyik legikonikusabb csúcsa, amelyet gyakran a kanadai Matterhornként emlegetnek meredek, piramis alakú formája miatt. 3618 méteres magasságával lenyűgöző látványt nyújt a környező gleccserek és alpesi tavak fölött, mint például a Magog-tó. Ez a terület rendkívül népszerű a túrázók és hegymászók körében, mivel a csúcsra csak gyakorlott mászók juthatnak fel. A régió része a Mount Assiniboine Tartományi Parknak, amely szigorúan védett természetvédelmi terület, biztosítva a ritka alpesi ökoszisztémák megőrzését. Földrajz K7 — hegységek és tavak."
@@ -27,10 +27,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-125.5858, 61.5644],
     name: { de: "South Nahanni River", hu: "South Nahanni-folyó", ro: "Râul South Nahanni", en: "South Nahanni River" },
     description: {
-      de: "Der South Nahanni River fließt durch eine abgelegene Wildnis im Nordwesten Kanadas.",
-      hu: "A South Nahanni folyó Kanada északnyugati részének vad folyója. Mély kanyonjai és vízesései miatt a nemzeti park egyik fő értéke.",
-      ro: "South Nahanni River curge printr-o zon? s?lbatic? din Teritoriile de Nord-Vest. Cursul s?u este asociat cu canioane, repezi?uri ?i peisaje izolate.",
-      en: "The South Nahanni River is a wild northern river in the Northwest Territories. It is famous for deep canyons, Virginia Falls, and protected wilderness."
+      de: "Der South Nahanni River fließt durch spektakuläre Schluchten und über die gewaltigen Virginia Falls in den Northwest Territories.",
+      hu: "Az Északnyugati területeken kanyargó vadregényes folyó, amely mély kanyonjairól és hatalmas vízeséseiről ismert.",
+      ro: "Un râu sălbatic legendar care curge prin canioane adânci și pe lângă cascade uriașe, fiind inima Parcului Național Nahanni.",
+      en: "A spectacular wilderness river in the Northwest Territories, famous for its deep canyons and waterfalls."
     },
     descriptionAdvanced: {
       hu: "A South Nahanni folyó az Északnyugati területek egyik legdrámaibb természeti képződménye, amely a Nahanni Nemzeti Parkon keresztül kanyarog. A folyó híres a hatalmas mélységű kanyonjairól, valamint a Virginia-vízesésről, amely kétszer magasabb, mint a Niagara-vízesés. Ez a terület az UNESCO Világörökség része, és gazdag geológiai különlegességekben, mint például a felszín alatti barlangrendszerek és hőforrások. A folyó vadvízi evezősök és kalandturisták kedvelt úti célja, akik a szinte érintetlen északi vadont szeretnék felfedezni. Földrajz K7 — folyók és vízesések."
@@ -45,10 +45,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-114.0, 62.0],
     name: { de: "Großer Sklavensee", hu: "Nagy-Rabszolga-tó", ro: "Marele Lac al Sclavilor", en: "Great Slave Lake" },
     description: {
-      de: "Der Great Slave Lake ist ein riesiger See in den Northwest Territories und ein prägendes Gewässer des Nordens.",
-      hu: "A Great Slave Lake Kanada egyik legnagyobb és legmélyebb tava. Az Északnyugati területek meghatározó vízteste, jeges északi környezettel.",
-      ro: "Great Slave Lake este cel mai ad?nc lac mare din Canada ?i se afl? ?n Teritoriile de Nord-Vest. Este un element geografic major al nordului canadian.",
-      en: "Great Slave Lake is the second-largest lake in Canada and one of the deepest in North America. It sits in the Northwest Territories and shapes the region's travel and climate."
+      de: "Der Große Sklavensee ist der tiefste See Nordamerikas und ein zentrales Gewässer in der Wildnis der Northwest Territories.",
+      hu: "Észak-Amerika legmélyebb tava, amely az Északnyugati területeken található, és partján fekszik Yellowknife városa.",
+      ro: "Cel mai adânc lac din America de Nord, situat în Teritoriile de Nord-Vest, oferind peisaje arctice impresionante și pescuit de clasă mondială.",
+      en: "The deepest lake in North America and the second-largest lake in the Northwest Territories."
     },
     descriptionAdvanced: {
       hu: "A Nagy-Rabszolga-tó Kanada második legnagyobb tava, amely az Északnyugati területeken található. Ez Észak-Amerika legmélyebb tava, amelynek maximális mélysége eléri a 614 métert, ami különleges hatással van a környező éghajlatra. A tó partján fekszik Yellowknife, a terület fővárosa, amely az 1930-as évekbeli aranyláz idején kezdett jelentősen fejlődni. Télen a tó vize teljesen befagy, ami lehetővé teszi a híres jégutak használatát a közlekedésben. A tó vize kristálytiszta, és jelentős élőhelyet biztosít különböző halfajoknak, mint a pisztráng és a süllő. Földrajz K7 — tavak és mélységek."
@@ -63,10 +63,10 @@ export const poiExtraCanadaNatureV2: POI[] = [
     coords: [-132.0, 53.0],
     name: { de: "Haida Gwaii", hu: "Haida Gwaii", ro: "Haida Gwaii", en: "Haida Gwaii" },
     description: {
-      de: "Haida Gwaii ist ein abgelegener Inselarchipel vor der Nordküste von British Columbia.",
-      hu: "A Haida Gwaii-szigetek Brit Columbia partjainál fekszenek. Esőerdők, tengerparti sziklák és a Haida kultúra együtt adják a térség karakterét.",
-      ro: "Haida Gwaii este un arhipelag de pe coasta Columbiei Britanice, cunoscut pentru biodiversitate ?i pentru patrimoniul Haida. Izolarea sa i-a p?strat caracterul aparte.",
-      en: "Haida Gwaii is a remote island archipelago off the coast of British Columbia. It is closely tied to Haida culture and rich Pacific coastal ecosystems."
+      de: "Dieser entlegene Archipel vor der Küste von British Columbia ist für seine einzigartige Tierwelt und die reiche Kultur der Haida bekannt.",
+      hu: "Brit Columbia partjainál fekvő szigetcsoport, amely gazdag őslakos kultúrájáról és egyedülálló élővilágáról híres.",
+      ro: "Un arhipelag izolat și mistic în largul coastei British Columbia, renumit pentru biodiversitatea sa unică și cultura bogată a poporului Haida.",
+      en: "An archipelago off British Columbia's coast known for its rich Haida culture and unique ecosystems."
     },
     descriptionAdvanced: {
       hu: "Haida Gwaii, korábbi nevén a Királynő Sarolta-szigetek, egy szigetcsoport British Columbia partjainál, amely rendkívül gazdag biodiverzitással és a Haida őslakos nép kultúrájával büszkélkedhet. A szigeteket gyakran a 'Kanada Galápagosának' nevezik az egyedülálló növény- és állatvilág miatt, amely az utolsó jégkorszakot követően elszigetelten fejlődött. A területen találhatók az UNESCO védelme alatt álló totemfa-maradványok és az ősi falvak maradványai, amelyek a Haida kultúra mélységét tükrözik. A szigetek éghajlata óceáni, sok csapadékkal, ami buja esőerdőket hozott létre. Földrajz K7 — szigetek és biológia."

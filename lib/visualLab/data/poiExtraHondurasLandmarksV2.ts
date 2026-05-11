@@ -34,8 +34,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt ein wunderschönes Retabel aus Blattgold", "Die Kanzel ist ein Meisterwerk der Holzschnitzerei", "Wurde nach einem schweren Erdbeben im 19. Jahrhundert aufwendig restauriert", "Sitz des Erzbistums von Tegucigalpa"],
       hu: ["Tegucigalpa központi terén, a Parque Centralon áll.", "Építése 1765-ben kezdődött és 1782-ben fejeződött be.", "Honduras egyik legkiválóbb spanyol barokk stílusú épülete.", "Belső terét egy grandiózus, aranyfüstös faoltár (retablo mayor) uralja.", "Az oltárt a híres guatemalai fafaragó, Vicente Gálvez készítette.", "Szent Mihály arkangyalnak, a város védőszentjének szentelték.", "1967-ben a kormány hivatalosan is Nemzeti Műemlékké nyilvánította."],
-      ro: ["Construită între 1765 și 1786", "Stil baroc", "Dedicată Arhanghelului Mihail", "Monument național", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Built between 1765 and 1786", "Baroque style", "Dedicated to St. Michael the Archangel", "National Monument", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/catedral-metropolitana-tegucigalpa-landmarks-v2.webp"},
   {
     id: "basilica-de-suyapa-landmarks-v2",
@@ -69,8 +69,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Die Statue der Jungfrau ist nur ca. 6 cm groß", "Der Bau dauerte mehrere Jahrzehnte und wurde durch Spenden finanziert", "Wurde von Papst Franziskus in den Rang einer Basilica Minor erhoben", "Verfügt über eine beeindruckende Akustik für religiöse Konzerte"],
       hu: ["Honduras legnagyobb és legfontosabb katolikus zarándokhelye.", "A Suyapai Szűz Máriának (La Morenita), Honduras védőszentjének otthona.", "A hatalmas bazilika építése 1954-ben kezdődött.", "Az eredeti szobor mindössze 6 cm magas, cédrusfából faragott.", "A szobrot a legenda szerint 1747-ben találta egy helyi paraszt.", "Hatalmas ólomüveg ablakai a hondurasi vallási történelem jeleneteit ábrázolják.", "Minden év február 3-án zarándokok milliói látogatnak el ide."],
-      ro: ["Găzduiește Fecioara din Suyapa", "Capacitate de 42.000 de persoane", "Design modern din secolul XX", "Festival anual în februarie", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Houses the Virgin of Suyapa", "Capacity for 42,000 people", "Modern 20th-century design", "Annual festival in February", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/basilica-de-suyapa-landmarks-v2.webp"},
   {
     id: "estadio-olimpico-metropolitano-landmarks-v2",
@@ -104,8 +104,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Gilt als eines der stimmungsvollsten Stadien in Mittelamerika", "Verfügt über eine professionelle Leichtathletik-Laufbahn", "Häufiger Austragungsort für Spiele der CONCACAF Champions League", "Wurde komplett für moderne Sicherheitsstandards modernisiert"],
       hu: ["Honduras legnagyobb stadionja, befogadóképessége 37 000 fő.", "San Pedro Sula városában található.", "Az 1997-es Közép-Amerikai Játékokra (Juegos Centroamericanos) épült.", "A hondurasi nemzeti labdarúgó-válogatott (La H) első számú otthona.", "A szurkolók intenzív atmoszférája miatt hírhedt a riválisok körében.", "A stadion teljes atlétikai futópályával is rendelkezik.", "Beceneve 'El Coloso del Norte' (Az Északi Kolosszus)."],
-      ro: ["Capacitate: aprox. 37.000", "Inaugurat în 1997", "Stadionul echipei naționale", "Arenă multifuncțională", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Capacity: approx. 37,000", "Opened in 1997", "Home stadium for the national team", "Multi-purpose arena", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/estadio-olimpico-metropolitano-landmarks-v2.webp"},
   {
     id: "catedral-de-san-pedro-apostol-landmarks-v2",
@@ -139,8 +139,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Die Fassade ist mit Statuen der Apostel geschmückt", "Beherbergt wertvolle religiöse Kunstwerke aus verschiedenen Epochen", "Zentraler Punkt für die Osterprozessionen der Stadt", "Eines der meistfotografierten Gebäude im Norden von Honduras"],
       hu: ["San Pedro Sula, Honduras ipari fővárosának központi katedrálisa.", "A jelenlegi neokoloniális épület alapkövét 1949-ben rakták le.", "Két magas harangtornya és világossárga homlokzata ikonikus a városban.", "Szent Péter apostolnak, a város névadó védőszentjének szentelték.", "A belső teret látványos, színes freskók és faragott fa részletek díszítik.", "A nyüzsgő Parque Central (Központi Park) mellett áll.", "Az északi régió katolikus közösségének legfontosabb találkozási pontja."],
-      ro: ["Construită la mijlocul secolului XX", "Stil misionar", "Două turnuri clopotniță", "În inima orașului", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Built in the mid-20th century", "Missionary architectural style", "Features two bell towers", "In the heart of the city", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/catedral-de-san-pedro-apostol-landmarks-v2.webp"},
   {
     id: "teatro-nacional-manuel-bonilla-landmarks-v2",
@@ -174,8 +174,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Verfügt über eine hervorragende natürliche Akustik", "Das Interieur ist mit Kristalllüstern und rotem Samt ausgestattet", "Wurde zur Feier des hundertjährigen Bestehens der Republik geplant", "Überlebte mehrere politische Unruhen unbeschadet"],
       hu: ["Tegucigalpa legkiemelkedőbb kulturális és előadó-művészeti épülete.", "1915-ben nyitotta meg kapuit, neoreneszánsz stílusban épült.", "Nevét az építését elrendelő Manuel Bonilla elnökről kapta.", "A párizsi Athénée színház belsőépítészeti mintájára tervezték.", "Mennyezetét Carlos Zúñiga Figueroa lenyűgöző freskója díszíti.", "A belső teret vörös bársony, arany díszítések és kristálycsillárok uralják.", "A hondurasi színház, opera és klasszikus zene legfőbb otthona."],
-      ro: ["Inaugurat în 1915", "Stil neoclasic", "Numit după președintele Manuel Bonilla", "Centru cultural", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Opened in 1915", "Neoclassical style", "Named after President Manuel Bonilla", "Cultural center", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/teatro-nacional-manuel-bonilla-landmarks-v2.webp"},
   {
     id: "puente-choluteca-landmarks-v2",
@@ -209,8 +209,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Die Brücke ist eine exakte Replik der Golden Gate Bridge in kleinerem Maßstab", "Wurde von japanischen Ingenieuren entworfen, um schwersten Stürmen zu trotzen", "Gilt als Metapher für starre Strukturen in dynamischen Umgebungen", "Ist ein wichtiger Teil der Panamericana-Route im Süden"],
       hu: ["A Choluteca-folyót íveli át Dél-Honduras legnagyobb városában.", "1935 és 1937 között épült, amerikai mérnökök tervezésével.", "Az amerikai Golden Gate híd stílusát idéző függőhíd.", "Eredetileg a Pánamerikai főútvonal legfontosabb láncszeme volt délen.", "Sértetlenül túlélte az 1998-as, pusztító Mitch hurrikánt.", "Ma már csak könnyű forgalomra és gyalogosok számára nyitott.", "Choluteca városának legkönnyebben felismerhető történelmi szimbóluma."],
-      ro: ["A supraviețuit uraganului Mitch", "Construit de ingineri japonezi", "Râul și-a schimbat cursul", "Simbol al adaptabilității", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Famously survived Hurricane Mitch", "Built by Japanese engineers", "The river changed its course", "Symbol of adaptation", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/puente-choluteca-landmarks-v2.webp"},
   {
     id: "iglesia-la-merced-gracias-landmarks-v2",
@@ -244,8 +244,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Besitzt eine der schönsten barocken Fassaden des Landes", "Beherbergt wertvolle Holzskulpturen aus der Kolonialzeit", "War Teil eines größeren mönchischen Komplexes", "Gilt als Herzstück des historischen Viertels von Gracias"],
       hu: ["Gracias történelmi óvárosában található a 17. század elejéről.", "Honduras egyik legszebb faragott kőhomlokzatával büszkélkedhet.", "A díszítések a spanyol és a helyi lenca művészet találkozását tükrözik.", "Eredetileg a Mercedárius rend (Ordo de la Merced) alapította.", "Vastag vályogfalai és fa tetőszerkezete a korai gyarmati építészet példái.", "Az épület elhelyezkedése eltér a hagyományos főtéri (Parque Central) elrendezéstől.", "Nemzeti műemléki védelem alatt áll, népszerű turisztikai célpont."],
-      ro: ["Construită în secolul al XVII-lea", "Baroc colonial", "Altare originale", "Centrul istoric al orașului Gracias", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Built in the 17th century", "Colonial Baroque style", "Features original altars", "Located in Gracias historic center", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/iglesia-la-merced-gracias-landmarks-v2.webp"},
   {
     id: "museo-para-la-identidad-nacional-landmarks-v2",
@@ -279,8 +279,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Das Gebäude diente ursprünglich als Krankenhaus und später als Ministerium", "Beherbergt eine der besten Sammlungen honduranischer Malerei", "Bietet regelmäßig Workshops für Kinder und Jugendliche an", "Wurde mit internationalen Preisen für seine museale Gestaltung ausgezeichnet"],
       hu: ["Tegucigalpában, az 1882-ben épült egykori Minisztériumok Palotájában található.", "Honduras leglátogatottabb és legmodernebb történelmi múzeuma.", "Kiállításai átfogják az ország történelmét az ősidőktől a jelenkorig.", "Leghíresebb attrakciója a Copán maja romjait bemutató virtuális 3D túra.", "Kiemelten foglalkozik a hondurasi őslakos és afro-karibi kultúrákkal.", "Belső udvara koncertek, kortárs kiállítások és fesztiválok helyszíne.", "A kulturális nevelés és a nemzeti öntudat erősítésének fő központja."],
-      ro: ["Clădire istorică din secolul al XIX-lea", "Istoria și arta honduriană", "Tur virtual al Copánului", "Punct de întâlnire cultural", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Historic 19th-century building", "Honduran history and art", "Virtual tour of Copán", "Cultural meeting point", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/museo-para-la-identidad-nacional-landmarks-v2.webp"},
   {
     id: "estadio-nacional-chelato-ucles-landmarks-v2",
@@ -314,8 +314,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde auf dem Gelände eines ehemaligen Flugplatzes errichtet", "Die markante Betonstruktur ist ein Wahrzeichen der Stadt", "Bietet Platz für ca. 35.000 leidenschaftliche Fans", "Wurde mehrfach modernisiert, um internationalen Standards zu entsprechen"],
       hu: ["Tegucigalpa legnagyobb stadionja, 1948-ban avatták fel.", "Két nagy rivális klub, az Olimpia és a Motagua otthona.", "Befogadóképessége körülbelül 34 000-35 000 fő.", "2022-ben átnevezték a legendás hondurasi edző, 'Chelato Uclés' emlékére.", "Történelmileg az összes hondurasi elnök beiktatási ceremóniájának helyszíne.", "Körkörös, masszív betonszerkezete a Carías-korszak építészetét idézi.", "A fővárosi társadalmi és sportélet legfontosabb közösségi tere."],
-      ro: ["Fostul 'Estadio Nacional'", "Inaugurat în 1948", "Evenimente politice importante", "Casa cluburilor Olimpia și Motagua", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Formerly 'Estadio Nacional'", "Opened in 1948", "Site of major political events", "Home to clubs Olimpia and Motagua", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/estadio-nacional-chelato-ucles-landmarks-v2.webp"},
   {
     id: "palacio-legislativo-honduras-landmarks-v2",
@@ -349,8 +349,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Das Gebäude ist im brutalistischen Stil der 1950er Jahre entworfen", "Beherbergt den Plenarsaal mit 128 Abgeordnetensitzen", "Die offene Bauweise im Erdgeschoss ermöglichte früher freien Durchgang", "Wurde zum Kulturerbe der Nation erklärt"],
       hu: ["A Hondurasi Nemzeti Kongresszus hivatalos ülésterme és székhelye.", "Tegucigalpa belvárosában, a Choluteca-folyó mellett található.", "Az 1950-es években épült, funkcionalista-modernista építészeti stílusban.", "A beton és üveg struktúra kontrasztban áll a történelmi belvárossal.", "A földszinti nyitott oszlopcsarnok (bajos del Congreso) ikonikus találkozóhely.", "A politikai tüntetések és társadalmi megmozdulások állandó helyszíne.", "Honduras törvényhozási és politikai hatalmának szimbóluma."],
-      ro: ["Sediul Congresului Național", "Arhitectură modernă", "Centru politic", "În inima capitalei", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Seat of the National Congress", "Modern architecture", "Political center", "In the heart of the capital", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/palacio-legislativo-honduras-landmarks-v2.webp"},
   {
     id: "iglesia-los-dolores-tegucigalpa-landmarks-v2",
@@ -384,8 +384,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Die Fassade zeigt Symbole der Passion Christi", "Das Innere beherbergt prächtige Retabel aus der Kolonialzeit", "War historisch die Kirche für die Mestizen-Bevölkerung der Stadt", "Besitzt eine der markantesten Silhouetten in der Altstadt"],
       hu: ["Tegucigalpa egyik legfontosabb történelmi temploma, 1732-ben kezdték építeni.", "A 'népi barokk' stílus lenyűgöző példája Közép-Amerikában.", "Homlokzatán katolikus szimbólumok és őslakos (nap, növény) motívumok keverednek.", "A gyarmati korban a szegényebb, mesztic és pardo lakosság temploma volt.", "Ikonikus, kétszínű (fehér és terrakotta) díszes elülső fallal rendelkezik.", "A templom előtti Plaza Los Dolores a város egyik legélettelibb tere.", "A hondurasi kulturális szinkretizmus (keveredés) építészeti jelképe."],
-      ro: ["Fațadă cu inimile lui Iisus și Maria", "Construită între 1732-1815", "Stil baroc popular", "Punct de întâlnire popular", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Facade with Hearts of Jesus and Mary", "Built between 1732-1815", "Popular Baroque style", "Popular meeting point", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/iglesia-los-dolores-tegucigalpa-landmarks-v2.webp"},
   {
     id: "banco-central-honduras-landmarks-v2",
@@ -419,8 +419,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Besitzt eine umfangreiche Sammlung honduranischer Banknoten und Münzen", "Das Gebäude ist so konstruiert, dass es hohen seismischen Belastungen standhält", "Verfügt über einen großen Veranstaltungssaal für wirtschaftliche Kongresse", "Wurde von führenden honduranischen Architekten der Moderne entworfen"],
       hu: ["A Hondurasi Központi Bank (BCH) új, ultramodern székhelye Tegucigalpában.", "2016-ban adták át, a Centro Cívico Gubernamental része.", "Honduras pénzügyi stabilitásának és modernizációjának szimbóluma.", "Kortárs üveg és acél architektúra, energiahatékony technológiákkal.", "Az épületben kapott helyet az ország Numizmatikai Múzeuma is.", "A múzeum bemutatja a hondurasi pénz (Lempira) történelmi fejlődését.", "Az ország egyik legszigorúbban őrzött, csúcstechnológiás intézménye."],
-      ro: ["Stil brutalist", "Centru financiar", "Găzduiește un muzeu numismatic", "Reper al orașului", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Brutalist style", "Financial center", "Houses a numismatic museum", "City landmark", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/banco-central-honduras-landmarks-v2.webp"},
   {
     id: "antigua-casa-presidencial-landmarks-v2",
@@ -454,8 +454,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Verfügt über prächtige Deckenmalereien und Intarsienböden", "Die Türme bieten einen strategischen Blick auf die Brücken der Stadt", "Wurde unter der Präsidentschaft von Rafael López Gutiérrez begonnen", "Gilt als eines der romantischsten Gebäude in der Hauptstadt"],
       hu: ["1916 és 1922 között épült Tegucigalpa történelmi központjában.", "1922 és 1994 között a hondurasi elnökök hivatalos rezidenciája volt.", "Kastélyszerű megjelenésű, neogótikus, mór és reneszánsz elemekkel.", "Masszív kőfalai és lőrései erődítmény jelleget kölcsönöznek neki.", "A Choluteca-folyó partján, a jelenlegi Nemzeti Kongresszus közelében áll.", "Ma múzeumként és a Hondurasi Történeti Archívumként funkcionál.", "Belső udvarait és dísztermeit a korabeli elegancia jellemzi."],
-      ro: ["Construită în anii 1920", "Stil neoclasic și baroc", "Muzeu de istorie", "Pe malul râului Choluteca", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Built in the 1920s", "Neoclassical and Baroque style", "Museum of history", "On the banks of the Choluteca River", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/antigua-casa-presidencial-landmarks-v2.webp"},
   {
     id: "catedral-inmaculada-concepcion-choluteca-landmarks-v2",
@@ -489,8 +489,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Besitzt einen der besterhaltenen kolonialen Altaraufsätze der Region", "Ist bekannt für ihre exzellente Erhaltung trotz des extremen Klimas", "Zentraler Punkt für die Feierlichkeiten zur Unbefleckten Empfängnis im Dezember", "Wurde im 18. Jahrhundert durch lokale Handwerker erweitert"],
       hu: ["Choluteca, Dél-Honduras legnagyobb városának központi katedrálisa.", "A 17. század közepén (kb. 1640) épült spanyol gyarmati stílusban.", "Fehérre meszelt, robusztus homlokzattal és két harangtoronnyal rendelkezik.", "A Szeplőtelen Fogantatásnak (Inmaculada Concepción) van szentelve.", "Belső terét egy gyönyörű, mahagóniból faragott oltár díszíti.", "Decemberben a régió legnagyobb vallási fesztiváljának helyszíne.", "A város történelmi, macskaköves óvárosának (Casco Histórico) szíve."],
-      ro: ["Arhitectură colonială", "Centrul istoric al Choluteca", "Biserică parohială activă", "A fost renovată de mai multe ori", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Colonial architecture", "Historic center of Choluteca", "Active parish church", "Has been renovated several times", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/catedral-inmaculada-concepcion-choluteca-landmarks-v2.webp"},
   {
     id: "fuerte-santa-barbara-trujillo-landmarks-v2",
@@ -524,8 +524,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt ein kleines Museum mit kolonialen Artefakten", "Wurde mehrfach von Piraten wie Henry Morgan angegriffen", "Die Kanonen sind noch immer auf das Meer gerichtet", "Gilt als einer der historisch wichtigsten Orte an der Nordküste"],
       hu: ["Közép-Amerika egyik legrégebbi spanyol erődítménye (kb. 1550-es alapítás).", "Trujillo városában, a Karib-tenger és az öböl feletti dombon helyezkedik el.", "Célja a város védelme volt a kalózok (pl. Henry Morgan) támadásai ellen.", "Történelme során a kalózok többször sikeresen kifosztották és felégették.", "Fennmaradt kőfalai között ma is láthatók az eredeti spanyol ágyúk.", "1860-ban itt végezték ki William Walker amerikai kalandort.", "1990-ben a hondurasi kormány hivatalosan Nemzeti Műemlékké nyilvánította."],
-      ro: ["Prima fortăreață spaniolă din America", "Construită în 1550", "Vedere spre Golful Trujillo", "Mormântul lui William Walker în apropiere", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["First Spanish fort in the Americas", "Built in 1550", "Overlooks the Bay of Trujillo", "Grave of William Walker is nearby", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/fuerte-santa-barbara-trujillo-landmarks-v2.webp"},
   {
     id: "estadio-francisco-morazan-landmarks-v2",
@@ -559,8 +559,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Bietet Platz für ca. 18.000 Zuschauer", "Wurde nach dem zentralamerikanischen Nationalhelden Francisco Morazán benannt", "Ist berühmt für die grüne 'Wand' seiner treuesten Fans", "Dient auch als Veranstaltungsort für lokale Messen und religiöse Events"],
       hu: ["San Pedro Sula történelmi, városközponti stadionja.", "1938-ban alapították, befogadóképessége nagyjából 18 000 fő.", "Angol stílusú elrendezése van, a lelátók rendkívül közel vannak a pályához.", "A helyi Real España labdarúgócsapat hagyományos otthona.", "Nevét a közép-amerikai nemzeti hősről, Francisco Morazánról kapta.", "Intim és tüzes atmoszférája miatt a szurkolók egyik kedvence.", "Számos nemzetközi zenei koncert és fesztivál helyszíneként is szolgál."],
-      ro: ["Inaugurat în 1938", "Casa echipei Real España", "Locație centrală", "Istorie fotbalistică importantă", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Opened in 1938", "Home of the Real España club", "Central location", "Significant football history", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/estadio-francisco-morazan-landmarks-v2.webp"},
   {
     id: "catedral-de-la-ceiba-landmarks-v2",
@@ -594,8 +594,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Spielt eine zentrale Rolle beim großen Umzug der Feria Isidra", "Wurde mehrfach erweitert, um der wachsenden Bevölkerung gerecht zu werden", "Besitzt eine beeindruckende Statue des Schutzpatrons San Isidro", "Ist ein wichtiger Orientierungspunkt für Besucher der Innenstadt"],
       hu: ["La Ceiba városának főtemploma, a Parque Central mellett áll.", "Földműves Szent Izidornak (San Isidro Labrador), a város védőszentjének szentelték.", "A jelenlegi kőépület a 20. században épült, felváltva egy korábbi fakápolnát.", "Világos, egyszerű, mégis elegáns karibi-spanyol építészeti stílus jellemzi.", "Májusban a templom ünnepe nyitja meg a híres La Ceiba-i Karnevált.", "A karnevál idején a templom környéke a zenei és táncos események központja.", "A helyi katolikus közösség és a garifuna hívők fontos találkozóhelye."],
-      ro: ["Dedicată Sfântului Isidor Plugarul", "Festival anual al orașului", "Stil arhitectural greco-ortodox", "Piața centrală", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Dedicated to Isidore the Laborer", "Site of annual city festival", "Greco-Orthodox architectural style", "Located on the central park", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/catedral-de-la-ceiba-landmarks-v2.webp"},
   {
     id: "muelle-de-tela-landmarks-v2",
@@ -629,8 +629,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["War einst einer der längsten Güterpiere Mittelamerikas", "Wurde nach Sturmschäden mehrfach historisch getreu restauriert", "Bietet einen exzellenten Blick auf die Bucht von Tela", "Wichtiger Treffpunkt für die lokale Fischergemeinschaft"],
       hu: ["Tela városának tengerpartján található, történelmi jelentőségű móló.", "A 20. század elején a Tela Railroad Company (United Fruit) építette.", "Évtizedeken át a hondurasi banánexport legfontosabb tengeri kapuja volt.", "Mára nagyrészt elpusztult az erózió és a karibi hurrikánok (pl. Mitch) miatt.", "A tengerből kiálló régi fa- és betonoszlopok ikonikus fotótémát nyújtanak.", "Nem lát el ipari funkciót, a turisták és helyi halászok kedvelt találkozóhelye.", "A hondurasi 'Banánköztársaság' korszak romantikus és szomorú mementója."],
-      ro: ["Simbol al industriei bananelor", "Construit de United Fruit Co.", "Acum un punct de reper", "Loc popular pentru plimbări", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Symbol of the banana industry", "Built by the United Fruit Co.", "Now a landmark", "Popular spot for walks", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/muelle-de-tela-landmarks-v2.webp"},
   {
     id: "parque-central-gracias-landmarks-v2",
@@ -664,8 +664,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt oft traditionelle Musikaufführungen am Wochenende", "Direkt gegenüber befindet sich das historische Gebäude der Audiencia de los Confines", "Ein idealer Ort, um die lokale Spezialität 'Atol de Elote' zu probieren", "Wurde sorgfältig restauriert, um seinen kolonialen Charakter zu bewahren"],
       hu: ["Gracias történelmi városának földrajzi és kulturális középpontja.", "Hatalmas ősfák és gondozott trópusi növényzet árnyékolja.", "A teret épségben maradt 16-17. századi gyarmati kőépületek veszik körül.", "Közvetlen szomszédságában áll a San Marcos templom és a városháza.", "Egy szobor állít emléket Lempirának, a lenca őslakosok nemzeti hősének.", "A 16. században (amikor Gracias főváros volt) Közép-Amerika politikai centruma volt.", "A városi fesztiválok, kézműves vásárok és a mindennapi társasélet központja."],
-      ro: ["Centrul social al orașului", "Înconjurat de clădiri coloniale", "Punct de întâlnire pentru localnici", "Atmosferă istorică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Social center of the city", "Surrounded by colonial buildings", "Meeting point for locals", "Historic atmosphere", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/parque-central-gracias-landmarks-v2.webp"},
   {
     id: "iglesia-de-san-francisco-comayagua-landmarks-v2",
@@ -699,8 +699,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Die Glocke wurde vermutlich von den Mauren in Spanien erbeutet", "Beherbergt wunderschöne Altäre aus handgeschnitztem Zedernholz", "War das erste Kloster in Zentralhonduras", "Gilt als ein Muss für Geschichtsliebhaber in Comayagua"],
       hu: ["1560-ban alapították, Közép-Amerika egyik legrégebbi katolikus temploma.", "A ferences rend szerzetesei építették Comayagua óvárosában.", "Vastag vályogfalai és puritán kialakítása a korai gyarmati időket idézik.", "Itt található az 'Antonina' (1350), az amerikai kontinens egyik legrégebbi harangja.", "Belső terét eredeti spanyol gyarmati barokk faoltárok díszítik.", "Aszimmetrikus, robusztus harangtornya egyedi építészeti megoldás.", "A comayaguai 'nagyhéten' (Semana Santa) tartott körmenetek fontos állomása."],
-      ro: ["Fondată în 1560", "Cel mai vechi clopot din America (1460)", "Stil colonial simplu", "Monument istoric", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Founded in 1560", "Oldest bell in the Americas (1460)", "Simple colonial style", "Historic monument", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/iglesia-de-san-francisco-comayagua-landmarks-v2.webp"},
   {
     id: "museo-de-comayagua-landmarks-v2",
@@ -734,8 +734,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt seltene polychrome Keramik der Lenca", "Das Gebäude selbst ist ein geschütztes historisches Denkmal", "Bietet geführte Touren für Schulgruppen und Touristen an", "Dokumentiert die Rolle Comayaguas als erste Hauptstadt von Honduras"],
       hu: ["Comayagua történelmi óvárosában, egy felújított 16. századi épületben található.", "Az épület egykor elnöki palotaként (Casa Presidencial) funkcionált.", "Honduras egyik leggazdagabb prekolumbián lenca kerámiagyűjteményét őrzi.", "Bemutatja a Comayagua-völgy történelmét az őskortól a köztársaságig.", "A gyarmati kori szekcióban spanyol fegyverek és egyházi relikviák is helyet kaptak.", "Az épület belső udvara a hagyományos andalúz építészet stílusjegyeit viseli.", "A város kulturális és oktatási turizmusának legfőbb központja."],
-      ro: ["Artefacte pre-hispanice", "Istorie colonială", "Arheologie regională", "Într-o casă istorică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Pre-Hispanic artifacts", "Colonial history", "Regional archaeology", "Housed in a historic home", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/museo-de-comayagua-landmarks-v2.webp"},
   {
     id: "monumento-a-la-paz-tegucigalpa-landmarks-v2",
@@ -769,8 +769,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Bietet einen 360-Grad-Blick über das gesamte Tal von Tegucigalpa", "Ist Teil eines ökologischen Schutzgebietes mitten in der Stadt", "Das Denkmal wird nachts hell beleuchtet", "Ein wichtiger Ort für nationale Feierlichkeiten und Gedenktage"],
       hu: ["A Cerro Juana Laínez domb tetején magasodik Tegucigalpában.", "1948-ban épült a második világháború utáni világbéke tiszteletére.", "Tiburcio Carías Andino diktátor idején emelték.", "Az art deco és a prehispán (maja) építészeti motívumokat ötvözi.", "Tetejéről páratlan, 360 fokos panoráma nyílik a fővárosra.", "Az emlékmű mellett található egy hatalmas japán békeharang.", "A dombot körülölelő ökológiai park a helyiek kedvelt rekreációs zónája."],
-      ro: ["Pe dealul Juana Lainez", "Simbol al păcii", "Vedere panoramică a Tegucigalpei", "Inaugurat în 1996", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["On Juana Lainez Hill", "Symbol of peace", "Panoramic view of Tegucigalpa", "Inaugurated in 1996", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/monumento-a-la-paz-tegucigalpa-landmarks-v2.webp"},
   {
     id: "iglesia-santa-lucia-landmarks-v2",
@@ -804,8 +804,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt den verehrten 'Señor de las Mercedes'", "Die Kanzel und die Altäre sind reich mit Gold überzogen", "Wurde auf den Ruinen einer indigenen Kultstätte errichtet", "Zentraler Punkt für die traditionellen Patronatsfeste im Dezember"],
       hu: ["A festői Santa Lucía bányászfaluban, Tegucigalpától 15 km-re található.", "A 17. században épült spanyol gyarmati stílusban, hegyvidéki környezetben.", "A falu legmagasabb pontján áll, panorámát nyújtva a völgyre és a fenyvesekre.", "Legnagyobb kincse az 1572-es 'El Cristo de las Mercedes' faszobor.", "A szobrot a legenda szerint IV. Fülöp spanyol király adományozta az ezüstért cserébe.", "Egyszerű fehér homlokzata és faragott fa tetőszerkezete (artesonado) van.", "A falu a fővárosiak egyik legnépszerűbb és leghangulatosabb hétvégi menedéke."],
-      ro: ["Construită în secolul al XVI-lea", "Una dintre cele mai vechi din Honduras", "Statuia Cristosului Negru", "Sat minier istoric", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Built in the 16th century", "One of the oldest in Honduras", "Features a Black Christ statue", "Historic mining town", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/iglesia-santa-lucia-landmarks-v2.webp"},
   {
     id: "galeria-nacional-de-arte-landmarks-v2",
@@ -839,8 +839,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Das Gebäude stammt aus der Mitte des 17. Jahrhunderts", "Beherbergt Originalwerke von José Antonio Velásquez, dem berühmtesten naiven Maler des Landes", "Regelmäßiger Austragungsort für kulturelle Foren und Buchvorstellungen", "Verfügt über eine Fachbibliothek für Kunstgeschichte"],
       hu: ["Honduras legfontosabb és legátfogóbb képzőművészeti intézménye.", "Gyűjteménye a prekolumbián korszaktól a kortárs művészetekig terjed.", "Eredetileg Tegucigalpában (Paraninfo) alapították, jelenleg Comayaguában is működik.", "Kiemelt gyűjteménye van a spanyol gyarmati ezüstművességből és egyházi festményekből.", "Bemutatja a 20. századi hondurasi modernista festők (pl. Zelaya Sierra) munkáit.", "A múzeum otthonául szolgáló épületek maguk is kiemelt történelmi műemlékek.", "Rendszeresen szervez kulturális edukációs programokat iskolásoknak."],
-      ro: ["În fosta mănăstire La Merced", "Istoria artei honduriene", "Expoziții permanente și temporare", "Patrimoniu cultural", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Located in the former La Merced convent", "Honduran art history", "Permanent and temporary exhibitions", "Cultural heritage", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/galeria-nacional-de-arte-landmarks-v2.webp"},
   {
     id: "museo-de-history-militar-honduras-landmarks-v2",
@@ -874,8 +874,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Das Gebäude diente früher als Franziskanerkloster", "Beherbergt Flugzeuge und schwere Ausrüstung im Außenbereich", "Bietet detaillierte Informationen zum 'Fußballkrieg' von 1969", "Wichtigster Ort für die militärhistorische Forschung des Landes"],
       hu: ["Tegucigalpában, a történelmi San Francisco egykori kaszárnyaépületében található.", "Honduras hadtörténetét mutatja be a gyarmati kortól napjainkig.", "Fontos relikviákat őriz Francisco Morazán tábornoktól, a nemzeti hőstől.", "Külön részleget szentelnek az 1969-es 'Futballháborúnak' (Guerra del Fútbol).", "A gyűjteményben antik fegyverek, egyenruhák és térképek szerepelnek.", "A belső udvaron történelmi vadászrepülőgépek és katonai járművek láthatók.", "Az épület maga is műemlék, masszív kőfalakkal és kolostori múlttal."],
-      ro: ["În cazărmile San Francisco", "Arme, uniforme și documente", "Istoria forțelor armate", "Clădire istorică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Located in the San Francisco barracks", "Weapons, uniforms, and documents", "History of the armed forces", "Historic building", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/museo-de-history-militar-honduras-landmarks-v2.webp"},
   {
     id: "parque-la-leona-tegucigalpa-landmarks-v2",
@@ -909,8 +909,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Das Viertel La Leona war früher das exklusivste Wohngebiet der Stadt", "Der Park wurde im frühen 20. Jahrhundert angelegt", "Bekannt für seine exzellenten Fotomöglichkeiten beim Sonnenuntergang", "Ein beliebter Ort für kleine kulturelle Darbietungen im Freien"],
       hu: ["Tegucigalpa egyik legrégebbi, a 19. század végén alapított közparkja.", "A La Leona nevű meredek domboldalon, a történelmi városközpont felett terül el.", "Nevét a legenda szerint az egykor itt vadászó pumákról/vadmacskákról kapta.", "Kilátóteraszáról lenyűgöző panoráma nyílik a főváros óvárosára.", "Buja növényzet, kőösvények és klasszikus vaspadok biztosítják a romantikus atmoszférát.", "A park közepén Francisco Morazán nemzeti hős szobra található.", "A helyi fiatalok, művészek és fotósok egyik legkedveltebb találkozóhelye."],
-      ro: ["Cel mai vechi cartier din Tegucigalpa", "Vedere panoramică", "Loc liniștit", "Atmosferă istorică", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Oldest neighborhood in Tegucigalpa", "Panoramic views", "Quiet spot", "Historic atmosphere", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/parque-la-leona-tegucigalpa-landmarks-v2.webp"},
   {
     id: "puente-mallol-tegucigalpa-landmarks-v2",
@@ -944,8 +944,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Wurde vollständig aus behauenen Steinquadern errichtet", "Ist ein nationales Denkmal von hohem historischem Wert", "Hielt dem extremen Hochwasser von 1998 stand, während modernere Brücken einstürzten", "Ein beliebtes Motiv für historische Postkarten der Stadt"],
       hu: ["Tegucigalpa legrégebbi hídja, 1817 és 1821 között épült.", "A Choluteca-folyó felett köti össze Tegucigalpát és Comayagüelát.", "Építését Narciso Mallol, a város utolsó spanyol polgármestere rendelte el.", "Hét masszív, kőből rakott ívből álló gyarmati mérnöki mestermű.", "Túlélte az elmúlt 200 év összes nagy áradását, beleértve a Mitch hurrikánt (1998).", "A gyarmati és a modern független Honduras közötti fizikai kapocs.", "Ma is aktívan használják mind gyalogos, mind járműforgalomra."],
-      ro: ["Construit la începutul secolului al XIX-lea", "Leagă Tegucigalpa și Comayagüela", "Pod de piatră", "Reper istoric", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Built in the early 19th century", "Connects Tegucigalpa and Comayagüela", "Stone bridge", "Historic landmark", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/puente-mallol-tegucigalpa-landmarks-v2.webp"},
   {
     id: "universidad-nacional-autonoma-honduras-landmarks-v2",
@@ -979,8 +979,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Beherbergt das modernste Sportzentrum Mittelamerikas", "Verfügt über ein eigenes Planetarium und Observatorium", "Ist die einzige Universität im Land mit einem Kernforschungsreaktor zu Forschungszwecken", "Wichtigster Motor für die wissenschaftliche Entwicklung in Honduras"],
       hu: ["Honduras legrégebbi és legnagyobb egyeteme, amelyet 1847-ben alapítottak.", "Főcampusa, a Ciudad Universitaria Tegucigalpa keleti részén található.", "A komplexum a brutalista és modernista betonépítészet példáit vonultatja fel.", "Az ország tudományos, politikai és társadalmi életének legfőbb intellektuális központja.", "Kiemelkedő létesítménye az egyetemi Csillagvizsgáló és a Palacio de los Deportes.", "A campust jelentős kortárs falfestmények (murales) díszítik.", "Több tízezer diákjával önálló, pezsgő városként működik a fővároson belül."],
-      ro: ["Cea mai mare universitate din țară", "Fondată în 1847", "Centru de educație și cercetare", "Campus mare", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Largest university in the country", "Founded in 1847", "Center for education and research", "Large campus", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/universidad-nacional-autonoma-honduras-landmarks-v2.webp"},
   {
     id: "parque-central-san-pedro-sula-landmarks-v2",
@@ -1014,8 +1014,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Der Kiosk im Zentrum ist ein beliebter Treffpunkt für Musiker", "In der Nähe befinden sich die wichtigsten Einkaufsstraßen der Stadt", "Wurde mehrfach modernisiert, um mehr Grünflächen zu schaffen", "Zentraler Ausgangspunkt für Stadttouren im Norden"],
       hu: ["San Pedro Sula, az ipari főváros lüktető társadalmi központja.", "A parkot a Szent Péter Apostol Katedrális és a Városháza határolja.", "Hatalmas trópusi fák és gondozott pázsit nyújt menedéket a városi hőség elől.", "Központjában egy hagyományos pavilon (kiosko) áll zenei rendezvényekhez.", "A helyi cipőtisztítók, utcai árusok és járókelők kedvelt találkozóhelye.", "Az északi országrész legfontosabb színtere a politikai megmozdulásoknak.", "Ünnepekkor (különösen karácsonykor) látványos díszkivilágítást kap."],
-      ro: ["Inima orașului San Pedro Sula", "Punct de întâlnire social", "Chioșc în centru", "Înconjurat de magazine", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Heart of San Pedro Sula", "Social meeting point", "Central kiosk", "Surrounded by commerce", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }, image: "/poi-images/parque-central-san-pedro-sula-landmarks-v2.webp"},
   {
     id: "coca-cola-sign-sps-landmarks-v2",
@@ -1049,8 +1049,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Der Wanderweg zum Schild ist ein beliebter Trainingsspot für Einheimische", "Von oben hat man einen Panoramablick bis weit in das Sula-Tal", "Wurde vor Jahrzehnten als Marketing-Gag installiert und blieb dauerhaft", "Ein Symbol für die industrielle Dynamik der Region"],
       hu: ["Hatalmas, Hollywood-stílusú világító felirat az El Merendón hegység oldalában.", "San Pedro Sula egyik legismertebb, nem hivatalos vizuális szimbóluma.", "Eredetileg kereskedelmi reklám volt, de a városkép szerves részévé vált.", "A felirathoz vezető meredek ösvény a város legnépszerűbb fitneszútvonala.", "A kilátópontról (Mirador) teljes panoráma nyílik San Pedro Sulára.", "Kora reggel és naplemente után a leglátogatottabb a sportolók körében.", "Az ösvény a Cusuco Nemzeti Park trópusi erdejének határán fut."],
-      ro: ["Reper al orașului", "În munții Merendón", "Iluminat noaptea", "Vizibil din tot orașul", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Iconic city landmark", "Located in the Merendón mountains", "Illuminated at night", "Visible from all over the city", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   }
 ];

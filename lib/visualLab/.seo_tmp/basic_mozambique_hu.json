@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "description": "Az Indiai-óceánban fekvő szigetcsoport védett tengeri parkja ritka állatoknak ad otthont. A terület fontos búvárhely és a dugongok egyik utolsó menedéke.",
+      "facts": ["Indiai-óceánban fekszik", "Védett tengeri park", "Dugongok élőhelye", "Gazdag korallzátonyok"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "Harminckét szigetből álló lánc, amely a partmenti ökoszisztémák védelmét szolgálja. Gazdag élővilága mellett kulturális értékei is kiemelkedőek.",
+      "facts": ["Harminckét sziget", "Védett élővilág", "Kulturális örökség", "Az Indiai-óceán része"]
+    },
+    {
+      "id": "maputo-special-reserve-life-v2",
+      "description": "A fővárostól délre elterülő természetvédelmi terület a szárazföldi és tengeri élővilág közötti átmenetet képviseli. Fontos szerepet játszik az elefántok vándorlásában.",
+      "facts": ["Fővárostól délre", "Elefántok vándorlási útvonala", "Átmeneti ökoszisztéma", "Természetvédelmi terület"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "A Save folyó mentén húzódó park a száraz szavannák élővilágát védi. A területen sikeres visszatelepítési programok folynak.",
+      "facts": ["Save folyó mentén", "Száraz szavannák", "Visszatelepítési programok", "Nemzeti park"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "Különleges ökológiai terület, ahol az árapály és az óceáni hatások egyedülálló ökoszisztémát hoznak létre. A környék élővilága a mangroveerdőkre épül.",
+      "facts": ["Árapály hatások", "Mangroveerdők", "Óceáni ökoszisztéma", "Természetvédelmi terület"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "Mozambik északi részének mezőgazdasági központja, ahol a hagyományos termesztés játssza a fő szerepet. A környéken jelentős a kesudió termesztése.",
+      "facts": ["Északi mezőgazdasági központ", "Kesudió termesztése", "Hagyományos módszerek", "Jelentős termőterület"]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "description": "A tartomány termékeny talaja kiváló feltételeket biztosít a cukornád termesztéséhez. A gazdaság alapja a cukoripar és a feldolgozás.",
+      "facts": ["Termékeny talaj", "Cukornád termesztés", "Cukoripar központja", "Zambezia tartomány"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "A magasabban fekvő területek hűvösebb klímája ideális környezetet teremt a minőségi kávé termesztéséhez. A régió mezőgazdasági profilja egyre inkább a kávéra összpontosít.",
+      "facts": ["Hűvösebb klíma", "Kávétermesztés", "Magas fekvés", "Mezőgazdasági régió"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "A tartomány kiterjedt területei kedveznek a dohánytermesztésnek, amely a helyi gazdaság egyik meghatározó eleme. Az éghajlat és a talaj optimális a növény számára.",
+      "facts": ["Dohánytermesztés", "Helyi gazdaság", "Optimális klíma", "Kiterjedt területek"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "A városi környezetben elhelyezkedő botanikus kert a helyi növényvilág megismerését teszi lehetővé. Fontos pihenőhely a városlakók számára.",
+      "facts": ["Városi környezet", "Botanikus kert", "Növényvilág bemutatása", "Pihenőhely"]
+    }
+  ]
+}

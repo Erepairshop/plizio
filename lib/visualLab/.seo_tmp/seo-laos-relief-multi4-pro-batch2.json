@@ -1,0 +1,327 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": ["lib/visualLab/data/poiExtraLaosReliefV2.ts"],
+  "items": [
+    {
+      "id": "plain-of-jars-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Die Landschaft ist durch sanfte, grasbewachsene Hügel geprägt.",
+          "Hier finden sich tausende mysteriöse, antike Steinkrüge aus der Eisenzeit.",
+          "Während des 'Geheimen Krieges' wurde die Ebene intensiv bombardiert.",
+          "Weite Teile des Gebiets sind noch immer wegen Blindgängern (UXO) gesperrt.",
+          "Die tonnenschweren Krüge wurden aus massivem Sandstein und Granit gehauen.",
+          "Das Relief bietet weite, unversperrte Ausblicke über die Hochebene.",
+          "In den feuchteren Senken der Ebene wird von lokalen Bauern Reis angebaut."
+        ],
+        "hu": [
+          "A tájat enyhén hullámzó, fűvel borított lankás dombok jellemzik.",
+          "Itt találhatóak a vaskorból származó, rejtélyes eredetű, hatalmas kőedények.",
+          "A 'titkos háború' során a síkság a történelem legintenzívebb bombázásait szenvedte el.",
+          "A terület jelentős része ma is életveszélyes a fel nem robbant bombák miatt.",
+          "A több tonnás edényeket tömör homokkőből és gránitból faragták ki.",
+          "A domborzat sajátossága miatt zavartalan, végtelen panoráma nyílik a fennsíkra.",
+          "A síkság mélyebben fekvő, nedvesebb részein a helyiek rizst termesztenek."
+        ],
+        "ro": [
+          "Peisajul este caracterizat de coline blânde, acoperite cu vegetație ierboasă.",
+          "Aici se găsesc mii de vase de piatră antice și misterioase din Epoca Fierului.",
+          "În timpul 'Războiului Secret', câmpia a fost bombardată cu o intensitate fără precedent.",
+          "Zone vaste sunt încă interzise din cauza muniției neexplodate (UXO) extrem de periculoase.",
+          "Vasele masive, cântărind tone, au fost sculptate din gresie și granit solid.",
+          "Relieful deschis oferă panorame largi și neobstrucționate asupra podișului.",
+          "În depresiunile mai umede ale câmpiei, fermierii locali cultivă orez."
+        ]
+      }
+    },
+    {
+      "id": "phongsali-highlands-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Hochland liegt im äußersten Norden, an der Grenze zu China und Vietnam.",
+          "Aufgrund der enormen Höhe ist das Klima hier bemerkenswert kühl.",
+          "Die steilen Berghänge eignen sich hervorragend für den Anbau von grünem Tee.",
+          "Einige der Teeplantagen in dieser Bergregion sind über 400 Jahre alt.",
+          "Tiefe Flusstäler zerschneiden die schroffen, hoch aufragenden Bergrücken.",
+          "Das unwegsame Terrain ist die Heimat ethnischer Minderheiten wie der Akha.",
+          "Die Berge sind größtenteils mit dichtem, immergrünem Bergwald bedeckt."
+        ],
+        "hu": [
+          "A hegyvidék a legészakibb csücsökben, a kínai és vietnámi határnál fekszik.",
+          "A jelentős tengerszint feletti magasság miatt az éghajlat kifejezetten hűvös.",
+          "A meredek hegyoldalak kiváló feltételeket biztosítanak a zöldtea-termesztéshez.",
+          "Ebben a zord régióban találhatóak 400 évesnél is idősebb teaültetvények is.",
+          "A magasba tornyosuló hegygerinceket mély, meredek folyóvölgyek szabdalják szét.",
+          "A nehezen járható terep olyan etnikai kisebbségek otthona, mint az akha nép.",
+          "A hegyeket nagyrészt érintetlen, örökzöld hegyi esőerdők borítják."
+        ],
+        "ro": [
+          "Aceste zone înalte sunt situate în nordul extrem, la granița cu China și Vietnam.",
+          "Datorită altitudinii considerabile, clima este remarcabil de răcoroasă aici.",
+          "Versanții montani abrupți oferă condiții excelente pentru cultivarea ceaiului verde.",
+          "Unele plantații de ceai din această regiune izolată au peste 400 de ani.",
+          "Crestele zimțate ale munților sunt separate de văi fluviale extrem de adânci.",
+          "Terenul accidentat este casa mai multor minorități etnice, precum populația Akha.",
+          "Munții sunt în mare parte acoperiți de păduri montane dese și mereu verzi."
+        ]
+      }
+    },
+    {
+      "id": "mekong-river-valley-vientiane-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Tal bildet eine weite, flache Alluvialebene entlang des Mekong.",
+          "Der Fluss markiert in diesem Abschnitt die natürliche Grenze zu Thailand.",
+          "Die extrem fruchtbaren Schwemmböden sind ideal für den Nassreisanbau.",
+          "Während der Monsunzeit kommt es in der Ebene regelmäßig zu Überschwemmungen.",
+          "Im Gegensatz zu den Bergen im Norden ist das Relief hier fast völlig flach.",
+          "Der Mekong mäandert in weiten Kurven durch die landwirtschaftlich geprägte Ebene.",
+          "Trocken fallende Sandbänke im Fluss werden in der Trockenzeit für Gemüseanbau genutzt."
+        ],
+        "hu": [
+          "A völgy egy széles és teljesen lapos hordaléksíkságot képez a Mekong mentén.",
+          "A folyó ezen a szakaszon természetes államhatárt alkot Thaifölddel.",
+          "A rendkívül tápanyaggazdag hordaléktalaj tökéletes az árasztásos rizstermesztéshez.",
+          "A monszun idején a síkság mélyebben fekvő területein gyakoriak a szezonális áradások.",
+          "Az északi hegyvidékekkel ellentétben a domborzat itt szinte teljesen sík.",
+          "A hatalmas folyó széles, lusta kanyarulatokkal halad át a mezőgazdasági területen.",
+          "A száraz évszakban előbukkanó homokpadokat a helyiek zöldségtermesztésre használják."
+        ],
+        "ro": [
+          "Valea formează o câmpie aluvionară vastă și plată de-a lungul fluviului Mekong.",
+          "În acest sector, fluviul trasează granița naturală dintre Laos și Thailanda.",
+          "Solurile aluvionare extrem de fertile sunt ideale pentru cultivarea orezului inundat.",
+          "În timpul sezonului musonic, câmpia este frecvent supusă inundațiilor sezoniere.",
+          "Spre deosebire de munții din nord, relieful de aici este aproape complet neted.",
+          "Mekongul curge în meandre largi prin această câmpie dominată de agricultură.",
+          "Bancurile de nisip expuse în sezonul uscat sunt folosite pentru cultivarea legumelor."
+        ]
+      }
+    },
+    {
+      "id": "khammouane-karst-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Die Landschaft in Zentrallaos wird von dramatischen Karst-Kalksteinformationen dominiert.",
+          "Das poröse Gestein birgt gigantische unterirdische Höhlensysteme wie die Kong Lor Höhle.",
+          "Steil aufragende, fast vertikale Felswände prägen das unwegsame Relief.",
+          "In versteckten Tälern zwischen den Felsen haben sich einzigartige Mikro-Ökosysteme entwickelt.",
+          "Dieses isolierte Gebiet ist die Heimat der vom Aussterben bedrohten Laotischen Felsenratte.",
+          "Unterirdische Flüsse haben sich über Jahrtausende durch das weiche Kalkgestein gefressen.",
+          "Tropische Vegetation klammert sich an die Risse und Spalten der steilen Felsnadeln."
+        ],
+        "hu": [
+          "Közép-Laosz táját lenyűgöző, függőlegesen magasodó karszt-mészkőalakzatok uralják.",
+          "A porózus kőzet gigantikus barlangrendszereket rejt, mint például a Kong Lor-barlang.",
+          "Az égbe törő, éles sziklafalak rendkívül nehezen megközelíthetővé teszik a terepet.",
+          "A sziklák közé zárt, rejtett völgyekben teljesen egyedi mikro-ökoszisztémák alakultak ki.",
+          "Ebben az elzárt régióban él a súlyosan veszélyeztetett laoszi sziklapatkány is.",
+          "A földalatti folyók évezredek alatt gigantikus járatokat vájtak a puha mészkőbe.",
+          "A trópusi növényzet a függőleges sziklatornyok apró repedéseiben is megkapaszkodik."
+        ],
+        "ro": [
+          "Peisajul din centrul Laosului este dominat de formațiuni carstice spectaculoase din calcar.",
+          "Rocile poroase ascund sisteme gigantice de peșteri, precum faimoasa peșteră Kong Lor.",
+          "Falezele verticale și abrupte din stâncă fac relieful extrem de dificil de străbătut.",
+          "În văile ascunse dintre pilonii de stâncă s-au dezvoltat micro-ecosisteme unice.",
+          "Această regiune izolată este habitatul șobolanului de stâncă laoțian, o specie rară.",
+          "Râurile subterane au sculptat labirinturi imense prin rocile calcaroase moi.",
+          "Vegetația tropicală se agață tenace de fisurile și crăpăturile turnurilor de stâncă."
+        ]
+      }
+    },
+    {
+      "id": "phou-that-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Dieser markante Berg erhebt sich steil über die umliegenden bewaldeten Täler.",
+          "Sein Gipfel bietet einen weiten Panoramablick über die angrenzenden Flussläufe.",
+          "Traditionelle Bergpfade winden sich durch den dichten Laubwald hinauf.",
+          "Der Berg wird von der lokalen Bevölkerung oft als heilige Stätte verehrt.",
+          "Aufgrund der steilen Hänge ist das Relief sehr anfällig für Erdrutsche während des Monsuns.",
+          "In den höheren Lagen des Berges herrscht ein spürbar kühleres Mikroklima.",
+          "Das Gestein besteht hier vorwiegend aus alten, verwitterten Sandsteinschichten."
+        ],
+        "hu": [
+          "Ez a jellegzetes, meredek hegy magasan a környező erdős völgyek fölé magasodik.",
+          "A csúcsról páratlan, végtelen panoráma nyílik az alatta elterülő folyóvölgyekre.",
+          "Hagyományos, kanyargós hegyi ösvények vezetnek felfelé a sűrű lombhullató erdőn át.",
+          "A hegyet és annak csúcsát a helyi közösségek gyakran szent helyként tisztelik.",
+          "A meredek hegyoldalak miatt a domborzat rendkívül érzékeny a monszun idején kialakuló földcsuszamlásokra.",
+          "A hegy magasabb régióiban érezhetően hűvösebb mikroklíma uralkodik.",
+          "A hegy geológiai felépítését ősi, erősen mállott homokkőrétegek dominálják."
+        ],
+        "ro": [
+          "Acest munte proeminent se înalță abrupt deasupra văilor împădurite din jur.",
+          "Vârful său oferă o panoramă spectaculoasă și extinsă asupra cursurilor de apă vecine.",
+          "Cărări tradiționale de munte șerpuiesc abrupt prin pădurea deasă de foioase.",
+          "Muntele este adesea venerat ca un loc sacru de către comunitățile locale.",
+          "Datorită versanților înclinați, relieful este foarte vulnerabil la alunecări de teren în muson.",
+          "La altitudinile superioare ale muntelui se resimte un microclimat semnificativ mai rece.",
+          "Rocile de la suprafață sunt compuse predominant din straturi de gresie veche și erodată."
+        ]
+      }
+    },
+    {
+      "id": "sayaboury-highlands-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Dieses zerklüftete Hochland erstreckt sich westlich des mächtigen Mekong.",
+          "Die schwer zugänglichen Wälder sind der wichtigste Lebensraum für wilde asiatische Elefanten.",
+          "Das Relief ist geprägt von sehr steilen Bergkämmen und tiefen V-Tälern.",
+          "Während der schweren Regenzeit werden viele unbefestigte Bergstraßen unpassierbar.",
+          "Das Elephant Conservation Center leistet hier wichtige Arbeit zum Schutz der Tiere.",
+          "Die Berge wirken hier als natürliche Barriere zwischen Laos und Thailand.",
+          "Dichter Teakholz- und Mahagoniwald bedeckte historisch die meisten dieser Hänge."
+        ],
+        "hu": [
+          "Ez a rendkívül zord és tagolt hegyvidék a hatalmas Mekongtól nyugatra terül el.",
+          "A sűrű, elzárt erdőségek a vad ázsiai elefántok legfontosabb laoszi menedékei.",
+          "A domborzatot éles, meredek hegygerincek és mély, V-alakú völgyek határozzák meg.",
+          "A heves esős évszakban a kiépítetlen hegyi utak jelentős része járhatatlanná válik.",
+          "Az itt található Elefántvédelmi Központ kulcsfontosságú munkát végez az állatok megmentésében.",
+          "A masszív hegyvonulatok természetes geológiai gátat képeznek Laosz és Thaiföld között.",
+          "Történelmileg ezeket a lejtőket sűrű, értékes tíkfa- és mahagónierdők borították."
+        ],
+        "ro": [
+          "Acest podiș extrem de accidentat se întinde la vest de fluviul Mekong.",
+          "Pădurile inaccesibile sunt cel mai important habitat din țară pentru elefanții asiatici sălbatici.",
+          "Relieful este dominat de creste montane abrupte și văi adânci în formă de V.",
+          "În timpul sezonului ploios intens, majoritatea drumurilor montane neasfaltate devin impracticabile.",
+          "Centrul de Conservare a Elefanților își desfășoară activitatea vitală în această regiune.",
+          "Munții acționează ca o barieră naturală masivă între Laos și Thailanda vecină.",
+          "Istoric, acești versanți erau acoperiți de păduri dense de lemn de tec și mahon."
+        ]
+      }
+    },
+    {
+      "id": "nam-ngum-reservoir-valley-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Tal wurde in den 1970er Jahren durch den Bau eines massiven Staudamms radikal verändert.",
+          "Ehemalige Berggipfel ragen heute als hunderte kleine Inseln aus dem künstlichen See.",
+          "Der riesige Stausee ist umgeben von tiefgrünen, dicht bewaldeten Bergketten.",
+          "Das Gewässer spielt eine zentrale Rolle für die Stromerzeugung und lokale Fischerei.",
+          "Die Uferzonen des Sees fallen an vielen Stellen sehr steil in das tiefe Wasser ab.",
+          "Durch den Dammbau wurde ein wichtiges Flusstal in ein weites Stillgewässer verwandelt.",
+          "Die Wassermasse hat das lokale Mikroklima spürbar ausgeglichener und feuchter gemacht."
+        ],
+        "hu": [
+          "A völgy arculatát az 1970-es években épült gát és vízerőmű teljesen átalakította.",
+          "A korábbi hegycsúcsok ma apró, zöldellő szigetekként bukkannak elő a mesterséges tóból.",
+          "A hatalmas kiterjedésű víztározót sűrű erdővel borított hegyvonulatok ölelik körbe.",
+          "A tó vizének kulcsszerepe van a laoszi áramtermelésben és a helyi halászatban.",
+          "A tó partvidéke sok helyen rendkívül meredeken szakad bele a sötét, mély vízbe.",
+          "A gátépítés következtében az eredeti folyóvölgy egy kiterjedt állóvízzé változott.",
+          "A hatalmas víztömeg jelentősen párásabbá és kiegyenlítettebbé tette a mikroklímát."
+        ],
+        "ro": [
+          "Valea a fost transformată radical în anii '70 prin construirea unui baraj hidroelectric uriaș.",
+          "Fostele vârfuri montane ies acum la suprafață ca sute de mici insule împădurite din lac.",
+          "Lacul de acumulare imens este complet înconjurat de lanțuri muntoase acoperite de junglă.",
+          "Corpul de apă este vital atât pentru generarea de energie, cât și pentru pescuitul local.",
+          "Malurile lacului coboară adesea foarte abrupt în apele adânci ale rezervorului.",
+          "Construcția barajului a transformat o vale fluvială adâncă într-un vast ecosistem lentic.",
+          "Prezența masei uriașe de apă a moderat microclimatul, făcându-l mai umed."
+        ]
+      }
+    },
+    {
+      "id": "annamite-range-laos-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das raue Gebirge bildet die natürliche und unüberwindbare Grenze zu Vietnam.",
+          "Die steilen Hänge sind mit dichtem, kaum erforschtem Bergregenwald bedeckt.",
+          "Durch den Regenschatten-Effekt ist die laotische Seite deutlich trockener als die vietnamesische.",
+          "Versteckt im tiefen Wald verläuft hier das historische Netzwerk des Ho-Chi-Minh-Pfades.",
+          "Das Gebirge weist eine extrem hohe Biodiversität auf, einschließlich des seltenen Douc-Languren.",
+          "Tief eingeschnittene Flusstäler machen Überquerungen in Ost-West-Richtung sehr schwer.",
+          "Die höchste Erhebung auf der laotischen Seite ist der Berg Phou Bia."
+        ],
+        "hu": [
+          "Ez a rendkívül zord és masszív hegyvidék alkotja a természetes határt Vietnámmal.",
+          "A szinte áthatolhatatlan lejtőket sűrű, alig kutatott hegyi esőerdők borítják.",
+          "Az esőárnyék-hatás miatt a hegység laoszi oldala sokkal szárazabb, mint a vietnámi.",
+          "Az őserdő mélyén húzódtak meg a történelmi Ho Si Minh-ösvény elrejtett útvonalai.",
+          "A hegység biológiai sokfélesége egyedülálló, itt él például a ritka duk-langur is.",
+          "A mélyen bevágódott, észak-dél irányú völgyek rendkívül megnehezítik az átkelést.",
+          "A hegyvonulat laoszi oldalának legmagasabb pontja a Phou Bia hegycsúcsa."
+        ],
+        "ro": [
+          "Lanțul montan accidentat formează o graniță naturală masivă și impenetrabilă cu Vietnamul.",
+          "Versanții abrupți sunt acoperiți de păduri montane dense și în mare parte neexplorate.",
+          "Din cauza umbrei pluviometrice, partea laoțiană este semnificativ mai uscată decât cea vietnameză.",
+          "Ascunsă adânc în această junglă a funcționat rețeaua istorică a Drumului Ho Și Min.",
+          "Munții adăpostesc o biodiversitate extremă, inclusiv specii rare precum langurul Douc.",
+          "Văile fluviale adânci, orientate nord-sud, fac traversarea munților extrem de dificilă.",
+          "Cel mai înalt vârf al acestui lanț muntos de pe teritoriul Laosului este Phou Bia."
+        ]
+      }
+    },
+    {
+      "id": "luang-prabang-range-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Diese Bergkette erstreckt sich durch den Nordwesten von Laos bis nach Nordthailand.",
+          "Das Relief ist außergewöhnlich schroff und durch scharfe Bergrücken gekennzeichnet.",
+          "Trockenwälder und subtropische Laubwälder bedecken die steinigen Hänge.",
+          "Das Gebirge wirkt als geologische Trennlinie zwischen dem Mekong-Tal und den inneren Hochebenen.",
+          "Entlang der tiefen Schluchten ist Bodenerosion durch starke Regenfälle ein ständiges Problem.",
+          "In den höheren Lagen der Kette leben kleine Gruppen isolierter Bergstämme.",
+          "Das Gestein besteht hauptsächlich aus gefaltetem Kalkstein und Granit intrusionen."
+        ],
+        "hu": [
+          "Ez az összefüggő hegyvonulat Északnyugat-Laosztól egészen Észak-Thaiföldig húzódik.",
+          "A domborzat kivételesen zord, melyet éles és meredek hegygerincek határoznak meg.",
+          "A sziklás, nehezen járható lejtőket főként szubtrópusi száraz erdők borítják.",
+          "A hegység geológiai választóvonalként funkcionál a Mekong völgye és a belső fennsíkok között.",
+          "A mély szurdokok mentén a trópusi felhőszakadások miatti talajerózió folyamatos problémát jelent.",
+          "A hegylánc magasabb, elzárt régióiban máig apró hegyi törzsek élnek izoláltan.",
+          "A hegyek kőzetanyagát nagyrészt meggyűrt mészkő és gránitbetüremkedések alkotják."
+        ],
+        "ro": [
+          "Acest lanț muntos se întinde din nord-vestul Laosului până în nordul Thailandei.",
+          "Relieful este excepțional de accidentat, fiind dominat de creste ascuțite și prăpăstioase.",
+          "Versanții stâncoși sunt acoperiți predominant de păduri subtropicale și uscate de foioase.",
+          "Munții acționează ca o barieră geologică între valea fluviului Mekong și podișurile interioare.",
+          "De-a lungul defileurilor adânci, eroziunea solului cauzată de ploile torențiale este severă.",
+          "La altitudinile superioare, trăiesc izolate grupuri mici de triburi montane tradiționale.",
+          "Geologia munților este formată în principal din calcare cutate și intruziuni de granit."
+        ]
+      }
+    },
+    {
+      "id": "phou-loei-massif-relief-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das Massiv dominiert den Nam Et-Phou Louey Nationalpark im Norden von Laos.",
+          "Der Name 'Phou Louey' bedeutet in der lokalen Sprache wörtlich übersetzt 'Ewiger Berg'.",
+          "Die Gipfelregion ist fast das ganze Jahr über von dichten Wolkenwäldern bedeckt.",
+          "Die unberührten Wälder hier sind ein entscheidender Rückzugsort für Indochinesische Tiger.",
+          "Sehr steiles, unwegsames Gelände hat dieses Gebiet vor massiver Abholzung bewahrt.",
+          "Zahlreiche kleine Bergbäche entspringen hier und versorgen die umliegenden Flusssysteme.",
+          "Kamerafallen dokumentieren hier auch regelmäßig seltene Nebelparder und asiatische Wildhunde."
+        ],
+        "hu": [
+          "Ez a hegytömb uralja Észak-Laoszban a Nam Et-Phou Louey Nemzeti Park táját.",
+          "A 'Phou Louey' név a helyi nyelvjárásban szó szerinti fordításban 'Örökkévaló Hegyet' jelent.",
+          "A legmagasabb csúcsokat szinte az év minden szakában állandó köderdő borítja.",
+          "Az érintetlen hegyi vadon az indokínai tigrisek egyik utolsó, létfontosságú menedéke.",
+          "A rendkívül meredek és zord terepviszonyok óvták meg a területet a tömeges fakitermeléstől.",
+          "Számtalan hegyi patak ered ezen a masszívumon, friss vízzel látva el a völgyeket.",
+          "A vadkamerák rendszeresen rögzítenek ezen a nehéz terepen ködfoltos párducokat is."
+        ],
+        "ro": [
+          "Acest masiv muntos domină Parcul Național Nam Et-Phou Louey din nordul Laosului.",
+          "Numele 'Phou Louey' se traduce literalmente prin 'Muntele Etern' în dialectul local.",
+          "Zona vârfurilor este acoperită aproape tot timpul anului de păduri de nori misterioase.",
+          "Pădurile virgine de aici sunt un refugiu critic pentru supraviețuirea tigrilor indochinezi.",
+          "Terenul extrem de abrupt și inaccesibil a protejat această regiune de defrișările masive.",
+          "Numeroase pâraie montane izvorăsc din acest masiv, alimentând sistemele hidrografice locale.",
+          "Camerele capcană surprind regulat în acest relief dificil leoparzi pătați și câini sălbatici."
+        ]
+      }
+    }
+  ]
+}

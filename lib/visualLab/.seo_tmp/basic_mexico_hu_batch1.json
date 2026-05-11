@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aguascalientes-cities-v2",
+      "description": "Aguascalientes a Gvadalupéi Szűzanya-ünnepéről, a Feria Nacional de San Marcosról ismert, és fontos ipari központ.",
+      "facts": ["Feria Nacional de San Marcos", "Ipari központ", "Közép-Mexikó"]
+    },
+    {
+      "id": "mazatlan-cities-v2",
+      "description": "Mazatlán egy népszerű tengerparti üdülőhely Sinaloa államban, a Csendes-óceán partján, híres strandjairól és karneváljáról.",
+      "facts": ["Csendes-óceáni partvidék", "Karnevál", "Sinaloa"]
+    },
+    {
+      "id": "irapuato-cities-v2",
+      "description": "Irapuato Guanajuato államban található, Mexikó 'eper fővárosa', mezőgazdasági és ipari jelentőséggel bír.",
+      "facts": ["Eper főváros", "Guanajuato", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "tula-de-allende-cities-v2",
+      "description": "Tula de Allende Hidalgo államban található, az ősi Tolték Birodalom fővárosa volt, lenyűgöző régészeti lelőhellyel.",
+      "facts": ["Tolték főváros", "Régészeti lelőhely", "Hidalgo"]
+    },
+    {
+      "id": "gomez-palacio-cities-v2",
+      "description": "Gómez Palacio Durango államban található, fontos ipari és kereskedelmi központ a Laguna régióban.",
+      "facts": ["Ipari központ", "Laguna régió", "Durango"]
+    },
+    {
+      "id": "coatzacoalcos-cities-v2",
+      "description": "Coatzacoalcos egy jelentős kikötőváros Veracruzban, a Mexikói-öböl partján, kőolajipari központ.",
+      "facts": ["Kikötőváros", "Kőolajipar", "Veracruz"]
+    },
+    {
+      "id": "apizaco-cities-v2",
+      "description": "Apizaco Tlaxcala államban található, vasúti csomópontként fejlődött, és a helyi kereskedelem központja.",
+      "facts": ["Vasúti csomópont", "Tlaxcala", "Kereskedelmi központ"]
+    },
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "A mexikóvárosi Chapultepec Állatkert a világ egyik legrégebbi és legnagyobb állatkertje, sokféle állatfajnak ad otthont.",
+      "facts": ["Mexikóváros", "Nagy állatkert", "Sokféle állat"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "A San Juan de Aragón Állatkert Mexikóvárosban található, kiemelt figyelmet fordít a helyi fauna bemutatására.",
+      "facts": ["Mexikóváros", "Helyi fauna", "Közpark"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "A Guadalajara Állatkert Mexikó egyik legfontosabb állatkertje, modern létesítményekkel és fajmegőrző programokkal.",
+      "facts": ["Guadalajara", "Fajmegőrzés", "Modern létesítmények"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Az Acuario Inbursa Mexikóvárosban Latin-Amerika egyik legnagyobb akváriuma, lenyűgöző tengeri élővilággal.",
+      "facts": ["Mexikóváros", "Nagy akvárium", "Tengeri élővilág"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Az Xcaret Park a Riviera Maya-n egy öko-régészeti park, amely természeti, kulturális és kalandos élményeket kínál.",
+      "facts": ["Öko-régészeti park", "Riviera Maya", "Kalandos élmények"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Az Africam Safari Pueblában egy szafaripark, ahol az állatok félig vadon, természetes környezetben élnek.",
+      "facts": ["Szafaripark", "Puebla", "Természetes élőhely"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "A Bioparque Estrella Mexikó egyik legnagyobb állatparkja, szafaritúrákkal és egyéb attrakciókkal.",
+      "facts": ["Nagy állatpark", "Szafaritúra", "Családi programok"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "A Monarch pillangó bioszféra-rezervátum Michoacánban az UNESCO Világörökség része, ahol milliók pillangó telelnek át.",
+      "facts": ["UNESCO Világörökség", "Monarch pillangók", "Telelőhely"]
+    }
+  ]
+}

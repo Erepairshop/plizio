@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Turkey",
+  "files": [
+    "lib/visualLab/data/poiExtraTurkeyCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTurkeyLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bursa-cities-v2",
+      "description": "Bursa is a major city in northwestern Turkey, known for its Ottoman history and beautiful green parks. It served as the first capital of the Ottoman Empire.",
+      "facts": ["Located near Mount Uludag", "Famous for silk and textiles", "Former Ottoman capital", "Fourth most populous city"]
+    },
+    {
+      "id": "eskisehir-cities-v2",
+      "description": "Eskisehir is a vibrant city in central Turkey, famous for its lively student population and the Porsuk River flowing through the center. It has transformed into a modern cultural hub.",
+      "facts": ["Known as a student city", "Porsuk River passes through", "Center for arts and parks", "Home to Anadolu University"]
+    },
+    {
+      "id": "pamukkale-landmarks-v2",
+      "description": "Pamukkale is a natural site in southwestern Turkey famous for its white travertine terraces formed by mineral-rich thermal waters. It is an iconic destination often paired with the ancient city of Hierapolis.",
+      "facts": ["UNESCO World Heritage Site", "Thermal springs formation", "White calcium deposits", "Adjacent to Hierapolis"]
+    }
+  ]
+}

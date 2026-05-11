@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nova-sintra-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Nova Sintra ist die Hauptstadt der Insel Brava, der kleinsten bewohnten Insel der Kapverden, und gilt als eine der architektonisch reizvollsten Siedlungen des Archipels. Die Stadt liegt auf einem Hochplateau etwa 500 Meter über dem Meeresspiegel, was ihr ein vergleichsweise kühles und feuchtes Mikroklima verschafft. In den häufigen Nebelschwaden der Passatwinde gedeiht eine für die Kapverden ungewöhnlich üppige Flora mit Hibiskus, Oleander und Bougainvillea, was der Stadt den Beinamen 'Blumenstadt' eingebracht hat. Gegründet wurde sie im 18. Jahrhundert und nach der Stadt Sintra in Portugal benannt, zu der sie aufgrund ihrer Lage im Gebirge und der oft nebelverhangenen Gassen eine visuelle Ähnlichkeit aufweist. Historisch war Nova Sintra eng mit der US-amerikanischen Walfangindustrie des 19. Jahrhunderts verbunden; viele Männer der Insel heuerten auf amerikanischen Schiffen an, was zu einer starken transatlantischen Migration und kulturellen Verbindung nach Neuengland führte. Die städtische Architektur ist geprägt von gepflegten Kolonialhäusern mit kleinen Gärten und kopfsteingepflasterten Straßen, die um den zentralen Praça Eugénio Tavares angeordnet sind. Da Brava über keinen funktionierenden Flughafen verfügt, bleibt Nova Sintra isoliert und ist ausschließlich über die Fähre von der Nachbarinsel Fogo erreichbar, was den langsamen, traditionellen Lebensrhythmus der etwa 1.500 Einwohner bewahrt hat.",
+        "hu": "Nova Sintra Brava szigetének fővárosa, amely a Zöld-foki-szigetek legkisebb lakott szigete, és az építészeti szempontból egyik legvonzóbb településnek számít a szigetvilágban. A város egy körülbelül 500 méter magasan fekvő fennsíkon terül el, ami viszonylag hűvös és párás mikroklímát biztosít számára. A passzátszelek által hozott gyakori ködben a Zöld-foki-szigetekre nem jellemző, szokatlanul dús növényzet – hibiszkusz, leander és bougainvillea – virágzik, amiért a várost gyakran a 'virágok városa' néven emlegetik. A 18. században alapították, és a portugáliai Sintra városáról nevezték el, amellyel hegyvidéki fekvése és gyakran ködbe burkolózó utcái miatt vizuális hasonlóságot mutat. Történelmileg Nova Sintra szorosan kötődött a 19. századi amerikai bálnavadászathoz; a sziget férfilakosságának jelentős része amerikai hajókon szolgált, ami erős transzatlanti migrációhoz és Új-Angliához fűződő kulturális kapcsolatokhoz vezetett. A városképet gondozott gyarmati házak, kis kertek és macskaköves utcák határozzák meg, amelyek a központi Praça Eugénio Tavares tér köré szerveződnek. Mivel Bravának nincs működő repülőtere, Nova Sintra elszigetelt marad, és kizárólag a szomszédos Fogo szigetéről induló komppal közelíthető meg, ami segített megőrizni az körülbelül 1500 lakos lassú, hagyományos életmódját.",
+        "ro": "Nova Sintra este capitala insulei Brava, cea mai mică insulă locuită din Capul Verde, și este considerată una dintre cele mai atractive așezări din punct de vedere arhitectural din arhipelag. Orașul este situat pe un podiș înalt, la aproximativ 500 de metri deasupra nivelului mării, ceea ce îi oferă un microclimat relativ răcoros și umed. În ceața frecventă adusă de vânturile alizee, prosperă o floră neobișnuit de luxuriantă pentru Capul Verde, cu hibiscus, oleandri și bougainvillea, ceea ce a adus orașului supranumele de „orașul florilor”. A fost fondat în secolul al XVIII-lea și numit după orașul Sintra din Portugalia, cu care prezintă o asemănare vizuală datorită locației sale montane și ulițelor adesea învăluite în ceață. Din punct de vedere istoric, Nova Sintra a fost strâns legată de industria americană a vânătorii de balene din secolul al XIX-lea; mulți bărbați de pe insulă s-au angajat pe nave americane, ceea ce a dus la o migrație transatlantică puternică și la legături culturale cu Noua Anglie. Arhitectura urbană este marcată de case coloniale bine întreținute, cu grădini mici și străzi pavate cu piatră cubică, dispuse în jurul pieței centrale Praça Eugénio Tavares. Deoarece Brava nu are un aeroport funcțional, Nova Sintra rămâne izolată și este accesibilă exclusiv cu feribotul de pe insula vecină Fogo, ceea ce a păstrat ritmul de viață lent și tradițional al celor aproximativ 1.500 de locuitori.",
+        "en": "Nova Sintra is the capital of Brava, the smallest inhabited island of Cape Verde, and is widely regarded as one of the most architecturally charming settlements in the archipelago. The town is situated on a high plateau approximately 500 meters above sea level, providing it with a relatively cool and humid microclimate compared to the rest of the nation. In the frequent mists brought by the trade winds, a flora unusually lush for Cape Verde thrives, including hibiscus, oleander, and bougainvillea, earning the town the nickname 'City of Flowers.' It was founded in the 18th century and named after the town of Sintra in Portugal, to which it bears a visual resemblance due to its mountain setting and often fog-shrouded streets. Historically, Nova Sintra was closely linked to the 19th-century American whaling industry; many islanders joined American crews, leading to significant transatlantic migration and deep cultural ties to New England. The urban architecture is characterized by well-maintained colonial houses with small gardens and cobblestone streets arranged around the central Praça Eugénio Tavares. Since Brava lacks a functioning airport, Nova Sintra remains isolated and is accessible only by ferry from the neighboring island of Fogo, which has helped preserve the slow, traditional pace of life for its approximately 1,500 residents."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt auf 500 m Höhe und hat das kühlste Klima der Kapverden.",
+          "Benannt nach der portugiesischen Stadt Sintra wegen des häufigen Nebels.",
+          "Heimat des berühmten Musikers und Dichters Eugénio Tavares.",
+          "Starke historische Verbindung zur Walfangflotte der USA.",
+          "Nur per Fähre erreichbar, da kein aktiver Flugplatz vorhanden ist.",
+          "Bekannt für üppige Gärten mit Hibiskus und Bougainvillea."
+        ],
+        "hu": [
+          "500 méteres tengerszint feletti magasságban fekszik, itt a leghűvösebb a klíma az országban.",
+          "A portugál Sintra városáról nevezték el a gyakori ködképződés miatt.",
+          "A híres zenész és költő, Eugénio Tavares otthona volt.",
+          "Erős történelmi szálak fűzik az Egyesült Államok bálnavadász flottáihoz.",
+          "Csak komppal érhető el, mivel a szigetnek nincs működő repülőtere.",
+          "Híres a burjánzó hibiszkusz- és bougainvillea-kertjeiről."
+        ],
+        "ro": [
+          "Situat la 500 m altitudine, având cea mai răcoroasă climă din Capul Verde.",
+          "Numit după orașul portughez Sintra datorită ceții frecvente.",
+          "Locul de origine al celebrului muzician și poet Eugénio Tavares.",
+          "Legătură istorică puternică cu flota de vânătoare de balene din SUA.",
+          "Accesibil doar cu feribotul, deoarece nu există un aerodrom activ.",
+          "Cunoscut pentru grădinile luxuriante cu hibiscus și bougainvillea."
+        ],
+        "en": [
+          "Situated at 500m elevation, it features the coolest climate in Cape Verde.",
+          "Named after the Portuguese town of Sintra due to frequent mountain mists.",
+          "Home to the famous Cape Verdean musician and poet Eugénio Tavares.",
+          "Strong historical ties to the United States whaling industry.",
+          "Accessible only by ferry as the island lacks a functioning airport.",
+          "Renowned for its lush gardens filled with hibiscus and bougainvillea."
+        ]
+      }
+    },
+    {
+      "id": "porto-ingles-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Porto Inglês, auch bekannt als Vila do Maio, ist die Hauptstadt der Insel Maio und das primäre administrative und wirtschaftliche Zentrum der Insel. Die Stadt liegt an der Südwestküste und ist historisch untrennbar mit dem Salzhandel verbunden. Der Name 'Porto Inglês' (Englischer Hafen) geht auf das 17. und 18. Jahrhundert zurück, als britische Schiffe hier regelmäßig anlegten, um Salz aus den riesigen natürlichen Salinen der Insel zu laden und nach Europa oder Amerika zu exportieren. Die Architektur der Stadt spiegelt diesen kolonialen Einfluss wider, insbesondere in der Nähe des Hafens und des Hauptplatzes, wo sich die markante Kirche Nossa Senhora da Luz befindet, die 1872 fertiggestellt wurde. Das Stadtbild ist geprägt von farbenfrohen Häusern und einer entspannten, fast dörflichen Atmosphäre. Ökonomisch ist Porto Inglês heute von Fischerei, kleinem Handwerk und dem wachsenden Tourismussektor abhängig. Der Hafen wurde in den letzten Jahren modernisiert, um größere Fähren abzufertigen, die die Insel mit der Hauptstadt Praia auf Santiago verbinden. Trotz der Entwicklung bleibt die Stadt weitgehend vom Massentourismus verschont. Direkt westlich des Zentrums erstrecken sich die Salinen von Porto Inglês, die heute als Industriedenkmal und Naturschutzgebiet gelten. Die flache Geografie der Umgebung sorgt für ein trockenes, sonniges Klima mit ständigen Passatwinden.",
+        "hu": "Porto Inglês, más néven Vila do Maio, Maio szigetének fővárosa, valamint az elsődleges közigazgatási és gazdasági központja. A délnyugati parton fekvő város történelme elválaszthatatlan a sókereskedelemtől. A 'Porto Inglês' (Angol kikötő) név a 17. és 18. századra nyúlik vissza, amikor brit hajók rendszeresen kötöttek ki itt, hogy a sziget hatalmas természetes sólepárlóiból származó sót Európába vagy Amerikába szállítsák. A város építészete tükrözi ezt a gyarmati hatást, különösen a kikötő és a főtér környékén, ahol a jellegzetes, 1872-ben befejezett Nossa Senhora da Luz templom áll. A városképet színes házak és nyugodt, szinte falusias légkör jellemzi. Gazdaságilag Porto Inglês ma a halászattól, a kisipartól és a növekvő turizmustól függ. A kikötőt az elmúlt években korszerűsítették, hogy fogadni tudja a szigetet a Santiago szigetén lévő Praiával összekötő nagyobb kompokat. A fejlesztések ellenére a város nagyrészt érintetlen maradt a tömegturizmustól. Közvetlenül a központtól nyugatra terülnek el a Porto Inglês-i sólepárlók, amelyek ma ipari műemléknek és természetvédelmi területnek számítanak. A környezet sík domborzata száraz, napos éghajlatot biztosít, állandó passzátszelekkel.",
+        "ro": "Porto Inglês, cunoscut și sub numele de Vila do Maio, este capitala insulei Maio și centrul administrativ și economic primar al acesteia. Orașul este situat pe coasta de sud-vest și este legat istoric de comerțul cu sare. Numele „Porto Inglês” (Portul Englez) datează din secolele XVII și XVIII, când navele britanice acostau aici regulat pentru a încărca sare din salinele naturale vaste ale insulei și a o exporta în Europa sau America. Arhitectura orașului reflectă această influență colonială, în special în apropierea portului și a pieței principale, unde se află biserica Nossa Senhora da Luz, finalizată în 1872. Peisajul urban este caracterizat de case colorate și o atmosferă relaxată, aproape rurală. Din punct de vedere economic, Porto Inglês depinde astăzi de pescuit, micul meșteșug și sectorul turistic în creștere. Portul a fost modernizat în ultimii ani pentru a deservi feriboturi mai mari care conectează insula de capitala Praia de pe Santiago. În ciuda dezvoltării, orașul rămâne în mare parte ferit de turismul de masă. Direct la vest de centru se întind salinele din Porto Inglês, care astăzi sunt considerate monument industrial și rezervație naturală. Geografia plană a împrejurimilor asigură un climat uscat și însorit, cu vânturi alizee constante.",
+        "en": "Porto Inglês, also known as Vila do Maio, is the capital of Maio Island and its primary administrative and economic center. Located on the southwest coast, the town is historically inextricably linked to the salt trade. The name 'Porto Inglês' (English Port) dates back to the 17th and 18th centuries when British ships regularly docked here to load salt from the island's vast natural salt pans for export to Europe and the Americas. The town's architecture reflects this colonial influence, particularly near the harbor and the main square, which is home to the striking Church of Nossa Senhora da Luz, completed in 1872. The cityscape is defined by colorful houses and a relaxed, almost village-like atmosphere. Economically, Porto Inglês today relies on fishing, small-scale handicrafts, and a growing tourism sector. The harbor has been modernized in recent years to accommodate larger ferries connecting the island with the capital city, Praia, on Santiago. Despite these developments, the town remains largely untouched by mass tourism. Directly west of the center lie the Salt Pans of Porto Inglês, which are now considered both an industrial heritage site and a nature reserve. The flat geography of the surrounding area ensures a dry, sunny climate with persistent trade winds."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt wurde im 17. Jahrhundert durch den Salzhandel mit Großbritannien bedeutend.",
+          "Früher war Vila do Maio ein wichtiger Stützpunkt für britische Handelsflotten.",
+          "Die Kirche Nossa Senhora da Luz stammt aus dem Jahr 1872.",
+          "Die angrenzenden Salinen sind als geschütztes Feuchtgebiet eingestuft.",
+          "Der modernisierte Hafen ist die einzige regelmäßige Verbindung nach Santiago.",
+          "Das Stadtbild besteht überwiegend aus traditionellen einstöckigen Steinhäusern."
+        ],
+        "hu": [
+          "A város a 17. században vált jelentőssé a Nagy-Britanniával folytatott sókereskedelem révén.",
+          "Korábban Vila do Maio a brit kereskedelmi flották egyik fontos bázisa volt.",
+          "A Nossa Senhora da Luz templom 1872-ben épült.",
+          "A szomszédos sólepárlók védett vizes élőhelynek minősülnek.",
+          "A modernizált kikötő az egyetlen rendszeres összeköttetés Santiago szigetével.",
+          "A városkép túlnyomórészt hagyományos, egyszintes kőházakból áll."
+        ],
+        "ro": [
+          "Orașul a devenit semnificativ în secolul al XVII-lea prin comerțul cu sare cu Marea Britanie.",
+          "În trecut, Vila do Maio a fost o bază importantă pentru flotele comerciale britanice.",
+          "Biserica Nossa Senhora da Luz datează din anul 1872.",
+          "Salinele adiacente sunt clasificate ca zonă umedă protejată.",
+          "Portul modernizat este singura legătură regulată către Santiago.",
+          "Peisajul urban constă preponderent din case tradiționale din piatră cu un singur etaj."
+        ],
+        "en": [
+          "The town gained prominence in the 17th century through the salt trade with Great Britain.",
+          "Vila do Maio was previously a critical base for British commercial shipping fleets.",
+          "The central Church of Nossa Senhora da Luz was constructed in 1872.",
+          "The adjacent salt pans are designated as a protected Ramsar wetland site.",
+          "The modernized port provides the only regular ferry link to the capital, Praia.",
+          "The urban layout consists primarily of traditional single-story stone dwellings."
+        ]
+      }
+    },
+    {
+      "id": "calheta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Calheta de Maio ist das zweitbevölkerungsreichste Dorf auf der Insel Maio in Kap Verde und liegt an der geschützten Westküste. Die Siedlung erstreckt sich entlang einer flachen Bucht mit einem für die Region typischen dunklen Vulkansandstrand. Historisch und wirtschaftlich ist Calheta ein reines Fischerdorf, dessen Identität tief in der handwerklichen Küstenfischerei verwurzelt ist. Jeden Nachmittag kehren die traditionellen, bunt bemalten Holzboote zurück, was den zentralen Punkt des sozialen Lebens im Dorf bildet. Die Umgebung ist durch eine extreme Trockenheit gekennzeichnet; das Hinterland besteht aus weiten, kargen Ebenen mit Akazienbäumen, die sich bis zu den zentralen Bergen der Insel erstrecken. In den letzten Jahren hat Calheta durch seine Nähe zu den unberührten Stränden und den nahegelegenen Waldgebieten (Morro) an Bedeutung für den Individualtourismus gewonnen. Ein besonderes Merkmal ist der Schutz der Meeresfauna; die Strände nördlich und südlich des Dorfes dienen als wichtige Nistplätze für Meeresschildkröten. Die Infrastruktur ist einfach geblieben, mit einstöckigen Häusern und sandigen Nebenstraßen. Die Bewohner leben in einem engen Gemeinschaftsgefüge, das stark von den Zyklen des Meeres und dem spärlichen saisonalen Regen geprägt wird. Eine asphaltierte Straße verbindet das Dorf mit der etwa 10 Kilometer entfernten Hauptstadt Porto Inglês.",
+        "hu": "Calheta de Maio a második legnépesebb település Maio szigetén, a Zöld-foki-szigeteken, a védett nyugati parton fekszik. A falu egy sekély öböl mentén terül el, amely a régióra jellemző sötét vulkáni homokos stranddal rendelkezik. Történelmileg és gazdaságilag Calheta egy ízig-vérig halászfalu, amelynek identitása mélyen a kézműves parti halászatban gyökerezik. Minden délután visszatérnek a hagyományos, színesre festett fahajók, ami a falu társadalmi életének központi eseménye. A környezetet extrém szárazság jellemzi; a hátország akácfákkal tarkított, kopár síkságokból áll, amelyek a sziget központi hegyeiig nyúlnak el. Az elmúlt években Calheta jelentősége nőtt az egyéni turizmus számára az érintetlen strandok és a közeli erdős területek (Morro) közelsége miatt. Különlegessége a tengeri fauna védelme; a falutól északra és délre fekvő strandok a tengeri teknősök fontos fészkelőhelyei. Az infrastruktúra egyszerű maradt, egyszintes házakkal és homokos mellékutcákkal. A lakók szoros közösségben élnek, életüket erősen meghatározzák a tenger ciklusai és a ritka, szezonális esőzések. Aszfaltozott út köti össze a falut a körülbelül 10 kilométerre lévő fővárossal, Porto Inglêsszel.",
+        "ro": "Calheta de Maio este a doua cea mai populată așezare de pe insula Maio din Capul Verde, situată pe coasta de vest protejată. Satul se întinde de-a lungul unui golf puțin adânc, cu o plajă de nisip vulcanic închis la culoare, tipic regiunii. Din punct de vedere istoric și economic, Calheta este un sat de pescari autentic, a cărui identitate este profund înrădăcinată în pescuitul artizanal de coastă. În fiecare după-amiază, bărcile tradiționale din lemn pictate în culori vii se întorc la mal, reprezentând punctul central al vieții sociale din sat. Împrejurimile sunt caracterizate de o uscăciune extremă; hinterlandul constă în câmpii vaste și sterile cu salcâmi, care se întind până la munții centrali ai insulei. În ultimii ani, Calheta a câștigat importanță pentru turismul individual datorită proximității față de plajele virgine și zonele forestiere din apropiere (Morro). O caracteristică specială este protecția faunei marine; plajele de la nord și sud de sat servesc drept locuri importante de cuibărit pentru broaștele țestoase marine. Infrastructura a rămas simplă, cu case cu un singur etaj și străzi secundare nisipoase. Locuitorii trăiesc într-o structură comunitară strânsă, puternic marcată de ciclurile mării și de ploile sezoniere rare. Un drum asfaltat leagă satul de capitala Porto Inglês, situată la aproximativ 10 kilometri distanță.",
+        "en": "Calheta de Maio is the second most populous settlement on Maio Island in Cape Verde, located on the protected western coast. The village stretches along a shallow bay featuring a dark volcanic sand beach typical of the region. Historically and economically, Calheta is a quintessential fishing village, with its identity deeply rooted in artisanal coastal fishing. Every afternoon, the return of the traditional, brightly painted wooden boats marks the central event of the village's social life. The surrounding area is characterized by extreme aridity; the hinterland consists of vast, barren plains with acacia trees extending toward the island's central mountains. In recent years, Calheta has gained importance for individual tourism due to its proximity to pristine beaches and nearby forested areas (Morro). A notable feature is the protection of marine fauna; the beaches to the north and south of the village serve as critical nesting sites for sea turtles. The infrastructure remains simple, with single-story houses and sandy side streets. Residents live in a tight-knit community structure, heavily influenced by the cycles of the sea and sparse seasonal rainfall. A paved road connects the village to the capital, Porto Inglês, about 10 kilometers away."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Calheta ist nach Porto Inglês die zweitgrößte Siedlung der Insel Maio.",
+          "Der Ort ist bekannt für seine traditionelle, handwerkliche Fischerei.",
+          "Die Strände der Umgebung sind wichtige Schutzgebiete für Meeresschildkröten.",
+          "Die Region verfügt über einen der wenigen künstlich angelegten Wälder der Insel.",
+          "Die Entfernung zur Hauptstadt Porto Inglês beträgt genau 10 Kilometer.",
+          "Die lokale Architektur besteht fast ausschließlich aus einstöckigen Flachdachhäusern."
+        ],
+        "hu": [
+          "Calheta Porto Inglês után Maio szigetének második legnagyobb települése.",
+          "A település a hagyományos, kézműves halászatáról ismert.",
+          "A környék strandjai a tengeri teknősök fontos védelmi területei.",
+          "A régió rendelkezik a sziget kevés mesterségesen telepített erdőinek egyikével.",
+          "A fővárostól, Porto Inglês-től való távolsága pontosan 10 kilométer.",
+          "A helyi építészet szinte kizárólag egyszintes, lapostetős házakból áll."
+        ],
+        "ro": [
+          "Calheta este a doua cea mai mare așezare de pe insula Maio, după Porto Inglês.",
+          "Localitatea este cunoscută pentru pescuitul său artizanal tradițional.",
+          "Plajele din zonă sunt arii protejate importante pentru broaștele țestoase marine.",
+          "Regiunea deține una dintre puținele păduri plantate artificial de pe insulă.",
+          "Distanța până la capitala Porto Inglês este de exact 10 kilometri.",
+          "Arhitectura locală constă aproape exclusiv din case cu un singur etaj și acoperiș plat."
+        ],
+        "en": [
+          "Calheta ranks as the second-largest settlement on Maio Island after Porto Inglês.",
+          "The village is highly renowned for its traditional, artisanal coastal fishing culture.",
+          "Surrounding beaches serve as critical protected nesting sites for sea turtles.",
+          "The region contains one of the island's few established man-made forest areas.",
+          "The distance to the capital city of Porto Inglês is precisely 10 kilometers.",
+          "Local architecture consists almost entirely of single-story flat-roofed dwellings."
+        ]
+      }
+    },
+    {
+      "id": "barreiro-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Barreiro ist eine kleine ländliche Siedlung im südwestlichen Landesinneren der Insel Maio in Kap Verde, etwa 4 Kilometer nordöstlich der Hauptstadt Porto Inglês gelegen. Die Ortschaft liegt auf einer kargen, flachen Ebene, die von der für Maio typischen ariden Steppenlandschaft umgeben ist. Historisch gesehen ist Barreiro eine traditionelle Agrargemeinschaft, die sich auf die Zucht von Ziegen und Schweinen sowie auf den Regenfeldbau während der kurzen Regenzeit spezialisiert hat. Aufgrund des extrem trockenen Klimas ist die Landwirtschaft hier mühsam und konzentriert sich auf resistente Kulturen wie Mais und Bohnen. In der Architektur des Dorfes dominieren einfache Steinhäuser, viele davon in leuchtenden Farben gestrichen, was einen lebhaften Kontrast zur ockerfarbenen Umgebung bildet. Ein bedeutendes Merkmal von Barreiro ist die lokale Produktion von Holzkohle aus Akazienholz, die früher ein wichtiger Wirtschaftszweig für die Versorgung der Hauptstadt war. Die Gemeinde ist eng verbunden und pflegt traditionelle Bräuche, insbesondere die Feste zu Ehren des Schutzpatrons São José im März. In den letzten Jahrzehnten hat die Emigration vieler junger Bewohner nach Praia oder Europa die Bevölkerungsstruktur verändert, wobei finanzielle Rücküberweisungen heute eine wesentliche Einkommensquelle für die verbliebenen Einwohner darstellen.",
+        "hu": "Barreiro egy kis vidéki település Maio szigetének délnyugati belső részén, a Zöld-foki-szigeteken, körülbelül 4 kilométerre északkeletre a fővárostól, Porto Inglêstől. A falu egy kietlen, sík fennsíkon fekszik, amelyet a Maióra jellemző száraz sztyeppei táj vesz körül. Történelmileg Barreiro egy hagyományos mezőgazdasági közösség, amely kecske- és sertéstenyésztésre, valamint a rövid esős évszak alatti szárazműveléses gazdálkodásra szakosodott. Az extrém száraz éghajlat miatt a mezőgazdaság itt fáradságos, és az olyan ellenálló növényekre összpontosít, mint a kukorica és a bab. A falu építészetében az egyszerű kőházak dominálnak, amelyek közül sokat élénk színekre festettek, élénk kontrasztot alkotva az okkersárga környezettel. Barreiro egyik jelentős jellemzője az akácfából történő helyi faszéntermelés, amely korábban fontos gazdasági ág volt a főváros ellátása szempontjából. A közösség szorosan összetartó és ápolja a hagyományos szokásokat, különösen a védőszent, São José tiszteletére márciusban rendezett ünnepségeket. Az elmúlt évtizedekben a fiatal lakosok elvándorlása Praiába vagy Európába megváltoztatta a népességszerkezetet, így a hazaküldött pénzösszegek ma a maradék lakosság alapvető bevételi forrását jelentik.",
+        "ro": "Barreiro este o mică așezare rurală în interiorul de sud-vest al insulei Maio din Capul Verde, situată la aproximativ 4 kilometri nord-est de capitala Porto Inglês. Localitatea se află pe o câmpie aridă și plată, înconjurată de peisajul de stepă uscată tipic pentru Maio. Din punct de vedere istoric, Barreiro este o comunitate agricolă tradițională, specializată în creșterea caprelor și porcilor, precum și în agricultura pluvială în timpul scurtului sezon ploios. Din cauza climatului extrem de uscat, agricultura este anevoioasă aici și se concentrează pe culturi rezistente precum porumbul și fasolea. În arhitectura satului domină casele simple din piatră, multe dintre ele vopsite în culori strălucitoare, ceea ce creează un contrast viu cu împrejurimile de culoarea ocru. O caracteristică importantă a localității Barreiro este producția locală de cărbune vegetal din lemn de salcâm, care în trecut era o ramură economică importantă pentru aprovizionarea capitalei. Comunitatea este strâns unită și păstrează obiceiurile tradiționale, în special sărbătorile în onoarea sfântului patron São José în luna martie. În ultimele decenii, emigrarea multor tineri către Praia sau Europa a schimbat structura populației, remitențele financiare reprezentând astăzi o sursă esențială de venit pentru locuitorii rămași.",
+        "en": "Barreiro is a small rural settlement in the southwestern interior of Maio Island in Cape Verde, located about 4 kilometers northeast of the capital, Porto Inglês. The village sits on a barren, flat plain surrounded by the arid steppe landscape typical of Maio. Historically, Barreiro has been a traditional agricultural community, specializing in the rearing of goats and pigs, as well as rain-fed farming during the brief rainy season. Due to the extremely dry climate, agriculture here is arduous and focuses on resilient crops like corn and beans. The village architecture is dominated by simple stone houses, many painted in vibrant colors, providing a lively contrast to the ochre surroundings. A significant characteristic of Barreiro is the local production of charcoal from acacia wood, which was formerly an important economic activity for supplying the capital. The community is tight-knit and maintains traditional customs, particularly the festivals honoring its patron saint, São José, in March. In recent decades, the emigration of many young residents to Praia or Europe has altered the population structure, with financial remittances now serving as a vital source of income for the remaining inhabitants."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Barreiro liegt nur etwa 4 Kilometer landeinwärts von Porto Inglês.",
+          "Das Dorf ist bekannt für seine bunt bemalten, traditionellen Steinhäuser.",
+          "Ziegenzucht ist die primäre Lebensgrundlage der lokalen Bevölkerung.",
+          "Historisch war der Ort ein Zentrum für die Holzkohleproduktion der Insel.",
+          "Die Feste zu Ehren von São José finden jährlich im März statt.",
+          "Der Ort leidet unter extremer Trockenheit und fehlenden Wasserquellen."
+        ],
+        "hu": [
+          "Barreiro mindössze 4 kilométerre fekszik Porto Inglês-től a szárazföld belsejében.",
+          "A falu élénk színekre festett, hagyományos kőházairól ismert.",
+          "A kecsketenyésztés a helyi lakosság elsődleges megélhetési forrása.",
+          "Történelmileg a település a sziget faszéntermelésének központja volt.",
+          "A São José tiszteletére rendezett ünnepségeket évente márciusban tartják.",
+          "A terület extrém szárazságtól és a vízforrások hiányától szenved."
+        ],
+        "ro": [
+          "Barreiro se află la doar aproximativ 4 kilometri în interiorul insulei față de Porto Inglês.",
+          "Satul este cunoscut pentru casele sale tradiționale din piatră vopsite viu.",
+          "Creșterea caprelor este principala sursă de subzistență a populației locale.",
+          "Istoric, locul a fost un centru pentru producția de cărbune vegetal pe insulă.",
+          "Sărbătorile în onoarea lui São José au loc anual în luna martie.",
+          "Localitatea suferă de secetă extremă și lipsa surselor de apă."
+        ],
+        "en": [
+          "Barreiro is located just 4 kilometers inland from the capital, Porto Inglês.",
+          "The village is noted for its brightly painted, traditional stone houses.",
+          "Goat herding is the primary means of subsistence for the local population.",
+          "Historically, the settlement was a center for charcoal production on the island.",
+          "The annual festivals honoring São José are celebrated every March.",
+          "The area faces challenges from extreme aridity and limited water resources."
+        ]
+      }
+    },
+    {
+      "id": "figueira-da-horta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Figueira da Horta ist eine kleine landwirtschaftliche Siedlung im zentralen Westen der Insel Maio in Kap Verde. Der Name des Dorfes deutet bereits auf seine Funktion hin ('Feigenbaum des Gartens'), da es in einer der wenigen Zonen der Insel liegt, die über einen vergleichsweise hohen Grundwasserspiegel verfügen. Geografisch befindet sich der Ort in einem flachen Becken, das von sanften vulkanischen Hügeln umgeben ist. Diese geologischen Bedingungen ermöglichen den Betrieb von kleinen bewässerten Gärten (Hortas), in denen Obst und Gemüse für den lokalen Markt angebaut werden, was in krassem Gegensatz zur sonstigen Wüstenlandschaft Maios steht. Die Siedlung ist für ihren traditionellen Charakter bekannt; die Häuser sind oft aus lokalem Vulkangestein errichtet und folgen einem einfachen, funktionalen Grundriss. Ein wichtiges soziales und wirtschaftliches Merkmal ist die Produktion von handwerklich hergestelltem Ziegenkäse (Queijo de Terra), der auf der ganzen Insel für seine Qualität geschätzt wird. Trotz der landwirtschaftlichen Vorteile bleibt die Gemeinde klein und ruhig, mit einer Bevölkerung, die stark von Subsistenzwirtschaft und familiärem Zusammenhalt geprägt ist. Figueira da Horta liegt strategisch an der Hauptstraße, die den Norden der Insel mit der Hauptstadt im Süden verbindet, was den Transport der Agrarprodukte erleichtert.",
+        "hu": "Figueira da Horta egy kis mezőgazdasági település Maio szigetének középső-nyugati részén, a Zöld-foki-szigeteken. A falu neve ('a kert fügefája') már utal a funkciójára, mivel a sziget azon kevés övezetének egyikében fekszik, ahol viszonylag magas a talajvízszint. Földrajzilag a település egy lankás vulkáni dombokkal körülvett, sík medencében található. Ezek a geológiai adottságok lehetővé teszik kis öntözött kertek (hortas) művelését, ahol a helyi piacra szánt gyümölcsöket és zöldségeket termesztenek, ami éles ellentétben áll Maio egyébként sivatagos tájaival. A település hagyományőrző jellegéről ismert; a házak gyakran helyi vulkáni kőből épültek, és egyszerű, funkcionális alaprajzot követnek. Fontos társadalmi és gazdasági jellemzője a kézműves kecskesajt (Queijo de Terra) előállítása, amelyet minősége miatt az egész szigeten nagyra értékelnek. A mezőgazdasági előnyök ellenére a közösség kicsi és csendes marad, lakosságát az önellátó gazdálkodás és az erős családi összetartás jellemzi. Figueira da Horta stratégiai helyen, a sziget északi részét a déli fővárossal összekötő főút mentén fekszik, ami megkönnyíti a mezőgazdasági termékek szállítását.",
+        "ro": "Figueira da Horta este o mică așezare agricolă situată în centrul-vestul insulei Maio din Capul Verde. Numele satului sugerează deja funcția sa („smochinul grădinii”), deoarece se află în una dintre puținele zone ale insulei care dispun de o pânză freatică relativ ridicată. Geografic, localitatea se află într-un bazin plat, înconjurat de dealuri vulcanice domoale. Aceste condiții geologice permit exploatarea unor mici grădini irigate (hortas), unde se cultivă fructe și legume pentru piața locală, ceea ce stă în contrast puternic cu restul peisajului deșertic din Maio. Așezarea este cunoscută pentru caracterul său tradițional; casele sunt adesea construite din piatră vulcanică locală și urmează un plan simplu și funcțional. O caracteristică socială și economică importantă este producția de brânză de capră artizanală (Queijo de Terra), apreciată pe toată insula pentru calitatea sa. În ciuda avantajelor agricole, comunitatea rămâne mică și liniștită, cu o populație marcată de economia de subzistență și coeziunea familială. Figueira da Horta este situată strategic pe drumul principal care leagă nordul insulei de capitala din sud, ceea ce facilitează transportul produselor agricole.",
+        "en": "Figueira da Horta is a small agricultural settlement located in the central-western part of Maio Island in Cape Verde. The village's name hints at its ecological function ('Fig tree of the garden'), as it sits in one of the few zones on the island with a relatively high groundwater table. Geographically, the village is positioned in a flat basin surrounded by gentle volcanic hills. These specific geological conditions allow for the operation of small irrigated gardens (hortas) where fruits and vegetables are grown for the local market, providing a stark contrast to Maio's otherwise desertified landscape. The settlement is known for its traditional character; houses are often built from local volcanic stone and follow a simple, functional layout. An important social and economic feature is the production of artisanal goat cheese (Queijo de Terra), which is highly valued across the island for its quality. Despite the agricultural advantages, the community remains small and quiet, with a population defined by subsistence farming and strong family ties. Figueira da Horta is strategically located on the main road connecting the northern part of the island with the capital in the south, facilitating the transport of agricultural goods."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Ort liegt in einem wasserreichen Becken im Inselinneren.",
+          "Der Name bezieht sich auf den früher dort häufigen Feigenanbau.",
+          "Figueira da Horta ist ein Zentrum für hochwertigen, handgemachten Ziegenkäse.",
+          "Kleine Hortas (Gärten) produzieren Gemüse für die Inselhauptstadt.",
+          "Die Siedlung liegt direkt an der Nord-Süd-Verbindungsstraße der Insel.",
+          "Traditionelle Häuser aus dunklem Lavagestein prägen den Ortskern."
+        ],
+        "hu": [
+          "A település egy vízben gazdag medencében fekszik a sziget belsejében.",
+          "A név az egykor ott gyakori fügetermesztésre utal.",
+          "Figueira da Horta a kiváló minőségű, kézműves kecskesajt központja.",
+          "Kis 'horták' (kertek) termelnek zöldséget a sziget fővárosa számára.",
+          "A település közvetlenül a sziget észak-déli összekötő útja mentén található.",
+          "Sötét lávakőből épült hagyományos házak jellemzik a faluközpontot."
+        ],
+        "ro": [
+          "Localitatea este situată într-un bazin bogat în apă în interiorul insulei.",
+          "Numele se referă la cultivarea smochinelor, care era frecventă în trecut.",
+          "Figueira da Horta este un centru pentru brânza de capră artizanală de calitate.",
+          "Mici 'hortas' (grădini) produc legume pentru capitala insulei.",
+          "Așezarea este situată direct pe drumul de legătură nord-sud al insulei.",
+          "Case tradiționale din piatră de lavă închisă la culoare definesc centrul satului."
+        ],
+        "en": [
+          "The village is situated in a relatively water-rich basin in the island's interior.",
+          "The name references the fig cultivation that was historically common there.",
+          "Figueira da Horta serves as a center for high-quality, artisanal goat cheese.",
+          "Small 'hortas' (irrigated gardens) produce vegetables for the island's capital.",
+          "The settlement sits directly on the primary north-south connecting road.",
+          "Traditional houses constructed from dark volcanic stone define the village core."
+        ]
+      }
+    }
+  ]
+}

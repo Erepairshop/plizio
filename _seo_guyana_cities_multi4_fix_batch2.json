@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "rose-hall-cities-v2",
+      "descriptionAdvancedDe": "Rose Hall, eine kleine Stadt in der Region East Berbice-Corentyne, ist eine von mehreren Siedlungen in Guyana, die nach einer Plantage benannt sind. Die Stadt wurde in den 1970er Jahren offiziell als Stadt anerkannt. Ihre Wirtschaft ist traditionell von der Zuckerindustrie abhängig, da sie in der Nähe des Albion-Zuckeranwesens liegt, einem der größten Arbeitgeber der Region. Rose Hall ist auch für seine lebhaften Märkte und sein jährliches Stadtfest bekannt. Die Stadt hat eine bedeutende indo-guyanische Bevölkerung und ihre Kultur spiegelt diese Herkunft wider. In jüngster Zeit hat die Stadt Anstrengungen unternommen, ihre Wirtschaft zu diversifizieren und kleine Unternehmen zu fördern. Die Hauptstraße ist ein Zentrum der Aktivität mit Geschäften und Dienstleistungen für die umliegenden Dörfer.",
+      "descriptionAdvancedHu": "Rose Hall egy kisváros az East Berbice-Corentyne régióban, amely egyike Guyana számos, ültetvényekről elnevezett településének. Az 1970-es években kapott városi rangot. Gazdasága hagyományosan a cukoripartól függ, mivel az Albion cukorgyár közelében található, amely a régió egyik legnagyobb munkaadója. Rose Hall ismert élénk piacairól és az évente megrendezett városi fesztiváljáról is. A város jelentős indo-guyanai lakossággal rendelkezik, és kultúrája ezt az örökséget tükrözi. Az utóbbi időben a város erőfeszítéseket tett gazdaságának diverzifikálására és a kisvállalkozások ösztönzésére. Főutcája a környező falvakat kiszolgáló üzletekkel és szolgáltatásokkal teli tevékenységi központ.",
+      "descriptionAdvancedRo": "Rose Hall, un mic oraș din regiunea East Berbice-Corentyne, este una dintre numeroasele așezări din Guyana numite după o plantație. A fost recunoscut oficial ca oraș în anii 1970. Economia sa a fost dependentă în mod tradițional de industria zahărului, fiind situat în apropierea moșiei Albion, unul dintre cei mai mari angajatori din regiune. Rose Hall este, de asemenea, cunoscut pentru piețele sale pline de viață și pentru festivalul său anual al orașului. Orașul are o populație indo-guyaneză semnificativă, iar cultura sa reflectă această moștenire. Recent, orașul a depus eforturi pentru a-și diversifica economia și a promova micile afaceri. Strada sa principală este un centru de activitate, cu magazine și servicii pentru satele din jur.",
+      "descriptionAdvancedEn": "Rose Hall is a town in the East Berbice-Corentyne region of Guyana. Like many towns in the area, it originated from a former sugar plantation. It was officially granted township status in 1970. The town's economy has historically been tied to the sugar industry, with the nearby Albion Estate being a major employer. Rose Hall is known for its bustling market, which serves as a commercial hub for the surrounding villages. The town also hosts an annual 'Town Day' celebration, which features cultural performances and other festivities. It is an important administrative and commercial center on the Corentyne Coast, providing essential services to a wide rural population. The town reflects the rich cultural mix of the region, predominantly Indo-Guyanese.",
+      "factsAdvancedDe": [
+        "Liegt in der Region East Berbice-Corentyne.",
+        "Erhielt 1970 den Stadtstatus.",
+        "Die nahegelegene Albion-Zuckerfabrik ist der Hauptarbeitgeber.",
+        "Hat eine bedeutende indo-guyanische Bevölkerung.",
+        "Veranstaltet jährlich den Rose Hall Town Day.",
+        "Wichtiges Handelszentrum an der Corentyne-Küste.",
+        "Wirtschaft basiert auf der Zuckerindustrie.",
+        "Benannt nach einer ehemaligen Plantage."
+      ],
+      "factsAdvancedHu": [
+        "Az East Berbice-Corentyne régióban található.",
+        "1970-ben kapott városi rangot.",
+        "A közeli Albion cukorgyár a fő munkaadó.",
+        "Jelentős indo-guyanai lakossággal rendelkezik.",
+        "Évente megrendezik a Rose Hall Town Day ünnepséget.",
+        "Fontos kereskedelmi központ a Corentyne-parton.",
+        "Gazdasága a cukoriparra épül.",
+        "A város egy korábbi ültetvényről kapta a nevét."
+      ],
+      "factsAdvancedRo": [
+        "Situat în regiunea East Berbice-Corentyne.",
+        "A primit statut de oraș în 1970.",
+        "Moșia de zahăr Albion din apropiere este principalul angajator.",
+        "Are o populație indo-guyaneză semnificativă.",
+        "Găzduiește anual Ziua Orașului Rose Hall.",
+        "Centru comercial important pe coasta Corentyne.",
+        "Economia se bazează pe industria zahărului.",
+        "Numit după o fosta plantație."
+      ],
+      "factsAdvancedEn": [
+        "Located in the East Berbice-Corentyne region.",
+        "Granted town status in 1970.",
+        "The nearby Albion sugar estate is the main employer.",
+        "Has a significant Indo-Guyanese population.",
+        "Hosts the annual Rose Hall Town Day celebration.",
+        "Important commercial center on the Corentyne coast.",
+        "Economy is based on the sugar industry.",
+        "Named after a former plantation."
+      ]
+    },
+    {
+      "id": "mahaica-village-cities-v2",
+      "descriptionAdvancedDe": "Mahaica Village liegt am Ostufer des Mahaica-Flusses in der Region Demerara-Mahaica. Das Dorf ist ein wichtiges landwirtschaftliches Zentrum, das für seine Reis- und Zuckerproduktion bekannt ist. Die Nähe zum Fluss bietet Möglichkeiten für Fischerei und Transport. Mahaica hat eine reiche Geschichte, die bis in die Kolonialzeit zurückreicht, und war Schauplatz mehrerer bedeutender historischer Ereignisse, einschließlich Arbeiterprotesten. Die Mahaica-Brücke ist eine wichtige Verkehrsverbindung, die die Region mit Georgetown verbindet. Das Dorfleben ist eng mit dem Rhythmus der Landwirtschaft verbunden, und die Gemeinschaft ist für ihren starken Zusammenhalt bekannt. Das Gebiet beherbergt auch eine vielfältige Vogelwelt, was es für Vogelbeobachter interessant macht.",
+      "descriptionAdvancedHu": "A Mahaica Village a Mahaica folyó keleti partján, a Demerara-Mahaica régióban található. A település fontos mezőgazdasági központ, amely rizs- és cukortermeléséről ismert. A folyó közelsége lehetőséget biztosít a halászatra és a szállításra. Mahaica gazdag történelemmel rendelkezik, amely a gyarmati időkig nyúlik vissza, és számos jelentős történelmi eseménynek, köztük munkástüntetéseknek volt a helyszíne. A Mahaica híd fontos közlekedési kapocs, amely összeköti a régiót Georgetownnal. A falusi élet szorosan kötődik a mezőgazdaság ritmusához, a közösség pedig erős összetartásáról ismert. A terület változatos madárvilágnak ad otthont, ami vonzóvá teszi a madármegfigyelők számára.",
+      "descriptionAdvancedRo": "Mahaica Village este situat pe malul de est al râului Mahaica, în regiunea Demerara-Mahaica. Satul este un important centru agricol, cunoscut pentru producția de orez și zahăr. Apropierea de râu oferă oportunități pentru pescuit și transport. Mahaica are o istorie bogată care datează din perioada colonială și a fost scena mai multor evenimente istorice importante, inclusiv proteste ale muncitorilor. Podul Mahaica este o legătură de transport cheie, care conectează regiunea cu Georgetown. Viața satului este strâns legată de ritmul agriculturii, iar comunitatea este cunoscută pentru coeziunea sa puternică. Zona găzduiește, de asemenea, o avifaună diversă, ceea ce o face interesantă pentru observatorii de păsări.",
+      "descriptionAdvancedEn": "Mahaica Village is a large community located along the Mahaica River in the Demerara-Mahaica region. Historically a sugar-producing area, its economy is now dominated by rice farming and other agricultural activities. The village is strategically positioned, with the Mahaica Bridge providing a crucial link on the main coastal highway connecting to Georgetown. The area has historical significance, notably being the site of the Enmore Martyrs' incident in 1948, a key event in Guyana's labor history. The community is a blend of rural charm and economic activity, serving as a hub for smaller surrounding villages. The Mahaica River itself is an important waterway for local fishing and transport, and the surrounding wetlands are an important habitat for birdlife.",
+      "factsAdvancedDe": [
+        "Liegt am Mahaica-Fluss.",
+        "Teil der Region Demerara-Mahaica.",
+        "Hauptwirtschaftszweige sind Reis- und Zuckerproduktion.",
+        "Die Mahaica-Brücke ist eine wichtige Verbindung.",
+        "Standort des Enmore-Märtyrer-Vorfalls von 1948.",
+        "Wichtiges Zentrum für umliegende Agrargebiete.",
+        "Der Fluss ist wichtig für die lokale Fischerei.",
+        "Feuchtgebiete sind Lebensraum für eine reiche Vogelwelt."
+      ],
+      "factsAdvancedHu": [
+        "A Mahaica folyó mentén helyezkedik el.",
+        "A Demerara-Mahaica régió része.",
+        "Fő gazdasági tevékenysége a rizs- és cukortermelés.",
+        "A Mahaica híd köti össze a part menti úton.",
+        "Az 1948-as Enmore-i mártírok incidensének helyszíne.",
+        "Fontos központ a környező mezőgazdasági területek számára.",
+        "A folyó fontos a helyi halászat számára.",
+        "A környező vizes élőhelyek gazdag madárvilágnak adnak otthont."
+      ],
+      "factsAdvancedRo": [
+        "Situat de-a lungul râului Mahaica.",
+        "Parte a regiunii Demerara-Mahaica.",
+        "Principalele activități economice sunt producția de orez și zahăr.",
+        "Podul Mahaica este o legătură cheie.",
+        "Locul incidentului Martirilor din Enmore din 1948.",
+        "Centru important pentru zonele agricole din jur.",
+        "Râul este important pentru pescuitul local.",
+        "Zonele umede găzduiesc o avifaună bogată."
+      ],
+      "factsAdvancedEn": [
+        "Located along the Mahaica River.",
+        "Part of the Demerara-Mahaica region.",
+        "Main economic activities are rice and sugar production.",
+        "The Mahaica Bridge provides a key link.",
+        "Site of the 1948 Enmore Martyrs' incident.",
+        "Important hub for surrounding agricultural areas.",
+        "The river is important for local fishing.",
+        "Surrounding wetlands host rich birdlife."
+      ]
+    },
+    {
+      "id": "mahaicony-village-cities-v2",
+      "descriptionAdvancedDe": "Mahaicony Village, am Ufer des Mahaicony-Flusses gelegen, ist das Verwaltungszentrum der Region Mahaica-Berbice. Die Wirtschaft der Region ist fast ausschließlich von der Landwirtschaft abhängig, wobei der Reisanbau die Hauptstütze darstellt. Das Dorf dient als zentraler Punkt für die Verarbeitung und den Vertrieb von Reis aus der gesamten Region. Die Landschaft ist von weitläufigen Reisfeldern und einem Netzwerk von Bewässerungskanälen geprägt. Der Mahaicony-Fluss ist für die Entwässerung und Bewässerung von entscheidender Bedeutung und wird auch für den Transport genutzt. Das Dorfleben ist ruhig und folgt den saisonalen Zyklen des Reisanbaus. Die Gegend ist auch für ihre reiche Tierwelt bekannt, insbesondere für den Hoatzin, Guyanas Nationalvogel, der in den Bäumen am Flussufer nistet.",
+      "descriptionAdvancedHu": "A Mahaicony Village a Mahaicony folyó partján fekszik, és a Mahaica-Berbice régió közigazgatási központja. A régió gazdasága szinte teljes mértékben a mezőgazdaságtól, elsősorban a rizstermesztéstől függ. A falu a régióból származó rizs feldolgozásának és elosztásának központi pontja. A tájat kiterjedt rizsföldek és öntözőcsatornák hálózata jellemzi. A Mahaicony folyó létfontosságú a vízelvezetés és az öntözés szempontjából, és szállításra is használják. A falusi élet nyugodt, a rizstermesztés szezonális ciklusait követi. A terület gazdag állatvilágáról is ismert, különösen a hoacinról, Guyana nemzeti madaráról, amely a folyóparti fákban fészkel.",
+      "descriptionAdvancedRo": "Mahaicony Village, situat pe malurile râului Mahaicony, este centrul administrativ al regiunii Mahaica-Berbice. Economia regiunii este dependentă aproape în totalitate de agricultură, orezul fiind pilonul principal. Satul servește ca un punct central pentru procesarea și distribuția orezului din întreaga regiune. Peisajul este definit de câmpuri întinse de orez și de o rețea de canale de irigații. Râul Mahaicony este crucial pentru drenaj și irigații și este, de asemenea, utilizat pentru transport. Viața satului este liniștită, urmând ciclurile sezoniere ale cultivării orezului. Zona este, de asemenea, renumită pentru fauna sa bogată, în special pentru hoatzin, pasărea națională a Guyanei, care cuibărește în copacii de pe malul râului.",
+      "descriptionAdvancedEn": "Mahaicony Village is the administrative center for the Mahaica-Berbice region, situated along the Mahaicony River. The area is one of Guyana's primary rice-producing regions, and the village's economy is almost entirely centered on agriculture. It serves as a vital hub for rice farmers, with mills and other services catering to the industry. The landscape is characterized by vast, flat plains of rice paddies crisscrossed by irrigation canals. The Mahaicony River is a critical resource for drainage and irrigation and supports a rich ecosystem. The area is particularly famous for being a prime location to spot the Hoatzin, Guyana's national bird, which can often be seen in the trees along the riverbanks. The village offers a glimpse into the heart of Guyana's agrarian life.",
+      "factsAdvancedDe": [
+        "Zentrum der Region Mahaica-Berbice.",
+        "Liegt am Mahaicony-Fluss.",
+        "Eines der wichtigsten Reisanbaugebiete Guyanas.",
+        "Wirtschaft fast ausschließlich auf Landwirtschaft ausgerichtet.",
+        "Heimat des Hoatzin, Guyanas Nationalvogel.",
+        "Der Fluss ist entscheidend für die Bewässerung.",
+        "Landschaft geprägt von Reisfeldern und Kanälen.",
+        "Das Gemeinschaftsleben dreht sich um den Reisanbau."
+      ],
+      "factsAdvancedHu": [
+        "A Mahaica-Berbice régió központja.",
+        "A Mahaicony folyó partján található.",
+        "Guyana egyik legfontosabb rizstermelő területe.",
+        "A gazdaság szinte kizárólag a mezőgazdaságra épül.",
+        "A Hoacin, Guyana nemzeti madarának élőhelye.",
+        "A folyó kulcsfontosságú az öntözéshez.",
+        "A tájat rizsföldek és csatornák jellemzik.",
+        "A közösség élete a rizstermesztés köré szerveződik."
+      ],
+      "factsAdvancedRo": [
+        "Centrul regiunii Mahaica-Berbice.",
+        "Situat pe râul Mahaicony.",
+        "Una dintre principalele regiuni producătoare de orez din Guyana.",
+        "Economia se bazează aproape în întregime pe agricultură.",
+        "Habitat pentru Hoatzin, pasărea națională a Guyanei.",
+        "Râul este crucial pentru irigații.",
+        "Peisaj caracterizat de câmpuri de orez și canale.",
+        "Viața comunității se învârte în jurul cultivării orezului."
+      ],
+      "factsAdvancedEn": [
+        "Center of the Mahaica-Berbice region.",
+        "Located on the Mahaicony River.",
+        "One of Guyana's primary rice-producing areas.",
+        "Economy is almost entirely based on agriculture.",
+        "Habitat for the Hoatzin, Guyana's national bird.",
+        "The river is crucial for irrigation.",
+        "Landscape characterized by rice fields and canals.",
+        "Community life revolves around rice cultivation."
+      ]
+    },
+    {
+      "id": "vreed-en-hoop-cities-v2",
+      "descriptionAdvancedDe": "Vreed-en-Hoop, was auf Niederländisch „Frieden und Hoffnung“ bedeutet, ist ein wichtiges Handels- und Transportzentrum in der Region Essequibo Islands-West Demerara. Es liegt am Westufer des Demerara-Flusses, direkt gegenüber der Hauptstadt Georgetown. Die Stadt dient als Hauptanlegestelle für Fähren und Schnellboote, die den Fluss überqueren und Tausende von Pendlern täglich befördern. Vreed-en-Hoop ist ein geschäftiges Zentrum mit Märkten, Banken und Geschäften, die die Bewohner der Westküste von Demerara versorgen. Es ist auch der Ausgangspunkt der West Coast Demerara Highway. Die Siedlung entwickelte sich aus einer ehemaligen Plantage und hat sich zu einer wichtigen städtischen Siedlung entwickelt, die das schnelle Wachstum der Küstenregion Guyanas widerspiegelt.",
+      "descriptionAdvancedHu": "Vreed-en-Hoop, hollandul „Béke és Remény”, fontos kereskedelmi és közlekedési csomópont az Essequibo-szigetek-Nyugat-Demerara régióban. A Demerara folyó nyugati partján fekszik, közvetlenül a fővárossal, Georgetownnal szemben. A város a folyón átkelő kompok és motorcsónakok fő kikötője, amelyek naponta ingázók ezreit szállítják. Vreed-en-Hoop egy nyüzsgő központ piacokkal, bankokkal és üzletekkel, amelyek a Demerara nyugati partjának lakosait szolgálják ki. Itt kezdődik a West Coast Demerara főút is. A település egy korábbi ültetvényből fejlődött ki, és mára fontos városi településsé vált, amely Guyana part menti régiójának gyors növekedését tükrözi.",
+      "descriptionAdvancedRo": "Vreed-en-Hoop, care înseamnă „Pace și Speranță” în olandeză, este un important centru comercial și de transport în regiunea Insulele Essequibo-Demerara de Vest. Este situat pe malul de vest al râului Demerara, vizavi de capitala Georgetown. Orașul servește ca principal terminal pentru feriboturi și bărci rapide care traversează râul, transportând mii de navetiști zilnic. Vreed-en-Hoop este un centru aglomerat, cu piețe, bănci și magazine care deservesc rezidenții de pe coasta de vest a Demerarei. Este, de asemenea, punctul de plecare al autostrăzii West Coast Demerara. Așezarea s-a dezvoltat dintr-o fostă plantație și a devenit o așezare urbană importantă, reflectând creșterea rapidă a regiunii de coastă a Guyanei.",
+      "descriptionAdvancedEn": "Vreed-en-Hoop, meaning 'Peace and Hope' in Dutch, is a major transportation and commercial hub in the Essequibo Islands-West Demerara region. It is located on the west bank of the Demerara River, directly opposite the capital, Georgetown. The town is the main terminal for the ferry and speedboat services that shuttle thousands of commuters across the river daily, making it a critical link in the national transport network. Its stelling (wharf) area is a hive of activity. Vreed-en-Hoop has grown from a small plantation village into a bustling service center with markets, shops, and financial institutions catering to the entire West Demerara area. It is the starting point for the West Coast Demerara highway, further cementing its role as a key junction.",
+      "factsAdvancedDe": [
+        "Sein Name bedeutet auf Niederländisch „Frieden und Hoffnung“.",
+        "Liegt am Westufer des Demerara-Flusses.",
+        "Liegt gegenüber von Georgetown.",
+        "Wichtiger Fähr- und Bootsterminal.",
+        "Zentrum der Region Essequibo Islands-West Demerara.",
+        "Ausgangspunkt der West Coast Demerara Highway.",
+        "Befördert täglich Tausende von Pendlern.",
+        "Wuchs aus einer ehemaligen Plantage."
+      ],
+      "factsAdvancedHu": [
+        "A neve hollandul „Béke és Remény”.",
+        "A Demerara folyó nyugati partján található.",
+        "Georgetownnal szemben helyezkedik el.",
+        "Fontos komp- és hajókikötő.",
+        "Az Essequibo-szigetek-Nyugat-Demerara régió központja.",
+        "A West Coast Demerara főút kiindulópontja.",
+        "Napi ingázók ezreit szolgálja ki.",
+        "Egy korábbi ültetvényből nőtt ki."
+      ],
+      "factsAdvancedRo": [
+        "Numele său înseamnă „Pace și Speranță” în olandeză.",
+        "Situat pe malul de vest al râului Demerara.",
+        "Amplasat vizavi de Georgetown.",
+        "Terminal important pentru feriboturi și bărci.",
+        "Centrul regiunii Insulele Essequibo-Demerara de Vest.",
+        "Punct de plecare pentru autostrada West Coast Demerara.",
+        "Deservește mii de navetiști zilnic.",
+        "A crescut dintr-o fostă plantație."
+      ],
+      "factsAdvancedEn": [
+        "Its name means 'Peace and Hope' in Dutch.",
+        "Located on the west bank of the Demerara River.",
+        "Situated opposite Georgetown.",
+        "Major ferry and boat terminal.",
+        "Hub of the Essequibo Islands-West Demerara region.",
+        "Starting point of the West Coast Demerara highway.",
+        "Serves thousands of commuters daily.",
+        "Grew from a former plantation."
+      ]
+    },
+    {
+      "id": "lethem-cities-v2",
+      "descriptionAdvancedDe": "Lethem liegt im Rupununi-Savannengebiet im Südwesten Guyanas und ist das Verwaltungszentrum der Region Upper Takutu-Upper Essequibo. Die Stadt liegt am Takutu-Fluss, der die Grenze zu Brasilien bildet. Die Takutu-Brücke verbindet Lethem mit der brasilianischen Stadt Bonfim und macht sie zu einem wichtigen Tor für den Handel und die Interaktion zwischen den beiden Ländern. Die Wirtschaft von Lethem ist eng mit Brasilien verbunden, und viele Waren werden über die Grenze gehandelt. Die Stadt ist ein Zentrum für die umliegenden indigenen Gemeinschaften und Rancher der Rupununi-Savanne. Jedes Jahr zu Ostern findet das Rupununi Rodeo statt, ein großes Ereignis, das Vaqueros (Cowboys), Touristen und Einheimische zu Rodeowettbewerben und Feierlichkeiten anzieht.",
+      "descriptionAdvancedHu": "Lethem Guyana délnyugati részén, a Rupununi szavannán található, és az Upper Takutu-Upper Essequibo régió közigazgatási központja. A város a Brazíliával határt képező Takutu folyó partján fekszik. A Takutu híd köti össze Lethemet a brazil Bonfim városával, így fontos kaput jelent a két ország közötti kereskedelem és interakció számára. Lethem gazdasága szorosan összefonódik Brazíliával, sok árut a határon keresztül cserélnek. A város a környező őslakos közösségek és a Rupununi szavanna farmereinek központja. Minden évben húsvétkor itt rendezik meg a Rupununi Rodeót, egy nagyszabású eseményt, amely vaquerókat (lovaspásztorokat), turistákat és helyieket vonz rodeóversenyekkel és ünnepségekkel.",
+      "descriptionAdvancedRo": "Lethem, situat în savana Rupununi din sud-vestul Guyanei, este centrul administrativ al regiunii Upper Takutu-Upper Essequibo. Orașul se află pe malul râului Takutu, care formează granița cu Brazilia. Podul Takutu leagă Lethem de orașul brazilian Bonfim, făcându-l o poartă crucială pentru comerțul și interacțiunea dintre cele două țări. Economia Lethemului este strâns legată de Brazilia, multe bunuri fiind comercializate peste graniță. Orașul este un centru pentru comunitățile indigene din jur și pentru fermierii din savana Rupununi. În fiecare an, de Paște, aici are loc Rodeo-ul Rupununi, un eveniment major care atrage vaqueros (cowboys), turiști și localnici pentru competiții de rodeo și festivități.",
+      "descriptionAdvancedEn": "Lethem is the administrative center of the Upper Takutu-Upper Essequibo region, located in the vast Rupununi Savannah of southwestern Guyana. It sits on the bank of the Takutu River, which forms the border with Brazil. The Takutu River Bridge, linking Lethem to Bonfim in Brazil, has solidified the town's role as a critical gateway for trade and cultural exchange between the two nations. The economy is heavily influenced by its proximity to Brazil, with a constant flow of goods and people across the border. Lethem serves as a hub for the region's indigenous communities and the cattle ranchers of the savannah. It is most famous for the annual Rupununi Rodeo, held every Easter, which attracts cowboys (vaqueros), tourists, and locals for a weekend of thrilling rodeo events, music, and celebration.",
+      "factsAdvancedDe": [
+        "Zentrum der Region Upper Takutu-Upper Essequibo.",
+        "Liegt in der Rupununi-Savanne.",
+        "Am Takutu-Fluss, an der Grenze zu Brasilien.",
+        "Die Takutu-Brücke verbindet es mit Brasilien.",
+        "Veranstaltet das berühmte jährliche Rupununi Rodeo.",
+        "Wichtiges Handelstor nach Brasilien.",
+        "Zentrum für die umliegenden indigenen Gemeinschaften.",
+        "Wirtschaft geprägt von Viehzucht und Handel."
+      ],
+      "factsAdvancedHu": [
+        "Az Upper Takutu-Upper Essequibo régió központja.",
+        "A Rupununi szavannán található.",
+        "A Takutu folyó partján, a brazil határon fekszik.",
+        "A Takutu híd köti össze Brazíliával.",
+        "Itt rendezik a híres éves Rupununi Rodeót.",
+        "Fontos kereskedelmi kapu Brazília felé.",
+        "A környező őslakos közösségek központja.",
+        "A gazdaságot a szarvasmarha-tenyésztés és a kereskedelem jellemzi."
+      ],
+      "factsAdvancedRo": [
+        "Centrul regiunii Upper Takutu-Upper Essequibo.",
+        "Situat în savana Rupununi.",
+        "Pe râul Takutu, la granița cu Brazilia.",
+        "Podul Takutu îl leagă de Brazilia.",
+        "Găzduiește faimosul Rodeo Rupununi anual.",
+        "Poartă comercială importantă către Brazilia.",
+        "Centru pentru comunitățile indigene din jur.",
+        "Economia este caracterizată de creșterea vitelor și comerț."
+      ],
+      "factsAdvancedEn": [
+        "Center of the Upper Takutu-Upper Essequibo region.",
+        "Located in the Rupununi Savannah.",
+        "On the Takutu River, on the border with Brazil.",
+        "The Takutu Bridge connects it to Brazil.",
+        "Hosts the famous annual Rupununi Rodeo.",
+        "Important trade gateway to Brazil.",
+        "Hub for surrounding indigenous communities.",
+        "Economy is characterized by cattle ranching and trade."
+      ]
+    }
+  ]
+}

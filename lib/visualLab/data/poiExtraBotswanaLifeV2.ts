@@ -313,12 +313,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-CE",
     coords: [28.50, -22.50],
     name: { de: "Tuli-Block Rinderzucht", hu: "Tuli-Block szarvasmarha-tenyésztés", ro: "Cresterea vitelor Tuli-Block", en: "Tuli Block Cattle Farming" },
-    description: { de: "Der Tuli Block ist ein wichtiges Gebiet für Rinderhaltung und kommerzielle Landwirtschaft im Osten Botswanas.", hu: "Terület, amely híres szarvasmarha-termeléséről.", ro: "O regiune cunoscută pentru producția de vite.", en: "The Tuli Block is a major cattle-farming area along Botswana's eastern borderlands. It is one of the country's best-known agricultural zones." },
+    description: { de: "Die Rinderzucht im Tuli-Block ist bekannt für ihre Qualität und die weiten Weideflächen im Osten des Landes.", hu: "Terület, amely híres szarvasmarha-termeléséről.", ro: "O regiune agricolă vitală renumită pentru creșterea vitelor de rasă și fermele comerciale extinse.", en: "The Tuli Block is a major agricultural zone where large-scale cattle ranching is a central part of the local way of life." },
     facts: {
-      de: ["Rinderfarmen", "Bewässerte Landwirtschaft", "Tuli-Block-Region"],
+      de: ["Traditionelle Viehwirtschaft", "Große Farmbetriebe", "Bedeutung für die Fleischindustrie"],
       hu: ["Hatalmas farmok.", "Gazdaságilag fontos a régióban."],
-      ro: ["Ferme mari.", "Importantă economic pentru regiune."],
-      en: ["Cattle farming", "Tuli Block", "Commercial agriculture"]
+      ro: ["Lângă râul Limpopo", "Vite de export de calitate", "Peisaj de savană cu baobabi", "Pilon al sectorului privat"],
+      en: ["Major cattle ranching hub", "Eastern Botswana location", "Commercial agriculture zone", "Key part of rural economy"]
     },
     descriptionAdvanced: {
       hu: "A(z) tuli-block-cattle-farming-agriculture-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -351,12 +351,12 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.92, -24.65],
     name: { de: "Gaborone Botanischer Garten", hu: "Gaboronei Botanikus Kert", ro: "Grădina Botanică Gaborone", en: "Gaborone Botanical Garden" },
-    description: { de: "Ein schöner Ort, um lokale Pflanzen kennenzulernen.", hu: "Gyönyörű hely a helyi növények megismerésére.", ro: "Un loc frumos pentru a cunoaște plantele locale.", en: "The Gaborone Botanical Garden is a green public space for learning and recreation. It is a family-friendly city stop with native plants." },
+    description: { de: "Ein schöner Ort, um lokale Pflanzen kennenzulernen.", hu: "Gyönyörű hely a helyi növények megismerésére.", ro: "Un loc frumos pentru a cunoaște plantele locale.", en: "The Gaborone Botanical Garden is a serene green space showcasing indigenous plants and providing an educational park for children." },
     facts: {
       de: ["Geführte Touren.", "Viele einheimische Arten."],
       hu: ["Vezetett túrák.", "Sok őshonos faj."],
       ro: ["Tururi ghidate.", "Multe specii native."],
-      en: ["Urban garden", "Family visits", "Native plants"]
+      en: ["Indigenous plant sanctuary", "Located in Gaborone", "Educational nature park", "Popular family destination"]
     },
     descriptionAdvanced: {
       hu: "A(z) gaborone-botanical-garden-kid-landmark-life-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
@@ -544,10 +544,10 @@ export const poiExtraBotswanaLifeV2: POI[] = [
     parent: "BW-SE",
     coords: [25.93, -24.64],
     name: { de: "Gaborone Naturpfad", hu: "Gaboronei tanösvény", ro: "Traseul natural Gaborone", en: "Gaborone Nature Trail" },
-    description: { de: "Ein einfacher Wanderweg für Kinder, um die lokale Flora zu erkunden.", hu: "Ez a gaboronei természetjáró útvonal kifejezetten családbarát, könnyű sétára alkalmas hely. A városi környezetben kínál egyszerű szabadtéri élményt a gyerekeknek is.", ro: "Un traseu ușor pentru copii pentru a explora flora locală.", en: "An easy hiking trail for children to explore local flora." },
+    description: { de: "Ein einfacher Wanderweg für Kinder, um die lokale Flora zu erkunden.", hu: "Különleges tanösvény gyerekeknek a főváros közelében, ahol játékosan ismerkedhetnek meg a helyi flórával és faunával.", ro: "Un traseu ușor pentru copii pentru a explora flora locală.", en: "An easy hiking trail for children to explore local flora." },
     facts: {
       de: ["Lehrreiche Schilder.", "Sicher und gepflegt."],
-      hu: ["Családbarát útvonal", "Gaborone-ban", "Könnyű sétákhoz"],
+      hu: ["Biztonságos sétautak", "Oktató táblák az állatokról", "Családi piknikező helyek", "Interaktív természetismeret"],
       ro: ["Panouri educative.", "Sigur și îngrijit."],
       en: ["Educational signs.", "Safe and maintained."]
     },

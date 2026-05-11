@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "barrage-poubara-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Poubara-Staudamm, insbesondere das Projekt Grand Poubara, ist eines der bedeutendsten Infrastrukturprojekte Gabuns im Bereich der erneuerbaren Energien. Er befindet sich am Ogooué-Fluss, etwa 15 Kilometer südlich von Franceville in der Provinz Haut-Ogooué. Der Damm wurde primär errichtet, um den enormen Energiebedarf der Manganminen in Moanda und des neuen metallurgischen Komplexes zu decken. Das Projekt wurde in enger Zusammenarbeit mit chinesischen Bauunternehmen realisiert und 2013 offiziell eingeweiht. Mit einer installierten Leistung von etwa 160 Megawatt hat das Wasserkraftwerk die Energieversorgung im Osten des Landes revolutioniert und die Abhängigkeit von fossilen Brennstoffen massiv reduziert. Über die industrielle Nutzung hinaus versorgt der Damm auch die umliegenden Städte mit Strom und stabilisiert das nationale Netz. Die Konstruktion umfasst ein beeindruckendes System aus Zuleitungen und Turbinen, das die natürliche Kraft der Poubara-Wasserfälle nutzt. Neben der energetischen Bedeutung hat der Bau des Damms auch Auswirkungen auf die lokale Geografie und Ökologie des Ogooué-Beckens, weshalb umfangreiche Umweltstudien Teil des Projekts waren. Er steht heute als Symbol für die industrielle Diversifizierung Gabuns und den Übergang zu einer nachhaltigeren Energiewirtschaft, die essenziell für die wirtschaftliche Vision des Landes ist.",
+        "hu": "A Poubara-gát, különösen a Grand Poubara projekt, Gabon egyik legfontosabb megújuló energiaforrása, amely a Haut-Ogooué tartományban, Franceville közelében található. Az Ogooué-folyón épült vízerőmű elsődleges célja a moandai mangánbányák és a kapcsolódó kohászati üzemek hatalmas áramigényének kielégítése volt. A projektet 2013-ban adták át, és megépítése jelentős mérföldkő volt az ország ipari fejlődésében, mivel korábban a régió gyakori energiahiánnyal küzdött. Az erőmű beépített teljesítménye eléri a 160 megawattot, ami lehetővé teszi a stabil áramellátást Kelet-Gabon nagy részén. A gát építése során modern mérnöki megoldásokat alkalmaztak a folyó vízhozamának optimális kihasználására, miközben figyelembe vették a Poubara-vízesés természetes adottságait. Ez a beruházás nemcsak a nehézipar számára kulcsfontosságú, hanem a lakossági elektromos hálózat fejlesztéséhez is hozzájárult, csökkentve a drága gázolaj-alapú energiatermelést. A létesítmény Gabon és Kína gazdasági együttműködésének egyik kiemelkedő eredménye. A gát környéke szigorúan őrzött ipari terület, de a tájra gyakorolt hatása és a modern technológia alkalmazása miatt a mérnöki tudományok iránt érdeklődők számára fontos hivatkozási pont.",
+        "ro": "Barajul Poubara, cunoscut sub numele de Proiectul Grand Poubara, este o componentă strategică a infrastructurii energetice din Gabon, situat pe fluviul Ogooué, în apropiere de orașul Franceville. Inaugurat oficial în 2013, acest baraj hidroelectric a fost conceput pentru a susține ambițiile industriale ale țării, în special în sectorul minier din provincia Haut-Ogooué. Principala sa funcție este de a furniza electricitate complexului metalurgic de la Moanda, reducând semnificativ costurile de producție ale manganului. Cu o capacitate de aproximativ 160 MW, centrala a transformat echilibrul energetic al regiunii, oferind o alternativă sustenabilă și constantă la generatoarele termice poluante. Construcția a fost realizată în colaborare cu parteneri internaționali și a implicat lucrări complexe de inginerie pentru a capta forța hidraulică a cascadelor Poubara. Pe lângă beneficiile economice, barajul a jucat un rol crucial în modernizarea rețelei electrice naționale, îmbunătățind accesul la energie pentru populația din estul țării. Proiectul reflectă viziunea statului gabonez de a utiliza resursele naturale regenerabile pentru a stimula creșterea economică pe termen lung. Deși este o facilitate industrială, dimensiunea sa și impactul asupra cursului fluviului Ogooué îl fac un punct de interes major pentru înțelegerea dezvoltării moderne a Gabonului.",
+        "en": "The Poubara Dam, specifically the Grand Poubara project, is a cornerstone of Gabon's renewable energy infrastructure, located on the Ogooué River near Franceville. Officially commissioned in 2013, the hydroelectric plant was primarily built to power the energy-intensive manganese mining operations in Moanda and the surrounding metallurgical industries. With an installed capacity of 160 megawatts, it has fundamentally changed the economic landscape of the Haut-Ogooué province by providing a stable and cost-effective electricity supply. The project was executed through a strategic partnership between the Gabonese government and Chinese engineering firms, showcasing international cooperation in large-scale infrastructure. The dam utilizes the natural drop and flow of the Ogooué River at the Poubara Falls site to generate clean power, significantly lowering the nation's carbon footprint compared to traditional thermal plants. Beyond industrial use, the dam services the domestic needs of the region's growing urban centers, contributing to improved living standards. It stands as a symbol of Gabon's 'Emerging Gabon' initiative, which prioritizes industrialization through sustainable energy resources. The facility remains one of the largest engineering feats in Central Africa, representing the country's shift toward energy independence and the modern processing of its natural resources."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Wasserkraftwerk Grand Poubara wurde 2013 in Betrieb genommen.",
+          "Es nutzt die Wasserkraft des Ogooué, des größten Flusses Gabuns.",
+          "Die installierte Leistung beträgt rund 160 Megawatt.",
+          "Der Strom fließt hauptsächlich in die Mangan-Verarbeitung in Moanda.",
+          "Das Projekt wurde in Zusammenarbeit mit der Firma Sinohydro realisiert.",
+          "Es befindet sich in der Nähe der berühmten Poubara-Lianenbrücke."
+        ],
+        "hu": [
+          "Az erőmű az Ogooué-folyó vízenergiáját hasznosítja Franceville közelében.",
+          "A 160 megawattos teljesítmény Kelet-Gabon ipari motorja.",
+          "A beruházást kínai mérnöki és finanszírozási támogatással valósították meg.",
+          "Kulcsszerepet játszik a gaboni mangán exportértékének növelésében.",
+          "A gát segít csökkenteni az ország függőségét a fosszilis tüzelőanyagoktól.",
+          "A közeli Poubara-vízesés erejét alakítja át elektromos energiává."
+        ],
+        "ro": [
+          "Barajul este situat în provincia Haut-Ogooué, pe cursul fluviului Ogooué.",
+          "Furnizează energia necesară pentru minele de mangan ale COMILOG.",
+          "Capacitatea instalată este de 160 MW, asigurând stabilitatea rețelei locale.",
+          "A fost construit de compania chineză Sinohydro și finalizat în 2013.",
+          "Este unul dintre cele mai mari proiecte de energie regenerabilă din țară.",
+          "Locația a fost aleasă datorită potențialului hidraulic natural al cascadelor."
+        ],
+        "en": [
+          "Grand Poubara Dam is the main power source for Gabon's mining sector.",
+          "It is located on the Ogooué River, south of the city of Franceville.",
+          "The plant produces 160 MW of hydroelectric power.",
+          "Construction was a major joint project between Gabon and China.",
+          "The dam has significantly reduced regional energy shortages.",
+          "It is a key part of Gabon's strategy to industrialize its raw materials."
+        ]
+      }
+    },
+    {
+      "id": "grottes-lastoursville-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Höhlen von Lastoursville (Grottes de Lastoursville) bilden ein einzigartiges unterirdisches Netzwerk in der Provinz Ogooué-Lolo im Osten Gabuns. Dieses Karstgebiet umfasst mehr als 30 katalogisierte Höhlen, darunter bekannte Formationen wie Boundji, Pahon und Kessipougou. Die Höhlen sind von außerordentlicher wissenschaftlicher und historischer Bedeutung, da sie Zeugnisse menschlicher Besiedlung beherbergen, die Jahrtausende zurückreichen. Archäologische Funde wie Keramikfragmente und prähistorische Werkzeuge deuten darauf hin, dass diese Orte über lange Zeiträume als Wohnstätten oder Kultstätten genutzt wurden. Geologisch bestechen die Höhlen durch ihre Vielfalt an Stalaktiten, Stalagmiten und massiven Kalksteinformationen, die in der ansonsten dichten Regenwaldumgebung selten sind. Ein besonderes Merkmal ist die spezialisierte Fauna, darunter seltene Fledermausarten und blinde Höhlenfische, die dieses Ökosystem bewohnen. Aufgrund ihrer universellen kulturellen und natürlichen Werte wurden die Höhlen von Lastoursville auf die Tentativliste des UNESCO-Welterbes gesetzt. Für Besucher bietet das Gebiet eine Mischung aus Abenteuer und Entdeckung, wobei viele Höhlen nur mit lokaler Führung und unter körperlicher Anstrengung zugänglich sind. Die Region um Lastoursville war historisch auch ein wichtiger Knotenpunkt für den Handel auf dem Ogooué-Fluss, was der Gegend eine zusätzliche historische Dimension verleiht. Die Erforschung dieses Höhlensystems dauert bis heute an und liefert ständig neue Erkenntnisse über die präkoloniale Geschichte Zentralafrikas.",
+        "hu": "A Lastoursville-i barlangok (Grottes de Lastoursville) Gabon egyik legjelentősebb természeti és régészeti kincsei, amelyek az Ogooué-Lolo tartományban találhatók. Ez a karsztvidék több mint 30 feltárt barlangot foglal magában, amelyek közül a legismertebbek a Boundji, Pahon és Kessipougou barlangok. A terület különlegessége, hogy a sűrű egyenlítői esőerdő mélyén rejtőzik egy kiterjedt mészkőhálózat, amely látványos cseppkőformációkkal, sztalaktitokkal és sztalagmitokkal rendelkezik. A barlangok nemcsak geológiai szempontból értékesek, hanem fontos régészeti lelőhelyek is: a kutatók ősi kerámiákat és kőeszközöket találtak itt, ami arra utal, hogy a barlangok évezredeken át menedékként vagy szakrális helyszínként szolgáltak a korai emberi közösségek számára. Az élővilág is egyedülálló, több barlangban hatalmas denevérkolóniák és speciálisan alkalmazkodott rovarfajok élnek. A helyszín jelenleg az UNESCO világörökségi várományos listáján szerepel, mivel kiemelkedő egyetemes értéket képvisel mind kulturális, mind természeti szempontból. Lastoursville városa, amely korábban fontos folyami kikötő volt az Ogooué partján, ma a barlangkutatás és az ökoturizmus központjaként próbál megújulni. A barlangok látogatása komoly fizikai felkészültséget igényel, de a látvány és a történelmi mélység minden fáradságot megér.",
+        "ro": "Grotele de la Lastoursville reprezintă un complex carstic excepțional situat în provincia Ogooué-Lolo, fiind una dintre cele mai importante rezervații arheologice și naturale din Gabon. Acest sistem cuprinde peste 30 de peșteri, printre care Boundji și Pahon sunt cele mai renumite pentru formațiunile lor geologice spectaculoase. Într-o țară dominată de păduri tropicale pe soluri acide, prezența acestui masiv calcaros este o raritate geologică, oferind condiții pentru formarea stalactitelor și stalagmitelor de mari dimensiuni. Din punct de vedere istoric, peșterile sunt fundamentale pentru înțelegerea preistoriei Africii Centrale, adăpostind resturi de ceramică, unelte de piatră și urme de activitate umană care datează de mii de ani. Importanța lor este recunoscută la nivel internațional, fiind incluse pe lista tentativă a Patrimoniului Mondial UNESCO. Peșterile adăpostesc, de asemenea, un ecosistem fragil și unic, incluzând specii endemice de nevertebrate și colonii impresionante de lilieci. Explorarea acestora necesită ghizi locali experimentați, deoarece accesul prin jungla deasă și prin galeriile înguste poate fi dificil. Lastoursville, orașul din apropiere, a fost istoric un punct de tranzit pentru comerțul pe râul Ogooué, iar aceste grote adaugă o dimensiune mistică și ancestrală moștenirii culturale a regiunii.",
+        "en": "The Grottoes of Lastoursville are a spectacular karst cave system located in the Ogooué-Lolo province of eastern Gabon. This network comprises more than 30 explored caves, with notable sites such as Boundji, Pahon, and Kessipougou showcasing impressive limestone formations, stalactites, and stalagmites. In a country largely covered by rainforest and acidic soils, these limestone outcrops are a geological anomaly and provide a unique habitat for specialized fauna, including large colonies of bats and endemic cave-dwelling insects. Historically, the caves are of immense value as they contain archaeological evidence of human presence stretching back several millennia. Discoveries of ancient pottery shards and stone tools suggest the caves were used for shelter, burial, or ritual purposes by pre-colonial populations. Due to their outstanding universal value, the Grottoes of Lastoursville have been placed on the UNESCO World Heritage Tentative List. Accessing these caves often involves trekking through dense forest, making them a destination for serious eco-tourists and scientists. The nearby town of Lastoursville, once a key trading post on the Ogooué River, serves as the gateway to this subterranean world. Ongoing research in the area continues to shed light on the early migrations and social practices of people in the Congo Basin."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das System umfasst über 30 wissenschaftlich erfasste Höhlen.",
+          "Die Höhlen stehen auf der Tentativliste des UNESCO-Welterbes.",
+          "Hier wurden archäologische Funde aus prähistorischer Zeit entdeckt.",
+          "Sie beherbergen eine spezialisierte Fauna, darunter seltene Fledermausarten.",
+          "Geologisch handelt es sich um seltene Kalksteinformationen im Regenwald.",
+          "Die Höhlen liegen in der Nähe des Ogooué-Flusses bei Lastoursville."
+        ],
+        "hu": [
+          "Több mint 30 barlang alkotja ezt az egyedülálló karsztrendszert.",
+          "A helyszín az UNESCO világörökségi várományos listáján szerepel.",
+          "A barlangokban évezredes kerámiatöredékeket és eszközöket találtak.",
+          "A sűrű esőerdőben ritka mészkőalakzatok jellemzik a területet.",
+          "Hatalmas denevérpopulációk élnek a barlangok járataiban.",
+          "A látogatásukhoz helyi vezetők és engedélyek szükségesek."
+        ],
+        "ro": [
+          "Complexul conține peste 30 de peșteri înscrise în patrimoniul național.",
+          "Sunt incluse pe lista tentativă UNESCO pentru valoarea lor arheologică.",
+          "Grotele au servit drept refugiu uman încă din epoca preistorică.",
+          "Sunt renumite pentru coloniile masive de lilieci și fauna cavernicolă.",
+          "Formațiunile carstice sunt o raritate în peisajul geologic gabonez.",
+          "Accesul se face de obicei prin orașul istoric Lastoursville."
+        ],
+        "en": [
+          "The system consists of over 30 caves with significant geological features.",
+          "It is currently on the UNESCO World Heritage Tentative List.",
+          "Archaeologists have found pottery and tools dating back thousands of years.",
+          "The caves are home to unique biodiversity, including endemic bat species.",
+          "They represent a rare limestone karst environment in Central Africa.",
+          "Lastoursville is the main hub for expeditions to these subterranean sites."
+        ]
+      }
+    },
+    {
+      "id": "palais-roi-denis-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Palast von König Denis (Palais du Roi Denis) auf der Halbinsel Pointe-Denis ist ein Ort von großer historischer und symbolischer Bedeutung für Gabun. Er erinnert an Antchouwé Kowe Rapontchombo, bekannt als König Denis, einen der einflussreichsten Herrscher des Mpongwe-Volkes im 19. Jahrhundert. König Denis spielte eine entscheidende Rolle in der diplomatischen Geschichte des Landes, da er 1839 den ersten Schutzvertrag mit Frankreich unterzeichnete, was den Grundstein für das heutige Gabun legte. Sein Wohnsitz und das dazugehörige Areal auf der gegenüberliegenden Seite der Bucht von Libreville waren damals ein Zentrum des Handels und der Diplomatie. Heute sind von den ursprünglichen Gebäuden vor allem Gedenkstätten und Grabmale erhalten geblieben, die als Nationaldenkmal gepflegt werden. Der Ort ist nicht nur ein Ziel für Geschichtsinteressierte, sondern auch ein kulturelles Identitätssymbol für die Mpongwe-Gemeinschaft. Die Pointe-Denis selbst hat sich zu einem beliebten Erholungsort entwickelt, doch der historische Kern bewahrt die Erinnerung an die Ära, in der lokale Herrscher zwischen europäischen Mächten und traditionellen Strukturen navigierten. Ein Besuch des Geländes bietet Einblicke in die vorkoloniale Gesellschaftsordnung und die komplexen Verhandlungen, die zur Gründung von Libreville führten. Es ist ein stiller Ort der Erinnerung, der die Verbindung zwischen der Küstengeografie und der politischen Geschichte Gabuns verdeutlicht.",
+        "hu": "A Denis király palotája (Palais du Roi Denis) a Pointe-Denis félszigeten található, közvetlenül Librevillével szemben, a tengeröböl túlpartján. Ez a történelmi helyszín Antchouwé Kowe Rapontchombo, ismertebb nevén Denis király emlékét őrzi, aki a 19. században a mpongwe nép nagy tiszteletnek örvendő vezetője volt. Denis király kulcsszerepet játszott Gabon modern történelmében, mivel 1839-ben ő írta alá azt a szerződést a franciákkal, amely kijelölte az ország későbbi gyarmati és politikai útját. A palota egykor a regionális kereskedelem és diplomácia központja volt, ahol az európai hajósok és a helyi törzsi vezetők találkoztak. Mára az eredeti épületeknek csak maradványai és az uralkodó síremléke maradt meg, amelyet nemzeti emlékhelyként tartanak számon. A helyszín mély spirituális jelentőséggel bír a mpongwe közösség számára, és emlékeztet a gyarmatosítás előtti afrikai királyságok kifinomult diplomáciai képességeire. A látogatók számára a terület a nyugalom szigete, ahol a történelem összefonódik a gyönyörű tengerparti környezettel. A Pointe-Denis ma népszerű üdülőhely, de a királyi rezidencia romjai és az emlékhely továbbra is a gaboni államiság gyökereit szimbolizálják. Az emlékhely látogatása kötelező mindazoknak, akik meg akarják érteni a modern Gabon kialakulásának politikai hátterét.",
+        "ro": "Palatul Regelui Denis, situat pe peninsula Pointe-Denis, este un sit istoric de o importanță fundamentală pentru identitatea națională a Gabonului. Acesta a fost reședința lui Antchouwé Kowe Rapontchombo, cunoscut sub numele de Regele Denis, un lider marcant al poporului Mpongwe care a dominat regiunea estuarului în secolul al XIX-lea. Regele Denis este o figură legendară în istoria diplomației africane, fiind cel care a semnat în 1839 tratatul cu Franța, act ce a marcat începutul prezenței oficiale franceze și, ulterior, formarea statului gabonez. Deși clădirile originale nu s-au păstrat în întregime, situl găzduiește mormântul regelui și monumente comemorative care sunt considerate tezaur național. Locul servește ca punct de legătură între trecutul precolonial al regatelor de coastă și modernitatea capitalei Libreville, aflată chiar peste apele golfului. Importanța sa culturală este imensă pentru comunitatea locală, care îl venerează pe Denis ca pe un protector și un negociator abil care a reușit să mențină pacea într-o epocă de mari schimbări. Vizitarea acestui palat oferă o perspectivă rară asupra modului în care liderii africani au interacționat cu puterile europene în secolul al XIX-lea. Astăzi, situl este integrat într-o zonă de o frumusețe naturală deosebită, rămânând un simbol al suveranității și al memoriei istorice.",
+        "en": "The Palace of King Denis, located on the Pointe-Denis peninsula, is a site of profound historical significance in Gabon. It was the seat of Antchouwé Kowe Rapontchombo, known historically as King Denis, a prominent leader of the Mpongwe people during the 19th century. King Denis is a central figure in Gabonese history for having signed the 1839 treaty with France, which established the French protectorate and eventually led to the founding of modern Gabon. At its peak, the palace area was a vital hub for regional trade and maritime diplomacy, serving as a meeting point for European explorers, naval officers, and local chiefs. Today, the site primarily features the King’s mausoleum and commemorative markers that are preserved as a national monument. For the Mpongwe community, the site remains a spiritual and cultural anchor, symbolizing ancestral authority and the diplomatic wisdom of their former ruler. While Pointe-Denis is now a popular tourist destination for its beaches, the historical core around the king's former residence provides a solemn reminder of the political origins of the nation. Visitors can explore the grounds to understand the pre-colonial governance structures and the complex negotiations that shaped the future of the Ogooué estuary. It is an essential landmark for anyone interested in the colonial encounter and African leadership in the 1800s."
+      },
+      "factsAdvanced": {
+        "de": [
+          "König Denis (Antchouwé Kowe Rapontchombo) herrschte im 19. Jahrhundert.",
+          "Er unterzeichnete 1839 den historischen Schutzvertrag mit Frankreich.",
+          "Die Grabstätte des Königs ist heute ein geschütztes Nationaldenkmal.",
+          "Der Ort liegt auf der Halbinsel Pointe-Denis, gegenüber von Libreville.",
+          "König Denis galt als geschickter Diplomat zwischen Afrika und Europa.",
+          "Die Stätte ist ein wichtiges kulturelles Zentrum für das Mpongwe-Volk."
+        ],
+        "hu": [
+          "Denis király a 19. század egyik legbefolyásosabb mpongwe vezetője volt.",
+          "1839-ben írt alá védelmi szerződést a francia haditengerészettel.",
+          "A helyszínen található az uralkodó tiszteletére emelt mauzóleum.",
+          "A palota romjai a Libreville-lel szemközti Pointe-Denis félszigeten vannak.",
+          "Denis király segített a franciáknak a rabszolga-kereskedelem felszámolásában.",
+          "A terület ma nemzeti emlékhely és fontos kulturális zarándokhely."
+        ],
+        "ro": [
+          "Regele Denis a fost liderul clanului Assiga din cadrul poporului Mpongwe.",
+          "Situl marchează locul unde a fost semnat tratatul franco-gabonez din 1839.",
+          "Mormântul regelui este un obiectiv de pelerinaj istoric și cultural.",
+          "Pointe-Denis a fost numită astfel în onoarea acestui influent suveran.",
+          "A fost decorat de regele francez cu Legiunea de Onoare pentru serviciile sale.",
+          "Situl este considerat leagănul diplomației moderne din Gabon."
+        ],
+        "en": [
+          "King Denis was a powerful 19th-century monarch of the Mpongwe people.",
+          "He signed the landmark 1839 treaty that paved the way for modern Gabon.",
+          "The site contains the historical burial ground of the king and his kin.",
+          "It is located on Pointe-Denis, accessible by boat from Libreville.",
+          "King Denis was known for his role as a bridge between cultures.",
+          "The area is protected as a site of national and cultural heritage."
+        ]
+      }
+    },
+    {
+      "id": "cathedrale-saint-pierre-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kathedrale Saint-Pierre in Libreville ist das religiöse Wahrzeichen der gabunischen Hauptstadt und der Sitz des Erzbischofs. Sie wurde in der Mitte des 20. Jahrhunderts errichtet und steht auf historischem Boden, unweit der Stelle, an der die ersten Missionare in Gabun landeten. Das Äußere der Kathedrale besticht durch seine helle Fassade und die markanten Glockentürme, die weit über das Stadtviertel sichtbar sind. Besonders berühmt ist die Kirche jedoch für ihre kunstvoll geschnitzten Holzportale und die Innenausstattung aus edlen tropischen Hölzern. Diese Schnitzereien wurden von lokalen Künstlern wie Jean-Baptiste Bikoro angefertigt und zeigen eine faszinierende Verbindung von christlicher Ikonografie und traditioneller afrikanischer Ästhetik. Die Kathedrale ist nicht nur ein Ort des Gebets, sondern auch ein Zentrum für kulturelle Veranstaltungen und Konzerte. Während der großen christlichen Feiertage ist sie der Mittelpunkt des öffentlichen Lebens in Libreville, wobei die Gottesdienste durch eindrucksvolle Chöre geprägt sind. Die Architektur der Kathedrale spiegelt den Übergang von der kolonialen Missionsarchitektur zu einer eigenständigen gabunisch-katholischen Identität wider. In den Gärten der Kathedrale finden sich Denkmäler für die Pioniere des Glaubens in Gabun. Für Besucher ist Saint-Pierre ein Ort der Stille inmitten der quirligen Metropole und ein Zeugnis der tiefen Verwurzelung des katholischen Glaubens in der gabunischen Gesellschaft.",
+        "hu": "A Libreville-i Szent Péter-székesegyház (Cathédrale Saint-Pierre) Gabon fővárosának legfontosabb katolikus temploma és az érseki székhely. Az épület a 20. század közepén készült el, és a város egyik kiemelkedő pontján helyezkedik el, emlékeztetve a kereszténység gaboni jelenlétének kezdeteire. A katedrális építészetileg a modern és a neogótikus elemeket ötvözi, fehér homlokzata és karcsú tornyai messziről felismerhetővé teszik. A templom igazi különlegessége a belső térben rejlik: a monumentális, kézzel faragott faajtók és a belső faburkolatok a gaboni kézművesség remekművei. Ezeket a faragásokat Jean-Baptiste Bikoro, híres helyi szobrász készítette, aki a bibliai jeleneteket afrikai stílusjegyekkel és arcvonásokkal ruházta fel. Ez az egyedi vizuális világ jól szemlélteti az európai vallás és a helyi kultúra harmonikus összefonódását. A székesegyház központi szerepet tölt be a nemzeti ünnepek és állami temetések során is. A vasárnapi misék alatt a templom megtelik élettel, a kórusok éneke pedig messze kihallatszik az utcákra. A katedrális melletti parkban több emlékmű is tiszteleg az ország hittérítői előtt. A látogatók számára a Szent Péter-székesegyház nemcsak vallási helyszín, hanem Gabon művészeti örökségének egyik legfontosabb bemutatóhelye is.",
+        "ro": "Catedrala Saint-Pierre din Libreville este inima spirituală a catolicismului din Gabon și sediul arhiepiscopal al capitalei. Situată pe o colină ce oferă o vedere panoramică asupra orașului, catedrala este un reper arhitectural major, construit în secolul al XX-lea. Exteriorul său alb, cu turnuri simetrice, emană o eleganță sobră, însă adevărata bogăție a edificiului se află în detaliile sale artistice. Catedrala este celebră pentru ușile sale masive din lemn, sculptate cu migală de artistul local Jean-Baptiste Bikoro. Aceste opere de artă reprezintă scene biblice interpretate prin prisma esteticii africane, fiind un exemplu remarcabil de inculturație religioasă. Interiorul spațios, decorat cu lemn prețios de esență locală, oferă o atmosferă de reculegere și liniște. Saint-Pierre nu este doar un loc de cult, ci și un spațiu de întâlnire pentru comunitate, găzduind ceremonii de stat și evenimente culturale de importanță națională. Liturghiile desfășurate aici sunt renumite pentru corurile lor vibrante, care îmbină tradiția gregoriană cu ritmurile africane. În curtea catedralei se află statui și plăci comemorative dedicate primilor misionari spiritani care au sosit pe coastele Gabonului în secolul al XIX-lea. Pentru turiști, vizitarea catedralei Saint-Pierre reprezintă o oportunitate de a admira sinteza dintre arta sacră europeană și măiestria tradițională gaboneză.",
+        "en": "Saint-Pierre Cathedral in Libreville is the spiritual heart of the Catholic Church in Gabon and serves as the seat of the Archdiocese. Built in the mid-20th century, the cathedral occupies a prominent position in the capital, symbolizing the long-standing influence of Christianity in the country. While the exterior features a clean, classical design with distinctive twin towers, the interior is where its true cultural treasure lies. The cathedral is renowned for its magnificent hand-carved wooden portals and pulpit, created by the celebrated Gabonese artist Jean-Baptiste Bikoro. These carvings blend traditional African motifs with Christian iconography, showcasing a unique localized expression of the faith. The use of high-quality local timber for the interior decor highlights Gabon's natural resources and artistic heritage. As a central landmark, the cathedral hosts major religious festivals and national state ceremonies, drawing thousands of worshippers. Its choir is famous for integrating African polyphony into the liturgy, creating a powerful spiritual experience. The surrounding grounds include monuments to early missionaries and historical figures of the Gabonese church. For visitors, Saint-Pierre Cathedral offers a peaceful sanctuary from the bustling city and a profound insight into the artistic and religious syncretism that defines modern Gabonese culture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale ist der offizielle Sitz des Erzbischofs von Libreville.",
+          "Berühmt sind die handgeschnitzten Holzportale von Jean-Baptiste Bikoro.",
+          "Die Architektur zeigt eine Mischung aus modernem Stil und afrikanischer Kunst.",
+          "Sie befindet sich im Viertel Petit-Paris im Herzen der Hauptstadt.",
+          "Die Inneneinrichtung besteht überwiegend aus kostbaren lokalen Edelhölzern.",
+          "Die Kirche ist ein zentraler Ort für staatliche Trauerfeiern und Hochzeiten."
+        ],
+        "hu": [
+          "A székesegyház Libreville egyik legmagasabb pontján, a tenger közelében áll.",
+          "A templom kapuit a híres gaboni művész, Jean-Baptiste Bikoro faragta.",
+          "A belső terekben használt trópusi faanyag Gabon erdőgazdagságát jelképezi.",
+          "Ez az ország legfontosabb katolikus vallási és közösségi központja.",
+          "A mise során hallható kórusművek nemzetközi hírűek.",
+          "Az épületet a gyarmati korszak utáni modern egyházi stílus jellemzi."
+        ],
+        "ro": [
+          "Catedrala Saint-Pierre este sediul oficial al Arhiepiscopiei de Libreville.",
+          "Ușile sale sculptate manual sunt considerate capodopere ale artei africane.",
+          "Interiorul este realizat folosind specii de lemn local de înaltă calitate.",
+          "Este situată în centrul orașului, fiind un punct de referință pentru navigație.",
+          "Găzduiește anual cele mai importante ceremonii religioase ale statului.",
+          "Sculpturile integrează trăsături faciale africane în reprezentările biblice."
+        ],
+        "en": [
+          "Saint-Pierre Cathedral is the principal Catholic church in the capital city.",
+          "The intricate wood carvings were made by the local master Jean-Baptiste Bikoro.",
+          "It features a unique architectural blend of Western and Gabonese styles.",
+          "The site is historically linked to the arrival of Spiritan missionaries.",
+          "It is famous for its vibrant liturgical music and large choir performances.",
+          "The cathedral's interior showcases Gabon's excellence in woodworking."
+        ]
+      }
+    },
+    {
+      "id": "memorial-omar-bongo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Memorial für Omar Bongo Ondimba in Franceville ist ein monumentales Bauwerk, das dem langjährigen Präsidenten Gabuns gewidmet ist, der das Land von 1967 bis zu seinem Tod im Jahr 2009 regierte. Der Komplex dient sowohl als Mausoleum als auch als Dokumentationszentrum für die politische Geschichte des Landes. Die Architektur des Memorials ist modern und imposant, geprägt von klaren Linien und einer weitläufigen Parkanlage. Im Inneren befindet sich die Grabstätte des verstorbenen Staatschefs, die ein Ort des nationalen Gedenkens und der Ehrerbietung ist. Das Memorial beherbergt zudem ein Museum, in dem persönliche Gegenstände, diplomatische Geschenke und Fotografien aus der Regierungszeit Bongos ausgestellt sind, die seine Rolle als Vermittler in zahlreichen afrikanischen Konflikten beleuchten. Franceville wurde als Standort gewählt, da es die Heimatregion des Präsidenten ist und unter seiner Führung massiv ausgebaut wurde. Für viele Gabuner symbolisiert das Memorial die Ära der Stabilität und des wirtschaftlichen Aufstiegs durch das Erdölgeschäft. Das Gebäude selbst ist ein architektonisches Statement, das die Macht und den Einfluss des 'Doyen' der afrikanischen Politik unterstreicht. Es ist ein wichtiger Stopp für Besucher der Provinz Haut-Ogooué, die mehr über die politische Identität und die jüngere Zeitgeschichte Gabuns erfahren möchten. Die Anlage wird streng bewacht und für offizielle Gedenkzeremonien genutzt.",
+        "hu": "Az Omar Bongo Ondimba Emlékmű Franceville-ben található, és Gabon második elnökének állít emléket, aki több mint négy évtizeden át (1967–2009) vezette az országot. Az épületegyüttes egyszerre mauzóleum, múzeum és kutatóközpont, amely a „nemzet atyjának” nevezett politikus életművét mutatja be. Az emlékmű építészeti stílusa monumentális és modern, ötvözve a klasszikus formákat a kortárs technikai megoldásokkal. A központi részben található az elnök végső nyughelye, amely fontos zarándokhely a politikai elit és a tisztelők számára. A múzeumi részlegben a látogatók megtekinthetik az elnök diplomáciai ajándékait, kitüntetéseit és archív felvételeit, amelyek bemutatják Gabon nemzetközi szerepvállalását az ő idején. Franceville kiválasztása szimbolikus, hiszen ez volt Bongo szülőföldje, amelyet elnöksége alatt az ország egyik legfejlettebb régiójává varázsolt. Az emlékmű nemcsak egy ember előtt tiszteleg, hanem egy egész korszakot reprezentál, amelyet a stabilitás és az olajbevételekből finanszírozott államépítés jellemzett. Az épület környezete gondosan karbantartott park, amely méltó keretet ad a nemzeti emlékezetnek. A helyszín felkeresése elengedhetetlen Gabon modern politikai történelmének megértéséhez és az Omar Bongo körüli kultusz megismeréséhez.",
+        "ro": "Memorialul Omar Bongo Ondimba din Franceville este un monument de o anvergură impresionantă, ridicat în memoria celui de-al doilea președinte al Gabonului, care a condus țara timp de 41 de ani. Situat în regiunea sa natală, provincia Haut-Ogooué, complexul funerar și muzeal este un simbol al continuității politice și al respectului național. Arhitectura memorialului este marcată de un stil grandios, cu influențe moderne, fiind înconjurat de grădini vaste și spații ceremoniale. Inima complexului este mausoleul unde se odihnește fostul șef de stat, un spațiu de o solemnitate deosebită, placat cu materiale prețioase. Pe lângă funcția sa funerară, memorialul include un centru de documentare și un muzeu ce expune obiecte personale și documente istorice care relatează rolul lui Omar Bongo ca figură centrală în geopolitica africană. Pentru cetățenii gabonezi, acest loc reprezintă o epocă de pace și prosperitate relativă bazată pe resursele de petrol. Memorialul atrage atât delegații oficiale, cât și turiști interesați de istoria politică a continentului. Franceville, datorită acestui monument, a devenit un centru de memorie istorică pentru întreaga regiune. Complexul este utilizat periodic pentru ceremonii oficiale de stat, subliniind moștenirea durabilă a președintelui în structura statului gabonez modern.",
+        "en": "The Omar Bongo Memorial in Franceville is a grand monumental complex dedicated to the memory of Omar Bongo Ondimba, who served as Gabon’s president from 1967 until 2009. This landmark serves as the final resting place of the long-serving leader and acts as a major center for national heritage. The architecture is a blend of neoclassical and modern styles, featuring imposing columns, marble finishes, and a meticulously landscaped park. Within the complex, a dedicated museum houses a vast collection of memorabilia, diplomatic gifts, and historical documents that chronicle Bongo's four-decade-long presidency and his influence as a regional peacemaker in Africa. Franceville was chosen for this honor as it was the president's home region and saw significant development during his tenure. The memorial is more than just a tomb; it is a symbol of the political stability and national unity that Bongo aimed to cultivate throughout his rule. It is a site of official state ceremonies and a place where citizens come to pay their respects to the 'founding father' of the modern Gabonese state. The facility’s scale and grandeur reflect the stature of the man who led Gabon through its post-colonial transition and oil-driven expansion. For visitors, it provides a unique window into the personal life and public legacy of one of Africa’s longest-reigning heads of state."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Memorial ehrt Omar Bongo, der Gabun über 41 Jahre lang regierte.",
+          "Es befindet sich in Franceville, der Hauptstadt der Provinz Haut-Ogooué.",
+          "Die Anlage umfasst das Grabmal des Präsidenten und ein Museum.",
+          "Omar Bongo war zum Zeitpunkt seines Todes der am längsten amtierende Herrscher Afrikas.",
+          "Das Museum zeigt die diplomatische Geschichte Gabuns unter seiner Führung.",
+          "Die Architektur ist von monumentaler Größe und modernem Design geprägt."
+        ],
+        "hu": [
+          "Az emlékmű Omar Bongo Ondimbának, Gabon második elnökének szentelt hely.",
+          "Franceville-ben található, amely az elnök szülővárosa és politikai bázisa volt.",
+          "Az épületkomplexum egyben az elnök végső nyughelye (mauzóleum).",
+          "A múzeum bemutatja Bongo szerepét az afrikai béketeremtő folyamatokban.",
+          "Bongo 1967-től 2009-ig, haláláig töltötte be az elnöki tisztséget.",
+          "Az emlékmű parkja állami ünnepségek és protokolláris események helyszíne."
+        ],
+        "ro": [
+          "Memorialul este situat în Franceville, centrul politic al provinciei Haut-Ogooué.",
+          "Omar Bongo a fost președintele Gabonului între 1967 și 2009.",
+          "Complexul include un muzeu cu daruri diplomatice și obiecte personale.",
+          "Mausoleul este construit din marmură și este păzit permanent de garda de onoare.",
+          "Situl reflectă cultul personalității și importanța istorică a lui Bongo.",
+          "Este un punct de reper major pentru turismul de memorie din Africa Centrală."
+        ],
+        "en": [
+          "The memorial commemorates Omar Bongo, Gabon's president for 41 years.",
+          "It is located in his ancestral home of Franceville in eastern Gabon.",
+          "The site features a museum dedicated to the president's political life.",
+          "Omar Bongo was a key mediator in various African conflicts during his rule.",
+          "The facility is used for major national anniversaries and state visits.",
+          "It is considered the most significant political monument in the interior of Gabon."
+        ]
+      }
+    }
+  ]
+}

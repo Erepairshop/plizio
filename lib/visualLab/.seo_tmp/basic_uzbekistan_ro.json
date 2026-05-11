@@ -1,0 +1,119 @@
+{
+  "lang": "ro",
+  "country": "Uzbekistan",
+  "files": [
+    "lib/visualLab/data/poiExtraUzbekistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fergana-cities-v2",
+      "description": "Fergana este un oraș important din estul Uzbekistanului, situat în Valea Ferghana.",
+      "facts": [
+        "Populație de peste 200.000 locuitori",
+        "Centru industrial și agricol",
+        "Fondat în 1876"
+      ]
+    },
+    {
+      "id": "shahrisabz-cities-v2",
+      "description": "Shahrisabz este un oraș istoric din regiunea Qashqadaryo, renumit ca locul de naștere al lui Timur Lenk.",
+      "facts": [
+        "Inclus în Patrimoniul Mondial UNESCO",
+        "Cunoscut pentru Palatul Ak-Saray",
+        "Fostă capitală în secolul al XIV-lea"
+      ]
+    },
+    {
+      "id": "zarafshan-cities-v2",
+      "description": "Zarafshan este un oraș din regiunea Navoiy, situat în deșertul Kyzylkum.",
+      "facts": [
+        "Numit și capitala aurului din Uzbekistan",
+        "Fondat în 1965",
+        "Centru major de extracție a aurului"
+      ]
+    },
+    {
+      "id": "yangiyul-cities-v2",
+      "description": "Yangiyul este un oraș în regiunea Tașkent, un important centru agricol și industrial.",
+      "facts": [
+        "Situat la aproximativ 30 km de Tașkent",
+        "Cunoscut pentru industria alimentară",
+        "Numele înseamnă \"drum nou\""
+      ]
+    },
+    {
+      "id": "khodjeyli-cities-v2",
+      "description": "Khodjeyli este un oraș în Republica Karakalpakstan, aflat în apropiere de Nukus.",
+      "facts": [
+        "Numele înseamnă \"locul pelerinilor\"",
+        "Cunoscut pentru complexul antic Mizdakhan",
+        "Situat pe râul Amu Darya"
+      ]
+    },
+    {
+      "id": "minor-mosque-landmarks-v2",
+      "description": "Moscheea Minor este una dintre cele mai noi și impresionante moschei din Tașkent.",
+      "facts": [
+        "Deschisă în anul 2014",
+        "Decorată cu marmură albă",
+        "Poate găzdui peste 2.400 de credincioși"
+      ]
+    },
+    {
+      "id": "sitorai-mokhi-khosa-landmarks-v2",
+      "description": "Sitorai Mokhi-Khosa este un palat de vară istoric situat lângă Bukhara.",
+      "facts": [
+        "Fosta reședință a emirilor din Bukhara",
+        "Combină arhitectura orientală cu cea rusă",
+        "Construit la începutul secolului XX"
+      ]
+    },
+    {
+      "id": "siyob-bazaar-landmarks-v2",
+      "description": "Siyob Bazaar este cel mai mare și mai vechi bazar din Samarkand.",
+      "facts": [
+        "Situat lângă Moscheea Bibi-Khanym",
+        "Cunoscut pentru pâinea tradițională",
+        "Piață vibrantă cu produse proaspete și dulciuri"
+      ]
+    },
+    {
+      "id": "afrosiyob-museum-landmarks-v2",
+      "description": "Muzeul Afrosiyob este dedicat istoriei antice a orașului Samarkand.",
+      "facts": [
+        "Situat pe situl arheologic Afrosiyob",
+        "Găzduiește fresce antice sogdiene",
+        "Prezintă istoria din secolul VIII î.Hr."
+      ]
+    },
+    {
+      "id": "kalta-minor-landmarks-v2",
+      "description": "Kalta Minor este un minaret faimos și neterminat din orașul antic Khiva.",
+      "facts": [
+        "Acoperit complet cu plăci ceramice turcoaz",
+        "Construcția a început în 1851",
+        "Are o înălțime de 29 de metri"
+      ]
+    },
+    {
+      "id": "savitsky-art-museum-landmarks-v2",
+      "description": "Muzeul de Artă Savitsky din Nukus găzduiește una dintre cele mai importante colecții de artă de avangardă rusă.",
+      "facts": [
+        "Cunoscut sub numele de \"Luvrul deșertului\"",
+        "Peste 82.000 de piese expuse",
+        "Fondat în 1966 de Igor Savitsky"
+      ]
+    },
+    {
+      "id": "kyzylkum-desert-relief-v2",
+      "description": "Deșertul Kyzylkum este al 15-lea deșert ca mărime din lume, întinzându-se între râurile Amu Darya și Syr Darya.",
+      "facts": [
+        "Numele înseamnă \"nisip roșu\"",
+        "Acoperă aproximativ 298.000 km²",
+        "Bogat în zăcăminte de aur și gaze naturale"
+      ]
+    }
+  ]
+}

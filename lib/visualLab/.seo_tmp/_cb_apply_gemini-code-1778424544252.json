@@ -1,0 +1,480 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "laurentian-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Laurentinischen Berge (Laurentian Mountains), die sich primär in der kanadischen Provinz Quebec befinden, repräsentieren eines der erdgeschichtlich ältesten Gebirgssysteme der Erde. Geologisch bestehen sie aus präkambrischen magmatischen und metamorphen Gesteinen, die über 540 Millionen Jahre auf die Grenville-Orogenese (Gebirgsbildung) zurückgehen. Über Hunderte von Millionen Jahren wurden diese einst gewaltigen Gipfel durch mehrfache massive Vergletscherungen aggressiv abgetragen und zu ihrem heutigen abgerundeten, dicht bewaldeten Profil geformt. Die Gebirgskette bedeckt eine riesige Fläche des Kanadischen Schilds, die sich unmittelbar nördlich des Sankt-Lorenz-Stroms erstreckt und in Richtung des Saguenay River verläuft. Die Landschaft ist stark durch tiefe eiszeitliche U-Täler, unzählige Süßwasserseen und dichte Übergangswälder gekennzeichnet. Diese Wälder mischen südliche Laubbäume wie Zuckerahorn und Gelbbirke mit nördlichen borealen Nadelbäumen wie Schwarzfichte und Balsamtanne. Der höchste Gipfel innerhalb der Kette ist der Mont Raoul Blanchard mit 1.166 Metern. Die Region ist ein hochgradig wichtiges Zentrum für die Forstwirtschaft und den industriellen Bergbau, insbesondere für die Titan- und Eisenerzgewinnung. In der Moderne wurden die südlichen Abschnitte der Laurentiden intensiv für die ganzjährige Erholung erschlossen. Die Region fungiert zudem als ein massives Wassereinzugsgebiet, das zahlreiche große Wasserkraftwerke in Quebec mit der notwendigen Wasserenergie versorgt.",
+        "hu": "A Laurentiai-hegység (Laurentian Mountains), amely elsősorban a kanadai Quebec tartományban található, a Föld egyik legősibb hegységrendszerét képviseli. Geológiailag prekambriumi magmás és metamorf kőzetekből épül fel, amelyek több mint 540 millió évre, a Grenville-orogenézis (hegyképződés) idejére nyúlnak vissza. Több százmillió év alatt ezeket az egykor hatalmas csúcsokat a többszörös masszív eljegesedések agresszívan lekoptatták, és a jelenlegi lekerekített, sűrűn erdősült profiljukra formálták. A hegylánc a Kanadai-pajzs hatalmas területét fedi le, amely közvetlenül a Szent Lőrinc-folyótól északra helyezkedik el, és a Saguenay-folyó irányába húzódik. A tájat erősen jellemzik a mély, jégkorszaki U-völgyek, a számtalan édesvizű tó és a sűrű átmeneti erdők. Ezek az erdők a déli lombhullató fákat, például a cukorjuhart és a sárga nyírt, az északi boreális tűlevelűekkel, például a fekete lucfenyővel és a balzsamfenyővel ötvözik. A lánc legmagasabb csúcsa a Mont Raoul Blanchard 1166 méterrel. A régió az erdészet és az ipari bányászat, különösen a titán- és vasérckitermelés kiemelten fontos központja. A modern korban a Laurentiai-hegység déli szakaszait intenzíven fejlesztették az egész éves rekreáció céljából. A régió emellett hatalmas vízgyűjtő területként is funkcionál, amely számos quebeci nagy vízerőművet lát el a szükséges vízenergiával.",
+        "ro": "Munții Laurențieni (Laurentian Mountains), situați în principal în provincia canadiană Quebec, reprezintă unul dintre cele mai vechi sisteme muntoase de pe Pământ. Din punct de vedere geologic, aceștia sunt formați din roci magmatice și metamorfice precambriene, care datează de peste 540 de milioane de ani, din timpul orogenezei Grenville. De-a lungul a sute de milioane de ani, aceste vârfuri odată uriașe au fost erodate agresiv de multiple glaciațiuni masive, reducându-le la profilul lor actual rotunjit și dens împădurit. Lanțul muntos acoperă o zonă masivă a Scutului Canadian, situată imediat la nord de râul Sfântul Laurențiu și extinzându-se spre râul Saguenay. Peisajul este puternic caracterizat de văi glaciare adânci, nenumărate lacuri de apă dulce și păduri de tranziție dense care amestecă arbori foioși din sud, cum ar fi arțarul de zahăr și mesteacănul galben, cu conifere boreale din nord, cum ar fi molidul negru și bradul balsamic. Cel mai înalt vârf din cadrul lanțului este Mont Raoul Blanchard la 1.166 de metri. Regiunea este un centru extrem de important pentru industria forestieră și extracția mineralelor industriale, în special titan și minereu de fier. În epoca modernă, secțiunile sudice ale Laurențienilor au fost dezvoltate intens pentru recreere pe tot parcursul anului. Regiunea funcționează, de asemenea, ca un bazin hidrografic masiv, furnizând apă pentru numeroase stații mari de generare hidroelectrică din Quebec.",
+        "en": "The Laurentian Mountains, situated primarily in the Canadian province of Quebec, represent one of the oldest mountain ranges on Earth. Geologically, they are formed from Precambrian igneous and metamorphic rocks that date back over 540 million years to the Grenville orogeny. Over hundreds of millions of years, these once-towering peaks were aggressively eroded by multiple glaciations, reducing them to their current rounded, heavily forested profile. The mountain range covers a massive area of the Canadian Shield, located immediately north of the St. Lawrence River and extending towards the Saguenay River. The landscape is heavily characterized by deep glacial valleys, countless freshwater lakes, and dense transitional forests that blend southern deciduous trees, such as sugar maples and yellow birches, with northern boreal conifers like black spruce and balsam fir. The highest peak within the range is Mont Raoul Blanchard at 1,166 meters, though Mont Tremblant is the most economically significant. The region is a major hub for the forestry industry and mineral extraction, particularly titanium and iron ore. In the modern era, the southern sections of the Laurentians have been extensively developed for year-round recreation, serving as a primary destination for skiing and hiking. The region acts as a massive watershed, supplying numerous hydroelectric generating stations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Laurentinischen Berge gehören geologisch zu den ältesten Gebirgen der Erde.",
+          "Das Gestein entstand vor über 540 Millionen Jahren während der Grenville-Orogenese.",
+          "Der höchste Berg der Kette ist der Mont Raoul Blanchard mit exakt 1.166 Metern.",
+          "Massive Eiszeitgletscher schliffen die ursprünglich spitzen Berge zu abgerundeten Kuppen.",
+          "Die Wälder sind eine Übergangszone zwischen südlichen Laubbäumen und nördlichen Nadelbäumen.",
+          "Die Region ist ein wirtschaftliches Zentrum für den industriellen Abbau von Titan und Eisen.",
+          "Flusssysteme der Berge speisen große hydroelektrische Kraftwerke in Quebec."
+        ],
+        "hu": [
+          "A Laurentiai-hegység geológiailag a Föld egyik legősibb hegysége.",
+          "A kőzet több mint 540 millió évvel ezelőtt, a Grenville-orogenézis során keletkezett.",
+          "A hegylánc legmagasabb pontja a pontosan 1166 méter magas Mont Raoul Blanchard.",
+          "A masszív jégkorszaki gleccserek az eredetileg hegyes csúcsokat lekerekített kupolákká csiszolták.",
+          "Az erdők átmeneti zónát képeznek a déli lombhullató és az északi tűlevelű fák között.",
+          "A régió a titán és a vas ipari kitermelésének egyik fontos gazdasági központja.",
+          "A hegyvidéki folyórendszerek hatalmas quebeci vízerőműveket táplálnak."
+        ],
+        "ro": [
+          "Munții Laurențieni aparțin geologic de unii dintre cei mai vechi munți de pe Pământ.",
+          "Roca s-a format în urmă cu peste 540 de milioane de ani în timpul orogenezei Grenville.",
+          "Cel mai înalt munte din lanț este Mont Raoul Blanchard cu exact 1.166 de metri.",
+          "Ghețarii masivi din era glaciară au șlefuit munții inițial ascuțiți în domuri rotunjite.",
+          "Pădurile sunt o zonă de tranziție între copacii foioși din sud și coniferele din nord.",
+          "Regiunea este un centru economic pentru extracția industrială a titanului și a fierului.",
+          "Sistemele fluviale din munți alimentează mari hidrocentrale din Quebec."
+        ],
+        "en": [
+          "The Laurentian Mountains rank geologically among the oldest mountain ranges on the planet.",
+          "The bedrock was formed over 540 million years ago during the Grenville orogeny event.",
+          "The highest peak in the entire chain is Mont Raoul Blanchard at precisely 1,166 meters.",
+          "Massive Ice Age glaciers aggressively ground the originally sharp peaks into rounded domes.",
+          "The regional forests act as a transition zone blending southern deciduous and northern coniferous trees.",
+          "The area operates as a massive economic center for the industrial extraction of titanium and iron ore.",
+          "River systems flowing from the mountains actively feed large hydroelectric power stations in Quebec."
+        ]
+      }
+    },
+    {
+      "id": "columbia-icefield-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Columbia-Eisfeld (Columbia Icefield) ist die größte nicht-polare Eismasse in den Rocky Mountains Nordamerikas und erstreckt sich direkt über die kontinentale Wasserscheide entlang der Grenze zwischen British Columbia und Alberta. Das Eisfeld umfasst eine riesige Fläche von etwa 325 Quadratkilometern und ruht auf einem hochalpinen Felsplateau in einer durchschnittlichen Höhe von 3.000 Metern. Das massive Gletschereis erreicht an einigen Stellen gemessene Tiefen von bis zu 365 Metern. Als ein hochgradig kritischer hydrologischer Scheitelpunkt speist das schmelzende Eis des Eisfelds Flusssysteme, die in drei verschiedene Ozeane entwässern: den Pazifik (via Columbia River), den Arktischen Ozean (via Athabasca und Mackenzie River) und den Atlantik (via Saskatchewan River bis zur Hudson Bay). Das Eisfeld ist von einigen der absolut höchsten Gipfel der kanadischen Rocky Mountains umgeben, darunter Mount Columbia (3.747 Meter) und Mount Athabasca. Die Eismasse umfasst sechs große Auslassgletscher, von denen der Athabasca-Gletscher am zugänglichsten ist, da seine Gletscherzunge direkt in der Nähe des Icefields Parkway endet. Aufgrund des globalen Klimawandels hat sich der Athabasca-Gletscher in den letzten 125 Jahren massiv um über 1,5 Kilometer zurückgezogen und gut die Hälfte seines Volumens verloren. Das Grundgestein unter dem dicken Eis besteht überwiegend aus paläozoischem Kalkstein und Dolomit. Das Eisfeld beeinflusst die lokalen Wettermuster extrem stark und erzeugt ein eigenes Mikroklima, das durch schwere katabatische Fallwinde gekennzeichnet ist.",
+        "hu": "A Columbia-jégmező (Columbia Icefield) a legnagyobb nem sarki jégtömeg az észak-amerikai Sziklás-hegységben, és közvetlenül a kontinentális vízválasztón húzódik Brit Columbia és Alberta határa mentén. A jégmező egy hatalmas, mintegy 325 négyzetkilométeres területet ölel fel, és egy magashegyi sziklafennsíkon nyugszik, átlagosan 3000 méteres magasságban. A masszív gleccserjég helyenként eléri az akár 365 méteres mért mélységet is. Rendkívül kritikus hidrológiai csomópontként a jégmező olvadó jege olyan folyórendszereket táplál, amelyek három különböző óceánba ömlenek: a Csendes-óceánba (a Columbia-folyón keresztül), a Jeges-tengerbe (az Athabasca- és Mackenzie-folyókon keresztül) és az Atlanti-óceánba (a Saskatchewan-folyón keresztül a Hudson-öbölbe). A jégmezőt a kanadai Sziklás-hegység abszolút legmagasabb csúcsai veszik körül, köztük a Mount Columbia (3747 méter) és a Mount Athabasca. A jégtömeg hat nagy kivezető gleccserből áll, amelyek közül az Athabasca-gleccser a legkönnyebben megközelíthető, mivel jégnyelve közvetlenül az Icefields Parkway közelében ér véget. A globális éghajlatváltozás miatt az Athabasca-gleccser az elmúlt 125 évben masszívan, több mint 1,5 kilométert húzódott vissza, és elvesztette térfogatának jó felét. A vastag jég alatti alapkőzet túlnyomórészt paleozoikumi mészkőből és dolomitból áll. A jégmező rendkívül erősen befolyásolja a helyi időjárási mintákat, és saját mikroklímát hoz létre, amelyet heves katabatikus bukószelek jellemeznek.",
+        "ro": "Câmpul de gheață Columbia (Columbia Icefield) este cea mai mare masă de gheață non-polară din Munții Stâncoși ai Americii de Nord și se întinde direct peste cumpăna apelor continentale de-a lungul graniței dintre Columbia Britanică și Alberta. Câmpul de gheață acoperă o suprafață uriașă de aproximativ 325 de kilometri pătrați și se sprijină pe un platou stâncos alpin înalt, la o altitudine medie de 3.000 de metri. Gheața glaciară masivă atinge în unele locuri adâncimi măsurate de până la 365 de metri. Ca un apex hidrologic extrem de critic, gheața care se topește din câmpul de gheață alimentează sisteme fluviale care se scurg în trei oceane diferite: Pacific (via râul Columbia), Oceanul Arctic (via râurile Athabasca și Mackenzie) și Atlantic (via râul Saskatchewan până în Golful Hudson). Câmpul de gheață este înconjurat de unele dintre cele mai înalte vârfuri absolute din Munții Stâncoși canadieni, inclusiv Mount Columbia (3.747 de metri) și Mount Athabasca. Masa de gheață cuprinde șase mari ghețari de scurgere, cel mai accesibil fiind ghețarul Athabasca, deoarece limba sa glaciară se termină chiar în apropiere de Icefields Parkway. Din cauza schimbărilor climatice globale, ghețarul Athabasca s-a retras masiv cu peste 1,5 kilometri în ultimii 125 de ani și a pierdut mai mult de jumătate din volumul său. Roca de bază de sub gheața groasă constă predominant din calcar și dolomit din Paleozoic. Câmpul de gheață influențează extrem de puternic modelele meteorologice locale, generând propriul său microclimat caracterizat de vânturi catabatice severe.",
+        "en": "The Columbia Icefield is the largest non-polar ice mass in the North American Rocky Mountains, straddling the Continental Divide along the border of British Columbia and Alberta. Covering an expansive area of approximately 325 square kilometers, the icefield rests on a high alpine plateau with an average elevation of 3,000 meters. The ice reaches measured depths of up to 365 meters. As a highly critical hydrological apex, the icefield feeds river systems that drain into three different oceans: the Pacific (via the Columbia River), the Arctic (via the Athabasca and Mackenzie Rivers), and the Atlantic (via the Saskatchewan River to Hudson Bay). The icefield is surrounded by some of the highest peaks in the Canadian Rockies, including Mount Columbia (3,747 meters) and Mount Athabasca. It comprises six major outlet glaciers, the most accessible being the Athabasca Glacier, which terminates near the Icefields Parkway. Due to global climate change, the Athabasca Glacier has retreated by over 1.5 kilometers and lost half of its volume over the past 125 years. The bedrock beneath the ice consists predominantly of Paleozoic limestone and dolomite. The icefield heavily influences local weather patterns, generating its own microclimate characterized by severe katabatic winds."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Eisfeld umfasst eine gewaltige Fläche von rund 325 Quadratkilometern.",
+          "Das Schmelzwasser fließt geologisch bedingt in den Pazifik, Arktik und Atlantik ab.",
+          "An der dicksten Stelle misst das solide Gletschereis exakt 365 Meter Tiefe.",
+          "Der Athabasca-Gletscher hat in 125 Jahren mehr als 1,5 Kilometer an Länge verloren.",
+          "Sechs massive Auslassgletscher fließen von dem zentralen Eisplateau in die Täler.",
+          "Das unterliegende Grundgestein besteht massiv aus paläozoischem Kalkstein und Dolomit.",
+          "Die gigantische Kältemasse des Eises erzeugt schwere, nach unten fallende katabatische Winde."
+        ],
+        "hu": [
+          "A jégmező egy masszív, mintegy 325 négyzetkilométeres területet ölel fel.",
+          "Az olvadékvíz geológiai okokból a Csendes-, a Jeges- és az Atlanti-óceánba folyik le.",
+          "A legvastagabb pontján a szilárd gleccserjég mélysége pontosan 365 méter.",
+          "Az Athabasca-gleccser hossza 125 év alatt több mint 1,5 kilométerrel csökkent.",
+          "A központi jégfennsíkról hat masszív kivezető gleccser áramlik le a völgyekbe.",
+          "A mélyben fekvő alapkőzet túlnyomórészt paleozoikumi mészkőből és dolomitból áll.",
+          "A jég gigantikus hidegtömege erős, lefelé áramló katabatikus szeleket hoz létre."
+        ],
+        "ro": [
+          "Câmpul de gheață acoperă o suprafață uriașă de aproximativ 325 de kilometri pătrați.",
+          "Din punct de vedere geologic, apa de topire se scurge în Pacific, Arctic și Atlantic.",
+          "În cel mai gros punct, gheața glaciară solidă măsoară exact 365 de metri adâncime.",
+          "Ghețarul Athabasca a pierdut mai mult de 1,5 kilometri în lungime în 125 de ani.",
+          "Șase ghețari masivi de scurgere curg de pe platoul central de gheață în văi.",
+          "Roca de bază subiacentă este formată masiv din calcar și dolomit paleozoic.",
+          "Masa gigantică de frig a gheții generează vânturi catabatice descendente severe."
+        ],
+        "en": [
+          "The icefield covers a massive physical surface area of approximately 325 square kilometers.",
+          "Geological alignment causes the meltwater to drain into the Pacific, Arctic, and Atlantic oceans.",
+          "At its absolute thickest point, the solid glacial ice measures exactly 365 meters deep.",
+          "The Athabasca Glacier has aggressively retreated by over 1.5 kilometers in just 125 years.",
+          "Six massive outlet glaciers flow physically downward from the central high alpine ice plateau.",
+          "The underlying bedrock is massively composed of Paleozoic sedimentary limestone and dolomite.",
+          "The gigantic thermal mass of the ice explicitly generates severe, downward-flowing katabatic winds."
+        ]
+      }
+    },
+    {
+      "id": "mackenzie-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Mackenzie Mountains bilden eine massive, stark zerklüftete Gebirgskette im Norden Kanadas, die die natürliche Grenze zwischen dem Yukon-Territorium und den Nordwest-Territorien etabliert. Diese Berge dienen als nördliche Verlängerung der Rocky Mountains und bestehen hauptsächlich aus stark aufgefalteten Sedimentgesteinen, insbesondere Kalkstein, Dolomit und Schiefer, die während des Paläozoikums abgelagert wurden. Im deutlichen Gegensatz zu vielen anderen Gebirgssystemen in Kanada blieben erhebliche Teile der Mackenzie Mountains während der pleistozänen Kaltzeit komplett unvergletschert, wodurch einzigartige geologische Strukturen und spezifische endemische Pflanzenarten erhalten blieben. Der absolut höchste Punkt der Kette ist der Keele Peak mit 2.972 Metern, dicht gefolgt vom Mount Nirvana mit 2.773 Metern. Die Region zeichnet sich durch extrem tiefe, schmale Flusscanyons aus, wie sie im Nahanni National Park Reserve zu finden sind, sowie durch weite alpine Tundra-Landschaften. Aufgrund ihrer extremen nördlichen Breite und geografischen Isolation fehlt der Kette jegliche permanente Straßeninfrastruktur, abgesehen von der saisonalen Canol Road, die historisch für den Rohstoffzugang gebaut wurde. Das Gebiet enthält massive, größtenteils unerschlossene Mineralreserven, darunter eine der weltweit größten bekannten Wolframlagerstätten in der Cantung Mine. Die völlig unberührte Umwelt bietet zudem einen kritischen Lebensraum für Dall-Schafe, Waldkaribus und Grizzlybären.",
+        "hu": "A Mackenzie-hegység (Mackenzie Mountains) egy masszív, erősen tagolt hegylánc Észak-Kanadában, amely természetes határt képez a Yukon terület és az Északnyugati Területek között. Ezek a hegyek a Sziklás-hegység északi meghosszabbításaként szolgálnak, és főként erősen felgyűrt üledékes kőzetekből, különösen mészkőből, dolomitból és palából állnak, amelyek a paleozoikum idején rakódtak le. Sok más kanadai hegységrendszertől élesen eltérően a Mackenzie-hegység jelentős részei a pleisztocén jégkorszak alatt teljesen jégmentesek maradtak, aminek köszönhetően egyedi geológiai struktúrák és specifikus endemikus növényfajok maradtak fenn. A lánc abszolút legmagasabb pontja a 2972 méteres Keele Peak, amelyet szorosan követ a 2773 méteres Mount Nirvana. A régiót rendkívül mély, keskeny folyókanyonok – amilyenek a Nahanni Nemzeti Park Rezervátumban is találhatók –, valamint kiterjedt alpesi tundra tájak jellemzik. Extrém északi szélessége és földrajzi elszigeteltsége miatt a láncból hiányzik mindenféle állandó közúti infrastruktúra, kivéve a szezonális Canol Roadot, amelyet történelmileg a nyersanyagok eléréséhez építettek. A terület hatalmas, nagyrészt kiaknázatlan ásványianyag-készleteket rejt, köztük a világ egyik legnagyobb ismert volfrámlelőhelyét a Cantung bányában. A teljesen érintetlen környezet kritikus élőhelyet biztosít a Dall-juhok, az erdei karibuk és a grizzly medvék számára.",
+        "ro": "Munții Mackenzie formează un lanț muntos masiv și puternic accidentat în nordul Canadei, stabilind granița naturală dintre Teritoriul Yukon și Teritoriile de Nord-Vest. Acești munți servesc drept prelungire nordică a Munților Stâncoși și constau în principal din roci sedimentare puternic cutate, în special calcar, dolomit și șisturi, care au fost depozitate în timpul Paleozoicului. În contrast puternic cu multe alte sisteme muntoase din Canada, porțiuni semnificative ale Munților Mackenzie au rămas complet neatinse de ghețari în timpul glaciațiunii din Pleistocen, păstrând astfel structuri geologice unice și specii de plante endemice specifice. Punctul absolut cel mai înalt al lanțului este Keele Peak cu 2.972 de metri, urmat îndeaproape de Mount Nirvana cu 2.773 de metri. Regiunea este caracterizată de canioane fluviale extrem de adânci și înguste, cum ar fi cele găsite în Rezervația Parcului Național Nahanni, precum și de vaste peisaje de tundră alpină. Datorită latitudinii sale nordice extreme și a izolării geografice, lanțului îi lipsește orice infrastructură rutieră permanentă, cu excepția drumului sezonier Canol Road, construit istoric pentru accesul la resurse. Zona conține rezerve masive, în mare parte neexploatate, de minerale, inclusiv unul dintre cele mai mari zăcăminte cunoscute de tungsten din lume la Mina Cantung. Mediul complet virgin oferă, de asemenea, un habitat critic pentru oile Dall, caribul de pădure și urșii grizzly.",
+        "en": "The Mackenzie Mountains form a massive, rugged mountain range in northern Canada, establishing the natural boundary between the Yukon Territory and the Northwest Territories. Serving as the northern continuation of the Rocky Mountains, the range consists primarily of uplifted sedimentary rocks, specifically limestone, dolomite, and shale, formed during the Paleozoic era. Unlike many other mountain systems in Canada, significant portions of the Mackenzie Mountains remained completely unglaciated during the Pleistocene epoch, preserving unique geological structures and specific endemic plant species. The absolute highest point in the range is Keele Peak, standing at 2,972 meters, followed closely by Mount Nirvana at 2,773 meters. The region is characterized by deep, narrow river canyons, such as those found in the Nahanni National Park Reserve, and expansive alpine tundra environments. Due to its extreme northern latitude and geographic isolation, the range lacks any permanent road infrastructure, aside from the highly seasonal Canol Road constructed for mining access. The area contains massive, largely untapped mineral reserves, including one of the world's largest known tungsten deposits at the Cantung Mine. The environment provides critical habitat for Dall sheep, woodland caribou, and grizzly bears."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Berge bilden die physische Grenze zwischen dem Yukon und den Nordwest-Territorien.",
+          "Große Teile des Gebirges blieben in der Eiszeit von riesigen Kontinentalgletschern verschont.",
+          "Das Gestein besteht massiv aus gehobenem paläozoischem Kalkstein und Schiefer.",
+          "Der absolut höchste Gipfel der isolierten Kette ist der 2.972 Meter hohe Keele Peak.",
+          "Eine der weltweit größten Wolfram-Lagerstätten befindet sich in der Cantung Mine.",
+          "Abgesehen von der saisonalen Canol Road gibt es keinerlei befestigte Straßen.",
+          "Die rauen Berge bieten den extrem seltenen Dall-Schafen einen idealen Lebensraum."
+        ],
+        "hu": [
+          "A hegység fizikai határt képez a Yukon terület és az Északnyugati Területek között.",
+          "A hegység nagy részeit megkímélték a hatalmas kontinentális gleccserek a jégkorszakban.",
+          "A kőzet masszívan felemelkedett paleozoikumi mészkőből és palából áll.",
+          "Az elszigetelt hegylánc abszolút legmagasabb csúcsa a 2972 méter magas Keele Peak.",
+          "A világ egyik legnagyobb volfrámlelőhelye a hegyekben található Cantung bányában van.",
+          "A szezonális Canol Roadot leszámítva nincsenek burkolt utak a régióban.",
+          "A zord hegyek ideális élőhelyet biztosítanak a rendkívül ritka Dall-juhok számára."
+        ],
+        "ro": [
+          "Munții formează granița fizică dintre Yukon și Teritoriile de Nord-Vest.",
+          "Părți mari ale munților au fost ocolite de ghețarii continentali masivi în timpul erei glaciare.",
+          "Roca constă masiv din calcar și șist paleozoic ridicat.",
+          "Cel mai înalt vârf absolut al lanțului izolat este Keele Peak, la 2.972 de metri.",
+          "Unul dintre cele mai mari zăcăminte de tungsten din lume se află în Mina Cantung.",
+          "În afară de drumul sezonier Canol Road, nu există deloc drumuri pavate.",
+          "Munții aspri oferă un habitat ideal pentru speciile extrem de rare de oi Dall."
+        ],
+        "en": [
+          "The mountains establish the physical boundary separating the Yukon and Northwest Territories.",
+          "Large sections of the range remained completely untouched by continental glaciers during the Ice Age.",
+          "The bedrock consists massively of highly uplifted Paleozoic limestone and shale.",
+          "The absolute highest peak in the completely isolated chain is Keele Peak at 2,972 meters.",
+          "One of the largest global tungsten deposits is actively located at the Cantung Mine.",
+          "Excluding the highly seasonal Canol Road, there is absolutely zero paved road infrastructure.",
+          "The rugged mountains provide perfectly suited habitat for the extremely rare Dall sheep."
+        ]
+      }
+    },
+    {
+      "id": "torngat-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Torngat Mountains sind eine extrem abgelegene und stark zerklüftete Gebirgskette auf der Labrador-Halbinsel, die die physische Grenze zwischen der Provinz Neufundland und Labrador und der Region Nunavik in Quebec bildet. Diese Berge sind die absolut höchsten auf dem kanadischen Festland östlich der Rocky Mountains, wobei der Mount Caubvick eine Gipfelhöhe von 1.652 Metern erreicht. Geologisch betrachtet sind die Torngat Mountains eine direkte Verlängerung des uralten Kanadischen Schilds, bestehend aus extrem hartem präkambrischen Gneis und Granit, die über 3,9 Milliarden Jahre alt sind, was sie zu einigen der ältesten freiliegenden Gesteine der Erde macht. Die Topografie wird aggressiv von tiefen, steilwandigen Fjorden dominiert, die durch massive eiszeitliche Gletscher in den Fels gefräst wurden und direkt vom Atlantischen Ozean tief in die Berge schneiden. Das regionale Klima ist streng arktisch und verhindert jegliches Baumwachstum; die Landschaft wird ausschließlich von niederer arktischer Tundra-Flora geprägt. Der Name „Torngat“ leitet sich von dem Inuktitut-Wort „Torngait“ ab, das sich auf den Ort bezieht, an dem die Geister der Natur verweilen. Die Region ist in der Neuzeit von dauerhaften Siedlungen völlig unbewohnt, wird aber seit Jahrtausenden von den Inuit für die saisonale Jagd auf Eisbären und Karibus genutzt. Das Gebiet steht durch den Torngat Mountains National Park unter strengem Naturschutz.",
+        "hu": "A Torngat-hegység (Torngat Mountains) egy rendkívül távoli és erősen tagolt hegylánc a Labrador-félszigeten, amely fizikai határt képez Új-Fundland és Labrador tartomány, valamint a quebeci Nunavik régió között. Ezek a hegyek az abszolút legmagasabbak a kanadai szárazföldön a Sziklás-hegységtől keletre, ahol a Mount Caubvick eléri az 1652 méteres csúcsmagasságot. Geológiai szempontból a Torngat-hegység az ősi Kanadai-pajzs közvetlen meghosszabbítása, amely több mint 3,9 milliárd éves, rendkívül kemény prekambriumi gneiszből és gránitból áll, így ezek a Föld legrégebbi felszíni kőzetei közé tartoznak. A topográfiát agresszíven uralják a mély, meredek falú fjordok, amelyeket a masszív jégkorszaki gleccserek vájtak a sziklába, és közvetlenül az Atlanti-óceánból vágnak mélyen a hegyekbe. A regionális éghajlat szigorúan sarkvidéki, és minden fatermelést megakadályoz; a tájat kizárólag az alacsony arktikus tundra növényvilág jellemzi. A „Torngat” név az inuktitut „Torngait” szóból származik, amely arra a helyre utal, ahol a természet szellemei lakoznak. A régió a modern korban teljesen lakatlan állandó települések tekintetében, de az inuitok évezredek óta használják a jegesmedvék és karibuk szezonális vadászatára. A területet a Torngat Mountains Nemzeti Park révén szigorú természetvédelem alatt áll.",
+        "ro": "Munții Torngat sunt un lanț muntos extrem de izolat și puternic accidentat de pe Peninsula Labrador, care formează granița fizică dintre provincia Newfoundland și Labrador și regiunea Nunavik din Quebec. Acești munți sunt absolut cei mai înalți de pe continentul canadian, la est de Munții Stâncoși, Muntele Caubvick atingând o altitudine a vârfului de 1.652 de metri. Geologic, Munții Torngat sunt o extensie directă a vechiului Scut Canadian, constând dintr-un gnais și granit precambrian extrem de dur, vechi de peste 3,9 miliarde de ani, ceea ce le face unele dintre cele mai vechi roci expuse de pe Pământ. Topografia este dominată agresiv de fiorduri adânci, cu pereți abrupți, sculptate în stâncă de ghețarii masivi ai erei glaciare, tăind direct din Oceanul Atlantic adânc în munți. Climatul regional este strict arctic, prevenind complet creșterea copacilor; peisajul este dominat exclusiv de flora de tundră arctică joasă. Numele „Torngat” derivă din cuvântul Inuktitut „Torngait”, care se referă la locul unde rezidă spiritele naturii. Regiunea a fost complet nelocuită de așezări permanente în timpurile moderne, dar a fost folosită de milenii de către inuiți pentru vânătoarea sezonieră de urși polari și caribu. Zona este strict protejată prin Parcul Național Munții Torngat.",
+        "en": "The Torngat Mountains are a highly remote and deeply rugged mountain range situated on the Labrador Peninsula, forming the physical border between the province of Newfoundland and Labrador and the Nunavik region of Quebec. These mountains are the absolute highest in continental Canada east of the Rocky Mountains, with Mount Caubvick reaching a peak elevation of 1,652 meters. Geologically, the Torngat Mountains are an extension of the ancient Canadian Shield, composed of extremely hard Precambrian gneiss and granite that are over 3.9 billion years old, making them some of the oldest exposed rocks on Earth. The topography is aggressively defined by deep, sheer-walled fjords carved by massive Ice Age glaciers that cut directly from the Atlantic Ocean deep into the mountains. The regional climate is strictly Arctic, entirely preventing the growth of trees; the landscape is dominated exclusively by low-lying Arctic tundra flora. The name \"Torngat\" derives from the Inuktitut word \"Torngait,\" referring to the location where guiding spirits reside. The region has been entirely uninhabited by permanent settlements in modern times, though it has been used for millennia by the Inuit for seasonal hunting of polar bears and caribou. The area is completely protected by the Torngat Mountains National Park."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Berge sind die absolut höchsten Gipfel Kanadas östlich der fernen Rocky Mountains.",
+          "Mit exakt 1.652 Metern bildet Mount Caubvick den höchsten Punkt der Kette.",
+          "Das metamorphe Gestein ist extrem alt und wird auf 3,9 Milliarden Jahre datiert.",
+          "Tiefe, gletschergeformte Fjorde schneiden vom offenen Atlantik direkt in das Gebirge.",
+          "Das harsche, arktische Klima erlaubt dort absolut keinerlei Baumwachstum.",
+          "Der indigene Name 'Torngait' bedeutet wörtlich der 'Ort der spirituellen Geister'.",
+          "Die Inuit nutzen die unbesiedelte Bergregion traditionell zur Jagd auf Polarbären."
+        ],
+        "hu": [
+          "Ezek a hegyek az abszolút legmagasabb csúcsok Kanadában a távoli Sziklás-hegységtől keletre.",
+          "A pontosan 1652 méter magas Mount Caubvick a hegylánc legmagasabb pontja.",
+          "A metamorf kőzet rendkívül ősi, korát több mint 3,9 milliárd évre becsülik.",
+          "Mély, gleccserek által formált fjordok vágnak be közvetlenül a nyílt Atlanti-óceán felől.",
+          "A zord, sarkvidéki éghajlat abszolút semmilyen fatermelést nem tesz ott lehetővé.",
+          "Az őslakos 'Torngait' név szó szerinti fordítása: 'A spirituális szellemek helye'.",
+          "Az inuitok hagyományosan jegesmedve-vadászatra használják a lakatlan hegyvidéket."
+        ],
+        "ro": [
+          "Acești munți sunt absolut cele mai înalte vârfuri din Canada la est de Munții Stâncoși.",
+          "Cu exact 1.652 de metri, Muntele Caubvick este cel mai înalt punct din lanț.",
+          "Roca metamorfică este extrem de veche și este datată la 3,9 miliarde de ani.",
+          "Fiordurile adânci sculptate de ghețari taie direct din Atlanticul deschis în munți.",
+          "Climatul arctic aspru nu permite absolut nicio creștere a copacilor acolo.",
+          "Numele indigen 'Torngait' înseamnă literal 'Locul spiritelor spirituale'.",
+          "Inuiții folosesc în mod tradițional regiunea montană nepopulată pentru a vâna urși polari."
+        ],
+        "en": [
+          "These mountains represent the absolute highest peaks in Canada east of the Rocky Mountains.",
+          "At exactly 1,652 meters, Mount Caubvick stands as the highest physical point in the chain.",
+          "The highly metamorphic bedrock is extremely ancient, formally dated at 3.9 billion years old.",
+          "Deep, glacier-carved ocean fjords slice directly from the open Atlantic into the mountains.",
+          "The severe, strictly Arctic climate completely prevents any tree growth whatsoever.",
+          "The indigenous Inuktitut name 'Torngait' literally translates to 'place of spirits'.",
+          "The Inuit people historically utilize the unpopulated mountain region to hunt polar bears."
+        ]
+      }
+    },
+    {
+      "id": "mont-tremblant-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Mont Tremblant ist ein prominenter Berggipfel innerhalb der Laurentinischen Berge in der kanadischen Provinz Quebec, etwa 130 Kilometer nordwestlich von Montreal gelegen. Mit einer Höhe von exakt 968 Metern über dem Meeresspiegel ist er einer der absolut höchsten Gipfel im südlichen Teil der Laurentiden-Kette. Der Berg besteht geologisch aus alten, präkambrischen metamorphen und magmatischen Gesteinen, in erster Linie Anorthosit und Granit, die zum tief erodierten Kanadischen Schild gehören. Das indigene Volk der Algonquin nannte den Gipfel traditionell „Manitonga Soutana“, was als „Berg der Geister“ oder „Zitternder Berg“ übersetzt wird, abgeleitet von dem Glauben, dass der Berg grollen würde, wenn die Naturgeister gestört würden. Die Hänge des Berges sind massiv bewaldet und in tieferen Lagen mit dichten Beständen aus Zuckerahorn, Gelbbirke und Amerikanischer Buche bedeckt, die in der Nähe des Gipfels in boreale Balsamtannen und Weißfichten übergehen. Der Berg fungiert als geografischer und wirtschaftlicher Anker des Mont-Tremblant-Nationalparks, des ältesten und flächenmäßig größten Provinzparks in Quebec, der 1895 gegründet wurde. Im Jahr 1939 etablierte ein amerikanischer Unternehmer das Skigebiet Mont Tremblant an den Flanken des Berges und verwandelte es in einen massiven Wirtschaftsmotor für die Region sowie eine internationale Premium-Destination für den Wintersport.",
+        "hu": "A Mont Tremblant egy kiemelkedő hegycsúcs a Laurentiai-hegységben, a kanadai Quebec tartományban, Montrealtól körülbelül 130 kilométerre északnyugatra. A tengerszint feletti pontosan 968 méteres magasságával az egyik abszolút legmagasabb csúcs a Laurentiai-lánc déli részén. A hegy geológiailag ősi, prekambriumi metamorf és magmás kőzetekből, elsősorban anortozitból és gránitból áll, amelyek a mélyen erodálódott Kanadai-pajzshoz tartoznak. Az algonkin őslakosok hagyományosan „Manitonga Soutanának” nevezték a csúcsot, ami „A Szellemek Hegye” vagy „Remegett Hegy” jelentéssel bír, abból a hitből eredően, hogy a hegy morajlani fog, ha a természet szellemeit megzavarják. A hegy lejtői masszívan erdősültek, és az alacsonyabb magasságokban sűrű cukorjuhar-, sárganyír- és amerikai bükkállományok borítják, amelyek a csúcs közelében boreális balzsamfenyőbe és fehér lucfenyőbe mennek át. A hegy a Mont-Tremblant Nemzeti Park földrajzi és gazdasági horgonyaként szolgál, amely Quebec legrégebbi és legnagyobb területű tartományi parkja, melyet 1895-ben alapítottak. 1939-ben egy amerikai vállalkozó létrehozta a Mont Tremblant síközpontot a hegy oldalában, ami hatalmas gazdasági motorrá változtatta a régiót, és nemzetközi prémium célponttá a téli sportok számára.",
+        "ro": "Mont Tremblant este un vârf montan proeminent din Munții Laurențieni, în provincia canadiană Quebec, situat la aproximativ 130 de kilometri nord-vest de Montreal. Atingând o altitudine de exact 968 de metri deasupra nivelului mării, este unul dintre cele mai înalte vârfuri absolute din partea de sud a lanțului Laurențian. Muntele este compus geologic din roci antice precambriene metamorfice și magmatice, în primul rând anortozit și granit, aparținând Scutului Canadian profund erodat. Poporul indigen Algonquin a numit în mod tradițional vârful „Manitonga Soutana”, care se traduce prin „Muntele Spiritelor” sau „Muntele care Tremură”, provenind din credința că muntele va bubui dacă spiritele naturii ar fi deranjate. Pantele muntelui sunt masiv împădurite, acoperite la altitudini mai joase cu arborete dense de arțar de zahăr, mesteacăn galben și fag american, trecând spre bradul balsamic boreal și molidul alb în apropierea vârfului. Muntele servește ca ancoră geografică și economică a Parcului Național Mont-Tremblant, cel mai vechi și cel mai mare parc provincial din Quebec, înființat în 1895. În 1939, un antreprenor american a înființat stațiunea de schi Mont Tremblant pe flancurile muntelui, transformând-o într-un motor economic masiv pentru regiune și o destinație internațională premium pentru sporturile de iarnă.",
+        "en": "Mont Tremblant is a prominent mountain peak within the Laurentian Mountains of the Canadian province of Quebec, located approximately 130 kilometers northwest of Montreal. Reaching an elevation of exactly 968 meters above sea level, it is one of the absolute highest peaks in the southern portion of the Laurentian chain. The mountain is geologically composed of ancient Precambrian metamorphic and igneous rock, primarily anorthosite and granite, belonging to the deeply eroded Canadian Shield. The Algonquin indigenous people traditionally named the peak \"Manitonga Soutana,\" which translates to \"Mountain of the Spirits\" or \"Trembling Mountain,\" originating from the belief that the mountain would rumble when the nature spirits were disturbed. The slopes of the mountain are heavily forested, covered in dense stands of sugar maple, yellow birch, and American beech at lower elevations, transitioning to boreal balsam fir and white spruce near the summit. The mountain serves as the geographical and economic anchor of Mont-Tremblant National Park, the oldest and largest provincial park in Quebec, established in 1895. In 1939, an American entrepreneur established the Mont Tremblant ski resort on the mountain's flanks, transforming it into a massive economic driver for the region and a premier international winter sports destination."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Tremblant erreicht eine exakte Höhe von 968 Metern über dem Meeresspiegel.",
+          "Das Gestein besteht geologisch massiv aus anorthositischem und granitischem Fels.",
+          "Der Name geht auf die indigenen Algonquins zurück und bedeutet 'Zitternder Berg'.",
+          "Der tiefe Nadelwald nahe dem Gipfel besteht primär aus Balsamtannen und Weißfichten.",
+          "Im Jahr 1939 wurde das erste große kommerzielle Skigebiet am Berg eröffnet.",
+          "Der Berg bildet das geografische Herz des 1895 gegründeten Nationalparks.",
+          "Der Herbst taucht den großen Laubwald der tieferen Hänge in leuchtende Farben."
+        ],
+        "hu": [
+          "A Mont Tremblant pontosan 968 méteres magasságot ér el a tengerszint felett.",
+          "Geológiailag a kőzet masszívan anortozit és gránit kőzetből áll.",
+          "A név az algonkin őslakosoktól származik, és szó szerint 'Remegett Hegyet' jelent.",
+          "A csúcs közelében lévő mély tűlevelű erdő elsősorban balzsamfenyőből és fehér lucfenyőből áll.",
+          "1939-ben nyílt meg az első nagy kereskedelmi síközpont a hegyen.",
+          "A hegy alkotja az 1895-ben alapított nemzeti park földrajzi szívét.",
+          "Az ősz élénk színekbe öltözteti az alacsonyabb lejtőkön lévő hatalmas lombhullató erdőt."
+        ],
+        "ro": [
+          "Mont Tremblant atinge o altitudine exactă de 968 de metri deasupra nivelului mării.",
+          "Din punct de vedere geologic, roca constă masiv din rocă anortozitică și granitică.",
+          "Numele se întoarce la indigenii Algonquin și înseamnă literalmente 'Muntele Tremurând'.",
+          "Pădurea de conifere adâncă din apropierea vârfului constă în principal din brad balsamic și molid alb.",
+          "În 1939 a fost deschisă prima mare stațiune de schi comercială pe munte.",
+          "Muntele formează inima geografică a parcului național fondat în 1895.",
+          "Toamna scaldă pădurea mare de foioase de pe versanții inferiori în culori strălucitoare."
+        ],
+        "en": [
+          "Mont Tremblant reaches a precise elevation of exactly 968 meters above sea level.",
+          "Geologically, the mountain is massively composed of anorthosite and granitic bedrock.",
+          "The name originates from the indigenous Algonquins and translates to 'Trembling Mountain'.",
+          "The deep coniferous forest near the summit primarily consists of balsam fir and white spruce.",
+          "In 1939, the first massive commercial ski resort operation was officially established on the mountain.",
+          "The mountain serves as the geographic heart of the massive national park founded in 1895.",
+          "Autumn aggressively turns the broadleaf forest on the lower slopes into a canvas of bright colors."
+        ]
+      }
+    },
+    {
+      "id": "canadian-shield-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kanadische Schild (Canadian Shield) ist eine gigantische, U-förmige geologische Formation aus freiliegenden präkambrischen magmatischen und hochgradigen metamorphen Gesteinen, die den uralten geologischen Kern des nordamerikanischen Kontinents bildet. Mit einer enormen Fläche von rund 8 Millionen Quadratkilometern macht er mehr als die Hälfte der gesamten kanadischen Landmasse aus und erstreckt sich massiv von den Großen Seen direkt bis hinauf in den Arktischen Ozean. Das Grundgestein des Schildes ist außergewöhnlich alt; bestimmte Gesteinsformationen in den Nordwest-Territorien werden auf 4,28 Milliarden Jahre datiert und gehören damit zu den absolut ältesten Krustenfragmenten der Erde. Die stark zerklüftete, sanft hügelige Topografie wurde während der pleistozänen Eiszeiten durch vorrückende und sich zurückziehende kontinentale Eisschilde aggressiv abgekratzt und ausgeschliffen. Diese massive glaziale Erosion trug den Mutterboden komplett ab und hinterließ nur eine dünne, nährstoffarme Schmutzschicht, unzählige Gesteinssenken, die Millionen von Süßwasserseen bildeten, sowie freiliegende, polierte Gesteinsschrammen. Wegen des fehlenden tiefen Bodens ist die Landwirtschaft weitgehend unmöglich. Stattdessen wird der Schild massiv durch seine riesigen borealen Kiefernwälder und seinen außergewöhnlichen Mineralienreichtum definiert, der einige der weltweit lukrativsten Vorkommen an Nickel, Gold, Kupfer, Zink und Uran beherbergt, die den kanadischen Bergbausektor massiv antreiben.",
+        "hu": "A Kanadai-pajzs (Canadian Shield) egy gigantikus, U alakú geológiai formáció a felszínre került prekambriumi magmás és magas fokú metamorf kőzetekből, amely az észak-amerikai kontinens ősi geológiai magját alkotja. Mintegy 8 millió négyzetkilométeres hatalmas területével Kanada teljes szárazföldjének több mint felét teszi ki, és masszívan kiterjed a Nagy-tavaktól egyenesen fel a Jeges-tengerig. A pajzs alapkőzete kivételesen öreg; az Északnyugati Területeken bizonyos kőzetformációkat 4,28 milliárd évesre datálnak, amivel a Föld abszolút legrégebbi kéregdarabjai közé tartoznak. A rendkívül tagolt, enyhén hullámzó topográfiát a pleisztocén jégkorszakok alatt az előrenyomuló és visszahúzódó kontinentális jégtakarók agresszívan lekaparták és kivájták. Ez a masszív glaciális erózió teljesen lehordta a termőtalajt, és csak egy vékony, tápanyagszegény talajréteget, számtalan kőzetmélyedést – amelyek több millió édesvizű tavat hoztak létre –, valamint felszínre került, polírozott kőzetkarcolatokat hagyott hátra. A mély talaj hiánya miatt a mezőgazdaság nagyrészt lehetetlen. Ehelyett a Pajzsot hatalmas boreális fenyőerdői és rendkívüli ásványkincsei határozzák meg masszívan; a világ legjövedelmezőbb nikkel-, arany-, réz-, cink- és uránlelőhelyeinek ad otthont, amelyek a kanadai bányászati szektort erőteljesen hajtják.",
+        "ro": "Scutul Canadian (Canadian Shield) este o formațiune geologică uriașă, în formă de U, din roci vulcanice și metamorfice precambriene expuse, care formează miezul geologic antic al continentului nord-american. Cu o suprafață enormă de aproximativ 8 milioane de kilometri pătrați, acesta reprezintă mai mult de jumătate din întreaga suprafață a Canadei și se extinde masiv de la Marile Lacuri direct până la Oceanul Arctic. Roca de bază a Scutului este excepțional de veche; anumite formațiuni de rocă din Teritoriile de Nord-Vest sunt datate la 4,28 miliarde de ani, clasându-se printre cele mai vechi fragmente de crustă de pe Pământ. Topografia sa puternic accidentată, ușor ondulată, a fost zgâriată și curățată agresiv prin avansarea și retragerea calotelor glaciare continentale în timpul glaciațiunilor din Pleistocen. Această eroziune glaciară masivă a îndepărtat complet solul vegetal, lăsând în urmă un strat subțire și sărac în nutrienți de murdărie, nenumărate depresiuni în rocă care au format milioane de lacuri de apă dulce, precum și striații de rocă expuse și lustruite. Din cauza lipsei unui sol adânc, agricultura este în mare măsură imposibilă. În schimb, Scutul este masiv definit de pădurile sale boreale uriașe de pini și de bogăția sa extraordinară în minerale, găzduind unele dintre cele mai profitabile zăcăminte din lume de nichel, aur, cupru, zinc și uraniu, care conduc puternic sectorul minier canadian.",
+        "en": "The Canadian Shield is an immense, U-shaped geological formation of exposed Precambrian igneous and high-grade metamorphic rocks that forms the ancient geological core of the North American continent. Covering an enormous surface area of roughly 8 million square kilometers, it accounts for more than half of Canada's entire landmass, stretching from the Great Lakes straight up to the Arctic Ocean. The bedrock of the Shield is exceptionally old, with certain rock formations in the Northwest Territories dated at 4.28 billion years, ranking among the absolute oldest crustal fragments on Earth. The highly rugged, gently undulating topography was aggressively scraped and scoured by advancing and retreating continental ice sheets during the Pleistocene glaciations. This massive glacial erosion completely stripped away the topsoil, leaving behind a thin, nutrient-poor layer of dirt, countless bedrock depressions that formed millions of freshwater lakes, and exposed, polished bedrock striations. Due to the lack of deep soil, agriculture is largely impossible. Instead, the Shield is heavily defined by its massive boreal pine forests and its extraordinary mineral wealth, hosting some of the world's most highly lucrative deposits of nickel, gold, copper, zinc, and uranium, which drive the Canadian mining sector."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die geologische Formation bedeckt etwa 8 Millionen Quadratkilometer von Nordamerika.",
+          "Einige der Gesteine sind unfassbare 4,28 Milliarden Jahre alt.",
+          "Massive Eiszeitgletscher trugen den fruchtbaren Mutterboden der Region nahezu komplett ab.",
+          "Der Schild beherbergt die Mehrheit aller schätzungsweise 2 Millionen kanadischen Seen.",
+          "Landwirtschaftliche Nutzung ist wegen der extrem dünnen, nährstoffarmen Bodenschicht unmöglich.",
+          "Umfangreiche Minen im Gestein fördern hochlukratives Gold, Uran, Zink und Kupfer.",
+          "Die Nadelwälder auf dem Schild gehören zum größten intakten Waldökosystem der Welt."
+        ],
+        "hu": [
+          "A geológiai formáció Észak-Amerika körülbelül 8 millió négyzetkilométerét fedi le.",
+          "Egyes kőzetek hihetetlenül idősek, korukat 4,28 milliárd évre becsülik.",
+          "A masszív jégkorszaki gleccserek szinte teljesen lehordták a régió termékeny talaját.",
+          "A pajzson található a mintegy 2 millió kanadai tó döntő többsége.",
+          "A mezőgazdasági hasznosítás a rendkívül vékony, tápanyagszegény talajréteg miatt lehetetlen.",
+          "A kőzetben lévő kiterjedt bányák rendkívül jövedelmező aranyat, uránt, cinket és rezet termelnek.",
+          "A pajzs tűlevelű erdői a világ legnagyobb érintetlen erdei ökoszisztémájához tartoznak."
+        ],
+        "ro": [
+          "Formațiunea geologică acoperă aproximativ 8 milioane de kilometri pătrați din America de Nord.",
+          "Unele dintre roci au o vechime incredibilă de 4,28 miliarde de ani.",
+          "Ghețarii masivi din era glaciară au îndepărtat aproape complet stratul de sol fertil al regiunii.",
+          "Scutul găzduiește majoritatea celor aproximativ 2 milioane de lacuri canadiene.",
+          "Utilizarea agricolă este imposibilă din cauza stratului de sol extrem de subțire și sărac în nutrienți.",
+          "Minele extinse din rocă extrag aur, uraniu, zinc și cupru extrem de profitabile.",
+          "Pădurile de conifere de pe Scut aparțin celui mai mare ecosistem forestier intact din lume."
+        ],
+        "en": [
+          "The geological formation physically covers approximately 8 million square kilometers of North America.",
+          "Specific rocks within the shield are dated at an incredibly ancient 4.28 billion years old.",
+          "Massive Ice Age glaciers completely stripped away the original fertile topsoil of the region.",
+          "The shield geologically houses the vast majority of Canada's estimated 2 million freshwater lakes.",
+          "Traditional agriculture is rendered virtually impossible due to the extremely thin, nutrient-poor soil.",
+          "Extensive deep rock mines aggressively extract highly lucrative gold, uranium, zinc, and copper.",
+          "The massive coniferous forests covering the shield belong to the largest intact forest ecosystem globally."
+        ]
+      }
+    },
+    {
+      "id": "mount-garibaldi-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Mount Garibaldi ist ein aktiver, potenziell gefährlicher Stratovulkan in den Coast Mountains im Südwesten der kanadischen Provinz British Columbia, nur etwa 80 Kilometer nördlich von Vancouver gelegen. Mit einer Höhe von 2.678 Metern ist er ein extrem markanter Gipfel innerhalb des Garibaldi-Vulkangürtels, der die nördlichste Verlängerung des Kaskaden-Vulkanbogens darstellt. Dieser Bogen entstand durch die anhaltende tektonische Subduktion der Juan-de-Fuca-Platte massiv unter die Nordamerikanische Platte. Der Vulkan weist ein hochgradig einzigartiges, stark asymmetrisches Profil auf, das aus seiner spezifischen Entstehungsgeschichte resultiert. Vor etwa 10.000 Jahren, während der Epoche des Pleistozäns, brach der Mount Garibaldi gewaltig aus, während er vollständig von einem massiven regionalen Eisschild umgeben war. Die geschmolzene Lava baute systematisch einen riesigen Vulkankegel direkt auf dem Eis auf (ein sogenannter Tuya). Als sich die gigantische Eisschicht später zurückzog und schmolz, brach die ungestützte Westflanke des Vulkankegels katastrophal in das tiefe Cheakamus-River-Tal zusammen, was massive Erdrutsche auslöste und eine senkrechte, steile Westwand hinterließ. Der Berg besteht primär aus Dazitgestein und beherbergt mehrere Gletscher, insbesondere den Diamond Head- und den Cheekye-Gletscher. Die indigene Squamish Nation bezeichnet den Gipfel als Nch'ḵay̓, was ihn als heiligen, historischen Zufluchtsort während legendärer antiker Flutereignisse markiert.",
+        "hu": "A Mount Garibaldi egy aktív, potenciálisan veszélyes sztratovulkán a Coast Mountains (Parti-hegység) vonulatában, a kanadai Brit Columbia tartomány délnyugati részén, alig 80 kilométerre északra Vancouvertől. 2678 méteres magasságával egy rendkívül markáns csúcs a Garibaldi Vulkáni Övben, amely a Kaszkád-vulkánív legészakibb meghosszabbítását képezi. Ez az ív a Juan de Fuca-lemeznek az Észak-amerikai-lemez alá történő folyamatos, masszív tektonikus szubdukciója révén jött létre. A vulkán egyedülálló, erősen aszimmetrikus profillal rendelkezik, amely sajátos keletkezéstörténetéből fakad. Körülbelül 10 000 évvel ezelőtt, a pleisztocén korban a Mount Garibaldi hatalmas kitörést produkált, miközben teljesen körülvette egy masszív regionális jégtakaró. Az olvadt láva szisztematikusan egy óriási vulkáni kúpot épített fel közvetlenül a jég tetején (ezt nevezik tuyának). Amikor a gigantikus jégréteg később visszahúzódott és elolvadt, a vulkáni kúp alátámasztás nélküli nyugati szárnya katasztrofálisan összeomlott a mély Cheakamus-folyó völgyébe, ami hatalmas földcsuszamlásokat indított el, és egy függőleges, meredek nyugati falat hagyott hátra. A hegy elsősorban dácitkőzetből áll, és több gleccsernek is otthont ad, nevezetesen a Diamond Head- és a Cheekye-gleccsernek. A bennszülött Squamish nemzet a csúcsot Nch'ḵay̓ néven említi, amely a legendás ősi özönvizek idején szent, történelmi menedékként szolgált számukra.",
+        "ro": "Muntele Garibaldi este un stratovulcan activ, potențial periculos, care se înalță la 2.678 de metri în Munții de Coastă (Coast Mountains) din sud-vestul Columbiei Britanice, situat la doar 80 de kilometri nord de Vancouver. Este un vârf extrem de proeminent în cadrul Centurii Vulcanice Garibaldi, care acționează ca prelungirea nordică absolută a Arcului Vulcanic al Cascadelor, format prin subducția tectonică continuă a Plăcii Juan de Fuca direct sub Placa Nord-Americană. Vulcanul prezintă un profil extrem de unic, puternic asimetric, care rezultă din formarea sa geologică specifică. În urmă cu aproximativ 10.000 de ani, în timpul epocii Pleistocenului, Muntele Garibaldi a erupt violent în timp ce era complet înconjurat de un strat masiv de gheață regional. Lava topită a construit în mod sistematic un con vulcanic mare direct pe deasupra ghețarului (un așa-numit tuya). Când stratul gigantic de gheață s-a retras și s-a topit ulterior, flancul vestic nesusținut al conului vulcanic s-a prăbușit catastrofal în valea adâncă a râului Cheakamus, declanșând alunecări de teren masive și lăsând în urmă o față vestică abruptă și verticală. Muntele este compus în principal din rocă dacitică și găzduiește mai mulți ghețari, în special ghețarii Diamond Head și Cheekye. Națiunea indigenă Squamish se referă la vârf cu numele de Nch'ḵay̓, desemnându-l ca un refugiu sacru, istoric, în timpul inundațiilor legendare antice.",
+        "en": "Mount Garibaldi is an active, potentially hazardous stratovolcano standing at exactly 2,678 meters in the Coast Mountains of southwestern British Columbia, located just 80 kilometers north of Vancouver. It is an extremely prominent peak within the Garibaldi Volcanic Belt, which acts as the absolute northernmost extension of the Cascade Volcanic Arc formed by the continuous tectonic subduction of the Juan de Fuca Plate directly beneath the North American Plate. The volcano exhibits a highly unique, intensely asymmetrical profile resulting from its specific geological formation. Approximately 10,000 years ago, during the Pleistocene epoch, Mount Garibaldi erupted violently while completely surrounded by a massive regional ice sheet. The molten lava systematically built a large volcanic cone directly on top of the thick glacier (a tuya formation). When the gigantic ice sheet subsequently retreated and melted, the totally unsupported western flank of the volcanic cone collapsed catastrophically into the deep Cheakamus River valley, triggering massive landslides and leaving behind a steep, sheer western face. The mountain is primarily composed of dacite rock and harbors several active glaciers, notably the Diamond Head and Cheekye Glaciers. The indigenous Squamish Nation refers to the peak as Nch'ḵay̓, noting it as a sacred, historical refuge during legendary ancient flood events."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Garibaldi ist ein aktiver Stratovulkan mit einer Gipfelhöhe von 2.678 Metern.",
+          "Der Vulkan brach vor etwa 10.000 Jahren massiv direkt über einem dicken Eispanzer aus.",
+          "Das Abschmelzen des tragenden Eises führte zu gewaltigen Erdrutschen an der Westflanke.",
+          "Geologisch besteht der massive Vulkankegel hauptsächlich aus vulkanischem Dazit.",
+          "Der Vulkan gehört zum äußersten nördlichen Bogen der pazifischen Kaskadenkette.",
+          "Die indigene Squamish Nation sieht den Berg als einen historischen Ort der Rettung vor Fluten.",
+          "Die Bergflanken beherbergen aktive Eismassen wie den stark zerklüfteten Cheekye-Gletscher."
+        ],
+        "hu": [
+          "A Mount Garibaldi egy aktív sztratovulkán, csúcsmagassága 2678 méter.",
+          "A vulkán mintegy 10 000 évvel ezelőtt masszívan, közvetlenül egy vastag jégpáncél felett tört ki.",
+          "A támasztó jég elolvadása hatalmas földcsuszamlásokhoz vezetett a nyugati hegyoldalon.",
+          "Geológiailag a masszív vulkáni kúp főként vulkanikus dácitból áll.",
+          "A vulkán a csendes-óceáni Kaszkád-hegység ívének legészakibb részéhez tartozik.",
+          "Az őslakos Squamish nemzet a hegyet az áradások elöli történelmi menedékhelynek tekinti.",
+          "A hegyoldalak olyan aktív jégtömegeknek adnak otthont, mint az erősen tagolt Cheekye-gleccser."
+        ],
+        "ro": [
+          "Mount Garibaldi este un stratovulcan activ cu o altitudine a vârfului de 2.678 metri.",
+          "Vulcanul a erupt masiv acum aproximativ 10.000 de ani direct peste o calotă groasă de gheață.",
+          "Topirea gheții de susținere a dus la alunecări de teren uriașe pe flancul vestic.",
+          "Din punct de vedere geologic, conul vulcanic masiv constă în principal din dacit vulcanic.",
+          "Vulcanul aparține arcului nordic extrem al lanțului Cascadelor din Pacific.",
+          "Națiunea indigenă Squamish consideră muntele drept un loc istoric de salvare din calea inundațiilor.",
+          "Flancurile muntelui adăpostesc mase de gheață active precum puternic crestatul ghețar Cheekye."
+        ],
+        "en": [
+          "Mount Garibaldi is a highly active stratovolcano reaching a peak elevation of 2,678 meters.",
+          "The volcano erupted violently directly on top of a thick ice sheet roughly 10,000 years ago.",
+          "The melting of the supporting ice triggered catastrophic landslides strictly on the western flank.",
+          "Geologically, the massive volcanic cone is composed primarily of igneous dacite rock.",
+          "The volcano belongs to the extreme northern extension of the Pacific Cascade Volcanic Arc.",
+          "The indigenous Squamish Nation views the mountain as a sacred, historical sanctuary from floods.",
+          "The mountain flanks harbor deeply active ice masses such as the heavily crevassed Cheekye Glacier."
+        ]
+      }
+    },
+    {
+      "id": "mount-thor-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Mount Thor, offiziell als Thor Peak bezeichnet, ist ein imposanter, 1.675 Meter hoher Berg im extrem abgelegenen Auyuittuq Nationalpark auf der Baffininsel im kanadischen Territorium Nunavut. Der markante Gipfel hält den absoluten Weltrekord für die größte rein vertikale Felswand der Erde. Seine massive Westwand stürzt völlig senkrecht über unfassbare 1.250 Meter in die Tiefe und weist dabei einen durchschnittlichen Überhang von 105 Grad auf, was bedeutet, dass die Felswand physisch über die vertikale Achse hinaus nach innen geschnitten ist. Strukturell besteht der Berg aus hochgradig massivem, durchgehendem präkambrischem Granit, der über Millionen von Jahren durch extrem aggressive glaziale Eis-Erosion im sogenannten Akshayuk-Pass in seine heutige Klippenform gefräst wurde. Weit oberhalb des Polarkreises gelegen, ist die umliegende Landschaft von einem unerbittlichen arktischen Klima, kahler Tundra und riesigen, sich zurückziehenden Eiskappen geprägt. Mount Thor wurde 1953 erstmals von einer Expedition des Arctic Institute of North America bestiegen, aber die legendäre, vollkommen senkrechte Westwand wurde erst 1985 bezwungen – nach einem zermürbenden, 33 Tage andauernden ununterbrochenen Big-Wall-Aufstieg. Der Name des Berges leitet sich passenderweise vom nordischen Donnergott ab, was seine höchst aggressive, dominierende physische Präsenz perfekt widerspiegelt. Aufgrund seiner extremen geografischen Isolation ist das Erreichen des Berges nur durch mehrtägige Trekkingtouren über Gletscher und Geröll möglich.",
+        "hu": "A Mount Thor, hivatalos nevén Thor Peak, egy impozáns, 1675 méter magas hegy a rendkívül elszigetelt Auyuittuq Nemzeti Parkban, a kanadai Nunavut területhez tartozó Baffin-szigeten. A markáns csúcs tartja az abszolút világrekordot a Föld legnagyobb, tisztán függőleges sziklafala tekintetében. Masszív nyugati fala teljesen függőlegesen zuhan a mélybe elképesztő 1250 méteren keresztül, és átlagosan 105 fokos áthajlással rendelkezik, ami azt jelenti, hogy a sziklafal fizikailag befelé vágódik a függőleges tengelyhez képest. Szerkezetileg a hegy rendkívül tömör, folytonos prekambriumi gránitból áll, amelyet évmilliók alatt az úgynevezett Akshayuk-hágó rendkívül agresszív glaciális jégeróziója formált mai sziklaalakjára. Magasan az északi sarkkör felett a környező tájat könyörtelen sarkvidéki éghajlat, kopár tundra és hatalmas, visszahúzódó jégsapkák jellemzik. A Mount Thort először 1953-ban mászta meg az Észak-amerikai Sarkvidéki Intézet (Arctic Institute of North America) expedíciója, de a legendás, teljesen függőleges nyugati falat csak 1985-ben hódították meg – egy kimerítő, 33 napig tartó, megszakítás nélküli big-wall mászás után. A hegy neve találóan a skandináv viharistenből származik, ami tökéletesen tükrözi rendkívül agresszív, uralkodó fizikai jelenlétét. Extrém földrajzi elszigeteltsége miatt a hegy megközelítése csak többnapos, gleccsereken és törmeléken keresztül vezető trekkingtúrákkal lehetséges.",
+        "ro": "Muntele Thor, denumit oficial Thor Peak, este un munte impunător de 1.675 de metri înălțime, situat în Parcul Național Auyuittuq, extrem de izolat, pe Insula Baffin din teritoriul canadian Nunavut. Vârful proeminent deține recordul mondial absolut pentru cel mai mare perete stâncos pur vertical de pe Pământ. Fața sa masivă de vest coboară complet vertical pe o distanță incredibilă de 1.250 de metri, având o surplombă medie de 105 grade, ceea ce înseamnă că peretele de stâncă este tăiat fizic spre interior dincolo de axa verticală. Din punct de vedere structural, muntele este alcătuit din granit precambrian continuu, extrem de solid, sculptat de-a lungul a milioane de ani de eroziunea glaciară agresivă a gheții din așa-numita Trecătoare Akshayuk, obținând forma sa actuală de stâncă. Situat mult deasupra Cercului Polar Arctic, peisajul înconjurător este caracterizat de un climat arctic neiertător, tundră aridă și calote glaciare uriașe, aflate în retragere. Mount Thor a fost urcat pentru prima dată în 1953 de o expediție a Institutului Arctic al Americii de Nord, dar fața sa vestică legendară, complet verticală, a fost cucerită abia în 1985 – după o ascensiune epuizantă, neîntreruptă de tip big-wall, care a durat 33 de zile. Numele muntelui este derivat din zeul nordic al tunetului, reflectând perfect prezența sa fizică extrem de agresivă și dominantă. Datorită izolării sale geografice extreme, muntele poate fi atins doar prin drumeții de mai multe zile peste ghețari și grohotiș.",
+        "en": "Mount Thor, officially designated as Thor Peak, is an imposing 1,675-meter-high mountain situated within the highly remote Auyuittuq National Park on Baffin Island in the Canadian territory of Nunavut. The peak holds the absolute global record for featuring the greatest purely vertical rock drop on Earth. Its massive western face plummets completely vertically for a staggering 1,250 meters, maintaining an average overhang of precisely 105 degrees, meaning the rock face physically cuts inward past the straight vertical axis. The mountain is structurally composed of highly solid, continuous Precambrian granite, aggressively carved over millions of years by intense glacial ice erosion slicing through the Akshayuk Pass into its current sheer cliff form. Situated deep within the Arctic Circle, the surrounding environment is heavily characterized by an extremely harsh polar climate, barren tundra, and massive retreating ice caps. Mount Thor was first successfully climbed in 1953 by an expedition led by the Arctic Institute of North America, although the legendary, completely vertical west face was not officially conquered until 1985 after a grueling 33-day continuous big-wall rock climb. The mountain's name is derived from the Norse god of thunder, perfectly reflecting its highly aggressive, dominant physical structure. Due to extreme geographic isolation, reaching the base of the mountain strictly requires a demanding multi-day hike across active glaciers and deep scree fields."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die massive Westwand des Berges ist mit 1.250 Metern die tiefste Steilwand der Erde.",
+          "Der Felsen überhängt die Senkrechte mit einem durchschnittlichen Winkel von 105 Grad.",
+          "Der Berg besteht strukturell aus extrem massivem, ununterbrochenem Granitgestein.",
+          "Mount Thor liegt geografisch tief eingebettet im unwirtlichen Polarkreis.",
+          "Gewaltige eiszeitliche Gletscher formten das Tal und schnitten den Fels senkrecht ab.",
+          "Die berühmte Westwand wurde erst nach einem 33-tägigen Daueraufstieg 1985 bezwungen.",
+          "Der abgelegene Base-Camp-Zugang erfordert tagelange Wanderungen durch arktisches Gelände."
+        ],
+        "hu": [
+          "A hegy masszív nyugati fala 1250 méterével a világ legmélyebb függőleges sziklafala.",
+          "A szikla átlagosan 105 fokos szögben hajlik túl a függőleges tengelyen.",
+          "A hegy szerkezetileg rendkívül masszív, egybefüggő gránitkőzetből áll.",
+          "A Mount Thor földrajzilag mélyen a barátságtalan északi sarkkörön túl fekszik.",
+          "Hatalmas jégkorszaki gleccserek formálták a völgyet, és vágták le függőlegesen a sziklát.",
+          "A híres nyugati falat csak egy 33 napig tartó, folyamatos mászás után hódították meg 1985-ben.",
+          "Az elszigetelt alaptábor elérése napokig tartó túrázást igényel a sarkvidéki terepen."
+        ],
+        "ro": [
+          "Peretele vestic masiv al muntelui, cu 1.250 de metri, este cea mai adâncă stâncă din lume.",
+          "Roca depășește verticala cu un unghi mediu de surplombare de 105 grade.",
+          "Din punct de vedere structural, muntele este alcătuit din granit extrem de solid și continuu.",
+          "Muntele Thor este situat geografic adânc în interiorul Cercului Polar neprimitor.",
+          "Ghețarii masivi din era glaciară au format valea și au tăiat stânca vertical.",
+          "Faimoasa față vestică a fost cucerită abia în 1985, după o ascensiune continuă de 33 de zile.",
+          "Accesul la tabăra de bază izolată necesită drumeții de zile întregi prin terenul arctic."
+        ],
+        "en": [
+          "The massive western face is exactly 1,250 meters tall, holding the global record for vertical drop.",
+          "The entire sheer rock face overhangs the vertical axis at a severe 105-degree angle.",
+          "Structurally, the entire mountain is composed of extremely massive, uninterrupted solid granite.",
+          "Mount Thor is geographically situated deep within the inhospitable Arctic Circle.",
+          "Aggressive Ice Age glaciers physically carved the deep valley and sliced the rock vertically.",
+          "The legendary west face was exclusively conquered in 1985 after a 33-day continuous vertical climb.",
+          "Reaching the highly isolated base camp strictly requires multi-day hikes across arctic terrain."
+        ]
+      }
+    },
+    {
+      "id": "mount-rundle-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Mount Rundle ist ein hochgradig markanter, keilförmiger Berg im Banff National Park in der kanadischen Provinz Alberta, der die alpine Skyline direkt oberhalb der Siedlungen Banff und Canmore absolut dominiert. Mit einer maximalen Höhe von 2.948 Metern ist der Berg ein vollendetes geografisches Beispiel für einen massiven Überschiebungsberg (Thrust-Fault Block Mountain), eine genaue geologische Formation, die extrem charakteristisch für die Front Ranges der kanadischen Rocky Mountains ist. Der Berg weist ein massiv asymmetrisches Profil auf: Seine östliche Flanke besteht aus einer extrem aggressiven, gigantischen vertikalen Klippenwand, während seine westliche Steigung in einem gleichmäßigen, glatten Winkel abfällt, der exakt der geologischen Neigung der darunter liegenden Gesteinsschichten entspricht. Diese gewaltige Struktur besteht primär aus sehr hartem, erosionsbeständigem Palliser-Kalkstein und Dolomit, der im Paläozoikum am Grund eines Ozeans abgelagert wurde. Der Berg besteht tatsächlich aus sieben deutlich getrennten Gipfeln, die sich über einen 12 Kilometer langen, durchgehenden Kamm erstrecken. Er wurde offiziell im Jahr 1858 von dem Entdecker John Palliser zu Ehren von Robert Rundle benannt, einem methodistischen Missionar, der in den 1840er Jahren bei der indigenen Cree-Nation lebte. Die glatte westliche Flanke bietet eine nicht-technische, aber extrem anstrengende und stark exponierte Kraxelroute (Scramble) zum Hauptgipfel, was ihn zu einem stark frequentierten Ziel für Wanderer macht.",
+        "hu": "A Mount Rundle egy rendkívül markáns, ék alakú hegy a kanadai Alberta tartományban lévő Banff Nemzeti Parkban, amely abszolút uralja az alpesi látképet közvetlenül Banff és Canmore települések felett. 2948 méteres maximális magasságával a hegy egy tökéletes földrajzi példája a masszív vetődéses röghegységeknek (Thrust-Fault Block Mountain), amely egy pontos geológiai formáció, és rendkívül jellemző a kanadai Sziklás-hegység frontális vonulataira. A hegy masszívan aszimmetrikus profillal rendelkezik: keleti szárnya egy rendkívül agresszív, gigantikus függőleges sziklafalból áll, míg nyugati lejtője egyenletes, sima szögben ereszkedik le, amely pontosan megfelel az alatta lévő kőzetrétegek geológiai dőlésének. Ez a hatalmas szerkezet elsősorban nagyon kemény, erózióálló Palliser mészkőből és dolomitból áll, amelyek a paleozoikumban rakódtak le egy óceán fenekén. A hegy valójában hét jól elkülöníthető csúcsból áll, amelyek egy 12 kilométer hosszú, összefüggő gerincen húzódnak. Hivatalosan 1858-ban nevezte el John Palliser felfedező Robert Rundle tiszteletére, aki egy metodista misszionárius volt, és az 1840-es években a bennszülött krí (Cree) nemzetnél élt. A sima nyugati lejtő egy nem technikai, bár rendkívül megerőltető és erősen kitett mászóútvonalat (scramble) kínál a főcsúcshoz, így a túrázók rendkívül gyakori célpontja.",
+        "ro": "Muntele Rundle este un munte extrem de proeminent, în formă de pană, situat în Parcul Național Banff din provincia canadiană Alberta, care domină absolut orizontul alpin direct deasupra așezărilor Banff și Canmore. Cu o altitudine maximă de 2.948 de metri, muntele este un exemplu geografic perfect al unui munte masiv de falie de încălecare (Thrust-Fault Block Mountain), o formațiune geologică exactă care este extrem de caracteristică pentru lanțurile frontale ale Munților Stâncoși canadieni. Muntele prezintă un profil masiv asimetric: flancul său estic constă dintr-o față de stâncă verticală, gigantică și extrem de agresivă, în timp ce panta sa vestică coboară la un unghi uniform și neted care corespunde exact înclinației geologice a straturilor de rocă subiacente. Această structură masivă este compusă în principal din calcar și dolomit Palliser foarte dur, rezistent la eroziune, depus pe fundul unui ocean în timpul Paleozoicului. Muntele constă de fapt din șapte vârfuri distinct separate care se întind de-a lungul unei creste continue de 12 kilometri. A fost numit oficial în 1858 de exploratorul John Palliser în onoarea lui Robert Rundle, un misionar metodist care a trăit printre indigenii Cree în anii 1840. Panta vestică netedă oferă o rută de escaladare (scramble) non-tehnică, deși extrem de obositoare și foarte expusă către vârful principal, făcându-l un obiectiv foarte frecventat de drumeți.",
+        "en": "Mount Rundle is a highly prominent, wedge-shaped mountain located in Banff National Park in the Canadian province of Alberta, absolutely dominating the alpine skyline directly above the resort towns of Banff and Canmore. Reaching a maximum elevation of 2,948 meters, the mountain is a perfect geographical example of a massive thrust-fault block mountain, an exact geological formation extremely characteristic of the front ranges of the Canadian Rocky Mountains. The mountain features a massively asymmetrical profile: its eastern flank consists of an extremely aggressive, gigantic vertical cliff face, while its western slope drops at a uniform, smooth angle corresponding precisely to the geological dip of the underlying rock strata. This massive structure is composed primarily of very hard, highly erosion-resistant Palliser limestone and dolomite that was deposited on an ocean floor during the Paleozoic era. The mountain actually consists of seven distinctly separate peaks stretching over a 12-kilometer continuous ridge line. It was officially named in 1858 by the early explorer John Palliser in specific honor of Robert Rundle, a Methodist missionary who lived among the indigenous Cree Nation in the 1840s. The smooth western slope provides a non-technical, albeit extremely strenuous and highly exposed, scrambling route directly to the main summit, making it a heavily targeted objective for local hikers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die markante keilförmige Bergspitze erreicht exakt 2.948 Meter Höhe.",
+          "Geologisch ist Mount Rundle ein klassischer Überschiebungsberg aus der Tektonik.",
+          "Der massive Felsen besteht hauptsächlich aus extrem hartem paläozoischem Kalkstein.",
+          "Die Westflanke des Berges fällt in genau demselben Winkel wie die Erdschichten ab.",
+          "Der Bergkamm erstreckt sich massiv über 12 Kilometer und besitzt sieben Gipfel.",
+          "Die vertikale, felsige Ostwand des Berges bricht aggressiv ins darunterliegende Tal ab.",
+          "Der Gipfel wurde formell nach dem Missionar Robert Rundle benannt."
+        ],
+        "hu": [
+          "A markáns, ék alakú hegycsúcs pontosan 2948 méteres magasságot ér el.",
+          "Geológiailag a Mount Rundle egy klasszikus, tektonikai eredetű vetődéses röghegység.",
+          "A masszív sziklafal főként rendkívül kemény paleozoikumi mészkőből épül fel.",
+          "A hegy nyugati szárnya pontosan ugyanolyan szögben dől, mint maguk a kőzetrétegek.",
+          "A hegygerinc masszívan 12 kilométer hosszan terül el, és hét csúccsal rendelkezik.",
+          "A hegy függőleges, sziklás keleti fala agresszívan szakad le az alatta lévő völgybe.",
+          "A csúcsot formálisan Robert Rundle metodista misszionáriusról nevezték el."
+        ],
+        "ro": [
+          "Vârful montan distinctiv în formă de pană atinge o altitudine de exact 2.948 de metri.",
+          "Geologic, Muntele Rundle este un munte clasic de falie de încălecare provenit din tectonică.",
+          "Roca masivă este compusă în principal din calcar paleozoic extrem de dur.",
+          "Flancul vestic al muntelui se înclină exact în același unghi cu straturile de pământ.",
+          "Creasta muntelui se întinde masiv pe 12 kilometri și are șapte vârfuri.",
+          "Fața estică verticală și stâncoasă a muntelui se rupe agresiv în valea de dedesubt.",
+          "Vârful a fost numit formal după misionarul metodist Robert Rundle."
+        ],
+        "en": [
+          "The highly distinctive wedge-shaped mountain peak reaches exactly 2,948 meters in elevation.",
+          "Geologically, Mount Rundle is a classic example of a massive tectonic thrust-fault block mountain.",
+          "The massive bedrock is primarily composed of extremely hard Paleozoic era limestone.",
+          "The mountain's western flank drops at the exact same physical angle as the geological strata.",
+          "The continuous mountain ridge stretches massively for 12 kilometers and contains seven peaks.",
+          "The purely vertical, rocky eastern wall of the mountain drops aggressively into the valley below.",
+          "The summit was formally named to honor the 19th-century missionary Robert Rundle."
+        ]
+      }
+    },
+    {
+      "id": "cascade-range-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kaskadenkette in Kanada, oft als kanadische Kaskaden (Canadian Cascades) bezeichnet, bildet das äußerste nördliche Segment des massiven nordamerikanischen Kaskadensystems und liegt vollständig innerhalb der Provinz British Columbia. Geografisch begrenzt durch den tiefen Fraser-River-Canyon im Westen und den Thompson River im Osten, zeichnet sich dieser raue Gebirgsabschnitt primär durch stark angehobenes kristallines und metamorphes Gestein aus, im scharfen Kontrast zu den massiv vulkanisch aktiven High Cascades weiter südlich in den Vereinigten Staaten. Der absolut höchste Gipfel innerhalb der kanadischen Kaskaden ist der Mount Tulameen, der eine Höhe von 2.305 Metern erreicht. Die Topografie ist extrem stark zerklüftet und weist tief eingeschnittene Flusstäler sowie steile, spitze Bergrücken auf, die während des Pleistozäns einer massiven alpinen Vergletscherung unterworfen waren. Die Gebirgskette fungiert als absolut kritische klimatische Barriere: Die westlichen Hänge fangen gigantische Mengen an pazifischem Niederschlag ab und unterstützen unglaublich dichte gemäßigte Regenwälder aus Douglasien und Riesen-Lebensbäumen, während die östlichen Hänge extrem steil in einen Regenschatten fallen und abrupt in sehr trockene Ponderosa-Kiefernwälder übergehen. Der stark ausgebaute Coquihalla Highway schneidet physisch direkt durch dieses massive Gebirge und nutzt hochalpine Pässe, die extremen winterlichen Schneeansammlungen ausgesetzt sind.",
+        "hu": "A Kaszkád-hegység kanadai szakasza, amelyet gyakran kanadai Kaszkádoknak (Canadian Cascades) is neveznek, a masszív észak-amerikai Kaszkád-rendszer legészakibb szegmensét alkotja, és teljes egészében Brit Columbia tartomány területén fekszik. A nyugaton a mély Fraser-folyó kanyonja, keleten pedig a Thompson-folyó által határolt zord hegyvidéki szakaszt elsősorban erősen felemelkedett kristályos és metamorf kőzetek jellemzik, éles ellentétben a délebbre, az Egyesült Államokban található, masszívan vulkáni eredetű Magas Kaszkádokkal. A kanadai Kaszkádok abszolút legmagasabb csúcsa a Mount Tulameen, amely 2305 méteres magasságot ér el. A topográfia rendkívül erősen tagolt, mélyen bevágott folyóvölgyekkel és meredek, hegyes gerincekkel, amelyek a pleisztocén idején masszív alpesi eljegesedésnek voltak kitéve. A hegylánc abszolút kritikus éghajlati gátként funkcionál: a nyugati lejtők gigantikus mennyiségű csendes-óceáni csapadékot fognak fel, és hihetetlenül sűrű, duglászfenyőkből és óriás tujákból álló mérsékelt övi esőerdőket tartanak fenn, míg a keleti lejtők rendkívül meredeken esnek egy esőárnyékba, és hirtelen váltanak át nagyon száraz sárgafenyő-erdőkre (Ponderosa pine). Az erősen kiépített Coquihalla Highway (autópálya) fizikailag egyenesen átszeli ezt a masszív hegységet, kihasználva a magashegyi hágókat, amelyek extrém téli hófelhalmozódásnak vannak kitéve.",
+        "ro": "Lanțul Munților Cascade din Canada, denumit adesea Cascadele Canadiene (Canadian Cascades), formează segmentul nordic extrem al masivului sistem nord-american al Cascadelor, situat în întregime în provincia Columbia Britanică. Delimitat geografic de adâncul canion al râului Fraser la vest și de râul Thompson la est, acest segment montan accidentat se caracterizează în primul rând prin roci cristaline și metamorfice puternic înălțate, în contrast puternic cu High Cascades masiv vulcanice aflate mai la sud în Statele Unite. Vârful absolut cel mai înalt din cadrul Cascadelor Canadiene este Mount Tulameen, care atinge o altitudine de 2.305 metri. Topografia este extrem de crestată, prezentând văi fluviale adânc crestate și creste montane ascuțite, abrupte, care au fost supuse unei masive glaciațiuni alpine în timpul Pleistocenului. Lanțul montan funcționează ca o barieră climatică absolut critică: pantele vestice interceptează cantități gigantice de precipitații din Pacific, susținând păduri tropicale temperate incredibil de dense de brazi Douglas și tuia uriașă, în timp ce pantele estice cad extrem de abrupt într-o umbră de ploaie, trecând brusc în păduri foarte uscate de pini Ponderosa. Autostrada Coquihalla, puternic dezvoltată, taie fizic direct prin acest lanț muntos masiv, utilizând pasuri alpine înalte care sunt supuse unor acumulări extreme de zăpadă pe timp de iarnă.",
+        "en": "The Cascade Range in Canada, frequently referred to as the Canadian Cascades, forms the extreme northernmost segment of the massive North American Cascade mountain system, located entirely within the province of British Columbia. Bounded geographically by the deep Fraser River canyon to the west and the Thompson River to the east, this rugged mountain segment is primarily characterized by heavily uplifted crystalline and metamorphic rock, contrasting sharply with the massively volcanic High Cascades found further south in the United States. The absolute highest peak within the Canadian Cascades is Mount Tulameen, reaching an elevation of exactly 2,305 meters. The topography is extremely jagged, featuring deeply incised river valleys and steep, pointed ridges that were subjected to intense alpine glaciation during the Pleistocene epoch. The range acts as an absolutely critical climatic barrier: its western slopes violently trap gigantic amounts of Pacific precipitation, supporting incredibly dense temperate rainforests of Douglas-fir and western redcedar, while the eastern slopes fall heavily into a severe rain shadow, transitioning abruptly to highly arid ponderosa pine forests. The heavily engineered Coquihalla Highway physically cuts directly through this massive mountain range, heavily utilizing high alpine passes that are subjected to extreme winter snow accumulation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Berge bilden den äußersten nördlichen Ausläufer der gewaltigen nordamerikanischen Kaskadenkette.",
+          "Der kanadische Abschnitt besteht primär aus metamorphem Gestein, nicht aus großen Vulkanen.",
+          "Mount Tulameen ist mit 2.305 Metern der absolut höchste Gipfel in der Region.",
+          "Der Coquihalla Highway schneidet für den Transport direkt durch das massive Gebirge.",
+          "Extreme winterliche Schneefälle auf den Pässen machen die Region hochgradig lawinengefährdet.",
+          "Das Gebirge blockiert pazifische Regensysteme und erschafft einen extremen östlichen Regenschatten.",
+          "Westlich der Gipfel wachsen dichte, regennasse Wälder mit riesigen Douglasien."
+        ],
+        "hu": [
+          "A hegyek a hatalmas észak-amerikai Kaszkád-hegylánc legészakibb nyúlványát alkotják.",
+          "A kanadai szakasz elsősorban metamorf kőzetből áll, és nem nagy vulkánokból.",
+          "A Mount Tulameen a maga 2305 méterével az abszolút legmagasabb csúcs a régióban.",
+          "A Coquihalla Highway közlekedési okokból közvetlenül vágja át a masszív hegységet.",
+          "A hágókon tapasztalható extrém téli havazások a régiót rendkívül lavinaveszélyessé teszik.",
+          "A hegység blokkolja a csendes-óceáni esőrendszereket, és extrém keleti esőárnyékot hoz létre.",
+          "A csúcsoktól nyugatra sűrű, esőáztatta erdők nőnek gigantikus duglászfenyőkkel."
+        ],
+        "ro": [
+          "Munții formează extensia nordică extremă a uriașului lanț al Cascadelor nord-americane.",
+          "Secțiunea canadiană constă în primul rând din rocă metamorfică, nu din vulcani mari.",
+          "Mount Tulameen, cu 2.305 metri, este vârful absolut cel mai înalt din regiune.",
+          "Autostrada Coquihalla taie direct prin muntele masiv pentru transport.",
+          "Ninsorile extreme de iarnă de pe trecători fac ca regiunea să fie foarte predispusă la avalanșe.",
+          "Muntele blochează sistemele de ploi din Pacific și creează o umbră de ploaie extremă în est.",
+          "La vest de vârfuri cresc păduri dense, udate de ploaie, cu brazi Douglas gigantici."
+        ],
+        "en": [
+          "The mountains establish the extreme northernmost spur of the massive North American Cascade Range.",
+          "The Canadian section is composed primarily of uplifted metamorphic rock rather than massive volcanoes.",
+          "Mount Tulameen stands at exactly 2,305 meters, acting as the absolute highest peak in the region.",
+          "The highly engineered Coquihalla Highway physically cuts straight through the massive mountain range.",
+          "Extreme winter snowfall on the highway passes renders the entire region highly prone to avalanches.",
+          "The mountains aggressively block Pacific rain systems, creating a severe eastern rain shadow.",
+          "West of the peaks, incredibly dense, rain-soaked forests feature gigantic Douglas-fir trees."
+        ]
+      }
+    }
+  ]
+}

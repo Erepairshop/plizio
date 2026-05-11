@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "Mexikó egyik utolsó nagy kiterjedésű trópusi esőerdője, amely egyedülálló biológiai sokféleségnek ad otthont Chiapas államban.",
+      "facts": ["Chiapas állam", "Trópusi esőerdő", "Biológiai sokszínűség", "Érintetlen élővilág"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "A világ egyik legnagyobb bioszféra rezervátuma a Baja California-félszigeten, amely a szürkebálnák fontos szaporodóhelye.",
+      "facts": ["Baja California", "Szürkebálna", "Szaporodóhely", "Bioszféra rezervátum"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "Lenyűgöző rezervátum a Yucatán-félszigeten, ahol hatalmas flamingócsapatok élvezik a védett lagúnák nyugalmát.",
+      "facts": ["Yucatán-félsziget", "Flamingók", "Lagúna", "Természetvédelem"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "Oaxaca állambeli természetvédelmi terület, amely a tengeri teknősök védelmére és az ökoturizmus népszerűsítésére fókuszál.",
+      "facts": ["Oaxaca állam", "Tengeri teknősök", "Természetvédelem", "Ökoturizmus"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "Veracruz állam trópusi ökoszisztémája, amely a vulkanikus tájakat és az esőerdőket ötvözi páratlan módon.",
+      "facts": ["Veracruz állam", "Trópusi ökoszisztéma", "Vulkánikus táj", "Esőerdő"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "Querétaro állambeli hegyvidéki bioszféra rezervátum, amely változatos mikroklímájával számos fajnak biztosít otthont.",
+      "facts": ["Querétaro állam", "Bioszféra rezervátum", "Hegyvidéki táj", "Változatos mikroklíma"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Közép-amerikai sziget a Yucatán-félsziget északi részén, amely nyugalmáról és a bálnacápák látogatásáról ismert.",
+      "facts": ["Yucatán közelében", "Sziget", "Bálnacápák", "Nyugalom"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Népszerű sziget a Karib-tengeren, amely a kristálytiszta vizeiről és a gazdag tengeri élővilágáról vált híressé.",
+      "facts": ["Karib-tenger", "Sziget", "Kristálytiszta víz", "Tengeri élővilág"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "A Pátzcuaro-tó közepén fekvő kis sziget, amely a hagyományos purépecha kultúráról és a halászatról híres.",
+      "facts": ["Pátzcuaro-tó", "Purépecha kultúra", "Hagyományos halászat", "Sziget"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "UNESCO bioszféra rezervátum a Kaliforniai-öbölben, amely lenyűgöző tengeri emlősöknek és sivatagi növényzetnek ad otthont.",
+      "facts": ["Kaliforniai-öböl", "UNESCO rezervátum", "Tengeri emlősök", "Sivatagi növényzet"]
+    }
+  ]
+}

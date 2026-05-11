@@ -1,0 +1,150 @@
+{
+  "lang": "de",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTajikistanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khujand-cities-v2",
+      "description": "Chudschand ist eine der ältesten Städte Zentralasiens und liegt am Ufer des Syrdarja. Sie ist ein bedeutendes Industrie- und Kulturzentrum im Norden Tadschikistans.",
+      "facts": ["Zweitgrößte Stadt Tadschikistans.", "Historisch wichtig an der Seidenstraße.", "Wichtiger Standort am Fluss Syrdarja."]
+    },
+    {
+      "id": "kulob-cities-v2",
+      "description": "Kulob ist eine der ältesten Städte des Landes und ein wichtiges regionales Zentrum. Sie ist bekannt für ihre jahrtausendealte Geschichte und bedeutende Kulturschätze.",
+      "facts": ["Eines der kulturellen Zentren Tadschikistans.", "Besitzt eine jahrtausendealte Geschichte.", "Wichtiger Ort für Bildung und Kultur."]
+    },
+    {
+      "id": "istaravshan-cities-v2",
+      "description": "Istarawschan ist berühmt für seine gut erhaltene historische Architektur und Kunsthandwerkstraditionen. Die Stadt war einst ein bedeutendes Zentrum an der Seidenstraße.",
+      "facts": ["Bekannt für traditionelle Handwerkskunst.", "Reiche historische Architektur.", "Ehemaliges Zentrum an der Seidenstraße."]
+    },
+    {
+      "id": "tursunzoda-cities-v2",
+      "description": "Tursunsoda ist ein wichtiges industrielles Zentrum, das besonders für die Aluminiumproduktion bekannt ist. Die Stadt liegt im Westen des Landes.",
+      "facts": ["Zentrum der Aluminiumindustrie.", "Wichtiger Industriestandort.", "Liegt im Westen Tadschikistans."]
+    },
+    {
+      "id": "konibodom-cities-v2",
+      "description": "Konibodom ist eine Stadt im Norden Tadschikistans, die für ihre lange Geschichte als Handelsort bekannt ist. Sie liegt in einer fruchtbaren Region im Ferghanatal.",
+      "facts": ["Traditioneller Handelsstandort.", "Liegt im fruchtbaren Ferghanatal.", "Lange Geschichte im Norden des Landes."]
+    },
+    {
+      "id": "isfara-cities-v2",
+      "description": "Isfara ist eine historische Stadt im Norden, die für ihre malerische Lage am Fuße des Turkestangebirges bekannt ist. Die Umgebung ist für ihren Obstanbau berühmt.",
+      "facts": ["Gelegen am Fuße des Turkestangebirges.", "Bekannt für intensiven Obstanbau.", "Stadt mit langer historischer Tradition."]
+    },
+    {
+      "id": "panjakent-cities-v2",
+      "description": "Pandschakent ist ein bedeutender historischer Ort, berühmt für die Ruinen einer antiken sogdischen Stadt. Sie liegt im malerischen Serafschantal.",
+      "facts": ["Heimat bedeutender archäologischer Ruinen.", "Einst ein Zentrum der Sogdier.", "Liegt im malerischen Serafschantal."]
+    },
+    {
+      "id": "khorugh-cities-v2",
+      "description": "Chorugh ist das administrative Zentrum der Berg-Badachschan Autonomen Region und liegt tief im Pamir-Gebirge. Die Stadt ist ein wichtiger Ausgangspunkt für Trekkingtouren.",
+      "facts": ["Hauptstadt von Berg-Badachschan.", "Liegt tief im Pamir-Gebirge.", "Wichtiger Startpunkt für Bergexpeditionen."]
+    },
+    {
+      "id": "yovon-cities-v2",
+      "description": "Jowon ist eine schnell wachsende Industriestadt südlich der Hauptstadt Duschanbe. Sie hat sich in den letzten Jahrzehnten wirtschaftlich stark entwickelt.",
+      "facts": ["Wichtiger aufstrebender Industriestandort.", "Südlich von Duschanbe gelegen.", "Starke wirtschaftliche Entwicklung."]
+    },
+    {
+      "id": "hisor-cities-v2",
+      "description": "Hisor ist eine Stadt mit einer bedeutenden historischen Festung, die weit über die Landesgrenzen hinaus bekannt ist. Sie liegt nahe der Hauptstadt Duschanbe.",
+      "facts": ["Heimat der berühmten Hisor-Festung.", "Bedeutendes historisches Erbe.", "In unmittelbarer Nähe zu Duschanbe."]
+    },
+    {
+      "id": "nurek-cities-v2",
+      "description": "Nurek ist bekannt für seinen riesigen Stausee und das damit verbundene Wasserkraftwerk, das eine zentrale Energiequelle für das ganze Land darstellt.",
+      "facts": ["Heimat des gigantischen Nurek-Stausees.", "Zentrale Energiequelle Tadschikistans.", "Wichtige Bedeutung für die Stromerzeugung."]
+    },
+    {
+      "id": "farkhor-cities-v2",
+      "description": "Farchor ist eine Stadt im Süden Tadschikistans nahe der Grenze zu Afghanistan. Die Region ist landwirtschaftlich geprägt und ein wichtiger lokaler Knotenpunkt.",
+      "facts": ["Gelegen im Süden nahe der afghanischen Grenze.", "Landwirtschaftlich geprägte Region.", "Wichtiger lokaler Knotenpunkt."]
+    },
+    {
+      "id": "vose-cities-v2",
+      "description": "Wose ist eine kleine Stadt im Südwesten, die als regionales Zentrum für die umliegenden landwirtschaftlichen Gebiete dient.",
+      "facts": ["Regionales Zentrum im Südwesten.", "Wichtig für die Landwirtschaft.", "Verwaltungszentrum der Region."]
+    },
+    {
+      "id": "buston-cities-v2",
+      "description": "Buston ist eine Stadt im Norden Tadschikistans. Sie hat eine lange Geschichte in der Region und ist wirtschaftlich vor allem regional verankert.",
+      "facts": ["Stadt im Norden Tadschikistans.", "Regionale wirtschaftliche Bedeutung.", "Teil der Industrieregion im Norden."]
+    },
+    {
+      "id": "ghafurov-cities-v2",
+      "description": "Ghafurov ist eine Stadt nahe Chudschand, benannt nach einem bedeutenden tadschikischen Historiker. Die Stadt ist ein wichtiger Ort für Bildung und Forschung.",
+      "facts": ["Benannt nach einem berühmten Historiker.", "Nahe Chudschand gelegen.", "Zentrum für lokale Bildung."]
+    },
+    {
+      "id": "danghara-cities-v2",
+      "description": "Danghara hat sich in den letzten Jahren rasant zu einem industriellen und administrativen Zentrum entwickelt. Die Stadt liegt in einem strategisch wichtigen Gebiet.",
+      "facts": ["Rasant wachsende Industriestadt.", "Wichtiges administratives Zentrum.", "Strategisch bedeutende Lage."]
+    },
+    {
+      "id": "shahrtuz-cities-v2",
+      "description": "Schahrtuz ist eine Stadt im tiefen Süden des Landes. Sie dient als wichtiger lokaler Marktort und landwirtschaftliches Zentrum.",
+      "facts": ["Stadt im tiefen Süden Tadschikistans.", "Bedeutender lokaler Marktort.", "Zentrum der Agrarwirtschaft."]
+    },
+    {
+      "id": "zafarobod-cities-v2",
+      "description": "Safarobod ist eine Stadt im Norden, die maßgeblich durch landwirtschaftliche Bewässerungsprojekte geprägt wurde.",
+      "facts": ["Im Norden Tadschikistans gelegen.", "Geprägt durch Bewässerungslandwirtschaft.", "Wichtiger Ort für den Agrarsektor."]
+    },
+    {
+      "id": "shaydon-cities-v2",
+      "description": "Sajdon ist eine kleine Stadt im Norden, die als regionales Zentrum für die umliegende Agrarregion fungiert.",
+      "facts": ["Regionales Zentrum im Norden.", "Fokus auf Landwirtschaft.", "Ländlich geprägte Stadt."]
+    },
+    {
+      "id": "murghob-cities-v2",
+      "description": "Murgab ist die höchstgelegene Stadt Tadschikistans und liegt in der rauen, hochalpinen Landschaft des östlichen Pamir-Gebirges.",
+      "facts": ["Höchstgelegene Stadt des Landes.", "Liegt in den rauen östlichen Pamir-Bergen.", "Extrem hochalpines Klima."]
+    },
+    {
+      "id": "ayni-cities-v2",
+      "description": "Ajni liegt in einer malerischen Bergregion und ist benannt nach einem berühmten tadschikischen Schriftsteller. Die Stadt ist Ausgangspunkt für viele Bergwanderungen.",
+      "facts": ["Benannt nach einem berühmten Schriftsteller.", "Gelegen in einer malerischen Bergregion.", "Ausgangspunkt für viele Bergwanderungen."]
+    },
+    {
+      "id": "gharm-cities-v2",
+      "description": "Gharm liegt in einer bergigen Region im Zentrum des Landes. Sie ist ein bedeutendes historisches Zentrum im Rasht-Tal.",
+      "facts": ["Bedeutendes Zentrum im Rasht-Tal.", "In einer bergigen Region gelegen.", "Historisch wichtige Stadt."]
+    },
+    {
+      "id": "qabodiyon-cities-v2",
+      "description": "Qabodiyon ist eine historische Siedlung im Süden Tadschikistans. Die Region blickt auf eine sehr lange Siedlungsgeschichte zurück.",
+      "facts": ["Historische Siedlung im Süden.", "Sehr lange Siedlungsgeschichte.", "Wichtiger Ort für Archäologie."]
+    },
+    {
+      "id": "levakant-cities-v2",
+      "description": "Lewakant ist eine Stadt im Südwesten Tadschikistans. Sie hat eine moderne industrielle Basis und ist ein bedeutender Wirtschaftsfaktor für die Region.",
+      "facts": ["Moderne industrielle Basis.", "Bedeutender Wirtschaftsfaktor.", "Stadt im Südwesten des Landes."]
+    },
+    {
+      "id": "roghun-cities-v2",
+      "description": "Roghun ist bekannt für den Bau eines der weltweit größten Wasserkraftwerke. Die Stadt erlebt durch dieses gewaltige Infrastrukturprojekt einen großen Wandel.",
+      "facts": ["Bekannt für das große Wasserkraftprojekt.", "Erlebt durch Infrastrukturbau großen Wandel.", "Strategisch wichtiger Energie-Standort."]
+    },
+    {
+      "id": "hamadoni-cities-v2",
+      "description": "Hamadoni ist eine Stadt im Süden, die nach einem bedeutenden persischen Dichter und Gelehrten benannt wurde.",
+      "facts": ["Benannt nach einem berühmten persischen Gelehrten.", "Stadt im Süden Tadschikistans.", "Regionales Zentrum."]
+    },
+    {
+      "id": "ishkoshim-cities-v2",
+      "description": "Ischkoschim liegt direkt am Fluss Pandsch an der Grenze zu Afghanistan. Es ist ein wichtiger Handels- und Grenzort im Pamir-Gebirge.",
+      "facts": ["Gelegen an der Grenze zu Afghanistan.", "Handels- und Grenzort.", "Wichtig im Pamir-Gebirge."]
+    },
+    {
+      "id": "dushanbe-zoo-life-v2",
+      "description": "Der Zoo in Duschanbe ist die zentrale Einrichtung zur Tierhaltung in der tadschikischen Hauptstadt und beherbergt eine Vielfalt an lokalen und exotischen Arten.",
+      "facts": ["Zentrale Einrichtung in Duschanbe.", "Beherbergt lokale und exotische Tierarten.", "Wichtiges Ausflugsziel für Familien."]
+    }
+  ]
+}

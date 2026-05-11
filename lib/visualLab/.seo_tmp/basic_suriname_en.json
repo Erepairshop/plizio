@@ -1,0 +1,82 @@
+{
+  "lang": "en",
+  "country": "Suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLifeV2.ts",
+    "lib/visualLab/data/poiExtraSurinameNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sr-rosebel-goldmine-economic-v2",
+      "description": "One of Suriname's primary gold mining operations located in the Brokopondo District.",
+      "facts": ["Key gold producer", "Brokopondo District", "Extensive open-pit mine"]
+    },
+    {
+      "id": "sr-hafen-paranam-economic-v2",
+      "description": "An important industrial river port facility located on the Suriname River.",
+      "facts": ["Suriname River location", "Bauxite export hub", "Industrial infrastructure"]
+    },
+    {
+      "id": "sr-hafen-moengo-economic-v2",
+      "description": "A historic port town that serves as a key site for bauxite-related logistics.",
+      "facts": ["Bauxite industry history", "River-based transport", "Marowijne District"]
+    },
+    {
+      "id": "sr-sail-garnelenfabrik-economic-v2",
+      "description": "A major shrimp processing and export facility contributing to the fishing industry.",
+      "facts": ["Shrimp processing", "Export-oriented facility", "Paramaribo region"]
+    },
+    {
+      "id": "sr-de-molen-getreidemuehle-economic-v2",
+      "description": "A key grain mill providing processed agricultural products for the local market.",
+      "facts": ["Grain processing", "Local food supply", "Paramaribo infrastructure"]
+    },
+    {
+      "id": "sr-vsh-foods-margarinefabrik-economic-v2",
+      "description": "A prominent margarine and edible oils production factory operating in Paramaribo.",
+      "facts": ["Margarine production", "Edible oil processing", "VSH group subsidiary"]
+    },
+    {
+      "id": "sr-argos-zementterminal-economic-v2",
+      "description": "A vital cement terminal facilitating the import and distribution of building materials.",
+      "facts": ["Cement distribution", "Construction sector support", "Port infrastructure"]
+    },
+    {
+      "id": "sr-traymore-hafen-economic-v2",
+      "description": "A specialized port and logistics terminal supporting maritime commerce in Suriname.",
+      "facts": ["Maritime logistics", "Commercial shipping", "Paramaribo river access"]
+    },
+    {
+      "id": "sr-pengel-monument-history-v2",
+      "description": "A monument honoring Johan Adolf Pengel, a pivotal figure in Suriname's political history.",
+      "facts": ["Political commemorative site", "Paramaribo city", "Statue monument"]
+    },
+    {
+      "id": "sr-arya-dewaker-history-v2",
+      "description": "A historical site associated with the cultural and social development of the Indo-Surinamese community.",
+      "facts": ["Cultural heritage", "Community landmark", "Indo-Surinamese history"]
+    },
+    {
+      "id": "sr-neveh-shalom-history-v2",
+      "description": "One of the oldest synagogues in the Western Hemisphere, reflecting colonial religious history.",
+      "facts": ["18th-century structure", "Jewish cultural site", "Paramaribo city center"]
+    },
+    {
+      "id": "paramaribo-life-v2",
+      "description": "The capital city showcasing a blend of Dutch colonial architecture and diverse cultures.",
+      "facts": ["National capital", "UNESCO World Heritage site", "Diverse ethnic population"]
+    },
+    {
+      "id": "sr-bigi-pan-nature-v2",
+      "description": "A large coastal lagoon and nature reserve renowned for its diverse bird populations.",
+      "facts": ["Coastal bird sanctuary", "Lagoon ecosystem", "Nickerie District"]
+    },
+    {
+      "id": "sr-voltzberg-nature-v2",
+      "description": "A granite dome peak located within the Central Suriname Nature Reserve, popular for hiking.",
+      "facts": ["Granite inselberg", "Central Suriname Reserve", "Tropical rainforest"]
+    }
+  ]
+}

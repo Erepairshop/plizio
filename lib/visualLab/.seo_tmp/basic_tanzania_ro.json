@@ -1,0 +1,61 @@
+{
+  "lang": "ro",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mikumi-park-life-v2",
+      "description": "Parcul Național Mikumi oferă observarea animalelor sălbatice într-un peisaj variat de savană. Este situat strategic în apropierea drumului principal care leagă Dar es Salaam de zonele sudice.",
+      "facts": ["Suprafață: 3.230 km²", "Fondat în 1964", "Aproape de Munții Uluguru", "Habitat de elefanți"]
+    },
+    {
+      "id": "arusha-park-life-v2",
+      "description": "Parcul Național Arusha găzduiește Muntele Meru și o varietate de ecosisteme alpine și de pădure tropicală. Este renumit pentru populația sa diversă de păsări și primate.",
+      "facts": ["Include Muntele Meru", "Înființat în 1960", "Suprafață: 552 km²", "Bogăție în colobi"]
+    },
+    {
+      "id": "mahenge-landwirtschaft-life-v2",
+      "description": "Regiunea Mahenge este cunoscută pentru fertilitatea solului și activitățile agricole locale centrate pe cultivarea orezului și a cafelei. Peisajul deluros susține o producție agricolă diversificată.",
+      "facts": ["Altitudine ridicată", "Cultivarea cafelei", "Centru de orez", "Sol fertil"]
+    },
+    {
+      "id": "dodoma-schulpark-life-v2",
+      "description": "Dodoma găzduiește numeroase spații verzi și grădini educaționale utilizate pentru demonstrații agricole și activități școlare. Aceste zone contribuie la înțelegerea agriculturii locale de către tineri.",
+      "facts": ["Capitala Tanzaniei", "Zona semi-aridă", "Proiecte educative", "Agricultură locală"]
+    },
+    {
+      "id": "morogoro-garten-life-v2",
+      "description": "Grădinile din Morogoro sunt puncte cheie pentru horticultură și cercetare agricolă la poalele Munților Uluguru. Regiunea beneficiază de precipitații abundente care favorizează creșterea plantelor.",
+      "facts": ["La poalele Uluguru", "Climă umedă", "Cercetare horticolă", "Soluri roditoare"]
+    },
+    {
+      "id": "mikumi-savanne-life-v2",
+      "description": "Savana Mikumi este un ecosistem deschis, esențial pentru migrația sezonieră a mamiferelor mari în regiunea centrală a Tanzaniei. Zona este caracterizată prin câmpii întinse și vegetație de tip miombo.",
+      "facts": ["Vegetație tip miombo", "Câmpii deschise", "Migrația mamiferelor", "Punct de safari"]
+    },
+    {
+      "id": "songea-farm-life-v2",
+      "description": "Fermele din jurul Songea reprezintă un pilon al agriculturii din sudul Tanzaniei, cu accent pe cultivarea tutunului și a porumbului. Regiunea beneficiază de condiții climatice potrivite pentru culturi variate.",
+      "facts": ["Cultivarea tutunului", "Producție de porumb", "Sudul Tanzaniei", "Economie agricolă"]
+    },
+    {
+      "id": "masasi-landwirtschaft-life-v2",
+      "description": "Agricultura în Masasi se concentrează pe culturi rezistente la secetă și valorificarea resurselor din platourile învecinate. Este o zonă vitală pentru subzistența populației rurale locale.",
+      "facts": ["Platourile Masasi", "Cultură de subzistență", "Rezistență la secetă", "Regiunea Mtwara"]
+    },
+    {
+      "id": "geita-land-life-v2",
+      "description": "Geita este o zonă cu activități economice mixte, incluzând mineritul aurifer și agricultura pe scară mică. Terenurile fertile din jurul lacului Victoria susțin producția locală de hrană.",
+      "facts": ["Activitate minieră", "Lângă Lacul Victoria", "Economie mixtă", "Regiunea Geita"]
+    },
+    {
+      "id": "shinyanga-acker-life-v2",
+      "description": "Terenurile arabile din Shinyanga sunt esențiale pentru cultivarea bumbacului și a sorgului, adaptate climei mai uscate. Regiunea joacă un rol important în producția agricolă a țării.",
+      "facts": ["Cultura bumbacului", "Producție de sorg", "Climă aridă", "Nord-vestul Tanzaniei"]
+    }
+  ]
+}

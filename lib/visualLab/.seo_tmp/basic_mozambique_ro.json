@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-national-park-life-v2",
+      "description": "Un parc vast care face parte din zona de conservare transfrontalieră Great Limpopo. Oferă habitat pentru animale sălbatice precum elefanți, lei și leoparzi.",
+      "facts": ["Parte din Great Limpopo", "Habitat pentru elefanți", "Suprafață vastă", "Conservare transfrontalieră"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "Un arhipelag de insule coraliene din Oceanul Indian, renumit pentru biodiversitatea marină și recifurile de corali spectaculoase.",
+      "facts": ["Insule coraliene", "Biodiversitate marină", "Oceanul Indian", "Recifuri protejate"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "Situat în interiorul țării, acest parc este un refugiu important pentru refacerea populațiilor de animale sălbatice din ecosistemele savanei.",
+      "facts": ["Ecosistem de savană", "Proiecte de repopulare", "Interiorul Mozambicului", "Zonă protejată"]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "description": "Un parc caracterizat prin zone umede și terenuri de savană, fiind esențial pentru conservarea biodiversității locale și a resurselor de apă.",
+      "facts": ["Zone umede", "Savană", "Conservarea apei", "Biodiversitate locală"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "O rezervație naturală de coastă care îmbină estuarele cu plajele marine, oferind un mediu unic pentru numeroase specii de păsări și pești.",
+      "facts": ["Rezervație de coastă", "Estuare și plaje", "Diversitate aviară", "Habitat marin"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "Regiunea Nampula este un centru vital pentru producția agricolă, fiind cunoscută pentru culturile de bumbac și nuci caju.",
+      "facts": ["Centru agricol", "Producție de bumbac", "Culturi de caju", "Economie regională"]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "description": "Provincia Zambezia dispune de soluri fertile ideale pentru cultivarea trestiei de zahăr, fiind o zonă agricolă cheie în țară.",
+      "facts": ["Soluri fertile", "Cultivarea trestiei", "Zonă agricolă cheie", "Economia provinciei"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "Zona înaltă din Manica oferă condiții climatice favorabile pentru cultivarea cafelei de calitate superioară în Mozambic.",
+      "facts": ["Zonă înaltă", "Climat pentru cafea", "Producție locală", "Calitate superioară"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "Niassa este cunoscută pentru activitățile sale agricole, inclusiv cultivarea tutunului, care susține economia comunităților locale.",
+      "facts": ["Producție agricolă", "Cultivarea tutunului", "Economie locală", "Provincia Niassa"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "Grădinile botanice din Maputo găzduiesc o varietate de plante tropicale, servind drept spațiu verde vital pentru oraș.",
+      "facts": ["Grădină botanică", "Plante tropicale", "Spațiu verde", "Maputo"]
+    }
+  ]
+}

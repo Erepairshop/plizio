@@ -1,0 +1,60 @@
+{
+  "lang": "ro",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaNatureV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-illampu-nature-v2",
+      "description": "Illampu este unul dintre cele mai impunătoare și tehnice vârfuri din Anzii bolivieni, situat în partea de nord a Cordilierei Reale.",
+      "facts": ["Altitudine de 6368 metri", "Munte sacru în mitologia andină", "Trasee dificile de alpinism", "Vârf masiv înzăpezit"]
+    },
+    {
+      "id": "bo-ancohuma-nature-v2",
+      "description": "Ancohuma este al treilea cel mai înalt munte din Bolivia, formând împreună cu Illampu un masiv muntos spectaculos lângă Lacul Titicaca.",
+      "facts": ["Altitudine de 6427 metri", "Vârf glaciar vast", "Numele înseamnă 'Apă Albă'", "Vizibilitate excelentă de pe lac"]
+    },
+    {
+      "id": "bolivia-cordillera-real-relief-v2",
+      "description": "Cordillera Real este coloana vertebrală a Anzilor bolivieni, un lanț muntos spectaculos cu numeroase vârfuri de peste 6000 de metri.",
+      "facts": ["Lungime de 125 km", "Ghețari antici", "Sursă vitală de apă pentru La Paz", "Peisaj alpin dramatic"]
+    },
+    {
+      "id": "bolivia-cordillera-occidental-relief-v2",
+      "description": "Cordillera Occidental formează granița naturală cu Chile, fiind caracterizată de un peisaj vulcanic arid și vârfuri maiestuoase.",
+      "facts": ["Lanț muntos vulcanic", "Climat extrem de arid", "Vârfuri precum Sajama și Parinacota", "Granița vestică a Boliviei"]
+    },
+    {
+      "id": "bolivia-altiplano-andino-relief-v2",
+      "description": "Podișul Altiplano este un platou vast situat la mare altitudine între ramurile Anzilor, fiind leagănul civilizațiilor andine antice.",
+      "facts": ["Altitudine medie de 3800m", "Al doilea cel mai înalt platou din lume", "Găzduiește Lacul Titicaca", "Centru demografic istoric"]
+    },
+    {
+      "id": "bolivia-llanos-de-moxos-relief-v2",
+      "description": "Llanos de Moxos reprezintă o regiune vastă de câmpii inundabile în Amazonia boliviană, celebră pentru sistemele sale hidrologice antice.",
+      "facts": ["Câmpii tropicale", "Sistem complex de canale antice", "Biodiversitate acvatică bogată", "Inundații sezoniere masive"]
+    },
+    {
+      "id": "bolivia-bosque-seco-chiquitano-relief-v2",
+      "description": "Pădurea uscată Chiquitano este cel mai mare ecosistem de acest tip din lume, o zonă de tranziție unică între Amazon și Chaco.",
+      "facts": ["Ecosistem rar", "Biodiversitate endemică", "Sezon uscat pronunțat", "Importanță globală pentru conservare"]
+    },
+    {
+      "id": "bolivia-serrania-aguarague-relief-v2",
+      "description": "Serranía del Aguaragüe este un lanț muntos strategic în sudul Boliviei, funcționând ca un rezervor natural de apă pentru regiunea Chaco.",
+      "facts": ["Parc Național și arie protejată", "Barieră climatică importantă", "Sursă de apă potabilă", "Regiune bogată în hidrocarburi"]
+    },
+    {
+      "id": "bolivia-cerro-zapaleri-relief-v2",
+      "description": "Cerro Zapaleri este un munte vulcanic de o importanță geografică deosebită, marcând punctul de frontieră triplă între Bolivia, Chile și Argentina.",
+      "facts": ["Punct de triplă frontieră", "Altitudine de 5653 metri", "Situat în Rezervația Eduardo Avaroa", "Peisaj de deșert înalt"]
+    },
+    {
+      "id": "bolivia-serrania-de-san-simon-relief-v2",
+      "description": "Serranía de San Simón este o formațiune muntoasă izolată în câmpiile amazoniene, cunoscută istoric pentru zăcămintele sale de aur.",
+      "facts": ["Munte izolat în junglă", "Istoric minier bogat", "Acoperit de pădure tropicală densă", "Situat în departamentul Beni"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tristao-islands-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Tristao-Inseln (Îles Tristao) bilden ein abgelegenes und ökologisch hochsensibles Archipel im äußersten Nordwesten Guineas, nahe der Grenze zu Guinea-Bissau. Geografisch liegen die Inseln im Mündungsgebiet des Rio Nuñez und des Rio Kapachez und sind durch ein flaches Relief, ausgedehnte Sandbänke und ein Labyrinth aus Gezeitenkanälen geprägt. Das Archipel ist vor allem für seine gewaltigen Mangrovenwälder bekannt, die zu den besterhaltenen in Westafrika gehören und als RAMSAR-Gebiet von internationaler Bedeutung geschützt sind. Diese Habitate bieten einen kritischen Rückzugsort für bedrohte Tierarten wie das Afrikanische Manati, Grüne Meeresschildkröten und zahlreiche Zugvogelarten auf ihrem Weg entlang der ostatlantischen Flugroute. Das Leben der lokalen Bevölkerung, hauptsächlich der Ethnien Baga und Nalu, ist vollständig auf die natürlichen Ressourcen des Archipels ausgerichtet, insbesondere auf die handwerkliche Fischerei und den Reisanbau in den Mangroven-Poldern. Wirtschaftlich bleibt die Region aufgrund ihrer Isolation weitgehend unerschlossen, bietet jedoch ein enormes Potenzial für den wissenschaftlichen Ökotourismus. Historisch dienten die Inseln als Zufluchtsort für Gemeinschaften, die ihre traditionellen Bräuche vor kolonialen und religiösen Einflüssen bewahren wollten. Für Besucher stellt Tristao eine der letzten unberührten Küstenlandschaften Westafrikas dar, wo der Rhythmus der Natur noch immer das tägliche Überleben bestimmt.",
+        "hu": "A Tristao-szigetek (Îles Tristao) egy távoli és ökológiailag rendkívül érzékeny szigetcsoport Guinea északnyugati csücskében, a guinea-bissaui határ közelében. Földrajzilag az archipelágus a Rio Nuñez és a Rio Kapachez torkolatvidékén fekszik, sekély vizek, kiterjedt homokpadok és árapály-csatornák bonyolult hálózata jellemzi. A szigetek elsősorban hatalmas mangrove-erdeikről ismertek, amelyek Nyugat-Afrika legjobb állapotban megmaradt ilyen típusú ökoszisztémái közé tartoznak, és nemzetközi jelentőségű RAMSAR-területként élveznek védelmet. Ezek az élőhelyek kritikus menedéket nyújtanak olyan veszélyeztetett fajoknak, mint az afrikai manátusz, a zöld tengeri teknős, valamint számos vonuló madárfaj, amelyek az atlanti útvonalon itt pihennek meg. A helyi lakosság, főként a baga és nalu népcsoportok élete teljes mértékben a szigetcsoport természeti kincseire épül: a kézműves halászat és a mangrove-területeken kialakított parcellákon zajló rizstermesztés biztosítja a megélhetésüket. Gazdaságilag a régió az elszigeteltsége miatt elmaradott, de óriási lehetőségeket rejt a tudományos célú ökoturizmus számára. Történelmileg a szigetek menedékként szolgáltak azon közösségek számára, amelyek meg akarták őrizni hagyományos rítusaikat a külső hatásokkal szemben. A látogatók számára Tristao Nyugat-Afrika egyik utolsó érintetlen tengerparti vidéke, ahol a természet rendje határozza meg a mindennapokat.",
+        "ro": "Insulele Tristao (Îles Tristao) reprezintă un arhipelag izolat și de o importanță ecologică excepțională, situat în extremitatea nord-vestică a Guineei, la granița cu Guineea-Bissau. Din punct de vedere geografic, arhipelagul este amplasat la vărsarea râurilor Rio Nuñez și Rio Kapachez, fiind caracterizat printr-un relief plat, bancuri de nisip întinse și un labirint de canale influențate de maree. Insulele sunt renumite pentru pădurile lor vaste de mangrove, considerate printre cele mai bine conservate din Africa de Vest și protejate ca sit RAMSAR de importanță internațională. Aceste habitate oferă un refugiu critic pentru specii amenințate, cum ar fi lamantinul african, țestoasele verzi și numeroase păsări migratoare care urmează ruta est-atlantică. Viața populațiilor locale, în special etniile Baga și Nalu, este strâns legată de resursele naturale ale arhipelagului, bazându-se pe pescuitul artizanal și pe cultivarea orezului în zonele de maree. Economic, regiunea rămâne puțin dezvoltată din cauza izolării sale geografice, dar deține un potențial imens pentru ecoturismul științific. Istoric, insulele au servit drept refugiu pentru comunitățile care au dorit să-și păstreze tradițiile ancestrale în fața influențelor externe. Pentru vizitatori, Tristao reprezintă unul dintre ultimele peisaje costiere virgine ale Africii, unde ritmul naturii guvernează încă supraviețuirea cotidiană.",
+        "en": "The Tristao Islands (Îles Tristao) form a remote and ecologically vital archipelago in the far northwest of Guinea, near the border with Guinea-Bissau. Geographically, the islands are situated at the mouth of the Rio Nuñez and Rio Kapachez, defined by low-lying terrain, extensive sandbars, and a complex labyrinth of tidal creeks. The archipelago is primarily renowned for its massive mangrove forests, which are among the best-preserved in West Africa and protected as a RAMSAR site of international importance. These habitats provide a critical sanctuary for endangered species, including the West African manatee, green sea turtles, and numerous migratory birds traveling along the East Atlantic Flyway. The lives of the local communities, primarily the Baga and Nalu peoples, are entirely oriented toward the archipelago's natural resources, specifically artisanal fishing and rice cultivation in tidal polders. Economically, the region remains largely underdeveloped due to its isolation, yet it holds significant potential for scientific eco-tourism. Historically, the islands served as a sanctuary for groups seeking to preserve their traditional customs from colonial and religious encroachment. For visitors, Tristao stands as one of the last pristine coastal landscapes in West Africa, where the pulse of the tides still dictates daily life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Tristao-Archipel ist seit 1992 als RAMSAR-Feuchtgebiet geschützt.",
+          "Es ist einer der wichtigsten Lebensräume für das bedrohte Afrikanische Manati in Guinea.",
+          "Die Inseln sind nur bei Flut und mit erfahrenen lokalen Bootsführern erreichbar.",
+          "Tristao beherbergt bedeutende Nistplätze für Seeschwalben und andere Seevögel.",
+          "Die Bewohner nutzen spezielle Techniken zum Reisanbau in salzhaltigen Böden.",
+          "Die Region markiert den nördlichsten Punkt der guineischen Küstenlinie."
+        ],
+        "hu": [
+          "Az archipelágus 1992 óta szerepel a nemzetközi jelentőségű vizes élőhelyek (RAMSAR) listáján.",
+          "A szigetek környéke Guinea egyik legfontosabb manátusz-rezervátuma.",
+          "A terület csak dagály idején közelíthető meg biztonságosan kishajókkal.",
+          "A homokpadok fontos pihenőhelyei az Európából érkező vándormadaraknak.",
+          "A helyi nalu népcsoport különleges technikával semlegesíti a talaj sótartalmát a rizsföldeken.",
+          "Tristao szigetei alkotják Guinea legészakibb tengerparti szakaszát."
+        ],
+        "ro": [
+          "Arhipelagul Tristao acoperă o suprafață protejată de peste 85.000 de hectare.",
+          "Este un punct de monitorizare cheie pentru biologi datorită prezenței delfinilor de estuar.",
+          "Accesul limitat a permis conservarea unor specii de arbori de mangrove gigant.",
+          "Localnicii practică un tip de turism comunitar bazat pe respectul față de tradiții.",
+          "Insulele sunt afectate de eroziunea costieră accelerată în ultimii ani.",
+          "Situl reprezintă o barieră naturală critică pentru ecosistemul Rio Nuñez."
+        ],
+        "en": [
+          "The Tristao Islands have been a designated RAMSAR wetland since 1992.",
+          "The archipelago is a primary sanctuary for the endangered West African manatee.",
+          "Access to the islands is highly dependent on tidal cycles and local maritime knowledge.",
+          "It serves as a major breeding and stopover ground for several species of terns.",
+          "The local Baga people have engineered sophisticated polder systems for coastal rice farming.",
+          "Tristao marks the northernmost geographic limit of Guinea's maritime territory."
+        ]
+      }
+    },
+    {
+      "id": "sankarani-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Sankarani ist einer der bedeutendsten Nebenflüsse des Niger und eine lebenswichtige Wasserstraße im Osten Guineas. Geografisch entspringt der Fluss im Hochland von Waldguinea und fließt in nördlicher Richtung durch die Präfektur Mandiana, bevor er die Grenze nach Mali überquert. Der Sankarani zeichnet sich durch seinen gewundenen Lauf und seine weiten, fruchtbaren Täler aus, die das Rückgrat der lokalen Landwirtschaft bilden. Besonders bekannt ist der Fluss für den Sélingué-Staudamm (in Mali), dessen riesiges Reservoir weit nach Guinea zurückreicht und die Landschaft nachhaltig verändert hat. Historisch gesehen war das Sankarani-Becken das Herzland des Mali-Reiches; die legendäre Hauptstadt Niani lag an seinen Ufern. Heute ist das Leben am Fluss geprägt durch eine Kombination aus traditioneller Fischerei, intensivem Reisanbau und in jüngster Zeit durch den handwerklichen Goldbergbau in seinen alluvialen Ablagerungen. Wirtschaftlich ist der Sankarani unverzichtbar für den regionalen Handel und die Ernährungssicherheit in Oberguinea. Ökologisch bietet der Fluss wichtige Lebensräume für Wasservögel und Flusspferde, steht jedoch durch den Bergbau und die Sedimentation unter ökologischem Druck. Für Besucher bietet der Sankarani ein Bild von zeitloser Schönheit, das die tiefe historische und natürliche Verbundenheit zwischen Guinea und seinen Sahel-Nachbarn widerspiegelt.",
+        "hu": "A Sankarani a Niger-folyó egyik legfontosabb mellékfolyója és egyben Kelet-Guinea életbevágóan fontos vízi útja. Földrajzilag az Erdős-Guinea magaslatain ered, majd északi irányba tartva szeli át a Mandiana prefektúrát, mielőtt átlépné a mali határt. A Sankaranit kanyargós vonalvezetése és tágas, termékeny völgyei jellemzik, amelyek a helyi mezőgazdaság alapját képezik. A folyó neve nemzetközileg is ismert a (mali területen lévő) Sélingué-gát miatt, amelynek hatalmas víztározója messze visszanyúlik guineai területre, alapjaiban alakítva át a környező tájat. Történelmileg a Sankarani-medence a Mali Birodalom központi területe volt; a legendás főváros, Niani is a folyó partján feküdt. Ma a folyó menti életet a hagyományos halászat, az intenzív rizstermesztés, és az utóbbi időben a hordalékos talajban zajló kisipari aranybányászat határozza meg. Gazdaságilag a Sankarani nélkülözhetetlen Felső-Guinea élelmiszerellátása és a regionális kereskedelem szempontjából. Ökológiai szempontból a folyam fontos menedékhely a vízi madarak és vízilovak számára, bár a bányászat és az eliszaposodás komoly veszélyt jelent az ökoszisztémára. A látogatók számára a Sankarani az időtlen szépség és a gazdag történelmi múlt találkozását jelképezi.",
+        "ro": "Sankarani este unul dintre cei mai importanți afluenți ai Nigerului și o cale navigabilă vitală în estul Guineei. Geografic, râul izvorăște din zonele înalte ale Guineei Forestiere și curge spre nord prin prefectura Mandiana, înainte de a traversa frontiera în Mali. Sankarani se distinge prin cursul său sinuos și prin văile vaste și fertile care constituie baza agriculturii locale. Râul este cunoscut în special pentru barajul Sélingué (situat în Mali), al cărui rezervor imens se extinde adânc în teritoriul guineean, modificând permanent peisajul. Din punct de vedere istoric, bazinul Sankarani a fost inima Imperiului Mali, legendara capitală Niani fiind situată pe malurile sale. Astăzi, viața de-a lungul râului este marcată de o combinație între pescuitul tradițional, cultivarea intensivă a orezului și, mai recent, mineritul artizanal de aur în depozitele aluvionare. Economic, Sankarani este indispensabil pentru comerțul regional și securitatea alimentară în Guineea Superioară. Ecologic, râul oferă habitate esențiale pentru păsările acvatice și hipopotami, deși se confruntă cu presiuni ecologice cauzate de minerit și sedimentare. Pentru vizitatori, Sankarani oferă o imagine de o frumusețe atemporală, reflectând legătura istorică și naturală profundă dintre Guineea și vecinii săi din Sahel.",
+        "en": "The Sankarani is one of the Niger River's most significant tributaries and a vital waterway in eastern Guinea. Geographically, the river originates in the highlands of Forested Guinea and flows northward through the Mandiana Prefecture before crossing the border into Mali. The Sankarani is characterized by its meandering course and vast, fertile valleys that form the backbone of local agriculture. The river is globally recognized due to the Sélingué Dam (in Mali), whose massive reservoir extends far back into Guinean territory, permanently altering the surrounding landscape. Historically, the Sankarani basin was the heartland of the Mali Empire, with the legendary capital, Niani, situated along its banks. Today, life along the river is defined by a mix of traditional fishing, intensive rice farming, and recently, artisanal gold mining in its alluvial deposits. Economically, the Sankarani is indispensable for regional trade and food security in Upper Guinea. Ecologically, the river provides essential habitats for water birds and hippos, though it faces environmental pressures from mining and siltation. For visitors, the Sankarani presents a scene of timeless beauty, reflecting the deep historical and natural connection between Guinea and its Sahelian neighbors."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Sankarani ist ein primärer Zufluss des Niger-Flusssystems.",
+          "Der Fluss bildet auf Teilstrecken die natürliche Grenze zwischen Guinea und Mali.",
+          "Das Reservoir des Sélingué-Damms ist ein bedeutendes Binnenfischereigebiet.",
+          "Das Flusstal beherbergt die Ruinen der mittelalterlichen Hauptstadt Niani.",
+          "Sankarani ist bekannt für seine reichen alluvialen Goldvorkommen.",
+          "Der Flusspegel schwankt saisonal extrem stark, was die Schifffahrt beeinflusst."
+        ],
+        "hu": [
+          "A Sankarani a Niger-folyam egyik legfontosabb forrásága a száhel övezet határán.",
+          "A folyó medrében végzett hagyományos aranymosás évszázadokra nyúlik vissza.",
+          "A közeli Sélingué-víztározó jelentős hatással van a helyi mikroklímára.",
+          "A Sankarani mentén fekvő területek Guinea legfontosabb rizstermelő vidékei közé tartoznak.",
+          "A folyó fontos szerepet játszik a Guinea és Mali közötti informális kereskedelemben.",
+          "A torkolatvidék környékén gyakran láthatók nagy vízilócsoportok."
+        ],
+        "ro": [
+          "Râul Sankarani a fost principala cale de aprovizionare pentru imperiile manding.",
+          "Debitul său este reglat parțial de reținerea apei în bazinul superior guineean.",
+          "Valea râului este un sit arheologic de importanță mondială.",
+          "Sankarani asigură apa necesară pentru mii de hectare de culturi de porumb și mei.",
+          "Poluarea cu mercur din mineritul artizanal reprezintă o provocare ecologică curentă.",
+          "Este considerat unul dintre cele mai pitorești râuri de savană din Africa de Vest."
+        ],
+        "en": [
+          "The Sankarani is a primary feeder for the middle Niger River in Mali.",
+          "It acts as a natural international boundary between Guinea and Mali for several kilometers.",
+          "The river's flood-pulse sustains large-scale flood-recession agriculture.",
+          "Historically, the Sankarani was the spiritual and political axis of the Mali Empire.",
+          "The alluvial plains are famous for producing some of the highest-grade gold in Guinea.",
+          "It is a major route for artisanal pirogue transport between Mandiana and Bamako."
+        ]
+      }
+    },
+    {
+      "id": "mount-soumba-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Soumba (Mont Soumba) ist ein markanter Berg in der Präfektur Dubréka, etwa 50 Kilometer nordwestlich der Hauptstadt Conakry. Geografisch gehört er zu den westlichen Ausläufern des Fouta-Djallon-Massivs und erhebt sich eindrucksvoll über die Küstenebene von Maritime Guinea. Der Berg ist vor allem für seine üppige Vegetation und die berühmten Soumba-Wasserfälle an seinem Fuße bekannt, die zu den beliebtesten Ausflugszielen für die Bewohner von Conakry gehören. Die Topografie des Berges ist durch schroffe Granitfelsen und dichte Tropenwälder geprägt, die eine kühle Brise in die sonst schwüle Küstenregion bringen. Historisch gesehen war der Mount Soumba ein Ort der Ruhe und des Rückzugs für die lokalen Susu-Gemeinschaften. Heute spielt der Berg eine wichtige Rolle für den regionalen Tourismus und die Naherholung. Wirtschaftlich profitiert die umliegende Gemeinde Soumba von den Besuchern, die zum Wandern, Schwimmen und Picknicken kommen. Ökologisch bietet der Berg Lebensraum für eine Vielzahl von Vogelarten und Kleinsäugern, die in den geschützten Hangwäldern Zuflucht finden. Ein Aufstieg bietet spektakuläre Ausblicke auf das Ästuar des Soumba-Flusses und den Mount Kakoulima in der Ferne. Der Mount Soumba symbolisiert die natürliche Schönheit des Hinterlandes von Conakry und ist ein unverzichtbares Ziel für Naturfreunde.",
+        "hu": "A Soumba-hegy (Mont Soumba) egy jellegzetes csúcs a Dubréka prefektúrában, mintegy 50 kilométerre északnyugatra a fővárostól, Conakrytól. Földrajzilag a Fouta Djallon-hegység nyugati nyúlványaihoz tartozik, és látványosan emelkedik Alsó-Guinea tengerparti síksága fölé. A hegy elsősorban buja növényzetéről és a lábánál található híres Soumba-vízesésekről ismert, amelyek Conakry lakosainak egyik legkedveltebb kirándulóhelyévé teszik a környéket. A hegy domborzatát meredek gránitsziklák és sűrű trópusi erdők határozzák meg, amelyek frissítő, hűvös levegőt hoznak a párás parti övezetbe. Történelmileg a Soumba-hegy a helyi szuszu közösségek számára a nyugalom és a természetközelség helyszíne volt. Ma a hegy központi szerepet játszik a regionális turizmusban és a szabadidős tevékenységekben. Gazdaságilag a környező Soumba község sokat profitál a látogatókból, akik túrázni, úszni és piknikezni érkeznek ide. Ökológiai szempontból a hegy fontos élőhelyet biztosít számos madárfajnak és kisemlősnek, amelyek menedéket találnak a védett lejtőkön. A hegycsúcsról lenyűgöző panoráma nyílik a Soumba-folyó torkolatára és a távolban magasodó Kakoulima-hegyre. A Soumba-hegy Conakry hátországának egyik legszebb természeti kincse.",
+        "ro": "Muntele Soumba (Mont Soumba) este un vârf muntos proeminent situat în prefectura Dubréka, la aproximativ 50 de kilometri nord-vest de capitala Conakry. Din punct de vedere geografic, acesta aparține ramificațiilor vestice ale masivului Fouta Djallon și se înalță impunător deasupra câmpiei litorale a Guineei Maritime. Muntele este faimos în special pentru vegetația sa luxuriantă și pentru Cascadele Soumba situate la baza sa, care reprezintă una dintre cele mai populare destinații de weekend pentru locuitorii din Conakry. Topografia muntelui este marcată de stânci de granit abrupte și păduri tropicale dense, care aduc o briză răcoroasă în zona de coastă altfel toridă. Istoric, Muntele Soumba a fost un loc de liniște și refugiu pentru comunitățile locale Susu. Astăzi, acesta joacă un rol crucial în turismul regional și activitățile de recreere. Din punct de vedere economic, comunitatea locală beneficiază de pe urma fluxului de vizitatori veniți pentru drumeții și relaxare în natură. Ecologic, muntele oferă habitat pentru o varietate de specii de păsări și mamifere mici, protejate de pădurile de versant. O ascensiune pe culme oferă panorame spectaculoase asupra estuarului râului Soumba și a muntelui Kakoulima în depărtare. Muntele Soumba simbolizează frumusețea naturală a zonei limitrofe capitalei, fiind o destinație esențială pentru iubitorii de natură.",
+        "en": "Mount Soumba (Mont Soumba) is a prominent peak in the Dubréka Prefecture, located about 50 kilometers northwest of the capital, Conakry. Geographically part of the western foothills of the Fouta Djallon massif, it rises impressively above the coastal plains of Maritime Guinea. The mountain is best known for its lush vegetation and the famous Soumba Falls at its base, which are among the most popular recreational destinations for Conakry's residents. The topography features rugged granite outcrops and dense tropical forests that provide a refreshing breeze in the otherwise humid coastal region. Historically, Mount Soumba was a place of peace and sanctuary for the local Susu communities. Today, it plays a vital role in regional tourism and weekend getaways. Economically, the surrounding village of Soumba thrives on the visitors who come for hiking, swimming, and picnicking. Ecologically, the mountain provides a protected habitat for various bird species and small mammals within its slope forests. A climb to the top offers spectacular panoramic views of the Soumba River estuary and Mount Kakoulima in the distance. Mount Soumba represents the natural charm of Conakry's hinterland and is an essential destination for nature lovers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Soumba-Wasserfälle am Fuße des Berges sind ein Wahrzeichen der Region Dubréka.",
+          "Der Berg ist ein beliebtes Ziel für Tagesausflüge aus Conakry.",
+          "Soumba ist bekannt für seine dichten Sekundärwälder mit hoher Biodiversität.",
+          "Ein gut ausgebauter Wanderweg führt zum Gipfel des Berges.",
+          "Am Fuße des Berges befinden sich mehrere Hotels und Restaurants für Touristen.",
+          "Der Berg reguliert den Wasserfluss des Soumba-Flusses."
+        ],
+        "hu": [
+          "A hegy lábánál fekvő Soumba-vízesések Guinea egyik leglátogatottabb turisztikai célpontja.",
+          "A hegy közúton kevesebb mint egy óra alatt elérhető a fővárosból.",
+          "A terület híres a gazdag pillangópopulációjáról és ritka orchideáiról.",
+          "A Soumba-csúcsról tiszta időben látható az Atlanti-óceán partvonala.",
+          "A környező völgyben számos kistermelői gyümölcsös (mangó, banán) található.",
+          "A hegy fontos vízgyűjtő terület a Dubréka-öböl édesvíz-ellátásához."
+        ],
+        "ro": [
+          "Muntele Soumba este considerat 'poarta verde' spre regiunea Fouta Djallon.",
+          "Cascadele de la bază oferă piscine naturale ideale pentru scăldat.",
+          "Regiunea este cunoscută pentru microclimatul său mai blând decât cel urban.",
+          "Situl este preferat de pasionații de bird-watching din Guineea.",
+          "Arhitectura unităților turistice de la bază integrează elemente tradiționale Susu.",
+          "Drumul spre Soumba oferă perspective unice asupra masivului Kakoulima."
+        ],
+        "en": [
+          "The Soumba Falls at the mountain's base are a signature landmark of Dubréka.",
+          "It is one of the most accessible hiking destinations for those living in Conakry.",
+          "The mountain features a rich variety of tropical hardwood species.",
+          "The peak provides a strategic viewpoint over the entire Dubréka Bay area.",
+          "Local guides offer specialized botanical and bird-watching tours up the slopes.",
+          "The mountain plays a key role in regional moisture retention and cloud formation."
+        ]
+      }
+    },
+    {
+      "id": "diani-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Diani (oder St. Paul River) ist ein bedeutender grenzüberschreitender Fluss, der im Südosten Guineas entspringt und eine zentrale Rolle im Ökosystem der Region Guinée Forestière spielt. Geografisch hat der Fluss seine Quellen in den Hochlandregionen nahe Macenta und Beyla, wo er durch dichte tropische Regenwälder und hügeliges Gelände fließt. Der Diani bildet auf weiten Strecken die natürliche Grenze zwischen Guinea und Liberia, was ihm eine hohe geopolitische Bedeutung verleiht. Der Fluss ist bekannt für seinen wasserreichen Lauf, zahlreiche Stromschnellen und seine Bedeutung als Lebensader für die lokale Tierwelt, darunter Flusspferde und seltene Fischarten. Historisch gesehen war das Diani-Becken ein wichtiger Siedlungsraum für die Ethnien der Toma und Guerzé, die den Fluss für Transport und Fischerei nutzten. Wirtschaftlich ist der Diani für die regionale Landwirtschaft unverzichtbar, da er die Feuchtigkeit für die umliegenden Kaffee-, Kakao- und Kautschukplantagen liefert. Zudem bietet der Fluss ein enormes, bisher wenig genutztes Potenzial für die Wasserkraft. Ökologisch ist der Schutz des Diani-Oberlaufs entscheidend für den Erhalt der Primärwälder in Waldguinea. Für Besucher bietet der Fluss spektakuläre Naturansichten, insbesondere in den unberührten Abschnitten, wo der Regenwald bis direkt an das Wasser reicht.",
+        "hu": "A Diani (vagy St. Paul-folyó) egy jelentős határokon átnyúló folyó, amely Guinea délkeleti részén ered, és központi szerepet játszik az Erdős-Guinea (Guinée Forestière) régió ökoszisztémájában. Földrajzilag a folyó forrásvidéke Macenta és Beyla környékének magaslatain található, ahonnan sűrű trópusi esőerdőkön és dombos vidékeken keresztül halad. A Diani hosszú szakaszon alkotja a természetes határt Guinea és Libéria között, ami kiemelt geopolitikai fontosságot kölcsönöz neki. A folyó híres vízbőségéről, számos zúgójáról és arról, hogy éltető eleme a helyi vadvilágnak, többek között vízilovaknak és ritka halfajoknak nyújt otthont. Történelmileg a Diani-medence a toma és a kuerze népcsoportok fontos szállásterülete volt, akik a folyót közlekedésre és halászatra használták. Gazdaságilag a Diani nélkülözhetetlen a régió mezőgazdasága számára, hiszen biztosítja a szükséges páratartalmat a környező kávé-, kakaó- és gumiültetvényeknek. Emellett a folyó hatalmas, eddig kiaknázatlan vízenergia-potenciállal rendelkezik. Ökológiai szempontból a Diani felső szakaszának védelme kulcsfontosságú az erdős-guineai őserdők megőrzéséhez. A látogatók számára a folyó lenyűgöző látványt nyújt, különösen az érintetlen szakaszokon, ahol az esőerdő lombkoronája közvetlenül a víz fölé hajol.",
+        "ro": "Diani (sau râul St. Paul) este un curs de apă transfrontalier major care izvorăște din sud-estul Guineei și joacă un rol central în ecosistemul regiunii Guinée Forestière. Din punct de vedere geografic, râul își are izvoarele în zonele înalte de lângă Macenta și Beyla, curgând prin păduri tropicale dense și un relief colinar. Pe porțiuni întinse, Diani formează frontiera naturală dintre Guineea și Liberia, fapt ce îi conferă o importanță geopolitică semnificativă. Râul este cunoscut pentru debitul său bogat, numeroasele repezișuri și relevanța sa ca arteră vitală pentru fauna locală, inclusiv hipopotami și specii rare de pești. Istoric, bazinul Diani a fost un spațiu de așezare crucial pentru etniile Toma și Guerzé, care au utilizat râul pentru transport și pescuit. Economic, Diani este indispensabil pentru agricultura regională, furnizând umiditatea necesară plantațiilor de cafea, cacao și cauciuc din jur. De asemenea, râul deține un potențial hidroenergetic imens, încă neexploatat la scară largă. Ecologic, protejarea cursului superior al râului Diani este esențială pentru menținerea integrității pădurilor primare din Guineea Forestieră. Pentru vizitatori, râul oferă peisaje naturale spectaculoase, în special în secțiunile virgine unde pădurea tropicală ajunge până la marginea apei.",
+        "en": "The Diani (also known as the St. Paul River) is a major transboundary river originating in southeastern Guinea and playing a central role in the ecosystem of the Forested Guinea region. Geographically, its headwaters lie in the highland areas near Macenta and Beyla, flowing through dense tropical rainforests and rugged terrain. For much of its course, the Diani forms the natural border between Guinea and Liberia, giving it high geopolitical significance. The river is known for its strong currents, numerous rapids, and its importance as a lifeline for local wildlife, including hippos and rare fish species. Historically, the Diani basin was a vital settlement area for the Toma and Guerzé peoples, who utilized the river for both transport and artisanal fishing. Economically, the Diani is indispensable for regional agriculture, providing the necessary moisture for the surrounding coffee, cocoa, and rubber plantations. Furthermore, the river holds immense untapped hydroelectric potential. Ecologically, protecting the upper reaches of the Diani is critical for preserving the primary rainforests of Forested Guinea. For visitors, the river offers stunning natural views, particularly in its untouched sections where the rainforest canopy leans directly over the water."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Diani ist im weiteren Verlauf in Liberia als St. Paul River bekannt.",
+          "Der Fluss entspringt in den niederschlagsreichen Bergen von Waldguinea.",
+          "Er bildet einen natürlichen Korridor für den grenzüberschreitenden Handel.",
+          "Im Diani leben seltene Westafrikanische Zwergflusspferde.",
+          "Der Fluss ist eine wichtige Ressource für die Bewässerung von Kakaoplantagen.",
+          "Zahlreiche Wasserfälle entlang seines Laufs sind noch weitgehend unerschlossen."
+        ],
+        "hu": [
+          "A Diani-folyót Libériában Szent Pál-folyónak (St. Paul River) hívják.",
+          "A folyó forrásvidéke Guinea legcsapadékosabb területeinek egyike.",
+          "A folyam hosszú kilométereken át határvonalat képez a két ország között.",
+          "A folyómederben ritka, endemikus sügérfajokat azonosítottak.",
+          "A Diani vize alapvető a Macenta környéki gumiültetvények fenntartásához.",
+          "Az esős évszakban a folyó sodrása alkalmatlanná teszi a hagyományos halászatot."
+        ],
+        "ro": [
+          "Râul Diani parcurge peste 400 de kilometri până la vărsarea în Atlantic (în Liberia).",
+          "Este considerat unul dintre cele mai sălbatice și mai puțin poluate râuri din Guineea.",
+          "Afluentul principal al râului Diani pe teritoriul guineean este râul Via.",
+          "Bazinul său hidrografic susține biodiversitatea din rezervația Ziama.",
+          "Podurile peste Diani sunt puncte de control vamal strategice.",
+          "Localnicii Toma folosesc râul în ritualuri tradiționale de purificare."
+        ],
+        "en": [
+          "In Liberia, the Diani River is renamed and widely known as the St. Paul River.",
+          "The river originates in the highest-rainfall zone of Guinea's forested interior.",
+          "It serves as a vital ecological bridge between the Guinea and Liberia forest blocks.",
+          "The Diani supports one of the few remaining populations of pygmy hippos in the region.",
+          "The river is a potential site for major regional hydroelectric cooperation projects.",
+          "Navigability is limited to small pirogues due to frequent rock rapids and falls."
+        ]
+      }
+    },
+    {
+      "id": "mount-kakoulima-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Kakoulima (Mont Kakoulima) ist ein majestätisches Bergmassiv in der Präfektur Dubréka und eines der bekanntesten geografischen Wahrzeichen Guineas. Mit einer Höhe von etwa 1.011 Metern dominiert er die Landschaft nordöstlich der Hauptstadt Conakry und ist oft schon von weitem sichtbar, wenn er aus den Küstenebenen emporragt. Geografisch gehört der Kakoulima zu den westlichen Ausläufern des Fouta-Djallon-Hochlandes. Der Berg ist für sein markantes Erscheinungsbild bekannt, das oft in Wolken oder Nebel gehüllt ist, was ihm eine mystische Ausstrahlung verleiht. Historisch gesehen hat der Kakoulima eine enorme strategische Bedeutung; er beherbergte militärische Posten und Kommunikationseinrichtungen aufgrund seiner dominanten Lage über der Halbinsel Kaloum. Die lokale Susu-Bevölkerung betrachtet den Berg als einen heiligen Ort, der in vielen Mythen und Legenden vorkommt. Ökologisch beherbergt das Massiv eine vielfältige Flora, darunter seltene Orchideen und Farne, die vom feuchten Bergklima profitieren. Wirtschaftlich spielt der Berg eine Rolle für den Tourismus und die wissenschaftliche Forschung zum Mikroklima der Küstenregion. Für Besucher bietet der Kakoulima herausfordernde Wanderwege und von seinem Gipfel aus den wohl spektakulärsten Blick auf Conakry, das Meer und das Hinterland von Maritime Guinea. Er ist ein Symbol für die Beständigkeit und die natürliche Erhabenheit der guineischen Landschaft.",
+        "hu": "A Kakoulima-hegy (Mont Kakoulima) egy fenséges hegytömb a Dubréka prefektúrában, Guinea egyik legismertebb földrajzi jelképe. Körülbelül 1011 méteres magasságával uralja a fővárostól, Conakrytól északkeletre elterülő tájat, és gyakran már messziről látható, ahogy kiemelkedik a tengerparti síkságból. Földrajzilag a Kakoulima a Fouta Djallon-hegység legnyugatibb nyúlványaihoz tartozik. A hegy jellegzetes megjelenéséről híres, csúcsát gyakran felhők vagy köd borítja, ami misztikus kisugárzást kölcsönöz neki. Történelmileg a Kakoulima hatalmas stratégiai jelentőséggel bírt; uralkodó helyzete miatt katonai megfigyelőpontoknak és hírközlési berendezéseknek adott otthont, ahonnan belátható a teljes Kaloum-félsziget. A helyi szuszu lakosság szent helyként tiszteli a hegyet, amely számos mítoszban és legendában szerepel. Ökológiai szempontból a hegység változatos flórának ad otthont, köztük olyan ritka orchideáknak és páfrányoknak, amelyek a párás hegyi klímát kedvelik. Gazdasági szerepe a turizmusban és a parti régió mikroklímájának kutatásában nyilvánul meg. A látogatók számára a Kakoulima embert próbáló túraútvonalakat és a csúcsról Guinea talán legszebb panorámáját kínálja: rálátást Conakryra, az óceánra és Alsó-Guinea belső területeire. A hegy a guineai táj állandóságának és természetes méltóságának szimbóluma.",
+        "ro": "Muntele Kakoulima (Mont Kakoulima) este un masiv muntos maiestuos situat în prefectura Dubréka și unul dintre cele mai cunoscute repere geografice ale Guineei. Cu o înălțime de aproximativ 1.011 metri, acesta domină peisajul la nord-est de capitala Conakry și este adesea vizibil de la mare distanță, ridicându-se brusc din câmpiile litorale. Geografic, Kakoulima aparține ramificațiilor vestice ale podișului Fouta Djallon. Muntele este renumit pentru aspectul său impunător, fiind adesea învăluit în nori sau ceață, ceea ce îi conferă o aură mistică. Din punct de vedere istoric, Kakoulima a avut o importanță strategică imensă; datorită poziției sale dominante asupra peninsulei Kaloum, a găzduit posturi militare și instalații de comunicații. Populația locală Susu consideră muntele un loc sacru, prezent în numeroase mituri și legende. Ecologic, masivul adăpostește o floră diversificată, inclusiv orhidee rare și ferigi care beneficiază de climatul montan umed. Economic, muntele este relevant pentru turism și cercetarea științifică a microclimatului zonei de coastă. Pentru vizitatori, Kakoulima oferă trasee de drumeție provocatoare și, de pe vârful său, probabil cea mai spectaculoasă vedere asupra orașului Conakry, a oceanului și a interiorului Guineei Maritime. Este un simbol al perenității și al măreției naturale a peisajului guineean.",
+        "en": "Mount Kakoulima (Mont Kakoulima) is a majestic mountain massif in the Dubréka Prefecture and one of Guinea's most iconic geographic landmarks. Standing at approximately 1,011 meters, it dominates the landscape northeast of the capital, Conakry, and is often visible from great distances as it rises sharply from the coastal plains. Geographically, Kakoulima belongs to the westernmost reaches of the Fouta Djallon highlands. The mountain is famous for its striking silhouette, frequently shrouded in clouds or mist, which lends it a mystical aura. Historically, Mount Kakoulima has held immense strategic importance; its commanding position over the Kaloum Peninsula made it an ideal location for military posts and communication towers. The local Susu people revere the mountain as a sacred site, and it features prominently in regional myths and legends. Ecologically, the massif supports a diverse range of flora, including rare orchids and ferns that thrive in the moist mountain air. Economically, it is a significant site for eco-tourism and scientific studies on the coastal region's microclimate. For visitors, Kakoulima offers challenging hiking trails and, from its summit, perhaps the most spectacular panoramic view of Conakry, the Atlantic Ocean, and the Maritime Guinea interior. It remains a powerful symbol of the permanence and natural grandeur of the Guinean landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Kakoulima ist ein erloschener Vulkan oder eine Intrusion aus Intrusivgestein.",
+          "Der Berg dient als wichtigster Wetterindikator für die Region Conakry.",
+          "Auf dem Gipfel befinden sich strategische Sendeanlagen des nationalen Rundfunks.",
+          "Der Kakoulima wird in der lokalen Susu-Sprache oft als 'Der Berg der Geister' bezeichnet.",
+          "Er ist ein wichtiger Ort für das Training der guineischen Armeeeinheiten.",
+          "Wanderungen zum Gipfel dauern in der Regel 3 bis 5 Stunden."
+        ],
+        "hu": [
+          "A Kakoulima-hegy egy kialudt vulkáni kúp, amelynek kora több millió év.",
+          "A csúcs körüli felhőképződés jelzi a helyieknek a közelgő viharokat.",
+          "A hegy tetején találhatók az ország legfontosabb távközlési antennái.",
+          "A szuszu kultúrában a hegyet a ősök szellemeinek lakhelyének tartják.",
+          "A terület Guinea egyik legfontosabb katonai gyakorlóterülete.",
+          "A hegy oldalában ered több olyan forrás, amely Dubréka ivóvizét biztosítja."
+        ],
+        "ro": [
+          "Mont Kakoulima este un punct de reper esențial pentru navigația aeriană și maritimă.",
+          "Altitudinea sa creează un fenomen de condensare ce alimentează pădurea de ceață de pe culme.",
+          "A fost utilizat de francezi ca punct de observație telegrafică în secolul XIX.",
+          "Muntele este reprezentat pe numeroase mărci poștale și simboluri locale.",
+          "Pantele sale sunt acoperite de o vegetație specifică de tip ferigă arborescentă.",
+          "Panorama de pe Kakoulima cuprinde întreg arhipelagul Insulelor Los."
+        ],
+        "en": [
+          "Mount Kakoulima is a distinct geological intrusion visible from the Atlantic Ocean.",
+          "It acts as a primary weather sentinel for the capital city's residents.",
+          "The summit houses critical national telecommunications and broadcasting infrastructure.",
+          "In local Susu folklore, the mountain is known as the 'Abode of Spirits'.",
+          "It serves as a demanding training site for Guinea's elite military paratroopers.",
+          "The mountain's unique humidity trap supports rare lithophytic plant communities."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tite-tiefland-relief-v2",
+      "description": "O regiune de câmpie extinsă care caracterizează relieful joasă al zonelor din apropierea râului în Tete.",
+      "facts": ["Câmpie extinsă", "Relief jos", "Regiunea Tete", "Geografie fluvială"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "Un golf natural cu un relief specific, format de eroziunea marină de-a lungul coastei orașului Pemba.",
+      "facts": ["Golf natural", "Eroziune marină", "Coasta Pemba", "Relief specific"]
+    },
+    {
+      "id": "bazaruto-duenen-relief-v2",
+      "description": "Dune de nisip impresionante care formează relieful insulelor Bazaruto, oferind un peisaj unic de coastă.",
+      "facts": ["Dune de nisip", "Insulele Bazaruto", "Peisaj de coastă", "Relief unic"]
+    }
+  ]
+}

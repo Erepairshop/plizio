@@ -22,10 +22,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Fort Gros Islet is a notable site on the Caribbean island of Trinidad. Historic fortification near Port of Spain. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Built in the 18th century. Another point of interest: Served defensive purposes. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Erbaut im 18. Jahrhundert.", "Diente der Verteidigung.", "Strategische Lage am Hafen.", "Heute ein historisches Denkmal.", "Bekannt unter dem Namen Fort Gros Islet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Fort Gros Islet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. században épült a partvonal védelmére.", "Stratégiai kilátóhelyként szolgált a tengeri forgalom felügyeletére.", "Ma népszerű történelmi emlékhely és kilátópont.", "A falak között még ma is láthatók eredeti brit ágyúk.", "Fontos szerepet játszott a francia és brit flották közötti harcokban.", "A romok jól mutatják a korszak katonai építészetét.", "Többször cserélt gazdát a gyarmati hatalmak között.", "Környezete gazdag helyi növényvilágban."],
-      ro: ["Construit în secolul al XVIII-lea.", "A servit apărării.", "Locație strategică în port.", "Astăzi un monument istoric.", "Este cunoscut sub numele de Fortul Gros Islet.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Built in the 18th century.", "Served defensive purposes.", "Strategic harbor location.", "Now a historic landmark.", "Known by the name Fort Gros Islet.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fortul Gros Islet.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Fort Gros Islet.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -48,10 +48,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "St. Joseph Ruins is a notable site on the Caribbean island of Trinidad. Remains of the first Spanish capital of Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Founded in 1592. Another point of interest: Oldest European settlement. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Gegründet 1592.", "Älteste europäische Siedlung.", "Einstiges administratives Zentrum.", "Archäologische Stätte.", "Bekannt unter dem Namen St. Joseph Ruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen St. Joseph Ruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Trinidad első spanyol fővárosának, San José de Oruñának a helyszíne.", "A romok között találhatók a legkorábbi európai építmények maradványai.", "Itt írták alá az 1797-es kapitulációs okmányt a britekkel.", "A terület a 16. század óta lakott és központi jelentőségű volt.", "A Szent József-templom alapjai a spanyol vallási építészetet tükrözik.", "Számos régészeti feltárás zajlott a területen.", "A város egykor az Északi-hegység védelmében épült.", "Történelmi temetője a gyarmati elit nyughelye."],
-      ro: ["Fondată în 1592.", "Cea mai veche așezare europeană.", "Fost centru administrativ.", "Sită arheologică.", "Este cunoscut sub numele de Ruinele St. Joseph.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Founded in 1592.", "Oldest European settlement.", "Former administrative center.", "Archaeological site.", "Known by the name St. Joseph Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Ruinele St. Joseph.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name St. Joseph Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -74,10 +74,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "San Fernando Fortifications is a notable site on the Caribbean island of Trinidad. Historic defensive lines in San Fernando. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Protection from raids. Another point of interest: Observation post. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Schutz vor Überfällen.", "Beobachtungsposten.", "Erbaut im 18. Jahrhundert.", "Blick auf den Golf.", "Bekannt unter dem Namen San Fernando Befestigungen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen San Fernando Befestigungen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A San Fernando Hill (Anaparima) stratégiai magaslatán épült.", "Kiváló kilátást biztosított a Paria-öböl déli részére.", "A 18. és 19. században fontos védelmi funkciót töltött be.", "A domb neve az őslakos amerikaiaktól származik (Anaparima).", "Az erőd maradványai ma egy népszerű park területén találhatók.", "Segített megvédeni a várost a tengeri kalózoktól és ellenséges flottáktól.", "A katonai építészet és a természet találkozásának szép példája.", "A domb kövét évtizedekig bányászták, ami megváltoztatta az alakját."],
-      ro: ["Protecție împotriva atacurilor.", "Post de observație.", "Construit în secolul al XVIII-lea.", "Vedere spre golf.", "Este cunoscut sub numele de Fortificațiile San Fernando.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Protection from raids.", "Observation post.", "Built in the 18th century.", "Overlooks the gulf.", "Known by the name San Fernando Fortifications.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fortificațiile San Fernando.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name San Fernando Fortifications.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -100,10 +100,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Arima Mission Ruins is a notable site on the Caribbean island of Trinidad. Remains of old Spanish mission stations. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Christianization of natives. Another point of interest: Built by Capuchins. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Christianisierung der Ureinwohner.", "Erbaut durch Kapuziner.", "Koloniale Architekturspuren.", "Historisches Kulturerbe.", "Bekannt unter dem Namen Missionsruinen Arima.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Missionsruinen Arima.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A missziót spanyol kapucinus szerzetesek alapították a 18. században.", "Princes Town eredeti neve 'Mission' volt ezen helyszín után.", "A romok az őslakosok és a spanyolok közötti érintkezés helyszínei.", "A területen korai keresztény templomok alapjai láthatók.", "Fontos szerepet játszott a dél-trinidadi mezőgazdaság elindításában.", "A romok a spanyol barokk építészet egyszerűsített változatait mutatják.", "A terület ma védettség alatt álló történelmi emlékhely.", "Kiválóan dokumentálja a missziós falvak szerkezetét."],
-      ro: ["Creștinarea indigenilor.", "Construit de capucini.", "Urme de arhitectură colonială.", "Patrimoniu cultural istoric.", "Este cunoscut sub numele de Ruinele misiunii Arima.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Christianization of natives.", "Built by Capuchins.", "Traces of colonial architecture.", "Historic cultural heritage.", "Known by the name Arima Mission Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Ruinele misiunii Arima.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Arima Mission Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -126,10 +126,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Carenage Defensive Site is a notable site on the Caribbean island of Trinidad. Coastal fortification west of Port of Spain. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Protection of coastline. Another point of interest: Part of colonial defense system. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Schutz der Küstenlinie.", "Teil des kolonialen Abwehrsystems.", "Blick auf das Meer.", "Historische Ruinen.", "Bekannt unter dem Namen Carenage Verteidigungsanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Carenage Verteidigungsanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. században épült a nyugati partvonal védelmére.", "Nevét a hajók tisztításának és javításának (carenage) helyszínéről kapta.", "Ágyúi a Paria-öböl bejáratát tartották szemmel.", "Fontos szerepet játszott a gyarmati flotta biztonságának garantálásában.", "A romok ma népszerű fotóhelyszínek és pihenőpontok a parton.", "A falak helyi kövekből és korallmészkőből épültek.", "Története szorosan összefonódik a francia telepesek jelenlétével.", "Az erőd maradványai ma is meghatározzák a tengerpart képét."],
-      ro: ["Protecția liniei de coastă.", "Parte a sistemului defensiv colonial.", "Vedere spre mare.", "Ruine istorice.", "Este cunoscut sub numele de Facilitatea defensivă Carenage.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Protection of coastline.", "Part of colonial defense system.", "Overlooks the sea.", "Historic ruins.", "Known by the name Carenage Defensive Site.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Facilitatea defensivă Carenage.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Carenage Defensive Site.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -152,10 +152,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Historic Sugar Mill is a notable site on the Caribbean island of Trinidad. Old mill of a sugar plantation. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Processing sugar cane. Another point of interest: Industrial history. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Verarbeitung von Zuckerrohr.", "Industrielle Geschichte.", "Erbaut im 19. Jahrhundert.", "Landwirtschaftliches Relikt.", "Bekannt unter dem Namen Historische Zuckerrohrmühle.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Historische Zuckerrohrmühle.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. és 19. századi trinidadi gazdaság alapjai voltak.", "Számos romos állapotú malomtorony látható Közép-Trinidadban.", "A legkorábbi malmokat szél vagy igásállatok hajtották.", "Később modern gőzgépeket telepítettek beléjük a hatékonyság növelésére.", "A romok a rabszolgamunka és a gyarmati kizsákmányolás helyszínei.", "Építészetükre a robusztus kő- és téglafalak jellemzőek.", "Mára a természet és az erdő gyakran benőtte ezeket a tornyokat.", "Fontos ipartörténeti emlékek a Karib-térségben."],
-      ro: ["Procesarea trestiei de zahăr.", "Istorie industrială.", "Construită în secolul al XIX-lea.", "Relict agricol.", "Este cunoscut sub numele de Moara istorică de trestie.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Processing sugar cane.", "Industrial history.", "Built in the 19th century.", "Agricultural relic.", "Known by the name Historic Sugar Mill.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Moara istorică de trestie.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Historic Sugar Mill.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -178,10 +178,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Spanish Settlement Ruins is a notable site on the Caribbean island of Trinidad. Excavation site of an early settlement. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Early colonial history. Another point of interest: Trading site. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Frühe Kolonialgeschichte.", "Handelsplatz.", "Archäologische Funde.", "17. Jahrhundert.", "Bekannt unter dem Namen Spanische Siedlungsruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Spanische Siedlungsruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 17. és 18. századi spanyol telepesek egyik bázisa volt.", "A romok a korabeli spanyol várostervezés jegyeit mutatják.", "Fontos leleteket találtak itt a gyarmati háztartási eszközökből.", "A terület elhagyása a brit hódítás után gyorsult fel.", "A romok között spanyol stílusú kőfalak és boltívek láthatók.", "Fontos kapocs a sziget spanyol és brit korszaka között.", "A környékbeli növényzet ma már nagyrészt visszahódította a területet.", "A romok védett történelmi és kulturális örökségnek számítanak."],
-      ro: ["Istorie colonială timpurie.", "Loc de comerț.", "Descoperiri arheologice.", "Secolul al XVII-lea.", "Este cunoscut sub numele de Ruinele așezării spaniole.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Early colonial history.", "Trading site.", "Archaeological finds.", "17th century.", "Known by the name Spanish Settlement Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Ruinele așezării spaniole.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Spanish Settlement Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -204,10 +204,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "French Fort Tobago is a notable site on the Caribbean island of Trinidad. Historic fortification in Tobago. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Colonial conflict point. Another point of interest: Built by French. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Kolonialer Konfliktpunkt.", "Erbaut durch Franzosen.", "Strategische Küstenlage.", "Überbleibsel des 18. Jahrhunderts.", "Bekannt unter dem Namen Französisches Fort Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Französisches Fort Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. században épült a franciák által Tobago védelmére.", "Stratégiai elhelyezkedése a délnyugati félszigeten kulcsfontosságú volt.", "Az erőd neve a francia és brit korszakok változásait tükrözi.", "Ma népszerű kilátópont a repülőtér és a tenger felé.", "Eredeti francia ágyúk maradványai még ma is láthatók.", "Fontos szerepet játszott az 1781-es Tobagóért folytatott csatában.", "A romok jól mutatják a korszak katonai mérnöki tudományát.", "A környék parkosított területei kedveltek a turisták körében."],
-      ro: ["Punct de conflict colonial.", "Construit de francezi.", "Locație de coastă strategică.", "Rămășițe ale secolului al XVIII-lea.", "Este cunoscut sub numele de Fortul francez Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Colonial conflict point.", "Built by French.", "Strategic coastal location.", "Remnant of the 18th century.", "Known by the name French Fort Tobago.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fortul francez Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name French Fort Tobago.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -230,10 +230,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Old Courthouse is a notable site on the Caribbean island of Trinidad. Historic justice building from colonial times. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Justice in the 19th century. Another point of interest: Architectural monument. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Rechtsprechung im 19. Jahrhundert.", "Architekturdenkmal.", "Zentraler Regierungsort.", "Restauriertes Erbe.", "Bekannt unter dem Namen Altes Gerichtsgebäude.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Altes Gerichtsgebäude.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 19. századi brit gyarmati építészet jellegzetes példái.", "Gyakran a városok főterén (Savannah) helyezkednek el.", "Híres neoklasszicista stílusjegyek és vastag kőfalak jellemzik.", "Itt hozták meg a legfontosabb ítéleteket a gyarmati időkben.", "Számos épületet ma műemlékként tartanak számon.", "A belső terekben gyakran megmaradtak az eredeti fabútorok.", "A jog és a rend szimbólumai voltak a helyi lakosság számára.", "Fontos szerepük volt a rabszolgaság utáni társadalom formálásában."],
-      ro: ["Jurisdicție în secolul al XIX-lea.", "Monument arhitectural.", "Loc guvernamental central.", "Patrimoniu restaurat.", "Este cunoscut sub numele de Vechea clădire a tribunalului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Justice in the 19th century.", "Architectural monument.", "Central government site.", "Restored heritage.", "Known by the name Old Courthouse.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Vechea clădire a tribunalului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Old Courthouse.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -256,10 +256,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Port of Spain Citadel is a notable site on the Caribbean island of Trinidad. Former defensive citadel of the city. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Protection of the capital. Another point of interest: Overlooks the gulf. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Schutz der Hauptstadt.", "Überblick über den Golf.", "Historisches Bauwerk.", "Erbaut um 1800.", "Bekannt unter dem Namen Zitadelle Port of Spain.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Zitadelle Port of Spain.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Az utolsó jelentős spanyol erődítmény volt Trinidadon.", "A 18. század végén épült Port of Spain kikötőjének védelmére.", "Ágyúi megakadályozták az ellenséges hajók partraszállását.", "A brit hódítás után Fort San Andres néven működött tovább.", "Ma a városi forgalom közepén, történelmi emlékhelyként áll.", "A romok falai masszív kőből és téglából épültek.", "Fontos szerepet játszott a városi rend fenntartásában.", "Itt található az országos közlekedési múzeum egy része."],
-      ro: ["Protecția capitalei.", "Vedere asupra golfului.", "Structură istorică.", "Construită în jurul anului 1800.", "Este cunoscut sub numele de Citadela Port of Spain.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Protection of the capital.", "Overlooks the gulf.", "Historic structure.", "Built around 1800.", "Known by the name Port of Spain Citadel.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Citadela Port of Spain.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Port of Spain Citadel.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -282,10 +282,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Dutch Settlement Site is a notable site on the Caribbean island of Trinidad. Archaeological site of a Dutch colony. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Early trade success. Another point of interest: Colonial heritage. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Frühe Handelserfolge.", "Koloniales Erbe.", "Archäologische Ausgrabungen.", "17. Jahrhundert.", "Bekannt unter dem Namen Holländische Siedlungsstätte.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Holländische Siedlungsstätte.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 17. századi holland telepesek bázisa volt Tobagón.", "Eredeti neve 'Nieuw Walcheren' volt a holland régió után.", "A települést többször lerombolták az ellenséges flották.", "Fontos régészeti lelőhely, ahol európai és őslakos tárgyak keverednek.", "Az erődítmény alapjai ma is felismerhetők a terepen.", "Tobago egyik legkorábbi európai típusú városa volt.", "Híres a holland tégla- és kerámialeleteiről.", "A terület ma védett történelmi park."],
-      ro: ["Succes comercial timpuriu.", "Moștenire colonială.", "Săpături arheologice.", "Secolul al XVII-lea.", "Este cunoscut sub numele de Situl așezării olandeze.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Early trade success.", "Colonial heritage.", "Archaeological excavations.", "17th century.", "Known by the name Dutch Settlement Site.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Situl așezării olandeze.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Dutch Settlement Site.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -308,10 +308,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Manor Ruins is a notable site on the Caribbean island of Trinidad. Remains of an old plantation manor. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Social center of the plantation. Another point of interest: Architectural details. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Soziales Zentrum der Plantage.", "Architektonische Details.", "Koloniale Lebensweise.", "Historische Fundstätte.", "Bekannt unter dem Namen Herrenhaus-Ruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Herrenhaus-Ruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. és 19. századi cukor- és kakaóbirtokok központi épületei voltak.", "Építészetük a trópusi klímához igazított európai stílusokat követte.", "A romok gyakran meredek dombtetőkön találhatók.", "Szerkezetükben keveredik a helyi kő, a tégla és a trópusi keményfa.", "A házak alatt gyakran börtönök vagy büntetőkamrák is voltak.", "A felszabadítás után sok kúriát felégettek vagy elhagytak.", "Mára a természet gyakran visszahódította ezeket az ódon falakat.", "Fontos helyszínek a gyarmati kor társadalmi rendjének megértéséhez."],
-      ro: ["Centrul social al plantației.", "Detalii arhitecturale.", "Mod de viață colonial.", "Sit istoric.", "Este cunoscut sub numele de Ruinele conacului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Social center of the plantation.", "Architectural details.", "Colonial way of life.", "Historic site.", "Known by the name Manor Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Ruinele conacului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Manor Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -334,10 +334,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Historic Signal Station is a notable site on the Caribbean island of Trinidad. Former station for ship communication. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Coast monitoring. Another point of interest: Early telecommunication. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Überwachung der Küste.", "Frühe Telekommunikation.", "Strategische Funktion.", "Erbaut im 19. Jahrhundert.", "Bekannt unter dem Namen Historische Signalstation.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Historische Signalstation.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. és 19. századi katonai távközlés legfontosabb pontjai voltak.", "Zászlókkal és fényjelekkel (szemafor) továbbították az üzeneteket.", "Stratégiai magaslatokon, például a Fort George tetején helyezkedtek el.", "Segítségükkel órákkal a hajók érkezése előtt értesítették a kikötőt.", "A hálózat lehetővé tette a szigetek közötti gyors kommunikációt.", "Ma népszerű kilátóhelyek és történelmi emlékhelyek.", "Az állomások épületei robusztus és időjárásálló kivitelben készültek.", "A korabeli technológia zseniális mérnöki megoldásait tükrözik."],
-      ro: ["Supravegherea coastei.", "Telecomunicații timpurii.", "Funcție strategică.", "Construită în secolul al XIX-lea.", "Este cunoscut sub numele de Stație istorică de semnalizare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Coast monitoring.", "Early telecommunication.", "Strategic function.", "Built in the 19th century.", "Known by the name Historic Signal Station.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Stație istorică de semnalizare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Historic Signal Station.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -360,10 +360,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Parang Music Center is a notable site on the Caribbean island of Trinidad. Historic site for the preservation of local music. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Cultural heritage. Another point of interest: Traditional instruments. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Kulturelles Erbe.", "Traditionelle Instrumente.", "Musikalische Geschichte.", "Bewahrung von Bräuchen.", "Bekannt unter dem Namen Zentrum für Parang-Musik.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Zentrum für Parang-Musik.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A spanyol-venezuelai eredetű parang zene kulturális központja.", "Itt őrizik a legfontosabb tradicionális hangszereket és kottákat.", "Központi szerepet játszik a karácsonyi parang-fesztiválok szervezésében.", "Híres énekesek (paranderos) emléktárgyait és felvételeit mutatja be.", "A központ fontos oktatási helyszín a fiatal generációk számára.", "A spanyol kreol nyelv és zene trinidadi bázisa.", "Minden évben tízezreket vonzanak a központ által támogatott koncertek.", "A zenei stílus ötvözi a vallási témákat a népi ritmusokkal."],
-      ro: ["Moștenire culturală.", "Instrumente tradiționale.", "Istorie muzicală.", "Conservarea obiceiurilor.", "Este cunoscut sub numele de Centrul muzicii Parang.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Cultural heritage.", "Traditional instruments.", "Musical history.", "Preservation of customs.", "Known by the name Parang Music Center.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Centrul muzicii Parang.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Parang Music Center.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -386,10 +386,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Military Hospital Ruins is a notable site on the Caribbean island of Trinidad. Remains of an old hospital for soldiers. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Care of military personnel. Another point of interest: Colonial medicine. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Versorgung von Militärpersonal.", "Koloniale Medizin.", "Architekturgeschichte.", "Ruinenstätte.", "Bekannt unter dem Namen Militärkrankenhaus-Ruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Militärkrankenhaus-Ruinen.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 19. századi brit katonai orvoslás egyik központja volt.", "Kifejezetten trópusi betegségek kezelésére specializálódott.", "Az épület robusztus kő- és téglafalai ma is állnak.", "Hatalmas belső terei és folyosói a korabeli kórházak szerkezetét mutatják.", "A romok a természetvédelmi területek szélén találhatók.", "Fontos szerepet játszott a gyarmati flotta egészségügyi védelmében.", "A terület ma védett történelmi és építészeti emlékhely.", "A romok kísérteties hangulata legendákat is szült a helyiek körében."],
-      ro: ["Îngrijirea personalului militar.", "Medicină colonială.", "Istoria arhitecturii.", "Sit în ruine.", "Este cunoscut sub numele de Ruinele spitalului militar.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Care of military personnel.", "Colonial medicine.", "Architectural history.", "Ruined site.", "Known by the name Military Hospital Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Ruinele spitalului militar.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Military Hospital Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -412,10 +412,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Slave Market Site is a notable site on the Caribbean island of Trinidad. Memorialized site of the slave era. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Dark chapter of history. Another point of interest: Historical memory. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Dunkles Kapitel der Geschichte.", "Historische Erinnerung.", "Ort der Mahnung.", "Kolonialer Handel.", "Bekannt unter dem Namen Sklavenmarkt-Stätte.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Sklavenmarkt-Stätte.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Az afrikai rabszolgák értékesítésének központi helyszíne volt.", "A 18. és 19. századi gyarmati gazdaság kegyetlen központja.", "Ma emléktáblák és kulturális események emlékeztetnek az áldozatokra.", "Fontos szerepet játszott a sziget demográfiai képének kialakulásában.", "A rabszolgaság 1834-es eltörlése után vált emlékhellyé.", "A terület a trinidadi ellenállás és túlélés szimbóluma.", "Rendszeresen tartanak itt megemlékezéseket a felszabadulás napján.", "Segít megérteni a Karib-térség modern társadalmának gyökereit."],
-      ro: ["Capitol întunecat al istoriei.", "Memorie istorică.", "Loc de aducere aminte.", "Comerț colonial.", "Este cunoscut sub numele de Locul pieței de sclavi.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Dark chapter of history.", "Historical memory.", "Place of warning.", "Colonial trade.", "Known by the name Slave Market Site.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Locul pieței de sclavi.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Slave Market Site.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -438,10 +438,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Historic Sugar Refinery is a notable site on the Caribbean island of Trinidad. Remains of a refinery. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Sugar production. Another point of interest: Industrial architecture. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Zuckerproduktion.", "Industrielle Architektur.", "19. Jahrhundert.", "Historisches Relikt.", "Bekannt unter dem Namen Historische Zuckerraffinerie.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Historische Zuckerraffinerie.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A nyerscukor feldolgozásának és tisztításának központjai voltak.", "A 19. század második felében épültek a legmodernebb egységek.", "Hatalmas gőzkazánok és finomító berendezések maradványai láthatók.", "Fontos szerepük volt a trinidadi export gazdasági értékének növelésében.", "A romok a technológiai fejlődés és a munkásélet tanúi.", "Gyakran a vasútvonalak mellett helyezkedtek el a könnyebb szállításért.", "Mára sok helyszínt múzeummá vagy ipari parkká alakítottak.", "Dokumentálják a cukornád-korszak utolsó nagy technológiai korszakát."],
-      ro: ["Producția de zahăr.", "Arhitectură industrială.", "Secolul al XIX-lea.", "Relict istoric.", "Este cunoscut sub numele de Rafinărie istorică de zahăr.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Sugar production.", "Industrial architecture.", "19th century.", "Historic relic.", "Known by the name Historic Sugar Refinery.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Rafinărie istorică de zahăr.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Historic Sugar Refinery.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -464,10 +464,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Dutch Fort Tobago is a notable site on the Caribbean island of Trinidad. Dutch fortification. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Colonial strategy. Another point of interest: Built in the 17th century. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Kolonialstrategie.", "Erbaut im 17. Jahrhundert.", "Befestigung der Küste.", "Trockenmauern.", "Bekannt unter dem Namen Holländisches Fort Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Holländisches Fort Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 17. század közepén épült a holland telepesek védelmére.", "Stratégiai kilátópontként szolgált a Karib-tenger felé.", "Nevét a holland 'Nieuw Walcheren' kolóniához kapcsolják.", "Az erődítmény többször is gazdát cserélt a gyarmati háborúk alatt.", "Ma népszerű régészeti lelőhely és történelmi emlékpark.", "Falai helyi sziklákból és importált holland téglákból épültek.", "Segített ellenőrizni a Tobago körüli fontos hajózási útvonalakat.", "Fontos szerepet játszott a sziget korai gazdasági életében."],
-      ro: ["Strategie colonială.", "Construit în secolul al XVII-lea.", "Fortificarea coastei.", "Ziduri uscate.", "Este cunoscut sub numele de Fortul olandez Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Colonial strategy.", "Built in the 17th century.", "Fortification of the coast.", "Dry stone walls.", "Known by the name Dutch Fort Tobago.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fortul olandez Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Dutch Fort Tobago.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -490,10 +490,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Cocoa Drying Floor is a notable site on the Caribbean island of Trinidad. Traditional floor for drying cocoa. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Agricultural tradition. Another point of interest: Cocoa preparation. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Landwirtschaftliche Tradition.", "Kakao-Vorbereitung.", "Historische Anlage.", "Kulturelles Erbe.", "Bekannt unter dem Namen Kakaotrockenplatz.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Kakaotrockenplatz.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 19. és 20. századi kakaóbirtokok elengedhetetlen részei voltak.", "Sajátos mechanizmussal rendelkeztek a tetők mozgatásához.", "A 'kakaótánc' (cocoa dancing) egy hagyományos szárítási módszer volt.", "Számos ilyen épület ma is látható az Északi- és Központi-hegységben.", "A fából készült padlók kiválóan tartották a hőt a szárításhoz.", "A tetők mozgatása gyakran az egész család vagy közösség feladata volt.", "Mára sok kakaóházat múzeummá vagy kulturális központtá alakítottak.", "Jelképezik Trinidad mezőgazdasági szaktudását és örökségét."],
-      ro: ["Tradiție agricolă.", "Pregătirea cacao-ului.", "Instalație istorică.", "Moștenire culturală.", "Este cunoscut sub numele de Loc de uscare a cacao-ului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Agricultural tradition.", "Cocoa preparation.", "Historic facility.", "Cultural heritage.", "Known by the name Cocoa Drying Floor.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Loc de uscare a cacao-ului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Cocoa Drying Floor.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -516,10 +516,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Spanish Garrison is a notable site on the Caribbean island of Trinidad. Historic station for Spanish soldiers. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Military presence. Another point of interest: Colonial security. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Militärpräsenz.", "Koloniale Sicherung.", "Historische Gebäude.", "18. Jahrhundert.", "Bekannt unter dem Namen Spanische Garnison.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Spanische Garnison.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Trinidad spanyol korszakának (1498–1797) védelmi bázisai voltak.", "A katonák feladata a partvonal és a főváros őrzése volt.", "Az építészetük a mediterrán katonai stílust követte.", "Gyakran a városok legmagasabb vagy legvédettebb pontján álltak.", "Itt tárolták a fegyvereket és az élelmiszerkészleteket.", "A helyőrségek fontos társadalmi csomópontok is voltak a telepeseknek.", "A romok között spanyol típusú díszítőelemek is felfedezhetők.", "Fontos szerepet játszottak az 1797-es végső brit támadás idején."],
-      ro: ["Prezență militară.", "Securitate colonială.", "Clădiri istorice.", "Secolul al XVIII-lea.", "Este cunoscut sub numele de Garnizoana spaniolă.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Military presence.", "Colonial security.", "Historical buildings.", "18th century.", "Known by the name Spanish Garrison.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Garnizoana spaniolă.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Spanish Garrison.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -542,10 +542,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Indigo Dye Vat is a notable site on the Caribbean island of Trinidad. Historic facility for indigo production. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Dye production. Another point of interest: Early industry. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Farbstoffherstellung.", "Frühe Industrie.", "Koloniales Erbe.", "Traditionelle Techniken.", "Bekannt unter dem Namen Indigofärbebecken.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Indigofärbebecken.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. századi trinidadi gazdaság egyik fontos pillére volt az indigó.", "A kágyúkban zajlott a növényi kivonat erjesztése és oxidációja.", "Híresek voltak a tartósságukról és masszív felépítésükről.", "A festékgyártás folyamata rendkívül munkaigényes és kellemetlen szagú volt.", "A romok ma ritka technológiatörténeti emlékeknek számítanak.", "Az indigótermelés után váltottak az ültetvények a jövedelmezőbb cukorra.", "Gyakran patakok vagy folyók közelében épültek a vízellátás miatt.", "A területük ma már nagyrészt erdővel benőtt."],
-      ro: ["Producția de coloranți.", "Industrie timpurie.", "Moștenire colonială.", "Tehnici tradiționale.", "Este cunoscut sub numele de Cuva de vopsit indigo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Dye production.", "Early industry.", "Colonial heritage.", "Traditional techniques.", "Known by the name Indigo Dye Vat.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Cuva de vopsit indigo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Indigo Dye Vat.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -568,10 +568,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Tobago Sugar Works is a notable site on the Caribbean island of Trinidad. Remains of a sugar manufactory. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Production units. Another point of interest: Historical machines. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Produktionsstätten.", "Historische Maschinen.", "Zuckerverarbeitung.", "Landwirtschaftliche Geschichte.", "Bekannt unter dem Namen Zuckerwerkstätten Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Zuckerwerkstätten Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Tobago gazdasága teljesen a cukortermelésre épült a 19. századig.", "A sziget minden domboldalán működött egy-egy kisebb-nagyobb gyár.", "Itt használták az első gőzhajtású gépeket a Karib-térségben.", "A romok falai masszív kőből készültek, hogy bírják a hőt és a gőzt.", "A 'coppers' (hatalmas főzőüstök) ma is sok helyen láthatók a terepen.", "A gyárak mellé gyakran vízelvezető csatornákat is építettek.", "Fontos szerepet játszottak a rabszolga-felszabadítás utáni gazdasági válságban.", "Ma népszerű megállói a sziget történelmi körútjainak."],
-      ro: ["Unități de producție.", "Mașini istorice.", "Procesarea zahărului.", "Istoria agricolă.", "Este cunoscut sub numele de Atelierele de zahăr Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Production units.", "Historical machines.", "Sugar processing.", "Agricultural history.", "Known by the name Tobago Sugar Works.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Atelierele de zahăr Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Tobago Sugar Works.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -594,10 +594,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Spanish Fort Tobago is a notable site on the Caribbean island of Trinidad. Spanish fortification. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Strategic presence. Another point of interest: Colonial defense work. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Strategische Präsenz.", "Koloniales Abwehrwerk.", "Historische Fundstätte.", "18. Jahrhundert.", "Bekannt unter dem Namen Spanisches Fort Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Spanisches Fort Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. században épült spanyol katonai bázis a szigeten.", "Segített fenntartani a spanyol korona igényét Tobagóra.", "Falai helyi mészkőből és importált téglákból épültek.", "Ágyúi a sziget nyugati partjait őrizték az ellenséges flottáktól.", "A romok ma fontos részei a sziget történelmi örökségének.", "Jól dokumentálja a korai spanyol erődépítési stílust.", "Gyakran használták megfigyelőpontként a tengeri kalózok ellen.", "A terület ma népszerű a túrázók és fotósok körében."],
-      ro: ["Prezență strategică.", "Lucrare defensivă colonială.", "Sit istoric.", "Secolul al XVIII-lea.", "Este cunoscut sub numele de Fortul spaniol Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Strategic presence.", "Colonial defense work.", "Historical site.", "18th century.", "Known by the name Spanish Fort Tobago.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fortul spaniol Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Spanish Fort Tobago.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -620,10 +620,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Plantation Hospital is a notable site on the Caribbean island of Trinidad. Historic facility for plantation workers. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Medical care. Another point of interest: Colonial care. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Medizinische Versorgung.", "Koloniale Fürsorge.", "Architekturzeugnis.", "Historische Aufarbeitung.", "Bekannt unter dem Namen Plantagen-Krankenhaus.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Plantagen-Krankenhaus.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Minden nagyobb cukor- és kakaóbirtok rendelkezett saját kórházzal.", "A 19. századi épületek maradványai ma is láthatók vidéken.", "Elsősorban a járványok (kolera, sárgaláz) megfékezésére szolgáltak.", "A kórházak szigorú fegyelem és felügyelet alatt működtek.", "Itt alkalmaztak először helyi növényi gyógymódokat tudományos keretek között.", "A romok építészete a hűvösebb, szellős terek kialakítására törekedett.", "Fontos dokumentumai a munkások életkörülményeinek.", "Mára a legtöbb ilyen épületet elnyelte az erdő vagy lebontották."],
-      ro: ["Îngrijire medicală.", "Îngrijire colonială.", "Mărturie arhitecturală.", "Reevaluare istorică.", "Este cunoscut sub numele de Spitalul plantației.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Medical care.", "Colonial care.", "Architectural testimony.", "Historical re-evaluation.", "Known by the name Plantation Hospital.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Spitalul plantației.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Plantation Hospital.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -646,10 +646,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Old Port Office is a notable site on the Caribbean island of Trinidad. Historic administration building at the harbor. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Harbor administration. Another point of interest: Trade history. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Hafenverwaltung.", "Handelsgeschichte.", "Koloniale Architektur.", "Restauriertes Bauwerk.", "Bekannt unter dem Namen Altes Hafenamt.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Altes Hafenamt.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 19. század végén épült Port of Spain kikötőjének szívében.", "A tengeri szállítás és a vámszabályozás központi helyszíne volt.", "Jellemzője a díszes homlokzat és a magas belső terek.", "Fontos szerepet játszott az ország export-import forgalmának irányításában.", "Ma védett építészeti emlék a főváros üzleti negyedében.", "A belső terekben gyakran megmaradtak az eredeti tölgyfa pultok.", "Itt kezelték a sziget és a világ közötti postai forgalmat is.", "A gyarmati bürokrácia és a gazdasági növekedés szimbóluma."],
-      ro: ["Administrația portului.", "Istoria comerțului.", "Arhitectură colonială.", "Structură restaurată.", "Este cunoscut sub numele de Vechea clădire a portului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Harbor administration.", "Trade history.", "Colonial architecture.", "Restored building.", "Known by the name Old Port Office.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Vechea clădire a portului.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Old Port Office.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -672,10 +672,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Spanish Chapel is a notable site on the Caribbean island of Trinidad. Historic religious site. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Religious mission. Another point of interest: Colonial heritage. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Religiöse Mission.", "Koloniales Erbe.", "Erbaut im 18. Jahrhundert.", "Kulturelles Zentrum.", "Bekannt unter dem Namen Spanische Kapelle.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Spanische Kapelle.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A spanyol korszak legkorábbi keresztény építményei Trinidadon.", "Gyakran spanyol missziók (encomiendas) területén álltak.", "A romok alapjai spanyol barokk és helyi népi elemeket ötvöznek.", "Fontos szerepet játszottak az őslakosok vallási integrációjában.", "A kápolnák körül alakultak ki az első állandó települések.", "Sok romot ma szent helyként tisztelnek a helyiek.", "A falak között gyakran találhatók régi spanyol sírfeliratok.", "Védett történelmi emlékek, amelyek segítik a múlt megértését."],
-      ro: ["Misiune religioasă.", "Moștenire colonială.", "Construită în secolul al XVIII-lea.", "Centru cultural.", "Este cunoscut sub numele de Capela spaniolă.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Religious mission.", "Colonial heritage.", "Built in the 18th century.", "Cultural center.", "Known by the name Spanish Chapel.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Capela spaniolă.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Spanish Chapel.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -698,10 +698,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Former Tobago Treasury is a notable site on the Caribbean island of Trinidad. Historic financial building. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Financial administration. Another point of interest: Colonial power. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Finanzverwaltung.", "Koloniale Macht.", "Historische Architektur.", "Touristenattraktion.", "Bekannt unter dem Namen Ehemalige Schatzkammer Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Ehemalige Schatzkammer Tobago.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["Tobago legfontosabb pénzügyi épülete volt a gyarmati időkben.", "Scarborough központjában, a Fort King George közelében fekszik.", "A 19. századi brit építészeti stílust képviseli.", "Vastag falaival és páncélozott ajtóival a sziget 'széfje' volt.", "Ma fontos történelmi és építészeti látványosság.", "Segít bemutatni Tobago egykori független költségvetésének működését.", "Az épületben ma gyakran kiállításokat és kulturális eseményeket tartanak.", "Jelképezi a sziget gazdasági stabilitásért folytatott küzdelmét."],
-      ro: ["Administrație financiară.", "Putere colonială.", "Arhitectură istorică.", "Atracție turistică.", "Este cunoscut sub numele de Fosta trezorerie Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Financial administration.", "Colonial power.", "Historical architecture.", "Tourist attraction.", "Known by the name Former Tobago Treasury.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fosta trezorerie Tobago.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Former Tobago Treasury.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -724,10 +724,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Fort James is a notable site on the Caribbean island of Trinidad. Fortification near Plymouth. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Protection of the coast. Another point of interest: Historic cannons. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Schutz der Küste.", "Historische Kanonen.", "Überblick über Plymouth.", "Erbaut im 18. Jahrhundert.", "Bekannt unter dem Namen Fort James.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      de: ["Bekannt unter dem Namen Fort James.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
       hu: ["A 18. században épült brit erődítmény Plymouth-ban.", "Tobago egyik legfontosabb történelmi védműve.", "Még ma is láthatók az eredeti brit ágyúk az öböl felé fordítva.", "Az erőd falai helyi mészkőből és importált téglából készültek.", "Népszerű turisztikai célpont és kulturális emlékhely.", "Lélegzetelállító kilátást nyújt a Great Courland-öbölre.", "Az erőd története szorosan összefonódik a sziget gyarmati sorsával.", "Gyakran használják helyszínként kulturális és ünnepi eseményekhez."],
-      ro: ["Protecția coastei.", "Tunuri istorice.", "Vedere spre Plymouth.", "Construit în secolul al XVIII-lea.", "Este cunoscut sub numele de Fortul James.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Protection of the coast.", "Historic cannons.", "Overlooks Plymouth.", "Built in the 18th century.", "Known by the name Fort James.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      ro: ["Este cunoscut sub numele de Fortul James.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Fort James.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -750,10 +750,10 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
       en: "Cocoa Estate Office is a notable site on the Caribbean island of Trinidad. Historic office building for plantation administration. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Plantation administration. Another point of interest: Trade history. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Verwaltung der Plantage.", "Handelsgeschichte.", "Koloniale Struktur.", "Historisches Denkmal.", "Bekannt unter dem Namen Kakaoplantagen-Büro.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
-      hu: ["Az ültetvény igazgatása.", "Kereskedelmi történelem.", "Gyarmati struktúra.", "Történelmi műemlék.", "A helyszín neve: Kakaóültetvény iroda.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Administrarea plantației.", "Istoria comerțului.", "Structură colonială.", "Monument istoric.", "Este cunoscut sub numele de Biroul plantației de cacao.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Plantation administration.", "Trade history.", "Colonial structure.", "Historic monument.", "Known by the name Cocoa Estate Office.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      de: ["Bekannt unter dem Namen Kakaoplantagen-Büro.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads."],
+      hu: ["A helyszín neve: Kakaóültetvény iroda.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Biroul plantației de cacao.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Cocoa Estate Office.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   }
 ];

@@ -1,0 +1,27 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    { "id": "ranomafana-nature-v2", "description": "Ranomafana is a lush rainforest park famous for its golden bamboo lemurs and hot springs.", "facts": ["Rainforest park", "Bamboo lemurs", "Hot springs"] },
+    { "id": "masoala-peninsula-nature-v2", "description": "The Masoala Peninsula contains the largest area of protected rainforest in Madagascar, meeting the sea in a stunning way.", "facts": ["Large rainforest", "UNESCO site", "Marine reserve"] },
+    { "id": "lake-tampolo-nature-v2", "description": "Lake Tampolo is a serene coastal lake on the east coast, surrounded by rare littoral forest.", "facts": ["Coastal lake", "Littoral forest", "East coast"] },
+    { "id": "mahajanga-coast-nature-v2", "description": "The coast around Mahajanga features massive estuaries and beautiful red-rock formations.", "facts": ["Coastal area", "Estuaries", "Red-rock cliffs"] },
+    { "id": "saint-marie-island-nature-v2", "description": "Sainte Marie (Nosy Boraha) is a tropical island paradise known for whale watching and its pirate history.", "facts": ["Whale watching", "Tropical paradise", "Pirate history"] },
+    { "id": "tsiribihina-delta-nature-v2", "description": "The Tsiribihina Delta is a vast wetland area where the river meets the Mozambique Channel.", "facts": ["Wetland delta", "West coast", "Wildlife habitat"] },
+    { "id": "lake-tsimanampetsotsa-nature-v2", "description": "Lake Tsimanampetsotsa is a saline lake in the dry south, famous for its blind cave fish and flamingos.", "facts": ["Saline lake", "Pink flamingos", "Dry south"] },
+    { "id": "mangoro-river-nature-v2", "description": "The Mangoro River is one of Madagascar's longest rivers, vital for transport and hydroelectric power.", "facts": ["Major river", "East Madagascar", "Hydroelectric power"] },
+    { "id": "nosy-mitseo-nature-v2", "description": "Nosy Mitsio is a stunning archipelago of volcanic islands with unique rock formations and clear waters.", "facts": ["Archipelago", "Basalt columns", "Pristine beaches"] },
+    { "id": "montagne-ambre-nature-v2", "description": "Montagne d'Ambre is a volcanic mountain park in the north, known for its waterfalls and cool climate.", "facts": ["Volcanic park", "Rainforest in north", "Waterfalls"] },
+    { "id": "lake-anivorano-nature-v2", "description": "Lake Anivorano is a sacred lake in northern Madagascar, home to crocodiles that are respected by the local people.", "facts": ["Sacred lake", "Crocodile habitat", "Local traditions"] },
+    { "id": "nosy-tanikely-nature-v2", "description": "Nosy Tanikely is a small island reserve offering some of the best snorkeling in the Nosy Be region.", "facts": ["Marine reserve", "Snorkeling spot", "Lighthouse views"] },
+    { "id": "massif-des-makay-nature-v2", "description": "The Makay Massif is a remote and rugged sandstone labyrinth, one of the least explored areas of Madagascar.", "facts": ["Sandstone massif", "Remote area", "Rugged canyons"] },
+    { "id": "boby-peak-foothills-relief-v2", "description": "The foothills of Boby Peak lead to the highest climbable summit in Madagascar, set within Andringitra National Park.", "facts": ["Andringitra park", "High foothills", "Trekking route"] },
+    { "id": "manongarivo-massif-relief-v2", "description": "The Manongarivo Massif is an isolated mountain range in the north, protecting a vast area of primary forest.", "facts": ["Isolated massif", "Primary forest", "North Madagascar"] },
+    { "id": "vohimana-relief-v2", "description": "Vohimana is a mountainous region in the eastern rainforest, known for its steep slopes and rich biodiversity.", "facts": ["Mountainous area", "Eastern rainforest", "Steep slopes"] },
+    { "id": "ranomafana-hills-relief-v2", "description": "The rolling hills of Ranomafana are covered in dense rainforest, providing a dramatic backdrop to the park.", "facts": ["Rainforest hills", "Ranomafana park", "Steep terrain"] }
+  ]
+}

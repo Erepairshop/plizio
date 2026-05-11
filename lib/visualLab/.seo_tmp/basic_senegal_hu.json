@@ -1,0 +1,50 @@
+{
+  "lang": "hu",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-kaolack-economic-v2",
+      "description": "Kaolack fontos folyami kikötője a Saloum folyó partján, amely meghatározó a régió áruszállításában. A város kereskedelmi központként köti össze a szárazföldi területeket az óceáni kereskedelemmel.",
+      "facts": ["Kaolack megye székhelye", "Folyami kikötő", "Kereskedelmi csomópont"]
+    },
+    {
+      "id": "sonacos-kaolack-economic-v2",
+      "description": "A SONACOS kaolack-i üzeme Szenegál egyik meghatározó földimogyoró-feldolgozó vállalata. A gyár a helyi mezőgazdaság számára alapvető ipari hátteret biztosít.",
+      "facts": ["Földimogyoró feldolgozás", "Ipari létesítmény", "Jelentős munkáltató"]
+    },
+    {
+      "id": "sn-palais-de-la-republique-landmarks-v2",
+      "description": "Dakar központjában található a köztársasági elnök hivatalos rezidenciája. Az épület gyarmati építészeti stílusával a főváros egyik jelképe.",
+      "facts": ["Elnöki palota", "Dakar központ", "Gyarmati építészet"]
+    },
+    {
+      "id": "sn-bceao-tower-landmarks-v2",
+      "description": "A Nyugat-afrikai Államok Központi Bankjának toronyépülete Dakar modern üzleti negyedének egyik legmagasabb pontja. Az irodaház a régió pénzügyi erejét szimbolizálja.",
+      "facts": ["Banki központ", "Modern építészet", "Dakar ikonikus épülete"]
+    },
+    {
+      "id": "sn-mosquee-divinite-landmarks-v2",
+      "description": "A Dakar mellett fekvő Ouakam-ban található mecset különleges helyzete az óceánparti sziklákon sok látogatót vonz. Építészete ötvözi a hagyományos és modern elemeket.",
+      "facts": ["Óceánparti mecset", "Ouakam kerület", "Spirituális központ"]
+    },
+    {
+      "id": "sn-hotel-de-ville-dakar-landmarks-v2",
+      "description": "Dakar városházája a főváros közigazgatási és politikai életének központi helyszíne. Az épület történelmi jelentősége és díszes homlokzata a városi örökség része.",
+      "facts": ["Városháza", "Közigazgatási épület", "Dakar belvárosa"]
+    },
+    {
+      "id": "sn-marche-kermel-landmarks-v2",
+      "description": "A Kermel piac Dakar egyik leghíresebb kereskedelmi helyszíne, ahol helyi kézműves termékek és friss áruk vásárolhatók. Épülete ötvözi a hagyományos piaci hangulatot a modern városi élettel.",
+      "facts": ["Híres piac", "Kézműves termékek", "Kulturális csomópont"]
+    },
+    {
+      "id": "sn-grande-mosquee-guediawaye-landmarks-v2",
+      "description": "Guediawaye nagy mecsetje a helyi közösség hitéletének és társadalmi érintkezésének fontos színtere. Az épület a népes külvárosi régió egyik fő építészeti alkotása.",
+      "facts": ["Nagy mecset", "Vallási épület", "Guediawaye kerület"]
+    }
+  ]
+}

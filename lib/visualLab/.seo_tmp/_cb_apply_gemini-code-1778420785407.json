@@ -1,0 +1,48 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChileLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-san-cristobal-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Cerro San Cristóbal ist ein markanter Hügel im nördlichen Zentrum von Santiago, Chile. Geografisch erhebt er sich exakt 300 Meter über den Rest der Stadt und bildet den absoluten Hauptbestandteil des massiven Parque Metropolitano, des größten Stadtparks des Landes. Wirtschaftlich fungiert der Hügel als hochbedeutendes touristisches und städtisches Wahrzeichen. Er verfügt über eine historische Standseilbahn aus dem Jahr 1925 und eine moderne Seilbahn, die konstante kommunale Einnahmen generieren. Historisch wurde der Hügel im frühen 20. Jahrhundert als astronomischer Beobachtungspunkt genutzt, bevor er systematisch in einen öffentlichen Park umgewandelt wurde, um der extremen städtischen Expansion und dem dichten Smog entgegenzuwirken. Heute wird der Gipfel vollständig von einer 22 Meter hohen Statue der Jungfrau Maria dominiert, die 1908 errichtet wurde. Das Gelände steht vor tiefgreifenden ökologischen Herausforderungen. Massive Dürreperioden beeinträchtigen den künstlich gepflanzten Wald extrem, der eine sehr aufwendige, hochpreisige Bewässerung benötigt, um die rauen, völlig trockenen Sommer in Santiago zu überleben. Schwerer Smog verdeckt zudem häufig die Aussicht.",
+        "hu": "A Cerro San Cristóbal egy kiemelkedő domb Chile fővárosának, Santiagónak az északi központjában. Földrajzilag pontosan 300 méterrel magasodik a város többi része fölé, és az ország legnagyobb városi parkjának, a hatalmas Parque Metropolitanónak az abszolút fő alkotóeleme. Gazdasági szempontból a domb rendkívül jelentős turisztikai és rekreációs nevezetességként működik. Egy 1925-ből származó történelmi siklóval és egy modern drótkötélpályával is rendelkezik, amelyek folyamatos önkormányzati bevételt generálnak. Történelmileg a dombot a 20. század elején csillagászati megfigyelőpontként használták, mielőtt szisztematikusan közparkká alakították volna az extrém városi terjeszkedés és a szmog leküzdése érdekében. Ma a csúcsot teljesen uralja Szűz Mária 22 méter magas szobra, amelyet 1908-ban emeltek. A terület mélyreható környezeti kihívásokkal néz szembe, elsősorban a mesterségesen telepített erdőt érintő hatalmas aszályos körülményekkel, amely kiterjedt, rendkívül drága öntözést igényel, hogy túlélje a zord, száraz santiagói nyarakat. A súlyos szmog gyakran eltakarja a kilátást.",
+        "ro": "Cerro San Cristóbal este un deal proeminent situat în zona centrală nordică a orașului Santiago, Chile. Geografic, se ridică exact la 300 de metri deasupra restului orașului, formând componenta principală absolută a masivului Parc Metropolitan din Santiago, cel mai mare parc urban din țară. Economic, dealul funcționează ca un reper turistic și recreativ extrem de semnificativ. Dispune de un funicular istoric datând din 1925 și de o telecabină modernă, generând venituri municipale consistente. Istoric, dealul a fost utilizat ca punct de observație astronomică la începutul secolului al XX-lea, înainte de a fi transformat sistematic într-un parc public pentru a combate expansiunea urbană severă și smogul. Astăzi, vârful este dominat complet de statuia de 22 de metri a Fecioarei Maria, ridicată în 1908. Situl se confruntă cu provocări de mediu profunde, în primul rând secete masive care afectează pădurea plantată artificial, care necesită o irigare extensivă, foarte scumpă, pentru a supraviețui verilor aspre din Santiago. Smogul greu ascunde frecvent complet priveliștile.",
+        "en": "Cerro San Cristóbal is a highly prominent hill located in the northern central area of Santiago, Chile. Geographically, it rises exactly 300 meters above the rest of the city, firmly forming the absolute primary component of the massive Metropolitan Park of Santiago, the largest urban park in the country. Economically, the hill functions as a highly significant tourist and recreational landmark. It actively features a historical funicular railway dating back to 1925 and a modern aerial tramway, generating consistent municipal revenue. Historically, the hill was heavily utilized as an astronomical observation point in the early 20th century before being systematically transformed into a public park to actively combat severe urban expansion and heavy smog. Today, the summit is completely dominated by the 22-meter-tall statue of the Virgin Mary, officially erected in 1908. The site faces profound environmental challenges, primarily massive drought conditions heavily affecting the artificially planted forest, which requires extensive, highly expensive irrigation to survive the harsh, totally dry Santiago summers. Heavy smog frequently obscures the panoramic views of the Andes entirely."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cerro San Cristóbal bildet den absolut größten Stadtpark in Santiago.",
+          "Der Hügel erhebt sich exakt 300 Meter über die umliegende Metropolregion.",
+          "Eine historische Standseilbahn transportiert Besucher stetig zum hohen Gipfel.",
+          "Die 22 Meter hohe Marienstatue dominiert den höchsten Gipfel völlig.",
+          "Schwere lokale Dürren bedrohen den künstlich gepflanzten Stadtwald extrem."
+        ],
+        "hu": [
+          "A Cerro San Cristóbal alkotja Santiago városának abszolút legnagyobb parkját.",
+          "A domb pontosan 300 méterrel magasodik a környező nagyvárosi terület fölé.",
+          "Egy történelmi siklóvasút aktívan szállítja a látogatókat a magas csúcsra.",
+          "A 22 méteres Szűz Mária-szobor teljesen és masszívan uralja a legmagasabb csúcsot.",
+          "A súlyos helyi aszályok rendkívüli módon fenyegetik a mesterséges városi erdőt."
+        ],
+        "ro": [
+          "Cerro San Cristóbal formează absolut cel mai mare parc urban din Santiago.",
+          "Dealul se ridică exact la 300 de metri deasupra zonei metropolitane din jur.",
+          "Un funicular istoric transportă activ vizitatorii spre vârful înalt.",
+          "Statuia de 22 de metri a Fecioarei Maria domină complet cel mai înalt vârf.",
+          "Secetele locale severe amenință masiv pădurea urbană plantată artificial."
+        ],
+        "en": [
+          "Cerro San Cristóbal forms the absolute largest urban park in the city of Santiago.",
+          "The hill rises exactly 300 meters above the surrounding metropolitan area.",
+          "A historical funicular railway actively transports visitors to the high summit.",
+          "The 22-meter statue of the Virgin Mary completely dominates the highest peak.",
+          "Severe local droughts heavily threaten the artificially planted urban forest."
+        ]
+      }
+    }
+  ]
+}

@@ -29,8 +29,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Größter Industriehafen des Landes", "Hauptumschlagplatz für Methanol und Ammoniak", "Spezialisierter Tiefwasserhafen am Golf von Paria", "Zentrales Exporttor für petrochemische Produkte", "Umfangreiche Terminals für Flüssiggas (LNG)", "Logistisches Herz des Point Lisas Industriegebiets", "Höchste Standards in der industriellen Sicherheit", "Wichtigster Devisenbringer der nationalen Wirtschaft"],
       hu: ["A Karib-térség egyik legmodernebb ipari kikötője.", "Mélyvízi termináljai alkalmasak a legnagyobb teherhajók fogadására.", "Elsődleges kiviteli pontja a trinidadi metanolnak és ammóniának.", "Korszerű konténerterminállal rendelkezik a kereskedelmi áruk számára.", "Saját vontatóhajó-flotta és navigációs rendszer segíti a forgalmat.", "A kikötő éves forgalma több millió tonna árut tesz ki.", "Közvetlen vasúti és közúti kapcsolatokkal bír az ipari zónával.", "Kulcsszerepet játszik az ország devizabevételeinek biztosításában."],
-      ro: ["Principalul centru de transbordare pentru produse petrochimice.", "Port strategic de adâncime.", "Hub pentru comerțul de export.", "Este cunoscut sub numele de Portul Point Lisas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Main transshipment hub for petrochemicals.", "Strategic deep-water port.", "Hub for export trade.", "Known by the name Point Lisas Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Point Lisas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Point Lisas Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -60,8 +60,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Wichtigster Containerhafen von Trinidad", "Zentrum für den Import von Konsumgütern", "Standort des Passagierterminals für Tobago-Fähren", "Strategische Lage im Herzen der Hauptstadt", "Umschlagplatz für allgemeine Fracht und Autos", "Bedeutender Arbeitgeber in der POS-Region", "Historisches Tor für den internationalen Handel", "Knotenpunkt für Kreuzfahrtschiffe in der Region"],
       hu: ["Az ország első számú kereskedelmi és konténerkikötője.", "Itt érkezik be Trinidad importtermékeinek legnagyobb része.", "Fontos bázisa a Tobago és Trinidad közötti kompjáratoknak.", "Nemzetközi luxus üdülőhajók (cruise ships) fogadására is alkalmas.", "Történelmi jelentősége a gyarmati idők óta meghatározó.", "Hatalmas raktárkapacitással és logisztikai központtal rendelkezik.", "Közvetlen szomszédságban van a főváros üzleti negyedével.", "Modern biztonsági és vámkezelési rendszereket alkalmaz."],
-      ro: ["Cel mai mare port de containere din țară.", "Centrul comerțului internațional.", "Punct major de sosire pentru importuri.", "Este cunoscut sub numele de Portul Port of Spain.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Largest container port in the country.", "Center for international trade.", "Major arrival point for imports.", "Known by the name Port of Spain Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Port of Spain.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Port of Spain Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -91,8 +91,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Historisch für den Asphaltexport erbaut", "Wichtiger Standort für die Energie-Logistik", "Spezialisierte Anlagen für petrochemische Güter", "Tiefer Kai für große internationale Frachtschiffe", "Unterstützt die industrielle Entwicklung im Südwesten", "Nähe zum La Brea Industrial Estate", "Bedeutend für die regionale Beschäftigung", "Strategischer Außenposten am Golf von Paria"],
       hu: ["A délnyugati régió legfontosabb ipari kikötője.", "Hagyományosan az aszfalt (Pitch Lake) kiviteli pontja.", "Modern logisztikai bázis a tengeri olajfúrótornyok számára.", "Mélyvízi mólója alkalmas nehézgépek és platform-alkatrészek fogadására.", "Szoros kapcsolatban áll a közeli ipari parkkal (La Brea Industrial Estate).", "Fontos szerepe van a kőolajtermékek regionális elosztásában.", "Korszerű javító- és karbantartó műhelyekkel rendelkezik.", "Stratégiai pont a Paria-öböl déli részén."],
-      ro: ["Principalul punct de export pentru asfaltul de la Pitch Lake.", "Sprijină industriile petrochimice locale.", "Chei adânc pentru navele de marfă.", "Este cunoscut sub numele de Portul La Brea.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Main export point for Pitch Lake asphalt.", "Supports local petrochemical industries.", "Deep quay for cargo vessels.", "Known by the name La Brea Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul La Brea.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name La Brea Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -122,8 +122,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Strategischer Hafen in der Bucht von Chaguaramas", "Historisches Zentrum für den Bauxitumschlag", "Wichtiger Standort für maritime Dienstleistungen", "Geschützter Tiefwasserankerplatz", "Unterstützt den industriellen Rohstoffhandel", "Teil des maritimen Clusters von Chaguaramas", "Zentrum für Schwergutlogistik", "Bedeutung für die regionale Versorgungskette"],
       hu: ["Speciális kikötő a bauxit és alumínium-oxid kezelésére.", "Hatalmas, messziről látható tárolósilókkal rendelkezik.", "Fontos regionális logisztikai hub a dél-amerikai bányászat számára.", "A védett Paria-öböl nyugati részén fekszik.", "Sajátos, nagy teljesítményű futószalagos rakodórendszere van.", "Éjjel-nappali üzemmódban szolgálja ki a teherhajókat.", "Szoros kapcsolatban áll a nemzetközi alumíniumiparral.", "A környező vizek mélysége ideális a nagy merülésű hajóknak."],
-      ro: ["Locație logistică importantă.", "Sprijină comerțul regional.", "Locație strategică de coastă.", "Este cunoscut sub numele de Portul Tembladora.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Major logistics location.", "Supports regional trade.", "Strategic coastal location.", "Known by the name Tembladora Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Tembladora.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Tembladora Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -153,8 +153,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Spezialisierter Hafen für chemische Flüssiggüter", "Teil der Point Lisas Hafen-Infrastruktur", "Direkte Anbindung an petrochemische Fabriken", "Höchste internationale Sicherheitsstandards", "Zentrum für den Export von Methanol und Harnstoff", "Modernste Terminal-Technologie", "Wichtiger Knotenpunkt für globale Chemiewirtschaft", "Strategische Bedeutung für den Außenhandel"],
       hu: ["A Point Lisas-i komplexum legfontosabb vegyipari terminálja.", "Kifejezetten metanol, ammónia és karbamid exportjára épült.", "Világszínvonalú automatizált rakodó- és csővezeték-rendszerrel bír.", "A legmagasabb szintű ipari biztonsági minősítésekkel rendelkezik.", "Közvetlen összeköttetésben áll a szomszédos petrokémiai gyárakkal.", "A Paria-öböl középső részén, stratégiai helyen fekszik.", "A kikötő éves forgalma kritikus az ország bevételei szempontjából.", "Folyamatos technológiai fejlesztések jellemzik a hatékonyság növelése érdekében."],
-      ro: ["Gestionează mărfuri industriale specializate.", "Standarde stricte de siguranță.", "Element central al infrastructurii industriale.", "Este cunoscut sub numele de Portul Savonetta.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Handles specialized industrial cargo.", "Strict safety standards.", "Central element of industrial infrastructure.", "Known by the name Savonetta Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Savonetta.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Savonetta Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -184,8 +184,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Zentrum für Yachting und Schiffsreparatur", "Wichtiger Standort für Offshore-Versorgung", "Geschützte Tiefwasserbuchten im Nordwesten", "Bedeutender Hub für die maritime Industrie", "Heimat zahlreicher internationaler Werften", "Attraktiv für Segeltouristen (Hurrikan-sicher)", "Zentrum für maritime Logistik und Lagerung", "Mischung aus Industrie, Tourismus und Militär"],
       hu: ["A Karib-térség egyik legfontosabb jacht- és hajójavító hubja.", "Védett fekvése miatt népszerű menedék a hurrikánszezonban.", "Számos modern marina és hajókiemelő daru üzemel a területen.", "Fontos bázisa a tengeri olajkutatást támogató flottáknak.", "A kikötő környékén virágzik a hajós turizmus és a szolgáltatások.", "II. világháborús amerikai katonai bázis helyén alakult ki.", "Kiváló szaktudással rendelkező hajóépítő és javító mesterek dolgoznak itt.", "A kikötő kapuként szolgál a közeli Bocas-szigetek felé."],
-      ro: ["Centru pentru servicii maritime.", "Capacitate mare de întreținere a navelor.", "Hub turistic și industrial.", "Este cunoscut sub numele de Portul Chaguaramas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Center for maritime services.", "Large capacity for vessel maintenance.", "Tourism and industrial hub.", "Known by the name Chaguaramas Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Chaguaramas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Chaguaramas Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -215,8 +215,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Haupthafen und wirtschaftliches Hub von Tobago", "Anlegestelle für die Schnellfähren nach Trinidad", "Wichtiger Hafen für internationale Kreuzfahrtschiffe", "Zentrum der Inselversorgung mit Gütern", "Strategische Lage in der Rockly Bay", "Knotenpunkt für den lokalen Handel und Tourismus", "Ständiger Ausbau der Terminal-Infrastruktur", "Wirtschaftliches Herz der Stadt Scarborough"],
       hu: ["Tobago legfontosabb tengeri kikötője és logisztikai központja.", "A Trinidad-Tobago kompjáratok elsődleges terminálja.", "Mélyvízi mólója alkalmas a legnagyobb üdülőhajók (cruise ships) fogadására.", "Itt zajlik Tobago importcikkeinek döntő többségének vámkezelése.", "Közvetlen szomszédságában van Scarborough belvárosa és piaca.", "Modern utasváróval és logisztikai létesítményekkel rendelkezik.", "A kikötő forgalma alapvetően meghatározza a sziget árellátását.", "Fontos gazdasági motor és munkahelyteremtő a helyiek számára."],
-      ro: ["Legătură cu feribotul către Trinidad.", "Hub de import pentru Tobago.", "Important pentru logistica turismului.", "Este cunoscut sub numele de Portul Scarborough.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Ferry connection to Trinidad.", "Import hub for Tobago.", "Important for tourism logistics.", "Known by the name Scarborough Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Scarborough.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Scarborough Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -246,8 +246,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Primäre Versorgungsbasis für Atlantik-Bohrinseln", "Strategischer Standort an der Südostspitze Trinidads", "Wichtig für die Logistik der Erdgasförderung", "Basis für spezialisierte Versorgungsflotten", "Mischung aus Industriehafen und Fischerei", "Bedeutender Arbeitgeber in der Region Mayaro", "Knotenpunkt für maritime Sicherheitsdienste", "Unterstützt die nationale Energieunabhängigkeit"],
       hu: ["Trinidad legrégebbi kőolaj-logisztikai kikötője.", "A keleti part menti (East Coast) olaj- és gázplatformok fő kiszolgálója.", "Termináljai kifejezetten a tengeri ipar igényeire lettek kialakítva.", "Mélytengeri kutatások és fúrások fontos támogató bázisa.", "A kikötő üzemeltetése szigorú környezetvédelmi felügyelet alatt áll.", "Közvetlen összeköttetésben van az ország csővezeték-hálózatával.", "Fontos munkaadó a délkeleti régió lakossága számára.", "Stratégiai elhelyezkedése kulcsfontosságú az energiaellátás szempontjából."],
-      ro: ["Punct de aprovizionare pentru platforme offshore.", "Port de pescuit.", "Locație strategică pe coasta de sud-est.", "Este cunoscut sub numele de Portul Guayaguayare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Supply point for offshore platforms.", "Fishing port.", "Strategic location on the south-east coast.", "Known by the name Guayaguayare Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Guayaguayare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Guayaguayare Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -277,8 +277,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Einer der weltweit größten LNG-Exporthäfen", "Standort der Atlantic LNG Verladeanlagen", "Strategisches Tor zum globalen Erdgasmarkt", "Spezialisierte Terminals für flüssige Energieträger", "Wirtschaftliches Rückgrat des Südwestens", "Hochmoderne technologische Infrastruktur", "Bedeutung für die internationale Energieversorgung", "Zentrum für maritime Speziallogistik"],
       hu: ["Az Atlantic LNG termináljának és kiviteli pontjának otthona.", "A világ egyik legfontosabb cseppfolyósított földgáz (LNG) kikötője.", "Speciális mólói a hatalmas LNG-szállító tankhajókra lettek tervezve.", "A sziget délnyugati részének legfontosabb ipari kapuja.", "Korszerű biztonsági és tűzvédelmi rendszerekkel rendelkezik.", "Történelmileg az ország egyik első kőolaj-exportáló kikötője volt.", "Közvetlen kapcsolatban áll a földgáz-feldolgozó egységekkel.", "Jelentős hatással van a globális energiapiaci árakra."],
-      ro: ["Infrastructură de export petrochimic.", "Sprijină locurile de muncă locale.", "Manipulare specializată.", "Este cunoscut sub numele de Portul Point Fortin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Petrochemical export infrastructure.", "Supports local jobs.", "Specialized cargo handling.", "Known by the name Point Fortin Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Point Fortin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Point Fortin Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -308,8 +308,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Offizieller Einreisehafen im Südwesten", "Wichtiger Hub für den Handel mit Venezuela", "Traditionelles Zentrum für die Fischereiwirtschaft", "Umschlagplatz für regionale Agrargüter", "Strategischer Stützpunkt für die Küstenwache", "Basis für die lokale Kokosnusslogistik", "Einzige legale Seeverbindung zum Festland im Süden", "Bedeutung für die regionale Grenzsicherheit"],
       hu: ["Fontos tengeri határátkelőhely Venezuela irányába.", "Elsődleges bázisa a délnyugati régió halászflottájának.", "Vám- és bevándorlási hivatallal rendelkezik a nemzetközi forgalomhoz.", "A helyi kókusztermékek (olaj, kopra) hagyományos kiviteli pontja.", "Fontos szerepet játszik a tengeri biztonság felügyeletében.", "Kikötője a hagyományos fahajók és modern motorcsónakok keverékét fogadja.", "Gazdaságilag meghatározó a Cedros-félsziget lakói számára.", "A kikötő hangulata autentikus és vendégszerető."],
-      ro: ["Comerț local.", "Serviciu de feribot către Venezuela.", "Sprijină pescuitul.", "Este cunoscut sub numele de Portul Cedros.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Local trade.", "Ferry connection to Venezuela.", "Supports fishing.", "Known by the name Cedros Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Portul Cedros.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Cedros Port.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -339,8 +339,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Ehemaliges Zentrum der nationalen Ölraffinerie", "Strategisches Lager- und Umschlagzentrum", "Wahrzeichen der Industrie in Pointe-à-Pierre", "Wirtschaftliches Herz von Zentral-Trinidad", "Umfangreiche Hafenterminals für Ölexport", "Historisch bedeutendster Staatsbetrieb", "Zentrum für technische Ausbildung und Forschung", "Teil des nationalen Energieerbes"],
       hu: ["A sziget legnagyobb és legfontosabb olajipari komplexuma.", "Pointe-à-Pierre-ben található, közvetlenül a tengerparton.", "Évtizedekig itt működött az ország egyetlen nagy olajfinomítója.", "Hatalmas tárolótartály-parkkal (tank farm) rendelkezik.", "Ma a Heritage Petroleum és Paria Fuel Trading logisztikai bázisa.", "Saját kikötői terminálokkal és csővezeték-hálózattal bír.", "Jelentős szerepet játszott az ország iparosításában.", "A finomító kéményei messziről látható tájékozódási pontok."],
-      ro: ["Centrul istoric al procesării petrolului.", "Facilitate industrială mare.", "Important pentru economie.", "Este cunoscut sub numele de Complexul Petrotrin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Historic center of oil processing.", "Large industrial facility.", "Important to the economy.", "Known by the name Petrotrin Complex.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Complexul Petrotrin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Petrotrin Complex.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -370,8 +370,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Weltweit führende Ammoniak-Produktionsstätte", "Strategisches Joint Venture für die Stickstoffgewinnung", "Kernstück der Düngemittelindustrie in Point Lisas", "Nutzt Erdgas als primären Rohstoff", "Exportiert Ammoniak in alle Kontinente", "Hoch effiziente industrielle Produktion", "Wichtiger Beitragszahler zur Handelsbilanz", "Bedeutung für die globale Nahrungsmittelkette"],
       hu: ["Trinidad egyik vezető ammóniagyártó vállalata.", "A Point Lisas-i ipari parkban található hatalmas gyártelepe.", "A termeléshez alapanyagként helyi földgázt használnak.", "A termékek döntő többségét nemzetközi piacokon értékesítik.", "Modern és energiahatékony gyártási technológiákat alkalmaz.", "Fontos szerepet játszik a globális műtrágyaellátásban.", "A vállalat jelentős adóbevételt generál az állam számára.", "Szigorú ipari biztonsági és minőségbiztosítási rendszereket működtet."],
-      ro: ["Lider în producția de îngrășăminte cu azot.", "Parte a Point Lisas Estate.", "Orientat spre export.", "Este cunoscut sub numele de Facilitatea Tringen.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Leader in nitrogen fertilizer production.", "Part of the Point Lisas Estate.", "Export-oriented.", "Known by the name Tringen Facility.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Facilitatea Tringen.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Tringen Facility.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -401,8 +401,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Betreiber der riesigen Titan- und Atlas-Anlagen", "Trinidad ist ein Top-Exporteur von Methanol weltweit", "Methanol als Basis für Kunststoffe und Brennstoffe", "Modernste industrielle Verfahrenstechnik", "Zentrum der Methanol-Wirtschaft in Point Lisas", "Strategischer Partner der nationalen Gasindustrie", "Hoher Standard bei Energieeffizienz", "Wichtiger Akteur im globalen Chemiehandel"],
       hu: ["A világ egyik legnagyobb metanolgyártó komplexuma.", "Két nagy üzemből (Titan és Atlas) áll Point Lisas-ban.", "Trinidad a világ egyik vezető metanolexportőre az itt zajló termelésnek köszönhetően.", "A gyárak a legkorszerűbb biztonsági és környezetvédelmi technológiát használják.", "A termékeket speciális tankhajókon szállítják a világ minden tájára.", "Jelentős munkaadó a magasan képzett mérnökök és technikusok számára.", "A vállalat aktívan támogatja a helyi közösségi projekteket.", "Folyamatosan fejleszti a gyártási folyamatokat a fenntarthatóság érdekében."],
-      ro: ["Capacitate mare de metanol.", "Export pe piața mondială.", "Facilitate industrială de înaltă tehnologie.", "Este cunoscut sub numele de Methanex Trinidad.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Large methanol capacity.", "Export to the world market.", "High-tech industrial facility.", "Known by the name Methanex Trinidad.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Methanex Trinidad.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Methanex Trinidad.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -432,8 +432,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Führendes Stahlwalzwerk in Zentral-Trinidad", "Produzent von Baumaterialien für die Karibik", "Wichtiger Teil der Schwerindustrie in Point Lisas", "Spezialisiert auf hochwertige Stahlprofile", "Unterstützt die regionale Infrastrukturentwicklung", "Zentrum für metallurgische Fachkräfte", "Modernisierte industrielle Produktion", "Bedeutung für die industrielle Diversifizierung"],
       hu: ["Trinidad egyik vezető acélipari gyártója.", "Point Lisas ipari övezetében található a központja.", "Elsősorban az építőipar számára gyárt acéltermékeket.", "Fontos szerepet játszik a karibi régió alapanyag-ellátásában.", "Korszerű hengerművel és feldolgozó egységekkel rendelkezik.", "Termékei megfelelnek a legszigorúbb nemzetközi szabványoknak.", "A gyár jelentős számú helyi szakmunkást foglalkoztat.", "Aktívan részt vesz az ország infrastruktúrális fejlesztéseiben."],
-      ro: ["Laminor de oțel.", "Producție industrială pentru cererea regională.", "Parte a infrastructurii Point Lisas.", "Este cunoscut sub numele de Oțelăria Centrin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Steel rolling mill.", "Industrial production for regional demand.", "Part of the Point Lisas infrastructure.", "Known by the name Centrin Steel Mill.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Oțelăria Centrin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Centrin Steel Mill.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -463,8 +463,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Produzent von hochwertigem direkt reduziertem Eisen", "Nutzt Erdgas für effiziente Reduktionsprozesse", "Modernste Anlage ihrer Art in der Karibik", "Gesamte Produktion für den Weltmarkt bestimmt", "Wichtiger Rohstofflieferant für die Stahlindustrie", "Beispiel für industrielle High-Tech-Anwendungen", "Strategischer Standort im Point Lisas Estate", "Bedeutender Beitrag zum Exportvolumen"],
       hu: ["Közvetlen redukált vasat (DRI) előállító modern üzem.", "A gyártási folyamat során helyi földgázt alkalmaznak.", "A világ egyik legtisztább és leghatékonyabb vaskohászati létesítménye.", "A termékek döntő többségét nemzetközi exportra szánják.", "A Nucor Corporation, az USA legnagyobb acélgyártójának leányvállalata.", "Korszerű környezetvédelmi szűrőberendezésekkel rendelkezik.", "Jelentős mértékben járul hozzá az ország ipari exportjához.", "Saját speciális mólóval rendelkezik a Point Lisas-i kikötőben."],
-      ro: ["Producție specializată de fier.", "Orientat spre export.", "Tehnologie industrială eficientă.", "Este cunoscut sub numele de Uzina de fier Nu-Iron.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Specialized iron production.", "Export-oriented.", "Efficient industrial technology.", "Known by the name Nu-Iron Iron Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Uzina de fier Nu-Iron.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Nu-Iron Iron Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -494,8 +494,8 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Überreste der einst größten Zuckerfabrik des Landes", "Einstiges Herz der nationalen Zuckerindustrie", "Stilllegung der Produktion im Jahr 2003", "Symbol für die koloniale Plantagengeschichte", "Industrielles Denkmal in Zentral-Trinidad", "Historisch bedeutendster Arbeitgeber der Insel", "Ausgangspunkt für die Entwicklung der Region Couva", "Zentrum des soziokulturellen Erbes der Arbeiter"],
       hu: ["Trinidad állami cukorvállalata volt évtizedeken keresztül.", "Központja és fő gyára Brechin Castle-ben található.", "Tízezreknek biztosított megélhetést a cukornádültetvényeken és gyárakban.", "A trinidadi cukortermelés 2003-ban szűnt meg véglegesen.", "A terület ma ipari parkoknak és új lakóövezeteknek ad helyet.", "A gyár romjai ma ipari műemléknek számítanak.", "Itt készítették az ország egyik leghíresebb rumalapanyagát is.", "A vállalat megszűnése alapjaiban változtatta meg Közép-Trinidad életét."],
-      ro: ["Centrul istoric al industriei zahărului.", "Moștenire agricolă.", "Monument industrial.", "Este cunoscut sub numele de Ruinele fabricii de zahăr Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Historic center of sugar industry.", "Agricultural heritage.", "Industrial monument.", "Known by the name Caroni Sugar Mill Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Ruinele fabricii de zahăr Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Caroni Sugar Mill Ruins.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -523,10 +523,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Trinidad Cement Limited is a notable site on the Caribbean island of Trinidad. The leading cement production facility in Claxton Bay. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Cement production for construction industry. Another point of interest: Major regional exporter. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Zementproduktion für die Bauindustrie.", "Bedeutender regionaler Exporteur.", "Große Industrieanlage.", "Bekannt unter dem Namen Trinidad Cement Limited.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Trinidad Cement Limited.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["Trinidad és Tobago legfontosabb cementgyára.", "Claxton Bay tengerpartján fekszik a hatalmas üzem.", "A Karib-térség számos országába exportál építőanyagot.", "Saját kikötői terminállal rendelkezik a késztermékek szállításához.", "Helyi mészkőbányákat üzemeltet az alapanyag-ellátáshoz.", "Fontos szerepet játszik a régió infrastruktúrális fejlődésében.", "A gyár kéményei és silói messziről látható ipari szimbólumok.", "Dinamikusan fejleszti a környezetbarátabb gyártási technológiákat."],
-      ro: ["Producție de ciment pentru industria construcțiilor.", "Exportator regional semnificativ.", "Facilitate industrială mare.", "Este cunoscut sub numele de Trinidad Cement Limited.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Cement production for construction industry.", "Major regional exporter.", "Large industrial facility.", "Known by the name Trinidad Cement Limited.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Trinidad Cement Limited.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Trinidad Cement Limited.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -554,10 +554,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Arima Industrial Estate is a notable site on the Caribbean island of Trinidad. An industrial estate hosting various small and medium manufacturing enterprises. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Diverse manufacturing enterprises. Another point of interest: Supports local economy. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Vielfältige Produktionsbetriebe.", "Unterstützt lokale Wirtschaft.", "Infrastruktur für kleine Betriebe.", "Bekannt unter dem Namen Aroca Industriegebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Aroca Industriegebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["Eredetileg egy alumíniumkohó-projekt helyszíne volt.", "La Brea ipari övezetében található stratégiai pont.", "Ma logisztikai és nehézgép-tároló központként üzemel.", "Közvetlen tengerparti hozzáféréssel rendelkezik.", "A terület infrastruktúrája alkalmas nagyüzemi gyártásra.", "Fontos szerepet játszik a délnyugati régió gazdasági életében.", "A környezetvédelmi viták hatására a projekt arculata megváltozott.", "Modern közműhálózattal és biztonsági rendszerekkel van ellátva."],
-      ro: ["Întreprinderi de producție diverse.", "Sprijină economia locală.", "Infrastructură pentru întreprinderi mici.", "Este cunoscut sub numele de Parcul Industrial Arima.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Diverse manufacturing enterprises.", "Supports local economy.", "Infrastructure for small businesses.", "Known by the name Arima Industrial Estate.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Parcul Industrial Arima.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Arima Industrial Estate.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -585,10 +585,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Chaguaramas Industrial Estate is a notable site on the Caribbean island of Trinidad. An area dedicated to maritime and light industrial activities. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Focus on ship repairs. Another point of interest: Light industrial production. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Fokus auf Schiffsreparaturen.", "Leichte industrielle Produktion.", "Küstennahe Lage.", "Bekannt unter dem Namen Chaguaramas Industriegebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Chaguaramas Industriegebiet.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["A sziget északnyugati félszigetén található tengeri ipari zóna.", "A II. világháborús amerikai bázis helyén alakult ki.", "A Karib-térség egyik legfontosabb hajójavító és karbantartó központja.", "Számos marina és dokk szolgálja ki a tengeri flottákat.", "Fontos bázisa a mélytengeri olaj- és gázipari támogatásnak.", "Gazdag történelmi emlékekkel és régi katonai épületekkel rendelkezik.", "A terület ötvözi az ipart a természetvédelemmel (Nemzeti Park).", "Kiemelkedő szaktudású munkaerő dolgozik a hajóépítésben."],
-      ro: ["Focus pe reparații navale.", "Producție industrială ușoară.", "Locație de coastă.", "Este cunoscut sub numele de Parcul Industrial Chaguaramas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Focus on ship repairs.", "Light industrial production.", "Coastal location.", "Known by the name Chaguaramas Industrial Estate.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Parcul Industrial Chaguaramas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Chaguaramas Industrial Estate.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -616,10 +616,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Piarco Logistics Center is a notable site on the Caribbean island of Trinidad. A major hub for cargo logistics near the airport. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Air cargo handling. Another point of interest: Central logistics hub. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Luftfrachtabwicklung.", "Zentrale Logistikdrehscheibe.", "Unterstützt internationalen Handel.", "Bekannt unter dem Namen Piarco Logistikzentrum.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Piarco Logistikzentrum.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["A Piarco Nemzetközi Repülőtér közvetlen közelében fekszik.", "Modern logisztikai és elosztó központ nemzetközi cégek számára.", "Kifejezetten légi szállítmányozásra és raktározásra specializálódott.", "Kiváló közúti kapcsolatokkal rendelkezik a sziget minden részébe.", "A park infrastruktúrája megfelel a legmagasabb nemzetközi szabványoknak.", "Segíti az ország kereskedelmi diverzifikációját.", "Szigorú vám- és biztonsági felügyelet alatt áll.", "Dinamikusan bővülő terület új irodákkal és raktárakkal."],
-      ro: ["Manipularea mărfurilor aeriene.", "Hub logistic central.", "Sprijină comerțul internațional.", "Este cunoscut sub numele de Centrul logistic Piarco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Air cargo handling.", "Central logistics hub.", "Supports international trade.", "Known by the name Piarco Logistics Center.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Centrul logistic Piarco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Piarco Logistics Center.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -647,10 +647,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Point Fortin Oil Complex is a notable site on the Caribbean island of Trinidad. Industrial facilities for oil extraction and processing. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Center of petrochemical production. Another point of interest: Important extraction facility. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Zentrum der petrochemischen Produktion.", "Wichtige Förderanlage.", "Unterstützt regionale Exportwirtschaft.", "Bekannt unter dem Namen Point Fortin Ölkomplex.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Point Fortin Ölkomplex.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["Point Fortin a trinidadi LNG-gyártás központja.", "Itt található az Atlantic LNG, a nyugati félteke egyik legnagyobb gázüzeme.", "Az ipar már az 1900-as évek elején elindult a kőolaj-kitermeléssel.", "A város gazdaságának több mint 90%-a az energiaiparhoz kötődik.", "Modern oktatási központok segítik a helyi szakemberképzést.", "A gyárterület szigorúan védett és ellenőrzött ipari zóna.", "Point Fortin híres az iparhoz kapcsolódó kulturális támogatásairól.", "Az üzem technológiája a világ élvonalába tartozik."],
-      ro: ["Centrul producției petrochimice.", "Facilitate importantă de extracție.", "Sprijină economia regională de export.", "Este cunoscut sub numele de Complexul petrolier Point Fortin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Center of petrochemical production.", "Important extraction facility.", "Supports regional export economy.", "Known by the name Point Fortin Oil Complex.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Complexul petrolier Point Fortin.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Point Fortin Oil Complex.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -678,10 +678,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Siparia Energy Plant is a notable site on the Caribbean island of Trinidad. Industrial facility for power generation and distribution. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Local power supply. Another point of interest: Important infrastructure. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Lokale Energieversorgung.", "Wichtige Infrastruktur.", "Unterstützt den Süden.", "Bekannt unter dem Namen Siparia Energieanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Siparia Energieanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["Trinidad egyik legfontosabb szárazföldi (onshore) olajmezője.", "A kitermelés már több mint 100 éve folyik a régióban.", "Sűrű kőolaj- és földgázvezeték-hálózat jellemzi a környéket.", "Számos kisebb szervizcég és mérnöki iroda székhelye.", "A helyi gazdaság motorja az állami és magán olajvállalatok tevékenysége.", "A fúrási technológiák folyamatosan modernizálódnak.", "Az ipari terület jól integrálódik a mezőgazdasági tájba.", "Fontos szerepet játszik a hazai energiaellátás biztonságában."],
-      ro: ["Alimentare locală cu energie.", "Infrastructură importantă.", "Sprijină regiunea sudică.", "Este cunoscut sub numele de Uzina energetică Siparia.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Local power supply.", "Important infrastructure.", "Supports the southern region.", "Known by the name Siparia Energy Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Uzina energetică Siparia.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Siparia Energy Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -709,10 +709,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "La Brea Asphalt Processing is a notable site on the Caribbean island of Trinidad. Facility for refining natural asphalt from the Pitch Lake. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Asphalt refinery. Another point of interest: Global export. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Asphaltraffinerie.", "Weltweiter Export.", "Industrielle Innovation.", "Bekannt unter dem Namen La Brea Asphaltverarbeitung.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen La Brea Asphaltverarbeitung.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["A világ legnagyobb természetes aszfaltbányája a Pitch Lake.", "A tó becsült mélysége több mint 75 méter a közepén.", "Az aszfaltot világszerte használják olyan helyeken, mint a Buckingham-palota előtti út.", "A bánya öntisztuló: a kitermelt lyukak pár nap alatt visszatöltődnek.", "Fontos turisztikai látványosság és gazdasági erőforrás egyszerre.", "A finomított aszfaltot speciális hőálló csomagolásban exportálják.", "A terület geológiai ritkaság, amely tudósokat vonz a világ minden részéről.", "A bányászat nagy részét ma is speciális gépekkel végzik a tó felszínén."],
-      ro: ["Rafinărie de asfalt.", "Export global.", "Inovație industrială.", "Este cunoscut sub numele de Procesarea asfaltului La Brea.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Asphalt refinery.", "Global export.", "Industrial innovation.", "Known by the name La Brea Asphalt Processing.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Procesarea asfaltului La Brea.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name La Brea Asphalt Processing.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -740,10 +740,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Point Lisas Desalination Plant is a notable site on the Caribbean island of Trinidad. Large facility for desalination of seawater for industrial use. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Secures water supply for industry. Another point of interest: Modern technology. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Sichert Wasserversorgung für die Industrie.", "Moderne Technologie.", "Kritische Infrastruktur.", "Bekannt unter dem Namen Point Lisas Entsalzungsanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Point Lisas Entsalzungsanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["A Karib-térség legnagyobb édesvíz-előállító sótalanító üzeme.", "Fordított ozmózis (reverse osmosis) technológiát alkalmaz.", "Napi több millió gallon vizet szolgáltat az iparnak és a lakosságnak.", "Point Lisas ipari parkjának szívében található.", "Csökkenti a sziget függőségét a természetes vízgyűjtőktől.", "Kiemelt biztonsági és higiéniai előírások mellett működik.", "A létesítmény az ország infrastrukturális biztonságának záloga.", "Modern monitorozó rendszerekkel felügyelik a vízminőséget."],
-      ro: ["Asigură alimentarea cu apă pentru industrie.", "Tehnologie modernă.", "Infrastructură critică.", "Este cunoscut sub numele de Uzina de desalinizare Point Lisas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Secures water supply for industry.", "Modern technology.", "Critical infrastructure.", "Known by the name Point Lisas Desalination Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Uzina de desalinizare Point Lisas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Point Lisas Desalination Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -771,10 +771,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Guayaguayare Oil Terminals is a notable site on the Caribbean island of Trinidad. Terminals for storing and loading crude oil. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Oil storage capacity. Another point of interest: Export connection. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Öl-Speicherkapazität.", "Exportanbindung.", "Wichtiger Knotenpunkt für die Offshore-Produktion.", "Bekannt unter dem Namen Guayaguayare Öl-Terminals.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      de: ["Bekannt unter dem Namen Guayaguayare Öl-Terminals.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
       hu: ["Trinidad első kereskedelmi olajtermelő területe (1902 óta).", "A szárazföldi és tengeri olajbányászat találkozási pontja.", "Számos történelmi és modern olajkút (nodding donkeys) látható a tájban.", "Központi szerepet játszik a keleti parti gázvezetékek kezelésében.", "A lakosság generációk óta az olajiparban dolgozik.", "Fontos kutatási terület a geológusok számára az olajképződés megértéséhez.", "A terület infrastruktúrája szorosan kötődik az energetikai hálózathoz.", "Trinidad gazdasági függetlenségének egyik történelmi pillére."],
-      ro: ["Capacitate de stocare a petrolului.", "Legătură de export.", "Hub important pentru producția offshore.", "Este cunoscut sub numele de Terminalele petroliere Guayaguayare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Oil storage capacity.", "Export connection.", "Major hub for offshore production.", "Known by the name Guayaguayare Oil Terminals.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      ro: ["Este cunoscut sub numele de Terminalele petroliere Guayaguayare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Guayaguayare Oil Terminals.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   },
   {
@@ -802,10 +802,10 @@ export const poiExtraTrinidadEconomicV2: POI[] = [
       en: "Point Lisas Nitrogen Plant is a notable site on the Caribbean island of Trinidad. Facility for producing nitrogen for industrial applications. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Nitrogen production. Another point of interest: Supports fertilizer industry. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Stickstoffproduktion.", "Unterstützt Düngemittelindustrie.", "Technologische Kernanlage.", "Bekannt unter dem Namen Point Lisas Stickstoffanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
-      hu: ["Nitrogéntermelés.", "Támogatja a műtrágyaipart.", "Technológiai alapközpont.", "A helyszín neve: Point Lisas nitrogénüzem.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
-      ro: ["Producție de azot.", "Sprijină industria îngrășămintelor.", "Facilitate tehnologică de bază.", "Este cunoscut sub numele de Uzina de azot Point Lisas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
-      en: ["Nitrogen production.", "Supports fertilizer industry.", "Technological core facility.", "Known by the name Point Lisas Nitrogen Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
+      de: ["Bekannt unter dem Namen Point Lisas Stickstoffanlage.", "Liegt auf der Karibikinsel Trinidad.", "Teil des kulturellen und geographischen Erbes Trinidads.", "Eingebettet in die tropische Klimazone der südlichen Karibik."],
+      hu: ["A helyszín neve: Point Lisas nitrogénüzem.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része.", "A déli Karib-térség trópusi éghajlatú terletén fekszik."],
+      ro: ["Este cunoscut sub numele de Uzina de azot Point Lisas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului.", "Se află în zona climatică tropicală a Caraibelor de Sud."],
+      en: ["Known by the name Point Lisas Nitrogen Plant.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage.", "Set within the tropical climate zone of the southern Caribbean."]
     }
   }
 ];

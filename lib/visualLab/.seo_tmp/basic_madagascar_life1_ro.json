@@ -1,0 +1,64 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "Rezervația Kirindy este renumită pentru populația sa unică de lemuri nocturni și fose.",
+      "facts": ["Lemuri nocturni", "Habitat de foșe", "Pădure uscată"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "Parcul Tsingy de Bemaraha găzduiește specii endemice de lemuri care trăiesc printre formațiunile stâncoase unice.",
+      "facts": ["Formațiuni stâncoase unice", "Specii endemice", "Parc național"]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Un spațiu de agrement dedicat familiilor, situat în orașul Antsirabe, cu zone verzi și activități recreative.",
+      "facts": ["Spațiu recreativ", "Zona Antsirabe", "Potrivit pentru familii"]
+    },
+    {
+      "id": "andasibe-orchid-park-life-v2",
+      "description": "Acest parc este un sanctuar pentru speciile rare de orhidee endemice și biodiversitatea montană din est.",
+      "facts": ["Orhidee rare", "Sanctuar natural", "Bio-diversitate montană"]
+    },
+    {
+      "id": "vakona-lemuren-insel-life-v2",
+      "description": "Insula Lemurilor din Vakona oferă o oportunitate unică de a observa lemuri reabilitați într-un mediu semi-liber.",
+      "facts": ["Lemuri reabilitați", "Mediu semi-liber", "Destinație turistică"]
+    },
+    {
+      "id": "ampefy-geyser-park-life-v2",
+      "description": "Parcul din jurul gheizerelor Ampefy oferă o peisaj vulcanic cu vegetație tropicală specifică zonei.",
+      "facts": ["Gheizere naturale", "Peisaj vulcanic", "Vegetație tropicală"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "Parcul orașului Tamatave (Toamasina) este un spațiu verde vital care adăpostește plante locale și arbori tropicali.",
+      "facts": ["Spațiu verde urban", "Flora locală", "Zona Tamatave"]
+    },
+    {
+      "id": "maroantsetra-vanille-farm-life-v2",
+      "description": "O fermă de vanilie tradițională din zona Maroantsetra, exemplificând cultivarea celei mai prețioase resurse malgașe.",
+      "facts": ["Cultivarea vaniliei", "Tradiție agricolă", "Regiunea Maroantsetra"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "Zona de conservare din Ranomafana este dedicată cercetării și protejării lemurilor aurii de bambus.",
+      "facts": ["Lemur auriu de bambus", "Cercetare biologică", "Zonă protejată"]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "Terasele de orez din jurul orașului Antsirabe definesc peisajul rural și modul de viață al populației locale.",
+      "facts": ["Cultivarea orezului", "Peisaj agricol", "Tradiția Betsileo"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "Rezervația marină Nosy Tanikely este un paradis subacvatic cu recife de corali și broaște țestoase.",
+      "facts": ["Rezervație marină", "Recife de corali", "Broaște țestoase"]
+    }
+  ]
+}

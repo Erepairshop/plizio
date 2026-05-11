@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGeorgiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "batumi-oil-terminal-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Ölterminal von Batumi ist eine der ältesten und bedeutendsten Energieinfrastrukturen Georgiens am Schwarzen Meer. Geografisch liegt es am nördlichen Ende der Bucht von Batumi und ist direkt mit dem Hafenkomplex verbunden. Historisch ist das Terminal untrennbar mit dem globalen Ölboom des späten 19. Jahrhunderts verknüpft; hier investierten die Gebrüder Nobel und die Familie Rothschild in die erste Pipeline-Verbindung von Baku nach Batumi. Ökonomisch fungiert das Terminal heute als zentraler Umschlagplatz für kasachisches und aserbaidschanisches Erdöl, das per Schiene aus dem Kaspischen Raum angeliefert wird. Technisch verfügt die Anlage über spezialisierte Terminals für Rohöl sowie für raffinierte Produkte wie Diesel und Flugbenzin. Seit 2006 befindet sich das Terminal im Besitz des kasachischen Staatsunternehmens KazTransOil, was die strategische Allianz zwischen Zentralasien und dem georgischen Transitkorridor unterstreicht. Ökologisch stellt der Betrieb in einer Tourismusregion wie Adjara eine Herausforderung dar, weshalb kontinuierlich in moderne Überwachungssysteme und die Modernisierung der Tanklager investiert wird, um das Risiko von Boden- und Wasserverschmutzungen zu minimieren.",
+        "hu": "A batumi olajterminál Grúzia egyik legrégebbi és legjelentősebb energetikai infrastruktúrája a Fekete-tengernél. Földrajzilag a Batumi-öböl északi végén található, és közvetlenül kapcsolódik a kikötői komplexumhoz. Történelmileg a terminál elválaszthatatlan a 19. század végi globális olajbummtól; a Nobel-fivérek és a Rothschild család itt fektettek be az első Baku és Batumi közötti csővezeték-összeköttetésbe. Gazdaságilag a terminál ma a Kazahsztánból és Azerbajdzsánból származó, a Kaszpi-térségből vasúton érkező kőolaj központi átrakodóhelyeként funkcionál. Technikai szempontból a létesítmény speciális terminálokkal rendelkezik a nyersolaj, valamint a finomított termékek, például a gázolaj és a kerozin számára. 2006 óta a terminál a kazah állami vállalat, a KazTransOil tulajdonában van, ami hangsúlyozza Közép-Ázsia és a grúz tranzitfolyosó közötti stratégiai szövetséget. Ökológiai szempontból az üzemeltetés egy olyan turisztikai régióban, mint Adzsara, komoly kihívást jelent, ezért folyamatosan beruháznak a modern megfigyelőrendszerekbe és a tartályparkok korszerűsítésébe a talaj- és vízszennyezés kockázatának minimalizálása érdekében.",
+        "ro": "Terminalul petrolier din Batumi este una dintre cele mai vechi și mai importante infrastructuri energetice ale Georgiei la Marea Neagră. Geografic, acesta este situat la extremitatea nordică a golfului Batumi, fiind conectat direct la complexul portuar. Din punct de vedere istoric, terminalul este inseparabil de boom-ul petrolier global de la sfârșitul secolului al XIX-lea; aici, frații Nobel și familia Rothschild au investit în prima conexiune prin conductă de la Baku la Batumi. Economic, terminalul funcționează astăzi ca un punct central de transbordare pentru petrolul kazah și azer, care este livrat pe calea ferată din regiunea caspică. Din punct de vedere tehnic, instalația dispune de terminale specializate pentru țiței, precum și pentru produse rafinate, cum ar fi motorina și combustibilul pentru aviație. Din 2006, terminalul se află în proprietatea companiei de stat kazahe KazTransOil, ceea ce subliniază alianța strategică dintre Asia Centrală și coridorul de tranzit georgian. Din punct de vedere ecologic, funcționarea într-o regiune turistică precum Adjara reprezintă o provocare, motiv pentru care se investește continuu în sisteme moderne de monitorizare și în modernizarea parcurilor de rezervoare pentru a minimiza riscul de poluare a solului și a apei.",
+        "en": "The Batumi Oil Terminal is one of Georgia's oldest and most significant energy infrastructures on the Black Sea. Geographically, it is located at the northern end of Batumi Bay and is directly integrated with the port complex. Historically, the terminal is inextricably linked to the global oil boom of the late 19th century; it was here that the Nobel brothers and the Rothschild family invested in the first pipeline connection from Baku to Batumi. Economically, the terminal serves today as a central transshipment hub for Kazakh and Azerbaijani crude oil delivered by rail from the Caspian region. Technically, the facility features specialized terminals for crude oil as well as refined products such as diesel and jet fuel. Since 2006, the terminal has been owned by the Kazakh state-owned company KazTransOil, highlighting the strategic alliance between Central Asia and the Georgian transit corridor. Ecologically, operations in a prominent tourism region like Adjara present a challenge, leading to continuous investment in modern monitoring systems and the modernization of tank farms to minimize the risk of soil and water contamination."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der ältesten Öl-Exportpunkte der Welt (seit 1883).",
+          "Eigentum der kasachischen KazTransOil seit 2006.",
+          "Historisch mit den Investitionen von Alfred Nobel verbunden.",
+          "Verfügt über ein eigenes Reservoir-Park-System für verschiedene Öltypen.",
+          "Schlüsselglied im Transportkorridor zwischen dem Kaspischen und Schwarzen Meer.",
+          "Kann jährlich bis zu 15 Millionen Tonnen Ölprodukte umschlagen."
+        ],
+        "hu": [
+          "A világ egyik legrégebbi olajexport-pontja (1883 óta).",
+          "2006 óta a kazah KazTransOil vállalat tulajdona.",
+          "Történelmileg szorosan kapcsolódik Alfred Nobel befektetéseihez.",
+          "Saját tartálypark-rendszerrel rendelkezik a különböző olajtípusok számára.",
+          "A Kaszpi-tenger és a Fekete-tenger közötti szállítási folyosó kulcseleme.",
+          "Éves szinten akár 15 millió tonna olajtermék kezelésére is képes."
+        ],
+        "ro": [
+          "Unul dintre cele mai vechi puncte de export de petrol din lume (din 1883).",
+          "Proprietatea companiei kazahe KazTransOil începând cu anul 2006.",
+          "Istoric legat de investițiile și inovațiile fraților Nobel în Caucaz.",
+          "Dispune de un parc de rezervoare dedicat pentru diverse grade de țiței.",
+          "Segment vital în coridorul de transport energetic Caspica-Marea Neagră.",
+          "Capacitate anuală de procesare de până la 15 milioane de tone."
+        ],
+        "en": [
+          "One of the world's oldest oil export terminals, operating since 1883.",
+          "Owned by the Kazakh state company KazTransOil since 2006.",
+          "Historically significant for the investments made by the Nobel brothers.",
+          "Features a dedicated reservoir park system for various petroleum grades.",
+          "A key node in the energy transit corridor linking the Caspian to the West.",
+          "Capable of handling an annual throughput of up to 15 million tons."
+        ]
+      }
+    },
+    {
+      "id": "kaspi-cement-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Zementwerk Kaspi in der Region Innere Kartlien ist der größte und technologisch fortschrittlichste Produzent von Baustoffen in Georgien. Geografisch liegt das Werk strategisch günstig an der Hauptverkehrsader des Landes, die den Osten mit dem Westen verbindet, und nutzt die reichen Kalksteinvorkommen der umliegenden Hügelketten. Historisch wurde die Anlage in der Sowjetära gegründet und war maßgeblich am Aufbau der georgischen Infrastruktur beteiligt. Nach einer umfassenden Modernisierung durch den globalen Konzern HeidelbergCement (jetzt Heidelberg Materials) wurde das Werk zu einer der modernsten Anlagen im Kaukasus ausgebaut. Ökonomisch ist Kaspi von zentraler Bedeutung für die georgische Bauindustrie, da es den Großteil des Bedarfs für nationale Großprojekte wie Staudämme, Brücken und Autobahnen deckt. Technisch zeichnet sich das Werk durch ein modernes Trockenverfahren zur Zementherstellung aus, das den Energieverbrauch und die Emissionen im Vergleich zum alten Nassverfahren signifikant reduziert. Ökologisch setzt das Unternehmen auf Nachhaltigkeit, indem es Filtertechnologien der neuesten Generation verwendet und Renaturierungsprojekte in den Kalksteinbrüchen durchführt. Das Werk sichert hunderte hochqualifizierte Arbeitsplätze und ist der wichtigste Wirtschaftsmotor des Bezirks Kaspi.",
+        "hu": "A Kaszpi cementgyár Belső-Kartli régióban Grúzia legnagyobb és technológiailag legfejlettebb építőanyag-gyártója. Földrajzilag az üzem stratégiailag előnyös helyen, az ország keleti és nyugati részét összekötő fő közlekedési útvonal mentén fekszik, és a környező dombok gazdag mészkőkészleteit hasznosítja. Történelmileg a létesítményt a szovjet korszakban alapították, és meghatározó szerepet játszott a grúz infrastruktúra kiépítésében. A HeidelbergCement (ma Heidelberg Materials) globális konszern által végrehajtott átfogó modernizáció után az üzemet a Kaukázus egyik legkorszerűbb gyárává fejlesztették. Gazdaságilag a Kaszpi cementgyár központi jelentőségű a grúz építőipar számára, mivel fedezi az olyan nemzeti nagyprojektek szükségleteinek nagy részét, mint a gátak, hidak és autópályák. Technikai szempontból az üzem a modern száraz eljárású cementgyártással tűnik ki, amely jelentősen csökkenti az energiafelhasználást és a kibocsátást a régi nedves eljáráshoz képest. Ökológiailag a vállalat a fenntarthatóságra összpontosít, legújabb generációs szűrőtechnológiákat alkalmazva és rekultivációs projekteket hajtva végre a mészkőbányákban. A gyár több száz képzett munkahelyet biztosít, és a Kaszpi járás legfontosabb gazdasági motorja.",
+        "ro": "Fabrica de ciment din Kaspi, situată în regiunea Shida Kartli, este cel mai mare și mai avansat tehnologic producător de materiale de construcții din Georgia. Geografic, fabrica este amplasată strategic pe principala arteră de transport a țării, care leagă estul de vest, și utilizează zăcămintele bogate de calcar din dealurile învecinate. Din punct de vedere istoric, unitatea a fost fondată în perioada sovietică și a avut un rol esențial în construirea infrastructurii georgiene. După o modernizare cuprinzătoare realizată de grupul global HeidelbergCement (acum Heidelberg Materials), fabrica a fost transformată într-una dintre cele mai moderne facilități din Caucaz. Economic, Kaspi este de o importanță centrală pentru industria construcțiilor din Georgia, acoperind cea mai mare parte a cererii pentru proiecte naționale majore, cum ar fi baraje, poduri și autostrăzi. Tehnic, fabrica se remarcă prin procesul modern de producție prin metodă uscată, care reduce semnificativ consumul de energie și emisiile în comparație cu vechea metodă umedă. Din punct de vedere ecologic, compania mizează pe sustenabilitate, utilizând tehnologii de filtrare de ultimă generație și implementând proiecte de renaturare în carierele de calcar. Fabrica asigură sute de locuri de muncă înalt calificate și este principalul motor economic al districtului Kaspi.",
+        "en": "The Kaspi Cement Plant in the Shida Kartli region is Georgia's largest and most technologically advanced producer of construction materials. Geographically, the plant is strategically positioned along the country's main transport artery connecting East and West, utilizing the rich limestone deposits from the surrounding hills. Historically, the facility was established during the Soviet era and played a crucial role in building Georgia's infrastructure. Following an extensive modernization by the global group HeidelbergCement (now Heidelberg Materials), the plant was upgraded into one of the most modern facilities in the Caucasus. Economically, Kaspi is of central importance to the Georgian construction industry, meeting the bulk of the demand for major national projects such as dams, bridges, and highways. Technically, the plant is distinguished by its modern dry-process cement production, which significantly reduces energy consumption and emissions compared to the old wet-process. Ecologically, the company focuses on sustainability by employing latest-generation filtration technologies and conducting renaturation projects in its limestone quarries. The plant secures hundreds of high-skilled jobs and serves as the primary economic engine for the Kaspi district."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größte Zementfabrik Georgiens und Teil von Heidelberg Materials.",
+          "Nutzt modernste Trockenverfahren-Technologie für hohe Energieeffizienz.",
+          "Wichtigster Lieferant für den Bau der Autobahn Ost-West (S1).",
+          "Bezieht Rohstoffe aus eigenen Steinbrüchen in der Shida-Kartli-Region.",
+          "Modernisierung im Jahr 2019 erhöhte die Kapazität auf 3.000 Tonnen Klinker pro Tag.",
+          "Besitzt eines der strengsten Emissions-Überwachungssysteme im Kaukasus."
+        ],
+        "hu": [
+          "Grúzia legnagyobb cementgyára, a Heidelberg Materials csoport tagja.",
+          "Modern száraz eljárású technológiát alkalmaz a magas energiahatékonyságért.",
+          "A Kelet-Nyugat autópálya (S1) építésének legfőbb beszállítója.",
+          "A nyersanyagot saját, Belső-Kartli régióban lévő bányáiból nyeri.",
+          "A 2019-es modernizáció napi 3000 tonna klinker kapacitást eredményezett.",
+          "A Kaukázus egyik legszigorúbb emisszió-ellenőrző rendszerével rendelkezik."
+        ],
+        "ro": [
+          "Cea mai mare fabrică de ciment din Georgia, parte a grupului Heidelberg Materials.",
+          "Utilizează tehnologia de producție prin metodă uscată pentru eficiență energetică.",
+          "Furnizor principal pentru construcția autostrăzii Est-Vest (S1).",
+          "Extracție proprie de materii prime din carierele regiunii Shida Kartli.",
+          "Modernizarea din 2019 a crescut capacitatea la 3.000 de tone de clincher pe zi.",
+          "Dispune de sisteme de filtrare de ultimă oră pentru protecția mediului."
+        ],
+        "en": [
+          "Georgia's largest cement production facility, part of Heidelberg Materials.",
+          "Employs advanced dry-process technology for superior energy efficiency.",
+          "Primary supplier for the construction of the East-West Highway (S1).",
+          "Sources raw materials from dedicated quarries in the Shida Kartli region.",
+          "Modernization in 2019 boosted capacity to 3,000 tons of clinker per day.",
+          "Operates under one of the most stringent emission monitoring systems in the Caucasus."
+        ]
+      }
+    },
+    {
+      "id": "samgori-oil-field-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Ölfeld Samgori, östlich der Hauptstadt Tiflis gelegen, ist das historisch ertragreichste Onshore-Erdölvorkommen Georgiens. Geografisch erstreckt sich das Feld über die Regionen Niederkartlien und Kachetien und ist Teil der sogenannten Samgori-Patardzeuli-Ninotsminda-Struktur. Historisch wurde das Vorkommen in den 1970er Jahren entdeckt und löste einen kurzen, aber intensiven Ölboom in der Georgischen SSR aus, der die nationale Industrieproduktion massiv steigerte. Ökonomisch war Samgori für die sowjetische Energieplanung von strategischer Bedeutung und liefert auch heute noch einen kleinen, aber stabilen Beitrag zur heimischen Rohölproduktion. Technisch gesehen handelt es sich um ein komplexes Reservoir in vulkanogenen Schichten, was die Extraktion heute anspruchsvoll macht und den Einsatz moderner Enhanced Oil Recovery (EOR)-Methoden erfordert. Aktuell wird das Feld von internationalen Unternehmen in Kooperation mit der Georgian Oil and Gas Corporation (GOGC) betrieben. Ökologisch steht das Gebiet vor der Herausforderung, alte Bohrlöcher aus der Sowjetzeit sicher zu verwahren und die umliegenden Agrarflächen vor Kontamination zu schützen. Samgori bleibt ein Symbol für Georgiens Bestreben, seine energetische Unabhängigkeit durch die Erschließung heimischer Ressourcen zu stärken.",
+        "hu": "A Tbiliszitől keletre fekvő Szamgori olajmező Grúzia történelmileg legtermékenyebb szárazföldi kőolajlelőhelye. Földrajzilag a mező Alsó-Kartli és Kaheti régiókra terjed ki, és a Szamgori-Patardzeuli-Ninotszminda struktúra részét képezi. Történelmileg a lelőhelyet az 1970-es években fedezték fel, ami egy rövid, de intenzív olajbummot indított el a Grúz SZSZK-ban, jelentősen növelve a nemzeti ipari termelést. Gazdaságilag Szamgori stratégiai jelentőséggel bírt a szovjet energiatervezésben, és ma is kicsi, de stabil hozzájárulást jelent a hazai nyersolajtermeléshez. Technikai szempontból vulkanogén rétegekben elhelyezkedő komplex rezervoárról van szó, ami a kitermelést ma már igényessé teszi, és modern harmadlagos kőolaj-kitermelési (EOR) módszereket igényel. Jelenleg a mezőt nemzetközi vállalatok üzemeltetik a Grúz Olaj- és Gázvállalattal (GOGC) együttműködésben. Ökológiailag a terület előtt álló kihívás a régi szovjet fúrólyukak biztonságos lezárása és a környező mezőgazdasági területek védelme a szennyeződéstől. Szamgori továbbra is Grúzia azon törekvésének szimbóluma, hogy hazai erőforrások feltárásával erősítse energetikai függetlenségét.",
+        "ro": "Câmpul petrolifer Samgori, situat la est de capitala Tbilisi, este cel mai productiv zăcământ de petrol onshore din istoria Georgiei. Geografic, câmpul se întinde peste regiunile Kvemo Kartli și Kakheti, făcând parte din structura Samgori-Patardzeuli-Ninotsminda. Din punct de vedere istoric, zăcământul a fost descoperit în anii 1970 și a declanșat un boom petrolier scurt, dar intens în RSS Georgiană, sporind masiv producția industrială națională. Economic, Samgori a fost de importanță strategică pentru planificarea energetică sovietică și oferă și astăzi o contribuție mică, dar stabilă la producția internă de țiței. Din punct de vedere tehnic, este un rezervor complex situat în straturi vulcanogene, ceea ce face extracția dificilă în prezent și necesită utilizarea metodelor moderne de recuperare asistată a petrolului (EOR). În prezent, câmpul este operat de companii internaționale în cooperare cu Georgian Oil and Gas Corporation (GOGC). Ecologic, zona se confruntă cu provocarea de a securiza vechile sonde din perioada sovietică și de a proteja terenurile agricole din jur împotriva contaminării. Samgori rămâne un simbol al eforturilor Georgiei de a-și consolida independența energetică prin exploatarea resurselor autohtone.",
+        "en": "The Samgori oil field, located east of the capital Tbilisi, is historically Georgia's most productive onshore oil deposit. Geographically, the field spans the Kvemo Kartli and Kakheti regions and is part of the Samgori-Patardzeuli-Ninotsminda geological structure. Historically, the deposit was discovered in the 1970s and triggered a brief but intense oil boom in the Georgian SSR, significantly boosting national industrial output. Economically, Samgori was of strategic importance for Soviet energy planning and continues to provide a small but steady contribution to domestic crude oil production. Technically, the reservoir is contained within complex volcanogenic strata, which makes modern extraction demanding and requires the use of Enhanced Oil Recovery (EOR) techniques. Currently, the field is operated by international companies in cooperation with the Georgian Oil and Gas Corporation (GOGC). Ecologically, the area faces the challenge of decommissioning aging Soviet-era wells and protecting surrounding agricultural land from contamination. Samgori remains a symbol of Georgia's ambition to strengthen its energy independence through the development of domestic resources."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Historisch bedeutendstes Onshore-Ölfeld Georgiens (Entdeckung 1974).",
+          "Teil eines geologischen Komplexes, der bis nach Kachetien reicht.",
+          "Lieferte auf seinem Höhepunkt Millionen Tonnen Rohöl pro Jahr.",
+          "Geologisch einzigartig durch Ölführung in vulkanischem Gestein.",
+          "Heute betrieben von Partnern wie CanArgo und der staatlichen GOGC.",
+          "Zentrum für die Erprobung neuer horizontaler Bohrtechnologien im Land."
+        ],
+        "hu": [
+          "Grúzia történelmileg legjelentősebb szárazföldi olajmezője (1974-es felfedezés).",
+          "Egy Kahetiig nyúló geológiai komplexum része.",
+          "Fénykorában évente több millió tonna nyersolajat termelt.",
+          "Geológiailag egyedülálló, mivel vulkáni kőzetben tárolódik az olaj.",
+          "Ma olyan partnerek üzemeltetik, mint a CanArgo és az állami GOGC.",
+          "Az országos vízszintes fúrási technológiák tesztelésének központja."
+        ],
+        "ro": [
+          "Cel mai mare câmp petrolifer terestru din istoria Georgiei (descoperit în 1974).",
+          "Integrat într-un complex geologic ce se extinde până în regiunea Kakheti.",
+          "A atins o producție record de milioane de tone de țiței în perioada sa de vârf.",
+          "Structură geologică rară, cu acumulări de petrol în roci vulcanice.",
+          "Administrat în prezent prin parteneriate între GOGC și operatori străini.",
+          "Punct focal pentru implementarea tehnicilor de foraj orizontal în Georgia."
+        ],
+        "en": [
+          "Historically the most significant onshore oil field in Georgia (discovered in 1974).",
+          "Part of a larger geological trend extending into the Kakheti region.",
+          "Produced millions of tons of crude oil annually at its production peak.",
+          "Geologically unique due to oil accumulation within volcanogenic reservoirs.",
+          "Currently managed by international partners and the state-owned GOGC.",
+          "A primary site for the application of horizontal drilling technologies in Georgia."
+        ]
+      }
+    },
+    {
+      "id": "ge-narikala-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Festung Narikala überragt die Altstadt von Tiflis und gilt als das markanteste historische Wahrzeichen der georgischen Hauptstadt. Geografisch liegt sie auf dem Sololaki-Kamm und bietet eine strategische Kontrolle über den Kura-Fluss und die alten Handelswege. Historisch geht die Gründung der Festung auf das 4. Jahrhundert zurück, als sie unter dem Namen Schuris-tsiche von den Persern errichtet wurde. Im Laufe der Jahrhunderte wurde sie von Arabern, Mongolen und Türken ausgebaut und umkämpft, was sie zu einem steinernen Zeugnis der wechselvollen Geschichte Georgiens macht. Die heutige Struktur stammt größtenteils aus dem 16. und 17. Jahrhundert, bevor eine Explosion im Jahr 1827 große Teile der Mauern zerstörte. Ökonomisch ist Narikala heute das wichtigste touristische Ziel in Tiflis und über eine moderne Seilbahn mit dem Rike-Park verbunden. Technisch beeindruckt die Anlage durch ihre Anpassung an das steile Relief und die massiven mittelalterlichen Verteidigungsmauern. In der Festung befindet sich auch die wiederaufgebaute St.-Nikolaus-Kirche, die ein Zentrum des religiösen Lebens bildet. Narikala ist nicht nur ein militärisches Monument, sondern das Herzstück der georgischen nationalen Identität, das den Überlebenswillen der Nation über zwei Jahrtausende symbolisiert.",
+        "hu": "A Narikala-erőd Tbiliszi óvárosa fölé magasodik, és a grúz főváros legjelentősebb történelmi jelképeként ismert. Földrajzilag a Szololaki-gerincen helyezkedik el, stratégiai ellenőrzést biztosítva a Kura-folyó és az ősi kereskedelmi útvonalak felett. Történelmileg az erőd alapítása a 4. századra nyúlik vissza, amikor a perzsák építették Ssurisz-cihe néven. Az évszázadok során arabok, mongolok és törökök bővítették és harcoltak érte, így a vár Grúzia mozgalmas történelmének kőbe vésett tanúja lett. A mai szerkezet nagy része a 16. és 17. századból származik, mielőtt egy 1827-es robbanás a falak jelentős részét elpusztította volna. Gazdaságilag a Narikala ma Tbiliszi legfontosabb turisztikai célpontja, amelyet modern felvonó köt össze a Rike-parkkal. Technikai szempontból a létesítmény lenyűgöző a meredek domborzathoz való alkalmazkodása és masszív középkori védőfalai révén. Az erődben található az újjáépített Szent Miklós-templom is, amely a hitélet egyik központja. A Narikala nem csupán katonai emlékmű, hanem a grúz nemzeti identitás sarokköve, amely a nemzet két évezreden át tartó túlélési akaratát szimbolizálja.",
+        "ro": "Cetatea Narikala domină orașul vechi din Tbilisi și este considerată cel mai proeminent monument istoric al capitalei georgiene. Geografic, este situată pe creasta Sololaki, oferind control strategic asupra râului Kura și a vechilor rute comerciale. Din punct de vedere istoric, fondarea cetății datează din secolul al IV-lea, fiind construită de perși sub numele de Shuris-tsikhe. De-a lungul secolelor, a fost extinsă și disputată de arabi, mongoli și turci, devenind o mărturie de piatră a istoriei zbuciumate a Georgiei. Structura actuală datează în cea mai mare parte din secolele XVI și XVII, înainte ca o explozie din 1827 să distrugă mari părți din ziduri. Economic, Narikala este astăzi cea mai importantă destinație turistică din Tbilisi, fiind conectată de Parcul Rike printr-o telecabină modernă. Din punct de vedere tehnic, complexul impresionează prin adaptarea la relieful abrupt și prin zidurile masive de apărare medievale. În interiorul cetății se află și biserica Sfântul Nicolae, reconstruită recent, care este un centru al vieții religioase. Narikala nu este doar un monument militar, ci inima identității naționale georgiene, simbolizând voința de supraviețuire a națiunii de peste două milenii.",
+        "en": "Narikala Fortress towers over the Old Town of Tbilisi and is regarded as the most prominent historical landmark of the Georgian capital. Geographically, it is perched on the Sololaki Ridge, offering strategic oversight of the Kura (Mtkvari) River and ancient trade routes. Historically, the fortress dates back to the 4th century, established by Persians as Shuris-tsikhe. Over the centuries, it was expanded and contested by Arabs, Mongols, and Ottomans, making it a stone witness to Georgia's turbulent history. Most of the current structure dates from the 16th and 17th centuries, before an explosion in 1827 destroyed significant portions of the walls. Economically, Narikala is today Tbilisi's premier tourist destination, linked to Rike Park by a modern aerial tramway. Technically, the site is impressive for its integration into the steep terrain and its massive medieval defensive walls. The fortress also houses the reconstructed St. Nicholas Church, a center for religious life. Narikala is not just a military monument but the centerpiece of Georgian national identity, symbolizing the nation's resilience over two millennia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im 4. Jahrhundert als persische Zitadelle Shuris-tsikhe.",
+          "Wurde im 7. und 8. Jahrhundert von den Arabern massiv ausgebaut.",
+          "Die heutige Form entspricht weitgehend dem Wiederaufbau im 17. Jahrhundert.",
+          "Zerstörung weiter Teile der Anlage durch ein Erdbeben im Jahr 1827.",
+          "Beherbergt die im 20. Jahrhundert rekonstruierte St.-Nikolaus-Kirche.",
+          "Erreichbar über die modernste Seilbahn Georgiens mit 360-Grad-Blick."
+        ],
+        "hu": [
+          "A 4. században alapították Shuris-tsikhe néven perzsa erődítményként.",
+          "A 7. és 8. században az arabok jelentősen kibővítették.",
+          "Mai formája nagyrészt a 17. századi újjáépítést tükrözi.",
+          "1827-ben egy robbanás és földrengés súlyos károkat okozott benne.",
+          "Itt található a 20. század végén újjáépített Szent Miklós-templom.",
+          "Tbiliszi leglátogatottabb műemléke, ahová modern felvonó vezet."
+        ],
+        "ro": [
+          "Fondată în secolul IV ca citadelă persană sub numele Shuris-tsikhe.",
+          "Extinsă masiv de către emiri arabi în secolele VII și VIII.",
+          "Structura actuală păstrează elemente din reconstrucția secolului XVII.",
+          "Distrusă parțial de o explozie a depozitului de praf de pușcă în 1827.",
+          "Găzduiește biserica Sf. Nicolae, reconstruită pe fundații medievale.",
+          "Accesibilă prin telecabina din Parcul Rike, oferind cea mai bună panoramă."
+        ],
+        "en": [
+          "Established in the 4th century as a Persian citadel named Shuris-tsikhe.",
+          "Significantly expanded by Arab rulers during the 7th and 8th centuries.",
+          "The current layout mostly reflects the 17th-century reconstruction.",
+          "Suffered major damage from a gunpowder explosion and earthquake in 1827.",
+          "Features the St. Nicholas Church, rebuilt in the late 20th century.",
+          "Linked to the city center via a modern cable car system since 2012."
+        ]
+      }
+    },
+    {
+      "id": "ge-svetitskhoveli-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Swetizchoweli-Kathedrale in Mzcheta ist das spirituelle Herz Georgiens und eines der bedeutendsten Bauwerke der kaukasischen Christenheit. Geografisch liegt sie an der Mündung des Aragvi in den Kura-Fluss in der antiken Hauptstadt Mzcheta. Historisch wurde der heutige Bau im 11. Jahrhundert (1010–1029) durch den Architekten Arsukidse errichtet, an einem Ort, der bereits seit dem 4. Jahrhundert als Sitz des georgischen Patriarchats diente. Die Kathedrale ist berühmt als Aufbewahrungsort des Leibrocks Christi, was sie zu einem der heiligsten Orte der orthodoxen Welt macht. Ökonomisch ist das Ensemble Teil des UNESCO-Weltkulturerbes und zieht jährlich hunderttausende Pilger und Touristen an, was die Region Mzcheta-Mtianeti wirtschaftlich stützt. Technisch beeindruckt die Kathedrale durch ihre monumentale Kreuzkuppelform und die kunstvollen Steinmetzarbeiten an der Fassade. Über Jahrhunderte diente Swetizchoweli als Krönungs- und Begräbnisstätte der georgischen Bagratiden-Könige. Die Kathedrale überstand zahlreiche Invasionen und Erdbeben und bleibt bis heute das Symbol für die Beständigkeit des georgischen Glaubens und der staatlichen Kontinuität. Ihre Fresken und die Architektur spiegeln die kulturelle Blütezeit Georgiens im Mittelalter wider.",
+        "hu": "A mchetai Szvetichoveli-székesegyház Grúzia spirituális szíve és a kaukázusi kereszténység egyik legjelentősebb építménye. Földrajzilag az Aragvi és a Kura folyók torkolatánál, az ősi fővárosban, Mchetában található. Történelmileg a mai épületet a 11. században (1010–1029) emelte Arszukidze építész egy olyan helyen, amely már a 4. század óta a grúz patriarchátus székhelyeként szolgált. A katedrális híres arról, hogy itt őrzik Krisztus köntösét, ami az ortodox világ egyik legszentebb helyévé teszi. Gazdaságilag az együttes az UNESCO Világörökség része, és évente zarándokok és turisták százezreit vonzza, támogatva Mcheta-Mtianeti régió gazdaságát. Technikai szempontból a székesegyház monumentális keresztkupolás formájával és a homlokzatán látható művészi kőfaragásokkal nyűgöz le. Évszázadokon át a Szvetichoveli volt a grúz Bagratida királyok koronázási és temetkezési helye. A katedrális számos inváziót és földrengést élt túl, és mindmáig a grúz hit állhatatosságának és az állami folytonosságnak a szimbóluma. Freskói és építészete a középkori Grúzia kulturális virágkorát tükrözik.",
+        "ro": "Catedrala Svetitskhoveli din Mtskheta este inima spirituală a Georgiei și unul dintre cele mai importante monumente ale creștinismului caucazian. Geografic, este situată la confluența râurilor Aragvi și Kura, în fosta capitală antică Mtskheta. Din punct de vedere istoric, edificiul actual a fost ridicat în secolul al XI-lea (1010–1029) de către arhitectul Arsukidze, pe un sit care a servit drept sediu al Patriarhiei Georgiene încă din secolul al IV-lea. Catedrala este celebră ca fiind locul unde este păstrat Hitonul (cămașa) lui Hristos, ceea ce o face unul dintre cele mai sacre locuri din lumea ortodoxă. Economic, ansamblul face parte din Patrimoniul Mondial UNESCO și atrage anual sute de mii de pelerini și turiști, susținând economia regiunii Mtskheta-Mtianeti. Din punct de vedere tehnic, catedrala impresionează prin forma sa monumentală de cruce greacă înscrisă și prin sculpturile elaborate în piatră de pe fațade. Timp de secole, Svetitskhoveli a fost locul de încoronare și de înmormântare a regilor georgieni din dinastia Bagrationi. Catedrala a supraviețuit numeroaselor invazii și cutremure, rămânând până astăzi simbolul persistenței credinței georgiene și al continuității statale. Frescele sale și arhitectura reflectă apogeul cultural al Georgiei medievale.",
+        "en": "Svetitskhoveli Cathedral in Mtskheta is the spiritual heart of Georgia and one of the most significant structures of Caucasian Christianity. Geographically, it is located at the confluence of the Aragvi and Kura (Mtkvari) rivers in the ancient capital of Mtskheta. Historically, the current building was erected in the 11th century (1010–1029) by the architect Arsukidze, on a site that has served as the seat of the Georgian Patriarchate since the 4th century. The cathedral is renowned as the burial place of Christ’s mantle, making it one of the holiest sites in the Orthodox world. Economically, the complex is a UNESCO World Heritage site and attracts hundreds of thousands of pilgrims and tourists annually, supporting the economy of the Mtskheta-Mtianeti region. Technically, the cathedral impresses with its monumental cross-domed design and intricate stonework on its facades. For centuries, Svetitskhoveli served as the coronation and burial site for Georgian Bagrationi kings. The cathedral has survived numerous invasions and earthquakes and remains to this day a symbol of the endurance of Georgian faith and state continuity. Its frescoes and architecture reflect the cultural golden age of medieval Georgia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zweitgrößte Kirche Georgiens und UNESCO-Weltkulturerbe seit 1994.",
+          "Bauzeit unter Leitung des Architekten Arsukidse von 1010 bis 1029.",
+          "Heiligste Stätte Georgiens; bewahrt den Leibrock Jesu Christi auf.",
+          "Traditionelle Grabstätte von über zehn georgischen Monarchen.",
+          "Besitzt eine ikonische Freskenwand aus dem 17. Jahrhundert.",
+          "Wurde im 18. Jahrhundert mit einer massiven Wehrmauer umgeben."
+        ],
+        "hu": [
+          "Grúzia második legnagyobb temploma, 1994 óta UNESCO Világörökség.",
+          "1010 és 1029 között épült Arszukidze építész vezetésével.",
+          "A legszentebb grúz kegyhely, Krisztus köntösének őrzőhelye.",
+          "Több mint tíz grúz uralkodó hagyományos nyughelye.",
+          "Ikonikus 17. századi freskókkal díszített belső térrel rendelkezik.",
+          "A 18. században masszív védőfallal vették körül a támadások ellen."
+        ],
+        "ro": [
+          "A doua biserică ca mărime din țară și sit UNESCO din 1994.",
+          "Construită între anii 1010 și 1029 sub coordonarea arhitectului Arsukidze.",
+          "Cel mai sacru sit al Georgiei, adăpostind Cămașa lui Hristos.",
+          "Necropolă regală pentru numeroși monarhi din dinastia Bagrationi.",
+          "Conține o frescă celebră a Apocalipsei datând din secolul XVII.",
+          "Complexul este înconjurat de ziduri de apărare masive din secolul XVIII."
+        ],
+        "en": [
+          "Georgia's second-largest church and a UNESCO World Heritage site since 1994.",
+          "Built between 1010 and 1029 by the master architect Arsukidze.",
+          "Considered the holiest shrine in Georgia, housing the robe of Jesus Christ.",
+          "The traditional burial place for many kings of the Bagrationi dynasty.",
+          "Features an extensive and iconic cycle of 17th-century frescoes.",
+          "Enclosed by a massive defensive wall constructed in the 18th century."
+        ]
+      }
+    }
+  ]
+}

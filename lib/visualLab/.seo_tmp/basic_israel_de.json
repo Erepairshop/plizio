@@ -1,0 +1,120 @@
+{
+  "lang": "de",
+  "country": "Israel",
+  "files": [
+    "lib/visualLab/data/poiExtraIsraelLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIsraelNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dome-of-the-rock-landmarks-v2",
+      "description": "Der Felsendom ist ein architektonisches Meisterwerk auf dem Tempelberg in Jerusalem und gilt als eines der ältesten islamischen Baudenkmäler weltweit. Seine markante goldene Kuppel prägt das Stadtbild und macht ihn zu einem der bekanntesten Wahrzeichen der Region.",
+      "facts": [
+        "Ältestes islamisches Denkmal",
+        "Goldene Kuppel",
+        "UNESCO-Weltkulturerbe",
+        "Heiliger Ort in der Altstadt"
+      ]
+    },
+    {
+      "id": "basilica-of-annunciation-landmarks-v2",
+      "description": "Die Verkündigungsbasilika in Nazaret ist das größte christliche Gotteshaus im Nahen Osten und wurde über der Grotte errichtet, in der die Verkündigung an Maria stattgefunden haben soll. Die moderne Architektur des 20. Jahrhunderts integriert eindrucksvoll antike Ruinen früherer Kirchenbauten.",
+      "facts": [
+        "Größte Kirche im Nahen Osten",
+        "In Nazaret gelegen",
+        "Über der Verkündigungsgrotte",
+        "Bedeutendes Pilgerziel"
+      ]
+    },
+    {
+      "id": "yad-vashem-landmarks-v2",
+      "description": "Yad Vashem ist die zentrale israelische Gedenkstätte für die Opfer des Holocausts und befindet sich auf dem Berg des Gedenkens in Jerusalem. Das weitläufige Gelände umfasst Museen, Denkmäler und Archive, die der Dokumentation und Erinnerung an die Shoah gewidmet sind.",
+      "facts": [
+        "Holocaust-Gedenkstätte",
+        "Auf dem Berg des Gedenkens",
+        "Umfangreiches Museum",
+        "Weltweites Forschungszentrum"
+      ]
+    },
+    {
+      "id": "israel-museum-landmarks-v2",
+      "description": "Das Israel-Museum in Jerusalem ist die bedeutendste Kultureinrichtung des Landes und beherbergt unter anderem die berühmten Schriftrollen vom Toten Meer im Schrein des Buches. Es präsentiert eine weltweit einzigartige Sammlung von Archäologie, jüdischer Kunst und zeitgenössischen Werken.",
+      "facts": [
+        "Schrein des Buches",
+        "Größtes Museum Israels",
+        "Schriftrollen vom Toten Meer",
+        "Archäologische Schätze"
+      ]
+    },
+    {
+      "id": "timna-park-landmarks-v2",
+      "description": "Der Timna-Park in der südlichen Negev-Wüste ist berühmt für seine spektakulären roten Sandsteinformationen wie die Säulen Salomos. Das Gebiet war bereits in der Antike ein bedeutendes Zentrum für den Kupferbergbau und bietet heute Wanderwege durch bizarre Wüstenlandschaften.",
+      "facts": [
+        "Antike Kupferminen",
+        "Säulen Salomos",
+        "Rote Sandsteinfelsen",
+        "In der Negev-Wüste"
+      ]
+    },
+    {
+      "id": "underwater-observatory-eilat-landmarks-v2",
+      "description": "Das Unterwasser-Observatorium in Eilat ermöglicht Besuchern einen direkten Blick auf das farbenprächtige Korallenriff des Roten Meeres, ohne nass zu werden. In einer Tiefe von sechs Metern lassen sich exotische Fische und seltene Meeresbewohner in ihrer natürlichen Umgebung beobachten.",
+      "facts": [
+        "Blick auf Korallenriffe",
+        "Im Roten Meer",
+        "Sechs Meter unter Wasser",
+        "Meeresbiologischer Park"
+      ]
+    },
+    {
+      "id": "mount-zion-landmarks-v2",
+      "description": "Der Berg Zion liegt unmittelbar südlich der Altstadtmauer von Jerusalem und beherbergt bedeutende religiöse Stätten wie das Grab von König David und den Abendmahlssaal. Er ist ein Ort von großer symbolischer Bedeutung für Judentum, Christentum und Islam zugleich.",
+      "facts": [
+        "Grab von König David",
+        "Saal des letzten Abendmahls",
+        "Südlich der Altstadt",
+        "Heiliger Berg Jerusalems"
+      ]
+    },
+    {
+      "id": "makhtesh-ramon-landmarks-v2",
+      "description": "Der Makhtesh Ramon ist das größte Erosionsbecken der Welt und erstreckt sich über 40 Kilometer durch die Negev-Wüste. Diese einzigartige geologische Formation bietet atemberaubende Ausblicke und offenbart Gesteinsschichten, die Millionen von Jahren alt sind.",
+      "facts": [
+        "Größter Erosionskrater weltweit",
+        "Geologisches Naturwunder",
+        "40 km Ausdehnung",
+        "Negev-Wüste"
+      ]
+    },
+    {
+      "id": "mount-tabor-landmarks-v2",
+      "description": "Der Berg Tabor erhebt sich markant aus der Jesreelebene in Galiläa und gilt im Christentum traditionell als der Ort der Verklärung Jesu. Auf seinem Gipfel thront die beeindruckende Verklärungsbasilika, die einen weiten Panoramablick über das Umland bietet.",
+      "facts": [
+        "Ort der Verklärung Jesu",
+        "In Galiläa gelegen",
+        "Markante Bergform",
+        "Verklärungsbasilika"
+      ]
+    },
+    {
+      "id": "beit-guvrin-caves-landmarks-v2",
+      "description": "Der Nationalpark Beit Guvrin-Maresha ist bekannt für seine tausenden von Menschenhand geschaffenen Höhlen, die über Jahrhunderte als Steinbrüche, Zisternen und Lagerräume dienten. Die berühmten Glockenhöhlen sind ein architektonisches Wunder der Antike und zählen zum UNESCO-Weltkulturerbe.",
+      "facts": [
+        "UNESCO-Weltkulturerbe",
+        "Antike Glockenhöhlen",
+        "Riesiges Höhlensystem",
+        "Archäologischer Park"
+      ]
+    },
+    {
+      "id": "il-ein-gedi-nature-v2",
+      "description": "En Gedi ist eine paradiesische Oase am Westufer des Toten Meeres, die durch ihre Quellen und spektakulären Wasserfälle inmitten der kargen Wüste besticht. Das Naturschutzgebiet beheimatet eine reiche Tierwelt, darunter Steinböcke und Klippschliefer, sowie üppige subtropische Vegetation.",
+      "facts": [
+        "Oase am Toten Meer",
+        "Natürliche Wasserfälle",
+        "Steinböcke und Klippschliefer",
+        "Wüstenwanderwege"
+      ]
+    }
+  ]
+}

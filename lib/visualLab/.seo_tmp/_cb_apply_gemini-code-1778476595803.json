@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monument-22-november-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Monument des 22. November 1970 in Conakry ist eines der politisch bedeutsamsten Denkmäler Guineas und erinnert an einen Wendepunkt in der nachkolonialen Geschichte des Landes. Es wurde errichtet, um den Sieg der guineischen Streitkräfte und der Bevölkerung über eine von Portugal unterstützte Invasion, die sogenannte 'Operation Grüne See', zu feiern. Bei diesem Angriff versuchten portugiesische Truppen und guineische Exilanten, das Regime von Ahmed Sékou Touré zu stürzen und inhaftierte portugiesische Gefangene zu befreien. Geografisch liegt das Monument an einer zentralen Kreuzung in der Nähe des Palais du Peuple am Eingang zur Halbinsel Kaloum. Die Architektur des Denkmals ist brutalistisch und monumental, geprägt von scharfen Kanten und einer vertikalen Ausrichtung, die Stärke und Unbeugsamkeit symbolisieren soll. Historisch markiert das Denkmal nicht nur den militärischen Sieg, sondern auch den Beginn einer Phase verstärkter politischer Repression und den Aufstieg des Kultes um die nationale Souveränität. Für die Bürger von Conakry ist es ein täglicher Reminder an die Verteidigung der Unabhängigkeit. Das Monument ist von einem kleinen Platz umgeben, der oft für staatliche Gedenkzeremonien genutzt wird. Es steht symbolisch für den guineischen Nationalismus und den Widerstand gegen externe Einmischung in die Angelegenheiten des Staates.",
+        "hu": "Az 1970. november 22-i emlékmű Conakry egyik legfontosabb politikai jelképe, amely Guinea újkori történelmének egyik legdrámaibb eseményére emlékeztet. Az emlékművet annak a győzelemnek a tiszteletére emelték, amelyet a guineai erők arattak a Portugália által támogatott inváziós kísérlet, a „Zöld Tenger művelet” felett. Ebben a konfliktusban portugál egységek és guineai ellenzékiek próbálták megdönteni Ahmed Sékou Touré rendszerét. Földrajzilag az építmény stratégiai helyen, a Kaloum-félsziget bejáratánál, a Népi Palota (Palais du Peuple) közelében található. Az emlékmű stílusa a szocialista realizmus és a brutalizmus jegyeit ötvözi: éles vonalai és felfelé törő formái a nemzeti egységet és a külső ellenséggel szembeni rendíthetetlenséget hivatottak jelképezni. Történelmileg az emlékmű nemcsak a katonai sikert jelzi, hanem egyben az állami szuverenitás kultuszának megerősödését is Guinea függetlenségi törekvései során. A városkép meghatározó elemeként naponta emlékezteti a lakosságot az ország önállóságának védelmére. A terület gyakran ad otthont állami ünnepségeknek és koszorúzásoknak, hangsúlyozva a hely szakrális politikai jellegét a guineai nemzettudatban.",
+        "ro": "Monumentul de la 22 Noiembrie 1970 din Conakry este unul dintre cele mai importante repere politice ale Guineei, comemorând o victorie crucială în istoria post-colonială a țării. Acesta a fost ridicat pentru a onora rezistența forțelor guineene împotriva unei invazii maritime lansate de trupele portugheze și opozanți exilați, cunoscută sub numele de „Operațiunea Mar verde”. Atacul a vizat răsturnarea președintelui Ahmed Sékou Touré și eliberarea prizonierilor portughezi deținuți în capitală. Din punct de vedere geografic, monumentul este situat la o intersecție majoră din apropierea Palais du Peuple, marcând intrarea în peninsula Kaloum. Arhitectura sa monumentală, cu linii rigide și verticale, este specifică stilului socialist, fiind concepută pentru a emana forță și suveranitate națională. Istoric, monumentul simbolizează nu doar succesul militar, ci și consolidarea naționalismului guinean și a rezistenței împotriva intervențiilor externe. Pentru locuitorii capitalei, edificiul reprezintă un simbol al demnității naționale. Piața din jurul monumentului este utilizată periodic pentru ceremonii oficiale și parade militare. Deși este o structură austeră, semnificația sa simbolică rămâne profund ancorată în memoria colectivă a poporului guinean ca un bastion al independenței.",
+        "en": "The November 22, 1970 Monument in Conakry is one of Guinea's most prominent political landmarks, commemorating a defining moment in the nation's post-colonial history. It was built to celebrate the victory of Guinean forces and the local population over a Portuguese-backed invasion known as 'Operation Green Sea'. During this assault, Portuguese troops and Guinean exiles attempted to overthrow the regime of Ahmed Sékou Touré and rescue Portuguese prisoners of war. Geographically, the monument is positioned at a key intersection near the Palais du Peuple, at the gateway to the Kaloum Peninsula. Its architecture is characterized by a monumental, brutalist style with sharp edges and soaring verticality, designed to project strength and national resilience. Historically, the monument marks not only a military success but also the reinforcement of national sovereignty and the anti-colonial stance that defined the era. For the citizens of Conakry, it serves as a daily reminder of the defense of independence. The site is a central location for state commemorative ceremonies and serves as a symbol of Guinean nationalism and resistance against foreign intervention."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Denkmal erinnert an die Abwehr der portugiesischen Invasion von 1970.",
+          "Es befindet sich am strategischen Eingang zum Stadtzentrum Kaloum.",
+          "Die Architektur ist ein Beispiel für den staatlichen Monumentalstil der Sékou-Touré-Ära.",
+          "In der Nähe fanden historische Massenversammlungen der PDG-RDA-Partei statt.",
+          "Der 22. November ist bis heute ein wichtiger nationaler Feiertag in Guinea.",
+          "Das Bauwerk wurde unter Beteiligung ausländischer Architekten aus dem Ostblock errichtet."
+        ],
+        "hu": [
+          "Az emlékmű az 1970-es portugál inváziós kísérlet leverésének állít emléket.",
+          "A Kaloum-félsziget bejáratánál, központi forgalmi csomópontban található.",
+          "Stílusa a Sékou Touré-korszakra jellemző szocialista monumentalizmus.",
+          "November 22-e ma is Guinea egyik legfontosabb nemzeti ünnepe.",
+          "Az emlékmű falain egykor forradalmi jelmondatok és domborművek voltak láthatók.",
+          "A helyszín a guineai nemzeti szuverenitás legfőbb fizikai szimbóluma."
+        ],
+        "ro": [
+          "Monumentul celebrează eșecul 'Operațiunii Mar verde' din 1970.",
+          "Este amplasat strategic în apropierea Palatului Poporului din Conakry.",
+          "Structura reflectă estetica arhitecturală de tip brutalist a anilor '70.",
+          "Ziua de 22 noiembrie este declarată sărbătoare națională în Guineea.",
+          "A fost ridicat pentru a glorifica rolul armatei populare în apărarea țării.",
+          "Situl este un punct de referință obligatoriu pentru delegațiile oficiale străine."
+        ],
+        "en": [
+          "The monument honors the repelling of the 1970 Portuguese sea-borne invasion.",
+          "It is located at the strategic entrance to the Kaloum administrative district.",
+          "The design is a classic example of Cold War-era socialist monumentalism.",
+          "November 22 remains a major national public holiday in the Republic of Guinea.",
+          "The site served as a focal point for political mobilization during the first republic.",
+          "It symbolizes Guinea's historical stance as a leader in African anti-colonialism."
+        ]
+      }
+    },
+    {
+      "id": "palais-du-peuple-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Palais du Peuple (Volkspalast) in Conakry ist das bedeutendste administrative und kulturelle Gebäude Guineas. Errichtet in den späten 1960er Jahren mit massiver technischer und finanzieller Unterstützung der Volksrepublik China, ist das Gebäude ein herausragendes Beispiel für die sino-guineische Zusammenarbeit während der Ära des Kalten Krieges. Geografisch liegt der Palast am östlichen Ende der Halbinsel Kaloum, direkt am Eingang zum Stadtzentrum. Das Bauwerk beherbergt die Nationalversammlung Guineas und ist somit das Herz der legislativen Macht des Landes. Die Architektur kombiniert funktionale Monumentalität mit weitläufigen Sälen, die für nationale Kongresse, Theateraufführungen und internationale Gipfeltreffen genutzt werden. Historisch war der Palais du Peuple Schauplatz der wichtigsten politischen Ereignisse nach der Unabhängigkeit, von Parteitagen der PDG-RDA bis hin zu historischen Reden afrikanischer Befreiungskämpfer. Wirtschaftlich spielt er eine Rolle als Zentrum für den Kulturaustausch und die Austragung von Messen. Der Palast ist von einem großen Platz umgeben, der oft für Paraden und öffentliche Kundgebungen genutzt wird. Trotz seines Alters bleibt der Volkspalast ein unverzichtbares Symbol der staatlichen Identität und ein Zeugnis der diplomatischen Ausrichtung Guineas im 20. Jahrhundert.",
+        "hu": "A conakry-i Népi Palota (Palais du Peuple) Guinea legfontosabb közigazgatási és kulturális központja, amely az ország törvényhozásának is otthont ad. Az épület az 1960-as évek végén készült el a Kínai Népköztársaság jelentős technikai és anyagi támogatásával, így a kínai-guineai barátság egyik legkorábbi és leglátványosabb emléke. Földrajzilag a Kaloum-félsziget bejáratánál található, központi helyen, ahol a főváros vérkeringése összefut. Az épületkomplexum nemcsak a Nemzetgyűlés üléstermeinek ad helyet, hanem hatalmas színháztermével és konferenciaközpontjával a guineai kulturális élet fellegvára is. Történelmileg a Népi Palota a függetlenség utáni korszak szinte minden fontos politikai eseményének tanúja volt: itt tartották a pártkongresszusokat, állami ünnepségeket és a jelentősebb nemzetközi találkozókat. Gazdasági és társadalmi szempontból az épület a nemzeti összetartozás szimbóluma, ahol a népművészeti fesztiváloktól a politikai vitákig minden helyet kap. Az épület monumentális méretei és tágas terei a fiatal guineai állam ambícióit tükrözték. Ma is a főváros egyik legfontosabb tájékozódási pontja és a hatalom gyakorlásának reprezentatív helyszíne.",
+        "ro": "Palais du Peuple (Palatul Poporului) din Conakry este sediul simbolic al democrației și culturii din Guineea, găzduind Adunarea Națională a țării. Construit la sfârșitul anilor 1960 cu sprijinul Republicii Populare Chineze, edificiul reprezintă un monument al cooperării internaționale din perioada președintelui Ahmed Sékou Touré. Geografic, palatul este amplasat strategic la intrarea în centrul administrativ Kaloum, fiind una dintre cele mai vaste structuri publice din capitală. Arhitectura sa este sobră și funcțională, punând accent pe spații largi destinate adunărilor de masă și evenimentelor de stat. Pe lângă rolul său legislativ, palatul servește ca principal centru cultural, având o sală de spectacole celebră pentru acustica și dimensiunile sale, unde evoluează ansamblurile naționale de balet și muzică. Din punct de vedere istoric, Palais du Peuple a fost scena tuturor marilor momente politice ale Republicii, de la conferințe pan-africane la procese istorice de tranziție. Piața imensă din fața palatului este locul tradițional pentru paradele de Ziua Independenței. În ciuda necesității unor renovări periodice, clădirea rămâne inima vie a politicii guineene și un martor tăcut al evoluției națiunii de la obținerea suveranității.",
+        "en": "The Palais du Peuple (People's Palace) in Conakry is Guinea's primary administrative and cultural complex, serving as the seat of the National Assembly. Built in the late 1960s with significant technical and financial assistance from the People's Republic of China, it stands as an enduring symbol of Sino-Guinean diplomatic relations during the Cold War. Geographically, the palace is located at the entrance of the Kaloum Peninsula, making it a central landmark in the capital. The facility is multi-functional, housing legislative chambers alongside a massive auditorium used for national theater, cultural festivals, and international conferences. Historically, the Palais du Peuple has been the stage for Guinea's most pivotal political events, including party congresses and historic addresses by African liberation leaders. Economically, it functions as a hub for major trade fairs and cultural exports. The surrounding esplanade is a traditional gathering place for public demonstrations and independence day parades. The palace remains an essential pillar of the state's identity, reflecting the architectural and political aspirations of independent Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Palast wurde von China als Geschenk für das guineische Volk gebaut.",
+          "Es ist der offizielle Sitz der guineischen Nationalversammlung.",
+          "Das Gebäude beherbergt eine der größten Theaterbühnen Westafrikas.",
+          "Historische Staatsbegräbnisse bedeutender Persönlichkeiten finden hier statt.",
+          "Der Palais du Peuple liegt direkt neben dem Nationalmuseum.",
+          "Die Fassade des Gebäudes zeigt typische Architekturelemente der 1960er Jahre."
+        ],
+        "hu": [
+          "A palota Kína ajándékaként épült a guineai nép számára a 60-as években.",
+          "Ez az épület a guineai Nemzetgyűlés (parlament) hivatalos székhelye.",
+          "Itt lépnek fel a világhírű guineai nemzeti balett-társulatok.",
+          "A palota előtti tér Guinea legfontosabb politikai gyülekezőhelye.",
+          "Az épületben több ezer fős nemzetközi konferenciákat is rendeznek.",
+          "A belső termek díszítése ötvözi az afrikai motívumokat a modernizmussal."
+        ],
+        "ro": [
+          "Palatul a fost construit de ingineri chinezi între 1965 și 1967.",
+          "Găzduiește sesiunile plenare ale legislativului Republicii Guineea.",
+          "Sala mare este centrul de greutate al artei coregrafice naționale.",
+          "Este situat în cartierul Boulbinet, aproape de intrarea pe peninsula Kaloum.",
+          "Aici a fost proclamată a doua republică după evenimentele din 1984.",
+          "Complexul include birouri guvernamentale și săli de recepție diplomatice."
+        ],
+        "en": [
+          "The palace was constructed as a gift from China in the late 1960s.",
+          "It serves as the official meeting place for the National Assembly of Guinea.",
+          "The auditorium is a key venue for the internationally acclaimed National Ballets.",
+          "The palace esplanade is the primary site for National Day parades.",
+          "It has hosted numerous pan-African summits and liberation movement meetings.",
+          "The building is a major landmark marking the start of Conakry's downtown zone."
+        ]
+      }
+    },
+    {
+      "id": "stade-28-septembre-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Stade du 28 Septembre in Conakry ist die geschichtsträchtigste Sportstätte Guineas und ein Ort von enormer nationaler Symbolkraft. Sein Name erinnert an den 28. September 1958, den Tag, an dem das guineische Volk im Referendum mit 'Nein' gegen die französische Gemeinschaft stimmte und damit den Weg in die Unabhängigkeit ebnete. Geografisch liegt das Stadion im Stadtteil Dixinn, zentral in der Hauptstadt gelegen. Das Stadion wurde in den frühen 1960er Jahren erbaut und diente jahrzehntelang als Hauptquartier für die guineische Fußballnationalmannschaft, die 'Syli National'. Mit einer Kapazität von etwa 25.000 Zuschauern war es Schauplatz zahlreicher internationaler Begegnungen und sportlicher Triumphe. Historisch ist der Ort jedoch auch mit tragischen Ereignissen verbunden, insbesondere mit dem Massaker vom 28. September 2009, bei dem politische Demonstranten gewaltsam angegriffen wurden. Dieses Ereignis hat das Stadion zu einem Mahnmal für die politische Geschichte des Landes gemacht. Wirtschaftlich ist es ein Zentrum für den lokalen Sportbetrieb und kleine Gewerbe in der Umgebung. Trotz des Baus modernerer Stadien bleibt das '28 Septembre' das emotionale Herz des guineischen Sports und ein stummer Zeuge der politischen Kämpfe und Hoffnungen der Nation.",
+        "hu": "A conakry-i Szeptember 28. Stadion (Stade du 28 Septembre) Guinea legpatinásabb sportlétesítménye, amely mély történelmi és szimbolikus jelentőséggel bír. Nevét az 1958. szeptember 28-i népszavazásról kapta, amikor a guineai nép elutasította a francia gyarmati közösséget, és a függetlenséget választotta. Földrajzilag a főváros Dixinn negyedében található, könnyen megközelíthető központi helyen. Az 1960-as évek elején épült stadion évtizedekig a nemzeti labdarúgó-válogatott, a „Syli National” otthona volt, és mintegy 25 000 néző befogadására alkalmas. Történelmileg az épület nemcsak a sportdiadalok, hanem Guinea drámai politikai eseményeinek is színhelye; hírhedtté vált a 2009. szeptember 28-i mészárlás miatt, amikor a biztonsági erők erőszakosan felléptek az ellenzéki tüntetők ellen. Ez az esemény azóta is meghatározza a stadion megítélését, amely így egyszerre lett a nemzeti büszkeség és az emlékezés helyszíne. Gazdaságilag a stadion környéke nyüzsgő kereskedelmi övezet, ahol a sportesemények idején jelentős forgalom bonyolódik. Bár azóta modernebb stadionok is épültek az országban, a „Szeptember 28.” továbbra is a guineai sport szellemi központja és a nemzet szabadságvágyának mementója.",
+        "ro": "Stadionul 28 Septembrie (Stade du 28 Septembre) din Conakry este cea mai emblematică arenă sportivă din Guineea, purtând un nume cu o rezonanță istorică profundă. Data de 28 septembrie 1958 marchează referendumul prin care Guineea a ales independența față de Franța, fiind singura colonie franceză care a votat „Nu” comunității propuse de de Gaulle. Geografic, stadionul este situat în cartierul Dixinn, în inima capitalei. Construit la începutul anilor 1960, a servit timp de peste jumătate de secol drept sediu pentru echipa națională de fotbal, „Syli National”. Cu o capacitate de aproximativ 25.000 de locuri, stadionul a găzduit momente de glorie sportivă africană. Din punct de vedere istoric, locul este marcat și de evenimente tragice, în special masacrul din septembrie 2009, când forțele de securitate au reprimat violent o manifestație pro-democrație. Această dublă semnificație – glorie sportivă și suferință politică – face din stadion un loc de memorie complex. Economia locală din Dixinn gravitează parțial în jurul evenimentelor desfășurate aici. Deși au apărut facilități mai moderne în Conakry, Stade du 28 Septembre rămâne un pilon al identității naționale și un simbol al luptei guineenilor pentru libertate și demnitate.",
+        "en": "The Stade du 28 Septembre in Conakry is Guinea's most historic sporting venue and a site of immense national significance. Its name commemorates September 28, 1958, the day Guinea voted 'No' in the French constitutional referendum, leading to its immediate independence. Geographically, the stadium is located in the Dixinn district, centrally situated within the capital. Built in the early 1960s, it served as the long-term home of the national football team, the 'Syli National,' and has a capacity of approximately 25,000 spectators. Historically, the stadium is not only known for sporting triumphs but also for tragic political events, most notably the 2009 massacre where peaceful demonstrators were attacked by security forces. This event transformed the stadium into a somber memorial for political freedom and human rights. Economically, it remains a vital hub for regional athletics and local commerce. Despite the construction of newer stadiums, the '28 Septembre' remains the spiritual home of Guinean sports and a silent witness to the nation's political struggles and aspirations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Stadion ist nach dem Datum des Unabhängigkeitsreferendums benannt.",
+          "Es hat eine offizielle Kapazität von 25.000 Sitzplätzen.",
+          "Das Stade du 28 Septembre war Schauplatz der größten Fußballerfolge des Syli National.",
+          "Es liegt im Stadtteil Dixinn, einem der ältesten Viertel Conakrys.",
+          "Das Stadion dient auch für Leichtathletik-Wettbewerbe und politische Kundgebungen.",
+          "In der Nähe befindet sich das nationale Universitätszentrum Gamal Abdel Nasser."
+        ],
+        "hu": [
+          "A stadion neve Guinea 1958-as függetlenségi népszavazásának dátumát őrzi.",
+          "Az aréna befogadóképessége körülbelül 25 000 fő.",
+          "Évtizedeken át ez volt Guinea egyetlen nemzetközi szintű labdarúgó-pályája.",
+          "A stadion a főváros Dixinn negyedében található.",
+          "2009 óta a helyszín politikai emlékhelyként is funkcionál.",
+          "A pályát körülvevő futókör alkalmas nemzeti atlétikai versenyek megrendezésére."
+        ],
+        "ro": [
+          "Stadionul este un simbol al votului istoric pentru independență din 1958.",
+          "A fost principala arenă a țării pentru competițiile CAF și FIFA timp de 50 de ani.",
+          "Dixinn, cartierul în care se află, este un nod de transport major în Conakry.",
+          "Capacitatea sa a fost adesea depășită de fanii entuziaști ai Syli National.",
+          "Situl este inclus în patrimoniul istoric protejat al orașului.",
+          "Găzduiește festivități culturale și concerte ale artiștilor locali de top."
+        ],
+        "en": [
+          "The stadium's name honors the date of the historic 1958 independence vote.",
+          "It has a seating capacity of approximately 25,000 for international matches.",
+          "It was the primary home ground for Syli National for several decades.",
+          "The stadium is located in the central and bustling Dixinn district.",
+          "It remains a significant site in Guinea's modern political history.",
+          "The facility includes an Olympic-standard track for regional athletics."
+        ]
+      }
+    },
+    {
+      "id": "nongo-stadium-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Nationalstadion von Nongo, offiziell bekannt als Stade Général Lansana Conté, ist die modernste und größte Sportarena Guineas. Geografisch liegt das Stadion im Vorort Nongo im Norden von Conakry, in einer schnell wachsenden Wohn- und Geschäftsgegend. Das Bauwerk wurde mit Hilfe chinesischer Investitionen und Ingenieurskunst errichtet und im Jahr 2011 fertiggestellt, obwohl die offizielle Einweihung und die Aufnahme des Spielbetriebs erst später erfolgten. Mit einer Kapazität von 50.000 Sitzplätzen erfüllt es internationale Standards und ist das neue Aushängeschild des guineischen Sports. Die Architektur ist modern und funktional, mit einer markanten Dachkonstruktion, die die Zuschauer vor der tropischen Sonne und dem Regen schützt. Wirtschaftlich stellt das Stadion eine enorme Investition in die nationale Infrastruktur dar und ermöglicht Guinea die Austragung großer afrikanischer Fußballturniere und internationaler Leichtathletik-Events. Historisch markiert der Bau den Übergang von den älteren Sportstätten der Sékou-Touré-Ära zu einer neuen Generation von Infrastrukturprojekten. Das Stadion ist nicht nur ein Ort für Fußball, sondern dient auch als Veranstaltungsort für Großkonzerte und nationale Feierlichkeiten, was es zu einem zentralen Punkt des öffentlichen Lebens im modernen Conakry macht.",
+        "hu": "A nongo-i nemzeti stadion, hivatalos nevén Stade Général Lansana Conté, Guinea legmodernebb és legnagyobb befogadóképességű sportlétesítménye. Földrajzilag Conakry északi részén, a gyorsan fejlődő Nongo negyedben található. A stadiont kínai beruházással és mérnöki szakértelemmel építették, az építkezés 2011-ben fejeződött be, bár a hivatalos használatbavétel és a nemzetközi mérkőzések megkezdése csak néhány évvel később történt meg. Az 50 000 ülőhelyes aréna megfelel a legmodernebb nemzetközi előírásoknak, és a guineai sport új korszakának szimbóluma. Építészete modern és funkcionális, jellegzetes tetőszerkezete védelmet nyújt a trópusi napsütés és az esős évszak heves zivatarai ellen. Gazdasági szempontból a stadion óriási előrelépést jelent, lehetővé téve Guinea számára, hogy afrikai kontinenstornák és nagyszabású atlétikai versenyek házigazdája legyen. Történelmileg a létesítmény a korábbi elnök, Lansana Conté nevét viseli, és az ország infrastrukturális modernizációjának egyik leglátványosabb eredménye. A stadion nemcsak a labdarúgás fellegvára, hanem koncertek és állami rendezvények helyszíne is, így a conakry-i lakosság egyik legfontosabb közösségi találkozóhelyévé vált.",
+        "ro": "Stadionul Național din Nongo, cunoscut oficial sub numele de Stade Général Lansana Conté, este cea mai mare și mai modernă arenă sportivă din Guineea. Situat în cartierul Nongo, în partea de nord a orașului Conakry, stadionul se află într-o zonă în plină expansiune urbană. Construcția sa a fost realizată prin cooperarea dintre Guineea și China, fiind finalizată în 2011, deși inaugurarea oficială a avut loc mai târziu. Cu o capacitate de 50.000 de locuri, stadionul îndeplinește standardele internaționale ale FIFA și CAF, fiind mândria sportului guinean contemporan. Arhitectura sa modernă include o structură de acoperiș distinctivă care oferă confort spectatorilor în condițiile climatului tropical umed. Din punct de vedere economic, stadionul reprezintă o investiție majoră menită să impulsioneze turismul sportiv și să permită organizarea unor evenimente continentale de anvergură, precum Cupa Africii pe Națiuni. Istoric, această facilitate marchează o nouă eră în dezvoltarea infrastructurii naționale, depășind limitările vechilor stadioane din epoca socialistă. Pe lângă fotbal, arena găzduiește concerte de talie internațională și mari adunări publice, devenind un pol social central pentru tineretul din capitală.",
+        "en": "The Nongo National Stadium, officially known as Stade Général Lansana Conté, is Guinea's largest and most modern sports arena. Located in the northern suburb of Nongo in Conakry, the stadium is situated in a rapidly developing residential and commercial area. Built with Chinese investment and engineering, the construction was completed in 2011, though it was officially inaugurated for major matches in later years. With a seating capacity of 50,000, it meets international standards and serves as the flagship for Guinean sports. Its modern and functional architecture features a striking roof design that protects spectators from the tropical sun and intense rainy season downpours. Economically, the stadium represents a massive investment in national infrastructure, positioning Guinea to host major African football tournaments and international athletic events. Historically, its completion marks a shift toward modern infrastructure projects in the post-independence era. Beyond football, the stadium serves as a venue for large-scale concerts and national celebrations, making it a pivotal hub for public life in contemporary Conakry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Nongo ist mit 50.000 Plätzen das größte Stadion in der Republik Guinea.",
+          "Der Bau wurde vollständig von der Volksrepublik China finanziert.",
+          "Es ist nach dem zweiten Präsidenten des Landes, Lansana Conté, benannt.",
+          "Das Stadion beherbergt die modernste Leichtathletikanlage des Landes.",
+          "Die offizielle Eröffnung für Länderspiele fand im Jahr 2019 statt.",
+          "Es liegt im Norden der Hauptstadt, weit entfernt von der Enge der Kaloum-Halbinsel."
+        ],
+        "hu": [
+          "A nongo-i stadion 50 000 férőhelyével Guinea legnagyobb arénája.",
+          "Az építkezést teljes egészében a Kínai Népköztársaság finanszírozta.",
+          "A létesítmény az ország második elnökéről, Lansana Contéról kapta a nevét.",
+          "A stadion rendelkezik a legkorszerűbb atlétikai pályával az országban.",
+          "Az első hivatalos nemzetközi mérkőzést 2019-ben játszották itt.",
+          "A stadion környéke mára a főváros egyik legmodernebb lakónegyedévé vált."
+        ],
+        "ro": [
+          "Stadionul are o capacitate de 50.000 de locuri, toate pe scaune.",
+          "Este rezultatul unui parteneriat strategic de investiții cu China.",
+          "Numele său onorează memoria generalului Lansana Conté, fost președinte.",
+          "Dispune de facilități VIP și presă la standarde internaționale moderne.",
+          "Locația din Nongo a fost aleasă pentru a descongestiona centrul orașului.",
+          "Este considerat una dintre cele mai frumoase structuri arhitecturale din Conakry."
+        ],
+        "en": [
+          "Nongo is the largest stadium in the Republic of Guinea with 50,000 seats.",
+          "The project was a turnkey construction funded by the Chinese government.",
+          "The stadium is named after the nation's second president, Lansana Conté.",
+          "It features the most advanced athletics facilities in West Africa.",
+          "The stadium's long-awaited opening for international play occurred in 2019.",
+          "It is a key landmark in the northern expansion of Conakry's urban area."
+        ]
+      }
+    },
+    {
+      "id": "palais-mohammed-v-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Palais Mohammed V in Conakry ist eines der prächtigsten Regierungsgebäude Guineas und dient heute als Sitz der Präsidentschaft der Republik. Ursprünglich wurde das Gebäude als repräsentatives Konferenzzentrum errichtet und nach dem marokkanischen König Mohammed V. benannt, um die engen brüderlichen Bande zwischen Guinea und Marokko zu würdigen. Geografisch liegt der Palast im Diplomatenviertel auf der Halbinsel Kaloum, mit direktem Blick auf den Atlantischen Ozean. Die Architektur ist durch eine elegante Mischung aus moderner Monumentalität und nordafrikanischen Einflüssen geprägt, was sich in den feinen Fassadendetails und den großzügigen Gartenanlagen widerspiegelt. Historisch gewann das Gebäude nach dem Staatsstreich von 2021 an Bedeutung, als es zum offiziellen Amtssitz des Übergangspräsidenten wurde. Der Palast ist Schauplatz hochrangiger diplomatischer Empfänge, internationaler Gipfeltreffen und wichtiger Staatsakte. Wirtschaftlich symbolisiert der Palast die staatliche Autorität und die Fähigkeit Guineas, moderne Infrastruktur für die Regierungsführung bereitzustellen. Für Besucher von außen ist der Palast aufgrund seiner Sicherheitsbedeutung meist nur aus der Ferne zu bewundern, doch er bleibt ein zentraler Orientierungspunkt in der Skyline von Conakry und ein Zeugnis der diplomatischen Geschichte des Landes.",
+        "hu": "A conakry-i V. Mohamed-palota (Palais Mohammed V) Guinea egyik legpompásabb kormányzati épülete, amely jelenleg a Köztársasági Elnöki Hivatal székhelyeként szolgál. Az épületet eredetileg reprezentatív konferenciaközpontnak tervezték, és V. Mohamed marokkói királyról nevezték el, tisztelegve Guinea és Marokkó szoros baráti kapcsolatai előtt. Földrajzilag a Kaloum-félsziget diplomáciai negyedében található, közvetlen kilátással az Atlanti-óceánra. Az építészet az elegáns modernizmust ötvözi észak-afrikai stílusjegyekkel, ami a homlokzat finom kidolgozásában és a gondozott belső kertekben is megnyilvánul. Történelmileg a palota a 2021-es államcsíny után vált az ország politikai központjává, amikor az átmeneti államfő ide helyezte át hivatali székhelyét. Az épület fontos diplomáciai fogadások, nemzetközi csúcstalálkozók és állami ceremóniák helyszíne. Gazdasági és politikai szempontból a palota az állami tekintélyt és Guinea modernizációs törekvéseit jelképezi. Bár szigorú biztonsági intézkedések védik, a V. Mohamed-palota Conakry városképének meghatározó eleme, és fontos mementója a guineai-marokkói diplomáciai múltnak.",
+        "ro": "Palais Mohammed V din Conakry este unul dintre cele mai rafinate edificii guvernamentale din țară, servind în prezent drept sediu al Președinției Republicii. Construit inițial ca un centru de conferințe de prestigiu, acesta a fost numit în onoarea regelui Mohammed al V-lea al Marocului, ca simbol al relațiilor frățești durabile dintre cele două state. Geografic, palatul este situat în cartierul administrativ de pe peninsula Kaloum, beneficiind de o poziție privilegiată la malul Oceanului Atlantic. Arhitectura sa îmbină modernismul monumental cu subtile influențe magrebiene, vizibile în detaliile ornamentale și în amenajarea grădinilor exterioare. Din punct de vedere istoric, importanța palatului a crescut semnificativ după anul 2021, devenind nucleul puterii executive și locul unde se desfășoară cele mai importante acte de stat. Clădirea găzduiește vizite oficiale la nivel înalt și ceremonii diplomatice de anvergură. Din punct de vedere politic, Palais Mohammed V reprezintă autoritatea centrală și stabilitatea instituțională a Guineei moderne. Deși accesul public este restricționat din motive de securitate, profilul său arhitectural rămâne un element cheie al orizontului capitalei Conakry.",
+        "en": "The Palais Mohammed V in Conakry is one of Guinea's most magnificent government buildings, currently serving as the official seat of the Presidency of the Republic. Originally constructed as a high-level international conference center, the building was named after King Mohammed V of Morocco to honor the deep-rooted diplomatic ties between the two nations. Geographically, the palace is located in the diplomatic and administrative heart of the Kaloum Peninsula, overlooking the Atlantic Ocean. Its architecture features an elegant blend of modern monumentalism and North African influences, evident in its detailed facades and expansive landscaped gardens. Historically, the building rose to even greater prominence after the 2021 coup, when it became the primary workplace of the transitional government. The palace is the venue for high-profile diplomatic receptions, international summits, and key state ceremonies. Politically and economically, it symbolizes state authority and Guinea's capacity to host significant global events. While its high-security status means it is best viewed from a distance, the Palais Mohammed V remains a cornerstone of Conakry's architectural skyline and a testament to the nation's regional diplomacy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Palast wurde zu Ehren des marokkanischen Königs Mohammed V. benannt.",
+          "Er dient derzeit als offizieller Amtssitz der guineischen Präsidentschaft.",
+          "Das Gebäude liegt in der Nähe des Hafens von Conakry auf der Halbinsel Kaloum.",
+          "Marokko leistete wesentliche Unterstützung beim Bau und der Gestaltung.",
+          "Es ist ein bevorzugter Ort für die Vereidigung von Regierungsmitgliedern.",
+          "Die Gartenanlagen des Palastes gelten als die schönsten der Stadt."
+        ],
+        "hu": [
+          "A palota V. Mohamed marokkói király tiszteletére kapta a nevét.",
+          "Jelenleg ez az épület Guinea köztársasági elnökének hivatalos székhelye.",
+          "Közvetlenül az óceánparton, a Kaloum-félsziget stratégiai pontján fekszik.",
+          "A palota építése a guineai-marokkói együttműködés egyik kiemelt projektje volt.",
+          "Itt tartják a legfontosabb állami kitüntetési ceremóniákat.",
+          "Az épület homlokzata a modern és a mór stílusjegyek egyedi ötvözete."
+        ],
+        "ro": [
+          "Palatul Mohammed V este sediul actual al consiliului de miniștri și al președinției.",
+          "Edificiul reflectă legăturile diplomatice strânse dintre Conakry și Rabat.",
+          "Este situat în zona de securitate maximă a centrului administrativ.",
+          "A fost renovat recent pentru a servi drept palat guvernamental principal.",
+          "Interioarele sunt decorate cu marmură și motive geometrice tradiționale.",
+          "Reprezintă una dintre cele mai bine întreținute clădiri publice din Guineea."
+        ],
+        "en": [
+          "The palace was named in honor of Morocco's King Mohammed V.",
+          "It currently functions as the primary seat of the Presidency of Guinea.",
+          "The building is situated on the waterfront of the Kaloum Peninsula.",
+          "Moroccan influence is clearly visible in the palace's architectural details.",
+          "It serves as the venue for international summits and official state banquets.",
+          "The palace is a symbol of modern Guinean sovereignty and regional partnership."
+        ]
+      }
+    }
+  ]
+}

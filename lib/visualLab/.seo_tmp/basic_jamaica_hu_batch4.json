@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "st-thomas-mountains-relief-v2",
+      "description": "Hegyvidéki régió Jamaica délkeleti részén.",
+      "facts": ["Meredek lejtők", "Trópusi erdő", "Gyéren lakott", "Tiszta természet"]
+    },
+    {
+      "id": "holywell-forest-relief-v2",
+      "description": "Sűrű köderdő a Blue Mountains-ban.",
+      "facts": ["Köderdő", "Magas fajgazdagság", "Hűvös hőmérséklet", "Túrautak"]
+    },
+    {
+      "id": "hardwar-gap-relief-v2",
+      "description": "Egy magas hegyi hágó a Blue Mountains-ban.",
+      "facts": ["Hegyihágó", "Fontos közlekedési összeköttetés", "Látványos kilátások", "Hűvös éghajlat"]
+    },
+    {
+      "id": "yallahs-valley-relief-v2",
+      "description": "Egy mély völgy Jamaica keleti részén.",
+      "facts": ["Folyóvölgy", "Termékeny föld", "Meredek völgyoldalak", "Érdekes geológia"]
+    },
+    {
+      "id": "hills-of-hanover-relief-v2",
+      "description": "Jamaica nyugati részének lankás dombvidéke.",
+      "facts": ["Zöld és dombos", "Mezőgazdasági jellegű", "Lankás emelkedők", "Szép kilátás"]
+    },
+    {
+      "id": "mount-diabolo-relief-v2",
+      "description": "Egy markáns hegység Saint Catherine-ben.",
+      "facts": ["Meredek lejtők", "Mészkő", "Fontos kilátópont", "Természetközeli"]
+    },
+    {
+      "id": "st-catherine-hills-relief-v2",
+      "description": "A Spanish Town környéki dombvidék.",
+      "facts": ["Dombvidéki", "Közel a fővároshoz", "Túraövezetek", "Hagyományos települések"]
+    },
+    {
+      "id": "trelawny-highlands-relief-v2",
+      "description": "A felföld Trelawny északi részén.",
+      "facts": ["Mészkőfennsík", "Hűvösebb hőmérséklet", "Esőerdő", "Nagy fajgazdagság"]
+    },
+    {
+      "id": "st-ann-hills-relief-v2",
+      "description": "Lankás táj St. Ann-ben.",
+      "facts": ["Zöld dombok", "Mezőgazdasági művelés", "Szép kilátás", "Ideális kerékpártúrákhoz"]
+    },
+    {
+      "id": "claren-valley-relief-v2",
+      "description": "Egy völgy Clarendonban.",
+      "facts": ["Befoglalt völgy", "Termékeny föld", "Mezőgazdaság", "Természetközeli"]
+    },
+    {
+      "id": "manchester-plateau-relief-v2",
+      "description": "Egy fennsík Manchester felföldjén.",
+      "facts": ["Fennsíki táj", "Hűvös éghajlat", "Bauxitbányászat", "Mezőgazdaság"]
+    },
+    {
+      "id": "st-elizabeth-plains-relief-v2",
+      "description": "A kiterjedt déli síkságok.",
+      "facts": ["Síkság", "Száraz éghajlat", "Mezőgazdaság", "Nagy területek"]
+    }
+  ]
+}

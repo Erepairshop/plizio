@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Sierraleone",
+  "files": [
+    "lib/visualLab/data/poiExtraSierraleoneLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bumbuna-forest-life-v2",
+      "description": "A Seli folyó mentén elterülő erdővidék, amely fontos vízierőmű-projektnek ad otthont. Gazdag biodiverzitása és változatos növényzete meghatározó a régió ökológiájában.",
+      "facts": ["Seli folyó mentén fekszik", "Vízierőmű található itt", "Gazdag erdei élővilág"]
+    },
+    {
+      "id": "sankanya-nature-life-v2",
+      "description": "Természetvédelmi terület, amely Sierra Leone jellegzetes szavannás és erdős átmeneti tájait őrzi. A környék élővilága számos endemikus faj számára biztosít menedéket.",
+      "facts": ["Természetvédelmi terület", "Szavannás táj", "Változatos élővilág"]
+    },
+    {
+      "id": "kabala-cattle-ranch-life-v2",
+      "description": "A felföldi régióban található állattenyésztő gazdaság, amely az ország mezőgazdaságának jelentős központja. A hűvösebb klíma kiváló feltételeket biztosít a szarvasmarha-tartáshoz.",
+      "facts": ["Felföldi régió", "Állattenyésztési központ", "Hűvösebb éghajlat"]
+    },
+    {
+      "id": "bo-childrens-park-life-v2",
+      "description": "Sierra Leone második legnagyobb városának központi rekreációs területe, amely közösségi találkozóhelyként szolgál. A park zöldövezetet biztosít a városi környezetben a családok számára.",
+      "facts": ["Bo városában található", "Közösségi park", "Rekreációs terület"]
+    }
+  ]
+}

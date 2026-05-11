@@ -1,0 +1,41 @@
+{
+  "lang": "en",
+  "country": "Myanmar",
+  "files": [
+    "lib/visualLab/data/poiExtraMyanmarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMyanmarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMyanmarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amarapura-historical-city-history-v2",
+      "description": "Amarapura was the capital of Myanmar during the Konbaung Dynasty for two separate periods. It is famous for its silk weaving tradition and the U Bein Bridge.",
+      "facts": ["Former royal capital", "Konbaung Dynasty legacy", "Known for silk weaving", "Home to U Bein Bridge"]
+    },
+    {
+      "id": "botahtaung-pagoda-history-v2",
+      "description": "Located in Yangon, this pagoda is unique because its interior is hollow and allows visitors to walk inside to view sacred relics. It was rebuilt in the 1940s after being destroyed during World War II.",
+      "facts": ["Hollow interior structure", "Located in Yangon", "Rebuilt after WWII", "Houses sacred relics"]
+    },
+    {
+      "id": "ananda-temple-history-v2",
+      "description": "Built in 1105 AD, this temple is one of the best-preserved and most architecturally significant monuments in Bagan. It represents the early Mon-style temple architecture.",
+      "facts": ["Constructed in 1105 AD", "Located in Bagan", "Mon-style architecture", "Well-preserved monument"]
+    },
+    {
+      "id": "myanmar-gokteik-viaduct-landmarks-v2",
+      "description": "This historic railway trestle bridge was completed in 1900 and remains the highest bridge in Myanmar. It spans the Gokteik Gorge in northern Shan State.",
+      "facts": ["Completed in 1900", "Highest bridge in Myanmar", "Spans Gokteik Gorge", "Historic railway trestle"]
+    },
+    {
+      "id": "salween-river-nature-v2",
+      "description": "The Salween River flows from the Tibetan Plateau through China and Myanmar into the Andaman Sea. It is one of the longest free-flowing rivers in Southeast Asia.",
+      "facts": ["Originates in Tibetan Plateau", "Flows into Andaman Sea", "Free-flowing river", "Major Southeast Asian river"]
+    },
+    {
+      "id": "sittaung-river-nature-v2",
+      "description": "Flowing entirely within Myanmar, the Sittaung River is a vital waterway for timber transport and agriculture in the central regions. It empties into the Gulf of Martaban.",
+      "facts": ["Flows entirely in Myanmar", "Used for timber transport", "Central region waterway", "Empties into Gulf of Martaban"]
+    }
+  ]
+}

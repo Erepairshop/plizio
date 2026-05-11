@@ -1,0 +1,64 @@
+{
+  "lang": "ro",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mohales-hoek-cities-v2",
+      "description": "Oraș situat în sud-vestul statului Lesotho, servind drept centru administrativ important al districtului cu același nume.",
+      "facts": ["Centru districtual", "Altitudine ridicată", "Economie agricolă", "Regiune muntoasă"]
+    },
+    {
+      "id": "peka-cities-v2",
+      "description": "Localitate rurală aflată în apropierea graniței cu Africa de Sud, cunoscută pentru comunitatea sa agricolă.",
+      "facts": ["Situat la graniță", "Populație rurală", "Peisaj muntos", "Climat temperat"]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "description": "Sat tradițional situat în regiunea de sud-vest a țării, caracterizat prin modul de viață bazat pe agricultură.",
+      "facts": ["Așezare rurală", "Tradiție agricolă", "Relief deluros", "Zona de platou"]
+    },
+    {
+      "id": "makhonoane-cities-v2",
+      "description": "Comunitate locală situată în zonele rurale ale districtului Leribe, specifică pentru relieful accidentat.",
+      "facts": ["Districtul Leribe", "Relief montan", "Comunitate agricolă", "Acces limitat"]
+    },
+    {
+      "id": "phamong-cities-v2",
+      "description": "Localitate izolată în regiunile montane din sudul statului Lesotho, marcată de un peisaj spectaculos.",
+      "facts": ["Sudul țării", "Regiune muntoasă", "Izolare geografică", "Climat aspru"]
+    },
+    {
+      "id": "mphaki-cities-v2",
+      "description": "Așezare situată în districtul Quthing, cunoscută pentru terenul său dificil și altitudinea ridicată.",
+      "facts": ["Districtul Quthing", "Altitudine mare", "Relief accidentat", "Activități rurale"]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "description": "Sat situat în apropierea infrastructurii hidroenergetice din Munții Maloti, având un rol important în regiune.",
+      "facts": ["Munții Maloti", "Proiecte hidroelectrice", "Regiune montană", "Populație locală"]
+    },
+    {
+      "id": "katse-cities-v2",
+      "description": "Localitate construită lângă barajul Katse, unul dintre cele mai importante obiective de infrastructură din Africa.",
+      "facts": ["Barajul Katse", "Turism montan", "Altitudine mare", "Centru de infrastructură"]
+    },
+    {
+      "id": "thaba-bosiu-cities-v2",
+      "description": "Sit istoric și cultural esențial, fiind fortăreața naturală unde regele Moshoeshoe I a fondat națiunea.",
+      "facts": ["Sit istoric", "Fortăreață naturală", "Simbol național", "Regiunea Maseru"]
+    },
+    {
+      "id": "khabos-cities-v2",
+      "description": "Comunitate locală situată în partea de nord a statului Lesotho, orientată spre activități rurale.",
+      "facts": ["Regiunea nordică", "Relief colinar", "Agricultură tradițională", "Climat temperat"]
+    },
+    {
+      "id": "maphutseng-cities-v2",
+      "description": "Așezare rurală aflată într-o zonă deluroasă, păstrând stilul de viață tradițional basotho.",
+      "facts": ["Zonă deluroasă", "Tradiții locale", "Agricultură de subzistență", "Comunitate mică"]
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "malgretout-cities-v2",
+      "descriptionAdvancedDe": "Malgretout, dessen Name aus dem Französischen „trotz allem“ bedeutet, ist eine kleine Gemeinde an der Westbank des Demerara-Flusses. Es liegt in der Nähe von Vreed-en-Hoop und ist Teil des wachsenden städtischen Korridors auf dieser Seite des Flusses. Ursprünglich eine Plantage, ist es heute eine überwiegend wohngeprägte Gegend. Die Gemeinde ist relativ klein und das Leben ist eng mit den benachbarten, größeren Gemeinden wie Pouderoyen und Vreed-en-Hoop verbunden, wo sich die meisten kommerziellen Aktivitäten und Dienstleistungen befinden. Die Einwohner sind in verschiedenen Berufen tätig, viele pendeln nach Georgetown. Malgretout bietet einen ruhigeren Lebensstil und ist dennoch leicht von den wichtigsten städtischen Zentren aus erreichbar.",
+      "descriptionAdvancedHu": "A Malgretout, amelynek neve franciául „mindennek ellenére” azt jelenti, egy kis közösség a Demerara folyó nyugati partján. Vreed-en-Hoop közelében található, és a folyó ezen oldalán növekvő városi folyosó része. Eredetileg ültetvény volt, ma már túlnyomórészt lakóövezet. A közösség viszonylag kicsi, és az élet szorosan kapcsolódik a szomszédos, nagyobb közösségekhez, mint például Pouderoyen és Vreed-en-Hoop, ahol a legtöbb kereskedelmi tevékenység és szolgáltatás található. A lakosok különböző szakmákban dolgoznak, sokan ingáznak Georgetownba. A Malgretout csendesebb életmódot kínál, miközben könnyen megközelíthető a főbb városi központokból.",
+      "descriptionAdvancedRo": "Malgretout, al cărui nume înseamnă „în ciuda a tot” în franceză, este o mică comunitate de pe malul de vest al râului Demerara. Este situată în apropiere de Vreed-en-Hoop și face parte din coridorul urban în creștere de pe această parte a râului. Inițial o plantație, acum este o zonă predominant rezidențială. Comunitatea este relativ mică, iar viața este strâns legată de comunitățile învecinate mai mari, cum ar fi Pouderoyen și Vreed-en-Hoop, unde se află majoritatea activităților comerciale și a serviciilor. Locuitorii sunt angajați în diverse ocupații, mulți făcând naveta la Georgetown. Malgretout oferă un stil de viață mai liniștit, rămânând în același timp ușor accesibil la principalele centre urbane.",
+      "descriptionAdvancedEn": "Malgretout, French for 'Despite Everything', is a small community located on the West Bank of Demerara, south of Pouderoyen. Its name reflects the determination of early planters to cultivate the land. The village is part of the urban sprawl extending from Vreed-en-Hoop. It is primarily a residential area, with its residents accessing most commercial services, markets, and healthcare in the larger neighboring communities. Its proximity to the West Demerara Regional Hospital in Pouderoyen is a key advantage. The community is quiet, offering a suburban lifestyle for those who work in the busier hubs along the West Bank or across the river in Georgetown. It's a typical example of the smaller, close-knit residential pockets that characterize the region.",
+      "factsAdvancedDe": [
+        "Sein französischer Name bedeutet „trotz allem“.",
+        "Liegt an der Westbank von Demerara.",
+        "Südlich von Pouderoyen gelegen.",
+        "Hauptsächlich ein Wohngebiet.",
+        "Einwohner nutzen Dienstleistungen in Nachbargemeinden.",
+        "In der Nähe des West Demerara Regional Hospital.",
+        "Bietet einen ruhigen, vorstädtischen Lebensstil.",
+        "Typisch für kleinere, eng verbundene Wohngemeinschaften."
+      ],
+      "factsAdvancedHu": [
+        "Francia neve azt jelenti: „Mindennek ellenére”.",
+        "A Demerara nyugati partján található.",
+        "Pouderoyentől délre fekszik.",
+        "Elsősorban lakóövezet.",
+        "A lakosok a szomszédos közösségek szolgáltatásait veszik igénybe.",
+        "Közel van a West Demerara Regionális Kórházhoz.",
+        "Csendes, külvárosi életmódot kínál.",
+        "A régióra jellemző kisebb, szorosan összetartó közösség."
+      ],
+      "factsAdvancedRo": [
+        "Numele său francez înseamnă „în ciuda a tot”.",
+        "Situat pe malul de vest al Demerarei.",
+        "Amplasat la sud de Pouderoyen.",
+        "În principal o zonă rezidențială.",
+        "Locuitorii accesează servicii în comunitățile învecinate.",
+        "Aproape de Spitalul Regional West Demerara.",
+        "Oferă un stil de viață suburban liniștit.",
+        "Tipic pentru comunitățile rezidențiale mai mici și unite."
+      ],
+      "factsAdvancedEn": [
+        "Its French name means 'Despite Everything'.",
+        "Located on the West Bank of Demerara.",
+        "Situated south of Pouderoyen.",
+        "Primarily a residential area.",
+        "Residents access services in neighboring communities.",
+        "Near the West Demerara Regional Hospital.",
+        "Offers a quiet, suburban lifestyle.",
+        "Typical of smaller, close-knit residential pockets."
+      ]
+    },
+    {
+      "id": "schoonord-cities-v2",
+      "descriptionAdvancedDe": "Schoonord, ein niederländischer Name, der „schöner Ort“ bedeutet, ist eine große und schnell wachsende Wohnsiedlung an der Westbank des Demerara, südlich der Demerara Harbour Bridge. In den letzten Jahren hat sich Schoonord zu einer der begehrtesten Wohngegenden auf der Westbank entwickelt, mit mehreren neuen Wohnprojekten, die moderne Häuser anbieten. Die strategische Lage in der Nähe der Brücke bietet einen einfachen Zugang nach Georgetown und macht es zu einem idealen Ort für Pendler. Die Gemeinde verfügt über eine wachsende Anzahl von Supermärkten, Geschäften und anderen Dienstleistungen, um die wachsende Bevölkerung zu versorgen. Schoonord symbolisiert die rasche Modernisierung und Suburbanisierung der Westbank von Demerara und zieht Familien und Fachleute an, die einen modernen Lebensstil suchen.",
+      "descriptionAdvancedHu": "Schoonord, egy holland név, amely „szép helyet” jelent, egy nagy és gyorsan növekvő lakótelep a Demerara nyugati partján, a Demerara kikötőhídtól délre. Az elmúlt években Schoonord a nyugati part egyik legkívánatosabb lakóövezetévé vált, számos új lakóprojekttel, amelyek modern otthonokat kínálnak. A hídhoz közeli stratégiai elhelyezkedése könnyű hozzáférést biztosít Georgetownhoz, így ideális hely az ingázók számára. A közösség egyre több szupermarkettel, üzlettel és egyéb szolgáltatással rendelkezik a növekvő lakosság kiszolgálására. Schoonord a Demerara nyugati partjának gyors modernizációját és szuburbanizációját szimbolizálja, vonzva a modern életmódot kereső családokat és szakembereket.",
+      "descriptionAdvancedRo": "Schoonord, un nume olandez care înseamnă „loc frumos”, este o așezare rezidențială mare și în creștere rapidă pe malul de vest al Demerarei, la sud de podul Demerara Harbour. În ultimii ani, Schoonord a devenit una dintre cele mai căutate zone rezidențiale de pe malul de vest, cu mai multe proiecte noi de locuințe care oferă case moderne. Locația sa strategică, aproape de pod, oferă acces ușor la Georgetown, ceea ce îl face un loc ideal pentru navetiști. Comunitatea are un număr tot mai mare de supermarketuri, magazine și alte servicii pentru a satisface populația în creștere. Schoonord simbolizează modernizarea rapidă și suburbanizarea malului de vest al Demerarei, atrăgând familii și profesioniști care caută un stil de viață modern.",
+      "descriptionAdvancedEn": "Schoonord, Dutch for 'Beautiful Place', is a large, modern housing scheme on the West Bank of Demerara, located south of the Harbour Bridge. It is one of the fastest-growing residential areas in Guyana, characterized by new, contemporary housing. Its development reflects the increasing demand for suburban living with convenient access to Georgetown. Schoonord has become a popular choice for middle-income families and professionals. The community is well-planned and features a growing number of amenities such as supermarkets, restaurants, and private schools. It represents the new face of development on the West Bank, moving away from the traditional village model towards a more structured, suburban landscape, driven by private and public housing initiatives.",
+      "factsAdvancedDe": [
+        "Sein niederländischer Name bedeutet „Schöner Ort“.",
+        "Liegt an der Westbank von Demerara, südlich der Harbour Bridge.",
+        "Eines der am schnellsten wachsenden Wohngebiete Guyanas.",
+        "Beliebt bei Familien mit mittlerem Einkommen.",
+        "Bietet einfachen Zugang zu Georgetown.",
+        "Gut geplante, moderne Gemeinde.",
+        "Wachsende Anzahl von Supermärkten und Dienstleistungen.",
+        "Repräsentiert die neue, vorstädtische Entwicklung der Westbank."
+      ],
+      "factsAdvancedHu": [
+        "Holland neve azt jelenti: „Szép Hely”.",
+        "A Demerara nyugati partján, a kikötőhídtól délre található.",
+        "Guyana egyik leggyorsabban növekvő lakóövezete.",
+        "Népszerű a középosztálybeli családok körében.",
+        "Könnyű hozzáférést biztosít Georgetownhoz.",
+        "Jól tervezett, modern közösség.",
+        "Egyre több szupermarket és szolgáltatás található itt.",
+        "A nyugati part új, külvárosi fejlődését képviseli."
+      ],
+      "factsAdvancedRo": [
+        "Numele său olandez înseamnă „Loc frumos”.",
+        "Situat pe malul de vest al Demerarei, la sud de Harbour Bridge.",
+        "Una dintre zonele rezidențiale cu cea mai rapidă creștere din Guyana.",
+        "Popular printre familiile cu venituri medii.",
+        "Oferă acces ușor la Georgetown.",
+        "Comunitate modernă, bine planificată.",
+        "Număr tot mai mare de supermarketuri și servicii.",
+        "Reprezintă noua dezvoltare suburbană a malului de vest."
+      ],
+      "factsAdvancedEn": [
+        "Its Dutch name means 'Beautiful Place'.",
+        "Located on the West Bank of Demerara, south of the Harbour Bridge.",
+        "One of Guyana's fastest-growing residential areas.",
+        "Popular with middle-income families.",
+        "Offers easy access to Georgetown.",
+        "Well-planned, modern community.",
+        "Growing number of supermarkets and services.",
+        "Represents the new, suburban development of the West Bank."
+      ]
+    },
+    {
+      "id": "goed-fortuin-cities-v2",
+      "descriptionAdvancedDe": "Goed Fortuin, was auf Niederländisch „gutes Glück“ bedeutet, ist eine kleine Gemeinde an der Westbank des Demerara-Flusses, die zwischen Malgretout und Schoonord liegt. Es ist eine der älteren Siedlungen in der Gegend, deren Ursprünge auf eine Plantage zurückgehen. Heute ist Goed Fortuin eine überwiegend wohngeprägte Gemeinde mit einer Mischung aus älteren und neueren Häusern. Die Wirtschaft ist lokalisiert, mit kleinen Geschäften und einigen landwirtschaftlichen Aktivitäten. Die meisten Einwohner arbeiten in den umliegenden größeren Handelszentren oder in Georgetown. Die Gemeinde ist relativ ruhig im Vergleich zu ihren geschäftigeren Nachbarn und bewahrt ein starkes Gefühl der Gemeinschaftsgeschichte. Ihre Lage bietet sowohl die Ruhe einer kleineren Siedlung als auch den bequemen Zugang zu städtischen Annehmlichkeiten.",
+      "descriptionAdvancedHu": "A Goed Fortuin, amely hollandul „jó szerencsét” jelent, egy kis közösség a Demerara folyó nyugati partján, Malgretout és Schoonord között. A környék egyik régebbi települése, eredete egy ültetvényre nyúlik vissza. Ma a Goed Fortuin túlnyomórészt lakóközösség, régebbi és újabb házak keverékével. A gazdaság lokalizált, kis üzletekkel és némi mezőgazdasági tevékenységgel. A legtöbb lakos a környező nagyobb kereskedelmi központokban vagy Georgetownban dolgozik. A közösség viszonylag csendes a nyüzsgőbb szomszédaihoz képest, és megőrzi a közösségi történelem erős érzetét. Elhelyezkedése egyszerre kínálja egy kisebb település nyugalmát és a városi kényelemhez való könnyű hozzáférést.",
+      "descriptionAdvancedRo": "Goed Fortuin, care înseamnă „noroc bun” în olandeză, este o mică comunitate de pe malul de vest al râului Demerara, situată între Malgretout și Schoonord. Este una dintre așezările mai vechi din zonă, cu origini care datează de la o plantație. Astăzi, Goed Fortuin este o comunitate predominant rezidențială, cu un amestec de case vechi și noi. Economia este localizată, cu mici magazine și unele activități agricole. Majoritatea locuitorilor lucrează în centrele comerciale mai mari din jur sau în Georgetown. Comunitatea este relativ liniștită în comparație cu vecinii săi mai aglomerați, păstrând un puternic simț al istoriei comunitare. Locația sa oferă atât liniștea unei așezări mai mici, cât și accesul convenabil la facilitățile urbane.",
+      "descriptionAdvancedEn": "Goed Fortuin, Dutch for 'Good Fortune', is a village on the West Bank of Demerara, nestled between larger communities like Wales and La Grange. It is one of the older, more established villages in the area, originally founded as a plantation. Today, it is a quiet, primarily residential community. While some residents engage in small-scale farming, many work in the nearby industrial areas or commute to Georgetown. Goed Fortuin has a more traditional village feel compared to the newer housing schemes in the region. It has a multi-ethnic population and a strong sense of community, with life proceeding at a more relaxed pace. It represents the enduring rural character of the West Bank amidst rapid development.",
+      "factsAdvancedDe": [
+        "Sein Name bedeutet auf Niederländisch „Gutes Glück“.",
+        "Liegt an der Westbank von Demerara.",
+        "Eines der älteren, etablierteren Dörfer in der Gegend.",
+        "Ruhige, hauptsächlich Wohngemeinde.",
+        "Einwohner arbeiten in der Umgebung oder in Georgetown.",
+        "Hat eine traditionellere dörfliche Atmosphäre.",
+        "Repräsentiert den ländlichen Charakter der Westbank.",
+        "Hat ein starkes Gemeinschaftsgefühl."
+      ],
+      "factsAdvancedHu": [
+        "A neve hollandul „Jó Szerencsét” jelent.",
+        "A Demerara nyugati partján található.",
+        "Egyike a régebbi, megalapozottabb falvaknak a környéken.",
+        "Csendes, elsősorban lakóközösség.",
+        "A lakosok a környéken vagy Georgetownban dolgoznak.",
+        "Hagyományosabb falusi hangulata van.",
+        "A nyugodt, vidéki jelleget képviseli a gyors fejlődés közepette.",
+        "Erős közösségi érzés jellemzi."
+      ],
+      "factsAdvancedRo": [
+        "Numele său înseamnă „Noroc bun” în olandeză.",
+        "Situat pe malul de vest al Demerarei.",
+        "Unul dintre satele mai vechi și mai stabilite din zonă.",
+        "Comunitate liniștită, în principal rezidențială.",
+        "Locuitorii lucrează în zonele învecinate sau în Georgetown.",
+        "Are o atmosferă de sat mai tradițională.",
+        "Reprezintă caracterul rural al malului de vest.",
+        "Are un puternic simț al comunității."
+      ],
+      "factsAdvancedEn": [
+        "Its name is Dutch for 'Good Fortune'.",
+        "Located on the West Bank of Demerara.",
+        "One of the older, more established villages in the area.",
+        "Quiet, primarily residential community.",
+        "Residents work in nearby areas or Georgetown.",
+        "Has a more traditional village feel.",
+        "Represents the rural character of the West Bank.",
+        "Has a strong sense of community."
+      ]
+    },
+    {
+      "id": "vreed-en-rust-cities-v2",
+      "descriptionAdvancedDe": "Vreed-en-Rust, was auf Niederländisch „Frieden und Ruhe“ bedeutet, ist eine kleine Gemeinde an der Westbank des Demerara-Flusses. Es liegt südlich von La Grange und ist eine der vielen Siedlungen, die ihre Namen und Ursprünge von den ehemaligen niederländischen Plantagen haben, die die Region dominierten. Wie sein Name andeutet, ist es eine ruhige, überwiegend wohngeprägte Gemeinde. Die Einwohner sind hauptsächlich in der Landwirtschaft und in kleinen Unternehmen tätig oder pendeln zur Arbeit in größere Zentren. Das Dorf bewahrt einen ländlichen Charakter mit einem starken Gemeinschaftsgefühl. Es ist ein Beispiel für die vielen kleinen, eng verbundenen Dörfer, die den sozialen und landwirtschaftlichen Teppich der Westbank von Demerara bilden.",
+      "descriptionAdvancedHu": "A Vreed-en-Rust, amely hollandul „Békét és Nyugalmat” jelent, egy kis közösség a Demerara folyó nyugati partján. La Grange-tól délre fekszik, és egyike a sok településnek, amelyek nevüket és eredetüket az egykori holland ültetvényekről kapták, amelyek a régiót uralták. Ahogy a neve is sugallja, ez egy csendes, túlnyomórészt lakóközösség. A lakosok főként mezőgazdasággal és kisvállalkozásokkal foglalkoznak, vagy nagyobb központokba ingáznak dolgozni. A falu megőrzi vidéki jellegét, erős közösségi érzéssel. Példa a sok kicsi, szorosan összetartó falura, amelyek a Demerara nyugati partjának társadalmi és mezőgazdasági szövetét alkotják.",
+      "descriptionAdvancedRo": "Vreed-en-Rust, care înseamnă „Pace și Odihnă” în olandeză, este o mică comunitate de pe malul de vest al râului Demerara. Este situată la sud de La Grange și este una dintre multele așezări care își trag numele și originile de la fostele plantații olandeze care au dominat regiunea. După cum sugerează și numele, este o comunitate liniștită, predominant rezidențială. Locuitorii sunt angajați în principal în agricultură și mici afaceri sau fac naveta pentru a lucra în centre mai mari. Satul menține un caracter rural, cu un puternic simț al comunității. Este un exemplu al numeroaselor sate mici, strâns unite, care alcătuiesc țesătura socială și agricolă a malului de vest al Demerarei.",
+      "descriptionAdvancedEn": "Vreed-en-Rust, Dutch for 'Peace and Rest', is a small residential village on the West Bank of Demerara. Located south of La Grange, its name is evocative of the quiet lifestyle it offers. Like its neighbors, it originated as a plantation. Today, it is a peaceful community where residents are engaged in agriculture, fishing, and local small businesses. It lacks the commercial bustle of larger villages, offering a more tranquil, rural atmosphere. The community is tight-knit, and its character is defined by the agricultural lands that surround it. Vreed-en-Rust is representative of the smaller, pastoral villages that form the backbone of the West Bank's social and economic landscape.",
+      "factsAdvancedDe": [
+        "Sein Name bedeutet auf Niederländisch „Frieden und Ruhe“.",
+        "Liegt an der Westbank von Demerara, südlich von La Grange.",
+        "Ursprünglich eine Plantage.",
+        "Ruhige, friedliche Wohngemeinschaft.",
+        "Einwohner betreiben Landwirtschaft und Fischerei.",
+        "Fehlt der kommerzielle Trubel größerer Dörfer.",
+        "Eng verbundene Gemeinschaft.",
+        "Repräsentiert die pastoralen Dörfer der Westbank."
+      ],
+      "factsAdvancedHu": [
+        "A neve hollandul „Béke és Nyugalom”.",
+        "A Demerara nyugati partján, La Grange-tól délre található.",
+        "Eredetileg ültetvény volt.",
+        "Csendes, békés lakóközösség.",
+        "A lakosok mezőgazdasággal és halászattal foglalkoznak.",
+        "Hiányzik belőle a kereskedelmi nyüzsgés.",
+        "Szorosan összetartó közösség jellemzi.",
+        "A nyugati part pásztori, vidéki jellegét képviseli."
+      ],
+      "factsAdvancedRo": [
+        "Numele său înseamnă „Pace și Odihnă” în olandeză.",
+        "Situat pe malul de vest al Demerarei, la sud de La Grange.",
+        "A fost inițial o plantație.",
+        "Comunitate rezidențială liniștită și pașnică.",
+        "Locuitorii se ocupă cu agricultura și pescuitul.",
+        "Lipsește agitația comercială a satelor mai mari.",
+        "Comunitate strâns unită.",
+        "Reprezentativ pentru satele pastorale de pe malul de vest."
+      ],
+      "factsAdvancedEn": [
+        "Its name is Dutch for 'Peace and Rest'.",
+        "Located on the West Bank of Demerara, south of La Grange.",
+        "Originated as a plantation.",
+        "Quiet, peaceful residential community.",
+        "Residents are engaged in agriculture and fishing.",
+        "Lacks the commercial bustle of larger villages.",
+        "Tight-knit community.",
+        "Represents the pastoral villages of the West Bank."
+      ]
+    },
+    {
+      "id": "bagotville-cities-v2",
+      "descriptionAdvancedDe": "Bagotville ist eine historische Gemeinde an der Westbank des Demerara-Flusses. Sie ist eine der ersten Siedlungen, die nach der Emanzipation von ehemaligen Sklaven gegründet wurde, was ihr eine bedeutende historische Bedeutung verleiht. Das Dorf ist nach einem ehemaligen Gouverneur benannt. Bagotville ist bekannt für sein reiches afro-guyanisches Erbe und seine starken Gemeinschaftsbindungen. Die Wirtschaft basierte traditionell auf der Landwirtschaft, einschließlich der Produktion von Grundnahrungsmitteln. Heute ist es eine überwiegend wohngeprägte Gemeinde, deren Einwohner in verschiedenen Sektoren arbeiten. Das Dorf hat im Laufe der Jahre eine wichtige Rolle im sozialen und politischen Leben der Westbank gespielt. Es bleibt ein wichtiges Zentrum der afro-guyanischen Kultur und Geschichte in der Region.",
+      "descriptionAdvancedHu": "Bagotville egy történelmi közösség a Demerara folyó nyugati partján. Ez az egyik első település, amelyet az emancipáció után alapítottak egykori rabszolgák, ami jelentős történelmi jelentőséggel bír. A falu egykori kormányzóról kapta a nevét. Bagotville gazdag afro-guyanai örökségéről és erős közösségi kötelékeiről ismert. A gazdaság hagyományosan a mezőgazdaságon alapult, beleértve az alapvető élelmiszerek termesztését. Ma túlnyomórészt lakóközösség, amelynek lakói különböző ágazatokban dolgoznak. A falu az évek során fontos szerepet játszott a nyugati part társadalmi és politikai életében. Továbbra is az afro-guyanai kultúra és történelem fontos központja a régióban.",
+      "descriptionAdvancedRo": "Bagotville este o comunitate istorică de pe malul de vest al râului Demerara. Este una dintre primele așezări fondate de foști sclavi după emancipare, ceea ce îi conferă o importanță istorică semnificativă. Satul este numit după un fost guvernator. Bagotville este cunoscut pentru moștenirea sa bogată afro-guyaneză și pentru legăturile sale comunitare puternice. Economia s-a bazat în mod tradițional pe agricultură, inclusiv pe producția de provizii de bază. Astăzi, este o comunitate predominant rezidențială, cu locuitori care lucrează în diverse sectoare. Satul a jucat un rol important în viața socială și politică a malului de vest de-a lungul anilor. Rămâne un centru important al culturii și istoriei afro-guyaneze din regiune.",
+      "descriptionAdvancedEn": "Bagotville is a historic village on the West Bank of Demerara. It is recognized as one of the first proprietary villages purchased by freed Africans after emancipation in the 1840s, making it a site of great historical and cultural importance for Afro-Guyanese. The village was named after a former governor. Traditionally an agricultural community, today Bagotville is a primarily residential area. It has a strong community spirit, rooted in its unique history of self-purchase and independence. The village has played a significant role in the social development of the West Bank region. It stands alongside villages like Buxton and Queenstown as a powerful symbol of the post-emancipation drive for land ownership and self-determination among freed slaves.",
+      "factsAdvancedDe": [
+        "Historisches Dorf an der Westbank von Demerara.",
+        "Eines der ersten von befreiten Sklaven gekauften Dörfer.",
+        "Gegründet in den 1840er Jahren.",
+        "Benannt nach einem ehemaligen Gouverneur.",
+        "Wichtiger Ort des afro-guyanischen Erbes.",
+        "Symbol für Selbstbestimmung und Unabhängigkeit.",
+        "Traditionell eine landwirtschaftliche Gemeinde.",
+        "Hat einen starken Gemeinschaftsgeist."
+      ],
+      "factsAdvancedHu": [
+        "Történelmi falu a Demerara nyugati partján.",
+        "Egyike az első, felszabadított rabszolgák által vásárolt falvaknak.",
+        "Az 1840-es években alapították.",
+        "Egy volt kormányzóról nevezték el.",
+        "Az afro-guyanai örökség fontos helyszíne.",
+        "Az önrendelkezés és a függetlenség szimbóluma.",
+        "Hagyományosan mezőgazdasági közösség volt.",
+        "Erős közösségi szellemmel rendelkezik."
+      ],
+      "factsAdvancedRo": [
+        "Sat istoric pe malul de vest al Demerarei.",
+        "Unul dintre primele sate cumpărate de africani eliberați.",
+        "Fondat în anii 1840.",
+        "Numit după un fost guvernator.",
+        "Situl important al moștenirii afro-guyaneze.",
+        "Simbol al autodeterminării și independenței.",
+        "În mod tradițional, o comunitate agricolă.",
+        "Are un spirit comunitar puternic."
+      ],
+      "factsAdvancedEn": [
+        "Historic village on the West Bank of Demerara.",
+        "One of the first villages purchased by freed Africans.",
+        "Founded in the 1840s.",
+        "Named after a former governor.",
+        "Important site of Afro-Guyanese heritage.",
+        "A symbol of self-determination and independence.",
+        "Traditionally an agricultural community.",
+        "Has a strong community spirit."
+      ]
+    }
+  ]
+}

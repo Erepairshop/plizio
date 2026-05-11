@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-parliament-building-history-v2",
+      "descriptionAdvancedDe": "Das Parlamentsgebäude in Georgetown ist ein Symbol der Souveränität und der demokratischen Geschichte Guyanas. Das neoklassizistische Gebäude wurde 1834 fertiggestellt und beherbergt die Nationalversammlung des Landes. Seine elegante, stuckverzierte Fassade und die symmetrische Gestaltung strahlen Autorität und Beständigkeit aus. Das Gebäude wurde vom Architekten Joseph Hadfield entworfen und hat eine immense historische Bedeutung, da hier 1838 die formelle Emanzipation der Sklaven in Britisch-Guayana verkündet wurde. Im Inneren befindet sich der Plenarsaal, in dem die Gesetze des Landes debattiert und verabschiedet werden. Das Gebäude steht im Herzen des administrativen Zentrums von Georgetown und ist umgeben von anderen wichtigen historischen Bauten. Es ist nicht nur ein Arbeitsplatz für Politiker, sondern auch ein lebendiges Denkmal, das an den langen Weg Guyanas zur Unabhängigkeit und zur Schaffung einer eigenen nationalen Identität erinnert.",
+      "descriptionAdvancedHu": "A georgetowni Parlament épülete Guyana szuverenitásának és demokratikus történelmének szimbóluma. Az 1834-ben elkészült neoklasszicista épület ad otthont az ország Nemzetgyűlésének. Elegáns, stukkóval díszített homlokzata és szimmetrikus kialakítása tekintélyt és állandóságot sugároz. Az épületet Joseph Hadfield építész tervezte, és óriási történelmi jelentőséggel bír, mivel itt hirdették ki hivatalosan a rabszolgák emancipációját Brit Guyanában 1838-ban. Belsejében található az ülésterem, ahol az ország törvényeit vitatják meg és fogadják el. Az épület Georgetown közigazgatási központjának szívében áll, más fontos történelmi épületekkel körülvéve. Nemcsak a politikusok munkahelye, hanem egy élő emlékmű is, amely Guyana függetlenséghez és saját nemzeti identitásának megteremtéséhez vezető hosszú útjára emlékeztet.",
+      "descriptionAdvancedRo": "Clădirea Parlamentului din Georgetown este un simbol al suveranității și al istoriei democratice a Guyanei. Finalizată în 1834, clădirea neoclasică găzduiește Adunarea Națională a țării. Fațada sa elegantă, decorată cu stucaturi, și designul simetric emană autoritate și permanență. Clădirea a fost proiectată de arhitectul Joseph Hadfield și are o importanță istorică imensă, deoarece aici a fost proclamată oficial emanciparea sclavilor din Guyana Britanică în 1838. În interior se află camera de dezbateri, unde sunt discutate și adoptate legile țării. Clădirea se află în inima centrului administrativ din Georgetown, înconjurată de alte clădiri istorice importante. Nu este doar un loc de muncă pentru politicieni, ci și un monument viu care amintește de drumul lung al Guyanei către independență și crearea propriei identități naționale.",
+      "descriptionAdvancedEn": "The Parliament Building in Georgetown is a symbol of Guyana's sovereignty and democratic history. Completed in 1834, the neoclassical building houses the country's National Assembly. Its elegant, stucco-decorated facade and symmetrical design exude authority and permanence. The building was designed by architect Joseph Hadfield and holds immense historical significance, as it was here that the formal emancipation of slaves in British Guiana was proclaimed in 1838. Inside is the debating chamber, where the nation's laws are debated and passed. The building stands in the heart of Georgetown's administrative center, surrounded by other important historical structures. It is not just a workplace for politicians but also a living monument that commemorates Guyana's long journey to independence and the creation of its own national identity.",
+      "factsAdvanced": [
+        "Fertiggestellt im Jahr 1834.",
+        "Entworfen vom Architekten Joseph Hadfield.",
+        "Sitz der Nationalversammlung von Guyana.",
+        "Stilrichtung des Neoklassizismus.",
+        "Ort der Proklamation der Sklavenemanzipation 1838.",
+        "Befindet sich im administrativen Herzen von Georgetown.",
+        "Die Wände des Plenarsaals sind mit Mahagoni verkleidet.",
+        "Ein zentrales Symbol der guyanischen Demokratie."
+      ]
+    }
+  ]
+}

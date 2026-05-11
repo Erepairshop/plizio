@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-1823-rebellion-monument-history-v2",
+      "descriptionAdvancedDe": "Das Denkmal für den Demerara-Aufstand von 1823, das sich an der Seawall Road in Georgetown befindet, erinnert an einen der größten Sklavenaufstände in der Geschichte von Britisch-Guayana. Über 10.000 versklavte Menschen forderten ihre Freiheit und bessere Lebensbedingungen. Obwohl der Aufstand brutal niedergeschlagen wurde, hatte er weitreichende Folgen und trug zur Beschleunigung der Abschaffung der Sklaverei im Britischen Empire bei. Das Denkmal selbst stellt eine stilisierte Figur dar, die ihre Ketten sprengt, ein starkes Symbol für den Kampf um Befreiung. Es ist ein Ort der Besinnung, der die Besucher an den unermesslichen Mut und das Opfer derjenigen erinnert, die es wagten, sich der Unterdrückung zu widersetzen. Das Monument unterstreicht die Bedeutung dieses historischen Ereignisses für die Formung der guyanischen Nation und dient als ständige Mahnung an den unbezwingbaren menschlichen Geist im Streben nach Freiheit.",
+      "descriptionAdvancedHu": "Az 1823-as Demerara-felkelés emlékműve, amely a georgetowni Seawall Roadon található, Brit Guyana történetének egyik legnagyobb rabszolgafelkelésének állít emléket. Több mint 10 000 rabszolga követelte szabadságát és jobb életkörülményeket. Bár a felkelést brutálisan leverték, messzemenő következményei voltak, és hozzájárultak a rabszolgaság eltörlésének felgyorsításához a Brit Birodalomban. Maga az emlékmű egy stilizált alakot ábrázol, aki széttöri láncait, ami a felszabadulásért folytatott küzdelem erős szimbóluma. Az elmélkedés helyszíne, amely a látogatókat azoknak a mérhetetlen bátorságára és áldozatára emlékezteti, akik merték szembeszállni az elnyomással. Az emlékmű hangsúlyozza e történelmi esemény fontosságát a guyanai nemzet formálásában, és állandó emlékeztetőül szolgál a szabadságra törekvő, legyőzhetetlen emberi szellemre.",
+      "descriptionAdvancedRo": "Monumentul Revoltei Demerara din 1823, situat pe Seawall Road din Georgetown, comemorează una dintre cele mai mari revolte de sclavi din istoria Guyanei Britanice. Peste 10.000 de sclavi au cerut libertate și condiții de viață mai bune. Deși revolta a fost înăbușită cu brutalitate, a avut consecințe de anvergură și a contribuit la accelerarea abolirii sclaviei în Imperiul Britanic. Monumentul însuși reprezintă o figură stilizată care își rupe lanțurile, un simbol puternic al luptei pentru eliberare. Este un loc de reflecție, amintind vizitatorilor de curajul și sacrificiul imens al celor care au îndrăznit să se opună opresiunii. Monumentul subliniază importanța acestui eveniment istoric în formarea națiunii guyaneze și servește ca un memento constant al spiritului uman indomabil în căutarea libertății.",
+      "descriptionAdvancedEn": "The 1823 Demerara Rebellion Monument, located on Georgetown's Seawall Road, commemorates one of the largest slave uprisings in the history of British Guiana. Over 10,000 enslaved people demanded their freedom and better living conditions. Although the rebellion was brutally suppressed, it had far-reaching consequences and contributed to accelerating the abolition of slavery in the British Empire. The monument itself depicts a stylized figure breaking free from chains, a powerful symbol of the struggle for liberation. It is a place of reflection, reminding visitors of the immense courage and sacrifice of those who dared to resist oppression. The monument underscores the importance of this historical event in shaping the Guyanese nation and serves as a constant reminder of the indomitable human spirit in the pursuit of freedom.",
+      "factsAdvanced": [
+        "Erinnert an den Demerara-Aufstand von 1823.",
+        "Mehr als 10.000 versklavte Menschen nahmen teil.",
+        "Der Aufstand wurde brutal niedergeschlagen.",
+        "Trug zur Beschleunigung der Abschaffung der Sklaverei bei.",
+        "Befindet sich an der Seawall Road in Georgetown.",
+        "Das Denkmal symbolisiert das Sprengen der Ketten.",
+        "Ein wichtiger Ort des Gedenkens an den Kampf um Freiheit.",
+        "Ehrt den Mut der Aufständischen."
+      ]
+    }
+  ]
+}

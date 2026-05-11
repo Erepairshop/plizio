@@ -9,10 +9,10 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-79.183, 43.820],
     name: { de: "Toronto Zoo", hu: "Torontói Állatkert", ro: "Grădina Zoologică Toronto", en: "Toronto Zoo" },
     description: {
-      de: "Der Toronto Zoo ist Kanadas größter Zoo am östlichen Stadtrand von Toronto.",
-      hu: "A Toronto Zoo Kanada egyik legnagyobb állatkertje. Több kontinens állatait mutatja be nagy, tematikus kifutókban.",
-      ro: "Toronto Zoo este una dintre cele mai mari gr?dini zoologice din Canada. Are zone tematice ?i programe de conservare pentru multe specii.",
-      en: "Toronto Zoo is one of the largest zoos in Canada and home to thousands of animals. It focuses on conservation, education, and large habitat-style exhibits."
+      de: "Der Toronto Zoo ist der größte Zoo Kanadas und beherbergt über 5.000 Tiere in sieben verschiedenen geografischen Regionen.",
+      hu: "Kanada legnagyobb állatkertje, amely több mint 700 holdon terül el és több ezer állatfajnak ad otthont.",
+      ro: "Cea mai mare grădină zoologică din Canada, găzduind peste 5.000 de animale reprezentând peste 450 de specii din întreaga lume.",
+      en: "The largest zoo in Canada, featuring over 5,000 animals across seven zoogeographic regions."
     },
     descriptionAdvanced: {
       de: "Der Toronto Zoo ist der größte Tiergarten in Kanada und beheimatet Tausende Tiere aus verschiedenen Klimazonen. Er engagiert sich stark für Artenschutzprogramme, insbesondere für bedrohte kanadische Arten wie die Schwarzfußiltisse. Biologie K6 — Artenvielfalt und Naturschutz."
@@ -27,10 +27,10 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-114.025, 51.045],
     name: { de: "Calgary Zoo", hu: "Calgary Állatkert", ro: "Grădina Zoologică Calgary", en: "Calgary Zoo" },
     description: {
-      de: "Der Calgary Zoo liegt nahe dem Bow River und gehört zu den ältesten Zoos des Landes.",
-      hu: "A Calgary Zoo Alberta egyik legismertebb állatkertje. A Bow folyó melletti területen kanadai és nemzetközi állatfajokat is bemutat.",
-      ro: "Calgary Zoo se afl? la est de centrul ora?ului Calgary. Este cunoscut pentru colec?iile sale de animale ?i pentru proiectele de conservare.",
-      en: "Calgary Zoo is a major city zoo on St. George's Island in Calgary. It is known for wildlife conservation work and popular themed habitats."
+      de: "Einer der meistbesuchten Zoos Kanadas, bekannt für seine vielfältigen Habitate von der kanadischen Wildnis bis zur afrikanischen Savanne.",
+      hu: "Alberta tartomány leglátogatottabb állatkertje, amely a St. George's Islanden található a Bow-folyó közepén.",
+      ro: "O grădină zoologică de top situată pe o insulă în râul Bow, renumită pentru programele sale de conservare și parcul de dinozauri.",
+      en: "A top-rated zoo located on St. George's Island, known for its botanical gardens and prehistoric park."
     },
     descriptionAdvanced: {
       de: "Der Calgary Zoo ist einer der meistbesuchten Zoos in Nordamerika und bekannt für seine naturnahe Gestaltung, insbesondere in den Themenbereichen wie der kanadischen Wildnis und dem Pinguin-Gehege. Biologie K7 — Zoologie."
@@ -45,10 +45,10 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-72.748, 45.391],
     name: { de: "Zoo de Granby", hu: "Granby Állatkert", ro: "Grădina Zoologică Granby", en: "Granby Zoo" },
     description: {
-      de: "Der Zoo de Granby ist ein großer Tierpark im Süden Québecs.",
-      hu: "A Granby Zoo Québec egyik legnagyobb állatkertje. Családi látogatóhely, amely állatbemutatókat és szezonális programokat kínál.",
-      ro: "Zoo de Granby este o gr?din? zoologic? important? din Quebec. Include zone pentru animale s?lbatice ?i spa?ii de agrement pentru familii.",
-      en: "Granby Zoo is a major family destination in Quebec that combines a zoo, water park, and amusement attractions. It is one of the province's most popular outdoor leisure sites."
+      de: "Der Zoo de Granby in Québec ist ein beliebtes Ausflugsziel mit einer großen Vielfalt an exotischen Tieren und einem angeschlossenen Wasserpark.",
+      hu: "Québec tartomány legnagyobb állatkertje, amely az állatbemutatók mellett egy víziparkkal is várja a látogatókat.",
+      ro: "Una dintre cele mai importante atracții turistice din Quebec, oferind o experiență complexă cu grădină zoologică, parc acvatic și amuzament.",
+      en: "A major zoo in Quebec that is home to over 1,500 animals and features a popular water park."
     },
     descriptionAdvanced: {
       de: "Der Zoo de Granby in der Provinz Québec ist ein beliebtes Familienziel, das neben exotischen Tieren auch einen Wasserpark bietet. Der Zoo spielt eine wichtige Rolle bei der Umweltbildung in der frankophonen Region Kanadas. Biologie K5 — Umweltbildung."
@@ -63,10 +63,10 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-123.131, 49.300],
     name: { de: "Vancouver Aquarium", hu: "Vancouveri Akvárium", ro: "Acvariul din Vancouver", en: "Vancouver Aquarium" },
     description: {
-      de: "Das Vancouver Aquarium ist ein maritimes Zentrum im Stanley Park.",
-      hu: "A Vancouver Aquarium a Stanley Park egyik fő látványossága. Tengeri élővilágot, partmenti fajokat és oktatási programokat mutat be.",
-      ro: "Vancouver Aquarium din Stanley Park prezint? specii marine ?i programe de cercetare. Este un reper cunoscut al ora?ului Vancouver.",
-      en: "The Vancouver Aquarium is a major marine life centre in Stanley Park. It is known for conservation work, education, and rescue programs for sea animals."
+      de: "Das im Stanley Park gelegene Aquarium ist ein weltweit anerkanntes Zentrum für Meeresbiologie und den Schutz der Ozeane.",
+      hu: "A Stanley Parkban található közintézmény, amely Kanada első és egyik legnagyobb tengeri élővilágát bemutató központja.",
+      ro: "Situat în inima Parcului Stanley, acest acvariu este un centru global pentru cercetarea marină și reabilitarea animalelor sălbatice.",
+      en: "Located in Stanley Park, this facility is a center for marine research, rehabilitation, and education."
     },
     descriptionAdvanced: {
       de: "Das Vancouver Aquarium im Stanley Park ist eine führende Einrichtung für die Erforschung und den Schutz mariner Lebensräume, besonders im Pazifischen Ozean. Es ist zudem ein wichtiges Rettungszentrum für verletzte Meeresbewohner der Region. Biologie K7 — Meeresbiologie."
@@ -81,10 +81,10 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-79.386, 43.642],
     name: { de: "Ripley's Aquarium of Canada", hu: "Ripley's Akvárium, Kanada", ro: "Acvariul Ripley din Canada", en: "Ripley's Aquarium of Canada" },
     description: {
-      de: "Ripley's Aquarium of Canada ist ein großes Aquarium im Zentrum von Toronto.",
-      hu: "A Ripley's Aquarium of Canada Toronto belvárosának egyik népszerű látványossága. Hatalmas vízi élőhelyekkel és üvegtunellel mutatja be a tengeri világot.",
-      ro: "Ripley's Aquarium of Canada este acvariul din Toronto, aproape de CN Tower. Este cunoscut pentru tunelul subacvatic ?i pentru rechini.",
-      en: "Ripley's Aquarium of Canada is a major indoor aquarium in downtown Toronto near the CN Tower. Its underwater tunnel makes it one of the city's most popular attractions."
+      de: "Dieses moderne Aquarium im Herzen von Toronto bietet faszinierende Einblicke in Unterwasserwelten direkt neben dem CN Tower.",
+      hu: "Toronto belvárosában, a CN Tower lábánál fekvő modern akvárium, amely lenyűgöző vízalatti alagutakkal rendelkezik.",
+      ro: "O atracție spectaculoasă din Toronto, oferind un tunel subacvatic lung prin care vizitatorii pot admira rechini și raze.",
+      en: "A massive indoor aquarium in Toronto featuring a walk-through shark tunnel and interactive exhibits."
     },
     descriptionAdvanced: {
       de: "Das Ripley's Aquarium of Canada in Toronto besticht durch einen der längsten Unterwassertunnel Nordamerikas, der den Besuchern eine hautnahe Begegnung mit Haien und Rochen ermöglicht. Biologie K6 — Leben im Ozean."
@@ -100,14 +100,14 @@ export const poiExtraCanadaLifeV2: POI[] = [
     name: { de: "African Lion Safari", hu: "Afrikai Oroszlán Szafari", ro: "Safariul Leilor Africani", en: "African Lion Safari" },
     description: {
       de: "Ein Drive-Through-Wildpark, in dem Besucher Löwen, Giraffen und andere Tiere in großen Gehegen beobachten können.",
-      hu: "Az African Lion Safari Ontario egyik legismertebb szafari parkja. A látogatók autóval járhatják be a nagy, nyílt kifutókat.",
-      ro: "African Lion Safari este un parc de safari din sudul Ontariului, unde animalele pot fi observate din ma?in?. Este orientat spre vizitare ?i educa?ie.",
+      hu: "Ontario tartományban található szafari park, ahol a látogatók saját autójukkal hajthatnak át a szabadon élő vadállatok között.",
+      ro: "Un parc safari în aer liber unde vizitatorii pot conduce prin habitate mari pentru a vedea animalele în libertate relativă.",
       en: "A drive-through wildlife park where visitors can see lions, giraffes, and other animals in large reserves."
     },
     facts: {
       de: ["Drive-Through-Reservate", "Bootsfahrt 'African Queen'", "Vogel- und Tiershows", "Erfolgreiches Zuchtprogramm für Nashörner"],
-      hu: ["Ontarioban, Cambridge közelében van", "Szafari park", "Autós bejárásra épül"],
-      ro: ["?n sudul Ontariului", "Parc de safari", "Vizitare cu ma?ina"],
+      hu: ["1969-ben nyitották meg Hamilton közelében.", "Több mint 100 faj és 1000 állat látható itt.", "Nemzetközileg elismert az ázsiai elefántok tenyésztésében."],
+      ro: ["Situat în Hamilton, Ontario", "Peste 1.000 de animale", "Accent pe creșterea speciilor rare"],
       en: ["Drive-through game reserves", "'African Queen' boat cruise", "Bird and animal shows", "Successful rhino breeding program"]
     }, image: "/poi-images/african-lion-safari-life-v2.webp"},
   {
@@ -135,16 +135,16 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-106.60, 52.15],
     name: { de: "Saskatoon Forestry Farm Park & Zoo", hu: "Saskatoon Erdészeti Farm Park és Állatkert", ro: "Parcul și Grădina Zoologică Saskatoon Forestry Farm", en: "Saskatoon Forestry Farm Park & Zoo" },
     description: {
-      de: "Der Forestry Farm Park & Zoo in Saskatoon verbindet Stadtpark und kleinen Zoo.",
+      de: "Ein einzigartiger Zoo und Park in Saskatchewan, der aus einer historischen Baumschule hervorgegangen ist und heimische sowie exotische Tiere zeigt.",
       hu: "A Saskatoon Forestry Farm Park & Zoo egy park és kis állatkert Saskatchewanban. Történeti gazdasági környezetet és állatbemutatókat is kínál.",
-      ro: "Saskatoon Forestry Farm Park and Zoo combin? un parc istoric cu o mic? gr?din? zoologic?. Este un loc popular pentru familii ?n Saskatchewan.",
-      en: "Saskatoon Forestry Farm Park & Zoo combines a historic park, gardens, and a small zoo. It is a popular place to see prairie animals and spend time outdoors."
+      ro: "Un sit istoric național care combină o grădină zoologică, un parc și o fermă forestieră, fiind inima verde a orașului Saskatoon.",
+      en: "A combined zoo and botanical garden in Saskatoon that showcases animals from various habitats."
     },
     facts: {
-      de: ["In Saskatoon", "Ehemalige Baumschule", "Familienziel mit Tieren"],
+      de: ["Nationale historische Stätte Kanadas", "Fokus auf Bildung und Naturschutz in den Prairien", "Beinhaltet wunderschön gepflegte Gärten"],
       hu: ["Saskatoonban található", "Park és állatkert együtt", "Történeti gazdasági helyszín"],
-      ro: ["?n Saskatoon", "Parc istoric ?i zoo", "Popular pentru familii"],
-      en: ["In Saskatoon", "A historic tree nursery site", "Shows native prairie animals"]
+      ro: ["Singura zoo acreditată din SK", "Situat pe o fostă pepinieră", "Găzduiește specii nordice"],
+      en: ["National Historic Site", "Saskatoon's only zoo", "Diverse wildlife displays"]
     }, image: "/poi-images/saskatoon-forestry-farm-park-zoo-life-v2.webp"},
   {
     id: "assiniboine-park-zoo-life-v2",
@@ -155,13 +155,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     description: {
       de: "Ein Zoo in Winnipeg, der für seine preisgekrönte Ausstellung 'Reise nach Churchill' bekannt ist.",
       hu: "Winnipegi állatkert, amely a díjnyertes 'Utazás Churchillbe' kiállításáról ismert.",
-      ro: "Assiniboine Park Zoo din Winnipeg este cunoscut pentru accentul pus pe fauna nordic?. Include zona Journey to Churchill.",
+      ro: "Cunoscută pentru expoziția revoluționară „Journey to Churchill”, unde urșii polari pot fi observați înotând deasupra vizitatorilor.",
       en: "A zoo in Winnipeg renowned for its award-winning 'Journey to Churchill' exhibit."
     },
     facts: {
       de: ["'Reise nach Churchill' Ausstellung", "Unterwasser-Beobachtungstunnel für Eisbären", "Schutz von bedrohten Arten", "Teil des größeren Assiniboine Parks"],
       hu: ["'Utazás Churchillbe' kiállítás", "Víz alatti megfigyelőalagút a jegesmedvékhez", "Veszélyeztetett fajok védelme", "A nagyobb Assiniboine Park része"],
-      ro: ["?n Winnipeg", "Zoo urban", "Legat de fauna nordic?"],
+      ro: ["Cea mai veche zoo din Winnipeg", "Focus pe biodiversitatea arctică", "Centru de conservare a ursului polar"],
       en: ["'Journey to Churchill' exhibit", "Underwater polar bear viewing tunnels", "Conservation of threatened species", "Part of the larger Assiniboine Park"]
     }, image: "/poi-images/assiniboine-park-zoo-life-v2.webp"},
   {
@@ -189,13 +189,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-64.887, 46.136],
     name: { de: "Magnetic Hill Zoo", hu: "Magnetic Hill Állatkert", ro: "Grădina Zoologică Magnetic Hill", en: "Magnetic Hill Zoo" },
     description: {
-      de: "Der Magnetic Hill Zoo ist der wichtigste Zoo in der Region Moncton.",
+      de: "Der größte Zoo in den kanadischen Atlantikprovinzen bietet ein Zuhause für Tiere aus aller Welt in der Nähe des berühmten Magnetic Hill.",
       hu: "Atlanti-Kanada legnagyobb állatkertje, változatos állatgyűjteménnyel.",
       ro: "Cea mai mare grădină zoologică din Canada Atlantică, cu o colecție diversă de animale.",
       en: "The largest zoo in Atlantic Canada, with a diverse collection of animals."
     },
     facts: {
-      de: ["Bei Moncton", "In New Brunswick", "Teil der Magnetic-Hill-Attraktionen"],
+      de: ["Liegt in Moncton, New Brunswick", "Bekannt für seine Löwen- und Tigergehege", "Großer Streichelzoo für Kinder"],
       hu: ["A Magnetic Hill Park része", "Több mint 600 állat", "Amuri tigrisek és oroszlánok", "Oktatásra fókuszál"],
       ro: ["Parte a parcului Magnetic Hill", "Peste 600 de animale", "Tigri amur și lei", "Accent pe educație"],
       en: ["Part of the Magnetic Hill park complex", "Over 600 animals", "Amur tigers and lions", "Focus on education"]
@@ -336,13 +336,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     description: {
       de: "Im Sommer versammeln sich Tausende von Belugawalen in der Mündung des Churchill River.",
       hu: "Nyáron több ezer beluga gyűlik össze a Churchill-folyó torkolatában.",
-      ro: "Churchill, pe ??rmul golfului Hudson, este cunoscut pentru belugalele care apar vara. Zona atrage vizitatori interesa?i de fauna arctic?.",
+      ro: "Un fenomen natural uimitor în Manitoba, unde mii de balene beluga se adună în estuarul râului Churchill în fiecare vară.",
       en: "In the summer, thousands of beluga whales gather in the Churchill River estuary."
     },
     facts: {
       de: ["'Kanarienvögel der Meere'", "Tausende im Sommer", "Kajak- und Bootstouren", "Kalben in wärmeren Flussmündungen"],
       hu: ["'A tengerek kanárijai'", "Több ezer nyáron", "Kajak- és hajótúrák", "Borjadzás a melegebb folyótorkolatokban"],
-      ro: ["?n Manitoba", "Pe golful Hudson", "Belugale de var?"],
+      ro: ["Capitala mondială a belugilor", "Se pot face tururi cu caiacul", "Peste 3.000 de balene sosesc anual"],
       en: ["'Canaries of the sea'", "Thousands gather in summer", "Kayaking and boat tours available", "Calve in the warmer estuary waters"]
     }, image: "/poi-images/churchill-beluga-whales-life-v2.webp"},
   {
@@ -388,15 +388,15 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-72.9, 46.7],
     name: { de: "La Mauricie Schwarzbären", hu: "La Mauricie feketemedvék", ro: "Urșii negri din La Mauricie", en: "La Mauricie Black Bears" },
     description: {
-      de: "Im La-Mauricie-Gebiet leben Schwarzbären in den Wäldern und Seen des Nationalparks.",
+      de: "Der La Mauricie Nationalpark in Québec ist berühmt für seine dichten Wälder und als idealer Ort zur Beobachtung von Schwarzbären.",
       hu: "A La Mauricie térsége Québec erdős vidékeinek jellegzetes fekete medvéiről ismert. Az erdők és tavak természetes élőhelyet adnak nekik.",
-      ro: "Parcul Na?ional La Mauricie ad?poste?te ur?i negri ?i p?duri boreale extinse. Este o arie natural? important? din Quebec.",
+      ro: "Parcul Național La Mauricie oferă un habitat ideal pentru ursul negru canadian, fiind un loc excelent pentru observarea acestora în siguranță.",
       en: "La Mauricie National Park is an ideal habitat for black bears in Quebec."
     },
     facts: {
-      de: ["In Québec", "Schwarzbären-Lebensraum", "Wald- und Seenlandschaft"],
+      de: ["Hohe Dichte an Schwarzbären in natürlicher Umgebung", "Geführte Touren zur Wildtierbeobachtung möglich", "Wichtiges Schutzgebiet für kanadische Waldbewohner"],
       hu: ["Québec erdős vidékéhez kötődik", "Fekete medvék élőhelye", "Tavak és erdők jellemzik"],
-      ro: ["?n Quebec", "Parc na?ional", "Ur?i negri ?i p?duri boreale"],
+      ro: ["Densitate mare de urși negri", "Tururi de observare ghidate", "Peisaj de pădure mixtă densă"],
       en: ["Healthy black bear population", "Guided observation tours are available", "Omnivorous diet", "Avoid feeding them"]
     }, image: "/poi-images/la-mauricie-black-bears-life-v2.webp"},
   {
@@ -407,13 +407,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     name: { de: "Calaway Park", hu: "Calaway Park", ro: "Parcul Calaway", en: "Calaway Park" },
     description: {
       de: "Der größte Freiluft-Vergnügungspark im Westen Kanadas, westlich von Calgary gelegen.",
-      hu: "A Calaway Park Alberta egyik legnagyobb vidámparkja, Calgary közelében. Családi szórakozóhely játékokkal és szezonális attrakciókkal.",
+      hu: "Nyugat-Kanada legnagyobb szabadtéri vidámparkja, amely Calgary közelében, a Sziklás-hegység lábánál fekszik.",
       ro: "Cel mai mare parc de distracții în aer liber din vestul Canadei, situat la vest de Calgary.",
       en: "Calaway Park is a large family amusement park west of Calgary. It offers rides, games, and seasonal entertainment for visitors of all ages."
     },
     facts: {
       de: ["Über 30 Fahrgeschäfte", "Live-Unterhaltung", "Campingplatz in der Nähe", "Familienfreundlich"],
-      hu: ["Calgary közelében van", "Nagy vidámpark", "Családi attrakciók helyszíne"],
+      hu: ["1982-ben nyílt meg.", "32 különböző játékot és hullámvasutat kínál.", "Szezonálisan, tavasztól őszig üzemel."],
       ro: ["Peste 30 de atracții", "Divertisment live", "Camping în apropiere", "Prielnic pentru familii"],
       en: ["West of Calgary", "More than 30 rides", "Popular summer family destination"]
     }, image: "/poi-images/calaway-park-life-v2.webp"},
@@ -444,13 +444,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     description: {
       de: "Ein interaktives Wissenschaftszentrum in einer markanten geodätischen Kuppel.",
       hu: "Interaktív tudományos központ egy jellegzetes geodéziai kupolában.",
-      ro: "Science World din Vancouver este centrul ?tiin?ific de la cap?tul False Creek, recunoscut pentru domul s?u geodezic. Expune teme de ?tiin?? ?i tehnologie ?ntr-un format interactiv.",
+      ro: "O emblemă a orașului Vancouver cu domul său geodezic, acest centru de știință oferă expoziții interactive fascinante pentru toate vârstele.",
       en: "An interactive science centre housed in a distinctive geodesic dome."
     },
     facts: {
       de: ["Praktische Ausstellungen", "OMNIMAX-Theater", "Ursprünglich der Expo '86 Pavillon", "Fokus auf spielerisches Lernen"],
       hu: ["Gyakorlati kiállítások", "OMNIMAX filmszínház", "Eredetileg az Expo '86 pavilonja volt", "Fókuszban a játékos tanulás"],
-      ro: ["?n Vancouver", "Pe False Creek", "Centru interactiv de ?tiin??"],
+      ro: ["Găzduit în clădirea Expo '86", "Teatru OMNIMAX gigant", "Promovează educația STEM"],
       en: ["Hands-on exhibits", "OMNIMAX theatre", "Originally the Expo '86 pavilion", "Focus on playful learning"]
     }, image: "/poi-images/science-world-vancouver-life-v2.webp"},
   {
@@ -532,13 +532,13 @@ export const poiExtraCanadaLifeV2: POI[] = [
     coords: [-73.55, 45.56],
     name: { de: "Montreal Insektarium", hu: "Montréali Rovartani Múzeum", ro: "Insectariul din Montreal", en: "Montreal Insectarium" },
     description: {
-      de: "Das Montreal Insectarium ist ein spezialisiertes Museum für Insekten in Montréal.",
+      de: "Das Montreal Insectarium gehört zum Espace pour la vie und ist eines der größten Insektenmuseen der Welt, das die Vielfalt der Gliederfüßer feiert.",
       hu: "A montréali Insectarium a rovarok bemutatására és kutatására épülő intézmény. A város Space for Life negyedének fontos része.",
       ro: "Unul dintre cele mai mari muzee de insecte din America de Nord, parte a complexului \\\"Space for Life\\\".",
       en: "The Montreal Insectarium is a major insect museum in Montreal and part of the city's Espace pour la Vie network. It introduces visitors to insects, habitats, and biodiversity."
     },
     facts: {
-      de: ["In Montréal", "Teil von Espace pour la vie", "Größtes Insektenmuseum Kanadas"],
+      de: ["Beherbergt eine Sammlung von über 250.000 Exemplaren", "Interaktive Ausstellungen zur Welt der Insekten", "Architektonisch beeindruckendes neues Gebäude"],
       hu: ["Montrealban van", "Rovarokra specializálódott", "A Space for Life része"],
       ro: ["Mii de insecte vii și naturalizate", "Seră de fluturi", "Fermă de furnici", "Renovat recent complet"],
       en: ["In Montreal's Olympic Park", "Dedicated to insects", "Part of Espace pour la Vie"]

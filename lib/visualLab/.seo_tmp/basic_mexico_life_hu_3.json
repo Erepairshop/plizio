@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": "Mexikó legnagyobb szigete a Kaliforniai-öbölben, amely a seri őslakos nép hagyományos területének számít és különleges sivatagi élővilággal rendelkezik.",
+      "facts": ["Kaliforniai-öböl", "Legnagyobb sziget", "Seri őslakosok", "Sivatagi élővilág"]
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "Lakatlan szigetcsoport a Csendes-óceánon, amely híres rejtett strandjáról és gazdag tengeri madárvilágáról.",
+      "facts": ["Csendes-óceán", "Lakatlan szigetek", "Rejtett strand", "Madárvilág"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Természetvédelmi terület a Yucatán-félsziget csücskénél, amely tengeri madarak ezreinek és tengeri teknősöknek biztosít fészkelőhelyet.",
+      "facts": ["Yucatán-félsziget", "Természetvédelem", "Madárparadicsom", "Teknősök"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "UNESCO világörökségi táj Jalisco államban, ahol a híres tequila alapanyagául szolgáló kék agavét termesztik évszázadok óta.",
+      "facts": ["Jalisco állam", "UNESCO helyszín", "Kék agavé", "Tequila"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "Baja California leghíresebb borvidéke, amely mediterrán éghajlatával kiváló feltételeket biztosít a modern borászat számára.",
+      "facts": ["Baja California", "Borvidék", "Mediterrán éghajlat", "Modern borászat"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "Veracruz állam termékeny hegyvidéki területei, ahol kiváló minőségű, gazdag aromájú kávét termesztenek a helyi farmokon.",
+      "facts": ["Veracruz állam", "Kávétermesztés", "Hegyvidék", "Minőségi kávé"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Chiapas állam magasföldjein elterülő kávéültetvények, amelyek híresek a fenntartható és árnyékban termesztett kávékülönlegességeikről.",
+      "facts": ["Chiapas állam", "Kávéültetvények", "Magasföld", "Fenntartható termesztés"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Oaxaca állam hagyományos központja a mezcal előállításnak, ahol évszázados módszerekkel dolgozzák fel az agavét.",
+      "facts": ["Oaxaca állam", "Mezcal főváros", "Hagyományos feldolgozás", "Agavé"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Michoacán állam, amely a világ egyik legnagyobb avokádótermelő régiója, hatalmas és zöldellő ültetvényekkel.",
+      "facts": ["Michoacán állam", "Avokádótermelés", "Hatalmas ültetvények", "Mezőgazdaság"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Sinaloa állam termékeny területei, ahol kiterjedt mangóültetvények biztosítják a kiváló minőségű gyümölcsöt az egész ország számára.",
+      "facts": ["Sinaloa állam", "Mangóültetvények", "Mezőgazdaság", "Gyümölcstermesztés"]
+    }
+  ]
+}

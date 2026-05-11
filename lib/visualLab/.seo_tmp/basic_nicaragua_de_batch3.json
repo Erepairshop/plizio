@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "desembocadura-de-rio-grande-cities-v2",
+      "description": "Desembocadura de Río Grande ist eine Küstengemeinde an der Mündung des Río Grande, bekannt für ihre Fischerei.",
+      "facts": ["Küstengemeinde", "Fischerei", "Río Grande"]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "description": "Corn Island (Islas del Maíz) sind zwei Inseln in der Karibik, bekannt für ihre Korallenriffe und entspannte Atmosphäre.",
+      "facts": ["Karibische Inseln", "Korallenriffe", "Entspannte Atmosphäre"]
+    },
+    {
+      "id": "la-cruz-de-rio-grande-cities-v2",
+      "description": "La Cruz de Río Grande ist eine ländliche Gemeinde in der Autonomen Region Nordkaribik, bekannt für ihre indigenen Kulturen.",
+      "facts": ["Ländliche Gemeinde", "Indigene Kulturen", "Nordkaribik"]
+    },
+    {
+      "id": "el-tortuguero-cities-v2",
+      "description": "El Tortuguero in der Autonomen Region Südkaribik ist bekannt für seine natürliche Schönheit und den Tortuguero-Fluss.",
+      "facts": ["Natürliche Schönheit", "Tortuguero-Fluss", "Südkaribik"]
+    },
+    {
+      "id": "paiwas-cities-v2",
+      "description": "Paiwas in der Autonomen Region Südkaribik ist eine landwirtschaftliche Gemeinde, bekannt für Kakao und Kaffee.",
+      "facts": ["Landwirtschaftliche Gemeinde", "Kakao und Kaffee", "Südkaribik"]
+    },
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "description": "Morrito am Río San Juan ist ein kleiner Fischerort, bekannt für seine Ruhe und die Nähe zum Nicaragua-See.",
+      "facts": ["Fischerort", "Río San Juan", "Nicaragua-See"]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "description": "San Jorge in Rivas ist eine Hafenstadt am Nicaragua-See, ein wichtiger Fährhafen zur Insel Ometepe.",
+      "facts": ["Hafenstadt", "Nicaragua-See", "Fährhafen"]
+    },
+    {
+      "id": "potosi-rivas-cities-v2",
+      "description": "Potosí in Rivas ist eine kleine Gemeinde, bekannt für ihre Thermalquellen und die Nähe zu den Vulkanen.",
+      "facts": ["Thermalquellen", "Vulkane", "Rivas"]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "description": "Buenos Aires in Rivas ist eine ruhige landwirtschaftliche Gemeinde, bekannt für den Anbau von Reis und Zuckerrohr.",
+      "facts": ["Landwirtschaftliche Gemeinde", "Reis und Zuckerrohr", "Rivas"]
+    },
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "description": "Cárdenas in Rivas ist eine Grenzstadt zu Costa Rica, bekannt für ihre Handelsaktivitäten und die Nähe zum Nicaragua-See.",
+      "facts": ["Grenzstadt zu Costa Rica", "Handelsaktivitäten", "Nicaragua-See"]
+    },
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "description": "San José de Cusmapa in Madriz ist ein Bergdorf, bekannt für seine Kunsthandwerke und die kühle Bergluft.",
+      "facts": ["Bergdorf", "Kunsthandwerke", "Kühle Bergluft"]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "description": "Yalí in Madriz ist bekannt für seine Kaffeeplantagen und die malerische Berglandschaft.",
+      "facts": ["Kaffeeplantagen", "Malerische Landschaft", "Madriz"]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "description": "Totogalpa in Madriz ist eine ländliche Gemeinde, bekannt für die Produktion von Töpferwaren und traditionelle Feste.",
+      "facts": ["Töpferwaren", "Traditionelle Feste", "Madriz"]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "description": "Palacagüina in Madriz ist bekannt für seine Musiktraditionen und die Nähe zu den Bergregionen.",
+      "facts": ["Musiktraditionen", "Bergregionen", "Madriz"]
+    },
+    {
+      "id": "santa-rosa-del-penon-leon-cities-v2",
+      "description": "Santa Rosa del Peñón in León ist eine ländliche Gemeinde, bekannt für den Anbau von Bohnen und Mais.",
+      "facts": ["Ländliche Gemeinde", "Bohnen und Mais", "León"]
+    }
+  ]
+}

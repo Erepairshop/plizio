@@ -1,0 +1,19 @@
+{
+  "lang": "ro",
+  "country": "Peru",
+  "files": [
+    "lib/visualLab/data/poiExtraPeruEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ind-cajamarquilla-economic-v2",
+      "description": "Cajamarquilla este un important centru industrial și minier situat în apropierea orașului Lima. Această zonă găzduiește una dintre cele mai mari rafinării de zinc din Peru.",
+      "facts": [
+        "Rafinărie majoră de zinc",
+        "Situat lângă Lima",
+        "Pilon al industriei miniere",
+        "Importanță economică regională"
+      ]
+    }
+  ]
+}

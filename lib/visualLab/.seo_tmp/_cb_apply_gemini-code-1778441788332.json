@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ushba-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Berg Uschba, oft als das 'Matterhorn des Kaukasus' bezeichnet, ist einer der markantesten und technisch anspruchsvollsten Gipfel im Großen Kaukasus. Geografisch liegt er in der Region Ober-Swanetien, unweit der Stadt Mestia. Der Doppelgipfel besteht aus dem Südgipfel (4.710 m) und dem Nordgipfel (4.690 m), die durch einen tiefen Sattel getrennt sind. Geologisch ist das Massiv aus extrem hartem Granit und kristallinem Schiefer aufgebaut, was die Bildung seiner fast senkrechten, glatten Wände begünstigte. Historisch gilt die Uschba als Inbegriff des alpinen Schwierigkeitsgrades; während der Nordgipfel bereits 1888 erstbestiegen wurde, dauerte es bis 1903, bis der technisch schwierigere Südgipfel bezwungen wurde. Ökologisch ist die Region um die Uschba durch hochalpine Gletscher und eine spezialisierte Flora geprägt, die in den extremen Steillagen überlebt. Ökonomisch ist der Berg das wichtigste Prestigeobjekt für den georgischen Bergtourismus und zieht Profi-Alpinisten aus der ganzen Welt an. Die Uschba ist zudem tief in der swanetischen Folklore verwurzelt und gilt als Schauplatz mythischer Erzählungen über die Jagdgöttin Dali. Aufgrund der häufigen Wetterstürze und der objektiven Gefahren an den Granitwänden bleibt der Berg eine der exklusivsten und respektiertesten Herausforderungen im globalen Bergsteigen.",
+        "hu": "Az Usba-hegy, amelyet gyakran a „Kaukázus Matterhornjaként” emlegetnek, a Nagy-Kaukázus egyik legkarakteresebb és technikailag legnehezebb csúcsa. Földrajzilag Felső-Szvaneti régióban, Mesztia városa közelében található. A jellegzetes kettős csúcs a déli (4710 m) és az északi (4690 m) oromból áll, amelyeket egy mély nyereg választ el egymástól. Geológiai felépítését rendkívül kemény gránit és kristályos pala alkotja, ami lehetővé tette a szinte függőleges, sima falak kialakulását. Történelmileg az Usba az alpinizmus egyik legnagyobb kihívása; míg az északi csúcsot már 1888-ban elérték, a technikailag jóval nehezebb déli csúcsot csak 1903-ban sikerült megmászni. Ökológiailag a hegy környékét magashegyi gleccserek és speciális flóra jellemzi, amely képes túlélni az extrém meredek terepviszonyok között. Gazdaságilag az Usba a grúz hegyi turizmus legfontosabb presztízsterméke, amely a világ minden tájáról vonzza a profi hegymászókat. A hegy mélyen gyökerezik a szván folklórban is, gyakran összefüggésbe hozzák Dali vadásznő mítoszaival. A hirtelen időjárás-változások és a gránitfalak veszélyessége miatt az Usba továbbra is a globális hegymászó közösség egyik legtiszteltebb és legveszélyesebb célpontja marad.",
+        "ro": "Muntele Ushba, supranumit adesea „Matterhorn-ul Caucazului”, este unul dintre cele mai spectaculoase și dificile vârfuri din Caucazul Mare. Geografic, acesta este situat în regiunea Svaneti de Sus, în proximitatea orașului Mestia. Masivul este definit de un vârf dublu: cel sudic (4.710 m) și cel nordic (4.690 m), unite printr-o șa adâncă. Din punct de vedere geologic, muntele este compus din granit dur și șisturi cristaline, structură care a permis formarea pereților săi verticali legendari. Istoric, Ushba reprezintă un punct de referință în alpinismul mondial; dacă vârful nordic a fost cucerit în 1888, vârful sudic, mult mai tehnic, a fost atins abia în 1903. Ecologic, zona este marcată de prezența ghețarilor de altitudine și a unei flore alpine adaptate la condiții extreme. Economic, muntele este principalul simbol al turismului de aventură din Georgia, fiind o destinație de elită pentru alpiniștii profesioniști. În cultura locală Svan, Ushba este considerat un munte sacru și periculos, fiind sediul mitologic al zeiței vânătorii, Dali. Din cauza schimbărilor meteorologice bruște și a dificultății tehnice ridicate, Ushba rămâne una dintre cele mai respectate ascensiuni de pe glob, fiind o emblemă a rezilienței umane în fața forțelor naturii.",
+        "en": "Mount Ushba, often referred to as the 'Matterhorn of the Caucasus,' is one of the most distinctive and technically demanding peaks in the Greater Caucasus Range. Geographically, it is located in the Upper Svaneti region, near the town of Mestia. The massif features a prominent double summit: the South Peak (4,710 m) and the North Peak (4,690 m), separated by a high-altitude saddle. Geologically, Ushba is composed of exceptionally hard granite and crystalline schist, which accounts for its sheer, smooth vertical faces. Historically, Ushba has been a cornerstone of international mountaineering; while the North Peak was first summited in 1888, the more technically challenging South Peak was not conquered until 1903. Ecologically, the mountain is surrounded by massive glaciers and specialized alpine flora that thrives in its extreme vertical environment. Economically, the peak is a primary driver for prestige tourism in Georgia, drawing elite climbers from across the globe. Ushba is also deeply embedded in Svan folklore as the mythical home of the hunting goddess Dali. Due to its frequent and violent weather shifts and high objective hazards, Mount Ushba remains one of the most respected and dangerous climbing destinations in the world."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bekannt für seine markante Doppelgipfel-Silhouette.",
+          "Gilt als technisch schwierigster Berg des gesamten Kaukasus.",
+          "Der Südgipfel ist mit 4.710 Metern der höhere der beiden Gipfel.",
+          "Besteht geologisch aus festem Granit der zentralen kaukasischen Achse.",
+          "Liegt in unmittelbarer Sichtweite der swanetischen Hauptstadt Mestia.",
+          "Schauplatz zahlreicher internationaler Alpin-Expeditionen seit dem 19. Jh."
+        ],
+        "hu": [
+          "Jellegzetes kettős csúcsáról világszerte felismerhető.",
+          "A Kaukázus technikailag legnehezebb mászható hegyének tartják.",
+          "A déli csúcs (4710 m) magasabb, mint az északi (4690 m).",
+          "Geológiai alapja a központi Kaukázusra jellemző kemény gránit.",
+          "A szvánok szent hegye, számos népi legenda helyszíne.",
+          "Az alpinisták körében a 'szabályos piramis' formája miatt híres."
+        ],
+        "ro": [
+          "Prezintă o siluetă inconfundabilă cu două vârfuri ascuțite.",
+          "Cunoscut drept cel mai dificil munte din Georgia pentru alpiniști.",
+          "Vârful Sudic este cota maximă a masivului, la 4.710 metri.",
+          "Compoziție geologică bazată pe granite cristaline foarte rezistente.",
+          "Situat strategic în inima regiunii istorice Svaneti.",
+          "A fost decorul multor premiere mondiale în alpinismul de iarnă."
+        ],
+        "en": [
+          "Renowned for its iconic and symmetrical double-peak profile.",
+          "Widely considered the most technically difficult climb in the Caucasus.",
+          "The South Peak stands taller at 4,710 meters above sea level.",
+          "Formed from the hard crystalline granites of the main Caucasus ridge.",
+          "Visible from almost every point in the Svaneti highland area.",
+          "The first successful ascent of the higher South Peak occurred in 1903."
+        ]
+      }
+    },
+    {
+      "id": "lake-ritsa-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Riza-See liegt im nordwestlichen Teil Georgiens, in der autonomen Region Abchasien, eingebettet in die bewaldeten Schluchten des Kaukasus. Geografisch befindet sich der See auf einer Höhe von 950 Metern über dem Meeresspiegel und wird von den Bergen der Gagra-Kette und des Bzyb-Massivs umschlossen. Historisch ist der See einer der bekanntesten Kurorte des ehemaligen Sowjetimperiums; er war ein bevorzugtes Erholungsziel der sowjetischen Führungselite, was durch die dortigen Datschen von Josef Stalin und Nikita Chruschtschow belegt wird. Mit einer maximalen Tiefe von 116 Metern gehört er zu den tiefsten Alpenseen der Region. Ökologisch ist der Riza-See Teil des Riza-Relikt-Nationalparks, der seltene nordmannische Tannen und dichte Buchsbaumwälder schützt. Technisch gesehen wird der See durch die Flüsse Laschipse und Jupschara gespeist und entwässert, wobei die Wasserfarbe je nach Jahreszeit zwischen smaragdgrün und tiefblau wechselt. Ökonomisch war das Gebiet vor den Konflikten der 1990er Jahre der wichtigste Motor für den Tourismus in Abchasien. Trotz der schwierigen politischen Lage bleibt der See ein Symbol für die unberührte Natur des westlichen Kaukasus und ist für seine außergewöhnliche Wasserreinheit und das kühle Mikroklima bekannt.",
+        "hu": "A Rica-tó Grúzia északnyugati részén, az Abházia Autonóm Köztársaságban található, a Kaukázus erdős szurdokaiba ágyazva. Földrajzilag a tó 950 méteres tengerszint feletti magasságban fekszik, a Gagra-hegység és a Bzip-masszívum hegyei között. Történelmileg a tó az egykori Szovjetunió egyik legismertebb üdülőhelye volt; a szovjet politikai elit kedvelt pihenőhelyeként szolgált, amit Sztálin és Hruscsov ottani dácsái is bizonyítanak. 116 méteres maximális mélységével a régió egyik legmélyebb alpesi tava. Ökológiailag a Rica-tó a Rica Reliktum Nemzeti Park része, amely ritka kaukázusi jegenyefenyőket és sűrű puszpángerdőket védelmez. Technikai szempontból a tavat a Lasipsze és a Jupsara folyók táplálják, illetve csapolják le, vízszíne pedig az évszaktól függően a smaragdzöld és a mélykék között változik. Gazdaságilag a terület az 1990-es évek konfliktusai előtt Abházia turizmusának legfontosabb motorja volt. A nehéz politikai helyzet ellenére a tó továbbra is a Nyugati-Kaukázus érintetlen természetének szimbóluma, amely kivételes víztisztaságáról és hűvös mikroklímájáról ismert.",
+        "ro": "Lacul Ritsa este situat în partea de nord-vest a Georgiei, în regiunea autonomă Abhazia, fiind adăpostit în defileele împădurite ale Caucazului. Geografic, lacul se află la o altitudine de 950 de metri deasupra nivelului mării, înconjurat de munții lanțului Gagra și ai masivului Bzyb. Din punct de vedere istoric, lacul a fost una dintre cele mai faimoase stațiuni ale fostului imperiu sovietic; a reprezentat o destinație de vacanță preferată pentru elita politică, fapt atestat de prezența dacei lui Iosif Stalin și a lui Nikita Hrușciov. Cu o adâncime maximă de 116 metri, Ritsa se numără printre cele mai adânci lacuri alpine din regiune. Ecologic, Lacul Ritsa face parte din Parcul Național Ritsa, care protejează exemplare rare de brad de Caucaz și păduri de cimișir. Din punct de vedere tehnic, lacul este alimentat de râul Lashipse și drenat de râul Iupshara, culoarea apei variind între verde smarald și albastru profund în funcție de anotimp. Economic, zona a reprezentat motorul turismului abhaz înainte de conflictele din anii '90. În ciuda contextului politic dificil, lacul rămâne un simbol al naturii neatinse din Caucazul de Vest, fiind renumit pentru puritatea apei și microclimatul său răcoros.",
+        "en": "Lake Ritsa is situated in northwestern Georgia, within the autonomous region of Abkhazia, nestled in the forested gorges of the Caucasus Mountains. Geographically, the lake lies at an elevation of 950 meters above sea level, surrounded by the peaks of the Gagra Range and the Bzyb Massif. Historically, the lake was one of the most famous resorts in the former Soviet Union; it was a preferred retreat for the Soviet leadership, evidenced by the summer residences (dachas) of Joseph Stalin and Nikita Khrushchev located on its shores. With a maximum depth of 116 meters, it is one of the deepest alpine lakes in the region. Ecologically, Lake Ritsa is the centerpiece of the Ritsa Strict Nature Reserve, which protects rare Nordmann firs and ancient boxwood forests. Technically, the lake is fed by the Lashipse River and drained by the Iupshara River, with its water color shifting from emerald green to deep blue depending on the season. Economically, the area was the primary driver for Abkhazian tourism prior to the conflicts of the 1990s. Despite the current political complexities, the lake remains a symbol of the West Caucasus's pristine wilderness, renowned for its extraordinary clarity and cool microclimate."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt im Riza-Relikt-Nationalpark in Abchasien.",
+          "Erreicht eine beachtliche maximale Tiefe von 116 Metern.",
+          "Ehemaliger exklusiver Urlaubsort von Josef Stalin.",
+          "Umschlossen von Bergen, die bis auf 3.200 Meter ansteigen.",
+          "Das Wasser bleibt auch im Sommer mit ca. 17 Grad sehr kühl.",
+          "Die Zufahrtsstraße führt durch die spektakuläre Jupschara-Schlucht."
+        ],
+        "hu": [
+          "Az abházországi Rica Reliktum Nemzeti Park központja.",
+          "Maximális mélysége eléri a 116 métert.",
+          "Sztálin kedvenc nyaralóhelye volt, dácsája ma is áll.",
+          "3200 méter magas hegycsúcsok veszik körül a tavat.",
+          "Vize nyáron is hűvös marad, ritkán emelkedik 17 fok fölé.",
+          "A tóhoz vezető út a látványos Jupsara-szurdokon halad át."
+        ],
+        "ro": [
+          "Situat în interiorul Rezervației Naturale Ritsa din Abhazia.",
+          "Adâncimea maximă a cuvetei lacustre este de 116 metri.",
+          "Găzduiește una dintre reședințele de vară ale lui Iosif Stalin.",
+          "Bazinul este flancat de creste montane ce depășesc 3.000 m.",
+          "Temperatura apei la suprafață rareori depășește 17-18 grade Celsius.",
+          "Accesul se realizează prin spectaculosul canion Iupshara."
+        ],
+        "en": [
+          "Located within the Ritsa Strict Nature Reserve in Abkhazia.",
+          "Features a significant maximum depth of 116 meters.",
+          "Site of a historic summer dacha belonging to Joseph Stalin.",
+          "Surrounded by mountain peaks rising up to 3,200 meters.",
+          "Water temperatures remain cool, averaging 17°C in peak summer.",
+          "Accessible via a scenic road through the deep Iupshara Canyon."
+        ]
+      }
+    },
+    {
+      "id": "paravani-lake-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Paravani-See ist der flächenmäßig größte See Georgiens und liegt auf dem vulkanischen Javakheti-Plateau im Süden des Landes. Geografisch befindet sich der See auf einer extremen Höhe von 2.073 Metern über dem Meeresspiegel, was das lokale Klima prägt. Trotz seiner großen Oberfläche von etwa 37 Quadratkilometern ist der See technisch gesehen sehr flach, mit einer durchschnittlichen Tiefe von nur 2,2 Metern und einem Maximum von 3,3 Metern. Diese geringe Tiefe führt dazu, dass der See in den strengen Wintern der Region oft vollständig zufriert. Historisch ist Paravani von immenser Bedeutung, da hier im 4. Jahrhundert die Heilige Nino, die Georgien christianisierte, das Land betrat. Ökologisch ist der See ein wichtiger Bestandteil des Javakheti-Nationalparks und dient als Lebensraum für zahlreiche Fischarten, insbesondere die Paravani-Forelle. Ökonomisch ist der See für die lokale Fischerei und die Bewässerung der umliegenden Steppenlandschaft von Bedeutung. Das Relief der Umgebung ist durch weite, baumlose Hochebenen und vulkanische Kegel geprägt, was der Landschaft einen herben, fast sibirischen Charakter verleiht. In den letzten Jahren wurden am Grund des Sees bedeutende archäologische Entdeckungen gemacht, darunter Reste einer bronzezeitlichen Siedlung, was den See auch für die Wissenschaft hochinteressant macht.",
+        "hu": "A Paravani-tó Grúzia legnagyobb területű tava, amely az ország déli részén, a vulkanikus Dzsavakheti-fennsíkon található. Földrajzilag a tó 2073 méteres tengerszint feletti magasságban fekszik, ami meghatározza a helyi klímát. Körülbelül 37 négyzetkilométeres felszíne ellenére a tó technikailag nagyon sekély: átlagos mélysége mindössze 2,2 méter, maximuma pedig 3,3 méter. Emiatt a tó a régió zord telein gyakran teljesen befagy. Történelmileg a Paravani rendkívüli jelentőséggel bír, mivel a hagyomány szerint Szent Nino, Grúzia keresztény hitre térítője, a 4. században itt lépett be az országba. Ökológiailag a tó a Dzsavakheti Nemzeti Park része, és számos halfajnak, különösen a paravani pisztrángnak ad otthont. Gazdaságilag a tó a helyi halászat és a környező sztyeppei területek öntözése szempontjából fontos. A környező domborzatot tágas, fátlan fennsíkok és vulkáni kúpok jellemzik, ami a tájnak nyers, szinte szibériai karaktert kölcsönöz. Az elmúlt években a tó fenekén jelentős régészeti felfedezéseket tettek, többek között bronzkori településmaradványokat találtak, ami a tudomány számára is érdekessé teszi a helyszínt.",
+        "ro": "Lacul Paravani este cel mai mare lac din Georgia ca suprafață, fiind situat pe platoul vulcanic Javakheti din sudul țării. Geografic, lacul se află la o altitudine extremă de 2.073 de metri deasupra nivelului mării, fapt ce dictează climatul local sever. În ciuda suprafeței sale vaste de aproximativ 37 de kilometri pătrați, lacul este din punct de vedere tehnic foarte puțin adânc, având o adâncime medie de doar 2,2 metri și una maximă de 3,3 metri. Această caracteristică face ca lacul să înghețe complet în timpul iernilor aspre ale regiunii. Din punct de vedere istoric, Paravani are o importanță imensă, fiind locul unde, în secolul al IV-lea, Sfânta Nino, încreștinătoarea Georgiei, a intrat pentru prima dată în țară. Ecologic, lacul este o componentă vitală a Parcului Național Javakheti, oferind habitat pentru specii precum păstrăvul de Paravani. Economic, resursa este utilizată pentru pescuitul local și irigarea stepelor înalte din jur. Relieful înconjurător este marcat de platouri vaste, lipsite de arbori, și conuri vulcanice, oferind peisajului un aspect auster, aproape siberian. Descoperirile arheologice recente de pe fundul lacului, inclusiv vestigii ale unei așezări din epoca bronzului, au sporit valoarea științifică a acestui sit.",
+        "en": "Lake Paravani is Georgia's largest lake by surface area, located on the volcanic Javakheti Plateau in the southern part of the country. Geographically, the lake sits at an extreme altitude of 2,073 meters above sea level, which significantly influences the local climate. Despite its vast surface area of approximately 37 square kilometers, the lake is technically very shallow, with an average depth of only 2.2 meters and a maximum of 3.3 meters. This shallowness causes the lake to freeze completely during the region's harsh winters. Historically, Paravani is of immense importance, as tradition holds that Saint Nino, the enlightener of Georgia, entered the country at this spot in the 4th century. Ecologically, the lake is an integral part of the Javakheti National Park, serving as a habitat for various fish species, notably the Paravani trout. Economically, the lake supports local fisheries and provides water for irrigating the surrounding high-altitude steppe. The surrounding relief is characterized by expansive, treeless highlands and volcanic cones, giving the landscape a stark, almost Siberian character. In recent years, significant archaeological discoveries, including Bronze Age settlement remains, have been found on the lake bed, making it a site of major scientific interest."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter See Georgiens bezogen auf die Oberflächenfläche.",
+          "Liegt auf einer Höhe von 2.073 Metern im Kleinen Kaukasus.",
+          "Besitzt eine maximale Tiefe von nur 3,3 Metern.",
+          "Historischer Ankunftsort der Heiligen Nino im Jahr 319 n. Chr.",
+          "Gefriert im Winter aufgrund der geringen Tiefe vollständig zu.",
+          "Beherbergt versunkene bronzezeitliche Megalith-Strukturen am Seegrund."
+        ],
+        "hu": [
+          "Grúzia legnagyobb felszínű tava, területe 37,5 km².",
+          "A Kis-Kaukázusban, 2073 méteres magasságban található.",
+          "Átlagos mélysége mindössze 2,2 méter, így rendkívül sekély.",
+          "Szent Nino itt lépett grúz földre a kereszténység terjesztésekor.",
+          "A tó vize a környező vulkanikus kőzetekből oldódó ásványokban gazdag.",
+          "A jégpáncél vastagsága télen elérheti a 70 centimétert is."
+        ],
+        "ro": [
+          "Cel mai întins lac din Georgia, acoperind 37,5 km².",
+          "Situat pe platoul Javakheti la o altitudine de 2.073 m.",
+          "Adâncimea medie este extrem de redusă, de numai 2,2 m.",
+          "Locul unde Sfânta Nino a început misiunea de evanghelizare în 319 d.Hr.",
+          "Rezervor natural vital pentru ihtiofauna locală (păstrăv, crap).",
+          "Fundul lacului adăpostește situri arheologice din epoca bronzului."
+        ],
+        "en": [
+          "The largest lake in Georgia by total surface area (37.5 km²).",
+          "Located at a high altitude of 2,073 meters on the Javakheti Plateau.",
+          "Maintains an extremely shallow profile with a max depth of 3.3m.",
+          "Significant as the 4th-century entry point of Saint Nino into Georgia.",
+          "The lake is typically covered in thick ice from December to March.",
+          "Home to unique submerged archaeological ruins dating to the Bronze Age."
+        ]
+      }
+    },
+    {
+      "id": "paliastomi-lake-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Paliastomi-See ist ein bedeutendes Lagunengewässer an der georgischen Schwarzmeerküste, unmittelbar südlich der Hafenstadt Poti. Geografisch ist der See Teil des Kolkheti-Tieflands und liegt fast auf Meereshöhe. Ursprünglich war Paliastomi ein Süßwassersee, wurde aber durch den Bau eines Kanals im Jahr 1924 mit dem Schwarzen Meer verbunden, was zu einer teilweisen Versalzung des Wassers führte. Ökologisch ist der See das Herzstück des Kolkheti-Nationalparks und seit 1997 als Ramsar-Feuchtgebiet von internationaler Bedeutung geschützt. Die umliegenden Torfmoore und Erlenwälder beherbergen eine einzigartige Flora und Fauna, darunter seltene Orchideen und den Fischadler. Historisch wird vermutet, dass sich unter der Wasseroberfläche oder in der unmittelbaren Nähe Reste der antiken griechischen Kolonie Phasis befinden könnten, was den See für die Archäologie hochinteressant macht. Ökonomisch ist Paliastomi für die handwerkliche Fischerei und den aufstrebenden Ökotourismus, insbesondere die Vogelbeobachtung, von großer Bedeutung. Technisch gesehen unterliegt der See einer ständigen Veränderung durch die Sedimentation des Rioni-Flusses und den Einfluss der Gezeiten. Die Erhaltung dieses empfindlichen Brackwasser-Ökosystems ist entscheidend für den Schutz der Artenvielfalt im westlichen Transkaukasien.",
+        "hu": "A Paliasztomi-tó Grúzia fekete-tengeri partvidékének egyik legjelentősebb lagúnája, közvetlenül Poti kikötővárosától délre. Földrajzilag a tó a Kolkhisz-alföld része, és szinte a tengerszinten fekszik. Eredetileg a Paliasztomi édesvízi tó volt, de 1924-ben egy csatorna építésével összekötötték a Fekete-tengerrel, ami a víz részleges elsózódásához vezetett. Ökológiailag a tó a Kolkheti Nemzeti Park szíve, és 1997 óta nemzetközi jelentőségű Ramsari területként élvez védelmet. A környező tőzeglápok és égererdők egyedülálló flórának és faunának adnak otthont, többek között ritka orchideáknak és halászsasoknak. Történelmileg feltételezik, hogy a víz alatt vagy a közvetlen közelében az ókori görög Phasis kolónia maradványai rejtőzhetnek, ami a régészet számára is kiemelt fontosságúvá teszi a tavat. Gazdaságilag a Paliasztomi a kézműves halászat és a fellendülő ökoturizmus, különösen a madármegfigyelés számára jelentős. Technikai szempontból a tó folyamatosan változik a Rioni-folyó hordaléklerakódása és az árapály hatása miatt. Ennek a kényes brakkvízi ökoszisztémának a megőrzése döntő fontosságú a nyugat-transzkaukázusi biodiverzitás védelme szempontjából.",
+        "ro": "Lacul Paliastomi este o lagună de coastă majoră situată pe litoralul georgian al Mării Negre, imediat la sud de orașul-port Poti. Geografic, lacul face parte din câmpia joasă a Colchidei și se află aproape la nivelul mării. Inițial, Paliastomi a fost un lac cu apă dulce, însă construirea unui canal în anul 1924 l-a conectat direct cu Marea Neagră, provocând o salinizare parțială a bazinului. Din punct de vedere ecologic, lacul este nucleul Parcului Național Kolkheti și este protejat din 1997 ca zonă umedă de importanță internațională prin Convenția Ramsar. Mlaștinile de turbă și pădurile de anin din jur adăpostesc o biodiversitate unică, incluzând specii rare de orhidee și vulturi pescari. Istoric, se speculează că sub apele sale sau în proximitate s-ar afla vestigiile coloniei grecești antice Phasis, ceea ce transformă situl într-un punct de interes arheologic major. Economic, Paliastomi susține pescuitul artizanal și ecoturismul, fiind o destinație de top pentru ornitologi. Din punct de vedere tehnic, ecosistemul este modelat de sedimentarea adusă de râul Rioni și de influența mareelor. Conservarea acestui habitat fragil de apă salmastră este esențială pentru protejarea biodiversității din Transcaucazia de Vest.",
+        "en": "Lake Paliastomi is a significant coastal lagoon located on Georgia's Black Sea shore, immediately south of the port city of Poti. Geographically, the lake is part of the Colchis Lowland and lies nearly at sea level. Originally a freshwater body, Paliastomi was connected to the Black Sea via a canal built in 1924, resulting in a shift to brackish water conditions. Ecologically, the lake serves as the centerpiece of Kolkheti National Park and has been protected as a Ramsar site of international importance since 1997. The surrounding peat bogs and alder forests host unique flora and fauna, including rare orchids and ospreys. Historically, it is hypothesized that remains of the ancient Greek colony of Phasis may lie beneath its waters or in the immediate vicinity, making it a site of high archaeological interest. Economically, Paliastomi is vital for artisanal fishing and burgeoning ecotourism, particularly birdwatching. Technically, the lake is subject to continuous change due to sedimentation from the Rioni River and tidal influences. Preserving this delicate brackish ecosystem is crucial for maintaining the biodiversity of Western Transcaucasia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des UNESCO-Weltnaturerbes 'Kolchische Regenwälder und Moore'.",
+          "Wurde 1924 durch einen künstlichen Kanal zum Brackwassersee.",
+          "Wichtigster Rastplatz für Zugvögel an der georgischen Küste.",
+          "Beherbergt seltene Bestände der kaukasischen Flügelnuss.",
+          "Liegt im Mündungsbereich des wasserreichen Rioni-Flusses.",
+          "Vermuteter Standort der antiken versunkenen Stadt Phasis."
+        ],
+        "hu": [
+          "Az UNESCO „Kolkhiszi esőerdők és lápvidékek” világörökségi helyszín része.",
+          "1924 óta brakkvízi (félsós) tó az épített csatornának köszönhetően.",
+          "A vándormadarak egyik legfontosabb pihenőhelye a grúz tengerparton.",
+          "A tavat sűrű égererdők és tőzegmohás lápok veszik körül.",
+          "Poti városának közvetlen közelében, a tengerszinten fekszik.",
+          "Fontos régészeti kutatási terület az ókori Phasis keresése miatt."
+        ],
+        "ro": [
+          "Inclus în Patrimoniul Mondial UNESCO din anul 2021.",
+          "Transformarea din lac dulce în lagună salmastră a avut loc în 1924.",
+          "Situl Ramsar protejează rutele migratoare ale păsărilor acvatice.",
+          "Adăpostește relicte forestiere de Pterocarya fraxinifolia (nuc caucazian).",
+          "Legat hidrologic de bazinul inferior al râului Rioni.",
+          "Obiectiv central pentru turismul de observație ornitologică în Georgia."
+        ],
+        "en": [
+          "Part of the 'Colchic Rainforests and Wetlands' UNESCO World Heritage site.",
+          "Transformed into a brackish lagoon in 1924 via a man-made canal.",
+          "A premier stopover for migratory birds along the Black Sea coast.",
+          "Surrounded by ancient peat bogs and rare swamp forests.",
+          "Located at sea level within the administrative borders of Poti.",
+          "Theorized to be the location of the submerged ancient city of Phasis."
+        ]
+      }
+    },
+    {
+      "id": "kura-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kura-Fluss, in Georgien als Mtkvari bekannt, ist die wichtigste Lebensader des Südkaukasus. Geografisch entspringt der Fluss im Nordosten der Türkei und fließt über 1.500 Kilometer durch Georgien und Aserbaidschan, bis er schließlich in das Kaspische Meer mündet. In Georgien teilt der Mtkvari das Land in einen nördlichen und einen südlichen Teil und durchfließt dabei die Hauptstadt Tiflis in einer tief eingeschnittenen Schlucht. Historisch war der Fluss der entscheidende Faktor für die Gründung fast aller großen Städte Georgiens, da er sowohl als Handelsroute als auch als natürliche Verteidigungslinie diente. Ökonomisch ist der Mtkvari von existenzieller Bedeutung für die georgische Landwirtschaft und Energieerzeugung; zahlreiche Wasserkraftwerke und Bewässerungskanäle hängen direkt von seinem Wasserstand ab. Technisch gesehen ist der Fluss durch saisonale Hochwasser im Frühjahr geprägt, was den Bau massiver Uferbefestigungen und Dämme erforderlich machte. Ökologisch beherbergt der Fluss zahlreiche endemische Fischarten, steht jedoch vor Herausforderungen durch industrielle Abwässer und die zunehmende Wasserknappheit infolge des Klimawandels. Die Verwaltung des Mtkvari ist ein zentrales Thema der transkaukasischen Diplomatie, um eine gerechte Wasserverteilung zwischen den Anrainerstaaten zu garantieren.",
+        "hu": "A Kura-folyó, Grúziában Mtkvari néven ismert, a Dél-Kaukázus legfontosabb éltető ereje. Földrajzilag a folyó Törökország északkeleti részén ered, és több mint 1500 kilométeren keresztül folyik Grúzián és Azerbajdzsánon át, mígnem a Kaszpi-tengerbe torkollik. Grúziában a Mtkvari északi és déli részre osztja az országot, miközben a fővárost, Tbiliszit egy mélyen bevágott szurdokban szeli át. Történelmileg a folyó döntő faktor volt szinte az összes nagy grúz város alapításában, mivel kereskedelmi útvonalként és természetes védvonalént is szolgált. Gazdaságilag a Mtkvari létfontosságú a grúz mezőgazdaság és energiatermelés számára; számos vízerőmű és öntözőcsatorna függ közvetlenül a vízállásától. Technikai szempontból a folyót tavaszi szezonális áradások jellemzik, ami masszív partfalak és gátak építését tette szükségessé. Ökológiailag a folyó számos endemikus halfajnak ad otthont, de az ipari szennyvíz és az éghajlatváltozás okozta növekvő vízhiány komoly kihívást jelent. A Mtkvari kezelése a transzkaukázusi diplomácia központi témája, hogy garantálják a víz igazságos elosztását a part menti országok között.",
+        "ro": "Râul Kura, cunoscut în Georgia sub numele de Mtkvari, este principala arteră vitală a Caucazului de Sud. Geografic, râul izvorăște din nord-estul Turciei și parcurge peste 1.500 de kilometri prin Georgia și Azerbaidjan, vărsându-se în cele din urmă în Marea Caspică. În Georgia, Mtkvari divide țara în părțile de nord și de sud, traversând capitala Tbilisi printr-un defileu adânc excavat. Din punct de vedere istoric, râul a fost factorul determinant pentru întemeierea aproape tuturor marilor orașe georgiene, servind atât ca rută comercială, cât și ca linie naturală de apărare. Economic, Mtkvari este de o importanță existențială pentru agricultura și producția de energie a Georgiei; numeroase hidrocentrale și canale de irigații depind direct de debitul său. Din punct de vedere tehnic, râul este marcat de viituri sezoniere primăvara, ceea ce a impus construcția unor consolidări masive de mal și a barajelor. Ecologic, râul găzduiește numeroase specii de pești endemici, dar se confruntă cu provocări cauzate de apele reziduale industriale și de deficitul tot mai mare de apă rezultat din schimbările climatice. Gestionarea râului Mtkvari este o temă centrală a diplomației transcaucaziene pentru a garanta o distribuție echitabilă a resurselor de apă între statele riverane.",
+        "en": "The Kura River, known as Mtkvari in Georgia, is the most critical lifeblood of the South Caucasus. Geographically, the river originates in northeastern Turkey and flows for over 1,500 kilometers through Georgia and Azerbaijan before emptying into the Caspian Sea. Within Georgia, the Mtkvari divides the country into northern and southern halves, cutting through the capital city of Tbilisi in a deep, dramatic gorge. Historically, the river was the decisive factor in the founding of nearly all major Georgian cities, serving as both a primary trade route and a natural defensive barrier. Economically, the Mtkvari is of existential importance to Georgian agriculture and energy production; numerous hydroelectric power plants and extensive irrigation networks rely directly on its flow. Technically, the river is characterized by seasonal spring floods, which necessitated the construction of massive stone embankments and flood-control dams. Ecologically, the river hosts numerous endemic fish species but faces challenges from industrial runoff and increasing water scarcity driven by climate change. Managing the Mtkvari's resources is a central pillar of Trans-Caucasian diplomacy, aimed at ensuring equitable water distribution among the riparian states."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Längster Fluss im Kaukasus-Raum mit über 1.500 km Länge.",
+          "Wichtigste Trinkwasser- und Bewässerungsquelle für Ostgeorgien.",
+          "Der Name Mtkvari bedeutet im Georgischen 'der langsame Fluss'.",
+          "Wird durch mehrere große Staudämme, wie in Zhinvali, reguliert.",
+          "Durchfließt drei Staaten: Türkei, Georgien und Aserbaidschan.",
+          "Historisch bedeutender Teil der kaukasischen Seidenstraßen-Route."
+        ],
+        "hu": [
+          "A Kaukázus leghosszabb folyója, teljes hossza 1515 km.",
+          "Kelet-Grúzia elsődleges öntözővíz- és ivóvízforrása.",
+          "Grúzul a Mtkvari név 'lassú folyót' vagy 'jó vizet' jelent.",
+          "Vízenergiáját olyan óriási művek hasznosítják, mint a Zsinvali-erőmű.",
+          "A folyó a Kaszpi-tenger vízgyűjtő területéhez tartozik.",
+          "Tbiliszi városképét a folyó menti meredek sziklafalak határozzák meg."
+        ],
+        "ro": [
+          "Cel mai lung râu din Caucaz, străbătând trei țări diferite.",
+          "Principalul bazin hidrografic pentru agricultura din estul Georgiei.",
+          "Numele georgian Mtkvari provine probabil din rădăcini antice ce descriu apa.",
+          "Asigură funcționarea sistemului de irigații din stepa Iori.",
+          "Debitul mediu la ieșirea din Georgia este de aproximativ 210 m³/s.",
+          "Râul a sculptat terasele pe care s-a dezvoltat nucleul vechi al capitalei."
+        ],
+        "en": [
+          "The longest river in the Caucasus region, totaling 1,515 km.",
+          "The primary source for irrigation and drinking water in Eastern Georgia.",
+          "Its Georgian name, Mtkvari, is linked to ancient terms for water or flow.",
+          "Powerhouse of Georgia's energy sector through several major dams.",
+          "Forms a transboundary basin connecting Turkey, Georgia, and Azerbaijan.",
+          "Centuries of history have been shaped along its navigable corridors."
+        ]
+      }
+    }
+  ]
+}

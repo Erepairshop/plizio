@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-domingo-ruins-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ruinen von San Domingo befinden sich am Nordufer des Gambia-Flusses, unweit des Dorfes Albreda. Sie stellen die Überreste einer der frühesten europäischen Niederlassungen in Westafrika dar. Gegründet im späten 15. Jahrhundert von portugiesischen Händlern, diente dieser Ort als strategischer Handelsposten für Gold, Elfenbein und später für den Sklavenhandel. Die Architektur zeigt heute nur noch fragmentarische Grundmauern, die jedoch die Bauweise der damaligen Zeit widerspiegeln, bei der lokale Materialien mit europäischen Techniken kombiniert wurden. Historisch gesehen war San Domingo eng mit der Entwicklung von James Island (heute Kunta Kinteh Island) verbunden, da es die logistische Unterstützung vom Festland sicherstellte. Im 17. Jahrhundert verlor der Posten durch die zunehmende Konkurrenz zwischen Briten und Franzosen an Bedeutung und verfiel zusehends. Heute gehört das Areal zum Pufferbereich des UNESCO-Welterbes und liefert wertvolle Erkenntnisse über die frühe koloniale Infrastruktur und die sozioökonomischen Auswirkungen des transatlantischen Handels auf die lokale Bevölkerung der Region Niumi.",
+        "hu": "A San Domingo romok a Gambia-folyó északi partján, Albreda közvetlen közelében találhatók, és a térség egyik legrégebbi európai építményének maradványai. A 15. század végén a portugál telepesek alapították ezt a kereskedelmi állomást, amely kulcsfontosságú ponttá vált a korai atlanti kereskedelemben. Az épület egykor raktárként és lakóhelyként szolgált a portugál kereskedők számára, akik arannyal, elefántcsonttal és rabszolgákkal kereskedtek a helyi uralkodókkal. A romok ma már csak töredékesen látszanak, de történelmi jelentőségük felbecsülhetetlen a gyarmatosítás előtti és alatti dinamikák megértéséhez. A területen végzett régészeti feltárások feltárták az alapok szerkezetét és a korabeli építészeti technikákat, amelyek a helyi anyagok és az európai tervek ötvözéséből születtek. San Domingo hanyatlása akkor kezdődött, amikor a brit és francia hatalmi harcok felerősödtek a térségben, és a kereskedelmi útvonalak eltolódtak a folyó más szakaszaira. Ma az UNESCO Világörökség részét képező Kunta Kinteh-sziget kapcsolódó szárazföldi helyszíneként tartják számon, emlékeztetve a látogatókat a rabszolga-kereskedelem sötét időszakára és a korai európai jelenlétre.",
+        "ro": "Ruinele San Domingo sunt situate pe malul de nord al râului Gambia, în imediata apropiere a satului Albreda, reprezentând vestigiile uneia dintre primele așezări europene din Africa de Vest. Fondată la sfârșitul secolului al XV-lea de către comercianții portughezi, această locație a servit ca post comercial strategic pentru aur, fildeș și, ulterior, pentru traficul de sclavi. Arhitectura actuală prezintă doar fundații fragmentare, care însă reflectă metodele de construcție ale epocii, combinând materiale locale cu tehnici europene. Din punct de vedere istoric, San Domingo a fost strâns legat de dezvoltarea insulei James (astăzi insula Kunta Kinteh), asigurând suportul logistic de pe continent. În secolul al XVII-lea, postul și-a pierdut importanța din cauza concurenței crescânde dintre britanici și francezi, intrând într-un proces de degradare. Astăzi, situl face parte din zona de protecție a Patrimoniului Mondial UNESCO, oferind informații prețioase despre infrastructura colonială timpurie și impactul socio-economic al comerțului transatlantic asupra populației locale din regiunea Niumi.",
+        "en": "The San Domingo Ruins are situated on the north bank of the Gambia River, close to the historic twin villages of Albreda and Juffureh. These ruins are among the oldest remnants of European presence in West Africa, established by Portuguese explorers and traders in the late 15th century. Originally serving as a fortified trading post, the site was a focal point for the exchange of textiles and metalware for gold, wax, and ivory. Over time, it became a grim logistical hub for the transatlantic slave trade, supporting the operations on nearby James Island. The remaining structures, though weathered by centuries, reveal the use of lime mortar and local stone, showcasing a blend of Mediterranean and West African building styles. By the mid-17th century, as British and French interests began to dominate the river, the Portuguese influence waned, and San Domingo was gradually abandoned. Now protected as part of a UNESCO World Heritage site, the ruins offer a profound look into the early colonial period and the complex, often tragic, interactions between European powers and the pre-colonial African polities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im späten 15. Jahrhundert durch portugiesische Siedler.",
+          "Diente als Festlandstation für die Sklavenfestung auf Kunta Kinteh Island.",
+          "Eines der ältesten Beispiele für koloniale Steinarchitektur in Gambia.",
+          "Teil des UNESCO-Welterbes seit 2003.",
+          "Strategischer Punkt für den frühen Gold- und Elfenbeinhandel.",
+          "Ruinen bestehen hauptsächlich aus Lateritstein und Kalkmörtel."
+        ],
+        "hu": [
+          "A 15. század végén alapították portugál kereskedők.",
+          "A Kunta Kinteh-szigeten lévő erőd szárazföldi logisztikai bázisaként működött.",
+          "Gambia egyik legkorábbi európai kőépületének maradványa.",
+          "2003 óta az UNESCO Világörökség része.",
+          "Fontos szerepet játszott az arany és az elefántcsont kereskedelmében.",
+          "A romok építéséhez helyi laterit követ és mészhabarcsot használtak."
+        ],
+        "ro": [
+          "Fondat la sfârșitul secolului al XV-lea de coloniștii portughezi.",
+          "A servit ca stație continentală pentru fortăreața de pe insula Kunta Kinteh.",
+          "Unul dintre cele mai vechi exemple de arhitectură colonială din piatră din Gambia.",
+          "Inclus în Patrimoniul Mondial UNESCO din anul 2003.",
+          "Punct strategic pentru comerțul timpuriu cu aur și fildeș.",
+          "Ruinele sunt construite în principal din piatră de laterit și mortar de var."
+        ],
+        "en": [
+          "Established in the late 15th century by Portuguese settlers.",
+          "Functioned as a mainland support base for the fort on Kunta Kinteh Island.",
+          "One of the earliest examples of European stone masonry in The Gambia.",
+          "Recognized as a UNESCO World Heritage site since 2003.",
+          "Central to the early West African trade in gold, wax, and ivory.",
+          "The ruins feature a mix of local materials and early colonial design."
+        ]
+      }
+    },
+    {
+      "id": "cfao-building-albreda-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das CFAO-Gebäude in Albreda ist ein markantes Zeugnis der wirtschaftlichen Kolonialgeschichte Gambias. Die 'Compagnie Française de l'Afrique Occidentale' (CFAO) errichtete dieses Handelskontor im späten 19. Jahrhundert, um den Export von Erdnüssen, dem damals wichtigsten Wirtschaftsgut der Region, zu dominieren. Albreda, das lange Zeit ein französischer Enklavenstützpunkt innerhalb eines überwiegend britisch kontrollierten Gebiets war, bot ideale Bedingungen für den transatlantischen Güterverkehr. Das Gebäude selbst zeichnet sich durch seine robuste Bauweise aus, die typisch für westafrikanische Handelsposten dieser Ära ist: dicke Mauern zum Schutz vor Hitze, große Lagerräume im Erdgeschoss und Verwaltungs- sowie Wohnräume im oberen Stockwerk. Es fungierte nicht nur als Warenlager, sondern auch als administratives Zentrum für französische Handelsinteressen am Gambia-Fluss. Mit dem Niedergang der kolonialen Handelsgesellschaften in der Mitte des 20. Jahrhunderts verlor das Gebäude seine primäre Funktion. Heute steht es als Denkmal für die Zeit des 'Peanut Booms' und die koloniale Rivalität zwischen Frankreich und Großbritannien, die die Grenzen des modernen Gambia maßgeblich mitgeprägt hat.",
+        "hu": "Az albredai CFAO-épület a gambiai gazdasági gyarmattörténet egyik legfontosabb emléke. A 'Compagnie Française de l'Afrique Occidentale' (CFAO) a 19. század végén építette ezt a kereskedelmi állomást, hogy ellenőrzése alá vonja a térség fő exportcikkét, a földimogyorót. Albreda különleges helyzetben volt, mivel hosszú ideig francia enklávéként működött a brit fennhatóságú területek gyűrűjében, így kaput nyitott a francia kereskedőknek a Gambia-folyó mentén. Az épület stílusa a korszak nyugat-afrikai kereskedelmi építészetét tükrözi: vastag falak a hőség ellen, tágas raktárak a földszinten és irodák az emeleten. Nem csupán áruk tárolására szolgált, hanem a francia gazdasági érdekek adminisztratív központja is volt. A gyarmati kereskedelmi társaságok 20. századi hanyatlásával az épület elveszítette eredeti funkcióját. Jelenleg történelmi műemlékként őrzi a 'földimogyoró-láz' korszakának emlékét és azt a francia-brit rivalizálást, amely alapvetően meghatározta a mai Gambia határait és gazdasági szerkezetét.",
+        "ro": "Clădirea CFAO din Albreda este o mărturie remarcabilă a istoriei coloniale economice a Gambiei. 'Compagnie Française de l'Afrique Occidentale' (CFAO) a ridicat acest post comercial la sfârșitul secolului al XIX-lea pentru a domina exportul de arahide, principala resursă economică a regiunii la acea vreme. Albreda, care a fost mult timp o enclavă franceză într-un teritoriu controlat majoritar de britanici, oferea condiții ideale pentru traficul transatlantic de mărfuri. Clădirea se distinge prin construcția sa robustă, tipică posturilor comerciale vest-africane din acea eră: ziduri groase pentru protecție împotriva căldurii, depozite mari la parter și spații administrative la etaj. A funcționat nu doar ca depozit de mărfuri, ci și ca centru administrativ pentru interesele comerciale franceze pe râul Gambia. Odată cu declinul societăților comerciale coloniale la jumătatea secolului al XX-lea, clădirea și-a pierdut funcția primară. Astăzi, ea stă ca un monument al perioadei de boom al arahidelor și al rivalității coloniale dintre Franța și Marea Britanie, care a modelat granițele Gambiei moderne.",
+        "en": "The CFAO building in Albreda stands as a significant relic of the commercial colonial history of The Gambia. Established by the 'Compagnie Française de l'Afrique Occidentale' in the late 19th century, this trading station was pivotal in the regional groundnut trade, which was the backbone of the Gambian economy for decades. Albreda was historically a French enclave within a territory otherwise dominated by the British, making this building a vital outpost for French economic interests along the river. The structure features a classic colonial architectural layout, with heavy masonry designed to withstand the tropical climate and large ground-floor storage areas meant for bulk commodities. Beyond commerce, the building served as a social and administrative hub for French nationals operating in the region. Following the decline of chartered trading companies in the mid-20th century, the building fell out of use but remains an important heritage site. It symbolizes the intense 19th-century European competition for resources and the specific geopolitical role Albreda played as a bridgehead for French influence in the Senegambia region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut von der Compagnie Française de l'Afrique Occidentale.",
+          "Zentrum des französischen Erdnusshandels am Gambia-Fluss.",
+          "Beispiel für koloniale Zweckarchitektur des späten 19. Jahrhunderts.",
+          "Albreda war eine französische Enklave im britischen Gambia.",
+          "Das Gebäude diente sowohl als Lagerhaus als auch als Wohnsitz.",
+          "Wichtiges Denkmal für die wirtschaftliche Transformation der Region."
+        ],
+        "hu": [
+          "A francia CFAO kereskedelmi társaság építette.",
+          "A francia földimogyoró-kereskedelem központja volt a Gambia-folyónál.",
+          "A 19. század végi gyarmati funkcionális építészet példája.",
+          "Albreda egykori francia enklávé státuszát jelképezi.",
+          "Raktárként és adminisztratív szálláshelyként is szolgált.",
+          "A térség gazdasági átalakulásának egyik fontos mementója."
+        ],
+        "ro": [
+          "Construită de Compagnie Française de l'Afrique Occidentale.",
+          "Centrul comerțului francez cu arahide pe râul Gambia.",
+          "Exemplu de arhitectură colonială funcțională de la sfârșitul secolului XIX.",
+          "Albreda a fost o enclavă franceză în Gambia britanică.",
+          "Clădirea a servit atât ca depozit, cât și ca reședință administrativă.",
+          "Monument important pentru transformarea economică a regiunii."
+        ],
+        "en": [
+          "Built by the Compagnie Française de l'Afrique Occidentale (CFAO).",
+          "A key hub for the French groundnut export trade on the river.",
+          "Showcases late 19th-century colonial commercial architecture.",
+          "Reflects Albreda's history as a French enclave in British territory.",
+          "Combined storage facilities with administrative living quarters.",
+          "A symbol of the 19th-century economic shifts in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "mussa-molloh-tomb-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Grab von Mussa Molloh (auch Musa Mollo) ist eine bedeutende historische Stätte in Kesserekunda, in der Nähe von Bansang. Mussa Molloh war der letzte große König von Fulladu, einem Reich, das sich über weite Teile des heutigen Gambia und Senegal erstreckte. Er trat die Nachfolge seines Vaters Alpha Mollo an, der den Staat im 19. Jahrhundert während der Fulani-Dschihads gründete. Mussa Molloh war eine komplexe historische Figur, bekannt für sein diplomatisches Geschick im Umgang mit den britischen und französischen Kolonialmächten, aber auch für seine militärische Stärke. Seine Regierungszeit markierte den Übergang von traditionellen afrikanischen Staatsstrukturen zur kolonialen Verwaltung. Trotz seiner zeitweiligen Allianz mit den Briten wurde er schließlich ins Exil auf die Seychellen geschickt, durfte aber später zurückkehren, wo er 1931 verstarb. Das Grab ist heute ein Ort des Gedenkens an den Widerstand und die Souveränität der Fulani-Kultur. Es erinnert an eine Ära, in der lokale Herrscher versuchten, ihre Macht inmitten des 'Scramble for Africa' zu behaupten, und bleibt ein wichtiges Ziel für Historiker, die sich mit der vorkolonialen politischen Organisation in Senegambia befassen.",
+        "hu": "Mussa Molloh (vagy Musa Mollo) sírja fontos történelmi helyszín Kesserekundában, Bansang közelében. Mussa Molloh volt Fulladu utolsó nagy királya; ez a birodalom a mai Gambia és Szenegál jelentős részére kiterjedt. Apja, Alpha Mollo örökébe lépett, aki a 19. századi fuláni dzsihádok idején alapította meg az államot. Mussa Molloh összetett történelmi személyiség volt, aki híres volt a brit és francia gyarmati hatalmakkal folytatott diplomáciai manővereiről, valamint katonai erejéről. Uralkodása a hagyományos afrikai államszerkezetből a gyarmati közigazgatásba való átmenet korszakát jelentette. Bár egy ideig szövetségese volt a briteknek, végül a Seychelle-szigetekre száműzték, de később visszatérhetett hazájába, ahol 1931-ben elhunyt. A sír ma a fuláni kultúra ellenállásának és szuverenitásának emlékhelye. Emlékeztet arra a korszakra, amikor a helyi uralkodók megpróbálták fenntartani hatalmukat az 'Afrika felosztása' idején, és kiemelt célpontja azoknak, akik a szenegambiai térség gyarmatosítás előtti politikai berendezkedését kutatják.",
+        "ro": "Mormântul lui Mussa Molloh (cunoscut și sub numele de Musa Mollo) este un sit istoric semnificativ situat în Kesserekunda, lângă Bansang. Mussa Molloh a fost ultimul mare rege al Fulladu, un regat care se întindea pe porțiuni vaste din Gambia și Senegalul de astăzi. El i-a succedat tatălui său, Alpha Mollo, care a fondat statul în secolul al XIX-lea, în timpul jidhadurilor Fulani. Mussa Molloh a fost o figură istorică complexă, cunoscută pentru abilitățile sale diplomatice în relația cu puterile coloniale britanice și franceze, dar și pentru forța sa militară. Domnia sa a marcat tranziția de la structurile statale africane tradiționale la administrația colonială. În ciuda alianței sale temporare cu britanicii, a fost în cele din urmă trimis în exil în insulele Seychelles, însă i s-a permis ulterior să se întoarcă, murind în 1931. Mormântul este astăzi un loc de comemorare a rezistenței și suveranității culturii Fulani. Acesta amintește de o eră în care liderii locali au încercat să își mențină puterea în mijlocul 'luptei pentru Africa' și rămâne o destinație importantă pentru istoricii interesați de organizarea politică pre-colonială din Senegambia.",
+        "en": "The tomb of Mussa Molloh (also known as Musa Mollo) is a site of profound historical importance located in Kesserekunda, near Bansang. Mussa Molloh was the last great sovereign of the Fulladu Kingdom, an expansive state that covered significant parts of modern-day Gambia and southern Senegal. He inherited the throne from his father, Alpha Mollo, who had established the kingdom during the Fulani jihads of the 19th century. Molloh was a multifaceted leader, renowned for his tactical brilliance and his ability to navigate the conflicting interests of the British and French colonial administrations. His reign represents the final chapter of independent Fulani political power before the full onset of European colonial rule. Although he collaborated with the British for a time to secure his borders, he was eventually perceived as a threat and exiled to the Seychelles. He returned to the Gambia in his later years and passed away in 1931. His final resting place serves as a cultural landmark for the Fula people, symbolizing a legacy of resistance and the complex political landscape of the Senegambia region during the late 19th and early 20th centuries."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Letzter Herrscher des Königreichs Fulladu.",
+          "Sohn von Alpha Mollo, dem Gründer des Fulladu-Reiches.",
+          "Starb im Jahr 1931 nach seiner Rückkehr aus dem Exil.",
+          "Das Grab befindet sich im Dorf Kesserekunda.",
+          "Symbol für den Widerstand gegen die vollständige Kolonialisierung.",
+          "Wichtige Figur in der Geschichte der Fulani (Fula) in Westafrika."
+        ],
+        "hu": [
+          "A Fulladu Királyság utolsó uralkodója volt.",
+          "Alpha Mollo fia, aki a birodalmat alapította.",
+          "1931-ben hunyt el, miután visszatért a száműzetésből.",
+          "Sírja Kesserekunda faluban található.",
+          "A gyarmatosítás elleni helyi ellenállás egyik jelképe.",
+          "A nyugat-afrikai fuláni (fula) történelem kiemelkedő alakja."
+        ],
+        "ro": [
+          "Ultimul suveran al regatului Fulladu.",
+          "Fiul lui Alpha Mollo, fondatorul imperiului Fulladu.",
+          "A murit în anul 1931 după întoarcerea din exil.",
+          "Mormântul este situat în satul Kesserekunda.",
+          "Simbol al rezistenței împotriva colonizării totale.",
+          "Figură centrală în istoria populației Fulani din Africa de Vest."
+        ],
+        "en": [
+          "The last sovereign ruler of the Fulladu Kingdom.",
+          "Son of Alpha Mollo, the founder of the Fulladu state.",
+          "Died in 1931 after returning from exile in the Seychelles.",
+          "The tomb is a significant cultural site in Kesserekunda.",
+          "Represents the transition from sovereign kingdoms to colonial rule.",
+          "A key historical figure for the Fula ethnic group in Senegambia."
+        ]
+      }
+    },
+    {
+      "id": "kataba-fort-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fort von Kataba, gelegen in der North Bank Division nahe der Grenze zum Senegal, ist ein historisches Verteidigungsbauwerk aus der Zeit der Marabout-Soninke-Kriege im 19. Jahrhundert. Diese Konflikte waren geprägt von religiösen Spannungen zwischen traditionalistischen Herrschern (Soninke) und islamischen Reformern (Marabouts). Kataba diente als strategische Festung der Soninke und war für seine massive Bauweise bekannt, die den damals modernen Waffen standhalten sollte. Die Festung bestand aus dicken Erdwällen und Palisaden, die ein ganzes Dorf einschlossen und Schutz vor Belagerungen boten. Historischen Berichten zufolge war Kataba Schauplatz heftiger Kämpfe, insbesondere während der Feldzüge von Fodi Kaba Doumbouya, einem einflussreichen islamischen Führer. Die Briten griffen schließlich im Jahr 1891 in den Konflikt ein und zerstörten einen Großteil der Befestigungsanlagen, um die Region zu befrieden und ihre koloniale Kontrolle zu festigen. Heute sind nur noch die Erdwälle und einige Überreste der Verteidigungsgräben sichtbar. Die Stätte ist ein wichtiges Mahnmal für die internen religiösen und sozialen Umbrüche in Gambia vor der endgültigen Etablierung der britischen Verwaltung.",
+        "hu": "A Kataba erőd a Gambia-folyó északi partján, a szenegáli határ közelében található, és a 19. századi Marabout-Soninke háborúk egyik legfontosabb védelmi építménye. Ezek a konfliktusok a hagyományőrző uralkodók (Soninke) és az iszlám reformerek (Marabouts) közötti vallási és politikai ellentétekből fakadtak. Kataba a Soninke erők stratégiai bástyája volt, amely híres volt masszív kialakításáról, amelyet úgy terveztek, hogy ellenálljon az akkori ostromfegyvereknek. Az erőd vastag földfalakból és cölöpkerítésekből állt, amelyek egy egész falut körülzártak, védelmet nyújtva a lakosságnak. Történelmi feljegyzések szerint Kataba súlyos harcok színhelye volt, különösen Fodi Kaba Doumbouya, a befolyásos iszlám vezető hadjáratai idején. A britek végül 1891-ben avatkoztak be a konfliktusba, és lerombolták az erődítmények nagy részét, hogy megtörjék a helyi ellenállást és stabilizálják gyarmati uralmukat. Ma már csak a földsáncok és a védőárkok nyomai láthatók. A helyszín fontos mementója a Gambia belső vallási és társadalmi átalakulását kísérő erőszakos időszaknak.",
+        "ro": "Fortul Kataba, situat în diviziunea North Bank, aproape de granița cu Senegalul, este o structură defensivă istorică ce datează din timpul războaielor Marabout-Soninke din secolul al XIX-lea. Aceste conflicte au fost marcate de tensiuni religioase între conducătorii tradiționaliști (Soninke) și reformatorii islamici (Marabouts). Kataba a servit ca fortăreață strategică pentru Soninke și era cunoscută pentru construcția sa masivă, menită să reziste armelor moderne de la acea vreme. Fortificația consta în valuri groase de pământ și palisade care înconjurau un întreg sat, oferind protecție împotriva asediilor. Conform relatărilor istorice, Kataba a fost scena unor lupte aprige, în special în timpul campaniilor lui Fodi Kaba Doumbouya, un lider islamic influent. Britanicii au intervenit în cele din urmă în conflict în anul 1891, distrugând mare parte din fortificații pentru a pacifica regiunea și a-și consolida controlul colonial. Astăzi, sunt vizibile doar valurile de pământ și câteva urme ale șanțurilor de apărare. Situl este un monument important al transformărilor religioase și sociale interne din Gambia înainte de stabilirea definitivă a administrației britanice.",
+        "en": "The Kataba Fort, located in the North Bank Division near the Senegalese border, was a critical defensive stronghold during the 19th-century Marabout-Soninke Wars. These wars were a series of religious and socio-political conflicts between traditionalist rulers (Soninke) and Islamic reformers (Marabouts). Kataba functioned as a major Soninke bastion, famous for its formidable earthworks and fortifications designed to repel invaders. The fort was structured with thick mud walls and wooden palisades that enclosed a large settlement, providing sanctuary for both soldiers and civilians during prolonged sieges. It was famously besieged during the campaigns of Fodi Kaba Doumbouya, a prominent Islamic cleric and warrior. The British colonial forces eventually targeted the fort in 1891, deploying heavy artillery to dismantle its defenses as part of their effort to suppress local warfare and assert colonial dominance. Today, the site consists primarily of raised earth mounds and remnants of the original trenches. Kataba Fort remains a significant historical landmark, illustrating the intense period of internal upheaval and the transition toward the colonial era in The Gambia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Strategische Festung während der Marabout-Soninke-Kriege.",
+          "Zerstört durch britische Truppen im Jahr 1891.",
+          "Besteht aus massiven Erdwällen und Verteidigungsgräben.",
+          "Schutzort für die traditionalistischen Soninke-Herrscher.",
+          "Liegt in der Nähe der Grenze zum heutigen Senegal.",
+          "Wichtiges Zeugnis der vor-kolonialen Militärarchitektur."
+        ],
+        "hu": [
+          "A Marabout-Soninke háborúk egyik kulcsfontosságú erődítménye.",
+          "A brit csapatok rombolták le 1891-ben.",
+          "Masszív földsáncok és védőárkok alkotják a romokat.",
+          "A hagyományőrző Soninke uralkodók védelmi bázisa volt.",
+          "A mai szenegáli határ közvetlen közelében fekszik.",
+          "A gyarmatosítás előtti nyugat-afrikai hadviselés fontos emléke."
+        ],
+        "ro": [
+          "Fortăreață strategică în timpul războaielor Marabout-Soninke.",
+          "Distrus de trupele britanice în anul 1891.",
+          "Format din valuri de pământ masive și șanțuri de apărare.",
+          "Loc de refugiu pentru conducătorii tradiționaliști Soninke.",
+          "Situat în apropierea graniței cu Senegalul de astăzi.",
+          "Mărturie importantă a arhitecturii militare pre-coloniale."
+        ],
+        "en": [
+          "A key stronghold during the 19th-century Marabout-Soninke Wars.",
+          "Largely destroyed by British colonial artillery in 1891.",
+          "Characterized by significant earthen embankments and trenches.",
+          "Served as a primary defense for the traditionalist Soninke people.",
+          "Located in the North Bank region near the border with Senegal.",
+          "A significant site for understanding pre-colonial regional conflicts."
+        ]
+      }
+    },
+    {
+      "id": "berending-crocodile-pool-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das heilige Krokodilbecken von Berending befindet sich in der Niumi-Region von Gambia und blickt auf eine jahrhundertelange Geschichte als spirituelles Zentrum zurück. Anders als das bekanntere Kachikally-Becken ist Berending tiefer in den ländlichen Traditionen des Niumi-Distrikts verwurzelt. Die Anlage ist eng mit den lokalen Schöpfungsmythen und den Ahnenkulten der Mandinka-Bevölkerung verbunden. Seit Generationen dient das Becken als Ort für Fruchtbarkeitsrituale und Heilungszeremonien. Die hier lebenden Krokodile, meist Westafrikanische Krokodile, gelten als Boten der Ahnen und werden respektvoll behandelt. Historisch gesehen war Berending ein Ort, an dem lokale Herrscher und Dorfbewohner vor wichtigen Entscheidungen oder Ernten Rat und Segen suchten. Das Becken ist von einem dichten Hain umgeben, der als heiliger Wald gilt und in dem bestimmte Regeln und Tabus gelten. Diese Traditionen haben die soziale Struktur der umliegenden Dörfer geprägt und überdauerten selbst die Einflüsse des Islams und der Kolonialzeit. Heute ist Berending nicht nur ein religiöser Ort, sondern auch ein Beispiel für das friedliche Zusammenleben von Mensch und Wildtier, basierend auf tief verwurzelten spirituellen Überzeugungen.",
+        "hu": "A berendingi szent krokodilmedence a gambiai Niumi régióban található, és évszázados múltra tekint vissza mint spirituális központ. A híresebb kachikally-i medencétől eltérően Berending mélyebben gyökerezik a Niumi kerület vidéki hagyományaiban. A helyszín szorosan kapcsolódik a mandinka nép eredetmítoszaihoz és őskultuszához. Generációk óta a medence termékenységi rítusok és gyógyító szertartások helyszíne. Az itt élő krokodilok – többnyire nyugat-afrikai krokodilok – az ősök követeinek számítanak, és a helyiek nagy tisztelettel bánnak velük. Történelmileg Berending olyan hely volt, ahol a helyi vezetők és falusiak tanácsot és áldást kértek a fontos döntések vagy aratások előtt. A medencét sűrű liget veszi körül, amelyet szent erdőként tartanak számon, és ahol szigorú szabályok és tabuk érvényesülnek. Ezek a hagyományok formálták a környező falvak társadalmi szerkezetét, és túlélték az iszlám és a gyarmati korszak hatásait is. Ma Berending nemcsak vallási helyszín, hanem az ember és a vadon élő állatok békés együttélésének példája is, amely mély spirituális meggyőződésen alapul.",
+        "ro": "Bazinul sacru cu crocodili din Berending este situat în regiunea Niumi din Gambia și are o istorie de secole ca centru spiritual. Spre deosebire de mai cunoscutul bazin Kachikally, Berending este mai profund înrădăcinat în tradițiile rurale ale districtului Niumi. Locația este strâns legată de miturile creației locale și de cultele strămoșilor ale populației Mandinka. De generații, bazinul servește ca loc pentru ritualuri de fertilitate și ceremonii de vindecare. Crocodilii care trăiesc aici, în mare parte crocodili vest-africani, sunt considerați mesageri ai strămoșilor și sunt tratați cu respect. Din punct de vedere istoric, Berending a fost un loc unde conducătorii locali și sătenii căutau sfat și binecuvântare înainte de decizii importante sau recolte. Bazinul este înconjurat de un crâng des, considerat pădure sacră, unde se aplică anumite reguli și tabuuri. Aceste tradiții au modelat structura socială a satelor înconjurătoare și au supraviețuit chiar și influențelor islamului și perioadei coloniale. Astăzi, Berending nu este doar un loc religios, ci și un exemplu de coexistență pașnică între oameni și fauna sălbatică, bazată pe credințe spirituale profunde.",
+        "en": "The Berending Sacred Crocodile Pool is located in the Niumi District of The Gambia and holds a central place in the region's spiritual and cultural history. While perhaps less internationally famous than the Kachikally pool, Berending is deeply integrated into the indigenous traditions of the North Bank. For centuries, it has served as a site for traditional Mandinka ceremonies, particularly those related to fertility, healing, and seeking ancestral guidance. The West African crocodiles inhabiting the pool are revered as sacred guardians and mediators between the physical and spiritual worlds. Historically, Berending was a focal point for the local community during times of crisis or significant transition, such as the onset of the rainy season or the election of local leaders. The pool is surrounded by a dense, protected grove that functions as a 'sacred forest,' where traditional laws and taboos are strictly observed. These spiritual practices have persisted through the colonial era and the spread of Islam, maintaining a unique cultural continuity. Today, Berending stands as a testament to the enduring nature of indigenous West African belief systems and the harmonious relationship between the local populace and their natural environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Heilige Stätte der Mandinka in der Niumi-Region.",
+          "Ort für traditionelle Fruchtbarkeits- und Heilrituale.",
+          "Beheimatet Westafrikanische Krokodile, die als Ahnenboten gelten.",
+          "Umgeben von einem heiligen Wald mit strengen Tabus.",
+          "Weniger touristisch geprägt als das Kachikally-Becken.",
+          "Symbol für die Kontinuität indigener afrikanischer Glaubensformen."
+        ],
+        "hu": [
+          "A mandinka nép szent helye a Niumi régióban.",
+          "Hagyományos termékenységi és gyógyító rítusok helyszíne.",
+          "Nyugat-afrikai krokodilok lakják, akiket az ősök követeinek tartanak.",
+          "Szigorú tabuk által védett szent erdő veszi körül.",
+          "Kevésbé turistás, mint a kachikally-i medence.",
+          "Az őshonos afrikai hiedelmek folytonosságának szimbóluma."
+        ],
+        "ro": [
+          "Sit sacru al populației Mandinka din regiunea Niumi.",
+          "Loc pentru ritualuri tradiționale de fertilitate și vindecare.",
+          "Găzduiește crocodili vest-africani, considerați mesageri ai strămoșilor.",
+          "Înconjurat de o pădure sacră cu tabuuri stricte.",
+          "Mai puțin orientat spre turism decât bazinul Kachikally.",
+          "Simbol al continuității credințelor indigene africane."
+        ],
+        "en": [
+          "A major sacred site for the Mandinka people in Niumi.",
+          "Used for traditional fertility rites and healing ceremonies.",
+          "Home to West African crocodiles regarded as spiritual guardians.",
+          "Features a surrounding 'sacred grove' with traditional protections.",
+          "Maintains a more traditional atmosphere than other sacred pools.",
+          "Illustrates the survival of pre-Islamic spiritual practices."
+        ]
+      }
+    }
+  ]
+}

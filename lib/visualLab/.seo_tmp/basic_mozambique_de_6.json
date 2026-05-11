@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "Die Wälder um Lupata bieten ein einzigartiges Mikroklima, das vielen seltenen Pflanzenarten Schutz bietet. Ein bedeutendes Gebiet für die regionale botanische Vielfalt.",
+      "facts": ["Einzigartiges Mikroklima", "Seltene Pflanzenarten", "Botanische Vielfalt", "Wichtiges Waldgebiet"]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "Der Magoe-See ist ein ruhiges Gewässer, das durch seine natürliche Umgebung ein wichtiges Rückzugsgebiet für die regionale Tierwelt darstellt.",
+      "facts": ["Ruhiges Gewässer", "Natürliche Umgebung", "Rückzugsgebiet", "Regionaler Naturschatz"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "Das Gilé-Waldgebiet ist bekannt für seine dichten Baumbestände und seinen Beitrag zur ökologischen Gesundheit der Provinz. Ein geschützter Naturraum.",
+      "facts": ["Dichte Wälder", "Ökologisch wertvoll", "Geschützter Naturraum", "Provinz-Ressource"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "Das Meeresgebiet vor Gorgon ist für seine reiche marine Tierwelt und seine korallenreichen Gewässer bekannt. Ein wichtiger Ort für die Meeresforschung.",
+      "facts": ["Reiche Tierwelt", "Korallenreiches Gewässer", "Meeresforschung", "Wichtiges Meeresgebiet"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "Die Chiu-Berge prägen die Landschaft durch ihre steilen Hänge und ihre ökologische Diversität. Ein wichtiges Biotop, das die regionale Geografie mitbestimmt.",
+      "facts": ["Steile Berghänge", "Ökologische Diversität", "Wichtiges Biotop", "Landschaftsprägend"]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "description": "Das Tiefland bei Tete ist eine flache, von Flüssen durchzogene Landschaft. Sie ist entscheidend für die landwirtschaftliche Nutzung in dieser trockeneren Region.",
+      "facts": ["Flache Landschaft", "Flussdurchzogen", "Landwirtschaftlich wichtig", "Trockenregion-Merkmal"]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "description": "Das hügelige Gelände von Nampula bietet eine abwechslungsreiche Landschaft, die den Charakter der Provinz nachhaltig prägt. Ein Gebiet für Wanderungen.",
+      "facts": ["Hügeliges Gelände", "Abwechslungsreiche Landschaft", "Charakteristisch für Nampula", "Ideal für Wanderer"]
+    },
+    {
+      "id": "mount-binga-relief-v2",
+      "description": "Der Mount Binga ist der höchste Berg Mosambiks und ein markantes Ziel für Bergsteiger. Seine steilen Felswände bieten ein imposantes Panorama.",
+      "facts": ["Höchster Berg Mosambiks", "Ziel für Bergsteiger", "Steile Felswände", "Imposantes Panorama"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "Die Bucht von Pemba ist eine natürliche Vertiefung der Küste, die einen geschützten Hafen bietet. Sie ist ein bedeutendes geografisches Merkmal der Nordküste.",
+      "facts": ["Natürliche Bucht", "Geschützter Hafen", "Geografisches Merkmal", "Nordküsten-Schmuck"]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "description": "Das Hochland bei Tete bietet eine erhöhte Lage mit einer anderen Vegetationsstruktur als das umgebende Tiefland. Ein wichtiger Teil der Provinzgeografie.",
+      "facts": ["Erhöhte Lage", "Vegetationsvielfalt", "Wichtige Geografie", "Hochland-Region"]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "description": "Das Gilé-Massiv ist ein zerklüftetes Berggebiet, das die Landschaft stark strukturiert und zahlreiche kleine Wasserläufe speist.",
+      "facts": ["Zerklüftetes Massiv", "Strukturierte Landschaft", "Speist Wasserläufe", "Bergregion"]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "description": "Die Küstenregion bei Mossuril bietet eine flache Struktur mit weiten Sandstränden und Buchten. Ein wichtiges Gebiet für die Küstengeografie.",
+      "facts": ["Flache Küstenstruktur", "Weite Sandstrände", "Wichtige Geografie", "Küstengebiet"]
+    }
+  ]
+}

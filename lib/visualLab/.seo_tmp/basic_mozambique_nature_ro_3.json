@@ -1,0 +1,29 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "Un lac format pe cursul râului Zambezi, care oferă un mediu acvatic vital pentru viața sălbatică locală și pescuit.",
+      "facts": ["Lac pe Zambezi", "Ecosistem acvatic", "Viață sălbatică", "Pescuit"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "O rezervație forestieră importantă, renumită pentru conservarea biodiversității și protejarea speciilor de primate locale.",
+      "facts": ["Rezervație forestieră", "Conservare", "Biodiversitate", "Primate"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "Zonă maritimă cu importanță pentru ecologia oceanică, oferind habitate pentru diverse specii de pești și creaturi marine.",
+      "facts": ["Zonă maritimă", "Ecologie oceanică", "Specii de pești", "Habitate marine"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "Un vârf montan ce oferă perspective asupra văilor adiacente, găzduind o floră alpină adaptată climatului local.",
+      "facts": ["Vârf montan", "Perspective asupra văilor", "Floră alpină", "Climat local"]
+    }
+  ]
+}

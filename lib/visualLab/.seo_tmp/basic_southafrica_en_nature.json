@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "table-mountain-nature-v2",
+      "description": "Table Mountain is an iconic flat-topped mountain overlooking Cape Town, forming the heart of a biodiverse national park.",
+      "facts": ["Flat-topped landmark", "Part of Table Mountain National Park", "High biodiversity", "New7Wonders of Nature site"]
+    },
+    {
+      "id": "cederberg-nature-v2",
+      "description": "The Cederberg Mountains are famous for their dramatic sandstone rock formations and ancient San rock art.",
+      "facts": ["Dramatic sandstone formations", "Ancient San rock art", "Protected wilderness area", "Unique mountain flora"]
+    },
+    {
+      "id": "indian-ocean-coast-nature-v2",
+      "description": "The Indian Ocean coast of South Africa is characterized by warm waters, beautiful beaches, and subtropical coastal forests.",
+      "facts": ["Warm Indian Ocean waters", "Rich marine biodiversity", "Subtropical coastal forests", "Popular coastline"]
+    },
+    {
+      "id": "atlantic-ocean-coast-nature-v2",
+      "description": "The Atlantic coast features rugged scenery, dramatic cliffs, and the cold waters of the Benguela Current.",
+      "facts": ["Cold Benguela Current", "Rugged coastal cliffs", "Rich in marine life", "Scenic western shoreline"]
+    },
+    {
+      "id": "karoo-nature-v2",
+      "description": "The Karoo is a vast, semi-desert region known for its wide open spaces and unique succulent vegetation.",
+      "facts": ["Vast semi-desert region", "Unique succulent flora", "Wide open landscape", "Rich fossil history"]
+    },
+    {
+      "id": "tsitsikamma-forest-nature-v2",
+      "description": "Tsitsikamma is a protected area on the Garden Route, featuring ancient forests, dramatic coastlines, and river gorges.",
+      "facts": ["Part of Garden Route", "Ancient indigenous forests", "Dramatic river gorges", "Coastal marine protected area"]
+    },
+    {
+      "id": "lake-teko-nature-v2",
+      "description": "Lake Teko is a notable wetland and freshwater environment supporting various bird species.",
+      "facts": ["Freshwater wetland", "Supports diverse birdlife", "Important natural habitat", "Regional ecological significance"]
+    },
+    {
+      "id": "uphole-lake-nature-v2",
+      "description": "Uphole Lake is an important natural water body, serving as a sanctuary for local avian wildlife.",
+      "facts": ["Important natural water body", "Local avian sanctuary", "Protected ecological site", "Supports biodiversity"]
+    },
+    {
+      "id": "add-elephant-park-nature-v2",
+      "description": "Addo Elephant National Park is a premier wildlife reserve, particularly known for its thriving population of African elephants.",
+      "facts": ["Thriving elephant population", "Major wildlife reserve", "Diverse mammal species", "Protected national park"]
+    },
+    {
+      "id": "orange-river-mouth-nature-v2",
+      "description": "The Orange River Mouth is a significant wetland and estuary area forming the border between South Africa and Namibia.",
+      "facts": ["Important wetland and estuary", "Border with Namibia", "Rich in birdlife", "Ecologically significant area"]
+    }
+  ]
+}

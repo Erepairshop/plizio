@@ -1,0 +1,68 @@
+{
+  "lang": "ro",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaNatureV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bo-tiwanaku-history-v2",
+      "description": "Tiwanaku este unul dintre cele mai importante situri arheologice precolumbiene din America de Sud, servind drept capitală a unui imperiu influent.",
+      "facts": ["Centru spiritual și politic", "Situat lângă Lacul Titicaca", "Patrimoniu Mondial UNESCO", "Apogeu între 500 și 950 d.Hr."]
+    },
+    {
+      "id": "bo-puma-punku-history-v2",
+      "description": "Puma Punku este un complex monumental terasat, faimos pentru precizia incredibilă a tăierii pietrelor și ingineria sa avansată.",
+      "facts": ["Blocuri masive de andezit", "Tehnici de îmbinare precise", "Parte a complexului Tiwanaku", "Structuri în formă de H"]
+    },
+    {
+      "id": "bo-akapana-history-v2",
+      "description": "Piramida Akapana este cea mai mare structură din Tiwanaku, o movilă terasată care avea inițial șapte niveluri suprapuse.",
+      "facts": ["Formă piramidală impunătoare", "Sistem complex de drenaj", "Înălțime de aproximativ 18 metri", "Folosită pentru ritualuri sacre"]
+    },
+    {
+      "id": "bo-puerta-del-sol-history-v2",
+      "description": "Poarta Soarelui este un monument iconic sculptat dintr-un singur bloc de piatră, reprezentând o realizare artistică supremă a culturii Tiwanaku.",
+      "facts": ["Basoreliefuri astronomice", "Greutate de peste 10 tone", "Figura centrală Viracocha", "Simbol al calendarului solar"]
+    },
+    {
+      "id": "bo-kalasasaya-history-v2",
+      "description": "Kalasasaya este un templu ceremonial vast, cu ziduri de piatră care încadrează o curte ridicată folosită pentru observații astronomice.",
+      "facts": ["Ziduri din piloni masivi", "Găzduiește Monolitul Ponce", "Aliniere cu echinocțiile", "Structură dreptunghiulară mare"]
+    },
+    {
+      "id": "bo-chincana-history-v2",
+      "description": "Chincana este un complex de ruine labirintice situat pe Isla del Sol, considerat locul unde incașii credeau că soarele a fost creat.",
+      "facts": ["Pasaje și coridoare înguste", "Vedere spre Lacul Titicaca", "Sit sacru pentru incași", "Construcție din piatră brută"]
+    },
+    {
+      "id": "bo-incallajta-history-v2",
+      "description": "Incallajta a fost cea mai importantă fortăreață militară și centru administrativ al Imperiului Incaș în regiunea estică a Boliviei.",
+      "facts": ["Construită de Tupac Yupanqui", "Ziduri defensive masive", "Suprafață de 67 de hectare", "Situată în departamentul Cochabamba"]
+    },
+    {
+      "id": "bo-palacio-quemado-history-v2",
+      "description": "Palatul Quemado este sediul oficial al puterii executive din Bolivia, primindu-și numele după ce a fost incendiat în timpul unei revolte din 1875.",
+      "facts": ["Stil arhitectural neoclasic", "Situat în Plaza Murillo", "Reședință prezidențială istorică", "Fațadă roz distinctivă"]
+    },
+    {
+      "id": "cristo-concordia-landmarks-v2",
+      "description": "Cristo de la Concordia este o statuie monumentală a lui Iisus Hristos situată pe dealul San Pedro, fiind una dintre cele mai înalte de acest tip din lume.",
+      "facts": ["Înălțime de 34,2 metri", "Accesibilă prin 1399 de trepte", "Vedere panoramică asupra Cochabamba", "Finalizată în anul 1994"]
+    },
+    {
+      "id": "basilica-san-francisco-landmarks-v2",
+      "description": "Bazilica San Francisco este o capodoperă a stilului baroc mestizo, remarcându-se prin fațada sa sculptată bogat cu motive indigene și catolice.",
+      "facts": ["Construită în secolul al XVIII-lea", "Situată în centrul orașului La Paz", "Fațadă din piatră sculptată", "Muzeu de artă religioasă"]
+    },
+    {
+      "id": "catedral-metropolitana-sucre-landmarks-v2",
+      "description": "Catedrala Metropolitană din Sucre este o clădire religioasă impresionantă care îmbină elemente renascentiste, baroce și neoclasice.",
+      "facts": ["Găzduiește Fecioara din Guadalupe", "Turn cu ceas iconic", "Construcție începută în 1551", "Situată în capitala constituțională"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-cedros-port-economic-v2",
+      "description": "Port strategic situat pe peninsula Cedros, având un rol esențial în activitățile maritime și comerțul local.",
+      "facts": ["Peninsula Cedros", "Port maritim", "Comerț local"]
+    },
+    {
+      "id": "tt-la-brea-asphalt-v2",
+      "description": "Locație industrială celebră pentru exploatarea asfaltului natural, un sit geologic unic în Trinidad.",
+      "facts": ["Exploatare asfalt", "Sit geologic", "Importanță industrială"]
+    }
+  ]
+}

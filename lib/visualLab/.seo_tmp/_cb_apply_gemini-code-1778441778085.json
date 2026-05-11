@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-algeti-national-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Algeti-Nationalpark liegt in der Region Niederkartlien (Kvemo Kartli), etwa 60 Kilometer südwestlich von Tiflis, und erstreckt sich über die südlichen Hänge des Trialeti-Gebirges. Geografisch ist der Park durch ein zerklüftetes Relief geprägt, das Höhenlagen zwischen 1.100 und 2.000 Metern umfasst. Historisch wurde das Gebiet 1965 als Staatsreservat gegründet und später zum Nationalpark erhoben, um die wertvollen Nadelwälder der Region zu schützen. Die ökologische Bedeutung von Algeti liegt vor allem in seinen Beständen der Nordmann-Tanne (Abies nordmanniana) und der Kaukasus-Fichte (Picea orientalis), die hier ihre östliche Verbreitungsgrenze erreichen. Der Fluss Algeti und seine zahlreichen Nebenflüsse haben tiefe Schluchten in das Kalkstein- und Vulkangestein gegraben, was eine hohe Lebensraumvielfalt schafft. Archäologisch ist das Gebiet bedeutend, da sich innerhalb des Parks Ruinen mittelalterlicher Festungen und Kirchen befinden, die die strategische Rolle der Trialeti-Pässe belegen. Ökonomisch profitiert die Region vom wachsenden Ökotourismus, insbesondere durch Wander- und Reitwege, die Einblicke in die kaukasische Bergflora bieten. Das Parkmanagement konzentriert sich heute auf die Waldverjüngung und den Schutz gefährdeter Greifvögel wie des Kaiseradlers. Algeti dient als wichtiges Naherholungsgebiet für die Bewohner des Großraums Tiflis.",
+        "hu": "Az Algeti Nemzeti Park Alsó-Kartli régióban található, körülbelül 60 kilométerre délnyugatra Tbiliszitől, a Trialeti-hegység déli lejtőin. Földrajzilag a parkot tagolt domborzat jellemzi, amely 1100 és 2000 méter közötti magasságokban terül el. Történelmileg a területet 1965-ben állami rezervátummá nyilvánították, majd később nemzeti parkká minősítették át a régió értékes fenyőerdőinek megőrzése érdekében. Az Algeti ökológiai jelentőségét elsősorban a kaukázusi jegenyefenyő (Abies nordmanniana) és a keleti lucfenyő (Picea orientalis) állományai adják, amelyek itt érik el elterjedési területük keleti határát. Az Algeti-folyó és számos mellékfolyója mély szurdokokat vájt a mészkő- és vulkáni kőzetekbe, változatos élőhelyeket hozva létre. Régészeti szempontból a terület gazdag középkori várak és templomok romjaiban, amelyek a Trialeti-hágók egykori stratégiai szerepét igazolják. Gazdaságilag a régió profitál a növekvő ökoturizmusból, különösen a gyalogos és lovas túraútvonalak révén, amelyek bemutatják a kaukázusi hegyi flórát. A parkkezelés ma az erdőfelújításra és a veszélyeztetett ragadozó madarak, például a parlagi sas védelmére összpontosít. Az Algeti fontos rekreációs övezet Tbiliszi lakossága számára.",
+        "ro": "Parcul Național Algeti este situat în regiunea Kvemo Kartli, la aproximativ 60 de kilometri sud-vest de Tbilisi, pe versanții sudici ai munților Trialeti. Geografic, parcul este definit de un relief accidentat, acoperind cote altitudinale între 1.100 și 2.000 de metri. Din punct de vedere istoric, zona a fost declarată rezervație de stat în 1965 și ulterior transformată în parc național pentru a proteja pădurile de conifere valoroase ale regiunii. Importanța ecologică a Algeti rezidă în special în habitatele de brad de Caucaz (Abies nordmanniana) și molid oriental (Picea orientalis), care ating aici limita estică a distribuției lor naturale. Râul Algeti și afluenții săi au sculptat defilee adânci în substratul de calcar și roci vulcanice, creând o diversitate biologică ridicată. Arheologic, perimetrul parcului adăpostește ruine ale unor cetăți și biserici medievale, atestând rolul strategic al trecătorilor din munții Trialeti. Din punct de vedere economic, regiunea beneficiază de dezvoltarea ecoturismului, oferind trasee montane și de echitație care pun în valoare flora alpină caucaziană. Managementul parcului se concentrează în prezent pe regenerarea forestieră și protejarea păsărilor de pradă periclitate, precum acvila de câmp. Algeti reprezintă o zonă vitală de recreere pentru locuitorii zonei metropolitane Tbilisi.",
+        "en": "Algeti National Park is situated in the Kvemo Kartli region, approximately 60 kilometers southwest of Tbilisi, covering the southern slopes of the Trialeti Range. Geographically, the park features rugged terrain with elevations ranging from 1,100 to 2,000 meters. Historically established as a state reserve in 1965 and later designated a national park, its primary purpose is the conservation of unique coniferous forests. The ecological significance of Algeti lies in its stands of Nordmann Fir (Abies nordmanniana) and Eastern Spruce (Picea orientalis), which represent the easternmost limit of their natural range in the Caucasus. The Algeti River and its tributaries have carved deep valleys into the limestone and volcanic bedrock, creating a high level of habitat diversity. Archeologically, the area is rich with ruins of medieval fortifications and churches, testifying to the strategic importance of the Trialeti mountain passes. Economically, the region benefits from growing eco-tourism, specifically through hiking and horseback riding trails that provide access to Caucasian alpine flora. Current management focuses on forest restoration and the protection of endangered raptors like the Imperial Eagle. Algeti serves as a vital recreational outlet for the residents of the Greater Tbilisi area."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt die östlichsten natürlichen Vorkommen der Nordmann-Tanne.",
+          "Liegt im strategisch bedeutenden Trialeti-Gebirgszug südwestlich der Hauptstadt.",
+          "Umfasst Höhenlagen von 1.100 m bis knapp über 2.000 m.",
+          "Wurde ursprünglich im Jahr 1965 als staatliches Naturschutzgebiet gegründet.",
+          "Enthält zahlreiche mittelalterliche Ruinen, darunter die Birtvisi-Festung.",
+          "Wichtiger Lebensraum für den Kaukasus-Luchs und den Braunbären."
+        ],
+        "hu": [
+          "A kaukázusi jegenyefenyő legkeletibb természetes élőhelyeinek egyike.",
+          "A Tbiliszitől délnyugatra fekvő Trialeti-hegységben található.",
+          "Tengerszint feletti magassága 1100 és 2000 méter között mozog.",
+          "Eredetileg 1965-ben alapították, kifejezetten erdővédelmi célból.",
+          "Területén több középkori műemlék, például a Birtviszi-erőd is megtalálható.",
+          "Fontos kutatási terület a kaukázusi fenyőfajok adaptációjának vizsgálatára."
+        ],
+        "ro": [
+          "Protejează limita estică a arealului natural pentru bradul de Caucaz.",
+          "Situat în munții Trialeti, o zonă de mare diversitate geologică.",
+          "Altitudinea variază semnificativ, atingând vârful la peste 2.000 m.",
+          "Înființat în 1965 ca rezervație forestieră sub regim de protecție severă.",
+          "Găzduiește vestigii istorice, inclusiv cetăți medievale de apărare.",
+          "Arie critică pentru conservarea biodiversității montane din Kvemo Kartli."
+        ],
+        "en": [
+          "Home to the easternmost natural stands of the Nordmann Fir in Georgia.",
+          "Located within the Trialeti mountain range southwest of Tbilisi.",
+          "Elevation spans a significant gradient from 1,100 to over 2,000 meters.",
+          "Originally established in 1965 to protect rare coniferous ecosystems.",
+          "Contains significant medieval landmarks, including the Birtvisi fortress ruins.",
+          "A key sanctuary for large mammals like brown bears and lynxes."
+        ]
+      }
+    },
+    {
+      "id": "ge-machakhela-national-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Machakhela-Nationalpark liegt in der Region Adscharien im Südwesten Georgiens und umfasst das spektakuläre Machakhela-Tal an der Grenze zur Türkei. Geografisch ist der Park durch extrem feuchte kolchische Regenwälder und ein steiles Relief geprägt, das von den Gipfeln des Kleinen Kaukasus umschlossen wird. Historisch ist das Tal als Zentrum der handwerklichen Waffenherstellung bekannt; die 'Machakhela-Gewehre' aus dem 18. und 19. Jahrhundert sind legendär und Symbole des lokalen Widerstandsgeistes. Die Architektur der Region besticht durch mittelalterliche Steinbogenbrücken und traditionelle Holzhäuser auf Steinfundamenten, die sich harmonisch in die Wildnis einfügen. Ökologisch beherbergt der Park eine außergewöhnliche Biodiversität, darunter endemische Amphibien und die Kaukasische Honigbiene. Ökonomisch fördert der 2012 gegründete Park die nachhaltige ländliche Entwicklung durch gemeindebasierten Tourismus, wobei traditionelles Handwerk und die Imkerei im Fokus stehen. Technisch ist die Verwaltung des Parks aufgrund der schwierigen Topografie und der hohen Niederschlagsmengen anspruchsvoll, da Wege und Brücken oft durch Erdrutsche bedroht sind. Der Park fungiert als ökologischer Korridor zwischen den Schutzgebieten Georgiens und der Türkei und bewahrt eine einzigartige Symbiose aus unberührter Natur und jahrhundertealtem Kulturerbe.",
+        "hu": "A Macsahela Nemzeti Park Grúzia délnyugati részén, Adzsara régióban található, és a török határ mentén fekvő látványos Macsahela-völgyet foglalja magában. Földrajzilag a parkot extrém párás kolkhiszi esőerdők és a Kis-Kaukázus csúcsai által övezett meredek domborzat jellemzi. Történelmileg a völgy a kézműves fegyvergyártás központjaként ismert; a 18. és 19. századi „Macsahela-puskák” legendásak, és a helyi ellenállási szellem szimbólumai. A régió építészete középkori kőívhidakkal és hagyományos, kőalapra épült faházakkal nyűgöz le, amelyek harmonikusan illeszkednek a vadonba. Ökológiailag a park rendkívüli biodiverzitásnak ad otthont, beleértve az endemikus kétéltűeket és a kaukázusi méhet. Gazdaságilag a 2012-ben alapított park a fenntartható vidéki fejlődést ösztönzi a közösségi alapú turizmus révén, hangsúlyt fektetve a hagyományos mesterségekre és a méhészetre. Technikai szempontból a park kezelése a nehéz domborzati viszonyok és a nagy mennyiségű csapadék miatt igényes, mivel az utakat és hidakat gyakran fenyegetik földcsuszamlások. A park ökológiai folyosóként funkcionál Grúzia és Törökország védett területei között, megőrizve az érintetlen természet és a több évszázados kulturális örökség egyedülálló szimbiózisát.",
+        "ro": "Parcul Național Machakhela este situat în regiunea Adjara din sud-vestul Georgiei, cuprinzând spectaculoasa vale Machakhela de la frontiera cu Turcia. Geografic, parcul este definit de păduri pluviale colchicé extrem de umede și de un relief abrupt, încadrat de vârfurile Caucazului Mic. Din punct de vedere istoric, valea este renumită ca centru al manufacturii artizanale de arme; „puștile de Machakhela” din secolele XVIII și XIX sunt legendare, simbolizând spiritul de rezistență local. Arhitectura regiunii se remarcă prin podurile medievale din piatră în arc și casele tradiționale din lemn construite pe fundații de piatră, care se integrează armonios în peisaj. Ecologic, parcul adăpostește o biodiversitate excepțională, incluzând amfibieni endemici și albina caucaziană. Din punct de vedere economic, parcul înființat în 2012 promovează dezvoltarea rurală durabilă prin turism comunitar, punând accent pe meșteșugurile tradiționale și apicultură. Tehnic, administrarea parcului este dificilă din cauza topografiei accidentate și a precipitațiilor abundente, drumurile și podurile fiind frecvent afectate de alunecări de teren. Parcul funcționează ca un coridor ecologic între ariile protejate din Georgia și Turcia, păstrând o simbioză unică între natura virgină și patrimoniul cultural secular.",
+        "en": "Machakhela National Park is located in the Adjara region of southwestern Georgia, encompassing the spectacular Machakhela Valley along the Turkish border. Geographically, the park is characterized by extremely humid Colchic rainforests and steep terrain framed by the peaks of the Lesser Caucasus. Historically, the valley is renowned as a center for artisanal firearm production; the 'Machakhela rifles' of the 18th and 19th centuries are legendary symbols of local resilience. The region's architecture features medieval stone arch bridges and traditional wooden houses built on stone foundations, blending seamlessly into the wilderness. Ecologically, the park hosts extraordinary biodiversity, including endemic amphibians and the Caucasian honeybee. Economically, the park, established in 2012, promotes sustainable rural development through community-based tourism, focusing on traditional crafts and beekeeping. Technically, park management is challenging due to the difficult topography and high rainfall, as trails and bridges are frequently threatened by landslides. The park acts as an ecological corridor between protected areas in Georgia and Turkey, preserving a unique symbiosis of pristine nature and centuries-old cultural heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im Jahr 2012 zum Schutz des Machakhela-Tales.",
+          "Berühmt für die historische Produktion von handgefertigten Flinten.",
+          "Beherbergt mehrere mittelalterliche Steinbogenbrücken aus dem 12. Jahrhundert.",
+          "Wichtiger Bestandteil des grenzüberschreitenden ökologischen Korridors zur Türkei.",
+          "Die Flora besteht primär aus dichtem, subtropischem kolchischem Regenwald.",
+          "Besitzt ein bedeutendes Ethnografisches Museum im Dorf Machakhlis-Piri."
+        ],
+        "hu": [
+          "2012-ben alapították a Macsahela-völgy védelmére.",
+          "A völgy a 18-19. századi hagyományos fegyverkészítéséről híres.",
+          "Számos 12. századi, Tamar királynő korabeli kőhíd található a területén.",
+          "Grúzia és Törökország közötti stratégiai ökológiai folyosó része.",
+          "Növényzetét sűrű, szubtrópusi jellegű kolkhiszi esőerdők alkotják.",
+          "Macsahaliszpíri faluban jelentős néprajzi múzeum működik."
+        ],
+        "ro": [
+          "Înființat în 2012 pentru a conserva ecosistemele din valea Machakhela.",
+          "Centru istoric renumit pentru producția de arme de foc artizanale.",
+          "Include poduri medievale monumentale din perioada reginei Tamar.",
+          "Element cheie în coridorul biologic transfrontalier Georgia-Turcia.",
+          "Dominat de păduri pluviale colchicé cu o rată ridicată de endemism.",
+          "Turismul local este axat pe patrimoniul cultural și gastronomia rurală."
+        ],
+        "en": [
+          "Established in 2012 to protect the unique Machakhela Valley ecosystem.",
+          "Famous for its historical tradition of handcrafted rifle manufacturing.",
+          "Features several intact 12th-century medieval arched stone bridges.",
+          "Acts as a strategic transboundary ecological link with Turkey.",
+          "Primarily covered by dense, humid subtropical Colchic rainforests.",
+          "Home to a significant ethnographic museum in the village of Machakhlispiri."
+        ]
+      }
+    },
+    {
+      "id": "ge-tbilisi-botanical-garden-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Nationale Botanische Garten von Georgien liegt im historischen Zentrum von Tiflis und ist eine grüne Oase von über 160 Hektar Fläche. Geografisch erstreckt sich der Garten im Tal des Tsavkisistskali-Flusses am südlichen Fuße des Sololaki-Kamms, direkt unterhalb der Narikala-Festung. Mit einer über 300-jährigen Geschichte wurde er bereits 1625 als königlicher Garten erwähnt und 1845 offiziell als botanische Forschungseinrichtung reorganisiert. Ein markantes technisches Highlight ist der Tsavkisistskali-Wasserfall und die darüber gespannten Brücken, darunter die hochgewölbte 'Königin-Tamar-Brücke'. Die Sammlung umfasst über 4.500 Pflanzenarten, wobei der Schwerpunkt auf der kaukasischen Flora und gefährdeten lokalen Endemiten liegt. Historisch diente der Garten als Versuchsfeld für die Akklimatisierung exotischer Arten im Südkaukasus. Ökonomisch ist er eines der bedeutendsten Naherholungs- und Bildungsdenkmäler von Tiflis, das sowohl Wissenschaftler als auch Touristen anzieht. Das abwechslungsreiche Relief bietet unterschiedliche Mikroklimata, die die Koexistenz von mediterranen, asiatischen und lokalen alpinen Pflanzengemeinschaften in einer urbanen Umgebung ermöglichen.",
+        "hu": "Grúzia Nemzeti Botanikus Kertje Tbiliszi történelmi központjában található, és egy több mint 160 hektáron elterülő zöld oázis. Földrajzilag a Calkisziszkali-folyó völgyében, a Szololaki-gerinc déli lábánál és a Narikala-erőd alatt fekszik. Több mint három évszázados múltra tekint vissza, 1625-ben említették először királyi kertként, majd 1845-ben szervezték át hivatalosan botanikai kutatóintézetté. A kert legikonikusabb technikai eleme a Calkisziszkali-vízesés és a szurdok felett átívelő hidak, köztük a magasan ívelt „Tamar királynő híd”. A gyűjtemény több mint 4500 növényfajt tartalmaz, elsősorban a kaukázusi flórára és a veszélyeztetett helyi fajokra összpontosítva. Történelmileg a kert kísérleti terepként szolgált az egzotikus fajok dél-kaukázusi honosításához. Gazdaságilag Tbiliszi egyik legfontosabb rekreációs és oktatási helyszíne, amely tudósokat és turistákat egyaránt vonz. A változatos domborzat különböző mikroklímákat biztosít, lehetővé téve a mediterrán, ázsiai és helyi alpesi növénytársulások együttélését városi környezetben.",
+        "ro": "Grădina Botanică Națională a Georgiei, situată în inima istorică a orașului Tbilisi, este o oază verde care se întinde pe mai mult de 160 de hectare. Din punct de vedere geografic, aceasta este amplasată în valea râului Tsavkisistskali, la poalele sudice ale crestei Sololaki și ale cetății Narikala. Cu o istorie de peste trei secole, grădina a fost menționată pentru prima dată ca grădină regală în 1625 și reorganizată oficial ca facilitate de cercetare botanică în 1845. Caracteristica tehnică cea mai emblematică este cascada Tsavkisistskali și podurile care traversează defileul, inclusiv podul arcuit „Regina Tamar”. Colecția cuprinde peste 4.500 de specii de plante, cu un accent principal pe flora caucaziană și pe speciile endemice locale periclitate. Istoric, a servit ca teren de testare pentru aclimatizarea speciilor exotice în Caucazul de Sud. Din punct de vedere economic, este unul dintre cele mai importante repere recreative și educaționale din Tbilisi, atrăgând atât cercetători, cât și turiști. Relieful variat al grădinii oferă microclimate diverse, permițând coexistența comunităților de plante mediteraneene, asiatice și alpine locale într-un mediu urban.",
+        "en": "The National Botanical Garden of Georgia, located in the historic heart of Tbilisi, is a green oasis spanning over 160 hectares. Geographically, it is situated in the Tsavkisistskali River valley at the southern foot of the Sololaki Ridge and Narikala Fortress. With a history spanning over three centuries, it was first mentioned as a royal garden in 1625 and was officially reorganized as a botanical research facility in 1845. The garden's most iconic technical feature is the Tsavkisistskali waterfall and the bridges spanning the gorge, including the high-arched 'Queen Tamar bridge.' Its collection includes over 4,500 species of plants, with a primary focus on Caucasian flora and endangered local endemics. Historically, it served as a trial ground for acclimatizing exotic species in the South Caucasus. Economically, it is one of Tbilisi's most significant recreational and educational landmarks, attracting scholars and tourists alike. The garden's varied relief provides diverse microclimates, allowing for the coexistence of Mediterranean, Asian, and local alpine plant communities within an urban environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der ältesten botanischen Gärten im Kaukasus (seit 1625).",
+          "Beherbergt eine Sammlung von über 4.500 verschiedenen Pflanzenarten.",
+          "Wichtigster Standort für die Erhaltung bedrohter georgischer Endemiten.",
+          "Verfügt über einen imposanten 20 Meter hohen natürlichen Wasserfall.",
+          "Umfasst historische Denkmäler wie das Pantheon der prominenten Aserbaidschaner.",
+          "Liegt direkt unterhalb der Festung Narikala im Tsavkisistskali-Tal."
+        ],
+        "hu": [
+          "A Kaukázus egyik legrégebbi botanikus kertje, alapjai 1625-re nyúlnak vissza.",
+          "Több mint 4500 növényfaj található a 161 hektáros területen.",
+          "A grúz veszélyeztetett növényfajok megőrzésének központi helyszíne.",
+          "Egy látványos, 20 méter magas természetes vízesés díszíti.",
+          "Itt található a neves azerbajdzsáni személyiségek panteonja is.",
+          "Közvetlen összeköttetése van a Narikala-erőddel és az óvárossal."
+        ],
+        "ro": [
+          "Una dintre cele mai vechi grădini botanice din regiune, datând din 1625.",
+          "Colecția botanică numără peste 4.500 de specii pe o suprafață de 161 ha.",
+          "Centru major pentru conservarea ex-situ a florei rare din Georgia.",
+          "Include o cascadă naturală spectaculoasă și mai multe poduri istorice.",
+          "Găzduiește un panteon unde sunt înmormântate personalități marcante.",
+          "Situată strategic într-un defileu natural chiar sub zidurile cetății Narikala."
+        ],
+        "en": [
+          "One of the oldest botanical gardens in the Caucasus, established in 1625.",
+          "Houses a vast collection of over 4,500 plant species across 161 hectares.",
+          "A primary site for the conservation of endangered Georgian plant species.",
+          "Features a prominent 20-meter high natural waterfall in its center.",
+          "Contains the Pantheon of prominent Azerbaijanis buried in Tbilisi.",
+          "Integrated into the city's historic defensive landscape below Narikala."
+        ]
+      }
+    },
+    {
+      "id": "ge-rike-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rike-Park ist ein moderner öffentlicher Raum im historischen Zentrum von Tiflis am linken Ufer des Mtkvari-Flusses. Er wurde 2010 im Rahmen des umfassenden Modernisierungsprogramms der Stadt eröffnet und dient über die Friedensbrücke als Bindeglied zwischen dem alten Stadtteil Avlabari und der Altstadt. Geografisch nimmt er eine flache Schwemmlandebene ein, die historisch ein Marktplatz und Transitknotenpunkt war. Der Park ist durch seine kühne zeitgenössische Architektur geprägt, vor allem durch die metallenen Röhrenstrukturen, die als Konzertsaal und Ausstellungszentrum konzipiert wurden. Technisch gesehen ist der Park die Talstation der modernen Luftseilbahn, die einen schnellen Zugang zur Narikala-Festung ermöglicht. Ökonomisch ist der Rike-Park ein vitales Zentrum für den städtischen Tourismus und öffentliche Veranstaltungen, mit musikalischen Springbrunnen, Open-Air-Bühnen und aufwendiger Landschaftsgestaltung. Sein Design betont Geometrie und Transparenz und bildet einen scharfen visuellen Kontrast zur umgebenden mittelalterlichen Architektur. Er ist zu einem zentralen Treffpunkt für Einwohner geworden und ein Symbol für die Erneuerung von Tiflis im 21. Jahrhundert und seine internationale Ausrichtung.",
+        "hu": "A Rike-park Tbiliszi történelmi központjában, a Mtkvari-folyó bal partján található kiemelkedő, modern közösségi tér. 2010-ben nyitották meg a város nagyszabású modernizációs programjának részeként, és a Béke hídján keresztül összeköti a történelmi Avlabari negyedet az óvárossal. Földrajzilag egy lapos ártéri területet foglal el, amely történelmileg piactér és közlekedési csomópont volt. A parkot merész kortárs építészet jellemzi, leginkább az iker fémcsöves szerkezetek, amelyeket koncertteremnek és kiállítási központnak terveztek. Technikai szempontból a park a Narikala-erődbe vezető modern légi felvonó alsó állomása. Gazdaságilag a Rike-park a városi turizmus és a nyilvános események létfontosságú központja, zenélő szökőkutakkal, szabadtéri színpadokkal és igényes tájépítészeti megoldásokkal. Kialakítása a geometriát és az átláthatóságot hangsúlyozza, éles vizuális kontrasztot alkotva a környező középkori építészettel. A lakosok központi találkozóhelyévé vált, és Tbiliszi 21. századi városmegújulásának és nemzetközi orientációjának jelképe.",
+        "ro": "Parcul Rike este un spațiu public modern proeminent situat în centrul istoric al orașului Tbilisi, pe malul stâng al râului Mtkvari. Deschis în 2010 ca parte a programului de modernizare pe scară largă a orașului, acesta servește ca o punte între cartierul antic Avlabari și orașul vechi prin intermediul Podului Păcii. Din punct de vedere geografic, ocupă o zonă de luncă plată care, din punct de vedere istoric, a fost o piață și un nod de tranzit. Parcul este caracterizat de arhitectura sa contemporană îndrăzneață, în special de structurile metalice gemene sub formă de tuburi, concepute ca sală de concerte și centru expozițional. Din punct de vedere tehnic, parcul este terminalul inferior al telecabinei moderne care oferă acces rapid la cetatea Narikala. Din punct de vedere economic, Parcul Rike este un centru vital pentru turismul urban și evenimentele publice, dispunând de fântâni muzicale, scene în aer liber și amenajări peisagistice elaborate. Designul său pune accent pe geometrie și transparență, oferind un contrast vizual puternic cu arhitectura medievală înconjurătoare. A devenit un punct de întâlnire central pentru rezidenți și un simbol al reînnoirii urbane a orașului Tbilisi din secolul XXI și al orientării sale internaționale.",
+        "en": "Rike Park is a prominent modern public space located in the historic center of Tbilisi on the left bank of the Mtkvari River. Opened in 2010 as part of the city's large-scale modernization program, it serves as a bridge between the ancient Avlabari district and the Old Town via the Bridge of Peace. Geographically, it occupies a flat flood-plain area that was historically a marketplace and transit hub. The park is characterized by its bold contemporary architecture, most notably the twin metallic tube structures designed as a Concert Hall and Exhibition Center. Technically, the park is the lower terminal of the modern aerial tramway that provides rapid access to the Narikala Fortress. Economically, Rike Park is a vital hub for urban tourism and public events, featuring musical fountains, open-air stages, and elaborate landscaping. Its design emphasizes geometry and transparency, providing a sharp visual contrast to the surrounding medieval architecture. It has become a central meeting point for residents and a symbol of Tbilisi’s 21st-century urban renewal and international orientation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hauptknotenpunkt für die Seilbahn zur Narikala-Festung.",
+          "Beherbergt das futuristische Konzert- und Ausstellungszentrum (Röhrenbau).",
+          "Wurde im Jahr 2010 auf einer ehemaligen Brachfläche eröffnet.",
+          "Direkt verbunden mit der Altstadt über die moderne Friedensbrücke.",
+          "Bekannt für seine tanzenden und musikalischen Springbrunnen.",
+          "Beliebtester Ort für nationale Feiertage und Festivals in Tiflis."
+        ],
+        "hu": [
+          "A Narikala-erődhöz vezető libegő központi állomása.",
+          "Itt található a futurisztikus, cső alakú koncert- és kiállítóterem.",
+          "2010-ben adták át egy korábbi elhanyagolt terület helyén.",
+          "A Béke hídján keresztül közvetlen kapcsolata van az óvárossal.",
+          "Híres az éjszakai zenélő és táncoló szökőkútjairól.",
+          "A tbiliszi fesztiválok és ünnepi rendezvények legfőbb helyszíne."
+        ],
+        "ro": [
+          "Punctul de plecare al telecabinei moderne către cetatea Narikala.",
+          "Include Centrul de Expoziții și Muzică, un reper al arhitecturii futuriste.",
+          "Inaugurat în 2010 ca principal spațiu de promenadă al capitalei.",
+          "Conectat la orașul vechi prin celebrul Pod al Păcii (Bridge of Peace).",
+          "Dispune de fântâni arteziene cu jocuri de lumini și sunete.",
+          "Găzduiește anual festivitățile de Tbilisoba, cel mai mare festival urban."
+        ],
+        "en": [
+          "The primary lower terminal for the Narikala aerial tramway system.",
+          "Features the high-tech, tubular-shaped Concert Hall and Exhibition Center.",
+          "Opened in 2010 as part of an ambitious urban revitalization project.",
+          "Directly linked to the historic Old Town by the Bridge of Peace.",
+          "Famous for its nightly synchronized musical and dancing fountain show.",
+          "A central venue for city-wide festivals and national celebrations."
+        ]
+      }
+    },
+    {
+      "id": "ge-vake-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Vake-Park ist die größte und eine der prestigeträchtigsten öffentlichen Parkanlagen in Tiflis und liegt im westlichen Teil der Stadt im Bezirk Vake. Er wurde 1946 auf einem ehemaligen Brachland errichtet und von den Architekten N. Katsadze und L. Muskelishvili entworfen. Der Park zeichnet sich durch eine monumentale symmetrische Anlage mit einer großen Zentralachse aus, die zu einem massiven Denkmal für den Sieg im Zweiten Weltkrieg und dem Grabmal des unbekannten Soldaten führt, das auf einem Hang thront. Geografisch grenzt der Park an den Bagebi-Kamm und bildet den Übergang vom städtischen Raster zu den bewaldeten Hügeln. Technisch gesehen umfasst er ein ausgeklügeltes System von Kaskadenbrunnen und eine Seilbahnlinie, die ihn mit dem Schildkrötensee (Kus Tba) auf dem darüber liegenden Plateau verbindet. Historisch gesehen spiegelt der Park das neoklassizistische Landschaftsdesign der Sowjetära wider und dient als wichtiger Ort für öffentliche Versammlungen und sportliche Aktivitäten. Ökonomisch wertet er die Immobilienpreise des umliegenden Viertels auf und bietet der Bevölkerung im Nordwesten der Stadt einen unverzichtbaren Grünraum. Seine vielfältigen Baumarten und breiten Alleen machen ihn zu einem Musterbeispiel für urbane Forstwirtschaft und Sozialplanung der Mitte des 20. Jahrhunderts.",
+        "hu": "A Vake-park Tbiliszi legnagyobb és egyik legtekintélyesebb közparkja, amely a város nyugati részén, a Vake negyedben található. 1946-ban hozták létre egy korábbi pusztaság helyén, N. Katszadze és L. Muszkelisvili építészek tervei alapján. A parkot monumentális szimmetrikus elrendezés jellemzi, nagy központi tengellyel, amely egy masszív második világháborús győzelmi emlékműhöz és az ismeretlen katona sírjához vezet. Földrajzilag a park a Bagebi-gerinccel határos, átmenetet képezve a városi szövet és az erdős dombok között. Technikai szempontból kifinomult kaszkádos szökőkútrendszert és egy libegőt foglal magában, amely a felette lévő fennsíkon található Teknős-tóval (Kusz Tba) köti össze. Történelmileg a park a szovjet korszak neoklasszicista tájépítészetét tükrözi, és a nyilvános összejövetelek, valamint a sporttevékenységek fontos helyszíne. Gazdaságilag növeli a környező negyed ingatlanértékét, és nélkülözhetetlen zöldterületet biztosít a város északnyugati lakossága számára. Változatos fafajai és széles sugárútjai a 20. század közepi városi erdészet és szociális tervezés mintapéldájává teszik.",
+        "ro": "Parcul Vake este cel mai mare și unul dintre cele mai prestigioase parcuri publice din Tbilisi, situat în partea de vest a orașului, în districtul Vake. Înființat în 1946 pe locul unui fost teren viran, a fost proiectat de arhitecții N. Katsadze și L. Muskelishvili. Parcul are un aspect simetric monumental, cu o axă centrală mare care duce la un masiv memorial al victoriei în cel de-al Doilea Război Mondial și la Mormântul Soldatului Necunoscut, cocoțat pe o pantă. Din punct de vedere geografic, parcul se învecinează cu creasta Bagebi, oferind o tranziție de la rețeaua urbană la dealurile împădurite. Din punct de vedere tehnic, acesta încorporează un sistem elaborat de fântâni în cascadă și o linie de telecabină care îl conectează cu Lacul Țestoaselor (Kus Tba) de pe platoul de deasupra. Din punct de vedere istoric, parcul reflectă designul peisagistic neoclasic din epoca sovietică și servește ca loc major pentru adunări publice și activități sportive. Din punct de vedere economic, acesta sporește valoarea imobiliară a districtului înconjurător și oferă un spațiu verde esențial pentru populația din nord-vestul orașului. Speciile sale diverse de arbori și bulevardele largi îl fac un exemplu de prim rang de silvicultură urbană și planificare socială de la mijlocul secolului al XX-lea.",
+        "en": "Vake Park is the largest and one of the most prestigious public parks in Tbilisi, situated in the western part of the city within the Vake district. Established in 1946 on the site of a former wasteland, it was designed by architects N. Katsadze and L. Muskelishvili. The park features a monumental symmetrical layout with a grand central axis leading to a massive World War II victory memorial and the Tomb of the Unknown Soldier, perched on a slope. Geographically, the park borders the Bagebi ridge, offering a transition from the urban grid to the forested hills. Technically, it incorporates an elaborate system of cascading fountains and a cable car line connecting it to Turtle Lake (Kus Tba) on the plateau above. Historically, the park reflects Soviet-era neoclassical landscape design and serves as a major site for public gatherings and sporting activities. Economically, it enhances the real estate value of the surrounding district and provides essential green space for the city's northwestern population. Its diverse tree species and wide avenues make it a prime example of mid-20th-century urban forestry and social planning."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Stadtpark in Tiflis mit einer Fläche von über 200 Hektar.",
+          "Eröffnet im Jahr 1946 als Denkmal für den Sieg über den Faschismus.",
+          "Zentraler Punkt ist das monumentale Denkmal des Unbekannten Soldaten.",
+          "Wichtige Talstation der Seilbahn zum beliebten Schildkrötensee (Kus Tba).",
+          "Beispiel für den stalinistischen Klassizismus in der Landschaftsarchitektur.",
+          "Beliebter Treffpunkt für Familien und Sportbegeisterte im Vake-Viertel."
+        ],
+        "hu": [
+          "Tbiliszi legnagyobb városi parkja, területe meghaladja a 200 hektárt.",
+          "1946-ban nyitották meg a fasizmus feletti győzelem emlékére.",
+          "Központjában az Ismeretlen Katona monumentális emlékműve áll.",
+          "Itt található a népszerű Teknős-tóhoz (Kusz Tba) vezető libegő állomása.",
+          "A sztálini klasszicista tájépítészet egyik legszebb példája Grúziában.",
+          "A Vake negyed lakóinak elsődleges sport- és szabadidős központja."
+        ],
+        "ro": [
+          "Cel mai vast parcurs verde din capitală, depășind 200 de hectare.",
+          "Inaugurat în 1946 pentru a marca victoria împotriva forțelor Axei.",
+          "Dominat de o scară monumentală ce conduce la Memorialul Victoriei.",
+          "Punct de acces pentru telecabina către zona de agrement Kus Tba.",
+          "Proiectat în stilul peisagistic monumental tipic perioadei postbelice.",
+          "Utilizat intens pentru evenimente civice, marşuri și activități atletice."
+        ],
+        "en": [
+          "The largest urban park in Tbilisi, covering over 200 hectares.",
+          "Opened in 1946 to commemorate the Soviet victory in World War II.",
+          "Features a prominent monumental staircase leading to the Eternal Flame.",
+          "Home to the lower station of the cable car ascending to Turtle Lake.",
+          "A definitive example of Soviet neoclassical landscape architecture.",
+          "A premier local hub for family recreation and outdoor fitness activities."
+        ]
+      }
+    }
+  ]
+}

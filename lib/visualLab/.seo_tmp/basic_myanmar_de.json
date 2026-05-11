@@ -1,0 +1,50 @@
+{
+  "lang": "de",
+  "country": "Myanmar",
+  "files": [
+    "lib/visualLab/data/poiExtraMyanmarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMyanmarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amarapura-historical-city-history-v2",
+      "description": "Amarapura war im 18. und 19. Jahrhundert die Hauptstadt von Myanmar. Heute ist die Stadt als Zentrum des traditionellen Seidenwebereihandwerks bekannt.",
+      "facts": ["Ehemalige Hauptstadt", "Zentrum der Seidenweberei", "Gegründet im Jahr 1783"]
+    },
+    {
+      "id": "botahtaung-pagoda-history-v2",
+      "description": "Diese Pagode in Rangun bewahrt der Legende nach Reliquien des Buddha auf. Das ursprüngliche Bauwerk wurde im Zweiten Weltkrieg vollständig zerstört und später originalgetreu rekonstruiert.",
+      "facts": ["Standort: Rangun", "Enthält Buddha-Reliquien", "Wiederaufbau nach 1945"]
+    },
+    {
+      "id": "ananda-temple-history-v2",
+      "description": "Der Ananda-Tempel in Bagan gilt als eines der Meisterwerke der burmesischen Architektur. Er beherbergt vier monumentale, stehende Buddha-Statuen aus Teakholz.",
+      "facts": ["Erbaut um 1105", "UNESCO-Weltkulturerbe", "Zentrum des Buddhismus"]
+    },
+    {
+      "id": "salween-river-nature-v2",
+      "description": "Der Salween ist einer der längsten Flüsse Südostasiens und fließt durch die Bergregionen Myanmars. Er bildet ein bedeutendes Ökosystem mit reicher Artenvielfalt.",
+      "facts": ["Länge ca. 2.800 km", "Wichtige Lebensader", "Fließt durch das Hochland"]
+    },
+    {
+      "id": "hlawga-national-park-nature-v2",
+      "description": "Der Hlawga-Nationalpark bei Rangun ist ein Naturschutzgebiet mit einem großen Stausee. Er dient als wichtiges Auffangbecken und bietet Lebensraum für zahlreiche Vogelarten.",
+      "facts": ["Nahe Rangun gelegen", "Großes Stausee-Gebiet", "Beliebtes Vogelbeobachtungsgebiet"]
+    },
+    {
+      "id": "khakaborazi-national-park-nature-v2",
+      "description": "Der Khakaborazi-Nationalpark schützt das höchste Gebirgsmassiv Myanmars in den östlichen Ausläufern des Himalayas. Die Region ist geprägt von unberührten alpinen Landschaften.",
+      "facts": ["Höchster Berg: Hkakabo Razi", "Liegt im Himalaya", "Hohe Artenvielfalt"]
+    },
+    {
+      "id": "sittaung-river-nature-v2",
+      "description": "Der Sittaung entspringt im Bago-Gebirge und fließt nach Süden in den Golf von Martaban. Das Flusstal ist eine wichtige landwirtschaftliche Region in Zentral-Myanmar.",
+      "facts": ["Mündet in den Golf von Martaban", "Länge ca. 420 km", "Wichtige Agrarregion"]
+    },
+    {
+      "id": "tanintharyi-nature-reserve-nature-v2",
+      "description": "Dieses Naturschutzgebiet in der Tanintharyi-Region bewahrt wertvolle tropische Regenwälder. Es bietet Rückzugsmöglichkeiten für gefährdete Tierarten wie Elefanten und Tiger.",
+      "facts": ["Regenwald-Schutzgebiet", "Heimat seltener Arten", "Süd-Myanmar gelegen"]
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nam-et-phou-louey-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Nam Et-Phou Louey Nationalpark erstreckt sich über den Norden von Laos und ist das größte Schutzgebiet des Landes. Er zeichnet sich durch dichte Tropenwälder und steile Berglandschaften aus. Das Gebiet ist ein wichtiges Refugium für gefährdete Tierarten, darunter der Indochinesische Tiger, Nebelparder und asiatische Schwarzbären. Zahlreiche Flusssysteme durchziehen den Park und bieten Lebensraum für diverse aquatische Spezies. Die Region wird durch strenge Schutzmaßnahmen vor Wilderei und illegaler Abholzung bewahrt. Ökotourismus-Initiativen beziehen die lokale Bevölkerung in den Naturschutz ein und bieten alternative Einkommensquellen. Besucher können auf geführten Nachttouren die nachtaktive Fauna entlang der Flussufer beobachten.",
+        "hu": "A Nam Et-Phou Louey Nemzeti Park Laosz északi részén terül el, és az ország legnagyobb védett természeti területe. Sűrű trópusi erdők és meredek hegyvidéki tájak jellemzik. A terület fontos menedéke a veszélyeztetett állatfajoknak, köztük az indokínai tigrisnek, a ködfoltos párducnak és az ázsiai feketemedvének. Számos folyórendszer szeli át a parkot, amelyek változatos vízi élővilágnak adnak otthont. Szigorú védelmi intézkedések óvják a régiót az orvvadászattól és az illegális fakitermeléstől. Az ökoturisztikai kezdeményezések bevonják a helyi lakosságot a természetvédelembe, alternatív bevételi forrásokat kínálva. A látogatók vezetett éjszakai túrákon figyelhetik meg az éjszakai állatvilágot a folyópartok mentén.",
+        "ro": "Parcul Național Nam Et-Phou Louey se întinde în nordul Laosului și este cea mai mare arie protejată din țară. Se caracterizează prin păduri tropicale dense și peisaje montane abrupte. Zona este un refugiu important pentru speciile de animale pe cale de dispariție, inclusiv tigrul indochinez, leopardul pătat și ursul negru asiatic. Numeroase sisteme fluviale traversează parcul, oferind un habitat pentru diverse specii acvatice. Regiunea este protejată de braconaj și tăieri ilegale de arbori prin măsuri stricte de conservare. Inițiativele de ecoturism implică populația locală în conservarea naturii și oferă surse alternative de venit. Vizitatorii pot observa fauna nocturnă de-a lungul malurilor râului în cadrul tururilor de noapte ghidate.",
+        "en": "Nam Et-Phou Louey National Park stretches across northern Laos and is the largest protected area in the country. It is characterized by dense tropical forests and steep mountainous landscapes. The area is an important refuge for endangered animal species, including the Indochinese tiger, clouded leopard, and Asian black bear. Numerous river systems run through the park, providing habitat for various aquatic species. The region is protected from poaching and illegal logging by strict conservation measures. Ecotourism initiatives involve the local population in nature conservation and provide alternative sources of income. Visitors can observe nocturnal fauna along the riverbanks on guided night tours."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes Schutzgebiet in Laos",
+          "Lebensraum für Indochinesische Tiger",
+          "Bekannt für Nacht-Safaris auf Flüssen",
+          "Umfasst dichte Bergregenwälder",
+          "Schützt vom Aussterben bedrohte Tierarten",
+          "Lokale Dörfer engagieren sich im Naturschutz"
+        ],
+        "hu": [
+          "Laosz legnagyobb védett területe",
+          "Indokínai tigrisek élőhelye",
+          "Híres az éjszakai folyami szafarikról",
+          "Sűrű hegyi esőerdőket foglal magába",
+          "Veszélyeztetett állatfajokat véd",
+          "Helyi falvak vesznek részt a természetvédelemben"
+        ],
+        "ro": [
+          "Cea mai mare arie protejată din Laos",
+          "Habitat pentru tigrii indochinezi",
+          "Cunoscut pentru safariurile nocturne pe râu",
+          "Include păduri tropicale montane dense",
+          "Protejează speciile de animale pe cale de dispariție",
+          "Satele locale sunt implicate în conservare"
+        ],
+        "en": [
+          "Largest protected area in Laos",
+          "Habitat for Indochinese tigers",
+          "Known for night safaris on rivers",
+          "Includes dense montane rainforests",
+          "Protects endangered animal species",
+          "Local villages are involved in conservation"
+        ]
+      }
+    },
+    {
+      "id": "bolaven-coffee-estates-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Bolaven-Plateau im Süden von Laos ist das Zentrum der nationalen Kaffeeproduktion. Das kühle Klima und die vulkanischen Böden bieten ideale Bedingungen für den Anbau von Arabica- und Robusta-Kaffeebohnen. Die Kaffeekultur in dieser Region wurde Anfang des zwanzigsten Jahrhunderts eingeführt und hat sich seitdem stetig weiterentwickelt. Zahlreiche Plantagen prägen die hügelige Landschaft und sichern den Lebensunterhalt der lokalen Gemeinschaften. Der Kaffee aus dem Bolaven-Plateau wird für seinen kräftigen Geschmack und seine hohe Qualität international geschätzt. Die Ernte erfolgt überwiegend von Hand, wodurch die Bohnen sorgfältig selektiert werden. Neben Kaffee werden in der Region auch Tee, Kardamom und verschiedene Früchte kultiviert.",
+        "hu": "A Laosz déli részén fekvő Bolaven-fennsík az országos kávétermelés központja. A hűvös éghajlat és a vulkanikus talaj ideális feltételeket biztosít az Arabica és Robusta kávébabok termesztéséhez. A régió kávékultúráját a huszadik század elején honosították meg, és azóta folyamatosan fejlődik. Számos ültetvény határozza meg a dombvidéki tájat, és biztosítja a helyi közösségek megélhetését. A Bolaven-fennsíkról származó kávét erős íze és kiváló minősége miatt nemzetközileg is nagyra értékelik. A szüretelés túlnyomórészt kézzel történik, így a babokat gondosan válogatják. A kávé mellett teát, kardamomot és különféle gyümölcsöket is termesztenek a térségben.",
+        "ro": "Podișul Bolaven din sudul Laosului este centrul producției naționale de cafea. Clima răcoroasă și solurile vulcanice oferă condiții ideale pentru cultivarea boabelor de cafea Arabica și Robusta. Cultura cafelei din această regiune a fost introdusă la începutul secolului al douăzecilea și s-a dezvoltat continuu de atunci. Numeroase plantații modelează peisajul deluros și asigură existența comunităților locale. Cafeaua din Podișul Bolaven este apreciată la nivel internațional pentru gustul său puternic și calitatea sa superioară. Recoltarea se face în principal manual, ceea ce permite o selecție atentă a boabelor. Pe lângă cafea, în regiune se cultivă și ceai, cardamom și diverse fructe.",
+        "en": "The Bolaven Plateau in southern Laos is the center of national coffee production. The cool climate and volcanic soils provide ideal conditions for growing Arabica and Robusta coffee beans. The coffee culture in this region was introduced at the beginning of the twentieth century and has continuously developed since then. Numerous plantations shape the hilly landscape and provide livelihoods for local communities. Coffee from the Bolaven Plateau is internationally appreciated for its strong flavor and high quality. Harvesting is mostly done by hand, allowing for careful selection of the beans. In addition to coffee, tea, cardamom, and various fruits are also cultivated in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentrum des laotischen Kaffeeanbaus",
+          "Anbau von Arabica- und Robusta-Bohnen",
+          "Vulkanische Böden fördern das Wachstum",
+          "Kühles Klima auf dem Plateau",
+          "Kaffeeernte erfolgt meistens von Hand",
+          "Auch Tee und Kardamom werden kultiviert"
+        ],
+        "hu": [
+          "A laoszi kávétermesztés központja",
+          "Arabica és Robusta babok termesztése",
+          "A vulkanikus talaj segíti a növekedést",
+          "Hűvös éghajlat jellemzi a fennsíkot",
+          "A kávészüret többnyire kézzel történik",
+          "Teát és kardamomot is termesztenek"
+        ],
+        "ro": [
+          "Centrul cultivării cafelei din Laos",
+          "Cultivarea boabelor Arabica și Robusta",
+          "Solurile vulcanice favorizează creșterea",
+          "Climat răcoros pe podiș",
+          "Recoltarea cafelei se face mai ales manual",
+          "Se cultivă și ceai și cardamom"
+        ],
+        "en": [
+          "Center of Laotian coffee farming",
+          "Cultivation of Arabica and Robusta beans",
+          "Volcanic soils promote growth",
+          "Cool climate on the plateau",
+          "Coffee harvesting is mostly done by hand",
+          "Tea and cardamom are also cultivated"
+        ]
+      }
+    },
+    {
+      "id": "kuang-si-bear-rescue-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Bärenrettungszentrum nahe der Kuang Si Wasserfälle bietet Zuflucht für aus illegaler Gefangenschaft befreite asiatische Schwarzbären. Diese Tiere wurden häufig von Wild Wilderern gefangen oder aus Bärengalle-Farmen gerettet. Die Anlage verfügt über großzügige Waldgehege, die den natürlichen Lebensraum der Bären nachahmen. Tierpfleger und Veterinäre sorgen für die medizinische Rehabilitation und artgerechte Ernährung der Bewohner. Klettergerüste, Hängematten und Wasserbecken fördern das natürliche Verhalten und die physische Genesung der Tiere. Die Einrichtung leistet wertvolle Bildungsarbeit, um Besucher über den Schutz asiatischer Bärenarten aufzuklären. Ein Auswildern ist oft nicht möglich, weshalb das Zentrum den Bären ein sicheres, lebenslanges Zuhause bietet.",
+        "hu": "A Kuang Si vízesések közelében található medvementő központ az illegális fogságból kiszabadított ázsiai feketemedvéknek nyújt menedéket. Ezeket az állatokat gyakran orvvadászok fogták be, vagy epefarmokról mentették ki őket. A létesítmény tágas erdei kifutókkal rendelkezik, amelyek a medvék természetes élőhelyét utánozzák. Állatgondozók és állatorvosok gondoskodnak a lakók orvosi rehabilitációjáról és fajnak megfelelő táplálásáról. A mászókák, függőágyak és vizesmedencék elősegítik az állatok természetes viselkedését és fizikai felépülését. Az intézmény értékes oktatási munkát végez, hogy felvilágosítsa a látogatókat az ázsiai medvefajok védelméről. A vadonba történő visszatelepítés gyakran nem lehetséges, ezért a központ biztonságos, élethosszig tartó otthont nyújt számukra.",
+        "ro": "Centrul de salvare a urșilor din apropierea cascadelor Kuang Si oferă un refugiu pentru urșii negri asiatici eliberați din captivitatea ilegală. Aceste animale au fost adesea capturate de braconieri sau salvate din fermele de bilă de urs. Facilitatea dispune de țarcuri împădurite spațioase care imită habitatul natural al urșilor. Îngrijitorii de animale și medicii veterinari se ocupă de reabilitarea medicală și de nutriția adecvată speciei. Structurile de cățărat, hamacele și piscinele promovează comportamentul natural și recuperarea fizică a animalelor. Instituția desfășoară o activitate educațională valoroasă pentru a informa vizitatorii despre protecția speciilor de urși asiatici. Eliberarea în sălbăticie este adesea imposibilă, motiv pentru care centrul oferă un cămin sigur pe viață pentru urși.",
+        "en": "The bear rescue center near the Kuang Si Falls provides a sanctuary for Asian black bears rescued from illegal captivity. These animals were often captured by poachers or rescued from bear bile farms. The facility features spacious forested enclosures that mimic the bears' natural habitat. Animal keepers and veterinarians ensure the medical rehabilitation and species-appropriate nutrition of the residents. Climbing structures, hammocks, and pools promote the animals' natural behavior and physical recovery. The institution does valuable educational work to enlighten visitors about the protection of Asian bear species. Reintroduction to the wild is often impossible, which is why the center offers a safe, lifelong home for the bears."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Rettet asiatische Schwarzbären in Laos",
+          "Bären stammen oft aus Galle-Farmen",
+          "Großzügige, naturnahe Waldgehege",
+          "Medizinische Versorgung der geretteten Tiere",
+          "Aufklärung über illegalen Wildtierhandel",
+          "Befindet sich nahe der Kuang Si Fälle"
+        ],
+        "hu": [
+          "Ázsiai feketemedvéket ment meg Laoszban",
+          "A medvék gyakran epefarmokról származnak",
+          "Tágas, természetközeli erdei kifutók",
+          "A mentett állatok orvosi ellátása",
+          "Tájékoztatás az illegális vadkereskedelemről",
+          "A Kuang Si vízesések közelében található"
+        ],
+        "ro": [
+          "Salvează urșii negri asiatici din Laos",
+          "Urșii provin adesea din ferme de bilă",
+          "Țarcuri forestiere spațioase, naturale",
+          "Îngrijire medicală pentru animalele salvate",
+          "Educație privind comerțul ilegal cu animale",
+          "Situat în apropierea cascadelor Kuang Si"
+        ],
+        "en": [
+          "Rescues Asian black bears in Laos",
+          "Bears often come from bile farms",
+          "Spacious, natural forested enclosures",
+          "Medical care for the rescued animals",
+          "Education on illegal wildlife trade",
+          "Located near the Kuang Si Falls"
+        ]
+      }
+    },
+    {
+      "id": "laos-buffalo-dairy-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Laos Buffalo Dairy in der Nähe von Luang Prabang ist das erste kommerzielle Büffelmilch-Unternehmen des Landes. Die Farm verfolgt ein innovatives soziales Geschäftsmodell, bei dem Wasserbüffel von lokalen Bauern gemietet werden, um ihnen ein regelmäßiges Zusatzeinkommen zu sichern. Während der Mietzeit erhalten die Tiere tierärztliche Betreuung, Impfungen und hochwertiges Futter, was ihre allgemeine Gesundheit erheblich verbessert. Aus der gewonnenen Büffelmilch werden Käse, Joghurt und Eiscreme produziert, die an Hotels und Restaurants verkauft werden. Die Farm dient auch als Ausbildungszentrum für die lokale Bevölkerung, um Wissen über Tierhaltung und landwirtschaftliche Praktiken zu vermitteln. Das Projekt trägt dazu bei, die Unterernährung bei Kindern in ländlichen Gebieten durch Aufklärungskampagnen zu reduzieren.",
+        "hu": "A Luang Prabang közelében található Laos Buffalo Dairy az ország első kereskedelmi bivalytej-üzeme. A farm innovatív társadalmi üzleti modellt követ, amelynek során vízibivalyokat bérelnek a helyi gazdáktól, így biztosítva számukra rendszeres kiegészítő jövedelmet. A bérleti időszak alatt az állatok állatorvosi ellátást, védőoltásokat és kiváló minőségű takarmányt kapnak, ami jelentősen javítja általános egészségi állapotukat. A kinyert bivalytejből sajtot, joghurtot és jégkrémet készítenek, amelyeket szállodáknak és éttermeknek értékesítenek. A farm oktatóközpontként is szolgál a helyi lakosság számára, ahol az állattartással és mezőgazdasági gyakorlatokkal kapcsolatos ismereteket adják át. A projekt tájékoztató kampányokkal is segít csökkenteni a vidéki területeken a gyermekek alultápláltságát.",
+        "ro": "Laos Buffalo Dairy, situată lângă Luang Prabang, este prima companie comercială de lapte de bivoliță din țară. Ferma urmează un model de afaceri social inovator, în care bivolii de apă sunt închiriați de la fermierii locali pentru a le oferi un venit suplimentar regulat. Pe parcursul perioadei de închiriere, animalele primesc îngrijire veterinară, vaccinări și furaje de înaltă calitate, ceea ce le îmbunătățește considerabil starea generală de sănătate. Din laptele obținut se produc brânzeturi, iaurt și înghețată, care sunt vândute hotelurilor și restaurantelor. Ferma servește și ca centru de formare pentru populația locală, diseminând cunoștințe despre creșterea animalelor și practicile agricole. Proiectul contribuie, de asemenea, la reducerea malnutriției în rândul copiilor din zonele rurale.",
+        "en": "The Laos Buffalo Dairy near Luang Prabang is the first commercial buffalo milk enterprise in the country. The farm pursues an innovative social business model in which water buffaloes are rented from local farmers to provide them with a regular additional income. During the rental period, the animals receive veterinary care, vaccinations, and high-quality feed, which significantly improves their overall health. The extracted buffalo milk is used to produce cheese, yogurt, and ice cream, which are sold to hotels and restaurants. The farm also serves as a training center for the local population to impart knowledge about animal husbandry and agricultural practices. The project also helps to reduce child malnutrition in rural areas through educational campaigns."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erstes Büffelmilch-Unternehmen in Laos",
+          "Mietet Wasserbüffel von lokalen Bauern",
+          "Verbessert die Tiergesundheit durch Pflege",
+          "Produziert lokalen Käse und Eiscreme",
+          "Bildungszentrum für landwirtschaftliche Praxis",
+          "Bekämpft Unterernährung in lokalen Dörfern"
+        ],
+        "hu": [
+          "Az első bivalytej-üzem Laoszban",
+          "Vízibivalyokat bérel helyi gazdáktól",
+          "Javítja az állatok egészségét gondozással",
+          "Helyi sajtot és jégkrémet állít elő",
+          "Mezőgazdasági gyakorlati oktatóközpont",
+          "Küzd a helyi falvak alultápláltsága ellen"
+        ],
+        "ro": [
+          "Prima companie de lapte de bivoliță din Laos",
+          "Închiriază bivoli de la fermierii locali",
+          "Îmbunătățește sănătatea animalelor",
+          "Produce brânză locală și înghețată",
+          "Centru de educație pentru practici agricole",
+          "Combate malnutriția în satele locale"
+        ],
+        "en": [
+          "First buffalo milk enterprise in Laos",
+          "Rents water buffaloes from local farmers",
+          "Improves animal health through care",
+          "Produces local cheese and ice cream",
+          "Education center for agricultural practices",
+          "Fights malnutrition in local villages"
+        ]
+      }
+    },
+    {
+      "id": "pha-tad-ke-botanical-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Pha Tad Ke Botanical Garden ist der erste Botanische Garten in Laos und widmet sich der Erhaltung der heimischen Flora. Er liegt am Ufer des Mekong und ist nur per Boot von Luang Prabang aus erreichbar. Der Garten konzentriert sich auf die Kultivierung traditioneller Heilpflanzen, seltener Orchideen und ethno-botanischer Spezies. Zahlreiche Themengärten präsentieren die Vielfalt laotischer Pflanzenarten und deren traditionelle Nutzung durch verschiedene ethnische Gruppen. Botaniker und Forscher nutzen die Einrichtung zur Dokumentation und Erforschung gefährdeter Pflanzenarten der Region. Der Garten bietet auch Bildungsprogramme an, um das Bewusstsein für Biodiversität und nachhaltige Landnutzung zu schärfen. Ein Schwerpunkt liegt auf dem Erhalt alten botanischen Wissens, das in der lokalen Medizin Anwendung findet.",
+        "hu": "A Pha Tad Ke Botanikus Kert Laosz első botanikus kertje, amely az őshonos növényvilág megőrzésének szenteli magát. A Mekong folyó partján fekszik, és kizárólag hajóval közelíthető meg Luang Prabangból. A kert a hagyományos gyógynövények, ritka orchideák és etnobotanikai fajok termesztésére összpontosít. Számos tematikus kert mutatja be a laoszi növényfajok sokszínűségét és azok hagyományos felhasználását a különböző etnikai csoportok által. Botanikusok és kutatók használják a létesítményt a régió veszélyeztetett növényfajainak dokumentálására és tanulmányozására. A kert oktatási programokat is kínál a biológiai sokféleség és a fenntartható földhasználat tudatosítására. Kiemelt figyelmet fordítanak a helyi orvoslásban használt ősi botanikai ismeretek megőrzésére.",
+        "ro": "Grădina Botanică Pha Tad Ke este prima grădină botanică din Laos și este dedicată conservării florei autohtone. Este situată pe malul fluviului Mekong și este accesibilă doar cu barca din Luang Prabang. Grădina se concentrează pe cultivarea plantelor medicinale tradiționale, a orhideelor rare și a speciilor etnobotanice. Numeroase grădini tematice prezintă diversitatea speciilor de plante lațiene și utilizarea lor tradițională de către diferite grupuri etnice. Botaniștii și cercetătorii folosesc facilitatea pentru a documenta și studia speciile de plante pe cale de dispariție din regiune. Grădina oferă, de asemenea, programe educaționale pentru a crește gradul de conștientizare privind biodiversitatea și utilizarea durabilă a terenurilor. Se pune accent pe păstrarea cunoștințelor botanice antice utilizate în medicina locală.",
+        "en": "Pha Tad Ke Botanical Garden is the first botanical garden in Laos and is dedicated to the conservation of native flora. It is located on the banks of the Mekong River and is only accessible by boat from Luang Prabang. The garden focuses on the cultivation of traditional medicinal plants, rare orchids, and ethno-botanical species. Numerous themed gardens showcase the diversity of Laotian plant species and their traditional use by different ethnic groups. Botanists and researchers use the facility to document and study endangered plant species of the region. The garden also offers educational programs to raise awareness of biodiversity and sustainable land use. A major focus is on preserving ancient botanical knowledge used in local medicine."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erster Botanischer Garten in Laos",
+          "Spezialisiert auf heimische Flora",
+          "Zeigt viele traditionelle Heilpflanzen",
+          "Nur mit dem Boot über den Mekong erreichbar",
+          "Dient der Erforschung gefährdeter Pflanzen",
+          "Dokumentiert ethno-botanisches Wissen"
+        ],
+        "hu": [
+          "Laosz első botanikus kertje",
+          "Az őshonos növényvilágra specializálódott",
+          "Sok hagyományos gyógynövényt mutat be",
+          "Csak hajóval érhető el a Mekongon keresztül",
+          "Veszélyeztetett növények kutatását szolgálja",
+          "Etnobotanikai ismereteket dokumentál"
+        ],
+        "ro": [
+          "Prima grădină botanică din Laos",
+          "Specializat în flora nativă",
+          "Prezintă multe plante medicinale tradiționale",
+          "Accesibil doar cu barca peste Mekong",
+          "Servește la cercetarea plantelor periclitate",
+          "Documentează cunoștințele etnobotanice"
+        ],
+        "en": [
+          "First botanical garden in Laos",
+          "Specialized in native flora",
+          "Shows many traditional medicinal plants",
+          "Only accessible by boat across the Mekong",
+          "Serves the research of endangered plants",
+          "Documents ethno-botanical knowledge"
+        ]
+      }
+    },
+    {
+      "id": "bokeo-nature-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Bokeo-Naturschutzgebiet im Nordwesten von Laos wurde gegründet, um den vom Aussterben bedrohten Schwarzen Schopfgibbon zu schützen. Diese seltene Primatenart galt lange Zeit als verschollen, bevor sie hier wiederentdeckt wurde. Das Reservat umfasst weitläufige, primäre Regenwälder und bergige Terrains. Neben Gibbons leben hier auch Elefanten, Bären, Tiger und eine große Vielfalt an Vogelarten in ihrer natürlichen Umgebung. Das Schutzgebiet ist international bekannt für die \"Gibbon Experience\", ein Ökotourismus-Projekt, bei dem Besucher in Baumhäusern hoch oben im Blätterdach übernachten können. Ein Netzwerk aus Seilrutschen ermöglicht es, sich auf Höhe der Baumkronen fortzubewegen und die Tiere zu beobachten. Die Einnahmen aus dem Projekt fließen direkt in den Erhalt des Waldes und unterstützen lokale Gemeinschaften.",
+        "hu": "Az északnyugat-laoszi Bokeo Természetvédelmi Területet a kihalás szélén álló fekete bóbitás gibbon védelmére hozták létre. Ezt a ritka főemlősfajt sokáig kihaltnak hitték, mielőtt itt újra felfedezték. A rezervátum kiterjedt, elsődleges esőerdőket és hegyvidéki terepeket foglal magába. A gibbonok mellett elefántok, medvék, tigrisek és a madárfajok nagy változatossága él itt természetes környezetében. A védett terület nemzetközileg is ismert a \"Gibbon Experience\" ökoturisztikai projektről, amelynek során a látogatók a lombkoronába épített faházakban éjszakázhatnak. A kötélpályák hálózata lehetővé teszi a fák koronájának magasságában való közlekedést és az állatok megfigyelését. A projektből származó bevételek közvetlenül az erdő megőrzését és a helyi közösségeket támogatják.",
+        "ro": "Rezervația Naturală Bokeo din nord-vestul Laosului a fost înființată pentru a proteja gibonul cu creastă neagră, o specie pe cale de dispariție. Acest primat rar a fost mult timp considerat dispărut înainte de a fi redescoperit aici. Rezervația cuprinde păduri tropicale primare extinse și terenuri muntoase. Pe lângă giboni, elefanții, urșii, tigrii și o mare diversitate de specii de păsări trăiesc aici în mediul lor natural. Zona protejată este cunoscută la nivel internațional pentru \"Gibbon Experience\", un proiect de ecoturism în care vizitatorii pot înnopta în case în copaci, sus în coronament. O rețea de tiroliene permite deplasarea la nivelul vârfurilor copacilor și observarea animalelor. Veniturile din proiect susțin direct conservarea pădurii și comunitățile locale.",
+        "en": "The Bokeo Nature Reserve in northwestern Laos was established to protect the critically endangered black-crested gibbon. This rare primate species was long thought to be extinct before being rediscovered here. The reserve encompasses vast, primary rainforests and mountainous terrains. In addition to gibbons, elephants, bears, tigers, and a great diversity of bird species live here in their natural environment. The protected area is internationally known for the \"Gibbon Experience,\" an ecotourism project where visitors can stay overnight in treehouses high up in the canopy. A network of ziplines allows people to move at treetop level and observe the animals. Revenue from the project flows directly into forest conservation and supports local communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet zum Schutz des Schwarzen Schopfgibbons",
+          "Beherbergt unberührte primäre Regenwälder",
+          "Zuhause von Elefanten, Bären und Tigern",
+          "Bekannt für Baumhaus-Übernachtungen",
+          "Bietet ausgedehnte Seilrutschen im Blätterdach",
+          "Fördert nachhaltigen Ökotourismus"
+        ],
+        "hu": [
+          "A fekete bóbitás gibbon védelmére hozták létre",
+          "Érintetlen elsődleges esőerdőknek ad otthont",
+          "Elefántok, medvék és tigrisek élőhelye",
+          "Híres a lombkoronában lévő faházakról",
+          "Kiterjedt kötélpálya-hálózatot kínál",
+          "Támogatja a fenntartható ökoturizmust"
+        ],
+        "ro": [
+          "Înființată pentru a proteja gibonul cu creastă neagră",
+          "Adăpostește păduri tropicale primare neatinse",
+          "Casa elefanților, urșilor și tigrilor",
+          "Cunoscută pentru cazarea în case în copaci",
+          "Oferă tiroliene extinse în coronament",
+          "Promovează ecoturismul durabil"
+        ],
+        "en": [
+          "Established to protect the black-crested gibbon",
+          "Houses pristine primary rainforests",
+          "Home to elephants, bears, and tigers",
+          "Known for treehouse accommodations",
+          "Offers extensive ziplines in the canopy",
+          "Promotes sustainable ecotourism"
+        ]
+      }
+    },
+    {
+      "id": "luang-prabang-butterfly-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Luang Prabang Butterfly Park liegt in der Nähe der Kuang Si Wasserfälle und wurde gegründet, um die bedrohte laotische Schmetterlingsfauna zu schützen. Eingebettet in eine üppige botanische Gartenlandschaft, bietet der Park hunderten von Schmetterlingsarten einen sicheren Lebensraum. Bäche und kleine Wasserfälle durchziehen das Gelände und schaffen ein ideales, feuchtes Mikroklima für die Insekten. Die Anlage widmet sich intensiv der Zucht und der Erforschung endemischer Arten, die unter dem Verlust ihres natürlichen Lebensraums leiden. Besucher können die verschiedenen Stadien der Metamorphose in speziellen Beobachtungsräumen studieren. Lokale Schulen nutzen das Bildungsangebot des Parks, um Kindern die Bedeutung von Bestäubern in Ökosystemen näherzubringen. Durch den Anbau spezifischer Wirtspflanzen wird die Population wilder Schmetterlinge gezielt gestärkt.",
+        "hu": "A Kuang Si vízesések közelében fekvő Luang Prabang Pillangóparkot a veszélyeztetett laoszi lepkefauna védelmére hozták létre. A buja botanikus kerti tájba ágyazott park több száz lepkefajnak nyújt biztonságos élőhelyet. A területet patakok és kis vízesések szelik át, ideális, nedves mikroklímát teremtve a rovarok számára. A létesítmény intenzíven foglalkozik a természetes élőhelyük elvesztésétől szenvedő endemikus fajok tenyésztésével és kutatásával. A látogatók a metamorfózis különböző szakaszait tanulmányozhatják a speciális megfigyelőtermekben. A helyi iskolák kihasználják a park oktatási kínálatát, hogy megismertessék a gyerekekkel a beporzók jelentőségét az ökoszisztémákban. A specifikus gazdanövények termesztésével célzottan erősítik a vadon élő lepkepopulációkat.",
+        "ro": "Parcul de Fluturi Luang Prabang se află lângă cascadele Kuang Si și a fost înființat pentru a proteja fauna periclitată de fluturi din Laos. Încorporat într-un peisaj botanic luxuriant, parcul oferă un habitat sigur pentru sute de specii de fluturi. Pârâurile și micile cascade străbat terenul și creează un microclimat umed ideal pentru insecte. Instituția este dedicată intens reproducerii și cercetării speciilor endemice care suferă din cauza pierderii habitatului natural. Vizitatorii pot studia diferitele stadii ale metamorfozei în săli speciale de observare. Școlile locale folosesc programe educaționale ale parcului pentru a-i învăța pe copii despre importanța polenizatorilor. Prin cultivarea unor plante gazdă specifice, populația de fluturi sălbatici este susținută în mod direcționat.",
+        "en": "The Luang Prabang Butterfly Park is located near the Kuang Si Falls and was established to protect the endangered Laotian butterfly fauna. Nestled in a lush botanical garden landscape, the park offers a safe habitat for hundreds of butterfly species. Streams and small waterfalls run through the grounds, creating an ideal, humid microclimate for the insects. The facility is intensely dedicated to breeding and researching endemic species that suffer from the loss of their natural habitat. Visitors can study the different stages of metamorphosis in special observation rooms. Local schools utilize the park's educational programs to teach children about the importance of pollinators in ecosystems. By cultivating specific host plants, the population of wild butterflies is targetedly strengthened."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Schützt laotische Schmetterlingsarten",
+          "Umfasst einen üppigen botanischen Garten",
+          "Züchtet endemische Falterarten nach",
+          "Bietet Einblicke in die Metamorphose",
+          "Klärt über die Wichtigkeit von Bestäubern auf",
+          "Kultiviert spezielle Wirtspflanzen"
+        ],
+        "hu": [
+          "Laoszi lepkefajokat védelmez",
+          "Egy buja botanikus kertet foglal magába",
+          "Endemikus lepkefajokat tenyészt",
+          "Betekintést nyújt a metamorfózisba",
+          "Felvilágosít a beporzók fontosságáról",
+          "Speciális gazdanövényeket termeszt"
+        ],
+        "ro": [
+          "Protejează speciile de fluturi din Laos",
+          "Include o grădină botanică luxuriantă",
+          "Crește specii de fluturi endemice",
+          "Oferă o perspectivă asupra metamorfozei",
+          "Educă despre importanța polenizatorilor",
+          "Cultivă plante gazdă specifice"
+        ],
+        "en": [
+          "Protects Laotian butterfly species",
+          "Includes a lush botanical garden",
+          "Breeds endemic butterfly species",
+          "Offers insights into metamorphosis",
+          "Educates about the importance of pollinators",
+          "Cultivates specific host plants"
+        ]
+      }
+    },
+    {
+      "id": "phou-khao-khouay-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Phou Khao Khouay Nationalpark liegt nur wenige Autostunden von der Hauptstadt Vientiane entfernt und zeichnet sich durch schroffe Sandsteingebirge aus. Die Landschaften variieren zwischen dichten Kiefernwäldern auf den Hochebenen und immergrünen Monsunwäldern in den tieferen Lagen. Der Park ist ein bedeutender Lebensraum für wilde asiatische Elefanten, Sonnenbären und eine Vielzahl an Orchideenarten. Spezielle Beobachtungstürme ermöglichen es Besuchern, die Elefantenherden in den Abendstunden am Rande des Waldes zu sichten. Wasserfälle wie der Tad Leuk und Tad Xay prägen das hydrografische Netz des Reservats. Ökotourismus-Initiativen in Zusammenarbeit mit den angrenzenden Dörfern helfen, Wilderei zu verhindern und fördern ein nachhaltiges Verständnis für die Erhaltung der natürlichen Ressourcen.",
+        "hu": "A Phou Khao Khouay Nemzeti Park mindössze néhány órás autóútra fekszik a fővárostól, Vientiane-tól, és zord homokkőhegységek jellemzik. A táj a fennsíkokon található sűrű fenyőerdők és az alacsonyabban fekvő területek örökzöld monszunerdői között váltakozik. A park jelentős élőhelye a vadon élő ázsiai elefántoknak, a maláj medvéknek és a különféle orchideafajoknak. Különleges megfigyelőtornyok teszik lehetővé a látogatók számára, hogy az esti óráokban az erdő szélén megpillanthassák az elefántcsordákat. A Tad Leuk és a Tad Xay vízesések határozzák meg a rezervátum vízrajzi hálózatát. A szomszédos falvakkal együttműködő ökoturisztikai kezdeményezések segítenek megelőzni az orvvadászatot, és elősegítik a természeti erőforrások megőrzésének fenntartható megértését.",
+        "ro": "Parcul Național Phou Khao Khouay este situat la doar câteva ore de mers cu mașina de capitala Vientiane și se caracterizează prin munți abrupți de gresie. Peisajele variază între păduri dense de pini pe platouri și păduri musonice veșnic verzi la altitudini mai mici. Parcul este un habitat important pentru elefanții asiatici sălbatici, urșii malaezi și o mare varietate de specii de orhidee. Turnurile speciale de observare permit vizitatorilor să zărească turme de elefanți la marginea pădurii seara. Cascade precum Tad Leuk și Tad Xay caracterizează rețeaua hidrografică a rezervației. Inițiativele de ecoturism în colaborare cu satele adiacente ajută la prevenirea braconajului și promovează o înțelegere durabilă a conservării resurselor naturale.",
+        "en": "The Phou Khao Khouay National Park is located just a few hours' drive from the capital Vientiane and is characterized by rugged sandstone mountains. The landscapes vary between dense pine forests on the plateaus and evergreen monsoon forests at lower elevations. The park is a significant habitat for wild Asian elephants, sun bears, and a variety of orchid species. Special observation towers allow visitors to spot elephant herds on the edge of the forest in the evening hours. Waterfalls such as Tad Leuk and Tad Xay shape the reserve's hydrographic network. Ecotourism initiatives in collaboration with adjacent villages help prevent poaching and promote a sustainable understanding of natural resource conservation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Berühmt für wilde Elefantenherden",
+          "Bietet dichte Kiefern- und Monsunwälder",
+          "Beherbergt seltene wilde Orchideen",
+          "Tad Leuk und Tad Xay sind große Wasserfälle",
+          "Spezielle Türme zur Tierbeobachtung",
+          "Geführte Touren schützen vor Wilderei"
+        ],
+        "hu": [
+          "Vadon élő elefántcsordáiról híres",
+          "Sűrű fenyő- és monszunerdőket kínál",
+          "Ritka vadon élő orchideáknak ad otthont",
+          "A Tad Leuk és a Tad Xay nagy vízesések",
+          "Speciális tornyok állatmegfigyeléshez",
+          "A vezetett túrák védenek az orvvadászat ellen"
+        ],
+        "ro": [
+          "Renumit pentru turmele de elefanți sălbatici",
+          "Oferă păduri dense de pini și musonice",
+          "Găzduiește orhidee sălbatice rare",
+          "Tad Leuk și Tad Xay sunt cascade mari",
+          "Turnuri speciale pentru observarea animalelor",
+          "Tururile ghidate protejează împotriva braconajului"
+        ],
+        "en": [
+          "Famous for wild elephant herds",
+          "Offers dense pine and monsoon forests",
+          "Houses rare wild orchids",
+          "Tad Leuk and Tad Xay are large waterfalls",
+          "Special towers for animal observation",
+          "Guided tours protect against poaching"
+        ]
+      }
+    },
+    {
+      "id": "xe-pian-protected-area-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Xe Pian Nationale Schutzgebiet im Süden von Laos ist eines der wichtigsten Sumpf- und Feuchtgebietsökosysteme Südostasiens. Es erstreckt sich von tief liegenden Ebenen bis hin zu den Ausläufern des Bolaven-Plateaus. Diese Region ist ein überlebenswichtiger Lebensraum für stark gefährdete Tierarten, wie den asiatischen Elefanten, den Banteng und verschiedene Nashornvögel. Das dichte Netzwerk aus Flüssen und Feuchtgebieten bietet zudem Rückzugsorte für seltene Wasserbüffel. Wissenschaftler schätzen Xe Pian besonders für seine außergewöhnliche Vogelvielfalt, die Ornithologen aus aller Welt anzieht. Naturschutzprogramme arbeiten eng mit indigenen Bevölkerungsgruppen zusammen, um nachhaltige Praktiken beim Fischfang und Sammeln von Waldprodukten zu etablieren. Eine der größten Herausforderungen bleibt jedoch der Erhalt des fragilen Wasserhaushalts.",
+        "hu": "A dél-laoszi Xe Pian Nemzeti Védett Terület Délkelet-Ázsia egyik legfontosabb mocsári és vizes élőhelyi ökoszisztémája. Az alacsonyan fekvő síkságoktól a Bolaven-fennsík lábáig terjed. Ez a régió létfontosságú élőhelye a súlyosan veszélyeztetett állatfajoknak, mint az ázsiai elefánt, a banteng és a különböző szarvascsőrű madarak. A folyók és vizes élőhelyek sűrű hálózata ritka vízibivalyok menedékét is nyújtja. A tudósok különösen nagyra értékelik a Xe Piant a rendkívüli madárvilágáért, amely a világ minden tájáról vonzza az ornitológusokat. A természetvédelmi programok szorosan együttműködnek a bennszülött lakossággal a halászat és az erdei termékek gyűjtése terén alkalmazott fenntartható gyakorlatok kialakításában. A törékeny vízháztartás megőrzése azonban továbbra is az egyik legnagyobb kihívás.",
+        "ro": "Aria Națională Protejată Xe Pian din sudul Laosului este unul dintre cele mai importante ecosisteme de mlaștini și zone umede din Asia de Sud-Est. Se întinde de la câmpii joase până la poalele Podișului Bolaven. Această regiune este un habitat vital pentru speciile de animale grav amenințate, cum ar fi elefantul asiatic, bantengul și diverse păsări rinocer. Rețeaua densă de râuri și zone umede oferă, de asemenea, refugiu pentru bivolii de apă rari. Oamenii de știință apreciază în mod deosebit Xe Pian pentru diversitatea sa extraordinară de păsări, atrăgând ornitologi din întreaga lume. Programele de conservare lucrează îndeaproape cu populațiile indigene pentru a stabili practici durabile în pescuit și colectarea produselor forestiere. Cu toate acestea, menținerea regimului fragil al apelor rămâne una dintre cele mai mari provocări.",
+        "en": "The Xe Pian National Protected Area in southern Laos is one of the most important swamp and wetland ecosystems in Southeast Asia. It extends from low-lying plains to the foothills of the Bolaven Plateau. This region is a vital habitat for critically endangered animal species, such as the Asian elephant, the banteng, and various hornbills. The dense network of rivers and wetlands also provides refuge for rare water buffaloes. Scientists highly value Xe Pian for its extraordinary bird diversity, which attracts ornithologists from all over the world. Conservation programs work closely with indigenous populations to establish sustainable practices in fishing and the collection of forest products. However, preserving the fragile water balance remains one of the greatest challenges."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtiges Feuchtgebietsökosystem in Asien",
+          "Lebensraum für Asiatische Elefanten und Bantengs",
+          "Beheimatet seltene Nashornvögel",
+          "Reich an weitläufigen Sümpfen und Flüssen",
+          "Zieht Ornithologen weltweit an",
+          "Indigene Völker helfen beim Naturschutz"
+        ],
+        "hu": [
+          "Fontos vizes ökoszisztéma Ázsiában",
+          "Ázsiai elefántok és bantengek élőhelye",
+          "Ritka szarvascsőrű madaraknak ad otthont",
+          "Gazdag kiterjedt mocsarakban és folyókban",
+          "Világszerte vonzza az ornitológusokat",
+          "A bennszülött népek segítik a védelmet"
+        ],
+        "ro": [
+          "Ecosistem important de zone umede în Asia",
+          "Habitat pentru elefanții asiatici și bantengi",
+          "Găzduiește păsări rinocer rare",
+          "Bogat în mlaștini și râuri extinse",
+          "Atrage ornitologi din întreaga lume",
+          "Popoarele indigene ajută la conservare"
+        ],
+        "en": [
+          "Important wetland ecosystem in Asia",
+          "Habitat for Asian elephants and bantengs",
+          "Houses rare hornbill species",
+          "Rich in extensive swamps and rivers",
+          "Attracts ornithologists worldwide",
+          "Indigenous peoples assist in conservation"
+        ]
+      }
+    },
+    {
+      "id": "vang-vieng-organic-farm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Vang Vieng Organic Farm wurde in den 1990er Jahren gegründet und war ein Pionierprojekt für nachhaltigen ökologischen Landbau in Laos. Sie liegt malerisch am Nam Song Fluss und baut erfolgreich Maulbeerbäume an, deren Blätter als Tee verarbeitet werden. Neben Maulbeeren produziert die Farm tropische Früchte, Gemüse und frischen Ziegenkäse. Die Einrichtung verfolgt das Ziel, traditionelle landwirtschaftliche Methoden mit modernen ökologischen Standards zu kombinieren, ohne auf chemische Pestizide zurückzugreifen. Sie bietet Ausbildungsprogramme für laotische Bauern an, um Techniken wie Kompostierung und natürliche Schädlingsbekämpfung zu lehren. Freiwillige aus aller Welt arbeiten auf den Feldern und tragen zum interkulturellen Austausch bei. Die Erlöse der Farm unterstützen lokale Schulprojekte und finanzieren Stipendien für Kinder aus benachteiligten Familien.",
+        "hu": "A Vang Vieng Organic Farmot az 1990-es években alapították, és a fenntartható ökológiai gazdálkodás úttörő projektje volt Laoszban. Festői környezetben, a Nam Song folyó partján fekszik, és sikeresen termeszt eperfákat, amelyek leveleiből teát készítenek. Az eperfa mellett a farm trópusi gyümölcsöket, zöldségeket és friss kecskesajtot is termel. A létesítmény célja, hogy a hagyományos mezőgazdasági módszereket a modern ökológiai szabványokkal ötvözze, kémiai növényvédő szerek használata nélkül. Képzési programokat kínál a laoszi gazdák számára, ahol olyan technikákat tanítanak, mint a komposztálás és a természetes kártevőirtás. A világ minden tájáról érkező önkéntesek dolgoznak a földeken, és hozzájárulnak a kultúrák közötti cseréhez. A farm bevételei helyi iskolai projekteket támogatnak és ösztöndíjakat finanszíroznak a hátrányos helyzetű családok gyermekei számára.",
+        "ro": "Ferma organică Vang Vieng a fost fondată în anii 1990 și a fost un proiect de pionierat pentru agricultura ecologică durabilă din Laos. Este situată pitoresc pe râul Nam Song și cultivă cu succes duzi, ale căror frunze sunt procesate în ceai. Pe lângă duzi, ferma produce fructe tropicale, legume și brânză proaspătă de capră. Scopul instituției este de a combina metodele agricole tradiționale cu standardele ecologice moderne, fără a recurge la pesticide chimice. Oferă programe de formare pentru fermierii lațieni pentru a preda tehnici precum compostarea și controlul natural al dăunătorilor. Voluntari din întreaga lume lucrează pe câmpuri și contribuie la schimbul intercultural. Veniturile fermei sprijină proiectele școlare locale și finanțează burse pentru copiii din familii defavorizate.",
+        "en": "The Vang Vieng Organic Farm was founded in the 1990s and was a pioneering project for sustainable organic farming in Laos. It is picturesquely located on the Nam Song River and successfully grows mulberry trees, whose leaves are processed into tea. In addition to mulberries, the farm produces tropical fruits, vegetables, and fresh goat cheese. The facility aims to combine traditional agricultural methods with modern ecological standards without resorting to chemical pesticides. It offers training programs for Laotian farmers to teach techniques such as composting and natural pest control. Volunteers from all over the world work in the fields and contribute to intercultural exchange. The farm's proceeds support local school projects and fund scholarships for children from disadvantaged families."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pionier des ökologischen Landbaus in Laos",
+          "Baut Maulbeerbäume für Teeproduktion an",
+          "Produziert hauseigenen Ziegenkäse",
+          "Verzichtet komplett auf chemische Pestizide",
+          "Bietet Kurse in natürlicher Schädlingsbekämpfung",
+          "Nutzt Einnahmen für lokale Schulprojekte"
+        ],
+        "hu": [
+          "Az ökológiai gazdálkodás úttörője Laoszban",
+          "Eperfákat termeszt teatermeléshez",
+          "Saját készítésű kecskesajtot termel",
+          "Teljesen lemond a kémiai növényvédőkről",
+          "Kurzusokat kínál a természetes kártevőirtásról",
+          "Bevételeit helyi iskolai projektekre fordítja"
+        ],
+        "ro": [
+          "Pionier al agriculturii ecologice în Laos",
+          "Cultivă duzi pentru producția de ceai",
+          "Produce brânză de capră de casă",
+          "Renunță complet la pesticidele chimice",
+          "Oferă cursuri de combatere naturală a dăunătorilor",
+          "Folosește veniturile pentru proiecte școlare locale"
+        ],
+        "en": [
+          "Pioneer of organic farming in Laos",
+          "Grows mulberry trees for tea production",
+          "Produces homemade goat cheese",
+          "Completely avoids chemical pesticides",
+          "Offers courses in natural pest control",
+          "Uses revenues for local school projects"
+        ]
+      }
+    }
+  ]
+}

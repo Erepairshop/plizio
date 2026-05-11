@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-1763-monument-history-v2",
+      "descriptionAdvancedDe": "Das 1763-Denkmal am Platz der Revolution in Georgetown ist eine kraftvolle Hommage an den Berbice-Sklavenaufstand und seinen Anführer Cuffy. Die 1976 enthüllte Bronzestatue des guyanischen Künstlers Philip Moore stellt einen heldenhaften afrikanischen Mann dar, der mit einer Machete und einem Schwein an seinen Füßen Stärke und Widerstand symbolisiert. Das Denkmal ehrt den Mut und den Kampfgeist der versklavten Afrikaner, die sich gegen die brutalen Bedingungen der Kolonialherrschaft erhoben. Der Aufstand von 1763 war einer der bedeutendsten Sklavenaufstände in der Geschichte Amerikas und ein entscheidender Moment auf dem Weg zur Abschaffung der Sklaverei. Das Monument ist nicht nur ein Kunstwerk, sondern auch ein wichtiger Ort des nationalen Gedenkens, der die Guyaner an die Opfer erinnert, die für die Freiheit gebracht wurden, und an die Notwendigkeit, für Gerechtigkeit zu kämpfen.",
+      "descriptionAdvancedHu": "A georgetowni Forradalom terén álló 1763-as emlékmű a Berbice-i rabszolgafelkelésnek és vezetőjének, Cuffynak állít erőteljes emléket. A Philip Moore guyanai művész által készített, 1976-ban leleplezett bronzszobor egy hősies afrikai férfit ábrázol, aki machetével és lábainál egy disznóval az erőt és az ellenállást szimbolizálja. Az emlékmű a gyarmati uralom brutális körülményei ellen fellázadt rabszolgák bátorságát és harci szellemét dicsőíti. Az 1763-as felkelés az amerikai kontinens történetének egyik legjelentősebb rabszolgafelkelése volt, és döntő pillanat a rabszolgaság eltörléséhez vezető úton. Az emlékmű nemcsak műalkotás, hanem a nemzeti emlékezet fontos helyszíne is, amely a guyanaiakat a szabadságért hozott áldozatokra és az igazságért folytatott küzdelem szükségességére emlékezteti.",
+      "descriptionAdvancedRo": "Monumentul din 1763 din Piața Revoluției din Georgetown este un omagiu puternic adus revoltei sclavilor din Berbice și liderului său, Cuffy. Dezvelită în 1976, statuia de bronz, realizată de artistul guyanez Philip Moore, înfățișează un bărbat african eroic, cu o macetă și un porc la picioare, simbolizând forța și rezistența. Monumentul onorează curajul și spiritul de luptă al africanilor înrobiți care s-au ridicat împotriva condițiilor brutale ale stăpânirii coloniale. Revolta din 1763 a fost una dintre cele mai importante revolte de sclavi din istoria Americilor și un moment crucial pe drumul spre abolirea sclaviei. Monumentul nu este doar o operă de artă, ci și un loc important de comemorare națională, amintindu-le guyanezilor de sacrificiile făcute pentru libertate și de necesitatea de a lupta pentru justiție.",
+      "descriptionAdvancedEn": "The 1763 Monument in Georgetown's Square of the Revolution is a powerful tribute to the Berbice Slave Uprising and its leader, Cuffy. Unveiled in 1976, the bronze statue by Guyanese artist Philip Moore depicts a heroic African man, wielding a machete and with a pig at his feet, symbolizing strength and resistance. The monument honors the courage and fighting spirit of the enslaved Africans who rose up against the brutal conditions of colonial rule. The 1763 uprising was one of the most significant slave rebellions in the history of the Americas and a crucial moment on the path to the abolition of slavery. The monument is not only a work of art but also an important site of national remembrance, reminding Guyanese of the sacrifices made for freedom and the need to fight for justice.",
+      "factsAdvanced": [
+        "Enthüllt im Jahr 1976, zum Jahrestag der Unabhängigkeit Guyanas.",
+        "Ehrt Cuffy, den Anführer des Berbice-Sklavenaufstands von 1763.",
+        "Entworfen vom renommierten guyanischen Künstler Philip Moore.",
+        "Befindet sich am Platz der Revolution in Georgetown.",
+        "Symbolisiert den Kampf gegen Unterdrückung und für Freiheit.",
+        "Die Statue ist etwa 4,5 Meter hoch.",
+        "Das Schwein zu Füßen symbolisiert die Gier der Kolonisten.",
+        "Ein zentraler Ort für nationale Gedenkveranstaltungen."
+      ]
+    }
+  ]
+}

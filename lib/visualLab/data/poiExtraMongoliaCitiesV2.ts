@@ -844,16 +844,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       en: "Zuunmod, whose name means a hundred trees, sits at 1,529 metres above sea level just 43 kilometres south of Ulaanbaatar on the southern flank of the sacred Bogd Khan Uul. Since 1942 it has been the capital of Töv Province, with around 17,000 residents, and is reached from the capital via a paved mountain road. About 5 kilometres west lies the Manzushir Monastery, founded in 1733, which once supported more than 20 temples and 300 monks but was utterly destroyed during the Stalinist purges of 1937. A single restored temple and a small museum now stand among the ruins. Bogd Khan Uul (2,257 m) has been protected since 1778, making it the world's oldest officially designated nature reserve, and shelters red deer, wolves and stone martens. Zuunmod is also a centre of agricultural research, hosting Mongolia's national experimental station for wheat and vegetable cultivation. The surrounding meadows burst into flower every summer."
     },
     factsAdvanced: {
-      de: [
-        "Bevölkerung rund 17.000 Einwohner",
-        "Auf 1.529 Metern Höhe südlich des Bogd Khan Uul",
-        "Hauptstadt der Provinz Töv seit 1942",
-        "Nur 43 Kilometer südlich von Ulaanbaatar",
-        "Name bedeutet hundert Bäume",
-        "Manzushir-Kloster 1733 gegründet, 1937 zerstört",
-        "Bogd Khan Uul (2.257 m) seit 1778 Naturschutzgebiet",
-        "Zentrum landwirtschaftlicher Forschung für Weizen"
-      ]
+      de: ["Bevölkerung rund 17.000 Einwohner", "Auf 1.529 Metern Höhe südlich des Bogd Khan Uul", "Hauptstadt der Provinz Töv seit 1942", "Name bedeutet hundert Bäume", "Manzushir-Kloster 1733 gegründet, 1937 zerstört", "Bogd Khan Uul (2.257 m) seit 1778 Naturschutzgebiet", "Zentrum landwirtschaftlicher Forschung für Weizen"]
     }, image: "/poi-images/mn-zuunmod-cities-v2.webp"},
   {
     id: "mn-uliastai-cities-v2",
@@ -1698,16 +1689,7 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       en: "Tosontsengel sits at 1,724 metres above sea level in the valley of the Idermörön River in the northern Khangai Mountains of Zavkhan Province and ranks among the coldest permanently inhabited places on Earth. The town has roughly 12,000 inhabitants and recorded a low of minus 53.7 degrees Celsius on 1 January 1973, one of the lowest temperatures ever measured in a Mongolian settlement. In summer, however, temperatures can climb above 30 degrees, giving an annual range close to 85 degrees. The surrounding country is dominated by extensive Siberian larch forests covering up to 60 percent of the province. Timber processing and sawmills are accordingly the leading industries alongside livestock herding. Tosontsengel has a small airport with seasonal flights to Ulaanbaatar. Permafrost underlies the entire area, requiring specialised engineering for building foundations and complicating the local water supply throughout the year."
     },
     factsAdvanced: {
-      de: [
-        "Bevölkerung rund 12.000 Einwohner",
-        "Auf 1.724 Metern Höhe im Idermörön-Tal",
-        "Tiefstwert minus 53,7 Grad am 1. Januar 1973",
-        "Eine der kältesten Siedlungen der Erde",
-        "Temperaturspanne von rund 85 Grad zwischen Sommer und Winter",
-        "Sibirische Lärchenwälder bedecken bis 60 Prozent der Provinz",
-        "Holzverarbeitung und Sägewerke als Hauptindustrie",
-        "Permafrost prägt den Untergrund der Region"
-      ]
+      de: ["Bevölkerung rund 12.000 Einwohner", "Auf 1.724 Metern Höhe im Idermörön-Tal", "Tiefstwert minus 53,7 Grad am 1. Januar 1973", "Temperaturspanne von rund 85 Grad zwischen Sommer und Winter", "Sibirische Lärchenwälder bedecken bis 60 Prozent der Provinz", "Holzverarbeitung und Sägewerke als Hauptindustrie", "Permafrost prägt den Untergrund der Region"]
     }, image: "/poi-images/mn-tosontsengel-cities-v2.webp"},
   {
     id: "mn-khutul-cities-v2",

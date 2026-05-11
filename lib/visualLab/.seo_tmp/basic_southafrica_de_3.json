@@ -1,0 +1,54 @@
+{
+  "lang": "de",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "table-mountain-nature-v2",
+      "description": "Der Tafelberg ist das Wahrzeichen Kapstadts und ein Hotspot der Biodiversität. Er beherbergt Tausende Pflanzenarten, von denen viele nirgendwo sonst auf der Welt vorkommen.",
+      "facts": ["UNESCO-Weltnaturerbe", "Flaches Gipfelplateau", "Über 2.000 Pflanzenarten"]
+    },
+    {
+      "id": "lake-st-lucia-nature-v2",
+      "description": "Der Lake St. Lucia ist ein riesiges Ästuar-System im iSimangaliso Wetland Park. Es dient als Lebensraum für zahlreiche Krokodile, Flusspferde und eine enorme Vogelvielfalt.",
+      "facts": ["Größtes Ästuar-System Afrikas", "Reiches Ökosystem", "UNESCO-Weltnaturerbestätte"]
+    },
+    {
+      "id": "cederberg-nature-v2",
+      "description": "Die Cederberg-Wildnis zeichnet sich durch bizarre Sandsteinformationen und klare Bergflüsse aus. Das Gebiet ist ein Paradies für Wanderer und bietet faszinierende Felsmalereien.",
+      "facts": ["Bizarre Felsformationen", "Klares Wasser", "Alte Felsmalereien"]
+    },
+    {
+      "id": "tsitsikamma-forest-nature-v2",
+      "description": "Dieser Küstenwald im Garden Route Nationalpark bietet ein dichtes Netz aus uralten Bäumen und schroffen Küstenabschnitten. Es ist ein bedeutender Lebensraum für eine reiche Tierwelt.",
+      "facts": ["Teil der Garden Route", "Uralte Waldbestände", "Schroffe Küstenlandschaft"]
+    },
+    {
+      "id": "lake-teko-nature-v2",
+      "description": "Der Teko-See liegt in einer ruhigen Umgebung und ist bekannt für seine natürliche Schönheit. Er bietet einen wichtigen Rückzugsort für diverse Vogelarten und lokale Flora.",
+      "facts": ["Ruhiges Gewässer", "Wichtiges Vogelschutzgebiet", "Unberührte Umgebung"]
+    },
+    {
+      "id": "golden-gate-highlands-nature-v2",
+      "description": "Dieser Nationalpark in den Ausläufern der Drakensberge besticht durch seine golden leuchtenden Sandsteinfelsen. Die bergige Landschaft ist Heimat für seltene Vögel und Bergzebras.",
+      "facts": ["Goldene Sandsteinfelsen", "Hochgelegene Berglandschaft", "Heimat von Bartgeiern"]
+    },
+    {
+      "id": "uphole-lake-nature-v2",
+      "description": "Ein malerischer See in einer abgelegenen Region, der für seine friedliche Atmosphäre bekannt ist. Die Umgebung lädt zu Naturbeobachtungen ein und beherbergt eine vielfältige Uferflora.",
+      "facts": ["Abgelegene Lage", "Friedliches Ökosystem", "Vielfältige Uferpflanzen"]
+    },
+    {
+      "id": "add-elephant-park-nature-v2",
+      "description": "Der Addo-Elephant-Nationalpark ist ein bedeutendes Schutzgebiet für Afrikanische Elefanten. Über die Jahrzehnte hat sich das Areal zu einem der wichtigsten Reservate des Landes entwickelt.",
+      "facts": ["Hauptlebensraum für Elefanten", "Vielfältige Wildbeobachtung", "Erfolgreiches Artenschutzprojekt"]
+    },
+    {
+      "id": "orange-river-mouth-nature-v2",
+      "description": "Die Mündung des Oranje-Flusses bildet eine wichtige ökologische Schnittstelle zwischen Fluss- und Meereslebensraum. Das Gebiet ist ein bedeutendes Feuchtgebiet für Zugvögel.",
+      "facts": ["Flussmündung am Atlantik", "Wichtige Station für Zugvögel", "Ökologisches Schutzgebiet"]
+    }
+  ]
+}

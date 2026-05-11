@@ -1,0 +1,133 @@
+{
+  "lang": "hu",
+  "country": "Togo",
+  "files": [
+    "lib/visualLab/data/poiExtraTogoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTogoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTogoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTogoLifeV2.ts",
+    "lib/visualLab/data/poiExtraTogoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lome-cities-v2",
+      "description": "Togo fővárosa és legnagyobb városa a Guineai-öböl partján.",
+      "facts": ["Togo politikai központja", "Fő kikötőváros", "Trópusi éghajlat", "Gazdasági központ"]
+    },
+    {
+      "id": "keve-cities-v2",
+      "description": "Település Togo déli részén, fontos közlekedési csomópont.",
+      "facts": ["Zio prefektúra része", "Mezőgazdasági kereskedelem", "Hagyományos piacok", "Közúti csomópont"]
+    },
+    {
+      "id": "elavagnon-cities-v2",
+      "description": "Kisváros Togo középső vidékén, a Plateaux régióban.",
+      "facts": ["Vidékies környezet", "Mezőgazdasági központ", "Helyi piacok", "Népies kultúra"]
+    },
+    {
+      "id": "wahala-cities-v2",
+      "description": "Település az Atakpamé környéki dombvidéken.",
+      "facts": ["Dombvidéki elhelyezkedés", "Helyi kereskedelem", "Mezőgazdasági falu", "Közösségi élet"]
+    },
+    {
+      "id": "pagala-cities-v2",
+      "description": "Vasúti és közlekedési állomás Togo középső részén.",
+      "facts": ["Vasútállomás", "Kereskedelmi csomópont", "Trópusi szavanna", "Közlekedési pont"]
+    },
+    {
+      "id": "pagouda-cities-v2",
+      "description": "Város az ország északi felében, Binah prefektúrában.",
+      "facts": ["Binah központja", "Északi dombság", "Hagyományos piac", "Mezőgazdasági vidék"]
+    },
+    {
+      "id": "sabi-lamba-cities-v2",
+      "description": "Település északi Togo területén, a szavannás övezetben.",
+      "facts": ["Északi régió", "Szavannai környezet", "Helyi közösség", "Mezőgazdaság"]
+    },
+    {
+      "id": "sanda-kagbanda-cities-v2",
+      "description": "Kisebb település Togo északi részén.",
+      "facts": ["Északi vidék", "Közösségi gazdálkodás", "Falusi környezet", "Hagyományok"]
+    },
+    {
+      "id": "sirka-cities-v2",
+      "description": "Település Togo északi dombvidékén, közel a határhoz.",
+      "facts": ["Dombvidéki táj", "Határközeli övezet", "Mezőgazdaság", "Helyi piac"]
+    },
+    {
+      "id": "yade-cities-v2",
+      "description": "Település a hegyvidéki Kara régióban.",
+      "facts": ["Hegyvidéki elhelyezkedés", "Kara régió", "Mezőgazdasági termelés", "Hagyományos házak"]
+    },
+    {
+      "id": "biankouri-cities-v2",
+      "description": "Település Togo legészakibb részén, a Savanes régióban.",
+      "facts": ["Szavannai táj", "Legészakibb vidék", "Mezőgazdasági közösség", "Helyi piacok"]
+    },
+    {
+      "id": "barkoissi-cities-v2",
+      "description": "Központi kereskedelmi pont a Savanes régióban.",
+      "facts": ["Kereskedelmi csomópont", "Savanes régió", "Helyi piac", "Mezőgazdaság"]
+    },
+    {
+      "id": "mandouri-cities-v2",
+      "description": "Határ menti város az északi szavannán.",
+      "facts": ["Határváros", "Oti régió", "Szavannai éghajlat", "Kereskedelmi pont"]
+    },
+    {
+      "id": "bogou-cities-v2",
+      "description": "Mezőgazdasági település az északi síkságokon.",
+      "facts": ["Síksági környezet", "Mezőgazdasági falu", "Helyi közösség", "Északi régió"]
+    },
+    {
+      "id": "nioto-lome-economic-v2",
+      "description": "Togo egyik vezető ipari vállalata Lome kikötőjében.",
+      "facts": ["Olajipari vállalat", "Lome kikötő", "Gazdasági szereplő", "Export-import"]
+    },
+    {
+      "id": "contourglobal-lome-economic-v2",
+      "description": "Erőműipari létesítmény, amely Lome áramellátását biztosítja.",
+      "facts": ["Erőmű", "Energiaellátás", "Ipari létesítmény", "Lome városa"]
+    },
+    {
+      "id": "assemblee-nationale-lome-landmarks-v2",
+      "description": "Togo törvényhozási székhelye Lome központjában.",
+      "facts": ["Politikai épület", "Lome központja", "Kormányzati központ", "Építészeti jelkép"]
+    },
+    {
+      "id": "aeroport-terminal-lome-landmarks-v2",
+      "description": "A nemzetközi repülőtér modern terminálja Lome-ban.",
+      "facts": ["Nemzetközi repülőtér", "Modern terminál", "Közlekedési csomópont", "Togo kapuja"]
+    },
+    {
+      "id": "monument-colombe-lome-landmarks-v2",
+      "description": "Emlékmű Lome városában, a béke szimbóluma.",
+      "facts": ["Emlékmű", "Lome jelképe", "Béke szimbóluma", "Kulturális látnivaló"]
+    },
+    {
+      "id": "place-reconciliation-lome-landmarks-v2",
+      "description": "Tér Lome-ban, amely a nemzeti egységet jelképezi.",
+      "facts": ["Városi tér", "Nemzeti egység", "Lome látnivaló", "Közösségi helyszín"]
+    },
+    {
+      "id": "lome-vergnuegungspark-life-v2",
+      "description": "Szabadidőpark Lome városában a kikötő közelében.",
+      "facts": ["Szabadidőközpont", "Lome kikötő környéke", "Családi programok", "Rekreáció"]
+    },
+    {
+      "id": "plateaux-kakao-gaerten-life-v2",
+      "description": "Kakaóültetvények a Plateaux régió termékeny vidékein.",
+      "facts": ["Kakaótermelés", "Plateaux régió", "Mezőgazdasági vidék", "Hagyományos gazdálkodás"]
+    },
+    {
+      "id": "togodo-forest-nature-v2",
+      "description": "Védett erdőség a délkeleti régióban, gazdag élővilággal.",
+      "facts": ["Természetvédelmi terület", "Erdős táj", "Gazdag élővilág", "Ökológiai központ"]
+    },
+    {
+      "id": "mount-ibeti-nature-v2",
+      "description": "Hegyvonulat Togo belső, változatos tájain.",
+      "facts": ["Hegyvidék", "Togo belső vidéke", "Túrázóhely", "Természeti környezet"]
+    }
+  ]
+}

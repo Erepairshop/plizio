@@ -1,0 +1,17 @@
+{
+  "lang": "en",
+  "country": "Libya",
+  "files": [ "lib/visualLab/data/poiExtraLibyaReliefV2.ts" ],
+  "items": [
+    { "id": "sirte-basin-relief-v2", "description": "The Sirte Basin is a major sedimentary basin in Libya, containing the country's largest oil reserves.", "facts": ["Oil-rich basin", "Central Libya", "Geological depression"] },
+    { "id": "jebel-aswad-relief-v2", "description": "Jebel Aswad is a prominent volcanic relief feature in the southern Libyan desert, characterized by its dark color.", "facts": ["Volcanic massif", "South Libya", "Dark-colored peaks"] },
+    { "id": "wadi-mathendous-relief-v2", "description": "The relief of Wadi Mathendous consists of deep sandstone canyons that have preserved ancient engravings for millennia.", "facts": ["Sandstone canyons", "Fezzan region", "Archaeological relief"] },
+    { "id": "wadi-al-farigh-relief-v2", "description": "Wadi al-Farigh is a significant dry valley and depression located in the Cyrenaica region of eastern Libya.", "facts": ["Dry valley", "Cyrenaica region", "Depression feature"] },
+    { "id": "sarir-tanezrouft-relief-v2", "description": "The relief of Sarir Tanezrouft is remarkably flat and featureless, forming a vast expanse of gravel desert.", "facts": ["Flat desert", "Gravel plains", "Saharan relief"] },
+    { "id": "gaberoun-lake-relief-v2", "description": "Gaberoun Lake is a deep saltwater lake set within the towering sand dunes of the Ubari Sand Sea.", "facts": ["Ubari Sand Sea", "Saltwater lake", "Dune relief"] },
+    { "id": "mandara-lakes-relief-v2", "description": "The Mandara Lakes are a group of oasis lakes located in the deep valleys of the Fezzan sand dunes.", "facts": ["Oasis lakes", "Fezzan region", "Dune landscapes"] },
+    { "id": "kufra-basin-relief-v2", "description": "The Kufra Basin is a large structural depression in southeastern Libya, containing a vast underground aquifer.", "facts": ["Structural depression", "Southeastern Libya", "Underground aquifer"] },
+    { "id": "gargaf-desert-relief-v2", "description": "The relief of the Gargaf Desert is dominated by high, stony plateaus and steep escarpments.", "facts": ["Stony plateaus", "Escarpments", "Central Libya"] },
+    { "id": "cyrenaica-coast-relief-v2", "description": "The Cyrenaica Coast relief features steep cliffs and narrow coastal plains overlooking the Mediterranean Sea.", "facts": ["Mediterranean cliffs", "Coastal plains", "Northeastern relief"] }
+  ]
+}

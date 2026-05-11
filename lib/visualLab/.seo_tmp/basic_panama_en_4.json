@@ -1,0 +1,85 @@
+{
+  "lang": "en",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "reserva-natural-punta-patino-life-v2",
+      "description": "A vast nature reserve in the Darién region, protecting unique coastal and forest ecosystems.",
+      "facts": ["Darién region", "Nature reserve", "Coastal ecosystem"]
+    },
+    {
+      "id": "finca-arroz-cocle-life-v2",
+      "description": "An agricultural farm in the Coclé province, contributing significantly to Panama's rice production.",
+      "facts": ["Rice production", "Coclé province", "Agriculture"]
+    },
+    {
+      "id": "parque-nacional-coiba-animales-life-v2",
+      "description": "Coiba National Park is a massive marine protected area known for its incredible underwater biodiversity.",
+      "facts": ["Marine protected area", "Coiba Island", "Biodiversity"]
+    },
+    {
+      "id": "finca-maiz-veraguas-life-v2",
+      "description": "A corn-producing farm in Veraguas, playing a key role in the regional agricultural output.",
+      "facts": ["Corn production", "Veraguas", "Local farming"]
+    },
+    {
+      "id": "parque-infantil-david-life-v2",
+      "description": "A community playground in the city of David, serving families in the Chiriquí province.",
+      "facts": ["David city", "Playground", "Community recreation"]
+    },
+    {
+      "id": "santuario-perezosos-gambo-life-v2",
+      "description": "A sanctuary dedicated to the rescue, rehabilitation, and release of sloths in the Gamboa area.",
+      "facts": ["Sloth sanctuary", "Gamboa", "Wildlife rehab"]
+    },
+    {
+      "id": "finca-tomate-chiriqui-life-v2",
+      "description": "A specialized farm in Chiriquí that produces tomatoes, leveraging the favorable highland climate.",
+      "facts": ["Tomato production", "Chiriquí highland", "Farming"]
+    },
+    {
+      "id": "parque-infantil-chitre-life-v2",
+      "description": "A recreational park in Chitré designed for children and families in the Herrera province.",
+      "facts": ["Chitré", "Children park", "Recreation"]
+    },
+    {
+      "id": "zoologico-nacional-panama-life-v2",
+      "description": "The national zoo provides public education on native animal species and their conservation status.",
+      "facts": ["National zoo", "Education", "Native species"]
+    },
+    {
+      "id": "granja-educativa-panama-life-v2",
+      "description": "An interactive farm environment designed to teach visitors about sustainable agricultural practices.",
+      "facts": ["Education farm", "Sustainability", "Interactive"]
+    },
+    {
+      "id": "parque-infantil-santiago-life-v2",
+      "description": "A central playground in Santiago, providing essential green space for families in the Veraguas region.",
+      "facts": ["Santiago city", "Family park", "Green space"]
+    },
+    {
+      "id": "criadero-cocodrilos-panama-life-v2",
+      "description": "A facility focused on the conservation and research of crocodile species native to Panamanian waterways.",
+      "facts": ["Crocodile conservation", "Native species", "Research"]
+    },
+    {
+      "id": "cerro-tute-relief-v2",
+      "description": "A prominent mountain peak in the Veraguas province, offering scenic vistas of the surrounding landscape.",
+      "facts": ["Mountain peak", "Veraguas", "Scenic vistas"]
+    },
+    {
+      "id": "cerro-bruja-relief-v2",
+      "description": "A challenging mountain located in the Darién region, known for its dense and untouched tropical forest.",
+      "facts": ["Darién peak", "Dense forest", "Hiking challenge"]
+    },
+    {
+      "id": "cerro-punta-hohe-relief-v2",
+      "description": "A high-elevation point in the Chiriquí highlands, known for its cool climate and agricultural production.",
+      "facts": ["High elevation", "Chiriquí", "Cool climate"]
+    }
+  ]
+}

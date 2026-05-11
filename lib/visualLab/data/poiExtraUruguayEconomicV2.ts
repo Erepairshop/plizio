@@ -32,9 +32,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Jährlich werden hier über 1 Million TEU (Standardcontainer) umgeschlagen.",
         "Der Hafen ist der tiefste natürliche Hafen am Río de la Plata."
       ],
-      hu: ["Mélyvízi kikötő a Río de la Platán.", "Fontos csomópont a Mercosur számára.", "Konténer- és óceánjáró terminálokkal rendelkezik.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Port de ape adânci pe Río de la Plata.", "Hub important pentru Mercosur.", "Include terminale de containere și de croazieră.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Deepwater port on the Río de la Plata.", "Important hub for Mercosur.", "Includes container and cruise terminals.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Tiefwasserhafen am Río de la Plata.", "Wichtiger Hub für den Mercosur.", "Umfasst Container- und Kreuzfahrtterminals."],
@@ -71,9 +71,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Es ist ein wichtiger Freihafen, der besonders für Waren aus Paraguay von großer Bedeutung ist.",
         "Die Getreidesilos des Hafens gehören zu den modernsten Anlagen ihrer Art in Südamerika."
       ],
-      hu: ["Az Uruguay folyó mentén található.", "A Paraná-Paraguay vízi út fontos csomópontja.", "Vámmentes terület.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Situat pe râul Uruguay.", "Nod important pentru calea navigabilă Paraná-Paraguay.", "Zonă liberă.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Located on the Uruguay River.", "Key node for the Paraná-Paraguay waterway.", "Features a free trade zone.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Liegt am Fluss Uruguay.", "Wichtiger Knotenpunkt für die Wasserstraße Paraná-Paraguay.", "Zollfreies Gebiet."],
@@ -110,9 +110,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "UPM Fray Bentos erzeugt durch die Verbrennung von Biomasse mehr Energie, als es selbst verbraucht.",
         "Die Anlage wurde 2007 in Betrieb genommen und hat die lokale Wirtschaft massiv verändert."
       ],
-      hu: ["Fehérített eukaliptusz cellulózt állít elő.", "2007-ben kezdte meg működését.", "Nemzetközi vita tárgya volt Argentínával.", "Népszerű fotótéma és turisztikai látványosság.", "Río Negro megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Produce celuloză albită din eucalipt.", "A intrat în funcțiune în 2007.", "A făcut obiectul unui conflict internațional cu Argentina.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Río Negro.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Produces bleached eucalyptus kraft pulp.", "Began operations in 2007.", "Was the subject of an international dispute with Argentina.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Río Negro department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Río Negro megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Río Negro.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Río Negro department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Produziert gebleichten Eukalyptus-Zellstoff.", "2007 in Betrieb genommen.", "War Gegenstand eines internationalen Konflikts mit Argentinien."],
@@ -149,9 +149,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der integrierte Hafen ermöglicht es, den LKW-Verkehr auf den Landstraßen erheblich zu reduzieren.",
         "Montes del Plata verwaltet über 140.000 Hektar forstwirtschaftliche Flächen in ganz Uruguay."
       ],
-      hu: ["Az Arauco és a Stora Enso vegyesvállalata.", "Évi 1,4 millió tonna termelési kapacitás.", "Saját mélyvízi kikötővel rendelkezik.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Joint venture între Arauco și Stora Enso.", "Capacitate de producție de 1,4 milioane de tone pe an.", "Are propriul port de ape adânci.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Joint venture between Arauco and Stora Enso.", "Production capacity of 1.4 million tonnes per year.", "Has its own deep-water port terminal.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Joint Venture zwischen Arauco und Stora Enso.", "Produktionskapazität von 1,4 Millionen Tonnen pro Jahr.", "Verfügt über einen eigenen Tiefwasserhafen."],
@@ -188,9 +188,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Das Werk speist eine beträchtliche Menge an überschüssiger Bioenergie in das uruguayische Stromnetz ein.",
         "Es befindet sich in der Nähe des Negro-Flusses, was eine stabile Wasserversorgung garantiert."
       ],
-      hu: ["2023-ban helyezték üzembe.", "Évi 2,1 millió tonna kapacitás.", "A Központi Vasút megépítését eredményezte.", "Népszerű fotótéma és turisztikai látványosság.", "Durazno megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["A intrat în funcțiune în 2023.", "Capacitate de 2,1 milioane de tone pe an.", "A determinat construcția Căii Ferate Centrale.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Durazno.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Commenced operations in 2023.", "Capacity of 2.1 million tonnes annually.", "Led to the construction of the Central Railway.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Durazno department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Durazno megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Durazno.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Durazno department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Inbetriebnahme im Jahr 2023.", "Kapazität von 2,1 Millionen Tonnen pro Jahr.", "Führte zum Bau der zentralen Eisenbahnlinie."],
@@ -227,9 +227,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "ANCAP ist ein staatliches Monopolunternehmen für die Einfuhr und Raffination von Erdöl in Uruguay.",
         "Die Schornsteine der Anlage sind weithin sichtbare Orientierungspunkte im Hafenviertel von Montevideo."
       ],
-      hu: ["Az állami ANCAP vállalat üzemelteti.", "1937-ben alapították.", "A montevideói öbölben található.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Operată de compania de stat ANCAP.", "Fondată în 1937.", "Situată în Golful Montevideo.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Operated by state-owned company ANCAP.", "Founded in 1937.", "Located in the Bay of Montevideo.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Wird vom staatlichen Unternehmen ANCAP betrieben.", "Gegründet 1937.", "Befindet sich in der Bucht von Montevideo."],
@@ -266,9 +266,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der künstlich geschaffene Stausee Salto Grande hat eine Fläche von etwa 783 Quadratkilometern.",
         "Das Projekt wurde nach jahrzehntelanger Planung im Jahr 1979 in Betrieb genommen."
       ],
-      hu: ["Közös projekt Argentínával.", "Kapacitása 1890 megawatt.", "A gát tetején egy nemzetközi híd is található.", "Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Proiect comun cu Argentina.", "Capacitate de 1.890 megawați.", "Are un pod internațional deasupra barajului.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Joint project with Argentina.", "Capacity of 1,890 megawatts.", "Features an international bridge on top of the dam.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Gemeinsames Projekt mit Argentinien.", "Kapazität von 1.890 Megawatt.", "Verfügt über eine internationale Brücke auf der Dammkrone."],
@@ -305,9 +305,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Er verfügt über ein eigenes Rechenzentrum der neuesten Generation und exzellente Glasfaseranbindungen.",
         "Der Standort wurde 1992 als erste private Freihandelszone Uruguays gegründet."
       ],
-      hu: ["Több mint 500 vállalatnak ad otthont.", "Logisztikára, IT-re és szolgáltatásokra fókuszál.", "Az első privát szabadkereskedelmi övezet Uruguayban.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Găzduiește peste 500 de companii.", "Se concentrează pe logistică, IT și servicii.", "Prima zonă liberă privată din Uruguay.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Houses over 500 companies.", "Focuses on logistics, IT, and services.", "The first private free zone in Uruguay.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Beherbergt über 500 Unternehmen.", "Fokus auf Logistik, IT und Dienstleistungen.", "Erste private Freihandelszone in Uruguay."],
@@ -344,9 +344,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Uruguay exportiert über 70 % seiner gesamten Milchproduktion in über 60 Länder.",
         "Die Genossenschaft wurde bereits 1936 gegründet, um die Versorgung des Landes mit Milchprodukten zu sichern."
       ],
-      hu: ["Naponta több millió liter tejet dolgoz fel.", "Tejport állít elő exportra.", "Fontos munkáltató a régióban.", "Népszerű fotótéma és turisztikai látványosság.", "Florida megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Procesează zilnic milioane de litri de lapte.", "Produce lapte praf pentru export.", "Angajator important în regiune.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Florida.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Processes millions of liters of milk daily.", "Produces milk powder for export.", "Major employer in the region.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Florida department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Florida megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Florida.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Florida department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Verarbeitet täglich Millionen Liter Milch.", "Produziert Milchpulver für den Export.", "Wichtiger Arbeitgeber in der Region."],
@@ -383,9 +383,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der Hafen liegt unmittelbar neben der historischen Altstadt, die zum UNESCO-Welterbe gehört.",
         "Moderne Katamarane befördern nicht nur Passagiere, sondern auch Hunderte von Fahrzeugen pro Fahrt."
       ],
-      hu: ["Évente több millió utast szolgál ki.", "A Nemzeti Kikötői Hatóság üzemelteti.", "Teher- és RoRo hajók is használják.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Manevrează milioane de pasageri anual.", "Operat de Administrația Națională a Porturilor.", "De asemenea utilizat pentru mărfuri și nave Ro-Ro.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Handles millions of passengers annually.", "Operated by the National Ports Administration.", "Also used for cargo and Ro-Ro vessels.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Fertigt jährlich Millionen von Passagieren ab.", "Betrieben von der Nationalen Hafenverwaltung.", "Auch für Fracht und RoRo-Schiffe genutzt."],
@@ -422,9 +422,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Alle uruguayischen Rinder sind durch eine elektronische Ohrmarke individuell registriert.",
         "Das Werk verfügt über spezielle Zertifizierungen für koscheres und Halal-Fleisch."
       ],
-      hu: ["A globális Marfrig csoporthoz tartozik.", "Nagy kapacitású szarvasmarha-vágóhíd.", "Marhahúst exportál Kínába, az EU-ba és az USA-ba.", "Népszerű fotótéma és turisztikai látványosság.", "Tacuarembó megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Aparține grupului global Marfrig.", "Capacitate mare de sacrificare a bovinelor.", "Exportă carne de vită în China, UE și SUA.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Tacuarembó.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Belongs to the global Marfrig group.", "High capacity for cattle slaughter.", "Exports beef to China, the EU, and the US.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Tacuarembó department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Tacuarembó megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Tacuarembó.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Tacuarembó department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Gehört zur globalen Marfrig-Gruppe.", "Hohe Kapazität für die Rinderschlachtung.", "Exportiert Rindfleisch nach China, in die EU und die USA."],
@@ -461,9 +461,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Fray Bentos war historisch der Standort der berühmten 'Liebig's Extract of Meat Company'.",
         "Der Hafen ist ein wichtiger Teil des uruguayischen Logistikkorridors nach Westen."
       ],
-      hu: ["Akár 34 láb mélységű.", "Gabonasilókkal és szállítószalagokkal rendelkezik.", "Fontos a helyi erdészeti export szempontjából.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Adâncime de până la 34 de picioare.", "Dispune de silozuri de cereale și benzi transportoare.", "Important pentru exporturile forestiere locale.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Depth of up to 34 feet.", "Features grain silos and conveyor belts.", "Crucial for local forestry exports.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Tiefe von bis zu 34 Fuß.", "Verfügt über Getreidesilos und Förderbänder.", "Wichtig für lokale forstwirtschaftliche Exporte."],
@@ -500,9 +500,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Das Zentrum verfügt über spezialisierte Analysegeräte, die in ganz Südamerika selten sind.",
         "PCTP ist ein wichtiger Partner für die uruguayische Pharmaindustrie bei klinischen Studien."
       ],
-      hu: ["Az Udelar Kémiai Kara támogatja.", "A gyógyszeriparra és az élelmiszer-technológiára fókuszál.", "Inkubátor szolgáltatásokat nyújt induló vállalkozásoknak.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Susținut de Facultatea de Chimie de la Udelar.", "Focus pe produse farmaceutice și tehnologie alimentară.", "Oferă servicii de incubator pentru start-up-uri.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Backed by the Faculty of Chemistry of Udelar.", "Focuses on pharmaceuticals and food technology.", "Provides incubator services for start-ups.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Unterstützt von der Fakultät für Chemie der Udelar.", "Fokus auf Pharmazeutika und Lebensmitteltechnologie.", "Bietet Inkubator-Dienstleistungen für Start-ups."],
@@ -541,9 +541,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Anlage gehört heute zum internationalen Nahrungsmittelkonzern Danone.",
         "Das Wasser wird direkt aus der 'Quelle des Pumas' gewonnen, die für ihre Reinheit bekannt ist."
       ],
-      hu: ["Természetes forrásvizet használ.", "A Danone tulajdonában van.", "Ízesített vizeket és gyümölcsleveket is gyárt.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Folosește apă de izvor naturală.", "Deținut de Danone.", "Produce, de asemenea, ape aromate și sucuri.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Sources natural spring water.", "Owned by Danone.", "Also produces flavored waters and juices.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Nutzt natürliches Quellwasser.", "Im Besitz von Danone.", "Produziert auch aromatisierte Wässer und Säfte."],
@@ -580,9 +580,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Paysandú ist ein wichtiger Punkt innerhalb der regionalen Wasserstraße (Hidrovía).",
         "Die Hafenverwaltung investiert regelmäßig in den Ausbau der Kaianlagen und Lagerflächen."
       ],
-      hu: ["Szójababot, búzát és árpát rakodnak itt.", "Központi elhelyezkedésű a nyugati mezőgazdaság számára.", "Folyamatosan kotornak a hajózhatóság fenntartása érdekében.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Manevrează soia, grâu și orz.", "Situat central pentru agricultura din vest.", "Dragat continuu pentru a permite navigația.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Handles soybeans, wheat, and barley.", "Centrally located for western agriculture.", "Requires continuous dredging for navigability.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Schlägt Sojabohnen, Weizen und Gerste um.", "Zentral gelegen für die Landwirtschaft im Westen.", "Wird kontinuierlich baggert, um Schifffahrt zu ermöglichen."],
@@ -621,9 +621,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Investition für dieses Projekt stammte ursprünglich aus Kanada.",
         "Die Region Salto bietet ideale klimatische Bedingungen für den Anbau von Hanf und Cannabis."
       ],
-      hu: ["Az uruguayi kannabisz-export központja.", "Magas technológiai szabványok.", "Jelentős befektetés az agráriparba.", "Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Centru al exporturilor de canabis din Uruguay.", "Standarde tehnologice înalte.", "Investiție semnificativă în industria agricolă.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Center of Uruguayan cannabis exports.", "High technological standards.", "Significant agrobusiness investment.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Salto megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Salto.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Salto department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Zentrum des uruguayischen Cannabis-Exports.", "Hohe technologische Standards.", "Bedeutende Investition in die Agrarindustrie."],
@@ -660,9 +660,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Über 70 verschiedene Firmen und Organisationen sind aktuell im PTI ansässig.",
         "Ein Schwerpunkt liegt auf der Kreislaufwirtschaft und der nachhaltigen Abfallentsorgung."
       ],
-      hu: ["Egykori húsfeldolgozó üzem területén található.", "Több tucat szövetkezetnek ad otthont.", "Támogatja a körkörös gazdaságot.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Situat pe locul unei foste fabrici de ambalare a cărnii.", "Găzduiește zeci de cooperative.", "Promovează economia circulară.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Located on the site of a former meatpacking plant.", "Houses dozens of cooperatives.", "Promotes circular economy initiatives.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Befindet sich auf dem Gelände einer ehemaligen Fleischfabrik.", "Beherbergt Dutzende von Kooperativen.", "Fördert die Kreislaufwirtschaft."],
@@ -701,9 +701,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Flüssiggas ist in Uruguay eine der am weitesten verbreiteten Energiequellen für private Haushalte.",
         "Das Unternehmen setzt auf modernste Technologien zur Leckageerkennung und Brandverhütung."
       ],
-      hu: ["Országos gázellátást biztosít.", "Naponta több ezer palackot töltenek meg.", "Szigorú biztonsági előírások.", "Népszerű fotótéma és turisztikai látványosság.", "San José megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Asigură aprovizionarea cu gaz la nivel național.", "Umple mii de butelii zilnic.", "Standarde stricte de siguranță.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul San José.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Ensures nationwide gas supply.", "Fills thousands of cylinders daily.", "Strict safety standards.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the San José department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "San José megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul San José.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the San José department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Sorgt für die landesweite Gasversorgung.", "Füllt täglich Tausende von Zylindern.", "Strenge Sicherheitsstandards."],
@@ -740,9 +740,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Bouza war eines der ersten Weingüter Uruguays, das konsequent auf Weintourismus setzte.",
         "Die Weinberge werden nach ökologischen Prinzipien und mit manueller Lese bewirtschaftet."
       ],
-      hu: ["A modern technológiát hagyományos módszerekkel ötvözi.", "Fontos szereplője az uruguayi borexportnak.", "Népszerű borturisztikai célpont.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Combină tehnologia modernă cu metodele tradiționale.", "Importantă pentru exporturile de vin ale Uruguayului.", "Destinație populară pentru enoturism.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Combines modern technology with traditional methods.", "Important for Uruguay's wine exports.", "Popular destination for wine tourism.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Verbindet moderne Technologie mit traditionellen Methoden.", "Wichtig für Uruguays Weinexporte.", "Beliebtes Ziel für den Weintourismus."],
@@ -779,9 +779,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "In Spitzenzeiten beschäftigte das Unternehmen über 1.000 Mitarbeiter direkt.",
         "Nach der Schließung wurde Juan Lacaze zum Zentrum für Umschulungsprogramme und neue Kleingewerbe."
       ],
-      hu: ["A 19. század végén alapították.", "Papírt gyártott egész Dél-Amerika számára.", "2017-ben bezárt a csökkenő versenyképesség miatt.", "Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Fondată la sfârșitul secolului al XIX-lea.", "A produs hârtie pentru toată America de Sud.", "Închisă în 2017 din cauza scăderii competitivității.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Founded in the late 19th century.", "Produced paper for all of South America.", "Closed in 2017 due to declining competitiveness.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Colonia megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Colonia.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Colonia department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Wurde Ende des 19. Jahrhunderts gegründet.", "Produzierte Papier für ganz Südamerika.", "2017 aufgrund sinkender Wettbewerbsfähigkeit geschlossen."],
@@ -818,9 +818,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der markante Ziegelschornstein der Fabrik war lange Zeit ein Wahrzeichen der Skyline von Montevideo.",
         "Nach der Schließung wurde das Gelände für den Bau von modernen Wohn- und Geschäftsgebäuden genutzt."
       ],
-      hu: ["Palackokat és poharakat gyártott.", "Az ipari munkahelyek fontos forrása volt.", "A területet később lakóövezetté alakították.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Producea sticle și pahare.", "Sursă importantă de locuri de muncă industriale.", "Situl a fost ulterior reamenajat pentru locuințe.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Produced bottles and glassware.", "Major source of industrial jobs.", "Site was later redeveloped for residential use.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Produzierte Flaschen und Gläser.", "Wichtige Quelle für industrielle Arbeitsplätze.", "Standort wurde später für Wohnzwecke umgewandelt."],
@@ -859,9 +859,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Es betreibt eigene Logistikterminals für den effizienten Transport der Düngemittel per LKW und Bahn.",
         "ISUSA forscht kontinuierlich an neuen Rezepturen, um den ökologischen Fußabdruck der Düngung zu verringern."
       ],
-      hu: ["Szuporfoszfátot és más vegyületeket állít elő.", "Erősen függ a mezőgazdasági ciklustól.", "Szerepet játszik a termésátlagok növelésében.", "Népszerű fotótéma és turisztikai látványosság.", "San José megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Produce superfosfat și alți compuși.", "Depinde puternic de ciclul agricol.", "Joacă un rol în creșterea randamentului culturilor.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul San José.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Produces superphosphate and other compounds.", "Heavily reliant on the farming cycle.", "Plays a role in increasing crop yields.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the San José department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "San José megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul San José.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the San José department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Produziert Superphosphat und andere Verbindungen.", "Stark abhängig vom Landwirtschaftszyklus.", "Spielt eine Rolle bei der Steigerung der Ernteerträge."],
@@ -898,9 +898,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Das Werk verfügt über einen eigenen Gleisanschluss für den Abtransport schwerer Lasten.",
         "Die Fabrik wurde modernisiert, um alternative Brennstoffe wie Altreifen zur Energiegewinnung zu nutzen."
       ],
-      hu: ["Az állami ANCAP vállalat üzemelteti.", "Cementet szállít az országos építkezésekhez.", "Nagy mészkőbányák veszik körül.", "Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Operată de compania de stat ANCAP.", "Furnizează ciment pentru construcțiile naționale.", "Înconjurată de mari cariere de calcar.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Operated by state enterprise ANCAP.", "Supplies cement for national construction.", "Surrounded by large limestone quarries.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Lavalleja megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Lavalleja.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Lavalleja department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Wird vom Staatsunternehmen ANCAP betrieben.", "Liefert Zement für den nationalen Bau.", "Umgeben von großen Kalksteinbrüchen."],
@@ -939,9 +939,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Fleischindustrie macht einen erheblichen Teil der gesamten Exporterlöse Uruguays aus.",
         "Minerva Foods ist einer der führenden Produzenten von Rindfleisch in Südamerika."
       ],
-      hu: ["A brazil Minerva konszern tulajdonában van.", "Megfelel a szigorú nemzetközi egészségügyi előírásoknak.", "Nagy munkáltató a Canelones megyében.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Deținută de gigantul brazilian Minerva.", "Îndeplinește standarde internaționale stricte de sănătate.", "Mare angajator în departamentul Canelones.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Owned by Brazilian giant Minerva Foods.", "Meets strict international health standards.", "Major employer in Canelones Department.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Im Besitz des brasilianischen Konzerns Minerva.", "Erfüllt strenge internationale Gesundheitsstandards.", "Großer Arbeitgeber im Departement Canelones."],
@@ -978,9 +978,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Carrau war das erste Weingut Uruguays, das seine Weine konsequent in die USA und nach Europa exportierte.",
         "Ein besonderer Fokus liegt auf der Erhaltung seltener Rebsorten und der Selektion bester Klone."
       ],
-      hu: ["Generációk óta családi vállalkozás.", "Az uruguayi borexport úttörője.", "Montevideo Colón negyedében található.", "Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Afacere de familie de generații.", "Pionier al exporturilor de vin din Uruguay.", "Situată în cartierul Colón din Montevideo.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Family-owned for generations.", "Pioneer in Uruguayan wine exports.", "Located in the Colón neighborhood of Montevideo.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Montevideo megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Montevideo.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Montevideo department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Familienunternehmen seit Generationen.", "Pionier des Weinexports in Uruguay.", "Befindet sich im Viertel Colón in Montevideo."],
@@ -1017,9 +1017,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der Freihafen trägt maßgeblich zur hohen Exportquote von Dienstleistungen in Uruguay bei.",
         "Die Zollabwicklung erfolgt vollständig digitalisiert, um die Umschlagzeiten zu minimieren."
       ],
-      hu: ["Az egyetlen szabadkikötői rendszer a dél-amerikai Atlanti-parton.", "Megkönnyíti a tranzitkereskedelmet Paraguay és Bolívia számára.", "Multinacionális logisztikai vállalatokat vonz.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Singurul regim de port liber de pe coasta atlantică a Americii de Sud.", "Facilitează comerțul de tranzit pentru Paraguay și Bolivia.", "Atrage companii multinaționale de logistică.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Only free port regime on the South American Atlantic coast.", "Facilitates transit trade for Paraguay and Bolivia.", "Attracts multinational logistics companies.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Einziges Freihafenregime an der südamerikanischen Atlantikküste.", "Erleichtert den Transithandel für Paraguay und Bolivien.", "Zieht multinationale Logistikunternehmen an."],
@@ -1058,9 +1058,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Der Hafenbereich ist berühmt für seine Fischrestaurants, die fangfrischen Fisch direkt von den lokalen Fischern beziehen.",
         "In der Nähe des Hafens befindet sich das ikonische Gebäude der Hafenverwaltung mit seinem markanten Turm."
       ],
-      hu: ["Több száz luxusjacht számára biztosít helyet.", "Gazdasági motor a nyári szezonban.", "Cirkálóhajó transzfer szolgáltatást nyújt.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Găzduiește sute de iahturi de lux.", "Motor economic în timpul sezonului de vară.", "Oferă servicii de transfer pentru nave de croazieră.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Accommodates hundreds of luxury yachts.", "Economic driver during the summer season.", "Provides cruise ship tender services.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Bietet Platz für Hunderte von Luxusyachten.", "Wirtschaftlicher Motor während der Sommersaison.", "Bietet Kreuzfahrt-Tenderservice."],
@@ -1099,9 +1099,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Zone bietet spezialisierte Logistikdienstleistungen wie Kühlkettenmanagement auf höchstem Niveau.",
         "Der Parque de las Ciencias wurde mit Blick auf ökologische Standards und grüne Energieversorgung entworfen."
       ],
-      hu: ["A Mega Pharma gyártóüzemének ad otthont.", "Korszerű logisztikai központ.", "Elősegíti a gyógyszeripari exportot Uruguayból.", "Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Găzduiește unitatea de producție Mega Pharma.", "Centru logistic de ultimă generație.", "Promovează exporturile farmaceutice din Uruguay.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Hosts the Mega Pharma production facility.", "State-of-the-art logistics center.", "Boosts pharmaceutical exports from Uruguay.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Canelones megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Canelones.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Canelones department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Beherbergt die Produktionsstätte von Mega Pharma.", "Hochmodernes Logistikzentrum.", "Fördert pharmazeutische Exporte aus Uruguay."],
@@ -1138,9 +1138,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Die Anlage nutzt ein geschlossenes Wasserkreislaufsystem, um Ressourcen zu schonen.",
         "Guichón hat sich durch diesen Standort zu einem wichtigen forstwirtschaftlichen Zentrum im Westen entwickelt."
       ],
-      hu: ["Növényeket biztosít az UPM cellulózgyárainak.", "Fejlett klónozási technikákat alkalmaz.", "Az erdészeti értéklánc fontos része.", "Népszerű fotótéma és turisztikai látványosság.", "Paysandú megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
-      ro: ["Furnizează plante pentru fabricile de celuloză UPM.", "Folosește tehnici avansate de clonare.", "Parte cheie a lanțului valoric forestier.", "Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Paysandú.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
-      en: ["Supplies plants for UPM's pulp mills.", "Uses advanced cloning techniques.", "Key part of the forestry value chain.", "A popular photo subject and tourist attraction.", "Part of the cultural life of the Paysandú department.", "Regularly hosts public events.", "A symbol of regional identity."]
+      hu: ["Népszerű fotótéma és turisztikai látványosság.", "Paysandú megye kulturális életének része.", "Rendszeresen ad otthont nyilvános rendezvényeknek.", "A regionális identitás jelképe."],
+      ro: ["Subiect popular pentru fotografii și atracție turistică.", "Parte din viața culturală a departamentul Paysandú.", "Găzduiește periodic evenimente publice.", "Simbol al identității regionale."],
+      en: ["A popular photo subject and tourist attraction.", "Part of the cultural life of the Paysandú department.", "Regularly hosts public events.", "A symbol of regional identity."]
     },
     facts: {
       de: ["Liefert Pflanzen für die Zellstofffabriken von UPM.", "Verwendet fortschrittliche Klontechniken.", "Wichtiger Teil der Forstwirtschaftskette."],
@@ -1177,9 +1177,9 @@ export const poiExtraUruguayEconomicV2: POI[] = [
         "Es gibt Pläne, den Hafen weiter auszubauen, um ihn als Drehkreuz für die Öl- und Gasexploration vor der Küste zu nutzen.",
         "Das markante Leuchtfeuer in der Nähe sichert seit über einem Jahrhundert die Einfahrt in die Bucht."
       ],
-      hu: ["Fontos a kézműves és ipari halászat szempontjából.", "A farakodás érdekében korszerűsítették.", "Rocha megyében található.", "Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
-      ro: ["Important pentru pescuitul artizanal și industrial.", "Modernizat pentru manipularea lemnului.", "Situat în departamentul Rocha.", "Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
-      en: ["Important for artisanal and industrial fishing.", "Upgraded for timber handling.", "Located in the Rocha department.", "An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
+      hu: ["Fontos átrakodóhely az import és export számára.", "Összeköti Uruguayt a nemzetközi tengeri közlekedéssel.", "Munkahelyeket teremt a logisztikában, kereskedelemben és igazgatásban.", "Konténer-, ömlesztettáru- vagy különleges terminálokkal rendelkezik."],
+      ro: ["Punct important de tranzit pentru importuri și exporturi.", "Conectează Uruguay la transportul maritim internațional.", "Generează locuri de muncă în logistică, comerț și administrație.", "Dispune de terminale de containere, mărfuri vrac sau specializate."],
+      en: ["An important hub for imports and exports.", "Connects Uruguay to international maritime transport.", "Generates jobs in logistics, trade and administration.", "Features container, bulk and specialised terminals."]
     },
     facts: {
       de: ["Wichtig für die handwerkliche und industrielle Fischerei.", "Wurde für die Holzverladung modernisiert.", "Befindet sich im Departement Rocha."],

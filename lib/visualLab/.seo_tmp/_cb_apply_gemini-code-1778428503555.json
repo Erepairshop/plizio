@@ -1,0 +1,244 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cv-tarrafal-concentration-camp-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Konzentrationslager Tarrafal, lokal auch als Campo do Tarrafal oder Chão Bom bekannt, befindet sich im Norden der Insel Santiago in Kap Verde. Es wurde am 29. Oktober 1936 durch das autoritäre portugiesische Regime unter dem Diktator António de Oliveira Salazar offiziell in Betrieb genommen. Ursprünglich war die Anlage für portugiesische Oppositionelle und Kommunisten konzipiert, die sich gegen den Estado Novo stellten. In der zweiten Phase, ab 1961, inhaftierte das Regime dort massiv antikoloniale Widerstandskämpfer aus Angola, Guinea-Bissau und Kap Verde, darunter prominente Mitglieder der PAIGC und der MPLA. Die Bedingungen im Lager waren von extremer Grausamkeit geprägt; die Gefangenen litten unter massiver Hitze, unzureichender medizinischer Versorgung und systematischer Folter. Besonders berüchtigt war die 'Frigideira' (Bratpfanne), ein fensterloser Betonzellentrakt, in dem Gefangene bei sengender Sonne ohne Belüftung eingesperrt wurden. Mindestens 32 Gefangene starben in Tarrafal aufgrund der unmenschlichen Bedingungen. Nach der Nelkenrevolution in Portugal am 25. April 1974 wurde das Lager sofort geschlossen. Im Jahr 2009 wurde der Komplex zum Nationaldenkmal erklärt und fungiert heute als Museum der Resilienz und des Widerstands (Museu da Resistência). Das Gelände ist von einer massiven Mauer mit Wachtürmen umgeben und umfasst mehrere Baracken sowie das Verwaltungsgebäude. Die geografischen Koordinaten sind 15,26°N, 23,75°W.",
+        "hu": "A tarrafali koncentrációs tábor, helyi nevén Campo do Tarrafal vagy Chão Bom, a zöld-foki Santiago szigetének északi részén található. A tábort 1936. október 29-én nyitotta meg hivatalosan az António de Oliveira Salazar diktátor által vezetett autoriter portugál Estado Novo rezsim. Eredetileg a rezsim portugál politikai ellenfelei és kommunisták számára hozták létre. A tábor történetének második szakaszában, 1961-től kezdődően, tömegesen zártak ide angolai, Bissau-guineai és zöld-foki gyarmatellenes szabadságharcosokat, köztük a PAIGC és az MPLA prominens tagjait. A táborban uralkodó körülményeket a rendkívüli kegyetlenség jellemezte: a foglyok a perzselő hőségtől, a hiányos orvosi ellátástól és a szisztematikus kínzásoktól szenvedtek. Különösen hírhedt volt a 'Frigideira' (Serpenyő) nevű részleg, amely ablak nélküli betoncellákból állt, ahol a rabokat szellőzés nélkül zárták el a tűző napon. A dokumentumok szerint legalább 32 fogoly vesztette életét Tarrafalban az embertelen körülmények következtében. Az 1974. április 25-i portugáliai szegfűs forradalom után a tábort azonnal bezárták. 2009-ben a komplexumot nemzeti emlékhellyé nyilvánították, ma pedig az Ellenállás Múzeuma (Museu da Resistência) működik benne. A területet masszív kőfalak és őrtornyok veszik körül, magában foglalva a barakkokat és az adminisztratív épületeket. Földrajzi koordinátái: é. sz. 15,26°, ny. h. 23,75°.",
+        "ro": "Lagărul de concentrare de la Tarrafal, cunoscut local și sub numele de Campo do Tarrafal sau Chão Bom, este situat în partea de nord a insulei Santiago din Capul Verde. A fost pus oficial în funcțiune pe 29 octombrie 1936 de regimul autoritar portughez condus de dictatorul António de Oliveira Salazar. Inițial, facilitatea a fost concepută pentru oponenții politici și comuniștii portughezi care se opuneau regimului Estado Novo. În a doua fază, începând cu 1961, regimul a început să închidă aici masiv luptători pentru independență din Angola, Guineea-Bissau și Capul Verde, inclusiv membri proeminenți ai PAIGC și MPLA. Condițiile din lagăr erau marcate de o cruzime extremă; prizonierii sufereau de căldură masivă, asistență medicală inadecvată și tortură sistematică. Un loc deosebit de infam era 'Frigideira' (Tigaia), un bloc de celule din beton fără ferestre, unde deținuții erau închiși sub soarele arzător, fără nicio ventilație. Cel puțin 32 de prizonieri au murit la Tarrafal din cauza condițiilor inumane. După Revoluția Garoafelor din Portugalia de la 25 aprilie 1974, lagărul a fost închis imediat. În anul 2009, complexul a fost declarat monument național și funcționează astăzi ca Muzeul Rezistenței (Museu da Resistência). Situl este înconjurat de un zid masiv cu turnuri de pază și cuprinde mai multe barăci și clădirea administrativă. Coordonatele geografice sunt 15,26°N, 23,75°V.",
+        "en": "The Tarrafal Concentration Camp, known locally as Campo do Tarrafal or Chão Bom, is situated in the northern part of Santiago Island, Cape Verde. It was officially established on October 29, 1936, by the authoritarian Portuguese Estado Novo regime under dictator António de Oliveira Salazar. Originally, the facility was designed to hold Portuguese political dissidents and communists who opposed the regime. In its second operational phase, beginning in 1961, the regime heavily imprisoned anti-colonial resistance fighters from Angola, Guinea-Bissau, and Cape Verde, including prominent figures from the PAIGC and MPLA. Conditions within the camp were defined by extreme brutality; prisoners suffered from oppressive heat, severe lack of medical care, and systematic torture. Particularly infamous was the 'Frigideira' (The Frying Pan), a windowless concrete cell block where detainees were locked away under the scorching sun without any ventilation. At least 32 prisoners are documented to have died in Tarrafal due to the inhumane conditions. Following the Carnation Revolution in Portugal on April 25, 1974, the camp was immediately closed. In 2009, the complex was designated as a national monument and currently functions as the Museum of Resistance (Museu da Resistência). The site is surrounded by a massive wall with guard towers and includes several barracks and the administrative building. The geographic coordinates are 15.26°N, 23.75°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im Jahr 1936 durch das autoritäre Salazar-Regime.",
+          "Diente als Straflager für politische Gefangene aus Portugal und den Kolonien.",
+          "Berüchtigt für die 'Frigideira', eine fensterlose Isolierzelle aus Beton.",
+          "Mindestens 32 Todesfälle unter den Inhaftierten sind offiziell dokumentiert.",
+          "Nach der Nelkenrevolution am 25. April 1974 dauerhaft geschlossen.",
+          "Heute als 'Museum des Widerstands' ein nationales Denkmal Kap Verdes.",
+          "Beherbergte Kämpfer der Unabhängigkeitsbewegungen wie PAIGC und MPLA."
+        ],
+        "hu": [
+          "1936-ban épült az autoriter Salazar-rezsim idején.",
+          "Portugáliából és a gyarmatokról származó politikai foglyok büntetőtábora volt.",
+          "Hírhedt volt a 'Frigideira' (Serpenyő) nevű ablak nélküli beton börtöncellájáról.",
+          "Hivatalosan legalább 32 fogoly halálát dokumentálták a táborban.",
+          "Az 1974. április 25-i szegfűs forradalom után végleg bezárták.",
+          "Ma 'Az Ellenállás Múzeuma' néven a Zöld-foki-szigetek nemzeti emlékhelye.",
+          "Olyan függetlenségi mozgalmak harcosait tartották itt fogva, mint a PAIGC és az MPLA."
+        ],
+        "ro": [
+          "Construit în 1936 de regimul autoritar al lui Salazar.",
+          "A servit ca lagăr de pedeapsă pentru deținuții politici din Portugalia și colonii.",
+          "Infam pentru 'Frigideira', o celulă de izolare din beton fără ferestre.",
+          "Cel puțin 32 de decese în rândul deținuților sunt documentate oficial.",
+          "Închis definitiv după Revoluția Garoafelor din 25 aprilie 1974.",
+          "Astăzi este monument național, găzduind 'Muzeul Rezistenței'.",
+          "A adăpostit luptători ai mișcărilor de independență precum PAIGC și MPLA."
+        ],
+        "en": [
+          "Constructed in 1936 by the authoritarian Portuguese Salazar regime.",
+          "Served as a penal colony for political prisoners from Portugal and its colonies.",
+          "Infamous for the 'Frigideira' (Frying Pan), a windowless concrete isolation block.",
+          "At least 32 deaths among the inmates are officially documented.",
+          "Permanently closed following the Carnation Revolution on April 25, 1974.",
+          "Now functions as a national monument and 'Museum of Resistance'.",
+          "Held resistance fighters from independence movements including PAIGC and MPLA."
+        ]
+      }
+    },
+    {
+      "id": "cv-farol-dona-maria-pia-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Farol de Dona Maria Pia, auch bekannt als Farol da Ponta Temerosa, befindet sich am südlichsten Punkt der Insel Santiago am Eingang zur Bucht von Praia. Der Leuchtturm wurde im Jahr 1881 während der portugiesischen Kolonialherrschaft fertiggestellt und nach der damaligen portugiesischen Königin Maria Pia von Savoyen benannt. Er war eine entscheidende maritime Infrastruktur, um Schiffen den sicheren Zugang zum Hafen von Praia (Porto da Praia) zu ermöglichen, der zu dieser Zeit an Bedeutung für den transatlantischen Handel gewann. Die Architektur besteht aus einem markanten weißen, achteckigen Steinturm mit einer Höhe von etwa 21 Metern. Die Laterne befindet sich auf einer Galerie und hat eine Feuerhöhe von rund 25 Metern über dem Meeresspiegel. Der Turm ist massiv aus lokalem Stein und Mörtel gebaut und hat über ein Jahrhundert lang den rauen atlantischen Winden getrotzt. In den letzten Jahrzehnten wurde das System modernisiert, doch das historische Gebäude blieb in seiner ursprünglichen Form weitgehend erhalten. Geografisch markiert der Leuchtturm die Grenze zwischen dem Plateau der Hauptstadt und der offenen See. Er ist heute ein ikonisches Wahrzeichen von Praia und ein Zeugnis der portugiesischen Ingenieurskunst des 19. Jahrhunderts. Die Koordinaten der Anlage lauten 14,89°N, 23,51°W.",
+        "hu": "A Farol de Dona Maria Pia, más néven Farol da Ponta Temerosa, Santiago szigetének legdélebbi pontján, a Praia-öböl bejáratánál található. A világítótornyot 1881-ben, a portugál gyarmati uralom idején fejezték be, és Maria Pia savoyai hercegnőről, akkori portugál királynőről nevezték el. Ez egy döntő fontosságú tengeri infrastruktúra volt, amely lehetővé tette a hajók biztonságos bejutását Praia kikötőjébe (Porto da Praia), amely abban az időben egyre nagyobb jelentőséget nyert a transzatlanti kereskedelemben. Az építmény egy jellegzetes fehér, nyolcszögletű kőtoronyból áll, amelynek magassága körülbelül 21 méter. A lámpatest egy galérián helyezkedik el, fényének magassága pedig mintegy 25 méterrel van a tengerszint felett. A torony masszívan, helyi kőből és habarcsból épült, és több mint egy évszázadon át dacolt a zord atlanti szelekkel. Az elmúlt évtizedekben a rendszert modernizálták, de a történelmi épület nagyrészt eredeti formájában maradt fenn. Földrajzilag a világítótorony jelöli a főváros fennsíkja és a nyílt tenger közötti határt. Ma Praia egyik ikonikus jelképe és a 19. századi portugál mérnöki munka tanúbizonysága. A létesítmény koordinátái: é. sz. 14,89°, ny. h. 23,51°.",
+        "ro": "Farul Dona Maria Pia, cunoscut și sub numele de Farol da Ponta Temerosa, este situat în cel mai sudic punct al insulei Santiago, la intrarea în golful Praia. Farul a fost finalizat în anul 1881, în timpul dominației coloniale portugheze, și a fost numit după regina Portugaliei de la acea vreme, Maria Pia de Savoia. A reprezentat o infrastructură maritimă crucială pentru a permite navelor accesul sigur în portul Praia (Porto da Praia), care câștiga importanță în acea perioadă pentru comerțul transatlantic. Arhitectura sa constă dintr-un turn de piatră alb, octogonal, cu o înălțime de aproximativ 21 de metri. Lanterna este situată pe o galerie și are o înălțime focală de aproximativ 25 de metri deasupra nivelului mării. Turnul este construit masiv din piatră locală și mortar și a rezistat peste un secol vânturilor aspre ale Atlanticului. În ultimele decenii, sistemul a fost modernizat, însă clădirea istorică a rămas în mare parte în forma sa originală. Din punct de vedere geografic, farul marchează granița dintre platoul capitalei și marea deschisă. Astăzi este un simbol iconic al orașului Praia și o mărturie a ingineriei portugheze din secolul al XIX-lea. Coordonatele instalației sunt 14,89°N, 23,51°V.",
+        "en": "The Dona Maria Pia Lighthouse, also known as Farol da Ponta Temerosa, is located at the southernmost point of Santiago Island at the entrance to Praia Bay. The lighthouse was completed in 1881 during the Portuguese colonial era and named after the contemporary Portuguese Queen, Maria Pia of Savoy. It served as a critical piece of maritime infrastructure, enabling vessels to safely access the Port of Praia, which was gaining significant prominence in transatlantic trade at the time. The architectural structure consists of a striking white, octagonal stone tower standing approximately 21 meters tall. The lantern is positioned on a gallery with a focal plane height of roughly 25 meters above sea level. Constructed solidly from local stone and mortar, the tower has successfully withstood over a century of harsh Atlantic winds. In recent decades, the lighting system has been modernized, yet the historic structure remains largely in its original form. Geographically, the lighthouse marks the boundary between the capital's plateau and the open ocean. Today, it stands as an iconic landmark of Praia and a testament to 19th-century Portuguese engineering. The geographic coordinates of the site are 14.89°N, 23.51°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fertiggestellt im Jahr 1881 während der Herrschaft von König Luis I.",
+          "Benannt nach der portugiesischen Königin Maria Pia von Savoyen.",
+          "Der achteckige Steinturm hat eine Gesamthöhe von 21 Metern.",
+          "Befindet sich an der Ponta Temerosa am Eingang zur Bucht von Praia.",
+          "Strategisch wichtiger Orientierungspunkt für den Hafen von Santiago.",
+          "Die Feuerhöhe der Laterne liegt 25 Meter über dem Meeresspiegel.",
+          "Eines der am besten erhaltenen Beispiele portugiesischer Leuchtturmarchitektur."
+        ],
+        "hu": [
+          "1881-ben fejezték be, I. Lajos portugál király uralkodása alatt.",
+          "Savoyai Maria Pia portugál királynőről nevezték el.",
+          "A nyolcszögletű kőtorony teljes magassága 21 méter.",
+          "A Ponta Temerosa fokon található, a Praia-öböl bejáratánál.",
+          "Stratégiai fontosságú tájékozódási pont Santiago kikötője számára.",
+          "A lámpa fényének magassága 25 méterrel van a tengerszint felett.",
+          "A portugál világítótorony-építészet egyik legjobban megőrzött példája."
+        ],
+        "ro": [
+          "Finalizat în anul 1881, în timpul domniei regelui Luis I al Portugaliei.",
+          "Numit după regina Maria Pia de Savoia a Portugaliei.",
+          "Turnul octogonal din piatră are o înălțime totală de 21 de metri.",
+          "Situat la Ponta Temerosa, la intrarea în golful orașului Praia.",
+          "Punct de orientare strategic pentru accesul în portul Santiago.",
+          "Înălțimea focală a lanternei este de 25 de metri deasupra mării.",
+          "Unul dintre cele mai bine conservate exemple de arhitectură de far portugheză."
+        ],
+        "en": [
+          "Completed in 1881 during the reign of King Luis I of Portugal.",
+          "Named in honor of the Portuguese Queen, Maria Pia of Savoy.",
+          "The octagonal stone tower reaches a total height of 21 meters.",
+          "Located at Ponta Temerosa point at the entrance of Praia Bay.",
+          "Strategically vital navigational landmark for the Port of Santiago.",
+          "The lantern's focal plane is elevated 25 meters above sea level.",
+          "One of the best-preserved examples of 19th-century Portuguese lighthouse design."
+        ]
+      }
+    },
+    {
+      "id": "cv-palacio-presidencial-praia-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Palácio Presidencial in Praia befindet sich im historischen Stadtteil Plateau auf der Insel Santiago. Das Gebäude wurde im späten 19. Jahrhundert, etwa um 1894, als Residenz für die portugiesischen Gouverneure von Kap Verde errichtet. Architektonisch ist der Palast ein herausragendes Beispiel für den portugiesischen Neoklassizismus der Kolonialzeit, gekennzeichnet durch seine symmetrische Fassade, elegante Säulengänge und ein massives Walmdach. Nach der Unabhängigkeit Kap Verdes am 5. Juli 1975 wurde das Gebäude zum offiziellen Sitz des Präsidenten der Republik umgewidmet. Der Palast liegt strategisch am Rande des Plateaus und überblickt den Hafen sowie den Atlantik. Im Laufe der Jahre wurde das Gebäude mehrfach renoviert, um moderne diplomatische Funktionen zu erfüllen, wobei der historische Charakter strikt gewahrt blieb. Es dient als Schauplatz für nationale Zeremonien, Staatsbesuche und die Akkreditierung ausländischer Botschafter. Ein markantes Merkmal ist die Ehrengarde in traditionellen Uniformen, die den Eingang bewacht. Der Palácio Presidencial ist nicht nur ein administratives Zentrum, sondern auch ein mächtiges nationales Symbol für die kapverdische Souveränität und die Transformation von einer Kolonie zu einem demokratischen Staat. Die Umgebung ist durch gepflegte Gärten und die unmittelbare Nähe zu anderen wichtigen Regierungsgebäuden geprägt.",
+        "hu": "A praiai Elnöki Palota (Palácio Presidencial) Santiago szigetén, a történelmi Plateau negyedben található. Az épületet a 19. század végén, 1894 körül emelték a Zöld-foki-szigetek portugál kormányzóinak rezidenciájaként. Építészetileg a palota a gyarmati korszak portugál neoklasszicizmusának kiemelkedő példája, amelyet szimmetrikus homlokzat, elegáns oszlopcsarnokok és masszív kontyolt tető jellemez. A Zöld-foki-szigetek 1975. július 5-i függetlenné válása után az épületet a Köztársaság elnökének hivatalos székhelyévé nyilvánították. A palota stratégiailag a Plateau szélén helyezkedik el, kilátással a kikötőre és az Atlanti-óceánra. Az évek során az épületet többször felújították, hogy megfeleljen a modern diplomáciai funkcióknak, miközben szigorúan megőrizték történelmi jellegét. Ez a helyszíne a nemzeti ünnepségeknek, állami látogatásoknak és a külföldi nagykövetek akkreditációjának. Jellegzetes eleme a bejáratot őrző, hagyományos egyenruhát viselő díszőrség. Az Elnöki Palota nem csupán adminisztratív központ, hanem a zöld-foki szuverenitás és a gyarmatból demokratikus állammá való átalakulás hatalmas nemzeti szimbóluma is. Környezetét gondozott kertek és a többi fontos kormányzati épület közvetlen közelsége határozza meg.",
+        "ro": "Palatul Prezidențial din Praia este situat în cartierul istoric Plateau de pe insula Santiago. Clădirea a fost construită la sfârșitul secolului al XIX-lea, în jurul anului 1894, ca reședință pentru guvernatorii portughezi ai Capului Verde. Din punct de vedere arhitectural, palatul este un exemplu remarcabil de neoclasicism portughez din perioada colonială, caracterizat prin fațada sa simetrică, porticuri elegante și un acoperiș masiv în patru ape. După obținerea independenței Capului Verde la 5 iulie 1975, clădirea a fost desemnată drept sediul oficial al Președintelui Republicii. Palatul este situat strategic pe marginea platoului, oferind o vedere panoramică asupra portului și a Oceanului Atlantic. De-a lungul anilor, edificiul a fost renovat de mai multe ori pentru a îndeplini funcții diplomatice moderne, păstrându-și în același timp cu strictețe caracterul istoric. Servește drept cadru pentru ceremonii naționale, vizite de stat și acreditarea ambasadorilor străini. O caracteristică distinctivă este garda de onoare în uniforme tradiționale care păzește intrarea. Palatul Prezidențial nu este doar un centru administrativ, ci și un simbol național puternic al suveranității capverdiene și al transformării dintr-o colonie într-un stat democratic. Împrejurimile sunt marcate de grădini bine întreținute și de proximitatea imediată față de alte clădiri guvernamentale importante.",
+        "en": "The Presidential Palace in Praia is located in the historic Plateau district on Santiago Island. The building was constructed in the late 19th century, around 1894, as the official residence for the Portuguese governors of Cape Verde. Architecturally, the palace is an outstanding example of Portuguese colonial neoclassicism, characterized by its symmetrical facade, elegant porticos, and a massive hipped roof. Following Cape Verde's independence on July 5, 1975, the building was repurposed as the official seat of the President of the Republic. The palace is strategically positioned at the edge of the Plateau, overlooking the harbor and the Atlantic Ocean. Over the years, the structure has undergone several renovations to accommodate modern diplomatic functions while strictly preserving its historical character. It serves as the venue for national ceremonies, state visits, and the accreditation of foreign ambassadors. A notable feature is the guard of honor in traditional uniforms stationed at the entrance. The Presidential Palace is not merely an administrative hub but also a powerful national symbol of Cape Verdean sovereignty and its transformation from a colony to a democratic state. The grounds are marked by well-kept gardens and its close proximity to other significant government buildings."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im späten 19. Jahrhundert als Sitz der Kolonialgouverneure.",
+          "Architektur im neoklassizistischen Stil mit symmetrischer Fassade.",
+          "Offizieller Amtssitz des Präsidenten seit der Unabhängigkeit 1975.",
+          "Befindet sich im historischen Plateau-Viertel der Hauptstadt Praia.",
+          "Wurde im Jahr 1894 weitgehend in seiner heutigen Form fertiggestellt.",
+          "Häufiger Schauplatz für internationale Staatsbesuche und Zeremonien.",
+          "Bewacht von einer Ehrengarde in zeremoniellen Uniformen."
+        ],
+        "hu": [
+          "A 19. század végén épült a gyarmati kormányzók székhelyeként.",
+          "Neoklasszicista stílusú építészet szimmetrikus homlokzattal.",
+          "Az elnök hivatalos rezidenciája az 1975-ös függetlenség óta.",
+          "A főváros, Praia történelmi Plateau negyedében található.",
+          "1894-ben nyerte el nagyjából a mai formáját.",
+          "Gyakori helyszíne nemzetközi állami látogatásoknak és ceremóniáknak.",
+          "Díszőrség vigyázza a bejáratát tradicionális egyenruhában."
+        ],
+        "ro": [
+          "Construit la sfârșitul secolului al XIX-lea ca sediu al guvernatorilor coloniali.",
+          "Arhitectură în stil neoclasic cu fațadă simetrică.",
+          "Reședința oficială a președintelui după independența din 1975.",
+          "Situat în cartierul istoric Plateau al capitalei Praia.",
+          "Finalizat în forma sa actuală în mare parte în anul 1894.",
+          "Loc de desfășurare frecvent pentru vizite de stat internaționale.",
+          "Păzit de o gardă de onoare în uniforme ceremoniale."
+        ],
+        "en": [
+          "Built in the late 19th century as the residence for colonial governors.",
+          "Features neoclassical architecture with a highly symmetrical facade.",
+          "Official executive seat of the President since independence in 1975.",
+          "Located within the historic Plateau district of the capital, Praia.",
+          "Largely completed in its current structural form in 1894.",
+          "Primary venue for high-level international state visits and ceremonies.",
+          "Stationed at the entrance is a guard of honor in ceremonial dress."
+        ]
+      }
+    },
+    {
+      "id": "cv-quartel-jaime-mota-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Quartel Jaime Mota befindet sich im historischen Zentrum (Plateau) von Praia auf der Insel Santiago und gehört zu den ältesten militärischen Bauwerken der Stadt. Der Bau der massiven Kaserne begann bereits im Jahr 1823 und wurde 1826 weitgehend abgeschlossen, um die koloniale Garnison der Insel zu beherbergen. Das Gebäude ist nach Jaime Mota benannt, einem kapverdischen Unabhängigkeitskämpfer der PAIGC, der 1974 im Kampf gegen die portugiesische Kolonialmacht getötet wurde. Architektonisch folgt die Kaserne einem strengen militärischen Neoklassizismus mit einer langen, zweistöckigen Fassade und regelmäßigen Fensterreihen, die direkt an die Prachtstraßen des Plateaus grenzen. Das Gebäude war über 150 Jahre lang das Zentrum der militärischen Macht Portugals in Praia. Nach der Unabhängigkeit im Jahr 1975 übernahm das kapverdische Militär den Komplex. Heute beherbergt das Quartel Jaime Mota Teile des Verteidigungsministeriums und dient als Sitz des Generalstabs der kapverdischen Streitkräfte. Die schweren Steinmauern und der große Innenhof zeugen von der strategischen Bedeutung des Standorts während der Kolonialzeit. Das Gebäude ist ein integraler Bestandteil des architektonischen Erbes von Praia und steht als Symbol für den Übergang von kolonialer Kontrolle zu nationaler militärischer Eigenständigkeit.",
+        "hu": "A Jaime Mota laktanya (Quartel Jaime Mota) Praia történelmi központjában (Plateau), Santiago szigetén található, és a város egyik legrégebbi katonai építménye. A masszív laktanya építése már 1823-ban megkezdődött, és 1826-ban fejeződött be nagy részben, hogy befogadja a sziget gyarmati helyőrségét. Az épületet Jaime Motáról, a PAIGC zöld-foki függetlenségi harcosáról nevezték el, aki 1974-ben esett el a portugál gyarmati hatalom elleni harcban. Építészetileg a laktanya szigorú katonai neoklasszicizmust követ, hosszú, kétszintes homlokzattal és szabályos ablaksorokkal, amelyek közvetlenül a Plateau sugárútjai mentén húzódnak. Az épület több mint 150 éven át a portugál katonai hatalom központja volt Praiában. Az 1975-ös függetlenné válás után a zöld-foki hadsereg vette át a komplexumot. Ma a Jaime Mota laktanya a Védelmi Minisztérium egyes részeit és a zöld-foki fegyveres erők vezérkarának székhelyét fogadja be. A súlyos kőfalak és a nagy belső udvar tanúskodnak a helyszín gyarmati korszakbeli stratégiai jelentőségéről. Az épület Praia építészeti örökségének szerves része, és a gyarmati ellenőrzéstől a nemzeti katonai önállóságig tartó átmenet szimbólumaként áll.",
+        "ro": "Cazarma Jaime Mota (Quartel Jaime Mota) este situată în centrul istoric (Plateau) din Praia, pe insula Santiago, și este una dintre cele mai vechi structuri militare din oraș. Construcția cazărmii masive a început încă din anul 1823 și a fost finalizată în mare parte în 1826, pentru a găzdui garnizoana colonială a insulei. Clădirea poartă numele lui Jaime Mota, un luptător capverdian pentru independență din cadrul PAIGC, care a fost ucis în 1974 în lupta împotriva puterii coloniale portugheze. Din punct de vedere arhitectural, cazarma urmează un neoclasicism militar strict, cu o fațadă lungă pe două niveluri și rânduri regulate de ferestre, care se învecinează direct cu bulevardele principale ale platoului. Clădirea a fost centrul puterii militare a Portugaliei în Praia timp de peste 150 de ani. După obținerea independenței în 1975, armata capverdiană a preluat complexul. Astăzi, Quartel Jaime Mota găzduiește părți ale Ministerului Apărării și servește drept sediu al Statului Major al forțelor armate capverdiene. Zidurile grele de piatră și curtea interioară mare stau mărturie pentru importanța strategică a locației în perioada colonială. Clădirea este o parte integrantă a patrimoniului arhitectural al orașului Praia și reprezintă un simbol al tranziției de la controlul colonial la autonomia militară națională.",
+        "en": "The Jaime Mota Barracks (Quartel Jaime Mota) is located in the historic Plateau center of Praia on Santiago Island and is one of the city's oldest military structures. Construction of the massive barracks began as early as 1823 and was largely completed in 1826 to house the island's colonial garrison. The building is named after Jaime Mota, a Cape Verdean independence fighter from the PAIGC who was killed in 1974 during the struggle against Portuguese colonial rule. Architecturally, the barracks follow a strict military neoclassicism, featuring a long, two-story facade with regular rows of windows that directly border the Plateau's main avenues. For over 150 years, the building was the epicenter of Portuguese military power in Praia. Following independence in 1975, the Cape Verdean military took over the complex. Today, the Jaime Mota Barracks houses offices of the Ministry of Defense and serves as the headquarters for the General Staff of the Cape Verdean Armed Forces. The heavy stone walls and large interior courtyard testify to the site's strategic importance during the colonial era. The building is an integral part of Praia's architectural heritage and stands as a symbol of the transition from colonial control to national military sovereignty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut zwischen 1823 und 1826 zur Unterbringung der Kolonialtruppen.",
+          "Benannt nach dem PAIGC-Kämpfer Jaime Mota, der 1974 fiel.",
+          "Eines der ältesten und massivsten Steingebäude im Stadtteil Plateau.",
+          "Diente über 150 Jahre als militärisches Hauptquartier Portugals.",
+          "Beherbergt heute den Generalstab der kapverdischen Streitkräfte.",
+          "Architektonisch im Stil des militärischen Neoklassizismus gestaltet.",
+          "Zentraler Bestandteil des historischen Stadtbildes der Hauptstadt Praia."
+        ],
+        "hu": [
+          "1823 és 1826 között épült a gyarmati csapatok elszállásolására.",
+          "Jaime Motáról, az 1974-ben elhunyt PAIGC-harcosról nevezték el.",
+          "A Plateau negyed egyik legrégebbi és legmasszívabb kőépülete.",
+          "Több mint 150 éven át szolgált Portugália katonai parancsnokságaként.",
+          "Ma a zöld-foki fegyveres erők vezérkarának ad otthont.",
+          "Építészetileg a katonai neoklasszicizmus stílusát képviseli.",
+          "Praia főváros történelmi városképének központi alkotóeleme."
+        ],
+        "ro": [
+          "Construită între 1823 și 1826 pentru a găzdui trupele coloniale.",
+          "Numită după luptătorul PAIGC Jaime Mota, căzut în 1974.",
+          "Una dintre cele mai vechi și masive clădiri de piatră din cartierul Plateau.",
+          "A servit peste 150 de ani drept cartier general militar al Portugaliei.",
+          "Găzduiește astăzi Statul Major al forțelor armate capverdiene.",
+          "Proiectată arhitectural în stilul neoclasicismului militar.",
+          "Element central al peisajului urban istoric al capitalei Praia."
+        ],
+        "en": [
+          "Constructed between 1823 and 1826 to house colonial military forces.",
+          "Named after Jaime Mota, a PAIGC fighter who died in 1974.",
+          "One of the oldest and most solid stone structures in the Plateau district.",
+          "Operated as the Portuguese military headquarters for over 150 years.",
+          "Currently serves as the General Staff headquarters for Cape Verde's military.",
+          "Designed in the austere style of 19th-century military neoclassicism.",
+          "A foundational component of the historic cityscape of Praia."
+        ]
+      }
+    },
+    {
+      "id": "cv-mindelo-historic-center-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das historische Zentrum von Mindelo auf der Insel São Vicente ist ein herausragendes Beispiel für den maritimen Kosmopolitismus des 19. Jahrhunderts im Atlantik. Die Stadt entwickelte sich rasant ab 1838, als die britische East India Company den Porto Grande als zentrale Kohlenstation für Dampfschiffe auf der Route nach Südamerika etablierte. Die Architektur des Zentrums spiegelt diesen britisch-portugiesischen Einfluss wider, mit breiten Kopfsteinpflasterstraßen, Palmenpromenaden und stattlichen kolonialen Prachtbauten. Zu den bedeutendsten Gebäuden gehören der Palácio do Povo (ehemaliger Gouverneurspalast), das Rathaus (Paços do Concelho) und die Markthalle (Mercado Municipal). Das Zentrum ist geprägt von pastellfarbenen Fassaden und kunstvollen Holzbalkonen, die typisch für die kapverdische Version des portugiesischen Kolonialstils sind. Mindelo wurde im 19. Jahrhundert zur bedeutendsten Stadt des Archipels und war ein Treffpunkt für Seeleute, Händler und Künstler aus aller Welt. Diese Geschichte legte den Grundstein für Mindelos Ruf als kulturelle und musikalische Hauptstadt des Landes. Das historische Zentrum umfasst auch den berühmten Praça Nova, der bis heute der soziale Mittelpunkt für die Abendpromenaden der Einwohner ist. Im Jahr 2003 wurde die Stadt offiziell zur Kulturhauptstadt der portugiesischsprachigen Welt ernannt. Die dichte Anordnung der Gebäude um die Bucht von Porto Grande macht das Zentrum zu einem der architektonisch harmonischsten Orte Westafrikas.",
+        "hu": "Mindelo történelmi központja São Vicente szigetén a 19. századi atlanti tengeri kozmopolitizmus kiemelkedő példája. A város 1838-tól kezdett rohamosan fejlődni, amikor a brit Kelet-indiai Társaság a Porto Grandét a dél-amerikai útvonalon közlekedő gőzhajók központi szénrakodó állomásává tette. A központ építészete tükrözi ezt a brit-portugál hatást: széles macskaköves utcák, pálmafás sétányok és tekintélyes gyarmati épületek jellemzik. A legjelentősebb építmények közé tartozik a Palácio do Povo (egykori kormányzói palota), a Városháza (Paços do Concelho) és a Városi Piac (Mercado Municipal). A központot pasztellszínű homlokzatok és díszes fafaragású erkélyek határozzák meg, amelyek a portugál gyarmati stílus zöld-foki változatára jellemzőek. A 19. században Mindelo a szigetvilág legfontosabb városává vált, ahol a világ minden tájáról érkező tengerészek, kereskedők és művészek találkoztak. Ez a múlt alapozta meg Mindelo hírnevét mint az ország kulturális és zenei fővárosa. A történelmi központ magában foglalja a híres Praça Nova teret is, amely ma is a lakók esti sétáinak társadalmi középpontja. 2003-ban a várost hivatalosan a portugál nyelvű világ kulturális fővárosává választották. Az épületek sűrű elhelyezkedése a Porto Grande-öböl körül Nyugat-Afrika egyik építészetileg legharmonikusabb helyévé teszi a központot.",
+        "ro": "Centrul istoric din Mindelo, de pe insula São Vicente, este un exemplu remarcabil de cosmopolitism maritim din secolul al XIX-lea în Atlantic. Orașul s-a dezvoltat rapid începând cu anul 1838, când Compania Britanică a Indiilor de Est a stabilit Porto Grande ca stație centrală de cărbune pentru navele cu aburi pe ruta către America de Sud. Arhitectura centrului reflectă această influență britanico-portugheză, cu străzi largi pavate, promenade cu palmieri și edificii coloniale impunătoare. Printre cele mai importante clădiri se numără Palácio do Povo (fostul palat guvernamental), Primăria (Paços do Concelho) și Piața Municipală (Mercado Municipal). Centrul este caracterizat de fațade în culori pastelate și balcoane ornamentate din lemn, tipice versiunii capverdiene a stilului colonial portughez. În secolul al XIX-lea, Mindelo a devenit cel mai important oraș al arhipelagului, fiind un loc de întâlnire pentru marinari, comercianți și artiști din întreaga lume. Această istorie a pus bazele reputației orașului Mindelo de capitală culturală și muzicală a țării. Centrul istoric cuprinde, de asemenea, faimoasa piață Praça Nova, care rămâne și astăzi punctul central social pentru promenadele de seară ale locuitorilor. În anul 2003, orașul a fost numit oficial capitala culturală a lumii lusofone. Dispunerea densă a clădirilor în jurul golfului Porto Grande transformă centrul într-unul dintre cele mai armonioase locuri din punct de vedere arhitectural din Africa de Vest.",
+        "en": "The historic center of Mindelo on São Vicente Island is a preeminent example of 19th-century maritime cosmopolitanism in the Atlantic. The city experienced rapid development starting in 1838, when the British East India Company established Porto Grande as a primary coaling station for steamships on the route to South America. The architecture of the center reflects this Anglo-Portuguese influence, featuring broad cobblestone streets, palm-lined promenades, and stately colonial mansions. Key buildings include the Palácio do Povo (former Governor's Palace), the Town Hall (Paços do Concelho), and the Municipal Market (Mercado Municipal). The center is defined by pastel-colored facades and ornate wooden balconies, typical of the Cape Verdean adaptation of the Portuguese colonial style. In the 19th century, Mindelo became the most significant city in the archipelago, serving as a crossroads for sailors, merchants, and artists from across the globe. This historical backdrop established Mindelo's reputation as the nation's cultural and musical capital. The historic center also encompasses the famous Praça Nova, which remains the social focal point for the residents' evening strolls. In 2003, the city was officially designated the Cultural Capital of the Lusophone World. The dense arrangement of buildings around the Porto Grande Bay makes the center one of the most architecturally harmonious sites in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Boomte ab 1838 durch den Aufbau einer britischen Kohlenstation.",
+          "Beherbergt den Palácio do Povo, ein Prachtbau des Kolonialstils.",
+          "Offizielle Kulturhauptstadt der portugiesischsprachigen Welt (2003).",
+          "Gilt als Geburtsort und Zentrum der melancholischen Morna-Musik.",
+          "Architekturmischung aus britischem Einfluss und portugiesischer Tradition.",
+          "Praça Nova ist der traditionelle Treffpunkt für die abendliche Promenade.",
+          "Strategische Lage an der geschützten Bucht des Porto Grande."
+        ],
+        "hu": [
+          "1838-tól indult fejlődésnek a brit szénrakodó állomásnak köszönhetően.",
+          "Itt található a Palácio do Povo, a gyarmati stílus egyik remekműve.",
+          "2003-ban a portugál nyelvű világ hivatalos kulturális fővárosa volt.",
+          "A melankolikus morna zene szülőhelyeként és központjaként ismert.",
+          "A brit és a portugál építészeti hagyományok egyedi keveréke jellemzi.",
+          "A Praça Nova a helyiek esti közösségi életének hagyományos színhelye.",
+          "Stratégiai fekvésű terület a Porto Grande védett öble mentén."
+        ],
+        "ro": [
+          "A cunoscut un boom după 1838 prin înființarea unei stații britanice de cărbune.",
+          "Găzduiește Palácio do Povo, o clădire splendidă în stil colonial.",
+          "Capitala culturală oficială a lumii lusofone în anul 2003.",
+          "Considerat locul de naștere și centrul muzicii melancolice Morna.",
+          "Amestec arhitectural de influență britanică și tradiție portugheză.",
+          "Praça Nova este locul tradițional de întâlnire pentru promenada de seară.",
+          "Locație strategică pe malul golfului protejat Porto Grande."
+        ],
+        "en": [
+          "Began its economic boom in 1838 as a British maritime coaling station.",
+          "Houses the Palácio do Povo, a grand example of colonial-era architecture.",
+          "Designated the Cultural Capital of the Lusophone World in 2003.",
+          "Regarded as the birthplace and global center of melancholic Morna music.",
+          "Architecture blends 19th-century British influences with Portuguese traditions.",
+          "Praça Nova remains the traditional social focal point for evening promenades.",
+          "Strategically positioned along the naturally sheltered Porto Grande Bay."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Der Stadtstrand von Mahajanga ist ein beliebter Treffpunkt für Einwohner und Besucher. Er lädt zum Entspannen ein und bietet eine lebendige Atmosphäre.",
+      "facts": ["Mahajanga", "Stadtstrand", "Lebendiger Ort", "Erholungsgebiet"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "Der Nationalpark Tsingy de Namoroka bietet eine beeindruckende Karstlandschaft und eine vielfältige Flora. Er ist ein abgelegenes Paradies für Naturliebhaber.",
+      "facts": ["Karstlandschaft", "Nationalpark", "Abgelegen", "Natur pur"]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Die Weingüter rund um Fianarantsoa sind für ihre lokale Produktion bekannt. Sie bieten Verkostungen und Einblicke in den Weinbau im Hochland.",
+      "facts": ["Fianarantsoa", "Weinanbau", "Regionale Produkte", "Hochland-Tradition"]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "Der Zombitse-Vohibasia Nationalpark ist bekannt für seine Vögel und Trockenwald-Ökosysteme. Er ist ein wichtiger Stopp auf dem Weg in den Süden.",
+      "facts": ["Nationalpark", "Vogelbeobachtung", "Trockenwald", "Süden Madagaskars"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Die Thermalbäder von Antsirabe haben eine lange Tradition und sind für ihre heilende Wirkung bekannt. Sie bieten Erholung im kühlen Hochlandklima.",
+      "facts": ["Antsirabe", "Thermalquelle", "Traditionelles Bad", "Gesundheitstourismus"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Der Nationalpark Ankarafantsika ist ein Paradies für Ornithologen. Hier lassen sich viele endemische Vogelarten in ihrem natürlichen Lebensraum beobachten.",
+      "facts": ["Vogelparadies", "Nationalpark", "Ornithologie", "Endemische Fauna"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "Nosy Mitsio bietet fantastische Tauchgründe mit unberührten Korallenriffen. Die Inselgruppe ist ein Geheimtipp für Taucher und Naturliebhaber.",
+      "facts": ["Nosy Mitsio", "Tauchparadies", "Unberührte Riffe", "Geheimtipp"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "Das Naturreservat Tampolo ist ein geschütztes Gebiet mit dichter Vegetation. Es bietet tolle Wanderwege und Naturerlebnisse.",
+      "facts": ["Naturreservat", "Dschungelwanderung", "Geschützte Flora", "Wanderparadies"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "Die feuchten Wälder um Ranomafana beherbergen eine erstaunliche Vielfalt an Amphibien. Sie sind ein zentraler Punkt für die herpetologische Forschung.",
+      "facts": ["Ranomafana", "Amphibien", "Regenwald", "Forschungsgebiet"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "Der Zoo von Mahajanga bietet Einblicke in die faszinierende Tierwelt Madagaskars. Er ist ein lehrreiches Ausflugsziel für Familien.",
+      "facts": ["Mahajanga", "Tierpark", "Familienausflug", "Naturkunde"]
+    }
+  ]
+}

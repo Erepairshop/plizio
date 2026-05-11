@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-dadiani-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Dadiani-Palast in Sugdidi ist das bedeutendste architektonische Denkmal in der westgeorgischen Region Mingrelien. Er diente als Residenz der Fürsten von Dadiani, einer der einflussreichsten Adelsfamilien Georgiens, die bis ins 19. Jahrhundert herrschten. Geografisch liegt der Komplex in einem weitläufigen botanischen Garten, den Fürstin Ekaterine Dadiani Mitte des 19. Jahrhunderts mit seltenen Pflanzen aus Europa und Asien anlegen ließ. Historisch ist der Palast ein Brückenkopf europäischer Kultur im Kaukasus; die Architektur verbindet neugotische Elemente mit traditionellen georgischen Einflüssen. Das heutige Museum beherbergt über 40.000 Exponate, darunter eine der weltweit drei Original-Totenmasken Napoleons, die durch die Heirat von Salome Dadiani mit dem Neffen des Kaisers, Achille Murat, in den Familienbesitz gelangte. Ökonomisch ist der Palast das kulturelle Zentrum Sugdidis und ein wichtiger Motor für den Tourismus in Mingrelien. Technisch beeindruckt die Anlage durch ihre gut erhaltene Fassade und die Integration moderner Museumsinfrastruktur in die historischen Säle. Die Sammlungen umfassen zudem wertvolle christliche Reliquien, wie das Gewand der Jungfrau Maria, und dokumentieren die enge Verflechtung der georgischen Aristokratie mit den europäischen Fürstenhäusern.",
+        "hu": "A sugdidii Dadiani-palota Nyugat-Grúzia egyik legfontosabb történelmi és építészeti emléke, amely a Mingrélia régiót évszázadokon át uraló Dadiani hercegi család rezidenciájaként szolgált. Földrajzilag a város központjában, egy 67 hektáros botanikus kertben található, amelyet Ekaterine Dadiani hercegnő alapított a 19. század közepén, egzotikus európai és ázsiai növényfajokat honosítva meg. Történelmileg a palota a grúz arisztokrácia és az európai udvarok közötti szoros kapcsolat jelképe; az épületegyüttes neogótikus stílusa és belső kialakítása a 19. századi francia és orosz hatásokat tükrözi. A palotamúzeum világhírű gyűjteménye több mint 40 000 tárgyat őriz, köztük Napóleon egyik eredeti halotti maszkját, amely a családba beházasodott Achille Murat herceg révén került Grúziába. Gazdaságilag a palota Sugdidi legfőbb turisztikai vonzereje, amely alapvető fontosságú a régió kulturális életében. Technikai szempontból az épület a korabeli mérnöki tudás remeke, díszes kőfaragásokkal és fagerendás szerkezetekkel. A múzeum emellett jelentős egyházi kincstár is, itt őrizik a hagyomány szerint Szűz Mária köntösének egy darabját, ami miatt a helyszín fontos zarándokhely is egyben.",
+        "ro": "Palatul Dadiani din Zugdidi este cel mai important monument arhitectural din regiunea Mingrelia, servind drept reședință pentru principii Dadiani, una dintre cele mai puternice dinastii nobiliare din Georgia. Geografic, complexul este situat în centrul orașului Zugdidi, fiind înconjurat de o grădină botanică vastă, creată în secolul al XIX-lea de principesa Ekaterine Dadiani cu specii rare aduse din Europa. Din punct de vedere istoric, palatul reflectă orientarea europeană a elitei georgiene; arhitectura sa îmbină stilul neogotic cu elemente tradiționale locale. Muzeul palatului adăpostește peste 40.000 de piese de patrimoniu, cea mai celebră fiind una dintre cele trei măști mortuare originale ale lui Napoleon Bonaparte, ajunsă aici prin căsătoria prințesei Salome Dadiani cu nepotul împăratului, Achille Murat. Economic, situl este principalul obiectiv turistic al vestului Georgiei, generând venituri esențiale pentru dezvoltarea locală. Din punct de vedere tehnic, structura se remarcă prin decorațiunile exterioare elaborate și conservarea excelentă a interioarelor de epocă. De asemenea, complexul este un centru spiritual major, păstrând relicve creștine de o valoare inestimabilă, cum ar fi fragmentul din veșmântul Fecioarei Maria, ceea ce îi conferă un statut special în lumea ortodoxă.",
+        "en": "The Dadiani Palace in Zugdidi is the most significant historical and architectural landmark in the Samegrelo region of Western Georgia. It served as the residence of the Princes of Dadiani, a powerful noble house that governed the principality until the late 19th century. Geographically, the palace is set within an expansive botanical garden established by Princess Ekaterine Dadiani in the mid-1800s, featuring rare flora imported from Europe and Asia. Historically, the palace represents the deep cultural ties between the Georgian aristocracy and European courts; its architecture blends Neo-Gothic aesthetics with traditional Georgian craftsmanship. The palace museum houses an extraordinary collection of over 40,000 artifacts, most notably one of the three original bronze death masks of Napoleon Bonaparte, which entered the family collection following the marriage of Princess Salome Dadiani to Prince Achille Murat. Economically, the complex is the cultural anchor of Zugdidi and a major driver for tourism in Western Georgia. Technically, the palace is renowned for its intricate stone carvings and the preservation of its 19th-century interiors. Furthermore, it functions as a major spiritual center, as it safeguards precious Christian relics, including the robe of the Virgin Mary, making it a site of international pilgrimage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt eine von weltweit drei Original-Totenmasken Napoleons.",
+          "Der zugehörige botanische Garten wurde von Fürstin Ekaterine Dadiani gegründet.",
+          "Die Dadianis waren die souveränen Herrscher von Mingrelien bis 1867.",
+          "Das Museum enthält über 40.000 Exponate zur kaukasischen Geschichte.",
+          "Bewahrt das Gewand der Jungfrau Maria als bedeutende christliche Reliquie.",
+          "Die Architektur zeigt einen seltenen kaukasisch-neogotischen Mischstil."
+        ],
+        "hu": [
+          "Itt található a világ három eredeti Napóleon-halotti maszkjának egyike.",
+          "A palotát egy 67 hektáros, ritka növényekkel teli botanikus kert övezi.",
+          "A Dadiani-ház 1867-ig gyakorolta a szuverén hatalmat Mingrélia felett.",
+          "A múzeumi gyűjtemény a grúz nemesi életmód leggazdagabb tárháza.",
+          "Itt őrzik az ortodox egyház egyik legfontosabb ereklyéjét, Mária köntösét.",
+          "Az épület neogótikus homlokzatát helyi kőfaragó mesterek díszítették."
+        ],
+        "ro": [
+          "Găzduiește una dintre cele trei măști mortuare originale ale lui Napoleon.",
+          "Grădina botanică adiacentă este una dintre cele mai vechi din Georgia.",
+          "Principii Dadiani au condus Mingrelia ca stat cvasi-independent până în 1867.",
+          "Colecția muzeală include obiecte personale ale dinastiei Murat din Franța.",
+          "Deține relicva sfântă a veșmântului Maicii Domnului (Vlaherna).",
+          "Arhitectura palatului a fost inspirată de modelele regale europene de secol XIX."
+        ],
+        "en": [
+          "Home to one of the world's three original death masks of Napoleon Bonaparte.",
+          "Features a historic botanical garden with thousands of exotic plant species.",
+          "The Dadiani dynasty ruled the region as sovereign princes until 1867.",
+          "The museum holds a vast collection of Napoleonic and royal Georgian memorabilia.",
+          "Safeguards the 'Holy Robe' of the Virgin Mary, brought to Georgia in the 15th century.",
+          "Architecturally unique for its fusion of imperial European and local styles."
+        ]
+      }
+    },
+    {
+      "id": "ge-mutso-history-v2",
+      "descriptionAdvanced": {
+        "de": "Mutso ist eine spektakuläre mittelalterliche Festungssiedlung in der historischen Region Chewsuretien, im äußersten Norden Georgiens. Geografisch liegt das „Dorf der Toten“ auf einem fast senkrechten Felsen über dem Fluss Andaki, nur wenige Kilometer von der Grenze zu Tschetschenien entfernt. Historisch war Mutso über Jahrhunderte ein unbezwingbarer Verteidigungsposten, der die nördlichen Pässe Georgiens vor Einfällen aus dem Nordkaukasus schützte. Die Architektur besteht aus etwa 30 befestigten Wohnhäusern und Wehrtürmen, die terrassenförmig in das steile Relief gebaut wurden. Eine Besonderheit sind die „Anatori“-Gruften am Fuße des Dorfes, in denen Kranke während Pestepidemien isoliert wurden, um die Gemeinschaft zu schützen. Technisch beeindruckt Mutso durch die Trockenmauerwerk-Technik, bei der Schiefersteine ohne Mörtel präzise aufeinandergeschichtet wurden. Nach Jahrzehnten des Verfalls und der Entvölkerung wurde zwischen 2014 und 2019 ein massives staatliches Restaurierungsprojekt durchgeführt, das mit dem Europa Nostra Preis ausgezeichnet wurde. Ökonomisch ist Mutso heute ein Symbol für die Revitalisierung entlegener Bergregionen und ein Ziel für anspruchsvolle Wanderer. Der Ort bewahrt die archaische Atmosphäre der chewsuretischen Kultur, in der kriegerische Traditionen und heidnisch-christliche Synkretismen bis heute in Legenden fortleben.",
+        "hu": "Mutso egy lenyűgöző középkori erődtelepülés Hevszureti történelmi régiójában, Grúzia északi részén. Földrajzilag az „Andaki-völgy őrzője” egy meredek, szinte függőleges sziklafalon helyezkedik el, alig néhány kilométerre a csecsen határtól. Történelmileg Mutso évszázadokon át bevehetetlen védelmi bástyaként szolgált, amely az északi hágókat védte a betörések ellen. Az építészet körülbelül 30 megerősített lakóházból és őrtoronyból áll, amelyeket teraszosan építettek a sziklába. A település különlegességei az aljában található „Anatori” kripták, ahol a pestisjárványok idején a betegek önkéntes karanténba vonultak. Technikai szempontból Mutso a száraz falazási technika mesterműve, ahol a palaköveket kötőanyag nélkül, hajszálpontosan illesztették egymáshoz. Az évtizedekig tartó pusztulás és elnéptelenedés után 2014 és 2019 között nagyszabású állami restauráció ment végbe, amely elnyerte az Europa Nostra-díjat. Gazdaságilag a falu ma a távoli hegyi régiók újjáélesztésének szimbóluma és a kalandturizmus egyik fő célpontja. A helyszín megőrizte a hevszur kultúra archaikus hangulatát, ahol a harcos hagyományok és a pogány-keresztény hiedelmek a mai napig összefonódnak a helyi legendákban.",
+        "ro": "Mutso este o așezare fortificată medievală spectaculoasă, situată în regiunea istorică Khevsureti, în nordul extrem al Georgiei. Geografic, „satul morților” este cocoțat pe o stâncă aproape verticală deasupra râului Andaki, la mică distanță de granița cu Cecenia. Din punct de vedere istoric, Mutso a servit timp de secole ca post de apărare inexpugnabil, protejând trecătorile nordice ale Georgiei împotriva incursiunilor din Caucazul de Nord. Arhitectura sa cuprinde aproximativ 30 de locuințe fortificate și turnuri de apărare (koshki), construite în terase pe relieful abrupt. O caracteristică unică sunt criptele „Anatori” de la baza satului, unde bolnavii de ciumă se izolau voluntar în trecut pentru a nu infecta comunitatea. Tehnic, Mutso impresionează prin tehnica zidăriei uscate, utilizând plăci de ardezie îmbinate fără mortar cu o precizie uimitoare. După decenii de abandon și degradare, complexul a fost restaurat integral între 2014 și 2019, proiectul primind prestigiosul premiu Europa Nostra. Economic, Mutso este astăzi simbolul revitalizării regiunilor montane izolate și o destinație de top pentru turismul de aventură. Locul păstrează atmosfera arhaică a culturii khevsur, unde tradițiile războinice și sincretismul religios precreștin supraviețuiesc în memoria colectivă locală.",
+        "en": "Mutso is a spectacular medieval fortified settlement in the historic Khevsureti region of northern Georgia. Geographically, it is perched on a nearly vertical rocky ridge overlooking the Andaki River, just a few kilometers from the Chechen border. Historically, Mutso served for centuries as an impregnable defensive outpost, guarding Georgia's northern mountain passes against North Caucasian incursions. Its architecture consists of approximately 30 fortified dwellings and defensive towers (koshki), built in staggered terraces into the steep terrain. A somber unique feature is the 'Anatori' necropolises at the base of the ridge, where plague victims historically quarantined themselves to protect the rest of the village. Technically, Mutso is a masterpiece of dry-stone masonry, utilizing slate stones meticulously layered without mortar. After decades of decay and depopulation, the site underwent a massive state-led restoration between 2014 and 2019, which earned it the Europa Nostra Award. Economically, Mutso has become a symbol for the revitalization of remote highland regions and a premier destination for high-altitude trekking. The site preserves the archaic atmosphere of Khevsur culture, where warrior traditions and pagan-Christian syncretism continue to resonate through local folklore."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gelegen auf einem fast senkrechten Felsen auf 1.880 Metern Höhe.",
+          "Besteht aus ca. 30 Wohntürmen und befestigten Verteidigungsanlagen.",
+          "Wurde 2019 mit dem Europa Nostra Preis für vorbildliche Restaurierung geehrt.",
+          "Beherbergt mittelalterliche Pest-Krypten (Anatori) im Talboden.",
+          "Strategischer Wachturm-Komplex an der historischen Grenze zu Tschetschenien.",
+          "Gebaut vollständig aus lokalem Schiefergestein in Trockenbauweise."
+        ],
+        "hu": [
+          "1880 méteres magasságban, egy szinte függőleges sziklán fekszik.",
+          "Kb. 30 lakótoronyból és erődített épületből álló komplexum.",
+          "2019-ben elnyerte az Europa Nostra-díjat a kiemelkedő helyreállításért.",
+          "A völgyben középkori pestis-kripták (Anatori) találhatóak.",
+          "Évszázadokig az északi hágók legfontosabb katonai ellenőrző pontja volt.",
+          "Kötőanyag nélküli palakő-építkezése a kaukázusi mérnöki tudás csúcsa."
+        ],
+        "ro": [
+          "Situat pe o creastă abruptă la o altitudine de 1.880 de metri.",
+          "Include 30 de turnuri de apărare și unități locative fortificate.",
+          "Proiectul de restaurare a primit Premiul Europa Nostra în anul 2019.",
+          "Criptele Anatori din apropiere atestă practicile medievale de carantină.",
+          "Punct strategic de control al văii Andaki spre Caucazul de Nord.",
+          "Construcție realizată integral din plăci de ardezie locală fără mortar."
+        ],
+        "en": [
+          "Perched on a nearly vertical rock face at an altitude of 1,880 meters.",
+          "Comprises about 30 traditional fortified houses and defensive towers.",
+          "Winner of the 2019 Europa Nostra Award for cultural heritage restoration.",
+          "Features medieval 'plague houses' or tombs known as Anatori.",
+          "Served as the primary northern military gateway to the Georgian highlands.",
+          "Constructed using ancient dry-stone techniques with local slate slabs."
+        ]
+      }
+    },
+    {
+      "id": "ge-gremi-history-v2",
+      "descriptionAdvanced": {
+        "de": "Gremi ist ein markantes architektonisches Ensemble in der Region Kachetien und war im 16. und 17. Jahrhundert die blühende Hauptstadt des Königreichs Kachetien. Geografisch liegt die Anlage auf einem Felsvorsprung im Alasani-Tal, umgeben von Weinbergen und den Ausläufern des Kaukasus. Das auffälligste Bauwerk ist die Kirche der Erzengel, die 1565 von König Lewan errichtet wurde. Historisch markiert Gremi die Blütezeit des kachetischen Staates, bevor die Stadt 1615 durch die Truppen des persischen Schahs Abbas I. dem Erdboden gleichgemacht wurde. Nur das auf dem Hügel gelegene Zitadellen-Ensemble überlebte die Zerstörung. Ökonomisch war Gremi ein wichtiger Handelsknotenpunkt an der Seidenstraße, was durch die Ruinen eines Karawanserei-Komplexes und öffentlicher Bäder belegt wird. Technisch beeindruckt die Architektur durch die Verwendung von Backsteinen, ein Merkmal, das den starken kulturellen Austausch mit dem benachbarten Persien widerspiegelt. Das heutige Museum innerhalb des Glockenturms zeigt archäologische Funde der untergegangenen Stadt und königliche Utensilien. Gremi gilt als eines der ästhetischsten Beispiele spätmittelalterlicher georgischer Baukunst und ist ein zentrales Monument für das historische Gedächtnis Ostgeorgiens.",
+        "hu": "Gremi Kaheti régió egyik legmeghatározóbb építészeti együttese, amely a 16. és 17. században a Kaheti Királyság virágzó fővárosa volt. Földrajzilag az Alazani-völgy egy sziklás kiszögellésén található, szőlőültetvények és a Kaukázus lábai által övezve. A leglátványosabb építmény az Arkangyalok temploma, amelyet 1565-ben I. Levan király emeltetett. Történelmileg Gremi a kaheti államiság fénykorát jelöli, mielőtt 1615-ben I. Abbász perzsa sah seregei földig rombolták volna a várost. A pusztítást csak a dombon álló citadella és a templom élte túl. Gazdaságilag Gremi a Selyemút egyik fontos kereskedelmi csomópontja volt, amit a feltárt karavánszeráj és a nyilvános fürdők romjai is bizonyítanak. Technikai szempontból az építészet különlegessége a tégla domináns használata, ami a szomszédos Perzsiával folytatott intenzív kulturális cserére utal. A mai múzeum, amely a harangtoronyban kapott helyet, a letűnt város régészeti leleteit és királyi relikviáit mutatja be. Gremi a késő középkori grúz építőművészet egyik legszebb példája, és Kelet-Grúzia történelmi emlékezetének központi oszlopa.",
+        "ro": "Gremi este un ansamblu arhitectural remarcabil situat în regiunea Kakheti, servind drept capitală înfloritoare a Regatului Kakheti între secolele XVI și XVII. Geografic, complexul este cocoțat pe o proeminență stâncoasă în valea Alazani, fiind înconjurat de vii și de contraforturile Caucazului. Cea mai vizibilă structură este Biserica Arhanghelilor, ridicată în 1565 de regele Levan. Din punct de vedere istoric, Gremi marchează apogeul statului kaxetian, înainte ca orașul să fie complet distrus în 1615 de trupele șahului persan Abbas I. Doar ansamblul citadelei de pe deal a supraviețuit masacrului. Economic, Gremi a fost un nod comercial vital pe Drumul Mătăsii, fapt confirmat de ruinele caravanseraiului și ale băilor publice de la baza dealului. Tehnic, arhitectura se distinge prin utilizarea masivă a cărămizii, reflectând schimburile culturale intense cu Persia vecină. Muzeul actual, amenajat în turnul clopotniță, expune artefacte arheologice ale orașului dispărut și obiecte regale. Gremi este considerat unul dintre cele mai estetice exemple de arhitectură georgiană medievală târzie și un monument central pentru identitatea istorică a estului Georgiei.",
+        "en": "Gremi is a striking architectural ensemble in the Kakheti region and served as the prosperous capital of the Kingdom of Kakheti during the 16th and 17th centuries. Geographically, the complex is situated on a rocky outcrop in the Alazani Valley, framed by vineyards and the Greater Caucasus foothills. The most prominent structure is the Church of the Archangels, commissioned in 1565 by King Levan. Historically, Gremi represents the zenith of the Kakhetian state before the city was leveled in 1615 by the Safavid Persian forces of Shah Abbas I. Only the hilltop citadel and church survived the devastation. Economically, Gremi was a key commercial hub on the Silk Road, evidenced by the ruins of an extensive caravanserai and public baths nearby. Technically, the architecture is notable for its dominant use of brickwork, a feature that reflects the strong cultural and artistic exchange with neighboring Persia. Today, the museum located within the bell tower displays archaeological finds from the lost city and royal artifacts. Gremi stands as one of the most aesthetically refined examples of late medieval Georgian architecture and remains a vital monument to Eastern Georgia's historical memory."
+      },
+      "factsAdvanced": {
+        "de": [
+          "War von 1466 bis 1616 die Hauptstadt des unabhängigen Königreichs Kachetien.",
+          "Die Erzengel-Kirche (1565) ist ein Meisterwerk der kachetischen Backsteinarchitektur.",
+          "Wurde durch die Invasion von Schah Abbas I. fast vollständig ausgelöscht.",
+          "Einziger überlebender Teil einer einst 40 Hektar großen Handelsstadt.",
+          "Besitzt ein hervorragend erhaltenes mittelalterliches Toilettensystem in der Zitadelle.",
+          "Das Museum im Schlossturm beherbergt Funde von der kaukasischen Seidenstraße."
+        ],
+        "hu": [
+          "1466 és 1616 között a független Kaheti Királyság fővárosa volt.",
+          "Az Arkangyalok temploma (1565) a kaheti téglaépítészet remekműve.",
+          "I. Abbász perzsa sah inváziója után a város gyakorlatilag megszűnt létezni.",
+          "A mai komplexum egy egykori 40 hektáros kereskedőváros egyetlen maradványa.",
+          "A citadellában egyedülálló módon maradt fenn a középkori vizesblokk-rendszer.",
+          "A palotatorony múzeuma a Selyemút menti kereskedelem emlékeit őrzi."
+        ],
+        "ro": [
+          "Capitală a Regatului Kakheti timp de un secol și jumătate (1466-1616).",
+          "Biserica Arhanghelilor (1565) utilizează cărămida arsă ca element structural principal.",
+          "Orașul a fost radiat de pe hartă în urma invaziei persane din 1615.",
+          "Include ruinele unui complex comercial vast cu caravanserai și crame.",
+          "Turnul regal conține pasaje secrete și un sistem defensiv ingenios.",
+          "Înscrisă pe lista tentativă a Patrimoniului Mondial UNESCO."
+        ],
+        "en": [
+          "Served as the capital of the Kingdom of Kakheti from 1466 to 1616.",
+          "The Church of the Archangels (1565) is a prime example of Kakhetian brickwork.",
+          "The city was effectively destroyed during the 1615 invasion by Shah Abbas I.",
+          "Only the 16th-century citadel remains from a city that once spanned 40 hectares.",
+          "Features well-preserved medieval drainage and public bath systems.",
+          "The museum inside the castle tower displays items from the local Silk Road trade."
+        ]
+      }
+    },
+    {
+      "id": "ge-jvari-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Jvari-Kloster (Kreuzkloster) ist eines der heiligsten Zentren Georgiens und ein architektonisches Juwel des frühen Mittelalters. Geografisch thront es auf einem markanten Felsgipfel über dem Zusammenfluss von Aragvi und Kura, mit direktem Blick auf die alte Hauptstadt Mzcheta. Historisch markiert dieser Ort den Beginn des Christentums in Georgien; hier errichtete die Heilige Nino im 4. Jahrhundert ein hölzernes Kreuz über einem heidnischen Heiligtum. Die heutige Kirche wurde zwischen 590 und 605 erbaut und ist das erste und vollkommenste Beispiel für den georgischen „Tetrakonchos“-Stil (Vier-Konchen-Bau). Ökonomisch ist Jvari Teil des UNESCO-Weltkulturerbes und eines der meistbesuchten Denkmäler des Landes. Technisch gesehen besticht die Kirche durch ihre perfekte Proportionierung und die Integration des Felsfundaments in die Architektur. Die Reliefs an den Außenwänden gehören zu den ältesten und wertvollsten Beispielen georgischer christlicher Skulptur. Trotz jahrhundertelanger Kriege und Verwitterung blieb die Struktur fast unverändert erhalten. Jvari ist nicht nur ein Bauwerk, sondern ein nationales Symbol, das die spirituelle Überlegenheit und den ästhetischen Kanon der georgischen Architektur im 6. Jahrhundert definiert.",
+        "hu": "A Jvari-kolostor (Szent Kereszt-kolostor) Grúzia egyik legszentebb központja és a kora középkori építészet remekműve. Földrajzilag az Aragvi és a Kura folyók összefolyása feletti sziklás csúcson trónol, közvetlen kilátással az ősi fővárosra, Mchetára. Történelmileg ez a hely jelöli a kereszténység kezdetét Grúziában; Szent Nino a 4. században itt állított fel egy fakeresztet egy pogány szentély helyén. A mai templom 590 és 605 között épült, és a grúz „tetrakonchosz” (négykaréjos) stílus első és legtökéletesebb példája. Gazdaságilag a Jvari az UNESCO Világörökség része, és az ország egyik leglátogatottabb műemléke. Technikai szempontból a templom tökéletes arányaival és a sziklaalap építészetbe való integrálásával nyűgöz le. A külső falakon található domborművek a grúz keresztény szobrászat legrégebbi és legértékesebb példái közé tartoznak. Évszázadok háborúi és az erózió ellenére a szerkezet szinte változatlan formában maradt fenn. A Jvari nem csupán egy épület, hanem nemzeti szimbólum, amely meghatározza a 6. századi grúz építészet szellemi és esztétikai kánonját.",
+        "ro": "Mănăstirea Jvari (Mănăstirea Crucii) este unul dintre cele mai sacre centre ale Georgiei și o bijuterie a arhitecturii medievale timpurii. Geografic, aceasta tronează pe vârful unei stânci proeminente la confluența râurilor Aragvi și Kura, oferind o vedere panoramică asupra vechii capitale Mtskheta. Din punct de vedere istoric, locația marchează zorii creștinismului în Georgia; aici, Sfânta Nino a ridicat în secolul IV o cruce de lemn pe locul unui altar păgân. Biserica actuală a fost construită între anii 590 și 605, fiind primul și cel mai desăvârșit exemplu de stil „tetraconc” (plan cu patru abside) georgian. Economic, Jvari este inclusă în Patrimoniul Mondial UNESCO și reprezintă una dintre cele mai vizitate destinații din țară. Din punct de vedere tehnic, edificiul impresionează prin proporțiile sale perfecte și prin modul în care fundația de stâncă este integrată în arhitectură. Basoreliefurile de pe fațadele exterioare sunt printre cele mai vechi și valoroase exemple de sculptură creștină georgiană. În ciuda secolelor de conflicte și intemperii, structura s-a păstrat aproape intactă. Jvari nu este doar o clădire, ci un simbol național care definește canonul estetic și spiritual al Georgiei din secolul al VI-lea.",
+        "en": "Jvari Monastery (Monastery of the Cross) is one of Georgia's holiest sites and an architectural masterpiece of the early Middle Ages. Geographically, it is perched on a rocky hilltop overlooking the confluence of the Aragvi and Kura (Mtkvari) rivers, offering a direct view of the ancient capital, Mtskheta. Historically, this site commemorates the birth of Christianity in Georgia; here, Saint Nino erected a wooden cross in the 4th century over the ruins of a pagan temple. The current church was constructed between 590 and 605 AD and is the premier example of the Georgian 'tetraconch' (four-apsed) architectural design. Economically, Jvari is part of a UNESCO World Heritage site and remains one of the most frequented monuments in the country. Technically, the church is renowned for its perfect geometric proportions and the seamless integration of its stone foundation with the surrounding cliffside. The reliefs on its exterior walls are among the oldest and most precious examples of early Georgian Christian sculpture. Despite centuries of warfare and environmental exposure, the structure remains largely unchanged. Jvari is not merely a building but a national icon, defining the spiritual and aesthetic framework of 6th-century Georgian architecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "UNESCO-Weltkulturerbe seit 1994 als Teil der Denkmäler von Mzcheta.",
+          "Erstes vollendetes Beispiel des georgischen Tetrakonchos-Baustils.",
+          "Erbaut zwischen 590 und 605 auf den Fundamenten einer älteren Kirche.",
+          "Der Name 'Jvari' bedeutet 'Kreuz' und bezieht sich auf das Kreuz der Hl. Nino.",
+          "Besitzt wertvolle Steinreliefs mit Darstellungen der Kirchenstifter.",
+          "Die Architektur diente als Modell für zahlreiche Kirchen im gesamten Kaukasus."
+        ],
+        "hu": [
+          "1994 óta az UNESCO Világörökség része Mcheta műemlékeivel együtt.",
+          "A grúz tetrakonchosz templomépítészet első tökéletes példája.",
+          "590 és 605 között épült, egy korábbi, 4. századi szentély helyén.",
+          "A 'Jvari' név jelentése 'kereszt', utalva Szent Nino missziós keresztjére.",
+          "Homlokzatán a templom építtetőit ábrázoló ritka 6. századi domborművek láthatóak.",
+          "Arányaival és szerkezetével mintául szolgált az egész kaukázusi keresztény építészetnek."
+        ],
+        "ro": [
+          "Inclusă în Patrimoniul Mondial UNESCO din 1994, parte a sitului Mtskheta.",
+          "Prototiul stilului arhitectural tetraconc, definitoriu pentru Georgia medievală.",
+          "Edificiul actual datează de la sfârșitul secolului VI și începutul secolului VII.",
+          "Numele 'Jvari' se traduce prin 'Cruce', marcând victoria creștinismului.",
+          "Adăpostește basoreliefuri rare reprezentând nobilii care au finanțat construcția.",
+          "Locația oferă cea mai faimoasă perspectivă vizuală asupra confluenței râurilor georgiene."
+        ],
+        "en": [
+          "Designated as a UNESCO World Heritage site since 1994.",
+          "The first and most influential example of the four-apsed tetraconch style.",
+          "Built between 590 and 605 AD on the site of a 4th-century wooden cross.",
+          "The name 'Jvari' means 'Cross,' symbolizing the Christianization of Iberia.",
+          "Features some of the earliest surviving Christian stone reliefs in Georgia.",
+          "Served as an architectural prototype for countless churches throughout the Caucasus."
+        ]
+      }
+    },
+    {
+      "id": "ge-rabati-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rabati-Festung in Achalziche ist ein monumentales Symbol für die multikulturelle Geschichte der Region Samzche-Dschawachetien. Geografisch liegt sie strategisch günstig an einem Hügelhang, der den Zugang von der Türkei ins georgische Kernland kontrolliert. Historisch geht die Anlage auf das 9. Jahrhundert zurück, als sie unter dem Namen Lomsia von den Adelsfamilien von Jakeli gegründet wurde. Im Laufe der Jahrhunderte war sie abwechselnd unter georgischer, osmanischer und russischer Herrschaft, was zu einer weltweit einzigartigen Mischung architektonischer Stile führte. Der Komplex umfasst eine orthodoxe Kirche, eine Moschee mit Goldkuppel, ein Minarett, eine Synagoge und eine katholische Kirche, was Rabati zu einem Denkmal der religiösen Toleranz macht. Technisch wurde die Festung im Jahr 2012 massiv restauriert und teilweise rekonstruiert, was sie heute zu einer der bestausgebauten touristischen Anlagen Georgiens macht. Ökonomisch ist Rabati der Hauptarbeitgeber im regionalen Tourismussektor und beherbergt das Historische Museum von Samzche-Dschawachetien mit wertvollen Exponaten aus der Bronzezeit. Trotz Kritiken an der „zu modernen“ Rekonstruktion bleibt die Festung ein beeindruckendes Zeugnis für Georgiens Rolle als Schmelztiegel der Kulturen zwischen dem Orient und dem Okzident.",
+        "hu": "Az achalzichei Rabati-erőd monumentális szimbóluma Szamche-Dzsavakheti régió multikulturális történelmének. Földrajzilag egy domboldalon helyezkedik el, stratégiai ellenőrzést biztosítva a Törökország felől a grúz hátországba vezető utak felett. Történelmileg a komplexum a 9. századra nyúlik vissza, amikor Lomsia néven a Jakeli nemesi család alapította. Az évszázadok során felváltva állt grúz, oszmán és orosz fennhatóság alatt, ami az építészeti stílusok világszerte egyedülálló keveredéséhez vezetett. A komplexumban megtalálható egy ortodox templom, egy aranykupolás mecset, egy minaret, egy zsinagóga és egy katolikus templom is, ami a vallási tolerancia emlékművévé teszi Rabatit. Technikai szempontból az erődöt 2012-ben nagyszabású állami projekt keretében restaurálták és részben újjáépítették, így ma Grúzia egyik legmodernebb turisztikai létesítménye. Gazdaságilag Rabati a regionális turizmus motorja, és itt található a Szamche-Dzsavakheti Történeti Múzeum is, amely értékes bronzkori leleteket őriz. A „túlságosan modern” rekonstrukciót érő kritikák ellenére az erőd lenyűgöző bizonyítéka Grúzia kultúrák közötti híd-szerepének a Kelet és a Nyugat között.",
+        "ro": "Cetatea Rabati din Akhaltsikhe este un simbol monumental al istoriei multiculturale a regiunii Samtskhe-Javakheti. Geografic, aceasta este situată strategic pe versantul unui deal care controlează rutele de acces dinspre Turcia către inima Georgiei. Din punct de vedere istoric, complexul datează din secolul al IX-lea, fiind fondat sub numele de Lomsia de către familia nobiliară Jakeli. De-a lungul secolelor, cetatea a fost succesiv sub stăpânire georgiană, otomană și rusă, rezultând un amestec unic de stiluri arhitecturale. Complexul include o biserică ortodoxă, o moschee cu cupolă aurită (Ahmadiyya), un minaret, o sinagogă și o biserică catolică, transformând Rabati într-un monument al toleranței religioase. Tehnic, cetatea a beneficiat de o restaurare masivă în 2012, fiind parțial reconstruită, ceea ce o face astăzi una dintre cele mai moderne infrastructuri turistice din țară. Economic, Rabati este motorul principal al turismului regional și găzduiește Muzeul de Istorie Samtskhe-Javakheti, cu exponate valoroase din epoca bronzului. În ciuda controverselor privind caracterul „prea modern” al reconstrucției, cetatea rămâne o mărturie impresionantă a rolului Georgiei de punct de întâlnire între Orient și Occident.",
+        "en": "The Rabati Castle in Akhaltsikhe is a monumental symbol of the multicultural history of the Samtskhe-Javakheti region. Geographically, it is strategically situated on a hillside commanding the routes from Turkey into the Georgian heartland. Historically, the site dates back to the 9th century, founded as Lomsia by the House of Jakeli. Over the centuries, it was subject to alternating Georgian, Ottoman, and Russian rule, resulting in a globally unique synthesis of architectural styles. The complex comprises an Orthodox church, a gold-domed mosque (Ahmadiyya), a minaret, a synagogue, and a Catholic church, making Rabati a powerful monument to religious tolerance. Technically, the fortress underwent a massive state-funded restoration and partial reconstruction in 2012, transforming it into one of Georgia's most sophisticated tourist facilities. Economically, Rabati is the primary driver of the regional tourism industry and houses the Samtskhe-Javakheti History Museum, which holds significant Bronze Age artifacts. Despite some criticism regarding the 'modernized' nature of its reconstruction, the fortress remains an impressive testament to Georgia's role as a cultural melting pot between the East and the West."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wurde im 9. Jahrhundert als Festung Lomsia gegründet.",
+          "Sitz der Jakeli-Dynastie, die über 300 Jahre das Fürstentum Samzche regierte.",
+          "Beinhaltet die Ahmadiyya-Moschee aus der Zeit der osmanischen Herrschaft.",
+          "Umfasst Gotteshäuser von fünf verschiedenen Religionsgemeinschaften.",
+          "Wurde 2012 auf einer Fläche von 7 Hektar umfassend restauriert.",
+          "Beherbergt das wichtigste historische Museum Südoorgiens."
+        ],
+        "hu": [
+          "A 9. században alapították Lomsia néven, mint védelmi központot.",
+          "A Jakeli-dinasztia székhelye volt, akik 300 évig uralták a térséget.",
+          "Itt található az oszmán időkben épült híres Ahmadiyya-mecset.",
+          "A várfalakon belül öt különböző világvallás épületei férnek meg egymás mellett.",
+          "A 2012-es újjáépítés során 7 hektárnyi területet modernizáltak.",
+          "A komplexum ad otthont a régió leggazdagabb régészeti múzeumának."
+        ],
+        "ro": [
+          "Fondată în secolul IX, servind drept reședință a familiei Jakeli.",
+          "A fost centrul administrativ al Pașalâcului de Akhaltsikhe sub otomani.",
+          "Moscheea Ahmadiyya din interior păstrează o cupolă aurită spectaculoasă.",
+          "Unul dintre puținele locuri din lume cu biserici, moschee și sinagogă în același zid.",
+          "Restaurarea din 2012 a inclus grădini în stil maur și bazine decorative.",
+          "Punct de acces principal spre situl rupestru Vardzia."
+        ],
+        "en": [
+          "Founded in the 9th century and originally known as Lomsia.",
+          "The ancestral seat of the Jakeli dynasty for over three centuries.",
+          "Features the 18th-century Ahmadiyya Mosque with its iconic gold dome.",
+          "Unique for housing places of worship for five different religious denominations.",
+          "Underwent a total 7-hectare rehabilitation and reconstruction in 2012.",
+          "Home to the Samtskhe-Javakheti History Museum's vital collections."
+        ]
+      }
+    }
+  ]
+}

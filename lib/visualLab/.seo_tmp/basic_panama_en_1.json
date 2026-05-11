@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPanamaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "concepcion-bugaba-cities-v2", "description": "Mountain town in Chiriquí highlands with coffee farms and cool climate.", "facts": ["Mountain resort", "Coffee region", "Tourist hub"]},
+    {"id": "zona-logistica-tocumen-economic-v2", "description": "Logistics zone near international airport serving commerce.", "facts": ["Logistics hub", "Trade zone", "Cargo facility"]},
+    {"id": "mina-oro-economic-v2", "description": "Gold mining operation in western Panama's mineral region.", "facts": ["Mining operation", "Economic sector", "Resource extraction"]},
+    {"id": "industria-bebidas-economic-v2", "description": "Beverage production facility supporting national industry.", "facts": ["Manufacturing", "Food sector", "Production facility"]},
+    {"id": "parque-tecnologico-economic-v2", "description": "Technology park with innovation and business facilities.", "facts": ["Tech zone", "Business hub", "Innovation center"]},
+    {"id": "fuerte-san-jeronimo-history-v2", "description": "17th century fortress in Portobelo with colonial architecture.", "facts": ["Colonial fort", "Historic monument", "Naval defense"]},
+    {"id": "casa-fuerte-de-la-aduanas-history-v2", "description": "Fortified customs house from colonial Panama period.", "facts": ["Trade building", "Customs post", "Historic site"]},
+    {"id": "iglesia-de-san-jose-history-v2", "description": "17th century church with golden altar in old Panama City.", "facts": ["Colonial church", "Religious monument", "Baroque art"]},
+    {"id": "fuerte-de-matachin-history-v2", "description": "Historic military fort from Spanish colonial era.", "facts": ["Defense structure", "Colonial landmark", "Military post"]},
+    {"id": "estacion-del-ferrocarril-de-panama-history-v2", "description": "Historic railroad station from Panama's railway era.", "facts": ["Transport heritage", "Railroad history", "Historic building"]},
+    {"id": "arco-chato-history-v2", "description": "Historic flat arch structure in Casco Viejo district.", "facts": ["Architectural monument", "Colonial remains", "Heritage site"]},
+    {"id": "casa-ayora-history-v2", "description": "Colonial-era house with historic architectural significance.", "facts": ["Heritage building", "Colonial style", "Cultural landmark"]},
+    {"id": "plaza-francia-history-v2", "description": "Historic plaza in Casco Viejo commemorating French role in canal.", "facts": ["Memorial plaza", "Historic site", "Public square"]},
+    {"id": "iglesia-del-carmen-history-v2", "description": "Colonial-era church in Casco Viejo with historic value.", "facts": ["Religious building", "Colonial monument", "District landmark"]},
+    {"id": "iglesia-de-la-merced-landmarks-v2", "description": "Church with distinctive architecture in Panama City.", "facts": ["Religious building", "Religious style", "Urban landmark"]}
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "A dense rainforest region in Chiapas, known for its unique flora, fauna, and ancient ruins.",
+      "facts": ["Located in Chiapas", "Dense rainforest", "Home to unique wildlife", "Ancient ruins nearby"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "A protected biosphere reserve in Baja California, famous as a breeding ground for gray whales.",
+      "facts": ["Located in Baja California", "Gray whale breeding site", "UNESCO World Heritage site", "Protected coastal lagoons"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "A coastal reserve in Yucatan, famous for its large populations of American flamingos.",
+      "facts": ["Located in Yucatan", "Flamingo habitat", "Coastal lagoon system", "Diverse bird species"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "A community-managed reserve on the coast of Oaxaca, known for sea turtle conservation.",
+      "facts": ["Located in Oaxaca", "Sea turtle conservation", "Community-managed reserve", "Mangrove ecosystems"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "A biosphere reserve in Veracruz, characterized by volcanic landscapes and tropical rainforests.",
+      "facts": ["Located in Veracruz", "Volcanic landscapes", "Tropical rainforest", "Rich wildlife diversity"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "A highly diverse biosphere reserve in Queretaro, known for its dramatic mountain landscapes.",
+      "facts": ["Located in Queretaro", "Highly diverse ecosystems", "Dramatic mountain terrain", "Protected biodiversity"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "A tranquil island off the Yucatan coast, famous for whale shark sightings and pristine beaches.",
+      "facts": ["Yucatan island location", "Whale shark sightings", "Pristine beaches", "Tranquil atmosphere"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "A beautiful island near Cancun, known for its clear waters, coral reefs, and marine life.",
+      "facts": ["Near Cancun", "Clear tropical waters", "Coral reef systems", "Rich marine life"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "A famous island in Lake Patzcuaro, known for its traditions and scenic beauty.",
+      "facts": ["Lake Patzcuaro location", "Cultural traditions", "Scenic island beauty", "Michoacan state landmark"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "A protected island in the Sea of Cortez, famous for its stunning beaches and marine diversity.",
+      "facts": ["Sea of Cortez island", "Stunning beaches", "Rich marine life", "UNESCO World Heritage site"]
+    }
+  ]
+}

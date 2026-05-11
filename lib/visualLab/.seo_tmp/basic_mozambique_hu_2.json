@@ -1,0 +1,61 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "A part menti vizek gazdag tengeri élővilágot rejtenek, melyet a régió védelmi intézkedésekkel óv. A park lehetőséget nyújt a helyi fauna megfigyelésére.",
+      "facts": ["Part menti vizek", "Gazdag tengeri élővilág", "Védelmi intézkedések", "Fauna megfigyelése"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "Az UNESCO világörökség részét képező sziget a történelem és a modern oktatás találkozópontja. A gyermekek számára interaktív bemutatókon keresztül ismerteti meg a sziget múltját.",
+      "facts": ["UNESCO világörökség", "Történelmi sziget", "Oktatóközpont", "Interaktív bemutatók"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "A népszerű tengerparti üdülőhely sekély vizeivel és biztonságos környezetével ideális választás a gyerekeknek. A helyi oktatóprogramok a tengerbiológia alapjait tanítják.",
+      "facts": ["Népszerű tengerpart", "Sekély vizek", "Biztonságos környezet", "Tengerbiológiai oktatás"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "A parkban kialakított állatkert a mozambiki vadvilágot mutatja be a legfiatalabbak számára. A központ célja az ökológiai tudatosság fejlesztése.",
+      "facts": ["Vadvilági bemutató", "Oktatási központ", "Ökológiai tudatosság", "Gyermekbarát kialakítás"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "A múzeum gazdag gyűjteménye az ország természeti kincseit tárja a látogatók elé. Különleges interaktív kiállításokkal várja a gyerekeket.",
+      "facts": ["Természettudományi múzeum", "Gazdag gyűjtemény", "Interaktív kiállítások", "Országos kincsek"]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "A településen található közösségi szabadidőpark a játék és a mozgás örömét biztosítja a gyerekeknek. Zöld környezete ideális családi programokhoz.",
+      "facts": ["Szabadidőpark", "Játéklehetőségek", "Zöld környezet", "Családi programok"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "A városi part biztonságos környezetet biztosít a tengerparti játékhoz. A helyi gyermekprogramok a part menti élővilág védelmére fókuszálnak.",
+      "facts": ["Városi tengerpart", "Biztonságos játék", "Gyermekprogramok", "Környezetvédelem"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "A szafari-park a gyerekeknek tervezett oktatóprogramjával teszi felejthetetlenné a vadvilág megismerését. A megfigyelőhelyekről biztonságosan láthatók az állatok.",
+      "facts": ["Szafari élmény", "Oktatóprogram", "Állatmegfigyelés", "Biztonságos kialakítás"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "A folyó menti oktatóközpont a vizes élőhelyek jelentőségét mutatja be. A programok a folyó ökológiáját ismertetik meg a látogatókkal.",
+      "facts": ["Folyó menti központ", "Vizes élőhelyek", "Ökológiai oktatás", "Folyó élővilága"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "A közösségi park központi szerepet tölt be a helyi életben, a családok és gyerekek találkozóhelye. Számos sport- és rekreációs lehetőséget kínál.",
+      "facts": ["Közösségi park", "Találkozóhely", "Sportlehetőségek", "Rekreáció"]
+    }
+  ]
+}

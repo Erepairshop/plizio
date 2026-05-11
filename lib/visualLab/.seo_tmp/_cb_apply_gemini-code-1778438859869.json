@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tanbi-wetland-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Tanbi Wetland Complex ist ein riesiges Schutzgebiet südlich von Banjul, das seit 2001 als Ramsar-Feuchtgebiet von internationaler Bedeutung anerkannt ist. Geografisch umfasst es die Mündungszone des Gambia-Flusses und ist durch ein verzweigtes System von Ästuaren, Lagunen und Schlammflächen geprägt. Das dominante Ökosystem sind die Mangrovenwälder, die eine Fläche von etwa 6.000 Hektar einnehmen und als biologische Kläranlage für die Hauptstadt fungieren. Ökologisch bietet der Komplex einen kritischen Lebensraum für den westafrikanischen Manati, Sitatunga-Antilopen und hunderte von Vogelarten, darunter Pelikane und Reiher. Historisch gesehen ist Tanbi untrennbar mit der traditionellen Austernernte der Frauenkooperativen verbunden, die seit Generationen die Wurzeln der Roten Mangrove nutzen. Ökonomisch ist das Feuchtgebiet für die Ernährungssicherheit und den Küstenschutz der Greater Banjul Area von existenzieller Bedeutung, da es als natürlicher Puffer gegen Sturmfluten dient. Technisch gesehen ist das Management des Komplexes aufgrund der Nähe zu städtischen Gebieten herausfordernd, wobei der Schutz vor Abwasserbelastung und die nachhaltige Bewirtschaftung der Ressourcen im Vordergrund stehen. Der Tanbi-Komplex bleibt die grüne Lunge der gambischen Küstenregion.",
+        "hu": "A Tanbi vizes élőhely komplexum egy hatalmas védett terület Banjultól délre, amely 2001 óta nemzetközi jelentőségű Ramsari területként elismert. Földrajzilag a Gambia-folyó torkolati zónáját foglalja magában, torkolatok, lagúnák és iszapos területek elágazó rendszere jellemzi. A meghatározó ökoszisztéma a mintegy 6000 hektárt elfoglaló mangroveerdő, amely a főváros biológiai tisztítóműveként is funkcionál. Ökológiailag a komplexum kritikus élőhelyet biztosít az afrikai manátuszok, mocsári antilopok (sitatunga) és több száz madárfaj, köztük pelikánok és gémek számára. Történelmileg a Tanbi elválaszthatatlan a női szövetkezetek hagyományos osztrigagyűjtésétől, akik generációk óta használják a vörös mangrove gyökereit. Gazdaságilag a vizes élőhely létfontosságú a Nagy-Banjul terület élelmezésbiztonsága és partvédelme szempontjából, mivel természetes pufferzónaként szolgál a vihardagályok ellen. Technikai szempontból a komplexum kezelése a városi területek közelsége miatt kihívást jelent, a hangsúly a szennyvízterhelés elleni védelmen és az erőforrások fenntartható kezelésén van. A Tanbi-komplexum továbbra is a gambiai partvidék zöld tüdeje marad.",
+        "ro": "Complexul de zone umede Tanbi este o arie protejată vastă situată la sud de Banjul, recunoscută din 2001 ca sit Ramsar de importanță internațională. Geografic, acesta cuprinde zona estuarului fluviului Gambia și este caracterizat printr-un sistem ramificat de estuare, lagune și zone mlăștinoase. Ecosistemul dominant este reprezentat de pădurile de mangrove, care ocupă o suprafață de aproximativ 6.000 de hectare și funcționează ca o stație de epurare biologică pentru capitală. Ecologic, complexul oferă un habitat critic pentru lamantinul vest-african, antilopa sitatunga și sute de specii de păsări, inclusiv pelicani și stârci. Din punct de vedere istoric, Tanbi este inseparabil de recoltarea tradițională a stridiilor de către cooperativele de femei, care utilizează rădăcinile mangrovelor roșii de generații. Economic, zona umedă este de o importanță existențială pentru securitatea alimentară și protecția costieră a Zonei Metropolitane Banjul, servind ca un tampon natural împotriva furtunilor maritime. Din punct de vedere tehnic, gestionarea complexului este dificilă din cauza proximității zonelor urbane, punându-se accent pe protecția împotriva poluării și pe utilizarea sustenabilă a resurselor. Complexul Tanbi rămâne plămânul verde al regiunii de coastă din Gambia.",
+        "en": "The Tanbi Wetland Complex is a vast protected area located south of Banjul, recognized since 2001 as a Ramsar site of international importance. Geographically, it encompasses the Gambia River estuary zone and is characterized by a branching system of tidal creeks, lagoons, and mudflats. The dominant ecosystem is the mangrove forest, spanning approximately 6,000 hectares and functioning as a natural biological filter for the capital city. Ecologically, the complex provides critical habitat for the West African Manatee, Sitatunga antelope, and hundreds of bird species, including pelicans and herons. Historically, Tanbi is inextricably linked to the traditional oyster harvesting practiced by women's cooperatives, who have utilized the roots of the Red Mangrove for generations. Economically, the wetland is of existential importance for the food security and coastal protection of the Greater Banjul Area, serving as a natural buffer against storm surges. Technically, managing the complex is challenging due to its proximity to urban areas, with a primary focus on pollution control and sustainable resource management. The Tanbi complex remains the essential green lung of the Gambian coastal region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Umfasst über 6.000 Hektar geschützte Mangrovenwälder.",
+          "Anerkanntes Ramsar-Feuchtgebiet seit 2001.",
+          "Wichtigster Standort für die traditionelle Austerngewinnung durch Frauen.",
+          "Dient als natürlicher Küstenschutz gegen Sturmfluten für Banjul.",
+          "Beherbergt seltene Sitatunga-Antilopen und afrikanische Seekühe.",
+          "Wesentlicher Faktor für die biologische Wasserreinigung der Region."
+        ],
+        "hu": [
+          "Több mint 6000 hektár védett mangroveerdőt foglal magában.",
+          "2001 óta nemzetközi jelentőségű Ramsari vizes élőhely.",
+          "A női osztrigagyűjtő szövetkezetek legfőbb munkaterülete.",
+          "Természetes gátként védi Banjul városát a tengeri áradásoktól.",
+          "Ritka mocsári antilopok és afrikai manátuszok élnek itt.",
+          "Kulcsszerepet játszik a térség vizének biológiai tisztításában."
+        ],
+        "ro": [
+          "Include peste 6.000 de hectare de păduri de mangrove protejate.",
+          "Situl este recunoscut oficial prin Convenția Ramsar din 2001.",
+          "Centru principal pentru recoltarea artizanală a stridiilor.",
+          "Barieră naturală împotriva eroziunii și inundațiilor pentru capitală.",
+          "Adăpostește populații de antilope sitatunga și lamantini africani.",
+          "Element esențial în filtrarea biologică a apelor reziduale urbane."
+        ],
+        "en": [
+          "Encompasses over 6,000 hectares of protected mangrove ecosystems.",
+          "Designated as a Ramsar Wetland of International Importance in 2001.",
+          "The primary site for traditional oyster harvesting by local women.",
+          "Acts as a critical natural buffer protecting Banjul from storm surges.",
+          "Provides sanctuary for rare Sitatunga antelopes and manatees.",
+          "Crucial for the biological filtration of the region's water system."
+        ]
+      }
+    },
+    {
+      "id": "gunjur-beach-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Gunjur Beach liegt an der Südküste Gambias in der Kombo South Region und ist einer der längsten und ökologisch bedeutendsten Strände des Landes. Geografisch zeichnet sich der Küstenabschnitt durch weite, unberührte Sandflächen und eine sanfte Dünenvegetation aus, die in dichte Küstenwälder übergeht. Ökologisch ist Gunjur Beach von weltweiter Bedeutung als einer der wichtigsten Nistplätze für die Grüne Meeresschildkröte (Chelonia mydas) in Westafrika. Historisch ist der Ort eng mit dem spirituellen Erbe Gambias verbunden, da sich am Rande des Strandes bedeutende heilige Stätten der Mandinka befinden. Ökonomisch ist der Strand das Zentrum einer hochproduktiven handwerklichen Fischereiindustrie; täglich landen hier hunderte farbenfrohe Pirogen an, deren Fang direkt am Ufer verarbeitet oder geräuchert wird. Technisch wird die Küstenzone zunehmend durch den Klimawandel und den Anstieg des Meeresspiegels bedroht, was lokale Naturschutzinitiativen zur verstärkten Überwachung der Nistplätze zwingt. Die Verbindung von industrieller Fischerei, spiritueller Bedeutung und hochsensiblem Artenschutz macht Gunjur zu einem komplexen sozio-ökologischen Raum. Besucher finden hier eine seltene Balance zwischen wirtschaftlicher Aktivität und unberührter Natur fernab des Massentourismus.",
+        "hu": "A Gunjur Beach Gambia déli partján, a Kombo South régióban található, és az ország egyik leghosszabb és ökológiailag legjelentősebb strandja. Földrajzilag a tengerparti szakaszt széles, érintetlen homokos területek és szelíd dűnevegetáció jellemzi, amely sűrű parti erdőkbe megy át. Ökológiailag a Gunjur Beach világszerte jelentős, mint a közönséges levesteknős (Chelonia mydas) egyik legfontosabb nyugat-afrikai fészkelőhelye. Történelmileg a hely szorosan kapcsolódik Gambia spirituális örökségéhez, mivel a strand szélén a mandinka nép fontos szent helyei találhatóak. Gazdaságilag a strand egy rendkívül produktív kézműves halászati ipar központja; naponta többszáz színes pirogue köt ki itt, amelyek zsákmányát közvetlenül a parton dolgozzák fel vagy füstölik. Technikai szempontból a parti zónát egyre inkább fenyegeti az éghajlatváltozás és a tengerszint emelkedése, ami a helyi természetvédelmi kezdeményezéseket a fészkelőhelyek fokozott ellenőrzésére kényszeríti. Az ipari halászat, a spirituális jelentőség és a rendkívül érzékeny fajvédelem kombinációja Gunjurt összetett társadalmi-ökológiai térré teszi. A látogatók itt a gazdasági tevékenység és az érintetlen természet ritka egyensúlyát találják, távol a tömegturizmustól.",
+        "ro": "Plaja Gunjur este situată pe coasta de sud a Gambiei, în regiunea Kombo South, fiind una dintre cele mai lungi și mai importante plaje din punct de vedere ecologic din țară. Geografic, acest segment de coastă se caracterizează prin suprafețe vaste de nisip virgin și o vegetație de dune care face tranziția spre păduri costiere dense. Ecologic, Plaja Gunjur are o importanță globală, fiind unul dintre cele mai relevante locuri de cuibărit pentru țestoasa verde (Chelonia mydas) din Africa de Vest. Istoric, locația este strâns legată de moștenirea spirituală a Gambiei, adăpostind situri sacre ale etniei Mandinka chiar la marginea mării. Economic, plaja este nucleul unei industrii de pescuit artizanal extrem de productive; zilnic, sute de pirogi colorate acostează aici, captura fiind procesată sau afumată direct pe mal. Din punct de vedere tehnic, zona costieră este tot mai amenințată de schimbările climatice și creșterea nivelului mării, ceea ce obligă inițiativele locale de conservare să monitorizeze intens cuiburile de țestoase. Mixul între activitatea de pescuit, semnificația spirituală și protecția speciilor vulnerabile transformă Gunjur într-un spațiu socio-ecologic complex. Vizitatorii găsesc aici un echilibru rar între subzistența economică și natura nealterată, departe de circuitele turismului de masă.",
+        "en": "Gunjur Beach is located on the southern coast of The Gambia in the Kombo South region and is one of the longest and most ecologically significant beaches in the country. Geographically, this stretch of coastline features vast, pristine sandy areas and gentle dune vegetation that transitions into dense coastal forests. Ecologically, Gunjur Beach is of global importance as one of West Africa's key nesting sites for the Green Sea Turtle (Chelonia mydas). Historically, the site is deeply connected to The Gambia's spiritual heritage, with significant Mandinka sacred sites located along the forest edge by the shore. Economically, the beach is the center of a highly productive artisanal fishing industry; daily, hundreds of colorful pirogues land here, with their catch being processed or smoked directly on the beach. Technically, the coastal zone is increasingly threatened by climate change and rising sea levels, forcing local conservation initiatives to intensify monitoring of nesting grounds. The combination of industrial-scale artisanal fishing, spiritual significance, and highly sensitive species protection makes Gunjur a complex socio-ecological environment. Visitors find a rare balance here between economic activity and untouched nature, far from the pressures of mass tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentraler Nistplatz für die vom Aussterben bedrohte Grüne Meeresschildkröte.",
+          "Beherbergt bedeutende heilige Stätten (Marabouts) am Waldrand.",
+          "Einer der größten Standorte für die handwerkliche Pirogen-Fischerei.",
+          "Verfügt über ausgedehnte traditionelle Fischräuchereien.",
+          "Wichtiger Standort für lokale Umweltschutzorganisationen.",
+          "Längster unverbauter Sandstrand in der Kombo South Region."
+        ],
+        "hu": [
+          "A veszélyeztetett közönséges levesteknősök központi fészkelőhelye.",
+          "Fontos szent helyek és marabout-sírhelyek találhatóak az erdőszélen.",
+          "Gambia egyik legnagyobb kézműves pirogue-kikötője.",
+          "Kiterjedt hagyományos halfüstölő létesítményekkel rendelkezik.",
+          "A helyi környezetvédelmi szervezetek (NGO-k) bázisa.",
+          "A Kombo South régió leghosszabb beépítetlen homokos partja."
+        ],
+        "ro": [
+          "Loc principal de cuibărit pentru țestoasele verzi în Africa de Vest.",
+          "Găzduiește situri spirituale și morminte sacre ale marabuților locali.",
+          "Centru major pentru flota de pescuit artizanal cu pirogi.",
+          "Dispune de infrastructură tradițională extinsă pentru afumarea peștelui.",
+          "Punct focal pentru organizațiile locale de conservare a mediului.",
+          "Cea mai lungă plajă cu dune neafectată de dezvoltări imobiliare."
+        ],
+        "en": [
+          "A primary nesting site for the endangered Green Sea Turtle.",
+          "Home to important sacred sites and marabout shrines near the shore.",
+          "One of the largest hubs for artisanal pirogue fishing in the country.",
+          "Features extensive traditional fish-smoking and processing areas.",
+          "Base for numerous community-led environmental protection groups.",
+          "The longest undeveloped stretch of sandy beach in Kombo South."
+        ]
+      }
+    },
+    {
+      "id": "elephant-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Elephant Island ist eine der markantesten Inseln im Gambia-Fluss, gelegen im Central River District zwischen den Siedlungen Janjanbureh und Kuntaur. Geografisch ist die Insel durch ihre Größe und ihre Lage in einer weiten Biegung des Flusses geprägt, wobei sie von dichten Mangrovensümpfen und Galeriewäldern umschlossen wird. Ökologisch stellt die Insel ein wichtiges Rückzugsgebiet für die verbliebene Megafauna Gambias dar; in den flachen Gewässern rund um die Insel sind regelmäßig Flusspferde (Hippopotamus amphibius) und Nilkrokodile zu beobachten. Der Name der Insel leitet sich aus der Kolonialzeit ab, als hier tatsächlich noch Elefantenherden die Uferregionen durchstreiften, bevor sie durch Bejagung ausgerottet wurden. Historisch diente die Insel frühen europäischen Entdeckern als Orientierungspunkt auf ihrem Weg ins Hinterland. Ökonomisch ist Elephant Island heute vor allem für den spezialisierten Flusstourismus von Bedeutung, da sie Teil der Routen für mehrtägige Bootssafaris ist. Technisch ist das Innere der Insel aufgrund der dichten Vegetation und der sumpfigen Bodenbeschaffenheit für Menschen nahezu unzugänglich, was ihre Rolle als natürliches Refugium stärkt. Die Erhaltung dieser unberührten Flussinsel ist entscheidend für den Schutz der aquatischen Biodiversität im mittleren Flusslauf.",
+        "hu": "Az Elephant Island (Elefánt-sziget) a Gambia-folyó egyik legjellegzetesebb szigete a Central River körzetben, Janjanbureh és Kuntaur települések között. Földrajzilag a szigetet mérete és a folyó széles kanyarulatában elfoglalt helyzete jellemzi, sűrű mangrove-mocsarak és galériaerdők veszik körül. Ökológiailag a sziget fontos menedékhely Gambia megmaradt megafaunája számára; a sziget körüli sekély vizekben rendszeresen láthatóak vízilovak (Hippopotamus amphibius) és nílusi krokodilok. A sziget neve a gyarmati időkből származik, amikor még valóban elefántcsordák járták a part menti régiókat, mielőtt a vadászat következtében kipusztultak volna. Történelmileg a sziget a korai európai felfedezők számára szolgált tájékozódási pontként a szárazföld belseje felé vezető úton. Gazdaságilag az Elephant Island ma elsősorban a speciális folyami turizmus számára jelentős, mivel része a többnapos hajós szafarik útvonalának. Technikai szempontból a sziget belseje a sűrű vegetáció és a mocsaras talajviszonyok miatt az emberek számára szinte megközelíthetetlen, ami erősíti természetes menedékhely szerepét. Ennek az érintetlen folyami szigetnek a megőrzése döntő fontosságú a középső folyószakasz vízi biodiverzitásának védelme szempontjából.",
+        "ro": "Elephant Island este una dintre cele mai emblematice insule de pe râul Gambia, situată în districtul Central River, între localitățile Janjanbureh și Kuntaur. Din punct de vedere geografic, insula se remarcă prin dimensiunile sale și prin poziția într-o buclă largă a fluviului, fiind înconjurată de mlaștini dense de mangrove și păduri de galerie. Ecologic, insula reprezintă un refugiu vital pentru megafauna rămasă în Gambia; în apele puțin adânci din jurul insulei pot fi observați regulat hipopotami (Hippopotamus amphibius) și crocodili de Nil. Numele insulei provine din perioada colonială, când turme de elefanți încă mai cutreierau regiunile de mal înainte de a fi exterminate prin vânătoare. Istoric, insula a servit exploratorilor europeni timpurii ca punct de reper în drumul lor spre interiorul continentului. Economic, Elephant Island este astăzi relevantă în principal pentru turismul fluvial specializat, fiind inclusă în rutele de safari cu barca de mai multe zile. Din punct de vedere tehnic, interiorul insulei este aproape inaccesibil omului din cauza vegetației dense și a solului mlăștinos, ceea ce îi consolidează rolul de sanctuar natural. Conservarea acestei insule fluviale virgine este crucială pentru protejarea biodiversității acvatice în cursul mijlociu al râului.",
+        "en": "Elephant Island is one of the most distinctive islands in the Gambia River, situated in the Central River District between the settlements of Janjanbureh and Kuntaur. Geographically, the island is defined by its substantial size and its location within a broad bend of the river, encased by dense mangrove swamps and gallery forests. Ecologically, the island serves as a vital sanctuary for The Gambia's remaining megafauna; hippopotamuses (Hippopotamus amphibius) and Nile crocodiles are frequently observed in the shallow waters surrounding its shores. The island's name originates from the colonial era, when herds of elephants still roamed the riverbanks before being driven to extinction by hunting. Historically, the island served early European explorers as a landmark on their journeys into the African interior. Economically, Elephant Island is now significant primarily for specialized river tourism, being a key stop on multi-day boat safari itineraries. Technically, the island's interior is virtually inaccessible to humans due to the impenetrable vegetation and marshy terrain, which enhances its role as a natural refuge. Preserving this pristine river island is essential for the protection of aquatic biodiversity in the river's middle reaches."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einstiger Lebensraum für Elefantenherden bis ins 19. Jahrhundert.",
+          "Wichtiger Beobachtungspunkt für Flusspferde im mittleren Flusslauf.",
+          "Umschlossen von den dichtesten Mangrovenwäldern der Region.",
+          "Liegt an einer strategischen Flussbiegung zwischen Janjanbureh und Kuntaur.",
+          "Infrastrukturell unerschlossen und nur per Boot erreichbar.",
+          "Teil des ökologischen Korridors für wandernde aquatische Arten."
+        ],
+        "hu": [
+          "A 19. századig elefántcsordák természetes élőhelye volt.",
+          "A középső folyószakasz egyik legjobb víziló-megfigyelő helye.",
+          "A régió legsűrűbb mangroveerdői veszik körül.",
+          "Stratégiai kanyarulatban fekszik Janjanbureh és Kuntaur között.",
+          "Lakatlan és infrastruktúra nélküli, csak hajóval megközelíthető.",
+          "Fontos ökológiai folyosó a vándorló vízi fajok számára."
+        ],
+        "ro": [
+          "Habitat istoric al elefanților africani până la sfârșitul secolului XIX.",
+          "Punct de observație major pentru hipopotami în cursul mijlociu.",
+          "Înconjurată de păduri de mangrove primare, neatinse de om.",
+          "Situată strategic într-o buclă largă a fluviului Gambia.",
+          "Complet lipsită de infrastructură, protejată prin izolare.",
+          "Sanctuar natural esențial pentru biodiversitatea riverană."
+        ],
+        "en": [
+          "Formerly a habitat for elephant herds until the late 19th century.",
+          "A premier location for spotting hippos in the middle river section.",
+          "Encircled by some of the densest mangrove forests in the district.",
+          "Located in a major river bend between Janjanbureh and Kuntaur.",
+          "Entirely undeveloped and accessible only by watercraft.",
+          "Acts as a critical natural refuge for various aquatic and avian species."
+        ]
+      }
+    },
+    {
+      "id": "red-rock-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Red Rock ist der informelle Name für den höchsten geografischen Punkt Gambias, der sich im äußersten Osten des Landes in der Upper River Region nahe der Grenze zum Senegal befindet. Geografisch handelt es sich nicht um einen Berg im herkömmlichen Sinne, sondern um eine sanfte Erhebung auf etwa 53 Metern über dem Meeresspiegel. Die Formation besteht aus lateritischem Gestein, das durch seinen hohen Eisengehalt eine charakteristische rote Farbe aufweist. Ökologisch ist das Gebiet durch Trockensavanne und vereinzelte Akazien geprägt, die an die kargen Bodenverhältnisse angepasst sind. Historisch markiert dieser Punkt die Wasserscheide zwischen dem Gambia-Becken und den angrenzenden Plateaus des Senegal. Ökonomisch ist die Region von der extensiven Viehwirtschaft und dem Abbau von Laterit als Baumaterial für den Straßenbau geprägt. Technisch gesehen ist die genaue Identifizierung des Gipfels aufgrund der flachen Topografie schwierig und erfordert präzise GPS-Messungen. Der Ort bietet einen weiten Panoramablick über das Hinterland der Upper River Region und verdeutlicht die reliefarme, aber geologisch interessante Struktur des gambischen Territoriums, das fast vollständig in ein Sedimentbecken eingebettet ist.",
+        "hu": "Red Rock a nem hivatalos neve Gambia legmagasabb földrajzi pontjának, amely az ország távoli keleti részén, az Upper River régióban, a szenegáli határ közelében található. Földrajzilag ez nem egy hagyományos értelemben vett hegy, hanem egy szelíd kiemelkedés, amely körülbelül 53 méterrel magasodik a tengerszint fölé. A formáció laterit kőzetből áll, amely magas vastartalma miatt jellegzetes vörös színű. Ökológiailag a területet száraz szavanna és elszórt akáciafák jellemzik, amelyek alkalmazkodtak a szegényes talajviszonyokhoz. Történelmileg ez a pont jelzi a vízválasztót a Gambia-medence és Szenegál szomszédos fennsíkjai között. Gazdaságilag a régiót az extenzív állattenyésztés és a laterit útépítési alapanyagként történő kitermelése jellemzi. Technikai szempontból a csúcs pontos azonosítása a lapos domborzat miatt nehéz, és precíz GPS-méréseket igényel. A helyszín széles panorámát kínál az Upper River régió hátországára, és jól szemlélteti Gambia domborzatban szegény, de geológiailag érdekes szerkezetét, amely szinte teljesen egy üledékes medencébe ágyazódik.",
+        "ro": "Red Rock este denumirea informală pentru cel mai înalt punct geografic din Gambia, situat în extremitatea estică a țării, în regiunea Upper River, aproape de granița cu Senegal. Din punct de vedere geografic, nu este un munte în sensul convențional, ci o eminență domoală situată la aproximativ 53 de metri deasupra nivelului mării. Formațiunea constă din rocă lateritică, care prezintă o culoare roșie caracteristică datorită conținutului ridicat de fier. Ecologic, zona este marcată de savană uscată și rari arbori de acacia, adaptați la condițiile de sol sărăcăcios. Istoric, acest punct marchează cumpăna apelor între bazinul râului Gambia și platourile adiacente din Senegal. Economic, regiunea este definită de creșterea extensivă a animalelor și de extracția lateritului ca material de construcție pentru drumuri. Din punct de vedere tehnic, identificarea exactă a vârfului este dificilă din cauza topografiei plate, necesitând măsurători GPS precise. Locul oferă o vedere panoramică vastă asupra hinterlandului regiunii Upper River și ilustrează structura cu relief redus, dar interesantă geologic, a teritoriului gambian, care este aproape în întregime integrat într-un bazin sedimentar.",
+        "en": "Red Rock is the informal name for the highest geographic point in The Gambia, located in the far east of the country within the Upper River Region, near the border with Senegal. Geographically, it is not a mountain in the traditional sense, but rather a gentle elevation rising approximately 53 meters above sea level. The formation is composed of lateritic rock, which exhibits a characteristic red hue due to its high iron content. Ecologically, the area is defined by dry savannah and scattered acacia trees adapted to the nutrient-poor soil conditions. Historically, this point marks the watershed between the Gambia River basin and the neighboring plateaus of Senegal. Economically, the region is characterized by extensive livestock farming and the quarrying of laterite as a primary material for road construction. Technically, identifying the exact summit is challenging due to the flat surrounding topography, requiring precise GPS measurements. The site offers expansive panoramic views over the Upper River Region's interior and highlights the low-relief but geologically significant structure of Gambian territory, which is almost entirely embedded within a sedimentary basin."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchste Erhebung Gambias mit ca. 53 Metern über dem Meeresspiegel.",
+          "Geologisch bestehend aus eisenreichem Laterit-Gestein.",
+          "Befindet sich in der abgelegenen Upper River Region nahe Koina.",
+          "Markiert die natürliche Wasserscheide zum senegalesischen Plateau.",
+          "Wichtiger Standort für den Abbau von Straßenbaumaterial.",
+          "Bietet einen der wenigen weiten Panoramablicke des Landes."
+        ],
+        "hu": [
+          "Gambia legmagasabb pontja, kb. 53 méteres tengerszint feletti magassággal.",
+          "Geológiai összetétele vasban gazdag laterit kőzet.",
+          "A távoli Upper River körzetben, Koina falu közelében található.",
+          "Természetes vízválasztót alkot a szomszédos szenegáli fennsíkok felé.",
+          "A helyi útépítésekhez használt kőzet fontos lelőhelye.",
+          "Az ország kevés panorámás kilátópontjának egyike."
+        ],
+        "ro": [
+          "Cea mai înaltă cotă din Gambia, la doar 53 de metri altitudine.",
+          "Compoziție geologică dominată de cruste lateritice feroase.",
+          "Situat în regiunea Upper River, în proximitatea localității Koina.",
+          "Punct strategic de frontieră și cumpănă de ape regională.",
+          "Sursă principală de agregat pentru construcția autostrăzilor naționale.",
+          "Oferă o perspectivă rară asupra peisajului de savană estic."
+        ],
+        "en": [
+          "The highest point in The Gambia, peaking at roughly 53 meters.",
+          "Composed of iron-rich laterite rock giving it a distinct red color.",
+          "Located in the remote Upper River Region near the town of Koina.",
+          "Serves as a natural watershed boundary with the Senegalese highlands.",
+          "A key site for the extraction of laterite used in national road projects.",
+          "One of the few locations offering a broad panoramic view of the interior."
+        ]
+      }
+    },
+    {
+      "id": "fajara-cliffs-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Fajara Cliffs sind eine markante geologische Formation an der Atlantikküste von Bakau. Diese Steilküste besteht aus geschichtetem Laterit und Sandstein, der über Jahrtausende durch die Meeresbrandung geformt wurde. Geografisch bilden die Klippen eine natürliche Grenze zwischen dem gehobenen Wohnviertel Fajara und dem Ozean. Ökologisch sind die Klippen von Bedeutung, da die Felsvorsprünge und kleinen Höhlen Nistplätze für Seevögel und Lebensraum für spezialisierte Küstenflora bieten. Historisch waren die Klippen ein strategischer Aussichtspunkt während der Kolonialzeit und dienten der Überwachung der Küstengewässer. Ökonomisch ist das Gebiet heute ein wertvoller Standort für den Tourismus und exklusive Immobilien, steht jedoch vor massiven technischen Herausforderungen: Die Küstenerosion nagt kontinuierlich an den Klippen, was zum Verlust von Land und Infrastruktur führt. Um diesen Prozess zu verlangsamen, wurden an der Basis der Klippen Wellenbrecher und Steinschüttungen installiert. Die Fajara Cliffs sind zudem ein beliebter Ort für Spaziergänger und bieten spektakuläre Ausblicke auf den Sonnenuntergang über dem Atlantik. Die geologische Struktur der Klippen gewährt Einblicke in die Formationsgeschichte des westafrikanischen Küstensaums und die Dynamik der Sedimentation in dieser Region.",
+        "hu": "A Fajara Cliffs egy jellegzetes geológiai képződmény Bakau atlanti-óceáni partján. Ez a meredek partfal rétegzett lateritből és homokkőből áll, amelyet az évezredek során az óceán hullámzása formált. Földrajzilag a sziklák természetes határt képeznek Fajara elegáns lakónegyede és az óceán között. Ökológiailag a sziklák jelentősek, mivel a párkányok és kis barlangok fészkelőhelyet biztosítanak a tengeri madaraknak, és életteret kínálnak a speciális parti flórának. Történelmileg a sziklák stratégiai megfigyelőpontként szolgáltak a gyarmati időkben a parti vizek ellenőrzésére. Gazdaságilag a terület ma értékes turisztikai és ingatlanpiaci helyszín, azonban komoly technikai kihívásokkal néz szembe: a parti erózió folyamatosan pusztítja a sziklákat, ami földterületek és infrastruktúra elvesztéséhez vezet. E folyamat lassítására a sziklák lábánál hullámtörőket és kőszórásokat alakítottak ki. A Fajara Cliffs emellett a sétálók kedvelt helye, és látványos kilátást nyújt az Atlanti-óceán feletti naplementére. A sziklák geológiai szerkezete betekintést enged a nyugat-afrikai partvonal kialakulásának történetébe és a régió üledékképződési dinamikájába.",
+        "ro": "Fajara Cliffs reprezintă o formațiune geologică distinctivă pe coasta atlantică a orașului Bakau. Această faleză abruptă este compusă din straturi de laterit și gresie, modelate de-a lungul mileniilor de acțiunea valurilor. Geografic, stâncile formează o barieră naturală între cartierul rezidențial exclusivist Fajara și ocean. Ecologic, faleza este importantă deoarece pragurile și micile cavități oferă locuri de cuibărit pentru păsările marine și habitat pentru o floră costieră specializată. Istoric, stâncile au servit ca punct strategic de observație în perioada colonială pentru monitorizarea apelor teritoriale. Economic, zona este astăzi un amplasament valoros pentru turism și imobiliare de lux, dar se confruntă cu provocări tehnice majore: eroziunea costieră macină continuu faleza, ducând la pierderea terenurilor și a infrastructurii. Pentru a încetini acest proces, la baza falezei au fost instalate diguri de spargere a valurilor și anrocamente. Fajara Cliffs este, de asemenea, un loc popular pentru promenadă, oferind vederi spectaculoase asupra apusului de soare. Structura geologică a falezei oferă indicii prețioase despre istoria formării litoralului vest-african și dinamica sedimentării în această regiune.",
+        "en": "The Fajara Cliffs are a striking geological formation on the Atlantic coast of Bakau. This escarpment is composed of stratified laterite and sandstone, sculpted over millennia by wave action. Geographically, the cliffs form a natural boundary between the upscale residential district of Fajara and the ocean. Ecologically, the cliffs are significant as the rocky ledges and small crevices provide nesting sites for seabirds and habitat for specialized coastal flora. Historically, the cliffs served as a strategic vantage point during the colonial era for monitoring coastal waters. Economically, the area is now a high-value location for tourism and exclusive real estate, yet it faces massive technical challenges: coastal erosion continuously undermines the cliffs, leading to the loss of land and infrastructure. To mitigate this process, groynes and rock armoring have been installed at the base of the cliffs. The Fajara Cliffs are also a popular destination for walkers, offering spectacular sunset views over the Atlantic. The geological structure of the cliffs provides insight into the formation history of the West African coastline and the sedimentation dynamics within this region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Markante Steilküste aus rotem Laterit und Sandstein.",
+          "Wichtigster Ort zur Untersuchung der Küstenerosion in Gambia.",
+          "Beherbergt spezialisierte Küstenvögel in den Felsspalten.",
+          "Gelegen vor einem der exklusivsten Wohnviertel des Landes.",
+          "Bietet den besten Panoramablick auf den Atlantik in der Region Bakau.",
+          "Durch aufwendige technische Küstenschutzmaßnahmen gesichert."
+        ],
+        "hu": [
+          "Vörös lateritből és homokkőből álló látványos meredek partfal.",
+          "Gambia legfontosabb helyszíne a parti erózió tanulmányozására.",
+          "Sziklák közötti repedésekben fészkelő tengeri madarak otthona.",
+          "Az ország egyik legelőkelőbb lakónegyede felett húzódik.",
+          "A legjobb atlanti panorámát kínálja Bakau környékén.",
+          "Komplex mérnöki védművekkel próbálják lassítani a pusztulását."
+        ],
+        "ro": [
+          "Faleză abruptă compusă din depozite sedimentare de laterit roșu.",
+          "Punct critic pentru monitorizarea eroziunii marine în Gambia.",
+          "Habitat pentru păsări marine care cuibăresc în pereții verticali.",
+          "Delimitează cartierul diplomatic și rezidențial Fajara.",
+          "Oferă cele mai bune unghiuri de observație pentru apusul pe ocean.",
+          "Protejată prin structuri de stabilizare a malului din anrocamente."
+        ],
+        "en": [
+          "A prominent coastal escarpment of red laterite and sandstone layers.",
+          "A primary site for studying coastal erosion and retreat in The Gambia.",
+          "Provides nesting crevices for various species of coastal birds.",
+          "Bordering one of the most exclusive residential areas in the nation.",
+          "Offers premier panoramic views of the Atlantic in the Bakau area.",
+          "Subject to ongoing coastal engineering projects to prevent land loss."
+        ]
+      }
+    }
+  ]
+}

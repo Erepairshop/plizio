@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGeorgiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sighnaghi-city-wall-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Stadtmauer von Sighnaghi ist eine der größten und am besten erhaltenen historischen Verteidigungsanlagen in Georgien. Geografisch umschließt sie den Kamm eines Hügels im Alasani-Tal in der Region Kachetien. Historisch wurde die Mauer im 18. Jahrhundert unter der Herrschaft von König Erekle II. errichtet, um die Bevölkerung vor Einfällen lezgischer Stämme und persischer Truppen zu schützen. Die Anlage erstreckt sich über eine Länge von etwa vier Kilometern und folgt präzise dem topografischen Relief der Landschaft. Technisch beeindruckt die Mauer durch ihre 23 Wehrtürme, die jeweils nach den umliegenden Dörfern benannt wurden, deren Bewohner im Falle eines Angriffs in den jeweiligen Türmen Zuflucht fanden. Die Türme sind meist zweistöckig und mit Schießscharten für Gewehre und Kanonen ausgestattet. Ökonomisch ist die Stadtmauer heute das zentrale Wahrzeichen von Sighnaghi, das als 'Stadt der Liebe' vermarktet wird und eine tragende Säule des Tourismus in Ostgeorgien darstellt. Besucher können Teile der Mauer begehen, was einen ungehinderten Blick auf das Kaukasusgebirge und die weiten Weinreben des Tals ermöglicht. Die Mauer ist ein herausragendes Beispiel für die spätfeudale Militärarchitektur Georgiens und zeugt von der strategischen Bedeutung der Region als Grenzfestung gegen den Nordkaukasus.",
+        "hu": "Sighnaghi városfala Grúzia egyik legnagyobb és legjobb állapotban fennmaradt történelmi erődrendszere, amely Kaheti régióban, az Alazani-völgy feletti dombgerincen húzódik. Történelmileg a falat a 18. században emelték II. Erekle király uralkodása alatt, azzal a céllal, hogy védelmet nyújtson a lakosságnak a dagesztáni lezg törökök és a perzsa csapatok betörései ellen. Az erődítmény hossza körülbelül négy kilométer, és szinte teljesen körbezárja az óvárost, követve a táj természetes domborzati vonalait. Technikai szempontból a fal különlegessége a 23 bástya, amelyeket a környékbeli falvakról neveztek el: támadás esetén az adott falu lakói a róluk elnevezett toronyban találtak menedéket és onnan védték a várost. A bástyák többsége kétszintes, lőrésekkel és ágyúállásokkal felszerelt. Gazdaságilag a városfal ma Sighnaghi fő turisztikai vonzereje, amely alapvető fontosságú a térség idegenforgalmában. A látogatók a fal bizonyos szakaszain végigsétálhatnak, ahonnan páratlan kilátás nyílik a Kaukázus vonulataira és a völgy végtelen szőlőültetvényeire. Az építmény a késő feudális grúz katonai építészet remekműve, amely hűen tükrözi a régió egykori stratégiai szerepét.",
+        "ro": "Zidul cetății Sighnaghi este una dintre cele mai vaste și mai bine conservate structuri defensive istorice din Georgia, situată pe o creastă ce domină valea Alazani în regiunea Kakheti. Din punct de vedere istoric, fortificația a fost ridicată în secolul al XVIII-lea, în timpul domniei regelui Erekle al II-lea, pentru a proteja populația locală de incursiunile triburilor lezghine și de atacurile persane. Zidul se întinde pe o lungime de aproximativ patru kilometri, urmând cu precizie conturul accidentat al terenului. Tehnic, ansamblul impresionează prin cele 23 de turnuri de apărare, fiecare purtând numele unui sat din împrejurimi; în caz de asediu, locuitorii satului respectiv aveau datoria și dreptul de a se refugia și de a apăra turnul corespunzător. Turnurile sunt construite pe două niveluri, fiind dotate cu metereze pentru arme de foc și platforme pentru artilerie ușoară. Economic, zidul este astăzi principalul punct de atracție al orașului Sighnaghi, supranumit „orașul iubirii”, susținând industria turistică a întregii Georgii de Est. Accesul pietonal pe anumite segmente ale zidului oferă turiștilor o panoramă spectaculoasă asupra munților Caucazul Mare și a podgoriilor din vale. Monumentul este un exemplu de vârf al arhitecturii militare feudale târzii, simbolizând reziliența comunităților rurale georgiene.",
+        "en": "The Sighnaghi City Wall is one of the largest and best-preserved historical defensive structures in Georgia, positioned along a prominent ridge overlooking the Alazani Valley in the Kakheti region. Historically, the wall was commissioned in the 18th century by King Erekle II to serve as a primary refuge for the local population against Lezgian raids and Persian incursions. The fortifications stretch for approximately four kilometers, meticulously following the natural contours of the landscape. Technically, the wall features 23 defensive towers, each named after a surrounding village; according to tradition, the residents of each village were responsible for defending their namesake tower during times of conflict. These towers are predominantly two-storied, equipped with embrasures for muskets and light cannons. Economically, the wall is the centerpiece of Sighnaghi's brand as the 'City of Love,' acting as a vital driver for international and domestic tourism in Eastern Georgia. Visitors can walk along sections of the ramparts, enjoying unobstructed views of the Greater Caucasus Mountains and the vast vineyards below. The wall stands as a premier example of late feudal Georgian military engineering and reflects the strategic importance of the Alazani region as a frontier bastion."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gesamtlänge von ca. 4 Kilometern mit 23 Wehrtürmen.",
+          "Erbaut im 18. Jahrhundert unter König Erekle II.",
+          "Die Türme dienten als dezentrale Schutzräume für umliegende Dörfer.",
+          "Umschließt fast die gesamte historische Altstadt von Sighnaghi.",
+          "Bietet den berühmtesten Panoramablick auf das Alasani-Tal.",
+          "Konstruiert aus lokalem Bruchstein und Kalkmörtel."
+        ],
+        "hu": [
+          "Körülbelül 4 kilométer hosszú, 23 bástyával megerősített fal.",
+          "II. Erekle király építtette a 18. század közepén.",
+          "Minden bástya egy-egy környező faluról kapta a nevét.",
+          "Grúzia egyik legnagyobb épen maradt városfala.",
+          "A falról belátható az egész Alazani-völgy és a Kaukázus.",
+          "A bástyák eredetileg védelmi és raktározási célokat is szolgáltak."
+        ],
+        "ro": [
+          "Lungime totală de circa 4 km, fiind printre cele mai mari din Caucaz.",
+          "Construit în secolul XVIII ca parte a sistemului defensiv al lui Erekle II.",
+          "Dispune de 23 de turnuri, fiecare asociat unei comunități rurale specifice.",
+          "Arhitectură militară bazată pe piatră de râu și cărămidă tradițională.",
+          "Punctul de belvedere cel mai faimos asupra regiunii viticole Kakheti.",
+          "Permite accesul turiștilor pe parapetul superior pentru promenadă."
+        ],
+        "en": [
+          "Stretches for approximately 4 kilometers with 23 defensive towers.",
+          "Commissioned in the 18th century by King Erekle II.",
+          "Each tower was historically designated to a specific neighboring village.",
+          "One of the largest surviving fortified city walls in the Caucasus.",
+          "Provides a premier vantage point over the Alazani Valley vineyards.",
+          "The masonry consists of local stone and traditional Georgian bricks."
+        ]
+      }
+    },
+    {
+      "id": "makhuntseti-waterfall-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Makhuntseti-Wasserfall ist eines der bekanntesten Naturdenkmäler in der Autonomen Republik Adscharien, etwa 30 Kilometer östlich der Küstenstadt Batumi. Geografisch liegt der Wasserfall im Tal des Adjaristsqali-Flusses, wo das Wasser aus einer Höhe von etwa 50 Metern über eine steile Basaltklippe in ein natürliches Steinbecken stürzt. Historisch ist der Ort eng mit der Ära der Königin Tamar im 12. Jahrhundert verknüpft, was durch die unmittelbar benachbarte Makhuntseti-Bogenbrücke aus derselben Epoche unterstrichen wird. Ökologisch ist das Gebiet durch die feuchten Subtropen des Kleinen Kaukasus geprägt, mit einer üppigen Vegetation aus Farnen, Moosen und endemischen kaukasischen Baumarten. Technisch gesehen ist der Wasserfall ein klassisches Beispiel für die Erosion in vulkanischem Gestein, wobei die Kraft des Wassers über Jahrtausende eine tiefe Nische in den Fels gegraben hat. Ökonomisch ist Makhuntseti ein zentrales Ziel für den Tagestourismus ab Batumi und bietet lokale Spezialitäten sowie Einblicke in die ländliche Kultur Adschariens. Die Kombination aus der natürlichen Gewalt des Wassers und der mittelalterlichen Ingenieurskunst der nahen Brücke macht diesen Ort zu einem Symbol für die Harmonie zwischen Mensch und Natur im georgischen Hochland.",
+        "hu": "A Mahunceti-vízesés az Adzsara Autonóm Köztársaság egyik legismertebb természeti műemléke, Batumitól körülbelül 30 kilométerre keletre. Földrajzilag az Adzsaristszkali-folyó völgyében található, ahol a víz mintegy 50 méteres magasságból zúdul le egy meredek bazaltszikláról egy természetes kőmedencébe. Történelmileg a helyszín szorosan kapcsolódik Tamar királynő 12. századi korszakához, amit a közvetlen közelében található, azonos korú Mahunceti-kőhíd is jelez. Ökológiailag a területet a Kis-Kaukázus párás szubtrópusi klímája jellemzi, buja növényzettel, páfrányokkal, mohákkal és endemikus kaukázusi fafajokkal. Technikai szempontból a vízesés a vulkanikus kőzetben zajló erózió klasszikus példája, ahol a víz ereje évezredek alatt mély fülkét vájt a sziklába. Gazdaságilag Mahunceti a Batumiból induló egynapos turizmus egyik legfontosabb célpontja, ahol a látogatók megismerhetik Adzsara vidéki kultúráját és gasztronómiáját. A víz természetes ereje és a közeli középkori híd mérnöki tudása közötti kontraszt a grúz felföld ember és természet közötti harmóniájának jelképévé teszi a helyet.",
+        "ro": "Cascada Makhuntseti este unul dintre cele mai populare monumente naturale din Republica Autonomă Adjara, situată la aproximativ 30 de kilometri est de Batumi. Geografic, cascada se află în valea râului Adjaristsqali, unde apa cade de la o înălțime de circa 50 de metri peste o faleză abruptă de bazalt într-un bazin natural de piatră. Din punct de vedere istoric, locația este strâns legată de epoca de aur a reginei Tamar (secolul XII), fapt confirmat de prezența podului medieval de piatră Makhuntseti din imediata vecinătate. Ecologic, zona este definită de climatul subtropical umed al Caucazului Mic, cu o vegetație luxuriantă de ferigi, mușchi și specii de arbori endemici. Din punct de vedere tehnic, cascada exemplifică procesele de eroziune în roci vulcanice, forța apei sculptând în timp o nișă adâncă în versant. Economic, Makhuntseti este un hub major pentru turismul de proximitate din Batumi, oferind vizitatorilor acces la produse locale și la tradițiile rurale ale regiunii Adjara. Simbioza dintre spectacolul natural al căderii de apă și ingineria medievală a podului adiacent face din acest sit un reper fundamental al patrimoniului mixt georgian.",
+        "en": "The Makhuntseti Waterfall is one of the most celebrated natural landmarks in the Adjara Autonomous Republic, located roughly 30 kilometers east of Batumi. Geographically, the waterfall sits within the Adjaristsqali River valley, where water plunges from a height of approximately 50 meters over a steep basalt cliff into a natural rock pool. Historically, the site is deeply associated with the 12th-century reign of Queen Tamar, a connection emphasized by the nearby Makhuntseti arched stone bridge from the same era. Ecologically, the area thrives within the humid subtropical environment of the Lesser Caucasus, characterized by lush ferns, mosses, and endemic Caucasian timber species. Technically, the waterfall serves as a prime example of erosion in volcanic strata, where hydraulic force has carved a significant alcove into the rock over millennia. Economically, Makhuntseti functions as a primary destination for day-trippers from Batumi, stimulating local trade through traditional crafts and regional gastronomy. The combination of the water's raw natural power and the nearby medieval engineering makes this location a definitive symbol of the harmony between human heritage and nature in the Georgian highlands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fallhöhe von rund 50 Metern über eine vertikale Basaltwand.",
+          "Gelegen in der subtropischen Zone der Adjara-Region.",
+          "Direkt benachbart zur Makhuntseti-Bogenbrücke aus dem 12. Jh.",
+          "Das Wasserbecken am Fuß eignet sich im Sommer zum Baden.",
+          "Eines der meistbesuchten Naturziele in der Nähe von Batumi.",
+          "Das Gestein besteht aus vulkanischen Ablagerungen des Tertiärs."
+        ],
+        "hu": [
+          "Körülbelül 50 méteres magasságból zúdul le a víz egy bazaltfalról.",
+          "Adzsara szubtrópusi, csapadékos övezetében található.",
+          "Közvetlen szomszédságában egy 12. századi Tamar királynő-korabeli híd áll.",
+          "A vízesés alatti medence nyáron alkalmas a fürdőzésre.",
+          "Batumi környékének legnépszerűbb természeti látványossága.",
+          "A sziklafalat harmadidőszaki vulkáni tevékenység hozta létre."
+        ],
+        "ro": [
+          "Înălțimea căderii de apă este de aproximativ 50 de metri.",
+          "Situată în bazinul râului Adjaristsqali, în zona subtropicală.",
+          "Lângă cascadă se află podul de piatră Makhuntseti din secolul XII.",
+          "Bazinul natural format la bază este utilizat pentru scăldat de turiști.",
+          "Destinație principală de ecoturism accesibilă ușor din Batumi.",
+          "Versantul stâncos prezintă structuri de coloane de bazalt erodate."
+        ],
+        "en": [
+          "Features a vertical drop of approximately 50 meters over basalt.",
+          "Located within the humid subtropical belt of the Adjara region.",
+          "Adjacent to a historic 12th-century arched stone bridge.",
+          "The plunge pool at the base is a popular site for swimming.",
+          "One of the top natural attractions for visitors staying in Batumi.",
+          "The geological formation dates back to Tertiary volcanic activity."
+        ]
+      }
+    },
+    {
+      "id": "gveleti-waterfall-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Gveleti-Wasserfall liegt in der Region Chewi im Norden Georgiens, nahe der russischen Grenze in der spektakulären Darial-Schlucht. Geografisch besteht die Anlage aus zwei getrennten Kaskaden, dem Großen und dem Kleinen Gveleti-Wasserfall, die tief in die schroffen Felswände des Kasbek-Massivs eingeschnitten sind. Historisch ist der Ort eng mit den Legenden der Bergvölker des Kaukasus verbunden; der Name 'Gveleti' bedeutet auf Georgisch 'Ort der Schlangen', was auf alte lokale Mythen hinweist. Ökologisch ist das Gebiet durch ein alpines Klima und eine karge, aber spezialisierte Hochgebirgsflora geprägt, die in den feuchten Nischen rund um den Wasserfall gedeiht. Technisch gesehen ist der Zugang zum Wasserfall ein Beispiel für die Herausforderungen des alpinen Wegebaus, da der Pfad durch loses Geröll und steile Hänge führt. Ökonomisch ist Gveleti ein unverzichtbarer Bestandteil des Abenteuertourismus in der Kasbegi-Region (Stepantsminda) und ein beliebtes Ziel für Wanderer auf dem Weg zum Berg Kasbek. Der Wasserfall wird durch Schmelzwasser der Gletscher gespeist, was zu einer beeindruckenden Dynamik der Wassermassen insbesondere im Frühsommer führt. Die raue Schönheit der Kalksteinformationen und die donnernde Gewalt des Wassers machen Gveleti zu einem der ursprünglichsten Naturerlebnisse im Großen Kaukasus.",
+        "hu": "A Gveleti-vízesés Hevi régióban, Észak-Grúziában található, a felejthetetlen Darjal-szurdok mélyén, nem messze az orosz határtól. Földrajzilag a terület két különálló zuhatagból áll, a Nagy- és a Kis-Gveleti-vízesésből, amelyek a Kazbek-masszívum sziklás oldalaiba vájódnak. Történelmileg a helyszín szorosan kapcsolódik a kaukázusi hegyi népek legendáihoz; a „Gveleti” név grúz nyelven „kígyók helyét” jelenti, ami ősi helyi mítoszokra utal. Ökológiailag a területet alpesi klíma és ritka, de specializált magashegyi flóra jellemzi, amely a vízesés körüli párás sziklahasadékokban virágzik. Technikai szempontból a vízesés megközelítése az alpesi útépítés kihívásait példázza, mivel az ösvény meredek lejtőkön és törmelékes terepen halad keresztül. Gazdaságilag Gveleti a Kazbegi (Sztepancminda) régió kalandturizmusának elengedhetetlen része, és népszerű célpont a Kazbek-hegy felé tartó túrázók körében. A vízesést a gleccserek olvadékvize táplálja, ami különösen kora nyáron eredményez lenyűgöző vízhozamot. A mészkőformációk nyers szépsége és a víz dübörgő ereje Gveletit a Nagy-Kaukázus egyik legérintetlenebb természeti élményévé teszi.",
+        "ro": "Cascada Gveleti este situată în regiunea Khevi din nordul Georgiei, în apropierea frontierei ruse, în spectaculosul defileu Dariali. Din punct de vedere geografic, situl este compus din două căderi de apă distincte, Cascada Mare și Cascada Mică Gveleti, sculptate adânc în versanții abrupți ai masivului Kazbek. Istoric, locația este învăluită în legendele popoarelor montane din Caucaz; numele „Gveleti” se traduce din georgiană prin „locul șerpilor”, făcând referire la mituri locale străvechi. Ecologic, zona este definită de un climat alpin și de o floră montană specializată care prosperă în nișele umede din jurul căderii de apă. Din punct de vedere tehnic, accesul la cascadă reprezintă un exemplu al dificultăților traseelor montane de mare altitudine, poteca traversând zone cu grohotiș și pante instabile. Economic, Gveleti este un element esențial al turismului de aventură din regiunea Kazbegi (Stepantsminda), fiind o destinație preferată de excursioniștii care explorează poalele muntelui Kazbek. Cascada este alimentată de apele rezultate din topirea ghețarilor, prezentând un debit impresionant mai ales la începutul verii. Frumusețea brută a formațiunilor calcaroase și forța tunătoare a apei fac din Gveleti una dintre cele mai autentice experiențe naturale din Caucazul Mare.",
+        "en": "The Gveleti Waterfall is located in the Khevi region of northern Georgia, near the Russian border within the dramatic Dariali Gorge. Geographically, the site consists of two separate cascades, known as the Great and Small Gveleti Waterfalls, carved deep into the rugged rock faces of the Kazbek massif. Historically, the location is steeped in the folklore of the Caucasian highlanders; the name 'Gveleti' translates to 'place of snakes' in Georgian, referring to ancient local myths. Ecologically, the area is characterized by an alpine climate and specialized high-altitude flora that thrives in the humid niches created by the waterfall's spray. Technically, accessing the falls provides an example of the challenges of alpine trail maintenance, as the path traverses steep slopes and loose scree. Economically, Gveleti is an integral part of the adventure tourism sector in the Kazbegi (Stepantsminda) region and a favorite destination for hikers on their way to Mount Kazbek. The waterfall is fed by glacial meltwater, resulting in an impressive hydraulic display, particularly during the early summer months. The stark beauty of the limestone formations and the thundering force of the water make Gveleti one of the most pristine natural experiences in the Greater Caucasus."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus zwei Kaskaden: der 'Großen' und der 'Kleinen' Gveleti.",
+          "Der Name Gveleti bedeutet übersetzt 'Ort der Schlangen'.",
+          "Gelegen in der Darial-Schlucht am Fuße des Kasbek-Massivs.",
+          "Wird primär durch das Schmelzwasser kaukasischer Gletscher gespeist.",
+          "Der Wanderweg führt durch geologisch instabiles Schiefergelände.",
+          "Wichtiger Brutplatz für alpine Greifvögel wie den Steinadler."
+        ],
+        "hu": [
+          "Két részből áll: a Nagy-Gveleti és a Kis-Gveleti zuhatagból.",
+          "A 'Gveleti' név jelentése grúz nyelven 'kígyók helye'.",
+          "A stratégiai jelentőségű Darjal-szurdokban található.",
+          "Fő vízutánpótlását a környező gleccserek olvadása biztosítja.",
+          "A vízeséshez vezető ösvény palaköves, omladékos terepen halad.",
+          "A környék a szirti sasok és más havasi ragadozók vadászterülete."
+        ],
+        "ro": [
+          "Cuprinde două cascade distincte: Gveleti Mare și Gveleti Mică.",
+          "Etimologia numelui provine de la cuvântul 'gveli', care înseamnă șarpe.",
+          "Amplasată în defileul Dariali, la mică distanță de orașul Stepantsminda.",
+          "Debitul atinge apogeul în iunie datorită topirii zăpezilor de pe masiv.",
+          "Traseul de acces oferă perspective asupra geologiei de șist a Caucazului.",
+          "Arie de protecție pentru flora alpină rară din bazinul râului Terek."
+        ],
+        "en": [
+          "Comprises two distinct falls: the 'Big' and 'Small' Gveleti.",
+          "The name 'Gveleti' means 'Place of Snakes' in the Georgian language.",
+          "Situated within the historic Dariali Gorge near the Russian border.",
+          "Primarily fed by meltwater from the high Caucasian glaciers.",
+          "The access trail winds through geologically active scree slopes.",
+          "A notable habitat for high-altitude bird species and raptors."
+        ]
+      }
+    },
+    {
+      "id": "ge-mtirala-national-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mtirala-Nationalpark ist das feuchteste Gebiet Georgiens und ein Juwel des kaukasischen Regenwaldes in der Region Adscharien. Geografisch liegt der Park im Hinterland von Kobuleti und Tsakwi und umfasst die westlichen Ausläufer des Kleinen Kaukasus. Der Name 'Mtirala' bedeutet 'die Weinende', was auf die extrem hohen Niederschlagsmengen von bis zu 4.500 mm pro Jahr zurückzuführen ist. Ökologisch beherbergt der Park einen der besterhaltenen kolchischen Urwälder der Welt, der seit 2021 zum UNESCO-Weltnaturerbe gehört. Die Vegetation ist durch einen dichten Unterwuchs aus immergrünen Sträuchern wie dem Pontischen Rhododendron und massiven Kastanien- sowie Buchenwäldern geprägt. Historisch diente das Gebiet aufgrund seiner Unwegsamkeit lange Zeit als natürliches Refugium für seltene Tierarten wie den Braunbären und den Kaukasus-Luchs. Ökonomisch ist Mtirala ein Vorzeigeprojekt für den sanften Ökotourismus und bietet Infrastrukturen für Canyoning, Wandern und wissenschaftliche Forschung. Technisch gesehen ist die Verwaltung des Parks eine Herausforderung, da die hohe Feuchtigkeit und die steilen Hänge eine ständige Instandhaltung der Wege und Brücken erfordern. Der Park spielt eine entscheidende Rolle für das regionale Wassermanagement, da er als riesiger Schwamm fungiert, der die Trinkwasserversorgung der Küstenstädte sichert.",
+        "hu": "A Mtirala Nemzeti Park Grúzia legcsapadékosabb területe, az adzsara régió kaukázusi esőerdeinek gyöngyszeme. Földrajzilag Kobuleti és Csakvi hátországában található, a Kis-Kaukázus nyugati nyúlványait foglalja magában. A „Mtirala” név jelentése „síró”, ami az évi akár 4500 mm-t is elérő, extrém magas csapadékmennyiségre utal. Ökológiailag a park a világ egyik legjobb állapotban fennmaradt kolkhiszi őserdejének ad otthont, amely 2021 óta az UNESCO Világörökség része. A vegetációt sűrű, örökzöld aljnövényzet (például pontuszi rododendron) és hatalmas gesztenye- valamint bükkerdők jellemzik. Történelmileg a terület megközelíthetetlensége miatt hosszú ideig természetes menedéket nyújtott olyan ritka állatfajoknak, mint a barna medve és a kaukázusi hiúz. Gazdaságilag a Mtirala a szelíd ökoturizmus mintaprojektje, amely canyoning, túrázás és tudományos kutatások számára kínál infrastruktúrát. Technikai szempontból a park kezelése kihívást jelent, mivel a magas páratartalom és a meredek lejtők az utak és hidak folyamatos karbantartását igénylik. A park döntő szerepet játszik a régió vízgazdálkodásában, óriási szivacsként működve biztosítja a parti városok ivóvízellátását.",
+        "ro": "Parcul Național Mtirala este cea mai umedă zonă din Georgia și o bijuterie a pădurilor pluviale caucaziene din regiunea Adjara. Geografic, parcul este situat în hinterlandul localităților Kobuleti și Chakvi, cuprinzând ramificațiile vestice ale Caucazului Mic. Numele „Mtirala” se traduce prin „Cea care plânge”, referindu-se la precipitațiile extreme care pot atinge 4.500 mm pe an. Ecologic, parcul adăpostește una dintre cele mai bine conservate păduri virgine colchicé din lume, fiind inclus în Patrimoniul Mondial UNESCO din anul 2021. Vegetația este dominată de un subarboret dens de arbuști sempervirenți, precum rododendronul pontic, și de păduri masive de castan și fag. Din punct de vedere istoric, inaccesibilitatea terenului a transformat zona într-un refugiu natural pentru specii rare precum ursul brun și râsul caucazian. Economic, Mtirala reprezintă un proiect model pentru ecoturismul sustenabil, oferind facilități pentru canyoning, drumeții și cercetare științifică. Din punct de vedere tehnic, administrarea parcului este dificilă din cauza umidității ridicate și a pantelor abrupte care necesită întreținerea constantă a potecilor și podurilor. Parcul joacă un rol crucial în hidro-echilibrul regional, funcționând ca un burete gigantic ce garantează alimentarea cu apă potabilă a orașelor de pe litoral.",
+        "en": "Mtirala National Park is the wettest region in Georgia and a crown jewel of the Caucasian rainforests located in the Adjara region. Geographically, the park lies in the hinterland of Kobuleti and Chakvi, encompassing the western foothills of the Lesser Caucasus. The name 'Mtirala' means 'the Crying Mountain,' a nod to its extraordinary annual rainfall which can reach up to 4,500 mm. Ecologically, the park preserves one of the world's finest examples of Colchic primary forest, designated as a UNESCO World Natural Heritage site in 2021. The vegetation is characterized by dense evergreen undergrowth, such as Pontic rhododendrons, alongside massive chestnut and beech forests. Historically, the terrain's ruggedness allowed it to serve as a long-term natural sanctuary for rare species like the brown bear and the Caucasian lynx. Economically, Mtirala is a flagship project for sustainable ecotourism, featuring infrastructure for canyoning, hiking, and botanical research. Technically, managing the park is demanding, as the persistent humidity and steep slopes necessitate constant maintenance of trails and wooden bridges. The park plays a vital role in regional water management, acting as a massive sponge that secures the fresh water supply for coastal cities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Feuchtester Ort Georgiens mit bis zu 4.500 mm Niederschlag pro Jahr.",
+          "Teil des UNESCO-Weltnaturerbes 'Kolchische Regenwälder und Moore'.",
+          "Beherbergt seltene tertiäre Reliktpflanzen wie den Kaukasischen Salamander.",
+          "Wurde im Jahr 2007 offiziell als Nationalpark ausgewiesen.",
+          "Besitzt ein einzigartiges Mikroklima für den Pontischen Rhododendron.",
+          "Wichtigster Wasserspeicher für die Schwarzmeerküste bei Batumi."
+        ],
+        "hu": [
+          "Grúzia legcsapadékosabb pontja, évi 4500 mm esővel.",
+          "A „Kolkhiszi esőerdők és lápvidékek” UNESCO világörökségi helyszín része.",
+          "Harmadidőszaki maradványfajok, például a kaukázusi szalamandra otthona.",
+          "2007-ben nyilvánították hivatalosan nemzeti parkká.",
+          "A pontuszi rododendron számára egyedülálló mikroklímát biztosít.",
+          "Batumit és környékét ellátó stratégiai ivóvízbázis."
+        ],
+        "ro": [
+          "Cel mai ploios punct din Georgia, cu o medie de 4.500 mm precipitații.",
+          "Inclus în Patrimoniul Mondial UNESCO pentru pădurile pluviale colchicé.",
+          "Habitat pentru specii relicte de salamandră caucaziană și râs.",
+          "Înființat în 2007 pentru a proteja ecosistemele de mare altitudine din Adjara.",
+          "Flora include exemplare gigantice de fagus și castanea.",
+          "Reglează fluxul râurilor care alimentează zona de coastă a Mării Negre."
+        ],
+        "en": [
+          "The wettest location in Georgia, receiving up to 4,500 mm of rain annually.",
+          "Part of the 'Colchic Rainforests and Wetlands' UNESCO World Heritage site.",
+          "Home to rare Tertiary relict species like the Caucasian Salamander.",
+          "Officially established as a national park in 2007.",
+          "Features a high density of evergreen Pontic Rhododendrons.",
+          "Acts as the primary water catchment for the Batumi coastal area."
+        ]
+      }
+    },
+    {
+      "id": "ge-vashlovani-national-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Vashlovani-Nationalpark im äußersten Südosten Georgiens ist eine der kontrastreichsten Landschaften des Kaukasus. Geografisch liegt der Park in der Region Kachetien an der Grenze zu Aserbaidschan und ist durch ein arides Klima geprägt, das eine einzigartige Steppen- und Halbwüstenlandschaft geschaffen hat. Das Relief wird von den 'Badlands' dominiert – tief zerfurchten Sedimentformationen und bizarren Felsen, die an eine Mondlandschaft erinnern. Ökologisch ist Vashlovani von herausragender Bedeutung, da es seltene Pistazien- und Wacholder-Trockenwälder beherbergt. Historisch erlangte der Park im Jahr 2003 weltweite Aufmerksamkeit, als Spuren eines kaukasischen Leoparden entdeckt wurden, der als ausgestorben galt. Die Fauna ist außergewöhnlich vielfältig und umfasst Gazellen, Streifenhyänen und über 100 Vogelarten, darunter Mönchsgeier. Ökonomisch ist Vashlovani ein Zentrum für exklusiven Naturtourismus und Safaris, wobei die Infrastruktur bewusst minimalistisch gehalten wurde, um die Wildnis zu bewahren. Technisch gesehen ist das Gebiet ein wichtiges Feld für die geologische Forschung, da die Erosionswände Einblicke in Millionen Jahre alte Ablagerungen des Tethys-Meeres bieten. Die Verwaltung des Parks erfordert aufgrund der extremen Sommertemperaturen und der Wasserknappheit ein spezialisiertes Management zum Schutz der empfindlichen Ökosysteme.",
+        "hu": "A Vashlovani Nemzeti Park Grúzia távoli délkeleti részén, a Kaukázus egyik legkülönlegesebb tájegysége. Földrajzilag Kaheti régióban, az azerbajdzsáni határ mentén fekszik, és száraz éghajlata egyedülálló sztyeppei és félsivatagi tájat hozott létre. A domborzatot a „badlandek” uralják – mélyen barázdált üledékes képződmények és bizarr sziklaalakzatok, amelyek holdbéli tájra emlékeztetnek. Ökológiailag Vashlovani kiemelkedő jelentőségű, mivel ritka pisztácia- és boróka-száraz erdőknek ad otthont. Történelmileg a park 2003-ban került a világ érdeklődésének középpontjába, amikor bizonyítékot találtak a korábban kihaltnak hitt kaukázusi leopárd jelenlétére. A fauna rendkívül változatos: gazellák, csíkos hiénák és több mint 100 madárfaj, köztük barátkeselyűk élnek itt. Gazdaságilag Vashlovani az exkluzív természetjáró turizmus és a szafarik központja, ahol az infrastruktúrát szándékosan minimális szinten tartják a vadon megőrzése érdekében. Technikai szempontból a terület a geológiai kutatások fontos helyszíne, mivel az eróziós falak betekintést nyújtanak a Tethys-óceán évmilliókkal ezelőtti üledékeibe. A park kezelése a szélsőséges nyári hőség és a vízhiány miatt speciális menedzsmentet igényel az érzékeny ökoszisztémák védelmében.",
+        "ro": "Parcul Național Vashlovani, situat în extremitatea sud-estică a Georgiei, reprezintă unul dintre cele mai contrastante peisaje din Caucaz. Geografic, parcul se află în regiunea Kakheti, la granița cu Azerbaidjan, fiind definit de un climat arid care a generat o stepă unică și o zonă de semideșert. Relieful este dominat de formațiuni de tip „badlands” – depozite sedimentare profund erodate și stânci bizare care amintesc de un peisaj lunar. Ecologic, Vashlovani este de o importanță majoră, găzduind păduri rare de fistic sălbatic și ienupăr, adaptate la secetă. Din punct de vedere istoric, parcul a atras atenția mondială în 2003, când au fost descoperite urme ale leopardului caucazian, specie considerată anterior dispărută în zonă. Fauna este excepțional de diversă, incluzând gazele, hiene dungate și peste 100 de specii de păsări, printre care vulturul negru. Economic, Vashlovani este un centru pentru turismul de nișă și safari, infrastructura fiind menținută deliberat la un nivel minimalist pentru a proteja sălbăticia. Din punct de vedere tehnic, regiunea este un sit crucial pentru cercetarea geologică, pereții de eroziune expunând straturi sedimentare ale anticului ocean Tethys. Administrarea parcului necesită un management specializat din cauza temperaturilor extreme de vară și a deficitului de apă.",
+        "en": "Vashlovani National Park, located in the far southeast of Georgia, is one of the most contrasting landscapes in the Caucasus. Geographically, the park lies in the Kakheti region along the border with Azerbaijan and is defined by an arid climate that has created a unique steppe and semi-desert environment. The relief is dominated by 'badlands'—deeply furrowed sedimentary formations and bizarre rock structures resembling a lunar landscape. Ecologically, Vashlovani is of paramount importance as it hosts rare wild pistachio and juniper dry woodlands. Historically, the park gained global scientific attention in 2003 when evidence of the Caucasian leopard, previously thought extinct in the area, was discovered. The fauna is exceptionally diverse, including goitered gazelles, striped hyenas, and over 100 bird species, such as the cinereous vulture. Economically, Vashlovani serves as a hub for exclusive nature tourism and safaris, with infrastructure deliberately kept minimal to preserve its wilderness character. Technically, the area is a significant site for geological research, as the eroded cliffs provide a cross-section of sedimentary layers from the ancient Tethys Ocean. Park management requires specialized strategies to protect fragile ecosystems against extreme summer temperatures and severe water scarcity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bekannt für seine bizarren 'Badlands' und geologischen Erosionsformen.",
+          "Beherbergt Georgiens einzige wilde Pistazien- und Wacholderwälder.",
+          "Wichtigstes Schutzgebiet für die Wiederansiedlung der Kropfgazelle.",
+          "Fundort von versteinerten Elefantenknochen aus dem Pleistozän.",
+          "Standort der ersten gesicherten Leoparden-Sichtung in Georgien (2003).",
+          "Wurde 1935 als Reservat gegründet und 2003 zum Nationalpark erklärt."
+        ],
+        "hu": [
+          "Híres a bizarr „badland” formációiról és holdbéli tájáról.",
+          "Itt találhatóak Grúzia egyetlen vadpisztácia- és borókaerdői.",
+          "A golyvás gazellák visszatelepítésének legfontosabb helyszíne.",
+          "Pleisztocén kori megkövesedett elefántcsontokat is találtak a területén.",
+          "2003-ban itt dokumentálták először a kaukázusi leopárd visszatérését.",
+          "1935-ben alapították rezervátumként, 2003 óta nemzeti park."
+        ],
+        "ro": [
+          "Peisaj dominat de formațiuni geologice de tip badlands și canioane.",
+          "Singurul loc din Georgia unde cresc păduri de fistic sălbatic.",
+          "Zonă critică pentru reintroducerea gazelei cu gușă în Caucaz.",
+          "Include situri paleontologice cu fosile de elefanți preistorici.",
+          "Aici a fost fotografiat în stare sălbatică leopardul caucazian în 2003.",
+          "Rezervație istorică din 1935, transformată în parc național modern în 2003."
+        ],
+        "en": [
+          "Famous for its striking 'badlands' and desert-like erosion features.",
+          "Home to Georgia's unique wild pistachio and juniper woodlands.",
+          "The primary site for the reintroduction program of the Goitered Gazelle.",
+          "Contains significant paleontological sites with Pleistocene elephant fossils.",
+          "Location of the first confirmed Caucasian leopard sighting in modern Georgia.",
+          "Established as a reserve in 1935 and elevated to national park status in 2003."
+        ]
+      }
+    }
+  ]
+}

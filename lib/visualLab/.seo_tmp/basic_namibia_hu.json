@@ -1,0 +1,62 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "swakopmund-lighthouse-landmarks-v2",
+      "description": "Az 1902-ben épült világítótorony Swakopmund jelképe, amely ma is segíti a hajózást az Atlanti-óceán partján.",
+      "facts": ["Épült: 1902", "Stílus: historizáló", "Magasság: 28 méter"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "A Hardap-gát környéke Namíbia egyik legfontosabb öntözéses mezőgazdasági központja.",
+      "facts": ["Létesült: 1963", "Fő növény: gyapot", "Öntözött terület"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Tsumeb városa az északi mezőgazdasági régió egyik logisztikai és feldolgozó központja.",
+      "facts": ["Régió: Oshikoto", "Mezőgazdasági központ", "Bányászati múlt"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Windhoek parkjai és közösségi terei kedvelt helyszínek a gyermekek számára a fővárosban.",
+      "facts": ["Főváros", "Játszóterek", "Zöldövezet"]
+    },
+    {
+      "id": "namibia-swakopmund-kid-landmark-life-v2",
+      "description": "Swakopmund tengerparti városában számos tematikus park és játszótér várja a kikapcsolódni vágyó családokat.",
+      "facts": ["Tengerparti", "Családi célpont", "Rekreáció"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Okahandja környékén több olyan létesítmény található, amely kifejezetten a gyermekek aktív kikapcsolódását szolgálja.",
+      "facts": ["Kulturális központ", "Családbarát", "Élményközpont"]
+    },
+    {
+      "id": "namibia-bwabwata-animal-habitat-life-v2",
+      "description": "A Bwabwata Nemzeti Park gazdag élővilágnak ad otthont, beleértve az elefántokat és a bivalyokat is.",
+      "facts": ["Típus: nemzeti park", "Élőhely", "Vadvilág"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "A Mudumu Nemzeti Park egy szavannás élőhely, ahol számos afrikai vadfaj megtalálható.",
+      "facts": ["Típus: szavanna", "Védett terület", "Biodiverzitás"]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "description": "A Dorob Nemzeti Park az Atlanti-óceán partvidékén nyújt menedéket a sivatagi élővilágnak.",
+      "facts": ["Típus: partvidéki", "Endemikus fajok", "Sivatagi környezet"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "A Kavango-folyó mentén elterülő régió Namíbia egyik legtermékenyebb mezőgazdasági területe.",
+      "facts": ["Fő növény: köles", "Öntözéses gazdálkodás", "Folyóvölgy"]
+    }
+  ]
+}

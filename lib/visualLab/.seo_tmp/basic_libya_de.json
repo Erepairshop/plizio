@@ -1,0 +1,103 @@
+{
+  "lang": "de",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraLibyaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraLibyaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mizdah-plateau-nature-v2",
+      "description": "Das Mizdah-Plateau ist eine weitläufige Wüstenhochfläche, die durch ihre karge, aber beeindruckende geologische Struktur geprägt ist.",
+      "facts": ["Wüsten-Hochland", "Geologische Formation", "Region Mizdah", "Trockenes Klima"]
+    },
+    {
+      "id": "sarir-tanezrouft-nature-v2",
+      "description": "Die Sarir-Tanezrouft ist ein riesiges, flaches Wüstengebiet, das zu den trockensten und lebensfeindlichsten Regionen der Sahara zählt.",
+      "facts": ["Sahara-Region", "Extrem trocken", "Weitläufige Kieswüste", "Geologisch flach"]
+    },
+    {
+      "id": "gargaf-desert-nature-v2",
+      "description": "Die Gargaf-Wüste zeichnet sich durch ihre steinigen Plateaus und einzigartigen Sandsteinformationen aus, die typisch für diese zentrale Region sind.",
+      "facts": ["Zentral-Libyen", "Sandsteinformationen", "Steinwüste", "Einzigartige Landschaft"]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "description": "Die Küste der Kyrenaika bildet eine wichtige ökologische Zone im Nordosten des Landes, wo mediterrane Einflüsse auf die aride Umgebung treffen.",
+      "facts": ["Nordost-Küste", "Mediterranes Klima", "Ökologische Übergangszone", "Geografisch vielfältig"]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "description": "Wadi Farigh ist ein bedeutendes trockenes Flussbett, das eine natürliche Verbindung durch die Wüstenlandschaft bildet und für seine Geologie bekannt ist.",
+      "facts": ["Trockenes Flussbett", "Wüsten-Wadi", "Geografische Verbindung", "Aride Landschaft"]
+    },
+    {
+      "id": "ghat-mountains-nature-v2",
+      "description": "Das Gebirge bei Ghat bildet eine markante Erhebung im Südwesten Libyens und ist bekannt für seine geologischen Formationen und Felszeichnungen.",
+      "facts": ["Südwest-Libyen", "Gebirgsformation", "Geologische Vielfalt", "Historische Stätten"]
+    },
+    {
+      "id": "jebel-soda-relief-v2",
+      "description": "Der Jebel Soda ist ein markantes vulkanisches Gebirgsmassiv im Zentrum Libyens, das sich deutlich aus der umliegenden Wüstenlandschaft hervorhebt.",
+      "facts": ["Vulkanisches Massiv", "Zentral-Libyen", "Geografische Erhebung", "Steinige Landschaft"]
+    },
+    {
+      "id": "jebel-tarhuna-relief-v2",
+      "description": "Das Jebel-Tarhuna-Massiv bildet eine wichtige landschaftliche Erhebung im Nordwesten Libyens, die maßgeblich das Relief der Region beeinflusst.",
+      "facts": ["Nordwest-Libyen", "Bergmassiv", "Regionale Erhebung", "Landschaftsprägend"]
+    },
+    {
+      "id": "sirte-basin-relief-v2",
+      "description": "Das Sirte-Becken ist eine geologisch bedeutende Senke im Norden Libyens, die eine zentrale Rolle in der libyschen Geografie und Wirtschaft spielt.",
+      "facts": ["Große Senke", "Nord-Libyen", "Geologische Struktur", "Wirtschaftszentrum"]
+    },
+    {
+      "id": "wadi-mathendous-relief-v2",
+      "description": "Wadi Mathendous ist berühmt für seine tiefen Einschnitte in die Wüstenlandschaft und die dort gefundenen alten Felsgravuren im Relief.",
+      "facts": ["Wadi-Einschnitte", "Historische Gravuren", "Geografische Tiefe", "Wüsten-Relief"]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "description": "Dieses Wadi bildet ein langgestrecktes Reliefmerkmal, das sich durch den Wüstenboden zieht und als natürlicher Wegweiser in der Region dient.",
+      "facts": ["Geografisches Wadi", "Langgestrecktes Relief", "Natürliche Barriere", "Wüsten-Senke"]
+    },
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "description": "Das Relief der Sarir-Tanezrouft ist durch weite, ebene Kiesflächen gekennzeichnet, die ein nahezu horizontales Landschaftsbild erzeugen.",
+      "facts": ["Ebene Kieswüste", "Horizontales Relief", "Große Fläche", "Wüsteneinöde"]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "description": "Der Gaberoun-See liegt in einer Senke inmitten hoher Sanddünen und bietet ein außergewöhnliches Reliefbild in der libyschen Wüste.",
+      "facts": ["Oasensee", "Dünen-Senke", "Landschafts-Kontrast", "Süd-Libyen"]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "description": "Die Mandara-Seen bilden eine Gruppe von kleinen Gewässern in einer tief liegenden Dünenlandschaft, die ein einzigartiges Relief im Wüstensand bilden.",
+      "facts": ["Dünen-Seen", "Tiefe Senke", "Wüstenlandschaft", "Geografische Besonderheit"]
+    },
+    {
+      "id": "kufra-basin-relief-v2",
+      "description": "Das Kufra-Becken ist eine isolierte Senke im Südosten Libyens, die durch ihre spezielle geologische Formation und Oasen bekannt ist.",
+      "facts": ["Südost-Senke", "Isolierte Lage", "Oasengebiet", "Geografische Tiefe"]
+    },
+    {
+      "id": "gar-al-marah-relief-v2",
+      "description": "Gar al-Marah ist eine felsige Anhöhe im Wüstenrelief, die durch ihre charakteristische Form auffällt und eine markante Landmarke darstellt.",
+      "facts": ["Felsige Anhöhe", "Landmarke", "Wüsten-Relief", "Geografische Form"]
+    },
+    {
+      "id": "gargaf-desert-relief-v2",
+      "description": "Das Relief der Gargaf-Wüste umfasst eine abwechslungsreiche Abfolge von steinigen Plateaus und sandigen Abschnitten im Zentrum des Landes.",
+      "facts": ["Steinige Plateaus", "Zentral-Libyen", "Relief-Vielfalt", "Wüsten-Abschnitte"]
+    },
+    {
+      "id": "cyrenaica-coast-relief-v2",
+      "description": "Das Küstenrelief der Kyrenaika zeichnet sich durch einen schnellen Anstieg des Landes vom Meer hin zu den nördlichen Hochebenen aus.",
+      "facts": ["Steiler Anstieg", "Küsten-Relief", "Nordost-Libyen", "Geografischer Übergang"]
+    }
+  ]
+}

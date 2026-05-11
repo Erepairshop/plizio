@@ -1,0 +1,82 @@
+
+{
+  "lang": "ro",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ellis-island-history-v2",
+      "description": "Ellis Island, în portul New York, a fost cea mai aglomerată stație de inspecție a imigranților din Statele Unite, procesând peste 12 milioane de persoane.",
+      "facts": ["A funcționat între 1892 și 1954", "Acum găzduiește un muzeu al imigrației", "Poarta de intrare pentru o treime din americani"]
+    },
+    {
+      "id": "angel-island-immigration-station-history-v2",
+      "description": "Stația de imigrare Angel Island din Golful San Francisco a procesat sute de mii de imigranți, în principal din Asia, și este adesea numită 'Ellis Island a Vestului'.",
+      "facts": ["A funcționat între 1910 și 1940", "A aplicat politici de excludere a chinezilor", "Acum este un reper istoric al Californiei"]
+    },
+    {
+      "id": "faneuil-hall-landmarks-v2",
+      "description": "Faneuil Hall din Boston este o piață și o sală de ședințe istorică, cunoscută ca 'Leagănul Libertății' pentru discursurile rostite aici în timpul Revoluției Americane.",
+      "facts": ["Construită în 1742", "Parte din Freedom Trail", "Găzduiește magazine și restaurante"]
+    },
+    {
+      "id": "hollywood-sign-landmarks-v2",
+      "description": "Semnul Hollywood este un reper iconic american situat pe Mount Lee în Los Angeles, simbolizând industria de divertisment.",
+      "facts": ["Creat inițial ca 'HOLLYWOODLAND' în 1923", "Fiecare literă are 13,7 metri înălțime", "Un simbol global al cinematografiei"]
+    },
+    {
+      "id": "one-world-trade-center-landmarks-v2",
+      "description": "One World Trade Center este clădirea principală a complexului reconstruit World Trade Center din New York, cea mai înaltă clădire din emisfera vestică.",
+      "facts": ["Are o înălțime simbolică de 1.776 de picioare", "Poreclită 'Freedom Tower'", "Include un observator la etajele superioare"]
+    },
+    {
+      "id": "willis-tower-landmarks-v2",
+      "description": "Willis Tower, cunoscut anterior ca Sears Tower, este un zgârie-nori de 110 etaje din Chicago, renumit pentru puntea sa de observare 'The Ledge'.",
+      "facts": ["Cea mai înaltă clădire din lume timp de 25 de ani", "Are balcoane de sticlă la etajul 103", "Antenele sale ating 527 de metri"]
+    },
+    {
+      "id": "the-alamo-landmarks-v2",
+      "description": "Alamo din San Antonio, Texas, este o misiune spaniolă istorică și fortăreață, faimoasă pentru bătălia de la Alamo din 1836.",
+      "facts": ["Locul unei bătălii cheie în Revoluția Texană", "Strigătul de luptă 'Remember the Alamo!'", "Acum este un muzeu și un altar"]
+    },
+    {
+      "id": "times-square-landmarks-v2",
+      "description": "Times Square este o intersecție comercială majoră și un centru de divertisment din Manhattan, New York, renumită pentru panourile sale publicitare luminoase.",
+      "facts": ["Poreclită 'Răscrucea Lumii'", "Gazda căderii anuale a globului de Anul Nou", "Vizitată de milioane de turiști anual"]
+    },
+    {
+      "id": "wrigley-field-landmarks-v2",
+      "description": "Wrigley Field este un stadion de baseball istoric din Chicago, casa echipei Chicago Cubs, cunoscut pentru zidurile sale acoperite de iederă.",
+      "facts": ["Deschis în 1914", "Unul dintre cele mai vechi stadioane din MLB", "Faimos pentru tabela sa de marcaj manuală"]
+    },
+    {
+      "id": "liberty-bell-landmarks-v2",
+      "description": "Liberty Bell (Clopotul Libertății) din Philadelphia este un simbol iconic al independenței și libertății americane, renumit pentru crăpătura sa distinctivă.",
+      "facts": ["Inscripționat cu 'Proclaim LIBERTY...'", "A sunat la citirea Declarației de Independență", "Crăpătura sa a apărut la începutul secolului al XIX-lea"]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "Parcul Național Yellowstone este primul parc național din lume, renumit pentru gheizerele sale, izvoarele termale și fauna sălbatică diversă.",
+      "facts": ["Găzduiește gheizerul Old Faithful", "Are cea mai mare concentrație de gheizere din lume", "Acasă pentru bizoni, urși și lupi"]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "Walt Disney World din Orlando, Florida, este cel mai vizitat complex de vacanță din lume, cuprinzând patru parcuri tematice și două parcuri acvatice.",
+      "facts": ["Include Magic Kingdom și Epcot", "Deschis în 1971", "Atrage peste 58 de milioane de vizitatori anual"]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "Parcul Național Denali din Alaska este centrat pe Denali, cel mai înalt vârf montan din America de Nord, oferind peisaje spectaculoase și sălbăticie.",
+      "facts": ["Denali are o înălțime de 6.190 de metri", "Acasă pentru urși grizzly, caribu și elani", "O singură șosea străbate parcul"]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "Parcul Național Glacier din Montana conține ghețari spectaculoși, vârfuri alpine și lacuri, fiind parte a 'Coroanei Continentului'.",
+      "facts": ["Renumit pentru șoseaua Going-to-the-Sun", "Are peste 700 de mile de trasee montane", "Numărul de ghețari este în scădere rapidă"]
+    }
+  ]
+}

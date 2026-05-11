@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "palais-parlement-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Parlamentsgebäude in Libreville, offiziell Sitz der Nationalversammlung (Assemblée Nationale), ist ein monumentales architektonisches Wahrzeichen der gabunischen Hauptstadt. Das Gebäude befindet sich am Boulevard Triomphal, einer zentralen Verkehrsader, die von zahlreichen Regierungsgebäuden gesäumt wird. Die Architektur des Palastes spiegelt den Wunsch nach Modernität und nationaler Größe wider, wobei großzügige Glasfronten und eine massive Betonstruktur kombiniert wurden. Ein bedeutendes Kapitel in der Geschichte des Gebäudes war das Jahr 2016, als es im Zuge politischer Unruhen nach den Präsidentschaftswahlen durch Brandstiftung schwer beschädigt wurde. Der anschließende Wiederaufbau, der maßgeblich durch die Zusammenarbeit mit China unterstützt wurde, verwandelte den Komplex in eine hochmoderne Einrichtung mit modernster Konferenztechnik und verbesserten Sicherheitsstandards. Für Gabun ist das Parlamentsgebäude nicht nur ein Ort der Gesetzgebung, sondern auch ein Symbol für die Stabilität und den Fortbestand der demokratischen Institutionen des Landes. Die Umgebung des Palastes ist streng bewacht und dient oft als Kulisse für staatliche Paraden und diplomatische Empfänge. In der Nähe befinden sich weitere wichtige Institutionen wie der Senat und verschiedene Ministerien, was die Gegend zum politischen Herzschlagzentrum Gabuns macht. Die Architektur integriert zudem afrikanische Motive in einem modernen Kontext, was die kulturelle Identität des Landes innerhalb seiner politischen Strukturen unterstreicht.",
+        "hu": "A Libreville-ben található Parlament épülete, amely a Nemzetgyűlés (Assemblée Nationale) székhelye, Gabon politikai életének és törvényhozó hatalmának központi szimbóluma. Az épület a főváros reprezentatív útvonala, a Boulevard Triomphal mentén helyezkedik el, ahol számos más kormányzati intézmény is található. Az épület építészeti stílusa a modern monumentalitást ötvözi a funkcionalitással, hangsúlyozva az állami intézmények súlyát és stabilitását. A palota történetének egyik legdrámaibb eseménye 2016-ban következett be, amikor a vitatott elnökválasztást követő zavargások során az épületet felgyújtották és jelentős károkat szenvedett. Az ezt követő teljes rekonstrukció során – amelyben Kína jelentős technikai és anyagi szerepet vállalt – az épületet modernizálták, így ma már a legkorszerűbb technológiával felszerelt üléstermekkel és biztonsági rendszerekkel rendelkezik. A Parlament nem csupán a törvényalkotás helyszíne, hanem a gaboni államiság folytonosságának jelképe is. A látogatók számára az épület külseje a nemzet felemelkedését és a diplomáciai kapcsolatok fontosságát sugallja, különösen a kínai-gaboni együttműködés tekintetében. Az ülésszakok alatt a környék a politikai aktivitás gócpontjává válik, ahol a képviselők az ország jövőjét meghatározó döntéseket hozzák meg. Az épület belső tereiben a modern politikai kultúra és a nemzeti hagyományok vizuális elemei egyaránt megjelennek.",
+        "ro": "Palatul Parlamentului din Libreville, sediul Adunării Naționale a Gabonului, este o structură impunătoare care domină peisajul administrativ al capitalei de-a lungul Bulevardului Triomphal. Această clădire reprezintă pilonul puterii legislative și un simbol al suveranității naționale. Arhitectura sa se remarcă prin linii moderne și o scară monumentală, fiind concepută pentru a găzdui dezbaterile politice esențiale pentru viitorul țării. Istoria recentă a edificiului este marcată de evenimentele tensionate din 2016, când palatul a fost parțial distrus de flăcări în timpul protestelor post-electorale. Reconstrucția sa ulterioară, finalizată cu sprijinul parteneriatelor internaționale, în special cu China, a transformat complexul într-un model de modernitate tehnologică în Africa Centrală. Noul design include facilități avansate pentru traducere simultană, sisteme de vot electronic și spații extinse pentru comisii. Palatul nu este doar o locație funcțională pentru parlamentari, ci și un punct de referință urban care atestă ambițiile de modernizare ale statului gabonez. Zona înconjurătoare este amenajată cu spații verzi largi, oferind o perspectivă grandioasă asupra centrului politic al orașului. Ca instituție, Parlamentul reflectă echilibrul puterilor în stat și eforturile Gabunului de a consolida cadrul democratic într-un mediu arhitectural care inspiră autoritate și progres.",
+        "en": "The Parliament Building in Libreville, serving as the seat of the National Assembly, is a cornerstone of Gabon's political infrastructure and a major architectural landmark. Situated on the prestigious Boulevard Triomphal, the building sits at the heart of the capital's administrative district. Its design reflects a blend of modern international style and state-sponsored monumentality, characterized by its vast facade and imposing presence. The building gained international attention in 2016 when it was heavily damaged by fire during civil unrest following the presidential elections. The subsequent restoration and modernization project, significantly funded and executed through cooperation with China, turned the site into one of the most technologically advanced legislative chambers in the region. Today, it features state-of-the-art acoustics, digital voting systems, and high-security press galleries. Beyond its functional role in drafting and passing laws, the Palais de l'Assemblée Nationale symbolizes the resilience of Gabonese state institutions. The complex is often the site of major national ceremonies and diplomatic visits, underscoring its importance in the country's public life. Its location near other high-profile buildings like the Senate and the Ministry of Foreign Affairs makes it a central node in the political geography of Libreville, representing the country's ongoing journey toward institutional development and stability."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude ist der offizielle Sitz der Nationalversammlung von Gabun.",
+          "Es befindet sich am Boulevard Triomphal in der Hauptstadt Libreville.",
+          "Nach schweren Brandschäden im Jahr 2016 wurde es umfassend modernisiert.",
+          "Der Wiederaufbau wurde maßgeblich durch die Volksrepublik China unterstützt.",
+          "Der Komplex beherbergt moderne Plenarsäle und Konferenzräume.",
+          "Es ist ein zentraler Ort für nationale Zeremonien und Staatsbesuche."
+        ],
+        "hu": [
+          "Az épület a gaboni Nemzetgyűlés (alsóház) hivatalos székhelye.",
+          "Libreville diplomáciai negyedében, a Boulevard Triomphal mentén található.",
+          "2016-ban egy politikai zavargás során az épület jelentős része leégett.",
+          "A felújítás utáni újranyitás a kínai-gaboni diplomácia egyik sikere volt.",
+          "A belső terek a legmodernebb digitális parlamenti technikával felszereltek.",
+          "Az épület előtt gyakran tartanak katonai díszszemléket és állami ünnepségeket."
+        ],
+        "ro": [
+          "Sediul Adunării Naționale este situat pe artera principală, Boulevard Triomphal.",
+          "Clădirea a fost reconstruită după incendiul devastator din august 2016.",
+          "Proiectul de renovare a fost realizat în parteneriat cu firme din China.",
+          "Include săli de conferințe echipate cu sisteme de vot electronic de ultimă generație.",
+          "Arhitectura sa simbolizează stabilitatea legislativă a statului gabonez.",
+          "Complexul este protejat de Garda Republicană datorită importanței sale strategice."
+        ],
+        "en": [
+          "The building houses the National Assembly, the lower house of Parliament.",
+          "It is located on Boulevard Triomphal, the main administrative axis of Libreville.",
+          "The original structure was significantly damaged during political unrest in 2016.",
+          "China provided major financial and technical aid for its full reconstruction.",
+          "The site is a key venue for the opening of legislative sessions by the President.",
+          "It stands as a symbol of Gabon’s modern governance and foreign cooperation."
+        ]
+      }
+    },
+    {
+      "id": "musee-national-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Nationalmuseum für Kunst und Traditionen (Musée National des Arts, Traditions et de la Culture) in Libreville ist das kulturelle Gedächtnis Gabuns. Es beherbergt eine der bedeutendsten Sammlungen zentralafrikanischer Kunst weltweit, wobei der Schwerpunkt auf den rituellen Masken und Skulpturen der verschiedenen ethnischen Gruppen des Landes liegt. Besonders berühmt sind die Exponate der Fang, Kota und Punu, deren abstrakte Formen im frühen 20. Jahrhundert Künstler wie Pablo Picasso und Henri Matisse maßgeblich beeinflussten. Die Sammlung umfasst nicht nur sakrale Gegenstände, sondern auch Alltagsgegenstände, Musikinstrumente und traditionelle Waffen, die einen tiefen Einblick in die soziale Organisation und die spirituellen Überzeugungen der gabunischen Völker geben. Das Museum hat sich zum Ziel gesetzt, das reiche immaterielle Erbe Gabuns zu bewahren, das durch die fortschreitende Urbanisierung bedroht ist. Die Ausstellungen sind so konzipiert, dass sie die Verbindung zwischen der Welt der Ahnen und dem modernen Leben erklären. Das Gebäude selbst wurde modernisiert, um den empfindlichen Holz- und Bastobjekten optimale konservatorische Bedingungen zu bieten. Für Besucher ist das Museum der ideale Ausgangspunkt, um die kulturelle Vielfalt Gabuns zu verstehen, die von den dichten Regenwäldern des Nordens bis zu den Savannen des Südens reicht. Es dient auch als Forschungszentrum für Ethnographen und Historiker, die sich mit der präkolonialen Geschichte Zentralafrikas befassen.",
+        "hu": "A Libreville-ben található Nemzeti Művészeti és Hagyományőrző Múzeum Gabon legfontosabb kulturális intézménye, amely az ország gazdag etnográfiai örökségét hivatott megőrizni. A múzeum gyűjteménye világhírű, különösen a rituális maszkok és szobrok tekintetében, amelyek a gaboni népcsoportok, például a fangok, punuk és koták spirituális életét reprezentálják. Ezek az alkotások nem csupán művészeti tárgyak, hanem a vallási szertartások, a beavatási rítusok és az ősök tiszteletének elengedhetetlen eszközei. Érdekesség, hogy a gaboni maszkok letisztult, absztrakt formavilága nagy hatással volt a 20. század eleji európai modernizmusra, többek között Picasso munkásságára is. A tárlatok bemutatják a hagyományos gazdálkodást, a halászatot, a kézművességet és a zenei kultúrát is, átfogó képet adva a gyarmatosítás előtti társadalmi berendezkedésről. Az intézmény kiemelt feladata az oral history, azaz a szóbeli hagyományok gyűjtése és dokumentálása is. A múzeum modern épülete lehetőséget biztosít az érzékeny fa- és textilanyagok szakszerű tárolására a trópusi éghajlaton. A látogatók itt megérthetik az erdő és az ember közötti mély spirituális kapcsolatot, amely a mai napig meghatározza a gaboni identitást. Az oktatási programok révén a fiatal generációk is megismerhetik őseik tudását és művészetét.",
+        "ro": "Muzeul Național de Arte, Tradiții și Cultură din Libreville este principala instituție muzeală a Gabonului, dedicată conservării și promovării patrimoniului cultural al țării. Muzeul deține o colecție impresionantă de artefacte care ilustrează diversitatea etnică și bogăția spirituală a popoarelor gaboneze. Printre cele mai valoroase piese se numără măștile Fang, celebre pentru formele lor alungite și expresivitatea minimalistă, care au revoluționat percepția artei africane în Occident. De asemenea, vizitatorii pot admira relicvarele Kota, realizate din lemn acoperit cu foițe de cupru și alamă, folosite în cultul strămoșilor. Expozițiile nu se limitează la arta sacră, ci includ și instrumente muzicale tradiționale, unelte agricole și obiecte de uz casnic care reflectă ingeniozitatea adaptării la viața în pădurea tropicală. Muzeul joacă un rol activ în cercetarea antropologică, organizând expoziții temporare care explorează teme precum medicina tradițională, sistemele de rudenie și miturile cosmogonice. Modernizarea spațiului expozițional a permis o mai bună punere în valoare a obiectelor prin iluminat adecvat și explicații multilingve. Pentru oricine vizitează Gabonul, acest muzeu oferă cheia înțelegerii structurilor sociale complexe și a cosmologiei popoarelor Bantu. Este un spațiu al dialogului între trecutul ancestral și prezentul urbanizat al țării.",
+        "en": "The National Museum of Arts, Traditions, and Culture in Libreville is the premier cultural institution in Gabon, dedicated to the preservation and exhibition of the nation's rich ethnographic heritage. The museum is globally renowned for its exceptional collection of traditional masks and reliquaries, representing ethnic groups such as the Fang, Punu, and Kota. These artifacts are masterfully crafted and were central to spiritual life, ancestral cults, and secret society initiations (like the Bwiti). Notably, the aesthetic power of Gabonese art, with its abstract and geometric precision, had a profound influence on early 20th-century European modernists, including Picasso and Derain. Beyond ceremonial art, the museum houses a wide array of musical instruments, traditional weaponry, and daily tools that illustrate the historical lifestyle within the equatorial forest. The institution serves as a critical guardian of Gabonese identity, documenting oral traditions and social structures that face pressure from modernization. The museum's facilities provide a controlled environment to protect sensitive wood and organic materials from the humid tropical climate. Educational tours and permanent galleries allow visitors to explore the deep connection between the natural environment and the spiritual world of the Ogooué basin. It is an essential stop for anyone seeking to understand the cultural soul of Gabon and its significant contribution to world art history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Museum beherbergt eine weltberühmte Sammlung von Fang- und Punu-Masken.",
+          "Gabunische Kunst aus diesem Museum beeinflusste Künstler wie Pablo Picasso.",
+          "Es befindet sich im Stadtzentrum von Libreville in der Nähe des Meeres.",
+          "Die Sammlung umfasst über 2.500 historische und ethnologische Objekte.",
+          "Ein Schwerpunkt liegt auf den rituellen Gegenständen der Bwiti-Tradition.",
+          "Das Museum fungiert auch als nationales Archiv für die mündliche Überlieferung."
+        ],
+        "hu": [
+          "A múzeum a világ egyik legjelentősebb közép-afrikai maszkgyűjteményével rendelkezik.",
+          "A kiállított tárgyak többsége a fang, kota és punu népcsoportoktól származik.",
+          "A gaboni művészet ihlette meg a 20. századi európai kubizmus képviselőit.",
+          "A gyűjteményben őrzött relikviák az ősök kultuszának fontos kellékei.",
+          "A múzeum rendszeresen ad otthont kortárs gaboni művészeti kiállításoknak is.",
+          "Az épületet speciális klímaberendezéssel látták el a műtárgyak védelmében."
+        ],
+        "ro": [
+          "Este cea mai importantă instituție de conservare a culturii din Gabon.",
+          "Colecția include măști Punu celebre pentru 'fardul' lor alb din kaolin.",
+          "Multe obiecte expuse provin din societățile secrete tradiționale precum Ngil.",
+          "Muzeul este situat în Libreville, oferind un context istoric bogat capitalei.",
+          "Sunt expuse instrumente tradiționale unice, cum ar fi harpa Mvet.",
+          "Cercetătorii internaționali folosesc arhiva muzeului pentru studii africane."
+        ],
+        "en": [
+          "The museum holds an extensive collection of traditional Fang and Kota art.",
+          "Gabonese masks found here were a key inspiration for 20th-century Cubism.",
+          "It is located in central Libreville and is a primary cultural landmark.",
+          "The exhibits cover traditional music, marriage customs, and spiritual rites.",
+          "It houses rare reliquary figures used for guarding the bones of ancestors.",
+          "The institution actively promotes the preservation of intangible oral heritage."
+        ]
+      }
+    },
+    {
+      "id": "phare-cap-lopez-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Leuchtturm von Cap Lopez (Phare du Cap Lopez) steht an der äußersten Spitze der Mandji-Halbinsel, in der Nähe der Stadt Port-Gentil. Dieses historische Bauwerk wurde 1911 während der französischen Kolonialzeit errichtet und ist ein herausragendes Beispiel für die Ingenieurskunst des frühen 20. Jahrhunderts. Es wird oft mit dem Büro von Gustave Eiffel in Verbindung gebracht, da die Metallbauweise typisch für die damaligen Projekte des berühmten Ingenieurs war. Der Leuchtturm diente jahrzehntelang als entscheidende Navigationshilfe für Schiffe, die den Golf von Guinea befahren und den Hafen von Port-Gentil ansteuern. Mit einer Höhe von etwa 30 Metern bietet er einen weiten Blick über den Atlantik und die umliegenden Ölverladestationen, die heute das wirtschaftliche Rückgrat der Region bilden. Cap Lopez ist geografisch bedeutsam, da es den westlichsten Punkt Gabuns markiert und den Übergang zwischen dem offenen Meer und der geschützten Bucht von Port-Gentil definiert. Obwohl der Leuchtturm im Laufe der Zeit durch die salzhaltige Meeresluft korrodierte, bleibt er ein stolzes Symbol der Seefahrtsgeschichte Gabuns. In den letzten Jahren gab es Bestrebungen, dieses Industriedenkmal zu restaurieren, um es als touristisches Ziel zu erhalten. Die Umgebung des Leuchtturms ist geprägt von einer Mischung aus unberührter Küstenlandschaft und der massiven Infrastruktur der Erdölindustrie, was einen faszinierenden Kontrast darstellt.",
+        "hu": "A Cap Lopez világítótorony a Mandji-félsziget legnyugatibb csücskén, Port-Gentil közelében található. Az 1911-ben, a francia gyarmati időszakban épült torony a korai fémszerkezetes építészet egyik kiváló példája Gabonban. A torony terveit gyakran Gustave Eiffel irodájához kötik, mivel a szegecselt acélszerkezet kísértetiesen hasonlít a híres mérnök stílusára. A mintegy 30 méter magas világítótorony évtizedeken át segítette a hajók tájékozódását a Guineai-öbölben, különösen a Port-Gentil kikötőjébe tartó forgalmat. Ez a pont földrajzi szempontból is kiemelt jelentőségű, hiszen itt válik el az Atlanti-óceán nyílt vize a védettebb öblöktől. A környék ma Gabon gazdasági motorja, itt található az ország egyik legnagyobb kőolaj-terminálja. A világítótorony állapota az évtizedek során a sós tengeri levegő hatására leromlott, de még így is méltóságteljesen magasodik a part fölé, emlékeztetve a látogatókat a 20. század eleji tengeri kereskedelem aranykorára. A helyszín különleges hangulatát a modern olajipari létesítmények és a történelmi építmény kontrasztja adja. A természetbarátok számára a környék azért is érdekes, mert a Cap Lopez vizei a bálnák vonulási útvonalába esnek, így a partról gyakran figyelhetők meg ezek a hatalmas tengeri emlősök.",
+        "ro": "Farul de la Cap Lopez (Phare du Cap Lopez) este o structură istorică emblematică situată în cel mai vestic punct al Gabonului, pe peninsula Mandji, lângă Port-Gentil. Construit în 1911, farul este un monument al ingineriei coloniale franceze, fiind realizat dintr-o structură metalică nituită care amintește de tehnicile utilizate de Gustave Eiffel. Cu o înălțime de aproximativ 30 de metri, acesta a ghidat în siguranță generații de navigatori prin apele Golfului Guineei către portul strategic Port-Gentil. Cap Lopez nu este doar un reper maritim, ci și un loc de o importanță geografică și economică majoră, fiind situat în inima zonei de extracție petrolieră a țării. Deși structura sa a suferit din cauza coroziunii cauzate de mediul marin salin, farul rămâne un punct de atracție pentru pasionații de istorie industrială. În prezent, acesta stă ca o santinelă tăcută între terminalele moderne de petrol și apele sălbatice ale Atlanticului. Zona înconjurătoare este, de asemenea, cunoscută pentru biodiversitatea sa, fiind un loc excelent pentru observarea balenelor cu cocoașă în timpul migrației lor anuale. Eforturile locale de conservare vizează transformarea acestui far într-un simbol al turismului cultural, legând trecutul maritim al Gabunului de prezentul său industrial.",
+        "en": "The Cap Lopez Lighthouse (Phare du Cap Lopez) is a historic maritime landmark situated at the northwestern tip of the Mandji Peninsula, near the city of Port-Gentil. Erected in 1911 during the French colonial administration, the lighthouse is a standout example of early 20th-century metal architecture. Its design is frequently linked to the workshops of Gustave Eiffel, sharing the characteristic riveted iron aesthetic of that era. Standing roughly 30 meters tall, the lighthouse played a vital role for decades in guiding international shipping through the treacherous waters of the Gulf of Guinea into the harbor of Port-Gentil. Geographically, Cap Lopez marks the westernmost point of Gabon, serving as a natural boundary between the open Atlantic Ocean and the Bay of Port-Gentil. Today, the lighthouse is surrounded by the massive infrastructure of Gabon's oil and gas industry, including major refinery terminals. Despite the visible wear and rust caused by over a century of exposure to salt spray and tropical humidity, the structure remains an enduring symbol of Gabon’s nautical history. The site offers a unique vantage point where industrial progress meets historical heritage. Additionally, the waters off Cap Lopez are famous for humpback whale sightings during their migratory season, making it a point of interest for both history buffs and nature enthusiasts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Leuchtturm wurde im Jahr 1911 erbaut.",
+          "Er markiert den westlichsten Punkt des gabunischen Festlandes.",
+          "Die Metallkonstruktion weist Ähnlichkeiten mit den Entwürfen von Eiffel auf.",
+          "Der Turm ist etwa 30 Meter hoch und diente der Navigation nach Port-Gentil.",
+          "Er befindet sich in unmittelbarer Nähe zu großen Öl-Terminals.",
+          "Von der Küste aus können in der Saison Buckelwale beobachtet werden."
+        ],
+        "hu": [
+          "A világítótorony 1911-ben készült el a Mandji-félszigeten.",
+          "Ez Gabon legnyugatibb szárazföldi pontja.",
+          "A torony acélszerkezete a korabeli francia ipari építészet remeke.",
+          "Évtizedekig ez volt a Guineai-öböl egyik legfontosabb tájékozódási pontja.",
+          "Port-Gentil városától északra, az olajfinomítók szomszédságában áll.",
+          "A torony környéke népszerű bálnaleső helyszín július és szeptember között."
+        ],
+        "ro": [
+          "Farul a fost inaugurat în 1911 pe peninsula Mandji.",
+          "Designul său metalic este atribuit influenței stilului Eiffel.",
+          "Are o înălțime de 30 de metri și este vizibil de la mare distanță.",
+          "Cap Lopez este punctul strategic de unde se exportă petrolul gabonez.",
+          "Structura este în prezent considerată un monument de patrimoniu industrial.",
+          "Apele din jurul farului sunt tranzitate de balene în timpul iernii australe."
+        ],
+        "en": [
+          "The lighthouse was completed in 1911 near Port-Gentil.",
+          "It marks the westernmost geographical point of the country.",
+          "The structure's riveted iron design is typical of the Eiffel era.",
+          "It stands 30 meters high and was crucial for Gulf of Guinea navigation.",
+          "The site is located adjacent to Gabon's largest oil export terminal.",
+          "Humpback whales are frequently spotted from the shore near the lighthouse."
+        ]
+      }
+    },
+    {
+      "id": "port-owendo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Owendo (Port d’Owendo) ist der bedeutendste Handelshafen Gabuns und das logistische Tor des Landes zur Welt. Er liegt etwa 15 Kilometer südlich der Hauptstadt Libreville am Ästuar des Komo-Flusses. Der Hafen wurde in den 1970er Jahren massiv ausgebaut, um den steigenden Exportanforderungen für Rohstoffe wie Mangan und Tropenholz gerecht zu werden. Owendo ist der Endpunkt der Trans-Gabun-Eisenbahn (Transgabonais), was ihn zum zentralen Knotenpunkt für den Abtransport von Bodenschätzen aus dem Landesinneren macht. Der Hafenkomplex besteht aus mehreren Terminals, darunter ein spezialisiertes Mangan-Terminal und ein Container-Terminal, das von internationalen Konzernen betrieben wird. In den letzten Jahren wurden die Kapazitäten durch den Bau eines neuen Mehrzweck-Terminals erheblich erweitert, um die Effizienz zu steigern und die Liegezeiten der Schiffe zu verkürzen. Wirtschaftlich gesehen ist der Hafen von Owendo lebenswichtig für Gabun, da hier fast alle Konsumgüter importiert und die wichtigsten Exportgüter verschifft werden. Die geschäftige Atmosphäre des Hafens mit seinen riesigen Krananlagen und Frachtschiffen ist ein Symbol für den industriellen Aufstieg des Landes. Für die lokale Entwicklung hat der Hafen zur Entstehung eines bedeutenden Industriegebiets geführt, in dem Verarbeitungsbetriebe für Holz und Lebensmittel angesiedelt sind. Die strategische Lage am tiefen Wasser des Ästuars macht ihn zu einem der besten natürlichen Häfen in Zentralafrika.",
+        "hu": "Az Owendo kikötő Gabon legfontosabb kereskedelmi kapuja, amely a fővárostól, Librevilletől mintegy 15 kilométerre délre, a Komo-folyó torkolatánál található. A kikötőt az 1970-es években kezdték el jelentősen fejleszteni, hogy kiszolgálja az ország növekvő nyersanyagexportját, különösen a mangán és a nemesfa kivitelét. Owendo kulcsfontosságú logisztikai pont, mivel itt található a Transzgaboni Vasútvonal (Transgabonais) végállomása, amely összeköti a tengerpartot a belső bányavidékekkel. A kikötői komplexum több speciális terminálból áll: az ásványi anyagok (mangán) mellett modern konténerterminál és egy újonnan épült többcélú terminál is működik itt, amely a régió egyik leghatékonyabbja. Gabon gazdasága szempontjából Owendo nélkülözhetetlen, hiszen az országba érkező fogyasztási cikkek és élelmiszerek nagy része itt kerül partra. A kikötő köré jelentős ipari zóna épült ki, ahol fafeldolgozó üzemek és élelmiszeripari gyárak kaptak helyet. A mélyvízi fekvés lehetővé teszi a legnagyobb óceánjáró teherhajók fogadását is. Owendo nem csupán egy ipari létesítmény, hanem Gabon modernizációs törekvéseinek és a globális kereskedelembe való bekapcsolódásának a jelképe. A folyamatos bővítések célja, hogy Gabon Közép-Afrika vezető logisztikai központjává váljon.",
+        "ro": "Portul Owendo (Port d'Owendo) reprezintă principalul hub comercial și logistic al Gabonului, fiind situat la aproximativ 15 kilometri sud de capitala Libreville, în estuarul râului Komo. Importanța sa strategică a crescut exponențial începând cu anii '70, odată cu dezvoltarea infrastructurii necesare pentru exportul resurselor naturale vaste ale țării. Portul este punctul terminus al căii ferate Transgabonez, facilitând transportul manganului din minele de la Moanda și a lemnului prețios din pădurile ecuatoriale către piețele globale. Complexul portuar este împărțit în mai multe secțiuni specializate: terminalul de containere, terminalul mineralier și cel de mărfuri generale. Extinderile recente, realizate prin parteneriate public-private, au crescut capacitatea de operare, reducând timpii de așteptare pentru nave și modernizând echipamentele de manipulare. Din punct de vedere economic, Owendo este vital pentru Gabon, deoarece prin acest port trece cea mai mare parte a importurilor de bunuri de larg consum și echipamente industriale. Dezvoltarea portului a atras după sine formarea unei zone industriale active, cu fabrici de procesare a lemnului și depozite logistice. Adâncimea naturală a apei în estuar permite accesul navelor de mare tonaj, făcând din Owendo unul dintre cele mai eficiente porturi din Golful Guineei și un motor esențial al creșterii economice naționale.",
+        "en": "The Port of Owendo is Gabon's primary commercial gateway and the country's most important logistical hub. Located approximately 15 kilometers south of Libreville along the Komo River estuary, the port serves as the main entry and exit point for international trade. Developed extensively in the 1970s, Owendo was designed to handle the massive export volume of manganese and tropical timber, which are pillars of the national economy. Crucially, the port is the western terminus of the Trans-Gabon Railway (Transgabonais), linking the coastal waters with the mineral-rich interior. The port complex features several specialized facilities, including a dedicated manganese terminal and a modern container terminal operated by international logistics firms. Recent multi-million dollar investments have led to the opening of a New Owendo Port (NOIP), which has significantly increased cargo handling capacity and reduced vessel turnaround times. Economically, the Port of Owendo is indispensable, as it handles nearly all of Gabon's consumer imports and industrial equipment. The surrounding Owendo district has evolved into a major industrial zone, home to timber processing plants and food production factories. Its deep-water location within a protected estuary makes it one of the best natural ports in West and Central Africa, playing a vital role in regional maritime commerce and Gabon's strategic development goals."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Owendo ist der wichtigste Tiefseehafen Gabuns für den Güterumschlag.",
+          "Er dient als Endstation für die 648 km lange Trans-Gabun-Eisenbahn.",
+          "Der Hafen verfügt über ein spezialisiertes Terminal für den Mangan-Export.",
+          "Große Teile des Hafens werden in öffentlich-privaten Partnerschaften betrieben.",
+          "Fast 90 % der Importgüter Gabuns erreichen das Land über Owendo.",
+          "Die industrielle Zone von Owendo ist ein Zentrum der gabunischen Holzverarbeitung."
+        ],
+        "hu": [
+          "A kikötő Libreville déli elővárosában, a Komo-folyó torkolatánál fekszik.",
+          "Itt ér véget a Transzgaboni Vasút, amely az ország bányáit szolgálja ki.",
+          "A kikötőben található a világ egyik legjelentősebb mangán-export terminálja.",
+          "A 2017-ben átadott új terminál megkétszerezte a kikötő kapacitását.",
+          "Owendo az ország legfontosabb faipari és logisztikai központja.",
+          "A kikötő mélyvize lehetővé teszi a legnagyobb konténerszállító hajók fogadását."
+        ],
+        "ro": [
+          "Portul Owendo este situat la sud de Libreville, în estuarul Komo.",
+          "Este punctul final al căii ferate Transgabonez, vitală pentru minerit.",
+          "Găzduiește un terminal mineralier de talie mondială operat de COMILOG.",
+          "Peste 90% din comerțul exterior al Gabonului trece prin acest hub.",
+          "Investițiile recente au modernizat complet terminalul de containere.",
+          "Zona portuară include facilități majore de prelucrare a lemnului de okoumé."
+        ],
+        "en": [
+          "Owendo is the principal deep-water commercial port of Gabon.",
+          "It acts as the Atlantic terminus for the Trans-Gabon Railway.",
+          "The port features a specialized high-capacity terminal for manganese exports.",
+          "It handles the vast majority of Gabon's imports, from food to machinery.",
+          "A major expansion in 2017 created the New Owendo International Port.",
+          "The area is the center of Gabon's industrial and manufacturing activity."
+        ]
+      }
+    },
+    {
+      "id": "mine-mangan-moanda-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Manganmine von Moanda im Osten Gabuns ist eine der bedeutendsten Lagerstätten der Welt und das Herzstück der gabunischen Bergbauindustrie. Sie wird von der Compagnie Minière de l'Ogooué (COMILOG) betrieben, einem Unternehmen, das maßgeblich zur wirtschaftlichen Entwicklung der Region Haut-Ogooué beigetragen hat. Seit dem Beginn des Abbaus im Jahr 1962 hat sich Moanda zu einer regelrechten Bergbaustadt entwickelt. Das dort abgebaute Mangan ist für seine hohe Reinheit bekannt und wird weltweit in der Stahlproduktion und für die Herstellung von Batterien benötigt. Eine technische Besonderheit war über Jahrzehnte die längste Materialseilbahn der Welt, die das Erz über 76 Kilometer bis zur Grenze nach Kongo-Brazzaville transportierte, bevor die Trans-Gabun-Eisenbahn fertiggestellt wurde. Heute erfolgt der Abtransport hocheffizient per Bahn direkt zum Hafen von Owendo. Die Mine ist ein Tagebau, der sich über riesige Plateaus erstreckt und die Landschaft der Region nachhaltig geprägt hat. COMILOG investiert auch stark in die lokale Infrastruktur, Krankenhäuser und Schulen, was die Mine zum wichtigsten Arbeitgeber und sozialen Träger im Osten Gabuns macht. In den letzten Jahren wurde der Fokus verstärkt auf die Weiterverarbeitung vor Ort gelegt, was zur Eröffnung des Metallurgischen Komplexes von Moanda führte, um die Wertschöpfung im Land zu erhöhen. Die Mine ist ein beeindruckendes Beispiel für großindustriellen Bergbau in Zentralafrika.",
+        "hu": "A Moandában található mangánbánya a világ egyik legnagyobb és legjobb minőségű mangánlelőhelye, Gabon gazdaságának egyik legfőbb tartóoszlopa. A bányát az 1960-as évek óta a COMILOG (Compagnie Minière de l'Ogooué) üzemelteti, amely mára a világ második legnagyobb mangántermelőjévé tette az országot. A bányászat 1962-es megindulása alapjaiban változtatta meg a Haut-Ogooué tartomány arculatát, Moanda városát pedig egy apró településből modern bányászvárossá emelte. A mangánt itt külszíni fejtéssel termelik ki a hatalmas fennsíkokon, ahol az ércréteg vastagsága és tisztasága egyedülálló. Korábban egy 76 kilométer hosszú drótkötélpálya szállította az ércet a szomszédos Kongóba, de a Transzgaboni Vasút 1980-as évekbeli megépítése óta az árut közvetlenül az Owendo kikötőbe szállítják. A bánya nemcsak nyersanyagforrás, hanem technológiai központ is: a Moandai Kohászati Komplexum (CMM) révén Gabon már nemcsak nyers ércet, hanem feldolgozott fémötvözeteket is exportál. A COMILOG jelentős társadalmi felelősségvállalással bír a régióban, iskolákat és modern kórházakat tart fenn a dolgozók és a helyi lakosság számára. A bánya látványa a vörös fennsíkokkal és az óriási munkagépekkel lenyűgöző példája az emberi mérnöki munka és a természet kincseinek találkozásának.",
+        "ro": "Mina de mangan de la Moanda, situată în provincia Haut-Ogooué din estul Gabonului, este una dintre cele mai mari și mai bogate zăcăminte de mangan din lume. Exploatarea este administrată de compania COMILOG (Compagnie Minière de l'Ogooué) și reprezintă motorul economic principal al țării, după sectorul petrolier. Mina a început producția comercială în 1962, transformând orașul Moanda într-un centru urban industrial modern. Manganul extras aici este de o calitate excepțională, fiind esențial pentru industria siderurgică globală și pentru producția de baterii performante. O curiozitate istorică a minei a fost utilizarea, timp de mulți ani, a celei mai lungi telecabine de marfă din lume (76 km) pentru a transporta minereul spre Congo-Brazzaville, înainte de finalizarea căii ferate Transgabonez. În prezent, transportul se realizează exclusiv pe calea ferată către portul Owendo. Mina funcționează prin extracție la suprafață pe platourile înalte din jurul orașului, oferind un peisaj industrial spectaculos. Recent, Gabonul a inaugurat Complexul Metalurgic de la Moanda, permițând procesarea locală a minereului în feromangan, ceea ce aduce o valoare adăugată economiei naționale. COMILOG este, de asemenea, cel mai mare angajator din regiune, finanțând numeroase programe sociale, educaționale și medicale, inclusiv un centru de cercetare metalurgică de elită.",
+        "en": "The Moanda Manganese Mine in eastern Gabon is one of the world's premier manganese deposits and a vital pillar of the Gabonese economy. Operated by COMILOG (Compagnie Minière de l'Ogooué), the mine has made Gabon the world's second-largest producer of high-grade manganese. Operations began in 1962, fundamentally transforming the Haut-Ogooué province and turning Moanda into a thriving industrial city. The manganese is extracted via open-pit mining from vast plateaus where the ore is prized for its high metal content and low impurities, making it ideal for global steel production and high-performance batteries. Historically, the mine was famous for operating the world's longest industrial cableway, stretching 76 kilometers across the border to Congo-Brazzaville, until the Trans-Gabon Railway provided a direct domestic link to the Port of Owendo in the 1980s. Today, the Moanda Metallurgical Complex (CMM) allows for on-site processing of ore into silicomanganese and ferromanganese, increasing the domestic value-added. COMILOG plays a significant role in local social development, funding hospitals, schools, and the Moanda School of Mining and Metallurgy. The massive scale of the excavation sites across the Bangombé and Okouma plateaus is a testament to the industrial might of Gabon's mining sector and its integration into the global supply chain for essential minerals."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Moanda ist eine der weltweit größten Lagerstätten für hochwertiges Mangan.",
+          "Der Abbau wird seit 1962 durch die Firma COMILOG betrieben.",
+          "Früher wurde das Erz über die längste Materialseilbahn der Welt transportiert.",
+          "Heute ist die Mine der wichtigste Güterlieferant für die Trans-Gabun-Eisenbahn.",
+          "Der Metallurgische Komplex von Moanda verarbeitet das Erz direkt vor Ort.",
+          "Die Mine ist der größte Arbeitgeber in der Provinz Haut-Ogooué."
+        ],
+        "hu": [
+          "Moanda a világ második legnagyobb mangántermelő helyszíne.",
+          "A bányát a COMILOG üzemelteti, amelyben a francia Eramet a fő részvényes.",
+          "A mangánt külszíni fejtéssel nyerik ki a Bangombé-fennsíkon.",
+          "A helyszínen bányászati és kohászati szakiskola is működik.",
+          "A bánya tette lehetővé a Transzgaboni Vasútvonal gazdasági fenntarthatóságát.",
+          "Az itt kitermelt érc nélkülözhetetlen a modern acélgyártáshoz."
+        ],
+        "ro": [
+          "Mina din Moanda deține unele dintre cele mai pure rezerve de mangan de pe glob.",
+          "Exploatarea a început în 1962 și a stimulat dezvoltarea estului Gabonului.",
+          "Minereul este transportat peste 600 km cu trenul până la mare.",
+          "Complexul include fabrici moderne de procesare metalurgică a minereului.",
+          "COMILOG administrează un spital și numeroase școli în orașul Moanda.",
+          "Manganul de aici este crucial pentru producția globală de oțel inoxidabil."
+        ],
+        "en": [
+          "The Moanda mine accounts for a significant portion of the global manganese supply.",
+          "Open-pit mining is conducted on high plateaus such as Bangombé and Okouma.",
+          "It was the starting point for a historic 76km-long industrial cableway.",
+          "The mine is the primary driver of traffic for the Trans-Gabon Railway.",
+          "Local processing facilities now produce ferromanganese for export.",
+          "The site includes a specialized school for mining and metallurgy (E3MG)."
+        ]
+      }
+    }
+  ]
+}

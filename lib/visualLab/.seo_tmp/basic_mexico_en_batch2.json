@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "The Lacandon Jungle in Chiapas is one of North America's last major rainforests, home to the indigenous Lacandon Maya.",
+      "facts": ["Rainforest in Chiapas", "Lacandon Maya", "High biodiversity"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "El Vizcaíno Biosphere Reserve in Baja California Sur is Latin America's largest protected area and a gray whale breeding ground.",
+      "facts": ["Largest protected area", "Gray whale breeding", "Baja California"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "Celestún Flamingo Reserve in Yucatán is famous for its large colonies of flamingos and diverse birdlife.",
+      "facts": ["Flamingo colonies", "Diverse birdlife", "Yucatán"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "La Ventanilla Turtle Reserve in Oaxaca protects sea turtles and other coastal wildlife.",
+      "facts": ["Sea turtle protection", "Oaxaca", "Coastal wildlife"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "Los Tuxtlas Biosphere Reserve in Veracruz is a unique cloud forest ecosystem with exceptionally high biodiversity.",
+      "facts": ["Cloud forest ecosystem", "Veracruz", "High biodiversity"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "Sierra Gorda Biosphere Reserve in Querétaro is a diverse mountainous region with rich flora and fauna.",
+      "facts": ["Mountainous region", "Querétaro", "Rich flora and fauna"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Isla Holbox in Quintana Roo is a car-free island, known for its pristine beaches and whale shark encounters.",
+      "facts": ["Car-free island", "Pristine beaches", "Whale shark encounters"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Isla Mujeres is a small Caribbean island off Cancún, popular for its beaches, coral reefs, and underwater museum.",
+      "facts": ["Caribbean island", "Coral reefs", "Underwater museum"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "Janitzio Island in Lake Pátzcuaro, Michoacán, is famous for its giant statue of José María Morelos and indigenous culture.",
+      "facts": ["Lake Pátzcuaro", "José María Morelos statue", "Indigenous culture"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "Isla Espíritu Santo in Baja California Sur is a UNESCO Biosphere Reserve, known for its pristine nature and sea lion colonies.",
+      "facts": ["UNESCO Biosphere Reserve", "Sea lion colonies", "Baja California Sur"]
+    }
+  ]
+}

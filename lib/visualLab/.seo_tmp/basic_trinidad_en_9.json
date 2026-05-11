@@ -1,0 +1,44 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-nylon-pool-life-v2",
+      "description": "The Nylon Pool is a famous shallow, crystal-clear sandbar off the coast of Tobago, a popular spot for leisure and swimming.",
+      "facts": ["Famous clear-water sandbar", "Iconic Tobago attraction", "Popular swimming site"]
+    },
+    {
+      "id": "tt-little-tobago-bird-sanctuary-life-v2",
+      "description": "The bird sanctuary on Little Tobago is a critical habitat for exotic seabirds, highly valued for birdwatching tours.",
+      "facts": ["Critical seabird habitat", "Key birdwatching site", "Tobago nature refuge"]
+    },
+    {
+      "id": "tt-scarborough-botanical-gardens-life-v2",
+      "description": "The Botanical Gardens in Scarborough feature a diverse collection of tropical plants, offering a peaceful recreational space in Tobago.",
+      "facts": ["Tobago botanical site", "Diverse tropical plants", "Peaceful green space"]
+    },
+    {
+      "id": "tt-siparia-dairy-farms-life-v2",
+      "description": "The dairy farms in Siparia represent the importance of local agriculture and rural livelihoods in southern Trinidad.",
+      "facts": ["Local dairy farming", "Rural southern Trinidad", "Agricultural production site"]
+    },
+    {
+      "id": "tt-point-fortin-beach-park-life-v2",
+      "description": "Point Fortin Beach Park provides a recreational seaside area for the local community, promoting outdoor leisure and heritage.",
+      "facts": ["Community seaside park", "Outdoor recreation area", "Coastal local site"]
+    },
+    {
+      "id": "tt-chacachacare-island-life-v2",
+      "description": "Chacachacare Island is a remote, historic site off the coast of Trinidad, known for its unique natural environment and ruins.",
+      "facts": ["Remote historic island", "Unique natural habitat", "Legacy of past uses"]
+    },
+    {
+      "id": "tt-saut-deau-island-life-v2",
+      "description": "Saut d'Eau Island is a small, rugged offshore island known for its natural beauty and diverse coastal wildlife.",
+      "facts": ["Rugged coastal island", "Natural beauty site", "Offshore habitat"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lang": "de",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "boukornine-mountain-nature-v2",
+      "description": "Der Nationalpark Boukornine liegt nahe Tunis und bietet eine reiche Vielfalt an Gebirgsflora.",
+      "facts": ["Nationalpark", "Bergflora", "Nahe der Hauptstadt"]
+    },
+    {
+      "id": "mountain-range-north-nature-v2",
+      "description": "Die nördliche Gebirgskette ist ein wichtiger Lebensraum mit dichten Wäldern.",
+      "facts": ["Gebirgsregion", "Dichte Wälder", "Wichtiger Lebensraum"]
+    },
+    {
+      "id": "gulf-of-tunis-islands-nature-v2",
+      "description": "Die Inseln im Golf von Tunis sind wichtige Schutzgebiete für verschiedene Vogelarten.",
+      "facts": ["Inselgruppe", "Vogelschutzgebiet", "Küstenökosystem"]
+    },
+    {
+      "id": "river-majerdah-nature-v2",
+      "description": "Der Fluss Medjerda ist die Lebensader für die Landwirtschaft im Norden Tunesiens.",
+      "facts": ["Größter Fluss", "Landwirtschaftliche Bedeutung", "Flusstal"]
+    },
+    {
+      "id": "jebel-abderrahmane-nature-v2",
+      "description": "Jebel Abderrahmane erstreckt sich über die Halbinsel Cap Bon und bietet eine abwechslungsreiche Natur.",
+      "facts": ["Bergkamm", "Cap Bon Region", "Wandergebiet"]
+    },
+    {
+      "id": "coast-of-mahdia-nature-v2",
+      "description": "Die Küste bei Mahdia zeichnet sich durch klare Gewässer und Felsformationen aus.",
+      "facts": ["Klare Gewässer", "Felsküste", "Touristische Bedeutung"]
+    },
+    {
+      "id": "el-djem-region-nature-v2",
+      "description": "Die Region um El Djem ist eine von Olivenhainen geprägte Ebene.",
+      "facts": ["Ebenenlandschaft", "Olivenanbau", "Trockengebiet"]
+    },
+    {
+      "id": "gulf-of-gabes-coastal-nature-v2",
+      "description": "Der Golf von Gabès ist bekannt für seine Gezeitenphänomene und Biodiversität.",
+      "facts": ["Gezeitenküste", "Biodiversität", "Küstenökosystem"]
+    },
+    {
+      "id": "djebel-es-sif-relief-v2",
+      "description": "Djebel es Sif ist eine markante Erhebung, die die lokale Landschaft prägt.",
+      "facts": ["Erhebung", "Geologische Formation", "Landschaftsmerkmal"]
+    }
+  ]
+}

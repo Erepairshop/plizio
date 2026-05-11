@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fouta-djallon-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fouta-Djallon-Massiv ist das geografische und ökologische Rückgrat Guineas und wird aufgrund seiner Bedeutung für das hydrologische System Westafrikas oft als 'Wasserturm Westafrikas' bezeichnet. Geografisch erstreckt sich dieses Sandsteinplateau über den zentralen Teil des Landes und erreicht am Mount Loura seine höchste Erhebung. Das Massiv ist durch eine spektakuläre Topografie geprägt, die von tiefen Sandsteincanyons, weiten Hochebenen und einer Vielzahl von Wasserfällen wie dem Kinkon und dem Ditinn definiert wird. Botanisch gesehen ist die Region eine Übergangszone zwischen Savanne und Bergwald, in der seltene Arten wie der Cinchona-Baum gedeihen. Die kühlen Temperaturen des Hochlandes unterscheiden sich drastisch von der Hitze der Küstenebenen. Historisch ist das Fouta Djallon das kulturelle Zentrum des Peul-Volkes und war Schauplatz eines mächtigen theokratischen Imamats. Wirtschaftlich ist die Region von existenzieller Bedeutung für die Landwirtschaft, insbesondere für den Anbau von Getreide und Gemüse sowie für die extensive Viehzucht. Für den Naturschutz ist das Massiv entscheidend, da hier die Quellen großer Ströme wie des Niger, Senegal und Gambia liegen. Es ist eine Landschaft von rauer Schönheit und spiritueller Tiefe, die das Herz Guineas bildet.",
+        "hu": "A Fouta Djallon-hegység Guinea földrajzi és ökológiai gerince, amelyet a nyugat-afrikai vízrendszerben betöltött szerepe miatt gyakran „Nyugat-Afrika víztornyának” neveznek. Földrajzilag ez a hatalmas homokkő fennsík az ország középső részén terül el, legmagasabb pontja a Loura-hegy. A tájat drámai homokkő-szurdokok, tágas platók és számtalan látványos vízesés, például a Kinkon és a Ditinn-vízesés jellemzi. Botanikai szempontból a régió átmeneti zónát képez a szavanna és a hegyi erdők között, ahol olyan különleges növények is megélnek, mint a kínafa. A felföld hűvös klímája éles ellentétben áll a tengerparti síkságok fojtogató hőségével. Történelmileg a Fouta Djallon a fula (peul) nép kulturális és vallási központja, egykor hatalmas teokratikus imamátus székhelye volt. Gazdaságilag a terület alapvető fontosságú a mezőgazdaság számára, különösen a gabona- és zöldségtermesztés, valamint a külterjes állattenyésztés terén. Természetvédelmi szempontból a hegység kulcsfontosságú, hiszen itt erednek Nyugat-Afrika legnagyobb folyói: a Niger, a Szenegál és a Gambia. Ez a vadregényes táj Guinea spirituális szíve és biológiai sokféleségének egyik legfontosabb bázisa.",
+        "ro": "Masivul Fouta Djallon reprezintă coloana vertebrală geografică și ecologică a Guineei, fiind supranumit „castelul de apă al Africii de Vest” datorită rolului său crucial în rețeaua hidrografică regională. Geografic, acest podiș vast de gresie se întinde în partea centrală a țării, atingând altitudinea maximă în vârful Mount Loura. Peisajul este marcat de topografia sa dramatică, definită prin canioane adânci, platouri înalte și numeroase cascade spectaculoase, precum Kinkon și Ditinn. Din punct de vedere botanic, regiunea este o zonă de tranziție între savană și pădurea montană, oferind condiții pentru specii rare, inclusiv arborele de chinina. Temperaturile scăzute de pe podiș oferă un contrast puternic cu căldura tropicală a zonelor de coastă. Istoric, Fouta Djallon este centrul cultural al poporului Fula și sediul unui fost imamat teocratic puternic. Economic, regiunea este vitală pentru agricultură, specializându-se în cultivarea cerealelor, a legumelor și în creșterea extensivă a vitelor. Conservarea masivului este o prioritate internațională, deoarece aici se află izvoarele fluviilor Niger, Senegal și Gambia. Este un spațiu de o frumusețe aspră și o semnificație spirituală profundă, formând inima geografică a Guineei.",
+        "en": "The Fouta Djallon massif is the geographic and ecological backbone of Guinea, often referred to as the 'Water Tower of West Africa' because of its critical role in the regional hydrological system. Geographically, this vast sandstone plateau covers the central part of the country, reaching its highest point at Mount Loura. The landscape is defined by its spectacular topography, featuring deep sandstone canyons, high plateaus, and a multitude of dramatic waterfalls such as Kinkon and Ditinn. Botanically, the region serves as a transition zone between savanna and montane forest, where rare species like the cinchona tree thrive. The cool highland temperatures provide a stark contrast to the oppressive heat of the coastal plains. Historically, Fouta Djallon is the cultural heartland of the Peul (Fula) people and was the site of a powerful pre-colonial theocratic state. Economically, the region is indispensable for agriculture, particularly grain and vegetable production, and extensive cattle ranching. For conservationists, the massif is of global importance as it contains the headwaters of major rivers including the Niger, Senegal, and Gambia. It is a landscape of rugged beauty and deep spiritual significance that forms the core of the Guinean nation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fouta Djallon ist der Ursprung der Flüsse Niger, Senegal und Gambia.",
+          "Das Massiv besteht hauptsächlich aus massiven Sandsteinformationen.",
+          "Die Region beherbergt die spektakulärsten Wasserfälle Guineas.",
+          "Das Klima ist aufgrund der Höhe (bis zu 1.500 m) deutlich kühler als an der Küste.",
+          "Es ist das wichtigste Siedlungsgebiet der Peul (Fula) in Westafrika.",
+          "Die Region ist ein Zentrum für den Anbau von Hochland-Kartoffeln."
+        ],
+        "hu": [
+          "A hegységben ered Nyugat-Afrika három legfontosabb folyója: a Niger, a Szenegál és a Gambia.",
+          "A terület alapkőzete nagyrészt üledékes homokkő, amely látványos kanyonokat alkot.",
+          "Itt található Guinea legmagasabb vízesése, a Ditinn-vízesés.",
+          "A tengerszint feletti magasság miatt télen a hőmérséklet 10 fok alá is süllyedhet.",
+          "A Fouta Djallon a fula pásztorkultúra és az iszlám tudományosság fellegvára.",
+          "A régió vízháztartása több mint 20 millió ember életét befolyásolja a szomszédos országokban."
+        ],
+        "ro": [
+          "Fouta Djallon acoperă o suprafață de peste 80.000 de kilometri pătrați.",
+          "Este considerat rezervor strategic de apă pentru întreaga regiune a Sahelului.",
+          "Masivul prezintă numeroase grote și adăposturi sub stâncă cu valoare arheologică.",
+          "Relieful este fragmentat de falii adânci ce creează microclimate umede.",
+          "Flora include specii endemice de ferigi și licheni de munte.",
+          "Turismul montan și de drumeție este cel mai dezvoltat din această zonă a țării."
+        ],
+        "en": [
+          "The massif is the primary watershed for the Niger, Senegal, and Gambia rivers.",
+          "It is composed primarily of ancient, layered sandstone formations.",
+          "The area is home to Guinea's most iconic waterfalls, including Kambadaga.",
+          "Altitudes range up to 1,515 meters, creating a temperate highland climate.",
+          "Fouta Djallon has been a center for Islamic learning in West Africa for centuries.",
+          "The region accounts for a significant portion of Guinea's livestock production."
+        ]
+      }
+    },
+    {
+      "id": "mount-loura-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Loura (Mont Loura) ist mit einer Höhe von 1.515 Metern der höchste Punkt des Fouta-Djallon-Massivs und ein markantes Naturdenkmal im Norden Guineas. Geografisch liegt der Berg in der Präfektur Mali, nahe der Grenze zum Senegal. Die Spitze des Berges bietet eine spektakuläre Rundumsicht, die an klaren Tagen bis weit in die Ebenen des Nachbarlandes reicht. Weltweite Bekanntheit erlangte der Mount Loura jedoch vor allem durch eine außergewöhnliche geologische Formation an einer seiner Flanken: die 'Dame du Mali' (Die Dame von Mali). Dabei handelt es sich um eine durch Wind- und Wassererosion geformte Felswand, die aus einem bestimmten Blickwinkel das Profil einer Frau mit aristokratischen Zügen zeigt. Die Landschaft um den Mount Loura ist durch karge Plateaus, schroffe Klippen und eine kühle, oft windige Atmosphäre geprägt. Das Klima hier oben ist eines der extremsten Guineas, mit beträchtlichen Temperaturschwankungen zwischen Tag und Nacht. Botanisch beherbergt der Berg seltene alpine Pflanzenarten, die an die harten Bedingungen der Hochebene angepasst sind. Für die lokale Bevölkerung ist der Mount Loura ein Ort voller Legenden und ein Symbol für die Unbeugsamkeit ihrer Heimat. Er ist ein unverzichtbares Ziel für Wanderer und Naturliebhaber, die die raue und mystische Schönheit des guineischen Hochlandes erleben möchten.",
+        "hu": "A Loura-hegy (Mont Loura) 1515 méteres magasságával a Fouta Djallon-hegység legmagasabb pontja, és Guinea északi részének egyik legmeghatározóbb természeti szimbóluma. Földrajzilag a Mali prefektúrában található, közel a szenegáli határhoz. A hegycsúcsról lélegzetelállító panoráma nyílik, amely tiszta időben messze benyúlik a szomszédos ország síkságaira. A Loura-hegy világhírnevét azonban elsősorban egy különleges sziklaformációnak köszönheti: a „Mali asszonyának” (Dame du Mali). Ez egy szél- és vízerózió által koptatott sziklafal, amely egy meghatározott szögből nézve egy előkelő vonású női arc profilját formázza meg tökéletesen. A hegy környéki tájat kopár fennsíkok, meredek sziklák és hűvös, gyakran szeles időjárás jellemzi. Itt mérhetőek Guinea legszélsőségesebb hőmérsékleti értékei, a nappali forróságot gyakran fagy közeli éjszakák követik. Botanikailag a hegy ritka magaslati növényfajoknak ad otthont, amelyek alkalmazkodtak a zord körülményekhez. A helyi lakosság körében a Loura-hegy számos legenda forrása, és a hegyvidéki ember szívósságának jelképe. A túrázók és természetfotósok számára a Loura-hegy Guinea egyik legvonzóbb célpontja, ahol a természet ereje és misztikus szépsége közvetlenül megtapasztalható.",
+        "ro": "Muntele Loura (Mont Loura) este punctul culminant al masivului Fouta Djallon, având o înălțime de 1.515 metri, și un monument natural emblematic în nordul Guineei. Geografic, acesta este situat în prefectura Mali, aproape de frontiera cu Senegalul. Vârful muntelui oferă o panoramă spectaculoasă care, în zilele senine, se întinde până în câmpiile vaste ale statului vecin. Muntele Loura a câștigat celebritate internațională în special datorită unei formațiuni geologice neobișnuite de pe unul dintre versanții săi: „Doamna din Mali” (Dame du Mali). Aceasta este o stâncă sculptată de eroziunea vântului și a apei, care dintr-un anumit unghi înfățișează profilul perfect al unei femei cu trăsături aristocratice. Peisajul din jurul Muntelui Loura este caracterizat prin platouri stâncoase, faleze abrupte și un climat răcoros, adesea bântuit de vânturi puternice. Temperaturile de aici sunt printre cele mai scăzute din Guineea, oferind un mediu atipic pentru Africa tropicală. Din punct de vedere botanic, muntele găzduiește specii alpine rare, adaptate condițiilor aspre de altitudine. Pentru comunitățile locale, Loura este un loc încărcat de legende și un simbol al mândriei regionale. Este o destinație esențială pentru turiștii pasionați de trekking și pentru cei care caută frumusețea mistică a munților guineeni.",
+        "en": "Mount Loura (Mont Loura) is the highest peak in the Fouta Djallon range, standing at 1,515 meters, and is a major natural landmark in northern Guinea. Geographically located in the Mali Prefecture near the border with Senegal, the mountain's summit offers spectacular 360-degree views that extend far into the neighboring country's plains on clear days. Mount Loura is most famous internationally for an extraordinary geological formation on one of its slopes: the 'Lady of Mali' (Dame du Mali). This natural rock wall has been carved by wind and water erosion to resemble, from a specific angle, the perfect profile of a woman with aristocratic features. The landscape around Mount Loura is characterized by rugged plateaus, sheer cliffs, and a cool, often windy atmosphere. The climate is among the most extreme in Guinea, with significant day-to-night temperature fluctuations that can drop near freezing during the harmattan season. Botanically, the mountain supports rare high-altitude plant species adapted to the harsh conditions. For the local people, Mount Loura is a site of legends and a symbol of the rugged spirit of the highlands. It remains a premier destination for hikers and nature enthusiasts seeking the mystical and raw beauty of Guinea's highest terrains."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Loura ist mit 1.515 m die höchste Erhebung des Fouta-Djallon-Hochlandes.",
+          "Die Felsformation 'Dame du Mali' ist eine der bekanntesten natürlichen Skulpturen der Welt.",
+          "Der Berg liegt nur etwa 7 km von der Stadt Mali entfernt.",
+          "Im Winter kann die Temperatur auf dem Gipfel unter den Gefrierpunkt fallen.",
+          "Von der Spitze aus kann man bei guter Sicht das senegalesische Flachland sehen.",
+          "Die Flora besteht aus spezialisierten afro-alpinen Gräsern und Sträuchern."
+        ],
+        "hu": [
+          "A Loura-hegy 1515 méteres magasságával a Fouta Djallon csúcspontja.",
+          "A 'Mali asszonya' sziklaformáció természetes erózió útján jött létre több millió év alatt.",
+          "A hegycsúcs mindössze 7 kilométerre található Mali város központjától.",
+          "Ez az egyik legszelesebb és leghűvösebb pontja az egész országnak.",
+          "A hegyről tiszta időben látható a Szenegál-folyó vízgyűjtő területe.",
+          "A sziklafalak ideális fészkelőhelyet biztosítanak ritka ragadozó madaraknak."
+        ],
+        "ro": [
+          "Mont Loura reprezintă punctul cel mai nordic al zonei muntoase din Guineea.",
+          "Fenomenul geologic 'Doamna din Mali' atrage anual mii de turiști și fotografi.",
+          "Este singurul loc din țară unde bruma este un fenomen meteorologic frecvent.",
+          "Vârful este accesibil prin trasee de drumeție care pornesc din orașul Mali-ville.",
+          "Masivul este compus din roci sedimentare foarte vechi din era paleozoică.",
+          "Vegetația de pe munte este dominată de pajiști de altitudine bine conservate."
+        ],
+        "en": [
+          "Mount Loura is the highest elevation in the central and northern Fouta Djallon.",
+          "The 'Lady of Mali' formation is considered a masterpiece of natural erosion.",
+          "The mountain is situated approximately 7 km from the town of Mali-Yembering.",
+          "It experiences some of the lowest recorded temperatures in the Republic of Guinea.",
+          "The peak serves as a strategic lookout point over the Senegal River basin.",
+          "The site is a major hub for eco-tourism and mountain climbing in the region."
+        ]
+      }
+    },
+    {
+      "id": "bafing-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bafing ist ein bedeutender Fluss in Guinea und einer der beiden Hauptquellflüsse des Senegal-Stroms. Geografisch entspringt er im Herzen des Fouta-Djallon-Hochlandes, in der Nähe der Stadt Mamou, und fließt in nördlicher Richtung durch tief eingeschnittene Täler und unberührte Landschaften. Der Name 'Bafing' bedeutet in der Sprache der Mandinka 'Schwarzer Fluss', was auf die dunkle Farbe seines Wassers in tiefen Abschnitten hindeutet. Auf seinem Weg durch Guinea bildet der Fluss zahlreiche Stromschnellen und Wasserfälle, die ihm eine wilde Schönheit verleihen. Historisch gesehen ist der Bafing die Lebensader für die Gemeinschaften im nördlichen Hochland und dient seit Jahrhunderten als natürliche Grenze und Wasserquelle. Eine der modernsten und wirtschaftlich wichtigsten Strukturen am Fluss ist der Manantali-Staudamm (in Mali), der jedoch maßgeblich vom Wasserzufluss aus Guinea abhängt. Ökologisch ist der Bafing von herausragender Bedeutung, da sein Einzugsgebiet Rückzugsorte für bedrohte Tierarten wie Schimpansen und Flusspferde bietet. Das Leben am Fluss ist durch den Rhythmus der Regenzeit geprägt, wenn der Bafing zu einem reißenden Strom anschwillt. Für Guinea ist der Bafing ein Symbol für den ökologischen Reichtum des Hochlandes und die grenzüberschreitende Verbundenheit Westafrikas durch seine Wasserwege.",
+        "hu": "A Bafing Guinea egyik legfontosabb folyója, a Szenegál-folyam két fő forráságának egyike. Földrajzilag a Fouta Djallon-hegység szívében, Mamou városa közelében ered, és északi irányba tartva mély völgyeken és érintetlen tájakon halad keresztül. A 'Bafing' név mandinka nyelven 'Fekete folyót' jelent, ami a mélyebb szakaszokon látható sötét vízfelületre utal. Útja során a folyó számos zúgót és kisebb vízesést alkot, ami vadregényes szépséget kölcsönöz neki. Történelmileg a Bafing az északi felföld közösségeinek éltető eleme, évszázadok óta természetes határként és ivóvízforrásként szolgál. Gazdaságilag a folyó jelentősége óriási: vize táplálja a mali területen található Manantali-gátat, amely az egész régió áramellátásának és öntözésének egyik alapköve. Ökológiai szempontból a Bafing mente kritikus fontosságú, hiszen a folyóparti galériaerdők menedéket nyújtanak a veszélyeztetett nyugat-afrikai csimpánzoknak és vízilovaknak. A folyó menti élet a csapadékos évszak ritmusához igazodik, amikor a Bafing hatalmas, hömpölygő áradattá duzzad. Guinea számára a Bafing a hegyvidéki vízkincs szimbóluma, amely összeköti az országot a szubszaharai Afrika más államaival.",
+        "ro": "Bafing este un râu major din Guineea și unul dintre cei doi afluenți principali care formează fluviul Senegal. Geografic, acesta își are izvoarele în inima masivului Fouta Djallon, în apropierea orașului Mamou, și curge spre nord traversând văi adânci și peisaje virgine. Numele „Bafing” înseamnă în limba Mandinka „Râul Negru”, referindu-se la culoarea închisă a apelor sale în zonele cu adâncime mare. De-a lungul cursului său guineean, râul formează numeroase repezișuri și cascade care îi conferă o frumusețe sălbatică. Din punct de vedere istoric, Bafing a fost artera vitală pentru comunitățile din podișul nordic, servind drept frontieră naturală și sursă de apă de milenii. Din punct de vedere economic, importanța sa este majoră la nivel regional, alimentând barajul Manantali din Mali, esențial pentru irigații și energie în bazinul fluviului Senegal. Ecologic, valoarea râului Bafing este inestimabilă, bazinul său oferind refugiu unor specii protejate, precum cimpanzeii și hipopotamii. Viața riverană este dictată de succesiunea sezoanelor, râul devenind un torent impunător în timpul ploilor abundente. Pentru Guineea, Bafing simbolizează bogăția hidrologică a munților săi și conectivitatea transfrontalieră prin resursele de apă.",
+        "en": "The Bafing is a significant river in Guinea and one of the two primary headwaters of the Senegal River. Geographically, it originates in the heart of the Fouta Djallon highlands near the city of Mamou, flowing northward through deeply incised valleys and pristine landscapes. The name 'Bafing' translates to 'Black River' in the Mandinka language, reflecting the dark hue of its waters in its deeper reaches. Along its journey through Guinea, the river forms numerous rapids and waterfalls that lend it a raw, untamed beauty. Historically, the Bafing has been the lifeblood for communities in the northern highlands, serving as a natural boundary and a reliable water source for centuries. Economically, the river is of immense regional importance as its flow is the primary contributor to the Manantali Dam in Mali, which provides power and irrigation for the entire Senegal River basin. Ecologically, the Bafing is vital, as its basin offers sanctuary to endangered species such as West African chimpanzees and hippos. Life along the river is governed by the rainy season, when the Bafing transforms into a powerful torrent. For Guinea, the Bafing is a symbol of the highlands' ecological wealth and West Africa's transboundary interconnectedness through its waterways."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Bafing ist der wasserreichste Quellfluss des Senegal-Stromes.",
+          "Sein Name bedeutet 'Schwarzer Fluss' in der Sprache der Mandinka.",
+          "Der Fluss entspringt auf einer Höhe von etwa 800 Metern im Fouta Djallon.",
+          "Der Bafing-Nationalpark in der Nähe schützt eine große Schimpansen-Population.",
+          "Der Fluss ist eine wichtige Quelle für die handwerkliche Fischerei im Norden.",
+          "Er bildet auf langen Strecken die natürliche Grenze zwischen regionalen Provinzen."
+        ],
+        "hu": [
+          "A Bafing a Szenegál-folyam legbővizűbb forrásága.",
+          "A folyó neve mandinka nyelven 'Fekete folyót' jelent.",
+          "A forrásvidéke Mamou városától északra, a hegyekben található.",
+          "A folyó vize táplálja a Manantali vízerőművet a szomszédos Maliban.",
+          "A folyóparti erdők Guinea egyik legfontosabb csimpánz-élőhelyei.",
+          "Az esős évszakban a folyó vízszintje akár 5-10 métert is emelkedhet."
+        ],
+        "ro": [
+          "Bafing parcurge peste 350 de kilometri pe teritoriul Guineei înainte de a intra în Mali.",
+          "Confluența sa cu râul Bakoye formează oficial fluviul Senegal la Bafoulabé.",
+          "Râul traversează zone cu depozite minerale importante, precum bauxita.",
+          "Ecologia râului este monitorizată prin acorduri internaționale în cadrul OMVS.",
+          "În bazinele sale adânci se găsesc varietăți rare de pești de apă dulce.",
+          "Bafing este reprezentat în tradițiile orale ca un spirit puternic și misterios."
+        ],
+        "en": [
+          "The Bafing provides over 50% of the total water volume for the Senegal River.",
+          "Its name originates from the Mandinka word for 'Black River'.",
+          "The river's headwaters are situated in the high-rainfall zone of the Fouta Djallon.",
+          "It serves as a critical corridor for the movement of West African wildlife.",
+          "The Bafing is central to the transboundary water management organization OMVS.",
+          "Traditional fishing in the Bafing is a primary protein source for inland villages."
+        ]
+      }
+    },
+    {
+      "id": "gambia-river-source-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Quelle des Gambia-Flusses (Source du fleuve Gambie) ist ein ökologisches und geografisches Heiligtum im Norden Guineas, gelegen im Fouta-Djallon-Massiv. Geografisch entspringt der Fluss in der Nähe der Stadt Labé, auf den Hochplateaus von Labé und Koubia, in einer Region, die durch dichte Bergwälder und wasserreiche Täler geprägt ist. Die Quelle selbst ist oft ein kleiner, unscheinbarer Strom, der jedoch den Beginn einer über 1.100 Kilometer langen Reise durch den Senegal und Gambia bis zum Atlantik markiert. Historisch gesehen ist der Ort von großer symbolischer Bedeutung, da er die Rolle Guineas als 'Wasserturm' für mehrere westafrikanische Staaten unterstreicht. Das Leben rund um die Quellregion ist tief mit dem Schutz der Wasserressourcen verbunden, wobei die lokalen Peul-Gemeinschaften den Wald um die Quelle traditionell als heilig betrachten. Wirtschaftlich sichert die Quelle die Wasserversorgung für die Landwirtschaft und Viehzucht im nördlichen Hochland. Ökologisch ist das Quellgebiet ein Biodiversitäts-Hotspot, der seltene Pflanzen- und Tierarten beherbergt, die auf das saubere, kühle Bergwasser angewiesen sind. Für Besucher bietet die Wanderung zur Quelle ein tiefes Verständnis für die hydraulische Vernetzung Westafrikas und die stille Erhabeneit der unberührten Gebirgsnatur Guineas.",
+        "hu": "A Gambia-folyó forrása (Source du fleuve Gambie) egy ökológiai és földrajzi szentély Guinea északi részén, a Fouta Djallon-hegységben. Földrajzilag a folyó Labé városa közelében, a Labé- és Koubia-fennsíkok határán ered, egy sűrű hegyi erdőkkel és vízerekkel átszőtt vidéken. Maga a forrás gyakran csak egy apró pataknak tűnik, amely azonban egy több mint 1100 kilométeres utazás kezdetét jelzi Szenegálon és Gambián keresztül az Atlanti-óceánig. Történelmileg a helyszín nagy szimbolikus jelentőséggel bír, mivel hangsúlyozza Guinea központi szerepét több nyugat-afrikai állam vízellátásában. A forrásvidék környékén zajló élet szorosan összefonódik a vízkészletek védelmével; a helyi fula közösségek hagyományosan szentként tisztelik a forrást övező erdőket, ami segített megőrizni a terület érintetlenségét. Gazdaságilag a forrás biztosítja az ivóvizet és az állatok itatását az északi felföldön. Ökológiailag a terület a biodiverzitás egyik gócpontja, ahol számos olyan ritka növény- és állatfaj él, amely a tiszta, hűvös hegyi vizektől függ. A látogatók számára a forráshoz tett túra bepillantást enged Nyugat-Afrika hidraulikus vérkeringésébe és a guineai hegyvidék érintetlen, méltóságteljes nyugalmába.",
+        "ro": "Izvorul fluviului Gambia (Source du fleuve Gambie) este un sanctuar ecologic și geografic situat în nordul Guineei, în cadrul masivului Fouta Djallon. Geografic, fluviul izvorăște în apropierea orașului Labé, pe platourile înalte dintre Labé și Koubia, într-o regiune marcată de păduri montane dese și nenumărate pârâuri. Izvorul propriu-zis este adesea o cursă de apă discretă, dar marchează începutul unei călătorii de peste 1.100 de kilometri prin Senegal și Gambia până la Oceanul Atlantic. Din punct de vedere istoric, locul are o încărcătură simbolică majoră, confirmând statutul Guineei de „castel de apă” pentru statele vecine. Viața în jurul regiunii izvoarelor este guvernată de reguli tradiționale de protecție a resurselor hidrice, comunitățile locale Fula considerând pădurea din jurul izvorului ca fiind sacră. Economic, această zonă asigură subzistența agriculturii și zootehniei în zonele înalte din nord. Ecologic, perimetrul izvorului este un punct fierbinte al biodiversității, adăpostind specii rare de floră și faună dependente de puritatea apelor montane. Pentru vizitatori, drumeția către izvor oferă o înțelegere profundă a interconectivității hidrologice a Africii de Vest și a frumuseții sobre a naturii guineene neatinse.",
+        "en": "The source of the Gambia River (Source du fleuve Gambie) is an ecological and geographical sanctuary located in northern Guinea within the Fouta Djallon massif. Geographically, the river originates near the city of Labé, on the high plateaus between Labé and Koubia, in a region characterized by dense montane forests and abundant streams. The source itself is often a small, unassuming stream, yet it marks the beginning of a journey spanning over 1,100 kilometers through Senegal and the Gambia to the Atlantic Ocean. Historically, the site holds great symbolic value, highlighting Guinea's role as the 'Water Tower' of West Africa. Life around the headwaters is deeply connected to the protection of water resources, with local Fula communities traditionally regarding the forest surrounding the source as sacred. Economically, the source provides vital water for agriculture and livestock in the northern highlands. Ecologically, the headwater area is a biodiversity hotspot, home to rare plant and animal species that depend on the clean, cool mountain waters. For visitors, a trek to the source offers a profound insight into West Africa's hydraulic interconnectedness and the serene majesty of Guinea's untouched mountain nature."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Quelle liegt auf dem Plateau von Labé, etwa 1.000 Meter über dem Meeresspiegel.",
+          "Der Gambia-Fluss versorgt drei Nationen mit lebenswichtigem Süßwasser.",
+          "Die Quellregion ist durch dichte Bergwälder vor Austrocknung geschützt.",
+          "In Guinea wird der Oberlauf des Flusses oft als 'Dimma' bezeichnet.",
+          "Das Quellgebiet ist ein wichtiges Ziel für geographische Forschungsexpeditionen.",
+          "Die Erhaltung der Quelle ist Gegenstand internationaler Abkommen (OMVG)."
+        ],
+        "hu": [
+          "A folyó forrása mintegy 1000 méterrel a tengerszint felett található a Labé-fennsíkon.",
+          "A Gambia-folyó három ország (Guinea, Szenegál, Gambia) édesvízkészletét biztosítja.",
+          "A forrásvidéket övező erdőket a helyi közösségek spirituális okokból védik.",
+          "Guineában a folyó felső szakaszát gyakran 'Dimma' néven említik a helyiek.",
+          "A terület a Nyugat-afrikai Vízgazdálkodási Szervezet (OMVG) kiemelt figyelmét élvezi.",
+          "A forrás környékén ritka hegyi orchideák és páfrányok élnek."
+        ],
+        "ro": [
+          "Izvorul fluviului Gambia se află într-o zonă cu precipitații anuale ce depășesc 1.500 mm.",
+          "Debitul inițial al fluviului este alimentat de infiltrațiile din rocile de gresie.",
+          "Accesul la izvor necesită adesea un ghid local din cauza terenului accidentat.",
+          "Gambia este unul dintre puținele fluvii africane navigabile pe o distanță mare de la gura de vărsare.",
+          "Protejarea izvoarelor previne deșertificarea în aval, în zonele de savană.",
+          "Situl este considerat un monument al naturii de importanță regională."
+        ],
+        "en": [
+          "The source is located on the Labé plateau at an altitude of approximately 1,000 meters.",
+          "The Gambia River is the lifeblood for millions of people across three West African states.",
+          "The surrounding forest acts as a natural sponge, regulating the river's initial flow.",
+          "In the local language, the upper reaches of the river are often called 'Dimma'.",
+          "The site is central to the OMVG, an international organization for river basin management.",
+          "It is a key location for studying the impact of climate change on West African water towers."
+        ]
+      }
+    },
+    {
+      "id": "kassa-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Kassa (Île de Kassa) ist die zweitgrößte und am dichtesten besiedelte Insel der Îles de Los, eines Archipels vor der Küste von Conakry. Geografisch liegt Kassa nur wenige Kilometer südwestlich der Hauptstadt im Atlantik und ist durch eine kurze Bootsfahrt erreichbar. Die Insel ist geprägt durch ihre üppige tropische Vegetation, malerische Sandstrände und markante rote Lateritfelsen. Historisch gesehen spielte Kassa eine wichtige Rolle in der Kolonialzeit als Zwischenstation für Händler und später als Standort für den Bauxitabbau, dessen Spuren in Form von stillgelegten Steinbrüchen noch heute sichtbar sind. Heute ist Kassa das beliebteste Naherholungsgebiet für die Bewohner von Conakry und Touristen gleichermaßen. Wirtschaftlich basiert das Inselleben auf dem Tourismus, der Kleinfischerei und dem Handwerk. Die Strände von Room und Soro gehören zu den schönsten der Region und bieten einen Rückzugsort vom hektischen Stadtleben. Das Leben auf Kassa ist entspannt und folgt dem Rhythmus des Ozeans und der Gezeiten. Trotz der touristischen Entwicklung bewahrt die Insel ihren authentischen Charme mit kleinen Fischerdörfern und einer gastfreundlichen Bevölkerung. Für Besucher bietet Kassa die perfekte Kombination aus Naturerlebnis, Badespaß und einem Einblick in die maritime Kultur Guineas.",
+        "hu": "Kassa szigete (Île de Kassa) a Conakry partjai előtt fekvő Los-szigetek (Îles de Los) második legnagyobb és legsűrűbben lakott tagja. Földrajzilag mindössze néhány kilométerre délnyugatra található a fővárostól, és rövid hajóúttal könnyen elérhető. A szigetet buja trópusi növényzet, festői homokos tengerpartok és jellegzetes vörös laterit sziklák jellemzik. Történelmileg Kassa fontos szerepet játszott a gyarmati korszakban: kereskedelmi állomásként, később pedig bauxitbányaként szolgált, amelynek nyomai – az elhagyatott fejtések képében – ma is láthatók. Napjainkban Kassa a conakry-iak és a turisták legkedveltebb pihenőhelye. Gazdasága a turizmusra, a kézműves halászatra és a helyi kereskedelemre épül. Room és Soro strandjai a régió legszebbjei közé tartoznak, igazi menedéket nyújtva a főváros zajától. A szigeti élet nyugodt, ritmusát az óceán és az árapály váltakozása határozza meg. A turisztikai fejlődés ellenére Kassa megőrizte hiteles báját apró halászfalvaival és vendégszerető közösségeivel. A látogatók számára Kassa a természeti élmények, a strandolás és a guineai tengerparti kultúra tökéletes ötvözetét kínálja.",
+        "ro": "Insula Kassa (Île de Kassa) este a doua ca mărime și cea mai populată dintre Insulele Los (Îles de Los), un arhipelag situat în largul coastei orașului Conakry. Geografic, Kassa se află la doar câțiva kilometri sud-vest de capitală, fiind accesibilă printr-o scurtă traversare cu barca. Insula este definită de vegetația tropicală luxuriantă, plaje pitorești cu nisip fin și stânci de laterită roșie spectaculoase. Din punct de vedere istoric, Kassa a fost un punct strategic în perioada colonială, servind drept escală comercială și, ulterior, loc de extracție pentru bauxită, urmele vechilor cariere fiind vizibile și astăzi. În prezent, Kassa este principala destinație de agrement pentru locuitorii din Conakry și pentru turiștii străini. Economia insulei se bazează pe turism, pescuit artizanal și micul comerț. Plajele Room și Soro sunt considerate printre cele mai frumoase din regiune, oferind o oază de relaxare departe de agitația urbană. Viața pe Kassa este relaxată, fiind dictată de ritmul oceanului și al mareelor. În ciuda dezvoltării turistice, insula își păstrează farmecul autentic prin satele de pescari și ospitalitatea localnicilor. Pentru vizitatori, Kassa reprezintă combinația ideală între natură, relaxare la malul mării și o incursiune în cultura maritimă a Guineei.",
+        "en": "Kassa Island (Île de Kassa) is the second largest and most populated island of the Îles de Los archipelago, situated just offshore from Conakry. Geographically, it lies only a few kilometers southwest of the capital in the Atlantic Ocean and is easily reachable by a short boat trip. The island is characterized by its lush tropical vegetation, picturesque sandy beaches, and striking red laterite rock formations. Historically, Kassa played a significant role during the colonial era as a trading post and later as a site for bauxite mining, the remnants of which can still be seen in the form of abandoned quarries. Today, Kassa is the premier weekend getaway for Conakry residents and international tourists alike. The local economy thrives on tourism, artisanal fishing, and small-scale trade. Beaches like Room and Soro are among the most beautiful in the region, offering a serene escape from the capital's urban pulse. Life on Kassa is laid-back, following the rhythm of the ocean and the shifting tides. Despite its popularity, the island retains an authentic atmosphere with its traditional fishing villages and welcoming local community. For visitors, Kassa offers the perfect blend of natural beauty, seaside relaxation, and a glimpse into Guinea's vibrant maritime culture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kassa war der erste Ort in Guinea, an dem industriell Bauxit abgebaut wurde.",
+          "Die Insel ist in etwa 15 bis 20 Minuten per Piroge von Conakry aus erreichbar.",
+          "Soro ist der bekannteste Strand der Insel und ein Zentrum des Tourismus.",
+          "Die Insel verfügt über eine eigene Grundschule und medizinische Station.",
+          "Kassa bietet einen spektakulären Blick auf die Skyline von Conakry.",
+          "Die Inselbewohner sind für ihre traditionellen Tanz- und Musikdarbietungen bekannt."
+        ],
+        "hu": [
+          "Kassa volt az első helyszín Guineában, ahol megkezdték a bauxit kitermelését.",
+          "A sziget mintegy 15-20 perces pirogúttal érhető el Conakry kikötőjéből.",
+          "A sziget partjait pálmafák és különleges vörös sziklák övezik.",
+          "A Soro strand a hétvégéken a fővárosi elit kedvelt találkozóhelye.",
+          "A szigeten nincsenek autók, a közlekedés gyalog vagy motorral történik.",
+          "Kassa vizei gazdagok halban, különösen sügérben és makrélában."
+        ],
+        "ro": [
+          "Insula a servit ca bază pentru marina britanică înainte de a fi cedată Franței.",
+          "Kassa este renumită pentru apusurile de soare spectaculoase deasupra Atlanticului.",
+          "Există numeroase hoteluri și bungalouri ecologice de-a lungul coastelor sale.",
+          "Satele de pe insulă păstrează o arhitectură tradițională din lemn și paie.",
+          "Transportul între insule se face exclusiv cu ambarcațiuni tradiționale colorate.",
+          "Kassa reprezintă plămânul de oxigen și recreere al capitalei Conakry."
+        ],
+        "en": [
+          "Kassa was the birthplace of Guinea's massive bauxite mining industry.",
+          "The island is accessible via a scenic 15-minute boat ride from Boulbinet port.",
+          "It features the popular Soro and Room beaches, known for their golden sands.",
+          "The island offers a unique panoramic view of Conakry's expanding skyline.",
+          "The local population consists primarily of Susu fishing communities.",
+          "Kassa is a major hub for artisanal boat building in the archipelago."
+        ]
+      }
+    }
+  ]
+}

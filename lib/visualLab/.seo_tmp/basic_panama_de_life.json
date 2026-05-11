@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-cafe-boquete-life-v2",
+      "description": "Die Hochlandregion um Boquete ist berühmt für ihren exzellenten Kaffee, der unter idealen klimatischen Bedingungen wächst.",
+      "facts": ["Berühmte Kaffeeanbauregion.", "Perfektes Mikroklima für Arabica-Bohnen.", "Beliebtes Ziel für Kaffeetouren."]
+    },
+    {
+      "id": "parque-nacional-soberania-zoo-life-v2",
+      "description": "Der Soberanía-Nationalpark bietet dichte Tropenwälder und eine beeindruckende Artenvielfalt für Naturliebhaber.",
+      "facts": ["Heimat vieler Vogelarten.", "Nahe am Panamakanal.", "Ideal für Dschungelwanderungen."]
+    },
+    {
+      "id": "finca-banano-barú-life-v2",
+      "description": "Die Bananenplantagen bei Barú sind ein bedeutender Teil der landwirtschaftlichen Identität im Westen Panamas.",
+      "facts": ["Wichtiger Bananenproduzent.", "Fruchtbare Vulkanböden.", "Regionale Wirtschaftskraft."]
+    },
+    {
+      "id": "parque-recreativo-omar-torrijos-life-v2",
+      "description": "Ein großer, beliebter Stadtpark in Panama-Stadt, der Raum für Sport, Spiel und Erholung bietet.",
+      "facts": ["Beliebter Treffpunkt für Familien.", "Große Sportanlagen.", "Grüne Lunge der Stadt."]
+    },
+    {
+      "id": "refugio-vida-silvestre-taboga-life-v2",
+      "description": "Das Wildschutzgebiet auf der Insel Taboga schützt die vielfältige maritime und terrestrische Fauna.",
+      "facts": ["Wichtiger Lebensraum für Vögel.", "Insel vor der Pazifikküste.", "Naturschutzgebiet."]
+    },
+    {
+      "id": "finca-orquideas-boquete-life-v2",
+      "description": "Eine faszinierende Orchideenfarm in Boquete, die eine große Vielfalt an seltenen Blütenarten beherbergt.",
+      "facts": ["Riesige Artenvielfalt an Orchideen.", "Kühles Bergklima.", "Einzigartiges Naturerlebnis."]
+    },
+    {
+      "id": "centro-naturaleza-punta-culebra-life-v2",
+      "description": "Das Naturzentrum Punta Culebra bietet Bildungsangebote über die marinen Ökosysteme am Pazifikeingang des Kanals.",
+      "facts": ["Interaktives Meereszentrum.", "Beobachtung von Meereslebewesen.", "Fokus auf Naturschutz."]
+    },
+    {
+      "id": "parque-infantil-don-bosco-life-v2",
+      "description": "Ein lebendiger Spielplatz, der Kindern in der Gemeinde Don Bosco einen sicheren Ort zum Spielen und Verweilen bietet.",
+      "facts": ["Sicherer Spielbereich.", "Gemeindezentrum.", "Beliebt bei Familien."]
+    },
+    {
+      "id": "reserva-forestal-fortuna-life-v2",
+      "description": "Ein beeindruckendes Waldreservat, das eine wichtige Rolle im Schutz der Wasserressourcen und Biodiversität spielt.",
+      "facts": ["Üppiger Nebelwald.", "Wichtig für das Wasserkraftwerk.", "Reiche Tierwelt."]
+    },
+    {
+      "id": "criadero-mariposas-boquete-life-v2",
+      "description": "Eine Schmetterlingszucht in Boquete, die Besuchern die bunte Welt der tropischen Falter näherbringt.",
+      "facts": ["Verschiedene Schmetterlingsarten.", "Lehrreiches Naturerlebnis.", "In der Bergregion."]
+    },
+    {
+      "id": "finca-ganadera-los-santos-life-v2",
+      "description": "Los Santos ist ein Zentrum der panamaischen Viehwirtschaft und ein wichtiger landwirtschaftlicher Sektor.",
+      "facts": ["Zentrum der Rinderzucht.", "Landwirtschaftlich geprägt.", "Traditionelles Landleben."]
+    },
+    {
+      "id": "parque-infantil-cinta-costera-life-v2",
+      "description": "Ein moderner Spielplatz entlang der Uferpromenade von Panama-Stadt mit herrlichem Blick auf den Ozean.",
+      "facts": ["Direkt an der Uferpromenade.", "Modern gestaltet.", "Hoher Freizeitwert."]
+    },
+    {
+      "id": "reserva-natural-punta-patino-life-v2",
+      "description": "Ein großes Naturreservat in der Provinz Darién, das unberührte Wälder und eine reiche Tierwelt bewahrt.",
+      "facts": ["Eines der größten Reservate.", "Unberührte Natur.", "Heimat seltener Arten."]
+    }
+  ]
+}

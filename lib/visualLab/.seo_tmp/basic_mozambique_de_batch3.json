@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "Die Provinz Cabo Delgado ist bekannt für den Anbau von Mangos, die einen wichtigen Beitrag zur lokalen Wirtschaft leisten.",
+      "facts": ["Mangos", "Cabo Delgado", "Lokale Wirtschaft"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "Das Tete Agri Project ist eine Initiative zur Förderung der landwirtschaftlichen Entwicklung und Ernährungssicherheit in der Region.",
+      "facts": ["Landwirtschaftliche Entwicklung", "Tete", "Ernährungssicherheit"]
+    },
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "Der Niassasee, auch Malawisee genannt, ist einer der größten und tiefsten Seen Afrikas mit einer reichen Fischvielfalt.",
+      "facts": ["Malawisee", "Großer See", "Fischvielfalt"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "Der Gorongosa-Berg ist Teil des Gorongosa-Nationalparks und bietet eine vielfältige Flora und Fauna in verschiedenen Höhenlagen.",
+      "facts": ["Gorongosa-Nationalpark", "Vielfältige Flora und Fauna", "Höhenlagen"]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "description": "Der Limpopo-Fluss ist ein bedeutender Fluss in Südafrika, der durch Mosambik fließt und ein wichtiges Ökosystem bildet.",
+      "facts": ["Bedeutender Fluss", "Südafrika", "Wichtiges Ökosystem"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "Die Prímeiras und Segundas Inseln sind ein geschützter Archipel mit unberührten Korallenriffen und Mangrovenwäldern.",
+      "facts": ["Geschützter Archipel", "Korallenriffe", "Mangrovenwälder"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "Der Quirimbas-Archipel ist ein Nationalpark mit 32 Inseln, bekannt für seine unberührte Schönheit und marine Biodiversität.",
+      "facts": ["Nationalpark", "32 Inseln", "Marine Biodiversität"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "Romué Mountain ist ein markanter Berg in der Provinz Manica, der eine reiche Vegetation und seltene Vogelarten beherbergt.",
+      "facts": ["Markanter Berg", "Manica Provinz", "Seltene Vogelarten"]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "description": "Der Rovuma-Fluss bildet die natürliche Grenze zwischen Mosambik und Tansania und ist wichtig für die regionale Ökologie.",
+      "facts": ["Grenze zu Tansania", "Natürliche Grenze", "Regionale Ökologie"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "Inda Island ist eine kleine Insel vor der Küste Mosambiks, die für ihre unberührten Strände und Korallenriffe bekannt ist.",
+      "facts": ["Kleine Insel", "Unberührte Strände", "Korallenriffe"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "Der Chiuta-See ist ein flacher Süßwassersee an der Grenze zu Malawi, wichtig für Fischerei und Vogelbeobachtung.",
+      "facts": ["Flacher Süßwassersee", "Grenze zu Malawi", "Fischerei und Vogelbeobachtung"]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "description": "Der Pungo-Berg in der Provinz Zambézia ist ein wichtiger Ort für die lokale Flora und Fauna.",
+      "facts": ["Zambézia Provinz", "Lokale Flora und Fauna", "Berg"]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "Der Gaza-See ist ein Süßwassersee in der Provinz Gaza, der eine wichtige Wasserquelle für die umliegenden Gemeinden darstellt.",
+      "facts": ["Süßwassersee", "Gaza Provinz", "Wasserquelle"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "Bangue Island ist Teil des Bazaruto-Archipels, bekannt für seine unberührten Strände und als Nistplatz für Meeresschildkröten.",
+      "facts": ["Bazaruto-Archipel", "Unberührte Strände", "Meeresschildkröten"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "Die Wälder von Nampula sind wichtige Ökosysteme, die eine vielfältige Flora und Fauna in der Region beherbergen.",
+      "facts": ["Wälder", "Nampula", "Vielfältige Flora und Fauna"]
+    }
+  ]
+}

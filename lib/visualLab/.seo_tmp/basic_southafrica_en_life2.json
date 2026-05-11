@@ -1,0 +1,44 @@
+{
+  "lang": "en",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "monkey-land-life-v2",
+      "description": "Monkeyland in Plettenberg Bay is the world's first free-roaming multi-species primate sanctuary.",
+      "facts": ["World's first free-roaming sanctuary", "Supports primate rehabilitation", "Diverse primate species", "Educational tours offered"]
+    },
+    {
+      "id": "bird-of-prey-life-v2",
+      "description": "This sanctuary is dedicated to the conservation and rehabilitation of South Africa's diverse bird of prey species.",
+      "facts": ["Focus on raptor rehabilitation", "Public conservation awareness", "Supports biodiversity", "Rescue and release programs"]
+    },
+    {
+      "id": "aquila-safari-life-v2",
+      "description": "Aquila Private Game Reserve offers a malaria-free Big Five safari experience close to Cape Town.",
+      "facts": ["Malaria-free Big Five reserve", "Popular safari destination", "Close to Cape Town", "Focus on wildlife conservation"]
+    },
+    {
+      "id": "butterfly-world-kids-life-v2",
+      "description": "Butterfly World is a tropical garden and zoo in the Winelands, featuring exotic butterflies and small animals.",
+      "facts": ["Features exotic butterflies", "Tropical garden setting", "Family-friendly attraction", "Located in Western Cape"]
+    },
+    {
+      "id": "botanical-garden-jhb-life-v2",
+      "description": "The Johannesburg Botanical Garden is a vast green space known for its specialized plant collections and recreational areas.",
+      "facts": ["Located in Johannesburg", "Diverse plant collections", "Large urban green space", "Popular community venue"]
+    },
+    {
+      "id": "croc-city-life-v2",
+      "description": "Croc City Crocodile and Reptile Park provides an interactive experience with Nile crocodiles and various reptiles.",
+      "facts": ["Interactive reptile experiences", "Home to Nile crocodiles", "Focus on wildlife education", "Safe and supervised environment"]
+    },
+    {
+      "id": "cheetah-sanctuary-life-v2",
+      "description": "This cheetah sanctuary focuses on the protection, rehabilitation, and survival of the vulnerable cheetah population.",
+      "facts": ["Focus on cheetah conservation", "Supports species survival", "Educational visitor programs", "Rehabilitation efforts"]
+    }
+  ]
+}

@@ -23,13 +23,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/unabhaengigkeitsmonument-bujumbura-landmarks-v2.webp",
     description: {
       de: "Das Unabhängigkeitsmonument in Bujumbura erinnert an Burundis Weg in die Staatlichkeit. Es ist ein markanter Punkt im Stadtbild und ein Symbol der nationalen Geschichte.",
-      hu: "A Bujumburában álló Függetlenségi emlékmű Burundi államiság felé vezető útjára emlékeztet. A városkép markáns pontja és a nemzeti történelem jelképe.",
+      hu: "Bujumbura szívében álló emlékmű, amely az 1962-es függetlenné válásnak állít emléket.",
       ro: "Monumentul Independenței din Bujumbura amintește de momentul în care Burundi a devenit stat independent. Este un simbol public al identității naționale și al începutului perioadei moderne.",
       en: "The Independence Monument in Bujumbura marks Burundi's break from colonial rule. It stands as a public symbol of national sovereignty in the capital area."
     },
     facts: {
       de: ["Bujumbura", "Unabhängigkeit", "Stadtsymbol"],
-      hu: ["Bujumbura", "függetlenség", "városi jelkép"],
+      hu: ["A nemzeti szuverenitás szimbóluma", "A városközpont fontos tájékozódási pontja", "Ünnepségek és megemlékezések helyszíne"],
       ro: ["1962", "Bujumbura", "simbol național"],
       en: ["Bujumbura", "independence symbol", "colonial-era break"]
     }
@@ -54,13 +54,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/denkmal-der-einheit-bujumbura-landmarks-v2.webp",
     description: {
       de: "Das Denkmal der Einheit steht in Bujumbura und verweist auf den Gedanken des nationalen Zusammenhalts. Es gehört zu den öffentlich sichtbaren Symbolen der Hauptstadt.",
-      hu: "Az Egység emlékműve Bujumburában áll, és az országos összetartozás gondolatát idézi. A főváros egyik jól látható közterületi szimbóluma.",
+      hu: "A Vugizo-dombon álló emlékmű, amely a nemzeti egység és megbékélés vágyát jelképezi.",
       ro: "Monumentul Unității din Bujumbura exprimă ideea de reconciliere și coeziune națională. Poziția sa vizibilă îl face un reper important în oraș.",
       en: "The Unity Monument in Bujumbura is a public symbol of national cohesion. It stands among the city's key civic markers and reflects the country's political identity."
     },
     facts: {
       de: ["Bujumbura", "Einheit", "öffentliches Denkmal"],
-      hu: ["Bujumbura", "egység", "köztéri emlékmű"],
+      hu: ["Panorámás kilátást nyújt a fővárosra", "A nemzeti megbékélés szimbóluma", "Gyakori diplomáciai protokollhelyszín"],
       ro: ["unitate națională", "pe un deal", "Bujumbura"],
       en: ["Bujumbura", "symbol of unity", "civic monument"]
     }
@@ -86,13 +86,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/prince-louis-rwagasore-stadion-landmarks-v2.webp",
     description: {
       de: "Das Prince-Louis-Rwagasore-Stadion ist ein wichtiges Sportzentrum in Bujumbura. Es trägt den Namen eines zentralen Politikers der Unabhängigkeitszeit.",
-      hu: "A Prince-Louis-Rwagasore Stadion Bujumbura egyik fontos sportközpontja. Nevét az egyik meghatározó függetlenségi politikusról kapta.",
+      hu: "Burundi nemzeti stadionja, amelyet a függetlenségi hős, Prince Louis Rwagasore tiszteletére neveztek el.",
       ro: "Stadionul Prince Louis Rwagasore este una dintre principalele arene sportive din Burundi. Poartă numele unui lider al independenței și găzduiește meciuri și evenimente publice.",
       en: "This stadium in Bujumbura is named after Prince Louis Rwagasore, a key figure in Burundi's independence history. It is used for football and major public events."
     },
     facts: {
       de: ["Fußballstadion", "Bujumbura", "Rwagasore"],
-      hu: ["labdarúgóstadion", "Bujumbura", "Rwagasore"],
+      hu: ["A legnagyobb sportlétesítmény az országban", "Válogatott labdarúgó-mérkőzések otthona", "Fontos politikai gyűlések színhelye"],
       ro: ["fotbal", "Bujumbura", "Rwagasore"],
       en: ["named after Rwagasore", "football venue", "Bujumbura"]
     }
@@ -116,13 +116,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/intwari-stadion-landmarks-v2.webp",
     description: {
       de: "Das Intwari-Stadion gehört zu den großen Sportanlagen der Hauptstadt. Hier finden vor allem Fußballspiele und öffentliche Veranstaltungen statt.",
-      hu: "Az Intwari Stadion a főváros nagy sportlétesítményei közé tartozik. Főként futballmérkőzéseknek és nyilvános eseményeknek ad otthont.",
+      hu: "A fővárosban található stadion, amely fontos helyszíne a nemzeti sportéletnek és atlétikai versenyeknek.",
       ro: "Stadionul Intwari este o arenă modernă din Bujumbura, folosită pentru competiții sportive și evenimente mari. Numele său trimite la ideea de eroism și performanță.",
       en: "Intwari Stadium is one of Bujumbura's main sports grounds. It hosts football matches and other city events."
     },
     facts: {
       de: ["Landesstadion", "Sportveranstaltungen", "Bujumbura"],
-      hu: ["nemzeti stadion", "sportesemények", "Bujumbura"],
+      hu: ["A 'Hősök stadionja' néven is ismert", "Számos sportesemény központja", "Bujumbura modern sportkomplexuma"],
       ro: ["arenă modernă", "sport național", "Bujumbura"],
       en: ["sports ground", "football matches", "Bujumbura"]
     }
@@ -148,13 +148,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/palast-der-nation-bujumbura-landmarks-v2.webp",
     description: {
       de: "Der Palast der Nation ist ein repräsentatives Regierungsgebäude in Bujumbura. Er steht für die staatliche Präsenz im Zentrum der Hauptstadt.",
-      hu: "A Nemzet Palotája egy reprezentatív kormányzati épület Bujumburában. Az állami jelenlétet jelképezi a főváros központjában.",
+      hu: "Burundi elnöki palotája, amely a kormányzati negyedben található és az államhatalom központja.",
       ro: "Palatul Națiunii este sediul oficial al președinției din Burundi. Clădirea reprezintă puterea executivă și centrul deciziilor statului.",
       en: "The Palace of the Nation is an important state building in Bujumbura. It is associated with official ceremonies and national authority."
     },
     facts: {
       de: ["Regierungssitz", "Bujumbura", "Staatsarchitektur"],
-      hu: ["kormányzati épület", "Bujumbura", "állami reprezentáció"],
+      hu: ["Az elnöki hivatal székhelye", "Kormányzati rendezvények helyszíne", "Szigorúan őrzött terület"],
       ro: ["sediu prezidențial", "putere executivă", "Bujumbura"],
       en: ["state building", "official ceremonies", "national authority"]
     }
@@ -179,13 +179,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/zentralmarkt-bujumbura-landmarks-v2.webp",
     description: {
       de: "Der Zentralmarkt von Bujumbura ist einer der wichtigsten Handelsorte der Stadt. Hier bündeln sich Waren, Händler und täglicher Stadtverkehr.",
-      hu: "Bujumbura központi piaca a város egyik legfontosabb kereskedelmi helye. Itt találkoznak az áruk, a kereskedők és a napi városi forgalom.",
+      hu: "Bujumbura egykori nyüzsgő központi piaca, amely történelmi jelentőségű kereskedelmi csomópont volt.",
       ro: "Piața Centrală din Bujumbura a fost mult timp inima comerțului urban. Aici se întâlnesc vânzători, produse de zi cu zi și ritmul comercial al orașului.",
       en: "Bujumbura's central market is the city's main commercial hub. It concentrates retail trade, daily shopping, and a busy flow of people."
     },
     facts: {
       de: ["Handel", "Innenstadt", "lebhaftes Marktgeschehen"],
-      hu: ["kereskedelem", "belváros", "élénk piac"],
+      hu: ["A város legfontosabb gazdasági központja volt", "2013-ban súlyos tűzvész pusztította el", "A helyi közösségi élet egyik szimbóluma"],
       ro: ["comerț urban", "piață centrală", "Bujumbura"],
       en: ["main market", "retail trade", "daily shopping"]
     }
@@ -209,13 +209,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/melchior-ndadaye-flughafen-landmarks-v2.webp",
     description: {
       de: "Der Melchior-Ndadaye-Flughafen ist der wichtigste internationale Flughafen Burundis. Er verbindet die Hauptstadt mit regionalen und internationalen Zielen.",
-      hu: "A Melchior Ndadaye repülőtér Burundi legfontosabb nemzetközi repülőtere. A fővárost regionális és nemzetközi célpontokkal köti össze.",
+      hu: "Burundi egyetlen nemzetközi repülőtere, amely a főváros mellett, a Tanganyika-tó közelében található.",
       ro: "Aeroportul Melchior Ndadaye este principala poartă aeriană a Burundiului. El conectează capitala cu destinații regionale și internaționale.",
       en: "Melchior Ndadaye International Airport is Burundi's main air gateway. It connects Bujumbura with regional and international flights."
     },
     facts: {
       de: ["internationaler Flughafen", "Bujumbura", "Luftverkehr"],
-      hu: ["nemzetközi repülőtér", "Bujumbura", "légi közlekedés"],
+      hu: ["Melchior Ndadaye elnökről nevezték el", "Az ország légi kapuja", "A fővárostól északra fekszik"],
       ro: ["aeroport internațional", "Bujumbura", "nume național"],
       en: ["main airport", "international flights", "Bujumbura"]
     }
@@ -240,13 +240,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/hafen-von-bujumbura-landmarks-v2.webp",
     description: {
       de: "Der Hafen von Bujumbura liegt am Tanganjikasee und ist für den Seehandel zentral. Er verbindet die Stadt mit dem Güterverkehr auf dem Wasser.",
-      hu: "Bujumbura kikötője a Tanganyika-tó partján fekszik, és központi szerepet játszik a tói kereskedelemben. A várost a vízi áruszállítással köti össze.",
+      hu: "Burundi legnagyobb és legfontosabb kikötője a Tanganyika-tónál, az ország vízi kereskedelmének motorja.",
       ro: "Portul din Bujumbura este nodul principal al transportului pe lacul Tanganyika. Prin el circulă o mare parte din comerțul exterior al țării.",
       en: "The port of Bujumbura is the country's main lake harbor on Tanganyika. It handles cargo, trade, and travel along the western shoreline."
     },
     facts: {
       de: ["Seehafen", "Tanganjikasee", "Handel"],
-      hu: ["tengeri kikötő", "Tanganyika-tó", "kereskedelem"],
+      hu: ["Regionális logisztikai csomópont", "Összeköttetés Kongóval és Zambiával", "Ipari és kereskedelmi bázis"],
       ro: ["port pe Tanganyika", "import și export", "nod logistic"],
       en: ["Lake Tanganyika", "cargo port", "western shoreline"]
     }
@@ -271,13 +271,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     }, image: "/poi-images/leuchtturm-bujumbura-landmarks-v2.webp",
     description: {
       de: "Der Leuchtturm von Bujumbura markiert den Uferbereich des Hafens. Er ist ein gut sichtbarer Orientierungspunkt am See.",
-      hu: "A Bujumburai világítótorony a kikötő partvidékét jelöli. Jól látható tájékozódási pont a tó mellett.",
+      hu: "A Tanganyika-tó partján álló világítótorony, amely a hajózást segíti a kikötő közelében.",
       ro: "Farul din Bujumbura marchează zona portuară și istoria navigației pe lacul Tanganyika. Este un reper vizibil pentru malul orașului.",
       en: "The Bujumbura lighthouse helps guide movement near the lakefront and port area. It is a simple but visible navigation point on the shoreline."
     },
     facts: {
       de: ["Hafenbereich", "Orientierungspunkt", "am Ufer"],
-      hu: ["kikötői zóna", "tájékozódási pont", "tópart"],
+      hu: ["Helyi tengerészeti tájékozódási pont", "Festői fekvés a tóparton", "A tavi közlekedés biztonságát szolgálja"],
       ro: ["zonă portuară", "navigație pe lac", "Bujumbura"],
       en: ["lakefront beacon", "navigation aid", "port area"]
     }
@@ -479,13 +479,13 @@ export const poiExtraBurundiLandmarksV2: POI[] = [
     },
     description: {
       de: "Die Kathedrale von Bururi ist ein religiöses Wahrzeichen der Stadt. Sie prägt das Ortsbild und ist ein Bezugspunkt für die lokale Gemeinde.",
-      hu: "Bururi katedrálisa a város vallási jelképei közé tartozik. Meghatározza a település arculatát, és a helyi közösség viszonyítási pontja.",
+      hu: "Dél-Burundi egyik legfontosabb keresztény temploma, amely Bururi városának képét meghatározza.",
       ro: "Catedrala principală din orașul de sud Bururi, un loc important pentru comunitatea locală.",
       en: "The main cathedral in the southern city of Bururi, an important site for the local community."
     },
     facts: {
       de: ["Bururi", "Kirchenbau", "lokales Wahrzeichen"],
-      hu: ["Bururi", "templomépület", "helyi jelkép"],
+      hu: ["Kiemelkedő vallási központ", "A katolikus közösség fontos helyszíne", "Impozáns építészeti megjelenés"],
       ro: ["Situată la altitudine.", "Centrul diecezei."],
       en: ["Located at high altitude.", "Center of the diocese."]
     }, image: "/poi-images/kathedrale-bururi-landmarks-v2.webp"},

@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "description": "A Pic Boby lábánál elterülő vidék drámai hegyi tájat kínál gránitkupolákkal és különleges alpesi növényzettel.",
+      "facts": ["Madagaszkár második legmagasabb csúcsa", "Népszerű túraútvonal az Andringitrában", "Szélsőséges hőmérséklet-ingadozások"]
+    },
+    {
+      "id": "ranomafana-hills-relief-v2",
+      "description": "Ranomafana dombvidéke meredek, sűrű esőerdővel borított lejtőkből áll, amelyek számos vízfolyásnak adnak otthont.",
+      "facts": ["Meredek esőerdei domborzat", "Wassereinzugsgebiet a Namorona-folyó számára", "Bonyolult völgyrendszerek"]
+    }
+  ]
+}

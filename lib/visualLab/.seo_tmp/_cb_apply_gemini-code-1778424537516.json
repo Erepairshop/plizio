@@ -1,0 +1,480 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "peace-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Peace River (Friedensfluss) ist ein etwa 1.923 Kilometer langes, massives Flusssystem, das seinen Ursprung in den kanadischen Rocky Mountains in British Columbia hat und in nordöstlicher Richtung durch die Provinz Alberta fließt, bevor er in den Slave River mündet. Der Fluss speist sich ursprünglich aus dem Finlay River, der als Hauptquellfluss gilt. Er bildet das geografische Zentrum des Peace River Country, einer der fruchtbarsten und am weitesten nördlich gelegenen landwirtschaftlichen Regionen Kanadas, die primär für den massiven Anbau von Weizen und Raps bekannt ist. Der Name des Flusses leitet sich von einem Friedensvertrag ab, der im Jahr 1781 zwischen den indigenen Völkern der Dane-zaa (Beaver) und der Cree geschlossen wurde, woraufhin der Fluss als natürliche Grenze zwischen ihren Territorien diente. Der schottische Entdecker Alexander Mackenzie nutzte den Peace River im Jahr 1792 als Hauptroute für seine historische Überquerung des nordamerikanischen Kontinents. In der modernen Ära wird der Fluss stark für die industrielle Wasserkraftgewinnung genutzt. In British Columbia staut der W. A. C. Bennett-Staudamm den Fluss zum Williston Lake auf, dem flächenmäßig größten künstlichen Stausee Kanadas. Diese massiven Staudammprojekte haben die natürliche Hydrologie des Flusses grundlegend verändert, was weitreichende Auswirkungen auf das flussabwärts gelegene Peace-Athabasca-Delta hat, eines der weltweit größten Binnendeltas. Die Region ist auch reich an konventionellen Erdgas- und Erdölvorkommen.",
+        "hu": "A Peace River (Béke-folyó) egy mintegy 1923 kilométer hosszú, masszív folyórendszer, amely a kanadai Brit Columbia tartományban lévő Sziklás-hegységből ered, és északkeleti irányban folyik át Alberta tartományon, mielőtt a Slave-folyóba torkollna. A folyó eredetileg a Finlay-folyóból táplálkozik, amelyet a fő forrásának tekintenek. Ez alkotja a Peace River Country földrajzi központját, amely Kanada egyik legtermékenyebb és legészakabbra fekvő mezőgazdasági régiója, és elsősorban a hatalmas kiterjedésű búza- és repcetermesztésről ismert. A folyó neve egy 1781-ben a dane-zaa (hód) és a krí (cree) őslakos népek között kötött békeszerződésből származik, amely után a folyó természetes határként szolgált a területeik között. Alexander Mackenzie skót felfedező 1792-ben a Peace Rivert használta fő útvonalként az észak-amerikai kontinens történelmi átkeléséhez. A modern korban a folyót erőteljesen használják ipari vízenergia-termelésre. Brit Columbiában a W. A. C. Bennett-gát a folyót a Williston-tóvá, Kanada legnagyobb felületű mesterséges víztározójává duzzasztja. Ezek a masszív gátépítési projektek alapvetően megváltoztatták a folyó természetes hidrológiáját, ami messzemenő hatással van a folyásirányban lejjebb fekvő Peace-Athabasca-deltára, a világ egyik legnagyobb szárazföldi deltájára. A régió hagyományos földgáz- és kőolajkészletekben is igen gazdag.",
+        "ro": "Peace River (Râul Păcii) este un sistem fluvial masiv de aproximativ 1.923 de kilometri lungime, care își are originea în Munții Stâncoși canadieni din Columbia Britanică și curge în direcție nord-estică prin provincia Alberta înainte de a se vărsa în râul Slave. Râul este alimentat inițial de râul Finlay, care este considerat sursa sa principală. Acesta formează centrul geografic al zonei Peace River Country, una dintre cele mai fertile și mai nordice regiuni agricole din Canada, cunoscută în primul rând pentru cultivarea masivă de grâu și rapiță. Numele râului derivă dintr-un tratat de pace încheiat în anul 1781 între popoarele indigene Dane-zaa (Beaver) și Cree, după care râul a servit drept graniță naturală între teritoriile lor. Exploratorul scoțian Alexander Mackenzie a folosit Peace River în 1792 ca rută principală pentru traversarea istorică a continentului nord-american. În era modernă, râul este puternic utilizat pentru generarea industrială de energie hidroelectrică. În Columbia Britanică, barajul W. A. C. Bennett îndiguiește râul pentru a forma Lacul Williston, cel mai mare rezervor artificial din Canada ca suprafață. Aceste proiecte masive de baraje au modificat fundamental hidrologia naturală a râului, având efecte profunde asupra Deltei Peace-Athabasca situate în aval, una dintre cele mai mari delte interioare din lume. Regiunea este, de asemenea, bogată în zăcăminte convenționale de gaze naturale și petrol.",
+        "en": "The Peace River is an immense, 1,923-kilometer-long river system that originates in the rugged Canadian Rocky Mountains of British Columbia and flows in a northeastern direction across the province of Alberta before ultimately discharging into the Slave River. The river's headwaters are formally traced to the Finlay River. It forms the geographical centerpiece of the Peace River Country, which stands as one of Canada's most highly fertile and northernmost agricultural regions, renowned primarily for the massive cultivation of wheat and canola. The English name of the river derives directly from a formal peace treaty brokered in 1781 between the indigenous Dane-zaa (Beaver) and Cree nations, after which the waterway served as an established natural boundary dividing their respective territories. The Scottish explorer Alexander Mackenzie famously utilized the Peace River in 1792 as his primary navigation route for the first historic crossing of the North American continent. In the modern industrial era, the river is heavily harnessed for massive hydroelectric power generation. In British Columbia, the W. A. C. Bennett Dam obstructs the river to form Williston Lake, the largest artificial reservoir in Canada by surface area. These gigantic damming operations have fundamentally and permanently altered the natural hydrology of the river system, producing far-reaching ecological impacts on the downstream Peace-Athabasca Delta, one of the largest inland freshwater deltas in the world. The basin is also rich in natural gas and petroleum reserves."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Flusssystem erreicht eine geschätzte Gesamtlänge von 1.923 Kilometern.",
+          "Sein Name erinnert an einen Friedensvertrag von 1781 zwischen den Cree und Dane-zaa.",
+          "Der schottische Entdecker Alexander Mackenzie reiste 1792 über diesen Fluss.",
+          "Das Peace River Country ist eine der nördlichsten Agrarregionen Kanadas.",
+          "Der W. A. C. Bennett-Staudamm erzeugt aus dem Wasser des Flusses massive Wasserkraft.",
+          "Der aufgestaute Williston Lake ist der flächenmäßig größte künstliche Stausee Kanadas.",
+          "Der Fluss versorgt das riesige Binnendelta Peace-Athabasca mit wichtigem Süßwasser."
+        ],
+        "hu": [
+          "A folyórendszer teljes hossza eléri a becsült 1923 kilométert.",
+          "Neve egy 1781-ben a krí és dane-zaa őslakosok között kötött békére utal.",
+          "Alexander Mackenzie skót felfedező 1792-ben utazott ezen a folyón.",
+          "A Peace River Country Kanada egyik legészakabbra fekvő fontos mezőgazdasági régiója.",
+          "A W. A. C. Bennett-gát a folyó vizéből masszív mennyiségű vízenergiát állít elő.",
+          "A felduzzasztott Williston-tó Kanada legnagyobb felületű mesterséges víztározója.",
+          "A folyó létfontosságú édesvízzel látja el a hatalmas Peace-Athabasca szárazföldi deltát."
+        ],
+        "ro": [
+          "Sistemul fluvial atinge o lungime totală estimată la 1.923 de kilometri.",
+          "Numele său comemorează un tratat de pace din 1781 între indigenii Cree și Dane-zaa.",
+          "Exploratorul scoțian Alexander Mackenzie a călătorit pe acest râu în 1792.",
+          "Peace River Country este una dintre cele mai nordice regiuni agricole din Canada.",
+          "Barajul W. A. C. Bennett generează hidroenergie masivă din apele râului.",
+          "Lacul de acumulare Williston este cel mai mare rezervor artificial din Canada ca suprafață.",
+          "Râul furnizează apă dulce esențială uriașei delte interioare Peace-Athabasca."
+        ],
+        "en": [
+          "The complete river system reaches an estimated total length of 1,923 kilometers.",
+          "Its name specifically commemorates a 1781 peace treaty between the Cree and Dane-zaa.",
+          "The Scottish explorer Alexander Mackenzie actively navigated this river route in 1792.",
+          "The Peace River Country ranks as one of the northernmost fertile agricultural regions in Canada.",
+          "The W. A. C. Bennett Dam generates massive industrial hydroelectric power from the river.",
+          "The resulting Williston Lake is the absolute largest artificial reservoir in Canada by surface area.",
+          "The river system supplies critically important freshwater to the massive Peace-Athabasca inland delta."
+        ]
+      }
+    },
+    {
+      "id": "lake-athabasca-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Lake Athabasca (Athabascasee) liegt im nordwestlichen Teil der Provinz Saskatchewan und reicht in seinem westlichen Drittel bis in den nordöstlichen Zipfel von Alberta. Mit einer massiven Wasserfläche von 7.850 Quadratkilometern ist er der achtgrößte See Kanadas und erreicht eine beachtliche Maximaltiefe von 124 Metern. Der See wird maßgeblich durch den Athabasca River gespeist und entwässert nach Norden über den Slave River in Richtung des Großen Sklavensees. Eines der absolut bemerkenswertesten geografischen Merkmale der Region befindet sich am südlichen Ufer in Saskatchewan: die Athabasca Sand Dunes. Dieses 1992 unter Schutz gestellte Gebiet bildet das größte aktive Sanddünenfeld der Welt, das sich nördlich des 58. Breitengrads befindet, wobei einige Dünenrücken bis zu 30 Meter hoch in die Luft ragen. Die Küstenlinien des Sees sind historisch eng mit der europäischen Erschließung Kanadas verbunden. Im Jahr 1788 wurde Fort Chipewyan am westlichen Ende des Sees gegründet; es ist die älteste europäische Siedlung in der Provinz Alberta und diente als ein zentraler logistischer Knotenpunkt für den lukrativen nordamerikanischen Pelzhandel. Die kalten, sauerstoffreichen Gewässer beherbergen große Populationen an Seeforellen (Lake Trout), Glasaugenbarschen und Hechten, wobei hier 1961 eine Weltrekord-Seeforelle mit einem Gewicht von 46,3 Kilogramm gefangen wurde. Mitte des 20. Jahrhunderts erlebte das Nordufer (bei Uranium City) einen massiven wirtschaftlichen Boom durch den intensiven Bergbau von Uran und Gold.",
+        "hu": "Az Athabasca-tó (Lake Athabasca) Saskatchewan tartomány északnyugati részén fekszik, nyugati harmada pedig átnyúlik Alberta északkeleti csücskébe. A maga hatalmas, 7850 négyzetkilométeres vízfelületével Kanada nyolcadik legnagyobb tava, maximális mélysége pedig eléri a figyelemre méltó 124 métert. A tavat jelentős részben az Athabasca-folyó táplálja, vize pedig észak felé, a Slave-folyón keresztül a Nagy-Rabszolga-tó irányába ürül. A régió egyik abszolút legfigyelemre méltóbb földrajzi képződménye a déli parton, Saskatchewan területén található: az Athabasca homokdűnék (Athabasca Sand Dunes). Ez az 1992-ben védetté nyilvánított terület a világ legnagyobb aktív homokdűnemezője, amely az 58. szélességi foktól északra helyezkedik el, egyes dűnegerincek magassága pedig a 30 métert is eléri. A tó partvidéke történelmileg szorosan összefonódik Kanada európai feltárásával. 1788-ban a tó nyugati végénél alapították meg Fort Chipewyant; ez Alberta tartomány legrégebbi európai települése, amely a jövedelmező észak-amerikai szőrmekereskedelem központi logisztikai csomópontjaként szolgált. A hideg, oxigénben gazdag vizek nagy populációknak adnak otthont tavi pisztrángból, süllőből és csukából; 1961-ben itt fogtak ki egy 46,3 kilogrammos, világrekorder tavi pisztrángot. A 20. század közepén az északi part (Uranium Citynél) hatalmas gazdasági fellendülést élt át az intenzív urán- és aranybányászat révén.",
+        "ro": "Lacul Athabasca (Lake Athabasca) este situat în partea de nord-vest a provinciei Saskatchewan, treimea sa vestică extinzându-se în colțul de nord-est al provinciei Alberta. Cu o suprafață masivă a apei de 7.850 de kilometri pătrați, este al optulea lac ca mărime din Canada și atinge o adâncime maximă considerabilă de 124 de metri. Lacul este alimentat în principal de râul Athabasca și se scurge spre nord, prin râul Slave, spre Marele Lac al Sclavilor. Una dintre cele mai remarcabile caracteristici geografice ale regiunii este situată pe malul sudic din Saskatchewan: Dunele de Nisip Athabasca. Această zonă, pusă sub protecție în 1992, formează cel mai mare câmp activ de dune de nisip din lume situat la nord de paralela 58, unele creste de dune ridicându-se până la 30 de metri în aer. Liniile de coastă ale lacului sunt strâns legate din punct de vedere istoric de explorarea europeană a Canadei. În 1788, Fort Chipewyan a fost fondat la capătul vestic al lacului; este cea mai veche așezare europeană din provincia Alberta și a servit ca un nod logistic central pentru profitabilul comerț nord-american cu blănuri. Apele reci și bogate în oxigen găzduiesc populații mari de păstrăv de lac (Lake Trout), șalău și știucă, un păstrăv de lac cu o greutate record mondială de 46,3 kilograme fiind prins aici în 1961. La mijlocul secolului al XX-lea, malul nordic (lângă Uranium City) a cunoscut un boom economic masiv datorită mineritului intens de uraniu și aur.",
+        "en": "Lake Athabasca is located primarily in the northwestern corner of the province of Saskatchewan, with its westernmost third extending directly into the northeastern tip of Alberta. Covering a massive surface area of precisely 7,850 square kilometers, it holds the rank of the eighth-largest lake in Canada and reaches a significant maximum depth of 124 meters. The lake basin is heavily fed by the massive Athabasca River and drains northward via the Slave River system towards Great Slave Lake. One of the absolute most striking geographical features in the entire region is located along the southern shore in Saskatchewan: the Athabasca Sand Dunes. Designated as a protected provincial park in 1992, this unique area forms the largest active sand dune field in the world located north of the 58th parallel, with some towering dune ridges reaching up to 30 meters in height. The shorelines of the lake are historically deeply connected to the European exploration of Canada. In 1788, Fort Chipewyan was established on the western extremity of the lake; it stands as the oldest European settlement in the province of Alberta and served as a highly critical logistical hub for the lucrative North American fur trade. The freezing, heavily oxygenated waters support robust populations of lake trout, walleye, and northern pike, and remarkably yielded a world-record 46.3-kilogram lake trout in 1961. During the mid-20th century, the northern shore (near Uranium City) experienced a massive economic boom driven by intense uranium and gold mining operations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der See umfasst eine gewaltige Wasserfläche von rund 7.850 Quadratkilometern.",
+          "Das Südufer beherbergt das am weitesten nördlich gelegene aktive Sanddünenfeld der Welt.",
+          "Die Sanddünen können eine beachtliche Höhe von bis zu 30 Metern erreichen.",
+          "Fort Chipewyan, am Westufer gegründet, ist die älteste europäische Siedlung Albertas.",
+          "In den 1950er Jahren gab es am Nordufer einen massiven industriellen Uranbergbau-Boom.",
+          "Im Jahr 1961 wurde in dem See eine Weltrekord-Seeforelle mit 46,3 kg gefangen.",
+          "Das Wasser fließt über den Slave River nach Norden in den Großen Sklavensee ab."
+        ],
+        "hu": [
+          "A tó vízfelülete egy masszív, mintegy 7850 négyzetkilométeres területet foglal el.",
+          "A déli part ad otthont a világ legészakabbra fekvő aktív homokdűnemezőjének.",
+          "A szél által formált homokdűnék figyelemre méltó, akár 30 méteres magasságot is elérhetnek.",
+          "A nyugati parton alapított Fort Chipewyan Alberta tartomány legrégebbi európai települése.",
+          "Az 1950-es években az északi parton masszív ipari uránbányászati fellendülés zajlott.",
+          "1961-ben a tó vizéből egy 46,3 kg-os, világrekorder tavi pisztrángot fogtak ki.",
+          "A tó vize a Slave-folyón keresztül északi irányba, a Nagy-Rabszolga-tóba áramlik."
+        ],
+        "ro": [
+          "Lacul acoperă o suprafață masivă a apei de aproximativ 7.850 de kilometri pătrați.",
+          "Malul sudic găzduiește cel mai nordic câmp activ de dune de nisip din lume.",
+          "Dunele de nisip pot atinge o înălțime considerabilă, de până la 30 de metri.",
+          "Fort Chipewyan, fondat pe malul vestic, este cea mai veche așezare europeană din Alberta.",
+          "În anii 1950, pe malul nordic a existat un boom masiv de minerit industrial de uraniu.",
+          "În 1961, în lac a fost prins un păstrăv de lac cu o greutate record mondială de 46,3 kg.",
+          "Apa se scurge spre nord, prin râul Slave, în Marele Lac al Sclavilor."
+        ],
+        "en": [
+          "The massive lake covers a total physical surface area of precisely 7,850 square kilometers.",
+          "The southern shore hosts the northernmost active sand dune field on the entire planet.",
+          "The wind-sculpted sand dunes can reach towering heights of up to 30 meters.",
+          "Fort Chipewyan, established on the western shore, is Alberta's oldest European settlement.",
+          "During the 1950s, the northern shoreline experienced a massive industrial uranium mining boom.",
+          "In 1961, the lake incredibly yielded a world-record lake trout weighing 46.3 kilograms.",
+          "The lake's water physically drains northward via the Slave River into Great Slave Lake."
+        ]
+      }
+    },
+    {
+      "id": "cape-breton-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Cape Breton Island ist eine geografisch stark abgrenzte Insel an der rauen Atlantikküste Nordamerikas und bildet den nordöstlichen Teil der kanadischen Provinz Nova Scotia. Die Insel macht etwa 18 Prozent der Gesamtfläche der Provinz aus und wird durch die extrem schmale Straße von Canso (Strait of Canso) vom Festland getrennt; seit 1955 ist sie durch einen massiven, aus Stein geschütteten Damm, den Canso Causeway, physisch mit dem Festland verbunden. Das geografische Herzstück der Insel ist der Bras d'Or Lake, ein gigantisches, tief ins Landesinnere reichendes Ästuar mit Brackwasser, das weltweit für seine hervorragenden Segelbedingungen bekannt ist. Der nördliche Teil der Insel wird von den zerklüfteten Cape Breton Highlands dominiert, einer Hochebene, die dicht mit den Bäumen des Akadischen Waldes bewachsen ist. Durch dieses raue Terrain führt der berühmte Cabot Trail, eine der spektakulärsten Küstenstraßen der Welt, die tiefe Täler und hohe Klippen miteinander verbindet. Kulturell ist die Insel extrem reich: Sie ist das angestammte Territorium der Mi'kmaq First Nations und weist historische akadisch-französische Siedlungsgebiete auf. Vor allem aber ist Cape Breton berühmt für seine tief verwurzelte gälische Kultur, die durch schottische Einwanderer im 18. und 19. Jahrhundert etabliert wurde, was sich bis heute in der traditionellen keltischen Musik (Fiddle-Spiel) und Sprache widerspiegelt. Wirtschaftlich stützte sich die Insel jahrzehntelang auf den massiven Kohlebergbau und die Stahlproduktion in der Stadt Sydney, hat sich aber heute erfolgreich auf den internationalen Ökotourismus fokussiert.",
+        "hu": "A Cape Breton-sziget (Cape Breton Island) egy földrajzilag határozottan elkülönülő sziget Észak-Amerika zord atlanti partvidékén, amely a kanadai Új-Skócia tartomány északkeleti részét alkotja. A sziget a tartomány teljes területének mintegy 18 százalékát teszi ki, és a szárazföldtől a rendkívül keskeny Canso-szoros (Strait of Canso) választja el; 1955 óta egy masszív, kőből épült gát, a Canso Causeway köti össze fizikailag a kontinenssel. A sziget földrajzi magja a Bras d'Or-tó, egy gigantikus, mélyen a szárazföldbe nyúló brakkvizű tölcsértorkolat (esztuárium), amely világszerte ismert kiváló vitorlázási feltételeiről. A sziget északi részét a zord Cape Breton-fennsík (Cape Breton Highlands) uralja, amelyet sűrűn borít az akádiai erdő faállománya. Ezen a vad terepen halad keresztül a híres Cabot Trail, a világ egyik leglátványosabb tengerparti panorámaútja, amely mély völgyeket és magas sziklákat köt össze. Kulturális szempontból a sziget rendkívül gazdag: ez a mi'kmaq őslakosok ősi területe, és történelmi akádiai-francia településekkel is rendelkezik. Cape Breton azonban leginkább a mélyen gyökerező gael kultúrájáról híres, amelyet a 18. és 19. században érkező skót bevándorlók honosítottak meg, és amely a mai napig tükröződik a hagyományos kelta zenében (hegedűjáték) és nyelvben. Gazdaságilag a sziget évtizedeken át a masszív szénbányászatra és a Sydney városában zajló acélgyártásra támaszkodott, napjainkra azonban sikeresen fókuszál a nemzetközi ökoturizmusra.",
+        "ro": "Insula Cape Breton este o insulă delimitată clar din punct de vedere geografic pe coasta atlantică aspră a Americii de Nord și formează partea de nord-est a provinciei canadiene Nova Scoția. Insula reprezintă aproximativ 18% din suprafața totală a provinciei și este separată de continent prin extrem de îngusta Strâmtoare Canso (Strait of Canso); din 1955 a fost legată fizic de continent printr-un baraj masiv de piatră, Canso Causeway. Nucleul geografic al insulei este Lacul Bras d'Or, un estuar gigantic cu apă salmastră care pătrunde adânc în interiorul uscatului, fiind cunoscut la nivel mondial pentru condițiile sale excelente de navigație. Partea de nord a insulei este dominată de accidentații Munți Cape Breton Highlands, un platou dens acoperit de copacii Pădurii Acadiene. Renumitul Cabot Trail, una dintre cele mai spectaculoase rute de coastă din lume, traversează acest teren accidentat, conectând văi adânci și stânci înalte. Din punct de vedere cultural, insula este extrem de bogată: este teritoriul ancestral al Primelor Națiuni Mi'kmaq și prezintă așezări istorice acadiano-franceze. Mai presus de toate, Cape Breton este faimoasă pentru cultura sa gaelică adânc înrădăcinată, stabilită de imigranții scoțieni în secolele al XVIII-lea și al XIX-lea, care se reflectă și astăzi în muzica tradițională celtică (cântatul la vioară) și în limbă. Din punct de vedere economic, insula s-a bazat zeci de ani pe mineritul masiv al cărbunelui și producția de oțel în orașul Sydney, dar astăzi s-a concentrat cu succes pe ecoturismul internațional.",
+        "en": "Cape Breton Island is a highly distinct geographical island located on the rugged Atlantic coast of North America, comprising the northeastern portion of the Canadian province of Nova Scotia. The island accounts for approximately 18 percent of the province's total physical land area and is naturally separated from the mainland by the extremely narrow Strait of Canso; however, since 1955, it has been physically connected to the continent by a massive, artificial rock-fill causeway known as the Canso Causeway. The geographical heart of the island is the Bras d'Or Lake, a gigantic, deeply indented inland brackish estuary that is globally renowned for its exceptional sailing conditions. The northern segment of the island is massively dominated by the rugged Cape Breton Highlands, a high elevation plateau densely carpeted by the Acadian forest. Winding directly through this harsh terrain is the famous Cabot Trail, a highly spectacular, world-renowned coastal highway connecting deep river valleys and towering ocean cliffs. Culturally, the island is extremely rich: it serves as the ancestral unceded territory of the Mi'kmaq First Nations and holds significant historic Acadian-French settlement regions. Most prominently, Cape Breton is globally famous for its deeply rooted Gaelic culture, established by waves of Scottish immigrants during the 18th and 19th centuries, which is strongly preserved today in traditional Celtic fiddle music and language. Economically, the island relied heavily for decades on massive underground coal mining and industrial steel production in the city of Sydney, but has successfully pivoted toward international ecotourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Insel macht rund 18 Prozent der gesamten Landfläche von Nova Scotia aus.",
+          "Der Canso Causeway, ein künstlicher Damm, verbindet die Insel seit 1955 mit dem Festland.",
+          "Der Bras d'Or Lake im Zentrum ist tatsächlich ein riesiges Brackwasser-Ästuar.",
+          "Der berühmte Cabot Trail ist eine spektakuläre und kurvenreiche Küstenstraße.",
+          "Schottische Einwanderer etablierten hier eine tief verwurzelte, keltische Gälisch-Kultur.",
+          "Die Stadt Sydney war jahrzehntelang ein industrielles Zentrum für Kohlebergbau und Stahl.",
+          "Die Cape Breton Highlands bestehen aus einem von Schluchten durchzogenen, dichten Waldplateau."
+        ],
+        "hu": [
+          "A sziget Új-Skócia tartomány teljes földterületének körülbelül 18 százalékát teszi ki.",
+          "A Canso Causeway nevű mesterséges gát 1955 óta köti össze a szigetet a szárazfölddel.",
+          "A sziget közepén található Bras d'Or-tó valójában egy gigantikus brakkvizű tölcsértorkolat.",
+          "A híres Cabot Trail egy lenyűgöző panorámát nyújtó, kanyargós tengerparti útvonal.",
+          "A skót bevándorlók egy mélyen gyökerező, kelta gael kultúrát honosítottak meg itt.",
+          "Sydney városa évtizedeken keresztül a szénbányászat és acélgyártás ipari központja volt.",
+          "A Cape Breton-fennsík egy mély szurdokokkal szabdalt, sűrű erdővel borított fennsík."
+        ],
+        "ro": [
+          "Insula reprezintă aproximativ 18% din suprafața totală a provinciei Nova Scoția.",
+          "Canso Causeway, un baraj artificial, leagă insula de continent din 1955.",
+          "Lacul Bras d'Or din centru este de fapt un imens estuar cu apă salmastră.",
+          "Faimosul Cabot Trail este o rută de coastă spectaculoasă și plină de curbe.",
+          "Imigranții scoțieni au stabilit aici o cultură gaelică celtică adânc înrădăcinată.",
+          "Orașul Sydney a fost un centru industrial pentru mineritul cărbunelui și oțel timp de decenii.",
+          "Cape Breton Highlands constă dintr-un platou dens împădurit intersectat de chei adânci."
+        ],
+        "en": [
+          "The island physically accounts for approximately 18 percent of Nova Scotia's total land area.",
+          "The massive, artificial Canso Causeway has securely linked the island to the mainland since 1955.",
+          "The central Bras d'Or Lake is geographically classified as a gigantic brackish estuary.",
+          "The famous Cabot Trail operates as a highly spectacular, twisting coastal scenic highway.",
+          "Scottish immigrants established a deeply rooted, vibrant Celtic Gaelic culture on the island.",
+          "For decades, the city of Sydney operated as a massive industrial center for coal mining and steel.",
+          "The Cape Breton Highlands consist of a heavily forested plateau deeply intersected by river gorges."
+        ]
+      }
+    },
+    {
+      "id": "manitoulin-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Manitoulin Island, gelegen in den tiefblauen Gewässern des Huronsees in der kanadischen Provinz Ontario, hält den globalen Rekord als die flächenmäßig größte Süßwasserinsel der Erde. Mit einer massiven Landfläche von 2.766 Quadratkilometern ist die Insel geografisch so groß, dass sie über 100 eigene Binnenseen beherbergt. Der Lake Manitou, der größte dieser Seen, ist bemerkenswerterweise der größte See in einem See auf einer Insel weltweit und enthält wiederum eigene kleine Eilande. Die Topografie von Manitoulin Island ist stark durch ihre Zugehörigkeit zur Niagaraschichtstufe (Niagara Escarpment) geprägt, einem gigantischen Kalksteinrücken, der raue, hoch aufragende Klippen und seltene Alvare – offene Kalksteinpflaster mit einzigartiger, trockenresistenter Vegetation – formt. Der Name „Manitoulin“ stammt aus der indigenen Sprache der Anishinaabe und bedeutet „Insel des Geistes“ (Spirit Island), was die tiefe spirituelle Bedeutung des Ortes unterstreicht. Die Insel ist Heimat einer signifikanten indigenen Bevölkerung, die sich aus Gemeinschaften der Ojibwe, Odawa und Potawatomi zusammensetzt, welche gemeinsam als „Council of Three Fires“ bekannt sind. Mehrere dieser First-Nations-Gemeinschaften leben auf sogenannten „unceded territories“ (nicht abgetretenen Gebieten), was bedeutet, dass sie ihr Land niemals in einem formalen Vertrag an die europäische Krone abgegeben haben. Landwirtschaft, insbesondere die Schafzucht, sowie der saisonale Sommertourismus, der Angler und Naturliebhaber anzieht, bilden das absolute Rückgrat der lokalen Wirtschaft der Insel. Die Insel ist vom Festland im Norden über eine schmale Brücke bei Little Current erreichbar.",
+        "hu": "A kanadai Ontario tartományban, a Huron-tó mélykék vizében fekvő Manitoulin-sziget tartja a világ legnagyobb területű édesvízi szigetének globális rekordját. Masszív, 2766 négyzetkilométeres szárazföldi kiterjedésével a sziget földrajzilag olyan hatalmas, hogy több mint 100 saját beltavi tavat foglal magába. A Lake Manitou, e tavak közül a legnagyobb, figyelemre méltó módon a világ legnagyobb „tó a tóban egy szigeten” képződménye, amely ráadásul saját kis szigetekkel is rendelkezik. A Manitoulin-sziget topográfiáját erősen meghatározza a Niagara-lépcsőhöz (Niagara Escarpment) való tartozása, amely egy gigantikus mészkőgerinc. Ez zord, magasba törő sziklafalakat és ritka alvarokat – nyílt, egyedi, szárazságtűrő növényzettel rendelkező mészkőplatókat – formál. A „Manitoulin” név az anishinaabe őslakos nyelvből származik, és azt jelenti: „A Szellem Szigete” (Spirit Island), ami rávilágít a hely mély spirituális jelentőségére. A sziget jelentős őslakos népességnek ad otthont, amely az ojibwe, odawa és potawatomi közösségekből tevődik össze; őket együttesen a „Három Tűz Tanácsaként” (Council of Three Fires) ismerik. E First Nations közösségek közül több úgynevezett „unceded territories” (át nem adott területek) régiókban él, ami azt jelenti, hogy földjüket soha nem adták át formális szerződésben az európai koronának. A mezőgazdaság, különösen a juhtenyésztés, valamint a horgászokat és természetbarátokat vonzó nyári szezonális turizmus képezi a sziget helyi gazdaságának abszolút gerincét.",
+        "ro": "Insula Manitoulin, situată în apele de un albastru intens ale Lacului Huron din provincia canadiană Ontario, deține recordul global de cea mai mare insulă de apă dulce de pe Pământ ca suprafață. Cu o suprafață de uscat masivă de 2.766 de kilometri pătrați, insula este atât de mare din punct de vedere geografic, încât găzduiește peste 100 de lacuri interioare proprii. Lacul Manitou, cel mai mare dintre aceste lacuri, este, în mod remarcabil, cel mai mare lac dintr-un lac de pe o insulă din lume și conține, la rândul său, propriile mici insulițe. Topografia Insulei Manitoulin este puternic modelată de apartenența sa la Escarpamentul Niagara, o creastă gigantică de calcar care formează stânci aspre, înalte și alvare rare – platouri deschise de calcar cu vegetație unică, rezistentă la secetă. Numele „Manitoulin” provine din limba indigenă Anishinaabe și înseamnă „Insula Spiritului” (Spirit Island), ceea ce subliniază semnificația spirituală profundă a locului. Insula găzduiește o populație indigenă semnificativă, compusă din comunități Ojibwe, Odawa și Potawatomi, cunoscute colectiv sub numele de „Consiliul celor Trei Focuri” (Council of Three Fires). Mai multe dintre aceste comunități ale Primelor Națiuni trăiesc pe așa-numitele „teritorii necedate” (unceded territories), ceea ce înseamnă că nu au cedat niciodată pământul lor Coroanei Europene printr-un tratat formal. Agricultura, în special creșterea oilor, precum și turismul de vară sezonier, care atrage pescari și iubitori de natură, formează coloana vertebrală absolută a economiei locale a insulei.",
+        "en": "Manitoulin Island, situated within the deep blue waters of Lake Huron in the Canadian province of Ontario, holds the absolute global record as the largest freshwater lake island on Earth by surface area. Covering a massive landmass of exactly 2,766 square kilometers, the island is geographically so immense that it physically contains over 100 of its own inland lakes. Lake Manitou, the largest of these internal bodies of water, remarkably ranks as the largest \"lake within a lake on an island\" globally, and even features its own internal islets. The island's rough topography is heavily defined by its geological inclusion in the massive Niagara Escarpment, a gigantic limestone ridge that forms sheer, towering cliffs and rare alvar ecosystems—flat, open expanses of exposed limestone pavement featuring highly specialized drought-resistant vegetation. The name \"Manitoulin\" translates directly from the indigenous Anishinaabe language as \"Spirit Island,\" heavily underscoring the deep spiritual significance of the territory. The island is home to a massive, prominent indigenous population consisting of Ojibwe, Odawa, and Potawatomi communities, collectively recognized as the \"Council of Three Fires.\" Several of these First Nation bands reside on strictly unceded territories, meaning their ancestral lands were never legally surrendered to the European Crown through formal treaty. Agriculture, notably large-scale sheep farming, alongside intense seasonal summer tourism drawing anglers and nature lovers, form the absolute backbone of the local island economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sie hält den Rekord als die absolut größte Süßwasserinsel der Erde.",
+          "Die Inselfläche von 2.766 Quadratkilometern beherbergt über 100 eigene Binnenseen.",
+          "Der Lake Manitou ist der weltweit größte See in einem See auf einer Insel.",
+          "Geologisch ist die Insel Teil der massiven, steil aufragenden Niagaraschichtstufe.",
+          "Das Wort Manitoulin stammt von den Anishinaabe und bedeutet 'Insel des Geistes'.",
+          "Auf der Insel liegen mehrere Ländereien, die nie per Vertrag abgetreten wurden.",
+          "Das raue Alvar-Ökosystem besteht aus flachem, unbewaldetem Kalksteinpflaster."
+        ],
+        "hu": [
+          "A sziget a Föld legnagyobb kiterjedésű, édesvízi tóban fekvő szigeteként tartja a világrekordot.",
+          "A 2766 négyzetkilométeres területű szigeten több mint 100 saját beltavi tó található.",
+          "A Lake Manitou globális viszonylatban is a legnagyobb „tó a tóban egy szigeten” képződmény.",
+          "Geológiai szempontból a sziget a masszív és meredek Niagara-lépcső része.",
+          "A Manitoulin szó az anishinaabe őslakosoktól származik, jelentése 'A Szellem Szigete'.",
+          "A szigeten számos olyan földterület található, amelyet soha nem adtak át szerződésben.",
+          "A zord alvar ökoszisztéma lapos, fátlan mészkőplatókból áll, egyedi növényzettel."
+        ],
+        "ro": [
+          "Deține recordul absolut ca fiind cea mai mare insulă de apă dulce de pe Pământ.",
+          "Suprafața insulei de 2.766 de kilometri pătrați găzduiește peste 100 de lacuri interioare proprii.",
+          "Lacul Manitou este cel mai mare lac dintr-un lac de pe o insulă din lume.",
+          "Din punct de vedere geologic, insula face parte din masivul Escarpament Niagara.",
+          "Cuvântul Manitoulin provine de la Anishinaabe și înseamnă „Insula Spiritului”.",
+          "Pe insulă există mai multe teritorii care nu au fost niciodată cedate prin tratat.",
+          "Ecosistemul aspru alvar este format din platouri de calcar plate, neîmpădurite."
+        ],
+        "en": [
+          "It holds the absolute global record as the largest freshwater lake island on Earth.",
+          "The 2,766-square-kilometer island encompasses over 100 of its own distinct inland lakes.",
+          "Lake Manitou holds the title of the largest 'lake within a lake on an island' in the world.",
+          "Geologically, the entire island forms a highly visible segment of the massive Niagara Escarpment.",
+          "The English name Manitoulin derives directly from the Anishinaabe term for 'Spirit Island'.",
+          "Several large indigenous territories on the island have never been formally ceded via treaty.",
+          "The rare alvar ecosystem consists of flat, totally unwooded expanses of exposed limestone pavement."
+        ]
+      }
+    },
+    {
+      "id": "yukon-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Yukon River ist einer der massivsten und historisch faszinierendsten Flüsse Nordamerikas, der über eine gewaltige Länge von rund 3.190 Kilometern durch die kanadischen Provinzen British Columbia und das Yukon-Territorium fließt, bevor er den US-Bundesstaat Alaska durchquert und in das Beringmeer mündet. Die eigentliche Hauptquelle des Flusses ist der gigantische Llewellyn-Gletscher am südlichen Ende des Atlin Lake in British Columbia. Das Flusssystem gewann am Ende des 19. Jahrhunderts während des legendären Klondike-Goldrausches (1896–1899) immense globale Bedeutung. In dieser Zeit diente der Yukon River als die absolut kritische Transportader, auf der Zehntausende von Goldsuchern mit primitiven Flößen und später mit massiven Schaufelraddampfern (Sternwheelern) in Richtung der Goldfelder bei Dawson City navigierten. Zahlreiche verlassene Schaufelraddampfer rosten bis heute als historische Relikte an seinen Ufern. Biologisch ist der Yukon River für eine der längsten und ausdauerndsten Lachswanderungen (Salmon Run) der Erde berühmt. Der Königslachs (Chinook) schwimmt teilweise mehr als 3.000 Kilometer gegen die starke Strömung vom Ozean flussaufwärts bis zu seinen tief im Landesinneren gelegenen Laichplätzen in Kanada. Die unberührten, dicht bewaldeten Ufer des Flusses werden primär von borealen Schwarzfichtenwäldern dominiert und bieten kritischen Lebensraum für massive Populationen von Grizzlybären, Karibus und Wölfen. Der Name \"Yukon\" leitet sich von dem Gwich'in-Wort \"Yu-kun-ah\" ab, was treffend \"Großer Fluss\" bedeutet.",
+        "hu": "A Yukon-folyó Észak-Amerika egyik legmasszívabb és történelmileg leglenyűgözőbb folyója, amely mintegy 3190 kilométeres, óriási hosszúságban folyik át a kanadai Brit Columbia és Yukon tartományokon, mielőtt átszelné az amerikai Alaszka államot, és a Bering-tengerbe torkollna. A folyó tényleges fő forrása a gigantikus Llewellyn-gleccser a Brit Columbia-i Atlin-tó déli végén. A folyórendszer a 19. század végén, a legendás klondike-i aranyláz (1896–1899) idején tett szert hatalmas globális jelentőségre. Ebben az időszakban a Yukon-folyó abszolút kritikus szállítási artériaként szolgált, amelyen aranyásók tízezrei navigáltak primitív tutajokkal, később pedig masszív lapátkerekes gőzhajókkal (sternwheelers) a Dawson City melletti aranymezők felé. Számos elhagyatott lapátkerekes gőzhajó ma is ott rozsdásodik történelmi relikviaként a partjain. Biológiai szempontból a Yukon-folyó a Föld egyik leghosszabb és legkitartóbb lazacvonulásáról (Salmon Run) híres. A királylazac (Chinook) egyes esetekben több mint 3000 kilométert úszik az óceánból felfelé az erős áramlatokkal szemben, egészen a mélyen a kanadai szárazföld belsejében található ívóhelyekig. A folyó érintetlen, sűrűn erdősült partjait elsősorban boreális fekete lucfenyőerdők uralják, amelyek kritikus élőhelyet biztosítanak a grizzly medvék, karibuk és farkasok masszív populációi számára. A \"Yukon\" név a gwich'in \"Yu-kun-ah\" szóból származik, amely találóan \"Nagy Folyót\" jelent.",
+        "ro": "Râul Yukon este unul dintre cele mai masive și istoric fascinante râuri din America de Nord, curgând pe o lungime uriașă de aproximativ 3.190 de kilometri prin provinciile canadiene Columbia Britanică și Teritoriul Yukon, înainte de a traversa statul american Alaska și a se vărsa în Marea Bering. Sursa principală a râului este giganticul ghețar Llewellyn de la capătul sudic al lacului Atlin din Columbia Britanică. Sistemul fluvial a câștigat o importanță globală imensă la sfârșitul secolului al XIX-lea în timpul legendarei Goane după Aur din Klondike (1896-1899). În această perioadă, râul Yukon a servit ca arteră de transport absolut critică pe care zeci de mii de căutători de aur au navigat cu plute primitive și, mai târziu, cu vapoare masive cu zbaturi (sternwheelers) către câmpurile aurifere de lângă Dawson City. Numeroase vapoare cu zbaturi abandonate ruginesc și astăzi ca relicve istorice pe malurile sale. Din punct de vedere biologic, râul Yukon este renumit pentru una dintre cele mai lungi și mai rezistente migrații de somon (Salmon Run) de pe Pământ. Somonul regal (Chinook) înoată uneori mai mult de 3.000 de kilometri din ocean în amonte, împotriva curenților puternici, către locurile sale de depunere a icrelor situate adânc în interiorul Canadei. Malurile neatinse și dens împădurite ale râului sunt dominate în principal de păduri boreale de molid negru și oferă habitat critic pentru populații masive de urși grizzly, caribu și lupi. Numele „Yukon” derivă din cuvântul Gwich'in „Yu-kun-ah”, care înseamnă pe bună dreptate „Râu Mare”.",
+        "en": "The Yukon River is one of the most massive and historically fascinating river systems in North America, flowing over an immense length of approximately 3,190 kilometers through the Canadian province of British Columbia and the Yukon Territory before aggressively carving its way through the U.S. state of Alaska to empty into the Bering Sea. The actual primary headwaters of the river stem directly from the gigantic Llewellyn Glacier at the southern extreme of Atlin Lake in British Columbia. The river system gained unprecedented global prominence during the end of the 19th century due to the legendary Klondike Gold Rush (1896–1899). During this chaotic era, the Yukon River functioned as the absolutely critical transportation artery, navigating tens of thousands of desperate prospectors on primitive wooden rafts, and later massive paddle-wheel steamboats (sternwheelers), directly toward the remote goldfields near Dawson City. Dozens of abandoned paddle-wheelers still rust along its muddy banks today as iconic historic relics. Biologically, the Yukon River is globally famous for hosting one of the longest and most gruelling salmon runs on Earth. The massive Chinook salmon swims over 3,000 kilometers upstream against extremely strong currents from the ocean to reach its ancestral spawning grounds deep within the Canadian interior. The pristine, densely forested riverbanks are heavily dominated by boreal black spruce stands, providing critical shelter for massive populations of grizzly bears, woodland caribou, and wolves. The name \"Yukon\" is directly derived from the Gwich'in indigenous word \"Yu-kun-ah,\" which fittingly translates to \"Great River.\""
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Flusssystem erreicht eine gewaltige Gesamtlänge von rund 3.190 Kilometern.",
+          "Der Llewellyn-Gletscher in British Columbia bildet die eigentliche Hauptquelle des Flusses.",
+          "Während des Klondike-Goldrausches diente der Fluss als Haupttransportroute nach Dawson City.",
+          "Historische Schaufelraddampfer rosten bis heute als verlassene Relikte an seinen Ufern.",
+          "Der Königslachs wandert bis zu 3.000 Kilometer flussaufwärts zu seinen Laichgründen.",
+          "Das Wasser durchquert Kanada und Alaska, bevor es in das eisige Beringmeer mündet.",
+          "Der Name Yukon stammt aus der Sprache der Gwich'in und bedeutet 'Großer Fluss'."
+        ],
+        "hu": [
+          "A folyórendszer becsült teljes hossza eléri a lenyűgöző 3190 kilométert.",
+          "A Brit Columbiában található Llewellyn-gleccser alkotja a folyó tényleges fő forrását.",
+          "A klondike-i aranyláz idején a folyó szolgált a Dawson Citybe vezető fő útvonalként.",
+          "Történelmi lapátkerekes gőzhajók ma is elhagyatott relikviaként rozsdásodnak a partokon.",
+          "A királylazac akár 3000 kilométert is úszik a folyón felfelé, az ívóhelyekig.",
+          "A víz átszelve Kanadát és Alaszkát, végül a fagyos Bering-tengerbe torkollik.",
+          "A Yukon név a gwich'in őslakosok nyelvéből származik, jelentése 'Nagy Folyó'."
+        ],
+        "ro": [
+          "Sistemul fluvial atinge o lungime totală enormă de aproximativ 3.190 de kilometri.",
+          "Ghețarul Llewellyn din Columbia Britanică constituie sursa principală reală a râului.",
+          "În timpul Goanei după Aur din Klondike, râul a servit drept ruta principală de transport.",
+          "Vapoare istorice cu zbaturi ruginesc și astăzi ca relicve abandonate pe malurile sale.",
+          "Somonul regal migrează până la 3.000 de kilometri în amonte spre locurile sale de depunere a icrelor.",
+          "Apa traversează Canada și Alaska înainte de a se vărsa în Marea Bering înghețată.",
+          "Numele Yukon provine din limba Gwich'in și înseamnă pur și simplu 'Râu Mare'."
+        ],
+        "en": [
+          "The massive river system reaches a highly impressive total length of roughly 3,190 kilometers.",
+          "The gigantic Llewellyn Glacier in British Columbia forms the actual headwaters of the river.",
+          "During the chaotic Klondike Gold Rush, the river served as the main highway to Dawson City.",
+          "Abandoned historic sternwheel steamboats continue to rust along its muddy banks to this day.",
+          "The mighty Chinook salmon swims an incredible 3,000 kilometers upstream to physically spawn.",
+          "The river water violently crosses through Canada and Alaska before draining into the Bering Sea.",
+          "The English name Yukon translates directly from the indigenous Gwich'in word meaning 'Great River'."
+        ]
+      }
+    },
+    {
+      "id": "mount-foraker-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Obwohl der Name in den Listen variiert, handelt es sich hierbei geografisch primär um das Massiv von Mount St. Elias, dem mit 5.489 Metern zweithöchsten Berg sowohl von Kanada (Yukon-Territorium) als auch der Vereinigten Staaten (Alaska). Der Berg erhebt sich extrem dramatisch und fast senkrecht auf eine Entfernung von nur knapp 16 Kilometern direkt vom tiefen Wasser des Pazifischen Ozeans (Golf von Alaska) bis zu seinem eisigen, spitzen Gipfel. Diese unglaubliche vertikale Höhendifferenz auf einer so extrem kurzen Distanz macht das Massiv geomorphologisch weltweit absolut einzigartig und erzeugt stark lokalisierte, unberechenbare Wettersysteme. Der Mount St. Elias ist das hoch aufragende Herzstück des Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek UNESCO-Weltnaturerbes. Das Bergmassiv ist so massiv vergletschert, dass es ein gewaltiges Netzwerk von Eisströmen speist, darunter den Malaspina-Gletscher in Alaska, der größer ist als der gesamte US-Bundesstaat Rhode Island. Der Berg wurde 1741 erstmals von dem dänisch-russischen Entdecker Vitus Bering von See aus gesichtet und offiziell kartiert. Die erfolgreiche Erstbesteigung gilt als ein legendärer Meilenstein des Alpinismus und wurde im Sommer 1897 durch eine italienische Expedition unter der Leitung von Prinz Luigi Amedeo, dem Herzog der Abruzzen, vollbracht. Wegen der extrem schlechten und stürmischen Wetterbedingungen, bei denen Pazifikstürme ungehindert gegen die massive Eiswand prallen, wird der Berg selbst heute von modernen Elite-Alpinisten nur äußerst selten bestiegen.",
+        "hu": "Bár a listákon a név változhat, földrajzilag itt elsősorban a Mount St. Elias (Szent Illés-hegy) masszívumáról van szó, amely 5489 méteres magasságával Kanada (Yukon terület) és az Egyesült Államok (Alaszka) második legmagasabb hegye is egyben. A hegy rendkívül drámaian és szinte függőlegesen emelkedik ki alig 16 kilométeres távolságon belül közvetlenül a Csendes-óceán (Alaszkai-öböl) mély vizéből egészen a jeges, hegyes csúcsáig. Ez a hihetetlen függőleges magasságkülönbség ilyen rendkívül rövid távolságon belül geomorfológiailag abszolút egyedülállóvá teszi a hegytömböt a világon, és erősen lokalizált, kiszámíthatatlan időjárási rendszereket hoz létre. A Mount St. Elias a Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek UNESCO Világörökségi helyszín magasba tornyosuló szíve. A hegytömb olyan masszívan eljegesedett, hogy egy gigantikus jégfolyam-hálózatot táplál, köztük az alaszkai Malaspina-gleccsert, amely nagyobb, mint az egész amerikai Rhode Island állam. A hegyet 1741-ben pillantotta meg először a tenger felől Vitus Bering dán-orosz felfedező, aki hivatalosan is feltérképezte. A sikeres első megmászást az alpinizmus legendás mérföldköveként tartják számon, amelyet 1897 nyarán egy olasz expedíció hajtott végre Savoyai Lajos Amadé abruzzói herceg vezetésével. A rendkívül rossz és viharos időjárási viszonyok miatt, ahol a csendes-óceáni viharok akadálytalanul csapódnak a masszív jégfalnak, a hegyet még ma is csak rendkívül ritkán másszák meg a modern elit alpinisták.",
+        "ro": "Deși numele variază în liste, geografic este vorba în principal de masivul Mount St. Elias, care, la 5.489 de metri, este al doilea cel mai înalt munte atât din Canada (Teritoriul Yukon), cât și din Statele Unite (Alaska). Muntele se înalță extrem de dramatic și aproape vertical pe o distanță de doar 16 kilometri direct din apele adânci ale Oceanului Pacific (Golful Alaska) până la vârful său înghețat și ascuțit. Această diferență incredibilă de altitudine verticală pe o distanță atât de scurtă face ca masivul să fie absolut unic la nivel mondial din punct de vedere geomorfologic și creează sisteme meteorologice puternic localizate și imprevizibile. Mount St. Elias este inima impunătoare a sitului Patrimoniului Mondial Natural UNESCO Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek. Masivul montan este atât de masiv glaciar încât alimentează o rețea uriașă de fluxuri de gheață, inclusiv ghețarul Malaspina din Alaska, care este mai mare decât întregul stat american Rhode Island. Muntele a fost observat și cartografiat oficial pentru prima dată de pe mare de exploratorul danez-rus Vitus Bering în 1741. Prima ascensiune reușită este considerată o piatră de hotar legendară a alpinismului și a fost realizată în vara anului 1897 de o expediție italiană condusă de Prințul Luigi Amedeo, Duce de Abruzzi. Din cauza condițiilor meteorologice extrem de nefavorabile și furtunoase, în care furtunile din Pacific se izbesc neîmpiedicate de peretele masiv de gheață, muntele este extrem de rar escaladat chiar și astăzi de alpiniștii de elită moderni.",
+        "en": "Although documented under varying database IDs, this highly massive geographic feature represents Mount St. Elias, which stands at an exact elevation of 5,489 meters, making it the absolute second-highest mountain in both Canada (Yukon Territory) and the United States (Alaska). The mountain rises extremely dramatically and almost completely vertically over a distance of merely 16 kilometers (10 miles) from the deep tidal waters of the Pacific Ocean (Gulf of Alaska) directly to its freezing, pointed summit. This incredible vertical relief occurring over such an extremely short horizontal distance makes the massif absolutely unique globally in a geomorphological sense, generating fierce, highly unpredictable localized weather systems. Mount St. Elias functions as the towering epicenter of the massive Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek UNESCO World Heritage Site. The massif is so heavily glaciated that its slopes actively feed a gigantic network of ice streams, including the massive Malaspina Glacier in Alaska, which is physically larger than the entire US state of Rhode Island. The mountain was first spotted from the ocean and officially mapped by Danish-Russian explorer Vitus Bering in 1741. The successful first ascent is historically regarded as a legendary mountaineering milestone, achieved in the summer of 1897 by an Italian expedition led by Prince Luigi Amedeo, Duke of the Abruzzi. Because of the exceptionally severe weather conditions, where ferocious Pacific storms slam completely unobstructed into the massive ice wall, the peak is very rarely attempted even by elite modern alpinists."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 5.489 Metern ist er der zweithöchste Berg in Kanada und den Vereinigten Staaten.",
+          "Die Grenze zwischen dem kanadischen Yukon und Alaska verläuft direkt über den Gipfel.",
+          "Der Berg steigt auf nur 16 Kilometern extrem steil vom Pazifik bis zur Spitze an.",
+          "Vitus Bering entdeckte das massive Bergmassiv im Jahr 1741 vom Ozean aus.",
+          "Die legendäre Erstbesteigung fand im Jahr 1897 durch eine italienische Expedition statt.",
+          "Gletschereis des Berges formt den gewaltigen Malaspina-Gletscher an der Küste.",
+          "Der Berg ist das geografische Herzstück eines riesigen grenzüberschreitenden UNESCO-Welterbes."
+        ],
+        "hu": [
+          "Az 5489 méteres hegy Kanada és az Egyesült Államok második legmagasabb csúcsa.",
+          "A kanadai Yukon és az alaszkai határvonal pontosan a hegycsúcson halad keresztül.",
+          "A hegy alig 16 kilométeres távolságon belül emelkedik a tengerszintről a csúcsig.",
+          "Vitus Bering 1741-ben egy hajóról pillantotta meg először a hegytömböt.",
+          "A legendás, első sikeres megmászást 1897-ben egy olasz expedíció vitte véghez.",
+          "A hegy lejtőiről lecsúszó gleccserjég táplálja a hatalmas parti Malaspina-gleccsert.",
+          "A hegy egy hatalmas, határokon átnyúló UNESCO Világörökségi helyszín földrajzi központja."
+        ],
+        "ro": [
+          "Cu 5.489 de metri, este al doilea cel mai înalt munte din Canada și Statele Unite.",
+          "Granița dintre Yukon-ul canadian și Alaska trece direct peste vârf.",
+          "Muntele se ridică extrem de abrupt de la Pacific până la vârf pe o distanță de doar 16 km.",
+          "Vitus Bering a descoperit masivul montan uriaș de pe ocean în 1741.",
+          "Legendara primă ascensiune a avut loc în anul 1897 de către o expediție italiană.",
+          "Gheața glaciară a muntelui formează uriașul ghețar Malaspina pe coastă.",
+          "Muntele este inima geografică a unui imens sit transfrontalier al Patrimoniului Mondial UNESCO."
+        ],
+        "en": [
+          "Standing at precisely 5,489 meters, it is the second-highest peak in Canada and the United States.",
+          "The international border separating the Yukon and Alaska runs directly over its summit.",
+          "The mountain features massive vertical relief, rising from the ocean in just 16 kilometers.",
+          "Danish-Russian explorer Vitus Bering first officially spotted the massive peak from sea in 1741.",
+          "The legendary first successful summit ascent was completed by an Italian expedition in 1897.",
+          "Glacial ice falling from the mountain actively feeds the massive coastal Malaspina Glacier.",
+          "The peak serves as the physical epicenter of a massive cross-border UNESCO World Heritage Site."
+        ]
+      }
+    },
+    {
+      "id": "saint-john-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Saint John River ist ein historisch und ökologisch extrem bedeutender, 673 Kilometer langer Fluss, der im rauen Somerset County im US-Bundesstaat Maine entspringt und hauptsächlich durch die kanadische Provinz New Brunswick fließt, bevor er tief in die gewaltige Bay of Fundy mündet. Wegen seines sanft geschwungenen Verlaufs durch weite, extrem fruchtbare Täler wird er oftmals poetisch als der „Rhein Nordamerikas“ bezeichnet. Ein absolutes geografisches Phänomen befindet sich direkt an der Mündung des Flusses in der Stadt Saint John: die Reversing Falls (Rückwärtsfließenden Wasserfälle). Wenn die gigantischen, weltberühmten Gezeiten der Bay of Fundy ihren Höchststand erreichen, wird das Wasser mit einer solch massiven Kraft landeinwärts gedrückt, dass die Strömung des Flusses an einer felsigen Engstelle umkehrt und das Süßwasser über die Stromschnellen flussaufwärts gepresst wird. Historisch diente das weite Flusstal als absolut kritische Transport- und Lebensader für das indigene Volk der Wolastoqiyik (Maliseet), die den Fluss „Wolastoq“ (Guter und schöner Fluss) nannten. Später, ab dem 17. und 18. Jahrhundert, nutzten französische Akadier und britische Loyalisten (United Empire Loyalists) das fruchtbare Flusstal zur Besiedelung. Heute ist das obere Saint John River Valley eine der produktivsten landwirtschaftlichen Zonen im Osten Kanadas und bildet das unbestrittene Zentrum des massiven neubraunschweiger Kartoffelanbaus. Der Flussverlauf wurde in der Moderne durch große hydroelektrische Dammprojekte, wie den massiven Mactaquac Dam nahe Fredericton, stark reguliert, was die ursprüngliche Hydrologie stark verändert hat.",
+        "hu": "A Saint John River egy történelmileg és ökológiailag rendkívül jelentős, 673 kilométer hosszú folyó, amely a zord Maine amerikai állambeli Somerset megyében ered, és nagyrészt a kanadai New Brunswick tartományon keresztül folyik, mielőtt mélyen a hatalmas Fundy-öbölbe torkollna. A tágas, rendkívül termékeny völgyeken keresztül húzódó, lágyan ívelt folyása miatt gyakran költőien „Észak-Amerika Rajnájának” nevezik. Egy abszolút földrajzi jelenség található közvetlenül a folyó torkolatánál, Saint John városában: a Reversing Falls (Visszafelé folyó vízesés). Amikor a Fundy-öböl gigantikus, világhírű árapályai elérik a legmagasabb szintjüket, a vizet olyan masszív erővel nyomják a szárazföld felé, hogy a folyó áramlása egy sziklás szűkületnél megfordul, és az édesvizet a zúgókon keresztül felfelé préseli. Történelmileg a széles folyóvölgy abszolút kritikus közlekedési és életvonalként szolgált a wolastoqiyik (maliseet) őslakos nép számára, akik a folyót „Wolastoq”-nak (Jó és szép folyó) nevezték. Később, a 17. és 18. századtól a francia akádiaiak és a brit lojalisták (United Empire Loyalists) használták a termékeny folyóvölgyet letelepedésre. Ma a felső Saint John folyóvölgye Kelet-Kanada egyik legtermékenyebb mezőgazdasági zónája, és a masszív New Brunswick-i burgonyatermesztés vitathatatlan központja. A modern korban a folyó folyását nagy vízerőművi gátprojektek, például a Fredericton közelében fekvő masszív Mactaquac-gát erősen szabályozzák, ami jelentősen megváltoztatta az eredeti hidrológiát.",
+        "ro": "Râul Saint John este un curs de apă de 673 de kilometri, extrem de important din punct de vedere istoric și ecologic, care izvorăște în asprul comitat Somerset din statul american Maine și curge în principal prin provincia canadiană New Brunswick înainte de a se vărsa adânc în uriașul Golf Fundy. Datorită cursului său curbat blând prin văi largi și extrem de fertile, este adesea numit în mod poetic „Rinul Americii de Nord”. Un fenomen geografic absolut se află chiar la gura râului în orașul Saint John: Reversing Falls (Cascadele Inversate). Când mareele gigantice și faimoase în întreaga lume ale Golfului Fundy ating punctul maxim, apa este împinsă spre uscat cu o forță atât de masivă încât curentul râului se inversează la o strâmtoare stâncoasă, iar apa dulce este presată în amonte peste prăpăstii. Istoric, valea largă a râului a servit ca o arteră de transport și o linie de salvare absolut critică pentru poporul indigen Wolastoqiyik (Maliseet), care a numit râul „Wolastoq” (Râu bun și frumos). Mai târziu, începând cu secolele al XVII-lea și al XVIII-lea, acadienii francezi și loialiștii britanici (United Empire Loyalists) au folosit valea fertilă a râului pentru colonizare. Astăzi, Valea superioară a râului Saint John este una dintre cele mai productive zone agricole din estul Canadei și formează centrul de necontestat al cultivării masive a cartofilor din New Brunswick. Cursul râului a fost puternic reglementat în epoca modernă de proiecte mari de baraje hidroelectrice, cum ar fi masivul baraj Mactaquac de lângă Fredericton, care a modificat considerabil hidrologia inițială.",
+        "en": "The Saint John River is a historically and ecologically vital 673-kilometer-long river that originates deep in the rugged forests of Somerset County, Maine, in the USA, and flows primarily through the Canadian province of New Brunswick before ultimately discharging into the massive Bay of Fundy. Due to its gently meandering, highly scenic route sweeping through exceptionally fertile, broad valleys, it is frequently and poetically referred to as the \"Rhine of North America.\" An absolutely spectacular geographical phenomenon takes place directly at the river's mouth in the city of Saint John: the Reversing Falls. When the gigantic, world-renowned ocean tides of the Bay of Fundy reach their absolute peak, the dense saltwater is aggressively pushed inland with such massive force that it entirely reverses the river's heavy flow at a rocky gorge, forcing the freshwater backward upstream over the rapids. Historically, the broad river valley served as an absolutely critical transportation route and lifeline for the indigenous Wolastoqiyik (Maliseet) people, who named the river \"Wolastoq\" (meaning good and beautiful river). Later, throughout the 17th and 18th centuries, French Acadians and British United Empire Loyalists settled heavily within the highly fertile floodplain. Today, the upper Saint John River valley operates as one of the most highly productive agricultural zones in Eastern Canada, serving as the undisputed epicenter for New Brunswick's massive potato farming industry. In the modern era, the river's flow is aggressively regulated by massive hydroelectric generating dams, notably the Mactaquac Dam located near the capital city of Fredericton, which has significantly altered the original hydrology."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Gesamtlänge des grenzüberschreitenden Flusses beträgt exakt 673 Kilometer.",
+          "Aufgrund der großen landschaftlichen Ähnlichkeit nennt man ihn oft den 'Rhein Nordamerikas'.",
+          "Die indigenen Maliseet nannten den Fluss traditionell 'Wolastoq', was schöner Fluss bedeutet.",
+          "Die Reversing Falls kehren wegen starker Gezeiten die Flussströmung an der Mündung komplett um.",
+          "Das obere fruchtbare Flusstal ist das absolute Zentrum des massiven neubraunschweiger Kartoffelanbaus.",
+          "Britische Loyalisten nutzten den Fluss im 18. Jahrhundert als zentrale Hauptsiedlungsroute.",
+          "Der massige Mactaquac-Staudamm verändert heute die ursprüngliche Wasserströmung stark."
+        ],
+        "hu": [
+          "A határokon átnyúló folyó teljes hossza pontosan 673 kilométert tesz ki.",
+          "A tájképi hasonlóságok miatt a szakirodalomban gyakran 'Észak-Amerika Rajnájának' nevezik.",
+          "A maliseet őslakosok hagyományosan 'Wolastoq' néven hívták, ami szép folyót jelent.",
+          "A Reversing Falls az erős árapály miatt a torkolatnál teljesen megfordítja a folyó áramlását.",
+          "A termékeny felső völgy a masszív New Brunswick-i burgonyatermesztés abszolút központja.",
+          "A 18. században a brit lojalisták a folyót használták fő megtelepedési útvonalként.",
+          "A hatalmas Mactaquac-gát napjainkban erősen szabályozza az eredeti hidrológiai áramlást."
+        ],
+        "ro": [
+          "Lungimea totală a râului transfrontalier este de exact 673 de kilometri.",
+          "Datorită marii asemănări peisagistice, este adesea numit 'Rinul Americii de Nord'.",
+          "Indigenii Maliseet au numit în mod tradițional râul 'Wolastoq', ceea ce înseamnă râu frumos.",
+          "Cascadele Reversing Falls inversează complet curentul râului la vărsare din cauza mareelor puternice.",
+          "Valea fertilă superioară a râului este centrul absolut al cultivării masive a cartofilor din New Brunswick.",
+          "Loialiștii britanici au folosit râul ca rută centrală de colonizare în secolul al XVIII-lea.",
+          "Masivul baraj Mactaquac modifică astăzi puternic curentul inițial al apei."
+        ],
+        "en": [
+          "The total length of this massive cross-border river reaches exactly 673 kilometers.",
+          "Due to striking scenic similarities, it is frequently referred to as the 'Rhine of North America'.",
+          "The indigenous Maliseet people traditionally named the river 'Wolastoq', meaning beautiful river.",
+          "The world-famous Reversing Falls completely reverse the river's flow due to massive ocean tides.",
+          "The upper fertile river valley acts as the absolute epicenter of New Brunswick's potato farming industry.",
+          "British Empire Loyalists heavily utilized the river as their primary settlement route in the 18th century.",
+          "The massive Mactaquac Dam aggressively regulates and alters the original natural flow of the water."
+        ]
+      }
+    },
+    {
+      "id": "malgne-lake-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Maligne Lake (in der ID fehlerhaft als malgne-lake bezeichnet) ist das mit Abstand größte eiszeitlich geformte Gewässer im Jasper National Park in den kanadischen Rocky Mountains der Provinz Alberta. Der See erstreckt sich als schmales Band über exakt 22,5 Kilometer durch ein tief eingeschnittenes, gewaltiges U-Tal und erreicht eine beachtliche maximale Tiefe von 97 Metern. Eingebettet zwischen hoch aufragenden, stark vergletscherten Bergen wie dem Mount Charlton und dem Mount Unwin, wird der See kontinuierlich durch extrem kaltes Gletscherschmelzwasser gespeist. Dieser konstante Zustrom von feinem Gesteinsmehl (Rock Flour) verleiht dem Wasser während der Sommermonate seine absolut ikonische, leuchtend azurblaue bis türkise Färbung. Das berühmteste physische Merkmal des Sees ist Spirit Island, eine winzige, von dichten Bäumen bewachsene kleine Insel in der Mitte des Sees, die weltweit als eines der am meisten fotografierten Landschaftsmotive der gesamten kanadischen Rockies gilt. Die historische Bedeutung des Sees wuchs massiv, als er im Jahr 1908 von der Entdeckerin Mary Schäffer nach Hinweisen des indigenen Stoney-Mannes Samson Beaver formell kartiert wurde. Das kalte und sauerstoffreiche Wasser des Sees bietet einen hervorragenden, geschützten Lebensraum, der in der Neuzeit massiv mit Regenbogenforellen und Bachsaiblingen für die Sportfischerei besetzt wurde. Obwohl der See tief in der Bergwildnis liegt, zieht er jährlich Hunderttausende Touristen an, die das abgelegene Spirit Island durch Bootstouren erkunden.",
+        "hu": "A Maligne-tó (az ID-ben hibásan malgne-lake-ként szerepel) a legnagyobb jégkorszaki eredetű állóvíz az albertai kanadai Sziklás-hegységben található Jasper Nemzeti Parkban. A tó egy keskeny sávként nyúlik el pontosan 22,5 kilométer hosszan egy mélyen bevágódott, hatalmas U alakú völgyben, és figyelemre méltó, 97 méteres maximális mélységet ér el. A magasba tornyosuló, erősen eljegesedett hegyek, mint a Mount Charlton és a Mount Unwin közé ékelődött tavat folyamatosan rendkívül hideg gleccser-olvadékvíz táplálja. A finom kőzetliszt (Rock Flour) ezen állandó beáramlása adja a víz abszolút ikonikus, élénk azúrkék vagy türkizkék színét a nyári hónapokban. A tó leghíresebb fizikai sajátossága a Spirit Island (Szellem-sziget), egy apró, sűrű fákkal benőtt kis sziget a tó közepén, amely világszerte az egész kanadai Sziklás-hegység egyik legtöbbet fényképezett tájképi motívuma. A tó történelmi jelentősége masszívan megnőtt, miután 1908-ban Mary Schäffer felfedező formálisan feltérképezte egy Samson Beaver nevű, stoney őslakos férfi útmutatásai alapján. A tó hideg és oxigénben gazdag vize kiváló, védett élőhelyet biztosít, amelyet a modern korban tömegesen telepítettek be szivárványos pisztránggal és pataki szaiblinggel a sporthorgászat céljából. Bár a tó mélyen a hegyi vadonban fekszik, évente turisták százezreit vonzza, akik hajótúrákkal fedezik fel a távoli Spirit Islandet.",
+        "ro": "Lacul Maligne (denumit incorect malgne-lake în ID) este de departe cel mai mare corp de apă format glaciar din Parcul Național Jasper, în Munții Stâncoși canadieni din provincia Alberta. Lacul se întinde ca o bandă îngustă pe o distanță de exact 22,5 kilometri printr-o vale imensă în formă de U, adânc tăiată, și atinge o adâncime maximă considerabilă de 97 de metri. Cuibărit între munți falnici, puternic glaciari, cum ar fi Mount Charlton și Mount Unwin, lacul este alimentat continuu cu apă de topire glaciară extrem de rece. Acest aflux constant de făină de rocă fină (Rock Flour) conferă apei colorația sa absolut iconică, de la un albastru azuriu strălucitor până la turcoaz, în timpul lunilor de vară. Cea mai faimoasă caracteristică fizică a lacului este Spirit Island, o insulă minusculă acoperită de copaci deși în mijlocul lacului, considerată la nivel mondial drept unul dintre cele mai fotografiate motive peisagistice din toți Stâncoșii canadieni. Semnificația istorică a lacului a crescut masiv când a fost cartografiat formal în anul 1908 de exploratoarea Mary Schäffer, urmând indicațiile bărbatului indigen Stoney, Samson Beaver. Apele reci și bogate în oxigen ale lacului oferă un habitat excelent și protejat, care a fost populat masiv în epoca modernă cu păstrăv curcubeu și fântânel pentru pescuitul sportiv. Deși lacul este situat adânc în sălbăticia montană, atrage anual sute de mii de turiști care explorează izolata Spirit Island prin excursii cu barca.",
+        "en": "Maligne Lake (incorrectly designated as malgne-lake in the ID) stands as the absolute largest glacially formed body of water within Jasper National Park in the Canadian Rocky Mountains of Alberta. The lake extends as a narrow, ribbon-like channel for exactly 22.5 kilometers through a deeply incised, massive U-shaped valley and reaches a highly significant maximum depth of 97 meters. Nested firmly between towering, heavily glaciated mountain peaks such as Mount Charlton and Mount Unwin, the massive lake is continuously fed by extremely freezing glacial meltwater. This constant influx of highly pulverized rock flour gives the water its absolutely iconic, brilliant azure to turquoise coloration during the warm summer months. The most globally famous physical feature on the lake is Spirit Island, a tiny, densely tree-covered islet situated precisely in the middle of the lake, widely recognized worldwide as one of the most heavily photographed landscape motifs in the entire Canadian Rockies. The historical significance of the lake increased massively after it was formally mapped in 1908 by early explorer Mary Schäffer, who famously relied on a hand-drawn map provided by a Stoney indigenous man named Samson Beaver. The freezing, highly oxygenated waters provide an excellent aquatic habitat that was aggressively stocked in the modern era with rainbow and brook trout specifically to support sports fishing. Although situated deep in the remote mountain wilderness, it attracts hundreds of thousands of tourists annually."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 22,5 Kilometern Länge ist er der größte eiszeitliche See im Jasper National Park.",
+          "Der See liegt in einem klassischen, von Gletschern extrem tief ausgeschürften U-Tal.",
+          "Gesteinsmehl aus dem Gletscherwasser verleiht dem See im Sommer eine tiefe türkise Farbe.",
+          "Das bewaldete Spirit Island im See ist eines der berühmtesten Fotomotive Nordamerikas.",
+          "Die Entdeckerin Mary Schäffer kartierte den isolierten Bergsee erstmals offiziell im Jahr 1908.",
+          "Der indigene Stoney-Mann Samson Beaver lieferte die entscheidende Wegbeschreibung zum See.",
+          "Das extrem kalte Seewasser wurde später massiv mit Forellen für den Angelsport besetzt."
+        ],
+        "hu": [
+          "A 22,5 kilométeres hossza miatt ez a Jasper Nemzeti Park legnagyobb jégkorszaki tava.",
+          "A tó egy klasszikus, a gleccserek által rendkívül mélyen kivájt U-völgyben helyezkedik el.",
+          "A gleccservízből származó kőzetliszt nyáron mély türkizkék színt ad a tónak.",
+          "A tavon található fás Spirit Island Észak-Amerika egyik leghíresebb fotómotívuma.",
+          "Mary Schäffer felfedező 1908-ban térképezte fel először hivatalosan az elszigetelt hegyi tavat.",
+          "A stoney őslakos Samson Beaver adta meg a döntő fontosságú útirányt a tó megtalálásához.",
+          "A rendkívül hideg tóvizet később tömegesen telepítették be pisztránggal horgászat céljából."
+        ],
+        "ro": [
+          "Cu o lungime de 22,5 kilometri, este cel mai mare lac glaciar din Parcul Național Jasper.",
+          "Lacul este situat într-o vale clasică în formă de U, adânc sculptată de ghețari.",
+          "Făina de rocă din apa glaciară conferă lacului o culoare turcoaz profundă vara.",
+          "Insula împădurită Spirit Island din lac este unul dintre cele mai faimoase motive foto din America de Nord.",
+          "Exploratoarea Mary Schäffer a cartografiat oficial lacul montan izolat pentru prima dată în 1908.",
+          "Indigenul Stoney, Samson Beaver, a oferit indicațiile cruciale către lac.",
+          "Apa extrem de rece a lacului a fost populată masiv ulterior cu păstrăvi pentru pescuitul sportiv."
+        ],
+        "en": [
+          "At 22.5 kilometers in length, it is the absolute largest glacial lake in Jasper National Park.",
+          "The lake physically sits at the bottom of a classic, deeply carved glacial U-shaped valley.",
+          "Highly pulverized rock flour from melting glaciers gives the water a deep turquoise color.",
+          "The densely wooded Spirit Island is globally recognized as an iconic North American photo motif.",
+          "Early female explorer Mary Schäffer officially mapped the highly isolated mountain lake in 1908.",
+          "An indigenous Stoney man named Samson Beaver provided the critical hand-drawn map to the lake.",
+          "The extremely freezing lake water was aggressively stocked with trout specifically for sport fishing."
+        ]
+      }
+    },
+    {
+      "id": "bow-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bow River ist ein 587 Kilometer langer Fluss in der kanadischen Provinz Alberta, der sowohl landschaftlich als auch wirtschaftlich eine absolut herausragende Stellung einnimmt. Seine ursprüngliche Quelle liegt hoch oben im Wapta-Eisfeld (Bow-Gletscher) in den Rocky Mountains innerhalb des Banff National Parks. Von dort aus stürzt der Fluss als eisiger Gebirgsbach herab, fließt über die spektakulären Bow Falls in Banff, durchquert die Ausläufer der Berge und fließt dann direkt durch das Zentrum der wachsenden Metropole Calgary. Letztendlich verbindet er sich weit in der Prärie mit dem Oldman River, um den mächtigen South Saskatchewan River zu bilden. Der englische Name des Flusses leitet sich direkt von einer Übersetzung der Sprache der First Nations ab, die sich auf das an seinen Ufern wachsende Holz bezog, aus dem traditionell Pfeilbögen (Bows) gefertigt wurden. Der Fluss ist eine absolut unverzichtbare Lebensader für die Landwirtschaft im trockenen südlichen Alberta, da ein Großteil seines Wassers im Unterlauf massiv für Bewässerungsnetzwerke abgeleitet wird. Darüber hinaus versorgt der Bow River mehr als eine Million Menschen mit essentiellem Trinkwasser. Aus biologischer Sicht ist der mittlere Flussabschnitt stromabwärts von Calgary weltweit als eines der absolut besten Gewässer für das Fliegenfischen auf Bach- und Regenbogenforellen bekannt. Der Fluss wird stark von Staudämmen kontrolliert, die im Frühjahr helfen, die schädlichen Schmelzwasserhochwässer der Berge zu regulieren.",
+        "hu": "A Bow-folyó egy 587 kilométer hosszú folyó a kanadai Alberta tartományban, amely mind tájképi, mind gazdasági szempontból abszolút kiemelkedő szerepet tölt be. Eredeti forrása magasan a Wapta-jégmezőn (Bow-gleccser) található a Sziklás-hegységben, a Banff Nemzeti Park területén. Innen a folyó jeges hegyi patakként zúdul le, áthalad a látványos banffi Bow-vízesésen, átszeli a hegység lábát, majd közvetlenül a növekvő Calgary metropolisz központján folyik keresztül. Végül a préri mélyén egyesül az Oldman-folyóval, így alkotva a hatalmas South Saskatchewan-folyót. A folyó angol neve (Bow, azaz íj) közvetlenül a First Nations (őslakos) nyelv fordításából származik, amely a partjain növő fára utalt, amelyből hagyományosan az íjakat készítették. A folyó abszolút nélkülözhetetlen éltető eret jelent az aszályos dél-albertai mezőgazdaság számára, mivel vizének nagy részét az alsó szakaszon masszívan öntözőhálózatokba vezetik el. Ezenkívül a Bow-folyó több mint egymillió embert lát el létfontosságú ivóvízzel. Biológiai szempontból a Calgary alatti középső folyószakasz világszerte az egyik abszolút legjobb víz a sebes pisztráng és a szivárványos pisztráng legyező horgászatára. A folyót erősen gátak szabályozzák, amelyek tavasszal segítenek kordában tartani a hegyekből lezúduló, károkat okozó hóolvadásos árvizeket.",
+        "ro": "Râul Bow este un râu lung de 587 de kilometri din provincia canadiană Alberta, care ocupă o poziție absolut remarcabilă atât din punct de vedere peisagistic, cât și economic. Sursa sa inițială se află sus în Câmpul de Gheață Wapta (Ghețarul Bow) din Munții Stâncoși, în interiorul Parcului Național Banff. De acolo, râul coboară ca un pârâu de munte înghețat, curge peste spectaculoasele Cascade Bow (Bow Falls) din Banff, traversează poalele munților și apoi curge direct prin centrul metropolei în creștere Calgary. În cele din urmă, se unește mult în prerie cu râul Oldman pentru a forma puternicul râu South Saskatchewan. Numele englezesc al râului derivă direct dintr-o traducere a limbii Primelor Națiuni, referindu-se la lemnul care creștea pe malurile sale, din care erau făcute în mod tradițional arcurile (bows) pentru săgeți. Râul este o arteră absolut indispensabilă pentru agricultura din sudul arid al Albertei, deoarece o mare parte din apa sa din cursul inferior este deviată masiv pentru rețelele de irigații. Mai mult, râul Bow asigură apă potabilă esențială pentru mai bine de un milion de oameni. Din punct de vedere biologic, secțiunea mijlocie a râului în aval de Calgary este cunoscută la nivel mondial ca fiind una dintre cele mai bune ape absolute pentru pescuitul la muscă la păstrăvul brun și păstrăvul curcubeu. Râul este puternic controlat de baraje care ajută primăvara la reglarea inundațiilor dăunătoare provocate de topirea zăpezii din munți.",
+        "en": "The Bow River is a highly vital, 587-kilometer-long river within the Canadian province of Alberta that holds an absolutely critical position both scenically and economically. Its original headwaters lie high in the rugged Wapta Icefield (specifically the Bow Glacier) within the Rocky Mountains inside Banff National Park. From this icy source, the river violently plunges downward as a freezing mountain torrent, flows directly over the spectacular Bow Falls in Banff, carves through the rolling foothills, and sweeps straight through the center of the massive metropolis of Calgary. Ultimately, far out in the dry prairie, it merges physically with the Oldman River to form the mighty South Saskatchewan River. The English name of the river is a direct translation from the local First Nations languages, referring precisely to the strong reeds and saplings growing along its muddy banks that were traditionally utilized to fashion bows for hunting. The river functions as an absolutely indispensable lifeline for large-scale agriculture in the arid regions of southern Alberta, with a massive percentage of its lower flow diverted aggressively into complex irrigation networks. Additionally, the Bow River supplies essential municipal drinking water to well over a million residents. Biologically, the middle stretch of the river immediately downstream from Calgary is globally recognized as an absolute premier destination for world-class fly fishing for brown and rainbow trout. The flow is heavily managed by hydro dams to control destructive mountain meltwater floods in the spring."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Gesamtlänge des hochgradig regulierten Gebirgsflusses beträgt 587 Kilometer.",
+          "Der Fluss entspringt direkt aus dem Gletschereis des hoch gelegenen Wapta-Eisfelds.",
+          "Der Name verweist auf Uferhölzer, aus denen indigene Völker Pfeilbögen herstellten.",
+          "Das Wasser stürzt spektakulär über die Bow Falls im berühmten Banff National Park.",
+          "Der Fluss durchquert das Stadtzentrum von Calgary und versorgt über eine Million Menschen.",
+          "Ein massiver Teil des Unterlaufs wird für die unabdingbare Landwirtschaftsbewässerung umgeleitet.",
+          "Der Abschnitt südlich von Calgary gilt weltweit als absolutes Mekka für das Fliegenfischen."
+        ],
+        "hu": [
+          "Az erősen szabályozott hegyi folyó teljes hossza pontosan 587 kilométert tesz ki.",
+          "A folyó közvetlenül a magasan fekvő Wapta-jégmező gleccserjegéből ered.",
+          "A név a parti fákra utal, amelyekből az őslakos népek hagyományosan íjakat készítettek.",
+          "A víz látványosan zúdul alá a híres Banff Nemzeti Parkban lévő Bow-vízesésen.",
+          "A folyó átszeli Calgary városközpontját, és több mint egymillió embert lát el vízzel.",
+          "Az alsó szakasz masszív részét vezetik el az elengedhetetlen mezőgazdasági öntözés céljára.",
+          "A Calgarytól délre eső szakasz a legyező horgászat globálisan elismert abszolút mekkája."
+        ],
+        "ro": [
+          "Lungimea totală a râului de munte extrem de reglementat este de 587 de kilometri.",
+          "Râul izvorăște direct din gheața glaciară a Câmpului de Gheață Wapta situat la mare altitudine.",
+          "Numele se referă la lemnul de pe maluri din care indigenii făceau arcuri cu săgeți.",
+          "Apa cade spectaculos peste Cascadele Bow din faimosul Parc Național Banff.",
+          "Râul traversează centrul orașului Calgary și alimentează peste un milion de oameni.",
+          "O parte masivă a cursului inferior este deviată pentru irigațiile agricole indispensabile.",
+          "Secțiunea la sud de Calgary este considerată la nivel mondial ca o mecca absolută pentru pescuitul la muscă."
+        ],
+        "en": [
+          "The total physical length of this highly regulated mountain river is precisely 587 kilometers.",
+          "The river's freezing source water originates directly from the ice of the high-altitude Wapta Icefield.",
+          "The name directly references shoreline saplings used by indigenous peoples to build hunting bows.",
+          "The river water dramatically plunges over Bow Falls within the famous borders of Banff National Park.",
+          "The winding river violently cuts directly through downtown Calgary, supplying over a million citizens.",
+          "A massively significant percentage of the lower river is aggressively diverted for vital agricultural irrigation.",
+          "The immediate stretch south of Calgary is globally renowned as an absolute mecca for fly fishing."
+        ]
+      }
+    },
+    {
+      "id": "coast-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Coast Mountains (Küstenberge) sind eine massive Gebirgskette an der nordamerikanischen Westküste, die sich fast 1.600 Kilometer lang vom südwestlichen Yukon-Territorium quer durch die gesamte Küste von British Columbia bis zur Mündung des Fraser River in der Nähe von Vancouver erstreckt. Diese gewaltige Gebirgsstruktur entstand geologisch durch die anhaltende vulkanische Aktivität und die aggressive tektonische Subduktion der historischen Farallon- und Kula-Platten unter die Nordamerikanische Platte. Das Relief ist physisch extrem rau und durch massiven Gesteinsgranit geprägt. Die Landschaft ist stark gegliedert durch extrem tiefe, steilwandige ozeanische Fjorde, die sich hunderte Kilometer tief in das Festland schneiden. Klimatisch fangen die Küstenberge gigantische Feuchtigkeitsmengen aus dem Pazifischen Ozean auf, was zur Entwicklung eines der weltweit dichtesten gemäßigten Regenwälder auf der dem Ozean zugewandten Westseite führt. Auf den hoch gelegenen Gipfelplateaus sammeln sich wegen des massiven Schneefalls gigantische Mengen an ewigem Eis, was riesige Eisfelder (Icefields) wie das Homathko- und das Lillooet-Eisfeld entstehen ließ. Der absolute höchste Punkt dieser Kette ist der stark vergletscherte Mount Waddington, der mit 4.019 Metern dramatisch über das Relief ragt. Im Schatten dieser gigantischen Berge ist die östliche (landeinwärts gerichtete) Seite deutlich trockener und markiert den extremen landschaftlichen Übergang zum trockenen Landesinneren von British Columbia. Die schwer zugänglichen, zerklüfteten Coast Mountains sind größtenteils komplett unbesiedelt geblieben.",
+        "hu": "A Coast Mountains (Parti-hegység) egy masszív hegylánc az észak-amerikai nyugati parton, amely csaknem 1600 kilométer hosszan nyúlik el a délnyugati Yukon területtől Brit Columbia teljes partvidékén át egészen a Fraser-folyó torkolatáig, Vancouver közelében. Ez a hatalmas hegyszerkezet geológiailag a történelmi Farallon- és Kula-lemezeknek az Észak-amerikai-lemez alá történő agresszív tektonikus szubdukciója, valamint az ezzel járó folyamatos vulkáni tevékenység révén jött létre. A domborzat fizikailag rendkívül zord, és masszív gránitkőzet jellemzi. A tájat erősen tagolják a rendkívül mély, meredek falú óceáni fjordok, amelyek több száz kilométer mélyen bevágódnak a szárazföld belsejébe. Éghajlati szempontból a parti hegyek gigantikus mennyiségű nedvességet fognak fel a Csendes-óceán felől, ami a világ egyik legsűrűbb mérsékelt övi esőerdejének kialakulásához vezetett az óceán felé néző nyugati oldalon. A magas fekvésű csúcsplatókon a masszív havazás miatt gigantikus mennyiségű örök jég halmozódik fel, ami hatalmas jégmezőket (Icefields) hozott létre, mint például a Homathko- és a Lillooet-jégmező. A láncolat abszolút legmagasabb pontja az erősen eljegesedett Mount Waddington, amely 4019 méterével drámaian a domborzat fölé magasodik. E hatalmas hegyek árnyékában a keleti (szárazföld felé eső) oldal lényegesen szárazabb, és a Brit Columbia száraz belső területei felé mutató extrém tájképi átmenetet jelöli. A nehezen megközelíthető, zord Coast Mountains nagyrészt teljesen lakatlan maradt.",
+        "ro": "Coast Mountains (Munții de Coastă) reprezintă un lanț muntos masiv pe coasta de vest a Americii de Nord, care se întinde pe aproape 1.600 de kilometri de la sud-vestul Teritoriului Yukon, de-a lungul întregii coaste a Columbiei Britanice, până la gura de vărsare a râului Fraser lângă Vancouver. Această structură montană uriașă s-a format geologic prin activitatea vulcanică continuă și subducția tectonică agresivă a plăcilor istorice Farallon și Kula sub Placa Nord-Americană. Relieful este fizic extrem de aspru și caracterizat de granit masiv de rocă. Peisajul este puternic fragmentat de fiorduri oceanice cu pereți abrupți și extrem de adânci, care taie sute de kilometri adânc în continent. Climatic, munții de coastă captează cantități gigantice de umiditate din Oceanul Pacific, ceea ce duce la dezvoltarea uneia dintre cele mai dense păduri tropicale temperate din lume pe partea vestică orientată spre ocean. Pe platourile înalte ale vârfurilor, cantități uriașe de gheață veșnică se acumulează din cauza ninsorilor masive, creând câmpuri masive de gheață (Icefields) precum câmpul de gheață Homathko și Lillooet. Punctul absolut cel mai înalt al acestui lanț este puternicul glaciar Mount Waddington, care cu 4.019 metri se înalță dramatic deasupra reliefului. În umbra acestor munți gigantici, partea estică (îndreptată spre uscat) este semnificativ mai uscată și marchează tranziția peisagistică extremă spre interiorul arid al Columbiei Britanice. Greu accesibilii și accidentații Munți de Coastă au rămas în mare parte complet nepopulați.",
+        "en": "The Coast Mountains form a massive, rugged mountain range spanning the western coast of North America, aggressively extending for nearly 1,600 kilometers from the southwestern Yukon Territory straight down the entire coastline of British Columbia to the mouth of the Fraser River near Vancouver. This gigantic orographic structure was geologically forged by sustained volcanic activity and the aggressive tectonic subduction of the historic Farallon and Kula plates directly beneath the North American Plate. The physical relief is exceptionally harsh, heavily defined by massive uplifted blocks of granitic bedrock. The entire landscape is deeply fractured by an intricate labyrinth of extremely deep, sheer-walled oceanic fjords that slice hundreds of kilometers directly into the mainland. Climatically, these massive coastal mountains aggressively trap gigantic volumes of atmospheric moisture blowing in from the Pacific Ocean, directly leading to the intense development of one of the world's absolute densest temperate rainforests on the ocean-facing western slopes. High upon the elevated summit plateaus, massive annual snowfall accumulation generates gigantic expanses of eternal ice, resulting in vast, sprawling icefields such as the Homathko and Lillooet. The absolute highest peak in this formidable range is the heavily glaciated Mount Waddington, which towers dramatically above the surrounding relief at 4,019 meters. Residing deep within the rain shadow of these gigantic peaks, the eastern (inland-facing) slopes are drastically drier, marking a severe environmental transition toward the arid interior of British Columbia. The harsh, deeply inaccessible Coast Mountains remain largely and completely unpopulated."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die massive Gebirgskette erstreckt sich über eine gewaltige Länge von fast 1.600 Kilometern.",
+          "Aggressive tektonische Subduktion und starker Vulkanismus schufen die Granitberge.",
+          "Das raue Relief wird von extrem tiefen, meeresgefluteten Fjorden stark zerschnitten.",
+          "Die Westseite der Kette fängt pazifischen Regen ab und beherbergt dichte Regenwälder.",
+          "Extreme Schneemengen auf den Hochplateaus formen gigantische Eisfelder wie das Homathko.",
+          "Mount Waddington bildet mit 4.019 Metern den höchsten und am stärksten vergletscherten Punkt.",
+          "Die von den Bergen abgewandte Ostseite liegt im trockenen, extrem niederschlagsarmen Regenschatten."
+        ],
+        "hu": [
+          "A masszív hegylánc hatalmas, csaknem 1600 kilométeres hosszúságban nyúlik el.",
+          "A gránithegyeket agresszív tektonikus szubdukció és erős vulkanizmus hozta létre.",
+          "A zord domborzatot rendkívül mély, tenger által elárasztott fjordok szabdalják erősen szét.",
+          "A lánc nyugati oldala felfogja a csendes-óceáni esőket, és sűrű esőerdőknek ad otthont.",
+          "A magas fennsíkokon a rendkívüli hómennyiség olyan gigantikus jégmezőket formál, mint a Homathko.",
+          "A Mount Waddington 4019 méterével a hegység legmagasabb és legerősebben eljegesedett pontja.",
+          "A hegyektől elforduló keleti oldal száraz, rendkívül csapadékszegény esőárnyékban fekszik."
+        ],
+        "ro": [
+          "Lanțul muntos masiv se întinde pe o lungime uriașă de aproape 1.600 de kilometri.",
+          "Subducția tectonică agresivă și vulcanismul puternic au creat munții de granit.",
+          "Relieful aspru este puternic tăiat de fiorduri extrem de adânci, inundate de mare.",
+          "Partea de vest a lanțului captează ploaia din Pacific și găzduiește păduri tropicale dense.",
+          "Cantitățile extreme de zăpadă de pe platourile înalte formează câmpuri gigantice de gheață, cum ar fi Homathko.",
+          "Muntele Waddington, cu 4.019 metri, este cel mai înalt și cel mai puternic glaciar punct.",
+          "Partea estică, îndepărtată de munți, se află într-o umbră uscată, extrem de lipsită de precipitații."
+        ],
+        "en": [
+          "The massive, sprawling mountain range aggressively extends for a gigantic length of nearly 1,600 kilometers.",
+          "Aggressive tectonic subduction and intense historic volcanism directly forged the massive granite peaks.",
+          "The extremely harsh physical relief is deeply fractured by extremely deep, sea-flooded fjords.",
+          "The ocean-facing western slopes violently trap Pacific rain, fostering incredibly dense temperate rainforests.",
+          "Extreme winter snowfall on the high plateaus generates gigantic, ancient icefields like the Homathko.",
+          "Mount Waddington stands as the absolute highest and most heavily glaciated peak at precisely 4,019 meters.",
+          "The inland-facing eastern slopes sit securely within a drastic, extremely arid rain shadow."
+        ]
+      }
+    }
+  ]
+}

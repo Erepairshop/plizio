@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"],
+  "items": [
+    {
+      "id": "gabu-plateau-relief-v2",
+      "descriptionAdvancedDe": "Das Gabú-Plateau, im Osten Guinea-Bissaus gelegen, bildet den westlichsten Ausläufer der Fouta-Djallon-Hochebene. Dieses Relief ist deutlich trockener und höher als der Rest des Landes und markiert den Übergang von der feuchten Küstenregion zur trockeneren sudanesischen Savannenzone. Die Landschaft ist durch weite, offene Ebenen mit geringer Vegetationsdichte und lateritischen Böden geprägt. Traditionell ist diese Region das Zentrum der Viehzucht, insbesondere für das halbnomadische Volk der Fulbe. Die Höhe des Plateaus sorgt für ein etwas kühleres und weniger feuchtes Klima im Vergleich zur Küste, was die extensive Weidewirtschaft begünstigt.",
+      "descriptionAdvancedHu": "A Gabú-fennsík Bissau-Guinea keleti részén található, és a Fouta Djallon-fennsík legnyugatibb nyúlványát képezi. Ez a domborzat lényegesen szárazabb és magasabban fekszik, mint az ország többi része, és átmenetet képez a nedves partvidéki régió és a szárazabb szudáni szavanna-zóna között. A tájat tágas, nyílt síkságok jellemzik, alacsony növényzettel és laterit talajokkal. Hagyományosan ez a régió az állattenyésztés központja, különösen a félnomád fulbe nép számára. A fennsík magassága valamivel hűvösebb és kevésbé párás éghajlatot biztosít a parthoz képest, ami kedvez a rideg legeltetésnek.",
+      "descriptionAdvancedRo": "Podișul Gabú, situat în estul Guineei-Bissau, formează cea mai vestică extensie a podișului Fouta Djallon. Acest relief este semnificativ mai uscat și mai înalt decât restul țării, marcând tranziția de la regiunea de coastă umedă la zona de savană sudaneză mai uscată. Peisajul este caracterizat de câmpii largi, deschise, cu o densitate redusă a vegetației și soluri lateritice. În mod tradițional, această regiune este centrul creșterii vitelor, în special pentru poporul semi-nomad Fulbe. Altitudinea podișului asigură un climat puțin mai răcoros și mai puțin umed în comparație cu coasta, favorizând pășunatul extensiv.",
+      "descriptionAdvancedEn": "The Gabú Plateau, located in eastern Guinea-Bissau, forms the westernmost extension of the Fouta Djallon highlands. This relief is significantly drier and higher than the rest of the country, marking the transition from the humid coastal region to the drier Sudanese savanna zone. The landscape is characterized by wide, open plains with low vegetation density and lateritic soils. Traditionally, this region is the center of cattle farming, especially for the semi-nomadic Fulbe people. The plateau's altitude provides a slightly cooler and less humid climate compared to the coast, which favors extensive grazing.",
+      "factsAdvanced": [
+        "Östlichste Region von Guinea-Bissau",
+        "Ausläufer des Fouta-Djallon-Massivs",
+        "Trockeneres Klima als an der Küste",
+        "Geprägt von sudanesischer Savannenvegetation",
+        "Zentrum der Viehzucht des Landes",
+        "Heimat des halbnomadischen Fulbe-Volkes",
+        "Lateritische Böden und weite Ebenen",
+        "Wichtige Region für die Rinderhaltung"
+      ]
+    },
+    {
+      "id": "tombali-rainforest-relief-v2",
+      "descriptionAdvancedDe": "Der Tombali-Regenwald im südlichsten Teil Guinea-Bissaus beherbergt die letzten bedeutenden Fragmente des primären Oberguinea-Waldes des Landes. Dieses Relief ist durch extrem hohe Niederschlagsmengen und eine ganzjährig hohe Luftfeuchtigkeit gekennzeichnet, was die Bedingungen für dichten, mehrschichtigen tropischen Regenwald schafft. Das Gebiet ist ein Hotspot der Biodiversität und bietet Lebensraum für seltene und gefährdete Arten, darunter Waldelefanten und Schimpansen. Der Wald ist von unschätzbarem ökologischem Wert, da er zur Klimaregulierung beiträgt und eine wichtige Rolle im Wasserkreislauf der Region spielt. Schutzbemühungen konzentrieren sich auf die Erhaltung dieser letzten unberührten Waldgebiete vor Abholzung und landwirtschaftlicher Expansion.",
+      "descriptionAdvancedHu": "A Tombali-esőerdő Bissau-Guinea legdélibb részén található, és az ország utolsó jelentős felső-guineai őserdő-töredékeinek ad otthont. Ezt a területet rendkívül magas csapadékmennyiség és egész évben magas páratartalom jellemzi, ami megteremti a sűrű, többszintű trópusi esőerdő feltételeit. A terület a biológiai sokféleség egyik gócpontja, és élőhelyet biztosít ritka és veszélyeztetett fajoknak, köztük erdei elefántoknak és csimpánzoknak. Az erdő felbecsülhetetlen ökológiai értékkel bír, mivel hozzájárul az éghajlat szabályozásához, és fontos szerepet játszik a régió vízkörforgásában. A védelmi erőfeszítések ezen utolsó érintetlen erdőterületek megőrzésére összpontosítanak az erdőirtással és a mezőgazdasági terjeszkedéssel szemben.",
+      "descriptionAdvancedRo": "Pădurea tropicală Tombali din cea mai sudică parte a Guineei-Bissau găzduiește ultimele fragmente semnificative de pădure primară din Guineea Superioară. Acest relief este caracterizat de precipitații extrem de ridicate și umiditate constantă pe tot parcursul anului, creând condiții pentru o pădure tropicală densă, multi-stratificată. Zona este un punct fierbinte al biodiversității, oferind habitat pentru specii rare și pe cale de dispariție, inclusiv elefanți de pădure și cimpanzei. Pădurea are o valoare ecologică inestimabilă, contribuind la reglarea climei și jucând un rol important în ciclul apei din regiune. Eforturile de conservare se concentrează pe protejarea acestor ultime zone de pădure virgină împotriva defrișărilor și expansiunii agricole.",
+      "descriptionAdvancedEn": "The Tombali Rainforest in the southernmost part of Guinea-Bissau is home to the country's last significant fragments of primary Upper Guinean forest. This relief is characterized by extremely high rainfall and year-round high humidity, creating the conditions for dense, multi-layered tropical rainforest. The area is a biodiversity hotspot, providing habitat for rare and endangered species, including forest elephants and chimpanzees. The forest is of inestimable ecological value, contributing to climate regulation and playing a vital role in the region's water cycle. Conservation efforts focus on preserving these last pristine forest areas from deforestation and agricultural expansion.",
+      "factsAdvanced": [
+        "Letzte Reste des Primärregenwaldes in Guinea-Bissau",
+        "Liegt in der südlichsten Region Tombali",
+        "Extrem hohe jährliche Niederschlagsmengen",
+        "Hotspot der Biodiversität in Westafrika",
+        "Lebensraum für Waldelefanten und Schimpansen",
+        "Mehrschichtige, dichte tropische Vegetation",
+        "Wichtig für Klimaregulierung und Wasserkreislauf",
+        "Stark durch Abholzung und Landwirtschaft bedroht"
+      ]
+    },
+    {
+      "id": "cacheu-plain-relief-v2",
+      "descriptionAdvancedDe": "Die Cacheu-Ebene im Norden Guinea-Bissaus ist eine weitläufige, flache Alluvialebene, die stark vom gleichnamigen Fluss und den Gezeiten des Atlantiks geprägt ist. Das Relief ist extrem niedrig und von einem komplexen Netzwerk aus Meeresarmen (Bolongs), Sümpfen und Mangrovenwäldern durchzogen. Diese Landschaft ist ideal für den Nassreisanbau, der in dieser Region eine lange Tradition hat und die Lebensgrundlage für viele Gemeinden bildet. Die regelmäßigen Überschwemmungen durch Süß- und Salzwasser schaffen ein dynamisches Ökosystem, das reich an Vögeln und aquatischen Lebewesen ist. Der Naturpark Tarrafes do Rio Cacheu schützt einen großen Teil dieser einzigartigen Mangroven- und Sumpflandschaft.",
+      "descriptionAdvancedHu": "Az Észak-Bissau-Guineában található Cacheu-síkság egy kiterjedt, sík alluviális alföld, amelyet nagymértékben befolyásol az azonos nevű folyó és az Atlanti-óceán árapálya. A domborzat rendkívül alacsony, és tengerágak (bolongok), mocsarak és mangroveerdők komplex hálózata szövi át. Ez a táj ideális a nedves rizstermesztéshez, amelynek ebben a régióban nagy hagyománya van, és számos közösség megélhetését biztosítja. Az édes- és sósvízi áradások dinamikus ökoszisztémát hoznak létre, amely gazdag madarakban és vízi élőlényekben. A Tarrafes do Rio Cacheu Természeti Park védi ennek az egyedülálló mangrove- és mocsárvidéknek a nagy részét.",
+      "descriptionAdvancedRo": "Câmpia Cacheu din nordul Guineei-Bissau este o câmpie aluvionară vastă și plată, puternic influențată de râul omonim și de mareele Atlanticului. Relieful este extrem de jos și este străbătut de o rețea complexă de brațe de mare (bolongs), mlaștini și păduri de mangrove. Acest peisaj este ideal pentru cultivarea orezului umed, care are o lungă tradiție în această regiune și constituie baza traiului pentru multe comunități. Inundațiile regulate cu apă dulce și sărată creează un ecosistem dinamic, bogat în păsări și viețuitoare acvatice. Parcul Natural Tarrafes do Rio Cacheu protejează o mare parte din acest peisaj unic de mangrove și mlaștini.",
+      "descriptionAdvancedEn": "The Cacheu Plain in northern Guinea-Bissau is a vast, flat alluvial plain, heavily influenced by the river of the same name and the Atlantic tides. The relief is extremely low and crisscrossed by a complex network of sea arms (bolongs), swamps, and mangrove forests. This landscape is ideal for wet rice cultivation, which has a long tradition in this region and provides the livelihood for many communities. The regular flooding by fresh and saltwater creates a dynamic ecosystem rich in birds and aquatic life. The Tarrafes do Rio Cacheu Natural Park protects a large part of this unique mangrove and wetland landscape.",
+      "factsAdvanced": [
+        "Weitläufige Alluvialebene im Norden des Landes",
+        "Geprägt durch den Cacheu-Fluss und die Gezeiten",
+        "Durchzogen von einem Netzwerk aus Meeresarmen (Bolongs)",
+        "Hauptanbaugebiet für Nassreis in Guinea-Bissau",
+        "Teil des Naturparks Tarrafes do Rio Cacheu",
+        "Eines der größten zusammenhängenden Mangrovengebiete Westafrikas",
+        "Wichtiger Lebensraum für Wasservögel",
+        "Dynamisches Ökosystem an der Schnittstelle von Land und Meer"
+      ]
+    },
+    {
+      "id": "bubaque-coastal-relief-v2",
+      "descriptionAdvancedDe": "Die Küste der Insel Bubaque, dem administrativen Zentrum des Bijagós-Archipels, weist ein abwechslungsreiches Relief auf. Sandstrände wechseln sich mit felsigen Abschnitten aus rotem Lateritgestein ab. Bei Ebbe legen die Gezeiten breite, felsige Plateaus frei, die von den Einheimischen zum Sammeln von Meeresfrüchten genutzt werden. Im Gegensatz zu den schlammigen Mangrovenküsten des Festlandes ist das Wasser hier oft klarer. Das Relief der Insel selbst ist leicht hügelig und von Palmenhainen und kleinen landwirtschaftlichen Flächen bedeckt. Diese Küstenformationen, kombiniert mit der reichen Kultur der Bijagós, machen Bubaque zu einem wichtigen touristischen Ziel im Archipel.",
+      "descriptionAdvancedHu": "Bubaque szigetének partvidéke, a Bijagós-szigetcsoport közigazgatási központja, változatos domborzattal rendelkezik. A homokos strandok vörös lateritkőzetből álló sziklás szakaszokkal váltakoznak. Apálykor az árapály széles, sziklás fennsíkokat tár fel, amelyeket a helyiek tenger gyümölcseinek gyűjtésére használnak. A szárazföld iszapos mangrovepartjaival ellentétben itt a víz gyakran tisztább. Maga a sziget domborzata enyhén dombos, pálmaligetekkel és kis mezőgazdasági területekkel borított. Ezek a part menti képződmények a Bijagós-szigetek gazdag kultúrájával párosulva Bubaque-ot a szigetcsoport fontos turisztikai célpontjává teszik.",
+      "descriptionAdvancedRo": "Coasta insulei Bubaque, centrul administrativ al Arhipelagului Bijagós, prezintă un relief variat. Plajele de nisip alternează cu secțiuni stâncoase de laterit roșu. La reflux, mareele dezvăluie platouri stâncoase largi, folosite de localnici pentru colectarea fructelor de mare. Spre deosebire de coastele noroioase cu mangrove de pe continent, apa aici este adesea mai limpede. Relieful insulei în sine este ușor deluros și acoperit cu plantații de palmieri și mici terenuri agricole. Aceste formațiuni de coastă, combinate cu cultura bogată a poporului Bijagós, fac din Bubaque o destinație turistică importantă în arhipelag.",
+      "descriptionAdvancedEn": "The coast of Bubaque Island, the administrative center of the Bijagós Archipelago, features a varied relief. Sandy beaches alternate with rocky sections of red laterite stone. At low tide, the tides expose wide, rocky plateaus used by locals for collecting seafood. Unlike the muddy mangrove coasts of the mainland, the water here is often clearer. The island's relief itself is slightly hilly and covered with palm groves and small agricultural plots. These coastal formations, combined with the rich culture of the Bijagós people, make Bubaque an important tourist destination in the archipelago.",
+      "factsAdvanced": [
+        "Teil des Bijagós-Archipels, UNESCO-Biosphärenreservat",
+        "Wechsel aus Sandstränden und roten Lateritfelsen",
+        "Bei Ebbe werden breite Felsplateaus freigelegt",
+        "Administratives Zentrum des Archipels",
+        "Klareres Wasser als an der Festlandküste",
+        "Leicht hügeliges Inselinneres mit Palmen",
+        "Wichtiges Ziel für den Tourismus in Guinea-Bissau",
+        "Traditionelle Fischerei und Sammelwirtschaft an der Küste"
+      ]
+    },
+    {
+      "id": "rubane-forest-relief-v2",
+      "descriptionAdvancedDe": "Der Wald auf der Insel Rubane, die direkt neben Bubaque im Bijagós-Archipel liegt, ist ein Beispiel für den dichten, feuchten Tropenwald, der einst große Teile der Inseln bedeckte. Dieses Relief ist durch eine hohe Baumdichte und ein geschlossenes Kronendach gekennzeichnet, das ein feuchtes Mikroklima am Waldboden schafft. Der Wald ist reich an Biodiversität und beherbergt zahlreiche Vogelarten, Reptilien und Säugetiere, die an das Inselleben angepasst sind. Da Rubane ein beliebtes Ziel für Ökotourismus und Sportfischerei ist, gibt es Bemühungen, diesen Wald zu schützen und seine ökologische Integrität zu bewahren. Er stellt einen wichtigen Kontrast zu den stärker kultivierten Flächen auf benachbarten Inseln dar.",
+      "descriptionAdvancedHu": "A Rubane-sziget erdeje, amely közvetlenül Bubaque mellett található a Bijagós-szigetcsoportban, példája annak a sűrű, nedves trópusi erdőnek, amely egykor a szigetek nagy részét borította. Ezt a domborzatot magas fasűrűség és zárt lombkorona jellemzi, amely nedves mikroklímát teremt az erdő talaján. Az erdő biológiai sokféleségben gazdag, és számos, a szigeti élethez alkalmazkodott madár-, hüllő- és emlősfajnak ad otthont. Mivel Rubane az ökoturizmus és a sporthorgászat kedvelt célpontja, erőfeszítéseket tesznek az erdő védelmére és ökológiai integritásának megőrzésére. Fontos kontrasztot képez a szomszédos szigetek erősebben művelt területeivel.",
+      "descriptionAdvancedRo": "Pădurea de pe insula Rubane, situată chiar lângă Bubaque în Arhipelagul Bijagós, este un exemplu de pădure tropicală densă și umedă care acoperea odinioară mari părți ale insulelor. Acest relief este caracterizat de o densitate mare a copacilor și de o coroană închisă, care creează un microclimat umed la nivelul solului pădurii. Pădurea este bogată în biodiversitate și găzduiește numeroase specii de păsări, reptile și mamifere adaptate la viața insulară. Deoarece Rubane este o destinație populară pentru ecoturism și pescuit sportiv, există eforturi pentru a proteja această pădure și a-i păstra integritatea ecologică. Ea reprezintă un contrast important cu zonele mai intens cultivate de pe insulele învecinate.",
+      "descriptionAdvancedEn": "The forest on Rubane Island, located right next to Bubaque in the Bijagós Archipelago, is an example of the dense, humid tropical forest that once covered large parts of the islands. This relief is characterized by a high tree density and a closed canopy, which creates a humid microclimate on the forest floor. The forest is rich in biodiversity, hosting numerous bird, reptile, and mammal species adapted to island life. As Rubane is a popular destination for ecotourism and sport fishing, there are efforts to protect this forest and preserve its ecological integrity. It provides an important contrast to the more heavily cultivated areas on neighboring islands.",
+      "factsAdvanced": [
+        "Dichter, feuchter Tropenwald auf der Insel Rubane",
+        "Teil des Bijagós-Archipels",
+        "Hohe Baumdichte und geschlossenes Kronendach",
+        "Reich an endemischen und seltenen Arten",
+        "Wichtiges Ziel für Ökotourismus und Vogelbeobachtung",
+        "Gegenstück zu den kultivierten Palmenhainen auf Bolama",
+        "Wichtiger Lebensraum für die lokale Fauna",
+        "Schutzbemühungen zur Erhaltung des Waldes"
+      ]
+    }
+  ]
+}

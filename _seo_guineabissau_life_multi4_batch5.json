@@ -1,0 +1,41 @@
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauLifeV2.ts"],
+  "items": [
+    {
+      "id": "bubaque-strand-spiel-life-v2",
+      "descriptionAdvancedDe": "Die Insel Bubaque ist das touristische Zentrum des Bijagós-Archipels und besonders bei Familien beliebt. Die Strände hier, wie der Praia de Bruce, sind ideal für Kinder. Der Sand ist fein, das Wasser ist meist flach und durch die geschützte Lage gibt es kaum starke Strömungen oder hohe Wellen. Viele Strandabschnitte werden von Kokospalmen gesäumt, die natürlichen Schatten spenden. Hier können Kinder sicher im Sand spielen, Sandburgen bauen und im warmen, klaren Wasser planschen. Einige der kleinen, familiengeführten Hotels und Lodges in der Nähe der Strände bieten zusätzliche Annehmlichkeiten für Familien. Die entspannte und sichere Atmosphäre macht die Strände von Bubaque zu einem perfekten Ort für einen unbeschwerten Familientag, weit weg von der Hektik des Festlandes.",
+      "descriptionAdvancedHu": "Bubaque szigete a Bijagós-szigetcsoport turisztikai központja, és különösen népszerű a családok körében. Az itteni strandok, mint például a Praia de Bruce, ideálisak a gyermekek számára. A homok finom, a víz többnyire sekély, és a védett fekvésnek köszönhetően alig vannak erős áramlatok vagy magas hullámok. Sok strandszakaszt kókuszpálmák szegélyeznek, amelyek természetes árnyékot adnak. Itt a gyerekek biztonságosan játszhatnak a homokban, homokvárakat építhetnek és pancsolhatnak a meleg, tiszta vízben. A strandok közelében található kis, családi vezetésű szállodák és páholyok némelyike további kényelmet biztosít a családoknak. A nyugodt és biztonságos légkör Bubaque strandjait tökéletes hellyé teszi egy gondtalan családi naphoz, távol a szárazföld nyüzsgésétől.",
+      "descriptionAdvancedRo": "Insula Bubaque este centrul turistic al Arhipelagului Bijagós și este deosebit de populară printre familii. Plajele de aici, cum ar fi Praia de Bruce, sunt ideale pentru copii. Nisipul este fin, apa este în mare parte puțin adâncă și, datorită locației protejate, aproape că nu există curenți puternici sau valuri înalte. Multe secțiuni de plajă sunt mărginite de palmieri de cocos, care oferă umbră naturală. Aici, copiii se pot juca în siguranță în nisip, pot construi castele de nisip și se pot bălăci în apa caldă și limpede. Unele dintre hotelurile și cabanele mici, administrate de familii, din apropierea plajelor, oferă facilități suplimentare pentru familii. Atmosfera relaxată și sigură face din plajele din Bubaque un loc perfect pentru o zi de familie fără griji, departe de agitația continentului.",
+      "descriptionAdvancedEn": "Bubaque Island is the tourist center of the Bijagós Archipelago and is particularly popular with families. The beaches here, such as Praia de Bruce, are ideal for children. The sand is fine, the water is mostly shallow, and due to the protected location, there are hardly any strong currents or high waves. Many beach sections are lined with coconut palms that provide natural shade. Here, children can play safely in the sand, build sandcastles, and splash in the warm, clear water. Some of the small, family-run hotels and lodges near the beaches offer additional amenities for families. The relaxed and safe atmosphere makes the beaches of Bubaque a perfect place for a carefree family day, far from the hustle and bustle of the mainland.",
+      "factsAdvanced": [
+        "Praia de Bruce ist einer der bekanntesten und zugänglichsten Strände auf Bubaque.",
+        "Das Wasser hat während des größten Teils des Jahres eine Temperatur von über 25°C.",
+        "Bei Ebbe entstehen oft kleine, flache Pools, die ideal für Kleinkinder sind.",
+        "Lokale Fischerboote (Piogues) bieten Fahrten zu benachbarten, unbewohnten Inseln an.",
+        "Die Strände sind selten überfüllt und bieten viel Platz.",
+        "Man kann oft Kinder aus den umliegenden Dörfern beim Spielen am Strand beobachten.",
+        "Es gibt keine gefährlichen Meerestiere in den Badebereichen.",
+        "Der Sonnenuntergang an den Weststränden von Bubaque ist spektakulär."
+      ]
+    },
+    {
+      "id": "biblioteca-infantil-life-v2",
+      "descriptionAdvancedDe": "Die Kinderbibliothek in Bissau ist eine kleine, aber lebenswichtige Oase des Lernens und der Fantasie. Gegründet durch private Initiativen und oft von Freiwilligen betrieben, bietet sie Kindern einen Zugang zu Büchern, den es in vielen Schulen und Haushalten nicht gibt. Die Sammlung umfasst Bilderbücher, einfache Lesebücher und Nachschlagewerke in verschiedenen Sprachen, hauptsächlich Portugiesisch und Französisch. Der Raum ist als sicherer und ruhiger Ort konzipiert, an dem Kinder nach der Schule ihre Hausaufgaben machen, lesen oder an betreuten Aktivitäten teilnehmen können. Die Bibliothek spielt eine entscheidende Rolle bei der Leseförderung in einer Umgebung, in der die Alphabetisierungsrate niedrig ist. Sie dient nicht nur als Ort des Lernens, sondern auch als sozialer Treffpunkt, der den Horizont der Kinder erweitert und ihre Neugier weckt.",
+      "descriptionAdvancedHu": "A bissaui gyermekkönyvtár a tanulás és a fantázia kicsi, de létfontosságú oázisa. Magánkezdeményezésekből alapították, és gyakran önkéntesek működtetik. Hozzáférést biztosít a gyermekeknek a könyvekhez, ami sok iskolában és háztartásban hiányzik. A gyűjtemény képeskönyveket, egyszerű olvasókönyveket és kézikönyveket tartalmaz különböző nyelveken, főként portugálul és franciául. A helyiséget biztonságos és csendes helynek tervezték, ahol a gyerekek iskola után elkészíthetik a házi feladatukat, olvashatnak vagy felügyelt tevékenységeken vehetnek részt. A könyvtár döntő szerepet játszik az olvasás népszerűsítésében egy olyan környezetben, ahol az írástudás aránya alacsony. Nemcsak a tanulás helyszíneként szolgál, hanem társadalmi találkozóhelyként is, amely tágítja a gyermekek látókörét és felkelti kíváncsiságukat.",
+      "descriptionAdvancedRo": "Biblioteca pentru copii din Bissau este o oază mică, dar vitală, de învățare și imaginație. Fondată prin inițiative private și adesea condusă de voluntari, aceasta oferă copiilor acces la cărți, care lipsește în multe școli și gospodării. Colecția include cărți ilustrate, cărți de lectură simple și lucrări de referință în diferite limbi, în principal portugheză și franceză. Spațiul este conceput ca un loc sigur și liniștit, unde copiii își pot face temele după școală, pot citi sau pot participa la activități supravegheate. Biblioteca joacă un rol crucial în promovarea lecturii într-un mediu în care rata de alfabetizare este scăzută. Nu servește doar ca loc de învățare, ci și ca punct de întâlnire socială, care lărgește orizonturile copiilor și le stârnește curiozitatea.",
+      "descriptionAdvancedEn": "The Children's Library in Bissau is a small but vital oasis of learning and imagination. Founded through private initiatives and often run by volunteers, it offers children access to books that are not available in many schools and households. The collection includes picture books, simple readers, and reference works in various languages, mainly Portuguese and French. The space is designed as a safe and quiet place where children can do their homework after school, read, or participate in supervised activities. The library plays a crucial role in promoting literacy in an environment where the literacy rate is low. It serves not only as a place of learning but also as a social meeting point that broadens children's horizons and awakens their curiosity.",
+      "factsAdvanced": [
+        "Oft finanziert durch internationale NGOs und private Spenden.",
+        "Dient als wichtiger außerschulischer Lernort.",
+        "Organisiert regelmäßig Lese- und Schreibwettbewerbe für Kinder.",
+        "Verfügt oft über die einzige öffentliche Sammlung von Kinderbüchern in der Stadt.",
+        "Freiwillige Helfer unterstützen die Kinder bei ihren Hausaufgaben.",
+        "Einige Bibliotheken bieten auch Computer mit Internetzugang an.",
+        "Die Bücher sind oft gebraucht, aber sehr geschätzt.",
+        "Die Existenz solcher Bibliotheken hängt stark vom Engagement Einzelner ab."
+      ]
+    }
+  ]
+}

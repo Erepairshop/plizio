@@ -1,4 +1,4 @@
-import { POI } from "./poi";
+import { POI } from "./lib/visualLab/data/poi";
 
 const poiExtraAndorraCitiesData: any = [
   {

@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "Maldives",
+  "files": [
+    "lib/visualLab/data/poiExtraMaldivesReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dhigurah-beach-relief-v2",
+      "description": "Dhigurah este cunoscută pentru plajele sale lungi cu nisip alb și recifele de corali din apropiere. Insula oferă oportunități excelente pentru observarea rechinilor-balenă.",
+      "facts": ["Situată în Atolul Ari de Sud", "Lungime insulă: 3 km", "Populație: 600 locuitori", "Destinație populară pentru scufundări"]
+    },
+    {
+      "id": "fulhadhoo-beach-relief-v2",
+      "description": "Fulhadhoo este o insulă liniștită din Atolul Baa, renumită pentru apele sale cristaline și vegetația tropicală densă. Este un loc ideal pentru vizitatorii care caută intimitate și natură nealterată.",
+      "facts": ["Situată în Rezervația Biosferei UNESCO", "Plaje izolate cu nisip fin", "Localizată în Atolul Baa", "Fără stațiuni turistice masive"]
+    },
+    {
+      "id": "hulhumale-beach-relief-v2",
+      "description": "Hulhumalé este o insulă artificială situată în apropierea capitalei Malé, fiind un centru urban modern cu plaje bine amenajate. Insula este conectată de aeroport printr-un drum rutier.",
+      "facts": ["Insulă creată prin recuperare de teren", "Suprafață: 4 km²", "Proiect de urbanizare modern", "Acces facil din Aeroportul Velana"]
+    },
+    {
+      "id": "cocoa-island-beach-relief-v2",
+      "description": "Cocoa Island este un atol privat exclusivist, celebru pentru vilele construite deasupra apei și lagunele sale turcoaz. Insula este protejată de un recif de corali spectaculos.",
+      "facts": ["Situată în Atolul Male Sud", "Recif de corali propriu", "Acces exclusiv pentru turiști", "Vile pe apă"]
+    },
+    {
+      "id": "lily-beach-relief-v2",
+      "description": "Lily Beach este situată pe insula Huvahendhoo și este recunoscută pentru ofertele sale all-inclusive și activitățile marine. Reciful casei oferă condiții excelente pentru snorkeling.",
+      "facts": ["Localizată în Atolul Ari", "Recif de corali bogat", "Stațiune de lux renumită", "Activități nautice variate"]
+    },
+    {
+      "id": "vabbinfaru-beach-relief-v2",
+      "description": "Vabbinfaru este o mică insulă tropicală din Atolul Male Nord, renumită pentru conservarea coralilor și frumusețea naturală. Insula oferă o atmosferă intimă de tip boutique.",
+      "facts": ["Situată în Atolul Male Nord", "Centru de conservare coralină", "Vegetație tropicală luxuriantă", "Plaje cu nisip alb"]
+    },
+    {
+      "id": "nika-island-beach-relief-v2",
+      "description": "Nika Island atrage vizitatorii cu plajele sale private și vilele tradiționale, oferind o experiență maldiviană autentică. Insula este înconjurată de o lagună cu ape adânci, ideală pentru înot.",
+      "facts": ["Localizată în Atolul Ari", "Vile cu plajă privată", "Lagună adâncă", "Design tradițional"]
+    },
+    {
+      "id": "meeru-island-beach-relief-v2",
+      "description": "Meeru Island este una dintre cele mai mari insule stațiune din Maldive, având plaje întinse și o gamă largă de facilități turistice. Insula găzduiește un muzeu mic al istoriei locale.",
+      "facts": ["Situată în Atolul Male Nord", "Lungime: 1200 metri", "Stațiune populară internațional", "Facilități sportive complete"]
+    },
+    {
+      "id": "thoddoo-beach-relief-v2",
+      "description": "Thoddoo este o insulă agricolă, renumită în special pentru culturile sale de pepeni verzi și plajele publice bine întreținute. Este unul dintre puținele locuri unde turiștii pot experimenta viața locală.",
+      "facts": ["Centru agricol major", "Plaje publice amenajate", "Situată în Atolul Alif Alif", "Producție locală de fructe"]
+    },
+    {
+      "id": "omadhoo-beach-relief-v2",
+      "description": "Omadhoo oferă o privire autentică în viața comunității locale din Maldive, fiind mai puțin comercială decât insulele stațiune. Plajele sale sunt un loc excelent pentru observarea vieții marine.",
+      "facts": ["Localizată în Atolul Ari de Sud", "Populație locală activă", "Recife de corali virgine", "Atmosferă tradițională"]
+    },
+    {
+      "id": "fihalhohi-beach-relief-v2",
+      "description": "Fihalhohi este o insulă stațiune pitorească, înconjurată de o vegetație bogată și plaje cu nisip fin. Reciful insulei este ușor accesibil pentru toți vizitatorii.",
+      "facts": ["Situată în Atolul Male Sud", "Pădure tropicală densă", "Recif de corali accesibil", "Stațiune ecologică"]
+    },
+    {
+      "id": "sun-island-beach-relief-v2",
+      "description": "Sun Island, cunoscută și sub numele de Nalaguraidhoo, este una dintre cele mai mari insule stațiune, oferind facilități extinse și plaje lungi. Este faimoasă pentru alimentarea pisicilor de mare și rechinilor mici.",
+      "facts": ["Localizată în Atolul Ari de Sud", "Una dintre cele mai mari stațiuni", "Lagună largă", "Centru de activități marine"]
+    },
+    {
+      "id": "ihuru-beach-relief-v2",
+      "description": "Ihuru este o insulă de dimensiuni mici, renumită pentru reciful său circular de corali, considerat unul dintre cele mai frumoase din Maldive. Este un punct de interes pentru pasionații de ecologie marină.",
+      "facts": ["Situată în Atolul Male Nord", "Recif circular perfect", "Insulă de dimensiuni mici", "Destinație pentru snorkeling"]
+    }
+  ]
+}

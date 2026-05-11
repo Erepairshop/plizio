@@ -1,0 +1,14 @@
+{
+  "lang": "hu",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dili-promenade-park-life-v2",
+      "description": "Dili tengerparti sétánya és parkja, amely a városi pihenés elsődleges helyszíne. A helyiek és turisták körében is népszerű.",
+      "facts": ["Tengerparti sétány", "Városi park", "Dili fő közösségi tere"]
+    }
+  ]
+}

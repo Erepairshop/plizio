@@ -1,0 +1,39 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "phare-cap-minne-landmarks-v2",
+      "description": "Phare du Cap Miné is a historic lighthouse located near Antsiranana, offering panoramic views of the bay and the surrounding coastal landscape.",
+      "facts": ["Historical coastal lighthouse", "Scenic bay viewpoint", "Maritime heritage site"]
+    },
+    {
+      "id": "hotel-des-thermes-landmarks-v2",
+      "description": "Hôtel des Thermes in Antsirabe is an iconic colonial-era building famous for its grand architecture and historical significance as a spa destination.",
+      "facts": ["Historic colonial hotel", "Iconic architectural landmark", "Famous thermal spa history"]
+    },
+    {
+      "id": "pont-kamoro-landmarks-v2",
+      "description": "Pont Kamoro is a notable historic bridge in Madagascar, recognized for its engineering design and role in connecting major regional transport routes.",
+      "facts": ["Notable historic bridge", "Engineering landmark", "Key regional transport link"]
+    },
+    {
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "description": "Fort Flacourt in Taolagnaro (Fort-Dauphin) contains the ruins of a 17th-century French fortification, marking the first French attempt to establish a colony on the island.",
+      "facts": ["17th-century fortification ruins", "Early French colonial site", "Historical defensive landmark"]
+    },
+    {
+      "id": "palais-justice-amboasary-landmarks-v2",
+      "description": "The courthouse in Amboasary is a significant civic building, representing the administrative history and architectural style of the region.",
+      "facts": ["Significant civic landmark", "Regional administrative hub", "Architectural history site"]
+    },
+    {
+      "id": "katedraly-faravohitra-landmarks-v2",
+      "description": "Faravohitra Cathedral in Antananarivo is a prominent religious landmark known for its beautiful architecture and central location in the capital's historic district.",
+      "facts": ["Prominent city cathedral", "Beautiful architectural style", "Historic capital landmark"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "muy-muy-matagalpa-cities-v2",
+      "description": "Muy Muy im Departement Matagalpa ist ein ländliches Zentrum, das vor allem von der Landwirtschaft geprägt ist.",
+      "facts": ["Matagalpa Departement", "Ländlich", "Landwirtschaft"]
+    },
+    {
+      "id": "terrabona-matagalpa-cities-v2",
+      "description": "Terrabona liegt in einer bergigen Region des Departements Matagalpa und bietet eine ruhige, landschaftlich schöne Umgebung.",
+      "facts": ["Matagalpa Departement", "Bergig", "Ruhig"]
+    },
+    {
+      "id": "quilali-nueva-segovia-cities-v2",
+      "description": "Quilalí ist eine Gemeinde im Departement Nueva Segovia, eingebettet in die grünen Berglandschaften des Nordens.",
+      "facts": ["Nueva Segovia", "Bergregion", "Nördlich"]
+    },
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "description": "San Fernando im Departement Nueva Segovia ist bekannt für sein kühleres Klima und die Nähe zu geschützten Waldgebieten.",
+      "facts": ["Nueva Segovia", "Kühles Klima", "Waldnähe"]
+    },
+    {
+      "id": "almicamba-cities-v2",
+      "description": "Almicamba ist eine abgelegene Siedlung, die vor allem durch ihre ländliche Struktur und lokale Agrarwirtschaft definiert wird.",
+      "facts": ["Ländlich", "Agrarwirtschaft", "Abgelegen"]
+    },
+    {
+      "id": "desembocadura-de-rio-grande-cities-v2",
+      "description": "Diese Gemeinde liegt an der Mündung des Río Grande de Matagalpa in der Autonomen Region Karibikküste Süd.",
+      "facts": ["Karibikküste", "Flussmündung", "Abgelegen"]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "description": "Die Corn Islands sind karibische Inseln vor der Küste Nicaraguas, berühmt für ihre weißen Strände und kristallklares Wasser.",
+      "facts": ["Karibikinseln", "Strandparadies", "Tourismus"]
+    },
+    {
+      "id": "la-cruz-de-rio-grande-cities-v2",
+      "description": "La Cruz de Río Grande liegt in einer wasserreichen Waldregion und ist ein wichtiges Zentrum der Flussregion.",
+      "facts": ["Flussregion", "Waldreich", "Abgelegen"]
+    },
+    {
+      "id": "el-tortuguero-cities-v2",
+      "description": "El Tortuguero ist eine Gemeinde im tiefen Waldgebiet der Karibikregion, geprägt durch Flusstransport und Waldwirtschaft.",
+      "facts": ["Karibikregion", "Waldwirtschaft", "Flussgebiete"]
+    },
+    {
+      "id": "paiwas-cities-v2",
+      "description": "Paiwas ist eine weitläufige Gemeinde in den Waldregionen der Karibikküste Süd, in der Viehzucht eine zentrale Rolle spielt.",
+      "facts": ["Karibikküste", "Viehzucht", "Ländlich"]
+    }
+  ]
+}

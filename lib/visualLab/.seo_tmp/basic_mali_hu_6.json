@@ -1,0 +1,24 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "segou-grand-mosque-landmarks-v2",
+      "description": "Segou egyik legmeghatározóbb vallási épülete, amely a hagyományos szudáni-száheli építészeti stílust képviseli. A város kulturális életének központi helyszíne.",
+      "facts": ["Szudáni-száheli stílus", "Segou városa", "Vallási központ"]
+    },
+    {
+      "id": "peace-monument-tombouctou-landmarks-v2",
+      "description": "Timbuktu békéjét és az ország egységét szimbolizáló emlékmű, amely a város történelmi központjának közelében található. A helyi lakosok találkozóhelye.",
+      "facts": ["Timbuktu belvárosa", "Béke jelképe", "Modern emlékmű"]
+    },
+    {
+      "id": "grand-marche-bamako-landmarks-v2",
+      "description": "Bamako legnagyobb és legnyüzsgőbb piaca, ahol a helyi kézműves termékektől a fűszerekig mindent megtalálni. A város kereskedelmi lüktetésének központja.",
+      "facts": ["Bamako legnagyobb piaca", "Helyi kereskedelem", "Nyüzsgő forgatag"]
+    }
+  ]
+}

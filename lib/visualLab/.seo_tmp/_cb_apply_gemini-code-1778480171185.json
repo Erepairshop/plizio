@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "orango-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Orango ist das Herzstück des gleichnamigen Nationalparks im Bijagós-Archipel und stellt eine der ökologisch wertvollsten Zonen Westafrikas dar. Die Geografie der Insel ist geprägt von einem komplexen Mosaik aus dichten Mangrovenwäldern, ausgedehnten Palmenhainen und weiten Küstensavannen, die von flachen Lagunen durchzogen werden. Diese Vielfalt an Lebensräumen ermöglicht eine außergewöhnliche Biodiversität. Weltberühmt ist Orango für seine Population von Salzwassernilpferden, die sich an das Leben in den Meeresbuchten angepasst haben – ein biologisches Unikum. Neben diesen Giganten bietet die Insel Lebensraum für Krokodile, Meeresschildkröten und eine immense Anzahl an Zugvögeln. Der Orango-Nationalpark wird in enger Zusammenarbeit mit den lokalen Bijagó-Gemeinschaften verwaltet, deren spirituelle Verbindung zur Natur als effektiver Schutzmechanismus fungiert. Heilige Stätten und traditionelle Tabus verhindern die Übernutzung der Ressourcen. Die Insel ist zudem ein Zentrum der matriarchalisch geprägten Kultur der Bijagós, was sie zu einem Ort von hoher ethnographischer Bedeutung macht. Für Naturforscher und Ökotouristen bietet Orango eine der ursprünglichsten Landschaften des Atlantiks, in der evolutionäre Prozesse und traditionelle Lebensweisen in einem empfindlichen Gleichgewicht koexistieren.",
+        "hu": "Orango szigete a Bijagós-szigetcsoport azonos nevű nemzeti parkjának központi eleme, és Nyugat-Afrika egyik legértékesebb ökológiai zónája. A sziget földrajzát sűrű mangroveerdők, kiterjedt pálmaligetek és tágas parti szavannák mozaikja határozza meg, amelyet sekély lagúnák szabdalnak fel. Ez az élőhelyi változatosság rendkívüli biodiverzitást tesz lehetővé. Orango világhírét a sós vízi vízilovaknak köszönheti, amelyek egyedülálló módon alkalmazkodtak a tengeröblökben való élethez. Ezen óriások mellett a sziget krokodiloknak, tengeri teknősöknek és hatalmas mennyiségű vándormadárnak nyújt otthont. Az Orango Nemzeti Parkot a helyi bijagó közösségekkel szoros együttműködésben kezelik, akiknek a természettel való spirituális kapcsolata hatékony védelmi mechanizmusként működik. A szent helyek és a hagyományos tabuk megakadályozzák az erőforrások túlzott kiaknázását. A sziget emellett a bijagók matriarchális kultúrájának központja, ami kiemelkedő néprajzi jelentőséget kölcsönöz neki. A természetkutatók és ökoturisták számára Orango az Atlanti-óceán egyik legérintetlenebb táját kínálja, ahol az evolúciós folyamatok és a hagyományos életmód kényes egyensúlyban létezik egymás mellett.",
+        "ro": "Insula Orango este piesa centrală a parcului național cu același nume din Arhipelagul Bijagós, reprezentând una dintre cele mai valoroase zone ecologice din Africa de Vest. Geografia insulei este definită de un mozaic complex de păduri dense de mangrove, plantații vaste de palmieri și savane de coastă, intersectate de lagune puțin adânci. Această diversitate de habitate permite o biodiversitate excepțională. Orango este faimoasă la nivel mondial pentru populația sa de hipopotami de apă sărată, care s-au adaptat în mod unic la viața în golfurile marine. Pe lângă acești giganți, insula oferă adăpost crocodililor, țestoaselor marine și unui număr imens de păsări migratoare. Parcul Național Orango este gestionat în strânsă colaborare cu comunitățile locale Bijagó, a căror legătură spirituală cu natura funcționează ca un mecanism de protecție eficient. Locurile sacre și tabuurile tradiționale previn supraexploatarea resurselor. Insula este, de asemenea, un centru al culturii matriarhale a poporului Bijagó, ceea ce îi conferă o importanță etnografică ridicată. Pentru cercetătorii naturii și ecoturiști, Orango oferă unul dintre cele mai virgine peisaje de la Atlantic, unde procesele evolutive și modurile de viață tradiționale coexistă într-un echilibru fragil.",
+        "en": "Orango Island is the centerpiece of the national park of the same name within the Bijagós Archipelago, representing one of West Africa's most ecologically valuable zones. The island's geography is defined by a complex mosaic of dense mangrove forests, extensive palm groves, and broad coastal savannas interspersed with shallow lagoons. This diversity of habitats supports extraordinary biodiversity. Orango is world-famous for its population of saltwater hippos, which have uniquely adapted to life in the marine bays – a biological anomaly. In addition to these giants, the island provides habitat for crocodiles, sea turtles, and an immense number of migratory birds. The Orango National Park is managed in close collaboration with the local Bijagó communities, whose spiritual connection to nature acts as an effective protection mechanism. Sacred sites and traditional taboos prevent the overexploitation of resources. The island is also a hub for the matriarchal culture of the Bijagós, giving it high ethnographic significance. For naturalists and ecotourists, Orango offers one of the most pristine Atlantic landscapes, where evolutionary processes and traditional ways of life coexist in a delicate balance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Orango ist die größte Insel im westlichen Teil des Bijagós-Archipels.",
+          "Der Nationalpark wurde bereits 1998 zum Schutz der Nilpferde gegründet.",
+          "Die Insel beherbergt wichtige Gräber der Bijagó-Könige und -Königinnen.",
+          "Es gibt hier eine seltene Kombination aus marinen und terrestrischen Ökosystemen.",
+          "Die Mangrovenwälder von Orango gehören zu den am besten erhaltenen der Region.",
+          "Der Zugang zur Insel ist streng reglementiert, um den Ökotourismus nachhaltig zu gestalten."
+        ],
+        "hu": [
+          "Orango a Bijagós-szigetcsoport nyugati részének legnagyobb szigete.",
+          "A nemzeti parkot 1998-ban hozták létre a vízilovak védelmére.",
+          "A szigeten találhatók a bijagó uralkodók szent temetkezési helyei.",
+          "Különleges tengeri és szárazföldi ökoszisztémák találkozási pontja.",
+          "A sziget mangroveerdői a térség legépszerűbb állapotú erdői közé tartoznak.",
+          "A turizmus korlátozott, hogy megőrizzék a terület érintetlenségét."
+        ],
+        "ro": [
+          "Orango este cea mai mare insulă din partea vestică a arhipelagului.",
+          "Parcul național a fost înființat în 1998 pentru protejarea biodiversității.",
+          "Găzduiește mormintele sacre ale regilor și reginelor poporului Bijagó.",
+          "Este un sit esențial pentru studiul hipopotamilor care înoată în ocean.",
+          "Ecosistemul de mangrove este vital pentru reproducerea peștilor locali.",
+          "Vizitarea parcului necesită permise speciale și ghizi locali."
+        ],
+        "en": [
+          "Orango is the largest island in the western section of the Bijagós Archipelago.",
+          "The national park was established in 1998 to protect the unique hippo population.",
+          "The island contains the sacred burial sites of Bijagó kings and queens.",
+          "It features a rare combination of marine and terrestrial ecosystems.",
+          "The mangrove forests here are among the best-preserved in the region.",
+          "Access is strictly managed to ensure sustainable ecotourism practices."
+        ]
+      }
+    },
+    {
+      "id": "rio-geba-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rio Geba ist der bedeutendste Fluss Guinea-Bissaus und das ökologische Rückgrat des Landes. Mit einer Gesamtlänge von etwa 550 Kilometern entspringt er im Fouta-Djallon-Hochland in Guinea und durchfließt das Land von Osten nach Westen, bevor er bei der Hauptstadt Bissau in einen gewaltigen Ästuar mündet. Der Fluss ist für die nationale Wirtschaft von existenzieller Bedeutung, da er als Haupttransportweg zwischen der Küste und dem Binnenland dient. Ein charakteristisches Naturphänomen des Geba ist die Gezeitenwelle (Pororoca), die bei Flut weit flussaufwärts drängt und den Wasserstand massiv beeinflusst. Die Ufer des Geba sind von fruchtbaren Alluvialböden geprägt, die den Reisanbau und die Viehzucht ermöglichen. Im Bereich des Ästuars dominieren ausgedehnte Mangrovensysteme, die als Kinderstube für zahlreiche Fischarten und Krustentiere dienen. Historisch gesehen war der Fluss die Lebensader für die Gründung von Städten wie Bafatá und Bissau. Trotz der zunehmenden Versandung in einigen Abschnitten bleibt der Geba das zentrale Element der guineischen Hydrologie. Seine Dynamik prägt nicht nur die Landwirtschaft, sondern auch das Klima und die Biodiversität der gesamten Zentralregion des Landes.",
+        "hu": "A Geba-folyó Guinea-Bissau legjelentősebb folyóvize és az ország ökológiai gerince. Körülbelül 550 kilométeres hosszával a guineai Fouta-Djallon-felföldön ered, és keletről nyugatra szeli át az országot, mielőtt a fővárosnál, Bissaunál egy hatalmas tölcsértorkolatba torkollna. A folyó léfontosságú a nemzetgazdaság számára, mivel a partvidék és a szárazföld belseje közötti fő szállítási útvonalként szolgál. A Geba jellegzetes természeti jelensége az árapály-hullám, amely dagálykor mélyen benyomul a folyómederbe, jelentősen megemelve a vízszintet. A folyópartokat termékeny hordalékos talaj jellemzi, amely lehetővé teszi a rizstermesztést és az állattenyésztést. A torkolatvidéken kiterjedt mocsári rendszerek dominálnak, amelyek számos halfaj és rákféle szaporodóhelyéül szolgálnak. Történelmi szempontból a folyó volt az éltető eleme olyan városok alapításának, mint Bafatá és Bissau. Annak ellenére, hogy egyes szakaszokon fokozódik az eliszaposodás, a Geba marad a guineai hidrológia központi eleme. Dinamikája nemcsak a mezőgazdaságot, hanem az ország teljes középső régiójának éghajlatát és biodiverzitását is meghatározza.",
+        "ro": "Rio Geba este cel mai important fluviu din Guineea-Bissau și coloana vertebrală ecologică a țării. Cu o lungime totală de aproximativ 550 de kilometri, izvorăște din podișul Fouta-Djallon din Guineea și traversează țara de la est la vest, înainte de a se vărsa într-un estuar imens lângă capitala Bissau. Fluviul este de o importanță existențială pentru economia națională, servind ca principală cale de transport între coastă și interiorul țării. Un fenomen natural caracteristic al râului Geba este valul de maree care pătrunde adânc în amonte în timpul fluxului, influențând masiv nivelul apei. Malurile fluviului sunt caracterizate de soluri aluvionare fertile, care permit cultivarea orezului și creșterea animalelor. În zona estuarului domină sisteme extinse de mangrove, care servesc drept loc de reproducere pentru numeroase specii de pești și crustacee. Din punct de vedere istoric, fluviul a fost artera vitală pentru întemeierea unor orașe precum Bafatá și Bissau. În ciuda colmatării tot mai accentuate în unele secțiuni, Geba rămâne elementul central al hidrologiei guineene. Dinamica sa modelează nu doar agricultura, ci și clima și biodiversitatea întregii regiuni centrale a țării.",
+        "en": "The Geba River is the most significant river in Guinea-Bissau and the ecological backbone of the country. With a total length of approximately 550 kilometers, it rises in the Fouta-Djallon highlands of Guinea and flows through the country from east to west before emptying into a massive estuary near the capital, Bissau. The river is of existential importance to the national economy, serving as the primary transport route between the coast and the interior. A characteristic natural phenomenon of the Geba is the tidal bore, which pushes far upstream during high tide and heavily influences water levels. The banks of the Geba are defined by fertile alluvial soils that enable rice cultivation and livestock farming. Extensive mangrove systems dominate the estuary area, serving as a nursery for numerous fish species and crustaceans. Historically, the river was the lifeblood for the founding of cities such as Bafatá and Bissau. Despite increasing siltation in some sections, the Geba remains the central element of Bissau-Guinean hydrology. Its dynamics shape not only agriculture but also the climate and biodiversity of the entire central region of the country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Geba ist der wasserreichste Fluss des Landes.",
+          "Sein Ästuar ist an der breitesten Stelle über 15 Kilometer weit.",
+          "Die Flutwelle kann den Wasserstand bis zu 100 Kilometer landeinwärts beeinflussen.",
+          "In der Trockenzeit ist der Fluss bis Bafatá für kleinere Schiffe schiffbar.",
+          "Der Geba teilt das Land in eine nördliche und eine südliche Hälfte.",
+          "In seinem Becken liegen die wichtigsten Reisanbaugebiete Guinea-Bissaus."
+        ],
+        "hu": [
+          "A Geba az ország legbővízűbb folyója.",
+          "Torkolata a legszélesebb pontján több mint 15 kilométer széles.",
+          "Az árapály hatása akár 100 kilométerre a szárazföld belsejében is érezhető.",
+          "A száraz évszakban a folyó Bafatáig hajózható kisebb járművekkel.",
+          "A folyó természetes határvonalat képez az ország északi és déli része között.",
+          "Medencéjében találhatók Guinea-Bissau legfontosabb rizstermő területei."
+        ],
+        "ro": [
+          "Geba este principalul curs de apă care drenează centrul țării.",
+          "Estuarul său este unul dintre cele mai mari de pe coasta vest-africană.",
+          "Fluviul este alimentat în principal de precipitațiile din Fouta-Djallon.",
+          "În perioada colonială, a fost ruta principală pentru exportul de arahide.",
+          "Biodiversitatea estuarului include crocodili și diverse specii de rechini.",
+          "Sedimentarea reprezintă o provocare majoră pentru navigația modernă pe Geba."
+        ],
+        "en": [
+          "The Geba is the most water-rich river in Guinea-Bissau.",
+          "Its estuary spans over 15 kilometers at its widest point.",
+          "Tidal forces affect the water level up to 100 kilometers inland.",
+          "During the dry season, it remains navigable for small boats up to Bafatá.",
+          "The river basin is home to a significant portion of the nation's population.",
+          "It is a critical source of freshwater for agricultural irrigation in the interior."
+        ]
+      }
+    },
+    {
+      "id": "rio-cacheu-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rio Cacheu, im Norden Guinea-Bissaus gelegen, ist einer der ökologisch intaktesten Flüsse Westafrikas und beherbergt den flächenmäßig größten Mangrovenwald des Landes. Der Fluss entspringt nahe der Grenze zu Senegal und fließt in westlicher Richtung, wobei er ein riesiges Delta bildet, bevor er bei der Stadt Cacheu in den Atlantik mündet. Die Natur des Rio Cacheu ist durch ein extremes Gezeitensystem geprägt, das den Austausch von Nährstoffen zwischen Meer und Binnenland fördert. Der 1997 gegründete Nationalpark Rio Cacheu (Tarrafes de Cacheu) schützt über 62.000 Hektar dieses einzigartigen Ökosystems. Die 'Tarrafes' (Mangroven) dienen als Barriere gegen Küstenerosion und sind Lebensraum für seltene Tierarten wie den Westafrikanischen Manati, Flusspferde und über 200 Vogelarten. Für die lokale Wirtschaft ist der Fluss als Fischgrund und Transportweg von unschätzbarem Wert. Das Wasser des Cacheu ist im Unterlauf stark salzhaltig, was eine spezialisierte Flora und Fauna hervorgebracht hat. Die Stille und Unberührtheit des Flusses machen ihn zu einem Referenzgebiet für den Schutz tropischer Feuchtgebiete. Die dichten Wurzelgeflechte der Mangroven bieten zudem Schutz für Jungfische, was die Fischereierträge der gesamten Region sichert.",
+        "hu": "A Guinea-Bissau északi részén található Cacheu-folyó Nyugat-Afrika egyik ökológiailag legépszerűbb folyója, amely az ország legnagyobb kiterjedésű mangroveerdőjének ad otthont. A folyó a szenegáli határ közelében ered és nyugati irányba folyik, hatalmas deltát alkotva, mielőtt Cacheu városánál az Atlanti-óceánba torkollna. A Cacheu-folyó természetét a szélsőséges árapály-rendszer határozza meg, amely elősegíti a tápanyagcserét a tenger és a szárazföld között. Az 1997-ben alapított Rio Cacheu Nemzeti Park (Tarrafes de Cacheu) több mint 62 000 hektáron védi ezt az egyedülálló ökoszisztémát. A „Tarrafes” (mangrove) gátat szab a partmenti eróziónak, és olyan ritka állatfajoknak nyújt élőhelyet, mint a nyugat-afrikai manátusz, a vízilovak és több mint 200 madárfaj. A helyi gazdaság számára a folyó mint halászterület és szállítási útvonal felbecsülhetetlen értékű. A Cacheu vize az alsó szakaszon erősen sós, ami speciális flórát és faunát hívott életre. A folyó csendje és érintetlensége miatt a trópusi vizes élőhelyek védelmének egyik legfontosabb referenciaterülete. A mangrovék sűrű gyökérzete védelmet nyújt az ivadékoknak, biztosítva ezzel az egész régió halászati hozamát.",
+        "ro": "Rio Cacheu, situat în nordul Guineei-Bissau, este unul dintre cele mai intacte fluvii din punct de vedere ecologic din Africa de Vest și găzduiește cea mai mare pădure de mangrove din țară. Fluviul izvorăște aproape de granița cu Senegal și curge spre vest, formând o deltă uriașă înainte de a se vărsa în Atlantic lângă orașul Cacheu. Natura râului Cacheu este marcată de un sistem de maree extrem, care favorizează schimbul de nutrienți între mare și interior. Parcul Național Rio Cacheu (Tarrafes de Cacheu), înființat în 1997, protejează peste 62.000 de hectare din acest ecosistem unic. 'Tarrafes' (mangrovele) servesc ca barieră împotriva eroziunii costiere și sunt habitat pentru specii rare precum lamantinul vest-african, hipopotami și peste 200 de specii de păsări. Pentru economia locală, fluviul este de o valoare inestimabilă ca zonă de pescuit și cale de transport. Apa râului Cacheu este puternic salină în cursul inferior, ceea ce a dus la apariția unei flore și faune specializate. Liniștea și puritatea râului îl fac o zonă de referință pentru protecția zonelor umede tropicale. Rădăcinile dense ale mangrovelor oferă, de asemenea, protecție pentru puietul de pește, asigurând randamentul pescuitului în întreaga regiune.",
+        "en": "The Cacheu River, located in northern Guinea-Bissau, is one of the most ecologically intact rivers in West Africa and home to the country's largest mangrove forest. The river rises near the border with Senegal and flows westward, forming a vast delta before emptying into the Atlantic near the town of Cacheu. The nature of the Cacheu River is defined by an extreme tidal system that facilitates the exchange of nutrients between the sea and the interior. Established in 1997, the Rio Cacheu National Park (Tarrafes de Cacheu) protects over 62,000 hectares of this unique ecosystem. The 'Tarrafes' (mangroves) serve as a barrier against coastal erosion and provide habitat for rare animal species such as the West African manatee, hippos, and over 200 species of birds. For the local economy, the river is of inestimable value as a fishing ground and transport route. The water of the Cacheu is highly saline in its lower reaches, which has given rise to specialized flora and fauna. The river's silence and pristine nature make it a reference area for the protection of tropical wetlands. The dense root systems of the mangroves also provide protection for juvenile fish, ensuring fishing yields for the entire region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Rio Cacheu Nationalpark ist das größte Mangrovenschutzgebiet Westafrikas.",
+          "Der Fluss ist tief genug, um Hochseeschiffen den Zugang bis Farim zu ermöglichen.",
+          "Das Wasser ist aufgrund der flachen Topografie bis weit ins Landesinnere brackig.",
+          "Die Region ist ein international bedeutendes Vogelbeobachtungsgebiet.",
+          "Mangrovenholz wird lokal nachhaltig für den Schiffsbau genutzt.",
+          "In den Kanälen des Deltas leben seltene Zwergkrokodile."
+        ],
+        "hu": [
+          "A Rio Cacheu Nemzeti Park Nyugat-Afrika legnagyobb összefüggő mangrove-rezervátuma.",
+          "A folyó medre elég mély ahhoz, hogy tengeri hajók Farimig felússzanak rajta.",
+          "A sík terep miatt a sós víz messze benyomul a szárazföld felé.",
+          "A terület nemzetközi jelentőségű madármegfigyelő hely.",
+          "A mangrovék fája fontos alapanyaga a helyi hajóépítésnek.",
+          "A delta mocsaraiban ritka törpekrokodilok is élnek."
+        ],
+        "ro": [
+          "Parcul a fost desemnat sit Ramsar de importanță internațională.",
+          "Fluviul permite transportul bauxitei și al produselor agricole din nord.",
+          "Vegetația de mangrove atinge înălțimi de până la 20 de metri aici.",
+          "Situl este vital pentru migrația păsărilor din emisfera nordică.",
+          "Apa fluviului este extrem de bogată în materie organică.",
+          "Tradițiile locale interzic tăierea mangrovelor în zonele sacre."
+        ],
+        "en": [
+          "The Rio Cacheu National Park is the largest protected mangrove area in West Africa.",
+          "The river is deep enough to allow ocean-going vessels to reach Farim.",
+          "The water remains brackish far inland due to the low-lying topography.",
+          "The region is an internationally recognized site for birdwatching.",
+          "Mangrove wood is traditionally harvested for durable boat construction.",
+          "The delta's intricate channels are home to rare dwarf crocodiles."
+        ]
+      }
+    },
+    {
+      "id": "rio-corubal-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rio Corubal ist der wichtigste Nebenfluss des Geba und gilt als einer der wildesten und landschaftlich reizvollsten Flüsse Guinea-Bissaus. Er entspringt im Fouta-Djallon-Massiv in Guinea und fließt durch den Südosten des Landes, bevor er in den Geba-Ästuar mündet. Im Gegensatz zum trägen Geba ist der Corubal durch ein steileres Gefälle und zahlreiche Stromschnellen und Wasserfälle geprägt, wie zum Beispiel die berühmten Cusselinta-Fälle. Diese geografischen Merkmale machen ihn zu einer potenziellen Quelle für Wasserkraft, ein Sektor, der für die zukünftige Energieunabhängigkeit des Landes von großer Bedeutung ist. Die Natur entlang des Corubal ist spektakulär: Er durchfließt dichte Galeriewälder und offene Savannenlandschaften, die eine reiche Fauna beherbergen, darunter Flusspferde, Schimpansen in den Uferwäldern und eine Vielzahl von Reptilien. Der Fluss ist weniger durch Versandung beeinträchtigt als der Geba und führt das ganze Jahr über klares Wasser. Für die lokale Bevölkerung in den Regionen Gabú und Bafatá ist der Corubal eine wichtige Ressource für den Fischfang und die Bewässerung. Seine raue Schönheit und die ökologische Bedeutung als Korridor für Wildtiere machen ihn zu einem der wertvollsten Naturschätze Guinea-Bissaus.",
+        "hu": "A Corubal-folyó a Geba legfontosabb mellékfolyója, és Guinea-Bissau egyik legvadabb és leglátványosabb folyóvizeként tartják számon. A guineai Fouta-Djallon-masszívumban ered, és az ország délkeleti részén folyik keresztül, mielőtt a Geba-torkolatba ömlene. A lassú Gebával ellentétben a Corubalt meredekebb esés, valamint számos zúgó és vízesés jellemzi, mint például a híres Cusselinta-vízesés. Ezek a földrajzi jellemzők potenciális vízenergia-forrássá teszik, amely az ország jövőbeli energiafüggetlensége szempontjából kiemelt jelentőségű. A Corubal menti természet lenyűgöző: sűrű galériaerdőkön és nyílt szavannákon folyik át, amelyek gazdag faunának adnak otthont, többek között vízilovaknak, a parti erdőkben élő csimpánzoknak és számos hüllőnek. A folyót kevésbé érinti az eliszaposodás, mint a Gebát, és egész évben tiszta vizet szállít. A Gabú és Bafatá régiókban élő helyi lakosság számára a Corubal fontos erőforrás a halászat és az öntözés szempontjából. Nyers szépsége és ökológiai jelentősége, mint a vadon élő állatok folyosója, Guinea-Bissau egyik legértékesebb természeti kincsévé teszi.",
+        "ro": "Rio Corubal este cel mai important afluent al râului Geba și este considerat unul dintre cele mai sălbatice și pitorești fluvii din Guineea-Bissau. Izvorăște din masivul Fouta-Djallon din Guineea și curge prin sud-estul țării înainte de a se vărsa în estuarul Geba. Spre deosebire de cursul lent al râului Geba, Corubal este caracterizat printr-o pantă mai abruptă și numeroase praguri și cascade, cum ar fi faimoasele cascade Cusselinta. Aceste caracteristici geografice îl transformă într-o sursă potențială de energie hidroelectrică, un sector de mare importanță pentru viitoarea independență energetică a țării. Natura de-a lungul râului Corubal este spectaculoasă: acesta traversează păduri-galerie dense și peisaje de savană deschisă, care adăpostesc o faună bogată, inclusiv hipopotami, cimpanzei în pădurile riverane și o multitudine de reptile. Fluviul este mai puțin afectat de colmatare decât Geba și transportă apă limpede pe tot parcursul anului. Pentru populația locală din regiunile Gabú și Bafatá, Corubal este o resursă importantă pentru pescuit și irigații. Frumusețea sa brută și importanța ecologică ca coridor pentru viața sălbatică îl fac una dintre cele mai valoroase comori naturale ale Guineei-Bissau.",
+        "en": "The Corubal River is the most important tributary of the Geba and is considered one of the wildest and most scenic rivers in Guinea-Bissau. It rises in the Fouta-Djallon massif in Guinea and flows through the southeast of the country before emptying into the Geba estuary. In contrast to the sluggish Geba, the Corubal is defined by a steeper gradient and numerous rapids and waterfalls, such as the famous Cusselinta Falls. These geographic features make it a potential source for hydroelectric power, a sector of great importance for the country's future energy independence. The nature along the Corubal is spectacular: it flows through dense gallery forests and open savanna landscapes that house a rich fauna, including hippos, chimpanzees in the riparian forests, and a multitude of reptiles. The river is less affected by siltation than the Geba and carries clear water throughout the year. For the local population in the Gabú and Bafatá regions, the Corubal is an important resource for fishing and irrigation. Its raw beauty and ecological importance as a wildlife corridor make it one of Guinea-Bissau's most valuable natural treasures."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Corubal ist der zweitlängste Fluss in Guinea-Bissau.",
+          "Die Cusselinta-Wasserfälle sind ein beliebtes Ziel für Ökotouristen.",
+          "Der Fluss bildet an einigen Stellen die natürliche Grenze zu Guinea-Conakry.",
+          "Im Corubal gibt es bedeutende Bestände an Süßwasserfischen.",
+          "Das Saltinho-Projekt plant die Nutzung des Flusses zur Stromerzeugung.",
+          "Die Uferwälder des Corubal sind wichtige Wanderkorridore für Elefanten."
+        ],
+        "hu": [
+          "A Corubal Guinea-Bissau második leghosszabb folyója.",
+          "A Cusselinta-vízesések az ökoturisták egyik kedvenc célpontja.",
+          "A folyó egyes szakaszain természetes határt képez Guinea-Conakryval.",
+          "A Corubal vize kiemelkedően gazdag édesvízi halfajokban.",
+          "A Saltinho-projekt a folyó vízenergiájának kiaknázását tervezi.",
+          "A folyóparti erdők fontos vándorlási útvonalat jelentenek az elefántoknak."
+        ],
+        "ro": [
+          "Debitul râului variază semnificativ între sezonul ploios și cel secetos.",
+          "Saltinho este locul unei celebre bătălii din timpul războiului de independență.",
+          "Apa sa este considerată cea mai pură dintre toate fluviile guineene.",
+          "Râul traversează zone cu depozite importante de bauxită.",
+          "Ecosistemul său este protejat parțial prin parcuri naționale transfrontaliere.",
+          "Corubal este singurul râu major din țară cu un regim torențial."
+        ],
+        "en": [
+          "The Corubal is the second-longest river within Guinea-Bissau.",
+          "The Cusselinta Falls are a prime destination for regional ecotourism.",
+          "Parts of the river serve as a natural border with Guinea-Conakry.",
+          "It supports some of the most diverse freshwater fish populations in the country.",
+          "The Saltinho hydroelectric project is a key part of national development plans.",
+          "Riparian corridors along the river are vital for regional primate migrations."
+        ]
+      }
+    },
+    {
+      "id": "bijagos-archipelago-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bijagós-Archipel ist ein einzigartiges Inselökosystem vor der Küste Guinea-Bissaus und wurde 1996 von der UNESCO als Biosphärenreservat anerkannt. Er besteht aus 88 Inseln und Inselchen, von denen nur etwa 20 dauerhaft bewohnt sind. Die Natur der Bijagós ist geprägt von einem faszinierenden Zusammenspiel aus Meeresströmungen, Gezeiten und einer üppigen tropischen Vegetation. Der Archipel beherbergt einige der wichtigsten marinen Ökosysteme Westafrikas, darunter Korallenriffe, Seegraswiesen und ausgedehnte Mangrovenwälder. Diese Vielfalt macht ihn zu einem Hotspot der Biodiversität: Hier leben die berühmten Salzwassernilpferde, bedrohte Meeresschildkröten und Delfine. Die spirituelle Kultur der Bijagó-Bevölkerung ist untrennbar mit der Erhaltung dieser Natur verbunden. Viele Inseln gelten als heilig, und traditionelle Gesetze regeln streng die Nutzung der Ressourcen, was den Archipel zu einem Musterbeispiel für nachhaltiges Ressourcenmanagement macht. Die Gezeiten sind hier besonders extrem und legen bei Ebbe riesige Schlickflächen frei, die für tausende Zugvögel lebenswichtig sind. Der Bijagós-Archipel ist nicht nur eine Naturschönheit, sondern ein lebendiges Laboratorium für die Koexistenz von Mensch und Biosphäre unter den Bedingungen des Klimawandels.",
+        "hu": "A Bijagós-szigetcsoport egyedülálló szigeti ökoszisztéma Guinea-Bissau partjainál, amelyet az UNESCO 1996-ban bioszféra-rezervátumnak ismert el. 88 szigetből és szigetecskéből áll, amelyek közül csak körülbelül 20 lakott állandóan. A Bijagós természetét a tengeráramlatok, az árapály és a dús trópusi növényzet lenyűgöző kölcsönhatása határozza meg. A szigetcsoport ad otthont Nyugat-Afrika néhány legfontosabb tengeri ökoszisztémájának, köztük korallzátonyoknak, tengerifű-mezőknek és kiterjedt mangroveerdőknek. Ez a sokféleség a biodiverzitás gócpontjává teszi: itt élnek a híres sós vízi vízilovak, veszélyeztetett tengeri teknősök és delfinek. A bijagó lakosság spirituális kultúrája elválaszthatatlan a természet megőrzésétől. Sok sziget szentnek számít, és a hagyományos törvények szigorúan szabályozzák az erőforrások használatát, ami a szigetcsoportot a fenntartható erőforrás-kezelés mintaképévé teszi. Az árapály itt különösen szélsőséges, apálykor hatalmas iszapos területek válnak szabaddá, amelyek több ezer vándormadár számára létfontosságúak. A Bijagós-szigetcsoport nemcsak természeti szépség, hanem élő laboratórium az ember és a bioszféra klímaváltozás melletti együttélésének tanulmányozására.",
+        "ro": "Arhipelagul Bijagós este un ecosistem insular unic în largul coastei Guineei-Bissau, recunoscut de UNESCO ca Rezervație a Biosferei în 1996. Este format din 88 de insule și insulițe, dintre care doar aproximativ 20 sunt locuite permanent. Natura arhipelagului este marcată de o interacțiune fascinantă între curenții marini, maree și o vegetație tropicală luxuriantă. Arhipelagul găzduiește unele dintre cele mai importante ecosisteme marine din Africa de Vest, inclusiv recife de corali, pajiști de iarbă de mare și păduri extinse de mangrove. Această diversitate îl transformă într-un hotspot al biodiversității: aici trăiesc faimoșii hipopotami de apă sărată, țestoase marine periclitate și delfini. Cultura spirituală a populației Bijagó este inseparabilă de conservarea acestei naturi. Multe insule sunt considerate sacre, iar legile tradiționale reglementează strict utilizarea resurselor, făcând din arhipelag un exemplu model de gestionare durabilă a resurselor. Mareele sunt aici deosebit de extreme, expunând la reflux suprafețe uriașe de mâl, vitale pentru mii de păsări migratoare. Arhipelagul Bijagós nu este doar o frumusețe naturală, ci un laborator viu pentru coexistența dintre om și biosferă în condițiile schimbărilor climatice.",
+        "en": "The Bijagós Archipelago is a unique island ecosystem off the coast of Guinea-Bissau, recognized by UNESCO as a Biosphere Reserve in 1996. It consists of 88 islands and islets, of which only about 20 are permanently inhabited. The nature of the Bijagós is defined by a fascinating interplay of ocean currents, tides, and lush tropical vegetation. The archipelago is home to some of West Africa's most important marine ecosystems, including coral reefs, seagrass meadows, and extensive mangrove forests. This diversity makes it a biodiversity hotspot: home to the famous saltwater hippos, endangered sea turtles, and dolphins. The spiritual culture of the Bijagó people is inseparable from the preservation of this environment. Many islands are considered sacred, and traditional laws strictly regulate the use of resources, making the archipelago a model for sustainable resource management. The tides here are particularly extreme, exposing vast mudflats at low tide that are vital for thousands of migratory birds. The Bijagós Archipelago is not only a natural wonder but a living laboratory for the coexistence of humans and the biosphere under the conditions of climate change."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Archipel ist das einzige Delta-Insel-System an der Atlantikküste Afrikas.",
+          "Nur 20 der 88 Inseln sind das ganze Jahr über bewohnt.",
+          "Die Bijagós sind das wichtigste Brutgebiet für Grüne Meeresschildkröten im Atlantik.",
+          "Das Gebiet unterliegt dem Schutzstatus eines UNESCO-Biosphärenreservats.",
+          "Die Gezeitenunterschiede können bis zu sechs Meter betragen.",
+          "Vielerorts ist die Jagd auf bestimmte Tierarten durch religiöse Tabus verboten."
+        ],
+        "hu": [
+          "A szigetcsoport az egyetlen delta-szigetrendszer Afrika atlanti partvidékén.",
+          "A 88 szigetből mindössze 20 lakott állandó jelleggel.",
+          "A Bijagós az atlanti közönséges levesteknősök legfontosabb szaporodóhelye.",
+          "A terület 1996 óta UNESCO bioszféra-rezervátum.",
+          "Az árapály szintkülönbsége elérheti a hat métert is.",
+          "A vallási tabuk miatt számos állatfaj vadászata tilos a szigeteken."
+        ],
+        "ro": [
+          "Arhipelagul include parcurile naționale Orango și João Vieira-Poilão.",
+          "Sistemul social local este unul dintre puținele matriarhate rămase în lume.",
+          "Este un sit de importanță globală pentru conservarea biodiversității marine.",
+          "Curenții puternici fac navigația între insule extrem de dificilă.",
+          "Producția de ulei de palmier este principala activitate pe insulele locuite.",
+          "Arhipelagul este propus pentru includerea în Patrimoniul Mondial UNESCO."
+        ],
+        "en": [
+          "The archipelago is the only deltaic island system on Africa’s Atlantic coast.",
+          "Only 20 out of the 88 islands are inhabited year-round.",
+          "It is the most significant breeding ground for Green Sea Turtles in the Atlantic.",
+          "The entire area is protected as a UNESCO Biosphere Reserve.",
+          "Tidal variations can reach up to six meters in height.",
+          "Religious taboos play a critical role in enforcing environmental conservation."
+        ]
+      }
+    }
+  ]
+}

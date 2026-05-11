@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "brufut-fish-landing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereianlandeplatz von Brufut ist ein bedeutender wirtschaftlicher Knotenpunkt an der Westküste Gambias. Geografisch liegt er am Fuße markanter Sandsteinklippen, die den Strand von der höher gelegenen Stadt trennen. Dieser Ort ist ein Zentrum der handwerklichen Fischerei, an dem täglich eine große Flotte farbenfroher Pirogen landet. Die wirtschaftliche Aktivität hier ist entscheidend für die Versorgung der lokalen Märkte und der Tourismusindustrie in der Kombo-Region. Neben dem Verkauf von Frischfisch ist Brufut für seine weitläufigen Anlagen zur Fischtrocknung und -räucherung bekannt, die den Fang für den Transport ins Landesinnere haltbar machen. Hunderte von Menschen, darunter Fischer, Händler und Träger, finden hier ihre Lebensgrundlage. Das Relief ist geprägt durch den schmalen Sandstreifen zwischen dem Atlantik und den aufsteigenden Klippen, was eine logistische Herausforderung für den Abtransport der Waren darstellt. Trotz der räumlichen Begrenzung hat sich der Standort zu einem der produktivsten Fischereizentren des Landes entwickelt. Für Besucher bietet der Anlandeplatz ein lebendiges Bild gambischer Arbeitskultur und einen Einblick in die Bedeutung des Meeres für die nationale Wirtschaft.",
+        "hu": "A brufuti halászkikötő Gambia nyugati partvidékének egyik meghatározó gazdasági központja. Földrajzi elhelyezkedése különleges: a település alatti látványos homokkő sziklafalak tövében, közvetlenül az Atlanti-óceán partján található. Ez a helyszín a kisüzemi halászat egyik legfontosabb bázisa, ahol naponta színes pirogák tucatjai rakodják ki zsákmányukat. A gazdasági aktivitás itt alapvető fontosságú a környékbeli piacok és a Kombo-régió turisztikai létesítményeinek friss hallal való ellátásához. Brufut híres a kiterjedt halkonzerváló telepeiről is, ahol hagyományos szárítási és füstölési eljárásokkal készítik fel az árut a távolabbi, belső területekre történő szállításra. A kikötő közvetlen megélhetést biztosít halászok, kereskedők és hordárok százai számára. A domborzatot a tengerparti sáv és a meredeken emelkedő sziklák kontrasztja határozza meg, ami sajátos logisztikai környezetet teremt az áruk mozgatásához. A brufuti kikötő a gambiai tengeri gazdaság egyik legproduktívabb egysége, amely az utóbbi években jelentős infrastrukturális fejlesztéseken ment keresztül. Az idelátogatók számára a helyszín a mindennapi munka és a természet erejének lenyűgöző találkozását kínálja.",
+        "ro": "Punctul de descărcare a peștelui din Brufut este un nod economic esențial situat pe coasta de vest a Gambiei. Geografic, acesta se află la baza unor faleze impresionante de gresie, care separă plaja de zonele rezidențiale mai înalte ale orașului. Această locație reprezintă un centru major al pescuitului artizanal, unde o flotă numeroasă de pirogi colorate revine zilnic cu capturi diverse. Activitatea economică de aici este vitală pentru aprovizionarea piețelor locale și a sectorului hotelier din regiunea Kombo. Brufut este recunoscut în mod special pentru platformele sale de uscare a peștelui și pentru unitățile de afumare tradițională, care permit conservarea resurselor marine pentru transportul către interiorul țării. Sute de persoane, de la pescari la comercianți și hamali, își găsesc aici sursa principală de venit. Relieful este marcat de fâșia îngustă de nisip cuprinsă între ocean și versanții abrupți, fapt ce impune o organizare logistică riguroasă pentru distribuția mărfurilor. În ciuda spațiului limitat, Brufut a devenit unul dintre cele mai productive centre de profil din țară. Pentru vizitatori, acest loc oferă o imagine vibrantă a culturii muncii gambiene și subliniază dependența economică a națiunii de resursele Atlanticului.",
+        "en": "The Brufut fish landing site is a vital economic hub on The Gambia's western coast. Geographically, it is nestled at the base of striking sandstone cliffs that separate the beach from the elevated town area. This location is a major center for artisanal fishing, where a large fleet of brightly painted pirogues lands daily. The economic activity here is crucial for supplying fresh fish to local markets and the thriving hospitality sector in the Kombo region. Brufut is particularly noted for its extensive fish-drying racks and traditional smoking huts, which preserve the catch for distribution to the country's interior. Hundreds of people, including fishers, traders, and porters, depend on this site for their livelihoods. The relief is defined by the narrow sandy strip between the Atlantic Ocean and the rising cliffs, posing unique logistical challenges for transporting goods. Despite these spatial constraints, Brufut has evolved into one of the most productive fishery centers in the nation. For visitors, the landing site offers a high-energy look into Gambian industrial life and highlights the ocean's central role in the national economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Brufut ist auf den Fang von pelagischen Fischarten wie Bonga und Sardinella spezialisiert.",
+          "Der Anlandeplatz liegt unterhalb der markanten Brufut-Kliffs.",
+          "Ein großer Teil des hier verarbeiteten Fisches wird nach Guinea und Mali exportiert.",
+          "Frauenkooperativen dominieren den Verkauf und die Trocknung des Fisches vor Ort.",
+          "Der Standort verfügt über ein von der Gemeinde verwaltetes Eishaus zur Kühlung.",
+          "Der Fischmarkt von Brufut ist bekannt für seine hohe Produktqualität."
+        ],
+        "hu": [
+          "A brufuti kikötő az egyik legfontosabb beszállítója a környező luxusszállodáknak.",
+          "A parton található szárítóállványokon egyszerre több tonna halat tudnak kezelni.",
+          "A terület tengerszint feletti magassága a kikötőnél 0, míg a városnál 20 méter.",
+          "A helyi halászok gyakran speciális éjszakai halászati technikákat alkalmaznak.",
+          "Brufut híres az itt készített, tartósított „bonga” halról.",
+          "A kikötő élete szoros összhangban van az árapály ciklusával."
+        ],
+        "ro": [
+          "Brufut deține una dintre cele mai mari suprafețe dedicate uscării naturale a peștelui.",
+          "Relieful falezelor oferă o protecție naturală împotriva vânturilor puternice din larg.",
+          "Activitatea de aici este susținută de asociații locale de pescari bine structurate.",
+          "Peștele afumat la Brufut este considerat o delicatesă în regiunea Sahelului.",
+          "Accesul camioanelor la plajă se face printr-o rampă special amenajată în gresie.",
+          "Este un punct cheie pentru cercetările privind sustenabilitatea stocurilor de pește."
+        ],
+        "en": [
+          "Brufut is a primary site for the traditional production of fermented and dried fish.",
+          "The landing site acts as a major employer for youth in the Kombo South district.",
+          "It features significant infrastructure for artisanal boat building and repair.",
+          "Brufut’s fishery sector is a major contributor to the local municipal revenue.",
+          "The cliffs above provide a natural vantage point for monitoring the fishing fleet.",
+          "It is known for the high diversity of demersal fish species landed daily."
+        ]
+      }
+    },
+    {
+      "id": "sanyang-fish-landing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereianlandeplatz von Sanyang ist ein pulsierendes Zentrum der maritimen Wirtschaft im Distrikt Kombo South. Geografisch liegt der Standort an einem weiten, sandigen Küstenabschnitt, der für seinen Fischreichtum im küstennahen Atlantik bekannt ist. Sanyang fungiert als einer der wichtigsten Lieferanten für Frischfisch in Gambia, wobei die tägliche Anlandung von Hunderten von Pirogen ein zentrales wirtschaftliches Ereignis für die gesamte Region darstellt. Die lokale Ökonomie wird durch die Fischverarbeitung dominiert, insbesondere durch das Räuchern in traditionellen Öfen, was Sanyang zu einem wichtigen Exporteur für haltbare Fischprodukte in das Landesinnere macht. Die Anlage beherbergt zudem zahlreiche informelle Sektoren wie Reparaturwerkstätten für Außenbordmotoren und Netzhändler. Das Relief ist flach und bietet ausreichend Platz für die logistische Abwicklung und den Betrieb von Marktständen direkt am Meer. In den letzten Jahren hat die Integration von Tourismus und Fischerei den Standort zu einem hybriden Wirtschaftsraum gemacht, in dem Strandbars und handwerkliche Betriebe nebeneinander existieren. Die Bedeutung von Sanyang für die nationale Fischereistatistik ist erheblich, da hier große Mengen an Bonga-Fischen umgeschlagen werden, die ein Grundnahrungsmittel für die gambische Bevölkerung darstellen.",
+        "hu": "Sanyang halászkikötője Gambia egyik legfontosabb tengeri gazdasági csomópontja a Kombo South körzetben. Földrajzi elhelyezkedése ideális: a település egy széles, homokos öbölben fekszik, ahol az Atlanti-óceán közelsége bőséges halállományt biztosít. A sanyangi kikötő az ország egyik legnagyobb frisshal-szállítója, ahol a naponta partot érő pirogák százai határozzák meg a régió gazdasági ritmusát. A helyi gazdaság gerincét a halfeldolgozás adja, különösen a hagyományos füstölőházak, amelyek révén Sanyang a belső területek egyik fő ellátója tartósított haltermékekkel. A kikötő területén számos kiegészítő iparág is megtelepedett, a csónakmotor-szervizektől a hálókészítő műhelyekig. A domborzat itt sík, ami tágas teret biztosít a logisztikának és a közvetlenül a parton zajló piaci értékesítésnek. Az utóbbi években a turizmus és a halászat összefonódása egy sajátos gazdasági modellt hozott létre, ahol a vendéglátóhelyek és a halászati üzemek jól kiegészítik egymást. Sanyang stratégiai jelentőségű a nemzeti élelmiszerellátásban, mivel itt landol a lakosság alapvető fehérjeforrásának számító „bonga” hal jelentős része.",
+        "ro": "Punctul de descărcare a peștelui din Sanyang este un centru vibrant al economiei maritime situat în districtul Kombo South. Geografic, locația ocupă o porțiune extinsă de coastă nisipoasă, renumită pentru bogăția resurselor piscicole din apele adiacente. Sanyang funcționează ca unul dintre principalii furnizori de pește proaspăt din Gambia, momentul descărcării zilnice a sutelor de pirogi fiind un eveniment economic major pentru întreaga regiune. Economia locală este dominată de procesarea peștelui, în special prin afumarea în cuptoare tradiționale, ceea ce transformă Sanyang într-un exportator cheie de produse conservate către hinterlandul african. Facilitatea găzduiește, de asemenea, numeroase sectoare informale, precum ateliere de reparații pentru motoare de barcă și magazine de plase de pescuit. Relieful este plat, oferind spațiu suficient pentru operațiunile logistice și pentru funcționarea piețelor direct la malul mării. În ultimii ani, integrarea turismului cu pescuitul a creat un spațiu economic hibrid, unde barurile de plajă și unitățile artizanale coexistă armonios. Importanța orașului Sanyang în statisticile naționale de pescuit este considerabilă, aici fiind tranzitate cantități mari de pește bonga, element de bază în dieta populației gambiene.",
+        "en": "The Sanyang fish landing site is a pulsating hub of the maritime economy in the Kombo South District. Geographically, the site is situated along a vast, sandy stretch of coastline known for its abundant fish stocks in the nearshore Atlantic. Sanyang acts as one of the primary suppliers of fresh fish in The Gambia, with the daily landing of hundreds of pirogues serving as a central economic event for the entire region. The local economy is dominated by fish processing, particularly smoking in traditional kilns, making Sanyang a major exporter of preserved fish products to the country's interior. The facility also houses various informal sectors, including outboard motor repair shops and net trading stalls. The terrain is flat, providing ample space for logistics and the operation of beachfront market stalls. In recent years, the integration of tourism and fishing has turned the site into a hybrid economic space where beach bars and artisanal enterprises coexist. Sanyang's significance to national fishery statistics is substantial, as it handles vast quantities of bonga fish, a primary staple for the Gambian population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sanyang ist einer der produktivsten Standorte für den Fang von Bonga-Hering.",
+          "Der Standort verfügt über ein modernes Zentrum zur Verarbeitung von Meeresfrüchten.",
+          "Sanyang beliefert die Märkte in Serekunda und Brikama auf täglicher Basis.",
+          "In Sanyang gibt es spezialisierte Werkstätten für den Bau von Glasfaser-Booten.",
+          "Der Fischereihafen ist ein wichtiger Arbeitgeber für Frauenkooperativen (Smoking Mothers).",
+          "Hier werden regelmäßig Schulungen zur nachhaltigen Fischerei durchgeführt."
+        ],
+        "hu": [
+          "Sanyang halpiaca híres az óriás garnélarákokról és tengeri sügérekről.",
+          "A kikötő közvetlen közelében több hűtőházi konténer is működik.",
+          "A terület a helyi kézműves fafeldolgozás egyik központja is.",
+          "A sanyangi halászok jelentős része a szomszédos országokból érkezett vendégmunkás.",
+          "A településen modern jégkészítő automata áll a halászok rendelkezésére.",
+          "Sanyang gazdasági növekedése a tengeri áruszállítás bővülésének köszönhető."
+        ],
+        "ro": [
+          "Sanyang deține o unitate pilot pentru testarea metodelor de afumare ecologică.",
+          "Relieful plan permite accesul facil al camioanelor de mare tonaj la punctul de colectare.",
+          "Este un centru major pentru exportul de rechini și calcani către piețele asiatice.",
+          "Activitatea comercială de pe plajă este reglementată de un comitet comunitar.",
+          "Sanyang servește drept bază pentru programul național de monitorizare a coastelor.",
+          "Localitatea este renumită pentru calitatea uleiului de pește produs artizanal."
+        ],
+        "en": [
+          "Sanyang is a key node in the Gambian 'Value Chain' for marine products.",
+          "The landing site features a dedicated area for the repair of traditional wooden pirogues.",
+          "It provides a significant percentage of the dried fish sold in Gambian weekly markets (Lumos).",
+          "The area hosts several ice production plants owned by private Gambian investors.",
+          "Sanyang is a major transit point for fish products heading towards the Senegalese border.",
+          "The site is known for its high level of community participation in fishery management."
+        ]
+      }
+    },
+    {
+      "id": "kartong-sand-mining-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Sandabbaugebiete von Kartong im äußersten Südwesten Gambias sind ein bedeutender, wenn auch ökologisch sensibler Teil der nationalen Rohstoffwirtschaft. Geografisch liegen diese Standorte in den Küstenebenen nahe der Grenze zum Senegal. Der hier gewonnene Quarzsand ist von hoher Qualität und stellt eine unverzichtbare Ressource für die boomende Bauindustrie in der Greater Banjul Area dar. Wirtschaftlich hat der Sandabbau in Kartong hunderte von Arbeitsplätzen geschaffen, sowohl direkt im Abbau als auch in der Transportlogistik. Das Relief der Region wurde durch den jahrelangen Abbau stark verändert; ehemalige Gruben haben sich teilweise in künstliche Seen und Feuchtgebiete verwandelt. Dieser Prozess hat zu einer interessanten ökologischen Transformation geführt, da diese neuen Wasserflächen heute als Lebensraum für zahlreiche Vogelarten dienen. Gleichzeitig ist das Gebiet Schauplatz von Debatten über nachhaltige Landnutzung und Küstenschutz. Die Regierung verwaltet den Abbau über spezialisierte Behörden, um eine Übernutzung der Dünenökosysteme zu verhindern. Kartong bleibt ein Beispiel für den Konflikt zwischen dem Bedarf an Baumaterialien für die Urbanisierung und dem Erhalt der fragilen Küstenlandschaft.",
+        "hu": "A Kartong környéki homokbányák Gambia legdélebbi részén az ország nyersanyag-gazdálkodásának meghatározó, bár ökológiai szempontból vitatott helyszínei. Földrajzi elhelyezkedésük a tengerparti síkságokon, a szenegáli határ közelében található. Az itt kitermelt kiváló minőségű kvarchomok a Nagy-Banjul térség rohamosan fejlődő építőiparának alapvető alapanyaga. Gazdaságilag a bányászat munkahelyek százait teremtette meg a kitermelésben és a logisztikában egyaránt. Az évek óta tartó bányászati tevékenység jelentősen átalakította a régió domborzatát; a korábbi bányagödrök egy része mára mesterséges tavakká és vizes élőhelyekké alakult át. Ez a folyamat sajátos ökológiai változást indított el, hiszen az új vízfelületek ma már számos ritka madárfaj fészkelőhelyei. Ugyanakkor a terület a fenntartható földhasználat és a partvédelem körüli viták középpontjában áll. A gambiai kormány szigorú szabályozással próbálja egyensúlyban tartani a kitermelést és a dűne-ökoszisztémák védelmét. Kartong példája jól mutatja az urbanizáció nyersanyagigénye és az érintetlen tengerparti táj megőrzése közötti feszültséget.",
+        "ro": "Zonele de extracție a nisipului din Kartong, situate în extremitatea sud-vestică a Gambiei, reprezintă o componentă semnificativă, deși sensibilă ecologic, a economiei naționale de resurse. Geografic, aceste situri ocupă câmpiile litorale din apropierea frontierei cu Senegalul. Nisipul de cuarț extras aici este de înaltă calitate și constituie o resursă indispensabilă pentru industria construcțiilor în plină expansiune din zona metropolitană Banjul. Din punct de vedere economic, mineritul nisipului în Kartong a generat sute de locuri de muncă, atât în extracția directă, cât și în logistica transporturilor. Relieful regiunii a fost profund modificat de anii de exploatare; fostele cariere s-au transformat parțial în lacuri artificiale și zone umede. Acest proces a dus la o transformare ecologică interesantă, noile ochiuri de apă servind astăzi drept habitat pentru numeroase specii de păsări. În același timp, zona este scena unor dezbateri privind utilizarea durabilă a terenurilor și protecția coastelor. Guvernul gestionează extracția prin agenții specializate pentru a preveni supraexploatarea ecosistemelor de dune. Kartong rămâne un exemplu al conflictului dintre necesitatea de materiale de construcții pentru urbanizare și conservarea peisajului litoral fragil.",
+        "en": "The sand mining sites of Kartong in the far southwest of The Gambia are a significant, albeit ecologically sensitive, part of the national resource economy. Geographically, these locations are situated in the coastal plains near the border with Senegal. The high-quality quartz sand extracted here is an indispensable resource for the booming construction industry in the Greater Banjul Area. Economically, sand mining in Kartong has created hundreds of jobs, both in direct extraction and transport logistics. The region's relief has been significantly altered by years of mining; former pits have partially transformed into artificial lakes and wetlands. This process has led to an interesting ecological transformation, as these new bodies of water now serve as habitats for numerous bird species. At the same time, the area is a focal point for debates on sustainable land use and coastal protection. The government manages the extraction through specialized agencies to prevent the overexploitation of dune ecosystems. Kartong remains an example of the conflict between the demand for construction materials for urbanization and the preservation of fragile coastal landscapes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kartong ist die Hauptquelle für Bausand in der West Coast Region.",
+          "Der Sandabbau wird von der National Environment Agency (NEA) überwacht.",
+          "Die künstlichen Seen in den ehemaligen Gruben werden heute für die Fischzucht genutzt.",
+          "Kartong-Sand ist aufgrund seiner Reinheit besonders für Betonarbeiten begehrt.",
+          "Lkw-Transporte von Kartong nach Serekunda bilden eine wichtige Logistikkette.",
+          "Ökotourismus-Initiativen nutzen die regenerierten Flächen zur Vogelbeobachtung."
+        ],
+        "hu": [
+          "A bányák bezárása után a terület rehabilitációja közösségi összefogással zajlik.",
+          "Kartong homokja döntő szerepet játszott az országos útépítési programokban.",
+          "A mesterséges tavak vize édesvízi halfajoknak ad otthont.",
+          "A bányászati engedélyek kiadását nemzeti érdeknek tekintik.",
+          "A homokszállítás jelentős forgalmat generál a déli parti úton.",
+          "A területen ritka geológiai rétegződések váltak láthatóvá a feltárások során."
+        ],
+        "ro": [
+          "Extracția nisipului în Kartong este limitată la zonele stabilite prin planul de urbanism.",
+          "Relieful modificat a creat noi oportunități pentru agricultura de irigații mici.",
+          "Este un sit major pentru monitorizarea eroziunii costiere accelerate.",
+          "Nisipul din Kartong este utilizat și în fabricarea sticlei artizanale.",
+          "Comunitatea locală primește redevențe din activitatea de exploatare.",
+          "Vegetația de regenerare include specii pionier rezistente la soluri nisipoase."
+        ],
+        "en": [
+          "Kartong sand mining is a key driver of the Gambian informal construction sector.",
+          "The mining pits have become a unique ecosystem known as 'Kartong Wetlands'.",
+          "It acts as a strategic reserve for the nation's high-grade silica sand.",
+          "Transporting sand from Kartong provides income for a large fleet of private truckers.",
+          "Environmental groups monitor the impact of mining on the local water table.",
+          "The site illustrates the challenges of environmental governance in resource-rich areas."
+        ]
+      }
+    },
+    {
+      "id": "batokunku-wind-power-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Windkraftanlage von Batokunku ist ein wegweisendes Pilotprojekt für erneuerbare Energien in Gambia und das erste seiner Art im Land. Geografisch liegt die Anlage auf einem Küstenplateau im Distrikt Kombo South, wo die konstanten Passatwinde vom Atlantik ideale Bedingungen für die Windenergienutzung bieten. Das Projekt wurde durch eine private Initiative in enger Zusammenarbeit mit der lokalen Gemeinschaft realisiert und dient als Modell für dezentrale Energieversorgung. Wirtschaftlich hat die Windkraftanlage Batokunku weitgehend unabhängig vom oft unzuverlässigen nationalen Stromnetz gemacht und die Betriebskosten für Haushalte und Kleingewerbe gesenkt. Die Anlage besteht aus einer modernisierten Windturbine, die den überschüssigen Strom in das lokale Netz einspeist. Das Relief des Standorts ist eben und bietet einen unverstellten Zugang zum Windstrom. Neben der energetischen Bedeutung fungiert Batokunku als Bildungszentrum für grüne Technologien in Westafrika. Das Projekt symbolisiert Gambias Potenzial für eine nachhaltige Transformation des Energiesektors und zeigt, wie lokale Gemeinschaften durch technologische Innovation ihre Resilienz stärken können.",
+        "hu": "A batokunkui szélerőmű Gambia első és legfontosabb megújuló energia projektje, amely úttörő szerepet tölt be az ország energetikai fejlődésében. Földrajzi elhelyezkedése a Kombo South körzet tengerparti fennsíkján található, ahol az Atlanti-óceán felől érkező állandó passzátszelek optimális feltételeket biztosítanak a szélenergia hasznosításához. A beruházás magánkezdeményezésként, a helyi közösséggel szoros együttműködésben valósult meg, és a decentralizált energiaellátás mintapéldájává vált. Gazdaságilag a szélerőmű lehetővé tette, hogy Batokunku nagy részben függetlenedjen az országos hálózat gyakori áramkimaradásaitól, jelentősen csökkentve a lakosok és a kisvállalkozások rezsiköltségeit. A létesítmény egy modernizált szélturbinából áll, amely a megtermelt energiát a helyi közösségi hálózatba táplálja. A terület domborzata sík, akadálytalan utat engedve a szélnek. Az energiatermelés mellett Batokunku fontos oktatási központtá is vált, ahol a zöld technológiák alkalmazását mutatják be. A projekt szimbolizálja Gambia elkötelezettségét a fenntartható jövő mellett, és bizonyítja, hogy a technológiai innováció képes növelni a vidéki közösségek önellátó képességét.",
+        "ro": "Centrala eoliană din Batokunku reprezintă un proiect pilot revoluționar pentru energiile regenerabile din Gambia, fiind prima instalație de acest tip din țară. Situată geografic pe un platou de coastă în districtul Kombo South, centrala beneficiază de vânturile alizee constante dinspre Atlantic, care oferă condiții ideale pentru captarea energiei eoliene. Proiectul a fost realizat printr-o inițiativă privată în colaborare strânsă cu comunitatea locală, servind drept model pentru aprovizionarea descentralizată cu energie. Din punct de vedere economic, turbina din Batokunku a oferit satului o independență semnificativă față de rețeaua națională, adesea instabilă, reducând costurile operaționale pentru gospodării și micile afaceri. Instalația constă într-o turbină eoliană modernizată care injectează surplusul de energie în micro-rețeaua locală. Relieful locației este plat, permițând o expunere neobstrucționată la curenții de aer. Pe lângă rolul său energetic, Batokunku funcționează ca un centru educațional pentru tehnologiile verzi în Africa de Vest. Proiectul simbolizează potențialul Gambiei pentru o transformare durabilă a sectorului energetic și demonstrează modul în care comunitățile locale își pot crește reziliența prin inovație tehnologică.",
+        "en": "The Batokunku wind power plant is a landmark pilot project for renewable energy in The Gambia and the first of its kind in the country. Geographically, the facility is located on a coastal plateau in the Kombo South District, where constant trade winds from the Atlantic provide ideal conditions for wind power generation. The project was realized through a private initiative in close cooperation with the local community, serving as a model for decentralized energy supply. Economically, the wind turbine has made Batokunku largely independent of the often unreliable national power grid, lowering operating costs for households and small enterprises. The facility consists of a refurbished wind turbine that feeds electricity into the local mini-grid. The site's terrain is flat, offering unobstructed access to wind currents. Beyond its energy output, Batokunku functions as an educational hub for green technologies in West Africa. The project symbolizes The Gambia’s potential for a sustainable transformation of its energy sector and demonstrates how local communities can enhance their resilience through technological innovation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Windturbine von Batokunku wurde aus Dänemark importiert und modernisiert.",
+          "Das Projekt startete offiziell im Jahr 2008.",
+          "Batokunku ist das erste Dorf Gambias mit einer eigenen Windenergieanlage.",
+          "Überschüssiger Strom wird nach Absprache mit der NAWEC ins Netz eingespeist.",
+          "Die Anlage wird durch ein lokales Komitee unterhalten und gewartet.",
+          "Windgeschwindigkeiten an diesem Küstenabschnitt liegen im Jahresmittel bei über 5 m/s."
+        ],
+        "hu": [
+          "A szélerőmű építése során a helyi lakosok önkéntes munkával járultak hozzá a sikerhez.",
+          "A turbina magassága és elhelyezkedése miatt tájékozódási pontként is szolgál.",
+          "A projekt segített a faluban lévő vízművek elektromos ellátásában.",
+          "Batokunku ma már több energiát termel, mint amennyit elhasznál.",
+          "A rendszer sikere után több hasonló projektet is terveznek Gambia partvidékén.",
+          "A terület tiszta tengeri levegője ideális a turbinák hosszú élettartamához."
+        ],
+        "ro": [
+          "Proiectul a fost finanțat parțial prin donații internaționale și fonduri comunitare.",
+          "Relieful litoral din Batokunku prezintă o rugozitate minimă, favorabilă eolienelor.",
+          "Turbina are o capacitate nominală adaptată nevoilor rurale de circa 150 kW.",
+          "Este un punct de atracție pentru delegațiile guvernamentale din regiune.",
+          "Mentenanța turbinei este asigurată de tehnicieni gambieni instruiți special.",
+          "Centrala a redus amprenta de carbon a comunității cu peste 60%."
+        ],
+        "en": [
+          "Batokunku serves as a primary research site for wind resource mapping in Gambia.",
+          "The project is recognized as a leader in community-based utility management.",
+          "It provides a stable power supply for local healthcare and education facilities.",
+          "The wind plant has inspired several solar-wind hybrid trials in the region.",
+          "Batokunku's initiative is featured in African sustainable development reports.",
+          "The coastal location ensures maximum efficiency during the dry season winds."
+        ]
+      }
+    },
+    {
+      "id": "fatoto-river-wharf-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Flusshafen von Fatoto (Fatoto River Wharf) ist der östlichste strategische Umschlagplatz Gambias am Gambia-Fluss. Geografisch liegt die Anlegestelle im Distrikt Kantora der Upper River Region, nur wenige Kilometer von der Grenze zum Senegal entfernt. Seit der Kolonialzeit fungiert Fatoto als das 'Ende der schiffbaren Welt' für größere Binnenschiffe und markiert den weitesten Punkt flussaufwärts für den kommerziellen Güterverkehr von Banjul. Wirtschaftlich ist die Wharf von zentraler Bedeutung für den grenzüberschreitenden Handel; hier werden Waren aus Guinea und dem Senegal angelandet und landwirtschaftliche Produkte für den Weitertransport gesammelt. Das Relief ist durch das steile Ufer des oberen Gambia-Flusses geprägt, was den Bau robuster Kaianlagen erforderte. Die Wharf ist ein lebhafter Ort des Austauschs, an dem traditionelle Pirogen neben staatlichen Versorgungsschiffen anlegen. Trotz der neuen Straßenverbindungen bleibt der Flusshafen ein unverzichtbares logistisches Glied für schwere Güter im tiefen Osten Gambias. Er symbolisiert die historische Bedeutung des Flusses als Handelsweg und die fortwährende Rolle von Fatoto als wichtigem Außenposten der nationalen Ökonomie.",
+        "hu": "A fatotói folyami kikötő (Fatoto River Wharf) Gambia legkeletibb stratégiai rakodóhelye a Gambia-folyó mentén. Földrajzi elhelyezkedése az Upper River régió Kantora körzetében található, mindössze néhány kilométerre a szenegáli határtól. A gyarmati idők óta Fatoto jelenti a „hajózható világ végét” a nagyobb folyami hajók számára, ez a legtávolabbi pont a folyón felfelé, amelyet a banjuli teherforgalom még elérhet. Gazdaságilag a kikötő kulcsfontosságú a határon átnyúló kereskedelemben: itt rakodják ki a Guineából és Szenegálból érkező árukat, és itt gyűjtik össze a környékbeli mezőgazdasági terményeket a továbbszállításhoz. A domborzatot a felső folyószakasz meredek partfala határozza meg, ami robusztus rakparti építmények kialakítását tette szükségessé. A kikötő a nyüzsgő cserekereskedelem színhelye, ahol a hagyományos pirogák és az állami ellátóhajók egymás mellett várakoznak. Az új közúti összeköttetések ellenére a folyami kikötő nélkülözhetetlen logisztikai láncszem maradt a nehézáruk szállításában Gambia távoli keleti végében. Fatoto kikötője a folyó történelmi kereskedelmi jelentőségének és az ország keleti bástyájának élő jelképe.",
+        "ro": "Debarcaderul fluvial din Fatoto (Fatoto River Wharf) este cel mai estic punct strategic de transbordare din Gambia, situat pe cursul superior al fluviului omonim. Geografic, această facilitate se află în districtul Kantora din regiunea Upper River, la mică distanță de granița cu Senegalul. Încă din epoca colonială, Fatoto a servit drept „capătul lumii navigabile” pentru ambarcațiunile comerciale de mare tonaj, marcând punctul terminus al rutei fluviale pornite din Banjul. Din punct de vedere economic, debarcaderul este vital pentru comerțul transfrontalier, fiind locul unde mărfurile din Guineea și Senegal sunt descărcate și unde produsele agricole locale sunt colectate pentru distribuția națională. Relieful este caracterizat de malurile înalte și abrupte ale fluviului în această secțiune, necesitând structuri de acostare solide și rezistente la eroziune. Fatoto Wharf este un spațiu vibrant de intercațiune culturală și economică, unde pirogile tradiționale coexistă cu navele de aprovizionare ale statului. În ciuda dezvoltării rețelei rutiere, portul fluvial rămâne o verigă logistică indispensabilă pentru transportul bunurilor vrac în extremitatea estică a Gambiei. El simbolizează importanța istorică a fluviului ca arteră comercială și rolul strategic al localității Fatoto în economia națională.",
+        "en": "The Fatoto River Wharf is The Gambia's easternmost strategic transshipment point on the Gambia River. Geographically, the wharf is located in the Kantora District of the Upper River Region, only a few kilometers from the border with Senegal. Since the colonial era, Fatoto has functioned as the 'end of the navigable world' for larger inland vessels, marking the furthest point upriver for commercial freight from Banjul. Economically, the wharf is centrally important for cross-border trade; goods from Guinea and Senegal are landed here, and local agricultural produce is collected for further transport. The relief is defined by the steep banks of the upper Gambia River, which required the construction of robust quay facilities. The wharf is a lively place of exchange where traditional pirogues dock alongside state supply vessels. Despite new road links, the river port remains an indispensable logistical link for heavy goods in the far east of The Gambia. It symbolizes the historical importance of the river as a trade route and Fatoto's ongoing role as a vital outpost of the national economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fatoto ist der letzte schiffbare Hafen vor der Grenze zu Senegal.",
+          "Die Wharf wird für den Umschlag von Zement und schweren Baumaterialien genutzt.",
+          "Fatoto liegt etwa 480 Kilometer flussaufwärts von der Hauptstadt Banjul.",
+          "Hier treffen Handelsrouten aus Gambia, Senegal und Guinea-Bissau zusammen.",
+          "Der Flusshafen ist ein bedeutender Standort für die nationale Getreidereserve.",
+          "Die Kaianlage wurde im Rahmen regionaler Entwicklungsprojekte modernisiert."
+        ],
+        "hu": [
+          "A fatotói kikötő a folyó legkeletibb pontja, ahol még meg tudnak fordulni a nagyobb uszályok.",
+          "A terület híres a minőségi szoninke kézműves áruk kereskedelméről.",
+          "A kikötő mellett jelentős állatpiac is működik.",
+          "Az állami ellátóhajók ide szállítják az alapvető élelmiszereket a keleti tartományoknak.",
+          "A folyó itt már keskenyebb, de mélysége továbbra is jelentős.",
+          "Fatoto kikötője kulcsszerepet játszik az ország keleti élelmiszerbiztonságában."
+        ],
+        "ro": [
+          "Fatoto este situat într-o zonă unde fluviul Gambia face o buclă strânsă spre sud.",
+          "Relieful malului este compus din roci de laterită, oferind o bază stabilă portului.",
+          "Localitatea este un punct cheie pentru monitorizarea fluxurilor migratoare fluviale.",
+          "Debarcaderul susține economia locală prin taxe de tranzit și servicii de hamali.",
+          "Este singurul port fluvial gambian cu acces facil către regiunea Tambacounda din Senegal.",
+          "În Fatoto se află depozite de combustibil pentru ambarcațiunile care deservesc estul țării."
+        ],
+        "en": [
+          "Fatoto Wharf is a primary hub for the export of Gambian cotton from the east.",
+          "The site acts as a major link between the Gambian river system and land-locked neighbors.",
+          "It features some of the oldest active riverfront warehouses in the country.",
+          "The wharf remains the primary delivery point for heavy mining equipment in URR.",
+          "Fatoto is a designated station for the Gambia's national naval patrol.",
+          "The area around the wharf is known for its high-quality artisanal blacksmithing."
+        ]
+      }
+    }
+  ]
+}

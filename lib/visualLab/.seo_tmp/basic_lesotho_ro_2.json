@@ -1,0 +1,64 @@
+{
+  "lang": "ro",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ha-ntsi-cities-v2",
+      "description": "Comunitate situată în zonele centrale ale țării, caracterizată printr-un peisaj montan specific statului Lesotho.",
+      "facts": ["Zonă centrală", "Peisaj montan", "Populație locală", "Activități agricole"]
+    },
+    {
+      "id": "ha-baroana-cities-v2",
+      "description": "Sat cunoscut pentru importanța sa culturală și proximitatea față de situri cu picturi rupestre preistorice.",
+      "facts": ["Situri rupestre", "Importanță istorică", "Zonă rurală", "Patrimoniu local"]
+    },
+    {
+      "id": "marakabei-cities-v2",
+      "description": "Localitate situată pe traseul montan către inima Munților Maloti, servind drept punct de acces în regiune.",
+      "facts": ["Munții Maloti", "Punct de acces", "Altitudine mare", "Turism montan"]
+    },
+    {
+      "id": "ha-belo-cities-v2",
+      "description": "Așezare în regiunea nordică, integrată în structura rurală a districtului Butha-Buthe.",
+      "facts": ["Districtul Butha-Buthe", "Zonă nordică", "Agricultură locală", "Relief colinar"]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "description": "Sat pitoresc situat în inima regiunilor muntoase, cunoscut pentru peisajele sale naturale nealterate.",
+      "facts": ["Regiune montană", "Peisaje naturale", "Comunitate basotho", "Acces muntos"]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "description": "Comunitate agricolă situată în zonele joase ale țării, unde condițiile sunt propice pentru cultivarea cerealelor.",
+      "facts": ["Zonă joasă", "Agricultură cerealieră", "Comunitate activă", "Relief plat"]
+    },
+    {
+      "id": "tele-cities-v2",
+      "description": "Localitate de frontieră situată în apropierea râului Tele, în sudul extrem al statului Lesotho.",
+      "facts": ["Zona de frontieră", "Râul Tele", "Sudul țării", "Peisaj fluvial"]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "description": "Așezare importantă în estul țării, deservind comunitățile rurale izolate din districtul Qacha's Nek.",
+      "facts": ["Districtul Qacha's Nek", "Regiune estică", "Comunități rurale", "Acces dificil"]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "description": "Sat rural tradițional situat într-o zonă muntoasă, reflectând viața simplă a comunităților din Lesotho.",
+      "facts": ["Viață rurală", "Zonă montană", "Tradiții locale", "Peisaj accidentat"]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "description": "Centru local în districtul Thaba-Tseka, marcat de altitudinea extremă și izolarea geografică.",
+      "facts": ["Districtul Thaba-Tseka", "Altitudine extremă", "Izolare geografică", "Climat montan"]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "description": "Așezare situată în zonele înalte, caracterizată prin pășuni extinse utilizate pentru creșterea animalelor.",
+      "facts": ["Zonă de pășunat", "Creșterea animalelor", "Altitudine ridicată", "Relief muntos"]
+    }
+  ]
+}

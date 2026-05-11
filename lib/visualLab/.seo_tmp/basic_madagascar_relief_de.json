@@ -1,0 +1,24 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "analamera-relief-v2",
+      "description": "Das Analamera-Massiv ist eine beeindruckende geologische Formation im Norden Madagaskars. Es zeichnet sich durch seine schroffen Felsen und tiefen Schluchten aus.",
+      "facts": ["Nord-Madagaskar", "Karstmassiv", "Geologische Formation", "Schluchten"]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "description": "Die Ausläufer des Pic Boby, des zweithöchsten Berges Madagaskars, bilden eine beeindruckende Gebirgslandschaft. Sie ist ideal für anspruchsvolle Wanderungen.",
+      "facts": ["Andringitra-Massiv", "Gebirgslandschaft", "Wanderregion", "Höhenlage"]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "description": "Das Manongarivo-Massiv im Nordwesten ist eine wilde und unberührte Gebirgsregion. Es bietet eine steile Topografie und eine hohe biologische Vielfalt.",
+      "facts": ["Nordwest-Madagaskar", "Gebirgsregion", "Steile Topografie", "Biologische Vielfalt"]
+    }
+  ]
+}

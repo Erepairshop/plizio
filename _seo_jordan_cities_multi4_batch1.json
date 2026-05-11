@@ -1,0 +1,72 @@
+
+{
+  "lang": "multi4",
+  "country": "jordan",
+  "files": ["lib/visualLab/data/poiExtraJordanCitiesV2.ts"],
+  "items": [
+    {
+      "id": "amman-cities-v2",
+      "descriptionAdvancedHu": "Ammán, Jordánia fővárosa és gazdasági központja, egy dinamikusan fejlődő metropolisz, amely a modernitást ötvözi a mélyen gyökerező történelemmel. A város, amely a bibliai időkben Rabbat Ammon, majd a görög-római korban Philadelphia néven volt ismert, ma több mint négymillió embernek ad otthont. Hét hegyre épült, de mára már tizenkilenc dombot foglal el, szimbolizálva terjeszkedését. A város szívében található a római színház, amely a 2. században épült és hatezer néző befogadására volt alkalmas, valamint a Citadella (Jabal al-Qal'a), ahonnan lenyűgöző kilátás nyílik a belvárosra. A Citadella területén található Herkules templomának maradványai és az Omajjád-palota is. Ammán a Közel-Kelet egyik legliberálisabb és legnyugatiasabb városa, fontos üzleti és turisztikai központ, amely biztonságos menedéket nyújt a régióban.",
+      "descriptionAdvancedRo": "Amman, capitala și cel mai mare oraș al Iordaniei, este un centru economic, politic și cultural vibrant, cu o populație de peste patru milioane de locuitori. Cunoscut în antichitate ca Rabbat Ammon și mai târziu Philadelphia în perioada greco-romană, orașul modern este un amestec fascinant de vechi și nou. Construit inițial pe șapte coline, Ammanul contemporan se întinde pe nouăsprezece, reflectând creșterea sa rapidă. Printre cele mai importante situri istorice se numără Teatrul Roman, datând din secolul al II-lea, cu o capacitate de 6.000 de spectatori, și Citadela (Jabal al-Qal'a), care găzduiește ruinele Templului lui Hercule și Palatul Umayyad. Citadela oferă vederi panoramice asupra centrului orașului. Amman este considerat unul dintre cele mai liberale și occidentalizate orașe din lumea arabă, un centru de afaceri și turism înfloritor și un refugiu de stabilitate în regiunea Levantului.",
+      "descriptionAdvancedEn": "Amman, the capital and largest city of Jordan, is a sprawling metropolis that serves as the country's economic, political, and cultural heart. With a population exceeding four million, it's a major hub in the Levant region. Known in antiquity as Rabbath Ammon and later as Philadelphia during the Greco-Roman era, the city boasts a rich history. Originally built on seven hills, modern Amman now covers at least nineteen. Key historical sites include the well-preserved Roman Theater, built in the 2nd century with a capacity for 6,000 people, and the Citadel (Jabal al-Qal'a), which sits atop the city's highest hill. The Citadel complex contains the remains of the Temple of Hercules and the Umayyad Palace, offering panoramic views of the downtown area. Amman is known for being one of the most liberal and westernized cities in the Arab world, blending ancient heritage with modern dynamism and serving as a safe haven in a turbulent region.",
+      "factsAdvanced": [
+        "Population of over 4 million as of 2024.",
+        "Largest city in the Levant region.",
+        "Known as Philadelphia during the Greco-Roman period.",
+        "Originally built on seven hills, now spans over nineteen.",
+        "The Roman Theater was built in the 2nd century.",
+        "Home to the ruins of the Umayyad Palace.",
+        "The Citadel offers panoramic views of the city.",
+        "Considered one of the most modern cities in the Middle East."
+      ]
+    },
+    {
+      "id": "ajloun-cities-v2",
+      "descriptionAdvancedHu": "Adzslún, egy hegyvidéki város Jordánia északi részén, körülbelül 76 kilométerre Ammántól, leginkább a lenyűgöző, 12. századi váráról ismert. A várat, amely arabul Qal'at ar-Rabad néven ismert, Szaladin unokaöccse, Izz ad-Din Usama építtette 1184-ben, hogy megvédje a területet a keresztes lovagok támadásaitól és felügyelje a Damaszkusz és Egyiptom közötti kereskedelmi útvonalakat. A vár stratégiai elhelyezkedése miatt kiváló kilátást nyújt a Jordán-völgyre. A várost sűrű fenyő- és tölgyerdők veszik körül, ami ritkaságnak számít Jordániában, és népszerű célponttá teszi a túrázók és a természetkedvelők körében. Az Adzslúni Erdőrezervátum, amelyet a Királyi Természetvédelmi Társaság (RSCN) kezel, a helyi biodiverzitás megőrzésének szentelt terület, ahol visszatelepítették a perzsa dámvadat is.",
+      "descriptionAdvancedRo": "Ajloun, un oraș deluros din nordul Iordaniei, situat la 76 de kilometri nord-vest de Amman, este renumit pentru impunătorul său castel din secolul al XII-lea. Cunoscut local ca Qal'at ar-Rabad, castelul a fost construit în 1184 de Izz ad-Din Usama, un general și nepot al lui Saladin, pentru a apăra regiunea împotriva cruciaților și pentru a proteja rutele comerciale dintre Damasc și Egipt. Poziția sa strategică oferă vederi spectaculoase asupra Văii Iordanului. Orașul însuși este înconjurat de păduri luxuriante de pini și stejari, o caracteristică rară în Iordania, ceea ce îl face o destinație populară pentru drumeții și iubitorii de natură. Rezervația Forestieră Ajloun, gestionată de Societatea Regală pentru Conservarea Naturii (RSCN), este o zonă protejată dedicată conservării biodiversității locale, inclusiv reintroducerii căprioarei persane.",
+      "descriptionAdvancedEn": "Ajloun, a hilly town in northern Jordan located 76 kilometers northwest of Amman, is most famous for its impressive 12th-century castle. Known locally as Qal'at ar-Rabad, the castle was built in 1184 by Izz ad-Din Usama, a general and nephew of the Muslim leader Saladin, to defend the region against Crusader attacks and to protect the vital trade routes between Damascus and Egypt. Its strategic hilltop location provides magnificent views of the Jordan Valley. The town is nestled in a landscape of dense pine and oak forests, a unique feature in Jordan, making it a popular destination for hikers and nature lovers. The nearby Ajloun Forest Reserve, managed by the Royal Society for the Conservation of Nature (RSCN), is dedicated to preserving the area's rich biodiversity, including a successful program to reintroduce the Roe Deer.",
+      "factsAdvanced": [
+        "Located 76 km northwest of Amman.",
+        "Home to the 12th-century Ajloun Castle (Qal'at ar-Rabad).",
+        "The castle was built in 1184 by a nephew of Saladin.",
+        "The region is known for its dense oak and pine forests.",
+        "Ajloun Forest Reserve was established in 1988.",
+        "The castle controlled iron mines in the area.",
+        "It was expanded by the Mamluks in the 13th century.",
+        "The castle was damaged by Mongol invaders in 1260."
+      ]
+    },
+    {
+      "id": "al-husn-cities-v2",
+      "descriptionAdvancedHu": "Al-Huszun egy észak-jordániai város, Irbidtől körülbelül 7 km-re délre, amely gazdag történelmi múlttal rendelkezik. Lakossága körülbelül 35 000 fő. A terület termékeny talaja és mérsékelt éghajlata ideális a minőségi növénytermesztéshez; a város egykor híres volt boráról, ma fő termékei a búza és az olívaolaj. A város egyike a kevés jordániai településnek, ahol jelentős keresztény közösség él, akik békében élnek együtt a muszlim többséggel. A város központjában egy mesterséges domb, egy 'Tell' található, amely ősi településrétegeket rejt. Al-Huszun a Bani Obaid körzet közigazgatási központja. A városban található az ország egyik legrégebbi bizánci templomának romja is, ami a terület hosszú keresztény múltjáról tanúskodik. A városban található a Yarmouk Egyetem Mezőgazdasági Kara is.",
+      "descriptionAdvancedRo": "Al-Husn este un oraș din nordul Iordaniei, situat la 65 km nord de Amman și la aproximativ 7 km sud de Irbid. Cu o populație de 35.085 de locuitori, orașul este centrul administrativ al districtului Bani Obaid. Regiunea este cunoscută pentru solul său fertil și clima moderată, care permit cultivarea de produse agricole de înaltă calitate. În trecut, Al-Husn era renumit pentru vinurile sale; astăzi, principalele produse sunt grâul și uleiul de măsline. Orașul are o istorie bogată, evidențiată de un 'Tell' - un deal artificial care indică o așezare antică. Al-Husn este, de asemenea, notabil pentru comunitatea sa creștină semnificativă, care coabitează pașnic cu majoritatea musulmană de secole. Această diversitate culturală se reflectă în peisajul arhitectural și social al orașului.",
+      "descriptionAdvancedEn": "Al-Husn is a town in northern Jordan, located 65 km north of Amman and about 7 km south of Irbid, with a population of around 35,000. It serves as the administrative center of the Bani Obaid district. The region's fertile soil and moderate climate are ideal for high-quality crops; while historically known for its wine, Al-Husn's main products today are wheat and olive oil. A prominent feature of the town is a large 'Tell,' or artificial mound, which indicates ancient settlement layers dating back thousands of years. The town is also known for having one of the oldest and most well-established Christian communities in Jordan, coexisting peacefully with the Muslim majority for centuries. This historical harmony contributes to the town's unique cultural fabric. It is also home to a campus of Al-Balqa Applied University.",
+      "factsAdvanced": [
+        "Located 65 km north of Amman.",
+        "Population of approximately 35,000.",
+        "Known for its fertile soil, producing wheat and olive oil.",
+        "Features a large 'Tell' indicating ancient settlement.",
+        "Home to one of the largest Christian communities in Jordan.",
+        "Administrative center of the Bani Obaid district.",
+        "Historically, the town was known for its wine production.",
+        "Part of the Decapolis in the Roman era, known as Dion."
+      ]
+    },
+    {
+      "id": "fuheis-cities-v2",
+      "descriptionAdvancedHu": "Fuheisz egy festői város Jordánia középső részén, Ammán és Asz-Szalt között helyezkedik el. A város lakosságának túlnyomó többsége keresztény, ami egyedülállóvá teszi Jordániában. Ez a demográfiai jellegzetesség mélyen meghatározza a város kulturális életét és hagyományait. Fuheisz híres a jól megőrzött, 19. századi oszmán kőházairól, amelyek a város történelmi központjában találhatók. Évente megrendezik a Fuheisz Fesztivált, amely az ország egyik legjelentősebb kulturális eseménye, koncertekkel, színházi előadásokkal és művészeti kiállításokkal vonzza a látogatókat. A várost övező dombokon olajfa- és szőlőültetvények találhatók, a helyi olívaolajat és bort nagyra becsülik. A város gazdaságát egykor egy nagy cementgyár határozta meg, de ma már inkább a turizmus és a kulturális örökség megőrzése áll a középpontban.",
+      "descriptionAdvancedRo": "Fuheis este un oraș majoritar creștin din guvernoratul Balqa din Iordania, situat între Salt și capitala Amman. Această caracteristică demografică îi conferă o atmosferă culturală distinctă în regat. Orașul este cunoscut pentru casele sale tradiționale din piatră din perioada otomană, care adaugă la farmecul său istoric. Fuheis este, de asemenea, renumit pentru festivalul său anual, un eveniment cultural major care atrage artiști și vizitatori din toată țara și din străinătate, prezentând muzică, teatru și artă. Economia locală, odinioară dominată de o mare fabrică de ciment, s-a diversificat, punând accent pe turism și pe produsele agricole tradiționale, cum ar fi uleiul de măsline și vinul, cultivate pe dealurile din jur. Coexistența pașnică a comunităților religioase este o marcă a orașului.",
+      "descriptionAdvancedEn": "Fuheis is a predominantly Christian town in the Balqa Governorate of central Jordan, situated between Salt and the capital, Amman. This unique demographic makeup gives the town a distinct cultural atmosphere within the kingdom. Fuheis is known for its well-preserved traditional stone houses dating back to the Ottoman era, which lend the town considerable historic charm. It is famous for the annual Fuheis Festival, a major cultural event in Jordan that attracts performers and visitors from across the country and beyond, celebrating music, art, and theatre. The local economy, once heavily reliant on a large cement factory, has shifted its focus towards tourism and agriculture. The surrounding hills are covered with olive groves and vineyards, and the town is noted for its high-quality olive oil and traditional wine-making.",
+      "factsAdvanced": [
+        "A Christian-majority town in central Jordan.",
+        "Located between the cities of Salt and Amman.",
+        "Famous for its annual Fuheis Festival of arts and culture.",
+        "Known for its traditional Ottoman-era stone houses.",
+        "Surrounding hills are used for olive and grape cultivation.",
+        "For many years, a large cement factory was a major employer.",
+        "The town has a population of around 20,000.",
+        "It preserves a strong sense of community and cultural heritage."
+      ]
+    }
+  ]
+}

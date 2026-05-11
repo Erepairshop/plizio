@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gambia-niederung-v2",
+      "description": "The low-lying valley areas adjacent to the Gambia River, characterized by fertile alluvial soils and seasonal flooding.",
+      "facts": ["River valley", "Fertile soil", "Seasonal flooding"]
+    },
+    {
+      "id": "lompoul-relief-v2",
+      "description": "A unique landscape of sand dunes in Lompoul, forming a distinctive relief feature along the coastal plains.",
+      "facts": ["Sand dunes", "Lompoul area", "Coastal relief"]
+    },
+    {
+      "id": "matam-hochland-v2",
+      "description": "Elevated terrain near Matam, featuring hilly stretches and high plains overlooking the Senegal River valley.",
+      "facts": ["Elevated terrain", "Hilly stretches", "High plains"]
+    },
+    {
+      "id": "nördliche-kuestenebene-v2",
+      "description": "The northern coastal plains of Senegal, characterized by wide, sandy stretches and flat topographic features.",
+      "facts": ["Northern plains", "Sandy terrain", "Flat relief"]
+    },
+    {
+      "id": "casamance-waldhuegel-v2",
+      "description": "Forested hilly terrain in the Casamance region, a distinctive topographical feature of the southern landscape.",
+      "facts": ["Forested hills", "Casamance region", "Distinctive relief"]
+    },
+    {
+      "id": "patar-wald-v2",
+      "description": "A forested area with rolling hills, contributing to the varied topographic profile of the region.",
+      "facts": ["Forested area", "Rolling hills", "Varied relief"]
+    },
+    {
+      "id": "niokolo-koba-berg-v2",
+      "description": "Elevated hilly ground within the Niokolo-Koba area, representing the rugged and varied terrain of this protected park.",
+      "facts": ["Elevated ground", "Niokolo-Koba", "Rugged terrain"]
+    },
+    {
+      "id": "kolda-huegel-v2",
+      "description": "Gently undulating hill formations near Kolda, characteristic of the southern plateau's varied landscape.",
+      "facts": ["Undulating hills", "Kolda region", "Southern plateau"]
+    },
+    {
+      "id": "thiès-hügelzug-v2",
+      "description": "A range of small hills or ridges in the Thiès area, forming a visible relief feature above the surrounding plains.",
+      "facts": ["Hill ridges", "Thiès area", "Relief feature"]
+    },
+    {
+      "id": "faleme-tal-relief-v2",
+      "description": "The valley topography along the Faleme River, marked by steep banks and varied elevation levels.",
+      "facts": ["Valley topography", "Faleme River", "Steep banks"]
+    },
+    {
+      "id": "casamance-huegel-v2",
+      "description": "Hilly terrain features in the Casamance area, creating a diverse and scenic landscape profile.",
+      "facts": ["Hilly terrain", "Casamance", "Scenic relief"]
+    }
+  ]
+}

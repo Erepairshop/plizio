@@ -1,0 +1,30 @@
+{
+  "lang": "de",
+  "country": "Turkey",
+  "files": [
+    "lib/visualLab/data/poiExtraTurkeyCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTurkeyLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bursa-cities-v2",
+      "description": "Bursa war die erste Hauptstadt des Osmanischen Reiches und ist heute für ihre Textilindustrie bekannt.",
+      "facts": ["Viertegrößte Stadt der Türkei", "Zentrum der Seidenproduktion", "Liegt am Uludağ-Gebirge"]
+    },
+    {
+      "id": "eskisehir-cities-v2",
+      "description": "Eskişehir ist eine bedeutende Universitätsstadt und liegt strategisch günstig zwischen Istanbul und Ankara.",
+      "facts": ["Bedeutende Universitätsstadt", "Bekannt für den Porsuk-Fluss", "Zentrum der Luftfahrtindustrie"]
+    },
+    {
+      "id": "kahramanmaras-cities-v2",
+      "description": "Die Stadt Kahramanmaraş ist vor allem für ihre spezielle Art von Speiseeis, das Maraş-Eis, weltberühmt.",
+      "facts": ["Berühmt für Maraş-Eis", "Standort der Zitadelle", "Wichtige Textilstadt"]
+    },
+    {
+      "id": "pamukkale-landmarks-v2",
+      "description": "Pamukkale ist bekannt für seine weißen, terrassenförmigen Kalksinterbecken, die durch mineralreiches Thermalwasser entstanden sind.",
+      "facts": ["UNESCO-Welterbestätte", "Weiße Kalksteinterrassen", "Liegt bei Hierapolis"]
+    }
+  ]
+}

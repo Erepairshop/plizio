@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-fort-sint-andries-history-v2",
+      "descriptionAdvancedDe": "Fort Sint Andries war eine kleine, aber strategisch wichtige niederländische Befestigungsanlage an der Mündung des Berbice-Flusses. Erbaut um 1733, diente es primär dem Schutz der flussaufwärts gelegenen Plantagen vor feindlichen Angriffen und Piraten. Die Festung war Teil eines Netzwerks von Verteidigungsanlagen, die die niederländische Kontrolle über die Kolonie Berbice sichern sollten. Obwohl es kleiner und weniger bekannt war als Fort Nassau, spielte es eine wichtige Rolle bei der Überwachung des Schiffsverkehrs und der Durchsetzung der Handelsbestimmungen. Die Überreste des Forts sind heute weitgehend verfallen, doch seine Lage zeugt von der Bedeutung der Flussmündungen für die Kolonialmächte. Archäologische Untersuchungen an diesem Ort könnten weitere Einblicke in das tägliche Leben der Soldaten und die militärischen Strategien des 18. Jahrhunderts in dieser umkämpften Region der Welt liefern.",
+      "descriptionAdvancedHu": "A Fort Sint Andries egy kicsi, de stratégiailag fontos holland erődítmény volt a Berbice folyó torkolatánál. Az 1733 körül épült erőd elsődlegesen a folyón felfelé fekvő ültetvények védelmét szolgálta az ellenséges támadásokkal és kalózokkal szemben. Az erőd egy olyan védelmi hálózat része volt, amely a hollandok Berbice gyarmat feletti ellenőrzését volt hivatott biztosítani. Bár kisebb és kevésbé ismert volt, mint a Fort Nassau, fontos szerepet játszott a hajóforgalom ellenőrzésében és a kereskedelmi szabályok betartatásában. Az erőd maradványai ma már nagyrészt romokban hevernek, de elhelyezkedése tanúskodik a folyótorkolatok fontosságáról a gyarmati hatalmak számára. A helyszínen végzett régészeti kutatások további betekintést nyújthatnak a katonák mindennapi életébe és a 18. századi katonai stratégiákba a világ ezen sokat vitatott régiójában.",
+      "descriptionAdvancedRo": "Fortul Sint Andries a fost o fortificație olandeză mică, dar importantă din punct de vedere strategic, la gura râului Berbice. Construit în jurul anului 1733, a servit în primul rând la protejarea plantațiilor din amonte de atacurile inamice și de pirați. Fortul făcea parte dintr-o rețea de apărări menite să asigure controlul olandez asupra coloniei Berbice. Deși mai mic și mai puțin cunoscut decât Fortul Nassau, a jucat un rol important în monitorizarea traficului naval și în aplicarea reglementărilor comerciale. Rămășițele fortului sunt astăzi în mare parte în ruină, dar locația sa atestă importanța gurilor de vărsare ale râurilor pentru puterile coloniale. Cercetările arheologice la acest sit ar putea oferi informații suplimentare despre viața de zi cu zi a soldaților și despre strategiile militare din secolul al XVIII-lea în această regiune disputată a lumii.",
+      "descriptionAdvancedEn": "Fort Sint Andries was a small but strategically important Dutch fortification at the mouth of the Berbice River. Built around 1733, its primary purpose was to protect the plantations located upriver from enemy attacks and pirates. The fort was part of a network of defenses designed to secure Dutch control over the Berbice colony. Although smaller and less known than Fort Nassau, it played a significant role in monitoring ship traffic and enforcing trade regulations. The remains of the fort are now largely dilapidated, but its location attests to the importance of river mouths for the colonial powers. Archaeological investigations at this site could provide further insights into the daily lives of the soldiers and the military strategies of the 18th century in this contested region of the world.",
+      "factsAdvanced": [
+        "Erbaut um das Jahr 1733.",
+        "Befand sich an der Mündung des Berbice-Flusses.",
+        "Diente dem Schutz der Plantagen.",
+        "Teil des niederländischen Verteidigungsnetzwerks in Berbice.",
+        "Überwachte den Schiffsverkehr.",
+        "Weniger bekannt als das größere Fort Nassau.",
+        "Die Ruinen sind heute noch sichtbar.",
+        "Wichtiger Ort für die Erforschung der Kolonialgeschichte."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "komo-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Komo-Fluss ist das wichtigste Gewässer der Provinz Estuaire und die lebensnotwendige Arterie für die gabunische Hauptstadt Libreville. Er entspringt im Norden des Crystal-Mountain-Massivs und fließt in südwestlicher Richtung, bis er in einem riesigen Ästuar in den Atlantik mündet. Geografisch bildet der Komo den natürlichen Zugang vom Ozean in das dichte Hinterland Gabuns. Sein Unterlauf ist geprägt von ausgedehnten Mangrovenwäldern, die ein kritisches Ökosystem für die marine Biodiversität darstellen und als Schutzschild gegen Küstenerosion fungieren. Wirtschaftlich ist der Fluss von unschätzbarem Wert; er dient nicht nur der kommerziellen Schifffahrt und dem Transport von Holz, sondern beherbergt auch wichtige Wasserkraftwerke in seinem Oberlauf, die den Großteil des Strombedarfs der Hauptstadtregion decken. Für die lokale Bevölkerung ist der Fluss zudem eine primäre Nahrungsquelle durch den Fischfang. Das Ästuar des Komo ist ein dynamischer Raum, in dem sich Süß- und Salzwasser vermischen, was eine spezialisierte Flora und Fauna hervorgebracht hat. Historisch gesehen war der Komo der Weg, den die ersten europäischen Siedler und Missionare nutzten, um das Territorium zu erschließen. Heute steht der Schutz des Flusses vor Verschmutzung und dem Verlust von Mangrovenflächen im Zentrum lokaler Umweltinitiativen.",
+        "hu": "A Komo-folyó Gabon Estuaire tartományának legfontosabb víziútja, amely alapvető fontosságú Libreville gazdasági és mindennapi élete számára. A folyó az északi Kristály-hegység területén ered, majd délnyugati irányba tartva egy hatalmas tölcsértorkolattal ömlik az Atlanti-óceánba. Ez a torkolat határozza meg Gabon fővárosának földrajzi fekvését és kikötői kapacitását. A Komo alsó szakasza kiterjedt mangroveerdőknek ad otthont, amelyek biológiai szempontból a Guineai-öböl egyik legtermékenyebb övezetének számítanak. Gazdaságilag a folyó nélkülözhetetlen: a felső folyásán található vízerőművek biztosítják Libreville áramellátásának jelentős részét, míg a vízi úton továbbra is jelentős a faanyag és az áruk szállítása. A folyó halállománya évszázadok óta táplálja a környékbeli közösségeket, különösen a mpongwe és fang népcsoportokat. Történelmileg a Komo volt az elsődleges kapu, amelyen keresztül az európai felfedezők és kereskedők bejutottak az ország belső területeire. Napjainkban a folyó védelme, különösen a városi terjeszkedés okozta szennyezés és a mangrove-irtás elleni küzdelem kiemelt környezetvédelmi feladat. A látogatók számára a folyó és torkolata a természet és a modern városi élet találkozásának látványos színhelye.",
+        "ro": "Râul Komo este principala arteră hidrografică a provinciei Estuaire și elementul central în geografia capitalei gaboneze, Libreville. Izvorând din zona muntoasă a Munților de Cristal, râul curge spre sud-vest până la vărsarea sa în Oceanul Atlantic printr-un estuar vast. Acest estuar a facilitat istoric dezvoltarea orașului Libreville ca port strategic și centru comercial. Partea inferioară a râului Komo este flancată de păduri de mangrove dense, care servesc drept habitat crucial pentru numeroase specii marine și ca barieră naturală împotriva eroziunii solului. Din punct de vedere economic, râul este vital nu doar pentru transportul fluvial, ci și pentru producția de energie hidroelectrică, barajele de pe afluenții săi fiind principalele surse de electricitate pentru regiunea capitalei. Pescuitul artizanal practicat pe Komo asigură subzistența multor familii din localitățile riverane. Din punct de vedere istoric, valea râului Komo a fost poarta de intrare pentru primele expediții coloniale și misiuni religioase în Gabon. Astăzi, protejarea calității apelor sale și conservarea ecosistemului de mangrove reprezintă provocări majore în fața presiunii urbanizării accelerate. Komo rămâne un simbol al conectivității Gabonului cu restul lumii prin intermediul oceanului.",
+        "en": "The Komo River is the primary waterway of the Estuaire province and a vital artery for Gabon’s capital, Libreville. Originating in the northern reaches of the Crystal Mountains, it flows southwest until it empties into the Atlantic Ocean through a massive estuary. Geographically, the Komo defines the coastal landscape of northwestern Gabon and provides the natural harbor that made Libreville a strategic location. The river's lower reaches are dominated by extensive mangrove forests, which act as a critical nursery for marine biodiversity and a shield against coastal erosion. Economically, the river is indispensable; its upper tributaries host key hydroelectric dams that provide the majority of the electricity for the capital region. It also remains an essential corridor for small-scale transport and artisanal fishing, which supports the livelihoods of many riverside communities. Historically, the Komo was the primary route used by early European explorers and missionaries to access the Gabonese interior. Today, environmental efforts focus on protecting the river from urban pollution and preventing the destruction of its sensitive mangrove ecosystems. The Komo stands as a powerful symbol of the intersection between Gabon’s natural heritage and its modern economic development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Komo ist der Hauptfluss, der das Ästuar von Libreville bildet.",
+          "Wichtige Wasserkraftwerke wie Kinguélé liegen an seinen Zuflüssen.",
+          "Die Mangroven am Komo gehören zu den größten Schutzgebieten des Akanda-Parks.",
+          "Er war historisch die wichtigste Handelsroute für das Volk der Mpongwe.",
+          "Der Fluss ist im Unterlauf stark von den Gezeiten des Atlantiks geprägt.",
+          "Holztransporte werden oft über den Komo zum Hafen von Owendo geleitet."
+        ],
+        "hu": [
+          "A Komo-folyó torkolata ad otthont Gabon fővárosának, Librevillének.",
+          "A folyó vízgyűjtője magában foglalja a Kristály-hegység jelentős részét.",
+          "A torkolatvidék mangrovesűrűsége kritikus a tengeri halak szaporodásához.",
+          "A folyó áramellátási szempontból stratégiai jelentőségű az országnak.",
+          "A tölcsértorkolat szélessége Libreville-nél eléri a 15 kilométert.",
+          "A 19. században a rabszolga-kereskedelem és az elefántcsont-kereskedelem fő útvonala volt."
+        ],
+        "ro": [
+          "Komo este cel mai important râu din provincia Estuaire.",
+          "Estuarul său reprezintă unul dintre cele mai bune porturi naturale din Africa Centrală.",
+          "Barajele hidroelectrice de pe sistemul Komo alimentează orașul Libreville.",
+          "Râul este puternic influențat de maree pe o distanță de peste 50 km în amonte.",
+          "Pădurile de mangrove adiacente sunt protejate prin legi stricte de mediu.",
+          "Este o resursă majoră pentru pescuitul de crabi și creveți."
+        ],
+        "en": [
+          "The Komo River forms the large estuary upon which Libreville is built.",
+          "Its tributaries provide over 50% of the electrical energy for the capital.",
+          "The river basin is a key part of the Akanda and Crystal Mountains ecosystems.",
+          "The estuary is famous for its vast and biologically rich mangrove forests.",
+          "Artisanal fishing on the Komo provides essential protein for local markets.",
+          "It historically served as the gateway for the colonization of Gabon."
+        ]
+      }
+    },
+    {
+      "id": "muni-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Muni-Fluss (Rivière Muni) bildet einen markanten Grenzästuar zwischen dem Norden Gabuns und Äquatorialguinea. Geografisch handelt es sich weniger um einen einzelnen Fluss als vielmehr um ein komplexes Ästuar-System, das von mehreren kleineren Flüssen wie dem Utamboni und dem Mitong gespeist wird. Die Region ist von dichten Mangrovenwäldern und Gezeitensümpfen geprägt, die eine enorme Vielfalt an aquatischem Leben beherbergen. Historisch war der Muni ein bedeutender Schauplatz für den grenzüberschreitenden Handel und leider auch für den Sklavenhandel im 18. und 19. Jahrhundert. Heute ist das Gebiet um Cocobeach auf gabunischer Seite der wichtigste Zugangspunkt zum Muni-System. Ökologisch gesehen ist das Ästuar ein wichtiger Rastplatz für Zugvögel und ein Lebensraum für seltene Seekühe (Manatis) und Krokodile. Die unübersichtliche Landschaft aus Wasserwegen und Mangroveninseln macht das Gebiet zu einem natürlichen Korridor zwischen den beiden Ländern, stellt aber auch Herausforderungen für die Grenzüberwachung dar. Für die lokale Bevölkerung ist der Muni die Grundlage ihrer Subsistenzwirtschaft, primär durch den Fischfang und den kleinen Grenzhandel. Das Gebiet ist oft in Nebel gehüllt, was dem Ästuar eine mystische Atmosphäre verleiht. Die Erhaltung dieses grenzüberschreitenden Feuchtgebiets ist für die regionale Biodiversität von großer Bedeutung, insbesondere als Rückzugsort für marine Arten des Golfs von Guinea.",
+        "hu": "A Muni-folyó (más néven Muni-torkolat) Gabon északi határvidékén, Egyenlítői-Guinea szomszédságában található. Földrajzi értelemben ez nem egy hagyományos folyó, hanem egy összetett tölcsértorkolat, amelyet több kisebb vízfolyás táplál a szárazföld belsejéből. A területet hatalmas mangroveerdők és mocsaras szigetek uralják, amelyek sűrű szövedéke természetes határt képez a két ország között. Történelmileg a Muni stratégiai fontosságú kereskedelmi útvonal volt, ahol az európaiak és a helyi törzsek elefántcsonttal és rabszolgákkal kereskedtek. A gaboni oldalon fekvő Cocobeach városa a térség központja, amely a torkolaton keresztüli kishatárforgalom és halászat bázisa. Ökológiailag a Muni-torkolat rendkívül értékes; a sekély vizekben ritka afrikai manátuszok élnek, a mocsarak pedig költőhelyet biztosítanak számos vízimadár számára. A táj gyakran párás és ködös, ami misztikus megjelenést kölcsönöz a mangrove-labirintusnak. A folyó menti közösségek élete a víz ritmusához, az apály és dagály váltakozásához igazodik. A Muni-torkolat vizei halban rendkívül gazdagok, biztosítva a helyiek megélhetését. A természetvédelmi erőfeszítések itt nemzetközi együttműködést igényelnek, mivel az ökoszisztéma közvetlenül átnyúlik a szomszédos ország területére is.",
+        "ro": "Râul Muni, cunoscut mai ales sub forma estuarului Muni, constituie granița naturală nordică între Gabon și Guineea Ecuatorială. Din punct de vedere geografic, acesta reprezintă un sistem complex de ape salmastre unde mai multe râuri mici se varsă în Atlantic, creând un labirint de canale și insule acoperite de mangrove. Ecosistemul este unul dintre cele mai bine conservate din regiune, servind drept refugiu pentru specii periclitate precum lamantinul african și diverse specii de crocodili. Istoric, estuarul Muni a fost un nod comercial intens disputat și o rută majoră pentru exportul de resurse în perioada colonială. Localitatea Cocobeach, pe malul gabonez, este principalul punct de acces și control pentru tranzitul fluvial între cele două țări. Din punct de vedere ecologic, zona este vitală pentru biodiversitatea avifaunei, fiind un punct de oprire pentru păsările migratoare care traversează coasta vest-africană. Populația locală depinde aproape exclusiv de resursele estuarului, practicând pescuitul artizanal și comerțul transfrontalier de mică amploare. Peisajul este adesea învăluit în neguri, oferind o panoramă sălbatică și izolată. Conservarea acestui spațiu transfrontalier este esențială pentru menținerea echilibrului ecologic al zonei de coastă din nordul Gabonului. Cooperarea dintre Gabon și Guineea Ecuatorială este crucială pentru monitorizarea durabilă a acestui ecosistem unic de mangrove.",
+        "en": "The Muni River, primarily known as the Muni Estuary, forms a significant natural border between northern Gabon and Equatorial Guinea. Geographically, it is a complex estuarine system where several smaller rivers, such as the Utamboni and Mitong, merge before entering the Atlantic. The landscape is dominated by vast, dense mangrove forests and tidal marshes that support a rich variety of aquatic life. Historically, the Muni was a major site for cross-border trade and, unfortunately, a key outlet for the slave trade in the 18th and 19th centuries. Today, the town of Cocobeach on the Gabonese side serves as the primary gateway to the Muni system. Ecologically, the estuary is a vital resting place for migratory birds and provides a secure habitat for the endangered West African manatee and various crocodile species. The intricate network of waterways and mangrove islands makes the area a natural corridor between the two nations, though it also poses challenges for border management. For the local population, the Muni is the foundation of their subsistence economy, primarily through fishing and small-scale cross-border trade. The area is often shrouded in mist, lending a mystical atmosphere to the vast estuarine expanses. Preserving this transboundary wetland is crucial for regional biodiversity and the health of the Gulf of Guinea’s coastal ecosystems."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Muni ist technisch gesehen ein Ästuar, das von mehreren Flüssen gespeist wird.",
+          "Er markiert die Staatsgrenze zwischen Gabun und Äquatorialguinea.",
+          "Die Stadt Cocobeach ist das wichtigste gabunische Zentrum am Fluss.",
+          "Das Ästuar ist bekannt für seine Vorkommen des seltenen afrikanischen Manatis.",
+          "Die Mangrovenwälder hier gehören zu den produktivsten der Region.",
+          "Historisch war der Fluss ein bedeutender Exporthafen für Edelhölzer."
+        ],
+        "hu": [
+          "A Muni-torkolat természetes határt képez Gabon és Egyenlítői-Guinea között.",
+          "Cocobeach városából indulnak a csónakok a torkolat felfedezésére.",
+          "A terület a vándormadarak egyik legfontosabb megállóhelye Észak-Gabonban.",
+          "A torkolatvidék sós-édesvízi elegye kedvez a különleges rákfajoknak.",
+          "A 18. században fontos európai kereskedelmi állomások működtek itt.",
+          "A sűrű mangroveerdők miatt a határvédelem itt különleges kihívást jelent."
+        ],
+        "ro": [
+          "Muni este unul dintre cele mai mari estuare de pe coasta vest-africană.",
+          "Granița trece prin mijlocul canalului principal al estuarului.",
+          "Adăpostește numeroase specii de păsări limicole și migratoare.",
+          "Pescuitul de subzistență este activitatea economică principală a regiunii.",
+          "Regiunea Cocobeach este celebră pentru peștele proaspăt și fructele de mare.",
+          "Estuarul este subiectul unor acorduri internaționale de protecție a mediului."
+        ],
+        "en": [
+          "The Muni River acts as a natural international border with Equatorial Guinea.",
+          "It is actually a vast estuary formed by several inland rivers.",
+          "The area is a significant habitat for the West African manatee.",
+          "Cocobeach is the strategic town on the Gabonese side of the estuary.",
+          "The mangrove system here is vital for regional carbon sequestration.",
+          "It historically served as a critical hub for regional ivory and timber trade."
+        ]
+      }
+    },
+    {
+      "id": "kongou-falls-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kongou-Fälle im Ivindo-Nationalpark sind zweifellos das spektakulärste Naturwunder Gabuns und gehören zu den imposantesten Wasserfällen Afrikas. Sie erstrecken sich über eine Breite von fast drei Kilometern und stürzen über mehrere Kaskaden und Inseln etwa 56 Meter in die Tiefe. Das Besondere an Kongou ist nicht nur die reine Kraft des herabstürzenden Wassers, sondern die Lage inmitten eines völlig unberührten primären Regenwaldes. Die Fälle bilden eine natürliche Barriere im Ivindo-Fluss und haben dazu beigetragen, dass die Fischfauna oberhalb der Fälle eine eigenständige Evolution durchlaufen konnte. Die Umgebung der Fälle ist ein Hotspot der Biodiversität; die ständige Gischt erzeugt ein feuchtes Mikroklima, in dem seltene Pflanzen und Farne gedeihen. Für Waldelefanten, Gorillas und Schimpansen ist die Region um die Fälle ein wichtiger Lebensraum. In den Jahren nach 2000 standen die Fälle im Zentrum einer großen nationalen Debatte, als Pläne für ein Wasserkraftwerk den Fortbestand dieses Naturerbes bedrohten. Dank massiver internationaler und nationaler Proteste wurde das Projekt gestoppt, und die Fälle blieben unversehrt. Ein Besuch der Kongou-Fälle erfordert eine lange Anreise per Piroge von Makokou aus, bietet aber ein Erlebnis absoluter Wildnis, das in seiner Erhabenheit oft mit den Victoriafällen verglichen wird, jedoch ohne den Massentourismus. Das Rauschen des Wassers ist kilometerweit im Dschungel zu hören und unterstreicht die ungezähmte Kraft der Natur Zentralafrikas.",
+        "hu": "A Kongou-vízesés az Ivindo Nemzeti Park szívében Gabon leglátványosabb természeti képződménye, amelyet sokan „Közép-Afrika Iguazu-jának” neveznek. A vízesésrendszer lenyűgöző méretekkel rendelkezik: közel három kilométer szélességben, több tucat kisebb-nagyobb ágra szakadva zúdul alá az Ivindo-folyó vize a sűrű esőerdő közepén. A vízesés nem egyetlen nagy zuhatag, hanem szigetekkel és sziklákkal tarkított komplex katarakta-rendszer, amelynek magassága eléri az 56 métert. A Kongou-vízesés ökológiai jelentősége felbecsülhetetlen; a vízesés feletti és alatti folyószakaszok élővilága elkülönült egymástól, ami számos endemikus halfaj kialakulásához vezetett. A vízpára által fenntartott állandó nedvesség különleges mohák és orchideák számára biztosít élőhelyet a sziklákon. A terület fontos vándorútvonala az erdei elefántoknak, amelyek gyakran láthatók a folyóparti gázlóknál. A vízesés megmentése a gaboni természetvédelem egyik legnagyobb sikere, miután egy tervezett duzzasztógát-építést a civil összefogás és a nemzetközi nyomás hatására leállítottak. A helyszín megközelítése Makokou városából többórás pirogúttal lehetséges, ami garantálja az elszigeteltséget és az érintetlenséget. A vízesés dübörgése és a környező érintetlen vadon látványa Gabon szuverenitásának és természeti büszkeségének egyik legerősebb szimbóluma.",
+        "ro": "Cascada Kongou, situată în Parcul Național Ivindo, este considerată cea mai spectaculoasă cădere de apă din Gabon și una dintre cele mai frumoase din întreaga Africă. Această cascadă mamut se întinde pe o lățime de aproape trei kilometri, fiind formată dintr-un complex de trepte și insule împădurite care fragmentează cursul râului Ivindo. Apa se prăbușește de la o înălțime de aproximativ 56 de metri, creând un spectacol vizual și auditiv copleșitor în inima junglei primare. Kongou nu este doar un obiectiv peisagistic, ci și un punct critic de biodiversitate; vaporii de apă mențin un microclimat extrem de umed care favorizează plante unice. Râul Ivindo este cunoscut pentru bogăția sa în specii de pești, multe dintre ele fiind limitate la zonele de deasupra sau de dedesubtul cascadei. Lupta pentru salvarea cascadei Kongou de la proiectele hidroelectrice din anii 2000 a devenit un simbol al mișcării ecologiste din Gabon, ducând la protejarea definitivă a sitului. Accesul la cascadă reprezintă o adevărată aventură, necesitând o călătorie lungă cu piroga prin ape presărate cu praguri. Pentru cei care ajung aici, Kongou oferă o experiență de sălbăticie absolută, nealterată de infrastructură modernă. Cascada este inclusă în situl Patrimoniului Mondial UNESCO Ivindo, recunoscându-se valoarea sa universală inestimabilă. Este un loc unde forța brută a elementelor naturii poate fi resimțită la fiecare pas.",
+        "en": "Kongou Falls, located within the Ivindo National Park, is undoubtedly Gabon’s most spectacular natural wonder and ranks among the most impressive waterfalls in Africa. Spanning nearly three kilometers in width, the falls consist of a complex series of cascades and forested islands where the Ivindo River drops approximately 56 meters. The true magnificence of Kongou lies in its setting; it is surrounded by vast, unbroken primary rainforest, far from any human settlement. These falls serve as a major biological barrier, leading to distinct evolutionary paths for fish species above and below the cataracts. The constant mist generated by the falling water creates a humid microclimate that supports rare mosses, ferns, and orchids on the river’s rocky outcrops. Forest elephants and gorillas are often found in the vicinity, utilizing the riverbanks. Kongou Falls became a focal point for national conservation efforts in the early 2000s when a proposed hydroelectric dam threatened to submerge the site; successful protests ensured its preservation. Reaching the falls requires a multi-hour journey by pirogue from the town of Makokou, offering an experience of profound isolation and raw natural power. Often compared to a 'wilder' version of Iguazu Falls, Kongou remains a crown jewel of Gabon’s national park system and a testament to the country’s commitment to preserving its pristine aquatic landscapes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kongou-Fälle sind mit fast 3 km Breite die breitesten Wasserfälle Gabuns.",
+          "Sie stürzen über eine Gesamthöhe von 56 Metern in die Tiefe.",
+          "Ein geplantes Staudammprojekt wurde 2009 zum Schutz der Fälle gestoppt.",
+          "Die Wasserfälle liegen im UNESCO-Welterbe Ivindo-Nationalpark.",
+          "Die Umgebung beherbergt eine außergewöhnlich hohe Dichte an Süßwasserfischen.",
+          "Sie sind nur per Boot (Piroge) von Makokou aus erreichbar."
+        ],
+        "hu": [
+          "A vízesést gyakran Közép-Afrika Iguazu-jaként emlegetik szélessége miatt.",
+          "A zuhatag körül kialakuló párafelhő több kilométerről látható.",
+          "A területen több mint 50 endemikus halfaj él az Ivindo-folyóban.",
+          "A vízesés megmentéséért folytatott küzdelem a gaboni környezetvédelem jelképe.",
+          "A sziklákon különleges, csak itt honos begóniafajok is találhatók.",
+          "A vízesés környéki erdőkben nagy számban élnek csimpánzok és gorillák."
+        ],
+        "ro": [
+          "Kongou este cea mai lată cascadă din bazinul fluviului Congo.",
+          "Situl face parte din patrimoniul mondial UNESCO din anul 2021.",
+          "Călătoria cu piroga până la cascadă durează între 3 și 6 ore din Makokou.",
+          "Este considerată una dintre cele mai bine conservate cascade mari din lume.",
+          "Nivelul apei variază spectaculos între anotimpul ploios și cel secetos.",
+          "Zgomotul cascadei poate fi auzit de la o distanță de peste 5 kilometri."
+        ],
+        "en": [
+          "Kongou Falls is nearly 3 kilometers wide, making it a massive cataract system.",
+          "The falls are a central feature of the UNESCO-listed Ivindo National Park.",
+          "They are a primary site for studying freshwater fish evolution in Africa.",
+          "The area was saved from a major hydroelectric dam project in 2007.",
+          "The high humidity from the spray supports unique cliff-dwelling flora.",
+          "Access to the falls is restricted to guided expeditions by traditional pirogue."
+        ]
+      }
+    },
+    {
+      "id": "waka-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Waka-Nationalpark in Zentral-Gabun schützt eines der geologisch und biologisch faszinierendsten Waldgebiete des Landes. Das Herzstück des Parks ist der Ikoy-Ikobe-Grabenbruch, eine beeindruckende geologische Verwerfung, die tiefe Täler und steile Bergkämme im Chaillu-Massiv geschaffen hat. Diese dramatische Topografie führt zu einer großen Vielfalt an Mikroklimata und Habitaten innerhalb des Parks. Die dichten Regenwälder von Waka sind bekannt für ihre außergewöhnlich hohe Dichte an endemischen Pflanzen und dienen als wichtiges Refugium für bedrohte Großsäugetierarten. Besonders hervorzuheben ist das Vorkommen von Waldelefanten, Gorillas und Schimpansen, die in den unzugänglichen Tälern Schutz finden. Wissenschaftlich berühmt wurde Waka auch durch die Entdeckung und den Schutz des Sonnenschwanzmeerkatze (Cercopithecus solatus), einer Primatenart, die nur in diesem Teil Gabuns vorkommt. Die Vegetation reicht von Tieflandregenwäldern bis hin zu Bergwäldern auf den Gipfeln der Verwerfung. Trotz seiner biologischen Bedeutung ist Waka einer der am wenigsten besuchten Parks Gabuns, was vor allem an der schwierigen Zugänglichkeit und dem Mangel an touristischer Infrastruktur liegt. Dies hat jedoch dazu beigetragen, dass die Wälder in einem fast makellosen Zustand geblieben sind. Die Erhaltung von Waka ist entscheidend für den Schutz der genetischen Vielfalt im Herzen des gabunischen Regenwaldgürtels.",
+        "hu": "A Waka Nemzeti Park Gabon középső részén, a Chaillu-masszívumban található, és az ország egyik legkülönlegesebb geológiai adottságú területe. A park központi eleme az Ikoy-Ikobe árok, egy hatalmas tektonikus vetődés, amely mély völgyeket és meredek hegygerinceket hozott létre. Ez a drámai domborzat különleges mikroklímát és változatos élőhelyeket eredményez, ahol az esőerdő érintetlensége páratlan. Waka erdői híresek a magas fokú növényi endemizmusról, azaz számos olyan faj él itt, amely a világon sehol máshol nem található meg. Az állatvilág szempontjából a park kulcsfontosságú menedékhely: erdei elefántok, síkvidéki gorillák és csimpánzok népesítik be a nehezen járható völgyeket. A park tudományos hírnevét leginkább a napfarkú cerkóf (Cercopithecus solatus) felfedezése hozta meg, amely faj kizárólag Gabon ezen részén honos. A sűrű növényzet és a meredek lejtők természetes védelmet nyújtanak az orvvadászattal és a fakitermeléssel szemben. Waka jelenleg Gabon egyik legkevésbé látogatott nemzeti parkja, ami megőrizte annak misztikus és háborítatlan jellegét. Az ide érkező kutatók és kalandvágyó utazók az egyenlítői vadon egyik utolsó, valódi bástyáját ismerhetik meg. A park védelme alapvető fontosságú a közép-afrikai hegyi esőerdők biodiverzitásának hosszú távú megőrzése érdekében.",
+        "ro": "Parcul Național Waka, situat în centrul Gabonului, protejează una dintre cele mai fascinante zone forestiere din punct de vedere geologic și biologic din Africa Centrală. Elementul central al parcului este falia Ikoy-Ikobe, o depresiune tectonică impresionantă care a sculptat văi adânci și creste muntoase abrupte în masivul Chaillu. Această topografie dramatică generează o varietate de microclimate și habitate, oferind condiții optime pentru o biodiversitate exuberantă. Pădurile din Waka sunt renumite pentru numărul mare de plante endemice și servesc drept refugiu vital pentru elefanții de pădure, gorile și cimpanzei. Un punct de interes științific major este prezența maimuței cu coadă de soare (Cercopithecus solatus), o specie de primată endemică în Gabon, care trăiește aproape exclusiv în acest perimetru. Vegetația parcului variază de la jungle de joasă altitudine la păduri montane pe vârfurile faliei. Deși are o importanță ecologică imensă, Waka rămâne unul dintre cele mai puțin vizitate parcuri din țară, datorită accesului dificil și lipsei infrastructurii turistice. Această izolare a contribuit însă la menținerea pădurilor într-o stare aproape virgină. Conservarea parcului Waka este esențială pentru protejarea diversității genetice a speciilor din inima centurii forestiere gaboneze. Peisajele oferite de crestele faliei sunt printre cele mai spectaculoase din interiorul țării.",
+        "en": "Waka National Park in central Gabon protects one of the country’s most geologically and biologically intriguing forest areas. The park's centerpiece is the Ikoy-Ikobe rift, a massive geological fault that has carved deep valleys and steep ridges within the Chaillu Massif. This dramatic topography creates a wide range of microclimates and habitats, supporting an incredible wealth of biodiversity. Waka’s forests are noted for their high levels of plant endemism and serve as a critical refuge for large endangered mammals. Forest elephants, western lowland gorillas, and chimpanzees find sanctuary in the park's inaccessible terrain. Scientifically, Waka is famous for being a primary habitat for the sun-tailed monkey (Cercopithecus solatus), a primate species endemic to this specific region of Gabon. The vegetation spans from lowland rainforest to montane forest on the higher slopes of the fault line. Despite its ecological significance, Waka remains one of Gabon's least-visited national parks, largely due to its rugged terrain and lack of tourist infrastructure. This isolation has allowed the forest to remain in a nearly pristine state, free from large-scale logging or poaching pressures. Preserving Waka is essential for maintaining the genetic diversity of Central Africa’s equatorial belt and protecting its unique tectonic landscapes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Waka ist bekannt für die spektakuläre Ikoy-Ikobe-Grabenbruch-Verwerfung.",
+          "Der Park ist der wichtigste Lebensraum der endemischen Sonnenschwanzmeerkatze.",
+          "Er liegt im Herzen des Chaillu-Massivs in Zentral-Gabun.",
+          "Die Topografie umfasst Steilhänge mit über 1.000 Metern Höhenunterschied.",
+          "Waldelefanten nutzen die tiefen Täler als geschützte Wanderkorridore.",
+          "Waka wurde 2002 als Teil des nationalen Parknetzwerks gegründet."
+        ],
+        "hu": [
+          "A park legfőbb jellegzetessége a tektonikai eredetű Ikoy-Ikobe árok.",
+          "Itt él a világ egyik legritkább majomfaja, a napfarkú cerkóf.",
+          "A terület Gabon egyik legsziklásabb és legmeredekebb esőerdeje.",
+          "Waka szinte teljesen mentes az emberi infrastruktúrától.",
+          "A völgyekben folyó patakok az Ikoy és Ikobe folyókat táplálják.",
+          "A park botanikai szempontból Gabon egyik leggazdagabb vidéke."
+        ],
+        "ro": [
+          "Parcul acoperă o zonă de falie tectonică unică în bazinul Congo.",
+          "Este habitatul principal al maimuței Cercopithecus solatus.",
+          "Relieful accidentat previne accesul ușor al braconierilor în interior.",
+          "Pădurile de aici au o rată de regenerare naturală foarte ridicată.",
+          "Include numeroase peșteri și formațiuni stâncoase neexplorate.",
+          "Waka este vital pentru menținerea bazinului hidrografic al fluviului Ngounié."
+        ],
+        "en": [
+          "Waka National Park features the dramatic Ikoy-Ikobe rift valley.",
+          "It is a key sanctuary for the sun-tailed monkey, endemic to Gabon.",
+          "The terrain is marked by steep mountain ridges and deep canyons.",
+          "It is one of the least explored and most pristine parks in Gabon.",
+          "The area is vital for the conservation of large primates and forest elephants.",
+          "It protects a significant portion of the primary forest in the Chaillu Massif."
+        ]
+      }
+    },
+    {
+      "id": "birougou-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Birougou-Nationalpark im Süden Gabuns schützt die dichten Bergregenwälder des Chaillu-Massivs und ist ein Ort von höchster ökologischer Bedeutung. Das Gebiet wird durch das Birougou-Gebirge geprägt, dessen Gipfel oft in dichten Nebel gehüllt sind, was zur Entstehung spezialisierter Ökosysteme geführt hat. Birougou ist eine der regenreichsten Regionen Gabuns und fungiert als 'Wasserturm' für das Land, da hier die Quellen zahlreicher bedeutender Flüsse wie der Ngounié und der Lolo liegen. Die Vegetation ist geprägt von einer Mischung aus primärem Tiefland- und Bergregenwald, der eine enorme Vielfalt an endemischen Pflanzen beherbergt. Für den Naturschutz ist der Park von unschätzbarem Wert, da er einen der wichtigsten Korridore für das Überleben von Schimpansen und Westlichen Flachlandgorillas in Zentralafrika darstellt. Die Abgeschiedenheit des Parks und die schwierige Topografie haben dazu beigetragen, dass die Bestände an Waldelefanten hier im Vergleich zu anderen Regionen stabiler geblieben sind. Wissenschaftler schätzen Birougou zudem wegen seiner reichen Herpetofauna und der zahlreichen seltenen Vogelarten. Historisch gesehen ist das Gebiet auch die Heimat von Pygmäen-Gemeinschaften, die seit Jahrtausenden im Einklang mit dem Wald leben. Ein Besuch in Birougou ist eine Reise in die tiefe Wildnis, geprägt von steilen Anstiegen und einer mystischen Atmosphäre unter dem grünen Blätterdach. Der Schutz dieses Parks ist essenziell für die Aufrechterhaltung des regionalen Klimas und der Wasserressourcen Gabuns.",
+        "hu": "A Birougou Nemzeti Park Gabon déli részén, a Chaillu-masszívum szívében található, és az ország egyik legfontosabb hegyi esőerdei rezervátuma. A parkot a Birougou-hegység uralja, amelynek csúcsai gyakran ködbe burkolóznak, egyedülálló mikroklímát és speciális élőhelyeket hozva létre. Ez a terület Gabon „víztornya”, mivel itt találhatók több jelentős folyó, például a Ngounié és a Lolo forrásai. A csapadékmennyiség itt az egyik legmagasabb az országban, ami buja, sűrű vegetációt eredményez, ahol a növényfajok diverzitása rendkívüli. Birougou kiemelt jelentőségű a főemlőskutatás és -védelem számára, mivel az egyik legfontosabb folyosót alkotja a csimpánzok és a síkvidéki gorillák számára. A hegység nehéz terepviszonyai természetes védelmet nyújtanak az erdei elefántok számára az orvvadászokkal szemben. A park biológiai értékei mellett kulturális jelentősége is nagy: a környék hagyományosan pigmeus közösségek otthona, akik ősi tudásukkal segítik a természetvédelmi munkát. Birougou elszigeteltsége miatt a turizmus itt gyerekcipőben jár, így a látogatók egy szinte érintetlen, misztikus világba csöppenhetnek. A tudósok számára a terület a biodiverzitás egyik utolsó nagy bástyája, ahol még számos felfedezetlen faj vár leírásra. A park fenntartása elengedhetetlen Gabon vízkészletének és a Kongó-medence ökológiai stabilitásának megőrzéséhez.",
+        "ro": "Parcul Național Birougou, situat în sudul Gabonului, protejează pădurile montane dense ale masivului Chaillu, fiind un sit de o importanță ecologică crucială. Regiunea este dominată de munții Birougou, ale căror culmi sunt frecvent învăluite în ceață, favorizând dezvoltarea unor ecosisteme forestiere de altitudine. Birougou este considerat „castelul de apă” al Gabonului, deoarece găzduiește izvoarele unor râuri majore precum Ngounié și Lolo, beneficiind de unele dintre cele mai ridicate niveluri de precipitații din țară. Vegetația este un amestec de junglă primară de câmpie și păduri montane, adăpostind o floră endemică extrem de bogată. Din perspectiva conservării, parcul este vital pentru supraviețuirea cimpanzeilor și a gorilelor de câmpie vestice, oferind un coridor ecologic protejat. Topografia accidentată și izolarea geografică au oferit o protecție naturală elefanților de pădure împotriva braconajului. Birougou este, de asemenea, o zonă de interes pentru cercetători datorită diversității sale de amfibieni și păsări rare. Istoric, teritoriul este legat de comunitățile de pigmei care au trăit în armonie cu pădurea timp de milenii. Vizitarea parcului Birougou reprezintă o incursiune într-o sălbăticie profundă, oferind o atmosferă mistică sub coronamentul dens al arborilor seculari. Protejarea acestui parc este fundamentală pentru menținerea climatului regional și a rezervelor de apă ale națiunii.",
+        "en": "Birougou National Park in southern Gabon protects the dense montane rainforests of the Chaillu Massif and is a site of paramount ecological importance. The area is defined by the Birougou Mountains, whose peaks are often shrouded in thick mist, leading to the development of specialized cloud forest ecosystems. Birougou is one of the rainiest regions in Gabon and acts as the country’s 'water tower,' as it hosts the headwaters of several major rivers, including the Ngounié and the Lolo. The vegetation is a lush mix of primary lowland and montane rainforest, supporting a vast array of endemic plant species. For conservation, the park is invaluable as it provides one of the most significant corridors for the survival of chimpanzees and western lowland gorillas in Central Africa. The park’s remoteness and challenging topography have helped maintain stable populations of forest elephants compared to more accessible regions. Scientists also prize Birougou for its rich herpetofauna and numerous rare bird species. Historically, the area has been home to pygmy communities who have lived in harmony with the forest for millennia. A visit to Birougou is a journey into the deep wilderness, characterized by steep climbs and a mystical atmosphere beneath the green canopy. Protecting this park is essential for maintaining Gabon's regional climate stability and its vital water resources."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Birougou beherbergt die Quellen der Flüsse Ngounié und Lolo.",
+          "Der Park ist bekannt für seine fast ständig nebelverhangenen Bergwälder.",
+          "Er bildet einen strategischen Korridor für Gorillas und Schimpansen.",
+          "Birougou gehört zu den regenreichsten Orten in Zentralafrika.",
+          "Die Region beherbergt traditionelle Gemeinschaften des Babongo-Volkes.",
+          "Er wurde 2002 als Teil des gabunischen Nationalparksystems eingerichtet."
+        ],
+        "hu": [
+          "A park a Chaillu-masszívum egyik legmagasabb pontján helyezkedik el.",
+          "Itt találhatók Gabon legfontosabb forrásvidékei.",
+          "A területen rendkívül magas a páratartalom az állandó ködképződés miatt.",
+          "A park fontos kutatóhely a közép-afrikai kétéltűek tanulmányozására.",
+          "Az erdei elefántok itt a meredek hegyoldalakon is biztonságban vándorolnak.",
+          "A sűrű erdő miatt Birougou belső részei szinte teljesen feltérképezetlenek."
+        ],
+        "ro": [
+          "Munții Birougou sunt principala sursă de apă dulce pentru sudul Gabonului.",
+          "Parcul protejează un ecosistem rar de pădure montană tropicală.",
+          "Găzduiește populații importante de gorile de câmpie vestice.",
+          "Nivelul precipitațiilor depășește adesea 2.500 mm pe an.",
+          "Relieful include pante abrupte și creste ce depășesc 900 m altitudine.",
+          "Este un sit esențial pentru menținerea biodiversității în masivul Chaillu."
+        ],
+        "en": [
+          "Birougou serves as a major watershed for the Ngounié and Lolo rivers.",
+          "The park is famous for its persistent mist and high rainfall.",
+          "It provides a crucial biological corridor for Central Africa's Great Apes.",
+          "The area is home to the Babongo people, a traditional forest-dwelling community.",
+          "The park's isolation provides a natural shield for the African forest elephant.",
+          "It is considered one of the primary 'water towers' of the Gabonese republic."
+        ]
+      }
+    }
+  ]
+}

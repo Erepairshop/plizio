@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mafou-forest-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mafou-Wald (Forêt de la Mafou) ist das ökologische Herzstück des Nationalparks Oberer Niger im Osten Guineas. Geografisch erstreckt sich dieser Primärwald über die Präfekturen Faranah und Kouroussa und stellt eines der letzten zusammenhängenden Gebiete mit trockenem tropischem Regenwald in Westafrika dar. Die Region ist durch ein komplexes Mosaik aus dichten Galeriewäldern entlang der Flussläufe und offenen Waldsavannen geprägt. Der Mafou-Wald bietet einen kritischen Lebensraum für bedrohte Tierarten, insbesondere für eine der größten verbliebenen Populationen des Westafrikanischen Schimpansen. Botanisch zeichnet sich das Gebiet durch eine hohe Dichte an Hartholzbäumen und Medizinalpflanzen aus, die seit Jahrhunderten von der lokalen Bevölkerung genutzt werden. Historisch blieb der Wald aufgrund seiner Unzugänglichkeit weitgehend von großflächiger Abholzung verschont, steht jedoch heute unter dem Druck von Wilderei und Brandrodung. Wirtschaftlich gesehen bildet der Wald die Grundlage für ökologische Forschungsprojekte und hat ein erhebliches Potenzial für den kontrollierten Ökotourismus. Für die umliegenden Gemeinschaften der Malinké ist der Wald nicht nur eine Ressource, sondern auch ein Ort spiritueller Bedeutung und traditioneller Jagdriten.",
+        "hu": "A Mafou-erdő (Forêt de la Mafou) a Felső-Niger Nemzeti Park ökológiai magja Guinea keleti részén, Faranah és Kouroussa prefektúrák határán. Ez a terület Nyugat-Afrika egyik utolsó érintetlen száraz trópusi erdősége, amely egyedülálló átmenetet képez a sűrű esőerdők és a nyílt szavannák között. Földrajzi környezetét a Niger-folyó mellékágai mentén húzódó galériaerdők és a dombos fás szavannák határozzák meg. A Mafou-erdő kritikus fontosságú élőhely a veszélyeztetett nyugat-afrikai csimpánzok számára, emellett számos ritka antilopfajnak és ragadozónak ad otthont. Történelmileg az erdő elszigeteltsége megóvta a területet a nagyüzemi fakitermeléstől, így megőrizhette eredeti biológiai sokféleségét. A helyi malinké közösségek számára az erdő hagyományosan a gyógynövények forrása és a vadásztársaságok rituális színhelye. Gazdasági szempontból a Mafou-erdő a nemzetközi természetvédelmi projektek és a tudományos kutatás központja, amely hosszú távon a fenntartható ökoturizmus alapja lehet. A terület védelme kulcsfontosságú a Niger-medence vízháztartásának szabályozásában is.",
+        "ro": "Pădurea Mafou (Forêt de la Mafou) reprezintă nucleul ecologic al Parcului Național al Nigerului Superior, fiind situată în estul Guineei, între prefecturile Faranah și Kouroussa. Geografic, această pădure primară este una dintre ultimele suprafețe compacte de pădure tropicală uscată din Africa de Vest, oferind un peisaj diversificat de păduri-galerie și savane arborescente. Mafou este un habitat critic pentru specii pe cale de dispariție, găzduind una dintre cele mai importante populații de cimpanzei vest-africani. Din punct de vedere botanic, zona este bogată în esențe de lemn tare și plante medicinale utilizate de milenii de comunitățile locale. Istoric, inaccesibilitatea regiunii a protejat-a de exploatările forestiere industriale masive, păstrând o biodiversitate intactă. Economia locală este legată de resursele pădurii prin culesul sustenabil și potențialul pentru ecoturismul științific. Pentru populația Malinké, pădurea Mafou are o dimensiune sacră, fiind locul unde se desfășoară tradițiile frățiilor de vânători (Donsow). În prezent, situl face obiectul unor programe internaționale de monitorizare a primatelor și de luptă împotriva braconajului, fiind esențial pentru echilibrul ecologic regional.",
+        "en": "The Mafou Forest (Forêt de la Mafou) is the ecological core of the Upper Niger National Park in eastern Guinea, spanning the Faranah and Kouroussa Prefectures. Geographically, it represents one of the last remaining large stands of primary dry tropical forest in West Africa, featuring a complex mosaic of dense gallery forests and wooded savannas. The forest provides a critical sanctuary for endangered wildlife, most notably hosting a significant population of the West African chimpanzee. Botanically, the area is characterized by a high density of hardwood species and medicinal plants that have been utilized by local communities for centuries. Historically, the forest's remote location shielded it from large-scale commercial logging, allowing its biodiversity to remain relatively intact. Economically, Mafou serves as a focal point for international conservation research and holds substantial potential for regulated eco-tourism. For the local Malinké people, the forest is not just a source of raw materials but a site of deep spiritual significance and home to traditional hunter brotherhood rituals."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mafou ist das Kerngebiet des Nationalparks Oberer Niger.",
+          "Der Wald beherbergt eine der dichtesten Schimpansen-Populationen Guineas.",
+          "Das Ökosystem ist eine seltene Mischung aus Trockenwald und Feuchtsavanne.",
+          "Die Mafou-Region ist ein bedeutendes Brutgebiet für seltene Vogelarten.",
+          "Menschliche Eingriffe sind in der Kernzone des Mafou-Waldes streng verboten.",
+          "Der Wald reguliert wichtige Zuflüsse des Niger-Flusssystems."
+        ],
+        "hu": [
+          "A Mafou-erdő a Felső-Niger Nemzeti Park legszigorúbban védett magterülete.",
+          "A terület Guinea egyik legfontosabb csimpánz-rezervátuma.",
+          "Az ökoszisztéma ritka száraz trópusi erdőkből és galériaerdőkből áll.",
+          "A régióban több mint 300 madárfajt azonosítottak a kutatók.",
+          "Az erdő belsejében tilos az állandó emberi letelepedés.",
+          "A Mafou kulcsszerepet játszik a környező területek mikroklímájának fenntartásában."
+        ],
+        "ro": [
+          "Mafou este considerată zona zero a conservării biodiversității în estul Guineei.",
+          "Pădurea adăpostește comunități de cimpanzei monitorizate prin proiecte internaționale.",
+          "Ecosistemul forestier depinde de inundațiile sezoniere ale afluenților Nigerului.",
+          "Este un punct de atracție major pentru ornitologii din întreaga lume.",
+          "Accesul în inima pădurii este permis doar cu autorizație de cercetare.",
+          "Vegetația din Mafou include specii endemice de arbori giganti."
+        ],
+        "en": [
+          "Mafou Forest is the strictly protected core zone of the Upper Niger National Park.",
+          "It is home to a vital and growing community of endangered West African chimpanzees.",
+          "The habitat is classified as a rare Sudanese-Guinean dry forest ecosystem.",
+          "The area is an Important Bird Area (IBA) with hundreds of recorded species.",
+          "Local Malinké communities act as traditional guardians of the forest's fringes.",
+          "The forest plays a major role in regional carbon sequestration and soil stability."
+        ]
+      }
+    },
+    {
+      "id": "kindia-pineapple-plantations-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ananasplantagen von Kindia sind das pulsierende Zentrum der guineischen Agrarwirtschaft in der Region Maritime Guinea. Geografisch profitieren die Anbaugebiete in den Präfekturen Kindia und Friguiagbé von den fruchtbaren, eisenreichen Lateritböden und dem feucht-warmen Klima am Fuße des Fouta-Djallon-Massivs. Guinea war historisch einer der größten Ananasexporteure Afrikas, und die Region Kindia ist das historische Herzstück dieser Produktion. Heute wird vor allem die Sorte 'Baronne de Rothschild' angebaut, die für ihren außergewöhnlichen Geschmack und hohen Zuckergehalt geschätzt wird. Die Wirtschaft der Region basiert auf einer Mischung aus großen kommerziellen Farmen und tausenden kleinen Familienbetrieben, die sich in Kooperativen organisiert haben. In den letzten Jahren wurden massive Investitionen getätigt, um die Exportkapazitäten nach Europa und in die Golfstaaten zu reaktivieren. Das Leben auf den Plantagen folgt den saisonalen Zyklen von Pflanzung und Ernte, wobei moderne Bewässerungssysteme zunehmend die Abhängigkeit vom Regen mindern. Für Besucher bieten die weitläufigen, grünen Felder mit Blick auf die markanten Granitfelsen der Region ein charakteristisches Bild der guineischen Agrarlandschaft. Die Plantagen sind nicht nur Wirtschaftsfaktor, sondern auch ein Symbol für die Hoffnung Guineas auf eine erfolgreiche Diversifizierung seiner Exporte.",
+        "hu": "Kindia ananászültetvényei Guinea agrárgazdaságának legfontosabb központjai Alsó-Guineában. A termőterületek földrajzi elhelyezkedése ideális: a Kindia és Friguiagbé környéki vasban gazdag laterit talaj és a Fouta Djallon lábánál uralkodó párás, meleg klíma tökéletes feltételeket biztosít a gyümölcs számára. Történelmileg Guinea Afrika egyik vezető ananászexportőre volt a 20. század közepén, és Kindia régiója ma is az újjáéledő termelés központja. A legnépszerűbb fajta a 'Baronne de Rothschild', amely kiváló ízéről és magas cukortartalmáról híres. A helyi gazdaság a nagyüzemi ültetvények és több ezer kistermelői családi gazdaság szövetségére épül, amelyek szövetkezetekbe tömörülve juttatják el árujukat a világpiacra. Az elmúlt évtizedben jelentős beruházások történtek a feldolgozóiparban és a logisztikában az európai export fellendítése érdekében. Az élet az ültetvényeken a szigorú mezőgazdasági ciklusokhoz igazodik, ahol a modern öntözési technikák fokozatosan felváltják a hagyományos módszereket. A tájképet a végtelen zöld mezők és a háttérben magasodó monumentális sziklafalak teszik egyedivé. Az ananásztermesztés nem csupán munkahelyet teremt, hanem Guinea gazdasági diverzifikációjának és mezőgazdasági büszkeségének egyik legfontosabb jelképe.",
+        "ro": "Plantațiile de ananas din Kindia reprezintă inima agricolă a Guineei Maritime, fiind motorul exporturilor horticole ale țării. Geografic, culturile beneficiază de solurile lateritice fertile și de climatul cald și umed de la poalele masivului Fouta Djallon. Guineea a fost istoric unul dintre principalii exportatori de ananas din Africa, iar regiunea Kindia-Friguiagbé rămâne centrul vital al acestei industrii. Soiul predominant este 'Baronne de Rothschild', apreciat pe piața internațională pentru aroma intensă și conținutul ridicat de zahăr. Economia zonei este susținută de un mix între mari exploatații comerciale și mii de mici fermieri organizați în cooperative dinamice. Recent, investiții majore au fost direcționate către modernizarea unităților de ambalare și transport frigorific pentru a recuceri piețele europene. Viața cotidiană pe plantații este marcată de ritmul sezonier al recoltării, activitate care oferă locuri de muncă pentru o mare parte a populației rurale. Peisajul format de rândurile nesfârșite de ananas, cu fundalul munților granitici, este emblematic pentru Guineea de Jos. Plantațiile nu sunt doar un motor economic, ci și un simbol al potențialului agroindustrial al țării de a trece dincolo de dependența de minerit.",
+        "en": "The pineapple plantations of Kindia are the vibrant center of Guinea's agricultural economy in the Maritime Guinea region. Geographically, the growing areas in the Kindia and Friguiagbé districts benefit from fertile, iron-rich laterite soils and the humid tropical climate found at the base of the Fouta Djallon massif. Historically, Guinea was one of Africa's leading pineapple exporters, and the Kindia region remains the historic heartland of this production. Today, the 'Baronne de Rothschild' variety is the primary crop, prized globally for its exceptional sweetness and flavor profile. The regional economy is driven by a combination of large-scale commercial estates and thousands of smallholder family farms organized into cooperatives. In recent years, significant investments have been made to revitalize export channels to Europe and the Gulf states. Life on the plantations follows the rigorous seasonal cycles of planting and harvesting, with modern irrigation systems increasingly reducing reliance on seasonal rains. For visitors, the vast green fields set against the dramatic granite cliffs of Kindia offer a quintessential Guinean landscape. These plantations represent not only a major economic sector but also Guinea's aspirations for a modern and diversified agricultural future."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kindia ist der größte Ananasproduzent der Republik Guinea.",
+          "Die Sorte 'Baronne de Rothschild' ist das Aushängeschild der Region.",
+          "Die Anbauflächen profitieren von den hohen Niederschlägen der Küstennähe.",
+          "Guinea exportiert Ananas per Luft- und Seefracht vom Hafen Conakry.",
+          "Kooperativen in Kindia fördern den fairen Handel für Kleinbauern.",
+          "Die Plantagen sind ein wichtiger Forschungsort für tropischen Gartenbau."
+        ],
+        "hu": [
+          "Kindia prefektúra adja Guinea ananásztermelésének döntő többségét.",
+          "A helyi 'Baronne de Rothschild' fajta világszerte prémium terméknek számít.",
+          "A termőföldek vörös laterit talaja ideális a gyümölcs cukortartalmának növeléséhez.",
+          "A termést frissen, lének és aszalványnak feldolgozva is értékesítik.",
+          "Az ültetvények több tízezer embernek biztosítanak közvetlen megélhetést.",
+          "A régióban több agrár-szakközépiskola szakosodott az ananásztermesztésre."
+        ],
+        "ro": [
+          "Regiunea Kindia este furnizorul principal de ananas pentru piața din Conakry.",
+          "Ananasul de Kindia a fost prima cultură de export certificată a Guineei independente.",
+          "Microclimatul local permite recoltarea fructelor pe parcursul întregului an.",
+          "Exporturile către Franța și Belgia reprezintă o sursă vitală de valută.",
+          "Tehnicile de cultivare includ utilizarea mulciului pentru conservarea umidității.",
+          "Plantațiile sunt integrate în circuite de agroturism în curs de dezvoltare."
+        ],
+        "en": [
+          "Kindia is the undisputed capital of pineapple production in Guinea.",
+          "The 'Baronne de Rothschild' variety is world-renowned for its quality.",
+          "The unique red soils of Kindia contribute to the high sugar levels of the fruit.",
+          "Recent modernization has introduced drip irrigation to many plantations.",
+          "Pineapple farming is a cornerstone of the regional socio-economic structure.",
+          "The plantations serve as a model for Guinea's non-mining export strategy."
+        ]
+      }
+    },
+    {
+      "id": "kankan-rice-fields-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Rizsföldek von Kankan sind das Rückgrat der Lebensmittelversorgung in Oberguinea und prägen das soziale Gefüge der Region. Geografisch erstrecken sich diese ausgedehnten Anbauflächen entlang der fruchtbaren Schwemmlandebenen des Milo-Flusses, eines wichtigen Nebenflusses des Niger. Das Leben in Kankan ist eng mit dem Rhythmus der Reiskultur verbunden, wobei die jährlichen Überschwemmungen des Milo die Felder mit natürlichen Nährstoffen versorgen. Reis ist das Hauptnahrungsmittel Guineas, und Kankan fungiert als eines der bedeutendsten Produktionszentren für 'Riz du pays' (lokalen Reis). Die Anbaumethoden kombinieren traditionelle bäuerliche Handarbeit mit modernen genossenschaftlichen Ansätzen. Die weiten, grünen Ebenen, die während der Regenzeit in ein tiefes Smaragdgrün getaucht sind, bieten ein beeindruckendes Landschaftsbild. Wirtschaftlich ist der Reishandel der Motor des lokalen Marktes, wobei die Ernten nicht nur Kankan, sondern auch die umliegenden Savannenregionen versorgen. Historisch gesehen war die Kontrolle über die fruchtbaren Reisfelder oft ein Faktor für die Stabilität der lokalen Reiche. Die Kultur des Reises spiegelt sich auch in den lokalen Festen und der kulinarischen Tradition der Malinké wider, bei denen Reis das Zentrum fast jeder Mahlzeit bildet.",
+        "hu": "Kankan rizsföldjei Felső-Guinea élelmiszerellátásának bástyái, amelyek alapjaiban határozzák meg a régió társadalmi és gazdasági életét. Földrajzilag ezek a kiterjedt ültetvények a Milo-folyó – a Niger egyik legfontosabb mellékfolyója – termékeny öntésterületein fekszenek. A helyi lakosság élete szorosan követi a rizstermesztés éves ciklusait, ahol a folyó áradásai biztosítják a talaj természetes tápanyag-utánpótlását és a szükséges vízmennyiséget. A rizs Guinea legfontosabb alapélelmiszere, Kankan pedig a „riz du pays” (helyi rizs) termelésének egyik legfőbb központja. A termesztési folyamat a hagyományos kézi munka és a modern, szövetkezeti alapú gazdálkodás keveréke. Az esős évszak idején a táj élénkzöld színe monumentális látványt nyújt, ahogy a vízzel elárasztott parcellák a horizontig nyúlnak. Gazdaságilag a rizskereskedelem a kankani piac motorja, amely az egész szavannás vidéket ellátja élelemmel. Történelmileg a termékeny ártéri területek birtoklása kulcsfontosságú volt a helyi királyságok stabilitása szempontjából. A rizskultúra mélyen beépült a malinké nép hagyományaiba és gasztronómiájába is, ahol szinte minden étkezés középpontjában ez a gabonaféle áll.",
+        "ro": "Câmpiile de orez din Kankan reprezintă coloana vertebrală a securității alimentare în Guineea Superioară și modelează structura socială a regiunii. Geografic, aceste suprafețe vaste de cultivare se întind de-a lungul luncilor fertile ale râului Milo, un afluent major al Nigerului. Viața în Kankan este strâns legată de ritmul culturii orezului, inundațiile anuale ale râului Milo fertilizând natural solul cu sedimente prețioase. Orezul este alimentul de bază al guineenilor, iar Kankan funcționează ca unul dintre cele mai importante centre de producție pentru „Riz du pays” (orezul local). Metodele de cultivare combină munca manuală tradițională cu abordări cooperatiste moderne susținute de stat. Peisajul zonelor inundabile, care în timpul sezonului ploios capătă o culoare verde smarald intensă, oferă o imagine spectaculoasă a agriculturii africane. Din punct de vedere economic, comerțul cu orez este motorul pieței locale, recoltele aprovizionând nu doar orașul Kankan, ci și regiunile de savană învecinate. Istoric, controlul asupra acestor terenuri fertile a fost un factor de stabilitate pentru vechile regate manding. Cultura orezului este reflectată și în tradițiile culinare Malinké, unde acest produs este piesa centrală a fiecărei mese festive sau cotidiene.",
+        "en": "The rice fields of Kankan are the backbone of food security in Upper Guinea and define the social fabric of the region. Geographically, these extensive cultivation areas stretch along the fertile floodplains of the Milo River, a major tributary of the Niger. Life in Kankan is intricately linked to the rhythm of rice farming, as the annual flooding of the Milo provides the fields with natural nutrients and essential irrigation. Rice is Guinea's primary staple food, and Kankan serves as one of the most important production hubs for 'Riz du pays' (local rice). Cultivation methods blend traditional manual labor with modern cooperative farming techniques. During the rainy season, the vast, emerald-green plains offer a stunning landscape that reflects the area's agricultural richness. Economically, the rice trade is the engine of the local market, with harvests supplying not only Kankan but also the surrounding savanna regions. Historically, control over these fertile plains was a key factor in the stability of local kingdoms. The culture of rice is deeply embedded in Malinké traditions and culinary heritage, where rice is the centerpiece of nearly every meal."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kankan ist ein Hauptzentrum für die Produktion von Trocken- und Nassreis.",
+          "Der Milo-Fluss liefert das Wasser für die großflächigen Bewässerungssysteme.",
+          "Lokaler Reis aus Kankan gilt als nahrhafter als importierte Sorten.",
+          "Die Erntezeit im November ist die wichtigste wirtschaftliche Phase der Region.",
+          "Frauen spielen eine zentrale Rolle bei der Verarbeitung und Vermarktung des Reises.",
+          "Die Reisfelder sind ein wichtiges Habitat für Zugvögel in Oberguinea."
+        ],
+        "hu": [
+          "Kankan Guinea egyik legjelentősebb ártéri rizstermesztő vidéke.",
+          "A Milo-folyó vízszintjének változása határozza meg az ültetési rendet.",
+          "A helyi kankani rizs híres egyedi ízéről és magas tápértékéről.",
+          "A novemberi aratási időszak a környék legnagyobb gazdasági eseménye.",
+          "A rizstermesztés és -feldolgozás a helyi nők elsődleges bevételi forrása.",
+          "A rizsföldek rendszere segít a talajvíz szintjének szabályozásában a száraz évszakban."
+        ],
+        "ro": [
+          "Culturile de orez din Kankan depind de ciclul hidrologic al râului Milo.",
+          "Orezul roșu local este foarte căutat pentru proprietățile sale nutritive.",
+          "Producția este organizată în mare parte prin mici proprietăți familiale.",
+          "Regiunea Kankan exportă surplusul de orez către zonele miniere din Siguiri.",
+          "Infrastructura de irigații a fost modernizată recent cu sprijin internațional.",
+          "Piața de orez din Kankan este cea mai mare din estul Guineei."
+        ],
+        "en": [
+          "Kankan is a primary center for both upland and lowland rice production.",
+          "The Milo River acts as the natural irrigation source for the vast paddies.",
+          "Local Kankan rice is preferred over imports for its superior taste and nutrition.",
+          "The harvest season in November triggers the region's peak economic activity.",
+          "Women are the primary actors in the processing and retailing of the rice crop.",
+          "The expansive paddies support a diverse range of aquatic bird species."
+        ]
+      }
+    },
+    {
+      "id": "fouta-djallon-coffee-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kaffeeplantagen des Fouta Djallon sind ein bedeutendes Beispiel für den Hochland-Anbau in Guinea. Geografisch liegen die Plantagen vor allem in den Präfekturen Dalaba, Mamou und Labé, wo das kühle Gebirgsklima und die regelmäßigen Niederschläge ideale Bedingungen für den Anbau bieten. Im Gegensatz zu den tiefer gelegenen Regionen wird hier oft eine qualitativ hochwertige Robusta-Variante (Coffea canephora) kultiviert. Historisch wurde der Kaffeeanbau während der Kolonialzeit eingeführt und hat sich seither zu einem wichtigen Cash-Crop für die ländliche Bevölkerung der Peul entwickelt. Das Leben in den Kaffeedörfern des Hochlandes ist geprägt durch die mühsame Pflege der Sträucher in oft steilem Gelände. Die Ernte erfolgt meist in Handarbeit, was eine hohe Qualität der Bohnen garantiert. Wirtschaftlich spielt der Kaffeeexport eine wichtige Rolle für die Deviseneinnahmen der Region, wobei in jüngster Zeit vermehrt auf ökologischen Anbau und Fair-Trade-Zertifizierungen gesetzt wird. Für Besucher bieten die schattigen Plantagen unter den hohen Bäumen des Hochlandes eine friedliche Atmosphäre. Der Kaffee aus dem Fouta Djallon ist bekannt für sein kräftiges Aroma und ist ein fester Bestandteil der lokalen Gastfreundschaft, bei der der Genuss eines Kaffees oft rituellen Charakter hat.",
+        "hu": "A Fouta Djallon kávéültetvényei a guineai hegyvidéki mezőgazdaság egyik legfontosabb ágazatát képviselik. Földrajzilag az ültetvények elsősorban Dalaba, Mamou és Labé prefektúrákban találhatók, ahol a hűvös hegyi levegő és a bőséges csapadék ideális környezetet teremt a kávécserjék számára. Az alacsonyabban fekvő területektől eltérően itt gyakran kiváló minőségű Robusta (Coffea canephora) változatokat termesztenek. Történelmileg a kávétermesztést a gyarmati időkben vezették be, és azóta a helyi fula (peul) lakosság egyik legfőbb készpénzes terményévé vált. A hegyi falvak élete a kávécserjék gondozásához igazodik, ami a meredek terep miatt gyakran embert próbáló feladat. A szüret szinte kizárólag kézzel történik, ami biztosítja a szemek válogatott minőségét. Gazdasági szempontból a kávéexport meghatározó a régió bevételei számára, és az utóbbi években egyre nagyobb hangsúlyt fektetnek a bio- és fair trade minősítésekre. A látogatók számára a magas fák árnyékában megbúvó ültetvények különleges, nyugodt hangulatot árasztanak. A Fouta Djallon-ból származó kávé híres karakteres, erős aromájáról, és a helyi vendégszeretet elmaradhatatlan kelléke, amelyet gyakran rituális keretek között szolgálnak fel.",
+        "ro": "Plantațiile de cafea din Fouta Djallon reprezintă un exemplu remarcabil de agricultură montană în Guineea. Geografic, aceste culturi sunt concentrate în prefecturile Dalaba, Mamou și Labé, profitând de temperaturile mai scăzute și de precipitațiile regulate specifice platourilor înalte. Spre deosebire de zonele joase, aici se cultivă varietăți de Robusta (Coffea canephora) de o calitate superioară, adaptate altitudinii. Istoric, cultura cafelei a fost introdusă în perioada colonială, devenind rapid o cultură comercială esențială pentru populația rurală Fula. Viața în satele montane producătoare de cafea gravitează în jurul întreținerii migăloase a arbuștilor pe terenuri adesea abrupte. Recoltarea se face manual, ceea ce garantează selecția atentă a boabelor și păstrarea calității. Din punct de vedere economic, cafeaua este o sursă importantă de venituri pentru regiune, existând o tendință recentă către producția ecologică și certificarea Fair Trade. Pentru vizitatori, plantațiile umbrite oferă o atmosferă de liniște și prospețime. Cafeaua din Fouta Djallon este recunoscută pentru aroma sa robustă și este un element central al ospitalității locale, servirea acesteia având adesea un caracter ritualic în comunitățile de munte.",
+        "en": "The coffee plantations of the Fouta Djallon are a prime example of highland agriculture in Guinea. Geographically, these plantations are primarily located in the Dalaba, Mamou, and Labé Prefectures, where the cool mountain air and regular rainfall provide ideal conditions for coffee cultivation. Unlike the lower coastal regions, these highlands often produce high-quality Robusta (Coffea canephora) varieties tailored to the altitude. Historically, coffee farming was introduced during the colonial era and has since become a vital cash crop for the local Peul (Fula) population. Life in the highland coffee-growing villages is defined by the meticulous care of the shrubs on often steep and rugged terrain. Harvesting is done almost entirely by hand, ensuring the selection of only the best beans. Economically, coffee exports are a major source of income for the region, with a recent shift toward organic farming and Fair Trade certifications. For visitors, the shaded plantations beneath towering trees offer a peaceful and refreshing atmosphere. Coffee from Fouta Djallon is famous for its strong, distinctive aroma and is a fundamental part of local hospitality, where the preparation and sharing of coffee often carry a ritualistic significance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Kaffeeanbau im Fouta Djallon findet auf Höhen zwischen 800 und 1.200 Metern statt.",
+          "Robusta ist die am häufigsten angebaute Kaffeesorte der Region.",
+          "Die Erntezeit liegt hauptsächlich zwischen Dezember und Februar.",
+          "Die Region Dalaba gilt als Pionierstandort für den guineischen Kaffeeanbau.",
+          "Kaffee aus dem Fouta Djallon wird oft mit lokalen Gewürzen verfeinert.",
+          "Viele Kleinbauern nutzen Agroforstsysteme, um Kaffee im Schatten von Obstbäumen anzubauen."
+        ],
+        "hu": [
+          "A Fouta Djallon kávéültetvényei 800 és 1200 méter közötti magasságban találhatók.",
+          "A régióban a Robusta fajta dominál, amely jól bírja a hegyi klímát.",
+          "A fő szüreti időszak decembertől februárig tart.",
+          "Dalaba környéke volt az első helyszíne a szervezett guineai kávétermesztésnek.",
+          "A helyi kávét gyakran hagyományos pörköléssel, helyben készítik el.",
+          "Az ültetvények nagy része vegyes művelésű: a kávé mellett gyümölcsfák is nőnek."
+        ],
+        "ro": [
+          "Cafeaua din Fouta Djallon beneficiază de un sol bogat în humus și minerale.",
+          "Altitudinea oferă boabelor o densitate și o aromă mai intensă decât pe coastă.",
+          "Majoritatea producției este realizată în ferme mici, artizanale.",
+          "Guineea promovează cafeaua de munte ca un produs premium de export.",
+          "Procesarea boabelor include adesea uscarea naturală la soare.",
+          "Cafeaua reprezintă un factor de stabilitate economică pentru familiile de munte."
+        ],
+        "en": [
+          "Coffee in Fouta Djallon is grown at altitudes ranging from 800 to 1,200 meters.",
+          "Robusta is the primary variety, noted for its resilience and strong body.",
+          "The peak harvesting window occurs between December and February.",
+          "Dalaba is historically recognized as the cradle of coffee production in the region.",
+          "Fouta Djallon coffee is a staple of local 'Maquis' (social gathering spots).",
+          "Farmers often use shade-grown techniques to improve bean quality and biodiversity."
+        ]
+      }
+    },
+    {
+      "id": "mamou-livestock-center-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Viehzuchtzentrum von Mamou ist die strategische Drehscheibe für die Fleisch- und Milchwirtschaft Guineas. Geografisch liegt Mamou an einem entscheidenden Verkehrsknotenpunkt, an dem die Straßen aus dem Norden (Labé), dem Osten (Kankan) und dem Süden (Waldguinea) zusammentreffen, was die Stadt zum idealen Umschlagplatz für Nutztiere macht. Die Region ist das Herzland der Peul-Pásztoren, die für ihre Expertise in der Zucht der N'Dama-Rinder bekannt sind, einer Rasse, die besonders resistent gegen tropische Krankheiten ist. Das Viehzuchtzentrum umfasst weitläufige Pferche, Handelsplätze und moderne Schlachthofanlagen. Wirtschaftlich ist Mamou der primäre Versorgungsort für Fleischprodukte für die Hauptstadt Conakry und andere urbane Zentren. Das tägliche Leben in Mamou ist vom Rhythmus der großen Viehtriebe geprägt, die oft über Hunderte von Kilometern aus den Hochebenen des Fouta Djallon hierher führen. Neben dem Handel mit Rindern ist die Region auch ein Zentrum für die Verarbeitung von Leder und die Produktion von traditionellen Milchprodukten. Für Besucher bietet der Viehmarkt von Mamou ein eindrucksvolles Spektakel aus Farben, Geräuschen und traditionellem Handelshandwerk. Es symbolisiert die jahrhundertealte pastorale Kultur Guineas in einer modernen wirtschaftlichen Funktion.",
+        "hu": "Mamou állattenyésztési központja Guinea hús- és tejiparának stratégiai csomópontja. Földrajzilag Mamou egy döntő fontosságú közlekedési kereszteződésben fekszik, ahol az északról (Labé), keletről (Kankan) és délről (Erdős-Guinea) érkező utak találkoznak, így a város ideális elosztóhelye az élőállat-kereskedelemnek. A régió a fula pásztorok hazája, akik világszerte híresek az N'Dama szarvasmarhák tenyésztéséről; ez a fajta különösen ellenálló a trópusi betegségekkel szemben. Az állattenyésztési központ hatalmas karámokat, kereskedelmi tereket és modern vágóhídi létesítményeket foglal magában. Gazdaságilag Mamou az elsődleges húsbeszállítója a fővárosnak, Conakrynak és a többi nagyvárosnak. A település mindennapjait az állatterelések ritmusa határozza meg, amelyek gyakran több száz kilométeren át tartanak a Fouta Djallon fennsíkjaitól idáig. A marhakereskedelem mellett a régió a bőrfeldolgozás és a hagyományos tejtermékek (például a helyi joghurtok és sajtok) előállításának is a fellegvára. A látogatók számára a mamou-i állatvásár felejthetetlen élmény, ahol a színek, a hangok és a hagyományos alkudozás művészete találkozik. Ez a helyszín Guinea évszázados pásztorkultúrájának és modern gazdasági szerepvállalásának tökéletes ötvözete.",
+        "ro": "Centrul zootehnic din Mamou este placa turnantă strategică pentru industria cărnii și a lactatelor din Guineea. Geografic, orașul Mamou este situat la o intersecție rutieră crucială, unde se întâlnesc drumurile dinspre nord (Labé), est (Kankan) și sud (Guinée Forestière), făcându-l locul ideal pentru tranzacționarea animalelor vii. Regiunea reprezintă inima teritoriului păstorilor Fula, renumiți pentru expertiza lor în creșterea vitelor din rasa N'Dama, o specie extrem de rezistentă la bolile tropicale. Centrul zootehnic include țarcuri vaste, piețe de desfacere și abatoare moderne care respectă normele sanitare. Din punct de vedere economic, Mamou este principalul furnizor de carne pentru capitala Conakry și pentru centrele urbane din zona de coastă. Viața cotidiană în Mamou este marcată de ritmul marilor turme de animale care sosesc aici după drumuri de sute de kilometri de pe platourile Fouta Djallon. Pe lângă comerțul cu bovine, regiunea este un centru pentru prelucrarea pieilor și producția de lactate tradiționale. Pentru vizitatori, piața de vite din Mamou oferă un spectacol impresionant de culori și sunete, fiind o vitrină vie a culturii pastorale guineene integrate într-o funcție economică modernă.",
+        "en": "The Mamou Livestock Center is the strategic hub for Guinea's meat and dairy industry. Geographically, Mamou is located at a vital road junction where routes from the north (Labé), east (Kankan), and south (Forested Guinea) meet, making the town the ideal transit and trade point for livestock. The region is the heartland of the Peul (Fula) pastoralists, famous for their expertise in breeding N'Dama cattle—a breed exceptionally resistant to tropical diseases. The livestock center features extensive holding pens, trading grounds, and modern slaughterhouse facilities. Economically, Mamou is the primary supplier of meat products for the capital, Conakry, and other major urban centers. Daily life in Mamou is defined by the rhythm of large-scale cattle drives that often travel hundreds of kilometers from the Fouta Djallon plateaus to reach this hub. In addition to cattle trading, the region is a center for leather processing and the production of traditional dairy goods. For visitors, the Mamou livestock market offers a compelling spectacle of colors, sounds, and traditional trading crafts. It symbolizes Guinea's centuries-old pastoral heritage operating within a modern economic framework."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mamou wird aufgrund seiner Lage oft als 'die Stadt der Wege' bezeichnet.",
+          "Das Zentrum ist spezialisiert auf die Krankheitsresistente N'Dama-Rinderrasse.",
+          "Täglich werden hunderte Tiere auf dem Markt von Mamou gehandelt.",
+          "Das Viehzuchtzentrum sichert die Proteinversorgung großer Teile des Landes.",
+          "Die Region ist bekannt für die Herstellung von hochwertigem Ziegenleder.",
+          "Tierärztliche Kontrollstellen in Mamou überwachen die Gesundheit der Viehbestände."
+        ],
+        "hu": [
+          "Mamou stratégiai fekvése miatt kapta az 'utak városa' nevet.",
+          "A központ Guinea legfontosabb bázisa az őshonos N'Dama szarvasmarháknak.",
+          "Naponta több száz marha, juh és kecske cserél gazdát a vásártéren.",
+          "A város biztosítja Conakry húsellátásának több mint 60%-át.",
+          "A környék híres a hagyományos módon készített sajtjairól és vajáról.",
+          "Mamou fontos oktatási központja is az állattenyésztési szakembereknek."
+        ],
+        "ro": [
+          "Mamou funcționează ca un port uscat pentru tranzitul de animale vii.",
+          "Rasa N'Dama crescută aici este un simbol al rezilienței agricole guineene.",
+          "Comerțul cu animale reprezintă peste 70% din veniturile locale ale orașului.",
+          "Sunt organizate târguri sezoniere care atrag cumpărători din Sierra Leone.",
+          "Sectorul pielăriei din Mamou alimentează atelierele de artizanat din întreaga țară.",
+          "Există proiecte de modernizare a procesării laptelui susținute de UE."
+        ],
+        "en": [
+          "Mamou is widely known as the 'Crossroads City' due to its central location.",
+          "The center focuses on the N'Dama breed, vital for West African food security.",
+          "Hundreds of animals are auctioned daily in the bustling Mamou market.",
+          "The facility acts as the main logistical bridge between pastoralists and urban markets.",
+          "Leather products from Mamou are highly sought after in the regional craft industry.",
+          "The livestock sector in Mamou is a major driver of national agricultural GDP."
+        ]
+      }
+    }
+  ]
+}

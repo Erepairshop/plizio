@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Lesotho",
+  "files": [ "lib/visualLab/data/poiExtraLesothoCitiesV2.ts" ],
+  "items": [
+    { "id": "mantsonyane-cities-v2", "description": "Mantsonyane is a mountain town in the Thaba-Tseka district, serving as a hub for the central highlands.", "facts": ["Thaba-Tseka district", "Highlands town", "Central Lesotho"] },
+    { "id": "ha-baroana-cities-v2", "description": "Ha Baroana is famous for its exceptionally well-preserved San rock paintings, a window into ancient times.", "facts": ["San rock art", "Historic site", "Maseru district"] },
+    { "id": "ha-moitsupeli-cities-v2", "description": "Ha Moitsupeli is a traditional Basotho village where the local heritage and customs are still very active.", "facts": ["Basotho heritage", "Traditional village", "Highlands community"] },
+    { "id": "marakabei-cities-v2", "description": "Marakabei is a key transit point in the Maloti Mountains, located near the banks of the Senqu River.", "facts": ["Maloti Mountains", "Transit point", "Senqu River"] },
+    { "id": "ha-kome-cities-v2", "description": "Ha Kome is famous for its unique cave dwellings that were once built into the cliffs for protection.", "facts": ["Cave dwellings", "Berea district", "Living history"] },
+    { "id": "likalaneng-cities-v2", "description": "Likalaneng is a remote village in the highlands, known for its rugged terrain and breathtaking views.", "facts": ["Rugged terrain", "Scenic views", "Highlands village"] },
+    { "id": "maphutsaneng-cities-v2", "description": "Maphutsaneng is a peaceful settlement located in the picturesque Maphutseng River valley.", "facts": ["River valley", "Quiet settlement", "Southern highlands"] },
+    { "id": "tele-cities-v2", "description": "Tele is a significant border crossing point between Lesotho and the Eastern Cape of South Africa.", "facts": ["Border crossing", "Quthing district", "South-western border"] },
+    { "id": "ha-sekake-cities-v2", "description": "Ha Sekake is a village in the Qacha's Nek district, acting as a regional center for the surrounding mountain communities.", "facts": ["Qacha's Nek district", "Mountain community", "Regional hub"] },
+    { "id": "ha-rafanyane-cities-v2", "description": "Ha Rafanyane is a small highland settlement where the traditional pastoral way of life is still very prominent.", "facts": ["Pastoral life", "Highland settlement", "Thaba-Tseka district"] },
+    { "id": "mashai-cities-v2", "description": "Mashai is a regional administrative center in the Thaba-Tseka district, overlooking the Senqu River valley.", "facts": ["Thaba-Tseka district", "Senqu valley", "Administrative center"] },
+    { "id": "linakaneng-cities-v2", "description": "Linakaneng is a remote and high-altitude village, reachable mostly by mountain trails and pony trekking.", "facts": ["Remote village", "High altitude", "Pony trekking"] }
+  ]
+}

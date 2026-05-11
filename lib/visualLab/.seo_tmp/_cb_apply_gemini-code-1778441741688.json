@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-uplistsikhe-history-v2",
+      "descriptionAdvanced": {
+        "de": "Uplisziche, die „Festung des Gottes“, ist eine antike Höhlenstadt im Osten Georgiens, etwa 15 Kilometer östlich von Gori. Geografisch liegt sie auf einem hohen Felsplateau am linken Ufer des Kura-Flusses. Historisch gesehen ist Uplisziche eine der ältesten städtischen Siedlungen im Kaukasus, deren Anfänge bis in die späte Bronzezeit (ca. 1000 v. Chr.) zurückreichen. Vor der Christianisierung Georgiens war die Stadt ein bedeutendes religiöses Zentrum für heidnische Kulte, insbesondere für die Verehrung der Sonnengöttin. Die Anlage beeindruckt durch ihre technische Komplexität: In den weichen Sandstein wurden Wohnräume, Tempel, Weinkeller, Bäckereien und sogar ein Theater geschlagen. Ein ausgeklügeltes System von Tunneln und Wasserkanälen sicherte das Überleben während langer Belagerungen. Nach der arabischen Eroberung von Tiflis im 8. Jahrhundert wurde Uplisziche kurzzeitig zur Residenz der georgischen Könige. Ökonomisch profitierte die Stadt über Jahrhunderte von ihrer Lage an einem wichtigen Zweig der Seidenstraße. Mit dem Aufstieg der neuen Hauptstadt Mzcheta und der Einführung des Christentums verlor Uplisziche an Bedeutung, blieb aber bis zu den mongolischen Invasionen im 13. Jahrhundert bewohnt. Heute ist das Freilichtmuseum ein zentrales Denkmal für die georgische Felsbaukunst und die Koexistenz von heidnischer und christlicher Architektur.",
+        "hu": "Upliszcihe, az „Isten erődje”, egy ősi sziklaváros Kelet-Grúziában, Gori városától mintegy 15 kilométerre keletre. Földrajzilag a Kura-folyó bal partján fekvő magas sziklafennsíkon helyezkedik el. Történelmileg Upliszcihe a Kaukázus egyik legrégebbi városi települése, amelynek gyökerei a késő bronzkorig (i. e. 1000 körül) nyúlnak vissza. Grúzia keresztény hitre térése előtt a város a pogány kultuszok, különösen a napistennő tiszteletének fontos vallási központja volt. A létesítmény technikai összetettsége lenyűgöző: a puha homokkőbe lakóhelyiségeket, templomokat, borospincéket, pékségeket és még egy színházat is véstek. Egy kifinomult alagút- és csatornarendszer biztosította a túlélést a hosszú ostromok idején. Tbiliszi 8. századi arab megszállása után Upliszcihe rövid időre a grúz királyok rezidenciájává vált. Gazdaságilag a város évszázadokon át profitált a Selyemút egyik fontos ágán elfoglalt helyzetéből. Mcheta felemelkedésével és a kereszténység államvallássá válásával jelentősége csökkent, de a 13. századi mongol invázióig lakott maradt. Ma a szabadtéri múzeum a grúz sziklaépítészet és a pogány, valamint keresztény építészet együttélésének központi emlékműve.",
+        "ro": "Uplistsikhe, supranumit „Cetatea Domnului”, este un oraș antic săpat în stâncă situat în estul Georgiei, la aproximativ 15 kilometri de Gori. Geografic, situl ocupă un platou stâncos înalt pe malul stâng al râului Kura. Din punct de vedere istoric, Uplistsikhe este una dintre cele mai vechi așezări urbane din Caucaz, cu origini care datează din epoca târzie a bronzului (cca. 1000 î.Hr.). Înainte de creștinarea Georgiei, orașul a fost un centru religios major pentru cultele păgâne, în special pentru venerarea zeiței soarelui. Complexul impresionează prin complexitatea tehnică: în gresia moale au fost sculptate locuințe, temple, crame, brutării și chiar un teatru. Un sistem ingenios de tuneluri și canale de apă asigura supraviețuirea în timpul asediilor prelungite. După cucerirea arabă a orașului Tbilisi în secolul al VIII-lea, Uplistsikhe a devenit temporar reședința regilor georgieni. Economic, orașul a beneficiat timp de secole de poziția sa pe o ramură importantă a Drumului Mătăsii. Odată cu ascensiunea noii capitale Mtskheta și adoptarea creștinismului, importanța sa a scăzut, însă a rămas locuit până la invaziile mongole din secolul al XIII-lea. Astăzi, muzeul în aer liber este un monument central pentru arhitectura rupestră georgiană și coexistența elementelor păgâne cu cele creștine.",
+        "en": "Uplistsikhe, meaning 'the Fortress of the Lord,' is an ancient rock-hewn town in eastern Georgia, situated about 15 kilometers east of Gori. Geographically, it sits on a high rocky plateau on the left bank of the Kura (Mtkvari) River. Historically, Uplistsikhe is one of the oldest urban settlements in the Caucasus, with roots extending back to the Late Bronze Age (c. 1000 BC). Prior to Georgia's Christianization, the city was a preeminent religious center for pagan cults, specifically for the worship of the sun goddess. The site is notable for its technical complexity: dwellings, temples, wine cellars, bakeries, and even a theater were carved directly into the soft sandstone. An elaborate system of secret tunnels and water conduits ensured survival during prolonged sieges. Following the Arab conquest of Tbilisi in the 8th century, Uplistsikhe served briefly as the residence for Georgian kings. Economically, the city thrived for centuries due to its strategic position on a major branch of the Silk Road. With the rise of Mtskheta and the adoption of Christianity, its influence waned, though it remained inhabited until the Mongol invasions of the 13th century. Today, the open-air museum stands as a primary monument to Georgian rock-cut architecture and the unique intersection of pagan and Christian heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eine der ältesten dokumentierten Stadtanlagen im Kaukasus.",
+          "Enthält ein in den Fels gehauenes Theater aus der hellenistischen Ära.",
+          "Besitzt eine dreischiffige christliche Basilika aus dem 9. Jahrhundert.",
+          "War ein zentraler Knotenpunkt der antiken transkaukasischen Seidenstraße.",
+          "Verfügt über ein komplexes antikes Entwässerungs- und Kanalsystem.",
+          "Trotz schwerer Erdbeben sind über 150 Höhlenstrukturen erhalten."
+        ],
+        "hu": [
+          "A Kaukázus egyik legrégebbi dokumentált városi központja.",
+          "Hellenisztikus korból származó, sziklába vésett színházzal rendelkezik.",
+          "Egy 9. századi háromhajós keresztény bazilika is épült a területén.",
+          "Az ókori transzkaukázusi Selyemút egyik központi csomópontja volt.",
+          "Kifinomult ókori vízelvezető és csatornahálózatot tártak fel itt.",
+          "A súlyos földrengések ellenére több mint 150 barlangépítmény látogatható."
+        ],
+        "ro": [
+          "Unul dintre cele mai vechi centre urbane documentate din Caucaz.",
+          "Include un teatru sculptat în stâncă datând din epoca elenistică.",
+          "Găzduiește o basilică creștină cu trei nave din secolul al IX-lea.",
+          "Nod comercial strategic pe ruta caucaziană a Drumului Mătăsii.",
+          "Dispune de un sistem antic complex de drenaj și aprovizionare cu apă.",
+          "Păstrează peste 150 de cavități și structuri rupestre vizitabile."
+        ],
+        "en": [
+          "One of the oldest documented urban settlements in the Caucasus region.",
+          "Features a rock-cut theater dating back to the Hellenistic period.",
+          "Includes a 9th-century triple-nave Christian basilica built atop pagan sites.",
+          "Served as a vital node on the ancient Trans-Caucasian Silk Road.",
+          "Equipped with a sophisticated ancient drainage and water supply system.",
+          "Over 150 individual cave structures remain intact despite major earthquakes."
+        ]
+      }
+    },
+    {
+      "id": "ge-vardzia-history-v2",
+      "descriptionAdvanced": {
+        "de": "Vardzia ist eine monumentale Höhlenstadt und Klosteranlage im Süden Georgiens, in der Region Samzche-Dschawachetien. Geografisch liegt sie an den Hängen des Eruscheti-Berges am linken Ufer der Kura. Historisch ist Vardzia untrennbar mit dem „Goldenen Zeitalter“ Georgiens im 12. Jahrhundert und der Regierungszeit von Königin Tamar verbunden. Ursprünglich als Festung gegen die Expansion der Perser und Osmanen geplant, entwickelte sich der Ort zu einem spirituellen und kulturellen Zentrum. Die Anlage erstreckt sich über 13 Stockwerke und umfasste einst über 3.000 Höhlenwohnungen, die Platz für bis zu 50.000 Menschen boten. Technisch beeindruckt Vardzia durch seine unsichtbare Verteidigungsstruktur; von außen wirkte der Berg wie eine natürliche Wand, während im Inneren ein Labyrinth aus Gängen, Kirchen, Bibliotheken und Weinkellern existierte. Ein schweres Erdbeben im Jahr 1283 zerstörte jedoch die äußere Felswand und legte die inneren Strukturen frei, was den militärischen Wert minderte. Das Herzstück der Anlage ist die Kirche Mariä Entschlafen mit ihren weltberühmten Fresken, die Königin Tamar und ihren Vater Giorgi III. darstellen. Ökonomisch ist Vardzia heute das bedeutendste Kulturerbe-Ziel Südgeorgiens. Die Anlage zeugt von der außergewöhnlichen Ingenieurskunst des mittelalterlichen Georgiens und der tiefen religiösen Verwurzelung der Gesellschaft.",
+        "hu": "Vardzia egy monumentális sziklaváros és kolostoregyüttes Grúzia déli részén, Szamche-Dzsavakheti régióban. Földrajzilag az Eruseti-hegy lejtőin, a Kura-folyó bal partján található. Történelmileg Vardzia elválaszthatatlan Grúzia 12. századi „aranykorától” és Tamar királynő uralkodásától. Eredetileg a perzsa és oszmán terjeszkedés elleni erődítménynek tervezték, de a hely spirituális és kulturális központtá fejlődött. A komplexum 13 emeleten húzódik keresztül, és egykor több mint 3000 barlanglakást foglalt magában, amelyek akár 50 000 ember befogadására is alkalmasak voltak. Technikai szempontból Vardzia láthatatlan védelmi szerkezetével nyűgöz le: kívülről a hegy természetes falnak tűnt, míg belül folyosók, templomok, könyvtárak és borospincék labirintusa rejtőzött. Egy 1283-as súlyos földrengés azonban elpusztította a külső sziklafalat, feltárva a belső szerkezetet, ami csökkentette katonai értékét. A komplexum szíve a Mária elszenderedése templom, világhírű freskóival, amelyek Tamar királynőt és apját, III. Giorgit ábrázolják. Gazdaságilag Vardzia ma Dél-Grúzia legjelentősebb kulturális örökségi célpontja. A létesítmény tanúskodik a középkori Grúzia kivételes mérnöki tudásáról és a társadalom mély vallási gyökereiről.",
+        "ro": "Vardzia este un oraș monahal și o cetate rupestră monumentală situată în sudul Georgiei, în regiunea Samtskhe-Javakheti. Geografic, complexul este săpat în versanții muntelui Erusheti, pe malul stâng al râului Kura. Din punct de vedere istoric, Vardzia este indisolubil legată de „Epoca de Aur” a Georgiei din secolul al XII-lea și de domnia Reginei Tamar. Conceput inițial ca o fortăreață impenetrabilă împotriva expansiunii persane și otomane, situl a evoluat într-un centru spiritual și cultural de prim rang. Ansamblul se întinde pe 13 niveluri și cuprindea inițial peste 3.000 de peșteri, oferind adăpost pentru până la 50.000 de persoane. Tehnic, Vardzia impresionează prin structura sa defensivă invizibilă: din exterior, muntele părea o barieră naturală, în timp ce interiorul găzduia un labirint de galerii, biserici, biblioteci și crame. Un cutremur devastator în 1283 a distrus fațada stâncoasă, expunând structurile interne și diminuând valoarea militară a cetății. Piesa centrală este Biserica Adormirii Maicii Domnului, renumită pentru frescele sale care îi înfățișează pe Regina Tamar și pe tatăl ei, Giorgi al III-lea. Economic, Vardzia este astăzi principalul magnet turistic din sudul țării, fiind o dovadă a geniului ingineresc medieval georgian.",
+        "en": "Vardzia is a monumental cave city and monastic complex in southern Georgia, within the Samtskhe-Javakheti region. Geographically, it is carved into the slopes of the Erusheti Mountain on the left bank of the Kura (Mtkvari) River. Historically, Vardzia is inextricably linked to Georgia’s 12th-century 'Golden Age' and the reign of Queen Tamar. Originally conceived as an underground fortress to repel Persian and Ottoman expansion, the site evolved into a preeminent spiritual and cultural hub. The complex spans 13 stories and once contained over 3,000 individual caves, capable of sheltering up to 50,000 people. Technically, Vardzia is remarkable for its hidden defensive architecture; from the outside, the mountain appeared natural, while the interior housed a labyrinth of passages, churches, libraries, and wine cellars. A massive earthquake in 1283 destroyed the outer rock face, exposing the inner sanctums and diminishing its military utility. The centerpiece of the complex is the Church of the Dormition, featuring world-famous frescoes depicting Queen Tamar and her father, King Giorgi III. Economically, Vardzia is now the most significant heritage destination in southern Georgia, standing as a testament to medieval Georgian engineering and religious devotion."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Umfasste ursprünglich über 3.000 Höhlen auf 13 verschiedenen Ebenen.",
+          "Bauprojekt unter Königin Tamar im 12. Jahrhundert (georgisches Goldene Zeitalter).",
+          "Besitzt ein ausgeklügeltes antikes Wasserleitungs- und Bewässerungssystem.",
+          "Wurde 1283 durch ein massives Erdbeben fast zur Hälfte zerstört.",
+          "Beherbergt seltene Porträts von Königin Tamar in der Hauptkirche.",
+          "Verfügt über 25 historische Weinkeller (Marani) innerhalb des Felsens."
+        ],
+        "hu": [
+          "Eredetileg több mint 3000 barlanggal rendelkezett 13 szinten.",
+          "Tamar királynő uralkodása alatt épült a 12. században (grúz aranykor).",
+          "Kifinomult középkori vízvezeték- és öntözőrendszerrel rendelkezett.",
+          "1283-ban egy hatalmas földrengés a komplexum felét elpusztította.",
+          "A főtemplomban látható Tamar királynő egyik ritka korabeli ábrázolása.",
+          "25 történelmi borospincét (marani) alakítottak ki a sziklák belsejében."
+        ],
+        "ro": [
+          "Construită pe 13 etaje, adăpostea inițial peste 3.000 de chilii și încăperi.",
+          "Proiectată în secolul XII sub egida Reginei Tamar, simbol al puterii georgiene.",
+          "Dotată cu un sistem avansat de aprovizionare cu apă prin conducte ceramice.",
+          "Cutremurul din 1283 a expus interiorul cetății prin prăbușirea peretelui frontal.",
+          "Biserica principală conține una dintre puținele fresce originale ale Reginei Tamar.",
+          "Include peste 25 de crame tradiționale (marani) sculptate direct în munte."
+        ],
+        "en": [
+          "Originally consisted of over 3,000 cave chambers across 13 distinct levels.",
+          "Commissioned by Queen Tamar in the 12th century during Georgia’s Golden Age.",
+          "Features a sophisticated medieval water supply system using ceramic pipes.",
+          "Lost nearly half of its structures in a devastating earthquake in 1283.",
+          "The main church houses rare contemporary fresco portraits of Queen Tamar.",
+          "Contains 25 historical wine cellars (marani) carved deep into the rock."
+        ]
+      }
+    },
+    {
+      "id": "ge-gelati-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gelati-Kloster, nahe der westgeorgischen Stadt Kutaissi gelegen, ist eines der bedeutendsten kulturellen und intellektuellen Zentren des mittelalterlichen Kaukasus. Geografisch liegt es auf einem bewaldeten Hügel oberhalb des Zkalzitela-Flusses in der Region Imeretien. Historisch wurde Gelati 1106 von König David dem Erbauer, dem größten Herrscher der georgischen Geschichte, gegründet. Es war nicht nur ein Ort des Gebets, sondern beherbergte die berühmte Akademie von Gelati, die als „neues Athen“ und „zweiter Jerusalem“ bekannt war und Gelehrte aus der gesamten byzantinischen Welt anzog. Ökonomisch ist das Kloster heute Teil des UNESCO-Weltkulturerbes und ein zentraler Pfeiler des religiösen Tourismus in Georgien. Die Architektur der Hauptkirche der Jungfrau Maria besticht durch ihre monumentale Form und die weltweit einzigartigen Mosaike und Fresken aus dem 12. bis 18. Jahrhundert. Besonders hervorzuheben ist das monumentale Wandmosaik in der Apsis, das die Gottesmutter mit Kind zeigt. David der Erbauer wählte Gelati als seine letzte Ruhestätte, sein Grab befindet sich am südlichen Tor des Komplexes. Technisch gesehen spiegelt Gelati den Höhepunkt der georgischen Architektur im „Goldenen Zeitalter“ wider, wobei die Harmonie zwischen den verschiedenen Kirchenbauten (St. Georg, St. Nikolaus) und der Akademiegebäuden einzigartig ist. Das Kloster ist ein lebendiges Symbol für die Verschmelzung von Wissenschaft, Kunst und orthodoxer Spiritualität.",
+        "hu": "A Gelati-kolostor, a nyugat-grúziai Kutaiszi közelében, a középkori Kaukázus egyik legjelentősebb kulturális és szellemi központja. Földrajzilag az Imereti régióban, a Ckalcitela-folyó feletti erdős dombon található. Történelmileg Gelatit 1106-ban alapította Építő Dávid király, a grúz történelem legnagyobb uralkodója. Nem csupán imádság helyszíne volt, hanem itt működött a híres Gelati Akadémia is, amelyet „új Athénként” és „második Jeruzsálemként” emlegettek, és a bizánci világ tudósait vonzotta. Gazdaságilag a kolostor ma az UNESCO Világörökség része, és a grúz vallási turizmus központi pillére. Szűz Mária-főtemplomának építészete monumentális formájával, valamint a 12–18. századból származó, világszerte egyedülálló mozaikjaival és freskóival nyűgöz le. Külön kiemelendő az apszis monumentális falimozaikja, amely az Istenszülő Anyát ábrázolja a gyermekkel. Építő Dávid Gelatit választotta végső nyughelyéül, sírja a komplexum déli kapujánál található. Technikai szempontból Gelati a grúz építészet csúcspontját tükrözi az „aranykorban”, ahol a különböző templomépületek (Szent György, Szent Miklós) és az akadémiai épületek közötti harmónia egyedülálló. A kolostor a tudomány, a művészet és az ortodox spiritualitás fúziójának élő szimbóluma.",
+        "ro": "Mănăstirea Gelati, situată lângă orașul Kutaisi din vestul Georgiei, este unul dintre cele mai importante centre culturale și intelectuale ale Caucazului medieval. Geografic, complexul se află pe un deal împădurit deasupra râului Tskhaltsitela, în regiunea Imereti. Din punct de vedere istoric, Gelati a fost fondată în 1106 de către regele David Constructorul, cel mai ilustru suveran al Georgiei. Locul nu era doar un lăcaș de cult, ci găzduia celebra Academie Gelati, cunoscută sub numele de „Noul Atena” sau „Al doilea Ierusalim”, atrăgând învățați din întregul spațiu bizantin. Economic, mănăstirea face parte din Patrimoniul Mondial UNESCO și reprezintă un pilon central al turismului religios național. Arhitectura Bisericii Maicii Domnului impresionează prin formele sale monumentale și prin mozaicurile și frescele unice la nivel mondial, datând din secolele XII-XVIII. Remarcabil este mozaicul monumental din absidă, reprezentând Fecioara cu Pruncul, o capodoperă a artei medievale. David Constructorul a ales Gelati ca loc de veci, mormântul său fiind situat la poarta de sud a complexului. Tehnic, Gelati reflectă apogeul arhitecturii georgiene din „Epoca de Aur”, remarcându-se prin armonia dintre diferitele structuri (Bisericile Sf. Gheorghe, Sf. Nicolae) și clădirea Academiei. Mănăstirea rămâne un simbol al fuziunii între știință, artă și spiritualitate ortodoxă.",
+        "en": "Gelati Monastery, located near the city of Kutaisi in western Georgia, is one of the most significant cultural and intellectual centers of the medieval Caucasus. Geographically, it is situated on a forested hill above the Tskhaltsitela River in the Imereti region. Historically, Gelati was founded in 1106 by King David the Builder, the most celebrated monarch in Georgian history. It was more than a place of worship; it housed the renowned Gelati Academy, famously referred to as a 'New Athens' and 'Second Jerusalem,' which attracted scholars from across the Byzantine world. Economically, the monastery is a UNESCO World Heritage site and a cornerstone of Georgia’s religious tourism. The architecture of the main Cathedral of the Virgin is distinguished by its monumental form and its globally unique mosaics and frescoes spanning the 12th to 18th centuries. A highlight is the massive 12th-century apse mosaic depicting the Virgin and Child. King David the Builder chose Gelati as his final resting place, and his grave is situated at the complex's southern gateway. Technically, Gelati represents the peak of Georgian architecture during the 'Golden Age,' showcasing a unique harmony between its various churches (St. George, St. Nicholas) and the Academy buildings. The monastery remains a living symbol of the fusion of science, art, and Orthodox spirituality."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet 1106 durch König David den Erbauer als Akademie und Kloster.",
+          "Seit 1994 als UNESCO-Weltkulturerbe anerkannt.",
+          "Beherbergt das einzige erhaltene monumentale Mosaik des Kaukasus.",
+          "Grabstätte von David dem Erbauer und mehreren georgischen Königen.",
+          "Bekannt als „Neues Athen“ aufgrund der bedeutenden Akademie im Mittelalter.",
+          "Umfasst Freskenzyklen, die die gesamte georgische Kirchengeschichte abbilden."
+        ],
+        "hu": [
+          "1106-ban alapította Építő Dávid király akadémia és kolostor céljából.",
+          "1994 óta az UNESCO Világörökség része.",
+          "Itt található a Kaukázus egyetlen fennmaradt monumentális fali mozaikja.",
+          "Építő Dávid és számos későbbi grúz király végső nyughelye.",
+          "A középkorban „új Athénként” ismerték kiemelkedő tudományos élete miatt.",
+          "Belső tereiben a 12. és 18. század közötti freskóművészet remekei láthatóak."
+        ],
+        "ro": [
+          "Fondată în 1106 de David Constructorul ca centru academic și monahal.",
+          "Inclusă în lista Patrimoniului Mondial UNESCO din anul 1994.",
+          "Adăpostește singurul mozaic monumental bizantin păstrat în Caucaz.",
+          "Locul de înhumare al regelui David Constructorul și al regilor Imereti.",
+          "Cunoscută în secolul XII drept „Noua Atenă” pentru studiile sale filosofice.",
+          "Ansamblul include bisericile Maicii Domnului, Sf. Gheorghe și Sf. Nicolae."
+        ],
+        "en": [
+          "Founded in 1106 by King David the Builder as an academy and monastery.",
+          "Designated as a UNESCO World Heritage site since 1994.",
+          "Houses the only preserved monumental Byzantine-style mosaic in the Caucasus.",
+          "Final burial site of King David the Builder and numerous Georgian monarchs.",
+          "Known as the 'New Athens' due to its influential medieval scientific academy.",
+          "Features an extensive collection of frescoes from the 12th to the 18th century."
+        ]
+      }
+    },
+    {
+      "id": "ge-bagrati-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bagrati-Kathedrale, offiziell die Kathedrale der Entschlafung der Gottesmutter, thront auf dem Ukimerioni-Hügel über der Stadt Kutaissi. Geografisch bietet sie einen beherrschenden Ausblick auf das Rioni-Tal und die zweitgrößte Stadt Georgiens. Historisch ist Bagrati das ultimative Symbol für die Vereinigung Georgiens; sie wurde im Jahr 1003 während der Regierungszeit von Bagrat III., dem ersten König des vereinigten Georgiens, fertiggestellt. Die Kathedrale galt über Jahrhunderte als eines der architektonischen Wunderwerke des Kaukasus. Im Jahr 1692 wurde sie jedoch durch eine Explosion osmanischer Truppen schwer beschädigt, wobei die Kuppel und das Dach einstürzten. Ökonomisch ist Bagrati heute ein Magnet für Kulturtouristen und ein Stolz der nationalen Identität. Technisch gesehen war der Bau wegweisend für den georgischen Kirchenbau des 11. Jahrhunderts, gekennzeichnet durch seine monumentale Größe und die reichen Reliefverzierungen. Nach jahrzehntelangem Ruinenzustand wurde die Kathedrale zwischen 2009 und 2012 umfassend rekonstruiert. Diese Restaurierung war hochumstritten und führte zum Verlust des UNESCO-Weltkulturerbe-Status, da moderne Materialien wie Stahl und Glas integriert wurden. Dennoch bleibt Bagrati ein spirituelles Zentrum und ein Denkmal für die politische Souveränität Georgiens, das die historische Kontinuität des Landes bis in die Gegenwart verkörpert.",
+        "hu": "A Bagrati-székesegyház, hivatalosan az Istenszülő Elszenderedése katedrális, az Ukimerioni-dombon magasodik Kutaiszi városa felett. Földrajzilag uralja a Rioni-völgy látképét és Grúzia második legnagyobb városát. Történelmileg a Bagrati Grúzia egyesítésének legfőbb szimbóluma; 1003-ban készült el III. Bagrat, az egyesült Grúzia első királyának uralkodása alatt. A székesegyház évszázadokon át a Kaukázus egyik építészeti csodájának számított. 1692-ben azonban az oszmán csapatok egy robbantással súlyosan megrongálták, aminek következtében a kupola és a tető beomlott. Gazdaságilag a Bagrati ma a kulturális turizmus mágnese és a nemzeti identitás büszkesége. Technikai szempontból az építkezés úttörő volt a 11. századi grúz templomépítészetben, monumentális méretével és gazdag domborműveivel tűnt ki. Évtizedekig tartó romos állapot után a székesegyházat 2009 és 2012 között átfogóan rekonstruálták. Ez a restaurálás rendkívül vitatott volt, és az UNESCO Világörökség-státusz elvesztéséhez vezetett, mivel modern anyagokat, például acélt és üveget is beépítettek. Ennek ellenére a Bagrati spirituális központ és Grúzia politikai szuverenitásának emlékműve marad, amely a történelmi folytonosságot jelképezi.",
+        "ro": "Catedrala Bagrati, cunoscută oficial sub numele de Catedrala Adormirii Maicii Domnului, domină orașul Kutaisi de pe dealul Ukimerioni. Geografic, oferă o panoramă spectaculoasă asupra văii râului Rioni și a celei de-a doua aglomerări urbane din Georgia. Din punct de vedere istoric, Bagrati este simbolul suprem al unificării Georgiei; a fost finalizată în anul 1003, în timpul domniei lui Bagrat al III-lea, primul rege al Georgiei unite. Timp de secole, catedrala a fost considerată una dintre minunile arhitectonice ale Caucazului. În 1692, însă, a fost grav avariată de o explozie provocată de trupele otomane, prăbușirea cupolei și a acoperișului transformând-o într-o ruină timp de peste 300 de ani. Economic, Bagrati este astăzi un magnet pentru turismul cultural și un pilon al mândriei naționale. Din punct de vedere tehnic, edificiul a fost un model pentru arhitectura ecleziastică georgiană din secolul al XI-lea, remarcându-se prin dimensiunile colosale și decorațiunile exterioare bogate. Între 2009 și 2012, catedrala a fost reconstruită integral. Restaurarea a fost extrem de controversată, ducând la pierderea statutului de sit UNESCO din cauza utilizării elementelor moderne de oțel și sticlă. Cu toate acestea, Bagrati rămâne un centru spiritual vital și un monument dedicat suveranității politice a Georgiei.",
+        "en": "Bagrati Cathedral, formally the Cathedral of the Dormition of the Mother of God, towers over the city of Kutaisi from Ukimerioni Hill. Geographically, it commands a dominant view of the Rioni Valley and Georgia's second-largest city. Historically, Bagrati is the ultimate symbol of a unified Georgia; it was completed in 1003 during the reign of Bagrat III, the first king of a unified Georgian Kingdom. For centuries, the cathedral was regarded as an architectural masterpiece of the Caucasus. However, in 1692, it was heavily damaged by an Ottoman explosion, which caused the dome and roof to collapse. Economically, Bagrati is a major draw for heritage tourism and a source of national pride. Technically, the construction set the standard for 11th-century Georgian ecclesiastical architecture, characterized by its monumental scale and intricate stonework. After remaining in ruins for centuries, the cathedral underwent a comprehensive reconstruction between 2009 and 2012. This restoration was highly controversial, leading to its removal from the UNESCO World Heritage list due to the integration of modern steel and glass structures. Nonetheless, Bagrati remains a central spiritual site and a monument to Georgian sovereignty, representing historical continuity into the modern era."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fertigstellung im Jahr 1003 unter Bagrat III., dem ersten König des geeinten Georgiens.",
+          "Zerstörung der Kuppel im Jahr 1692 durch osmanische Truppen.",
+          "Symbolort für die nationale Einheit und politische Unabhängigkeit.",
+          "Verlor 2017 den UNESCO-Status aufgrund einer modernen Rekonstruktion.",
+          "Beherbergt bedeutende archäologische Reste der Ukimerioni-Festung.",
+          "Verwendet heute eine Kombination aus mittelalterlichem Stein und modernen Stahlelementen."
+        ],
+        "hu": [
+          "1003-ban fejezték be III. Bagrat, az egyesült Grúzia első királya alatt.",
+          "Kupoláját 1692-ben az oszmán török csapatok robbantották fel.",
+          "A nemzeti egység és a politikai függetlenség jelképes helyszíne.",
+          "2017-ben elveszítette UNESCO státuszát a modern rekonstrukció miatt.",
+          "A területen találhatók az Ukimerioni-erőd jelentős régészeti maradványai is.",
+          "Építészetileg ma a középkori kőfaragás és a modern acélszerkezetek ötvözete."
+        ],
+        "ro": [
+          "Finalizată în anul 1003, purtând numele primului rege al Georgiei unite.",
+          "Grav avariată în 1692 în timpul unui asediu otoman asupra orașului Kutaisi.",
+          "Reprezintă un reper istoric major pentru identitatea statală georgiană.",
+          "Retrasă de pe lista UNESCO în 2017 din cauza intervențiilor moderne de restaurare.",
+          "Amplasată pe locul fostei cetăți Ukimerioni, cu vestigii din antichitate.",
+          "Arhitectură de tip cruce greacă înscrisă, cu sculpturi exterioare rafinate."
+        ],
+        "en": [
+          "Completed in 1003 under King Bagrat III, the first monarch of unified Georgia.",
+          "The dome was famously destroyed by Ottoman forces in 1692.",
+          "Serves as a primary symbol of national unity and political resilience.",
+          "Removed from the UNESCO World Heritage list in 2017 following reconstruction.",
+          "Surrounded by the archaeological remains of the ancient Ukimerioni Fortress.",
+          "Features a controversial blend of 11th-century masonry and 21st-century glass and steel."
+        ]
+      }
+    },
+    {
+      "id": "ge-gergeti-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Gergetier Dreifaltigkeitskirche (Tsminda Sameba) ist eines der am stärksten fotografierten und symbolträchtigsten religiösen Monumente Georgiens. Geografisch liegt sie auf einer Höhe von 2.170 Metern auf einem Bergrücken direkt unterhalb des massiven Gletschers des Berges Kasbek. Historisch wurde die Kirche im 14. Jahrhundert (ca. 1330er Jahre) errichtet und ist die einzige Kreuzkuppelkirche in der Provinz Chewi. Ihre Lage in dieser extremen Höhe zeugt von der logistischen Meisterleistung mittelalterlicher Baumeister. In Zeiten feindlicher Invasionen (Mongolen, Perser) diente Gergeti als sicherer Aufbewahrungsort für wertvolle Reliquien und Kirchenschätze aus der alten Hauptstadt Mzcheta, da der Ort aufgrund seiner Abgeschiedenheit fast uneinnehmbar war. Ökonomisch ist die Kirche heute das Rückgrat des Tourismus in der Region Kasbegi (Stepantsminda) und ein Pflichtziel für Wanderer und Bergsteiger. Technisch gesehen besticht der Bau durch seine schlichte, aber kraftvolle Steinmetzkunst und einen separaten Glockenturm aus derselben Epoche. Während der Sowjetzeit war die Kirche geschlossen, blieb aber als touristisches Wahrzeichen erhalten. Heute ist sie wieder ein aktives Kloster und ein spirituelles Leuchtfeuer, das den Dialog zwischen Mensch, Natur und Gott in der majestätischen Kulisse des Kaukasus versinnbildlicht.",
+        "hu": "A Gergeti Szentháromság-templom (Cminda Szameba) Grúzia egyik legtöbbet fényképezett és legikonikusabb vallási emlékműve. Földrajzilag 2170 méteres magasságban található egy hegygerincen, közvetlenül a Kazbek-hegy hatalmas gleccserei alatt. Történelmileg a templom a 14. században (kb. 1330-as évek) épült, és a Hevi tartomány egyetlen keresztkupolás temploma. Elhelyezkedése ebben az extrém magasságban a középkori építőmesterek logisztikai bravúrjáról tanúskodik. Ellenséges inváziók (mongolok, perzsák) idején Gergeti az ősi fővárosból, Mchetából származó értékes ereklyék és egyházi kincsek biztonságos őrzőhelyeként szolgált, mivel elszigeteltsége miatt szinte bevehetetlen volt. Gazdaságilag a templom ma a turizmus gerince Kazbegi (Sztepancminda) régiójában, és kötelező célpont a túrázók és hegymászók számára. Technikai szempontból az épület egyszerű, de erőteljes kőfaragványaival és egy azonos korszakból származó különálló harangtornyával tűnik ki. A szovjet korszakban a templom zárva volt, de turisztikai jelképként fennmaradt. Ma ismét aktív kolostor és szellemi világítótorony, amely az ember, a természet és az Isten közötti párbeszédet jelképezi a Kaukázus fenséges környezetében.",
+        "ro": "Biserica Sfânta Treime din Gergeti (Tsminda Sameba) este unul dintre cele mai fotografiate și emblematice monumente religioase ale Georgiei. Geografic, este situată la o altitudine de 2.170 de metri, pe o creastă montană aflată direct sub masivul ghețar al muntelui Kazbek. Din punct de vedere istoric, biserica a fost ridicată în secolul al XIV-lea (anii 1330) și este singura biserică cu cupolă înscrisă din provincia Khevi. Poziția sa la această înălțime extremă reprezintă o realizare logistică remarcabilă pentru constructorii medievali. În perioadele de invazii străine (mongole, persane), Gergeti servea ca depozit sigur pentru relicvele prețioase și tezaurele bisericești din vechea capitală Mtskheta, locul fiind aproape inexpugnabil datorită izolării sale. Economic, biserica este astăzi motorul turismului în regiunea Kazbegi (Stepantsminda), fiind o destinație obligatorie pentru excursioniști și alpiniști. Din punct de vedere tehnic, edificiul se remarcă prin simplitatea sa monumentală și prin clopotnița separată din aceeași epocă. În perioada sovietică, biserica a fost închisă serviciului religios, dar conservată ca obiectiv turistic național. Astăzi, funcționează din nou ca mănăstire activă, simbolizând reziliența spirituală a Georgiei în mijlocul peisajului maiestuos al Caucazului.",
+        "en": "The Gergeti Trinity Church (Tsminda Sameba) is one of Georgia's most photographed and iconic religious landmarks. Geographically, it is perched at an elevation of 2,170 meters on a mountain ridge directly beneath the massive glaciers of Mount Kazbek. Historically, the church was built in the 14th century (c. 1330s) and remains the only cross-domed church in the Khevi province. Its location at such a high altitude is a testament to the logistical ingenuity of medieval builders. During times of foreign invasion (Mongol, Persian), Gergeti served as a secure treasury for precious relics and church valuables brought from the ancient capital of Mtskheta, as its isolation made it virtually impregnable. Economically, the church is the backbone of tourism in the Kazbegi (Stepantsminda) region and a top destination for hikers and mountaineers. Technically, the structure is noted for its simple yet powerful stonework and a separate bell tower from the same era. During the Soviet period, religious services were banned, but the church was preserved as a cultural landmark. Today, it is an active monastery once again and serves as a spiritual beacon, symbolizing the dialogue between humanity, nature, and divinity in the majestic setting of the Caucasus."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gelegen auf 2.170 Metern Höhe am Fuße des Berges Kasbek.",
+          "Einzige Kreuzkuppelkirche in der historischen Gebirgsregion Chewi.",
+          "Bauzeit datiert in das 14. Jahrhundert unter König Giorgi V.",
+          "Diente historisch als Schatzkammer für Reliquien aus Mzcheta.",
+          "Besteht aus der Hauptkirche, einem Glockenturm und einer Konzilshalle.",
+          "Gilt als das höchste christliche Bauwerk in der Region Kazbegi."
+        ],
+        "hu": [
+          "2170 méteres magasságban fekszik a Kazbek-hegy lábánál.",
+          "A történelmi Hevi régió egyetlen keresztkupolás temploma.",
+          "A 14. században épült, valószínűleg V. Giorgi király uralkodása alatt.",
+          "Történelmileg mchetai ereklyék és kincsek biztonságos őrzőhelye volt.",
+          "A komplexum a templomból, harangtoronyból és egy tanácsteremből áll.",
+          "Kazbegi régió legmagasabban fekvő és legismertebb keresztény építménye."
+        ],
+        "ro": [
+          "Situată la cota 2.170 m, oferind vedere spre vârful Kazbek (5.047 m).",
+          "Singura biserică cu cupolă din secolul XIV din zona muntoasă Khevi.",
+          "Construcția este atribuită perioadei regelui Giorgi al V-lea „Cel Strălucit”.",
+          "Refugiu istoric pentru relicvele sfinte ale Georgiei în caz de război.",
+          "Include un turn-clopotniță ornamentat, adiacent bisericii principale.",
+          "Accesibilă printr-un drum montan spectaculos de la Stepantsminda."
+        ],
+        "en": [
+          "Situated at an altitude of 2,170 meters at the base of Mount Kazbek.",
+          "The only cross-domed church in the historic mountain province of Khevi.",
+          "Built in the 14th century, likely during the reign of King Giorgi V.",
+          "Historically functioned as a high-altitude vault for Mtskheta's relics.",
+          "The complex comprises the main church, a bell tower, and a council hall.",
+          "Remains the most prominent and visited high-altitude church in the Caucasus."
+        ]
+      }
+    }
+  ]
+}

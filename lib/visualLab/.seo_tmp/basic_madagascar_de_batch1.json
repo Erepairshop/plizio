@@ -1,0 +1,89 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "star-brewery-tana-economic-v2",
+      "description": "Die Star-Brauerei in Antananarivo ist der führende Getränkehersteller Madagaskars und ein Symbol für die industrielle Entwicklung des Landes.",
+      "facts": ["Größte Brauerei des Landes", "Produziert das berühmte THB-Bier", "Wichtiger Arbeitgeber in der Hauptstadt"]
+    },
+    {
+      "id": "pecheries-nosy-be-economic-v2",
+      "description": "Die Fischereibetriebe von Nosy Be sind ein zentraler Pfeiler der lokalen Wirtschaft und exportieren hochwertige Meeresfrüchte weltweit.",
+      "facts": ["Zentrum der Garnelenfischerei", "Moderne Verarbeitungsanlagen", "Bedeutend für den Devisenhandel"]
+    },
+    {
+      "id": "maintirano-port-economic-v2",
+      "description": "Der Hafen von Maintirano dient als wichtiger Handelsknotenpunkt an der Westküste für den Transport von Agrarprodukten.",
+      "facts": ["Regionaler Versorgungshafen", "Umschlagplatz für Rinder und Getreide", "Lebensader der Melaky-Region"]
+    },
+    {
+      "id": "fianarantsoa-old-town-history-v2",
+      "description": "Die Altstadt von Fianarantsoa, bekannt als Haute Ville, besticht durch ihre gut erhaltene Architektur aus dem 19. Jahrhundert.",
+      "facts": ["UNESCO-Weltkulturerbe-Kandidat", "Zentrum der christlichen Missionierung", "Enge Gassen und historische Kirchen"]
+    },
+    {
+      "id": "fort-dauphin-tolanaro-history-v2",
+      "description": "Fort-Dauphin war eine der ersten französischen Siedlungen in Madagaskar und blickt auf eine bewegte Kolonialgeschichte zurück.",
+      "facts": ["Gegründet im Jahr 1643", "Strategischer Posten an der Südostküste", "Ruinen alter Befestigungsanlagen"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Die Befestigungsanlagen von Antongona bestehen aus zwei historischen Holzhäusern auf Granithügeln, die einst zur Verteidigung dienten.",
+      "facts": ["Königliche Verteidigungsanlage", "Spektakuläre Aussicht auf das Hochland", "Traditionelle Imerina-Architektur"]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "description": "Die koloniale Station von Analamazaotra erinnert an die Anfänge der wissenschaftlichen Erforschung der madagassischen Flora und Fauna.",
+      "facts": ["Ehemaliges Forschungszentrum", "Architektur aus der Kolonialzeit", "Tor zum Andasibe-Nationalpark"]
+    },
+    {
+      "id": "cathedrale-andohalo-landmarks-v2",
+      "description": "Die Kathedrale von Andohalo in Antananarivo ist ein markantes neugotisches Bauwerk und Sitz des Erzbistums.",
+      "facts": ["Eingeweiht im Jahr 1890", "Auf einem historischen Hügel gelegen", "Bedeutendes religiöses Denkmal"]
+    },
+    {
+      "id": "phare-cap-minne-landmarks-v2",
+      "description": "Der Leuchtturm von Cap Minne markiert die Einfahrt zur Bucht von Diego Suarez und ist ein wichtiges Navigationszeichen.",
+      "facts": ["Erbaut während der Kolonialzeit", "Bietet Panoramablick auf den Ozean", "Wächter der nördlichen Küste"]
+    },
+    {
+      "id": "pont-kamoro-landmarks-v2",
+      "description": "Die Kamoro-Brücke ist ein beeindruckendes Ingenieurbauwerk, das den Norden Madagaskars mit der Hauptstadt verbindet.",
+      "facts": ["Wichtige Hängebrücke", "Überquert den Kamoro-Fluss", "Strategisch bedeutsam für die RN4"]
+    },
+    {
+      "id": "fort-flacourt-ruins-landmarks-v2",
+      "description": "Die Ruinen von Fort Flacourt in Fort-Dauphin sind Überreste einer französischen Festung aus dem 17. Jahrhundert.",
+      "facts": ["Benannt nach Étienne de Flacourt", "Historische Bastion am Meer", "Teil des Museums von Fort-Dauphin"]
+    },
+    {
+      "id": "katedraly-faravohitra-landmarks-v2",
+      "description": "Die Kirche von Faravohitra ist bekannt für ihre roten Backsteinmauern und ihre Lage auf einem der höchsten Punkte der Hauptstadt.",
+      "facts": ["Märtyrer-Gedenkstätte", "Hervorragende Akustik", "Wahrzeichen von Antananarivo"]
+    },
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "Der Kirindy-Wald ist ein privates Reservat, das für seine hohe Dichte an endemischen Lemuren und die seltene Fossa bekannt ist.",
+      "facts": ["Trockenwald-Ökosystem", "Bester Ort zur Beobachtung von Fossas", "Heimat des winzigen Berthe-Mausmaki"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "Der Tsingy de Bemaraha Nationalpark ist berühmt für seine messerscharfen Kalksteinformationen und seine einzigartige Artenvielfalt.",
+      "facts": ["UNESCO-Weltnaturerbe", "Spektakuläre Hängebrücken", "Heimat des Deckens-Sifaka"]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "description": "Die Sahambavy-Teeplantage ist das einzige Teeanbaugebiet Madagaskars und produziert hochwertigen Tee für den Export.",
+      "facts": ["Einzige Teeplantage des Landes", "In der Nähe von Fianarantsoa", "Geführte Touren möglich"]
+    }
+  ]
+}

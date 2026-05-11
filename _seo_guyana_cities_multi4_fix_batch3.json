@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "mabaruma-cities-v2",
+      "descriptionAdvancedDe": "Mabaruma ist die Hauptstadt der Region Barima-Waini im Nordwesten Guyanas. Die Stadt liegt auf einem Hügel mit Blick auf den Aruka-Fluss, unweit der Grenze zu Venezuela. Mabaruma wurde nach der Unabhängigkeit Guyanas zum regionalen Verwaltungszentrum ernannt und löste Morawhanna ab. Die Wirtschaft basiert auf der Landwirtschaft, insbesondere dem Anbau von Kaffee, Erdnüssen und Zitrusfrüchten, die auf den fruchtbaren Böden der Region gedeihen. Die Stadt ist abgelegen und nur per Flugzeug oder Fluss erreichbar, was die Entwicklung vor Herausforderungen stellt. Mabaruma ist ein Schmelztiegel der Kulturen mit einer bedeutenden Präsenz indigener Gemeinschaften. Die umliegende Region ist bekannt für ihre reiche Artenvielfalt und unberührten Regenwälder.",
+      "descriptionAdvancedHu": "Mabaruma Guyana északnyugati részén, a Barima-Waini régió fővárosa. A város egy dombon fekszik, ahonnan kilátás nyílik az Aruka folyóra, nem messze a venezuelai határtól. Mabarumát Guyana függetlenné válása után nevezték ki regionális közigazgatási központnak, felváltva Morawhannát. Gazdasága a mezőgazdaságon alapul, különösen a kávé-, földimogyoró- és citrusfélék termesztésén, amelyek jól megteremnek a régió termékeny talaján. A város elszigetelt, csak légi úton vagy folyón közelíthető meg, ami kihívások elé állítja a fejlődést. Mabaruma a kultúrák olvasztótégelye, ahol jelentős az őslakos közösségek jelenléte. A környező régió gazdag biológiai sokféleségéről és érintetlen esőerdőiről ismert.",
+      "descriptionAdvancedRo": "Mabaruma este capitala regiunii Barima-Waini din nord-vestul Guyanei. Orașul este situat pe un deal cu vedere la râul Aruka, nu departe de granița cu Venezuela. Mabaruma a fost desemnat centru administrativ regional după independența Guyanei, înlocuind Morawhanna. Economia se bazează pe agricultură, în special pe cultivarea cafelei, a arahidelor și a citricelor, care prosperă pe solurile fertile ale regiunii. Orașul este izolat și accesibil doar pe calea aerului sau pe râu, ceea ce reprezintă o provocare pentru dezvoltare. Mabaruma este un creuzet de culturi, cu o prezență semnificativă a comunităților indigene. Regiunea înconjurătoare este cunoscută pentru biodiversitatea sa bogată și pădurile tropicale virgine.",
+      "descriptionAdvancedEn": "Mabaruma is the administrative capital of the Barima-Waini region in northwestern Guyana. Perched on a hill overlooking the Aruka River, it is located near the Venezuelan border. Mabaruma was designated the regional capital after Guyana gained independence, taking over from Morawhanna. The town's economy is primarily agricultural, with farming of coffee, ground provisions, and citrus fruits being the main activities, thanks to the fertile soil. The community is remote, accessible mainly by air and river, which presents logistical challenges for development. It is a culturally diverse town, with a significant presence of Indigenous peoples, including the Warao and Arawak. The surrounding area is characterized by pristine rainforest and rich biodiversity, offering potential for eco-tourism.",
+      "factsAdvancedDe": [
+        "Hauptstadt der Region Barima-Waini.",
+        "Liegt auf einem Hügel mit Blick auf den Aruka-Fluss.",
+        "Nahe der venezolanischen Grenze.",
+        "Wirtschaft basiert auf Landwirtschaft (Kaffee, Zitrusfrüchte).",
+        "Nur per Flugzeug oder Fluss erreichbar.",
+        "Bedeutende indigene Bevölkerung.",
+        "Wurde nach der Unabhängigkeit zum regionalen Zentrum.",
+        "Umliegende Regenwälder sind reich an Biodiversität."
+      ],
+      "factsAdvancedHu": [
+        "A Barima-Waini régió fővárosa.",
+        "Az Aruka folyóra néző dombon található.",
+        "Közel van a venezuelai határhoz.",
+        "Fő gazdasági ágazata a mezőgazdaság (kávé, citrusfélék).",
+        "Csak légi vagy vízi úton érhető el.",
+        "Jelentős őslakos lakossággal rendelkezik.",
+        "Guyana függetlenné válása után lett regionális központ.",
+        "A környező esőerdők nagy biodiverzitásúak."
+      ],
+      "factsAdvancedRo": [
+        "Capitala regiunii Barima-Waini.",
+        "Situat pe un deal cu vedere la râul Aruka.",
+        "Aproape de granița cu Venezuela.",
+        "Economia se bazează pe agricultură (cafea, citrice).",
+        "Accesibil doar pe calea aerului sau pe râu.",
+        "Populație indigenă semnificativă.",
+        "A devenit centru regional după independență.",
+        "Pădurile tropicale din jur sunt bogate în biodiversitate."
+      ],
+      "factsAdvancedEn": [
+        "Capital of the Barima-Waini region.",
+        "Located on a hill overlooking the Aruka River.",
+        "Near the Venezuelan border.",
+        "Economy based on agriculture (coffee, citrus).",
+        "Accessible only by air or river.",
+        "Significant Indigenous population.",
+        "Became regional center after independence.",
+        "Surrounding rainforests are rich in biodiversity."
+      ]
+    },
+    {
+      "id": "mahdia-cities-v2",
+      "descriptionAdvancedDe": "Mahdia, im Herzen Guyanas gelegen, ist das Verwaltungszentrum der Region Potaro-Siparuni. Die Stadt ist ein Synonym für Gold- und Diamantenabbau und zog im späten 19. Jahrhundert Prospektoren an. Ihre Entwicklung und ihr Charakter sind untrennbar mit dem Bergbau verbunden, was ihr eine robuste „Frontier-Town“-Atmosphäre verleiht. Die Stadt liegt in der Nähe des Kaieteur-Nationalparks und des mächtigen Kaieteur-Wasserfalls, was ihr touristisches Potenzial erhöht. Die Wirtschaft ist jedoch stark vom Goldpreis abhängig, was zu Boom-and-Bust-Zyklen führt. Der Zugang zu Mahdia erfolgt hauptsächlich über den Luftweg oder über eine lange, unbefestigte Straße von Bartica aus. Die Bevölkerung ist eine Mischung aus Bergleuten, indigenen Völkern und Händlern, die eine dynamische und widerstandsfähige Gemeinschaft bilden.",
+      "descriptionAdvancedHu": "Mahdia, Guyana szívében, a Potaro-Siparuni régió közigazgatási központja. A város neve egyet jelent az arany- és gyémántbányászattal; a 19. század végén vonzotta ide a kutatókat. Fejlődése és jellege elválaszthatatlan a bányászattól, ami egyfajta „határvárosi” hangulatot kölcsönöz neki. A város a Kaieteur Nemzeti Park és a hatalmas Kaieteur-vízesés közelében fekszik, ami növeli turisztikai potenciálját. Gazdasága azonban nagymértékben függ az arany árától, ami fellendülési és hanyatlási ciklusokhoz vezet. Mahdia főként légi úton vagy egy hosszú, burkolatlan úton érhető el Barticából. A lakosság bányászok, őslakosok és kereskedők keveréke, akik dinamikus és ellenálló közösséget alkotnak.",
+      "descriptionAdvancedRo": "Mahdia, situată în inima Guyanei, este centrul administrativ al regiunii Potaro-Siparuni. Orașul este sinonim cu extracția de aur și diamante, atrăgând prospectori la sfârșitul secolului al XIX-lea. Dezvoltarea și caracterul său sunt indisolubil legate de minerit, ceea ce îi conferă o atmosferă robustă de „oraș de frontieră”. Orașul este situat în apropierea Parcului Național Kaieteur și a puternicei cascade Kaieteur, ceea ce îi sporește potențialul turistic. Cu toate acestea, economia sa este foarte dependentă de prețul aurului, ceea ce duce la cicluri de expansiune și recesiune. Accesul la Mahdia se face în principal pe calea aerului sau pe un drum lung, neasfaltat, din Bartica. Populația este un amestec de mineri, popoare indigene și comercianți, formând o comunitate dinamică și rezistentă.",
+      "descriptionAdvancedEn": "Mahdia serves as the administrative centre for the Potaro-Siparuni region in the heart of Guyana. The town is synonymous with gold and diamond mining, having been a destination for prospectors since the late 19th century. This mining legacy defines its character, giving it a rugged, frontier-town feel. Mahdia's strategic location near the Essequibo, Potaro, and Siparuni rivers facilitates mining operations. The economy is heavily reliant on the fortunes of gold mining, making it susceptible to boom-and-bust cycles. While remote, it is accessible by an unpaved road from Bartica and by air. Its proximity to the world-famous Kaieteur Falls gives it significant tourism potential. The community is a melting pot, comprising miners from various backgrounds and members of the Patamona Indigenous nation.",
+      "factsAdvancedDe": [
+        "Zentrum der Region Potaro-Siparuni.",
+        "Berühmtes Zentrum für Gold- und Diamantenabbau.",
+        "Zieht seit dem späten 19. Jahrhundert Bergleute an.",
+        "In der Nähe des Kaieteur-Nationalparks.",
+        "Wirtschaft stark vom Goldpreis abhängig.",
+        "Erreichbar per Flugzeug und unbefestigter Straße.",
+        "Bevölkerung besteht aus Bergleuten und Indigenen.",
+        "Hat eine „Frontier-Town“-Atmosphäre."
+      ],
+      "factsAdvancedHu": [
+        "A Potaro-Siparuni régió központja.",
+        "Híres arany- és gyémántbányászati központ.",
+        "A 19. század vége óta vonzza a bányászokat.",
+        "Közel van a Kaieteur Nemzeti Parkhoz.",
+        "Gazdasága erősen függ az arany árától.",
+        "Légi úton és egy földúton közelíthető meg.",
+        "A lakosságot bányászok és őslakosok alkotják.",
+        "A városnak „határvárosi” jellege van."
+      ],
+      "factsAdvancedRo": [
+        "Centrul regiunii Potaro-Siparuni.",
+        "Centru renumit pentru mineritul de aur și diamante.",
+        "Atrage mineri de la sfârșitul secolului al XIX-lea.",
+        "Aproape de Parcul Național Kaieteur.",
+        "Economia este puternic dependentă de prețul aurului.",
+        "Accesibil pe calea aerului și pe un drum neasfaltat.",
+        "Populația este formată din mineri și indigeni.",
+        "Are o atmosferă de „oraș de frontieră”."
+      ],
+      "factsAdvancedEn": [
+        "Center of the Potaro-Siparuni region.",
+        "Famous gold and diamond mining hub.",
+        "Attracting miners since the late 19th century.",
+        "Near Kaieteur National Park.",
+        "Economy heavily dependent on gold prices.",
+        "Accessible by air and an unpaved road.",
+        "Population consists of miners and indigenous people.",
+        "Has a 'frontier town' character."
+      ]
+    },
+    {
+      "id": "port-kaituma-cities-v2",
+      "descriptionAdvancedDe": "Port Kaituma ist eine wichtige Siedlung in der Region Barima-Waini, die am Kaituma-Fluss liegt. Der Ort erlangte in den 1960er Jahren als Logistikzentrum für das umstrittene Jonestown-Projekt an Bedeutung, das in der Nähe lag. Vor diesem unglücklichen Ereignis war die Region für den Manganabbau bekannt. Heute ist die Wirtschaft von Port Kaituma hauptsächlich vom Goldabbau und der Holzwirtschaft abhängig. Die Siedlung dient als wichtiger Transitpunkt für Bergleute und Güter, die in die umliegenden Gebiete transportiert werden. Die Anbindung erfolgt hauptsächlich über den Fluss und eine Landebahn. Die Bevölkerung ist vielfältig und besteht aus indigenen Gemeinschaften und Migranten, die von den wirtschaftlichen Möglichkeiten angezogen werden. Die Entwicklung der Infrastruktur bleibt eine Herausforderung für diese abgelegene Gemeinschaft.",
+      "descriptionAdvancedHu": "Port Kaituma a Barima-Waini régió egyik fontos települése a Kaituma folyó partján. A hely az 1960-as években vált ismertté, mint a közeli, vitatott Jonestown-projekt logisztikai központja. E szomorú esemény előtt a régió a mangánbányászatáról volt ismert. Ma Port Kaituma gazdasága főként az aranybányászattól és a fakitermeléstől függ. A település fontos tranzitpontként szolgál a bányászok és a környező területekre szállított áruk számára. A közlekedés főként a folyón és egy leszállópályán keresztül zajlik. A lakosság sokszínű, őslakos közösségekből és a gazdasági lehetőségek által vonzott migránsokból áll. Az infrastruktúra fejlesztése továbbra is kihívást jelent ennek az elszigetelt közösségnek.",
+      "descriptionAdvancedRo": "Port Kaituma este o așezare importantă din regiunea Barima-Waini, situată pe râul Kaituma. Localitatea a câștigat notorietate în anii 1960 ca centru logistic pentru controversatul proiect Jonestown, care era situat în apropiere. Înainte de acest eveniment nefericit, regiunea era cunoscută pentru extracția de mangan. Astăzi, economia din Port Kaituma este dependentă în principal de extracția de aur și de exploatarea forestieră. Așezarea servește ca un punct de tranzit important pentru mineri și mărfuri transportate în zonele înconjurătoare. Conectivitatea se bazează în principal pe râu și pe o pistă de aterizare. Populația este diversă, fiind formată din comunități indigene și migranți atrași de oportunitățile economice. Dezvoltarea infrastructurii rămâne o provocare pentru această comunitate izolată.",
+      "descriptionAdvancedEn": "Port Kaituma is a community on the Kaituma River in the Barima-Waini region. It gained international notoriety in 1978 as the nearest large settlement to Jonestown, the site of the Peoples Temple tragedy. Before this, the area was a center for manganese mining in the 1960s. Today, Port Kaituma's economy is primarily driven by gold mining and logging. It functions as a key logistical hub, with a port and an airstrip that serve the mining and forestry operations in the remote northwestern part of Guyana. The town is a melting pot of residents, including Indigenous peoples and individuals from across Guyana drawn by the mining industry. Despite its economic importance, the community faces challenges related to infrastructure and its remote location.",
+      "factsAdvancedDe": [
+        "Liegt am Kaituma-Fluss.",
+        "In der Region Barima-Waini.",
+        "Wurde durch die Jonestown-Tragödie 1978 berüchtigt.",
+        "War früher ein Zentrum für den Manganabbau.",
+        "Heutige Wirtschaft angetrieben von Goldabbau und Holzwirtschaft.",
+        "Wichtiger Logistikknotenpunkt in der Region.",
+        "Verfügt über einen Hafen und eine Landebahn.",
+        "Hat eine kulturell vielfältige Bevölkerung."
+      ],
+      "factsAdvancedHu": [
+        "A Kaituma folyó partján fekszik.",
+        "A Barima-Waini régióban található.",
+        "Az 1970-es években a Jonestown-i tragédiával vált hírhedtté.",
+        "Korábban mangánbányászati központ volt.",
+        "Ma az aranybányászat és a fakitermelés a fő iparág.",
+        "Fontos logisztikai központ a régióban.",
+        "Kikötővel és repülőtérrel rendelkezik.",
+        "Lakossága kulturálisan sokszínű."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe râul Kaituma.",
+        "În regiunea Barima-Waini.",
+        "A devenit notoriu prin tragedia de la Jonestown din 1978.",
+        "A fost anterior un centru de minerit de mangan.",
+        "Economia de astăzi este determinată de mineritul de aur și exploatarea forestieră.",
+        "Nod logistic important în regiune.",
+        "Are un port și o pistă de aterizare.",
+        "Are o populație diversă din punct de vedere cultural."
+      ],
+      "factsAdvancedEn": [
+        "Located on the Kaituma River.",
+        "In the Barima-Waini region.",
+        "Gained notoriety from the 1978 Jonestown tragedy.",
+        "Was previously a center for manganese mining.",
+        "Today's economy is driven by gold mining and logging.",
+        "Key logistical hub in the region.",
+        "Has a port and an airstrip.",
+        "Has a culturally diverse population."
+      ]
+    },
+    {
+      "id": "kwakwani-cities-v2",
+      "descriptionAdvancedDe": "Kwakwani, am Berbice-Fluss gelegen, ist eine weitere wichtige Bergbaustadt in Guyana, die sich auf den Bauxitabbau konzentriert. Die Stadt entwickelte sich parallel zu Linden und war ein Zentrum für die Bauxitoperationen der Berbice-Bauxit-Company. Die Landschaft um Kwakwani ist, ähnlich wie in Linden, von den Auswirkungen des jahrzehntelangen Tagebaus geprägt. Die Wirtschaft ist stark von der Bauxitindustrie abhängig, obwohl auch Forstwirtschaft und Landwirtschaft eine Rolle spielen. Die Stadt ist über eine Straße mit Linden verbunden und der Berbice-Fluss dient als wichtiger Transportweg. Die Gemeinschaft hat mit den Herausforderungen der wirtschaftlichen Instabilität zu kämpfen, die mit der schwankenden globalen Nachfrage nach Bauxit verbunden ist. Anstrengungen zur Diversifizierung der lokalen Wirtschaft sind im Gange.",
+      "descriptionAdvancedHu": "Kwakwani, a Berbice folyó partján, egy másik fontos bányaváros Guyanában, amely a bauxit kitermelésére összpontosít. A város Lindennel párhuzamosan fejlődött, és a Berbice Bauxite Company bauxit-műveleteinek központja volt. Kwakwani környékét, hasonlóan Lindenhez, az évtizedes külszíni fejtés hatásai jellemzik. A gazdaság nagymértékben függ a bauxitipartól, bár az erdőgazdálkodás és a mezőgazdaság is szerepet játszik. A várost út köti össze Lindennel, és a Berbice folyó fontos szállítási útvonalként szolgál. A közösségnek meg kell küzdenie a bauxit iránti ingadozó globális kereslettel járó gazdasági instabilitás kihívásaival. Folyamatban vannak a helyi gazdaság diverzifikálására irányuló erőfeszítések.",
+      "descriptionAdvancedRo": "Kwakwani, situat pe râul Berbice, este un alt oraș minier important din Guyana, axat pe extracția de bauxită. Orașul s-a dezvoltat în paralel cu Linden și a fost un centru pentru operațiunile de bauxită ale Companiei de Bauxită Berbice. Peisajul din jurul Kwakwani, similar cu cel din Linden, este marcat de impactul deceniilor de exploatare minieră la suprafață. Economia este puternic dependentă de industria bauxitei, deși silvicultura și agricultura joacă, de asemenea, un rol. Orașul este conectat la Linden printr-un drum, iar râul Berbice servește ca o cale de transport importantă. Comunitatea s-a confruntat cu provocările instabilității economice legate de cererea globală fluctuantă de bauxită. Se depun eforturi pentru diversificarea economiei locale.",
+      "descriptionAdvancedEn": "Kwakwani is a mining town located on the Berbice River in the Upper Demerara-Berbice region. Similar to Linden, its history and economy are dominated by bauxite mining. The town was developed by the Berbice Bauxite Company to support its mining operations. The landscape is heavily marked by open-pit mining activities. While bauxite remains the cornerstone of its economy, forestry and subsistence farming are also important for the local community. Kwakwani is connected by road to Linden and relies on the Berbice River for transporting heavy equipment and bauxite. The town has faced economic challenges due to fluctuations in the global bauxite market, prompting calls for greater economic diversification to ensure a sustainable future for its residents.",
+      "factsAdvancedDe": [
+        "Liegt am Berbice-Fluss.",
+        "Wichtiges Zentrum für den Bauxitabbau.",
+        "Entwickelt von der Berbice Bauxite Company.",
+        "Landschaft geprägt von Tagebau.",
+        "Wirtschaft abhängig von der Bauxitindustrie.",
+        "Durch eine Straße mit Linden verbunden.",
+        "Der Fluss ist ein wichtiger Transportweg.",
+        "Forstwirtschaft trägt ebenfalls zur lokalen Wirtschaft bei."
+      ],
+      "factsAdvancedHu": [
+        "A Berbice folyó partján található.",
+        "Fontos bauxitbányászati központ.",
+        "A Berbice Bauxite Company fejlesztette ki.",
+        "A tájat a külszíni fejtés nyomai jellemzik.",
+        "Gazdasága függ a bauxitipartól.",
+        "Út köti össze Lindennel.",
+        "A folyó fontos szállítási útvonal.",
+        "Az erdőgazdálkodás is hozzájárul a helyi gazdasághoz."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe râul Berbice.",
+        "Centru important de minerit de bauxită.",
+        "Dezvoltat de Berbice Bauxite Company.",
+        "Peisaj marcat de minerit la suprafață.",
+        "Economia este dependentă de industria bauxitei.",
+        "Conectat la Linden printr-un drum.",
+        "Râul este o cale de transport importantă.",
+        "Silvicultura contribuie, de asemenea, la economia locală."
+      ],
+      "factsAdvancedEn": [
+        "Located on the Berbice River.",
+        "Important bauxite mining center.",
+        "Developed by the Berbice Bauxite Company.",
+        "Landscape is marked by open-pit mining.",
+        "Economy is dependent on the bauxite industry.",
+        "Connected to Linden by road.",
+        "The river is an important transport route.",
+        "Forestry also contributes to the local economy."
+      ]
+    },
+    {
+      "id": "annandale-cities-v2",
+      "descriptionAdvancedDe": "Annandale ist eine Küstensiedlung in der Region Demerara-Mahaica, die für ihre landwirtschaftliche Produktion bekannt ist. Die Gemeinde ist Teil eines Streifens von Dörfern entlang der Atlantikküste östlich von Georgetown. Die Wirtschaft basiert hauptsächlich auf dem Anbau von Zuckerrohr und Reis, und viele Einwohner arbeiten auf den nahegelegenen Plantagen oder in der Landwirtschaft. Annandale hat eine reiche kulturelle Vielfalt, mit einer großen indo-guyanischen Bevölkerung, deren Traditionen im täglichen Leben sichtbar sind. Die Siedlung ist durch die Küstenstraße gut mit der Hauptstadt verbunden, was den Zugang zu Märkten und Dienstleistungen erleichtert. Trotz seiner Nähe zu Georgetown hat Annandale einen ländlichen Charakter bewahrt, mit einem starken Gemeinschaftsgefühl und einem langsameren Lebensrhythmus.",
+      "descriptionAdvancedHu": "Annandale egy tengerparti település a Demerara-Mahaica régióban, amely mezőgazdasági termeléséről ismert. A község egyike a Georgetowntól keletre, az atlanti-óceáni part mentén elhelyezkedő falvaknak. A gazdaság főként a cukornád- és rizstermesztésen alapul, és sok lakos a közeli ültetvényeken vagy a mezőgazdaságban dolgozik. Annandale gazdag kulturális sokféleséggel rendelkezik, nagy indo-guyanai lakossággal, akiknek hagyományai a mindennapi életben is megfigyelhetők. A települést a tengerparti út jól összeköti a fővárossal, ami megkönnyíti a piacokhoz és szolgáltatásokhoz való hozzáférést. Annandale a fővároshoz való közelsége ellenére megőrizte vidéki jellegét, erős közösségi érzéssel és lassabb életritmussal.",
+      "descriptionAdvancedRo": "Annandale este o așezare de coastă din regiunea Demerara-Mahaica, cunoscută pentru producția sa agricolă. Comunitatea face parte dintr-o fâșie de sate de-a lungul coastei Atlanticului, la est de Georgetown. Economia se bazează în principal pe cultivarea trestiei de zahăr și a orezului, iar mulți locuitori lucrează pe plantațiile din apropiere sau în agricultură. Annandale are o bogată diversitate culturală, cu o mare populație indo-guyaneză ale cărei tradiții sunt vizibile în viața de zi cu zi. Așezarea este bine conectată la capitală prin drumul de coastă, ceea ce facilitează accesul la piețe și servicii. În ciuda apropierii de Georgetown, Annandale și-a păstrat un caracter rural, cu un puternic simț al comunității și un ritm de viață mai lent.",
+      "descriptionAdvancedEn": "Annandale is a large, densely populated village on the East Coast of Demerara. It is part of a continuous stretch of coastal settlements located just east of Guyana's capital, Georgetown. The community is primarily residential, but its economy has strong roots in agriculture, particularly sugar cane cultivation from the surrounding estates. The village is known for its vibrant market and commercial activity along the main road. Annandale reflects the cultural mosaic of the Guyanese coast, with a predominant Indo-Guyanese population. It is also historically significant for its role in the labor movement. The community has a mix of religious buildings, including temples, mosques, and churches, showcasing its religious diversity.",
+      "factsAdvancedDe": [
+        "Liegt in der Region Demerara-Mahaica.",
+        "Östlich von Georgetown an der Küste.",
+        "Wirtschaft basiert auf Zuckerrohranbau.",
+        "Großes und dicht besiedeltes Dorf.",
+        "Bedeutende indo-guyanische Bevölkerung.",
+        "Bekannt für seinen lebhaften Markt und seine Handelsaktivitäten.",
+        "Gemeinde ist religiös vielfältig.",
+        "Küstenstraße verbindet es mit der Hauptstadt."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara-Mahaica régióban található.",
+        "Georgetowntól keletre, a tengerparton fekszik.",
+        "Gazdasága a cukornádtermesztésen alapul.",
+        "Nagy és sűrűn lakott falu.",
+        "Jelentős indo-guyanai lakossággal rendelkezik.",
+        "Élénk piac és kereskedelmi tevékenység jellemzi.",
+        "A közösség vallásilag sokszínű.",
+        "A part menti út köti össze a fővárossal."
+      ],
+      "factsAdvancedRo": [
+        "Situat în regiunea Demerara-Mahaica.",
+        "La est de Georgetown, pe coastă.",
+        "Economia se bazează pe cultivarea trestiei de zahăr.",
+        "Sat mare și dens populat.",
+        "Populație indo-guyaneză semnificativă.",
+        "Cunoscut pentru piața sa vibrantă și activitatea comercială.",
+        "Comunitatea este diversă din punct de vedere religios.",
+        "Drumul de coastă îl leagă de capitală."
+      ],
+      "factsAdvancedEn": [
+        "Located in the Demerara-Mahaica region.",
+        "East of Georgetown on the coast.",
+        "Economy is based on sugarcane cultivation.",
+        "Large and densely populated village.",
+        "Significant Indo-Guyanese population.",
+        "Known for its vibrant market and commercial activity.",
+        "The community is religiously diverse.",
+        "The coastal road connects it to the capital."
+      ]
+    }
+  ]
+}

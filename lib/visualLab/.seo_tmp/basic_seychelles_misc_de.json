@@ -1,0 +1,107 @@
+{
+  "lang": "de",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesLifeV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesNatureV2.ts",
+    "lib/visualLab/data/poiExtraSeychellesReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "arul-mihu-temple-landmarks-v2",
+      "description": "Der Arul Mihu Navasakthi Vinayagar Tempel in Victoria ist der einzige Hindu-Tempel der Seychellen und ein farbenprächtiges architektonisches Zentrum.",
+      "facts": ["Hindu-Tempel", "Victoria", "Einzigartig auf Seychellen", "Farbenfrohe Architektur"]
+    },
+    {
+      "id": "stade-linite-landmarks-v2",
+      "description": "Das Stade Linité ist das größte Stadion der Seychellen und dient als Hauptveranstaltungsort für Sport- und Großevents auf der Insel Mahé.",
+      "facts": ["Größtes Stadion", "Hauptveranstaltungsort", "Sportzentrum", "Mahé"]
+    },
+    {
+      "id": "st-mary-church-la-digue-landmarks-v2",
+      "description": "Die St. Mary’s Church auf La Digue ist ein zentrales religiöses Gebäude und ein wichtiger Treffpunkt für die lokale Inselgemeinschaft.",
+      "facts": ["Religiöses Zentrum", "La Digue", "Gemeindetreffpunkt", "Architektonisches Wahrzeichen"]
+    },
+    {
+      "id": "denis-island-lighthouse-landmarks-v2",
+      "description": "Der Leuchtturm auf Denis Island ist ein historisches Bauwerk, das der Schifffahrt im Seychellen-Archipel seit langem als Orientierungspunkt dient.",
+      "facts": ["Leuchtturm", "Denis Island", "Historisches Bauwerk", "Orientierungspunkt"]
+    },
+    {
+      "id": "peace-memorial-victoria-landmarks-v2",
+      "description": "Das Friedensdenkmal in Victoria ist ein symbolträchtiges Monument, das die Werte von Einheit und Frieden auf den Seychellen unterstreicht.",
+      "facts": ["Friedensdenkmal", "Victoria", "Symbol für Einheit", "Stadtzentrum"]
+    },
+    {
+      "id": "marine-charter-building-landmarks-v2",
+      "description": "Das Marine Charter Building in Victoria ist ein markantes Gebäude am Hafen, das als Ausgangspunkt für maritime Ausflüge und Bootsfahrten dient.",
+      "facts": ["Markantes Gebäude", "Victoria Hafen", "Maritimer Ausgangspunkt", "Bootsausflüge"]
+    },
+    {
+      "id": "victoria-botanical-gardens-life-v2",
+      "description": "Der Botanische Garten von Victoria beherbergt eine beeindruckende Vielfalt an tropischen Pflanzen, darunter die berühmte Coco de Mer.",
+      "facts": ["Botanischer Garten", "Victoria", "Coco de Mer", "Tropische Pflanzenwelt"]
+    },
+    {
+      "id": "tea-plantation-mahe-life-v2",
+      "description": "Die Teeplantage auf Mahé bietet Einblicke in den Teeanbau und die Verarbeitung der Blätter, die auf den nebligen Berghängen der Insel wachsen.",
+      "facts": ["Teeanbau", "Mahé", "Verarbeitung", "Berghänge"]
+    },
+    {
+      "id": "vacoa-nature-trail-mangroves-life-v2",
+      "description": "Der Vacoa Nature Trail führt durch ein bedeutendes Mangrovengebiet, das ein wichtiges Ökosystem für zahlreiche Küstenbewohner darstellt.",
+      "facts": ["Naturlehrpfad", "Mangrovengebiet", "Ökosystem", "Küstenflora"]
+    },
+    {
+      "id": "glacis-trois-freres-habitat-life-v2",
+      "description": "Das Habitat von Glacis Trois Frères auf Mahé ist ein bedeutendes Schutzgebiet für seltene endemische Pflanzen und Tiere der Seychellen.",
+      "facts": ["Schutzgebiet", "Mahé", "Endemische Arten", "Habitat"]
+    },
+    {
+      "id": "la-digue-vanilla-plantations-life-v2",
+      "description": "Die Vanilleplantagen auf La Digue sind berühmt für die traditionelle Kultivierung der Vanille, die zu den hochwertigsten Exportprodukten zählt.",
+      "facts": ["Vanilleanbau", "La Digue", "Traditionelle Kultur", "Exportprodukt"]
+    },
+    {
+      "id": "patchouli-fields-mahe-life-v2",
+      "description": "Die Patchouli-Felder auf Mahé sind Teil des landwirtschaftlichen Erbes der Insel und werden für die Produktion von ätherischen Ölen genutzt.",
+      "facts": ["Patchouli-Anbau", "Mahé", "Ätherische Öle", "Landwirtschaftliches Erbe"]
+    },
+    {
+      "id": "sainte-anne-marine-nature-v2",
+      "description": "Der Sainte Anne Marine Nationalpark schützt eine lebendige Unterwasserwelt mit Korallenriffen und vielfältigen Meereslebewesen nahe Mahé.",
+      "facts": ["Marine Nationalpark", "Korallenriffe", "Unterwasserwelt", "Nahe Mahé"]
+    },
+    {
+      "id": "aldabra-atoll-nature-v2",
+      "description": "Das Aldabra-Atoll ist eines der größten Korallenatolle der Welt und UNESCO-Welterbe, berühmt für seine riesige Population an Landschildkröten.",
+      "facts": ["UNESCO-Welterbe", "Korallenatoll", "Riesenschildkröten", "Naturschutzgebiet"]
+    },
+    {
+      "id": "north-island-nature-v2",
+      "description": "North Island ist eine exklusive Privatinsel, die für ihre intensiven Bemühungen im Naturschutz und die Wiederansiedlung endemischer Arten bekannt ist.",
+      "facts": ["Privatinsel", "Naturschutzprojekt", "Endemische Arten", "Wiederansiedlung"]
+    },
+    {
+      "id": "anse-georgette-nature-v2",
+      "description": "Anse Georgette auf Praslin gilt als einer der unberührtesten und schönsten Strände der Seychellen, umrahmt von Granitfelsen.",
+      "facts": ["Strand auf Praslin", "Unberührte Natur", "Granitfelsen", "Seychellen-Schönheit"]
+    },
+    {
+      "id": "ile-therese-nature-v2",
+      "description": "Die Île Thérèse vor der Westküste von Mahé bietet eine wilde, natürliche Umgebung und ist ein beliebtes Ziel für Bootsausflüge.",
+      "facts": ["Insel vor Mahé", "Wilde Natur", "Bootsausflugsziel", "Naturbelassen"]
+    },
+    {
+      "id": "felicite-island-nature-v2",
+      "description": "Félicité ist eine Granitinsel, die sich durch eine dichte tropische Vegetation und reiche Korallenriffe in ihrem küstennahen Gewässer auszeichnet.",
+      "facts": ["Granitinsel", "Tropische Vegetation", "Korallenriffe", "Inselnatur"]
+    },
+    {
+      "id": "mont-dauban-relief-v2",
+      "description": "Der Mont Dauban auf Silhouette Island ist der höchste Punkt der Insel und ein markantes geographisches Relief inmitten des dichten Regenwaldes.",
+      "facts": ["Berg auf Silhouette", "Höchster Punkt", "Geographisches Relief", "Dichter Regenwald"]
+    }
+  ]
+}

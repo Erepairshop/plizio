@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-lorenzo-boaco-cities-v2",
+      "description": "San Lorenzo im Departement Boaco ist ein ruhiges Städtchen in einer hügeligen, landwirtschaftlich geprägten Region.",
+      "facts": ["Boaco Departement", "Hügelige Lage", "Landwirtschaft"]
+    },
+    {
+      "id": "santo-tomas-chontales-cities-v2",
+      "description": "Santo Tomás ist bekannt als das Zentrum der Milchwirtschaft im Departement Chontales.",
+      "facts": ["Chontales Departement", "Milchwirtschaft", "Viehzucht"]
+    },
+    {
+      "id": "villa-sandino-cities-v2",
+      "description": "Villa Sandino ist eine Gemeinde im Departement Chontales, deren Wirtschaft stark von der Viehzucht abhängig ist.",
+      "facts": ["Chontales Departement", "Viehzucht", "Ländlich"]
+    },
+    {
+      "id": "acoyapa-cities-v2",
+      "description": "Acoyapa ist eine Stadt in der Provinz Chontales, die für ihre Geschichte und lokale Viehproduktion bekannt ist.",
+      "facts": ["Chontales Provinz", "Viehzucht", "Historisch"]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "description": "Pueblo Nuevo liegt im Departement Estelí und ist eine kleine Gemeinde in einer Bergregion.",
+      "facts": ["Estelí Departement", "Berglandschaft", "Ruhig"]
+    },
+    {
+      "id": "la-trinidad-esteli-cities-v2",
+      "description": "La Trinidad ist eine Stadt im Departement Estelí, die für ihre günstige Lage und Produktion landwirtschaftlicher Güter geschätzt wird.",
+      "facts": ["Estelí Departement", "Landwirtschaft", "Verkehrsgünstig"]
+    },
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "description": "Esquipulas im Departement Matagalpa ist eine landschaftlich reizvolle Gemeinde in den nördlichen Hochländern.",
+      "facts": ["Matagalpa Departement", "Hochland", "Nördlich"]
+    },
+    {
+      "id": "san-dionisio-matagalpa-cities-v2",
+      "description": "San Dionisio liegt im Departement Matagalpa und ist geprägt von Kaffeeplantagen und bergigem Gelände.",
+      "facts": ["Matagalpa Departement", "Kaffee", "Bergig"]
+    },
+    {
+      "id": "rancho-grande-matagalpa-cities-v2",
+      "description": "Rancho Grande ist eine waldreiche Gemeinde im Departement Matagalpa, bekannt für ihre üppige Vegetation.",
+      "facts": ["Matagalpa Departement", "Waldreich", "Vegetation"]
+    },
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "description": "Matiguás ist eine bedeutende Gemeinde für Viehzucht und Landwirtschaft im Departement Matagalpa.",
+      "facts": ["Matagalpa Departement", "Viehzucht", "Landwirtschaft"]
+    }
+  ]
+}

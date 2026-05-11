@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-gourma-nature-v2",
+      "description": "A Gourma-vidék hegyei fontos tájékozódási pontok a sivatagi régióban. Növényzete a szárazságtűrő fajokra épül, gazdag biodiverzitással.",
+      "facts": ["Gourma-régió", "Szárazságtűrő növények", "Biodiverzitás"]
+    },
+    {
+      "id": "lake-korientze-nature-v2",
+      "description": "A Korientze-tó a Niger-delta vizes élőhelyeinek része, kulcsfontosságú a halászat és az öntözés számára. Madárvilága megfigyelésre méltó.",
+      "facts": ["Niger-delta", "Halászat", "Madárvilág"]
+    },
+    {
+      "id": "mount-bam-nature-v2",
+      "description": "A Bam-hegy környéke sziklás dombokkal tagolt terület, amely a helyi geológiai sajátosságokat tükrözi. Fontos élőhely kisemlősök számára.",
+      "facts": ["Sziklás dombok", "Geológia", "Kisemlősök"]
+    },
+    {
+      "id": "san-river-nature-v2",
+      "description": "A San folyó mentén kialakult galériaerdők fontos ökológiai folyosóként szolgálnak az élővilág számára. A vízszint az esőzésektől függ.",
+      "facts": ["Galériaerdők", "Ökológiai folyosó", "Folyópart"]
+    },
+    {
+      "id": "lake-doro-nature-v2",
+      "description": "A Doro-tó egy csendesebb vizes élőhely, amely a költöző madarak fontos megállóhelye a vonulási időszakban. Környéke kevésbé látogatott.",
+      "facts": ["Vizes élőhely", "Madárvonulás", "Megállóhely"]
+    },
+    {
+      "id": "mount-dogon-nature-v2",
+      "description": "A Dogon-vidék hegyvonulatai jellegzetes kulturális és természeti tájat alkotnak. A teraszos művelés és a sziklás hegyek látványa egyedülálló.",
+      "facts": ["Dogon-vidék", "Hegyvonulat", "Teraszos táj"]
+    },
+    {
+      "id": "kourou-river-nature-v2",
+      "description": "A Kourou folyó a környező száraz területek vízutánpótlását biztosítja, lehetővé téve a folyóparti mezőgazdaságot.",
+      "facts": ["Vízutánpótlás", "Mezőgazdaság", "Folyópart"]
+    },
+    {
+      "id": "lake-aougoundou-nature-v2",
+      "description": "Az Aougoundou-tó vize az esőzések után töltődik fel, támogatva a környező növényzetet. Fontos szerepe van a helyi ökoszisztémában.",
+      "facts": ["Vizes élőhely", "Növényzet", "Ökoszisztéma"]
+    },
+    {
+      "id": "mount-bougouni-nature-v2",
+      "description": "A Bougouni-hegy vidéke a Mali déli részére jellemző sűrűbb cserjés táj. Sokféle állatfaj talál itt otthonra.",
+      "facts": ["Déli régió", "Cserjés táj", "Állatfajok"]
+    },
+    {
+      "id": "lake-nianga-nature-v2",
+      "description": "A Nianga-tó vize a száraz időszakban csökken, de ekkor is fontos szerepe van az állatok ivóvízellátásában. A táj az esőzések után éled fel.",
+      "facts": ["Ivóvízforrás", "Száraz időszak", "Vizes terület"]
+    },
+    {
+      "id": "mount-sikasso-nature-v2",
+      "description": "A Sikasso környéki hegyek a régió legzöldebb területei közé tartoznak. A domborzat és az éghajlat gazdag növényzetet tesz lehetővé.",
+      "facts": ["Sikasso környéke", "Gazdag növényzet", "Hegyvidék"]
+    },
+    {
+      "id": "bafing-makana-river-nature-v2",
+      "description": "A Bafing-Makana folyó a Bafing Nemzeti Park területén keresztül folyik, érintetlen természeti környezetet biztosítva az állatvilágnak.",
+      "facts": ["Bafing Nemzeti Park", "Folyó", "Érintetlen természet"]
+    }
+  ]
+}

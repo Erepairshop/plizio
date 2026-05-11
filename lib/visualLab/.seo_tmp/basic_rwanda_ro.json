@@ -1,0 +1,87 @@
+{
+  "lang": "ro",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLifeV2.ts",
+    "lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "murambi-memorial-history-v2",
+      "description": "Acest sit istoric servește ca memorial pentru victimele genocidului din Rwanda din 1994. Complexul păstrează clădirile școlii originale ca dovadă a evenimentelor tragice.",
+      "facts": ["Locația fostei școli tehnice", "Dedicat victimelor din 1994", "Sit de importanță istorică", "Documentează istoria recentă"]
+    },
+    {
+      "id": "mwima-mausoleum-history-v2",
+      "description": "Mausoleul Mwima găzduiește mormântul ultimului rege al Rwandei, Mutara al III-lea Rudahigwa. Este un loc central pentru înțelegerea monarhiei tradiționale rwandeze.",
+      "facts": ["Locul de veci regal", "Mutara al III-lea Rudahigwa", "Importanță pentru monarhie", "Sursă de patrimoniu"]
+    },
+    {
+      "id": "kigali-botanical-garden-life-v2",
+      "description": "O oază urbană în inima capitalei Kigali, oferind o colecție diversă de specii de plante locale și exotice. Este un spațiu popular pentru plimbări și educație botanică.",
+      "facts": ["Situat în Kigali", "Colecții botanice diverse", "Spațiu de relaxare urbană", "Centru de biodiversitate"]
+    },
+    {
+      "id": "kigali-kid-center-life-v2",
+      "description": "Un spațiu dedicat recreerii și dezvoltării copiilor în Kigali, oferind diverse activități educative și de joacă. Favorizează socializarea și dezvoltarea abilităților motrice.",
+      "facts": ["Centru pentru copii", "Activități educative", "Situat în capitală", "Zonă de recreere"]
+    },
+    {
+      "id": "kigali-pony-club-life-v2",
+      "description": "Clubul oferă lecții de echitație și activități în aer liber, fiind un loc unic de interacțiune cu animalele în capitală. Este apreciat atât de copii, cât și de adulți.",
+      "facts": ["Lecții de echitație", "Activități în Kigali", "Interacțiune cu ponei", "Sport în aer liber"]
+    },
+    {
+      "id": "huye-poultry-farm-life-v2",
+      "description": "O fermă avicolă reprezentativă pentru sectorul agricol din regiunea Huye, contribuind la producția locală de ouă și carne. Este un punct de interes pentru agricultura modernă din Rwanda.",
+      "facts": ["Situată în Huye", "Producție avicolă", "Sursă de hrană locală", "Model de agricultură"]
+    },
+    {
+      "id": "rubavu-family-beach-life-v2",
+      "description": "O plajă populară situată pe malul Lacului Kivu, ideală pentru relaxarea familiilor și activități de recreere. Oferă vederi panoramice asupra apelor lacului.",
+      "facts": ["Pe malul Lacului Kivu", "Zonă de relaxare", "Populară pentru familii", "Acces la lac"]
+    },
+    {
+      "id": "mount-sabyinyo-nature-v2",
+      "description": "Un munte vulcanic spectaculos care marchează punctul de întâlnire al Rwandei, Ugandei și Republicii Democrate Congo. Este cunoscut pentru relieful său accidentat și biodiversitate.",
+      "facts": ["Vârf vulcanic", "Graniță triplă", "Peisaj montan accidentat", "Aria protejată"]
+    },
+    {
+      "id": "cyamudongo-forest-nature-v2",
+      "description": "O fragment de pădure tropicală străveche situată în sud-vestul Rwandei, oferind un habitat crucial pentru numeroase specii de primate. Este un sit protejat de mare valoare ecologică.",
+      "facts": ["Pădure tropicală", "Habitat de primate", "Zonă protejată", "Biodiversitate unică"]
+    },
+    {
+      "id": "lake-cyohoha-nature-v2",
+      "description": "Un lac situat în regiunea de sud a Rwandei, important pentru ecosistemele acvatice și avifauna locală. Este un loc liniștit, bogat în resurse naturale.",
+      "facts": ["Situat în sud", "Ecosistem acvatic", "Zonă pentru păsări", "Resursă naturală"]
+    },
+    {
+      "id": "kigali-hills-nature-v2",
+      "description": "Dealurile ce înconjoară orașul Kigali oferă peisaje panoramice și un microclimat plăcut. Sunt acoperite de vegetație luxuriantă și zone rezidențiale dispuse pe pante.",
+      "facts": ["Înconjoară capitala", "Peisaj deluros", "Microclimat local", "Vegetație bogată"]
+    },
+    {
+      "id": "karongi-shores-nature-v2",
+      "description": "Țărmurile orașului Karongi oferă priveliști uimitoare asupra Lacului Kivu, cu golfuri pitorești și vegetație luxuriantă. Este una dintre cele mai frumoase zone naturale din țară.",
+      "facts": ["Malul Lacului Kivu", "Zone de golfuri", "Priveliște panoramică", "Zonă naturală"]
+    },
+    {
+      "id": "karisimbi-mountain-relief-v2",
+      "description": "Cel mai înalt vârf din Rwanda, un vulcan inactiv situat în Munții Virunga. Relieful său impunător domină peisajul montan al țării.",
+      "facts": ["Cel mai înalt vârf", "Vulcan inactiv", "Munții Virunga", "Relief vulcanic"]
+    },
+    {
+      "id": "congo-nile-divide-relief-v2",
+      "description": "O creastă montană majoră ce separă bazinele hidrografice ale fluviilor Congo și Nil. Traseul este caracterizat printr-un relief variat, de la văi adânci la înălțimi considerabile.",
+      "facts": ["Creastă montană", "Bazin de separare", "Relief variat", "Peisaj geografic"]
+    },
+    {
+      "id": "mt-gahinga-relief-v2",
+      "description": "Un vulcan stins din lanțul Virunga, cu un relief blând și înconjurat de bambuși. Este cunoscut pentru frumusețea peisajului său montan.",
+      "facts": ["Vulcan stins", "Lanțul Virunga", "Relief cu bambuși", "Aria muntoasă"]
+    }
+  ]
+}

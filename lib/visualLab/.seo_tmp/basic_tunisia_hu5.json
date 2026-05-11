@@ -1,0 +1,87 @@
+{
+  "lang": "hu",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sousse-grosse-moschee-landmarks-v2",
+      "description": "Sousse történelmi központjának meghatározó épülete, az erőd jellegű Nagy Mecset.",
+      "facts": ["Sousse óvárosa", "Iszlám építészet", "Történelmi mecset"]
+    },
+    {
+      "id": "olive-grove-sfax-life-v2",
+      "description": "Sfax környéki kiterjedt olajfaligetek, Tunézia mezőgazdaságának egyik bástyája.",
+      "facts": ["Olajfaligetek", "Mezőgazdaság", "Sfax vidéke"]
+    },
+    {
+      "id": "kid-park-tunis-life-v2",
+      "description": "Családbarát kikapcsolódási helyszín a tuniszi agglomerációban.",
+      "facts": ["Családi park", "Kikapcsolódás", "Tunis"]
+    },
+    {
+      "id": "grombalia-vineyard-life-v2",
+      "description": "A Grombalia régióban elterülő szőlőültetvények, a minőségi bortermelés helyszíne.",
+      "facts": ["Szőlőültetvények", "Bortermelés", "Grombalia"]
+    },
+    {
+      "id": "sfax-fishery-life-v2",
+      "description": "Hagyományos halászati tevékenység a Sfax kikötőjében, a helyi gazdaság pillére.",
+      "facts": ["Halászat", "Sfax kikötője", "Helyi gazdaság"]
+    },
+    {
+      "id": "cap-bon-fruit-garden-life-v2",
+      "description": "Gyümölcsösökben gazdag terület a Cap Bon-félszigeten, az ország éléstára.",
+      "facts": ["Gyümölcsösök", "Cap Bon-félsziget", "Mezőgazdaság"]
+    },
+    {
+      "id": "tabarka-marine-park-life-v2",
+      "description": "Védett tengeri terület Tabarka közelében, gazdag élővilággal.",
+      "facts": ["Tengeri park", "Védett terület", "Tabarka"]
+    },
+    {
+      "id": "monastir-aquarium-life-v2",
+      "description": "Tengeri élővilágot bemutató akvárium Monastir városában.",
+      "facts": ["Tengeri élővilág", "Akvárium", "Monastir"]
+    },
+    {
+      "id": "el-djem-gardens-life-v2",
+      "description": "Hangulatos kertek az ókori amfiteátrum környezetében, El Djemben.",
+      "facts": ["Kertek", "El Djem", "Amfiteátrum környéke"]
+    },
+    {
+      "id": "bizerte-wildlife-park-life-v2",
+      "description": "Védett állatvilágot és ökoszisztémát bemutató park Bizerte közelében.",
+      "facts": ["Védett élővilág", "Park", "Bizerte"]
+    },
+    {
+      "id": "gulf-of-hammamet-nature-v2",
+      "description": "A Hammameti-öböl tengerparti ökoszisztémája, népszerű természetes partvonal.",
+      "facts": ["Hammameti-öböl", "Természetes part", "Tengeri élővilág"]
+    },
+    {
+      "id": "jebel-zaghouan-nature-v2",
+      "description": "Hegyi természetvédelmi terület, gazdag növényvilággal és túraútvonalakkal.",
+      "facts": ["Hegyi rezervátum", "Túraútvonalak", "Növényvilág"]
+    },
+    {
+      "id": "el-feija-forest-nature-v2",
+      "description": "Sűrű erdős terület Tunézia északnyugati részén, egyedi vadvilággal.",
+      "facts": ["Erdős terület", "Északnyugat-Tunézia", "Vadvilág"]
+    },
+    {
+      "id": "gulf-of-bizerte-nature-v2",
+      "description": "A Bizertai-öböl tengeri és tavi ökoszisztémája, változatos biodiverzitással.",
+      "facts": ["Bizertai-öböl", "Ökoszisztéma", "Biodiverzitás"]
+    },
+    {
+      "id": "boukornine-mountain-nature-v2",
+      "description": "Természetvédelmi terület a Boukornine-hegységben, közel Tunishoz.",
+      "facts": ["Természetvédelmi park", "Boukornine-hegység", "Tunis közelében"]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "koina-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Koina ist die östlichste Siedlung Gambias und markiert das geografische Ende des Landes im Distrikt Kantora der Upper River Region. Die Stadt liegt an einem strategischen Punkt, an dem der Gambia-Fluss tief in das Landesinnere ragt, nahe der Grenze zum Senegal. Koina fungiert als wichtiges Tor für den grenzüberschreitenden Handel und ist ein bedeutender Sammelpunkt für Vieh und landwirtschaftliche Erzeugnisse aus der Region und den Nachbarländern. Das Relief ist hier durch die typische Savannenlandschaft des oberen Flusstals geprägt, mit sandigen Böden und vereinzelten Hügeln aus Laterit. Kulturell ist Koina ein Zentrum der Soninke- und Fula-Bevölkerung, deren Traditionen und Sprachen das soziale Gefüge bestimmen. Trotz ihrer abgeschiedenen Lage hat die Stadt in den letzten Jahren durch verbesserte Straßenverbindungen an Bedeutung gewonnen und dient als wichtiger Versorgungsknotenpunkt für die ländlichen Gebiete im äußersten Osten. Die Architektur ist eine Mischung aus traditionellen Lehmbauten und modernen Einflüssen der Diaspora. Für Besucher stellt Koina den Inbegriff des gambischen Hinterlandes dar, ein Ort, an dem die Zeit langsamer zu fließen scheint und die Verbindung zu den Nachbarstaaten Westafrikas unmittelbar spürbar ist.",
+        "hu": "Koina Gambia legkeletibb települése, amely az ország földrajzi végét jelzi az Upper River régió Kantora körzetében. A város stratégiai helyen fekszik, ott, ahol a Gambia-folyó mélyen benyúlik a szárazföld belsejébe, közvetlenül a szenegáli határ szomszédságában. Koina a határon átnyúló kereskedelem egyik legfontosabb kapuja, ahol a környékről és a szomszédos országokból származó élőállatok és mezőgazdasági termékek cserélnek gazdát. A domborzatot a felső folyóvölgyre jellemző szavannai táj határozza meg, homokos talajjal és elszórt lateritdombokkal. Kulturálisan Koina a szoninke és fula népcsoportok központja, akiknek hagyományai és nyelvei alapvetően meghatározzák a közösség életét. Elszigetelt fekvése ellenére a város jelentősége nőtt az utóbbi években a javuló közúti összeköttetéseknek köszönhetően, és fontos ellátó központként szolgál a távoli keleti vidéki területek számára. Az építészet a hagyományos vályogházak és a hazatérő emigránsok modern épületeinek keveréke. Az utazók számára Koina a gambiai „világ vége”, ahol az idő lelassul, és Nyugat-Afrika népeinek kulturális összefonódása közvetlenül tapasztalható meg.",
+        "ro": "Koina este cea mai estică așezare din Gambia, marcând limita geografică a țării în districtul Kantora din regiunea Upper River. Orașul este situat într-un punct strategic unde fluviul Gambia pătrunde adânc în interiorul continentului, aproape de frontiera cu Senegalul. Koina funcționează ca o poartă vitală pentru comerțul transfrontalier, fiind un punct major de colectare pentru animale și produse agricole din regiune și din țările vecine. Relieful local este caracterizat de peisajul de savană tipic bazinului superior al fluviului, cu soluri nisipoase și dealuri izolate de laterită. Din punct de vedere cultural, Koina este un centru al populațiilor Soninke și Fula, ale căror tradiții și limbi definesc țesutul social. În ciuda izolării sale, orașul a câștigat importanță în ultimii ani datorită îmbunătățirii rețelei rutiere, servind drept nod de aprovizionare esențial pentru zonele rurale din extremul estic. Arhitectura este un amestec de construcții tradiționale din chirpici și influențe moderne aduse de diaspora locală. Pentru vizitatori, Koina reprezintă chintesența hinterlandului gambian, un loc unde ritmul vieții este dictat de natură și unde conexiunea cu statele vecine din Africa de Vest este omniprezentă.",
+        "en": "Koina is the easternmost settlement in The Gambia, marking the country's geographical terminus within the Kantora District of the Upper River Region. The town is situated at a strategic point where the Gambia River reaches deep into the interior, very close to the border with Senegal. Koina acts as a vital gateway for trans-border trade and is a significant collection hub for livestock and agricultural produce from the region and neighboring countries. The relief here is defined by the typical savanna landscape of the upper river valley, featuring sandy soils and scattered laterite hills. Culturally, Koina is a center for the Soninke and Fula populations, whose traditions and languages shape the social fabric of the community. Despite its remote location, the town has gained prominence in recent years through improved road links, serving as a critical supply node for rural areas in the far east. The architecture is a blend of traditional mud-brick structures and modern influences from the local diaspora. For visitors, Koina represents the ultimate frontier of the Gambian interior, a place where time moves slower and the cultural interconnectedness of West African nations is directly palpable."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koina ist der östlichste bewohnte Ort Gambias.",
+          "Die Stadt liegt etwa 450 Kilometer von der Hauptstadt Banjul entfernt.",
+          "Koina ist ein bedeutender Umschlagplatz für Rinder aus Guinea und Senegal.",
+          "Ein Großteil der Bevölkerung gehört zur Volksgruppe der Soninke.",
+          "In Koina endet die asphaltierte Hauptstraße des Nordufers.",
+          "Die Stadt ist bekannt für ihre traditionellen islamischen Gelehrten."
+        ],
+        "hu": [
+          "Koina a Kantora körzet adminisztratív és kereskedelmi végpontja.",
+          "A város környékén találhatók Gambia legmagasabb pontjai a folyópart mentén.",
+          "A helyi piac a határon átnyúló kereskedelem egyik motorja.",
+          "Koina híres a szoninke közösség vendégszeretetéről.",
+          "A település fontos bázisa a regionális egészségügyi kampányoknak.",
+          "A város neve a helyi dialektusban 'tisztást' vagy 'nyílt helyet' jelent."
+        ],
+        "ro": [
+          "Koina este punctul terminus pentru transportul rutier de lungă distanță din est.",
+          "Relieful este dominat de câmpia aluvionară fertilă a fluviului Gambia.",
+          "Localitatea este sediul unor importante școli coranice din regiune.",
+          "Koina are o legătură strânsă cu localitățile senegaleze de peste frontieră.",
+          "Arhitectura tradițională din Koina utilizează blocuri de pământ comprimat.",
+          "Este un centru major pentru producția artizanală de textile în estul țării."
+        ],
+        "en": [
+          "Koina marks the furthest point inland accessible by the Gambian road network.",
+          "The town is a major contributor to the national livestock trade statistics.",
+          "It serves as a primary logistical base for cross-border migration monitoring.",
+          "The area is known for its high-quality hand-woven Soninke blankets.",
+          "Koina features significant archaeological sites from the pre-colonial era.",
+          "The town acts as a cultural bridge between Gambia and the upper Senegal basin."
+        ]
+      }
+    },
+    {
+      "id": "sabi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sabi ist eine strategisch wichtige Grenzstadt im Distrikt Fulladu East der Upper River Region Gambias, unmittelbar an der Grenze zu Senegal gelegen. Die Stadt ist bekannt als einer der bedeutendsten Transitpunkte für Waren und Personen im Osten des Landes. Sabi fungiert als lebhafter Marktplatz, auf dem Händler aus der gesamten Region zusammenkommen, um Textilien, Elektronik und landwirtschaftliche Produkte zu tauschen. Geografisch liegt Sabi in einer flachen Savannenlandschaft, die durch das Relief der oberen Flussregion geprägt ist, mit fruchtbaren Böden, die intensiv für den Anbau von Erdnüssen und Getreide genutzt werden. Die Stadt ist ein Schmelztiegel der Kulturen, in dem die Volksgruppen der Fula und Soninke dominieren und das soziale Leben durch Handel und religiöse Traditionen geprägt wird. In den letzten Jahren hat Sabi durch den Ausbau der Infrastruktur und die Modernisierung der Grenzanlagen an Bedeutung gewonnen. Die Architektur spiegelt den wirtschaftlichen Erfolg der lokalen Händler wider, mit einer Mischung aus soliden Betonbauten und traditionellen Compounds. Für Reisende ist Sabi der letzte Kontaktpunkt mit Gambia vor dem Übertritt nach Senegal und ein Ort, der die enge wirtschaftliche Verflechtung der Nachbarstaaten versinnbildlicht.",
+        "hu": "Sabi egy stratégiai fontosságú határváros a Fulladu East körzetben, Gambia Upper River régiójában, közvetlenül a szenegáli határ mentén. A város az ország keleti részének egyik legjelentősebb tranzitpontja az áruk és személyek forgalmában. Sabi vibráló piacként funkcionál, ahol a régió minden részéből érkező kereskedők cserélnek gazdát textíliákkal, elektronikai cikkekkel és mezőgazdasági termékekkel. Földrajzi elhelyezkedése a felső folyószakaszra jellemző lapos szavannai tájon található, ahol a termékeny talajt intenzíven használják földimogyoró és gabonafélék termesztésére. A város a kultúrák olvasztótégelye, ahol a fula és szoninke népcsoportok dominálnak, a társadalmi életet pedig a kereskedelem és a vallási hagyományok határozzák meg. Az utóbbi években Sabi jelentősége nőtt az infrastruktúra fejlesztésének és a határállomások korszerűsítésének köszönhetően. Az építészet tükrözi a helyi kereskedők gazdasági sikereit, a masszív betonépületek és a hagyományos udvarok keverékével. Az utazók számára Sabi az utolsó megállóhely Gambiában a Szenegálba való átlépés előtt, és egy olyan hely, amely jól szemlélteti a szomszédos államok szoros gazdasági összefonódását.",
+        "ro": "Sabi este un oraș de frontieră strategic situat în districtul Fulladu East din regiunea Upper River a Gambiei, chiar la limita cu Senegalul. Localitatea este recunoscută drept unul dintre cele mai importante puncte de tranzit pentru mărfuri și persoane din estul țării. Sabi funcționează ca o piață efervescentă unde comercianți din întreaga regiune se adună pentru a schimba textile, produse electronice și bunuri agricole. Din punct de vedere geografic, Sabi ocupă o zonă de savană plană, tipică bazinului superior al fluviului, cu soluri fertile utilizate intensiv pentru culturile de arahide și cereale. Orașul este un creuzet cultural unde predomină etniile Fula și Soninke, viața socială fiind modelată de comerț și tradiții religioase. În ultimii ani, Sabi a câștigat în importanță datorită modernizării infrastructurii și a facilităților vamale. Arhitectura reflectă succesul economic al comercianților locali, prezentând un mix între construcții solide din beton și curți tradiționale. Pentru călători, Sabi reprezintă ultimul punct de contact cu Gambia înainte de a trece în Senegal, fiind un simbol al interdependenței economice strânse dintre cele două state vecine.",
+        "en": "Sabi is a strategically important border town in the Fulladu East District of The Gambia’s Upper River Region, situated directly on the frontier with Senegal. The town is recognized as one of the most significant transit points for goods and people in the eastern part of the country. Sabi functions as a bustling marketplace where traders from across the region congregate to exchange textiles, electronics, and agricultural products. Geographically, Sabi lies in a flat savanna landscape characteristic of the upper river region, with fertile soils used intensively for groundnut and cereal farming. The town is a cultural melting pot dominated by the Fula and Soninke ethnic groups, with social life centered around commerce and religious traditions. In recent years, Sabi has grown in prominence due to infrastructure expansion and the modernization of border facilities. The architecture reflects the economic success of local merchants, featuring a blend of sturdy concrete buildings and traditional family compounds. For travelers, Sabi is the final Gambian landmark before entering Senegal, serving as a symbol of the close economic ties between the neighboring West African nations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sabi ist der wichtigste Grenzübergang zwischen der Upper River Region und dem Senegal.",
+          "Die Stadt liegt nur etwa 10 Kilometer südlich von Basse Santa Su.",
+          "Sabi ist ein bedeutendes Zentrum für den informellen Außenhandel.",
+          "Die Mehrheit der Bevölkerung gehört zur Volksgruppe der Fula.",
+          "Die Stadt verfügt über eine moderne Zoll- und Einreiseanlage.",
+          "Der Markt von Sabi ist bekannt für seine Auswahl an importierten Stoffen."
+        ],
+        "hu": [
+          "Sabi Gambia egyik legforgalmasabb szárazföldi határátkelőhelye.",
+          "A város környéke híres a minőségi szarvasmarha-tenyésztéséről.",
+          "Itt található a régió egyik legfontosabb közúti ellenőrző pontja.",
+          "Sabi lakossága aktívan részt vesz a szenegáli és gambiai kereskedelmi hálózatokban.",
+          "A településen több nagykereskedelmi raktárközpont működik.",
+          "A város neve a helyi dialektusban 'kereskedelmi kaput' jelenthet."
+        ],
+        "ro": [
+          "Sabi este situat pe ruta directă către orașul senegalez Velingara.",
+          "Relieful plat favorizează tranzitul camioanelor de mare tonaj.",
+          "Localitatea este un punct cheie pentru monitorizarea comerțului cu arahide.",
+          "Sabi găzduiește sedii ale unor agenții de transport internațional.",
+          "Economia locală este una dintre cele mai dinamice din estul Gambiei.",
+          "Atmosfera orașului este marcată de un bilingvism activ (engleză și franceză)."
+        ],
+        "en": [
+          "Sabi is a primary hub for cross-border currency exchange in eastern Gambia.",
+          "The town features some of the best-developed private housing in rural URR.",
+          "It acts as a strategic buffer for Gambian customs and security operations.",
+          "Sabi is a major distribution point for goods coming from the port of Banjul.",
+          "The local community is renowned for its entrepreneurial and trading skills.",
+          "The border post at Sabi is one of the most technologically advanced in the region."
+        ]
+      }
+    },
+    {
+      "id": "gambissara-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Gambissara ist eine bedeutende und traditionsreiche Stadt im Distrikt Fulladu East der Upper River Region Gambias, nahe der Grenze zum Senegal. Sie ist vor allem als eines der größten und einflussreichsten Zentren der Soninke-Bevölkerung (auch Sarahule genannt) im Land bekannt. Gambissara zeichnet sich durch seinen bemerkenswerten wirtschaftlichen Wohlstand aus, der primär auf den Erfolg der Diaspora und den weitreichenden Handel der Bewohner zurückzuführen ist. Geografisch liegt die Stadt in einer sanft gewellten Savannenlandschaft, die für die Landwirtschaft, insbesondere für den Anbau von Hirse und die Viehzucht, genutzt wird. Ein markantes Merkmal von Gambissara ist die beeindruckende Architektur; die Stadt beherbergt zahlreiche großzügige und moderne Villen, die oft von im Ausland lebenden Bürgern finanziert wurden und in starkem Kontrast zur ländlichen Umgebung stehen. Kulturell ist Gambissara ein Hort traditioneller Werte, in dem Bildung, Religion und Gemeinschaftssinn einen sehr hohen Stellenwert haben. Die Stadt ist zudem ein Zentrum für religiöse Gelehrsamkeit und beherbergt mehrere renommierte Koranschulen. Wirtschaftlich fungiert Gambissara als wichtiger Handelsplatz für grenzüberschreitende Geschäfte. Für Besucher bietet die Stadt einen faszinierenden Einblick in die Verbindung zwischen traditioneller afrikanischer Gemeinschaftsstruktur und globalem wirtschaftlichem Erfolg.",
+        "hu": "Gambissara egy jelentős és nagy múltú város a Fulladu East körzetben, Gambia Upper River régiójában, a szenegáli határ közelében. A település az ország szoninke (vagy más néven sarahule) lakosságának egyik legnagyobb és legbefolyásosabb központja. Gambissara híres rendkívüli gazdasági erejéről, amely elsősorban a külföldön élő diaszpóra támogatásának és a lakók kiterjedt kereskedelmi tevékenységének köszönhető. Földrajzilag a város egy enyhén hullámzó szavannai tájon fekszik, ahol a mezőgazdaság, különösen a kölestermesztés és az állattenyésztés a meghatározó. A városkép egyik legfeltűnőbb jellemzője a lenyűgöző építészet: számos hatalmas és modern villa található itt, amelyeket a külföldön dolgozó helyiek építtettek, éles kontrasztot alkotva a környező vidéki tájjal. Kulturálisan Gambissara a hagyományos értékek őrzője, ahol az oktatás, a vallás és a közösségi összetartozás központi szerepet játszik. A város neves iszlám oktatási központ is, több tekintélyes iskolának ad otthont. Gazdaságilag Gambissara fontos szerepet tölt be a határon átnyúló kereskedelemben, összekötve a térség piacait. Az idelátogatók számára a város kiváló példája annak, hogyan ötvöződik a hagyományos afrikai társadalmi rend a globális gazdasági sikerekkel.",
+        "ro": "Gambissara este un oraș major și încărcat de tradiție situat în districtul Fulladu East din regiunea Upper River a Gambiei, în proximitatea frontierei cu Senegalul. Localitatea este recunoscută drept unul dintre cele mai mari și influente centre ale populației Soninke (cunoscuți și ca Sarahule) din țară. Gambissara se distinge printr-o prosperitate economică remarcabilă, susținută în principal de succesul diasporei locale și de rețelele comerciale extinse ale locuitorilor săi. Geografia orașului este marcată de un relief ușor ondulat de savană, utilizat pentru agricultură, în special pentru cultivarea meiului și creșterea animalelor. O trăsătură arhitecturală distinctivă a orașului Gambissara este prezența a numeroase vile moderne și spațioase, finanțate adesea de cetățenii stabiliți în străinătate, care contrastează puternic cu mediul rural înconjurător. Din punct de vedere cultural, Gambissara este un bastion al valorilor tradiționale, unde educația, religia și spiritul comunitar sunt prioritare. Orașul este, de asemenea, un centru de învățătură religioasă, găzduind mai multe școli coranice de prestigiu. Din punct de her economic, Gambissara funcționează ca o piață importantă pentru afacerile transfrontaliere. Pentru vizitatori, orașul oferă o perspectivă fascinantă asupra simbiozei dintre structurile comunitare africane tradiționale și succesul economic la scară globală.",
+        "en": "Gambissara is a significant and tradition-rich town in the Fulladu East District of The Gambia’s Upper River Region, located near the border with Senegal. It is primarily known as one of the largest and most influential centers for the Soninke people (also known as Sarahule) in the country. Gambissara is distinguished by its remarkable economic prosperity, largely driven by the success of its diaspora and the extensive trading networks of its residents. Geographically, the town is situated in a gently undulating savanna landscape utilized for agriculture, particularly millet farming and livestock rearing. A striking feature of Gambissara is its impressive architecture; the town is home to numerous spacious and modern villas, often funded by citizens living abroad, which stand in sharp contrast to the surrounding rural setting. Culturally, Gambissara is a stronghold of traditional values, where education, religion, and community spirit are highly esteemed. The town is also a hub for religious scholarship, hosting several renowned Quranic schools. Economically, Gambissara serves as an important marketplace for cross-border commerce. For visitors, the town provides a fascinating insight into the connection between traditional African communal structures and global economic success."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gambissara ist eine der wohlhabendsten ländlichen Städte Gambias.",
+          "Die Stadt gilt als kulturelles Kraftzentrum des Sarahule-Volkes.",
+          "Hier befindet sich eine der höchsten Dichten an modernen Privatvillen in der URR.",
+          "Gambissara liegt strategisch günstig für den Handel mit dem Senegal.",
+          "Die Stadt ist bekannt für ihre strengen gemeinschaftlichen Regeln und Ordnung.",
+          "Bildung und religiöse Institutionen werden massiv durch die Diaspora gefördert."
+        ],
+        "hu": [
+          "Gambissara híres a nagyarányú közösségi összefogásáról és önsegélyező köreiről.",
+          "A városban található Gambia egyik legszebb magánfinanszírozású mecsetje.",
+          "A település lakói jelentős szerepet játszanak a nemzeti bankszektorban.",
+          "Gambissara környéke az ország egyik legfontosabb gabonatermelő vidéke.",
+          "A város építészete a nyugat-afrikai és az európai stílusjegyek keveréke.",
+          "A város neve a helyi szoninke nyelvjárásból ered."
+        ],
+        "ro": [
+          "Gambissara este renumit pentru rata scăzută a criminalității datorită controlului comunitar.",
+          "Relieful local include zone de platou potrivite pentru pășunatul bovinelor.",
+          "Localitatea găzduiește sedii ale unor asociații de afaceri Sarahule foarte influente.",
+          "Este considerat un model de dezvoltare rurală prin investiții private.",
+          "Gambissara servește drept punct de colectare pentru produsele agricole de export.",
+          "Orașul are un sistem propriu de întreținere a drumurilor locale finanțat de comunitate."
+        ],
+        "en": [
+          "Gambissara is a major center for the regional trade of textiles and spices.",
+          "The town features some of the highest levels of solar energy adoption in URR.",
+          "It acts as a primary hub for Soninke cultural and language preservation.",
+          "Gambissara is a significant contributor to the Gambian national economy via remittances.",
+          "The area is known for its high-quality artisanal craftsmanship in metalwork.",
+          "The town’s community leaders are highly respected in national political circles."
+        ]
+      }
+    },
+    {
+      "id": "banjul-sea-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Seehafen von Banjul (Port of Banjul) ist das ökonomische Rückgrat Gambias und das wichtigste Tor des Landes zum internationalen Handel. Geografisch liegt der Hafen an der Mündung des Gambia-Flusses in den Atlantik, an der Südseite der Halbinsel von Banjul. Diese strategische Lage ermöglicht den Zugang zu den globalen Schifffahrtswegen und macht den Hafen zu einem zentralen logistischen Knotenpunkt für Westafrika. Der Hafen wird von der Gambia Ports Authority (GPA) verwaltet und wurde in den letzten Jahrzehnten mehrfach modernisiert, um den steigenden Anforderungen des Containerverkehrs gerecht zu werden. Wirtschaftlich ist der Hafen von Banjul unverzichtbar; fast der gesamte Außenhandel Gambias, von Lebensmitteln und Treibstoffen bis hin zu Maschinen und Exportgütern wie Erdnüssen, wird hier abgewickelt. Zudem fungiert der Hafen als wichtiges Transit-Drehkreuz für Binnenländer wie Mali und Guinea. Das Relief des Hafengebiets ist durch künstliche Aufschüttungen und tiefe Fahrrinnen geprägt, die den Tiefgang großer Frachter ermöglichen. Die geschäftige Atmosphäre mit riesigen Krananlagen und Frachtschiffen ist ein Symbol für die wirtschaftliche Vitalität der Hauptstadt. Der Hafen spielt zudem eine entscheidende Rolle für die nationale Beschäftigung und die Einnahmen des Staates durch Zölle und Hafengebühren.",
+        "hu": "A banjuli kikötő (Port of Banjul) Gambia gazdasági gerincoszlopa és az ország legfontosabb kapuja a nemzetközi kereskedelem felé. Földrajzi elhelyezkedése stratégiai: a Gambia-folyó torkolatánál, a Banjul-félsziget déli oldalán található, közvetlen kijárattal az Atlanti-óceánra. Ez a fekvés lehetővé teszi a globális hajózási útvonalakhoz való kapcsolódást, és Nyugat-Afrika egyik fontos logisztikai csomópontjává teszi a kikötőt. A létesítményt a Gambiai Kikötői Hatóság (GPA) felügyeli, és az utóbbi évtizedekben jelentős modernizáción ment keresztül, hogy kiszolgálja a növekvő konténerforgalmat. Gazdaságilag a banjuli kikötő nélkülözhetetlen; az ország külkereskedelmének szinte egésze – az élelmiszerektől az üzemanyagokon át a gépekig és az exportcikkekig, mint a földimogyoró – itt halad keresztül. Emellett a kikötő fontos tranzitközpontként is szolgál a tengerparttal nem rendelkező szomszédos országok, például Mali számára. A kikötői terület domborzatát mesterséges feltöltések és mélyített hajózóutak határozzák meg, amelyek lehetővé teszik a nagy merülésű teherhajók fogadását. A hatalmas daruk és a folyamatosan érkező óceánjárók látványa a főváros gazdasági erejének jelképe. A kikötő emellett kulcsszerepet játszik a nemzeti foglalkoztatásban és az állami bevételek generálásában a vámszedésen és a kikötői díjakon keresztül.",
+        "ro": "Portul Banjul (Port of Banjul) reprezintă coloana vertebrală economică a Gambiei și cea mai importantă poartă a țării către comerțul internațional. Situat geografic la gura de vărsare a fluviului Gambia în Atlantic, pe partea sudică a peninsulei Banjul, portul ocupă o poziție strategică ce facilitează accesul la rutele maritime globale. Administrat de Autoritatea Portuară din Gambia (GPA), complexul a beneficiat de multiple etape de modernizare pentru a face față cererii crescute de trafic de containere. Din punct de vedere economic, portul este vital; aproape întregul comerț exterior al națiunii, de la alimente și combustibili până la echipamente industriale și produse de export precum arahidele, tranzitează această facilitate. De asemenea, portul Banjul servește drept hub logistic esențial pentru țările vecine fără ieșire la mare, precum Mali. Relieful zonei portuare este modelat prin dragări constante și rampe artificiale pentru a permite accesul navelor de mare tonaj. Atmosfera vibrantă, dominată de macarale gigantice și fluxul continuu de mărfuri, este un simbol al vitalității economice a capitalei. Portul joacă un rol decisiv în asigurarea veniturilor bugetare prin taxe vamale și servicii logistice, fiind cel mai mare angajator din sectorul formal al țării.",
+        "en": "The Port of Banjul is the economic backbone of The Gambia and the nation's primary gateway to international trade. Geographically located at the mouth of the Gambia River on the southern side of the Banjul peninsula, the port occupies a strategic position that facilitates access to global shipping lanes and makes it a vital logistical hub for West Africa. Managed by the Gambia Ports Authority (GPA), the facility has undergone significant modernization in recent decades to handle the increasing volume of container traffic. Economically, the Port of Banjul is indispensable; nearly all of The Gambia’s foreign trade—ranging from food and fuel to machinery and key exports like groundnuts—passes through this port. Additionally, it serves as an important transit corridor for landlocked neighboring countries such as Mali. The port area’s relief is characterized by reclaimed land and deep-water channels that accommodate large ocean-going vessels. The bustling atmosphere, defined by massive cranes and constant cargo operations, symbolizes the economic vitality of the capital. The port is a crucial driver of national employment and a major source of state revenue through customs duties and maritime fees."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen von Banjul ist der einzige Tiefwasserhafen des Landes.",
+          "Er wird von der staatlichen Gambia Ports Authority (GPA) betrieben.",
+          "Der Hafen ist ein wichtiges Drehkreuz für den Transithandel nach Mali.",
+          "Containerumschlag macht heute den Großteil der Hafenaktivitäten aus.",
+          "Die strategische Lage an der Flussmündung bietet Schutz vor offenem Seegang.",
+          "Der Hafen ist der größte formelle Arbeitgeber in der Hauptstadt Banjul."
+        ],
+        "hu": [
+          "A banjuli kikötő Gambia nemzeti GDP-jének jelentős részét termeli.",
+          "A kikötőben található az ország legfontosabb vámszabad területe.",
+          "A létesítmény modern olajterminállal is rendelkezik az üzemanyag-behozatalhoz.",
+          "A kikötő bővítése kulcsfontosságú eleme a nemzeti fejlesztési tervnek.",
+          "Itt rakodják hajóra Gambia fő exporttermékét, a földimogyorót.",
+          "A kikötő mélyvize akár 10-12 méteres merülésű hajókat is fogadhat."
+        ],
+        "ro": [
+          "Portul Banjul a fost modernizat recent cu sprijinul Băncii Africane de Dezvoltare.",
+          "Capacitatea de stocare a containerelor a crescut masiv după anul 2010.",
+          "Este considerat unul dintre cele mai sigure porturi din Golful Guineei.",
+          "Portul oferă servicii de reparații navale și mentenanță de bază.",
+          "Traficul de tranzit transfrontalier reprezintă circa 20% din volumul portului.",
+          "Geografia portului permite operarea navelor de tip Ro-Ro (Roll-on/Roll-off)."
+        ],
+        "en": [
+          "The Port of Banjul is a primary regional node for the West African coastal trade.",
+          "It features specialized wharves for the export of agricultural bulk goods.",
+          "The facility is undergoing digital transformation for faster cargo clearing.",
+          "It serves as the main arrival point for essential humanitarian aid to the region.",
+          "The port's strategic location minimizes vessel turnaround time.",
+          "Nearby naval installations provide security for the port operations."
+        ]
+      }
+    },
+    {
+      "id": "banjul-fisheries-jetty-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereihafen von Banjul (Banjul Fisheries Jetty) ist eine zentrale Einrichtung der maritimen Wirtschaft Gambias und das Herzstück der industriellen und semi-industriellen Fischerei des Landes. Geografisch liegt der Jetty an der Südostküste der Banjul-Halbinsel, geschützt durch die Mündung des Gambia-Flusses. Diese Anlage wurde speziell errichtet, um den Fischfang zu professionalisieren und die hygienische Verarbeitung der Meeresressourcen zu gewährleisten. Der Jetty dient als Anlandestation für mittelgroße Trawler und größere Pirogen, die die fischreichen Gewässer des Atlantiks und des Ästuars befischen. Wirtschaftlich spielt der Standort eine entscheidende Rolle für die Ernährungssicherheit des Großraums Banjul und für den Export von Fischprodukten nach Europa und Asien. Vor Ort befinden sich moderne Kühlhäuser, Eiswerke und Anlagen zur Fischverarbeitung, die oft in öffentlich-privaten Partnerschaften betrieben werden. Die Aktivität am Jetty ist geprägt durch den Rhythmus der Gezeiten und die Rückkehr der Flotten in den frühen Morgenstunden. Das Relief des Geländes ist künstlich befestigt, um schwere Lasten und die Logistik des Fischtransports zu bewältigen. Für Gambia ist der Fisheries Jetty ein Symbol für die Modernisierung des Fischereisektors und ein wichtiger Ort für die Schaffung von Arbeitsplätzen im maritimen Bereich.",
+        "hu": "A banjuli halászkikötő (Banjul Fisheries Jetty) Gambia tengeri gazdaságának egyik legfontosabb létesítménye, amely az ipari és félipari halászat központja. Földrajzi elhelyezkedése a Banjul-félsziget délkeleti partján, a Gambia-folyó torkolatának védett vizében található. Ezt a speciális rakpartot azért hozták létre, hogy professzionális keretet biztosítsanak a halászatnak és garantálják a tengeri erőforrások higiénikus feldolgozását. A kikötő közepes méretű halászhajókat és nagyobb pirogákat fogad, amelyek az Atlanti-óceán és a torkolatvidék gazdag vizeit járják. Gazdaságilag a helyszín kulcsszerepet játszik a nagy-banjuli térség élelmezésbiztonságában, valamint a haltermékek Európába és Ázsiába irányuló exportjában. A területen modern hűtőházak, jéggyárak és halfeldolgozó üzemek működnek, amelyek jelentős részben köz- és magánszféra partnerségben (PPP) üzemelnek. A kikötő élete az árapályhoz és a hajók hajnali visszatéréséhez igazodik. A domborzatot itt a megerősített partfalak és a logisztikai utak határozzák meg, amelyeket a nagy teherforgalomhoz alakítottak ki. Gambia számára a halászkikötő a szektor modernizációjának jelképe és a tengeri munkahelyteremtés egyik legfontosabb bázisa.",
+        "ro": "Debarcaderul de Pescuit din Banjul (Banjul Fisheries Jetty) este o facilitate centrală a economiei maritime gambiene, reprezentând inima pescuitului industrial și semi-industrial al țării. Situat geografic pe coasta sud-estică a peninsulei Banjul, protejat de apele estuarului, acest debarcader a fost construit special pentru a profesionaliza descărcarea și procesarea resurselor marine. Infrastructura permite acostarea traulerelor de talie medie și a pirogilor mari care exploatează apele bogate ale Atlanticului. Din punct de vedere economic, locația este esențială pentru securitatea alimentară a zonei metropolitane și pentru exportul de pește către piețele internaționale. Complexul include depozite frigorifice moderne, fabrici de gheață și unități de prelucrare, fiind un motor de creștere pentru industria alimentară locală. Activitatea la debarcader este intensă în zorii zilei, când capturile sunt sortate și direcționate către piețe sau export. Relieful zonei este unul artificial, construit pentru a suporta traficul greu și logistica necesară lanțului de frig. Pentru Gambia, Banjul Fisheries Jetty simbolizează eforturile de modernizare a sectorului primar și este un punct cheie pentru generarea de locuințe și venituri în sectorul maritim.",
+        "en": "The Banjul Fisheries Jetty is a cornerstone of The Gambia’s maritime economy, serving as the primary hub for the nation's industrial and semi-industrial fishing sectors. Geographically positioned on the southeastern shore of the Banjul peninsula, it is well-sheltered within the Gambia River estuary. This purpose-built facility was designed to professionalize fish landing and ensure high standards of hygiene in the processing of marine resources. The jetty accommodates mid-sized trawlers and large artisanal pirogues that harvest the nutrient-rich waters of the Atlantic and the river mouth. Economically, the site is vital for the food security of the Greater Banjul Area and for the export of high-value fish products to European and Asian markets. The area is equipped with modern cold storage units, ice-making plants, and fish processing factories, many of which operate under public-private partnerships. Daily life at the jetty is governed by the tides and the early-morning return of the fishing fleets. The terrain is artificially stabilized and reinforced to support the logistics and heavy transport required for the fishing industry. For The Gambia, the Fisheries Jetty stands as a symbol of sectoral modernization and a major employer in the maritime and logistics fields."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Fisheries Jetty wurde mit internationaler Unterstützung (z.B. Japan) modernisiert.",
+          "Er ist der Hauptanlandepunkt für industrielle Fischereifahrzeuge in Gambia.",
+          "Der Standort verfügt über spezialisierte Anlagen zur Herstellung von Blockeis.",
+          "Fisch ist nach Erdnüssen das wichtigste Exportgut des Landes.",
+          "Der Jetty liegt in unmittelbarer Nähe zum Hauptseehafen von Banjul.",
+          "Hier werden strenge Qualitätskontrollen für den Exportmarkt durchgeführt."
+        ],
+        "hu": [
+          "A halászkikötő modernizálása nagyban hozzájárult a higiéniai szabványok javításához.",
+          "A területen több tucat kisebb halfeldolgozó vállalkozás telepedett meg.",
+          "A kikötő vize a folyó közelsége miatt kevésbé sós, mint a nyílt óceáné.",
+          "Itt található Gambia legnagyobb kapacitású hűtőházi komplexuma.",
+          "A helyszín fontos bázisa a tengeri járőrszolgálatoknak is.",
+          "A kikötő neve a helyi gazdasági köznyelvben 'Banjul Jetty'-ként ismert."
+        ],
+        "ro": [
+          "Jetty-ul de pescuit din Banjul este administrat de Ministerul Pescuitului.",
+          "Facilitatea permite încărcarea directă a peștelui în camioane frigorifice.",
+          "Este un punct major de colectare a creveților pentru piața europeană.",
+          "Relieful stabilizat a prevenit eroziunea malului în această zonă critică.",
+          "Debarcaderul joacă un rol în instruirea tinerilor în tehnici de navigație.",
+          "Activitatea economică aici este maximă în timpul sezonului de pescuit la sardinele."
+        ],
+        "en": [
+          "The Banjul Fisheries Jetty is a key site for the Gambia's blue economy strategy.",
+          "It features a dedicated laboratory for testing fish quality standards.",
+          "The jetty acts as a major link between artisanal fishers and industrial processors.",
+          "It provides essential fuel and water services for marine vessels.",
+          "The area is known for its high concentration of logistics and shipping agents.",
+          "The facility supports the livelihoods of thousands of people in the value chain."
+        ]
+      }
+    }
+  ]
+}

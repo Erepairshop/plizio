@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cal-madow-mountains-nature-v2",
+      "description": "High-altitude mountain range in northern Somalia featuring diverse vegetation and cool climate.",
+      "facts": ["Northern mountain range", "Diverse forest ecosystems", "Cool highland climate", "High biodiversity site"]
+    },
+    {
+      "id": "golis-mountains-nature-v2",
+      "description": "Prominent escarpment range providing essential watershed functions for northern regions.",
+      "facts": ["Northern escarpment", "Watershed protection area", "Steep terrain features", "Varied vegetation zones"]
+    },
+    {
+      "id": "darin-island-nature-v2",
+      "description": "Coastal island known for its marine biodiversity and relative seclusion in the Indian Ocean.",
+      "facts": ["Indian Ocean island", "Marine wildlife habitat", "Uninhabited coastal area", "Coral reef proximity"]
+    },
+    {
+      "id": "bajuni-islands-nature-v2",
+      "description": "Archipelago off the southern coast famous for unique marine ecosystems and lush flora.",
+      "facts": ["Southern coastal chain", "Marine habitat diversity", "Archipelago geography", "Rich coastal waters"]
+    },
+    {
+      "id": "maydh-coast-nature-v2",
+      "description": "Stunning coastal region where mountainous terrain descends directly into the sea.",
+      "facts": ["Northern coastal area", "Mountain-sea transition", "Scenic cliff landscape", "Marine resources"]
+    },
+    {
+      "id": "hordio-lagoon-nature-v2",
+      "description": "Important coastal lagoon serving as a vital stopover for various migratory bird species.",
+      "facts": ["Coastal lagoon system", "Bird migration stop", "Salt-tolerant plants", "Biodiverse wetlands"]
+    },
+    {
+      "id": "ras-casir-nature-v2",
+      "description": "Easternmost tip of the Horn of Africa, marked by rugged coastal features and marine currents.",
+      "facts": ["Horn of Africa cape", "Rugged coastal topography", "Strategic marine point", "Coastal biodiversity"]
+    },
+    {
+      "id": "ayaha-valley-nature-v2",
+      "description": "Valley region characterized by seasonal watercourses and typical arid savanna vegetation.",
+      "facts": ["Arid valley system", "Seasonal water flows", "Savanna flora zone", "Local wildlife habitat"]
+    },
+    {
+      "id": "gacan-libaah-nature-v2",
+      "description": "Elevated forest plateau offering unique micro-climates within an otherwise dry environment.",
+      "facts": ["Forest mountain plateau", "Unique micro-climate", "Highland flora site", "Regional nature hub"]
+    },
+    {
+      "id": "xaysimo-nature-v2",
+      "description": "Extensive semi-arid region known for its pastoral rangelands and resilient scrub vegetation.",
+      "facts": ["Semi-arid rangeland", "Scrubland ecosystem", "Pastoral landscape", "Drought-resistant flora"]
+    }
+  ]
+}

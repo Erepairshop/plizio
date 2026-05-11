@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "Valle de Osúa in Jinotega is a fertile valley, surrounded by mountains and known for its agriculture.",
+      "facts": ["Fertile valley", "Jinotega", "Agriculture"]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "description": "Meseta de Jinotega is a highland plateau, known for its cool climate coffee cultivation and mountainous landscapes.",
+      "facts": ["Highland plateau", "Coffee cultivation", "Mountainous landscapes"]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "description": "Cerro La Quinta in Matagalpa is a mountain known for its hiking trails and panoramic views.",
+      "facts": ["Mountain", "Hiking trails", "Panoramic views"]
+    }
+  ]
+}

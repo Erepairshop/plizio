@@ -1,0 +1,76 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ciudad-juarez-cities-v2",
+      "description": "Ciudad Juárez is a border city in northern Mexico, known for its maquiladoras and vibrant cultural exchange with the US.",
+      "facts": ["US border city", "Industrial hub", "Cultural diversity"]
+    },
+    {
+      "id": "saltillo-cities-v2",
+      "description": "Saltillo is the capital of Coahuila state, famous for its dinosaur fossils and sarape weaving traditions.",
+      "facts": ["Coahuila capital", "Dinosaur fossils", "Sarape weaving"]
+    },
+    {
+      "id": "mayapan-history-v2",
+      "description": "Mayapán is a post-Classic Maya archaeological site in Yucatán, once a major political and cultural center.",
+      "facts": ["Maya archaeological site", "Post-Classic period", "Political center"]
+    },
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "Chapultepec Zoo in Mexico City is one of the oldest and largest zoos globally, home to a wide array of species.",
+      "facts": ["Oldest and largest zoo", "Mexico City", "Diverse species"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "San Juan de Aragón Zoo in Mexico City focuses on native fauna conservation and environmental education.",
+      "facts": ["Native fauna", "Environmental education", "Mexico City"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "Guadalajara Zoo is a leading zoo in Mexico, featuring modern facilities and successful conservation programs.",
+      "facts": ["Leading zoo", "Guadalajara", "Conservation programs"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Acuario Inbursa in Mexico City is one of Latin America's largest aquariums, showcasing diverse marine life.",
+      "facts": ["Largest in Latin America", "Marine life", "Mexico City"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Xcaret Park in Riviera Maya is an eco-archaeological theme park blending nature, culture, and adventure.",
+      "facts": ["Eco-archaeological park", "Riviera Maya", "Nature and culture"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Africam Safari in Puebla is a drive-through safari park where animals roam freely in natural habitats.",
+      "facts": ["Drive-through safari", "Puebla", "Free-roaming animals"]
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": "Bioparque Estrella is a large wildlife park in Mexico offering safari tours and various animal encounters.",
+      "facts": ["Large wildlife park", "Safari tours", "Animal encounters"]
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": "The Monarch Butterfly Biosphere Reserve is a UNESCO World Heritage site, winter home to millions of monarch butterflies.",
+      "facts": ["UNESCO site", "Monarch butterflies", "Wintering habitat"]
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": "Sian Ka'an is a UNESCO Biosphere Reserve in Yucatán, featuring Mayan ruins, mangroves, and diverse wildlife.",
+      "facts": ["UNESCO Biosphere Reserve", "Mayan ruins", "Diverse wildlife"]
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": "Calakmul Biosphere Reserve in Campeche is one of Mexico's largest and best-preserved rainforest areas.",
+      "facts": ["Rainforest", "Campeche", "Rich biodiversity"]
+    }
+  ]
+}

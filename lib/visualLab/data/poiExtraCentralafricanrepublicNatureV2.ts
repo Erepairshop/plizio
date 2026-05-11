@@ -235,7 +235,7 @@ export const poiExtraCentralafricanrepublicNatureV2: POI[] = [
       en: "The Mambéré River is a major watercourse in the western Central African Republic, known for its association with the diamond and gold mining regions. It flows through hilly terrain, shaping the landscape and providing a primary source of water for both mining operations and surrounding forest-based communities. Geography K7 — River systems and minerals."
     },
     factsAdvanced: {
-      en: ["Major river in the western region.", "Associated with mining-rich zones.", "Flows through rugged, hilly terrain.", "Provides water for mineral extraction.", "Supports forest-based local communities.", "Key hydrologic feature of the west."]
+      en: ["Major river in the western region.", "Associated with mining-rich zones.", "Provides water for mineral extraction.", "Supports forest-based local communities.", "Key hydrologic feature of the west."]
     },
     
     description: {

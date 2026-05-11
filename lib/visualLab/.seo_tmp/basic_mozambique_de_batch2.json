@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "Der Beira Marine Park schützt die Küstengewässer und Mangroven und bietet Lebensraum für eine reiche marine Fauna.",
+      "facts": ["Küstengewässer", "Mangroven", "Marine Fauna"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "Die Insel Mosambik, ein UNESCO-Weltkulturerbe, bietet eine reiche Geschichte, alte Festungen und bunte Korallenriffe.",
+      "facts": ["UNESCO-Weltkulturerbe", "Alte Festungen", "Korallenriffe"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "Tofo Beach ist ein beliebter Küstenort, bekannt für seine Tauchmöglichkeiten mit Walhaien und Mantarochen.",
+      "facts": ["Walhaie", "Mantarochen", "Tauchen"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "Der Limpopo Kids Zoo bietet eine lehrreiche Erfahrung für Kinder, um die Tierwelt der Region zu entdecken.",
+      "facts": ["Tierwelt", "Limpopo", "Lehrreiche Erfahrung"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "Das Naturhistorische Museum von Maputo zeigt die reiche Flora und Fauna Mosambiks, einschließlich seltener Elefantenfeten.",
+      "facts": ["Flora und Fauna", "Elefantenfeten", "Naturgeschichte"]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "Der Gondola Kids Fun Park bietet familienfreundliche Unterhaltung und Attraktionen für Kinder in Maputo.",
+      "facts": ["Familienfreundlich", "Maputo", "Kinderattraktionen"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "Pemba Beach ist bekannt für sein ruhiges Wasser und die geschützte Bucht, ideal für Familien und Wassersport.",
+      "facts": ["Ruhiges Wasser", "Pemba", "Wassersport"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "Die Niassa Game Reserve ist das größte Schutzgebiet Mosambiks und ein Paradies für Safaribegeisterte.",
+      "facts": ["Größtes Schutzgebiet", "Safari", "Wildtiere"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "Der Sambesi-Fluss in Sambezia ist ein Lebensnerv für die Region und bietet zahlreiche Möglichkeiten zur Tierbeobachtung.",
+      "facts": ["Lebensnerv", "Tierbeobachtung", "Südafrika"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "Der Tete Community Park ist ein grüner Treffpunkt für die lokale Bevölkerung mit Spielplätzen und Erholungsmöglichkeiten.",
+      "facts": ["Grüner Treffpunkt", "Tete", "Erholung"]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "Inchope bietet wichtige Tierkorridore und Lebensräume, die für die Migration der Wildtiere entscheidend sind.",
+      "facts": ["Tierkorridore", "Lebensräume", "Wildtiere"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "Chimoio Green Life ist ein Projekt zur Förderung nachhaltiger Landwirtschaft und Umweltbildung für Kinder.",
+      "facts": ["Nachhaltige Landwirtschaft", "Umweltbildung", "Chimoio"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "Vilankulo Marine ist der Zugangspunkt zum Bazaruto-Archipel, bekannt für seine Tauch- und Schnorchelreviere.",
+      "facts": ["Bazaruto-Archipel", "Tauchen", "Schnorcheln"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "Inhambane bietet historische Architektur und Zugang zu wunderschönen Stränden und Tauchplätzen.",
+      "facts": ["Historische Architektur", "Wunderschöne Strände", "Tauchen"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "Die Gaza Farm ist ein landwirtschaftliches Projekt zur Förderung der lokalen Entwicklung und zur Versorgung der Bevölkerung.",
+      "facts": ["Landwirtschaftliches Projekt", "Lokale Entwicklung", "Versorgung"]
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nookat-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Ein bedeutendes Handelszentrum im Ferganatal südlich von Osch.",
+          "Bekannt für den Anbau von Tabak und verschiedenen Obstsorten.",
+          "War im Mittelalter eine wichtige Station für Karawanen.",
+          "Wurde 2003 offiziell zur Stadt ernannt.",
+          "Die Mehrheit der Bevölkerung gehört der usbekischen Minderheit an.",
+          "Die Umgebung ist durch fruchtbare, bewässerte Oasen geprägt.",
+          "Dient als administratives Zentrum für den gleichnamigen Bezirk."
+        ],
+        "hu": [
+          "Fontos kereskedelmi központ a Fergana-völgyben, Ostól délre.",
+          "Híres dohánytermesztéséről és változatos gyümölcsöskertjeiről.",
+          "A középkorban a karavánok egyik fontos megállóhelye volt.",
+          "2003-ban kapott hivatalosan városi rangot.",
+          "A lakosság többsége az üzbég kisebbséghez tartozik.",
+          "Környékét termékeny, öntözött oázisok jellemzik.",
+          "A róla elnevezett körzet közigazgatási központja."
+        ],
+        "ro": [
+          "Un centru comercial important în Valea Fergana, la sud de Osh.",
+          "Cunoscut pentru cultivarea tutunului și a diverselor soiuri de fructe.",
+          "A fost o stație importantă pentru caravane în Evul Mediu.",
+          "A fost declarat oficial oraș în anul 2003.",
+          "Majoritatea populației aparține minorității uzbece.",
+          "Împrejurimile sunt marcate de oaze fertile și irigate.",
+          "Servește ca centru administrativ pentru districtul omonim."
+        ],
+        "en": [
+          "A significant trading hub in the Fergana Valley south of Osh.",
+          "Known for tobacco cultivation and diverse fruit orchards.",
+          "Was an important stop for caravans during the Middle Ages.",
+          "Officially attained city status in 2003.",
+          "The majority of the population belongs to the Uzbek minority.",
+          "The surrounding area is characterized by fertile, irrigated oases.",
+          "Serves as the administrative centre for the district of the same name."
+        ]
+      }
+    },
+    {
+      "id": "kochkor-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Dient als wichtigster Ausgangspunkt für Trekkingtouren zum Song-Köl-See.",
+          "Ist berühmt für die Herstellung traditioneller kirgisischer Filzteppiche (Schyrdak).",
+          "Liegt an der strategischen Route zum Torugart-Pass nach China.",
+          "War zu Sowjetzeiten eine bedeutende Schafzuchstation.",
+          "Die Stadt liegt auf einer Hochebene von etwa 1800 m Höhe.",
+          "Hier gibt es zahlreiche Homestays für authentische nomadische Erlebnisse.",
+          "Der lokale Markt bietet hochwertiges Kunsthandwerk und Filzprodukte."
+        ],
+        "hu": [
+          "A Szong-köl tóhoz induló túrák legfontosabb kiindulópontja.",
+          "Híres a hagyományos kirgiz nemezszőnyegek (sirdak) készítéséről.",
+          "A Kínába vezető Torugart-hágó felé tartó stratégiai útvonalon fekszik.",
+          "A szovjet időkben jelentős juhszaporító állomás volt.",
+          "A város mintegy 1800 méter magas fennsíkon terül el.",
+          "Számos vendégház kínál autentikus nomád élményeket.",
+          "A helyi piacon kiváló minőségű kézműves termékek és nemezáruk kaphatók."
+        ],
+        "ro": [
+          "Servește ca principal punct de plecare pentru drumețiile spre lacul Song-Kul.",
+          "Faimos pentru fabricarea covoarelor tradiționale kârgâze din pâslă (shyrdak).",
+          "Situat pe ruta strategică spre pasul Torugart, către China.",
+          "A fost o stație importantă de creștere a oilor în perioada sovietică.",
+          "Orașul se află pe un platou înalt la circa 1800 m altitudine.",
+          "Numeroase pensiuni oferă experiențe nomade autentice.",
+          "Piața locală oferă obiecte de artizanat și produse din pâslă de înaltă calitate."
+        ],
+        "en": [
+          "Serves as the main gateway for trekking tours to Lake Song-Kul.",
+          "Famous for the production of traditional Kyrgyz felt carpets (shyrdak).",
+          "Located on the strategic route to the Torugart Pass into China.",
+          "Was a major sheep-breeding station during the Soviet era.",
+          "The town is situated on a high plateau at about 1800 m altitude.",
+          "Numerous homestays offer authentic nomadic experiences.",
+          "The local market offers high-quality handicrafts and felt products."
+        ]
+      }
+    },
+    {
+      "id": "suluktu-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Eine der ältesten Kohlebergbaustädte Zentralasiens.",
+          "Wurde 1868 gegründet und ist eine der westlichsten Städte des Landes.",
+          "Die Kohlevorkommen werden seit Mitte des 19. Jahrhunderts industriell genutzt.",
+          "Ist fast vollständig von tadschikischem Staatsgebiet umschlossen.",
+          "Verfügt über eine eigene Eisenbahnstrecke für den Kohletransport.",
+          "Die Stadt war zu Sowjetzeiten wirtschaftlich hochgradig spezialisiert.",
+          "Gilt heute als wichtiger Versorger für die umliegende Batken-Region."
+        ],
+        "hu": [
+          "Közép-Ázsia egyik legrégebbi szénbányász városa.",
+          "1868-ban alapították, az ország egyik legnyugatibb települése.",
+          "A szénlelőhelyeket a 19. század közepe óta ipari szinten hasznosítják.",
+          "Szinte teljes egészében tadzsik terület veszi körül.",
+          "Saját vasútvonallal rendelkezik a szénszállításhoz.",
+          "A város a szovjet érában gazdaságilag rendkívül specializált volt.",
+          "Ma a környező Batken régió egyik fontos ellátója."
+        ],
+        "ro": [
+          "Unul dintre cele mai vechi orașe miniere de cărbune din Asia Centrală.",
+          "Fondat în 1868, fiind unul dintre cele mai vestice orașe ale țării.",
+          "Zăcămintele de cărbune sunt exploatate industrial de la mijlocul secolului XIX.",
+          "Este aproape complet înconjurat de teritoriul Tadjikistanului.",
+          "Dispune de propria linie ferată pentru transportul cărbunelui.",
+          "Orașul a fost extrem de specializat din punct de vedere economic în perioada URSS.",
+          "Astăzi este considerat un furnizor important pentru regiunea Batken din jur."
+        ],
+        "en": [
+          "One of the oldest coal mining towns in Central Asia.",
+          "Founded in 1868, it is one of the westernmost cities in the country.",
+          "Coal deposits have been industrially extracted since the mid-19th century.",
+          "Almost entirely surrounded by Tajik territory.",
+          "Features its own railway line for coal transportation.",
+          "The town was highly specialized economically during the Soviet era.",
+          "Currently serves as a key supplier for the surrounding Batken Region."
+        ]
+      }
+    },
+    {
+      "id": "kadamjay-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Bekannt für eines der weltweit größten Antimon-Kombinate.",
+          "Wurde nach einem heiligen Ort benannt, der im Islam verehrt wird.",
+          "Die Region ist berühmt für ihre hochwertigen Himbeeren.",
+          "Liegt am Fluss Schachimardan, der aus einer usbekischen Enklave kommt.",
+          "Wurde erst 2012 offiziell zur Stadt ernannt.",
+          "Die Industrieanlage war einst von strategischer Bedeutung für die UdSSR.",
+          "Die Stadt liegt eingebettet in die schroffen Ausläufer des Alai-Gebirges."
+        ],
+        "hu": [
+          "A világ egyik legnagyobb antimon-kombinátjáról ismert.",
+          "Egy iszlám vallásban tisztelt szent helyről kapta a nevét.",
+          "A régió híres a kiváló minőségű málnájáról.",
+          "A Sahimardan folyó mentén fekszik, amely egy üzbég exklávéból ered.",
+          "Csak 2012-ben kapott hivatalosan városi rangot.",
+          "Az ipari létesítmény egykor stratégiai jelentőségű volt a Szovjetunió számára.",
+          "A város az Alaj-hegység meredek nyúlványai között fekszik."
+        ],
+        "ro": [
+          "Cunoscut pentru unul dintre cele mai mari combinate de antimoniu din lume.",
+          "Numit după un loc sacru venerat în religia islamică.",
+          "Regiunea este faimoasă pentru zmeura de înaltă calitate.",
+          "Situat pe râul Shakhimardan, care vine dintr-o enclavă uzbecă.",
+          "A fost declarat oficial oraș abia în anul 2012.",
+          "Combinatul industrial a fost anterior de importanță strategică pentru URSS.",
+          "Orașul este cuibărit la poalele abrupte ale munților Alai."
+        ],
+        "en": [
+          "Known for hosting one of the world's largest antimony plants.",
+          "Named after a sacred site revered in Islam.",
+          "The region is famous for its high-quality raspberries.",
+          "Located on the Shakhimardan River, which flows from an Uzbek enclave.",
+          "Officially granted city status only in 2012.",
+          "The industrial complex was once of strategic importance to the USSR.",
+          "The city is nestled among the rugged foothills of the Alay Range."
+        ]
+      }
+    },
+    {
+      "id": "toktogul-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Wurde zu Ehren des berühmten kirgisischen Akyns Toktogul Satylganow benannt.",
+          "Liegt am Nordufer des riesigen Toktogul-Stausees.",
+          "Die Stadt musste aufgrund der Flutung des Tals in den 1970ern verlegt werden.",
+          "Das nahegelegene Wasserkraftwerk deckt fast 40 % des kirgisischen Strombedarfs.",
+          "Ist ein wichtiger Rastplatz an der Gebirgsstraße Bischkek–Osch.",
+          "Das umliegende Gebiet ist bekannt für erstklassigen Honig.",
+          "Bietet spektakuläre Ausblicke auf die smaragdgrüne Wasserfläche und hohe Berge."
+        ],
+        "hu": [
+          "Toktogul Szatilganov híres kirgiz akün (népi énekes) tiszteletére nevezték el.",
+          "A hatalmas Toktogul-víztározó északi partján fekszik.",
+          "A várost az 1970-es években át kellett helyezni a völgy elárasztása miatt.",
+          "A közeli vízerőmű fedezi Kirgizisztán áramszükségletének közel 40%-át.",
+          "Fontos megállóhely a Biskek és Os közötti hegyi úton.",
+          "A környék az elsőrangú méztermeléséről ismert.",
+          "Lenyűgöző kilátást nyújt a smaragdzöld vízre és a környező hegyekre."
+        ],
+        "ro": [
+          "Numit în onoarea celebrului akyn (poet popular) kârgâz Toktogul Satylganov.",
+          "Situat pe malul nordic al imensului rezervor Toktogul.",
+          "Orașul a trebuit mutat în anii 1970 din cauza inundării văii.",
+          "Hidrocentrala din apropiere asigură aproape 40% din energia Kârgâzstanului.",
+          "Un loc important de popas pe șoseaua montană Bishkek–Osh.",
+          "Zona înconjurătoare este renumită pentru mierea de calitate superioară.",
+          "Oferă vederi spectaculoase asupra apelor de smarald și a munților înalți."
+        ],
+        "en": [
+          "Named in honour of the famous Kyrgyz akyn (folk singer) Toktogul Satylganov.",
+          "Located on the northern shore of the massive Toktogul Reservoir.",
+          "The town had to be relocated in the 1970s due to the flooding of the valley.",
+          "The nearby hydroelectric plant provides nearly 40% of Kyrgyzstan's power.",
+          "A major rest stop on the Bishkek–Osh mountain highway.",
+          "The surrounding area is renowned for its premium honey.",
+          "Offers spectacular views of emerald waters and high mountains."
+        ]
+      }
+    },
+    {
+      "id": "kazarman-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Gilt als einer der abgelegensten und isoliertesten Orte des Landes.",
+          "Tor zur archäologischen Stätte Saimaluu Tasch mit tausenden Petroglyphen.",
+          "Ist im Winter oft monatelang nur über den Luftweg erreichbar.",
+          "Beherbergt die Goldmine 'Makmal', die wichtigste Einnahmequelle der Region.",
+          "Wurde als Siedlung für die Minenarbeiter gegründet.",
+          "Liegt in einem tiefen Kessel, der vom Fluss Naryn durchflossen wird.",
+          "Ist ein wichtiger Stützpunkt für abenteuerlustige Offroad-Reisende."
+        ],
+        "hu": [
+          "Az ország egyik legtávolabbi és legelszigeteltebb települése.",
+          "A több ezer sziklarajzot őrző Szajmaluu Tas kerégészeti lelőhely kapuja.",
+          "Télen gyakran hónapokig csak légi úton érhető el.",
+          "Itt található a 'Makmal' aranybánya, a régió legfőbb bevételi forrása.",
+          "Eredetileg a bányamunkások számára létrehozott településként jött létre.",
+          "A Narin folyó által átszelt mély medencében fekszik.",
+          "Fontos bázis a kalandvágyó terepjárós utazók számára."
+        ],
+        "ro": [
+          "Considerat unul dintre cele mai îndepărtate și izolate locuri din țară.",
+          "Poarta către situl arheologic Saimaluu Tash, cu mii de petroglife.",
+          "Iarna este adesea accesibil doar pe calea aerului timp de luni de zile.",
+          "Găzduiește mina de aur 'Makmal', principala sursă de venit a regiunii.",
+          "Fondat ca așezare pentru lucrătorii minieri.",
+          "Situat într-o depresiune adâncă, traversată de râul Naryn.",
+          "O bază importantă pentru călătorii aventuroși off-road."
+        ],
+        "en": [
+          "Regarded as one of the most remote and isolated places in the country.",
+          "Gateway to the Saimaluu Tash archaeological site with thousands of petroglyphs.",
+          "Often accessible only by air for months during the winter.",
+          "Home to the 'Makmal' gold mine, the region's primary source of income.",
+          "Established as a settlement for mining workers.",
+          "Located in a deep basin traversed by the Naryn River.",
+          "A key base for adventurous off-road travellers."
+        ]
+      }
+    },
+    {
+      "id": "orlovka-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Ein bekanntes Zentrum für Wintersport mit einem modernen Skigebiet.",
+          "Wurde 1910 von russischen Siedlern im Tschüi-Tal gegründet.",
+          "War während der Sowjetzeit ein Standort für die Verarbeitung seltener Erden.",
+          "Wurde erst 2012 offiziell zur Stadt erhoben.",
+          "Liegt an den Nordhängen der Kirgisischen Kette.",
+          "Wirtschaftlich geprägt durch Bergbau und aufstrebenden Tourismus.",
+          "Die Stadt profitiert von der Nähe zur Hauptstadt Bischkek."
+        ],
+        "hu": [
+          "Népszerű téli sportközpont modern sípályákkal.",
+          "1910-ben alapították orosz telepesek a Csüi-völgyben.",
+          "A szovjet érában ritkaföldfémek feldolgozásával foglalkoztak itt.",
+          "Csak 2012-ben kapott hivatalosan városi rangot.",
+          "A Kirgiz-hegylánc északi lejtőin fekszik.",
+          "Gazdaságát a bányászat és a fejlődő turizmus határozza meg.",
+          "A város előnyére válik a főváros, Biskek közelsége."
+        ],
+        "ro": [
+          "Un centru cunoscut pentru sporturi de iarnă, cu o stațiune modernă de schi.",
+          "Fondat în 1910 de coloniști ruși în Valea Chuy.",
+          "A fost un site de procesare a pământurilor rare în perioada sovietică.",
+          "A fost declarat oficial oraș abia în anul 2012.",
+          "Situat pe versanții nordici ai lanțului muntos kârgâz.",
+          "Economia este marcată de minerit și turismul în ascensiune.",
+          "Orașul beneficiază de proximitatea față de capitala Bishkek."
+        ],
+        "en": [
+          "A well-known centre for winter sports with a modern ski resort.",
+          "Founded in 1910 by Russian settlers in the Chuy Valley.",
+          "Was a site for processing rare earth elements during the Soviet era.",
+          "Officially attained city status only in 2012.",
+          "Located on the northern slopes of the Kyrgyz Range.",
+          "Economy is driven by mining and growing tourism.",
+          "The town benefits from its close proximity to the capital, Bishkek."
+        ]
+      }
+    },
+    {
+      "id": "shopokov-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Wurde nach Düschenkul Schopokow, einem Helden des Zweiten Weltkriegs, benannt.",
+          "Ist ein bedeutendes industrielles Zentrum nahe der Stadt Sokuluk.",
+          "Früher als Krasnooktjabrski (Roter Oktober) bekannt.",
+          "Beherbergt große Fabriken zur Herstellung von Landmaschinen.",
+          "Wurde 1985 zur Stadt ernannt.",
+          "Die Mehrheit der Arbeitsplätze ist im Maschinenbau und der Lebensmittelindustrie.",
+          "Die Stadt liegt verkehrsgünstig an der Eisenbahnlinie Bischkek–Osch."
+        ],
+        "hu": [
+          "Düsenkul Sopokovról, a második világháború egyik hőséről nevezték el.",
+          "Fontos ipari központ Szokuluk városa közelében.",
+          "Korábban Krasznooktjabrszkij (Vörös Október) néven volt ismert.",
+          "Mezőgazdasági gépeket gyártó nagyüzemeknek ad otthont.",
+          "1985-ben kapott városi rangot.",
+          "A munkahelyek többségét a gépgyártás és az élelmiszeripar adja.",
+          "A város kedvező fekvésű, a Biskek–Os vasútvonal mentén található."
+        ],
+        "ro": [
+          "Numit după Duishenkul Shopokov, un erou din Al Doilea Război Mondial.",
+          "Este un centru industrial important lângă orașul Sokuluk.",
+          "Cunoscut anterior sub numele Krasnooktyabrsky (Octombrie Roșu).",
+          "Găzduiește fabrici mari de producție a utilajelor agricole.",
+          "A primit statutul de oraș în anul 1985.",
+          "Majoritatea locurilor de muncă sunt în construcția de mașini și industria alimentară.",
+          "Orașul este situat avantajos pe linia ferată Bishkek–Osh."
+        ],
+        "en": [
+          "Named after Duishenkul Shopokov, a hero of World War II.",
+          "A significant industrial centre near the town of Sokuluk.",
+          "Formerly known as Krasnooktyabrsky (Red October).",
+          "Home to large factories manufacturing agricultural machinery.",
+          "Attained city status in 1985.",
+          "The majority of jobs are in mechanical engineering and the food industry.",
+          "The city is conveniently located along the Bishkek–Osh railway line."
+        ]
+      }
+    },
+    {
+      "id": "kaindy-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Zentrum der kirgisischen Zuckerindustrie mit einer großen Raffinerie.",
+          "Der Name bedeutet 'Ort der Birken' auf Kirgisisch.",
+          "Wurde in den 1930er Jahren als Arbeitersiedlung gegründet.",
+          "Wurde 2012 offiziell zur Stadt ernannt.",
+          "Dient als administratives Zentrum des Panfilow-Bezirks.",
+          "Die Stadt ist ein wichtiger Güterbahnhof an der kasachischen Grenze.",
+          "Besitzt eine Fabrik zur Herstellung von Kabeln und Metallprodukten."
+        ],
+        "hu": [
+          "A kirgiz cukoripar központja egy hatalmas finomítóval.",
+          "A név kirgizül 'nyírfás helyet' jelent.",
+          "Az 1930-as években alapították munkástelepülésként.",
+          "Csak 2012-ben kapott hivatalosan városi rangot.",
+          "A Panfilov-körzet közigazgatási központja.",
+          "A város fontos teherpályaudvar a kazah határ közelében.",
+          "Kábelgyártó és fémtermékeket készítő üzemmel is rendelkezik."
+        ],
+        "ro": [
+          "Centrul industriei zahărului din Kârgâzstan, cu o rafinărie mare.",
+          "Numele înseamnă 'Locul cu mesteacăni' în limba kârgâză.",
+          "Fondat în anii 1930 ca așezare pentru muncitori.",
+          "A fost declarat oficial oraș în anul 2012.",
+          "Servește ca centru administrativ pentru districtul Panfilov.",
+          "Orașul este o stație feroviară importantă de mărfuri lângă granița cu Kazahstanul.",
+          "Deține o fabrică pentru producerea cablurilor și a produselor metalice."
+        ],
+        "en": [
+          "Centre of the Kyrgyz sugar industry with a large refinery.",
+          "The name means 'Place of Birches' in the Kyrgyz language.",
+          "Founded in the 1930s as a workers' settlement.",
+          "Officially attained city status in 2012.",
+          "Serves as the administrative centre for the Panfilov District.",
+          "The town is a key freight railway station near the Kazakh border.",
+          "Features a plant for manufacturing cables and metal products."
+        ]
+      }
+    },
+    {
+      "id": "kemin-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Wurde 1912 als russische Siedlung Bystrowka gegründet.",
+          "Liegt am Fluss Tschu am Eingang zur Boom-Schlucht.",
+          "War während der UdSSR ein bedeutendes Bergbauzentrum für seltene Metalle.",
+          "Wurde erst 2012 offiziell zur Stadt ernannt.",
+          "Die Wirtschaft ist heute durch Landwirtschaft und Kleinindustrie geprägt.",
+          "Dient als wichtiger Stopp für Reisende auf dem Weg zum Yssykköl-See.",
+          "Beherbergt ein großes Umspannwerk, das für das nationale Stromnetz kritisch ist."
+        ],
+        "hu": [
+          "1912-ben alapították Bisztrovka néven orosz településként.",
+          "A Csu folyó mentén, a Boom-szurdok bejáratánál fekszik.",
+          "A Szovjetunió idején ritka fémek bányászatának fontos központja volt.",
+          "Csak 2012-ben kapott hivatalosan városi rangot.",
+          "Gazdaságát ma a mezőgazdaság és a kisipar jellemzi.",
+          "Fontos megálló az Iszik-köl tó felé tartó utazók számára.",
+          "Itt található az országos villamosenergia-hálózat egyik kritikus alállomása."
+        ],
+        "ro": [
+          "Fondat în 1912 sub numele Bystrovka ca așezare rusă.",
+          "Situat pe râul Chu, la intrarea în defileul Boom.",
+          "A fost un centru important de minerit pentru metale rare în timpul URSS.",
+          "A primit oficial statutul de oraș abia în anul 2012.",
+          "Economia este dominată astăzi de agricultură și mica industrie.",
+          "O oprire importantă pentru călătorii care merg spre lacul Issyk-Kul.",
+          "Găzduiește o stație electrică majoră, critică pentru rețeaua națională."
+        ],
+        "en": [
+          "Founded in 1912 as the Russian settlement of Bystrovka.",
+          "Located on the Chu River at the entrance to the Boom Gorge.",
+          "Was a significant mining centre for rare metals during the Soviet era.",
+          "Officially granted city status only in 2012.",
+          "The economy is currently driven by agriculture and small-scale industry.",
+          "Serves as an important stop for travellers on their way to Lake Issyk-Kul.",
+          "Home to a major electrical substation critical for the national power grid."
+        ]
+      }
+    }
+  ]
+}

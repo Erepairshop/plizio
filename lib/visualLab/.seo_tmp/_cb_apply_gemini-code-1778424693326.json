@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "selkirk-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Selkirk Mountains bilden eine raue Gebirgskette, die sich vom Südosten der kanadischen Provinz British Columbia bis in die US-Bundesstaaten Washington und Idaho erstreckt. Geologisch gehören sie zu den Columbia Mountains und sind deutlich von den Rocky Mountains getrennt, die weiter östlich jenseits des massiven Rocky Mountain Trench liegen. Das Grundgestein besteht in erster Linie aus extrem alten, stark metamorphosierten Sedimentgesteinen und Granitintrusionen, die Millionen von Jahre zurückreichen. Das Gebirge empfängt gigantische Niederschlagsmengen von den pazifischen Wettersystemen, was zu extrem tiefen winterlichen Schneedecken und der Existenz zahlreicher alpiner Gletscher führt. Der absolut höchste Gipfel im kanadischen Abschnitt ist der Mount Sir Sandford, der eine Höhe von exakt 3.519 Metern erreicht. Historisch erlebte die Region im späten 19. und frühen 20. Jahrhundert einen massiven Bergbau-Boom, bei dem zahlreiche Städte gegründet wurden, um reiche Silber-, Blei- und Zinkvorkommen abzubauen. Heute macht die gewaltige Schneeansammlung die Selkirk-Kette zu einem der weltweit wichtigsten Zentren für das mechanisierte Helikopter-Skifahren. Die dichten unteren Täler sind von feuchten Zedern-Hemlocktannen-Wäldern bedeckt, die in höheren Lagen in subalpine Tannen und Engelmann-Fichten übergehen. Das steile, stark lawinengefährdete Terrain stellt eine große Herausforderung für den Transport dar, insbesondere am Rogers Pass.",
+        "hu": "A Selkirk-hegység (Selkirk Mountains) egy zord hegyvonulat, amely a kanadai Brit Columbia tartomány délkeleti részétől az egyesült államokbeli Washington és Idaho államokig terjed. Geológiailag a Columbia-hegységhez tartoznak, és egyértelműen elkülönülnek a Sziklás-hegységtől, amely keletebbre, a masszív Sziklás-hegységi-árok (Rocky Mountain Trench) túloldalán fekszik. Az alapkőzet elsősorban rendkívül ősi, erősen metamorfizálódott üledékes kőzetekből és gránit benyomulásokból áll, amelyek évmilliókra nyúlnak vissza. A hegység gigantikus mennyiségű csapadékot kap a csendes-óceáni időjárási rendszerektől, ami rendkívül mély téli hótakarót és számos alpesi gleccser kialakulását eredményezi. A kanadai szakasz abszolút legmagasabb csúcsa a Mount Sir Sandford, amely pontosan 3519 méteres magasságot ér el. Történelmileg a régió a 19. század végén és a 20. század elején hatalmas bányászati fellendülést élt át, amikor számos várost alapítottak a gazdag ezüst-, ólom- és cinkkészletek kitermelésére. Napjainkban a hatalmas hófelhalmozódás a Selkirk-láncot a gépesített helikopteres síelés (heliskiing) egyik legfontosabb globális központjává teszi. A sűrű alsó völgyeket nedves cédrus-hemlokfenyő erdők borítják, amelyek magasabb fekvésekben szubalpin jegenyefenyőbe és Engelmann-lucba mennek át. A meredek, erősen lavinaveszélyes terep jelentős kihívást jelent a közlekedés számára, különösen a Rogers-hágónál.",
+        "ro": "Munții Selkirk formează un lanț muntos accidentat care se întinde din porțiunea de sud-est a provinciei canadiene Columbia Britanică spre sud, în statele Washington și Idaho din Statele Unite. Făcând parte geologic din Munții Columbia, aceștia sunt clar separați de Munții Stâncoși, care se află mai la est, dincolo de masiva Fosa a Munților Stâncoși (Rocky Mountain Trench). Roca de bază este compusă în principal din roci sedimentare extrem de vechi, puternic metamorfozate și intruziuni granitice datând de milioane de ani. Lanțul primește cantități gigantice de precipitații de la sistemele meteorologice din Pacific, rezultând straturi de zăpadă de iarnă extrem de adânci și prezența numeroșilor ghețari alpini. Vârful absolut cel mai înalt din secțiunea canadiană este Mount Sir Sandford, care atinge o altitudine de exact 3.519 metri. Din punct de vedere istoric, regiunea a cunoscut un boom minier masiv la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, cu numeroase orașe înființate pentru a extrage zăcăminte bogate de argint, plumb și zinc. Astăzi, acumularea uriașă de zăpadă face din lanțul Selkirk un centru global major pentru schiul mecanizat cu elicopterul. Văile inferioare dense sunt acoperite de păduri umede de cedru și tsuga, care trec în brad subalpin și molid Engelmann la altitudini mai mari. Terenul abrupt, predispus la avalanșe, prezintă provocări majore pentru transport, în special la Pasul Rogers.",
+        "en": "The Selkirk Mountains form a rugged mountain range that spans the southeastern portion of British Columbia, Canada, and extends southward into the states of Washington and Idaho in the United States. Geologically part of the Columbia Mountains, they are distinctly separate from the Rocky Mountains, which lie further to the east across the massive Rocky Mountain Trench. The bedrock is primarily composed of extremely old, highly metamorphosed sedimentary rocks and granitic intrusions dating back millions of years. The range receives massive amounts of precipitation from Pacific weather systems, resulting in deep winter snowpacks and the presence of numerous alpine glaciers. The absolute highest peak in the Canadian section is Mount Sir Sandford, reaching an elevation of exactly 3,519 meters. Historically, the region experienced a massive mining boom in the late 19th and early 20th centuries, with numerous towns established to extract rich deposits of silver, lead, and zinc. Today, the deep snow accumulation makes the Selkirk range a major global center for mechanized helicopter skiing and backcountry winter sports. The dense lower valleys are covered by moist interior cedar-hemlock forests, which transition into subalpine fir and Engelmann spruce at higher elevations. The steep, highly avalanche-prone terrain presents significant physical challenges for transportation, notably across the famous Rogers Pass on the Trans-Canada Highway."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebirge erstreckt sich vom Südosten British Columbias bis in die Vereinigten Staaten.",
+          "Geologisch gehören die Berge zu den Columbia Mountains und nicht zu den Rockies.",
+          "Mount Sir Sandford bildet mit 3.519 Metern den absolut höchsten Punkt der Kette.",
+          "Pazifische Stürme laden gigantische Schneemengen auf den Berggipfeln ab.",
+          "Ende des 19. Jahrhunderts erlebte das Gebiet einen massiven Silber- und Bleibergbau-Boom.",
+          "Die Region gilt weltweit als eines der wichtigsten Zentren für Helikopter-Skifahren.",
+          "Der steile Rogers Pass ist im Winter wegen massiver Lawinengefahr extrem berüchtigt."
+        ],
+        "hu": [
+          "A hegység Brit Columbia délkeleti részétől egészen az Egyesült Államokig terjed.",
+          "Geológiailag a hegyek a Columbia-hegységhez tartoznak, és élesen elkülönülnek a Sziklás-hegységtől.",
+          "A 3519 méteres Mount Sir Sandford a kanadai lánc abszolút legmagasabb pontja.",
+          "A csendes-óceáni viharok gigantikus mennyiségű havat raknak le a hegycsúcsokon.",
+          "A 19. század végén a terület hatalmas ezüst- és ólombányászati fellendülést élt át.",
+          "A régiót világszerte a helikopteres síelés egyik legfontosabb központjaként tartják számon.",
+          "A meredek Rogers-hágó télen a masszív lavinaveszély miatt rendkívül hírhedt."
+        ],
+        "ro": [
+          "Lanțul muntos se întinde din sud-estul Columbiei Britanice până în Statele Unite.",
+          "Din punct de vedere geologic, munții aparțin Munților Columbia și sunt diferiți de Munții Stâncoși.",
+          "Muntele Sir Sandford formează punctul absolut cel mai înalt al lanțului la 3.519 metri.",
+          "Furtunile din Pacific depun cantități gigantice de zăpadă pe vârfurile munților.",
+          "La sfârșitul secolului al XIX-lea, zona a cunoscut un boom masiv al mineritului de argint și plumb.",
+          "Regiunea este considerată la nivel mondial ca fiind unul dintre cele mai importante centre pentru heliski.",
+          "Pasul abrupt Rogers este extrem de notoriu iarna din cauza pericolului masiv de avalanșă."
+        ],
+        "en": [
+          "The mountain range spans southeastern British Columbia and extends straight into the United States.",
+          "Geologically, the mountains are part of the Columbia Mountains and distinct from the Rockies.",
+          "Mount Sir Sandford forms the absolute highest physical point in the chain at 3,519 meters.",
+          "Incoming Pacific storms aggressively deposit gigantic quantities of snow on the peaks.",
+          "In the late 19th century, the area experienced a massive silver and lead mining boom.",
+          "The heavily snow-covered region is recognized globally as a primary center for helicopter skiing.",
+          "The steep Rogers Pass is extremely notorious during winter due to massive avalanche hazards."
+        ]
+      }
+    },
+    {
+      "id": "st-elias-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die St. Elias Mountains (Sankt-Elias-Berge) bilden das absolut höchste Küstengebirge der Erde, gelegen im südwestlichen Yukon, im nordwestlichen British Columbia und im südöstlichen Alaska. Diese massive orografische Struktur entstand durch die anhaltende, extrem aktive tektonische Subduktion der Pazifischen Platte direkt unter die Nordamerikanische Platte, ein geologischer Prozess, der bis heute häufige seismische Aktivitäten und eine kontinuierliche Hebung verursacht. Die Gebirgskette ist massiv durch ihr extremes vertikales Relief definiert; sie erhebt sich innerhalb weniger Dutzend Kilometer aus den tiefen Gewässern des Pazifischen Ozeans in hochalpine Höhen. Der absolut höchste Punkt ist der Mount Logan, der mit 5.959 Metern den höchsten Gipfel Kanadas und den zweithöchsten Nordamerikas darstellt. Die extreme Höhe und die Nähe zur maritimen Feuchtigkeit erzeugen immense, unaufhörliche Schneefälle, die eines der größten nicht-polaren Eisfeldnetzwerke der Welt speisen, darunter das gewaltige Bagley Icefield und der Hubbard-Gletscher. Weite Teile dieses Gebirges sind oberhalb der permanenten Schneegrenze völlig frei von Flora oder Fauna und bestehen ausschließlich aus Fels und ewigem Gletschereis. Das Gebirge ist geografisch durch ein massives, zusammenhängendes Netzwerk von Nationalparks geschützt, darunter der Kluane National Park and Reserve in Kanada und der Wrangell-St. Elias in den Vereinigten Staaten. Es bleibt eine der am schwersten zugänglichen, rauesten Umgebungen Nordamerikas.",
+        "hu": "A Szent Illés-hegység (St. Elias Mountains) a Föld abszolút legmagasabb part menti hegysége, amely Délnyugat-Yukonban, Brit Columbia északnyugati részén és Délkelet-Alaszkában található. Ezt a masszív orográfiai szerkezetet a Csendes-óceáni-lemeznek közvetlenül az Észak-amerikai-lemez alá történő folyamatos, rendkívül aktív tektonikus szubdukciója hozta létre; ez egy olyan geológiai folyamat, amely a mai napig gyakori szeizmikus tevékenységet és folyamatos felemelkedést okoz. A hegyláncot masszívan meghatározza a szélsőséges függőleges domborzata; a Csendes-óceán mély vizeiből alig néhány tucat kilométeren belül magashegységi magasságokba emelkedik. Az abszolút legmagasabb pont a Mount Logan, amely 5959 méterével Kanada legmagasabb, Észak-Amerika pedig második legmagasabb csúcsa. Az extrém magasság és a tengeri nedvesség közelsége hatalmas, szüntelen havazást generál, amely a világ egyik legnagyobb nem sarki jégmező-hálózatát táplálja, beleértve a gigantikus Bagley-jégmezőt és a Hubbard-gleccsert. Ennek a hegységnek hatalmas részei az állandó hóhatár felett teljesen mentesek mindenféle növény- és állatvilágtól, kizárólag sziklából és örök gleccserjégből állnak. A hegységet földrajzilag a nemzeti parkok egy masszív, összefüggő hálózata védi, köztük a kanadai Kluane Nemzeti Park és Rezervátum, valamint az egyesült államokbeli Wrangell-St. Elias. Az észak-amerikai kontinens egyik legnehezebben megközelíthető, legzordabb környezete maradt.",
+        "ro": "Munții St. Elias (Sankt-Elias) formează absolut cel mai înalt lanț muntos de coastă de pe Pământ, situat în sud-vestul Yukonului, nord-vestul Columbiei Britanice și sud-estul emisferei Alaska. Această structură orografică masivă a fost forjată de subducția tectonică continuă și extrem de activă a Plăcii Pacifice direct sub Placa Nord-Americană, un proces geologic care provoacă și astăzi activitate seismică frecventă și ridicare continuă. Lanțul muntos este definit masiv de relieful său vertical extrem; se ridică din apele adânci ale Oceanului Pacific la altitudini alpine înalte în doar câteva zeci de kilometri. Punctul absolut cel mai înalt este Muntele Logan, care, cu 5.959 de metri, este cel mai înalt vârf din Canada și al doilea cel mai înalt din America de Nord. Altitudinea extremă și proximitatea față de umiditatea maritimă generează ninsori imense, neîncetate, care alimentează una dintre cele mai mari rețele de câmpuri de gheață non-polare din lume, inclusiv masivul câmp de gheață Bagley și ghețarul Hubbard. Secțiuni vaste din acest lanț muntos sunt complet lipsite de orice floră sau faună deasupra limitei permanente a zăpezii, constând exclusiv din stâncă și gheață glaciară eternă. Lanțul este protejat geografic de o rețea masivă, contiguă de parcuri naționale, inclusiv Parcul Național și Rezervația Kluane din Canada și Wrangell-St. Elias în Statele Unite. Rămâne unul dintre cele mai greu accesibile și mai aspre medii de pe continentul nord-american.",
+        "en": "The St. Elias Mountains constitute the absolutely highest coastal mountain range on Earth, situated in southwestern Yukon, the northwestern corner of British Columbia, and southeastern Alaska. This massive orographic structure was forged by the continuous, highly active tectonic subduction of the Pacific Plate directly beneath the North American Plate, a geological process that still causes frequent seismic activity and continuous physical uplift today. The mountain range is heavily defined by its extreme vertical relief, rising violently from the deep waters of the Pacific Ocean to towering alpine altitudes within just a few dozen kilometers. The absolute highest point is Mount Logan, which stands at precisely 5,959 meters, making it the highest peak in Canada and the second-highest in all of North America. The extreme altitude and immediate proximity to maritime moisture generate immense, perpetual snowfall, actively feeding one of the largest non-polar icefield networks globally, including the massive Bagley Icefield and the Hubbard Glacier. Vast, elevated sections of this mountain range are completely devoid of any flora or fauna above the permanent snowline, consisting solely of jagged rock and eternal glacial ice. The harsh range is geographically protected by a massive contiguous network of national parks, including Kluane National Park and Reserve in Canada and Wrangell-St. Elias in the United States. It remains one of the most physically inaccessible, hostile environments on the continent."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die St. Elias Mountains bilden die höchste direkt an einer Küste liegende Gebirgskette der Erde.",
+          "Mount Logan ist mit 5.959 Metern der absolut höchste Berggipfel in Kanada.",
+          "Die tektonische Subduktion der Pazifischen Platte verursacht in der Region konstante Erdbeben.",
+          "Die extremen Schneefälle speisen das gewaltige Bagley Icefield und massige Gletscher.",
+          "Oberhalb der permanenten Schneegrenze existiert absolut keinerlei Flora oder Fauna mehr.",
+          "Die Gipfel erheben sich innerhalb weniger Dutzend Kilometer direkt aus dem Ozean.",
+          "Die Gebirgsregion wird durch einen massiven, grenzüberschreitenden Nationalpark-Komplex geschützt."
+        ],
+        "hu": [
+          "A Szent Illés-hegység a Föld legmagasabb, közvetlenül a tengerparton fekvő hegylánca.",
+          "A Mount Logan 5959 méterével Kanada abszolút legmagasabb hegycsúcsa.",
+          "A Csendes-óceáni-lemez tektonikus szubdukciója folyamatos földrengéseket okoz a régióban.",
+          "Az extrém havazások táplálják a hatalmas Bagley-jégmezőt és a masszív gleccsereket.",
+          "Az állandó hóhatár felett abszolút semmilyen növény- vagy állatvilág nem létezik.",
+          "A csúcsok alig néhány tucat kilométeren belül közvetlenül az óceánból emelkednek ki.",
+          "A hegyvidéki régiót egy masszív, határokon átnyúló nemzeti park komplexum védi szigorúan."
+        ],
+        "ro": [
+          "Munții St. Elias formează cel mai înalt lanț muntos situat direct pe o coastă de pe Pământ.",
+          "Muntele Logan, cu 5.959 de metri, este absolut cel mai înalt vârf din Canada.",
+          "Subducția tectonică a Plăcii Pacifice provoacă cutremure constante în regiune.",
+          "Ninsorile extreme alimentează uriașul câmp de gheață Bagley și ghețari masivi.",
+          "Deasupra limitei permanente a zăpezii nu mai există absolut nicio floră sau faună.",
+          "Vârfurile se ridică direct din ocean în doar câteva zeci de kilometri.",
+          "Regiunea montană este protejată de un complex masiv de parcuri naționale transfrontaliere."
+        ],
+        "en": [
+          "The St. Elias Mountains form the absolute highest coastal mountain range on the planet.",
+          "Mount Logan stands at exactly 5,959 meters, making it the highest mountain peak in Canada.",
+          "The aggressive tectonic subduction of the Pacific Plate actively causes continuous earthquakes.",
+          "Extreme annual snowfall directly feeds the massive Bagley Icefield and gigantic glaciers.",
+          "Above the permanent snowline, the harsh environment is completely devoid of any flora or fauna.",
+          "The towering peaks violently rise directly from the ocean within just a few dozen kilometers.",
+          "The mountain region is strictly protected by a massive, cross-border national park complex."
+        ]
+      }
+    },
+    {
+      "id": "alberta-badlands-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Alberta Badlands repräsentieren eine stark erodierte, hochgradig markante und aride Landschaft, die sich primär im südöstlichen Teil der kanadischen Provinz Alberta befindet und eng dem tiefen Flusstal des Red Deer River folgt. Diese eindrucksvolle geologische Formation entstand vor rund 13.000 Jahren während des rasanten Rückzugs des gigantischen Laurentidischen Eisschildes, als katastrophale Mengen an Gletscherschmelzwasser gewaltsam durch die weichen, horizontal geschichteten Sedimentgesteine aus der späten Kreidezeit schnitten. Die ständigen Kräfte von Wind- und Wassererosion haben die verbliebenen Sand- und Tonsteine in tiefe Schluchten (Coulees), enge Rinnen und turmhohe, pilzförmige Felssäulen, die als Hoodoos bekannt sind, geformt. Global betrachtet ist die Region von außergewöhnlicher paläontologischer Bedeutung, da sie eine der konzentriertesten und vielfältigsten Ablagerungen von Dinosaurierfossilien enthält, die jemals auf der Erde entdeckt wurden. Ausgrabungen in Gebieten wie dem Dinosaur Provincial Park und dem Drumheller Valley brachten Tausende vollständige Skelette von über 40 verschiedenen Dinosaurierarten, darunter Albertosaurus und Triceratops, zutage. Das lokale Klima ist strikt halbtrocken, gekennzeichnet durch heiße, trockene Sommer und eine extrem spärliche Vegetation, die von Wüstenbeifuß, Präriegräsern und widerstandsfähigen Kakteen dominiert wird. Die dünne, nährstoffarme Bodenzusammensetzung und die hohe physische Erosionsrate verhindern die traditionelle Landwirtschaft in den tiefsten Teilen der Badlands komplett.",
+        "hu": "Az albertai badlands egy erősen erodált, rendkívül markáns és száraz (arid) táj, amely elsősorban a kanadai Alberta tartomány délkeleti részén található, és szorosan követi a Red Deer-folyó mély völgyét. Ez a lenyűgöző geológiai formáció körülbelül 13 000 évvel ezelőtt jött létre a gigantikus Laurentide-jégtakaró gyors visszahúzódása során, amikor a gleccserekből származó olvadékvíz katasztrofális mennyiségben, erőszakosan vágott át a késő kréta kori puha, vízszintesen rétegzett üledékes kőzeteken. A szél és a víz eróziójának állandó erői a megmaradt homokkövet és iszapkövet mély vízmosásokká (coulees), szűk szurdokokká és tornyosuló, gomba alakú sziklaoszlopokká, úgynevezett hoodookká formálták. Globálisan a régió kivételes őslénytani (paleontológiai) jelentőséggel bír, mivel a Földön valaha felfedezett egyik legkoncentráltabb és legváltozatosabb dinoszaurusz-fosszília-lerakódást tartalmazza. Az olyan területeken, mint a Dinosaur Tartományi Park és a Drumheller-völgy, végzett ásatások több mint 40 különböző dinoszauruszfaj, köztük az Albertosaurus és a Triceratops több ezer teljes csontvázát hozták felszínre. A helyi éghajlat szigorúan félszáraz, amelyet forró, száraz nyarak és rendkívül gyér, zsályából, prérifüvekből és ellenálló kaktuszokból álló növényzet jellemez. A vékony, tápanyagszegény talajösszetétel és a magas fizikai eróziós ráta teljesen megakadályozza a hagyományos mezőgazdaságot a badlands legmélyebb részein.",
+        "ro": "Badlands din Alberta reprezintă un peisaj arid, puternic erodat și extrem de distinct, situat în principal în partea de sud-est a provinciei canadiene Alberta, urmând îndeaproape valea adâncă a râului Red Deer. Această formațiune geologică impresionantă a fost creată în urmă cu aproximativ 13.000 de ani în timpul retragerii rapide a giganticei calote glaciare Laurentide, când volume catastrofale de apă de topire glaciară au tăiat violent prin rocile sedimentare moi, stratificate orizontal, din perioada Cretacicului Târziu. Forțele continue ale eroziunii eoliene și hidrice au sculptat gresia și argila rămase în ravene adânci (coulees), defileuri înguste și stâlpi de stâncă înalți, în formă de ciupercă, cunoscuți sub numele de hoodoos. La nivel global, regiunea este de o importanță paleontologică excepțională, conținând unul dintre cele mai concentrate și diverse depozite de fosile de dinozaur descoperite vreodată pe Pământ. Săpăturile în zone precum Dinosaur Provincial Park și Valea Drumheller au scos la iveală mii de schelete complete din peste 40 de specii diferite de dinozauri, inclusiv Albertosaurus și Triceratops. Climatul local este strict semi-arid, caracterizat prin veri fierbinți, uscate și o vegetație extrem de rară, dominată de pelin de deșert, ierburi de prerie și cactuși rezistenți. Compoziția subțire, săracă în nutrienți a solului și rata ridicată a eroziunii fizice previn complet agricultura tradițională în cele mai adânci părți ale Badlands.",
+        "en": "The Alberta Badlands represent a highly distinct, heavily eroded arid landscape located primarily in the southeastern portion of the Canadian province of Alberta, closely following the deep valley of the Red Deer River. This striking geological formation was created approximately 13,000 years ago during the rapid retreat of the massive Laurentide Ice Sheet, when catastrophic volumes of glacial meltwater violently carved through the soft, horizontally stratified sedimentary rocks of the Late Cretaceous period. The continuous forces of wind and water erosion have sculpted the remaining sandstone and mudstone into deep coulees, narrow ravines, and towering, mushroom-shaped rock pillars known as hoodoos. Globally, the region is exceptionally significant for paleontology, containing one of the most concentrated and diverse deposits of dinosaur fossils ever discovered on Earth. Excavations in locations like Dinosaur Provincial Park and the Drumheller valley have yielded thousands of complete skeletons from over 40 different dinosaur species, including Albertosaurus and Triceratops. The local climate is strictly semi-arid, characterized by hot, dry summers and extremely sparse vegetation heavily dominated by sagebrush, prairie grasses, and hardy cacti. The thin, nutrient-poor soil composition and the high rate of physical erosion completely prevent traditional agricultural development in the deepest eroded parts of the badlands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Badlands entstanden vor 13.000 Jahren durch katastrophales Gletscherschmelzwasser.",
+          "Das erodierte Tal folgt primär dem langen Verlauf des Red Deer Rivers.",
+          "Wind und Wasser formten die charakteristischen, pilzförmigen Felssäulen namens Hoodoos.",
+          "Die Region beherbergt eine der dichtesten Ansammlungen von Dinosaurierfossilien weltweit.",
+          "Paläontologen gruben hier Fossilien von über 40 verschiedenen Dinosaurierarten aus.",
+          "Das raue Klima ist strikt halbtrocken mit heißen, extrem trockenen Sommern.",
+          "Die massive Erosion und dünne Böden machen Landwirtschaft in den Tälern absolut unmöglich."
+        ],
+        "hu": [
+          "A badlands körülbelül 13 000 évvel ezelőtt alakult ki a katasztrofális gleccserolvadékvíz révén.",
+          "Az erodált völgy elsősorban a Red Deer-folyó hosszú lefolyását követi.",
+          "A szél és a víz formálta ki a jellegzetes, gomba alakú sziklaoszlopokat, a hoodookat.",
+          "A régió a dinoszauruszfosszíliák egyik legsűrűbb felhalmozódásának ad otthont világszerte.",
+          "A paleontológusok több mint 40 különböző dinoszauruszfaj kövületeit ásták ki itt.",
+          "A zord éghajlat szigorúan félszáraz, forró és rendkívül aszályos nyarakkal.",
+          "A masszív erózió és a vékony talaj teljesen lehetetlenné teszi a mezőgazdaságot a völgyekben."
+        ],
+        "ro": [
+          "Badlands au fost formate acum 13.000 de ani de apele de topire glaciare catastrofale.",
+          "Valea erodată urmează în principal cursul lung al râului Red Deer.",
+          "Vântul și apa au sculptat stâlpii caracteristici de piatră în formă de ciupercă numiți hoodoos.",
+          "Regiunea găzduiește una dintre cele mai dense acumulări de fosile de dinozaur din lume.",
+          "Paleontologii au excavat aici fosile din peste 40 de specii diferite de dinozauri.",
+          "Climatul aspru este strict semi-arid, cu veri fierbinți și extrem de uscate.",
+          "Eroziunea masivă și solurile subțiri fac agricultura în văi absolut imposibilă."
+        ],
+        "en": [
+          "The badlands were aggressively carved roughly 13,000 years ago by catastrophic glacial meltwater.",
+          "The deeply eroded landscape follows primarily along the deep valley of the Red Deer River.",
+          "Continuous wind and water erosion violently sculpted the mushroom-shaped rock pillars called hoodoos.",
+          "The specific region contains one of the most highly concentrated dinosaur fossil deposits on Earth.",
+          "Paleontologists have systematically excavated complete skeletons from over 40 distinct dinosaur species.",
+          "The harsh local climate is strictly semi-arid, featuring hot, completely dry summers.",
+          "The massive physical erosion and thin soil completely prevent agriculture in the deepest ravines."
+        ]
+      }
+    },
+    {
+      "id": "purcell-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Purcell Mountains (Purcell-Berge) bilden eine bedeutende Unterkette der Columbia Mountains, die sich im südöstlichen Quadranten von British Columbia befindet. Sie werden geografisch massiv durch den Rocky Mountain Trench im Osten, der sie klar von den kanadischen Rocky Mountains trennt, und das Kootenay Lake- und Flusstal im Westen begrenzt. Geologisch besteht der Kern der Purcells aus extrem alten präkambrischen Sediment- und metamorphen Gesteinen, die stark von gigantischen Granit-Batholithen durchdrungen sind. Die absolut höchste Erhebung der Kette wird am Mount Farnham erreicht, der genau 3.493 Meter hoch ist. Das Gebirge ist unter globalen Alpinisten besonders für die Bugaboos bekannt, eine hochspezifische Unterkette, die durch völlig vertikale Granitnadeln (Spires) besticht, die dramatisch aus den umliegenden aktiven Gletschern ragen und einige der anspruchsvollsten technischen Kletterrouten Nordamerikas bieten. Historisch wurden die Purcell Mountains Ende des 19. Jahrhunderts stark von Prospektoren durchsucht, was zur Gründung der Sullivan Mine in Kimberley führte, die fast ein Jahrhundert lang als eine der größten unterirdischen Blei-Zink-Minen der Erde betrieben wurde. Die westlichen Hänge fangen signifikant viel pazifische Feuchtigkeit ab, was dichte gemäßigte Regenwälder aus Zedern und Hemlocktannen begünstigt, während die östlichen Flanken, die in den Rocky Mountain Trench hinabfallen, wesentlich trockener sind. Das steile, dicht bewaldete Terrain ist außerhalb der großen Randtäler größtenteils unbewohnt.",
+        "hu": "A Purcell-hegység (Purcell Mountains) a Columbia-hegység egyik jelentős alvonulatát alkotja, amely Brit Columbia délkeleti negyedében helyezkedik el. Földrajzilag masszívan határolja keleten a Sziklás-hegységi-árok (Rocky Mountain Trench), amely egyértelműen elválasztja a kanadai Sziklás-hegységtől, nyugaton pedig a Kootenay-tó és folyóvölgy. Geológiailag a Purcell magja rendkívül ősi, prekambriumi üledékes és metamorf kőzetekből áll, amelyeket gigantikus gránit batolitok törtek át erőteljesen. A hegylánc abszolút legmagasabb pontja a Mount Farnham, amely pontosan 3493 méter magas. A hegység a globális alpinisták körében különösen a Bugaboos nevű, rendkívül specifikus alvonulatról ismert, amely lenyűgözően függőleges gránittűkkel (spires) büszkélkedhet, amelyek drámaian emelkednek ki a környező aktív gleccserekből, és Észak-Amerika legigényesebb technikai sziklamászó útvonalait kínálják. Történelmileg a Purcell-hegységet a 19. század végén erőteljesen átkutatták az aranyásók, ami a kimberley-i Sullivan bánya alapításához vezetett, amely közel egy évszázadon át a Föld egyik legnagyobb földalatti ólom-cink bányájaként üzemelt. A nyugati lejtők jelentős mennyiségű csendes-óceáni nedvességet fognak fel, ami kedvez a cédrusokból és hemlokfenyőkből álló sűrű mérsékelt övi esőerdőknek, míg a Sziklás-hegységi-árokba ereszkedő keleti lejtők lényegesen szárazabbak. A meredek, sűrűn erdősült terep a nagy peremvölgyeken kívül nagyrészt lakatlan.",
+        "ro": "Munții Purcell formează un sub-lanț major al Munților Columbia, situat în cadranul de sud-est al Columbiei Britanice. Aceștia sunt mărginiți geografic masiv de Fosa Munților Stâncoși (Rocky Mountain Trench) la est, care îi separă clar de Munții Stâncoși canadieni, și de valea Lacului și râului Kootenay la vest. Geologic, nucleul Munților Purcell constă din roci sedimentare și metamorfice precambriene extrem de vechi, care sunt puternic intruse de batoliți de granit gigantici. Altitudinea absolută maximă a lanțului este atinsă la Mount Farnham, care are exact 3.493 de metri înălțime. Lanțul muntos este deosebit de cunoscut printre alpiniștii mondiali pentru Bugaboos, un sub-lanț foarte specific care impresionează prin turnuri de granit complet verticale (spires) care se ridică dramatic din ghețarii activi înconjurători și oferă unele dintre cele mai solicitante trasee tehnice de alpinism din America de Nord. Istoric, Munții Purcell au fost intens prospectați la sfârșitul secolului al XIX-lea, ceea ce a dus la fondarea Minei Sullivan în Kimberley, care a funcționat timp de aproape un secol ca una dintre cele mai mari mine subterane de plumb și zinc de pe Pământ. Pantele vestice interceptează o cantitate semnificativă de umiditate din Pacific, favorizând păduri tropicale temperate dense de cedru și tsuga, în timp ce flancurile estice care coboară în Fosa Munților Stâncoși sunt semnificativ mai uscate. Terenul abrupt, dens împădurit, este în mare parte nelocuit în afara marilor văi marginale.",
+        "en": "The Purcell Mountains constitute a major subrange of the Columbia Mountains, located in the southeastern quadrant of British Columbia. They are geographically bounded by the massive Rocky Mountain Trench to the east, which definitively separates them from the Canadian Rockies, and the deep Kootenay Lake and River valley to the west. Geologically, the core of the Purcells consists of extremely ancient Precambrian sedimentary and metamorphic rocks, heavily intruded by gigantic granite batholiths. The absolute highest elevation in the entire chain is achieved at Mount Farnham, standing precisely at 3,493 meters. The range is highly notable among global alpinists specifically for the Bugaboos, a highly rugged subrange featuring sheer, vertical granite spires protruding dramatically out of surrounding active glaciers, creating some of the most challenging technical rock climbing routes in North America. Historically, the Purcell Mountains were heavily prospected during the late 1800s, leading directly to the establishment of the Sullivan Mine in Kimberley, which operated for nearly a century as one of the absolutely largest underground lead-zinc mines on Earth. The western slopes aggressively intercept significant Pacific moisture, supporting dense interior cedar-hemlock rainforests, while the eastern slopes descending into the Rocky Mountain Trench are substantially drier. The steep, heavily timbered terrain remains largely devoid of major human settlements outside of the main boundary valleys."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der massige Rocky Mountain Trench trennt das Gebirge im Osten von den Rockies.",
+          "Mount Farnham bildet mit 3.493 Metern die absolut höchste Erhebung der gesamten Kette.",
+          "Die Unterkette der Bugaboos ist weltweit berühmt für ihre steilen Granitnadeln.",
+          "Das Gestein im Kern besteht aus uralten Präkambrium-Sedimenten und Granit-Batholithen.",
+          "Die Sullivan Mine bei Kimberley war eines der größten unterirdischen Blei-Zink-Bergwerke.",
+          "Westliche Berghänge fangen Pazifikregen auf und beheimaten extrem dichte Nadelwälder.",
+          "Das felsige, dicht bewaldete Terrain im Inneren der Bergkette ist vollständig unbewohnt."
+        ],
+        "hu": [
+          "A masszív Sziklás-hegységi-árok (Trench) választja el keleten a hegyeket a Sziklás-hegységtől.",
+          "A 3493 méteres Mount Farnham az egész lánc abszolút legmagasabb kiemelkedése.",
+          "A Bugaboos alvonulat világszerte híres meredek, gránit sziklatűiről az alpinisták körében.",
+          "A mag kőzete ősi prekambriumi üledékekből és hatalmas gránit batolitokból áll.",
+          "A kimberley-i Sullivan bánya a világ egyik legnagyobb földalatti ólom-cink bányája volt.",
+          "A nyugati hegyoldalak felfogják a csendes-óceáni esőt, és rendkívül sűrű tűlevelű erdőknek adnak otthont.",
+          "A hegylánc belsejében lévő sziklás, sűrűn erdősült terep teljesen lakatlan."
+        ],
+        "ro": [
+          "Masiva Fosă a Munților Stâncoși separă munții din est de Munții Stâncoși propriu-ziși.",
+          "Muntele Farnham, cu 3.493 de metri, formează altitudinea absolută maximă a întregului lanț.",
+          "Sub-lanțul Bugaboos este renumit în întreaga lume pentru turnurile sale abrupte de granit.",
+          "Roca din nucleu este formată din sedimente precambriene străvechi și batoliți de granit.",
+          "Mina Sullivan de lângă Kimberley a fost una dintre cele mai mari mine subterane de plumb-zinc.",
+          "Versanții vestici captează ploaia din Pacific și găzduiesc păduri de conifere extrem de dense.",
+          "Terenul stâncos, dens împădurit din interiorul lanțului muntos este complet nelocuit."
+        ],
+        "en": [
+          "The massive Rocky Mountain Trench physically separates the range from the Canadian Rockies to the east.",
+          "Mount Farnham stands at exactly 3,493 meters, making it the absolute highest peak in the chain.",
+          "The Bugaboos subrange is globally renowned among elite alpinists for its sheer vertical granite spires.",
+          "The core bedrock consists of extremely ancient Precambrian sedimentary layers and granite batholiths.",
+          "The historic Sullivan Mine operated for a century as an absolutely massive underground lead-zinc mine.",
+          "The western mountain slopes aggressively trap Pacific moisture, hosting extremely dense coniferous rainforests.",
+          "The steep, heavily timbered, and rocky terrain within the range's interior remains completely unpopulated."
+        ]
+      }
+    },
+    {
+      "id": "monashee-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Monashee Mountains (Monashee-Berge) bilden eine massive, raue Gebirgskette, die sich über etwa 530 Kilometer vom südöstlichen British Columbia bis direkt zur US-Grenze im Süden und bis zum Robson Valley im Norden erstreckt. Als am weitesten westlich gelegene Hauptunterkette der Columbia Mountains werden sie im Westen massiv durch das Okanagan Valley und im Osten durch das tiefe Tal der Arrow Lakes begrenzt. Der Name des Gebirges stammt von dem schottisch-gälischen Wort „monadh-sìth“, was wörtlich als „Berg des Friedens“ übersetzt wird, eine Bezeichnung, die von einem frühen schottischen Goldgräber vergeben wurde. Geologisch bestehen die Monashees primär aus stark angehobenen, tief metamorphosierten Gesteinen und gewaltigen granitischen Intrusionen. Das physische Relief ist durch extrem steile, dicht bewaldete Völker und scharfe, vergletscherte Gipfel geprägt, wobei Mount Monashee mit 3.274 Metern die absolute höchste Erhebung markiert. Da die Monashees die erste große topografische Barriere östlich der Coast Mountains darstellen, fangen sie pazifische Wettersysteme aggressiv ab, was zu außergewöhnlich starken und zuverlässigen jährlichen Schneeansammlungen führt. Dieser gewaltige Schneefall hat die Region in ein hochlukratives, globales Epizentrum für kommerzielles Helikopter-Skifahren verwandelt. Die historische Wirtschaftstätigkeit wurde im 19. Jahrhundert stark vom Goldwaschen und später von großflächiger industrieller Forstwirtschaft angetrieben, die bis heute die dichten Bestände aus Riesen-Lebensbäumen und Douglasien an den tieferen Flanken abholzt.",
+        "hu": "A Monashee-hegység egy masszív, zord hegyláncot alkot, amely körülbelül 530 kilométer hosszan húzódik a délkeleti Brit Columbiától közvetlenül a déli amerikai határig, északon pedig a Robson-völgyig. A Columbia-hegység legnyugatibb fő alvonulataként nyugaton masszívan határolja az Okanagan-völgy, keleten pedig az Arrow-tavak mély völgye. A hegység neve a skót gael „monadh-sìth” szóból származik, ami szó szerint „a béke hegyét” jelenti; ezt az elnevezést egy korai skót aranyásó adta neki. Geológiailag a Monashee-hegység elsősorban erősen felemelkedett, mélyen metamorfizálódott kőzetekből és hatalmas gránit benyomulásokból áll. A fizikai domborzatot rendkívül meredek, sűrűn erdősült völgyek és éles, eljegesedett csúcsok jellemzik, a 3274 méteres Mount Monashee pedig az abszolút legmagasabb pont. Mivel a Monashee-hegység az első nagy topográfiai akadály a Parti-hegységtől keletre, agresszívan felfogja a csendes-óceáni időjárási rendszereket, ami kivételesen erős és megbízható éves hófelhalmozódást eredményez. Ez a hatalmas havazás a régiót a kereskedelmi helikopteres síelés (heliskiing) rendkívül jövedelmező, globális epicentrumává változtatta. A történelmi gazdasági tevékenységet a 19. században erősen hajtotta az aranymosás, majd később a nagymértékű ipari erdészet, amely a mai napig kitermeli a hatalmas óriás tuja és duglászfenyő állományokat az alacsonyabb hegyoldalakon.",
+        "ro": "Munții Monashee formează un lanț muntos masiv și accidentat, care se întinde pe aproximativ 530 de kilometri din sud-estul Columbiei Britanice direct până la granița cu SUA în sud și până la valea Robson în nord. Fiind cel mai vestic sub-lanț principal al Munților Columbia, ei sunt mărginiți masiv de Valea Okanagan la vest și de valea adâncă a Lacurilor Arrow la est. Numele lanțului muntos provine de la cuvântul galic scoțian „monadh-sìth”, care se traduce literal prin „Muntele Păcii”, o denumire dată de un prim prospector scoțian de aur. Geologic, Monashee sunt alcătuiți în principal din roci puternic înălțate, profund metamorfozate și intruziuni granitice uriașe. Relieful fizic este caracterizat de văi extrem de abrupte, dens împădurite și vârfuri ascuțite, glaciare, Muntele Monashee marcând altitudinea absolută maximă la 3.274 de metri. Deoarece Monashee reprezintă prima barieră topografică majoră la est de Coast Mountains, ei interceptează agresiv sistemele meteorologice din Pacific, rezultând acumulări anuale de zăpadă excepțional de mari și sigure. Această ninsoare uriașă a transformat regiunea într-un epicentru global extrem de profitabil pentru schiul comercial cu elicopterul. Activitatea economică istorică a fost puternic impulsionată de spălarea aurului în secolul al XIX-lea și, ulterior, de silvicultura industrială pe scară largă, care continuă și astăzi să recolteze arboretele dense de tuia uriașă și brad Douglas de pe flancurile inferioare.",
+        "en": "The Monashee Mountains form a massive, highly rugged mountain range spanning southeastern British Columbia, stretching for approximately 530 kilometers from the United States border directly north to the Robson Valley. As the westernmost major subrange of the Columbia Mountains, they are massively bordered by the Okanagan Valley to the west and the deep Arrow Lakes valley to the east. The range's name originates directly from the Scottish Gaelic word \"monadh-sìth,\" literally translating to \"mountain of peace,\" a moniker assigned by an early Scottish gold prospector. Geologically, the Monashees are composed primarily of highly uplifted, deeply metamorphosed rocks and massive granitic intrusions. The physical relief is completely characterized by extremely steep, heavily timbered valleys and sharp, glaciated summits, with Mount Monashee marking the absolute highest elevation at 3,274 meters. Because they act as the first major topographical barrier east of the Coast Mountains, the Monashees aggressively intercept incoming Pacific weather systems, resulting in exceptionally heavy and reliable annual snow accumulations. This immense snowfall has permanently transformed the region into a highly lucrative, global epicenter for commercial heliskiing operations. Historical economic activity was driven heavily by placer gold mining in the 19th century and subsequent large-scale industrial forestry, which continues today to aggressively harvest the dense stands of western redcedar and Douglas-fir dominating the lower flanks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die raue Gebirgskette erstreckt sich über eine massive Länge von rund 530 Kilometern.",
+          "Der gälische Name 'Monashee' bedeutet wörtlich übersetzt der 'Berg des Friedens'.",
+          "Mount Monashee bildet mit exakt 3.274 Metern den absolut höchsten Punkt der Kette.",
+          "Da die Berge pazifische Stürme abfangen, verzeichnen sie extreme winterliche Schneefälle.",
+          "Die Region ist weltweit als hochlukratives Zentrum für das kommerzielle Helikopter-Skifahren bekannt.",
+          "Im 19. Jahrhundert zog ein intensiver Goldrausch viele Prospektoren in die westlichen Täler.",
+          "Großflächige industrielle Forstwirtschaft dominiert die Ausbeutung der stark bewaldeten Berghänge."
+        ],
+        "hu": [
+          "A zord hegylánc masszív, mintegy 530 kilométeres hosszúságban nyúlik el.",
+          "A gael 'Monashee' név szó szerinti fordításban a 'béke hegyét' jelenti.",
+          "A pontosan 3274 méteres Mount Monashee a lánc abszolút legmagasabb pontja.",
+          "Mivel a hegyek felfogják a csendes-óceáni viharokat, extrém téli havazást regisztrálnak.",
+          "A régió világszerte a kereskedelmi helikopteres síelés rendkívül jövedelmező központjaként ismert.",
+          "A 19. században egy intenzív aranyláz rengeteg kutatót vonzott a nyugati völgyekbe.",
+          "A sűrűn erdősült hegyoldalak kitermelését a nagyszabású ipari erdészet uralja."
+        ],
+        "ro": [
+          "Lanțul muntos accidentat se întinde pe o lungime masivă de aproximativ 530 de kilometri.",
+          "Numele galic 'Monashee' se traduce literal prin 'muntele păcii'.",
+          "Mount Monashee formează punctul absolut cel mai înalt al lanțului cu exact 3.274 de metri.",
+          "Deoarece munții captează furtunile din Pacific, ei înregistrează ninsori de iarnă extreme.",
+          "Regiunea este cunoscută la nivel mondial ca un centru foarte profitabil pentru heliski comercial.",
+          "În secolul al XIX-lea, o goană intensă după aur a atras mulți prospectori în văile vestice.",
+          "Silvicultura industrială la scară largă domină exploatarea versanților muntoși puternic împăduriți."
+        ],
+        "en": [
+          "The highly rugged mountain range extends for a massive continuous length of roughly 530 kilometers.",
+          "The Scottish Gaelic name 'Monashee' translates literally into English as 'mountain of peace'.",
+          "Mount Monashee forms the absolute highest physical point in the chain at exactly 3,274 meters.",
+          "Because the peaks aggressively block Pacific storms, they record extreme winter snow accumulations.",
+          "The region is globally recognized as a highly lucrative epicenter for commercial helicopter skiing.",
+          "In the 19th century, an intense placer gold rush drew massive prospectors to the western valleys.",
+          "Large-scale industrial forestry completely dominates the resource extraction on the heavily timbered slopes."
+        ]
+      }
+    },
+    {
+      "id": "cypress-hills-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Cypress Hills (Zypressen-Hügel) bilden eine stark abgrenzte, topografisch erhabene Region, die sich massiv über die südliche Grenze der kanadischen Provinzen Alberta und Saskatchewan erstreckt. Sie erheben sich dramatisch über 600 Meter über die umgebende, extrem flache und halbtrockene Prärie und stellen mit einer maximalen Höhe von 1.468 Metern (am Head of the Mountain) den absolut höchsten Punkt Kanadas zwischen den Rocky Mountains und der fernen Labrador-Halbinsel dar. Geologisch und ökologisch sind die Hügel eine absolute Anomalie; sie fungierten während der letzten Wisconsin-Eiszeit als gewaltiger Nunatak, was bedeutet, dass die höchsten Plateaus komplett unvergletschert blieben und dem aggressiven Abschleifen des riesigen Laurentidischen Eisschildes entgingen. Dieses vollständige Fehlen der Vergletscherung bewahrte spezifische tertiäre Kiesablagerungen und ein höchst einzigartiges, vollkommen isoliertes Ökosystem. Die höheren Lagen unterstützen einen dichten, räumlich begrenzten Wald aus Küsten-Kiefern (Lodgepole Pines), Weißfichten und Amerikanischen Zitterpappeln – Arten, die typischerweise Hunderte von Kilometern entfernt in den Ausläufern der Rockies wachsen. Das kühlere, extrem feuchtigkeitsreiche Mikroklima der Hügel bietet einen absolut kritischen Lebensraum für Pumas, Wapitis und Wildtruthühner und steht im extremen Kontrast zu den trockenen, baumlosen Graslandschaften am Fuß der Hügel. Historisch waren die Hügel ein wichtiges Überwinterungsgebiet für indigene First Nations. 1873 ereignete sich hier das Cypress-Hills-Massaker, eine Tragödie, die die Gründung der North-West Mounted Police extrem beschleunigte.",
+        "hu": "A Cypress Hills (Ciprus-dombok) egy erősen elkülönülő, topográfiailag kiemelkedő régiót alkot, amely masszívan húzódik Alberta és Saskatchewan kanadai tartományok déli határa mentén. Drámaian, több mint 600 méterrel magasodnak a környező, rendkívül lapos és félszáraz préri fölé, és 1468 méteres maximális magasságukkal (a Head of the Mountain nevű ponton) az abszolút legmagasabb pontot jelentik Kanadában a Sziklás-hegység és a távoli Labrador-félsziget között. Geológiailag és ökológiailag a dombok abszolút anomáliát képeznek; a legutóbbi Wisconsin-eljegesedés idején egy gigantikus nunatakként funkcionáltak, ami azt jelenti, hogy a legmagasabb fennsíkok teljesen jégmentesek maradtak, és megmenekültek az óriási Laurentide-jégtakaró agresszív csiszoló hatásától. Az eljegesedés ezen teljes hiánya specifikus harmadidőszaki kavicslerakódásokat és egy rendkívül egyedi, teljesen elszigetelt ökoszisztémát őrzött meg. A magasabb fekvések egy sűrű, térbelileg behatárolt, csavarttűjű fenyőből (Lodgepole Pine), fehér lucfenyőből és rezgő nyárból álló erdőt tartanak fenn – olyan fajokat, amelyek jellemzően több száz kilométerrel arrébb, a Sziklás-hegység lábánál nőnek. A dombok hűvösebb, extrém nedves mikroklímája abszolút kritikus élőhelyet biztosít a pumák, vapitik és vadpulykák számára, és éles ellentétben áll a domb alatti száraz, fátlan füves pusztákkal. Történelmileg a dombok fontos telelőhelyet jelentettek az őslakos First Nations népek számára. 1873-ban itt történt a Cypress Hills-i mészárlás, egy tragédia, amely rendkívüli módon felgyorsította a North-West Mounted Police (Északnyugati Lovasrendőrség) megalapítását.",
+        "ro": "Cypress Hills formează o regiune topografic ridicată, puternic delimitată, care se extinde masiv peste granița de sud a provinciilor canadiene Alberta și Saskatchewan. Se înalță dramatic cu peste 600 de metri deasupra preriei înconjurătoare, extrem de plată și semi-aridă, și reprezintă punctul absolut cel mai înalt din Canada între Munții Stâncoși și îndepărtata Peninsulă Labrador, cu o altitudine maximă de 1.468 de metri (la Head of the Mountain). Din punct de vedere geologic și ecologic, dealurile sunt o anomalie absolută; au funcționat ca un nunatak masiv în timpul ultimei glaciațiuni Wisconsin, ceea ce înseamnă că cele mai înalte platouri au rămas complet neatinse de ghețari și au scăpat de abraziunea agresivă a uriașei calote glaciare Laurentide. Această absență completă a glaciațiunii a păstrat depozite specifice de pietriș terțiar și un ecosistem extrem de unic, complet izolat. Altitudinile superioare susțin o pădure densă, limitată spațial, de pini contorsionați (Lodgepole Pines), molizi albi și plopi tremurători americani – specii care cresc de obicei la sute de kilometri distanță la poalele Munților Stâncoși. Microclimatul mai rece și extrem de bogat în umiditate al dealurilor oferă un habitat absolut critic pentru pume, elani și curcani sălbatici, și contrastează extrem cu pajiștile uscate, fără copaci, de la baza dealurilor. Din punct de vedere istoric, dealurile au fost o importantă zonă de iernare pentru popoarele indigene First Nations. În 1873, a avut loc aici Masacrul de la Cypress Hills, o tragedie care a accelerat extrem crearea Poliției Călare de Nord-Vest (North-West Mounted Police).",
+        "en": "The Cypress Hills form a highly distinct, elevated topographical region spanning the southern border of the Canadian provinces of Alberta and Saskatchewan. Rising dramatically over 600 meters completely above the surrounding flat, semi-arid prairie, they represent the absolute highest point of land in Canada between the Rocky Mountains and the distant Labrador Peninsula, reaching a maximum measured elevation of exactly 1,468 meters at the Head of the Mountain. Geologically and ecologically, the hills are an absolute anomaly; they acted directly as a massive nunatak during the last Wisconsin glaciation, meaning the highest plateaus remained completely unglaciated and fully escaped the aggressive physical scouring of the gigantic Laurentide Ice Sheet. This total lack of glaciation preserved highly specific tertiary gravel deposits and an extremely unique, completely isolated ecosystem. The upper elevations actively support a dense, highly localized forest of lodgepole pines, white spruce, and trembling aspen—tree species typically found hundreds of kilometers away in the Rocky Mountain foothills. The cooler, highly precipitous microclimate provides absolutely critical habitat for predatory cougars, elk, and wild turkeys, standing in extreme contrast to the brutally dry, treeless grasslands directly below. Historically, the hills were an extremely vital wintering ground and hunting territory for indigenous First Nations. In 1873, the region was the site of the infamous Cypress Hills Massacre, a violent tragedy that massively accelerated the official creation of the North-West Mounted Police."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Hügel bilden den absolut höchsten Punkt Kanadas zwischen den Rockies und Labrador.",
+          "Das Hochplateau misst am Head of the Mountain exakt 1.468 Meter über dem Meer.",
+          "Das Plateau wurde während der letzten gigantischen Eiszeit niemals von Gletschern überdeckt.",
+          "Ein kühles, feuchtes Mikroklima erlaubt dichtes Waldwachstum mitten in der trockenen Prärie.",
+          "Hier wachsen Küsten-Kiefern, die sonst nur Hunderte Kilometer entfernt in den Rockies vorkommen.",
+          "Die Region war historisch ein extrem wichtiges winterliches Rückzugsgebiet für die First Nations.",
+          "Das Cypress-Hills-Massaker von 1873 führte zur beschleunigten Gründung der kanadischen Polizei."
+        ],
+        "hu": [
+          "A dombok alkotják Kanada abszolút legmagasabb pontját a Sziklás-hegység és Labrador között.",
+          "A fennsík a Head of the Mountain nevű ponton pontosan 1468 méterrel van a tengerszint felett.",
+          "A fennsíkot a legutóbbi gigantikus jégkorszak alatt soha nem borították be teljesen gleccserek.",
+          "A hűvös, nedves mikroklíma sűrű erdőnövekedést tesz lehetővé a száraz préri közepén.",
+          "Olyan csavarttűjű fenyők nőnek itt, amelyek egyébként csak több száz kilométerre a Sziklás-hegységben találhatók.",
+          "A régió történelmileg az őslakosok rendkívül fontos téli menedékterülete volt.",
+          "Az 1873-as Cypress Hills-i mészárlás vezetett a kanadai lovasrendőrség felgyorsított megalapításához."
+        ],
+        "ro": [
+          "Dealurile formează absolut cel mai înalt punct din Canada între Munții Stâncoși și Labrador.",
+          "Platoul înalt măsoară exact 1.468 de metri deasupra nivelului mării la Head of the Mountain.",
+          "Platoul nu a fost niciodată acoperit de ghețari în timpul ultimei ere glaciare gigantice.",
+          "Un microclimat rece și umed permite creșterea densă a pădurilor în mijlocul preriei uscate.",
+          "Aici cresc pini contorsionați, care altfel se găsesc doar la sute de kilometri distanță în Stâncoși.",
+          "Regiunea a fost istoric o zonă de iernare extrem de importantă pentru Primele Națiuni.",
+          "Masacrul din Cypress Hills din 1873 a dus la formarea accelerată a poliției canadiene."
+        ],
+        "en": [
+          "The hills form the absolute highest point of land in Canada between the Rockies and Labrador.",
+          "The elevated plateau reaches a maximum height of exactly 1,468 meters at the Head of the Mountain.",
+          "The highest plateaus were never physically covered by moving glaciers during the last Ice Age.",
+          "A much cooler, wetter microclimate permits dense forest growth completely surrounded by dry prairie.",
+          "The hills support lodgepole pines typically found only hundreds of kilometers away in the Rockies.",
+          "The region historically served as an extremely vital winter retreat for indigenous First Nations.",
+          "The violent 1873 Cypress Hills Massacre directly accelerated the creation of the Canadian mounted police."
+        ]
+      }
+    },
+    {
+      "id": "cariboo-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Cariboo Mountains bilden die nördlichste und mit Abstand am stärksten vergletscherte Unterkette der massiven Columbia Mountains, die sich vollständig im Binnenland der kanadischen Provinz British Columbia befindet. Geografisch streng begrenzt durch den tiefen Rocky Mountain Trench im Osten und das weitläufige Interior Plateau im Westen, erstreckt sich dieser massive Gebirgsblock über rund 300 Kilometer. Die geologische Struktur ist durch extrem tief gefaltete präkambrische und paläozoische Sediment- und Metamorphgesteine geprägt. Der absolut höchste Gipfel der Gebirgskette ist der Mount Sir Wilfrid Laurier, der eine beeindruckende Höhe von exakt 3.516 Metern erreicht. Die hohen Lagen der Cariboos werden vollständig von weitläufigen Eisfeldern und massiven, aktiven Gletschern dominiert, die im Laufe der Jahrtausende extrem tiefe, U-förmige Flusstäler in den harten Fels geschnitten haben. Der südwestliche Sektor des Gebirges wird innerhalb der riesigen Grenzen des Wells Gray Provincial Parks massiv geschützt, einer Wildnis, die weltweit für ihre spektakulären, gletschergespeisten Seen und zahlreichen gewaltigen Wasserfälle, einschließlich der ikonischen Helmcken Falls, anerkannt ist. Historisch betrachtet waren die westlichen Ausläufer des Gebirges in den 1860er Jahren das absolute Epizentrum des extrem hektischen Cariboo-Goldrausches. Dies löste den schnellen Bau der Cariboo Wagon Road und die rasante Gründung von Boomtowns wie Barkerville aus. Das Klima ist äußerst niederschlagsreich und fördert in den unteren Tälern außergewöhnlich dichte, feuchte Regenwälder aus massiven Riesen-Lebensbäumen.",
+        "hu": "A Cariboo-hegység a masszív Columbia-hegység legészakibb és messze legerősebben eljegesedett alvonulatát alkotja, amely teljes egészében a kanadai Brit Columbia tartomány belső területén található. Földrajzilag szigorúan a mély Sziklás-hegységi-árok (Rocky Mountain Trench) határolja keleten, nyugaton pedig a kiterjedt Belső-fennsík (Interior Plateau); ez a hatalmas hegytömb körülbelül 300 kilométer hosszan nyúlik el. A geológiai szerkezetet rendkívül mélyen gyűrt prekambriumi és paleozoikumi üledékes és metamorf kőzetek jellemzik. A hegylánc abszolút legmagasabb csúcsa a Mount Sir Wilfrid Laurier, amely lenyűgöző, pontosan 3516 méteres magasságot ér el. A Cariboo-hegység magasabban fekvő részeit teljesen uralják a kiterjedt jégmezők és a masszív, aktív gleccserek, amelyek az évezredek során rendkívül mély, U alakú folyóvölgyeket vájtak a kemény sziklába. A hegység délnyugati szektorát masszívan védik a hatalmas Wells Gray Tartományi Park határain belül, amely egy vadon, és világszerte elismert látványos, gleccserek táplálta tavairól és számos hatalmas vízeséséről, köztük az ikonikus Helmcken-vízesésről. Történelmileg a hegység nyugati lábai az 1860-as évek rendkívül hektikus Cariboo aranylázának abszolút epicentrumát jelentették. Ez váltotta ki a Cariboo Wagon Road gyors megépítését és az olyan gombamód szaporodó városok, mint Barkerville rohamos alapítását. Az éghajlat rendkívül csapadékos, ami az alsó völgyekben kivételesen sűrű, masszív óriás tujákból álló nedves esőerdőket éltet.",
+        "ro": "Munții Cariboo formează sub-lanțul cel mai nordic și de departe cel mai puternic glaciar al masivilor Munți Columbia, situat în întregime în interiorul provinciei canadiene Columbia Britanică. Delimitat geografic strict de adânca Fosă a Munților Stâncoși (Rocky Mountain Trench) la est și de vastul Platou Interior la vest, acest bloc muntos masiv se întinde pe aproximativ 300 de kilometri. Structura geologică este caracterizată de roci sedimentare și metamorfice precambriene și paleozoice extrem de adânc cutate. Vârful absolut cel mai înalt al lanțului muntos este Mount Sir Wilfrid Laurier, care atinge o altitudine impresionantă de exact 3.516 metri. Altitudinile înalte ale Munților Cariboo sunt complet dominate de câmpuri de gheață vaste și ghețari masivi, activi, care de-a lungul mileniilor au sculptat văi fluviale extrem de adânci, în formă de U, în roca dură. Sectorul de sud-vest al munților este protejat masiv în granițele uriașe ale Parcului Provincial Wells Gray, o sălbăticie recunoscută la nivel mondial pentru lacurile sale glaciare spectaculoase și numeroasele cascade masive, inclusiv emblematica cascadă Helmcken Falls. Din punct de vedere istoric, poalele vestice ale munților au fost epicentrul absolut al goanei extrem de frenetice după aur din Cariboo, în anii 1860. Acest lucru a declanșat construcția rapidă a Drumului Căruțelor din Cariboo (Cariboo Wagon Road) și fondarea rapidă a orașelor în plină expansiune (boomtowns) precum Barkerville. Clima este extrem de bogată în precipitații, susținând păduri tropicale umede, excepțional de dense, alcătuite din tuia uriașă masivă în văile inferioare.",
+        "en": "The Cariboo Mountains constitute the absolute northernmost and most heavily glaciated subrange of the massive Columbia Mountains, located entirely within the inland interior of the Canadian province of British Columbia. Strictly bounded geographically by the deep Rocky Mountain Trench to the east and the sprawling Interior Plateau to the west, this massive geographic block stretches continuously for roughly 300 kilometers. The core geological structure is heavily characterized by deeply folded Precambrian and Paleozoic sedimentary and highly metamorphic rocks. The absolute highest peak in the entire mountain range is Mount Sir Wilfrid Laurier, reaching an impressive elevation of exactly 3,516 meters. The higher altitudes of the Cariboos are completely dominated by sprawling icefields and massive, active alpine glaciers that have aggressively carved extremely deep, U-shaped river valleys into the hard rock over millennia. The southwestern segment of the range is massively protected within the huge boundaries of Wells Gray Provincial Park, a remote wilderness globally recognized for its spectacular glacier-fed lakes and numerous massive waterfalls, including the iconic Helmcken Falls. Historically, the western foothills of the range operated as the absolute epicenter of the frantic 1860s Cariboo Gold Rush. This chaotic event triggered the rapid construction of the Cariboo Wagon Road and the massive, rapid establishment of mining boomtowns like Barkerville. The local climate is highly precipitous, fostering exceptionally dense, moist interior rainforests composed of massive western redcedars in the lower valleys."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Cariboo Mountains bilden die nördlichste stark vergletscherte Kette der Columbia Mountains.",
+          "Mount Sir Wilfrid Laurier erreicht als absoluter Höhepunkt exakt 3.516 Meter.",
+          "Das felsige Gestein wurde tief aus uralten Präkambrium-Sedimenten aufgefaltet.",
+          "Riesige Gletscher schnitten im Laufe der Zeit extrem tiefe U-Täler in die Bergflanken.",
+          "Der geschützte Wells Gray Park in der Kette ist berühmt für die tosenden Helmcken Falls.",
+          "Die westlichen Ausläufer der Berge waren in den 1860er Jahren Schauplatz eines Goldrausches.",
+          "Extrem hohe Regenmengen fördern in den Tälern gigantische, dichte Regenwälder aus Lebensbäumen."
+        ],
+        "hu": [
+          "A Cariboo-hegység a Columbia-hegység legészakibb, erősen eljegesedett láncolatát alkotja.",
+          "A Mount Sir Wilfrid Laurier abszolút csúcspontként pontosan 3516 métert ér el.",
+          "A sziklás kőzet mélyen az ősi prekambriumi üledékekből gyűrődött fel.",
+          "Hatalmas gleccserek az idő múlásával rendkívül mély U-völgyeket vájtak a hegyoldalakba.",
+          "A láncban lévő védett Wells Gray Park világhírű a dübörgő Helmcken-vízesésről.",
+          "A hegyek nyugati lábainál az 1860-as években hatalmas aranyláz zajlott.",
+          "A rendkívül magas csapadékmennyiség a völgyekben gigantikus, sűrű tujás esőerdőket éltet."
+        ],
+        "ro": [
+          "Munții Cariboo formează cel mai nordic lanț puternic glaciar al Munților Columbia.",
+          "Mount Sir Wilfrid Laurier, punctul absolut cel mai înalt, atinge exact 3.516 metri.",
+          "Roca stâncoasă a fost cutată adânc din sedimente precambriene străvechi.",
+          "Ghețarii uriași au tăiat în timp văi în formă de U extrem de adânci în flancurile munților.",
+          "Parcul protejat Wells Gray din cadrul lanțului este renumit pentru zgomotoasa cascadă Helmcken.",
+          "Poalele vestice ale munților au fost scena unei goane masive după aur în anii 1860.",
+          "Nivelurile extrem de ridicate de precipitații favorizează păduri tropicale dense și gigantice de tuia în văi."
+        ],
+        "en": [
+          "The Cariboo Mountains heavily constitute the northernmost glaciated subrange of the Columbia Mountains.",
+          "Mount Sir Wilfrid Laurier reaches an absolute peak elevation of exactly 3,516 meters.",
+          "The deep bedrock structure was heavily folded upward from extremely ancient Precambrian sediments.",
+          "Massive alpine glaciers aggressively carved out extremely deep, U-shaped valleys along the mountain flanks.",
+          "The protected Wells Gray Provincial Park within the range is globally famous for the massive Helmcken Falls.",
+          "The far western foothills of the mountains acted as the absolute epicenter of the 1860s Cariboo Gold Rush.",
+          "Extremely heavy annual rainfall aggressively fosters incredibly dense cedar rainforests in the lower valleys."
+        ]
+      }
+    },
+    {
+      "id": "ogilvie-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ogilvie Mountains bilden eine gewaltige, extrem schroffe Gebirgskette im zentralen Teil des kanadischen Yukon-Territoriums, die sich direkt nördlich von Dawson City erstreckt. Dieses hochgradig isolierte Bergsystem fungiert als natürliche geografische Trennlinie zwischen dem riesigen Einzugsgebiet des Yukon Rivers im Süden und dem Peel River Becken im strengeren Norden. Geologisch besteht das Massiv hauptsächlich aus stark erodierten, gefalteten Sedimentgesteinen, insbesondere uralten Kalksteinen, Sandsteinen und Schiefern. Da die gesamte Region während der letzten großen pleistozänen Eiszeit komplett unvergletschert blieb, war sie ein extrem wichtiger Teil des historischen Beringia-Refugiums, in dem stark endemische und äußerst seltene arktische Pflanzenarten überleben konnten. Eine absolut bemerkenswerte geologische Anomalie innerhalb der Kette sind die massiven Syenit-Granit-Intrusionen der Tombstone Range, die durch komplett vertikale, schwarze, gezackte Felstürme bestechen, welche die umliegende Tundralandschaft aggressiv durchbohren. Die physische Umgebung ist gnadenlos hart, massiv geprägt von diskontinuierlichem Permafrost, komplett baumloser alpiner Tundra und extremen, gefährlichen Temperaturabfällen im Winter. Die Berge weisen absolut keine nennenswerte menschliche Besiedlung auf, werden jedoch physisch vom unbefestigten, hochgradig saisonalen Dempster Highway durchschnitten – der einzigen öffentlichen kanadischen Straße, die den Polarkreis direkt kreuzt. Das raue Gebiet bietet einen absolut lebenswichtigen, völlig ungestörten Überwinterungs-Lebensraum für die massive Porcupine-Karibu-Herde.",
+        "hu": "Az Ogilvie-hegység (Ogilvie Mountains) egy hatalmas, rendkívül zord hegyláncot alkot a kanadai Yukon terület középső részén, amely közvetlenül Dawson Citytől északra húzódik. Ez a rendkívül elszigetelt hegyrendszer természetes földrajzi választóvonalként funkcionál a déli hatalmas Yukon-folyó vízgyűjtő területe és a zordabb északi Peel-folyó medencéje között. Geológiailag a masszívum főként erősen erodált, gyűrt üledékes kőzetekből, különösen ősi mészkövekből, homokkövekből és palákból áll. Mivel a teljes régió a legutóbbi nagy pleisztocén jégkorszak alatt teljesen jégmentes maradt, a történelmi Beringia menedékhely (refugium) rendkívül fontos részét képezte, ahol erősen endemikus és rendkívül ritka sarkvidéki növényfajok maradhattak fenn. A láncon belüli abszolút figyelemre méltó geológiai anomáliát a Tombstone Range masszív szienit-gránit benyomulásai jelentik, amelyek teljesen függőleges, fekete, csipkézett sziklatornyokkal kápráztatnak el, amelyek agresszívan szúrják át a környező tundratájat. A fizikai környezet könyörtelenül kemény, masszívan meghatározza a szakaszos permafroszt, a teljesen fátlan alpesi tundra, valamint a téli extrém, veszélyes hőmérséklet-zuhanások. A hegyek abszolút semmilyen jelentős emberi lakossággal nem rendelkeznek, de fizikailag átszeli őket a burkolatlan, rendkívül szezonális Dempster Highway – az egyetlen kanadai közút, amely közvetlenül keresztezi az északi sarkkört. A zord terület abszolút létfontosságú, teljesen zavartalan telelő élőhelyet biztosít a masszív Porcupine karibucsorda számára.",
+        "ro": "Munții Ogilvie formează un lanț muntos vast și extrem de accidentat în porțiunea centrală a teritoriului canadian Yukon, extinzându-se direct la nord de Dawson City. Acest sistem montan extrem de izolat acționează ca un separator geografic natural între imensul bazin hidrografic al râului Yukon la sud și bazinul mai aspru al râului Peel la nord. Geologic, masivul este compus în principal din roci sedimentare puternic erodate și cutate, în special calcare, gresii și șisturi antice. Deoarece întreaga regiune a rămas complet neafectată de ghețari în timpul ultimei ere glaciare majore din Pleistocen, a format o parte extrem de critică a refugiului istoric Beringia, păstrând specii de plante arctice puternic endemice și extrem de rare. O anomalie geologică absolut remarcabilă în cadrul lanțului o reprezintă intruziunile masive de granit sienitic ale lanțului Tombstone Range, care se caracterizează prin turnuri de stâncă complet verticale, negre și zimțate, care străpung agresiv peisajul de tundră înconjurător. Mediul fizic este neiertător de dur, masiv dominat de permafrost discontinuu, tundră alpină complet lipsită de copaci și scăderi de temperatură extreme, periculoase, iarna. Munții sunt absolut lipsiți de orice populație umană semnificativă, dar sunt tăiați fizic de Autostrada Dempster (Dempster Highway), o șosea neasfaltată și foarte sezonieră – singurul drum public canadian care traversează direct Cercul Polar de Nord. Zona aspră oferă un habitat de iernare absolut vital și complet netulburat pentru masiva turmă de caribu Porcupine.",
+        "en": "The Ogilvie Mountains form a vast, extremely rugged mountain range located in the central portion of the Canadian Yukon Territory, extending directly north of Dawson City. This highly isolated mountain system acts as a natural geographical dividing line separating the massive Yukon River watershed to the south from the harsher Peel River basin to the north. Geologically, the massif consists primarily of heavily eroded, deeply folded sedimentary rock formations, specifically ancient limestones, sandstones, and shales. Because the entire region remained completely unglaciated during the final massive Pleistocene ice age, it formed an extremely critical part of the historic ancient Beringia refugium, allowing highly endemic and exceptionally rare Arctic plant species to survive undisturbed. An absolutely striking geological anomaly within the range is the massive syenite granite intrusions of the Tombstone Range, characterized by completely vertical, black, jagged rock spires that aggressively pierce the surrounding barren tundra landscape. The physical environment is unforgivingly harsh, heavily dominated by discontinuous permafrost, completely treeless alpine tundra, and extremely dangerous winter temperature drops. The mountains completely lack any significant permanent human population but are physically bisected by the unpaved, highly seasonal Dempster Highway—the absolute only Canadian public road that directly crosses the Arctic Circle. The rugged area provides an absolutely vital, completely undisturbed wintering habitat and migration corridor for the massive Porcupine caribou herd."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Bergkette bildet eine natürliche, massive Wasserscheide zwischen dem Yukon und dem Peel River.",
+          "Wegen fehlender Eiszeit-Vergletscherung überlebten hier extrem seltene, eiszeitliche Beringia-Pflanzen.",
+          "Das Gestein besteht massiv aus uralten, aufgefalteten Sedimenten wie Kalkstein und Schiefer.",
+          "Die gezackten, senkrechten Granittürme der Tombstone Range stechen dramatisch hervor.",
+          "Die Berge werden nur von einer einzigen Straße, dem unbefestigten Dempster Highway, durchschnitten.",
+          "Der Dempster Highway ist die einzige öffentliche Straße Kanadas, die den Polarkreis kreuzt.",
+          "Die kahle, gefrorene Tundra ist das zentrale Winterquartier der riesigen Porcupine-Karibu-Herde."
+        ],
+        "hu": [
+          "A hegylánc természetes, masszív vízválasztót képez a Yukon- és a Peel-folyók között.",
+          "A jégkorszaki eljegesedés hiánya miatt itt rendkívül ritka, jégkorszaki beringiai növények maradtak fenn.",
+          "A kőzet masszívan ősi, felgyűrődött üledékekből, például mészkőből és palából áll.",
+          "A Tombstone Range csipkézett, függőleges gránittornyai drámaian emelkednek ki a tájból.",
+          "A hegyeket csak egyetlen út, a burkolatlan Dempster Highway szeli át.",
+          "A Dempster Highway Kanada egyetlen olyan közútja, amely közvetlenül keresztezi az északi sarkkört.",
+          "A kopár, fagyott tundra a hatalmas Porcupine karibucsorda központi telelőhelye."
+        ],
+        "ro": [
+          "Lanțul muntos formează o cumpănă a apelor naturală și masivă între râurile Yukon și Peel.",
+          "Din cauza lipsei glaciațiunii, specii extrem de rare de plante din Beringia au supraviețuit aici.",
+          "Roca constă masiv din sedimente cutate străvechi, cum ar fi calcarul și șistul.",
+          "Turnurile de granit verticale și zimțate ale Tombstone Range ies în evidență în mod dramatic.",
+          "Munții sunt intersectați de un singur drum, Autostrada Dempster, care este neasfaltată.",
+          "Autostrada Dempster este singurul drum public din Canada care traversează Cercul Polar.",
+          "Tundra aridă și înghețată este principalul cartier de iarnă al uriașei turme de caribu Porcupine."
+        ],
+        "en": [
+          "The mountain range establishes a massive natural watershed divide between the Yukon and Peel Rivers.",
+          "Because it escaped the Ice Age glaciers, incredibly rare ancient Beringia plant species survived here.",
+          "The core bedrock consists massively of deeply folded ancient sediments like limestone and shale.",
+          "The jagged, completely vertical black granite spires of the Tombstone Range stand out dramatically.",
+          "The mountains are physically bisected by only one road, the highly remote, unpaved Dempster Highway.",
+          "The Dempster Highway operates as the absolute only Canadian public road crossing the Arctic Circle.",
+          "The barren, deeply frozen tundra serves as the absolutely vital wintering ground for the Porcupine caribou herd."
+        ]
+      }
+    },
+    {
+      "id": "baffin-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Baffin Mountains bilden eine extrem gewaltige, stark vergletscherte Gebirgskette, die sich unerbittlich entlang der Nordostküste der Baffininsel und der Bylotinsel im kanadischen Territorium Nunavut erstreckt. Als das absolute geografische Herzstück des massiven Arctic-Cordillera-Systems repräsentiert diese Kette einige der extremsten, kältesten und isoliertesten alpinen Umgebungen der Erde. Das raue Grundgestein besteht überwiegend aus unfassbar altem, hochgradig widerstandsfähigem präkambrischem Granit und Gneisen, die direkt dem massiven Kanadischen Schild angehören. Die Topografie der Berge ist aggressiv zerschnitten durch extrem tiefe, ozeangeflutete Fjorde und weist absolut vertikale, gewaltige Granit-Klippen auf (Big Walls). Das herausragendste Beispiel hierfür ist Mount Thor, der mit 1.250 Metern den globalen Rekord für den tiefsten rein vertikalen Felsabbruch hält. Der höchste Gipfel des gesamten Massivs ist Mount Odin, der eine Höhe von exakt 2.147 Metern erreicht. Das regionale Klima ist gnadenlos streng und strikt arktisch, was jegliches Baumwachstum absolut unmöglich macht. Die Hochplateaus sind komplett unter massiven, permanenten Eiskappen begraben, vor allem dem gigantischen Penny Ice Cap, das ununterbrochen Hunderte von extrem langsam fließenden Auslassgletschern direkt in den eiskalten Ozean speist. Diese feindselige Umgebung ist völlig frei von permanenten menschlichen Siedlungen, wird ausschließlich von hochspezialisierten arktischen Wildtieren wie Polarbären und Polarfüchsen durchstreift und lockt nur absolute Elite-Kletterer in den gefährlichen Akshayuk-Pass.",
+        "hu": "A Baffin-hegység egy rendkívül hatalmas, erősen eljegesedett hegyláncot alkot, amely könyörtelenül húzódik a Baffin-sziget és a Bylot-sziget északkeleti partja mentén a kanadai Nunavut területen. A masszív Arctic Cordillera (Sarkvidéki Kordillerák) rendszer abszolút földrajzi központjaként ez a láncolat a Föld legextrémebb, leghidegebb és legelszigeteltebb alpesi környezetét képviseli. A zord alapkőzet túlnyomórészt hihetetlenül ősi, rendkívül ellenálló prekambriumi gránitból és gneiszből áll, amelyek közvetlenül a masszív Kanadai-pajzshoz tartoznak. A hegyek topográfiáját agresszíven tagolják a rendkívül mély, óceán által elárasztott fjordok, és abszolút függőleges, hatalmas gránitsziklákkal (Big Walls) büszkélkedhetnek. Ennek legkiemelkedőbb példája a Mount Thor, amely 1250 méterrel tartja a Föld legnagyobb tisztán függőleges sziklafalának globális rekordját. Az egész masszívum legmagasabb csúcsa a Mount Odin, amely pontosan 2147 méteres magasságot ér el. A regionális éghajlat könyörtelenül szigorú és szigorúan sarkvidéki, ami abszolút lehetetlenné tesz mindenfajta fanövekedést. A magas fennsíkok teljesen el vannak temetve masszív, állandó jégsapkák, különösen a gigantikus Penny-jégsapka alatt, amely folyamatosan több száz rendkívül lassan mozgó kivezető gleccsert táplál közvetlenül a jéghideg óceánba. Ez az ellenséges környezet teljesen mentes az állandó emberi településektől, kizárólag a rendkívül specializálódott sarkvidéki vadvilág, például a jegesmedvék és a sarki rókák barangolják be, és csak a legelitebb hegymászókat vonzza a veszélyes Akshayuk-hágóba.",
+        "ro": "Munții Baffin formează un lanț muntos extrem de masiv, puternic glaciar, care se întinde necruțător de-a lungul coastei de nord-est a Insulei Baffin și a Insulei Bylot din teritoriul canadian Nunavut. Acționând ca inima geografică absolută a sistemului masiv Cordiliera Arctică (Arctic Cordillera), acest lanț reprezintă unele dintre cele mai extreme, mai reci și mai izolate medii alpine de pe Pământ. Roca de bază aspră este compusă predominant dintr-un granit și gnais precambrian incredibil de vechi, extrem de rezistent, aparținând direct masivului Scut Canadian. Topografia munților este agresiv tăiată de fiorduri extrem de adânci, inundate de ocean, și prezintă stânci de granit uriașe, absolut verticale (Big Walls). Cel mai remarcabil exemplu în acest sens este Muntele Thor, care, cu 1.250 de metri, deține recordul global pentru cea mai adâncă cădere de stâncă pur verticală. Cel mai înalt vârf din întregul masiv este Mount Odin, care atinge o altitudine de exact 2.147 de metri. Climatul regional este neiertător de sever și strict arctic, făcând absolut imposibilă orice creștere a copacilor. Platourile înalte sunt complet îngropate sub calote de gheață masive, permanente, mai ales gigantica Calotă Glaciară Penny (Penny Ice Cap), care alimentează continuu sute de ghețari de scurgere extrem de lenți direct în oceanul înghețat. Acest mediu ostil este complet lipsit de așezări umane permanente, fiind străbătut exclusiv de animale sălbatice arctice extrem de specializate, precum urșii polari și vulpile arctice, și atrăgând doar alpiniști de elită absolută în periculoasa Trecătoare Akshayuk.",
+        "en": "The Baffin Mountains constitute an extremely massive, heavily glaciated mountain range that stretches relentlessly along the northeastern coast of Baffin Island and Bylot Island in the Canadian territory of Nunavut. Acting as the absolute geographical core of the massive Arctic Cordillera system, this range represents some of the most extreme, freezing, and highly isolated alpine environments on Earth. The harsh bedrock is overwhelmingly composed of incredibly ancient, highly resistant Precambrian granite and gneiss that belong directly to the massive Canadian Shield. The topography of the mountains is aggressively fractured by extremely deep, sea-flooded ocean fjords and features absolutely vertical, towering granite cliffs (Big Walls). The most globally recognized example of this is Mount Thor, which holds the absolute global record for the greatest purely vertical rock drop at 1,250 meters. The highest peak in the entire massif is Mount Odin, reaching an exact elevation of 2,147 meters. The regional climate is unforgivingly severe and strictly Arctic, making absolutely any tree growth physically impossible. The high-altitude plateaus are completely buried beneath massive, permanent ice caps, most notably the gigantic Penny Ice Cap, which continuously feeds hundreds of extremely slow-moving outlet glaciers directly into the freezing ocean. This hostile environment is completely devoid of permanent human settlements, patrolled exclusively by highly specialized Arctic wildlife such as polar bears and Arctic foxes, and attracts only absolute elite climbers braving the treacherous Akshayuk Pass."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Berge bilden das geografische Herz des extrem kalten Arctic-Cordillera-Systems.",
+          "Das harte Gestein besteht primär aus uraltem präkambrischem Granit des Kanadischen Schilds.",
+          "Mount Thor hält mit exakt 1.250 Metern den Weltrekord für die längste vertikale Felswand.",
+          "Mit 2.147 Metern ist der vergletscherte Mount Odin der absolut höchste Gipfel der Baffininsel.",
+          "Auf den Hochebenen liegt das gigantische Penny Ice Cap, das massenhaft Gletscher speist.",
+          "Wegen der gnadenlosen Kälte können in diesem extremen arktischen Klima keinerlei Bäume wachsen.",
+          "Das lebensfeindliche Terrain ist völlig unbesiedelt und extrem schwer zugänglich."
+        ],
+        "hu": [
+          "A hegyek a rendkívül hideg Arctic Cordillera rendszer földrajzi szívét alkotják.",
+          "A kemény kőzet elsősorban a Kanadai-pajzs ősi prekambriumi gránitjából áll.",
+          "A Mount Thor pontosan 1250 méterrel tartja a világrekordot a leghosszabb függőleges sziklafalért.",
+          "A 2147 méteres, eljegesedett Mount Odin a Baffin-sziget abszolút legmagasabb csúcsa.",
+          "A fennsíkokon terül el a gigantikus Penny-jégsapka, amely tömegével táplálja a gleccsereket.",
+          "A könyörtelen hideg miatt ezen a szélsőséges sarkvidéki éghajlaton semmilyen fa nem nőhet.",
+          "Az ellenséges terep teljesen lakatlan és rendkívül nehezen megközelíthető."
+        ],
+        "ro": [
+          "Munții formează inima geografică a sistemului extrem de rece Cordiliera Arctică.",
+          "Roca dură constă în primul rând din granitul precambrian străvechi al Scutului Canadian.",
+          "Mount Thor deține recordul mondial pentru cea mai lungă cădere verticală cu exact 1.250 de metri.",
+          "Cu 2.147 de metri, Mount Odin, acoperit de ghețari, este cel mai înalt vârf de pe Insula Baffin.",
+          "Pe platourile înalte se află gigantica calotă glaciară Penny, care alimentează numeroși ghețari.",
+          "Din cauza frigului necruțător, niciun copac nu poate crește în această climă arctică extremă.",
+          "Terenul ostil este complet nepopulat și extrem de greu de accesat."
+        ],
+        "en": [
+          "The mountains establish the geographical core of the extremely cold Arctic Cordillera system.",
+          "The harsh bedrock primarily consists of incredibly ancient Precambrian granite from the Canadian Shield.",
+          "Mount Thor holds the absolute global record for the longest vertical rock drop at exactly 1,250 meters.",
+          "At 2,147 meters, the heavily glaciated Mount Odin is the absolute highest peak on Baffin Island.",
+          "The elevated plateaus support the gigantic Penny Ice Cap, which continuously feeds hundreds of glaciers.",
+          "Because of the unforgivingly freezing cold, absolutely no trees can grow in this extreme Arctic climate.",
+          "The deeply hostile alpine terrain is completely unpopulated and remains exceptionally difficult to access."
+        ]
+      }
+    },
+    {
+      "id": "chic-choc-mountains-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Chic-Choc Mountains (Chic-Choc-Berge) bilden ein massiv abgetragenes, hochgradig markantes Bergmassiv, das sich im zentralen Teil der Gaspé-Halbinsel in der kanadischen Provinz Quebec befindet. Geologisch betrachtet repräsentieren sie eine nördliche Fortsetzung des uralten Appalachen-Gebirgssystems und bestehen hauptsächlich aus stark metamorphosierten, vulkanischen und sedimentären Gesteinen, die vor mehr als 400 Millionen Jahren tektonisch gewaltsam angehoben wurden. Im Laufe von Millionen von Jahren haben die aggressiven Kräfte riesiger kontinentaler Vergletscherungen und der kontinuierlichen Errosion die ursprünglichen, hoch aufragenden Gipfel abgeflacht, was zu einer völlig einzigartigen Topografie mit weiten, flachen Plateaus führte, die von extrem steilen, tiefen Schluchten zerschnitten sind. Der absolut höchste Punkt ist der Mont Jacques-Cartier, der genau 1.268 Meter über dem Meeresspiegel erreicht. Aufgrund ihrer extremen Windausgesetztheit und der unmittelbaren Nähe zum kalten Wasser des Sankt-Lorenz-Golfs herrscht auf den höheren Gipfeln ein hochgradig raues, lokalisiertes alpines Tundraklima, das eine arktische Flora unterstützt, die man normalerweise nur viel weiter nördlich findet. Weltweite ökologische Bedeutung erlangt das Gebirge dadurch, dass es die absolut letzte verbleibende, genetisch isolierte Waldkaribu-Population beherbergt, die noch südlich des Sankt-Lorenz-Stroms existiert. Das massive Berggelände ist durch die strengen Grenzen des Gaspésie-Nationalparks extrem geschützt und wird vom International Appalachian Trail durchschnitten, der Kletterer in die völlig unbewohnte Wildnis führt.",
+        "hu": "A Chic-Choc-hegység (Chic-Choc Mountains) egy masszívan lekopott, rendkívül markáns hegytömb, amely a Gaspé-félsziget középső részén, a kanadai Quebec tartományban található. Geológiai szempontból az ősi Appalache-hegységrendszer északi folytatását képviselik, és főként erősen metamorfizálódott, vulkáni és üledékes kőzetekből állnak, amelyek több mint 400 millió évvel ezelőtt tektonikusan, erőszakosan emelkedtek fel. Évmilliók során a hatalmas kontinentális eljegesedések agresszív erői és a folyamatos erózió lelapította az eredeti, magasba törő csúcsokat, ami egy teljesen egyedülálló topográfiát eredményezett: széles, lapos fennsíkokat, amelyeket rendkívül meredek, mély szurdokok tagolnak. Az abszolút legmagasabb pont a Mont Jacques-Cartier, amely pontosan 1268 méterrel magasodik a tengerszint fölé. Az extrém szélnek való kitettség és a Szent Lőrinc-öböl hideg vizének közvetlen közelsége miatt a magasabb csúcsokon rendkívül zord, lokalizált alpesi tundraklíma uralkodik, amely olyan sarkvidéki növényvilágot tart fenn, amely általában csak sokkal északabbra található meg. A hegység világszintű ökológiai jelentőségét az adja, hogy ez ad otthont az abszolút utolsó megmaradt, genetikailag elszigetelt erdei karibu populációnak, amely még a Szent Lőrinc-folyótól délre is létezik. A masszív hegyvidéki terepet a Gaspésie Nemzeti Park szigorú határai extrém módon védik, és a Nemzetközi Appalache-ösvény metszi át, amely a hegymászókat a teljesen lakatlan vadonba vezeti.",
+        "ro": "Munții Chic-Choc formează un masiv muntos masiv erodat, foarte proeminent, situat în partea centrală a Peninsulei Gaspé din provincia canadiană Quebec. Din punct de vedere geologic, ei reprezintă o continuare nordică a sistemului montan străvechi al Apalașilor și sunt compuși în principal din roci vulcanice și sedimentare puternic metamorfozate, care au fost ridicate violent tectonic în urmă cu peste 400 de milioane de ani. Pe parcursul a milioane de ani, forțele agresive ale glaciațiunilor continentale uriașe și eroziunea continuă au aplatizat vârfurile inițiale înalte, rezultând o topografie complet unică de platouri largi și plate, tăiate de râpe extrem de abrupte și adânci. Punctul absolut cel mai înalt este Mont Jacques-Cartier, care atinge exact 1.268 de metri deasupra nivelului mării. Datorită expunerii lor extreme la vânt și proximității imediate față de apele reci ale Golfului Sfântului Laurențiu, vârfurile superioare experimentează un climat de tundră alpină foarte aspru, localizat, care susține flora arctică, întâlnită în mod normal doar mult mai la nord. Lanțul muntos atinge o importanță ecologică la nivel mondial prin faptul că găzduiește absolut ultima populație de caribu de pădure rămasă, izolată genetic, care mai există la sud de râul Sfântul Laurențiu. Terenul montan masiv este extrem de protejat de granițele stricte ale Parcului Național Gaspésie și este traversat de Traseul Internațional al Apalașilor, care duce alpiniștii în sălbăticia complet nepopulată.",
+        "en": "The Chic-Choc Mountains form a massively eroded, highly prominent mountain massif located in the central portion of the Gaspé Peninsula within the Canadian province of Quebec. Geologically, they represent a northern continuation of the ancient Appalachian Mountain system, composed primarily of highly metamorphosed, volcanic, and sedimentary rocks that were violently tectonically uplifted over 400 million years ago. Over millions of years, the aggressive forces of massive continental glaciation and continuous weathering completely flattened the original towering peaks, resulting in a highly unique topography featuring broad, barren flat plateaus intersected by extremely steep, deep ravines. The absolute highest physical point is Mont Jacques-Cartier, reaching exactly 1,268 meters above sea level. Because of their extreme exposure to high winds and immediate proximity to the freezing waters of the Gulf of Saint Lawrence, the higher summits experience a severely harsh, localized alpine tundra climate, sustaining extremely rare Arctic flora normally found much further north. The mountain range holds massive global ecological significance for hosting the absolute last remaining, genetically isolated population of woodland caribou existing south of the Saint Lawrence River. The massive mountainous terrain is extremely protected within the strict boundaries of Gaspésie National Park and is aggressively bisected by the International Appalachian Trail, which navigates hikers deep into the completely unpopulated, hostile wilderness."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Bergmassiv ist geologisch eine direkte Verlängerung der uralten Appalachen.",
+          "Der Mont Jacques-Cartier erreicht als absolut höchster Punkt exakt 1.268 Meter.",
+          "Gletscher formten die ehemals spitzen Berge zu weiten, von Schluchten durchzogenen Plateaus.",
+          "Auf den exponierten Gipfeln herrscht ein raues Tundraklima, in dem keinerlei Bäume wachsen.",
+          "Die Region beheimatet die letzte isolierte Waldkaribu-Population südlich des Sankt-Lorenz-Stroms.",
+          "Das gesamte Berggebiet wird vom Gaspésie-Nationalpark unter strengen Naturschutz gestellt.",
+          "Die völlig unbesiedelte Wildnis ist ein wichtiger Abschnitt des International Appalachian Trail."
+        ],
+        "hu": [
+          "A hegytömb geológiailag az ősi Appalache-hegység közvetlen északi folytatása.",
+          "A Mont Jacques-Cartier abszolút legmagasabb pontként pontosan 1268 métert ér el.",
+          "A gleccserek a korábban hegyes csúcsokat széles, szurdokokkal szabdalt fennsíkokká formálták.",
+          "A kitett csúcsokon zord tundraklíma uralkodik, ahol egyáltalán nem nőnek fák.",
+          "A régió ad otthont a Szent Lőrinc-folyótól délre eső utolsó elszigetelt erdei karibu populációnak.",
+          "A teljes hegyvidéki területet a Gaspésie Nemzeti Park szigorú természetvédelme alá helyezték.",
+          "A teljesen lakatlan vadon a Nemzetközi Appalache-ösvény egy rendkívül fontos szakasza."
+        ],
+        "ro": [
+          "Din punct de vedere geologic, masivul montan este o continuare directă a străvechilor Apalași.",
+          "Mont Jacques-Cartier atinge exact 1.268 de metri ca fiind punctul absolut cel mai înalt.",
+          "Ghețarii au modelat munții anterior ascuțiți în platouri largi intersectate de râpe.",
+          "Vârfurile expuse au un climat aspru de tundră în care nu pot crește absolut deloc copaci.",
+          "Regiunea găzduiește ultima populație izolată de caribu de pădure la sud de râul Sf. Laurențiu.",
+          "Întreaga zonă montană este plasată sub o strictă protecție a naturii de Parcul Național Gaspésie.",
+          "Sălbăticia complet nepopulată este o secțiune importantă a Traseului Internațional Apalaș."
+        ],
+        "en": [
+          "Geologically, the mountain massif represents a direct northern continuation of the ancient Appalachians.",
+          "Mont Jacques-Cartier stands as the absolute highest physical point, reaching exactly 1,268 meters.",
+          "Massive glaciers physically flattened the formerly sharp peaks into broad plateaus intersected by deep ravines.",
+          "The highly exposed summits experience a severe tundra climate where absolutely zero trees can grow.",
+          "The region securely hosts the absolute last isolated woodland caribou population south of the St. Lawrence River.",
+          "The entire mountain territory is placed under strict, aggressive nature protection by Gaspésie National Park.",
+          "The completely unpopulated wilderness functions as a highly significant section of the International Appalachian Trail."
+        ]
+      }
+    }
+  ]
+}

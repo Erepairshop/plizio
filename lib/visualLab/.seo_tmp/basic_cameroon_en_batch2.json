@@ -3,120 +3,83 @@
   "country": "Cameroon",
   "files": [
     "lib/visualLab/data/poiExtraCameroonEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCameroonLifeV2.ts",
-    "lib/visualLab/data/poiExtraCameroonNatureV2.ts",
-    "lib/visualLab/data/poiExtraCameroonReliefV2.ts"
+    "lib/visualLab/data/poiExtraCameroonHistoryV2.ts"
   ],
   "items": [
     {
-      "id": "geovic-cobalt-mine-economic-v2",
-      "description": "A cobalt-nickel mining project in eastern Cameroon near Lomie. It is often cited among the country's strategic mineral deposits.",
-      "facts": [
-        "near Lomie",
-        "cobalt and nickel project",
-        "strategic mineral deposit"
-      ]
+      "id": "foumban-bauxite-economic-v2",
+      "description": "The Foumban bauxite deposits in the West Region are a potential source of alumina, currently being evaluated for industrial extraction.",
+      "facts": ["West Region location", "Bauxite reserves", "Industrial potential", "Mining exploration site"]
     },
     {
-      "id": "mbalam-iron-ore-economic-v2",
-      "description": "A major iron-ore deposit in southeastern Cameroon near Mbalam. It remains part of the country's long-term mining plans.",
-      "facts": [
-        "near Mbalam",
-        "in southeastern Cameroon",
-        "planned iron ore project"
-      ]
+      "id": "ngaoundal-bauxite-economic-v2",
+      "description": "Ngaoundal holds significant bauxite reserves in the Adamawa Region, positioned as a key asset for Cameroon's future aluminum industry.",
+      "facts": ["Adamawa Region", "Major bauxite deposit", "Future mining site", "Strategic mineral resource"]
     },
     {
-      "id": "nkout-iron-deposit-economic-v2",
-      "description": "An iron-ore deposit in southeastern Cameroon linked to the country's mining pipeline. It is part of the wider Ntem area resource story.",
-      "facts": [
-        "iron ore resource",
-        "in the southeast",
-        "part of the mining pipeline"
-      ]
+      "id": "camalco-makan-economic-v2",
+      "description": "The Camalco Makan bauxite project focuses on developing the high-quality mineral resources found in the Makan area of the Adamawa plateau.",
+      "facts": ["Adamawa Region project", "High-grade bauxite", "Managed by Camalco", "Part of mining expansion"]
     },
     {
-      "id": "minim-martap-bauxite-economic-v2",
-      "description": "A bauxite deposit in the Adamawa region near Minim Martap. It is one of Cameroon's best known aluminum raw material sites.",
-      "facts": [
-        "in Adamawa",
-        "near Minim Martap",
-        "bauxite resource"
-      ]
+      "id": "foumban-royal-palace-history-v2",
+      "description": "The Royal Palace of Foumban is the seat of the Bamum Sultanate, showcasing the rich history and architecture of one of Cameroon's oldest kingdoms.",
+      "facts": ["Seat of Bamum Sultanate", "Built in 1917", "Traditional architecture", "Museum of Bamum history"]
     },
     {
-      "id": "akonolinga-rutile-mine-economic-v2",
-      "description": "A rutile mining area near Akonolinga in central Cameroon. Rutile is valued as an industrial mineral for titanium production.",
-      "facts": [
-        "near Akonolinga",
-        "industrial mineral site",
-        "rutile for titanium"
-      ]
+      "id": "bimbia-slave-port-history-v2",
+      "description": "Bimbia was a major slave trading port on the coast of Cameroon, now serving as a somber memorial site for the transatlantic slave trade.",
+      "facts": ["Transatlantic slave trade site", "Southwest Region coast", "Historical ruins", "Memorial landmark"]
     },
     {
-      "id": "cimencam-douala-economic-v2",
-      "description": "A cement production site in Douala tied to Cameroon's construction supply chain. It serves the country's busiest industrial city.",
-      "facts": [
-        "in Douala",
-        "cement production site",
-        "serves construction demand"
-      ]
+      "id": "prime-ministers-lodge-history-v2",
+      "description": "The Prime Minister's Lodge in Buea was the residence of the heads of government during the British Southern Cameroons colonial era.",
+      "facts": ["Colonial architecture", "Located in Buea", "British era landmark", "Political history site"]
     },
     {
-      "id": "dangote-cement-douala-economic-v2",
-      "description": "A cement plant in Douala that adds local supply for construction and infrastructure. It is part of the city's industrial belt.",
-      "facts": [
-        "in Douala",
-        "cement plant",
-        "supports infrastructure work"
-      ]
+      "id": "bismarck-fountain-history-v2",
+      "description": "The Bismarck Fountain in Buea is a relic of the German colonial period, named after the German Chancellor Otto von Bismarck.",
+      "facts": ["German colonial relic", "Located in Buea", "Named after Chancellor Bismarck", "Early 20th century monument"]
     },
     {
-      "id": "chococam-factory-douala-economic-v2",
-      "description": "A cocoa-processing factory in Douala linked to one of Cameroon's best known food brands. It connects cocoa harvests to consumer products.",
-      "facts": [
-        "in Douala",
-        "cocoa processing",
-        "food manufacturing site"
-      ]
+      "id": "charles-atangana-palace-history-v2",
+      "description": "The palace of Charles Atangana, the paramount chief of the Ewondo people, is a historic residence in Yaounde reflecting the colonial chiefdom era.",
+      "facts": ["Ewondo chief residence", "Yaounde landmark", "Early 20th century", "Historical chiefdom site"]
     },
     {
-      "id": "cdc-rubber-tiko-economic-v2",
-      "description": "A rubber production site in Tiko tied to the Cameroon Development Corporation. It is part of the coastal plantation economy.",
-      "facts": [
-        "in Tiko",
-        "plantation-based rubber",
-        "part of the CDC network"
-      ]
+      "id": "mankon-fons-palace-history-v2",
+      "description": "The Mankon Fon's Palace is a major cultural and historical center in Bamenda, serving as the traditional seat of the Mankon kingdom.",
+      "facts": ["Mankon kingdom seat", "Bamenda cultural site", "Traditional palace", "Living history museum"]
     },
     {
-      "id": "socapalm-dibombari-economic-v2",
-      "description": "A palm oil site in Dibombari near Douala. It links plantation farming with industrial processing for the domestic market.",
-      "facts": [
-        "near Douala",
-        "palm oil production",
-        "plantation agriculture"
-      ]
+      "id": "notre-dame-des-victoires-history-v2",
+      "description": "Notre-Dame-des-Victoires is a historic cathedral in Yaounde, serving as a spiritual center and a monument of religious history in the capital.",
+      "facts": ["Yaounde cathedral", "Religious landmark", "Colonial era origin", "Spiritual heart of the city"]
     },
     {
-      "id": "hevecam-niete-economic-v2",
-      "description": "A large rubber plantation and processing site in Niété in southern Cameroon. It is one of the region's major export-oriented agribusinesses.",
-      "facts": [
-        "in Niété",
-        "rubber plantation",
-        "export-oriented agribusiness"
-      ]
+      "id": "reunification-monument-history-v2",
+      "description": "The Reunification Monument in Yaounde commemorates the 1961 union of French and British Cameroons into a single nation.",
+      "facts": ["Commemorates 1961 union", "Yaounde landmark", "Architectural symbolism", "National unity monument"]
     },
     {
-      "id": "sabc-brewery-yaounde-economic-v2",
-      "description": "A major beverage plant in Yaounde and part of Cameroon's leading drinks network. It supplies beer and soft drinks to the central region.",
-      "facts": [
-        "in Yaounde",
-        "beverage production",
-        "supplies the central region"
-      ]
+      "id": "old-german-cemetery-douala-history-v2",
+      "description": "The Old German Cemetery in Douala contains the graves of German colonial officials and settlers from the late 19th and early 20th centuries.",
+      "facts": ["German colonial era", "Located in Douala", "Late 19th century", "Historical burial ground"]
+    },
+    {
+      "id": "general-leclerc-monument-history-v2",
+      "description": "The General Leclerc Monument in Douala honors the French commander who played a key role in the Free French movement during World War II.",
+      "facts": ["Douala monument", "WWII history site", "Honors General Leclerc", "Free French landmark"]
+    },
+    {
+      "id": "banyo-lamidat-history-v2",
+      "description": "The Lamidat of Banyo is a traditional Fulbe chiefdom in the Adamawa Region, preserving centuries-old administrative and cultural practices.",
+      "facts": ["Fulbe traditional seat", "Adamawa Region", "Centuries-old chiefdom", "Cultural heritage site"]
+    },
+    {
+      "id": "ngaoundere-lamidat-history-v2",
+      "description": "The Lamidat of Ngaoundere is one of the most powerful traditional sultanates in northern Cameroon, located in the heart of the Adamawa plateau.",
+      "facts": ["Traditional sultanate", "Adamawa Region", "Fulbe cultural center", "Historical palace site"]
     }
   ]
 }

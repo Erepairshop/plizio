@@ -1,0 +1,86 @@
+{
+  "lang": "en",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigerHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sonichar-tchirozerine-economic-v2",
+      "description": "SONICHAR (Société Nigérienne de Charbon) in Tchirozerine is a coal mining company crucial for Niger's energy production.",
+      "facts": ["Coal mining company", "Tchirozerine", "Energy production"]
+    },
+    {
+      "id": "ne-agadez-mosque-history-v2",
+      "description": "The Agadez Mosque is a historic adobe mosque with a distinctive conical minaret, a UNESCO World Heritage site.",
+      "facts": ["Historic adobe mosque", "Conical minaret", "UNESCO World Heritage site"]
+    },
+    {
+      "id": "tapoa-animal-habitat-life-v2",
+      "description": "Tapoa is a significant animal habitat within W National Park, known for its diverse wildlife, including elephants and lions.",
+      "facts": ["W National Park", "Diverse wildlife", "Elephants and lions"]
+    },
+    {
+      "id": "agadez-kamel-habitat-life-v2",
+      "description": "Agadez is a traditional hub for camel caravans and nomadic life, reflecting its desert environment.",
+      "facts": ["Camel caravans", "Nomadic life", "Desert environment"]
+    },
+    {
+      "id": "diffa-agri-life-v2",
+      "description": "Diffa is an agricultural region near Lake Chad, known for its millet, sorghum, and vegetable production.",
+      "facts": ["Agricultural region", "Lake Chad", "Millet and sorghum"]
+    },
+    {
+      "id": "tahoua-zoo-life-v2",
+      "description": "Tahoua Zoo is a local attraction, housing animal species endemic to the Sahel and Sahara regions.",
+      "facts": ["Local attraction", "Sahel and Sahara species", "Tahoua"]
+    },
+    {
+      "id": "filingue-agri-life-v2",
+      "description": "Filingué is an agricultural area known for its traditional farming methods and production of cereals.",
+      "facts": ["Agricultural area", "Traditional farming", "Cereals production"]
+    },
+    {
+      "id": "maradi-kids-life-v2",
+      "description": "Maradi offers green spaces and parks for children, contributing to family recreation in the urban environment.",
+      "facts": ["Green spaces", "Children's parks", "Urban recreation"]
+    },
+    {
+      "id": "gaya-bird-life-v2",
+      "description": "The Gaya region, along the Niger River, is an important habitat for diverse migratory and resident bird species.",
+      "facts": ["Niger River", "Migratory birds", "Resident birds"]
+    },
+    {
+      "id": "dosso-agri-life-v2",
+      "description": "Dosso is an agricultural area known for its diverse crop production, including millet, sorghum, and peanuts.",
+      "facts": ["Diverse crop production", "Millet and sorghum", "Peanuts"]
+    },
+    {
+      "id": "tessaoua-agri-life-v2",
+      "description": "Tessaoua is an important agricultural center, cultivating millet, sorghum, and groundnuts, essential for food security.",
+      "facts": ["Agricultural center", "Millet and sorghum", "Groundnuts"]
+    },
+    {
+      "id": "konni-kids-life-v2",
+      "description": "Konni is known for its traditional markets and cultural activities, offering unique experiences for families.",
+      "facts": ["Traditional markets", "Cultural activities", "Family experiences"]
+    },
+    {
+      "id": "madaoua-agri-life-v2",
+      "description": "Madaoua is an agricultural zone, cultivating cotton and peanuts, essential for the local economy and export.",
+      "facts": ["Agricultural zone", "Cotton and peanuts", "Local economy"]
+    },
+    {
+      "id": "tera-bird-life-v2",
+      "description": "Tera, along the Niger River, is a birdwatching spot, hosting aquatic and savanna species.",
+      "facts": ["Birdwatching spot", "Niger River", "Aquatic and savanna species"]
+    },
+    {
+      "id": "kollo-mango-life-v2",
+      "description": "The Kollo region is known for its mango orchards, which contribute to the supply of local markets.",
+      "facts": ["Mango orchards", "Local markets", "Kollo"]
+    }
+  ]
+}

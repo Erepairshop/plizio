@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aluminiumwerk-fria-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Aluminiumwerk Fria, auch bekannt als Friguia-Komplex, ist ein historisches Monument der afrikanischen Industriegeschichte. Es wurde 1960 in Betrieb genommen und war die erste Aluminiumhütte auf dem afrikanischen Kontinent, die Bauxit direkt vor Ort zu Tonerde (Alumina) verarbeitete. Die Stadt Fria entwickelte sich um dieses Werk herum zu einer modernen Industriestadt. Geografisch liegt das Werk in der Region Maritime Guinea, etwa 160 Kilometer nördlich von Conakry. Das Werk wird heute vom russischen Bergbaukonzern RUSAL betrieben. Die Anlage umfasst nicht nur die eigentliche Raffinerie, sondern auch eine eigene Bauxitmine sowie eine 143 Kilometer lange Eisenbahnlinie, die das Werk mit dem Hafen von Conakry verbindet. Wirtschaftlich ist Fria für Guinea von unschätzbarem Wert, da es die Wertschöpfungskette im Land verlängert und nicht nur Rohbauxit exportiert. Nach einer Phase der Stilllegung zwischen 2012 und 2018 wurde das Werk modernisiert und wieder angefahren, was für die lokale Wirtschaft eine existenzielle Bedeutung hatte. Fria steht symbolisch für den Versuch Guineas, sich vom reinen Rohstofflieferanten zum Industriestandort zu entwickeln, und bleibt trotz technischer Herausforderungen ein technologischer Eckpfeiler des Landes.",
+        "hu": "A fria-i timföldgyár, más néven Friguia-komplexum, az afrikai ipartörténet egyik legfontosabb emléke. 1960-as üzembe helyezésével ez volt az első olyan létesítmény az afrikai kontinensen, amely a helyben bányászott bauxitot közvetlenül timfölddé (alumínium-oxid) dolgozta fel. Fria városa gyakorlatilag e köré az üzem köré épült, modern ipari központtá válva. Földrajzilag Alsó-Guineában található, mintegy 160 kilométerre északra Conakrytól. Az üzemet jelenleg az orosz RUSAL bányászati óriás üzemelteti. A komplexum nem csupán a finomítót foglalja magában, hanem saját bauxitbányával és egy 143 kilométeres vasútvonallal is rendelkezik, amely összeköti a gyárat a conakry-i kikötővel. Gazdaságilag Fria felbecsülhetetlen értékű Guinea számára, mivel növeli a hazai hozzáadott értéket, és nem csupán nyers bauxitot exportál. Egy hosszabb, 2012 és 2018 közötti leállást követően az üzemet modernizálták és újraindították, ami a helyi gazdaság számára életmentő volt. Fria szimbolizálja Guinea azon törekvését, hogy a nyersanyagszállító szerepből ipari országgá váljon, és a technikai kihívások ellenére is az ország egyik technológiai tartóoszlopa maradt.",
+        "ro": "Fabrica de alumină din Fria, cunoscută și sub numele de complexul Friguia, este un monument istoric al industriei africane. Inaugurată în 1960, aceasta a fost prima rafinărie de pe continentul african care procesa bauxita extrasă local direct în alumină. Orașul Fria s-a dezvoltat integral în jurul acestei unități, devenind un centru industrial modern. Geografic, fabrica este situată în regiunea Guineea Maritimă, la aproximativ 160 de kilometri nord de Conakry. În prezent, unitatea este operată de grupul rus RUSAL. Complexul include nu doar rafinăria propriu-zisă, ci și o mină de bauxită dedicată și o linie de cale ferată de 143 de kilometri care leagă fabrica de terminalul din portul Conakry. Din punct de vedere economic, Fria este de o importanță capitală pentru Guineea, deoarece permite creșterea valorii adăugate a resurselor interne. După o perioadă de inactivitate între 2012 și 2018, fabrica a fost modernizată și repornită, un eveniment esențial pentru stabilitatea economică a regiunii. Fria rămâne un simbol al ambiției Guineei de industrializare, fiind un pilon tehnologic și social pentru mii de familii care depind de activitatea acestui complex industrial masiv.",
+        "en": "The Fria Alumina Plant, also known as the Friguia complex, is a landmark in African industrial history. Commissioned in 1960, it was the first facility on the African continent to process locally mined bauxite directly into alumina (aluminum oxide). The town of Fria grew entirely around this plant, evolving into a modern industrial hub. Geographically, the plant is located in Maritime Guinea, approximately 160 kilometers north of Conakry. Today, the facility is operated by the Russian mining giant RUSAL. The complex includes not only the refinery but also its own bauxite mine and a 143-kilometer dedicated railway line connecting the plant to the Port of Conakry. Economically, Fria is of immense value to Guinea as it moves the country up the value chain beyond raw bauxite exports. After a period of closure between 2012 and 2018, the plant was modernized and restarted, providing a critical boost to the local economy. Fria stands as a symbol of Guinea's aspiration to transform from a raw material supplier into an industrial nation, remaining a technological cornerstone of the country's economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fria war die erste Aluminiumhütte auf dem afrikanischen Kontinent (1960).",
+          "Das Werk wird heute mehrheitlich vom russischen Konzern RUSAL kontrolliert.",
+          "Eine 143 km lange Schmalspurbahn verbindet Fria mit dem Hafen von Conakry.",
+          "Die Anlage produziert Alumina, die Grundsubstanz für die Aluminiumherstellung.",
+          "Die Mine in Fria verfügt über Reserven für mehrere Jahrzehnte.",
+          "Das Werk ist der mit Abstand größte Arbeitgeber in der Präfektur Fria."
+        ],
+        "hu": [
+          "Fria volt az egész afrikai kontinens első timföldgyára 1960-ban.",
+          "Az üzemet jelenleg az orosz RUSAL bányavállalat irányítja.",
+          "A gyárat és a kikötőt egy 143 km hosszú keskeny nyomtávú vasút köti össze.",
+          "A komplexum nemcsak bányássza, hanem finomítja is az ércet.",
+          "A 2018-as újraindítás után a gyár termelése folyamatosan növekszik.",
+          "Fria városa Guinea egyik legrégebbi tervezett iparvárosa."
+        ],
+        "ro": [
+          "Fria a fost prima rafinărie de alumină construită în Africa sub-sahariană.",
+          "Complexul este operat de gigantul rus RUSAL prin divizia Friguia.",
+          "Capacitatea nominală a rafinăriei este de aproximativ 600.000 tone anual.",
+          "Calea ferată Fria-Conakry este vitală pentru exportul produsului finit.",
+          "Activitatea fabricii susține întregul sistem public al orașului Fria.",
+          "Rezervorul de bauxită locală este unul dintre cele mai bine explorate din țară."
+        ],
+        "en": [
+          "Fria was the very first alumina refinery to be built in Africa (1960).",
+          "The plant is currently majority-owned and operated by RUSAL.",
+          "A dedicated 143 km railway connects the refinery to the Conakry port.",
+          "It processes raw bauxite into refined alumina powder for export.",
+          "The plant reopened in 2018 following extensive technical upgrades.",
+          "It remains the primary economic driver for the entire Fria Prefecture."
+        ]
+      }
+    },
+    {
+      "id": "eisenerzmine-zogota-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Eisenerzmine Zogota ist ein bedeutendes Bergbauprojekt in der Region Guinée Forestière, etwa 100 Kilometer südöstlich der Stadt Nzérékoré. Das Projekt konzentriert sich auf eine der reichsten Eisenerzlagerstätten Westafrikas, die für ihre außergewöhnlich hohe Reinheit des Erzes bekannt ist. Geografisch liegt Zogota in einem bergigen und bewaldeten Gebiet, was den logistischen Aufwand für die Erschließung erheblich erhöht. Das Projekt war über Jahre hinweg Gegenstand internationaler Bergbauabkommen und rechtlicher Auseinandersetzungen, insbesondere im Zusammenhang mit Unternehmen wie Vale und BSGR. In jüngster Zeit wurde das Projekt durch neue Investoren wie Niron Metals wiederbelebt. Die wirtschaftliche Strategie für Zogota sieht vor, das Erz über den Hafen von Buchanan im benachbarten Liberia zu exportieren, was eine grenzüberschreitende Zusammenarbeit erfordert. Für Guinea bedeutet die Erschließung von Zogota einen wichtigen Schritt zur Diversifizierung seines Bergbausektors über Bauxit und Gold hinaus. Die lokale Bevölkerung erhofft sich von dem Projekt eine Verbesserung der Infrastruktur und dauerhafte Arbeitsplätze, während internationale Beobachter die ökologischen Auswirkungen auf den Regenwald von Waldguinea kritisch verfolgen.",
+        "hu": "A zogotai vasércbánya egy jelentős bányászati projekt az Erdős-Guinea régióban, mintegy 100 kilométerre délkeletre Nzérékoré városától. A projekt Nyugat-Afrika egyik leggazdagabb vasérclelőhelyére fókuszál, amely az érc rendkívül magas tisztaságáról ismert. Földrajzilag Zogota hegyvidéki, erdős területen fekszik, ami komoly logisztikai kihívást jelent a kitermelés és a szállítás szempontjából. A projekt évekig nemzetközi bányászati megállapodások és jogi viták kereszttüzében állt, különösen olyan vállalatok érintettsége révén, mint a Vale és a BSGR. Az utóbbi időben az olyan új befektetők, mint a Niron Metals, új életet leheltek a projektbe. Zogota gazdasági stratégiája szerint az ércet a szomszédos Libériában található Buchanan kikötőjén keresztül exportálnák, ami szoros határmenti együttműködést igényel. Guinea számára a zogotai bánya megnyitása fontos lépés a bányászati szektor diverzifikálása felé, túllépve a bauxit- és aranyfüggőségen. A helyi lakosság az infrastruktúra fejlődését és tartós munkahelyeket vár a projekttől, miközben a nemzetközi megfigyelők aggódva figyelik a tevékenység környezeti hatásait az erdei régió ökoszisztémájára.",
+        "ro": "Mina de fier Zogota este un proiect minier major situat în regiunea Guinée Forestière, la aproximativ 100 de kilometri sud-est de orașul Nzérékoré. Proiectul vizează unul dintre cele mai bogate zăcăminte de minereu de fier din Africa de Vest, renumit pentru puritatea sa excepțională. Din punct de vedere geografic, Zogota se află într-o zonă montană împădurită, ceea ce crește complexitatea logistică a operațiunilor de extracție. De-a lungul anilor, proiectul a fost în centrul unor dispute juridice și acorduri internaționale complexe, implicând companii precum Vale și BSGR. Recent, proiectul a fost revitalizat prin implicarea unor noi investitori, precum Niron Metals. Strategia economică pentru Zogota prevede exportul minereului prin portul Buchanan din Liberia vecină, o soluție logistică ce necesită o cooperare transfrontalieră solidă. Pentru Guineea, dezvoltarea minei Zogota reprezintă un pas crucial în diversificarea sectorului minier dincolo de bauxită și aur. Populația locală speră ca proiectul să aducă investiții în infrastructură și locuri de muncă stabile, în timp ce organizațiile de mediu monitorizează cu atenție impactul asupra pădurilor tropicale din această regiune sensibilă.",
+        "en": "The Zogota Iron Ore Mine is a significant mining project in the Forested Guinea region, located about 100 kilometers southeast of Nzérékoré. The project targets one of West Africa's richest iron ore deposits, noted for its exceptionally high-grade purity. Geographically, Zogota is situated in a mountainous and forested area, which presents significant logistical challenges for development and ore transport. For years, the project was at the center of international mining disputes and legal battles involving companies such as Vale and BSGR. Recently, the project has seen a revival through new investors like Niron Metals. The economic strategy for Zogota involves exporting the ore via the Port of Buchanan in neighboring Liberia, a plan that requires strong cross-border cooperation. For Guinea, developing Zogota is a key step in diversifying its mining sector beyond bauxite and gold. The local population expects the project to bring infrastructure improvements and long-term employment, while environmental observers closely monitor its potential impact on the sensitive rainforest ecosystems of the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zogota beherbergt Eisenerz mit einem Gehalt von über 60 % Eisen.",
+          "Das Projekt sieht eine Exportroute über das benachbarte Liberia vor.",
+          "Zogota liegt in der Nähe der Grenze zu Liberia im Südosten Guineas.",
+          "Die Mine wird derzeit durch Niron Metals neu entwickelt.",
+          "Es ist eines der wenigen Projekte weltweit mit direkt verschiffbarem Erz (DSO).",
+          "Die Erschließung gilt als Testfall für die grenzüberschreitende Bergbaulogistik."
+        ],
+        "hu": [
+          "A zogotai érc vastartalma meghaladja a 60%-ot, ami világszinten is kimagasló.",
+          "A kitermelt ércet várhatóan libériai vasútvonalon szállítják majd.",
+          "A bánya az Erdős-Guinea régió távoli, hegyvidéki részén található.",
+          "A projektet jelenleg a brit Niron Metals konzorcium fejleszti.",
+          "Zogota kulcsszerepet játszik Guinea és Libéria gazdasági közeledésében.",
+          "A lelőhely kiaknázása nagyban függ a politikai stabilitástól a térségben."
+        ],
+        "ro": [
+          "Minereul de la Zogota este de tip DSO (Direct Shipping Ore), necesitând procesare minimă.",
+          "Proiectul a fost evaluat ca având o durată de viață de peste 20 de ani.",
+          "Se află în prefectura Nzérékoré, într-un mediu cu biodiversitate ridicată.",
+          "Utilizarea portului Buchanan (Liberia) reduce semnificativ costurile logistice.",
+          "Investițiile inițiale în proiect au depășit sute de milioane de dolari.",
+          "Zogota este considerat un zăcământ strategic pentru industria oțelului."
+        ],
+        "en": [
+          "Zogota contains iron ore with a grade often exceeding 60% iron content.",
+          "The export strategy utilizes the existing railway corridor through Liberia.",
+          "The mine is located in a remote, forested area of southeastern Guinea.",
+          "Niron Metals is currently leading the redevelopment of the Zogota project.",
+          "It is classified as a high-grade Direct Shipping Ore (DSO) deposit.",
+          "The project is a significant example of West African cross-border economic cooperation."
+        ]
+      }
+    },
+    {
+      "id": "bauxitmine-bel-air-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bauxitmine Bel-Air ist ein modernes Bergbauprojekt in der Präfektur Boffa, direkt an der Küste von Maritime Guinea gelegen. Sie wird von Alufer Mining betrieben und zeichnet sich durch ihre strategisch vorteilhafte Lage unmittelbar am Atlantik aus. Im Gegensatz zu den Minen im Landesinneren benötigt Bel-Air keine langen Eisenbahnverbindungen, da das Erz über eine kurze, unternehmenseigene Transportstraße direkt zum Küstenterminal befördert wird. Geografisch liegt die Mine auf einem Plateau, das nur wenige Kilometer vom Meer entfernt ist. Der Abbau erfolgt im Tagebauverfahren, wobei das Bauxit aufgrund seiner hohen Qualität und geringen Verunreinigungen als direkt verschiffbares Erz (DSO) gilt. Seit dem Produktionsstart im Jahr 2018 hat Bel-Air die Bauxit-Exportkapazitäten Guineas erheblich gesteigert. Wirtschaftlich ist die Mine ein wichtiger Faktor für die Entwicklung der Region Boffa, da sie in lokale Infrastrukturprojekte investiert und Arbeitsplätze in der Küstenregion schafft. Ein besonderer Fokus liegt auf der Minimierung der Umweltauswirkungen auf die küstennahen Ökosysteme und die Zusammenarbeit mit den lokalen Fischergemeinden. Bel-Air ist ein Beispiel für ein hocheffizientes, kompaktes Bergbauprojekt, das die Logistikvorteile der guineischen Küste optimal nutzt.",
+        "hu": "A Bel-Air bauxitbánya egy modern bányászati projekt a Boffa prefektúrában, közvetlenül az atlanti-óceáni partvidéken. A bányát az Alufer Mining üzemelteti, és legnagyobb előnye a stratégiai elhelyezkedése: az ércet nem kell hosszú vasútvonalakon szállítani, mivel a fejtés közvetlenül a tengerpart közelében található. Földrajzilag a bánya egy olyan fennsíkon fekszik, amely mindössze néhány kilométerre van az óceántól, így az ércet saját szállítóúton juttatják el a kikötői terminálhoz. A kitermelés külszíni fejtéssel zajlik, az itt talált bauxit pedig kiváló minősége miatt közvetlenül hajózható (DSO) ércnek minősül. A 2018-as indulás óta a Bel-Air bánya jelentősen növelte Guinea bauxit-exportkapacitását. Gazdaságilag a projekt meghatározó Boffa régiója számára, mivel munkahelyeket teremt és helyi infrastrukturális fejlesztéseket finanszíroz. A vállalat kiemelt figyelmet fordít a tengerparti ökoszisztémák védelmére és a helyi halászközösségekkel való együttműködésre. A Bel-Air projekt kiváló példája a hatékony, kompakt bányászatnak, amely maximálisan kihasználja Guinea földrajzi adottságait.",
+        "ro": "Mina de bauxită Bel-Air este un proiect minier modern situat în prefectura Boffa, chiar pe coasta Guineei Maritime. Operată de compania Alufer Mining, mina se distinge prin locația sa strategică extrem de avantajoasă, fiind situată în imediata apropiere a Oceanului Atlantic. Spre deosebire de minele din interiorul țării, Bel-Air nu necesită infrastructură feroviară complexă, minereul fiind transportat pe o rută scurtă dedicată direct către terminalul de coastă. Din punct de vedere geografic, mina este amplasată pe un platou situat la doar câțiva kilometri de țărm. Extracția se face prin carieră de suprafață, bauxita extrasă fiind de tip DSO (Direct Shipping Ore), ceea ce înseamnă că necesită procesare minimă înainte de export. De la începutul producției în 2018, Bel-Air a contribuit semnificativ la creșterea volumelor de export ale Guineei. Economic, proiectul este un motor de dezvoltare pentru prefectura Boffa, generând locuri de muncă și investind în proiecte comunitare locale. O atenție deosebită este acordată protejării ecosistemelor costiere și dialogului cu comunitățile de pescari din zonă, făcând din Bel-Air un model de eficiență logistică în sectorul extractiv.",
+        "en": "The Bel-Air Bauxite Mine is a modern mining operation in the Boffa Prefecture, located directly on the coast of Maritime Guinea. Operated by Alufer Mining, the project is characterized by its strategic location immediately adjacent to the Atlantic Ocean. Unlike inland mines, Bel-Air does not require extensive railway links, as the ore is transported via a short, dedicated haul road directly to its coastal terminal. Geographically, the mine sits on a plateau just a few kilometers from the sea. Mining is conducted through open-pit methods, and the bauxite is classified as Direct Shipping Ore (DSO) due to its high grade and low impurities. Since starting production in 2018, Bel-Air has significantly boosted Guinea's bauxite export capacity. Economically, the mine is a key driver for the Boffa region, creating jobs and investing in local infrastructure projects. A special focus is placed on minimizing environmental impacts on coastal ecosystems and cooperating with local fishing communities. Bel-Air serves as an example of a highly efficient, compact mining project that optimally utilizes the logistical advantages of the Guinean coastline."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bel-Air liegt nur etwa 5 km von der Küstenlinie entfernt.",
+          "Die Mine wird von der britischen Firma Alufer Mining betrieben.",
+          "Das Erz wird über einen eigenen Tiefwasser-Verladepunkt exportiert.",
+          "Die jährliche Produktionskapazität liegt bei etwa 5,5 Millionen Tonnen.",
+          "Bel-Air ist eines der umweltfreundlichsten Bergbauprojekte Guineas.",
+          "Die Mine nutzt Oberflächen-Miner (Surface Miner) statt Sprengungen."
+        ],
+        "hu": [
+          "A Bel-Air bánya mindössze 5 km-re fekszik az óceán partjától.",
+          "A projektet a brit Alufer Mining vállalat kezeli.",
+          "Az éves kitermelési kapacitás eléri az 5,5 millió tonnát.",
+          "A bánya saját tengeri rakodóterminállal rendelkezik.",
+          "A kitermelés során nem alkalmaznak robbantást, hanem speciális marógépeket.",
+          "A projekt jelentős mértékben hozzájárul a Boffa környéki utak fejlesztéséhez."
+        ],
+        "ro": [
+          "Bel-Air este una dintre puținele mine de bauxită cu acces direct la mare.",
+          "Compania Alufer a investit peste 200 de milioane de dolari în acest proiect.",
+          "Transportul minereului se face cu camioane de mare tonaj pe drumuri private.",
+          "Terminalul maritim poate încărca nave de tip Barges pentru transbordare.",
+          "Mina a creat peste 500 de locuri de munkă directe pentru localnici.",
+          "Proiectul respectă standardele internaționale de sustenabilität IFC."
+        ],
+        "en": [
+          "Bel-Air is located just 5 kilometers from the Atlantic coastline.",
+          "The mine is owned and operated by Alufer Mining.",
+          "Ore is exported through a dedicated offshore loading terminal.",
+          "The project has an annual production capacity of 5.5 million tonnes.",
+          "It utilizes surface miners to reduce dust and noise compared to blasting.",
+          "Bel-Air is a major contributor to the economic revitalization of the Boffa area."
+        ]
+      }
+    },
+    {
+      "id": "hafen-konta-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Konta ist ein spezialisierter Exporthafen in der Präfektur Forécariah, im Südwesten Guineas. Er wurde primär für den Export von Bauxiterz aus den Minen im Süden des Landes entwickelt, insbesondere für Projekte der indischen Ashapura-Gruppe. Geografisch liegt Konta an einem Ästuar, das von Mangroven umgeben ist und einen Zugang zum Atlantischen Ozean bietet. Der Hafen fungiert als logistischer Knotenpunkt, an dem das Erz von Lastwagen angeliefert und dann auf Leichter (Barken) verladen wird, um zu größeren Schiffen auf hoher See transportiert zu werden. Wirtschaftlich hat die Inbetriebnahme von Konta die Exportkapazitäten Guineas diversifiziert und neue Handelswege im südlichen Küstengebiet eröffnet. Der Hafenbau ging mit Investitionen in die lokale Infrastruktur, wie der Verbesserung von Zufahrtsstraßen, einher. Dennoch ist der Standort ökologisch sensibel, da er sich in einer Zone mit bedeutenden Mangrovenbeständen befindet. Konta ist ein Beispiel für die Dezentralisierung der guineischen Hafenlandschaft, um den wachsenden Druck auf die Hauptports von Conakry und Kamsar zu mildern. Er spielt eine wichtige Rolle für die regionale Wirtschaftsentwicklung in der Präfektur Forécariah.",
+        "hu": "Konta kikötője egy speciális exportterminál a Forécariah prefektúrában, Guinea délnyugati részén. A kikötőt elsősorban az ország déli részén található bányákból származó bauxit szállítására fejlesztették ki, különös tekintettel az indiai Ashapura csoport projektjeire. Földrajzilag Konta egy mangrove-erdőkkel övezett torkolatnál fekszik, amely kijáratot biztosít az Atlanti-óceánra. A kikötő logisztikai csomópontként működik: az ércet teherautókkal szállítják ide, majd bárkákra rakják, amelyek a nyílt tengeren várakozó nagyobb hajókhoz juttatják el az árut. Gazdasági szempontból Konta üzembe helyezése diverzifikálta Guinea exportkapacitásait, és új kereskedelmi útvonalakat nyitott a déli partvidéken. A kikötő kiépítése együtt járt a helyi infrastruktúra, például a bekötőutak fejlesztésével. Ugyanakkor a helyszín ökológiailag érzékeny, mivel jelentős mangrove-állományok találhatók a környéken. Konta a guineai kikötői hálózat decentralizációjának egyik példája, amely segít enyhíteni a Conakry és Kamsar fő kikötőire nehezedő nyomást. Fontos szerepet játszik Forécariah prefektúra regionális gazdasági fejlődésében.",
+        "ro": "Portul Konta este un terminal de export specializat situat în prefectura Forécariah, în sud-vestul Guineei. Acesta a fost dezvoltat în principal pentru exportul de bauxită provenită din minele din sudul țării, în special pentru proiectele grupului indian Ashapura. Geografic, Konta se află într-un estuar înconjurat de mangrove, oferind o ieșire strategică la Oceanul Atlantic. Portul funcționează ca un nod logistic unde minereul este adus cu camioane și apoi încărcat pe barje, care îl transportă către navele mari ancorate în larg. Din punct de vedere economic, operaționalizarea portului Konta a diversificat capacitățile de export ale Guineei și a deschis noi rute comerciale în zona de coastă sudică. Construcția portului a fost însoțită de investiții în infrastructura locală, cum ar bi îmbunătățirea drumurilor de acces. Totuși, locația este una sensibilă din punct de vedere ecologic, fiind situată într-o zonă cu păduri de mangrove extinse. Konta este un exemplu de descentralizare a infrastructurii portuare guineene, menită să reducă presiunea asupra porturilor principale din Conakry și Kamsar. Joacă un rol crucial în revitalizarea economică a prefecturii Forécariah.",
+        "en": "The Port of Konta is a specialized export terminal in the Forécariah Prefecture, located in southwestern Guinea. It was primarily developed for the export of bauxite ore from mines in the southern part of the country, specifically supporting projects led by the Indian Ashapura Group. Geographically, Konta is situated on an estuary surrounded by mangroves, providing access to the Atlantic Ocean. The port acts as a logistics hub where ore is delivered by trucks and then loaded onto barges to be transported to larger vessels anchored offshore. Economically, the commissioning of Konta has diversified Guinea's export capacities and opened new trade routes in the southern coastal region. The port's construction was accompanied by investments in local infrastructure, such as the improvement of access roads. However, the site is ecologically sensitive, as it is located within a zone of significant mangrove forests. Konta is an example of the decentralization of Guinea's port landscape, helping to ease the pressure on the main ports of Conakry and Kamsar. It plays a vital role in the regional economic development of the Forécariah Prefecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Konta ist ein wichtiger Exporthafen für die Ashapura Mine.",
+          "Der Hafen liegt im Mündungsgebiet eines Flusses in der Region Forécariah.",
+          "Er nutzt ein Barken-System für den Erztransport zu Hochseeschiffen.",
+          "Der Hafen wurde zur Entlastung des Hafens von Conakry konzipiert.",
+          "Die Umgebung besteht aus dichten Mangroven-Ökosystemen.",
+          "Konta ist über eine neu ausgebaute Erzpiste mit dem Hinterland verbunden."
+        ],
+        "hu": [
+          "Konta az Ashapura bányavállalat elsődleges exportkikötője.",
+          "A kikötő a Forécariah régió folyótorkolati övezetében található.",
+          "A berakodás bárkák segítségével történik a tengeri ércszállítókra.",
+          "A projekt segített decentralizálni a guineai bauxit-exportot.",
+          "A kikötő környéke fontos élőhely a vízi madarak és a tengeri fauna számára.",
+          "A létesítmény fellendítette a helyi kiskereskedelmet és szolgáltatásokat."
+        ],
+        "ro": [
+          "Portul Konta este operat în principal de compania Ashapura Mine.",
+          "Localizarea sa facilitează exporturile din zona minieră Houda.",
+          "Utilizează transbordarea pe mare din cauza adâncimii reduse la mal.",
+          "Konta reprezintă o poartă economică nouă pentru sudul Guineei.",
+          "Ecosistemul de mangrove este monitorizat pentru a limita impactul portuar.",
+          "Infrastructura rutieră către Konta a fost modernizată special pentru camioane grele."
+        ],
+        "en": [
+          "Konta serves as a dedicated export terminal for the Ashapura mining operations.",
+          "The port is located on a river estuary within the Forécariah region.",
+          "It employs a barge-based transshipment system for bulk carriers.",
+          "The facility was built to relieve congestion at the main Conakry port.",
+          "The area is characterized by biodiverse and sensitive mangrove forests.",
+          "Konta has become a significant economic engine for the southwestern coast."
+        ]
+      }
+    },
+    {
+      "id": "diamantenmine-banankoro-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Diamantenminen von Banankoro sind das Epizentrum der guineischen Edelsteinindustrie und liegen in der Präfektur Kérouané. Die Region ist weltweit bekannt für ihre reichen alluvialen Diamantenvorkommen, die sich in den Flusssedimenten des Baoulé und seiner Nebenflüsse befinden. Der Bergbau in Banankoro ist eine Mischung aus großflächigen industriellen Konzessionen und intensivem handwerklichem Abbau. Tausende von Bergleuten, bekannt als 'Orpailleurs', arbeiten unter oft schwierigen Bedingungen, um die wertvollen Steine aus dem Kies zu waschen. Geografisch ist das Gebiet durch eine Hügellandschaft mit fruchtbaren Tälern und Flussläufen geprägt. Wirtschaftlich sind die Minen von Banankoro der wichtigste Faktor für den Wohlstand im Osten Guineas, haben aber auch zu einer volatilen Wirtschaftsstruktur geführt, die stark von den Weltmarktpreisen für Diamanten abhängt. Banankoro-Diamanten sind für ihre hohe Qualität und Reinheit bekannt. Die Minen haben die Stadt Banankoro zu einem geschäftigen Handelsplatz gemacht, an dem Käufer aus aller Welt zusammenkommen. Trotz des Reichtums steht die Region vor Herausforderungen wie der Umweltzerstörung durch unregulierten Abbau und der Notwendigkeit einer besseren sozialen Absicherung für die Bergleute.",
+        "hu": "A banankorói gyémántbányák a guineai drágakőipar epicentrumát jelentik, és a Kérouané prefektúrában találhatók. A régió világszerte ismert gazdag hordalékos gyémántlelőhelyeiről, amelyek a Baoulé-folyó és mellékfolyóinak üledékeiben találhatók. A bányászat Banankoróban a nagyszabású ipari koncessziók és az intenzív kisipari kitermelés keveréke. Több ezer bányász, akiket „orpailleurs”-nak neveznek, gyakran nehéz körülmények között dolgozik, hogy a kavicsból kimossák az értékes köveket. Földrajzilag a területet dombos táj jellemzi, termékeny völgyekkel és folyómedrekkel. Gazdaságilag a banankorói bányák Kelet-Guinea jólétének legfontosabb tényezői, de egyben volatilis gazdasági szerkezethez is vezettek, amely erősen függ a gyémánt világpiaci árától. A banankorói gyémántok híresek kiváló minőségükről és tisztaságukról. A bányák a várost nyüzsgő kereskedelmi központtá tették, ahol a világ minden tájáról érkező vásárlók találkoznak. A gazdagság ellenére a régiónak olyan kihívásokkal kell szembenéznie, mint a szabályozatlan bányászat okozta környezetpusztítás és a bányászok szociális biztonságának megteremtése.",
+        "ro": "Minele de diamante din Banankoro reprezintă epicentrul industriei pietrelor prețioase din Guineea, fiind situate în prefectura Kérouané. Regiunea este celebră la nivel mondial pentru zăcămintele sale aluvionare bogate, aflate în sedimentele râului Baoulé și ale afluenților săi. Activitatea minieră din Banankoro este un amestec de concesiuni industriale pe scară largă și minerit artizanal intensiv. Mii de mineri, cunoscuți sub numele de „orpailleurs”, lucrează în condiții adesea dificile pentru a spăla pietrele prețioase din pietrișul fluvial. Geografic, zona este marcată de un relief colinar cu văi fertile și cursuri de apă sinuoase. Din punct de vedere economic, minele din Banankoro sunt principalul motor al prosperității în estul Guineei, deși au creat o structură economică volatilă, dependentă de prețurile pieței mondiale. Diamantele de Banankoro sunt recunoscute pentru calitatea și puritatea lor ridicată. Minele au transformat orașul Banankoro într-un centru comercial vibrant, unde se întâlnesc cumpărători internaționali. În ciuda bogăției generate, regiunea se confruntă cu provocări majore, precum degradarea mediului cauzată de extracția nereglementată și necesitatea îmbunătățirii condițiilor sociale pentru mineri.",
+        "en": "The Banankoro Diamond Mines are the epicenter of Guinea's gemstone industry, located in the Kérouané Prefecture. The region is globally renowned for its rich alluvial diamond deposits found within the sediments of the Baoulé River and its tributaries. Mining in Banankoro is a blend of large-scale industrial concessions and intensive artisanal mining. Thousands of miners, known as 'orpailleurs,' work under often challenging conditions to wash precious stones from river gravel. Geographically, the area is characterized by a hilly landscape with fertile valleys and winding riverbeds. Economically, the Banankoro mines are the most critical factor for prosperity in eastern Guinea, though they have fostered a volatile economic structure heavily dependent on global diamond prices. Banankoro diamonds are prized for their high quality and clarity. The mines have turned the town of Banankoro into a bustling commercial hub attracting buyers from around the world. Despite the wealth generated, the region faces significant challenges, including environmental degradation from unregulated mining and the need for better social protections for the mining community."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Banankoro ist das Herzland der alluvialen Diamantengewinnung in Guinea.",
+          "Die Minen erstrecken sich entlang des Baoulé-Flusssystems.",
+          "Ein Großteil der Produktion erfolgt durch zehntausende Kleinbergleute.",
+          "Die hier gefundenen Diamanten gehören zu den reinsten weltweit.",
+          "Banankoro ist ein bedeutender internationaler Marktplatz für Rohdiamanten.",
+          "Der Bergbau ist seit den 1950er Jahren die primäre Einnahmequelle der Region."
+        ],
+        "hu": [
+          "Banankoro környéke Guinea leggazdagabb hordalékos gyémántlelőhelye.",
+          "A kitermelés főként a Baoulé-folyó medrében és árterén zajlik.",
+          "A bányászat nagy része kisipari, kézi módszerekkel történik.",
+          "A banankorói gyémántok híresek rendkívüli tisztaságukról.",
+          "A városban számos hivatalos drágakő-felvásárló állomás működik.",
+          "A bányászat jelentős migrációt vonz a környező országokból is."
+        ],
+        "ro": [
+          "Minele din Banankoro produc unele dintre cele mai valoroase diamante din Africa.",
+          "Zăcămintele sunt de tip aluvionar, depuse de râuri de-a lungul mileniilor.",
+          "Mineritul artizanal este reglementat prin permise de exploatare locală.",
+          "Regiunea Kérouané depinde în proporție de 80% de veniturile din diamante.",
+          "Diamantele brute sunt exportate prin sistemul de certificare Kimberley.",
+          "Activitatea minieră a modelat întreaga cultură și economie a zonei."
+        ],
+        "en": [
+          "Banankoro is the heartland of alluvial diamond mining in Guinea.",
+          "The mining operations span the extensive Baoulé River system.",
+          "Most of the extraction is performed by thousands of artisanal miners.",
+          "Diamonds from Banankoro are world-famous for their high gem-quality.",
+          "The area is a major international hub for the trade of rough diamonds.",
+          "Mining has been the primary economic activity in the region since the 1950s."
+        ]
+      }
+    }
+  ]
+}

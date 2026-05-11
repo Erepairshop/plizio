@@ -8,12 +8,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-CE",
     coords: [11.517, 3.861],
     name: { de: "Yaoundé Bauernmarkt", hu: "Yaoundé termelői piac", ro: "Piața de fermieri Yaoundé", en: "Yaoundé Farmers Market" },
-    description: { de: "Ein geschäftiger Markt mit frischen lokalen Erzeugnissen aus der Region.", hu: "Nyüzsgő piac friss helyi termékekkel a régióból.", ro: "O piață animată cu produse locale proaspete din regiune.", en: "A busy market in Yaounde where traders sell food, clothes, and daily goods. It reflects the capital's everyday urban life." },
+    description: { de: "Ein geschäftiger Markt mit frischen lokalen Erzeugnissen aus der Region.", hu: "Nyüzsgő piac friss helyi termékekkel a régióból.", ro: "O piață animată cu produse locale proaspete din regiune.", en: "The bustling markets of Yaounde are the vibrant heart of the city, where locals trade everything from fresh produce to traditional crafts." },
     facts: {
       de: ["Verkauft lokale Avocados", "Zentrum für Kakao"],
       hu: ["Helyi avokádót árulnak", "Kakaó kereskedelmi központ"],
       ro: ["Vinde avocado local", "Centru pentru cacao"],
-      en: ["in Yaounde", "daily shopping place", "busy urban market"]
+      en: ["Central market hub", "Vibrant trade center", "Yaounde local life", "Colorful atmosphere"]
     },
     descriptionAdvanced: {
       de: "Der Mfoundi-Markt in Yaoundé ist ein pulsierender Ort, der das tägliche Leben der Hauptstadt perfekt widerspiegelt. Hier finden Bewohner alles von frischen Lebensmitteln bis hin zu Textilien, was den Markt zu einem wesentlichen sozialen Treffpunkt macht. Soziales K5 — Alltag.",
@@ -60,12 +60,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NW",
     coords: [10.150, 5.950],
     name: { de: "Bamenda Kaffeehof", hu: "Bamenda kávéudvar", ro: "Fermă de cafea Bamenda", en: "Bamenda Coffee Farm" },
-    description: { de: "Traditioneller Kaffeeanbau im Hochland von Bamenda.", hu: "Hagyományos kávétermesztés Bamenda felföldjén.", ro: "Cultivarea tradițională a cafelei în ținuturile înalte din Bamenda.", en: "A coffee farm in the Bamenda area. It shows the role of highland agriculture in the local economy." },
+    description: { de: "Traditioneller Kaffeeanbau im Hochland von Bamenda.", hu: "Hagyományos kávétermesztés Bamenda felföldjén.", ro: "Cultivarea tradițională a cafelei în ținuturile înalte din Bamenda.", en: "The coffee gardens around Bamenda offer a glimpse into the region's long-standing coffee culture and traditional highland farming practices." },
     facts: {
       de: ["Arabica-Bohnen Anbau", "Höhenlage 1200m"],
       hu: ["Arabica bab termesztése", "1200m tengerszint feletti magasság"],
       ro: ["Cultivarea boabelor Arabica", "Altitudine de 1200m"],
-      en: ["near Bamenda", "coffee farming", "highland agriculture"]
+      en: ["Highland coffee culture", "Northwest Region", "Traditional farming", "Local brew tradition"]
     },
     descriptionAdvanced: {
       de: "In den Bamenda-Highlands wird erstklassiger Kaffee angebaut, der weltweit geschätzt wird. Die Kaffeehöfe in dieser Region sind eng mit der lokalen Identität und der Genossenschaftsbewegung verbunden, die den Bauern bessere Bedingungen sichern soll. Wirtschaft K6 — Landwirtschaft.",
@@ -110,12 +110,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-AD",
     coords: [13.583, 7.316],
     name: { de: "Ngaoundere Rinderranch", hu: "Ngaoundere marhatenyészet", ro: "Ferma de vite Ngaoundere", en: "Ngaoundere Cattle Ranch" },
-    description: { de: "Eine Ranch für die Zucht von lokalen Rindern im Hochland.", hu: "Ngaoundéré környéke Kamerun egyik legfontosabb marhatenyésztő vidéke. A szarvasmarha-tartás a helyi élet része.", ro: "Ferma de bovine din Ngaoundéré reflectă tradiția creșterii vitelor din Adamawa. Este un spațiu legat de păstorit și de economia rurală a regiunii.", en: "A cattle ranch near Ngaoundere on the Adamawa plateau. Livestock farming is a major part of the regional way of life." },
+    description: { de: "Eine Ranch für die Zucht von lokalen Rindern im Hochland.", hu: "Ngaoundéré környéke Kamerun egyik legfontosabb marhatenyésztő vidéke. A szarvasmarha-tartás a helyi élet része.", ro: "Ferma de bovine din Ngaoundéré reflectă tradiția creșterii vitelor din Adamawa. Este un spațiu legat de păstorit și de economia rurală a regiunii.", en: "The cattle ranches around Ngaoundere are central to the Fulbe way of life, reflecting the region's status as Cameroon's pastoral heartland." },
     facts: {
       de: ["Weidewirtschaft", "Zebu-Rinder Zucht"],
       hu: ["marhatenyésztés", "északi fennsík", "állattartó térség"],
       ro: ["în Ngaoundéré", "legată de creșterea bovinelor", "specifică zonei de savană"],
-      en: ["near Ngaoundere", "cattle ranch", "livestock economy"]
+      en: ["Fulbe pastoral life", "Adamawa cattle hub", "Vast ranch lands", "Regional beef source"]
     },
     descriptionAdvanced: {
       de: "Die Rinderzucht auf dem Adamaoua-Plateau ist eine der wichtigsten Stützen der lokalen Wirtschaft. Die weitläufigen Ranches prägen das Bild der Region und machen Ngaoundéré zum bedeutendsten Handelszentrum für Vieh in Kamerun. Wirtschaft K6 — Viehzucht.",
@@ -161,12 +161,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NO",
     coords: [13.383, 9.300],
     name: { de: "Garoua Flussfischerei", hu: "Garoua folyami halászat", ro: "Pescuit fluvial Garoua", en: "Garoua River Fishing" },
-    description: { de: "Die Flussfischerei in Garoua ist eng mit dem Benue und dem lokalen Alltag verbunden. Sie liefert Nahrung und Einkommen für viele Familien.", hu: "A Garoua környéki folyami halászat a Benue és mellékfolyói mentén zajlik. Sok helyi család megélhetését adja.", ro: "Pescuit tradițional pe râul Benue.", en: "River fishing along the Benue near Garoua. It remains an important source of food and income for local families." },
+    description: { de: "Die Flussfischerei in Garoua ist eng mit dem Benue und dem lokalen Alltag verbunden. Sie liefert Nahrung und Einkommen für viele Familien.", hu: "A Garoua környéki folyami halászat a Benue és mellékfolyói mentén zajlik. Sok helyi család megélhetését adja.", ro: "Pescuit tradițional pe râul Benue.", en: "River fishing on the Benue near Garoua is a vital traditional activity that sustains the local economy and provides a staple food source." },
     facts: {
       de: ["am Benue", "wichtig für den Alltag", "lokale Einkommensquelle"],
       hu: ["folyami halászat", "Benue mentén", "helyi megélhetés"],
       ro: ["Piață importantă de pește", "Pescuit cu plasă"],
-      en: ["on the Benue River", "near Garoua", "local fishing activity"]
+      en: ["Benue River fishing", "Garoua local economy", "Traditional canoes", "Staple food source"]
     },
     descriptionAdvanced: {
       de: "Die Fischerei am Benue-Fluss bei Garoua ist eine lebenswichtige Quelle für Nahrung und Einkommen. Traditionelle Techniken werden hier seit Generationen praktiziert und bilden eine wesentliche Grundlage für das Leben der lokalen Fischergemeinschaften. Wirtschaft K5 — Fischerei.",
@@ -186,12 +186,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [11.150, 2.916],
     name: { de: "Ebolowa Kakaogarten", hu: "Ebolowa kakaókert", ro: "Grădina de cacao Ebolowa", en: "Ebolowa Cocoa Garden" },
-    description: { de: "Die Kakaogärten bei Ebolowa zeigen den Anbau einer der wichtigsten Exportkulturen Kameruns. Sie sind typisch für die landwirtschaftliche Landschaft im Süden.", hu: "Az Ebolowa környéki kakaókertek a déli termőövezet részei. A kakaótermesztés a helyi gazdaság fontos eleme.", ro: "O grădină de cacao administrată de familie în zona pădurilor tropicale.", en: "A cocoa garden near Ebolowa in the south. Cocoa farming is a core part of the area's rural economy." },
+    description: { de: "Die Kakaogärten bei Ebolowa zeigen den Anbau einer der wichtigsten Exportkulturen Kameruns. Sie sind typisch für die landwirtschaftliche Landschaft im Süden.", hu: "Az Ebolowa környéki kakaókertek a déli termőövezet részei. A kakaótermesztés a helyi gazdaság fontos eleme.", ro: "O grădină de cacao administrată de familie în zona pădurilor tropicale.", en: "The cocoa gardens of Ebolowa are the foundation of local livelihoods, where the process of harvesting and drying beans is a common sight." },
     facts: {
       de: ["Kakaoanbau im Süden", "nahe Ebolowa", "wichtige Exportpflanze"],
       hu: ["kakaótermesztés", "déli termőövezet", "ültetvényes gazdálkodás"],
       ro: ["Cultivare biologică", "Arbori de umbră"],
-      en: ["near Ebolowa", "cocoa farming", "southern rural economy"]
+      en: ["Cocoa farming heart", "South Region life", "Bean drying process", "Export crop hub"]
     },
     descriptionAdvanced: {
       de: "In der Region um Ebolowa sind Kakaogärten ein Symbol für die lokale landwirtschaftliche Entwicklung. Diese Gärten kombinieren traditionelles Wissen mit modernen Methoden, um hochwertige Erträge in den dichten Wäldern zu erzielen. Wirtschaft K6 — Landwirtschaft.",
@@ -211,12 +211,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.900, 5.733],
     name: { de: "Foumban Handwerkermarkt", hu: "Foumban kézművespiac", ro: "Piața de artizanat Foumban", en: "Foumban Craft Market" },
-    description: { de: "Der Handwerkermarkt von Foumban ist bekannt für Schnitzereien, Masken und Metallarbeiten. Er spiegelt die starke Handwerkstradition der Stadt wider.", hu: "A foumbani kézműves piac a hagyományos díszítő- és használati tárgyak központja. A város kulturális életének része.", ro: "Piața meșteșugarilor din Foumban este un loc important pentru artizani și obiecte tradiționale. Aici se întâlnesc comerțul local și meșteșugurile bamoun.", en: "A craft market in Foumban where artisans sell carvings, metalwork, and pottery. It connects local production with visitors." },
+    description: { de: "Der Handwerkermarkt von Foumban ist bekannt für Schnitzereien, Masken und Metallarbeiten. Er spiegelt die starke Handwerkstradition der Stadt wider.", hu: "A foumbani kézműves piac a hagyományos díszítő- és használati tárgyak központja. A város kulturális életének része.", ro: "Piața meșteșugarilor din Foumban este un loc important pentru artizani și obiecte tradiționale. Aici se întâlnesc comerțul local și meșteșugurile bamoun.", en: "The artisan market in Foumban is famous for its exquisite bronze work and wood carvings, preserving the ancient crafts of the Bamum people." },
     facts: {
       de: ["traditionelles Kunsthandwerk", "in Foumban", "bekannt für Souvenirs"],
       hu: ["kézműves piac", "hagyományos tárgyak", "kulturális kereskedelem"],
       ro: ["în Foumban", "piață de artizanat", "obiecte tradiționale"],
-      en: ["in Foumban", "artisan craft market", "local handicrafts"]
+      en: ["Bamum artisan hub", "Bronze casting center", "Traditional carvings", "West Region culture"]
     },
     descriptionAdvanced: {
       de: "Der Kunsthandwerkermarkt von Foumban ist ein weltbekannter Ort für traditionelle kamerunische Kunst. Hier zeigen Meister ihres Fachs ihr Können in den Bereichen Holzschnitzerei, Guss und Webarbeiten, die tief in der Bamoun-Kultur verwurzelt sind. Kunst/Kultur K6 — Handwerk.",
@@ -236,12 +236,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.050, 5.450],
     name: { de: "Dschang Museumspark", hu: "Dschang múzeumpark", ro: "Parcul muzeului Dschang", en: "Dschang Museum Park" },
-    description: { de: "Ein interaktiver Park am Museum der Zivilisationen.", hu: "Interaktív park a Civilizációk Múzeuma mellett.", ro: "Parcul muzeal din Dschang combină spațiul verde cu prezentarea culturii locale. Locul este folosit pentru vizite, educație și activități de familie.", en: "A museum park in Dschang that combines open space with local heritage displays. It is a calm place for learning and walks." },
+    description: { de: "Ein interaktiver Park am Museum der Zivilisationen.", hu: "Interaktív park a Civilizációk Múzeuma mellett.", ro: "Parcul muzeal din Dschang combină spațiul verde cu prezentarea culturii locale. Locul este folosit pentru vizite, educație și activități de familie.", en: "The museum park in Dschang is a peaceful cultural space where history, nature, and community life intersect in the western highlands." },
     facts: {
       de: ["Lehrreicher Parkbesuch", "Lokale Geschichte"],
       hu: ["Oktató parklátogatás", "Helyi történelem"],
       ro: ["în Dschang", "spațiu muzeal și verde", "potrivit pentru vizite"],
-      en: ["in Dschang", "museum park", "heritage and leisure"]
+      en: ["Highland cultural park", "West Region location", "Educational space", "Community hub"]
     },
     descriptionAdvanced: {
       de: "Der Park rund um das Museum der lokalen Zivilisation in Dschang ist ein Ort der Erholung und der Wissensvermittlung. Er integriert die Natur in das kulturelle Bildungsangebot und ist ein wichtiger Treffpunkt für Einwohner und Besucher gleichermaßen. Soziales K5 — Freizeit.",
@@ -261,12 +261,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [9.916, 2.933],
     name: { de: "Kribi Fischmarkt", hu: "Kribi halpiac", ro: "Piața de pește Kribi", en: "Kribi Fish Market" },
-    description: { de: "Direkter Verkauf des frischen Tagesfangs am Strand.", hu: "A napi friss fogás közvetlen értékesítése a strandon.", ro: "Vânzarea directă a capturii proaspete de zi pe plajă.", en: "A fish market in Kribi close to the coast. It is a daily meeting point for fishers, traders, and buyers." },
+    description: { de: "Direkter Verkauf des frischen Tagesfangs am Strand.", hu: "A napi friss fogás közvetlen értékesítése a strandon.", ro: "Vânzarea directă a capturii proaspete de zi pe plajă.", en: "The Kribi fish market is a lively coastal hub where the daily catch of prawns, lobsters, and sea fish is sold directly from the Atlantic." },
     facts: {
       de: ["Frische Meeresfrüchte", "Küstentradition"],
       hu: ["Friss tenger gyümölcsei", "Parti hagyomány"],
       ro: ["Fructe de mare proaspete", "Tradiție de coastă"],
-      en: ["in Kribi", "coastal fish market", "fresh seafood trade"]
+      en: ["Coastal fish market", "Fresh Atlantic catch", "Kribi local life", "Seafood hub"]
     }, image: "/poi-images/kribi-fischmarkt-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Fischmarkt von Kribi liegt direkt an der Küste und bietet täglich frischen Fang aus dem Golf von Guinea. Fischer bringen ihre Boote morgens an den Strand, wo der Verkauf unmittelbar beginnt. Kribi ist einer der wenigen Küstenorte Kameruns mit weißen Sandstränden und einem aktiven Fischereidorf. Der Markt ist ein lebendiges Bindeglied zwischen der Meereswirtschaft und dem täglichen Bedarf der lokalen Bevölkerung.",
@@ -313,12 +313,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.416, 5.483],
     name: { de: "Bafoussam Maisfeld", hu: "Bafoussam kukoricaföld", ro: "Câmp de porumb Bafoussam", en: "Bafoussam Corn Field" },
-    description: { de: "Die Maisfelder bei Bafoussam zeigen die Bedeutung von Grundnahrungsmitteln im westkamerunischen Hochland. Der Anbau ist eng mit dem lokalen Markt verbunden.", hu: "A Bafoussam környéki kukoricaföldek a Nyugati-fennsík mezőgazdaságát mutatják. A gabonatermelés itt mindennapi tevékenység.", ro: "Zonă mare de cultivare a porumbului în regiunea de vest.", en: "A maize field in the Bafoussam area. It reflects the importance of staple crop farming in the western highlands." },
+    description: { de: "Die Maisfelder bei Bafoussam zeigen die Bedeutung von Grundnahrungsmitteln im westkamerunischen Hochland. Der Anbau ist eng mit dem lokalen Markt verbunden.", hu: "A Bafoussam környéki kukoricaföldek a Nyugati-fennsík mezőgazdaságát mutatják. A gabonatermelés itt mindennapi tevékenység.", ro: "Zonă mare de cultivare a porumbului în regiunea de vest.", en: "The expansive maize fields around Bafoussam are a testament to the agricultural productivity of the fertile volcanic soils in the West Region." },
     facts: {
       de: ["Maisanbau im Westen", "nahe Bafoussam", "wichtig für die Ernährung"],
       hu: ["kukoricatermelés", "Nyugati-fennsík", "gabonaalapú mezőgazdaság"],
       ro: ["Aliment de bază", "Timp de recoltare"],
-      en: ["near Bafoussam", "maize farming", "staple crop area"]
+      en: ["West Region farming", "Volcanic soil", "Maize production hub", "Bafoussam landscape"]
     }, image: "/poi-images/bafoussam-maisfeld-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Maisfelder bei Bafoussam prägen das Bild des westkamerunischen Hochlands und sind ein zentrales Element der lokalen Grundversorgung. Mais ist die wichtigste Stärkekultur der Bamileke-Bevölkerung und wird sowohl frisch als auch getrocknet und gemahlen verbraucht. Die fruchtbaren Böden des Westens und eine gute Niederschlagsverteilung erlauben zwei Ernten pro Jahr. Die Felder sind oft in Familienbesitz und werden mit einfachen Handwerkzeugen bestellt.",
@@ -339,12 +339,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-ES",
     coords: [13.683, 4.583],
     name: { de: "Bertoua Waldhonig", hu: "Bertoua erdei méz", ro: "Miere de pădure Bertoua", en: "Bertoua Forest Honey" },
-    description: { de: "Waldhonig aus der Gegend von Bertoua stammt aus den Waldgebieten des Ostens. Er ist ein typisches Produkt der lokalen Sammelwirtschaft.", hu: "Bertoua környékén az erdei mézgyűjtés és a méhészkedés is fontos. A keleti erdőségek termékeihez kötődik.", ro: "Mierea de pădure din Bertoua este legată de resursele naturale din estul Camerunului. Produsul reflectă activitățile locale din zonele forestiere.", en: "A forest honey site near Bertoua in the east. Honey gathering is part of local small-scale rural production." },
+    description: { de: "Waldhonig aus der Gegend von Bertoua stammt aus den Waldgebieten des Ostens. Er ist ein typisches Produkt der lokalen Sammelwirtschaft.", hu: "Bertoua környékén az erdei mézgyűjtés és a méhészkedés is fontos. A keleti erdőségek termékeihez kötődik.", ro: "Mierea de pădure din Bertoua este legată de resursele naturale din estul Camerunului. Produsul reflectă activitățile locale din zonele forestiere.", en: "Wild forest honey from the Bertoua region is highly prized for its unique flavor, harvested using traditional methods from the dense eastern forests." },
     facts: {
       de: ["Produkt aus dem Waldgebiet", "bei Bertoua", "Teil der Sammelwirtschaft"],
       hu: ["erdei méz", "méhészkedés", "keleti erdőségek"],
       ro: ["în Bertoua", "produs forestier", "obținut din pădurea tropicală"],
-      en: ["near Bertoua", "forest honey", "small-scale rural work"]
+      en: ["East Region product", "Wild forest honey", "Traditional harvesting", "Natural forest resource"]
     }, image: "/poi-images/bertoua-waldhonig-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Waldhonig aus den Regenwaldgebieten um Bertoua gehört zu den besonderen Produkten der östlichen Waldwirtschaft Kameruns. Bienen sammeln Nektar aus der reichhaltigen Tropenwaldflora, was dem Honig ein intensives, vielschichtiges Aroma verleiht. Die Imkerei und das traditionelle Sammeln von Wildhonig ergänzen sich in der Region. Der Honig wird auf lokalen Märkten und zunehmend auch regional vermarktet.",
@@ -365,12 +365,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-CE",
     coords: [11.500, 5.000],
     name: { de: "Mbam Tierreservat", hu: "Mbam állatrezervátum", ro: "Rezervația de animale Mbam", en: "Mbam Animal Reserve" },
-    description: { de: "Das Tierreservat im Mbam-Gebiet steht für die Naturbeobachtung im Zentrum Kameruns. Es bietet Lebensraum für zahlreiche Wildtiere.", hu: "A Mbam térség vadrezervátuma az erdei állatvilág megőrzéséhez kapcsolódik. A természetközeli élet és a vadőrzés területe.", ro: "Rezervația Mbam este un spațiu pentru observarea faunei și pentru conservarea naturii. Zona susține protecția habitatelor și a speciilor locale.", en: "A wildlife reserve area in the Mbam region. It supports animal viewing and nature-based local activity." },
+    description: { de: "Das Tierreservat im Mbam-Gebiet steht für die Naturbeobachtung im Zentrum Kameruns. Es bietet Lebensraum für zahlreiche Wildtiere.", hu: "A Mbam térség vadrezervátuma az erdei állatvilág megőrzéséhez kapcsolódik. A természetközeli élet és a vadőrzés területe.", ro: "Rezervația Mbam este un spațiu pentru observarea faunei și pentru conservarea naturii. Zona susține protecția habitatelor și a speciilor locale.", en: "The animal reserves of the Mbam region offer a glimpse into the diverse wildlife and protected natural habitats of central Cameroon." },
     facts: {
       de: ["Wildtiergebiet im Zentrum", "Lebensraum für Tiere", "für Beobachtung und Schutz"],
       hu: ["vadrezervátum", "erdőlakó állatok", "természetvédelem"],
       ro: ["rezervație faunistică", "în zona Mbam", "protecția faunei"],
-      en: ["in the Mbam area", "wildlife reserve", "nature tourism"]
+      en: ["Central Cameroon wildlife", "Protected habitat", "Regional biodiversity", "Nature conservation"]
     },
     descriptionAdvanced: {
       de: "Das Tierreservat im Mbam-Gebiet schützt einen Teil der zentralkamerunischen Savannenwälder und deren Tierwelt. Es liegt im Übergangsbereich zwischen dem dichten Süd-Regenwald und der nördlichen Grassavanne, was eine hohe Artenvielfalt begünstigt. Büffel, Flusspferde und verschiedene Antilopenarten sind in der Region dokumentiert. Der Bereich dient auch der traditionellen Nutzung durch lokale Gemeinschaften, die seit Generationen von den Waldressourcen leben.",
@@ -391,12 +391,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NW",
     coords: [10.150, 5.966],
     name: { de: "Bamenda Museumsgarten", hu: "Bamenda múzeumkert", ro: "Grădina muzeului Bamenda", en: "Bamenda Museum Garden" },
-    description: { de: "Der Museumsgarten in Bamenda verbindet Grünfläche mit lokaler Kultur. Er ist ein ruhiger Ort für Lernen und Erholung in der Stadt.", hu: "Családbarát kert kulturális tanösvénnyel.", ro: "O grădină potrivită pentru familie cu un traseu cultural.", en: "A museum garden in Bamenda that mixes local plants with cultural displays. It is used for quiet visits and education." },
+    description: { de: "Der Museumsgarten in Bamenda verbindet Grünfläche mit lokaler Kultur. Er ist ein ruhiger Ort für Lernen und Erholung in der Stadt.", hu: "Családbarát kert kulturális tanösvénnyel.", ro: "O grădină potrivită pentru familie cu un traseu cultural.", en: "The museum garden in Bamenda is a tranquil space that blends historical education with the lush greenery of the northwestern highlands." },
     facts: {
       de: ["in Bamenda", "grüne Anlage", "mit kulturellem Bezug"],
       hu: ["Kultúra felfedezése", "Nyugalmas oázis"],
       ro: ["Descoperirea culturii", "Oază de liniște"],
-      en: ["in Bamenda", "museum garden", "educational green space"]
+      en: ["Northwest Region garden", "Highland flora", "Bamenda cultural site", "Peaceful green space"]
     }, image: "/poi-images/bamenda-museumsgarten-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Museumsgarten in Bamenda verbindet Grünflächen mit der kulturellen Geschichte der Nordwestregion. Er umgibt das Regionalmuseum, das Artefakte der verschiedenen Volksgruppen des Hochlands zeigt. Besucher können auf Wegen zwischen einheimischen Pflanzen wandeln und zugleich lokale Architekturformen kennenlernen. Als öffentlich zugänglicher Ort bietet er Erholung für Familien und Bildungsangebote für Schulklassen.",
@@ -443,12 +443,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SU",
     coords: [12.666, 2.666],
     name: { de: "Djoum Regenwald-Reservat", hu: "Djoum esőerdei rezervátum", ro: "Rezervația pădurilor tropicale Djoum", en: "Djoum Rainforest Reserve" },
-    description: { de: "Der Regenwald bei Djoum ist Teil des dichten südlichen Waldgürtels Kameruns. Er prägt das Leben mit Holz, Jagd und Sammelwirtschaft.", hu: "A Djoum környéki esőerdő a déli Kamerun sűrű erdős tájait képviseli. A helyi élet az erdő erőforrásaihoz kapcsolódik.", ro: "Zona de pădure tropicală din Djoum face parte din peisajul ecuatorial al sudului Camerunului. Aici viața locală este strâns legată de resursele forestiere.", en: "A rainforest area near Djoum in southern Cameroon. It reflects the forest-based way of life in the south." },
+    description: { de: "Der Regenwald bei Djoum ist Teil des dichten südlichen Waldgürtels Kameruns. Er prägt das Leben mit Holz, Jagd und Sammelwirtschaft.", hu: "A Djoum környéki esőerdő a déli Kamerun sűrű erdős tájait képviseli. A helyi élet az erdő erőforrásaihoz kapcsolódik.", ro: "Zona de pădure tropicală din Djoum face parte din peisajul ecuatorial al sudului Camerunului. Aici viața locală este strâns legată de resursele forestiere.", en: "The rainforests around Djoum are home to incredible biodiversity, where the rhythms of life are dictated by the ancient canopy of the Congo Basin." },
     facts: {
       de: ["dichter Regenwald", "im Süden Kameruns", "wichtig für Waldnutzung"],
       hu: ["esőerdő", "déli Kamerun", "erdei megélhetés"],
       ro: ["în sudul Camerunului", "pădure tropicală", "mediu ecuatorial"],
-      en: ["near Djoum", "rainforest area", "southern forest life"]
+      en: ["Congo Basin forest", "South Region biodiversity", "Ancient canopy", "Wildlife habitat"]
     }, image: "/poi-images/djoum-regenwald-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Regenwald bei Djoum gehört zum großen Kongobecken-Waldkomplex, dem zweitgrößten zusammenhängenden Tropenwald der Welt. Das Gebiet liegt nahe der Grenze zu Äquatorialguinea und Gabun und ist Teil eines grenzüberschreitenden Naturschutzkorridors. Waldvölker wie die Baka leben seit Generationen von den Ressourcen dieses Regenwalds. Die Region ist bedeutsam für Naturschutz, Holzwirtschaft und Wildtierforschung.",
@@ -573,12 +573,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-OU",
     coords: [10.600, 5.500],
     name: { de: "Foumbot Gemüsemarkt", hu: "Foumbot zöldségpiac", ro: "Piața de legume Foumbot", en: "Foumbot Vegetable Market" },
-    description: { de: "Der Gemüsemarkt von Foumbot versorgt die Region mit frischen Produkten aus dem Hochland. Er ist ein typischer Treffpunkt für Händler und Bauern.", hu: "Nagy kereskedelmi központ friss zöldségek számára.", ro: "O piață mare pentru legume proaspete.", en: "A vegetable market in Foumbot where local growers sell fresh produce. It is part of the town's daily food supply." },
+    description: { de: "Der Gemüsemarkt von Foumbot versorgt die Region mit frischen Produkten aus dem Hochland. Er ist ein typischer Treffpunkt für Händler und Bauern.", hu: "Nagy kereskedelmi központ friss zöldségek számára.", ro: "O piață mare pentru legume proaspete.", en: "The vegetable market in Foumbot is one of the most productive in the country, supplying fresh greens and tubers to markets across Cameroon." },
     facts: {
       de: ["regionaler Markt", "im Westen Kameruns", "Handel mit frischem Gemüse"],
       hu: ["Paradicsom-termesztés", "Napi értékesítés"],
       ro: ["Cultivarea tomatelor", "Vânzare zilnică"],
-      en: ["in Foumbot", "vegetable market", "fresh local produce"]
+      en: ["Agricultural trade hub", "West Region produce", "Vegetable supply center", "Busy market life"]
     }, image: "/poi-images/foumbot-gemuesemarkt-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Gemüsemarkt von Foumbot versorgt die gesamte Westregion mit frischem Gemüse aus den umliegenden Hochlandflächen. Tomaten, Zwiebeln, Kohl und Paprika gehören zu den meistgehandelten Produkten. Der Markt findet mehrmals wöchentlich statt und zieht Händler aus den benachbarten Städten Bafoussam und Dschang an. Foumbot liegt in einem fruchtbaren Vulkantalboden, der intensiven Gemüseanbau ermöglicht.",
@@ -599,12 +599,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-CE",
     coords: [11.500, 3.516],
     name: { de: "Mbalmayo Forstgarten", hu: "Mbalmayo erdőkert", ro: "Grădina forestieră Mbalmayo", en: "Mbalmayo Forest Garden" },
-    description: { de: "Der Forstgarten von Mbalmayo dient der Aufzucht und Pflege von Jungpflanzen. Er ist auch ein praktischer Lernort für Forstwirtschaft.", hu: "A mbalmaiói erdészeti faiskola a fák nevelésére és az újratelepítésre szolgál. A környék erdőgazdálkodásának része.", ro: "Grădina forestieră din Mbalmayo este asociată cu educația și cercetarea în domeniul pădurilor. Spațiul combină vegetația cu funcții practice și didactice.", en: "A forest garden in Mbalmayo that shows the town's connection to forestry and plant research. It is used for learning and quiet visits." },
+    description: { de: "Der Forstgarten von Mbalmayo dient der Aufzucht und Pflege von Jungpflanzen. Er ist auch ein praktischer Lernort für Forstwirtschaft.", hu: "A mbalmaiói erdészeti faiskola a fák nevelésére és az újratelepítésre szolgál. A környék erdőgazdálkodásának része.", ro: "Grădina forestieră din Mbalmayo este asociată cu educația și cercetarea în domeniul pădurilor. Spațiul combină vegetația cu funcții practice și didactice.", en: "The forest gardens of Mbalmayo showcase sustainable agroforestry practices, where crops are grown in harmony with the surrounding tropical trees." },
     facts: {
       de: ["in Mbalmayo", "für Jungpflanzen", "mit forstlichem Bezug"],
       hu: ["erdészeti faiskola", "fanevelés", "újratelepítés"],
       ro: ["în Mbalmayo", "centru forestier", "rol educativ"],
-      en: ["in Mbalmayo", "forest garden", "forestry and education"]
+      en: ["Agroforestry site", "Central Region location", "Sustainable farming", "Tropical tree canopy"]
     }, image: "/poi-images/mbalmayo-forstgarten-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Forstgarten von Mbalmayo ist eine der ältesten forstlichen Einrichtungen Kameruns und dient der Aufzucht von Setzlingen einheimischer Baumarten für Aufforstungsprogramme. Er ist auch ein Forschungsstandort für das Forstministerium und kooperiert mit internationalen Umweltorganisationen. Mbalmayo liegt rund 45 Kilometer südlich von Yaoundé und war früher eine der wichtigsten Holzstädte des Landes. Der Garten verbindet Bildung, Forschung und Naturschutz.",
@@ -651,12 +651,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-LT",
     coords: [9.700, 4.033],
     name: { de: "Douala Botanischer Garten", hu: "Douala botanikus kert", ro: "Grădina botanică Douala", en: "Douala Botanical Garden" },
-    description: { de: "Ein grüner Park für Familien und Kinder.", hu: "A doualai botanikus kert városi zöld tér és oktatási helyszín. A trópusi növények bemutatására is szolgál.", ro: "Grădina botanică din Douala oferă un spațiu verde în mijlocul orașului. Este folosită pentru plimbare, observarea plantelor și relaxare urbană.", en: "A botanical garden in Douala with tropical plants and shaded paths. It offers a green break inside the busy port city." },
+    description: { de: "Ein grüner Park für Familien und Kinder.", hu: "A doualai botanikus kert városi zöld tér és oktatási helyszín. A trópusi növények bemutatására is szolgál.", ro: "Grădina botanică din Douala oferă un spațiu verde în mijlocul orașului. Este folosită pentru plimbare, observarea plantelor și relaxare urbană.", en: "The botanical gardens in Douala provide a rare green escape within the industrial city, preserving a variety of tropical plant species." },
     facts: {
       de: ["Tropische Pflanzen", "Kinderspielplatz"],
       hu: ["városi botanikus kert", "trópusi növények", "oktatási helyszín"],
       ro: ["în Douala", "spațiu verde urban", "colecție de plante"],
-      en: ["in Douala", "botanical garden", "tropical plants"]
+      en: ["Urban green space", "Tropical plant collection", "Douala nature retreat", "Botanical diversity"]
     }, image: "/poi-images/douala-botanischer-garten-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Botanische Garten von Douala ist eine der wenigen öffentlichen Grünflächen in Kameruns größter Stadt. Er beherbergt Hunderte von tropischen Pflanzenarten aus dem Kongobecken und der westafrikanischen Küstenregion. Der Garten wird von Familien, Schulklassen und Forschern besucht und bietet eine ruhige Oase inmitten der Millionenstadt. Er trägt zur Erhaltung botanischer Vielfalt bei und dient als Bildungsort für die städtische Bevölkerung.",
@@ -704,12 +704,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-SW",
     coords: [9.250, 4.166],
     name: { de: "Buea Fruchtgarten", hu: "Buea gyümölcskert", ro: "Grădina de fructe Buea", en: "Buea Fruit Garden" },
-    description: { de: "Die Fruchtgärten bei Buea profitieren von fruchtbaren vulkanischen Böden. Dort wachsen viele tropische Früchte für den lokalen Markt.", hu: "A Buea környéki gyümölcsösök a vulkáni lejtők termékeny földjét használják. A helyi kertgazdálkodás fontos elemei.", ro: "Grădina de fructe din Buea pune în valoare agricultura locală din zona de munte. Locul este legat de livezi și de producția alimentară regională.", en: "A fruit garden in Buea on the slopes of Mount Cameroon. The cool climate supports a wide range of crops." },
+    description: { de: "Die Fruchtgärten bei Buea profitieren von fruchtbaren vulkanischen Böden. Dort wachsen viele tropische Früchte für den lokalen Markt.", hu: "A Buea környéki gyümölcsösök a vulkáni lejtők termékeny földjét használják. A helyi kertgazdálkodás fontos elemei.", ro: "Grădina de fructe din Buea pune în valoare agricultura locală din zona de munte. Locul este legat de livezi și de producția alimentară regională.", en: "The fruit gardens on the slopes of Mount Cameroon benefit from rich volcanic soil, producing an abundance of oranges, bananas, and avocados." },
     facts: {
       de: ["fruchtbare Böden", "am Mount Cameroon", "tropischer Obstbau"],
       hu: ["gyümölcstermesztés", "vulkáni lejtők", "kertgazdálkodás"],
       ro: ["în Buea", "legată de livezi", "agricultură locală"],
-      en: ["in Buea", "fruit growing", "cool mountain climate"]
+      en: ["Volcanic soil farming", "Southwest Region fruit", "Mount Cameroon slopes", "Abundant harvest"]
     }, image: "/poi-images/buea-fruchtgarten-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Fruchtgärten bei Buea profitieren von den fruchtbaren vulkanischen Böden am Fuß des Mount Cameroon und dem feuchten Höhenklima. Avocados, Papayas, Mango und tropische Zitrusfrüchte gedeihen hier in besonderer Qualität. Die Gärten gehören meist lokalen Familien, die ihre Produkte auf dem Wochenmarkt in Buea verkaufen. Der Mount Cameroon ist mit 4.095 Metern der höchste Berg Westafrikas, und sein vulkanischer Boden gilt als einer der fruchtbarsten des Kontinents.",
@@ -730,12 +730,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-NO",
     coords: [13.400, 9.316],
     name: { de: "Garoua Rindermarkt", hu: "Garoua marhapiac", ro: "Piața de vite Garoua", en: "Garoua Cattle Market" },
-    description: { de: "Der Rindermarkt in Garoua ist ein wichtiger Handelsplatz für Vieh im Norden Kameruns. Er spiegelt die große Bedeutung der Viehzucht in der Region wider.", hu: "A garouai marhavásár az északi állattartó gazdaság egyik központja. A régió kereskedelmi életéhez szorosan kapcsolódik.", ro: "O piață centrală de animale pentru nord.", en: "A cattle market in Garoua where herders trade livestock. It is part of the city's livestock culture and commerce." },
+    description: { de: "Der Rindermarkt in Garoua ist ein wichtiger Handelsplatz für Vieh im Norden Kameruns. Er spiegelt die große Bedeutung der Viehzucht in der Region wider.", hu: "A garouai marhavásár az északi állattartó gazdaság egyik központja. A régió kereskedelmi életéhez szorosan kapcsolódik.", ro: "O piață centrală de animale pentru nord.", en: "The cattle market in Garoua is one of the largest in the Sahel, serving as a critical hub for the trade of livestock from across the region." },
     facts: {
       de: ["Viehhandel im Norden", "in Garoua", "wichtig für die Viehzucht"],
       hu: ["marhavásár", "északi állattartás", "kereskedelmi központ"],
       ro: ["Comerț cu animale", "Eveniment major"],
-      en: ["in Garoua", "cattle trading", "livestock market"]
+      en: ["Sahel livestock hub", "Major cattle trade", "North Region economy", "Traditional market"]
     },
     descriptionAdvanced: {
       de: "Der Rindermarkt von Garoua ist der bedeutendste Viehhandelsplatz im Norden Kameruns und zieht Händler aus dem gesamten Adamaoua-Plateau sowie aus den Nachbarländern Tschad und Nigeria an. Zebu-Rinder werden hier wöchentlich gehandelt und anschließend in die südlichen Regionen oder über die Grenze transportiert. Der Markt ist ein wichtiger Wirtschaftsmotor für die Stadt und die Region. Garoua ist auch der Sitz der Nordregion und ein bedeutendes Transportzentrum.",
@@ -756,12 +756,12 @@ export const poiExtraCameroonLifeV2: POI[] = [
     parent: "CM-EN",
     coords: [14.333, 10.600],
     name: { de: "Maroua Kunsthandwerk-Werkstatt", hu: "Maroua kézműves műhely", ro: "Atelier de artizanat Maroua", en: "Maroua Handicraft Workshop" },
-    description: { de: "Offene Werkstatt für Kinder und Kunsthandwerk.", hu: "Nyitott műhely gyerekek és kézművesség számára.", ro: "Un atelier deschis pentru copii și artizanat.", en: "A craft market in Maroua known for leatherwork, baskets, and local art. It reflects the creativity of the Far North." },
+    description: { de: "Offene Werkstatt für Kinder und Kunsthandwerk.", hu: "Nyitott műhely gyerekek és kézművesség számára.", ro: "Un atelier deschis pentru copii și artizanat.", en: "The artisans of Maroua are famous for their intricate leatherwork and pottery, creating beautiful functional pieces that reflect Sahelian culture." },
     facts: {
       de: ["Traditionelle Muster", "Kunstunterricht"],
       hu: ["Hagyományos minták", "Művészeti oktatás"],
       ro: ["Modele tradiționale", "Educație artistică"],
-      en: ["in Maroua", "craft market", "local art and leatherwork"]
+      en: ["Leatherwork center", "Far North artisans", "Pottery tradition", "Sahelian cultural craft"]
       },
     descriptionAdvanced: {
       de: "Die Kunsthandwerkswerkstätten von Maroua sind bekannt für ihre Lederarbeiten, geflochtenen Körbe und bemalten Tontöpfe, die die kreative Tradition der Fulbe- und Kanuri-Bevölkerung des Nordens widerspiegeln. Die Stadt Maroua gilt als Kunsthandwerkszentrum des Extremnordens und zieht Käufer aus dem ganzen Land an. Lederarbeiter verarbeiten hier handgegerbtes Kamelleder zu Taschen, Sandalen und Gürteln. Die Werkstätten sind oft familiengeführt und kombinieren Tradition mit touristischer Nachfrage.",

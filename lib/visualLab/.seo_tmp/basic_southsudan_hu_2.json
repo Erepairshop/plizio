@@ -1,0 +1,113 @@
+{
+  "lang": "hu",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gelo-river-heritage-history-v2",
+      "description": "Történelmi jelentőségű folyami terület, amely határfolyóként is szolgált. Fontos kulturális emlékhely.",
+      "facts": ["Határfolyó", "Történelmi kereskedelmi útvonal", "Kulturális örökség", "Természeti határ"]
+    },
+    {
+      "id": "kaka-nile-port-history-v2",
+      "description": "A Fehér-Nílus mentén fekvő kikötőhely, amely régebben fontos kereskedelmi és szállítási központ volt.",
+      "facts": ["Nílus-parti kikötő", "Történelmi kereskedelmi csomópont", "Áruszállítási központ", "Folyami közlekedés"]
+    },
+    {
+      "id": "tonga-historical-village-history-v2",
+      "description": "Történelmi falu, amely a régió hagyományos településszerkezetét őrzi. Jelentős kulturális kutatási helyszín.",
+      "facts": ["Hagyományos település", "Kulturális emlék", "Történelmi lakóhely", "Helyi örökség"]
+    },
+    {
+      "id": "katire-logging-station-history-v2",
+      "description": "Korábbi fakitermelő állomás, amely az 1950-es évek ipari tevékenységének emlékét őrzi. Az Egyenlítői régió ipartörténete.",
+      "facts": ["Fakitermelő állomás", "Ipari örökség", "1950-es évek tevékenysége", "Erdészeti központ"]
+    },
+    {
+      "id": "john-garang-mausoleum-landmarks-v2",
+      "description": "Juba városában található emlékmű, amely az ország függetlenségi küzdelmének vezetőjének állít emléket.",
+      "facts": ["Juba központja", "Függetlenségi emlék", "Fontos zarándokhely", "Modern politikai emlékhely"]
+    },
+    {
+      "id": "st-theresa-cathedral-juba-landmarks-v2",
+      "description": "A főváros legfontosabb katolikus katedrálisa. Jelentős vallási és közösségi központ Juba szívében.",
+      "facts": ["Katolikus katedrális", "Juba központja", "Vallási közösség", "Építészeti emlék"]
+    },
+    {
+      "id": "all-saints-cathedral-juba-landmarks-v2",
+      "description": "Az anglikán közösség központi temploma Juba városában. Fontos vallási és történelmi jelentőségű épület.",
+      "facts": ["Anglikán katedrális", "Vallási központ", "Juba épülete", "Közösségi találkozóhely"]
+    },
+    {
+      "id": "jubek-memorial-landmarks-v2",
+      "description": "Jubek törzsi ős emlékére állított emlékmű Juba városában. A helyi identitás és hagyomány fontos szimbóluma.",
+      "facts": ["Törzsi emlékmű", "Juba történelme", "Kulturális örökség", "Helyi identitás"]
+    },
+    {
+      "id": "st-mary-cathedral-wau-landmarks-v2",
+      "description": "Wau városának impozáns katedrálisa, a katolikus vallási élet központja a térségben.",
+      "facts": ["Katolikus katedrális", "Wau város", "Vallási épület", "Építészeti örökség"]
+    },
+    {
+      "id": "malakal-vocational-center-landmarks-v2",
+      "description": "Szakoktatási központ Malakal városában. Fontos szerepet játszik a helyi ifjúság képzésében.",
+      "facts": ["Szakoktatási központ", "Malakal város", "Ifjúsági képzés", "Ipari oktatás"]
+    },
+    {
+      "id": "christ-the-king-cathedral-yei-landmarks-v2",
+      "description": "Yei városának jelentős katolikus temploma. A környék vallási és társadalmi életének egyik alapköve.",
+      "facts": ["Katolikus katedrális", "Yei város", "Vallási központ", "Közösségi élet"]
+    },
+    {
+      "id": "kuajok-stadium-landmarks-v2",
+      "description": "Kuajok városának központi sportlétesítménye. Fontos közösségi és sportesemények helyszíne.",
+      "facts": ["Sportlétesítmény", "Kuajok város", "Közösségi események", "Szabadidős központ"]
+    },
+    {
+      "id": "old-juba-bridge-landmarks-v2",
+      "description": "A Fehér-Nílus felett átívelő történelmi híd Juba közelében. Az infrastruktúra fontos darabja.",
+      "facts": ["Történelmi híd", "Fehér-Nílus", "Közlekedési emlék", "Juba infrastruktúrája"]
+    },
+    {
+      "id": "ez-zeraf-wildreservat-life-v2",
+      "description": "Mocsaras területen elterülő vadrezervátum, gazdag állatvilággal. A vizes élőhelyek védelmének központja.",
+      "facts": ["Vadvédelmi terület", "Mocsárvidék", "Gazdag állatvilág", "Élőhely-védelem"]
+    },
+    {
+      "id": "ashana-wildreservat-life-v2",
+      "description": "Vadrezervátum, amely a helyi vadvilág megőrzését szolgálja. Fontos ökológiai jelentőségű terület.",
+      "facts": ["Vadvédelmi terület", "Helyi ökoszisztéma", "Természetvédelem", "Állatvilág"]
+    },
+    {
+      "id": "nimule-rapids-nature-v2",
+      "description": "A Fehér-Nílus látványos zuhatagrendszere az ország déli részén. Fontos turisztikai és természeti terület.",
+      "facts": ["Nílus-zuhag", "Természeti látványosság", "Déli régió", "Ökológiai központ"]
+    },
+    {
+      "id": "lake-nyubor-nature-v2",
+      "description": "Jelentős kiterjedésű tó, amely fontos szerepet játszik a helyi halászatban és vízháztartásban.",
+      "facts": ["Nagy kiterjedésű tó", "Halászati központ", "Vizes élőhely", "Vízgyűjtő terület"]
+    },
+    {
+      "id": "bahr-el-jebel-river-nature-v2",
+      "description": "A Nílus egyik jelentős ága, amely az országon keresztül folyik. Életet adó folyórendszer.",
+      "facts": ["Nílus-ág", "Folyórendszer", "Életadó vizek", "Vízi közlekedés"]
+    },
+    {
+      "id": "kidepo-river-nature-v2",
+      "description": "Az ország keleti részén folyó szezonális folyó. A száraz évszakban fontos vízforrás a vadvilág számára.",
+      "facts": ["Szezonális folyó", "Keleti régió", "Vadvilág vízellátása", "Ökológiai szerep"]
+    },
+    {
+      "id": "ss-madi-hills-relief-v2",
+      "description": "Dombság az Egyenlítői régióban, amely változatos domborzatot biztosít a tájnak.",
+      "facts": ["Dombság", "Egyenlítői régió", "Domborzati elem", "Közép-Egyenlítői állam"]
+    }
+  ]
+}

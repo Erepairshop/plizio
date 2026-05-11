@@ -1,0 +1,90 @@
+{
+  "lang": "en",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-cyohoha-nature-v2",
+      "description": "A freshwater lake in the Bugesera region, providing essential habitat for various bird species and supporting local fisheries.",
+      "facts": ["Bugesera region", "Freshwater ecosystem", "Important bird area"]
+    },
+    {
+      "id": "mount-hiyaga-nature-v2",
+      "description": "A prominent hill in Rwanda known for its scenic views and natural flora, contributing to the landscape diversity of the region.",
+      "facts": ["Regional landmark", "Scenic viewpoint", "Diverse native flora"]
+    },
+    {
+      "id": "lake-kivu-shores-nature-v2",
+      "description": "The diverse coastal environment along Lake Kivu, featuring unique ecosystems that transition from forest to lake habitats.",
+      "facts": ["Lake Kivu coastline", "Biodiverse edge habitat", "Ecotourism hotspot"]
+    },
+    {
+      "id": "karongi-shores-nature-v2",
+      "description": "The picturesque shoreline in the Karongi district, noted for its clear waters and lush surrounding hills.",
+      "facts": ["Karongi district", "Scenic lake shoreline", "Rich natural vegetation"]
+    },
+    {
+      "id": "karisimbi-mountain-relief-v2",
+      "description": "The highest peak in Rwanda, located in the Virunga Mountains. It is a dormant volcano characterized by high-altitude vegetation.",
+      "facts": ["Highest point in Rwanda", "4507 meters elevation", "Virunga volcanic range"]
+    },
+    {
+      "id": "akagera-wetlands-relief-v2",
+      "description": "Extensive wetland systems in Akagera National Park, crucial for water filtration and providing habitat for wildlife.",
+      "facts": ["Akagera National Park", "Vital wetland ecosystem", "Diverse aquatic wildlife"]
+    },
+    {
+      "id": "mt-gahinga-relief-v2",
+      "description": "A dormant volcano in the Virunga chain, noted for its unique moorland and bamboo forest zones.",
+      "facts": ["Virunga range", "3474 meters elevation", "Unique alpine flora"]
+    },
+    {
+      "id": "lake-rweru-relief-v2",
+      "description": "A transboundary lake situated in the southeastern part of Rwanda, characterized by its extensive surrounding wetlands.",
+      "facts": ["Southeastern Rwanda", "Transboundary lake", "Wetland landscape"]
+    },
+    {
+      "id": "akegera-plain-relief-v2",
+      "description": "The flat, expansive plains of Akagera, which provide essential grazing land for the park's large herbivore populations.",
+      "facts": ["Akagera ecosystem", "Expansive savanna plain", "Large grazing area"]
+    },
+    {
+      "id": "mt-sabyinyo-relief-v2",
+      "description": "A distinctive ancient volcano in the Virunga range, well-known for its jagged, weathered peaks.",
+      "facts": ["Virunga chain", "Multi-country border", "Rugged volcanic terrain"]
+    },
+    {
+      "id": "lake-burera-relief-v2",
+      "description": "A beautiful, deep lake set amidst high hills near the border, formed by volcanic activity that blocked river systems.",
+      "facts": ["Northern Province", "Volcanic-origin lake", "Mountainous setting"]
+    },
+    {
+      "id": "lake-ruhondo-relief-v2",
+      "description": "Often called the twin lake to Burera, it is a serene body of water surrounded by steep, dramatic slopes.",
+      "facts": ["Northern Province", "Twin lake of Burera", "Scenic steep landscape"]
+    },
+    {
+      "id": "akagera-hills-relief-v2",
+      "description": "The rolling, undulating hills that characterize the landscape of the Akagera region, separating savanna from wetlands.",
+      "facts": ["Akagera geography", "Rolling hills landscape", "Natural boundary zone"]
+    },
+    {
+      "id": "nyungwe-canopy-relief-v2",
+      "description": "A high-elevation ridge area within the Nyungwe forest, famous for its dense montane canopy and diverse species.",
+      "facts": ["Nyungwe Forest National Park", "High-altitude ridge", "Dense montane canopy"]
+    },
+    {
+      "id": "lake-muhazi-relief-v2",
+      "description": "A long, winding lake known for its irregular shoreline, serving as an important local water resource for farming and fishing.",
+      "facts": ["Eastern province", "Winding shoreline", "Local irrigation source"]
+    },
+    {
+      "id": "gishwati-ridge-relief-v2",
+      "description": "A ridge area in the Gishwati-Mukura region, which has been the subject of intensive reforestation and ecological restoration efforts.",
+      "facts": ["Gishwati-Mukura National Park", "High-elevation ridge", "Reforestation zone"]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "lang": "hu",
+  "country": "Myanmar",
+  "files": [
+    "lib/visualLab/data/poiExtraMyanmarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMyanmarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "amarapura-historical-city-history-v2",
+      "description": "Az 1783-ban alapított város egykor a Konbaung-dinasztia fővárosa volt. Ma híres selyemszövő műhelyeiről és az U Bein-hídról.",
+      "facts": ["Alapítva: 1783", "Egykori királyi főváros", "Híres selyemszövés", "U Bein-híd helyszíne"]
+    },
+    {
+      "id": "botahtaung-pagoda-history-v2",
+      "description": "Jangon történelmi buddhista pagodája, amely a legenda szerint Buddha ereklyéit őrzi. Az épületet a második világháború után újjáépítették.",
+      "facts": ["Helyszín: Jangon", "Buddha-ereklyék otthona", "Újjáépítve 1948 után", "Labirintus alaprajz"]
+    },
+    {
+      "id": "ananda-temple-history-v2",
+      "description": "Bagan egyik legszebb és legjobb állapotban fennmaradt temploma, amelyet 1105-ben fejeztek be. Építészeti stílusa az indiai és mon hagyományokat ötvözi.",
+      "facts": ["Épült: 1105", "Bagan leghíresebb temploma", "Mon építészeti stílus", "Négy Buddha-szobor"]
+    },
+    {
+      "id": "salween-river-nature-v2",
+      "description": "Délkelet-Ázsia egyik leghosszabb, gátak nélküli folyója, amely gazdag élővilággal rendelkezik. A Tibeti-fennsíkról ered és a Martaban-öbölbe ömlik.",
+      "facts": ["Hossz: kb. 2800 km", "Gátak nélküli folyó", "Gazdag biodiverzitás", "Martaban-öbölbe ömlik"]
+    },
+    {
+      "id": "sittaung-river-nature-v2",
+      "description": "Myanmar központi részén folyik végig, elválasztva a Bago Yoma hegységet a Shan-fennsíktól. Fontos szerepet játszik a helyi mezőgazdaság öntözésében.",
+      "facts": ["Hossz: 420 km", "Bago Yoma mellett folyik", "Fontos öntözési forrás", "Martaban-öbölbe ömlik"]
+    }
+  ]
+}

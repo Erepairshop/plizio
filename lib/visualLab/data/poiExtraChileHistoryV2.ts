@@ -436,9 +436,9 @@ export const poiExtraChileHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Ehemals eine der größten Salpeter-Verarbeitungsanlagen des Landes.", "Dunkle Vergangenheit als Gefangenenlager in den 1970er Jahren.", "Staatlich anerkanntes Nationaldenkmal seit 1971.", "Ort mit tiefer historischer Bedeutung für das Verständnis des chilenischen Salpeter-Booms."],
-      hu: ["1924 és 1938 között termelt salétromot", "A területet 1971-ben nemzeti műemlékké nyilvánították", "Az 1970-es években kb. 1200 foglyot őriztek itt", "A sivatag szélén, Antofagastától 100 km-re északra fekszik"],
+      hu: ["1924 és 1938 között termelt salétromot", "Az 1970-es években kb. 1200 foglyot őriztek itt", "A sivatag szélén, Antofagastától 100 km-re északra fekszik"],
       ro: ["A produs salpetru între anii 1924 și 1938.", "Întreaga zonă a fost declarată Monument Național în 1971.", "A deținut aproximativ 1.200 de prizonieri politici în anii 1970.", "Situată la marginea deșertului, la 100 km nord de Antofagasta."],
-      en: ["Produced saltpeter between 1924 and 1938.", "Area declared a national monument in 1971.", "Held approximately 1,200 prisoners in the 1970s.", "Located on the edge of the desert, 100 km north of Antofagasta."]
+      en: ["Produced saltpeter between 1924 and 1938.", "Held approximately 1,200 prisoners in the 1970s.", "Located on the edge of the desert, 100 km north of Antofagasta."]
     },
     facts: {
       de: ["Gegründet im Jahr 1924.", "Wurde 1971 zum Nationaldenkmal erklärt."],
@@ -471,7 +471,7 @@ export const poiExtraChileHistoryV2: POI[] = [
       en: "The San Francisco Church is Santiago's oldest building preserved in its original state, erected between 1586 and 1628 by Franciscan monks. The bright red building survived several devastating earthquakes, thanks to its flexible stone and adobe structure. Its interior boasts an impressive coffered ceiling and rich gilded altars. The adjacent monastery houses the Museo de Arte Colonial, home to one of Latin America's most important 17th-century painting collections, including a series depicting the life of Saint Francis. History K8 — Spanish colonial architecture and religious art."
     },
     factsAdvanced: {
-      de: ["Ältestes noch existierendes Bauwerk in Santiago de Chile.", "Markante Architektur mit historisch bedeutsamer roter Fassade.", "Beherbergt ein bedeutendes Museum für koloniale Kunst.", "Zentraler Bestandteil des kolonialen Erbes der chilenischen Hauptstadt."],
+      de: ["Ältestes noch existierendes Bauwerk in Santiago de Chile.", "Markante Architektur mit historisch bedeutsamer roter Fassade.", "Zentraler Bestandteil des kolonialen Erbes der chilenischen Hauptstadt."],
       hu: ["Santiagóban ez az egyetlen épület, amely megmaradt a 16. századból", "A templom falai több mint 1,5 méter vastagok", "A belső famennyezetet (alkarjiz) eredeti állapotában őrizték meg", "A templom előtt az Alameda, a város főútja halad el"],
       ro: ["Singura clădire din Santiago conservată din secolul al XVI-lea.", "Zidurile bisericii au o grosime de peste 1,5 metri.", "Tavanul interior din lemn a fost conservat în starea sa originală.", "Situată pe principala arteră a orașului, Avenida Libertador Bernardo O'Higgins."],
       en: ["The only building in Santiago preserved from the 16th century.", "The church walls are more than 1.5 meters thick.", "The wooden interior ceiling (alkarjiz) has been preserved in its original state.", "The Alameda, the city's main thoroughfare, passes in front of the church."]
@@ -646,7 +646,7 @@ export const poiExtraChileHistoryV2: POI[] = [
       en: "The Votive Temple of Maipú (Templo Votivo de Maipú) is one of Chile's most impressive religious and national monuments. The building was erected based on a promise by Bernardo O'Higgins, who vowed that if the Battle of Maipú was won and independence achieved, he would build a temple to Our Lady of Mount Carmel. Construction of the modern, Brutalist-style basilica began in 1944 and was completed in 1974. At 90 meters tall, it's one of Chile's tallest buildings, and its bell tower offers views of the entire city and the nearby Andes. History K8 — Intertwining of religion and politics after independence."
     },
     factsAdvanced: {
-      de: ["Monumentales Heiligtum zur Feier des Unabhängigkeitssieges von Maipú.", "Höchstes katholisches Gebäude in Chile.", "Errichtet auf der Grundlage eines Gelübdes von Bernardo O'Higgins.", "Ein herausragendes spirituelles und nationales Symbol des Landes."],
+      de: ["Monumentales Heiligtum zur Feier des Unabhängigkeitssieges von Maipú.", "Errichtet auf der Grundlage eines Gelübdes von Bernardo O'Higgins.", "Ein herausragendes spirituelles und nationales Symbol des Landes."],
       hu: ["A torony magassága 90 méter", "A templomot Juan Martínez Gutiérrez építész tervezte", "A Kármel-hegyi Boldogasszonynak szentelték", "Dél-Amerika egyik legnagyobb szentélye"],
       ro: ["Turnul bisericii are o înălțime de 90 de metri.", "Templul a fost proiectat de celebrul arhitect Juan Martínez Gutiérrez.", "Dedicat Fecioarei de pe Muntele Carmel, patroana statului Chile.", "Este unul dintre cele mai mari sanctuare din America de Sud."],
       en: ["The tower stands 90 meters tall.", "The temple was designed by architect Juan Martínez Gutiérrez.", "Dedicated to Our Lady of Mount Carmel.", "One of South America's largest sanctuaries."]
@@ -753,9 +753,9 @@ export const poiExtraChileHistoryV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Opulentes Herrenhaus aus der Ära des 19.-Jahrhundert-Booms.", "Architektonisch beeindruckendes Werk des französischen Architekten Paul Lathoud.", "Innovatives Gebäude als erstes Haus in Südamerika mit elektrischem Aufzug.", "Symbol für den gesellschaftlichen Reichtum der Elite jener Epoche."],
-      hu: ["1870 és 1878 között épült", "Paul Lathoud francia építész tervezte", "Dél-Amerika első háza saját áramfejlesztővel", "Minden bútora és anyaga Európából származik"],
-      ro: ["Construit între 1870 și 1878 în stil neoclasic francez.", "Proiectat de arhitectul francez Paul Lathoud.", "Prima locuință din America de Sud cu propriul generator electric.", "Toate mobilierul și materialele de lux au fost importate din Europa."],
-      en: ["Built between 1870 and 1878.", "Designed by French architect Paul Lathoud.", "First house in South America with its own electricity generator.", "All furniture and materials were imported from Europe."]
+      hu: ["1870 és 1878 között épült", "Dél-Amerika első háza saját áramfejlesztővel", "Minden bútora és anyaga Európából származik"],
+      ro: ["Construit între 1870 și 1878 în stil neoclasic francez.", "Prima locuință din America de Sud cu propriul generator electric.", "Toate mobilierul și materialele de lux au fost importate din Europa."],
+      en: ["Built between 1870 and 1878.", "First house in South America with its own electricity generator.", "All furniture and materials were imported from Europe."]
     },
     facts: {
       de: ["Es war das erste Haus in Südamerika mit einem elektrischen Aufzug.", "Entworfen vom französischen Architekten Paul Lathoud."],
@@ -1000,7 +1000,7 @@ export const poiExtraChileHistoryV2: POI[] = [
       en: "The Church of Nuestra Señora de Gracia in Quinchao is the largest of the wooden churches on Chiloé. The 53-meter-long building's monumental size is an impressive sight amidst the island's green slopes. The church is famous for its 18th-century wood carvings and its central role in the local community. Every December, it hosts one of Chiloé's largest religious festivals, attracting thousands of worshippers from surrounding islands. As a UNESCO World Heritage site, its structure reflects the expertise of Chiloé's master carpenters, who used shipbuilding techniques to construct the churches. History K8 — Wood architecture and community rites."
     },
     factsAdvanced: {
-      de: ["Größte historische Holzkirche auf der Insel Chiloé.", "Wunderschönes Beispiel für die einzigartige, traditionelle Inselarchitektur.", "Ein Meisterwerk der lokalen, traditionellen Holzverarbeitung.", "Zentraler Veranstaltungsort für bedeutende jährliche Festivitäten der Inselgemeinschaft."],
+      de: ["Größte historische Holzkirche auf der Insel Chiloé.", "Wunderschönes Beispiel für die einzigartige, traditionelle Inselarchitektur.", "Zentraler Veranstaltungsort für bedeutende jährliche Festivitäten der Inselgemeinschaft."],
       hu: ["Hossza 53 méter, szélessége 18 méter", "UNESCO Világörökség 2000 óta", "Az 1880-as években jelentősen kibővítették", "A tornya 18 méter magas"],
       ro: ["Are o lungime de 53 de metri și o lățime de 18 metri.", "Situl Patrimoniului Mondial UNESCO din anul 2000.", "A fost extinsă semnificativ în anii 1880.", "Turnul clopotniței se ridică la o înălțime de 18 metri."],
       en: ["53 meters long and 18 meters wide.", "UNESCO World Heritage site since 2000.", "Significantly expanded in the 1880s.", "The tower stands 18 meters high."]

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "vila-de-atauro-cities-v2",
+      "description": "Vila de Ataúro is the main settlement on Ataúro Island. It is famous for its stunning coral reefs and clear surrounding waters.",
+      "facts": ["Main town on Ataúro Island", "Renowned coral reefs", "Isolated island location"]
+    },
+    {
+      "id": "venilale-cities-v2",
+      "description": "Venilale is a town known for its unique Portuguese colonial architecture, including historical bridges and school buildings.",
+      "facts": ["Baucau district town", "Colonial heritage architecture", "Historic bridge sites"]
+    },
+    {
+      "id": "tutuala-cities-v2",
+      "description": "Tutuala is located at the extreme eastern tip of Timor-Leste. It is the gateway to the protected Jaco Island and pristine beaches.",
+      "facts": ["Easternmost town", "Gateway to Jaco Island", "Pristine coastal area"]
+    },
+    {
+      "id": "balibo-cities-v2",
+      "description": "Balibo is a historically significant town near the Indonesian border. It is known for its old fort and panoramic views.",
+      "facts": ["Near Indonesian border", "Historical hilltop fort", "Panoramic regional views"]
+    },
+    {
+      "id": "ermera-cities-v2",
+      "description": "Ermera is a central town set within a major coffee-producing region. Its landscape is dominated by lush hills and agricultural plantations.",
+      "facts": ["Central coffee hub", "Lush highland hills", "Agricultural center"]
+    },
+    {
+      "id": "iliomar-cities-v2",
+      "description": "Iliomar is located in the eastern Lautém district. The area is known for its relatively untouched natural environment and traditional villages.",
+      "facts": ["Lautém district location", "Untouched nature", "Traditional rural setting"]
+    },
+    {
+      "id": "luro-cities-v2",
+      "description": "Luro is a small town in the Lautém district, characterized by its quiet atmosphere and scenic mountain surroundings.",
+      "facts": ["Lautém district town", "Quiet rural atmosphere", "Scenic mountainous terrain"]
+    },
+    {
+      "id": "uatucarbau-cities-v2",
+      "description": "Uatucarbau is situated along the southern coast of Viqueque municipality. It is a remote town defined by its proximity to the sea.",
+      "facts": ["Viqueque southern coast", "Remote coastal town", "Ocean proximity"]
+    },
+    {
+      "id": "ossu-cities-v2",
+      "description": "Ossu is a town in Viqueque municipality, noted for its dramatic mountain setting and surrounding limestone landscapes.",
+      "facts": ["Viqueque district location", "Dramatic mountain setting", "Limestone terrain"]
+    },
+    {
+      "id": "alas-cities-v2",
+      "description": "Alas is a small town located in the Manufahi municipality, south of the central mountain range.",
+      "facts": ["Manufahi district location", "South of central range", "Quiet rural community"]
+    }
+  ]
+}

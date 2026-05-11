@@ -1,0 +1,24 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-siparia-dairy-farms-life-v2",
+      "description": "Siparia környékén a tejgazdaságok fontos szerepet játszanak a helyi élelmiszerellátásban. A családias farmok a vidék mezőgazdasági karakterét határozzák meg.",
+      "facts": ["Tejgazdaságok", "Helyi élelmiszer", "Vidékies karakter"]
+    },
+    {
+      "id": "tt-point-fortin-beach-park-life-v2",
+      "description": "A Point Fortin Beach Park a helyi közösség kedvelt pihenőhelye, amely a tengerparti életmód központja. A park számos kikapcsolódási lehetőséget biztosít az egész családnak.",
+      "facts": ["Közösségi park", "Tengerparti pihenés", "Családi kikapcsolódás"]
+    },
+    {
+      "id": "tt-saut-deau-island-life-v2",
+      "description": "Saut d'Eau szigete a tengeri élővilág és a természetes nyugalom paradicsoma. A lakatlan terület az érintetlen trópusi szigetvilág egyik gyöngyszeme.",
+      "facts": ["Lakatlan sziget", "Érintetlen természet", "Trópusi világ"]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mz-maputo-cathedral-history-v2",
+      "description": "Die Kathedrale von Maputo ist ein Wahrzeichen der Stadt mit einzigartiger Architektur, die historische und religiöse Bedeutung hat.",
+      "facts": ["Wahrzeichen Maputos", "Einzigartige Architektur", "Historische Bedeutung"]
+    },
+    {
+      "id": "mz-polana-church-history-v2",
+      "description": "Die Polana Kirche ist eine historische Kirche in Maputo, bekannt für ihre Architektur und ihre Rolle in der Gemeinschaft.",
+      "facts": ["Historische Kirche", "Maputo", "Gemeinschaftliche Rolle"]
+    },
+    {
+      "id": "grande-hotel-beira-landmarks-v2",
+      "description": "Das Grande Hotel Beira ist ein ikonisches, aber verfallenes Hotel, das einst ein Symbol für Luxus und Wohlstand war.",
+      "facts": ["Verfallenes Luxushotel", "Beira", "Historisches Symbol"]
+    },
+    {
+      "id": "cathedral-of-beira-landmarks-v2",
+      "description": "Die Kathedrale von Beira ist eine beeindruckende religiöse Struktur, die die architektonische Vielfalt der Stadt widerspiegelt.",
+      "facts": ["Religiöse Struktur", "Beira", "Architektonische Vielfalt"]
+    },
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "description": "Der Bazaruto-Archipel ist ein Meeresschutzgebiet mit unberührten Korallenriffen, Delfinen und Dugongs.",
+      "facts": ["Meeresschutzgebiet", "Korallenriffe", "Delfine und Dugongs"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "Der Quirimbas-Archipel ist bekannt für seine historischen Inseln, unberührten Strände und reiche marine Biodiversität.",
+      "facts": ["Historische Inseln", "Unberührte Strände", "Marine Biodiversität"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "Der Zinave Nationalpark ist ein wichtiges Wildschutzgebiet im südlichen Mosambik, das für seine Elefantenpopulation bekannt ist.",
+      "facts": ["Wildschutzgebiet", "Elefantenpopulation", "Südmosambik"]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "description": "Der Banhine Nationalpark ist ein großes Feuchtgebiet im Süden Mosambiks, bekannt für seine vielfältige Vogelwelt.",
+      "facts": ["Feuchtgebiet", "Vogelwelt", "Südmosambik"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "Das Pomene Naturreservat bietet unberührte Strände, Mangrovenwälder und eine reiche Unterwasserwelt.",
+      "facts": ["Unberührte Strände", "Mangrovenwälder", "Unterwasserwelt"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "Die Region Nampula ist ein wichtiges landwirtschaftliches Zentrum, bekannt für die Produktion von Baumwolle, Cashewnüssen und Mais.",
+      "facts": ["Landwirtschaftliches Zentrum", "Baumwolle", "Cashewnüsse"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "Die Kaffeeanbaugebiete in Manica produzieren hochwertigen Kaffee, der in den kühleren Höhen des Hochlands gedeiht.",
+      "facts": ["Kaffeeanbau", "Manica", "Hochland"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "Niassa ist bekannt für den Tabakanbau, der eine wichtige Einkommensquelle für die lokale Bevölkerung darstellt.",
+      "facts": ["Tabakanbau", "Niassa", "Wichtige Einkommensquelle"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "Der Botanische Garten von Maputo ist eine grüne Oase in der Stadt, die eine Vielfalt an tropischen Pflanzen zeigt.",
+      "facts": ["Botanischer Garten", "Maputo", "Tropische Pflanzen"]
+    }
+  ]
+}

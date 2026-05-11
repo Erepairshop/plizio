@@ -1,0 +1,30 @@
+{
+  "lang": "de",
+  "country": "Southkorea",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthkoreaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthkoreaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "seodaemun-prison-history-v2",
+      "description": "Dieses ehemalige Gefängnis diente während der japanischen Kolonialzeit als Haftanstalt für koreanische Unabhängigkeitsaktivisten. Heute ist der Ort eine Gedenkstätte, die an den Widerstand gegen die Besatzung erinnert.",
+      "facts": [
+        "Erbaut im Jahr 1908",
+        "Wichtiger Ort des Widerstands",
+        "Heute ein Museum",
+        "Symbol für Freiheit"
+      ]
+    },
+    {
+      "id": "n-seoul-tower-landmarks-v2",
+      "description": "Der N Seoul Tower befindet sich auf dem Namsan-Berg im Herzen von Seoul und bietet einen weitreichenden Blick über die gesamte Hauptstadt. Er ist ein Wahrzeichen der Stadt und bei Besuchern besonders am Abend beliebt.",
+      "facts": [
+        "Höhe ca. 236 Meter",
+        "Auf dem Namsan-Berg",
+        "Eröffnet im Jahr 1971",
+        "Beliebtes Touristenziel"
+      ]
+    }
+  ]
+}

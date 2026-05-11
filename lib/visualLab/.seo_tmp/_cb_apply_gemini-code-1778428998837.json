@@ -1,0 +1,244 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "farol-d-luis-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Farol de D. Luís, auch bekannt als Farol des Ilhéu dos Pássaros, befindet sich auf einer kleinen, unbewohnten Felseninsel etwa 3 Kilometer nordwestlich des Hafens von Mindelo auf São Vicente. Der Leuchtturm wurde im Jahr 1882 während der Regierungszeit von König Luís I. von Portugal errichtet, um die Einfahrt in die strategisch bedeutsame Bucht von Porto Grande zu sichern. Das Bauwerk besteht aus einem kleinen, weißen quadratischen Turm mit einer Laterne, der auf einer Höhe von etwa 86 Metern über dem Meeresspiegel thront. Geografisch ist die Insel Ilhéu dos Pássaros ein markanter Orientierungspunkt, der die Grenze zwischen dem offenen Atlantik und dem geschützten Hafenbecken markiert. Der Leuchtturm war im 19. Jahrhundert absolut essenziell für die britischen Kohleschiffe, die Mindelo als globalen Tankstopp nutzten. Die Anlage ist massiv aus Stein gebaut und verfügt über eine Galerie, von der aus das Leuchtfeuer eine Reichweite von rund 14 Seemeilen erreicht. Aufgrund seiner isolierten Lage auf dem schroffen Felsen ist der Turm nur per Boot erreichbar und dient heute als ikonisches visuelles Symbol für die Ankunft in Mindelo. Die Architektur ist schlicht und rein funktional, wobei das weiße Gebäude einen starken Kontrast zum dunklen Vulkangestein der Insel bildet. Trotz der Automatisierung der Lichtanlage bleibt das historische Gebäude ein wichtiges Denkmal der kapverdischen Seefahrtsgeschichte.",
+        "hu": "A Farol de D. Luís, más néven az Ilhéu dos Pássaros világítótorony, egy kis lakatlan sziklaszigeten található, körülbelül 3 kilométerre északnyugatra Mindelo kikötőjétől, São Vicente partjainál. A világítótornyot 1882-ben építették I. Lajos portugál király uralkodása alatt, hogy biztosítsák a stratégiailag jelentős Porto Grande öbölbe való belépést. Az építmény egy kis, fehér, négyzet alaprajzú toronyból áll, amelynek lámpateste körülbelül 86 méteres tengerszint feletti magasságban trónol. Földrajzilag az Ilhéu dos Pássaros sziget egy markáns tájékozódási pont, amely határt húz a nyílt Atlanti-óceán és a védett kikötőmedence között. A 19. században a világítótorony abszolút nélkülözhetetlen volt a brit szénszállító hajók számára, amelyek globális megállóhelyként használták Mindelót. A létesítmény masszívan, kőből épült, és egy galériával rendelkezik, ahonnan a fényjelzés mintegy 14 tengeri mérföldes távolságig látható. Elszigetelt, zord sziklán való elhelyezkedése miatt a torony csak csónakkal közelíthető meg, és ma a Mindelóba való megérkezés ikonikus vizuális szimbólumaként szolgál. Az építészet egyszerű és tisztán funkcionális, a fehér épület éles kontrasztot alkot a sziget sötét vulkáni kőzetével. A fényrendszer automatizálása ellenére a történelmi épület a zöld-foki tengerészeti történelem fontos műemléke marad.",
+        "ro": "Farul D. Luís, cunoscut și sub numele de Farul de pe Ilhéu dos Pássaros, este situat pe o mică insulă stâncoasă nelocuită, la aproximativ 3 kilometri nord-vest de portul Mindelo de pe São Vicente. Farul a fost ridicat în anul 1882, în timpul domniei regelui Luís I al Portugaliei, pentru a securiza intrarea în golful strategic Porto Grande. Structura constă dintr-un turn mic, pătrat, de culoare albă, cu o lanternă situată la o înălțime de aproximativ 86 de metri deasupra nivelului mării. Din punct de vedere geografic, insula Ilhéu dos Pássaros este un punct de reper proeminent care marchează limita dintre Atlanticul deschis și bazinul portuar protejat. În secolul al XIX-lea, farul a fost absolut esențial pentru navele britanice de cărbune care foloseau Mindelo ca punct global de realimentare. Instalația este construită masiv din piatră și dispune de o galerie de unde semnalul luminos atinge o rază de circa 14 mile marine. Datorită locației sale izolate pe stânca abruptă, turnul este accesibil doar cu barca și servește astăzi ca simbol vizual iconic pentru sosirea în Mindelo. Arhitectura este simplă și pur funcțională, clădirea albă formând un contrast puternic cu roca vulcanică închisă la culoare a insulei. În ciuda automatizării sistemului de iluminat, clădirea istorică rămâne un monument important al istoriei maritime capverdiene.",
+        "en": "The D. Luís Lighthouse, also known as the Ilhéu dos Pássaros Lighthouse, is situated on a small, uninhabited rocky islet approximately 3 kilometers northwest of Mindelo harbor on São Vicente. The lighthouse was constructed in 1882 during the reign of King Luís I of Portugal to safeguard the entrance to the strategically vital Porto Grande Bay. The structure features a modest white square tower with a lantern perched at an elevation of roughly 86 meters above sea level. Geographically, the Ilhéu dos Pássaros is a prominent landmark marking the transition between the open Atlantic and the sheltered harbor. During the 19th century, the lighthouse was absolutely essential for British coal ships utilizing Mindelo as a global refueling stop. The facility is built solidly from stone and includes a gallery from which the beacon achieves a range of approximately 14 nautical miles. Due to its isolated position on the rugged rock, the tower is accessible only by boat and now serves as an iconic visual symbol of arrival in Mindelo. The architecture is simple and purely functional, with the white building providing a stark contrast to the island's dark volcanic rock. Despite the automation of the lighting system, the historic structure remains a significant monument to Cape Verdean maritime history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im Jahr 1882 auf der unbewohnten Insel Ilhéu dos Pássaros.",
+          "Sichert die Einfahrt zum wichtigsten Tiefwasserhafen Porto Grande.",
+          "Die Feuerhöhe der Laterne liegt 86 Meter über dem Meeresspiegel.",
+          "Der Turm hat eine Reichweite des Leuchtfeuers von 14 Seemeilen.",
+          "Wurde nach dem portugiesischen König Luís I. benannt.",
+          "Die Anlage ist nur per Boot über den Seeweg erreichbar.",
+          "Ikonisches Wahrzeichen für Seefahrer, die Mindelo anlaufen."
+        ],
+        "hu": [
+          "1882-ben épült a lakatlan Ilhéu dos Pássaros szigeten.",
+          "Biztosítja a belépést a legfontosabb mélyvízi kikötőbe, a Porto Grandéba.",
+          "A lámpa fényének magassága 86 méterrel van a tengerszint felett.",
+          "A torony fényjelzése 14 tengeri mérföldes távolságig látható.",
+          "I. Lajos portugál királyról kapta a nevét.",
+          "A létesítmény kizárólag vízi úton, csónakkal közelíthető meg.",
+          "Ikonikus jelkép a Mindelóba érkező tengerészek számára."
+        ],
+        "ro": [
+          "Construit în anul 1882 pe insula nelocuită Ilhéu dos Pássaros.",
+          "Securizează intrarea în cel mai important port de ape adânci, Porto Grande.",
+          "Înălțimea focală a lanternei este de 86 de metri deasupra mării.",
+          "Turnul are o rază de vizibilitate a luminii de 14 mile marine.",
+          "A fost numit după regele portughez Luís I.",
+          "Instalația este accesibilă doar cu barca pe cale maritimă.",
+          "Simbol iconic pentru navigatorii care sosesc în Mindelo."
+        ],
+        "en": [
+          "Established in 1882 on the uninhabited rocky islet of Ilhéu dos Pássaros.",
+          "Strategic navigational aid for the entrance to Porto Grande harbor.",
+          "The light source is elevated 86 meters above the average sea level.",
+          "Features a light beacon with a nominal range of 14 nautical miles.",
+          "Named in specific honor of the Portuguese King Luís I.",
+          "The lighthouse site is strictly accessible only by maritime transport.",
+          "Acts as a definitive visual landmark for vessels entering Mindelo."
+        ]
+      }
+    },
+    {
+      "id": "camara-municipal-sv-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Câmara Municipal de São Vicente befindet sich im Herzen des historischen Zentrums von Mindelo und dient als Sitz der Gemeindeverwaltung der Insel. Das Gebäude wurde in der zweiten Hälfte des 19. Jahrhunderts (ca. 1873) errichtet und ist ein herausragendes Beispiel für den portugiesischen Kolonialstil mit klassizistischen Einflüssen. Die Architektur zeichnet sich durch eine elegante, symmetrische Fassade, hohe Rundbogenfenster und eine markante gelb-weiße Farbgebung aus. Das Gebäude liegt an der prestigeträchtigen Rua de Lisboa (heute Rua Libertad África) und dominiert den administrativen Kern der Stadt. Historisch spiegelt das Rathaus den wirtschaftlichen Aufstieg Mindelos wider, der durch die Etablierung des Hafens Porto Grande als transatlantische Kohlenstation ausgelöst wurde. Im Inneren beherbergt das Bauwerk den prunkvollen Sitzungssaal des Gemeinderates und verschiedene Ämter der Lokalverwaltung. Die Struktur ist massiv aus lokalem Stein gebaut und wurde über die Jahrzehnte sorgfältig instand gehalten, um ihren repräsentativen Charakter zu bewahren. Das Rathaus ist nicht nur ein administratives Zentrum, sondern auch ein architektonisches Denkmal, das die städtische Autonomie und die bürgerliche Identität von São Vicente symbolisiert. Es bildet zusammen mit dem nahegelegenen Gouverneurspalast und der Markthalle ein harmonisches Ensemble kolonialer Baukunst.",
+        "hu": "A São Vicente-i városháza (Câmara Municipal de São Vicente) Mindelo történelmi központjának szívében található, és a sziget önkormányzati igazgatásának székhelyeként szolgál. Az épületet a 19. század második felében (1873 körül) emelték, és a portugál gyarmati stílus kiemelkedő példája klasszicista hatásokkal. Az építészetet elegáns, szimmetrikus homlokzat, magas, félköríves ablakok és jellegzetes sárga-fehér színezés jellemzi. Az épület a rangos Rua de Lisboa (ma Rua Libertad África) mentén helyezkedik el, és uralja a város közigazgatási magját. Történelmileg a városháza Mindelo gazdasági felemelkedését tükrözi, amelyet a Porto Grande kikötő transzatlanti szénrakodó állomásként való alapítása váltott ki. Belsejében a képviselő-testület pompás ülésterme és a helyi közigazgatás különböző hivatalai kaptak helyet. A szerkezet masszívan, helyi kőből épült, és az évtizedek során gondosan karbantartották reprezentatív jellegének megőrzése érdekében. A városháza nem csupán adminisztratív központ, hanem építészeti műemlék is, amely São Vicente városi autonómiáját és polgári identitását szimbolizálja. A közeli Kormányzói Palotával és a Vásárcsarnokkal együtt a gyarmati építőművészet harmonikus együttesét alkotja.",
+        "ro": "Primăria din São Vicente (Câmara Municipal de São Vicente) este situată în inima centrului istoric al orașului Mindelo și servește drept sediu al administrației municipale a insulei. Clădirea a fost ridicată în a doua jumătate a secolului al XIX-lea (cca. 1873) și este un exemplu remarcabil de stil colonial portughez cu influențe clasiciste. Arhitectura se caracterizează printr-o fațadă simetrică elegantă, ferestre înalte în arc de cerc și un colorit galben-alb distinctiv. Clădirea este amplasată pe prestigioasa stradă Rua de Lisboa (astăzi Rua Libertad África) și domină nucleul administrativ al orașului. Din punct de vedere istoric, primăria reflectă ascensiunea economică a orașului Mindelo, declanșată de stabilirea portului Porto Grande ca stație transatlantică de cărbune. În interior, edificiul găzduiește sala de ședințe somptuoasă a consiliului municipal și diverse birouri ale administrației locale. Structura este construită masiv din piatră locală și a fost întreținută cu grijă de-a lungul deceniilor pentru a-și păstra caracterul reprezentativ. Primăria nu este doar un centru administrativ, ci și un monument arhitectural care simbolizează autonomia urbană și identitatea civică a insulei São Vicente. Împreună cu Palatul Guvernatorului și Piața Municipală din apropiere, formează un ansamblu armonios de arhitectură colonială.",
+        "en": "The São Vicente City Hall (Câmara Municipal de São Vicente) is situated in the heart of Mindelo's historic district and serves as the administrative seat for the island's municipality. The building was constructed in the second half of the 19th century (around 1873) and stands as an outstanding example of Portuguese colonial style with neoclassical influences. Its architecture is distinguished by an elegant, symmetrical facade, tall arched windows, and a characteristic yellow-and-white color scheme. Located on the prestigious Rua de Lisboa (now Rua Libertad África), the building dominates the city's administrative core. Historically, the city hall reflects Mindelo's economic rise, which was driven by the establishment of the Porto Grande harbor as a major transatlantic coaling station. Internally, the structure houses the ornate municipal council chamber and various local government offices. Built solidly from local stone, the building has been carefully maintained over the decades to preserve its representative character. The city hall is not only an administrative hub but also an architectural monument symbolizing the urban autonomy and civic identity of São Vicente. Along with the nearby People's Palace and the Municipal Market, it forms a harmonious ensemble of colonial urban design."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sitz der Inselverwaltung von São Vicente seit 1873.",
+          "Architektur im klassizistischen Kolonialstil mit gelber Fassade.",
+          "Befindet sich an der historischen Rua de Lisboa in Mindelo.",
+          "Zentraler Punkt für die politische Organisation der Insel São Vicente.",
+          "Massive Steinbauweise aus der Blütezeit der Kohlenstation.",
+          "Beherbergt einen prachtvollen historischen Sitzungssaal.",
+          "Wesentlicher Bestandteil des geschützten Ensembles von Mindelo."
+        ],
+        "hu": [
+          "São Vicente szigeti közigazgatásának székhelye 1873 óta.",
+          "Klasszicista gyarmati stílusú építészet sárga homlokzattal.",
+          "A mindelói történelmi Rua de Lisboa utcában található.",
+          "São Vicente sziget politikai szerveződésének központi helyszíne.",
+          "A szénrakodó állomás fénykorából származó masszív kőépítmény.",
+          "Pompás történelmi ülésteremnek ad otthont az épületben.",
+          "Mindelo védett építészeti együttesének meghatározó eleme."
+        ],
+        "ro": [
+          "Sediul administrației insulei São Vicente începând cu anul 1873.",
+          "Arhitectură în stil colonial clasicist cu fațadă galbenă.",
+          "Situată pe strada istorică Rua de Lisboa din Mindelo.",
+          "Punct central pentru organizarea politică a insulei São Vicente.",
+          "Construcție masivă din piatră din perioada de glorie a stației de cărbune.",
+          "Găzduiește o sală de ședințe istorică somptuoasă.",
+          "Componentă esențială a ansamblului protejat din Mindelo."
+        ],
+        "en": [
+          "Seat of the São Vicente municipal government since 1873.",
+          "Features neoclassical colonial architecture with a yellow facade.",
+          "Located on the historic Rua de Lisboa avenue in Mindelo.",
+          "The central hub for the political and civil organization of the island.",
+          "Built solidly from stone during the height of the coaling station era.",
+          "Houses a magnificent historical municipal council chamber.",
+          "A key element of Mindelo's designated protected architectural heritage."
+        ]
+      }
+    },
+    {
+      "id": "liceu-gil-eanes-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Liceu Gil Eanes, heute offiziell Liceu Ludgero Lima, ist eine der prestigeträchtigsten Bildungseinrichtungen der Kapverden und befindet sich in Mindelo auf der Insel São Vicente. Das Gebäude wurde in den 1950er Jahren (eingeweiht 1955) während der späten portugiesischen Kolonialzeit errichtet und nach dem Entdecker Gil Eanes benannt. Architektonisch repräsentiert die Schule den monumentalen Stil des 'Estado Novo', gekennzeichnet durch klare Linien, Symmetrie und eine funktionale, aber imposante Präsenz. Die Schule war jahrzehntelang das einzige vollwertige Gymnasium auf den nördlichen Inseln und fungierte als das intellektuelle Epizentrum des Archipels. Generationen von kapverdischen Führungspersönlichkeiten, Dichtern und Wissenschaftlern wurden hier ausgebildet, was dem Liceu den Ruf einer 'Elite-Schmiede' einbrachte. Geografisch liegt die Anlage im zentralen Bereich von Mindelo und umfasst weitläufige Klassenzimmerflügel, einen großen Innenhof und spezialisierte Labore. Nach der Unabhängigkeit 1975 wurde die Institution umbenannt, um Ludgero Lima, einen lokalen Bildungspionier und Widerstandskämpfer, zu ehren. Wirtschaftlich gesehen spielt das Liceu eine entscheidende Rolle für die Entwicklung des Humankapitals auf São Vicente und den umliegenden Inseln. Die Architektur mit ihren hohen Decken und großen Fenstern sorgt für eine optimale natürliche Belüftung, die an das trockene Klima der Insel angepasst ist. Das Liceu Gil Eanes bleibt ein Symbol für das hohe Bildungsniveau und den intellektuellen Ehrgeiz der Stadt Mindelo.",
+        "hu": "A Gil Eanes Gimnázium (Liceu Gil Eanes), amely ma hivatalosan Ludgero Lima Gimnázium (Liceu Ludgero Lima), a Zöld-foki-szigetek egyik legtekintélyesebb oktatási intézménye, és Mindelóban, São Vicente szigetén található. Az épületet az 1950-es években (1955-ben avatták fel) emelték a kései portugál gyarmati korszakban, és Gil Eanes felfedezőről nevezték el. Építészetileg az iskola az 'Estado Novo' monumentális stílusát képviseli, amelyet tiszta vonalak, szimmetria és funkcionális, de impozáns megjelenés jellemez. Évtizedeken át ez volt az egyetlen teljes értékű gimnázium az északi szigeteken, és a szigetvilág szellemi epicentrumaként működött. Zöld-foki vezetők, költők és tudósok generációit képezték itt, ami az intézménynek az 'elitképző' hírnevet szerezte. Földrajzilag a komplexum Mindelo központi részén fekszik, tágas tantermi szárnyakkal, nagy belső udvarral és speciális laboratóriumokkal rendelkezik. Az 1975-ös függetlenség után az intézményt átnevezték Ludgero Lima, egy helyi oktatási úttörő és ellenállási harcos tiszteletére. Gazdasági szempontból a gimnázium döntő szerepet játszik São Vicente és a környező szigetek humántőkéjének fejlesztésében. Az építészet a magas mennyezetekkel és nagy ablakokkal optimális természetes szellőzést biztosít, amely igazodik a sziget száraz éghajlatához. A Gil Eanes Gimnázium továbbra is Mindelo város magas oktatási színvonalának és szellemi ambícióinak szimbóluma.",
+        "ro": "Liceul Gil Eanes, astăzi oficial Liceul Ludgero Lima, este una dintre cele mai prestigioase instituții de învățământ din Capul Verde, situat în Mindelo, pe insula São Vicente. Clădirea a fost ridicată în anii 1950 (inaugurată în 1955) în timpul perioadei coloniale portugheze târzii și a fost numită după exploratorul Gil Eanes. Arhitectural, școala reprezintă stilul monumental al „Estado Novo”, caracterizat prin linii clare, simetrie și o prezență funcțională, dar impunătoare. Timp de decenii, școala a fost singurul liceu complet din insulele din nord și a funcționat ca epicentrul intelectual al arhipelagului. Generații de lideri capverdieni, poeți și oameni de știință au fost formați aici, ceea ce a adus liceului reputația de „fabrică de elite”. Geografic, complexul este situat în zona centrală a orașului Mindelo și cuprinde aripi vaste cu săli de clasă, o curte interioară mare și laboratoare specializate. După independența din 1975, instituția a fost redenumită pentru a-l onora pe Ludgero Lima, un pionier local al educației și luptător în rezistență. Din punct de vedere economic, liceul joacă un rol crucial pentru dezvoltarea capitalului uman pe São Vicente și insulele învecinate. Arhitectura, cu tavanele sale înalte și ferestrele mari, asigură o ventilație naturală optimă, adaptată la climatul uscat al insulei. Liceul Gil Eanes rămâne un simbol pentru nivelul înalt de educație și ambiția intelectuală a orașului Mindelo.",
+        "en": "The Gil Eanes High School (Liceu Gil Eanes), now officially known as the Ludgero Lima High School, is one of the most prestigious educational institutions in Cape Verde, located in Mindelo on São Vicente Island. The building was constructed in the 1950s (inaugurated in 1955) during the late Portuguese colonial period and named after the explorer Gil Eanes. Architecturally, the school represents the monumental style of the 'Estado Novo,' characterized by clean lines, symmetry, and a functional yet imposing presence. For decades, it was the only full secondary school serving the northern islands and functioned as the intellectual epicenter of the archipelago. Generations of Cape Verdean leaders, poets, and scientists were educated here, earning the Liceu a reputation as an 'elite forge.' Geographically, the complex is situated in the central area of Mindelo and includes expansive classroom wings, a large interior courtyard, and specialized laboratories. Following independence in 1975, the institution was renamed to honor Ludgero Lima, a local educational pioneer and resistance fighter. Economically, the Liceu plays a critical role in developing human capital on São Vicente and surrounding islands. The architecture, with its high ceilings and large windows, provides optimal natural ventilation adapted to the island's arid climate. Liceu Gil Eanes remains a symbol of the high educational standards and intellectual ambition of the city of Mindelo."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eingeweiht im Jahr 1955 als zentrales Gymnasium für Nord-Kap-Verde.",
+          "Architektur im monumentalen Estado-Novo-Stil der 1950er Jahre.",
+          "Wurde nach 1975 zu Ehren von Ludgero Lima offiziell umbenannt.",
+          "Gilt als die wichtigste 'Elite-Schmiede' für kapverdische Intellektuelle.",
+          "Befindet sich im Stadtzentrum von Mindelo auf São Vicente.",
+          "Verfügt über weitläufige Klassenzimmerflügel und einen großen Innenhof.",
+          "Wesentlicher Pfeiler für das hohe Bildungsniveau der Insel São Vicente."
+        ],
+        "hu": [
+          "1955-ben avatták fel Észak-Zöld-foki-szigetek központi gimnáziumaként.",
+          "Az 1950-es évek monumentális Estado-Novo stílusában épült.",
+          "1975 után nevezték át hivatalosan Ludgero Lima tiszteletére.",
+          "A zöld-foki értelmiség legfontosabb 'elitképzőjének' tartják.",
+          "Mindelo városközpontjában található, São Vicente szigetén.",
+          "Tágas tantermi szárnyakkal és nagy belső udvarral rendelkezik.",
+          "São Vicente sziget magas oktatási színvonalának alapvető pillére."
+        ],
+        "ro": [
+          "Inaugurat în anul 1955 ca liceu central pentru nordul Capului Verde.",
+          "Arhitectură în stilul monumental Estado Novo din anii 1950.",
+          "Redenumit oficial după anul 1975 în onoarea lui Ludgero Lima.",
+          "Considerat cea mai importantă „fabrică de elite” pentru intelectualii capverdieni.",
+          "Situat în centrul orașului Mindelo de pe insula São Vicente.",
+          "Dispune de aripi vaste cu săli de clasă și o curte interioară mare.",
+          "Pilon esențial pentru nivelul ridicat de educație de pe insula São Vicente."
+        ],
+        "en": [
+          "Inaugurated in 1955 as the premier high school for northern Cape Verde.",
+          "Designed in the monumental 'Estado Novo' architectural style of the 1950s.",
+          "Officially renamed after 1975 in honor of Ludgero Lima.",
+          "Widely regarded as the leading educational cradle for the nation's elite.",
+          "Located within the central urban district of Mindelo on São Vicente.",
+          "Features extensive classroom wings and a massive interior courtyard.",
+          "A foundational pillar for the high literacy and educational rates on the island."
+        ]
+      }
+    },
+    {
+      "id": "cnad-mindelo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das CNAD (Centro Nacional de Artesanato e Design) in Mindelo auf der Insel São Vicente ist die wichtigste Institution zur Förderung und Bewahrung der kapverdischen Handwerkskunst und des modernen Designs. Das Zentrum befindet sich in einem architektonisch spektakulären Komplex, der im Jahr 2022 umfassend erweitert und modernisiert wurde. Der neue Anbau besticht durch seine markante Fassade aus über 2.500 bunten, perforierten Metalldeckeln von Ölfässern, die eine lebendige Verbindung zur maritimen Geschichte und dem Recycling-Gedanken der Insel herstellen. Historisch ist das CNAD aus einer Initiative von Künstlern und Intellektuellen der 1970er Jahre hervorgegangen, die das traditionelle Erbe nach der Unabhängigkeit stärken wollten. Geografisch liegt das Zentrum in der Nähe des Praça Nova im historischen Kern von Mindelo. Die Einrichtung beherbergt Ausstellungsräume, Werkstätten für Weberei (Pano de Terra), Töpferei und Holzarbeiten sowie eine Fachbibliothek. Wirtschaftlich fungiert das CNAD als Inkubator für lokale Handwerker und Designer, indem es Schulungen anbietet und den Zugang zu nationalen und internationalen Märkten erleichtert. Das Gebäude selbst ist zu einem modernen Wahrzeichen von Mindelo geworden und wurde für sein innovatives Design mehrfach international ausgezeichnet. Es symbolisiert den Übergang von der traditionellen Volkskunst hin zu einem zeitgenössischen Designverständnis, das tief in der kapverdischen Identität verwurzelt ist.",
+        "hu": "A mindelói CNAD (Nemzeti Kézműves és Design Központ) a Zöld-foki-szigetek legfontosabb intézménye a hagyományos kézművesség és a modern design népszerűsítésére és megőrzésére, São Vicente szigetén található. A központ egy építészetileg lenyűgöző komplexumban kapott helyet, amelyet 2022-ben jelentősen kibővítettek és korszerűsítettek. Az új szárny homlokzata több mint 2500 színes, perforált olajoshordó-fedélből áll, ami élő kapcsolatot teremt a sziget tengeri múltjával és az újrahasznosítás gondolatával. Történelmileg a CNAD az 1970-es évek művészeinek és értelmiségieinek kezdeményezéséből született, akik a függetlenség után meg akarták erősíteni a hagyományos örökséget. Földrajzilag a központ a Praça Nova közelében, Mindelo történelmi magjában fekszik. A létesítmény kiállítótermeknek, szövő- (Pano de Terra), fazekas- és fafaragó műhelyeknek, valamint szakmai könyvtárnak ad otthont. Gazdasági szempontból a CNAD inkubátorként működik a helyi kézművesek és tervezők számára, képzéseket nyújtva és segítve a nemzeti és nemzetközi piacokra való kijutást. Maga az épület Mindelo modern jelképévé vált, és innovatív kialakításáért több nemzetközi díjat is elnyert. A hagyományos népművészettől a modern designszemléletig tartó átmenetet szimbolizálja, amely mélyen a zöld-foki identitásban gyökerezik.",
+        "ro": "CNAD (Centrul Național de Artizanat și Design) din Mindelo, pe insula São Vicente, este cea mai importantă instituție pentru promovarea și conservarea meșteșugurilor capverdiene și a designului modern. Centrul este situat într-un complex spectaculos din punct de vedere arhitectural, care a fost extins și modernizat integral în anul 2022. Noua extensie impresionează prin fațada sa distinctivă formată din peste 2.500 de capace metalice colorate și perforate provenite de la butoaie de petrol, creând o legătură vie cu istoria maritimă și conceptul de reciclare al insulei. Din punct de vedere istoric, CNAD a luat naștere dintr-o inițiativă a artiștilor și intelectualilor din anii 1970 care doreau să consolideze moștenirea tradițională după independență. Geografic, centrul este situat în apropierea pieței Praça Nova, în nucleul istoric al orașului Mindelo. Facilitatea adăpostește săli de expoziție, ateliere de țesătorie (Pano de Terra), olărit și prelucrarea lemnului, precum și o bibliotecă de specialitate. Din punct de vedere economic, CNAD funcționează ca un incubator pentru meșteșugarii și designerii locali, oferind cursuri de formare și facilitând accesul la piețele naționale și internaționale. Clădirea în sine a devenit un punct de reper modern al orașului Mindelo și a primit multiple distincții internaționale pentru designul său inovator. Simbolizează tranziția de la arta populară tradițională către o înțelegere contemporană a designului, profund înrădăcinată în identitatea capverdiană.",
+        "en": "CNAD (National Center for Craft and Design) in Mindelo on São Vicente Island is the premier institution for promoting and preserving Cape Verdean craftsmanship and modern design. The center is housed in an architecturally spectacular complex that underwent major expansion and modernization in 2022. The new annex features a striking facade composed of over 2,500 colorful, perforated metal oil drum lids, creating a vivid connection to the island's maritime history and the ethos of upcycling. Historically, CNAD grew out of an initiative by artists and intellectuals in the 1970s who sought to strengthen traditional heritage following independence. Geographically, the center is located near Praça Nova in Mindelo's historic core. The facility houses exhibition galleries, workshops for weaving (Pano de Terra), pottery, and woodwork, as well as a specialized library. Economically, CNAD serves as an incubator for local artisans and designers by offering training and facilitating access to national and international markets. The building itself has become a modern landmark of Mindelo and has received several international awards for its innovative design. It symbolizes the transition from traditional folk art to a contemporary understanding of design rooted deeply in Cape Verdean identity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Nationales Zentrum für Handwerk und zeitgenössisches Design.",
+          "Fassade aus 2.500 recycelten Ölfassdeckeln als architektonisches Highlight.",
+          "Wurde im Jahr 2022 nach umfassender Modernisierung neu eröffnet.",
+          "Beherbergt Werkstätten für die traditionelle 'Pano de Terra' Weberei.",
+          "Befindet sich im historischen Kern von Mindelo nahe dem Praça Nova.",
+          "Wichtiger Inkubator für die Kreativwirtschaft der Kapverden.",
+          "Gewann mehrere internationale Preise für nachhaltige Architektur."
+        ],
+        "hu": [
+          "A nemzeti kézművesség és a kortárs design központja.",
+          "A homlokzat 2500 újrahasznosított hordófedélből áll, ami építészeti különlegesség.",
+          "2022-ben nyílt meg újra egy átfogó modernizációt követően.",
+          "Helyet ad a hagyományos 'Pano de Terra' szövőműhelyeknek.",
+          "Mindelo történelmi magjában, a Praça Nova közelében található.",
+          "A zöld-foki kreatív ipar egyik legfontosabb inkubátora.",
+          "Számos nemzetközi díjat nyert el fenntartható építészeti megoldásaiért."
+        ],
+        "ro": [
+          "Centrul național pentru meșteșuguri și design contemporan.",
+          "Fațadă din 2.500 de capace de butoaie de petrol reciclate, ca punct de atracție.",
+          "Redeschis în anul 2022 după o modernizare cuprinzătoare.",
+          "Găzduiește ateliere pentru țesătoria tradițională „Pano de Terra”.",
+          "Situat în nucleul istoric din Mindelo, lângă Praça Nova.",
+          "Incubator important pentru economia creativă din Capul Verde.",
+          "A câștigat mai multe premii internaționale pentru arhitectură sustenabilă."
+        ],
+        "en": [
+          "The leading national hub for traditional crafts and contemporary design.",
+          "Features a facade made from 2,500 recycled oil drum lids.",
+          "Reopened in 2022 following a total architectural transformation.",
+          "Operates active workshops for the traditional 'Pano de Terra' weaving.",
+          "Located within the historic center of Mindelo near Praça Nova.",
+          "Acts as a major incubator for Cape Verde's creative economy sectors.",
+          "Recipient of multiple international awards for sustainable design."
+        ]
+      }
+    },
+    {
+      "id": "estadio-aderito-sena-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Estádio Adérito Sena ist die bedeutendste Sportstätte auf der Insel São Vicente und befindet sich im zentralen Stadtteil Mindelo. Das Stadion wurde nach Adérito Sena benannt, einem legendären kapverdischen Sportler und Pionier der Leichtathletik auf der Insel. Ursprünglich während der Kolonialzeit errichtet, diente die Anlage jahrzehntelang als der zentrale Austragungsort für Fußballspiele und soziale Events in Mindelo. Das Stadion verfügt über eine Kapazität von etwa 5.000 Zuschauern und ist die Heimspielstätte der bekanntesten Vereine der Insel, darunter CS Mindelense und FC Derby. Architektonisch wurde die Anlage in den letzten Jahren umfassend modernisiert, wobei eine neue Tribünenüberdachung und ein hochwertiger Kunstrasenplatz installiert wurden, um dem regenarmen Klima von São Vicente gerecht zu werden. Geografisch liegt das Stadion in unmittelbarer Nähe zum historischen Stadtzentrum und dem Viertel Fonte Cónego. Wirtschaftlich ist das Adérito Sena ein wichtiger Faktor für den lokalen Sporttourismus und generiert Einnahmen durch nationale Meisterschaftsspiele und Pokalfinals. Die Atmosphäre bei Lokalderbys ist legendär und spiegelt die tiefe Leidenschaft der Bewohner von Mindelo für den Fußball wider. Neben Fußball wird das Stadion auch für Leichtathletikwettbewerbe und gelegentlich für große Open-Air-Konzerte genutzt. Es bleibt ein zentrales Symbol für die sportliche Identität und den Gemeinschaftsgeist der Insel São Vicente.",
+        "hu": "Az Adérito Sena Stadion (Estádio Adérito Sena) São Vicente szigetének legjelentősebb sportlétesítménye, amely Mindelo központi negyedében található. A stadiont Adérito Senáról, egy legendás zöld-foki sportolóról és a szigeti atlétika úttörőjéről nevezték el. Az eredetileg a gyarmati korszakban épült létesítmény évtizedeken át szolgált a mindelói labdarúgó-mérkőzések és közösségi események központi helyszíneként. A stadion befogadóképessége körülbelül 5000 fő, és a sziget legismertebb klubjainak, köztük a CS Mindelense-nek és az FC Derby-nek az otthona. Építészetileg a létesítményt az elmúlt években átfogóan modernizálták, új lelátófedést és kiváló minőségű műfüves pályát kapott, alkalmazkodva São Vicente csapadékszegény éghajlatához. Földrajzilag a stadion a történelmi városközpont és a Fonte Cónego negyed közvetlen közelében fekszik. Gazdasági szempontból az Adérito Sena meghatározó tényező a helyi sportturizmusban, bevételeket generálva a nemzeti bajnoki mérkőzések és kupadöntők révén. A helyi derbik hangulata legendás, tükrözve a mindelói lakosok mély szenvedélyét a futball iránt. A labdarúgás mellett a stadiont atlétikai versenyekre és alkalmanként nagy szabadtéri koncertekre is használják. Továbbra is São Vicente sportidentitásának és közösségi szellemének központi jelképe marad.",
+        "ro": "Stadionul Adérito Sena este cea mai importantă bază sportivă de pe insula São Vicente și se află în districtul central al orașului Mindelo. Stadionul a fost numit după Adérito Sena, un legendar sportiv capverdian și pionier al atletismului pe insulă. Construit inițial în timpul perioadei coloniale, facilitatea a servit timp de decenii drept locația centrală pentru meciurile de fotbal și evenimentele sociale din Mindelo. Stadionul are o capacitate de aproximativ 5.000 de spectatori și este terenul de acasă al celor mai cunoscute cluburi de pe insulă, printre care CS Mindelense și FC Derby. Din punct de vedere arhitectural, baza sportivă a fost modernizată integral în ultimii ani, fiind instalate o nouă acoperire pentru tribune și un teren cu gazon artificial de înaltă calitate, pentru a face față climatului arid din São Vicente. Geografic, stadionul este situat în imediata apropiere a centrului istoric al orașului și a cartierului Fonte Cónego. Din punct de vedere economic, Adérito Sena este un factor important pentru turismul sportiv local și generează venituri prin meciurile din campionatul național și finalele de cupă. Atmosfera la derbiurile locale este legendară și reflectă pasiunea profundă a locuitorilor din Mindelo pentru fotbal. Pe lângă fotbal, stadionul este utilizat și pentru competiții de atletism și, ocazional, pentru mari concerte în aer liber. Rămâne un simbol central pentru identitatea sportivă și spiritul comunitar al insulei São Vicente.",
+        "en": "The Adérito Sena Stadium is the premier sports venue on the island of São Vicente, located in the central urban area of Mindelo. The stadium is named after Adérito Sena, a legendary Cape Verdean athlete and pioneer of track and field on the island. Originally built during the colonial period, the facility has served for decades as the central stage for football matches and major social events in Mindelo. The stadium has a capacity of approximately 5,000 spectators and serves as the home ground for the island's most famous clubs, including CS Mindelense and FC Derby. Architecturally, the venue has undergone significant modernization in recent years, featuring new grandstand roofing and a high-quality artificial turf pitch adapted to São Vicente's arid climate. Geographically, the stadium is situated in close proximity to the historic city center and the Fonte Cónego district. Economically, Adérito Sena is a vital factor for local sports tourism, generating revenue through national league matches and cup finals. The atmosphere during local derbies is legendary, reflecting the deep passion for football held by the residents of Mindelo. Besides football, the stadium is used for athletics competitions and occasionally for large outdoor concerts. It remains a central symbol of São Vicente's sporting identity and community spirit."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigstes Fußballstadion auf der Insel São Vicente.",
+          "Benannt nach dem legendären Leichtathleten Adérito Sena.",
+          "Verfügt über eine Zuschauerkapazität von rund 5.000 Plätzen.",
+          "Heimspielstätte renommierter Klubs wie CS Mindelense.",
+          "Nutzt modernen Kunstrasen aufgrund des ariden Klimas.",
+          "Befindet sich in zentraler Lage innerhalb der Stadt Mindelo.",
+          "Austragungsort für nationale Meisterschaften und Sportgalas."
+        ],
+        "hu": [
+          "São Vicente szigetének legfontosabb labdarúgó-stadionja.",
+          "A legendás atlétáról, Adérito Senáról nevezték el.",
+          "Körülbelül 5000 néző befogadására alkalmas lelátóval rendelkezik.",
+          "Olyan neves klubok otthona, mint a CS Mindelense.",
+          "A száraz éghajlat miatt modern műfüves pályát használ.",
+          "Mindelo városán belül központi elhelyezkedésű.",
+          "Nemzeti bajnokságok és sportgálák rendszeres helyszíne."
+        ],
+        "ro": [
+          "Cel mai important stadion de fotbal de pe insula São Vicente.",
+          "Numit după legendarul atlet Adérito Sena.",
+          "Dispune de o capacitate de circa 5.000 de locuri pentru spectatori.",
+          "Sediul unor cluburi renumite precum CS Mindelense.",
+          "Utilizează gazon artificial modern din cauza climatului arid.",
+          "Situat într-o locație centrală în interiorul orașului Mindelo.",
+          "Loc de desfășurare pentru campionate naționale și gale sportive."
+        ],
+        "en": [
+          "The primary football stadium on the island of São Vicente.",
+          "Named after the legendary Cape Verdean athlete Adérito Sena.",
+          "Features a spectator capacity of approximately 5,000 seats.",
+          "Home venue for historic clubs such as CS Mindelense and FC Derby.",
+          "Equipped with modern artificial turf due to the arid island climate.",
+          "Centrally located within the urban landscape of Mindelo city.",
+          "Host venue for national league finals and major sporting events."
+        ]
+      }
+    }
+  ]
+}

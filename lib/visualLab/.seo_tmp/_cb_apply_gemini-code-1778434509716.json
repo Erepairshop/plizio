@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "banjul-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Banjul, die Hauptstadt von Gambia, liegt strategisch günstig auf St. Mary's Island an der Mündung des Gambia-Flusses in den Atlantik. Gegründet wurde die Stadt 1816 von den Briten als Handelsposten und Stützpunkt zur Bekämpfung des Sklavenhandels, ursprünglich unter dem Namen Bathurst. Trotz ihres Status als administratives Zentrum des Landes hat Banjul einen eher kleinstädtischen und entspannten Charakter bewahrt, was vor allem an der geografischen Begrenzung durch den Fluss und die umliegenden Mangrovensümpfe liegt. Das Stadtbild wird durch eine Mischung aus kolonialer Architektur und modernen Verwaltungsgebäuden geprägt. Das markanteste Wahrzeichen ist der Arch 22, ein monumentaler Triumphbogen am Stadteingang, der an den unblutigen Militärputsch von 1994 erinnert und einen weiten Blick über die Stadt bietet. Wirtschaftlich ist Banjul durch seinen Seehafen von zentraler Bedeutung, über den ein Großteil des gambischen Außenhandels, insbesondere der Export von Erdnüssen, abgewickelt wird. Der Albert Market ist das pulsierende Herz der Stadt, ein Labyrinth aus Gassen, in dem von Lebensmitteln bis zu traditionellem Kunsthandwerk alles gehandelt wird. Kulturell spiegelt Banjul die Vielfalt Gambias wider, mit bedeutenden Moscheen und Kathedralen in unmittelbarer Nachbarschaft. Aufgrund der begrenzten Landfläche verlagert sich das Bevölkerungswachstum zunehmend in die Vororte auf dem Festland, wodurch Banjul seinen historischen Kern weitgehend erhalten konnte.",
+        "hu": "Banjul Gambia fővárosa, amely stratégiai helyen, a Szent Mária-szigeten (St. Mary's Island) terül el a Gambia-folyó torkolatánál. A várost 1816-ban alapították a britek Bathurst néven, elsősorban kereskedelmi állomásként és a rabszolga-kereskedelem felszámolását célzó katonai bázisként. Földrajzi elhelyezkedése miatt – mivel mocsarak és a folyó határolja – Banjul területe korlátozott, így megőrizte viszonylag kisvárosias, családias hangulatát, miközben az ország politikai és adminisztratív központja maradt. A városkép meghatározó eleme a gyarmati építészet, amely mellett jól megférnek a modern kormányzati épületek. Legismertebb jelképe az Arch 22, egy hatalmas diadalív, amely a város bejáratánál áll, és az 1994-es békés hatalomátvételnek állít emléket. Gazdaságilag a banjuli kikötő az ország kapuja, ahol a tengeri kereskedelem és az exporttermékek, például a földimogyoró forgalma zajlik. A város társadalmi életének központja az Albert Market, egy nyüzsgő piac, ahol a látogatók bepillantást nyerhetnek a helyi kézművességbe és gasztronómiába. Bár a lakosság egy része a szárazföldi elővárosokba költözött az utóbbi évtizedekben, Banjul továbbra is a nemzeti identitás és történelem legfontosabb helyszíne. A városban található Nemzeti Múzeum gazdag gyűjteménye bemutatja az ország néprajzi és régészeti örökségét a gyarmatosítás előtti időktől napjainkig.",
+        "ro": "Banjul, capitala Gambiei, este situată într-o locație strategică pe Insula Sfânta Maria, la gura de vărsare a fluviului Gambia în Oceanul Atlantic. Fondat în 1816 de către britanici sub numele de Bathurst, orașul a servit inițial ca punct de control pentru combaterea comerțului cu sclavi și ca avanpost comercial. Deși este centrul politic al țării, Banjul și-a păstrat un ritm de viață mai lent comparativ cu alte capitale africane, parțial din cauza limitărilor geografice impuse de mlaștinile de mangrove și de brațele fluviului care îl înconjoară. Arhitectura orașului este o fuziune între clădirile administrative moderne și vestigiile coloniale victoriene. Principalul punct de reper este Arch 22, un arc de triumf impresionant construit la intrarea în oraș, care oferă o panoramă asupra portului și a zonei comerciale. Portul din Banjul este motorul economic al națiunii, facilitând exporturile de alune și importul de bunuri esențiale. Piața Albert (Albert Market) reprezintă inima socială a orașului, un spațiu vibrant unde se pot găsi țesături tradiționale, condimente și produse de artizanat local. În ciuda ascensiunii zonelor rezidențiale de pe continent, precum Serekunda, Banjul rămâne simbolul autorității de stat și al istoriei gambiene. Muzeul Național, situat în centrul orașului, adăpostește exponate valoroase care reflectă diversitatea etnică și reziliența culturală a popoarelor din bazinul fluviului Gambia.",
+        "en": "Banjul, the capital of The Gambia, is uniquely situated on St. Mary's Island at the estuary where the Gambia River meets the Atlantic Ocean. Established by the British in 1816 as Bathurst, the town was intended to serve as a trading post and a military base to suppress the illegal slave trade. Due to its island geography, constrained by dense mangroves and the river's currents, Banjul has remained relatively small and navigable, retaining a distinct colonial charm and a relaxed atmosphere. The city's skyline is defined by the imposing Arch 22, a 35-meter tall gateway commemorating the 1944 military coup, which serves as a cultural landmark and a viewpoint for the entire peninsula. As the administrative heart of the nation, it houses the State House and various government ministries. Economically, the Port of Banjul is the country's lifeline, handling the bulk of maritime traffic and agricultural exports like peanuts. The Albert Market is a sensory highlight of the city, where the daily life of Gambians is on full display through the vibrant trade of textiles, fish, and local crafts. While much of the population growth has shifted to the mainland's urban sprawl, Banjul preserves the nation's historical essence and remains the symbolic center of Gambian sovereignty. The city is also home to the National Museum, which archives the archaeological and ethnographic history of the region from prehistoric times to the modern republic."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Banjul liegt auf einer Insel und ist über die Denton Bridge mit dem Festland verbunden.",
+          "Die Stadt hieß bis 1973 Bathurst, benannt nach einem britischen Staatssekretär.",
+          "Der Arch 22 ist mit 35 Metern eines der höchsten Bauwerke Gambias.",
+          "Der Seehafen von Banjul ist der einzige Tiefwasserhafen des Landes.",
+          "Die Stadt ist von ökologisch wertvollen Mangrovenreservaten umgeben.",
+          "Banjul ist flächenmäßig eine der kleinsten Hauptstädte Afrikas."
+        ],
+        "hu": [
+          "A város eredeti neve Bathurst volt, 1973-ban keresztelték át Banjulra.",
+          "Banjul a Szent Mária-szigeten fekszik, amelyet mocsarak választanak el a szárazföldtől.",
+          "Az Arch 22 nevű építmény felső szintjén egy kis múzeum és kilátó üzemel.",
+          "Itt található a gyarmati időkből származó, ma is működő Albert Market.",
+          "A fővárost a környező vizek miatt nem lehet tovább bővíteni.",
+          "A banjuli kikötő kulcsfontosságú az országos földimogyoró-kereskedelemben."
+        ],
+        "ro": [
+          "Orașul a fost fondat pentru a bloca navele cu sclavi care părăseau fluviul Gambia.",
+          "Banjul este legat de orașul Barra prin intermediul unui serviciu de feribot vital.",
+          "Arch 22 a fost construit de ingineri libieni în anul 1996.",
+          "Este sediul Guvernului Gambiei și al Curții Supreme de Justiție.",
+          "Numele 'Banjul' provine din cuvântul mandinka pentru 'insula bambusului'.",
+          "Climatul este tropical, cu un sezon ploios marcat între iunie și octombrie."
+        ],
+        "en": [
+          "Banjul is located on St. Mary's Island, connected by the Denton Bridge to the mainland.",
+          "The city was renamed from Bathurst to Banjul in 1973.",
+          "It serves as the main maritime gateway for The Gambia’s international trade.",
+          "The historic Albert Market was named after Queen Victoria's husband.",
+          "The Gambia River at Banjul is several kilometers wide before entering the sea.",
+          "It is the smallest capital city in Africa by total land area."
+        ]
+      }
+    },
+    {
+      "id": "serekunda-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Serekunda ist die größte Stadt Gambias und das unbestrittene wirtschaftliche und soziale Kraftzentrum des Landes. Obwohl sie offiziell nicht die Hauptstadt ist, übertrifft sie Banjul in Bezug auf Bevölkerung, Handelsaktivität und Fläche bei Weitem. Serekunda ist eigentlich eine Agglomeration aus mehreren ehemals separaten Dörfern wie Latri Kunda, Sukuta und Kanifing, die im Laufe der letzten Jahrzehnte zu einem riesigen urbanen Gebiet zusammengewachsen sind. Das Herz der Stadt ist der Serekunda Market, einer der größten und lebhaftesten Märkte in Westafrika, auf dem ein unaufhörlicher Strom von Menschen und Waren zirkuliert. Hier spiegelt sich die enorme ethnische und kulturelle Vielfalt des Landes wider. Die Stadt liegt im Distrikt Kanifing und dient als logistisches Drehkreuz für den Nah- und Fernverkehr. Die Verkehrsadern der Stadt sind oft überfüllt mit gelben Sammeltaxis und den charakteristischen 'Gelli-Gellis'. Im Gegensatz zum ruhigeren Banjul ist Serekunda laut, bunt und ständig in Bewegung. In der Nähe der Stadt befinden sich auch die touristisch erschlossenen Küstengebiete, was Serekunda zu einem wichtigen Versorgungszentrum für das Hotelgewerbe macht. Die Stadt hat sich in den letzten Jahren rasant entwickelt, wobei moderne Einkaufszentren und Banken neben traditionellen Werkstätten entstanden sind. Serekunda ist das Symbol für das moderne, aufstrebende Gambia und der Ort, an dem die meisten Gambier ihren Lebensunterhalt verdienen.",
+        "hu": "Serekunda Gambia legnagyobb városa és az ország legfontosabb gazdasági központja, amely népességét és kiterjedését tekintve is messze megelőzi a fővárost, Banjult. A város valójában egy kiterjedt konurbáció, amely több kisebb település, például Latri Kunda, Kanifing és Sukuta összeolvadásából jött létre. Serekunda lüktető központja a hatalmas Serekunda Market, amely Nyugat-Afrika egyik legélénkebb piaca; itt a nap minden szakaszában hatalmas a tömeg, és a textíliáktól kezdve az elektronikai cikkeken át a friss élelmiszerekig minden megtalálható. A város nemcsak kereskedelmi, hanem közlekedési csomópont is: innen indulnak a jellegzetes sárga taxik és az ország minden pontjára tartó „gelli-gelli” mikrobuszok. Bár a város építészete nagyrészt funkcionális és kaotikus, ez a terület Gambia valódi társadalmi olvasztótégelye, ahol minden etnikai csoport képviselteti magát. Serekunda közvetlen közelében találhatók a népszerű tengerparti üdülőhelyek, így a város kulcsfontosságú az idegenforgalom kiszolgálásában is. Az utóbbi években a modernizáció jegyében számos új üzleti negyed és oktatási intézmény létesült a környéken. A látogatók számára Serekunda a hamisítatlan afrikai városi életélményt kínálja, ahol a hagyományos életmód és a modern kereskedelem összefonódik. A város energiája és dinamizmusa meghatározza Gambia jövőbeli fejlődési irányait.",
+        "ro": "Serekunda este cel mai mare oraș din Gambia și motorul economic indiscutabil al țării, depășind capitala Banjul ca populație și activitate comercială. Orașul este de fapt o conurbație vastă, formată prin fuziunea mai multor localități precum Kanifing, Latri Kunda și Sukuta, care s-au extins rapid în ultimele decenii. Centrul vital al orașului este Piața Serekunda, una dintre cele mai mari și mai aglomerate piețe în aer liber din Africa de Vest, unde se desfășoară un comerț intens cu aproape orice fel de bunuri. Serekunda servește ca principal nod de transport al țării, fiind punctul de plecare pentru taxiurile colective galbene și microbuzele „gelli-gelli” care fac legătura cu interiorul țării. Spre deosebire de centrul administrativ din Banjul, Serekunda este caracterizată printr-o efervescență continuă, zgomot și o diversitate culturală copleșitoare, fiind locul unde se întâlnesc toate comunitățile etnice gambiene. Orașul este situat strategic în apropierea zonelor turistice de coastă, fiind principalul furnizor de forță de muncă și servicii pentru industria hotelieră. În ultimii ani, infrastructura urbană a început să includă centre comerciale moderne și sedii bancare, reflectând urbanizarea rapidă. Pentru un vizitator, Serekunda oferă cea mai autentică perspectivă asupra vieții urbane gambiene contemporane, fiind un loc al contrastelor între atelierele meșteșugărești tradiționale și dinamismul economiei informale. Este inima pulsândă a țării, unde se concentrează majoritatea oportunităților de afaceri și investiții.",
+        "en": "Serekunda is the largest urban center in The Gambia and the nation's undisputed economic and social powerhouse. Although not the capital, it vastly exceeds Banjul in population, physical size, and commercial output. Serekunda is essentially a sprawling conurbation formed by the merging of several former villages, including Latri Kunda, Kanifing, and Sukuta. The heart of the city is the Serekunda Market, one of the most vibrant and chaotic marketplaces in West Africa, where a constant flow of traders and shoppers exchange everything from vibrant batik fabrics to fresh produce and electronics. The city operates as the primary transport hub for the coastal region, with its busy intersections constantly filled with the iconic yellow bush taxis and 'gelli-gellis' (shared minibuses). Unlike the more formal Banjul, Serekunda is defined by its energy, noise, and immense cultural diversity, serving as a melting pot for all of Gambia’s ethnic groups. It is strategically located near the main Atlantic resort areas, making it a critical service and logistics base for the tourism industry. In recent years, Serekunda has seen rapid development, with new commercial buildings and educational institutions like the University of The Gambia's campus nearby. For visitors, Serekunda offers an unfiltered experience of African urban life, where traditional commerce and modern aspirations collide. It is the place where the majority of Gambians live and work, representing the dynamic future of the country's urban landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Serekunda hat mehr Einwohner als die eigentliche Hauptstadt Banjul.",
+          "Der Serekunda Market ist der größte Markt des Landes und täglich geöffnet.",
+          "Die Stadt liegt im Verwaltungsbezirk Kanifing Municipal Council (KMC).",
+          "Hier befindet sich der wichtigste Knotenpunkt für den öffentlichen Nahverkehr.",
+          "Serekunda entstand durch das Zusammenwachsen von neun ursprünglichen Dörfern.",
+          "Die Stadt liegt nur wenige Kilometer von den Stränden des Atlantiks entfernt."
+        ],
+        "hu": [
+          "Serekunda népessége becslések szerint meghaladja a 400 000 főt.",
+          "A város neve a Sere (alapító család) és a kunda (otthon) szavakból ered.",
+          "Ez Gambia legfontosabb kiskereskedelmi és ipari központja.",
+          "A város környékén számos fafaragó műhely és kézműves telep működik.",
+          "Itt található az ország legforgalmasabb közúti csomópontja.",
+          "Serekunda ad otthont több jelentős sportlétesítménynek és stadionnak."
+        ],
+        "ro": [
+          "Serekunda este situat la aproximativ 13 kilometri sud-vest de Banjul.",
+          "Piața locală este renumită pentru baticurile și țesăturile colorate manual.",
+          "Orașul este centrul rețelei de telecomunicații și servicii din Gambia.",
+          "Majoritatea microbuzelor de transport public au stația terminus aici.",
+          "Este considerat cel mai cosmopolit oraș din regiunea Senegambia.",
+          "Zona include cartiere cu funcțiuni diferite, de la industrial la rezidențial."
+        ],
+        "en": [
+          "Serekunda is the most populous city in The Gambia.",
+          "The city’s name literally translates to 'Home of the Sere family'.",
+          "It is the primary commercial engine, driving the nation’s informal economy.",
+          "The city is a major transit point between the coast and the North Bank.",
+          "It borders the popular tourism districts of Kotu and Kololi.",
+          "Serekunda is the main base for the country's artisanal and craft sectors."
+        ]
+      }
+    },
+    {
+      "id": "brikama-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Brikama ist die größte Stadt in der West Coast Region Gambias und gilt als eines der bedeutendsten kulturellen und wirtschaftlichen Zentren im Hinterland der Küste. Etwa 35 Kilometer südlich der Hauptstadt Banjul gelegen, dient Brikama als strategischer Verkehrsknotenpunkt, der die Küstenregion mit dem Süden des Landes und der Grenze zu Senegal (Casamance) verbindet. Die Stadt ist landesweit berühmt für ihr Kunsthandwerk, insbesondere für die Holzschnitzerei. Das Brikama Woodcarving Centre ist ein Ort, an dem Generationen von Handwerkern aus edlen Hölzern wie Mahagoni und Ebenholz kunstvolle Skulpturen und Gebrauchsgegenstände fertigen. Musikalisch hat Brikama ebenfalls eine herausragende Bedeutung; viele der bekanntesten Kora-Spieler und Musiker des Landes stammen aus dieser Stadt, was ihr den Ruf eines kulturellen Herzschlags einbrachte. Wirtschaftlich ist Brikama ein wichtiges Zentrum für den Handel mit Agrarprodukten und beherbergt eines der größten Kraftwerke Gambias, das eine Schlüsselrolle in der nationalen Energieversorgung spielt. Die Stadt ist zudem ein bedeutender Bildungsstandort mit mehreren weiterführenden Schulen und dem Gambia College. Trotz des raschen Wachstums hat Brikama eine starke Gemeinschaftsstruktur bewahrt, die tief in den Traditionen der Mandinka verwurzelt ist. Für Reisende bietet die Stadt eine authentische Atmosphäre jenseits der Touristenpfade, geprägt von geschäftigen Märkten und einer lebendigen Kulturszene.",
+        "hu": "Brikama Gambia egyik legnépesebb városa és a Nyugati Part (West Coast) régió közigazgatási központja. A Banjultól mintegy 35 kilométerre délre fekvő város kulcsfontosságú kapu az ország déli területei és a szenegáli Casamance régió felé. Brikama nemzetközi hírnevét elsősorban a fafaragó művészetének köszönheti; a helyi fafaragó központ (Woodcarving Centre) Nyugat-Afrika egyik legjelentősebb kézműves bázisa, ahol a mesterek ébenfából és mahagóniból készítenek lenyűgöző alkotásokat. A város kulturális jelentősége a zenében is kiemelkedő, hiszen Brikama a kora-játékosok és a hagyományos gambi zene bölcsője. Gazdaságilag a város fontos kereskedelmi csomópont, ahol a környező mezőgazdasági területek terményei, például a gyümölcsök és a zöldségek cserélnek gazdát a hatalmas helyi piacon. Brikama infrastruktúrája is jelentős, itt található az ország egyik legnagyobb áramtermelő központja, amely alapvető fontosságú a nemzeti hálózat stabilitása szempontjából. Az oktatás terén a város kiemelkedik a Gambia College jelenlétével, amely tanárok és mezőgazdasági szakemberek generációit képezte ki. Brikama hangulata egyszerre modern és mélyen hagyománytisztelő, ahol a mandinka kultúra értékei a mindennapok részét képezik. A látogatók számára a város autentikus bepillantást enged Gambia belső vidékeinek életébe, távol az óceánparti üdülőövezetektől.",
+        "ro": "Brikama este cel mai mare oraș din regiunea West Coast a Gambiei și un centru cultural și educațional de prim rang situat la sud de capitala Banjul. Orașul este recunoscut în întreaga Africă de Vest pentru măiestria sculptorilor săi în lemn; Centrul de Sculptură din Brikama este o destinație esențială unde vizitatorii pot asista la crearea de măști, statuete și mobilier din esențe de lemn prețios. Din punct de vedere geografic, Brikama este un nod rutier vital, făcând legătura între zona metropolitană de coastă și provinciile meridionale, precum și cu regiunea Casamance din Senegal. Orașul are o reputație solidă în domeniul muzical, fiind locul de origine al multor virtuozi ai korei (instrument tradițional cu corzi), contribuind astfel la conservarea patrimoniului imaterial gambian. Din punct de vedere economic, Brikama găzduiește o infrastructură energetică strategică, centrala sa electrică fiind crucială pentru aprovizionarea regiunii Greater Banjul. De asemenea, Brikama este un pol al învățământului superior, găzduind Gambia College, cea mai veche instituție de formare profesională din țară. Piața centrală din Brikama este una dintre cele mai dinamice din afara zonei de coastă, fiind renumită pentru diversitatea produselor agricole locale. Viața cotidiană în Brikama reflectă o coeziune socială puternică, orașul fiind un bastion al tradițiilor Mandinka într-un context de urbanizare accelerată. Pentru turiști, Brikama reprezintă o oportunität de a descoperi profunzimea culturii gambiene într-un mediu urban autentic și primitor.",
+        "en": "Brikama is the largest town in the West Coast Region of The Gambia and serves as a major cultural, educational, and economic hub in the country's interior. Located approximately 35 kilometers south of Banjul, it acts as a critical strategic junction connecting the coastal urban areas to the southern border with Senegal's Casamance region. Brikama is nationally renowned for its exceptional craftsmanship, particularly in woodcarving. The Brikama Woodcarving Centre is a world-class site where artisans work with indigenous mahogany and ebony to produce intricate masks, statues, and instruments. The town is also deeply significant to the Gambian music scene, celebrated as the home of many legendary kora players and modern musicians, which has earned it the title of the nation’s cultural heartbeat. Economically, Brikama is a vital marketplace for agricultural produce from the surrounding rural districts and houses one of the country's largest power stations, essential for the national electricity grid. Educationally, it is a prominent center, hosting several high schools and the Gambia College, which trains the nation’s teachers and agriculturalists. Despite its rapid urban expansion, Brikama maintains a strong community identity rooted in Mandinka traditions. For travelers, the town offers an authentic Gambian experience characterized by bustling markets, vibrant street life, and a rich artistic heritage that remains central to the local economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Brikama ist das administrative Zentrum der West Coast Region.",
+          "Das Woodcarving Centre in Brikama ist eines der bekanntesten in Westafrika.",
+          "Die Stadt gilt als Hochburg der traditionellen Kora-Musik.",
+          "Hier befindet sich das Gambia College, eine der ältesten Bildungseinrichtungen.",
+          "Brikama liegt an der Hauptstraße nach Casamance im Senegal.",
+          "In der Stadt befindet sich ein großes Wärmekraftwerk für die Energieversorgung."
+        ],
+        "hu": [
+          "Brikama a fafaragó művészek egyik legfontosabb központja az egész kontinensen.",
+          "A város Gambia egyik legfontosabb közlekedési csomópontja dél felé.",
+          "A helyi piac híres a friss gyümölcsökről és a fűszerek széles választékáról.",
+          "Brikama népessége az elmúlt évtizedekben robbanásszerűen megnőtt.",
+          "A város hagyományosan a mandinka etnikum egyik bástyája.",
+          "Számos nemzetközileg ismert gambi zenész indult innen."
+        ],
+        "ro": [
+          "Centrul de sculptură din Brikama utilizează în principal lemn de mahon și teck.",
+          "Orașul este situat strategic la intersecția rutelor spre sud și est.",
+          "Gambia College din Brikama pregătește majoritatea cadrelor didactice din țară.",
+          "Piața din Brikama este renumită pentru produsele din pământ și textile.",
+          "Reprezintă un centru major pentru distribuția energiei electrice naționale.",
+          "Atmosfera orașului este marcată de numeroase festivaluri de muzică tradițională."
+        ],
+        "en": [
+          "Brikama is the regional capital of the West Coast Region.",
+          "The town is famous for producing high-quality hand-carved mahogany art.",
+          "It is a central node for travelers heading to the southern Senegalese border.",
+          "Brikama hosts the largest teacher-training college in The Gambia.",
+          "The town is a significant producer of local poultry and eggs for the coast.",
+          "It is historically a major settlement for the Mandinka ethnic group."
+        ]
+      }
+    },
+    {
+      "id": "bakau-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bakau ist eine charmante Küstenstadt an der Atlantikküste Gambias, gelegen auf einer Halbinsel etwa 12 Kilometer westlich von Banjul. Die Stadt ist bekannt für ihre einzigartige Mischung aus traditionellem Fischerdorf-Charakter, gehobenen Wohnvierteln und bedeutenden touristischen Attraktionen. Das wohl bekannteste Wahrzeichen ist das heilige Krokodilbecken von Kachikally, ein spiritueller Ort, der für seine zahmen Krokodile und seine Bedeutung für Fruchtbarkeitsrituale weltberühmt ist. Neben diesem kulturellen Erbe beherbergt Bakau den Botanischen Garten, der bereits in der Kolonialzeit angelegt wurde und eine Oase der Ruhe mit einer Vielfalt an tropischen Pflanzen und Vögeln darstellt. Die Küste von Bakau ist geprägt durch zerklüftete Sandsteinklippen und schmale Sandstrände, was ihr ein anderes Gesicht verleiht als den weiten Stränden weiter südlich. Der Fischereihafen von Bakau ist ein lebhafter Ort, an dem am späten Nachmittag die bunten Pirogen mit ihrem Fang zurückkehren – ein Schauspiel, das viele Besucher anzieht. Bakau ist auch der Sitz zahlreicher internationaler Institutionen und Botschaften, was der Stadt eine kosmopolitische Note verleiht. Das Stadion der Unabhängigkeit (Independence Stadium), Gambias Nationalstadion, befindet sich ebenfalls in unmittelbarer Nähe. Für Reisende ist Bakau ein idealer Ort, um die gambische Kultur und Geschichte in einer malerischen Umgebung am Meer zu erleben.",
+        "hu": "Bakau egy festői tengerparti város az Atlanti-óceán partján, mintegy 12 kilométerre nyugatra a fővárostól, Banjultól. A város különlegessége a tradicionális halászfalu-jelleg és a modern, elegáns lakónegyedek harmonikus találkozása. Bakau legfontosabb látnivalója a Kachikally szent krokodilmedence, amely évszázadok óta spirituális helyszín és a termékenységi rítusok központja; a látogatók itt közvetlen közelről érinthetik meg a szelíd hüllőket. A város másik ékköve a Botanikus Kert, amelyet még a gyarmati időkben alapítottak, és amely ma a trópusi növényvilág és a ritka madárfajok menedéke. Bakau partvonala eltér a déli strandoktól: itt vöröses homokkő sziklák és kisebb öblök teszik változatossá a tájat. A halászkikötőben minden délután látványos jelenet zajlik, amikor a színes pirogák visszatérnek a tengeri zsákmánnyal. A város nemcsak turisztikai, hanem diplomáciai központ is, számos nagykövetség és nemzetközi szervezet székhelye található itt. Bakau szélén fekszik a nemzeti stadion (Independence Stadium), amely a jelentős sportesemények és állami ünnepségek helyszíne. A látogatók számára Bakau az egyik legvonzóbb gambi úti cél, ahol a kulturális örökség, a természeti szépség és a vibráló tengerparti élet összefonódik.",
+        "ro": "Bakau este un oraș de coastă pitoresc situat la aproximativ 12 kilometri vest de Banjul, fiind una dintre cele mai căutate destinații din Gambia. Orașul este celebru pentru îmbinarea sa unică între tradiția pescărească și facilitățile moderne. Principalul punct de atracție este bazinul sacru cu crocodili Kachikally, un loc cu o semnificație spirituală profundă pentru localnici, renumit pentru crocodilii săi blânzi și ritualurile legate de fertilitate. Grădina Botanică din Bakau, înființată în perioada colonială, oferă o oază de liniște și biodiversitate, găzduind numeroase specii de arbori exotici și păsări tropicale. Coasta orașului Bakau se distinge prin falezele sale spectaculoase de gresie și plajele intime, oferind un peisaj diferit de zonele hoteliere din sud. Portul pescăresc este un centru de activitate efervescentă, unde localnicii și turiștii se adună în fiecare seară pentru a vedea sosirea pirogilor colorate încărcate cu pește proaspăt. Bakau găzduiește, de asemenea, numeroase ambasade și reședințe diplomatice, ceea ce îi conferă o atmosferă internațională și sigură. În apropiere se află Stadionul Independenței, inima sportivă a națiunii. Pentru turiști, Bakau reprezintă poarta perfectă către cultura gambiană, oferind un amestec de situri istorice, piețe de artizanat și o gastronomie locală bazată pe fructe de mare. Orașul rămâne un simbol al ospitalității și al frumuseții naturale litorale.",
+        "en": "Bakau is a vibrant coastal town on the Atlantic shore of The Gambia, situated on a peninsula about 12 kilometers west of the capital, Banjul. It is widely regarded as one of the country's most multifaceted destinations, blending traditional fishing village life with upscale residential districts and major cultural sites. The town’s most famous landmark is the Kachikally Sacred Crocodile Pool, a site of ancient spiritual significance where tame crocodiles are famously touched by visitors seeking blessings or fertility. Bakau is also home to the national Botanical Gardens, established during the colonial era, providing a serene sanctuary for exotic tropical flora and numerous indigenous bird species. Its coastline is distinct, featuring rugged sandstone cliffs and small, picturesque beaches that contrast with the long sandy stretches of the Kombo region. The Bakau fish market and landing site are focal points of local activity, where every evening hundreds of colorful pirogues arrive with the day’s catch. As a diplomatic hub, Bakau hosts several international embassies and high-profile NGOs, lending the town a cosmopolitan flair. The Independence Stadium, the country's primary venue for sports and national celebrations, is located on its outskirts. For travelers, Bakau offers a perfect mix of Gambian heritage, natural beauty, and a lively oceanfront atmosphere that remains deeply connected to the sea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bakau beherbergt das heilige Krokodilbecken von Kachikally.",
+          "Der Botanische Garten von Bakau wurde bereits 1924 angelegt.",
+          "Die Stadt ist bekannt für ihre roten Sandsteinklippen am Meer.",
+          "Hier befinden sich viele ausländische Botschaften und Diplomatenviertel.",
+          "Das Independence Stadium in Bakau bietet Platz für 30.000 Zuschauer.",
+          "Am späten Nachmittag findet am Hafen ein großer Fischmarkt statt."
+        ],
+        "hu": [
+          "A kachikally-i medencében több mint 100 krokodil él szabadon.",
+          "Bakau az egyik legfontosabb diplomáciai negyed Gambiában.",
+          "A város tengerpartja népszerű hely a helyi szörfösök körében.",
+          "A Botanikus Kertben számos ritka trópusi madárfaj megfigyelhető.",
+          "A fafaragó piac (Craft Market) a turisták egyik kedvenc helye.",
+          "A város neve mandinka nyelven 'parti várost' jelent."
+        ],
+        "ro": [
+          "Kachikally este considerat un loc sfânt pentru rugăciunile femeilor.",
+          "Bakau are unul dintre cele mai vechi porturi de pescuit artizanal.",
+          "Stadionul Independenței găzduiește și birourile Ministerului Sportului.",
+          "Falezele de gresie roșie sunt unice în peisajul costier al Gambiei.",
+          "Este considerat unul dintre cele mai sigure și mai curate orașe din țară.",
+          "Localitatea este renumită pentru restaurantele sale cu specific african."
+        ],
+        "en": [
+          "Bakau's Kachikally pool is home to Nile crocodiles that are exceptionally tame.",
+          "The Botanical Gardens are the oldest of their kind in The Gambia.",
+          "It serves as a major gateway to the Cape Point beach area.",
+          "Bakau is a favored residential area for international expatriates.",
+          "The Independence Stadium is the host of all FIFA international matches.",
+          "The local fish landing site is a key supply point for city markets."
+        ]
+      }
+    },
+    {
+      "id": "farafenni-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Farafenni ist eine strategisch bedeutsame Stadt am Nordufer des Gambia-Flusses in der North Bank Region. Sie liegt an der Kreuzung des Trans-Gambia Highway und der Hauptstraße, die das Nordufer von West nach Ost erschließt. Durch diese Lage ist Farafenni das wichtigste Handels- und Logistikzentrum im Norden Gambias. Lange Zeit war die Stadt vor allem als Fährhafen bekannt, von dem aus der Verkehr zwischen dem Nord- und Süd-Senegal sowie innerhalb Gambias abgewickelt wurde. Mit der Eröffnung der Senegambia-Brücke im Jahr 2019 hat sich die Dynamik der Stadt grundlegend gewandelt: Der Grenzverkehr fließt nun schneller, was den Handel beflügelt, aber auch das Gesicht der Stadt modernisiert hat. Farafenni beherbergt einen der größten Wochenmärkte (Lumo) der Region, auf dem Händler aus Gambia, Senegal und Guinea zusammenkommen, um Vieh, Textilien und landwirtschaftliche Produkte zu tauschen. Die Stadt ist zudem ein wichtiges medizinisches Zentrum mit dem Farafenni General Hospital, das die gesamte Nordregion versorgt. Geografisch ist die Umgebung von flacher Savanne und landwirtschaftlichen Flächen geprägt, auf denen vorwiegend Erdnüsse und Hirse angebaut werden. Für Reisende ist Farafenni ein unverzichtbarer Stopp auf dem Weg ins Landesinnere oder bei der Überquerung Zentral-Senegambias. Die Stadt symbolisiert die regionale Integration und die wirtschaftliche Verflechtung der westafrikanischen Nachbarstaaten.",
+        "hu": "Farafenni Gambia északi részének (North Bank Region) legfontosabb városa és kereskedelmi központja. A város stratégiai jelentőségét a Transz-Gambia autópálya és az északi parti főút kereszteződése adja, ami miatt a település a térség logisztikai motorjává vált. Farafenni évtizedekig a kompátkelőjéről volt híres, amely összekötötte Észak- és Dél-Szenegált, valamint Gambia két partját. A 2019-ben átadott Szenegambia-híd megnyitása alapjaiban változtatta meg a város életét, felgyorsítva az áruforgalmat és a regionális kereskedelmet. A városban rendezik meg a térség egyik legnagyobb heti piacát, az úgynevezett „Lumót”, ahol gambiai, szenegáli és guineai kereskedők találkoznak, hogy állatokkal, textilekkel és mezőgazdasági cikkekkel kereskedjenek. Farafenni nemcsak gazdasági, hanem egészségügyi és oktatási központ is: a városi kórház az egész északi országrész ellátásáért felelős. A környező tájat a lapos szavanna és a hatalmas földimogyoró-ültetvények uralják, amelyek a helyi gazdaság alapját képezik. Az utazók számára Farafenni az egyik legfontosabb állomás a szárazföldi utazások során, ahol megtapasztalható a határmenti kereskedelem lüktetése. A város jól példázza a nyugat-afrikai államok közötti gazdasági integrációt és az infrastrukturális fejlődés hatását a vidéki közösségekre.",
+        "ro": "Farafenni este cel mai important centru urban și comercial din regiunea North Bank a Gambiei, situat într-un punct strategic de pe autostrada Trans-Gambia. Poziția sa geografică l-a transformat într-un hub logistic esențial, fiind punctul de legătură între nordul și sudul Senegalului și o poartă către interiorul Gambiei. Timp de decenii, orașul a fost definit de activitatea feribotului de la Yelitenda, însă inaugurarea Podului Senegambia în 2019 a revoluționat tranzitul regional, transformând Farafenni într-un oraș în plină expansiune. Orașul este renumit pentru piața sa săptămânală de tip „Lumo”, care atrage comercianți din toată regiunea Senegambiei, fiind un loc de schimb vital pentru cereale, vite și mărfuri industriale. Farafenni joacă, de asemenea, un rol social major, găzduind Spitalul General Farafenni, una dintre cele mai mari unități medicale din afara zonei metropolitane Banjul. Peisajul înconjurător este tipic pentru savana sudaneză, dominat de culturi de arahide și mei. Din punct de vedere demografic, orașul este extrem de divers, reflectând dinamismul populațiilor migratoare și comerciale din Africa de Vest. Pentru călătorii care traversează Gambia, Farafenni oferă o imagine clară a efervescenței piețelor de frontieră și a progresului adus de noile conexiuni rutiere. Orașul rămâne un pilon al securității alimentare și al comerțului transfrontalier pentru întreaga regiune de nord a fluviului.",
+        "en": "Farafenni is the principal commercial and logistical hub of the North Bank Region in The Gambia, situated at the vital intersection of the Trans-Gambia Highway and the main north bank road. Its strategic location makes it the most important gateway for regional trade, linking northern and southern Senegal while providing access to the Gambian interior. Historically, the town was centered around the ferry crossing at Yelitenda, but the opening of the landmark Senegambia Bridge in 2019 has fundamentally accelerated the town’s growth and modernized its economy. Farafenni is famous for its large weekly 'Lumo' market, a cross-border trading event where merchants from Gambia, Senegal, and Guinea gather to trade livestock, textiles, and agricultural goods. Beyond its commercial role, the town is a critical service center, hosting the Farafenni General Hospital, which serves as a major referral facility for the entire northern half of the country. The surrounding landscape consists of flat Sudanian savanna, dominated by vast peanut and millet fields, which are the backbone of the local economy. For travelers, Farafenni is an essential stop-over, offering a window into the bustling, industrious nature of West African border towns. The city symbolizes regional integration and the transformative power of modern infrastructure in connecting remote African communities to global supply chains."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Farafenni ist die größte Stadt auf dem Nordufer des Gambia-Flusses.",
+          "Sie liegt am Trans-Gambia Highway, der Nord- und Südsenegal verbindet.",
+          "Der Wochenmarkt (Lumo) gehört zu den bedeutendsten in Westafrika.",
+          "Das Farafenni General Hospital ist ein zentrales medizinisches Versorgungszentrum.",
+          "Die Stadt hat durch den Bau der Senegambia-Brücke massiv an Bedeutung gewonnen.",
+          "In der Nähe befinden sich wichtige archäologische Stätten wie Steinkreise."
+        ],
+        "hu": [
+          "Farafenni a North Bank régió gazdasági fővárosa.",
+          "A városban található Gambia egyik legfontosabb katonai laktanyája.",
+          "A Szenegambia-híd átadása előtt a város élete a komphoz igazodott.",
+          "A heti piac (Lumo) napján a város népessége megduplázódik.",
+          "A környék a gambiai földimogyoró-termesztés központja.",
+          "A város népessége többségében mandinka és fula anyanyelvű."
+        ],
+        "ro": [
+          "Este situat la aproximativ 120 km în amonte de capitala Banjul.",
+          "Podul Senegambia de lângă Farafenni are o lungime de 1,9 kilometri.",
+          "Piața Lumo este esențială pentru comerțul transfrontalier cu Senegalul.",
+          "Farafenni găzduiește sedii importante pentru ONG-uri de sănătate.",
+          "Altitudinea orașului este redusă, fiind situat în câmpia inundabilă a fluviului.",
+          "Infrastructura feroviară lipsește, transportul fiind exclusiv rutier."
+        ],
+        "en": [
+          "Farafenni is the largest settlement on the north bank of the Gambia River.",
+          "It is a key transit point for the 'Gambia corridor' connecting Senegal.",
+          "The town is a major center for the trans-border livestock trade.",
+          "It hosts a significant military installation of the Gambia Armed Forces.",
+          "The Senegambia Bridge nearby is one of the longest in West Africa.",
+          "Farafenni serves as a primary logistical base for agricultural exports."
+        ]
+      }
+    }
+  ]
+}

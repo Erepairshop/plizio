@@ -48,7 +48,7 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höhe von ca. 1.850 Metern.", "Zentrum für Pyrethrum-Anbau.", "Tor zum Vulkan-Nationalpark.", "Nähe zu den Zwillingsseen Burera und Ruhondo.", "War früher als Ruhengeri bekannt.", "Wichtiger Ort für Gorilla-Tracking."],
-      hu: ["Kb. 1850 méteres magasság.", "Piretrum-termesztési központ.", "Kapu a Vulkánok Nemzeti Parkhoz.", "Közelség a Burera és Ruhondo ikertavakhoz.", "Korábban Ruhengeri néven volt ismert.", "Gorilla-túrák kiindulópontja."],
+      hu: ["Kb. 1850 méteres magasság.", "Piretrum-termesztési központ.", "Kapu a Vulkánok Nemzeti Parkhoz.", "Közelség a Burera és Ruhondo ikertavakhoz.", "Gorilla-túrák kiindulópontja."],
       ro: ["Altitudine de aprox. 1.850 de metri.", "Centru pentru cultivarea piretrului.", "Poartă către Parcul Național al Vulcanilor.", "Proximitatea față de lacurile gemene Burera și Ruhondo.", "Cunoscut anterior ca Ruhengeri.", "Loc important pentru tracking-ul gorilelor."],
       en: ["Altitude of approx. 1,850 meters.", "Center for pyrethrum cultivation.", "Gateway to Volcanoes National Park.", "Proximity to twin lakes Burera and Ruhondo.", "Formerly known as Ruhengeri.", "Important site for gorilla trekking."]
     }, image: "/poi-images/rwanda-musanze-cities-v2.webp"},

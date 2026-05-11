@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-damon-monument-history-v2",
+      "descriptionAdvancedDe": "Das Damon-Denkmal in Anna Regina, Essequibo, ehrt die Erinnerung an einen Helden des passiven Widerstands. Damon war ein Plantagenarbeiter, der 1834 einen friedlichen Protest gegen das 'Lehrlings'-System anführte, eine Form der fortgesetzten Knechtschaft nach der offiziellen Abschaffung der Sklaverei. Sein Protest bestand darin, sich mit anderen Arbeitern auf dem Gelände einer Kirche zu versammeln, um für ihre vollen Rechte zu beten und zu warten. Trotz des friedlichen Charakters wurde Damon als Anführer des Protests verhaftet, des Aufruhrs für schuldig befunden und vor dem Parlamentsgebäude in Georgetown gehängt. Die Bronzestatue, die ihn darstellt, wie er seine Ketten bricht, wurde 1988 errichtet. Sie ist eine ergreifende Erinnerung an den anhaltenden Kampf für wahre Freiheit und Gerechtigkeit und ehrt einen Mann, der für seine Überzeugungen das höchste Opfer brachte, ohne Gewalt anzuwenden.",
+      "descriptionAdvancedHu": "A Damon-emlékmű Anna Reginában, Essequibóban a passzív ellenállás hősének állít emléket. Damon egy ültetvényes munkás volt, aki 1834-ben békés tiltakozást vezetett a 'tanuló' rendszer ellen, amely a rabszolgaság hivatalos eltörlése után a szolgaság egyfajta folytatása volt. Tiltakozása abból állt, hogy más munkásokkal egy templom területén gyűlt össze, hogy imádkozzanak és várják a teljes jogaik biztosítását. A békés jelleg ellenére Damont, mint a tiltakozás vezetőjét letartóztatták, lázadásért bűnösnek találták, és a georgetowni parlament épülete előtt felakasztották. Az őt ábrázoló, láncait széttörő bronzszobrot 1988-ban állították fel. Megrendítő emlékeztető az igazi szabadságért és igazságosságért folytatott küzdelemre, és tiszteleg egy olyan ember előtt, aki erőszak nélkül hozta meg a legfőbb áldozatot a meggyőződéséért.",
+      "descriptionAdvancedRo": "Monumentul lui Damon din Anna Regina, Essequibo, onorează memoria unui erou al rezistenței pasive. Damon a fost un muncitor pe plantație care, în 1834, a condus un protest pașnic împotriva sistemului de 'ucenicie', o formă de servitute continuă după abolirea oficială a sclaviei. Protestul său a constat în adunarea împreună cu alți muncitori pe terenul unei biserici pentru a se ruga și a aștepta drepturile lor depline. În ciuda naturii pașnice a protestului, Damon, ca lider, a fost arestat, găsit vinovat de revoltă și spânzurat în fața Clădirii Parlamentului din Georgetown. Statuia de bronz, care îl înfățișează rupându-și lanțurile, a fost ridicată în 1988. Este un memento emoționant al luptei continue pentru libertate și justiție adevărată, onorând un om care a făcut sacrificiul suprem pentru convingerile sale fără a recurge la violență.",
+      "descriptionAdvancedEn": "The Damon Monument in Anna Regina, Essequibo, honors the memory of a hero of passive resistance. Damon was a plantation worker who, in 1834, led a peaceful protest against the 'apprenticeship' system, a form of continued servitude after the official abolition of slavery. His protest involved gathering with other workers in a churchyard to pray and wait for their full rights. Despite the peaceful nature of the protest, Damon, as its leader, was arrested, found guilty of rebellion, and hanged outside the Parliament Building in Georgetown. The bronze statue, which depicts him breaking his chains, was erected in 1988. It is a poignant reminder of the ongoing struggle for true freedom and justice, honoring a man who made the ultimate sacrifice for his beliefs without resorting to violence.",
+      "factsAdvanced": [
+        "Ehrt Damon, einen Anführer des passiven Widerstands von 1834.",
+        "Protestierte gegen das 'Lehrlings'-System nach Abschaffung der Sklaverei.",
+        "Der Protest war friedlich und fand auf einem Kirchengelände statt.",
+        "Damon wurde wegen Aufruhrs verurteilt und 1834 hingerichtet.",
+        "Die Bronzestatue wurde 1988 in Anna Regina errichtet.",
+        "Symbolisiert den Bruch der Ketten der Knechtschaft.",
+        "Ein Denkmal für gewaltlosen Widerstand.",
+        "Erinnert an den Kampf für vollständige Emanzipation."
+      ]
+    }
+  ]
+}

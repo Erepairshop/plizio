@@ -1,0 +1,27 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    { "id": "kenieba-cities-v2", "description": "Kéniéba este un oraș important în regiunea minieră a Mali-ului, cunoscut pentru exploatările sale aurifere.", "facts": ["Regiunea minieră", "Exploatarea aurului", "Vestul Mali"] },
+    { "id": "gourma-rharous-cities-v2", "description": "Gourma-Rharous este un oraș strategic situat de-a lungul fluviului Niger în estul Mali-ului.", "facts": ["Fluviul Niger", "Estul Mali", "Oraș strategic"] },
+    { "id": "dialakoroba-cities-v2", "description": "Dialakoroba este o localitate în plină dezvoltare în apropierea capitalei Bamako.", "facts": ["Aproape de Bamako", "Dezvoltare urbană", "Regiunea capitalei"] },
+    { "id": "diabaly-cities-v2", "description": "Diabaly este un oraș istoric în centrul Mali-ului, renumit pentru arhitectura sa tradițională din lut.", "facts": ["Arhitectură din lut", "Centrul Mali", "Importanță istorică"] },
+    { "id": "monument-alkabass-gao-landmarks-v2", "description": "Monumentul Alkabass din Gao este un simbol al istoriei locale și al identității culturale din această zonă saheliană.", "facts": ["Simbol cultural", "Gao", "Istorie locală"] },
+    { "id": "mopti-fishing-culture-life-v2", "description": "Cultura pescuitului în Mopti reflectă tradițiile seculare ale poporului Bozo pe fluviul Niger.", "facts": ["Tradiții Bozo", "Fluviul Niger", "Pescuit"] },
+    { "id": "segou-fruit-market-life-v2", "description": "Piața de fructe din Segou este un loc vibrant unde se vând produsele agricole proaspete ale văii Nigerului.", "facts": ["Valea Nigerului", "Produse proaspete", "Piață vibrantă"] },
+    { "id": "kayes-orchards-life-v2", "description": "Livezile din zona Kayes profită de solul fertil de lângă fluviul Senegal pentru a produce fructe variate.", "facts": ["Fluviul Senegal", "Producție fructe", "Sol fertil"] },
+    { "id": "sikasso-garden-life-v2", "description": "Grădinile din Sikasso sunt renumite pentru verdeața lor luxuriantă în sudul arid al țării.", "facts": ["Sudul Mali", "Grădini luxuriante", "Climat favorabil"] },
+    { "id": "fatoma-cattle-market-life-v2", "description": "Piața de vite din Fatoma este una dintre cele mai mari din Sahel, jucând un rol crucial în economia locală.", "facts": ["Cea mai mare piață", "Sahel", "Comerț cu vite"] },
+    { "id": "goundam-wetlands-life-v2", "description": "Zonele umede din Goundam sunt esențiale pentru biodiversitatea locală și pentru comunitățile de păstori.", "facts": ["Zone umede", "Biodiversitate", "Păstori"] },
+    { "id": "koulikoro-gardens-life-v2", "description": "Grădinile din Koulikoro sunt un exemplu de agricultură tradițională adaptată la malul fluviului.", "facts": ["Agricultură", "Koulikoro", "Adaptare locală"] },
+    { "id": "timbuktu-palm-groves-life-v2", "description": "Pădurile de palmieri din Timbuktu oferă o oază necesară în inima deșertului.", "facts": ["Oază în deșert", "Pădure de palmieri", "Timbuktu"] },
+    { "id": "goundam-livestock-life-v2", "description": "Goundam este un punct de referință pentru rutele nomade de comerț cu animale în nordul Mali.", "facts": ["Rute nomade", "Nordul Mali", "Comerț animale"] },
+    { "id": "bamako-market-life-v2", "description": "Piața din Bamako este inima economică a capitalei, oferind totul, de la textile la mirodenii exotice.", "facts": ["Inima economică", "Textile și mirodenii", "Bamako"] }
+  ]
+}

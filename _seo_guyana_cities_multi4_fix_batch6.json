@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "rosignol-cities-v2",
+      "descriptionAdvancedDe": "Rosignol ist eine geschäftige Hafenstadt am Westufer des Berbice-Flusses in der Region Mahaica-Berbice. Sie liegt direkt gegenüber von New Amsterdam und war historisch gesehen ein wichtiger Verkehrsknotenpunkt, der als Anlegestelle für die Fähre über den Berbice-Fluss diente, bevor die Berbice-Brücke gebaut wurde. Trotz des Baus der Brücke bleibt Rosignol ein wichtiges Handelszentrum. Der Markt ist einer der größten und lebhaftesten in der Region und zieht Verkäufer und Käufer aus der gesamten Westküste von Berbice an. Die Wirtschaft ist vielfältig und umfasst Handel, Fischerei und Landwirtschaft. Die Stadt ist ein Schmelztiegel der Kulturen und spiegelt die ethnische Vielfalt Guyanas wider. Rosignol ist bekannt für seine dynamische Atmosphäre und seine Rolle als wirtschaftlicher Motor für die Region.",
+      "descriptionAdvancedHu": "Rosignol egy nyüzsgő kikötőváros a Berbice folyó nyugati partján, a Mahaica-Berbice régióban. Közvetlenül Új-Amszterdammal szemben fekszik, és történelmileg fontos közlekedési csomópont volt, a Berbice folyón átkelő komp kikötőjeként szolgált a Berbice híd megépítése előtt. A híd megépítése ellenére Rosignol továbbra is fontos kereskedelmi központ. Piacja a régió egyik legnagyobb és legélénkebb piaca, amely eladókat és vásárlókat vonz egész Nyugat-Berbice partvidékéről. Gazdasága változatos, magában foglalja a kereskedelmet, a halászatot és a mezőgazdaságot. A város a kultúrák olvasztótégelye, tükrözve Guyana etnikai sokszínűségét. Rosignol dinamikus légköréről és a régió gazdasági motorjaként betöltött szerepéről ismert.",
+      "descriptionAdvancedRo": "Rosignol este un oraș portuar plin de viață, situat pe malul de vest al râului Berbice, în regiunea Mahaica-Berbice. Este situat direct vizavi de New Amsterdam și a fost istoric un nod de transport cheie, servind drept terminal pentru feribotul care traversa râul Berbice înainte de construirea podului Berbice. În ciuda podului, Rosignol rămâne un centru comercial important. Piața sa este una dintre cele mai mari și mai vibrante din regiune, atrăgând vânzători și cumpărători de pe întreaga coastă de vest a Berbice. Economia este diversificată, incluzând comerț, pescuit și agricultură. Orașul este un creuzet de culturi, reflectând diversitatea etnică a Guyanei. Rosignol este cunoscut pentru atmosfera sa dinamică și rolul său de motor economic pentru regiune.",
+      "descriptionAdvancedEn": "Rosignol is a bustling port town on the west bank of the Berbice River, opposite New Amsterdam. Before the construction of the Berbice Bridge, Rosignol was the primary terminal for the ferry service connecting the two banks, making it a vital transportation hub. While the bridge has changed traffic patterns, the town remains a significant commercial center for the West Berbice region. Its large, vibrant market is a focal point of economic activity, drawing vendors and shoppers from miles around. The economy is diverse, supported by fishing, agriculture, and a thriving retail sector. Rosignol's 'stelling' (wharf) area, though less busy than in its ferry-dominant days, continues to be important for local river transport and commerce. The town is a melting pot of ethnicities, contributing to its dynamic character.",
+      "factsAdvancedDe": [
+        "Liegt am Westufer des Berbice-Flusses.",
+        "Gegenüber von New Amsterdam.",
+        "War früher der Hauptterminal für die Berbice-Fähre.",
+        "Hat einen großen und lebhaften Markt.",
+        "Wirtschaft basiert auf Handel, Fischerei und Landwirtschaft.",
+        "Teil der Region Mahaica-Berbice.",
+        "Wichtiges Handelszentrum für West-Berbice.",
+        "Der Bau der Berbice-Brücke veränderte den Verkehr."
+      ],
+      "factsAdvancedHu": [
+        "A Berbice folyó nyugati partján található.",
+        "Új-Amszterdammal szemben fekszik.",
+        "Korábban a Berbice-komp fő kikötője volt.",
+        "Nagy és élénk piaca van.",
+        "Gazdasága a kereskedelemre, halászatra és mezőgazdaságra épül.",
+        "A Mahaica-Berbice régió része.",
+        "Fontos kereskedelmi központ Nyugat-Berbice számára.",
+        "A Berbice híd megépítése megváltoztatta a forgalmat."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe malul de vest al râului Berbice.",
+        "Vizavi de New Amsterdam.",
+        "A fost anterior principalul terminal pentru feribotul Berbice.",
+        "Are o piață mare și vibrantă.",
+        "Economia se bazează pe comerț, pescuit și agricultură.",
+        "Parte a regiunii Mahaica-Berbice.",
+        "Centru comercial important pentru Berbice de Vest.",
+        "Construcția podului Berbice a schimbat traficul."
+      ],
+      "factsAdvancedEn": [
+        "Located on the west bank of the Berbice River.",
+        "Opposite New Amsterdam.",
+        "Was formerly the main terminal for the Berbice ferry.",
+        "Has a large and vibrant market.",
+        "Economy based on commerce, fishing, and agriculture.",
+        "Part of the Mahaica-Berbice region.",
+        "Important commercial center for West Berbice.",
+        "The construction of the Berbice Bridge changed traffic."
+      ]
+    },
+    {
+      "id": "bush-lot-cities-v2",
+      "descriptionAdvancedDe": "Bush Lot ist ein großes Dorf in der Region Mahaica-Berbice an der Westküste von Berbice. Es ist eine überwiegend landwirtschaftliche Gemeinde, die für ihre Reis- und Viehzucht bekannt ist. Das Dorf erstreckt sich entlang der Hauptküstenstraße und ist von Reisfeldern und Weiden umgeben. Die Gemeinschaft ist für ihre starken indo-guyanischen kulturellen Traditionen bekannt, mit mehreren prominenten Mandirs (hinduistischen Tempeln) in der Gegend. Bush Lot ist auch für sein jährliches Phagwah-Fest bekannt, das Besucher aus der ganzen Region anzieht. Die Wirtschaft des Dorfes ist eng mit den Zyklen des Reisanbaus verbunden. Es ist ein Beispiel für die ländlichen Agrargemeinschaften, die das Rückgrat der landwirtschaftlichen Produktion Guyanas bilden.",
+      "descriptionAdvancedHu": "A Bush Lot egy nagy falu a Mahaica-Berbice régióban, Berbice nyugati partján. Túlnyomórészt mezőgazdasági közösség, amely rizs- és szarvasmarha-tenyésztéséről ismert. A falu a fő tengerparti út mentén terül el, rizsföldekkel és legelőkkel körülvéve. A közösség erős indo-guyanai kulturális hagyományairól ismert, a környéken több prominens mandir (hindu templom) található. A Bush Lot az éves Phagwah ünnepségéről is ismert, amely látogatókat vonz az egész régióból. A falu gazdasága szorosan kötődik a rizstermesztés ciklusaihoz. Példája azoknak a vidéki agrárközösségeknek, amelyek Guyana mezőgazdasági termelésének gerincét alkotják.",
+      "descriptionAdvancedRo": "Bush Lot este un sat mare din regiunea Mahaica-Berbice, pe coasta de vest a Berbice. Este o comunitate predominant agricolă, cunoscută pentru cultivarea orezului și creșterea vitelor. Satul se întinde de-a lungul drumului principal de coastă și este înconjurat de câmpuri de orez și pășuni. Comunitatea este cunoscută pentru tradițiile sale culturale indo-guyaneze puternice, cu mai multe mandire (temple hinduse) proeminente în zonă. Bush Lot este, de asemenea, renumit pentru sărbătoarea sa anuală Phagwah, care atrage vizitatori din întreaga regiune. Economia satului este strâns legată de ciclurile de cultivare a orezului. Este un exemplu de comunități agrare rurale care formează coloana vertebrală a producției agricole a Guyanei.",
+      "descriptionAdvancedEn": "Bush Lot is a large village located on the West Coast of Berbice in the Mahaica-Berbice region. It is a major agricultural hub, particularly known for its extensive rice cultivation and cattle rearing. The village stretches for several miles along the public road, characterized by vast rice fields and pasture lands. The community is predominantly Indo-Guyanese and is a stronghold of Hindu culture, with several large and ornate mandirs. Bush Lot is a self-contained community with its own market, schools, and health center, serving a large rural population. The pace of life is tied to the agricultural seasons, and the village exemplifies the agrarian lifestyle that is central to this region of Guyana.",
+      "factsAdvancedDe": [
+        "Liegt in der Region Mahaica-Berbice.",
+        "Wichtiges Zentrum für Reis- und Viehzucht.",
+        "Das Dorf erstreckt sich entlang der Küstenstraße.",
+        "Überwiegend indo-guyanische Gemeinschaft.",
+        "Beherbergt mehrere kunstvolle Hindu-Tempel.",
+        "Verfügt über einen eigenen Markt und ein Gesundheitszentrum.",
+        "Das Leben wird von den landwirtschaftlichen Jahreszeiten bestimmt.",
+        "Beispiel für den agrarischen Lebensstil."
+      ],
+      "factsAdvancedHu": [
+        "A Mahaica-Berbice régióban található.",
+        "Fontos rizs- és szarvasmarha-tenyésztő központ.",
+        "A falu a tengerparti út mentén húzódik.",
+        "Túlnyomórészt indo-guyanai közösség.",
+        "Számos díszes hindu templomnak ad otthont.",
+        "Saját piaccal és egészségügyi központtal rendelkezik.",
+        "Az élet ritmusát a mezőgazdasági szezonok határozzák meg.",
+        "A vidéki, agrár életmód mintapéldája."
+      ],
+      "factsAdvancedRo": [
+        "Situat în regiunea Mahaica-Berbice.",
+        "Centru important pentru cultivarea orezului și creșterea vitelor.",
+        "Satul se întinde de-a lungul drumului de coastă.",
+        "Comunitate predominant indo-guyaneză.",
+        "Găzduiește mai multe temple hinduse ornate.",
+        "Are propria piață și centru de sănătate.",
+        "Ritmul vieții este determinat de sezoanele agricole.",
+        "Exemplu de stil de viață agrar."
+      ],
+      "factsAdvancedEn": [
+        "Located in the Mahaica-Berbice region.",
+        "Major hub for rice cultivation and cattle rearing.",
+        "The village stretches along the coastal road.",
+        "Predominantly Indo-Guyanese community.",
+        "Home to several ornate Hindu temples.",
+        "Has its own market and health center.",
+        "The rhythm of life is set by the agricultural seasons.",
+        "An example of the agrarian lifestyle."
+      ]
+    },
+    {
+      "id": "fyrish-cities-v2",
+      "descriptionAdvancedDe": "Fyrish ist ein Dorf an der Corentyne-Küste in der Region East Berbice-Corentyne. Es liegt in der Nähe von Albion und ist Teil des Zuckerrohrgürtels von Berbice. Die Wirtschaft der Gemeinde war historisch eng mit dem Albion-Zuckeranwesen verbunden, auf dem viele Einwohner beschäftigt waren. Fyrish ist überwiegend eine indo-guyanische Gemeinde, und die Kultur des Dorfes spiegelt dieses Erbe wider. Es ist ein Wohngebiet mit einigen kleinen Unternehmen und landwirtschaftlichen Betrieben. Wie viele andere Dörfer in der Region hat Fyrish mit den Herausforderungen zu kämpfen, die sich aus dem Niedergang der Zuckerindustrie ergeben, und sucht nach alternativen wirtschaftlichen Möglichkeiten. Die Gemeinde ist bekannt für ihre widerstandsfähige Gemeinschaft und ihre starken familiären Bindungen.",
+      "descriptionAdvancedHu": "A Fyrish egy falu a Corentyne-parton, az East Berbice-Corentyne régióban. Albion közelében fekszik, és a berbice-i cukornádöv része. A közösség gazdasága történelmileg szorosan kötődött az Albion cukorgyárhoz, ahol sok lakos dolgozott. Fyrish túlnyomórészt indo-guyanai közösség, és a falu kultúrája ezt az örökséget tükrözi. Ez egy lakóövezet, néhány kisvállalkozással és mezőgazdasági parcellával. Mint sok más falu a régióban, Fyrish is küzd a cukoripar hanyatlásából adódó kihívásokkal, és alternatív gazdasági lehetőségeket keres. A közösség ellenálló képességéről és erős családi kötelékeiről ismert.",
+      "descriptionAdvancedRo": "Fyrish este un sat de pe coasta Corentyne din regiunea East Berbice-Corentyne. Este situat în apropiere de Albion și face parte din centura de trestie de zahăr din Berbice. Economia comunității a fost istoric strâns legată de moșia de zahăr Albion, unde au fost angajați mulți locuitori. Fyrish este predominant o comunitate indo-guyaneză, iar cultura satului reflectă această moștenire. Este o zonă rezidențială, cu câteva mici afaceri și terenuri agricole. La fel ca multe alte sate din regiune, Fyrish se luptă cu provocările care decurg din declinul industriei zahărului și caută oportunități economice alternative. Comunitatea este cunoscută pentru rezistența sa și pentru legăturile familiale puternice.",
+      "descriptionAdvancedEn": "Fyrish is a village on the Corentyne coast of East Berbice-Corentyne. It is located near the larger settlements of Albion and Port Mourant. The village's history and economy are tied to the sugar industry, specifically the Albion Sugar Estate, which provided employment for generations of residents. Fyrish is a predominantly Indo-Guyanese community, and its social fabric is woven with rich cultural and religious traditions. The community is largely residential, with residents also engaged in small-scale farming and commerce. With the decline of the sugar industry, the village, like its neighbors, is exploring new avenues for economic sustenance, showcasing the resilience of Guyana's rural communities.",
+      "factsAdvancedDe": [
+        "Liegt an der Corentyne-Küste, Region East Berbice-Corentyne.",
+        "In der Nähe von Albion und Port Mourant gelegen.",
+        "Geschichte und Wirtschaft mit der Zuckerindustrie verbunden.",
+        "Die Albion-Zuckerfabrik war der Hauptarbeitgeber.",
+        "Überwiegend indo-guyanische Gemeinschaft.",
+        "Reiche kulturelle und religiöse Traditionen.",
+        "Steht vor Herausforderungen durch den Niedergang der Zuckerindustrie.",
+        "Gemeinde erschließt Kleinhandel und Landwirtschaft."
+      ],
+      "factsAdvancedHu": [
+        "A Corentyne-parton, az East Berbice-Corentyne régióban található.",
+        "Albion és Port Mourant közelében fekszik.",
+        "Történelme és gazdasága a cukoriparhoz kötődik.",
+        "Az Albion cukorgyár volt a fő munkaadó.",
+        "Túlnyomórészt indo-guyanai közösség.",
+        "Gazdag kulturális és vallási hagyományokkal rendelkezik.",
+        "A cukoripar hanyatlása kihívások elé állítja.",
+        "A közösség a kiskereskedelem és a gazdálkodás felé is nyit."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe coasta Corentyne, regiunea East Berbice-Corentyne.",
+        "Amplasat lângă Albion și Port Mourant.",
+        "Istoria și economia sunt legate de industria zahărului.",
+        "Moșia de zahăr Albion a fost principalul angajator.",
+        "Comunitate predominant indo-guyaneză.",
+        "Tradiții culturale și religioase bogate.",
+        "Se confruntă cu provocări din cauza declinului industriei zahărului.",
+        "Comunitatea explorează comerțul cu amănuntul și agricultura."
+      ],
+      "factsAdvancedEn": [
+        "Located on the Corentyne coast, East Berbice-Corentyne region.",
+        "Situated near Albion and Port Mourant.",
+        "History and economy are tied to the sugar industry.",
+        "The Albion Sugar Estate was the main employer.",
+        "Predominantly Indo-Guyanese community.",
+        "Rich cultural and religious traditions.",
+        "Facing challenges from the decline of the sugar industry.",
+        "Community is exploring retail and farming."
+      ]
+    },
+    {
+      "id": "albion-cities-v2",
+      "descriptionAdvancedDe": "Albion ist eine bedeutende Gemeinde an der Corentyne-Küste in der Region East Berbice-Corentyne. Ihre Bedeutung ergibt sich aus dem Standort des Albion-Zuckeranwesens, einer der größten und produktivsten Zuckerfabriken des Landes, die von GuySuCo betrieben wird. Das Anwesen war jahrzehntelang das wirtschaftliche Herz der Region und beschäftigte Tausende von Arbeitern. Die Gemeinde Albion entwickelte sich, um diese riesige Belegschaft unterzubringen. Die Bevölkerung ist überwiegend indo-guyanisch, deren Vorfahren aus Indien kamen, um auf den Plantagen zu arbeiten. Albion ist auch ein Sportzentrum, das für den Albion Sports Complex bekannt ist, ein erstklassiges Cricket-Stadion, in dem regionale und internationale Spiele ausgetragen wurden. Trotz der Krise in der Zuckerindustrie bleibt das Albion-Anwesen für die guyanische Wirtschaft von entscheidender Bedeutung.",
+      "descriptionAdvancedHu": "Albion egy jelentős közösség a Corentyne-parton, az East Berbice-Corentyne régióban. Jelentőségét az Albion cukorgyár adja, amely az ország egyik legnagyobb és legtermelékenyebb, a GuySuCo által üzemeltetett cukorgyára. A birtok évtizedekig a régió gazdasági szíve volt, és munkások ezreit foglalkoztatta. Az Albion közösség e hatalmas munkaerő elszállásolására fejlődött ki. A lakosság túlnyomórészt indo-guyanai, akiknek ősei Indiából érkeztek, hogy az ültetvényeken dolgozzanak. Albion egyben sportközpont is, amely az Albion Sportkomplexumról ismert, egy elsőrangú krikettstadionról, ahol regionális és nemzetközi mérkőzéseket is rendeztek. A cukoripar válsága ellenére az Albion birtok továbbra is létfontosságú a guyanai gazdaság számára.",
+      "descriptionAdvancedRo": "Albion este o comunitate importantă de pe coasta Corentyne din regiunea East Berbice-Corentyne. Importanța sa derivă din faptul că este locația moșiei de zahăr Albion, una dintre cele mai mari și mai productive fabrici de zahăr din țară, operată de GuySuCo. Moșia a fost inima economică a regiunii timp de decenii, angajând mii de muncitori. Comunitatea Albion s-a dezvoltat pentru a găzdui această forță de muncă vastă. Populația este predominant indo-guyaneză, ai cărei strămoși au venit din India pentru a lucra pe plantații. Albion este, de asemenea, un centru sportiv, cunoscut pentru Complexul Sportiv Albion, un stadion de cricket de prim rang care a găzduit meciuri regionale și internaționale. În ciuda crizei din industria zahărului, moșia Albion rămâne vitală pentru economia Guyanei.",
+      "descriptionAdvancedEn": "Albion is a major community on the Corentyne Coast, renowned as the home of the Albion Sugar Estate, one of the most important sugar factories in Guyana. For decades, the estate, managed by the Guyana Sugar Corporation (GuySuCo), has been the economic engine of the region, providing employment for thousands. The surrounding villages, including Albion itself, are deeply connected to the fortunes of the sugar industry. The population is predominantly Indo-Guyanese, descendants of indentured laborers. Albion is also famous for the Albion Sports Complex, a premier cricket ground in the Caribbean that has hosted international matches. The presence of the estate and the sports complex makes Albion a vital hub in the East Berbice-Corentyne region.",
+      "factsAdvancedDe": [
+        "Heimat des Albion-Zuckeranwesens.",
+        "Eine der wichtigsten Zuckerfabriken des Landes.",
+        "Betrieben von GuySuCo.",
+        "War der wirtschaftliche Motor der Region.",
+        "Bevölkerung überwiegend indo-guyanisch.",
+        "Berühmt für den Albion Sports Complex, ein Cricket-Stadion.",
+        "Austragungsort internationaler Cricket-Spiele.",
+        "Wichtiger Knotenpunkt in der Region East Berbice-Corentyne."
+      ],
+      "factsAdvancedHu": [
+        "Itt található az Albion cukorgyár.",
+        "Az ország egyik legfontosabb cukorgyára.",
+        "A GuySuCo üzemelteti.",
+        "A régió gazdasági motorja volt.",
+        "A lakosság túlnyomórészt indo-guyanai.",
+        "Híres az Albion Sportkomplexumról, egy krikettstadionról.",
+        "Nemzetközi krikettmérkőzéseknek adott otthont.",
+        "Az East Berbice-Corentyne régió létfontosságú központja."
+      ],
+      "factsAdvancedRo": [
+        "Găzduiește moșia de zahăr Albion.",
+        "Una dintre cele mai importante fabrici de zahăr din țară.",
+        "Operată de GuySuCo.",
+        "A fost motorul economic al regiunii.",
+        "Populație predominant indo-guyaneză.",
+        "Renumit pentru Complexul Sportiv Albion, un teren de cricket.",
+        "A găzduit meciuri internaționale de cricket.",
+        "Nod vital în regiunea East Berbice-Corentyne."
+      ],
+      "factsAdvancedEn": [
+        "Home to the Albion Sugar Estate.",
+        "One of the country's most important sugar factories.",
+        "Operated by GuySuCo.",
+        "Was the economic engine of the region.",
+        "Population is predominantly Indo-Guyanese.",
+        "Famous for the Albion Sports Complex, a cricket ground.",
+        "Has hosted international cricket matches.",
+        "A vital hub in the East Berbice-Corentyne region."
+      ]
+    },
+    {
+      "id": "port-mourant-cities-v2",
+      "descriptionAdvancedDe": "Port Mourant ist eine große Gemeinde an der Corentyne-Küste in Guyana, die eine wichtige Rolle in der Geschichte und Wirtschaft des Landes spielt. Es war einst eine geschäftige Hafen- und Plantagenstadt, die für ihre Zuckerproduktion bekannt war. Port Mourant ist besonders berühmt als Geburtsort von Dr. Cheddi Jagan, einem der Gründungsväter des modernen Guyana und ehemaligen Präsidenten. Die Gemeinde ist auch bekannt für die Ausbildung mehrerer Weltklasse-Cricketspieler, die im Port Mourant Cricket Club spielten. Die Wirtschaft basiert weiterhin auf der Landwirtschaft, insbesondere dem Zuckerrohr- und Reisanbau. Die Gemeinde hat einen lebhaften Markt und ist ein wichtiges Handelszentrum für die umliegenden Dörfer. Ihre reiche Geschichte und ihr kultureller Beitrag machen sie zu einer der bemerkenswertesten Gemeinden in Guyana.",
+      "descriptionAdvancedHu": "Port Mourant egy nagy közösség Guyana Corentyne-partján, amely fontos szerepet játszik az ország történelmében és gazdaságában. Egykor nyüzsgő kikötő- és ültetvényváros volt, amely cukortermeléséről volt ismert. Port Mourant különösen híres arról, hogy itt született Dr. Cheddi Jagan, a modern Guyana egyik alapító atyja és egykori elnöke. A közösség arról is ismert, hogy több világklasszis krikettjátékost nevelt ki, akik a Port Mourant Krikettklubban játszottak. A gazdaság továbbra is a mezőgazdaságon, különösen a cukornád- és rizstermesztésen alapul. A közösségnek élénk piaca van, és fontos kereskedelmi központ a környező falvak számára. Gazdag történelme és kulturális hozzájárulása teszi Guyana egyik legfigyelemreméltóbb közösségévé.",
+      "descriptionAdvancedRo": "Port Mourant este o comunitate mare de pe coasta Corentyne din Guyana, care joacă un rol important în istoria și economia țării. A fost odată un oraș portuar și de plantație plin de viață, cunoscut pentru producția sa de zahăr. Port Mourant este deosebit de renumit ca fiind locul de naștere al Dr. Cheddi Jagan, unul dintre părinții fondatori ai Guyanei moderne și fost președinte. Comunitatea este, de asemenea, cunoscută pentru că a format mai mulți jucători de cricket de talie mondială care au jucat la Clubul de Cricket Port Mourant. Economia continuă să se bazeze pe agricultură, în special pe cultivarea trestiei de zahăr și a orezului. Comunitatea are o piață plină de viață și este un centru comercial important pentru satele din jur. Istoria sa bogată și contribuțiile culturale o fac una dintre cele mai notabile comunități din Guyana.",
+      "descriptionAdvancedEn": "Port Mourant is a large community on the Corentyne Coast of Guyana with significant historical and cultural importance. It is famously the birthplace of Dr. Cheddi Jagan, a pivotal figure in Guyana's struggle for independence and a former president. The community's economy was built on the Port Mourant Sugar Estate. While the sugar industry's dominance has waned, agriculture, particularly rice farming and cash crops, remains vital. Port Mourant is also renowned for its contribution to cricket, having produced several legendary West Indies cricketers through the Port Mourant Cricket Club. The town features a large hospital, a vibrant market, and is an important commercial center for the central Corentyne area.",
+      "factsAdvancedDe": [
+        "Geburtsort von Dr. Cheddi Jagan, einem Gründungsvater Guyanas.",
+        "Wirtschaft basierte auf dem Port Mourant Zuckeranwesen.",
+        "Berühmt für den Port Mourant Cricket Club.",
+        "Hat mehrere legendäre Cricketspieler hervorgebracht.",
+        "Heute dominieren Reis- und Nutzpflanzenanbau.",
+        "Verfügt über ein großes Krankenhaus.",
+        "Hat einen lebhaften Markt.",
+        "Handelszentrum für die zentrale Corentyne-Region."
+      ],
+      "factsAdvancedHu": [
+        "Dr. Cheddi Jagan, Guyana egyik alapító atyjának szülőhelye.",
+        "Gazdasága a cukorültetvényen alapult.",
+        "Híres a Port Mourant Krikettklubról.",
+        "Több legendás krikettjátékost nevelt ki.",
+        "Ma a rizs- és egyéb termények termesztése a meghatározó.",
+        "Fontos kórháznak ad otthont.",
+        "Élénk piaca van.",
+        "A Corentyne központi részének kereskedelmi központja."
+      ],
+      "factsAdvancedRo": [
+        "Locul de naștere al Dr. Cheddi Jagan, unul dintre părinții fondatori ai Guyanei.",
+        "Economia s-a bazat pe moșia de zahăr Port Mourant.",
+        "Renumit pentru Clubul de Cricket Port Mourant.",
+        "A produs mai mulți jucători de cricket legendari.",
+        "Astăzi, cultivarea orezului și a altor culturi este dominantă.",
+        "Dispune de un spital mare.",
+        "Are o piață vibrantă.",
+        "Centru comercial pentru zona centrală Corentyne."
+      ],
+      "factsAdvancedEn": [
+        "Birthplace of Dr. Cheddi Jagan, a founding father of Guyana.",
+        "Economy was built on the Port Mourant Sugar Estate.",
+        "Renowned for the Port Mourant Cricket Club.",
+        "Produced several legendary cricketers.",
+        "Today, rice and cash crop farming are dominant.",
+        "Features a large hospital.",
+        "Has a vibrant market.",
+        "Commercial center for the central Corentyne area."
+      ]
+    }
+  ]
+}

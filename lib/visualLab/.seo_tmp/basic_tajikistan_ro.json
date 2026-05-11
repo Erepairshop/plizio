@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khujand-cities-v2",
+      "description": "Unul dintre cele mai vechi orașe din Asia Centrală, situat pe malul râului Sîrdaria.",
+      "facts": ["Fondat acum 2500 ani", "Centru industrial major", "Situat în Valea Fergana"]
+    },
+    {
+      "id": "kulob-cities-v2",
+      "description": "Un oraș cu o istorie bogată, renumit pentru centrele sale culturale și educaționale din sudul țării.",
+      "facts": ["Unul dintre cele mai vechi orașe", "Centru regional istoric", "Situat la poalele munților"]
+    },
+    {
+      "id": "vahdat-cities-v2",
+      "description": "Oraș situat în apropierea capitalei Dușanbe, servind drept nod de transport important în regiune.",
+      "facts": ["Situat pe râul Kofarnihon", "Nod rutier și feroviar", "Populație urbană în creștere"]
+    },
+    {
+      "id": "tursunzoda-cities-v2",
+      "description": "Centru industrial important, cunoscut în special pentru prelucrarea aluminiului la nivel național.",
+      "facts": ["Centru de topire a aluminiului", "Situat în vestul țării", "Economie bazată pe industrie"]
+    },
+    {
+      "id": "konibodom-cities-v2",
+      "description": "Oraș istoric situat în Valea Fergana, renumit pentru tradițiile sale meșteșugărești și agricultura intensivă.",
+      "facts": ["Situat în Valea Fergana", "Centru agricol important", "Tradiții în fabricarea bumbacului"]
+    },
+    {
+      "id": "isfara-cities-v2",
+      "description": "Oraș pitoresc situat la poalele munților Turkestan, cunoscut pentru livezile sale de caise.",
+      "facts": ["Faimos pentru producția de caise", "Situat la granița montană", "Climat favorabil agriculturii"]
+    },
+    {
+      "id": "panjakent-cities-v2",
+      "description": "Oraș antic legat de civilizația sogdiană, renumit pentru siturile sale arheologice valoroase.",
+      "facts": ["Sediul civilizației antice sogdiene", "Sit arheologic protejat", "Situat pe râul Zeravșan"]
+    },
+    {
+      "id": "khorugh-cities-v2",
+      "description": "Centrul administrativ al Regiunii Autonome Gorno-Badahșan, situat la confluența râurilor Gund și Panj.",
+      "facts": ["Capitala regiunii Badahșan", "Situat la mare altitudine", "Poartă către Munții Pamir"]
+    },
+    {
+      "id": "yovon-cities-v2",
+      "description": "Oraș în dezvoltare rapidă, beneficiind de resurse agricole și industriale importante în regiunea Hatlon.",
+      "facts": ["Centru industrial local", "Dezvoltare economică activă", "Zona fertilă Hatlon"]
+    },
+    {
+      "id": "hisor-cities-v2",
+      "description": "Oraș cu o moștenire istorică semnificativă, cunoscut pentru cetatea sa bine conservată din perioada medievală.",
+      "facts": ["Celebru pentru cetatea istorică", "Centru administrativ antic", "Situat aproape de Dușanbe"]
+    },
+    {
+      "id": "nurek-cities-v2",
+      "description": "Oraș cunoscut pentru barajul hidroelectric masiv situat pe râul Vakhsh, unul dintre cele mai înalte din lume.",
+      "facts": ["Baraj hidroelectric gigant", "Resursă energetică vitală", "Situat pe râul Vakhsh"]
+    },
+    {
+      "id": "farkhor-cities-v2",
+      "description": "Centru regional situat în apropierea graniței cu Afganistan, cu o istorie lungă de așezare umană.",
+      "facts": ["Poziție strategică la graniță", "Regiune agricolă fertilă", "Istorie așezată pe malul râului"]
+    },
+    {
+      "id": "vose-cities-v2",
+      "description": "Așezare agricolă situată în Valea Vakhsh, renumită pentru producția de bumbac și cereale.",
+      "facts": ["Centru de producție a bumbacului", "Situat în Valea Vakhsh", "Economie agrară locală"]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lang": "de",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jardin-botanique-dakar-life-v2",
+      "description": "Ein friedlicher botanischer Garten in Dakar, der eine Vielzahl lokaler und exotischer Pflanzenarten präsentiert. Er bietet einen grünen Rückzugsort inmitten der Stadt.",
+      "facts": ["Botanischer Garten", "Vielfältige Flora", "Grüne Oase in Dakar"]
+    },
+    {
+      "id": "culture-tomate-podor-life-v2",
+      "description": "Eine landwirtschaftlich geprägte Region um Podor, bekannt für ihren Tomatenanbau. Sie spielt eine wichtige Rolle für die lokale Versorgung.",
+      "facts": ["Zentrum des Tomatenanbaus", "Landwirtschaft in Podor", "Lokale Versorgung"]
+    },
+    {
+      "id": "centre-ecquestre-dakar-life-v2",
+      "description": "Ein Reitzentrum in Dakar, das Angebote für den Pferdesport und die Freizeitgestaltung bietet. Ein Ort für Pferdeliebhaber in der Hauptstadt.",
+      "facts": ["Reitzentrum in Dakar", "Pferdesport", "Freizeitangebot"]
+    },
+    {
+      "id": "musee-oceanographique-dakar-life-v2",
+      "description": "Ein Museum, das sich der Meeresforschung und der Ozeanografie widmet. Es präsentiert die maritime Vielfalt der senegalesischen Küste.",
+      "facts": ["Ozeanografisches Museum", "Meeresforschung", "Maritime Vielfalt"]
+    },
+    {
+      "id": "elevage-de-moutons-diourbel-life-v2",
+      "description": "Region, die für die Schafzucht bekannt ist und eine wirtschaftliche Bedeutung für die Viehwirtschaft der Gegend hat.",
+      "facts": ["Zentrum der Schafzucht", "Viehwirtschaft", "Wirtschaftsregion"]
+    },
+    {
+      "id": "reserve-de-faune-birdlife-v2",
+      "description": "Ein Schutzgebiet, das sich auf den Schutz und die Beobachtung von Vogelarten konzentriert. Ein wichtiger Lebensraum für die lokale Avifauna.",
+      "facts": ["Vogelschutzgebiet", "Wichtiger Lebensraum", "Vogelbeobachtung"]
+    },
+    {
+      "id": "ferme-aquacole-stlouis-life-v2",
+      "description": "Ein landwirtschaftlicher Betrieb in Saint-Louis, der sich auf Aquakultur spezialisiert hat. Er trägt zur lokalen Fischproduktion bei.",
+      "facts": ["Aquakulturbetrieb", "In Saint-Louis", "Lokale Fischproduktion"]
+    },
+    {
+      "id": "parc-des-singes-life-v2",
+      "description": "Ein Park, der sich dem Schutz und der Beobachtung von Affenarten in ihrer natürlichen Umgebung widmet. Ein Erlebnis für Tierfreunde.",
+      "facts": ["Park für Primatenschutz", "Schutz der Affenarten", "Beobachtungsort"]
+    },
+    {
+      "id": "jardin-des-enfants-life-v2",
+      "description": "Ein kinderfreundlicher Gartenpark in Dakar, der Raum für Spiel und Erholung bietet. Ein beliebter Ort für Familien.",
+      "facts": ["Kinder- und Familienpark", "Dakar", "Spiel und Erholung"]
+    },
+    {
+      "id": "centre-de-rehabilitation-life-v2",
+      "description": "Ein Zentrum, das sich der Rehabilitation verletzter Wildtiere widmet, um sie wieder in die Natur auszuwildern.",
+      "facts": ["Rehabilitationszentrum", "Wildtierschutz", "Wiederansiedlung"]
+    },
+    {
+      "id": "pointe-des-almadies-nature-v2",
+      "description": "Der westlichste Punkt des afrikanischen Festlandes, bekannt für seine beeindruckende Küstenlandschaft und Surf-Spots.",
+      "facts": ["Westlichster Punkt Afrikas", "Felsige Küste", "Bekanntes Surf-Ziel"]
+    },
+    {
+      "id": "iles-de-la-madeleine-nature-v2",
+      "description": "Ein Nationalpark-Archipel vor der Küste von Dakar, bekannt für seine unberührte Natur und seltene Vogelarten.",
+      "facts": ["Nationalpark-Archipel", "Vor der Küste Dakars", "Seltene Vogelarten"]
+    }
+  ]
+}

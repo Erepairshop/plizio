@@ -1,0 +1,52 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "legoland-california-life-v2",
+      "description": "LEGOLAND California ist ein Themenpark in Carlsbad, Kalifornien, der auf den beliebten LEGO-Bausteinen basiert. Er bietet Fahrgeschäfte, Shows und LEGO-Modelle.",
+      "facts": ["Themenpark in Carlsbad, Kalifornien.", "Basierend auf LEGO-Spielzeug.", "Geeignet für Familien mit kleinen Kindern."]
+    },
+    {
+      "id": "grand-teton-national-park-life-v2",
+      "description": "Der Grand-Teton-Nationalpark in Wyoming beeindruckt mit seiner majestätischen Bergkette der Teton Range, tiefblauen Seen und einer vielfältigen Tierwelt.",
+      "facts": ["Spektakuläre Teton Range.", "Jackson Lake und Jenny Lake.", "Wander- und Klettermöglichkeiten."]
+    },
+    {
+      "id": "seaworld-orlando-life-v2",
+      "description": "SeaWorld Orlando in Florida ist ein Meeres-Themenpark, der Aquarien, Fahrgeschäfte und Tiershows kombiniert. Er konzentriert sich auf Meerestiere und deren Schutz.",
+      "facts": ["Meeres-Themenpark in Florida.", "Orca-Shows und Aquarien.", "Forschung und Rettung von Meerestieren."]
+    },
+    {
+      "id": "zion-national-park-life-v2",
+      "description": "Der Zion-Nationalpark in Utah ist bekannt für seine dramatischen Sandstein-Canyons, steilen Klippen und die smaragdgrüne Vegetation. Der Virgin River fließt durch den Park.",
+      "facts": ["Beeindruckende Sandsteinformationen.", "Virgin River Schlucht.", "Beliebt für Wanderungen und Klettern."]
+    },
+    {
+      "id": "great-smoky-mountains-life-v2",
+      "description": "Der Great-Smoky-Mountains-Nationalpark an der Grenze zwischen Tennessee und North Carolina ist der meistbesuchte Nationalpark der USA. Er ist bekannt für seine Artenvielfalt und die nebligen Berge.",
+      "facts": ["Meistbesuchter Nationalpark der USA.", "Artenreiche Wälder.", "Fantastische Aussichtspunkte."]
+    },
+    {
+      "id": "knott-s-berry-farm-life-v2",
+      "description": "Knott's Berry Farm in Buena Park, Kalifornien, ist ein historischer Themenpark, der ursprünglich als Beerenfarm begann. Heute bietet er Achterbahnen und Unterhaltung.",
+      "facts": ["Historischer Themenpark in Kalifornien.", "Bekannt für seine Achterbahnen.", "Ursprünglich eine Beerenfarm."]
+    },
+    {
+      "id": "uinta-mountains-relief-v2",
+      "description": "Die Uinta Mountains in Utah sind eine Gebirgskette, die von Ost nach West verläuft und die höchsten Gipfel des Bundesstaates beherbergt. Sie sind Teil der Rocky Mountains.",
+      "facts": ["Ost-West-Ausrichtung.", "Höchste Gipfel Utahs.", "Beliebt bei Bergsteigern und Wanderern."]
+    },
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "description": "Die Sawtooth Mountains in Idaho sind eine zerklüftete und malerische Gebirgskette, die für ihre scharfen, zackigen Gipfel bekannt ist. Sie sind ein beliebtes Ziel für Outdoor-Aktivitäten.",
+      "facts": ["Zerklüftete Gipfel.", "Teil des Sawtooth National Recreation Area.", "Bietet Wander- und Angelmöglichkeiten."]
+    }
+  ]
+}

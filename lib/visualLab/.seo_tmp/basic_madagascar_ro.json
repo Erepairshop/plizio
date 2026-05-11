@@ -1,0 +1,58 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toamasina-port-economic-v2",
+      "description": "Cel mai mare port maritim din Madagascar, situat pe coasta de est, este esențial pentru comerțul exterior al insulei.",
+      "facts": ["Cel mai mare port malgaș", "Situat pe coasta estică", "Hub comercial major"]
+    },
+    {
+      "id": "fanalamanga-forestry-economic-v2",
+      "description": "O regiune forestieră importantă administrată pentru exploatarea sustenabilă a lemnului și conservarea biodiversității.",
+      "facts": ["Proiect de exploatare forestieră", "Focus pe sustenabilitate", "Localizat în estul insulei"]
+    },
+    {
+      "id": "maintirano-port-economic-v2",
+      "description": "Un port regional situat pe coasta de vest, deservind în principal transportul local și activitățile de pescuit.",
+      "facts": ["Port pe coasta vestică", "Centru de pescuit regional", "Acces limitat maritim"]
+    },
+    {
+      "id": "fianarantsoa-old-town-history-v2",
+      "description": "Orașul vechi din Fianarantsoa păstrează arhitectura colonială și tradițiile regale ale poporului Betsileo.",
+      "facts": ["Fondat în 1830", "Capitală culturală Betsileo", "Arhitectură colonială"]
+    },
+    {
+      "id": "fort-dauphin-tolanaro-history-v2",
+      "description": "Fondat de francezi în secolul al XVII-lea, a servit drept fortăreață strategică în sudul Madagascarului.",
+      "facts": ["Fondat în 1643", "Fortăreață istorică", "Situat în extremitatea sudică"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Un sit arheologic cu fortificații antice construite pe culmile stâncoase, datând din perioada regatului Merina.",
+      "facts": ["Sit arheologic Merina", "Fortificații pe stânci", "Protejează zonele înalte"]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "description": "O fostă stație colonială dezvoltată lângă pădurea protejată, utilizată pentru exploatarea resurselor naturale în perioada franceză.",
+      "facts": ["Stație din epoca colonială", "Lângă rezervație", "Istorie forestieră"]
+    },
+    {
+      "id": "toliara-colonial-center-history-v2",
+      "description": "Centrul istoric din Toliara reflectă trecutul colonial francez, fiind un fost nod comercial important în sud-vest.",
+      "facts": ["Nod comercial istoric", "Arhitectură de secol XIX", "Situat în zona aridă"]
+    },
+    {
+      "id": "cap-mined-diego-suarez-history-v2",
+      "description": "Zona istorică a Capului Miné a fost punct cheie de apărare militară pentru golful Diego Suarez (Antsiranana).",
+      "facts": ["Punct de apărare strategic", "Golful Diego Suarez", "Istorie militară"]
+    }
+  ]
+}

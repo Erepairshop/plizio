@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-southeastern-hills-relief-v2",
+      "description": "The southeastern hills form a rugged landscape that defines the topography of Trinidad's southern coastal region.",
+      "facts": ["Rugged hilly topography", "Southern coastal region", "Distinctive terrain"]
+    },
+    {
+      "id": "tt-arippo-valley-relief-v2",
+      "description": "Aripo Valley is characterized by its rolling terrain and lush greenery, situated within the northern part of Trinidad.",
+      "facts": ["Rolling valley terrain", "Lush northern region", "Scenic natural landscape"]
+    },
+    {
+      "id": "tt-caroni-plain-relief-v2",
+      "description": "The Caroni Plain is a broad, flat expanse that serves as a vital agricultural heartland for the island.",
+      "facts": ["Broad flat plains", "Agricultural heartland", "Key inland topography"]
+    },
+    {
+      "id": "tt-nariva-swamp-relief-v2",
+      "description": "The Nariva Swamp basin is a significant lowland area, central to the natural drainage and wetland topography of eastern Trinidad.",
+      "facts": ["Significant lowland basin", "Important wetland area", "Natural drainage region"]
+    },
+    {
+      "id": "tt-columbus-channel-relief-v2",
+      "description": "The Columbus Channel features a complex marine topography, separating Trinidad from the South American mainland.",
+      "facts": ["Marine channel topography", "Separates Trinidad from mainland", "Key maritime region"]
+    },
+    {
+      "id": "tt-guayaguayare-lowlands-relief-v2",
+      "description": "The lowlands of Guayaguayare encompass coastal plains that are integral to the southeastern geographic character of the island.",
+      "facts": ["Coastal lowland plains", "Southeastern geographic area", "Flat coastal landscape"]
+    },
+    {
+      "id": "tt-paria-coast-cliffs-relief-v2",
+      "description": "The dramatic cliffs of the Paria coast define the rugged and scenic northern shoreline of Trinidad.",
+      "facts": ["Rugged coastal cliffs", "Scenic northern shoreline", "Dramatic topography"]
+    },
+    {
+      "id": "tt-madamas-valley-relief-v2",
+      "description": "Madamas Valley is a picturesque interior lowland, set within the lush mountainous landscape of northern Trinidad.",
+      "facts": ["Picturesque interior valley", "Northern mountainous area", "Lush inland topography"]
+    },
+    {
+      "id": "tt-blanchisseuse-slopes-relief-v2",
+      "description": "The slopes of Blanchisseuse represent the steep and scenic transition between the Northern Range mountains and the Caribbean sea.",
+      "facts": ["Steep mountain slopes", "Transition to the sea", "Scenic northern region"]
+    },
+    {
+      "id": "tt-gran-couva-highlands-relief-v2",
+      "description": "The Gran Couva highlands form a central, hilly region known for its elevated terrain and agricultural heritage.",
+      "facts": ["Central hilly highlands", "Elevated island terrain", "Agricultural region"]
+    }
+  ]
+}

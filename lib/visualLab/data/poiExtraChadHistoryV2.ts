@@ -86,7 +86,7 @@ export const poiExtraChadHistoryV2: POI[] = [
       en: "Gaoui is a village near N'Djamena that was once the capital of the Sao civilization, one of the earliest complex societies in the Lake Chad region. The site is famous for its intricate pottery and terracotta artifacts, which show advanced craftsmanship and cultural depth from centuries ago. Gaoui now serves as a cultural museum and site, preserving the legacy of the Sao people, whose architectural styles and clay-work traditions significantly influenced regional aesthetics. History K7 — ancient civilizations of Africa."
     },
     factsAdvanced: {
-      en: ["Former capital of the ancient Sao civilization.", "Famous for unique terracotta and clay artifact findings.", "Known for its distinct traditional clay architecture.", "Located near the modern capital, N'Djamena.", "Preserves the artistic legacy of the early Sao society.", "Acts as a cultural museum for pre-colonial history."]
+      en: ["Famous for unique terracotta and clay artifact findings.", "Known for its distinct traditional clay architecture.", "Located near the modern capital, N'Djamena.", "Preserves the artistic legacy of the early Sao society.", "Acts as a cultural museum for pre-colonial history."]
     },
     
     

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "krapf-memorial-history-v2",
+      "description": "Ein Denkmal in Mombasa, das an den deutschen Missionar Ludwig Krapf erinnert, der die erste moderne Missionsstation in Ostafrika gründete.",
+      "facts": ["In Mombasa gelegen", "Gedenken an Ludwig Krapf", "Erste Swahili-Bibelübersetzung", "Frühe europäische Mission"]
+    },
+    {
+      "id": "fort-ternan-history-v2",
+      "description": "Eine archäologische Fundstelle im Westen Kenias, die für die Entdeckung des Kenyapithecus wickeri, eines frühen Vorfahren der Menschenaffen, bekannt ist.",
+      "facts": ["Prähistorische Fundstelle", "Kenyapithecus-Entdeckung", "Wichtige Primatenfossilien", "Geologisch bedeutend"]
+    },
+    {
+      "id": "italian-war-memorial-church-history-v2",
+      "description": "Eine kleine, malerische Kirche in Nyeri, die als Grabstätte für hunderte italienische Kriegsgefangene aus dem Zweiten Weltkrieg dient.",
+      "facts": ["Italienisches Erbe", "In Nyeri gelegen", "Kriegsdenkmal", "Kleine Ziegelsteinkirche"]
+    },
+    {
+      "id": "lokitaung-gorge-history-v2",
+      "description": "Eine Schlucht im Norden Kenias, die für ihre fossilen Funde aus dem Pliozän und Pleistozän sowie ihre dramatische Geologie bekannt ist.",
+      "facts": ["Nahe dem Turkana-See", "Fossile Wirbeltierfunde", "Wüstenlandschaft", "Archäologische Bedeutung"]
+    },
+    {
+      "id": "wajir-fort-history-v2",
+      "description": "Ein historisches Fort in der Stadt Wajir, das während der britischen Kolonialzeit zur Sicherung der Nordgrenze errichtet wurde.",
+      "facts": ["Koloniale Befestigung", "Im Nordosten Kenias", "Strategischer Grenzposten", "Kulturdenkmal"]
+    },
+    {
+      "id": "nandi-hills-history-v2",
+      "description": "Ein geschichtsträchtiges Hügelgebiet, das Schauplatz des Widerstands des Nandi-Volkes gegen die britische Kolonialisierung war.",
+      "facts": ["Widerstand der Nandi", "Koitalel Arap Samoei Museum", "Grüne Hügellandschaft", "Nahe Eldoret gelegen"]
+    },
+    {
+      "id": "makupa-causeway-history-v2",
+      "description": "Eine historische Verbindung zwischen der Insel Mombasa und dem Festland, die eine zentrale Rolle in der Logistik der Uganda-Bahn spielte.",
+      "facts": ["Verbindung zum Festland", "Eisenbahngeschichte", "Strategische Brücke", "Infrastruktur-Denkmal"]
+    },
+    {
+      "id": "pwani-mosque-history-v2",
+      "description": "Eine der ältesten Moscheen in Malindi, die ein wichtiges Zentrum des spirituellen Lebens und der Swahili-Architektur darstellt.",
+      "facts": ["In Malindi gelegen", "Alte Swahili-Moschee", "Religiöses Zentrum", "Korallenstein-Bauwerk"]
+    },
+    {
+      "id": "fort-smith-history-v2",
+      "description": "Eine ehemalige britische Garnison aus dem späten 19. Jahrhundert, die als wichtiger Stopp an der Karawanenroute nach Uganda diente.",
+      "facts": ["Koloniale Garnison", "Nahe Nairobi gelegen", "Uganda-Bahn-Route", "Gegründet um 1891"]
+    },
+    {
+      "id": "ishakani-ruins-history-v2",
+      "description": "Die Überreste einer Swahili-Siedlung im äußersten Norden der kenianischen Küste, bekannt für ihre verzierten Säulengräber.",
+      "facts": ["An der Nordküste", "Korallenstein-Gräber", "Swahili-Handelsplatz", "Abgelegene Ruinenstätte"]
+    }
+  ]
+}

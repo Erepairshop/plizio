@@ -1,0 +1,82 @@
+{
+  "lang": "hu",
+  "country": "argentina",
+  "files": ["lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "ar-c-buenos-aires-cities-v2",
+      "description": "Argentína fővárosa, az ország gazdasági és kulturális központja, amely a Río de la Plata torkolatánál fekszik. A város építészetére az európai, különösen a párizsi hatások a jellemzőek.",
+      "facts": ["Lakossága az agglomerációval együtt meghaladja a 15 millió főt.", "A tangó szülőhelyeként ismert kulturális metropolisz.", "Számos híres negyede közül La Boca a színes házairól ismert.", "A világ egyik leghosszabb sugárútja, az Avenida 9 de Julio itt található."]
+    },
+    {
+      "id": "ar-b-la-plata-cities-v2",
+      "description": "Buenos Aires tartomány székhelye, amelyet 1882-ben tervezett várossként alapítottak, sakktábla alaprajzzal és sugárutakkal. A város központjában található a monumentális neogótikus katedrális.",
+      "facts": ["A várost Dardo Rocha alapította 1882-ben.", "Sajátos, derékszögű és átlós utcahálózat jellemzi.", "Itt található az ország egyik legjelentősebb természettudományi múzeuma.", "A város központi parkja, a Bosque de La Plata több mint 60 hektáros."]
+    },
+    {
+      "id": "ar-b-mar-del-plata-cities-v2",
+      "description": "Argentína legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján, amely egész évben aktív kikötővel rendelkezik. Híres a kaszinóiról és a széles homokos strandjairól.",
+      "facts": ["Az 1874-ben alapított város az ország egyik leglátogatottabb turisztikai központja.", "Fontos halászati kikötő, amely jelentős szerepet játszik a gazdaságban.", "A város építészetét a 20. század eleji luxus villák határozzák meg.", "Évente több millió látogatót fogad a nyári szezonban."]
+    },
+    {
+      "id": "ar-b-bahia-blanca-cities-v2",
+      "description": "Fontos kikötőváros Argentína déli részén, Buenos Aires tartományban, amely a mezőgazdasági termékek exportjának egyik központja. A várostól nem messze található a mélyvízi Ingeniero White kikötő.",
+      "facts": ["A 19. században alapították katonai előőrsként.", "Az ország egyik legnagyobb gabonaexportáló központja.", "Kultúráját a nagy európai bevándorlási hullámok formálták.", "Fontos vasúti és közlekedési csomópont Patagónia felé."]
+    },
+    {
+      "id": "ar-b-tandil-cities-v2",
+      "description": "A Tandilia-hegység lábánál fekvő város, amely a mezőgazdaságáról és a minőségi kézműves élelmiszereiről, különösen a kolbászféléiről ismert. Népszerű célpont a természetkedvelők számára.",
+      "facts": ["Az 1823-ban alapított város környéke kiváló kirándulóhely.", "Híres a hagyományos 'salame' kolbászairól.", "A Cerro Centinela domb az egyik fő helyi nevezetesség.", "A város a Tandilia-hegység legmagasabb pontjainak közelében épült."]
+    },
+    {
+      "id": "ar-b-quilmes-cities-v2",
+      "description": "Buenos Aires nagyvárosi területének része, amely az azonos nevű híres sörgyárról ismert. Történelmileg egy őshonos közösség települése volt, mielőtt modern ipari várossá vált.",
+      "facts": ["Névadója a quilmes őslakos népcsoport volt.", "Itt működik Argentína egyik legnagyobb és legrégebbi sörfőzdéje.", "A város jelentős népességű lakóövezet Buenos Aires közvetlen szomszédságában.", "Fontos ipari és kereskedelmi csomópont a déli elővárosi körzetben."]
+    },
+    {
+      "id": "ar-b-lomas-de-zamora-cities-v2",
+      "description": "Sűrűn lakott lakóövezet Buenos Aires déli részén, amely számos zöld területtel és jelentős kereskedelmi központtal rendelkezik. A város a régió egyik leggyorsabban fejlődő adminisztratív központja.",
+      "facts": ["A nagy Buenos Aires-i agglomeráció szerves része.", "Jelentős oktatási intézmények találhatók a területén.", "A városnegyed parkjai fontos rekreációs lehetőséget nyújtanak.", "Aktív kereskedelmi élettel és számos bevásárlóközponttal rendelkezik."]
+    },
+    {
+      "id": "ar-b-san-isidro-cities-v2",
+      "description": "Előkelő lakóövezet Buenos Aires északi részén, amely a Río de la Plata partja mentén terül el. A várost történelmi épületei és a folyóparti kikötői jellemzik.",
+      "facts": ["A környék a 19. század óta a felsőbb társadalmi osztályok kedvelt lakhelye.", "Itt található a neoklasszikus stílusú San Isidro katedrális.", "A város jelentős vitorlásközpont és rekreációs zóna.", "Sok történelmi villa és kiterjedt zöldövezet található itt."]
+    },
+    {
+      "id": "ar-b-san-nicolas-de-los-arroyos-cities-v2",
+      "description": "Fontos ipari és kikötőváros a Paraná-folyó partján, amely történelmi jelentőséggel bír az argentin alkotmányozás folyamatában. Az ipar mellett a folyami hajózás is meghatározó szerepet tölt be.",
+      "facts": ["Itt írták alá az 1852-es San Nicolás-i megállapodást.", "A város jelentős acélipari központtal rendelkezik.", "A Szűzanya kegyhelye fontos zarándokhely az országban.", "A Paraná-folyó mentén stratégiai fontosságú kikötővel bír."]
+    },
+    {
+      "id": "ar-b-lanus-cities-v2",
+      "description": "Ipari és lakóváros a Buenos Aires-i agglomeráció déli övezetében. A terület a 20. század során fejlődött nagyvárosi központtá, és ma jelentős népességgel bír.",
+      "facts": ["Fontos közlekedési csomópont a városrészben.", "A város gazdasága nagymértékben alapozott az ipari termelésre.", "Jelentős sportkluboknak és közösségi tereknek ad otthont.", "Sűrű beépítettség jellemzi a város nagy részét."]
+    },
+    {
+      "id": "ar-k-catamarca-cities-v2",
+      "description": "San Fernando del Valle de Catamarca tartományi székhely az Andok lábánál, amely a gyarmati korból megőrzött vallási épületeiről ismert. A régió fontos kulturális és közigazgatási centruma.",
+      "facts": ["Az 1683-ban alapított város völgyi környezetben fekszik.", "A 'Virgen del Valle' bazilika az egyik legfontosabb zarándokhely.", "Gazdaságának alapja a mezőgazdaság és az ásványkincsek feldolgozása.", "A környező hegységek népszerűek a túrázók körében."]
+    },
+    {
+      "id": "ar-k-belen-cities-v2",
+      "description": "Catamarca tartomány egyik történelmi városa, amelyet a helyi kézműves szőttesek és a prekolumbián örökség tesz különlegessé. Az Andok lábánál található település nyugodt hangulatú.",
+      "facts": ["A várost 1681-ben alapították.", "Híres az ősi hagyományokat őrző kézműves textíliáiról.", "A környék számos régészeti lelőhelynek ad otthont.", "Az 'Andok bölcsőjének' is nevezik a környékbeliek."]
+    },
+    {
+      "id": "ar-k-andalgala-cities-v2",
+      "description": "Kisebb város Catamarca tartományban, amely a környező völgyek mezőgazdasági termeléséről és az ásványi forrásokról ismert. Fontos szerepet játszik a helyi bortermelésben.",
+      "facts": ["A várost a 17. században alapították.", "A régió a bányászatáról és a mezőgazdasági értékeiről ismert.", "Kellemes mikroklímája kedvező a gyümölcstermesztésnek.", "A környező hegyek gazdagok ásványi anyagokban."]
+    },
+    {
+      "id": "ar-h-resistencia-cities-v2",
+      "description": "Chaco tartomány székhelye, amelyet 'a szobrok városának' neveznek a köztereken kiállított számos alkotás miatt. Fontos gazdasági és kereskedelmi központ Észak-Argentínában.",
+      "facts": ["A városközpontban több mint 600 kültéri szobor található.", "A gyapottermesztés és az erdőgazdálkodás meghatározó gazdasági ágak.", "Az ország egyik legfontosabb kulturális csomópontja északon.", "A Paraná-folyóhoz közeli elhelyezkedése elősegíti a kereskedelmet."]
+    },
+    {
+      "id": "ar-h-presidencia-roque-saenz-pena-cities-v2",
+      "description": "Chaco tartomány második legnagyobb városa, amely a környékbeli mezőgazdasági termelés központja. A városról a híres termálvizes fürdője is ismert.",
+      "facts": ["Az 1912-ben alapított város központi szerepet játszik a mezőgazdaságban.", "Termálfürdői miatt kedvelt üdülési célpont a környéken.", "A város az 'Ezüst-főváros' nevet is viseli történelme során.", "Fontos oktatási és szolgáltató központ a tartományban."]
+    }
+  ]
+}

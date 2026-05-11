@@ -236,12 +236,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-80.1, 42.8],
     name: { de: "Nanticoke Stahlwerk", hu: "Nanticoke acélmű", ro: "Oțelăria Nanticoke", en: "Nanticoke Steel Plant" },
-    description: { de: "Großes Stahlwerk an den Großen Seen.", hu: "A nanticoke-i ipari övezet Ontario déli részének nehézipari térsége. A vas- és acélfeldolgozás mellett az energiaipar is meghatározó itt.", ro: "Nanticoke este asociat cu activit??i siderurgice din sudul Ontariului. Zona industrial? a sus?inut mult timp produc?ia de o?el ?i energie.", en: "Nanticoke is a major steel-industrial site on the Lake Erie shore in southern Ontario. It reflects the heavy-industry side of the Great Lakes economy." },
+    description: { de: "Großes Stahlwerk an den Großen Seen.", hu: "A nanticoke-i ipari övezet Ontario déli részének nehézipari térsége. A vas- és acélfeldolgozás mellett az energiaipar is meghatározó itt.", ro: "Nanticoke este asociat cu activit??i siderurgice din sudul Ontariului. Zona industrial? a sus?inut mult timp produc?ia de o?el ?i energie.", en: "One of North America's most modern steel-producing facilities, located on the north shore of Lake Erie." },
     facts: {
       de: ["Stahlproduktion", "Schwerindustrie"],
       hu: ["Dél-ontariói ipari térség", "A nehéziparhoz kötődik", "Acél- és energiaipari múltja van"],
       ro: ["Sudul Ontariului", "Industrie siderurgic?", "Legat de energie"],
-      en: ["On Lake Erie", "Part of southern Ontario heavy industry", "Linked to steel production"]
+      en: ["Opened in 1980", "Operated by Stelco", "Major industrial employer"]
     }, image: "/poi-images/nanticoke-steel-plant-economic-v2.webp"},
   {
     id: "columbia-river-hydro-economic-v2",
@@ -262,11 +262,11 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-79.8, 43.3],
     name: { de: "Hafen Hamilton", hu: "Hamiltoni kikötő", ro: "Portul Hamilton", en: "Port of Hamilton" },
-    description: { de: "Der Hafen von Hamilton am Ontariosee ist ein zentraler Umschlagpunkt der Großen Seen.", hu: "Hamilton kikötője az Ontario-tó nyugati medencéjének egyik legforgalmasabb áruforgalmi pontja. A város ipari arculatához szorosan kapcsolódik a nagy tömegű szállítmányozás.", ro: "Portul Hamilton este unul dintre punctele importante de marf? de pe Marile Lacuri. Sprijin? economia industrial? a ora?ului ?i traficul de m?rfuri.", en: "The Port of Hamilton is one of the most important inland ports on the Great Lakes. It supports shipping for steel, bulk cargo, and regional trade." },
+    description: { de: "Der Hafen von Hamilton ist der größte Frachthafen am Ontariosee und ein entscheidendes Drehkreuz für Kanadas Stahlindustrie.", hu: "Hamilton kikötője az Ontario-tó nyugati medencéjének egyik legforgalmasabb áruforgalmi pontja. A város ipari arculatához szorosan kapcsolódik a nagy tömegű szállítmányozás.", ro: "Cel mai mare port de pe Marile Lacuri canadiene, fiind un punct critic pentru transportul de oțel, produse agricole și marfă industrială.", en: "The Port of Hamilton is one of the most important inland ports on the Great Lakes. It supports shipping for steel, bulk cargo, and regional trade." },
     facts: {
-      de: ["Am Ontariosee", "Teil der Großen-Seen-Schifffahrt", "Wichtig für Stahl und Schüttgut"],
+      de: ["Umschlagplatz für über 10 Millionen Tonnen Fracht jährlich", "Wichtigster Exporthafen für die regionale Landwirtschaft", "Zentraler Knotenpunkt für den Schiffsverkehr im Sankt-Lorenz-Strom"],
       hu: ["Az Ontario-tó partján van", "Nagy áruforgalmat kezel", "Az ipari Hamilton része"],
-      ro: ["?n Hamilton, Ontario", "Pe Marile Lacuri", "Port de marf?"],
+      ro: ["Cel mai mare port din Ontario", "Peste 600 de nave anual", "Hub strategic pentru transport"],
       en: ["On Lake Ontario", "Major Great Lakes port", "Important for steel and bulk cargo"]
     }, image: "/poi-images/hamilton-port-economic-v2.webp"},
   {
@@ -275,9 +275,9 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-ON",
     coords: [-82.4, 43.0],
     name: { de: "Sarnia Chemiepark", hu: "Sarnia vegyipari park", ro: "Parcul chimic Sarnia", en: "Sarnia Chemical Park" },
-    description: { de: "Sarnia ist ein petrochemisches Zentrum am südlichen Ende des Huronsees.", hu: "Sarnia petrolkémiai övezete Kanada egyik legismertebb vegyipari központja. A St. Clair-folyó környéki ipar a finomításra és a feldolgozásra épül.", ro: "Sarnia este un centru petrochimic major din sud-vestul Ontariului. Rafinarea ?i procesarea chimic? definesc o mare parte din profilul s?u industrial.", en: "Sarnia is one of Canada's best-known petrochemical centres, located near the St. Clair River and Lake Huron. Its industrial zone is closely tied to refining and chemical production." },
+    description: { de: "Sarnia ist das Zentrum der kanadischen petrochemischen Industrie, oft als Chemical Valley bezeichnet, am Ausfluss des Lake Huron.", hu: "Sarnia petrolkémiai övezete Kanada egyik legismertebb vegyipari központja. A St. Clair-folyó környéki ipar a finomításra és a feldolgozásra épül.", ro: "Sarnia este un centru petrochimic major din sud-vestul Ontariului. Rafinarea ?i procesarea chimic? definesc o mare parte din profilul s?u industrial.", en: "Sarnia is one of Canada's best-known petrochemical centres, located near the St. Clair River and Lake Huron. Its industrial zone is closely tied to refining and chemical production." },
     facts: {
-      de: ["In Ontario", "Teil der Chemical Valley", "Stark in Raffinerien und Chemie"],
+      de: ["Konzentration von über 60 Chemieanlagen", "Standort großer Raffinerien und Forschungseinrichtungen", "Direkte Pipeline-Anbindung an westkanadische Ölfelder"],
       hu: ["Ontario délnyugati részén van", "Petrolkémiai központ", "A St. Clair-folyó közelében fekszik"],
       ro: ["Sud-vestul Ontariului", "Centru petrochimic", "Rafinare ?i chimie"],
       en: ["Part of Chemical Valley", "Near the St. Clair River", "Strong refining and chemical base"]
@@ -314,11 +314,11 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-AB",
     coords: [-112.0, 54.0],
     name: { de: "Ölsand Pipeline-Infrastruktur", hu: "Olajhomok csővezeték-hálózat", ro: "Infrastructura de conducte pentru nisipuri bituminoase", en: "Oil Sands Pipeline Infrastructure" },
-    description: { de: "Die Pipeline-Infrastruktur der Ölsande verbindet die Fördergebiete in Alberta mit Raffinerien und Exportwegen.", hu: "Az olajhomok vezetékes infrastruktúrája Alberta északi energiatérségének része. Az olaj szállítását köti össze a feldolgozó és exportáló pontokkal.", ro: "Infrastructura de conducte pentru nisipurile bituminoase sus?ine transportul energiei din Alberta. Ea leag? zonele de extrac?ie de rafin?rii ?i terminale.", en: "Oil sands pipeline infrastructure carries bitumen and crude oil from northern Alberta to refineries and export routes. It is a central part of Canada's energy network." },
+    description: { de: "Das umfassende Pipelinenetz Kanadas verbindet die Ölsande von Alberta mit Raffinerien und Exporthäfen in ganz Nordamerika.", hu: "Az olajhomok vezetékes infrastruktúrája Alberta északi energiatérségének része. Az olaj szállítását köti össze a feldolgozó és exportáló pontokkal.", ro: "O rețea vastă de conducte esențiale pentru transportul petrolului din nisipurile bituminoase ale Albertei către rafinăriile din America de Nord.", en: "Oil sands pipeline infrastructure carries bitumen and crude oil from northern Alberta to refineries and export routes. It is a central part of Canada's energy network." },
     facts: {
-      de: ["In Alberta", "Transport von Bitumen und Öl", "Zentrale Energieinfrastruktur"],
+      de: ["Transportiert Rohöl über Tausende Kilometer", "Lebensader der kanadischen Energiewirtschaft", "Beinhaltet große Systeme wie Enbridge und Trans Mountain"],
       hu: ["Alberta olajhomok-régiójához kötődik", "Szállítási hálózat", "Az energiaexportot szolgálja"],
-      ro: ["?n Alberta", "Legat? de nisipurile bituminoase", "Transport energetic"],
+      ro: ["Infrastructură energetică vitală", "Mii de kilometri lungime", "Impact economic major"],
       en: ["Located in Alberta", "Moves bitumen and crude oil", "Core energy infrastructure"]
     }, image: "/poi-images/oilsands-pipe-infrastructure-economic-v2.webp"},
   {
@@ -327,11 +327,11 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-NL",
     coords: [-52.7, 47.5],
     name: { de: "Hafen St. John's", hu: "St. John's-i kikötő", ro: "Portul St. John's", en: "Port of St. John's" },
-    description: { de: "Wichtiger Hafen an der Ostküste von Neufundland.", hu: "St. John's kikötője Newfoundland és Labrador legfontosabb tengeri kapcsolatai közé tartozik. A halászat, a teherforgalom és az atlanti kereskedelem is fontos benne.", ro: "Portul din St. John's este poarta maritim? principal? a Newfoundland and Labrador. Sus?ine comer?ul, pescuitul ?i leg?turile oceanice.", en: "The Port of St. John's is a deepwater harbour on Newfoundland's Atlantic coast. It serves as a supply base for shipping, offshore work, and local trade." },
+    description: { de: "Wichtiger Hafen an der Ostküste von Neufundland.", hu: "Észak-Amerika egyik legkeletibb és legősibb kikötője Új-Fundland szigetén, amely stratégiai fontosságú az atlanti kereskedelemben.", ro: "Un port strategic la Oceanul Atlantic, servind ca bază principală pentru industria petrolieră offshore și pescuitul comercial din Newfoundland.", en: "The Port of St. John's is a deepwater harbour on Newfoundland's Atlantic coast. It serves as a supply base for shipping, offshore work, and local trade." },
     facts: {
       de: ["Versorgungshafen", "Atlantische Basis"],
-      hu: ["Newfoundland és Labradorban van", "Atlanti kikötő", "Halászat és teherforgalom is használja"],
-      ro: ["?n St. John's", "Newfoundland and Labrador", "Port Atlantic"],
+      hu: ["Az egyik legmélyebb természetes kikötő a kontinensen.", "Fontos bázis az offshore olajipar és a halászat számára.", "1497-ben fedezték fel az európaiak."],
+      ro: ["Unul dintre cele mai vechi porturi", "Bază pentru navele de aprovizionare", "Port protejat natural"],
       en: ["On the Atlantic coast", "Deepwater harbour", "Supports offshore and supply traffic"]
     }, image: "/poi-images/st-johns-port-economic-v2.webp"},
   {
@@ -353,11 +353,11 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     parent: "CA-NU",
     coords: [-75.0, 71.0],
     name: { de: "Baffin Bergbauprojekt", hu: "Baffin-szigeti bányászati projekt", ro: "Proiect minier Baffin", en: "Baffin Mining Project" },
-    description: { de: "Eisenerz-Abbau in der Arktis.", hu: "Vasérc-bányászat az Északi-sarkvidéken.", ro: "Proiectul minier din Baffin se afl? ?ntr-o zon? arctic? izolat? din Nunavut. Este legat de extrac?ia resurselor ?i de logistic? dificil?.", en: "The Baffin mining project represents Arctic resource development on Baffin Island in Nunavut. It depends on specialized logistics in a remote northern setting." },
+    description: { de: "Eisenerz-Abbau in der Arktis.", hu: "Vasérc-bányászat az Északi-sarkvidéken.", ro: "O operațiune minieră de anvergură în Arctica, axată pe extracția de minereu de fier de înaltă calitate de pe Insula Baffin.", en: "The Baffin mining project represents Arctic resource development on Baffin Island in Nunavut. It depends on specialized logistics in a remote northern setting." },
     facts: {
       de: ["Arktischer Bergbau", "Spezialisierte Logistik"],
       hu: ["Sarkvidéki bányászat", "Speciális logisztika"],
-      ro: ["?n Nunavut", "Zon? arctic? izolat?", "Proiect de resurse"],
+      ro: ["Situat în regiunea Nunavut", "Exploatare în condiții extreme", "Export către piețele europene"],
       en: ["On Baffin Island", "Arctic mining operation", "Depends on seasonal shipping"]
     }, image: "/poi-images/baffin-mining-project-economic-v2.webp"},
   {

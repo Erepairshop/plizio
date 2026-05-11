@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-fisheries-economic-v2",
+      "description": "Die Fischereiindustrie ist ein wichtiger Lebensunterhalt für Küstengemeinden und sichert die Versorgung der Insel mit frischen Meeresfrüchten. Moderne Anlagen fördern die nachhaltige Nutzung.",
+      "facts": ["Wichtige Proteinquelle", "Unterstützung lokaler Fischer", "Nachhaltige Fischwirtschaft"]
+    },
+    {
+      "id": "jm-cement-plant-economic-v2",
+      "description": "Das Zementwerk ist der Hauptlieferant für Baustoffe auf der Insel und unterstützt das Wachstum der jamaikanischen Infrastruktur. Es ist eines der größten Industrieunternehmen des Landes.",
+      "facts": ["Produktion von Qualitätszement", "Säule der Bauindustrie", "Modernste Filtertechnologien"]
+    },
+    {
+      "id": "jm-lumber-mill-economic-v2",
+      "description": "Das Sägewerk verarbeitet lokal gewonnenes Holz für die Möbel- und Bauindustrie Jamaikas. Es spielt eine wichtige Rolle in der nachhaltigen Forstwirtschaft der Insel.",
+      "facts": ["Verarbeitung lokaler Hölzer", "Zulieferer der Bauwirtschaft", "Unterstützung der Schreinerei"]
+    },
+    {
+      "id": "jm-poultry-processing-economic-v2",
+      "description": "Die Geflügelverarbeitung ist ein zentraler Bestandteil der Ernährungssicherung und bietet Tausende von Arbeitsplätzen im Agrarsektor. Die Produkte erfüllen höchste Hygienestandards.",
+      "facts": ["Größter Fleischproduzent", "Vollautomatisierte Verarbeitung", "Sicherung der Eigenversorgung"]
+    },
+    {
+      "id": "jm-bottling-plant-economic-v2",
+      "description": "In dieser Abfüllanlage werden lokale Erfrischungsgetränke und Mineralwasser für den heimischen Markt und den Export produziert. Sie ist ein Beispiel für moderne industrielle Fertigung.",
+      "facts": ["Abfüllung von Softdrinks", "Export in die Karibik", "Hohe Produktionskapazität"]
+    },
+    {
+      "id": "jm-telecom-hub-economic-v2",
+      "description": "Dieser Telekommunikationsknotenpunkt verbindet Jamaika mit globalen Datennetzen und ist das Rückgrat der digitalen Wirtschaft der Insel. Er ermöglicht schnelles Internet.",
+      "facts": ["Zentraler Netzwerkknoten", "Glasfaseranbindung weltweit", "Basis für IT-Dienstleistungen"]
+    },
+    {
+      "id": "jm-solar-farm-economic-v2",
+      "description": "Der Solarpark ist Teil der Initiative Jamaikas, den Anteil erneuerbarer Energien massiv zu erhöhen. Er nutzt die intensive Sonneneinstrahlung zur sauberen Stromerzeugung.",
+      "facts": ["Größte Photovoltaikanlage", "Reduzierung von CO2", "Förderung grüner Energie"]
+    },
+    {
+      "id": "jm-airport-cargo-economic-v2",
+      "description": "Das Frachtzentrum am Flughafen ist der wichtigste Umschlagplatz für zeitkritische Exporte wie frische Produkte und Blue Mountain Kaffee. Es verbindet Jamaika mit Weltmärkten.",
+      "facts": ["Luftfrachtdrehkreuz", "Export von Frischwaren", "24-Stunden-Betrieb"]
+    },
+    {
+      "id": "jm-mineral-terminal-economic-v2",
+      "description": "Dieses Terminal ist auf die Lagerung und den Export von Industriemineralien spezialisiert, die im Hinterland abgebaut werden. Es sichert den effizienten Abtransport von Rohstoffen.",
+      "facts": ["Spezialterminal für Mineralien", "Effiziente Verladetechnik", "Wichtiger Logistikstandpunkt"]
+    },
+    {
+      "id": "jm-agri-processing-economic-v2",
+      "description": "Diese Agrarverarbeitungsanlage veredelt lokale Früchte und Gemüse zu hochwertigen Exportprodukten wie Marmeladen und Saucen. Sie steigert die Wertschöpfung in der Landwirtschaft.",
+      "facts": ["Veredelung lokaler Produkte", "Herstellung von Gewürzen", "Förderung der Landwirte"]
+    },
+    {
+      "id": "jm-water-works-economic-v2",
+      "description": "Das Wasserwerk sichert die Versorgung von Industriegebieten und Wohnsiedlungen mit sauberem Trinkwasser. Es nutzt modernste Filter- und Reinigungssysteme.",
+      "facts": ["Trinkwasseraufbereitung", "Wichtige Infrastrukturanlage", "Sicherung der Wasserqualität"]
+    },
+    {
+      "id": "jm-bio-fuel-plant-economic-v2",
+      "description": "Die Biokraftstoffanlage experimentiert mit der Gewinnung von Energie aus landwirtschaftlichen Abfällen, um die Abhängigkeit von Ölimporten zu verringern. Es ist ein nachhaltiges Vorzeigeprojekt.",
+      "facts": ["Erzeugung von Biodiesel", "Nutzung von Agrarabfällen", "Innovative Energiegewinnung"]
+    }
+  ]
+}

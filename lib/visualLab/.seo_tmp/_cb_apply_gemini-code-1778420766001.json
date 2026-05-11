@@ -1,0 +1,48 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChileHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pukara-de-quitor-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Pukará de Quitor ist eine uralte, hochstrategische indigene Festung in der Region Antofagasta im Norden Chiles. Geografisch sind die gewaltigen Steinruinen aggressiv in eine steile, extrem gut zu verteidigende Klippe gebaut, die das hochfruchtbare San-Pedro-Flusstal überblickt, direkt am rauen Rand der hyperariden Atacama-Wüste. Historisch gesehen wurde diese gewaltige präkolumbianische Bastion im 12. Jahrhundert von den lokalen Likan Antai (Atacameños) massiv ausgebaut, um ihre lukrativen landwirtschaftlichen Oasen und essenziellen transandinen Handelsrouten vor feindlichen Nachbarstämmen und dem expandierenden Inka-Reich explizit zu verteidigen. Im Jahr 1540 war die Festung Schauplatz einer brutal gewalttätigen, entscheidenden Schlacht, bei der spanische Konquistadoren die Mauern aggressiv erstürmten, die lokalen Verteidiger massakrierten und die Region gewaltsam in ihr Kolonialreich integrierten. Wirtschaftlich fungiert die Stätte heute ausschließlich als Hauptattraktion für die boomende Wüstentourismus-Industrie. Die alten, mörtellosen Steinstrukturen leiden schwer unter der extremen Erosion, die durch seltene, aber hochgewaltsame sintflutartige Regenfälle verursacht wird.",
+        "hu": "A Pukará de Quitor egy ősi, rendkívül stratégiai jelentőségű őslakos erődítmény az észak-chilei Antofagasta régióban. Földrajzilag a hatalmas kőromok agresszívan beépülnek egy meredek, rendkívül jól védhető sziklafalba, amely a rendkívül termékeny San Pedro folyóvölgyre néz, közvetlenül a hiperarid Atacama-sivatag zord peremén. Történelmileg ezt a félelmetes prekolumbiánus erődítményt a helyi Likan Antai (Atacameño) nép építette masszívan a 12. században, hogy kifejezetten megvédjék jövedelmező mezőgazdasági oázisukat és létfontosságú transz-andoki kereskedelmi útvonalaikat az ellenséges szomszédos törzsektől és a terjeszkedő Inka Birodalomtól. 1540-ben az erődítmény egy brutálisan erőszakos, döntő csata helyszíne volt, ahol a spanyol konkvisztádorok agresszívan megrohamozták a falakat, lemészárolták a helyi védőket, és a régiót erőszakkal beolvasztották gyarmati birodalmukba. Gazdasági szempontból a helyszín ma kizárólag a virágzó sivatagi turisztikai ipar fő attrakciójaként működik. Az ősi, habarcs nélküli kőépítmények mélyen szenvednek a ritka, de rendkívül heves felhőszakadások okozta súlyos eróziótól.",
+        "ro": "Pukará de Quitor este o fortăreață indigenă antică, extrem de strategică, situată în regiunea Antofagasta din nordul statului Chile. Geografic, ruinele masive de piatră sunt construite agresiv într-o stâncă abruptă, foarte ușor de apărat, care domină valea extrem de fertilă a râului San Pedro, chiar la marginea aspră a deșertului hiperarid Atacama. Istoric, această formidabilă fortăreață precolumbiană a fost construită puternic de poporul local Likan Antai (Atacameño) în secolul al XII-lea pentru a-și apăra explicit oaza agricolă lucrativă și rutele vitale de comerț transandine împotriva triburilor vecine ostile și a Imperiului Incaș în expansiune. În 1540, fortăreața a fost locul unei bătălii brutal de violente, decisive, în care conchistadorii spanioli au luat cu asalt zidurile agresiv, au masacrat apărătorii locali și au integrat forțat regiunea în imperiul lor colonial. Economic, situl operează în prezent pur și simplu ca o atracție majoră pentru industria înfloritoare a turismului deșertic. Structurile antice de piatră fără mortar suferă profund de eroziune severă cauzată de ploi torențiale extrem de violente.",
+        "en": "The Pukará de Quitor is an ancient, highly strategic indigenous fortress located in the Antofagasta Region of northern Chile. Geographically, the massive stone ruins are built aggressively into a steep, highly defensible cliff face overlooking the extremely fertile San Pedro River valley, right on the harsh edge of the hyper-arid Atacama Desert. Historically, this formidable pre-Columbian stronghold was heavily constructed by the local Likan Antai (Atacameño) people in the 12th century to explicitly defend their lucrative agricultural oasis and vital trans-Andean trade routes against hostile neighboring tribes and the expanding Inca Empire. In 1540, the fortress was the site of a brutally violent, decisive battle where Spanish conquistadors aggressively stormed the walls, massacred the local defenders, and forcefully integrated the region into their colonial empire. Economically, the site currently operates purely as a major attraction for the thriving desert tourism industry. The ancient, unmortared stone structures suffer deeply from severe erosion caused by rare but extremely violent torrential rains and heavily unmonitored tourist foot traffic."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die antike Festung ist direkt in eine steile Wüstenklippe gebaut.",
+          "Das Volk der Likan Antai erbaute diese Festung im 12. Jahrhundert massiv.",
+          "Sie verteidigte die lokale Landwirtschaft und lukrative Handelsrouten.",
+          "Spanische Konquistadoren stürmten und eroberten das Fort gewaltsam 1540.",
+          "Seltene, aber extreme Regenfälle erodieren die mörtellosen Steine stark."
+        ],
+        "hu": [
+          "Az ősi erődítményt közvetlenül egy meredek sivatagi sziklafalba építették.",
+          "A Likan Antai nép a 12. században építette fel ezt a masszív erődöt.",
+          "Az építmény erősen védte a jövedelmező helyi mezőgazdaságot és kereskedelmet.",
+          "A spanyol konkvisztádorok 1540-ben erőszakosan megrohamozták és elfoglalták.",
+          "A ritka, de extrém felhőszakadások súlyosan erodálják a habarcs nélküli köveket."
+        ],
+        "ro": [
+          "Cetatea antică este construită direct într-o stâncă abruptă de deșert.",
+          "Poporul Likan Antai a construit fortăreața în secolul al XII-lea.",
+          "A apărat puternic agricultura locală lucrativă și rutele comerciale.",
+          "Conchistadorii spanioli au luat cu asalt violent și au capturat fortul în 1540.",
+          "Ploile torențiale rare, dar extreme erodează puternic pietrele fără mortar."
+        ],
+        "en": [
+          "The ancient fortress is built directly into a steep desert cliff.",
+          "The Likan Antai people constructed the stronghold in the 12th century.",
+          "It heavily defended lucrative local agriculture and trade routes.",
+          "Spanish conquistadors violently stormed and captured the fort in 1540.",
+          "Rare but extreme torrential rains heavily erode the unmortared stones."
+        ]
+      }
+    }
+  ]
+}

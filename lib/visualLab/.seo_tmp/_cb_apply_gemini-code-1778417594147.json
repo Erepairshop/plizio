@@ -1,0 +1,48 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tibesti-mountains-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tibesti-Gebirge ist ein massives vulkanisches Bergmassiv tief im unerbittlichen Norden des Tschad, das sich wie eine gigantische Festung aus dem Sand der Sahara erhebt. Geografisch beheimatet das Massiv den Emi Koussi, den mit 3.415 Metern absolut höchsten Berg der gesamten Sahara. Die Topografie ist durch tiefe, trockene Schluchten, gewaltige Vulkankrater und extreme Temperaturschwankungen geprägt. Ökologisch stellen die höheren, kühleren Lagen des Tibesti eine extrem isolierte Enklave dar, in der endemische Pflanzen und bedrohte Wildtiere wie der Mähnenspringer (Aoudad) überleben. Wirtschaftlich ist die Region vollkommen von der nationalen Infrastruktur abgeschnitten. Die indigene Bevölkerung der Tubu betreibt traditionellen Dattelanbau in wenigen Oasen und nomadische Kamelzucht. Historisch war das Gebirge ein gefürchtetes Rebellengebiet und der strategische Hauptschauplatz des tschadisch-libyschen Krieges. Noch heute liegen Tausende ungeräumter Landminen in den Wüstenpässen. In den letzten Jahren hat ein unregulierter, chaotischer Goldrausch in den Ausläufern des Tibesti eine aggressive informelle Wirtschaft entfacht, die jedoch das empfindliche Wüstenökosystem komplett zu zerstören droht.",
+        "hu": "A Tibesti-hegység egy masszív vulkanikus hegytömb mélyen Csád könyörtelen északi részén, amely gigantikus erődítményként emelkedik ki a Szahara homokjából. Földrajzilag a masszívumban található az Emi Koussi, amely 3415 méteres magasságával a teljes Szahara abszolút legmagasabb hegye. A topográfiát mély, száraz szurdokok, hatalmas vulkáni kráterek és szélsőséges hőmérséklet-ingadozások jellemzik. Ökológiai szempontból a Tibesti magasabb, hűvösebb régiói rendkívül elszigetelt enklávét jelentenek, ahol endemikus növények és olyan veszélyeztetett vadon élő állatok élik túl a körülményeket, mint a sörényes juh (Aoudad). Gazdasági szempontból a régió teljesen el van vágva a nemzeti infrastruktúrától. Az őslakos tubu népesség hagyományos datolyatermesztést folytat a kevés oázisban, és nomád tevetartást végez. Történelmileg a hegység rettegett lázadó terület volt, és a csádi-líbiai háború stratégiai fő színtere. Még ma is több ezer fel nem robbant taposóakna hever a sivatagi hágókon. Az elmúlt években a Tibesti lábánál kirobbant szabályozatlan, kaotikus aranyláz egy agresszív informális gazdaságot indított el, amely azonban azzal fenyeget, hogy teljesen elpusztítja az érzékeny sivatagi ökoszisztémát.",
+        "ro": "Munții Tibesti reprezintă un masiv muntos vulcanic uriaș situat adânc în nordul neiertător al Ciadului, ridicându-se ca o fortăreață gigantică din nisipul Saharei. Geografic, masivul găzduiește Emi Koussi, care la 3.415 metri este cel mai înalt munte absolut din întreaga Sahara. Topografia este caracterizată prin chei adânci și uscate, cratere vulcanice masive și fluctuații extreme de temperatură. Din punct de vedere ecologic, altitudinile mai mari și mai reci din Tibesti reprezintă o enclavă extrem de izolată în care supraviețuiesc plante endemice și animale sălbatice pe cale de dispariție, cum ar fi oaia cu coamă (Aoudad). Economic, regiunea este complet ruptă de infrastructura națională. Populația indigenă Tubu practică cultivarea tradițională a curmalelor în câteva oaze și creșterea nomadă a cămilelor. Istoric, zona a fost un teritoriu temut de rebeli și scena strategică principală a războiului ciadiano-libian. Mii de mine terestre zac și astăzi neexplodate în trecătorile deșertului. În ultimii ani, goana după aur nereglementată a declanșat o economie haotică care amenință să distrugă ecosistemul.",
+        "en": "The Tibesti Mountains form a massive volcanic mountain range deep within the unforgiving north of Chad, rising like a gigantic natural fortress straight out of the Saharan sand. Geographically, the massif is home to Emi Koussi, which, at 3,415 meters, is the absolutely highest mountain peak in the entire Sahara. The topography is heavily characterized by deep dry gorges, massive volcanic craters, and extreme temperature fluctuations. Ecologically, the higher, much cooler elevations of the Tibesti represent a highly isolated enclave where endemic plants and endangered wildlife, such as the Barbary sheep (Aoudad), manage to survive. Economically, the region is completely severed from the national infrastructure. The indigenous Tubu population strictly practices traditional date cultivation in the few scattered oases alongside nomadic camel breeding. Historically, the mountain range was a widely feared rebel territory and the strategic main theater of the Chadian-Libyan war. Even today, thousands of unexploded landmines lie dangerously hidden in the desert passes. In recent years, an unregulated, highly chaotic gold rush in the foothills has ignited an aggressive informal economy that threatens to completely destroy the fragile desert ecosystem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Tibesti-Gebirge ist ein massives Vulkanmassiv in der feindlichen Sahara.",
+          "Der Emi Koussi ist mit 3.415 Metern der höchste Gipfel der gesamten Sahara.",
+          "Das raue Höhenklima sichert das Überleben des extrem seltenen Mähnenspringers.",
+          "Alte Landminen aus dem Libyen-Krieg machen die Gebirgspässe extrem gefährlich.",
+          "Ein chaotischer illegaler Goldrausch bedroht das ökologische Gleichgewicht heute massiv."
+        ],
+        "hu": [
+          "A Tibesti-hegység egy masszív vulkáni masszívum a barátságtalan Szaharában.",
+          "Az Emi Koussi 3415 méteres magasságával a teljes Szahara legmagasabb csúcsa.",
+          "A zord magaslati klíma biztosítja a rendkívül ritka sörényes juh túlélését.",
+          "A líbiai háborúból visszamaradt régi taposóaknák extrém veszélyessé teszik a hágókat.",
+          "Egy kaotikus, illegális aranyláz ma masszívan fenyegeti az ökológiai egyensúlyt."
+        ],
+        "ro": [
+          "Munții Tibesti sunt un masiv vulcanic uriaș situat în deșertul ostil Sahara.",
+          "Emi Koussi, la 3.415 metri, este de departe cel mai înalt vârf din toată Sahara.",
+          "Clima aspră de altitudine asigură supraviețuirea oii cu coamă extrem de rare.",
+          "Minele vechi din războiul libian fac trecătorile montane extrem de periculoase.",
+          "O goană haotică și ilegală după aur amenință astăzi masiv echilibrul ecologic."
+        ],
+        "en": [
+          "The Tibesti Mountains act as a massive volcanic massif in the hostile Sahara.",
+          "Emi Koussi, standing at 3,415 meters, is the absolute highest peak in the entire Sahara.",
+          "The harsh altitude climate actively secures the survival of the extremely rare Barbary sheep.",
+          "Old landmines from the Libyan war continuously make the mountain passes highly dangerous.",
+          "A completely chaotic, illegal gold rush massively threatens the ecological balance today."
+        ]
+      }
+    }
+  ]
+}

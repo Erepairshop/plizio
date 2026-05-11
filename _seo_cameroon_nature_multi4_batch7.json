@@ -1,0 +1,71 @@
+{
+  "lang": "multi4",
+  "country": "cameroon",
+  "files": ["lib/visualLab/data/poiExtraCameroonNatureV2.ts"],
+  "items": [
+    {
+      "id": "benue-river-nature-v2",
+      "descriptionAdvancedHu": "A Benue folyó a Niger folyó legnagyobb mellékfolyója, amely Kamerun északi részének kulcsfontosságú vízfolyása. Az Adamawa-fennsíkon ered, és nyugat felé folyik, ahol Nigériában csatlakozik a Nigerhez. Kamerunban a folyó a régió életének központja, vizet biztosítva a mezőgazdaságnak, az állattenyésztésnek és a háztartásoknak a félszáraz éghajlaton. A csapadékos évszakban a folyó hajózhatóvá válik, lehetővé téve az áruk szállítását Garoua kikötővárosából. A folyó árterei rendkívül termékenyek, és a betakarítás után a szarvasmarhák fontos legelőterületeiként szolgálnak. A Benue folyó számos nemzeti parkot is támogat, köztük a Benue Nemzeti Parkot, amely a régió vadvilágának, például a vízilovaknak, krokodiloknak és antilopoknak a menedéke. A folyó vízhozama a klímaváltozás és a földhasználat változásai miatt ingadozik.",
+      "descriptionAdvancedRo": "Râul Benue este cel mai mare afluent al fluviului Niger și o cale navigabilă esențială în nordul Camerunului. Izvorăște din Podișul Adamawa și curge spre vest pentru a se uni cu Nigerul în Nigeria. În Camerun, râul este vital pentru regiune, furnizând apă pentru agricultură, creșterea animalelor și uz casnic într-un climat semi-arid. În timpul sezonului ploios, râul devine navigabil, permițând transportul de mărfuri din orașul-port Garoua. Luncile inundabile ale râului sunt extrem de fertile și servesc drept zone importante de pășunat pentru vite după recoltare. Râul Benue susține, de asemenea, mai multe parcuri naționale, inclusiv Parcul Național Benue, un refugiu pentru fauna sălbatică a regiunii, cum ar fi hipopotamii, crocodilii și antilopele. Debitul râului se confruntă cu variabilitate din cauza schimbărilor climatice și a schimbărilor în utilizarea terenurilor.",
+      "descriptionAdvancedEn": "The Benue River is the largest tributary of the Niger River and a key waterway in northern Cameroon. It originates on the Adamawa Plateau and flows west to join the Niger in Nigeria. In Cameroon, the river is central to life in the region, providing water for agriculture, livestock, and domestic use in a semi-arid climate. During the wet season, the river becomes navigable, allowing for the transport of goods from the port city of Garoua. The river's floodplains are extremely fertile and serve as important grazing areas for cattle after the harvest. The Benue River also supports several national parks, including Benue National Park, a refuge for the region's wildlife, such as hippos, crocodiles, and antelopes. The river's flow faces variability due to climate change and land-use changes.",
+      "factsAdvanced": [
+        "The major tributary of the Niger River.",
+        "Originates on the Adamawa Plateau in northern Cameroon.",
+        "Flows through Benue National Park, a UNESCO Biosphere Reserve.",
+        "The city of Garoua on its banks is a major inland port.",
+        "Seasonally navigable for over 1,000 km.",
+        "Its floodplain supports agriculture and grazing.",
+        "Home to hippos, crocodiles, and a rich diversity of fish.",
+        "Its flow is highly seasonal, peaking between July and October."
+      ]
+    },
+    {
+      "id": "lake-chad-nature-v2",
+      "descriptionAdvancedHu": "A Csád-tó egy nagy, sekély édesvízi tó Afrikában, amely négy ország – Csád, Kamerun, Niger és Nigéria – között oszlik meg. Kamerunban a tó az ország Távol-Északi Régiójának északnyugati csücskét foglalja el. A tó rendkívül fontos a Száhel-övezet ökológiája és gazdasága szempontjából, mintegy 30 millió ember megélhetését biztosítva. Vize támogatja a halászatot, a mezőgazdaságot és az állattenyésztést. A tó mérete az évszaktól és az éghajlati ciklusoktól függően drámaian változik. Az 1960-as évek óta a tó több mint 90%-kal zsugorodott a tartós aszályok, az éghajlatváltozás és a tavat tápláló folyók, például a Csari, túlzott vízkivétele miatt. Ez a zsugorodás súlyos környezeti és humanitárius következményekkel járt, beleértve az erőforrásokért folytatott konfliktusokat. A Csád-tó-medence Bizottság vezetésével nemzetközi erőfeszítések folynak a tó megmentésére.",
+      "descriptionAdvancedRo": "Lacul Ciad este un lac mare și puțin adânc de apă dulce din Africa, împărțit între patru țări: Ciad, Camerun, Niger și Nigeria. În Camerun, lacul ocupă colțul de nord-vest al Regiunii Extrem-Nord a țării. Lacul este extrem de important pentru ecologia și economia regiunii Sahel, susținând mijloacele de trai a aproximativ 30 de milioane de oameni. Apele sale susțin pescuitul, agricultura și creșterea animalelor. Dimensiunea lacului variază dramatic în funcție de sezon și de ciclurile climatice. Din anii 1960, lacul s-a micșorat cu peste 90% din cauza secetelor persistente, a schimbărilor climatice și a extracției excesive de apă din râurile care îl alimentează, cum ar fi râul Chari. Această scădere a avut consecințe grave asupra mediului și umanitare, inclusiv conflicte legate de resurse. Eforturi internaționale, conduse de Comisia Bazinului Lacului Ciad, sunt în desfășurare pentru a salva lacul.",
+      "descriptionAdvancedEn": "Lake Chad is a large, shallow, freshwater lake in Africa, shared by four countries: Chad, Cameroon, Niger, and Nigeria. In Cameroon, the lake occupies the northwestern tip of the country's Far North Region. The lake is critically important for the ecology and economy of the Sahel region, supporting the livelihoods of some 30 million people. Its waters support fishing, agriculture, and livestock grazing. The lake's size varies dramatically with the seasons and climatic cycles. Since the 1960s, the lake has shrunk by over 90% due to persistent droughts, climate change, and over-extraction of water from the rivers that feed it, such as the Chari River. This shrinkage has had severe environmental and humanitarian consequences, including conflicts over resources. International efforts, led by the Lake Chad Basin Commission, are underway to save the lake.",
+      "factsAdvanced": [
+        "A large, shallow endorheic lake in the Sahel.",
+        "Shared by Cameroon, Chad, Niger, and Nigeria.",
+        "It has shrunk by as much as 90% since the 1960s.",
+        "The Chari River provides over 90% of its water.",
+        "Supports over 30 million people in the surrounding basin.",
+        "Designated as a Ramsar Wetland of International Importance.",
+        "Its basin is threatened by desertification and unsustainable water use.",
+        "The lake is home to a high diversity of fish and birds."
+      ]
+    },
+    {
+      "id": "dja-river-nature-v2",
+      "descriptionAdvancedHu": "A Dja folyó a Kongó folyó egyik mellékfolyója, amely Kamerun déli részén kanyarog. Leginkább arról ismert, hogy szinte teljesen körülveszi a Dja Vadvédelmi Rezervátumot, amely egy UNESCO Világörökségi helyszín. A folyó természetes gátként működik, elszigetelve és megvédve a rezervátum gazdag biológiai sokféleségét. Útja során a folyó sűrű, érintetlen trópusi esőerdőkön halad keresztül, amelyek a Kongó-medence részét képezik. A folyó és a környező erdők számos vadon élő állatnak adnak otthont, köztük síkvidéki gorilláknak, csimpánzoknak, erdei elefántoknak és a ritka bongo antilopnak. A Dja folyó a Baka pigmeusok számára is kulturális és megélhetési forrás, akik hagyományos életmódjukhoz a folyóra és az erdőre támaszkodnak. A folyót viszonylag érintetlenül hagyták a nagyobb fejlesztések, ami segített megőrizni ökológiai integritását.",
+      "descriptionAdvancedRo": "Râul Dja este un afluent al fluviului Congo, care șerpuiește prin sudul Camerunului. Este cel mai cunoscut pentru faptul că înconjoară aproape în întregime Rezervația Faunistică Dja, un sit al Patrimoniului Mondial UNESCO. Râul acționează ca o barieră naturală, izolând și protejând biodiversitatea bogată a rezervației. În cursul său, râul traversează păduri tropicale dense și virgine, care fac parte din Bazinul Congo. Râul și pădurile înconjurătoare găzduiesc o gamă largă de animale sălbatice, inclusiv gorile de câmpie, cimpanzei, elefanți de pădure și rara antilopă bongo. Râul Dja este, de asemenea, o resursă culturală și de subzistență pentru pigmeii Baka, care se bazează pe râu și pe pădure pentru modul lor de viață tradițional. Râul a rămas relativ neatins de dezvoltări majore, ceea ce a ajutat la păstrarea integrității sale ecologice.",
+      "descriptionAdvancedEn": "The Dja River is a tributary of the Congo River that meanders through southern Cameroon. It is most famous for almost completely encircling the Dja Faunal Reserve, a UNESCO World Heritage site. The river acts as a natural barrier, isolating and protecting the reserve's rich biodiversity. Throughout its course, the river flows through dense, pristine tropical rainforest, which is part of the Congo Basin. The river and its surrounding forests are home to a wide range of wildlife, including lowland gorillas, chimpanzees, forest elephants, and the rare bongo antelope. The Dja River is also a cultural and livelihood resource for the Baka people, who rely on the river and forest for their traditional way of life. The river has remained relatively untouched by major development, which has helped to preserve its ecological integrity.",
+      "factsAdvanced": [
+        "A tributary of the Congo River system.",
+        "It forms a natural boundary for about two-thirds of the Dja Faunal Reserve.",
+        "The Dja Faunal Reserve is a UNESCO World Heritage Site.",
+        "Flows through one of the largest and best-protected rainforests in Africa.",
+        "The area is home to the Baka people.",
+        "Supports high levels of biodiversity, including many primate species.",
+        "The river itself is home to crocodiles and diverse fish populations.",
+        "Its remote and inaccessible nature has helped protect it from logging."
+      ]
+    },
+    {
+      "id": "nkam-falls-nature-v2",
+      "descriptionAdvancedHu": "Az Ekom-vízesés, gyakran Nkam-vízesésként is emlegetve, egy látványos vízesés az Nkam folyón Kamerun Parti Régiójában. A vízesés körülbelül 80 méter magas, és egy buja, trópusi esőerdővel borított sziklafalról zuhan le. A vízesés két különálló ágból áll, egy „férfi” és egy „női” ágból, amelyek a csapadékos évszakban egyesülnek egy erőteljes zuhataggá. A vízesés szépsége nemzetközi figyelmet kapott, miután szerepelt az 1984-es 'Greystoke – Tarzan, a majmok ura' című filmben, ahol Tarzan dzsungel otthonának hátteréül szolgált. A helyszín népszerű célpont a turisták és a természetbarátok körében, akik a lenyűgöző kilátás és a környező erdő felfedezése miatt érkeznek. A vízesés körüli közösség kis díjat szed a látogatóktól a terület karbantartására és a helyi idegenvezetők támogatására.",
+      "descriptionAdvancedRo": "Cascadele Ekom, adesea menționate ca Cascadele Nkam, sunt o cădere de apă spectaculoasă pe râul Nkam, în Regiunea Litoral a Camerunului. Cascada are o înălțime de aproximativ 80 de metri, căzând de pe o stâncă acoperită de o pădure tropicală luxuriantă. Cascada este formată din două ramuri distincte, o ramură „masculină” și una „feminină”, care se unesc într-o singură cădere puternică în timpul sezonului ploios. Frumusețea cascadei a câștigat atenție internațională după ce a apărut în filmul din 1984 'Greystoke: Legenda lui Tarzan, Stăpânul Maimuțelor', servind drept fundal pentru casa din junglă a lui Tarzan. Situl este o destinație populară pentru turiști și iubitorii de natură, care vin pentru priveliștea uimitoare și pentru a explora pădurea înconjurătoare. Comunitatea locală din jurul cascadei percepe o mică taxă vizitatorilor pentru a întreține zona și a sprijini ghizii locali.",
+      "descriptionAdvancedEn": "Ekom Falls, often referred to as Nkam Falls, is a spectacular waterfall on the Nkam River in the Littoral Region of Cameroon. The falls are approximately 80 meters high, dropping from a cliff covered in lush, tropical rainforest. The waterfall consists of two distinct branches, a 'male' and a 'female' fall, which merge into one powerful cascade during the rainy season. The beauty of the falls gained international attention after being featured in the 1984 movie 'Greystoke: The Legend of Tarzan, Lord of the Apes', serving as the backdrop for Tarzan's jungle home. The site is a popular destination for tourists and nature lovers, who come for the stunning views and to explore the surrounding forest. The local community around the falls manages the site, charging a small fee for visitors to help maintain the area and support local guides.",
+      "factsAdvanced": [
+        "Located on the Nkam River in the Littoral Region.",
+        "The falls are approximately 80 meters (262 ft) high.",
+        "Famously featured in the 1984 film 'Greystoke: The Legend of Tarzan'.",
+        "Consists of two separate falls, known as the male and female falls.",
+        "The volume of water is highest during the rainy season (May-October).",
+        "Surrounded by dense tropical rainforest.",
+        "A popular tourist attraction in the region.",
+        "The site is managed by the local community."
+      ]
+    }
+  ]
+}

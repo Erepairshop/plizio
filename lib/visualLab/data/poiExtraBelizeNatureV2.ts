@@ -4,12 +4,18 @@ import type { POI } from "./poi";
 export const poiExtraBelizeNatureV2: POI[] = [
   {
     id: "bz-rio-hondo-river-nature-v2",
-    description: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
-    facts: [
-      "Grenzfluss zu Mexiko",
-      "Nördliches Belize",
-      "Wichtiger Wasserweg"
-],
+    description: {
+      de: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
+      hu: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
+      ro: "Der Rio Hondo bildet die natürliche Grenze zwischen Belize und Mexiko.",
+      en: "The Rio Hondo forms the natural border between Belize and Mexico."
+    },
+    facts: {
+      de: ["Grenzfluss zu Mexiko", "Nördliches Belize", "Wichtiger Wasserweg"],
+      hu: ["Grenzfluss zu Mexiko", "Nördliches Belize", "Wichtiger Wasserweg"],
+      ro: ["Grenzfluss zu Mexiko", "Nördliches Belize", "Wichtiger Wasserweg"],
+      en: ["Border river to Mexico", "Northern Belize", "Important waterway"]
+    },
     type: "river",
     parent: "BZ-OW",
     coords: [-88.39, 18.49],
@@ -125,13 +131,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Der zweithöchste Berg in Belize, Teil der Maya Mountains.",
       hu: "Belize második legmagasabb hegye, a Maja-hegység része.",
       ro: "Al doilea cel mai înalt munte din Belize, parte a Munților Maya.",
-      en: "The second-highest mountain in Belize, part of the Maya Mountains."
+      en: "One of the highest points in Belize, located within the Cockscomb Basin Wildlife Sanctuary."
     },
     facts: {
       de: ["Höhe: 1.120 Meter.", "Zweithöchster Gipfel in Belize.", "Liegt im Cockscomb Basin Wildlife Sanctuary.", "Schwierige Besteigung."],
       hu: ["Magassága: 1120 méter.", "Belize második legmagasabb csúcsa.", "A Cockscomb Basin vadvédelmi területen található.", "Nehéz megmászni."],
       ro: ["Înălțime: 1.120 metri.", "Al doilea cel mai înalt vârf din Belize.", "Situat în Sanctuarul Cockscomb Basin.", "Ascensiune dificilă."],
-      en: ["Elevation: 1", "120 meters.", "Second-highest peak in Belize.", "Located in the Cockscomb Basin Wildlife Sanctuary.", "Challenging to climb."]
+      en: ["Stands at 1,120 meters high.", "Challenging destination for hikers.", "Part of the Maya Mountain range.", "Offers stunning panoramic views."]
     },
     descriptionAdvanced: {
       de: "Der Victoria Peak ist mit 1.120 Metern der zweithöchste Berg in Belize und ein markantes Merkmal der Cockscomb Range in den Maya Mountains. Er befindet sich im Herzen des Cockscomb Basin Wildlife Sanctuary, dem weltweit ersten Schutzgebiet für Jaguare. Die Besteigung des Victoria Peak gilt als eine der anspruchsvollsten Wanderungen in Belize und erfordert eine gute körperliche Verfassung und einen erfahrenen Führer. Die mehrtägige Wanderung führt durch dichten, unberührten Regenwald und bietet die Möglichkeit, eine unglaubliche Vielfalt an Flora und Fauna zu entdecken. Vom Gipfel aus hat man an klaren Tagen eine atemberaubende Panoramaaussicht über das Cockscomb Basin bis hin zur Karibikküste. Der Berg ist nicht nur ein physisches Wahrzeichen, sondern auch ein Symbol für die wilde und ungezähmte Schönheit des belizischen Binnenlandes.",
@@ -141,7 +147,7 @@ export const poiExtraBelizeNatureV2: POI[] = [
     },
     factsAdvanced: { multi4: ["Zweithöchster Berg in Belize mit 1.120 m.", "Teil der Cockscomb Range in den Maya Mountains.", "Liegt im Cockscomb Basin Wildlife Sanctuary.", "Anspruchsvolle, mehrtägige Wanderung.", "Führt durch unberührten Regenwald.", "Gipfel bietet Panoramablick bis zur Küste.", "Symbol für die wilde Schönheit Belizes.", "Erfordert einen lizenzierten Führer."],
       de: ["Victoria Peak hat eine offizielle Höhe von 1.120 Metern.", "Der Berg ist Teil des Cockscomb Basin Wildlife Sanctuary.", "Der Aufstieg dauert in der Regel 3 bis 4 Tage für die Hin- und Rückreise.", "Wanderungen sind aufgrund der Wetterbedingungen meist nur von Februar bis Mai erlaubt.", "Der Berg besteht hauptsächlich aus metamorphem Gestein und Granit.", "Er wurde erst im späten 19. Jahrhundert offiziell vermessen.", "Die Vegetation wechselt von tropischem Regenwald zu Elfenwald am Gipfel.", "Der Victoria Peak ist das markanteste Profil in der Skyline der Maya Mountains."],
-      hu: ["Hivatalos magassága 1120 méter.", "A Cockscomb Basin vadvédelmi terület szívében található.", "A túra a csúcsra általában 3-4 napot vesz igénybe oda-vissza.", "A hegy főként metamorf kőzetekből és gránitból áll.", "A csúcson különleges, törpe növésű 'tündérerő' (elfin forest) található."],
+      hu: ["Hivatalos magassága 1120 méter.", "A túra a csúcsra általában 3-4 napot vesz igénybe oda-vissza.", "A hegy főként metamorf kőzetekből és gránitból áll.", "A csúcson különleges, törpe növésű 'tündérerő' (elfin forest) található."],
       ro: [
       "Altitudine: 1.120 metri deasupra nivelului mării.",
       "Situat în interiorul Sanctuarului de Faună Sălbatică Cockscomb Basin.",
@@ -194,12 +200,6 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-cockscomb-range-nature-v2.webp"},
   {
     id: "bz-new-river-lagoon-nature-v2",
-    description: "Die New River Lagoon ist das größte Süßwasserbecken im nördlichen Teil von Belize.",
-    facts: [
-      "Größte Süßwasser-Lagune",
-      "Nördliches Belize",
-      "Ökologisch wertvoll"
-],
     type: "lake",
     parent: "BZ-OW",
     coords: [-88.6, 17.8],
@@ -210,15 +210,15 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "New River Lagoon"
     },
     description: {
-      de: "Eine weitläufige Lagune, die für ihre reiche Tierwelt und als Lebensraum für Krokodile bekannt ist.",
-      hu: "Belize legnagyobb édesvízi lagúnája, a partján fekszik Lamanai maja romváros.",
-      ro: "Cea mai mare lagună de apă dulce din Belize, unde se află situl mayaș Lamanai.",
+      de: "Der größte Süßwasserkörper in Belize, der als Tor zu den berühmten Maya-Ruinen von Lamanai dient.",
+      hu: "Belize legnagyobb édesvízi állóvize, amely Orange Walk kerületben található és dús vegetáció veszi körül.",
+      ro: "Cea mai mare lagună de apă dulce din Belize, un sanctuar pentru viața sălbatică situat în districtul Orange Walk.",
       en: "The largest freshwater lagoon in Belize, site of the Lamanai Maya ruins."
     },
     facts: {
-      de: ["Lagune", "Tierreich", "Krokodilhabitat"],
-      hu: ["Belize legnagyobb tava.", "Édesvíz.", "Partján fekszik Lamanai.", "Gazdag madár- és krokodilvilág."],
-      ro: ["Cel mai mare lac din Belize.", "Apă dulce.", "Lamanai este situat pe mal.", "Bogat în păsări și crocodili."],
+      de: ["Größte Lagune des Landes", "Lebensraum für Krokodile", "Umfasst antike Maya-Handelswege"],
+      hu: ["A New River folyó táplálja", "Maja romok (Lamanai) találhatók a partján", "Krokodilok és egzotikus madarak otthona"],
+      ro: ["Habitat pentru crocodili și păsări exotice", "Accesibilă prin tururi cu barca spre Lamanai", "Apă cristalină și peisaje spectaculoase"],
       en: ["Largest lake in Belize.", "Freshwater body.", "Lamanai is on its shore.", "Rich in birdlife and crocodiles."]
     },
     descriptionAdvanced: {
@@ -241,12 +241,6 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-new-river-lagoon-nature-v2.webp"},
   {
     id: "bz-southern-long-caye-nature-v2",
-    description: "Southern Long Caye bietet geschützte Meereslebensräume in der Nähe des Barrier Reefs.",
-    facts: [
-      "Karibisches Meer",
-      "Nahe Barrier Reef",
-      "Mariner Lebensraum"
-],
     type: "island",
     parent: "BZ-BZ",
     coords: [-88.1, 17.2],
@@ -257,15 +251,15 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Southern Long Caye"
     },
     description: {
-      de: "Eine malerische Insel vor der Küste, die von klarem Wasser und Korallenriffen umgeben ist.",
-      hu: "Hosszúkás mangrove-sziget a Belize-korallzátonyon belül.",
-      ro: "O insulă alungită de mangrove în cadrul Barierei de Corali din Belize.",
+      de: "Eine abgelegene Insel am Belize Barrier Reef, die ein Paradies für Schnorchler und Taucher in unberührter Natur ist.",
+      hu: "Egy festői korallsziget a Belize-zátony mentén, amely a búvárok és a tengeri élővilág kedvelőinek paradicsoma.",
+      ro: "O insulă mică și idilică situată în interiorul Barierei de Corali, ideală pentru scufundări și relaxare.",
       en: "An elongated mangrove island located within the Belize Barrier Reef."
     },
     facts: {
-      de: ["Insel", "Korallenriff", "Küstennähe"],
-      hu: ["Mangrove-ökoszisztéma.", "Fontos madárfészkelő hely.", "A korallzátony-rendszer része.", "Lakatlan."],
-      ro: ["Ecosistem de mangrove.", "Loc important de cuibărit pentru păsări.", "Parte a sistemului de barieră de corali.", "Nelocuită."],
+      de: ["Teil des Belize Barrier Reef", "Ideal für Seekajakfahren", "Vielfältige Korallenformationen"],
+      hu: ["A Karib-tenger türkizkék vizében fekszik", "Védett tengeri ökoszisztéma veszi körül", "Távol esik a tömegturizmustól"],
+      ro: ["Înconjurată de ape turcoaz", "Biodiversitate marină remarcabilă", "Populară printre pescarii sportivi"],
       en: ["Mangrove ecosystem.", "Important bird rookery.", "Part of the Barrier Reef system.", "Largely uninhabited."]
     },
     descriptionAdvanced: {
@@ -370,12 +364,6 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-sarstoon-temash-forest-nature-v2.webp"},
   {
     id: "bz-caribbean-sea-nature-v2",
-    description: "Das Karibische Meer prägt die gesamte Küste von Belize mit reicher Artenvielfalt.",
-    facts: [
-      "Belize Küste",
-      "Reiche Artenvielfalt",
-      "Korallenökosysteme"
-],
     type: "sea",
     parent: "BZ",
     coords: [-87.8, 17.5],
@@ -386,16 +374,16 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Caribbean Sea (Belize)"
     },
     description: {
-      de: "Das Karibische Meer vor der Küste von Belize bietet eines der weltweit größten Barriereriffe.",
-      hu: "Belize part menti vizei, a világ második legnagyobb korallzátonyának otthona.",
+      de: "Das kristallklare Gewässer vor der Küste Belizes, das das zweitgrößte Barriereriff der Welt beherbergt.",
+      hu: "Az Atlanti-óceánhoz tartozó beltenger, amely Belize teljes keleti partvidékét határolja és meghatározza az ország klímáját.",
       ro: "Apele de coastă ale statului Belize, care găzduiesc a doua cea mai mare barieră de corali din lume.",
-      en: "The coastal waters of Belize, home to the world's second-largest barrier reef."
+      en: "The vast turquoise ocean bordering Belize's eastern coast, home to the world-famous barrier reef."
     },
     facts: {
-      de: ["Barriereriff", "Karibik", "Meeresökosystem"],
-      hu: ["Itt található a Belize-i korallzátony.", "Meleg", "tiszta víz.", "Fontos a turizmus és a halászat szempontjából.", "Több mint 450 sziget (caye)."],
+      de: ["Heimat des Belize Barrier Reef", "Türkisfarbenes, warmes Wasser", "Wichtig für Tourismus und Fischerei"],
+      hu: ["Itt található az északi félteke legnagyobb korallzátonya", "Kristálytiszta, meleg víz jellemzi", "Hatalmas biodiverzitással rendelkezik"],
       ro: ["Găzduiește Bariera de Corali din Belize.", "Apă caldă și limpede.", "Importantă pentru turism și pescuit.", "Peste 450 de insule (caye)."],
-      en: ["Contains the Belize Barrier Reef.", "Warm", "clear tropical waters.", "Vital for tourism and fishing.", "Features over 450 islands (cayes)."]
+      en: ["Supports a massive tourism industry.", "World-class diving and fishing site.", "Home to diverse coral and marine life.", "Crystal clear warm waters."]
     },
     descriptionAdvanced: {
       de: "Das Karibische Meer vor der Küste Belizes ist ein aquatisches Wunderland und das Herzstück des Tourismus und der Fischerei des Landes. Es beherbergt das Belize Barrier Reef, das zweitgrößte Korallenriffsystem der Welt und ein UNESCO-Weltkulturerbe. Dieses komplexe Ökosystem besteht aus Hunderten von Sand- und Mangroveninseln (Cayes), Atollen und einer unglaublichen Vielfalt an Meereslebewesen. Orte wie das Great Blue Hole, ein riesiges Unterwasser-Sinkloch, ziehen Taucher aus aller Welt an. Die Gewässer sind reich an Korallen, Fischen, Meeresschildkröten, Haien und Delfinen. Das Meer spielt eine entscheidende Rolle für die Wirtschaft Belizes, nicht nur durch den Tourismus, sondern auch durch die kommerzielle Fischerei, insbesondere auf Hummer und Muscheln. Der Schutz dieses empfindlichen Ökosystems vor den Auswirkungen des Klimawandels und der Verschmutzung ist eine der größten Herausforderungen für das Land.",
@@ -471,13 +459,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       de: "Ein streng geschütztes Gebiet, das als Kronjuwel der Schutzgebiete Belizes gilt.",
       hu: "Szigorúan védett terület, amelyet Belize védett területeinek koronaékszereként tartanak számon.",
       ro: "O zonă strict protejată considerată bijuteria coroanei ariilor protejate din Belize.",
-      en: "A strictly protected area considered the crown jewel of Belize's protected areas."
+      en: "A pristine and rugged wilderness area protecting some of the most untouched forests in Central America."
     },
     facts: {
       de: ["Höchster Schutzstatus in Belize.", "Extrem hohe Biodiversität.", "Nahezu unberührter Regenwald.", "Wichtige Wasserscheide."],
       hu: ["A legmagasabb szintű védelem Belize-ben.", "Rendkívül magas biodiverzitás.", "Szinte érintetlen esőerdő.", "Fontos vízgyűjtő terület."],
       ro: ["Cel mai înalt statut de protecție din Belize.", "Biodiversitate extrem de ridicată.", "Pădure tropicală aproape neatinsă.", "Bazin hidrografic important."],
-      en: ["Highest level of protection in Belize.", "Extremely high biodiversity.", "Pristine", "untouched rainforest.", "Crucial watershed area."]
+      en: ["Located in the Toledo District.", "Extremely high biological diversity.", "Contains important Maya cave sites.", "Strictly managed for conservation."]
     },
     descriptionAdvanced: {
       de: "Das Bladen Nature Reserve im Süden von Belize wird oft als das „Juwel in der Krone“ der Schutzgebiete des Landes bezeichnet. Es ist eines der unberührtesten und am wenigsten gestörten Gebiete mit tropischem Regenwald in ganz Mittelamerika. Das Reservat liegt in einem steilen, von Bergen umgebenen Tal und ist extrem unzugänglich, was zu seinem außergewöhnlichen Erhaltungszustand beigetragen hat. Die Biodiversität hier ist immens und umfasst viele seltene und gefährdete Arten. Aufgrund seiner extremen Empfindlichkeit und Bedeutung für die Wissenschaft ist der Zugang zum Bladen Nature Reserve stark eingeschränkt und nur für Forschungszwecke mit einer Sondergenehmigung möglich. Es dient als wichtige Referenzstätte für Wissenschaftler, die intakte tropische Ökosysteme studieren, und ist ein entscheidendes Glied im Netzwerk der Schutzgebiete in den Maya Mountains.",
@@ -593,13 +581,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
     description: {
       de: "Ein Naturdenkmal und die erste als Schutzgebiet ausgewiesene Insel in Belize.",
       hu: "Természeti emlékmű és az első védetté nyilvánított sziget Belize-ben.",
-      ro: "Un monument natural și prima insulă desemnată ca arie protejată în Belize.",
+      ro: "Un monument natural situat în atolul Lighthouse Reef, faimos pentru colonia sa de păsări suliță.",
       en: "A natural monument and the first island designated as a protected area in Belize."
     },
     facts: {
       de: ["Erstes Meeresschutzgebiet Belizes.", "Wichtige Brutkolonie für Rotfußtölpel.", "Leuchtturm auf der Insel.", "Teil des Lighthouse Reef Atolls."],
       hu: ["Belize első tengeri rezervátuma.", "A piroslábú szula fontos fészkelőkolóniája.", "Világítótorony a szigeten.", "A Lighthouse Reef atoll része."],
-      ro: ["Prima rezervație marină din Belize.", "Colonie importantă de cuibărit pentru Sula sula.", "Far pe insulă.", "Parte a atolului Lighthouse Reef."],
+      ro: ["Primul sit protejat din Belize", "Loc de cuibărit pentru sulița cu picioare roșii", "Aproape de faimoasa Mare Gaură Albastră"],
       en: ["Belize's first marine protected area.", "Home to a large Red-footed Booby colony.", "Features a historic lighthouse.", "Part of the Lighthouse Reef Atoll."]
     },
     descriptionAdvanced: {
@@ -786,12 +774,6 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-manatee-forest-reserve-nature-v2.webp"},
   {
     id: "bz-bacalar-chico-park-nature-v2",
-    description: "Der Bacalar Chico Nationalpark vereint marinen und terrestrischen Schutz auf Ambergris Caye.",
-    facts: [
-      "Ambergris Caye",
-      "UNESCO-Welterbe-Teil",
-      "Mischökosystem"
-],
     type: "sea",
     parent: "BZ-BZ",
     coords: [-87.87, 18.2],
@@ -802,16 +784,16 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Bacalar Chico National Park"
     },
     description: {
-      de: "Ein geschütztes Gebiet im Norden, das maritime Lebensräume mit Küstenwäldern kombiniert.",
+      de: "Ein Nationalpark und Meeresschutzgebiet an der Nordspitze von Ambergris Caye, direkt an der Grenze zu Mexiko.",
       hu: "Tengeri rezervátum az Ambergris Caye északi csücskén, Mexikóval határosan.",
-      ro: "O rezervație marină la vârful nordic al Ambergris Caye, la granița cu Mexic.",
-      en: "A marine reserve on the northern tip of Ambergris Caye, bordering Mexico."
+      ro: "O rezervație marină și un parc național situat în nordul insulei Ambergris Caye, la granița cu Mexicul.",
+      en: "A unique marine reserve and national park where the Belize Barrier Reef meets the Yucatan Peninsula."
     },
     facts: {
-      de: ["Nordschutzzone", "Maritim", "Küstenwald"],
+      de: ["UNESCO-Welterbe", "Einzige Stelle, an der das Riff die Küste berührt", "Seltene Maya-Küstenhandelsplätze"],
       hu: ["UNESCO Világörökség.", "Mexikóval határos.", "Fontos fészkelőhely a tengeri teknősök számára.", "Magában foglal zátonyt", "tengerifű-mezőket és mangrovékat."],
-      ro: ["Patrimoniu Mondial UNESCO.", "La granița cu Mexicul.", "Loc important de cuibărit pentru țestoasele marine.", "Include recif", "pajiști de iarbă de mare și mangrove."],
-      en: ["UNESCO World Heritage site.", "Borders Mexico.", "Important nesting beach for sea turtles.", "Encompasses reef", "seagrass", "and mangrove habitats."]
+      ro: ["Sit al Patrimoniului Mondial UNESCO", "Canal artificial săpat de Mayași", "Ecosisteme diverse de la recif la junglă"],
+      en: ["Accessible only by boat.", "UNESCO World Heritage Site.", "Rich in Maya history and ruins.", "Important nesting site for sea turtles."]
     },
     descriptionAdvanced: {
       de: "Der Bacalar Chico Nationalpark und das Meeresschutzgebiet liegen an der Nordspitze von Ambergris Caye und erstrecken sich über die Grenze nach Mexiko. Das Gebiet wurde 1996 zum Schutzgebiet erklärt und ist Teil des UNESCO-Weltkulturerbes Belize Barrier Reef Reserve System. Der Park ist einzigartig, da er sowohl Land- als auch Meeresökosysteme schützt. Der terrestrische Teil besteht aus Mangrovenwäldern, Küstenwäldern und Savannen und ist ein wichtiger Lebensraum für Wildkatzen wie den Puma. Der marine Teil schützt einen Abschnitt des Barriereriffs, Seegraswiesen und die Fels- und Korallenküste. Der namensgebende „Bacalar Chico“-Kanal ist eine schmale Wasserstraße, die von den Maya gegraben wurde und die Bucht von Chetumal mit dem Karibischen Meer verbindet. Das Gebiet ist abgelegen und am besten per Boot von San Pedro aus erreichbar, was dazu beiträgt, seine unberührte Schönheit zu bewahren.",
@@ -885,14 +867,14 @@ export const poiExtraBelizeNatureV2: POI[] = [
     },
     description: {
       de: "Ein Waldreservat westlich von Mountain Pine Ridge, das den Macal River umgibt.",
-      hu: "Erdőrezervátum a Mountain Pine Ridge-től nyugatra, a Macal folyót veszi körül.",
-      ro: "O rezervație forestieră la vest de Mountain Pine Ridge, care înconjoară râul Macal.",
+      hu: "Egy kiterjedt erdőrezervátum Cayo kerület nyugati részén, amely vadregényes tájairól és gazdag élővilágáról ismert.",
+      ro: "O rezervație forestieră vastă în districtul Cayo, care protejează bazine hidrografice importante și specii rare.",
       en: "A forest reserve west of Mountain Pine Ridge, surrounding the Macal River."
     },
     facts: {
       de: ["Grenzt an den Chiquibul-Nationalpark.", "Wichtiger Lebensraum für Aras.", "Enthält mehrere Staudämme.", "Hügeliges Gelände."],
-      hu: ["A Chiquibul Nemzeti Parkkal határos.", "Fontos élőhely az ara papagájok számára.", "Több vízerőmű gátja is itt található.", "Dombos terep."],
-      ro: ["Se învecinează cu Parcul Național Chiquibul.", "Habitat important pentru papagalii ara.", "Conține mai multe baraje hidroelectrice.", "Teren deluros."],
+      hu: ["A Maya-hegység részét képezi", "Veszélyeztetett fajok menedékhelye", "Fontos vízgyűjtő terület"],
+      ro: ["Protejează cascada Vaca", "Coridor vital pentru jaguari", "Ideal pentru drumeții în sălbăticie"],
       en: ["Borders Chiquibul National Park.", "Important habitat for scarlet macaws.", "Site of several hydroelectric dams.", "Hilly and rugged terrain."]
     },
     descriptionAdvanced: {
@@ -997,12 +979,6 @@ export const poiExtraBelizeNatureV2: POI[] = [
     }, image: "/poi-images/bz-gales-point-peninsula-nature-v2.webp"},
   {
     id: "bz-aguacaliente-wildlife-sanctuary-nature-v2",
-    description: "Dieses Schutzgebiet bietet eine vielfältige Sumpflandschaft und beheimatet viele Vogelarten.",
-    facts: [
-      "Sumpflandschaft",
-      "Vogelbeobachtung",
-      "Toledo Distrikt"
-],
     type: "lake",
     parent: "BZ-TOL",
     coords: [-88.88, 16.18],
@@ -1013,13 +989,13 @@ export const poiExtraBelizeNatureV2: POI[] = [
       en: "Aguacaliente Wildlife Sanctuary"
     },
     description: {
-      de: "Ein Feuchtgebiet, das als wichtiger Rückzugsort für Wasservögel und bedrohte Tierarten dient.",
+      de: "Ein Feuchtgebiet im Toledo District, das für seine heißen Schwefelquellen und die große Anzahl an Zugvögeln bekannt ist.",
       hu: "Vizes élőhely-védelmi terület a Toledo körzetben, fontos a vízimadarak számára.",
       ro: "Un sanctuar de zonă umedă în districtul Toledo, important pentru păsările de apă.",
       en: "A wetland sanctuary in the Toledo District, important for water birds."
     },
     facts: {
-      de: ["Feuchtgebiet", "Wasservögel", "Artenschutz"],
+      de: ["Wichtiges Schutzgebiet für Wasservögel", "Natürliche heiße Quellen", "Im tiefen Süden von Belize gelegen"],
       hu: ["Fontos vizes élőhely.", "Vonuló madarak pihenőhelye.", "Három lagúnából áll.", "Közösségi kezelésben."],
       ro: ["Zonă umedă importantă.", "Loc de odihnă pentru păsările migratoare.", "Trei lagune.", "Gestionat de comunitate."],
       en: ["Key wetland ecosystem.", "Resting place for migratory birds.", "Comprises three distinct lagoons.", "Co-managed by the local community."]

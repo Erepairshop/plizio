@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gunjur-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Gunjur ist eine bedeutende Küstenstadt in der West Coast Region Gambias, etwa 50 Kilometer südwestlich von Banjul. Die Stadt ist vor allem als eines der wichtigsten Zentren für den handwerklichen Fischfang im Land bekannt. Täglich kehren hunderte von bunt bemalten Pirogen an den Strand zurück, was den Gunjur Fish Landing Site zu einem der geschäftigsten Orte der Region macht. Neben der Fischerei ist Gunjur ein tief religiöser und kultureller Ort; er beherbergt das heilige Kenye-Kenye Jamango, eine Gebetsstätte am Meer, die Pilger aus dem ganzen Land anzieht. Geografisch zeichnet sich die Stadt durch weite, unberührte Sandstrände und angrenzende Küstenwälder aus, darunter das Bolong Fenyo Community Wildlife Reserve, das erste ökologische Reservat des Landes, das von der lokalen Gemeinschaft verwaltet wird. In den letzten Jahren hat Gunjur durch den Ausbau des Ökotourismus und die Ansiedlung von Fischmehlfabriken an wirtschaftlicher Dynamik gewonnen, was jedoch auch Umweltdebatten ausgelöst hat. Die Bewohner gehören überwiegend der Volksgruppe der Mandinka an, und die Stadt bewahrt eine starke traditionelle soziale Struktur. Für Reisende bietet Gunjur eine authentische Erfahrung des gambischen Küstenlebens, kombiniert mit einer tiefen spirituellen Atmosphäre und bedeutenden Bemühungen um den Naturschutz.",
+        "hu": "Gunjur Gambia egyik legjelentősebb tengerparti városa a Nyugati Part (West Coast) régióban, Banjultól körülbelül 50 kilométerre délnyugatra. A város az ország egyik legfontosabb halászati központja; a partvidéken minden délután látványos esemény, amikor a színes pirogák százai térnek vissza a napi fogással, amelyet a helyszínen azonnal feldolgoznak, füstölnek vagy piacra bocsátanak. Gunjur azonban nemcsak a gazdaságáról, hanem mély vallásosságáról is híres: itt található a Kenye-Kenye Jamango nevű szent hely, ahol a muszlim hívők a tengerparti sziklákon imádkoznak. Földrajzilag a települést érintetlen, fehér homokos strandok és dús tengerparti erdők övezik, mint például a Bolong Fenyo közösségi vadvédelmi terület, amely az első ilyen jellegű kezdeményezés volt Gambiában a biodiverzitás megőrzésére. A város lakossága nagyrészt mandinka etnikumú, akik híresek vendégszeretetükről és hagyományaik ápolásáról. Az utóbbi években az ökoturizmus fellendülése mellett a halolaj- és hallisztgyárak megjelenése új kihívások elé állította a helyi közösséget a környezetvédelem terén. A látogatók számára Gunjur az egyik leghitelesebb gambi úti cél, ahol a tradicionális halászfalu élete, a szakrális nyugalom és a természetvédelem iránti elkötelezettség egyszerre van jelen.",
+        "ro": "Gunjur este un oraș de coastă strategic situat în regiunea West Coast a Gambiei, la aproximativ 50 de kilometri sud-vest de capitala Banjul. Localitatea este recunoscută drept unul dintre cei mai mari poli ai pescuitului artizanal din țară, plaja sa fiind locul unde sute de pirogi tradiționale descarcă zilnic capturi variate care alimentează piețele interne. Dincolo de activitatea economică, Gunjur are o rezonanță spirituală puternică, găzduind locul sacru de rugăciune Kenye-Kenye Jamango, situat direct pe malul oceanului, unde pelerinii vin pentru meditație și binecuvântare. Relieful zonei include plaje întinse și rezervații naturale precum Bolong Fenyo, administrată de comunitatea locală pentru protejarea lagunelor și a păsărilor exotice. Orașul este un bastion al culturii Mandinka, păstrând tradiții sociale și muzicale seculare. Recent, Gunjur a intrat în atenția internațională din cauza dezbaterilor privind impactul ecologic al fabricilor de făină de pește asupra ecosistemului marin local. Pentru turiști, Gunjur reprezintă o alternativă mai liniștită și mai autentică la stațiunile aglomerate din nord, oferind oportunități excelente de observare a păsărilor și de imersiune în viața cotidiană a satelor de pescari. Este un loc unde progresul economic se confruntă direct cu nevoia de conservare a resurselor naturale și a identității culturale.",
+        "en": "Gunjur is a major coastal town in the West Coast Region of The Gambia, located about 50 kilometers southwest of Banjul. It is widely celebrated as one of the nation's most vital artisanal fishing hubs. Each day, the shoreline becomes a spectacle of activity as hundreds of brightly painted pirogues return with their catch, driving the local economy and supplying fish to markets across the country. Gunjur is also a place of deep spiritual importance, home to the sacred Kenye-Kenye Jamango, an oceanside prayer site that serves as a pilgrimage destination for Muslims seeking blessings. Geographically, the area is defined by its pristine beaches and the Bolong Fenyo Community Wildlife Reserve, the first community-managed nature reserve in The Gambia, which protects a unique coastal lagoon ecosystem. The population is predominantly Mandinka, and the town is known for maintaining a strong sense of traditional governance and communal values. In recent years, the town has seen tension between the development of fish meal processing plants and environmental conservation efforts aimed at protecting the marine life. For travelers, Gunjur offers an unfiltered and serene experience of Gambian coastal life, blending bustling market energy with ecological beauty and a profound sense of historical continuity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gunjur beherbergt den größten Standort für handwerklichen Fischfang im Süden Gambias.",
+          "Kenye-Kenye Jamango ist eine heilige Gebetsstätte direkt an den Klippen zum Meer.",
+          "Das Bolong Fenyo Reservat ist Gambias erstes von einer Gemeinde geführtes Naturschutzgebiet.",
+          "Die Stadt ist bekannt für ihre traditionellen Heilpraktiker und Gelehrten.",
+          "Gunjur liegt in unmittelbarer Nähe zur südlichen Grenze zum Senegal.",
+          "Hier findet jährlich ein bedeutendes lokales Kulturfestival statt."
+        ],
+        "hu": [
+          "Gunjur halpiaca az egyik legfontosabb fehérjeforrás a környékbeli lakosság számára.",
+          "A város melletti lagúna több mint 250 madárfajnak ad otthont.",
+          "A településen működik egy tengeri teknősvédelmi program is.",
+          "Gunjur partjainál különleges, vöröses sziklaalakzatok törnek fel a homokból.",
+          "A város híres az „arany mogyoró” nevű helyi mezőgazdasági fajtáról.",
+          "A település központjában egy hatalmas, többszáz éves pamutfa áll."
+        ],
+        "ro": [
+          "Gunjur deține una dintre cele mai mari concentrări de pirogi din Africa de Vest.",
+          "Rezervația Bolong Fenyo protejează specii rare de reptile și crocodili.",
+          "Orașul este un centru major pentru învățământul islamic tradițional.",
+          "Plaja Gunjur este faimoasă pentru turneele locale de lupte tradiționale.",
+          "Localitatea este un punct cheie pentru exportul de mango din regiune.",
+          "Impactul industrializării pescuitului este o temă centrală în comunitatea locală."
+        ],
+        "en": [
+          "Gunjur is a primary contributor to the national fish supply chain.",
+          "The sacred sand-dune prayer site attracts thousands of visitors annually.",
+          "Bolong Fenyo was established in 1998 to protect the local wetlands.",
+          "The town is a significant site for the Gambian Diaspora homecoming events.",
+          "It features a unique combination of coastal savanna and mangrove creeks.",
+          "Gunjur is known for its high-quality hand-woven Gambian textiles."
+        ]
+      }
+    },
+    {
+      "id": "sukuta-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sukuta ist eine rasant wachsende Stadt im Distrikt Kombo North der West Coast Region, nur wenige Kilometer landeinwärts von den touristischen Zentren an der Küste entfernt. Ursprünglich ein traditionelles Mandinka-Dorf, hat sich Sukuta zu einem bedeutenden städtischen Zentrum entwickelt, das eng mit der Agglomeration von Serekunda verknüpft ist. Die Stadt fungiert als wichtiges Wohngebiet für Pendler, die im Küstentourismus oder in Serekunda arbeiten. Sukuta ist bekannt für seinen lebhaften Markt und seine strategische Lage an der Straße, die die Küste mit dem Flughafen Yundum verbindet. Ein historisches Highlight ist die 'Sukuta Cinema' Gegend, die an die kulturelle Blütezeit der Stadt erinnert. Trotz der Urbanisierung hat Sukuta seinen traditionellen Kern bewahrt, in dem Großfamilien in traditionellen Compounds leben. Die Stadt beherbergt zudem wichtige Bildungseinrichtungen und Gesundheitszentren, die die wachsende Bevölkerung versorgen. Für Besucher bietet Sukuta einen authentischen Einblick in das gambische Alltagsleben, abseits der abgeschirmten Hotelzonen, und ist ein Beispiel für den sozialen Wandel im Kombo-Gebiet.",
+        "hu": "Sukuta egy dinamikusan fejlődő város a Kombo North körzetben, mindössze néhány kilométerre a tengerparti üdülőövezetektől. Az egykor hagyományos mandinka település mára Gambia egyik legfontosabb lakóövezetévé vált, amely szinte teljesen összenőtt Serekundával. Sukuta stratégiai elhelyezkedése miatt – közel a repülőtérhez és az óceánparthoz – népszerű a helyiek és a külföldiek körében egyaránt. A város központjában található piac a helyi gazdaság motorja, ahol friss zöldségeket, húst és kézműves termékeket árulnak. A település büszke történelmi gyökereire, amit a régi „compounds” (családi udvarok) rendszere ma is őriz a modern épületek között. Sukuta fontos oktatási központ is, számos általános és középiskolával rendelkezik. Az utóbbi években a város infrastruktúrája jelentősen fejlődött, új utak és üzleti negyedek épültek. A látogatók számára Sukuta tökéletes helyszín a valódi gambiai városi kultúra megismerésére, ahol a hagyományos értékek és a modern urbanizáció érdekes egyveleget alkot.",
+        "ro": "Sukuta este un oraș în plină expansiune situat în districtul Kombo North, funcționând ca o punte între zonele turistice de coastă și centrul comercial Serekunda. Fondat ca o așezare tradițională Mandinka, orașul a cunoscut o urbanizare rapidă, devenind una dintre cele mai dens populate zone rezidențiale din regiune. Sukuta este apreciat pentru atmosfera sa comunitară autentică și pentru piața sa locală vibrantă, care oferă o imagine clară a economiei informale gambiene. Poziția sa geografică pe ruta către Aeroportul Internațional Yundum îi conferă o importanță logistică majoră. În ciuda modernizării, Sukuta păstrează structuri sociale tradiționale, fiind renumit pentru respectul acordat bătrânilor și liderilor locali. Orașul găzduiește mai multe proiecte de dezvoltare comunitară și școli de referință, contribuind la formarea tinerilor din regiunea Kombo. Pentru turiști, Sukuta oferă o experiență culturală bogată, fiind o destinație ideală pentru cei care doresc să vadă dincolo de plajele de lux și să interacționeze cu ospitalitatea autentică a locuitorilor.",
+        "en": "Sukuta is a rapidly growing town in the Kombo North District, located just inland from the Atlantic coast’s tourism belt. Originally a historic Mandinka settlement, it has evolved into a key residential and commercial hub within the Greater Banjul Area. Sukuta serves as a vital commuter town for those working in the hospitality industry or the Serekunda markets. The town is centered around its bustling daily market and its strategic location along the highway linking the coast to Yundum International Airport. Sukuta is well-regarded for its community spirit and for preserving traditional family compounds alongside modern developments. It hosts several important educational and healthcare facilities that serve the expanding urban population. For visitors, Sukuta provides a genuine look at Gambian life, offering a vibrant atmosphere of street commerce, traditional music, and local craftsmanship. The town reflects the ongoing urban transformation of The Gambia, where ancestral roots and modern city living coexist in a dynamic social landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sukuta ist einer der ältesten Siedlungskerne im Distrikt Kombo North.",
+          "Die Stadt ist ein wichtiger Knotenpunkt auf der Route zum Flughafen.",
+          "Der Sukuta-Markt ist berühmt für seine Auswahl an lokalen Gewürzen.",
+          "Ein Großteil der Bevölkerung arbeitet im nahegelegenen Tourismussektor.",
+          "Die Stadt beherbergt das Sukuta Health Centre, ein wichtiges regionales Krankenhaus.",
+          "Sukuta ist bekannt für seine lebendige traditionelle Wrestling-Szene."
+        ],
+        "hu": [
+          "Sukuta neve mandinka nyelven 'vásárlást' vagy 'kereskedelmi helyet' jelent.",
+          "A városban található Gambia egyik legnépszerűbb kempingje külföldieknek.",
+          "A település központja megőrizte a hagyományos falusi szerkezetet.",
+          "Sukuta fontos bázisa a helyi civil szervezeteknek és oktatási alapítványoknak.",
+          "A város északi része szinte teljesen egybefolyt Serekundával.",
+          "A helyi közösség híres a közös fásítási és környezetvédelmi akcióiról."
+        ],
+        "ro": [
+          "Sukuta a fost o oprire majoră pe rutele comerciale istorice spre interior.",
+          "Orașul este renumit pentru artizanii săi în prelucrarea metalelor.",
+          "Sukuta Cinema a fost unul dintre primele cinematografe în aer liber din zonă.",
+          "Este considerat unul dintre cele mai sigure orașe pentru turiștii independenți.",
+          "Infrastructura de apă și electricitate a fost extinsă masiv după 2015.",
+          "Comunitatea locală este implicată activ în managementul deșeurilor urbane."
+        ],
+        "en": [
+          "Sukuta is a major heartland for the Mandinka ethnic community in Kombo.",
+          "The town acts as a strategic buffer between the coast and the inland provinces.",
+          "It features a high concentration of skill-training centers for youth.",
+          "The local football team, Sukuta United, has a strong regional following.",
+          "It is home to several historic baobab trees that serve as community meeting points.",
+          "Sukuta is a key producer of artisanal soaps and detergents in the region."
+        ]
+      }
+    },
+    {
+      "id": "brufut-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Brufut ist eine malerische Stadt an der Atlantikküste Gambias, die für ihre beeindruckenden Klippen und weiten Sandstrände bekannt ist. Geografisch liegt sie auf einem Hochplateau über dem Meer, was ihr eine einzigartige Aussicht und ein angenehmes Klima verleiht. Brufut ist ein Ort der Gegensätze: Während der alte Ortskern seinen traditionellen Charme als Fischer- und Bauerndorf bewahrt hat, entstehen in den Küstengebieten luxuriöse Wohnanlagen und Hotels. Ein Highlight ist das Brufut Woods Community Reserve, ein geschütztes Waldgebiet, das ein Paradies für Ornithologen ist und seltene Vogelarten beherbergt. Der Strand von Brufut ist ein wichtiger Anlandungsplatz für Fischer, an dem die tägliche Routine des Netzeflickens und Fischverkaufs beobachtet werden kann. Die Stadt beherbergt auch bedeutende spirituelle Stätten, darunter das Grab eines lokalen Heiligen, das als Pilgerziel dient. Brufut hat sich zu einem der begehrtesten Wohnorte im Kombo-Gebiet entwickelt, da es Ruhe mit der Nähe zu den wirtschaftlichen Zentren verbindet. Die Vegetation in der Umgebung ist geprägt durch majestätische Baobabs und Palmenhaine. Für Reisende bietet Brufut eine entspannte Atmosphäre und erstklassige Möglichkeiten zur Naturbeobachtung und Erholung.",
+        "hu": "Brufut egy festői város Gambia atlanti partvidékén, amely látványos sziklafalairól és végtelen homokos strandjairól ismert. A település egy magaslati fennsíkon fekszik közvetlenül az óceán felett, ami egyedülálló panorámát biztosít a látogatóknak. Brufut különlegessége a kettősség: az óváros megőrizte hagyományos földművelő és halászó jellegét, míg a parton modern villaparkok és luxusszállodák épültek. A környék egyik legfontosabb természeti értéke a Brufut Woods vadvédelmi terület, amely Nyugat-Afrika egyik legjobb madármegfigyelő helye. A tengerparton található halászkikötőben naponta friss zsákmány érkezik a színes csónakokkal, ami meghatározza a helyi gasztronómiát is. A város fontos spirituális központ is, több szentként tisztelt helyi vezető sírhelye található itt. Brufut lakossága büszke kertészeti hagyományaira, a város környéki kertekben termesztett gyümölcsök és zöldségek a környékbeli piacok legkeresettebb árui. Az idelátogatók számára Brufut a nyugalom szigete, ahol a természet közelsége és a tengeri levegő frissessége tökéletes kikapcsolódást nyújt.",
+        "ro": "Brufut este un oraș de coastă spectaculos în Gambia, renumit pentru falezele sale înalte și plajele neatinse de nisip fin. Situat pe un platou elevat, orașul oferă unele dintre cele mai frumoase priveliști asupra Atlanticului din întreaga țară. Brufut a evoluat de la un sat de fermieri și pescari la o zonă rezidențială de elită, păstrând totodată un nucleu istoric bine definit. O atracție majoră este Rezervația Comunitară Brufut Woods, un sanctuar forestier care adăpostește specii rare de păsări și fluturi, fiind o destinație obligatorie pentru naturaliști. Activitatea pescărească pe plaja Brufut este intensă și colorată, oferind o perspectivă autentică asupra culturii maritime locale. Orașul are o semnificație religioasă importantă, fiind sediul unor lăcașuri de cult tradiționale și moderne. Dezvoltarea imobiliară recentă a transformat Brufut într-un simbol al modernizării Gambiei, atrăgând numeroase investiții străine. Peisajul este dominat de baobabi uriași și livezi de caju, reflectând bogăția solului. Vizitatorii apreciază Brufut pentru amestecul său de lux discret, biodiversitate și tradiții rurale autentice, fiind un punct de referință pentru ecoturismul de coastă.",
+        "en": "Brufut is a picturesque coastal town in The Gambia, famous for its dramatic sandstone cliffs and sweeping sandy beaches. Positioned on an elevated plateau overlooking the Atlantic Ocean, it offers unique vistas and a refreshing maritime climate. Brufut represents a fascinating blend of old and new; its traditional core remains a close-knit community of farmers and fishers, while its shoreline has become a premium destination for luxury housing and high-end tourism. A key ecological landmark is the Brufut Woods Community Reserve, a protected forest area renowned as one of West Africa’s premier birdwatching sites. The Brufut fish landing site is a bustling hub where the daily rhythms of the sea dictate local life and commerce. The town is also home to significant religious sites, including the shrines of revered local figures, which draw pilgrims from the region. Brufut has become one of the most sought-after residential areas in the Kombo districts due to its tranquility and proximity to the urban centers of Serekunda and Banjul. Its landscape is dotted with ancient baobabs and productive fruit orchards. For travelers, Brufut offers a relaxed pace of life, world-class birding, and some of the most scenic coastal walks in the country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Brufut liegt auf einem Sandsteinplateau, das steil zum Atlantik abfällt.",
+          "Das Brufut Woods Reserve beherbergt über 150 verschiedene Vogelarten.",
+          "Die Stadt ist bekannt für den Anbau von hochwertigen Cashewnüssen.",
+          "Brufut Heights ist eines der exklusivsten Wohnviertel Gambias.",
+          "Der Strand von Brufut ist weniger kommerzialisiert als in Kololi.",
+          "Die Stadt beherbergt bedeutende historische Heiligengräber (Marabouts)."
+        ],
+        "hu": [
+          "Brufut tengerpartja híres a vörös homokkőből álló sziklafalairól.",
+          "A helyi közösségi erdőrezervátumot 2002-ben alapították.",
+          "A város környéke Gambia egyik legfontosabb mangótermelő vidéke.",
+          "Brufutban található több neves nemzetközi civil szervezet székhelye.",
+          "A tengerparti sávban fészkelnek a ritka gyurgyalagok és jégmadarak.",
+          "A város neve mandinka nyelven 'nagy földet' vagy 'nagy mezőt' jelent."
+        ],
+        "ro": [
+          "Falezele de la Brufut sunt unice în topografia litorală a Gambiei.",
+          "Localitatea este un punct focal pentru cercetările ornitologice internaționale.",
+          "Brufut este renumit pentru fabricarea tradițională a uleiului de palmier.",
+          "Orașul dispune de un centru de conferințe modern situat în apropierea coastei.",
+          "Tradiția pescuitului nocturn este încă practicată la scară largă aici.",
+          "Comunitatea Brufut este recunoscută pentru conservarea riturilor de inițiere."
+        ],
+        "en": [
+          "Brufut features some of the highest coastal elevations in The Gambia.",
+          "The town's Community Reserve is a global hotspot for the Long-tailed Nightjar.",
+          "It serves as a primary site for the nation's high-value residential expansion.",
+          "Brufut beach is a key landing site for artisanal shark and ray fisheries.",
+          "The area is characterized by vast and fertile coastal fruit gardens.",
+          "The town is a significant spiritual hub for the local Muslim community."
+        ]
+      }
+    },
+    {
+      "id": "tanji-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tanji ist ein pulsierendes Fischerdorf an der Küste Gambias, etwa 30 Kilometer südlich von Banjul, und gilt als einer der lebhaftesten Orte des Landes. Weltbekannt ist Tanji für seinen Fish Landing Site, wo hunderte von bunt bemalten Pirogen jeden Nachmittag durch die Brandung an den Strand stoßen. Das Dorf ist das Zentrum der gambischen Räucherfischindustrie; der Duft von über Holzfeuer geräuchertem Fisch liegt ständig in der Luft und prägt die Atmosphäre. Neben der Fischerei ist Tanji ein wichtiger Standort für den Naturschutz und die Kultur. Das Tanji Village Museum bietet einen tiefen Einblick in das traditionelle gambische Leben, mit Nachbauten von Compounds und Ausstellungen zu lokalem Handwerk und Musik. In unmittelbarer Nähe liegt das Tanji Bird Reserve (Karinti), ein geschütztes Gebiet aus Mangroven, Dünen und Küstenwald, das ein Paradies für Vogelliebhaber ist. Geografisch ist Tanji durch seine exponierte Lage am Atlantik und die vorgelagerte Bijol-Insel geprägt, die ein wichtiges Brutgebiet für Seevögel und Schildkröten ist. Die Gemeinschaft in Tanji ist eng mit dem Meer verbunden und bewahrt trotz des zunehmenden Tourismus ihre traditionellen Wurzeln. Ein Besuch in Tanji ist ein sensorisches Erlebnis, geprägt von den Farben der Boote, dem Lärm des Marktes und der rauen Schönheit der westafrikanischen Küste.",
+        "hu": "Tanji Gambia egyik legemblematikusabb halászfalva az Atlanti-óceán partján, mintegy 30 kilométerre délre Banjultól. A település híres a rendkívül látványos halászkikötőjéről, ahol minden délután pirogák százai küzdenek meg a hullámokkal, hogy partra tegyék a napi zsákmányt. Tanji az ország füstölthalkészítésének központja; a parton álló füstölőházak sora és a levegőben terengő jellegzetes illat a falu védjegyévé vált. A település kulturális ékköve a Tanji Falumúzeum, amely egyedülálló módon mutatja be a gambiai népcsoportok hagyományos életmódját, építészetét és gyógyászatát. Természeti szempontból a Tanji Madárrezervátum (Karinti) kiemelkedő jelentőségű, ahol a látogatók mangrovék és dűnék között figyelhetik meg a trópusi madárvilágot. A faluval szemben fekszik a Bijol-sziget, amely Gambia egyik legfontosabb tengeri madár-fészkelőhelye és a tengeri teknősök szaporodóhelye. Tanji közössége mélyen tiszteli a tengeri hagyományokat, és a település megőrizte ősi, vibráló karakterét a modern időkben is. Az idelátogatók számára Tanji egy érzékszervi utazás, ahol a hajók színei, a piac zsongása és az óceán ereje felejthetetlen élményt nyújt.",
+        "ro": "Tanji este un sat de pescari efervescent situat pe coasta Gambiei, la aproximativ 30 de kilometri sud de Banjul, fiind unul dintre cele mai dinamice și pitorești locuri din țară. Localitatea este celebră la nivel internațional pentru portul său de pescuit artizanal, unde sute de pirogi viu colorate revin zilnic din larg, creând un spectacol vizual unic pe plajă. Tanji reprezintă inima industriei de procesare a peștelui din Gambia, fiind renumit pentru numeroasele unități de afumare tradițională care exportă produse în tot hinterlandul african. Pe lângă importanța sa economică, Tanji este un pol cultural major, găzduind Muzeul Satului Tanji, o instituție privată care conservă arhitectura tradițională și cunoștințele despre plantele medicinale locale. Din punct de vedere ecologic, Rezervația de Păsări Tanji (Karinti) protejează un mozaic rar de habitate costiere, lagune și zone forestiere, fiind un paradis pentru ornitologi. Insulele Bijol, vizibile de pe coastă, fac parte din ecosistemul Tanji și servesc drept loc crucial de cuibărit pentru speciile marine. Viața în Tanji este un amestec de muncă asiduă pe mare și tradiții comunitare bine conservate. Pentru vizitatori, Tanji oferă cea mai vibrantă și autentică experiență a litoralului vest-african, un loc unde simțurile sunt asaltate de culori, sunete și aromele specifice oceanului.",
+        "en": "Tanji is a vibrant and iconic fishing village on the Atlantic coast of The Gambia, located about 30 kilometers south of Banjul. It is widely regarded as one of the country’s most energetic and sensory destinations, famous for its massive fish landing site. Every afternoon, the shore comes alive as hundreds of traditional, hand-painted pirogues navigate the Atlantic surf to bring in the day’s haul. Tanji is the epicenter of the Gambian fish-smoking industry; rows of smoking huts line the beach, creating a distinct atmosphere and a vital economic product for the region. Cultural heritage is preserved here through the Tanji Village Museum, which offers an immersive look into traditional Gambian architecture, crafts, and musical history. Nature enthusiasts are drawn to the Tanji Bird Reserve (Karinti), a protected area featuring dunes, lagoons, and coastal woodland that supports hundreds of bird species. Just offshore, the Bijol Islands serve as a critical breeding sanctuary for terns, gulls, and sea turtles. The community in Tanji remains deeply rooted in maritime traditions, providing visitors with an authentic glimpse into the industrious spirit of the Gambian people. A visit to Tanji is a quintessential Gambian experience, defined by the vibrant colors of the boats, the busy energy of the market, and the raw beauty of the coastline."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Tanji ist das größte Zentrum für geräucherten Fisch in Gambia.",
+          "Der Tanji-Fischmarkt ist am späten Nachmittag am belebtesten.",
+          "Das Tanji Village Museum ist ein privates Ökomuseum für gambische Kultur.",
+          "Das Tanji Bird Reserve umfasst etwa 612 Hektar geschütztes Land.",
+          "Die Bijol-Inseln vor Tanji sind das einzige bedeutende Brutgebiet für Seeschwalben.",
+          "Tanji ist ein wichtiger Ort für die Ausbildung im traditionellen Bootsbau."
+        ],
+        "hu": [
+          "Tanji halászkikötője Gambia legfontosabb tengeri élelemforrása.",
+          "A faluban több mint 50 különböző füstölőüzem működik.",
+          "A Tanji Madárrezervátumban ritka kék jégmadarak is láthatók.",
+          "A múzeum területén egy hagyományos kovácsműhely is üzemel.",
+          "A Bijol-szigeteknél rendszeresen látni palackorrú delfineket.",
+          "A falu neve a helyi dialektusban 'víz melletti köveket' jelent."
+        ],
+        "ro": [
+          "Tanji este principalul punct de aprovizionare cu pește pentru Serekunda.",
+          "Muzeul local deține o colecție impresionantă de instrumente muzicale tradiționale.",
+          "Rezervația Karinti este un loc cheie pentru observarea vulturului de mare african.",
+          "Tanji găzduiește o comunitate multietnică de pescari din tot Golful Guineei.",
+          "Tehnicile de afumare de aici folosesc lemn de mangrovă și esențe locale.",
+          "Insulele Bijol sunt protejate pentru conservarea țestoaselor verzi."
+        ],
+        "en": [
+          "Tanji handles more fish by volume than any other artisanal site in the country.",
+          "The Tanji Village Museum is built entirely of traditional local materials.",
+          "Karinti Reserve features some of the last remaining coastal forest in Kombo.",
+          "The town is a significant cultural center for traditional storytelling and lore.",
+          "Artisanal fishers here provide the majority of the smoked fish for the export market.",
+          "The surrounding waters are famous for seasonal barracuda and snapper runs."
+        ]
+      }
+    },
+    {
+      "id": "kerewan-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kerewan ist eine historisch und administrativ bedeutende Stadt am Nordufer des Gambia-Flusses und die Hauptstadt der North Bank Region. Geografisch liegt sie am Miniotto Bolong, einem Nebenfluss des Gambia, inmitten eines ausgedehnten Netzwerks von Mangrovensümpfen und Gezeitenkanälen. Die Stadt dient als zentraler Verwaltungssitz für den Distrikt Lower Baddibu und beherbergt zahlreiche Regierungsbüros und regionale Behörden. Kerewan hat eine lange Geschichte als wichtiger Handelsposten für landwirtschaftliche Produkte, insbesondere Erdnüsse, die hier auf Boote verladen wurden. Die Umgebung der Stadt ist geprägt durch fruchtbare Ebenen, die für den Reisanbau genutzt werden, sowie durch die angrenzende Savanne. Trotz ihres administrativen Status hat Kerewan einen ruhigen, ländlichen Charakter bewahrt. Die Verbindung zur Hauptstadt Banjul und dem Rest des Landes erfolgt über den Trans-Gambia Highway und regionale Straßen, wobei die Eröffnung der Senegambia-Brücke die Erreichbarkeit verbessert hat. Für die lokale Bevölkerung ist Kerewan ein wichtiger Dienstleistungsort mit Schulen, Gesundheitszentren und einem regen Marktplatz. Das Relief um die Stadt ist flach und wird stark von den Gezeiten des Flusses beeinflusst, was das Ökosystem der umliegenden Mangroven bestimmt. Kerewan symbolisiert die administrative Präsenz des Staates im ländlichen Nordufer und ist ein Zentrum der lokalen Mandinka-Kultur.",
+        "hu": "Kerewan Gambia északi részének (North Bank Region) közigazgatási központja és egyik legfontosabb történelmi városa. A település a Miniotto Bolong, a Gambia-folyó egyik jelentős mellékága mentén fekszik, kiterjedt mangrovemocsarak és árapály-csatornák ölelésében. Kerewan stratégiai szerepét az adja, hogy itt találhatók a régió legfontosabb kormányzati hivatali és adminisztratív szervei. Történelmileg a város fontos gyűjtőpontja volt az északi parton termelt földimogyorónak, amelyet innen szállítottak tovább a banjuli kikötőbe. A környék mezőgazdasága kiemelkedő; a folyó menti síkságokon intenzív rizstermesztés folyik, a távolabbi területeken pedig mogyoró- és kölesföldek találhatók. Kerewan városa megőrizte békés, vidéki jellegét, ahol a mandinka hagyományok és a modern államigazgatás összefonódik. A település közlekedési szempontból is jelentős, hiszen összeköti az északi parti főutat a folyóparti településekkel. Az utóbbi évek fejlesztései, mint az utak korszerűsítése, közelebb hozták a várost az ország gazdasági vérkeringéséhez. A látogatók számára Kerewan bepillantást enged egy gambiai tartományi központ mindennapjaiba, ahol a folyami ökoszisztéma közvetlenül befolyásolja a város szerkezetét és a lakók életmódját.",
+        "ro": "Kerewan este centrul administrativ al regiunii North Bank din Gambia și un oraș cu o profundă semnificație istorică, situat pe malul pârâului Miniotto Bolong, un afluent al fluviului Gambia. Localitatea servește drept capitală regională, găzduind sediile guvernamentale și instituțiile publice care coordonează dezvoltarea întregii zone de nord. Din punct de vedere geografic, Kerewan este înconjurat de un peisaj dominat de mangrove și câmpii inundabile, relieful fiind plat și extrem de fertil. Istoric, orașul a fost un avanpost comercial esențial pentru tranzitul alunelor de pământ către Oceanul Atlantic. Economia locală de astăzi se bazează pe agricultură, în special pe cultivarea orezului și a arahidelor, beneficiind de condițiile pedoclimatice favorabile ale districtului Lower Baddibu. Deși este un pol de putere administrativă, Kerewan păstrează un ritm de viață rural, fiind un centru de conservare a valorilor etnice Mandinka. Orașul joacă un rol vital în furnizarea de servicii educaționale și medicale pentru populația dispersată de pe malul nordic al fluviului. Conectivitatea sa a fost mult îmbunătățită prin modernizarea drumurilor regionale, facilitând accesul către hub-ul comercial Farafenni. Pentru cei care explorează nordul Gambiei, Kerewan oferă o perspectivă asupra organizării statale gambiene într-un context de sălbăticie ecologică și tradiție agrară.",
+        "en": "Kerewan is the administrative capital of the North Bank Region in The Gambia and a town of significant historical and political importance. Situated along the Miniotto Bolong, a major tributary of the Gambia River, it is surrounded by extensive mangrove swamps and tidal creeks. As the regional headquarters, Kerewan houses the Governor’s office and various government departments, making it the primary administrative node for the north. Historically, the town served as a vital river port for the groundnut trade, with produce from the Baddibu districts being loaded onto vessels for transport to Banjul. The surrounding landscape is characterized by fertile alluvial plains dedicated to rice cultivation and upland savannas where peanuts and millet are grown. Despite its official status, Kerewan maintains a serene, rural ambiance deeply rooted in Mandinka cultural traditions. The town serves as a critical service hub, providing secondary schools, health clinics, and a central marketplace for the local population. Improved road networks and the nearby Senegambia Bridge have integrated Kerewan more closely with the national economy. Its geography is shaped by the rhythmic rise and fall of the river tides, which sustain the surrounding ecosystems. Kerewan stands as a symbol of the Gambian state's presence in the rural provinces and remains a focal point for regional development and local governance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kerewan ist der Verwaltungssitz der North Bank Region (NBR).",
+          "Die Stadt liegt am Miniotto Bolong, einem schiffbaren Nebenarm des Gambia-Flusses.",
+          "Kerewan ist ein bedeutendes Zentrum für den Reisanbau in Gezeitenzonen.",
+          "Die Stadt beherbergt das Kerewan Health Centre, die wichtigste Klinik der Gegend.",
+          "Früher war Kerewan ein wichtiger Verladehafen für die Gambia Groundnut Corporation.",
+          "Das Relief um Kerewan ist eines der am niedrigsten gelegenen Gebiete des Landes."
+        ],
+        "hu": [
+          "Kerewan a Lower Baddibu körzet központja is egyben.",
+          "A város környéki mangroveerdők fontos szén-dioxid-megkötők.",
+          "A településen minden évben nagyszabású mezőgazdasági vásárt tartanak.",
+          "Kerewan volt az egyik első helyszín, ahol kísérleti rizstermesztési programok indultak.",
+          "A városban található a régió legfontosabb rendőrkapitánysága és bírósága.",
+          "A Miniotto Bolong vize sósabb, mint a folyó felsőbb szakaszaié."
+        ],
+        "ro": [
+          "Kerewan este situat la aproximativ 60 km distanță de orașul Barra.",
+          "Orașul este legat de Banjul prin rute comerciale fluviale istorice.",
+          "Regiunea Kerewan este renumită pentru densitatea mare de baobabi seculari.",
+          "Administrația locală promovează intens agricultura ecologică în zonă.",
+          "Kerewan servește drept bază pentru mai multe programe ONU de dezvoltare rurală.",
+          "Relieful plat favorizează inundațiile controlate pentru culturile de orez."
+        ],
+        "en": [
+          "Kerewan serves as the gateway to the rural heart of the North Bank.",
+          "The town is a significant site for the study of mangrove-estuary dynamics.",
+          "It acts as the primary judicial center for the North Bank Region.",
+          "Kerewan is a key participant in the national community-forestry initiative.",
+          "The local market is a major distribution point for salt and dried fish.",
+          "Historical colonial-era ruins of warehouses can still be seen near the bolong."
+        ]
+      }
+    }
+  ]
+}

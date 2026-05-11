@@ -1,0 +1,86 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "description": "Cárdenas in Rivas is a border town with Costa Rica, known for its commercial activities and proximity to Lake Nicaragua.",
+      "facts": ["Border town with Costa Rica", "Commercial activities", "Lake Nicaragua"]
+    },
+    {
+      "id": "san-juan-de-rio-coco-madriz-cities-v2",
+      "description": "San Juan de Río Coco in Madriz is known for its coffee cultivation and scenic mountain landscapes.",
+      "facts": ["Coffee cultivation", "Mountain landscapes", "Madriz"]
+    },
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "description": "San José de Cusmapa in Madriz is a mountain village, known for its handicrafts and cool mountain air.",
+      "facts": ["Mountain village", "Handicrafts", "Cool mountain air"]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "description": "Yalaguina in Madriz is known for its coffee plantations and picturesque mountain scenery.",
+      "facts": ["Coffee plantations", "Picturesque mountain scenery", "Madriz"]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "description": "Totogalpa in Madriz is a rural community, known for its pottery production and traditional festivals.",
+      "facts": ["Pottery production", "Traditional festivals", "Madriz"]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "description": "Palacagüina in Madriz is known for its musical traditions and proximity to mountainous regions.",
+      "facts": ["Musical traditions", "Mountainous regions", "Madriz"]
+    },
+    {
+      "id": "santa-rosa-del-penon-leon-cities-v2",
+      "description": "Santa Rosa del Peñón in León is a rural community, known for the cultivation of beans and corn.",
+      "facts": ["Rural community", "Beans and corn", "León"]
+    },
+    {
+      "id": "el-realejo-chinandega-cities-v2",
+      "description": "El Realejo in Chinandega is a historic port town that was once an important trade center.",
+      "facts": ["Historic port town", "Important trade center", "Chinandega"]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "description": "Santo Domingo in Chontales is a mining town, famous for its gold mines and rich history.",
+      "facts": ["Mining town", "Gold mines", "Rich history"]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "description": "Teustepe in Boaco is an agricultural community, known for the cultivation of rice, beans, and corn.",
+      "facts": ["Agricultural community", "Rice, beans, corn", "Boaco"]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "description": "Camopa in Boaco is known for its natural beauty and proximity to mountains and rivers.",
+      "facts": ["Natural beauty", "Mountains and rivers", "Boaco"]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "description": "San José de los Remates in Boaco is a mountain town, known for its coffee cultivation and cool mountain air.",
+      "facts": ["Mountain town", "Coffee cultivation", "Cool mountain air"]
+    },
+    {
+      "id": "puerto-corinto-economic-v2",
+      "description": "Puerto Corinto is Nicaragua's largest and most important Pacific port, a hub for exports and imports.",
+      "facts": ["Largest Pacific port", "Exports and imports", "Economic hub"]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "description": "Hacienda San Jacinto is a historic site where a decisive battle took place in the 1856 civil war.",
+      "facts": ["Historic site", "1856 civil war battle", "National monument"]
+    },
+    {
+      "id": "iglesia-la-merced-granada-history-v2",
+      "description": "La Merced Church in Granada is a religious landmark with a bell tower offering panoramic views of the city.",
+      "facts": ["Religious landmark", "Granada", "Panoramic views"]
+    }
+  ]
+}

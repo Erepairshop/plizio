@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sarro-groundnut-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Erdnussverarbeitungswerk in Sarro (Sarro Groundnut Plant) ist eine der wichtigsten Industrieanlagen Gambias und das Herzstück des Agrarsektors. Geografisch liegt die Anlage am Ufer des Gambia-Flusses im Distrikt Kombo Saint Mary, was einen einfachen Transport der Rohstoffe per Binnenschiff ermöglicht. Erdnüsse sind das bedeutendste landwirtschaftliche Exportgut des Landes, und das Werk in Sarro spielt eine entscheidende Rolle bei der Reinigung, Schälung und Vorbereitung der Nüsse für den Weltmarkt. Die Anlage wird von der Gambia Groundnut Corporation (GGC) betrieben und verfügt über riesige Silos und moderne Verarbeitungsmaschinen. Wirtschaftlich ist Sarro der Motor für tausende gambische Kleinbauern, deren Ernte hier zusammenläuft. Neben der Schälung wird in Sarro auch Erdnussöl gepresst und hochwertiger Tierfutterkuchen produziert. Das Relief des Geländes ist funktional gestaltet, mit ausgedehnten Lagerflächen und Verladestellen direkt am Wasser. Die industrielle Aktivität während der Erntesaison zwischen Dezember und März ist ein Barometer für den wirtschaftlichen Erfolg des Landes. Das Werk symbolisiert Gambias Bemühungen, die Wertschöpfungskette im eigenen Land zu vertiefen und die Abhängigkeit von Rohstoffexporten zu verringern.",
+        "hu": "A Sarro földimogyoró-feldolgozó üzem Gambia mezőgazdaságának egyik legfontosabb ipari létesítménye, amely Kombo Saint Mary körzetben, a Gambia-folyó partján található. Mivel a földimogyoró az ország első számú exportterméke, a sarroi üzem kulcsszerepet játszik a gazdaságban: itt végzik a begyűjtött mogyoró tisztítását, hántolását és osztályozását a nemzetközi piacok számára. A gyár közvetlen folyóparti elhelyezkedése lehetővé teszi, hogy az ország belső területeiről uszályokon érkező terményt hatékonyan rakodják ki. Az üzemet a Gambia Groundnut Corporation (GGC) irányítja, és hatalmas silórendszere meghatározza a környék látképét. Gazdaságilag Sarro közvetlen kapcsolatot jelent a vidéki kistermelők és a globális kereskedelem között. A feldolgozás során nemcsak exportra kész mogyorót, hanem étolajat és takarmányt is előállítanak. A terület domborzata sík, kifejezetten az ipari logisztika és a nehézgépjárművek forgalmára optimalizálták. A betakarítási szezon idején az üzem éjjel-nappal működik, munkahelyek ezreit biztosítva közvetve és közvetlenül. Sarro a gambiai agrár-modernizáció és az ipari önállóság egyik legfontosabb bástyája.",
+        "ro": "Fabrica de procesare a arahidelor de la Sarro (Sarro Groundnut Plant) reprezintă un pilon strategic al economiei gambiene, fiind situată pe malul fluviului Gambia în districtul Kombo Saint Mary. Această unitate industrială este esențială pentru valorificarea principalului produs agricol de export al țării, alunele de pământ. Facilitatea este dotată cu tehnologii pentru curățare, decorticare și calibrare, asigurând standardele de calitate cerute pe piețele europene și asiatice. Poziția sa strategică permite recepția eficientă a barjelor care transportă recoltele din interiorul țării către zona metropolitană. Administrată de corporația națională GGC, fabrica de la Sarro procesează anual zeci de mii de tone de materie primă. Din punct de vedere economic, unitatea susține veniturile marii majorități a populației rurale din Gambia, fiind punctul final al lanțului valoric agricol. Pe lângă exportul de semințe, complexul de la Sarro include și o linie de extracție a uleiului vegetal, reducând necesarul de importuri. Relieful industrial este caracterizat de depozite masive și infrastructură de transport greu integrată cu portul fluvial. Activitatea intensă din timpul sezonului de recoltă transformă Sarro într-un indicator vital al sănătății economice naționale. Este un simbol al eforturilor de industrializare bazate pe resurse locale.",
+        "en": "The Sarro Groundnut Plant is a critical industrial facility in The Gambia, serving as the nerve center for the processing of the nation's primary agricultural export. Geographically located on the banks of the Gambia River in the Kombo Saint Mary district, it benefits from direct maritime and riverine access for transporting bulk crops. The plant is operated by the Gambia Groundnut Corporation (GGC) and is responsible for the cleaning, decorticating, and grading of peanuts before they are shipped to international markets. Sarro’s massive silos and processing lines are essential for maintaining the quality standards required for global trade. Economically, the facility is the primary link between thousands of small-scale Gambian farmers and the world economy. Beyond export preparation, the plant also produces high-quality crude groundnut oil and cake for livestock feed. The terrain of the site is flat and functionally designed to accommodate heavy logistics and river barge operations. During the peak trade season from December to April, Sarro becomes a beehive of activity, reflecting the country's economic performance. The plant stands as a symbol of The Gambia's strategy to enhance domestic value addition and secure food sovereignty through industrial agriculture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Werk in Sarro wird von der staatlichen Gambia Groundnut Corporation (GGC) betrieben.",
+          "Erdnüsse machen historisch bis zu 60 % der gambischen Exporterlöse aus.",
+          "Die Anlage verfügt über eigene Tiefwasser-Anlegestellen am Gambia-Fluss.",
+          "In Sarro wird auch das bekannte gambische Erdnussöl für den lokalen Markt gepresst.",
+          "Die Silos in Sarro gehören zu den größten Getreidespeichern Westafrikas.",
+          "Das Werk ist ein Hauptabnehmer für Erdnüsse aus der Central und Upper River Region."
+        ],
+        "hu": [
+          "Sarro az ország legnagyobb hántolóüzemével rendelkezik.",
+          "A gyár közvetlen összeköttetésben áll a banjuli tengeri kikötővel.",
+          "A mogyorófeldolgozás során keletkező héjat üzemanyagként is hasznosítják.",
+          "A GGC sarroi telephelye a nemzeti élelmiszerbiztonsági tartalékok egyik őrzője.",
+          "A mogyoróolaj-finomító részleg modernizálása 2017-ben fejeződött be.",
+          "Sarro fontos bázisa a mezőgazdasági minőségellenőrző hatóságoknak."
+        ],
+        "ro": [
+          "Fabrica de la Sarro procesează soiuri locale de arahide recunoscute pentru conținutul ridicat de ulei.",
+          "Infrastructura de la Sarro include laboratoare de testare a aflatoxinelor.",
+          "Este principalul hub pentru distribuția subvenționată a semințelor către fermieri.",
+          "Relieful stabilizat a permis instalarea unor prese industriale de mare tonaj.",
+          "Sarro joacă un rol central în reglementarea prețului minim garantat la mogyoró.",
+          "Unitatea este alimentată parțial prin sisteme de cogenerare din biomasă."
+        ],
+        "en": [
+          "Sarro is the most technologically advanced agro-processing unit in the country.",
+          "The facility provides a significant percentage of the country's industrial jobs.",
+          "It acts as a strategic buffer for national oilseed supplies during lean seasons.",
+          "The riverfront location at Sarro minimizes road transport costs for the GGC.",
+          "Sarro's refined groundnut oil is a premium product in the ECOWAS region.",
+          "The plant features specialized equipment for the mechanical sorting of export nuts."
+        ]
+      }
+    },
+    {
+      "id": "banjul-breweries-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Banjul Breweries Limited, lokal bekannt unter dem Namen 'JulBrew', ist das führende Industrieunternehmen im Getränkesektor Gambias. Die Brauerei wurde 1975 gegründet und hat ihren Sitz im Industriegebiet von Kanifing, nahe der Hauptstadt Banjul. Geografisch profitiert das Werk von der Nähe zum Hafen und den Hauptverkehrsadern der Metropolregion. Wirtschaftlich ist die Brauerei von enormer Bedeutung, da sie nicht nur den Inlandsmarkt mit Bier und alkoholfreien Getränken versorgt, sondern auch einer der größten privaten Arbeitgeber und Steuerzahler des Landes ist. JulBrew-Bier ist zu einer nationalen Marke geworden, die fest in der gambischen Kultur und dem Tourismussektor verankert ist. Das Unternehmen betreibt moderne Abfüllanlagen und legt großen Wert auf die Einhaltung internationaler Qualitätsstandards. Trotz der Herausforderungen durch Importkonkurrenz hat Banjul Breweries seine Marktführerschaft durch lokale Produktion und ein starkes Vertriebsnetz behauptet. Das Relief des Brauereigeländes ist flach und optimal in die industrielle Infrastruktur von Kanifing integriert. Die Anlage ist auch ein Vorreiter im Bereich der industriellen Abwasserbehandlung in Gambia. Für die gambische Wirtschaft symbolisiert die Brauerei den Erfolg der lokalen verarbeitenden Industrie und ist ein wichtiger Partner für das Hotel- und Gaststättengewerbe.",
+        "hu": "A Banjul Breweries Limited, vagy ahogy a helyiek ismerik, a 'JulBrew', Gambia legnagyobb és legfontosabb italgyártó vállalata. Az 1975-ben alapított sörfőzde Kanifing ipari negyedében található, stratégiai közelségben a fővároshoz és a kikötőhöz. Gazdaságilag a vállalat az ország egyik legjelentősebb szereplője: a JulBrew sör mára nemzeti márkává vált, amely elengedhetetlen része a helyi vendéglátásnak és a turizmusnak. A gyár nemcsak alkoholtartalmú italokat, hanem számos népszerű üdítőt és ásványvizet is palackoz, kiszolgálva a teljes gambiai piacot. A sörfőzde az egyik legnagyobb magánfoglalkoztató a régióban, és jelentős adóbevételeket generál az állam számára. Az üzem modern technológiával rendelkezik, saját laboratóriummal a minőségbiztosítás érdekében. A terület domborzata sík, ami megkönnyíti a logisztikát és a folyamatos áruszállítást az ország minden pontjára. A Banjul Breweries elkötelezett a fenntarthatóság mellett is, modern víztisztító rendszere példaértékű a térségben. A látogatók és üzleti partnerek számára a JulBrew a gambiai ipari fejlődés egyik legsikeresebb példája, amely évtizedek óta stabil pontja az ország gazdaságának.",
+        "ro": "Banjul Breweries Limited, cunoscută popular sub marca „JulBrew”, este cea mai importantă unitate de producție din sectorul băuturilor din Gambia. Fondată în 1975, fabrica este situată în zona industrială Kanifing, beneficiind de infrastructura logistică de prim rang a municipalității. Din punct de vedere economic, JulBrew este un gigant local, fiind principalul furnizor de bere și băuturi răcoritoare pentru piața internă și pentru industria turistică înfloritoare. Berea JulBrew a devenit un simbol național, recunoscut pentru calitatea sa constantă, fiind premiată la nivel internațional. Fabrica reprezintă unul dintre cei mai mari angajatori privați din sectorul formal, oferind locuri de muncă specializate sutelor de gambieni. Din punct de vedere tehnic, unitatea utilizează linii de îmbuteliere automate și sisteme riguroase de control al calității. Relieful plat al amplasamentului a facilitat extinderea capacităților de stocare și a depozitelor frigorifice. Banjul Breweries joacă, de asemenea, un rol social activ prin sponsorizarea evenimentelor culturale și sportive. În contextul economiei naționale, această companie demonstrează viabilitatea producției locale în fața produselor de import, contribuind semnificativ la bugetul de stat prin accize și taxe. Este un pilar al industrializării Gambiei moderne.",
+        "en": "Banjul Breweries Limited, widely recognized by its brand name 'JulBrew,' is The Gambia’s premier manufacturing company in the beverage sector. Established in 1975 and located in the Kanifing Industrial Estate, it occupies a strategic position near the capital's commercial heart. Economically, the brewery is a vital asset, supplying the domestic market with a variety of beers, stouts, and soft drinks that are staples of the local tourism and hospitality industries. JulBrew beer has achieved the status of a national brand, often praised for its quality and distinct Gambian identity. As one of the largest private employers and taxpayers in the country, the company contributes significantly to the national GDP. The facility is equipped with modern brewing and bottling technology, adhering to strict international hygiene and quality standards. The terrain of the industrial site is level, facilitating efficient logistics and the movement of heavy distribution trucks. The brewery has also invested in environmental management, including an advanced wastewater treatment plant, setting a standard for local industry. For The Gambia, Banjul Breweries represents a successful model of long-term industrial investment and remains a cornerstone of the country’s manufacturing landscape."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brauerei wurde 1975 als Gemeinschaftsprojekt mit ausländischen Investoren gegründet.",
+          "Das Hauptprodukt 'JulBrew' hat mehrfach den 'Monde Selection' Qualitätspreis gewonnen.",
+          "Banjul Breweries produziert auch Lizenzmarken internationaler Softdrink-Hersteller.",
+          "Die Fabrik befindet sich im Herzen der Kanifing Industrial Estate.",
+          "Sie ist einer der größten gewerblichen Wasserverbraucher des Landes.",
+          "Die Brauerei ist ein wichtiger Sponsor für den gambischen Fußball und Musikfestivals."
+        ],
+        "hu": [
+          "A JulBrew Gambia egyetlen hazai sörgyártó vállalata.",
+          "A gyár alapítása óta több mint 10-szer nyert nemzetközi minőségi díjat.",
+          "A vállalat portfóliójába tartozik a Vitamalt és több népszerű üdítőital is.",
+          "A gyár területén szigorú környezetvédelmi előírások érvényesek.",
+          "A JulBrew logisztikai flottája az egyik legnagyobb az országban.",
+          "A sörfőzde neve összeforrt a gambiai vendégszeretettel és a 'Smiling Coast' imázzsal."
+        ],
+        "ro": [
+          "Banjul Breweries este o filială a grupului Castel de mai mulți ani.",
+          "Capacitatea de producție a fost dublată prin investiții în anul 2012.",
+          "Materiile prime secundare sunt uneori importate, dar procesarea este 100% locală.",
+          "Este una dintre puținele fabrici din Gambia cu certificare ISO de lungă durată.",
+          "Berea JulBrew este exportată în cantități mici și în țările vecine.",
+          "Relieful plat din Kanifing asigură un acces facil pentru vehiculele de aprovizionare."
+        ],
+        "en": [
+          "Banjul Breweries is a major contributor to the Gambia’s industrial sector diversification.",
+          "The brewery uses local artesian water for its beverage production.",
+          "JulBrew is the most widely available commercial beverage brand in The Gambia.",
+          "The company operates its own electricity generation units to ensure production stability.",
+          "It acts as a primary buyer for local packaging and labeling services.",
+          "The brewery has survived several economic shifts, maintaining its market dominance."
+        ]
+      }
+    },
+    {
+      "id": "gambia-milling-corp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Gambia Milling Corporation (GMC) ist eine zentrale Säule der lebensmittelverarbeitenden Industrie Gambias mit Sitz im Industriegebiet von Banjul am Half Die. Das Unternehmen ist vor allem auf die Vermahlung von Weizen und die Produktion von hochwertigem Mehl spezialisiert, das die Grundlage für die nationale Backwarenindustrie bildet. Geografisch liegt GMC in unmittelbarer Nähe zum Seehafen von Banjul, was den Import von Rohgetreide direkt von den Hochseeschiffen ermöglicht. Diese strategische Lage minimiert die Transportkosten und sichert eine kontinuierliche Versorgung der Bevölkerung mit Mehl. Wirtschaftlich ist GMC von entscheidender Bedeutung, da sie die Abhängigkeit von teuren Mehlimporten verringert und den Devisenabfluss bremst. Die Anlage verfügt über modernste Müllereitechnik und große Lagerkapazitäten, um Preisschwankungen auf dem Weltmarkt auszugleichen. Das Relief des Standorts ist durch die industrielle Hafenlandschaft geprägt, mit hohen Getreidehebern und Verladeanlagen. Neben Mehl produziert das Unternehmen auch Kleie und andere Nebenprodukte, die als Tierfutter in der gambischen Landwirtschaft Verwendung finden. GMC ist ein Symbol für die industrielle Modernisierung Gambias und spielt eine Schlüsselrolle bei der Stabilisierung der Preise für Grundnahrungsmittel wie Brot.",
+        "hu": "A Gambia Milling Corporation (GMC) a gambiai élelmiszer-feldolgozó ipar egyik tartóoszlopa, amely Banjul ipari övezetében, a kikötő közelében található. A vállalat fő profilja a búzaőrlés és a lisztgyártás, amely alapvető fontosságú az ország pékáru-ellátása és élelmiszerbiztonsága szempontjából. A GMC stratégiai helyszínen, közvetlenül a banjuli mélyvízi kikötő szomszédságában fekszik, ami lehetővé teszi az importált gabona gyors és költséghatékony kirakodását az óceánjáró hajókról. Gazdaságilag a GMC jelenléte kulcsfontosságú, mivel jelentősen csökkenti a kész liszt importjától való függőséget és erősíti a hazai feldolgozóipart. Az üzem modern malomtechnológiával és hatalmas raktárkapacitással rendelkezik, biztosítva a folyamatos termelést még a világpiaci ellátási nehézségek idején is. A gyár látképét a monumentális gabonasilók határozzák meg. A liszt mellett a malom fontos melléktermékeket, például korpát is előállít, amelyet a helyi állattenyésztők hasznosítanak takarmányként. A GMC sikere példaértékű a gambiai iparosításban, hiszen közvetlen hatással van a lakosság mindennapi kenyerének árára és minőségére. A vállalat elkötelezett a helyi munkaerő képzése és a technológiai innováció mellett.",
+        "ro": "Gambia Milling Corporation (GMC) reprezintă o componentă vitală a infrastructurii agro-industriale din Gambia, fiind localizată în zona portuară a capitalei Banjul. Specializată în măcinarea grâului și producția de făină de calitate superioară, GMC este principalul furnizor pentru industria de panificație din întreaga țară. Poziția sa geografică, la mică distanță de terminalele de descărcare ale portului, facilitează importul direct de cereale vrac, optimizând lanțul de aprovizionare. Din punct de vedere economic, GMC joacă un rol strategic în securitatea alimentară națională, reducând vulnerabilitatea Gambiei la fluctuațiile prețurilor făinii de import. Fabrica este dotată cu silozuri de mare capacitate și sisteme de măcinare de ultimă generație, asigurând o producție constantă și igienică. Relieful industrial al locației este definit de turnurile de stocare a cerealelor, care sunt printre cele mai înalte structuri din zona Half Die. Pe lângă făină, GMC produce și tărâțe, un subprodus esențial pentru dezvoltarea sectorului zootehnic local. Compania simbolizează tranziția Gambiei către o economie de procesare, aducând valoare adăugată și locuri de muncă în sectorul industrial. Prin controlul prețurilor și al calității, GMC contribuie direct la stabilitatea socială, făcând din pâine un aliment accesibil tuturor cetățenilor.",
+        "en": "The Gambia Milling Corporation (GMC) is a cornerstone of the nation’s food processing industry, situated in the industrial area of Banjul near the main port. Specializing in wheat milling and the production of high-grade flour, GMC is the primary supplier for The Gambia’s bakery and confectionary sectors. Geographically, its proximity to the Port of Banjul allows for the direct offloading of imported wheat from large vessels, significantly reducing logistics costs and ensuring a steady supply chain. Economically, GMC is essential for reducing The Gambia's reliance on expensive imported flour, thereby preserving foreign exchange reserves. The facility features state-of-the-art milling technology and massive storage silos designed to buffer against global market volatility. The industrial landscape of the site is marked by prominent grain elevators and high-capacity loading docks. In addition to flour, the corporation produces bran and other by-products used as essential feed for the local livestock industry. GMC stands as a symbol of Gambian industrial modernization and plays a critical role in stabilizing the price and availability of bread, a key staple for the Gambian people. The corporation is a major employer in the capital and a key player in the national strategy for agro-industrial growth."
+      },
+      "factsAdvanced": {
+        "de": [
+          "GMC ist die einzige industrielle Weizenmühle in Gambia.",
+          "Das Unternehmen deckt fast 90 % des nationalen Bedarfs an Backmehl.",
+          "Der Standort im Hafenviertel Banjuls erlaubt die Entladung von Schiffen per Förderband.",
+          "GMC investiert stark in die Ausbildung lokaler Müllereitechniker.",
+          "Die Anlage verfügt über eine Lagerkapazität von zehntausenden Tonnen Getreide.",
+          "Mehl von GMC wird auch in benachbarte Regionen des Senegal exportiert."
+        ],
+        "hu": [
+          "A GMC malom silói Banjul egyik legmagasabb ipari építményei.",
+          "A vállalat lisztje 'GMC Flour' márkanéven fut az egész országban.",
+          "A gyár segített stabilizálni a kenyér árát a gambiai piacon.",
+          "A malom melléktermékei alapvetőek a helyi baromfitartók számára.",
+          "A GMC modern élelmiszer-higiéniai tanúsítványokkal (HACCP) rendelkezik.",
+          "Az üzem 24 órás műszakban működik a kereslet kielégítésére."
+        ],
+        "ro": [
+          "GMC a fost inaugurată oficial în anul 2013, revoluționând piața făinii.",
+          "Producția anuală a fabricii depășește 100.000 de tone de făină.",
+          "Compania beneficiază de facilități de export în cadrul zonei libere portuare.",
+          "Relieful industrial de la Half Die a fost modernizat special pentru GMC.",
+          "GMC colaborează cu asociațiile locale de brutari pentru standardizarea calității.",
+          "Fabrica utilizează sisteme de filtrare a aerului pentru a reduce praful de făină în oraș."
+        ],
+        "en": [
+          "The Gambia Milling Corporation is a key strategic partner for national food security.",
+          "It operates the largest grain storage facility in the country.",
+          "The corporation has significantly reduced the national trade deficit in food items.",
+          "GMC provides specialized flour blends for traditional Gambian tapalapa bread.",
+          "The facility is integrated with high-speed automated packing systems.",
+          "It acts as a primary logistics hub for bulk grain imports in the Senegambia region."
+        ]
+      }
+    },
+    {
+      "id": "brikama-power-station-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kraftwerk von Brikama (Brikama Power Station) ist die wichtigste Energiequelle Gambias und das Herzstück des nationalen Stromnetzes. Es liegt im Industriegebiet am Rande von Brikama, etwa 35 Kilometer südlich der Hauptstadt. Das Kraftwerk wird von der National Water and Electricity Company (NAWEC) betrieben und wurde in mehreren Phasen ausgebaut, um den wachsenden Energiehunger des Landes zu stillen. Die Anlage besteht aus mehreren großen Dieselgeneratoren (HFO - Heavy Fuel Oil), die eine installierte Leistung von über 50 Megawatt erbringen. Geografisch liegt das Kraftwerk ideal, um den bevölkerungsreichen Großraum Banjul (Greater Banjul Area) sowie das Hinterland der West Coast Region zu versorgen. Wirtschaftlich ist die Brikama Power Station unverzichtbar für die industrielle Entwicklung und den Tourismus, da sie die Stabilität des Netzes sichert. In den letzten Jahren wurden hier auch bedeutende Investitionen in die Modernisierung und die Integration von Solarenergie getätigt, um die Abhängigkeit von fossilen Brennstoffen zu verringern. Das Relief des Geländes ist eben, geprägt durch die massiven Maschinenhallen, Transformatorenstationen und die weitläufigen Treibstofftanks. Das Kraftwerk ist ein Symbol für den technologischen Fortschritt Gambias und eine strategische Einrichtung von höchster nationaler Bedeutung.",
+        "hu": "A brikamai erőmű (Brikama Power Station) Gambia legfontosabb energiatermelő létesítménye, amely az országos elektromos hálózat motorjaként funkcionál. A Nyugati Part (West Coast) régióban, Brikama városa mellett található erőművet a nemzeti víz- és áramszolgáltató, a NAWEC üzemelteti. A létesítmény több fázisban épült ki, és ma már több mint 50 megawattnyi beépített kapacitással rendelkezik, amelyet elsősorban nehézolaj-tüzelésű (HFO) dízelgenerátorok biztosítanak. Gazdaságilag az erőmű nélkülözhetetlen: ez a központ látja el árammal a Nagy-Banjul térség ipari üzemeit, a turisztikai zónákat és a lakossági negyedeket is. Az utóbbi években az erőmű területén jelentős fejlesztések történtek a hatékonyság növelése érdekében, valamint megkezdődött a napelemes rendszerek integrálása is a hálózatba. A terület domborzata sík, a látképet a hatalmas gépházak, a hűtőtornyok és az óriási üzemanyagtartályok uralják. Brikama áramtermelő központja stratégiai jelentőségű létesítmény, amelynek folyamatos működése alapfeltétele Gambia gazdasági stabilitásának és fejlődésének. A látogatók számára az erőmű méretei és a technológiai komplexitása Gambia modern, ipari arcát mutatják be.",
+        "ro": "Centrala Electrică din Brikama (Brikama Power Station) este inima sistemului energetic al Gambiei, fiind cea mai mare și mai importantă unitate de producție de electricitate din țară. Situată la periferia industrială a orașului Brikama, centrala este administrată de compania națională NAWEC. Facilitatea utilizează generatoare diesel masive, alimentate cu păcură grea (HFO), pentru a genera peste 50 MW, acoperind cea mai mare parte a necesarului energetic al zonei metropolitane Banjul. Din punct de vedere economic, centrala este vitală pentru funcționarea industriei, a serviciilor publice și a complexelor turistice de la coastă. De-a lungul anilor, centrala din Brikama a beneficiat de numeroase proiecte de extindere și modernizare finanțate de parteneri internaționali precum Banca Mondială și Banca Islamică de Dezvoltare. Relieful locației este unul plat, amenajat special pentru a susține greutatea enormă a turbinelor și a rezervoarelor de combustibil. Recent, locația a devenit un punct focal pentru integrarea energiei regenerabile, găzduind proiecte pilot de panouri solare. Centrala din Brikama nu este doar o facilitate industrială, ci un activ strategic de securitate națională, asigurând „lumina” necesară dezvoltării socio-economice a Gambiei.",
+        "en": "The Brikama Power Station is the primary energy source for The Gambia and the backbone of the national electricity grid. Located in the industrial outskirts of Brikama, about 35 kilometers south of Banjul, the station is operated by the National Water and Electricity Company (NAWEC). It has been developed in multiple phases to keep pace with the country's growing power demands, featuring heavy fuel oil (HFO) generators that provide an installed capacity of over 50 megawatts. Geographically, the station is ideally positioned to supply both the densely populated Greater Banjul Area and the expanding residential and industrial zones of the West Coast Region. Economically, the Brikama Power Station is indispensable, providing the electricity that fuels businesses, hospitals, and the vital tourism sector. In recent years, significant investments have been made to modernize the plant and integrate solar power into the local network, aiming to reduce the nation's high dependence on fossil fuel imports. The terrain is flat and dominated by massive machine halls, high-voltage transformers, and extensive fuel storage tanks. The power station is a symbol of Gambia's technological advancement and is recognized as a strategic facility of top national importance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Kraftwerk Brikama produziert über 70 % des in Gambia verbrauchten Stroms.",
+          "Die Anlage wird von der staatlichen NAWEC in Kooperation mit IPPs betrieben.",
+          "Es ist das größte Wärmekraftwerk des Landes.",
+          "Brikama ist über eine 132-kV-Leitung direkt mit Banjul und Kotu verbunden.",
+          "Das Kraftwerk nutzt schwere Dieselmotoren für die Grundlastversorgung.",
+          "Teile des Kraftwerks wurden durch internationale Kredite aus Taiwan und der IDB finanziert."
+        ],
+        "hu": [
+          "Brikama az ország elektromos elosztóhálózatának központi csomópontja.",
+          "Az erőmű mellett nemrég adták át Gambia egyik legnagyobb napelem-parkját.",
+          "A létesítmény hűtőrendszere modern környezetkímélő technológiát használ.",
+          "Az erőmű zavartalan működését éjjel-nappal fegyveres őrség biztosítja.",
+          "Brikama energiatermelése kulcsfontosságú a gyárak és üzemek számára.",
+          "Az üzemanyagszállítás a tengerparti termináloktól tartálykocsikkal történik."
+        ],
+        "ro": [
+          "Centrala din Brikama are o capacitate instalată de circa 56 MW.",
+          "Proiectul 'Brikama II' a fost finalizat recent pentru a reduce penele de curent.",
+          "Infrastructura include stații de transformare moderne pentru rețeaua națională.",
+          "Centrala este un punct cheie în proiectul West African Power Pool (WAPP).",
+          "Eficiența energetică a crescut cu 15% în urma ultimelor retehnologizări.",
+          "Locația dispune de sisteme avansate de stingere a incendiilor industriale."
+        ],
+        "en": [
+          "Brikama is the main node for the Gambia's transition to sustainable energy.",
+          "The facility provides essential baseload power for the entire western region.",
+          "It acts as a training ground for Gambian electrical and mechanical engineers.",
+          "The station's output is critical for the survival of the coastal fish-processing industry.",
+          "NAWEC's national control center is closely linked to the Brikama site.",
+          "It features significant fuel storage infrastructure to prevent national outages."
+        ]
+      }
+    },
+    {
+      "id": "gunjur-fish-meal-factory-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Fischmehlfabrik in Gunjur (Gunjur Fish Meal Factory) ist ein kontroverses, aber wirtschaftlich bedeutendes Industrieunternehmen an der südgabunischen Küste. Die Fabrik, die von chinesischen Investoren betrieben wird (Golden Lead), nutzt den enormen Fischreichtum der Region, um Fischmehl und Fischöl für den Export, primär nach Asien, herzustellen. Geografisch liegt die Anlage unmittelbar am Strand von Gunjur, was einen direkten Zugang zu den Anlandestellen der Pirogenflotten ermöglicht. Wirtschaftlich gesehen hat die Fabrik hunderte von Arbeitsplätzen geschaffen und Devisen ins Land gebracht. Allerdings steht sie im Zentrum intensiver Umweltdebatten, da die Einleitung von Abwässern in die nahegelegene Bolong-Fenyo-Lagune und den Ozean zu ökologischen Schäden geführt hat. Der Geruch der Verarbeitung prägt das lokale Mikroklima und ist kilometerweit spürbar. Das Relief des Werksgeländes ist zweckmäßig und direkt in die Dünenlandschaft integriert. Die Fabrik ist ein Beispiel für die Herausforderungen Gambias beim Management ausländischer Direktinvestitionen im Spannungsfeld zwischen industrieller Expansion und dem Schutz sensibler mariner Ökosysteme.",
+        "hu": "A gunjuri hallisztgyár (Gunjur Fish Meal Factory) egy nemzetközi vitákat kiváltó, de gazdaságilag meghatározó ipari létesítmény Gambia déli partvidékén. A kínai befektetők által üzemeltetett gyár (Golden Lead) a régió bőséges halállományát, különösen a bongahalakat használja fel halliszt és halolaj előállítására, amelyet főként az ázsiai piacokra exportálnak. Földrajzi elhelyezkedése közvetlenül a tengerparton található, ami lehetővé teszi a halászpirogák zsákmányának azonnali átvételét. Gazdaságilag a gyár jelentős bevételi forrás az államnak és munkát ad a helyieknek, ám a környezetvédelmi hatásai miatt folyamatosak a tiltakozások. A gyár működése során keletkező szennyvíz korábban károsította a közeli Bolong Fenyo lagúnát, ami rávilágított az ipari fejlesztés és a természetvédelem közötti éles ellentétekre. A gyár épületei modern feldolgozósorokkal felszereltek, a terület domborzata pedig a parti dűnékhez igazodik. Gunjur hallisztgyára a modern gambiai gazdaság egyik legvitatottabb szimbóluma, ahol a gyors profit és a hosszú távú fenntarthatóság kérdései nap mint nap ütköznek.",
+        "ro": "Fabrica de făină de pește din Gunjur (Gunjur Fish Meal Factory) este o unitate industrială majoră și controversată situată pe coasta de sud a Gambiei. Operată de investitori chinezi sub numele de Golden Lead, fabrica procesează cantități masive de pește pelagic mic pentru a produce făină și ulei de pește destinate exportului pe piețele internaționale, în special în China. Geografia locației este una de coastă, fabrica fiind amplasată strategic chiar lângă punctele de descărcare a pirogilor artizanale. Din punct de vedere economic, facilitatea a generat fluxuri de capital și locuri de muncă, devenind un jucător important în balanța comercială a țării. Totuși, prezența sa a declanșat ample mișcări ecologiste locale din cauza deversărilor de reziduuri care au afectat Rezervația Bolong Fenyo și biodiversitatea marină. Mirosul persistent rezultat din procesare este o trăsătură caracteristică a zonei în timpul funcționării. Relieful industrial este integrat în peisajul dunelor de nisip, fiind protejat de garduri înalte. Fabrica de la Gunjur exemplifică tensiunea globală dintre exploatarea resurselor marine și protejarea modului de viață tradițional al pescarilor gambieni, rămânând un subiect central în politicile de mediu ale națiunii.",
+        "en": "The Gunjur Fish Meal Factory, operated primarily by the firm Golden Lead, is a significant yet controversial industrial player in The Gambia’s coastal economy. Located directly on the Gunjur shoreline, the factory specializes in the mass processing of small pelagic fish, such as bonga and sardinella, into fish meal and oil for export, mainly to the Asian market for aquaculture feed. Geographically, its position allows for the immediate delivery of daily catches from the local artisanal pirogue fleet. Economically, the factory has boosted local employment and contributed to national export earnings. However, it sits at the heart of intense environmental and social debates; critics point to the pollution of the nearby Bolong Fenyo lagoon and the depletion of local fish stocks as major negative impacts. The strong odor of industrial fish processing often defines the local atmosphere for several kilometers. The facility's relief is strictly functional, built on the sandy coastal strip to maximize logistical efficiency. The Gunjur fish meal factory serves as a case study for the challenges of managing foreign direct investment in West Africa, highlighting the complex balance between industrial growth and the ecological health of the Atlantic coastline."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Fabrik Golden Lead wurde 2016 in Gunjur eröffnet.",
+          "Sie produziert Fischmehl, das weltweit in der Aquakultur-Fütterung genutzt wird.",
+          "Die Anlage bezieht täglich tonnenweise Fisch von den lokalen Kunstfischern.",
+          "Die Einleitung von Abwässern führte zur Gründung lokaler Umweltgruppen.",
+          "Der Export erfolgt über den Hafen von Banjul in Containern.",
+          "Die Fabrik ist einer der größten Industriebetriebe im ländlichen Kombo South."
+        ],
+        "hu": [
+          "A gyár elsősorban Kínába exportálja az elkészült hallisztet.",
+          "A létesítmény miatt megnőtt a kereslet a kisméretű pelágikus halakra.",
+          "A helyi közösség több alkalommal is bírósághoz fordult a környezetszennyezés miatt.",
+          "A gyár környékén a talaj és a víz minőségét folyamatosan monitorozzák.",
+          "Gunjur lakossága megosztott a gyár gazdasági haszna és környezeti kára kapcsán.",
+          "Az üzem modern, nagy teljesítményű szárító- és darálóberendezésekkel dolgozik."
+        ],
+        "ro": [
+          "Fabrica Golden Lead utilizează tehnologii de procesare la temperaturi înalte.",
+          "Peste 500 de pirogi colaborează indirect cu această unitate industrială.",
+          "Deversările de ape uzate au fost sancționate repetat de autoritățile de mediu.",
+          "Hallisztul este ambalat în saci de 50 kg pentru transportul maritim.",
+          "Industria făinii de pește a modificat dinamica prețurilor la peștele proaspăt în Gambia.",
+          "Localizarea pe plajă oferă un avantaj logistic imens, dar crește riscul de eroziune."
+        ],
+        "en": [
+          "The Gunjur factory is one of several fish meal plants currently operating in Gambia.",
+          "It focuses on high-protein output for the international livestock industry.",
+          "The plant provides direct income for hundreds of local workers and loaders.",
+          "Environmental protests in Gunjur have drawn global media attention to the site.",
+          "It acts as a primary link between Gambia's marine resources and Asian supply chains.",
+          "The facility has led to significant infrastructure upgrades in the local power grid."
+        ]
+      }
+    }
+  ]
+}

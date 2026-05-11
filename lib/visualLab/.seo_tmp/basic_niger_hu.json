@@ -1,0 +1,91 @@
+{
+  "lang": "hu",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigerNatureV2.ts",
+    "lib/visualLab/data/poiExtraNigerReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mayahi-agri-life-v2",
+      "description": "Mayahi a mezőgazdasági termelés fontos régiója.",
+      "facts": ["Hagyományos földművelés", "Ciroktermelés", "Helyi piacok"]
+    },
+    {
+      "id": "gaya-agri-life-v2",
+      "description": "Gaya a folyómenti földművelés központja.",
+      "facts": ["Öntözéses kertek", "Zöldségtermesztés", "Folyami öntözés"]
+    },
+    {
+      "id": "zinder-zoo-life-v2",
+      "description": "Zinder városa és a környék élővilága.",
+      "facts": ["Regionális központ", "Állatvilág védelme", "Kulturális örökség"]
+    },
+    {
+      "id": "maradi-kids-park-life-v2",
+      "description": "Maradi közösségi parkjai és a gyermekek élete.",
+      "facts": ["Közösségi terek", "Szabadidős programok", "Fiatalok találkozóhelye"]
+    },
+    {
+      "id": "diffa-frucht-life-v2",
+      "description": "Diffa a gyümölcstermesztés és kertészet régiója.",
+      "facts": ["Oázis kertek", "Gyümölcsök termesztése", "Szárazföldi kertészet"]
+    },
+    {
+      "id": "massif-iférouane-nature-v2",
+      "description": "Iférouane hegyvonulata a sivatag szívében.",
+      "facts": ["Sziklás táj", "Sivatagi ökoszisztéma", "Természeti szépség"]
+    },
+    {
+      "id": "adrar-bous-relief-v2",
+      "description": "Az Adrar Bous egy jellegzetes sziklás magaslat.",
+      "facts": ["Sivatagi kiemelkedés", "Geológiai érdekesség", "Száraz terep"]
+    },
+    {
+      "id": "plateau-tchigai-relief-v2",
+      "description": "A Tchigai-fennsík a sivatagi táj része.",
+      "facts": ["Kiterjedt fennsík", "Köves talaj", "Geológiai formáció"]
+    },
+    {
+      "id": "goulbi-maradi-relief-v2",
+      "description": "A Goulbi Maradi egy időszakos folyómeder.",
+      "facts": ["Folyóvölgy", "Vízgyűjtő terület", "Szezonális vízfolyás"]
+    },
+    {
+      "id": "koutous-relief-v2",
+      "description": "A Koutous-hegyvidék a szavannai övezetben fekszik.",
+      "facts": ["Hegyvonulat", "Növényzet övezet", "Domborzati elem"]
+    },
+    {
+      "id": "gourma-lowland-relief-v2",
+      "description": "A Gourma-alföld alacsonyabban fekvő terület.",
+      "facts": ["Síkság", "Legelők", "Vízmosások"]
+    },
+    {
+      "id": "eastern-damagaram-relief-v2",
+      "description": "Kelet-Damagaram domborzati vidéke.",
+      "facts": ["Völgyek és dombok", "Termékeny területek", "Geológia"]
+    },
+    {
+      "id": "goulbi-kane-relief-v2",
+      "description": "A Goulbi-Kane időszakos folyóvölgye.",
+      "facts": ["Folyami meder", "Száraz klíma", "Vízgyűjtő"]
+    },
+    {
+      "id": "kawar-cliff-relief-v2",
+      "description": "A Kawar-sziklafal egy sivatagi képződmény.",
+      "facts": ["Meredek falak", "Homokkő rétegek", "Sivatagi geomorfológia"]
+    },
+    {
+      "id": "fachi-hill-relief-v2",
+      "description": "A Fachi-domb a sivatagi táj kiemelkedése.",
+      "facts": ["Sziklás kiemelkedés", "Sivatagi domb", "Tájépítés"]
+    },
+    {
+      "id": "koutous-east-relief-v2",
+      "description": "A Koutous-hegyvidék keleti része.",
+      "facts": ["Sziklás formáció", "Szárazság", "Kiterjedt vidék"]
+    }
+  ]
+}

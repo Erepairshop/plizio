@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-hasely-crawford-stadium-landmarks-v2",
+      "description": "Das Hasely Crawford Stadium ist das bedeutendste Sportstadion in Trinidad. Es trägt den Namen des ersten olympischen Goldmedaillengewinners des Landes.",
+      "facts": ["Sport-Stadion", "Benannt nach Goldmedaillengewinner", "Bedeutende Sportstätte"]
+    },
+    {
+      "id": "tt-fort-king-george-tobago-landmarks-v2",
+      "description": "Fort King George ist eine gut erhaltene historische Festung auf Tobago. Sie bietet einen weiten Blick über die Insel und ist ein wichtiges Zeugnis der Kolonialzeit.",
+      "facts": ["Historische Festung", "Insel Tobago", "Koloniales Denkmal"]
+    },
+    {
+      "id": "tt-asa-wright-nature-centre-landmarks-v2",
+      "description": "Das Asa Wright Nature Centre ist ein weltbekanntes Paradies für Vogelbeobachter im Northern Range. Es bietet eine außergewöhnliche Vielfalt an tropischer Flora und Fauna.",
+      "facts": ["Northern Range", "Vogelbeobachtungsgebiet", "Tropische Vielfalt"]
+    },
+    {
+      "id": "tt-argyle-waterfall-landmarks-v2",
+      "description": "Der Argyle-Wasserfall auf Tobago ist einer der höchsten und spektakulärsten Wasserfälle der Insel. Er stürzt in mehreren Stufen in ein natürliches Becken hinab.",
+      "facts": ["Tobago", "Spektakulärer Wasserfall", "Natürliches Becken"]
+    },
+    {
+      "id": "tt-buccoo-reef-landmarks-v2",
+      "description": "Das Buccoo Reef auf Tobago ist eines der bekanntesten Korallenriffe der Karibik. Es ist für seine geschützte Unterwasserwelt und die Glasbodenboot-Touren beliebt.",
+      "facts": ["Korallenriff", "Karibik-Highlight", "Unterwasser-Schutzgebiet"]
+    },
+    {
+      "id": "tt-fort-bennett-landmarks-v2",
+      "description": "Fort Bennett ist eine historische Befestigungsanlage, die strategisch an der Küste liegt. Die Anlage zeugt von der militärischen Vergangenheit der Insel.",
+      "facts": ["Küstenbefestigung", "Historisches Denkmal", "Militärische Vergangenheit"]
+    },
+    {
+      "id": "tt-hanuman-statue-landmarks-v2",
+      "description": "Die Hanuman-Statue ist ein markantes kulturelles Wahrzeichen, das den hinduistischen Einfluss in Trinidad widerspiegelt. Sie zieht zahlreiche Besucher und Pilger an.",
+      "facts": ["Hinduistisches Wahrzeichen", "Kulturelles Symbol", "Pilgerziel"]
+    },
+    {
+      "id": "tt-mount-st-benedict-abbey-landmarks-v2",
+      "description": "Die Mount St. Benedict Abbey ist ein berühmtes Benediktinerkloster hoch oben in den Hügeln. Sie bietet eine ruhige Atmosphäre und eine beeindruckende Aussicht.",
+      "facts": ["Benediktinerkloster", "Hügel-Aussicht", "Ruhiger Ort"]
+    },
+    {
+      "id": "tt-maracas-beach-landmarks-v2",
+      "description": "Maracas Beach ist einer der beliebtesten Strände auf Trinidad. Er ist berühmt für seine geschützte Lage und das lokale Gericht 'Bake and Shark'.",
+      "facts": ["Beliebter Strand", "Bake and Shark", "Geschützte Bucht"]
+    },
+    {
+      "id": "tt-pitch-lake-landmarks-v2",
+      "description": "Der Pitch Lake ist die größte natürliche Asphaltquelle der Welt. Dieses geologische Phänomen zieht Wissenschaftler und Touristen gleichermaßen an.",
+      "facts": ["Geologisches Phänomen", "Größte Asphaltquelle", "Einzigartige Lagerstätte"]
+    }
+  ]
+}

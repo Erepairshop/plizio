@@ -1,0 +1,82 @@
+{
+  "lang": "en",
+  "country": "Taiwan",
+  "files": [
+    "lib/visualLab/data/poiExtraTaiwanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanLifeV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kaohsiung-cities-v2",
+      "description": "Kaohsiung is a major port city in southern Taiwan known for its expansive harbor and vibrant urban culture. It serves as an essential economic hub and maritime gateway for the island.",
+      "facts": ["Major southern port", "Key industrial hub", "Warm tropical climate", "Famous Pier-2 Art Center"]
+    },
+    {
+      "id": "yuanlin-cities-v2",
+      "description": "Yuanlin is a bustling city in Changhua County, recognized for its central location and agricultural trade significance. It transitioned from a township to a city in 2015 due to rapid urban development.",
+      "facts": ["Changhua County hub", "City status since 2015", "Important agricultural center", "High population density"]
+    },
+    {
+      "id": "magong-cities-v2",
+      "description": "Magong is the capital city of the Penghu Islands, located on the main island of the archipelago. It is a historical maritime center known for its well-preserved traditional streets and temple culture.",
+      "facts": ["Penghu capital", "Historical maritime center", "Gateway to archipelago", "Famous for Tianhou Temple"]
+    },
+    {
+      "id": "national-revolutionary-martyrs-shrine-history-v2",
+      "description": "This grand shrine in Taipei commemorates those who died serving the Republic of China in various conflicts. Its architecture is inspired by the Forbidden City in Beijing.",
+      "facts": ["Taipei landmark", "Guards honor the fallen", "Impressive guard changing ceremony", "Dedicated in 1969"]
+    },
+    {
+      "id": "lin-family-mansion-and-garden-history-v2",
+      "description": "Located in Banqiao, this complex is the best-preserved example of traditional Taiwanese garden architecture. It reflects the wealth and influence of the Lin family in the Qing dynasty.",
+      "facts": ["Qing dynasty architecture", "Traditional gardens", "Cultural heritage site", "Intricate woodwork"]
+    },
+    {
+      "id": "fort-san-domingo-history-v2",
+      "description": "This historic fort in Tamsui was established by the Spanish in the 17th century and later controlled by the Dutch. It represents the early colonial period in Taiwan.",
+      "facts": ["Built by Spanish (1628)", "Dutch influence", "Located in Tamsui", "Red Fort nickname"]
+    },
+    {
+      "id": "remains-of-the-thirteen-levels-history-v2",
+      "description": "These striking industrial ruins in New Taipei City were formerly part of a copper smelting facility in the Shuinandong area. Today, they stand as a prominent landmark overlooking the sea.",
+      "facts": ["Copper smelting history", "Industrial heritage site", "Stunning coastal backdrop", "Mining era relic"]
+    },
+    {
+      "id": "qihou-fort-history-v2",
+      "description": "Located on Cijin Island in Kaohsiung, this fort was built in the 19th century to guard the entrance to the Kaohsiung harbor. It combines Chinese and Western defensive designs.",
+      "facts": ["19th-century defense", "Cijin Island location", "Harbor watchpoint", "Western-style brickwork"]
+    },
+    {
+      "id": "eluanbi-lighthouse-history-v2",
+      "description": "Situated at the southernmost point of Taiwan, this fortified lighthouse has guided ships through the dangerous waters of the Bashi Channel since 1883.",
+      "facts": ["Taiwan's southernmost point", "Built in 1883", "Fortified design", "Strategic Bashi Channel location"]
+    },
+    {
+      "id": "hobe-fort-history-v2",
+      "description": "Hobe Fort, built in the late 19th century in Tamsui, served as a key defensive installation to protect Taiwan's northern coast from foreign naval attacks.",
+      "facts": ["Late 19th-century construction", "Tamsui coast protection", "Defensive earthworks", "Strategic gatehouse"]
+    },
+    {
+      "id": "qingjing-farm-life-v2",
+      "description": "Located in the mountains of Nantou, this high-altitude farm is famous for its sheep pastures and misty mountain scenery. It is a popular retreat for those seeking fresh air.",
+      "facts": ["High-altitude setting", "Sheep grazing fields", "Nantou County location", "Misty alpine climate"]
+    },
+    {
+      "id": "sihcao-green-tunnel-life-v2",
+      "description": "This unique mangrove forest tunnel in Tainan is formed by interweaving branches above a waterway. Visitors explore this calm ecosystem by boat.",
+      "facts": ["Mangrove ecosystem", "Tainan waterway tour", "Canopy of branches", "Rich wetland biodiversity"]
+    },
+    {
+      "id": "xueshan-relief-v2",
+      "description": "Xueshan, or Snow Mountain, is the second-highest peak in Taiwan. It is renowned for its glacier-carved cirque and challenging climbing routes.",
+      "facts": ["Second-highest peak", "Glacial cirque terrain", "Central Mountain Range", "Challenging mountaineering"]
+    },
+    {
+      "id": "qixingshan-relief-v2",
+      "description": "Qixingshan is the highest dormant volcano in Taiwan, located within Yangmingshan National Park. It features fumaroles and sulfurous vents near the summit.",
+      "facts": ["Yangmingshan volcano", "Taiwan's highest dormant volcano", "Sulfur fumaroles", "Panoramic park views"]
+    }
+  ]
+}

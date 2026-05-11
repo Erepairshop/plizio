@@ -1,0 +1,109 @@
+{
+  "lang": "en",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "parque-industrial-la-ureca-economic-v2",
+      "description": "A significant industrial zone located in San José, hosting various manufacturing and logistics companies.",
+      "facts": [
+        "Located in the capital city San José",
+        "Home to diverse manufacturing firms",
+        "Key hub for local logistics",
+        "Major employment center in the region"
+      ]
+    },
+    {
+      "id": "zona-franca-el-coyol-economic-v2",
+      "description": "The leading high-tech industrial park in Costa Rica, specializing in the life sciences and medical device industry.",
+      "facts": [
+        "Top-tier medical device cluster",
+        "Located in Alajuela province",
+        "World-class sustainable infrastructure",
+        "Awarded best free zone in Latin America"
+      ]
+    },
+    {
+      "id": "planta-energia-valle-central-economic-v2",
+      "description": "An essential power generation facility providing renewable energy to the densely populated Central Valley region.",
+      "facts": [
+        "Supplies the Greater Metropolitan Area",
+        "Focuses on renewable energy sources",
+        "Critical for regional energy security",
+        "Modernized infrastructure for efficiency"
+      ]
+    },
+    {
+      "id": "zona-franca-la-negrita-economic-v2",
+      "description": "A strategic free trade zone providing infrastructure for international businesses and export-oriented manufacturing.",
+      "facts": [
+        "Strategic location for export logistics",
+        "Offers tax incentives for companies",
+        "Supports diverse industrial activities",
+        "Proximity to major transport routes"
+      ]
+    },
+    {
+      "id": "puerto-cito-economic-v2",
+      "description": "A coastal port facility supporting local maritime trade and the regional economy through logistics services.",
+      "facts": [
+        "Facilitates coastal maritime commerce",
+        "Important for regional trade links",
+        "Handles specialized cargo types",
+        "Integrated into national logistics network"
+      ]
+    },
+    {
+      "id": "zona-franca-saret-economic-v2",
+      "description": "One of the oldest free trade zones in Alajuela, offering a variety of industrial and warehouse spaces.",
+      "facts": [
+        "Established industrial park in Alajuela",
+        "Close to Juan Santamaría Airport",
+        "Diverse range of international tenants",
+        "Flexible space for manufacturing"
+      ]
+    },
+    {
+      "id": "terminal-puerto-villas-economic-v2",
+      "description": "A maritime terminal facility focused on handling specialized shipments and supporting regional port operations.",
+      "facts": [
+        "Supports regional port capacity",
+        "Equipped for specialized cargo handling",
+        "Essential for maritime supply chains",
+        "Integrated with inland transport"
+      ]
+    },
+    {
+      "id": "zona-franca-bes-economic-v2",
+      "description": "A business and technology park designed to accommodate global service centers and light manufacturing.",
+      "facts": [
+        "Focus on high-tech and services",
+        "Strategic location in the Central Valley",
+        "Advanced telecommunications infrastructure",
+        "Environmentally conscious facility design"
+      ]
+    },
+    {
+      "id": "zona-franca-global-park-economic-v2",
+      "description": "A premium free trade zone in Heredia hosting multinational corporations in the service and technology sectors.",
+      "facts": [
+        "Prime location in Heredia province",
+        "Hosts major multinational service centers",
+        "Highly skilled local workforce pool",
+        "Modern office and industrial facilities"
+      ]
+    },
+    {
+      "id": "terminal-puerto-tamarindo-economic-v2",
+      "description": "A port terminal facility supporting the commercial and logistical needs of the Guanacaste coastal region.",
+      "facts": [
+        "Key terminal in the Guanacaste area",
+        "Supports tourism and local trade",
+        "Infrastructure for coastal vessels",
+        "Strategic maritime gateway for the north"
+      ]
+    }
+  ]
+}

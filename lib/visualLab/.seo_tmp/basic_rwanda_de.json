@@ -1,0 +1,83 @@
+{
+  "lang": "de",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraRwandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraRwandaLifeV2.ts",
+    "lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rw-volkswagen-kigali-economic-v2",
+      "description": "Die Volkswagen-Montageanlage in Kigali ist ein wichtiger Standort für die lokale Fahrzeugproduktion in Ruanda.",
+      "facts": ["Eröffnung 2018", "Montage von Pkw", "Standort Kigali", "Mobilitätsinitiative"]
+    },
+    {
+      "id": "rw-bralirwa-brewery-economic-v2",
+      "description": "Bralirwa ist die größte Brauerei Ruandas und ein bedeutender Wirtschaftsfaktor im Land.",
+      "facts": ["Gründung 1957", "Sitz in Gisenyi", "Produziert Bier & Softdrinks", "Börsennotiert"]
+    },
+    {
+      "id": "ethnographic-museum-huye-history-v2",
+      "description": "Das Ethnographische Museum in Huye bewahrt eine umfassende Sammlung zur ruandischen Kulturgeschichte.",
+      "facts": ["Eröffnet 1989", "Standort Huye", "Kulturelles Erbe", "Beliebtes Ziel"]
+    },
+    {
+      "id": "huye-fruit-farm-life-v2",
+      "description": "Die Obstfarmen in der Region Huye tragen wesentlich zur lokalen Lebensmittelversorgung bei.",
+      "facts": ["Region Huye", "Lokale Landwirtschaft", "Frische Ernte", "Regionalspezialitäten"]
+    },
+    {
+      "id": "kigali-nature-kids-life-v2",
+      "description": "Ein naturverbundener Spiel- und Lernort in Kigali, der Kindern Wissen über die lokale Flora vermittelt.",
+      "facts": ["Standort Kigali", "Bildungsangebot", "Naturerlebnis", "Kindgerecht"]
+    },
+    {
+      "id": "kigali-pony-club-life-v2",
+      "description": "Der Pony Club in Kigali bietet jungen Reitern die Möglichkeit, den Umgang mit Tieren zu lernen.",
+      "facts": ["Standort Kigali", "Reitsport für Kinder", "Ponyhaltung", "Freizeitaktivität"]
+    },
+    {
+      "id": "huye-poultry-farm-life-v2",
+      "description": "Eine Geflügelfarm in Huye, die die regionale Nachfrage nach Eiern und Fleisch deckt.",
+      "facts": ["Region Huye", "Geflügelhaltung", "Lokale Produktion", "Marktversorgung"]
+    },
+    {
+      "id": "rubavu-family-beach-life-v2",
+      "description": "Der Strand von Rubavu am Kivu-See ist ein beliebter Erholungsort für Familien.",
+      "facts": ["Am Kivu-See", "Rubavu", "Familienziel", "Badegelegenheit"]
+    },
+    {
+      "id": "mount-sabyinyo-nature-v2",
+      "description": "Der inaktive Vulkan Sabyinyo bietet anspruchsvolle Wanderwege und eine reiche alpine Vegetation.",
+      "facts": ["Virunga-Vulkane", "Drei-Länder-Gipfel", "Alpine Flora", "Wanderziel"]
+    },
+    {
+      "id": "lake-cyohoha-nature-v2",
+      "description": "Der Cyohoha-See ist ein bedeutendes Feuchtgebiet und Lebensraum für zahlreiche Vogelarten.",
+      "facts": ["Feuchtgebiet", "Vogelbeobachtung", "Südruanda", "Biodiversität"]
+    },
+    {
+      "id": "karisimbi-mountain-relief-v2",
+      "description": "Der Karisimbi ist der höchste Gipfel Ruandas und Teil der Virunga-Vulkankette.",
+      "facts": ["Höhe 4507 m", "Vulkankette", "Gipfel Ruandas", "Wanderberg"]
+    },
+    {
+      "id": "nyungwe-forest-relief-v2",
+      "description": "Der Nyungwe-Wald ist ein weitläufiges Hochlandgebiet, das für seine hohe Artenvielfalt bekannt ist.",
+      "facts": ["Bergregenwald", "Biodiversität", "Wanderregion", "Naturpark"]
+    },
+    {
+      "id": "gishwati-forest-relief-v2",
+      "description": "Das Gishwati-Waldgebiet erstreckt sich über ein hügeliges Hochplateau im Westen Ruandas.",
+      "facts": ["Westruanda", "Aufforstungsgebiet", "Hochplateau", "Naturraum"]
+    },
+    {
+      "id": "mukura-forest-relief-v2",
+      "description": "Der Mukura-Wald bildet gemeinsam mit dem Gishwati-Wald ein geschütztes Naturschutzgebiet im Bergland.",
+      "facts": ["Gebirgswald", "Naturschutz", "Kongo-Nil-Wasserscheide", "Bergregion"]
+    }
+  ]
+}

@@ -22,10 +22,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Souss-Massa National Park is a remarkable feature of the geography and culture of Morocco. An important protected area for the northern bald ibis. Home to the rare northern bald ibis. Coastal wetland. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Heimat des seltenen Waldrapps.", "Küstennahes Feuchtgebiet.", "Ein bedeutendes Schutzgebiet für den Waldrapp.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A ritka tarajos íbisz otthona.", "Partközeli vizes élőhely.", "Fontos védett terület a tarajos íbisz számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Habitat al ibisului chel rar.", "Zonă umedă de coastă.", "O zonă protejată importantă pentru ibisul chel.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Home to the rare northern bald ibis.", "Coastal wetland.", "An important protected area for the northern bald ibis.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein bedeutendes Schutzgebiet für den Waldrapp.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos védett terület a tarajos íbisz számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă protejată importantă pentru ibisul chel.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["An important protected area for the northern bald ibis.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/souss-massa-national-park-life-v2.webp"},
   {
     id: "tazekka-national-park-life-v2",
@@ -47,10 +47,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Tazekka National Park is a remarkable feature of the geography and culture of Morocco. Protected area with cedar forests and diverse fauna. Known for its cedar trees. Habitat for Barbary macaques. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Bekannt für seine Zedern.", "Lebensraum für Berberaffen.", "Schutzgebiet mit Zedernwäldern und vielfältiger Fauna.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Ismert cédrusfáiról.", "Élőhely a berber majmoknak.", "Védett terület cédruserdőkkel és változatos faunával.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cunoscut pentru cedrii săi.", "Habitat pentru macacii de Barbaria.", "Arie protejată cu păduri de cedru și faună diversă.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Known for its cedar trees.", "Habitat for Barbary macaques.", "Protected area with cedar forests and diverse fauna.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Schutzgebiet mit Zedernwäldern und vielfältiger Fauna.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Védett terület cédruserdőkkel és változatos faunával.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Arie protejată cu păduri de cedru și faună diversă.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Protected area with cedar forests and diverse fauna.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/tazekka-national-park-life-v2.webp"},
   {
     id: "talassemtane-national-park-life-v2",
@@ -72,10 +72,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Talassemtane National Park is a remarkable feature of the geography and culture of Morocco. Mountainous national park with fir forests. Protection of fir forests. Important region for biodiversity. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Schutz der Tannenwälder.", "Wichtige Region für Biodiversität.", "Gebirgiger Nationalpark mit Tannenwäldern.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Jegenyefenyvesek védelme.", "Fontos régió a biodiverzitás számára.", "Hegyvidéki nemzeti park jegenyefenyvesekkel.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Protecția pădurilor de brad.", "Regiune importantă pentru biodiversitate.", "Parc național montan cu păduri de brad.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Protection of fir forests.", "Important region for biodiversity.", "Mountainous national park with fir forests.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Gebirgiger Nationalpark mit Tannenwäldern.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegyvidéki nemzeti park jegenyefenyvesekkel.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Parc național montan cu păduri de brad.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Mountainous national park with fir forests.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/talassemtane-national-park-life-v2.webp"},
   {
     id: "tadla-agriculture-life-v2",
@@ -97,10 +97,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Tadla Region is a remarkable feature of the geography and culture of Morocco. An important agricultural area for cereals and sugar beets. Center of sugar production. Fertile soils due to Oum Er-Rbia. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Zentrum der Zuckerproduktion.", "Fruchtbare Böden durch Oum Er-Rbia.", "Ein wichtiges landwirtschaftliches Anbaugebiet für Getreide und Zuckerrüben.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A cukortermelés központja.", "Termékeny talaj az Oum Er-Rbia által.", "Fontos mezőgazdasági termőterület gabonafélék és cukorrépa számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Centrul producției de zahăr.", "Soluri fertile datorită Oum Er-Rbia.", "O regiune agricolă importantă pentru cereale și sfeclă de zahăr.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Center of sugar production.", "Fertile soils due to Oum Er-Rbia.", "An important agricultural area for cereals and sugar beets.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein wichtiges landwirtschaftliches Anbaugebiet für Getreide und Zuckerrüben.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos mezőgazdasági termőterület gabonafélék és cukorrépa számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O regiune agricolă importantă pentru cereale și sfeclă de zahăr.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["An important agricultural area for cereals and sugar beets.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/tadla-agriculture-life-v2.webp"},
   {
     id: "gharbi-citrus-agriculture-life-v2",
@@ -123,9 +123,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Câmpia Gharb acoperă o suprafață de aproximativ 4.000 km².", "Râul Sebou, cel mai mare râu din Maroc ca debit, traversează câmpia.", "Regiunea produce o parte semnificativă din zahărul Marocului, din sfeclă și trestie de zahăr.", "Este singura regiune din Maroc unde se cultivă orez la scară largă.", "Peste 70% din suprafața irigată a Marocului se află aici.", "Orașul Kenitra este principalul centru urban și industrial al regiunii.", "Portul Kenitra de pe râul Sebou a fost istoric important pentru exporturi.", "Proiectele de irigații au fost inițiate în perioada protectoratului francez."],
-      de: ["Berühmt für Orangen.", "Intensive Bewässerung.", "Hauptanbaugebiet für Zitrusfrüchte in Marokko.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Híres narancsairól.", "Intenzív öntözés.", "Marokkó fő citrusgyümölcs-termőterülete.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Famous for oranges.", "Intensive irrigation.", "Main cultivation area for citrus fruits in Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Hauptanbaugebiet für Zitrusfrüchte in Marokko.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Marokkó fő citrusgyümölcs-termőterülete.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Main cultivation area for citrus fruits in Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/gharbi-citrus-agriculture-life-v2.webp"},
   {
     id: "moulouya-valley-agriculture-life-v2",
@@ -147,10 +147,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Moulouya Valley is a remarkable feature of the geography and culture of Morocco. A fertile valley heavily used for fruit farming. Cultivation of peaches and apples. Important regional economic source. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Anbau von Pfirsichen und Äpfeln.", "Wichtige regionale Wirtschaftsquelle.", "Ein fruchtbares Tal, das stark für den Obstbau genutzt wird.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Őszibarack- és almatermesztés.", "Fontos regionális gazdasági forrás.", "Termékeny völgy, amelyet erősen hasznosítanak gyümölcstermesztésre.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cultivarea piersicilor și a merelor.", "Sursă economică regională importantă.", "O vale fertilă utilizată intensiv pentru pomicultură.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Cultivation of peaches and apples.", "Important regional economic source.", "A fertile valley heavily used for fruit farming.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein fruchtbares Tal, das stark für den Obstbau genutzt wird.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Termékeny völgy, amelyet erősen hasznosítanak gyümölcstermesztésre.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O vale fertilă utilizată intensiv pentru pomicultură.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A fertile valley heavily used for fruit farming.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/moulouya-valley-agriculture-life-v2.webp"},
   {
     id: "casablanca-zoo-kid-landmark-life-v2",
@@ -173,9 +173,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Grădina zoologică originală a fost deschisă în 1928.", "Este situată în cartierul Ain Sebaa, în nord-estul Casablancăi.", "Proiectul de renovare acoperă o suprafață de 10 hectare.", "Noul concept este de a recrea trei zone biogeografice africane: Sahel, Savană și Pădure Ecuatorială.", "Investiția pentru modernizare se ridică la peste 250 de milioane de dirhami.", "Leul de Atlas, o specie dispărută în sălbăticie, este un simbol al parcului.", "Se preconizează că noul parc va găzdui peste 45 de specii africane.", "Planurile includ un spital veterinar și un centru de cercetare."],
-      de: ["Viele exotische Tiere.", "Spielplätze für Kinder.", "Beliebter Ort für Familien in Casablanca.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Sok egzotikus állat.", "Játszóterek gyerekeknek.", "Népszerű hely családok számára Casablancában.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Many exotic animals.", "Playgrounds for children.", "Popular place for families in Casablanca.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Beliebter Ort für Familien in Casablanca.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Népszerű hely családok számára Casablancában.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Popular place for families in Casablanca.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/casablanca-zoo-kid-landmark-life-v2.webp"},
   {
     id: "rabat-zoo-kid-landmark-life-v2",
@@ -197,10 +197,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Rabat Zoo is a remarkable feature of the geography and culture of Morocco. A modern zoo displaying local and African animals. Lions and elephants. Educational opportunities for kids. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Löwen und Elefanten.", "Bildungsangebote für Kinder.", "Ein moderner Zoo, der heimische und afrikanische Tiere zeigt.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Oroszlánok és elefántok.", "Oktatási lehetőségek gyerekeknek.", "Modern állatkert, amely hazai és afrikai állatokat mutat be.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Lei și elefanți.", "Programe educaționale pentru copii.", "O grădină zoologică modernă care expune animale locale și africane.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Lions and elephants.", "Educational opportunities for kids.", "A modern zoo displaying local and African animals.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein moderner Zoo, der heimische und afrikanische Tiere zeigt.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Modern állatkert, amely hazai és afrikai állatokat mutat be.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O grădină zoologică modernă care expune animale locale și africane.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A modern zoo displaying local and African animals.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/rabat-zoo-kid-landmark-life-v2.webp"},
   {
     id: "marrakech-palmeraie-kid-landmark-life-v2",
@@ -222,10 +222,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Marrakech Palm Grove is a remarkable feature of the geography and culture of Morocco. A huge palm grove with activities for children. Camel rides. Bike tours through palms. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Kamelausflüge.", "Fahrradtouren durch Palmen.", "Ein riesiger Palmenhain mit Aktivitäten für Kinder.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Tevegelés.", "Kerékpártúrák a pálmák között.", "Hatalmas pálmaliget tevékenységekkel gyerekeknek.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Excursii cu cămile.", "Tururi cu bicicleta printre palmieri.", "O imensă livadă de palmieri cu activități pentru copii.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Camel rides.", "Bike tours through palms.", "A huge palm grove with activities for children.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein riesiger Palmenhain mit Aktivitäten für Kinder.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hatalmas pálmaliget tevékenységekkel gyerekeknek.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O imensă livadă de palmieri cu activități pentru copii.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A huge palm grove with activities for children.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/marrakech-palmeraie-kid-landmark-life-v2.webp"},
   {
     id: "ifrane-lion-kid-landmark-life-v2",
@@ -248,9 +248,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Statuia a fost realizată în timpul protectoratului francez, în jurul anului 1930.", "Autorul este un artist german, Henri Jean Moreau.", "Legenda locală spune că a fost sculptată de un prizonier german în timpul celui de-al Doilea Război Mondial, dar acest lucru este incorect.", "Leul de Atlas (Panthera leo leo) era mai mare și avea o coamă mai închisă la culoare decât leii africani.", "Ultimul leu de Atlas a fost probabil împușcat în Munții Atlas în 1922.", "Statuia este sculptată din calcar local.", "Este situată vizavi de Hotelul Chamonix, în parcul central din Ifrane.", "Ifrane este supranumit 'Mica Elveție' a Marocului datorită arhitecturii sale alpine."],
-      de: ["Beliebtes Fotomotiv.", "Park für Kinder zum Spielen.", "Eine berühmte Statue in der Stadt Ifrane.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Népszerű fotótéma.", "Park gyerekeknek játékhoz.", "Híres szobor Ifrane városában.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Popular photo spot.", "Park for kids to play.", "A famous statue in the city of Ifrane.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Eine berühmte Statue in der Stadt Ifrane.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Híres szobor Ifrane városában.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["A famous statue in the city of Ifrane.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/ifrane-lion-kid-landmark-life-v2.webp"},
   {
     id: "dakhla-bird-habitat-life-v2",
@@ -273,9 +273,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situl Ramsar Dakhla a fost desemnat în 2005.", "Peste 200 de specii de păsări au fost înregistrate în zonă.", "Iarna, numărul păsărilor poate depăși 300.000 de indivizi.", "Găzduiește cea mai mare colonie de flamingo roz din Maroc.", "Apele golfului sunt renumite și pentru kitesurfing și windsurfing.", "Foca călugăr mediteraneană (Monachus monachus) are aici unul dintre ultimele sale refugii.", "Temperatura apei este constantă pe tot parcursul anului, în jur de 22°C.", "Golful are o lungime de aproximativ 40 km și o lățime de 10 km."],
-      de: ["Heimat für Flamingos.", "Vogelbeobachtung.", "Ein wichtiges Habitat für Zugvögel in der Westsahara.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Flamingók otthona.", "Madármegfigyelés.", "Fontos élőhely a költöző madarak számára Nyugat-Szaharában.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Home to flamingos.", "Bird watching.", "An important habitat for migratory birds in Western Sahara.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Ein wichtiges Habitat für Zugvögel in der Westsahara.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos élőhely a költöző madarak számára Nyugat-Szaharában.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["An important habitat for migratory birds in Western Sahara.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/dakhla-bird-habitat-life-v2.webp"},
   {
     id: "khenifiss-national-park-life-v2",
@@ -298,9 +298,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Parcul a fost înființat în 2006 și acoperă 1.850 km².", "Laguna Naïla este un sit Ramsar de importanță internațională.", "Găzduiește populații importante de rață ruginie și gâscă de vară.", "Este un loc important de reproducere pentru pescărușul lui Audouin.", "Peisajul include cele mai înalte stânci de coastă din Maroc.", "Parcul este traversat de ueduri care se varsă în lagună.", "Dunele de nisip pot atinge înălțimi considerabile.", "Comunitățile locale de pescari depind de resursele lagunei."],
-      de: ["Schutz von Meeresvögeln.", "Lagunen-Ökosystem.", "Nationalpark mit Lagunen und Wüstenlandschaft.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Tengeri madarak védelme.", "Lagúna ökoszisztéma.", "Nemzeti park lagúnákkal és sivatagi tájjal.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Protection of marine birds.", "Lagoon ecosystem.", "National park with lagoons and desert landscape.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Nationalpark mit Lagunen und Wüstenlandschaft.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nemzeti park lagúnákkal és sivatagi tájjal.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["National park with lagoons and desert landscape.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/khenifiss-national-park-life-v2.webp"},
   {
     id: "berkane-fruit-agriculture-life-v2",
@@ -323,9 +323,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Berkane produce peste 150.000 de tone de clementine anual.", "Clementina 'Fina de Berkane' este soiul cel mai renumit.", "Indicația Geografică Protejată a fost acordată în 2010.", "Exporturile de citrice din Berkane ajung în principal în Europa, Rusia și Canada.", "Râul Moulouya este sursa principală de apă pentru irigații în regiune.", "Suprafața cultivată cu citrice depășește 20.000 de hectare.", "Festivalul Clementinelor se organizează anual pentru a celebra recolta.", "Agricultura reprezintă peste 30% din economia locală."],
-      de: ["Hauptproduzent von Klementinen.", "Exportregion.", "Bekannt für den Anbau von Klementinen.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fő klementintermelő.", "Exportrégió.", "Híres a klementin termesztéséről.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Main producer of clementines.", "Export region.", "Known for the cultivation of clementines.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Bekannt für den Anbau von Klementinen.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Híres a klementin termesztéséről.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Known for the cultivation of clementines.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/berkane-fruit-agriculture-life-v2.webp"},
   {
     id: "doukkala-wheat-agriculture-life-v2",
@@ -348,9 +348,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Doukkala contribuie semnificativ la producția națională de grâu a Marocului.", "Capitala informală a regiunii este El Jadida.", "Barajul Al Massira de pe râul Oum Er-Rbia asigură o parte din apa pentru irigații.", "Terenurile agricole acoperă peste 500.000 de hectare.", "Sfecla de zahăr este cultivată pentru a aproviziona fabricile de zahăr locale.", "Creșterea cailor este o tradiție importantă, celebrată prin festivaluri anuale ('moussem').", "Regiunea este cunoscută pentru soiul său de pepene galben 'Doukkali'.", "Apropierea de porturile Casablanca și Jorf Lasfar facilitează exportul produselor agricole."],
-      de: ["Große Weizenfelder.", "Traditionelle Landwirtschaft.", "Eine bedeutende Region für den Getreideanbau.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagy búzatáblák.", "Hagyományos mezőgazdaság.", "Jelentős régió a gabonatermesztés számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Large wheat fields.", "Traditional agriculture.", "An important region for cereal farming.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Eine bedeutende Region für den Getreideanbau.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jelentős régió a gabonatermesztés számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["An important region for cereal farming.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/doukkala-wheat-agriculture-life-v2.webp"},
   {
     id: "oued-noun-agriculture-life-v2",
@@ -372,10 +372,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Oued Noun Region is a remarkable feature of the geography and culture of Morocco. Agricultural area in the south of Morocco. Date palm cultivation. Oasis economy. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Dattelpalmenanbau.", "Oasenwirtschaft.", "Landwirtschaftliches Gebiet im Süden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Datolyapálma-termesztés.", "Oázis-gazdálkodás.", "Mezőgazdasági terület Marokkó déli részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cultivarea palmierilor curmali.", "Economie de oază.", "Zonă agricolă în sudul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Date palm cultivation.", "Oasis economy.", "Agricultural area in the south of Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Landwirtschaftliches Gebiet im Süden Marokkos.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Mezőgazdasági terület Marokkó déli részén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Zonă agricolă în sudul Marocului.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Agricultural area in the south of Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/oued-noun-agriculture-life-v2.webp"},
   {
     id: "tangier-park-kid-landmark-life-v2",
@@ -397,10 +397,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Ion Perdicaris Park is a remarkable feature of the geography and culture of Morocco. A green forest park with many play opportunities. Hiking trails for families. Nature observation. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Wanderwege für Familien.", "Naturbeobachtung.", "Ein grüner Waldpark mit vielen Spielmöglichkeiten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Túrautak családoknak.", "Természetmegfigyelés.", "Zöld erdőpark sok játéklehetőséggel.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Trasee de drumeție pentru familii.", "Observarea naturii.", "Un parc forestier verde cu multe posibilități de joacă.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Hiking trails for families.", "Nature observation.", "A green forest park with many play opportunities.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein grüner Waldpark mit vielen Spielmöglichkeiten.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Zöld erdőpark sok játéklehetőséggel.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un parc forestier verde cu multe posibilități de joacă.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A green forest park with many play opportunities.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/tangier-park-kid-landmark-life-v2.webp"},
   {
     id: "meknes-zoo-kid-landmark-life-v2",
@@ -422,10 +422,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Meknes Zoo is a remarkable feature of the geography and culture of Morocco. A small but nice zoo in Meknes. Local species. Educational focus. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Heimische Arten.", "Pädagogischer Fokus.", "Ein kleiner, aber feiner Tierpark in Meknes.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Hazai fajok.", "Pedagógiai fókusz.", "Kicsi, de szép állatkert Meknesben.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Specii locale.", "Focus pedagogic.", "O grădină zoologică mică, dar drăguță în Meknes.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Local species.", "Educational focus.", "A small but nice zoo in Meknes.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein kleiner, aber feiner Tierpark in Meknes.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Kicsi, de szép állatkert Meknesben.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O grădină zoologică mică, dar drăguță în Meknes.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A small but nice zoo in Meknes.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/meknes-zoo-kid-landmark-life-v2.webp"},
   {
     id: "agadir-bird-valley-kid-landmark-life-v2",
@@ -448,9 +448,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Parcul se întinde pe o suprafață de 2,5 hectare.", "Intrarea în parc este gratuită pentru toți vizitatorii.", "Găzduiește specii de păsări din America de Sud și Asia.", "Printre mamifere se numără muflonul de Atlas.", "Include o cascadă artificială și mai multe iazuri.", "Este situat în centrul zonei turistice din Agadir.", "Un loc popular pentru fotografii, în special podul de lemn.", "Parcul a fost renovat în anii 2000 pentru a îmbunătăți habitatele animalelor."],
-      de: ["Zentral gelegen.", "Sehr familienfreundlich.", "Ein Zoo mitten in Agadir, spezialisiert auf Vögel und kleine Tiere.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Központi elhelyezkedés.", "Nagyon családbarát.", "Állatkert Agadir közepén, amely madarakra és kisállatokra specializálódott.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Centrally located.", "Very family-friendly.", "A zoo in the middle of Agadir, specializing in birds and small animals.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Ein Zoo mitten in Agadir, spezialisiert auf Vögel und kleine Tiere.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Állatkert Agadir közepén, amely madarakra és kisállatokra specializálódott.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["A zoo in the middle of Agadir, specializing in birds and small animals.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/agadir-bird-valley-kid-landmark-life-v2.webp"},
   {
     id: "sahara-camel-habitat-life-v2",
@@ -472,10 +472,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Sahara Camel Habitat is a remarkable feature of the geography and culture of Morocco. An area where camels traditionally live. Dromedaries. Adaptation to the desert. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Dromedare.", "Anpassung an die Wüste.", "Ein Gebiet, in dem Kamele traditionell leben.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Dromedárok.", "Alkalmazkodás a sivataghoz.", "Olyan terület, ahol a tevék hagyományosan élnek.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Dromedari.", "Adaptare la deșert.", "O zonă unde cămilele trăiesc în mod tradițional.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Dromedaries.", "Adaptation to the desert.", "An area where camels traditionally live.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein Gebiet, in dem Kamele traditionell leben.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Olyan terület, ahol a tevék hagyományosan élnek.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă unde cămilele trăiesc în mod tradițional.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["An area where camels traditionally live.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/sahara-camel-habitat-life-v2.webp"},
   {
     id: "oued-draa-wetland-life-v2",
@@ -497,10 +497,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Oued Draa Wetland is a remarkable feature of the geography and culture of Morocco. An important wetland along the Draa river. Habitat for amphibians. Green oasis. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Lebensraum für Amphibien.", "Grüne Oase.", "Ein wichtiges Feuchtgebiet entlang des Flusses Draa.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Élőhely kétéltűek számára.", "Zöld oázis.", "Fontos vizes élőhely a Draa folyó mentén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Habitat pentru amfibieni.", "Oază verde.", "O zonă umedă importantă de-a lungul râului Draa.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Habitat for amphibians.", "Green oasis.", "An important wetland along the Draa river.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein wichtiges Feuchtgebiet entlang des Flusses Draa.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Fontos vizes élőhely a Draa folyó mentén.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă umedă importantă de-a lungul râului Draa.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["An important wetland along the Draa river.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/oued-draa-wetland-life-v2.webp"},
   {
     id: "sebou-river-basin-agriculture-life-v2",
@@ -522,10 +522,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Sebou Basin is a remarkable feature of the geography and culture of Morocco. The most important agricultural basin in Morocco. Cereals and olives. Very fertile. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Getreide und Oliven.", "Sehr fruchtbar.", "Das wichtigste landwirtschaftliche Becken in Marokko.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Gabona és olajbogyó.", "Nagyon termékeny.", "Marokkó legfontosabb mezőgazdasági medencéje.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cereale și măsline.", "Foarte fertil.", "Cel mai important bazin agricol din Maroc.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Cereals and olives.", "Very fertile.", "The most important agricultural basin in Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Das wichtigste landwirtschaftliche Becken in Marokko.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Marokkó legfontosabb mezőgazdasági medencéje.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Cel mai important bazin agricol din Maroc.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["The most important agricultural basin in Morocco.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/sebou-river-basin-agriculture-life-v2.webp"},
   {
     id: "ouazzane-olive-agriculture-life-v2",
@@ -547,10 +547,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Ouazzane Region is a remarkable feature of the geography and culture of Morocco. Known for the cultivation of olives. High-quality olive oil. Traditional orchards. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Hochwertiges Olivenöl.", "Traditionelle Obstgärten.", "Bekannt für den Anbau von Oliven.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kiváló minőségű olívaolaj.", "Hagyományos gyümölcsösök.", "Híres az olajbogyó-termesztéséről.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Ulei de măsline de înaltă calitate.", "Livezi tradiționale.", "Cunoscută pentru cultivarea măslinelor.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["High-quality olive oil.", "Traditional orchards.", "Known for the cultivation of olives.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Bekannt für den Anbau von Oliven.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Híres az olajbogyó-termesztéséről.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Cunoscută pentru cultivarea măslinelor.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Known for the cultivation of olives.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/ouazzane-olive-agriculture-life-v2.webp"},
   {
     id: "chefchaouen-goat-habitat-life-v2",
@@ -573,9 +573,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Rasa locală de capre este adaptată perfect la terenul montan.", "Brânza de capră proaspătă ('jben') este o specialitate a regiunii Chefchaouen.", "Multe familii din mediul rural depind de creșterea caprelor pentru subzistență.", "Caprele sunt cunoscute pentru agilitatea lor, putând urca chiar și în copaci (în special argani, în sud).", "Parcul Național Talassemtane, din apropiere, încearcă să echilibreze conservarea și pășunatul.", "Pășunatul este o practică ce datează de mii de ani în Munții Rif.", "Pe lângă brânză, se valorifică și carnea și pielea de capră.", "Stilul de viață pastoral este o componentă importantă a identității culturale locale."],
-      de: ["Freilandhaltung.", "Berühmter Ziegenkäse.", "Gebirgsregion, in der Ziegen traditionell gehalten werden.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Szabad tartás.", "Híres kecskesajt.", "Hegyvidéki régió, ahol hagyományosan kecskéket tartanak.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Free-range farming.", "Famous goat cheese.", "Mountain region where goats are traditionally kept.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Gebirgsregion, in der Ziegen traditionell gehalten werden.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegyvidéki régió, ahol hagyományosan kecskéket tartanak.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["Mountain region where goats are traditionally kept.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/chefchaouen-goat-habitat-life-v2.webp"},
   {
     id: "fes-region-agriculture-life-v2",
@@ -598,9 +598,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Câmpia Saïss este situată între Munții Rif și Atlasul Mijlociu.", "Regiunea Fès-Meknès este cel mai mare producător de ulei de măsline din Maroc.", "Măslinul este cultivat în această zonă încă din perioada romană.", "Soiul local de măsline 'Picholine marocaine' este foarte apreciat.", "Barajul Idriss I de pe râul Inaouen este crucial pentru irigații.", "Pe lângă agricultură, regiunea este cunoscută și pentru meșteșugurile tradiționale.", "Universitatea Al Quaraouiyine din Fès, fondată în 859, este cea mai veche din lume în funcțiune continuă.", "Terenurile agricole sunt adesea deținute de mici fermieri care practică o agricultură de subzistență."],
-      de: ["Wichtige Märkte.", "Vielfältige Erzeugnisse.", "Ein zentrales landwirtschaftliches Gebiet für Obst und Gemüse.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fontos piacok.", "Változatos termékek.", "Központi mezőgazdasági terület gyümölcsök és zöldségek számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Important markets.", "Diverse produce.", "A central agricultural area for fruits and vegetables.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Ein zentrales landwirtschaftliches Gebiet für Obst und Gemüse.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Központi mezőgazdasági terület gyümölcsök és zöldségek számára.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["A central agricultural area for fruits and vegetables.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/fes-region-agriculture-life-v2.webp"},
   {
     id: "midelt-apple-agriculture-life-v2",
@@ -622,10 +622,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Midelt Apple Region is a remarkable feature of the geography and culture of Morocco. Known for its high-quality apples. Apple capital. Annual apple festival. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Apfelhauptstadt.", "Jährliches Apfelfest.", "Bekannt für ihre hochwertigen Äpfel.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Almaközpont.", "Éves almafesztivál.", "Híres a kiváló minőségű almáiról.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Capitala merelor.", "Festivalul anual al merelor.", "Cunoscută pentru merele sale de înaltă calitate.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Apple capital.", "Annual apple festival.", "Known for its high-quality apples.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Bekannt für ihre hochwertigen Äpfel.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Híres a kiváló minőségű almáiról.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Cunoscută pentru merele sale de înaltă calitate.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Known for its high-quality apples.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/midelt-apple-agriculture-life-v2.webp"},
   {
     id: "tiznit-agriculture-life-v2",
@@ -647,10 +647,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Tiznit Region is a remarkable feature of the geography and culture of Morocco. Agricultural region in the Anti-Atlas. Dryland farming. Argan trees. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Trockenlandwirtschaft.", "Arganbäume.", "Landwirtschaftliche Region im Anti-Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Szárazföldi gazdálkodás.", "Argánfák.", "Mezőgazdasági régió az Anti-Atlaszban.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Agricultură în zone aride.", "Pomi de argan.", "Regiune agricolă în Anti-Atlas.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Dryland farming.", "Argan trees.", "Agricultural region in the Anti-Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Landwirtschaftliche Region im Anti-Atlas.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Mezőgazdasági régió az Anti-Atlaszban.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Regiune agricolă în Anti-Atlas.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Agricultural region in the Anti-Atlas.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/tiznit-agriculture-life-v2.webp"},
   {
     id: "agadir-fish-market-agriculture-life-v2",
@@ -673,9 +673,9 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Agadir este cel mai mare port de sardine din lume.", "Peste 80% din captura de sardine a Marocului provine de aici.", "Portul a fost reconstruit complet după cutremurul din 1960.", "Licitațiile de pește au loc zilnic, de obicei în jurul orei 7 dimineața.", "Flota de pescuit este formată din sute de bărci tradiționale albastre.", "Pe lângă sardine, se pescuiesc cantități mari de ton și macrou.", "Industria conservelor de pește din Agadir este o sursă majoră de export.", "Complexul include și un șantier naval pentru reparația ambarcațiunilor."],
-      de: ["Fischverarbeitung.", "Wichtiger Export.", "Das Zentrum der marokkanischen Fischereiindustrie.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Halfeldolgozás.", "Fontos export.", "A marokkói halászati ipar központja.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      en: ["Fish processing.", "Important export.", "The center of the Moroccan fishing industry.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      de: ["Das Zentrum der marokkanischen Fischereiindustrie.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A marokkói halászati ipar központja.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      en: ["The center of the Moroccan fishing industry.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/agadir-fish-market-agriculture-life-v2.webp"},
   {
     id: "ouarzazate-date-agriculture-life-v2",
@@ -697,10 +697,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Ouarzazate Date Region is a remarkable feature of the geography and culture of Morocco. A center for the cultivation of dates. Date harvest. Oasis agriculture. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Dattelernte.", "Oasen-Landwirtschaft.", "Ein Zentrum für den Anbau von Datteln.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Datolyaszüret.", "Oázis-mezőgazdaság.", "A datolyatermesztés központja.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Recolta de curmale.", "Agricultură de oază.", "Un centru pentru cultivarea curmalelor.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Date harvest.", "Oasis agriculture.", "A center for the cultivation of dates.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein Zentrum für den Anbau von Datteln.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A datolyatermesztés központja.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un centru pentru cultivarea curmalelor.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A center for the cultivation of dates.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/ouarzazate-date-agriculture-life-v2.webp"},
   {
     id: "merzouga-kid-landmark-life-v2",
@@ -722,10 +722,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Merzouga Adventure Park is a remarkable feature of the geography and culture of Morocco. A park that playfully provides children with desert experiences. Sandboarding. Camel riding for children. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Sandboarding.", "Kamelreiten für Kinder.", "Ein Park, der Kindern Wüstenerlebnisse spielerisch vermittelt.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Sandboarding.", "Tevegelés gyerekeknek.", "Olyan park, amely játékosan közvetíti a gyerekeknek a sivatagi élményeket.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Sandboarding.", "Excursii cu cămile pentru copii.", "Un parc care oferă copiilor experiențe în deșert în mod ludic.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Sandboarding.", "Camel riding for children.", "A park that playfully provides children with desert experiences.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Ein Park, der Kindern Wüstenerlebnisse spielerisch vermittelt.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Olyan park, amely játékosan közvetíti a gyerekeknek a sivatagi élményeket.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un parc care oferă copiilor experiențe în deșert în mod ludic.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["A park that playfully provides children with desert experiences.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/merzouga-kid-landmark-life-v2.webp"},
   {
     id: "taroudant-kid-landmark-life-v2",
@@ -747,10 +747,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
       en: "Taroudant Kindergartens is a remarkable feature of the geography and culture of Morocco. Educational centers with a focus on nature education. Garden projects. Animal observation. This protected area is part of Morocco's rich wildlife and flora. Like many notable places in Morocco, it combines regional character with wider significance. Thus, this place contributes to the diverse profile of Morocco.",
     },
     factsAdvanced: {
-      de: ["Gartenprojekte.", "Tiere beobachten.", "Bildungszentren mit Fokus auf Naturerziehung.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kertészeti projektek.", "Állatok megfigyelése.", "Oktatási központok a természetnevelésre fókuszálva.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Proiecte de grădinărit.", "Observarea animalelor.", "Centre educaționale cu accent pe educația în natură.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
-      en: ["Garden projects.", "Animal observation.", "Educational centers with a focus on nature education.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
+      de: ["Bildungszentren mit Fokus auf Naturerziehung.", "Liegt im Gebiet des Königreichs Marokko.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Oktatási központok a természetnevelésre fókuszálva.", "A Marokkói Királyság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Centre educaționale cu accent pe educația în natură.", "Se află pe teritoriul Regatului Maroc.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
+      en: ["Educational centers with a focus on nature education.", "Located within the Kingdom of Morocco.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }
   }
 ];

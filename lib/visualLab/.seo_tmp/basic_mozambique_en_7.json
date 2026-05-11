@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lebombo-berge-relief-v2",
+      "description": "A striking mountain range forming a natural border and scenic highland landscape.",
+      "facts": ["Long volcanic mountain range", "Southern border feature", "Highland topography", "Geological interest"]
+    },
+    {
+      "id": "manica-hochland-relief-v2",
+      "description": "A significant highland area in central Mozambique offering varied terrain and climate.",
+      "facts": ["Central highland zone", "Varied elevation", "Cooler climate area", "Agricultural highlands"]
+    },
+    {
+      "id": "cabo-delgado-kuesten-relief-v2",
+      "description": "The northern coastal strip characterized by varied beach and inland terrain.",
+      "facts": ["Northern coastal area", "Varied terrain", "Indian Ocean coastline", "Cabo Delgado region"]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "description": "The low-lying plains of the Tete region, influenced by the Zambezi river valley.",
+      "facts": ["Low-lying plain", "Zambezi river influence", "Tete region terrain", "Broad alluvial area"]
+    },
+    {
+      "id": "gaza-ebene-relief-v2",
+      "description": "The expansive plains of Gaza, known for its flat, fertile agricultural terrain.",
+      "facts": ["Expansive flat plains", "Fertile soil", "Southern agricultural zone", "Low-lying landscape"]
+    },
+    {
+      "id": "nampula-hollan-relief-v2",
+      "description": "An inland plateau and hilly area shaping the relief of the Nampula province.",
+      "facts": ["Inland plateau feature", "Hilly terrain", "Nampula province", "Northern topography"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "The unique coastal relief defining the bay of Pemba and its surrounding topography.",
+      "facts": ["Coastal bay relief", "Unique bay topography", "Pemba region", "Coastal landscape"]
+    },
+    {
+      "id": "lupata-massiv-relief-v2",
+      "description": "A prominent mountain massif providing dramatic relief in the central river region.",
+      "facts": ["Prominent mountain massif", "Dramatic central relief", "Geological landmark", "River region feature"]
+    },
+    {
+      "id": "tite-hochland-relief-v2",
+      "description": "Elevated terrain in the Tete region providing a contrast to the surrounding lowlands.",
+      "facts": ["Elevated Tete terrain", "Topographical contrast", "Regional highlands", "Internal Tete feature"]
+    },
+    {
+      "id": "limpopo-delta-relief-v2",
+      "description": "The low-lying delta landscape where the Limpopo River meets the Indian Ocean.",
+      "facts": ["River delta zone", "Low-lying relief", "Limpopo river mouth", "Coastal depositional area"]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "description": "Elevated topographical mass providing notable relief in the Gile area.",
+      "facts": ["Elevated mass", "Noteworthy relief", "Gile region feature", "Topographical highlight"]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "description": "The coastal topographical features characteristic of the Mossuril region.",
+      "facts": ["Coastal topography", "Mossuril area", "Regional landscape", "Coastal strip"]
+    }
+  ]
+}

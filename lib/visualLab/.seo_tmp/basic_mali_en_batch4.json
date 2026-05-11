@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-faguibine-nature-v2",
+      "description": "Lake Faguibine is a large, seasonal lake system in northern Mali that significantly fluctuates based on rainfall.",
+      "facts": ["Northern Mali location", "Seasonal lake system", "Rainfall-dependent size", "Important seasonal habitat"]
+    },
+    {
+      "id": "baoule-river-nature-v2",
+      "description": "The Baoulé River is a significant tributary within Mali, flowing through diverse landscapes in the country's south.",
+      "facts": ["Significant tributary", "Southern Mali flow", "Diverse landscape path", "Seasonal river system"]
+    },
+    {
+      "id": "faleme-river-nature-v2",
+      "description": "The Falémé River forms part of the natural border between Mali and Senegal, supporting lush riparian corridors.",
+      "facts": ["Mali-Senegal border", "Lush riparian zone", "Rich river ecology", "Seasonal water course"]
+    },
+    {
+      "id": "mount-kourou-nature-v2",
+      "description": "Mount Kourou is an elevated landform that provides a unique vantage point over the surrounding Malian savanna.",
+      "facts": ["Elevated savanna landform", "Unique regional outlook", "Characteristic terrain feature", "Diverse local flora"]
+    },
+    {
+      "id": "lake-tanda-nature-v2",
+      "description": "Lake Tanda is an inland water body that contributes to the ecological diversity of its surrounding regional habitat.",
+      "facts": ["Inland water body", "Regional ecological hub", "Local habitat support", "Seasonal fluctuation"]
+    },
+    {
+      "id": "mount-sarro-nature-v2",
+      "description": "Mount Sarro rises above the flat landscape, acting as a prominent landmark in the local terrain.",
+      "facts": ["Prominent terrain feature", "Landmark landform", "Savanna terrain zone", "Characteristic rocky profile"]
+    },
+    {
+      "id": "lake-niangay-nature-v2",
+      "description": "Lake Niangay is a seasonal wetland area essential for sustaining local biodiversity during the wetter months.",
+      "facts": ["Seasonal wetland area", "Biodiversity support", "Important rainy season site", "Local habitat focus"]
+    },
+    {
+      "id": "mount-tombouctou-nature-v2",
+      "description": "The region around Timbuktu features rugged geological formations that contrast with the surrounding sandy plains.",
+      "facts": ["Rugged geological site", "Desert landscape contrast", "Prominent rock formation", "Regional terrain landmark"]
+    },
+    {
+      "id": "baoule-ba-river-nature-v2",
+      "description": "The Baoulé-Ba River is a seasonal stream contributing to the hydrological network in the southwestern region.",
+      "facts": ["Southwestern hydrological node", "Seasonal stream flow", "Supports regional ecology", "Local river network"]
+    },
+    {
+      "id": "mount-koulou-nature-v2",
+      "description": "Mount Koulou is a notable hill in the Malian landscape, known for its distinct shape and local geological interest.",
+      "facts": ["Notable regional hill", "Distinctive terrain shape", "Local geological interest", "Characteristic rock feature"]
+    }
+  ]
+}

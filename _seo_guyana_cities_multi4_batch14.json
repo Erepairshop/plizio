@@ -1,0 +1,58 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "kumaka-cities-v2",
+      "descriptionAdvancedDe": "Kumaka ist ein wichtiges Handelszentrum in der Region Barima-Waini im Nordwesten Guyanas. Es liegt gegenüber von Santa Rosa am Kumaka Creek, einem Nebenfluss des Moruca-Flusses. Das Dorf dient als Hauptmarkt und Geschäftszentrum für die Santa Rosa-Mission und die umliegenden indigenen Gemeinschaften. Jeden Samstag findet ein großer Markt statt, auf dem Bauern aus der ganzen Region ihre Produkte verkaufen. Kumaka ist ein geschäftiger Ort, an dem Boote anlegen, um Waren und Personen zu transportieren. Die Gemeinde verfügt über Geschäfte, eine Tankstelle und andere wichtige Dienstleistungen. Die Entwicklung von Kumaka ist eng mit der von Santa Rosa verbunden, und zusammen bilden sie einen wichtigen städtischen und wirtschaftlichen Knotenpunkt in der Region.",
+      "descriptionAdvancedHu": "Kumaka egy fontos kereskedelmi központ Guyana északnyugati részén, a Barima-Waini régióban. Santa Rosával szemben, a Kumaka-patak, a Moruca folyó mellékfolyója mentén fekszik. A falu a Santa Rosa misszió és a környező őslakos közösségek fő piac- és üzleti központjaként szolgál. Minden szombaton nagy piacot tartanak, ahol a régió minden részéről érkező gazdálkodók árulják termékeiket. Kumaka egy nyüzsgő hely, ahol csónakok kötnek ki áruk és személyek szállítására. A közösség üzletekkel, benzinkúttal és egyéb fontos szolgáltatásokkal rendelkezik. Kumaka fejlődése szorosan kapcsolódik Santa Rosa fejlődéséhez, és együtt fontos városi és gazdasági csomópontot alkotnak a régióban.",
+      "descriptionAdvancedRo": "Kumaka este un important centru comercial din regiunea Barima-Waini din nord-vestul Guyanei. Este situat vizavi de Santa Rosa, pe pârâul Kumaka, un afluent al râului Moruca. Satul servește ca principal centru de piață și de afaceri pentru Misiunea Santa Rosa și comunitățile indigene din jur. O piață mare are loc în fiecare sâmbătă, unde fermierii din întreaga regiune își vând produsele. Kumaka este un loc plin de viață, cu bărci care acostează pentru a transporta bunuri și persoane. Comunitatea are magazine, o benzinărie și alte servicii esențiale. Dezvoltarea Kumaka este strâns legată de cea a Santa Rosa și împreună formează un nod urban și economic important în regiune.",
+      "descriptionAdvancedEn": "Kumaka is the main commercial centre for the Santa Rosa Mission area in the Barima-Waini Region. Located on the Kumaka Creek, a tributary of the Moruca River, it sits directly across the river from the administrative centre of Santa Rosa. Kumaka is essentially the marketplace and business hub for the thousands of residents in the surrounding riverain communities. Its waterfront is a hive of activity, especially on market days, with boats arriving from all over the Moruca sub-region laden with agricultural produce and other goods. The village has numerous shops, a fuel station, and various services that are essential to the region. Kumaka and Santa Rosa together form the largest concentration of Amerindian settlement in Guyana.",
+      "factsAdvanced": [
+        "A Santa Rosa misszió kereskedelmi központja.",
+        "A Kumaka-patak partján fekszik.",
+        "Santa Rosával szemben található.",
+        "A környező folyó menti közösségek üzleti központja.",
+        "Vízpartja különösen a piaci napokon nyüzsgő.",
+        "A csónakok a fő szállítóeszközök.",
+        "Santa Rosával együtt Guyana legnagyobb amerindiai települését alkotják.",
+        "Alapvető szolgáltatásokat nyújt a régiónak."
+      ]
+    },
+    {
+      "id": "morawhanna-cities-v2",
+      "descriptionAdvancedDe": "Morawhanna ist eine historische Hafenstadt in der Region Barima-Waini im Nordwesten Guyanas, nahe der Grenze zu Venezuela. Es liegt am Zusammenfluss der Flüsse Barima und Mora Passage. Einst war es die Hauptstadt der Region und ein geschäftiger Einreisehafen, der für seine Mangrovenwälder und seine strategische Lage bekannt war. Mit der Verlagerung der regionalen Hauptstadt nach Mabaruma und dem Rückgang des Handels hat die Bedeutung von Morawhanna abgenommen. Die Stadt ist anfällig für Überschwemmungen, und viele ihrer Gebäude sind auf Stelzen gebaut. Die Wirtschaft basiert heute auf Fischerei, Holzeinschlag und Subsistenzlandwirtschaft. Trotz seines Niedergangs bewahrt Morawhanna einen einzigartigen Charakter und eine reiche Geschichte, die von seiner Vergangenheit als wichtiger Grenzhafen zeugt.",
+      "descriptionAdvancedHu": "Morawhanna egy történelmi kikötőváros Guyana északnyugati részén, a Barima-Waini régióban, Venezuela határának közelében. A Barima folyó és a Mora Passage összefolyásánál fekszik. Egykor a régió fővárosa és egy forgalmas belépési kikötő volt, amely mangróveerdőiről és stratégiai fekvéséről volt ismert. A regionális főváros Mabarumába való áthelyezésével és a kereskedelem csökkenésével Morawhanna jelentősége csökkent. A város hajlamos az áradásokra, és sok épülete cölöpökre épült. A gazdaság ma a halászaton, a fakitermelésen és az önellátó gazdálkodáson alapul. Hanyatlása ellenére Morawhanna megőrzi egyedi jellegét és gazdag történelmét, amely egykor fontos határkikötői múltjáról tanúskodik.",
+      "descriptionAdvancedRo": "Morawhanna este un oraș portuar istoric din regiunea Barima-Waini din nord-vestul Guyanei, aproape de granița cu Venezuela. Este situat la confluența râului Barima și a Pasajului Mora. A fost odată capitala regională și un port de intrare aglomerat, cunoscut pentru pădurile sale de mangrove și locația sa strategică. Odată cu mutarea capitalei regionale la Mabaruma și declinul comerțului, importanța Morawhannei a scăzut. Orașul este predispus la inundații, iar multe dintre clădirile sale sunt construite pe piloni. Economia se bazează acum pe pescuit, exploatare forestieră și agricultură de subzistență. În ciuda declinului său, Morawhanna păstrează un caracter unic și o istorie bogată, care mărturisește trecutul său de port de frontieră important.",
+      "descriptionAdvancedEn": "Morawhanna is a historic port settlement in the Barima-Waini region, located on the Barima River very close to the Venezuelan border. It once served as the regional capital and was a bustling port of entry, given its strategic location. However, its importance declined significantly after the administrative centre was moved to the higher ground of Mabaruma. Morawhanna is situated in a low-lying, swampy area and is prone to frequent flooding, which has led to many buildings being constructed on stilts. The economy today is small-scale, based on fishing and trade. Despite its decline from its former prominence, Morawhanna retains a unique, resilient character, a testament to its long history as a gateway to Guyana's North West District.",
+      "factsAdvanced": [
+        "Történelmi kikötő a Barima-Waini régióban.",
+        "A venezuelai határ közelében fekszik.",
+        "Egykor a régió fővárosa volt.",
+        "Jelentősége csökkent, miután a fővárost áthelyezték.",
+        "Alacsonyan fekvő, árvízveszélyes területen található.",
+        "Sok épület cölöpökre épült.",
+        "A gazdaság a halászaton és a kereskedelmen alapul.",
+        "Megőrizte egyedi, ellenálló jellegét."
+      ]
+    },
+    {
+      "id": "matthews-ridge-cities-v2",
+      "descriptionAdvancedDe": "Matthews Ridge ist eine Gemeinde in der Region Barima-Waini im Nordwesten Guyanas. Sie wurde in den 1960er Jahren als Zentrum für den Manganabbau entwickelt. Eine Eisenbahnlinie verband die Minen mit dem Hafen von Port Kaituma zum Export. Nach dem Zusammenbruch des Manganmarktes in den späten 1960er Jahren wurde der Betrieb eingestellt, was zu einem erheblichen wirtschaftlichen Niedergang führte. Heute erlebt die Region ein Wiederaufleben durch Gold- und Diamantenabbau. Die alte Manganmine und die Eisenbahninfrastruktur sind verfallene Überreste der Vergangenheit. Die Gemeinde liegt in einer hügeligen, bewaldeten Gegend und der Zugang erfolgt hauptsächlich über eine Landebahn oder auf der Straße von Port Kaituma aus. Matthews Ridge ist ein Beispiel für den Boom-and-Bust-Zyklus, der viele Bergbaugemeinden in Guyana geprägt hat.",
+      "descriptionAdvancedHu": "Matthews Ridge egy közösség Guyana északnyugati részén, a Barima-Waini régióban. Az 1960-as években a mangánbányászat központjaként fejlesztették ki. Vasútvonal kötötte össze a bányákat Port Kaituma kikötőjével az export érdekében. A mangánpiac 1960-as évek végi összeomlása után a műveleteket leállították, ami jelentős gazdasági hanyatláshoz vezetett. Ma a régió az arany- és gyémántbányászat révén újjáéled. A régi mangánbánya és a vasúti infrastruktúra a múlt romos maradványai. A közösség dombos, erdős területen fekszik, és a megközelítés főként leszállópályán vagy Port Kaitumából közúton történik. Matthews Ridge példa a fellendülés és hanyatlás ciklusára, amely sok guyanai bányászközösséget jellemzett.",
+      "descriptionAdvancedRo": "Matthews Ridge este o comunitate din regiunea Barima-Waini din nord-vestul Guyanei. A fost dezvoltată în anii 1960 ca centru pentru extracția de mangan. O linie de cale ferată lega minele de portul Port Kaituma pentru export. După prăbușirea pieței de mangan la sfârșitul anilor 1960, operațiunile au încetat, ceea ce a dus la un declin economic semnificativ. Astăzi, regiunea cunoaște o renaștere datorită extracției de aur și diamante. Vechea mină de mangan și infrastructura feroviară sunt relicve dărăpănate ale trecutului său. Comunitatea este situată într-o zonă deluroasă, împădurită, iar accesul se face în principal printr-o pistă de aterizare sau pe drumul din Port Kaituma. Matthews Ridge este un exemplu al ciclului de expansiune și recesiune care a caracterizat multe comunități miniere din Guyana.",
+      "descriptionAdvancedEn": "Matthews Ridge is a community in the Barima-Waini region of northwestern Guyana. It was established and developed in the 1960s specifically for the mining of manganese. A 40-mile railway was constructed to transport the manganese ore from the mines at Matthews Ridge to the port at Port Kaituma for shipping. When the manganese market collapsed in the late 1960s, the operations ceased, and the town went into a steep decline. The railway and mining infrastructure were abandoned, leaving behind a ghost of its industrial past. In recent years, the area has seen a resurgence due to gold and diamond mining. The story of Matthews Ridge is a classic example of a single-industry boom-and-bust town, with its fortunes rising and falling with global commodity prices.",
+      "factsAdvanced": [
+        "Az 1960-as években a mangánbányászat központja volt.",
+        "A Barima-Waini régióban található.",
+        "Vasút kötötte össze Port Kaituma kikötőjével.",
+        "A mangánpiac összeomlása után a város hanyatlásnak indult.",
+        "Az elhagyott vasút a múlt ipari emlékét őrzi.",
+        "Ma az arany- és gyémántbányászat éleszti újjá.",
+        "Példája a „boom-and-bust” (fellendülés és hanyatlás) ciklusának.",
+        "Dombos, erdős területen fekszik."
+      ]
+    }
+  ]
+}

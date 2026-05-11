@@ -1,0 +1,439 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": [
+    "lib/visualLab/data/poiExtraLebanonLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "temple-of-bacchus-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bacchustempel in Baalbek ist einer der am besten erhaltenen und imposantesten römischen Tempel weltweit. Er wurde im 2. Jahrhundert n. Chr. zu Ehren des Weingottes Bacchus erbaut und beeindruckt mit gigantischen, reich verzierten Säulen sowie einem prunkvollen Tor, das mit detaillierten Reliefs geschmückt ist. Als Teil des monumentalen Tempelkomplexes von Baalbek gehört er zum UNESCO-Welterbe und zeugt von der architektonischen Meisterschaft des Römischen Reiches im Nahen Osten.",
+        "hu": "A baalbeki Bacchus-templom a világ egyik legjobb állapotban fennmaradt és legimpozánsabb római kori temploma. A Kr. u. 2. században épült a bor istenének tiszteletére, és gigantikus, gazdagon díszített oszlopaival, valamint részletes domborművekkel ékesített hatalmas kapujával nyűgözi le a látogatókat. A baalbeki monumentális templomegyüttes részeként az UNESCO Világörökséghez tartozik, és a Római Birodalom közel-keleti építészeti zsenialitását hirdeti.",
+        "ro": "Templul lui Bacchus din Baalbek este unul dintre cele mai bine conservate și mai impunătoare temple romane din lume. A fost construit în secolul al II-lea d.Hr. în onoarea zeului vinului, Bacchus, și impresionează prin coloanele sale gigantice, bogat decorate, precum și printr-o poartă magnifică împodobită cu reliefuri detaliate. Ca parte a complexului monumental de temple din Baalbek, aparține Patrimoniului Mondial UNESCO și stă mărturie măiestriei arhitecturale a Imperiului Roman în Orientul Mijlociu.",
+        "en": "The Temple of Bacchus in Baalbek is one of the best-preserved and most imposing Roman temples in the world. Built in the 2nd century AD in honor of the god of wine, it impresses with gigantic, richly decorated columns and a magnificent gateway adorned with detailed reliefs. As part of the monumental temple complex of Baalbek, it belongs to the UNESCO World Heritage list and testifies to the architectural mastery of the Roman Empire in the Middle East."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der besterhaltenen römischen Tempel der Welt.",
+          "Im 2. Jahrhundert n. Chr. im antiken Heliopolis (Baalbek) erbaut.",
+          "Größer als der Parthenon in Athen.",
+          "Verfügt über reich verzierte korinthische Säulen.",
+          "Teil der UNESCO-Welterbestätte von Baalbek.",
+          "Das monumentale Portal zeigt feine Reliefs von Bacchus und Ceres."
+        ],
+        "hu": [
+          "A világ egyik legépebben maradt ókori római temploma.",
+          "A Kr. u. 2. században épült az ókori Heliopoliszban (Baalbek).",
+          "Méreteiben felülmúlja az athéni Parthenónt is.",
+          "Hatalmas korinthoszi oszlopok veszik körül.",
+          "A baalbeki UNESCO Világörökségi helyszín központi eleme.",
+          "Főbejáratát bor- és mezőgazdasági motívumokkal díszítették."
+        ],
+        "ro": [
+          "Unul dintre cele mai bine păstrate temple romane la nivel global.",
+          "Construit în secolul al II-lea d.Hr. în Heliopolis (Baalbek).",
+          "Este mai mare ca dimensiuni decât Partenonul din Atena.",
+          "Prezintă coloane corintice masive și bogat ornamentate.",
+          "Face parte din situl Patrimoniului Mondial UNESCO Baalbek.",
+          "Poarta sa principală este sculptată cu motive legate de vin și agricultură."
+        ],
+        "en": [
+          "One of the best-preserved grand Roman temples in the world.",
+          "Constructed during the 2nd century AD in ancient Heliopolis (Baalbek).",
+          "Its dimensions exceed those of the Parthenon in Athens.",
+          "Surrounded by massive, intricately carved Corinthian columns.",
+          "A key component of the Baalbek UNESCO World Heritage site.",
+          "The monumental entrance portal features exquisite carvings of vines."
+        ]
+      }
+    },
+    {
+      "id": "sidon-sea-castle-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Seefestung von Sidon ist eine historische Kreuzritterburg, die im frühen 13. Jahrhundert auf einer kleinen Insel vor der Küste erbaut wurde. Sie ist über eine steinerne Brücke mit dem Festland verbunden und besteht aus markanten Mauerblöcken, die teilweise aus antiken phönizischen und römischen Bauwerken stammen. Im Laufe der Jahrhunderte wurde die Festung mehrfach zerstört und wieder aufgebaut, insbesondere durch die Mamluken, die der Struktur ihre heutigen charakteristischen Merkmale verliehen.",
+        "hu": "A Szidóni tengeri erőd egy történelmi keresztes lovagvár, amelyet a 13. század elején építettek egy kis szigeten, közvetlenül a part közelében. A szárazfölddel egy kőhíd köti össze, falai pedig olyan masszív kőtömbökből állnak, amelyek egy része ókori föníciai és római épületekből származik. Az évszázadok során többször lerombolták és újjáépítették, leginkább a mamlukok, akik kialakították az építmény mai jellegzetes formáját.",
+        "ro": "Castelul Mării din Sidon este o cetate istorică a cruciaților, construită la începutul secolului al XIII-lea pe o mică insulă în largul coastei. Este legată de continent printr-un pod de piatră și este formată din blocuri de zidărie distincte, care provin parțial din structuri antice feniciene și romane. De-a lungul secolelor, cetatea a fost distrusă și reconstruită de mai multe ori, în special de către mameluci, care i-au conferit caracteristicile distinctive de astăzi.",
+        "en": "The Sidon Sea Castle is a historic Crusader fortress built in the early 13th century on a small island just off the coast. It is connected to the mainland by a stone bridge and features distinctive masonry blocks, some of which were repurposed from ancient Phoenician and Roman structures. Over the centuries, the fortress was repeatedly destroyed and rebuilt, notably by the Mamluks, who gave the structure its current characteristic features."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut von den Kreuzfahrern im Jahr 1228.",
+          "Befindet sich auf einer kleinen Insel im Mittelmeer.",
+          "Eine 80 Meter lange Steinbrücke verbindet sie mit dem Festland.",
+          "Die Mauern enthalten Säulen aus römischen Ruinen.",
+          "Wurde von den Mamluken nach Zerstörungen wieder aufgebaut.",
+          "Bietet einen hervorragenden Blick auf den Hafen von Sidon."
+        ],
+        "hu": [
+          "A keresztes lovagok építették 1228 körül.",
+          "Egy apró szigeten áll a Földközi-tengerben.",
+          "Egy 80 méter hosszú kőhíd köti össze a parttal.",
+          "Építéséhez ókori római oszlopokat is felhasználtak.",
+          "A mamlukok jelentősen átépítették az erődöt.",
+          "A toronyból csodálatos kilátás nyílik Szidón kikötőjére."
+        ],
+        "ro": [
+          "Construit inițial de cruciați în anul 1228.",
+          "Situat pe o mică insulă în Marea Mediterană.",
+          "Un pod de piatră lung de 80 de metri îl leagă de continent.",
+          "Zidurile incorporează coloane preluate din ruine romane.",
+          "A fost restaurat și modificat semnificativ de mameluci.",
+          "Oferă vederi pitorești asupra portului antic Sidon."
+        ],
+        "en": [
+          "Erected by the Crusaders in the year 1228.",
+          "Located on a small islet in the Mediterranean Sea.",
+          "Connected to the mainland by an 80-meter stone bridge.",
+          "The walls incorporate reused columns from earlier Roman eras.",
+          "Significantly altered and rebuilt by the Mamluks.",
+          "Provides excellent panoramic views of the modern port of Sidon."
+        ]
+      }
+    },
+    {
+      "id": "baatara-gorge-waterfall-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Baatara-Schlucht-Wasserfall, auch bekannt als die Höhle der drei Brücken, ist ein atemberaubendes Naturwunder im Libanongebirge. Das Wasser stürzt hier während der Schneeschmelze 255 Meter tief in einen jurassischen Kalksteinschlund und passiert dabei drei natürliche Felsbrücken, die übereinander liegen. Dieses geologische Phänomen bietet ein spektakuläres Fotomotiv und zieht Wanderer und Naturliebhaber aus der ganzen Welt in die Region Tannourine.",
+        "hu": "A Baatara-szurdok vízesés, más néven a Három Híd barlangja, egy lélegzetelállító természeti csoda a Libanoni-hegységben. A víz a hóolvadás idején 255 méter mélyen zuhan be egy jura kori mészkőszakadékba, miközben három, egymás felett elhelyezkedő természetes sziklahíd mellett halad el. Ez a geológiai képződmény lenyűgöző látványt nyújt, és a világ minden tájáról vonzza a túrázókat és a természetkedvelőket a Tannourine régióba.",
+        "ro": "Cascada defileului Baatara, cunoscută și sub numele de Peștera celor Trei Poduri, este o minune naturală uluitoare din Munții Liban. În timpul topirii zăpezii, apa cade de la 255 de metri adâncime într-un abis de calcar jurasic, trecând pe lângă trei poduri de piatră naturale situate unul deasupra celuilalt. Acest fenomen geologic oferă un motiv fotografic spectaculos și atrage drumeți și iubitori de natură din întreaga lume în regiunea Tannourine.",
+        "en": "The Baatara Gorge Waterfall, also known as the Cave of the Three Bridges, is a breathtaking natural wonder in the Mount Lebanon range. During the spring snowmelt, water plunges 255 meters into a Jurassic limestone sinkhole, passing behind three natural rock bridges stacked one above the other. This geological phenomenon provides a spectacular photographic setting and draws hikers and nature enthusiasts from around the world to the Tannourine region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bekannt als die Höhle der drei Brücken.",
+          "Der Wasserfall fällt 255 Meter in eine Kalksteinhöhle.",
+          "Verfügt über drei natürliche Gesteinsbrücken übereinander.",
+          "Der Wasserfall ist am stärksten während der Schneeschmelze im Frühling.",
+          "Befindet sich nahe der Stadt Tannourine im Libanongebirge.",
+          "Das geologische Alter der Formation reicht bis in den Jura zurück."
+        ],
+        "hu": [
+          "Gyakran nevezik a Három Híd barlangjának is.",
+          "A vízesés 255 métert zuhan egy mészkő víznyelőbe.",
+          "Három természetes kőhíd ível át a szakadék felett.",
+          "Leginkább a tavaszi hóolvadás idején látványos a vízhozama.",
+          "A Libanoni-hegységben, Tannourine közelében található.",
+          "A kőzetformáció kora a jura időszakig nyúlik vissza."
+        ],
+        "ro": [
+          "Cunoscută ca Peștera celor Trei Poduri.",
+          "Apa cade 255 de metri într-o dolină de calcar.",
+          "Prezintă trei poduri naturale de piatră suspendate.",
+          "Cascada este activă mai ales primăvara la topirea zăpezii.",
+          "Situată lângă orașul Tannourine în Munții Liban.",
+          "Roca de calcar datează din perioada Jurasicului."
+        ],
+        "en": [
+          "Often referred to as the Cave of the Three Bridges.",
+          "The waterfall drops 255 meters into a limestone sinkhole.",
+          "Features three naturally formed rock bridges spanning the gorge.",
+          "Flows most powerfully during the spring snowmelt.",
+          "Located near the town of Tannourine in the Mount Lebanon range.",
+          "The limestone formation dates back to the Jurassic period."
+        ]
+      }
+    },
+    {
+      "id": "beaufort-castle-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Burg Beaufort, lokal als Qalaat al-Shaqif bekannt, ist eine strategisch bedeutsame Festung auf einem markanten Felsvorsprung im Südlibanon. Ursprünglich von den Kreuzfahrern im 12. Jahrhundert erbaut, thront sie hoch über dem Litani-Fluss und bietet einen weiten Blick über die umliegenden Täler. Aufgrund ihrer herausragenden militärischen Lage war die Burg über Jahrhunderte Schauplatz zahlreicher Konflikte und wurde von verschiedenen Mächten, darunter Saladin und den Mamluken, erobert und erweitert.",
+        "hu": "A Beaufort-vár, helyi nevén Qalaat al-Shaqif, egy stratégiai fontosságú erődítmény egy kiemelkedő sziklaszirten Dél-Libanonban. Eredetileg a keresztes lovagok építették a 12. században, és magasan a Litani-folyó felett magasodik, ahonnan belátni az egész környező völgyrendszert. Kiemelkedő katonai elhelyezkedése miatt a vár évszázadokon át számos konfliktus helyszíne volt, és különböző hatalmak, köztük Szaladin és a mamlukok is elfoglalták és kibővítették.",
+        "ro": "Castelul Beaufort, cunoscut local sub numele de Qalaat al-Shaqif, este o fortăreață importantă din punct de vedere strategic, situată pe un promontoriu stâncos proeminent din sudul Libanului. Construit inițial de cruciați în secolul al XII-lea, tronează la înălțime deasupra râului Litani și oferă o vedere largă asupra văilor din jur. Datorită poziției sale militare remarcabile, castelul a fost scena a numeroase conflicte de-a lungul secolelor și a fost capturat și extins de diferite puteri, inclusiv de Saladin și de mameluci.",
+        "en": "Beaufort Castle, known locally as Qalaat al-Shaqif, is a strategically significant fortress perched on a prominent rocky outcrop in southern Lebanon. Originally built by the Crusaders in the 12th century, it towers high above the Litani River, commanding sweeping views over the surrounding valleys. Due to its exceptional military position, the castle was the site of numerous conflicts over the centuries and was captured and expanded by various powers, including Saladin and the Mamluks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kreuzritterburg auf einer 1000 Meter hohen Klippe.",
+          "Bietet einen strategischen Blick über den Litani-Fluss.",
+          "Erbaut im 12. Jahrhundert von den fränkischen Kreuzfahrern.",
+          "1190 von Saladin nach langer Belagerung eingenommen.",
+          "Im 13. Jahrhundert von den Tempelrittern erweitert.",
+          "Die Burg war bis ins 20. Jahrhundert militärisch umkämpft."
+        ],
+        "hu": [
+          "Keresztes lovagvár egy 1000 méter magas szirten Dél-Libanonban.",
+          "Stratégiai rálátást biztosít a Litani-folyó völgyére.",
+          "A 12. században építették a frank keresztesek.",
+          "Szaladin szultán hosszú ostrom után, 1190-ben foglalta el.",
+          "Később a templomos lovagrend birtokolta és bővítette.",
+          "Még a 20. században is fontos katonai bázisként szolgált."
+        ],
+        "ro": [
+          "Castel cruciat situat pe o stâncă de 1000 de metri altitudine.",
+          "Oferă o vedere strategică deasupra defileului râului Litani.",
+          "Construit de cruciații franci în secolul al XII-lea.",
+          "Capturat de Saladin în 1190 după un asediu prelungit.",
+          "Achiziționat și fortificat de Cavalerii Templieri în secolul XIII.",
+          "A fost un punct de conflict militar chiar și în secolul XX."
+        ],
+        "en": [
+          "A Crusader castle situated on a 1,000-meter-high cliff.",
+          "Commands a strategic vantage point over the Litani River.",
+          "Constructed by Frankish Crusaders during the 12th century.",
+          "Captured by Saladin in 1190 following a lengthy siege.",
+          "Acquired and heavily fortified by the Knights Templar.",
+          "The site remained militarily contested well into the late 20th century."
+        ]
+      }
+    },
+    {
+      "id": "mzaar-kfardebian-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Mzaar Kfardebian ist das größte Skigebiet im Libanon und im gesamten Nahen Osten, gelegen im Herzen des Libanongebirges. Mit seinen schneesicheren Pisten auf über 2400 Metern Höhe zieht es in den Wintermonaten Tausende von Wintersportlern an. Das Resort bietet nicht nur hervorragende Bedingungen zum Skifahren und Snowboarden, sondern an klaren Tagen auch einen atemberaubenden Panoramablick bis zur Küste von Beirut und dem Mittelmeer.",
+        "hu": "A Mzaar Kfardebian Libanon és egyben az egész Közel-Kelet legnagyobb síterepe, amely a Libanoni-hegység szívében fekszik. Több mint 2400 méter magasan fekvő, hóbiztos lejtőivel a téli hónapokban a téli sportok szerelmeseinek ezreit vonzza. Az üdülőközpont nemcsak a síeléshez és hódeszkázáshoz kínál kiváló feltételeket, hanem tiszta időben lélegzetelállító panorámát is nyújt Bejrút partvidékéig és a Földközi-tengerig.",
+        "ro": "Mzaar Kfardebian este cea mai mare stațiune de schi din Liban și din întregul Orient Mijlociu, situată în inima Munților Liban. Cu pârtiile sale sigure din punct de vedere al zăpezii, aflate la o altitudine de peste 2400 de metri, atrage mii de pasionați ai sporturilor de iarnă în timpul lunilor de iarnă. Stațiunea oferă nu numai condiții excelente pentru schi și snowboarding, ci și, în zilele senine, o vedere panoramică uluitoare până la coasta Beirutului și Marea Mediterană.",
+        "en": "Mzaar Kfardebian is the largest ski resort in Lebanon and the entire Middle East, located in the heart of the Mount Lebanon range. With its snow-reliable slopes at an altitude of over 2,400 meters, it attracts thousands of winter sports enthusiasts during the winter months. The resort not only offers excellent conditions for skiing and snowboarding but also provides, on clear days, a breathtaking panoramic view stretching all the way to the coast of Beirut and the Mediterranean Sea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das größte Skigebiet im Nahen Osten.",
+          "Verfügt über rund 80 Kilometer präparierte Pisten.",
+          "Der höchste Punkt, der Mzaar-Gipfel, liegt auf 2465 Metern.",
+          "Bietet Ausblicke bis zur Mittelmeerküste an klaren Tagen.",
+          "Gegründet in den späten 1950er Jahren.",
+          "Ein beliebtes Ziel für Skifahrer und Snowboarder in der Region."
+        ],
+        "hu": [
+          "A Közel-Kelet legnagyobb és legjobban felszerelt síközpontja.",
+          "Körülbelül 80 kilométernyi gondozott sípályával rendelkezik.",
+          "Legmagasabb pontja, a Mzaar-csúcs 2465 méter magasan van.",
+          "Tiszta napokon a hegyről egészen a Földközi-tengerig ellátni.",
+          "A síterep alapítása az 1950-es évek végére nyúlik vissza.",
+          "Népszerű téli célpont a helyiek és a nemzetközi turisták körében."
+        ],
+        "ro": [
+          "Cea mai mare stațiune de schi din Orientul Mijlociu.",
+          "Dispune de aproximativ 80 de kilometri de pârtii amenajate.",
+          "Cel mai înalt punct, vârful Mzaar, ajunge la 2465 de metri.",
+          "Oferă priveliști care se întind până la Marea Mediterană.",
+          "Stațiunea a fost înființată la sfârșitul anilor 1950.",
+          "Destinație majoră pentru schiori și snowboarderi în regiune."
+        ],
+        "en": [
+          "The largest and most prominent ski resort in the Middle East.",
+          "Features roughly 80 kilometers of groomed ski runs.",
+          "The highest peak, Mzaar, reaches an elevation of 2,465 meters.",
+          "Provides sweeping views down to the Mediterranean coast.",
+          "The ski resort was officially founded in the late 1950s.",
+          "A premier winter destination for both skiing and snowboarding."
+        ]
+      }
+    },
+    {
+      "id": "mohammad-al-amin-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Mohammad al-Amin-Moschee ist ein monumentales islamisches Gotteshaus im Zentrum von Beirut, das mit seinen markanten blauen Kuppeln und vier hoch aufragenden Minaretten das Stadtbild prägt. Die Moschee wurde im traditionellen osmanischen Stil erbaut und 2008 offiziell eröffnet, finanziert durch den ehemaligen Premierminister Rafiq al-Hariri, dessen Grabstätte sich in der Nähe befindet. Die prächtige Innenausstattung umfasst einen riesigen zentralen Kronleuchter und detailreiche Kalligraphien.",
+        "hu": "A Mohammad al-Amin mecset egy monumentális iszlám imahely Bejrút központjában, amely jellegzetes kék kupoláival és négy magasba nyúló minaretjével meghatározza a városképet. A hagyományos oszmán stílusban épült mecsetet 2008-ban nyitották meg hivatalosan, az építkezést pedig Rafik Hariri egykori miniszterelnök finanszírozta, akinek sírja is a közelben található. A pompás belső teret egy hatalmas központi csillár és részletgazdag kalligráfiák díszítik.",
+        "ro": "Moscheea Mohammad al-Amin este un lăcaș de cult islamic monumental situat în centrul Beirutului, care domină peisajul urban cu domurile sale albastre distinctive și cele patru minarete înalte. Moscheea a fost construită în stil tradițional otoman și deschisă oficial în 2008, fiind finanțată de fostul prim-ministru Rafiq al-Hariri, al cărui mormânt se află în apropiere. Interiorul magnific include un candelabru central imens și caligrafii detaliate.",
+        "en": "The Mohammad Al-Amin Mosque is a monumental Islamic place of worship in the center of Beirut, dominating the city skyline with its striking blue domes and four soaring minarets. Built in a traditional Ottoman architectural style, the mosque was officially opened in 2008 and was funded by former Prime Minister Rafik Hariri, whose tomb is located nearby. The magnificent interior features a giant central chandelier and intricately detailed calligraphy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Prägt die Skyline im Zentrum von Beirut.",
+          "Die blauen Kuppeln erinnern an die Sultan-Ahmed-Moschee in Istanbul.",
+          "Besitzt vier Minarette mit einer Höhe von jeweils 65 Metern.",
+          "Wurde von dem ehemaligen Premierminister Rafiq al-Hariri initiiert.",
+          "Die Eröffnung fand im Jahr 2008 statt.",
+          "Die Innenräume sind mit kunstvollen Kalligraphien dekoriert."
+        ],
+        "hu": [
+          "Bejrút belvárosának egyik legmeghatározóbb épülete.",
+          "Kék kupoláit az isztambuli Kék mecset ihlette.",
+          "Négy minaretje egyenként 65 méter magasba nyúlik.",
+          "Rafik Hariri volt miniszterelnök támogatásával épült.",
+          "Hivatalos átadására 2008-ban került sor.",
+          "Hatalmas csillár és finom kalligráfia díszíti a belső teret."
+        ],
+        "ro": [
+          "Domină orizontul din centrul orașului Beirut.",
+          "Domurile albastre sunt inspirate de Moscheea Albastră din Istanbul.",
+          "Dispune de patru minarete, fiecare cu o înălțime de 65 de metri.",
+          "Construcția a fost inițiată de fostul prim-ministru Rafiq al-Hariri.",
+          "A fost deschisă oficial publicului în anul 2008.",
+          "Interiorul prezintă caligrafie islamică și un candelabru masiv."
+        ],
+        "en": [
+          "A defining landmark in the downtown skyline of Beirut.",
+          "Its blue domes were inspired by the Sultan Ahmed Mosque in Istanbul.",
+          "Features four minarets, each standing 65 meters tall.",
+          "The construction was funded by former Prime Minister Rafik Hariri.",
+          "Officially inaugurated and opened to the public in 2008.",
+          "The prayer hall contains elaborate calligraphy and a massive chandelier."
+        ]
+      }
+    },
+    {
+      "id": "saint-george-maronite-cathedral-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die maronitische Sankt-Georgs-Kathedrale ist ein historisches Kirchengebäude im Herzen von Beirut, das direkt neben der großen Mohammad al-Amin-Moschee steht und die religiöse Vielfalt des Libanon symbolisiert. Die Ende des 19. Jahrhunderts im neoklassizistischen Stil errichtete Kathedrale wurde der Basilika Santa Maria Maggiore in Rom nachempfunden. Nach erheblichen Zerstörungen während des Bürgerkriegs wurde das prachtvolle Bauwerk sorgfältig restauriert und mit einem neuen, hoch aufragenden Glockenturm versehen.",
+        "hu": "A Szent György maronita katedrális egy történelmi templomépület Bejrút szívében, amely közvetlenül a hatalmas Mohammad al-Amin mecset mellett áll, szimbolizálva Libanon vallási sokszínűségét. A 19. század végén neoklasszicista stílusban emelt székesegyházat a római Santa Maria Maggiore bazilika mintájára tervezték. A polgárháború során elszenvedett jelentős pusztítások után a pompás épületet gondosan felújították, és egy új, magasba tornyosuló harangtoronnyal is gazdagították.",
+        "ro": "Catedrala Maronită Sfântul Gheorghe este o biserică istorică din inima Beirutului, situată chiar lângă marea Moschee Mohammad al-Amin, simbolizând diversitatea religioasă a Libanului. Construită la sfârșitul secolului al XIX-lea în stil neoclasic, catedrala a fost modelată după Bazilica Santa Maria Maggiore din Roma. După distrugerile semnificative din timpul războiului civil, clădirea magnifică a fost restaurată cu grijă și completată cu o nouă clopotniță înaltă.",
+        "en": "Saint George Maronite Cathedral is a historic church in the heart of Beirut, standing directly adjacent to the grand Mohammad Al-Amin Mosque and symbolizing Lebanon's religious diversity. Built in the late 19th century in a Neoclassical style, the cathedral's design was inspired by the Basilica of Santa Maria Maggiore in Rome. Following extensive damage during the civil war, the magnificent structure was painstakingly restored and enhanced with a new, soaring bell tower."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigste Kirche der maronitischen Erzeparchie Beirut.",
+          "Die Architektur wurde von der Basilika Santa Maria Maggiore inspiriert.",
+          "Befindet sich direkt neben der Mohammad al-Amin-Moschee.",
+          "Wurde zwischen 1884 und 1894 im neoklassizistischen Stil erbaut.",
+          "Während des Bürgerkriegs schwer beschädigt und später restauriert.",
+          "Ihr 72 Meter hoher Campanile wurde 2016 fertiggestellt."
+        ],
+        "hu": [
+          "A bejrúti maronita érsekség központi temploma.",
+          "A római Santa Maria Maggiore bazilika építészete ihlette.",
+          "Közvetlenül a nagy Mohammad al-Amin mecset szomszédságában áll.",
+          "Neoklasszicista stílusban épült 1884 és 1894 között.",
+          "A polgárháborús sérülések után teljesen újjáépítették.",
+          "A 72 méter magas új harangtornyot 2016-ban adták át."
+        ],
+        "ro": [
+          "Biserica principală a Arhiepiscopiei Maronite din Beirut.",
+          "Arhitectura este inspirată de Bazilica Santa Maria Maggiore din Roma.",
+          "Este situată exact lângă Moscheea Mohammad al-Amin.",
+          "Construită în stil neoclasic între anii 1884 și 1894.",
+          "A suferit daune majore în războiul civil și a fost restaurată ulterior.",
+          "Noul său campanile de 72 de metri a fost finalizat în 2016."
+        ],
+        "en": [
+          "The principal church of the Maronite Archdiocese of Beirut.",
+          "Its design was inspired by the Basilica of Santa Maria Maggiore in Rome.",
+          "Stands side-by-side with the Mohammad Al-Amin Mosque.",
+          "Constructed in a Neoclassical architectural style between 1884 and 1894.",
+          "Heavily damaged during the civil war and subsequently restored.",
+          "A 72-meter campanile (bell tower) was added and completed in 2016."
+        ]
+      }
+    },
+    {
+      "id": "roman-baths-of-beirut-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die römischen Bäder von Beirut sind eine faszinierende archäologische Stätte im Herzen der modernen Innenstadt, die erst 1968 wiederentdeckt wurden. Die Anlage zeigt noch heute die gut erhaltenen Ziegelpfeiler des Hypokaustums, dem antiken Fußbodenheizungssystem, das einst die heißen Räume der Thermen erwärmte. Heute ist das Gebiet als archäologischer Park angelegt und wird oft als malerische Kulisse für Open-Air-Konzerte und kulturelle Veranstaltungen genutzt.",
+        "hu": "A bejrúti római fürdők egy lenyűgöző régészeti lelőhely a modern belváros szívében, amelyet csak 1968-ban fedeztek fel újra. A komplexumban ma is láthatók a hypocaustum, az ókori padlófűtési rendszer jól megőrzött téglapillérei, amelyek egykor a termák forró termeit fűtötték. A területet napjainkban régészeti parkként alakították ki, és gyakran szolgál szabadtéri koncertek és kulturális események festői háttereként.",
+        "ro": "Băile romane din Beirut reprezintă un sit arheologic fascinant în inima orașului modern, redescoperit abia în 1968. Complexul prezintă și astăzi stâlpii de cărămidă bine conservați ai hipocaustului, sistemul antic de încălzire prin pardoseală care încălzea cândva camerele fierbinți ale termelor. Astăzi, zona este amenajată ca un parc arheologic și este adesea folosită ca un cadru pitoresc pentru concerte în aer liber și evenimente culturale.",
+        "en": "The Roman Baths of Beirut are a fascinating archaeological site located in the heart of the modern downtown, rediscovered only in 1968. The complex still displays the well-preserved brick pillars of the hypocaust, the ancient underfloor heating system that once warmed the hot rooms of the thermae. Today, the area is landscaped as an archaeological park and is frequently used as a picturesque venue for open-air concerts and cultural events."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Antike Thermenanlage im heutigen Stadtzentrum von Beirut.",
+          "Die Anlage wurde 1968 bei Bauarbeiten wiederentdeckt.",
+          "Das Hypokaustum (Fußbodenheizung) ist besonders gut erhalten.",
+          "Die Bäder wurden im 1. Jahrhundert n. Chr. erbaut.",
+          "Der Komplex war in verschiedene Temperaturzonen unterteilt.",
+          "Die Stätte wird heute für kulturelle Open-Air-Veranstaltungen genutzt."
+        ],
+        "hu": [
+          "Ókori termák maradványai Bejrút modern központjában.",
+          "A romokat 1968-ban fedezték fel építkezési munkálatok során.",
+          "A hypocaustum (padlófűtés) téglapillérei nagyszerűen láthatók.",
+          "A fürdőkomplexum az időszámításunk szerinti 1. században épült.",
+          "Különböző hőmérsékletű termekből (frigidárium, caldárium) állt.",
+          "Ma régészeti park és szabadtéri koncertek népszerű helyszíne."
+        ],
+        "ro": [
+          "Ruine ale unor terme antice în centrul modern al Beirutului.",
+          "Complexul a fost redescoperit accidental în 1968.",
+          "Pilonii de cărămidă ai sistemului de hipocaust sunt bine păstrați.",
+          "Băile publice au fost construite în secolul I d.Hr.",
+          "Complexul includea diverse încăperi cu temperaturi diferite.",
+          "Situl este acum un parc arheologic și spațiu pentru evenimente."
+        ],
+        "en": [
+          "An ancient public bath complex situated in downtown Beirut.",
+          "Accidentally rediscovered during construction work in 1968.",
+          "The brick pillars of the hypocaust heating system are clearly visible.",
+          "Constructed during the Roman period in the 1st century AD.",
+          "Included traditional cold, warm, and hot bathing chambers.",
+          "The site now functions as an archaeological park and event venue."
+        ]
+      }
+    },
+    {
+      "id": "tyre-hippodrome-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Hippodrom von Tyros ist eine der größten und am besten erhaltenen Pferderennbahnen der römischen Welt und Teil einer riesigen archäologischen Stätte im Südlibanon. Die im 2. Jahrhundert n. Chr. erbaute Anlage bot auf ihren steinernen Tribünen Platz für bis zu 20.000 Zuschauer, die den spannenden Wagenrennen beiwohnten. Neben der monumentalen Rennbahn umfasst das Areal auch eine ausgedehnte römische Nekropole und einen gut erhaltenen Triumphbogen, was den Ort zu einem der bedeutendsten UNESCO-Welterbestätten der Region macht.",
+        "hu": "A türoszi hippodrom a római világ egyik legnagyobb és legjobb állapotban fennmaradt lóversenypályája, amely egy hatalmas dél-libanoni régészeti lelőhely része. A Kr. u. 2. században épült létesítmény kőlelátóin akár 20 000 néző is helyet foglalhatott, hogy végignézze az izgalmas kocsiversenyeket. A monumentális versenypálya mellett a területen egy kiterjedt római nekropolisz és egy épen maradt diadalív is található, ami a régió egyik legfontosabb UNESCO világörökségi helyszínévé teszi.",
+        "ro": "Hipodromul din Tir este una dintre cele mai mari și mai bine conservate piste de curse din lumea romană și face parte dintr-un vast sit arheologic din sudul Libanului. Construită în secolul al II-lea d.Hr., structura oferea locuri pe tribunele sale de piatră pentru până la 20.000 de spectatori care veneau să asiste la cursele palpitante de care. Pe lângă pista monumentală, zona include și o extinsă necropolă romană și un arc de triumf bine conservat, făcând din acest loc unul dintre cele mai importante situri UNESCO din regiune.",
+        "en": "The Tyre Hippodrome is one of the largest and best-preserved racecourses of the Roman world, forming part of a vast archaeological site in southern Lebanon. Built in the 2nd century AD, the facility provided seating on its stone tribunes for up to 20,000 spectators who attended thrilling chariot races. In addition to the monumental racecourse, the area also encompasses an extensive Roman necropolis and a well-preserved triumphal arch, making it one of the region's most significant UNESCO World Heritage sites."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eines der größten römischen Hippodrome der Antike.",
+          "Erbaut im 2. Jahrhundert n. Chr. für Wagenrennen.",
+          "Bot Platz für rund 20.000 Zuschauer auf Steintribünen.",
+          "Das Gelände umfasst auch eine große römische Nekropole.",
+          "Teil der UNESCO-Welterbestätte von Tyros.",
+          "In der Mitte der Arena befand sich ein Granitobelisk."
+        ],
+        "hu": [
+          "Az ókor egyik legnagyobb és legépebb római hippodromja.",
+          "A Kr. u. 2. században épült izgalmas harcikocsi-versenyekhez.",
+          "Kőlelátóin egykor 20 000 néző fért el kényelmesen.",
+          "A komplexum mellett egy hatalmas római nekropolisz terül el.",
+          "A türoszi UNESCO Világörökségi lelőhely kulcsfontosságú része.",
+          "A versenypálya közepét (spina) egy gránit obeliszk díszítette."
+        ],
+        "ro": [
+          "Unul dintre cele mai mari hipodromuri romane din antichitate.",
+          "Construit în secolul al II-lea d.Hr. pentru curse de care.",
+          "Tribunele de piatră puteau găzdui aproximativ 20.000 de spectatori.",
+          "Situl arheologic include și o vastă necropolă romană adiacentă.",
+          "Este o componentă majoră a sitului UNESCO din Tir.",
+          "Pista centrală (spina) avea un obelisc de granit."
+        ],
+        "en": [
+          "Ranked among the largest and best-preserved Roman hippodromes.",
+          "Built in the 2nd century AD primarily for chariot racing.",
+          "The stone grandstands could seat an estimated 20,000 spectators.",
+          "The surrounding archaeological area includes a massive Roman necropolis.",
+          "A major component of the Tyre UNESCO World Heritage site.",
+          "An ancient granite obelisk once stood in the center of the track."
+        ]
+      }
+    },
+    {
+      "id": "ksara-caves-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ksara-Höhlen sind ein weitläufiges natürliches Höhlensystem im Bekaa-Tal, das heute als Weinkeller für das älteste kommerzielle Weingut des Libanon, das Château Ksara, dient. Die Höhlen wurden Ende des 19. Jahrhunderts von Jesuitenmönchen entdeckt und bieten aufgrund ihrer konstanten Temperatur und Luftfeuchtigkeit ideale Bedingungen für die Reifung von Wein. Besucher können durch die zwei Kilometer langen unterirdischen Gänge spazieren und die faszinierende Kombination aus geologischer Formation und traditioneller Weinherstellung erleben.",
+        "hu": "A Ksara-barlangok egy kiterjedt természetes barlangrendszer a Bekaa-völgyben, amely ma Libanon legrégebbi kereskedelmi borászata, a Château Ksara borospincéjeként szolgál. A barlangokat a 19. század végén jezsuita szerzetesek fedezték fel, és állandó hőmérsékletüknek, valamint páratartalmuknak köszönhetően ideális feltételeket biztosítanak a borok érleléséhez. A látogatók végigsétálhatnak a két kilométer hosszú föld alatti járatokon, és megtapasztalhatják a geológiai képződmények és a hagyományos borkészítés lenyűgöző találkozását.",
+        "ro": "Peșterile Ksara reprezintă un vast sistem natural de peșteri în Valea Bekaa, care servește astăzi drept cramă pentru cea mai veche vinărie comercială din Liban, Château Ksara. Peșterile au fost descoperite la sfârșitul secolului al XIX-lea de călugării iezuiți și, datorită temperaturii și umidității constante, oferă condiții ideale pentru învechirea vinului. Vizitatorii se pot plimba prin galeriile subterane lungi de doi kilometri și pot experimenta combinația fascinantă dintre formațiunile geologice și producția tradițională de vin.",
+        "en": "The Ksara Caves are an extensive natural cave system in the Bekaa Valley that today serves as the wine cellar for Lebanon's oldest commercial winery, Château Ksara. Discovered by Jesuit monks at the end of the 19th century, the caves provide ideal conditions for aging wine due to their constant temperature and humidity. Visitors can stroll through the two-kilometer-long subterranean passages and experience the fascinating combination of geological formation and traditional winemaking."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Historische Höhlen, die heute als Weinkeller genutzt werden.",
+          "Ende des 19. Jahrhunderts von Jesuitenmönchen entdeckt.",
+          "Bieten eine konstante Temperatur, ideal für die Weinreifung.",
+          "Das Höhlensystem hat eine Länge von etwa zwei Kilometern.",
+          "Gehören zu Château Ksara, dem ältesten Weingut im Libanon.",
+          "Ein beliebtes Ziel für Weinverkostungen und Führungen."
+        ],
+        "hu": [
+          "Természetes barlangrendszer, amelyet borospinceként használnak.",
+          "Jezsuita szerzetesek fedezték fel a 19. század végén.",
+          "Az állandó hőmérséklet tökéletes a borok hordós érleléséhez.",
+          "A föld alatti járatok hossza eléri a két kilométert.",
+          "A Château Ksara, Libanon legrégebbi borászatának része.",
+          "Népszerű turisztikai célpont borkóstolók és pincetúrák számára."
+        ],
+        "ro": [
+          "Sistem de peșteri folosit ca pivniță extinsă pentru vinuri.",
+          "Descoperite din întâmplare de călugării iezuiți în 1898.",
+          "Temperatura constantă este ideală pentru învechirea vinului.",
+          "Galeriile subterane se întind pe aproximativ doi kilometri.",
+          "Aparțin Château Ksara, cea mai veche cramă comercială din Liban.",
+          "O destinație de top pentru tururi ghidate și degustări de vin."
+        ],
+        "en": [
+          "A natural cave system utilized as a massive wine cellar.",
+          "Discovered by Jesuit monks chasing a fox in 1898.",
+          "The constant temperature provides ideal conditions for aging wine.",
+          "The subterranean tunnels extend for roughly two kilometers.",
+          "Part of Château Ksara, the oldest commercial winery in Lebanon.",
+          "A popular tourist destination offering guided tours and wine tasting."
+        ]
+      }
+    }
+  ]
+}

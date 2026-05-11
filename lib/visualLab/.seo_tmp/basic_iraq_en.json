@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "country": "Iraq",
+  "files": [
+    "lib/visualLab/data/poiExtraIraqHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIraqNatureV2.ts",
+    "lib/visualLab/data/poiExtraIraqReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "samarra-great-mosque-history-v2",
+      "description": "The Great Mosque of Samarra was once the largest mosque in the world, commissioned by the Abbasid caliph Al-Mutawakkil in the 9th century.",
+      "facts": [
+        "Completed in 851 AD",
+        "Famous for its 52-meter Malwiya spiral minaret",
+        "Constructed entirely of baked brick",
+        "UNESCO World Heritage site since 2007"
+      ]
+    },
+    {
+      "id": "cheekha-dar-nature-v2",
+      "description": "Cheekha Dar is the highest mountain peak in Iraq, situated in the Zagros mountain range on the border with Iran.",
+      "facts": [
+        "Elevation of 3,611 meters",
+        "Name translates to Black Tent in Kurdish",
+        "Located in the Erbil Governorate",
+        "Permanently covered in snow during winter months"
+      ]
+    },
+    {
+      "id": "al-jazira-plateau-relief-v2",
+      "description": "The Al-Jazira Plateau is an upland region in northwestern Iraq situated between the Tigris and Euphrates rivers.",
+      "facts": [
+        "Part of the larger Mesopotamian region",
+        "Characterized by rolling hills and dry plains",
+        "Elevations range from 200 to 450 meters",
+        "Contains the Tharthar and Habbaniya lakes"
+      ]
+    },
+    {
+      "id": "southern-desert-relief-v2",
+      "description": "The Southern Desert of Iraq, known as Al-Badiyah Al-Janubiyah, is a vast limestone plateau extending to the borders of Kuwait and Saudi Arabia.",
+      "facts": [
+        "Covers roughly 15 percent of Iraq's land area",
+        "Features numerous seasonal wadis and depressions",
+        "Composed primarily of flat rocky plains and sand dunes",
+        "Subject to extreme temperature fluctuations"
+      ]
+    },
+    {
+      "id": "bahr-al-najaf-depression-relief-v2",
+      "description": "The Bahr al-Najaf is a large depression and seasonal lake located west of the city of Najaf, forming a unique ecosystem in the desert.",
+      "facts": [
+        "Covers an area of approximately 360 square kilometers",
+        "Fed by seasonal rains and groundwater",
+        "Historically part of a larger ancient sea",
+        "Important stop for migratory birds"
+      ]
+    }
+  ]
+}

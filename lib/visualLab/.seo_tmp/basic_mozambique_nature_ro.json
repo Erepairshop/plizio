@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "Un lac vast cu apă dulce, cunoscut pentru biodiversitatea sa incredibilă, găzduind numeroase specii endemice de pești.",
+      "facts": ["Apă dulce", "Biodiversitate", "Specii endemice", "Lac vast"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "Un masiv montan care oferă un ecosistem divers, de la păduri montane la savane la poalele muntelui.",
+      "facts": ["Ecosistem divers", "Păduri montane", "Savane", "Masiv montan"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "Un arhipelag de insule și atoli protejați, esențiali pentru conservarea vieții marine și a recifurilor de corali.",
+      "facts": ["Insule și atoli", "Conservare marină", "Recifuri de corali", "Zonă protejată"]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "description": "Un golf marin cu importanță ecologică majoră, oferind habitate pentru dugongi și o varietate de specii marine.",
+      "facts": ["Importanță ecologică", "Habitat pentru dugongi", "Specii marine", "Golf marin"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "O zonă cu insule tropicale și corali, recunoscută pentru frumusețea naturală și bogăția resurselor maritime.",
+      "facts": ["Insule tropicale", "Corali", "Frumusețe naturală", "Resurse maritime"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "Un munte cu o vegetație luxuriantă, oferind un peisaj spectaculos și un habitat pentru numeroase specii de păsări.",
+      "facts": ["Vegetație luxuriantă", "Peisaj spectaculos", "Habitat aviar", "Munte"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "O insulă izolată, importantă pentru biodiversitatea sa și ca sanctuar pentru păsările migratoare marine.",
+      "facts": ["Insulă izolată", "Biodiversitate", "Sanctuar aviar", "Păsări migratoare"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "Un lac interior care susține o viață acvatică bogată și este crucial pentru comunitățile locale de pescari.",
+      "facts": ["Lac interior", "Viață acvatică", "Important pentru pescari", "Ecosistem bogat"]
+    },
+    {
+      "id": "buzi-river-nature-v2",
+      "description": "Un râu care traversează regiuni fertile, creând habitate umede vitale pentru flora și fauna locală.",
+      "facts": ["Râu fertil", "Habitate umede", "Floră locală", "Faună locală"]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "Un ecosistem lacustru în regiunea Gaza, esențial pentru echilibrul hidrologic și biodiversitatea locală.",
+      "facts": ["Ecosistem lacustru", "Regiunea Gaza", "Echilibru hidrologic", "Biodiversitate"]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBotswanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tuli-block-cattle-farming-agriculture-life-v2",
+      "description": "O regiune agricolă vitală renumită pentru creșterea vitelor de rasă și fermele comerciale extinse.",
+      "facts": [
+        "Lângă râul Limpopo",
+        "Vite de export de calitate",
+        "Peisaj de savană cu baobabi",
+        "Pilon al sectorului privat"
+      ]
+    },
+    {
+      "id": "tsodilo-hills-mountain-v2",
+      "description": "Formațiuni stâncoase izolate în deșertul Kalahari, cele mai înalte puncte din nord-vestul Botswanei.",
+      "facts": [
+        "Vârf maxim de 1.400m",
+        "Cunoscute sub numele 'Muntele Zeilor'",
+        "Patrimoniu mondial UNESCO",
+        "Cuarțit masiv străvechi"
+      ]
+    },
+    {
+      "id": "moshaweng-river-relief-v2",
+      "description": "O vale de râu efemeră situată în sudul țării, crucială pentru ecosistemul arid din Kalahari.",
+      "facts": [
+        "Albie uscată majoritatea anului",
+        "Inundații rare dar intense",
+        "Habitat pentru viața sălbatică",
+        "Parte a bazinului Molopo"
+      ]
+    },
+    {
+      "id": "nossob-river-relief-v2",
+      "description": "Un râu sezonier impunător care formează granița naturală dintre Botswana și Africa de Sud.",
+      "facts": [
+        "Străbate parcul Kgalagadi",
+        "Coridor de migrație animală",
+        "Peisaj de dune roșii",
+        "Bazin hidrografic vast"
+      ]
+    },
+    {
+      "id": "selinda-spillway-relief-v2",
+      "description": "Un canal natural fascinant care conectează ocazional râul Linyanti de delta Okavango.",
+      "facts": [
+        "Inundații bidirecționale rare",
+        "Zonă de safari exclusivistă",
+        "Peisaj acvatic spectaculos",
+        "Importanță ecologică majoră"
+      ]
+    },
+    {
+      "id": "mababe-depression-relief-v2",
+      "description": "O depresiune joasă și plată, rămășiță a unui imens lac preistoric, acum o câmpie bogată în iarbă.",
+      "facts": [
+        "Lângă parcul Chobe",
+        "Pășuni sezoniere bogate",
+        "Frecventată de mari turme",
+        "Sol argilos fertil"
+      ]
+    },
+    {
+      "id": "xudum-delta-relief-v2",
+      "description": "O secțiune pitorească și sălbatică a deltei Okavango, caracterizată prin canale înguste și lagune cristaline.",
+      "facts": [
+        "Zonă inundabilă permanentă",
+        "Accesibilă în principal cu mokoro",
+        "Biodiversitate acvatică",
+        "Peisaj de papirus și stuf"
+      ]
+    },
+    {
+      "id": "jwaneng-plateau-relief-v2",
+      "description": "Un platou înalt situat în sudul Botswanei, cunoscut pentru bogățiile sale geologice subterane.",
+      "facts": [
+        "Altitudine relativ ridicată",
+        "Substrat de roci vulcanice",
+        "Găzduiește rezerve de diamante",
+        "Climat semi-arid"
+      ]
+    },
+    {
+      "id": "serowe-hills-mountain-v2",
+      "description": "Dealuri de gresie care domină peisajul așezării Serowe, oferind protecție și puncte de observație.",
+      "facts": [
+        "Formațiuni stâncoase plate",
+        "Loc de așezare istorică",
+        "Vedere spre câmpiile Kalahari",
+        "Vegetație specifică de deal"
+      ]
+    },
+    {
+      "id": "letlhakane-depression-relief-v2",
+      "description": "O zonă joasă în districtul Central, caracterizată prin depozite minerale și formațiuni de suprafață specifice.",
+      "facts": [
+        "Situată lângă Makgadikgadi",
+        "Zonă de colectare a apei",
+        "Geologie de tip kimberlit",
+        "Relief relativ plat"
+      ]
+    }
+  ]
+}

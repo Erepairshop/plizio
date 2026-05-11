@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "Oman",
+  "files": [
+    "lib/visualLab/data/poiExtraOmanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraOmanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "suwayq-cities-v2",
+      "description": "A coastal town located in the North Al Batinah Governorate of Oman. It is known for its traditional market and historic fort.",
+      "facts": ["Coastal town", "North Al Batinah", "Historic fort site"]
+    },
+    {
+      "id": "taqah-cities-v2",
+      "description": "A coastal city in the Dhofar Governorate, known for its scenic views and historical significance near Salalah. It serves as a gateway to the Eastern Dhofar region.",
+      "facts": ["Located in Dhofar", "Near Salalah", "Historic coastal city"]
+    },
+    {
+      "id": "al-naseem-park-life-v2",
+      "description": "A popular family-oriented public park in Muscat featuring green spaces and play areas. It is a common destination for recreation during cooler months.",
+      "facts": ["Located in Muscat", "Family park", "Green recreational space"]
+    },
+    {
+      "id": "riyam-park-life-v2",
+      "description": "A picturesque park located along the Corniche in Muscat, offering views of the harbour and the iconic incense burner monument.",
+      "facts": ["Located in Muscat Corniche", "Harbour views", "Incense burner monument"]
+    },
+    {
+      "id": "kalbuh-park-life-v2",
+      "description": "A coastal park situated near the Mutrah Corniche, popular for its walkways and proximity to the ocean. It is a frequent spot for evening walks.",
+      "facts": ["Located in Mutrah", "Coastal walkway", "Popular leisure spot"]
+    },
+    {
+      "id": "snow-oman-life-v2",
+      "description": "An indoor snow and ice park located in Mall of Oman, offering a unique sub-zero environment in the desert climate.",
+      "facts": ["Located in Mall of Oman", "Indoor snow park", "Sub-zero climate attraction"]
+    },
+    {
+      "id": "hawana-aqua-park-life-v2",
+      "description": "A water park located in Salalah, featuring various slides and swimming areas for visitors. It is a major recreational facility in the Hawana Salalah complex.",
+      "facts": ["Located in Salalah", "Water park", "Part of Hawana complex"]
+    }
+  ]
+}

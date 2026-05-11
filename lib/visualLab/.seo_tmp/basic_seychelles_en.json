@@ -1,0 +1,39 @@
+{
+  "lang": "en",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "silhouette-island-nature-v2",
+      "description": "A rugged granite island known for its untouched rainforest and status as a protected nature reserve.",
+      "facts": ["Granite island", "Protected nature reserve", "Untouched rainforest"]
+    },
+    {
+      "id": "mount-simpson-nature-v2",
+      "description": "A majestic peak on Mahé offering panoramic views of the island's lush landscape and surrounding ocean.",
+      "facts": ["Mahé peak", "Panoramic views", "Lush island landscape"]
+    },
+    {
+      "id": "anse-georgette-nature-v2",
+      "description": "An pristine beach on Praslin, celebrated for its turquoise waters, white sand, and secluded setting.",
+      "facts": ["Praslin island beach", "Turquoise waters", "Secluded natural site"]
+    },
+    {
+      "id": "anse-intendance-nature-v2",
+      "description": "A dramatic beach on Mahé known for its powerful waves and stunning granite rock formations.",
+      "facts": ["Mahé island beach", "Powerful waves", "Granite formations"]
+    },
+    {
+      "id": "ile-therese-nature-v2",
+      "description": "A small, tranquil islet off the coast of Mahé, offering a secluded natural sanctuary and diverse marine life.",
+      "facts": ["Mahé offshore islet", "Natural sanctuary", "Diverse marine life"]
+    },
+    {
+      "id": "felicite-island-nature-v2",
+      "description": "A scenic island known for its rich biodiversity and spectacular natural scenery among the inner islands.",
+      "facts": ["Inner Seychelles island", "Rich biodiversity", "Stunning natural site"]
+    }
+  ]
+}

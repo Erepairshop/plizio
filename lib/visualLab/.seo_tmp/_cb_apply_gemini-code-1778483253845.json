@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mahaica-village-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mahaica Village ist ein bedeutendes landwirtschaftliches Zentrum an der Ostküste von Demerara, etwa 40 Kilometer östlich von Georgetown. Die Siedlung liegt strategisch am Unterlauf des Mahaica-Flusses, der für das Relief und die Ökonomie der Region prägend ist. Das Dorf fungiert als wichtiger Transitpunkt zwischen der Hauptstadt und den östlichen Distrikten Guyanas. Die Wirtschaft wird primär durch den Reisanbau und die Viehzucht bestimmt, wobei die fruchtbaren Alluvialböden des Flussdeltas optimale Bedingungen bieten. Geomorphologisch ist das Gebiet durch flaches Marschland geprägt, das durch ein historisches System von Deichen und Kanälen vor Überflutungen geschützt wird. Mahaica ist zudem bekannt für seine reiche Avifauna; die umliegenden Mangroven und Feuchtgebiete sind Lebensraum für den Hoatzin, Guyanas Nationalvogel. Die Architektur des Dorfes ist eine Mischung aus traditionellen ländlichen Strukturen und modernen Versorgungsbetrieben. Als Marktzentrum spielt Mahaica eine Schlüsselrolle bei der täglichen Versorgung Georgetowns mit Frischprodukten und Fleisch. Der Ort bewahrt trotz seiner verkehrsgünstigen Lage einen ausgeprägt bäuerlichen Charakter und ist ein Symbol für die produktive Küstenlandwirtschaft des Landes.",
+        "hu": "Mahaica Village Guyana egyik legfontosabb mezőgazdasági települése a Demerara-part keleti szakaszán, mintegy 40 kilométerre Georgetowntól. A település a Mahaica-folyó torkolatánál fekszik, amely meghatározza a környék domborzatát és gazdasági életét is. Stratégiai elhelyezkedése miatt a falu fontos tranzitpont a főváros és a keleti régiók között. A helyi gazdaság alapját a nagyszabású rizstermesztés és az állattenyésztés adja, kihasználva a folyó hordaléka által kialakított rendkívül termékeny síkságokat. A terület geomorfológiailag alacsonyan fekvő mocsaras vidék, amelyet bonyolult gátrendszer és csatornahálózat véd az áradásoktól. Mahaica ornitológiai szempontból is kiemelkedő: a környékbeli mocsarakban él a hoacin, Guyana nemzeti madara. A falu építészete a hagyományos vidéki stílust és a modern mezőgazdasági raktárakat ötvözi. Kereskedelmi központként Mahaica kulcsszerepet játszik Georgetown friss élelmiszerekkel és hússal való ellátásában. A település a javuló infrastruktúra ellenére is megőrizte hamisítatlan vidéki hangulatát, és a guyanai partvidék életerejének egyik fő bástyája.",
+        "ro": "Mahaica Village este un centru agricol de importanță majoră situat pe coasta de est a regiunii Demerara, la aproximativ 40 de kilometri est de Georgetown. Așezarea este amplasată strategic pe cursul inferior al râului Mahaica, care modelează relieful și economia acestei zone. Satul funcționează ca un punct de tranzit vital între capitală și districtele estice ale Guyanei. Economia locală este dominată de cultivarea orezului și creșterea animalelor, beneficiind de solurile aluvionare fertile ale deltei râului. Din punct de vedere geomorfologic, zona este caracterizată prin terenuri joase și mlăștinoase, protejate de inundații printr-un sistem istoric de diguri și canale. Mahaica este, de asemenea, renumită pentru diversitatea sa ornitologică; mangrovele și zonele umede înconjurătoare sunt habitatul păsării Hoatzin, simbolul național al Guyanei. Arhitectura satului este un amestec de structuri rurale tradiționale și unități moderne de procesare agricolă. Ca centru de piață, Mahaica joacă un rol-cheie în aprovizionarea zilnică a orașului Georgetown cu produse proaspete și carne. În ciuda poziției sale pe artera principală de transport, localitatea își păstrează caracterul agricol distinct, fiind un simbol al productivității costiere a țării.",
+        "en": "Mahaica Village is a significant agricultural hub located on the East Coast of Demerara, approximately 40 kilometers east of Georgetown. The settlement is strategically situated along the lower reaches of the Mahaica River, which defines the region's topography and economic life. The village serves as a vital transit point between the capital and Guyana's eastern regions. The economy is primarily driven by large-scale rice cultivation and livestock farming, utilizing the fertile alluvial plains created by the river's deposits. Geomorphologically, the area is characterized by low-lying marshlands protected from flooding by a complex historical system of dikes and canals. Mahaica is also a premier destination for birdwatchers, as the surrounding wetlands are home to the Hoatzin, Guyana's national bird. The village's architecture blends traditional rural dwellings with modern agricultural storage and processing facilities. As a commercial center, Mahaica plays a crucial role in supplying Georgetown with fresh produce and meat. Despite infrastructure developments, the settlement maintains its authentic farming character, representing the backbone of the nation's coastal agriculture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mahaica ist ein bekanntes Zentrum für die Erhaltung des Hoatzin (Canje Pheasant).",
+          "Der Mahaica-Fluss ist ein beliebtes Revier für die Beobachtung von Riesenottern.",
+          "Die Wirtschaft basiert auf einer der höchsten Reisproduktionsraten pro Hektar im Land.",
+          "Die Region beherbergt eine bedeutende Gemeinschaft von Milchviehhaltern.",
+          "Mahaica liegt an der Grenze zwischen den Regionen Demerara-Mahaica und Mahaica-Berbice.",
+          "Das Dorf verfügt über historische Brückenkonstruktionen aus der britischen Zeit."
+        ],
+        "hu": [
+          "Mahaica a hoacin (helyi nevén Canje fácán) megfigyelésének egyik legjobb helyszíne.",
+          "A Mahaica-folyó felső szakasza gazdag óriásvidra-állománnyal rendelkezik.",
+          "A falu környékén az ország egyik legmagasabb egy hektárra jutó rizshozama mérhető.",
+          "Itt található Guyana egyik legfontosabb tejtermelő körzete.",
+          "A település a 4-es és 5-ös régió (Demerara-Mahaica és Mahaica-Berbice) határán fekszik.",
+          "A falu hídjai a brit mérnöki építészet korai emlékeit őrzik."
+        ],
+        "ro": [
+          "Mahaica este un punct critic pentru conservarea speciei Hoatzin.",
+          "Râul Mahaica oferă una dintre cele mai bune oportunități pentru observarea vidrelor uriașe.",
+          "Localitatea găzduiește mori de orez care deservesc zeci de ferme din împrejurimi.",
+          "Producția de lactate din Mahaica este esențială pentru piața de consum din Georgetown.",
+          "Zona este traversată de autostrada de coastă, facilitând comerțul rapid.",
+          "Digurile locale fac parte din vastul sistem de management al apei din Guyana."
+        ],
+        "en": [
+          "Mahaica is recognized as a key conservation area for the prehistoric-looking Hoatzin.",
+          "The river system supports a significant population of endangered giant river otters.",
+          "Rice farming in Mahaica benefits from advanced irrigation networks dating back to the colonial era.",
+          "The town is a major supplier of fresh cow's milk to the Guyanese capital.",
+          "Mahaica functions as a socioeconomic bridge between Regions 4 and 5.",
+          "The area features distinct stilted architecture common to rural coastal Guyana."
+        ]
+      }
+    },
+    {
+      "id": "mahaicony-village-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mahaicony Village, gelegen in der Region Mahaica-Berbice, ist ein zentraler Pfeiler der guyanischen Agrarwirtschaft und das administrative Zentrum des Mahaicony-Distrikts. Der Ort liegt am Ufer des gewundenen Mahaicony-Flusses, dessen fruchtbare Täler zu den produktivsten Reisanbaugebieten Südamerikas zählen. Das Relief ist extrem flach und liegt teilweise unter dem Meeresspiegel, was eine komplexe Wasserwirtschaft durch Schleusen (Kokers) und Kanäle erfordert. Die Wirtschaft von Mahaicony ist fast vollständig auf den Export von Reis und Kokosprodukten ausgerichtet. Die Siedlung hat einen tief verwurzelten ländlichen Charakter, der durch weitläufige Grundstücke und hölzerne Wohnhäuser geprägt ist. Historisch war Mahaicony ein wichtiger Punkt für die Binnenkommunikation, da der Fluss als Transportweg für Holz und landwirtschaftliche Güter aus dem tieferen Hinterland diente. Heute ist der Ort ein bedeutender Dienstleistungsknotenpunkt mit Schulen, Krankenhäusern und Handelszentren, die die weit verstreuten Farmgemeinschaften der Umgebung versorgen. Mahaicony steht für die Beständigkeit der bäuerlichen Tradition Guyanas und ist ein entscheidender Faktor für die Ernährungssicherheit des gesamten Küstenstreifens.",
+        "hu": "Mahaicony Village a Mahaica-Berbice régió egyik alapköve, a guyanai agrárium meghatározó központja és a Mahaicony-körzet adminisztratív székhelye. A település a kanyargós Mahaicony-folyó partján fekszik, amelynek völgye Dél-Amerika egyik legtermékenyebb rizstermesztő vidéke. A domborzat rendkívül sík, a terület egy része a tengerszint alatt fekszik, ezért a vízellátást és a védelmet bonyolult zsiliprendszer (kokers) és csatornahálózat szabályozza. Mahaicony gazdasága szinte teljes egészében a rizs- és kókuszexportra épül. A település megőrizte mélyen gyökerező vidéki jellegét, tágas telkeivel és jellegzetes fából készült lakóházaival. Történelmileg Mahaicony fontos belső kommunikációs pont volt, mivel a folyó vízi útként szolgált a belső területekről származó faanyag és agrártermékek számára. Ma a falu jelentős szolgáltató központ: iskolái, kórháza és üzletei a környék távoli farmközösségeit is kiszolgálják. Mahaicony a guyanai paraszti hagyományok állandóságát jelképezi, és döntő szerepet játszik az egész partvidék élelmezésbiztonságában.",
+        "ro": "Mahaicony Village, situat în regiunea Mahaica-Berbice, este un pilon central al economiei agrare din Guyana și centrul administrativ al districtului Mahaicony. Localitatea se află pe malurile râului sinuos Mahaicony, ale cărui văi fertile se numără printre cele mai productive zone de cultivare a orezului din America de Sud. Relieful este extrem de plat, situându-se parțial sub nivelul mării, fapt ce necesită o gestionare complexă a apelor prin ecluze (kokers) și canale. Economia din Mahaicony este orientată aproape în întregime către exportul de orez și produse din nucă de cocos. Așezarea are un caracter rural profund, marcat de proprietăți vaste și case de locuit din lemn. Din punct de vedere istoric, Mahaicony a fost un punct important pentru comunicațiile interne, deoarece râul servea ca rută de transport pentru lemn și bunuri agricole din hinterlandul adânc. Astăzi, localitatea este un nod important de servicii, cu școli, spitale și centre comerciale care deservesc comunitățile de fermieri dispersate din împrejurimi. Mahaicony reprezintă perseverența tradiției țărănești din Guyana și este un factor decisiv pentru securitatea alimentară a întregii fâșii de coastă.",
+        "en": "Mahaicony Village, located in the Mahaica-Berbice region, is a cornerstone of Guyana's agricultural economy and the administrative seat of the Mahaicony district. The settlement lies on the banks of the winding Mahaicony River, whose fertile valleys are among the most productive rice-growing areas in South America. The terrain is extremely flat, with sections lying below sea level, necessitating complex water management through a network of sluices (kokers) and canals. Mahaicony's economy is almost entirely focused on the export of rice and coconut products. The village retains a deep-rooted rural character, defined by sprawling estates and traditional wooden houses. Historically, Mahaicony was a vital link for inland communication, as the river provided a transport route for timber and agricultural goods from the deep interior. Today, the village serves as a major service hub, with its schools, hospitals, and commercial centers supporting the widely scattered farming communities of the vicinity. Mahaicony stands as a symbol of Guyana's enduring farming traditions and is a critical factor in the food security of the entire coastal belt."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mahaicony ist berühmt für die Produktion von hochqualitativem Kokosnussöl.",
+          "Der Mahaicony-Fluss bietet Zugang zu einigen der unberührtesten Regenwaldabschnitte der Küste.",
+          "Die Stadt beherbergt ein bedeutendes Cottage-Krankenhaus für die Region 5.",
+          "Mahaicony ist ein Zentrum der indoguyanischen Kultur und Tradition.",
+          "Das Relief der Region wird oft durch saisonale Überflutungen der Savannen geprägt.",
+          "Die hölzerne Mahaicony-Brücke war lange Zeit ein markantes Wahrzeichen des Ortes."
+        ],
+        "hu": [
+          "Mahaicony híres a kiváló minőségű kókuszolaj előállításáról.",
+          "A Mahaicony-folyó vízi utat biztosít a partvidék legérintetlenebb esőerdei felé.",
+          "A településen működik az 5-ös régió egyik legfontosabb körzeti kórháza.",
+          "Mahaicony az indoguyanai kultúra és hagyományok egyik fontos bástyája.",
+          "A régió domborzatát gyakran alakítják a szavannák szezonális áradásai.",
+          "A település rizshántoló üzemei az ország legmodernebbjei közé tartoznak."
+        ],
+        "ro": [
+          "Mahaicony este renumit pentru producția artizanală și industrială de ulei de cocos.",
+          "Râul Mahaicony este o cale de acces spre habitate bogate în faună sălbatică.",
+          "Localitatea deține un spital regional care deservește mii de locuitori rurali.",
+          "Mahaicony este un centru vibrant al sărbătorilor hinduse din Guyana.",
+          "Gestionarea inundabilității este principala provocare pentru dezvoltarea urbană locală.",
+          "Economia se bazează pe exporturile masive către piețele din Caraibe."
+        ],
+        "en": [
+          "Mahaicony is a major center for Guyana's coconut fiber and oil industry.",
+          "The Mahaicony River is a popular route for eco-expeditions into the backlands.",
+          "The village features a significant district hospital supporting eastern Region 5.",
+          "It is a key location for observing traditional Guyanese rice-harvesting rituals.",
+          "The surrounding area is part of the extensive coastal drainage system designed by the Dutch.",
+          "Mahaicony acts as a vital stop for cross-country bus services along the coast."
+        ]
+      }
+    },
+    {
+      "id": "vreed-en-hoop-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Vreed-en-Hoop, am Westufer des Demerara-Flusses direkt gegenüber von Georgetown gelegen, ist das administrative Zentrum der Region Essequibo Islands-West Demerara. Der Name, der aus dem Niederländischen stammt und 'Frieden und Hoffnung' bedeutet, verweist auf die koloniale Vergangenheit als Plantagenstandort. Heute ist die Stadt ein pulsierender kommerzieller Knotenpunkt und das wichtigste Tor zur Westküste Demeraras. Die wirtschaftliche Dynamik wird durch den regen Fährverkehr und die Pendlerströme zur Hauptstadt bestimmt. Vreed-en-Hoop fungiert als bedeutendes Handelszentrum, in dem Güter für das gesamte Hinterland der Region 3 umgeschlagen werden. Die Architektur ist funktional und dicht, geprägt durch Märkte, Banken und staatliche Institutionen. In jüngster Zeit profitiert die Stadt massiv vom Ölboom, da in der Nähe neue Hafenanlagen und Industriegebiete zur Unterstützung der Offshore-Aktivitäten entstehen. Geografisch ist der Ort flach und wird durch den Seawall vor den Gezeiten des Atlantiks geschützt. Vreed-en-Hoop ist ein Schmelztiegel der guyanischen Gesellschaft, in dem die Energie der Hauptstadt auf den pragmatischen Handel der Westküste trifft.",
+        "hu": "Vreed-en-Hoop a Demerara-folyó nyugati partján fekszik, közvetlenül Georgetowntól szemben, és az Essequibo-szigetek-Nyugat-Demerara régió adminisztratív központja. A holland eredetű név, amely „Békét és Reményt” jelent, a város ültetvényes múltjára utal. Ma a település egy lüktető kereskedelmi csomópont és a nyugati part legfontosabb kapuja. Gazdasági dinamikáját a folyón zajló élénk kompforgalom és a fővárosba tartó ingázók tömege határozza meg. Vreed-en-Hoop fontos elosztó központként funkcionál, ahol a 3-as régió belső területeire szánt áruk gazdát cserélnek. Építészetét a funkcionalitás és a sűrű beépítettség jellemzi: piacok, bankok és kormányzati hivatalok alkotják a magját. Az utóbbi időben a város jelentősen profitál az olajipari fellendülésből, mivel a közelben új kikötői létesítmények és ipari parkok épülnek az offshore tevékenységek támogatására. Földrajzilag a terület sík, és a tengeri gát (Seawall) védi az Atlanti-óceán árapályától. Vreed-en-Hoop a guyanai társadalom olvasztótégelye, ahol a fővárosi energia találkozik a nyugati partvidék gyakorlatias kereskedelmi szemléletével.",
+        "ro": "Vreed-en-Hoop, situat pe malul vestic al râului Demerara, direct vizavi de Georgetown, este centrul administrativ al regiunii Essequibo Islands-West Demerara. Numele, de origine olandeză, însemnând 'Pace și Speranță', face referire la trecutul său colonial ca locație de plantație. Astăzi, orașul este un nod comercial vibrant și principala poartă către coasta de vest a regiunii Demerara. Dinamica economică este determinată de traficul intens de feribot și de fluxurile de navetiști către capitală. Vreed-en-Hoop funcționează ca un centru de distribuție major, unde sunt gestionate mărfurile destinate hinterlandului regiunii 3. Arhitectura este funcțională și densă, marcată de piețe, bănci și instituții de stat. Recent, orașul beneficiază masiv de boom-ul petrolier, în apropiere fiind construite noi terminale portuare și zone industriale pentru susținerea activităților offshore. Din punct de vedere geografic, locația este plană și protejată de mareele Atlanticului prin digul Seawall. Vreed-en-Hoop este un creuzet al societății guianeze, unde energia capitalei întâlnește spiritul pragmatic al comerțului de pe coasta de vest.",
+        "en": "Vreed-en-Hoop, situated on the West Bank of the Demerara River directly opposite Georgetown, is the administrative capital of the Essequibo Islands-West Demerara region. Its Dutch name, meaning 'Peace and Hope,' reflects its origins as a colonial plantation site. Today, the town serves as a bustling commercial hub and the primary gateway to the West Coast Demerara area. The economic pulse of the town is sustained by the constant ferry traffic and the large daily movement of commuters to Georgetown. Vreed-en-Hoop acts as a major distribution center for goods destined for the interior of Region 3. The architecture is dense and functional, centered around markets, financial institutions, and government offices. Recently, the town has seen significant transformation due to the oil boom, with new shore bases and industrial parks being developed nearby to support offshore energy operations. Geographically, it occupies a flat coastal stretch protected by the Seawall. Vreed-en-Hoop is a social melting pot, where Georgetown's urban energy meets the industrious commercial spirit of Guyana's western coast."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Vreed-en-Hoop ist der wichtigste Knotenpunkt für Wassertaxis über den Demerara.",
+          "Der Ort war der Standort einer der ersten Dampfmühlen Guyanas auf einer Zuckerplantage.",
+          "Vreed-en-Hoop beherbergt den Sitz der Regionalverwaltung der Region 3.",
+          "In der Nähe entsteht die Vreed-en-Hoop Shore Base für die Ölindustrie.",
+          "Die Stadt ist ein Schmelztiegel aus indischer und afrikanischer Kultur.",
+          "Vreed-en-Hoop ist der Ausgangspunkt der Eisenbahnstraße zur Westküste."
+        ],
+        "hu": [
+          "Vreed-en-Hoop a Demerara-folyón átkelő vízitaxik legfontosabb állomása.",
+          "Itt működött Guyana egyik első gőzhajtású malma egy cukornádültetvényen.",
+          "A település a 3-as régió (Region 3) közigazgatási székhelye.",
+          "A közelben épül a Vreed-en-Hoop Shore Base, az olajipar egyik fő logisztikai bázisa.",
+          "A város az indiai és afrikai gyökerű kultúrák egyik fontos találkozási pontja.",
+          "A településről indul a nyugati part felé vezető főútvonal."
+        ],
+        "ro": [
+          "Vreed-en-Hoop este principalul terminal pentru ambarcațiunile rapide spre Georgetown.",
+          "Numele olandez amintește de perioada în care regiunea era sub controlul Companiei Indiilor de Vest.",
+          "Orașul găzduiește sediul administrativ al celei de-a treia regiuni a Guyanei.",
+          "Noua bază portuară pentru petrol este cea mai mare investiție privată recentă din zonă.",
+          "Piața din Vreed-en-Hoop este celebră pentru peștele proaspăt și fructele de mare.",
+          "Este un punct de legătură esențial pentru transportul spre Parika și insulele Essequibo."
+        ],
+        "en": [
+          "Vreed-en-Hoop is the busiest river transit point in Guyana for speedboats.",
+          "The site historically hosted one of the most advanced sugar estates in the Demerara colony.",
+          "It serves as the administrative headquarters for the regional government of Region 3.",
+          "The Vreed-en-Hoop Shore Base is a critical piece of infrastructure for offshore oil support.",
+          "The town features a high density of retail shops serving the West Bank population.",
+          "Its location makes it the primary transition point between the capital and the Essequibo coast."
+        ]
+      }
+    },
+    {
+      "id": "lethem-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Lethem, im äußersten Süden Guyanas gelegen, ist das wichtigste Tor zum Nachbarland Brasilien und das administrative Zentrum der Region Upper Takutu-Upper Essequibo. Die Stadt liegt in der weiten Rupununi-Savanne, einer einzigartigen Ökoregion, die durch offene Graslandschaften und markante Tafelberge geprägt ist. Die strategische Bedeutung von Lethem hat durch den Bau der Takutu-River-Brücke massiv zugenommen, da sie nun Guyanas einzige feste Landverbindung nach Brasilien darstellt. Wirtschaftlich basiert der Ort auf dem grenzüberschreitenden Handel, dem Viehtrieb und dem aufkommenden Ökotourismus. Lethem ist ein bedeutendes logistisches Drehkreuz für die Versorgung des Guyanesischen Hinterlandes. Die Architektur der Stadt ist zweckmäßig und spiegelt den Pioniergeist der Grenzregion wider, mit staubigen Straßen und flachen Betonbauten. Lethem ist zudem ein Schmelztiegel der Kulturen, in dem guyanische, brasilianische und indigene (Makushi und Wapishana) Einflüsse aufeinandertreffen. Die Stadt ist Schauplatz des berühmten Rupununi Rodeo, Guyanas größtem Festival der Cowboys. Trotz der harten klimatischen Bedingungen in der Savanne bleibt Lethem ein Ort des wirtschaftlichen Aufbruchs und der regionalen Integration.",
+        "hu": "Lethem, Guyana távoli déli részén, a brazil határnál fekszik, és az Upper Takutu-Upper Essequibo régió adminisztratív és gazdasági központja. A város a végtelen Rupununi-szavannán található, egy egyedülálló ökorégióban, amelyet nyílt füves rónák és jellegzetes táblahegyek határoznak meg. Lethem stratégiai jelentősége a Takutu-folyó hídjának megépítése óta ugrásszerűen megnőtt, mivel ez az ország egyetlen fix szárazföldi összeköttetése Brazília felé. A gazdaság alapját a határon átnyúló kereskedelem, a szarvasmarha-tenyésztés és a fejlődő ökoturizmus adja. Lethem fontos logisztikai csomópont a hátország ellátása szempontjából. A város építészete funkcionális, tükrözve a határvidéki pionír szellemet: poros utcák és lapostetős betonépületek jellemzik. Lethem a kultúrák találkozási pontja is, ahol a guyanai, brazil és őslakos (makusi és vapisana) hatások keverednek. Itt rendezik meg a híres Rupununi Rodeót, Guyana legnagyobb cowboy-fesztiválját. A szavannai éghajlat kihívásai ellenére Lethem a regionális integráció és a gazdasági felemelkedés egyik legígéretesebb helyszíne.",
+        "ro": "Lethem, situat în sudul extrem al Guyanei, la granița cu Brazilia, este principalul punct de acces către țara vecină și centrul administrativ al regiunii Upper Takutu-Upper Essequibo. Orașul este amplasat în vasta savană Rupununi, o ecoregiune unică marcată de peisaje deschise de iarbă și munți tabulari distinctivi. Importanța strategică a localității Lethem a crescut masiv odată cu construcția podului peste râul Takutu, acesta fiind singura legătură terestră fixă a Guyanei cu Brazilia. Din punct de vedere economic, orașul se bazează pe comerțul transfrontalier, creșterea vitelor și ecoturismul emergent. Lethem este un nod logistic esențial pentru aprovizionarea hinterlandului guianez. Arhitectura orașului este utilitară și reflectă spiritul de pionierat al regiunii de frontieră, cu străzi prăfuite și clădiri joase din beton. Lethem este, de asemenea, un creuzet cultural unde se întâlnesc influențele guianezi, braziliene și indigene (Makushi și Wapishana). Orașul găzduiește faimosul Rupununi Rodeo, cel mai mare festival de tip cowboy din Guyana. În ciuda condițiilor climatice aspre ale savanei, Lethem rămâne un loc al avântului economic și al integrării regionale.",
+        "en": "Lethem, located in far southern Guyana on the border with Brazil, is the primary gateway to its southern neighbor and the administrative center of the Upper Takutu-Upper Essequibo region. The town is set within the vast Rupununi Savanna, a unique ecoregion characterized by expansive grasslands and distinctive tabular mountains. Lethem’s strategic importance escalated with the construction of the Takutu River Bridge, establishing the only fixed overland link between Guyana and Brazil. Economically, the town thrives on cross-border trade, ranching, and a growing ecotourism sector. Lethem serves as a critical logistical hub for the supply of Guyana's vast interior. The town's architecture is functional, reflecting the frontier pioneer spirit with wide, dusty streets and low-rise concrete structures. Lethem is also a cultural melting pot where Guyanese, Brazilian, and indigenous (Makushi and Wapishana) influences converge. It is the site of the famous annual Rupununi Rodeo, Guyana's premier cowboy festival. Despite the challenging savanna climate, Lethem remains a focal point for economic growth and regional South American integration."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Lethem ist über die Takutu-Brücke direkt mit der brasilianischen Stadt Bonfim verbunden.",
+          "Der Ort ist Guyanas Zentrum für den Viehhandel und große Ranches.",
+          "Das Rupununi Rodeo zu Ostern zieht tausende Besucher aus der ganzen Region an.",
+          "Lethem verfügt über einen Flughafen, der die Region mit Georgetown verbindet.",
+          "Die Stadt unterliegt einer Freihandelszonen-Regelung zur Förderung des Handels.",
+          "Die Wasserversorgung von Lethem stammt hauptsächlich aus artesischen Brunnen."
+        ],
+        "hu": [
+          "Lethemet a Takutu-híd köti össze közvetlenül a brazil Bonfim városával.",
+          "A település Guyana szarvasmarha-kereskedelmi és rodeó-központja.",
+          "A húsvéti Rupununi Rodeó a környék legfontosabb kulturális eseménye.",
+          "Lethem repülőtere biztosítja a gyors összeköttetést a fővárossal.",
+          "A város különleges gazdasági övezet, amely adómentes kereskedelmet biztosít.",
+          "A vízellátást a szavanna alatti artézi kutak biztosítják."
+        ],
+        "ro": [
+          "Lethem este conectat direct prin podul Takutu de orașul brazilian Bonfim.",
+          "Orașul este inima industriei de creștere a vitelor din savana Rupununi.",
+          "Rupununi Rodeo este cel mai mare eveniment de acest gen din regiunea Guianelor.",
+          "Include o zonă industrială specială menită să atragă investiții braziliene.",
+          "Climatul este caracterizat prin două sezoane distincte: secetos și ploios extrem.",
+          "Este un punct de plecare pentru turiștii care vizitează Munții Kanuku."
+        ],
+        "en": [
+          "Lethem is the southern terminus of the historic Georgetown-Lethem road.",
+          "The town operates as a Duty-Free zone for specific commercial activities.",
+          "The Takutu River Bridge represents a milestone in South American road connectivity.",
+          "Lethem is the primary service point for the indigenous communities of Region 9.",
+          "The annual rodeo highlights the skills of the local 'vaqueros' (cowboys).",
+          "It is a strategic hub for the transshipment of Brazilian manufactured goods."
+        ]
+      }
+    },
+    {
+      "id": "mabaruma-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mabaruma ist das administrative Zentrum der Region Barima-Waini im äußersten Nordwesten Guyanas, nahe der Grenze zu Venezuela. Die Stadt unterscheidet sich von den flachen Küstenstädten durch ihre Lage auf einer Hügelkette, die sich über dem dichten tropischen Regenwald und den umliegenden Sumpfgebieten erhebt. Diese geomorphologische Besonderheit verleiht Mabaruma ein kühleres Klima und eine spektakuläre Aussicht. Mabaruma fungiert als wichtigster kommerzieller und administrativer Knotenpunkt für den Nordwesten Guyanas und ist nur per Boot oder Kleinflugzeug erreichbar. Die Wirtschaft basiert auf der Landwirtschaft, insbesondere dem Anbau von Zitrusfrüchten, Kakao und Kaffee, sowie auf der Gewinnung von Rohstoffen aus dem Regenwald. Die Architektur des Ortes ist geprägt durch weitläufige Regierungsgebäude und hölzerne Privathäuser, die sich harmonisch in die üppige Vegetation einfügen. Mabaruma ist zudem ein Zentrum der indigenen Kultur der Warrau- und Arawak-Völker. Die Stadt spielt eine strategische Rolle bei der Überwachung der Grenzregion und ist ein Symbol für die Präsenz des Staates in den entlegensten Winkeln des Landes.",
+        "hu": "Mabaruma Guyana északnyugati részén, Barima-Waini régióban található, és a térség adminisztratív központja. A város merőben eltér Guyana lapos part menti településeitől, mivel egy dombsor tetején fekszik, magasan a sűrű trópusi esőerdő és a környező mocsárvilág felett. Ez a geomorfológiai adottság hűvösebb éghajlatot és látványos panorámát biztosít a településnek. Mabaruma az ország északnyugati részének legfontosabb kereskedelmi és közigazgatási csomópontja, amely csak hajóval vagy kisrepülőgéppel közelíthető meg. Gazdaságának alapja a mezőgazdaság – különösen a citrusfélék, a kakaó és a kávé termesztése –, valamint az esőerdőből származó nyersanyagok kitermelése. Az építészetet tágas kormányzati épületek és fából készült lakóházak jellemzik, amelyek szervesen illeszkednek a buja növényzetbe. Mabaruma emellett a warrau és arava őslakos népek kultúrájának egyik központja. A város stratégiai szerepet tölt be a határmenti régió felügyeletében, és az állami jelenlét szimbóluma Guyana egyik legtávolabbi és legnehezebben megközelíthető pontján.",
+        "ro": "Mabaruma este centrul administrativ al regiunii Barima-Waini, situat în extremitatea nord-vestică a Guyanei, aproape de granița cu Venezuela. Orașul se distinge de orașele de coastă plane prin amplasarea sa pe o creastă deluroasă, care se ridică deasupra pădurii tropicale dense și a zonelor mlăștinoase înconjurătoare. Această particularitate geomorfologică îi conferă localității Mabaruma un climat mai răcoros și o vedere spectaculoasă. Mabaruma funcționează ca cel mai important nod comercial și administrativ pentru nord-vestul Guyanei, fiind accesibil doar cu barca sau cu avioane mici. Economia se bazează pe agricultură, în special pe cultivarea citricelor, cacauei și cafelei, precum și pe exploatarea resurselor din pădurea tropicală. Arhitectura locului este marcată de clădiri guvernamentale spațioase și case private din lemn, care se integrează armonios în vegetația luxuriantă. Mabaruma este, de asemenea, un centru al culturii indigene a popoarelor Warrau și Arawak. Orașul joacă un rol strategic în monitorizarea regiunii de frontieră și este un simbol al prezenței statului în cele mai îndepărtate colțuri ale țării.",
+        "en": "Mabaruma is the administrative capital of the Barima-Waini region in far northwestern Guyana, near the border with Venezuela. The town is unique among Guyanese coastal settlements due to its location on a hilly ridge overlooking the dense tropical rainforest and surrounding marshlands. This geomorphological feature provides Mabaruma with a cooler climate and spectacular panoramic views. It serves as the primary commercial and administrative hub for Guyana's Northwest District and is accessible only by boat or light aircraft. The local economy is sustained by agriculture—specifically citrus, cocoa, and coffee—and the extraction of rainforest resources. The town's architecture features expansive government buildings and wooden residences that blend into the lush greenery. Mabaruma is also a cultural center for the indigenous Warrau and Arawak peoples. The town plays a strategic role in border security and monitoring, representing the state’s institutional presence in one of the nation's most remote and challenging environments."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mabaruma wurde nach einer lokalen Palmenart benannt.",
+          "Die Stadt liegt auf dem Mabaruma-Plateau, einer der wenigen Hügelketten im Norden.",
+          "Die Region ist berühmt für die Herstellung von handgemachten Krabbenkörben.",
+          "Mabaruma beherbergt eine bedeutende Missionsstation der Katholiken.",
+          "Der Zugang erfolgt über den nahegelegenen Hafen Kumaka am Aruka-Fluss.",
+          "Mabaruma ist ein wichtiges Zentrum für die indigene Sprachenpflege."
+        ],
+        "hu": [
+          "Mabaruma a nevét egy helyi pálmafajtáról kapta.",
+          "A város a Mabaruma-fennsíkon fekszik, ami az északi rész ritka dombvidékei közé tartozik.",
+          "A régió híres a kézzel készített rákász-kosarairól.",
+          "Mabarumában jelentős katolikus missziós állomás működik.",
+          "A vízi közlekedés a közeli Kumaka kikötőjén keresztül zajlik az Aruka-folyón.",
+          "A település az őslakos nyelvek megőrzésének egyik fontos központja."
+        ],
+        "ro": [
+          "Mabaruma este situat pe un platou care oferă protecție împotriva inundațiilor sezoniere.",
+          "Orașul este singura așezare urbană majoră din Guyana situată pe o colină.",
+          "Kumaka, districtul comercial adiacent, este inima economică a regiunii.",
+          "Mabaruma este renumit pentru diversitatea fructelor tropicale produse local.",
+          "Găzduiește sediul central al poliției și al armatei pentru districtul de nord-vest.",
+          "Populația este majoritar indigenă, păstrând tradiții ancestrale unice."
+        ],
+        "en": [
+          "Mabaruma is named after a local species of palm tree used for construction.",
+          "It is one of the few settlements in the coastal region not threatened by sea-level rise.",
+          "Kumaka Waterfront acts as the town's primary commercial market and docking area.",
+          "The town is a central hub for healthcare services in the Barima-Waini region.",
+          "Mabaruma serves as the logistical starting point for trips to Shell Beach.",
+          "The area is noted for its high biodiversity, including rare species of orchids."
+        ]
+      }
+    }
+  ]
+}

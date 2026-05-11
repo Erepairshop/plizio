@@ -77,7 +77,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: "Cuenca, numit oficial Santa Ana de los Cuatro Ríos de Cuenca, este situat în zona înaltă din sudul Ecuadorului, la 2.560 de metri. Orașul se distinge prin frumusețea sa arhitecturală, caracterizată de clădiri coloniale spaniole și străzi pietruite, ceea ce i-a adus statutul de Patrimoniu Mondial UNESCO în 1999. Din punct de vedere geografic, regiunea este definită de patru râuri care curg prin oraș: Tomebamba, Yanuncay, Tarqui și Machángara. Istoric, înainte de sosirea spaniolilor, regiunea a fost un centru al culturii Cañari și al incașilor, ale căror rămășițe pot fi găsite în apropiere (Ingapirca). Pentru pasionații de istorie (curriculum Plizio K8), Cuenca reprezintă un amestec fascinant de trecut precolumbian și planificare urbană europeană."
     },
     factsAdvanced: {
-      ro: ["Al treilea oraș ca mărime din Ecuador", "Patrimoniu Mondial UNESCO din 1999", "Situat la 2.500 de metri altitudine", "Celebru pentru pălăriile Panama", "Centru de artizanat", "Climă blândă pe tot parcursul anului"]
+      ro: ["Patrimoniu Mondial UNESCO din 1999", "Situat la 2.500 de metri altitudine", "Celebru pentru pălăriile Panama", "Centru de artizanat", "Climă blândă pe tot parcursul anului"]
     },
     
   },
@@ -133,7 +133,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: "Machala, capitala provinciei El Oro, este considerată „Capitala Mondială a Bananelor” datorită exporturilor masive. Este situată într-o câmpie fertilă de coastă și reprezintă inima economică a sudului Ecuadorului. Proximitatea față de portul Puerto Bolívar o transformă într-un centru central pentru tranzitul mărfurilor internaționale. Orașul este marcat de o climă vibrantă și de influența cultivării bananelor asupra vieții de zi cu zi a locuitorilor. În cadrul educațional Plizio (Industrie K8), Machala ilustrează perfect mecanismele economiei de export și ale producției agricole intensive."
     },
     factsAdvanced: {
-      ro: ["Cunoscută drept Capitala Mondială a Bananelor", "Capitala provinciei El Oro", "Port central: Puerto Bolívar", "Centrul economic al sudului", "Câmpie fertilă de coastă", "Economie de export dominantă"]
+      ro: ["Cunoscută drept Capitala Mondială a Bananelor", "Port central: Puerto Bolívar", "Centrul economic al sudului", "Câmpie fertilă de coastă", "Economie de export dominantă"]
     },
     
   },
@@ -214,7 +214,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: "Portoviejo este capitala provinciei Manabí și, datorită frumuseții sale peisagistice, este numit „Orașul Tamarindelor Regale”. Este situat într-o regiune marcată de agricultură și joacă un rol central în comerțul cu produse agricole în interiorul provinciei Manabí. În ciuda locației sale interioare, orașul este strâns legat cultural de întreaga provincie și funcționează ca centru administrativ. Clima este tropicală, favorizând o floră diversificată. În programa Plizio (Agricultură K6), Portoviejo este studiat ca un nod comercial regional vital pentru economia agrară."
     },
     factsAdvanced: {
-      ro: ["Capitala provinciei Manabí", "Numit 'Orașul Tamarindelor Regale'", "Centru comercial regional pentru produse agricole", "Centru administrativ al regiunii", "Climă tropicală", "Semnificativ pentru cultura locală"]
+      ro: ["Numit 'Orașul Tamarindelor Regale'", "Centru comercial regional pentru produse agricole", "Centru administrativ al regiunii", "Climă tropicală", "Semnificativ pentru cultura locală"]
     },
     
   },
@@ -241,7 +241,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       ro: "Ibarra, situat în nordul Ecuadorului la poalele vulcanului Imbabura, este faimos ca „Orașul Turnurilor Albe” datorită arhitecturii sale coloniale. Orașul este situat într-o vale fertilă și este înconjurat de numeroase lacuri, inclusiv celebrul lac Yaguarcocha. Datorită condițiilor climatice plăcute, este adesea numit „Orașul Primăverii Eterne”. Ibarra servește drept centru cultural important pentru populația indigenă din regiunea Imbabura. Pentru cursurile Plizio (Geografie K7), orașul oferă perspective asupra văilor din zonele montane înalte și a peisajelor vulcanice."
     },
     factsAdvanced: {
-      ro: ["Numit 'Orașul Turnurilor Albe'", "Situat la poalele vulcanului Imbabura", "Aproape de celebrul lac Yaguarcocha", "Cunoscut ca 'Orașul Primăverii Eterne'", "Centru cultural important", "Situat într-o vale fertilă"]
+      ro: ["Numit 'Orașul Turnurilor Albe'", "Aproape de celebrul lac Yaguarcocha", "Cunoscut ca 'Orașul Primăverii Eterne'", "Centru cultural important", "Situat într-o vale fertilă"]
     },
     
   },
@@ -473,7 +473,7 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
       de: "Babahoyo, die Hauptstadt der Provinz Los Ríos, liegt im Tiefland der Küstenregion und wird oft als 'Hauptstadt des Flusses' bezeichnet, da sie durch mehrere Wasserwege verbunden ist. Die Stadt ist ein zentraler Umschlagplatz für die landwirtschaftliche Produktion, insbesondere für Reis, Bananen und tropische Früchte. Die Region zeichnet sich durch fruchtbare Ebenen und ein feuchtes tropisches Klima aus, das ideal für die intensive Agrarwirtschaft ist. Die Stadt spielt eine wichtige Rolle bei der Versorgung der umliegenden Regionen mit landwirtschaftlichen Gütern. Landwirtschaft K6 – Fluvial-Handelszentren."
     },
     factsAdvanced: {
-      de: ["Hauptstadt der Provinz Los Ríos", "Genannt 'Hauptstadt des Flusses'", "Zentraler Umschlagplatz für Agrarprodukte", "Produktion von Reis und Bananen", "Fruchtbare Tiefland-Ebene", "Feuchtes tropisches Klima"]
+      de: ["Genannt 'Hauptstadt des Flusses'", "Zentraler Umschlagplatz für Agrarprodukte", "Produktion von Reis und Bananen", "Fruchtbare Tiefland-Ebene", "Feuchtes tropisches Klima"]
     }
   },
     facts: {

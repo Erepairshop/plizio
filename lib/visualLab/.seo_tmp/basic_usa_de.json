@@ -1,0 +1,22 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uinta-mountains-relief-v2",
+      "description": "Die Uinta Mountains sind eine beeindruckende Gebirgskette im Nordosten Utahs, einzigartig für ihre Ost-West-Ausrichtung und Heimat des Kings Peak, dem höchsten Punkt Utahs.",
+      "facts": ["Einzige große US-Gebirgskette mit Ost-West-Ausrichtung", "Beherbergt den Kings Peak (höchster Punkt Utahs)", "Beliebt für alpine Seen und Wildniswanderungen"]
+    },
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "description": "Die Sawtooth Mountains sind eine zerklüftete Gebirgskette in Zentral-Idaho, bekannt für ihre dramatischen, sägezahnartigen Gipfel und eine Fülle von kristallklaren Bergseen.",
+      "facts": ["Teil der Rocky Mountains", "Mehr als 50 Gipfel über 3.000 Meter", "Herzstück des Sawtooth National Recreation Area"]
+    }
+  ]
+}

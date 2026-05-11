@@ -1,0 +1,52 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "aishalton-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Aishalton ist das administrative und kulturelle Zentrum der südlichen Rupununi-Savanne in der Region Upper Takutu-Upper Essequibo. Die Siedlung liegt in einer landschaftlich reizvollen Zone, geprägt durch offene Grasländer und isolierte Granit-Inselberge. Berühmt ist Aishalton vor allem für seine archäologischen Schätze; die nahegelegenen Felszeichnungen (Petroglyphen) zeugen von einer jahrtausendealten menschlichen Besiedlung und sind ein nationales Denkmal Guyanas. Wirtschaftlich basiert der Ort auf der Rinderzucht, dem Handwerk und der ökologischen Landwirtschaft des Wapishana-Volkes. Die Architektur in Aishalton umfasst moderne Regierungsgebäude und traditionelle Lehm- und Holzhäuser mit Palmblattdächern. Geografisch fungiert der Ort als wichtigster Dienstleistungsknotenpunkt für den tiefen Süden, mit Schulen, einer Gesundheitsstation und einer Flugpiste. Die Umgebung bietet spektakuläre Einblicke in die Flora und Fauna der Savanne und ist ein bedeutender Ort für die Bewahrung der Wapishana-Sprache und -Kultur. Aishalton symbolisiert die tiefe geschichtliche Verwurzelung und die zukunftsorientierte Entwicklung der indigenen Gemeinschaften im guyanischen Hinterland.",
+        "hu": "Aishalton a déli Rupununi-szavanna közigazgatási és kulturális központja az Upper Takutu-Upper Essequibo régióban. A település festői környezetben fekszik, amelyet nyílt füves rónák és elszigetelt gránit-szigethegyek jellemeznek. Aishalton elsősorban régészeti kincseiről híres: a közelben található sziklarajzok (petroglifák) évezredes emberi jelenlétről tanúskodnak, és Guyana nemzeti emlékhelyei közé tartoznak. Gazdaságilag a falu a szarvasmarha-tenyésztésre, a kézművességre és a vapisana (Wapishana) nép ökológiai gazdálkodására épít. Az építészetben modern kormányzati épületek és hagyományos, pálmatetős vályog- és faházak keverednek. Földrajzilag a település a távoli dél legfontosabb szolgáltató központja, iskolával, egészségügyi állomással és kifutópályával rendelkezik. A környék látványos betekintést nyújt a szavanna flórájába és faunájába, emellett kiemelt helyszíne a vapisana nyelv és kultúra megőrzésének. Aishalton a guyanai hátország őslakos közösségeinek mély történelmi gyökereit és jövőbe mutató fejlődését jelképezi.",
+        "ro": "Aishalton este centrul administrativ și cultural al savanei Rupununi de sud, situat în regiunea Upper Takutu-Upper Essequibo. Așezarea este amplasată într-o zonă peisagistică spectaculoasă, marcată de pășuni deschise și inselberg-uri de granit izolate. Aishalton este renumit în special pentru comorile sale arheologice; desenele rupestre (petroglife) din apropiere atestă o locuire umană de milenii. Din punct de vedere economic, localitatea se bazează pe creșterea vitelor și agricultura ecologică a poporului Wapishana. Aishalton simbolizează rădăcinile istorice adânci și dezvoltarea comunităților indigene din interiorul Guyanei.",
+        "en": "Aishalton serves as the administrative and cultural hub of the Southern Rupununi Savanna in the Upper Takutu-Upper Essequibo region. The village is set within a visually stunning landscape of expansive grasslands punctuated by isolated granite inselbergs. Aishalton is internationally renowned for its archaeological significance; the nearby rock carvings, or petroglyphs, provide evidence of human habitation dating back thousands of years and are recognized as a Guyanese National Monument. Economically, the settlement is supported by cattle ranching, traditional crafts, and the ecological farming practices of the Wapishana people. The local architecture is a blend of modern government infrastructure and traditional mud-and-thatch dwellings. Geographically, Aishalton acts as the primary service node for the deep south, providing essential schooling, healthcare, and an operational airstrip. The area offers exceptional opportunities for observing savanna wildlife and is a critical site for the preservation of the Wapishana language and traditions. Aishalton embodies the historical depth and future potential of Guyana's indigenous heartland."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Aishalton beherbergt die berühmtesten Petroglyphen Guyanas.",
+          "Der Name stammt von einem Wapishana-Wort für eine lokale Baumart.",
+          "Der Ort ist das administrative Zentrum für den Distrikt South Rupununi.",
+          "Aishalton verfügt über eine der bedeutendsten Schulen des Hinterlandes.",
+          "Die Region ist bekannt für ihre massiven Termitenhügel.",
+          "Die Petroglyphen von Aishalton werden auf ein Alter von über 3.000 Jahren geschätzt."
+        ],
+        "hu": [
+          "Aishalton ad otthont Guyana leghíresebb sziklarajzainak.",
+          "A település neve egy helyi fafaj vapisana elnevezéséből származik.",
+          "A falu a Dél-Rupununi körzet adminisztratív központja.",
+          "Aishalton rendelkezik a hátország egyik legfontosabb középiskolájával.",
+          "A régió híres a hatalmas, néha embermagasságú termeszvárairól.",
+          "Aishalton sziklarajzait több mint 3000 évesre becsülik a kutatók."
+        ],
+        "ro": [
+          "Petroglifele din Aishalton sunt incluse în patrimoniul național protejat.",
+          "Este cel mai important nod de transport pentru savana de sud.",
+          "Localitatea găzduiește o stație de radio comunitară indigenă.",
+          "Relieful este dominat de Muntele Shea, vizibil din sat.",
+          "Wapishana din Aishalton sunt renumiți pentru producția de bumbac organic.",
+          "Drumul spre Lethem este principala cale de aprovizionare a satului."
+        ],
+        "en": [
+          "Aishalton is a key center for the conservation of indigenous heritage.",
+          "The Aishalton petroglyphs are among the most complex in the Amazon basin.",
+          "It serves as a base for exploring the remote Mount Shea area.",
+          "The community manages its own sustainable forestry projects.",
+          "Local artisans are famous for their intricate beadwork and weaving.",
+          "The airstrip at Aishalton facilitates critical medical and supply links."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "India",
+  "files": [
+    "lib/visualLab/data/poiExtraIndiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "in-loktak-lake-nature-v2",
+      "description": "Loktak Lake is the largest freshwater lake in Northeast India, famous for its unique floating islands called phumdis.",
+      "facts": [
+        "Largest freshwater lake in Northeast India.",
+        "Home to the world's only floating national park.",
+        "Known for unique floating vegetation called phumdis.",
+        "Critical habitat for the endangered Sangai deer."
+      ]
+    }
+  ]
+}

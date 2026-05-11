@@ -1,0 +1,76 @@
+{
+  "lang": "en",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts",
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "centre-ecquestre-dakar-life-v2",
+      "description": "An equestrian center in Dakar offering horse riding lessons, training, and stables for local enthusiasts.",
+      "facts": ["Equestrian center", "Dakar facility", "Horse riding"]
+    },
+    {
+      "id": "culture-oignon-stlouis-life-v2",
+      "description": "A major agricultural zone in Saint-Louis known for large-scale onion production supplying markets across the country.",
+      "facts": ["Onion farming", "Saint-Louis", "Agricultural hub"]
+    },
+    {
+      "id": "parc-safari-delta-life-v2",
+      "description": "A wildlife park located near the river delta, allowing visitors to experience the region's diverse flora and fauna.",
+      "facts": ["Safari park", "River delta site", "Wildlife experience"]
+    },
+    {
+      "id": "musee-oceanographique-dakar-life-v2",
+      "description": "A specialized museum dedicated to oceanography and the marine life of the Atlantic coast, showcasing regional maritime heritage.",
+      "facts": ["Oceanographic museum", "Dakar location", "Marine life"]
+    },
+    {
+      "id": "elevage-de-moutons-diourbel-life-v2",
+      "description": "A significant sheep farming center in Diourbel that plays a key role in supporting the local livestock and agricultural economy.",
+      "facts": ["Sheep farming", "Diourbel region", "Livestock center"]
+    },
+    {
+      "id": "reserve-de-faune-birdlife-v2",
+      "description": "A protected area designed for birdlife conservation, providing an essential habitat for numerous migratory and local bird species.",
+      "facts": ["Birdlife reserve", "Conservation area", "Habitat site"]
+    },
+    {
+      "id": "ferme-aquacole-stlouis-life-v2",
+      "description": "An aquaculture facility in Saint-Louis focused on sustainable fish farming and developing local seafood resources.",
+      "facts": ["Aquaculture farm", "Saint-Louis", "Fish farming"]
+    },
+    {
+      "id": "jardin-des-enfants-life-v2",
+      "description": "A community-focused green space in the city specifically designed as a playground and educational garden for children.",
+      "facts": ["Children's park", "Educational garden", "Community space"]
+    },
+    {
+      "id": "culture-mangue-casamance-life-v2",
+      "description": "An agricultural region in Casamance famed for its extensive mango orchards and significant fruit production.",
+      "facts": ["Mango production", "Casamance region", "Orchard zone"]
+    },
+    {
+      "id": "centre-de-rehabilitation-life-v2",
+      "description": "A specialized center focused on the rehabilitation and conservation of rescued local wildlife.",
+      "facts": ["Rehabilitation center", "Conservation focus", "Rescued wildlife"]
+    },
+    {
+      "id": "lac-de-guier-nature-v2",
+      "description": "A vital lake in northern Senegal, providing water for agriculture and supporting a unique freshwater ecosystem.",
+      "facts": ["Freshwater lake", "Northern Senegal", "Agricultural water"]
+    },
+    {
+      "id": "pointe-des-almadies-nature-v2",
+      "description": "The westernmost point of the African mainland, known for its rugged coastal landscapes and beautiful ocean views.",
+      "facts": ["Westernmost point", "Coastal landscape", "Atlantic views"]
+    },
+    {
+      "id": "iles-de-la-madeleine-nature-v2",
+      "description": "A small group of rocky islands protected as a national park, home to unique flora and endemic fauna.",
+      "facts": ["Rocky islands", "National park", "Endemic wildlife"]
+    }
+  ]
+}

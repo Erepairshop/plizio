@@ -1,0 +1,119 @@
+{
+  "lang": "de",
+  "country": "Kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pik-pobedy-relief-v2",
+      "description": "Der Pik Pobedy ist mit 7.439 Metern der höchste Gipfel Kirgisistans und des gesamten Tian-Shan-Gebirges an der Grenze zu China.",
+      "facts": [
+        "Höchster Berg Kirgisistans",
+        "Höhe: 7.439 m",
+        "Teil des Tian-Shan-Gebirges",
+        "Erstbesteigung im Jahr 1938"
+      ]
+    },
+    {
+      "id": "khan-tengri-relief-v2",
+      "description": "Der Khan Tengri ist ein markanter, pyramidenförmiger Gipfel im zentralen Tian-Shan, der für seine rötlich leuchtenden Marmorwände bekannt ist.",
+      "facts": [
+        "Pyramidenförmiger 7.000er",
+        "Höhe: 7.010 m (mit Eis)",
+        "Heiliger Berg der Region",
+        "Zweithöchster Berg des Landes"
+      ]
+    },
+    {
+      "id": "pik-lenin-relief-v2",
+      "description": "Der Pik Lenin im Pamir-Gebirge gilt als einer der am einfachsten zu besteigenden Siebentausender der Welt und ist ein beliebtes Ziel für Alpinisten.",
+      "facts": [
+        "Lage im Pamir-Gebirge",
+        "Höhe: 7.134 m",
+        "Grenze zu Tadschikistan",
+        "Beliebter Expeditionsberg"
+      ]
+    },
+    {
+      "id": "tian-shan-relief-v2",
+      "description": "Das Tian-Shan-Gebirge, auch 'Himmelsgebirge' genannt, ist eines der größten Hochgebirgssysteme der Erde und prägt die Landschaft Kirgisistans.",
+      "facts": [
+        "Bedeutet 'Himmelsgebirge'",
+        "UNESCO-Weltnaturerbe",
+        "Zahlreiche Gletscher",
+        "Zentralasiatisches Hochgebirge"
+      ]
+    },
+    {
+      "id": "ala-archa-gorge-relief-v2",
+      "description": "Die Ala-Artscha-Schlucht ist ein alpiner Nationalpark nahe Bischkek, der für seine spektakulären Gletscher, Wasserfälle und Wanderwege bekannt ist.",
+      "facts": [
+        "Nationalpark bei Bischkek",
+        "Über 20 Gletscher",
+        "Wander- und Kletterparadies",
+        "Alpine Flora und Fauna"
+      ]
+    },
+    {
+      "id": "terskey-ala-too-relief-v2",
+      "description": "Der Terskej-Alatau ist eine Gebirgskette im Tian-Shan, die sich entlang des Südufers des Issyk-Kul-Sees erstreckt und für ihre schattigen Hänge bekannt ist.",
+      "facts": [
+        "Südlich des Issyk-Kul",
+        "Name bedeutet 'Schattenseite'",
+        "Gipfel über 5.000 m",
+        "Beliebt für Trekking"
+      ]
+    },
+    {
+      "id": "kungey-ala-too-relief-v2",
+      "description": "Der Küngej-Alatau bildet den nördlichen Rand des Issyk-Kul-Beckens und ist für seine sonnenexponierten Hänge und tiefen Schluchten charakteristisch.",
+      "facts": [
+        "Nördlich des Issyk-Kul",
+        "Name bedeutet 'Sonnenseite'",
+        "Grenzgebirge zu Kasachstan",
+        "Teil des Tian-Shan"
+      ]
+    },
+    {
+      "id": "chong-kemin-valley-relief-v2",
+      "description": "Das Tschong-Kemin-Tal ist ein geschütztes Naturparadies mit einer reichen Artenvielfalt, das zwischen den Ketten des Alatau-Gebirges eingebettet liegt.",
+      "facts": [
+        "Nationalpark-Status",
+        "Reiche Biodiversität",
+        "Beliebt für Rafting",
+        "Malerisches Flusstal"
+      ]
+    },
+    {
+      "id": "arpa-valley-relief-v2",
+      "description": "Das Arpa-Tal ist eine abgelegene, alpine Hochebene in der Region Naryn, die vor allem als Sommerweide für Viehherden genutzt wird.",
+      "facts": [
+        "Abgelegene Hochebene",
+        "Sommerweidegebiet",
+        "Region Naryn",
+        "Alpine Steppenlandschaft"
+      ]
+    },
+    {
+      "id": "fergana-valley-relief-v2",
+      "description": "Das Ferganatal ist eine extrem fruchtbare Senke in Zentralasien, die durch den Fluss Syrdarja bewässert wird und das landwirtschaftliche Herz der Region bildet.",
+      "facts": [
+        "Fruchtbare Senke",
+        "Zentralasiatisches Zentrum",
+        "Geteilt zwischen drei Staaten",
+        "Antikes Siedlungsgebiet"
+      ]
+    },
+    {
+      "id": "karkara-valley-relief-v2",
+      "description": "Das Karkara-Tal ist ein weites, grünes Hochtal an der Grenze zu Kasachstan, das als wichtiger Ausgangspunkt für Hubschrauber-Expeditionen zum Khan Tengri dient.",
+      "facts": [
+        "Grenztal zu Kasachstan",
+        "Basislager für Expeditionen",
+        "Saisonaler Grenzübergang",
+        "Weite Bergweiden"
+      ]
+    }
+  ]
+}

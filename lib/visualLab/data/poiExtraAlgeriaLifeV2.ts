@@ -22,10 +22,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       en: "Tassili n'Ajjer is a remarkable feature of the geography and culture of Algeria. A mountain plateau home to rare species like the Saharan cheetah. UNESCO World Heritage Site. Home to the Saharan cheetah. Rock paintings present. This protected area is part of Algeria's diverse wildlife and flora, from the Sahara to the Tell Atlas. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-      de: ["UNESCO-Welterbe.", "Heimat des Saharageparden.", "Felsmalereien vorhanden.", "Ein Bergplateau, das seltene Tierarten wie den Saharageparden beherbergt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Ein Bergplateau, das seltene Tierarten wie den Saharageparden beherbergt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: ["A legkorábbi rajzok kb. Kr. e. 8000-re datálhatók.", "A 'kerekfejű emberek' stílusú festmények sámánisztikus rituálékra utalhatnak.", "Itt él a ritka szaharai ciprus.", "A nemzeti park területe több mint 72 000 négyzetkilométer.", "A tuareg nép kulturális bölcsője.", "A festékek okkerből, kaolinból és faszénből készültek."],
-      ro: ["Patrimoniul Mondial UNESCO.", "Habitat al ghepardului saharian.", "Picturi rupestre prezente.", "Un platou montan care găzduiește specii rare precum ghepardul saharian.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["UNESCO World Heritage Site.", "Home to the Saharan cheetah.", "Rock paintings present.", "A mountain plateau home to rare species like the Saharan cheetah.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      ro: ["Un platou montan care găzduiește specii rare precum ghepardul saharian.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["A mountain plateau home to rare species like the Saharan cheetah.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/tassili-n-ajjer-life-v2.webp"},
   {
     id: "hoggar-mountains-life-v2",
@@ -47,10 +47,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       en: "Hoggar Mountains is a remarkable feature of the geography and culture of Algeria. An impressive mountain region with unique desert fauna. Highest peak: Tahat. Volcanic rocks. Rare antelope species. This protected area is part of Algeria's diverse wildlife and flora, from the Sahara to the Tell Atlas. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-      de: ["Höchster Gipfel: Tahat.", "Vulkanisches Gestein.", "Seltene Antilopenarten.", "Eine beeindruckende Gebirgsregion mit einzigartiger Wüstenfauna.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Eine beeindruckende Gebirgsregion mit einzigartiger Wüstenfauna.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: ["A szaharai gepárd a világ egyik legritkább nagymacskája.", "A guelták kulcsfontosságúak a helyi élővilág számára.", "Az Atakor vulkanikus mező a hegység szívében található.", "A tuareg társadalom hagyományosan matriarchális.", "A sziklarajzok tanúsága szerint egykor zsiráfok és elefántok is éltek itt.", "A hegységben reliktum növényfajok is találhatók."],
       ro: ["Cel mai înalt vârf: Tahat.", "Roci vulcanice.", "Specii rare de antilope.", "O regiune muntoasă impresionantă cu o faună deșertică unică.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Highest peak: Tahat.", "Volcanic rocks.", "Rare antelope species.", "An impressive mountain region with unique desert fauna.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      en: ["An impressive mountain region with unique desert fauna.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/hoggar-mountains-life-v2.webp"},
   {
     id: "el-kala-national-park-life-v2",
@@ -72,9 +72,9 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       en: "El Kala National Park, located in the extreme northeast of Algeria, is one of the most important wetland ecosystems in the Mediterranean basin. Designated as a UNESCO Biosphere Reserve, it features a diverse mosaic of lakes, marshes, cork oak forests, and coastal dunes. The park is a vital sanctuary for biodiversity, hosting over 800 plant species and 200 bird species, including rare and endangered varieties. It is a critical stopover for tens of thousands of migratory birds during their annual journeys. The park is also home to one of the last remaining populations of the Barbary stag, a unique North African subspecies. Ecology K8 – Wetland Conservation and Biodiversity."
     },
     factsAdvanced: {
-      de: ["Biosphärenreservat.", "Wichtige Vogelbrutgebiete.", "Küstenökosystem.", "Ein Küstenpark, der wichtige Feuchtgebiete und Zugvogelrouten schützt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      de: ["Ein Küstenpark, der wichtige Feuchtgebiete und Zugvogelrouten schützt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
       hu: ["1983-ban alapították, területe mintegy 800 négyzetkilométer.", "Az UNESCO bioszféra-rezervátumként tartja számon 1990 óta.", "Itt található Algéria legfontosabb vizes élőhely-rendszere.", "Több mint 40 emlősfaj és 200 madárfaj él a területén.", "A park híres a ritka berber szarvas állományáról.", "Három nagy tava van: Mellah (sós), Oubeira és Tonga (édesvizű)."],
-      ro: ["Rezervație a biosferei.", "Zone importante de cuibărit pentru păsări.", "Ecosistem costier.", "Un parc de coastă care protejează zone umede importante și rute de migrație ale păsărilor.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      ro: ["Un parc de coastă care protejează zone umede importante și rute de migrație ale păsărilor.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
       en: ["The park covers an area of approximately 76,000 hectares.", "Lake Mellah is a unique lagoon with a permanent connection to the sea.", "A major wintering ground for over 60,000 migratory waterfowl.", "The Barbary stag (Cervus elaphus barbarus) is the park's symbol.", "Features the largest cork oak (Quercus suber) forests in Algeria.", "Protected under the international Ramsar Convention on wetlands.", "Contains several unique endemic plant species.", "A major center for ecological research and nature tourism."]
     }, image: "/poi-images/el-kala-national-park-life-v2.webp"},
   {
@@ -97,10 +97,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     en: "Chréa National Park is a remarkable feature of the geography and culture of Algeria. Known for its Barbary macaque population in the Atlas Mountains. Home to Barbary macaques. Popular hiking area. Cedar forests. This protected area is part of Algeria's diverse wildlife and flora, from the Sahara to the Tell Atlas. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: ["Berberaffen beheimatet.", "Beliebtes Wandergebiet.", "Zedernwälder.", "Bekannt für seine Berberaffenpopulation im Atlasgebirge.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+    de: ["Berberaffen beheimatet.", "Beliebtes Wandergebiet.", "Bekannt für seine Berberaffenpopulation im Atlasgebirge.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["1983-ban hozták létre a parkot az Atlasz-hegység védelmére.", "Itt található Afrika egyik kevés síközpontjának egyike.", "Az atlaszcédrus (Cedrus atlanti) egyik legfontosabb élőhelye.", "A parkban él a veszélyeztetett berber makákó egyik legnagyobb populációja.", "Legmagasabb pontja a Sidi Abdelkader-csúcs (1629 m).", "A terület 2002 óta az UNESCO bioszféra-rezervátum része."],
-    ro: ["Acasă pentru macacii de Berberia.", "Zonă populară de drumeții.", "Păduri de cedru.", "Cunoscut pentru populația sa de macaci de Berberia din Munții Atlas.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Home to Barbary macaques.", "Popular hiking area.", "Cedar forests.", "Known for its Barbary macaque population in the Atlas Mountains.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    ro: ["Cunoscut pentru populația sa de macaci de Berberia din Munții Atlas.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+    en: ["Known for its Barbary macaque population in the Atlas Mountains.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/chrea-national-park-life-v2.webp"},
   {
     id: "gouraya-national-park-life-v2",
@@ -125,7 +125,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Meeresküste.", "Berberaffen.", "Wanderwege.", "Ein Park an der Mittelmeerküste mit vielfältiger Flora und Fauna.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Bejaia tartományban található, 1984-ben vált nemzeti parkká.", "Területe viszonylag kicsi (20 km2), de rendkívül sűrű a biodiverzitása.", "A Cap Carbon világítótorony a park egyik legmagasabb pontján áll.", "Tengeri része delfinek és tengeri teknősök fontos élőhelye.", "A park területén számos barlang és régészeti lelet található.", "Évente több mint egymillió látogatót fogad."],
     ro: ["Coasta mării.", "Macaci de Berberia.", "Trasee de drumeție.", "Un parc de pe coasta Mediteranei cu o floră și faună diversă.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Seacoast.", "Barbary macaques.", "Hiking trails.", "A park on the Mediterranean coast with diverse flora and fauna.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A park on the Mediterranean coast with diverse flora and fauna.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/gouraya-national-park-life-v2.webp"},
   {
     id: "mitidja-agriculture-life-v2",
@@ -147,10 +147,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     en: "Mitidja Plain is a remarkable feature of the geography and culture of Algeria. The most fertile agricultural area in Algeria, known for citrus fruits. Citrus production. Main farming region. Rich soil. This protected area is part of Algeria's diverse wildlife and flora, from the Sahara to the Tell Atlas. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: ["Zitrusfrüchteanbau.", "Hauptanbaugebiet.", "Reichhaltiger Boden.", "Das fruchtbarste landwirtschaftliche Gebiet Algeriens, bekannt für Zitrusfrüchte.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+    de: ["Das fruchtbarste landwirtschaftliche Gebiet Algeriens, bekannt für Zitrusfrüchte.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Mintegy 100 kilométer hosszan húzódik kelet-nyugati irányban.", "Algéria legfontosabb citrusféle-termelő vidéke.", "A terület vízellátását számos gát és felszín alatti vízréteg biztosítja.", "A gyarmati időkben itt alakultak ki az első modern mintagazdaságok.", "Fontos szerepe van a tejtermelésben és az állattenyésztésben is.", "A síkság központja Blida, a 'Rózsák városa'."],
     ro: ["Cultivarea citricelor.", "Principală zonă de producție.", "Sol bogat.", "Cea mai fertilă zonă agricolă din Algeria, cunoscută pentru citrice.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Citrus production.", "Main farming region.", "Rich soil.", "The most fertile agricultural area in Algeria, known for citrus fruits.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["The most fertile agricultural area in Algeria, known for citrus fruits.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/mitidja-agriculture-life-v2.webp"},
   {
     id: "oued-souf-agriculture-life-v2",
@@ -172,10 +172,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     en: "Oued Souf is a remarkable feature of the geography and culture of Algeria. Known for date palm cultivation in the Sahara. Date production. Oasis farming. Traditional methods. This protected area is part of Algeria's diverse wildlife and flora, from the Sahara to the Tell Atlas. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: ["Dattelproduktion.", "Oasenwirtschaft.", "Traditionelle Methoden.", "Bekannt für den Anbau von Dattelpalmen in der Sahara.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+    de: ["Bekannt für den Anbau von Dattelpalmen in der Sahara.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A 'ghout' módszerrel a pálmák közvetlenül a talajvízből isznak.", "Algéria egyik legnagyobb burgonyatermelő vidéke lett az utóbbi években.", "A datolyatermesztés (Deglet Nour fajta) világszínvonalú.", "A területen több mint egymillió datolyapálma található.", "A homokdűnék mozgása állandó kihívást jelent a gazdáknak.", "A régióban a napenergia használata is egyre elterjedtebb az öntözéshez."],
-    ro: ["Producția de curmale.", "Agricultură de oază.", "Metode tradiționale.", "Cunoscută pentru cultivarea curmalilor în Sahara.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Date production.", "Oasis farming.", "Traditional methods.", "Known for date palm cultivation in the Sahara.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    ro: ["Cunoscută pentru cultivarea curmalilor în Sahara.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+    en: ["Known for date palm cultivation in the Sahara.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/oued-souf-agriculture-life-v2.webp"},
   {
     id: "annaba-agriculture-life-v2",
@@ -200,7 +200,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Weinbaugebiet.", "Gemüseanbau.", "Küstenklima.", "Region mit intensivem Weinbau und Gemüseanbau.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A Seybouse-folyó völgye az ország egyik legfontosabb öntözött területe.", "Vezető szerepet tölt be az ipari paradicsom termesztésében.", "A régióban jelentős a parafa-kitermelés a környező erdőkből.", "Híres az őshonos olajfaligeteiről és a minőségi olívaolajról.", "A modern technológiák révén évente több betakarítást is végeznek.", "Annaba kikötője fontos kapu a mezőgazdasági termékek kiviteléhez."],
     ro: ["Zonă viticolă.", "Cultivarea legumelor.", "Climat costier.", "Regiune cunoscută pentru viticultură și cultivarea legumelor.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Viticulture area.", "Vegetable farming.", "Coastal climate.", "Region known for intensive viticulture and vegetable farming.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Region known for intensive viticulture and vegetable farming.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -226,7 +226,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Deglet-Nour-Datteln.", "Wüstenklima.", "Bewässerung.", "Zentrum für den Anbau von hochwertigen Datteln.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Több mint 4 millió datolyapálma található a tartományban.", "A Deglet Nour datolya Algéria egyik legfontosabb exportterméke.", "Biskra az ország legnagyobb téli zöldségszállítója.", "A pálmák alatt gyakran gyümölcsfákat és takarmánynövényeket is termesztenek.", "A Tolga-oázis adja a legjobb minőségű datolyatermést.", "A helyi gazdák évezredes tapasztalattal rendelkeznek a pálmák beporzásában."],
     ro: ["Curmale Deglet-Nour.", "Climat deșertic.", "Irigare.", "Centrul pentru cultivarea curmalelor de înaltă calitate.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Deglet Nour dates.", "Desert climate.", "Irrigation.", "Center for the cultivation of high-quality dates.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Center for the cultivation of high-quality dates.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/biskra-agriculture-life-v2.webp"},
   {
     id: "setif-highlands-agriculture-life-v2",
@@ -251,7 +251,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Getreideanbau.", "Hochlandklima.", "Landwirtschaftliche Zentrale.", "Wichtige Region für Getreideanbau im Norden Algeriens.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Átlagosan 800-1000 méteres tengerszint feletti magasságban fekszik.", "Algéria teljes gabonatermésének jelentős részét ez a régió adja.", "Híres a 'durumbúza' termesztéséről, amely a kuszkusz alapanyaga.", "A térségben modern kísérleti gazdaságok segítik a hozamok növelését.", "Jelentős a burgonya- és a szárazhüvelyes-termelés is.", "Sétif városa fontos logisztikai központ a termények elosztásához."],
     ro: ["Cultivarea cerealelor.", "Climat de podiș.", "Centru agricol.", "Regiune importantă pentru cultivarea cerealelor în nordul Algeriei.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Grain farming.", "Highland climate.", "Agricultural hub.", "Important region for grain farming in northern Algeria.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Important region for grain farming in northern Algeria.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -277,7 +277,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Seltene Pflanzen.", "Spielbereiche.", "Erholungsort.", "Ein grüner Park in Algier, ideal für Familien und Kinder.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["1832-ben alapították, területe ma mintegy 32 hektár.", "Több mint 3000 növényfaj található meg a kertben.", "Egyik különlegessége a hatalmas sárkányvérfák gyűjteménye.", "A kert mikroklímája 2-3 fokkal hűvösebb a környező városnál.", "Itt forgatták a 'Tarzan, a majomember' című film egyes jeleneteit.", "A kert végén található az Országos Képzőművészeti Múzeum épülete."],
     ro: ["Plante rare.", "Zone de joacă.", "Loc de relaxare.", "O grădină verde în Alger, ideală pentru familii și copii.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Rare plants.", "Play areas.", "Recreation spot.", "A green park in Algiers, ideal for families and children.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A green park in Algiers, ideal for families and children.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/algiers-botanical-garden-life-v2.webp"},
   {
     id: "aquafortland-park-life-v2",
@@ -302,7 +302,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Wasserrutschen.", "Schwimmbecken.", "Familienattraktion.", "Ein beliebter Wasserpark für Kinder in Algier.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Bordj El Kiffan negyedben található, közvetlenül a tengerparton.", "Számos különböző nehézségi fokú óriáscsúszdával rendelkezik.", "A park területén mesterséges vízesések és folyók is vannak.", "Éjszakai rendezvényeknek és koncerteknek is gyakran helyet ad.", "Saját strandrésszel rendelkezik a Földközi-tenger partján.", "A park egész évben nyitva tartó sportközpontot is üzemeltet."],
     ro: ["Tobogane cu apă.", "Piscine.", "Atracție de familie.", "Un parc acvatic popular pentru copii în Alger.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Water slides.", "Swimming pools.", "Family attraction.", "A popular water park for kids in Algiers.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A popular water park for kids in Algiers.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -328,7 +328,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Lebensgroße Modelle.", "Bildungsangebot.", "Unterhaltung.", "Ein Themenpark mit Dinosauriernachbildungen für Kinder.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Sétif városának egyik legújabb családi látványossága.", "Több tucat élethű, méretarányos dinoszaurusz-reprodukciót mutat be.", "Néhány modell interaktív elemekkel (mozgás, hang) is rendelkezik.", "A park oktatási táblái bemutatják az egyes fajok életterét.", "A látogatók között nagyon népszerűek a fotózási pontok.", "A parkhoz kávézó és szuvenírbolt is tartozik."],
     ro: ["Modele în mărime naturală.", "Valoare educativă.", "Divertisment.", "Un parc tematic cu replici de dinozauri pentru copii.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Life-sized models.", "Educational value.", "Entertainment.", "A theme park with dinosaur replicas for children.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A theme park with dinosaur replicas for children.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/dinosaur-park-setif-life-v2.webp"},
   {
     id: "mostaganem-wildlife-park-life-v2",
@@ -352,8 +352,8 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     factsAdvanced: {
     de: ["Familienbesuche.", "Lokale Fauna.", "Bildung.", "Ein kleiner Zoo mit Fokus auf lokale Tierarten.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["2017-ben nyitotta meg kapuit a nagyközönség előtt.", "Több mint 100 különböző állatfajnak ad otthont.", "Területe meghaladja az 50 hektárt.", "A vidámpark része az ország egyik legmodernebb hullámvasútja.", "A parkban sikeres tenyészprogramok folynak ritka fajok számára.", "Hétvégente és ünnepnapokon több tízezer látogatót vonz."],
-    ro: ["Vizite în familie.", "Faună locală.", "Educație.", "O grădină zoologică mică axată pe specii locale de animale.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Family visits.", "Local fauna.", "Education.", "A small zoo focusing on local animal species.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    ro: ["Vizite în familie.", "Educație.", "O grădină zoologică mică axată pe specii locale de animale.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+    en: ["A small zoo focusing on local animal species.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/mostaganem-wildlife-park-life-v2.webp"},
   {
     id: "oran-aquarium-life-v2",
@@ -377,8 +377,8 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     factsAdvanced: {
     de: ["Unterwasserwelt.", "Bildung.", "Kinderattraktion.", "Ein Aquarium, das das Meeresleben des Mittelmeers zeigt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Oran történelmi belvárosában, a tenger közelében található.", "Kifejezett figyelmet fordítanak a helyi, mediterrán halfajok bemutatására.", "Interaktív kijelzők segítik a tengeri ökoszisztémák megismerését.", "Az akvárium szoros kapcsolatban áll tengerbiológiai kutatóintézetekkel.", "Rendszeresen szerveznek iskolás csoportok számára tanórákat.", "Egyik legnépszerűbb látványossága a trópusi korallzátony-medence."],
-    ro: ["Lume subacvatică.", "Educație.", "Atracție pentru copii.", "Un acvariu care prezintă viața marină a Mediteranei.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Underwater world.", "Education.", "Kids attraction.", "An aquarium showcasing the marine life of the Mediterranean.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    ro: ["Lume subacvatică.", "Atracție pentru copii.", "Un acvariu care prezintă viața marină a Mediteranei.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+    en: ["An aquarium showcasing the marine life of the Mediterranean.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/oran-aquarium-life-v2.webp"},
   {
     id: "taza-national-park-life-v2",
@@ -400,10 +400,10 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     en: "Taza National Park is a remarkable feature of the geography and culture of Algeria. A park protecting a great variety of birds and mammals. Biosphere reserve. Coastal landscape. Flora. This protected area is part of Algeria's diverse wildlife and flora, from the Sahara to the Tell Atlas. Like many notable places in Algeria, it combines Berber heritage with Mediterranean and Saharan influences. Thus, this place contributes to the diverse profile of Algeria."
     },
     factsAdvanced: {
-    de: ["Biosphärenreservat.", "Küstenlandschaft.", "Flora.", "Ein Park, der eine große Vielfalt an Vögeln und Säugetieren schützt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+    de: ["Küstenlandschaft.", "Flora.", "Ein Park, der eine große Vielfalt an Vögeln und Säugetieren schützt.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["1984-ben alapították, területe mintegy 3800 hektár.", "Az UNESCO bioszféra-rezervátumként ismerte el 2004-ben.", "Itt található Algéria egyik legszebb barlangrendszere.", "A park jelképe a ritka kabyl csuszka (Sitta ledanti).", "A tengerparti sziklák között számos rejtett, homokos öböl található.", "A park területén tilos a beépítés, megőrizve a táj eredeti szépségét."],
-    ro: ["Rezervație a biosferei.", "Peisaj costier.", "Floră.", "Un parc care protejează o mare varietate de păsări și mamifere.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Biosphere reserve.", "Coastal landscape.", "Flora.", "A park protecting a great variety of birds and mammals.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    ro: ["Rezervație a biosferei.", "Floră.", "Un parc care protejează o mare varietate de păsări și mamifere.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+    en: ["A park protecting a great variety of birds and mammals.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/taza-national-park-life-v2.webp"},
   {
     id: "belezma-national-park-life-v2",
@@ -428,7 +428,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Atlas-Zedern.", "Wildtiere.", "Wandern.", "Ein bergiger Park, bekannt für seine Atlas-Zedern.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A nemzeti parkot 1984-ben alapították a biodiverzitás megőrzésére.", "Területe körülbelül 262,5 négyzetkilométert tesz ki.", "Itt található az atlaszi cédrus egyik legfontosabb állománya az országban.", "A park legmagasabb pontja a Djebel Chenchel, amely 2136 méter magas.", "Több mint 300 állatfajt azonosítottak a területen, köztük 111 madárfajt.", "A parkban neolitikumi régészeti lelőhelyeket és római kori romokat is feltártak.", "UNESCO bioszféra-rezervátum minősítéssel is rendelkezik."],
     ro: ["Cedri de Atlas.", "Animale sălbatice.", "Drumeții.", "Un parc muntos cunoscut pentru cedrii săi din Atlas.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Atlas cedars.", "Wildlife.", "Hiking.", "A mountainous park known for its Atlas cedars.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A mountainous park known for its Atlas cedars.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/belezma-national-park-life-v2.webp"},
   {
     id: "djurdjura-national-park-life-v2",
@@ -453,7 +453,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Berberaffen.", "Hohe Gipfel.", "Naturlandschaft.", "Hohe Gipfel und Heimat der Berberaffen.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A parkot 1983-ban hozták létre a magashegyi ökoszisztéma védelmére.", "Itt található Afrika legmélyebb barlangja, az Anou Ifflis (1170 méter mély).", "A Lalla Khedidja-csúcs a Djurdjura-hegység legmagasabb pontja.", "A park területe 185 négyzetkilométer.", "A berber majom (Macaca sylvanus) egyik utolsó természetes élőhelye.", "A növényvilágban az atlaszi cédrus és a magyaltölgy dominál.", "Télen a terület népszerű síelési helyszín Tikjda környékén.", "A parkban számos endémikus növényfaj található, amelyek csak itt élnek."],
     ro: ["Macaci de Berberia.", "Vârfuri înalte.", "Peisaj natural.", "Vârfuri înalte și casa macacilor de Berberia.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Barbary macaques.", "High peaks.", "Natural landscape.", "High peaks and home to Barbary macaques.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["High peaks and home to Barbary macaques.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/djurdjura-national-park-life-v2.webp"},
   {
     id: "theniet-el-had-national-park-life-v2",
@@ -478,7 +478,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Zedernwald.", "Wanderwege.", "Ruhe.", "Berühmt für seine dichten Zedernwälder.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["1923-as alapításával ez Algéria legrégebbi nemzeti parkja.", "A park központi eleme az El Meddad cédruserdő.", "Területe 3616 hektár, amely nagyjából 1500 méteres magasságban fekszik.", "A park legmagasabb pontja a Ras El Braret (1787 méter).", "Számos forrás fakad a területen, amelyek tiszta ivóvizet biztosítanak.", "Az atlaszi cédrusok mellett örökzöld tölgyek és borókák is alkotják az erdőt.", "A területen több mint 100 madárfajt figyeltek meg a kutatók."],
     ro: ["Pădure de cedru.", "Trasee de drumeție.", "Liniște.", "Faimos pentru pădurile sale dese de cedru.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Cedar forest.", "Hiking trails.", "Tranquility.", "Famous for its dense cedar forests.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Famous for its dense cedar forests.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/theniet-el-had-national-park-life-v2.webp"},
   {
     id: "tlemcen-national-park-life-v2",
@@ -503,7 +503,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Flora.", "Tlemcen-Wasserfälle.", "Natur.", "Ein Park, der eine reiche Flora und historische Stätten umfasst.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A nemzeti parkot 1993-ban hozták létre Tlemcen város környékén.", "Területe 8225 hektár, változatos domborzattal és növényzettel.", "A Beni Add-barlang Algéria egyik leghíresebb természetes barlangrendszere.", "Az Ourit-viadukt, amely a vízesés felett ível át, Gustave Eiffel tervei alapján készült.", "A parkban található a Lalla Setti-fennsík, amely népszerű kilátóhely.", "Több mint 140 állatfaj él a területen, köztük ritka ragadozók.", "A park magában foglalja a középkori Mansourah mecset és erőd maradványait."],
     ro: ["Floră.", "Cascadele Tlemcen.", "Natură.", "Un parc care cuprinde o floră bogată și situri istorice.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Flora.", "Tlemcen waterfalls.", "Nature.", "A park that includes rich flora and historical sites.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A park that includes rich flora and historical sites.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/tlemcen-national-park-life-v2.webp"},
   {
     id: "guelma-thermal-baths-life-v2",
@@ -528,7 +528,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Heißes Wasser.", "Erholung.", "Familien.", "Thermalquellen, die bei Familien sehr beliebt sind.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A források vize a feltörés helyén eléri a 95 Celsius-fokot.", "A Hammam Debagh mésztufa-formációit 'A vízesés' (La Cascade) néven ismerik.", "A víz magas ásványianyag-tartalma miatt gyógyító hatású a reumatikus panaszokra.", "A travertin lerakódások több mint 20 méter magasra is megnőhetnek.", "Ez Algéria egyik leglátogatottabb belföldi turisztikai célpontja.", "A források vizét már a rómaiak is használták fürdőzésre (Aquae Thibilitanae).", "A közeli Guelma városában ókori római színház is található."],
     ro: ["Apă caldă.", "Relaxare.", "Familii.", "Izvoare termale foarte populare printre familii.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Hot water.", "Relaxation.", "Families.", "Thermal springs that are very popular among families.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Thermal springs that are very popular among families.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/guelma-thermal-baths-life-v2.webp"},
   {
     id: "el-oued-palm-groves-life-v2",
@@ -552,8 +552,8 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     factsAdvanced: {
     de: ["Oasenbau.", "Datteln.", "Tradition.", "Traditionelle Oasen-Landwirtschaft in der Wüste.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A 'Ghout' rendszer lehetővé teszi a pálmák öntözés nélküli nevelését.", "El Oued a Souf-régió központja, ahol több ezer ilyen pálmaliget található.", "A város beceneve 'Az ezer kupola városa' a jellegzetes építészeti stílusa miatt.", "A Deglet Nour datolya 'a fény ujja' jelentéssel bír, és világhírű exportcikk.", "A pálmák alatti árnyékban gyakran termesztenek zöldségeket és dohányt is.", "A talajvízszint emelkedése és süllyedése folyamatos kihívást jelent a gazdáknak.", "A régió kultúrája szorosan kötődik a datolya betakarítási ciklusához."],
-    ro: ["Amenajarea oazelor.", "Curmale.", "Tradiție.", "Agricultură tradițională de oază în deșert.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Oasis farming.", "Dates.", "Tradition.", "Traditional oasis farming in the desert.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    ro: ["Amenajarea oazelor.", "Tradiție.", "Agricultură tradițională de oază în deșert.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+    en: ["Traditional oasis farming in the desert.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/el-oued-palm-groves-life-v2.webp"},
   {
     id: "mascara-vineyards-life-v2",
@@ -578,7 +578,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Weinbau.", "Klima.", "Tradition.", "Region mit langer Tradition im Weinanbau.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Mascara Algéria egyik legrégebbi bortermelő központja.", "A régió klímáját a tenger közelsége és a hegyek védőhatása befolyásolja.", "A legfontosabb szőlőfajták közé tartozik a Grenache és a Carignan.", "A területen található 'Coteaux de Mascara' borok nemzetközi hírnévvel bírnak.", "A szőlőskertek gyakran 400-800 méteres tengerszint feletti magasságban fekszenek.", "A szüret általában augusztus végétől szeptember végéig tart.", "A mezőgazdaság a helyi lakosság több mint felének biztosít megélhetést."],
     ro: ["Viticultură.", "Climat.", "Tradiție.", "Regiune cu o lungă tradiție în viticultură.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Viticulture.", "Climate.", "Tradition.", "Region with a long tradition in viticulture.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Region with a long tradition in viticulture.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/mascara-vineyards-life-v2.webp"},
   {
     id: "tipaza-coastal-agriculture-life-v2",
@@ -603,7 +603,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Obstbau.", "Gemüse.", "Küstenklima.", "Fruchtbares Land direkt am Meer.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Tipaza régiója a citrusfélék, különösen a narancs és a mandarin fő termőhelye.", "A tengerparti klíma lehetővé teszi a zöldségek korai betakarítását.", "A területen jelentős az üvegházi termesztés is a hatékonyság növelése érdekében.", "A római kori romok szomszédságában ma is aktív mezőgazdasági munka folyik.", "A régió talaja vulkanikus és üledékes kőzetek keverékéből áll, ami rendkívül tápdús.", "Tipaza híres az asztali szőlő és az eper termesztéséről is.", "A mezőgazdasági termékek nagy részét a közeli Algír piacaira szállítják."],
     ro: ["Cultivarea fructelor.", "Legume.", "Climat costier.", "Pământ fertil chiar pe malul mării.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Fruit growing.", "Vegetables.", "Coastal climate.", "Fertile land right by the sea.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Fertile land right by the sea.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/tipaza-coastal-agriculture-life-v2.webp"},
   {
     id: "ghardaia-oasis-agriculture-life-v2",
@@ -628,7 +628,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Datteln.", "Bewässerung.", "Kultur.", "Einzigartige Oasen-Kultur mit traditioneller Bewässerung.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A M'zab-völgy öntözőrendszere a 11. század óta működik folyamatosan.", "Az oázisban több mint 60 000 datolyapálma található.", "A víz elosztása szigorú közösségi szabályok szerint történik.", "A foggara-rendszer a föld alatti víztartó rétegekből vezeti a vizet az oázisba.", "A háromszintes növénytermesztés maximalizálja a terület és a víz kihasználását.", "A datolya betakarítása után a magokat gyakran állati takarmányként hasznosítják.", "UNESCO Világörökségi helyszín a technikai és kulturális értéke miatt."],
     ro: ["Curmale.", "Irigare.", "Cultură.", "Cultură de oază unică cu irigare tradițională.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Dates.", "Irrigation.", "Culture.", "Unique oasis culture with traditional irrigation.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Unique oasis culture with traditional irrigation.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/ghardaia-oasis-agriculture-life-v2.webp"},
   {
     id: "souk-ahras-agriculture-life-v2",
@@ -653,7 +653,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Getreide.", "Hülsenfrüchte.", "Klima.", "Region mit Fokus auf Getreide und Hülsenfrüchte.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Souk Ahras Algéria egyik vezető tartománya a búza- és árpareprodukcióban.", "A régió átlagos csapadékmennyisége meghaladja az évi 600 mm-t.", "Az ókori Tagaste (a mai Souk Ahras) Szent Ágoston szülőhelye és mezőgazdasági központ volt.", "A területen jelentős az olívaolaj-termelés is, számos modern feldolgozóval.", "Az állattenyésztésben a szarvasmarha és a juh tartása dominál.", "A mezőgazdaság modernizálása érdekében nagyszabású öntözési projektek zajlanak.", "A tartomány erdeiben parafát is termelnek, ami fontos exportcikk."],
     ro: ["Cereale.", "Leguminoase.", "Climat.", "Regiune axată pe cereale și leguminoase.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Grains.", "Legumes.", "Climate.", "Region focusing on grains and legumes.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Region focusing on grains and legumes.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/souk-ahras-agriculture-life-v2.webp"},
   {
     id: "skikda-agriculture-life-v2",
@@ -678,7 +678,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Erdbeeren.", "Zitrusfrüchte.", "Klima.", "Bekannt für Erdbeeren und Zitrusfrüchte.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["Skikda az ország epertermelésének több mint 60%-át adja.", "Az eper-fesztivált minden évben júniusban rendezik meg a városban.", "A tartományban található a Saf-Saf folyó völgye, amely rendkívül termékeny.", "A citrusfélék közül a narancs és a citrom termesztése a legjelentősebb.", "A paradicsomtermelés feldolgozóiparra (konzervgyárakra) támaszkodik.", "A régió klímája szubtrópusi jellegű, enyhe telekkel.", "Skikda kikötője fontos szerepet játszik a mezőgazdasági termékek exportjában."],
     ro: ["Căpșuni.", "Citrice.", "Climat.", "Cunoscută pentru căpșuni și citrice.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Strawberries.", "Citrus fruits.", "Climate.", "Known for strawberries and citrus fruits.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Known for strawberries and citrus fruits.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/skikda-agriculture-life-v2.webp"},
   {
     id: "tindouf-agriculture-life-v2",
@@ -703,7 +703,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Wüstenanbau.", "Resilienz.", "Datteln.", "Kleine landwirtschaftliche Projekte in der Wüste.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A mezőgazdasági területeket gyakran homokfogó kerítésekkel védik a dűnéktől.", "A napenergia használata alapvető a vízkivételhez a távoli parcellákon.", "A legfontosabb növények a hagyma, paradicsom és a különféle takarmánynövények.", "A datolyapálmák száma folyamatosan nő a kormányzati támogatásoknak köszönhetően.", "A talajvíz kinyerése több száz méter mély kutakból történik.", "A mezőgazdasági oktatás kulcsfontosságú a fiatal generációk számára a régióban.", "Kísérleteznek a szárazságtűrő növényfajok honosításával is."],
     ro: ["Agricultură în deșert.", "Reziliență.", "Curmale.", "Mici proiecte agricole în deșert.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Desert farming.", "Resilience.", "Dates.", "Small agricultural projects in the desert.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Small agricultural projects in the desert.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/tindouf-agriculture-life-v2.webp"},
   {
     id: "bejaia-botanical-garden-life-v2",
@@ -728,7 +728,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Pflanzenwelt.", "Ruhe.", "Spaziergänge.", "Ein entspannender Garten für Familien in Béjaïa.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A kert Béjaïa szívében, a kikötő közelében helyezkedik el.", "Több mint 200 különböző növényfajt gyűjtöttek össze a világ minden tájáról.", "A kertben található néhány több mint 100 éves óriáspálma is.", "Fontos helyszíne a veszélyeztetett helyi növényfajok megőrzésének.", "A francia gyarmati építészet stílusjegyei is felfedezhetők a kert kialakításában.", "Ingyenesen látogatható közparkként is funkcionál a helyiek számára.", "Oktatási programokat is szerveznek itt iskolásoknak a biodiverzitásról."],
     ro: ["Floră.", "Liniște.", "Plimbări.", "O grădină relaxantă pentru familii în Béjaïa.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Flora.", "Tranquility.", "Walks.", "A relaxing garden for families in Béjaïa.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["A relaxing garden for families in Béjaïa.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }, image: "/poi-images/bejaia-botanical-garden-life-v2.webp"},
   {
     id: "batna-amusement-park-life-v2",
@@ -753,7 +753,7 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     de: ["Fahrgeschäfte.", "Spiele.", "Spaß.", "Unterhaltungspark für Kinder in Batna.", "Liegt im Gebiet der Demokratischen Volksrepublik Algerien.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
     hu: ["A Lompi Family Park Batna egyik legfőbb turisztikai vonzereje.", "A park területén több mint 30 különböző attrakció és játék található.", "Saját óriáskereke van, amelyről szép kilátás nyílik az Aurès-hegységre.", "A parkban modern biztonsági rendszereket és európai szabványú gépeket használnak.", "Évente több százezer látogatót fogad Kelet-Algériából.", "Külön szekciókat alakítottak ki a legkisebb gyermekek számára biztonságos játékokkal.", "A park területén szabadtéri színház is működik kulturális eseményekhez."],
     ro: ["Atracții.", "Jocuri.", "Distracție.", "Parc de divertisment pentru copii în Batna.", "Se află pe teritoriul Republicii Algeriene Democratice și Populare.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-    en: ["Rides.", "Games.", "Fun.", "Amusement park for kids in Batna.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+    en: ["Amusement park for kids in Batna.", "Located within the People's Democratic Republic of Algeria.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   }
 ];

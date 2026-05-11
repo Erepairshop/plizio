@@ -1,0 +1,14 @@
+{
+  "lang": "hu",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gishwati-ridge-relief-v2",
+      "description": "Kiemelkedő hegygerinc a Gishwati-erdő területén, amely meghatározza a nyugat-ruandai táj domborzatát.",
+      "facts": ["Hegygerinc", "Nyugat-Ruanda", "Gishwati-erdő", "Fontos domborzati elem"]
+    }
+  ]
+}

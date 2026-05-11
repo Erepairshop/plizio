@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Argentina",
+  "files": [
+    "lib/visualLab/data/poiExtraArgentinaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ar-u-trelew-cities-v2",
+      "description": "A major city in the Chubut Valley founded by Welsh settlers, known for its paleontological museum and commercial importance.",
+      "facts": ["Home to the MEF Paleontological Museum", "Founded as a railhead for the Central Chubut Railway", "Key hub for the region's textile industry"]
+    },
+    {
+      "id": "ar-u-puerto-madryn-cities-v2",
+      "description": "A popular coastal city on the Golfo Nuevo, famous as a gateway to Peninsula Valdés for whale watching and wildlife tourism.",
+      "facts": ["One of the world's best spots for Southern Right Whale watching", "Founded by Welsh immigrants in 1865", "Major center for scuba diving and marine activities"]
+    },
+    {
+      "id": "ar-u-esquel-cities-v2",
+      "description": "A picturesque town in the foothills of the Andes, serving as a base for exploring the Los Alerces National Park and skiing.",
+      "facts": ["Home to the historic 'La Trochita' steam train", "Gateway to the UNESCO-listed Los Alerces National Park", "Popular winter sports destination at La Hoya"]
+    },
+    {
+      "id": "ar-x-cordoba-cities-v2",
+      "description": "Argentina's second-largest city, Córdoba is a vibrant cultural hub known for its colonial history, universities, and surrounding hills.",
+      "facts": ["Home to the oldest university in Argentina", "Features the UNESCO-listed Jesuit Block", "Known for its lively 'cuarteto' music and nightlife"]
+    },
+    {
+      "id": "ar-x-rio-cuarto-cities-v2",
+      "description": "An important commercial and agricultural city in the south of Córdoba Province, often referred to as the 'Empire of the South'.",
+      "facts": ["Major center for corn and soy production", "Home to the National University of Río Cuarto", "Strategic transport hub in central Argentina"]
+    },
+    {
+      "id": "ar-x-villa-maria-cities-v2",
+      "description": "A modern and thriving city in central Córdoba, known for its dairy industry and the popular Festival of Festivals.",
+      "facts": ["Hosts the massive National Festival of Peñas", "One of the most important dairy basins in the country", "Located along the vital CTalamochita River"]
+    },
+    {
+      "id": "ar-x-villa-carlos-paz-cities-v2",
+      "description": "A premier tourist destination on the shores of Lake San Roque, famous for its summer theater and scenic mountain landscapes.",
+      "facts": ["Famous for its iconic Cuckoo Clock monument", "Major hub for summer theater and entertainment", "Gateway to the beautiful Punilla Valley"]
+    },
+    {
+      "id": "ar-x-san-francisco-cities-v2",
+      "description": "A productive city on the border between Córdoba and Santa Fe, known for its diverse industries and agricultural strength.",
+      "facts": ["Founded as an agricultural colony in 1886", "Key center for metalworking and food industries", "Located on a major national highway crossroads"]
+    },
+    {
+      "id": "ar-w-corrientes-cities-v2",
+      "description": "The capital of Corrientes Province, located on the banks of the Paraná River and known for its colonial charm and carnivals.",
+      "facts": ["One of the oldest cities in Argentina", "Famous for its elaborate and colorful carnival celebrations", "Features a scenic waterfront 'costanera' walkway"]
+    },
+    {
+      "id": "ar-w-goya-cities-v2",
+      "description": "The second-largest city in Corrientes, Goya is a river port famous for its tobacco industry and sport fishing.",
+      "facts": ["Hosts the prestigious Surubí National Festival", "Major center for the tobacco processing industry", "Founded in the late 18th century as a river port"]
+    },
+    {
+      "id": "ar-w-paso-de-los-libres-cities-v2",
+      "description": "A strategic border city on the Uruguay River, connected by an international bridge to the Brazilian city of Uruguaiana.",
+      "facts": ["Major international trade hub with Brazil", "Birthplace of President Arturo Frondizi", "Home to the oldest carnival in Argentina"]
+    },
+    {
+      "id": "ar-w-curuzu-cuatia-cities-v2",
+      "description": "A historic city in southern Corrientes, founded by Manuel Belgrano and known as the 'Cradle of the Chamamé'.",
+      "facts": ["First city founded by a native Argentine government", "Important center for the regional cattle industry", "Strong traditions in Chamamé folk music"]
+    },
+    {
+      "id": "ar-e-parana-cities-v2",
+      "description": "The capital of Entre Ríos Province, Paraná is a scenic city perched on high cliffs overlooking the majestic Paraná River.",
+      "facts": ["Served as the capital of the Argentine Confederation", "Known for its beautiful Urquiza Park", "Connected to Santa Fe via an underwater tunnel"]
+    },
+    {
+      "id": "ar-e-concordia-cities-v2",
+      "description": "A thriving city on the Uruguay River, known for its citrus production, thermal springs, and the nearby Salto Grande dam.",
+      "facts": ["Major center for orange and lemon exports", "Home to popular thermal water resorts", "Strategic point for hydroelectric power generation"]
+    },
+    {
+      "id": "ar-e-gualeguaychu-cities-v2",
+      "description": "Located in southeastern Entre Ríos, Gualeguaychú is world-famous for hosting the largest and most spectacular carnival in Argentina.",
+      "facts": ["Home to the massive 'Carnival of the Country'", "Popular river beach and camping destination", "Known for its environmental activism and parks"]
+    }
+  ]
+}

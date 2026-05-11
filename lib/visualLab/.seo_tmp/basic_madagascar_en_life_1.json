@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "Kirindy Forest is a dry deciduous forest famous for its unique endemic wildlife, including the Fosa and various lemur species.",
+      "facts": ["Unique dry deciduous forest", "Home to Fosa predators", "Endemic lemur species habitat"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "Tsingy de Bemaraha National Park is a UNESCO World Heritage site known for its dramatic limestone formations and diverse wildlife.",
+      "facts": ["UNESCO World Heritage site", "Dramatic limestone landscape", "Rich endemic biodiversity"]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "description": "Sahambavy is the center of tea cultivation in Madagascar, offering picturesque landscapes of tea plantations nestled in rolling hills.",
+      "facts": ["Madagascar's tea hub", "Scenic rolling landscapes", "Unique agricultural tourism"]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Antsirabe offers various recreational spaces including local park areas that serve as community hubs for families and outdoor activities.",
+      "facts": ["Local family park", "Community recreational space", "Outdoor activity area"]
+    },
+    {
+      "id": "andasibe-orchid-park-life-v2",
+      "description": "Andasibe is renowned for its orchid-rich forests and botanical diversity, attracting nature enthusiasts interested in rare flora.",
+      "facts": ["Rich botanical diversity", "Famous orchid habitat", "Nature enthusiast destination"]
+    },
+    {
+      "id": "vakona-lemuren-insel-life-v2",
+      "description": "The Lemur Island at Vakona Forest Lodge is a protected habitat allowing visitors to observe several lemur species up close in a natural environment.",
+      "facts": ["Protected lemur sanctuary", "Close wildlife encounters", "Natural environment observation"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "The city park in Tamatave (Toamasina) provides a green sanctuary in the bustling port city, popular for relaxation and local gatherings.",
+      "facts": ["Green urban sanctuary", "Relaxation area", "Popular local gathering spot"]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "description": "The coral reefs surrounding Nosy Be offer spectacular diving and snorkeling opportunities, showcasing a vibrant underwater ecosystem.",
+      "facts": ["Vibrant coral reefs", "Spectacular diving site", "Rich marine ecosystem"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "The areas bordering Ranomafana National Park include educational centers focused on local fauna conservation and biodiversity research.",
+      "facts": ["Biodiversity research hub", "Local fauna conservation", "Educational wildlife focus"]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "The rural landscapes around Antsirabe are dominated by vibrant rice paddies, reflecting the agricultural traditions of the central highlands.",
+      "facts": ["Central highland agriculture", "Vibrant rice paddies", "Reflects local traditions"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "Nosy Tanikely is a protected marine reserve famous for its exceptional snorkeling, offering clear waters teeming with marine life.",
+      "facts": ["Protected marine reserve", "Exceptional snorkeling site", "Abundant marine life"]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "The botanical garden in Toliara focuses on showcasing the unique flora of southern Madagascar, including various succulent species.",
+      "facts": ["Unique southern flora", "Focus on succulents", "Botanical education hub"]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "description": "The Pangalanes Canal near Manakara is a picturesque waterway vital for local transport and eco-tourism, meandering through tropical coastal flora.",
+      "facts": ["Picturesque tropical canal", "Vital transport waterway", "Eco-tourism destination"]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Mahajanga's coastal beaches are popular recreational areas, offering beautiful sunset views and a lively seaside atmosphere.",
+      "facts": ["Popular coastal beach", "Scenic sunset views", "Lively seaside environment"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "Tsingy de Namoroka National Park features unique limestone karst landscapes and significant wildlife diversity in western Madagascar.",
+      "facts": ["Unique karst landscape", "Western biodiversity hotspot", "Remote natural park"]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "lang": "hu",
+  "country": "Jamaica",
+  "files": ["lib/visualLab/data/poiExtraJamaicaEconomicV2.ts", "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts", "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts", "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"],
+  "items": [
+    {"id": "jm-kingston-harbour-economic-v2", "description": "A Kingston-kikötő egy fontos kereskedelmi kikötő Jamaikában. Egy jelentős gazdasági központ.", "facts": ["Fontos kereskedelmi kikötő", "Gazdasági jelentőség", "Kikötőinfrastruktúra", "Nemzetközi kereskedelem"]},
+    {"id": "jm-montego-freeport-economic-v2", "description": "A Montego-szabadkikötő egy gazdasági központ Jamaikában. Egy fontos kereskedelmi hely.", "facts": ["Szabadkikötő", "Kereskedelmi zóna", "Gazdasági jelentőség", "Nemzetközi kereskedelem"]},
+    {"id": "jm-sugar-factory-economic-v2", "description": "A cukorgyár feldolgozó üzem Jamaikában. Egy fontos mezőgazdasági feldolgozó vállalkozás.", "facts": ["Cukorfeldolgozás", "Mezőgazdasági feldolgozás", "Ipari termelés", "Exporttermék"]},
+    {"id": "jm-port-esquivel-economic-v2", "description": "Az Esquivel-kikötő egy kikötő Jamaikában. Egy kereskedelmi kikötő.", "facts": ["Kereskedelmi kikötő", "Kikötőinfrastruktúra", "Kereskedelmi zóna", "Hajóforgalom"]},
+    {"id": "jm-energy-power-economic-v2", "description": "Az energiamű egy áramtermelő létesítmény Jamaikában. Egy fontos infrastruktúra-projekt.", "facts": ["Áramtermelés", "Energiaüzem", "Erőmű", "Infrastruktúra"]},
+    {"id": "jm-rum-distillery-economic-v2", "description": "A rumgyár egy szpiritusz-gyártás Jamaikában. Egy ismert exporttermék.", "facts": ["Rumgyártás", "Szpiritusz-desztilláció", "Élelmiszergyártás", "Exporttermék"]},
+    {"id": "jm-coffee-processor-economic-v2", "description": "A kávéfeldolgozó egy mezőgazdasági feldolgozó üzem Jamaikában. Egy fontos mezőgazdasági vállalkozás.", "facts": ["Kávégyártás", "Mezőgazdasági feldolgozás", "Mezőgazdasági ipar", "Exporttermék"]},
+    {"id": "jm-port-royal-terminal-economic-v2", "description": "A Port-Royal-terminál egy kikötőlétesítmény Jamaikában. Egy kereskedelmi terminál.", "facts": ["Kikötő-terminál", "Konténer-kikötő", "Kereskedelmi zóna", "Hajóforgalom"]},
+    {"id": "jm-sand-export-economic-v2", "description": "A homokexport egy nyersanyag-exportál vállalkozás Jamaikában. Egy bányavállalkozás.", "facts": ["Homokbányászat", "Nyersanyagexport", "Bányaipar", "Exporttermék"]},
+    {"id": "jm-port-kaiser-economic-v2", "description": "A Kaiser-kikötő egy kikötő Jamaikában. Egy kereskedelmi kikötő.", "facts": ["Kereskedelmi kikötő", "Kikötőinfrastruktúra", "Kereskedelmi zóna", "Hajóforgalom"]},
+    {"id": "jm-fisheries-economic-v2", "description": "A halászat egy tengergazdaság Jamaikában. Egy fontos gazdasági szektor.", "facts": ["Halászat", "Tengergazdaság", "Élelmiszergyártás", "Exporttermék"]},
+    {"id": "jm-cement-plant-economic-v2", "description": "A cementgyár egy építőanyag-gyártó Jamaikában. Egy fontos ipari vállalkozás.", "facts": ["Cementgyártás", "Építőanyag-ipar", "Ipari termelés", "Építőanyagok"]},
+    {"id": "jm-lumber-mill-economic-v2", "description": "A szalagfürészműhely egy faipari feldolgozó Jamaikában. Egy erdőgazdasági termékek feldolgozója.", "facts": ["Fafeldolgozás", "Szalagfűrészműhely", "Erdőgazdaság", "Építőanyagok"]},
+    {"id": "jm-poultry-processing-economic-v2", "description": "A baromfifeldolgozás egy élelmiszeripar Jamaikában. Egy mezőgazdasági feldolgozó üzem.", "facts": ["Baromfifeldolgozás", "Élelmiszergyártás", "Mezőgazdasági feldolgozás", "Exporttermék"]},
+    {"id": "jm-bottling-plant-economic-v2", "description": "Az üvegeztető üzem egy ital-gyártó Jamaikában. Egy feldolgozó vállalkozás.", "facts": ["Ital-töltés", "Élelmiszergyártás", "Ipari termelés", "Exporttermék"]},
+    {"id": "jm-telecom-hub-economic-v2", "description": "A telekommunikációs központ egy kommunikációs centrum Jamaikában. Egy fontos infrastruktúra-projekt.", "facts": ["Telekommunikáció", "Kommunikációs központ", "IT-infrastruktúra", "Szolgáltatások"]},
+    {"id": "jm-solar-farm-economic-v2", "description": "A napsugár-farm egy energiatelepülés Jamaikában. Egy megújuló energiaprojekt.", "facts": ["Napenergia", "Megújuló energia", "Áramtermelés", "Infrastruktúra"]},
+    {"id": "seville-la-nueva-ruins-history-v2", "description": "A Seville la Nueva romjai egy régészeti lelőhely Jamaikában. Egy történelmi település.", "facts": ["Régészeti lelőhely", "Történelmi romok", "Gyarmati korról", "Kulturális örökség"]},
+    {"id": "jm-falmouth-cruise-terminal-landmarks-v2", "description": "A Falmouth Cruise Terminal egy kikötőlétesítmény Jamaikában. Egy turisztikai kikötő.", "facts": ["Hajóút-terminál", "Kikötőlétesítmény", "Turizmus", "Hajóforgalom"]},
+    {"id": "bull-head-mountain-nature-v2", "description": "A Bull-Head-hegy egy természeti képződmény Jamaikában. Egy geográfiai magaslat.", "facts": ["Hegy", "Természeti képződmény", "Geográfiai jellemző", "Geográfia"]},
+    {"id": "great-morass-nature-v2", "description": "A Great Morass egy mocsárterület Jamaikában. Egy ökológiai jelentőségű terület.", "facts": ["Mocsárterület", "Nedves biotóp", "Természetvédelem", "Ökoszisztéma"]}
+  ]
+}

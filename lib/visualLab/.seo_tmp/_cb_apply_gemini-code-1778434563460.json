@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGabonLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGabonLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pont-lianes-poubara-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lianenbrücke von Poubara (Pont de Lianes de Poubara) ist ein faszinierendes Beispiel für traditionelle afrikanische Ingenieurskunst und befindet sich in der Nähe von Franceville am Ogooué-Fluss. Diese Brücke wird vollständig aus natürlichen Materialien hergestellt, primär aus Lianen und Holzfasern, die aus dem umliegenden Regenwald gewonnen werden. Die Technik des Brückenbaus wird seit Generationen innerhalb der lokalen Gemeinschaft weitergegeben und ist tief in der Kultur der Region Haut-Ogooué verwurzelt. Die Brücke überspannt den reißenden Ogooué und dient seit jeher als wichtige Verbindung für die lokale Bevölkerung, um den Fluss sicher zu überqueren. Ein bemerkenswerter Aspekt ist die jährliche Erneuerung der Brücke; sie wird rituell von den Dorfbewohnern gewartet und verstärkt, um ihre Stabilität gegen die Witterungseinflüsse zu gewährleisten. Das Begehen der Brücke ist ein besonderes Erlebnis, da sie bei jedem Schritt leicht schwingt, aber dennoch eine erstaunliche Tragkraft besitzt. In unmittelbarer Nähe befinden sich die Poubara-Wasserfälle, deren Rauschen die Atmosphäre an der Brücke prägt. Dieses Bauwerk ist weit mehr als eine Transportmöglichkeit; es ist ein lebendiges Denkmal für das harmonische Zusammenleben von Mensch und Natur in Gabun. Für Besucher bietet der Ort einen authentischen Einblick in die handwerklichen Traditionen der Vorfahren, die trotz moderner Infrastrukturprojekte wie dem nahegelegenen Poubara-Staudamm bis heute bewahrt werden.",
+        "hu": "A Poubara lianánhíd (Pont de Lianes de Poubara) az afrikai népi építészet egyik legkülönlegesebb példája, amely az Ogooué-folyó felett ível át Franceville közelében. Ez a híd kizárólag természetes anyagokból, az esőerdőben gyűjtött lianákból és növényi rostokból készül, fém szögek vagy modern kötőelemek használata nélkül. A hídépítés technikája apáról fiúra száll a helyi közösségekben, és fontos részét képezi a Haut-Ogooué tartomány kulturális örökségének. A lianánhíd nem csupán látványosság, hanem funkcionális átkelőhely is, amely évszázadok óta biztosítja a kapcsolatot a folyó két partja között. Minden évben sor kerül a szerkezet rituális felújítására és megerősítésére, amely során a falu férfiai közösen fonják át a meggyengült részeket, biztosítva a híd teherbírását. A híd hossza és rugalmassága miatt az átkelés sajátos ritmust igényel, mivel a szerkezet folyamatosan mozog a látogató alatt. A közelben dübörgő Poubara-vízesés látványa és hangja még misztikusabbá teszi a helyszínt. Bár a modern mérnöki létesítmények, mint a közeli vízerőmű, átalakították a környéket, a lianánhíd megmaradt a természetes egyensúly és az ősi tudás szimbólumának. A turisták számára ez az egyik legfontosabb megálló Kelet-Gabonban, ahol testközelből tapasztalható meg az erdő lakóinak találékonysága.",
+        "ro": "Podul de liane de la Poubara reprezintă o capodoperă a ingineriei tradiționale africane, fiind situat în provincia Haut-Ogooué, la sud de Franceville. Această structură remarcabilă este construită integral din materiale organice provenite din pădurea tropicală înconjurătoare, utilizând liane rezistente împletite cu o măiestrie transmisă din generație în generație. Podul traversează cursul superior al fluviului Ogooué, într-o zonă unde apele sunt repezi și periculoase, oferind o soluție ingenioasă de transport pentru comunitățile locale. Un aspect fascinant al acestui pod este natura sa perisabilă, care necesită o întreținere ritualică anuală; membrii comunității se adună pentru a înlocui secțiunile uzate, asigurând astfel siguranța trecătorilor. Experiența traversării este una plină de adrenalină, deoarece podul este flexibil și se balansează ușor deasupra abisului, oferind în același timp o perspectivă spectaculoasă asupra cascadelor Poubara din apropiere. Podul de liane nu este doar un obiectiv turistic, ci un simbol al rezilienței culturale și al adaptării omului la mediul ecuatorial fără utilizarea tehnologiei moderne. Chiar și după construirea marilor baraje hidroelectrice în regiune, acest vestigiu viu al trecutului rămâne respectat și utilizat. Este considerat unul dintre cele mai autentice monumente de patrimoniu imaterial din Gabon, reflectând legătura spirituală profundă dintre populația locală și forțele naturii.",
+        "en": "The Bridge of Vines of Poubara (Pont de Lianes de Poubara) is a stunning masterpiece of traditional African engineering located near Franceville on the Ogooué River. This bridge is constructed entirely from natural forest materials, primarily sturdy vines and plant fibers harvested from the surrounding jungle, without the use of a single metal nail. The specialized weaving techniques required to build and maintain the structure have been passed down through generations of local craftsmen in the Haut-Ogooué region. Spanning the powerful currents of the Ogooué, the bridge has historically served as a vital link between riverbank communities. A key cultural tradition involves the collective annual renewal of the bridge, where villagers collaborate to reinforce the structure, ensuring it remains safe for passage against the humid tropical climate. Crossing the vine bridge is a unique sensory experience, as the structure sways gently with each step, yet possesses remarkable tensile strength. The proximity to the thunderous Poubara Falls adds a dramatic backdrop to this ancient feat of craftsmanship. In an era of modern infrastructure, such as the nearby Grand Poubara Dam, the vine bridge stands as a resilient symbol of Gabonese heritage and ecological harmony. It remains a major attraction for those seeking to witness the ingenuity of indigenous knowledge and the enduring bond between the people of Gabon and their rainforest environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brücke besteht zu 100 % aus natürlichen Lianen und Pflanzenfasern.",
+          "Sie befindet sich am Oberlauf des Ogooué-Flusses bei Franceville.",
+          "Die Brückenbautechnik wird rituell von Generation zu Generation vererbt.",
+          "Jedes Jahr wird die Struktur gemeinschaftlich verstärkt und erneuert.",
+          "In unmittelbarer Nähe befinden sich die beeindruckenden Poubara-Wasserfälle.",
+          "Trotz ihrer fragilen Erscheinung kann die Brücke mehrere Personen gleichzeitig tragen."
+        ],
+        "hu": [
+          "A híd rögzítéséhez egyáltalán nem használnak fém szegeket vagy csavarokat.",
+          "Hagyományosan a helyi falvak férfiai végzik a híd éves karbantartását.",
+          "A szerkezet anyaga az esőerdőben honos, rendkívül erős lianafajta.",
+          "A híd az Ogooué-folyó egyik legszűkebb és legvadvizesebb szakasza felett ível át.",
+          "A közeli Poubara-vízesés moraja messziről hallható az átkelőnél.",
+          "Ez Gabon egyik legtöbbet fotózott hagyományos kulturális emléke."
+        ],
+        "ro": [
+          "Podul este reconstruit periodic pentru a preveni putrezirea lianelor.",
+          "Tehnica de împletire este specifică etniilor din provincia Haut-Ogooué.",
+          "Traversarea necesită descălțarea pentru a nu deteriora fibrele vegetale.",
+          "Este situat în amonte de barajul hidroelectric Grand Poubara.",
+          "Structura suspendată poate atinge lungimi de peste 30 de metri.",
+          "Podul reprezintă un echilibru perfect între utilitate și conservarea naturii."
+        ],
+        "en": [
+          "The bridge is made exclusively from vines and fibers found in the local forest.",
+          "It spans the Ogooué River, one of Africa's major waterways.",
+          "Annual maintenance is a communal social and ritual event for local villages.",
+          "The construction technique predates the colonial era by centuries.",
+          "The nearby Poubara Falls are a major natural attraction in the region.",
+          "It remains a functional pedestrian crossing for the local population."
+        ]
+      }
+    },
+    {
+      "id": "gare-transgabonais-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bahnhof von Owendo (Gare d'Owendo) ist der wichtigste Eisenbahnknotenpunkt Gabuns und der westliche Endpunkt der Trans-Gabun-Eisenbahn (Transgabonais). Er liegt im Industriegebiet von Owendo, südlich von Libreville, und bildet die lebenswichtige Schnittstelle zwischen dem Schienennetz und dem internationalen Seehafen. Der Bahnhof ist der Ausgangspunkt für die über 600 Kilometer lange Strecke, die quer durch den dichten Regenwald bis nach Franceville im Osten führt. Eröffnet in den späten 1970er Jahren, wurde der Bahnhof gebaut, um den Abtransport von Mangan, Uran und Tropenholz zu revolutionieren, was zuvor logistisch kaum zu bewältigen war. Heute ist der Bahnhof Owendo ein geschäftiger Ort, an dem sowohl riesige Güterzüge als auch die Personenzüge der Betreibergesellschaft SETRAG abgefertigt werden. Die Architektur ist funktional und robust, ausgelegt auf die hohen Belastungen des schweren Erztransports. Für die Passagiere ist der Bahnhof das Tor zum Landesinneren, wobei die Fahrt nach Franceville als eine der beeindruckendsten Eisenbahnreisen Afrikas gilt. In den letzten Jahren wurde der Bahnhof modernisiert, um den Komfort für Reisende zu erhöhen und die logistische Effizienz im Güterverkehr zu steigern. Er ist ein Symbol für die nationale Einheit Gabuns, da er die isolierten Provinzen im Osten mit dem politischen und wirtschaftlichen Zentrum an der Küste verbindet. Der Bahnhof Owendo ist nicht nur ein Verkehrsgebäude, sondern ein zentraler Motor für das wirtschaftliche Überleben des Landes.",
+        "hu": "Az owendói vasútállomás (Gare d'Owendo) Gabon vasúti közlekedésének dobogó szíve, a Transzgaboni Vasútvonal (Transgabonais) nyugati végállomása. A Libreville déli szélén, az owendói ipari zónában található állomás közvetlen összeköttetést biztosít a mélyvízi kikötővel, lehetővé téve a belföldről érkező nyersanyagok tengeri exportját. Az állomást az 1970-es évek végén adták át, egy olyan monumentális projekt részeként, amelynek célja az ország keleti részén található bányák és az esőerdők összekapcsolása volt a külvilággal. Az owendói állomásról indulnak a több mint 600 kilométeres útjukra a SETRAG által üzemeltetett szerelvények, amelyek átszelik az egyenlítői őserdőt Franceville irányába. Az épület és a kapcsolódó rakodóterületek mérete jól tükrözi a rajta áthaladó forgalom súlyát: itt rakodják át a Moandából érkező mangánt és a hatalmas rönkfákat a hajókra. A személyszállítás szempontjából is kiemelt helyszín, hiszen sok gaboni számára ez az egyetlen megbízható és megfizethető kapu a főváros és a vidéki tartományok között. A vasútállomás környéke folyamatosan fejlődik, modern logisztikai központok és raktárak épülnek mellette. Owendo vasúti kapuja nemcsak a gazdaság alapköve, hanem a gaboni nemzeti integráció jelképe is, amely fizikailag köti össze az ország távoli pontjait.",
+        "ro": "Gara din Owendo (Gare d'Owendo) este cel mai important nod feroviar din Gabon, servind drept terminal vestic al faimoasei căi ferate Transgabonez. Situată în zona industrială și portuară Owendo, la sud de Libreville, această gară reprezintă legătura vitală între resursele naturale ale interiorului țării și piețele internaționale. Construcția sa, finalizată în anii '70, a fost o componentă esențială a proiectului ambițios de a crea o axă de transport est-vest prin jungla ecuatorială de nepătruns. Astăzi, gara este administrată de compania SETRAG și gestionează atât trenurile masive de marfă care transportă mangan de la Moanda și lemn de la Booué, cât și serviciile de pasageri către Franceville. Infrastructura gării este proiectată pentru a suporta traficul greu, fiind dotată cu terminale de descărcare eficiente și ateliere de întreținere a locomotivelor. Pentru călători, gara Owendo este punctul de plecare într-o călătorie spectaculoasă de peste 600 de kilometri, care traversează parcuri naționale și râuri impunătoare. Gara a beneficiat recent de programe de modernizare pentru a fluidiza tranzitul și a îmbunătăți experiența pasagerilor în sălile de așteptare. Owendo nu este doar o stație de tren, ci un plămân economic al națiunii, fiind punctul unde efortul industrial al minei se întâlnește cu logistica maritimă globală.",
+        "en": "The Owendo Railway Station (Gare d'Owendo) is the most significant rail hub in Gabon and the western terminus of the Trans-Gabon Railway (Transgabonais). Located in the industrial outskirts of Libreville, it serves as the critical link between the nation's rail network and its primary deep-water port. The station was inaugurated in the late 1970s as part of one of Africa’s most ambitious infrastructure projects, aimed at transporting minerals and timber from the remote eastern provinces to the coast. From here, the rail line stretches over 600 kilometers into the interior, ending at Franceville. The station is managed by SETRAG and is a constant hive of activity, handling massive ore trains loaded with manganese as well as regular passenger services. For many Gabonese citizens, the Owendo station is the gateway to the heart of the country, providing an essential and affordable alternative to air travel or difficult road journeys. The facility includes extensive freight yards, maintenance depots, and modernized passenger terminals. As the starting point of the Transgabonais, the station symbolizes national integration and economic independence, moving the resources that fuel Gabon's growth. Its strategic location within the Owendo port complex ensures that Gabon remains a competitive player in the global commodities market by streamlining the logistics of its heavy exports."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Owendo ist der westliche Startpunkt der 648 km langen Trans-Gabun-Eisenbahn.",
+          "Der Bahnhof verbindet die Hauptstadt Libreville mit dem fernen Osten (Franceville).",
+          "Die Strecke wird hauptsächlich für den Transport von Mangan und Holz genutzt.",
+          "Der Bahnhof wird von der Firma SETRAG (Tochter der Eramet-Gruppe) betrieben.",
+          "Die Personenzüge ab Owendo verkehren meist nachts oder am frühen Morgen.",
+          "Es ist der einzige Bahnhof Gabuns mit direktem Anschluss an einen Überseehafen."
+        ],
+        "hu": [
+          "Az állomás a Transzgaboni Vasútvonal legfontosabb logisztikai pontja.",
+          "Libreville-től 15 km-re délre, az owendói ipari zónában található.",
+          "A személyvonatok innen indulnak az ország keleti végpontjára, Franceville-be.",
+          "Az állomáson keresztül halad át Gabon mangánexportjának jelentős része.",
+          "A vasútvonal építése a 20. század egyik legnagyobb afrikai beruházása volt.",
+          "Az állomás modern utasvárókkal és jegypénztárakkal rendelkezik."
+        ],
+        "ro": [
+          "Gara Owendo este punctul de plecare al singurei linii ferate majore din Gabon.",
+          "Conectează provincia estuarului cu provincia Haut-Ogooué.",
+          "Este administrată de SETRAG, operatorul feroviar național.",
+          "Gara este situată strategic lângă terminalul de containere din portul Owendo.",
+          "Trenurile care pleacă de aici traversează de mai multe ori Ecuatorul.",
+          "Zilnic, mii de tone de minereu tranzitează această stație către export."
+        ],
+        "en": [
+          "Owendo Station is the western gateway of the 648-kilometer Trans-Gabon line.",
+          "It serves as a vital intermodal hub connecting rail and maritime transport.",
+          "The station handles heavy-haul trains, some of the longest in Africa.",
+          "It is the main departure point for passengers traveling to the country's interior.",
+          "The Transgabonais line was completed in 1986 to boost the mining sector.",
+          "The facility includes specialized infrastructure for loading timber and minerals."
+        ]
+      }
+    },
+    {
+      "id": "universite-omar-bongo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Omar-Bongo-Universität (Université Omar Bongo, UOB) in Libreville ist die älteste und bedeutendste staatliche Universität Gabuns. Sie wurde 1970 gegründet und hieß ursprünglich Nationale Universität Gabuns, bevor sie 1978 zu Ehren des damaligen Präsidenten umbenannt wurde. Der Campus liegt auf einem Hügel im Stadtteil Boulevard Triomphal und ist das intellektuelle Zentrum des Landes. Die UOB spielt eine entscheidende Rolle bei der Ausbildung der gabunischen Elite in den Bereichen Geisteswissenschaften, Rechtswissenschaften, Wirtschaft und Sozialwissenschaften. Die Architektur des Campus ist geprägt von funktionalen Gebäuden der 70er Jahre, ergänzt durch neuere Erweiterungen. Historisch gesehen war die Universität oft ein Schauplatz politischer Auseinandersetzungen und Studentenproteste, was ihre Bedeutung als Ort der kritischen Auseinandersetzung und des gesellschaftlichen Wandels unterstreicht. Trotz Herausforderungen bei der Infrastruktur und der Überfüllung bleibt sie die erste Wahl für Tausende von Studenten aus dem ganzen Land. Die Universität beherbergt auch wichtige Forschungsinstitute und eine umfangreiche Zentralbibliothek. Für Gabun ist die UOB ein Symbol der nationalen Souveränität im Bildungsbereich und ein wesentlicher Pfeiler für die wissenschaftliche Entwicklung Zentralafrikas. Ein Besuch des Campus bietet Einblick in das studentische Leben Gabuns und die akademischen Ambitionen der jungen Generation.",
+        "hu": "Az Omar Bongo Egyetem (Université Omar Bongo, UOB) Gabon legpatinásabb és legnagyobb állami felsőoktatási intézménye, amely Libreville szívében található. Az 1970-ben alapított egyetem eredetileg Gaboni Nemzeti Egyetem néven kezdte meg működését, majd 1978-ban vette fel az ország akkori elnökének nevét. Az intézmény a gaboni értelmiség bölcsője, ahol a jogi, bölcsészettudományi és közgazdasági képzés kapja a legnagyobb hangsúlyt. A kampusz a főváros egyik dombján terül el, és jellegzetes 70-es évekbeli modernista épületeivel meghatározza a környék látképét. Az UOB nemcsak az oktatás helyszíne, hanem a gaboni politikai élet egyik fontos katalizátora is; falai között gyakran törtek ki diáktüntetések, amelyek az ország demokratizálódási folyamatait sürgették. Az egyetem könyvtára és kutatóközpontjai a régió legfontosabb tudományos forrásai közé tartoznak. Bár az intézmény az elmúlt évtizedekben kapacitási problémákkal küzdött a hallgatói létszám ugrásszerű növekedése miatt, továbbra is a gaboni oktatási rendszer zászlóshajója marad. Az egyetem végzősei foglalják el az ország legfontosabb kormányzati és gazdasági pozícióit. A kampusz látogatása bepillantást enged a gaboni ifjúság mindennapjaiba és az ország jövőjét meghatározó szellemi áramlatokba.",
+        "ro": "Universitatea Omar Bongo (UOB) din Libreville este cea mai veche și mai prestigioasă instituție de învățământ superior din Gabon, fiind pilonul central al sistemului educațional național. Fondată în 1970 sub numele de Universitatea Națională din Gabon, aceasta a fost redenumită în 1978 în onoarea președintelui Omar Bongo Ondimba. Campusul universitar, situat într-o zonă strategică a capitalei, găzduiește două facultăți principale: Facultatea de Litere și Științe Umane și Facultatea de Drept și Științe Economice. UOB este recunoscută ca fiind „maternitatea” elitei intelectuale și politice a țării, majoritatea liderilor gabonezi fiind formați aici. Arhitectura campusului reflectă stilul funcționalist al anilor '70, fiind un punct de reper urban în Libreville. De-a lungul deceniilor, universitatea a fost adesea un epicentru al mișcărilor sociale și studențești, jucând un rol crucial în dezbaterea politică națională. În ciuda provocărilor legate de modernizarea infrastructurii, UOB rămâne un simbol al independenței academice și al progresului științific în Africa Centrală. Instituția colaborează cu numeroase universități internaționale, menținând un standard de cercetare relevant pentru contextul regional. Vizitarea campusului oferă o perspectivă asupra dinamismului tineretului gabonez și a eforturilor statului de a asigura o educație superioară accesibilă propriilor cetățeni.",
+        "en": "The Omar Bongo University (Université Omar Bongo, UOB) in Libreville is Gabon's oldest and most prominent public university. Established in 1970 as the National University of Gabon, it was renamed in 1978 to honor the nation's second president. The university serves as the intellectual heart of the country, focusing primarily on humanities, law, economics, and social sciences. Located on a central hilltop in the capital, the campus is a landmark of Gabonese academic life and has produced the vast majority of the nation's political and administrative elite. The architecture features a mix of mid-century modernist buildings and newer administrative wings. Historically, UOB has been a significant site for political activism, with its student body often leading national conversations on social and political reform. Despite facing challenges such as overcrowding and infrastructure maintenance, it remains the most prestigious institution of higher learning in Gabon, attracting students from every province. The university's central library is one of the largest in Central Africa, and the institution maintains strong ties with francophone academic networks worldwide. For Gabon, UOB represents the cornerstone of national development and the pursuit of intellectual sovereignty. A visit to the university provides an authentic look at the energy and aspirations of Gabon's younger generation and its academic traditions."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Universität wurde 1970 gegründet und ist die älteste des Landes.",
+          "Sie befindet sich im Stadtzentrum von Libreville auf einem Hügel.",
+          "Die Fakultäten für Jura und Geisteswissenschaften sind die größten Abteilungen.",
+          "Die UOB ist die Alma Mater der meisten gabunischen Spitzenpolitiker.",
+          "Der Campus ist ein bekannter Ort für studentische Aktivität und Debatten.",
+          "Sie ist Mitglied der Agence Universitaire de la Francophonie (AUF)."
+        ],
+        "hu": [
+          "Az egyetem 1970-ben alakult meg, mint Gabon első felsőoktatási intézménye.",
+          "Nevét Omar Bongo elnökről kapta, aki 41 évig vezette az országot.",
+          "A bölcsészettudományi és jogi karok a legnépszerűbbek a hallgatók körében.",
+          "A kampusz Libreville egyik legfontosabb szellemi és politikai központja.",
+          "Az egyetemen jelentős kutatások folynak a bantu nyelvek és kultúra területén.",
+          "Több mint 30 000 hallgató tanul itt az ország minden tájáról."
+        ],
+        "ro": [
+          "Este prima universitate creată în Gabon după obținerea independenței.",
+          "Găzduiește sediul Facultății de Drept și Științe Economice.",
+          "A fost redenumită în 1978 din Universitatea Națională în UOB.",
+          "Campusul este renumit pentru spiritul său critic și dezbaterile intense.",
+          "UOB este principalul centru de formare pentru magistrații și profesorii gabonezi.",
+          "Universitatea deține o bibliotecă centrală cu mii de volume de referință."
+        ],
+        "en": [
+          "UOB was founded in 1970 as Gabon's first state university.",
+          "It is named after President Omar Bongo Ondimba, who reigned for 41 years.",
+          "The university is the primary training ground for Gabon's civil service.",
+          "It is located in the heart of Libreville, near the administrative district.",
+          "The campus has historically been a center for political and social movements.",
+          "It focuses heavily on liberal arts, law, and social science research."
+        ]
+      }
+    },
+    {
+      "id": "stadium-port-gentil-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Stadion von Port-Gentil (Stade de Port-Gentil) ist eine moderne Sportarena in der wirtschaftlichen Hauptstadt Gabuns. Es wurde speziell für den Afrika-Cup 2017 (CAN 2017) errichtet und ist ein Symbol für die sportlichen Ambitionen des Landes. Das Stadion hat eine Kapazität von etwa 20.000 Zuschauern und zeichnet sich durch seine markante, luftige Architektur aus, die den klimatischen Bedingungen der Küstenregion Rechnung trägt. Der Bau wurde in Zusammenarbeit mit chinesischen Bauunternehmen realisiert und markiert einen Meilenstein in der Stadtentwicklung von Port-Gentil. Neben dem Hauptspielfeld umfasst der Komplex moderne Trainingsanlagen, Medienzentren und VIP-Bereiche, die internationalen Standards entsprechen. Während des Afrika-Cups 2017 fanden hier wichtige Gruppenspiele und Viertelfinalbegegnungen statt, was die Stadt Port-Gentil weltweit in den Fokus rückte. Nach dem Turnier wird das Stadion für nationale Ligaspiele sowie kulturelle Großveranstaltungen genutzt. Es liegt im Stadtteil Ntchengué und hat zur Verbesserung der lokalen Infrastruktur beigetragen, einschließlich neuer Zufahrtsstraßen. Das Stadion von Port-Gentil ist nicht nur ein Ort des Fußballs, sondern auch ein Treffpunkt für die Gemeinschaft und ein Zeichen für die Dezentralisierung staatlicher Investitionen außerhalb der Hauptstadt Libreville. Die moderne Flutlichtanlage und die markante Dachkonstruktion machen es zu einem unübersehbaren Wahrzeichen im Süden der Stadt.",
+        "hu": "A Port-Gentil-i Stadion (Stade de Port-Gentil) Gabon gazdasági fővárosának legmodernebb sportlétesítménye. A stadiont kifejezetten a 2017-es Afrikai Nemzetek Kupájára (CAN 2017) építették, hogy a torna egyik központi helyszíneként szolgáljon. A mintegy 20 000 férőhelyes aréna építészete a modern sportlétesítmények minden igényét kielégíti, jellegzetes tetőszerkezete pedig védelmet nyújt a trópusi esők és az erős napsütés ellen. A beruházás kínai-gaboni együttműködés keretében valósult meg, és jelentős fejlődést hozott Port-Gentil Ntchengué negyedébe, ahol a létesítmény található. A stadion avatása 2017 januárjában volt, és azóta a régió legfontosabb közösségi és sportközpontjává vált. Itt játszották a torna több csoportmérkőzését, köztük olyan neves csapatok, mint Ghána vagy Egyiptom. A pálya természetes gyeppel borított, a világítás és a hangtechnika pedig nemzetközi szabványoknak felel meg. A stadion környékén edzőpályák és egyéb kiszolgáló épületek is helyet kaptak. A sportesemények mellett az aréna nagykoncertek és politikai gyűlések helyszíne is. Port-Gentil számára a stadion nemcsak a futball iránti szenvedélyt jelképezi, hanem a város modernizációját és képességét a világszínvonalú események megrendezésére. A monumentális építmény a város egyik leglátványosabb modern nevezetessége.",
+        "ro": "Stadionul din Port-Gentil (Stade de Port-Gentil) este o arenă sportivă ultramodernă situată în inima capitalei economice a Gabonului. Construit special pentru a găzdui meciurile din cadrul Cupei Africii pe Națiuni 2017 (CAN 2017), acesta reprezintă un simbol al modernizării infrastructurii din provincia Ogooué-Maritime. Stadionul are o capacitate de 20.000 de locuri și se remarcă printr-un design arhitectural inovator, cu o acoperire parțială ce asigură ventilația naturală, esențială în climatul umed de coastă. Proiectul a fost realizat de companii de construcții din China și a fost inaugurat oficial de președintele țării în ianuarie 2017. Arena este dotată cu gazon natural de înaltă calitate, sisteme moderne de iluminat nocturn și facilități complete pentru presă și oficiali. În timpul turneului continental, stadionul a fost apreciat pentru atmosfera sa vibrantă și calitatea organizării. După CAN 2017, stadionul a devenit casa principalelor echipe de fotbal locale și un spațiu polivalent pentru evenimente culturale și concerte. Amplasarea sa în cartierul Ntchengué a stimulat dezvoltarea urbană a zonei, aducând noi drumuri și utilități. Stadionul din Port-Gentil rămâne unul dintre cele mai importante active sportive ale Gabonului, demonstrând capacitatea țării de a găzdui competiții internaționale de anvergură în afara capitalei Libreville.",
+        "en": "The Port-Gentil Stadium (Stade de Port-Gentil) is a state-of-the-art sports arena located in Gabon's second-largest city and economic capital. Purpose-built for the 2017 Africa Cup of Nations (CAN 2017), the stadium serves as a major symbol of the city's growth and Gabon's passion for football. With a seating capacity of approximately 20,000, the venue features a modern architectural design characterized by a sweeping roof structure that provides shade and shelter from the tropical elements. The construction was a highlight of Gabon-China diplomatic cooperation, completed in record time to meet CAF standards. During the 2017 tournament, it hosted several high-profile group stage matches and a quarter-final, drawing international media attention to the Mandji Peninsula. The stadium complex is equipped with natural grass, professional-grade lighting, and auxiliary training fields. Since the tournament, it has become the home ground for local clubs and a venue for large-scale cultural events and regional gatherings. Located in the Ntchengué district, the stadium's presence has spurred local infrastructure improvements, including enhanced road access. It remains one of the most modern stadiums in Central Africa, representing the decentralization of major national infrastructure projects and providing the youth of Port-Gentil with world-class sporting facilities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Stadion wurde für die Fußball-Afrikameisterschaft 2017 gebaut.",
+          "Es bietet Platz für insgesamt 20.000 Zuschauer auf Sitzplätzen.",
+          "Die Arena befindet sich im südlichen Viertel Ntchengué von Port-Gentil.",
+          "Es wurde mit Unterstützung chinesischer Bauunternehmen errichtet.",
+          "Das Spielfeld besteht aus hochwertigem Naturrasen.",
+          "Das Stadion diente während der CAN 2017 als Austragungsort für die Gruppe D."
+        ],
+        "hu": [
+          "A stadion befogadóképessége 20 000 fő.",
+          "A létesítményt a 2017-es Afrikai Nemzetek Kupájára adták át.",
+          "Az építkezés mindössze 18 hónap alatt fejeződött be.",
+          "A stadion Port-Gentil gazdasági és sportéletének egyik központi eleme.",
+          "A tetőszerkezetet úgy alakították ki, hogy elvezesse a heves esővizet.",
+          "A CAN 2017 idején itt játszott az egyiptomi és a ghánai válogatott is."
+        ],
+        "ro": [
+          "Capacitatea stadionului este de 20.000 de spectatori.",
+          "Inaugurarea oficială a avut loc pe 9 ianuarie 2017.",
+          "Stadionul a găzduit 7 meciuri în timpul Cupei Africii pe Națiuni 2017.",
+          "Gazonul este natural și respectă cerințele stricte ale FIFA.",
+          "Complexul sportiv include și un hotel pentru sportivi și facilități de recuperare.",
+          "Arhitectura sa este inspirată din elemente geometrice moderne."
+        ],
+        "en": [
+          "The stadium was one of the four host venues for the 2017 AFCON.",
+          "It features an all-seater capacity of 20,000 fans.",
+          "The project was part of a major urban development plan for Port-Gentil.",
+          "It is located in the Ntchengué district on the outskirts of the city.",
+          "The venue is frequently used for Gabonese Championnat National D1 matches.",
+          "It boasts international-standard lighting for night games and broadcasting."
+        ]
+      }
+    },
+    {
+      "id": "langoue-bai-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Langoué Baï ist eines der spektakulärsten und ökologisch bedeutendsten Waldlichtungen (Baïs) im Herzen des Ivindo-Nationalparks in Gabun. Diese natürliche Lichtung, die etwa einen Kilometer lang und 300 Meter breit ist, wird von einem flachen Fluss durchquert und ist reich an Mineralsalzen im Boden. Diese geologische Besonderheit zieht eine unglaubliche Vielfalt an Wildtieren an, die hierher kommen, um wichtige Nährstoffe aufzunehmen. Langoué Baï wurde erst im Jahr 2000 vom Biologen Mike Fay während seines berühmten 'MegaTransect' weltweit bekannt gemacht. Es ist einer der besten Orte in Afrika, um westliche Flachlandgorillas in ihrem natürlichen Lebensraum zu beobachten, da sie oft in großen Gruppen auf die Lichtung kommen. Neben Gorillas besuchen auch Waldelefanten, Büffel, Sitatungas und verschiedene Primatenarten regelmäßig die Baï. Die Lichtung ist von unberührtem primärem Regenwald umgeben und nur über eine mehrtägige Expedition erreichbar, was sie zu einem der isoliertesten und am besten geschützten Ökosysteme des Landes macht. Für die Forschung ist Langoué Baï ein unschätzbares Freiluftlabor, um das Sozialverhalten von Gorillas und Elefanten zu studieren. Der Schutz dieses Gebiets ist von entscheidender Bedeutung für das Überleben der Waldelefantenpopulationen Gabuns, die hier eine sichere Zufluchtsstätte vor Wilderei finden. Ein Besuch des Langoué Baï gilt als die Krönung des Ökotourismus in Gabun und bietet eine fast biblische Szenerie von Wildtieren in einer völlig unberührten Natur.",
+        "hu": "A Langoué Baï az Ivindo Nemzeti Park egyik legfontosabb és leglátványosabb erdei tisztása (helyi nyelven: baï) Gabon közepén. Ez a különleges, természetes képződmény körülbelül egy kilométer hosszú és 300 méter széles terület, amelynek mocsaras talaja rendkívül gazdag ásványi sókban. Ez az ásványi gazdagság mágnesként vonzza az esőerdő állatvilágát, amelyek a sűrű bozótosból ide járnak táplálékkiegészítőkért. A tisztást 2000-ben fedezte fel és tette világhírűvé Mike Fay biológus a híres „MegaTransect” expedíciója során. A Langoué Baï világszinten is az egyik legjobb helyszín a nyugati síkvidéki gorillák megfigyelésére, mivel ezek a hatalmas főemlősök gyakran családostul látogatják a tisztást. Rajtuk kívül rendszeresen felbukkannak itt erdei elefántok, bivalyok, szitatungák és különféle majomfajok. A tisztás elszigeteltsége – csak többnapos gyalogtúrával érhető el – biztosítja az ökoszisztéma érintetlenségét és védelmét az orvvadászattal szemben. A kutatók számára a helyszín felbecsülhetetlen értékű, itt zajlanak a legfontosabb megfigyelések az erdei elefántok szociális viselkedéséről. A természetbarátok számára a Langoué Baï a „földi paradicsom” megtestesülése, ahol az ember csupán csendes szemlélője lehet az érintetlen vadon drámáinak. A terület szigorúan védett, a turizmus itt a legmagasabb szintű fenntarthatósági szabályok mellett zajlik.",
+        "ro": "Langoué Baï este una dintre cele mai spectaculoase și importante poieni forestiere (baï) din punct de vedere ecologic, situată în inima Parcului Național Ivindo din Gabon. Această deschidere naturală în junglă, cu o lungime de aproximativ un kilometru, este străbătută de un pârâu și este renumită pentru solul său muntos, extrem de bogat în săruri minerale. Această caracteristică unică atrage o densitate incredibilă de animale sălbatice care vin aici pentru a-și completa dieta cu minerale esențiale. Langoué Baï a fost adusă în atenția lumii în anul 2000 de biologul Mike Fay, în timpul expediției sale legendare „MegaTransect”. Este considerat unul dintre cele mai bune locuri din Africa pentru observarea gorilelor de câmpie vestice în habitatul lor natural, acestea putând fi văzute adesea hrănindu-se în zonele mlăștinoase. Pe lângă gorile, poiana este frecventată de elefanți de pădure, bivoli africani, antilope sitatunga și numeroase specii de păsări tropicale. Accesul la Langoué Baï este dificil, necesitând o expediție prin junglă, ceea ce a ajutat la menținerea caracterului său virgin și la protejarea faunei de braconaj. Pentru oamenii de știință, situl oferă date cruciale despre dinamica populațiilor de elefanți și gorile din bazinul Congo. Vizitarea acestui loc reprezintă experiența supremă de ecoturism în Gabon, oferind o fereastră unică către o lume naturală neschimbată de milenii, unde animalele se adună în număr mare într-un decor edenic.",
+        "en": "Langoué Baï is one of the most spectacular and ecologically vital forest clearings (known locally as a 'baï') situated in the heart of Ivindo National Park, Gabon. This natural marshy opening, roughly one kilometer long and 300 meters wide, is bisected by a shallow stream and is famous for its mineral-rich soils. These salts act as a magnet for the region's diverse wildlife, which emerges from the dense rainforest to ingest essential nutrients. Langoué Baï was brought to global prominence in 2000 by biologist Mike Fay during his legendary 'MegaTransect' expedition across the Congo Basin. It is recognized as one of the premier locations in Africa to observe western lowland gorillas in the wild, as they frequently visit the clearing in large family groups. In addition to gorillas, the baï is a sanctuary for forest elephants, buffalos, sitatungas, and various primate species. Its extreme isolation—accessible only through a multi-day trek—ensures the preservation of this pristine ecosystem and provides a safe haven from poaching. For researchers, Langoué Baï is an invaluable living laboratory for studying the social behaviors of large forest mammals. For eco-tourists, it offers a near-mythical experience of witnessing large numbers of animals gathered in a single, undisturbed space. Protecting this site is a top priority for Gabon’s conservation efforts, representing the very essence of the country’s commitment to preserving the biodiversity of the equatorial rainforest."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Langoué Baï liegt tief im Inneren des Ivindo-Nationalparks.",
+          "Die Lichtung wurde im Jahr 2000 durch den Biologen Mike Fay entdeckt.",
+          "Der Boden ist extrem reich an Mineralien, was Elefanten und Gorillas anzieht.",
+          "Es ist einer der weltweit besten Orte zur Beobachtung von Flachlandgorillas.",
+          "Die Anreise erfordert eine Expedition zu Fuß durch den Primärregenwald.",
+          "WCS (Wildlife Conservation Society) betreibt hier eine wichtige Forschungsstation."
+        ],
+        "hu": [
+          "A tisztás az Ivindo Nemzeti Park központi részén fekszik.",
+          "Ez az egyik legfontosabb helyszín az erdei elefántok védelmére Gabunban.",
+          "A tisztást Mike Fay fedezte fel 2000-ben, a 'MegaTransect' során.",
+          "A mocsaras talajból az állatok fontos nátriumot és magnéziumot nyernek.",
+          "A területen tilos mindenféle állandó építmény felhúzása.",
+          "A gorillák itt gyakran órákig láthatók, amint a vizes fűvel táplálkoznak."
+        ],
+        "ro": [
+          "Langoué Baï este situată într-o zonă complet virgină a provinciei Ogooué-Ivindo.",
+          "Situl găzduiește una dintre cele mai mari densități de gorile de câmpie.",
+          "Elefanții de pădure sapă gropi adânci în poiană pentru a ajunge la sare.",
+          "Cercetarea de aici a dus la crearea sistemului de parcuri naționale din Gabon.",
+          "Accesul turiștilor este strict limitat pentru a nu deranja animalele.",
+          "Este un sit de importanță critică pentru conservarea antilopei sitatunga."
+        ],
+        "en": [
+          "The clearing is a natural saline located deep within Ivindo National Park.",
+          "It gained fame after Mike Fay's 2000 'MegaTransect' expedition.",
+          "Soil mineral content attracts hundreds of forest elephants and gorillas.",
+          "The site is managed under strict conservation protocols by ANPN and WCS.",
+          "It offers a rare opportunity to see gorillas and elephants interacting.",
+          "The baï remains one of the most remote and protected wildlife sites in Africa."
+        ]
+      }
+    }
+  ]
+}

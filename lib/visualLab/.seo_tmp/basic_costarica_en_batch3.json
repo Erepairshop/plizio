@@ -1,0 +1,110 @@
+{
+  "lang": "en",
+  "country": "Costarica",
+  "files": [
+    "lib/visualLab/data/poiExtraCostaricaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCostaricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cr-museo-arte-costarricense-landmarks-v2",
+      "description": "Located in the former main airport terminal at La Sabana, this museum houses the country's most important art collection.",
+      "facts": [
+        "Housed in a former airport terminal",
+        "Located in La Sabana Park, San José",
+        "Features the impressive Golden Room",
+        "Focuses on 19th and 20th century art"
+      ]
+    },
+    {
+      "id": "cr-templo-musica-landmarks-v2",
+      "description": "An elegant neoclassical pavilion in Morazán Park, inspired by the Temple of Love at Versailles and used for concerts.",
+      "facts": [
+        "Inaugurated in December 1920",
+        "Located in Parque Morazán, San José",
+        "modeled after a French landmark",
+        "Cultural hub for public performances"
+      ]
+    },
+    {
+      "id": "cr-cenac-landmarks-v2",
+      "description": "The National Cultural Center is a historic complex that formerly served as the National Liquor Factory for over a century.",
+      "facts": [
+        "Former National Liquor Factory site",
+        "Built in the mid-19th century",
+        "Houses the Ministry of Culture",
+        "Includes theaters and art galleries"
+      ]
+    },
+    {
+      "id": "cr-iglesia-de-metal-grecia-landmarks-v2",
+      "description": "A unique architectural marvel in Grecia, this church is made entirely of prefabricated steel plates imported from Belgium.",
+      "facts": [
+        "Constructed entirely of Belgian steel",
+        "Assembled in the late 19th century",
+        "Iconic bright red exterior",
+        "Distinctive Gothic Revival style"
+      ]
+    },
+    {
+      "id": "cr-estadio-ricardo-saprissa-landmarks-v2",
+      "description": "Affectionately known as the 'Monster's Cave,' this is the home stadium of Costa Rica's most successful football club.",
+      "facts": [
+        "Home to Deportivo Saprissa",
+        "Located in Tibás, San José",
+        "One of the region's most iconic stadiums",
+        "Named after club founder Ricardo Saprissa"
+      ]
+    },
+    {
+      "id": "cr-iglesia-colonial-orosi-landmarks-v2",
+      "description": "A well-preserved example of religious colonial architecture, this church remains a focal point of the historic Orosi Valley.",
+      "facts": [
+        "Pristine Spanish colonial design",
+        "Heart of the historic Orosi community",
+        "Features ancient religious artifacts",
+        "Surrounded by lush valley landscapes"
+      ]
+    },
+    {
+      "id": "cr-parque-viva-landmarks-v2",
+      "description": "A modern multipurpose entertainment park in Alajuela, featuring a world-class amphitheater and a professional race track.",
+      "facts": [
+        "First multipurpose park in the region",
+        "Includes the Coca-Cola Amphitheater",
+        "Site of major concerts and races",
+        "Located in La Guácima, Alajuela"
+      ]
+    },
+    {
+      "id": "cr-iglesia-de-san-rafael-de-heredia-landmarks-v2",
+      "description": "The Church of San Rafael de Heredia is an impressive Neogothic structure known for its towering spires and scenic location.",
+      "facts": [
+        "Majestic Neogothic architecture",
+        "Completed in the early 1960s",
+        "Dominates the skyline of San Rafael",
+        "Features stunning interior woodwork"
+      ]
+    },
+    {
+      "id": "teatro-nacional-life-v2",
+      "description": "The National Theatre is Costa Rica's most revered architectural jewel, funded by coffee exports in the late 19th century.",
+      "facts": [
+        "Opened in October 1897",
+        "Funded by a voluntary coffee tax",
+        "Exquisite Italian marble and gold leaf",
+        "Symbol of national pride and culture"
+      ]
+    },
+    {
+      "id": "finca-cafe-life-v2",
+      "description": "Coffee plantations are the backbone of Costa Rican rural life and culture, producing world-renowned 'Golden Grain' beans.",
+      "facts": [
+        "Known locally as the 'Grano de Oro'",
+        "Arabica variety grown in high altitudes",
+        "Central to national identity and history",
+        "Sustainable farming practices are standard"
+      ]
+    }
+  ]
+}

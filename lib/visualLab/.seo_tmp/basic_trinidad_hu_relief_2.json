@@ -1,0 +1,39 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-valencia-plateau-relief-v2",
+      "description": "A Valencia-fennsík egy mérsékelt magasságú terület, amelyet gyakran borít sűrű trópusi erdőzet. A fennsík geológiailag a sziget középhegységi rendszeréhez tartozik.",
+      "facts": ["Mérsékelt fennsík", "Trópusi erdők", "Középhegység"]
+    },
+    {
+      "id": "tt-sangre-grande-hills-relief-v2",
+      "description": "Sangre Grande dombvidéke a sziget keleti részének egyik jellegzetes, hullámzó domborzati formációja. A terület fontos a helyi mezőgazdaság számára.",
+      "facts": ["Keleti dombvidék", "Hullámzó felszín", "Mezőgazdasági terület"]
+    },
+    {
+      "id": "tt-mayaro-coast-lowlands-relief-v2",
+      "description": "A Mayaro-parti alföld a sziget keleti nyúlványának alacsony, homokos síksága. A terület domborzatát a part menti dűnék és a sík vidék határozza meg.",
+      "facts": ["Parti alföld", "Homokos síkság", "Part menti dűnék"]
+    },
+    {
+      "id": "tt-brasso-valleys-relief-v2",
+      "description": "Brasso völgyei a sziget központi részének mélyen fekvő, termékeny területei. A völgyhálózat geológiailag a sziget vízgyűjtőrendszerének része.",
+      "facts": ["Mély völgyek", "Termékeny vidék", "Vízgyűjtőrendszer"]
+    },
+    {
+      "id": "tt-matelot-rugged-coast-relief-v2",
+      "description": "A Matelot-partvidék meredek és sziklás domborzata az ország egyik legzordabb része. A terület közvetlenül érintkezik az Atlanti-óceán erőteljes hullámaival.",
+      "facts": ["Zord partvidék", "Meredek sziklák", "Óceáni hullámok"]
+    },
+    {
+      "id": "tt-tabaquite-hills-relief-v2",
+      "description": "Tabaquite dombjai a sziget központi részének kisebb, erdős domborzati egységei. A terület jellegzetes példája a szigeti dombvidéki életmódnak.",
+      "facts": ["Központi dombok", "Erdős terület", "Dombvidéki életmód"]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lang": "ro",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-jose-de-cusmapa-madriz-cities-v2",
+      "description": "San José de Cusmapa, în Madriz, este un sat de munte, cunoscut pentru artizanatul său și aerul rece de munte.",
+      "facts": ["Sat de munte", "Artizanat", "Aer rece de munte"]
+    },
+    {
+      "id": "yalaguina-madriz-cities-v2",
+      "description": "Yalaguina, în Madriz, este cunoscută pentru plantațiile sale de cafea și peisajele montane pitorești.",
+      "facts": ["Plantații de cafea", "Peisaje montane", "Madriz"]
+    },
+    {
+      "id": "totogalpa-madriz-cities-v2",
+      "description": "Totogalpa, în Madriz, este o comunitate rurală, cunoscută pentru producția de ceramică și festivalurile tradiționale.",
+      "facts": ["Producție de ceramică", "Festivaluri tradiționale", "Madriz"]
+    },
+    {
+      "id": "palacaguina-madriz-cities-v2",
+      "description": "Palacagüina, în Madriz, este cunoscută pentru tradițiile sale muzicale și apropierea de regiunile montane.",
+      "facts": ["Tradiții muzicale", "Regiuni montane", "Madriz"]
+    },
+    {
+      "id": "santa-rosa-del-penon-leon-cities-v2",
+      "description": "Santa Rosa del Peñón, în León, este o comunitate rurală, cunoscută pentru cultivarea fasolei și a porumbului.",
+      "facts": ["Comunitate rurală", "Fasole și porumb", "León"]
+    },
+    {
+      "id": "el-realejo-chinandega-cities-v2",
+      "description": "El Realejo, în Chinandega, este un oraș portuar istoric, care a fost odată un centru comercial important.",
+      "facts": ["Oraș portuar istoric", "Centru comercial", "Chinandega"]
+    },
+    {
+      "id": "cinco-pinos-chinandega-cities-v2",
+      "description": "Cinco Pinos, în Chinandega, este o comunitate rurală, cunoscută pentru creșterea vitelor și agricultură.",
+      "facts": ["Comunitate rurală", "Creșterea vitelor", "Agricultură"]
+    },
+    {
+      "id": "santo-domingo-chontales-cities-v2",
+      "description": "Santo Domingo, în Chontales, este un oraș minier, renumit pentru minele sale de aur și istoria bogată.",
+      "facts": ["Oraș minier", "Mine de aur", "Istorie bogată"]
+    },
+    {
+      "id": "la-libertad-chontales-cities-v2",
+      "description": "La Libertad, în Chontales, este un alt oraș minier important, cunoscut și pentru creșterea vitelor.",
+      "facts": ["Oraș minier", "Creșterea vitelor", "Chontales"]
+    },
+    {
+      "id": "teustepe-boaco-cities-v2",
+      "description": "Teustepe, în Boaco, este o comunitate agricolă, cunoscută pentru cultivarea orezului, fasolei și porumbului.",
+      "facts": ["Comunitate agricolă", "Orez, fasole, porumb", "Boaco"]
+    },
+    {
+      "id": "santa-lucia-boaco-cities-v2",
+      "description": "Santa Lucía, în Boaco, este o mică comunitate rurală, cunoscută pentru festivalurile și tradițiile sale.",
+      "facts": ["Comunitate rurală", "Festivaluri", "Tradiții"]
+    },
+    {
+      "id": "camopa-boaco-cities-v2",
+      "description": "Camopa, în Boaco, este cunoscută pentru frumusețea sa naturală și apropierea de munți și râuri.",
+      "facts": ["Frumusețe naturală", "Munți și râuri", "Boaco"]
+    },
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "description": "San José de los Remates, în Boaco, este un oraș montan, cunoscut pentru cultivarea cafelei și aerul rece de munte.",
+      "facts": ["Oraș montan", "Cultivarea cafelei", "Aer rece de munte"]
+    }
+  ]
+}

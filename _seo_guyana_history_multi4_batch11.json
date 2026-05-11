@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-guyana-national-museum-history-v2",
+      "descriptionAdvancedDe": "Das Nationalmuseum von Guyana in Georgetown ist das größte und älteste Museum des Landes und widmet sich der Bewahrung des nationalen Erbes. Gegründet 1868, bietet es einen umfassenden Überblick über die Naturgeschichte, Archäologie, Ethnographie und Kunst Guyanas. Die Sammlung umfasst eine breite Palette von Exponaten, von präkolumbianischen Artefakten und kolonialen Relikten bis hin zu einer beeindruckenden Vielfalt an ausgestopften Tieren, die die reiche Biodiversität des Landes repräsentieren. Ein Highlight ist das Skelett eines riesigen Faultiers. Obwohl das Museum im Laufe der Jahre unter Bränden und Vernachlässigung gelitten hat, bleibt es eine wichtige Bildungseinrichtung. Es ermöglicht Einheimischen und Besuchern, die vielfältigen Facetten der guyanischen Geschichte und Umwelt an einem Ort zu erkunden und die Entwicklung der Nation von ihren frühesten Bewohnern bis zur Gegenwart nachzuvollziehen.",
+      "descriptionAdvancedHu": "A georgetowni Guyanai Nemzeti Múzeum az ország legnagyobb és legrégebbi múzeuma, amely a nemzeti örökség megőrzésének szenteli magát. Az 1868-ban alapított múzeum átfogó áttekintést nyújt Guyana természetrajzáról, régészetéről, néprajzáról és művészetéről. A gyűjtemény a kiállítási tárgyak széles skáláját öleli fel, a prekolumbiánus leletektől és a gyarmati emlékektől kezdve a preparált állatok lenyűgöző változatosságáig, amelyek az ország gazdag biodiverzitását képviselik. Egyik fénypontja egy óriás lajhár csontváza. Bár a múzeum az évek során tűzvészektől és elhanyagolástól szenvedett, továbbra is fontos oktatási intézmény. Lehetővé teszi a helyiek és a látogatók számára, hogy egy helyen fedezzék fel a guyanai történelem és környezet sokrétű aspektusait, és nyomon kövessék a nemzet fejlődését a legkorábbi lakosoktól napjainkig.",
+      "descriptionAdvancedRo": "Muzeul Național din Guyana, situat în Georgetown, este cel mai mare și mai vechi muzeu din țară, dedicat conservării patrimoniului național. Fondat în 1868, acesta oferă o imagine de ansamblu cuprinzătoare a istoriei naturale, arheologiei, etnografiei și artei din Guyana. Colecția include o gamă largă de exponate, de la artefacte precolumbiene și relicve coloniale la o varietate impresionantă de animale împăiate, reprezentând bogata biodiversitate a țării. Un punct de atracție este scheletul unui leneș gigant. Deși muzeul a suferit de pe urma incendiilor și a neglijării de-a lungul anilor, acesta rămâne o instituție educațională importantă. Permite localnicilor și vizitatorilor să exploreze diversele fațete ale istoriei și mediului guyanez într-un singur loc și să urmărească dezvoltarea națiunii de la primii săi locuitori până în prezent.",
+      "descriptionAdvancedEn": "The Guyana National Museum in Georgetown is the country's largest and oldest museum, dedicated to preserving the national heritage. Founded in 1868, it provides a comprehensive overview of Guyana's natural history, archaeology, ethnography, and art. The collection includes a wide range of exhibits, from pre-Columbian artifacts and colonial relics to an impressive variety of taxidermied animals representing the country's rich biodiversity. A highlight is the skeleton of a giant sloth. Although the museum has suffered from fires and neglect over the years, it remains an important educational institution. It allows locals and visitors to explore the diverse facets of Guyanese history and environment in one place and to trace the nation's development from its earliest inhabitants to the present day.",
+      "factsAdvanced": [
+        "Gegründet im Jahr 1868, eines der ältesten Museen der Karibik.",
+        "Das heutige Gebäude wurde 1951 eröffnet.",
+        "Umfassende Sammlungen zur Natur- und Kulturgeschichte.",
+        "Beherbergt eine große Sammlung von ausgestopften Tieren.",
+        "Ein bekanntes Exponat ist das Skelett eines riesigen Faultiers.",
+        "Zeigt archäologische Funde der indigenen Völker.",
+        "Dokumentiert die koloniale Vergangenheit und den Weg zur Unabhängigkeit.",
+        "Wichtige Bildungsressource für Schulen und die Öffentlichkeit."
+      ]
+    }
+  ]
+}

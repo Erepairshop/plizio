@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-southeastern-hills-relief-v2",
+      "description": "Die südöstlichen Hügel bilden eine abwechslungsreiche Landschaft in Trinidad. Diese Region ist geprägt durch sanfte Anhöhen und bewaldete Täler.",
+      "facts": ["Südost-Region", "Abwechslungsreich", "Bewaldete Täler"]
+    },
+    {
+      "id": "tt-arippo-valley-relief-v2",
+      "description": "Das Arippo-Tal ist ein fruchtbares Becken, das für seine landwirtschaftliche Nutzung und seine grüne Umgebung bekannt ist.",
+      "facts": ["Fruchtbares Becken", "Landwirtschaft", "Grüne Umgebung"]
+    },
+    {
+      "id": "tt-caroni-plain-relief-v2",
+      "description": "Die Caroni-Ebene ist eine flache, ausgedehnte Landschaft, die zentral für die Landwirtschaft der Insel ist. Sie ist besonders fruchtbar und landwirtschaftlich intensiv genutzt.",
+      "facts": ["Flache Landschaft", "Zentral für Landwirtschaft", "Sehr fruchtbar"]
+    },
+    {
+      "id": "tt-guayaguayare-lowlands-relief-v2",
+      "description": "Die Tieflandregion von Guayaguayare erstreckt sich entlang der Küste und ist durch Feuchtgebiete und sanfte Küstenformen geprägt.",
+      "facts": ["Küstennähe", "Feuchtgebiete", "Sanfte Küstenformen"]
+    },
+    {
+      "id": "tt-paria-coast-cliffs-relief-v2",
+      "description": "Die steilen Klippen der Paria-Küste bieten einen beeindruckenden Blick auf den Ozean. Sie sind ein markantes geographisches Merkmal der Nordküste.",
+      "facts": ["Nordküste", "Steile Klippen", "Beeindruckender Blick"]
+    },
+    {
+      "id": "tt-madamas-valley-relief-v2",
+      "description": "Das Madamas-Tal liegt tief eingebettet in den bewaldeten Regionen der Insel. Es zeichnet sich durch seine Unberührtheit und reiche Flora aus.",
+      "facts": ["Tief eingebettet", "Unberührte Natur", "Reiche Flora"]
+    },
+    {
+      "id": "tt-blanchisseuse-slopes-relief-v2",
+      "description": "Die Hänge bei Blanchisseuse steigen malerisch von der Küste zu den Bergen hin an. Die Region bietet abwechslungsreiche topographische Formationen.",
+      "facts": ["Küstenhänge", "Berganstieg", "Topographische Vielfalt"]
+    },
+    {
+      "id": "tt-gran-couva-highlands-relief-v2",
+      "description": "Das Hochland von Gran Couva bietet einen herrlichen Blick über die umliegenden Täler. Es ist eine der höher gelegenen und kühleren Regionen der Insel.",
+      "facts": ["Hochland", "Schöner Weitblick", "Kühlere Region"]
+    },
+    {
+      "id": "tt-toco-cliffside-relief-v2",
+      "description": "Die Klippen bei Toco bilden die nordöstlichste Grenze von Trinidad. Hier trifft eine raue, felsige Küste direkt auf die Brandung des Atlantiks.",
+      "facts": ["Nordost-Küste", "Raue Felsen", "Atlantik-Brandung"]
+    },
+    {
+      "id": "tt-valencia-plateau-relief-v2",
+      "description": "Das Valencia-Plateau ist eine erhöhte Landschaft, die sich durch ihre weitläufigen Ebenen auszeichnet. Es ist geologisch ein interessanter Bereich der Insel.",
+      "facts": ["Erhöhtes Plateau", "Weitläufige Ebenen", "Geologisch interessant"]
+    },
+    {
+      "id": "tt-sangre-grande-hills-relief-v2",
+      "description": "Die Hügel um Sangre Grande prägen die Landschaft im östlichen Zentrum von Trinidad. Sie bieten abwechslungsreiche Wander- und Erholungsmöglichkeiten.",
+      "facts": ["Ost-Zentrum", "Hügelige Landschaft", "Erholungsmöglichkeiten"]
+    },
+    {
+      "id": "tt-mayaro-coast-lowlands-relief-v2",
+      "description": "Das Mayaro-Küstentiefland ist geprägt durch ausgedehnte Strände und eine flache Topographie. Es ist eine der entspanntesten Küstenregionen von Trinidad.",
+      "facts": ["Mayaro", "Ausgedehnte Strände", "Flache Topographie"]
+    },
+    {
+      "id": "tt-brasso-valleys-relief-v2",
+      "description": "Die Brasso-Täler sind eine malerische, grüne Hügellandschaft. Sie sind bekannt für ihren fruchtbaren Boden und ihre dichte Vegetation.",
+      "facts": ["Grüne Hügellandschaft", "Fruchtbarer Boden", "Dichte Vegetation"]
+    },
+    {
+      "id": "tt-matelot-rugged-coast-relief-v2",
+      "description": "Die raue Küste bei Matelot zeigt eine wilde, unberührte Natur. Sie ist eine abgelegene Region, die für ihre dramatischen Küstenformationen geschätzt wird.",
+      "facts": ["Abgelegene Küste", "Wilde Natur", "Dramatische Formationen"]
+    },
+    {
+      "id": "tt-tabaquite-hills-relief-v2",
+      "description": "Die Tabaquite-Hügel bieten eine hügelige, grüne Aussicht in die zentrale Inselmitte. Es ist eine Region, die durch ihre sanfte, natürliche Schönheit besticht.",
+      "facts": ["Zentrale Inselmitte", "Hügelig und grün", "Natürliche Schönheit"]
+    }
+  ]
+}

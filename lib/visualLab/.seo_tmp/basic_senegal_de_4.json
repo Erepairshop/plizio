@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lac-kassack-nature-v2",
+      "description": "Ein malerischer See in der Region, der für seine ruhige Wasserfläche und lokale Vogelwelt bekannt ist. Ein Ort der natürlichen Erholung.",
+      "facts": ["Malerischer See", "Lokale Vogelwelt", "Natürliche Erholung"]
+    },
+    {
+      "id": "fleuve-gambie-nature-v2",
+      "description": "Ein bedeutender Fluss, der durch den Senegal fließt und eine wichtige Lebensader für die lokale Flora und Fauna bildet.",
+      "facts": ["Bedeutender Fluss", "Lebensader der Region", "Reiche Flora & Fauna"]
+    },
+    {
+      "id": "foret-de-tamba-nature-v2",
+      "description": "Ein Waldgebiet nahe Tambacounda, das für seine Artenvielfalt und als grünes Ökosystem der Region von Bedeutung ist.",
+      "facts": ["Wald nahe Tambacounda", "Artenreiche Flora", "Grünes Ökosystem"]
+    },
+    {
+      "id": "delta-du-senegal-nature-v2",
+      "description": "Das weitläufige Mündungsdelta des Senegal-Flusses, ein Paradies für Vogelbeobachter und ein einzigartiges Naturschutzgebiet.",
+      "facts": ["Mündungsdelta des Senegal", "Paradies für Vogelwelt", "Einzigartiges Schutzgebiet"]
+    },
+    {
+      "id": "casamance-tal-v2",
+      "description": "Ein fruchtbares Flusstal in der Casamance-Region, das für seine üppige Vegetation und Landwirtschaft bekannt ist.",
+      "facts": ["Fruchtbares Flusstal", "Casamance-Region", "Üppige Vegetation"]
+    },
+    {
+      "id": "faleme-relief-v2",
+      "description": "Ein Flusstal entlang des Faleme, das durch eine abwechslungsreiche Landschaft und geologische Besonderheiten geprägt ist.",
+      "facts": ["Faleme-Tal", "Abwechslungsreiches Relief", "Geologische Besonderheiten"]
+    },
+    {
+      "id": "sine-ebene-v2",
+      "description": "Die weitläufige Ebene entlang des Sine-Flusses, geprägt durch Feuchtgebiete und eine reiche landwirtschaftliche Nutzung.",
+      "facts": ["Ebene am Sine", "Feuchtgebiete", "Landwirtschaftlich genutzt"]
+    },
+    {
+      "id": "matam-hochland-v2",
+      "description": "Eine höher gelegene Region bei Matam, die sich durch ihre trockene, hügelige Landschaft und markante Geografie auszeichnet.",
+      "facts": ["Hügellandschaft bei Matam", "Trockenes Hochland", "Markante Geografie"]
+    },
+    {
+      "id": "nördliche-kuestenebene-v2",
+      "description": "Die flache Küstenregion im Norden des Senegals, gekennzeichnet durch weite Sandstrände und eine offene Küstenlandschaft.",
+      "facts": ["Flache Küstenregion", "Weite Sandstrände", "Offene Landschaft"]
+    },
+    {
+      "id": "patar-wald-v2",
+      "description": "Ein bewaldetes Gebiet in der Patar-Region, das für seine lokale Biodiversität und Waldpflege geschätzt wird.",
+      "facts": ["Waldgebiet in Patar", "Lokale Biodiversität", "Waldpflege"]
+    },
+    {
+      "id": "niokolo-koba-berg-v2",
+      "description": "Erhebungen im Bereich des Niokolo-Koba-Nationalparks, die das Landschaftsbild dieses geschützten Areals prägen.",
+      "facts": ["Erhebungen im Nationalpark", "Landschaftsprägend", "Geschütztes Areal"]
+    },
+    {
+      "id": "fouta-djallon-hochland-v2",
+      "description": "Teile des Fouta-Djallon-Massivs, die sich in den Senegal erstrecken und ein markantes hügeliges Relief bilden.",
+      "facts": ["Ausläufer des Massivs", "Hügeliges Relief", "Landschaftsmerkmal"]
+    }
+  ]
+}

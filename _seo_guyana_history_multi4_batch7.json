@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-georgetown-city-hall-history-v2",
+      "descriptionAdvancedDe": "Das Rathaus von Georgetown ist ein außergewöhnliches Beispiel neugotischer Architektur und wird oft als eines der schönsten Gebäude in der Karibik bezeichnet. Das 1889 fertiggestellte Holzgebäude besticht durch seine filigranen Verzierungen, Türmchen und den imposanten Hauptturm. Es diente über ein Jahrhundert lang als Sitz der Stadtverwaltung und war Zeuge der Entwicklung Georgetowns von einer Kolonialstadt zu einer modernen Hauptstadt. Die komplizierten Holzarbeiten, sowohl innen als auch außen, zeigen das hohe handwerkliche Können der guyanischen Handwerker des 19. Jahrhunderts. Obwohl das Gebäude derzeit dringend restauriert werden muss, bleibt es ein ikonisches Wahrzeichen und ein Symbol des reichen architektonischen Erbes von Guyana. Es erinnert an eine Zeit des Wohlstands und des bürgerlichen Stolzes und zieht weiterhin Bewunderer an, die seine einzigartige Schönheit und historische Bedeutung schätzen.",
+      "descriptionAdvancedHu": "A georgetowni városháza a neogótikus építészet kivételes példája, és gyakran a Karib-térség egyik legszebb épületeként emlegetik. Az 1889-ben elkészült faépület lenyűgöző filigrán díszítéseivel, tornyaival és impozáns főtornyával. Több mint egy évszázadon át a városvezetés székhelye volt, és tanúja volt Georgetown fejlődésének a gyarmati várostól a modern fővárosig. A bonyolult famunkák, mind a belső, mind a külső részen, a 19. századi guyanai kézművesek magas szintű mesterségbeli tudását mutatják. Bár az épület jelenleg sürgős felújításra szorul, ikonikus nevezetesség és Guyana gazdag építészeti örökségének szimbóluma marad. A jólét és a polgári büszkeség korszakára emlékeztet, és továbbra is vonzza a csodálókat, akik értékelik egyedi szépségét és történelmi jelentőségét.",
+      "descriptionAdvancedRo": "Primăria din Georgetown este un exemplu excepțional de arhitectură neogotică și este adesea descrisă ca fiind una dintre cele mai frumoase clădiri din Caraibe. Finalizată în 1889, clădirea din lemn impresionează prin decorațiunile sale filigranate, turnulețe și impunătorul turn principal. A servit drept sediu al administrației orașului timp de peste un secol și a fost martoră la dezvoltarea Georgetownului de la un oraș colonial la o capitală modernă. Lucrările complicate în lemn, atât la interior, cât și la exterior, demonstrează înaltul nivel de măiestrie al artizanilor guyanezi din secolul al XIX-lea. Deși clădirea necesită în prezent o restaurare urgentă, ea rămâne un reper iconic și un simbol al bogatei moșteniri arhitecturale a Guyanei. Ea amintește de o epocă de prosperitate și mândrie civică și continuă să atragă admiratori care îi apreciază frumusețea unică și semnificația istorică.",
+      "descriptionAdvancedEn": "Georgetown's City Hall is an exceptional example of Gothic Revival architecture and is often described as one of the most beautiful buildings in the Caribbean. Completed in 1889, the wooden building impresses with its delicate decorations, turrets, and imposing main tower. It served as the seat of the city administration for over a century and witnessed Georgetown's development from a colonial town to a modern capital. The intricate woodwork, both inside and out, showcases the high level of craftsmanship of 19th-century Guyanese artisans. Although the building is currently in urgent need of restoration, it remains an iconic landmark and a symbol of Guyana's rich architectural heritage. It harks back to an era of prosperity and civic pride and continues to attract admirers who appreciate its unique beauty and historical significance.",
+      "factsAdvanced": [
+        "Fertiggestellt im Jahr 1889.",
+        "Ein herausragendes Beispiel der neugotischen Architektur.",
+        "Wird oft als 'das schönste Gebäude der Karibik' bezeichnet.",
+        "Vollständig aus Holz erbaut.",
+        "Diente als Sitz der Stadtverwaltung von Georgetown.",
+        "Der Hauptturm ist etwa 30 Meter hoch.",
+        "Zeigt das Können guyanischer Handwerker des 19. Jahrhunderts.",
+        "Ein nationales Denkmal, das auf seine Restaurierung wartet."
+      ]
+    }
+  ]
+}

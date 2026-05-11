@@ -1,0 +1,20 @@
+{
+  "lang": "en",
+  "country": "Lesotho",
+  "files": [ "lib/visualLab/data/poiExtraLesothoCitiesV2.ts" ],
+  "items": [
+    { "id": "maputsoe-cities-v2", "description": "Maputsoe is a major industrial town in the Leribe district, located on the border with South Africa.", "facts": ["Industrial town", "Border town", "Leribe district"] },
+    { "id": "morija-cities-v2", "description": "Morija is an important cultural and educational center, home to the country's first mission station.", "facts": ["Cultural center", "Mission station", "Historic town"] },
+    { "id": "semonkong-cities-v2", "description": "Semonkong is famous for the Maletsunyane Falls, one of the highest single-drop waterfalls in Africa.", "facts": ["Maletsunyane Falls", "Place of Smoke", "Adventure tourism"] },
+    { "id": "peka-cities-v2", "description": "Peka is a town in the Leribe district, serving as a regional center for agriculture and commerce.", "facts": ["Leribe district", "Regional center", "Agricultural hub"] },
+    { "id": "tsakholo-cities-v2", "description": "Tsakholo is a rural settlement in the Mafeteng district, primarily focused on farming and local trade.", "facts": ["Mafeteng district", "Rural settlement", "Farming community"] },
+    { "id": "sekake-cities-v2", "description": "Sekake is a village in the Qacha's Nek district, located in the rugged highlands of south-eastern Lesotho.", "facts": ["Qacha's Nek district", "Rugged highlands", "High altitude"] },
+    { "id": "ha-lejone-cities-v2", "description": "Ha Lejone is a scenic village overlooking the Katse Dam reservoir, popular for its stunning mountain views.", "facts": ["Katse Dam views", "Scenic village", "Leribe district"] },
+    { "id": "katse-cities-v2", "description": "Katse is the site of the massive Katse Dam, a central piece of the Lesotho Highlands Water Project.", "facts": ["Katse Dam", "Highlands Water Project", "Engineering landmark"] },
+    { "id": "saint-michaels-cities-v2", "description": "Saint Michaels is a mountain village in the Maseru district, providing a starting point for various treks.", "facts": ["Maseru district", "Mountain village", "Trekking hub"] },
+    { "id": "khabos-cities-v2", "description": "Khabos is a settlement in the Leribe district, known for its community of high-altitude farmers.", "facts": ["Leribe district", "Farming community", "Highlands village"] },
+    { "id": "maphutseng-cities-v2", "description": "Maphutseng is a historic village known for its paleontological sites and fossilized dinosaur footprints.", "facts": ["Dinosaur footprints", "Historic village", "Paleontology site"] },
+    { "id": "alwynskop-cities-v2", "description": "Alwynskop is a village in the Quthing district, named after the abundance of aloe plants in the area.", "facts": ["Quthing district", "Aloe plants", "Southern Lesotho"] },
+    { "id": "letseng-la-terae-cities-v2", "description": "Letseng-la-Terae is home to the world's highest diamond mine, operating at an altitude of over 3,100 meters.", "facts": ["Diamond mine", "Extreme altitude", "Maloti Mountains"] }
+  ]
+}

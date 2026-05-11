@@ -1,0 +1,76 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaLandmarksV2.ts"],
+  "items": [
+    {
+      "id": "stabroek-market-landmarks-v2",
+      "descriptionAdvancedDe": "Der Stabroek Market in Georgetown ist mehr als nur ein Handelsplatz; er ist das pulsierende Herz der Hauptstadt Guyanas. Das markanteste Merkmal ist der gusseiserne Glockenturm, der die Skyline der Stadt prägt. Der 1881 eröffnete Markt ist ein Labyrinth aus Ständen, die alles von frischen Produkten und exotischen Früchten bis hin zu handgefertigtem Schmuck und Kleidung verkaufen. Die Atmosphäre ist geprägt von den Rufen der Verkäufer, dem geschäftigen Treiben der Käufer und den vielfältigen Gerüchen der angebotenen Waren. Er ist ein Schmelztiegel der Kulturen Guyanas und bietet einen authentischen Einblick in den Alltag der Einheimischen. Trotz seines Alters und des manchmal chaotischen Eindrucks ist der Markt ein unverzichtbares Wahrzeichen und ein Muss für jeden Besucher.",
+      "descriptionAdvancedHu": "A Stabroek piac Georgetownban több mint egy egyszerű piac; Guyana fővárosának lüktető szíve. Legjellegzetesebb eleme az öntöttvas óratorony, amely a város látképét is meghatározza. Az 1881-ben megnyitott piac egy standokból álló labirintus, ahol a friss termékektől és egzotikus gyümölcsöktől kezdve a kézműves ékszerekig és ruhákig mindent árulnak. A hangulatot az árusok kiáltásai, a vásárlók nyüzsgése és a kínált áruk sokféle illata határozza meg. A piac Guyana kultúráinak olvasztótégelye, és hiteles betekintést nyújt a helyiek mindennapi életébe. Kora és a néha kaotikus benyomás ellenére a piac kihagyhatatlan nevezetesség és minden látogató számára kötelező.",
+      "descriptionAdvancedRo": "Piața Stabroek din Georgetown este mai mult decât un simplu loc de comerț; este inima vibrantă a capitalei Guyanei. Cea mai izbitoare caracteristică este turnul cu ceas din fontă, care domină orizontul orașului. Deschisă în 1881, piața este un labirint de tarabe care vând de la produse proaspete și fructe exotice la bijuterii artizanale și îmbrăcăminte. Atmosfera este definită de strigătele vânzătorilor, agitația cumpărătorilor și mirosurile diverse ale mărfurilor oferite. Este un creuzet al culturilor din Guyana și oferă o perspectivă autentică asupra vieții de zi cu zi a localnicilor. În ciuda vechimii și a impresiei uneori haotice, piața este un punct de reper indispensabil și o vizită obligatorie pentru orice vizitator.",
+      "descriptionAdvancedEn": "Stabroek Market in Georgetown is more than just a marketplace; it is the vibrant heart of Guyana's capital. Its most striking feature is the cast-iron clock tower that dominates the city's skyline. Opened in 1881, the market is a labyrinth of stalls selling everything from fresh produce and exotic fruits to handmade jewelry and clothing. The atmosphere is defined by the shouts of vendors, the bustle of shoppers, and the diverse smells of the goods on offer. It's a melting pot of Guyana's cultures and offers an authentic insight into the daily lives of the locals. Despite its age and sometimes chaotic impression, the market is an indispensable landmark and a must-see for any visitor.",
+      "factsAdvanced": [
+        "Opened in 1881.",
+        "Features a prominent cast-iron clock tower.",
+        "Designed and manufactured by the Edgemoor Iron Company of Delaware, USA.",
+        "The entire structure is made of iron and steel.",
+        "A central hub for commerce and social life in Georgetown.",
+        "Offers a wide variety of goods, from produce to crafts.",
+        "A prime example of Victorian-era architecture.",
+        "The market covers an area of about 80,000 square feet (7,400 m²)."
+      ]
+    },
+    {
+      "id": "parliament-building-guyana-landmarks-v2",
+      "descriptionAdvancedDe": "Das Parlamentsgebäude in Georgetown ist der Sitz der Nationalversammlung von Guyana und ein architektonisches Juwel. Das 1834 fertiggestellte Gebäude wurde von Joseph Hadfield im Renaissance-Stil entworfen. Seine weißen Fassaden und die eleganten Säulen verleihen ihm ein stattliches Aussehen. Es befindet sich in prominenter Lage im Zentrum von Georgetown und ist ein Symbol für die gesetzgebende Gewalt des Landes. Das Gebäude hat eine reiche Geschichte und war Zeuge vieler wichtiger politischer Ereignisse in Guyana. Im Inneren beherbergt es die Debattierkammer, in der die Gesetze des Landes diskutiert und verabschiedet werden. Das Parlamentsgebäude ist nicht nur ein funktionales Regierungsgebäude, sondern auch ein wichtiges historisches Wahrzeichen.",
+      "descriptionAdvancedHu": "A georgetowni Parlament épülete a guyanai Nemzetgyűlés székhelye és egy építészeti gyöngyszem. Az 1834-ben befejezett épületet Joseph Hadfield tervezte reneszánsz stílusban. Fehér homlokzata és elegáns oszlopai tekintélyes megjelenést kölcsönöznek neki. Georgetown központjában, kiemelkedő helyen található, és az ország törvényhozó hatalmának szimbóluma. Az épület gazdag történelemmel rendelkezik, és számos fontos politikai eseménynek volt tanúja Guyanában. Belsejében található a vitaterem, ahol az ország törvényeit vitatják meg és fogadják el. A Parlament épülete nemcsak egy funkcionális kormányzati épület, hanem egy fontos történelmi nevezetesség is.",
+      "descriptionAdvancedRo": "Clădirea Parlamentului din Georgetown este sediul Adunării Naționale a Guyanei și o bijuterie arhitecturală. Finalizată în 1834, clădirea a fost proiectată de Joseph Hadfield în stil renascentist. Fațadele sale albe și coloanele elegante îi conferă un aspect impunător. Este situată într-o locație proeminentă în centrul orașului Georgetown și este un simbol al puterii legislative a țării. Clădirea are o istorie bogată și a fost martora multor evenimente politice importante din Guyana. În interior, găzduiește camera de dezbateri, unde sunt discutate și adoptate legile țării. Clădirea Parlamentului nu este doar o clădire guvernamentală funcțională, ci și un important punct de reper istoric.",
+      "descriptionAdvancedEn": "The Parliament Building in Georgetown is the seat of the National Assembly of Guyana and an architectural gem. Completed in 1834, the building was designed by Joseph Hadfield in a Renaissance Revival style. Its white facades and elegant columns give it a stately appearance. It is prominently located in the center of Georgetown and is a symbol of the country's legislative power. The building has a rich history and has witnessed many important political events in Guyana. Inside, it houses the debating chamber where the nation's laws are discussed and passed. The Parliament Building is not only a functional government building but also an important historical landmark.",
+      "factsAdvanced": [
+        "Completed and formally opened on April 1, 1834.",
+        "Designed by architect Joseph Hadfield.",
+        "Built in the Renaissance Revival architectural style.",
+        "Serves as the seat of the National Assembly of Guyana.",
+        "The foundation stone was laid in 1829.",
+        "The walls are made of brick, plastered to resemble stone blocks.",
+        "The Parliament Chamber is located on the upper floor.",
+        "A symbol of Guyana's legislative independence."
+      ]
+    },
+    {
+      "id": "umana-yana-landmarks-v2",
+      "descriptionAdvancedDe": "Die Umana Yana in Georgetown ist ein beeindruckendes Beispiel für indigene Architektur und ein wichtiges kulturelles Symbol in Guyana. Der Name 'Umana Yana' stammt aus der Sprache der Wai-Wai und bedeutet 'Treffpunkt des Volkes'. Es handelt sich um ein großes kegelförmiges Gebäude, das einem traditionellen Wai-Wai-Benab (Hütte) nachempfunden ist. Es wurde 1972 anlässlich der Konferenz der Außenminister der Blockfreien Staaten errichtet. Die Struktur ist vollständig aus natürlichen Materialien gefertigt, darunter ein Dach aus Palmblättern und eine Stützstruktur aus Wallaba-Holzpfählen. Obwohl das ursprüngliche Gebäude 2014 durch ein Feuer zerstört wurde, wurde es originalgetreu wiederaufgebaut und dient weiterhin als Veranstaltungsort für kulturelle und staatliche Anlässe.",
+      "descriptionAdvancedHu": "Az Umana Yana Georgetownban az őslakos építészet lenyűgöző példája és Guyana fontos kulturális szimbóluma. Az 'Umana Yana' név a wai-wai nyelvből származik, és azt jelenti: 'a nép találkozóhelye'. Ez egy nagy, kúp alakú épület, amely egy hagyományos wai-wai benab (kunyhó) mintájára készült. 1972-ben épült az El Nem Kötelezett Országok külügyminisztereinek konferenciájára. A szerkezet teljes egészében természetes anyagokból készült, beleértve a pálmalevél tetőt és a wallaba faoszlopokból álló tartószerkezetet. Bár az eredeti épület 2014-ben egy tűzvészben megsemmisült, hűen újjáépítették, és továbbraও kulturális és állami események helyszínéül szolgál.",
+      "descriptionAdvancedRo": "Umana Yana din Georgetown este un exemplu impresionant de arhitectură indigenă și un simbol cultural important în Guyana. Numele 'Umana Yana' provine din limba Wai-Wai și înseamnă 'locul de întâlnire al oamenilor'. Este o clădire mare, conică, modelată după un benab (colibă) tradițional Wai-Wai. A fost ridicată în 1972 pentru a găzdui Conferința Miniștrilor de Externe ai Țărilor Nealiniate. Structura este realizată în întregime din materiale naturale, inclusiv un acoperiș din frunze de palmier și o structură de susținere din stâlpi de lemn de wallaba. Deși clădirea originală a fost distrusă de un incendiu în 2014, a fost reconstruită cu fidelitate și continuă să servească drept loc de desfășurare pentru evenimente culturale și de stat.",
+      "descriptionAdvancedEn": "The Umana Yana in Georgetown is an impressive example of indigenous architecture and a significant cultural symbol in Guyana. The name 'Umana Yana' comes from the Wai-Wai language and means 'meeting place of the people.' It is a large conical building modeled after a traditional Wai-Wai benab (hut). It was erected in 1972 to host the Non-Aligned Foreign Ministers Conference. The structure is made entirely of natural materials, including a thatched roof of palm leaves and a supporting structure of wallaba wood poles. Although the original building was destroyed by fire in 2014, it was faithfully rebuilt and continues to serve as a venue for cultural and state events.",
+      "factsAdvanced": [
+        "The name means 'meeting place of the people' in the Wai-Wai language.",
+        "Originally built in 1972 by a team of about 60 Wai-Wai people.",
+        "The structure is 55 feet (17 meters) high.",
+        "Made from thatched allibanna and manicole palm leaves, and wallaba posts.",
+        "No nails were used in its original construction.",
+        "It was built to host the Non-Aligned Foreign Ministers Conference.",
+        "Destroyed by fire in 2014 and subsequently rebuilt in 2016.",
+        "Adjacent to the African Liberation Monument."
+      ]
+    },
+    {
+      "id": "1763-monument-landmarks-v2",
+      "descriptionAdvancedDe": "Das 1763-Denkmal in Georgetown ist eine kraftvolle Hommage an den Sklavenaufstand von Berbice im Jahr 1763, einen entscheidenden Moment in der Geschichte Guyanas. Das Denkmal, das auch als Cuffy-Denkmal bekannt ist, ehrt Cuffy (oder Kofi), den Anführer des Aufstands, der heute als Nationalheld Guyanas gilt. Das 1976 enthüllte Denkmal wurde vom guyanischen Künstler Philip Moore entworfen. Die Bronzeskulptur ist reich an Symbolik und stellt den Kampf um Freiheit und den unbezwingbaren Geist der versklavten Afrikaner dar. Es befindet sich am Platz der Revolution und ist ein zentraler Ort für nationale Gedenkfeiern, insbesondere am Jahrestag des Aufstands. Das Denkmal erinnert eindringlich an den hohen Preis der Freiheit und den Widerstand gegen die Unterdrückung.",
+      "descriptionAdvancedHu": "Az 1763-as emlékmű Georgetownban egy erőteljes tisztelgés az 1763-as berbice-i rabszolgafelkelés előtt, amely Guyana történelmének egyik döntő pillanata volt. Az emlékmű, amelyet Cuffy-emlékműként is ismernek, Cuffy (vagy Kofi), a felkelés vezetője előtt tiszteleg, akit ma Guyana nemzeti hősének tartanak. Az 1976-ban leleplezett emlékművet Philip Moore guyanai művész tervezte. A bronzszobor szimbolikában gazdag, a szabadságharcot és a rabszolgasorba taszított afrikaiak fékezhetetlen szellemét ábrázolja. A Forradalom terén található, és a nemzeti megemlékezések központi helyszíne, különösen a felkelés évfordulóján. Az emlékmű erőteljesen emlékeztet a szabadság magas árára és az elnyomás elleni küzdelemre.",
+      "descriptionAdvancedRo": "Monumentul 1763 din Georgetown este un omagiu puternic adus revoltei sclavilor din Berbice din 1763, un moment crucial în istoria Guyanei. Cunoscut și sub numele de Monumentul Cuffy, acesta îl onorează pe Cuffy (sau Kofi), liderul revoltei, care este acum considerat un erou național al Guyanei. Dezvelit în 1976, monumentul a fost proiectat de artistul guyanez Philip Moore. Sculptura din bronz este bogată în simbolism, reprezentând lupta pentru libertate și spiritul de neînvins al africanilor înrobiți. Situat în Piața Revoluției, este un loc central pentru comemorările naționale, în special la aniversarea revoltei. Monumentul servește ca o reamintire puternică a prețului libertății și a rezistenței împotriva opresiunii.",
+      "descriptionAdvancedEn": "The 1763 Monument in Georgetown is a powerful tribute to the Berbice Slave Uprising of 1763, a pivotal moment in Guyana's history. Also known as the Cuffy Monument, it honors Cuffy (or Kofi), the leader of the rebellion, who is now regarded as a national hero of Guyana. Unveiled in 1976, the monument was designed by Guyanese artist Philip Moore. The bronze sculpture is rich in symbolism, representing the struggle for freedom and the indomitable spirit of the enslaved Africans. Located in the Square of the Revolution, it is a central site for national commemorations, especially on the anniversary of the uprising. The monument serves as a poignant reminder of the price of freedom and the resistance against oppression.",
+      "factsAdvanced": [
+        "Commemorates the Berbice Slave Uprising of 1763.",
+        "Honors Cuffy, the leader of the rebellion and a national hero.",
+        "Unveiled on May 23, 1976, to mark Guyana's 10th anniversary of independence.",
+        "Designed by renowned Guyanese sculptor Philip Moore.",
+        "The monument stands 15 feet tall and weighs about 2.5 tons.",
+        "Located at the Square of the Revolution in Georgetown.",
+        "The figure holds a dog and a pig, symbolizing loyalty and greed.",
+        "It is a central point for national celebrations and reflections."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-alaotra-nature-v2",
+      "description": "Der Alaotra-See ist das größte Binnengewässer Madagaskars und ein wichtiges Feuchtgebiet. Er ist die Heimat seltener Vogelarten und ein Zentrum des Reisanbaus.",
+      "facts": ["Größter See", "Wichtiges Feuchtgebiet", "Reisanbau-Zentrum", "Biodiversität"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Der Itasy-See ist vulkanischen Ursprungs und liegt in einer malerischen Berglandschaft. Er ist bekannt für seine natürliche Schönheit und die umliegenden Wasserfälle.",
+      "facts": ["Vulkansee", "Berglandschaft", "Wasserfall-Region", "Naturschönheit"]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "description": "Der Nationalpark Ranomafana ist ein Paradies aus tropischem Regenwald und heißen Quellen. Er ist ein Hotspot für die Beobachtung seltener Lemurenarten.",
+      "facts": ["Nationalpark", "Regenwald", "Lemurenschutz", "Thermalquellen"]
+    },
+    {
+      "id": "nosy-komba-nature-v2",
+      "description": "Nosy Komba, auch Lemureninsel genannt, ist bekannt für ihre dichte Vegetation und die frei lebenden Lemuren. Sie bietet ein authentisches Naturerlebnis.",
+      "facts": ["Lemureninsel", "Dichte Vegetation", "Natur pur", "Insel-Ökosystem"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "Die Küste von Mahajanga besticht durch ihre abwechslungsreichen Strände und Mangrovenwälder. Sie ist ein bedeutender Naturraum im Nordwesten.",
+      "facts": ["Nordwestküste", "Mangroven", "Strandlandschaft", "Naturraum"]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "description": "Die Insel Sainte-Marie ist ein tropisches Paradies mit dichten Palmenwäldern und azurblauem Wasser. Sie ist berühmt für die Walbeobachtung in der Saison.",
+      "facts": ["Tropeninsel", "Walbeobachtung", "Palmenwälder", "Naturjuwel"]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "description": "Das Delta des Flusses Tsiribihina bietet eine einzigartige Flusslandschaft. Es ist ein wichtiges Ökosystem für viele Wassertierarten und Zugvögel.",
+      "facts": ["Flussdelta", "Ökosystem", "Wassertiere", "Vogelzug-Route"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "Der Tsimanampetsotsa-See ist ein alkalischer See in einer beeindruckenden Wüstenlandschaft. Er ist bekannt für seine Flamingo-Populationen.",
+      "facts": ["Alkalischer See", "Wüstenlandschaft", "Flamingo-Heimat", "Einzigartiges Ökosystem"]
+    },
+    {
+      "id": "mangoro-river-nature-v2",
+      "description": "Der Fluss Mangoro ist einer der längsten Flüsse Madagaskars. Er durchfließt vielfältige Landschaften und ist ein Lebensader für die umliegende Region.",
+      "facts": ["Langer Fluss", "Lebensader", "Vielfältige Landschaft", "Ostküste"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "Die Inselgruppe Nosy Mitsio besticht durch ihre unberührte Natur und kristallklares Wasser. Sie ist ein geschützter Lebensraum mit hoher Diversität.",
+      "facts": ["Inselgruppe", "Unberührte Natur", "Kristallwasser", "Hohe Diversität"]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "description": "Der Montagne d'Ambre Nationalpark ist ein grünes Paradies im Norden. Die vulkanischen Gebirgszüge beherbergen eine reiche Flora und viele Wasserfälle.",
+      "facts": ["Nationalpark", "Vulkangebirge", "Reiche Flora", "Wasserfälle"]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "description": "Der See von Anivorano ist durch die Legende der heiligen Krokodile bekannt. Er ist ein bedeutender Naturort mit kultureller Bedeutung.",
+      "facts": ["Heilige Krokodile", "Naturort", "Kulturelle Bedeutung", "Vulkansee"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Nosy Tanikely ist ein geschütztes maritimes Naturreservat mit beeindruckenden Riffen. Es ist ein Vorzeigebeispiel für den Meeresschutz auf Madagaskar.",
+      "facts": ["Naturreservat", "Maritimer Schutz", "Riffe", "Vorzeigebeispiel"]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "description": "Das Makay-Massiv ist ein zerklüftetes Labyrinth aus Schluchten und Bergen. Es ist ein kaum erforschtes Paradies für Entdecker und Naturliebhaber.",
+      "facts": ["Makay-Massiv", "Zerklüftete Landschaft", "Schluchten", "Erforscher-Paradies"]
+    }
+  ]
+}

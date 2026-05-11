@@ -1,0 +1,39 @@
+{
+  "lang": "ro",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "beledweyne-cities-v2",
+      "description": "Beledweyne este un centru urban situat pe malul râului Shebelle, în centrul Somaliei.",
+      "facts": ["Situat pe râul Shebelle", "Centru comercial regional", "Climat arid semideșertic"]
+    },
+    {
+      "id": "xuddur-cities-v2",
+      "description": "Xuddur este capitala regiunii Bakool, situată în sud-vestul Somaliei, aproape de granița cu Etiopia.",
+      "facts": ["Capitala regiunii Bakool", "Altitudine ridicată", "Economie bazată pe creșterea animalelor"]
+    },
+    {
+      "id": "baki-cities-v2",
+      "description": "Baki este un oraș din regiunea Awdal, situat într-o zonă montană din nord-vestul țării.",
+      "facts": ["Regiunea Awdal", "Peisaj montan", "Populație pastorală"]
+    },
+    {
+      "id": "hobyo-cities-v2",
+      "description": "Hobyo este un oraș istoric portuar situat pe coasta Oceanului Indian în regiunea Mudug.",
+      "facts": ["Port istoric", "Coasta Oceanului Indian", "Regiunea Mudug"]
+    },
+    {
+      "id": "mahaday-cities-v2",
+      "description": "Mahaday este un oraș situat pe cursul râului Shebelle, în regiunea Shabeellaha Dhexe.",
+      "facts": ["Situat pe râul Shebelle", "Regiunea Shabeellaha Dhexe", "Agricultură de irigație"]
+    },
+    {
+      "id": "adale-cities-v2",
+      "description": "Adale este un oraș portuar situat pe coasta Oceanului Indian, la nord de Mogadishu.",
+      "facts": ["Port la Oceanul Indian", "Regiunea Shabeellaha Dhexe", "Pescuit local"]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+    "lang": "multi4",
+    "country": "guinea",
+    "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+    "items": [
+      {
+        "id": "sanguiana-cities-v2",
+        "descriptionAdvancedDe": "Sanguiana ist eine kleine Stadt in der Präfektur Kouroussa in der Region Kankan. Es ist ein ländliches Zentrum, dessen Wirtschaft hauptsächlich auf der Landwirtschaft, insbesondere dem Anbau von Baumwolle und Erdnüssen, sowie der Viehzucht basiert. Die Stadt liegt in der Savannenregion von Oberguinea und ist von einer trockenen Landschaft geprägt. Sanguiana dient als lokaler Marktplatz für die umliegenden Dörfer und spiegelt die traditionelle Lebensweise der Malinke-Bevölkerung wider. Die Gemeinschaft ist bekannt für ihre starken sozialen Bindungen und ihre reiche musikalische Tradition, insbesondere die Djembe-Musik. Geographie K6 – Ländliche Savannenwirtschaft und Malinke-Kultur.",
+        "descriptionAdvancedHu": "Sanguiana egy kisváros a Kouroussa prefektúrában, Kankan régióban. Ez egy vidéki központ, amelynek gazdasága főként a mezőgazdaságra, különösen a gyapot- és földimogyoró-termesztésre, valamint az állattenyésztésre épül. A város Felső-Guinea szavanna régiójában fekszik, és száraz táj jellemzi. Sanguiana a környező falvak helyi piacaként szolgál, és a malinke lakosság hagyományos életmódját tükrözi. A közösség ismert erős társadalmi kötelékeiről és gazdag zenei hagyományairól, különösen a dzsembé zenéről. Földrajz K6 – Vidéki szavannagazdaság és malinke kultúra.",
+        "descriptionAdvancedRo": "Sanguiana este un mic oraș din prefectura Kouroussa, regiunea Kankan. Este un centru rural a cărui economie se bazează în principal pe agricultură, în special pe cultivarea bumbacului și a alunelor, precum și pe creșterea animalelor. Orașul este situat în regiunea de savană din Guineea Superioară și este caracterizat de un peisaj uscat. Sanguiana servește ca piață locală pentru satele din jur și reflectă modul de viață tradițional al populației Malinke. Comunitatea este cunoscută pentru legăturile sale sociale puternice și pentru bogata sa tradiție muzicală, în special muzica Djembe. Geografie K6 – Economie rurală de savană și cultura Malinke.",
+        "descriptionAdvancedEn": "Sanguiana is a small town in the Kouroussa prefecture, Kankan region. It is a rural center whose economy is mainly based on agriculture, especially the cultivation of cotton and peanuts, as well as livestock farming. The town is located in the savanna region of Upper Guinea and is characterized by a dry landscape. Sanguiana serves as a local marketplace for the surrounding villages and reflects the traditional way of life of the Malinke population. The community is known for its strong social ties and rich musical tradition, especially Djembe music. Geography K6 – Rural savanna economy and Malinke culture.",
+        "factsAdvanced": [
+            "A Kouroussa prefektúrában található kisváros.",
+            "A gazdaság a gyapot- és földimogyoró-termesztésen alapul.",
+            "A Malinke népesség hagyományos életmódjának központja.",
+            "Helyi piac a környező falvak számára.",
+            "A régió híres a Djembe dobosairól.",
+            "A lakosság főként önellátó gazdálkodásból él.",
+            "A Felső-Guineai szavanna tipikus tája veszi körül.",
+            "Erős közösségi és családi kötelékek jellemzik."
+        ]
+      },
+      {
+        "id": "sangaredi-cities-v2",
+        "descriptionAdvancedDe": "Sangarédi in der Region Boké ist das Herz des guineischen Bauxitabbaus. Die Stadt wurde in den 1970er Jahren als Bergbausiedlung entwickelt und beherbergt eine der reichsten Bauxitminen der Welt. Die Mine wird von der Compagnie des Bauxites de Guinée (CBG) betrieben, die der größte Arbeitgeber in der Region ist. Eine dedizierte Eisenbahnlinie verbindet Sangarédi mit dem Exporthafen in Kamsar. Die Stadt ist ein Schmelztiegel von Menschen aus ganz Guinea, die von der Bergbauindustrie angezogen werden. Das Leben in Sangarédi ist vollständig vom Rhythmus und den Bedürfnissen des Bergbaubetriebs geprägt. Geographie K9 – Bergbaustädte und industrielle Infrastruktur.",
+        "descriptionAdvancedHu": "A Boké régióban található Sangarédi a guineai bauxitbányászat szíve. A várost az 1970-es években bányásztelepülésként fejlesztették ki, és a világ egyik leggazdagabb bauxitbányájának ad otthont. A bányát a Compagnie des Bauxites de Guinée (CBG) üzemelteti, amely a régió legnagyobb munkaadója. Egy külön vasútvonal köti össze Sangarédit a kamsari exportkikötővel. A város olvasztótégelye Guinea minden tájáról érkező embereknek, akiket a bányászat vonz. Az élet Sangarédiban teljes mértékben a bányászati műveletek ritmusához és igényeihez igazodik. Földrajz K9 – Bányavárosok és ipari infrastruktúra.",
+        "descriptionAdvancedRo": "Sangarédi, în regiunea Boké, este inima extracției de bauxită din Guineea. Orașul a fost dezvoltat în anii 1970 ca o așezare minieră și găzduiește una dintre cele mai bogate mine de bauxită din lume. Mina este operată de Compagnie des Bauxites de Guinée (CBG), care este cel mai mare angajator din regiune. O linie de cale ferată dedicată leagă Sangarédi de portul de export din Kamsar. Orașul este un creuzet de oameni din toată Guineea, atrași de industria minieră. Viața în Sangarédi este complet modelată de ritmul și nevoile operațiunilor miniere. Geografie K9 – Orașe miniere și infrastructură industrială.",
+        "descriptionAdvancedEn": "Sangarédi, in the Boké region, is the heart of Guinean bauxite mining. The town was developed in the 1970s as a mining settlement and is home to one of the richest bauxite mines in the world. The mine is operated by the Compagnie des Bauxites de Guinée (CBG), which is the largest employer in the region. A dedicated railway line connects Sangarédi to the export port in Kamsar. The town is a melting pot of people from all over Guinea, attracted by the mining industry. Life in Sangarédi is completely shaped by the rhythm and needs of the mining operations. Geography K9 – Mining towns and industrial infrastructure.",
+        "factsAdvanced": [
+            "A világ egyik legnagyobb és legjobb minőségű bauxitbányájának helyszíne.",
+            "A Compagnie des Bauxites de Guinée (CBG) fő bányászati központja.",
+            "Az 1970-es években alapították kifejezetten a bányászati tevékenységhez.",
+            "Vasútvonal köti össze Kamsar kikötőjével a bauxit exportja érdekében.",
+            "A város lakossága több mint 80 000 fő, sok a belső migráns.",
+            "A gazdaság szinte teljes mértékben a bauxitbányászattól függ.",
+            "A város infrastruktúráját nagyrészt a bányavállalat tartja fenn.",
+            "A bányászat jelentős környezeti hatással van a régióra."
+        ]
+      },
+      {
+        "id": "kolaboui-cities-v2",
+        "descriptionAdvancedDe": "Kolaboui ist eine schnell wachsende Stadt in der Präfektur Boké, die als wichtiger Verkehrsknotenpunkt für die Bauxitindustrie dient. Die Stadt liegt an der Kreuzung der Straßen nach Kamsar, Sangarédi und Boké. Dieser strategische Standort hat zu einem Boom im Dienstleistungssektor geführt, der auf die Bedürfnisse der Bergbauunternehmen und ihrer Mitarbeiter ausgerichtet ist. Kolaboui hat sich von einem kleinen Dorf zu einem geschäftigen Zentrum für Handel, Transport und Logistik entwickelt. Die schnelle und oft ungeplante Urbanisierung stellt die Stadt jedoch vor erhebliche infrastrukturelle Herausforderungen. Geographie K9 – Logistikzentren und schnelle Urbanisierung.",
+        "descriptionAdvancedHu": "Kolaboui egy gyorsan növekvő város a Boké prefektúrában, amely a bauxitipar fontos közlekedési csomópontjaként szolgál. A város a Kamsarba, Sangarédibe és Bokéba vezető utak kereszteződésében fekszik. Ez a stratégiai elhelyezkedés a szolgáltató szektor fellendüléséhez vezetett, amely a bányavállalatok és alkalmazottaik igényeit szolgálja ki. Kolaboui egy kis faluból a kereskedelem, a közlekedés és a logisztika nyüzsgő központjává fejlődött. A gyors és gyakran tervezetlen urbanizáció azonban jelentős infrastrukturális kihívások elé állítja a várost. Földrajz K9 – Logisztikai központok és gyors urbanizáció.",
+        "descriptionAdvancedRo": "Kolaboui este un oraș în creștere rapidă în prefectura Boké, servind ca un nod de transport important pentru industria de bauxită. Orașul este situat la intersecția drumurilor către Kamsar, Sangarédi și Boké. Această locație strategică a dus la un boom în sectorul serviciilor, orientat spre nevoile companiilor miniere și ale angajaților acestora. Kolaboui s-a dezvoltat dintr-un mic sat într-un centru aglomerat pentru comerț, transport și logistică. Cu toate acestea, urbanizarea rapidă și adesea neplanificată pune orașul în fața unor provocări infrastructurale semnificative. Geografie K9 – Centre logistice și urbanizare rapidă.",
+        "descriptionAdvancedEn": "Kolaboui is a fast-growing town in the Boké prefecture, serving as an important transportation hub for the bauxite industry. The town is located at the crossroads of the roads to Kamsar, Sangarédi, and Boké. This strategic location has led to a boom in the service sector, geared to the needs of the mining companies and their employees. Kolaboui has developed from a small village into a bustling center for trade, transport, and logistics. However, the rapid and often unplanned urbanization presents the city with significant infrastructural challenges. Geography K9 – Logistics hubs and rapid urbanization.",
+        "factsAdvanced": [
+            "Stratégiai közlekedési csomópont a Boké bauxitrégióban.",
+            "Összeköti Boké, Kamsar és Sangarédi városait.",
+            "Gyorsan növekvő város a bányászat által generált gazdasági tevékenységek miatt.",
+            "Fontos logisztikai és szolgáltató központ a bányavállalatok számára.",
+            "A lakosság jelentősen megnőtt az elmúlt évtizedekben.",
+            "A gyors urbanizáció kihívásokat jelent az infrastruktúra számára.",
+            "A helyi gazdaság a kereskedelemre és a közlekedésre épül.",
+            "A város a Rio Nuñez folyó közelében fekszik."
+        ]
+      },
+      {
+        "id": "salambande-cities-v2",
+        "descriptionAdvancedDe": "Salambande ist ein Dorf in der Präfektur Mali in der Region Labé. Es liegt im Herzen des Fouta-Djallon-Hochlands und ist bekannt für seine traditionelle Fulbe-Kultur und seine malerische Landschaft. Die Hauptbeschäftigung der Bewohner ist die Landwirtschaft, insbesondere der Anbau von Fonio und Erdnüssen, sowie die Viehzucht. Salambande ist ein typisches Beispiel für ein ländliches Dorf im Fouta Djallon, in dem die alten Traditionen und die islamische Religion das tägliche Leben bestimmen. Die Gegend ist auch für ihre traditionellen Musiker und Geschichtenerzähler (Griots) bekannt. Geographie K7 – Traditionelles Dorfleben und Fulbe-Kultur.",
+        "descriptionAdvancedHu": "Salambande egy falu a Mali prefektúrában, a Labé régióban. A Fouta-Djallon-felföld szívében fekszik, és hagyományos fulbe kultúrájáról és festői tájáról ismert. A lakosok fő foglalkozása a mezőgazdaság, különösen a fonio és a földimogyoró termesztése, valamint az állattenyésztés. Salambande tipikus példája egy Fouta Djallon-i vidéki falunak, ahol a régi hagyományok és az iszlám vallás határozza meg a mindennapi életet. A környék híres hagyományos zenészeiről és mesemondóiról (griot-k) is. Földrajz K7 – Hagyományos falusi élet és fulbe kultúra.",
+        "descriptionAdvancedRo": "Salambande este un sat din prefectura Mali, regiunea Labé. Este situat în inima podișului Fouta Djallon și este cunoscut pentru cultura sa tradițională Fulani și peisajul său pitoresc. Ocupația principală a locuitorilor este agricultura, în special cultivarea fonio și a alunelor, precum și creșterea animalelor. Salambande este un exemplu tipic de sat rural din Fouta Djallon, unde tradițiile vechi și religia islamică determină viața de zi cu zi. Zona este, de asemenea, cunoscută pentru muzicienii săi tradiționali și povestitorii (griots). Geografie K7 – Viața tradițională a satului și cultura Fulani.",
+        "descriptionAdvancedEn": "Salambande is a village in the Mali prefecture, Labé region. It is located in the heart of the Fouta Djallon highlands and is known for its traditional Fulani culture and picturesque landscape. The main occupation of the inhabitants is agriculture, especially the cultivation of fonio and peanuts, as well as livestock farming. Salambande is a typical example of a rural village in Fouta Djallon, where the old traditions and the Islamic religion determine daily life. The area is also known for its traditional musicians and storytellers (griots). Geography K7 – Traditional village life and Fulani culture.",
+        "factsAdvanced": [
+            "Vidéki falu a Mali prefektúrában, a Fouta Djallon hegyvidékén.",
+            "A lakosság főként fulbe (peul) etnikumú.",
+            "A gazdaság az önellátó mezőgazdaságon és az állattenyésztésen alapul.",
+            "A hagyományos fulbe kultúra és szokások erősen élnek.",
+            "A falu a hagyományos iszlám oktatás egyik helyi központja.",
+            "A környező tájat hegyek és völgyek jellemzik.",
+            "A helyi közösség a kézművességéről, különösen a kosárfonásról ismert.",
+            "Tipikus példája a Fouta Djallon elszigetelt, hegyi falvainak."
+        ]
+      },
+      {
+        "id": "popodara-cities-v2",
+        "descriptionAdvancedDe": "Popodara ist ein Dorf in der Nähe der Stadt Labé im Fouta-Djallon-Hochland. Es ist berühmt für seine spektakulären Felsformationen und die reiche Fulbe-Kultur. Das Dorf liegt in einer landschaftlich reizvollen Gegend, die von Sandsteinfelsen und grünen Tälern geprägt ist. Die Landwirtschaft ist die Haupteinnahmequelle, wobei der Schwerpunkt auf dem Anbau von Gemüse liegt, das auf dem Markt von Labé verkauft wird. Popodara ist auch ein Zentrum für traditionelles Handwerk, insbesondere Töpferei und Weberei. Die mündlichen Überlieferungen und die Musik der Fulbe sind ein wichtiger Teil des kulturellen Lebens im Dorf. Geographie K7 – Ländliche Kultur und Naturlandschaften.",
+        "descriptionAdvancedHu": "Popodara egy falu Labé város közelében, a Fouta-Djallon-felföldön. Híres látványos sziklaalakzatairól és gazdag fulbe kultúrájáról. A falu egy festői szépségű területen fekszik, amelyet homokkő sziklák és zöld völgyek jellemeznek. A mezőgazdaság a fő bevételi forrás, a hangsúly a Labé piacán értékesített zöldségek termesztésén van. Popodara a hagyományos kézművesség, különösen a fazekasság és a szövés központja is. A fulbe szóbeli hagyományok és zene a falu kulturális életének fontos részét képezik. Földrajz K7 – Vidéki kultúra és természeti tájak.",
+        "descriptionAdvancedRo": "Popodara este un sat de lângă orașul Labé din podișul Fouta Djallon. Este renumit pentru formațiunile sale stâncoase spectaculoase și cultura bogată Fulani. Satul este situat într-o zonă pitorească, caracterizată de stânci de gresie și văi verzi. Agricultura este principala sursă de venit, cu accent pe cultivarea legumelor vândute la piața din Labé. Popodara este, de asemenea, un centru pentru meșteșugurile tradiționale, în special olăritul și țesutul. Tradițiile orale și muzica Fulani sunt o parte importantă a vieții culturale a satului. Geografie K7 – Cultură rurală și peisaje naturale.",
+        "descriptionAdvancedEn": "Popodara is a village near the city of Labé in the Fouta Djallon highlands. It is famous for its spectacular rock formations and rich Fulani culture. The village is located in a scenic area characterized by sandstone cliffs and green valleys. Agriculture is the main source of income, with a focus on growing vegetables sold at the Labé market. Popodara is also a center for traditional crafts, especially pottery and weaving. The Fulani oral traditions and music are an important part of the village's cultural life. Geography K7 – Rural culture and natural landscapes.",
+        "factsAdvanced": [
+            "Falu a Labé régióban, a Fouta Djallon-felföldön.",
+            "Ismert a lenyűgöző homokkő sziklaképződményeiről.",
+            "A lakosság főként zöldségtermesztéssel foglalkozik a közeli Labé piacára.",
+            "A Fulbe kultúra és a kézművesség (fazekasság, szövés) központja.",
+            "A falu népszerű célpont a túrázók számára.",
+            "A hagyományos életmód és építészet jól megőrződött.",
+            "A környéken számos kisebb vízesés és barlang található.",
+            "A helyi közösség megőrzi a gazdag szóbeli hagyományokat és a zenét."
+        ]
+      }
+    ]
+}

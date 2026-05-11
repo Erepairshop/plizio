@@ -1,0 +1,65 @@
+{
+  "lang": "hu",
+  "country": "Bolivia",
+  "files": [
+    "lib/visualLab/data/poiExtraBoliviaLifeV2.ts",
+    "lib/visualLab/data/poiExtraBoliviaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "biocentro-guembe-life-v2",
+      "description": "Hatalmas ökológiai park és természetvédelmi terület Santa Cruz közelében, amely lenyűgöző pillangóházzal és botanikus kerttel várja a látogatókat.",
+      "facts": ["A világ egyik legnagyobb pillangóháza található itt", "Természetes medencék és lagúnák", "Gazdag trópusi növény- és állatvilág"]
+    },
+    {
+      "id": "parque-cretacico-sucre-life-v2",
+      "description": "Egyedülálló paleontológiai park Sucre határában, ahol a világ egyik legnagyobb dinoszaurusz-lábnyom lelőhelye látható egy hatalmas mészkőfalon.",
+      "facts": ["Több mint 5000 őskori lábnyom", "Életnagyságú dinoszaurusz modellek", "A kréta korszak élővilágát mutatja be"]
+    },
+    {
+      "id": "torotoro-nationalpark-life-v2",
+      "description": "Geológiai és paleontológiai kincsesbánya az Andokban, mély kanyonokkal, barlangokkal és számos megkövesedett dinoszaurusz-lábnyommal.",
+      "facts": ["Itt található Bolívia legmélyebb barlangja", "Látványos kanyonok és vízesések", "Gazdag fosszília-lelőhelyek"]
+    },
+    {
+      "id": "eduardo-avaroa-reservat-life-v2",
+      "description": "Bolívia leglátogatottabb természetvédelmi területe a délnyugati Altiplanón, szürreális lagúnákkal, gejzírekkel és flamingókkal.",
+      "facts": ["Átlagosan 4000 méter feletti magasság", "Itt található a Laguna Colorada és a Laguna Verde", "Három flamingófaj fészkelőhelye"]
+    },
+    {
+      "id": "kaa-iya-nationalpark-life-v2",
+      "description": "Dél-Amerika egyik legnagyobb érintetlen száraz erdővel rendelkező nemzeti parkja, a jaguárok és más nagyemlősök fontos menedékhelye.",
+      "facts": ["Területe nagyobb, mint Belgium", "A Gran Chaco ökoszisztémát védi", "Híres a nagyvad-megfigyelési lehetőségekről"]
+    },
+    {
+      "id": "bo-illimani-nature-v2",
+      "description": "A Cordillera Real legmagasabb és legikonikusabb hegycsúcsa, amely hófödte hármas kúpjával La Paz városának örök őrzője.",
+      "facts": ["Magassága 6438 méter", "Híres hármas csúcsáról ismerhető fel", "Az ajmara kultúra szent hegye"]
+    },
+    {
+      "id": "bo-sajama-nature-v2",
+      "description": "Bolívia legmagasabb pontja, egy fenséges kialudt rétegvulkán az Andok északnyugati részén, az ország legősibb nemzeti parkjában.",
+      "facts": ["Magassága 6542 méter", "Itt találhatók a világ legmagasabban fekvő erdői", "Környékén gejzírek és hőforrások találhatók"]
+    },
+    {
+      "id": "bo-huayna-potosi-nature-v2",
+      "description": "La Paz közelében fekvő, látványos gleccserekkel borított hegycsúcs, amely a világ egyik legnépszerűbb 6000 méter feletti hegymászó célpontja.",
+      "facts": ["Magassága 6088 méter", "Könnyű megközelíthetősége miatt kedvelt", "A Cordillera Real része"]
+    },
+    {
+      "id": "bo-illampu-nature-v2",
+      "description": "A Cordillera Real északi részének monumentális csúcsa, amely meredek jégfalaival a bolíviai Andok egyik legnagyobb kihívást jelentő hegye.",
+      "facts": ["Magassága 6368 méter", "Sorata városa felett magasodik", "Technikailag nehéz mászóútra van szükség a csúcshoz"]
+    },
+    {
+      "id": "bo-ancohuma-nature-v2",
+      "description": "Az Illampu közvetlen szomszédságában álló hatalmas, hófödte hegység, amely kiterjedt gleccsereivel a Cordillera Real egyik óriása.",
+      "facts": ["Magassága 6427 méter", "Kiterjedt hómezők és gleccserek borítják", "Bolívia egyik legmagasabb csúcsa"]
+    },
+    {
+      "id": "bo-laguna-colorada-nature-v2",
+      "description": "Lenyűgöző vörös színű sós tó a magas Andokban, amely különleges algáinak és a rajta élő több ezer flamingónak köszönheti hírnevét.",
+      "facts": ["A víz színét vörös algák adják", "James-flamingók fő fészkelőhelye", "Tengerszint feletti magassága 4278 méter"]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUruguayLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fuerte-de-san-miguel-history-v2",
+      "description": "A historic fortress built by the Spanish in 1737 to defend their borders in the Chuy region. It is now a museum displaying colonial artifacts and military history.",
+      "facts": ["Built in 1737", "Stone fortification", "Located near Chuy", "Border defense site"]
+    },
+    {
+      "id": "casa-de-lavalleja-history-v2",
+      "description": "The 18th-century home of Juan Antonio Lavalleja, a key figure in the Uruguayan independence movement. Today it serves as a museum preserving personal belongings and historical documents.",
+      "facts": ["Located in Minas", "18th-century architecture", "Independence figure's home", "Historical museum"]
+    },
+    {
+      "id": "palacio-estevez-history-v2",
+      "description": "A neoclassical palace in Montevideo that served as the official seat of the Uruguayan government for many years. It now houses a museum dedicated to the country's presidential history.",
+      "facts": ["Neoclassical design", "Located in Plaza Independencia", "Former government seat", "Presidential museum"]
+    },
+    {
+      "id": "uy-mo-estadio-centenario-landmarks-v2",
+      "description": "An iconic football stadium built for the inaugural 1930 FIFA World Cup. It remains the home stadium for the Uruguayan national team and a historic monument of world football.",
+      "facts": ["Opened in 1930", "World Cup host venue", "Montevideo landmark", "Football heritage"]
+    },
+    {
+      "id": "uy-mo-teatro-solis-landmarks-v2",
+      "description": "The most important performing arts theater in Uruguay, inaugurated in 1856. It is renowned for its neoclassical architecture and rich cultural programming.",
+      "facts": ["Opened in 1856", "Neoclassical style", "Cultural hub", "Montevideo downtown"]
+    },
+    {
+      "id": "uy-mo-torre-antel-landmarks-v2",
+      "description": "The tallest building in Uruguay, standing 158 meters high. This modern glass tower is a landmark of contemporary architecture in the Montevideo bay area.",
+      "facts": ["158 meters tall", "Modern design", "Telecom headquarters", "Montevideo skyline"]
+    },
+    {
+      "id": "uy-ro-faro-cabo-polonio-landmarks-v2",
+      "description": "A historic lighthouse located in a remote coastal village with no electricity. It has guided ships through the treacherous Atlantic waters since 1881.",
+      "facts": ["Built in 1881", "Coastal lighthouse", "Off-grid village", "Atlantic landmark"]
+    },
+    {
+      "id": "uy-ma-castillo-de-piria-landmarks-v2",
+      "description": "A peculiar castle built in the early 20th century by Francisco Piria, the founder of Piriápolis. It blends European styles and is filled with alchemical symbols.",
+      "facts": ["Built around 1900", "Alchemical architecture", "Piriápolis landmark", "Unique design"]
+    },
+    {
+      "id": "uy-ca-iglesia-cristo-obrero-landmarks-v2",
+      "description": "A masterpiece of modernist architecture designed by Eladio Dieste using reinforced brick. It is internationally recognized for its innovative undulating shapes.",
+      "facts": ["Designed by Eladio Dieste", "Modernist style", "Reinforced brick structure", "UNESCO heritage"]
+    },
+    {
+      "id": "uy-mo-monumento-a-la-carreta-landmarks-v2",
+      "description": "A famous bronze monument in Parque Batlle depicting ox-drawn carts used by early settlers. It is a tribute to the pioneers of the Uruguayan nation.",
+      "facts": ["Bronze sculpture", "Located in Parque Batlle", "Pioneer tribute", "Artistic landmark"]
+    }
+  ]
+}

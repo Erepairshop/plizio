@@ -1,0 +1,379 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "champasak-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Former seat of the historic Kingdom of Champasak, located on the Mekong's west bank.",
+          "Famous for the Vat Phou temple ruins, a sprawling Khmer Hindu complex.",
+          "Features charming colonial-era wooden houses lining its quiet streets.",
+          "Maintains a peaceful, slow-paced atmosphere with very minimal vehicle traffic.",
+          "Its immense historical importance contrasts sharply with its current small size.",
+          "A scenic riverside promenade offers excellent views of the Mekong and surrounding mountains."
+        ],
+        "de": [
+          "Ehemaliger Sitz des historischen Königreichs Champasak, am Westufer des Mekong gelegen.",
+          "Berühmt für die Tempelruinen von Vat Phou, einem weitläufigen Khmer-Komplex.",
+          "Verfügt über charmante Holzhäuser aus der Kolonialzeit an seinen ruhigen Straßen.",
+          "Bewahrt eine friedliche, langsame Atmosphäre mit nur sehr wenig Autoverkehr.",
+          "Seine enorme historische Bedeutung steht in scharfem Kontrast zu seiner heutigen geringen Größe.",
+          "Eine malerische Uferpromenade bietet hervorragende Ausblicke auf den Mekong."
+        ],
+        "hu": [
+          "A történelmi Champasak Királyság egykori székhelye a Mekong nyugati partján.",
+          "Híres a Vat Phou templomromokról, amely egy kiterjedt hindu khmer komplexum.",
+          "Csendes utcáit a gyarmati korszakból származó, bájos faházak szegélyezik.",
+          "Békés, lassú tempójú légkört áraszt, minimális járműforgalommal.",
+          "Hatalmas történelmi jelentősége éles ellentétben áll jelenlegi kis méretével.",
+          "A festői folyóparti sétányról kiváló kilátás nyílik a Mekongra és a környező hegyekre."
+        ],
+        "ro": [
+          "Fostul sediu al istoricului Regat Champasak, situat pe malul vestic al Mekongului.",
+          "Faimos pentru ruinele templului Vat Phou, un complex hindus Khmer.",
+          "Prezintă case fermecătoare din lemn din epoca colonială pe străzile sale liniștite.",
+          "Păstrează o atmosferă pașnică, cu ritm lent și trafic auto minim.",
+          "Importanța sa istorică imensă contrastează puternic cu dimensiunea sa actuală.",
+          "O promenadă pitorească pe malul râului oferă vederi excelente asupra Mekongului."
+        ]
+      }
+    },
+    {
+      "id": "pak-lay-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "A picturesque river town in Sainyabuli Province, situated right along the Mekong River.",
+          "Features numerous well-preserved French colonial administrative buildings.",
+          "Historically known for hosting the annual Lao Elephant Festival before it was moved.",
+          "Served as an important regional timber trading post during the 19th and 20th centuries.",
+          "Located relatively close to the Thai border, influencing local trade.",
+          "Surrounded by agricultural lands primarily focused on rice and maize cultivation."
+        ],
+        "de": [
+          "Eine malerische Flussstadt in der Provinz Sainyabuli, direkt am Mekong gelegen.",
+          "Verfügt über zahlreiche gut erhaltene französische Kolonialgebäude.",
+          "Historisch bekannt für das laotische Elefantenfestival, bevor es verlegt wurde.",
+          "Diente im 19. und 20. Jahrhundert als wichtiger regionaler Holzhandelsposten.",
+          "Liegt relativ nah an der thailändischen Grenze, was den lokalen Handel beeinflusst.",
+          "Umgeben von landwirtschaftlichen Flächen, die hauptsächlich für Reis und Mais genutzt werden."
+        ],
+        "hu": [
+          "Festői folyami város Sainyabuli tartományban, közvetlenül a Mekong folyó mentén.",
+          "Számos jól megőrzött francia gyarmati közigazgatási épülettel rendelkezik.",
+          "Történelmileg itt rendezték meg a laoszi Elefánt Fesztivált, mielőtt áthelyezték volna.",
+          "A 19. és 20. században fontos regionális fakereskedelmi központként szolgált.",
+          "Viszonylag közel fekszik a thai határhoz, ami befolyásolja a helyi kereskedelmet.",
+          "Elsősorban rizs- és kukoricatermesztésre összpontosító mezőgazdasági területek veszik körül."
+        ],
+        "ro": [
+          "Un oraș pitoresc din provincia Sainyabuli, situat chiar de-a lungul râului Mekong.",
+          "Prezintă numeroase clădiri administrative coloniale franceze bine conservate.",
+          "Cunoscut istoric pentru găzduirea Festivalului Elefanților Lao, înainte de a fi mutat.",
+          "A servit ca un important post regional de tranzacționare a lemnului în trecut.",
+          "Situat relativ aproape de granița thailandeză, influențând comerțul local.",
+          "Înconjurat de terenuri agricole axate în principal pe cultivarea orezului și porumbului."
+        ]
+      }
+    },
+    {
+      "id": "seno-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Located in Savannakhet Province, it serves as a major transport and logistics hub.",
+          "The name derives from 'Sud Est Nord Ouest', indicating its crossroads location.",
+          "Developed significantly during the French colonial era as a military base.",
+          "Features the remnants of a former French military airfield and infrastructure.",
+          "Well known across Laos for its distinctive grilled chicken and local street food.",
+          "Situated at the intersection of Routes 13 and 9, making it a critical junction."
+        ],
+        "de": [
+          "Liegt in der Provinz Savannakhet und dient als wichtiger Verkehrs- und Logistikknotenpunkt.",
+          "Der Name leitet sich von 'Sud Est Nord Ouest' ab und verweist auf die Straßenkreuzung.",
+          "Entwickelte sich während der französischen Kolonialzeit als Militärstützpunkt.",
+          "Verfügt über die Überreste eines ehemaligen französischen Militärflugplatzes.",
+          "In ganz Laos bekannt für sein gegrilltes Hähnchen und lokales Street Food.",
+          "Liegt an der Kreuzung der Routen 13 und 9, was es zu einem wichtigen Knotenpunkt macht."
+        ],
+        "hu": [
+          "Savannakhet tartományban található, jelentős közlekedési és logisztikai csomópont.",
+          "A neve a francia 'Sud Est Nord Ouest' szavakból ered, utalva útkereszteződés jellegére.",
+          "A francia gyarmati időszakban katonai bázisként indult jelentős fejlődésnek.",
+          "Egykori francia katonai repülőtér és korabeli infrastruktúra maradványaival rendelkezik.",
+          "Országszerte jól ismert jellegzetes grillezett csirkéjéről és utcai ételeiről.",
+          "A 13-as és a 9-es főutak találkozásánál fekszik, így kritikus csomópontot alkot."
+        ],
+        "ro": [
+          "Situat în provincia Savannakhet, servește ca un nod major de transport și logistică.",
+          "Numele derivă din 'Sud Est Nord Ouest', indicând locația sa la intersecție de drumuri.",
+          "Dezvoltat semnificativ în timpul epocii coloniale franceze ca bază militară.",
+          "Prezintă rămășițele unui fost aerodrom militar francez și a infrastructurii.",
+          "Cunoscut în tot Laos pentru puiul său la grătar și mâncarea stradală locală.",
+          "Situat la intersecția rutelor 13 și 9, fiind un nod de transport critic."
+        ]
+      }
+    },
+    {
+      "id": "muang-long-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "A remote town in Luang Namtha Province, situated close to the Myanmar border.",
+          "Serves as a bustling market hub for the Akha and other surrounding ethnic groups.",
+          "Located in a narrow river valley and enveloped by dense jungle vegetation.",
+          "Surrounded by towering, inaccessible mountains that limit large-scale development.",
+          "Acts as a starting base for off-the-beaten-path trekking into remote hill tribe villages.",
+          "The local economy relies on subsistence farming and cross-border trade."
+        ],
+        "de": [
+          "Eine abgelegene Stadt in der Provinz Luang Namtha, nahe der Grenze zu Myanmar.",
+          "Dient als geschäftiger Markt für die Akha und andere umliegende ethnische Gruppen.",
+          "Liegt in einem engen Flusstal und ist von dichter Dschungelvegetation umgeben.",
+          "Umgeben von unzugänglichen Bergen, die eine weitreichende Entwicklung einschränken.",
+          "Fungiert als Ausgangspunkt für abenteuerliche Trekkingtouren in abgelegene Dörfer.",
+          "Die lokale Wirtschaft stützt sich auf Subsistenzwirtschaft und grenzüberschreitenden Handel."
+        ],
+        "hu": [
+          "Távoli város Luang Namtha tartományban, a mianmari határ közelében.",
+          "Nyüzsgő piacközpontként szolgál az akha és más környező etnikai csoportok számára.",
+          "Egy szűk folyóvölgyben fekszik, és sűrű dzsungel növényzet veszi körül.",
+          "Magas, megközelíthetetlen hegyek övezik, amelyek korlátozzák a nagyszabású fejlesztéseket.",
+          "Kiindulópontként szolgál a távoli hegyi törzsek falvaiba vezető különleges túrákhoz.",
+          "A helyi gazdaság önellátó mezőgazdaságra és határon átnyúló kereskedelemre támaszkodik."
+        ],
+        "ro": [
+          "Un oraș îndepărtat din provincia Luang Namtha, situat aproape de granița cu Myanmar.",
+          "Servește ca un hub de piață plin de viață pentru Akha și alte grupuri etnice.",
+          "Situat într-o vale îngustă a râului și învăluit de vegetație densă de junglă.",
+          "Înconjurat de munți înalți și inaccesibili care limitează dezvoltarea la scară largă.",
+          "Acționează ca o bază de plecare pentru drumeții către sate tribale îndepărtate.",
+          "Economia locală se bazează pe agricultura de subzistență și pe comerțul transfrontalier."
+        ]
+      }
+    },
+    {
+      "id": "boun-neua-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Located in Phongsaly Province near the Chinese border, featuring strong Chinese influence.",
+          "The town's economy and culture are heavily tied to neighboring Yunnan province.",
+          "Situated at a high elevation, resulting in cool temperatures, especially during winter.",
+          "Serves as a vital regional trading post for agricultural and consumer goods.",
+          "Surrounded by extensive commercial tea and rubber plantations on the hillsides.",
+          "Many signs and businesses in the town operate bilingually in Lao and Mandarin."
+        ],
+        "de": [
+          "Liegt in der Provinz Phongsaly nahe der chinesischen Grenze mit starkem chinesischen Einfluss.",
+          "Wirtschaft und Kultur der Stadt sind stark mit der benachbarten Provinz Yunnan verbunden.",
+          "Gelegen auf großer Höhe, was besonders im Winter zu kühlen Temperaturen führt.",
+          "Dient als wichtiger regionaler Handelsposten für Agrar- und Konsumgüter.",
+          "Umgeben von weitläufigen kommerziellen Tee- und Kautschukplantagen an den Hängen.",
+          "Viele Schilder und Geschäfte in der Stadt sind zweisprachig in Lao und Mandarin."
+        ],
+        "hu": [
+          "Phongsaly tartományban, a kínai határ közelében található, erős kínai befolyással.",
+          "A város gazdasága és kultúrája szorosan kötődik a szomszédos Jünnan tartományhoz.",
+          "Nagy magasságban fekszik, ami hűvös hőmérsékletet eredményez, különösen télen.",
+          "Létfontosságú regionális kereskedelmi állomásként szolgál a mezőgazdasági termékek számára.",
+          "A domboldalakon kiterjedt kereskedelmi tea- és gumifaültetvények veszik körül.",
+          "A városban sok felirat és üzlet kétnyelvűen, laosziul és mandarinul is működik."
+        ],
+        "ro": [
+          "Situat în provincia Phongsaly, lângă granița cu China, cu o puternică influență chineză.",
+          "Economia și cultura orașului sunt strâns legate de provincia vecină Yunnan.",
+          "Situat la o altitudine mare, având temperaturi scăzute, mai ales în timpul iernii.",
+          "Servește ca un post regional de comerț vital pentru bunuri agricole și de consum.",
+          "Înconjurat de plantații comerciale extinse de ceai și cauciuc pe dealuri.",
+          "Multe semne și afaceri din oraș funcționează bilingv în lao și mandarină."
+        ]
+      }
+    },
+    {
+      "id": "muang-khong-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "The largest settlement on the island of Don Khong in the Si Phan Don (4000 Islands) region.",
+          "Located directly within the wide flow of the Mekong River in southern Laos.",
+          "Known for a deeply peaceful atmosphere and traditional old wooden stilted houses.",
+          "The local population relies heavily on freshwater fishing and riverside agriculture.",
+          "Located a short distance from the massive, cascading Khone Phapheng Falls.",
+          "Historically near a short French railway built to bypass the unnavigable river rapids."
+        ],
+        "de": [
+          "Die größte Siedlung auf der Insel Don Khong in der Region Si Phan Don (4000 Inseln).",
+          "Liegt direkt im breiten Strom des Mekong-Flusses im Süden von Laos.",
+          "Bekannt für eine tief friedliche Atmosphäre und traditionelle alte Holzhäuser auf Stelzen.",
+          "Die lokale Bevölkerung lebt hauptsächlich vom Süßwasserfischen und der Landwirtschaft.",
+          "Befindet sich in kurzer Entfernung zu den massiven Khone Phapheng Wasserfällen.",
+          "Historisch in der Nähe einer französischen Eisenbahn zur Umgehung von Stromschnellen."
+        ],
+        "hu": [
+          "A Si Phan Don (4000 sziget) régió Don Khong szigetének legnagyobb települése.",
+          "Közvetlenül a Mekong folyó széles áramlásában helyezkedik el Dél-Laoszban.",
+          "Mélyen békés légköréről és hagyományos régi, cölöpökre épült faházairól ismert.",
+          "A helyi lakosság nagymértékben az édesvízi halászatra és a folyóparti mezőgazdaságra támaszkodik.",
+          "Rövid távolságra található a hatalmas, lépcsőzetes Khone Phapheng vízesésektől.",
+          "Történelmileg egy rövid francia vasútvonal közelében van, amely a zuhatagokat kerülte meg."
+        ],
+        "ro": [
+          "Cea mai mare așezare de pe insula Don Khong din regiunea Si Phan Don (4000 de insule).",
+          "Situat direct în fluxul larg al râului Mekong din sudul statului Laos.",
+          "Cunoscut pentru o atmosferă profund pașnică și case tradiționale vechi din lemn.",
+          "Populația locală se bazează pe pescuitul în apă dulce și pe agricultura pe malul râului.",
+          "Situat la mică distanță de cascadele masive Khone Phapheng.",
+          "Istoric aproape de o scurtă cale ferată franceză construită pentru a ocoli pragurile."
+        ]
+      }
+    },
+    {
+      "id": "sepon-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "A key town in Savannakhet Province located relatively close to the Vietnamese border.",
+          "Heavily bombed during the Vietnam War due to its location on the Ho Chi Minh Trail.",
+          "The surrounding area was the focal point of the intense Battle of Lam Son 719.",
+          "The region is still heavily impacted by extensive unexploded ordnance clearance operations.",
+          "Hosts significant commercial gold and copper mining operations in the nearby hills.",
+          "Historical war remnants, including bomb craters and military scrap, dot the landscape."
+        ],
+        "de": [
+          "Eine wichtige Stadt in der Provinz Savannakhet, relativ nah an der vietnamesischen Grenze.",
+          "Während des Vietnamkriegs wegen ihrer Lage am Ho-Chi-Minh-Pfad stark bombardiert.",
+          "Das Umland war der Mittelpunkt der intensiven Schlacht von Lam Son 719.",
+          "Die Region ist noch immer stark von Kampfmittelräumungen betroffen.",
+          "Beherbergt bedeutende kommerzielle Gold- und Kupferbergwerke in den Hügeln.",
+          "Historische Kriegsüberreste wie Bombenkrater und Militärschrott prägen die Landschaft."
+        ],
+        "hu": [
+          "Kulcsfontosságú város Savannakhet tartományban, viszonylag közel a vietnámi határhoz.",
+          "A vietnámi háború alatt a Ho Si Minh-ösvényen elfoglalt fekvése miatt sokat bombázták.",
+          "A környező terület az intenzív Lam Son 719 csata fókuszpontja volt.",
+          "A régiót még mindig erősen érintik a fel nem robbant robbanótestek mentesítési munkálatai.",
+          "A közeli dombokon jelentős kereskedelmi arany- és rézbányászati tevékenység folyik.",
+          "Történelmi háborús maradványok, köztük bombatölcsérek és katonai roncsok tarkítják a tájat."
+        ],
+        "ro": [
+          "Un oraș cheie din provincia Savannakhet, situat relativ aproape de granița cu Vietnam.",
+          "Puternic bombardat în timpul Războiului din Vietnam din cauza traseului Ho Chi Minh.",
+          "Zona înconjurătoare a fost punctul central al bătăliei intense de la Lam Son 719.",
+          "Regiunea este puternic afectată de operațiunile de curățare a muniției neexplodate.",
+          "Găzduiește operațiuni comerciale semnificative de exploatare a aurului și cuprului.",
+          "Resturile istorice de război, inclusiv craterele de bombe, punctează peisajul."
+        ]
+      }
+    },
+    {
+      "id": "muang-sing-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Located in Luang Namtha Province near China, functioning as a cultural crossroads.",
+          "Historically served as the capital of an independent Tai Lue principality.",
+          "Known for its highly diverse and colorful ethnic minority morning market.",
+          "Surrounded by high mountains and fertile plains used for agriculture.",
+          "Features the That Xieng Tung stupa, an important local Buddhist pilgrimage site.",
+          "Historically played a major role in the infamous Golden Triangle opium trade."
+        ],
+        "de": [
+          "Liegt in der Provinz Luang Namtha nahe China und fungiert als kultureller Knotenpunkt.",
+          "Diente historisch als Hauptstadt eines unabhängigen Tai-Lue-Fürstentums.",
+          "Bekannt für seinen äußerst vielfältigen und farbenfrohen ethnischen Morgenmarkt.",
+          "Umgeben von hohen Bergen und fruchtbaren Ebenen für die Landwirtschaft.",
+          "Verfügt über den That Xieng Tung Stupa, einen wichtigen buddhistischen Pilgerort.",
+          "Spielte historisch eine wichtige Rolle im Opiumhandel des Goldenen Dreiecks."
+        ],
+        "hu": [
+          "Luang Namtha tartományban, Kína közelében található, egyfajta kulturális útkereszteződés.",
+          "Történelmileg egy független Tai Lue fejedelemség fővárosaként szolgált.",
+          "Rendkívül változatos és színes, több etnikumú reggeli piacáról ismert.",
+          "Magas hegyek és mezőgazdaságra használt termékeny síkságok veszik körül.",
+          "Itt található a That Xieng Tung sztúpa, egy fontos helyi buddhista zarándokhely.",
+          "Történelmileg jelentős szerepet játszott a hírhedt Arany Háromszög ópiumkereskedelmében."
+        ],
+        "ro": [
+          "Situat în provincia Luang Namtha, lângă China, funcționând ca o răscruce culturală.",
+          "Istoric a servit ca o capitală a unui principat independent Tai Lue.",
+          "Cunoscut pentru piața sa matinală a minorităților etnice, foarte diversă.",
+          "Înconjurat de munți înalți și câmpii fertile folosite pentru agricultură.",
+          "Prezintă stupa That Xieng Tung, un important loc de pelerinaj budist.",
+          "A jucat un rol major în comerțul cu opiu din infamul Triunghi de Aur."
+        ]
+      }
+    },
+    {
+      "id": "nong-khiaw-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Picturesque town situated on both banks of the Nam Ou River in northern Laos.",
+          "Surrounded by incredibly steep and dramatic limestone karst rock formations.",
+          "The high concrete Nong Khiaw bridge visually connects the two sides of the town.",
+          "A highly popular destination for outdoor activities like rock climbing and trekking.",
+          "Features several accessible caves, notably the Pha Tok cave used during wartime.",
+          "Riverboat travel along the Nam Ou remains a major mode of regional transport."
+        ],
+        "de": [
+          "Malerische Stadt an beiden Ufern des Nam Ou Flusses im Norden von Laos.",
+          "Umgeben von unglaublich steilen und dramatischen Kalksteinfelsformationen.",
+          "Die hohe Betonbrücke von Nong Khiaw verbindet visuell die beiden Stadtteile.",
+          "Ein sehr beliebtes Ziel für Outdoor-Aktivitäten wie Klettern und Trekking.",
+          "Verfügt über zugängliche Höhlen, insbesondere die im Krieg genutzte Pha Tok Höhle.",
+          "Die Fahrt mit dem Flussboot bleibt ein wichtiges regionales Transportmittel."
+        ],
+        "hu": [
+          "Festői szépségű város a Nam Ou folyó két partján, Laosz északi részén.",
+          "Hihetetlenül meredek és drámai mészkőkarszt sziklaalakzatok veszik körül.",
+          "A magas, betonból készült Nong Khiaw híd vizuálisan köti össze a város két oldalát.",
+          "Kifejezetten népszerű úti cél szabadtéri tevékenységekhez, mint a sziklamászás és a túrázás.",
+          "Számos látogatható barlangja van, köztük a háború idején használt Pha Tok-barlang.",
+          "A Nam Ou folyón történő hajózás továbbra is a regionális közlekedés egyik fő módja."
+        ],
+        "ro": [
+          "Oraș pitoresc situat pe ambele maluri ale râului Nam Ou din nordul statului Laos.",
+          "Înconjurat de formațiuni de rocă calcaroasă uimitor de abrupte și dramatice.",
+          "Podul înalt de beton Nong Khiaw conectează vizual cele două părți ale orașului.",
+          "O destinație extrem de populară pentru activități în aer liber.",
+          "Prezintă peșteri accesibile, în special peștera Pha Tok folosită în timpul războiului.",
+          "Călătoria cu barca pe Nam Ou rămâne un mod major de transport regional."
+        ]
+      }
+    },
+    {
+      "id": "viengxay-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Located in Houaphanh Province, commonly known as the 'Hidden City' during the war.",
+          "Features an extensive network of natural caves used extensively by the Pathet Lao.",
+          "The caves historically housed entire hospitals, schools, and military offices.",
+          "Surrounded by dramatic karst formations that naturally protected the settlement.",
+          "Relatively isolated near the Vietnamese border, requiring rugged overland travel.",
+          "Remains a powerful symbol of Lao revolutionary history and resilience."
+        ],
+        "de": [
+          "Gelegen in der Provinz Houaphanh, während des Krieges als 'Verborgene Stadt' bekannt.",
+          "Verfügt über ein ausgedehntes Höhlennetzwerk, das von den Pathet Lao genutzt wurde.",
+          "Die Höhlen beherbergten historisch ganze Krankenhäuser, Schulen und Militärbüros.",
+          "Umgeben von dramatischen Karstformationen, die die Siedlung auf natürliche Weise schützten.",
+          "Relativ isoliert nahe der vietnamesischen Grenze, nur über unwegsame Straßen erreichbar.",
+          "Bleibt ein starkes Symbol der laotischen Revolutionsgeschichte und Widerstandsfähigkeit."
+        ],
+        "hu": [
+          "Houaphanh tartományban található, a háború alatt 'Rejtett városként' volt ismert.",
+          "Kiterjedt természetes barlangrendszerrel rendelkezik, melyet a Pathet Lao használt.",
+          "A barlangokban történelmileg komplett kórházak, iskolák és katonai hivatalok működtek.",
+          "Drámai karsztképződmények veszik körül, amelyek természetes védelmet nyújtottak a településnek.",
+          "Viszonylag elszigetelt a vietnámi határ közelében, megközelítése rögös hegyi utakon lehetséges.",
+          "A laoszi forradalmi történelem és ellenálló képesség erőteljes szimbóluma maradt."
+        ],
+        "ro": [
+          "Situat în provincia Houaphanh, cunoscut sub numele de 'Orașul ascuns' în timpul războiului.",
+          "Prezintă o rețea extinsă de peșteri naturale utilizate pe scară largă de Pathet Lao.",
+          "Peșterile au găzduit în istorie spitale întregi, școli și birouri militare.",
+          "Înconjurat de formațiuni carstice dramatice care au protejat natural așezarea.",
+          "Relativ izolat lângă granița cu Vietnam, necesitând o călătorie accidentată pe uscat.",
+          "Rămâne un simbol puternic al istoriei și rezistenței revoluționare laoțiene."
+        ]
+      }
+    }
+  ]
+}

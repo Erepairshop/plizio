@@ -1,0 +1,44 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "O zonă naturală protejată care servește drept habitat important pentru diverse specii de animale sălbatice din regiunea Inchope.",
+      "facts": ["Habitat natural", "Specii sălbatice", "Zonă protejată", "Regiunea Inchope"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "Spații verzi și parcuri în Chimoio concepute pentru recreerea copiilor și promovarea unui stil de viață sănătos în natură.",
+      "facts": ["Spații verzi", "Recreere pentru copii", "Stil de viață sănătos", "Chimoio"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "Un centru de explorare marină în Vilankulo destinat copiilor, care explică importanța recifurilor și a ecosistemului oceanic.",
+      "facts": ["Centru explorare", "Educație marină", "Ecosistem oceanic", "Vilankulo"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "Programe educative în Inhambane menite să ajute copiii să descopere biodiversitatea unică a coastei mozambicane.",
+      "facts": ["Programe educative", "Descoperirea naturii", "Biodiversitate", "Coasta Mozambicului"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "O fermă educativă în Gaza unde copiii pot învăța despre agricultură și importanța cultivării hranei în mod sustenabil.",
+      "facts": ["Fermă educativă", "Agricultură", "Hrană sustenabilă", "Regiunea Gaza"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "Regiunea Cabo Delgado este recunoscută pentru producția de mango, fiind o zonă cu tradiție în cultivarea acestui fruct.",
+      "facts": ["Producție de mango", "Zonă cu tradiție", "Agricultură", "Cabo Delgado"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "Un proiect agricol în Tete care sprijină comunitățile locale în dezvoltarea metodelor moderne de cultivare a solului.",
+      "facts": ["Proiect agricol", "Sprijin comunitar", "Metode moderne", "Tete"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Thailand",
+  "files": [
+    "lib/visualLab/data/poiExtraThailandLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "giant-swing-bangkok-landmarks-v2",
+      "description": "The Giant Swing is a historic religious structure located in front of the Wat Suthat temple in Bangkok. It was originally used for an annual Brahman ceremony during the rice harvest season.",
+      "facts": [
+        "Constructed in 1784",
+        "Over 21 meters tall",
+        "Made of solid teak wood",
+        "Located in Phra Nakhon district"
+      ]
+    }
+  ]
+}

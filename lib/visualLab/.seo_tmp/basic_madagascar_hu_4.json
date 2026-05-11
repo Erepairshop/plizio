@@ -1,0 +1,70 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-tampolo-nature-v2",
+      "description": "Tampolo-tó, egy nyugodt vizű környezet, amely fontos élőhely a helyi vízi élővilág számára.",
+      "facts": ["Tavi ökoszisztéma", "Természeti környezet", "Vízi élőhely"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "Mahajanga partvidéke, ahol az Indiai-óceán találkozik a szárazfölddel, változatos tengeri flórával.",
+      "facts": ["Indiai-óceán", "Partvidék", "Tengeri flóra"]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "description": "A Tsiribihina folyó deltája, amely gazdag élővilágával és mangrove-erdeivel lenyűgöző.",
+      "facts": ["Folyódelta", "Mangrove-erdők", "Biodiverzitás"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "Tsimanampetsotsa-tó, egy sós vizű tó, amely ritka madárfajoknak, többek között flamingóknak ad otthont.",
+      "facts": ["Sós vizű tó", "Flamingó élőhely", "Ritka madarak"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "Nosy Mitseo szigetvilága, ahol a tenger és a szárazföld egyedülálló biológiai sokféleséget alkot.",
+      "facts": ["Szigetvilág", "Biológiai sokféleség", "Érintetlen természet"]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "description": "Montagne d'Ambre Nemzeti Park, egy hűvös, csapadékos trópusi erdő, amely számos vízesésnek ad helyet.",
+      "facts": ["Nemzeti park", "Trópusi esőerdő", "Vízesések"]
+    },
+    {
+      "id": "baie-de-bombetoka-nature-v2",
+      "description": "Bombetoka-öböl, ahol a kék víz és a zöld mangrove-erdők alkotnak lélegzetelállító tájat.",
+      "facts": ["Öböl", "Mangrove-erdők", "Természeti táj"]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "description": "Anivorano-tó, amelyet számos helyi legenda övez, és egyedi ökoszisztémával rendelkezik.",
+      "facts": ["Legendák tava", "Ökoszisztéma", "Természeti képződmény"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Nosy Tanikely tengeri rezervátum, a tengeri élővilág megőrzésének egyik központja.",
+      "facts": ["Tengeri rezervátum", "Élővilág védelem", "Turizmus"]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "description": "Makay-masszívum, egy szinte megközelíthetetlen, látványos kanyonrendszer, ahol számos faj rejtőzik.",
+      "facts": ["Kanyonrendszer", "Rejtett élővilág", "Természeti képződmény"]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "description": "Boby-csúcs lábánál elterülő dombvidék, a sziget legmagasabb pontjának környezete.",
+      "facts": ["Hegyi dombvidék", "Magashegyi környezet", "Túrahelyszín"]
+    },
+    {
+      "id": "ranomafana-hills-relief-v2",
+      "description": "Ranomafana környékének dombos terepe, amely a nemzeti park változatos domborzatát alkotja.",
+      "facts": ["Dombos terep", "Változatos domborzat", "Túraútvonalak"]
+    }
+  ]
+}

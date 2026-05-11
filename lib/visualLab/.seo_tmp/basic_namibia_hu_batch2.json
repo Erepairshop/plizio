@@ -1,0 +1,85 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Walvis Bay családbarát tevékenységeket kínál, mint például delfin- és fóka-hajókirándulásokat, valamint kajakozást a tengeri élővilág között.",
+      "facts": ["Delfin- és fóka-hajókirándulások", "Kajakozás", "Tengeri élővilág"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Tsumkwe betekintést nyújt a szan (busman) kultúrába, és kapu a Khaudum Nemzeti Parkhoz.",
+      "facts": ["Szan kultúra", "Khaudum Nemzeti Park", "Kulturális betekintés"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Lüderitz egy történelmi tengerparti város egyedi koloniális építészettel és kiindulópont Kolmanskop szellemvárosához.",
+      "facts": ["Történelmi tengerparti város", "Koloniális építészet", "Kolmanskop"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "A Caprivi-sáv vadvilági paradicsom, folyóival, vizes élőhelyeivel és nagy elefántpopulációjával jellemezhető.",
+      "facts": ["Vadvilági paradicsom", "Folyók és vizes élőhelyek", "Nagy elefántpopuláció"]
+    },
+    {
+      "id": "namibia-damaraland-animal-habitat-life-v2",
+      "description": "Damaraland egy egyedi élőhely sivatagi elefántok, orrszarvúak és oroszlánok számára a kietlen tájban.",
+      "facts": ["Sivatagi elefántok", "Orrszarvúak és oroszlánok", "Kietlen táj"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "A Waterberg-fennsík egy lenyűgöző táblás hegyvidéki nemzeti park, amely biodiverzitásáról és egyedi geológiájáról ismert.",
+      "facts": ["Táblás hegy", "Biodiverzitás", "Egyedi geológia"]
+    },
+    {
+      "id": "na-kuiseb-river-nature-v2",
+      "description": "A Kuiseb folyó egy időszakos folyó, amely kulcsfontosságú ökológiai határt képez a Namib-sivatagban.",
+      "facts": ["Időszakos folyó", "Ökológiai határ", "Namib-sivatag"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "A Swakop folyó egy időszakos folyó, amelynek torkolata Swakopmundnál fontos vizes élőhely a madarak számára.",
+      "facts": ["Időszakos folyó", "Vizes élőhely", "Madármegfigyelés"]
+    },
+    {
+      "id": "na-tsauchab-river-nature-v2",
+      "description": "A Tsauchab folyó egy időszakos folyó, amely Sossusvlei dűnéihez vezet, és a Dead Vlei agyagmedencéjét táplálja.",
+      "facts": ["Időszakos folyó", "Sossusvlei dűnéi", "Dead Vlei"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "A Hoarusib folyó egy epizodikus folyó a Kaokoveld sivatagban, sivatagi elefántjairól és a zord tájról ismert.",
+      "facts": ["Epizodikus folyó", "Kaokoveld sivatag", "Sivatagi elefántok"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "A Hoanib folyó egy másik epizodikus folyó Namíbiában, amely létfontosságú élőhelyet biztosít a sivatagi vadállatoknak.",
+      "facts": ["Epizodikus folyó", "Sivatagi vadállatok", "Létfontosságú élőhely"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "Az Ugab folyó határfolyó Kunene és Erongo régiók között, Welwitschia növényeiről híres.",
+      "facts": ["Határfolyó", "Welwitschia növények", "Kunene és Erongo"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "A Fish River Namíbia leghosszabb folyója, amely kialakította a Fish River Canyont, a világ egyik legnagyobb kanyonját.",
+      "facts": ["Leghosszabb folyó", "Fish River Canyon", "Nagy kanyon"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Az Otjikoto-tó egy természetes víznyelő tó, amelyet egy beomlott barlang teteje hozott létre, gazdag történelmi leletekben.",
+      "facts": ["Víznyelő tó", "Beomlott barlang teteje", "Történelmi leletek"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "A Guinas-tó egy másik víznyelő tó Namíbiában, endemikus halfajairól és a víz mélykék színéről ismert.",
+      "facts": ["Endemikus halfajok", "Mélykék víz", "Víznyelő tó"]
+    }
+  ]
+}

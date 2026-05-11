@@ -19,7 +19,7 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
       en: "The Port of Walvis Bay is Namibia's largest commercial port, strategically located on the Atlantic coast. Protected naturally by the Pelican Point sand spit, it provides a safe, deep-water harbor that operates year-round without the risk of severe weather delays. It handles around 5 million tonnes of cargo annually, serving not just Namibia, but acting as a vital, highly efficient gateway for landlocked SADC nations like Botswana, Zambia, and Zimbabwe via the Walvis Bay Corridors. Recent expansions include a massive new container terminal built on reclaimed land. Geography K7 — maritime trade infrastructure."
     },
     factsAdvanced: {
-      en: ["Namibia's largest and busiest commercial port.", "Handles approximately 5 million tonnes of cargo annually.", "Provides a naturally protected deep-water harbor.", "Vital gateway for landlocked SADC countries.", "Features a new container terminal built on reclaimed land.", "Connects to the interior via the Walvis Bay Corridors."]
+      en: ["Namibia's largest and busiest commercial port.", "Handles approximately 5 million tonnes of cargo annually.", "Provides a naturally protected deep-water harbor.", "Features a new container terminal built on reclaimed land.", "Connects to the interior via the Walvis Bay Corridors."]
     },
     
     

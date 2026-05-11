@@ -1,0 +1,31 @@
+{
+  "lang": "ro",
+  "country": "Syria",
+  "files": [
+    "lib/visualLab/data/poiExtraSyriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSyriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSyriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "masyaf-castle-landmarks-v2",
+      "description": "Masyaf este o fortăreață medievală impunătoare situată pe o stâncă, fiind celebră pentru rolul său istoric sub controlul Ordinului Asasinilor. Structura păstrează elemente arhitecturale defensive remarcabile, datând din perioada otomană și cea a cruciaților.",
+      "facts": ["Situat în districtul Hama", "Construit în secolul al XII-lea", "Fost sediu al Asasinilor", "Pereți cu fortificații masive"]
+    },
+    {
+      "id": "bab-sharqi-landmarks-v2",
+      "description": "Bab Sharqi, cunoscută și sub numele de Poarta Răsăritului, este una dintre cele opt porți antice ale orașului vechi Damasc. Este singura poartă romană originală care a rămas aproape intactă până în prezent.",
+      "facts": ["Poarta estică a Damascului", "Origine din epoca romană", "Poartă triplă conservată", "Parte a Patrimoniului UNESCO"]
+    },
+    {
+      "id": "slenfeh-forest-nature-v2",
+      "description": "Slenfeh este o zonă forestieră montană răcoroasă, apreciată pentru peisajele sale naturale verzi și aerul curat. Pădurile din împrejurimi oferă adăpost unei biodiversități variate în lanțul muntos de coastă.",
+      "facts": ["Situat în Munții Latakia", "Altitudine medie 800 m", "Vegetație de conifere", "Destinație montană estivală"]
+    },
+    {
+      "id": "jabal-al-shumariyah-relief-v2",
+      "description": "Jabal al-Shumariyah face parte din relieful muntos al Siriei centrale, caracterizat prin formațiuni geologice aride și văi adânci. Regiunea oferă o perspectivă asupra structurii geologice specifice platourilor siriene.",
+      "facts": ["Situat în Siria centrală", "Relief arid și stâncos", "Formațiuni geologice specifice", "Înălțime montană medie"]
+    }
+  ]
+}

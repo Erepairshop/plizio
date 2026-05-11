@@ -17,7 +17,7 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       de: "Adulis war einst eine blühende Hafenstadt am Roten Meer, die als bedeutender Handelsplatz des antiken Aksumitischen Reiches diente. Archäologische Ausgrabungen haben Überreste von monumentalen Bauten und Handelsgütern aus dem gesamten Indischen Ozean freigelegt, die den antiken Wohlstand belegen. Heute stellt die Stätte ein Fenster in die komplexe Vergangenheit des Horns von Afrika dar und zeigt die weitreichenden Handelsbeziehungen der Region vor über 2.000 Jahren. Geschichtsunterricht K8 – Antike Handelsrouten und Zivilisationen."
     },
     factsAdvanced: {
-      de: ["Antiker Hafen des Aksumitischen Reiches.", "Wichtiger Umschlagplatz für Handelsgüter im Roten Meer.", "Archäologische Funde belegen Verbindungen zu Ägypten und Indien.", "Blütezeit vom 1. bis zum 7. Jahrhundert nach Christus.", "Architektur zeugt von mediterranen und afrikanischen Einflüssen.", "Einer der bedeutendsten archäologischen Orte in Eritrea."]
+      de: ["Wichtiger Umschlagplatz für Handelsgüter im Roten Meer.", "Archäologische Funde belegen Verbindungen zu Ägypten und Indien.", "Blütezeit vom 1. bis zum 7. Jahrhundert nach Christus.", "Architektur zeugt von mediterranen und afrikanischen Einflüssen.", "Einer der bedeutendsten archäologischen Orte in Eritrea."]
     }
   },
     description: {
@@ -201,7 +201,7 @@ export const poiExtraEritreaHistoryV2: POI[] = [
       de: "Nakfa erlangte historische Bedeutung als eines der wichtigsten Zentren des eritreischen Unabhängigkeitskrieges und dient heute als Symbol des nationalen Widerstandes. Die ausgedehnten Schützengrabensysteme um die Stadt sind stumme Zeugen der jahrelangen Kämpfe für die staatliche Souveränität Eritreas. Die Stadt wurde unter extrem schwierigen Bedingungen gehalten und wurde zu einer Identifikationsfläche für die Unabhängigkeitsbewegung. Besuchern vermittelt Nakfa ein Verständnis für die modernen nationalen Opfer und das Streben nach Freiheit. Geschichte K8 – Modernes Eritrea und Freiheitskampf."
     },
     factsAdvanced: {
-      de: ["Symbolstadt des eritreischen Unabhängigkeitskrieges.", "Ausgedehnte Schützengrabensysteme erhalten.", "Zentrum des Widerstands über mehrere Jahrzehnte.", "Nationale Identifikationsfläche nach der Unabhängigkeit.", "Ort des Gedenkens an den Freiheitskampf.", "Wichtig für das Verständnis der modernen Geschichte Eritreas."]
+      de: ["Ausgedehnte Schützengrabensysteme erhalten.", "Zentrum des Widerstands über mehrere Jahrzehnte.", "Nationale Identifikationsfläche nach der Unabhängigkeit.", "Ort des Gedenkens an den Freiheitskampf.", "Wichtig für das Verständnis der modernen Geschichte Eritreas."]
     }
   },
     description: {

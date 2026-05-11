@@ -1,0 +1,34 @@
+{
+  "lang": "hu",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "portland-ridge-relief-v2",
+      "description": "Egy hegyvonulat Clarendon déli részén.",
+      "facts": ["Partközeli elhelyezkedés", "Meredek dombok", "Mészkő", "Száraz növényzet"]
+    },
+    {
+      "id": "hellshire-hills-relief-v2",
+      "description": "Egy száraz, mészkőben gazdag dombvidék.",
+      "facts": ["Száraz dombok", "Mészkő", "Egyedülálló növényvilág", "Természetvédelmi terület"]
+    },
+    {
+      "id": "johannesburg-mountain-relief-v2",
+      "description": "Egy csúcs a sziget keleti részén.",
+      "facts": ["Hegycsúcs", "Meredek terep", "Trópusi erdő", "Kevésbé járt"]
+    },
+    {
+      "id": "blue-mountain-peak-north-relief-v2",
+      "description": "A Blue Mountain Peak északi része.",
+      "facts": ["Hegygerinc", "Meredek", "Köderdő", "Látványos"]
+    },
+    {
+      "id": "mocho-mountains-relief-v2",
+      "description": "Egy hegylánc Clarendon északi részén.",
+      "facts": ["Hegyvonulat", "Zöld", "Mezőgazdaság", "Természetközeli"]
+    }
+  ]
+}

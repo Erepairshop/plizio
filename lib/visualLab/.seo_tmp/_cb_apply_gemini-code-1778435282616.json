@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "african-heritage-museum-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das African Heritage Museum in Bakau ist eine der bedeutendsten privaten Kultureinrichtungen Gambias, die sich der Erhaltung und Präsentation westafrikanischer Kunst und Ethnographie widmet. Ursprünglich aus einer privaten Sammlung hervorgegangen, beherbergt das Museum heute eine beeindruckende Vielfalt an Artefakten, die die tiefen spirituellen und sozialen Traditionen der Region widerspiegeln. Die Sammlung umfasst handgeschnitzte Masken, rituelle Statuen, traditionelle Musikinstrumente und historische Gebrauchsgegenstände verschiedener ethnischer Gruppen wie der Mandinka, Wolof und Fula. Historisch gesehen fungiert das Museum als Brücke zwischen der vorkolonialen Vergangenheit und der modernen Identität des Landes. Die Architektur des Gebäudes ist schlicht gehalten, um den Fokus auf die Exponate zu lenken, die oft in thematischen Galerien angeordnet sind. Besonders hervorzuheben ist die Abteilung für traditionelle Webkunst und Textilien, die die Komplexität afrikanischer Handwerkstechniken verdeutlicht. Das Museum dient nicht nur als touristisches Ziel, sondern auch als Bildungszentrum für lokale Schulen, um das Bewusstsein für das reiche kulturelle Erbe Westafrikas zu stärken. Es ist ein Ort der Stille und Reflexion inmitten der geschäftigen Küstenregion von Bakau.",
+        "hu": "A bakauban található African Heritage Múzeum Gambia egyik legjelentősebb magánkézben lévő kulturális intézménye, amely a nyugat-afrikai művészet és néprajz megőrzésére és bemutatására összpontosít. Az eredetileg egy magángyűjteményből kialakult múzeum ma már az artefaktumok lenyűgöző választékának ad otthont, amelyek a régió mély spirituális és társadalmi hagyományait tükrözik. A gyűjtemény kézzel faragott maszkokat, rituális szobrokat, hagyományos hangszereket és különböző etnikai csoportok – például a mandinkák, volofok és fulák – történelmi használati tárgyait tartalmazza. Történelmi szempontból a múzeum hídként szolgál a gyarmatosítás előtti múlt és az ország modern identitása között. Az épület építészete egyszerű, hogy a hangsúly a gyakran tematikus galériákba rendezett kiállítási tárgyakra kerüljön. Külön említést érdemel a hagyományos szövőművészettel és textíliákkal foglalkozó részleg, amely az afrikai kézműves technikák összetettségét mutatja be. A múzeum nemcsak turisztikai célpont, hanem oktatási központ is a helyi iskolák számára, célja a Nyugat-Afrika gazdag kulturális öröksége iránti tudatosság erősítése. A béke és az elmélkedés helyszíne Bakau nyüzsgő tengerparti régiójában.",
+        "ro": "Muzeul African Heritage din Bakau este una dintre cele mai importante instituții culturale private din Gambia, dedicată conservării și prezentării artei și etnografiei vest-africane. Evoluând dintr-o colecție privată, muzeul găzduiește astăzi o varietate impresionantă de artefacte care reflectă tradițiile spirituale și sociale profunde ale regiunii. Colecția cuprinde măști sculptate manual, statui ritualice, instrumente muzicale tradiționale și obiecte de uz casnic istorice ale diferitelor grupuri etnice, precum Mandinka, Wolof și Fula. Din punct de vedere istoric, muzeul funcționează ca o punte între trecutul pre-colonial și identitatea modernă a țării. Arhitectura clădirii este simplă, pentru a menține accentul pe exponate, care sunt adesea organizate în galerii tematice. O mențiune specială merită secțiunea dedicată artei tradiționale a țesutului și textilelor, care ilustrează complexitatea tehnicilor meșteșugărești africane. Muzeul nu servește doar ca destinație turistică, ci și ca centru educațional pentru școlile locale, scopul fiind consolidarea conștientizării bogatului patrimoniu cultural al Africii de Vest. Este un loc de liniște și reflecție în mijlocul regiunii de coastă agitate din Bakau.",
+        "en": "The African Heritage Museum in Bakau is one of The Gambia’s premier private cultural institutions, dedicated to the preservation and exhibition of West African art and ethnography. Originating from a private collection, the museum now houses an impressive array of artifacts that reflect the deep spiritual and social traditions of the region. The collection includes hand-carved masks, ritual statues, traditional musical instruments, and historical domestic items from various ethnic groups such as the Mandinka, Wolof, and Fula. Historically, the museum acts as a bridge between the pre-colonial past and the country’s modern identity. The building's architecture remains understated to ensure the focus remains on the exhibits, which are often arranged in thematic galleries. Of particular note is the department dedicated to traditional weaving and textiles, showcasing the complexity of African craftsmanship. The museum serves not only as a tourist destination but also as an educational center for local schools, aiming to foster awareness of West Africa's rich cultural heritage. It provides a space for quiet reflection amidst the busy coastal atmosphere of Bakau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt eine umfangreiche Sammlung westafrikanischer Masken.",
+          "Fokus auf die ethnographische Geschichte der Mandinka und Wolof.",
+          "Private Initiative zur Bewahrung des nationalen Kulturerbes.",
+          "Beinhaltet seltene Exponate zur traditionellen Webkunst.",
+          "Wichtiger Lernort für lokale und internationale Studenten.",
+          "Liegt im Herzen des Küstenortes Bakau."
+        ],
+        "hu": [
+          "Nyugat-afrikai maszkok széles körű gyűjteményét őrzi.",
+          "A mandinka és volof néprajzi történelemre összpontosít.",
+          "Magánkezdeményezés a nemzeti kulturális örökség megőrzésére.",
+          "Ritka kiállítási tárgyakat tartalmaz a hagyományos szövésről.",
+          "Fontos oktatási helyszín helyi és külföldi hallgatók számára.",
+          "Bakau tengerparti településének szívében található."
+        ],
+        "ro": [
+          "Găzduiește o colecție extinsă de măști vest-africane.",
+          "Se concentrează pe istoria etnografică a populațiilor Mandinka și Wolof.",
+          "Inițiativă privată pentru conservarea patrimoniului cultural național.",
+          "Include exponate rare despre arta tradițională a țesutului.",
+          "Loc important de învățare pentru studenții locali și internaționali.",
+          "Situat în inima localității de coastă Bakau."
+        ],
+        "en": [
+          "Houses an extensive collection of traditional West African masks.",
+          "Focuses on the ethnographic history of the Mandinka and Wolof people.",
+          "A private initiative dedicated to preserving Gambian heritage.",
+          "Features rare exhibits on traditional African weaving techniques.",
+          "A key educational site for both local and international students.",
+          "Located centrally within the coastal community of Bakau."
+        ]
+      }
+    },
+    {
+      "id": "sir-dawda-conference-center-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Sir Dawda Kairaba Jawara International Conference Center (SDKJ-ICC) in Bijilo ist ein herausragendes Wahrzeichen der modernen gambischen Infrastruktur. Benannt nach dem ersten Präsidenten des Landes, wurde das Zentrum 2020 offiziell eingeweiht und stellt das größte und modernste Konferenzgebäude Gambias dar. Es wurde mit maßgeblicher Unterstützung der Volksrepublik China erbaut und symbolisiert die fortschreitende internationale Einbindung des Landes. Die Architektur besticht durch eine elegante, geschwungene Glasfassade und ein weitläufiges Design, das harmonisch in die Küstenlandschaft von Bijilo integriert ist. Mit einer Kapazität für Tausende von Teilnehmern ist es der Hauptveranstaltungsort für internationale Gipfeltreffen, wie das Treffen der Organisation für Islamische Zusammenarbeit (OIC). Historisch markiert das Zentrum einen Wendepunkt in der gambischen Diplomatie, da es die Kapazitäten für groß angelegte globale Events im eigenen Land schafft. Neben den Konferenzsälen bietet das Areal modernste Medieneinrichtungen und weitläufige Grünanlagen, die es zu einem Symbol für Fortschritt und Professionalität im 21. Jahrhundert machen.",
+        "hu": "A Bijilóban található Sir Dawda Kairaba Jawara Nemzetközi Konferencia-központ (SDKJ-ICC) a modern gambiai infrastruktúra kiemelkedő nevezetessége. Az ország első elnökéről elnevezett központot 2020-ban avatták fel hivatalosan, és ez Gambia legnagyobb és legmodernebb konferenciaépülete. A Kínai Népköztársaság jelentős támogatásával épült, szimbolizálva az ország növekvő nemzetközi szerepvállalását. Az építészet elegáns, íves üveghomlokzatával és tágas kialakításával tűnik ki, amely harmonikusan illeszkedik Bijilo tengerparti tájképébe. A több ezer résztvevő befogadására alkalmas központ az olyan nemzetközi csúcstalálkozók fő helyszíne, mint az Iszlám Együttműködés Szervezete (OIC) találkozója. Történelmileg a központ fordulópontot jelent a gambiai diplomáciában, mivel lehetővé teszi nagy léptékű globális események lebonyolítását az országon belül. A konferenciatermek mellett a terület korszerű médiaeszközöket és kiterjedt zöldfelületeket kínál, amelyek a 21. századi fejlődés és professzionalizmus jelképévé teszik.",
+        "ro": "Centrul Internațional de Conferințe Sir Dawda Kairaba Jawara (SDKJ-ICC) din Bijilo este un punct de reper remarcabil al infrastructurii gambiene moderne. Numit după primul președinte al țării, centrul a fost inaugurat oficial în 2020 și reprezintă cea mai mare și mai modernă clădire de conferințe din Gambia. A fost construit cu sprijinul semnificativ al Republicii Populare Chineze, simbolizând integrarea internațională progresivă a țării. Arhitectura impresionează printr-o fațadă de sticlă elegantă și curbată și un design amplu, integrat armonios în peisajul de coastă din Bijilo. Cu o capacitate pentru mii de participanți, este principalul loc de desfășurare pentru summituri internaționale, cum ar fi întâlnirea Organizației Cooperării Islamice (OIC). Din punct de vedere istoric, centrul marchează un punct de cotitură în diplomația gambiană, creând capacitatea de a găzdui evenimente globale de amploare pe plan local. Pe lângă sălile de conferințe, complexul oferă facilități media de ultimă generație și spații verzi vaste, făcându-l un simbol al progresului și profesionalismului în secolul XXI.",
+        "en": "The Sir Dawda Kairaba Jawara International Conference Center (SDKJ-ICC) in Bijilo is a standout landmark of modern Gambian infrastructure. Named after the nation's founding father and first president, the center was officially inaugurated in 2020 and stands as the largest and most sophisticated conference facility in The Gambia. Constructed with substantial support from the People’s Republic of China, it symbolizes the country’s increasing international engagement. The architecture is noted for its sleek, curved glass facade and spacious layout, which is designed to blend seamlessly with the coastal environment of the Bijilo region. Capable of accommodating thousands of delegates, it serves as the primary venue for major international summits, such as the Organization of Islamic Cooperation (OIC) meetings. Historically, the center represents a strategic shift in Gambian diplomacy, providing the domestic capacity to host large-scale global events. In addition to plenary halls, the site features advanced media facilities and extensive landscaped grounds, serving as a symbol of 21st-century progress and professional growth."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Benannt nach Sir Dawda Kairaba Jawara, dem ersten Präsidenten Gambias.",
+          "Eröffnet im Jahr 2020 als modernstes Zentrum des Landes.",
+          "Finanziert und erbaut in Zusammenarbeit mit der VR China.",
+          "Hauptaustragungsort für den OIC-Gipfel in Gambia.",
+          "Befindet sich in unmittelbarer Nähe zum Bijilo Forest Park.",
+          "Symbol für die moderne Diplomatie und wirtschaftliche Entwicklung."
+        ],
+        "hu": [
+          "Sir Dawda Kairaba Jawaráról, Gambia első elnökéről nevezték el.",
+          "2020-ban nyitották meg az ország legmodernebb központjaként.",
+          "A Kínai Népköztársasággal együttműködésben épült és finanszírozták.",
+          "A gambiai OIC-csúcstalálkozó elsődleges helyszíne.",
+          "A Bijilo Forest Park közvetlen közelében található.",
+          "A modern diplomácia és a gazdasági fejlődés jelképe."
+        ],
+        "ro": [
+          "Numit în onoarea lui Sir Dawda Kairaba Jawara, primul președinte al țării.",
+          "Inaugurat în 2020, fiind cel mai modern centru de acest tip din țară.",
+          "Finanțat și construit în colaborare cu R.P. Chineză.",
+          "Locul principal de desfășurare a summitului OIC în Gambia.",
+          "Situat în imediata apropiere a parcului forestier Bijilo.",
+          "Simbol al diplomației moderne și al dezvoltării economice."
+        ],
+        "en": [
+          "Named after Sir Dawda Kairaba Jawara, The Gambia's first president.",
+          "Officially opened in 2020 as the nation's premier conference venue.",
+          "A major development project completed in partnership with China.",
+          "Serves as the host site for the Organization of Islamic Cooperation summits.",
+          "Strategically located near the Bijilo Forest Park and beach resorts.",
+          "Represents the modernization of Gambian infrastructure and diplomacy."
+        ]
+      }
+    },
+    {
+      "id": "fort-louvel-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Fort Louvel ist ein historisches Verteidigungsbauwerk in Banjul, das auf einer der höchsten Erhebungen der Stadt errichtet wurde. Es wurde 1831 von den Briten erbaut, um die Stadt während des Marabout-Soninke-Krieges vor Angriffen zu schützen. Benannt wurde es nach dem französischen Kommandanten Louvel, der den Briten in dieser kritischen Phase militärische Unterstützung leistete. Die Landmarke besteht heute primär aus einem massiven Steinturm, der ursprünglich mit Kanonen bestückt war, um die umliegenden Gebiete und die Zufahrtswege zur Hauptstadt zu überwachen. Historisch gesehen ist Fort Louvel ein Zeugnis der komplexen militärischen Allianzen zwischen europäischen Mächten und lokalen Fraktionen im 19. Jahrhundert. Das Fort spielte eine entscheidende Rolle bei der Sicherung der britischen Kontrolle über Bathurst (heute Banjul) in einer Zeit religiöser und sozialer Unruhen im Hinterland. Architekturgeschichtlich spiegelt es die funktionale Militärbauweise jener Ära wider, bei der strategische Sichtlinien wichtiger waren als ornamentale Details. Heute steht das Fort als Denkmal für die Verteidigungsgeschichte der Hauptstadt und bietet einen Einblick in die turbulenten Jahre der frühen Kolonialherrschaft in der Senegambia-Region.",
+        "hu": "A banjuli Fort Louvel egy történelmi védelmi építmény, amelyet a város egyik legmagasabb pontján emeltek. 1831-ben építették a britek, hogy megvédjék a várost a támadásoktól a Marabout-Soninke háború idején. Nevét Louvel francia parancsnokról kapta, aki katonai támogatást nyújtott a briteknek ebben a kritikus szakaszban. A nevezetesség ma elsősorban egy masszív kőtoronyból áll, amelyet eredetileg ágyúkkal szereltek fel a környező területek és a fővárosba vezető utak ellenőrzésére. Történelmi szempontból a Fort Louvel az európai hatalmak és a helyi frakciók közötti komplex katonai szövetségek tanúja a 19. században. Az erőd döntő szerepet játszott Bathurst (ma Banjul) brit ellenőrzésének biztosításában a szárazföldi vallási és társadalmi zavargások idején. Építészettörténetileg a korszak funkcionális katonai építészetét tükrözi, ahol a stratégiai látóvonalak fontosabbak voltak a díszítő részleteknél. Ma az erőd a főváros védelmi történetének emlékműve, és betekintést nyújt a korai gyarmati uralom viharos éveibe a szenegambiai régióban.",
+        "ro": "Fort Louvel este o structură defensivă istorică din Banjul, ridicată pe una dintre cele mai înalte cote ale orașului. A fost construit de britanici în 1831 pentru a proteja orașul de atacuri în timpul războiului Marabout-Soninke. A fost numit după comandantul francez Louvel, care a oferit sprijin militar britanicilor în această fază critică. Punctul de reper constă astăzi în principal dintr-un turn masiv de piatră, care inițial era dotat cu tunuri pentru a monitoriza zonele înconjurătoare și căile de acces către capitală. Din punct de vedere istoric, Fort Louvel este o mărturie a alianțelor militare complexe între puterile europene și facțiunile locale în secolul al XIX-lea. Fortul a jucat un rol crucial în asigurarea controlului britanic asupra Bathurst (astăzi Banjul) într-o perioadă de tulburări religioase și sociale în interiorul țării. Din punct de vedere al istoriei arhitecturii, acesta reflectă construcția militară funcțională a acelei ere, unde liniile de vizibilitate strategică erau mai importante decât detaliile ornamentale. Astăzi, fortul este un monument al istoriei defensive a capitalei și oferă o perspectivă asupra anilor turbulenți ai dominației coloniale timpurii în regiunea Senegambia.",
+        "en": "Fort Louvel is a historic defensive structure in Banjul, situated on one of the highest points of the capital city. Constructed by the British in 1831, it was designed to safeguard the settlement during the Marabout-Soninke Wars. It was named after Commander Louvel, a French officer who provided military assistance to the British forces during this critical period of instability. The landmark today primarily features a sturdy stone tower, which was originally equipped with artillery to oversee the surrounding areas and the land approaches to the city. Historically, Fort Louvel stands as a testament to the complex military alliances between European colonial powers and local factions during the 19th century. The fort played a decisive role in maintaining British authority over Bathurst (now Banjul) during an era of significant religious and social upheaval in the river's interior. Architecturally, it embodies the utilitarian military design of the period, prioritizing strategic vantage points over decorative elements. Today, the fort serves as a memorial to the capital's defensive history, providing insight into the turbulent early years of colonial rule in the Senegambia region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im Jahr 1831 während der Marabout-Soninke-Kriege.",
+          "Benannt nach einem französischen Offizier, der den Briten half.",
+          "Befindet sich auf dem höchsten Punkt von Banjul.",
+          "Diente als strategischer Wachturm mit Kanonenbestückung.",
+          "Ein seltenes Beispiel für frühe koloniale Militärarchitektur in der Stadt.",
+          "Symbol für die anglo-französische Zusammenarbeit im 19. Jahrhundert."
+        ],
+        "hu": [
+          "1831-ben épült a Marabout-Soninke háborúk idején.",
+          "Egy francia tisztről nevezték el, aki segítette a briteket.",
+          "Banjul legmagasabb pontján helyezkedik el.",
+          "Stratégiai őrtoronyként szolgált ágyúállásokkal.",
+          "A korai gyarmati katonai építészet ritka példája a városban.",
+          "A 19. századi angol-francia együttműködés jelképe."
+        ],
+        "ro": [
+          "Construit în anul 1831, în timpul războaielor Marabout-Soninke.",
+          "Numit după un ofițer francez care i-a asistat pe britanici.",
+          "Situat pe cel mai înalt punct din orașul Banjul.",
+          "A servit drept turn de veghe strategic echipat cu tunuri.",
+          "Un exemplu rar de arhitectură militară colonială timpurie în oraș.",
+          "Simbol al cooperării anglo-franceze din secolul al XIX-lea."
+        ],
+        "en": [
+          "Erected in 1831 during the height of regional religious conflicts.",
+          "Named after a French commander who supported the British defense.",
+          "Positioned on the highest elevation within the capital of Banjul.",
+          "Functioned as a strategic artillery tower to defend the city.",
+          "One of the oldest surviving colonial military structures in the city.",
+          "Highlights 19th-century European military cooperation in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "albarda-historic-site-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Albreda, oft als 'Zwillingsdorf' von Juffureh bezeichnet, ist eine der geschichtlich bedeutendsten Siedlungen am Nordufer des Gambia-Flusses. Ursprünglich als französischer Handelsposten im 17. Jahrhundert gegründet, diente es lange Zeit als Enklave innerhalb des ansonsten britisch kontrollierten Gambia. Die historische Stätte umfasst wichtige Überreste kolonialer Architektur, darunter das CFAO-Gebäude und Ruinen alter Faktoreien. Historisch gesehen war Albreda ein zentraler Knotenpunkt im transatlantischen Sklavenhandel sowie im Export von Rohstoffen wie Erdnüssen und Häuten. Die Präsenz der Franzosen führte zu ständigen Spannungen mit den Briten auf der gegenüberliegenden James Island (heute Kunta Kinteh Island), was die geopolitische Bedeutung des Ortes unterstreicht. Heute gehört Albreda zusammen mit Juffureh zum UNESCO-Welterbe und fungiert als Mahnmal für die Schrecken der Sklaverei und den kolonialen Wettbewerb. Das Gelände bietet Besuchern durch Informationstafeln und erhaltene Strukturen einen tiefen Einblick in das Leben der Händler und die Auswirkungen des globalen Handels auf die lokale Bevölkerung der Niumi-Region. Es ist ein Ort von hoher emotionaler und historischer Relevanz.",
+        "hu": "Albreda, amelyet gyakran Juffureh 'ikerfalujaként' emlegetnek, a Gambia-folyó északi partjának egyik legjelentősebb történelmi települése. Eredetileg francia kereskedelmi állomásként alapították a 17. században, és hosszú ideig francia enklávéként működött a britek által ellenőrzött Gambia területén. A történelmi helyszín a gyarmati építészet fontos maradványait foglalja magában, többek között a CFAO-épületet és a régi gyárak romjait. Történelmileg Albreda a transzatlanti rabszolga-kereskedelem, valamint a nyersanyagok, például a földimogyoró és a bőrök exportjának egyik központi csomópontja volt. A francia jelenlét állandó feszültséget okozott a szemközti James-szigeten (ma Kunta Kinteh-sziget) állomásozó britekkel, ami kiemeli a hely geopolitikai jelentőségét. Ma Albreda Juffureh-vel együtt az UNESCO Világörökség része, és a rabszolgaság borzalmai, valamint a gyarmati rivalizálás mementójaként szolgál. A terület információs táblákon és megőrzött építményeken keresztül mély betekintést nyújt a kereskedők életébe és a globális kereskedelemnek a Niumi régió helyi lakosságára gyakorolt hatásaiba. Érzelmileg és történelmileg egyaránt kiemelkedő helyszín.",
+        "ro": "Albreda, adesea numit „satul geamăn” al localității Juffureh, este una dintre cele mai importante așezări istorice de pe malul de nord al râului Gambia. Fondată inițial ca post comercial francez în secolul al XVII-lea, a servit mult timp ca enclavă franceză în interiorul Gambiei controlate de britanici. Situl istoric cuprinde rămășițe importante ale arhitecturii coloniale, inclusiv clădirea CFAO și ruinele vechilor factorii comerciale. Din punct de vedere istoric, Albreda a fost un punct central în comerțul transatlantic cu sclavi, precum și în exportul de materii prime, cum ar bi arahidele și pieile. Prezența francezilor a dus la tensiuni constante cu britanicii de pe insula James (astăzi insula Kunta Kinteh), situată vis-a-vis, ceea ce subliniază importanța geopolitică a locului. Astăzi, Albreda, împreună cu Juffureh, face parte din Patrimoniul Mondial UNESCO și funcționează ca un monument dedicat ororilor sclaviei și competiției coloniale. Situl oferă vizitatorilor, prin panouri informative și structuri conservate, o perspectivă profundă asupra vieții comercianților și a impactului comerțului global asupra populației locale din regiunea Niumi. Este un loc de o relevanță emoțională și istorică ridicată.",
+        "en": "Albreda, often referred to as the 'twin village' of Juffureh, is one of the most historically significant settlements on the north bank of the Gambia River. Established as a French trading post in the 17th century, it functioned for many years as a French enclave within a territory otherwise dominated by the British. The historic site features notable remnants of colonial architecture, including the CFAO building and the ruins of several old trading factories. Historically, Albreda served as a critical hub for the transatlantic slave trade and the export of commodities such as groundnuts and hides. The persistent French presence here led to frequent friction with the British based on nearby James Island (now Kunta Kinteh Island), highlighting the site's strategic geopolitical importance. Today, Albreda is recognized alongside Juffureh as part of a UNESCO World Heritage site, serving as a somber reminder of the slave trade and the fierce colonial competition for river access. Through interpretive displays and preserved structures, the site provides profound insights into the lives of historical traders and the long-term impact of global commerce on the indigenous populations of the Niumi region. It remains a site of immense emotional and historical weight."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ehemalige französische Enklave im britischen Gambia.",
+          "Teil des UNESCO-Welterbes seit 2003.",
+          "Beherbergt das historische CFAO-Handelsgebäude.",
+          "Zentrum des frühen Handels mit Erdnüssen und Sklaven.",
+          "Strategischer Gegenspieler zur britischen James Island.",
+          "Wichtiger Ort der Erinnerung an den transatlantischen Sklavenhandel."
+        ],
+        "hu": [
+          "Egykori francia enklávé a brit fennhatóságú Gambiában.",
+          "2003 óta az UNESCO Világörökség része.",
+          "Itt található a történelmi CFAO kereskedelmi épület.",
+          "A korai földimogyoró- és rabszolga-kereskedelem központja.",
+          "A brit James-sziget stratégiai ellenpontja volt.",
+          "A transzatlanti rabszolga-kereskedelem fontos emlékhelye."
+        ],
+        "ro": [
+          "Fostă enclavă franceză în interiorul Gambiei britanice.",
+          "Inclusă în Patrimoniul Mondial UNESCO din 2003.",
+          "Găzduiește clădirea comercială istorică CFAO.",
+          "Centru al comerțului timpuriu cu arahide și sclavi.",
+          "Oponent strategic al insulei britanice James Island.",
+          "Loc important de comemorare a comerțului transatlantic cu sclavi."
+        ],
+        "en": [
+          "A former French enclave situated in British-controlled Gambia.",
+          "Inscribed as a UNESCO World Heritage site in 2003.",
+          "Features the historic CFAO trading building as a landmark.",
+          "Served as a major port for groundnut exports and the slave trade.",
+          "Positioned as a strategic rival to the British fort on James Island.",
+          "A cornerstone of the 'Roots' tourism and historical education."
+        ]
+      }
+    },
+    {
+      "id": "juffureh-village-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Juffureh ist eines der bekanntesten Dörfer Westafrikas und erlangte durch Alex Haleys Roman 'Roots' und die Figur des Kunta Kinte weltweite Berühmtheit. Das Dorf liegt am Nordufer des Gambia-Flusses in der Niumi-Region und ist untrennbar mit der Geschichte des Sklavenhandels verbunden. Historisch gesehen war Juffureh eine blühende Siedlung, deren Bewohner oft Opfer von Sklavenjägern wurden, die die Menschen zu den nahegelegenen Festungen auf Kunta Kinteh Island brachten. Als Landmarke ist das Dorf heute ein bedeutendes Ziel für den 'Wurzel-Tourismus' (Roots Tourism) und beherbergt das Maurel Frères Gebäude, das heute ein Museum über die Sklaverei beherbergt. Die Architektur des Dorfes ist eine Mischung aus traditionellen afrikanischen Gehöften und Gebäuden aus der Kolonialzeit. Besonders symbolträchtig ist der Ort durch die Nachfahren der Kinte-Familie, die noch immer dort leben und die mündliche Geschichte pflegen. Juffureh steht für das kollektive Trauma der afrikanischen Diaspora, aber auch für die Versöhnung und das Erbe. Jedes Jahr ist es Schauplatz des Internationalen Roots Festivals, das Menschen aus der ganzen Welt zusammenbringt, um ihrer afrikanischen Herkunft zu gedenken.",
+        "hu": "Juffureh Nyugat-Afrika egyik legismertebb faluja, amely Alex Haley 'Gyökerek' című regénye és Kunta Kinte alakja révén vált világhírűvé. A falu a Gambia-folyó északi partján, a Niumi régióban található, és elválaszthatatlanul kapcsolódik a rabszolga-kereskedelem történetéhez. Történelmileg Juffureh virágzó település volt, amelynek lakói gyakran váltak rabszolgavadászok áldozataivá, akik a közeli Kunta Kinteh-szigeten lévő erődökbe hurcolták őket. Mint nevezetesség, a falu ma a 'gyökerek-turizmus' (Roots Tourism) kiemelt célpontja, és itt található a Maurel Frères épület, amely ma a rabszolgaság történetét bemutató múzeumnak ad otthont. A falu építészete a hagyományos afrikai lakóházak és a gyarmati korszak épületeinek keveréke. Különösen jelképes a helyszín a Kinte család leszármazottai miatt, akik még mindig ott élnek és őrzik a szájhagyományt. Juffureh az afrikai diaszpóra kollektív traumáját, de egyben a megbékélést és az örökséget is jelképezi. Minden évben itt rendezik meg a Nemzetközi Gyökerek Fesztivált, amely a világ minden tájáról vonzza az afrikai származásukra emlékezőket.",
+        "ro": "Juffureh este unul dintre cele mai cunoscute sate din Africa de Vest, dobândind faimă mondială datorită romanului „Rădăcini” (Roots) de Alex Haley și figurii lui Kunta Kinte. Satul este situat pe malul de nord al râului Gambia, în regiunea Niumi, și este inseparabil legat de istoria comerțului cu sclavi. Din punct de vedere istoric, Juffureh a fost o așezare înfloritoare, ai cărei locuitori au căzut adesea victime vânătorilor de sclavi, fiind transportați către fortărețele din apropiere de pe insula Kunta Kinteh. Ca punct de reper, satul este astăzi o destinație majoră pentru „turismul rădăcinilor” (Roots Tourism) și găzduiește clădirea Maurel Frères, care acum servește drept muzeu al sclaviei. Arhitectura satului este un mix între gospodării tradiționale africane și clădiri din epoca colonială. Locul este deosebit de simbolic datorită descendenților familiei Kinte, care trăiesc și astăzi acolo și păstrează istoria orală. Juffureh reprezintă trauma colectivă a diasporei africane, dar și reconcilierea și moștenirea culturală. În fiecare an, acesta găzduiește Festivalul Internațional Roots, care reunește oameni din întreaga lume pentru a comemora originile lor africane.",
+        "en": "Juffureh is one of West Africa's most renowned villages, achieving worldwide fame through Alex Haley’s novel 'Roots' and its protagonist, Kunta Kinte. Located on the north bank of the Gambia River in the Niumi region, the village is inextricably linked to the history of the transatlantic slave trade. Historically, Juffureh was a prosperous settlement whose inhabitants were frequently targeted by slave traders and transported to the nearby dungeons on Kunta Kinteh Island. As a landmark, the village is a primary destination for 'Roots tourism' and features the Maurel Frères building, which now functions as a museum dedicated to the history of slavery. The village architecture showcases a blend of traditional African family compounds and remnants of colonial-era structures. The site holds deep symbolic value as members of the Kinte family still reside there, preserving their ancestral oral history. Juffureh stands as a testament to the collective trauma of the African diaspora while also representing reconciliation and cultural heritage. Every year, it hosts the International Roots Festival, drawing people from across the globe to commemorate their African ancestry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Heimatort von Kunta Kinte aus Alex Haleys 'Roots'.",
+          "Zentrum des 'Roots-Tourismus' in Gambia.",
+          "Beherbergt das Slavery Museum im Maurel Frères Gebäude.",
+          "Liegt gegenüber der historischen Kunta Kinteh Island.",
+          "Wohnsitz der Nachfahren der Kinte-Familie.",
+          "Austragungsort des Internationalen Roots Festivals."
+        ],
+        "hu": [
+          "Alex Haley 'Gyökerek' című művének főhőse, Kunta Kinte szülőhelye.",
+          "A gambiai 'gyökerek-turizmus' központja.",
+          "A Maurel Frères épületben található Rabszolgaság Múzeuma helyszíne.",
+          "A történelmi Kunta Kinteh-szigettel szemben fekszik.",
+          "A Kinte család leszármazottainak otthona.",
+          "A Nemzetközi Gyökerek Fesztivál házigazdája."
+        ],
+        "ro": [
+          "Locul de baștină al lui Kunta Kinte din faimosul roman „Rădăcini”.",
+          "Centrul „turismului rădăcinilor” din Gambia.",
+          "Găzduiește Muzeul Sclaviei în clădirea Maurel Frères.",
+          "Situat vizavi de istorica insulă Kunta Kinteh.",
+          "Reședința descendenților familiei Kinte.",
+          "Locul de desfășurare a Festivalului Internațional Roots."
+        ],
+        "en": [
+          "The ancestral home of Kunta Kinte, made famous by the book 'Roots'.",
+          "The focal point for diaspora heritage tourism in West Africa.",
+          "Houses a dedicated museum of slavery in the Maurel Frères building.",
+          "Located directly across from the UNESCO-listed Kunta Kinteh Island.",
+          "Inhabited by contemporary descendants of the Kinte clan.",
+          "Host to the biennial International Roots Festival celebration."
+        ]
+      }
+    }
+  ]
+}

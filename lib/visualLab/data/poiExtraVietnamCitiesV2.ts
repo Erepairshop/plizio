@@ -35,7 +35,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       de: ["Gegründet im Jahr 1010 als Thang Long", "Mehr als 600 Tempel und Pagoden in der Stadt", "Das historische Zentrum umfasst 36 traditionelle Handelsstraßen", "Zentrum des politischen und kulturellen Lebens", "Wurde 1954 Hauptstadt der Demokratischen Republik Vietnam", "Liegt im Delta des Roten Flusses auf 20 Metern Höhe"],
       hu: ["A város nevét 1010-ben kapta (Thang Long)", "Több mint 600 templom és pagoda található itt", "A híres Irodalom Temploma 1070-ben épült", "A Ho Si Minh-mauzóleum 1975-ben nyílt meg", "A Vörös-folyó deltájának gazdasági központja", "A város területe 3358 km²-re nőtt 2008-ban"],
       ro: ["Fondat în 1010 sub numele Thang Long", "Populație de peste 8 milioane locuitori", "Sediul Mausoleului lui Ho Chi Minh", "Situat pe malul drept al Râului Roșu", "Peste 600 de temple și pagode istorice", "Climat subtropical cu patru anotimpuri"],
-      en: ["Ho Chi Minh Mausoleum.", "Temple of Literature & Imperial Academy.", "Water Puppet Theatre.", "Heart of the Red River Delta.", "The capital of Vietnam, known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese, and French influences.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region."]
+      en: ["The capital of Vietnam, known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese, and French influences.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region."]
     }
   },
   {
@@ -71,7 +71,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       de: ["Größte Stadt Vietnams mit über 9 Millionen Einwohnern", "Wurde 1976 offiziell in Ho-Chi-Minh-Stadt umbenannt", "Wirtschaftszentrum für Industrie, Handel und Tourismus", "Sitz des Ben-Thanh-Marktes, ein Wahrzeichen der Stadt", "Durchzogen vom Saigon-Fluss mit bedeutendem Hafen", "Bekannt für ihr lebhaftes Nachtleben und Streetfood-Kultur"],
       hu: ["1976-ban kapta a Ho Si Minh-város nevet", "Több mint 9 millió lakos él a városban", "Központi szerepet játszott az 1975-ös újraegyesítésben", "A Reunification Palace a modern történelem kulcshelyszíne", "Vietnám GDP-jének közel 20%-át adja", "A War Remnants Museum évi több százezer látogatót fogad"],
       ro: ["Cel mai mare oraș din Vietnam", "Redenumit oficial în 1976", "Situat în delta fluviului Saigon", "Centrul financiar principal al țării", "Arhitectură notabilă: Catedrala Notre-Dame", "Climat tropical musonic cu două sezoane"],
-      en: ["Formerly known as Saigon.", "Reunification Palace.", "War Remnants Museum.", "Saigon Notre-Dame Cathedral.", "The largest city in Vietnam, famous for its pivotal role in the Vietnam War and its French colonial architecture.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region."]
+      en: ["The largest city in Vietnam, famous for its pivotal role in the Vietnam War and its French colonial architecture.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region."]
     }
   },
   {
@@ -107,7 +107,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: ["A Lý-dinasztia idején a buddhizmus központja volt", "A Quan họ népi éneklés az UNESCO szellemi öröksége", "Jelentős szerepet tölt be a félvezetőgyártásban", "Több mint 100 000 fő lakossága van", "A Bắc Ninh tartományi GDP-növekedés kiemelkedő", "Híres a Dâu pagodáról, amely a legrégebbi vietnámi templom"],
       ro: ["Faimos pentru muzica populară Quan Ho", "Provincia cu cea mai mare densitate industrială", "Capitala provinciei cu același nume", "Istorie legată de Dinastia Ly", "Centru strategic în nordul Vietnamului", "Suprafață redusă, dar dezvoltare economică rapidă"],
       en: ["Cradle of the Lý Dynasty (1009–1225)", "UNESCO Intangible Cultural Heritage: Quan họ folk singing", "Home to major multinational electronic manufacturing bases", "Located 30 km from Hanoi", "Famous for the Dâu Pagoda, the oldest in Vietnam", "Rapidly urbanizing industrial province"],
-      de: ["Hauptstadt der Provinz Bắc Ninh.", "Hohe ausländische Direktinvestitionen.", "Wiege der Lý-Dynastie.", "Viele traditionelle Feste.", "Eine schnell wachsende Industriestadt und das traditionelle Zentrum des Quan-họ-Volksgesangs.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region."]
+      de: ["Eine schnell wachsende Industriestadt und das traditionelle Zentrum des Quan-họ-Volksgesangs.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region."]
     }
   },
   {
@@ -143,7 +143,7 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       hu: ["Jelentős elektronikai és textilipari központ", "A zöldbab-sütemény (bánh đậu xanh) a város védjegye", "Hanoi és Hải Phòng között helyezkedik el", "Több mint 500 éves múltra tekint vissza", "Kiemelt jelentőségű a környék mezőgazdasága is", "A vízibáb-kultúra fontos otthona"],
       ro: ["Situat pe ruta Hanoi-Hai Phong", "Renumit pentru prăjiturile cu fasole verde", "Centru agricol și industrial important", "Istorie bogată în perioada feudală", "Nod de transport fluvial și rutier", "Aproape de situri culturale importante"],
       en: ["Strategic location in the Northern Key Economic Zone", "Renowned for traditional 'bánh đậu xanh' (green bean cakes)", "Key logistics hub between Hanoi and Haiphong", "Ancient cultural sites dating back to the Trần Dynasty", "Growing industrial park infrastructure", "Significant regional agricultural and manufacturing output"],
-      de: ["Industrie- und Handelszentrum.", "Leicht erreichbar von Hanoi.", "Zentrum der Käm-Wasserpuppenspielkunst.", "Eine Stadt im Delta des Roten Flusses, die für ihre traditionellen grünen Bohnenkuchen bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."]
+      de: ["Eine Stadt im Delta des Roten Flusses, die für ihre traditionellen grünen Bohnenkuchen bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."]
     }
   },
   {
@@ -178,8 +178,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Vĩnh Phúc tartomány fővárosa", "A Tam Đảo-hegység közelsége miatt fontos turisztikai állomás", "Jelentős autóipari beruházások helyszíne", "Gyors városi fejlődés az elmúlt két évtizedben", "Kulturális és oktatási központja a régió nyugati részének", "Zöld parkokkal és modern infrastruktúrával rendelkező település"],
       ro: ["Centrul provinciei Vinh Phuc", "Poartă spre Munții Tam Dao", "Dezvoltare industrială accelerată", "Aproape de Rezervorul Dai Lai", "Altitudine medie de 20-30 metri", "Creștere urbană semnificativă"],
-      de: ["Heimat vieler großer Fabriken.", "In der Nähe des Tam-Đảo-Nationalparks.", "Wachsende städtische Infrastruktur.", "Die Hauptstadt der Provinz Vĩnh Phúc und ein wichtiges wirtschaftliches Zentrum in der Nähe von Hanoi.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Home to many large factories.", "Close to Tam Đảo National Park.", "Growing urban infrastructure.", "The capital of Vĩnh Phúc province and a significant economic hub near Hanoi.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Die Hauptstadt der Provinz Vĩnh Phúc und ein wichtiges wirtschaftliches Zentrum in der Nähe von Hanoi.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["The capital of Vĩnh Phúc province and a significant economic hub near Hanoi.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -214,8 +214,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Vietnám egyik legfontosabb rizstermelő vidéke", "Kiterjedt partvonal a Tonkin-öböl mentén", "Hagyományos kézműves iparágak központja", "Fontos szerepet játszik az ország energiaellátásában", "Több száz éves falusi hagyományokkal rendelkezik", "A Vörös-folyó deltájának keleti kapuja"],
       ro: ["Cunoscut sub numele de 'țara orezului'", "Situat în zona de coastă a Deltei", "Centru industrial pentru textile și încălțăminte", "Rețea vastă de canale și râuri", "Istorie legată de rezistența la invazii", "Climat influențat de proximitatea mării"],
-      de: ["Bedeutendes Reisanbaugebiet.", "Bekannt für traditionelle Handwerksdörfer.", "Keo-Pagode ist eine berühmte Attraktion.", "Die Hauptstadt der gleichnamigen Provinz, gelegen im fruchtbaren Delta des Roten Flusses.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Major rice-growing area.", "Known for traditional craft villages.", "Keo Pagoda is a famous attraction.", "The capital of the province of the same name, located in the fertile Red River Delta.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Die Hauptstadt der gleichnamigen Provinz, gelegen im fruchtbaren Delta des Roten Flusses.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["The capital of the province of the same name, located in the fertile Red River Delta.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -249,9 +249,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Hà Nam tartomány közigazgatási központja", "A Đáy-folyó és a vizek városa", "A Tam Chúc-pagoda a világ egyik legnagyobb komplexuma", "Központi csomópont az észak-déli közlekedési tengelyen", "Gyors ipari növekedés az elmúlt évtizedben", "A helyi konyha híres a különleges folyami halételeiről"],
-      ro: ["Situat la confluența râului Day", "Centru administrativ al provinciei Ha Nam", "Nod rutier și feroviar major", "Industrie axată pe materiale de construcție", "Aproape de complexul Pagoda Tam Chuc", "Peisaj dominat de râuri și câmpii"],
-      de: ["Hauptstadt der Provinz Hà Nam.", "Wichtiger Verkehrsknotenpunkt.", "In der Nähe der Tam-Chúc-Pagodenanlage.", "Eine Stadt am Ufer des Đáy-Flusses, die im Vietnamkrieg schwer zerstört und danach wiederaufgebaut wurde.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Capital of Hà Nam province.", "Important transportation hub.", "Near the Tam Chúc Pagoda Complex.", "A city on the banks of the Đáy River, heavily destroyed during the Vietnam War and later rebuilt.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      ro: ["Situat la confluența râului Day", "Centru administrativ al provinciei Ha Nam", "Nod rutier și feroviar major", "Industrie axată pe materiale de construcție", "Peisaj dominat de râuri și câmpii"],
+      de: ["Eine Stadt am Ufer des Đáy-Flusses, die im Vietnamkrieg schwer zerstört und danach wiederaufgebaut wurde.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["A city on the banks of the Đáy River, heavily destroyed during the Vietnam War and later rebuilt.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -286,8 +286,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["A Tràng An világörökségi terület kapuja", "Hoa Lư volt az ország fővárosa a 10. században", "A Bái Đính-pagoda Délkelet-Ázsia egyik legnagyobbja", "Látványos mészkő-hegységek és folyami barlangok övezik", "Népszerű forgatási helyszín nemzetközi filmekhez", "Gazdag biodiverzitás a vizes élőhelyeken"],
       ro: ["Capitala fostului stat Hoa Lu", "Poartă către siturile UNESCO Trang An", "Centru turistic major în Vietnam", "Situat în zona de tranziție montană", "Conectat prin căi ferate principale", "Regiunea este bogată în calcar"],
-      de: ["Tor zum Tràng An Landschaftskomplex.", "Historische Hauptstadt Hoa Lư in der Nähe.", "Bái-Đính-Pagode, größte Pagode Vietnams.", "Bekannt als die 'trockene Halong-Bucht' wegen seiner atemberaubenden Landschaft aus Karstfelsen und Reisfeldern.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Gateway to the Tràng An Landscape Complex.", "Ancient capital Hoa Lư is nearby.", "Bái Đính Pagoda, Vietnam's largest pagoda.", "Known as the 'Ha Long Bay on land' for its stunning landscape of karst peaks and rice paddies.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Bekannt als die 'trockene Halong-Bucht' wegen seiner atemberaubenden Landschaft aus Karstfelsen und Reisfeldern.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["Known as the 'Ha Long Bay on land' for its stunning landscape of karst peaks and rice paddies.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -322,8 +322,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Bắc Giang tartomány gazdasági központja", "Híres a kiváló minőségű licsi-termesztésről (Lục Ngạn)", "Az ipari parkok egyik leggyorsabb fejlődésű régiója", "A tartomány területének jelentős része hegyvidéki", "Fontos kereskedelmi útvonal Kína irányába", "Élénk helyi kulturális fesztiválok jellemzik"],
       ro: ["Centru administrativ al provinciei Bac Giang", "Faimos pentru producția de lychee", "Zonă montană și de câmpie combinată", "Expansiune rapidă a parcurilor industriale", "Poartă comercială cu China", "Râul Thuong traversează orașul"],
-      de: ["Wichtig für Landwirtschaft und Industrie.", "Schauplatz vieler historischer Schlachten.", "Das Suối Mỡ Heiligtum ist in der Nähe.", "Eine Stadt nordöstlich von Hanoi, die für ihre Litschis und ihre strategische Lage bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Important for agriculture and industry.", "Site of many historical battles.", "Suối Mỡ sanctuary is nearby.", "A city to the northeast of Hanoi, known for its lychees and strategic location.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt nordöstlich von Hanoi, die für ihre Litschis und ihre strategische Lage bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["A city to the northeast of Hanoi, known for its lychees and strategic location.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -358,8 +358,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["Közvetlen határos a kínai Dongxing városával", "A Trà Cổ strand az egyik leghosszabb Vietnámban", "Élénk határmenti piacok és kereskedelmi központ", "Fontos szerepet tölt be az északkeleti turizmusban", "Kulturális olvasztótégely a vietnámi és kínai hatások között", "A tartomány legészakibb pontjának kapuja"],
       ro: ["Oraș de frontieră internațională", "Hub comercial și de turism transfrontalier", "Situat în provincia Quang Ninh", "Piață importantă pentru bunuri importate", "Proximitate față de Golful Ha Long", "Climat maritim pronunțat"],
-      de: ["Grenzübergang zu Dongxing in China.", "Großer Grenzübergangsmarkt.", "Der Strand Trà Cổ ist in der Nähe.", "Eine Grenzstadt in der Provinz Quảng Ninh, ein wichtiger Handelsposten zwischen Vietnam und China.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Border crossing to Dongxing, China.", "Large border market.", "Trà Cổ beach is nearby.", "A border city in Quảng Ninh province, a major trading post between Vietnam and China.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Grenzstadt in der Provinz Quảng Ninh, ein wichtiger Handelsposten zwischen Vietnam und China.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["A border city in Quảng Ninh province, a major trading post between Vietnam and China.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -394,8 +394,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["A kínai Hekou várossal határos", "A Sa Pa-ba tartó vonatok és buszok végállomása", "A Vörös-folyó és a Nậm Thi-folyó találkozásánál fekszik", "Jelentős szerepet játszik az északnyugati régió kereskedelmében", "Több etnikai kisebbség találkozóhelye", "A hegyi turizmus legfontosabb elosztóközpontja"],
       ro: ["Punct de frontieră feroviar principal", "Poartă de acces către Sapa", "Situat la confluența râurilor Red și Nam Thi", "Centru pentru turismul montan", "Altitudine ridicată și climă răcoroasă", "Regiune diversă din punct de vedere etnic"],
-      de: ["Grenzübergang zu Hekou in China.", "Wichtiger Verkehrsknotenpunkt.", "Startpunkt für Reisen nach Sa Pa.", "Eine wichtige Grenzstadt im Nordwesten, das Tor zur Bergstadt Sa Pa und zum Handel mit China.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Border crossing to Hekou, China.", "Major transport hub.", "Starting point for trips to Sa Pa.", "A key border city in the Northwest, the gateway to the mountain town of Sa Pa and trade with China.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine wichtige Grenzstadt im Nordwesten, das Tor zur Bergstadt Sa Pa und zum Handel mit China.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["A key border city in the Northwest, the gateway to the mountain town of Sa Pa and trade with China.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -430,8 +430,8 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     factsAdvanced: {
       hu: ["1954-es győzelem a francia gyarmati erők felett", "A háborús múzeum a térség egyik legfontosabb látnivalója", "A1-domb a csata egyik meghatározó védelmi pontja volt", "Điện Biên tartomány székhelye", "A hegyvidéki etnikumok gazdag kulturális hagyományai", "Fontos történelmi emlékhely a nemzeti identitás szempontjából"],
       ro: ["Locul bătăliei decisive din 1954", "Situat într-o vale fertilă în nord-vest", "Centru administrativ al provinciei Dien Bien", "Muzeul Victoriei este un reper major", "Populație diversă, inclusiv etnia Thai", "Regiune montană dificil accesibilă"],
-      de: ["Historisches Kriegsmuseum.", "A1-Hügel und Kommandobunker.", "Hauptstadt der Provinz Điện Biên.", "Berühmt als Schauplatz der entscheidenden Schlacht, die den Ersten Indochinakrieg beendete.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      en: ["Historic war museum.", "A1 Hill and command bunker.", "Capital of Điện Biên province.", "Famous as the site of the decisive battle that ended the First Indochina War.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Berühmt als Schauplatz der entscheidenden Schlacht, die den Ersten Indochinakrieg beendete.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      en: ["Famous as the site of the decisive battle that ended the First Indochina War.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -465,9 +465,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Centrul provinciei Son La", "Situat pe un platou înalt", "Faimos pentru festivalurile etnice", "Economie bazată pe agricultură și hidroenergie", "Climat montan temperat", "Muzeul Închisorii Son La ca punct istoric"],
-      de: ["Historisches Gefängnis von Sơn La.", "Heimat vieler ethnischer Gruppen.", "Landschaftlich reizvolle Berglandschaft.", "Eine Stadt in der bergigen Nordwestregion, bekannt für ihre Tee- und Kaffeeplantagen.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Sơn La történelmi börtöne.", "Sok etnikai csoport otthona.", "Festői hegyvidéki táj.", "Város a hegyvidéki Északnyugati régióban, tea- és kávéültetvényeiről ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Sơn La historical prison.", "Home to many ethnic groups.", "Scenic mountain landscape.", "A city in the mountainous Northwest region, known for its tea and coffee plantations.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt in der bergigen Nordwestregion, bekannt für ihre Tee- und Kaffeeplantagen.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Város a hegyvidéki Északnyugati régióban, tea- és kávéültetvényeiről ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["A city in the mountainous Northwest region, known for its tea and coffee plantations.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -501,9 +501,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Cunoscut drept centrul producției de cocos", "Situat în Delta fluviului Mekong", "Oraș înconjurat de rețele de canale", "Economie bazată pe fructe și piscicultură", "Rețea complexă de insule fluviale", "Climat tropical umed"],
-      de: ["Produziert eine riesige Menge an Kokosnüssen.", "Bekannt für Kokosnuss-Süßigkeiten.", "Vielzahl von Kanälen und Wasserwegen.", "Die 'Hauptstadt der Kokosnüsse' Vietnams, eine üppige Gegend im Mekong-Delta.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Hatalmas mennyiségű kókuszdiót termel.", "Híres a kókuszcukorkáról.", "Csatornák és vízi utak sokasága.", "Vietnám 'kókuszdió fővárosa', egy buja terület a Mekong-deltában.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Produces a vast amount of coconuts.", "Known for coconut candy.", "Variety of canals and waterways.", "The 'Capital of Coconuts' of Vietnam, a lush area in the Mekong Delta.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Die 'Hauptstadt der Kokosnüsse' Vietnams, eine üppige Gegend im Mekong-Delta.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Vietnám 'kókuszdió fővárosa', egy buja terület a Mekong-deltában.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["The 'Capital of Coconuts' of Vietnam, a lush area in the Mekong Delta.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -537,9 +537,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Centru major al culturii Khmer", "Faimos pentru numeroasele pagode budiste", "Situat între râurile Tien și Hau", "Economie agricolă diversificată", "Oraș cu multă vegetație și copaci antici", "Diversitate etnică remarcabilă"],
-      de: ["Stark von der Khmer-Kultur beeinflusst.", "Ba Om Teich und Tempel.", "Ruhige und grüne Stadt.", "Eine Stadt im Mekong-Delta mit einer bedeutenden Khmer-Bevölkerung und über 140 Khmer-Pagoden.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Erősen befolyásolja a khmer kultúra.", "Ba Om tó és templom.", "Csendes és zöld város.", "Város a Mekong-deltában, jelentős khmer lakossággal és több mint 140 khmer pagodával.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Strongly influenced by Khmer culture.", "Ba Om Pond and Temple.", "Quiet and green city.", "A city in the Mekong Delta with a significant Khmer population and over 140 Khmer pagodas.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt im Mekong-Delta mit einer bedeutenden Khmer-Bevölkerung und über 140 Khmer-Pagoden.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Város a Mekong-deltában, jelentős khmer lakossággal és több mint 140 khmer pagodával.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["A city in the Mekong Delta with a significant Khmer population and over 140 Khmer pagodas.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -573,9 +573,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat pe malul fluviului Tien", "Hub pentru piețele plutitoare din regiune", "Centru agricol și de fructe tropicale", "Nod de transport fluvial esențial", "Climat musonic cald și umed", "Peisaj dominat de livezi și canale"],
-      de: ["Wichtiger Transitpunkt im Delta.", "Bekannt für seine Obstgärten.", "An Binh Insel ist ein beliebtes Ziel.", "Eine Stadt im Herzen des Mekong-Deltas, umgeben von Flüssen und Obstgärten.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Fontos tranzitpont a deltában.", "Híres a gyümölcsöseiről.", "Az An Binh sziget népszerű célpont.", "Város a Mekong-delta szívében, folyók és gyümölcsösök veszik körül.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Important transit point in the delta.", "Known for its fruit orchards.", "An Binh island is a popular destination.", "A city in the heart of the Mekong Delta, surrounded by rivers and orchards.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt im Herzen des Mekong-Deltas, umgeben von Flüssen und Obstgärten.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Város a Mekong-delta szívében, folyók és gyümölcsösök veszik körül.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["A city in the heart of the Mekong Delta, surrounded by rivers and orchards.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -609,9 +609,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Centru administrativ al provinciei Dong Thap", "Aproape de Parcul Național Tram Chim", "Economie bazată pe cultivarea orezului", "Situat într-o zonă inundabilă sezonier", "Regiune bogată în floră și faună acvatică", "Istorie legată de rezistența locală"],
-      de: ["Der Nationalpark ist ein wichtiges Vogelschutzgebiet.", "Heimat des seltenen Saruskranichs.", "Gedenkstätte für Nguyen Sinh Sac.", "Die Hauptstadt der Provinz Đồng Tháp, bekannt für ihre Lotusfelder und den Nationalpark Tràm Chim in der Nähe.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["A nemzeti park fontos madárrezervátum.", "A ritka szarusdaru otthona.", "Nguyen Sinh Sac emlékműve.", "Đồng Tháp tartomány fővárosa, lótuszmezőiről és a közeli Tràm Chim Nemzeti Parkról ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["The national park is an important bird sanctuary.", "Home to the rare Sarus Crane.", "Nguyen Sinh Sac Memorial Site.", "The capital of Đồng Tháp province, known for its lotus fields and nearby Tràm Chim National Park.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Die Hauptstadt der Provinz Đồng Tháp, bekannt für ihre Lotusfelder und den Nationalpark Tràm Chim in der Nähe.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Đồng Tháp tartomány fővárosa, lótuszmezőiről és a közeli Tràm Chim Nemzeti Parkról ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["The capital of Đồng Tháp province, known for its lotus fields and nearby Tràm Chim National Park.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -645,9 +645,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat pe malul râului Bassac", "Faimos pentru Muntele Sam și templele sale", "Centru multicultural: vietnamezi, cham, khmeri", "Economie bazată pe pescuit și comerț", "Poartă de acces către delta cambodgiană", "Punct de pelerinaj major"],
-      de: ["Wichtiger Wallfahrtsort.", "Schwimmende Fischfarmen.", "Kultureller Schmelztiegel von Viet, Cham und Khmer.", "Eine Stadt an der Grenze zu Kambodscha, berühmt für den heiligen Sam-Berg und eine vielfältige Kultur.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Fontos zarándokhely.", "Úszó halfarmok.", "Viet, cham és khmer kultúrák olvasztótégelye.", "Város a kambodzsai határon, híres a szent Sam-hegyről és a sokszínű kultúrájáról.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Major pilgrimage site.", "Floating fish farms.", "Cultural melting pot of Viet, Cham, and Khmer people.", "A city on the border with Cambodia, famous for the sacred Sam Mountain and a diverse culture.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt an der Grenze zu Kambodscha, berühmt für den heiligen Sam-Berg und eine vielfältige Kultur.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Város a kambodzsai határon, híres a szent Sam-hegyről és a sokszínű kultúrájáról.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["A city on the border with Cambodia, famous for the sacred Sam Mountain and a diverse culture.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -681,9 +681,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Situat la granița cu Cambodgia", "Renumit pentru peisajele de coastă și insule", "Centru turistic și comercial istoric", "Punct de acces pentru insula Phu Quoc", "Climat maritim tropical", "Istorie bogată în perioada regală"],
-      de: ["Thạch Động Höhlentempel.", "Mũi Nai Strand.", "Grenzübergang nach Kambodscha.", "Eine malerische Küsten- und Grenzstadt nahe Kambodscha, bekannt für ihre Kalksteinhöhlen und Strände.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["Thạch Động barlangtemplom.", "Mũi Nai strand.", "Határátkelő Kambodzsába.", "Festői tengerparti és határváros Kambodzsa közelében, mészkőbarlangjairól és strandjairól ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Thạch Động cave pagoda.", "Mũi Nai Beach.", "Border crossing to Cambodia.", "A scenic coastal and border town near Cambodia, known for its limestone caves and beaches.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine malerische Küsten- und Grenzstadt nahe Kambodscha, bekannt für ihre Kalksteinhöhlen und Strände.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Festői tengerparti és határváros Kambodzsa közelében, mészkőbarlangjairól és strandjairól ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["A scenic coastal and border town near Cambodia, known for its limestone caves and beaches.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -717,9 +717,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       ro: ["Centru al muzicii 'Don Ca Tai Tu'", "Arhitectură colonială bine conservată", "Economie bazată pe acvacultură (creveți)", "Situat în zona de coastă a Deltei", "Istorie legată de perioada de pionierat", "Climat tropical maritim"],
-      de: ["Villa des Bạc-Liêu-Prinzen.", "Großer Windpark vor der Küste.", "Zentrum des traditionellen 'Đờn ca tài tử'-Gesangs.", "Eine Stadt im Mekong-Delta, bekannt für die Villa eines reichen Playboys aus der Kolonialzeit und ihre Windparks.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      hu: ["A Bạc Liêu-i herceg villája.", "Nagy tengeri szélerőműpark.", "A hagyományos 'Đờn ca tài tử' éneklés központja.", "Város a Mekong-deltában, egy gyarmati kori gazdag playboy villájáról és szélerőműparkjairól ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
-      en: ["Mansion of the Bạc Liêu Prince.", "Large offshore wind farm.", "Center of traditional 'Đờn ca tài tử' music.", "A city in the Mekong Delta, known for the mansion of a wealthy colonial-era playboy and its wind farms.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt im Mekong-Delta, bekannt für die Villa eines reichen Playboys aus der Kolonialzeit und ihre Windparks.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      hu: ["Város a Mekong-deltában, egy gyarmati kori gazdag playboy villájáról és szélerőműparkjairól ismert.", "A Vietnámi Szocialista Köztársaság területén található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert."],
+      en: ["A city in the Mekong Delta, known for the mansion of a wealthy colonial-era playboy and its wind farms.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -753,9 +753,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["A híres fafából épült templom 1913-ban készült", "A bahnar és sedang népek központi régiója", "Fontos francia koloniális örökségi pont", "A Dak Bla-folyó mellett fekszik", "Gazdag kézműves hagyományokkal bírnak a helyi népek", "A környékbeli falvak máig őrzik a hagyományos 'Rong' házakat"],
-      de: ["Einzigartige Holzkirche von 1913.", "Heimat der Bahnar- und Sedang-Völker.", "Ehemaliges französisches Kolonialzentrum.", "Eine ruhige Stadt im zentralen Hochland, bekannt für ihre Holzkirche und die umliegenden Dörfer ethnischer Minderheiten.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Biserică unică din lemn din 1913.", "Acasă pentru popoarele Bahnar și Sedang.", "Fost centru colonial francez.", "Un oraș liniștit în Zonele Muntoase Centrale, cunoscut pentru biserica sa din lemn și satele minorităților etnice din jur.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Unique wooden church from 1913.", "Home to Bahnar and Sedang peoples.", "Former French colonial center.", "A peaceful city in the Central Highlands, known for its wooden church and surrounding ethnic minority villages.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine ruhige Stadt im zentralen Hochland, bekannt für ihre Holzkirche und die umliegenden Dörfer ethnischer Minderheiten.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Un oraș liniștit în Zonele Muntoase Centrale, cunoscut pentru biserica sa din lemn și satele minorităților etnice din jur.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["A peaceful city in the Central Highlands, known for its wooden church and surrounding ethnic minority villages.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -788,10 +788,10 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       en: "Gia Nghĩa is a remarkable feature of the geography and culture of Vietnam. The young capital of Đắk Nông province in the Central Highlands, surrounded by coffee plantations and waterfalls. One of the youngest provincial capitals. Growing bauxite mining industry. Near many beautiful waterfalls. This city is among the characteristic settlements of Vietnam, stretching from the Mekong Delta to the Red River region. Like many notable places in Vietnam, it combines regional character with the legacy of a millennia-old civilization and the French colonial era. Thus, this place contributes to the diverse profile of Vietnam — from the Mekong Delta and Ha Long Bay to the terraced rice fields."
     },
     factsAdvanced: {
-      hu: ["Vietnám egyik legfiatalabb tartományi fővárosa", "Jelentős bauxitbányászati központ", "Kávétermesztés az egyik fő gazdasági ág", "Számos vízesés és természeti park található a környéken", "Gyorsan bővülő városi és infrastrukturális hálózat", "A központi fennsík ökológiai központja"],
-      de: ["Eine der jüngsten Provinzhauptstädte.", "Wachsende Bauxit-Bergbauindustrie.", "In der Nähe vieler schöner Wasserfälle.", "Die junge Hauptstadt der Provinz Đắk Nông im zentralen Hochland, umgeben von Kaffeeplantagen und Wasserfällen.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Una dintre cele mai tinere capitale de provincie.", "Industria minieră de bauxită în creștere.", "Aproape de multe cascade frumoase.", "Tânăra capitală a provinciei Đắk Nông în Zonele Muntoase Centrale, înconjurată de plantații de cafea și cascade.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["One of the youngest provincial capitals.", "Growing bauxite mining industry.", "Near many beautiful waterfalls.", "The young capital of Đắk Nông province in the Central Highlands, surrounded by coffee plantations and waterfalls.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      hu: ["Jelentős bauxitbányászati központ", "Kávétermesztés az egyik fő gazdasági ág", "Számos vízesés és természeti park található a környéken", "Gyorsan bővülő városi és infrastrukturális hálózat", "A központi fennsík ökológiai központja"],
+      de: ["Die junge Hauptstadt der Provinz Đắk Nông im zentralen Hochland, umgeben von Kaffeeplantagen und Wasserfällen.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Tânăra capitală a provinciei Đắk Nông în Zonele Muntoase Centrale, înconjurată de plantații de cafea și cascade.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["The young capital of Đắk Nông province in the Central Highlands, surrounded by coffee plantations and waterfalls.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -825,9 +825,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Vietnám egyik vezető teatermesztő régiója", "A selyemgyártás és feldolgozás központja", "A Dambri-vízesés a régió leghíresebb látnivalója", "Az átlagosnál lényegesen hűvösebb klíma jellemzi", "Központi csomópont a központi fennsík kereskedelmében", "Kiterjedt teaültetvények alkotják a vidéki tájat"],
-      de: ["Wichtiges Zentrum für Teeanbau.", "Dambri-Wasserfall ist eine Hauptattraktion.", "Kühleres Klima als die Küstenregionen.", "Eine Stadt im zentralen Hochland, die für ihre Teeindustrie, Seidenproduktion und das kühlere Klima bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Centru important pentru cultivarea ceaiului.", "Cascada Dambri este o atracție principală.", "Climat mai răcoros decât regiunile de coastă.", "Un oraș în Zonele Muntoase Centrale, renumit pentru industria sa de ceai, producția de mătase și climatul mai răcoros.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Major center for tea cultivation.", "Dambri waterfall is a main attraction.", "Cooler climate than coastal regions.", "A city in the Central Highlands, renowned for its tea industry, silk production, and cooler climate.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt im zentralen Hochland, die für ihre Teeindustrie, Seidenproduktion und das kühlere Klima bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Un oraș în Zonele Muntoase Centrale, renumit pentru industria sa de ceai, producția de mătase și climatul mai răcoros.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["A city in the Central Highlands, renowned for its tea industry, silk production, and cooler climate.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -861,9 +861,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Bình Phước tartomány gazdasági központja", "A vietnámi háború idején stratégiai jelentőségű csata helyszíne", "Kiemelt régió a gumi- és kesudió-termelésben", "A Cát Tiên Nemzeti Park közeli kapuja", "Dinamikus várostervezés és infrastrukturális fejlesztések", "Fontos kereskedelmi csomópont a déli régióban"],
-      de: ["Schauplatz einer großen Schlacht im Vietnamkrieg.", "Wichtiger Produzent von Kautschuk.", "Tor zum Nationalpark Cát Tiên.", "Die Hauptstadt der Provinz Bình Phước, bekannt für ihre Kautschuk- und Cashew-Plantagen.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Locul unei bătălii majore în Războiul din Vietnam.", "Producător important de cauciuc.", "Poarta de acces către Parcul Național Cát Tiên.", "Capitala provinciei Bình Phước, cunoscută pentru plantațiile sale de cauciuc și caju.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Site of a major battle in the Vietnam War.", "Major producer of rubber.", "Gateway to Cát Tiên National Park.", "The capital of Bình Phước province, known for its rubber and cashew plantations.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Die Hauptstadt der Provinz Bình Phước, bekannt für ihre Kautschuk- und Cashew-Plantagen.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Capitala provinciei Bình Phước, cunoscută pentru plantațiile sale de cauciuc și caju.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["The capital of Bình Phước province, known for its rubber and cashew plantations.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -897,9 +897,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["A Cao Đài vallás világszintű központja", "A monumentális Szent Szék (Tòa Thánh) épülete", "A Núi Bà Đen hegy népszerű túracélpont és spirituális hely", "Közeli kapcsolat Kambodzsával (Mộc Bài határátkelő)", "Mezőgazdasági központ, különösen a cukornád és manióka termesztésében", "Élénk vallási és kulturális turizmus"],
-      de: ["Hauptsitz der Cao-Đài-Religion.", "Der Schwarze-Jungfrau-Berg (Núi Bà Đen) ist in der Nähe.", "Wichtig für die Landwirtschaft.", "Das Zentrum der Cao-Đài-Religion, Heimat des farbenfrohen und kunstvollen Cao-Đài-Heiligen Stuhls.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Sediul central al religiei Cao Đài.", "Muntele Fecioarei Negre (Núi Bà Đen) este în apropiere.", "Important pentru agricultură.", "Centrul religiei Cao Đài, unde se află Sfântul Scaun Cao Đài, colorat și ornamental.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Headquarters of the Cao Đài religion.", "Black Virgin Mountain (Núi Bà Đen) is nearby.", "Important for agriculture.", "The center of the Cao Đài religion, home to the colorful and ornate Cao Đài Holy See.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Das Zentrum der Cao-Đài-Religion, Heimat des farbenfrohen und kunstvollen Cao-Đài-Heiligen Stuhls.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Centrul religiei Cao Đài, unde se află Sfântul Scaun Cao Đài, colorat și ornamental.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["The center of the Cao Đài religion, home to the colorful and ornate Cao Đài Holy See.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -933,9 +933,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["A cementgyártás meghatározó központja", "Történelmi jelentőségű védelmi vonal a feudalizmus idején", "Fontos kapu Ninh Bình tartomány felé délről", "Erősödő logisztikai szerepkör az észak-déli útvonalon", "Fejlődő városi infrastruktúra a tartományban", "Jelentős szerepet játszott az ország történeti védelmi rendszereiben"],
-      de: ["Wichtiges Zentrum der Zementproduktion.", "Historische Tam-Điệp-Verteidigungslinie.", "Tor zur Provinz Ninh Bình von Süden.", "Eine Stadt in der Provinz Ninh Bình, die für ihre Zementindustrie und ihre strategische Lage zwischen Nord- und Zentralvietnam bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Centru important de producție a cimentului.", "Linia istorică de apărare Tam Điệp.", "Poarta de acces către provincia Ninh Bình dinspre sud.", "Un oraș în provincia Ninh Bình, cunoscut pentru industria sa de ciment și locația sa strategică între nordul și centrul Vietnamului.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Major center of cement production.", "Historic Tam Điệp defensive line.", "Gateway to Ninh Bình province from the south.", "A city in Ninh Bình province, known for its cement industry and its strategic location between North and Central Vietnam.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Eine Stadt in der Provinz Ninh Bình, die für ihre Zementindustrie und ihre strategische Lage zwischen Nord- und Zentralvietnam bekannt ist.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Un oraș în provincia Ninh Bình, cunoscut pentru industria sa de ciment și locația sa strategică între nordul și centrul Vietnamului.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["A city in Ninh Bình province, known for its cement industry and its strategic location between North and Central Vietnam.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -969,9 +969,9 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Vietnám egyik leghegyvidékibb tartománya", "Több mint 20 különböző etnikai csoport él itt", "Lélegzetelállító hegyi panorámák és hágók", "Közigazgatási és oktatási központ a régióban", "A természetközeli életforma és turizmus fellegvára", "Alacsony népsűrűségű, tiszta természeti környezet"],
-      de: ["Heimat von über 20 ethnischen Gruppen.", "Atemberaubende Berglandschaften.", "Niedrige Bevölkerungsdichte.", "Die Hauptstadt der gleichnamigen Provinz in einer der abgelegensten und gebirgigsten Regionen Vietnams.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Acasă pentru peste 20 de grupuri etnice.", "Peisaje montane uimitoare.", "Densitate scăzută a populației.", "Capitala provinciei omonime într-una dintre cele mai îndepărtate și muntoase regiuni ale Vietnamului.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Home to over 20 ethnic groups.", "Stunning mountain scenery.", "Low population density.", "The capital of the province of the same name in one of Vietnam's most remote and mountainous regions.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      de: ["Die Hauptstadt der gleichnamigen Provinz in einer der abgelegensten und gebirgigsten Regionen Vietnams.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Capitala provinciei omonime într-una dintre cele mai îndepărtate și muntoase regiuni ale Vietnamului.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["The capital of the province of the same name in one of Vietnam's most remote and mountainous regions.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   },
   {
@@ -1004,10 +1004,10 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       en: "An Khê is a remarkable feature of the geography and culture of Vietnam. A town in Gia Lai province in the Central Highlands, historically known for the An Khê Pass. Strategic pass during wars. Developing from a rural to urban town. Important transport artery. This city is among the characteristic settlements of Vietnam, stretching from the Mekong Delta to the Red River region. Like many notable places in Vietnam, it combines regional character with the legacy of a millennia-old civilization and the French colonial era. Thus, this place contributes to the diverse profile of Vietnam — from the Mekong Delta and Ha Long Bay to the terraced rice fields."
     },
     factsAdvanced: {
-      hu: ["Stratégiai fontosságú átjáró a történelem során", "Vidéki városból városiasodó település", "Fontos közlekedési ütőér a felföldön", "A mezőgazdasági termékek kereskedelmi központja", "A történelem során több katonai konfliktus helyszíne", "A Gia Lai tartományi kereskedelmi hálózat része"],
-      de: ["Strategischer Pass während der Kriege.", "Entwickelt sich von einer ländlichen zu einer städtischen Stadt.", "Wichtige Verkehrsader.", "Eine Stadt in der Provinz Gia Lai im zentralen Hochland, historisch bekannt für den An-Khê-Pass.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
-      ro: ["Pas strategic în timpul războaielor.", "Se dezvoltă dintr-un oraș rural într-unul urban.", "Arteră de transport importantă.", "Un oraș în provincia Gia Lai din Zonele Muntoase Centrale, cunoscut istoric pentru Pasul An Khê.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
-      en: ["Strategic pass during wars.", "Developing from a rural to urban town.", "Important transport artery.", "A town in Gia Lai province in the Central Highlands, historically known for the An Khê Pass.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
+      hu: ["Stratégiai fontosságú átjáró a történelem során", "Fontos közlekedési ütőér a felföldön", "A mezőgazdasági termékek kereskedelmi központja", "A történelem során több katonai konfliktus helyszíne", "A Gia Lai tartományi kereskedelmi hálózat része"],
+      de: ["Eine Stadt in der Provinz Gia Lai im zentralen Hochland, historisch bekannt für den An-Khê-Pass.", "Liegt im Gebiet der Sozialistischen Republik Vietnam.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung."],
+      ro: ["Un oraș în provincia Gia Lai din Zonele Muntoase Centrale, cunoscut istoric pentru Pasul An Khê.", "Se află pe teritoriul Republicii Socialiste Vietnam.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală."],
+      en: ["A town in Gia Lai province in the Central Highlands, historically known for the An Khê Pass.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance."]
     }
   }
 ];

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "camara-laye-house-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Haus von Camara Laye in Kouroussa ist eine literarische Pilgerstätte von Weltrang und das emotionale Herzstück der guineischen Identität. Hier verbrachte der weltberühmte Schriftsteller Camara Laye seine Kindheit, die er in seinem Meisterwerk 'L'Enfant noir' (Der schwarze Junge) unsterblich machte. Das einfache Gehöft mit seinen traditionellen Rundhütten und der Schmiede seines Vaters ist der Schauplatz einer Erzählung, die Millionen von Menschen weltweit die afrikanische Kultur und Spiritualität nähergebracht hat. Geografisch liegt das Anwesen in der Savannenregion von Oberguinea, unweit des Niger-Flusses. Historisch gesehen repräsentiert das Haus die Zeit des Übergangs zwischen der vorkolonialen Mandinka-Gesellschaft und der modernen Ära. Es bewahrt die Atmosphäre einer Epoche, in der Handwerkskunst und Familienehre die sozialen Grundpfeiler bildeten. Für Besucher ist das Haus ein Ort der Reflexion über die Macht der Worte und die Bewahrung kultureller Wurzeln. Trotz seiner Bescheidenheit strahlt das Haus eine enorme kulturelle Kraft aus, da es als Geburtsort einer der wichtigsten Stimmen der frankophonen afrikanischen Literatur gilt. Die Restaurierung und Pflege des Hauses unterstreichen seine Bedeutung als nationales Kulturerbe, das die Brücke zwischen der Vergangenheit und der modernen guineischen Literatur schlägt.",
+        "hu": "Camara Laye szülőháza Kouroussa városában nem csupán egy épület, hanem a guineai és az egész afrikai irodalom egyik legfontosabb zarándokhelye. Itt töltötte gyermekkorát a világhírű író, Camara Laye, aki 'Fekete gyermek' (L'Enfant noir) című önéletrajzi regényében tette halhatatlanná ezt a helyszínt. Az egyszerű családi udvar, apja kovácsműhelyével és a hagyományos kerek házakkal, a helyszíne annak a történetnek, amely világszerte megismertette az olvasókkal a mandinka kultúra mélységét, spirituális rituáléit és a családi kötelékek erejét. Földrajzilag a ház Felső-Guinea szavannás vidékén, a Niger-folyó közelében található. Történelmi szempontból a ház a 20. század eleji Guinea mindennapjait idézi, bemutatva a gyarmati kor előtti hagyományok és a modern oktatás közötti feszültséget. Az épületegyüttes mára nemzeti emlékhellyé vált, amely emlékeztet a guineai nép kulturális büszkeségére és az írott szó erejére. A látogatók számára a ház és a kert a nyugalom szigete, ahol megelevenednek a regény lapjai, a kovácsmesterség misztikuma és az afrikai gyermekkor ártatlansága. Camara Laye öröksége révén ez a ház Guinea egyik legfontosabb kulturális exportcikke a világirodalmi térképen.",
+        "ro": "Casa lui Camara Laye din Kouroussa este un loc de pelerinaj literar de talie mondială și inima emoțională a identității guineene. Aici și-a petrecut copilăria celebrul scriitor Camara Laye, pe care a imortalizat-o în capodopera sa 'L'Enfant noir' (Copilul negru). Locuința simplă, cu colibele sale tradiționale rotunde și atelierul de fierărie al tatălui său, reprezintă cadrul unei povești care a apropiat milioane de oameni din întreaga lume de cultura și spiritualitatea africană. Din punct de vedere geografic, proprietatea este situată în regiunea de savană a Guineei Superioare, nu departe de fluviul Niger. Istoric vorbind, casa reprezintă perioada de tranziție între societatea tradițională Mandinka și era modernă. Ea păstrează atmosfera unei epoci în care măiestria meșteșugărească și onoarea familiei formau pilonii sociali fundamentali. Pentru vizitatori, casa este un loc de reflecție asupra puterii cuvintelor și a conservării rădăcinilor culturale. În ciuda modestiei sale, locuința emană o forță culturală enormă, fiind considerată locul de naștere al uneia dintre cele mai importante voci ale literaturii africane francofone. Restaurarea și întreținerea casei subliniază importanța sa ca patrimoniu cultural național, făcând puntea între trecut și literatura guineeană modernă.",
+        "en": "The house of Camara Laye in Kouroussa is a world-class literary landmark and the emotional heart of Guinean identity. It is here that the globally renowned writer Camara Laye spent his childhood, which he immortalized in his masterpiece 'L'Enfant noir' (The Dark Child). The modest homestead, featuring traditional round huts and his father’s blacksmith forge, is the setting of a narrative that brought African culture and spirituality to millions of readers worldwide. Geographically, the property is located in the savanna region of Upper Guinea, near the Niger River. Historically, the house represents the transition between pre-colonial Mandinka society and the modern era. It preserves the atmosphere of a time when craftsmanship and family honor were the cornerstones of social life. For visitors, the house is a place of reflection on the power of literature and the preservation of cultural roots. Despite its simplicity, the house radiates immense cultural significance as the birthplace of one of the most important voices in Francophone African literature. The preservation of the site highlights its role as a national cultural treasure that bridges the gap between Guinea's rich past and its contemporary literary voice."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Haus ist der reale Schauplatz des weltberühmten Romans 'L'Enfant noir'.",
+          "Es befindet sich in Kouroussa, der historischen Stadt der Mandinka-Goldschmiede.",
+          "Die Schmiede von Camara Layes Vater war berühmt für ihre rituellen Arbeiten.",
+          "Camara Laye verließ dieses Haus, um in Conakry und später in Frankreich zu studieren.",
+          "Die Stätte wird oft von Schülern und Literaturstudenten aus ganz Westafrika besucht.",
+          "Das Haus wurde als Symbol des guineischen Kulturerbes unter Denkmalschutz gestellt."
+        ],
+        "hu": [
+          "A ház a világirodalmi jelentőségű 'Fekete gyermek' című regény valós helyszíne.",
+          "A település, Kouroussa, évszázadok óta a mandinka ötvösművészet központja.",
+          "Camara Laye apjának műhelye a könyvben spirituális jelentőséggel bír.",
+          "Az író ebben a házban tanult meg olvasni, mielőtt továbbtanult volna Conakryban.",
+          "A helyszín Guinea egyik leglátogatottabb kulturális emlékhelye a belföldi turizmusban.",
+          "Az épületegyüttes hűen őrzi a 20. század eleji népi építészet elemeit."
+        ],
+        "ro": [
+          "Casa este decorul real al romanului 'L'Enfant noir', tradus în zeci de limbi.",
+          "Se află în Kouroussa, oraș situat pe cursul superior al Nigerului.",
+          "Atelierul tatălui scriitorului este descris ca un loc mistic în literatura africană.",
+          "Camara Laye a plecat din această casă pentru a studia la Conakry și apoi la Paris.",
+          "Situl este un simbol al mândriei culturale a poporului Mandinka.",
+          "Guvernul guineean a declarat casa monument de interes istoric și literar."
+        ],
+        "en": [
+          "The house is the actual setting for the world-famous novel 'The Dark Child'.",
+          "It is located in Kouroussa, a historic town of Mandinka goldsmiths.",
+          "His father’s forge, depicted in the book, was a center of spiritual craftsmanship.",
+          "Laye left this home to pursue studies in Conakry and later in France.",
+          "The site is a major destination for students of literature across West Africa.",
+          "It has been officially designated as a national heritage site by the government."
+        ]
+      }
+    },
+    {
+      "id": "sekou-toure-palace-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Sékou-Touré-Palast, auch bekannt als Palais Sékoutoureya in Conakry, ist das Epizentrum der modernen politischen Geschichte Guineas. Als Amtssitz und Residenz des ersten Präsidenten Ahmed Sékou Touré symbolisiert das Gebäude die Ära der Unabhängigkeit und den Aufbau des souveränen Staates ab 1958. Geografisch liegt der Palast auf der Halbinsel Kaloum, im Herzen des Verwaltungszentrums von Conakry, mit Blick auf den Atlantik. Die Architektur verbindet monumentale Modernität mit Elementen, die die Macht des jungen Staates unterstreichen sollten. Historisch gesehen war der Palast Schauplatz wegweisender Entscheidungen der Panafrikanischen Bewegung und Treffpunkt für revolutionäre Führer aus ganz Afrika und der Welt. Während der Regierungszeit Sékou Tourés war der Palast nicht nur ein Regierungsgebäude, sondern auch ein Symbol für den Widerstand gegen den Neokolonialismus. Nach den politischen Umbrüchen der späten 1980er Jahre und dem Putsch von 1984 erlebte das Gebäude Zerstörung und Wiederaufbau. Heute dient es als modernisierter Präsidentenpalast, doch sein Name bleibt untrennbar mit dem Erbe des Mannes verbunden, der Guinea zum 'Nein' gegen das französische Referendum führte. Es ist ein Ort von enormer symbolischer Schwere, der die Ambitionen, Erfolge und die Komplexität der ersten Jahrzehnte der guineischen Unabhängigkeit widerspiegelt.",
+        "hu": "A Sékou Touré-palota, más néven Sékoutoureya-palota Conakryban, Guinea modern politikai történelmének epicentruma. Az ország első elnöke, Ahmed Sékou Touré hivatali székhelyeként és rezidenciájaként az épület az 1958-ban kivívott függetlenség és a szuverén államépítés korszakának legfőbb szimbóluma. Földrajzilag a palota a Kaloum-félszigeten, Conakry közigazgatási központjának szívében található, kilátással az Atlanti-óceánra. Az építészet a monumentális modernitást ötvözi olyan elemekkel, amelyek az új állam hatalmát hivatottak hangsúlyozni. Történelmileg a palota a pánafrikanista mozgalom sorsfordító döntéseinek és Afrika, valamint a világ forradalmi vezetőinek találkozóhelye volt. Sékou Touré uralkodása alatt az épület nem csupán kormányzati központ volt, hanem a neokolonializmussal szembeni ellenállás jelképe is. Az 1980-as évek végének politikai változásai és az 1984-es államcsíny során az épület súlyos károkat szenvedett, majd később újjáépítették. Ma modernizált elnöki palotaként szolgál, de neve elválaszthatatlanul összefonódott annak az embernek az örökségével, aki Guinea 'nem' szavazatát vezette a francia népszavazáson. A palota hatalmas szimbolikus súlyt hordoz, tükrözve a guineai függetlenség első évtizedeinek ambícióit, sikereit és ellentmondásait.",
+        "ro": "Palatul Sékou Touré, cunoscut și sub numele de Palais Sékoutoureya din Conakry, este epicentrul istoriei politice moderne a Guineei. În calitate de sediu oficial și reședință a primului președinte, Ahmed Sékou Touré, clădirea simbolizează era independenței și construcția statului suveran începând cu anul 1958. Geografic, palatul este situat pe peninsula Kaloum, în inima centrului administrativ din Conakry, cu vedere spre Oceanul Atlantic. Arhitectura sa îmbină modernitatea monumentală cu elemente menite să sublinieze puterea tinerei națiuni. Din punct de vedere istoric, palatul a fost scena unor decizii fundamentale ale mișcării panafricaniste și loc de întâlnire pentru lideri revoluționari din întreaga Africă și din lume. În timpul regimului Sékou Touré, palatul nu a fost doar o clădire guvernamentală, ci și un simbol al rezistenței împotriva neocolonialismului. După transformările politice de la sfârșitul anilor 1980 și lovitura de stat din 1984, clădirea a suferit distrugeri, fiind ulterior reconstruită. Astăzi, servește drept palat prezidențial modernizat, însă numele său rămâne inseparabil legat de moștenirea omului care a condus Guineea spre celebrul „Nu” împotriva referendumului francez. Este un loc de o greutate simbolică enormă, reflectând ambițiile, succesele și complexitatea primelor decenii de independență guineeană.",
+        "en": "The Sékou Touré Palace, also known as Palais Sékoutoureya in Conakry, is the epicenter of Guinea's modern political history. As the official office and residence of the first president, Ahmed Sékou Touré, the building symbolizes the era of independence and the formation of the sovereign state beginning in 1958. Geographically, the palace is located on the Kaloum Peninsula, in the heart of Conakry's administrative district, overlooking the Atlantic Ocean. Its architecture combines monumental modernism with elements designed to emphasize the authority of the young nation. Historically, the palace was the venue for landmark decisions of the Pan-African movement and a meeting point for revolutionary leaders from across Africa and the world. During Sékou Touré's presidency, the palace was more than just a government building; it was a symbol of resistance against neo-colonialism. Following the political shifts of the late 1980s and the 1984 coup, the building underwent destruction and subsequent reconstruction. Today, it serves as a modernized presidential palace, yet its name remains inextricably linked to the legacy of the man who led Guinea to its historic 'No' in the French referendum. It is a place of immense symbolic weight, reflecting the ambitions, triumphs, and complexities of Guinea's early decades of independence."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sékoutoureya ist der offizielle Name des Präsidentenpalastes in Conakry.",
+          "Der Name ehrt Ahmed Sékou Touré, den Vater der guineischen Unabhängigkeit.",
+          "Der Palast wurde 1996 während einer militärischen Meuterei fast zerstört.",
+          "Er beherbergte Staatsgäste wie Kwame Nkrumah und Fidel Castro.",
+          "Das Gebäude liegt an der Südspitze der Kaloum-Halbinsel.",
+          "Heute ist es ein hochgesicherter Bereich und Sitz der aktuellen Regierung."
+        ],
+        "hu": [
+          "A Sékoutoureya palota Conakry legfontosabb kormányzati épülete.",
+          "A palota neve Ahmed Sékou Touré elnök előtt tiszteleg.",
+          "Az épületet 1996-ban bombatalálat érte egy katonai lázadás során.",
+          "Itt élt száműzetésben Kwame Nkrumah, Ghána első elnöke is.",
+          "A palota stratégiai helyen, közvetlenül az óceánparton fekszik.",
+          "A terület Guinea legszigorúbban őrzött biztonsági zónája."
+        ],
+        "ro": [
+          "Palatul Sékoutoureya este sediul puterii executive a Republicii Guineea.",
+          "Edificiul original a fost martorul proclamării independenței în 1958.",
+          "A fost reconstruit cu sprijin internațional după distrugerile din 1996.",
+          "Grădinile palatului găzduiesc ceremonii diplomatice de rang înalt.",
+          "Sékou Touré a guvernat din acest loc timp de peste 25 de ani.",
+          "Accesul în zonă este restricționat, fiind inima administrativă a țării."
+        ],
+        "en": [
+          "Sékoutoureya is the official name of the presidential palace in Conakry.",
+          "The palace is named after Ahmed Sékou Touré, Guinea's first president.",
+          "The building was heavily damaged during a military mutiny in 1996.",
+          "It hosted numerous famous international leaders during the Cold War era.",
+          "The palace is situated at the southern tip of the Kaloum Peninsula.",
+          "Today, it serves as the modernized workplace of the Guinean head of state."
+        ]
+      }
+    },
+    {
+      "id": "boffa-mission-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Missionsstation von Boffa ist eine historische Stätte von herausragender Bedeutung für die religiöse Geschichte Westafrikas. Sie wurde im Jahr 1877 von französischen Missionaren der Väter vom Heiligen Geist gegründet und markiert den Beginn der dauerhaften Präsenz der katholischen Kirche in Guinea. Geografisch liegt die Mission malerisch am Ufer des Rio Pongo, in einer Region, die historisch durch den Kontakt zwischen afrikanischen Völkern und europäischen Händlern geprägt war. Die Architektur der Station, insbesondere die markante Kirche, zeigt den kolonialen Baustil des späten 19. Jahrhunderts und zeugt von den Bemühungen, den christlichen Glauben in einem überwiegend animistischen und muslimischen Umfeld zu etablieren. Historisch gesehen war Boffa nicht nur ein religiöses Zentrum, sondern auch ein Ort der Bildung und medizinischen Versorgung, was den Einfluss der Mission auf die lokale Gesellschaft nachhaltig prägte. Heute ist die Missionsstation ein bedeutender Wallfahrtsort für guineische Katholiken, die jedes Jahr im Mai zu Tausenden hierherkommen, um die Gründung ihrer Kirche zu feiern. Die Stätte symbolisiert die religiöse Vielfalt des Landes und den Dialog zwischen den Kulturen. Die restaurierten Gebäude und der angrenzende Friedhof erzählen die bewegte Geschichte der frühen Missionare und ihrer ersten guineischen Konvertiten.",
+        "hu": "A boffai missziós állomás Nyugat-Afrika vallástörténetének egyik kiemelkedő helyszíne. A Szentlélek-atyák francia misszionáriusai alapították 1877-ben, és ez jelzi a katolikus egyház tartós jelenlétének kezdetét Guineában. Földrajzilag a misszió festői környezetben, a Rio Pongo folyó partján fekszik, egy olyan régióban, amely történelmileg az afrikai népek és az európai kereskedők közötti érintkezési pont volt. Az állomás építészete, különösen a jellegzetes templom, a 19. század végi gyarmati stílust tükrözi, és tanúskodik azokról az erőfeszítésekről, amelyekkel a keresztény hitet próbálták elterjeszteni a túlnyomórészt animista és muszlim környezetben. Történelmi szempontból Boffa nem csupán vallási központ volt, hanem az oktatás és az orvosi ellátás fontos helyszíne is, ami maradandó hatást gyakorolt a helyi társadalomra. Ma a missziós állomás a guineai katolikusok jelentős zarándokhelye, akik minden év májusában ezrével érkeznek ide, hogy megünnepeljék egyházuk alapítását. A helyszín az ország vallási sokszínűségét és a kultúrák közötti párbeszédet jelképezi. A restaurált épületek és a szomszédos temető a korai misszionáriusok és az első guineai hívők mozgalmas történetét mesélik el.",
+        "ro": "Misiunea catolică din Boffa este un sit istoric de o importanță excepțională pentru istoria religioasă a Africii de Vest. Fondată în anul 1877 de misionarii francezi din Congregația Spiritanilor, aceasta marchează începutul prezenței durabile a Bisericii Catolice în Guineea. Geografic, misiunea este situată pitoresc pe malul râului Rio Pongo, într-o regiune marcată istoric de contactul dintre popoarele africane și comercianții europeni. Arhitectura stațiunii, în special biserica sa distinctivă, reflectă stilul colonial de la sfârșitul secolului al XIX-lea și stă mărturie eforturilor de a stabili credința creștină într-un mediu predominant animist și musulman. Din punct de vedere istoric, Boffa nu a fost doar un centru religios, ci și un loc pentru educație și asistență medicală, modelând durabil societatea locală. Astăzi, misiunea este un loc de pelerinaj major pentru catolicii guineeni, care vin aici cu miile în fiecare lună mai pentru a celebra întemeierea bisericii lor. Situl simbolizează diversitatea religioasă a țării și dialogul intercultural. Clădirile restaurate și cimitirul adiacent spun povestea tulburătoare a primilor misionari și a primilor convertiți guineeni.",
+        "en": "The Boffa Mission Station is a historic site of outstanding significance for the religious history of West Africa. Founded in 1877 by French missionaries of the Holy Spirit Fathers, it marks the beginning of the permanent presence of the Catholic Church in Guinea. Geographically, the mission is picturesquely situated on the banks of the Rio Pongo, in a region historically shaped by interactions between African peoples and European traders. The station's architecture, especially its prominent church, showcases late 19th-century colonial style and testifies to the efforts to establish Christianity within a predominantly animist and Muslim environment. Historically, Boffa served not only as a religious center but also as a hub for education and healthcare, which had a lasting impact on local society. Today, the mission station is a major pilgrimage site for Guinean Catholics, who gather here by the thousands every May to celebrate the founding of their church. The site symbolizes the country's religious diversity and intercultural dialogue. The restored buildings and the adjacent cemetery tell the compelling story of the early missionaries and the first Guinean converts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Mission wurde 1877 von Pater Blanchet gegründet.",
+          "Boffa gilt als die 'Wiege der katholischen Kirche' in Guinea.",
+          "Jährlich findet im Mai eine nationale Wallfahrt zur Mission statt.",
+          "Die Kirche von Boffa ist eines der ältesten erhaltenen Steingebäude der Region.",
+          "Die Station liegt direkt am historischen Rio Pongo, einem alten Handelsfluss.",
+          "In der Mission wurde die erste moderne Schule der Region eröffnet."
+        ],
+        "hu": [
+          "A missziót 1877-ben alapította Blanchet atya.",
+          "Boffát a guineai katolikus egyház bölcsőjeként tisztelik.",
+          "Minden év májusában ezrek zarándokolnak el a településre.",
+          "A templom az egyik legrégebbi épített kőépület a környéken.",
+          "A misszió fontos szerepet játszott a helyi törzsek közötti békítésben.",
+          "A helyszínen ma is működik egy történelmi jelentőségű iskola."
+        ],
+        "ro": [
+          "Misiunea a fost înființată pe data de 24 ianuarie 1877.",
+          "Boffa este sediul celui mai vechi pelerinaj creștin din țară.",
+          "Cimitirul misionarilor conține morminte ale pionierilor europeni.",
+          "Biserica Sfântul Iosif este punctul central al complexului istoric.",
+          "Aici s-au pus bazele scrierii alfabetice pentru limbile locale din regiune.",
+          "Situl este protejat ca monument de patrimoniu istoric național."
+        ],
+        "en": [
+          "The mission was founded in 1877 by Father Blanchet.",
+          "Boffa is revered as the 'Cradle of the Catholic Church' in Guinea.",
+          "A major national pilgrimage takes place at the mission every May.",
+          "The church is one of the oldest surviving stone buildings in the area.",
+          "The station is located on the Rio Pongo, a historically vital trade route.",
+          "The mission opened the very first modern school in the coastal region."
+        ]
+      }
+    },
+    {
+      "id": "colombiere-cave-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Colombière-Höhle (Grotte de la Colombière) bei Kindia ist eine der bedeutendsten prähistorischen Stätten Guineas und ein Fenster in die ferne Vergangenheit Westafrikas. Geografisch liegt sie in den Kalksteinformationen der Region Maritime Guinea, eingebettet in die üppige Vegetation am Fuße des Fouta-Djallon-Massivs. Die Höhle erlangte internationale Bekanntheit durch archäologische Ausgrabungen in der Mitte des 20. Jahrhunderts, bei denen bedeutende Artefakte aus der Jungsteinzeit (Neolithikum) entdeckt wurden. Historisch gesehen belegt die Höhle die kontinuierliche Besiedlung der Region über Jahrtausende hinweg. Zu den Funden gehören Steinwerkzeuge, Keramikscherben und Reste von Feuerstellen, die Einblicke in die Lebensweise der frühen Jäger und Sammler sowie der ersten sesshaften Gemeinschaften geben. Die Höhle diente vermutlich nicht nur als Wohnstätte, sondern auch als ritueller Ort. Für Forscher ist die Colombière-Höhle ein Schlüsselort zum Verständnis der Migrationsbewegungen und der technologischen Entwicklung in der Region Basse-Guinée. Heute ist die Stätte ein wichtiges Ziel für archäologisch interessierte Besucher und ein geschütztes Denkmal, das die Tiefe der guineischen Geschichte jenseits der schriftlichen Überlieferung verdeutlicht.",
+        "hu": "A Kindia közelében található Colombière-barlang (Grotte de la Colombière) Guinea egyik legjelentősebb őskori lelőhelye, amely betekintést nyújt Nyugat-Afrika távoli múltjába. Földrajzilag Alsó-Guinea mészkőformációiban, a Fouta Djallon-hegység lábánál, buja növényzet között található. A barlang a 20. század közepén végzett régészeti feltárások révén vált nemzetközileg ismertté, amikor jelentős újkőkorszaki (neolitikus) leleteket fedeztek fel benne. Történelmi szempontból a barlang bizonyítja a régió több évezredes folyamatos lakottságát. A leletek között kőeszközök, kerámiatöredékek és tűzrakóhelyek maradványai szerepelnek, amelyek értékes információkkal szolgálnak a korai vadászó-gyűjtögető közösségek és az első letelepedett csoportok életmódjáról. A barlang feltehetően nemcsak lakóhelyként, hanem rituális helyszínként is szolgált. A kutatók számára a Colombière-barlang kulcsfontosságú helyszín Alsó-Guinea technológiai fejlődésének és a népvándorlási útvonalaknak a megértéséhez. Ma a helyszín fontos célpont a régészet iránt érdeklődők számára, és védett műemlék, amely rávilágít a guineai történelem mélységeire az írott forrásokon túl is.",
+        "ro": "Peștera Colombière (Grotte de la Colombière), situată lângă Kindia, este unul dintre cele mai importante situri preistorice din Guineea și o fereastră spre trecutul îndepărtat al Africii de Vest. Geografic, aceasta se află în formațiunile de calcar din regiunea Guineea Maritimă, fiind înconjurată de vegetația luxuriantă de la poalele masivului Fouta Djallon. Peștera a câștigat recunoaștere internațională în urma săpăturilor arheologice de la mijlocul secolului XX, care au scos la iveală artefacte semnificative din epoca neolitică. Din punct de vedere istoric, peștera atestă locuirea continuă a regiunii timp de milenii. Descoperirile includ unelte din piatră, fragmente de ceramică și resturi de vetre de foc, oferind detalii prețioase despre modul de viață al primilor vânători-culegători și al primelor comunități sedentare. Se presupune că peștera a servit nu doar ca locuință, ci și ca spațiu ritualic. Pentru cercetători, Peștera Colombière este un loc cheie pentru înțelegerea mișcărilor migratorii și a dezvoltării tehnologice în regiunea Basse-Guinée. Astăzi, situl este o destinație importantă pentru vizitatorii interesați de arheologie și un monument protejat care subliniază profunzimea istoriei guineene.",
+        "en": "The Colombière Cave (Grotte de la Colombière) near Kindia is one of Guinea's most significant prehistoric sites, offering a glimpse into the distant past of West Africa. Geographically, it is located within the limestone formations of Maritime Guinea, nestled in the lush vegetation at the base of the Fouta Djallon massif. The cave gained international recognition through archaeological excavations in the mid-20th century, which uncovered substantial artifacts from the Neolithic period. Historically, the cave provides evidence of continuous human habitation in the region for millennia. Finds include stone tools, pottery shards, and remnants of hearths, providing insights into the daily lives of early hunter-gatherers and the first settled communities. The cave likely served not only as a shelter but also as a ritual site. For researchers, Colombière Cave is a key location for understanding migration patterns and technological development in the Lower Guinea region. Today, the site is an important destination for visitors interested in archaeology and stands as a protected monument showcasing the depth of Guinean history beyond written records."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Höhle enthält Artefakte aus dem Neolithikum Westafrikas.",
+          "Sie liegt in der Nähe der Stadt Kindia in den Kalksteinfelsen.",
+          "Archäologische Funde belegen die Nutzung von Steinwerkzeugen vor über 5.000 Jahren.",
+          "Die Grotte wurde von französischen Archäologen erstmals systematisch untersucht.",
+          "Es wurden Reste von Wandmalereien oder Gravuren vermutet, aber nicht vollständig bestätigt.",
+          "Die Höhle ist Teil eines größeren Höhlensystems in der Region Kindia."
+        ],
+        "hu": [
+          "A barlang újkőkorszaki leletei világszerte ismertek a régészek körében.",
+          "Kindia városa közelében, látványos sziklafalak között található.",
+          "A feltárt kőeszközök több mint 5000 éves használatról tanúskodnak.",
+          "A barlang fontos állomása volt a korai népvándorlási útvonalaknak.",
+          "Régészeti értéke mellett geológiai szempontból is jelentős képződmény.",
+          "A barlangot a helyi lakosság évszázadokon át szakrális helyként tisztelte."
+        ],
+        "ro": [
+          "Săpăturile au scos la iveală microliți (unelte mici de piatră) de precizie.",
+          "Peștera este situată într-o zonă montană cu climat umed și răcoros.",
+          "Artefactele găsite sunt expuse parțial la Muzeul Național din Conakry.",
+          "Erosiunea naturală a creat galerii impresionante în interiorul peșterii.",
+          "A fost una dintre primele peșteri studiate științific în Africa de Vest.",
+          "Situl oferă dovezi despre dieta și practicile de vânătoare ale strămoșilor."
+        ],
+        "en": [
+          "The cave contains significant artifacts from the West African Neolithic era.",
+          "It is located near the city of Kindia within dramatic limestone cliffs.",
+          "Archaeological finds confirm the use of stone tools over 5,000 years ago.",
+          "The cave was first systematically studied by French archaeologists.",
+          "It likely served as both a prehistoric dwelling and a site for rituals.",
+          "Colombière is part of a series of important prehistoric sites in Lower Guinea."
+        ]
+      }
+    },
+    {
+      "id": "koumi-sacred-site-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die heilige Stätte von Koumi ist ein mystischer Ort von tiefer spiritueller und historischer Bedeutung in der Region Boké im Westen Guineas. Geografisch liegt Koumi in einer hügeligen Landschaft, die durch dichte Galeriewälder und kleine Flüsse geprägt ist. Dieser Ort gilt seit Jahrhunderten als ein Zentrum der traditionellen afrikanischen Religionen und als Rückzugsort für spirituelle Praktiken der Baga- und Landuma-Völker. Historisch gesehen war Koumi ein Ort, an dem wichtige Entscheidungen der Gemeinschaft getroffen wurden und an dem rituelle Zeremonien zur Ehrung der Ahnen und Naturgeister stattfanden. Die Stätte ist berühmt für ihre 'heiligen Haine', in denen die dichte Vegetation als Schutzraum für heilige Objekte und Symbole dient. Während der Kolonialzeit und auch in der Ära der Islamisierung blieb Koumi ein Symbol für die Beständigkeit indigener Glaubenssysteme und den kulturellen Widerstand. Heute ist Koumi nicht nur ein spirituelles Zentrum, sondern auch ein Ort der kulturellen Identität, der an die Vielfalt der guineischen Traditionen erinnert. Für Besucher bietet Koumi einen faszinierenden Einblick in die lebendige Geschichte der Küstenvölker und ihre tiefe Verbindung zur natürlichen Umwelt, die hier als göttlich angesehen wird.",
+        "hu": "A koumi szent hely Guinea nyugati részén, a Boké régióban található titokzatos helyszín, amely mély spirituális és történelmi jelentőséggel bír. Földrajzilag Koumi dombos vidéken fekszik, amelyet sűrű galériaerdők és apró folyók szabdalnak. Ez a hely évszázadok óta a hagyományos afrikai vallások központja, a baga és landuma népcsoportok rituális szertartásainak színhelye. Történelmi szempontból Koumi olyan helyszín volt, ahol a közösség sorsát meghatározó döntéseket hoztak, és ahol az ősök, valamint a természet szellemeinek tiszteletére rendeztek ünnepségeket. A helyszín híres „szent erdeiről”, ahol a sűrű növényzet védelmet nyújt a szakrális tárgyaknak és szimbólumoknak. A gyarmati időkben és az iszlamizáció korszakaiban Koumi az őshonos hitrendszerek fennmaradásának és a kulturális ellenállásnak a jelképévé vált. Ma Koumi nemcsak spirituális központ, hanem a kulturális önazonosság őrzője is, amely Guinea gazdag hagyományaira emlékeztet. A látogatók számára Koumi lenyűgöző betekintést nyújt a tengerparti népek élő történelmébe és a természettel való mély, vallásos kapcsolatukba, amely a mai napig meghatározza a környék atmoszféráját.",
+        "ro": "Situl sacru din Koumi este un loc mistic cu o semnificație spirituală și istorică profundă în regiunea Boké din vestul Guineei. Geografic, Koumi este situat într-un peisaj colinar, marcat de păduri de galerie dense și râuri mici. Acest loc a fost considerat timp de secole un centru al religiilor tradiționale africane și un refugiu pentru practicile spirituale ale popoarelor Baga și Landuma. Din punct de vedere istoric, Koumi a fost locul unde se luau decizii comunitare importante și unde aveau loc ceremonii ritualice pentru onorarea strămoșilor și a spiritelor naturii. Situl este celebru pentru „pădurile sale sacre”, unde vegetația densă servește drept spațiu de protecție pentru obiecte și simboluri sfinte. În timpul perioadei coloniale și al erei de islamizare, Koumi a rămas un simbol al persistenței sistemelor de credință indigene și al rezistenței culturale. Astăzi, Koumi nu este doar un centru spiritual, ci și un loc al identității culturale, care amintește de diversitatea tradițiilor guineene. Pentru vizitatori, Koumi oferă o perspectivă fascinantă asupra istoriei vii a popoarelor de coastă și a legăturii lor profunde cu mediul natural, care aici este considerat divin.",
+        "en": "The Koumi Sacred Site is a mystical location of deep spiritual and historical significance in the Boké region of western Guinea. Geographically, Koumi is situated in a hilly landscape defined by dense gallery forests and small streams. For centuries, this site has been a center for traditional African religions and a sanctuary for the spiritual practices of the Baga and Landuma peoples. Historically, Koumi was a place where vital community decisions were made and where ritual ceremonies honoring ancestors and nature spirits were conducted. The site is famous for its 'sacred groves,' where the dense vegetation acts as a protective space for holy objects and symbols. Throughout the colonial period and the era of Islamization, Koumi remained a symbol of the endurance of indigenous belief systems and cultural resistance. Today, Koumi is not only a spiritual hub but also a landmark of cultural identity, serving as a reminder of the rich diversity of Guinean traditions. For visitors, Koumi offers a fascinating insight into the living history of coastal peoples and their profound connection to the natural environment, which is viewed here as divine."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Koumi ist ein Zentrum der traditionellen Baga-Kultur.",
+          "Die Stätte ist bekannt für ihre unberührten heiligen Wälder.",
+          "Traditionell werden hier Initiationsriten für junge Männer durchgeführt.",
+          "Koumi liegt in der Nähe der Küstenzone von Boké.",
+          "Der Ort gilt als spiritueller Schutzpunkt für die gesamte Region.",
+          "Die rituellen Masken aus dieser Region sind weltbekannt für ihre Kunstfertigkeit."
+        ],
+        "hu": [
+          "Koumi a hagyományos baga kultúra egyik legfontosabb központja.",
+          "A helyszín híres az érintetlen, szakrális célokat szolgáló erdőiről.",
+          "Itt tartják a fiatal férfiak hagyományos beavatási szertartásait.",
+          "A település Boké tengerparti övezetének közelében található.",
+          "Koumi a spirituális védelem szimbóluma az egész nyugati régióban.",
+          "A környékről származó rituális maszkok világhírűek művészi kivitelükről."
+        ],
+        "ro": [
+          "Koumi găzduiește vestigii ale vechilor sanctuare în aer liber.",
+          "Pădurile sacre sunt protejate prin tabu-uri locale stricte.",
+          "Situl a fost un focar de rezistență culturală împotriva asimilării.",
+          "Populația Landuma consideră acest loc inima lor ancestrală.",
+          "Se află într-o zonă cu biodiversitate ridicată și izvoare naturale.",
+          "Multe tradiții orale din vestul Guineei își au originea în Koumi."
+        ],
+        "en": [
+          "Koumi is a paramount center for traditional Baga cultural heritage.",
+          "The site is renowned for its untouched and spiritually significant sacred groves.",
+          "Traditional initiation rites for young men are historically performed here.",
+          "The site is located near the coastal plains of the Boké region.",
+          "It is regarded as a spiritual protective point for the surrounding communities.",
+          "Ritual masks from this region are celebrated globally for their artistic detail."
+        ]
+      }
+    }
+  ]
+}

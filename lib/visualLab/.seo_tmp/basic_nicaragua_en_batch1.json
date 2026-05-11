@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "somoto-cities-v2",
+      "description": "Somoto is a town in Madriz department, known for the Somoto Canyon, a spectacular natural wonder.",
+      "facts": ["Madriz department", "Somoto Canyon", "Natural wonder"]
+    },
+    {
+      "id": "ocotal-cities-v2",
+      "description": "Ocotal is the capital of Nueva Segovia department, known for its coffee plantations and proximity to the Honduras border.",
+      "facts": ["Nueva Segovia capital", "Coffee plantations", "Border town"]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "description": "Diriamba in Carazo is known for its indigenous cultural heritage, traditional dances, and the Basílica de San Sebastián.",
+      "facts": ["Indigenous heritage", "Traditional dances", "Basílica de San Sebastián"]
+    },
+    {
+      "id": "somotillo-cities-v2",
+      "description": "Somotillo is a border town in western Nicaragua, an important transport hub and trading center.",
+      "facts": ["Border town", "Transport hub", "Trading center"]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "description": "Sébaco in the Matagalpa Valley is known as the 'Granary of Nicaragua' due to its fertile soils and rice cultivation.",
+      "facts": ["Granary of Nicaragua", "Rice cultivation", "Matagalpa Valley"]
+    },
+    {
+      "id": "posoltega-cities-v2",
+      "description": "Posoltega in Chinandega department is an agricultural center known for its banana and vegetable cultivation.",
+      "facts": ["Agricultural center", "Banana and vegetable cultivation", "Chinandega"]
+    },
+    {
+      "id": "masatepe-cities-v2",
+      "description": "Masatepe in Masaya is famous for its furniture and wood crafts, reflecting a rich artisan tradition.",
+      "facts": ["Furniture and wood crafts", "Masaya", "Artisan tradition"]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "description": "Niquinohomo is a historic village in Masaya, birthplace of national hero Augusto C. Sandino.",
+      "facts": ["Historic village", "Sandino's birthplace", "Masaya"]
+    },
+    {
+      "id": "rio-blanco-cities-v2",
+      "description": "Río Blanco in Matagalpa is a growing town, serving as a hub for the surrounding agricultural areas.",
+      "facts": ["Growing town", "Agricultural hub", "Matagalpa"]
+    },
+    {
+      "id": "rosita-cities-v2",
+      "description": "Rosita is a mining town in the North Caribbean Coast Autonomous Region, known for gold and silver mining.",
+      "facts": ["Mining town", "Gold and silver mining", "North Caribbean Coast"]
+    },
+    {
+      "id": "puerto-morazan-cities-v2",
+      "description": "Puerto Morazán is a port on the Gulf of Fonseca, important for trade and fishing in northwestern Nicaragua.",
+      "facts": ["Port town", "Gulf of Fonseca", "Trade and fishing"]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "description": "Tecolostote in Boaco is known for its traditional festivals and agriculture focused on beans and corn.",
+      "facts": ["Traditional festivals", "Beans and corn", "Boaco"]
+    },
+    {
+      "id": "san-miguelito-cities-v2",
+      "description": "San Miguelito in Río San Juan is a small town on Lake Nicaragua, known for its tranquil atmosphere and fishing.",
+      "facts": ["Lake Nicaragua", "Tranquil atmosphere", "Fishing"]
+    },
+    {
+      "id": "san-juan-del-norte-greytown-cities-v2",
+      "description": "San Juan del Norte (Greytown) is a historic port on the Caribbean coast, known for its role in the Nicaragua Canal history.",
+      "facts": ["Historic port", "Caribbean coast", "Nicaragua Canal"]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "description": "Pueblo Nuevo in Estelí is an agricultural community, known for tobacco and coffee cultivation.",
+      "facts": ["Agricultural community", "Tobacco and coffee", "Estelí"]
+    }
+  ]
+}

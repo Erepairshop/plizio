@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-castellani-house-history-v2",
+      "descriptionAdvancedDe": "Das Castellani House ist ein elegantes Wahrzeichen von Georgetown und beherbergt die Nationale Kunstgalerie von Guyana. Das Gebäude wurde im späten 19. Jahrhundert vom maltesischen Architekten Cesar Castellani entworfen und diente ursprünglich als Residenz für hochrangige Kolonialbeamte. Seine Architektur zeichnet sich durch eine Mischung aus viktorianischen und lokalen Designelementen aus, mit großen Veranden und kunstvollen Holzarbeiten, die für das tropische Klima geeignet sind. Seit 1993 ist es der wichtigste öffentliche Ausstellungsort für guyanische Kunst. Die Galerie präsentiert eine beeindruckende Sammlung von Gemälden, Skulpturen und anderen Medien, die die Entwicklung der guyanischen Kunst von der vorkolonialen Zeit bis zur Gegenwart dokumentieren. Das Castellani House ist somit nicht nur ein architektonisches Juwel, sondern auch das pulsierende Zentrum der visuellen Künste in Guyana, das das kreative Erbe und die zeitgenössische Kunstszene des Landes feiert.",
+      "descriptionAdvancedHu": "A Castellani-ház Georgetown elegáns nevezetessége, amely a Guyanai Nemzeti Művészeti Galériának ad otthont. Az épületet a 19. század végén tervezte a máltai építész, Cesar Castellani, és eredetileg magas rangú gyarmati tisztviselők rezidenciájaként szolgált. Építészetét a viktoriánus és a helyi designelemek keveréke jellemzi, nagy verandákkal és a trópusi éghajlathoz illő díszes famunkákkal. 1993 óta ez a guyanai művészet legfontosabb nyilvános kiállítóhelye. A galéria festményekből, szobrokból és más médiumokból álló lenyűgöző gyűjteményt mutat be, amely a guyanai művészet fejlődését dokumentálja a prekolumbiánus időktől napjainkig. A Castellani-ház tehát nemcsak építészeti gyöngyszem, hanem Guyana vizuális művészetének lüktető központja is, amely az ország kreatív örökségét és kortárs művészeti színterét ünnepli.",
+      "descriptionAdvancedRo": "Casa Castellani este un reper elegant din Georgetown, care găzduiește Galeria Națională de Artă din Guyana. Proiectată la sfârșitul secolului al XIX-lea de arhitectul maltez Cesar Castellani, clădirea a servit inițial ca reședință pentru înalți funcționari coloniali. Arhitectura sa prezintă un amestec de elemente de design victorian și local, cu verande mari și lucrări complexe în lemn, potrivite pentru climatul tropical. Din 1993, a devenit principalul spațiu public de expoziție pentru arta guyaneză. Galeria prezintă o colecție impresionantă de picturi, sculpturi și alte medii care documentează dezvoltarea artei guyaneze din perioada pre-colonială până în prezent. Astfel, Casa Castellani nu este doar o bijuterie arhitecturală, ci și centrul vibrant al artelor vizuale din Guyana, celebrând moștenirea creativă și scena artistică contemporană a națiunii.",
+      "descriptionAdvancedEn": "Castellani House is an elegant Georgetown landmark that houses the National Art Gallery of Guyana. Designed in the late 19th century by Maltese architect Cesar Castellani, the building originally served as a residence for high-ranking colonial officials. Its architecture features a blend of Victorian and local design elements, with large verandas and intricate woodwork suitable for the tropical climate. Since 1993, it has been the premier public exhibition space for Guyanese art. The gallery showcases an impressive collection of paintings, sculptures, and other media that document the evolution of Guyanese art from the pre-colonial era to the present day. Castellani House is therefore not only an architectural gem but also the vibrant heart of the visual arts in Guyana, celebrating the nation's creative heritage and contemporary art scene.",
+      "factsAdvanced": [
+        "Entworfen vom maltesischen Architekten Cesar Castellani im 19. Jahrhundert.",
+        "Beherbergt seit 1993 die Nationale Kunstgalerie von Guyana.",
+        "Diente ursprünglich als Residenz für Kolonialbeamte.",
+        "Zeigt eine Mischung aus viktorianischer und lokaler Architektur.",
+        "Die Sammlung umfasst Kunst von der präkolonialen bis zur modernen Zeit.",
+        "Wichtiger Ort für die Förderung der guyanischen Kunstszene.",
+        "Das Gebäude selbst ist ein architektonisches Kunstwerk.",
+        "Veranstaltet regelmäßig Ausstellungen von zeitgenössischen Künstlern."
+      ]
+    }
+  ]
+}

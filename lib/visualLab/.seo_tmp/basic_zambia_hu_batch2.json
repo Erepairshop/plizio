@@ -1,0 +1,87 @@
+{
+  "lang": "hu",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraZambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraZambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zm-chibuluma-copper-mine-economic-v2",
+      "description": "Zambia egyik legrégebbi és legfontosabb rézbányája a Copperbelt tartományban, amely évtizedek óta hozzájárul az ország gazdaságához.",
+      "facts": ["Fontos rézbánya", "A Copperbelt területén", "Jelentős exportforrás"]
+    },
+    {
+      "id": "fort-elwes-history-v2",
+      "description": "Az 1900-as évek elején épült erődítmény a tanzániai határ közelében, amely a brit gyarmati terjeszkedés egyik történelmi emléke.",
+      "facts": ["Gyarmati kori erőd", "1900-as évek eleje", "Történelmi romok"]
+    },
+    {
+      "id": "mukuba-mall-landmarks-v2",
+      "description": "Ndola egyik legmodernebb bevásárlóközpontja, amely a város kereskedelmi és közösségi életének központja.",
+      "facts": ["Ndolában található", "Modern bevásárlóközpont", "Közösségi találkozóhely"]
+    },
+    {
+      "id": "kariba-dam-wall-landmarks-v2",
+      "description": "A Kariba-tavat feltartóztató monumentális völgyzárógát, amely a világ egyik legnagyobb mesterséges tavát hozta létre.",
+      "facts": ["Hatalmas betonépítmény", "Vízerőmű működik itt", "Zambia és Zimbabwe határán"]
+    },
+    {
+      "id": "zambezi-river-nature-v2",
+      "description": "Afrika negyedik leghosszabb folyója, amely keresztülfolyik Zambián, táplálva a Viktória-vízesést és a Kariba-tavat.",
+      "facts": ["Afrika 4. leghosszabbja", "Vadvízi evezés helyszíne", "Gazdag vízi élővilág"]
+    },
+    {
+      "id": "kalahari-desert-nature-v2",
+      "description": "A dél-afrikai sivatag legészakibb nyúlványai Zambia nyugati részén, ahol a homokos síkságok határozzák meg a tájat.",
+      "facts": ["Homokos síkságok", "Száraz éghajlat", "Zambia nyugati szélén"]
+    },
+    {
+      "id": "lake-tanganyika-zambia-nature-v2",
+      "description": "A világ második legmélyebb édesvízi tava, amelynek déli partvidéke Zambiához tartozik, kristálytiszta vizéről híres.",
+      "facts": ["A világ 2. legmélyebb tava", "Endemikus halfajok", "Nemzetközi vízi út"]
+    },
+    {
+      "id": "muchinga-mountains-nature-v2",
+      "description": "Északkelet-Zambia meghatározó hegylánca, amely vízválasztóként szolgál a Kongó és a Zambézi folyórendszerei között.",
+      "facts": ["Fontos vízválasztó", "Északkelet-Zambia", "Változatos domborzat"]
+    },
+    {
+      "id": "luapula-river-nature-v2",
+      "description": "Zambia és a Kongói Demokratikus Köztársaság határfolyója, amely hatalmas mocsárvidékeken és zuhatagokon folyik keresztül.",
+      "facts": ["Természetes határfolyó", "Halászati terület", "Zuhatagok és mocsarak"]
+    },
+    {
+      "id": "kabwe-region-nature-v2",
+      "description": "Zambia központi területe, amely geológiai szempontból gazdag ásványkincsekben, és bányászati múltjáról ismert.",
+      "facts": ["Bányászati régió", "Zambia közepén", "Gazdag ólom- és cinkkészlet"]
+    },
+    {
+      "id": "lake-chambeshi-nature-v2",
+      "description": "A Chambeshi folyó mentén elhelyezkedő vizes élőhely, amely fontos szerepet játszik a helyi ökoszisztémában és a vízi madarak életében.",
+      "facts": ["Fontos vizes élőhely", "Vándormadarak otthona", "A Chambeshi folyó táplálja"]
+    },
+    {
+      "id": "malawi-lake-zambia-nature-v2",
+      "description": "Bár a tó legnagyobb része Malawiban van, Zambia keleti határánál is találhatók a vízgyűjtőjéhez tartozó területek.",
+      "facts": ["Határmenti terület", "Gazdag élővilág", "Vízi turizmus közeli"]
+    },
+    {
+      "id": "kabompo-river-nature-v2",
+      "description": "A Zambézi egyik legmélyebb és legtisztább mellékfolyója, amely az ország északnyugati sűrű erdőségein halad át.",
+      "facts": ["A Zambézi mellékfolyója", "Mély és tiszta víz", "Északnyugat-Zambia"]
+    },
+    {
+      "id": "lusiwashi-lake-nature-v2",
+      "description": "A Központi tartományban található kisebb tó, amely mellett vízerőmű is üzemel, ellátva a környéket energiával.",
+      "facts": ["Központi tartomány", "Vízerőmű a közelben", "Halban gazdag tó"]
+    },
+    {
+      "id": "chishimba-falls-nature-v2",
+      "description": "Az Északi tartományban, Kasama közelében található gyönyörű vízeséssorozat, amely fontos spirituális hely a helyi bemba nép számára.",
+      "facts": ["Három vízesésből áll", "Spirituális jelentőségű", "Kasama közelében"]
+    }
+  ]
+}

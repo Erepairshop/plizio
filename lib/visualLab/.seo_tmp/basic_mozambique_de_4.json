@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "Der Niassasee ist einer der tiefsten und artenreichsten Seen der Welt. Seine einzigartige Unterwasserwelt macht ihn zu einem bedeutenden Naturwunder in Mosambik.",
+      "facts": ["Artenreicher Süßwassersee", "Bedeutendes Naturwunder", "Tiefer Binnensee", "Einzigartige Fauna"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "Das Gorongosa-Massiv bietet eine beeindruckende Bergwelt mit einer vielfältigen Flora und Fauna. Die Region ist für ihre ökologische Bedeutung bekannt.",
+      "facts": ["Beeindruckendes Massiv", "Vielfältige Flora", "Hohe ökologische Relevanz", "Bergwelt in Mosambik"]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "description": "Der Limpopo fließt durch fruchtbare Landschaften und bildet einen Lebensraum für eine Vielzahl von Tieren. Er ist ein zentraler Fluss für die ökologische Stabilität der Region.",
+      "facts": ["Zentraler Fluss", "Ökologische Stabilität", "Fruchtbare Uferlandschaft", "Vielfältige Tierwelt"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "Diese Inselgruppe bildet ein geschütztes maritimes Ökosystem mit beeindruckenden Korallenriffen. Sie ist ein Rückzugsort für bedrohte marine Arten.",
+      "facts": ["Geschütztes Ökosystem", "Korallenreiches Gebiet", "Mariner Rückzugsort", "Inselgruppe"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "Der Quirimbas-Archipel zeichnet sich durch unberührte Mangrovenwälder und Korallenriffe aus. Die Inselwelt bietet eine außergewöhnliche Biodiversität.",
+      "facts": ["Unberührte Mangroven", "Korallenreiche Gewässer", "Außergewöhnliche Biodiversität", "Inselparadies"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "Der Romue erhebt sich in einer malerischen Umgebung und ist durch seine unberührten Waldgebiete charakterisiert. Ein wichtiges Gebiet für den Naturschutz.",
+      "facts": ["Malerisches Berggebiet", "Unberührte Wälder", "Wichtig für Naturschutz", "Erhebliche Bergwelt"]
+    },
+    {
+      "id": "rovuma-river-nature-v2",
+      "description": "Der Rovuma bildet eine natürliche Grenze und ist von einer ursprünglichen Flusslandschaft umgeben. Er beheimatet eine reiche Fauna in seinen Flussniederungen.",
+      "facts": ["Natürliche Grenze", "Ursprüngliche Landschaft", "Reiche Flussfauna", "Flussniederungen"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "Die Insel Inda ist von kristallklaren Gewässern umgeben und beherbergt eine geschützte Flora. Ein Ort, der die maritime Schönheit der Region unterstreicht.",
+      "facts": ["Kristallklares Wasser", "Geschützte Flora", "Maritime Schönheit", "Inselbiotop"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "Der Chiutasee ist bekannt für seine ruhige Wasserfläche und sein reiches Vorkommen an Wasservögeln. Ein bedeutendes Feuchtgebiet für Zugvögel.",
+      "facts": ["Ruhige Wasserfläche", "Vogelreiches Gebiet", "Bedeutendes Feuchtgebiet", "Wichtiger Vogelrastplatz"]
+    },
+    {
+      "id": "pungo-mountain-nature-v2",
+      "description": "Die Pungo-Berge bieten eine spektakuläre Aussicht und beherbergen seltene Pflanzenarten. Eine Region, die für ihre ökologische Unberührtheit geschätzt wird.",
+      "facts": ["Spektakuläre Aussicht", "Seltene Pflanzen", "Ökologisch unberührt", "Berglandschaft"]
+    }
+  ]
+}

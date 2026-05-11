@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mansa-konko-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mansa Konko ist eine historisch bedeutsame Stadt in der Lower River Region von Gambia und dient als deren administratives Zentrum. Der Name der Stadt bedeutet in der Mandinka-Sprache „Hügel des Königs“, was auf ihre Lage auf einer der wenigen markanten Erhebungen in der ansonsten flachen Flusslandschaft anspielt. Gegründet wurde der Ort während der britischen Kolonialzeit als administrativer Außenposten, um die Kontrolle über das Hinterland zu festigen. Die Stadt liegt strategisch günstig oberhalb der Stadt Soma und des Trans-Gambia Highway, was ihr eine hervorragende Aussicht über das Flusstal ermöglicht. Im Gegensatz zum geschäftigen Handelszentrum Soma ist Mansa Konko eine eher ruhige Beamtenstadt mit gut erhaltenen Regierungsgebäuden aus der Kolonialära. Das Relief ist hier durch sanfte Hügel geprägt, die einen natürlichen Schutz gegen die saisonalen Überschwemmungen des Gambia-Flusses bieten. Für Reisende bietet die Stadt eine friedliche Atmosphäre und einen Einblick in die koloniale Verwaltungsgeschichte Gambias. Die Umgebung ist geprägt von Savannenvegetation und vereinzelten Baobab-Bäumen, die das Bild des „Königshügels“ abrunden. Mansa Konko bleibt ein wichtiger Pfeiler für die staatliche Präsenz und Koordination in der Lower River Region.",
+        "hu": "Mansa Konko Gambia Lower River régiójának közigazgatási központja, amely egyedülálló fekvésével tűnik ki a környező települések közül. A város neve mandinka nyelven „a király dombját” jelenti, ami arra utal, hogy a település egy ritka magaslaton épült fel a vidéket uraló lapos folyóparti síkságon. Mansa Konko a gyarmati időkben vált fontossá, amikor a britek itt alakították ki a térség adminisztratív bázisát. A város közvetlenül a nyüzsgő kereskedelmi csomópont, Soma felett helyezkedik el, így csendesebb, hivatalibb légkört áraszt. A domborzat nemcsak stratégiai előnyt biztosított a múltban, hanem ma is lenyűgöző panorámát nyújt a Gambia-folyó völgyére. Az építészetben máig felfedezhetők a brit adminisztráció nyomai, a vörös kőből épült hivatalok és rezidenciák formájában. A környék növényvilágát a fás szavanna uralja, ahol hatalmas majomkenyérfák állnak őrt a domboldalakon. Az idelátogatók számára Mansa Konko a nyugalom szigete, ahol a történelem és a természet különleges harmóniában találkozik, távol a főutak zajától. A város fontos szerepet játszik a régió fejlesztési projektjeinek koordinálásában és a helyi kormányzásban.",
+        "ro": "Mansa Konko este reședința administrativă a regiunii Lower River din Gambia, fiind un oraș cu o identitate istorică și geografică distinctă. Numele său se traduce din limba Mandinka prin „Dealul Regelui”, reflectând poziția sa privilegiată pe o colină care domină peisajul plat al bazinului fluviului Gambia. Orașul a fost dezvoltat de britanici ca un centru de control colonial, păstrând până astăzi o configurație urbană ordonată, cu clădiri administrative de epocă și reședințe oficiale. Mansa Konko funcționează în contrast cu orașul vecin Soma; în timp ce Soma este inima comercială pulsândă, Mansa Konko rămâne un pol de stabilitate administrativă și liniște. Relieful colinar oferă protecție naturală împotriva umidității excesive a mlaștinilor din vale, oferind în același timp vederi panoramice spectaculoase. Din punct de vedere economic, orașul găzduiește sediile mai multor instituții guvernamentale și organizații non-guvernamentale active în dezvoltarea rurală. Vegetația este tipică pentru savana înaltă, cu numeroși baobabi și arbori de caju care punctează dealurile. Pentru turiști, Mansa Konko reprezintă un punct de oprire interesant pentru a observa arhitectura colonială și pentru a înțelege structura administrativă a Gambiei profunde. Este un simbol al autorității și al ordinii într-o regiune esențială pentru agricultura națională.",
+        "en": "Mansa Konko serves as the administrative capital of the Lower River Region in The Gambia, standing as a site of significant historical and geographical interest. Its name, meaning 'King's Hill' in the Mandinka language, refers to its unique location on a rare elevation overlooking the otherwise low-lying Gambia River basin. Established during the British colonial era as a district headquarters, the town retains a distinct atmosphere of old-world governance, with several colonial-style administrative buildings still in use today. Situated just above the busy commercial hub of Soma, Mansa Konko offers a tranquil environment characterized by its hilltop vistas and well-spaced government quarters. The relief provides a natural drainage system, keeping the town relatively dry compared to the surrounding riverine marshes. Economically, its importance lies in its role as a regional decision-making center, coordinating agricultural and social programs across the Lower River districts. the townscape is defined by sturdy stone architecture and large baobab trees that have stood for centuries. For visitors, Mansa Konko provides a historical lens through which to view The Gambia's colonial past and offers a peaceful retreat from the dust and noise of the Trans-Gambia Highway. It remains an essential link in the nation's administrative chain and a proud landmark for the people of the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mansa Konko ist die Hauptstadt der Lower River Region.",
+          "Der Name stammt aus der Mandinka-Sprache und bedeutet 'Königshügel'.",
+          "Die Stadt wurde als britischer kolonialer Verwaltungsposten gegründet.",
+          "Sie liegt auf einer markanten Anhöhe über dem Trans-Gambia Highway.",
+          "Viele Regierungsgebäude stammen noch aus der Zeit vor der Unabhängigkeit.",
+          "Die Stadt bietet einen weiten Panoramablick über das Hinterland von Soma."
+        ],
+        "hu": [
+          "A település Gambia egyik legfontosabb adminisztratív központja a vidéken.",
+          "A város domborzata védelmet nyújt a folyó áradásaival szemben.",
+          "Mansa Konko közvetlen szomszédságában található Soma kereskedelmi városa.",
+          "A területen számos brit gyarmati stílusú épület maradt fent épségben.",
+          "A város neve a helyi mandinka uralkodók tiszteletére utal.",
+          "Fontos bázis a régióban dolgozó nemzetközi segélyszervezetek számára."
+        ],
+        "ro": [
+          "Mansa Konko este situat în districtul Jarra West.",
+          "Relieful colinar este o raritate în peisajul predominant plat al Gambiei.",
+          "Orașul a servit drept reședință pentru comisarii britanici de district.",
+          "Este un punct strategic pentru supravegherea traficului pe fluviul Gambia.",
+          "Clima locală este ușor mai ventilată datorită altitudinii ridicate.",
+          "Găzduiește centrul regional de formare pentru dezvoltare comunitară."
+        ],
+        "en": [
+          "The town acts as the primary government hub for the Lower River Region.",
+          "Mansa Konko is famous for its preserved 19th-century stone masonry buildings.",
+          "It provides a scenic overlook of the strategic Senegambia Bridge area.",
+          "The town is predominantly inhabited by the Mandinka ethnic group.",
+          "It serves as the main judiciary and police headquarters for the region.",
+          "The surrounding area is a major producer of regional mangoes and cashews."
+        ]
+      }
+    },
+    {
+      "id": "kartong-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kartong ist ein idyllisches Küstendorf im äußersten Südwesten Gambias, direkt an der Grenze zum Senegal gelegen. Es ist eines der ältesten Dörfer des Landes und bekannt für seinen sanften Ökotourismus und seine außergewöhnliche Biodiversität. Geografisch wird Kartong durch den Allahein-Fluss begrenzt, der die natürliche Grenze zum Senegal bildet und von dichten Mangrovenwäldern gesäumt ist. Das Dorf hat sich erfolgreich gegen den Massentourismus gewehrt und setzt stattdessen auf gemeindebasierte Projekte wie die Kartong Bird Observatory, die Vogelbeobachter aus aller Welt anzieht. Ein kulturelles Highlight ist das heilige Krokodilbecken von Folonko, ein Ort tiefer spiritueller Verehrung, der für Fruchtbarkeitsrituale genutzt wird. Die Strände von Kartong sind weitläufig, unberührt und bekannt für ihre Ruhe. Wirtschaftlich lebt das Dorf vom Fischfang, der Landwirtschaft und zunehmend von kleinen, ökologisch geführten Lodges. Die Bewohner, eine harmonische Mischung aus verschiedenen Ethnien, bewahren ihre Traditionen, was sich im jährlichen Kartong Festival widerspiegelt. Die Landschaft ist geprägt von Palmenhainen, Feuchtgebieten und alten Sandabbaugebieten, die sich zu wertvollen Habitaten für Wasservögel entwickelt haben. Kartong ist der perfekte Ort für Reisende, die die ursprüngliche Seite Gambias suchen.",
+        "hu": "Kartong egy bájos tengerparti falu Gambia legdélebbi csücskén, közvetlenül a szenegáli határ mellett. Ez az ország egyik legrégebbi települése, amely hírnevét az érintetlen természetnek és a fenntartható ökoturizmusnak köszönheti. A falut az Allahein-folyó határolja, amely természetes határt képez a két ország között, partjait pedig sűrű mangroveerdők szegélyezik. Kartong büszke arra, hogy elkerülte a nagyipari turizmust; helyette olyan közösségi kezdeményezéseket támogatnak, mint a Kartong Madármegfigyelő Állomás, amely nemzetközi hírű a kutatók körében. A falu spirituális központja a Folonko szent krokodilmedence, ahol a helyiek évszázadok óta végeznek áldozati rítusokat. A tengerpart itt végtelenül nyugodt és tiszta, ideális az elcsendesedésre. A gazdaság alapját a hagyományos halászat és a kisüzemi mezőgazdaság adja, de az ökolodzsák is egyre több munkát biztosítanak. Az évente megrendezett Kartong Fesztivál a környék kulturális csúcspontja, ahol a zene és a tánc nyelvén mutatják be a helyi közösség sokszínűségét. A tájat pálmaligetek és a korábbi homokbányák helyén kialakult vizes élőhelyek teszik különlegessé, amelyek ma már ritka madárfajok otthonai. Kartong a valódi, hamisítatlan gambiai életmód utolsó bástyáinak egyike.",
+        "ro": "Kartong este un sat de coastă idilic situat în extremitatea sud-vestică a Gambiei, chiar la frontiera cu Senegalul. Fiind una dintre cele mai vechi așezări din țară, Kartong este renumit pentru modelul său de ecoturism comunitar și pentru biodiversitatea sa remarcabilă. Geografia locului este definită de râul Allahein, care trasează granița naturală cu regiunea Casamance și este mărginit de mangrove luxuriante. Satul a ales o cale de dezvoltare durabilă, găzduind Observatorul de Păsări Kartong, o destinație de talie mondială pentru ornitologi. O componentă culturală esențială este bazinul sacru cu crocodili Folonko, unde ritualurile ancestrale legate de fertilitate sunt încă practicate cu sfințenie. Plajele din Kartong sunt printre cele mai sălbatice și liniștite din Gambia, oferind o evadare departe de zonele hoteliere aglomerate. Economia locală se bazează pe pescuitul artizanal și pe agricultura de subzistență, completate de veniturile din turismul responsabil. Festivalul Kartong, organizat anual, celebrează unitatea etnică și bogăția folclorului local. Peisajul este marcat de foști situri de extracție a nisipului care, prin regenerare naturală, au devenit lacuri de apă dulce ce atrag o faună aviară diversă. Pentru călători, Kartong reprezintă esența ospitalității gambiene într-un decor natural nealterat, fiind un exemplu de conservare a patrimoniului în armonie cu modernitatea.",
+        "en": "Kartong is an idyllic coastal village located at the southernmost tip of The Gambia, right on the border with Senegal. As one of the oldest settlements in the country, it has gained international recognition for its commitment to sustainable ecotourism and its extraordinary biodiversity. The village is bounded by the Allahein River, which serves as a natural frontier and is lined with pristine mangrove forests. Kartong has consciously moved away from mass tourism, focusing instead on community-led initiatives such as the Kartong Bird Observatory, a premier site for ornithologists studying West African species. A key cultural landmark is the Folonko Sacred Crocodile Pool, a site of deep spiritual significance used for traditional fertility rites. The beaches of Kartong are vast, quiet, and largely undeveloped, providing a serene alternative to the busier resorts in the north. The local economy is driven by artisanal fishing, small-scale farming, and eco-friendly lodges that employ local residents. The annual Kartong Festival showcases the village’s rich cultural tapestry through traditional music and dance. The landscape features lush palm groves and unique wetlands formed in former sand-mining sites, which have become vital habitats for waterfowl. For those seeking an authentic and environmentally conscious Gambian experience, Kartong stands as a beacon of natural preservation and cultural integrity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kartong ist das südlichste Dorf Gambias an der Grenze zum Senegal.",
+          "Der Allahein-Fluss in Kartong markiert die Staatsgrenze.",
+          "Das Folonko-Krokodilbecken ist eine der drei heiligen Stätten dieser Art im Land.",
+          "Das Dorf ist ein international bekannter Hotspot für Vogelbeobachtung.",
+          "Hier findet jährlich das renommierte Kartong Festival statt.",
+          "Die Strände von Kartong sind wichtige Nistplätze für Meeresschildkröten."
+        ],
+        "hu": [
+          "Kartong az ország legfontosabb ökoturisztikai központja délen.",
+          "A falu mellett található Gambia egyik legjelentősebb osztrigatelepe.",
+          "A Folonko-medence krokodiljai a helyi hiedelmek szerint jó szerencsét hoznak.",
+          "Az Allahein-folyón keresztül élénk kishatárforgalom zajlik Szenegál felé.",
+          "A település lakossága híres a dobművészetéről és tradicionális táncairól.",
+          "A környéken számos ritka hüllőfaj él a sűrű parti erdőkben."
+        ],
+        "ro": [
+          "Kartong găzduiește unul dintre cele mai active observatoare de păsări din regiune.",
+          "Satul este renumit pentru producția de miere ecologică din mangrove.",
+          "Râul Allahein este navigabil cu piroga, oferind acces către mlaștinile senegaleze.",
+          "Comunitatea locală a interzis construcția marilor resorturi pe plajele sale.",
+          "Folonko este administrat de o familie de gardieni tradiționali de generații.",
+          "Kartong este un punct de referință pentru muzica kora și percuția africană."
+        ],
+        "en": [
+          "Kartong is situated in the Kombo South District, facing the Atlantic.",
+          "The Kartong Bird Observatory records over 300 species of birds annually.",
+          "It is a major site for traditional salt production in the dry season.",
+          "The village is known for its high level of cross-border ethnic integration.",
+          "Sand-mining pits in Kartong have been repurposed into fish-farming ponds.",
+          "The local beach is a favorite spot for viewing humpback whales in season."
+        ]
+      }
+    },
+    {
+      "id": "kaur-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kaur ist eine historisch bedeutsame Handelsstadt am Nordufer des Gambia-Flusses in der Central River Region. Die Stadt erlebte ihre Blütezeit im frühen 20. Jahrhundert, als sie einer der wichtigsten Binnenhäfen für den Export von Erdnüssen war. Kaur liegt an einer markanten Kurve des Flusses, wo das Wasser tief genug für große Dampfschiffe war, was die Ansiedlung großer europäischer Handelshäuser (Factoren) begünstigte. Heute zeugen die verfallenen Lagerhäuser und Kais am Flussufer von dieser geschäftigen Vergangenheit. Wirtschaftlich ist Kaur immer noch ein bedeutender Sammelpunkt für Agrarprodukte aus dem Norden, beherbergt jedoch auch eine der wichtigsten Verarbeitungsanlagen für Erdnüsse im Land. Die Stadt ist zudem bekannt für ihre Nähe zu den Kaur-Feuchtgebieten, die Teil eines internationalen Vogelschutzgebiets sind und während der Trockenzeit tausende von Wasservögeln anlocken. Das Relief um Kaur ist geprägt von weiten Ebenen und vereinzelten Hügeln im Hinterland, die eine weite Sicht über das Flusstal ermöglichen. Die Bevölkerung ist eine Mischung aus Wolof, Fula und Mandinka, was Kaur zu einem kulturellen Knotenpunkt am Nordufer macht. Trotz des Rückgangs des Schiffsverkehrs auf dem Fluss bleibt Kaur ein Symbol für die koloniale Handelsgeschichte und ein wichtiger Pfeiler der ländlichen Wirtschaft in Zentral-Gambia.",
+        "hu": "Kaur Gambia északi partjának egyik legfontosabb történelmi kereskedővárosa a Central River régióban. A település aranykora a 20. század elejére tehető, amikor a folyami földimogyoró-export egyik legjelentősebb kikötőjeként szolgált. Kaur egy nagy folyókanyarulatnál fekszik, ahol a vízmélység lehetővé tette a nagy óceánjáró gőzösök kikötését is, így a város az európai kereskedőházak fontos bázisává vált. A folyóparton ma is láthatók a régi raktárépületek és rakpartok maradványai, amelyek nosztalgikus hangulatot árasztanak. Gazdaságilag Kaur továbbra is kulcsszerepet játszik a mezőgazdaságban; itt található az ország egyik legnagyobb mogyorófeldolgozó üzeme és raktárbázisa. A város környéki vizes élőhelyek nemzetközi hírűek, hiszen a száraz évszakban vándormadarak ezrei pihennek meg a mocsaras területeken. A tájképet a hatalmas folyóparti síkságok és a távolabbi alacsony dombok határozzák meg. Kaur lakossága sokszínű, ahol a wolof és fula hagyományok meghatározzák a mindennapokat. Bár a folyami szállítás jelentősége csökkent, Kaur városa megőrizte stratégiai fontosságát mint az északi part egyik legfontosabb logisztikai és agrárközpontja. Az idelátogatók számára a város a gyarmati múlt és a vidéki gambiai valóság sajátos keverékét nyújtja.",
+        "ro": "Kaur este un oraș istoric de o importanță comercială majoră, situat pe malul nordic al fluviului Gambia, în regiunea Central River. Localitatea a cunoscut o perioadă de maximă dezvoltare la începutul secolului al XX-lea, servind drept unul dintre principalele porturi interioare pentru exportul de arahide către piețele globale. Poziția sa într-o buclă adâncă a fluviului a permis accesul navelor de mare tonaj, transformând Kaur într-un centru efervescent unde mari companii europene își aveau depozitele. Astăzi, silueta orașului este încă marcată de structurile masive ale vechilor fabrici și debarcadere, oferind o perspectivă asupra istoriei economice a Gambiei. Kaur rămâne un pilon al industriei de prelucrare a uleiului de arahide, găzduind unități industriale active care procesează recoltele din întreaga regiune de nord. Din punct de her ecological, zonele umede din jurul orașului sunt de o valoare inestimabilă, fiind recunoscute internațional ca habitate esențiale pentru păsările migratoare. Relieful este caracterizat de câmpii aluvionare fertile și de câteva proeminențe stâncoase în hinterland. Mixul etnic format din Wolof și Fula conferă orașului un dinamism cultural aparte, reflectat în piețele locale. Pentru vizitatori, Kaur reprezintă o fereastră către trecutul industrial al fluviului și un loc ideal pentru observarea faunei sălbatice într-un context istoric autentic.",
+        "en": "Kaur is a historically significant trading town on the North Bank of the Gambia River, within the Central River Region. The town reached its zenith in the early 20th century, serving as one of the premier inland ports for the global groundnut (peanut) export trade. Located at a strategic bend where the river is exceptionally deep, Kaur was accessible to large ocean-going steamers, leading to the establishment of major European merchant houses and expansive wharves. Today, the weathered remains of these historic warehouses and the industrial infrastructure along the riverfront stand as a testament to its prosperous past. Economically, Kaur remains a vital node in the national agricultural sector, housing one of the country’s primary groundnut processing and storage facilities. The town is also renowned for its proximity to the Kaur Wetlands, which are part of an internationally recognized bird area that hosts thousands of waterbirds during the dry season. The surrounding terrain features vast alluvial plains and occasional ironstone ridges that offer panoramic views of the river valley. Its population is a vibrant blend of Wolof, Fula, and Mandinka, making it a key cultural crossroads for the North Bank. Despite the decline in commercial river traffic, Kaur continues to play a central role in the rural economy and remains a poignant symbol of The Gambia's colonial mercantile history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kaur war früher einer der wichtigsten Tiefwasserhäfen am Gambia-Fluss.",
+          "Die Stadt beherbergt ein großes Depot der Gambia Groundnut Corporation (GGC).",
+          "Die Kaur-Feuchtgebiete sind ein bedeutendes Ziel für Ornithologen.",
+          "Im frühen 20. Jahrhundert saßen hier führende britische und französische Firmen.",
+          "Kaur liegt im Distrikt Lower Saloum an der North Bank Road.",
+          "Die Stadt ist bekannt für ihre großen Bestände an prähistorischen Steinkreisen in der Umgebung."
+        ],
+        "hu": [
+          "Kaur kikötője a folyó torkolatától mintegy 150 km-re található.",
+          "A város környéke Gambia egyik legfontosabb rizstermesztő vidéke.",
+          "A helyi földimogyoró-raktárak az ország legnagyobbjai közé tartoznak.",
+          "A vizes élőhelyek védelmét nemzetközi egyezmények (Ramsar) szabályozzák.",
+          "Kaur híres a hagyományos wolof stílusú szövött textíliáiról.",
+          "A település fontos megállóhely az északi parti szárazföldi kereskedelemben."
+        ],
+        "ro": [
+          "Kaur deține cel mai mare punct de colectare a arahidelor din regiunea Central River.",
+          "Fluviul Gambia în dreptul orașului Kaur are o lățime considerabilă.",
+          "Arhitectura industrială din Kaur este studiată ca patrimoniu tehnic colonial.",
+          "Regiunea este cunoscută pentru prezența crocodililor în mlaștinile riverane.",
+          "Kaur servește drept centru de distribuție pentru îngrășăminte agricole.",
+          "Comunitatea locală este implicată în programe de regenerare a pădurilor de mal."
+        ],
+        "en": [
+          "Kaur is the largest settlement in the Lower Saloum District.",
+          "The town was a primary destination for the historic 'Lady Chilel' river boat.",
+          "It features significant remains of the British Groundnut Scheme infrastructure.",
+          "The area is a critical wintering ground for European migratory birds.",
+          "Kaur acts as a major link between northern farmers and the Banjul port.",
+          "The town's market is a key source for regional pottery and ceramic goods."
+        ]
+      }
+    },
+    {
+      "id": "kuntaur-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kuntaur ist eine strategisch wichtige Hafenstadt am Nordufer des Gambia-Flusses in der Central River Region. Sie liegt im Distrikt Niani und ist seit langem als einer der bedeutendsten Verladepunkte für Erdnüsse im Landesinneren bekannt. Kuntaur profitiert von seiner Lage am Fluss, der hier tief genug für größere Frachtschiffe ist, was die Stadt zu einem logistischen Zentrum für die umliegenden Agrargebiete macht. Ein herausragendes Merkmal von Kuntaur ist seine Nähe zum Wassu-Steinkreis-Komplex und zum River Gambia National Park (Baboon Islands), was die Stadt zu einem wichtigen Ausgangspunkt für den Tourismus in der Region macht. Wirtschaftlich wird die Stadt durch das große Erdnussdepot der Gambia Groundnut Corporation dominiert, das das Stadtbild am Flussufer prägt. Das Relief um Kuntaur ist flach und durch ausgedehnte Reisfelder in den Flussniederungen gekennzeichnet, die eine wichtige Grundlage für die lokale Ernährungssicherheit bilden. Die Stadt ist zudem ein wichtiges kulturelles Zentrum der Mandinka und Wolof am Nordufer. Trotz der abgeschiedenen Lage hat Kuntaur durch die Verbesserung der North Bank Road an Bedeutung gewonnen. Für Reisende bietet Kuntaur eine Mischung aus industrieller Flussgeschichte und dem Zugang zu spektakulären Naturreservaten.",
+        "hu": "Kuntaur egy stratégiai fontosságú kikötőváros a Gambia-folyó északi partján, a Central River régióban. A Niani körzetben található település évtizedek óta az ország egyik legfontosabb folyami földimogyoró-rakodóhelye. A város gazdasági alapját a folyó adja, amely itt is elegendő mélységgel rendelkezik a nagyobb teherhajók fogadásához, így Kuntaur a környékbeli mezőgazdasági termények gyűjtőpontjává vált. A város turisztikai jelentősége is kiemelkedő, hiszen innen érhető el legkönnyebben a Wassu-i kőkörök (UNESCO világörökség) és a River Gambia Nemzeti Park, amely a Baboon-szigetekről és csimpánz-rezervátumáról híres. Kuntaur látképét a hatalmas mogyoróraktárak és a folyóparti infrastruktúra határozzák meg. A környező domborzat sík, a folyó menti területeken pedig kiterjedt rizsföldek húzódnak, amelyek a lakosság élelmezésének bázisát jelentik. A város fontos kulturális csomópont, ahol a mandinka és wolof közösségek hagyományai tovább élnek. Kuntaur az utóbbi években fejlődésnek indult az északi parti út korszerűsítésének köszönhetően, közelebb hozva a települést a fővároshoz. A látogatók számára Kuntaur az a hely, ahol a folyami áruszállítás és a vadon közelsége különleges egyveleget alkot.",
+        "ro": "Kuntaur este un oraș portuar strategic situat pe malul nordic al fluviului Gambia, în regiunea Central River, în cadrul districtului Niani. Localitatea este recunoscută istoric drept unul dintre cele mai importante puncte de colectare și expediere a arahidelor din interiorul țării. Datorită adâncimii favorabile a fluviului în această secțiune, Kuntaur a devenit un nod logistic esențial, legând producția agricolă din hinterland de portul Banjul. Pe lângă rolul său economic, Kuntaur este poarta de acces către situl UNESCO al Cercurilor de Piatră de la Wassu și către Parcul Național River Gambia, renumit pentru sanctuarul de cimpanzei de pe Insulele Baboon. Silueta orașului este dominată de depozitele masive ale Gambia Groundnut Corporation, care subliniază vocația industrială a așezării. Relieful din proximitate este marcat de câmpii joase, unde cultivarea orezului pe suprafețe extinse reprezintă principala ocupație a comunităților rurale. Orașul este un centru vibrant al culturilor Mandinka și Wolof, păstrând tradiții seculare în muzică și agricultură. Modernizarea infrastructurii rutiere de pe malul nordic a facilitat integrarea orașului în rețeaua comercială națională. Pentru turiști, Kuntaur oferă o combinație unică de istorie industrială fluvială și acces la unele dintre cele mai importante obiective naturale și arheologice ale Gambiei.",
+        "en": "Kuntaur is a strategically important port town on the North Bank of the Gambia River, situated in the Central River Region's Niani District. It has long been established as a primary loading point for the country's groundnut (peanut) exports. The town benefits from a deep-water section of the river, allowing large cargo vessels to transport agricultural products directly from the interior to the Atlantic coast. Kuntaur is also a significant tourism gateway, providing easy access to the Wassu Stone Circles (a UNESCO World Heritage site) and the River Gambia National Park, famous for the Baboon Islands and its chimpanzee rehabilitation project. Economically, the town is anchored by the large Gambia Groundnut Corporation (GGC) depot, which defines the riverfront landscape. The surrounding relief is predominantly flat, with expansive rice paddies in the floodplain areas that are crucial for regional food security. Kuntaur serves as a cultural hub for the Mandinka and Wolof ethnic groups on the North Bank, maintaining strong traditional ties to the land and the river. In recent years, the paving of the North Bank Road has enhanced Kuntaur's connectivity, making it more accessible from Banjul. For travelers, Kuntaur offers a unique blend of industrial river history and proximity to some of The Gambia's most spectacular wildlife and historical sanctuaries."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kuntaur ist der wichtigste Binnenhafen im Distrikt Niani.",
+          "Die Stadt beherbergt eine der größten Reismühlen Gambias.",
+          "Kuntaur ist der beste Ausgangspunkt für Bootsfahrten zu den Baboon Islands.",
+          "Die North Bank Road verbindet Kuntaur direkt mit Farafenni.",
+          "Erdnussfrachtschiffe sind während der Erntesaison ein gewohnter Anblick.",
+          "Kuntaur liegt nur etwa 10 Kilometer entfernt von den Wassu-Steinkreisen."
+        ],
+        "hu": [
+          "Kuntaur kikötője kulcsszerepet játszik az ország mogyoró-logisztikájában.",
+          "A város környékén található mocsarakban intenzív öntözéses rizstermesztés folyik.",
+          "A Baboon-szigetek csimpánzait tilos megközelíteni, de a városból induló hajókkal láthatók.",
+          "Kuntaur népessége többségében mandinka anyanyelvű.",
+          "A város az északi part egyik legfontosabb oktatási és egészségügyi alközpontja.",
+          "Itt található a Central River régió egyik legnagyobb mogyoró-depója."
+        ],
+        "ro": [
+          "Kuntaur este situat la aproximativ 250 km distanță de capitala Banjul.",
+          "Orașul servește drept bază pentru echipele de cercetare din Parcul Național River Gambia.",
+          "Relieful plat favorizează dezvoltarea unor sisteme complexe de irigații.",
+          "Activitatea industrială de pe malul fluviului este în plină modernizare.",
+          "Piețele din Kuntaur sunt renumite pentru peștele uscat și cereale.",
+          "Este un punct de oprire obligatoriu pentru navele care fac croaziere pe fluviu."
+        ],
+        "en": [
+          "Kuntaur is the commercial heart of the Niani administrative area.",
+          "The town’s wharves are designed to handle heavy-duty agricultural freight.",
+          "It acts as the primary service center for the nearby historic stone circle sites.",
+          "The river at Kuntaur is a major habitat for hippos and crocodiles.",
+          "Kuntaur’s rice production is a model for national self-sufficiency programs.",
+          "The town hosts a weekly market that is a major social and economic event."
+        ]
+      }
+    },
+    {
+      "id": "bwiam-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bwiam ist eine bedeutende Stadt im Distrikt Foni Kansala der West Coast Region Gambias. Sie liegt an der South Bank Road, etwa 90 Kilometer östlich von Banjul, und dient als wichtiges Dienstleistungs- und Handelszentrum für das Foni-Gebiet. Bwiam ist vor allem für das Bwiam General Hospital bekannt, eine der leistungsfähigsten medizinischen Einrichtungen im ländlichen Gambia, das Patienten aus einem weiten Umkreis versorgt. Die Stadt ist zudem ein Zentrum der Jola-Bevölkerung, deren kulturelle Identität die Atmosphäre des Ortes prägt. Geografisch liegt Bwiam in einer leicht hügeligen Waldlandschaft, die reich an Cashew- und Mangoplantagen ist. Die Umgebung der Stadt ist durch kleine Flussschleifen (Bolongs) gekennzeichnet, die in den Gambia-Fluss münden und wichtige Ökosysteme für Vögel und Reptilien darstellen. Wirtschaftlich ist Bwiam ein Sammelpunkt für Agrarprodukte und ein wichtiger Transitort für den Verkehr nach Casamance und ins östliche Gambia. Trotz des Wachstums hat Bwiam einen freundlichen, ländlichen Charakter bewahrt, wobei die Gemeinschaft eng mit der umliegenden Natur verbunden ist. Für Reisende ist die Stadt ein unverzichtbarer Halt für medizinische Versorgung oder zur Erkundung der reichen Flora und Fauna des Foni-Hinterlandes.",
+        "hu": "Bwiam Gambia Nyugati Part (West Coast) régiójának egyik legfontosabb települése, a Foni Kansala körzet központja. A Banjultól mintegy 90 kilométerre keletre, a déli parti főút mentén fekvő város stratégiai szolgáltató központ a térségben. Bwiam legismertebb intézménye a városi kórház (Bwiam General Hospital), amely kiemelkedő színvonalú ellátást nyújt a vidéki lakosság számára, és gyakran nemzetközi orvoscsoportok bázisaként is szolgál. A város a jola népcsoport egyik fellegvára, akiknek gazdag kulturális hagyományai és mezőgazdasági tudása meghatározza a település életét. A domborzatot enyhén hullámzó, erdős táj jellemzi, ahol hatalmas kesudió- és mangóültetvények találhatók. Bwiam környékén számos kisebb folyóág (bolong) húzódik, amelyek a Gambia-folyóba torkollanak, gazdag madárvilágnak adva otthont. Gazdaságilag a város fontos kereskedelmi pont, ahol a környező falvak terményeit gyűjtik össze és értékesítik. A település fontos megállóhely a Szenegál déli része (Casamance) felé tartó utazók számára is. Bwiam barátságos, békés légköre és a természet közelsége miatt kedvelt célpontja azoknak, akik Gambia belső vidékeinek hiteles arcát szeretnék megismerni.",
+        "ro": "Bwiam este un oraș strategic situat în districtul Foni Kansala din regiunea West Coast a Gambiei, ocupând o poziție centrală pe drumul principal de pe malul sudic. Localitatea este renumită la nivel național pentru Spitalul General din Bwiam, o instituție medicală de elită care deservește o populație vastă din zonele rurale și atrage pacienți chiar și din Senegal. Din punct de vedere demografic, Bwiam este un bastion al etniei Jola, cultura acestora fiind reflectată în tradițiile agrare și în organizarea socială a comunității. Relieful din jurul orașului este caracterizat printr-o alternanță între păduri dese și plantații vaste de caju, regiunea fiind unul dintre principalii furnizori de fructe pentru export. Geografia locală este influențată de prezența numeroaselor pârâuri (bolongs) care se varsă în fluviul Gambia, oferind habitate naturale protejate pentru o biodiversität variată. Economia din Bwiam gravitează în jurul serviciilor de sănătate, educației și comerțului cu produse agricole. Orașul funcționează ca un punct de tranzit vital între capitală și provinciile estice, oferind infrastructură esențială pentru călători. Pentru vizitatori, Bwiam oferă o perspectivă autentică asupra ospitalității Jola și este o bază excelentă pentru explorarea ecosistemelor de pădure și lagună din zona Foni. Este un model de dezvoltare rurală unde serviciile publice de calitate susțin creșterea comunității.",
+        "en": "Bwiam is a prominent town in the Foni Kansala District of The Gambia’s West Coast Region. Located along the South Bank Road, approximately 90 kilometers east of Banjul, it serves as a vital service and commercial hub for the Foni area. Bwiam is best known for its General Hospital, which is widely regarded as one of the most efficient medical facilities in rural Gambia, providing critical healthcare to patients across the region. The town is a major cultural center for the Jola people, whose identity and agricultural expertise are deeply woven into the local way of life. Geographically, Bwiam is nestled in a lush, wooded landscape dominated by cashew and mango orchards. The surrounding area is crisscrossed by several winding tidal creeks (bolongs) that drain into the Gambia River, creating rich ecosystems for various bird and reptile species. Economically, the town functions as a collection point for local farm produce and a key transit stop for traffic heading to the southern Casamance region of Senegal and eastern Gambia. Despite its growth, Bwiam has maintained a serene, rural charm where community life is closely connected to the surrounding natural environment. For travelers, the town is an essential stop for medical services and a gateway to exploring the biodiversity of the Foni hinterland."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bwiam beherbergt eines der modernsten Krankenhäuser im ländlichen Gambia.",
+          "Die Stadt ist ein Zentrum der Jola-Kultur in der West Coast Region.",
+          "Bwiam liegt strategisch günstig an der Hauptstraße zum Osten des Landes.",
+          "Die Umgebung ist für ihre produktiven Cashew-Plantagen bekannt.",
+          "In der Nähe von Bwiam finden sich wichtige prähistorische Fundstätten.",
+          "Die Stadt verfügt über ein bedeutendes regionales Bildungszentrum."
+        ],
+        "hu": [
+          "A Bwiam General Hospital híres a magas színvonalú laboratóriumi kutatásairól.",
+          "A város környéki erdőkben ritka majomfajok, például vörös kolobuszok élnek.",
+          "Bwiam fontos bázisa a nemzeti öntözési és mezőgazdasági programoknak.",
+          "A településen hagyományos jola maszkos táncokat is láthatnak az utazók.",
+          "A város neve mandinka nyelven 'árnyékos helyet' jelent.",
+          "Itt található a régió egyik legfontosabb rendőrkapitánysága."
+        ],
+        "ro": [
+          "Spitalul din Bwiam este susținut prin parteneriate internaționale cu medici europeni.",
+          "Localitatea este un punct cheie pentru colectarea lemnului de foc sustenabil.",
+          "Relieful din Bwiam include zone de mlaștină utilizate pentru orezul de apă dulce.",
+          "Comunitatea locală este renumită pentru sistemele de auto-ajutorare socială.",
+          "Bwiam servește drept punct de colectare pentru mierea produsă în pădurile Foni.",
+          "Districtele din jur sunt recunoscute pentru reziliența în conservarea pădurilor comunitare."
+        ],
+        "en": [
+          "Bwiam acts as the administrative seat of the Foni Kansala district.",
+          "The town is a significant site for the Gambian Red Cross Society's activities.",
+          "It features some of the best-preserved mangrove creeks in the middle river zone.",
+          "Bwiam is a major supplier of fresh fruit to the markets of Serekunda.",
+          "The town's social structure is heavily based on traditional Jola values.",
+          "It remains a key landmark for travelers on the trans-Gambian south bank route."
+        ]
+      }
+    }
+  ]
+}

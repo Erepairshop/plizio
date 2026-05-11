@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": "Das größte tropische Regenwaldgebiet in Mexiko, beheimatet eine außergewöhnliche Flora und Fauna.",
+      "facts": ["Tropischer Regenwald", "Chiapas-Region", "Hohe Artenvielfalt"]
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": "Ein riesiges Schutzgebiet auf der Halbinsel Baja California, wichtig für den Schutz der Grauwale.",
+      "facts": ["Baja California", "Grauwal-Schutzgebiet", "UNESCO-Welterbe"]
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": "Ein bekanntes Naturschutzgebiet an der Westküste von Yucatán, berühmt für seine Flamingo-Kolonien.",
+      "facts": ["Westküste Yucatán", "Flamingo-Kolonien", "Mangroven-Ökosystem"]
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": "Ein Gemeindeprojekt an der Küste von Oaxaca, das sich dem Schutz der Meeresschildkröten widmet.",
+      "facts": ["Oaxaca-Küste", "Meeresschildkröten-Schutz", "Gemeindebasiertes Projekt"]
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": "Ein bergiges Naturschutzgebiet im Bundesstaat Veracruz, das ein Mosaik aus verschiedenen Ökosystemen darstellt.",
+      "facts": ["Veracruz", "Bergregion", "Diverse Ökosysteme"]
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": "Ein ökologisch vielfältiges Biosphärenreservat im Bundesstaat Querétaro mit beeindruckenden Landschaften.",
+      "facts": ["Biosphärenreservat", "Querétaro", "Ökologische Vielfalt"]
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": "Eine entspannte Insel nördlich der Halbinsel Yucatán, bekannt für Walhaie und eine ruhige Atmosphäre.",
+      "facts": ["Nördlich von Yucatán", "Walhaie", "Autofreie Insel"]
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": "Eine malerische Insel vor der Küste von Cancún, geschätzt für ihre weißen Sandstrände und das türkisblaue Wasser.",
+      "facts": ["Vor Cancún", "Sandstrände", "Schnorchelparadies"]
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": "Eine Insel im Pátzcuaro-See, berühmt für ihre traditionellen Fischer und die Totenfeiern (Día de los Muertos).",
+      "facts": ["Pátzcuaro-See", "Fischer-Tradition", "Día de los Muertos"]
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": "Ein unberührtes Inselparadies im Golf von Kalifornien, bekannt für seine beeindruckenden Felsformationen und marine Tierwelt.",
+      "facts": ["Golf von Kalifornien", "Marine Tierwelt", "UNESCO-Biosphärenreservat"]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ma-tanger-med-port-economic-v2",
+      "description": "Tangier Med is one of Africa's largest ports and a vital maritime gateway between Europe and Africa.",
+      "facts": ["Africa's largest port", "Europe-Africa gateway", "Major trade hub"]
+    },
+    {
+      "id": "ma-renault-tangier-economic-v2",
+      "description": "The Renault Tangier plant is a major automotive manufacturing facility, contributing significantly to Morocco's industrial sector.",
+      "facts": ["Automotive manufacturing", "Tangier", "Industrial sector"]
+    },
+    {
+      "id": "ma-al-qarawiyyin-history-v2",
+      "description": "Al-Qarawiyyin University in Fès is one of the oldest universities in the world, a center of Islamic learning and culture.",
+      "facts": ["Oldest university", "Fès", "Islamic learning"]
+    },
+    {
+      "id": "ma-tinmal-mosque-history-v2",
+      "description": "Tinmal Mosque, nestled in the Atlas Mountains, is a significant historical site and an architectural marvel of the Almohad dynasty.",
+      "facts": ["Atlas Mountains", "Almohad dynasty", "Historical site"]
+    },
+    {
+      "id": "ma-sijilmasa-ruins-history-v2",
+      "description": "Sijilmasa was a medieval city and a major trade hub on the trans-Saharan routes, now an extensive archaeological site.",
+      "facts": ["Medieval city", "Trans-Saharan trade", "Archaeological site"]
+    },
+    {
+      "id": "ma-dar-al-makhzen-rabat-history-v2",
+      "description": "Dar al-Makhzen in Rabat is the official residence of the King of Morocco, showcasing impressive Islamic architecture.",
+      "facts": ["Royal Palace", "Rabat", "Islamic architecture"]
+    },
+    {
+      "id": "ma-casablanca-cathedral-landmarks-v2",
+      "description": "Casablanca Cathedral, also known as Sacred Heart Church, is a stunning example of Art Deco architecture with neo-Gothic influences.",
+      "facts": ["Art Deco architecture", "Casablanca", "Neo-Gothic influences"]
+    },
+    {
+      "id": "ma-marrakech-dar-el-bacha-landmarks-v2",
+      "description": "Dar el Bacha in Marrakech is a magnificent palace, once a pasha's residence and now a museum of Moroccan culture.",
+      "facts": ["Marrakech palace", "Museum of culture", "Pasha's residence"]
+    },
+    {
+      "id": "ma-rabat-saint-pierre-cathedral-landmarks-v2",
+      "description": "Saint Peter's Cathedral in Rabat is a Roman Catholic cathedral known for its distinctive twin towers and European architectural style.",
+      "facts": ["Roman Catholic cathedral", "Rabat", "European architecture"]
+    },
+    {
+      "id": "marrakech-palmeraie-kid-landmark-life-v2",
+      "description": "The Palmeraie of Marrakech is a vast palm grove offering a tranquil escape for camel rides and relaxation.",
+      "facts": ["Palm grove", "Marrakech", "Camel rides"]
+    },
+    {
+      "id": "dakhla-bird-habitat-life-v2",
+      "description": "Dakhla Bay is a crucial bird habitat, especially for flamingos and other migratory species, in the Western Sahara.",
+      "facts": ["Bird habitat", "Western Sahara", "Flamingos"]
+    },
+    {
+      "id": "berkane-fruit-agriculture-life-v2",
+      "description": "Berkane is a fertile region known for its citrus fruit production, especially oranges and clementines.",
+      "facts": ["Citrus fruit production", "Fertile region", "Agricultural hub"]
+    },
+    {
+      "id": "oued-noun-agriculture-life-v2",
+      "description": "The Oued Noun region is characterized by traditional agriculture, with date palms and argan trees dominating the landscape.",
+      "facts": ["Traditional agriculture", "Date palms", "Argan trees"]
+    },
+    {
+      "id": "meknes-zoo-kid-landmark-life-v2",
+      "description": "Meknes Zoo offers a collection of regional and exotic animals, providing an educational experience for families.",
+      "facts": ["Regional and exotic animals", "Meknes", "Educational experience"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "The Moroccan Sahara is the natural habitat for dromedary camels, essential for desert transport and nomadic life.",
+      "facts": ["Dromedary camels", "Desert transport", "Nomadic life"]
+    }
+  ]
+}

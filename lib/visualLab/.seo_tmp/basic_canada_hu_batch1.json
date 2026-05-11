@@ -1,0 +1,102 @@
+{
+  "lang": "hu",
+  "country": "Canada",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCanadaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "swift-current-cities-v2",
+      "description": "Saskatchewan tartomány délnyugati részén fekvő város, amely a Transz-Kanada autópálya mentén fontos közlekedési csomópont.",
+      "facts": [
+        "Népessége körülbelül 16 000 fő.",
+        "1883-ban alapították a vasútvonal mentén.",
+        "A Swift Current Creek nevű patakról kapta nevét."
+      ]
+    },
+    {
+      "id": "st-johns-port-economic-v2",
+      "description": "Észak-Amerika egyik legkeletibb és legősibb kikötője Új-Fundland szigetén, amely stratégiai fontosságú az atlanti kereskedelemben.",
+      "facts": [
+        "Az egyik legmélyebb természetes kikötő a kontinensen.",
+        "Fontos bázis az offshore olajipar és a halászat számára.",
+        "1497-ben fedezték fel az európaiak."
+      ]
+    },
+    {
+      "id": "gooderham-building-landmarks-v2",
+      "description": "Toronto egyik ikonikus, \"vasaló\" alakú téglaépülete, amely 1892-ben épült a pénzügyi negyed szélén.",
+      "facts": [
+        "Ötemeletes, vörös téglaépület.",
+        "Eredetileg a Gooderham & Worts lepárló irodája volt.",
+        "A város egyik legtöbbet fotózott műemléke."
+      ]
+    },
+    {
+      "id": "toronto-zoo-life-v2",
+      "description": "Kanada legnagyobb állatkertje, amely több mint 700 holdon terül el és több ezer állatfajnak ad otthont.",
+      "facts": [
+        "1974-ben nyitotta meg kapuit.",
+        "Híres a fajmegőrzési programjairól.",
+        "Hét különböző földrajzi zónára tagolódik."
+      ]
+    },
+    {
+      "id": "calgary-zoo-life-v2",
+      "description": "Alberta tartomány leglátogatottabb állatkertje, amely a St. George's Islanden található a Bow-folyó közepén.",
+      "facts": [
+        "1929-ben alapították.",
+        "Különleges dinoszaurusz parkkal rendelkezik.",
+        "Kanada első akkreditált állatkertje volt."
+      ]
+    },
+    {
+      "id": "granby-zoo-life-v2",
+      "description": "Québec tartomány legnagyobb állatkertje, amely az állatbemutatók mellett egy víziparkkal is várja a látogatókat.",
+      "facts": [
+        "1953-ban alapította Horace Boivin.",
+        "Több mint 1500 állat él itt 225 fajból.",
+        "Fontos oktatási és kutatási központ."
+      ]
+    },
+    {
+      "id": "vancouver-aquarium-life-v2",
+      "description": "A Stanley Parkban található közintézmény, amely Kanada első és egyik legnagyobb tengeri élővilágát bemutató központja.",
+      "facts": [
+        "1956-ban nyílt meg.",
+        "Úttörő szerepet játszott a tengeri emlősök mentésében.",
+        "Több mint 65 000 állatot mutat be."
+      ]
+    },
+    {
+      "id": "ripleys-aquarium-canada-life-v2",
+      "description": "Toronto belvárosában, a CN Tower lábánál fekvő modern akvárium, amely lenyűgöző vízalatti alagutakkal rendelkezik.",
+      "facts": [
+        "2013-ban nyílt meg a nagyközönség előtt.",
+        "5,7 millió literes tartályában cápák is láthatók.",
+        "Észak-Amerika leghosszabb mozgójárdás alagútja van itt."
+      ]
+    },
+    {
+      "id": "african-lion-safari-life-v2",
+      "description": "Ontario tartományban található szafari park, ahol a látogatók saját autójukkal hajthatnak át a szabadon élő vadállatok között.",
+      "facts": [
+        "1969-ben nyitották meg Hamilton közelében.",
+        "Több mint 100 faj és 1000 állat látható itt.",
+        "Nemzetközileg elismert az ázsiai elefántok tenyésztésében."
+      ]
+    },
+    {
+      "id": "calaway-park-life-v2",
+      "description": "Nyugat-Kanada legnagyobb szabadtéri vidámparkja, amely Calgary közelében, a Sziklás-hegység lábánál fekszik.",
+      "facts": [
+        "1982-ben nyílt meg.",
+        "32 különböző játékot és hullámvasutat kínál.",
+        "Szezonálisan, tavasztól őszig üzemel."
+      ]
+    }
+  ]
+}

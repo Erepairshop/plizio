@@ -1,0 +1,42 @@
+{
+  "lang": "de",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMaliLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kourou-river-nature-v2",
+      "description": "Der Kourou-Fluss schlängelt sich durch ein Tal und speist die lokale Flora mit lebenswichtigem Wasser. Die Ufer sind von einer dichten Vegetation bewachsen, die als Rückzugsort dient.",
+      "facts": ["Flusstal", "Lokale Flora", "Dichte Ufervegetation", "Rückzugsort"]
+    },
+    {
+      "id": "lake-aougoundou-nature-v2",
+      "description": "Der Aougoundou-See ist ein Wasserbecken, das während der saisonalen Regenfälle an Bedeutung gewinnt. Er unterstützt die lokale Fauna in einer wasserarmen Gegend.",
+      "facts": ["Wasserbecken", "Saisonale Regenfälle", "Lokale Fauna", "Wasserarm"]
+    },
+    {
+      "id": "mount-bougouni-nature-v2",
+      "description": "Das Berggebiet um Bougouni ist durch seine sanften Hügel und die üppige Vegetation im Süden bekannt. Es ist ein wichtiger Teil des dortigen Ökosystems.",
+      "facts": ["Berggebiet", "Sanfte Hügel", "Üppige Vegetation", "Süd-Ökosystem"]
+    },
+    {
+      "id": "lake-nianga-nature-v2",
+      "description": "Der Nianga-See dient als lokales Reservoir für Wasser und ist ein wichtiger Punkt für die lokale Landwirtschaft. Er bietet zudem Nistplätze für verschiedene Vögel.",
+      "facts": ["Reservoir", "Landwirtschaft", "Vogelnistplatz", "Regionale Bedeutung"]
+    },
+    {
+      "id": "mount-sikasso-nature-v2",
+      "description": "Die Berglandschaft rund um Sikasso ist geprägt von tropischen Einflüssen und bietet eine abwechslungsreiche Topografie. Die Hänge sind teils bewaldet.",
+      "facts": ["Berglandschaft", "Tropische Einflüsse", "Topografie", "Bewaldete Hänge"]
+    },
+    {
+      "id": "bafing-makana-river-nature-v2",
+      "description": "Der Bafing-Makana ist ein wichtiger Flusslauf, dessen Wasser für die Region unverzichtbar ist. Das Einzugsgebiet ist durch eine hohe Artenvielfalt gekennzeichnet.",
+      "facts": ["Flusslauf", "Wasserquelle", "Hohe Artenvielfalt", "Unverzichtbar"]
+    }
+  ]
+}

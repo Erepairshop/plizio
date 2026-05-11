@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghana-tema-port",
+      "description": "Der größte Seehafen Ghanas liegt in Tema und ist ein wichtiges Logistikzentrum für Westafrika.",
+      "facts": ["Eröffnet im Jahr 1962.", "Verfügt über moderne Containerterminals.", "Tor für den internationalen Handel Ghanas."]
+    },
+    {
+      "id": "ghana-takoradi-port",
+      "description": "Der Hafen von Takoradi ist der älteste Tiefseehafen Ghanas und dient primär dem Export von Rohstoffen.",
+      "facts": ["Inbetriebnahme im Jahr 1928.", "Zentrum für den Export von Kakao und Mangan.", "Wichtig für die Öl- und Gasindustrie."]
+    },
+    {
+      "id": "ghana-anglogold-ashanti",
+      "description": "AngloGold Ashanti betreibt in Obuasi eine der bedeutendsten Goldminen der Welt.",
+      "facts": ["Großes Goldbergwerk in Obuasi.", "Seit über 100 Jahren in Betrieb.", "Wichtiger Arbeitgeber in der Region."]
+    },
+    {
+      "id": "ghana-akyem-gold",
+      "description": "Die Akyem-Goldmine ist ein bedeutendes Tagebauprojekt im Osten Ghanas, das von Newmont betrieben wird.",
+      "facts": ["Befindet sich in der Eastern Region.", "Modernes Bergbauprojekt.", "Strenge Umweltauflagen für den Betrieb."]
+    },
+    {
+      "id": "ghana-prestea-underground",
+      "description": "Die Prestea-Untertagemine blickt auf eine lange Tradition im Goldbergbau zurück und nutzt moderne Fördermethoden.",
+      "facts": ["Tiefgehende Goldbergbau-Anlage.", "Historischer Standort mit moderner Technik.", "Wichtige Quelle für hochwertiges Golderz."]
+    },
+    {
+      "id": "cape-coast-castle-history-v2",
+      "description": "Eine historische Festung an der Küste Ghanas, die eine zentrale Rolle im transatlantischen Sklavenhandel spielte.",
+      "facts": ["Erbaut von den Schweden im 17. Jh.", "Ehemaliges britisches Hauptquartier an der Goldküste.", "UNESCO-Weltkulturerbe."]
+    },
+    {
+      "id": "elmina-castle-history-v2",
+      "description": "Das älteste europäische Gebäude in Subsahara-Afrika wurde 1482 von den Portugiesen als Handelsstützpunkt errichtet.",
+      "facts": ["Erstes europäisches Kastell an der Goldküste.", "Später von den Niederländern erobert.", "Dunkles Zentrum des Sklavenhandels."]
+    },
+    {
+      "id": "osu-castle-history-v2",
+      "description": "Das in Accra gelegene Osu Castle, auch Fort Christiansborg genannt, diente lange Zeit als Regierungssitz Ghanas.",
+      "facts": ["Im 17. Jahrhundert von Dänen erbaut.", "Symbol der wechselvollen Kolonialgeschichte.", "Blick auf den Golf von Guinea."]
+    },
+    {
+      "id": "larabanga-mosque-history-v2",
+      "description": "Eine der ältesten Moscheen Westafrikas, erbaut im sudanesischen Lehmbaustil in der Savannah Region.",
+      "facts": ["Gegründet im 15. Jahrhundert.", "Bekannt als das 'Mekka Westafrikas'.", "Traditionelle Architektur aus Lehm und Holz."]
+    },
+    {
+      "id": "kumasi-fort-history-v2",
+      "description": "Das Fort in Kumasi wurde ursprünglich von den Briten im späten 19. Jahrhundert errichtet und beherbergt heute ein Militärmuseum.",
+      "facts": ["Zentrum während des Yaa-Asantewaa-Krieges.", "Einzige britische Festung im Landesinneren.", "Ausstellungsort für ghanaische Militärgeschichte."]
+    },
+    {
+      "id": "manhyia-palace-history-v2",
+      "description": "Der ehemalige Palast der Ashanti-Könige in Kumasi, der heute als Museum die reiche Kultur des Ashanti-Reiches präsentiert.",
+      "facts": ["Erbaut im Jahr 1925 von den Briten.", "Residenz des Asantehene.", "Zentrum politischer und spiritueller Macht."]
+    },
+    {
+      "id": "assin-manso-slave-river-history-v2",
+      "description": "Ein historischer Ort, an dem versklavte Menschen ihr letztes Bad auf afrikanischem Boden nahmen, bevor sie zur Küste getrieben wurden.",
+      "facts": ["Gedenkstätte für die Opfer des Sklavenhandels.", "Gehört zur 'Slave Route'.", "Ort der Besinnung und Erinnerung."]
+    }
+  ]
+}

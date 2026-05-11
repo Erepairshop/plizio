@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bissau-city-hall-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Rathaus von Bissau, offiziell Câmara Municipal de Bissau, ist ein bedeutendes administratives und architektonisches Wahrzeichen im Herzen der Hauptstadt. Das Gebäude ist ein klassisches Beispiel für die portugiesische Kolonialarchitektur des 20. Jahrhunderts und prägt mit seiner markanten Fassade das administrative Zentrum der Stadt. Es dient als Sitz der Stadtverwaltung und ist der Ort, an dem die kommunale Politik für die wachsende Metropole gestaltet wird. Die Architektur zeichnet sich durch klare Linien, symmetrische Formen und funktionale Elemente aus, die darauf ausgelegt waren, staatliche Autorität und Ordnung zu repräsentieren. Das Rathaus liegt in unmittelbarer Nähe zu anderen wichtigen Institutionen und historischen Plätzen, was es zu einem zentralen Orientierungspunkt für Bewohner und Besucher macht. Im Laufe der Jahrzehnte war das Gebäude Zeuge zahlreicher politischer Veränderungen und gesellschaftlicher Entwicklungen. Trotz der Herausforderungen durch das tropische Klima und die begrenzte Instandhaltung bewahrt das Bauwerk eine würdevolle Präsenz. Für die Bürger von Bissau ist die Câmara Municipal nicht nur ein Verwaltungsgebäude, sondern ein Symbol für die lokale Identität und den Wunsch nach einer geordneten und funktionierenden Stadtentwicklung in einem komplexen urbanen Umfeld.",
+        "hu": "Bissau városháza, hivatalos nevén Câmara Municipal de Bissau, a főváros adminisztratív és építészeti arculatának egyik meghatározó eleme. A 20. század közepén, a portugál gyarmati időszakban emelt épület a korszak hivatalos építészetének jegyeit hordozza: letisztult vonalvezetés, szimmetrikus homlokzat és funkcionális belső terek jellemzik. Az épület a városi önkormányzat székhelye, ahol a metropolisz mindennapi működését és fejlesztését irányító politikai döntések születnek. Elhelyezkedése stratégiai, hiszen a város legfontosabb kormányzati negyedében található, közel a kikötőhöz és a történelmi központoz. Az évtizedek során a városháza néma tanúja volt Guinea-Bissau viharos történelmének, a függetlenség kikiáltásától kezdve a modern államépítés kihívásaiig. Bár a trópusi éghajlat és a szűkös anyagi források nyomot hagytak a falakon, az épület továbbra is méltóságteljesen hirdeti a helyi közigazgatás folytonosságát. A lakosok számára a városháza a polgári identitás szimbóluma, egy olyan intézmény, amely összeköti a múltat a jövő várostervezési törekvéseivel, és kulcsszerepet játszik Bissau dinamikusan növekvő lakosságának kiszolgálásában.",
+        "ro": "Primăria din Bissau, cunoscută oficial sub numele de Câmara Municipal de Bissau, reprezintă un reper administrativ și arhitectural esențial în inima capitalei. Clădirea este un exemplu clasic al arhitecturii coloniale portugheze din secolul XX, dominând centrul civic prin fațada sa sobră și echilibrată. Aceasta servește drept sediu pentru administrația municipală, fiind locul unde se gestionează politicile urbane și serviciile publice pentru populația în continuă creștere a orașului. Designul arhitectural pune accent pe simetrie și funcționalitate, elemente menite să reflecte autoritatea și stabilitatea instituțională. Situată în proximitatea altor instituții de stat și a piețelor istorice, primăria constituie un punct focal pentru viața publică locală. De-a lungul deceniilor, edificiul a supraviețuit perioadelor de instabilitate politică, rămânând un simbol al continuității guvernării locale. Deși se confruntă cu provocări legate de întreținerea într-un climat tropical umed, primăria păstrează o prezență impunătoare. Pentru cetățenii din Bissau, acest edificiu nu este doar un centru birocratic, ci un simbol al identității urbane și al eforturilor de a crea o metropolă modernă și organizată în Africa de Vest.",
+        "en": "The Bissau City Hall, officially known as the Câmara Municipal de Bissau, is a major administrative and architectural landmark in the heart of the capital. Constructed during the mid-20th century under Portuguese colonial administration, the building exemplifies the formal architectural style of that era, featuring clean lines, a symmetrical facade, and functional interior spaces. It serves as the official seat of the municipal government, where the administrative and developmental policies for the expanding metropolis are coordinated. Its strategic location within the central government district, close to the port and historic center, makes it a primary navigational landmark. Over the decades, the City Hall has witnessed the many political shifts in Guinea-Bissau’s history, from the transition to independence to the challenges of modern urban governance. Despite the visible effects of the tropical climate and limited maintenance funds, the building maintains a dignified presence. For the residents of Bissau, the City Hall is a symbol of civic identity and the ongoing quest for structured urban growth, standing as a testament to the city’s historical continuity and its future aspirations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude wurde als Sitz der kommunalen Selbstverwaltung von Bissau errichtet.",
+          "Die Architektur ist ein typisches Beispiel für den portugiesischen Kolonialstil der 1940er Jahre.",
+          "Es befindet sich in der Nähe des historischen Zentrums Bissau-Velho.",
+          "Das Rathaus koordiniert die Dienstleistungen für über 400.000 Einwohner.",
+          "Vor dem Gebäude finden oft städtische Kundgebungen und Zeremonien statt.",
+          "Es ist eines der am besten erhaltenen Verwaltungsgebäude aus der Kolonialzeit."
+        ],
+        "hu": [
+          "Az épület a portugál gyarmati adminisztráció egyik központi bázisa volt.",
+          "Stílusa a modernista elemeket ötvözi a klasszikus európai városházi formákkal.",
+          "Itt székel Bissau polgármestere és a városi tanács.",
+          "Az épület fontos szerepet játszik a városi karnevál és más ünnepek szervezésében.",
+          "A városháza homlokzata népszerű fotótéma a fővárosba látogatók körében.",
+          "Belső udvara gyakran ad otthont kulturális kiállításoknak."
+        ],
+        "ro": [
+          "Edificiul a fost proiectat pentru a centraliza serviciile civile ale orașului.",
+          "Arhitectura sa reflectă influențele stilului 'Estado Novo' din Portugalia.",
+          "Este situat strategic pe una dintre arterele principale care duc spre port.",
+          "Primăria gestionează proiectele de infrastructură și salubritate ale capitalei.",
+          "Zidurile sale groase oferă o izolare termică naturală împotriva arșiței.",
+          "Clădirea este considerată un monument de interes public național."
+        ],
+        "en": [
+          "The building was established to centralize the municipal authority in Bissau.",
+          "Its design is characteristic of the late colonial architectural movement.",
+          "It is located at a key intersection in the administrative heart of the city.",
+          "The City Hall is responsible for managing the capital's rapid urban expansion.",
+          "It serves as a primary venue for official municipal and diplomatic meetings.",
+          "The structure remains an important link to Bissau’s 20th-century history."
+        ]
+      }
+    },
+    {
+      "id": "january-20-monument-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Monument des 20. Januar ist eine der heiligsten Gedenkstätten in Guinea-Bissau und erinnert an ein tragisches Ereignis, das den Verlauf der nationalen Geschichte für immer verändert hat. Am 20. Januar 1973 wurde Amílcar Cabral, der Gründer der PAIGC und der geistige Vater der Unabhängigkeit, in Conakry ermordet. Das Denkmal in Bissau dient als zentraler Ort der Erinnerung an seinen Opfertod und das Erbe seines Kampfes für die Freiheit. Die Architektur des Denkmals ist oft symbolisch und schlicht gehalten, um die Ernsthaftigkeit und Tiefe des Verlustes zu unterstreichen. Es ist ein Ort der nationalen Besinnung, an dem jedes Jahr am 20. Januar, dem 'Tag der Nationalhelden', hochrangige Staatszeremonien und Gedenkfeiern stattfinden. Das Monument symbolisiert nicht nur den Schmerz über den Tod Cabrals, sondern auch die Unbeugsamkeit des guineischen Volkes, das trotz des Verlustes seines Anführers den Kampf bis zur endgültigen Unabhängigkeit fortsetzte. Die Umgebung des Denkmals ist geprägt von einer feierlichen Stille, die einen starken Kontrast zum geschäftigen Alltag der Hauptstadt bildet. Für die Bürger von Guinea-Bissau ist dieser Ort ein Kompass ihrer nationalen Identität und eine ständige Mahnung an die Werte der Einheit, des Friedens und der sozialen Gerechtigkeit, für die Cabral sein Leben gab.",
+        "hu": "A Január 20-a emlékmű Guinea-Bissau egyik legfontosabb szakrális emlékhelye, amely a nemzeti történelem egyik legtragikusabb fordulatát idézi fel. 1973. január 20-án gyilkolták meg Conakryban Amílcar Cabralt, a PAIGC alapítóját és az ország függetlenségének szellemi atyját. A bissaui emlékmű központi szerepet tölt be a nemzeti emlékezetben, tisztelegve Cabral áldozata és a szabadságharc öröksége előtt. Az alkotás formavilága szimbolikus és puritán, tükrözve a gyász súlyát és a hősies ellenállást. Minden év január 20-án, a Nemzeti Hősök Napján, ez a helyszín ad otthont a legmagasabb szintű állami megemlékezéseknek és ünnepi koszorúzásoknak. Az emlékmű nem csupán Cabral halálának mementója, hanem a guineai nép megtörhetetlenségének jelképe is, hiszen a mozgalom vezére nélkül is végigvitték a függetlenségi küzdelmet. A környék nyugodt, méltóságteljes hangulata éles kontrasztban áll a főváros zajos hétköznapjaival, lehetőséget adva az elcsendesedésre és a reflexióra. A helyiek számára ez az emlékmű a nemzeti identitás sarokköve, amely folyamatosan emlékeztet az egységre, a békére és azokra az ideálokra, amelyekért az ország alapítója az életét adta.",
+        "ro": "Monumentul de la 20 Ianuarie este unul dintre cele mai solemne locuri de memorie din Guineea-Bissau, comemorând un eveniment tragic care a marcat profund destinul națiunii. La această dată, în anul 1973, Amílcar Cabral, fondatorul PAIGC și arhitectul intelectual al independenței, a fost asasinat la Conakry. Monumentul ridicat în Bissau servește drept punct central pentru onorarea sacrificiului său și a moștenirii luptei de eliberare. Arhitectura monumentului este caracterizată prin simplitate și simbolism, menită să evoce respectul și seriozitatea pierderii suferite de popor. În fiecare an, pe 20 ianuarie, declarată 'Ziua Eroilor Naționali', aici au loc ceremonii de stat oficiale și depuneri de coroane în prezența celor mai înalte autorități. Monumentul nu simbolizează doar durerea pricinuită de moartea lui Cabral, ci și determinarea neclintită a poporului guineean de a continua lupta până la obținerea suveranității depline. Atmosfera din jurul monumentului este una de reculegere, oferind un spațiu de reflecție în mijlocul dinamismului capitalei. Pentru cetățeni, acest loc reprezintă o busolă morală și un memento constant al valorilor de unitate și dreptate socială pentru care Cabral și-a jertfit viața.",
+        "en": "The January 20 Monument is one of the most hallowed memorial sites in Guinea-Bissau, commemorating a tragic event that forever altered the course of the nation's history. On January 20, 1973, Amílcar Cabral, the founder of the PAIGC and the intellectual father of independence, was assassinated in Conakry. The monument in Bissau serves as the primary focal point for honoring his sacrifice and the enduring legacy of the liberation struggle. Its architectural design is symbolic and minimalist, intended to reflect the gravity and profound sense of loss felt by the people. Every year on January 20th, observed as 'National Heroes' Day,' the site hosts major state ceremonies and commemorative events. The monument represents not only the sorrow of Cabral’s passing but also the unyielding spirit of the Bissau-Guinean people, who persisted in their fight for sovereignty despite the loss of their primary leader. The area surrounding the monument is characterized by a solemn tranquility that contrasts sharply with the bustling energy of the capital. For the citizens, this site is a cornerstone of national identity and a constant reminder of the principles of unity, peace, and social justice for which Cabral gave his life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Denkmal erinnert an die Ermordung von Amílcar Cabral am 20. Januar 1973.",
+          "Der 20. Januar ist in Guinea-Bissau ein offizieller nationaler Feiertag.",
+          "Es ist der zentrale Ort für die Feierlichkeiten zum Tag der Nationalhelden.",
+          "Die Gestaltung des Denkmals betont das Thema Opferbereitschaft und Befreiung.",
+          "Es liegt in einem Bereich, der der Geschichte der PAIGC gewidmet ist.",
+          "Das Monument wird oft von Schulklassen besucht, um die nationale Geschichte zu lernen."
+        ],
+        "hu": [
+          "Az emlékmű Amílcar Cabral, a nemzet atyja halálának napjára utal.",
+          "A helyszín a bissaui hazafias megemlékezések legfontosabb pontja.",
+          "Január 20-a az ország egyik legfontosabb munkaszüneti napja.",
+          "Az emlékműnél tartott beszédek gyakran az afrikai egység fontosságát hangsúlyozzák.",
+          "Az alkotás a forradalmi szimbolika egyik legismertebb példája a városban.",
+          "A terület gondozott környezete méltó keretet ad a nemzeti gyásznak."
+        ],
+        "ro": [
+          "Monumentul este punctul zero al ceremoniilor de Ziua Eroilor Naționali.",
+          "Marchează momentul asasinatului lui Cabral cu doar câteva luni înainte de independență.",
+          "Este un loc de pelerinaj pentru simpatizanții mișcărilor pan-africane.",
+          "Designul monumentului include adesea flacăra eternă a libertății.",
+          "Se află într-o zonă protejată din punct de vedere istoric și militar.",
+          "Simbolizează trecerea de la ideologie la realitatea statului independent."
+        ],
+        "en": [
+          "The monument commemorates the assassination of Amílcar Cabral in 1973.",
+          "January 20th is a significant national holiday known as Heroes' Day.",
+          "The site hosts the annual main state tribute led by the President.",
+          "It is a powerful symbol of the intellectual foundations of the republic.",
+          "The surrounding plaza is a space for public reflection on national values.",
+          "The monument is a key part of the 'historic circuit' in central Bissau."
+        ]
+      }
+    },
+    {
+      "id": "new-national-assembly-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das neue Gebäude der Nationalversammlung (Assembleia Nacional Popular) ist das architektonische Symbol der Demokratie und der legislativen Gewalt in Guinea-Bissau. Auf einem Hügel in der Region Colinas de Boé gelegen, dominiert der moderne Komplex die Skyline der Hauptstadt. Das Gebäude wurde mit massiver finanzieller und technischer Unterstützung der Volksrepublik China errichtet und im Jahr 2005 offiziell eingeweiht. Die Architektur ist durch monumentale Formen, weitläufige Säulenhallen und eine markante Kuppel gekennzeichnet, die Stabilität und nationale Würde ausstrahlen sollen. Im Inneren beherbergt der Komplex den Plenarsaal, in dem die 102 Abgeordneten des Landes über Gesetze debattieren, sowie zahlreiche Ausschussräume und Verwaltungsbüros. Die Lage des Parlaments auf einer Anhöhe bietet nicht nur einen weiten Blick über Bissau, sondern symbolisiert auch die Erhabenheit der gewählten Volksvertretung über den Alltag. Trotz der turbulenten politischen Geschichte des Landes bleibt die Assembleia Nacional Popular der zentrale Ort für den demokratischen Diskurs und die parlamentarische Arbeit. Der Komplex ist von gepflegten Grünanlagen umgeben und streng bewacht, was seine Bedeutung als eine der wichtigsten staatlichen Institutionen unterstreicht.",
+        "hu": "A nemzetgyűlés új épülete (Assembleia Nacional Popular) a demokrácia és a törvényhozó hatalom modern szimbóluma Guinea-Bissauban. A Bissau szélén, a Colinas de Boé dombjain elhelyezkedő monumentális komplexum messze kimagaslik a főváros látképéből. Az épületet a Kínai Népköztársaság jelentős pénzügyi és technikai támogatásával emelték, és 2005-ben adták át ünnepélyes keretek között. Az építészetét robusztus formák, hatalmas oszlopsorok és egy jellegzetes kupola határozza meg, amelyek az állami stabilitást és a nemzeti méltóságot hivatottak sugározni. Odabenn található a nagy ülésterem, ahol az ország 102 képviselője vitázik a törvényekről, valamint számos bizottsági szoba és adminisztratív iroda kapott helyet. Az, hogy a parlament egy dombtetőn épült fel, nemcsak kiváló kilátást biztosít a városra, hanem szimbolikusan is kifejezi a népképviselet magasztosságát. Guinea-Bissau viharos politikai múltja ellenére a nemzetgyűlés épülete marad a demokratikus párbeszéd és a parlamentarizmus központi helyszíne. A komplexumot gondozott parkok övezik és szigorú őrizet alatt áll, jelezve, hogy ez az ország egyik legfontosabb közjogi intézménye.",
+        "ro": "Noul sediu al Adunării Naționale Populare reprezintă simbolul arhitectural al democrației și al puterii legislative în Guineea-Bissau. Situat pe o colină în zona Colinas de Boé, acest complex modern domină orizontul capitalei Bissau prin dimensiunile sale impunătoare. Clădirea a fost realizată cu sprijin financiar și tehnic masiv din partea Republicii Populare Chineze, fiind inaugurată oficial în anul 2005. Arhitectura se remarcă prin forme monumentale, coloane vaste și o cupolă distinctivă, elemente concepute pentru a proiecta imaginea de stabilitate și demnitate națională. În interior, complexul adăpostește sala plenară unde cei 102 deputați ai țării dezbat legile fundamentale, precum și numeroase birouri administrative și săli de comisie. Poziționarea parlamentului pe o înălțime nu oferă doar o panoramă spectaculoasă asupra orașului, ci simbolizează și preeminența voinței populare exprimate prin vot. În ciuda perioadelor de instabilitate politică din istoria recentă a țării, Adunarea Națională Populară rămâne forul central al discursului democratic. Înconjurat de spații verzi bine întreținute și aflat sub pază strictă, edificiul este una dintre cele mai importante instituții ale statului guineean.",
+        "en": "The New National Assembly building (Assembleia Nacional Popular) stands as the modern architectural symbol of democracy and legislative power in Guinea-Bissau. Perched on a hill in the Colinas de Boé district, this monumental complex dominates the skyline of the capital, Bissau. Constructed with significant financial and technical assistance from the People's Republic of China, it was officially inaugurated in 2005. The architecture is characterized by its grand scale, featuring extensive colonnades and a prominent dome designed to convey national dignity and institutional stability. Inside, the complex houses the main plenary hall where the nation’s 102 deputies debate legislation, along with various committee rooms and administrative offices. The building's elevated location not only provides a sweeping view of the city but also symbolically represents the importance of the people's representatives. Despite the nation's turbulent political history, the National Assembly remains the central arena for democratic discourse and parliamentary activity. Surrounded by landscaped gardens and subject to high security, it is one of the most vital state institutions in the Republic of Guinea-Bissau."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Parlamentsgebäude wurde als Geschenk der chinesischen Regierung errichtet.",
+          "Es wurde 2005 eingeweiht und ersetzte ältere provisorische Tagungsorte.",
+          "In der Nationalversammlung tagen insgesamt 102 gewählte Abgeordnete.",
+          "Das Gebäude liegt auf den strategisch bedeutsamen Colinas de Boé.",
+          "Die Architektur kombiniert moderne Elemente mit klassischer Monumentalität.",
+          "Es ist der Ort der Vereidigung des gewählten Präsidenten des Landes."
+        ],
+        "hu": [
+          "Az épület felépítése a kínai-guineai diplomáciai kapcsolatok egyik mérföldköve.",
+          "A parlament 2005-ben költözött be ebbe a modern komplexumba.",
+          "A nemzetgyűlés 102 tagból áll, akiket négyévente választanak meg.",
+          "Az épület kupolája Bissau egyik legismertebb tájékozódási pontja.",
+          "A területen található kertek állami fogadások helyszínéül is szolgálnak.",
+          "Itt zajlanak a legfontosabb nemzeti törvényhozási viták."
+        ],
+        "ro": [
+          "Clădirea a fost finanțată integral de China ca simbol al cooperării bilaterale.",
+          "Este sediul oficial al celor 102 membri ai parlamentului unicameral.",
+          "Inaugurarea în 2005 a marcat o nouă etapă în stabilizarea instituțională.",
+          "Cupola centrală este vizibilă din majoritatea cartierelor din Bissau.",
+          "Accesul în incintă este strict reglementat pentru publicul larg.",
+          "Găzduiește arhiva legislativă națională a Guineei-Bissau."
+        ],
+        "en": [
+          "The building was constructed as a diplomatic gift from the Chinese government.",
+          "It was completed in 2005 and serves as the seat of the unicameral parliament.",
+          "The assembly consists of 102 deputies representing all regions of the country.",
+          "Its location in Colinas de Boé offers one of the best views over the capital.",
+          "The architecture is designed to represent the strength of the young democracy.",
+          "It is the primary site for constitutional debates and presidential inaugurations."
+        ]
+      }
+    },
+    {
+      "id": "supreme-court-bissau-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Oberste Gerichtshof (Supremo Tribunal de Justiça) in Bissau ist das höchste Organ der rechtsprechenden Gewalt in Guinea-Bissau und ein zentraler Pfeiler des Rechtsstaates. Das Gebäude, das sich im administrativen Herzen der Hauptstadt befindet, strahlt durch seine Architektur Autorität und Seriosität aus. Es ist der Ort, an dem über die Verfassungsmäßigkeit von Gesetzen entschieden wird und der als letzte Instanz in zivil- und strafrechtlichen Angelegenheiten fungiert. Die Architektur des Gerichtsgebäudes ist oft durch einen klassischen administrativen Stil geprägt, der auf Funktionalität und formale Eleganz setzt. Im Inneren beherbergt es die Sitzungssäle der Richter sowie die Büros der juristischen Verwaltung. Der Oberste Gerichtshof spielt eine entscheidende Rolle bei der Sicherung der Gewaltenteilung und der Wahrung der Grundrechte der Bürger in einer oft herausfordernden politischen Umgebung. Die Institution ist ein Symbol für das Streben Guinea-Bissaus nach Gerechtigkeit und Rechtsklarheit. Die unmittelbare Umgebung des Gerichts ist geprägt von anderen staatlichen Institutionen, was seine Bedeutung im Gefüge der nationalen Macht unterstreicht. Für Juristen und politisch Interessierte ist das Gebäude ein wichtiger Anlaufpunkt, um die Funktionsweise des guineischen Rechtssystems zu verstehen.",
+        "hu": "A bissaui Legfelsőbb Bíróság (Supremo Tribunal de Justiça) a Bissau-guineai igazságszolgáltatási rendszer csúcsszerve és a jogállamiság egyik legfőbb tartóoszlopa. A főváros adminisztratív központjában található épület építészete tekintélyt és komolyságot sugároz, tükrözve az intézmény súlyát a nemzeti jogrendben. Ez a bíróság hozza meg a végső döntéseket polgári és büntetőjogi ügyekben, valamint felügyeli a törvények alkotmányosságát. Az épület stílusa a klasszikus közigazgatási építészetet követi, ahol a funkcionalitás és a formális elegancia találkozik. A belső terekben tárgyalótermek, bírói irodák és az igazságügyi adminisztráció központjai kaptak helyet. A Legfelsőbb Bíróság kulcsszerepet játszik a hatalmi ágak szétválasztásában és az állampolgári jogok védelmében, még a gyakran nehéz politikai környezetben is. Az intézmény a nemzeti igazságosság és a jogbiztonság iránti törekvés jelképe. A bíróság épülete más fontos állami intézmények szomszédságában áll, ami tovább hangsúlyozza központi szerepét az államszervezetben. A látogatók és a jogi szakemberek számára ez az épület Guinea-Bissau modern jogrendszerének és demokratikus intézményeinek egyik legfontosabb reprezentatív helyszíne.",
+        "ro": "Curtea Supremă de Justiție (Supremo Tribunal de Justiça) din Bissau reprezintă instanța supremă a puterii judiciare în Guineea-Bissau și un pilon fundamental al statului de drept. Situată în centrul administrativ al capitalei, clădirea proiectează prin arhitectura sa o imagine de autoritate și solemnitate, specifică instituțiilor care veghează asupra legii. Este locul unde se iau deciziile finale în materie civilă și penală și unde se exercită controlul constituționalității actelor normative. Arhitectura sediului urmează un stil administrativ clasic, punând accent pe funcționalitate și rigoare formală. În interior, complexul cuprinde săli de judecată pentru magistrați și birourile necesare administrației judiciare. Curtea Supremă joacă un rol vital în asigurarea separării puterilor în stat și în protejarea drepturilor fundamentale ale cetățenilor, într-un context politic adesea complex. Instituția simbolizează aspirația Guineei-Bissau către o justiție echitabilă și claritate legislativă. Proximitatea sa față de alte instituții majore ale statului subliniază importanța sa strategică în arhitectura puterii naționale. Pentru observatorii sistemului juridic vest-african, clădirea Curții Supreme este un reper esențial al evoluției democratice a țării.",
+        "en": "The Supreme Court of Justice (Supremo Tribunal de Justiça) in Bissau is the highest judicial body in Guinea-Bissau and a cornerstone of the nation's legal system. Located in the administrative heart of the capital, the building’s architecture conveys a sense of authority and gravity, reflecting its significant role in national governance. It serves as the final court of appeal for civil and criminal cases and holds the power of constitutional review. The building's design follows a classic administrative style, emphasizing functionality and formal elegance. Inside, it houses the chambers of the justices, deliberation rooms, and the central administrative offices of the judiciary. The Supreme Court plays a pivotal role in maintaining the separation of powers and protecting the fundamental rights of citizens within a frequently challenging political landscape. The institution is a vital symbol of Guinea-Bissau's pursuit of justice and legal certainty. Its proximity to other major state institutions further highlights its importance within the national power structure. For legal professionals and those interested in West African governance, the Supreme Court building is a key landmark representing the modern legal and democratic foundations of the country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Oberste Gerichtshof ist die letzte Instanz des guineischen Rechtssystems.",
+          "Das Gebäude befindet sich im zentralen Justizviertel von Bissau.",
+          "Die Richter des Gerichts werden vom Präsidenten des Landes ernannt.",
+          "Es spielt eine Schlüsselrolle bei der Überprüfung der Wahlergebnisse.",
+          "Die Architektur ist schlicht und auf die administrative Nutzung ausgerichtet.",
+          "Es ist ein wichtiges Symbol für die Unabhängigkeit der Justiz."
+        ],
+        "hu": [
+          "A Legfelsőbb Bíróság épülete Bissau legfontosabb igazságügyi központja.",
+          "Az intézmény feladata az alkotmányos rend őrzése és felügyelete.",
+          "A bíróság döntései ellen nem lehet további jogorvoslattal élni az országban.",
+          "Itt hirdetik ki hivatalosan a parlamenti és elnökválasztások végeredményét.",
+          "A bírák kinevezése szigorú alkotmányos szabályok szerint történik.",
+          "Az épület szomszédságában több fontos minisztérium is található."
+        ],
+        "ro": [
+          "Este cea mai înaltă autoritate judiciară din Republica Guineea-Bissau.",
+          "Sediul său a fost modernizat pentru a asigura transparența actului de justiție.",
+          "Tribunalul are puterea de a anula legi considerate neconstituționale.",
+          "Magistrații curții sunt figuri centrale în viața juridică a țării.",
+          "Clădirea găzduiește și birourile Consiliului Superior al Magistraturii.",
+          "Reprezintă garanția respectării tratatelor internaționale în dreptul intern."
+        ],
+        "en": [
+          "The Supreme Court is the final arbiter of law in Guinea-Bissau.",
+          "The building is a central feature of the capital’s administrative district.",
+          "It holds the ultimate responsibility for validating national election results.",
+          "The institution oversees both the civil and criminal judicial branches.",
+          "Its architectural presence reinforces the dignity of the judicial process.",
+          "The court serves as the primary protector of the constitution."
+        ]
+      }
+    },
+    {
+      "id": "bandim-fishing-port-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fischereihafen von Bandim (Porto de Pesca de Bandim) ist eines der lebhaftesten und ökonomisch bedeutendsten Gebiete am Ufer von Bissau. In unmittelbarer Nähe zum berühmten Bandim-Markt gelegen, ist dieser Hafen das Zentrum der artisanalen Fischerei des Landes. Jeden Tag landen hier hunderte von bunt bemalten Pirogen an, um ihren Fang aus den fischreichen Gewässern des Atlantiks und des Bijagós-Archipels zu entladen. Die Atmosphäre ist geprägt von unglaublicher Energie, dem Geruch von frischem Fisch und dem geschäftigen Treiben von Händlern, Fischern und Trägern. Der Hafen ist nicht nur ein Ort des Handels, sondern eine lebenswichtige Versorgungsader für die Hauptstadt und das Hinterland. Die Architektur des Hafens ist funktional und informell, mit einfachen Anlegestellen, Räuchereien und Verkaufsständen, die sich entlang des Ufers erstrecken. Der Porto de Bandim spiegelt die tiefe Verbindung Guinea-Bissaus zum Meer wider und ist ein Zeugnis für die harte Arbeit und die Widerstandsfähigkeit der lokalen Gemeinschaften. Für Besucher bietet der Hafen einen ungeschönten und faszinierenden Einblick in die maritime Kultur Westafrikas und die Bedeutung des Fischfangs für die Ernährungssicherheit und die Wirtschaft des Landes.",
+        "hu": "A bandimi halászkikötő (Porto de Pesca de Bandim) Bissau egyik legélénkebb és gazdaságilag legmeghatározóbb területe a Geba-folyó partján. A híres Bandim-piac közvetlen szomszédságában található kikötő a hagyományos, kézműves halászat központja. Naponta több száz színesre festett pirog (hagyományos halászcsónak) köt ki itt, hogy kirakodják az Atlanti-óceán és a Bijagós-szigetcsoport halban gazdag vizeiből származó zsákmányt. A helyszín atmoszférája lenyűgöző: a friss hal illata, a kereskedők, halászok és hordárok nyüzsgése az afrikai hétköznapok vegytiszta dinamikáját mutatja. A kikötő nem csupán egy kereskedelmi pont, hanem a főváros és a belső országrészek élelmezésének legfontosabb forrása. Az építészet itt funkcionális és informális: egyszerű mólók, halszárító és füstölő kunyhók, valamint ideiglenes elárusítóhelyek sorakoznak a parton. A bandimi kikötő hűen tükrözi Guinea-Bissau mély kötődését a tengerhez, és a helyi közösségek kemény munkájának és életerejének mementója. A látogatók számára ez a kikötő kínálja a legőszintébb betekintést Nyugat-Afrika tengeri kultúrájába és a halászat nemzetgazdasági jelentőségébe.",
+        "ro": "Portul de pescuit Bandim (Porto de Pesca de Bandim) este una dintre cele mai vibrante și importante zone economice de pe malul fluviului Geba în Bissau. Situat în imediata apropiere a faimoasei piețe Bandim, acest port este centrul pescuitului artizanal din țară. În fiecare zi, sute de pirogi colorate acostează aici pentru a descărca captura adusă din apele bogate ale Atlanticului și ale Arhipelagului Bijagós. Atmosfera este caracterizată printr-o energie incredibilă, mirosul de pește proaspăt și forfota continuă a comercianților, pescarilor și cărăușilor. Portul nu este doar un spațiu de schimb comercial, ci o arteră vitală de aprovizionare pentru capitală și pentru interiorul țării. Arhitectura portului este una funcțională și informală, cu pontoane simple, afumătorii tradiționale și tarabe de vânzare care se întind de-a lungul malului. Porto de Bandim reflectă legătura profundă a Guineei-Bissau cu marea și este o dovadă a muncii asidue și a rezilienței comunităților locale. Pentru vizitatori, portul oferă o incursiune fascinantă și autentică în cultura maritimă a Africii de Vest, subliniind importanța pescuitului pentru securitatea alimentară și economia națională.",
+        "en": "The Bandim Fishing Port (Porto de Pesca de Bandim) is one of the most vibrant and economically significant areas along Bissau's waterfront. Located adjacent to the famous Bandim Market, this port serves as the epicenter of the country's artisanal fishing industry. Every day, hundreds of brightly painted pirogues arrive here to unload their catch from the nutrient-rich waters of the Atlantic and the Bijagós Archipelago. The atmosphere is defined by incredible energy, the scent of fresh fish, and the non-stop hustle of traders, fishermen, and porters. The port is not merely a trading site but a critical supply artery for the capital and the hinterland. Its architecture is functional and informal, featuring simple piers, traditional smoking huts, and makeshift stalls lining the shore. Porto de Bandim perfectly reflects Guinea-Bissau’s deep connection to the sea and stands as a testament to the hard work and resilience of the local coastal communities. For visitors, the port offers an unvarnished and compelling look into West African maritime culture and the vital role of fishing in the nation's food security and economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Hafen von Bandim ist der größte Umschlagplatz für handgefangenen Fisch.",
+          "Hunderte traditionelle Pirogen nutzen den Hafen als täglichen Stützpunkt.",
+          "Er liegt direkt neben dem größten Markt des Landes, dem Mercado de Bandim.",
+          "Der Fischfang sichert das Einkommen tausender Familien in Bissau.",
+          "Hier werden Fischsorten wie Barrakuda, Schnapper und Meeräschen gehandelt.",
+          "Der Hafen ist auch ein Zentrum für die Reparatur und den Bau von Holzbooten."
+        ],
+        "hu": [
+          "A bandimi kikötő a főváros halellátásának elsődleges bázisa.",
+          "A színesre festett pirogok a kikötő és a város jellegzetes látványelemei.",
+          "Itt található Bissau legnagyobb kézműves halszárító üzeme.",
+          "A kikötőben zajló kereskedelem szinte teljes egészében készpénzalapú.",
+          "A halászok gyakran heteket töltenek a Bijagós-szigetek környékén a zsákmányért.",
+          "A helyszín a város legfontosabb informális gazdasági csomópontja."
+        ],
+        "ro": [
+          "Este principalul punct de debarcare pentru peștele destinat piețelor interne.",
+          "Activitatea începe la răsărit și continuă până târziu în noapte.",
+          "Portul include zone dedicate procesării și conservării prin sărare.",
+          "Femeile (bideiras) joacă un rol crucial în comercializarea capturii.",
+          "Pirogile sunt construite manual din lemn rezistent la apă sărată.",
+          "Bandim este un simbol al economiei maritime tradiționale a țării."
+        ],
+        "en": [
+          "Bandim is the busiest artisanal fishing hub in Guinea-Bissau.",
+          "The port is famous for the hundreds of colorful wooden pirogues docked there.",
+          "It is located in the most densely populated commercial district of Bissau.",
+          "Fishing here provides essential protein for the majority of the capital's population.",
+          "The port acts as a logistical bridge between the Bijagós islands and the mainland.",
+          "Traditional boat-building techniques are still practiced along the waterfront."
+        ]
+      }
+    }
+  ]
+}

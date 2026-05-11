@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-soldado-rock-nature-v2",
+      "description": "Soldado Rock is a remote, rocky outcrop off the southern coast of Trinidad, serving as an important natural landmark and wildlife refuge.",
+      "facts": ["Remote rocky outcrop", "Important natural landmark", "Wildlife refuge site"]
+    },
+    {
+      "id": "tt-trinity-hills-wildlife-sanctuary-nature-v2",
+      "description": "The Trinity Hills Wildlife Sanctuary is a protected forested region, essential for maintaining the biodiversity of southern Trinidad.",
+      "facts": ["Protected forested region", "Southern biodiversity hub", "Essential wildlife habitat"]
+    },
+    {
+      "id": "tt-erin-bay-nature-v2",
+      "description": "Erin Bay is a scenic coastal area known for its natural beauty, calm waters, and coastal ecosystems in southwestern Trinidad.",
+      "facts": ["Scenic coastal area", "Calm natural bay", "Southwestern ecosystem"]
+    },
+    {
+      "id": "tt-saut-d-eau-island-nature-v2",
+      "description": "Saut d'Eau Island is a small, pristine offshore location, valued for its natural environment and coastal wildlife.",
+      "facts": ["Small pristine island", "Valued natural site", "Coastal wildlife habitat"]
+    }
+  ]
+}

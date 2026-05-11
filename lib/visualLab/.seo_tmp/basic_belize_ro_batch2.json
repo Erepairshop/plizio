@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-antonio-rio-hondo-cities-v2",
+      "description": "Un sat situat la granița cu Mexicul, pe malul râului Hondo, cu o istorie bogată în comerțul fluvial.",
+      "facts": ["Punct strategic la frontieră", "Cunoscut pentru pescuitul artizanal", "Comunitate cu rădăcini Maya"]
+    },
+    {
+      "id": "chicago-toledo-cities-v2",
+      "description": "O comunitate mică și liniștită din districtul Toledo, oferind o perspectivă asupra vieții rurale autentice.",
+      "facts": ["Situat în sudul fertil al țării", "Populație dedicată agriculturii", "Atmosferă pașnică și izolată"]
+    },
+    {
+      "id": "san-felipe-czl-cities-v2",
+      "description": "Un sat vibrant din districtul Corozal, recunoscut pentru spiritul său comunitar și tradițiile locale.",
+      "facts": ["Comunitate predominant mestizo", "Economie bazată pe cultivarea porumbului", "Aproape de lagune pitorești"]
+    },
+    {
+      "id": "santa-teresa-toledo-cities-v2",
+      "description": "O așezare tradițională Maya situată în inima districtului Toledo, înconjurată de dealuri verzi.",
+      "facts": ["Centru de păstrare a limbii Maya Q'eqchi'", "Cunoscut pentru meșteșugurile tradiționale", "Acces la cascade naturale locale"]
+    },
+    {
+      "id": "caledonia-czl-cities-v2",
+      "description": "Un sat istoric din districtul Corozal, situat strategic pe malul râului New River.",
+      "facts": ["Nume inspirat de coloniști scoțieni", "Importanță istorică în transportul de bușteni", "Peisaje fluviale deosebite"]
+    },
+    {
+      "id": "sand-hill-cities-v2",
+      "description": "O localitate de tranzit importantă situată la intersecția unor drumuri majore din districtul Belize.",
+      "facts": ["Punct de oprire pentru călători", "Dezvoltare rapidă în ultimii ani", "Înconjurată de savană și pini"]
+    },
+    {
+      "id": "august-pine-ridge-cities-v2",
+      "description": "O comunitate agricolă din districtul Orange Walk, renumită pentru diversitatea sa culturală.",
+      "facts": ["Populație mixtă de mestizo și menoniți", "Centru regional pentru produse lactate", "Situat într-o zonă de pădure de pini"]
+    },
+    {
+      "id": "libertad-czl-cities-v2",
+      "description": "Un sat cu o moștenire industrială, fiind locul unde a funcționat odinioară o fabrică de zahăr majoră.",
+      "facts": ["Istorie legată de industria zahărului", "Situat în nordul districtului Corozal", "Comunitate cu o identitate puternică"]
+    },
+    {
+      "id": "santa-cruz-czl-cities-v2",
+      "description": "Un sat pitoresc din nordul țării, unde agricultura și tradiția merg mână în mână.",
+      "facts": ["Producător important de trestie de zahăr", "Atmosferă rurală tradițională", "Comunitate ospitalieră și unită"]
+    },
+    {
+      "id": "teakettle-cities-v2",
+      "description": "Un sat din districtul Cayo, renumit pentru apropierea sa de numeroase peșteri și situri de aventură.",
+      "facts": ["Poartă către peștera Actun Tunichil Muknal", "Situat pe autostrada George Price", "Bază populară pentru exploratori"]
+    },
+    {
+      "id": "santa-elena-toledo-cities-v2",
+      "description": "O comunitate Maya situată într-o zonă muntoasă izolată, oferind priveliști spectaculoase.",
+      "facts": ["Faimos pentru cascada Rio Blanco din apropiere", "Locuințe tradiționale din paie și lemn", "Destinație pentru turismul de aventură"]
+    },
+    {
+      "id": "buena-vista-cayo-cities-v2",
+      "description": "O așezare agricolă prosperă din districtul Cayo, cunoscută pentru solul său fertil.",
+      "facts": ["Numele înseamnă 'Vedere Bună'", "Producție variată de fructe și legume", "Peisaje colinare impresionante"]
+    }
+  ]
+}

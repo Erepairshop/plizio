@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-guayaguayare-port-economic-v2",
+      "description": "The port at Guayaguayare is vital for the local energy and maritime industry, serving as a key operational hub.",
+      "facts": ["Energy sector hub", "Southeastern coastal port", "Industrial operations site"]
+    },
+    {
+      "id": "tt-cedros-port-economic-v2",
+      "description": "Cedros port is a strategic maritime location in southwestern Trinidad, facilitating trade and local fishing industry activities.",
+      "facts": ["Strategic maritime location", "Southwestern coast", "Fishing and trade hub"]
+    },
+    {
+      "id": "tt-la-brea-asphalt-v2",
+      "description": "La Brea is world-renowned for its natural asphalt deposit, serving as a critical economic site for extraction and export.",
+      "facts": ["Home to Pitch Lake", "Global asphalt resource", "Critical industrial export site"]
+    }
+  ]
+}

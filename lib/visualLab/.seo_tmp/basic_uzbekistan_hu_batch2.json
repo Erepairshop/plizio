@@ -1,0 +1,72 @@
+{
+  "lang": "hu",
+  "country": "Uzbekistan",
+  "files": [
+    "lib/visualLab/data/poiExtraUzbekistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "siyob-bazaar-landmarks-v2",
+      "description": "A Siyob bazár Szamarkand legnagyobb és legrégebbi piaca, a Bibi-Khanym mecset közelében. A hatalmas területen elterülő piacon hagyományos üzbég kenyereket, fűszereket és édességeket árusítanak.",
+      "facts": [
+        "Szamarkand legnagyobb piaca",
+        "A Bibi-Khanym mecset mellett fekszik",
+        "Hagyományos szamarkandi kenyér kapható",
+        "Évszázados kereskedelmi központ"
+      ]
+    },
+    {
+      "id": "afrosiyob-museum-landmarks-v2",
+      "description": "Az Afrosiyob Múzeum Szamarkand északi részén található, az ősi Afrosiyob település ásatási helyszíne mellett. A múzeum legfőbb látványossága a 7. századból származó sogd falfestmény.",
+      "facts": [
+        "Az ősi Afrosiyob területén áll",
+        "Legfőbb értéke a 7. századi falfestmény",
+        "Szamarkand történetét mutatja be",
+        "1970-ben nyitotta meg kapuit"
+      ]
+    },
+    {
+      "id": "kalta-minor-landmarks-v2",
+      "description": "A Kalta Minor egy befejezetlen, türkizkék csempékkel díszített minaret Khiva óvárosában, az Ichan Kala területén. Építését 1851-ben kezdték, de az uralkodó halála miatt 1855-ben leállt a munka.",
+      "facts": [
+        "Khiva Ichan Kala részén található",
+        "1851-1855 között épült",
+        "Befejezetlen maradt",
+        "Teljes felületét mázas csempe borítja"
+      ]
+    },
+    {
+      "id": "tash-khauli-palace-landmarks-v2",
+      "description": "A Tash-Khauli palota Khiva történelmi központjában található, és az 1830-as években épült Alla Kuli Khan uralkodása alatt. Az épület gazdagon díszített fafaragványairól és majolika csempéiről ismert.",
+      "facts": [
+        "1830-1838 között épült Khivában",
+        "Alla Kuli Khan építtette",
+        "Több mint 150 szobával rendelkezik",
+        "Híres kék majolika díszítéseiről"
+      ]
+    },
+    {
+      "id": "savitsky-art-museum-landmarks-v2",
+      "description": "A Savitsky Művészeti Múzeum Nukus városában található, és a világ második legnagyobb orosz avantgárd gyűjteményének ad otthont. Igor Savitsky alapította 1966-ban, megmentve számos betiltott műalkotást.",
+      "facts": [
+        "Nukus városában működik",
+        "1966-ban alapította Igor Savitsky",
+        "Hatalmas orosz avantgárd gyűjtemény",
+        "Közel 100 ezer kiállítási tárgy"
+      ]
+    },
+    {
+      "id": "kyzylkum-desert-relief-v2",
+      "description": "A Kyzylkum sivatag Közép-Ázsia egyik legnagyobb sivataga, Üzbegisztán, Kazahsztán és Türkmenisztán területén fekszik. A térség gazdag arany- és földgázkészletekkel rendelkezik.",
+      "facts": [
+        "Üzbegisztán jelentős részét elfoglalja",
+        "Neve Vörös Homokot jelent",
+        "Gazdag arany- és földgázkészletekben",
+        "Az Amu-darja és a Szir-darja között fekszik"
+      ]
+    }
+  ]
+}

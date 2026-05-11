@@ -1,0 +1,20 @@
+{
+  "lang": "ro",
+  "country": "Uganda",
+  "files": [
+    "lib/visualLab/data/poiExtraUgandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUgandaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-patiko-history-v2",
+      "description": "Fortul Patiko este un loc istoric construit inițial ca un centru comercial de către Samuel Baker în nordul Ugandei.",
+      "facts": ["Situat în districtul Gulu", "Fondat în secolul al XIX-lea", "Centru de comerț cu fildeș", "Construit din piatră locală"]
+    },
+    {
+      "id": "ug-mapeera-house-landmarks-v2",
+      "description": "Mapeera House este o clădire administrativă impunătoare situată în centrul orașului Kampala, numită în cinstea misionarului catolic Père Lourdel.",
+      "facts": ["Situat în Kampala", "Sediul Arhiepiscopiei Catolice", "Numele provine de la Père Lourdel", "Centru cultural și religios"]
+    }
+  ]
+}

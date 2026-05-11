@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kilimanjaro-relief-v2",
+      "description": "Mount Kilimanjaro is the highest peak in Africa, characterized by its volcanic cones and diverse climatic zones. It is a dormant stratovolcano that rises dramatically from the surrounding plains.",
+      "facts": ["Highest peak in Africa", "Dormant stratovolcano", "Diverse climatic zones", "5,895 meters high"]
+    },
+    {
+      "id": "mount-meru-relief-v2",
+      "description": "Mount Meru is a prominent volcano located just west of Mount Kilimanjaro in Arusha National Park. It features steep slopes and a unique horseshoe-shaped crater formed by ancient volcanic activity.",
+      "facts": ["Active volcanic peak", "Horseshoe-shaped crater", "Steep terrain", "Near Mount Kilimanjaro"]
+    },
+    {
+      "id": "ngorongoro-crater-relief-v2",
+      "description": "The Ngorongoro Crater is the world's largest inactive, intact volcanic caldera. It forms a deep natural basin that sustains a dense population of wildlife.",
+      "facts": ["World's largest caldera", "Inactive volcanic crater", "Natural wildlife basin", "Rich ecosystem"]
+    },
+    {
+      "id": "uluguru-mountains-relief-v2",
+      "description": "The Uluguru Mountains are a high-altitude range known for their steep ridges and dense forests. They serve as a vital water source for the surrounding lowlands.",
+      "facts": ["High-altitude range", "Steep mountain ridges", "Vital water source", "Dense forest cover"]
+    },
+    {
+      "id": "udzungwa-mountains-relief-v2",
+      "description": "The Udzungwa Mountains form part of the Eastern Arc range, celebrated for their extraordinary biodiversity. The landscape is marked by deep valleys and high mountain peaks.",
+      "facts": ["Eastern Arc range", "Extraordinary biodiversity", "Deep mountain valleys", "Forested landscape"]
+    },
+    {
+      "id": "usambara-mountains-relief-v2",
+      "description": "The Usambara Mountains feature a rugged relief with panoramic views over the plains below. The area is known for its cool climate and dense, cloud-covered forest peaks.",
+      "facts": ["Rugged mountain relief", "Panoramic views", "Cool highland climate", "Dense forest peaks"]
+    },
+    {
+      "id": "ruaha-river-valley-relief-v2",
+      "description": "The Ruaha River Valley consists of rugged terrain and dramatic river gorges. This landscape provides essential drainage for the central highlands of Tanzania.",
+      "facts": ["Rugged valley terrain", "Dramatic river gorges", "Essential drainage area", "Central highland relief"]
+    },
+    {
+      "id": "kilombero-valley-relief-v2",
+      "description": "The Kilombero Valley is a vast, flat floodplain that experiences significant seasonal flooding. It is a critical ecological area for both agriculture and wildlife.",
+      "facts": ["Vast flat floodplain", "Seasonal flood zone", "Critical ecological area", "Rich alluvial soil"]
+    },
+    {
+      "id": "pangani-river-basin-relief-v2",
+      "description": "The Pangani River Basin stretches from the mountains to the Indian Ocean, characterized by varied topography. It is a lifeline for agricultural development and energy production.",
+      "facts": ["Varied mountain topography", "River basin landscape", "Lifeline for agriculture", "Energy production site"]
+    },
+    {
+      "id": "great-rift-valley-relief-v2",
+      "description": "The Great Rift Valley segment in Tanzania features dramatic escarpments and alkaline lakes. It is a major geological feature shaped by tectonic plate movements.",
+      "facts": ["Dramatic escarpments", "Alkaline lake basins", "Geological rift zone", "Tectonic origin"]
+    }
+  ]
+}

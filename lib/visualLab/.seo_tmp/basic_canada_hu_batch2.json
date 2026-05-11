@@ -2,64 +2,90 @@
   "lang": "hu",
   "country": "Canada",
   "files": [
-    "lib/visualLab/data/poiExtraCanadaCitiesV2.ts",
-    "lib/visualLab/data/poiExtraCanadaEconomicV2.ts",
-    "lib/visualLab/data/poiExtraCanadaHistoryV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLandmarksV2.ts",
-    "lib/visualLab/data/poiExtraCanadaLifeV2.ts",
     "lib/visualLab/data/poiExtraCanadaNatureV2.ts",
     "lib/visualLab/data/poiExtraCanadaReliefV2.ts"
   ],
   "items": [
     {
-      "id": "saint-john-port-economic-v2",
-      "description": "Saint John kikötője New Brunswick egyik legfontosabb tengeri kapuja. A Fundy-öbölben fekvő mélyvizű kikötő egész évben fontos áruforgalmat kezel.",
-      "facts": ["New Brunswickban található", "A Fundy-öböl partján van", "Mélyvizű kereskedelmi kikötő"]
+      "id": "mount-assiniboine-nature-v2",
+      "description": "A Sziklás-hegység egyik leglátványosabb csúcsa Brit Columbia és Alberta határán, amelyet alakja miatt \"Kanada Matterhornjának\" is neveznek.",
+      "facts": [
+        "Magassága 3618 méter.",
+        "Az UNESCO Világörökség részét képezi.",
+        "George Dawson geológusról kapta a nevét 1885-ben."
+      ]
     },
     {
-      "id": "sept-iles-port-economic-v2",
-      "description": "Sept-Îles kikötője Québec északi partjának egyik kulcsfontosságú gazdasági pontja. Különösen az ércszállítás és a tengeri teherforgalom miatt jelentős.",
-      "facts": ["Québec északi partján fekszik", "Az érckivitelhez kapcsolódik", "Fontos tengeri teherkikötő"]
+      "id": "south-nahanni-river-nature-v2",
+      "description": "Az Északnyugati területeken kanyargó vadregényes folyó, amely mély kanyonjairól és hatalmas vízeséseiről ismert.",
+      "facts": [
+        "Itt található a látványos, 96 méter magas Virginia-vízesés.",
+        "A Nahanni Nemzeti Park központi eleme.",
+        "Népszerű célpont a vadvízi evezősök számára."
+      ]
     },
     {
-      "id": "windsor-assembly-plant-economic-v2",
-      "description": "Windsor autógyártó üzeme az ontariói járműipar egyik ismert helyszíne. Az amerikai határhoz közeli város régóta az összeszerelőipar része.",
-      "facts": ["Windsorban, Ontarioban van", "Az autóiparhoz kapcsolódik", "A határ menti ipari zóna része"]
+      "id": "great-slave-lake-nature-v2",
+      "description": "Észak-Amerika legmélyebb tava, amely az Északnyugati területeken található, és partján fekszik Yellowknife városa.",
+      "facts": [
+        "Maximális mélysége eléri a 614 métert.",
+        "Kanada ötödik legnagyobb kiterjedésű tava.",
+        "Évente több hónapig jég borítja a felszínét."
+      ]
     },
     {
-      "id": "saskatoon-uranium-mining-economic-v2",
-      "description": "Saskatoon az uránbányászat és az ahhoz kapcsolódó vállalati háttér egyik kanadai központja. A város és környéke fontos szerepet játszik Saskatchewan bányászati gazdaságában.",
-      "facts": ["Saskatchewan legnagyobb városai közé tartozik", "Az urániparhoz kötődik", "Bányászati szolgáltató központ"]
+      "id": "haida-gwaii-islands-nature-v2",
+      "description": "Brit Columbia partjainál fekvő szigetcsoport, amely gazdag őslakos kultúrájáról és egyedülálló élővilágáról híres.",
+      "facts": [
+        "Korábban Sarolta királyné-szigetek néven volt ismert.",
+        "Itt élnek a haida indiánok híres totemlopaikkal.",
+        "Gyakran nevezik az \"északi Galápagosnak\" is."
+      ]
     },
     {
-      "id": "nanticoke-steel-plant-economic-v2",
-      "description": "A nanticoke-i ipari övezet Ontario déli részének nehézipari térsége. A vas- és acélfeldolgozás mellett az energiaipar is meghatározó itt.",
-      "facts": ["Dél-ontariói ipari térség", "A nehéziparhoz kötődik", "Acél- és energiaipari múltja van"]
+      "id": "coast-mountains-relief-v2",
+      "description": "Brit Columbia nyugati partja mentén húzódó hatalmas hegylánc, amely sűrű erdőkkel és gleccserekkel tarkított.",
+      "facts": [
+        "Legmagasabb csúcsa a Mount Waddington (4019 m).",
+        "Itt találhatók a világ legnagyobb nem-poláris jégmezői.",
+        "A hegység hossza megköjalíti az 1600 kilométert."
+      ]
     },
     {
-      "id": "columbia-river-hydro-economic-v2",
-      "description": "A Columbia folyó vízenergia-rendszere Brit Columbia egyik legfontosabb energiatermelő bázisa. A gátak és erőművek a tartomány villamosenergia-ellátását támogatják.",
-      "facts": ["Brit Columbiában található", "Vízenergia-termelésre épül", "Gátak és erőművek sora alkotja"]
+      "id": "laurentian-mountains-relief-v2",
+      "description": "Québec tartomány déli részén elhelyezkedő ősi hegység, amely népszerű üdülőövezet és síparadicsom.",
+      "facts": [
+        "A világ egyik legidősebb hegységeként tartják számon.",
+        "Legmagasabb pontja a Mont Tremblant (875 m).",
+        "Számos tó és folyó szabdalja a vidékét."
+      ]
     },
     {
-      "id": "hamilton-port-economic-v2",
-      "description": "Hamilton kikötője az Ontario-tó nyugati medencéjének egyik legforgalmasabb áruforgalmi pontja. A város ipari arculatához szorosan kapcsolódik a nagy tömegű szállítmányozás.",
-      "facts": ["Az Ontario-tó partján van", "Nagy áruforgalmat kezel", "Az ipari Hamilton része"]
+      "id": "columbia-icefield-relief-v2",
+      "description": "A Sziklás-hegység legnagyobb jégmezője Alberta és Brit Columbia határán, amely hat jelentős gleccsert táplál.",
+      "facts": [
+        "Területe körülbelül 325 négyzetkilométer.",
+        "A jég vastagsága helyenként eléri a 365 métert.",
+        "Vizét három különböző óceánba szállítják a folyók."
+      ]
     },
     {
-      "id": "sarnia-petrochemical-economic-v2",
-      "description": "Sarnia petrolkémiai övezete Kanada egyik legismertebb vegyipari központja. A St. Clair-folyó környéki ipar a finomításra és a feldolgozásra épül.",
-      "facts": ["Ontario délnyugati részén van", "Petrolkémiai központ", "A St. Clair-folyó közelében fekszik"]
+      "id": "mackenzie-mountains-relief-v2",
+      "description": "Yukon és az Északnyugati területek határán húzódó vadregényes hegység, amely Kanada egyik legérintetlenebb vidéke.",
+      "facts": [
+        "Nevét Alexander Mackenzie felfedezőről kapta.",
+        "Itt található az Északnyugati területek legmagasabb pontja.",
+        "Fontos élőhelye a hegyi karibuknak és vadjuhoknak."
+      ]
     },
     {
-      "id": "vancouver-grain-terminals-economic-v2",
-      "description": "Vancouver gabonatermináljai a kanadai nyugati export egyik kulcshelyszínei. A kikötőn át a prérik gabonája jut el a csendes-óceáni piacokra.",
-      "facts": ["Brit Columbia partján működik", "Gabonakivitelhez kapcsolódik", "A nyugati export fontos csomópontja"]
-    },
-    {
-      "id": "charlottetown-port-economic-v2",
-      "description": "Charlottetown kikötője Prince Edward-sziget tartományi fővárosának tengeri kapcsolatait szolgálja. A kisebb kikötő helyi szállítást, kereskedelmet és turizmust támogat.",
-      "facts": ["Prince Edward-szigeten van", "A tartományi főváros kikötője", "Helyi kereskedelmet szolgál"]
+      "id": "torngat-mountains-relief-v2",
+      "description": "Labrador-félsziget északi részén található hegység, amely meredek fjordjairól és kopár, fenséges csúcsairól ismert.",
+      "facts": [
+        "Inuit nyelven \"szellemek lakhelyét\" jelenti a neve.",
+        "Itt található Kanada keleti részének legmagasabb csúcsa.",
+        "A Torngat-hegységi Nemzeti Park része."
+      ]
     }
   ]
 }

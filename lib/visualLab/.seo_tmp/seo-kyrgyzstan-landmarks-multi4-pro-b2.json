@@ -1,0 +1,439 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "state-history-museum-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Staatliche Historische Museum am Ala-Too-Platz in Bischkek ist eine der wichtigsten kulturellen Einrichtungen Kirgisistans. Ursprünglich 1927 als Lenin-Museum gegründet, befindet sich das Museum heute in einem massiven, würfelförmigen Gebäude, das in den 1980er Jahren errichtet wurde. Es beherbergt eine umfangreiche Sammlung von über 90.000 Artefakten, die die reiche Geschichte der Region von der Steinzeit bis in die Neuzeit dokumentieren. Zu den bemerkenswertesten Exponaten zählen eine beeindruckende Sammlung traditioneller kirgisischer Teppiche (Shyrdaks), nomadischer Schmuck, jurtenbezogene Gegenstände sowie historische Dokumente aus der Sowjetära. Nach einer jahrelangen Renovierung bietet das Museum nun moderne Ausstellungen, die das kulturelle Erbe und den Weg Kirgisistans in die Unabhängigkeit veranschaulichen.",
+        "hu": "A biskeki Ala-Too téren található Állami Történeti Múzeum Kirgizisztán egyik legfontosabb kulturális intézménye. A múzeumot eredetileg 1927-ben alapították Lenin Múzeumként, ma egy hatalmas, kocka alakú épületben kapott helyet, amely az 1980-as években épült. Több mint 90 000 műtárgyból álló hatalmas gyűjteménnyel rendelkezik, amely a régió gazdag történelmét dokumentálja a kőkorszaktól a modern időkig. A legfigyelemreméltóbb kiállítási tárgyak közé tartozik a hagyományos kirgiz szőnyegek (sirdakok), a nomád ékszerek, a jurtához kapcsolódó tárgyak, valamint a szovjet korszakból származó történelmi dokumentumok lenyűgöző gyűjteménye. Több éves felújítás után a múzeum most modern kiállításokat kínál, amelyek bemutatják a kulturális örökséget és Kirgizisztán függetlenséghez vezető útját.",
+        "ro": "Muzeul de Istorie de Stat, situat în Piața Ala-Too din Bishkek, este una dintre cele mai importante instituții culturale din Kârgâzstan. Fondat inițial în 1927 ca Muzeul Lenin, muzeul este găzduit acum într-o clădire masivă, în formă de cub, care a fost construită în anii 1980. Găzduiește o vastă colecție de peste 90.000 de artefacte care documentează istoria bogată a regiunii din Epoca de Piatră până în timpurile moderne. Printre cele mai notabile exponate se numără o colecție impresionantă de covoare tradiționale kârgâze (shyrdak), bijuterii nomade, obiecte legate de iurte și documente istorice din epoca sovietică. După ani de renovare, muzeul oferă acum expoziții moderne care ilustrează moștenirea culturală și calea Kârgâzstanului către independență.",
+        "en": "The State History Museum, located on Ala-Too Square in Bishkek, is one of Kyrgyzstan's most important cultural institutions. Originally founded in 1927 as the Lenin Museum, the museum is now housed in a massive, cube-shaped building that was constructed in the 1980s. It holds a vast collection of over 90,000 artifacts documenting the rich history of the region from the Stone Age to modern times. Among its most notable exhibits are an impressive collection of traditional Kyrgyz carpets (shyrdaks), nomadic jewelry, yurt-related items, and historical documents from the Soviet era. Following a multi-year renovation, the museum now offers modern exhibitions that illustrate the cultural heritage and Kyrgyzstan's path to independence."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Stadtzentrum von Bischkek am Ala-Too-Platz.",
+          "Verfügt über eine Sammlung von über 90.000 historischen Artefakten.",
+          "Das kubische Gebäude wurde 1984 in typisch sowjetischem Stil erbaut.",
+          "Wurde 1927 ursprünglich als Lenin-Museum gegründet.",
+          "Beherbergt Ausstellungen zur Kultur und Lebensweise der Nomaden.",
+          "Wurde nach einer umfassenden, mehrjährigen Renovierung kürzlich wiedereröffnet."
+        ],
+        "hu": [
+          "Biskek belvárosában, az Ala-Too téren található.",
+          "Több mint 90 000 történelmi műtárgyból álló gyűjteménnyel rendelkezik.",
+          "A kubikus épület 1984-ben épült jellegzetes szovjet stílusban.",
+          "Eredetileg 1927-ben alapították Lenin Múzeumként.",
+          "A nomádok kultúrájáról és életmódjáról szóló kiállításoknak ad otthont.",
+          "Nemrég nyitották meg újra egy átfogó, többéves felújítás után."
+        ],
+        "ro": [
+          "Situat în centrul orașului Bishkek, pe Piața Ala-Too.",
+          "Are o colecție de peste 90.000 de artefacte istorice.",
+          "Clădirea cubică a fost construită în stil tipic sovietic în 1984.",
+          "A fost fondat inițial în 1927 ca Muzeul Lenin.",
+          "Găzduiește expoziții despre cultura și stilul de viață nomad.",
+          "A fost redeschis recent după o renovare amplă care a durat câțiva ani."
+        ],
+        "en": [
+          "Located in the city center of Bishkek on Ala-Too Square.",
+          "Features a collection of over 90,000 historical artifacts.",
+          "The cubic building was constructed in 1984 in typical Soviet style.",
+          "Was originally founded in 1927 as the Lenin Museum.",
+          "Houses exhibitions on nomadic culture and lifestyle.",
+          "Recently reopened following a comprehensive multi-year renovation."
+        ]
+      }
+    },
+    {
+      "id": "victory-square-bishkek-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Siegesplatz in Bischkek ist ein bedeutender Gedenkort, der 1984 zum Gedenken an den 40. Jahrestag des Sieges im Zweiten Weltkrieg (in der Region als Großer Vaterländischer Krieg bekannt) errichtet wurde. Das Hauptmonument besteht aus drei gebogenen Granitbögen, die zusammen die Form einer Jurte bilden und so traditionelle kirgisische Symbolik mit sowjetischer Gedenkarchitektur verbinden. In der Mitte der Bögen brennt ein Ewiges Feuer, das von einer Skulptur einer wartenden Mutter bewacht wird. Das Monument ehrt die Hunderttausenden von Kirgisen, die an der Front kämpften, sowie diejenigen, die in der Heimat die Kriegsanstrengungen unterstützten. Der Platz ist ein beliebter Ort für Hochzeitsgesellschaften, die am Ewigen Feuer Blumen niederlegen.",
+        "hu": "A biskeki Győzelem tere egy jelentős emlékhely, amelyet 1984-ben hoztak létre a második világháborús (a régióban Nagy Honvédő Háborúként ismert) győzelem 40. évfordulójának emlékére. A fő emlékmű három ívelt gránitívből áll, amelyek együttesen egy jurta formáját alkotják, így ötvözve a hagyományos kirgiz szimbolikát a szovjet emlékmű-építészettel. Az ívek közepén egy Örök Láng ég, amelyet egy várakozó anya szobra őriz. Az emlékmű annak a több százezer kirgiznek állít emléket, akik a fronton harcoltak, valamint azoknak is, akik otthon támogatták a háborús erőfeszítéseket. A tér népszerű helyszín a násznépek körében, akik virágokat helyeznek el az Örök Lángnál.",
+        "ro": "Piața Victoriei din Bishkek este un memorial important care a fost finalizat în 1984 pentru a comemora a 40-a aniversare a victoriei în al Doilea Război Mondial (cunoscut în regiune drept Marele Război pentru Apărarea Patriei). Monumentul principal constă din trei arcuri de granit curbate care formează împreună forma unei iurte, îmbinând astfel simbolismul tradițional kârgâz cu arhitectura memorială sovietică. În centrul arcurilor arde o Flacără Eternă, care este păzită de sculptura unei mame care așteaptă. Monumentul onorează sutele de mii de kârgâzi care au luptat pe front, precum și pe cei care au sprijinit efortul de război de acasă. Piața este o destinație populară pentru petrecerile de nuntă care vin să depună flori la Flacăra Eternă.",
+        "en": "Victory Square in Bishkek is a significant memorial site completed in 1984 to commemorate the 40th anniversary of the victory in World War II (known in the region as the Great Patriotic War). The main monument consists of three curved granite arches that together form the shape of a yurt, thus combining traditional Kyrgyz symbolism with Soviet memorial architecture. At the center of the arches burns an Eternal Flame, which is guarded by a sculpture of a waiting mother. The monument honors the hundreds of thousands of Kyrgyz people who fought on the front lines, as well as those who supported the war effort from the home front. The square is a popular destination for wedding parties, who come to lay flowers at the Eternal Flame."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Monument erinnert an den Sieg im Zweiten Weltkrieg.",
+          "Errichtet 1984 anlässlich des 40. Jahrestages des Kriegsendes.",
+          "Die drei Granitbögen stellen das traditionelle kirgisische Jurtendach dar.",
+          "Eine Skulptur einer Mutter steht am Ewigen Feuer und wartet auf ihren Sohn.",
+          "Ist ein traditioneller Ort für frisch verheiratete Paare in Bischkek.",
+          "Befindet sich im Stadtzentrum in der Nähe bedeutender Regierungsgebäude."
+        ],
+        "hu": [
+          "Az emlékmű a második világháborúban aratott győzelemnek állít emléket.",
+          "1984-ben, a háború befejezésének 40. évfordulója alkalmából épült.",
+          "A három gránitív a hagyományos kirgiz jurtatetőt mintázza.",
+          "Az Örök Lángnál egy anya szobra áll, aki a fiát várja.",
+          "Hagyományos helyszín az újonnan házasodott biskeki párok számára.",
+          "A városközpontban, jelentős kormányzati épületek közelében található."
+        ],
+        "ro": [
+          "Monumentul comemorează victoria în cel de-al Doilea Război Mondial.",
+          "Construit în 1984 pentru a marca cea de-a 40-a aniversare a sfârșitului războiului.",
+          "Cele trei arcuri de granit reprezintă acoperișul tradițional al unei iurte kârgâze.",
+          "O sculptură a unei mame stă la Flacăra Eternă, așteptându-și fiul.",
+          "Este un loc tradițional pentru cuplurile proaspăt căsătorite din Bishkek.",
+          "Situat în centrul orașului, în apropierea clădirilor guvernamentale importante."
+        ],
+        "en": [
+          "The monument commemorates the victory in World War II.",
+          "Constructed in 1984 to mark the 40th anniversary of the end of the war.",
+          "The three granite arches represent the traditional Kyrgyz yurt roof.",
+          "A sculpture of a mother stands at the Eternal Flame waiting for her son.",
+          "Serves as a traditional spot for newly married couples in Bishkek.",
+          "Located in the city center near significant government buildings."
+        ]
+      }
+    },
+    {
+      "id": "osh-bazaar-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Osch-Basar in Bischkek ist einer der größten und belebtesten Märkte in ganz Kirgisistan. Benannt nach der südlichen Stadt Osch, bietet dieser riesige Basar einen authentischen Einblick in das tägliche Leben und die Kultur Zentralasiens. Der Markt ist in verschiedene Sektionen unterteilt, in denen alles von frischen lokalen Produkten, Gewürzen, getrockneten Früchten und Nüssen bis hin zu traditioneller Kleidung, Stoffen und Souvenirs verkauft wird. Besonders berühmt ist die Lebensmittelabteilung für ihre große Auswahl an kirgisischem Brot (Lepjoschka) und verschiedenen Arten von Kurut (getrocknete Joghurtbällchen). Der Osch-Basar ist ein Labyrinth aus engen Gängen und überfüllten Ständen, das Käufer und Händler aus der gesamten Region anzieht.",
+        "hu": "A biskeki Os-bazár az egyik legnagyobb és legforgalmasabb piac egész Kirgizisztánban. A déli Os városáról elnevezett hatalmas bazár hiteles bepillantást nyújt Közép-Ázsia mindennapi életébe és kultúrájába. A piac különböző részlegekre van felosztva, ahol a friss helyi termékektől, fűszerektől, aszalt gyümölcsöktől és dióféléktől kezdve a hagyományos ruházatokon, szöveteken át a szuvenírekig mindent árulnak. Az élelmiszer részleg különösen híres a kirgiz kenyér (lepjoska) és a különböző típusú kurut (szárított joghurtgolyók) széles választékáról. Az Os-bazár szűk folyosók és zsúfolt standok labirintusa, amely az egész régióból vonzza a vásárlókat és a kereskedőket.",
+        "ro": "Bazarul Osh din Bishkek este una dintre cele mai mari și mai aglomerate piețe din întreg Kârgâzstanul. Numit după orașul sudic Osh, acest bazar uriaș oferă o privire autentică asupra vieții zilnice și a culturii din Asia Centrală. Piața este împărțită în diverse secțiuni, unde se vinde totul, de la produse locale proaspete, condimente, fructe uscate și nuci, până la îmbrăcăminte tradițională, țesături și suveniruri. Secțiunea alimentară este deosebit de renumită pentru selecția sa largă de pâine kârgâză (lepeshka) și diverse tipuri de kurut (bile de iaurt uscat). Bazarul Osh este un labirint de culoare înguste și tarabe aglomerate care atrage cumpărători și comercianți din întreaga regiune.",
+        "en": "Osh Bazaar in Bishkek is one of the largest and busiest markets in all of Kyrgyzstan. Named after the southern city of Osh, this sprawling bazaar offers an authentic glimpse into the daily life and culture of Central Asia. The market is divided into various sections selling everything from fresh local produce, spices, dried fruits, and nuts to traditional clothing, fabrics, and souvenirs. The food section is particularly famous for its wide selection of Kyrgyz bread (lepeshka) and various types of kurut (dried yogurt balls). Osh Bazaar is a labyrinth of narrow aisles and crowded stalls that attracts shoppers and merchants from across the entire region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ist einer der größten Open-Air-Märkte in Kirgisistan.",
+          "Befindet sich im westlichen Teil des Stadtzentrums von Bischkek.",
+          "Verkauft eine breite Palette an traditioneller kirgisischer Kleidung und Filzhüten.",
+          "Bekannt für seine große Auswahl an zentralasiatischen Gewürzen.",
+          "Ein eigener Bereich ist dem Verkauf von traditionellen Milchprodukten gewidmet.",
+          "Ein wichtiges Handelszentrum für Einheimische und Händler."
+        ],
+        "hu": [
+          "Az egyik legnagyobb szabadtéri piac Kirgizisztánban.",
+          "Biskek városközpontjának nyugati részén található.",
+          "Hagyományos kirgiz ruházatok és filckalapok széles választékát árulja.",
+          "Közép-ázsiai fűszerek nagy választékáról ismert.",
+          "Külön részleg foglalkozik a hagyományos tejtermékek értékesítésével.",
+          "Fontos kereskedelmi központ a helyiek és a kereskedők számára."
+        ],
+        "ro": [
+          "Este una dintre cele mai mari piețe în aer liber din Kârgâzstan.",
+          "Situat în partea de vest a centrului orașului Bishkek.",
+          "Vinde o gamă largă de haine tradiționale kârgâze și pălării de pâslă.",
+          "Cunoscut pentru marea sa varietate de condimente din Asia Centrală.",
+          "O secțiune dedicată vinde produse lactate tradiționale.",
+          "Un centru comercial important atât pentru localnici, cât și pentru comercianți."
+        ],
+        "en": [
+          "Is one of the largest open-air markets in Kyrgyzstan.",
+          "Located in the western part of the Bishkek city center.",
+          "Sells a wide range of traditional Kyrgyz clothing and felt hats.",
+          "Known for its large variety of Central Asian spices.",
+          "A dedicated section focuses on selling traditional dairy products.",
+          "An essential commercial hub for both locals and merchants."
+        ]
+      }
+    },
+    {
+      "id": "uzgen-minaret-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Minarett von Ösgön ist ein bemerkenswertes architektonisches Denkmal aus dem 11. Jahrhundert in der historischen Stadt Ösgön im Süden Kirgisistans. Der aus gebrannten Ziegeln erbaute Turm war ursprünglich viel höher, bevor er vermutlich durch ein Erdbeben beschädigt wurde, und steht heute auf einer Höhe von etwa 27,5 Metern. Die Fassade des Minaretts ist mit aufwendigen Ziegelmustern verziert, die geometrische Motive und Kufi-Kalligrafie bilden. In unmittelbarer Nähe des Minaretts befindet sich ein Komplex von drei Mausoleen aus der Karachaniden-Ära, die ebenfalls für ihre meisterhafte Ziegelverarbeitung und reich verzierten Portale bekannt sind. Die gesamte Stätte ist ein wichtiges Zeugnis des islamischen Architekturerbes in Zentralasien und der Karachaniden-Dynastie.",
+        "hu": "Az özgöni minaret a 11. századból származó figyelemre méltó építészeti műemlék a dél-kirgizisztáni Özgön történelmi városában. Az égetett téglából épült torony eredetileg sokkal magasabb volt, mielőtt feltételezhetően egy földrengés megrongálta, és jelenleg körülbelül 27,5 méter magasan áll. A minaret homlokzatát bonyolult téglaminták díszítik, amelyek geometriai motívumokat és kúfi kalligráfiát alkotnak. A minaret közvetlen közelében található egy három, a Karahánida korszakból származó mauzóleumból álló komplexum, amely szintén mesteri téglaépítészetéről és gazdagon díszített portáljairól ismert. Az egész helyszín a közép-ázsiai iszlám építészeti örökség és a Karahánida-dinasztia fontos bizonyítéka.",
+        "ro": "Minaretul din Uzgen este un monument arhitectural remarcabil din secolul al XI-lea situat în orașul istoric Uzgen din sudul Kârgâzstanului. Construit din cărămizi arse, turnul a fost inițial mult mai înalt înainte de a fi probabil deteriorat de un cutremur, iar astăzi are o înălțime de aproximativ 27,5 metri. Fațada minaretului este decorată cu modele complexe de cărămidă, formând motive geometrice și caligrafie kufică. În imediata apropiere a minaretului se află un complex de trei mausolee din epoca Karahanidă, care sunt cunoscute, de asemenea, pentru măiestria cu care este lucrată cărămida și pentru portalurile lor bogat decorate. Întregul sit este o dovadă importantă a moștenirii arhitecturale islamice din Asia Centrală și a dinastiei Karahanide.",
+        "en": "The Uzgen Minaret is a remarkable 11th-century architectural monument located in the historic city of Uzgen in southern Kyrgyzstan. Built of fired bricks, the tower was originally much taller before likely being damaged by an earthquake, and today stands at a height of approximately 27.5 meters. The facade of the minaret is decorated with intricate brickwork patterns forming geometric motifs and Kufic calligraphy. In the immediate vicinity of the minaret lies a complex of three Karakhanid-era mausoleums, which are also known for their masterful brickwork and richly decorated portals. The entire site is an important testament to the Islamic architectural heritage in Central Asia and the Karakhanid dynasty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der antiken Stadt Ösgön im Ferghanatal.",
+          "Das Minarett ist 27,5 Meter hoch und verjüngt sich nach oben.",
+          "Ein architektonisches Erbe des Karachaniden-Reiches aus dem 11. Jahrhundert.",
+          "Das Äußere ist mit Kufi-Schrift und geometrischen Mustern verziert.",
+          "Teil eines Komplexes, der drei historische Mausoleen umfasst.",
+          "Der Turm verlor durch Erdbeben seine ursprüngliche Spitze."
+        ],
+        "hu": [
+          "Az ősi Özgön városában, a Fergana-völgyben található.",
+          "A minaret 27,5 méter magas és felfelé keskenyedik.",
+          "A 11. századi Karahánida Birodalom építészeti öröksége.",
+          "Külsejét kúfi írás és geometrikus minták díszítik.",
+          "Egy három történelmi mauzóleumot is magában foglaló komplexum része.",
+          "A torony földrengések miatt veszítette el eredeti csúcsát."
+        ],
+        "ro": [
+          "Situat în orașul antic Uzgen, în Valea Fergana.",
+          "Minaretul are o înălțime de 27,5 metri și se îngustează spre vârf.",
+          "O moștenire arhitecturală a Imperiului Karahanid din secolul al XI-lea.",
+          "Exteriorul este decorat cu scriere kufică și modele geometrice.",
+          "Face parte dintr-un complex care include trei mausolee istorice.",
+          "Turnul și-a pierdut vârful original din cauza cutremurelor."
+        ],
+        "en": [
+          "Located in the ancient city of Uzgen in the Fergana Valley.",
+          "The minaret is 27.5 meters tall and tapers towards the top.",
+          "An architectural legacy of the 11th-century Karakhanid Empire.",
+          "The exterior is decorated with Kufic script and geometric patterns.",
+          "Part of a complex that includes three historical mausoleums.",
+          "The tower lost its original peak due to earthquakes."
+        ]
+      }
+    },
+    {
+      "id": "cholpon-ata-petroglyphs-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Freilichtmuseum für Petroglyphen in Tscholponata ist eine beeindruckende historische Stätte am Nordufer des Yssykköl-Sees. Das über 42 Hektar große Gebiet ist mit Tausenden von Felsblöcken übersät, von denen viele alte Schnitzereien tragen, die zwischen 1500 v. Chr. und dem 1. Jahrhundert n. Chr. entstanden sind. Diese Felszeichnungen wurden hauptsächlich von Sakischen und Wusun-Stämmen angefertigt und zeigen detaillierte Darstellungen von Tieren wie Steinböcken, Wölfen, Schneeleoparden und Pferden sowie Jagdszenen und rituelle Tänze. Die Position der Steine, gepaart mit den Schnitzereien, deutet darauf hin, dass das Gebiet einst ein riesiger Freilufttempel für Sonnenanbetung und andere religiöse Zeremonien war.",
+        "hu": "A Csolpon-Ata-i Sziklarajzok Szabadtéri Múzeuma lenyűgöző történelmi helyszín az Iszik-köl tó északi partján. A több mint 42 hektáros területet sziklatömbök ezrei borítják, amelyek közül sok ősi faragásokat visel a Kr. e. 1500 és Kr. u. 1. század közötti időszakból. Ezeket a sziklarajzokat elsősorban a szakák és a uszunok készítették, és olyan állatok részletes ábrázolásait mutatják be, mint a kőszáli kecskék, farkasok, hópárducok és lovak, valamint vadászjeleneteket és rituális táncokat. A kövek elhelyezkedése a faragásokkal párosulva arra utal, hogy a terület egykor egy hatalmas szabadtéri templom volt a napimádat és más vallási szertartások számára.",
+        "ro": "Muzeul în aer liber al petroglifelor din Cholpon-Ata este un sit istoric impresionant situat pe malul nordic al lacului Issyk-Kul. Zona de peste 42 de hectare este presărată cu mii de bolovani, dintre care mulți poartă sculpturi antice create între anul 1500 î.Hr. și secolul I d.Hr. Aceste gravuri în piatră au fost realizate în principal de triburile Saka și Wusun și prezintă descrieri detaliate ale animalelor precum ibex, lupi, leoparzi de zăpadă și cai, precum și scene de vânătoare și dansuri rituale. Poziția pietrelor, cuplată cu sculpturile, sugerează că zona a fost odată un templu vast în aer liber pentru venerarea soarelui și alte ceremonii religioase.",
+        "en": "The Open-Air Museum of Petroglyphs in Cholpon-Ata is an impressive historical site located on the northern shore of Lake Issyk-Kul. The 42-hectare area is dotted with thousands of boulders, many of which bear ancient carvings created between 1500 BCE and the 1st century AD. These rock engravings were primarily made by Saka and Wusun tribes and feature detailed depictions of animals such as ibex, wolves, snow leopards, and horses, as well as hunting scenes and ritual dances. The position of the stones, coupled with the carvings, suggests that the area was once a vast open-air temple used for sun worship and other religious ceremonies."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Umfasst eine Fläche von 42 Hektar in der Nähe des Yssykköl-Sees.",
+          "Enthält Tausende von Felsblöcken mit antiken Gravuren.",
+          "Die Petroglyphen datieren größtenteils vom 2. Jahrtausend v. Chr. bis zum 8. Jahrhundert n. Chr.",
+          "Häufige Motive sind Steinböcke, Schneeleoparden und Jäger.",
+          "Die Stätte war wahrscheinlich ein alter Freilufttempel.",
+          "Einige der Steine sind auf die Himmelsrichtungen ausgerichtet."
+        ],
+        "hu": [
+          "Egy 42 hektáros területet foglal magában az Iszik-köl tó közelében.",
+          "Több ezer sziklatömböt tartalmaz ősi gravírozásokkal.",
+          "A sziklarajzok nagyrészt az i. e. 2. évezredtől az i. sz. 8. századig terjedő időszakból származnak.",
+          "Gyakori motívumok a kőszáli kecskék, a hópárducok és a vadászok.",
+          "A helyszín valószínűleg egy ősi szabadtéri templom volt.",
+          "A kövek egy része az égtájakhoz van igazítva."
+        ],
+        "ro": [
+          "Acoperă o suprafață de 42 de hectare în apropierea lacului Issyk-Kul.",
+          "Conține mii de bolovani cu gravuri antice.",
+          "Petroglifele datează în mare parte din mileniul II î.Hr. până în secolul VIII d.Hr.",
+          "Motivele comune includ ibex, leoparzi de zăpadă și vânători.",
+          "Situl a fost probabil un vechi templu în aer liber.",
+          "Unele dintre pietre sunt aliniate cu punctele cardinale."
+        ],
+        "en": [
+          "Covers an area of 42 hectares near Lake Issyk-Kul.",
+          "Contains thousands of boulders featuring ancient engravings.",
+          "The petroglyphs mostly date from the 2nd millennium BC to the 8th century AD.",
+          "Common motifs include ibex, snow leopards, and hunters.",
+          "The site was likely an ancient open-air temple.",
+          "Some of the stones are aligned with the cardinal directions."
+        ]
+      }
+    },
+    {
+      "id": "saimaluu-tash-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Saimaluu Tash, was auf Kirgisisch \"Bestickter Stein\" bedeutet, ist eine hochgelegene Stätte in der Provinz Dschalalabat, die eine der größten Sammlungen von Petroglyphen in Zentralasien beherbergt. Auf einer Höhe von über 3000 Metern im Ferghana-Gebirge gelegen, ist das Gebiet nur wenige Wochen im Sommer zugänglich. Die Stätte umfasst schätzungsweise 10.000 bis 90.000 Felsritzungen, die über Jahrtausende von der Bronzezeit (ab ca. 2000 v. Chr.) bis ins Mittelalter entstanden sind. Die in den schwarzen Basalt geritzten Zeichnungen dokumentieren religiöse Praktiken, landwirtschaftliche Methoden, Jagdszenen und Tierwanderungen verschiedener Völker, die diese Berge als heiliges Heiligtum betrachteten.",
+        "hu": "A Szaimalu Tas, amely kirgiz nyelven \"Hímzett Követ\" jelent, egy magasan fekvő helyszín Dzsalalabad tartományban, amely Közép-Ázsia egyik legnagyobb sziklarajz-gyűjteményének ad otthont. A Fergana-hegységben, több mint 3000 méteres magasságban található terület évente csak néhány nyári héten át megközelíthető. A helyszín becslések szerint 10 000-90 000 sziklarajzot tartalmaz, amelyek évezredek alatt, a bronzkortól (kb. i. e. 2000-től) a középkorig keletkeztek. A fekete bazaltba vésett rajzok olyan különböző népek vallási gyakorlatait, mezőgazdasági módszereit, vadászjeleneteit és állatvándorlásait dokumentálják, akik ezt a hegységet szent menedéknek tekintették.",
+        "ro": "Saimaluu Tash, care înseamnă \"Piatră Brodată\" în limba kârgâză, este un sit aflat la mare altitudine în provincia Jalal-Abad, care găzduiește una dintre cele mai mari colecții de petroglife din Asia Centrală. Situată la peste 3000 de metri altitudine în munții Fergana, zona este accesibilă doar câteva săptămâni în timpul verii. Situl include aproximativ 10.000 până la 90.000 de sculpturi în stâncă, create de-a lungul a mii de ani, din Epoca Bronzului (începând cu aproximativ 2000 î.Hr.) până în Evul Mediu. Desenele sculptate în bazaltul negru documentează practicile religioase, metodele agricole, scenele de vânătoare și migrațiile animalelor ale diferitelor popoare care au considerat acești munți un sanctuar sacru.",
+        "en": "Saimaluu Tash, meaning \"Embroidered Stone\" in Kyrgyz, is a high-altitude site in the Jalal-Abad Province that houses one of the largest collections of petroglyphs in Central Asia. Located at an elevation of over 3,000 meters in the Fergana Range, the area is only accessible for a few weeks during the summer. The site contains an estimated 10,000 to 90,000 rock carvings created over millennia, spanning from the Bronze Age (around 2000 BCE) to the Middle Ages. The drawings carved into the black basalt document the religious practices, agricultural methods, hunting scenes, and animal migrations of various peoples who considered these mountains a sacred sanctuary."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stätte beherbergt zehntausende von Petroglyphen.",
+          "Befindet sich auf einer Höhe von über 3000 Metern im Ferghana-Gebirge.",
+          "Ist aufgrund von starkem Schneefall nur von Juli bis August zugänglich.",
+          "Die ältesten Gravuren stammen aus dem zweiten Jahrtausend v. Chr.",
+          "Die Ritzungen wurden auf schwarzen Basaltsteinen angefertigt.",
+          "Zeigt Darstellungen von Sonnenmenschen, Tieren und rituellen Tänzen."
+        ],
+        "hu": [
+          "A helyszín több tízezer sziklarajznak ad otthont.",
+          "A Fergana-hegységben, több mint 3000 méteres magasságban fekszik.",
+          "A sűrű havazás miatt csak júliustól augusztusig látogatható.",
+          "A legrégebbi gravírozások az i. e. 2. évezredből származnak.",
+          "A faragásokat fekete bazaltköveken készítették.",
+          "Napemberek, állatok és rituális táncok ábrázolásait mutatja be."
+        ],
+        "ro": [
+          "Situl găzduiește zeci de mii de petroglife.",
+          "Situat la o altitudine de peste 3000 de metri în munții Fergana.",
+          "Este accesibil doar din iulie până în august din cauza zăpezilor abundente.",
+          "Cele mai vechi gravuri datează din mileniul al doilea î.Hr.",
+          "Sculpturile au fost realizate pe pietre de bazalt negru.",
+          "Prezintă descrieri ale oamenilor soarelui, animalelor și dansurilor rituale."
+        ],
+        "en": [
+          "The site houses tens of thousands of individual petroglyphs.",
+          "Located at an elevation of over 3,000 meters in the Fergana Range.",
+          "Accessible only from July to August due to heavy snowfall.",
+          "The oldest engravings date back to the second millennium BC.",
+          "The carvings were made on black basalt stones.",
+          "Features depictions of sun-men, animals, and ritualistic dances."
+        ]
+      }
+    },
+    {
+      "id": "kurmanjan-datka-monument-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Denkmal von Kurmanjan Datka im Erkindik-Park in Bischkek ehrt eine der berühmtesten historischen Persönlichkeiten Kirgisistans. Kurmanjan Datka, bekannt als die \"Königin des Südens\", war eine prominente Staatsfrau, die im 19. Jahrhundert die Alai-Kirgisen anführte. Sie spielte eine entscheidende Rolle in der diplomatischen Navigation während der russischen Expansion nach Zentralasien. Das 2004 errichtete Bronzedenkmal ersetzt die ehemalige Lenin-Statue und zeigt Kurmanjan Datka als weise und würdevolle Matriarchin in traditioneller kirgisischer Kleidung. Die Statue ist ein wichtiges Symbol des kirgisischen Nationalstolzes und würdigt ihren Beitrag zur Erhaltung der kirgisischen Unabhängigkeit und Identität in einer turbulenten historischen Periode.",
+        "hu": "A Kurmandzsan Datka-emlékmű a biskeki Erkindik parkban Kirgizisztán egyik leghíresebb történelmi alakjának állít emléket. Kurmandzsan Datka, akit \"Dél Királynőjeként\" ismertek, egy kiemelkedő államnő volt, aki a 19. században az alaj kirgizeket vezette. Döntő szerepet játszott a diplomáciai navigációban az orosz közép-ázsiai terjeszkedés során. A 2004-ben emelt bronz emlékmű az egykori Lenin-szobor helyére került, és Kurmandzsan Datkát mint bölcs és méltóságteljes matriarchát ábrázolja hagyományos kirgiz ruházatban. A szobor a kirgiz nemzeti büszkeség fontos szimbóluma, és elismeri hozzájárulását a kirgiz függetlenség és identitás megőrzéséhez egy viharos történelmi időszakban.",
+        "ro": "Monumentul lui Kurmanjan Datka din Parcul Erkindik din Bishkek onorează una dintre cele mai faimoase personalități istorice din Kârgâzstan. Kurmanjan Datka, cunoscută drept „Regina Sudului”, a fost o femeie de stat proeminentă care a condus kârgâzii din Alai în secolul al XIX-lea. Ea a jucat un rol crucial în navigarea diplomatică în timpul expansiunii rusești în Asia Centrală. Monumentul de bronz, ridicat în 2004, înlocuiește fosta statuie a lui Lenin și o prezintă pe Kurmanjan Datka ca o matriarhă înțeleaptă și demnă în îmbrăcăminte tradițională kârgâză. Statuia este un simbol important al mândriei naționale kârgâze și recunoaște contribuția sa la păstrarea independenței și identității kârgâze într-o perioadă istorică turbulentă.",
+        "en": "The Monument of Kurmanjan Datka in Erkindik Park in Bishkek honors one of Kyrgyzstan's most famous historical figures. Kurmanjan Datka, known as the \"Queen of the South,\" was a prominent stateswoman who led the Alai Kyrgyz in the 19th century. She played a crucial role in diplomatic navigation during the Russian expansion into Central Asia. Erected in 2004, the bronze monument replaces the former Lenin statue and depicts Kurmanjan Datka as a wise and dignified matriarch in traditional Kyrgyz clothing. The statue is an important symbol of Kyrgyz national pride, recognizing her contribution to the preservation of Kyrgyz independence and identity during a turbulent historical period."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im zentralen Erkindik-Park (Eichenpark) von Bischkek.",
+          "Das Denkmal ehrt Kurmanjan Datka, die sogenannte 'Königin des Südens'.",
+          "Die Statue wurde 2004 aufgestellt, um eine Lenin-Statue zu ersetzen.",
+          "Kurmanjan Datka war eine wichtige diplomatische Figur im 19. Jahrhundert.",
+          "Sie ist die einzige Frau auf kirgisischen Banknoten (der 50-Som-Schein).",
+          "Das Denkmal repräsentiert Weisheit und kirgisische Unabhängigkeit."
+        ],
+        "hu": [
+          "Biskek központi Erkindik parkjában (Tölgyfa park) található.",
+          "Az emlékmű Kurmandzsan Datkát, az úgynevezett 'Dél Királynőjét' tiszteli.",
+          "A szobrot 2004-ben állították fel egy Lenin-szobor helyére.",
+          "Kurmandzsan Datka fontos diplomáciai figura volt a 19. században.",
+          "Ő az egyetlen nő a kirgiz bankjegyeken (az 50 szomos bankjegyen).",
+          "Az emlékmű a bölcsességet és a kirgiz függetlenséget képviseli."
+        ],
+        "ro": [
+          "Situat în Parcul central Erkindik (Parcul Stejarilor) din Bishkek.",
+          "Monumentul o onorează pe Kurmanjan Datka, așa-numita „Regină a Sudului”.",
+          "Statuia a fost ridicată în 2004 pentru a înlocui o statuie a lui Lenin.",
+          "Kurmanjan Datka a fost o figură diplomatică importantă în secolul al XIX-lea.",
+          "Ea este singura femeie de pe bancnotele kârgâze (bancnota de 50 de somi).",
+          "Monumentul reprezintă înțelepciunea și independența kârgâză."
+        ],
+        "en": [
+          "Located in the central Erkindik Park (Oak Park) of Bishkek.",
+          "The monument honors Kurmanjan Datka, the so-called 'Queen of the South'.",
+          "The statue was erected in 2004, replacing a statue of Lenin.",
+          "Kurmanjan Datka was a major diplomatic figure in the 19th century.",
+          "She is the only woman on Kyrgyz banknotes (the 50-som bill).",
+          "The monument represents wisdom and Kyrgyz independence."
+        ]
+      }
+    },
+    {
+      "id": "osh-lenin-statue-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lenin-Statue in der südlichen Stadt Osch ist eine der wenigen verbliebenen, monumentalen Statuen des sowjetischen Führers, die in Zentralasien noch an ihrem ursprünglichen Platz auf einem zentralen Platz stehen. Das massive Denkmal überragt den Hauptplatz vor dem Rathaus und zeigt Lenin, der mit ausgestrecktem Arm in Richtung einer leuchtenden kommunistischen Zukunft zeigt. Im Gegensatz zu vielen anderen ehemaligen Sowjetrepubliken, die Lenin-Statuen nach der Unabhängigkeit schnell entfernten, hat Osch dieses Denkmal als Teil seiner Geschichte bewahrt. Die Statue ist auf einem großen Marmorsockel montiert und ein beliebter Treffpunkt für Einheimische und ein kurioses Fotomotiv für Touristen, die sich für die sowjetische Vergangenheit der Region interessieren.",
+        "hu": "Az osi Lenin-szobor a kevés fennmaradt monumentális szovjet vezetői szobrok egyike, amely Közép-Ázsiában még mindig eredeti helyén, egy központi téren áll. A hatalmas emlékmű a városháza előtti fő tér fölé magasodik, és Lenint ábrázolja, amint kinyújtott karral egy fényes kommunista jövő felé mutat. Sok más volt szovjet tagköztársasággal ellentétben, amelyek a függetlenség után gyorsan eltávolították a Lenin-szobrokat, Os megőrizte ezt az emlékművet a történelme részeként. A szobor egy nagy márványtalapzaton áll, népszerű találkozóhely a helyiek számára, és érdekes fotótéma azon turisták számára, akik a régió szovjet múltja iránt érdeklődnek.",
+        "ro": "Statuia lui Lenin din orașul sudic Osh este una dintre puținele statui monumentale rămase ale liderului sovietic care încă se află în locația sa originală dintr-o piață centrală din Asia Centrală. Monumentul masiv domină piața principală din fața primăriei și îl înfățișează pe Lenin arătând cu brațul întins către un viitor comunist luminos. Spre deosebire de multe alte foste republici sovietice care au îndepărtat rapid statuile lui Lenin după independență, Osh a păstrat acest monument ca parte a istoriei sale. Statuia este montată pe un piedestal mare de marmură, fiind un punct de întâlnire popular pentru localnici și un subiect curios de fotografie pentru turiștii interesați de trecutul sovietic al regiunii.",
+        "en": "The Lenin Statue in the southern city of Osh is one of the few remaining monumental statues of the Soviet leader that still stands in its original location in a central square in Central Asia. The massive monument towers over the main square in front of the city hall, depicting Lenin pointing with an outstretched arm toward a bright communist future. Unlike many other former Soviet republics that quickly removed Lenin statues following independence, Osh has preserved this monument as part of its history. Mounted on a large marble pedestal, the statue is a popular meeting point for locals and a curious photo opportunity for tourists interested in the region's Soviet past."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gilt als eine der größten erhaltenen Lenin-Statuen in Zentralasien.",
+          "Befindet sich auf dem zentralen Platz von Osch vor dem Rathaus.",
+          "Lenin ist in seiner typischen Pose mit ausgestrecktem Arm dargestellt.",
+          "Wurde nach dem Zusammenbruch der Sowjetunion nicht abgebaut.",
+          "Steht auf einem massiven Sockel aus rotem Marmor.",
+          "Dient als Erinnerung an die sowjetische Geschichte der Stadt."
+        ],
+        "hu": [
+          "Közép-Ázsia egyik legnagyobb fennmaradt Lenin-szobraként tartják számon.",
+          "Os központi terén, a városháza előtt található.",
+          "Lenint jellegzetes pózában, kinyújtott karral ábrázolja.",
+          "A Szovjetunió összeomlása után nem bontották le.",
+          "Egy hatalmas vörös márványtalapzaton áll.",
+          "A város szovjet történelmének emlékeként szolgál."
+        ],
+        "ro": [
+          "Considerată una dintre cele mai mari statui ale lui Lenin rămase în Asia Centrală.",
+          "Situată în piața centrală din Osh, în fața primăriei.",
+          "Îl înfățișează pe Lenin în poza sa tipică, cu brațul întins.",
+          "Nu a fost demontată după prăbușirea Uniunii Sovietice.",
+          "Este montată pe un piedestal masiv de marmură roșie.",
+          "Servește ca un memento al istoriei sovietice a orașului."
+        ],
+        "en": [
+          "Considered one of the largest remaining Lenin statues in Central Asia.",
+          "Located in the central square of Osh, facing the city hall.",
+          "Depicts Lenin in his typical pose with an outstretched arm.",
+          "Was not dismantled following the collapse of the Soviet Union.",
+          "Is mounted on a massive pedestal made of red marble.",
+          "Serves as a reminder of the city's Soviet history."
+        ]
+      }
+    },
+    {
+      "id": "ata-beyit-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Ata-Beyit, was \"Grab der Väter\" bedeutet, ist ein Gedenkkomplex außerhalb von Bischkek, der den Opfern der stalinistischen Säuberungen in den 1930er Jahren gewidmet ist. Die Stätte wurde heimlich genutzt, um die Leichen von 137 prominenten kirgisischen Politikern, Intellektuellen und Wissenschaftlern zu beschatten, die 1938 während der Großen Säuberung hingerichtet wurden. Die genaue Lage des Massengrabes wurde erst 1991 enthüllt. Der Komplex wurde im Jahr 2000 offiziell eröffnet und beherbergt die neu bestatteten Überreste dieser nationalen Führer. Ata-Beyit dient auch als Ruhestätte für den berühmten Schriftsteller Tschingis Aitmatow sowie für die Opfer der politischen Unruhen vom April 2010 und ist ein Ort tiefer nationaler Trauer und Besinnung.",
+        "hu": "Az Ata-Bejit, amely \"Az Apák Sírját\" jelenti, egy emlékkomplexum Biskeken kívül, amelyet az 1930-as évek sztálini tisztogatásai áldozatainak szenteltek. A helyszínt titokban használták annak a 137 kiemelkedő kirgiz politikusnak, értelmiséginek és tudósnak a holttesteinek eltüntetésére, akiket 1938-ban a Nagy Tisztogatás során végeztek ki. A tömegsír pontos helyét csak 1991-ben fedték fel. A komplexumot 2000-ben nyitották meg hivatalosan, és itt helyezték végső nyugalomra ezeknek a nemzeti vezetőknek a földi maradványait. Az Ata-Bejit a híres író, Csingiz Ajtmatov, valamint a 2010. áprilisi politikai zavargások áldozatainak nyughelyeként is szolgál, a mély nemzeti gyász és az emlékezés helyszíne.",
+        "ro": "Ata-Beyit, care înseamnă \"Mormântul Părinților\", este un complex memorial situat în afara orașului Bishkek, dedicat victimelor epurărilor staliniste din anii 1930. Situl a fost folosit în secret pentru a ascunde cadavrele a 137 de politicieni, intelectuali și oameni de știință kârgâzi proeminenți care au fost executați în timpul Marii Epurări din 1938. Locația exactă a gropii comune a fost dezvăluită abia în 1991. Complexul a fost deschis oficial în anul 2000 și găzduiește rămășițele reînhumate ale acestor lideri naționali. Ata-Beyit servește, de asemenea, ca loc de odihnă pentru faimosul scriitor Chingiz Aitmatov, precum și pentru victimele tulburărilor politice din aprilie 2010, fiind un loc de profundă doliu și reflecție națională.",
+        "en": "Ata-Beyit, meaning \"Grave of the Fathers,\" is a memorial complex located outside Bishkek dedicated to the victims of the Stalinist repressions in the 1930s. The site was secretly used to dispose of the bodies of 137 prominent Kyrgyz politicians, intellectuals, and scientists who were executed during the Great Purge in 1938. The exact location of the mass grave was not revealed until 1991. The complex was officially opened in 2000 and houses the reburied remains of these national leaders. Ata-Beyit also serves as the final resting place for the famous writer Chingiz Aitmatov, as well as the victims of the April 2010 political unrest, making it a place of profound national mourning and reflection."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich 30 Kilometer südlich von Bischkek am Fuße des Tien-Shan.",
+          "Gewidmet den 137 Opfern der Repressionen der 1930er Jahre.",
+          "Die Massengräber wurden durch die Aussage eines Zeugen 1991 entdeckt.",
+          "Der berühmte Schriftsteller Tschingis Aitmatow ist hier begraben.",
+          "Enthält Gedenkstätten für die Opfer der Aprilrevolution 2010.",
+          "Das Gelände umfasst ein Museum mit persönlichen Gegenständen der Opfer."
+        ],
+        "hu": [
+          "Biskektől 30 kilométerre délre, a Tien-san lábánál található.",
+          "Az 1930-as évek elnyomásának 137 áldozatának szentelték.",
+          "A tömegsírokat egy tanú vallomása alapján fedezték fel 1991-ben.",
+          "Itt van eltemetve a híres író, Csingiz Ajtmatov.",
+          "Emlékműveket tartalmaz a 2010. áprilisi forradalom áldozatai számára.",
+          "A terület egy múzeumot is magában foglal az áldozatok személyes tárgyaival."
+        ],
+        "ro": [
+          "Situat la 30 de kilometri sud de Bishkek, la poalele munților Tian-Șan.",
+          "Dedicat celor 137 de victime ale represiunilor din anii 1930.",
+          "Gropile comune au fost descoperite datorită mărturiei unui martor în 1991.",
+          "Renumitul scriitor Chingiz Aitmatov este înmormântat aici.",
+          "Conține memoriale pentru victimele revoluției din aprilie 2010.",
+          "Terenul include un muzeu cu obiecte personale ale victimelor."
+        ],
+        "en": [
+          "Located 30 kilometers south of Bishkek at the foothills of the Tian Shan.",
+          "Dedicated to the 137 victims of the 1930s repressions.",
+          "The mass graves were discovered through a witness account in 1991.",
+          "The famous writer Chingiz Aitmatov is buried here.",
+          "Contains memorials for the victims of the April 2010 revolution.",
+          "The grounds include a museum displaying personal items of the victims."
+        ]
+      }
+    },
+    {
+      "id": "karakol-historical-museum-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Historische Museum von Karakol ist in einem charmanten Ziegelhaus aus dem vorrevolutionären Russland untergebracht. Das Museum bietet eine umfassende Ausstellung über die reiche Kultur, Natur und Geschichte der Region Yssykköl. Das Highlight der Sammlung sind die prähistorischen Artefakte, darunter skythische Bronzeartefakte und Funde aus versunkenen Siedlungen im See. Die Ausstellungen widmen sich auch dem Leben einheimischer Nomaden, der Ankunft russischer Kosaken und der Kultur der in der Region angesiedelten Dunganen und Uiguren. Ein separater Raum ist dem russischen Entdecker Nikolai Prschewalski gewidmet, der auf einer seiner Expeditionen in der Nähe von Karakol starb und wesentliche Einblicke in die Geografie Zentralasiens lieferte.",
+        "hu": "A Karakoli Történeti Múzeum egy bájos, forradalom előtti orosz téglaépületben kapott helyet. A múzeum átfogó kiállítást kínál az Iszik-köl régió gazdag kultúrájáról, természetéről és történelméről. A gyűjtemény fénypontját a történelem előtti leletek jelentik, köztük a szkíta bronztárgyak és a tóban elsüllyedt településekről származó leletek. A kiállítások a helyi nomádok életével, az orosz kozákok érkezésével, valamint a régióban letelepedett dunganok és ujgurok kultúrájával is foglalkoznak. Egy külön terem foglalkozik Nyikolaj Przsevalszkij orosz felfedezővel, aki Karakol közelében halt meg egyik expedíciója során, és jelentős betekintést nyújtott Közép-Ázsia földrajzába.",
+        "ro": "Muzeul Istoric din Karakol este găzduit într-o fermecătoare casă de cărămidă construită înainte de revoluția rusă. Muzeul oferă o expoziție cuprinzătoare despre bogata cultură, natură și istorie a regiunii Issyk-Kul. Punctul de atracție al colecției îl reprezintă artefactele preistorice, inclusiv artefacte scite din bronz și descoperiri din așezările scufundate în lac. Expozițiile sunt, de asemenea, dedicate vieții nomazilor locali, sosirii cazacilor ruși și culturii dunganilor și uigurilor care s-au stabilit în regiune. O sală separată este dedicată exploratorului rus Nikolai Prjevalski, care a murit lângă Karakol într-una dintre expedițiile sale și a oferit informații esențiale despre geografia Asiei Centrale.",
+        "en": "The Karakol Historical Museum is housed in a charming pre-revolutionary Russian brick building. The museum offers a comprehensive exhibition on the rich culture, nature, and history of the Issyk-Kul region. The highlight of the collection is the prehistoric artifacts, including Scythian bronze items and finds from sunken settlements in the lake. The exhibits also focus on the lives of local nomads, the arrival of Russian Cossacks, and the culture of the Dungans and Uyghurs who settled in the region. A separate room is dedicated to the Russian explorer Nikolai Przhevalsky, who died near Karakol during one of his expeditions and provided essential insights into the geography of Central Asia."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Untergebracht in einem russischen Händlerhaus aus dem späten 19. Jahrhundert.",
+          "Die Sammlung umfasst Artefakte aus skythischen und wusunischen Grabhügeln.",
+          "Bietet detaillierte Ausstellungen zur regionalen Tier- und Pflanzenwelt.",
+          "Verfügt über eine Sammlung von Fotografien von Karakol aus dem 19. Jahrhundert.",
+          "Zeigt Werkzeuge und Alltagsgegenstände der nomadischen Kirgisen.",
+          "Dokumentiert die vielfältigen ethnischen Gruppen des Yssykköl-Beckens."
+        ],
+        "hu": [
+          "Egy 19. század végi orosz kereskedőházban kapott helyet.",
+          "A gyűjtemény szkíta és uszun sírhalmokból származó tárgyakat tartalmaz.",
+          "Részletes kiállításokat kínál a regionális állat- és növényvilágról.",
+          "Karakolról készült 19. századi fényképekből álló gyűjteménnyel rendelkezik.",
+          "A nomád kirgizek eszközeit és mindennapi tárgyait mutatja be.",
+          "Az Iszik-köl-medence változatos etnikai csoportjait dokumentálja."
+        ],
+        "ro": [
+          "Găzduit într-o casă comercială rusă de la sfârșitul secolului al XIX-lea.",
+          "Colecția include artefacte din movilele funerare scite și wusun.",
+          "Oferă expoziții detaliate despre fauna și flora regională.",
+          "Are o colecție de fotografii ale orașului Karakol din secolul al XIX-lea.",
+          "Afișează unelte și obiecte de zi cu zi ale nomazilor kârgâzi.",
+          "Documentează diversele grupuri etnice din bazinul Issyk-Kul."
+        ],
+        "en": [
+          "Housed in a late 19th-century Russian merchant's house.",
+          "The collection includes artifacts from Scythian and Wusun burial mounds.",
+          "Offers detailed exhibits on regional flora and fauna.",
+          "Features a collection of 19th-century photographs of Karakol.",
+          "Displays tools and everyday items of the nomadic Kyrgyz people.",
+          "Documents the diverse ethnic groups of the Issyk-Kul basin."
+        ]
+      }
+    }
+  ]
+}

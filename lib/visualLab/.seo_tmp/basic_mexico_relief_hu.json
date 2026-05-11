@@ -1,0 +1,24 @@
+{
+  "lang": "hu",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "Nagy kiterjedésű, sík mészkő-fennsík Mexikó délkeleti részén, amely híres földalatti folyórendszereiről és cenotéiról.",
+      "facts": ["Mészkő-fennsík", "Yucatán-félsziget", "Cenoték", "Földalatti vizek"]
+    },
+    {
+      "id": "sierra-de-la-giganta-relief-v2",
+      "description": "A Baja California-félsziget keleti részén húzódó hegylánc, amely látványos sziklás képződményeiről és meredek lejtőiről ismert.",
+      "facts": ["Baja California", "Hegylánc", "Sziklás táj", "Meredek lejtők"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "A Sierra Madre hegységrendszer része Sonora államban, amely vadregényes tájaival és kanyonjaival jelentős földrajzi elem.",
+      "facts": ["Sonora állam", "Sierra Madre", "Vadregényes táj", "Kanyonok"]
+    }
+  ]
+}

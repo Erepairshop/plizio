@@ -1,0 +1,59 @@
+{
+    "lang": "multi4",
+    "country": "canada",
+    "files": ["lib/visualLab/data/poiExtraCanadaLandmarksV2.ts"],
+    "items": [
+      {
+        "id": "olympic-stadium-montreal-landmarks-v2",
+        "factsAdvanced": [
+            "A stadion beceneve 'The Big O' az alakja és a hatalmas költségek miatt.",
+            "A torony 45 fokos szögben dől, ami rendkívül bonyolult mérnöki feladat volt.",
+            "Az eredeti tervek szerint a tetőnek teljesen behúzhatónak kellett volna lennie, de soha nem működött megfelelően.",
+            "A stadion volt a Montreal Expos baseballcsapat otthona 1977 és 2004 között.",
+            "Számos nagy koncertnek adott otthont, köztük a Pink Floyd és a U2 is fellépett itt.",
+            "A toronyban egy sikló viszi fel a látogatókat a kilátóba.",
+            "Az építkezés tele volt sztrájkokkal és költségtúllépésekkel.",
+            "Ma sportesemények, kiállítások és koncertek helyszíne."
+        ]
+      },
+      {
+        "id": "bc-place-stadium-landmarks-v2",
+        "factsAdvanced": [
+            "A tetőt 2011-ben cserélték ki egy új, behúzható változatra 514 millió dollárért.",
+            "A tető 36 acéloszlopról függ, és 20 perc alatt nyitható vagy csukható.",
+            "A stadionban található a világ egyik legnagyobb, középen felfüggesztett HD videótáblája.",
+            "A BC Lions mellett a kanadai labdarúgó-válogatott is játszik itt mérkőzéseket.",
+            "A 2015-ös FIFA női világbajnokság döntőjének helyszíne volt.",
+            "Az épület külseje egyedi 'párna' kinézetű ETFE fóliából készült.",
+            "A stadion a False Creek partján található, Vancouver belvárosában.",
+            "Évente több mint egymillió látogatót vonz."
+        ]
+      },
+      {
+        "id": "habitat-67-landmarks-v2",
+        "factsAdvanced": [
+            "A 354 betonmodult egy helyszíni gyárban öntötték, majd daruval emelték a helyükre.",
+            "A komplexum eredetileg 158 lakást tartalmazott, de azóta néhányat összevontak.",
+            "Minden lakásnak legalább egy, de akár három terasza is van.",
+            "A brutalista építészet egyik legismertebb példája a világon.",
+            "Moshe Safdie diplomamunkájának részeként tervezte a McGill Egyetemen.",
+            "Az Expo 67 idején a pavilon ideiglenes szállásként szolgált a méltóságok számára.",
+            "Az épületben ma is laknak, és a lakások nagyon keresettek.",
+            "A komplexum szerepelt a 'Blades of Glory' című filmben."
+        ]
+      },
+      {
+        "id": "national-gallery-of-canada-landmarks-v2",
+        "factsAdvanced": [
+          "A galériát 1880-ban alapították, de a jelenlegi épületét 1988-ban nyitották meg.",
+          "A 'Maman' pók szobor több mint 9 méter magas és 20 márványtojást hordoz a hasában.",
+          "A Nagy Csarnok üvegmennyezete a Parlament könyvtárának boltíves mennyezetét idézi.",
+          "A galéria ad otthont a Group of Seven kanadai festőcsoport legnagyobb gyűjteményének.",
+          "Az Inuit művészeti gyűjtemény több mint 10 000 darabot számlál.",
+          "A galéria Rideau kápolnája egy 19. századi kápolna teljes, újjáépített belső tere.",
+          "A galéria kutatóintézetet és könyvtárat is működtet.",
+          "A belépés csütörtök este ingyenes."
+        ]
+      }
+    ]
+}

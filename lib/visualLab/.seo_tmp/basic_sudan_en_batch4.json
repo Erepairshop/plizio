@@ -1,0 +1,74 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sd-rs-naqa-history-v2",
+      "description": "An ancient Kushite city site featuring well-preserved temples from the Meroitic period.",
+      "facts": ["Ancient Kushite site", "Meroitic period", "Temple ruins", "Archaeological site"]
+    },
+    {
+      "id": "sd-no-kerma-history-v2",
+      "description": "One of the oldest urban centers in sub-Saharan Africa, serving as the capital of the Kerma culture.",
+      "facts": ["Ancient urban center", "Kerma culture capital", "Nubian history", "Archaeological site"]
+    },
+    {
+      "id": "sd-no-tombos-history-v2",
+      "description": "An archaeological site known for its ancient Egyptian inscriptions and Pharaonic-era ruins.",
+      "facts": ["Ancient inscriptions", "Pharaonic ruins", "Nubian site", "Historical landmark"]
+    },
+    {
+      "id": "sd-no-western-deffufa-history-v2",
+      "description": "A massive mud-brick structure that served as a religious center during the Kerma period.",
+      "facts": ["Ancient mud-brick temple", "Kerma period site", "Nubian architecture", "Religious monument"]
+    },
+    {
+      "id": "sd-no-kawa-history-v2",
+      "description": "An archaeological site containing ancient temples and a necropolis from the Kushite era.",
+      "facts": ["Kushite temples", "Ancient necropolis", "Nubian site", "Historical discovery"]
+    },
+    {
+      "id": "sd-no-uronarti-history-v2",
+      "description": "An island fortress site used by ancient Egyptians to control the Nile trade routes.",
+      "facts": ["Ancient Nile fortress", "Egyptian trade control", "Nubian island site", "Historical military"]
+    },
+    {
+      "id": "sd-no-buhen-history-v2",
+      "description": "A legendary ancient settlement and fortress that guarded the northern border of ancient Egypt.",
+      "facts": ["Ancient border fortress", "Nile settlement", "Egyptian military site", "Nubian history"]
+    },
+    {
+      "id": "sd-no-mirgissa-history-v2",
+      "description": "An important archaeological site housing a massive ancient Egyptian fortress on the Nile.",
+      "facts": ["Ancient Egyptian fortress", "Nile archaeological site", "Nubian military outpost", "Historical excavation"]
+    },
+    {
+      "id": "sd-no-askut-history-v2",
+      "description": "A well-excavated Middle Kingdom Egyptian fortress site on an island in the Nile.",
+      "facts": ["Middle Kingdom fortress", "Nile island site", "Egyptian outpost", "Historical archaeology"]
+    },
+    {
+      "id": "sd-gz-jebel-moya-history-v2",
+      "description": "A significant archaeological site featuring large-scale residential and burial remains.",
+      "facts": ["Ancient residential site", "Archaeological excavation", "Historical settlement", "Nubian culture"]
+    },
+    {
+      "id": "sd-rs-dangeil-history-v2",
+      "description": "A historic site known for its Amun temple and insights into the Kushite period.",
+      "facts": ["Amun temple site", "Kushite period", "Archaeological discovery", "Historical landmark"]
+    },
+    {
+      "id": "sd-kh-khalifa-house-history-v2",
+      "description": "A 19th-century building in Omdurman that served as the residence of the Khalifa.",
+      "facts": ["19th-century residence", "Omdurman historic site", "Mahdist period", "Museum building"]
+    },
+    {
+      "id": "sd-rs-badi-ruins-history-v2",
+      "description": "The ruins of an ancient Red Sea port city with deep historical roots in trade.",
+      "facts": ["Ancient port city", "Red Sea trade site", "Historic ruins", "Archaeological landmark"]
+    }
+  ]
+}

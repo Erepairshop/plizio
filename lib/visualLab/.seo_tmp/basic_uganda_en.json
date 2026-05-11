@@ -1,0 +1,40 @@
+{
+  "lang": "en",
+  "country": "Uganda",
+  "files": [
+    "lib/visualLab/data/poiExtraUgandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUgandaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kabakas-palace-lubiri-history-v2",
+      "description": "The official residence of the Kabaka of Buganda, located on Mengo Hill in Kampala. It served as a center of political power and traditional authority for the Buganda Kingdom.",
+      "facts": [
+        "Built in 1885",
+        "Official royal residence",
+        "Located in Kampala",
+        "Symbol of Buganda heritage"
+      ]
+    },
+    {
+      "id": "fort-lugard-history-v2",
+      "description": "A historic colonial fort established by Frederick Lugard on Old Kampala Hill. It played a significant role in the consolidation of British administration in the Uganda Protectorate.",
+      "facts": [
+        "Founded in 1890",
+        "Established by Frederick Lugard",
+        "Colonial administrative site",
+        "Located in Kampala"
+      ]
+    },
+    {
+      "id": "semuliki-life-v2",
+      "description": "A unique habitat featuring tropical rainforest and hot springs in the Semuliki Valley. It is known for its high biodiversity and presence of rare species.",
+      "facts": [
+        "Established as a park in 1993",
+        "Contains hot springs",
+        "Rich in bird species",
+        "Tropical rainforest habitat"
+      ]
+    }
+  ]
+}

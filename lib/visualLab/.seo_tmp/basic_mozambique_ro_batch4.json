@@ -1,0 +1,55 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "Râul Chinde este un braț distribuit al râului Zambezi pe Oceanul Indian, important pentru navigație și pescuit.",
+      "facts": ["Braț distribuit Zambezi", "Oceanul Indian", "Navigație și pescuit"]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "Pădurea Lupata este o pădure protejată în provincia Sofala, caracterizată prin bogata sa biodiversitate.",
+      "facts": ["Pădure protejată", "Provincia Sofala", "Biodiversitate bogată"]
+    },
+    {
+      "id": "magoe-lake-nature-v2",
+      "description": "Lacul Magoé este un lac de apă dulce în provincia Tete, cunoscut pentru fauna sa sălbatică și oportunitățile de pescuit.",
+      "facts": ["Lac de apă dulce", "Provincia Tete", "Faună sălbatică și pescuit"]
+    },
+    {
+      "id": "gile-forest-nature-v2",
+      "description": "Pădurea Gile este o pădure tropicală importantă în provincia Zambezia, adăpostind o varietate de specii de animale și plante.",
+      "facts": ["Pădure tropicală", "Provincia Zambezia", "Specii de animale și plante"]
+    },
+    {
+      "id": "gorgon-sea-nature-v2",
+      "description": "Marea Gorgon este o parte a Oceanului Indian în largul coastei Mozambicului, cunoscută pentru bogata sa biodiversitate marină.",
+      "facts": ["Oceanul Indian", "Biodiversitate marină", "Coasta Mozambicului"]
+    },
+    {
+      "id": "chiu-mountain-nature-v2",
+      "description": "Muntele Chiu este un munte proeminent în provincia Niassa, prezentând floră și faună unice.",
+      "facts": ["Provincia Niassa", "Floră și faună unice", "Munte proeminent"]
+    },
+    {
+      "id": "tite-tiefland-relief-v2",
+      "description": "Câmpia Tete este o regiune extinsă, plană, de-a lungul râului Zambezi, utilizată pe scară largă pentru agricultură.",
+      "facts": ["Regiune plană", "Râul Zambezi", "Utilizare agricolă"]
+    },
+    {
+      "id": "pemba-bucht-relief-v2",
+      "description": "Golful Pemba este un golf natural pe coasta Mozambicului, cunoscut pentru apele sale protejate și locurile de scufundări.",
+      "facts": ["Golf natural", "Ape protejate", "Locuri de scufundări"]
+    },
+    {
+      "id": "bazaruto-duenen-relief-v2",
+      "description": "Dunele Bazaruto sunt formațiuni impresionante de nisip în Arhipelagul Bazaruto, creând un peisaj unic.",
+      "facts": ["Arhipelagul Bazaruto", "Formațiuni de nisip", "Peisaj unic"]
+    }
+  ]
+}

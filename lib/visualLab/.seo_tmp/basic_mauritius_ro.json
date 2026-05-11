@@ -1,0 +1,14 @@
+{
+  "lang": "ro",
+  "country": "Mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pangia-kids-park-life-v2",
+      "description": "Un parc recreativ destinat copiilor, situat în Mauritius, care oferă numeroase activități și atracții în aer liber. Este un loc popular pentru familiile care doresc să petreacă timp activ și distractiv împreună.",
+      "facts": ["Situat în Mauritius", "Facilități pentru copii", "Zonă de joacă în aer liber", "Ideal pentru familii"]
+    }
+  ]
+}

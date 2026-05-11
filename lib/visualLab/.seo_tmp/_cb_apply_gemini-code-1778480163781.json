@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cantanhez-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Cantanhez-Wald im äußersten Süden Guinea-Bissaus ist das letzte verbliebene zusammenhängende Gebiet mit primärem tropischem Regenwald im Land. Gelegen in der Region Tombali, nahe der Grenze zu Guinea-Conakry, stellt dieser Wald ein kritisches Refugium für die Biodiversität Westafrikas dar. Die Vegetation ist durch gigantische Baumriesen, dichte Lianennetze und eine enorme Vielfalt an Epiphyten geprägt. Cantanhez ist weltbekannt für seine Population des Westafrikanischen Schimpansen, die hier in einer einzigartigen Kulturlandschaft lebt, die von den lokalen Volksgruppen der Nalú und Balanta durch ein System heiliger Haine geschützt wird. Dieses Modell des gemeindebasierten Naturschutzes ist beispielhaft: Der Wald ist in Zonen unterteilt, in denen traditionelle Landwirtschaft und strenger Schutz koexistieren. Neben Primaten beherbergt der Wald seltene Antilopenarten, Waldelefanten und eine außergewöhnliche Vielfalt an Avifauna. Die ökologische Bedeutung von Cantanhez liegt auch in seiner Funktion als Klimaregulator und Wasserspeicher für den Süden des Landes. Trotz des Status als Nationalpark bleibt der Wald durch Holzeinschlag und die Ausweitung von Plantagen bedroht, was seine Erhaltung zu einer der dringlichsten ökologischen Aufgaben Guinea-Bissaus macht.",
+        "hu": "A Guinea-Bissau déli csücskében található Cantanhez-erdő az ország utolsó összefüggő elsődleges trópusi esőerdője. A Tombali régióban, a guineai határ közelében fekvő terület Nyugat-Afrika biodiverzitásának egyik legfontosabb menedékhelye. A növényzetet hatalmas faóriások, sűrű liánok és az epifiták rendkívüli változatosága jellemzi. Cantanhez világhírű a nyugat-afrikai csimpánzállományáról, amely itt egy sajátos kultúrtájban él: a helyi nalú és balanta népcsoportok szent ligetek rendszerével védelmezik az erdőt. Ez a közösségi alapú természetvédelmi modell példaértékű, ahol a hagyományos mezőgazdaság és a szigorú védelem egymás mellett létezik. A főemlősök mellett az erdő ritka antilopfajoknak, erdei elefántoknak és rendkívül gazdag madárvilágnak ad otthont. Cantanhez ökológiai jelentősége a klímaszabályozó szerepében és az ország déli részének vízkészlet-megőrzésében is rejlik. A nemzeti parki státusz ellenére az erdőt folyamatosan veszélyezteti a fakitermelés és az ültetvények terjeszkedése, így megőrzése Guinea-Bissau egyik legsürgetőbb természetvédelmi feladata.",
+        "ro": "Pădurea Cantanhez, situată în extremitatea sudică a Guineei-Bissau, reprezintă ultimul vestigiu de pădure tropicală primară din țară. Localizată în regiunea Tombali, aproape de frontiera cu Guineea-Conakry, această pădure constituie un refugiu critic pentru biodiversitatea Africii de Vest. Vegetația este marcată de arbori gigantici, rețele dense de liane și o varietate imensă de epifite. Cantanhez este renumită la nivel mondial pentru populația sa de cimpanzei vest-africani, care trăiesc într-un peisaj cultural unic, protejat de grupurile etnice locale Nalú și Balanta printr-un sistem de crânguri sacre. Acest model de conservare comunitară este exemplar, pădurea fiind împărțită în zone unde agricultura tradițională și protecția strictă coexistă. Pe lângă primate, pădurea adăpostește specii rare de antilope, elefanți de pădure și o avifaună excepțională. Importanța ecologică a pădurii Cantanhez constă și în funcția sa de regulator climatic și rezervor de apă pentru sudul țării. În ciuda statutului de parc național, pădurea rămâne amenințată de tăierile de arbori și expansiunea plantațiilor, transformând conservarea sa într-o prioritate ecologică majoră pentru Guineea-Bissau.",
+        "en": "The Cantanhez Forest in the far south of Guinea-Bissau is the nation's last remaining contiguous area of primary tropical rainforest. Located in the Tombali region near the border with Guinea-Conakry, this forest is a critical refuge for West African biodiversity. Its vegetation is characterized by towering emergent trees, dense networks of lianas, and an immense variety of epiphytes. Cantanhez is internationally renowned for its population of Western Chimpanzees, which coexist within a unique cultural landscape protected by the local Nalú and Balanta ethnic groups through a system of sacred groves. This community-based conservation model is exemplary, dividing the forest into zones where traditional agriculture and strict protection overlap. In addition to primates, the forest supports rare antelope species, forest elephants, and an extraordinary diversity of birdlife. The ecological significance of Cantanhez also lies in its role as a climate regulator and water catchment area for the country's southern reaches. Despite its status as a national park, the forest remains threatened by logging and the expansion of commercial plantations, making its preservation one of Guinea-Bissau's most urgent environmental challenges."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist das einzige Gebiet in Guinea-Bissau mit echtem primärem Regenwald.",
+          "Die Schimpansenpopulation wird auf mehrere hundert Individuen geschätzt.",
+          "Lokale Gemeinschaften verwalten den Nationalpark aktiv mit.",
+          "Der Wald beherbergt über 360 verschiedene Vogelarten.",
+          "Heilige Wälder der Nalú dienen als de facto Naturschutzkerne.",
+          "Cantanhez ist Teil des grenzüberschreitenden Korridors nach Guinea."
+        ],
+        "hu": [
+          "Ez az egyetlen terület Guinea-Bissauban, ahol valódi őserdő található.",
+          "A csimpánzpopulációt több száz egyedre becsülik a kutatók.",
+          "A helyi közösségek aktívan részt vesznek a nemzeti park kezelésében.",
+          "Az erdő több mint 360 madárfajnak nyújt fészkelőhelyet.",
+          "A nalú nép szent erdői természetes védelmi zónákként funkcionálnak.",
+          "A terület a Guineába átnyúló ökológiai folyosó része."
+        ],
+        "ro": [
+          "Este singura zonă din Guineea-Bissau cu pădure tropicală primară autentică.",
+          "Populația de cimpanzei este estimată la câteva sute de exemplare.",
+          "Comunitățile locale gestionează activ parcul național.",
+          "Pădurea găzduiește peste 360 de specii diferite de păsări.",
+          "Crângurile sacre ale etniei Nalú funcționează ca nuclee de protecție.",
+          "Cantanhez face parte dintr-un coridor ecologic transfrontalier spre Guineea."
+        ],
+        "en": [
+          "It is the only region in Guinea-Bissau featuring true primary rainforest.",
+          "The chimpanzee population is estimated at several hundred individuals.",
+          "Local communities are integral to the national park's management structure.",
+          "The forest supports a record-breaking diversity of over 360 bird species.",
+          "Nalú sacred forests act as de facto strictly protected core zones.",
+          "Cantanhez is a key component of a transnational wildlife corridor."
+        ]
+      }
+    },
+    {
+      "id": "dulombi-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Dulombi-Wald im Osten Guinea-Bissaus repräsentiert einen der wichtigsten Übergangsbereiche zwischen tropischen Feuchtwäldern und der sudano-sahelischen Savanne. Das Schutzgebiet ist Teil des Dulombi-Boé-Nationalparks und zeichnet sich durch eine abwechslungsreiche Topografie aus, die von dichten Galeriewäldern entlang der Flussläufe bis hin zu offener Baumsavanne reicht. Dulombi ist ökologisch besonders wertvoll als Migrationskorridor für Großsäuger, insbesondere für Elefanten, die zwischen Guinea-Conakry, Senegal und Guinea-Bissau wandern. Die Natur hier ist rauer und trockener als im Westen, was eine spezialisierte Flora begünstigt, darunter massive Affenbrotbäume und Mahagonigewächse. Neben Elefanten bietet der Wald Lebensraum für Leoparden, verschiedene Antilopenarten und Hyänen. Der Schutz von Dulombi ist aufgrund der weiten Entfernungen und der grenznahen Lage eine logistische Herausforderung, aber essenziell für den Erhalt der genetischen Vielfalt der westafrikanischen Fauna. Der Wald fungiert zudem als wichtiger Wasserspeicher für die Zuflüsse des Rio Geba und des Rio Corubal, was seine Bedeutung für die regionale Landwirtschaft unterstreicht.",
+        "hu": "A Kelet-Guinea-Bissauban található Dulombi-erdő az ország egyik legfontosabb átmeneti övezete a trópusi nedves erdők és a szudáni-száheli szavanna között. A védett terület a Dulombi-Boé Nemzeti Park része, és változatos domborzat jellemzi, a folyók menti sűrű galériaerdőktől a nyílt fás szavannákig. Dulombi ökológiailag különösen értékes mint a nagytestű emlősök vándorlási folyosója, különös tekintettel az elefántokra, amelyek Guinea-Conakry, Szenegál és Guinea-Bissau között mozognak. A természet itt zordabb és szárazabb, mint nyugaton, ami a speciális flórának kedvez, beleértve a hatalmas majomkenyérfákat és mahagóniféléket. Az elefántok mellett az erdő leopárdoknak, különféle antilopfajoknak és hiénáknak is élőhelyet biztosít. Dulombi védelme a nagy távolságok és a határ menti elhelyezkedés miatt logisztikai kihívást jelent, de elengedhetetlen a nyugat-afrikai fauna genetikai sokféleségének megőrzéséhez. Az erdő emellett a Geba és a Corubal folyók mellékfolyóinak fontos vízgyűjtőjeként is funkcionál, ami hangsúlyozza jelentőségét a régió mezőgazdasága számára.",
+        "ro": "Pădurea Dulombi din estul Guineei-Bissau reprezintă una dintre cele mai importante zone de tranziție între pădurile tropicale umede și savana sudano-saheliană. Zona protejată face parte din Parcul Național Dulombi-Boé și se caracterizează printr-o topografie variată, de la păduri-galerie dense de-a lungul cursurilor de apă până la savană împădurită deschisă. Dulombi este extrem de valoroasă din punct de vedere ecologic ca coridor de migrație pentru mamiferele mari, în special pentru elefanții care circulă între Guineea-Conakry, Senegal și Guineea-Bissau. Natura aici este mai aspră și mai uscată decât în vest, ceea ce favorizează o floră specializată, incluzând baobabi masivi și specii de mahon. Pe lângă elefanți, pădurea oferă habitat pentru leoparzi, diverse specii de antilope și hiene. Protecția pădurii Dulombi este o provocare logistică din cauza distanțelor mari și a locației de frontieră, dar este esențială pentru menținerea diversității genetice a faunei vest-africane. Pădurea funcționează, de asemenea, ca un rezervor de apă important pentru afluenții râurilor Geba și Corubal, subliniind importanța sa pentru agricultura regională.",
+        "en": "The Dulombi Forest in eastern Guinea-Bissau represents one of the most significant transition zones between tropical moist forests and the Sudano-Sahelian savanna. Part of the Dulombi-Boé National Park complex, the area features a diverse topography ranging from dense gallery forests along riverbeds to open wooded savanna. Dulombi is ecologically vital as a migration corridor for large mammals, particularly elephants that range between Guinea-Conakry, Senegal, and Guinea-Bissau. The environment here is more rugged and arid than in the west, fostering specialized flora such as massive baobabs and mahogany trees. In addition to elephants, the forest provides habitat for leopards, various antelope species, and hyenas. Protecting Dulombi is a logistical challenge due to its vast remoteness and proximity to international borders, yet it is essential for preserving the genetic diversity of West African wildlife. The forest also serves as an important watershed for tributaries of the Geba and Corubal rivers, underscoring its importance to regional agriculture and water security."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Dulombi ist Teil des größten terrestrischen Schutzgebiets-Komplexes des Landes.",
+          "Der Wald dient als saisonaler Wanderweg für westafrikanische Elefanten.",
+          "Die Flora umfasst wertvolle Harthölzer wie afrikanisches Mahagoni.",
+          "Das Gebiet ist dünn besiedelt und bewahrt eine hohe Wildnisqualität.",
+          "Dulombi liegt in einer Übergangszone zwischen Savanne und Wald.",
+          "Internationale Projekte unterstützen den Schutz gegen grenzüberschreitende Wilderei."
+        ],
+        "hu": [
+          "Dulombi az ország legnagyobb szárazföldi védett területi komplexumának része.",
+          "Az erdő a nyugat-afrikai elefántok szezonális vándorútvonala.",
+          "Növényvilágában értékes keményfák, például afrikai mahagóni is található.",
+          "A terület ritkán lakott, így megőrizte vadregényes jellegét.",
+          "Dulombi a szavanna és az erdő közötti átmeneti zónában fekszik.",
+          "Nemzetközi projektek segítik az orvvadászat elleni fellépést a térségben."
+        ],
+        "ro": [
+          "Dulombi face parte din cel mai mare complex terestru protejat din țară.",
+          "Pădurea servește ca rută sezonieră pentru elefanții vest-africani.",
+          "Flora include esențe prețioase de lemn tare, precum mahonul african.",
+          "Zona este slab populată, păstrând o calitate ridicată a sălbăticiei.",
+          "Dulombi se află într-o zonă de tranziție între savană și pădure.",
+          "Proiecte internaționale sprijină protecția împotriva braconajului transfrontalier."
+        ],
+        "en": [
+          "Dulombi is part of the country's largest terrestrial protected area complex.",
+          "The forest acts as a seasonal highway for migratory West African elephants.",
+          "Its flora includes highly valued hardwoods like African mahogany.",
+          "The region is sparsely populated, maintaining a high level of wilderness.",
+          "Dulombi sits in a unique transition belt between savanna and forest biomes.",
+          "International initiatives focus on protecting the area from cross-border poaching."
+        ]
+      }
+    },
+    {
+      "id": "boe-hills-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Boé-Hügel im Südosten Guinea-Bissaus bilden eine der markantesten und geschichtsträchtigsten Landschaften des Landes. Diese Mittelgebirgsregion ist geprägt von Laterit-Plateaus, tief eingeschnittenen Tälern und weiten Grassavannen, die sich mit dichten Wäldern abwechseln. Geologisch ist das Gebiet durch reiche Bauxitvorkommen von globaler Bedeutung gekennzeichnet, was jedoch auch ökologische Herausforderungen mit sich bringt. Die Boé-Hügel sind bekannt für ihr raues Klima und ihre Abgeschiedenheit, was sie während des Unabhängigkeitskrieges zu einem idealen Versteck und strategischen Rückzugsort für die Widerstandskämpfer machte. Naturräumlich beherbergt die Region eine einzigartige Flora, die an die eisenreichen Böden angepasst ist, sowie eine vielfältige Fauna, darunter Löwen, Leoparden und große Primatenpopulationen. Der Rio Corubal durchschneidet die Hügel und bildet spektakuläre Stromschnellen. Boé ist ein Symbol für die unbezähmbare Natur Guinea-Bissaus und ein Ort, an dem die nationale Unabhängigkeit proklamiert wurde. Für Wanderer und Naturforscher bieten die Hügel eine der ursprünglichsten Landschaften Westafrikas, weit entfernt von jeglicher urbanen Infrastruktur.",
+        "hu": "A Guinea-Bissau délkeleti részén fekvő Boé-dombság az ország egyik legkarakteresebb és legtörténelmibb tája. Ezt a középhegységi régiót laterit-fennsíkok, mélyen bevágott völgyek és kiterjedt füves szavannák jellemzik, amelyek sűrű erdőkkel váltakoznak. Geológiailag a terület globális jelentőségű bauxitlelőhelyekről ismert, ami azonban ökológiai kihívásokat is felvet. A Boé-dombság zord éghajlatáról és elszigeteltségéről nevezetes, ami a függetlenségi háború idején ideális rejtekhellyé és stratégiai visszavonulási ponttá tette a szabadságharcosok számára. Természeti szempontból a régió egyedülálló, a vasban gazdag talajhoz alkalmazkodott flórának, valamint változatos faunának – köztük oroszlánoknak, leopárdoknak és jelentős főemlőspopulációknak – ad otthont. A Corubal-folyó szeli át a dombokat, látványos zúgókat alkotva. Boé Guinea-Bissau féktelen természetének szimbóluma, és az a hely, ahol kikiáltották a nemzeti függetlenséget. A túrázók és természetkutatók számára a dombság Nyugat-Afrika egyik legérintetlenebb táját kínálja, távol minden városi infrastruktúrától.",
+        "ro": "Dealurile Boé din sud-estul Guineei-Bissau formează unul dintre cele mai distinctive și încărcate de istorie peisaje ale țării. Această regiune montană este definită de platouri de laterit, văi adânci și savane vaste cu ierburi înalte care alternează cu păduri dense. Din punct de vedere geologic, zona este marcată de zăcăminte bogate de bauxită de importanță globală, ceea ce aduce însă și provocări ecologice. Dealurile Boé sunt cunoscute pentru climatul lor aspru și izolare, elemente care le-au transformat într-o ascunzătoare ideală și un loc strategic de retragere pentru luptătorii de rezistență în timpul războiului de independență. Natural, regiunea găzduiește o floră unică, adaptată solurilor bogate în fier, precum și o faună diversă, incluzând lei, leoparzi și populații mari de primate. Rio Corubal străbate dealurile, formând praguri spectaculoase. Boé este un simbol al naturii indomabile a Guineei-Bissau și locul unde a fost proclamată independența națională. Pentru drumeți și cercetători ai naturii, dealurile oferă unul dintre cele mai virgine peisaje din Africa de Vest, departe de orice infrastructură urbană.",
+        "en": "The Boé Hills in southeastern Guinea-Bissau form one of the country's most distinctive and historically charged landscapes. This upland region is defined by laterite plateaus, deep-cut valleys, and vast grassy savannas interspersed with dense forest patches. Geologically, the area is significant for its rich bauxite deposits, though this poses ongoing environmental management challenges. The Boé Hills are known for their rugged climate and remoteness, which made them an ideal hideout and strategic retreat for resistance fighters during the War of Independence. Ecologically, the region hosts a unique flora adapted to iron-rich soils and a diverse fauna, including lions, leopards, and significant primate populations. The Corubal River carves through the hills, creating spectacular rapids and waterfalls. Boé stands as a symbol of Guinea-Bissau's untamed nature and is famously the site where national independence was proclaimed in 1973. For hikers and naturalists, the hills offer one of the most pristine wilderness experiences in West Africa, far removed from modern urban infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Hügel von Boé beherbergen die höchsten Erhebungen Guinea-Bissaus.",
+          "Die Region ist reich an Bauxitvorkommen, die bisher kaum erschlossen sind.",
+          "Boé gilt als die Geburtsstätte der Republik Guinea-Bissau.",
+          "Das Plateau ist ein wichtiger Lebensraum für Westafrikanische Schimpansen.",
+          "Die Vegetation ist stark von den extremen jahreszeitlichen Regenfällen geprägt.",
+          "Es ist eine der am dünnsten besiedelten Regionen des Landes."
+        ],
+        "hu": [
+          "A Boé-dombságban találhatók Guinea-Bissau legmagasabb pontjai.",
+          "A régió gazdag bauxitlelőhelyekben, amelyek kitermelése még várat magára.",
+          "Boé a Bissau-guineai Köztársaság kikiáltásának történelmi helyszíne.",
+          "A fennsík a nyugat-afrikai csimpánzok egyik fontos élőhelye.",
+          "A növényzetet nagyban meghatározzák a szélsőséges évszakos esőzések.",
+          "Ez az ország egyik legritkábban lakott területe."
+        ],
+        "ro": [
+          "Dealurile Boé adăpostesc cele mai înalte cote de relief din Guineea-Bissau.",
+          "Regiunea este bogată în depozite de bauxită, care nu au fost încă exploatate.",
+          "Boé este considerat locul de naștere al Republicii Guineea-Bissau.",
+          "Platoul este un habitat important pentru cimpanzeii vest-africani.",
+          "Vegetația este puternic influențată de ploile sezoniere extreme.",
+          "Este una dintre cele mai slab populate regiuni ale țării."
+        ],
+        "en": [
+          "The Boé Hills contain the highest elevations in Guinea-Bissau.",
+          "The region is rich in bauxite deposits, which remain largely undeveloped.",
+          "Boé is historically recognized as the birthplace of the Republic of Guinea-Bissau.",
+          "The plateau serves as a critical habitat for Western Chimpanzees.",
+          "Local vegetation is adapted to survive extreme seasonal rainfall fluctuations.",
+          "It is among the most sparsely populated regions in the entire country."
+        ]
+      }
+    },
+    {
+      "id": "rio-mansoa-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Rio Mansoa ist einer der zentralen Flüsse Guinea-Bissaus und spielt eine entscheidende Rolle für das hydrologische Gleichgewicht der nördlichen Zentralregion. Er entspringt im Landesinneren und fließt in westlicher Richtung, wobei er die Stadt Mansoa passiert, bevor er in einem breiten Ästuar in den Atlantik mündet. Die Natur des Rio Mansoa ist geprägt von einem massiven Mangrovensystem, das tief in das Binnenland vordringt. Diese Mangroven wirken als Filter für Sedimente und bieten Schutz vor Küstenerosion. Der Fluss ist ökologisch bedeutsam als Brutgebiet für zahlreiche Fischarten und Garnelen, die das Rückgrat der lokalen Fischerei bilden. Die Uferbereiche bestehen oft aus fruchtbaren 'Bolonhas' (Marschland), die seit Generationen für den Reisanbau genutzt werden. Die Gezeiten beeinflussen den Mansoa massiv und führen zu einer starken Salzwasserintrusion, was die landwirtschaftliche Nutzung vor Herausforderungen stellt. Der Fluss ist zudem ein wichtiger Transportweg für den Handel zwischen der Region Oio und Bissau. Die Stille der Mangrovenwälder entlang des Mansoa beherbergt eine reiche Vogelwelt und seltene Reptilien wie das Westafrikanische Panzerkrokodil.",
+        "hu": "A Mansoa-folyó Guinea-Bissau egyik központi folyóvize, amely döntő szerepet játszik az északi-középső régió hidrológiai egyensúlyában. A szárazföld belsejében ered, nyugati irányba folyik, érintve Mansoa városát, majd széles tölcsértorkolattal ömlik az Atlanti-óceánba. A Mansoa-folyó természetét a hatalmas mangrove-rendszer határozza meg, amely mélyen benyúlik a szárazföld belseje felé. Ezek a mangrovék üledékszűrőként működnek, és védelmet nyújtanak a partmenti erózió ellen. A folyó ökológiailag jelentős szaporodóhelye számos halfajnak és garnélaráknak, amelyek a helyi halászat alapját képezik. A part menti területek gyakran termékeny „bolonhákat” (mocsaras területeket) tartalmaznak, amelyeket nemzedékek óta rizstermesztésre használnak. Az árapály erősen befolyásolja a Mansoa vízjárását, ami jelentős sós víz betöréshez vezet, kihívás elé állítva a mezőgazdaságot. A folyó emellett fontos kereskedelmi útvonal Oio régió és Bissau között. A Mansoa menti mangroveerdők csendje gazdag madárvilágnak és ritka hüllőknek, például a nyugat-afrikai páncélos krokodilnak ad otthont.",
+        "ro": "Rio Mansoa este unul dintre fluviile centrale ale Guineei-Bissau, jucând un rol crucial în echilibrul hidrologic al regiunii nord-centrale. Izvorăște din interiorul țării și curge spre vest, trecând prin orașul Mansoa înainte de a se vărsa în Atlantic printr-un estuar larg. Natura râului Mansoa este definită de un sistem masiv de mangrove care pătrunde adânc în interiorul continentului. Aceste mangrove acționează ca filtre pentru sedimente și oferă protecție împotriva eroziunii costiere. Fluviul este important din punct de vedere ecologic ca zonă de reproducere pentru numeroase specii de pești și creveți, care constituie baza pescuitului local. Zonele de mal constau adesea în 'bolonhas' fertile (terenuri mlăștinoase), utilizate pentru cultivarea orezului de generații. Mareele influențează masiv râul Mansoa, ducând la o puternică intruziune a apei sărate, ceea ce reprezintă o provocare pentru utilizarea agricolă. Fluviul este, de asemenea, o cale de transport importantă pentru comerțul dintre regiunea Oio și Bissau. Liniștea pădurilor de mangrove de-a lungul râului Mansoa adăpostește o avifaună bogată și reptile rare, cum ar fi crocodilul vest-african cu armură.",
+        "en": "The Mansoa River is one of Guinea-Bissau's central waterways, playing a decisive role in the hydrological balance of the northern central region. Rising in the interior, it flows westward, passing the town of Mansoa before emptying into the Atlantic through a broad estuary. The Mansoa River's nature is characterized by a massive mangrove system that extends deep into the hinterland. These mangroves act as sediment filters and provide vital protection against coastal erosion. The river is ecologically significant as a spawning ground for numerous fish species and shrimp, which form the backbone of the local fishing industry. The riparian areas often consist of fertile 'bolonhas' (marshlands) that have been used for rice cultivation for generations. Tidal action heavily influences the Mansoa, leading to significant saltwater intrusion, which poses challenges for agricultural management. The river is also a vital transport route for trade between the Oio region and Bissau. The silent mangrove forests along the Mansoa support a rich birdlife and rare reptiles, such as the West African slender-snouted crocodile."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Mansoa-Ästuar ist bekannt für seine hohe Produktivität an Garnelen.",
+          "Die Mangrovenwälder entlang des Flusses gehören zu den dichtesten des Landes.",
+          "Gezeitenwellen können im Mansoa bis zu 80 Kilometer landeinwärts gespürt werden.",
+          "Der Fluss war historisch ein wichtiger Weg für den Export von Erdnüssen.",
+          "An seinen Ufern befinden sich einige der größten Reisfelder der Oio-Region.",
+          "Der Mansoa trennt die Regionen Oio und Biombo."
+        ],
+        "hu": [
+          "A Mansoa torkolatvidéke híres a magas garnélarák-hozamáról.",
+          "A folyó menti mangroveerdők az ország legsűrűbb erdői közé tartoznak.",
+          "Az árapály-hullám akár 80 kilométerre is érezhető a szárazföld belsejében.",
+          "Történelmileg a folyó a földimogyoró-export egyik legfontosabb útvonala volt.",
+          "Partjain találhatók az Oio régió legnagyobb rizsföldjei.",
+          "A Mansoa folyó alkotja a természetes határt Oio és Biombo régiók között."
+        ],
+        "ro": [
+          "Estuarul Mansoa este cunoscut pentru productivitatea sa ridicată în creveți.",
+          "Pădurile de mangrove de-a lungul râului sunt printre cele mai dense din țară.",
+          "Valurile de maree pot fi resimțite pe râul Mansoa până la 80 de kilometri în interior.",
+          "Fluviul a fost istoric o cale importantă pentru exportul de arahide.",
+          "Pe malurile sale se află unele dintre cele mai mari câmpuri de orez din regiunea Oio.",
+          "Râul Mansoa separă regiunile Oio și Biombo."
+        ],
+        "en": [
+          "The Mansoa estuary is famous for its high productivity of shrimp.",
+          "The mangrove forests along the river are among the densest in the country.",
+          "Tidal fluctuations can be felt as far as 80 kilometers upstream.",
+          "Historically, the river was a primary conduit for peanut exports.",
+          "Its banks host some of the largest rice 'bolonhas' in the Oio region.",
+          "The Mansoa River serves as a natural boundary between the Oio and Biombo regions."
+        ]
+      }
+    },
+    {
+      "id": "formosa-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Formosa ist eine der flächenmäßig größten Inseln im Bijagós-Archipel und stellt ein ökologisches Juwel von unschätzbarem Wert dar. Ihr Name, der aus dem Portugiesischen stammt und 'die Schöne' bedeutet, reflektiert die außergewöhnliche ästhetische und natürliche Qualität dieses Ortes. Die Insel ist fast vollständig von dichten Mangrovenwäldern umschlossen, die bei Ebbe weite Schlick- und Sandflächen freigeben. Im Inneren von Formosa erstrecken sich weite Palmensavannen und Reste von tropischem Küstenwald, in denen eine Vielzahl seltener Vogelarten heimisch ist. Besonders bedeutend ist Formosa als Lebensraum für marine Megafauna: In den umliegenden Kanälen lassen sich regelmäßig Delfine und in den Mangroven Seekühe beobachten. Die Insel ist zudem ein Zentrum der traditionellen Bijagó-Kultur, wobei die Bewohner in engem Einklang mit den natürlichen Zyklen leben. Die Abwesenheit von moderner Infrastruktur hat dazu beigetragen, dass die Ökosysteme auf Formosa weitgehend intakt geblieben sind. Die Insel fungiert als natürlicher Schutzschild für die kleineren Inseln des inneren Archipels und ist ein Paradebeispiel für den Erhalt unberührter mariner Wildnis im Atlantik.",
+        "hu": "Formosa szigete a Bijagós-szigetcsoport egyik legnagyobb területű tagja, és felbecsülhetetlen értékű ökológiai kincs. Neve a portugál „szép” szóból ered, ami hűen tükrözi a hely rendkívüli esztétikai és természeti minőségét. A szigetet szinte teljesen sűrű mangroveerdők veszik körül, amelyek apálykor hatalmas iszapos és homokos területeket tárnak fel. Formosa belsejében kiterjedt pálmaszavannák és trópusi parti erdőmaradványok találhatók, ahol számos ritka madárfaj él. Formosa különösen jelentős a tengeri megafauna élőhelyeként: a környező csatornákban rendszeresen megfigyelhetők delfinek, a mangrovék között pedig tengeri tehenek. A sziget emellett a hagyományos bijagó kultúra központja, ahol a lakók szoros összhangban élnek a természetes ciklusokkal. A modern infrastruktúra hiánya hozzájárult ahhoz, hogy Formosa ökoszisztémái nagyrészt érintetlenek maradjanak. A sziget természetes pajzsként funkcionál a belső szigetvilág kisebb szigetei számára, és az Atlanti-óceán érintetlen tengeri vadonjának iskolapéldája.",
+        "ro": "Insula Formosa este una dintre cele mai mari insule ca suprafață din Arhipelagul Bijagós și reprezintă o bijuterie ecologică de o valoare inestimabilă. Numele său, care provine din portugheză și înseamnă 'cea frumoasă', reflectă calitatea estetică și naturală excepțională a acestui loc. Insula este aproape în întregime înconjurată de păduri dense de mangrove, care expun la reflux suprafețe vaste de mâl și nisip. În interiorul insulei Formosa se întind savane vaste de palmieri și resturi de pădure tropicală de coastă, în care trăiesc numeroase specii de păsări rare. Formosa este deosebit de importantă ca habitat pentru megafauna marină: în canalele din jur pot fi observați regulat delfini, iar în mangrove, lamantini. Insula este, de asemenea, un centru al culturii tradiționale Bijagó, locuitorii trăind în strânsă armonie cu ciclurile naturale. Absența infrastructurii moderne a contribuit la faptul că ecosistemele de pe Formosa au rămas în mare parte intacte. Insula funcționează ca un scut natural pentru insulele mai mici din interiorul arhipelagului și este un exemplu clasic de conservare a sălbăticiei marine virgine în Atlantic.",
+        "en": "Formosa Island is one of the largest islands in the Bijagós Archipelago and serves as an ecological jewel of inestimable value. Its name, derived from the Portuguese for 'the beautiful,' reflects the extraordinary aesthetic and natural quality of the location. The island is almost entirely encircled by dense mangrove forests, which reveal vast mud and sandflats during low tide. Formosa's interior features extensive palm savannas and remnants of tropical coastal forest, home to a multitude of rare bird species. It is particularly significant as a habitat for marine megafauna: dolphins are frequently spotted in the surrounding channels, and manatees inhabit the mangroves. The island is also a hub for traditional Bijagó culture, with residents living in close harmony with natural cycles. The absence of modern infrastructure has helped ensure that Formosa's ecosystems remain largely intact. The island acts as a natural buffer for the smaller islands of the inner archipelago and is a prime example of preserved pristine marine wilderness in the Atlantic."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Formosa ist die größte Insel der Inselgruppe von Formosa, Ponta und Maio.",
+          "Die Insel verfügt über riesige Mangrovenflächen, die den Gezeiten unterliegen.",
+          "Seekühe (Manatis) nutzen die geschützten Buchten der Insel als Rückzugsort.",
+          "In der Bijagó-Tradition gilt ein Großteil der Insel als spirituell bedeutsam.",
+          "Es gibt keine befestigten Straßen auf der Insel, nur Waldpfade.",
+          "Formosa ist ein wichtiger Nistplatz für wandernde Küstenvögel."
+        ],
+        "hu": [
+          "Formosa a legnagyobb sziget a Formosa, Ponta és Maio szigetcsoportban.",
+          "A sziget hatalmas mangrove-területekkel rendelkezik, amelyeket az árapály ural.",
+          "A tengeri tehenek (manátuszok) menedékhelyként használják a sziget védett öbleit.",
+          "A bijagó hagyományban a sziget nagy része spirituális jelentőséggel bír.",
+          "A szigeten nincsenek burkolt utak, csak erdei ösvények.",
+          "Formosa a vonuló parti madarak egyik legfontosabb fészkelőhelye."
+        ],
+        "ro": [
+          "Formosa este cea mai mare insulă din grupul de insule Formosa, Ponta și Maio.",
+          "Insula dispune de suprafețe uriașe de mangrove care depind de maree.",
+          "Lamantinii folosesc golfurile protejate ale insulei ca loc de retragere.",
+          "În tradiția Bijagó, o mare parte a insulei este considerată semnificativă spiritual.",
+          "Nu există drumuri asfaltate pe insulă, ci doar poteci prin pădure.",
+          "Formosa este un loc de cuibărit important pentru păsările de coastă migratoare."
+        ],
+        "en": [
+          "Formosa is the largest island within the Formosa, Ponta, and Maio cluster.",
+          "The island features massive mangrove expanses that fluctuate with the tides.",
+          "Manatees utilize the island's secluded bays as a safe refuge.",
+          "Much of the island is regarded as spiritually sacred in Bijagó tradition.",
+          "There are no paved roads on the island, only networks of forest trails.",
+          "Formosa serves as a vital nesting ground for migratory coastal birds."
+        ]
+      }
+    }
+  ]
+}

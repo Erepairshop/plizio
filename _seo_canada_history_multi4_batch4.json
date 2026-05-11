@@ -1,0 +1,93 @@
+
+{
+  "lang": "multi4",
+  "country": "canada",
+  "files": ["lib/visualLab/data/poiExtraCanadaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "casa-loma-toronto-history-v2",
+      "descriptionAdvancedDe": "Casa Loma ist ein prächtiges Herrenhaus im neugotischen Stil im Herzen von Toronto. Es wurde zwischen 1911 und 1914 von Sir Henry Pellatt, einem Finanzier und Industriellen, erbaut, der von den Schlössern Europas inspiriert war. Mit 98 Zimmern war es das größte Privathaus in Kanada. Die extravaganten Kosten führten jedoch schließlich zu Pellatts finanziellem Ruin, und er musste das Anwesen verlassen. Während des Zweiten Weltkriegs wurde Casa Loma für geheime Forschungsarbeiten zur Sonar-Technologie genutzt. Heute ist es ein beliebtes Museum und eine Touristenattraktion, bekannt für seine Geheimgänge, Gärten und als Drehort für zahlreiche Filme. Es symbolisiert die ehrgeizige Ära des frühen 20. Jahrhunderts in Toronto.",
+      "descriptionAdvancedHu": "A Casa Loma egy neogótikus stílusú, lenyűgöző kastély Toronto szívében. 1911 és 1914 között építtette Sir Henry Pellatt pénzügyi és ipari szakember, akit Európa kastélyai ihlettek. A 98 szobás épület Kanada legnagyobb magánrezidenciája volt. Az extravagáns költségek azonban végül Pellatt pénzügyi csődjéhez vezettek, és el kellett hagynia a birtokot. A második világháború alatt a Casa Lomát titkos szonártechnológiai kutatásokra használták. Ma népszerű múzeum és turisztikai látványosság, amely titkos átjáróiról, kertjeiről és számos film forgatási helyszíneként ismert. A 20. század eleji torontói ambiciózus korszakot szimbolizálja.",
+      "descriptionAdvancedRo": "Casa Loma este un conac magnific în stil neogotic, situat în inima orașului Toronto. A fost construit între 1911 și 1914 de Sir Henry Pellatt, un finanțist și industriaș inspirat de castelele europene. Cu cele 98 de camere ale sale, a fost cea mai mare reședință privată din Canada. Cu toate acestea, costurile extravagante au dus în cele din urmă la ruina financiară a lui Pellatt, forțându-l să abandoneze proprietatea. În timpul celui de-al Doilea Război Mondial, Casa Loma a fost folosită pentru cercetări secrete asupra tehnologiei sonar. Astăzi, este un muzeu popular și o atracție turistică, renumită pentru pasajele sale secrete, grădini și ca locație pentru numeroase filme. Simbolizează epoca ambițioasă a începutului secolului XX din Toronto.",
+      "descriptionAdvancedEn": "Casa Loma is a magnificent Gothic Revival style mansion located in the heart of Toronto. It was built between 1911 and 1914 by Sir Henry Pellatt, a financier and industrialist who was inspired by the castles of Europe. With its 98 rooms, it was the largest private residence in Canada. However, the extravagant costs eventually led to Pellatt's financial ruin, forcing him to abandon the property. During World War II, Casa Loma was used for secret research on sonar technology. Today, it is a popular museum and tourist attraction, renowned for its secret passages, gardens, and as a filming location for numerous movies. It symbolizes the ambitious era of the early 20th century in Toronto.",
+      "factsAdvanced": [
+        "1911 és 1914 között épült Sir Henry Pellatt számára.",
+        "98 szobájával egykor Kanada legnagyobb magánlakása volt.",
+        "Építési költsége 3,5 millió dollár volt az 1910-es években.",
+        "Pellatt kevesebb mint 10 évig élt a kastélyban pénzügyi gondok miatt.",
+        "A II. világháború alatt a szonár-fejlesztés titkos helyszíne volt.",
+        "A kastély egy 244 méter hosszú alagúttal is rendelkezik.",
+        "Népszerű forgatási helyszín, pl. az X-Men és a Chicago filmekhez.",
+        "Ma Toronto városának tulajdona és múzeumként működik."
+      ]
+    },
+    {
+      "id": "craigdarroch-castle-victoria-history-v2",
+      "descriptionAdvancedDe": "Craigdarroch Castle in Victoria, British Columbia, ist ein beeindruckendes viktorianisches Herrenhaus im schottischen Baronialstil. Es wurde in den späten 1880er Jahren für den wohlhabenden schottischen Kohlebaron Robert Dunsmuir erbaut. Dunsmuir starb jedoch, bevor das Schloss fertiggestellt war, und hinterließ es seiner Frau Joan. Das Schloss ist ein Symbol für den immensen Reichtum, den Industrielle während der viktorianischen Ära anhäuften. Es ist bekannt für seine prächtigen Buntglasfenster, kunstvollen Holzarbeiten und 39 Zimmer, die den opulenten Lebensstil der Zeit widerspiegeln. Nach dem Tod von Joan Dunsmuir diente das Schloss als Militärkrankenhaus, College und Konservatorium, bevor es zu einem Museum und einer nationalen historischen Stätte wurde.",
+      "descriptionAdvancedHu": "A Craigdarroch-kastély Victoria városában, Brit Columbiában, egy lenyűgöző, skót bárói stílusú viktoriánus kastély. A késői 1880-as években épült a gazdag skót szénbáró, Robert Dunsmuir számára. Dunsmuir azonban még a kastély befejezése előtt meghalt, a birtokot feleségére, Joanra hagyva. A kastély az iparosok által a viktoriánus korban felhalmozott hatalmas vagyon szimbóluma. Híres pazar ólomüveg ablakairól, bonyolult famunkáiról és 39 szobájáról, amelyek a kor pazar életmódját tükrözik. Joan Dunsmuir halála után a kastély katonai kórházként, főiskolaként és konzervatóriumként is funkcionált, mielőtt múzeummá és nemzeti történelmi helyszínné vált.",
+      "descriptionAdvancedRo": "Castelul Craigdarroch din Victoria, Columbia Britanică, este un conac victorian impresionant în stil baronial scoțian. A fost construit la sfârșitul anilor 1880 pentru bogatul baron al cărbunelui scoțian, Robert Dunsmuir. Cu toate acestea, Dunsmuir a murit înainte ca castelul să fie finalizat, lăsându-l soției sale, Joan. Castelul este un simbol al bogăției imense acumulate de industriași în timpul epocii victoriane. Este renumit pentru vitraliile sale magnifice, tâmplăria complexă și cele 39 de camere care reflectă stilul de viață opulent al vremii. După moartea lui Joan Dunsmuir, castelul a servit ca spital militar, colegiu și conservator de muzică înainte de a devene muzeu și sit istoric național.",
+      "descriptionAdvancedEn": "Craigdarroch Castle in Victoria, British Columbia, is an impressive Scottish Baronial style Victorian mansion. It was built in the late 1880s for the wealthy Scottish coal baron, Robert Dunsmuir. However, Dunsmuir died before the castle was completed, leaving it to his wife, Joan. The castle stands as a symbol of the immense wealth accumulated by industrialists during the Victorian era. It is renowned for its magnificent stained-glass windows, intricate woodwork, and 39 rooms that reflect the opulent lifestyle of the period. After Joan Dunsmuir's death, the castle served as a military hospital, college, and music conservatory before becoming a museum and National Historic Site.",
+      "factsAdvanced": [
+        "Robert Dunsmuir szénbáró építtette az 1880-as évek végén.",
+        "Az építkezés 1890-ben fejeződött be, Dunsmuir halála után.",
+        "A kastélynak 39 szobája és 17 kandallója van.",
+        "Híres a 325 darab ólomüveg ablakáról.",
+        "A viktoriánus kor 'bonanza kastélyainak' egyik példája.",
+        "Kanada Nemzeti Történelmi Emlékhelye.",
+        "A kastély egykor katonai kórház és főiskola is volt.",
+        "Évente több mint 150 000 látogatója van."
+      ]
+    },
+    {
+      "id": "royal-bc-museum-history-v2",
+      "descriptionAdvancedDe": "Das Royal BC Museum in Victoria ist das Provinzmuseum von British Columbia für Natur- und Menschheitsgeschichte. Es wurde 1886 gegründet und beherbergt eine riesige Sammlung von Artefakten und Exemplaren, die die reiche Geschichte der Provinz dokumentieren. Die Dauerausstellungen umfassen Galerien über die First Nations, die moderne Geschichte und die Naturgeschichte. Besonders bekannt ist das Museum für seine immersiven Dioramen, wie die Nachbildung einer Stadt aus dem frühen 20. Jahrhundert und den Küstenwald. Es bewahrt auch die BC Archives, eine bedeutende Sammlung von Dokumenten und Fotografien. Das Museum ist eine führende Forschungseinrichtung und eine wichtige kulturelle Attraktion, die die vielfältigen Geschichten von British Columbia für zukünftige Generationen bewahrt.",
+      "descriptionAdvancedHu": "A Royal BC Museum Victoria városában Brit Columbia tartományi természet- és embertörténeti múzeuma. Az 1886-ban alapított intézmény hatalmas gyűjteménnyel rendelkezik a tartomány gazdag történelmét dokumentáló műtárgyakból és példányokból. Az állandó kiállítások között szerepelnek az Első Nemzetek galériái, a modern történelem és a természettörténet. A múzeum különösen híres immerzív diorámáiról, mint például egy 20. század eleji város és a part menti erdő másolatáról. Itt található a BC Archives is, amely fontos dokumentum- és fényképgyűjtemény. A múzeum vezető kutatóintézmény és fontos kulturális látványosság, amely megőrzi Brit Columbia sokszínű történeteit a jövő generációi számára.",
+      "descriptionAdvancedRo": "Muzeul Regal BC din Victoria este muzeul provincial de istorie naturală și umană al Columbiei Britanice. Fondat în 1886, muzeul deține o colecție vastă de artefacte și specimene care documentează istoria bogată a provinciei. Expozițiile permanente includ galerii despre Primele Națiuni, istoria modernă și istoria naturală. Muzeul este deosebit de renumit pentru dioramele sale imersive, cum ar fi o replică a unui oraș de la începutul secolului al XX-lea și pădurea de coastă. De asemenea, găzduiește Arhivele BC, o colecție semnificativă de documente și fotografii. Muzeul este o instituție de cercetare de prim rang și o atracție culturală majoră, păstrând poveștile diverse ale Columbiei Britanice pentru generațiile viitoare.",
+      "descriptionAdvancedEn": "The Royal BC Museum in Victoria is British Columbia's provincial museum of natural and human history. Founded in 1886, it holds a vast collection of artifacts and specimens documenting the province's rich history. Permanent exhibitions include galleries on the First Nations, modern history, and natural history. The museum is particularly famous for its immersive dioramas, such as a replica of an early 20th-century town and the coastal forest. It also houses the BC Archives, a significant collection of documents and photographs. The museum is a leading research institution and a major cultural attraction, preserving the diverse stories of British Columbia for future generations.",
+      "factsAdvanced": [
+        "1886-ban alapították Victoria városában.",
+        "Brit Columbia tartományi múzeuma és levéltára.",
+        "Több mint 7 millió tárgyat és leletet őriz.",
+        "Híres az Első Nemzetek galériájáról, ahol totemoszlopok is láthatók.",
+        "Az 'Óváros' kiállítás egy 20. század eleji várost elevenít meg.",
+        "A természettörténeti galériában egy élethű mamut is található.",
+        "A múzeumhoz tartozik a tartomány legnagyobb IMAX mozivászna.",
+        "Jelentős kutatásokat végez a régió történelmével és élővilágával kapcsolatban."
+      ]
+    },
+    {
+      "id": "glenbow-museum-calgary-history-v2",
+      "descriptionAdvancedDe": "Das Glenbow Museum in Calgary ist eine bedeutende Kunst- und Kultureinrichtung in Westkanada, die sich der Geschichte und Kunst der Region widmet. Gegründet 1966 durch den Philanthropen und Ölmagnaten Eric Lafferty Harvie, beherbergt das Museum eine umfangreiche Sammlung, die von Artefakten der First Nations über militärische Ausrüstung bis hin zu moderner Kunst reicht. Die Sammlungen zur Kultur der indigenen Völker der nördlichen Plains sind international bekannt. Das Glenbow dient auch als wichtiges Archiv für Westkanada und bewahrt historische Dokumente, Fotografien und Bücher. Derzeit wird das Museum umfassend renoviert, um seine Ausstellungsflächen zu modernisieren und die Zugänglichkeit für die Öffentlichkeit zu verbessern, mit dem Ziel, die Geschichten Westkanadas auf neue und ansprechende Weise zu erzählen.",
+      "descriptionAdvancedHu": "A calgaryi Glenbow Múzeum Nyugat-Kanada egyik legjelentősebb művészeti és kulturális intézménye, amely a régió történelmének és művészetének szenteli magát. Az 1966-ban Eric Lafferty Harvie filantróp és olajmágnás által alapított múzeum hatalmas gyűjteménnyel rendelkezik, amely az Első Nemzetek műtárgyaitól a katonai felszereléseken át a modern művészetig terjed. Az északi síkságok őslakos népeinek kultúráját bemutató gyűjteményei nemzetközileg is elismertek. A Glenbow fontos archívumként is szolgál Nyugat-Kanada számára, történelmi dokumentumokat, fényképeket és könyveket őrizve. A múzeum jelenleg nagyszabású felújításon esik át, hogy modernizálja kiállítótereit és javítsa a hozzáférhetőséget, azzal a céllal, hogy Nyugat-Kanada történeteit új és lebilincselő módon mesélje el.",
+      "descriptionAdvancedRo": "Muzeul Glenbow din Calgary este o instituție de artă și cultură proeminentă din vestul Canadei, dedicată istoriei și artei regiunii. Fondat în 1966 de filantropul și magnatul petrolier Eric Lafferty Harvie, muzeul găzduiește o colecție extinsă, de la artefacte ale Primelor Națiuni la echipamente militare și artă modernă. Colecțiile sale despre cultura popoarelor indigene din câmpiile nordice sunt recunoscute la nivel internațional. Glenbow servește, de asemenea, ca o arhivă importantă pentru vestul Canadei, păstrând documente istorice, fotografii și cărți. În prezent, muzeul trece printr-o renovare majoră pentru a-și moderniza spațiile expoziționale și a îmbunătăți accesibilitatea publică, cu scopul de a spune poveștile vestului Canadei în moduri noi și captivante.",
+      "descriptionAdvancedEn": "The Glenbow Museum in Calgary is a prominent art and cultural institution in Western Canada, dedicated to the history and art of the region. Founded in 1966 by philanthropist and oil magnate Eric Lafferty Harvie, the museum houses an extensive collection ranging from First Nations artifacts to military equipment and modern art. Its collections on the culture of the Indigenous peoples of the northern plains are internationally renowned. The Glenbow also serves as a major archive for Western Canada, preserving historical documents, photographs, and books. The museum is currently undergoing a major renovation to modernize its exhibition spaces and improve public accessibility, aiming to tell the stories of Western Canada in new and engaging ways.",
+      "factsAdvanced": [
+        "1966-ban alapította Eric Lafferty Harvie olajmágnás.",
+        "Nyugat-Kanada történelmét és művészetét mutatja be.",
+        "Több mint egymillió tárgyból álló gyűjteménnyel rendelkezik.",
+        "Kiemelkedő az őslakos kultúrákat bemutató anyaga, különösen a síksági népeké.",
+        "Jelentős hadtörténeti és fegyvergyűjteménye van.",
+        "A múzeum jelenleg egy nagyszabású felújítás alatt áll ('Glenbow Reimagined').",
+        "Levéltára több mint kétmillió fényképet őriz.",
+        "A felújítás után a belépés ingyenes lesz."
+      ]
+    },
+    {
+      "id": "chateau-ramsay-montreal-history-v2",
+      "descriptionAdvancedDe": "Das Château Ramezay ist eines der bedeutendsten historischen Gebäude in der Altstadt von Montreal. Es wurde 1705 für Claude de Ramezay, den damaligen Gouverneur von Montreal, erbaut. Das Gebäude diente im Laufe seiner Geschichte verschiedenen Zwecken: Es war eine Gouverneursresidenz, das Hauptquartier der Kontinentalarmee während der amerikanischen Invasion von 1775-76 und ein Verwaltungsgebäude. 1895 wurde es das erste Gebäude in Québec, das als historisches Denkmal klassifiziert wurde, und beherbergt seitdem ein Museum. Das Museum und der nachgebildete französische Kolonialgarten bieten Einblicke in das Leben in Montreal im 18. Jahrhundert und die komplexe Geschichte der Region, einschließlich der Beziehungen zwischen Franzosen, Briten, Amerikanern und den First Nations.",
+      "descriptionAdvancedHu": "A Château Ramezay Montréal óvárosának egyik legjelentősebb történelmi épülete. 1705-ben épült Claude de Ramezay, Montréal akkori kormányzója számára. Az épület története során különböző célokat szolgált: volt kormányzói rezidencia, a Kontinentális Hadsereg főhadiszállása az 1775-76-os amerikai invázió alatt, és közigazgatási épület. 1895-ben ez lett az első épület Québecben, amelyet történelmi műemlékké nyilvánítottak, és azóta múzeumnak ad otthont. A múzeum és a hozzá tartozó, rekonstruált francia gyarmati kert bepillantást enged a 18. századi montréali életbe és a régió összetett történelmébe, beleértve a franciák, britek, amerikaiak és az Első Nemzetek közötti kapcsolatokat.",
+      "descriptionAdvancedRo": "Château Ramezay este una dintre cele mai importante clădiri istorice din Vechiul Montreal. A fost construită în 1705 pentru Claude de Ramezay, guvernatorul de atunci al Montrealului. Clădirea a servit diverse scopuri de-a lungul istoriei sale: a fost reședință a guvernatorului, sediul Armatei Continentale în timpul invaziei americane din 1775-76 și clădire administrativă. În 1895, a devenit prima clădire din Quebec clasificată ca monument istoric și de atunci găzduiește un muzeu. Muzeul și grădina sa colonială franceză recreată oferă o perspectivă asupra vieții din Montrealul secolului al XVIII-lea și a istoriei complexe a regiunii, inclusiv a relațiilor dintre francezi, britanici, americani și Primele Națiuni.",
+      "descriptionAdvancedEn": "Château Ramezay is one of the most significant historic buildings in Old Montreal. It was built in 1705 for Claude de Ramezay, the governor of Montreal at the time. The building has served various purposes throughout its history: it was a governor's residence, the headquarters for the Continental Army during the American invasion of 1775-76, and an administrative building. In 1895, it became the first building in Quebec to be classified as a historic monument and has housed a museum ever since. The museum and its recreated French colonial garden offer a glimpse into life in 18th-century Montreal and the complex history of the region, including the relationships between the French, British, Americans, and First Nations.",
+      "factsAdvanced": [
+        "1705-ben épült Claude de Ramezay, Montréal kormányzójának rezidenciájaként.",
+        "Ez volt az első épület Québecben, amelyet műemlékké nyilvánítottak (1895).",
+        "Benjamin Franklin itt szállt meg 1776-ban amerikai küldetése során.",
+        "Kanada Nemzeti Történelmi Emlékhelye.",
+        "A múzeum több mint 500 év montréali történelmet ölel fel.",
+        "Kertje egy 18. századi új-franciaországi stílusú kert másolata.",
+        "Az épület a párizsi városi paloták stílusát idézi.",
+        "Évente több mint 60 000 látogatót vonz."
+      ]
+    }
+  ]
+}

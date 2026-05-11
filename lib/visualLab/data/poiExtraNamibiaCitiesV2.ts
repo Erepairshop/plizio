@@ -59,8 +59,8 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Gelegen am Okavango.", "Hauptstadt der Kavango-Ost-Region.", "Wichtiger Grenzübergang zu Angola.", "Bekannt für traditionelle Holzschnitzkunst.", "Wirtschaft basiert auf Fischfang und Handel.", "Tropisches Klima mit regnerischen Sommern."],
       hu: ["Az Okavango partján fekszik.", "Kavango-Kelet régió fővárosa.", "Fontos angolai határátkelő.", "Híres a hagyományos fafaragásról.", "Gazdasága a halászaton és kereskedelmen alapul.", "Trópusi klíma csapadékos nyarakkal."],
-      ro: ["Situat pe râul Okavango.", "Capitala regiunii Kavango de Est.", "Punct important de frontieră cu Angola.", "Renumit pentru sculptura tradițională în lemn.", "Economie bazată pe pescuit și comerț.", "Climat tropical cu veri ploioase."],
-      en: ["Located on the Okavango River.", "Capital of the Kavango East region.", "Important border crossing to Angola.", "Known for traditional woodcarving.", "Economy based on fishing and trade.", "Tropical climate with rainy summers."]
+      ro: ["Situat pe râul Okavango.", "Punct important de frontieră cu Angola.", "Renumit pentru sculptura tradițională în lemn.", "Economie bazată pe pescuit și comerț.", "Climat tropical cu veri ploioase."],
+      en: ["Located on the Okavango River.", "Important border crossing to Angola.", "Known for traditional woodcarving.", "Economy based on fishing and trade.", "Tropical climate with rainy summers."]
     }, image: "/poi-images/rundu-cities-v2.webp"},
   {
     id: "walvis-bay-cities-v2",
@@ -141,7 +141,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Oshakati serves as the commercial capital of northern Namibia and the capital of the Oshana Region. Established in July 1966 during the South African border war, it grew rapidly around a military base. Today, with a population exceeding 36,000, it is a bustling economic hub featuring large markets and shopping centers like the Oshakati Game Shopping Centre. The city is situated near the Cuvelai drainage basin, which provides vital water resources for local agriculture and livestock farming in this semi-arid environment. Geography K7 — regional capitals and urbanization."
     },
     factsAdvanced: {
-      en: ["Established as a town in July 1966.", "Serves as the capital of the Oshana Region.", "Population is approximately 36,000 residents.", "Located near the Cuvelai drainage basin.", "Features the prominent Oshakati Game Shopping Centre.", "Grew originally around a South African military base."]
+      en: ["Established as a town in July 1966.", "Population is approximately 36,000 residents.", "Located near the Cuvelai drainage basin.", "Features the prominent Oshakati Game Shopping Centre.", "Grew originally around a South African military base."]
     },
     
     
@@ -201,7 +201,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Katima Mulilo is the capital of the Zambezi Region, situated on the banks of the Zambezi River. Founded in 1935 by the British colonial administration, it replaced Schuckmannsburg as the regional headquarters. The town's strategic location near the border with Zambia has made it a significant trade and transport node, heavily boosted by the opening of the 900-meter-long Katima Mulilo Bridge in 2004. The surrounding lush, tropical environment contrasts sharply with the rest of Namibia, supporting diverse wildlife and riverine ecosystems. Geography K7 — river settlements and borders."
     },
     factsAdvanced: {
-      en: ["Founded in 1935 by the British administration.", "Capital of the Zambezi Region.", "Located on the banks of the Zambezi River.", "The Katima Mulilo Bridge is 900 meters long.", "The bridge was officially opened in 2004.", "Replaced Schuckmannsburg as the regional capital."]
+      en: ["Founded in 1935 by the British administration.", "Located on the banks of the Zambezi River.", "The Katima Mulilo Bridge is 900 meters long.", "The bridge was officially opened in 2004.", "Replaced Schuckmannsburg as the regional capital."]
     },
     
     
@@ -531,7 +531,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Karibib is a town in the Erongo Region, situated on the Khan River and the main B2 highway linking Windhoek to the coast. It originated as a railway station in 1900 during the construction of the line between Swakopmund and Windhoek. The town gained prominence for its high-quality marble quarries, notably the 'Karibib Marble' which has been exported globally. In addition to marble, the surrounding area is known for the Navachab Gold Mine, making mining and transport the cornerstones of the local economy. Earth Science K6 — mining and geology."
     },
     factsAdvanced: {
-      en: ["Originated as a railway station in 1900.", "Located on the Khan River and the B2 highway.", "Globally renowned for its high-quality marble quarries.", "Home to the nearby Navachab Gold Mine.", "Features historic buildings from the early 1900s.", "Crucial transport node in the Erongo Region."]
+      en: ["Originated as a railway station in 1900.", "Located on the Khan River and the B2 highway.", "Globally renowned for its high-quality marble quarries.", "Features historic buildings from the early 1900s.", "Crucial transport node in the Erongo Region."]
     },
     
     
@@ -591,7 +591,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Otjiwarongo is a rapidly growing town and the capital of the Otjozondjupa Region, serving as a major crossroads connecting central Namibia to the north and the coast. Established in 1892 through an agreement between the Herero and the German colonial authorities, its name translates to 'The beautiful place'. It is a major agricultural center, primarily for cattle farming, and a key conservation hub. The town is famously home to the Cheetah Conservation Fund, reflecting its location in the 'Cheetah Capital of the World'. Sachkunde K3 — animal conservation."
     },
     factsAdvanced: {
-      en: ["Established in 1892 by the Herero and German authorities.", "Capital of the Otjozondjupa Region.", "Name translates from Otjiherero to 'The beautiful place'.", "Known as the 'Cheetah Capital of the World'.", "Home to the internationally recognized Cheetah Conservation Fund.", "Major crossroads connecting Windhoek to the northern regions."]
+      en: ["Established in 1892 by the Herero and German authorities.", "Name translates from Otjiherero to 'The beautiful place'.", "Known as the 'Cheetah Capital of the World'.", "Home to the internationally recognized Cheetah Conservation Fund.", "Major crossroads connecting Windhoek to the northern regions."]
     },
     
     
@@ -832,7 +832,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Nkurenkuru is the capital of the Kavango West Region, situated on the southwestern banks of the Kavango River. It was the historical capital of the Kwangali kingdom and served as an important missionary station founded by the Finnish Missionary Society in 1929. Elevated to town status in 2006, it functions as a crucial administrative and agricultural center for the region. The town is connected to the nearby Angolan town of Cuangar via a river ferry, facilitating local trade and cultural exchange across the border. Geography K7 — river settlements."
     },
     factsAdvanced: {
-      en: ["Capital of the Kavango West Region.", "Situated on the banks of the Kavango River.", "Historical seat of the local Kwangali kingdom.", "Mission station founded here in 1929.", "Elevated to official town status in 2006.", "Connected by river ferry to Cuangar in Angola."]
+      en: ["Capital of the Kavango West Region.", "Historical seat of the local Kwangali kingdom.", "Mission station founded here in 1929.", "Elevated to official town status in 2006.", "Connected by river ferry to Cuangar in Angola."]
     },
     
     
@@ -893,7 +893,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Arandis, famously known as the 'Uranium Capital of the World', is located in the Erongo Region, roughly 15 kilometers from the massive Rössing Uranium Mine. The town was established in 1978 exclusively to house the mine's workforce, providing modern amenities in the harsh desert environment. While still closely tied to the mining sector, the town has worked to diversify its economy and now hosts the Namibian Institute of Mining and Technology (NIMT), which trains hundreds of artisans for the country's industrial sector. Earth Science K6 — uranium mining."
     },
     factsAdvanced: {
-      en: ["Known as the 'Uranium Capital of the World'.", "Located 15 kilometers from the Rössing Uranium Mine.", "Established in 1978 specifically for mine workers.", "Situated in the arid Erongo Region.", "Hosts the Namibian Institute of Mining and Technology.", "Economy is focused on mining and vocational training."]
+      en: ["Located 15 kilometers from the Rössing Uranium Mine.", "Established in 1978 specifically for mine workers.", "Situated in the arid Erongo Region.", "Economy is focused on mining and vocational training."]
     },
     
     
@@ -1043,7 +1043,7 @@ export const poiExtraNamibiaCitiesV2: POI[] = [
       en: "Khorixas is a town in the Kunene Region that formerly served as the capital of the Damaraland bantustan during the pre-independence era. Today, it is an essential administrative and service hub for the local Damara community and a major gateway for tourists exploring the geological wonders of the region. Visitors often stop here before heading to nearby attractions like the Petrified Forest, the Vingerklip, and the ancient rock engravings at Twyfelfontein. The town relies heavily on agriculture and tourism-related services. Geography K7 — gateways to geological sites."
     },
     factsAdvanced: {
-      en: ["Former capital of the Damaraland bantustan.", "Located in the arid Kunene Region.", "Major gateway to the Petrified Forest.", "Serves tourists traveling to Twyfelfontein.", "Important administrative center for the Damara people.", "Economy is driven by tourism and local farming."]
+      en: ["Former capital of the Damaraland bantustan.", "Located in the arid Kunene Region.", "Serves tourists traveling to Twyfelfontein.", "Important administrative center for the Damara people.", "Economy is driven by tourism and local farming."]
     },
     
     

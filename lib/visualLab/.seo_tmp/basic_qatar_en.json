@@ -1,0 +1,45 @@
+{
+  "lang": "en",
+  "country": "Qatar",
+  "files": [
+    "lib/visualLab/data/poiExtraQatarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraQatarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qatar-barzan-towers-history-v2",
+      "description": "These 19th-century watchtowers were built to protect the valley and monitor incoming ships. They feature traditional Qatari architecture with walls designed to keep the interiors cool.",
+      "facts": ["Built in the 19th century", "Located in Umm Salal Mohammed", "Restored in 2003", "Traditional defensive architecture"]
+    },
+    {
+      "id": "qatar-al-rakiyat-fort-history-v2",
+      "description": "A rectangular desert fort dating back to the 19th century, featuring corner towers for defense. It is one of the most prominent historic fortifications in northern Qatar.",
+      "facts": ["19th-century construction", "Rectangular floor plan", "Located in northern Qatar", "Restored in 1988"]
+    },
+    {
+      "id": "qatar-al-jumail-village-history-v2",
+      "description": "An abandoned pearling village that offers a glimpse into pre-oil life in Qatar. The site contains remnants of mosque foundations and traditional stone houses.",
+      "facts": ["Abandoned pearling village", "Pre-oil era settlement", "Located on the northern coast", "Stone and limestone structures"]
+    },
+    {
+      "id": "qatar-al-thaqab-fort-history-v2",
+      "description": "This square-shaped fort was built to protect a nearby well, essential for the survival of local desert communities. It served as a vital water defense post.",
+      "facts": ["Square-shaped architecture", "Defensive water post", "Built to protect a well", "Restored in 2003"]
+    },
+    {
+      "id": "qatar-wind-tower-house-history-v2",
+      "description": "A historic residential building featuring a traditional wind tower, used for natural air cooling. These structures represent the ingenuity of early architectural cooling solutions in the Gulf.",
+      "facts": ["Traditional wind tower design", "Natural ventilation system", "Historic residential style", "Architectural landmark"]
+    },
+    {
+      "id": "wadi-al-banat-relief-v2",
+      "description": "A desert valley region characterized by its unique topographical features and seasonal drainage patterns. It supports localized desert flora and distinct soil formations.",
+      "facts": ["Desert valley landscape", "Seasonal drainage system", "Unique soil composition", "Supports desert vegetation"]
+    },
+    {
+      "id": "wadi-msheireb-relief-v2",
+      "description": "Historically an important natural drainage channel, this wadi area is now integrated into urban development. It represents the natural drainage geography of the Doha region.",
+      "facts": ["Natural drainage channel", "Located in Doha area", "Geological feature", "Influences local terrain"]
+    }
+  ]
+}

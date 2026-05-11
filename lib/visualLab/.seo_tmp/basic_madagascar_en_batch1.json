@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    { "id": "ehola-port-economic-v2", "description": "Ehoala Port is a modern deep-water port located in the south of Madagascar, serving the mining industry.", "facts": ["Deep-water port", "Near Fort Dauphin", "Mining logistics"] },
+    { "id": "star-brewery-antsirabe-economic-v2", "description": "The Star Brewery in Antsirabe is one of the largest industrial plants in the city, producing popular local beverages.", "facts": ["Large brewery", "Antsirabe city", "Local production"] },
+    { "id": "pecheries-nosy-be-economic-v2", "description": "The fisheries of Nosy Be are vital for the local economy, specializing in shrimp and seafood export.", "facts": ["Seafood export", "Nosy Be island", "Economic hub"] },
+    { "id": "maintirano-port-economic-v2", "description": "Maintirano Port is a key maritime gateway on the west coast, handling regional trade and supplies.", "facts": ["West coast port", "Regional trade", "Maritime gateway"] },
+    { "id": "antongil-bay-dutch-settlement-history-v2", "description": "The Dutch settlement in Antongil Bay dates back to the early 17th century when it was a base for spice trade.", "facts": ["17th century site", "Dutch spice trade", "North-east coast"] },
+    { "id": "antongona-fortifications-history-v2", "description": "Antongona features 18th-century royal hill forts with unique architecture, located near the capital.", "facts": ["Royal hill forts", "18th century", "Near Antananarivo"] },
+    { "id": "analamazaotra-colonial-station-history-v2", "description": "Analamazaotra Station is a historic colonial outpost set in the dense rainforest of the eastern highlands.", "facts": ["Colonial outpost", "Andasibe region", "Eastern highlands"] },
+    { "id": "toliara-colonial-center-history-v2", "description": "The colonial center of Toliara retains much of its French architectural heritage from the early 20th century.", "facts": ["French architecture", "Port city", "South-west coast"] },
+    { "id": "cap-mined-diego-suarez-history-v2", "description": "Cap Miné is a historic lighthouse and military site guarding the entrance to the vast bay of Diego Suarez.", "facts": ["Historic lighthouse", "Military site", "Diego Suarez bay"] },
+    { "id": "nosy-boraha-fort-history-v2", "description": "The fort on Nosy Boraha (Sainte Marie) is a relic of the island's colorful history of piracy and colonization.", "facts": ["Pirate history", "Sainte Marie island", "Colonial relic"] },
+    { "id": "alasora-royal-village-history-v2", "description": "Alasora is one of the twelve sacred hills of Imerina and was the seat of early Merina royalty.", "facts": ["Sacred hill", "Merina royalty", "Near Antananarivo"] },
+    { "id": "nosy-mangabe-dutch-inscriptions-history-v2", "description": "Nosy Mangabe features historic 17th-century inscriptions left by Dutch sailors on the island's rocks.", "facts": ["Dutch inscriptions", "17th century", "Historic island"] },
+    { "id": "phare-cap-minne-landmarks-v2", "description": "The Cap Miné Lighthouse is a prominent landmark providing guidance to ships entering the northern tip of Madagascar.", "facts": ["Guidance for ships", "Northern tip", "Coastal landmark"] },
+    { "id": "hotel-des-thermes-landmarks-v2", "description": "Hotel des Thermes is a grand colonial-style hotel in Antsirabe, reflecting the city's elegant past as a spa town.", "facts": ["Colonial style", "Antsirabe spa town", "Grand landmark"] },
+    { "id": "pont-kamoro-landmarks-v2", "description": "The Kamoro Bridge is a vital engineering structure on the RN4 highway, connecting Antananarivo with Mahajanga.", "facts": ["Engineering feat", "RN4 highway", "Major connection"] }
+  ]
+}

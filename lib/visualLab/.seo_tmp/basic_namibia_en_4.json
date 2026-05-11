@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Volcanic granite massif rising sharply from the surrounding plains.",
+      "facts": ["Granite massif", "Volcanic origin", "High elevation"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "Distinctive flat-topped plateau forming a natural barrier.",
+      "facts": ["Flat-topped plateau", "Natural barrier", "High elevation"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "Coastal region featuring rugged landscapes and diamond mining areas.",
+      "facts": ["Coastal desert", "Rugged terrain", "Southern Namibia"]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "description": "Mountain range providing a dramatic backdrop to the Fish River Canyon.",
+      "facts": ["Mountain range", "Near Fish River", "Rugged cliffs"]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "description": "Massive mountain complex with deep canyons and steep slopes.",
+      "facts": ["Mountain complex", "Deep canyons", "Steep slopes"]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "description": "Remote mountain terrain located in the rugged northwest.",
+      "facts": ["Remote range", "Northwestern region", "Rugged peaks"]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "description": "Dolomite mountain range forming a fertile highland area.",
+      "facts": ["Dolomite range", "Fertile highlands", "Central North"]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "description": "Striking striped mountain range in the far northwest.",
+      "facts": ["Striking appearance", "Northwestern range", "Geological feature"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "Isolated mountain range near the Kunene River border.",
+      "facts": ["Isolated range", "Kunene region", "Near border"]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "description": "Wild, largely inaccessible mountain range in the Kaokoveld.",
+      "facts": ["Kaokoveld region", "Inaccessible terrain", "Wild landscape"]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "description": "Mountain pass and plateau offering extensive views over Damaraland.",
+      "facts": ["Plateau landscape", "Damaraland view", "Mountain pass"]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "description": "Series of waterfalls where the Kunene River drops into a canyon.",
+      "facts": ["Waterfall series", "Kunene River", "Deep canyon"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Hidden waterfall and rock pool nestled in a mountain valley.",
+      "facts": ["Hidden waterfall", "Rock pool", "Mountain valley"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Desert mountain area characterized by stark arid landscapes.",
+      "facts": ["Arid mountains", "Desert landscape", "Rugged terrain"]
+    }
+  ]
+}

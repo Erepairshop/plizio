@@ -1,0 +1,400 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts",
+    "lib/visualLab/data/poiExtraChadEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nokou-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Nokou ist eine Kleinstadt in der Provinz Kanem im westlichen Tschad. Geografisch liegt sie in der rauen Sahelzone, wo das Klima von extremer Trockenheit und fortschreitender Wüstenbildung dominiert wird. Die Sanddünen der Sahara rücken stetig näher. Wirtschaftlich ist Nokou ein rein pastorales Zentrum. Die lokale Bevölkerung lebt hauptsächlich von der nomadischen und halbnomadischen Kamel-, Ziegen- und Rinderzucht. Ackerbau ist aufgrund des eklatanten Wassermangels nur in den wenigen Oasen möglich, wo Hirse in bescheidenen Mengen für die Subsistenz angebaut wird. Historisch gesehen war Nokou ein wichtiger Transitpunkt für transsaharische Karawanen, die die unerbittliche Wüste durchquerten. Heute leidet die Stadt massiv unter fehlender Infrastruktur; es gibt keine asphaltierten Straßen und absolut keine zuverlässige Stromversorgung. Die Menschen kämpfen täglich mit den harten klimatischen Bedingungen, und internationale Hilfsorganisationen sind oft die einzige Stütze, um die Ernährungssicherheit und medizinische Versorgung zu gewährleisten.",
+        "hu": "Nokou egy kisváros a Kanem tartományban, Csád nyugati részén. Földrajzilag a zord Száhel-övezetben fekszik, ahol az éghajlatot az extrém szárazság és a fokozódó elsivatagosodás uralja. A Szahara homokdűnéi folyamatosan közelednek. Gazdasági szempontból Nokou egy tisztán pásztorkodó központ. A helyi lakosság főként nomád és félnomád teve-, kecske- és szarvasmarha-tenyésztésből él. A mezőgazdaság a kirívó vízhiány miatt csak a kevés oázisban lehetséges, ahol kölest termesztenek szerény mennyiségben az önellátás céljából. Történelmileg Nokou fontos tranzitpont volt a könyörtelen sivatagot átszelő transzszaharai karavánok számára. Ma a város masszívan szenved az infrastruktúra hiányától; nincsenek aszfaltozott utak és egyáltalán nincs megbízható áramellátás. Az emberek naponta küzdenek a kemény éghajlati viszonyokkal, és a nemzetközi segélyszervezetek gyakran az egyetlen támaszt jelentik az élelmezésbiztonság és az orvosi ellátás garantálásában.",
+        "ro": "Nokou este un oraș mic din provincia Kanem din vestul Ciadului. Geografic, este situat în zona aspră a Sahelului, unde clima este dominată de uscăciune extremă și deșertificare progresivă. Dunele de nisip din Sahara se apropie în mod constant. Economic, Nokou este un centru pur pastoral. Populația locală trăiește în principal din creșterea nomadă și semi-nomadă a cămilelor, caprelor și vitelor. Agricultura este posibilă doar în puținele oaze din cauza lipsei flagrante de apă, unde meiul este cultivat în cantități modeste pentru subzistență. Istoric, Nokou a fost un punct de tranzit important pentru caravanele trans-sahariene care traversau deșertul neiertător. Astăzi, orașul suferă masiv de pe urma lipsei de infrastructură; nu există drumuri asfaltate și absolut nicio sursă de alimentare cu energie electrică fiabilă. Oamenii se luptă zilnic cu condițiile climatice dure, iar organizațiile internaționale de ajutor sunt adesea singurul sprijin real.",
+        "en": "Nokou is a small city in the Kanem province in western Chad. Geographically, it is located in the harsh Sahel zone, where the climate is heavily dominated by extreme aridity and rapidly advancing desertification. The sand dunes of the Sahara are constantly moving closer. Economically, Nokou is a purely pastoral center. The local population relies primarily on the nomadic and semi-nomadic breeding of camels, goats, and cattle. Due to the glaring lack of water, agriculture is only possible in the few scattered oases, where millet is cultivated in modest quantities for pure subsistence. Historically, Nokou served as a highly important transit point for trans-Saharan caravans crossing the unforgiving desert. Today, the city suffers massively from a total lack of infrastructure; there are absolutely no paved roads and no reliable power supply. The people struggle daily with the harsh climatic conditions, and international aid organizations are often the only reliable pillar for ensuring local food security and basic medical care."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Nokou liegt in der sehr trockenen Provinz Kanem im Westen.",
+          "Die lokale Wirtschaft stützt sich exklusiv auf Viehzucht.",
+          "Wandernde Sanddünen bedrohen die Existenz der Stadt massiv.",
+          "Historisch war Nokou ein Transitpunkt für Wüstenkarawanen.",
+          "Es fehlen absolut jegliche asphaltierte Straßen vor Ort."
+        ],
+        "hu": [
+          "Nokou az extrém száraz nyugati Kanem tartományban fekszik.",
+          "A helyi gazdaság kizárólag a nomád állattenyésztésre épül.",
+          "A vándorló homokdűnék masszívan fenyegetik a várost.",
+          "Történelmileg a sivatagi karavánok fontos tranzitpontja volt.",
+          "A területen abszolút nincsenek aszfaltozott utak."
+        ],
+        "ro": [
+          "Nokou este situat în provincia vestică extrem de uscată Kanem.",
+          "Economia locală se bazează exclusiv pe creșterea animalelor.",
+          "Dunele de nisip mișcătoare amenință masiv existența orașului.",
+          "Istoric, a fost un punct de tranzit pentru caravanele deșertului.",
+          "Lipsesc cu desăvârșire absolut toate drumurile asfaltate aici."
+        ],
+        "en": [
+          "Nokou is located in the extremely dry western province of Kanem.",
+          "The local economy relies exclusively on nomadic livestock farming.",
+          "Massive shifting sand dunes heavily threaten the city's existence.",
+          "Historically, it was a major transit point for desert caravans.",
+          "There is an absolute lack of any paved roads in the area."
+        ]
+      }
+    },
+    {
+      "id": "zouar-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Zouar ist eine hochgradig isolierte Oasenstadt in der Provinz Tibesti im äußersten Norden des Tschad. Geografisch ist die Stadt von den massiven, schroffen Vulkanlandschaften des Tibesti-Gebirges umgeben, die ein einzigartiges, von extremer Hitze geprägtes Mikroklima schaffen. Wirtschaftlich ist Zouar stark von der traditionellen Dattelpalmenkultur und der Kamelzucht der indigenen Tubu-Nomaden abhängig. Die landwirtschaftlichen Möglichkeiten sind extrem auf die wenigen wasserführenden Oasen beschränkt. Historisch ist Zouar ein hochgradig strategischer und oft blutig umkämpfter Ort. Während des tschadisch-libyschen Krieges in den 1980er Jahren war die Stadt ein militärisches Epizentrum und erlitt schwere Zerstörungen. Die grausamen Folgen dieses Konflikts, wie weitreichende Landminenfelder, prägen die Region und behindern die Mobilität bis heute. Die extreme Abgeschiedenheit von der Hauptstadt macht eine formelle wirtschaftliche Entwicklung fast unmöglich. Der moderne, illegale Goldabbau im Tibesti bringt heute chaotische Veränderungen und bewaffnete Fraktionen in die einst ruhige Oase.",
+        "hu": "Zouar egy rendkívül elszigetelt oázisváros a Tibesti tartományban, Csád legészakibb részén. Földrajzilag a várost a Tibesti-hegység masszív, zord vulkanikus tájai veszik körül, amelyek egyedülálló, extrém hőség jellemezte mikroklímát hoznak létre. Gazdasági szempontból Zouar erősen függ a hagyományos datolyapálma-kultúrától és az őslakos tubu nomádok tevetenyésztésétől. A mezőgazdasági lehetőségek rendkívül korlátozottak, kizárólag a néhány vizet adó oázisra összpontosulnak. Történelmileg Zouar egy rendkívül stratégiai és gyakran véres harcok színtere volt. Az 1980-as évek csádi-líbiai háborúja során a város katonai epicentrum volt, és súlyos pusztításokat szenvedett. Ennek a konfliktusnak a kegyetlen következményei, például a kiterjedt aknamezők, a mai napig meghatározzák a régiót és akadályozzák a mobilitást. A fővárostól való extrém elszigeteltség szinte lehetetlenné tesz minden formális gazdasági fejlődést. A Tibesti-ben zajló modern, illegális aranybányászat ma kaotikus változásokat és fegyveres frakciókat hoz az egykor csendes oázisba.",
+        "ro": "Zouar este un oraș oază extrem de izolat în provincia Tibesti din nordul extrem al Ciadului. Geografic, orașul este înconjurat de peisajele vulcanice masive și accidentate ale Munților Tibesti, creând un microclimat unic, caracterizat de căldură extremă. Economic, Zouar este puternic dependent de cultura tradițională a curmalilor și de creșterea cămilelor de către nomazii indigeni Tubu. Oportunitățile agricole sunt extrem de limitate la puținele oaze cu apă. Istoric, Zouar este o locație extrem de strategică și adesea disputată sângeros. În timpul războiului ciadiano-libian din anii 1980, orașul a fost un epicentru militar și a suferit distrugeri masive. Consecințele crude ale acestui conflict, cum ar fi câmpurile extinse de mine terestre, modelează regiunea și împiedică mobilitatea până în prezent. Izolarea extremă față de capitală face ca o dezvoltare economică formală să fie aproape imposibilă. Mineritul ilegal de aur aduce astăzi facțiuni armate.",
+        "en": "Zouar is a highly isolated oasis town in the Tibesti province in the extreme north of Chad. Geographically, the city is completely surrounded by the massive, rugged volcanic landscapes of the Tibesti Mountains, creating a unique microclimate heavily characterized by extreme heat. Economically, Zouar is highly dependent on the traditional cultivation of date palms and the camel breeding practiced by the indigenous Tubu nomads. Agricultural opportunities are extremely limited strictly to the few water-bearing oases. Historically, Zouar is a highly strategic and often bloodily contested location. During the Chadian-Libyan war in the 1980s, the city served as a military epicenter and suffered severe destruction. The cruel consequences of this conflict, such as extensive landmine fields, continue to shape the region and heavily hinder mobility to this day. The extreme geographical isolation from the capital makes formal economic development almost completely impossible. Today, modern, illegal gold mining in the Tibesti brings chaotic changes and armed factions into the once-quiet oasis."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zouar liegt extrem isoliert im vulkanischen Tibesti-Gebirge.",
+          "Dattelpalmen und Kamelzucht sichern das lokale Überleben.",
+          "Die Stadt war in den 1980ern ein stark umkämpftes Militärzentrum.",
+          "Landminen aus alten Kriegen stellen eine massive Gefahr dar.",
+          "Illegale Goldgräber bringen heute bewaffnete Konflikte in die Region."
+        ],
+        "hu": [
+          "Zouar rendkívül elszigetelten fekszik a vulkanikus Tibesti-hegységben.",
+          "A datolyapálmák és a tevetenyésztés biztosítja a helyi túlélést.",
+          "A város az 1980-as években heves katonai harcok központja volt.",
+          "A régi háborúkból visszamaradt taposóaknák masszív veszélyt jelentenek.",
+          "Az illegális aranyásók ma fegyveres konfliktusokat hoznak a régióba."
+        ],
+        "ro": [
+          "Zouar este extrem de izolat în Munții vulcanici Tibesti.",
+          "Curmalii și creșterea cămilelor asigură supraviețuirea locală.",
+          "Orașul a fost un centru militar puternic disputat în anii 1980.",
+          "Minele terestre din războaiele trecute reprezintă un pericol masiv.",
+          "Căutătorii ilegali de aur aduc astăzi conflicte armate în regiune."
+        ],
+        "en": [
+          "Zouar is extremely isolated within the volcanic Tibesti Mountains.",
+          "Date palms and camel breeding secure basic local survival.",
+          "The city was a heavily contested military center in the 1980s.",
+          "Unexploded landmines from past wars pose a massive, ongoing danger.",
+          "Illegal gold miners bring armed conflicts to the region today."
+        ]
+      }
+    },
+    {
+      "id": "bere-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Béré ist eine landwirtschaftlich geprägte Stadt in der Provinz Tandjilé im südwestlichen Tschad. Geografisch profitiert die Region von einem weitaus feuchteren sudanesischen Klima, das extrem fruchtbare Böden und ausgedehnte grüne Savannen unterstützt. Wirtschaftlich ist Béré fast ausschließlich auf die Agrarproduktion fokussiert. Die lokalen Bauern bauen im großen Stil kommerzielle Baumwolle als wichtigstes Exportgut an. Zudem sichern der intensive Anbau von Reis, Hirse und Erdnüssen die Ernährung der schnell wachsenden lokalen Bevölkerung. Historisch profitierte Béré von der systematischen Förderung des Baumwollanbaus durch die koloniale und postkoloniale Verwaltung, die die Region zu einer tragenden Säule der nationalen Wirtschaft machte. Heute jedoch wird die landwirtschaftliche Expansion durch den eklatanten Mangel an moderner Infrastruktur stark gebremst. Unbefestigte Straßen verwandeln sich in der Regenzeit in tiefe Schlammpisten, was den Transport der Ernten zu den industriellen Verarbeitungszentren massiv behindert. Die Stadt bleibt ein vitales, aber isoliertes landwirtschaftliches Zentrum ohne zuverlässige Energieversorgung.",
+        "hu": "Béré egy mezőgazdasági jellegű város a Tandjilé tartományban, Délnyugat-Csádban. Földrajzilag a régió sokat profitál a jóval nedvesebb szudáni éghajlatból, amely rendkívül termékeny talajokat és kiterjedt zöld szavannákat tart fenn. Gazdasági szempontból Béré szinte kizárólag az agrártermelésre fókuszál. A helyi gazdák nagyüzemi méretekben termesztenek kereskedelmi gyapotot, amely a legfontosabb exportcikkük. Emellett a rizs, a köles és a földimogyoró intenzív termesztése biztosítja a gyorsan növekvő helyi lakosság élelmezését. Történelmileg Béré sokat profitált abból, hogy a gyarmati és posztkoloniális közigazgatás szisztematikusan támogatta a gyapottermesztést, ami a régiót a nemzeti gazdaság egyik alappillérévé tette. Ma azonban a mezőgazdasági terjeszkedést erősen hátráltatja a modern infrastruktúra kirívó hiánya. A burkolatlan utak az esős évszakban mély sárpályákká változnak, ami tömegesen akadályozza a termés ipari feldolgozóközpontokba történő szállítását. A város egy létfontosságú, de elszigetelt agrárcentrum marad, megbízható energiaellátás nélkül.",
+        "ro": "Béré este un oraș axat pe agricultură în provincia Tandjilé, în sud-vestul Ciadului. Geografic, regiunea beneficiază de un climat sudanez mult mai umed, care susține soluri extrem de fertile și savane verzi extinse. Economic, Béré se concentrează aproape exclusiv pe producția agricolă. Fermierii locali cultivă bumbac comercial pe scară largă ca produs de export principal. În plus, cultivarea intensivă a orezului, meiului și alunelor asigură hrana pentru populația locală în creștere rapidă. Istoric, Béré a beneficiat de promovarea sistematică a cultivării bumbacului de către administrația colonială și postcolonială, care a transformat regiunea într-un pilon al economiei naționale. Astăzi, însă, expansiunea agricolă este sever încetinită de lipsa flagrantă a infrastructurii moderne. Drumurile neasfaltate se transformă în piste de noroi adânci în timpul sezonului ploios, ceea ce împiedică masiv transportul recoltelor către centrele industriale de prelucrare. Orașul rămâne izolat.",
+        "en": "Béré is an agriculturally driven city in the Tandjilé province in southwestern Chad. Geographically, the region benefits significantly from a much moister Sudanian climate, which actively supports extremely fertile soils and extensive green savannas. Economically, Béré is almost exclusively focused on agricultural production. Local farmers cultivate commercial cotton on a very large scale as their most critical export commodity. Additionally, the intensive cultivation of rice, millet, and peanuts completely secures the food supply for the rapidly growing local population. Historically, Béré benefited from the systematic promotion of cotton farming by the colonial and post-colonial administrations, making the region a foundational pillar of the national economy. Today, however, agricultural expansion is severely hampered by the glaring lack of modern infrastructure. Unpaved roads turn into deep mud tracks during the heavy rainy season, which massively hinders the transport of harvested crops to industrial processing centers. The city remains a vital but highly isolated agricultural hub without any reliable energy supply."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Béré liegt in der sehr fruchtbaren Provinz Tandjilé im Südwesten.",
+          "Kommerzielle Baumwolle ist das wichtigste Exportgut der Region.",
+          "Der intensive Reisanbau sichert die Nahrung der lokalen Bevölkerung.",
+          "Fehlende Asphaltstraßen blockieren den Handel in der Regenzeit.",
+          "Die Stadt hat keinen Zugang zu einem stabilen nationalen Stromnetz."
+        ],
+        "hu": [
+          "Béré a rendkívül termékeny délnyugati Tandjilé tartományban fekszik.",
+          "A kereskedelmi gyapot a régió abszolút legfontosabb exportcikke.",
+          "Az intenzív rizstermesztés garantálja a helyi lakosság élelmezését.",
+          "Az aszfaltutak teljes hiánya blokkolja a kereskedelmet az esős évszakban.",
+          "A városnak egyáltalán nincs hozzáférése stabil nemzeti áramhálózathoz."
+        ],
+        "ro": [
+          "Béré se află în provincia foarte fertilă Tandjilé din sud-vest.",
+          "Bumbacul comercial este cel mai important produs de export al regiunii.",
+          "Cultivarea intensivă a orezului asigură hrana populației locale.",
+          "Lipsa drumurilor asfaltate blochează comerțul în sezonul ploios.",
+          "Orașul nu are acces la o rețea electrică națională stabilă absolut deloc."
+        ],
+        "en": [
+          "Béré is located in the highly fertile Tandjilé province in the southwest.",
+          "Commercial cotton is the absolute primary export commodity of the region.",
+          "Intensive rice cultivation thoroughly secures the local food supply.",
+          "The total lack of paved roads completely blocks trade in the rainy season.",
+          "The city has absolutely no access to a stable national electricity grid."
+        ]
+      }
+    },
+    {
+      "id": "lai-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Laï ist die administrative Hauptstadt der Provinz Tandjilé im Süden des Tschad und liegt hochgradig strategisch am Ufer des Logone-Flusses. Geografisch befindet sich die Stadt in einer extrem fruchtbaren Überschwemmungsebene, die für die Landwirtschaft absolut ideale Bedingungen bietet. Wirtschaftlich ist Laï ein hochwichtiges Zentrum für den intensiven Reisanbau und die kommerzielle Baumwollproduktion, die das finanzielle Rückgrat der örtlichen Bauern bildet. Der Logone-Fluss ermöglicht nicht nur weitreichende Bewässerung, sondern auch einen florierenden lokalen Fischfang, der für die Gemeinden eine essenzielle Proteinquelle darstellt. Historisch wuchs die Stadt in der Post-Unabhängigkeits-Ära als administrativer Knotenpunkt zur Verwaltung der dichten agrarischen Bevölkerung im Süden des Landes. Die infrastrukturellen Probleme sind heute jedoch immens. In der Regenzeit treten die Flüsse regelmäßig massiv über die Ufer, wodurch ganze Stadtteile und Verbindungsstraßen wochenlang überschwemmt und physisch isoliert werden. Dieser Mangel an Hochwasserschutz und durchgehend asphaltierten Straßen blockiert das immense wirtschaftliche Potenzial der Metropole stark.",
+        "hu": "Laï a Tandjilé tartomány közigazgatási fővárosa Csád déli részén, és rendkívül stratégiai helyen, a Logone-folyó partján fekszik. Földrajzilag a város egy extrém termékeny árterületen található, amely abszolút ideális feltételeket biztosít a mezőgazdaság számára. Gazdasági szempontból Laï az intenzív rizstermesztés és a kereskedelmi gyapottermelés rendkívül fontos központja, amely a helyi gazdák pénzügyi gerincét alkotja. A Logone-folyó nemcsak a kiterjedt öntözést teszi lehetővé, hanem egy virágzó helyi halászatot is, amely a közösségek számára alapvető fehérjeforrást jelent. Történelmileg a város a függetlenség utáni korszakban nőtt meg, mint az ország déli részén élő sűrű mezőgazdasági lakosság irányításáért felelős közigazgatási csomópont. Az infrastrukturális problémák azonban ma már óriásiak. Az esős évszakban a folyók rendszeresen és masszívan kilépnek a medrükből, aminek következtében egész városrészek és összekötő utak hetekre víz alá kerülnek és fizikailag elszigetelődnek. Az árvízvédelem és a végig aszfaltozott utak hiánya erősen blokkolja a metropolisz hatalmas gazdasági potenciálját.",
+        "ro": "Laï este capitala administrativă a provinciei Tandjilé din sudul Ciadului și este situată strategic pe malurile râului Logone. Geografic, orașul este situat într-o câmpie inundabilă extrem de fertilă, care oferă condiții absolut ideale pentru agricultură. Economic, Laï este un centru extrem de important pentru cultivarea intensivă a orezului și a producției comerciale de bumbac, care formează coloana vertebrală financiară a fermierilor locali. Râul Logone nu permite doar irigații extinse, ci și un pescuit local înfloritor, care este o sursă esențială de proteine pentru comunități. Istoric, orașul a crescut în era post-independență ca un nod administrativ pentru a gestiona populația agricolă densă din sudul țării. Cu toate acestea, problemele infrastructurale de astăzi sunt imense. În timpul sezonului ploios, râurile se revarsă în mod regulat masiv, inundând și izolând fizic cartiere întregi și drumuri de legătură timp de săptămâni. Lipsa protecției împotriva inundațiilor blochează potențialul.",
+        "en": "Laï is the administrative capital of the Tandjilé province in southern Chad and is highly strategically located directly on the banks of the Logone River. Geographically, the city is situated in an extremely fertile floodplain that provides absolutely ideal conditions for agriculture. Economically, Laï is a highly important center for intensive rice cultivation and commercial cotton production, which firmly forms the financial backbone of local farmers. The Logone River not only enables extensive irrigation but also supports a flourishing local fishing industry, which acts as an essential source of protein for the communities. Historically, the city grew significantly in the post-independence era as an administrative hub designed to govern the densely populated agrarian south. However, infrastructural problems today are immense. During the heavy rainy season, the rivers regularly overflow massively, causing entire neighborhoods and connecting roads to be flooded and physically isolated for weeks. This total lack of flood protection and continuously paved roads severely blocks the immense economic potential of the metropolis."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Laï liegt extrem strategisch direkt an den Ufern des Logone-Flusses.",
+          "Die Wirtschaft basiert komplett auf intensivem Baumwoll- und Reisanbau.",
+          "Die lokale Binnenfischerei sichert die Proteinversorgung der Stadt.",
+          "Schwere saisonale Überschwemmungen isolieren die Stadt oft wochenlang.",
+          "Fehlende Asphaltstraßen blockieren das wirtschaftliche Wachstum massiv."
+        ],
+        "hu": [
+          "Laï rendkívül stratégiai helyen, közvetlenül a Logone-folyó partján fekszik.",
+          "A gazdaság teljesen az intenzív gyapot- és rizstermesztésre épül.",
+          "A helyi belvízi halászat biztosítja a város fehérjeellátását.",
+          "A súlyos szezonális áradások gyakran hetekre teljesen elszigetelik a várost.",
+          "Az aszfaltozott utak hiánya masszívan blokkolja a gazdasági növekedést."
+        ],
+        "ro": [
+          "Laï este situat extrem de strategic direct pe malurile râului Logone.",
+          "Economia se bazează complet pe cultivarea intensivă a orezului și bumbacului.",
+          "Pescuitul intern local asigură aprovizionarea vitală cu proteine a orașului.",
+          "Inundațiile sezoniere severe izolează fizic orașul adesea săptămâni întregi.",
+          "Lipsa totală a drumurilor asfaltate blochează masiv creșterea economică."
+        ],
+        "en": [
+          "Laï is located highly strategically directly on the banks of the Logone River.",
+          "The economy is completely based on highly intensive cotton and rice cultivation.",
+          "Local inland fishing actively secures the daily protein supply for the city.",
+          "Severe seasonal flooding frequently isolates the entire city for weeks on end.",
+          "The complete lack of paved roads massively blocks formal economic growth."
+        ]
+      }
+    },
+    {
+      "id": "doba-oil-field-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Doba-Ölfeld im Süden des Tschad, direkt in der stark landwirtschaftlichen Provinz Logone Oriental gelegen, ist das absolute Epizentrum der tschadischen Erdölindustrie. Geografisch liegt es in einer von weiten Savannen und Agrarland geprägten Region. Wirtschaftlich veränderte die kommerzielle Erschließung dieses riesigen Ölfeldes in den frühen 2000er Jahren das gesamte Land fundamental. Ein internationales Konsortium unter Führung von ExxonMobil baute hier eine gigantische Infrastruktur auf, einschließlich der massiven Tschad-Kamerun-Pipeline, die das Rohöl über 1.000 Kilometer unterirdisch zum Atlantischen Ozean transportiert. Historisch brachte das Doba-Projekt enorme Hoffnungen auf nationalen Wohlstand, doch die Realität vor Ort ist hochgradig komplex. Während tatsächlich formelle Arbeitsplätze für eine technische Minderheit entstanden, klagt die lokale ländliche Bevölkerung über massive Umweltschäden, verschmutztes Trinkwasser und den Verlust fruchtbarer Ackerböden. Die sozialen Spannungen zwischen den gut bezahlten Ölarbeitern und den verarmten Baumwollbauern sind eine ständige, oft explosive Herausforderung in dieser extrem transformierten Zone.",
+        "hu": "A Csád déli részén, az erősen mezőgazdasági Logone Oriental tartományban található Doba-olajmező a csádi kőolajipar abszolút epicentruma. Földrajzilag egy kiterjedt szavannák és mezőgazdasági területek által uralt régióban fekszik. Gazdasági szempontból ennek a hatalmas olajmezőnek a 2000-es évek elején történt kereskedelmi célú kiaknázása alapvetően változtatta meg az egész országot. Egy nemzetközi konzorcium, az ExxonMobil vezetésével, gigantikus infrastruktúrát épített ki itt, beleértve a masszív Csád-Kamerun kőolajvezetéket, amely a nyersolajat több mint 1000 kilométeren keresztül, a föld alatt szállítja az Atlanti-óceánhoz. Történelmileg a Doba-projekt hatalmas reményeket fűzött a nemzeti jóléthez, de a helyi valóság rendkívül összetett. Bár valóban jöttek létre formális munkahelyek egy technikai kisebbség számára, a helyi vidéki lakosság masszív környezeti károkra, szennyezett ivóvízre és a termékeny termőföldek elvesztésére panaszkodik. A jól fizetett olajmunkások és az elszegényedett gyapottermesztő gazdák közötti társadalmi feszültség állandó, gyakran robbanásveszélyes kihívás ebben az extrém módon átalakult övezetben.",
+        "ro": "Câmpul petrolier Doba din sudul Ciadului, situat direct în provincia puternic agricolă Logone Oriental, este epicentrul absolut al industriei petroliere ciadiene. Geografic, se află într-o regiune caracterizată de savane vaste și terenuri agricole. Din punct de vedere economic, dezvoltarea comercială a acestui câmp petrolier uriaș la începutul anilor 2000 a schimbat fundamental întreaga țară. Un consorțiu internațional condus de ExxonMobil a construit aici o infrastructură gigantică, inclusiv conducta masivă Ciad-Camerun, care transportă țițeiul pe o distanță de peste 1.000 de kilometri subteran până la Oceanul Atlantic. Istoric, proiectul Doba a adus speranțe enorme pentru prosperitatea națională, dar realitatea de pe teren este extrem de complexă. În timp ce locuri de muncă formale au fost create pentru o minoritate tehnică, populația rurală locală se plânge de daune masive aduse mediului, de apă potabilă poluată și de pierderea terenurilor fertile. Tensiunile sociale sunt o provocare explozivă.",
+        "en": "The Doba oil field in southern Chad, located directly within the heavily agricultural Logone Oriental province, serves as the absolute epicenter of the Chadian petroleum industry. Geographically, it is situated in a region deeply characterized by vast savannas and agricultural land. Economically, the commercial development of this massive oil field in the early 2000s fundamentally transformed the entire country. An international consortium led by ExxonMobil built a gigantic infrastructure here, including the massive Chad-Cameroon pipeline, which transports the crude oil over 1,000 kilometers underground to the Atlantic Ocean. Historically, the Doba project brought enormous hopes for national prosperity, but the reality on the ground is highly complex. While formal jobs were indeed created for a technical minority, the local rural population strongly complains of massive environmental damage, severely polluted drinking water, and the permanent loss of highly fertile arable land. Social tensions between the well-paid oil workers and impoverished local cotton farmers pose a constant, often explosive challenge in this extremely transformed zone."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Doba-Ölfeld ist das Zentrum der tschadischen Erdölindustrie.",
+          "Eine 1.000 km lange Pipeline transportiert das Öl zum Atlantik.",
+          "ExxonMobil führte das massive internationale Förderkonsortium an.",
+          "Öllecks und Bauarbeiten führten zu enormen lokalen Umweltschäden.",
+          "Starke soziale Spannungen spalten Ölarbeiter und lokale Bauern."
+        ],
+        "hu": [
+          "A Doba-olajmező a csádi nemzeti kőolajipar abszolút központja.",
+          "Egy 1000 km hosszú vezeték szállítja az olajat az Atlanti-óceánhoz.",
+          "Az ExxonMobil vezette a hatalmas nemzetközi kitermelő konzorciumot.",
+          "Az olajszivárgások és a munkálatok hatalmas környezeti károkat okoztak.",
+          "Erős társadalmi feszültségek osztják meg az olajmunkásokat és a gazdákat."
+        ],
+        "ro": [
+          "Câmpul Doba este centrul absolut al industriei petroliere din Ciad.",
+          "O conductă lungă de 1.000 km transportă petrolul spre Oceanul Atlantic.",
+          "ExxonMobil a condus consorțiul masiv de producție internațională.",
+          "Scurgerile de petrol au cauzat daune enorme mediului înconjurător.",
+          "Tensiuni sociale puternice divizează muncitorii petrolieri și fermierii."
+        ],
+        "en": [
+          "The Doba oil field is the absolute center of the Chadian oil industry.",
+          "A 1,000 km long massive pipeline strictly transports the oil to the Atlantic.",
+          "ExxonMobil officially led the massive international production consortium.",
+          "Oil spills and heavy construction led to enormous local environmental damage.",
+          "Strong social tensions actively divide well-paid oil workers and local farmers."
+        ]
+      }
+    },
+    {
+      "id": "kome-oil-field-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kome-Ölfeld ist der zentrale und wichtigste Produktionsstandort innerhalb des massiven Doba-Beckens in der tschadischen Provinz Logone Oriental. Geografisch umgibt dieses Feld tiefes landwirtschaftliches Gebiet, das durch den industriellen Fußabdruck stark verändert wurde. Wirtschaftlich dient Kome als das technische und operative Herz der gesamten tschadischen Erdölförderung. Hier befinden sich die größten Pumpstationen, gigantische Verarbeitungskomplexe und das streng bewachte Hauptquartier der internationalen Ölgesellschaften im Land. Das Feld liefert täglich Zehntausende Barrel schweres Rohöl, die direkt aufbereitet und in die Exportpipeline nach Kamerun eingespeist werden. Historisch war die Erschließung von Kome ein technisches Großprojekt, maßgeblich finanziert durch die Weltbank, das den Tschad in ein relevantes Ölexportland verwandelte. Dennoch steht das Projekt wegen schwerwiegender ökologischer und sozialer Probleme massiv in der Kritik. Landenteignungen ohne faire Kompensation und kaum existierende Reinvestitionen der nationalen Profite in die lokale Zivilgesellschaft prägen den harten Alltag rund um die Bohrtürme.",
+        "hu": "A Kome-olajmező a csádi Logone Oriental tartományban található hatalmas Doba-medence központi és legfontosabb termelési helyszíne. Földrajzilag ezt a mezőt mély mezőgazdasági terület veszi körül, amelyet az ipari lábnyom nagymértékben megváltoztatott. Gazdasági szempontból Kome a teljes csádi kőolajkitermelés technikai és operatív szíveként szolgál. Itt találhatók a legnagyobb szivattyúállomások, a gigantikus feldolgozókomplexumok és a nemzetközi olajtársaságok szigorúan őrzött helyi főhadiszállásai. A mező naponta több tízezer hordó nehéz nyersolajat termel, amelyet közvetlenül feldolgoznak, és a Kamerunba vezető exportvezetékbe táplálnak. Történelmileg Kome fejlesztése egy hatalmas műszaki projekt volt, amelyet nagyrészt a Világbank finanszírozott, és amely Csádot jelentős olajexportáló országgá változtatta. A projektet azonban hatalmas kritikák érik a súlyos ökológiai és társadalmi problémák miatt. Tisztességes kártérítés nélküli kisajátítások és a nemzeti profitok helyi civil társadalomba történő visszaforgatásának szinte teljes hiánya jellemzi a fúrótornyok körüli kemény mindennapokat.",
+        "ro": "Câmpul petrolier Kome este locația de producție centrală și cea mai importantă din masivul bazin Doba, în provincia ciadiană Logone Oriental. Geografic, acest câmp este înconjurat de o zonă profund agricolă, care a fost puternic modificată de amprenta industrială. Economic, Kome servește drept inima tehnică și operațională a întregii producții de petrol din Ciad. Aici sunt situate cele mai mari stații de pompare, complexe gigantice de procesare și sediul strict păzit al companiilor petroliere internaționale din țară. Câmpul livrează zilnic zeci de mii de barili de țiței greu, care este procesat direct și introdus în conducta de export spre Camerun. Istoric, dezvoltarea Kome a fost un proiect tehnic major, finanțat în mare parte de Banca Mondială, care a transformat Ciadul într-o țară relevantă exportatoare de petrol. Cu toate acestea, proiectul este puternic criticat din cauza problemelor ecologice și sociale severe. Exproprierile de terenuri și reinvestițiile inexistente caracterizează zona.",
+        "en": "The Kome oil field is the central and most important production site within the massive Doba Basin in the Chadian province of Logone Oriental. Geographically, this active field is surrounded by deep agricultural land that has been heavily altered by the sprawling industrial footprint. Economically, Kome serves as the technical and operational heart of the entire Chadian oil production industry. This is where the absolute largest pumping stations, gigantic processing complexes, and the heavily guarded headquarters of the international oil companies in the country are located. The field delivers tens of thousands of barrels of heavy crude oil daily, which are processed directly and fed straight into the export pipeline to Cameroon. Historically, the extensive development of Kome was a major technical project, heavily financed by the World Bank, that transformed Chad into a relevant oil-exporting country. Nevertheless, the mega-project is heavily criticized for severe ecological and social problems. Brutal land expropriations without fair compensation and virtually non-existent reinvestment of national profits into the local civil society strongly define the harsh daily life surrounding the drilling rigs."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Kome-Ölfeld ist das operative Herz der tschadischen Ölindustrie.",
+          "Es produziert täglich zehntausende Barrel sehr schweres Rohöl.",
+          "Die Weltbank finanzierte die Erschließung historisch massiv mit.",
+          "Gigantische Pumpstationen pressen das Öl direkt in die Export-Pipeline.",
+          "Landenteignungen führten zu starker Armut bei den lokalen Bauern."
+        ],
+        "hu": [
+          "A Kome-olajmező a csádi kőolajipar abszolút operatív szíve.",
+          "Naponta több tízezer hordó rendkívül nehéz nyersolajat termel ki.",
+          "A Világbank történelmileg masszívan finanszírozta a fejlesztést.",
+          "Gigantikus szivattyúállomások préselik az olajat az exportvezetékbe.",
+          "A földkisajátítások a helyi gazdák körében mély szegénységhez vezettek."
+        ],
+        "ro": [
+          "Câmpul petrolier Kome este inima operațională absolută a industriei petroliere.",
+          "Produce zilnic zeci de mii de barili de țiței extrem de greu.",
+          "Banca Mondială a finanțat istoric masiv această dezvoltare extractivă.",
+          "Stațiile gigantice de pompare presează petrolul în conducta de export.",
+          "Exproprierile de terenuri au dus la o sărăcie severă printre fermierii locali."
+        ],
+        "en": [
+          "The Kome oil field is the absolute operational heart of the oil industry.",
+          "It actively produces tens of thousands of barrels of heavy crude oil daily.",
+          "The World Bank historically heavily financed this massive development.",
+          "Gigantic pumping stations force the crude oil directly into the pipeline.",
+          "Ruthless land expropriations led to severe poverty among local farmers."
+        ]
+      }
+    },
+    {
+      "id": "bol-river-port-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Binnenhafen von Bol am Rande des Tschadsees in der Provinz Lac ist ein historisch und wirtschaftlich essenzieller Knotenpunkt im Westen des Landes. Geografisch liegt der Hafen in einer komplexen Sumpf- und Wasserlandschaft, die sich durch den dramatischen Rückgang des Sees stetig verändert. Wirtschaftlich ist der Hafen der primäre Umschlagplatz für den hochlukrativen Handel mit geräuchertem Fisch, landwirtschaftlichen Polder-Produkten (wie Mais und Weizen) und der sehr wertvollen Spirulina-Alge, die hier massiv geerntet wird. Hunderte von traditionellen Holzpirogen (Kanus) navigieren täglich durch die immer flacher werdenden Wasserwege, um Waren grenzüberschreitend zwischen dem Tschad, Niger, Nigeria und Kamerun zu transportieren. Historisch war dieser Hafen das absolute Herzstück der transregionalen Wirtschaft der indigenen Kanembu- und Buduma-Völker. Heute bedrohen die fortschreitende Verlandung des Wassers und die extreme Sicherheitskrise durch brutale Boko-Haram-Milizen den Hafenbetrieb massiv. Der Handel wird oft völlig unterbrochen, und die Fischer müssen immer längere und weitaus gefährlichere Wege in das schrumpfende Becken in Kauf nehmen.",
+        "hu": "A Lac tartományban, a Csád-tó partján fekvő Bol belvízi kikötője egy történelmileg és gazdaságilag létfontosságú csomópont az ország nyugati részén. Földrajzilag a kikötő egy összetett mocsár- és vízrendszerben helyezkedik el, amely a tó drámai zsugorodása miatt folyamatosan változik. Gazdasági szempontból a kikötő a füstölt hal, a mezőgazdasági polder-termékek (például kukorica és búza) és a nagyon értékes spirulina alga (amelyet itt tömegesen takarítanak be) rendkívül jövedelmező kereskedelmének elsődleges elosztóközpontja. Hagyományos fa pirogák (kenuk) százai navigálnak naponta az egyre sekélyesebb vízi utakon, hogy határokon átnyúlóan szállítsák az árukat Csád, Niger, Nigéria és Kamerun között. Történelmileg ez a kikötő volt a bennszülött kanembu és buduma népek transzregionális gazdaságának abszolút központja. Ma a víz folyamatos eliszaposodása és a brutális Boko Haram milíciák okozta extrém biztonsági válság masszívan fenyegeti a kikötő működését. A kereskedelem gyakran teljesen megszakad, a halászoknak pedig egyre hosszabb és sokkal veszélyesebb utakat kell megtenniük a zsugorodó medencébe.",
+        "ro": "Portul interior Bol de la marginea Lacului Ciad, în provincia Lac, este un nod esențial din punct de vedere istoric și economic în vestul țării. Geografic, portul este situat într-un peisaj complex de mlaștini și ape, care se schimbă constant din cauza scăderii dramatice a lacului. Economic, portul este principalul punct de tranzit pentru comerțul foarte profitabil cu pește afumat, produse agricole de polder (cum ar fi porumbul și grâul) și microalga extrem de valoroasă spirulina, care este recoltată masiv aici. Sute de pirogi tradiționale din lemn navighează zilnic prin căile navigabile tot mai puțin adânci pentru a transporta mărfuri transfrontaliere între Ciad, Niger, Nigeria și Camerun. Istoric, acest port a fost piesa centrală absolută a economiei transregionale a popoarelor indigene Kanembu și Buduma. Astăzi, înnămolirea progresivă a apei și criza extremă de securitate cauzată de milițiile brutale Boko Haram amenință masiv operațiunile portuare. Comerțul este adesea întrerupt complet.",
+        "en": "The inland port of Bol on the edge of Lake Chad in the Lac province is a historically and economically essential hub in the western part of the country. Geographically, the port is located within a highly complex landscape of swamps and waterways that is constantly shifting due to the dramatic, climate-induced shrinking of the lake. Economically, the port is the absolute primary transshipment point for the highly lucrative trade in smoked fish, agricultural polder products (such as maize and wheat), and the highly valuable spirulina algae, which is harvested en masse here. Hundreds of traditional wooden pirogues (canoes) navigate daily through the increasingly shallow waterways to transport goods across borders between Chad, Niger, Nigeria, and Cameroon. Historically, this port was the absolute centerpiece of the transregional economy of the indigenous Kanembu and Buduma peoples. Today, the progressive silting up of the water and the extreme security crisis caused by brutal Boko Haram militias massively threaten port operations. Trade is frequently interrupted entirely, and local fishermen are forced to take increasingly longer and far more dangerous routes deep into the shrinking basin."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Flusshafen Bol ist das wirtschaftliche Zentrum am großen Tschadsee.",
+          "Er ist der Hauptumschlagplatz für massiv geerntete Spirulina-Algen.",
+          "Holzkanus transportieren hier täglich Waren über vier Staatsgrenzen.",
+          "Die Verlandung des Sees macht die Kanu-Navigation extrem schwierig.",
+          "Die Terrorgruppe Boko Haram bedroht den lukrativen Hafenhandel ständig."
+        ],
+        "hu": [
+          "A boli folyami kikötő a hatalmas Csád-tó abszolút gazdasági központja.",
+          "Ez a tömegesen betakarított spirulina alga fő elosztóközpontja.",
+          "A fakenuk naponta négy államhatáron keresztül szállítanak itt árut.",
+          "A tó gyors eliszaposodása rendkívül megnehezíti a kenu-navigációt.",
+          "A Boko Haram terrorszervezet folyamatosan fenyegeti a kikötői kereskedelmet."
+        ],
+        "ro": [
+          "Portul fluvial Bol este centrul economic absolut pe marele Lac Ciad.",
+          "Este principalul punct de transbordare pentru algele spirulina recoltate masiv.",
+          "Canoele de lemn transportă zilnic mărfuri peste patru granițe naționale aici.",
+          "Înnămolirea lacului face ca navigarea cu canoele să fie extrem de dificilă.",
+          "Gruparea teroristă Boko Haram amenință constant comerțul portuar lucrativ."
+        ],
+        "en": [
+          "The river port of Bol is the absolute economic center on the great Lake Chad.",
+          "It acts as the main transshipment point for massively harvested spirulina algae.",
+          "Traditional wooden canoes transport goods across four national borders daily.",
+          "The rapid silting up of the lake makes canoe navigation extremely difficult.",
+          "The brutal Boko Haram terror group constantly threatens lucrative port trade."
+        ]
+      }
+    },
+    {
+      "id": "moundou-brewery-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Brauerei von Moundou, offiziell bekannt als Les Brasseries du Tchad (Brastchad), ist eine der größten und absolut wichtigsten industriellen Produktionsanlagen im gesamten Tschad. Geografisch befindet sich die hochmoderne Fabrik in Moundou, der wirtschaftlichen Metropole des Südens in der Provinz Logone Occidental. Wirtschaftlich ist die Brauerei ein gigantischer Motor für die Region und einer der ganz wenigen industriellen Komplexe außerhalb des Erdölsektors. Sie produziert das landesweit extrem berühmte Gala-Bier, das nicht nur im Tschad fast ein Monopol besitzt, sondern auch intensiv in die Nachbarländer exportiert wird. Die Brauerei bietet Tausenden von Einheimischen direkte und indirekte Arbeitsplätze, von der technischen Fabrikarbeit bis hin zur Logistik und dem lokalen Vertrieb durch unzählige Kleinhändler. Historisch wurde das Werk in den 1960er Jahren gegründet und gilt als Symbol der industriellen Unabhängigkeit des Landes. Die Anlage nutzt das reichlich vorhandene Frischwasser des Logone-Flusses. Trotz chronischer Energieengpässe und extrem schlechter nationaler Straßen, die den landesweiten Vertrieb der Glasflaschen massiv erschweren, bleibt die Brauerei ein Symbol des ununterbrochenen wirtschaftlichen Erfolgs.",
+        "hu": "A moundoui sörfőzde, hivatalos nevén a Les Brasseries du Tchad (Brastchad), egész Csád egyik legnagyobb és abszolút legfontosabb ipari termelőüzeme. Földrajzilag a rendkívül modern gyár Moundouban, a délvidék gazdasági metropoliszában, a Logone Occidental tartományban található. Gazdasági szempontból a sörfőzde a régió gigantikus motorja, és a kőolajszektoron kívüli nagyon kevés ipari komplexum egyike. Itt gyártják az országosan is rendkívül híres Gala sört, amely nemcsak Csádban rendelkezik szinte monopóliummal, hanem a szomszédos országokba is intenzíven exportálják. A sörfőzde több ezer helyi lakosnak biztosít közvetlen és közvetett munkahelyet, a műszaki gyári munkától kezdve a logisztikán át a számtalan kiskereskedő által végzett helyi forgalmazásig. Történelmileg az üzemet az 1960-as években alapították, és az ország ipari függetlenségének szimbólumának tekintik. A létesítmény a Logone-folyó bőséges édesvizét használja. A krónikus energiahiány és a rendkívül rossz országos utak ellenére, amelyek masszívan megnehezítik az üvegpalackok országos terjesztését, a sörfőzde a töretlen gazdasági siker szimbóluma marad.",
+        "ro": "Fabrica de bere din Moundou, cunoscută oficial sub numele de Les Brasseries du Tchad (Brastchad), este una dintre cele mai mari și absolut cele mai importante unități de producție industrială din întregul Ciad. Geografic, fabrica ultra-modernă este situată în Moundou, metropola economică a sudului din provincia Logone Occidental. Din punct de vedere economic, fabrica de bere este un motor gigantic pentru regiune și unul dintre puținele complexe industriale din afara sectorului petrolier. Aceasta produce berea Gala, extrem de faimoasă la nivel național, care nu numai că deține aproape un monopol în Ciad, dar este și exportată intensiv în țările vecine. Fabrica de bere oferă locuri de muncă directe și indirecte pentru mii de localnici, de la munca tehnică în fabrică până la logistică și distribuția locală prin nenumărați comercianți cu amănuntul. Istoric, uzina a fost fondată în anii 1960 și este considerată un simbol al independenței industriale a țării. Instalația folosește apa dulce abundentă a râului Logone. Succesul este enorm în ciuda drumurilor proaste.",
+        "en": "The Moundou brewery, officially known as Les Brasseries du Tchad (Brastchad), is one of the absolute largest and most critical industrial production facilities in all of Chad. Geographically, the highly modern factory is located in Moundou, the economic metropolis of the south in the Logone Occidental province. Economically, the brewery is a gigantic engine for the region and serves as one of the very few formal industrial complexes outside the petroleum sector. It produces the nationally extremely famous Gala beer, which not only holds a near-monopoly in Chad but is also intensively exported to neighboring countries. The brewery provides thousands of locals with direct and indirect employment, ranging from technical factory labor to logistics and local distribution by countless small retailers. Historically, the plant was officially founded in the 1960s and is widely considered a symbol of the country's industrial independence. The facility heavily utilizes the abundant fresh water of the Logone River. Despite chronic energy shortages and extremely poor national roads that massively complicate the nationwide distribution of glass bottles, the brewery remains a beacon of uninterrupted economic success."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brastchad-Brauerei ist das größte Industriezentrum im Süden.",
+          "Hier wird das landesweit fast monopolistische Gala-Bier gebraut.",
+          "Die Brauerei pumpt extrem viel Frischwasser aus dem Logone-Fluss.",
+          "Sie bietet Tausenden Menschen direkt und indirekt ein festes Einkommen.",
+          "Schlechte Straßen machen den landesweiten Flaschenvertrieb sehr teuer."
+        ],
+        "hu": [
+          "A Brastchad sörfőzde a déli országrész legnagyobb ipari központja.",
+          "Itt főzik az országos piacon szinte monopolhelyzetben lévő Gala sört.",
+          "A sörfőzde extrém sok édesvizet szivattyúz ki közvetlenül a Logone-folyóból.",
+          "Több ezer embernek biztosít közvetlenül és közvetve stabil jövedelmet.",
+          "A nagyon rossz utak rendkívül megdrágítják az üvegpalackok országos terjesztését."
+        ],
+        "ro": [
+          "Fabrica Brastchad este cel mai mare centru industrial absolut din sud.",
+          "Aici este preparată berea Gala, aproape monopolistă la nivel național.",
+          "Fabrica pompează extrem de multă apă dulce din râul Logone.",
+          "Oferă mii de locuri de muncă directe și indirecte cu un venit fix.",
+          "Drumurile extrem de proaste fac distribuția sticlelor foarte scumpă."
+        ],
+        "en": [
+          "The Brastchad brewery is the absolute largest industrial center in the south.",
+          "The nationally near-monopolistic Gala beer is brewed completely here.",
+          "The brewery aggressively pumps a vast amount of fresh water from the Logone.",
+          "It officially provides thousands of people with a secure, direct income.",
+          "Extremely poor roads make the nationwide distribution of bottles highly expensive."
+        ]
+      }
+    },
+    {
+      "id": "sarh-sugar-refinery-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Zuckerfabrik von Sarh, offiziell betrieben von der Compagnie Sucrière du Tchad (CST), befindet sich im üppigen Süden des Landes nahe der Ortschaft Banda in der Provinz Moyen-Chari. Geografisch profitiert diese hochwichtige industrielle Anlage extrem von den fruchtbaren Schwemmlandböden und der direkten Nähe zum Schari-Fluss, der die massive, notwendige Bewässerung der ausgedehnten, umliegenden Zuckerrohrplantagen ermöglicht. Wirtschaftlich ist die Fabrik nach dem Ölsektor einer der absolut größten nicht-staatlichen Arbeitgeber im gesamten Tschad. Tausende von Landarbeitern sind in der extrem harten manuellen Ernte des Zuckerrohrs beschäftigt, während die hochmechanisierte Fabrik raffinierten Zucker produziert. Dieser versorgt fast den gesamten nationalen Markt und reduziert die Notwendigkeit teurer Importe drastisch. Historisch wurde die Anlage in den 1970er Jahren als ehrgeiziges landwirtschaftliches Vorzeigeprojekt des Staates aufgebaut, um die starke Abhängigkeit vom Baumwollexport zu verringern. Heute steht die Raffinerie jedoch vor enormen logistischen Hürden. Die chronisch schlechten Straßen in den Norden machen den Transport teuer, und der massive Schmuggel von billigem Zucker aus Nachbarländern bedroht die lokale Wirtschaft ständig.",
+        "hu": "A Sarh-i cukorgyár, amelyet hivatalosan a Compagnie Sucrière du Tchad (CST) üzemeltet, az ország buja déli részén, a Moyen-Chari tartományban, Banda település közelében található. Földrajzilag ez a rendkívül fontos ipari létesítmény rendkívül sokat profitál a termékeny hordaléktalajokból és a Chari-folyó közvetlen közelségéből, amely lehetővé teszi a kiterjedt, környező cukornádültetvények masszív, elengedhetetlen öntözését. Gazdasági szempontból az olajszektor után ez a gyár az egyik abszolút legnagyobb nem állami munkaadó egész Csádban. Mezőgazdasági munkások ezreit foglalkoztatják a cukornád rendkívül kemény, kézi betakarításában, miközben a magasan gépesített gyár finomított cukrot állít elő. Ez szinte a teljes hazai piacot ellátja, és drasztikusan csökkenti a drága import iránti igényt. Történelmileg a létesítményt az 1970-es években az állam ambiciózus mezőgazdasági mintaprojektjeként építették, hogy csökkentsék a gyapotexporttól való erős függőséget. Ma azonban a finomító óriási logisztikai akadályokkal néz szembe. Az északra vezető, krónikusan rossz utak megdrágítják a szállítást, a szomszédos országokból származó olcsó cukor masszív csempészete pedig folyamatosan fenyegeti a helyi gazdaságot.",
+        "ro": "Fabrica de zahăr din Sarh, operată oficial de Compagnie Sucrière du Tchad (CST), este situată în sudul luxuriant al țării, lângă satul Banda din provincia Moyen-Chari. Geografic, această facilitate industrială extrem de importantă beneficiază enorm de solurile aluvionare fertile și de proximitatea directă a râului Chari, care permite irigarea masivă și necesară a plantațiilor extinse de trestie de zahăr din jur. Din punct de vedere economic, după sectorul petrolier, fabrica este unul dintre cei mai mari angajatori non-statali absoluți din întregul Ciad. Mii de muncitori agricoli sunt angajați în recoltarea manuală extrem de grea a trestiei de zahăr, în timp ce fabrica extrem de mecanizată produce zahăr rafinat. Acesta aprovizionează aproape întreaga piață națională și reduce drastic nevoia de importuri scumpe. Istoric, instalația a fost construită în anii 1970 ca un proiect agricol ambițios al statului pentru a reduce dependența puternică de exportul de bumbac. Astăzi, însă, rafinăria se confruntă cu obstacole logistice enorme. Drumurile proaste scumpesc transportul, iar contrabanda o amenință.",
+        "en": "The Sarh sugar refinery, officially operated by the Compagnie Sucrière du Tchad (CST), is located in the lush south of the country near the village of Banda in the Moyen-Chari province. Geographically, this highly important industrial facility benefits extremely from the highly fertile alluvial soils and the direct proximity to the Chari River, which enables the massive, necessary irrigation of the extensive surrounding sugarcane plantations. Economically, after the oil sector, the factory is one of the absolute largest non-state employers in all of Chad. Thousands of agricultural laborers are employed in the extremely brutal manual harvesting of sugarcane, while the highly mechanized factory continuously produces refined sugar. This directly supplies almost the entire national market and drastically reduces the need for highly expensive imports. Historically, the facility was built in the 1970s as a highly ambitious agricultural flagship project of the state to effectively reduce the heavy economic dependence on cotton exports. Today, however, the refinery faces enormous logistical hurdles. Chronically poor roads to the north make transport highly expensive, and the massive smuggling of cheap sugar from neighboring countries constantly threatens the local economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die CST-Zuckerfabrik ist einer der größten Arbeitgeber des ganzen Landes.",
+          "Der direkte Zugang zum Schari-Fluss ermöglicht die massive Bewässerung.",
+          "Tausende Arbeiter ernten das Zuckerrohr hier in extrem harter Handarbeit.",
+          "Der hier produzierte Zucker macht den Tschad fast unabhängig von Importen.",
+          "Massiver Schmuggel von Billigzucker bedroht die Profitabilität der Anlage."
+        ],
+        "hu": [
+          "A CST cukorgyár az egész ország egyik abszolút legnagyobb munkaadója.",
+          "A Chari-folyóhoz való közvetlen hozzáférés teszi lehetővé a masszív öntözést.",
+          "Munkások ezrei extrém kemény, kétkezi munkával takarítják be a cukornádat.",
+          "Az itt előállított cukor szinte teljesen függetlenné teszi Csádot az importtól.",
+          "Az olcsó cukor masszív csempészete súlyosan fenyegeti az üzem nyereségességét."
+        ],
+        "ro": [
+          "Fabrica de zahăr CST este unul dintre cei mai mari angajatori din țară.",
+          "Accesul direct la râul Chari permite irigarea absolut masivă.",
+          "Mii de muncitori recoltează trestia de zahăr manual, printr-o muncă grea.",
+          "Zahărul produs aici face Ciadul aproape independent de importuri scumpe.",
+          "Contrabanda masivă de zahăr ieftin amenință puternic profitabilitatea fabricii."
+        ],
+        "en": [
+          "The CST sugar refinery is one of the absolute largest employers in the country.",
+          "Direct access to the Chari River heavily facilitates massive crop irrigation.",
+          "Thousands of workers harvest the sugarcane here using brutal manual labor.",
+          "The sugar produced here makes Chad almost entirely independent of imports.",
+          "Massive smuggling of cheap foreign sugar highly threatens the plant's profitability."
+        ]
+      }
+    },
+    {
+      "id": "bongor-cotton-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Baumwollentkörnungsanlage von Bongor ist eine absolut essenzielle industrielle Einrichtung in der Provinz Mayo-Kebbi Est im Südwesten des Tschad. Geografisch liegt die Anlage hochgradig strategisch direkt an den Ufern des Logone-Flusses, umgeben von einigen der produktivsten und fruchtbarsten landwirtschaftlichen Zonen des gesamten Landes. Wirtschaftlich ist die Fabrik, die von der nationalen Gesellschaft CotonTchad betrieben wird, das finanzielle Rückgrat der lokalen Bauernschaft. Hier wird die von zehntausenden Kleinbauern manuell geerntete Rohbaumwolle in riesigen Mengen gesammelt, maschinell entkörnt und für den internationalen Export in dichte Ballen gepresst. Die Anlage garantiert ein festes, wenn auch saisonales Bareinkommen für die gesamte Region. Historisch gesehen wurde die Basis der Baumwollindustrie während der strengen französischen Kolonialzeit etabliert und bildete lange Zeit die allerwichtigste Einnahmequelle des Staates vor dem großen Ölboom. Die Fabrik in Bongor leidet heute extrem unter der fehlenden Modernisierung der völlig veralteten Maschinen, massiven chronischen Stromausfällen und den stark schwankenden Weltmarktpreisen, bleibt aber für das reine Überleben der ländlichen Wirtschaft unverzichtbar.",
+        "hu": "A bongori gyapottisztító üzem egy abszolút elengedhetetlen ipari létesítmény a Mayo-Kebbi Est tartományban, Csád délnyugati részén. Földrajzilag az üzem rendkívül stratégiai helyen, közvetlenül a Logone-folyó partján fekszik, az ország legproduktívabb és legtermékenyebb mezőgazdasági övezeteivel körülvéve. Gazdasági szempontból a CotonTchad nemzeti társaság által üzemeltetett gyár a helyi parasztság pénzügyi gerince. Több tízezer kisbirtokos gazda által kézzel betakarított nyers gyapotot gyűjtenek itt össze hatalmas mennyiségben, géppel magozzák, majd sűrű bálákba préselik a nemzetközi exportra. A létesítmény stabil, bár szezonális készpénzbevételt garantál az egész régiónak. Történelmileg a gyapotipar alapjait a szigorú francia gyarmati időszakban rakták le, és a nagy olajboom előtt hosszú ideig az állam legfontosabb bevételi forrását jelentette. A bongori gyár ma rendkívül sokat szenved a teljesen elavult gépek korszerűsítésének hiányától, a masszív, krónikus áramkimaradásoktól és a világpiaci árak erős ingadozásától, de a vidéki gazdaság puszta túléléséhez továbbra is nélkülözhetetlen.",
+        "ro": "Stația de egrenare a bumbacului din Bongor este o facilitate industrială absolut esențială în provincia Mayo-Kebbi Est, în sud-vestul Ciadului. Geografic, fabrica este situată extrem de strategic, direct pe malurile râului Logone, înconjurată de unele dintre cele mai productive și fertile zone agricole din întreaga țară. Economic, fabrica, operată de compania națională CotonTchad, este coloana vertebrală financiară a țărănimii locale. Bumbacul brut, recoltat manual de zeci de mii de mici fermieri, este colectat aici în cantități uriașe, egrenat mecanic și presat în baloți denși pentru exportul internațional. Unitatea garantează un venit fix, deși sezonier, în numerar pentru întreaga regiune. Istoric, baza industriei bumbacului a fost stabilită în timpul strictei perioade coloniale franceze și a fost mult timp cea mai importantă sursă de venit a statului înainte de marele boom petrolier. Astăzi, fabrica din Bongor suferă extrem de mult din cauza lipsei de modernizare, a întreruperilor de curent și a prețurilor fluctuante pe piața mondială.",
+        "en": "The Bongor cotton ginning plant is an absolutely essential industrial facility in the Mayo-Kebbi Est province in the southwest of Chad. Geographically, the plant is highly strategically located directly on the banks of the Logone River, fully surrounded by some of the most productive and fertile agricultural zones in the entire country. Economically, the factory, which is formally operated by the national company CotonTchad, is the ultimate financial backbone of the local peasantry. The raw cotton, harvested entirely manually by tens of thousands of smallholder farmers, is collected here in massive quantities, mechanically ginned, and tightly pressed into dense bales strictly for international export. The facility reliably guarantees a fixed, albeit highly seasonal, cash income for the entire region. Historically, the deep foundation of the cotton industry was established during the strict French colonial period and served for a very long time as the state's most important source of revenue prior to the massive oil boom. The Bongor factory today suffers extremely from the lack of modernization of completely outdated machinery, massive chronic power outages, and highly volatile global market prices, but it remains indispensable for the sheer survival of the rural economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die CotonTchad-Anlage in Bongor ist das industrielle Herz der Provinz.",
+          "Zehntausende Kleinbauern verkaufen ihre Rohbaumwolle exklusiv hierher.",
+          "Die Baumwolle wird hier hochmaschinell entkörnt und für Export gepresst.",
+          "Die Industrie wurde historisch unter französischem Kolonialzwang aufgebaut.",
+          "Veraltete Maschinen und Stromausfälle behindern die Produktion heute massiv."
+        ],
+        "hu": [
+          "A bongori CotonTchad üzem a helyi tartomány abszolút ipari szíve.",
+          "Több tízezer kisbirtokos gazda kizárólag ide adja el a nyers gyapotot.",
+          "A gyapotot itt gépekkel magozzák ki és exportbálákba préselik erősen.",
+          "Ezt az iparágat történelmileg szigorú francia gyarmati kényszer alatt építették ki.",
+          "A teljesen elavult gépek és az áramkimaradások ma is masszívan gátolják a termelést."
+        ],
+        "ro": [
+          "Fabrica CotonTchad din Bongor este inima industrială absolută a provinciei.",
+          "Zeci de mii de mici fermieri își vând bumbacul brut exclusiv aici.",
+          "Bumbacul este egrenat mecanic aici și presat masiv pentru export.",
+          "Această industrie a fost construită istoric sub coerciția colonială franceză.",
+          "Utilajele complet învechite și penele de curent împiedică astăzi masiv producția."
+        ],
+        "en": [
+          "The CotonTchad plant in Bongor acts as the absolute industrial heart of the province.",
+          "Tens of thousands of smallholder farmers sell their raw cotton exclusively here.",
+          "The raw cotton is mechanically ginned here and densely pressed for global export.",
+          "The industry was historically built entirely under strict French colonial coercion.",
+          "Completely outdated machinery and severe power outages massively hinder production today."
+        ]
+      }
+    }
+  ]
+}

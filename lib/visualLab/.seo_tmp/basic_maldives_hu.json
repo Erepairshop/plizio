@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "Maldives",
+  "files": [
+    "lib/visualLab/data/poiExtraMaldivesReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kurumba-beach-relief-v2",
+      "description": "Népszerű üdülősziget közel a fővároshoz, finom homokos partokkal.",
+      "facts": ["Észak-Malé-atoll", "Könnyen elérhető", "Korallzátonyok", "Trópusi növényzet"]
+    },
+    {
+      "id": "veligandu-beach-relief-v2",
+      "description": "Hosszú homokpadjaival és kristálytiszta lagúnájával ismert sziget.",
+      "facts": ["Észak-Ari-atoll", "Híres homokpad", "Búvárkodás", "Nyugodt légkör"]
+    },
+    {
+      "id": "reethi-beach-relief-v2",
+      "description": "Környezetbarát üdülőhely buja trópusi környezetben, kiváló víz alatti élővilággal.",
+      "facts": ["Baa-atoll", "Bio-sziget", "Élővilág", "Fehér homok"]
+    },
+    {
+      "id": "hulhumale-beach-relief-v2",
+      "description": "Mesterségesen kialakított sziget, amely a főváros mellett kínál tengerparti kikapcsolódást.",
+      "facts": ["Mesterséges sziget", "Modern infrastruktúra", "Közelség Maléhoz", "Vízparti sétány"]
+    },
+    {
+      "id": "lily-beach-relief-v2",
+      "description": "Exkluzív sziget, amely kivételes szolgáltatásairól és zátonyáról ismert.",
+      "facts": ["Dél-Ari-atoll", "Luxus üdülés", "Közeli zátony", "Víz feletti villák"]
+    },
+    {
+      "id": "vabbinfaru-beach-relief-v2",
+      "description": "Kicsi, meghitt sziget, amely a természetközeli luxust és a búvárkodást ötvözi.",
+      "facts": ["Észak-Malé-atoll", "Meghitt környezet", "Búvárközpont", "Korallvédelem"]
+    },
+    {
+      "id": "nika-island-beach-relief-v2",
+      "description": "Egyedi építészetű sziget, saját homokos öblökkel és nyugodt hangulattal.",
+      "facts": ["Észak-Ari-atoll", "Magánöblök", "Egyedi villák", "Békés környezet"]
+    },
+    {
+      "id": "meeru-island-beach-relief-v2",
+      "description": "Hosszú, tágas sziget, amely ideális választás aktív és passzív pihenésre is.",
+      "facts": ["Észak-Malé-atoll", "Tágas partszakaszok", "Golfpálya", "Vízközeli éttermek"]
+    },
+    {
+      "id": "thoddoo-beach-relief-v2",
+      "description": "Lakott mezőgazdasági sziget, amely híres dinnyetermesztéséről és természetes strandjairól.",
+      "facts": ["Mezőgazdasági központ", "Dinnyetermesztés", "Helyi életmód", "Természetes strand"]
+    },
+    {
+      "id": "omadhoo-beach-relief-v2",
+      "description": "Hagyományos életmódot őrző sziget, távol a turisták nyüzsgésétől.",
+      "facts": ["Dél-Ari-atoll", "Helyi kultúra", "Csendes partszakasz", "Búvárkodás"]
+    },
+    {
+      "id": "fihalhohi-beach-relief-v2",
+      "description": "Klasszikus trópusi sziget, amelyet buja pálmafák és korallzátony vesz körül.",
+      "facts": ["Dél-Malé-atoll", "Klasszikus stílus", "Kiváló élővilág", "Pálmafás part"]
+    },
+    {
+      "id": "sun-island-beach-relief-v2",
+      "description": "Az egyik legnagyobb kiterjedésű üdülősziget, rengeteg szabadidős lehetőséggel.",
+      "facts": ["Dél-Ari-atoll", "Nagy terület", "Szabadidőpark", "Hosszú partok"]
+    },
+    {
+      "id": "ihuru-beach-relief-v2",
+      "description": "Kicsi, kör alakú sziget, amelynek partjáról közvetlenül elérhető a zátony.",
+      "facts": ["Észak-Malé-atoll", "Kompakt sziget", "Zátony-közel", "Kristálytiszta víz"]
+    }
+  ]
+}

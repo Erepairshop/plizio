@@ -1,0 +1,113 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "puerto-corinto-economic-v2",
+      "description": "Puerto Corinto ist der bedeutendste Hafen Nicaraguas am Pazifik und ein zentraler Knotenpunkt für den internationalen Handel.",
+      "facts": ["Pazifikhafen", "Handelszentrum", "Wichtigster Hafen"]
+    },
+    {
+      "id": "holcim-nagarote-economic-v2",
+      "description": "Die Holcim-Anlage bei Nagarote ist ein industrielles Zentrum für die Zementproduktion in Nicaragua.",
+      "facts": ["Industrie", "Zementwerk", "Nagarote"]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "description": "Die Hacienda San Jacinto ist ein historischer Ort, der an die berühmte Schlacht gegen die Filibuster im Jahr 1856 erinnert.",
+      "facts": ["Historische Stätte", "Schlacht 1856", "Nicaraguanische Identität"]
+    },
+    {
+      "id": "convento-san-francisco-granada-history-v2",
+      "description": "Das Convento San Francisco in Granada ist eines der ältesten Gebäude der Stadt und beherbergt ein Museum zur kolonialen Geschichte.",
+      "facts": ["Granada", "Kolonialzeit", "Museum"]
+    },
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "description": "Fortaleza La Pólvora ist eine historische Festung aus dem 18. Jahrhundert, die einst zum Schutz der Stadt Granada diente.",
+      "facts": ["Granada", "Festung", "18. Jahrhundert"]
+    },
+    {
+      "id": "finca-el-paraiso-boaco-life-v2",
+      "description": "Finca El Paraíso in Boaco bietet einen Einblick in das traditionelle Leben auf dem Land und die lokale Landwirtschaft.",
+      "facts": ["Boaco", "Traditionelles Leben", "Landwirtschaft"]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "description": "Der Parque Central in Granada ist ein lebendiger Treffpunkt und ein Zentrum für Familien und Aktivitäten in der Stadt.",
+      "facts": ["Granada", "Zentraler Treffpunkt", "Aktivitäten"]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "description": "Finca El Platanal ist bekannt für den nachhaltigen Anbau von Kakao und traditionelle Verarbeitungsmethoden.",
+      "facts": ["Kakaoanbau", "Nachhaltig", "Landwirtschaft"]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "description": "Finca Ecológica La Bomba ist spezialisiert auf umweltfreundlichen Kaffeeanbau in einer wunderschönen natürlichen Umgebung.",
+      "facts": ["Kaffeeanbau", "Umweltfreundlich", "Naturbelassen"]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "description": "Das Reservat Tisey-Estanzuela ist bekannt für seine bergige Landschaft, beeindruckende Wasserfälle und hohe Biodiversität.",
+      "facts": ["Reservat", "Wasserfälle", "Biodiversität"]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "description": "Zapatera ist eine Vulkaninsel im Nicaraguasee, die für ihre reiche Flora, Fauna und präkolumbianischen Artefakte bekannt ist.",
+      "facts": ["Vulkaninsel", "Nicaraguasee", "Archäologie"]
+    },
+    {
+      "id": "telica-volcano-nature-v2",
+      "description": "Der Vulkan Telica ist einer der aktivsten Vulkane Nicaraguas und bietet atemberaubende Einblicke in seine rauchenden Krater.",
+      "facts": ["Aktiv", "Vulkan", "Krater"]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "Der Nebelwald von San Lorenzo ist ein geschütztes Ökosystem mit einzigartiger Flora und Fauna in den Bergen.",
+      "facts": ["Nebelwald", "Geschützt", "Einzigartig"]
+    },
+    {
+      "id": "estero-real-nature-v2",
+      "description": "Estero Real ist ein bedeutendes Schutzgebiet mit Mangrovenwäldern, das eine Vielzahl von Vögeln und Meereslebewesen beheimatet.",
+      "facts": ["Schutzgebiet", "Mangroven", "Biodiversität"]
+    },
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "description": "Cerro El Arenal ist ein markanter Gipfel in einer geschützten Region, bekannt für seine beeindruckenden Aussichten.",
+      "facts": ["Gipfel", "Schutzregion", "Aussicht"]
+    },
+    {
+      "id": "cerro-el-pilon-relief-v2",
+      "description": "Cerro El Pilón ist eine markante Erhebung in der nicaraguanischen Hügellandschaft und bietet eine weite Sicht.",
+      "facts": ["Erhebung", "Hügellandschaft", "Aussicht"]
+    },
+    {
+      "id": "valle-de-osua-osea-relief-v2",
+      "description": "Valle de Osua ist eine flache Ebene, die für ihre fruchtbare landwirtschaftliche Nutzung in der Region bekannt ist.",
+      "facts": ["Ebene", "Fruchtbar", "Landwirtschaft"]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "description": "Die Meseta von Jinotega ist ein Hochplateau im Norden Nicaraguas, berühmt für Kaffee und kühles Klima.",
+      "facts": ["Hochplateau", "Kaffee", "Kühles Klima"]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "description": "Cerro La Quinta ist ein Hügel in einer ländlichen Region, der für seine natürliche Umgebung und Wanderwege bekannt ist.",
+      "facts": ["Hügel", "Ländlich", "Wandern"]
+    },
+    {
+      "id": "valle-de-la-libertad-relief-v2",
+      "description": "Das Tal von La Libertad ist eine bekannte topografische Formation in der Bergbauregion von Chontales.",
+      "facts": ["Tal", "Topografie", "Chontales"]
+    }
+  ]
+}

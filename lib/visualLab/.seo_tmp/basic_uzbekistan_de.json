@@ -1,0 +1,76 @@
+{
+  "lang": "de",
+  "country": "Uzbekistan",
+  "files": [
+    "lib/visualLab/data/poiExtraUzbekistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fergana-cities-v2",
+      "description": "Fergana ist eine der jüngsten Städte Usbekistans, die 1876 als russische Garnisonsstadt gegründet wurde. Sie ist das Zentrum des Ferganatals, einer der fruchtbarsten und bevölkerungsreichsten Regionen Zentralasiens.",
+      "facts": ["Gegründet 1876", "Hauptstadt der Provinz Fergana", "Bekannt für Ölraffinerien und Textilfabriken", "Grüne Stadt mit breiten Alleen"]
+    },
+    {
+      "id": "shahrisabz-cities-v2",
+      "description": "Shahrisabz ist der Geburtsort von Timur (Tamerlan) und war einst die prächtige Hauptstadt seines Reiches. Die Altstadt gehört zum UNESCO-Weltkulturerbe.",
+      "facts": ["Geburtsort von Timur Leng", "Historisches Zentrum ist UNESCO-Welterbe", "Ruinen des Ak-Saray-Palastes", "Bedeutendes Zentrum im 14. und 15. Jahrhundert"]
+    },
+    {
+      "id": "zarafshan-cities-v2",
+      "description": "Zarafshan, bekannt als die 'Goldhauptstadt Usbekistans', ist eine moderne Industriestadt, die 1965 gegründet wurde. Sie liegt in der Kyzylkum-Wüste und ist ein Zentrum des Gold- und Uranabbaus.",
+      "facts": ["Gegründet 1965", "Zentrum des Goldabbaus", "Liegt in der Kyzylkum-Wüste", "Moderne sowjetische Architektur"]
+    },
+    {
+      "id": "yangiyul-cities-v2",
+      "description": "Yangiyul ist eine Industriestadt in der Nähe von Taschkent, die für ihre Lebensmittel- und Leichtindustrie bekannt ist. Die Stadt wurde in der Sowjetzeit entwickelt und ist ein wichtiger Verkehrsknotenpunkt.",
+      "facts": ["Bedeutet 'neuer Weg'", "Industriestadt nahe Taschkent", "Wichtiger Verkehrsknotenpunkt", "Entwickelt während der Sowjetzeit"]
+    },
+    {
+      "id": "khodjeyli-cities-v2",
+      "description": "Khodjeyli ist eine Stadt in der autonomen Republik Karakalpakstan, westlich des Amu-Darja. In ihrer Nähe befinden sich die Ruinen der antiken choresmischen Festung Mizdakhan.",
+      "facts": ["Stadt in Karakalpakstan", "Nahe der antiken Festung Mizdakhan", "Westlich des Flusses Amu-Darja", "Wichtiges regionales Zentrum"]
+    },
+    {
+      "id": "minor-mosque-landmarks-v2",
+      "description": "Die Minor-Moschee in Taschkent ist ein modernes architektonisches Juwel, das 2014 eröffnet wurde. Sie ist bekannt für ihre strahlend weiße Marmorfassade und die traditionelle usbekische Ornamentik.",
+      "facts": ["Eröffnet im Jahr 2014", "Aus weißem Marmor erbaut", "Befindet sich in Taschkent", "Kombiniert moderne und traditionelle Stile"]
+    },
+    {
+      "id": "sitorai-mokhi-khosa-landmarks-v2",
+      "description": "Der Sitorai Mokhi-Khosa Palast war die Sommerresidenz der letzten Emire von Buchara. Der Komplex vereint russische und zentralasiatische Architekturstile auf einzigartige Weise.",
+      "facts": ["Sommerresidenz der Emire von Buchara", "Bedeutet 'Palast des Mondes und der Sterne'", "Mischung aus europäischer und orientalischer Architektur", "Heute ein Museum"]
+    },
+    {
+      "id": "siyob-bazaar-landmarks-v2",
+      "description": "Der Siyob-Basar ist der größte und älteste Basar in Samarkand, der sich neben der Bibi-Chanum-Moschee befindet. Hier werden Gewürze, Früchte, Brot und traditionelles Handwerk verkauft.",
+      "facts": ["Größter Basar in Samarkand", "Liegt neben der Bibi-Chanum-Moschee", "Zentrum für lokale Produkte und Handwerk", "Seit Jahrhunderten in Betrieb"]
+    },
+    {
+      "id": "afrosiyob-museum-landmarks-v2",
+      "description": "Das Afrosiyob-Museum in Samarkand befindet sich auf dem Gelände der antiken Stadt Afrosiyob, dem Vorläufer Samarkands. Es beherbergt Artefakte aus der sogdischen Zeit, darunter berühmte Wandmalereien.",
+      "facts": ["Museum auf der antiken Stätte Afrosiyob", "Zeigt die Geschichte des alten Samarkands", "Berühmte sogdische Wandmalereien aus dem 7. Jahrhundert", "Gegründet 1970"]
+    },
+    {
+      "id": "kalta-minor-landmarks-v2",
+      "description": "Das Kalta Minor Minarett in Chiwa ist berühmt für seinen unvollendeten Zustand und seine leuchtend türkisfarbenen Kacheln. Der Bau wurde 1855 nach dem Tod des Khans abrupt gestoppt.",
+      "facts": ["Unvollendetes Minarett in Chiwa", "Vollständig mit glasierten Kacheln bedeckt", "Bau 1855 eingestellt", "Sollte das höchste Minarett Zentralasiens werden"]
+    },
+    {
+      "id": "tash-khauli-palace-landmarks-v2",
+      "description": "Der Tash-Khauli-Palast ist ein prächtiges Beispiel der choresmischen Architektur des 19. Jahrhunderts in Chiwa. Er ist bekannt für seine reich verzierten Innenhöfe, insbesondere den Harem.",
+      "facts": ["'Steinerner Hof' Palast in Chiwa", "Erbaut im 19. Jahrhundert", "Besteht aus über 160 Räumen", "Berühmt für seine Majolika-Dekorationen"]
+    },
+    {
+      "id": "savitsky-art-museum-landmarks-v2",
+      "description": "Das Savitsky-Kunstmuseum in Nukus beherbergt eine weltberühmte Sammlung russischer Avantgarde-Kunst. Igor Savitsky rettete diese Werke vor der Zerstörung durch das Sowjetregime.",
+      "facts": ["Befindet sich in Nukus, Karakalpakstan", "Sammlung von Igor Savitsky", "Zweitgrößte Sammlung russischer Avantgarde-Kunst", "Bekannt als das 'Louvre der Wüste'"]
+    },
+    {
+      "id": "kyzylkum-desert-relief-v2",
+      "description": "Die Kyzylkum-Wüste erstreckt sich über Kasachstan, Usbekistan und Turkmenistan und ist eine der größten Wüsten der Welt. Ihr Name bedeutet 'Roter Sand' in den Turksprachen.",
+      "facts": ["Bedeutet 'Roter Sand'", "15. größte Wüste der Welt", "Erstreckt sich über drei Länder", "Wichtige Goldvorkommen"]
+    }
+  ]
+}

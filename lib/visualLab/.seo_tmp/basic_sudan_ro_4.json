@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sd-rs-naqa-history-v2",
+      "description": "Sit arheologic important al regatului Meroe, cunoscut pentru templele sale bine conservate.",
+      "facts": ["Parte a siturilor Meroe", "Temple antice Kushite", "Arhitectură antică", "Patrimoniu UNESCO"]
+    },
+    {
+      "id": "sd-no-banganarti-history-v2",
+      "description": "Sit medieval creștin important situat în regiunea Nubiei, cu biserici istorice.",
+      "facts": ["Regiunea Nubia", "Sit medieval creștin", "Arhitectură bisericească", "Importanță arheologică"]
+    },
+    {
+      "id": "sd-no-western-deffufa-history-v2",
+      "description": "Structură antică de tip Deffufa situată în Kerma, simbolizând civilizația străveche nubiană.",
+      "facts": ["Situat în Kerma", "Structură din lut", "Civilizație antică nubiană", "Arhitectură străveche"]
+    },
+    {
+      "id": "sd-no-ghazali-monastery-history-v2",
+      "description": "Mănăstire medievală izolată situată în deșert, reflectând viața monahală din Nubia.",
+      "facts": ["Mănăstire medievală", "Amplasare deșertică", "Cultură creștină nubiană", "Ruine arheologice"]
+    },
+    {
+      "id": "sd-no-sedeinga-history-v2",
+      "description": "Sită antică cu temple și necropole legate de regina Tiye a Egiptului.",
+      "facts": ["Temple antice", "Legat de regina Tiye", "Necropolă Kushită", "Istorie arheologică"]
+    },
+    {
+      "id": "sd-no-buhen-history-v2",
+      "description": "Așezare fortificată egipteană antică situată strategic pe malul Nilului.",
+      "facts": ["Fortăreață egipteană", "Amplasată pe Nil", "Istorie militară antică", "Importanță strategică"]
+    },
+    {
+      "id": "sd-no-askut-history-v2",
+      "description": "Fortăreață insulară egipteană antică, parte a sistemului defensiv al Nilului.",
+      "facts": ["Insula pe Nil", "Fortăreață antică", "Apărare egipteană", "Sit arheologic"]
+    },
+    {
+      "id": "sd-no-shalfak-history-v2",
+      "description": "Ruine ale unei fortărețe egiptene antice, demonstrând controlul asupra rutelor comerciale.",
+      "facts": ["Fortăreață pe Nil", "Control comerț antic", "Istorie egipteană", "Sit arheologic"]
+    },
+    {
+      "id": "sd-gz-jebel-moya-history-v2",
+      "description": "Sit neolitic și ulterior, oferind dovezi despre viața comunităților preistorice.",
+      "facts": ["Sit neolitic", "Locuire preistorică", "Dovezi arheologice", "Cultură regională"]
+    },
+    {
+      "id": "sd-kh-khalifa-house-history-v2",
+      "description": "Clădire istorică din Omdurman, fostă reședință a califului Abdallahi ibn Muhammad.",
+      "facts": ["Situată în Omdurman", "Arhitectură mahdistă", "Muzeu istoric", "Perioada Mahdistă"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-tabaquite-cities-v2",
+      "description": "Tabaquite is a small village nestled in the central hills of Trinidad, known for its lush surroundings and agricultural roots.",
+      "facts": ["Located in central Trinidad", "Traditional agricultural community", "Part of the Couva-Tabaquite-Talparo region"]
+    },
+    {
+      "id": "tt-barataria-cities-v2",
+      "description": "Barataria is a bustling residential and commercial district located just east of Port of Spain.",
+      "facts": ["Major transit hub", "Close to the capital city", "Diverse commercial environment"]
+    },
+    {
+      "id": "tt-guayaguayare-cities-v2",
+      "description": "Guayaguayare is a coastal community on the southeastern tip of the island, historically significant for early European exploration.",
+      "facts": ["Southeastern coastal village", "Historically linked to Christopher Columbus", "Gateway to local oil fields"]
+    },
+    {
+      "id": "tt-manzanilla-cities-v2",
+      "description": "Manzanilla is a scenic coastal settlement famous for its extensive sandy beaches and coconut plantations.",
+      "facts": ["Known for expansive beaches", "Significant coconut production area", "Located on the east coast"]
+    },
+    {
+      "id": "tt-erin-cities-v2",
+      "description": "Erin is a historic village located in the southwestern corner of Trinidad, known for its tranquil beaches and local heritage.",
+      "facts": ["Southwestern coastal location", "Quiet residential area", "Historically significant fishing site"]
+    },
+    {
+      "id": "tt-tableland-cities-v2",
+      "description": "Tableland is a hilly agricultural community in south-central Trinidad, widely recognized for its fruit and crop cultivation.",
+      "facts": ["Agricultural hub", "Known for fruit farming", "Hilly interior terrain"]
+    },
+    {
+      "id": "tt-goldsborough-cities-v2",
+      "description": "Goldsborough is a coastal village in Tobago, characterized by its natural beauty and connection to local marine ecosystems.",
+      "facts": ["Located in Tobago", "Scenic coastal landscape", "Close to marine reserves"]
+    },
+    {
+      "id": "tt-belle-garden-cities-v2",
+      "description": "Belle Garden is a small, quiet community in Tobago known for its lush greenery and traditional lifestyle.",
+      "facts": ["Tobago interior village", "Lush tropical surroundings", "Traditional island community"]
+    },
+    {
+      "id": "tt-goodwood-cities-v2",
+      "description": "Goodwood is a coastal village in Tobago, offering panoramic views of the Atlantic and a peaceful environment.",
+      "facts": ["Tobago Atlantic coast", "Known for elevated views", "Quiet residential community"]
+    },
+    {
+      "id": "tt-castara-cities-v2",
+      "description": "Castara is a picturesque fishing village on the leeward coast of Tobago, popular for its beautiful bay and local culture.",
+      "facts": ["Famous fishing village", "Caribbean Sea location", "Popular eco-tourism spot"]
+    }
+  ]
+}

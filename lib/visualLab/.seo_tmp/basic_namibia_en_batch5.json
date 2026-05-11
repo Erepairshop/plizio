@@ -1,0 +1,24 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "epupa-falls-relief-v2",
+      "description": "Epupa Falls is a series of waterfalls on the Kunene River, forming a lush oasis in the arid Kaokoveld.",
+      "facts": ["Waterfalls", "Kunene River", "Lush oasis"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Ongongo is a natural hot spring in the Kaokoveld, surrounded by a vibrant green oasis and palm trees.",
+      "facts": ["Natural hot spring", "Kaokoveld", "Green oasis"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Urichab is an ancient volcanic ruin in the Namib Desert, forming a distinct geological feature.",
+      "facts": ["Volcanic ruin", "Namib Desert", "Geological feature"]
+    }
+  ]
+}

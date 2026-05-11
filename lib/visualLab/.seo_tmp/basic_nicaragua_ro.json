@@ -1,0 +1,33 @@
+{
+  "lang": "ro",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "Rezervație de pădure noroasă situată în regiunile montane, esențială pentru reglarea hidrologică a zonei.",
+      "facts": ["Pădure noroasă", "Importanță hidrologică", "Zonă montană"]
+    },
+    {
+      "id": "rio-wawa-nature-v2",
+      "description": "Râu important în Regiunea Autonomă a Caraibelor de Nord, un ecosistem fluvial vital pentru fauna locală.",
+      "facts": ["Regiunea Autonomă Caraibe", "Ecosistem fluvial", "Biodiversitate locală"]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "description": "Podiș muntos cunoscut pentru solurile sale vulcanice fertile și cultivarea intensivă a fructelor.",
+      "facts": ["Podiș vulcanic", "Soluri fertile", "Cultivarea fructelor"]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "Vale fertilă înconjurată de munți, utilizată tradițional pentru agricultură și creșterea animalelor.",
+      "facts": ["Vale fertilă", "Agricultură tradițională", "Creșterea animalelor"]
+    }
+  ]
+}

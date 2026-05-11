@@ -1,0 +1,85 @@
+{
+  "lang": "ro",
+  "country": "Niger",
+  "files": [
+    "lib/visualLab/data/poiExtraNigerCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNigerLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kornaka-cities-v2",
+      "description": "Kornaka este un oraș din sudul Nigerului, cunoscut pentru producția sa agricolă și pentru piața sa locală.",
+      "facts": ["Sudul Nigerului", "Producție agricolă", "Piață locală"]
+    },
+    {
+      "id": "tahoua-zoo-life-v2",
+      "description": "Grădina zoologică Tahoua este o atracție locală, adăpostind specii de animale specifice Sahelului și Saharei.",
+      "facts": ["Atracție locală", "Animale Sahel", "Animale Sahara"]
+    },
+    {
+      "id": "maradi-kids-life-v2",
+      "description": "Maradi oferă zone verzi și parcuri pentru copii, contribuind la recreerea familiilor în mediul urban.",
+      "facts": ["Zone verzi", "Parcuri pentru copii", "Recreere familială"]
+    },
+    {
+      "id": "gaya-bird-life-v2",
+      "description": "Regiunea Gaya, de-a lungul râului Niger, este un habitat important pentru diverse specii de păsări migratoare și rezidente.",
+      "facts": ["Râul Niger", "Păsări migratoare", "Păsări rezidente"]
+    },
+    {
+      "id": "tessaoua-agri-life-v2",
+      "description": "Tessaoua este un centru agricol important, cultivând în principal mei, sorg și alune, esențiale pentru securitatea alimentară.",
+      "facts": ["Centru agricol", "Mei și sorg", "Alune"]
+    },
+    {
+      "id": "madaoua-agri-life-v2",
+      "description": "Madaoua este o zonă agricolă, cultivând bumbac și arahide, esențiale pentru economia locală și export.",
+      "facts": ["Zonă agricolă", "Bumbac și arahide", "Economie locală"]
+    },
+    {
+      "id": "tera-bird-life-v2",
+      "description": "Tera, de-a lungul râului Niger, este un loc de observare a păsărilor, găzduind specii acvatice și de savană.",
+      "facts": ["Observare păsări", "Râul Niger", "Specii acvatice și savană"]
+    },
+    {
+      "id": "kollo-mango-life-v2",
+      "description": "Regiunea Kollo este cunoscută pentru livezile sale de mango, care contribuie la aprovizionarea piețelor locale.",
+      "facts": ["Livezi de mango", "Aprovizionare locală", "Kollo"]
+    },
+    {
+      "id": "say-river-life-v2",
+      "description": "Râul Say, un afluent al Nigerului, susține o biodiversitate bogată și este important pentru pescuitul local.",
+      "facts": ["Afluent Niger", "Biodiversitate bogată", "Pescuit local"]
+    },
+    {
+      "id": "nga-fishing-life-v2",
+      "description": "Lacul Nga este un lac sezonier, important pentru pescuitul local și ca sursă de apă pentru comunitățile din deșert.",
+      "facts": ["Lac sezonier", "Pescuit local", "Sursă de apă"]
+    },
+    {
+      "id": "magaria-agri-life-v2",
+      "description": "Magaria este o zonă agricolă fertilă, cu accent pe cultivarea arahidelor și a cerealelor, crucială pentru regiune.",
+      "facts": ["Zonă agricolă fertilă", "Arahide și cereale", "Crucială pentru regiune"]
+    },
+    {
+      "id": "mayahi-agri-life-v2",
+      "description": "Mayahi este un centru agricol, cunoscut pentru producția sa de mei, sorg și fasole, adaptate la climatul semi-arid.",
+      "facts": ["Centru agricol", "Mei, sorg, fasole", "Climat semi-arid"]
+    },
+    {
+      "id": "gaya-agri-life-v2",
+      "description": "Gaya este o zonă agricolă, beneficiind de apropierea râului Niger, cultivând orez, mei și alte cereale.",
+      "facts": ["Zonă agricolă", "Râul Niger", "Orez și mei"]
+    },
+    {
+      "id": "maradi-kids-park-life-v2",
+      "description": "Parcul pentru copii Maradi oferă un spațiu sigur și distractiv pentru joacă și recreere în aer liber.",
+      "facts": ["Spațiu sigur", "Recreere în aer liber", "Maradi"]
+    },
+    {
+      "id": "diffa-frucht-life-v2",
+      "description": "Regiunea Diffa, în apropierea Lacului Ciad, este cunoscută pentru cultivarea fructelor, în special pepeni verzi și pepeni galbeni.",
+      "facts": ["Lacul Ciad", "Fructe", "Pepeni verzi și galbeni"]
+    }
+  ]
+}

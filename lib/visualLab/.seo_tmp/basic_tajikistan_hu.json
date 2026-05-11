@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khujand-cities-v2",
+      "description": "Tádzsikisztán második legnagyobb városa, a Szir-darja folyó partján fekszik. Fontos kereskedelmi központ az ősi Selyemút mentén.",
+      "facts": ["Szir-darja folyó partján", "Történelmi Selyemút állomás", "Második legnagyobb város", "Gazdag ipari központ"]
+    },
+    {
+      "id": "kulob-cities-v2",
+      "description": "Az ország egyik legrégebbi városa, amely kulturális és vallási központként ismert. Történelme több mint 2700 évre nyúlik vissza.",
+      "facts": ["2700 éves település", "Kulturális központ", "Dél-Tádzsikisztán városa", "Mir Said Ali Hamadoni mauzóleum"]
+    },
+    {
+      "id": "istaravshan-cities-v2",
+      "description": "Ősi település, amely kézművességéről és történelmi építészetéről híres. A város jelentős oktatási és kulturális szerepet tölt be.",
+      "facts": ["Ősi Selyemút város", "Kézműves központ", "Mecsetek és mauzóleumok", "Északi régió központja"]
+    },
+    {
+      "id": "vahdat-cities-v2",
+      "description": "A főváros, Dusanbe közelében található város, amely fontos közlekedési és ipari kapcsolatokat biztosít a régióban.",
+      "facts": ["Dusanbe agglomerációja", "Fontos ipari város", "Közlekedési csomópont", "Kafarnihan folyó mentén"]
+    },
+    {
+      "id": "tursunzoda-cities-v2",
+      "description": "Jelentős ipari központ, ahol az ország legnagyobb alumíniumgyára található. Fontos gazdasági szerepe van az országban.",
+      "facts": ["Alumíniumkohászat központja", "Ipari város", "Nyugati régió", "Fontos gazdasági forrás"]
+    },
+    {
+      "id": "konibodom-cities-v2",
+      "description": "Történelmi város a Ferganai-medencében, amely gazdag kulturális örökséggel és hagyományos kereskedelmi múlttal rendelkezik.",
+      "facts": ["Ferganai-medence része", "Kereskedelmi hagyományok", "Mezőgazdasági központ", "Kulturális örökség"]
+    },
+    {
+      "id": "isfara-cities-v2",
+      "description": "A város a gyümölcstermesztésről, különösen a sárgabarackjáról ismert. Természeti adottságai kiválóak a mezőgazdasághoz.",
+      "facts": ["Sárgabarack termesztés", "Mezőgazdasági régió", "Természetközeli környezet", "Határközeli fekvés"]
+    },
+    {
+      "id": "panjakent-cities-v2",
+      "description": "Ősi régészeti lelőhelyeiről ismert város, amely egykor a Szogd birodalom virágzó központja volt.",
+      "facts": ["Ősi Szogd központ", "Régészeti lelőhelyek", "Zarafshon folyó völgye", "Kulturális örökség"]
+    },
+    {
+      "id": "khorugh-cities-v2",
+      "description": "A Pamír-hegység központjában fekvő város, amely lenyűgöző hegyi környezetével és egyetemi központjával tűnik ki.",
+      "facts": ["Pamír-hegység központja", "Magaslati fekvés", "Egyetemi város", "Gunt folyó partja"]
+    },
+    {
+      "id": "yovon-cities-v2",
+      "description": "Gyorsan fejlődő város Dél-Tádzsikisztánban, amely mezőgazdasági és ipari fejlesztéseiről ismert.",
+      "facts": ["Déli ipari körzet", "Mezőgazdasági fejlődés", "Növekvő népesség", "Völgyi elhelyezkedés"]
+    },
+    {
+      "id": "hisor-cities-v2",
+      "description": "Történelmi jelentőségű erődítményéről ismert város, amely egykor a régió politikai és kereskedelmi központja volt.",
+      "facts": ["Hiszari erőd", "Történelmi központ", "Dusanbe közelében", "Kulturális emlékhely"]
+    },
+    {
+      "id": "nurek-cities-v2",
+      "description": "A híres Nureki-víztározó és az ország legnagyobb vízerőművének otthont adó város.",
+      "facts": ["Nureki-vízerőmű", "Vaks folyó", "Energetikai központ", "Hegyi tározó"]
+    },
+    {
+      "id": "farkhor-cities-v2",
+      "description": "A Vaks folyó mentén fekvő város, amely fontos mezőgazdasági területek központja.",
+      "facts": ["Vaks folyó mentén", "Mezőgazdasági központ", "Déli régió", "Gyapottermesztés"]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uinta-mountains-relief-v2",
+      "description": "Die Uinta Mountains in Utah sind eine der wenigen Gebirgsketten in den USA, die in West-Ost-Richtung verlaufen und für ihre hohen Gipfel bekannt sind.",
+      "facts": ["In Utah", "West-Ost-Ausrichtung", "Hohe Gipfel", "Gebirgskette"]
+    },
+    {
+      "id": "sawtooth-mountains-relief-v2",
+      "description": "Die Sawtooth Mountains in Idaho zeichnen sich durch ihre gezackten Berggipfel und zahlreichen alpinen Seen in einer unberührten Wildnis aus.",
+      "facts": ["In Idaho", "Gezackte Gipfel", "Alpine Seen", "Wildnis"]
+    }
+  ]
+}

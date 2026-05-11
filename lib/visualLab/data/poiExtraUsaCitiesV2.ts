@@ -113,7 +113,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ro: "Houston este cea mai mare metropolă din Texas și un gigant global în industria energetică, aerospațială și medicală. Fondat în 1836 pe malurile Buffalo Bayou, orașul a prosperat odată cu descoperirea petrolului în Spindletop în 1901. Este sediul Centrului Spațial Johnson al NASA, locul de unde s-au coordonat misiunile Apollo, dând naștere celebrei fraze „Houston, avem o problemă”. În plus, Texas Medical Center este cel mai mare complex de asistență medicală din lume, angajând peste 100.000 de profesioniști. Deși nu are reglementări stricte de zonare, orașul se remarcă printr-o dezvoltare urbană vastă și o economie diversificată, fiind un port maritim esențial datorită Canalului Navigabil Houston. Geografie K7 — centre economice."
     },
     factsAdvanced: {
-      hu: ["1836-ban alapították", "A NASA Johnson Űrközpontjának otthona", "A Museum District 19 múzeumnak ad otthont", "Jelentős nemzetközi kikötőváros", "Texas legnagyobb városa", "A város területén több mint 10 000 étterem található"],
+      hu: ["1836-ban alapították", "A Museum District 19 múzeumnak ad otthont", "Jelentős nemzetközi kikötőváros", "Texas legnagyobb városa", "A város területén több mint 10 000 étterem található"],
       de: ["Houston ist die viertgrößte Stadt der Vereinigten Staaten.", "Der Hafen von Houston ist einer der größten Seehäfen der Welt.", "Das Lyndon B. Johnson Space Center steuert alle US-Bemannten Weltraummissionen.", "Die Stadt hat ein ausgedehntes unterirdisches Tunnelsystem in der Innenstadt.", "Houston wurde 1836 an den Ufern des Buffalo Bayou gegründet.", "Die Metropolregion beherbergt mehr als 10.000 Energieunternehmen."],
       ro: ["Orașul a fost fondat la 30 august 1836 de frații Allen.", "Canalul Navigabil Houston a fost deschis oficial în 1914.", "Centrul Spațial Johnson gestionează zborurile spațiale umane din 1961.", "Texas Medical Center găzduiește anual peste 10 milioane de pacienți.", "A fost prima capitală a Republicii Texas între 1837 și 1839.", "Zona metropolitană cuprinde peste 7 milioane de locuitori."]
     }
@@ -258,7 +258,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ro: "Dallas, o metropolă vibrantă situată în nordul statului Texas, este inima unui vast conglomerat economic care combină tehnologia, telecomunicațiile și finanțele. Inițial un centru important pentru industria bumbacului și a petrolului după expansiunea rețelei feroviare în anii 1870, orașul a evoluat într-un hub corporativ major, găzduind numeroase companii din topul Fortune 500. Dallas este, din păcate, cunoscut și ca locul asasinării președintelui John F. Kennedy în noiembrie 1963, eveniment comemorat la muzeul The Sixth Floor. Orizontul său arhitectural este punctat de clădiri moderne și de emblematicul Reunion Tower. Aeroportul Internațional Dallas/Fort Worth, unul dintre cele mai mari și mai aglomerate din lume, susține rolul său de nod logistic esențial. Istorie K8 — Statele Unite în secolul XX."
     },
     factsAdvanced: {
-      hu: ["1841-ben alapították", "Az Arts District az USA legnagyobb városon belüli művészeti negyede", "A Dallas Cowboys (NFL) otthona", "John F. Kennedy meggyilkolásának helyszíne (Dealey Plaza)", "A DFW Repülőtér a világ egyik legforgalmasabb repülőtere", "Jelentős pénzügyi és banki központ"],
+      hu: ["1841-ben alapították", "A Dallas Cowboys (NFL) otthona", "John F. Kennedy meggyilkolásának helyszíne (Dealey Plaza)", "A DFW Repülőtér a világ egyik legforgalmasabb repülőtere", "Jelentős pénzügyi és banki központ"],
       de: ["Dallas wurde 1841 gegründet.", "Der Dallas/Fort Worth International Airport ist einer der größten der Welt.", "Das Sixth Floor Museum am Dealey Plaza dokumentiert die Ära Kennedy.", "Die Stadt beherbergt eine der größten Kunstsammlungen im Dallas Arts District.", "Dallas war ein wichtiges Zentrum für die Öl- und Baumwollindustrie.", "Die Skyline von Dallas ist durch den Reunion Tower weithin erkennbar."],
       ro: ["Așezarea originală a fost fondată de John Neely Bryan în 1841.", "Președintele John F. Kennedy a fost asasinat aici la 22 noiembrie 1963.", "Aeroportul DFW a fost inaugurat oficial în anul 1974.", "Reunion Tower are o înălțime de 171 de metri și domină orizontul orașului.", "Găzduiește Târgul de Stat din Texas, organizat anual din 1886.", "Economia sa este susținută de peste 20 de companii din Fortune 500."]
     }
@@ -320,7 +320,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wurde 1839 als Hauptstadt der Republik Texas ausgewählt", "Heimat der University of Texas at Austin mit einer großen Forschungsabteilung", "International bekannt als 'Live Music Capital of the World'", "Zentrum des populären South by Southwest (SXSW) Festivals", "Verfügt über einen der größten städtischen Fledermausbestände in Nordamerika", "Erlebt ein kontinuierliches und schnelles Wirtschaftswachstum im Tech-Sektor"],
-      hu: ["1839-ben alapították", "Texas fővárosa", "A 'Silicon Hills' technológiai központ", "Híres az élőzenei színteréről", "A South by Southwest fesztivál otthona", "A 'Keep Austin Weird' mottó a város jelképe"],
+      hu: ["1839-ben alapították", "Texas fővárosa", "Híres az élőzenei színteréről", "A South by Southwest fesztivál otthona", "A 'Keep Austin Weird' mottó a város jelképe"],
       ro: ["A devenit capitala Republicii Texas în anul 1839.", "Clădirea Capitoliului a fost finalizată în 1888 folosind granit roz.", "Universitatea Texas din Austin a fost fondată oficial în 1883.", "Festivalul SXSW se desfășoară anual începând din anul 1987.", "Zeci de mii de lilieci își au habitatul sub podul Congress Avenue.", "Numele inițial al așezării a fost Waterloo, înainte de a fi redenumit."],
       en: []
     }
@@ -382,7 +382,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Ursprünglich 1849 als Armeeposten gegründet", "Das Stockyards-Viertel bewahrt den Charakter der Rinderhandels-Ära", "Heimat des Kimbell Art Museums mit einer erstklassigen Kunstsammlung", "Wichtiger Standort für die Rüstungs- und Luftfahrtindustrie", "Das 'Fort Worth Zoo' ist der älteste Zoo in Texas", "Veranstaltet das jährlich stattfindende Fort Worth Stock Show & Rodeo"],
-      hu: ["A Dallas-Fort Worth Metroplex része", "Történelmi marhahajtó központ (Stockyards)", "A Kimbell Művészeti Múzeum híres gyűjteménye", "Világszínvonalú kulturális negyed", "Észak-Texas egyik gazdasági motorja", "Gazdag vadnyugati örökség"],
+      hu: ["Történelmi marhahajtó központ (Stockyards)", "A Kimbell Művészeti Múzeum híres gyűjteménye", "Világszínvonalú kulturális negyed", "Észak-Texas egyik gazdasági motorja", "Gazdag vadnyugati örökség"],
       ro: ["A fost înființat inițial ca avanpost militar al Armatei în 1849.", "Stockyards a fost deschis oficial ca piață de vite în 1890.", "Ruta Chisholm Trail transporta milioane de vite spre nord în secolul XIX.", "Muzeul de Artă Kimbell a fost deschis publicului în anul 1972.", "Uzina Lockheed Martin construiește avioane militare avansate în oraș.", "Împarte al doilea cel mai aglomerat aeroport din SUA cu Dallas."],
       en: []
     }
@@ -413,7 +413,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gegründet im Jahr 1812 als neue Hauptstadt des Bundesstaates", "Beheimatet die Ohio State University, eine der größten Universitäten der USA", "Das historische German Village bewahrt die deutsche Architektur des 19. Jahrhunderts", "Zentraler Wirtschaftsstandort im Mittleren Westen", "Bedeutender Hub für Versicherungs- und Finanzdienstleistungen", "Das Columbus Museum of Art ist ein bedeutender kultureller Anker"],
-      hu: ["Ohio fővárosa", "Az Ohio State University székhelye", "German Village történelmi negyede", "A Scioto Mile parkrendszer a folyó mentén", "Sokszínű és erős gazdaság", "Az Ohio State Buckeyes csapat sikereiről ismert"],
+      hu: ["Ohio fővárosa", "Az Ohio State University székhelye", "A Scioto Mile parkrendszer a folyó mentén", "Sokszínű és erős gazdaság", "Az Ohio State Buckeyes csapat sikereiről ismert"],
       ro: ["A fost desemnat capitala statului Ohio în anul 1812.", "Drumul Național a ajuns în Columbus în anul 1833, stimulând creșterea.", "Universitatea de Stat din Ohio și-a deschis porțile în 1873.", "German Village a fost construit de imigranți în mijlocul secolului al XIX-lea.", "Este sediul institutului de cercetare științifică Battelle Memorial Institute.", "Parcul Scioto Mile oferă zeci de hectare de spațiu verde riveran."],
       en: []
     }
@@ -444,7 +444,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1768 gegründet und nach der britischen Königin Charlotte benannt", "Zweitgrößtes Finanzzentrum der USA nach New York City", "Beheimatet das NASCAR Hall of Fame, ein Symbol der regionalen Rennsportkultur", "Hauptsitz des NFL-Teams Carolina Panthers", "Die Wirtschaft ist stark durch Banken- und Finanzdienstleistungen geprägt", "Verzeichnete in den letzten Jahrzehnten ein außerordentliches Bevölkerungswachstum"],
-      hu: ["Észak-Karolina legnagyobb városa", "Az USA második legnagyobb bankközpontja", "A Carolina Panthers (NFL) székhelye", "A NASCAR Hírességek Csarnokának otthona", "Beceneve 'Queen City'", "Fontos pénzügyi és kereskedelmi központ"],
+      hu: ["Észak-Karolina legnagyobb városa", "A Carolina Panthers (NFL) székhelye", "A NASCAR Hírességek Csarnokának otthona", "Beceneve 'Queen City'", "Fontos pénzügyi és kereskedelmi központ"],
       ro: ["A fost fondat în 1768 și numit după Regina Charlotte a Marii Britanii.", "Prima mină de aur comercială din SUA a fost deschisă aici în 1799.", "Bank of America și-a stabilit sediul central corporativ în oraș.", "Charlotte Motor Speedway găzduiește curse de automobile din 1960.", "Hall of Fame-ul NASCAR a fost inaugurat oficial în anul 2010.", "Aeroportul Internațional Charlotte Douglas are sute de zboruri zilnice."],
       en: []
     }
@@ -475,7 +475,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1821 gegründet und als Hauptstadt geplant", "Heimat des 'Indianapolis 500' Automobilrennens", "Besitzt ein ausgedehntes unterirdisches Tunnelsystem in der Innenstadt", "Wichtiger Hub für Logistik und Transportunternehmen", "Starker Fokus auf die Entwicklung der Biowissenschaftsindustrie", "Das Indiana State Capitol im Neoklassizismus-Stil ist ein markantes Bauwerk"],
-      hu: ["Indiana fővárosa", "Az Indianapolis 500 autóverseny helyszíne", "Az 'Amerika Kereszteződése' (Crossroads of America) becenév", "Kiterjedt kerékpárút-hálózat", "A város legnagyobb sport- és kulturális központja", "Folyamatosan növekvő gazdaság"],
+      hu: ["Indiana fővárosa", "Az Indianapolis 500 autóverseny helyszíne", "Az 'Amerika Kereszteződése' (Crossroads of America) becenév", "A város legnagyobb sport- és kulturális központja", "Folyamatosan növekvő gazdaság"],
       ro: ["A fost ales drept capitală a statului Indiana în anul 1821.", "Prima cursă Indianapolis 500 s-a desfășurat în anul 1911.", "Indianapolis Motor Speedway are o capacitate de peste 250.000 de locuri.", "Monumentul Soldaților și Marinarilor a fost finalizat în 1901.", "Compania farmaceutică Eli Lilly a fost fondată aici în 1876.", "Muzeul de Artă din Indianapolis dispune de vaste colecții internaționale."],
       en: []
     }
@@ -506,7 +506,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wurde 1851 gegründet", "Globaler Hauptsitz von Unternehmen wie Amazon und Microsoft", "Das Wahrzeichen Space Needle wurde für die Weltausstellung 1962 erbaut", "Bekannt für den Pike Place Market, einen der ältesten öffentlichen Märkte der USA", "Ursprungsort der Grunge-Musik und der ersten Starbucks-Filiale", "Umgeben von Bergen und Wasser (Puget Sound und Cascade Mountains)"],
-      hu: ["A Microsoft és az Amazon központja", "A Space Needle az 1962-es világkiállítás jelképe", "A Pike Place Market az egyik legrégebbi nyilvános piac", "A grunge zene szülőhelye", "A vízi utak és hegyek ölelésében fekszik", "Fontos tengeri kikötőváros"],
+      hu: ["A Microsoft és az Amazon központja", "A Pike Place Market az egyik legrégebbi nyilvános piac", "A vízi utak és hegyek ölelésében fekszik", "Fontos tengeri kikötőváros"],
       ro: ["A fost numit după Căpetenia Seattle a triburilor Suquamish și Duwamish.", "Primul magazin Starbucks s-a deschis în Pike Place Market în 1971.", "Space Needle, înalt de 184 metri, a fost inaugurat în anul 1962.", "Compania Boeing a fost fondată în oraș în anul 1916.", "Goana după aur din 1897 a transformat rapid economia locală.", "Regiunea metropolitană depășește 4 milioane de locuitori."],
       en: []
     }
@@ -537,7 +537,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gegründet 1858 während des Pikes Peak-Goldrausches", "Liegt auf exakt einer Meile Höhe (1609 Meter) über dem Meeresspiegel", "Das Colorado State Capitol wurde mit einer Kuppel aus echtem Blattgold versehen", "Wichtiger logistischer Knotenpunkt für den Westen der USA", "Die Wirtschaft basiert stark auf Energie, Raumfahrt und Technologie", "Bekannt als Tor zu den Rocky Mountains und zahlreichen Wintersportorten"],
-      hu: ["'A mérföld magas város' (Mile-High City)", "Kapu a Sziklás-hegység síterepeihez", "Pontosan egy mérföldre (1609 m) a tengerszint felett", "Négy különböző évszak jellemzi", "Fontos gazdasági központ a régióban", "Élénk szabadtéri kultúra"],
+      hu: ["'A mérföld magas város' (Mile-High City)", "Négy különböző évszak jellemzi", "Fontos gazdasági központ a régióban", "Élénk szabadtéri kultúra"],
       ro: ["Orașul a fost fondat în noiembrie 1858 de căutătorii de aur.", "Altitudinea treptei 13 a Capitoliului este exact de 1.609 metri.", "Aeroportul Internațional Denver are a doua cea mai mare suprafață din lume.", "S-a interconectat la rețeaua feroviară transcontinentală în anul 1870.", "Găzduiește anual Great American Beer Festival, cel mai mare din SUA.", "Peste 300 de zile pe an beneficiază de vreme însorită."],
       en: []
     }
@@ -568,7 +568,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Planmäßige Gründung als neue Hauptstadt im Jahr 1790", "Sitz der US-Regierung mit Kapitol und Weißem Haus", "Die National Mall beherbergt zahlreiche Smithsonian-Museen", "Washington, D.C. gehört zu keinem Bundesstaat, sondern ist ein District", "Bekannt für die vielen Denkmäler, darunter das Lincoln Memorial", "Ein Zentrum für internationale Politik und Diplomatie"],
-      hu: ["Az Egyesült Államok kormányzati székhelye", "A Fehér Ház, a Capitolium és a Legfelsőbb Bíróság otthona", "Smithsonian Intézet múzeumai ingyenesek", "Nem állam, hanem önálló kerület (District of Columbia)", "Ikonikus emlékművek városa (pl. Washington-emlékmű)", "A Potomac folyó partján fekszik"],
+      hu: ["Az Egyesült Államok kormányzati székhelye", "Smithsonian Intézet múzeumai ingyenesek", "Nem állam, hanem önálló kerület (District of Columbia)", "Ikonikus emlékművek városa (pl. Washington-emlékmű)", "A Potomac folyó partján fekszik"],
       ro: ["A fost fondat oficial la data de 16 iulie 1790.", "Constituția americană prevede ca districtul să nu depășească 100 mile pătrate.", "Britanicii au incendiat Capitoliul și Casa Albă în august 1814.", "Monumentul lui Washington a fost finalizat în anul 1884.", "Institutul Smithsonian operează 19 muzee diferite în zona capitalei.", "Amendamentul 23 din 1961 le-a acordat cetățenilor dreptul de vot prezidențial."],
       en: []
     }
@@ -630,7 +630,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Offizielle Gründung im Jahr 1873", "Bildet mit Ciudad Juárez die größte grenzüberschreitende Metropolregion der Welt", "Die Franklin Mountains durchziehen das Stadtgebiet und bieten Wanderwege", "Ein wesentlicher Knotenpunkt für den Handel mit Mexiko", "Die wirtschaftliche Basis ist stark durch Logistik und Militär geprägt", "Bekannt für die 'Mission Trail'-Route mit historischen Kirchen aus dem 17. Jahrhundert"],
-      hu: ["A Rio Grande folyó partján fekszik", "Közvetlen határ a mexikói Ciudad Juárez-zel", "Erős spanyol és mexikói hatású kultúra", "Franklin Mountains Állami Park", "Napos és száraz éghajlat", "Határ menti kereskedelem központja"],
+      hu: ["Közvetlen határ a mexikói Ciudad Juárez-zel", "Erős spanyol és mexikói hatású kultúra", "Napos és száraz éghajlat", "Határ menti kereskedelem központja"],
       ro: [],
       en: []
     }
@@ -692,7 +692,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1806 offiziell als Stadt gegründet", "Weltweite Hauptstadt der Country-Musik", "Der 'Grand Ole Opry' ist die längste Radiosendung der Welt", "Bedeutender Standort für das Verlagswesen und die Gesundheitsindustrie", "Nashville besitzt eine Nachbildung des Parthenon in Originalgröße", "Wirtschaftliches Wachstum durch eine junge und kreative Fachkräftebasis"],
-      hu: ["'Music City' - a zene városa", "A Grand Ole Opry egy világhírű country zenei színpad", "A Country Zenei Hírességek Csarnoka és Múzeuma itt található", "Az egészségügyi ágazat egyik legfontosabb központja az USA-ban", "A város belvárosa híres a zenés bárokról", "Tennessee közigazgatási központja"],
+      hu: ["'Music City' - a zene városa", "A Country Zenei Hírességek Csarnoka és Múzeuma itt található", "Az egészségügyi ágazat egyik legfontosabb központja az USA-ban", "A város belvárosa híres a zenés bárokról", "Tennessee közigazgatási központja"],
       ro: [],
       en: []
     }
@@ -754,7 +754,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1819 am Mississippi River gegründet", "Geburtsort des Rock 'n' Roll und Epizentrum des Blues (Beale Street)", "Graceland ist die weltweit meistbesuchte historische Wohnstätte", "Wichtiger internationaler Logistikknotenpunkt (Hauptsitz von FedEx)", "Das National Civil Rights Museum befindet sich am Ort der Ermordung von Martin Luther King Jr.", "Kulturelles und wirtschaftliches Zentrum am Mississippi"],
-      hu: ["A blues és a rock 'n' roll bölcsője", "Graceland, Elvis Presley egykori otthona", "A Sun Studio számos zenei legenda felvevőhelye", "Beale Street: a blues zene központja", "Nemzeti Polgárjogi Múzeum", "Fontos kikötőváros a Mississippi mentén"],
+      hu: ["A blues és a rock 'n' roll bölcsője", "Graceland, Elvis Presley egykori otthona", "A Sun Studio számos zenei legenda felvevőhelye", "Fontos kikötőváros a Mississippi mentén"],
       ro: [],
       en: []
     }
@@ -785,7 +785,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Gegründet am 22. April 1889 nach dem historischen 'Land Run'", "Zentrum der US-Energieindustrie", "Das National Cowboy & Western Heritage Museum bewahrt das Erbe des Westens", "Der Oklahoma River ist heute ein bedeutendes Zentrum für Wassersport", "Die Stadt verfügt über eine ausgeprägte moderne Stadtverwaltung", "Wichtiger logistischer Standort im Zentrum der Vereinigten Staaten"],
-      hu: ["Oklahoma fővárosa", "Nemzeti Cowboy és Nyugati Örökség Múzeum", "Stockyards City történelmi negyed", "Bricktown szórakoztató központ", "Az Oklahoma City Nemzeti Emlékhely emléke", "Jelentős mezőgazdasági és olajipari központ"],
+      hu: ["Oklahoma fővárosa", "Stockyards City történelmi negyed", "Bricktown szórakoztató központ", "Az Oklahoma City Nemzeti Emlékhely emléke", "Jelentős mezőgazdasági és olajipari központ"],
       ro: [],
       en: []
     }
@@ -843,7 +843,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: "Louisville Kentucky legnagyobb városa, amely a Kentucky Derby lóversenyről és a világhírű bourbon lepárlóiról ismert. A Churchill Downs versenypálya a lovassportok egyik fellegvára. A város emellett a boxlegendák közül a legnagyobb, Muhammad Ali szülőhelye, akinek öröksége mély nyomott hagyott a városban. Az 'Urban Bourbon Trail' egyedi élményt nyújt az ital szerelmeseinek. Történelem K8 — lótenyésztés és hagyományos iparágak."
     },
     factsAdvanced: {
-      hu: ["Churchill Downs: a Kentucky Derby otthona", "A bourbon lepárlás egyik legfontosabb központja", "Muhammad Ali szülőhelye", "Az Urban Bourbon Trail élményút", "Louisville Slugger baseballütő-gyár", "Kentucky állam legnagyobb városa"]
+      hu: ["A bourbon lepárlás egyik legfontosabb központja", "Az Urban Bourbon Trail élményút", "Louisville Slugger baseballütő-gyár", "Kentucky állam legnagyobb városa"]
     }
   },
   {
@@ -868,7 +868,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: "Baltimore történelmi kikötőváros Marylandben, amely az Egyesült Államok tengerészeti történelmében játszott kulcsszerepet. Az Inner Harbor modern üzletekkel, múzeumokkal, például a Nemzeti Akváriummal várja a látogatókat. A Fort McHenry erőd, a nemzeti himnusz születési helye, a város történelmi jelentőségét hangsúlyozza. Edgar Allan Poe élete és művészete is szorosan kötődik Baltimore-hoz. Történelem K8 — tengerészeti örökség és polgárháborús emlékek."
     },
     factsAdvanced: {
-      hu: ["Inner Harbor: turisztikai és kereskedelmi központ", "A Nemzeti Akvárium otthona", "Fort McHenry: a nemzeti himnusz születési helye", "Edgar Allan Poe egykori lakóhelye", "Gazdag tengerészeti múlt", "Maryland egyik kulturális fellegvára"]
+      hu: ["Inner Harbor: turisztikai és kereskedelmi központ", "A Nemzeti Akvárium otthona", "Edgar Allan Poe egykori lakóhelye", "Gazdag tengerészeti múlt", "Maryland egyik kulturális fellegvára"]
     }
   },
   {
@@ -893,7 +893,7 @@ export const poiExtraUsaCitiesV2: POI[] = [
       hu: "Milwaukee a Michigan-tó partján fekszik, Wisconsin legnagyobb városa, amely történelmi sörfőző örökségéről híres. A Miller, Pabst és Schlitz sörfőzdék megalapozták a város hírnevét. A város ma a Milwaukee Művészeti Múzeum jellegzetes építészetével és a világhírű Summerfest zenei fesztivállal vonzza a látogatókat. A Harley-Davidson Múzeum szintén a város ipari és kulturális büszkeségei közé tartozik. Földrajz K7 — ipari örökség és középnyugati életmód."
     },
     factsAdvanced: {
-      hu: ["Történelmi sörfőző központ", "A Milwaukee Művészeti Múzeum építészeti remekműve", "A Harley-Davidson Múzeum otthona", "Summerfest: a világ legnagyobb zenei fesztiválja", "A Michigan-tó partvidéki központja", "Erős ipari örökség"]
+      hu: ["Történelmi sörfőző központ", "A Milwaukee Művészeti Múzeum építészeti remekműve", "A Harley-Davidson Múzeum otthona", "A Michigan-tó partvidéki központja", "Erős ipari örökség"]
     }
   },
   {

@@ -1,0 +1,89 @@
+{
+  "lang": "hu",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tana-delta-relief-v2",
+      "description": "Kenya leghosszabb folyójának hatalmas deltája az Indiai-óceán partján, amely mocsarakból és mangroveerdőkből áll.",
+      "facts": [
+        "Kenya egyik legfontosabb vizes élőhelye",
+        "Gazdag madárvilág és vízilópopuláció",
+        "Gyakoriak az áradások az esős évszakban",
+        "Kiemelkedő ökológiai jelentőséggel bír"
+      ]
+    },
+    {
+      "id": "chalbi-desert-relief-v2",
+      "description": "Észak-Kenyában található sós sivatag, amely egykor egy hatalmas tó medre volt.",
+      "facts": [
+        "Kenya legszárazabb területe",
+        "A név jelentése: 'kopár hely'",
+        "Eső után hatalmas, sekély tóvá alakulhat",
+        "Vakítóan fehér sós síkság jellemzi"
+      ]
+    },
+    {
+      "id": "susswa-volcano-relief-v2",
+      "description": "Egy egyedülálló 'kráter a kráterben' szerkezetű pajzsvulkán a hasadékvölgy szívében.",
+      "facts": [
+        "Híres obszidián barlangjairól",
+        "A belső kráterben érintetlen erdő található",
+        "Maszáj pásztorok legeltetik itt állataikat",
+        "Geológiailag viszonylag fiatal képződmény"
+      ]
+    },
+    {
+      "id": "kerio-valley-relief-v2",
+      "description": "Mély és látványos völgy Nyugat-Kenyában, amely a hasadékvölgy egyik legszebb ága.",
+      "facts": [
+        "Több mint 1200 méter mély völgyoldalak",
+        "Híres a siklóernyősök körében",
+        "A Tugen-hegység határolja keletről",
+        "Féldrágakövek és fluorit lelőhelye"
+      ]
+    },
+    {
+      "id": "yatta-plateau-relief-v2",
+      "description": "A világ leghosszabb lávafolyama, amely egy keskeny, lapos tetejű fennsíkként húzódik kilométereken át.",
+      "facts": [
+        "Hossza kb. 290 kilométer",
+        "Az Ol Doinyo Sabuk vulkánból ered",
+        "A Tsavo-folyóval párhuzamosan fut",
+        "Egyedülálló geológiai formáció"
+      ]
+    },
+    {
+      "id": "kinangop-plateau-relief-v2",
+      "description": "Az Aberdare-hegység lábánál fekvő magaslati fennsík, amely fontos mezőgazdasági terület.",
+      "facts": [
+        "Átlagmagassága 2400 méter",
+        "Hűvös és párás éghajlat jellemzi",
+        "Kenya egyik fő tejtermelő vidéke",
+        "Veszélyeztetett madárfajok élőhelye"
+      ]
+    },
+    {
+      "id": "ndere-island-relief-v2",
+      "description": "A Viktória-tóban található kis sziget, amely vulkanikus eredetű és természetvédelmi terület.",
+      "facts": [
+        "A neve 'találkozóhelyet' jelent",
+        "Híres a különleges vízimadarakról",
+        "Vörös oat-fű borítja a lankáit",
+        "Krokodilok és vízilovak megfigyelőhelye"
+      ]
+    },
+    {
+      "id": "kacheliba-plains-relief-v2",
+      "description": "Kenya északnyugati részén elterülő száraz, bokros síkság a pokot nép földjén.",
+      "facts": [
+        "Szemiarid, félsivatagos éghajlat",
+        "A Suam-folyó határolja a területet",
+        "Hagyományos állattartó közösségek otthona",
+        "Dimbes-dombos, sziklás felszín"
+      ]
+    }
+  ]
+}

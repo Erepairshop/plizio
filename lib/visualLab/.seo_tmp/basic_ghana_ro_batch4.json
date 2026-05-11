@@ -1,0 +1,65 @@
+{
+  "lang": "ro",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "busua-beach-nature-v2",
+      "description": "O plajă spectaculoasă cu nisip fin, situată în regiunea de vest, faimoasă pentru condițiile excelente de surfing.",
+      "facts": ["Destinație populară pentru turiști", "Ape calde ale Oceanului Atlantic", "Situată lângă un sat pescăresc"]
+    },
+    {
+      "id": "cape-three-points-sea-nature-v2",
+      "description": "Cel mai sudic punct al Ghanei, oferind vederi dramatice asupra oceanului și un ecosistem marin divers.",
+      "facts": ["Găzduiește un far istoric", "Cunoscut ca terenul de nicăieri", "Punct de observație pentru balene"]
+    },
+    {
+      "id": "shai-hills-savanna-nature-v2",
+      "description": "O rezervație naturală unică ce combină dealuri stâncoase cu savana deschisă, situată aproape de Accra.",
+      "facts": ["Habitat pentru babuini și păsări", "Include peșteri folosite de tribul Shai", "Ideal pentru drumeții și safari"]
+    },
+    {
+      "id": "bui-gorge-relief-v2",
+      "description": "Un defileu adânc și spectaculos tăiat de râul Volta Neagră, locul actual al unui important baraj hidroenergetic.",
+      "facts": ["Peisaj montan accidentat", "Bogat în biodiversitate fluvială", "Formațiuni stâncoase pre-cambriene"]
+    },
+    {
+      "id": "gambo-hills-relief-v2",
+      "description": "O serie de dealuri ondulate situate în nordul Ghanei, caracterizate prin vegetație rară și soluri lateritice.",
+      "facts": ["Formează un bazin de recepție local", "Influențate de vântul Harmattan", "Importante pentru pășunatul sezonier"]
+    },
+    {
+      "id": "tano-basin-relief-v2",
+      "description": "O zonă depresionară fertilă formată de cursul râului Tano, esențială pentru agricultura din sud-vest.",
+      "facts": ["Soluri aluvionare bogate", "Zonă cu precipitații ridicate", "Include zone de mlaștină protejate"]
+    },
+    {
+      "id": "akposso-hills-relief-v2",
+      "description": "Dealuri impunătoare situate la granița cu Togo, făcând parte din lanțul muntos mai larg Akwapim-Togo.",
+      "facts": ["Acoperite cu păduri tropicale", "Climat montan mai răcoros", "Vârfuri ce depășesc 700 de metri"]
+    },
+    {
+      "id": "kweku-hills-relief-v2",
+      "description": "Un grup de dealuri proeminente care domină peisajul local, oferind perspective asupra platoului înconjurător.",
+      "facts": ["Formațiuni geologice vechi", "Vegetație mixtă de savană", "Sursă pentru cursuri mici de apă"]
+    },
+    {
+      "id": "oti-plain-relief-v2",
+      "description": "O câmpie vastă și joasă inundată periodic de râul Oti, fiind o zonă crucială pentru agricultură și faună.",
+      "facts": ["Teren plat și deschis", "Risc ridicat de inundații sezoniere", "Vegetație de stepă și ierburi înalte"]
+    },
+    {
+      "id": "nkawkaw-escarpment-relief-v2",
+      "description": "O faleză stâncoasă abruptă care marchează tranziția dintre câmpia de coastă și platoul Kwahu.",
+      "facts": ["Oferă priveliști panoramice", "Loc popular pentru parapantă", "Structură geologică de gresie"]
+    },
+    {
+      "id": "gambia-hills-relief-v2",
+      "description": "O formațiune de dealuri reziduale situate în inima Ghanei, modelate de milenii de eroziune naturală.",
+      "facts": ["Dealuri de tip inselberg", "Peisaj caracteristic de savană", "Aparțin unității geologice Voltaiene"]
+    }
+  ]
+}

@@ -93,14 +93,14 @@ export const poiExtraBelizeReliefV2: POI[] = [
     },
     description: {
       de: "Ein abgelegenes Tal im Bladen Nature Reserve.",
-      hu: "Egy eldugott völgy a Bladen Nature Reserve-ben.",
-      ro: "O vale izolată în rezervația naturală Bladen.",
+      hu: "A Bladen Branch folyó völgye Belize egyik legérintetlenebb és legelzártabb vadonja a Maya-hegység szívében.",
+      ro: "O zonă muntoasă și accidentată din sudul Belizei, care hrănește cursul superior al râului Monkey.",
       en: "A remote valley in the Bladen Nature Reserve."
     },
     facts: {
       de: ["Teil des Maya-Gebirges", "Sehr unberührte Natur", "Reich an Wildtieren", "Schwieriges Gelände"],
-      hu: ["A Maya-hegység része", "Nagyon érintetlen természet", "Gazdag vadvilág", "Nehéz terep"],
-      ro: ["Parte a Munților Maya", "Natură foarte neatinsă", "Bogată în faună", "Teren dificil"],
+      hu: ["Szigorúan védett terület", "Nincsenek állandó emberi települések", "Gazdag és ritka biodiverzitás jellemzi"],
+      ro: ["Parte a Rezervației Naturale Bladen", "Teren extrem de dificil și virgin", "Bazin hidrografic vital pentru sud"],
       en: ["Part of the Maya Mountains", "Very pristine nature", "Rich in wildlife", "Difficult terrain"]
     },
     descriptionAdvanced: {
@@ -132,13 +132,13 @@ export const poiExtraBelizeReliefV2: POI[] = [
     },
     description: {
       de: "Ein Hochlandgebiet in Belize mit Kiefernwäldern.",
-      hu: "Egy fenyőerdős fennsík Belize-ben.",
+      hu: "Belize egyetlen gránit alapú fennsíkja, amely fenyőerdőivel és hűvösebb klímájával emelkedik ki a trópusi tájból.",
       ro: "O regiune de podiș din Belize cu păduri de pini.",
       en: "A highland area in Belize with pine forests."
     },
     facts: {
       de: ["Bekanntes Erholungsgebiet", "Kiefernwald auf Granituntergrund", "Zahlreiche Wasserfälle", "Deutlich kühleres Klima"],
-      hu: ["Ismert üdülőterület", "Fenyőerdő gránit alapkőzeten", "Számos vízesés", "Jelentősen hűvösebb klíma"],
+      hu: ["Közép-Amerika legidősebb geológiai képződménye", "Számos látványos vízesés otthona", "Egyedülálló fenyő-szavanna ökoszisztéma"],
       ro: ["Zonă de recreere cunoscută", "Pădure de pini pe sol granitic", "Numeroase cascade", "Climă semnificativ mai răcoroasă"],
       en: ["Well-known recreation area", "Pine forest on granite bedrock", "Numerous waterfalls", "Significantly cooler climate"]
     },
@@ -172,14 +172,14 @@ export const poiExtraBelizeReliefV2: POI[] = [
     },
     description: {
       de: "Ein großes, bewaldetes Becken im Südwesten von Belize.",
-      hu: "Egy nagy, erdős medence Belize délnyugati részén.",
-      ro: "Un bazin mare și împădurit în sud-vestul statului Belize.",
+      hu: "Hatalmas mészkőmedence Belize délnyugati részén, amely Közép-Amerika legnagyobb barlangrendszerét rejti.",
+      ro: "O depresiune vastă situată în Munții Maya, cunoscută pentru sistemele sale de peșteri și biodiversitate.",
       en: "A large, forested basin in southwestern Belize."
     },
     facts: {
       de: ["Umfasst den Chiquibul Nationalpark", "Größtes Schutzgebiet in Belize", "Karstlandschaft", "Sehr dünn besiedelt"],
-      hu: ["Magában foglalja a Chiquibul Nemzeti Parkot", "Belize legnagyobb védett területe", "Karsztos táj", "Nagyon ritkán lakott"],
-      ro: ["Include Parcul Național Chiquibul", "Cea mai mare zonă protejată din Belize", "Peisaj carstic", "Foarte slab populat"],
+      hu: ["Itt található Caracol ősi maja városa", "Az ország legmagasabb hegycsúcsa a szélén magasodik", "Kritikus élőhely a sárgaszárnyú ara számára"],
+      ro: ["Cea mai mare zonă protejată din țară", "Adăpostește platoul carstic Chiquibul", "Sursă de apă pentru râul Belize"],
       en: ["Encompasses Chiquibul National Park", "Largest protected area in Belize", "Karst landscape", "Very sparsely populated"]
     },
     descriptionAdvanced: {
@@ -211,14 +211,14 @@ export const poiExtraBelizeReliefV2: POI[] = [
     },
     description: {
       de: "Ein hügeliges Gebiet im Toledo District.",
-      hu: "Egy dombos terület Toledo körzetében.",
-      ro: "O zonă deluroasă în districtul Toledo.",
+      hu: "Dombos és tagolt felföldi terület Toledo kerület nyugati határán, amely fontos vízgyűjtő terület.",
+      ro: "Regiune muntoasă situată în extremitatea sudică a districtului Toledo, la granița cu Guatemala.",
       en: "A hilly area in the Toledo District."
     },
     facts: {
       de: ["Teil der Vorgebirge des Maya-Gebirges", "Tropischer Wald", "Wenig besiedelt", "Karstformationen"],
-      hu: ["A Maya-hegység előhegyeinek része", "Trópusi erdő", "Ritkán lakott", "Karsztképződmények"],
-      ro: ["Parte a poalelor Munților Maya", "Pădure tropicală", "Puțin populată", "Formațiuni carstice"],
+      hu: ["Gyéren lakott, vadregényes vidék", "Meredek, erdős lejtők jellemzik", "Fontos ökológiai folyosó a határon"],
+      ro: ["Altitudini ridicate pentru regiune", "Păduri de nori și climat răcoros", "Zonă izolată cu natură neatinsă"],
       en: ["Part of the foothills of the Maya Mountains", "Tropical forest", "Sparsely populated", "Karst formations"]
     },
     descriptionAdvanced: {
@@ -251,13 +251,13 @@ export const poiExtraBelizeReliefV2: POI[] = [
     },
     description: {
       de: "Eine hügelige Formation im Norden von Belize.",
-      hu: "Egy dombos képződmény Belize északi részén.",
+      hu: "Egy markáns hegygerinc az északi Belize-ben, amely fontos vízválasztóként szolgál a régió folyói számára.",
       ro: "O formațiune deluroasă în nordul statului Belize.",
       en: "A hilly formation in the north of Belize."
     },
     facts: {
       de: ["Kalksteinformationen", "Tropische Vegetation", "Niedriger als das Maya-Gebirge", "Wichtiges Wassereinzugsgebiet"],
-      hu: ["Mészkőképződmények", "Trópusi növényzet", "Alacsonyabb", "mint a Maya-hegység", "Fontos vízgyűjtő terület"],
+      hu: ["Mészkő sziklafalak és barlangok", "Trópusi lombhullató erdő borítja", "Kiváló kilátópont az északi síkságra"],
       ro: ["Formațiuni calcaroase", "Vegetație tropicală", "Mai scundă decât Munții Maya", "Zonă importantă de captare a apei"],
       en: ["Limestone formations", "Tropical vegetation", "Lower than the Maya Mountains", "Important water catchment area"]
     },
@@ -292,13 +292,13 @@ export const poiExtraBelizeReliefV2: POI[] = [
       de: "Ein Hochplateau in der Nähe der antiken Maya-Stadt Caracol.",
       hu: "Egy fennsík Caracol ősi maja város közelében.",
       ro: "Un podiș în apropierea orașului antic maiaș Caracol.",
-      en: "A high plateau near the ancient Maya city of Caracol."
+      en: "A vast limestone plateau in the Chiquibul forest, home to the largest Maya city in Belize."
     },
     facts: {
       de: ["Umgeben von dichtem Dschungel", "Kalkstein-Untergrund", "Historisch bedeutsam", "Hohe Luftfeuchtigkeit"],
       hu: ["Sűrű dzsungel veszi körül", "Mészkő alapkőzet", "Történelmileg jelentős", "Magas páratartalom"],
       ro: ["Înconjurat de junglă densă", "Substrat de calcar", "Semnificație istorică", "Umiditate ridicată"],
-      en: ["Surrounded by dense jungle", "Limestone bedrock", "Historically significant", "High humidity"]
+      en: ["Elevated karst landscape.", "Features ancient agricultural terraces.", "Rich in caves and sinkholes.", "Located in the Cayo District."]
     },
     descriptionAdvanced: {
       de: "Das Caracol-Plateau ist eine ausgedehnte, erhöhte Kalksteinplattform tief im Chiquibul-Nationalpark im Westen von Belize. Diese geologische Formation ist vor allem als Standort der antiken Maya-Stadt Caracol bekannt, einem der mächtigsten städtischen Zentren der klassischen Periode. Das Plateau zeichnet sich durch seine Karsttopographie mit zahlreichen Dolinen, Höhlen und unterirdischen Bächen aus, die die Maya zur Wasserbewirtschaftung nutzten. Die relativ fruchtbaren Böden ermöglichten eine große landwirtschaftliche Bevölkerung, die die Stadt jahrhundertelang unterhielt. Bedeckt von einem dichten Laubregenwald, ist das Plateau ein Hotspot der Biodiversität und bietet einen entscheidenden Lebensraum für Jaguare, Ozelots und Baird-Tapire. Das gesamte Gebiet ist ein geschütztes archäologisches Reservat, das sowohl die monumentalen Maya-Ruinen als auch das umliegende unberührte Waldökosystem bewahrt.",
@@ -318,12 +318,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/caracol-plateau-relief-v2.webp"},
   {
     id: "monkey-river-hills-relief-v2",
-    description: "Die Hügel entlang des Monkey River prägen die hügelige Landschaft im Süden Belizes.",
-    facts: [
-      "Südliches Belize",
-      "Hügelige Topografie",
-      "Nahe Monkey River"
-],
     type: "relief",
     parent: "BZ-SC",
     coords: [-88.55, 16.55],
@@ -334,16 +328,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Monkey River Hills"
     },
     description: {
-      de: "Hügelige Landschaft nahe dem Monkey River, die durch dichten Regenwald geprägt ist.",
-      hu: "Dombos terep Stann Creek körzetében.",
+      de: "Sanfte Erhebungen in der Nähe des Monkey River, die einen Übergang zwischen der Küstenebene und den Bergen bilden.",
+      hu: "Alacsony mészkődombok Belize déli partvidékén, amelyek a Monkey River kanyargós völgyét kísérik.",
       ro: "Teren deluros în districtul Stann Creek.",
-      en: "Hilly terrain in the Stann Creek District."
+      en: "Rolling hills in southern Belize that frame the lower reaches of the Monkey River."
     },
     facts: {
-      de: ["Hügelregion", "Regenwald", "Süd-Belize"],
-      hu: ["Alacsony magasság", "Trópusi esőerdő", "Közel a parthoz", "Sok vízfolyás"],
+      de: ["Liegt im südlichen Belize", "Dicht bewaldete Hügellandschaft", "Nahe der Küste des Karibischen Meeres"],
+      hu: ["Átmeneti zóna a hegyek és a tenger között", "Sűrű esőerdő és mangrove mocsarak", "Nevét a területen élő bőgőmajmokról kapta"],
       ro: ["Altitudine redusă", "Pădure tropicală", "Aproape de coastă", "Multe cursuri de apă"],
-      en: ["Low elevation", "Tropical rainforest", "Near the coast", "Many streams"]
+      en: ["Covered in dense tropical broadleaf forest.", "Part of the southern coastal plain relief.", "Important area for watershed drainage.", "Habitat for diverse wildlife including howlers."]
     },
     descriptionAdvanced: {
       de: "Die Monkey River Hills sind eine Reihe von niedrig gelegenen, sanften Kalksteinhügeln, die parallel zur Küste im Süden von Belize verlaufen, hauptsächlich im Toledo District. Diese Hügel werden vom Monkey River durchschnitten, einem der wichtigsten Wasserwege der Region. Die Landschaft ist ein Mosaik aus tropischem Laubwald und, näher an der Küste, Mangrovensümpfen und Küstensavannen. Geologisch sind diese Hügel ein klassisches Beispiel für eine tropische Karstumgebung mit zahlreichen kleinen Höhlen und Dolinen, die unter dem Blätterdach des Waldes verborgen sind. Das Gebiet ist bekannt für seine Population von Schwarzen Brüllaffen, deren laute Rufe ein charakteristisches Merkmal der lokalen Geräuschkulisse sind. Die Hügel und das angrenzende Flussökosystem bilden einen wichtigen biologischen Korridor, der die Küstenebenen mit den Ausläufern der Maya Mountains verbindet.",
@@ -364,12 +358,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
   },
   {
     id: "golden-stream-valley-relief-v2",
-    description: "Das Golden Stream Valley ist eine fruchtbare Senke im Toledo Distrikt mit vielfältiger Flora.",
-    facts: [
-      "Toledo Distrikt",
-      "Fruchtbare Senke",
-      "Biodiversität"
-],
     type: "relief",
     parent: "BZ-TO",
     coords: [-88.78, 16.35],
@@ -380,16 +368,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Golden Stream Valley"
     },
     description: {
-      de: "Ein fruchtbares Flusstal im Distrikt Toledo, das zwischen sanften Hügeln eingebettet ist.",
-      hu: "Egy völgy Toledo körzetében, ismert biológiai sokféleségéről.",
-      ro: "O vale în districtul Toledo, cunoscută pentru biodiversitatea sa.",
-      en: "A valley in the Toledo District known for its biodiversity."
+      de: "Ein fruchtbares Tal im Toledo District, das nach dem klaren Golden Stream benannt ist und eine reiche Flora und Fauna besitzt.",
+      hu: "Egy termékeny völgy Toledo kerületben, amelyen a kristálytiszta Golden Stream folyó halad keresztül.",
+      ro: "O vale fertilă și bogată în biodiversitate, care conectează Munții Maya de coasta Caraibelor.",
+      en: "A fertile and biodiverse valley in the Toledo District, named after the Golden Stream river."
     },
     facts: {
-      de: ["Flusstal", "Toledo Distrikt", "Fruchtbar"],
-      hu: ["Fontos vadvilág-folyosó", "Nedves éghajlat", "Trópusi erdő", "Közel a partmenti síksághoz"],
-      ro: ["Coridor important pentru animalele sălbatice", "Climă umedă", "Pădure tropicală", "Aproape de câmpia de coastă"],
-      en: ["Important wildlife corridor", "Humid climate", "Tropical forest", "Near the coastal plain"]
+      de: ["Teil eines biologischen Korridors", "Sehr hohe Niederschlagsmengen", "Zentrum indigener Siedlungen"],
+      hu: ["Létfontosságú biológiai folyosó", "Gazdag maja régészeti lelőhelyekben", "Sokszínű trópusi növényvilág"],
+      ro: ["Coridor biologic important", "Peisaje dominate de păduri tropicale", "Renumită pentru observarea păsărilor"],
+      en: ["Known for high rainfall and lush flora.", "Part of a critical biological corridor.", "Links the Maya Mountains to the coast.", "Center for sustainable agro-forestry."]
     },
     descriptionAdvanced: {
       de: "Das Golden Stream Valley im Toledo District im Süden von Belize ist ein lebenswichtiger ökologischer Korridor, der die landeinwärts gelegenen Maya Mountains mit dem küstennahen Port Honduras Marine Reserve verbindet. Das Tal wird durch den Golden Stream Fluss definiert, der durch eine Landschaft aus sanften Kalksteinhügeln und fruchtbaren Schwemmlandebenen fließt. Dieses Gebiet ist für seine außergewöhnliche Artenvielfalt bekannt und wird durch ein Mosaik aus privaten und öffentlichen Reservaten geschützt, darunter das Golden Stream Corridor Preserve. Die Wälder hier sind eine reiche Mischung aus tropischen immergrünen und halb-laubabwerfenden Bäumen und bieten Lebensraum für eine breite Palette von Wildtieren, einschließlich Jaguaren, Tapiren und über 200 Vogelarten. Das Tal enthält auch mehrere kleine, unausgegrabene archäologische Stätten der Maya, was auf seine Bedeutung für alte Siedlungen und Handelsrouten hinweist.",
@@ -409,12 +397,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/golden-stream-valley-relief-v2.webp"},
   {
     id: "rio-grande-hills-relief-v2",
-    description: "Die Hügel des Rio Grande-Gebietes bilden einen Teil der Ausläufer der Maya Mountains.",
-    facts: [
-      "Maya Mountains Ausläufer",
-      "Hügeliges Gelände",
-      "Südbelize"
-],
     type: "relief",
     parent: "BZ-TO",
     coords: [-88.85, 16.25],
@@ -425,16 +407,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Rio Grande Hills"
     },
     description: {
-      de: "Die Hügelketten entlang des Rio Grande bieten eine abwechslungsreiche Topografie im Süden des Landes.",
-      hu: "Dombos táj Belize déli részén.",
+      de: "Hügelige Region im Einzugsgebiet des Rio Grande im Süden Belizes, geprägt von Kalksteinformationen und Regenwald.",
+      hu: "Kúpos karsztidomokkal tarkított dombság Belize déli részén, a Rio Grande folyó mentén.",
       ro: "Un peisaj deluros în sudul statului Belize.",
-      en: "A hilly landscape in southern Belize."
+      en: "A series of scenic hills in southern Belize, situated near the banks of the Rio Grande."
     },
     facts: {
-      de: ["Hügelkette", "Rio Grande", "Topografie"],
-      hu: ["Közel a Rio Grande folyóhoz", "Sűrű növényzet", "Trópusi éghajlat", "Karsztos vonások"],
+      de: ["Typische Karstlandschaft", "Heimat vieler Höhlensysteme", "Im Toledo District gelegen"],
+      hu: ["Jellegzetes kúpkarszt domborzat", "Számos kisebb, feltáratlan barlang", "Érintetlen trópusi erdőtakaró"],
       ro: ["Aproape de râul Rio Grande", "Vegetație densă", "Climă tropicală", "Caracteristici carstice"],
-      en: ["Near Rio Grande river", "Dense vegetation", "Tropical climate", "Karst features"]
+      en: ["Feature limestone karst formations.", "Offer views of the Toledo interior.", "Bordered by Maya and Garifuna villages.", "Located south of the Maya Mountains."]
     },
     descriptionAdvanced: {
       de: "Die Rio Grande Hills sind eine zerklüftete Karstlandschaft im südlichen Toledo District von Belize. Diese Hügel bilden die Wasserscheide für den Rio Grande, einen der Hauptflüsse der Region, der sich durch das Gelände zum Karibischen Meer schlängelt. Das Gebiet ist durch steile, kegelförmige Hügel und tiefe, enge Täler gekennzeichnet, die alle von dichtem, feuchtem Laubwald bedeckt sind. Diese Topographie ist für die Landwirtschaft eine Herausforderung, was dazu beigetragen hat, einen Großteil der ursprünglichen Waldbedeckung zu erhalten. Die Hügel sind ein wichtiger Lebensraum für eine Vielzahl von Wildtieren, darunter mehrere Arten von Wildkatzen und Primaten. Die Region ist auch mit zahlreichen kleinen archäologischen Stätten der Maya übersät, von denen viele noch nicht ausgegraben sind, was auf eine bedeutende antike Bevölkerung hindeutet, die an diese anspruchsvolle Umgebung angepasst war.",
@@ -454,12 +436,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/rio-grande-hills-relief-v2.webp"},
   {
     id: "deep-river-hills-relief-v2",
-    description: "Diese Hügelkette im Süden von Belize ist durch dichten tropischen Regenwald bedeckt.",
-    facts: [
-      "Südbelize",
-      "Regenwald bedeckt",
-      "Hügelkette"
-],
     type: "relief",
     parent: "BZ-TO",
     coords: [-88.65, 16.3],
@@ -470,16 +446,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Deep River Hills"
     },
     description: {
-      de: "Eine weniger bekannte, bewaldete Hügelregion im Toledo Distrikt mit vielfältiger Flora.",
-      hu: "Dombos képződmények a Deep River torkolatának közelében.",
-      ro: "Formațiuni deluroase în apropierea gurii de vărsare a râului Deep River.",
-      en: "Hilly formations near the mouth of the Deep River."
+      de: "Abgelegene Hügelketten im südlichen Belize, die den Oberlauf des Deep River säumen und kaum erschlossen sind.",
+      hu: "A Deep River folyót övező, sűrűn erdősült mészkődombok Belize déli, elszigetelt részén.",
+      ro: "Dealuri ondulate situate în districtul Toledo, acoperite de păduri dense și savane de pini.",
+      en: "Rugged terrain in the Toledo District surrounding the upper reaches of the Deep River."
     },
     facts: {
-      de: ["Bewaldet", "Toledo Distrikt", "Vielfältige Flora"],
-      hu: ["Alacsony magaslatok", "Mangrovék a part közelében", "Trópusi erdő beljebb", "Lapos lejtők"],
-      ro: ["Altitudini scăzute", "Mangrove în apropierea coastei", "Pădure tropicală spre interior", "Pante line"],
-      en: ["Low elevations", "Mangroves near the coast", "Tropical forest inland", "Gentle slopes"]
+      de: ["Unberührter tropischer Primärwald", "Schwieriges Gelände für Expeditionen", "Wichtiges Wassereinzugsgebiet"],
+      hu: ["Szinte teljesen érintetlen ökoszisztéma", "Fontos élőhely a jaguárok számára", "A Deep River Erdőrezervátum része"],
+      ro: ["Formațiuni geologice antice", "Habitat pentru numeroase specii de feline", "Zona de colectare a apelor pentru Deep River"],
+      en: ["Remote and largely uninhabited area.", "Characterized by dense primary forest.", "Supports populations of rare wildcats.", "Important for regional water conservation."]
     },
     descriptionAdvanced: {
       de: "Die Deep River Hills, gelegen im Toledo District von Belize, sind eine abgelegene und wilde Reihe von waldbedeckten Kalksteinhügeln. Sie umgeben den Deep River, eine unberührte Wasserstraße, die von den Ausläufern der Maya Mountains nach Osten zum Karibischen Meer fließt. Das Gebiet zeichnet sich durch seine extreme Zerklüftetheit und Unzugänglichkeit aus, wodurch sein Ökosystem fast vollständig intakt geblieben ist. Diese Hügel sind Teil des Deep River Forest Reserve, einem Schutzgebiet, das für seine hohe Biodiversität bekannt ist. Die Wälder sind ein Zufluchtsort für große Säugetiere wie Jaguare und Tapire sowie für eine reiche Vielfalt an Vogelarten. Die Kombination aus ungestörtem Wald, sauberem Wasser und einer komplexen geologischen Landschaft macht die Deep River Hills zu einem entscheidenden Gebiet für den Naturschutz und die wissenschaftliche Forschung im Süden von Belize.",
@@ -500,12 +476,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
   },
   {
     id: "sittee-river-foothills-relief-v2",
-    description: "Die Ausläufer des Sittee River bieten eine Übergangszone zwischen Küstenebene und Bergland.",
-    facts: [
-      "Übergangszone",
-      "Küstenebene",
-      "Bergland-Nähe"
-],
     type: "relief",
     parent: "BZ-SC",
     coords: [-88.5, 16.8],
@@ -516,16 +486,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Sittee River Foothills"
     },
     description: {
-      de: "Die Ausläufer des Maya-Gebirges in der Nähe des Sittee River bieten eine dramatische Landschaft.",
-      hu: "A Cockscomb-hegységtől keletre eső előhegyek.",
+      de: "Die Ausläufer der Maya Mountains nahe dem Sittee River, die eine malerische Kulisse für die Region Stann Creek bilden.",
+      hu: "A Maya-hegység keleti lábánál fekvő előhegyek, amelyek festői hátteret adnak a Sittee River völgyének.",
       ro: "Poalele muntoase la est de Munții Cockscomb.",
-      en: "The foothills east of the Cockscomb Range."
+      en: "The transition zone where the Maya Mountains descend into the Stann Creek coastal plains."
     },
     facts: {
-      de: ["Gebirgsausläufer", "Maya-Berge", "Dramatisch"],
-      hu: ["A Maya-hegységre való emelkedés kezdete", "Sok vízfolyás", "Dús növényzet", "Agyagos talaj"],
+      de: ["Übergangszone zum Hochland", "Reich an Granitgestein", "Wichtiger Lebensraum für Jaguare"],
+      hu: ["Átmenet a part menti síkság és a hegyek között", "Termékeny völgyek és dús növényzet", "Népszerű túra- és ökoturisztikai célpont"],
       ro: ["Începutul urcușului spre Munții Maya", "Multe cursuri de apă", "Vegetație luxuriantă", "Soluri argiloase"],
-      en: ["Beginning of the rise to the Maya Mountains", "Many streams", "Lush vegetation", "Clayey soils"]
+      en: ["Features rolling topography and streams.", "Gateway to the high peaks of the range.", "Dotted with citrus and banana farms.", "Rich in diverse bird and plant life."]
     },
     descriptionAdvanced: {
       de: "Die Sittee River Foothills sind eine Übergangszone aus sanften Hügeln, die sich zwischen den Küstenebenen und dem Hauptmassiv der Maya Mountains im Stann Creek District von Belize befindet. Diese Landschaft wird vom Sittee River geprägt, der aus den Bergen fließt und sich durch die fruchtbaren Täler der Vorgebirge schlängelt. Die Region ist ein Mosaik aus tropischem Laubwald, Zitrushainen und kleinen Dörfern, das eine Mischung aus Natur- und Agrarlandschaften darstellt. Die Vorgebirge sind geologisch komplex, mit einer Mischung aus Kalkstein und älteren Sedimentgesteinen, die unterschiedliche Bodentypen schaffen, die sowohl vielfältige Wälder als auch Landwirtschaft unterstützen. Dieses Gebiet dient als wichtige Pufferzone für das Cockscomb Basin Wildlife Sanctuary und ist ein lebenswichtiger Korridor für Wildtiere, die sich zwischen den Bergen und der Küste bewegen.",
@@ -557,14 +527,14 @@ export const poiExtraBelizeReliefV2: POI[] = [
     description: {
       de: "Ein bedeutendes Tal im Stann Creek District.",
       hu: "Jelentős völgy a Stann Creek körzetében.",
-      ro: "O vale semnificativă în districtul Stann Creek.",
-      en: "A significant valley in the Stann Creek District."
+      ro: "O vale largă și pitorească, inima industriei de citrice din Belize, înconjurată de dealuri.",
+      en: "A major agricultural valley in central Belize, famous for its sprawling citrus groves."
     },
     facts: {
       de: ["Landwirtschaftlich genutzt", "Zwischen den Maya Mountains und dem Meer", "Tropisches Klima", "Fruchtbare Böden"],
       hu: ["Mezőgazdasági művelés alatt", "A Maya-hegység és a tenger között", "Trópusi éghajlat", "Termékeny talaj"],
-      ro: ["Utilizată în agricultură", "Între Munții Maya și mare", "Climă tropicală", "Soluri fertile"],
-      en: ["Used for agriculture", "Between the Maya Mountains and the sea", "Tropical climate", "Fertile soils"]
+      ro: ["Soluri aluvionare extrem de fertile", "Peisaje spectaculoase cu livezi", "Traversată de autostrada Hummingbird"],
+      en: ["Located along the Hummingbird Highway.", "Drained by the North Stann Creek.", "Flanked by the Maya Mountain foothills.", "Heart of Belize's citrus industry."]
     },
     descriptionAdvanced: {
       de: "Das Stann Creek Valley ist eine der produktivsten und landschaftlich reizvollsten Agrarregionen in Belize und liegt im Stann Creek District. Dieses breite, fruchtbare Tal wird vom North Stann Creek River geformt, der von den Maya Mountains hinunter zur Küstenstadt Dangriga fließt. Der Talboden besteht aus reichen Schwemmlandböden und ist das Herz der belizischen Zitrusindustrie mit riesigen Orangen- und Grapefruitplantagen entlang des Hummingbird Highway. Die umliegenden Hügel, die die Ränder des Tals bilden, sind mit üppigem tropischem Regenwald bedeckt und beherbergen mehrere Nationalparks und Reservate, darunter den St. Herman's Blue Hole Nationalpark. Das Tal ist nicht nur ein Wirtschaftsmotor für das Land, sondern auch eine atemberaubend schöne Landschaft, in der grüne Farmen auf wilde, dschungelbewachsene Berge treffen.",
@@ -584,12 +554,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/stann-creek-valley-relief-v2.webp"},
   {
     id: "northern-lowlands-relief-v2",
-    description: "Die nördlichen Tiefländer bilden das flache, kalksteingeprägte Terrain im Norden Belizes.",
-    facts: [
-      "Nordbelize",
-      "Flaches Terrain",
-      "Kalksteingeprägt"
-],
     type: "relief",
     parent: "BZ-CZ",
     coords: [-88.4, 18.2],
@@ -600,16 +564,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Northern Lowlands"
     },
     description: {
-      de: "Das weite Tiefland im Norden besteht aus flachen Ebenen, Sümpfen und landwirtschaftlichen Flächen.",
-      hu: "A tágas alföld Belize északi részén.",
-      ro: "Câmpia întinsă din nordul statului Belize.",
-      en: "The vast lowlands in the north of Belize."
+      de: "Die weiten Tiefebenen im Norden Belizes, die hauptsächlich für den großflächigen Zuckerrohranbau genutzt werden.",
+      hu: "Belize északi részének tágas, lapos alföldje, amely az ország cukornád-termesztésének központja.",
+      ro: "O zonă de câmpie joasă și plată din nordul Belizei, formată pe un fundament de calcar.",
+      en: "The expansive, flat plains of northern Belize, forming the country's primary agricultural belt."
     },
     facts: {
-      de: ["Norden", "Tiefland", "Flachland"],
-      hu: ["Lapos terep", "Sok lagúna", "Mészkő alapkőzet", "Túlnyomórészt mezőgazdaság"],
-      ro: ["Teren plat", "Multe lagune", "Substrat de calcar", "Predominant agricultură"],
-      en: ["Flat terrain", "Many lagoons", "Limestone bedrock", "Predominantly agriculture"]
+      de: ["Flachstes Gelände des Landes", "Geprägt von Kalksteinböden", "Hauptanbaugebiet für Zuckerrohr"],
+      hu: ["Mészkő alapú síkság sok lagúnával", "Itt található Belize legnagyobb édesvízi lagúnája", "Az ősi maja civilizáció egykori magterülete"],
+      ro: ["Ideală pentru cultivarea trestiei de zahăr", "Presărată cu lagune și zone umede", "Climat mai uscat decât în sud"],
+      en: ["Characterized by limestone bedrock.", "Mainly used for sugarcane cultivation.", "Includes many wetlands and lagoons.", "Covers Corozal and Orange Walk districts."]
     },
     descriptionAdvanced: {
       de: "Die nördlichen Tiefebenen von Belize umfassen die Distrikte Corozal und Orange Walk und bieten eine Landschaft, die sich stark vom bergigen Süden unterscheidet. Diese Region ist eine flache bis sanft gewellte Ebene, die durch zahlreiche Flüsse, Lagunen und Feuchtgebiete gekennzeichnet ist, darunter große Gewässer wie der New River und die Laguna de On. Die Geologie wird von einem Kalksteinschelf dominiert, was zu fruchtbaren, aber oft schlecht entwässerten Böden führt, die ideal für den Anbau von Zuckerrohr sind, dem Hauptagrarprodukt der Region. Dieses Gebiet war ein Kernland der alten Maya-Zivilisation und ist reich an archäologischen Stätten wie Lamanai und Cerros, von denen viele strategisch an den Wasserwegen lagen. Das Mosaik aus Wäldern, Feuchtgebieten und landwirtschaftlichen Feldern der Tiefebenen unterstützt eine vielfältige Tierwelt, insbesondere Watvögel und Krokodile.",
@@ -668,12 +632,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/belize-river-valley-relief-v2.webp"},
   {
     id: "mullins-river-hills-relief-v2",
-    description: "Die Hügel bei Mullins River bilden eine malerische Landschaft im Stann Creek Distrikt.",
-    facts: [
-      "Stann Creek Distrikt",
-      "Hügellandschaft",
-      "Küstennahe Lage"
-],
     type: "relief",
     parent: "BZ-BZ",
     coords: [-88.35, 17.15],
@@ -684,16 +642,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Mullins River Hills"
     },
     description: {
-      de: "Sanfte Hügel nahe der Küste, die einen Übergang zwischen Flachland und Gebirge bilden.",
-      hu: "Dombos terep a Mullins River torkolatának közelében.",
-      ro: "Teren deluros în apropierea gurii de vărsare a râului Mullins River.",
-      en: "Hilly terrain near the mouth of the Mullins River."
+      de: "Erhebungen im Einzugsgebiet des Mullins River, die für ihre dichte Vegetation und Wasserkraftpotenzial bekannt sind.",
+      hu: "Lankás dombvidék Stann Creek kerületben, a Mullins-folyó torkolatvidékének közelében.",
+      ro: "Dealuri împădurite situate în nordul districtului Stann Creek, oferind protecție coastelor.",
+      en: "Coastal hills in the Stann Creek District, situated near the historic Mullins River settlement."
     },
     facts: {
-      de: ["Küstennah", "Hügelland", "Landschaftsübergang"],
-      hu: ["Lankás dombok", "Trópusi növényzet", "Közel a parthoz", "Nedves éghajlat"],
-      ro: ["Dealuri line", "Vegetație tropicală", "Aproape de coastă", "Climă umedă"],
-      en: ["Gentle hills", "Tropical vegetation", "Near the coast", "Humid climate"]
+      de: ["Liegt im Stann Creek District", "Quelle reiner Gebirgsbäche", "Schutzgebiet für Tropenwälder"],
+      hu: ["Védelmet nyújt a part menti viharok ellen", "Trópusi esőerdő és folyóparti vegetáció", "Gyéren lakott, természetközeli terület"],
+      ro: ["Teren accidentat cu vegetație densă", "Bazin de colectare pentru râul Mullins", "Priveliști frumoase spre mare"],
+      en: ["Feature secondary tropical forest.", "Proximity to the Caribbean coast.", "Historically used for mahogany logging.", "Offer scenic views of the coastal lagoons."]
     },
     descriptionAdvanced: {
       de: "Die Mullins River Hills sind eine Reihe von niedrigen, zerklüfteten Kalksteinhügeln im Stann Creek District und bilden einen Teil der Übergangszone zwischen der Küstenebene und den Maya Mountains. Der Mullins River bahnt sich seinen Weg durch dieses hügelige Gelände und schafft kleine, fruchtbare Täler. Die Landschaft ist ein Mosaik aus dichtem Laubwald, Sekundärbewuchs und kleinen landwirtschaftlichen Parzellen. Dieses Gebiet ist weniger entwickelt als das nahe gelegene Stann Creek Valley, und seine Wälder bieten einen wichtigen Zufluchtsort für Wildtiere. Die Hügel selbst enthalten zahlreiche kleine Höhlen und Dolinen, die typisch für eine tropische Karstumgebung sind. Die Region ist dünn besiedelt, mit einigen kleinen Dörfern entlang des Flusses, deren Bewohner Fischfang und Subsistenzwirtschaft betreiben. Die Mullins River Hills stellen ein wichtiges Gebiet mit intaktem Lebensraum in der Nähe der stärker entwickelten Küstenregionen dar.",
@@ -714,12 +672,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
   },
   {
     id: "sibun-river-hills-relief-v2",
-    description: "Das Sibun-Flusstal wird von bewaldeten Hügeln flankiert, die typisch für diese Region sind.",
-    facts: [
-      "Sibun Flusstal",
-      "Bewaldete Hügel",
-      "Typische Topografie"
-],
     type: "relief",
     parent: "BZ-BZ",
     coords: [-88.4, 17.3],
@@ -730,16 +682,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Sibun River Hills"
     },
     description: {
-      de: "Diese Hügellandschaft am Sibun River ist von dichten Wäldern und Höhlensystemen durchzogen.",
-      hu: "A Sibun River völgyének dombos előhegyei.",
-      ro: "Poalele deluroase în valea râului Sibun.",
-      en: "The hilly foothills in the Sibun River valley."
+      de: "Markante Kalksteinhügel entlang des Sibun River, die für ihre zahlreichen Höhlensysteme berühmt sind.",
+      hu: "A Sibun-folyó mentén húzódó, barlangokban gazdag mészkődombok, amelyek a karsztos táj ékkövei.",
+      ro: "Regiune deluroasă calcaroasă prin care șerpuiește râul Sibun, celebră pentru peșterile sale.",
+      en: "A dramatic landscape of limestone karst hills and caves along the Sibun River."
     },
     facts: {
-      de: ["Sibun River", "Bewaldet", "Höhlensysteme"],
-      hu: ["Mészkődombok", "Karsztképződmények", "Sűrű erdő", "Számos barlang"],
-      ro: ["Dealuri calcaroase", "Formațiuni carstice", "Pădure densă", "Numeroase peșteri"],
-      en: ["Limestone hills", "Karst formations", "Dense forest", "Numerous caves"]
+      de: ["Zentrum für Höhlen-Tubing", "Spektakuläre Karstformationen", "Wichtiges archäologisches Gebiet"],
+      hu: ["Híres a barlangi gumibelsőzésről (cave tubing)", "Szent rituális helyszínek az ősi maják számára", "Dramatikus sziklaformációk jellemzik"],
+      ro: ["Sistem carstic extins", "Destinație populară pentru ecoturism", "Păduri tropicale umede protejate"],
+      en: ["Known for extensive cave systems.", "Popular area for cave tubing and hiking.", "Rich in Maya archaeological remains.", "Located in the Belize and Cayo districts."]
     },
     descriptionAdvanced: {
       de: "Die Sibun River Hills sind eine dramatische und zerklüftete Landschaft aus steilen Kalksteinhügeln südlich des Belize River Valley, hauptsächlich in den Distrikten Cayo und Belize. Der mächtige Sibun River, bekannt für seine Sturzfluten, hat tiefe, spektakuläre Schluchten und Täler in dieses Karstgelände gegraben. Diese Hügel sind Teil des Sibun Forest Reserve, einem großen Schutzgebiet mit ausgedehnten Trakten unberührten tropischen Waldes. Das schwierige Gelände hat die menschliche Aktivität begrenzt und den wilden Charakter des Gebiets bewahrt. Es ist ein kritisches Wassereinzugsgebiet und ein wesentlicher Lebensraum für eine vielfältige Tier- und Pflanzenwelt, einschließlich großer Katzen und seltener Vögel. Die Höhlen in den Hügeln, wie die berühmte Kristallhöhle, haben einen bedeutenden archäologischen Wert und enthalten Maya-Keramik und Skelettreste, was auf ihre Verwendung für alte Rituale hinweist.",
@@ -771,14 +723,14 @@ export const poiExtraBelizeReliefV2: POI[] = [
     },
     description: {
       de: "Hügeliges Gelände im Orange Walk District.",
-      hu: "Dombos terület Orange Walk körzetében.",
-      ro: "Teren deluros în districtul Orange Walk.",
+      hu: "Szelíden hullámzó dombvidék Orange Walk kerületben, egy hatalmas magánrezervátum területén.",
+      ro: "Dealuri situate în nord-vestul Belizei, parte a unei mari rezervații private de conservare.",
       en: "Hilly terrain in the Orange Walk District."
     },
     facts: {
       de: ["Gelegen in einer großen Ranch", "Tropischer Wald", "Wenig besiedelt", "Karstlandschaft"],
-      hu: ["Egy nagy farmon belül", "Trópusi erdő", "Ritkán lakott", "Karsztos táj"],
-      ro: ["Situat într-o fermă mare", "Pădure tropicală", "Puțin populat", "Peisaj carstic"],
+      hu: ["A fenntartható erdőgazdálkodás mintaterülete", "Kiemelkedő vadmegfigyelési lehetőségek", "Belize mind az öt nagymacskafaja él itt"],
+      ro: ["Fostă zonă de extracție a lemnului", "Refugiu sigur pentru jaguari și tapiri", "Gestionare durabilă a resurselor"],
       en: ["Located within a large ranch", "Tropical forest", "Sparsely populated", "Karst landscape"]
     },
     descriptionAdvanced: {
@@ -799,12 +751,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/gallon-jug-hills-relief-v2.webp"},
   {
     id: "blue-creek-hills-relief-v2",
-    description: "Die Blue Creek Hügel bieten spektakuläre Ausblicke auf die bewaldete Region im Toledo Distrikt.",
-    facts: [
-      "Toledo Distrikt",
-      "Spektakuläre Ausblicke",
-      "Waldregion"
-],
     type: "relief",
     parent: "BZ-TO",
     coords: [-89.0, 16.2],
@@ -815,16 +761,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Blue Creek Hills"
     },
     description: {
-      de: "Eine malerische Hügelgruppe, bekannt für klare Quellen und natürliche Wasserbecken.",
-      hu: "Dombos képződmények a guatemalai határ közelében.",
+      de: "Zerklüftete Hügellandschaft im Toledo District, die den spektakulären Blue Creek Canyon beherbergt.",
+      hu: "Mészkő-lépcső Belize északnyugati határán, ahol a Blue Creek folyó látványos barlangokból tör elő.",
       ro: "Formațiuni deluroase în apropierea graniței cu Guatemala.",
-      en: "Hilly formations near the border with Guatemala."
+      en: "Elevated terrain in northwestern Belize near the border with Mexico and Guatemala."
     },
     facts: {
-      de: ["Hügelgruppe", "Quellen", "Wasserbecken"],
-      hu: ["Mészkődombok", "Trópusi növényzet", "Fontos a vízkörforgás szempontjából", "Karsztbarlangok"],
+      de: ["Bekannt für die Hokeb Ha Höhle", "Steile Kalksteinwände", "Reiche Flora des Regenwaldes"],
+      hu: ["Kristálytiszta vizű természetes medencék", "Fontos régészeti leletek lelőhelye", "A Rio Bravo Természetvédelmi Terület része"],
       ro: ["Dealuri calcaroase", "Vegetație tropicală", "Important pentru ciclul apei", "Peșteri carstice"],
-      en: ["Limestone hills", "Tropical vegetation", "Important for water cycle", "Karst caves"]
+      en: ["Features striking limestone cliffs.", "Home to several significant Maya ruins.", "Source of the Rio Hondo headwaters.", "Located in the Orange Walk District."]
     },
     descriptionAdvanced: {
       de: "Die Blue Creek Hills sind eine markante Kalksteinstufe im Orange Walk District im Nordwesten von Belize, nahe der Grenze zu Mexiko. Sie sind vor allem für den Blue Creek selbst bekannt, einen Fluss, der aus einem großen Höhlensystem am Fuße der Hügel entspringt und einen tiefen, kristallklaren Pool bildet. Dieses Gebiet ist Teil des Rio Bravo Conservation and Management Area und ein atemberaubendes Beispiel für eine tropische Karstlandschaft. Die Hügel sind mit üppigem Laubregenwald bedeckt und von Höhlen durchzogen, von denen viele wichtige archäologische Überreste der Maya enthalten. Die Blue Creek Community, eine moderne mennonitische Siedlung, liegt am Fuße der Hügel und betreibt intensive Landwirtschaft. Die Schnittstelle zwischen den geschützten, wilden Hügeln und dem erschlossenen Ackerland schafft eine einzigartige und artenreiche Umgebung.",
@@ -883,12 +829,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/mountain-pine-ridge-escarpment-relief-v2.webp"},
   {
     id: "maya-mountains-foothills-relief-v2",
-    description: "Die Vorgebirge der Maya Mountains bilden ein weitläufiges, zerklüftetes Gebiet im Inneren Belizes.",
-    facts: [
-      "Maya Mountains",
-      "Weitläufiges Gebiet",
-      "Zerklüftet"
-],
     type: "relief",
     parent: "BZ-CY",
     coords: [-88.7, 16.9],
@@ -899,14 +839,14 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Maya Mountains Foothills"
     },
     description: {
-      de: "Die Randgebiete des Maya-Gebirges bieten eine topografische Vielfalt und artenreiche Lebensräume.",
-      hu: "A Maya-hegység előtt elterülő, lankásan emelkedő dombok.",
+      de: "Die sanften Ausläufer des Maya-Gebirges, die einen wichtigen ökologischen Übergangsbereich bilden.",
+      hu: "A központi Maya-hegységet övező lankás dombvidék, amely Belize belső területeinek kapuja.",
       ro: "Dealurile care cresc lin în fața propriu-zisului Munți Maya.",
       en: "The gently rising hills before the main Maya Mountains."
     },
     facts: {
-      de: ["Randgebiete", "Topografisch", "Artenreich"],
-      hu: ["Átmeneti zóna", "Dzsungelnövényzet", "Számos patak", "Változatos ökoszisztéma"],
+      de: ["Verbindung zwischen Tiefland und Gebirge", "Zentrum des Zitrusanbaus", "Artenreiche Übergangswälder"],
+      hu: ["Változatos ökológiai átmeneti zóna", "Számos kisebb folyó és patak forrásvidéke", "Fontos mezőgazdasági és természetvédelmi terület"],
       ro: ["Zonă de tranziție", "Vegetație de junglă", "Numeroase pâraie", "Ecosistem divers"],
       en: ["Transition zone", "Jungle vegetation", "Numerous creeks", "Diverse ecosystem"]
     },
@@ -928,12 +868,6 @@ export const poiExtraBelizeReliefV2: POI[] = [
     }, image: "/poi-images/maya-mountains-foothills-relief-v2.webp"},
   {
     id: "toledo-coastal-hills-relief-v2",
-    description: "Die küstennahen Hügel im Toledo Distrikt bieten eine Mischung aus Wald und Meeresblick.",
-    facts: [
-      "Toledo Distrikt",
-      "Küstennah",
-      "Mischlandschaft"
-],
     type: "relief",
     parent: "BZ-TO",
     coords: [-88.7, 16.1],
@@ -944,16 +878,16 @@ export const poiExtraBelizeReliefV2: POI[] = [
       en: "Toledo Coastal Hills"
     },
     description: {
-      de: "Küstennah gelegene Hügel im Toledo Distrikt, die einen weiten Blick über die Karibik ermöglichen.",
+      de: "Kleine Hügelketten parallel zur Küste des Toledo District, die weite Ausblicke auf das Meer bieten.",
       hu: "A Toledo körzet partközeli, dombos részei.",
-      ro: "Zonele deluroase de lângă coastă în districtul Toledo.",
-      en: "The hilly areas near the coast in the Toledo District."
+      ro: "O serie de dealuri joase care se întind de-a lungul coastei de sud, oferind un relief variat.",
+      en: "Low-lying hills along the southern coast of Belize, overlooking the Gulf of Honduras."
     },
     facts: {
-      de: ["Toledo", "Küstennah", "Blick zur Karibik"],
+      de: ["Küstennahe Erhebungen", "Malerische Panoramablicke", "Typische Roterden-Böden"],
       hu: ["Alacsony magasság", "Trópusi esőerdő", "Közel a tengerhez", "Nedves éghajlat"],
-      ro: ["Altitudine redusă", "Pădure tropicală", "Aproape de mare", "Climă umedă"],
-      en: ["Low elevation", "Tropical rainforest", "Near the sea", "Humid climate"]
+      ro: ["Orizont pitoresc de coastă", "Zonă de tranziție ecologică", "Soluri potrivite pentru cacao și fructe"],
+      en: ["Characterized by high annual rainfall.", "Mix of savannah and tropical forest.", "Near the town of Punta Gorda.", "Offer coastal vistas and cooling sea breezes."]
     },
     descriptionAdvanced: {
       de: "Die Toledo Coastal Hills sind eine niedrig gelegene Kette von Kalksteinhügeln, die parallel zur Karibikküste im südlichsten Distrikt von Belize, Toledo, verlaufen. Diese Region ist durch ihre klassische tropische Karsttopographie definiert, die kleine, steilwandige Kegelhügel (Kegelkarst) aufweist, die durch sumpfige, flache Täler getrennt sind. Das Gebiet erhält reichlich Niederschlag, und die Hügel sind mit üppigem, feuchtem Laubwald bedeckt. Diese Landschaft ist ein lebenswichtiger Lebensraum für eine vielfältige Palette von Arten, die an die feuchte, tropische Umgebung angepasst sind. Die Hügel sind mit kleinen Maya-Gemeinden durchsetzt, die in den Tälern traditionelle Brandrodungslandwirtschaft (Milpa) betreiben. Die einzigartige Geographie der Region mit ihrer unmittelbaren Nähe von bewaldeten Hügeln, Feuchtgebieten und dem Meer schafft ein hochkomplexes und artenreiches Ökosystem, das für den tiefen Süden von Belize charakteristisch ist.",

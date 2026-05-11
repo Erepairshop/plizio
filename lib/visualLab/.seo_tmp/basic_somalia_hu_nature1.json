@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cal-madow-mountains-nature-v2",
+      "description": "Somália legmagasabb hegylánca, amely változatos növényvilágnak ad otthont.",
+      "facts": ["Sanaag régió", "Magasság: 2400 m felett", "Örökzöld erdők"]
+    },
+    {
+      "id": "golis-mountains-nature-v2",
+      "description": "Fenséges hegyvonulat, amely elválasztja a tengerparti síkságot a belsőtől.",
+      "facts": ["Szomáliföld északi része", "Karsztos képződmények", "Változatos vadvilág"]
+    },
+    {
+      "id": "darin-island-nature-v2",
+      "description": "Kisebb sziget az Indiai-óceánban, gazdag tengeri élővilággal.",
+      "facts": ["Indiai-óceán", "Korallzátonyok", "Madárfajok élőhelye"]
+    },
+    {
+      "id": "bajuni-islands-nature-v2",
+      "description": "Szigetcsoport a déli partoknál, fontos ökológiai terület.",
+      "facts": ["Déli partvidék", "Mangrove erdők", "Tengeri teknősök"]
+    },
+    {
+      "id": "maydh-coast-nature-v2",
+      "description": "Történelmi jelentőségű partvidék drámai sziklákkal és tiszta vizekkel.",
+      "facts": ["Adeni-öböl", "Sziklás partszakasz", "Hagyományos halászat"]
+    },
+    {
+      "id": "hordio-lagoon-nature-v2",
+      "description": "Sós lagúna a keleti partvidéken, jelentős madárrezervátum.",
+      "facts": ["Bari régió", "Migráló madarak", "Sós vizes élőhely"]
+    },
+    {
+      "id": "ras-casir-nature-v2",
+      "description": "Földrajzi fok a Horn of Africa régióban, ahol az óceáni áramlatok találkoznak.",
+      "facts": ["Afrikai szarv", "Erős szelek", "Tengeri élővilág"]
+    },
+    {
+      "id": "ayaha-valley-valley-nature-v2",
+      "description": "Völgyek és síkságok együttese, amely fontos legelő a nomádoknak.",
+      "facts": ["Szomáliai szárazföld", "Szezonális patakok", "Akáciás bozótos"]
+    },
+    {
+      "id": "gacan-libaah-nature-v2",
+      "description": "Természetvédelmi terület a hegységben, gazdag erdei élővilággal.",
+      "facts": ["Hargeisa közelében", "Hegyi erdők", "Különleges flóra"]
+    },
+    {
+      "id": "xaysimo-nature-v2",
+      "description": "Bokros-sivatagos tájegység, jellegzetes afrikai növényzettel.",
+      "facts": ["Szárazföldi régió", "Bozótos táj", "Sivatagi állatvilág"]
+    }
+  ]
+}

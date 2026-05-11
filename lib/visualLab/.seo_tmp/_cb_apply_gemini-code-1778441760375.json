@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chronicle-of-georgia-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Chronik von Georgien, oft als das georgische Stonehenge bezeichnet, ist ein monumentales Denkmal am Stadtrand von Tiflis, das auf einem Hügel über dem Tifliser Meer thront. Das Monument wurde 1985 vom Bildhauer Zurab Tsereteli entworfen, ist jedoch offiziell bis heute nicht vollständig vollendet. Geografisch bietet der Standort einen weiten Panoramablick über die nördlichen Bezirke der Hauptstadt und den großen Stausee. Das Bauwerk besteht aus 16 massiven Säulen, die jeweils eine Höhe von etwa 35 Metern erreichen. Diese Säulen sind thematisch in drei horizontale Abschnitte unterteilt: Die untere Ebene illustriert biblische Szenen, die mittlere Ebene ist den bedeutendsten georgischen Monarchen, Heiligen und Nationalhelden gewidmet, während die obere Ebene alltägliche Szenen, Feste und Ernten darstellt. Technisch gesehen bestehen die Stelen aus Beton, der mit detaillierten Bronze- und Kupferplatten verkleidet ist. Historisch fungiert das Denkmal als visuelle Enzyklopädie der georgischen Geschichte und christlichen Identität. Ökonomisch hat sich der Ort zu einem bedeutenden Ziel für den Kulturtourismus entwickelt, da er Besuchern ermöglicht, die komplexe Chronologie des Landes an einem einzigen Ort zu erfassen. Die schiere Größe der Konstruktion und die karge Umgebung verleihen dem Ort eine fast sakrale, zeitlose Atmosphäre.",
+        "hu": "A Grúzia krónikája emlékmű, amelyet gyakran a „grúz Stonehenge-ként” emlegetnek, Tbiliszi északi peremén, a Tbiliszi-tenger feletti dombon magasodik. A monumentális alkotást 1985-ben kezdte el készíteni Zurab Cereteli világhírű szobrászművész, és bár technikailag befejezetlen, a város egyik legimpozánsabb látnivalója. Az emlékmű 16 hatalmas, egyenként 35 méter magas oszlopból áll, amelyek a grúz történelem és kultúra idősíkjait mutatják be. Az oszlopok alsó részén bibliai jelenetek láthatóak, a középső sáv a legjelentősebb grúz királyokat, írókat és hősöket ábrázolja, míg a felső részen a népi életmód, az aratás és a vallási ünnepek mozzanatai jelennek meg. Az oszlopok anyaga belül beton, kívülről pedig dombornyomott bronz- és rézlemezekkel borították őket. Földrajzi elhelyezkedése miatt kiváló rálátást biztosít a környező lakótelepekre és a víztározóra, kontrasztot alkotva a modern város és az ősi történelem között. Gazdaságilag az emlékmű fontos turisztikai vonzerő, amely az utóbbi években vált igazán népszerűvé a látogatók körében. A helyszín nem csupán művészeti alkotás, hanem egyfajta kőbe vésett nemzeti tudástár, amely Grúzia több ezer éves államiságát és keresztény gyökereit hirdeti.",
+        "ro": "Cronica Georgiei, supranumită adesea „Stonehenge-ul georgian”, este un monument colosal situat la periferia nordică a orașului Tbilisi, pe o colină ce domină rezervorul de apă cunoscut sub numele de Marea Tbilisi. Monumentul a fost conceput în 1985 de sculptorul Zurab Tsereteli, însă construcția sa nu a fost niciodată finalizată oficial. Ansamblul este format din 16 coloane masive, atingând înălțimi de aproximativ 35 de metri fiecare. Din punct de vedere iconografic, coloanele sunt structurate pe trei registre: registrul inferior prezintă scene biblice, cel median este dedicat figurilor istorice proeminente, regilor și sfinților Georgiei, în timp ce registrul superior ilustrează viața cotidiană, tradițiile și sărbătorile populare. Din punct de vedere tehnic, structura de bază este din beton, fiind placată cu panouri decorative din bronz și cupru lucrate în relief. Din perspectivă economică, situl a devenit un punct de referință pentru turismul cultural, oferind o perspectivă enciclopedică asupra identității naționale. Locația oferă, de asemenea, o panoramă unică asupra arhitecturii rezidențiale din perioada sovietică ce înconjoară dealul, creând un contrast vizual izbitor între monumentalitatea istorică și urbanismul funcțional al capitalei.",
+        "en": "The Chronicle of Georgia, frequently referred to as the 'Georgian Stonehenge,' is a massive monument located on a hill overlooking the Tbilisi Sea reservoir on the city's northern outskirts. Designed by the renowned sculptor Zurab Tsereteli in 1985, the monument remains officially unfinished but stands as a powerful landmark. It consists of 16 enormous pillars, each reaching a height of approximately 35 meters. The pillars are artistically divided into three horizontal zones: the bottom layer depicts biblical stories, the middle section features prominent Georgian kings, queens, and national heroes, and the top layer portrays everyday scenes, harvest cycles, and cultural festivities. Technically, the pillars are constructed from concrete and clad in intricate bronze and copper bas-reliefs. Historically, the site serves as a visual encyclopedia of the nation's 3,000-year history and its deep-seated Christian roots. Economically, it has transformed from a neglected suburban site into a major cultural tourism attraction, drawing visitors who seek to understand the complexities of Georgian statehood outside the traditional city center. The scale of the construction against the stark landscape provides a sense of timelessness and national resilience."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus 16 monumentalen Säulen mit jeweils 35 Metern Höhe.",
+          "Wurde 1985 vom Bildhauer Zurab Tsereteli entworfen.",
+          "Illustriert die Geschichte Georgiens und biblische Szenen in Bronze.",
+          "Befindet sich auf einem Hügel mit Blick auf das Tifliser Meer.",
+          "Gilt offiziell als unvollendetes Kunstwerk aus der Spät-Sowjetzeit.",
+          "Verwendet Kupfer und Bronze als primäre Veredelungsmaterialien."
+        ],
+        "hu": [
+          "16 darab, egyenként 35 méter magas monumentális oszlopból áll.",
+          "Zurab Cereteli szobrászművész alkotása, aki 1985-ben kezdte el a munkát.",
+          "A grúz államiság és a kereszténység történetét mutatja be.",
+          "A Tbiliszi-tározó feletti dombon található, panorámás kilátással.",
+          "Technikailag befejezetlen műnek minősül a mai napig.",
+          "Az oszlopok dombornyomott bronz és réz borítással készültek."
+        ],
+        "ro": [
+          "Ansamblu format din 16 coloane gigantice de 35 de metri înălțime.",
+          "Creat de sculptorul Zurab Tsereteli începând cu anul 1985.",
+          "Reprezintă o enciclopedie vizuală în bronz a istoriei Georgiei.",
+          "Situat pe un promontoriu deasupra lacului de acumulare Tbilisi.",
+          "Este considerat oficial un monument neterminat din era sovietică.",
+          "Structura interioară este din beton armat, placată cu panouri metalice."
+        ],
+        "en": [
+          "Features 16 massive pillars reaching up to 35 meters in height.",
+          "Designed by Zurab Tsereteli and commissioned in 1985.",
+          "Depicts significant events of Georgian history and the life of Christ.",
+          "Located on a high ridge overlooking the Tbilisi Sea reservoir.",
+          "Considered a premier example of late Soviet-era monumentalism.",
+          "Constructed using reinforced concrete, bronze, and copper plating."
+        ]
+      }
+    },
+    {
+      "id": "gabriadze-theater-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gabriadze-Theater in der Altstadt von Tiflis ist eines der charmantesten und kulturell bedeutendsten Puppentheater der Welt. Geografisch liegt es in einer schmalen Gasse der Schardeni-Straße, unweit der Antschischati-Basilika. Historisch wurde das Theater 1981 vom legendären georgischen Regisseur, Maler und Puppenspieler Rezo Gabriadze gegründet. Das markanteste Merkmal des Gebäudes ist der skurrile, scheinbar einstürzende Uhrturm, der im Jahr 2010 hinzugefügt wurde. Dieser Turm wurde aus tausenden von Gabriadze gesammelten antiken Ziegeln und Fliesen erbaut und wirkt wie ein märchenhaftes Kunstwerk. Jede volle Stunde erscheint ein kleiner Engel aus einer Tür an der Spitze und schlägt die Glocke, während zweimal täglich ein mechanisches Puppenspiel mit dem Titel 'Der Kreislauf des Lebens' aufgeführt wird. Ökonomisch ist das Theater ein zentraler Pfeiler des georgischen Kulturexports; seine Stücke wurden weltweit ausgezeichnet. Technisch gesehen kombiniert das Theater traditionelle Handpuppenkunst mit anspruchsvoller Dramaturgie und Bühnenbildgestaltung. Die Stücke, oft melancholisch und poetisch, thematisieren philosophische Fragen der Menschheit. Das Theater beherbergt zudem ein kleines Café, das ebenfalls von Gabriadze gestaltet wurde, und ist ein lebendiges Denkmal für die künstlerische Freiheit und den grenzenlosen Einfallsreichtum seines Schöpfers.",
+        "hu": "A tbiliszi óvárosban található Gabriadze Színház a világ egyik legkülönlegesebb és legelismertebb bábszínháza. Földrajzilag a Sardeni negyed egyik szűk utcájában, az Ancsiszháti-bazilika szomszédságában fekszik. Történelmileg a színházat 1981-ben alapította Rezo Gabriadze, a neves grúz filmrendező, festő és bábos. Az épület legikonikusabb része a 2010-ben hozzáépített, szándékosan düledezőnek tűnő óratorony, amelyet Gabriadze maga épített több ezer gyűjtött antik téglából és csempéből. Minden órában egy mechanikus angyal jön ki a torony tetején és kongatja meg a harangot, naponta kétszer pedig egy apró bábelőadás, „Az élet körforgása” látható a torony oldalában. Gazdaságilag a színház Grúzia egyik legfontosabb kulturális nagykövete, előadásai a világ legnagyobb színpadain is sikert arattak. Technikai szempontból a teátrum a hagyományos bábjátékot ötvözi a modern dramaturgiával és a művészi látványvilággal. Az előadások gyakran költőiek és mélyen emberiek, olyan darabokkal, mint a „Sztálingrádi csata” vagy az „Őszöm tavasza”. A színház mellett található kávézó szintén Gabriadze keze munkáját dicséri, így az egész komplexum egy egységes művészeti univerzumot alkot, amely a grúz kreativitás szimbólumává vált.",
+        "ro": "Teatrul Gabriadze din centrul vechi al orașului Tbilisi este unul dintre cele mai prestigioase teatre de marionete din lume, fiind un reper al creativității georgiene contemporane. Geografic, acesta este situat pe o stradă îngustă lângă Bazilica Anchiskhati. Din punct de vedere istoric, teatrul a fost fondat în 1981 de regizorul și artistul Rezo Gabriadze. Elementul cel mai recognoscibil al ansamblului este Turnul cu Ceas, adăugat în 2010, care are un aspect intenționat precar și asimetric. Turnul a fost construit utilizând cărămizi vechi și fragmente ceramice recuperate de artist, integrând la bază un mic panou decorativ din majolică realizat de Gabriadze însuși. La fiecare oră fixă, un înger mecanic iese printr-o ușă superioară pentru a bate clopotul, iar de două ori pe zi, un mecanism complex pune în mișcare piesa „Cercul Vieții”. Economic, teatrul este o instituție culturală de elită, piesele sale participând la cele mai importante festivaluri internaționale. Tehnic, producțiile sale se remarcă prin finețea marionetelor și profunzimea scenariilor care abordează teme filosofice prin metafore poetice. Întregul complex, care include și o cafenea decorată de artist, funcționează ca un muzeu viu al geniului lui Gabriadze, fiind un punct de atracție major pentru turiștii interesați de arta autentică.",
+        "en": "The Gabriadze Theater, located in Tbilisi's historic Old Town, is one of the world's most unique and celebrated puppet theaters. Geographically, it is situated in a narrow alley near the Anchiskhati Basilica. Historically, the theater was founded in 1981 by the legendary Georgian film director, painter, and puppeteer Rezo Gabriadze. The building's most iconic feature is the whimsical Leaning Clock Tower, added in 2010, which appears to be on the verge of collapse. The tower was meticulously constructed using thousands of salvaged antique bricks and tiles collected by Gabriadze over the years. Every hour, a mechanical angel emerges from a door at the top to strike the bell, while twice daily, a small puppet performance titled 'The Circle of Life' is displayed on a moving platform within the tower. Economically, the theater is a premier cultural ambassador for Georgia, with its productions winning international acclaim. Technically, it blends traditional puppetry with complex stagecraft and poetic storytelling. The plays often tackle profound philosophical themes with a unique blend of melancholy and humor. The complex also features a café designed by Gabriadze himself, creating a unified artistic environment that has become a symbol of Tbilisi's bohemian soul."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet 1981 vom georgischen Künstler Rezo Gabriadze.",
+          "Der markante schiefe Uhrturm wurde erst 2010 errichtet.",
+          "Beherbergt die kleinste Marionetten-Bühne Georgiens.",
+          "Stündlicher Auftritt eines mechanischen Engels an der Turmspitze.",
+          "Die Fassade enthält ein Mosaik aus tausenden antiken Ziegeln.",
+          "Bekannt für weltberühmte Stücke wie 'Die Schlacht von Stalingrad'."
+        ],
+        "hu": [
+          "Rezo Gabriadze alapította 1981-ben, Grúzia első bábszínházaként.",
+          "Az ikonikus ferde óratornyot 2010-ben adták hozzá az épülethez.",
+          "A torony oldalán naponta kétszer látható „Az élet körforgása” játék.",
+          "Az épület díszítéséhez Gabriadze antik, bontott téglákat használt.",
+          "Világszerte turnéznak olyan darabokkal, mint az „Őszöm tavasza”.",
+          "A színház melletti kávézó szintén a névadó művész alkotása."
+        ],
+        "ro": [
+          "Fondat în 1981 de artistul multitalentat Rezo Gabriadze.",
+          "Turnul cu Ceas, construit din materiale recuperate, a fost finalizat în 2010.",
+          "Un înger mecanic bate clopotul turnului la fiecare oră fixă.",
+          "Include un mecanism de tip teatru de păpuși stradal numit 'Cercul Vieții'.",
+          "Sediul unei companii de marionete cu turnee mondiale de succes.",
+          "Localizat în inima cartierului istoric de lângă cea mai veche biserică din oraș."
+        ],
+        "en": [
+          "Established in 1981 by puppet master and filmmaker Rezo Gabriadze.",
+          "The distinctive leaning tower was hand-built by the artist in 2010.",
+          "Features a mechanical puppet show that performs twice daily at 12:00 and 19:00.",
+          "Constructed using recycled bricks and unique majolica ceramics.",
+          "Home to world-renowned productions like 'The Battle of Stalingrad'.",
+          "The tower incorporates a small golden angel that strikes a bell hourly."
+        ]
+      }
+    },
+    {
+      "id": "tbilisi-tv-tower-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fernsehturm von Tiflis ist das weithin sichtbare technologische Wahrzeichen der georgischen Hauptstadt und prägt deren nächtliche Skyline. Geografisch thront der Turm auf dem Gipfel des Mount Mtatsminda, etwa 710 Meter über dem Meeresspiegel, was seine Gesamthöhe und Signalreichweite massiv steigert. Historisch wurde der heutige Stahlgitterturm im Jahr 1972 errichtet und ersetzte eine kleinere Anlage aus den 1950er Jahren. Mit einer Eigenhöhe von rund 274 Metern ist er eines der höchsten Bauwerke des Landes. Technisch zeichnet sich der Turm durch seine charakteristische Dreibein-Struktur aus, die für die seismisch aktive Kaukasusregion besonders stabil konstruiert wurde. Er dient als primärer Sender für Fernsehen, Radio und Mobilfunknetze in Ostgeorgien. Ökonomisch ist der Turm ein zentrales Glied der nationalen Kommunikationsinfrastruktur, wird aber auch touristisch genutzt: Die nächtliche LED-Illumination ist ein fester Bestandteil des Stadtmarketings und kann farblich an nationale Feiertage oder Ereignisse angepasst werden. Obwohl das Betreten des Turms für die Öffentlichkeit derzeit nicht möglich ist, bildet er zusammen mit dem angrenzenden Mtatsminda-Park und der Seilbahn ein unverzichtbares Ensemble für Besucher. Der Turm symbolisiert die technologische Modernisierung Georgiens während der Sowjetära und bleibt bis heute ein unverwechselbarer Orientierungspunkt im Kura-Tal.",
+        "hu": "A tbiliszi tévétorony a grúz főváros legmagasabb pontján elhelyezkedő technológiai jelképe, amely éjszakai kivilágításával meghatározza a város látképét. Földrajzilag a Mtacminda-hegy csúcsán található, mintegy 710 méterrel a tengerszint felett, ami kiemelt stratégiai helyzetet biztosít a műsorszórás számára. Történelmileg a jelenlegi acélszerkezetes tornyot 1972-ben építették, felváltva az 1950-es évekből származó kisebb elődjét. A torony magassága körülbelül 274 méter, így Grúzia egyik legmagasabb építménye. Technikai szempontból a torony egyedi háromlábú tartószerkezettel rendelkezik, amelyet úgy terveztek, hogy ellenálljon a Kaukázusban előforduló földrengéseknek. Kelet-Grúzia elsődleges televíziós, rádiós és mobilkommunikációs adóállomásaként funkcionál. Gazdaságilag a torony a nemzeti hírközlési infrastruktúra kulcseleme, de városmarketing szempontból is jelentős: modern LED-világítása révén az éjszakai Tbiliszi leglátványosabb eleme, amely nemzeti ünnepekkor a zászló színeibe öltözik. Bár a torony belseje nem látogatható a nagyközönség számára, a környező Mtacminda-parkkal és a siklóval együtt a város legnépszerűbb szabadidős övezetének része. A torony a szovjet korszak technológiai fejlődésének mementója, amely a mai napig az első számú tájékozódási pont a Kura folyó völgyében.",
+        "ro": "Turnul de Televiziune din Tbilisi este un simbol tehnologic dominant al capitalei georgiene, fiind vizibil din aproape orice punct al orașului. Geografic, acesta este amplasat pe vârful muntelui Mtatsminda, la o altitudine de aproximativ 710 metri deasupra nivelului mării, poziție care îi oferă o acoperire optimă pentru radiodifuziune. Din punct de vedere istoric, structura actuală din oțel a fost finalizată în anul 1972, înlocuind vechiul emițător din anii '50. Cu o înălțime proprie de circa 274 de metri, turnul figurează printre cele mai înalte construcții din țară. Tehnic, turnul se remarcă prin baza sa trepied, o soluție inginerească robustă adaptată riscului seismic din Caucaz. Acesta deservește rețelele naționale de televiziune, radio și telefonie mobilă pentru întreaga Georgie de Est. Economic, pe lângă rolul vital în comunicații, turnul contribuie la atractivitatea turistică a capitalei prin sistemul său avansat de iluminat cu LED-uri, care transformă edificiul într-un spectacol vizual nocturn. Deși accesul publicului în interior este restricționat din motive de securitate, turnul este inima parcului de distracții Mtatsminda. Acesta rămâne o dovadă a modernizării infrastructurii din perioada sovietică, fiind astăzi un reper de neînlocuit al identității urbane din valea râului Kura.",
+        "en": "The Tbilisi TV Broadcasting Tower is the most prominent technological landmark of the Georgian capital, defining its skyline both day and night. Geographically, the tower is perched atop Mount Mtatsminda, roughly 710 meters above sea level, providing it with a commanding strategic advantage for signal transmission. Historically, the current steel-lattice structure was completed in 1972, replacing a smaller tower built in the 1950s. Standing at approximately 274 meters tall, it remains one of the tallest structures in Georgia. Technically, the tower features a distinctive tripod design, engineered for high stability in the seismically active Caucasus region. It serves as the primary transmission hub for television, radio, and mobile telecommunications across Eastern Georgia. Economically, the tower is a vital component of the national communication network and a key element of the city's branding; its advanced LED lighting system is often adjusted to reflect national colors or support international events. Although not open to the general public for tours, it is part of the larger Mtatsminda Park complex accessible by funicular. The tower stands as a symbol of mid-century technological progress and serves as the ultimate navigational reference point in the Kura River valley."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wurde im Jahr 1972 auf dem Gipfel des Mtatsminda errichtet.",
+          "Besitzt eine Gesamthöhe von 274 Metern über dem Bodenniveau.",
+          "Die Turmbasis liegt ca. 710 Meter über dem Meeresspiegel.",
+          "Einzigartige dreibeinige Stahlgitterkonstruktion gegen Erbeben.",
+          "Primäres Sendezentrum für Radio- und TV-Signale in Georgien.",
+          "Verfügt über ein computergesteuertes LED-Illuminationssystem."
+        ],
+        "hu": [
+          "1972-ben építették a Mtacminda-hegy legmagasabb pontján.",
+          "Saját magassága 274 méter, így Grúzia egyik legmagasabb építménye.",
+          "A tengerszint felett több mint 980 méteres magasságig ér a csúcsa.",
+          "Különleges háromlábú acélszerkezete ellenáll a nagy erejű szeleknek.",
+          "Északkelet-Grúzia legfontosabb távközlési csomópontja.",
+          "Éjszakai kivilágítása a tbiliszi városmarketing meghatározó eleme."
+        ],
+        "ro": [
+          "Inaugurat în 1972 pentru a moderniza emisia TV în RSS Georgiană.",
+          "Înălțimea structurii metalice este de 274 de metri.",
+          "Emițătorul principal pentru regiunile estice ale țării.",
+          "Arhitectură de tip trepied, rezistentă la cutremure de intensitate mare.",
+          "Situat în vârful muntelui Mtatsminda, accesibil cu funicularul.",
+          "Sistemul de iluminat nocturn utilizează tehnologie LED de ultimă oră."
+        ],
+        "en": [
+          "Constructed in 1972 as a major Soviet telecommunications project.",
+          "Stands 274 meters tall, making it a dominant feature of the skyline.",
+          "Perched on a peak 710 meters above sea level.",
+          "Features a specialized tripod foundation to withstand seismic activity.",
+          "The central hub for all terrestrial broadcasting in Eastern Georgia.",
+          "Famous for its nightly dynamic LED displays visible from 50km away."
+        ]
+      }
+    },
+    {
+      "id": "ali-and-nino-statue-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ali-und-Nino-Statue in Batumi ist ein weltweit bekanntes kinetisches Kunstwerk, das für seine tiefgreifende Symbolik und technische Raffinesse bewundert wird. Geografisch liegt die Statue an der Küste des Schwarzen Meeres, direkt am Boulevard von Batumi. Das Werk wurde von der georgischen Bildhauerin Tamara Kvesitadze entworfen und im Jahr 2010 installiert. Die acht Meter hohen Figuren bestehen aus segmentierten Stahlscheiben und stellen die Charaktere des berühmten Romans von Kurban Said dar: einen aserbaidschanischen muslimischen Jungen und eine georgische christliche Prinzessin. Die technische Besonderheit liegt in der Bewegung: Alle zehn Minuten bewegen sich die beiden Figuren aufeinander zu, verschmelzen für einen Moment zu einer Einheit und entfernen sich dann wieder voneinander. Dieser Zyklus symbolisiert die tragische Unmöglichkeit ihrer Liebe und die Versöhnung zwischen Kulturen und Religionen. Ökonomisch ist die Statue das meistbesuchte Denkmal der Stadt und ein zentrales Motiv des georgischen Tourismusmarketings. Nachts wird das Kunstwerk durch ein wechselndes Farbspiel beleuchtet, was die dynamische Ästhetik verstärkt. Die Statue ist nicht nur ein Denkmal für eine literarische Vorlage, sondern ein Symbol für den Kaukasus als Ort der Begegnung und des ständigen Wandels.",
+        "hu": "A Batumiban található Ali és Nino szobor egy világszerte ismert kinetikus műalkotás, amely mély szimbolikájával és technikai bravúrjával nyűgözi le a látogatókat. Földrajzilag a Fekete-tenger partján, a Batumi sugárút végén helyezkedik el. Az alkotást Tamara Kveszitadze grúz szobrászművésznő tervezte, és 2010-ben állították fel. A nyolc méter magas figurák vízszintes acélszeletekből épülnek fel, és Kurban Said híres regényének főhőseit, egy azeri muszlim fiút és egy grúz keresztény hercegnőt ábrázolnak. A technikai különlegessége a mozgásban rejlik: tízpercenként a két alak közeledni kezd egymáshoz, egy pillanatra eggyé válnak, majd áthaladnak egymáson és ismét eltávolodnak. Ez a ciklus a tragikus szerelem lehetetlenségét, valamint a kultúrák és vallások közötti megbékélést szimbolizálja. Gazdaságilag a szobor Batumi legfőbb turisztikai látványossága, amely évente több millió látogatót vonz a városba. Éjszaka a műalkotást váltakozó színű fényekkel világítják meg, ami még látványosabbá teszi a kinetikus folyamatot. A szobor mára nemcsak egy irodalmi mű emlékműve, hanem a Kaukázus mint a kultúrák találkozási pontjának globális jelképévé vált.",
+        "ro": "Statuia Ali și Nino din Batumi este o operă de artă cinetică de renume mondial, celebră pentru simbolismul său profund și execuția tehnică ingenioasă. Geografic, monumentul este situat pe faleza Mării Negre, în zona portuară a orașului Batumi. Lucrarea a fost creată de sculptorița georgiană Tamara Kvesitadze și inaugurată în anul 2010. Figurile, înalte de opt metri, sunt realizate din discuri de oțel stratificate orizontal și îi reprezintă pe protagoniștii celebrului roman al lui Kurban Said: Ali, un tânăr musulman azer, și Nino, o prințesă creștină georgiană. Particularitatea tehnică constă în mișcarea lor continuă: la fiecare zece minute, cele două siluete se apropie, se întrepătrund pentru o clipă formând un singur corp, apoi se îndepărtează din nou. Acest ciclu cinetic simbolizează imposibilitatea tragică a iubirii lor și, în același timp, dialogul necesar între culturi și religii. Economic, statuia este cel mai fotografiat reper al orașului, fiind un motor esențial pentru turismul din regiunea Adjara. Noaptea, instalația este iluminată policrom, subliniind dinamismul structurilor metalice. Ali și Nino nu este doar un monument literar, ci un simbol al Georgiei moderne ca spațiu al reconcilierii și al avangardei artistice.",
+        "en": "The Ali and Nino statue in Batumi is a world-renowned kinetic masterpiece, admired for its profound symbolism and technical ingenuity. Geographically, it is located on the Black Sea coast at the end of the Batumi Boulevard. The work was designed by Georgian sculptor Tamara Kvesitadze and installed in 2010. The eight-meter-tall figures are constructed from horizontal steel plates and represent the characters from Kurban Said's famous novel: an Azerbaijani Muslim youth and a Georgian Christian princess. The technical brilliance of the piece lies in its movement: every ten minutes, the two figures slowly move toward each other, merge briefly into a single form, and then pass through one another to move apart. This cycle symbolizes the tragic impossibility of their union and the broader theme of reconciliation between different cultures and faiths. Economically, the statue is Batumi's most visited landmark and a central icon of Georgia’s tourism marketing. At night, the artwork is enhanced by a changing light display, highlighting the dynamic flow of the steel segments. The statue has become more than a literary monument; it is a global symbol of the Caucasus as a crossroads of civilization and perpetual transformation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Entworfen von der georgischen Bildhauerin Tamara Kvesitadze.",
+          "Kinetische Skulptur mit einer Gesamthöhe von acht Metern.",
+          "Der vollständige Bewegungszyklus dauert genau zehn Minuten.",
+          "Basierend auf dem berühmten Roman 'Ali und Nino' von Kurban Said.",
+          "Die Figuren bestehen aus wetterbeständigen, segmentierten Stahlscheiben.",
+          "Wurde im Jahr 2010 im Hafenviertel von Batumi eingeweiht."
+        ],
+        "hu": [
+          "Tamara Kveszitadze grúz szobrászművésznő alkotása.",
+          "8 méter magas kinetikus szobor, amely folyamatos mozgásban van.",
+          "Egy teljes mozgási ciklus körülbelül 10 percig tart.",
+          "Kurban Said 1937-ben megjelent világhírű regénye ihlette.",
+          "A figurák vízszintes acéllemezekből épülnek fel, lehetővé téve az áthaladást.",
+          "A szobor a kultúrák és vallások közötti örök párbeszéd szimbóluma."
+        ],
+        "ro": [
+          "Opera de artă cinetică a sculptoriței Tamara Kvesitadze.",
+          "Înălțime de opt metri, realizată integral din discuri de oțel inoxidabil.",
+          "Ciclul de mișcare complet (apropiere și separare) durează 10 minute.",
+          "Inspirată de romanul omonim publicat sub pseudonimul Kurban Said.",
+          "Simbolizează unitatea și diversitatea culturală a regiunii Caucaz.",
+          "Punct de atracție major situat la intrarea în portul Batumi din 2010."
+        ],
+        "en": [
+          "Designed by the acclaimed Georgian sculptor Tamara Kvesitadze.",
+          "A kinetic sculpture standing eight meters tall.",
+          "The full cycle of movement takes exactly ten minutes to complete.",
+          "Based on the 1937 novel 'Ali and Nino' by the author Kurban Said.",
+          "Constructed using layered steel plates to allow the figures to pass through each other.",
+          "Illuminated with vibrant, changing LED colors during the night."
+        ]
+      }
+    },
+    {
+      "id": "alphabet-tower-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Alphabet-Turm in Batumi ist ein markantes architektonisches Denkmal, das die Einzigartigkeit der georgischen Sprache und Schrift zelebriert. Geografisch steht der 130 Meter hohe Turm in prominenter Lage im sogenannten 'Wunderland-Park' an der Küste des Schwarzen Meeres. Das Bauwerk wurde vom spanischen Architekten Alberto Domingo Cabo entworfen und im Jahr 2011 fertiggestellt. Das Design ist einer Doppelhelix-Struktur der DNA nachempfunden, was symbolisiert, dass die georgische Schrift der genetische Code der Nation ist. Um den zentralen Kern des Turms winden sich zwei Bänder, auf denen alle 33 Buchstaben des georgischen Alphabets (Mkhedruli) aus Aluminium angebracht sind. Technisch beeindruckt der Turm durch seine Leichtigkeit trotz der massiven Stahlkonstruktion. An der Spitze befindet sich eine große Glaskugel, die eine Aussichtsplattform, ein Drehrestaurant und technische Räume beherbergt. Ökonomisch ist der Alphabet-Turm ein wichtiger Bestandteil der modernen Identität Batumis und zieht Touristen an, die einen Panoramablick über die Stadt und das Meer suchen. Georgisch ist eine der wenigen eigenständigen Schriften der Welt, und der Turm dient als stolzes Bekenntnis zu diesem immateriellen Kulturerbe inmitten der rasant wachsenden Architekturlandschaft von Adjara.",
+        "hu": "A batumi Ábécé-torony (Alphabet Tower) egy különleges építészeti emlékmű, amely a grúz nyelv és írás egyediségét hirdeti. Földrajzilag a 130 méter magas torony a Fekete-tenger partján, a „Csodaország parkban” található. Az építményt Alberto Domingo Cabo spanyol építész tervezte, és 2011-ben adták át. A torony kialakítása a DNS kettős hélix szerkezetét mintázza, ami azt jelképezi, hogy a grúz írás a nemzet „genetikai kódja”. A központi mag körül két szalag fut végig, amelyeken a grúz ábécé (mhedruli) mind a 33 betűje helyet kapott, alumíniumból kiöntve. Technikai szempontból a torony egy könnyed acélszerkezet, amelynek tetején egy hatalmas üveggömb található. Ebben a gömbben kilátóterasz, egy forgó étterem és technikai helyiségek kaptak helyet. Gazdaságilag az Ábécé-torony Batumi modern arculatának egyik legfontosabb eleme, és népszerű célpont a turisták körében, akik panorámás kilátást keresnek a városra és a tengerre. A grúz írás a világ kevés teljesen önálló írásrendszerének egyike, és a torony büszke mementója ennek a szellemi örökségnek Adzsara rohamosan fejlődő építészeti környezetében.",
+        "ro": "Turnul Alfabetului din Batumi este un monument arhitectural distinctiv care celebrează unicitatea limbii și scrierii georgiene. Geografic, turnul înalt de 130 de metri ocupă o poziție proeminentă în „Parcul Minunilor”, pe malul Mării Negre. Edificiul a fost proiectat de arhitectul spaniol Alberto Domingo Cabo și finalizat în anul 2011. Designul său este inspirat de structura dublu-elicoidală a ADN-ului, simbolizând faptul că alfabetul georgian constituie codul genetic al națiunii. În jurul nucleului central al turnului sunt dispuse două benzi metalice pe care sunt aplicate toate cele 33 de litere ale alfabetului georgian (Mkhedruli), realizate din aluminiu. Din punct de vedere tehnic, turnul impresionează prin structura sa metalică aerisită, având în vârf o sferă de sticlă de mari dimensiuni. Această sferă găzduiește o platformă de observație, un restaurant rotativ și spații tehnice. Economic, Turnul Alfabetului este un element central al identității moderne a orașului Batumi, atrăgând numeroși turiști dornici de panorame spectaculose asupra litoralului. Limba georgiană folosește unul dintre puținele sisteme de scriere unice din lume, iar turnul reprezintă o recunoaștere monumentală a acestui patrimoniu cultural imaterial.",
+        "en": "The Alphabet Tower in Batumi is a striking architectural monument that celebrates the uniqueness of the Georgian language and script. Geographically, the 130-meter-tall tower stands in a prominent position within 'Miracle Park' on the Black Sea coast. Designed by Spanish architect Alberto Domingo Cabo, the tower was completed in 2011. Its design mimics the double-helix structure of DNA, symbolizing that the Georgian alphabet is the nation's genetic code. Two bands wind around the tower's central core, featuring all 33 letters of the Georgian script (Mkhedruli), crafted from aluminum. Technically, the tower is a feat of modern steel-lattice engineering, crowned by a large glass sphere. This sphere houses an observation deck, a rotating restaurant, and technical facilities. Economically, the Alphabet Tower is a cornerstone of Batumi's modern urban identity and a major destination for tourists seeking panoramic views of the city and the sea. Georgian is one of the world's few original writing systems, and the tower serves as a proud testament to this intangible cultural heritage amidst the rapidly evolving architectural landscape of the Adjara region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gesamthöhe von 130 Metern, erbaut aus Stahl und Aluminium.",
+          "Entworfen vom spanischen Architekten Alberto Domingo Cabo.",
+          "Die DNA-Struktur symbolisiert den genetischen Code der georgischen Nation.",
+          "Zeigt alle 33 Buchstaben des georgischen Alphabets an der Außenhülle.",
+          "Beherbergt ein rotierendes Panorama-Restaurant in der Glaskugel.",
+          "Wurde im Jahr 2011 als Teil der Stadterneuerung Batumis fertiggestellt."
+        ],
+        "hu": [
+          "A torony teljes magassága 130 méter, fő anyaga acél.",
+          "Alberto Domingo Cabo spanyol építész tervei alapján készült.",
+          "A kettős hélix forma a grúz nyelv és a nemzeti DNS kapcsolatát jelképezi.",
+          "A torony külső vázán a grúz ábécé mind a 33 betűje megtalálható.",
+          "A csúcsán lévő üveggömbben 360 fokos panorámát nyújtó kilátó van.",
+          "Az épület Batumi modern tengerparti városképének meghatározó eleme."
+        ],
+        "ro": [
+          "Structură metalică cu o înălțime de 130 de metri.",
+          "Arhitectul spaniol Alberto Domingo Cabo este autorul proiectului.",
+          "Simbolizează alfabetul georgian ca element vital al ADN-ului național.",
+          "Exteriorul turnului este decorat cu cele 33 de litere ale scrierii Mkhedruli.",
+          "Include o sferă de observație cu restaurant panoramic rotativ.",
+          "Finalizat în 2011, fiind un punct cheie al dezvoltării urbane din Adjara."
+        ],
+        "en": [
+          "Stands at a height of 130 meters on the Batumi shoreline.",
+          "Conceptualized by the Spanish architect Alberto Domingo Cabo.",
+          "The DNA helix design represents the linguistic heritage of Georgia.",
+          "Adorned with all 33 characters of the unique Georgian alphabet.",
+          "Features a large glass sphere containing a rotating restaurant.",
+          "A major landmark of Batumi's post-2010 architectural boom."
+        ]
+      }
+    }
+  ]
+}

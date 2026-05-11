@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "guneid-sugar-factory-economic-v2",
+      "description": "A traditional sugar manufacturing hub serving local and regional markets.",
+      "facts": ["Sugar factory", "Guneid location", "Agricultural industry", "Processing facility"]
+    },
+    {
+      "id": "new-halfa-sugar-factory-economic-v2",
+      "description": "An essential sugar processing plant supporting the agricultural sector in the New Halfa area.",
+      "facts": ["Sugar factory", "New Halfa site", "Agricultural processing", "Regional production"]
+    },
+    {
+      "id": "sennar-sugar-factory-economic-v2",
+      "description": "A vital industrial site for sugar production near the Sennar region.",
+      "facts": ["Sugar manufacturing", "Sennar location", "Agro-industrial facility", "Regional economic site"]
+    },
+    {
+      "id": "al-jaili-oil-refinery-economic-v2",
+      "description": "A key oil refining facility contributing significantly to Sudan's energy production.",
+      "facts": ["Oil refinery", "Al-Jaili location", "Energy infrastructure", "National fuel supply"]
+    },
+    {
+      "id": "el-obeid-oil-refinery-economic-v2",
+      "description": "An important oil refining plant facilitating regional energy needs.",
+      "facts": ["Oil refinery", "El-Obeid site", "Energy processing", "Regional hub"]
+    },
+    {
+      "id": "port-sudan-oil-refinery-economic-v2",
+      "description": "A major refinery located at the Red Sea, processing crude oil for domestic use.",
+      "facts": ["Red Sea refinery", "Energy infrastructure", "Port Sudan site", "Crude processing"]
+    },
+    {
+      "id": "atbara-cement-factory-economic-v2",
+      "description": "A prominent cement manufacturing facility driving construction growth in the north.",
+      "facts": ["Cement production", "Atbara location", "Construction supplies", "Industrial plant"]
+    },
+    {
+      "id": "rabak-nile-cement-economic-v2",
+      "description": "A large-scale cement factory operating near the White Nile to supply the construction industry.",
+      "facts": ["Cement manufacturing", "White Nile site", "Construction materials", "Regional industry"]
+    },
+    {
+      "id": "berber-cement-factory-economic-v2",
+      "description": "A major industrial plant dedicated to high-quality cement production in the Berber region.",
+      "facts": ["Cement production", "Berber site", "Industrial output", "Construction supply"]
+    },
+    {
+      "id": "al-takamul-cement-economic-v2",
+      "description": "An important cement production site supporting Sudan's infrastructure development.",
+      "facts": ["Cement factory", "Infrastructure supply", "Production site", "Industrial base"]
+    }
+  ]
+}

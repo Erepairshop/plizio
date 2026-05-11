@@ -1,0 +1,45 @@
+{
+  "lang": "ro",
+  "country": "Qatar",
+  "files": [
+    "lib/visualLab/data/poiExtraQatarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraQatarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qatar-barzan-towers-history-v2",
+      "description": "Turnuri de veghe fortificate construite la sfârșitul secolului al XIX-lea în zona Umm Salal Mohammed. Au fost utilizate pentru supravegherea intrărilor în porturi și colectarea apei pluviale.",
+      "facts": ["Construite din piatră și calcar", "Renovate în 2003", "Înălțime de 16 metri", "Situate la nord de Doha"]
+    },
+    {
+      "id": "qatar-al-rakiyat-fort-history-v2",
+      "description": "Un fort rectangular istoric situat în nord-vestul peninsulei Qatar, datând probabil din secolul al XIX-lea. Structura a fost ridicată pentru a proteja resursele locale de apă dulce.",
+      "facts": ["Fort deșertic tradițional", "Pereți înalți de piatră", "Include o fântână interioară", "Situat lângă Madinat ash Shamal"]
+    },
+    {
+      "id": "qatar-al-jumail-village-history-v2",
+      "description": "Un fost sat de pescari și scafandri de perle abandonat pe coasta de nord a Qatarului. Situl păstrează ruinele locuințelor tradiționale construite din piatră și lut.",
+      "facts": ["Așezare abandonată", "Arhitectură tradițională din piatră", "Istoric legat de perle", "Situat pe coasta nordică"]
+    },
+    {
+      "id": "qatar-al-thaqab-fort-history-v2",
+      "description": "Fort izolat construit în secolele al XVIII-lea sau al XIX-lea în regiunea de nord-vest a Qatarului. A servit drept punct defensiv strategic pentru protejarea așezărilor din apropiere.",
+      "facts": ["Construcție din piatră și noroi", "Trei turnuri de colț", "Utilizat pentru apărare", "Situat aproape de Al Zubarah"]
+    },
+    {
+      "id": "qatar-wind-tower-house-history-v2",
+      "description": "O clădire istorică din Doha cunoscută pentru sistemul său tradițional de ventilație prin turn (barjeel). Această construcție demonstrează ingeniozitatea arhitecturală locală în climatul arid.",
+      "facts": ["Sistem de răcire pasiv", "Arhitectură tradițională qatareză", "Situat în inima orașului Doha", "Elemente de design istoric"]
+    },
+    {
+      "id": "wadi-al-banat-relief-v2",
+      "description": "O vale (wadi) situată în partea de nord a peninsulei Qatar, caracterizată printr-un teren arid cu vegetație sporadică. Zona este reprezentativă pentru geografia deșertică a regiunii.",
+      "facts": ["Vale deșertică aridă", "Vegetație de tip xerofit", "Relief plat și nisipos", "Zona de drenaj natural"]
+    },
+    {
+      "id": "wadi-msheireb-relief-v2",
+      "description": "O vale situată în proximitatea capitalei, transformată semnificativ prin dezvoltările urbane moderne. Istoric, a reprezentat o arteră naturală de drenaj a apelor pluviale către coastă.",
+      "facts": ["Situat lângă Doha", "Relief ușor înclinat", "Zonă de drenaj istorică", "Impact urban semnificativ"]
+    }
+  ]
+}

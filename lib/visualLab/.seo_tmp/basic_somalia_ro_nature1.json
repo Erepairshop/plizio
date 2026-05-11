@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cal-madow-mountains-nature-v2",
+      "description": "Cal Madow sunt munți impresionanți în nordul Somaliei, cunoscuți pentru vegetația lor variată.",
+      "facts": ["Munți în nordul Somaliei", "Climat variat", "Biodiversitate bogată"]
+    },
+    {
+      "id": "golis-mountains-nature-v2",
+      "description": "Munții Golis formează o barieră naturală impunătoare între coasta nordică și interiorul platoului somalez.",
+      "facts": ["Barieră naturală", "Altitudine medie ridicată", "Peisaj stâncos"]
+    },
+    {
+      "id": "surud-cad-nature-v2",
+      "description": "Surud Cad este cel mai înalt vârf muntos din Somalia, situat în lanțul Cal Madow.",
+      "facts": ["Cel mai înalt vârf", "Lanțul muntos Cal Madow", "Altitudine peste 2400m"]
+    },
+    {
+      "id": "darin-island-nature-v2",
+      "description": "Insula Darin este situată în largul coastei de nord a Somaliei, oferind un habitat marin diversificat.",
+      "facts": ["Insulă în nord", "Habitat marin", "Zonă de coastă izolată"]
+    },
+    {
+      "id": "bajuni-islands-nature-v2",
+      "description": "Arhipelagul Bajuni este format din insule de corali de-a lungul coastei de sud a Somaliei.",
+      "facts": ["Insule de corali", "Coasta de sud", "Ecosistem marin"]
+    },
+    {
+      "id": "maydh-coast-nature-v2",
+      "description": "Coasta Maydh este o zonă maritimă pitorească situată pe țărmul Golfului Aden.",
+      "facts": ["Țărmul Golfului Aden", "Peisaj maritim", "Zona istorică"]
+    },
+    {
+      "id": "hordio-lagoon-nature-v2",
+      "description": "Laguna Hordio este o zonă umedă importantă situată lângă vârful estic al Cornului Africii.",
+      "facts": ["Zonă umedă", "Cornul Africii", "Importanță ecologică"]
+    },
+    {
+      "id": "ras-casir-nature-v2",
+      "description": "Ras Casir (Capul Guardafui) este punctul estic extrem al Africii, unde Marea Arabiei întâlnește Oceanul Indian.",
+      "facts": ["Punct estic extrem", "Confluență maritimă", "Peisaj spectaculos"]
+    },
+    {
+      "id": "ayaha-valley-nature-v2",
+      "description": "Valea Ayaha este o zonă de văi și câmpii din interiorul Somaliei, caracterizată prin vegetație aridă.",
+      "facts": ["Zonă de văi", "Vegetație aridă", "Peisaj interior"]
+    },
+    {
+      "id": "gacan-libaah-nature-v2",
+      "description": "Rezervația Gacan Libaah este o zonă montană protejată din regiunea Woqooyi Galbeed.",
+      "facts": ["Zonă protejată", "Regiunea Woqooyi Galbeed", "Faună locală"]
+    }
+  ]
+}

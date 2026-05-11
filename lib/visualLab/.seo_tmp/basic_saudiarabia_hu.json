@@ -1,0 +1,36 @@
+{
+  "lang": "hu",
+  "country": "Saudiarabia",
+  "files": [
+    "lib/visualLab/data/poiExtraSaudiarabiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSaudiarabiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSaudiarabiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "riyadh-cities-v2",
+      "description": "Rijád Szaúd-Arábia fővárosa és legnagyobb városa, amely a Najd-fennsíkon helyezkedik el. A város az ország politikai és közigazgatási központja.",
+      "facts": ["Népessége több mint 7 millió", "Tengerszint feletti magassága 600m", "Az ország pénzügyi központja"]
+    },
+    {
+      "id": "unayzah-cities-v2",
+      "description": "Unayzah a Qassim régió második legnagyobb városa, amely a történelem során fontos kereskedelmi állomás volt. A város oázisok és datolyapálma-ültetvények ölelik körül.",
+      "facts": ["Qassim tartományban található", "Hagyományos mezőgazdasági központ", "Ismert datolyatermesztéséről"]
+    },
+    {
+      "id": "quba-mosque-history-v2",
+      "description": "A Quba mecset Medina közelében található, és a világ egyik legősibb iszlám kegyhelye. A hagyomány szerint Mohamed próféta maga is részt vett az építésében.",
+      "facts": ["A legelső épült mecset", "Medina mellett található", "Fontos zarándokhely"]
+    },
+    {
+      "id": "omar-mosque-dumat-history-v2",
+      "description": "Az Omar mecset Dumat al-Jandalban található, és Szaúd-Arábia egyik legrégebbi iszlám emlékhelye. Jellegzetes minaretje a térség építészetének fontos eleme.",
+      "facts": ["Dumat al-Jandal városa", "Hagyományos iszlám építészet", "Történelmi jelentőségű épület"]
+    },
+    {
+      "id": "jabal-al-nour-landmarks-v2",
+      "description": "A Jabal al-Nour vagy Fény Hegye egy jelentős hegycsúcs Mekka közelében. A hegyen található a Hira-barlang, ahol a hagyomány szerint a kinyilatkoztatás történt.",
+      "facts": ["Mekka közelében emelkedik", "Itt található a Hira-barlang", "Vallási szempontból kiemelt"]
+    }
+  ]
+}

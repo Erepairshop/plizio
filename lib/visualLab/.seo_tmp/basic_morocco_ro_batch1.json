@@ -1,0 +1,70 @@
+{
+  "lang": "ro",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "meknes-zoo-kid-landmark-life-v2",
+      "description": "Grădina Zoologică Meknes prezintă o colecție de animale regionale și exotice, oferind o experiență educativă pentru familii.",
+      "facts": ["Animale regionale și exotice", "Meknes", "Experiență educativă"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "Sahara marocană este habitatul natural al dromaderilor, esențiali pentru transportul în deșert și viața nomadă.",
+      "facts": ["Dromaderi", "Transport deșert", "Viață nomadă"]
+    },
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "Zonele umede Oued Draa sunt un ecosistem important pentru păsările migratoare și fauna sălbatică locală din sudul Marocului.",
+      "facts": ["Zone umede", "Păsări migratoare", "Sudul Marocului"]
+    },
+    {
+      "id": "sebou-river-basin-agriculture-life-v2",
+      "description": "Bazinul râului Sebou este una dintre cele mai fertile regiuni agricole din Maroc, susținând diverse culturi.",
+      "facts": ["Regiune fertilă", "Diverse culturi", "Râul Sebou"]
+    },
+    {
+      "id": "tiznit-agriculture-life-v2",
+      "description": "Regiunea Tiznit combină agricultura tradițională cu producția de ulei de argan, contribuind la mijloacele de trai locale.",
+      "facts": ["Agricultură tradițională", "Ulei de argan", "Mijloace de trai locale"]
+    },
+    {
+      "id": "merzouga-kid-landmark-life-v2",
+      "description": "Merzouga este poarta către dunele Erg Chebbi, oferind peisaje spectaculoase de nisip și plimbări cu cămila.",
+      "facts": ["Dunele Erg Chebbi", "Plimbări cu cămila", "Peisaj deșertic"]
+    },
+    {
+      "id": "sebkha-tindouf-lake-nature-v2",
+      "description": "Sebkha Tindouf este un lac sărat vast în deșertul Sahara, o trăsătură geologică importantă și habitat pentru păsări.",
+      "facts": ["Lac sărat", "Deșertul Sahara", "Habitat păsări"]
+    },
+    {
+      "id": "rif-mountains-nature-v2",
+      "description": "Munții Rif, în nordul Marocului, se remarcă prin peisajele lor verzi luxuriante, pădurile de cedru și satele berbere tradiționale.",
+      "facts": ["Munții Rif", "Păduri de cedru", "Sate berbere"]
+    },
+    {
+      "id": "sebha-boughaba-lake-nature-v2",
+      "description": "Lacul Sebkha Boughaba este o zonă umedă protejată și un punct crucial de oprire pentru păsările migratoare lângă coasta Atlanticului.",
+      "facts": ["Zonă umedă protejată", "Păsări migratoare", "Coasta Atlanticului"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "Lacul Bin el Ouidane este un rezervor mare în Atlasul Mijlociu, popular pentru sporturile nautice și frumusețea sa peisagistică.",
+      "facts": ["Rezervor mare", "Atlasul Mijlociu", "Sporturi nautice"]
+    },
+    {
+      "id": "oued-ziz-nature-v2",
+      "description": "Oued Ziz este o vale fertilă în sudul Marocului, formată de râul Ziz, renumită pentru oazele și plantațiile de palmieri.",
+      "facts": ["Valea fertilă", "Râul Ziz", "Oaze"]
+    },
+    {
+      "id": "oued-guir-nature-v2",
+      "description": "Oued Guir este un râu sezonier care curge prin peisaje aride, creând oaze temporare în cursul său.",
+      "facts": ["Râu sezonier", "Peisaje aride", "Oaze temporare"]
+    }
+  ]
+}

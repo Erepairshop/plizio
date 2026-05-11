@@ -1,0 +1,130 @@
+{
+  "lang": "hu",
+  "country": "Haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiEconomicV2.ts",
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cite-soleil-manufacturing-economic-v2",
+      "description": "Port-au-Prince közelében fekvő ipari övezet, amely az ország textil- és könnyűiparának egyik központja.",
+      "facts": [
+        "Jelentős textilüzemek otthona",
+        "Közvetlen kikötői összeköttetés",
+        "Számos exportra termelő gyár",
+        "Fontos foglalkoztatási központ"
+      ]
+    },
+    {
+      "id": "saint-michel-agri-economic-v2",
+      "description": "Az Artibonite-völgy szélén elhelyezkedő mezőgazdasági régió, amely cukornád-termeléséről és clairin készítéséről híres.",
+      "facts": [
+        "Hagyományos cukornád-ültetvények",
+        "Híres helyi rumlepárlók",
+        "Dohánytermesztési hagyományok",
+        "Hegyvidéki mikroklíma"
+      ]
+    },
+    {
+      "id": "limonade-tech-economic-v2",
+      "description": "Haiti északi részén található technológiai és oktatási csomópont, az ország egyik legmodernebb egyetemi kampuszával.",
+      "facts": [
+        "Henri Christophe egyetemi kampusz",
+        "Modern kutatási infrastruktúra",
+        "Mezőgazdasági innovációs központ",
+        "Dominikai határközeli fekvés"
+      ]
+    },
+    {
+      "id": "port-margot-fishing-economic-v2",
+      "description": "Északi tengerparti település, ahol a halászat és a kakaótermesztés adja a helyi gazdaság alapját.",
+      "facts": [
+        "Hagyományos kisüzemi halászat",
+        "Kiváló minőségű kakaóbab",
+        "Trópusi gyümölcsösök",
+        "Tengerparti kereskedelmi pont"
+      ]
+    },
+    {
+      "id": "miragoane-industrial-zone-economic-v2",
+      "description": "Fontos kikötőváros és ipari zóna, amely történelmileg a bauxit- és alumíniumexport stratégiai pontja volt.",
+      "facts": [
+        "Mélyvízi tengeri kikötő",
+        "Ipari raktározási központ",
+        "Újrahasznosítási tevékenységek",
+        "Stratégiai déli elhelyezkedés"
+      ]
+    },
+    {
+      "id": "saint-louis-du-sud-port-economic-v2",
+      "description": "Déli partmenti kereskedelmi kikötő, amely a mezőgazdasági termékek szállításában játszik fontos szerepet.",
+      "facts": [
+        "Regionális áruszállítási csomópont",
+        "Történelmi erődök a közelben",
+        "Élénk helyi halpiac",
+        "Turisztikai potenciállal bíró öböl"
+      ]
+    },
+    {
+      "id": "bainet-fishing-economic-v2",
+      "description": "A déli partvidék elszigeteltebb, festői halászfaluja, ahol a tenger gyümölcseinek feldolgozása a fő bevételi forrás.",
+      "facts": [
+        "Artizán halászati technikák",
+        "Friss tengeri ételek exportja",
+        "Hegyi utak általi megközelítés",
+        "Hagyományos csónaképítés"
+      ]
+    },
+    {
+      "id": "port-au-prince-airport-cargo-economic-v2",
+      "description": "A Toussaint Louverture nemzetközi repülőtér teherszállítási terminálja, az ország légi kereskedelmének kapuja.",
+      "facts": [
+        "Modern logisztikai raktárak",
+        "Vámügyintézési központ",
+        "Gyors romlandóáru-kezelés",
+        "Nemzetközi futárszolgálatok bázisa"
+      ]
+    },
+    {
+      "id": "fort-de-la-riviere-froide-history-v2",
+      "description": "A Port-au-Prince-től délre fekvő hegyekben található erőd, amely a főváros védelmére épült a gyarmati korszakban.",
+      "facts": [
+        "Stratégiai hegyi kilátópont",
+        "XVIII. századi alapok",
+        "Védelmi falmaradványok",
+        "A forradalmi harcok helyszíne"
+      ]
+    },
+    {
+      "id": "fort-des-anglais-history-v2",
+      "description": "Tiburon közelében található tengerparti erődítmény, amely a brit és francia gyarmati rivalizálás emlékét őrzi.",
+      "facts": [
+        "Parti tüzérségi állások",
+        "Strategikus fekvés az öbölben",
+        "Többszöri tulajdonosváltás",
+        "Viharvert kőfalak"
+      ]
+    },
+    {
+      "id": "fort-la-crete-history-v2",
+      "description": "Saint-Marc közelében emelt katonai védmű, amely a forradalom idején a szárazföldi útvonalakat ellenőrizte.",
+      "facts": [
+        "A függetlenségi háború bástyája",
+        "Masszív kőfalas szerkezet",
+        "Kilátás az Artibonite-öbölre",
+        "Katonai építészeti műemlék"
+      ]
+    },
+    {
+      "id": "fort-moulin-history-v2",
+      "description": "Az ország északi részén fekvő kisebb erődítmény, amely egykor cukormalmok és ültetvények védelmét látta el.",
+      "facts": [
+        "Ültetvényi gazdaság védműve",
+        "Kör alakú bástyaszerkezet",
+        "XVIII. századi francia stílus",
+        "Helyi mészkőből épült"
+      ]
+    }
+  ]
+}

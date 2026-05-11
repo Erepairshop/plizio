@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaLifeV2.ts",
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tpa-tower-landmarks-v2",
+      "description": "The PSPF Commercial Towers are prominent skyscrapers in Dar es Salaam, defining the city's modern skyline. Completed in 2014, they represent the growing commercial center of Tanzania.",
+      "facts": ["Completed in 2014", "Height of 153 meters", "Located in Dar es Salaam", "Modern office complex"]
+    },
+    {
+      "id": "zanzibar-gewuerzfarm-life-v2",
+      "description": "Zanzibar's spice farms are essential to the island's culture and economy, producing cloves, nutmeg, and cinnamon. These plantations offer an insight into the history of the spice trade in the region.",
+      "facts": ["Produces cloves and nutmeg", "Historical spice center", "Tropical climate", "Zanzibar island location"]
+    },
+    {
+      "id": "mikumi-park-life-v2",
+      "description": "Mikumi National Park is known for its vast grassy plains and diverse wildlife populations including lions, elephants, and giraffes. It serves as an accessible safari destination near Morogoro.",
+      "facts": ["Established in 1964", "Close to Dar es Salaam", "Diverse savanna fauna", "Large elephant population"]
+    },
+    {
+      "id": "tarangire-park-life-v2",
+      "description": "Tarangire National Park is famous for its large herds of elephants and iconic baobab trees. The Tarangire River serves as a critical water source during the dry season.",
+      "facts": ["Known for baobabs", "Large elephant herds", "Seasonal migration", "Arid landscape"]
+    },
+    {
+      "id": "arusha-park-life-v2",
+      "description": "Arusha National Park encompasses Mount Meru, offering diverse ecosystems from lush rainforests to alpine deserts. It is home to black-and-white colobus monkeys and many bird species.",
+      "facts": ["Includes Mount Meru", "Rich biodiversity", "Rainforest habitats", "Near Arusha city"]
+    },
+    {
+      "id": "mahenge-landwirtschaft-life-v2",
+      "description": "The Mahenge region is a significant agricultural hub characterized by its fertile soil and mountainous terrain. It supports the cultivation of various crops vital for the local community.",
+      "facts": ["Fertile mountainous soil", "Agricultural center", "Diverse crop cultivation", "Rural economic hub"]
+    },
+    {
+      "id": "mwanza-markt-life-v2",
+      "description": "The central markets in Mwanza are vibrant centers of trade along the shores of Lake Victoria. They provide fresh fish and local produce to the growing urban population.",
+      "facts": ["Lake Victoria location", "Fresh fish trade", "Vibrant local commerce", "Urban trade hub"]
+    },
+    {
+      "id": "dodoma-schulpark-life-v2",
+      "description": "Educational and garden areas in Dodoma contribute to the capital city's green urban planning. These spaces support local learning and environmental sustainability initiatives.",
+      "facts": ["Capital city location", "Urban green space", "Educational focus", "Sustainable planning"]
+    },
+    {
+      "id": "morogoro-garten-life-v2",
+      "description": "Morogoro is surrounded by lush gardens and foothills of the Uluguru Mountains, fostering a rich environment for agriculture. The town is known for its educational and research-driven agricultural activities.",
+      "facts": ["Uluguru foothills", "Agricultural research center", "Rich green landscape", "University town"]
+    },
+    {
+      "id": "ruaha-tierhabitat-life-v2",
+      "description": "Ruaha National Park provides a unique habitat for a high density of predators including lions and leopards in a rugged, wild landscape. The Great Ruaha River is a lifeline for wildlife.",
+      "facts": ["Predator-rich habitat", "Great Ruaha River", "Rugged wilderness", "Large ecosystem"]
+    }
+  ]
+}

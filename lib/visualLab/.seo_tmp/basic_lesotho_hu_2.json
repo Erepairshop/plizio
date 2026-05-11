@@ -1,0 +1,79 @@
+{
+  "lang": "hu",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ha-ntsi-cities-v2",
+      "description": "Vidéki település a hegyvidéki Lesotho szívében, amely a hagyományos életvitelt tükrözi.",
+      "facts": ["Hagyományos közösség", "Hegyvidéki régió", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "ha-baroana-cities-v2",
+      "description": "Kisebb település a fővárostól délre, ismert a helyi sziklarajzokról és természeti látnivalókról.",
+      "facts": ["Sziklarajzok közelében", "Történelmi helyszín", "Vidéki környezet"]
+    },
+    {
+      "id": "ha-moitsupeli-cities-v2",
+      "description": "Település a hegyek lábánál, amely a környékbeli mezőgazdasági művelés központja.",
+      "facts": ["Hegyvidéki elhelyezkedés", "Helyi gazdálkodás", "Falusi életmód"]
+    },
+    {
+      "id": "molimo-nthuse-cities-v2",
+      "description": "Festői hegyi település és fontos közlekedési állomás a híres hágó közelében.",
+      "facts": ["Hegyi hágó állomása", "Turisztikai megálló", "Lenyűgöző panoráma"]
+    },
+    {
+      "id": "marakabei-cities-v2",
+      "description": "Hegyvidéki közösség, amely az elszigetelt, ám gyönyörű tájairól és a békés életvitelről ismert.",
+      "facts": ["Magasan fekvő terület", "Békés környezet", "Helyi közösség"]
+    },
+    {
+      "id": "ha-kome-cities-v2",
+      "description": "Egyedülálló barlanglakásokkal rendelkező történelmi település, Lesotho egyik kulturális kincse.",
+      "facts": ["Barlanglakások", "Történelmi örökség", "Kulturális látnivaló"]
+    },
+    {
+      "id": "likalaneng-cities-v2",
+      "description": "Hegyi falu, amely a turisták egyik kedvelt kiindulópontja a túrázáshoz.",
+      "facts": ["Túrázó központ", "Hegyvidéki elhelyezkedés", "Helyi vendéglátás"]
+    },
+    {
+      "id": "maphutsaneng-cities-v2",
+      "description": "Hagyományos település a hegyvidéki régióban, melyet a csend és a természet jellemez.",
+      "facts": ["Csendes falusi közösség", "Természetes táj", "Vidéki Lesotho"]
+    },
+    {
+      "id": "tele-cities-v2",
+      "description": "Déli település a Tele-folyó mentén, fontos kereskedelmi átkelő a határon.",
+      "facts": ["Tele-folyó mentén", "Határ menti kereskedelem", "Déli régió"]
+    },
+    {
+      "id": "ha-mpiti-cities-v2",
+      "description": "Kisebb közösség a hegyek között, amely az ország déli részének közlekedési útvonalán található.",
+      "facts": ["Déli útvonalon fekszik", "Hegyi közösség", "Vidéki környezet"]
+    },
+    {
+      "id": "ha-sekake-cities-v2",
+      "description": "Vidéki település a Senqu-folyó völgyében, fontos a környékbeli gazdálkodás számára.",
+      "facts": ["Senqu-folyó völgye", "Mezőgazdasági közösség", "Helyi kereskedelem"]
+    },
+    {
+      "id": "ha-rafanyane-cities-v2",
+      "description": "Csendes falusi település, mely a hagyományos basotho kultúrát és építészetet őrzi.",
+      "facts": ["Hagyományos építészet", "Basotho kultúra", "Hegyvidéki környezet"]
+    },
+    {
+      "id": "mashai-cities-v2",
+      "description": "Jelentős hegyi település, amely a környező kerületek ellátásában játszik kulcsszerepet.",
+      "facts": ["Központi hegyi falu", "Ellátási központ", "Vidéki gazdaság"]
+    },
+    {
+      "id": "linakaneng-cities-v2",
+      "description": "Vidéki falu a hegyek ölelésében, egyszerű, békés mindennapokkal.",
+      "facts": ["Hegyvidéki elhelyezkedés", "Békés falusi élet", "Természetközeli környezet"]
+    }
+  ]
+}

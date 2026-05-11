@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "Benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninNatureV2.ts",
+    "lib/visualLab/data/poiExtraBeninReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "oueme-river-nature-v2",
+      "description": "Der Ouémé ist der längste Fluss Benins und eine lebenswichtige Wasserquelle für Landwirtschaft und Fischerei im Süden des Landes.",
+      "facts": ["Länge von ca. 510 km", "Mündet in den Nokoué-See", "Wichtigster Fluss Benins", "Reich an Fischarten"]
+    },
+    {
+      "id": "niger-river-benin-nature-v2",
+      "description": "Der Niger bildet im Norden die natürliche Grenze Benins zu Niger und prägt die fruchtbare Flusslandschaft der Region.",
+      "facts": ["Grenzfluss im Norden", "Drittlängster Fluss Afrikas", "Wichtige Handelsroute", "Fruchtbare Überschwemmungsgebiete"]
+    },
+    {
+      "id": "pendjari-river-nature-v2",
+      "description": "Der Pendjari-Fluss durchfließt den gleichnamigen Nationalpark und ist ein Magnet für die vielfältige Tierwelt im Norden Benins.",
+      "facts": ["Teil des WAP-Komplexes", "Natürliche Grenze zu Burkina Faso", "Trinkquelle für Wildtiere", "Namensgeber des Nationalparks"]
+    },
+    {
+      "id": "wari-maro-forest-relief-v2",
+      "description": "Der Wald von Wari-Maro ist ein bedeutendes Naturschutzgebiet, das für seine dichten Baumbestände und biologische Vielfalt bekannt ist.",
+      "facts": ["Klassifizierter Wald", "Zentrum von Benin", "Schutzgebiet für Flora", "Wichtiges Ökosystem"]
+    },
+    {
+      "id": "kouande-mountains-relief-v2",
+      "description": "Die Berge von Kouandé im Nordwesten Benins bieten eine beeindruckende Landschaft mit markanten Felsformationen und Tälern.",
+      "facts": ["Teil der Atakora-Kette", "Höhenlage im Nordwesten", "Hügelige Topographie", "Traditionelles Siedlungsgebiet"]
+    },
+    {
+      "id": "bassila-mountains-relief-v2",
+      "description": "Das Bergland um Bassila ist geprägt von dichten Wäldern und sanften Erhebungen, die die Grenze zu Togo markieren.",
+      "facts": ["Nahe der Grenze zu Togo", "Dicht bewaldetes Bergland", "Teil der zentralen Kette", "Biodiversitäts-Hotspot"]
+    },
+    {
+      "id": "niger-valley-relief-v2",
+      "description": "Das Nigertal im äußersten Norden Benins ist eine weite, flache Ebene, die während der Regenzeit von den Wassermassen des Flusses gespeist wird.",
+      "facts": ["Alluviale Tiefebene", "Grenze zu Niger", "Intensive Landwirtschaft", "Wichtige Weidegründe"]
+    },
+    {
+      "id": "ouenou-kouande-forest-relief-v2",
+      "description": "Der Wald von Ouénou-Kouandé ist ein wichtiges Rückzugsgebiet für viele Tierarten und schützt die Quellen lokaler Wasserläufe.",
+      "facts": ["Waldschutzgebiet", "Region Atakora", "Schutz der Wasserquellen", "Refugium für Wildtiere"]
+    },
+    {
+      "id": "savalou-hills-relief-v2",
+      "description": "Die Hügel von Savalou sind für ihre bizarren Felsformationen bekannt, die in der lokalen Voodoo-Kultur als heilige Stätten gelten.",
+      "facts": ["Heilige Granitfelsen", "Zentrum der Mahi-Kultur", "Markante Relief-Formen", "Ort spiritueller Zeremonien"]
+    },
+    {
+      "id": "sedent-forest-relief-v2",
+      "description": "Der Sédent-Wald ist eines der letzten verbliebenen dichten Waldgebiete in Zentralbenin und von großer ökologischer Bedeutung.",
+      "facts": ["Dichter Tropenwald", "Zentrales Benin", "Ökologisches Schutzgebiet", "Vielfältige Baumarten"]
+    },
+    {
+      "id": "bellefoungou-forest-relief-v2",
+      "description": "Der Wald von Bellefoungou dient als wichtiger Korridor für wandernde Tierarten zwischen den verschiedenen Schutzgebieten der Region.",
+      "facts": ["Wildtierkorridor", "Nordbenin", "Erhalt der Artenvielfalt", "Staatlicher Schutzwald"]
+    },
+    {
+      "id": "djigbe-forest-relief-v2",
+      "description": "Der Djigbé-Wald im Süden Benins ist ein wertvoller Restbestand des ursprünglichen Küstenwaldes und Heimat seltener Pflanzen.",
+      "facts": ["Küstennaher Wald", "Südbenin", "Botanische Seltenheiten", "Fragment des Regenwaldes"]
+    }
+  ]
+}

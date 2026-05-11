@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pala-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Pala ist die administrative Hauptstadt der Region Mayo-Kebbi Ouest im Südwesten des Tschad. Geografisch liegt die Stadt in einer landwirtschaftlich sehr produktiven Zone, die stark vom feuchteren Klima profitiert. Wirtschaftlich stützt sich die Region massiv auf den Anbau von Baumwolle als primärem Exportgut. Die nationale Baumwollgesellschaft CotonTchad betreibt hier eine hochwichtige Verarbeitungsanlage, die vielen Familien ein Einkommen sichert. Neben der reinen Landwirtschaft ist die Region um Pala landesweit bekannt, da hier die allererste kommerzielle Goldmine des Tschad erschlossen wurde, was eine gewisse Diversifizierung der lokalen Wirtschaft mit sich brachte. Historisch entwickelte sich die Stadt während der französischen Kolonialzeit als wichtiges administratives Zentrum für die Agrarverwaltung. Die zivile Infrastruktur bleibt jedoch sehr mangelhaft, wobei unbefestigte Straßen den Warentransport während der Regenzeit stark behindern. Die Stadt dient als lokales Handelszentrum für die umliegenden Dörfer und pflegt aufgrund der geografischen Nähe enge wirtschaftliche Verbindungen mit dem benachbarten Kamerun.",
+        "hu": "Pala a Mayo-Kebbi Ouest régió közigazgatási fővárosa Csád délnyugati részén. Földrajzilag a város egy mezőgazdaságilag nagyon produktív övezetben fekszik, amely nagymértékben profitál a nedvesebb éghajlatból. Gazdasági szempontból a régió erősen támaszkodik a gyapot mint elsődleges exportcikk termesztésére. A CotonTchad nemzeti gyapotipari vállalat egy rendkívül fontos feldolgozóüzemet működtet itt, amely sok család számára biztosít jövedelmet. A tisztán mezőgazdasági tevékenység mellett a Pala körüli régió országosan is ismert, mivel itt nyitották meg Csád legelső kereskedelmi aranybányáját, ami magával hozta a helyi gazdaság bizonyos fokú diverzifikációját. Történelmileg a város a francia gyarmati időszakban fontos közigazgatási központként fejlődött az agrárirányítás számára. A civil infrastruktúra azonban továbbra is nagyon hiányos, a burkolatlan utak az esős évszakban erősen akadályozzák az áruszállítást. A város a környező falvak helyi kereskedelmi központjaként szolgál, és a földrajzi közelség miatt szoros gazdasági kapcsolatokat ápol a szomszédos Kamerunnal.",
+        "ro": "Pala este capitala administrativă a regiunii Mayo-Kebbi Ouest din sud-vestul Ciadului. Geografic, orașul este situat într-o zonă agricolă foarte productivă, care beneficiază puternic de un climat mai umed. Din punct de vedere economic, regiunea se bazează masiv pe cultivarea bumbacului ca principal produs de export. Compania națională de bumbac CotonTchad operează aici o unitate de procesare extrem de importantă, asigurând un venit pentru multe familii. Pe lângă agricultura pură, regiunea din jurul orașului Pala este cunoscută la nivel național deoarece aici a fost dezvoltată prima mină de aur comercială din Ciad, aducând un anumit grad de diversificare a economiei locale. Istoric, orașul s-a dezvoltat ca un important centru administrativ în perioada colonială franceză. Cu toate acestea, infrastructura civilă rămâne foarte deficitară, drumurile neasfaltate îngreunând grav transportul mărfurilor în timpul sezonului ploios. Orașul servește drept centru comercial local și menține legături economice strânse cu Camerunul vecin datorită proximității sale.",
+        "en": "Pala is the administrative capital of the Mayo-Kebbi Ouest region in the southwestern part of Chad. Geographically, the city is located in a highly productive agricultural zone that benefits significantly from a moister climate. Economically, the region relies massively on the intensive cultivation of cotton as its primary export commodity. The national cotton company, CotonTchad, operates a highly important processing facility here, securing a steady income for many local families. In addition to pure agriculture, the region around Pala is nationally known because Chad's very first commercial gold mine was developed here, bringing a certain degree of diversification to the local economy. Historically, the city developed as an important administrative center for agricultural management during the French colonial period. However, the civil infrastructure remains highly deficient, with unpaved roads severely hindering the transport of goods during the heavy rainy season. The city serves as a crucial local trading hub and maintains close economic ties with neighboring Cameroon."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Pala ist die Hauptstadt der Region Mayo-Kebbi Ouest.",
+          "Die lokale Wirtschaft stützt sich stark auf Baumwollanbau.",
+          "Hier wurde die erste kommerzielle Goldmine des Landes eröffnet.",
+          "Die Nähe zu Kamerun fördert den grenzüberschreitenden Handel.",
+          "Unbefestigte Straßen erschweren Transporte in der Regenzeit."
+        ],
+        "hu": [
+          "Pala a délnyugati Mayo-Kebbi Ouest régió hivatalos fővárosa.",
+          "A helyi gazdaság nagymértékben az ipari gyapottermesztésre épül.",
+          "A város mellett nyitották meg az ország legelső aranybányáját.",
+          "A szomszédos Kamerun közelsége jelentősen fellendíti a kereskedelmet.",
+          "Az esős évszakban a burkolatlan utak blokkolják az áruszállítást."
+        ],
+        "ro": [
+          "Pala este capitala oficială a regiunii Mayo-Kebbi Ouest.",
+          "Economia locală se bazează masiv pe cultivarea bumbacului.",
+          "Prima mină de aur comercială din țară a fost deschisă aici.",
+          "Proximitatea de Camerun promovează comerțul transfrontalier.",
+          "Drumurile neasfaltate complică sever transportul în sezonul ploios."
+        ],
+        "en": [
+          "Pala serves as the capital of the Mayo-Kebbi Ouest region.",
+          "The local economy relies extremely heavily on cotton cultivation.",
+          "The country's very first commercial gold mine was opened near here.",
+          "Geographical proximity to Cameroon heavily boosts cross-border trade.",
+          "Unpaved roads severely disrupt physical transport during the rainy season."
+        ]
+      }
+    },
+    {
+      "id": "am-timan-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Am Timan ist die Hauptstadt der Region Salamat im äußersten Südosten des Tschad. Geografisch liegt die Stadt in einer extrem isolierten, halbtrockenen Umgebung, die während der Trockenzeit stark von Wasserknappheit geprägt ist. Im extremen Gegensatz dazu überschwemmt der Bahr Salamat-Fluss in der Regenzeit weite Flächen und schneidet die Stadt oft monatelang fast vollständig vom Rest des Landes ab. Die lokale Wirtschaft stützt sich vor allem auf traditionelle Viehzucht, den Anbau von Hirse und Erdnüssen sowie den Handel auf dem großen Wochenmarkt. Am Timan fungiert zudem als wichtiges administratives Tor zum nahegelegenen Zakouma-Nationalpark, einem der erfolgreichsten Naturschutzgebiete Zentralafrikas. Historisch war die Region ein Zentrum der lokalen Nomadenstämme, doch wiederkehrende schwere Dürren und bewaffnete Konflikte im nahen Sudan haben die Stabilität der Stadt stark beeinträchtigt. Der völlige Mangel an einer asphaltierten Infrastruktur und unzureichende Stromnetze blockieren jegliche formelle wirtschaftliche Entwicklung massiv.",
+        "hu": "Am Timan a Salamat régió fővárosa Csád legdélkeletibb részén. Földrajzilag a város egy rendkívül elszigetelt, félszáraz környezetben fekszik, amelyet a száraz évszakban súlyos vízhiány jellemez. Ezzel szöges ellentétben az esős évszakban a Bahr Salamat-folyó hatalmas területeket áraszt el, és a várost gyakran hónapokra szinte teljesen elvágja az ország többi részétől. A helyi gazdaság elsősorban a hagyományos állattenyésztésre, a köles és a földimogyoró termesztésére, valamint a nagy heti piac forgalmára támaszkodik. Am Timan fontos közigazgatási kapuként is funkcionál a közeli Zakouma Nemzeti Park felé, amely Közép-Afrika egyik legsikeresebb természetvédelmi területe. Történelmileg a régió a helyi nomád törzsek központja volt, de a visszatérő súlyos aszályok és a közeli Szudánban zajló fegyveres konfliktusok súlyosan befolyásolták a város stabilitását. Az aszfaltozott infrastruktúra teljes hiánya és a nem megfelelő elektromos hálózatok masszívan blokkolnak minden formális gazdasági fejlődést.",
+        "ro": "Am Timan este capitala regiunii Salamat în extremitatea sud-estică a Ciadului. Geografic, orașul este situat într-un mediu semi-arid extrem de izolat, caracterizat de o penurie severă de apă în timpul sezonului uscat. În contrast extrem, râul Bahr Salamat inundă suprafețe vaste în sezonul ploios, tăind orașul aproape complet de restul țării, adesea pentru luni de zile. Economia locală se bazează în principal pe creșterea tradițională a animalelor, cultivarea meiului și a alunelor, precum și pe comerțul de la marea piață săptămânală. Am Timan funcționează, de asemenea, ca o poartă administrativă importantă către Parcul Național Zakouma din apropiere, una dintre cele mai de succes zone de conservare din Africa Centrală. Istoric, regiunea a fost un centru al triburilor nomade locale, dar secetele severe recurente și conflictele armate din Sudanul vecin au afectat grav stabilitatea orașului. Lipsa totală a unei infrastructuri asfaltate blochează masiv orice dezvoltare economică formală.",
+        "en": "Am Timan is the capital of the Salamat region in the extreme southeastern part of Chad. Geographically, the city is located in a highly isolated, semi-arid environment that is characterized by severe water scarcity during the dry season. In extreme contrast, the Bahr Salamat river floods vast plains during the rainy season, frequently cutting the city off almost completely from the rest of the country for months at a time. The local economy relies primarily on traditional livestock farming, the cultivation of millet and peanuts, and active commerce at the large weekly market. Am Timan also functions as an important administrative gateway to the nearby Zakouma National Park, one of the most successful nature reserves in Central Africa. Historically, the region was a central hub for local nomadic tribes, but recurring severe droughts and armed conflicts in neighboring Sudan have heavily impacted the city's stability. The absolute lack of paved infrastructure and inadequate power grids massively block any formal economic development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Am Timan ist die administrative Hauptstadt der Region Salamat.",
+          "In der Regenzeit wird die Stadt durch Überschwemmungen isoliert.",
+          "Die lokale Wirtschaft basiert primär auf Viehzucht und Hirseanbau.",
+          "Sie dient als das Haupttor zum wichtigen Zakouma-Nationalpark.",
+          "Die Stadt leidet chronisch unter einer fehlenden Infrastruktur."
+        ],
+        "hu": [
+          "Am Timan a délkeleti Salamat régió közigazgatási fővárosa.",
+          "Az esős évszakban az áradások teljesen elzárják a külvilágtól.",
+          "A helyi gazdaság alapja a hagyományos állattenyésztés és kölestermesztés.",
+          "Ez a közeli Zakouma Nemzeti Park legfőbb közigazgatási kapuja.",
+          "A város krónikusan szenved az alapvető infrastruktúra hiányától."
+        ],
+        "ro": [
+          "Am Timan este capitala administrativă a regiunii Salamat.",
+          "În sezonul ploios, orașul este complet izolat de inundații severe.",
+          "Economia se bazează în principal pe creșterea animalelor și mei.",
+          "Servește ca poartă principală de acces către Parcul Național Zakouma.",
+          "Orașul suferă cronic din cauza lipsei totale de infrastructură rutieră."
+        ],
+        "en": [
+          "Am Timan serves as the official administrative capital of the Salamat region.",
+          "During the heavy rainy season, massive floods completely isolate the city.",
+          "The local economy relies strictly on livestock farming and millet cultivation.",
+          "It acts as the primary administrative gateway to the Zakouma National Park.",
+          "The isolated city chronically suffers from a total lack of road infrastructure."
+        ]
+      }
+    },
+    {
+      "id": "bongor-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bongor ist die Hauptstadt der Region Mayo-Kebbi Est im südwestlichen Tschad und liegt strategisch äußerst günstig am Ostufer des mächtigen Logone-Flusses, der die natürliche Staatsgrenze zum benachbarten Kamerun bildet. Wirtschaftlich ist die Stadt ein hochgradig produktives landwirtschaftliches Zentrum, das massiv vom Anbau von Reis, Sorghum und Baumwolle profitiert. Der intensive Fischfang im Logone-Fluss sichert zudem einen großen Teil der lokalen Proteinversorgung und wird auf regionalen Märkten gehandelt. Bongor ist landesweit als ein wichtiges Bildungszentrum bekannt, da sich hier eine staatliche Normalschule (École Normale) befindet, die zahlreiche Lehrer für das ganze Land ausbildet. Historisch war die Stadt ein zentraler Handelsknotenpunkt während der Kolonialzeit und diente der französischen Verwaltung als strategischer Posten. Die Lage am Fluss ermöglicht heute einen florierenden grenzüberschreitenden Handel, doch wie viele tschadische Städte leidet Bongor massiv unter der schlechten Instandhaltung des Straßennetzes, das während der starken saisonalen Niederschläge oft unpassierbar wird.",
+        "hu": "Bongor a Mayo-Kebbi Est régió fővárosa Délnyugat-Csádban, és stratégiailag rendkívül kedvező helyen, a hatalmas Logone-folyó keleti partján fekszik, amely a természetes államhatárt képezi a szomszédos Kamerunnal. Gazdasági szempontból a város egy rendkívül produktív mezőgazdasági központ, amely nagymértékben profitál a rizs, a cirok és a gyapot termesztéséből. A Logone-folyón folytatott intenzív halászat ezenkívül biztosítja a helyi fehérjeellátás jelentős részét, amelyet a regionális piacokon értékesítenek. Bongor országosan fontos oktatási központként is ismert, mivel itt működik egy állami tanárképző főiskola (École Normale), amely számos tanárt képez az egész ország számára. Történelmileg a város központi kereskedelmi csomópont volt a gyarmati időszakban, és a francia közigazgatás stratégiai állomásaként szolgált. A folyóparti elhelyezkedés ma is virágzó határokon átnyúló kereskedelmet tesz lehetővé, de sok csádi városhoz hasonlóan Bongor is masszívan szenved a rosszul karbantartott úthálózattól, amely a heves szezonális esőzések idején gyakran járhatatlanná válik.",
+        "ro": "Bongor este capitala regiunii Mayo-Kebbi Est din sud-vestul Ciadului și este situată strategic pe malul estic al puternicului râu Logone, care formează granița națională naturală cu Camerunul vecin. Din punct de vedere economic, orașul este un centru agricol extrem de productiv, beneficiind masiv de cultivarea orezului, sorgului și bumbacului. Pescuitul intensiv în râul Logone asigură, de asemenea, o mare parte din aprovizionarea locală cu proteine și este tranzacționat pe piețele regionale. Bongor este cunoscut la nivel național ca un important centru educațional, deoarece aici se află o Școală Normală de stat (École Normale) care pregătește numeroși profesori pentru întreaga țară. Istoric, orașul a fost un nod comercial central în perioada colonială și a servit ca post strategic pentru administrația franceză. Locația pe râu permite astăzi un comerț transfrontalier prosper, dar Bongor suferă masiv din cauza întreținerii precare a rețelei de drumuri, care devine adesea impracticabilă în timpul precipitațiilor sezoniere abundente.",
+        "en": "Bongor is the capital of the Mayo-Kebbi Est region in southwestern Chad and is highly strategically located on the eastern bank of the massive Logone River, which firmly forms the natural national border with neighboring Cameroon. Economically, the city is a highly productive agricultural center that benefits massively from the intensive cultivation of rice, sorghum, and cotton. Intense fishing in the Logone River additionally secures a large portion of the local protein supply and is traded at regional markets. Bongor is nationally recognized as an important educational center, as it hosts a state Normal School (École Normale) that formally trains numerous teachers for the entire country. Historically, the city acted as a central trading hub during the colonial era and served as a strategic administrative post for the French. The riverfront location currently enables flourishing cross-border trade, but like many Chadian cities, Bongor suffers severely from the poor maintenance of its road network, which frequently becomes completely impassable during the heavy seasonal rains."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bongor liegt strategisch direkt am Ufer des großen Logone-Flusses.",
+          "Der Fluss bildet die physische Staatsgrenze zum Land Kamerun.",
+          "Die Wirtschaft stützt sich extrem stark auf Reisanbau und Fischerei.",
+          "Eine staatliche Schule bildet hier Lehrer für das ganze Land aus.",
+          "Der grenzüberschreitende Handel mit Kamerun ist hochprofitabel."
+        ],
+        "hu": [
+          "Bongor stratégiailag közvetlenül a nagy Logone-folyó partján fekszik.",
+          "A folyó képezi a fizikai államhatárt a szomszédos Kamerunnal.",
+          "A gazdaság rendkívül erősen támaszkodik a rizstermesztésre és a halászatra.",
+          "Egy állami főiskola itt képez tanárokat az egész ország számára.",
+          "A Kamerunnal folytatott határokon átnyúló kereskedelem nagyon jövedelmező."
+        ],
+        "ro": [
+          "Bongor este situat strategic direct pe malul marelui râu Logone.",
+          "Râul formează granița fizică națională cu statul vecin Camerun.",
+          "Economia se bazează extrem de puternic pe cultivarea orezului și pescuit.",
+          "O școală de stat pregătește aici profesori pentru întreaga țară.",
+          "Comerțul transfrontalier constant cu Camerunul este foarte profitabil."
+        ],
+        "en": [
+          "Bongor is highly strategically located right on the banks of the Logone River.",
+          "The massive river physically forms the national border with Cameroon.",
+          "The local economy relies extremely heavily on rice cultivation and fishing.",
+          "A major state college formally trains teachers here for the entire country.",
+          "The constant cross-border trade with Cameroon is highly lucrative."
+        ]
+      }
+    },
+    {
+      "id": "mongo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mongo ist die Hauptstadt der Provinz Guéra und liegt ziemlich genau im geografischen Zentrum des Tschad. Geografisch ist die Stadt von den markanten, felsigen Erhebungen des Guéra-Massivs umgeben, die das lokale Landschaftsbild dramatisch prägen und die Region in eine eher hügelige Zone im ansonsten flachen Sahelstreifen verwandeln. Wirtschaftlich dient Mongo als absolut essenzieller Handelsknotenpunkt, der die Hauptstadt N'Djamena mit den abgelegenen östlichen Regionen des Landes verbindet. Die lokale Bevölkerung ist ganz überwiegend im Agrarsektor tätig und baut an die Trockenheit angepasste Kulturen wie Sorghum, Hirse und Erdnüsse an. Historisch gesehen war die Stadt aufgrund ihrer zentralen Lage immer ein wichtiger Transit- und Rastplatz für Karawanen und Nomaden, was ihr eine sehr diverse ethnische und demografische Struktur verlieh. Trotz der strategisch kritischen Lage auf der Ost-West-Achse ist die Infrastruktur massiv unterentwickelt. Es mangelt an durchgehend asphaltierten Straßen und einer stabilen Wasserversorgung, was die formelle wirtschaftliche Entwicklung der Region stark bremst.",
+        "hu": "Mongo a Guéra tartomány fővárosa, és szinte pontosan Csád földrajzi középpontjában fekszik. Földrajzilag a várost a Guéra-masszívum markáns, sziklás magaslatai veszik körül, amelyek drámai módon meghatározzák a helyi tájat, és a régiót egy dombos övezetté változtatják az egyébként lapos Száhel-övezetben. Gazdasági szempontból Mongo abszolút létfontosságú kereskedelmi csomópontként szolgál, amely összeköti a fővárost, N'Djamenát az ország távoli keleti régióival. A helyi lakosság túlnyomórészt az agrárszektorban dolgozik, és olyan szárazságtűrő növényeket termeszt, mint a cirok, a köles és a földimogyoró. Történelmileg a város központi elhelyezkedése miatt mindig is fontos tranzit- és pihenőhely volt a karavánok és nomádok számára, ami nagyon sokszínű etnikai és demográfiai struktúrát kölcsönzött neki. A kelet-nyugati tengelyen elfoglalt stratégiailag kritikus fekvése ellenére az infrastruktúra masszívan alulfejlett. Hiányoznak a végig aszfaltozott utak és a stabil vízellátás, ami erősen lefékezi a régió formális gazdasági fejlődését.",
+        "ro": "Mongo este capitala provinciei Guéra și este situată aproape exact în centrul geografic al Ciadului. Geografic, orașul este înconjurat de altitudinile stâncoase izbitoare ale Masivului Guéra, care modelează dramatic peisajul local și transformă regiunea într-o zonă deluroasă în fâșia Sahel altfel plată. Din punct de vedere economic, Mongo servește ca un nod comercial absolut esențial, conectând capitala N'Djamena cu regiunile estice îndepărtate ale țării. Populația locală este predominant activă în sectorul agricol, cultivând plante adaptate la secetă, cum ar fi sorgul, meiul și alunele. Istoric, datorită locației sale centrale, orașul a fost întotdeauna un important loc de tranzit și odihnă pentru caravane și nomazi, oferindu-i o structură etnică și demografică foarte diversă. În ciuda locației sale critice din punct de vedere strategic pe axa est-vest, infrastructura este masiv subdezvoltată. Lipsesc drumurile complet asfaltate și o alimentare stabilă cu apă, ceea ce încetinește puternic dezvoltarea.",
+        "en": "Mongo is the capital of the Guéra province and is located almost exactly in the geographical center of Chad. Geographically, the city is completely surrounded by the prominent, rocky elevations of the Guéra Massif, which dramatically shape the local landscape and transform the region into a hilly zone within the otherwise flat Sahel belt. Economically, Mongo serves as an absolutely essential trading hub connecting the capital, N'Djamena, with the highly remote eastern regions of the country. The local population is overwhelmingly active in the agricultural sector, cultivating drought-adapted staple crops such as sorghum, millet, and peanuts. Historically, due to its highly central location, the city has always been an important transit and resting place for trading caravans and nomadic herders, giving it a very diverse ethnic and demographic structure. Despite its strategically critical position on the main east-west axis, the physical infrastructure is massively underdeveloped. There is a severe lack of continuously paved roads and stable water supplies, which heavily stifles the region's formal economic development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mongo liegt ziemlich genau im geografischen Zentrum des Tschad.",
+          "Die Stadt wird von den rauen Felsen des Guéra-Massivs umgeben.",
+          "Sie ist ein hochwichtiger Transitpunkt auf der Ost-West-Achse.",
+          "Die Landwirtschaft basiert auf trockenheitsresistenter Hirse.",
+          "Mangelhafte Straßen bremsen die formelle wirtschaftliche Entwicklung."
+        ],
+        "hu": [
+          "Mongo szinte pontosan Csád földrajzi középpontjában fekszik.",
+          "A várost a Guéra-masszívum nagyon zord sziklái veszik körül.",
+          "Rendkívül fontos tranzitpont a kelet-nyugati közlekedési tengelyen.",
+          "A helyi mezőgazdaság a szárazságtűrő köles termesztésére épül.",
+          "A hiányos úthálózat erősen lefékezi a formális gazdasági fejlődést."
+        ],
+        "ro": [
+          "Mongo se află aproape exact în centrul geografic al statului Ciad.",
+          "Orașul este complet înconjurat de rocile aspre ale Masivului Guéra.",
+          "Este un punct de tranzit extrem de important pe axa est-vest.",
+          "Agricultura de bază se bazează pe meiul local rezistent la secetă.",
+          "Drumurile proaste încetinesc puternic dezvoltarea economică formală."
+        ],
+        "en": [
+          "Mongo is located almost exactly in the geographical center of Chad.",
+          "The city is completely surrounded by the rugged rocks of the Guéra Massif.",
+          "It acts as a highly important transit point on the vital east-west axis.",
+          "Basic agriculture relies heavily on local drought-resistant millet.",
+          "Poorly maintained roads severely slow down any formal economic development."
+        ]
+      }
+    },
+    {
+      "id": "doba-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Doba ist die Hauptstadt der Provinz Logone Oriental im tiefen Süden des Tschad und hat sich in den letzten Jahrzehnten zum absoluten Epizentrum der nationalen Ölindustrie entwickelt. Geografisch profitiert die Region von einem feuchteren Klima, das sie traditionell zu einem landwirtschaftlichen Zentrum machte. Die Entdeckung massiver Ölreserven und der anschließende Bau einer gewaltigen Pipeline bis an die kamerunische Küste brachten internationale Konsortien wie ExxonMobil in die Region. Wirtschaftlich schuf dieses Großprojekt formelle Arbeitsplätze und finanzierte einige Infrastrukturprojekte, führte jedoch auch zu starken sozialen Spannungen, da die lokale Bevölkerung nur bedingt von den Öleinnahmen profitierte. Neben dem dominierenden Erdölsektor bleibt die Landwirtschaft, insbesondere der Baumwollanbau, die wichtigste Existenzgrundlage für die Mehrheit der ländlichen Einwohner. Historisch war Doba ein ruhiges agrarisches Zentrum, das durch den Ölboom einen extrem schnellen, aber unregulierten demografischen Wandel erlebte. Die Stadt kämpft heute mit starken wirtschaftlichen Ungleichheiten und massiven ökologischen Herausforderungen.",
+        "hu": "Doba a Logone Oriental tartomány fővárosa Csád mély déli részén, és az elmúlt évtizedekben a nemzeti olajipar abszolút epicentrumává fejlődött. Földrajzilag a régió a nedvesebb éghajlatból profitál, ami hagyományosan mezőgazdasági központtá tette. A hatalmas kőolajtartalékok felfedezése és az azt követő, a kameruni partokig húzódó masszív csővezeték megépítése olyan nemzetközi konzorciumokat vonzott a régióba, mint az ExxonMobil. Gazdasági szempontból ez a megaprojekt formális munkahelyeket teremtett és finanszírozott néhány infrastrukturális projektet, de komoly társadalmi feszültségekhez is vezetett, mivel a helyi lakosság csak korlátozott mértékben részesült az olajbevételekből. A domináns olajszektor mellett a mezőgazdaság, különösen a gyapottermesztés, továbbra is a legfontosabb megélhetési forrás a vidéki lakosok többsége számára. Történelmileg Doba egy csendes agrárrégió központja volt, amely az olajboom révén rendkívül gyors, de szabályozatlan demográfiai változáson ment keresztül. A város ma erős gazdasági egyenlőtlenségekkel küzd.",
+        "ro": "Doba este capitala provinciei Logone Oriental din sudul profund al Ciadului și s-a dezvoltat în ultimele decenii în epicentrul absolut al industriei naționale a petrolului. Geografic, regiunea beneficiază de un climat mai umed, care a făcut-o tradițional un centru agricol. Descoperirea unor rezerve masive de petrol și construcția ulterioară a unei conducte uriașe până la coasta Camerunului au adus în regiune consorții internaționale precum ExxonMobil. Economic, acest megaproiect a creat locuri de muncă formale și a finanțat unele proiecte de infrastructură, dar a dus și la tensiuni sociale severe, deoarece populația locală a beneficiat doar într-o măsură limitată de veniturile din petrol. Pe lângă sectorul petrolier dominant, agricultura, în special cultivarea bumbacului, rămâne cea mai importantă sursă de existență pentru majoritatea locuitorilor din mediul rural. Istoric, Doba a fost un centru agricol liniștit, care a experimentat o schimbare demografică extrem de rapidă din cauza boom-ului petrolier. Orașul se confruntă astăzi cu inegalități majore.",
+        "en": "Doba is the capital of the Logone Oriental province in the deep south of Chad and has developed into the absolute epicenter of the national oil industry over the past few decades. Geographically, the region benefits from a moister climate, which traditionally made it a highly productive agricultural center. The discovery of massive oil reserves and the subsequent construction of an enormous pipeline to the Cameroonian coast brought major international consortia like ExxonMobil into the region. Economically, this mega-project created formal employment and financed some infrastructure projects, but it also led to severe social tensions, as the local population benefited only marginally from the massive oil revenues. Alongside the dominant petroleum sector, agriculture, particularly commercial cotton cultivation, remains the most critical livelihood for the vast majority of rural residents. Historically, Doba was a quiet agrarian center that experienced extremely rapid but completely unregulated demographic changes due to the sudden oil boom. The city today actively struggles with severe economic inequalities and massive ecological challenges."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Doba ist das absolute Zentrum der Erdölförderung im Tschad.",
+          "Eine gewaltige Ölpipeline führt von hier bis nach Kamerun.",
+          "Internationale Firmen wie ExxonMobil operierten in der Region.",
+          "Der massive Ölboom führte zu sehr starken sozialen Spannungen.",
+          "Traditioneller Baumwollanbau bleibt für viele existenziell wichtig."
+        ],
+        "hu": [
+          "Doba a nemzeti kőolajkitermelés abszolút központja Csádban.",
+          "Egy hatalmas kőolajvezeték vezet innen egészen Kamerunig.",
+          "Olyan nagy nemzetközi cégek működtek itt, mint az ExxonMobil.",
+          "A hirtelen olajboom rendkívül erős társadalmi feszültségekhez vezetett.",
+          "A hagyományos gyapottermesztés sokak számára továbbra is létfontosságú."
+        ],
+        "ro": [
+          "Doba este centrul absolut al producției de petrol brut din Ciad.",
+          "O conductă uriașă de petrol duce de aici direct până în Camerun.",
+          "Companii internaționale masive precum ExxonMobil au operat în regiune.",
+          "Boom-ul petrolier major a dus la tensiuni sociale locale foarte puternice.",
+          "Cultivarea tradițională a bumbacului rămâne vitală pentru mulți."
+        ],
+        "en": [
+          "Doba is the absolute epicenter of crude oil production in Chad.",
+          "A massive oil pipeline runs directly from here to the coast of Cameroon.",
+          "Large international companies such as ExxonMobil operated in the region.",
+          "The sudden massive oil boom led to very strong local social tensions.",
+          "Traditional cotton cultivation remains existentially important for many."
+        ]
+      }
+    },
+    {
+      "id": "ati-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ati ist die administrative Hauptstadt der Provinz Batha und liegt im geografischen Zentrum des Tschad. Geografisch erstreckt sich die Stadt direkt an den Ufern des Batha-Flusses, einem saisonalen Wadi, das nur während der kurzen, aber intensiven Regenzeit Wasser führt und ansonsten monatelang komplett ausgetrocknet ist. Wirtschaftlich ist Ati extrem stark von der nomadischen und halbnomadischen Viehzucht geprägt. Die Stadt fungiert als ein hochwichtiger regionaler Umschlagplatz für Kamel-, Rinder-, Schaf- und Ziegenzüchter. Das Klima ist rau und halbtrocken, was den Ackerbau fast ausschließlich auf widerstandsfähige Kulturen wie lokale Hirse beschränkt. Historisch gesehen diente die Stadt als strategischer administrativer Posten während der französischen Kolonialzeit, um die nomadischen Bevölkerungen zu verwalten. Heute leidet die Region massiv unter der fortschreitenden Wüstenbildung (Desertifikation) und chronischen Dürreperioden, welche die Ernährungssicherheit der Bevölkerung ständig bedrohen. Staatliche Investitionen sind extrem gering, weshalb tiefe Brunnen oft von internationalen NGOs gebohrt werden müssen.",
+        "hu": "Ati a Batha tartomány közigazgatási fővárosa, és Csád földrajzi központjában fekszik. Földrajzilag a város közvetlenül a Batha-folyó partján terül el; ez egy szezonális vádi, amely csak a rövid, de intenzív esős évszakban szállít vizet, az év többi részében pedig hónapokon át teljesen kiszáradt. Gazdasági szempontból Atit rendkívül erősen a nomád és félnomád állattenyésztés határozza meg. A város rendkívül fontos regionális elosztóközpontként működik a teve-, szarvasmarha-, juh- és kecsketenyésztők számára. Az éghajlat zord és félszáraz, ami a mezőgazdaságot szinte kizárólag az olyan ellenálló kultúrákra korlátozza, mint a helyi köles. Történelmileg a város stratégiai közigazgatási állomásként szolgált a francia gyarmati időszakban a nomád lakosság ellenőrzésére. Ma a régió masszívan szenved a fokozódó elsivatagosodástól és a krónikus aszályos időszakoktól, amelyek folyamatosan fenyegetik a lakosság élelmezésbiztonságát. Az állami beruházások rendkívül alacsonyak, ezért a mély kutakat gyakran nemzetközi civil szervezeteknek kell fúrniuk.",
+        "ro": "Ati este capitala administrativă a provinciei Batha și este situată în centrul geografic al Ciadului. Geografic, orașul se întinde direct pe malurile râului Batha, un wadi sezonier care transportă apă doar în timpul sezonului scurt, dar intens de ploi, fiind în rest complet uscat timp de luni de zile. Din punct de vedere economic, Ati este extrem de puternic influențat de păstoritul nomad și semi-nomad. Orașul funcționează ca un centru regional extrem de important pentru crescătorii de cămile, vite, oi și capre. Climatul este aspru și semi-arid, ceea ce limitează agricultura aproape exclusiv la culturi rezistente, cum ar fi meiul local. Istoric, orașul a servit ca post administrativ strategic în timpul perioadei coloniale franceze pentru a gestiona populațiile nomade. Astăzi, regiunea suferă masiv din cauza deșertificării progresive și a perioadelor cronice de secetă, care amenință constant securitatea alimentară a populației. Investițiile de stat sunt extrem de scăzute, motiv pentru care fântânile adânci sunt adesea forate de ONG-uri internaționale.",
+        "en": "Ati is the administrative capital of the Batha province and is located in the geographical center of Chad. Geographically, the city stretches directly along the banks of the Batha River, a seasonal wadi that only carries water during the short but intense rainy season, remaining completely dried out for months otherwise. Economically, Ati is extremely heavily defined by nomadic and semi-nomadic livestock farming. The city acts as a highly important regional trading hub for camel, cattle, sheep, and goat herders. The climate is incredibly harsh and semi-arid, effectively restricting agriculture almost entirely to hardy, drought-resistant crops like local millet. Historically, the city served as a highly strategic administrative post during the French colonial era to manage the region's nomadic populations. Today, the region suffers massively from rapidly advancing desertification and chronic, severe drought periods, which constantly threaten the food security of the entire population. State investments in infrastructure are extremely low, meaning deep wells must frequently be drilled by international NGOs just to ensure survival."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ati liegt direkt an einem Wadi, das oft monatelang austrocknet.",
+          "Die lokale Wirtschaft ist extrem stark vom Nomaden-Viehhandel geprägt.",
+          "Das raue, halbtrockene Klima erlaubt fast nur den Hirseanbau.",
+          "Fortschreitende Wüstenbildung ist eine massive existenzielle Bedrohung.",
+          "Internationale NGOs müssen hier oft sehr tiefe Wasserbrunnen bohren."
+        ],
+        "hu": [
+          "Ati közvetlenül egy vádi partján fekszik, amely hónapokra kiszárad.",
+          "A helyi gazdaságot rendkívül erősen a nomád állatkereskedelem uralja.",
+          "A zord, félszáraz éghajlat szinte csak a köles termesztését teszi lehetővé.",
+          "A fokozódó elsivatagosodás hatalmas egzisztenciális fenyegetést jelent.",
+          "Nemzetközi civil szervezeteknek kell itt nagyon mély kutakat fúrniuk."
+        ],
+        "ro": [
+          "Ati este situat direct pe un wadi care este adesea uscat luni de zile.",
+          "Economia locală este extrem de influențată de comerțul nomad cu animale.",
+          "Climatul aspru și semi-arid permite aproape doar cultivarea meiului.",
+          "Deșertificarea progresivă este o amenințare existențială masivă.",
+          "ONG-urile internaționale trebuie adesea să foreze fântâni foarte adânci aici."
+        ],
+        "en": [
+          "Ati is located directly on a wadi that frequently dries up for months.",
+          "The local economy is heavily dominated by nomadic livestock trading.",
+          "The harsh, semi-arid climate almost exclusively allows for millet cultivation.",
+          "Rapidly advancing desertification is a massive existential threat here.",
+          "International NGOs frequently have to drill very deep water wells."
+        ]
+      }
+    },
+    {
+      "id": "mao-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mao ist die Hauptstadt der Provinz Kanem und liegt im westlichen Tschad am direkten Rand der unerbittlichen Sahara. Geografisch ist die Stadt von einer extrem trockenen, sandigen Umgebung geprägt, die stetig von der fortschreitenden Wüstenbildung (Desertifikation) bedroht wird. Wirtschaftlich existiert in Mao absolut keine formelle Industrie. Die hochgradig verarmte Bevölkerung lebt fast ausschließlich von der traditionellen nomadischen Viehzucht und begrenztem Ackerbau in den wenigen, verstreuten Oasen der Region. Historisch ist Mao jedoch von enormer kultureller und politischer Bedeutung: Es ist die historische und offizielle Residenz des Sultans von Kanem und war ein zentraler Machtbereich des alten, legendären Kanem-Bornu-Reiches, das jahrhundertelang den lukrativen trans-saharischen Handel dominierte. Noch heute übt der traditionelle Sultan eine sehr große moralische und gesellschaftliche Autorität über die Bevölkerung aus. Die Stadt verfügt über kaum moderne Infrastruktur, und die ständige, akute Wasserknappheit macht das tägliche Leben zu einer extremen Herausforderung. Stromausfälle und völlig unbefestigte Sandpisten blockieren jegliche Bemühungen um eine formelle wirtschaftliche Entwicklung.",
+        "hu": "Mao a Kanem tartomány fővárosa, és Nyugat-Csádban fekszik, közvetlenül a könyörtelen Szahara peremén. Földrajzilag a várost egy rendkívül száraz, homokos környezet jellemzi, amelyet folyamatosan fenyeget a növekvő elsivatagosodás (dezertifikáció). Gazdasági szempontból Maóban abszolút semmilyen formális ipar nem létezik. A nagymértékben elszegényedett lakosság szinte kizárólag a hagyományos nomád állattenyésztésből és a régió néhány szétszórt oázisában folytatott korlátozott földművelésből él. Történelmileg azonban Mao óriási kulturális és politikai jelentőséggel bír: ez a Kanemi Szultán történelmi és hivatalos rezidenciája, és a régi, legendás Kanem-Bornu Birodalom központi hatalmi területe volt, amely évszázadokon át uralta a jövedelmező transzszaharai kereskedelmet. A hagyományos szultán még ma is nagyon nagy erkölcsi és társadalmi tekintélyt gyakorol a lakosság felett. A város alig rendelkezik modern infrastruktúrával, és az állandó, akut vízhiány rendkívüli kihívássá teszi a mindennapi életet. Az áramkimaradások és a teljesen burkolatlan homokos utak blokkolnak minden formális gazdasági fejlesztésre irányuló törekvést.",
+        "ro": "Mao este capitala provinciei Kanem și este situată în vestul Ciadului, chiar la marginea necruțătorului deșert Sahara. Geografic, orașul este caracterizat de un mediu nisipos, extrem de uscat, care este constant amenințat de deșertificarea progresivă. Din punct de vedere economic, în Mao nu există absolut nicio industrie formală. Populația puternic sărăcită trăiește aproape exclusiv din creșterea tradițională nomadă a animalelor și din agricultura limitată în puținele oaze dispersate din regiune. Istoric, însă, Mao are o importanță culturală și politică enormă: este reședința istorică și oficială a Sultanului din Kanem și a fost un domeniu central de putere al vechiului, legendarului Imperiu Kanem-Bornu, care a dominat comerțul trans-saharian timp de secole. Chiar și astăzi, sultanul tradițional exercită o foarte mare autoritate morală și socială asupra populației. Orașul nu are aproape deloc infrastructură modernă, iar lipsa constantă și acută de apă face ca viața de zi cu zi să fie o provocare extremă. Drumurile de nisip neasfaltate blochează complet dezvoltarea.",
+        "en": "Mao is the capital of the Kanem province and is located in western Chad, directly on the edge of the unforgiving Sahara Desert. Geographically, the city is characterized by an extremely dry, sandy environment that is constantly threatened by rapidly advancing desertification. Economically, absolutely no formal industry exists in Mao. The highly impoverished population lives almost exclusively from traditional nomadic livestock farming and highly limited agriculture in the few scattered oases of the region. Historically, however, Mao is of enormous cultural and political importance: it is the historical and official residence of the Sultan of Kanem and was a central domain of power for the ancient, legendary Kanem-Bornu Empire, which dominated the lucrative trans-Saharan trade for centuries. Even today, the traditional Sultan continues to exercise highly significant moral and social authority over the local population. The city possesses almost no modern infrastructure whatsoever, and the constant, acute water scarcity makes daily life an extreme challenge. Severe power outages and completely unpaved sandy tracks firmly block any attempts at formal economic development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mao liegt im extrem trockenen Westen direkt am Rand der Sahara.",
+          "Die Stadt ist die historische Residenz des Sultans von Kanem.",
+          "Es war das absolute Machtzentrum des alten Kanem-Bornu-Reiches.",
+          "Die lokale Bevölkerung lebt fast exklusiv von der Nomadenwirtschaft.",
+          "Akute Wasserknappheit und Sandpisten blockieren jede Entwicklung."
+        ],
+        "hu": [
+          "Mao az extrém száraz nyugaton, közvetlenül a Szahara peremén fekszik.",
+          "A város a Kanemi Szultán hivatalos és történelmi rezidenciája.",
+          "Ez volt a régi Kanem-Bornu Birodalom abszolút hatalmi központja.",
+          "A helyi lakosság szinte kizárólag a nomád pásztorkodásból él.",
+          "Az akut vízhiány és a homokos utak minden modern fejlődést blokkolnak."
+        ],
+        "ro": [
+          "Mao este situat în vestul extrem de uscat, direct la marginea Saharei.",
+          "Orașul este reședința istorică oficială a Sultanului din Kanem.",
+          "A fost centrul absolut de putere al vechiului Imperiu Kanem-Bornu.",
+          "Populația locală trăiește aproape exclusiv din economia nomadă.",
+          "Lipsa acută de apă și pistele de nisip blochează orice dezvoltare."
+        ],
+        "en": [
+          "Mao is located in the extremely dry west, directly on the edge of the Sahara.",
+          "The city acts as the official historical residence of the Sultan of Kanem.",
+          "It was the absolute center of power for the ancient Kanem-Bornu Empire.",
+          "The local population survives almost exclusively on nomadic pastoralism.",
+          "Acute water scarcity and unpaved sandy tracks block all formal development."
+        ]
+      }
+    },
+    {
+      "id": "faya-largeau-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Faya-Largeau ist die größte und mit Abstand wichtigste Stadt im extremen Norden des Tschad und dient als Hauptstadt der massiven Provinz Borkou. Geografisch liegt die Stadt in einer riesigen Oase, die vollständig von der feindlichen, hyperariden Sahara umschlossen ist, was sie zu einem absolut kritischen Überlebenszentrum für Karawanen und Nomaden macht. Wirtschaftlich dominiert in Faya-Largeau der intensive Dattelanbau; die ausgedehnten Palmenplantagen der Stadt produzieren einen großen Teil der nationalen Dattelernte, die über weite und gefährliche Strecken in den Süden transportiert wird. Historisch war die Stadt ursprünglich unter dem Namen Largeau als hochgradig zentraler militärischer Stützpunkt der französischen Kolonialarmee bekannt. In den 1980er Jahren war Faya-Largeau ein erbittert umkämpftes, strategisches Gebiet während des blutigen tschadisch-libyschen Konflikts und wurde mehrfach massiv bombardiert. Heute ist die Stadt noch immer ein extrem wichtiger tschadischer Militärstützpunkt. Die zivile Infrastruktur ist stark isoliert; die Anreise erfolgt meist über unbefestigte Wüstenpisten oder den kleinen lokalen Flughafen. Das raue Wüstenklima prägt das harte Leben der Anwohner stark.",
+        "hu": "Faya-Largeau a legnagyobb és messze a legfontosabb város Csád távoli északi részén, és a hatalmas Borkou tartomány fővárosaként szolgál. Földrajzilag a város egy óriási oázisban fekszik, amelyet teljesen körülvesz a könyörtelen, hiperarid Szahara, ami miatt abszolút kritikus túlélési központ a karavánok és a nomádok számára. Gazdasági szempontból Faya-Largeauban az intenzív datolyatermesztés dominál; a város kiterjedt pálmaültetvényei állítják elő a nemzeti datolyatermés jelentős részét, amelyet hosszú és veszélyes utakon szállítanak délre. Történelmileg a város eredetileg Largeau néven a francia gyarmati hadsereg rendkívül központi katonai támaszpontjaként volt ismert. Az 1980-as években Faya-Largeau ádázul vitatott, stratégiai terület volt a véres csádi-líbiai konfliktus során, és többször is masszív bombatámadások érték. Ma a város még mindig rendkívül fontos csádi katonai bázis. A polgári infrastruktúra erősen elszigetelt; az utazás többnyire burkolatlan sivatagi utakon vagy a kis helyi repülőtéren keresztül történik. A zord sivatagi éghajlat erősen meghatározza a lakosok kemény mindennapi életét.",
+        "ro": "Faya-Largeau este cel mai mare și de departe cel mai important oraș din nordul extrem al Ciadului și servește drept capitală a masivei provincii Borkou. Geografic, orașul este situat într-o oază uriașă care este complet înconjurată de Sahara ostilă, hiperaridă, ceea ce îl face un centru de supraviețuire absolut critic pentru caravane și nomazi. Din punct de vedere economic, cultivarea intensivă a curmalelor domină în Faya-Largeau; plantațiile extinse de palmieri ale orașului produc o mare parte din recolta națională de curmale, care este transportată pe distanțe lungi și periculoase către sud. Istoric, orașul a fost inițial cunoscut sub numele de Largeau ca o bază militară extrem de centrală a armatei coloniale franceze. În anii 1980, Faya-Largeau a fost o zonă strategică disputată cu înverșunare în timpul sângerosului conflict ciadiano-libian și a fost bombardată masiv de mai multe ori. Astăzi, orașul este încă o bază militară extrem de importantă. Infrastructura civilă este puternic izolată.",
+        "en": "Faya-Largeau is the largest and by far the most important city in the extreme north of Chad, serving as the official capital of the massive Borkou province. Geographically, the city is located in a giant oasis that is completely enclosed by the hostile, hyper-arid Sahara Desert, making it an absolutely critical survival hub for trading caravans and nomadic herders. Economically, intensive date cultivation entirely dominates Faya-Largeau; the city's extensive palm plantations produce a large portion of the national date harvest, which is subsequently transported over long and dangerous desert routes to the southern markets. Historically, the city was originally known under the name Largeau as a highly central military base for the French colonial army. In the 1980s, Faya-Largeau was a fiercely contested, highly strategic area during the bloody Chadian-Libyan conflict and was subjected to massive aerial bombardments on several occasions. Today, the city remains an extremely important Chadian military base. Civilian infrastructure is highly isolated; access is usually via unpaved desert tracks or the small local airport. The extremely harsh desert climate firmly dictates the tough daily lives of the local residents."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Faya-Largeau ist die wichtigste Metropole im tiefen Norden des Tschad.",
+          "Die Stadt liegt in einer massiven Oase inmitten der feindlichen Sahara.",
+          "Die lokale Wirtschaft stützt sich fast komplett auf Dattelplantagen.",
+          "In den 1980ern wurde die Stadt im Krieg gegen Libyen schwer bombardiert.",
+          "Die Stadt operiert bis heute als extrem wichtiger Militärstützpunkt."
+        ],
+        "hu": [
+          "Faya-Largeau a legfontosabb metropolisz Csád távoli északi részén.",
+          "A város egy hatalmas oázisban fekszik a könyörtelen Szahara közepén.",
+          "A helyi gazdaság szinte teljes mértékben az intenzív datolyatermesztésre épül.",
+          "Az 1980-as években a várost a Líbia elleni háborúban súlyosan lebombázták.",
+          "A város a mai napig rendkívül fontos nemzeti katonai támaszpontként működik."
+        ],
+        "ro": [
+          "Faya-Largeau este cea mai importantă metropolă din nordul profund al Ciadului.",
+          "Orașul este situat într-o oază masivă în mijlocul Saharei ostile.",
+          "Economia locală se bazează aproape complet pe plantațiile de curmali.",
+          "În anii 1980, orașul a fost puternic bombardat în războiul împotriva Libiei.",
+          "Orașul operează și astăzi ca o bază militară națională extrem de importantă."
+        ],
+        "en": [
+          "Faya-Largeau is the most important metropolis in the deep north of Chad.",
+          "The city is located in a massive oasis entirely surrounded by the hostile Sahara.",
+          "The local economy relies almost completely on intensive date plantations.",
+          "In the 1980s, the city was heavily bombarded during the war against Libya.",
+          "The city continues to operate as an extremely important national military base."
+        ]
+      }
+    },
+    {
+      "id": "massakory-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Massakory ist die administrative Hauptstadt der Provinz Hadjer-Lamis und liegt im westlichen Tschad, an einer hochgradig strategischen Verkehrsroute, die die Hauptstadt N'Djamena mit der ökologisch fragilen Tschadsee-Region verbindet. Geografisch ist das Gebiet von flachen, halbtrockenen und dornigen Savannen geprägt, die den Übergang zur Sahelzone markieren. Wirtschaftlich fungiert die Stadt als ein extrem wichtiger Transit- und Handelsort, insbesondere für den lukrativen regionalen Viehhandel. Nomadische und halbnomadische Hirten treiben ihre riesigen Rinder- und Kamelherden systematisch durch Massakory, um letztendlich die großen städtischen Schlachthöfe in N'Djamena zu versorgen. Historisch entwickelte sich die Stadt aufgrund ihrer Knotenpunktlage zu einem administrativen Zentrum, blieb aber wirtschaftlich stark vom modernen, formellen Sektor abgeschnitten. Die grundlegende Landwirtschaft stützt sich lediglich auf Sorghum und Erdnüsse, wird aber durch die harten klimatischen Bedingungen stark limitiert. Wie viele andere Städte der Region leidet Massakory unter einem massiven Mangel an öffentlichen Dienstleistungen wie Gesundheitsversorgung und stabilen Stromnetzen. Internationale NGOs nutzen die Stadt aufgrund der Lage oft als operative Basis.",
+        "hu": "Massakory a Hadjer-Lamis tartomány közigazgatási fővárosa, és Nyugat-Csádban található, egy rendkívül stratégiai közlekedési útvonalon, amely a fővárost, N'Djamenát köti össze az ökológiailag törékeny Csád-tó régióval. Földrajzilag a területet lapos, félszáraz és tüskés szavannák jellemzik, amelyek a Száhel-övezetbe való átmenetet jelölik. Gazdasági szempontból a város rendkívül fontos tranzit- és kereskedelmi helyként funkcionál, különösen a jövedelmező regionális állatkereskedelem számára. A nomád és félnomád pásztorok szisztematikusan Massakoryn keresztül hajtják hatalmas szarvasmarha- és tevecsordáikat, hogy végső soron ellássák N'Djamena nagy városi vágóhídjait. Történelmileg a város csomóponti fekvése miatt közigazgatási központtá fejlődött, de gazdaságilag erősen elszigetelve maradt a modern, formális szektortól. Az alapvető mezőgazdaság csupán a cirokra és a földimogyoróra támaszkodik, de a kemény éghajlati viszonyok ezt is erősen korlátozzák. A régió sok más városához hasonlóan Massakory is masszívan szenved a közszolgáltatások, például az egészségügy és a stabil villamosenergia-hálózatok hiányától. A nemzetközi civil szervezetek elhelyezkedése miatt gyakran használják a várost operatív bázisként.",
+        "ro": "Massakory este capitala administrativă a provinciei Hadjer-Lamis și este situată în vestul Ciadului, pe o rută de transport extrem de strategică care leagă capitala N'Djamena de regiunea fragilă din punct de vedere ecologic a Lacului Ciad. Geografic, zona se caracterizează prin savane plate, semi-aride și spinoase care marchează tranziția către Sahel. Din punct de vedere economic, orașul funcționează ca o locație de tranzit și comerț extrem de importantă, în special pentru comerțul regional lucrativ cu vite. Păstorii nomazi și semi-nomazi își conduc sistematic turmele uriașe de vite și cămile prin Massakory pentru a aproviziona în cele din urmă marile abatoare urbane din N'Djamena. Istoric, orașul s-a dezvoltat într-un centru administrativ datorită locației sale de intersecție, dar a rămas din punct de vedere economic deconectat de sectorul formal modern. Agricultura de bază se bazează doar pe sorg și alune, fiind puternic limitată de condițiile climatice aspre. La fel ca multe alte orașe, Massakory suferă de o lipsă masivă de servicii publice.",
+        "en": "Massakory is the administrative capital of the Hadjer-Lamis province and is located in western Chad on a highly strategic transport route that directly connects the capital, N'Djamena, with the ecologically fragile Lake Chad region. Geographically, the area is characterized by flat, semi-arid, and thorny savannas that clearly mark the transition into the Sahel zone. Economically, the city functions as an extremely important transit and trading hub, particularly for the highly lucrative regional livestock trade. Nomadic and semi-nomadic herders systematically drive their massive herds of cattle and camels through Massakory in order to ultimately supply the large urban slaughterhouses in N'Djamena. Historically, the city developed into a vital administrative center due to its junction location but remained economically largely cut off from the modern, formal sector. Basic agriculture relies solely on sorghum and peanuts but is heavily limited by the harsh climatic conditions. Like many other cities in the region, Massakory suffers from a massive lack of essential public services such as adequate healthcare and stable power grids. International NGOs frequently use the city as an operational base due to its strategic location."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Massakory liegt strategisch wichtig auf dem Weg zur Tschadsee-Region.",
+          "Die Stadt ist ein absolut zentraler Transitpunkt für große Viehherden.",
+          "Nomaden treiben ihre Tiere von hier direkt zu den Märkten der Hauptstadt.",
+          "Das raue, halbtrockene Klima erlaubt fast nur den Anbau von Hirse.",
+          "Internationale NGOs nutzen die Stadt oft als sichere logistische Basis."
+        ],
+        "hu": [
+          "Massakory stratégiailag fontos helyen, a Csád-tó régió felé vezető úton fekszik.",
+          "A város egy abszolút központi tranzitpont a hatalmas állatcsordák számára.",
+          "A nomádok innen egyenesen a főváros nagy piacaira hajtják állataikat.",
+          "A zord, félszáraz éghajlat szinte csak a helyi köles termesztését engedi meg.",
+          "A nemzetközi civil szervezetek gyakran biztonságos logisztikai bázisként használják."
+        ],
+        "ro": [
+          "Massakory este situat strategic pe drumul spre regiunea Lacului Ciad.",
+          "Orașul este un punct de tranzit absolut central pentru turmele mari de vite.",
+          "Nomazii își conduc animalele de aici direct la piețele mari din capitală.",
+          "Climatul aspru permite aproape doar cultivarea meiului rezistent la secetă.",
+          "ONG-urile internaționale folosesc adesea orașul ca bază logistică sigură."
+        ],
+        "en": [
+          "Massakory is highly strategically located on the primary route to the Lake Chad region.",
+          "The city acts as an absolutely central transit point for massive livestock herds.",
+          "Nomadic herders actively drive their animals from here directly to the capital's markets.",
+          "The harsh, semi-arid climate allows almost exclusively for basic millet cultivation.",
+          "International NGOs frequently utilize the city as a highly secure logistical base."
+        ]
+      }
+    },
+    {
+      "id": "moussoro-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Moussoro ist die administrative Hauptstadt der Provinz Barh El Gazel im zentral-westlichen Tschad. Geografisch liegt die Stadt hochgradig strategisch in einem breiten, ausgetrockneten Flussbett (Wadi) mitten in der extrem kargen und sandigen Sahelzone. Wirtschaftlich ist die stark isolierte Region fast vollständig auf nomadische und halbnomadische Viehwirtschaft ausgerichtet. Moussoro fungiert dabei als ein absolut zentraler Treffpunkt für Kamel-, Rinder- und Ziegenzüchter, die hier ihre Tiere an Zwischenhändler tauschen oder verkaufen. Historisch und sicherheitspolitisch ist die Stadt von massiver nationaler Bedeutung, da sie das Hauptquartier der tschadischen Nationalarmee für alle nördlichen Militäroperationen sowie ein sehr großes, gefürchtetes Hochsicherheitsgefängnis beherbergt. Diese schwere militärische Präsenz dominiert die lokale Ökonomie und die spärliche Infrastruktur komplett. Die zivile Wirtschaft leidet hingegen extrem unter der anhaltenden, aggressiven Wüstenbildung und der akuten Wasserknappheit. Es gibt kaum asphaltierte Straßen in der Region, und die traditionellen, flachen Lehmbauten prägen das architektonische Bild der Stadt.",
+        "hu": "Moussoro a Barh El Gazel tartomány közigazgatási fővárosa Csád középső-nyugati részén. Földrajzilag a város rendkívül stratégiai helyen, egy széles, kiszáradt folyómederben (vádiban) fekszik a szélsőségesen kopár és homokos Száhel-övezet közepén. Gazdasági szempontból az erősen elszigetelt régió szinte teljes mértékben a nomád és félnomád állattenyésztésre rendezkedett be. Moussoro abszolút központi találkozóhelyként funkcionál a teve-, szarvasmarha- és kecsketenyésztők számára, akik itt cserélik vagy adják el állataikat a közvetítőknek. Történelmi és biztonságpolitikai szempontból a város hatalmas nemzeti jelentőséggel bír, mivel itt található a csádi nemzeti hadsereg északi katonai műveleteinek főhadiszállása, valamint egy nagyon nagy, rettegett szigorított fegyház. Ez a súlyos katonai jelenlét teljesen uralja a helyi ökonómiát és a gyér infrastruktúrát. A civil gazdaság ezzel szemben rendkívül sokat szenved a folyamatos, agresszív elsivatagosodástól és az akut vízhiánytól. A régióban alig vannak aszfaltozott utak, és a hagyományos, lapos vályogépületek határozzák meg a város építészeti képét.",
+        "ro": "Moussoro este capitala administrativă a provinciei Barh El Gazel din partea central-vestică a Ciadului. Geografic, orașul este situat într-o locație extrem de strategică, într-o albie de râu largă, complet uscată (wadi), în mijlocul zonei Sahel extrem de aride și nisipoase. Economic, regiunea puternic izolată se bazează aproape în întregime pe creșterea animalelor nomadă și semi-nomadă. Moussoro acționează ca un punct de întâlnire absolut central pentru crescătorii de cămile, vite și capre, care își schimbă sau își vând animalele intermediarilor aici. Din punct de vedere istoric și al politicii de securitate, orașul are o importanță națională masivă, deoarece găzduiește sediul armatei naționale din Ciad pentru toate operațiunile militare nordice, precum și o închisoare de maximă securitate foarte mare și de temut. Această prezență militară grea domină complet economia locală și infrastructura rară. Economia civilă, pe de altă parte, suferă extrem de mult din cauza deșertificării agresive.",
+        "en": "Moussoro is the administrative capital of the Barh El Gazel province located in the central-western part of Chad. Geographically, the city is highly strategically situated in a wide, completely dried-out riverbed (wadi) right in the middle of the extremely barren and sandy Sahel zone. Economically, the highly isolated region is almost entirely geared toward nomadic and semi-nomadic livestock farming. Moussoro acts as an absolutely central meeting point for camel, cattle, and goat herders who systematically trade or sell their animals to middlemen here. Historically and in terms of security policy, the city is of massive national importance, as it houses the headquarters of the Chadian national army for all northern military operations, as well as a very large, widely feared maximum-security prison. This heavy military presence completely dominates the local economy and the otherwise sparse infrastructure. The civilian economy, on the other hand, suffers extremely from ongoing, aggressive desertification and acute water scarcity. There are virtually no paved roads in the region, and traditional, flat mud-brick buildings strongly characterize the city's architecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Moussoro liegt in einem ausgetrockneten Wadi mitten in der Sahara-Randzone.",
+          "Die Wirtschaft basiert rein auf nomadischem Kamel- und Rinderhandel.",
+          "Die Stadt beherbergt ein wichtiges Hauptquartier der Nationalarmee.",
+          "In Moussoro befindet sich das bekannteste Hochsicherheitsgefängnis des Landes.",
+          "Das Stadtbild wird fast komplett von traditionellen Lehmbauten geprägt."
+        ],
+        "hu": [
+          "Moussoro egy kiszáradt vádiban, a Szahara peremvidékének közepén fekszik.",
+          "A helyi gazdaság tisztán a nomád teve- és szarvasmarha-kereskedelemre épül.",
+          "A város ad otthont a csádi nemzeti hadsereg egy nagyon fontos főhadiszállásának.",
+          "Moussoróban található az ország legismertebb és legszigorúbb fegyháza.",
+          "A sivatagi városképet szinte teljesen a hagyományos vályogépületek uralják."
+        ],
+        "ro": [
+          "Moussoro se află într-un wadi complet uscat în mijlocul marginii Saharei.",
+          "Economia se bazează pur pe comerțul nomad cu cămile și vite.",
+          "Orașul găzduiește un sediu militar extrem de important al armatei naționale.",
+          "Închisoarea de maximă securitate cea mai faimoasă din țară se află aici.",
+          "Peisajul urban este dominat aproape complet de clădiri tradiționale din lut."
+        ],
+        "en": [
+          "Moussoro is located in a dried-up wadi right in the middle of the Sahara fringe.",
+          "The economy relies purely on nomadic camel and cattle trade with intermediaries.",
+          "It hosts a key headquarters of the Chadian national army.",
+          "Moussoro contains the country's most feared maximum-security prison.",
+          "Traditional flat mud-brick buildings dominate the cityscape."
+        ]
+      }
+    }
+  ]
+}

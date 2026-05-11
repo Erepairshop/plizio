@@ -1,0 +1,59 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauNatureV2.ts"],
+  "items": [
+    {
+      "id": "galinhas-island-nature-v2",
+      "descriptionAdvancedDe": "Die Insel Galinhas liegt in unmittelbarer Nähe von Bubaque und ist ein beliebtes Ziel für Tagesausflüge. Der Name, der 'Hühnerinsel' bedeutet, stammt möglicherweise von der früheren Hühnerzucht. Heute ist die Insel für ihre ruhige Atmosphäre, ihre freundlichen Bewohner und ihre landschaftliche Schönheit bekannt. Die Landschaft ist eine Mischung aus Savanne, Cashew-Plantagen und Mangroven an der Küste. Ein kurzer Spaziergang führt zu einem Leuchtturm, der einen Panoramablick auf die umliegenden Inseln des Bijagós-Archipels bietet. Die Strände sind ideal zum Entspannen und Schwimmen im ruhigen Wasser. Im Plizio-Sozialkundeunterricht (K5) wird die Insel als Beispiel für das tägliche Leben und die lokale Landwirtschaft in einer kleinen Inselgemeinschaft des Archipels vorgestellt.",
+      "descriptionAdvancedHu": "A Galinhas-sziget Bubaque közvetlen közelében található, és népszerű célpont a napos kirándulásokhoz. A neve, amely „Tyúk-szigetet” jelent, valószínűleg a korábbi csirketenyésztésből származik. Ma a sziget nyugodt légköréről, barátságos lakóiról és festői szépségéről ismert. A táj szavanna, kesudió-ültetvények és part menti mangrovék keveréke. Egy rövid séta vezet egy világítótoronyhoz, ahonnan panorámás kilátás nyílik a Bijagós-szigetcsoport környező szigeteire. A strandok ideálisak a pihenésre és az úszásra a nyugodt vízben. A Plizio társadalomismereti óráin (K5) a sziget a mindennapi élet és a helyi mezőgazdaság példájaként szerepel a szigetcsoport egy kis szigeti közösségében.",
+      "descriptionAdvancedRo": "Insula Galinhas este situată în imediata apropiere a insulei Bubaque și este o destinație populară pentru excursii de o zi. Numele, care înseamnă „Insula Găinilor”, provine probabil de la creșterea de pui din trecut. Astăzi, insula este cunoscută pentru atmosfera sa liniștită, locuitorii prietenoși și frumusețea peisajului. Peisajul este un amestec de savană, plantații de caju și mangrove de-a lungul coastei. O scurtă plimbare duce la un far care oferă o vedere panoramică asupra insulelor înconjurătoare din Arhipelagul Bijagós. Plajele sunt ideale pentru relaxare și înot în apele calme. La lecțiile de studii sociale Plizio (K5), insula este prezentată ca un exemplu al vieții de zi cu zi și al agriculturii locale într-o mică comunitate insulară din arhipelag.",
+      "descriptionAdvancedEn": "Galinhas Island is located in the immediate vicinity of Bubaque and is a popular destination for day trips. Its name, meaning 'Chicken Island', possibly originates from past chicken farming. Today, the island is known for its tranquil atmosphere, friendly inhabitants, and scenic beauty. The landscape is a mix of savanna, cashew plantations, and coastal mangroves. A short walk leads to a lighthouse that offers panoramic views of the surrounding islands of the Bijagós Archipelago. The beaches are ideal for relaxing and swimming in the calm waters. In Plizio's social studies classes (K5), the island is presented as an example of daily life and local agriculture in a small island community within the archipelago.",
+      "factsAdvanced": [
+        "Bubaque szigetének közelében található.",
+        "A neve azt jelenti: „Tyúk-sziget”.",
+        "Népszerű kirándulóhely.",
+        "Van egy világítótorony a szigeten.",
+        "Panorámás kilátást nyújt a többi szigetre.",
+        "A tájat szavanna és kesu-ültetvények jellemzik.",
+        "Barátságos helyi közösség lakja.",
+        "Könnyen megközelíthető Bubaque-ból."
+      ]
+    },
+    {
+      "id": "soga-island-nature-v2",
+      "descriptionAdvancedDe": "Soga ist eine bewohnte Insel, die östlich von Bubaque im Bijagós-Archipel liegt. Sie ist kleiner und weniger besucht als ihre Nachbarin, bietet aber einen authentischen Einblick in das traditionelle Leben der Bijagó. Die Insel ist bekannt für ihre gastfreundlichen Dorfgemeinschaften, in denen Besucher die lokale Kultur hautnah erleben können. Die Landschaft besteht hauptsächlich aus Palmenhainen, kleinen landwirtschaftlichen Flächen und Mangrovensümpfen. Die Küstenlinie ist durchsetzt mit kleinen, sandigen Buchten. Von bestimmten Punkten der Insel aus hat man eine wunderschöne Aussicht auf Bubaque und die Weite des Archipels. Im Plizio-Kulturanthropologie-Kurs (K9) wird Soga als Beispiel für die soziale Organisation und die Gastfreundschaftstraditionen in den Dörfern des Bijagós-Archipels untersucht.",
+      "descriptionAdvancedHu": "Soga egy lakott sziget, amely Bubaque-tól keletre fekszik a Bijagós-szigetcsoportban. Kisebb és kevésbé látogatott, mint a szomszédja, de hiteles bepillantást nyújt a hagyományos bijagó életbe. A sziget vendégszerető falusi közösségeiről ismert, ahol a látogatók testközelből tapasztalhatják meg a helyi kultúrát. A táj főként pálmaligetekből, kis mezőgazdasági területekből és mangrovemocsarakból áll. A partvonalat apró, homokos öblök tarkítják. A sziget bizonyos pontjairól gyönyörű kilátás nyílik Bubaque-ra és a szigetvilágra. A Plizio kulturális antropológia kurzusán (K9) Soga a Bijagós-szigetcsoport falvainak társadalmi szervezettségét és vendégszereteti hagyományait vizsgálja.",
+      "descriptionAdvancedRo": "Soga este o insulă locuită situată la est de Bubaque, în Arhipelagul Bijagós. Este mai mică și mai puțin vizitată decât vecina sa, dar oferă o perspectivă autentică asupra vieții tradiționale Bijagó. Insula este cunoscută pentru comunitățile sale sătești primitoare, unde vizitatorii pot experimenta cultura locală de aproape. Peisajul este format în principal din plantații de palmieri, mici terenuri agricole și mlaștini de mangrove. Linia de coastă este presărată cu mici golfuri nisipoase. Anumite puncte de pe insulă oferă vederi frumoase spre Bubaque și întinderea arhipelagului. La cursul de antropologie culturală Plizio (K9), Soga este studiată ca un exemplu de organizare socială și tradiții de ospitalitate în satele din Arhipelagul Bijagós.",
+      "descriptionAdvancedEn": "Soga is an inhabited island located to the east of Bubaque in the Bijagós Archipelago. It is smaller and less visited than its neighbor but offers an authentic insight into the traditional life of the Bijagó people. The island is known for its hospitable village communities, where visitors can experience the local culture up close. The landscape consists mainly of palm groves, small agricultural plots, and mangrove swamps. The coastline is interspersed with small, sandy coves. From certain points on the island, there are beautiful views of Bubaque and the expanse of the archipelago. In Plizio's cultural anthropology course (K9), Soga is studied as an example of social organization and hospitality traditions in the villages of the Bijagós Archipelago.",
+      "factsAdvanced": [
+        "Bubaque-tól keletre található.",
+        "Hiteles bijagó falusi élet.",
+        "Vendégszerető közösségekről ismert.",
+        "A tájat pálmaligetek uralják.",
+        "Kisebb, mint a szomszédos Bubaque.",
+        "Gyönyörű kilátás nyílik a szigetcsoportra.",
+        "Könnyen elérhető csónakkal Bubaque-ból.",
+        "Fontos a helyi közösségi turizmus szempontjából."
+      ]
+    },
+    {
+      "id": "cacheu-mangroves-nature-v2",
+      "descriptionAdvancedDe": "Der Parque Natural dos Tarrafes do Rio Cacheu, der 2000 gegründet wurde, erstreckt sich über 886 Quadratkilometer im Norden Guinea-Bissaus. Er schützt eines der größten zusammenhängenden Mangroven-Ökosysteme in Westafrika entlang des Ästuars des Rio Cacheu. Diese Mangrovenwälder, die von den Gezeiten überflutet werden, sind von entscheidender ökologischer Bedeutung. Sie dienen als Kinderstube für unzählige Fisch- und Krustentierarten, stabilisieren die Küstenlinie und speichern enorme Mengen an Kohlenstoff. Der Park ist ein Paradies für Vogelbeobachter und beherbergt eine bedeutende Population des gefährdeten Westafrikanischen Manatis. Er ist auch Lebensraum für Krokodile, Flusspferde und verschiedene Affenarten. Im Plizio-Umweltstudien-Programm (K10) ist das Gebiet eine wichtige Fallstudie, um die Rolle von Mangroven im Küstenschutz und im Klimawandel zu verstehen.",
+      "descriptionAdvancedHu": "A 2000-ben alapított Rio Cacheu Mangrove Nemzeti Park 886 négyzetkilométeren terül el Bissau-Guinea északi részén. Nyugat-Afrika egyik legnagyobb összefüggő mangrove-ökoszisztémáját védi a Cacheu-folyó torkolatvidékén. Ezek az árapály által elárasztott mangroveerdők kulcsfontosságú ökológiai jelentőséggel bírnak. Számtalan hal- és rákfaj bölcsőjeként szolgálnak, stabilizálják a partvonalat, és hatalmas mennyiségű szenet tárolnak. A park a madármegfigyelők paradicsoma, és otthont ad a veszélyeztetett nyugat-afrikai manátusz egy jelentős populációjának. Emellett krokodilok, vízilovak és különböző majomfajok élőhelye is. A Plizio környezettudományi programjában (K10) a terület fontos esettanulmány a mangrovék partvédelemben és az éghajlatváltozásban betöltött szerepének megértéséhez.",
+      "descriptionAdvancedRo": "Parcul Natural al Mangrovelor Râului Cacheu, înființat în anul 2000, se întinde pe 886 de kilometri pătrați în nordul Guineei-Bissau. Acesta protejează unul dintre cele mai mari ecosisteme de mangrove continue din Africa de Vest, de-a lungul estuarului râului Cacheu. Aceste păduri de mangrove, inundate de maree, sunt de o importanță ecologică crucială. Ele servesc drept pepinieră pentru nenumărate specii de pești și crustacee, stabilizează linia de coastă și stochează cantități enorme de carbon. Parcul este un paradis pentru observatorii de păsări și găzduiește o populație semnificativă a lamantinului vest-african, specie pe cale de dispariție. Este, de asemenea, habitat pentru crocodili, hipopotami și diverse specii de maimuțe. În programul de studii de mediu Plizio (K10), zona este un studiu de caz important pentru înțelegerea rolului mangrovelor în protecția costieră și în schimbările climatice.",
+      "descriptionAdvancedEn": "The Rio Cacheu Mangroves Natural Park, established in 2000, covers 886 square kilometers in northern Guinea-Bissau. It protects one of the largest continuous mangrove ecosystems in West Africa along the estuary of the Cacheu River. These mangrove forests, flooded by the tides, are of crucial ecological importance. They serve as a nursery for countless species of fish and crustaceans, stabilize the coastline, and store enormous amounts of carbon. The park is a paradise for birdwatchers and is home to a significant population of the vulnerable West African manatee. It is also a habitat for crocodiles, hippos, and various monkey species. In Plizio's environmental studies program (K10), the area is an important case study for understanding the role of mangroves in coastal protection and climate change.",
+      "factsAdvanced": [
+        "A parkot 2000-ben alapították.",
+        "Területe 886 km².",
+        "Nyugat-Afrika egyik legnagyobb mangrove-területe.",
+        "Fontos szén-dioxid-elnyelő.",
+        "A nyugat-afrikai manátusz menedékhelye.",
+        "Kiváló madármegfigyelő hely.",
+        "Stabilizálja a partvonalat az erózió ellen.",
+        "Fontos a halászat fenntarthatósága szempontjából."
+      ]
+    }
+  ]
+}

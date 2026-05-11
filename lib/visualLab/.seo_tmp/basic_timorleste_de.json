@@ -1,0 +1,91 @@
+{
+  "lang": "de",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uatucarbau-cities-v2",
+      "description": "Uatucarbau ist eine Stadt in der Gemeinde Viqueque im Südosten von Osttimor. Sie liegt in einer von bewaldeten Hügeln umgebenen Region nahe der Südküste.",
+      "facts": ["Gemeinde Viqueque", "Südost-Timor", "Nahe der Südküste", "Hügelige Umgebung"]
+    },
+    {
+      "id": "ossu-cities-v2",
+      "description": "Ossu ist eine Stadt im Landesinneren von Osttimor in der Gemeinde Viqueque. Sie ist bekannt für ihre landschaftlich reizvolle Lage in einem Tal zwischen Bergzügen.",
+      "facts": ["Gemeinde Viqueque", "Im Landesinneren", "Tal-Lage", "Umliegende Bergwelt"]
+    },
+    {
+      "id": "alas-cities-v2",
+      "description": "Alas ist ein Verwaltungszentrum in der Gemeinde Manufahi. Die Region ist landwirtschaftlich geprägt und liegt südlich der zentralen Gebirgskette.",
+      "facts": ["Gemeinde Manufahi", "Landwirtschaftsregion", "Südlich des Gebirges", "Verwaltungszentrum"]
+    },
+    {
+      "id": "fatuberlio-cities-v2",
+      "description": "Fatuberlio ist ein Ort im Süden von Osttimor in der Gemeinde Manufahi. Die Gegend ist durch flacheres Küstenland und landwirtschaftliche Flächen gekennzeichnet.",
+      "facts": ["Gemeinde Manufahi", "Südküstenregion", "Flaches Land", "Agrarisch genutzt"]
+    },
+    {
+      "id": "turiscai-cities-v2",
+      "description": "Turiscai liegt im gebirgigen Hinterland der Gemeinde Manufahi. Der Ort ist durch steile Landschaften und eine abgelegene Lage im Inselinneren charakterisiert.",
+      "facts": ["Gemeinde Manufahi", "Bergiges Hinterland", "Abgelegene Lage", "Steile Landschaft"]
+    },
+    {
+      "id": "laclubar-cities-v2",
+      "description": "Laclubar ist ein Bergort in der Gemeinde Manatuto. Die Region ist von einer zerklüfteten Topographie und ausgedehnten, bewaldeten Hügeln geprägt.",
+      "facts": ["Gemeinde Manatuto", "Bergort", "Zerklüftete Topographie", "Bewaldete Hügel"]
+    },
+    {
+      "id": "fohorem-cities-v2",
+      "description": "Fohorem liegt in der Gemeinde Cova Lima im Südwesten von Osttimor nahe der Grenze. Die Gegend ist landschaftlich durch sanfte Hügel und Täler geprägt.",
+      "facts": ["Gemeinde Cova Lima", "Südwest-Timor", "Nahe der Grenze", "Hügelige Landschaft"]
+    },
+    {
+      "id": "maliana-border-trade-center-economic-v2",
+      "description": "Das Grenzübergangszentrum bei Maliana ist ein Knotenpunkt für den bilateralen Handel zwischen Osttimor und Indonesien. Es spielt eine wichtige Rolle für die lokale Wirtschaft der Grenzregion.",
+      "facts": ["Grenzknotenpunkt", "Bilateraler Handel", "Indonesische Grenze", "Wirtschaftszentrum"]
+    },
+    {
+      "id": "ermera-coffee-plantations-life-v2",
+      "description": "Die Kaffeeplantagen von Ermera bilden das Rückgrat der lokalen Wirtschaft und sind ein prägendes Element der Landschaft im Hochland von Osttimor.",
+      "facts": ["Kaffeeanbau-Zentrum", "Hochland-Region", "Wirtschaftsstütze", "Kulturlandschaft"]
+    },
+    {
+      "id": "cristo-rei-macaque-habitat-life-v2",
+      "description": "In der Nähe der Christus-Statue bei Dili gibt es Gebiete, in denen Makaken in ihrer natürlichen Umgebung beobachtet werden können. Dies ist ein bekanntes Ausflugsziel für Naturfreunde.",
+      "facts": ["Nahe Dili", "Makaken-Habitat", "Christus-Statue-Region", "Naturbeobachtung"]
+    },
+    {
+      "id": "maubisse-farms-life-v2",
+      "description": "Die landwirtschaftlichen Betriebe in Maubisse nutzen das kühle Gebirgsklima für den Anbau von verschiedenem Gemüse und anderen Nutzpflanzen.",
+      "facts": ["Gebirgsklima", "Gemüseanbau", "Maubisse-Region", "Landwirtschaftliche Nutzung"]
+    },
+    {
+      "id": "jardim-borja-da-costa-life-v2",
+      "description": "Der Jardim Borja da Costa ist ein öffentlicher Park oder Garten in Osttimor, der zur Erholung der lokalen Bevölkerung dient.",
+      "facts": ["Öffentlicher Garten", "Lokale Erholung", "Grünfläche", "Erholungsort"]
+    },
+    {
+      "id": "lospalos-livestock-life-v2",
+      "description": "Lospalos ist bekannt für die Viehhaltung, die ein wesentlicher Bestandteil der traditionellen Lebensweise und Landwirtschaft im östlichen Teil des Landes ist.",
+      "facts": ["Viehwirtschaft", "Östliche Region", "Traditionelle Landwirtschaft", "Lospalos"]
+    },
+    {
+      "id": "dili-promenade-park-life-v2",
+      "description": "Der Promenadenpark entlang der Küste von Dili bietet Raum für Bewegung und Freizeitaktivitäten direkt am Meer.",
+      "facts": ["Küstenpromenade", "Dili-Zentrum", "Freizeitgelände", "Meerblick"]
+    },
+    {
+      "id": "same-cocoa-farms-life-v2",
+      "description": "In der Region Same gibt es landwirtschaftliche Initiativen, die sich auf den Anbau von Kakao in feuchteren Lagen konzentrieren.",
+      "facts": ["Same-Region", "Kakaoanbau", "Landwirtschaftsprojekte", "Feuchte Lagen"]
+    },
+    {
+      "id": "fuiloro-plateau-farms-life-v2",
+      "description": "Das Fuiloro-Plateau ist eine landwirtschaftlich bedeutende Hochebene im Osten von Osttimor, die für ihre fruchtbaren Böden bekannt ist.",
+      "facts": ["Hochebene-Ost", "Fruchtbare Böden", "Landwirtschaftszentrum", "Fuiloro"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "O insulă cu un ecosistem unic, renumită pentru apele sale cristaline și diversitatea vieții marine din împrejurimi.",
+      "facts": ["Insulă unică", "Ape cristaline", "Viață marină", "Ecosistem"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "Zone forestiere extinse în Nampula, esențiale pentru reglarea climatică și habitatul diverselor specii de animale.",
+      "facts": ["Zone forestiere", "Esențial climatic", "Habitat animal", "Regiunea Nampula"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "Un relief montan spectaculos care domină peisajul local, oferind condiții naturale unice pentru flora montană.",
+      "facts": ["Relief montan", "Peisaj spectaculos", "Floră unică", "Songo"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "Un defileu adânc format de râul Zambezi, care prezintă formațiuni geologice impresionante și un ecosistem specific.",
+      "facts": ["Defileu adânc", "Râul Zambezi", "Formațiuni geologice", "Ecosistem specific"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "O pădure densă și biodiversă, vitală pentru conservarea speciilor rare de floră și faună din regiune.",
+      "facts": ["Pădure densă", "Biodiversitate", "Specii rare", "Conservare"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "Un rezervor de apă important, înconjurat de zone naturale care găzduiesc o varietate de păsări și mamifere.",
+      "facts": ["Rezervor de apă", "Observare păsări", "Mamifere", "Massingir"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "Un masiv montan caracterizat prin versanți abrupți și o vegetație specifică adaptată condițiilor locale.",
+      "facts": ["Masiv montan", "Versanți abrupți", "Vegetație specifică", "Adaptare"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "O zonă lacustră înconjurată de savană, oferind un habitat ideal pentru animale sălbatice în perioadele de secetă.",
+      "facts": ["Zonă lacustră", "Înconjurată de savană", "Habitat pentru animale", "Secetă"]
+    },
+    {
+      "id": "chinde-river-nature-v2",
+      "description": "O regiune deltaică unde râul se varsă în ocean, creând un ecosistem bogat în mangrove și viață marină.",
+      "facts": ["Regiune deltaică", "Vărsare în ocean", "Ecosistem mangrove", "Viață marină"]
+    },
+    {
+      "id": "lupata-forest-nature-v2",
+      "description": "O zonă împădurită lângă defileul Lupata, care susține un echilibru ecologic fragil și biodiversitate locală.",
+      "facts": ["Zonă împădurită", "Echilibru ecologic", "Biodiversitate", "Lupata"]
+    }
+  ]
+}

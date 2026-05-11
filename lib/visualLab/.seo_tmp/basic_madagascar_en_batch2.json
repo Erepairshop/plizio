@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    { "id": "fort-flacourt-ruins-landmarks-v2", "description": "The ruins of Fort Flacourt are historical remnants of the early French presence in Fort Dauphin.", "facts": ["French ruins", "17th century", "Fort Dauphin"] },
+    { "id": "palais-justice-amboasary-landmarks-v2", "description": "The Palace of Justice in Amboasary is a notable public building reflecting the regional administrative history.", "facts": ["Administrative building", "Amboasary city", "Regional landmark"] },
+    { "id": "katedraly-faravohitra-landmarks-v2", "description": "The Faravohitra Cathedral is a landmark red-brick church in Antananarivo, offering a glimpse into the city's religious history.", "facts": ["Red-brick church", "Antananarivo city", "Religious landmark"] },
+    { "id": "kirindy-wald-life-v2", "description": "Kirindy Forest is a private reserve famous for its population of fossa, the largest predator in Madagascar.", "facts": ["Dry deciduous forest", "Fossa habitat", "Giant jumping rat"] },
+    { "id": "tsingy-bemaraha-park-life-v2", "description": "Tsingy de Bemaraha National Park is a UNESCO World Heritage site known for its dramatic 'stone forests'.", "facts": ["UNESCO World Heritage", "Stone forest", "Endemic biodiversity"] },
+    { "id": "sahambavy-tee-plantage-life-v2", "description": "The Sahambavy Tea Plantation is the only tea producer in Madagascar, set in a beautiful landscape near Fianarantsoa.", "facts": ["Tea plantation", "Near Fianarantsoa", "Scenic area"] },
+    { "id": "antsirabe-kinderpark-life-v2", "description": "The children's park in Antsirabe is a popular recreational area in the heart of this highlands city.", "facts": ["Recreational park", "Antsirabe city", "Family destination"] },
+    { "id": "andasibe-orchid-park-life-v2", "description": "The orchid park in Andasibe showcases a vast array of Madagascar's unique and beautiful orchid species.", "facts": ["Orchid species", "Andasibe region", "Flora conservation"] },
+    { "id": "vakona-lemuren-insel-life-v2", "description": "Lemur Island at Vakona Forest Lodge allows visitors to see several species of lemurs in a semi-wild environment.", "facts": ["Lemur sanctuary", "Private reserve", "Close encounters"] },
+    { "id": "tamatave-stadtpark-life-v2", "description": "The city park of Tamatave (Toamasina) provides a green space for relaxation in Madagascar's largest port city.", "facts": ["City park", "Toamasina city", "Green space"] },
+    { "id": "nosy-be-korallenriff-life-v2", "description": "The coral reefs around Nosy Be are teeming with vibrant marine life, making it a world-class diving spot.", "facts": ["Coral reefs", "Marine biodiversity", "Diving destination"] },
+    { "id": "ranomafana-zoo-bereich-life-v2", "description": "The zoo section of Ranomafana provides an educational look at the unique fauna found within the rainforest.", "facts": ["Fauna display", "Ranomafana park", "Conservation focus"] },
+    { "id": "antsirabe-reis-felder-life-v2", "description": "The rice fields around Antsirabe are a staple of the local landscape and agriculture in the highlands.", "facts": ["Agriculture", "Highlands landscape", "Rice production"] },
+    { "id": "nosy-tanikely-marine-life-v2", "description": "Nosy Tanikely is a marine national park renowned for its exceptionally clear waters and rich reef life.", "facts": ["Marine park", "Snorkeling spot", "Clear waters"] },
+    { "id": "toliara-botanischer-garten-life-v2", "description": "The botanical garden in Toliara features the unique flora of Madagascar's dry south-western region.", "facts": ["Spiny forest flora", "Toliara city", "Botanical garden"] }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "lang": "en",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cal-madow-forest-nature-v2",
+      "description": "Dense forest sections within the Cal Madow range, harboring significant highland flora.",
+      "facts": ["Highland forest zone", "Rich plant diversity", "Dense canopy cover", "Important conservation site"]
+    },
+    {
+      "id": "golis-northern-slope-nature-v2",
+      "description": "The steep northern incline of the Golis mountains, influencing local rainfall and climate.",
+      "facts": ["Mountain slope geography", "Rainfall influence zone", "Steep terrain features", "Varied slope vegetation"]
+    },
+    {
+      "id": "karkar-mountains-nature-v2",
+      "description": "Rugged, limestone-based mountain chain forming a significant barrier in the northeastern region.",
+      "facts": ["Limestone mountain range", "Northeastern landmark", "Rugged rocky terrain", "Arid mountain flora"]
+    },
+    {
+      "id": "ras-xaafuun-nature-v2",
+      "description": "A prominent headland jutting into the Indian Ocean, marking the tip of a large peninsula.",
+      "facts": ["Peninsula headland", "Oceanic exposure point", "Rugged coastal geology", "Marine currents area"]
+    },
+    {
+      "id": "burao-valley-nature-v2",
+      "description": "A dry river valley area important for seasonal pastoral activity and local water access.",
+      "facts": ["Seasonal river valley", "Pastoralist grazing zone", "Arid landscape area", "Traditional water site"]
+    },
+    {
+      "id": "gardafui-coast-nature-v2",
+      "description": "The northern coastal segment at the junction of the Gulf of Aden and the Indian Ocean.",
+      "facts": ["Coastal confluence site", "Strategic maritime point", "Rugged coastal cliffs", "Marine richness"]
+    },
+    {
+      "id": "ayaha-plains-nature-v2",
+      "description": "Expansive, flat plains characterized by arid grassland and scattered shrubland vegetation.",
+      "facts": ["Arid grass plains", "Flat open landscape", "Shrubland ecosystem", "Wide horizon views"]
+    },
+    {
+      "id": "ayaha-plains-relief-v2",
+      "description": "Vast, low-relief landscape forming stable plains in the interior of the country.",
+      "facts": ["Stable flat relief", "Expansive inland plains", "Minimal topographic rise", "Arid land formation"]
+    },
+    {
+      "id": "dadaab-lowlands-relief-v2",
+      "description": "Lower-elevation plain areas surrounding the border region, exhibiting characteristic dryland soil.",
+      "facts": ["Low-lying interior plains", "Dryland topography", "Border region landscape", "Uniform relief structure"]
+    },
+    {
+      "id": "barawa-coastal-relief-v2",
+      "description": "The specific topographical structure of the coast near Barawa, featuring sandy slopes and reefs.",
+      "facts": ["Coastal beach relief", "Shoreline topography", "Sandy slope landform", "Marine-adjacent landscape"]
+    },
+    {
+      "id": "kismayo-coastal-relief-v2",
+      "description": "Topographical coastal zone of the Kismayo area, blending low-lying shores with maritime features.",
+      "facts": ["Coastal landform area", "Low-lying shore relief", "Maritime topography", "Diverse coastal zones"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kankan-cathedral-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kathedrale von Kankan (Cathédrale Notre-Dame des Victoires et de la Paix) ist ein bedeutendes religiöses Wahrzeichen in der zweitgrößten Stadt Guineas. Geografisch liegt sie im Zentrum von Kankan, einer Stadt, die primär als Hochburg des Islam bekannt ist. Die Kathedrale wurde in der Mitte des 20. Jahrhunderts errichtet und zeugt von der Präsenz der katholischen Minderheit in der Region Oberguinea. Die Architektur ist durch die Verwendung von lokalem Backstein und einen schlichten, aber imposanten neoromanischen Stil geprägt. Historisch gesehen war die Gründung der Diözese Kankan ein wichtiger Schritt für die Etablierung christlicher Missionsarbeit im Mandinka-Kernland. Das Innere der Kathedrale ist schlicht gestaltet, bietet jedoch eine kühle und friedliche Atmosphäre, die einen starken Kontrast zur Hitze der umliegenden Savannenstadt bildet. Für die christliche Gemeinde der Region ist die Kathedrale das wichtigste spirituelle Zentrum und ein Ort des Zusammenhalts. Sie steht zudem symbolisch für das friedliche Nebeneinander der Religionen in Guinea. Die Kirche spielt eine aktive Rolle in der sozialen Arbeit und im Bildungswesen der Stadt Kankan.",
+        "hu": "A kankani székesegyház (Cathédrale Notre-Dame des Victoires et de la Paix) Guinea második legnagyobb városának egyik legfontosabb vallási építménye. Földrajzilag Kankan központjában található, egy olyan városban, amely elsősorban az iszlám tudományok fellegváraként ismert. A katedrális a 20. század közepén épült, tanúskodva a katolikus kisebbség jelenlétéről és vallásgyakorlatáról Felső-Guineában. Az építészetét a helyi égetett tégla használata és az egyszerű, de tekintélyt parancsoló neoromán stílus jellemzi. Történelmileg a Kankani Egyházmegye létrehozása fontos mérföldkő volt a keresztény missziós tevékenység megszilárdításában a mandinka népcsoport lakta területeken. A székesegyház belső tere visszafogott, de a hűvös és csendes környezet éles kontrasztot alkot a szavannai város forróságával. A régió keresztény közössége számára ez az épület a legfontosabb spirituális központ és a közösségi élet bázisa. Emellett a katedrális Guinea vallási toleranciájának és a különböző felekezetek békés együttélésének egyik szimbóluma is. Az egyház aktív szerepet vállal a város szociális ellátásában és az oktatás fejlesztésében.",
+        "ro": "Catedrala din Kankan (Cathédrale Notre-Dame des Victoires et de la Paix) este un reper religios semnificativ situat în al doilea oraș ca mărime din Guineea. Din punct de vedere geografic, aceasta este amplasată în centrul orașului Kankan, o localitate recunoscută în principal ca un bastion al islamului vest-african. Catedrala a fost construită la jumătatea secolului XX, stând mărturie prezenței minorității catolice în regiunea Guineea Superioară. Arhitectura sa se distinge prin utilizarea cărămizii locale și printr-un stil neoromanic sobru, dar impunător. Istoric, înființarea diecezei de Kankan a reprezentat un pas crucial pentru stabilirea misiunilor creștine în inima teritoriului Mandinka. Interiorul catedralei oferă o atmosferă de liniște și răcoare, reprezentând un refugiu spiritual în contrast cu climatul arid al savanei înconjurătoare. Pentru comunitatea creștină locală, catedrala este principalul centru de coeziune și rugăciune. De asemenea, edificiul simbolizează coabitarea pașnică dintre religii în Guineea, biserica fiind implicată activ în proiecte educaționale și de asistență socială în oraș.",
+        "en": "The Kankan Cathedral (Cathédrale Notre-Dame des Victoires et de la Paix) is a prominent religious landmark in Guinea's second-largest city. Geographically, it is located in the heart of Kankan, a city primarily known as a major center for Islamic scholarship. The cathedral was constructed in the mid-20th century, serving as a testament to the presence and resilience of the Catholic minority in the Upper Guinea region. Its architecture is characterized by the use of local red brick and a simple yet dignified neo-Romanesque style. Historically, the establishment of the Diocese of Kankan was a key milestone for Christian missionary work in the Mandinka heartland. The interior of the cathedral is modestly decorated, offering a cool and peaceful sanctuary that contrasts sharply with the intense heat of the surrounding savanna town. For the local Christian community, the cathedral is the most vital spiritual hub and a center for social gathering. It also stands as a symbol of religious tolerance and peaceful coexistence within Guinea's diverse society, participating actively in regional education and social welfare programs."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale wurde in den 1950er Jahren fertiggestellt.",
+          "Sie ist der Sitz des römisch-katholischen Bistums Kankan.",
+          "Kankan ist die einzige Stadt in Oberguinea mit einer solch großen Kathedrale.",
+          "Das Bauwerk besteht primär aus charakteristischen roten Ziegelsteinen.",
+          "Die Kirche unterhält angrenzende Schulen, die Schülern aller Religionen offenstehen.",
+          "Sie dient als wichtiges Symbol für den interreligiösen Dialog in Guinea."
+        ],
+        "hu": [
+          "A székesegyház az 1950-es években nyerte el mai formáját.",
+          "Ez a Kankani Római Katolikus Egyházmegye püspöki székhelye.",
+          "Kankan az egyetlen felső-guineai város, ahol ilyen jelentős keresztény templom áll.",
+          "Az épület vörös téglás homlokzata egyedi színfolt a városképben.",
+          "A katedrális melletti katolikus iskolák nagy hírnévnek örvendenek a régióban.",
+          "A templom Guinea vallási sokszínűségének egyik legfontosabb bizonyítéka."
+        ],
+        "ro": [
+          "Catedrala a fost finalizată în perioada de tranziție spre independență.",
+          "Reprezintă sediul episcopal al Diecezei de Kankan.",
+          "Arhitectura sa utilizează materiale de construcție specifice bazinului Milo.",
+          "Interiorul este renumit pentru simplitatea sa care favorizează meditația.",
+          "Este un punct de reper pe harta turistică a orașului, alături de marea moschee.",
+          "Biserica joacă un rol mediator în diverse tensiuni sociale locale."
+        ],
+        "en": [
+          "The cathedral reached its current form in the 1950s.",
+          "It serves as the seat of the Roman Catholic Diocese of Kankan.",
+          "It is the largest Christian place of worship in the Upper Guinea region.",
+          "The building features a distinctive exterior made of local red-clay bricks.",
+          "The cathedral oversees several highly respected local educational institutions.",
+          "It is a key symbol of the harmonious relationship between Christians and Muslims in Kankan."
+        ]
+      }
+    },
+    {
+      "id": "madina-market-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Madina-Markt (Marché de Madina) in Conakry ist der größte Markt Guineas und einer der bedeutendsten Handelsplätze in ganz Westafrika. Geografisch erstreckt er sich über ein riesiges Areal im Stadtteil Madina, entlang der Hauptverkehrsader Autoroute Fidel Castro. Wirtschaftlich ist dieser Markt die Lunge Guineas; hier wird fast alles gehandelt, von Lebensmitteln und Textilien bis hin zu Elektronik und Ersatzteilen für den Bergbau. Der Markt fungiert als primäres Verteilungszentrum für Waren, die über den Hafen von Conakry ins Land kommen. Das Stadtbild von Madina ist geprägt durch ein dichtes Labyrinth aus Gassen, Verkaufsständen und Lagerhallen, in denen täglich zehntausende Menschen zusammenkommen. Historisch hat sich der Markt seit der Unabhängigkeit organisch entwickelt und spiegelt den Unternehmergeist der guineischen Bevölkerung wider. Trotz der oft chaotischen Zustände und der enormen Verkehrsdichte ist Madina ein Ort von unglaublicher Dynamik und ein Spiegelbild der nationalen Ökonomie. Für Besucher ist der Markt ein intensives Erlebnis, das alle Sinne anspricht und den Puls der Hauptstadt Conakry fühlbar macht. Madina ist nicht nur ein Ort des Handels, sondern auch ein soziales Phänomen, an dem Menschen aus allen Regionen des Landes und den Nachbarstaaten aufeinandertreffen.",
+        "hu": "A conakry-i Madina-piac (Marché de Madina) Guinea legnagyobb kereskedelmi központja és Nyugat-Afrika egyik legjelentősebb vásártere. Földrajzilag Madina negyedében, a Fidel Castro autópálya mentén terül el, hatalmas területet foglalva el a főváros szívében. Gazdasági szempontból a piac Guinea éltető eleme: itt cserél gazdát szinte minden termék az alapvető élelmiszerektől és textíliáktól kezdve az elektronikán át a bányászati gépalkatrészekig. A piac az ország elsődleges elosztó központja a conakry-i kikötőn keresztül érkező áruk számára. A városképet itt szűk utcák labirintusa, végtelen standsorok és raktárak határozzák meg, ahol naponta több tízezer ember fordul meg. Történelmileg a Madina-piac a függetlenség óta szervesen fejlődött, tükrözve a guineai nép vállalkozó szellemét és túlélőképességét. A gyakran kaotikus állapotok és a hatalmas forgalom ellenére Madina egy hihetetlenül dinamikus helyszín, amely hűen mutatja a nemzeti gazdaság aktuális állapotát. A látogatók számára a piac egy intenzív kulturális élmény, amely bepillantást enged a nyugat-afrikai hétköznapok nyüzsgésébe. Madina nem csupán egy üzleti negyed, hanem egy társadalmi olvasztótégely is, ahol az ország minden régiójából és a szomszédos államokból érkező kereskedők találkoznak.",
+        "ro": "Piața Madina (Marché de Madina) din Conakry este cea mai mare piață din Guineea și unul dintre cele mai importante centre comerciale din întreaga Africă de Vest. Din punct de vedere geografic, aceasta se întinde pe o suprafață imensă în cartierul Madina, de-a lungul autostrăzii Fidel Castro. Economic, piața reprezintă plămânul țării; aici se tranzacționează aproape orice, de la alimente și textile până la electronice și piese de schimb pentru industria minieră. Piața funcționează ca principalul centru de distribuție pentru mărfurile care intră în țară prin portul Conakry. Peisajul urban din Madina este definit de un labirint dens de alei, tarabe și depozite, unde zilnic se adună zeci de mii de oameni. Istoric, piața s-a dezvoltat organic după obținerea independenței, reflectând spiritul antreprenorial al populației guineene. În ciuda haosului aparent și a densității enorme de trafic, Madina este un loc de o dinamică incredibilă, fiind o oglindă a economiei naționale. Pentru vizitatori, piața este o experiență senzorială intensă care pulsează în ritmul capitalei. Madina nu este doar un spațiu de schimb comercial, ci și un fenomen social unde se întâlnesc oameni din toate regiunile Guineei și din statele învecinate.",
+        "en": "Madina Market (Marché de Madina) in Conakry is Guinea's largest marketplace and one of the most significant commercial hubs in West Africa. Geographically, it spans a vast area within the Madina district, situated along the Fidel Castro Highway. Economically, the market is the lifeblood of Guinea; it handles almost every type of commodity, from foodstuffs and textiles to electronics and industrial mining equipment. The market serves as the primary distribution node for goods entering the country through the Port of Conakry. The urban landscape of Madina is a dense labyrinth of narrow alleys, countless stalls, and warehouses where tens of thousands of people gather daily. Historically, Madina Market has evolved organically since independence, embodying the entrepreneurial spirit and resilience of the Guinean people. Despite the chaotic atmosphere and extreme traffic congestion, Madina is an incredibly dynamic location that reflects the pulse of the national economy. For visitors, the market offers an intense cultural experience, showcasing the vibrant reality of West African urban life. Madina is more than just a place of trade; it is a social melting pot where traders from all Guinean regions and neighboring countries converge."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Madina ist der umsatzstärkste Markt der Republik Guinea.",
+          "Der Markt liegt direkt an der Hauptverkehrsader zum Flughafen.",
+          "Es gibt spezialisierte Sektionen für Stoffe, Elektronik und Gebrauchtwaren.",
+          "Schätzungsweise arbeiten über 50.000 Menschen täglich auf dem Markt.",
+          "Madina ist der zentrale Knotenpunkt für den informellen Sektor des Landes.",
+          "Der Markt ist bekannt für seine enormen Stoffmärkte mit Textilien aus ganz Westafrika."
+        ],
+        "hu": [
+          "A Madina-piac Guinea legnagyobb árbevételű kereskedelmi zónája.",
+          "A piac közvetlenül a repülőtérre vezető főút mellett található.",
+          "Külön szekciók vannak fenntartva a textileknek, az elektronikának és az élelmiszereknek.",
+          "Becslések szerint naponta több mint 50 000 ember dolgozik a területen.",
+          "Itt találhatók a régió legnagyobb használtcikk- és autóalkatrész-telepei.",
+          "A piac éjjel-nappal nyüzsgő logisztikai központként is funkcionál."
+        ],
+        "ro": [
+          "Madina este considerată cea mai mare piață în aer liber din Africa de Vest francofonă.",
+          "Accesul rutier în zonă este unul dintre cele mai aglomerate din capitală.",
+          "Piața este renumită pentru bumbacul imprimat și țesăturile tradiționale.",
+          "Aici se stabilesc prețurile de referință pentru majoritatea bunurilor de consum.",
+          "Sectoarele de piese auto din Madina alimentează parcul auto al întregii țări.",
+          "Piața are propriile structuri informale de securitate și administrare."
+        ],
+        "en": [
+          "Madina is the highest-turnover commercial zone in the Republic of Guinea.",
+          "The market is strategically located on the main road connecting the city to the airport.",
+          "It features specialized zones for traditional fabrics, electronics, and food.",
+          "An estimated 50,000+ people work within the market's boundaries every day.",
+          "It acts as the central nervous system for Guinea's massive informal economy.",
+          "The market is world-famous for its variety of West African wax-print textiles."
+        ]
+      }
+    },
+    {
+      "id": "kouroussa-niger-bridge-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Niger-Brücke von Kouroussa ist ein strategisch lebenswichtiges Ingenieurbauwerk in Oberguinea, das die Stadt Kouroussa mit den östlichen Landesteilen verbindet. Geografisch überspannt die Brücke den Oberlauf des Niger-Flusses, der hier bereits eine beachtliche Breite aufweist. Als Teil der Nationalstraße N1 ist sie die wichtigste Verbindung für den Landverkehr zwischen der Hauptstadt Conakry und der zweitgrößten Stadt Kankan sowie weiter nach Mali. Die Architektur der Brücke ist funktional und robust, entworfen um den massiven Belastungen des Schwerlastverkehrs und den saisonalen Pegelschwankungen des Nigers standzuhalten. Historisch markiert die Errichtung dieser Brücke einen Meilenstein in der Erschließung des guineischen Hinterlandes und das Ende der Abhängigkeit von unsicheren Fährverbindungen. Wirtschaftlich ist das Bauwerk unverzichtbar für den Export von Bergbauprodukten und den regionalen Handel mit Agrargütern. Der Blick von der Brücke auf den Niger ist spektakulär und zeigt die Bedeutung des Flusses als Lebensader der Region. Die Brücke ist zudem ein Symbol für die nationale Integration Guineas, indem sie die geografische Barriere des großen Stroms überwindet. In der Nähe der Brücke befinden sich oft Fischer in ihren Pirogen, was ein malerisches Bild der traditionellen und modernen Nutzung des Nigers bietet.",
+        "hu": "A kouroussai Niger-híd Guinea egyik legfontosabb stratégiai mérnöki létesítménye, amely összeköti Kouroussa városát az ország keleti régióival. Földrajzilag a híd a Niger-folyó felső szakaszán ível át, ahol a folyam már jelentős szélességet ér el. Az N1-es országos főút részeként ez a legfontosabb szárazföldi összeköttetés a főváros, Conakry, valamint az ország második legnagyobb városa, Kankan és a szomszédos Mali között. A híd építészete funkcionális és robusztus, kifejezetten a nehézgépjármű-forgalom és a Niger évszakos vízszintingadozásainak elviselésére tervezték. Történelmileg a híd megépítése mérföldkő volt Guinea belső területeinek fejlesztésében, véget vetve a bizonytalan és lassú kompközlekedésnek. Gazdaságilag az építmény nélkülözhetetlen a bányászati termékek szállításához és a mezőgazdasági termények regionális kereskedelméhez. A hídról nyíló kilátás a Nigerre lenyűgöző, jól szemléltetve a folyó szerepét a régió éltető elemeként. A híd egyben a nemzeti integráció szimbóluma is, amely legyőzi a hatalmas folyam jelentette földrajzi akadályt. A híd közelében gyakran látni pirogokon dolgozó halászokat, ami festői képet nyújt a Niger hagyományos és modern használatának találkozásáról.",
+        "ro": "Podul peste Niger de la Kouroussa este o structură de inginerie vitală din punct de vedere strategic în Guineea Superioară, legând orașul Kouroussa de regiunile estice ale țării. Geografic, podul traversează cursul superior al fluviului Niger, care în acest punct are deja o lățime considerabilă. Ca parte a drumului național N1, acesta reprezintă cea mai importantă legătură terestră între capitala Conakry și orașul Kankan, facilitând totodată tranzitul către Mali. Arhitectura podului este una funcțională și robustă, fiind proiectată să reziste traficului greu intens și variațiilor sezoniere ale debitului fluviului. Istoric, construcția acestui pod a marcat un moment decisiv în modernizarea infrastructurii interne, eliminând dependența de traversările nesigure cu bacul. Din punct de vedere economic, structura este indispensabilă pentru exportul de resurse minerale și pentru comerțul regional cu produse agricole. Vederea de pe pod asupra fluviului Niger este spectaculoasă, evidențiind rolul acestuia de arteră vitală a regiunii. Podul este, de asemenea, un simbol al integrării naționale, depășind bariera geografică impusă de marele curs de apă. În apropierea sa, pescarii în pirogi oferă o imagine pitorească a continuității modului de viață tradițional în armonie cu infrastructura modernă.",
+        "en": "The Kouroussa Niger Bridge is a strategically vital engineering structure in Upper Guinea, linking the town of Kouroussa to the eastern regions of the country. Geographically, the bridge spans the upper reaches of the Niger River, which at this point exhibits a significant width. As a critical component of the N1 national highway, it is the primary land link between the capital, Conakry, and Guinea's second-largest city, Kankan, as well as the main route toward Mali. The bridge's architecture is functional and robust, engineered to withstand heavy commercial traffic and the dramatic seasonal fluctuations of the Niger's water levels. Historically, its completion was a milestone in the development of Guinea's interior, ending the reliance on slow and unreliable ferry services. Economically, the bridge is indispensable for the transport of mining resources and regional agricultural trade. The view from the bridge offers a spectacular look at the Niger River, highlighting its importance as the region's lifeblood. It also serves as a symbol of national integration, overcoming the formidable geographic barrier of the great river. Near the bridge, fishermen in traditional pirogues are a common sight, blending Guinea's ancient traditions with modern infrastructure."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brücke ist ein Nadelöhr für den Landverkehr zwischen West- und Ostguinea.",
+          "Sie überspannt den Niger an einer seiner historisch bedeutendsten Stellen.",
+          "Die Brücke wurde unter Beteiligung europäischer Bauunternehmen errichtet.",
+          "Während der Regenzeit erreicht der Flusspegel fast die Unterseite der Fahrbahn.",
+          "Sie ist die einzige feste Verbindung über den Niger in der Präfektur Kouroussa.",
+          "Die Brücke ist entscheidend für den Transitverkehr aus den Binnenländern Mali und Burkina Faso."
+        ],
+        "hu": [
+          "A híd a nyugat- és kelet-guineai közúti forgalom legfontosabb szűk keresztmetszete.",
+          "A Niger-folyót annak egyik történelmileg legfontosabb szakaszán hidalja át.",
+          "A híd megépítése előtt csak lassú kompokkal lehetett átkelni a folyón.",
+          "Az esős évszakban a folyó vízszintje majdnem eléri a híd szerkezetének alját.",
+          "Ez az egyetlen fix átkelőhely a Niger felett a Kouroussa prefektúrában.",
+          "A létesítmény kulcsfontosságú a Maliból és Burkina Fasóból érkező tranzitforgalom számára."
+        ],
+        "ro": [
+          "Podul de la Kouroussa este o piesă cheie a coridorului rutier Conakry-Bamako.",
+          "Structura metalică și de beton este monitorizată constant pentru siguranță.",
+          "În apropierea podului se află puncte de descărcare pentru marfa fluvială.",
+          "Este considerat unul dintre cele mai lungi poduri din interiorul Guineei.",
+          "Traversarea fluviului Niger aici a fost întotdeauna un punct strategic militar.",
+          "Podul a facilitat transportul rapid al bauxitei și al aurului către porturi."
+        ],
+        "en": [
+          "The bridge is a major bottleneck for traffic moving between West and East Guinea.",
+          "It crosses the Niger River at one of its most historically significant points.",
+          "The bridge was built with cooperation from international engineering firms.",
+          "During peak floods, the river level rises dramatically near the bridge deck.",
+          "It remains the only permanent Niger River crossing in the entire Kouroussa region.",
+          "The structure is vital for landlocked Mali's access to the Atlantic coast."
+        ]
+      }
+    },
+    {
+      "id": "conakry-cultural-center-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Franko-Guineische Kulturzentrum (Centre Culturel Franco-Guinéen, CCFG) in Conakry ist das bedeutendste Zentrum für künstlerischen und intellektuellen Austausch in Guinea. Geografisch liegt es auf der Halbinsel Kaloum, im Herzen des Verwaltungszentrums der Hauptstadt. Gegründet als Symbol der bilateralen Zusammenarbeit zwischen Guinea und Frankreich, dient das CCFG heute als Plattform für lokale Künstler, Musiker und Schriftsteller. Die Architektur ist modern und funktional, mit einem großen Auditorium, Ausstellungsräumen und einer der besten Bibliotheken des Landes. Historisch markiert das Zentrum die Normalisierung der Beziehungen zwischen den beiden Ländern und hat sich seither zu einem unverzichtbaren Teil des guineischen Kulturlebens entwickelt. Hier finden regelmäßig Konzerte, Theateraufführungen, Filmvorführungen und literarische Debatten statt, die ein vielfältiges Publikum anziehen. Wirtschaftlich trägt das Zentrum zur Förderung der guineischen Kreativwirtschaft bei, indem es Fortbildungen und Präsentationsmöglichkeiten bietet. Für die Jugend von Conakry ist das CCFG ein Ort der Bildung und der Inspiration, an dem der Dialog zwischen den Kulturen gelebt wird. Das Gebäude ist umgeben von einer ruhigen Atmosphäre, die einen Rückzugsort im hektischen Treiben von Kaloum bietet.",
+        "hu": "A conakry-i Francia-Guineai Kulturális Központ (Centre Culturel Franco-Guinéen, CCFG) Guinea legjelentősebb művészeti és szellemi találkozóhelye. Földrajzilag a Kaloum-félszigeten, a főváros közigazgatási negyedének szívében található. A központ Guinea és Franciaország kétoldalú együttműködésének szimbólumaként jött létre, és ma elsődleges platformként szolgál a helyi művészek, zenészek és írók számára. Építészete modern és funkcionális, magában foglal egy nagy színháztermet, kiállítótereket és az ország egyik legjobb könyvtárát. Történelmileg a központ létrehozása a két ország közötti kapcsolatok normalizálódását jelezte, és azóta a guineai kulturális élet elválaszthatatlan részévé vált. Rendszeresen ad otthont koncerteknek, színházi előadásoknak, filmvetítéseknek és irodalmi vitáknak, amelyek sokszínű közönséget vonzanak. Gazdaságilag a központ hozzájárul a guineai kreatív ipar fejlődéséhez, képzéseket és bemutatkozási lehetőségeket biztosítva a fiatal tehetségeknek. A conakry-i ifjúság számára a CCFG az oktatás és az inspiráció helyszíne, ahol a kultúrák közötti párbeszéd valósággá válik. Az épület és környezete a nyugalom szigete a Kaloum-félsziget lüktető forgatagában.",
+        "ro": "Centrul Cultural Franco-Guineean (Centre Culturel Franco-Guinéen, CCFG) din Conakry este cea mai importantă instituție dedicată schimburilor artistice și intelectuale din Guineea. Situat pe peninsula Kaloum, în inima administrativă a capitalei, centrul a fost fondat ca un simbol al cooperării bilaterale dintre Guineea și Franța. CCFG servește astăzi drept platformă esențială pentru promovarea artiștilor, muzicienilor și scriitorilor locali. Arhitectura sa este modernă și funcțională, incluzând un auditoriu spațios, săli de expoziție și una dintre cele mai bine dotate biblioteci din țară. Din punct de vedere istoric, centrul marchează normalizarea relațiilor diplomatice și a devenit, în timp, un pilon al vieții culturale guineene. Aici se organizează în mod regulat concerte, piese de teatru, proiecții de filme și dezbateri literare care atrag un public diversificat. Economic, centrul sprijină industria creativă locală prin programe de formare și oportunități de prezentare internațională. Pentru tineretul din Conakry, CCFG este un loc al educației și inspirației, unde dialogul între culturi este încurajat activ. Clădirea oferă o oază de liniște și efervescență intelectuală în contextul agitat al centrului capitalei.",
+        "en": "The Franco-Guinean Cultural Center (Centre Culturel Franco-Guinéen, CCFG) in Conakry is the premier hub for artistic and intellectual exchange in Guinea. Geographically, it is located on the Kaloum Peninsula, in the heart of the capital's administrative and diplomatic district. Established as a symbol of bilateral cooperation between Guinea and France, the CCFG serves as a vital platform for local artists, musicians, and writers. Its architecture is modern and functional, featuring a large auditorium, exhibition galleries, and one of the country's most comprehensive libraries. Historically, the center marked a new era in diplomatic relations and has since become an indispensable part of Guinea's cultural fabric. It regularly hosts concerts, theater performances, film screenings, and literary debates that attract a diverse and engaged audience. Economically, the center contributes to the growth of Guinea's creative economy by providing training workshops and professional presentation opportunities. For the youth of Conakry, the CCFG is a sanctuary of learning and inspiration, fostering cross-cultural dialogue. The building's serene atmosphere offers a refreshing intellectual retreat amidst the bustling energy of downtown Kaloum."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das CCFG ist das wichtigste Dokumentationszentrum der Hauptstadt.",
+          "Es beherbergt ein modernes Kino, das internationale Filme zeigt.",
+          "Das Zentrum wird gemeinsam von guineischen und französischen Behörden verwaltet.",
+          "Es ist ein Hauptveranstaltungsort für das jährliche Jazz-Festival von Conakry.",
+          "Die Mediathek bietet Zugang zu tausenden Büchern und digitalen Medien.",
+          "Das CCFG liegt in unmittelbarer Nähe zum Nationalmuseum."
+        ],
+        "hu": [
+          "A CCFG a főváros legfontosabb dokumentációs és kutatóközpontja.",
+          "Modern mozitermében rendszeresen vetítenek nemzetközi filmeket.",
+          "A központot a guineai és a francia hatóságok közösen irányítják.",
+          "Ez a Conakry Jazz Fesztivál egyik elsődleges helyszíne.",
+          "Médiatára több ezer könyvhöz és digitális forráshoz biztosít hozzáférést.",
+          "A központ közvetlen szomszédságában található a Nemzeti Múzeum."
+        ],
+        "ro": [
+          "CCFG deține cea mai mare bibliotecă publică francofonă din țară.",
+          "Este un centru vital pentru învățarea limbilor străine și cercetare.",
+          "Găzduiește anual zeci de vernisaje ale artiștilor plastici guineeni.",
+          "Sălile sale de conferințe sunt utilizate pentru dezbateri civice majore.",
+          "Centrul oferă burse de studiu și stagii de pregătire în Franța.",
+          "Arhitectura sa interioară pune accent pe spații deschise și lumină naturală."
+        ],
+        "en": [
+          "The CCFG is the primary public documentation center in the capital.",
+          "It features a modern cinema hall that showcases global film productions.",
+          "The center is co-managed by both Guinean and French cultural authorities.",
+          "It serves as a principal venue for the annual Conakry Jazz Festival.",
+          "Its media library offers access to thousands of books and digital resources.",
+          "The center is located just a short walk from the National Museum of Guinea."
+        ]
+      }
+    },
+    {
+      "id": "conakry-city-hall-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Rathaus von Conakry (Mairie de Kaloum) ist das administrative Zentrum der Hauptstadt und ein markantes architektonisches Erbe auf der Halbinsel Kaloum. Geografisch liegt es im Herzen des historischen und geschäftlichen Viertels, umgeben von bedeutenden Regierungsgebäuden und Denkmälern. Die Architektur des Rathauses verbindet koloniale Stilelemente mit modernen Anpassungen und spiegelt die städtebauliche Entwicklung der Stadt seit dem frühen 20. Jahrhundert wider. Historisch gesehen ist das Gebäude ein Symbol für die lokale Verwaltung und die kommunale Autonomie innerhalb des guineischen Staates. Als Sitz des Bürgermeisters von Kaloum, dem wichtigsten der fünf Bezirke Conakrys, ist es der Ort, an dem grundlegende Entscheidungen für die Stadtplanung und die öffentlichen Dienstleistungen getroffen werden. Wirtschaftlich fungiert das Rathaus als Anlaufstelle für lokale Unternehmer und Bürgerangelegenheiten, was es zu einem hochfrequentierten Ort im täglichen Leben macht. Die gepflegte Fassade und der Vorplatz des Gebäudes dienen oft als Treffpunkt für offizielle Zeremonien und bürgerliche Versammlungen. Trotz der Herausforderungen einer schnell wachsenden Megalopolis bleibt das Rathaus ein Symbol für Ordnung und städtische Identität in Conakry. Es repräsentiert die Brücke zwischen der kolonialen Gründung der Stadt und ihrer Rolle als modernes afrikanisches Regierungszentrum.",
+        "hu": "A conakry-i városháza (Mairie de Kaloum) a főváros közigazgatási központja és a Kaloum-félsziget egyik meghatározó építészeti öröksége. Földrajzilag a történelmi és üzleti negyed szívében található, fontos kormányzati épületek és emlékművek gyűrűjében. Az épület stílusa a gyarmati építészet jegyeit ötvözi a modern kiegészítésekkel, jól szemléltetve a város 20. század eleje óta tartó fejlődését. Történelmileg a városháza a helyi önkormányzatiság és a települési autonómia jelképe a guineai államon belül. Mint Kaloum polgármesterének székhelye – amely Conakry öt kerülete közül a legfontosabb –, ez a helyszín a várostervezéssel és a közszolgáltatásokkal kapcsolatos döntések központja. Gazdasági szempontból a városháza a helyi vállalkozók és az állampolgári ügyintézés elsődleges állomása, így a mindennapi élet egyik legforgalmasabb pontja. A gondozott homlokzat és az épület előtti tér gyakran szolgál hivatalos ceremóniák és civil megmozdulások helyszínéül. A gyorsan növekvő metropolisz kihívásai ellenére a városháza továbbra is a rend és a városi identitás szimbóluma marad Conakryban. Az épület összeköti a város gyarmati alapításának korát a modern afrikai kormányzati központ szerepével.",
+        "ro": "Primăria din Conakry (Mairie de Kaloum) este centrul administrativ al capitalei și o piesă importantă a patrimoniului arhitectural de pe peninsula Kaloum. Geografic, aceasta este situată în inima cartierului istoric și de afaceri, fiind înconjurată de clădiri guvernamentale majore și monumente naționale. Arhitectura primăriei îmbină elemente coloniale franceze cu adaptări moderne, reflectând evoluția urbană a orașului de la începutul secolului XX. Din punct de vedere istoric, clădirea simbolizează administrația locală și autonomia municipală în cadrul statului guineean. În calitate de sediu al primarului din Kaloum, cel mai important dintre cele cinci districte ale capitalei, aici se iau deciziile fundamentale privind urbanismul și serviciile publice. Economic, primăria funcționează ca un punct de contact esențial pentru antreprenorii locali și pentru afacerile cetățenești, fiind un loc extrem de tranzitat. Fațada bine întreținută și esplanada din față sunt adesea utilizate pentru ceremonii oficiale și adunări publice. În ciuda provocărilor unei metropole în creștere rapidă, primăria rămâne un simbol al ordinii și identității urbane în Conakry. Ea reprezintă puntea de legătură între fondarea colonială a orașului și rolul său actual de centru administrativ african modern.",
+        "en": "The Conakry City Hall (Mairie de Kaloum) is the administrative heart of the capital and a key architectural landmark on the Kaloum Peninsula. Geographically, it is located in the center of the historical and business district, surrounded by major government buildings and monuments. Its architecture blends colonial-style elements with modern functionalism, reflecting the city's urban evolution since the early 20th century. Historically, the building symbolizes local governance and municipal authority within the Guinean state. As the seat of the Mayor of Kaloum—the most vital of Conakry's five districts—it is the hub for decisions regarding urban planning and public services. Economically, the City Hall serves as the primary contact point for local business licensing and civic affairs, making it a high-traffic area in daily urban life. The well-maintained facade and the building's front plaza often host official ceremonies and civic gatherings. Despite the immense challenges of a rapidly expanding megalopolis, the City Hall remains a symbol of order and urban identity in Conakry. It represents the historical link between the city's colonial origins and its contemporary role as a major African governing center."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Rathaus befindet sich im Bezirk Kaloum, dem Machtzentrum des Landes.",
+          "Es ist eines der repräsentativsten kommunalen Gebäude in Guinea.",
+          "Die Mairie de Kaloum verwaltet das historische Zentrum von Conakry.",
+          "Das Gebäude beherbergt das Standesamt für die wichtigsten zivilen Akte.",
+          "Architektonisch ist es ein Mix aus französischer Klassik und tropischer Moderne.",
+          "Der Vorplatz ist ein beliebter Ort für öffentliche Kundgebungen."
+        ],
+        "hu": [
+          "A városháza Kaloum kerületben, az ország politikai központjában található.",
+          "Ez Guinea egyik legreprezentatívabb önkormányzati épülete.",
+          "A Kaloum-i polgármesteri hivatal felügyeli Conakry történelmi magját.",
+          "Az épületben található a legfontosabb polgári anyakönyvi hivatal.",
+          "Stílusa ötvözi a francia klasszicista és a trópusi modernista elemeket.",
+          "A városháza előtti tér fontos helyszíne a városi ünnepeknek."
+        ],
+        "ro": [
+          "Primăria Kaloum este responsabilă pentru zona zero a capitalei.",
+          "Clădirea a fost renovată pentru a păstra detaliile coloniale originale.",
+          "Găzduiește birourile de stare civilă cele mai solicitate din oraș.",
+          "Este un punct focal pentru inițiativele de salubrizare și modernizare urbană.",
+          "Arhitectura sa este considerată un model de clădire administrativă tropicală.",
+          "Localizarea sa este strategică, aproape de marile bănci și ministere."
+        ],
+        "en": [
+          "The City Hall is located in Kaloum, the administrative heart of the nation.",
+          "It stands as one of the most representative municipal buildings in Guinea.",
+          "The Kaloum administration manages Conakry's historic urban core.",
+          "The building houses the registry office for the city's most critical civil acts.",
+          "Architecturally, it blends French classical motifs with tropical influences.",
+          "The front esplanade is a frequent site for official municipal events."
+        ]
+      }
+    }
+  ]
+}

@@ -8,9 +8,9 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.0039, 5.6264],
     name: { de: "Hafen von Tema", hu: "Tema Kikötő", ro: "Portul Tema", en: "Tema Port" },
-    description: { de: "Der größte Seehafen in Ghana, der den größten Teil der nationalen Exporte und Importe abwickelt.", hu: "Ghána legnagyobb tengeri kikötője, amely a nemzeti export és import nagy részét kezeli.", ro: "Cel mai mare port maritim din Ghana, care gestionează cea mai mare parte a exporturilor și importurilor naționale.", en: "The largest seaport in Ghana, handling the majority of the national exports and imports." },
+    description: { de: "Der größte Seehafen Ghanas liegt in Tema und ist ein wichtiges Logistikzentrum für Westafrika.", hu: "Ghána legnagyobb tengeri kikötője, amely a nemzeti export és import nagy részét kezeli.", ro: "Cel mai mare port maritim din Ghana, care gestionează cea mai mare parte a exporturilor și importurilor naționale.", en: "The largest seaport in Ghana, handling the majority of the national exports and imports." },
     facts: {
-      de: ["Eröffnet 1962.", "Größter Hafen des Landes.", "Bedeutend für Kakao- und Aluminiumexporte."],
+      de: ["Eröffnet im Jahr 1962.", "Verfügt über moderne Containerterminals.", "Tor für den internationalen Handel Ghanas."],
       hu: ["1962-ben nyílt meg.", "Az ország legnagyobb kikötője.", "Fontos a kakaó- és alumíniumexport szempontjából."],
       ro: ["Deschis în 1962.", "Cel mai mare port din țară.", "Important pentru exporturile de cacao și aluminiu."],
       en: ["Opened in 1962.", "Largest port in the country.", "Important for cocoa and aluminum exports."]
@@ -26,7 +26,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "Tema Port was inaugurated in 1962 and has developed into Ghana's primary logistical hub on the Gulf of Guinea. It handles millions of tons of cargo annually, including cocoa, aluminum, and petroleum products, acting as a gateway for West Africa's landlocked nations. The facility has dramatically increased its capacity through massive container terminal expansion in recent years to meet rising trade demands. Geography K7 — seaports and world trade."
     },
     factsAdvanced: {
-      de: ["Eröffnet 1962", "Wichtigster Seehafen Ghanas", "Liegt auf dem Nullmeridian", "Fertigt ca. 70% des Seehandels ab", "Besitzt neues Containerterminal", "Wichtiger Transitpunkt für Mali und Burkina Faso"],
+      de: ["Wichtigster Seehafen Ghanas", "Liegt auf dem Nullmeridian", "Fertigt ca. 70% des Seehandels ab", "Besitzt neues Containerterminal", "Wichtiger Transitpunkt für Mali und Burkina Faso"],
       hu: ["1962-ben nyitották meg hivatalosan", "Ghána tengeri kereskedelmének több mint 80%-át bonyolítja le", "12 mélyvízi kikötőhellyel és hatalmas konténerterminállal rendelkezik", "A landlocked (tengerpart nélküli) afrikai országok, mint Burkina Faso fontos tranzitkapuja", "Az MPS Terminal 3 projekt keretében jelentősen modernizálták 2019-ben", "A Greenwichi délkör (0 hosszúsági fok) vonalán helyezkedik el"],
       ro: ["A fost inaugurat oficial în luna februarie a anului 1962.", "Gestionează anual peste 70% din totalul importurilor și exporturilor Ghanei.", "Terminalul său modern MPS Terminal 3 a costat aproximativ 1,5 miliarde de dolari.", "Construcția sa a impus relocarea completă a unui sat pescăresc antic.", "Oferă un traseu de tranzit esențial pentru națiunile africane izolate terestru.", "Deține diguri masive care pătrund peste 3 kilometri în largul Oceanului Atlantic."],
       en: ["Annual traffic exceeds 1 million TEU.", "Covers an area of approx 3.9 million m².", "Serves over 20 international shipping lines.", "Employs thousands directly and indirectly.", "Main hub for cocoa bean exports.", "Built as part of the Volta River Project."]
@@ -38,9 +38,9 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-1.745, 4.8872],
     name: { de: "Hafen von Takoradi", hu: "Takoradi Kikötő", ro: "Portul Takoradi", en: "Takoradi Port" },
-    description: { de: "Der älteste kommerzielle Seehafen Ghanas, bekannt für den Export von Holz, Mangan und Bauxit.", hu: "Ghána legrégebbi kereskedelmi kikötője, amely fa, mangán és bauxit exportjáról ismert.", ro: "Cel mai vechi port comercial din Ghana, cunoscut pentru exportul de lemn, mangan și bauxită.", en: "The oldest commercial seaport in Ghana, known for the export of timber, manganese, and bauxite." },
+    description: { de: "Der Hafen von Takoradi ist der älteste Tiefseehafen Ghanas und dient primär dem Export von Rohstoffen.", hu: "Ghána legrégebbi kereskedelmi kikötője, amely fa, mangán és bauxit exportjáról ismert.", ro: "Cel mai vechi port comercial din Ghana, cunoscut pentru exportul de lemn, mangan și bauxită.", en: "The oldest commercial seaport in Ghana, known for the export of timber, manganese, and bauxite." },
     facts: {
-      de: ["Erbaut 1928.", "Zweitgrößter Hafen Ghanas.", "Wichtig für den Bergbau-Sektor."],
+      de: ["Inbetriebnahme im Jahr 1928.", "Zentrum für den Export von Kakao und Mangan.", "Wichtig für die Öl- und Gasindustrie."],
       hu: ["1928-ban épült.", "Ghána második legnagyobb kikötője.", "Fontos a bányászati szektor számára."],
       ro: ["Construit în 1928.", "Al doilea port ca mărime din Ghana.", "Important pentru sectorul minier."],
       en: ["Built in 1928.", "Second largest port in Ghana.", "Important for the mining sector."]
@@ -64,9 +64,9 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.6705, 6.2081],
     name: { de: "AngloGold Ashanti Mine", hu: "AngloGold Ashanti Bánya", ro: "Mina AngloGold Ashanti", en: "AngloGold Ashanti Mine" },
-    description: { de: "Eine riesige Goldmine in Obuasi, eine der größten und tiefsten Minen der Welt.", hu: "Egy hatalmas aranybánya Obuasiban, a világ egyik legnagyobb és legmélyebb bányája.", ro: "O mină masivă de aur în Obuasi, una dintre cele mai mari și mai adânci mine din lume.", en: "A massive gold mine in Obuasi, one of the largest and deepest mines in the world." },
+    description: { de: "AngloGold Ashanti betreibt in Obuasi eine der bedeutendsten Goldminen der Welt.", hu: "Egy hatalmas aranybánya Obuasiban, a világ egyik legnagyobb és legmélyebb bányája.", ro: "O mină masivă de aur în Obuasi, una dintre cele mai mari și mai adânci mine din lume.", en: "A massive gold mine in Obuasi, one of the largest and deepest mines in the world." },
     facts: {
-      de: ["Untertagebau.", "Produziert seit über einem Jahrhundert Gold.", "Tiefbau bis fast 1.500 Meter."],
+      de: ["Großes Goldbergwerk in Obuasi.", "Seit über 100 Jahren in Betrieb.", "Wichtiger Arbeitgeber in der Region."],
       hu: ["Földalatti bánya.", "Több mint egy évszázada termel aranyat.", "Majdnem 1500 méter mély."],
       ro: ["Minerit subteran.", "Produce aur de peste un secol.", "Adâncime de până la aproape 1.500 de metri."],
       en: ["Underground mining.", "Producing gold for over a century.", "Depth reaches almost 1,500 meters."]
@@ -212,7 +212,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Jubilee Oil Field is a massive, world-class offshore petroleum and natural gas field located in the deep waters of the Gulf of Guinea, roughly 60 kilometers off the coast of the Western Region. Discovered in 2007 by Kosmos Energy and named to commemorate Ghana's 50th independence anniversary, its discovery transformed the nation's economic trajectory. Commercial production commenced in 2010 utilizing a massive Floating Production Storage and Offloading (FPSO) vessel named after Kwame Nkrumah. The field's output of high-quality 'sweet' crude oil and associated natural gas provides a massive influx of national revenue and fuels domestic power generation. Geography K7 — deep-water offshore petroleum."
     },
     factsAdvanced: {
-      de: ["Entdeckt im Jahr 2007", "Liegt vor der Küste von Cape Three Points", "Beginn der ghanaischen Öl-Ära", "Mehrere hundert Millionen Barrel Reserven", "Förderung durch hochmoderne FPSO-Schiffe", "Tragende Säule der nationalen Wirtschaft"],
+      de: ["Liegt vor der Küste von Cape Three Points", "Beginn der ghanaischen Öl-Ära", "Mehrere hundert Millionen Barrel Reserven", "Förderung durch hochmoderne FPSO-Schiffe", "Tragende Säule der nationalen Wirtschaft"],
       hu: ["A 2007-es felfedezés Ghánát Afrika jelentős olajkitermelőjévé tette", "Az első hordó olajat 2010 decemberében (First Oil) hozták a felszínre", "Több mint 1000 méter mély vizekben, a parttól mintegy 60 km-re található", "Az olajat az 'FPSO Kwame Nkrumah' nevű óriáshajó dolgozza fel és tárolja", "A mező naponta több mint 100 ezer hordó nyersolajat képes kitermelni", "A kísérő földgázt csővezetéken juttatják az Atuabo-i gázfeldolgozóba"],
       ro: ["A fost prima descoperire comercială majoră de petrol din istoria statului (2007).", "Primele barili de țiței brut au fost pompate oficial în anul 2010.", "Nava sa de producție poartă numele primului președinte, Kwame Nkrumah.", "Este administrat central de consorțiul internațional Tullow Oil.", "Produce peste 100.000 de barili de petrol brut ușor zilnic, extrem de căutat.", "Include zeci de puțuri conectate prin conducte la mare adâncime marină."],
       en: ["A massive offshore oil and gas field discovered in 2007.", "Located approximately 60 kilometers offshore in the Gulf of Guinea.", "Commercial extraction officially commenced in December 2010.", "Utilizes the massive FPSO Kwame Nkrumah for processing and storage.", "Produces highly valuable, low-sulfur 'sweet' crude petroleum.", "Associated natural gas is piped onshore to power domestic thermal plants."]
@@ -406,9 +406,9 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-EP",
     coords: [-1.05, 6.3167],
     name: { de: "Akyem Goldmine", hu: "Akyem Aranybánya", ro: "Mina de Aur Akyem", en: "Akyem Gold Mine" },
-    description: { de: "Ein großer Goldtagebau im östlichen Ghana, bekannt für hohe Sicherheits- und Umweltstandards.", hu: "Nagy külszíni aranybánya Kelet-Ghánában, amely magas biztonsági és környezetvédelmi szabványairól ismert.", ro: "O mare mină de aur la suprafață în estul Ghanei, recunoscută pentru standardele înalte de siguranță și mediu.", en: "A large open-pit gold mine in eastern Ghana, known for its high safety and environmental standards." },
+    description: { de: "Die Akyem-Goldmine ist ein bedeutendes Tagebauprojekt im Osten Ghanas, das von Newmont betrieben wird.", hu: "Nagy külszíni aranybánya Kelet-Ghánában, amely magas biztonsági és környezetvédelmi szabványairól ismert.", ro: "O mare mină de aur la suprafață în estul Ghanei, recunoscută pentru standardele înalte de siguranță și mediu.", en: "A large open-pit gold mine in eastern Ghana, known for its high safety and environmental standards." },
     facts: {
-      de: ["Newmont-Operation.", "Eröffnet 2013.", "Ausgezeichnet für Umweltmanagement."],
+      de: ["Befindet sich in der Eastern Region.", "Modernes Bergbauprojekt.", "Strenge Umweltauflagen für den Betrieb."],
       hu: ["Newmont művelet.", "2013-ban nyílt meg.", "Díjnyertes környezetirányítás."],
       ro: ["Operațiune Newmont.", "Deschisă în 2013.", "Premiată pentru managementul mediului."],
       en: ["Newmont operation.", "Opened in 2013.", "Awarded for environmental management."]
@@ -472,7 +472,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       en: "The Asanko Gold Mine is a prominent multi-pit mining operation located in the Ashanti Region, positioned along the highly mineralized Asankrangwa gold belt. Jointly owned by Galiano Gold and Gold Fields, the complex was formed by consolidating several adjacent, historically fragmented mining concessions into a single, cohesive, large-scale operation. Commercial production officially commenced in 2016. The mine utilizes a massive central processing plant fed by ore trucked in from various satellite open pits spread across the concession. It represents the ongoing trend of corporate consolidation in the modern West African mining sector. Geography K7 — corporate mining consolidation."
     },
     factsAdvanced: {
-      de: ["Zusammenschluss zweier Goldvorkommen", "Liegt im Amansie West Distrikt", "Zentrale hochmoderne Aufbereitungsanlage", "Täglich Tausende Tonnen Gestein verarbeitet", "Wichtiger regionaler Arbeitgeber", "Fördert im großflächigen Tagebau"],
+      de: ["Zusammenschluss zweier Goldvorkommen", "Liegt im Amansie West Distrikt", "Zentrale hochmoderne Aufbereitungsanlage", "Täglich Tausende Tonnen Gestein verarbeitet", "Fördert im großflächigen Tagebau"],
       hu: ["Az Asanko Gold és a Gold Fields vegyesvállalata üzemelteti", "A kitermelés 2016-ban kezdődött meg hivatalosan", "Egy hosszú teherhordó futószalag (overland conveyor) köti össze az aknákat a feldolgozóval", "A bánya az Asankrangwa aranyövön fekszik", "Rendkívül modern, automatizált ciános kioldó (CIL) üzemet használnak", "A környező közösségeknek (pl. Manso Nkran) jelentős munkalehetőséget biztosít"],
       ro: ["Exploatează multiple puțuri de suprafață dispersate în zona faliei Asankrangwa.", "Capacitatea sa de procesare a morilor ajunge frecvent la 5 milioane de tone anual.", "Utilizează rețele interne de drumuri miniere cu acces strict restricționat.", "Produce lingouri din aliaj de aur (dore) care sunt rafinate apoi în străinătate.", "Oferă training gratuit intens tinerilor ingineri din satele învecinate.", "A luat naștere din unirea a două mari licențe de exploatare adiacente (Obotan și Esaase)."],
       en: ["Situated within the prospective Asankrangwa gold belt in the Ashanti Region.", "Operated as a joint venture between Galiano Gold and Gold Fields.", "Formed by the strategic consolidation of multiple smaller historic concessions.", "Commercial production at the centralized facility began in 2016.", "Relies on a 'hub and spoke' model, trucking ore from satellite open pits.", "Processes ore using a massive, modern gravity and CIL plant."]
@@ -536,9 +536,9 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     parent: "GH-WP",
     coords: [-2.1467, 5.4328],
     name: { de: "Prestea Goldbergwerk", hu: "Prestea Aranybánya", ro: "Mina de Aur Prestea", en: "Prestea Gold Mine" },
-    description: { de: "Eine traditionsreiche Untertage-Goldmine, die nach Jahren der Inaktivität wiedereröffnet wurde.", hu: "Nagy hagyományokkal rendelkező földalatti aranybánya, amelyet évek inaktivitása után újranyitottak.", ro: "O mină de aur subterană tradițională, redeschisă după ani de inactivitate.", en: "A traditional underground gold mine that was reopened after years of inactivity." },
+    description: { de: "Die Prestea-Untertagemine blickt auf eine lange Tradition im Goldbergbau zurück und nutzt moderne Fördermethoden.", hu: "Nagy hagyományokkal rendelkező földalatti aranybánya, amelyet évek inaktivitása után újranyitottak.", ro: "O mină de aur subterană tradițională, redeschisă după ani de inactivitate.", en: "A traditional underground gold mine that was reopened after years of inactivity." },
     facts: {
-      de: ["Über 100 Jahre Geschichte.", "Untertagebau.", "Modernisiert für höhere Effizienz."],
+      de: ["Tiefgehende Goldbergbau-Anlage.", "Historischer Standort mit moderner Technik.", "Wichtige Quelle für hochwertiges Golderz."],
       hu: ["Több mint 100 éves múlt.", "Földalatti bánya.", "A nagyobb hatékonyság érdekében modernizálták."],
       ro: ["O istorie de peste 100 de ani.", "Minerit subteran.", "Modernizată pentru o mai mare eficiență."],
       en: ["Over 100 years of history.", "Underground mine.", "Modernized for higher efficiency."]
@@ -759,7 +759,7 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Liegt in Atuabo in der Western Region", "Empfängt Offshore-Gas per Unterseepipeline", "Verarbeitet rohes Erdgas zu trockenem Gas", "Reduzierte Abhängigkeit von Ölimporten", "Produziert LPG für Haushaltskocher", "Beendete schwere nationale Stromausfälle"],
-      hu: ["A Ghana National Gas Company (Ghana Gas) üzemelteti", "2015-ben adták át, hogy megszüntessék a drága külföldi (nigériai) gázfüggőséget", "Naponta mintegy 150 millió köbláb földgázt képes feldolgozni", "A cseppfolyósított PB-gáz (LPG) termelésével csökkenti az erdőirtást (faszén használatát)", "A Jubilee és a TEN tengeri olajmezőkkel van összeköttetésben", "Közvetlen csővezeték köti össze a Takoradi (Aboadze) hőerőművel"],
+      hu: ["2015-ben adták át, hogy megszüntessék a drága külföldi (nigériai) gázfüggőséget", "Naponta mintegy 150 millió köbláb földgázt képes feldolgozni", "A cseppfolyósított PB-gáz (LPG) termelésével csökkenti az erdőirtást (faszén használatát)", "A Jubilee és a TEN tengeri olajmezőkkel van összeköttetésben", "Közvetlen csővezeték köti össze a Takoradi (Aboadze) hőerőművel"],
       ro: ["Finalizarea cu succes a avut loc în mod monumental în anul 2014.", "Procesează complet tot gazul natural emanat de câmpurile petroliere ghaneze.", "Fără existența acestei instalații masive, gazul nociv era adesea ars direct în atmosferă (flaring).", "Ea produce jumătate din necesarul casnic național de butelii de gaz lichefiat.", "Garanția de energie pe care o aduce previne așa-numitul 'Dumsor' (pana de curent cronică).", "Conductele subacvatice gigantice sunt operate de societatea de stat Ghana Gas."],
       en: ["Located at Atuabo in the Ellembelle District of the Western Region.", "Operated by the state-owned Ghana National Gas Company (Ghana Gas).", "Commissioned in 2015 to process 'wet' natural gas from offshore fields.", "Produces massive quantities of Liquefied Petroleum Gas (LPG) for domestic use.", "Pipes processed 'lean' gas directly to the Aboadze thermal power enclave.", "Its operation significantly reduced environmentally harmful offshore gas flaring."]
     }

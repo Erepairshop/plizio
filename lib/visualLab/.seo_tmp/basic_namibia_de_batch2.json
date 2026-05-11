@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "Die Kavango-Region ist bekannt für ihre landwirtschaftliche Produktion, insbesondere den Anbau von Getreide und Hülsenfrüchten.",
+      "facts": ["Landwirtschaftliche Produktion", "Kavango-Region", "Getreide und Hülsenfrüchte"]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "description": "Die Kalahari in Namibia ist ein einzigartiger Lebensraum für eine Vielzahl von Wildtieren, darunter Oryx und Springböcke.",
+      "facts": ["Kalahari", "Einzigartiger Lebensraum", "Oryx und Springböcke"]
+    },
+    {
+      "id": "namibia-fish-river-animal-habitat-life-v2",
+      "description": "Der Fish River Canyon ist ein wichtiger Lebensraum für Klippspringer, Zebras und Leoparden in der rauen Landschaft.",
+      "facts": ["Fish River Canyon", "Klippspringer", "Zebras und Leoparden"]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "description": "Mariental ist ein landwirtschaftliches Zentrum, bekannt für die Produktion von Zitrusfrüchten und Datteln.",
+      "facts": ["Zitrusfrüchte", "Datteln", "Landwirtschaftliches Zentrum"]
+    },
+    {
+      "id": "namibia-outjo-agriculture-life-v2",
+      "description": "Outjo ist ein regionales Zentrum für Viehzucht und Landwirtschaft, das die umliegenden Gemeinden versorgt.",
+      "facts": ["Viehzucht", "Landwirtschaft", "Regionales Zentrum"]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "description": "Rundu ist ein wichtiges landwirtschaftliches Zentrum im Nordosten Namibias, das durch den Okavango-Fluss bewässert wird.",
+      "facts": ["Okavango-Fluss", "Nordost-Namibia", "Landwirtschaftliches Zentrum"]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "description": "Sesriem ist bekannt für den Sesriem Canyon und als Ausgangspunkt für Ausflüge zu den Dünen von Sossusvlei.",
+      "facts": ["Sesriem Canyon", "Sossusvlei", "Kinderfreundlich"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Walvis Bay bietet familienfreundliche Aktivitäten wie Bootsfahrten zur Delfinbeobachtung und Kajakfahren mit Robben.",
+      "facts": ["Bootsfahrten", "Delfinbeobachtung", "Robben"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Tsumkwe bietet Einblicke in die Kultur der San (Buschmänner) und ist ein Tor zum Khaudum Nationalpark.",
+      "facts": ["San-Kultur", "Khaudum Nationalpark", "Tsumkwe"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Lüderitz ist eine historische Küstenstadt mit Kolonialarchitektur und als Ausgangspunkt für Kolmanskop bekannt.",
+      "facts": ["Kolonialarchitektur", "Lüderitz", "Kolmanskop"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "Der Caprivi-Streifen ist ein Paradies für Wildtiere, bekannt für seine Flüsse, Feuchtgebiete und große Elefantenpopulationen.",
+      "facts": ["Caprivi-Streifen", "Feuchtgebiete", "Elefantenpopulationen"]
+    },
+    {
+      "id": "namibia-okavango-agriculture-life-v2",
+      "description": "Die Okavango-Region ist ein fruchtbares Gebiet, das durch den Okavango-Fluss bewässert wird und vielfältige Landwirtschaft ermöglicht.",
+      "facts": ["Okavango-Fluss", "Fruchtbares Gebiet", "Vielfältige Landwirtschaft"]
+    },
+    {
+      "id": "na-fish-river-canyon-nature-v2",
+      "description": "Der Fish River Canyon ist der größte Canyon Afrikas und der zweitgrößte der Welt, mit atemberaubenden Ausblicken.",
+      "facts": ["Größter Canyon Afrikas", "Zweitgrößter der Welt", "Atemberaubende Ausblicke"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "Das Waterberg-Plateau ist ein markantes Tafelberg-Nationalpark, bekannt für seine Artenvielfalt und einzigartige Geologie.",
+      "facts": ["Tafelberg-Nationalpark", "Artenvielfalt", "Einzigartige Geologie"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "Der Swakop-Fluss ist ein intermittierender Fluss, dessen Mündung in Swakopmund ein wichtiger Feuchtgebiet für Vögel ist.",
+      "facts": ["Intermittierender Fluss", "Feuchtgebiet", "Vogelbeobachtung"]
+    }
+  ]
+}

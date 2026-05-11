@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalahari-basin-relief-v2",
+      "description": "The Kalahari Basin is a vast, sandy interior region characterizing a significant part of the northern interior plateau.",
+      "facts": ["Vast sandy basin", "Northern interior plateau", "Low-lying relief", "Semi-arid climate"]
+    },
+    {
+      "id": "karoo-relief-v2",
+      "description": "The Karoo consists of broad basins and ranges, forming a major part of the central interior of South Africa.",
+      "facts": ["Broad central basins", "Interior plateau region", "Rugged range terrain", "Arid landscape"]
+    },
+    {
+      "id": "limpopo-plains-relief-v2",
+      "description": "The Limpopo Plains are characterized by lower-lying, flat topographical features in the northern part of the country.",
+      "facts": ["Lower-lying plain terrain", "Northern topographical feature", "Gentle relief", "River-fed region"]
+    },
+    {
+      "id": "lowveld-relief-v2",
+      "description": "The Lowveld is a region of gentle slopes and plains east of the Drakensberg mountains, extending toward the coast.",
+      "facts": ["Eastern plain region", "Gentle undulating slopes", "Extends from Drakensberg", "Subtropical lowland"]
+    },
+    {
+      "id": "namib-fringe-relief-v2",
+      "description": "The Namib fringe area features transitional topography between the interior plateau and the western coastal plains.",
+      "facts": ["Transitional topography", "Interior-coastal fringe", "Unique landform variations", "Arid fringe terrain"]
+    },
+    {
+      "id": "suurberg-relief-v2",
+      "description": "The Suurberg is a prominent mountain range contributing to the diverse relief of the Eastern Cape province.",
+      "facts": ["Prominent mountain range", "Eastern Cape relief", "Diverse topography", "Significant elevation"]
+    },
+    {
+      "id": "winterberg-relief-v2",
+      "description": "Winterberg is a mountainous area forming part of the rugged high-relief landscape in the Eastern Cape.",
+      "facts": ["Rugged mountain terrain", "High-relief landscape", "Eastern Cape feature", "Significant elevated range"]
+    },
+    {
+      "id": "amathole-relief-v2",
+      "description": "The Amathole Mountains offer a dramatic, forested high-relief landscape in the Eastern Cape region.",
+      "facts": ["Dramatic forested range", "High-relief mountain area", "Eastern Cape terrain", "Important elevation feature"]
+    },
+    {
+      "id": "waterberg-relief-v2",
+      "description": "The Waterberg is a vast sandstone plateau and mountainous area located in the Limpopo province.",
+      "facts": ["Sandstone plateau region", "Limpopo mountainous area", "Distinct elevated landscape", "Rugged terrain"]
+    },
+    {
+      "id": "kharras-relief-v2",
+      "description": "The Kharras region contributes to the complex, elevated terrain that defines parts of the interior plateau.",
+      "facts": ["Complex elevated terrain", "Part of interior plateau", "Notable relief variations", "Regional topographic feature"]
+    },
+    {
+      "id": "komsberg-relief-v2",
+      "description": "Komsberg is an elevated region characterized by rugged mountain passes and high plateau relief.",
+      "facts": ["Elevated rugged region", "Mountain pass terrain", "High plateau relief", "Complex elevation"]
+    },
+    {
+      "id": "rooge-relief-v2",
+      "description": "The Rooge region forms a distinct part of the intricate, multi-layered topographical landscape of the interior.",
+      "facts": ["Intricate topography", "Multi-layered landscape", "Distinct interior feature", "Complex elevation"]
+    },
+    {
+      "id": "kogelberg-relief-v2",
+      "description": "The Kogelberg mountain range provides dramatic, high-altitude relief and rugged peaks near the coast.",
+      "facts": ["Dramatic coastal mountains", "High-altitude relief", "Rugged mountain peaks", "Significant topographic elevation"]
+    },
+    {
+      "id": "blouberg-relief-v2",
+      "description": "Blouberg is a distinctive mountain range featuring notable elevation and complex, rugged topography.",
+      "facts": ["Distinctive mountain range", "Notable topographic elevation", "Complex rugged terrain", "Important regional landform"]
+    }
+  ]
+}

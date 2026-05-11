@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Nepal",
+  "files": [
+    "lib/visualLab/data/poiExtraNepalCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jitpursimara-cities-v2",
+      "description": "Jitpursimara Nepál déli részén, a Bara körzetben található gyorsan fejlődő város.",
+      "facts": [
+        "Bara körzet része",
+        "Dél-nepáli kereskedelmi csomópont",
+        "Mezőgazdasági központ",
+        "Közeli repülőtér"
+      ]
+    },
+    {
+      "id": "siraha-cities-v2",
+      "description": "Siraha a nepáli Terai-alföld egyik fontos városa, a Siraha körzet adminisztratív központja.",
+      "facts": [
+        "Siraha körzet székhelye",
+        "Terai-alföldi település",
+        "Fontos oktatási központ",
+        "Határmenti régió"
+      ]
+    }
+  ]
+}

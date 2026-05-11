@@ -159,9 +159,9 @@ export const poiExtraChileNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Ältestes Nationalpark Chiles (gegründet 1926).", "Bekannt für die tosenden Petrohué-Wasserfälle über Lavagestein.", "Dominante Lage des Vulkans Osorno im Nationalparkgebiet.", "Bedeutendes Ziel für den ökologischen Tourismus in der Seenregion."],
-      hu: ["1926-ben alapították Chile első nemzeti parkjaként", "Az Osorno vulkán magassága 2652 méter", "A Petrohué-vízesések vize percenként több ezer köbméter", "A Todos los Santos-tavat 'Smaragd-tónak' is hívják"],
+      hu: ["Az Osorno vulkán magassága 2652 méter", "A Petrohué-vízesések vize percenként több ezer köbméter", "A Todos los Santos-tavat 'Smaragd-tónak' is hívják"],
       ro: ["Inaugurat în 1926 ca primul parc național de pe teritoriul chilian.", "Vulcanul Osorno are o înălțime de 2.652 de metri.", "Cascadele Petrohué au fost sculptate de fluxurile de lavă ale vulcanului Osorno.", "Lacul Todos los Santos este supranumit \\\"Lacul de Smarald\\\"."],
-      en: ["Founded in 1926 as Chile's first national park.", "Osorno volcano stands at 2,652 meters.", "Petrohué Waterfalls move thousands of cubic meters per minute.", "Todos los Santos Lake is also called 'Emerald Lake'."]
+      en: ["Osorno volcano stands at 2,652 meters.", "Petrohué Waterfalls move thousands of cubic meters per minute.", "Todos los Santos Lake is also called 'Emerald Lake'."]
     },
     facts: {
       de: ["Der Park wurde 1926 als erster Nationalpark Chiles gegründet.", "Die Petrohué-Wasserfälle ergießen sich über Vulkangestein."],

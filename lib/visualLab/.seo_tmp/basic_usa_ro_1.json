@@ -1,0 +1,71 @@
+
+{
+  "lang": "ro",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-paso-cities-v2",
+      "description": "El Paso este un oraș din Texas, situat la granița cu Mexic, cunoscut pentru cultura sa bilingvă și peisajul deșertic.",
+      "facts": ["Poreclit 'Orașul Soarelui'", "Fort Bliss, o bază militară majoră, este aici", "Are o istorie bogată în cultura cowboy"]
+    },
+    {
+      "id": "detroit-cities-v2",
+      "description": "Detroit, cel mai mare oraș din Michigan, este renumit ca centrul istoric al industriei auto americane.",
+      "facts": ["Poreclit 'Motor City'", "Casa muzicii Motown", "Râul Detroit îl separă de Canada"]
+    },
+    {
+      "id": "tampa-cities-v2",
+      "description": "Tampa este un oraș important pe coasta de vest a Floridei, cunoscut pentru parcurile sale de distracții și cartierul istoric Ybor City.",
+      "facts": ["Găzduiește Busch Gardens", "Ybor City este renumit pentru trabucuri", "Situat pe Golful Tampa"]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "description": "Pittsburgh este un oraș din Pennsylvania, transformat dintr-un centru industrial al oțelului într-un hub pentru tehnologie și sănătate.",
+      "facts": ["Poreclit 'Orașul de Oțel'", "Are peste 446 de poduri", "Confluența a trei râuri: Allegheny, Monongahela și Ohio"]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "description": "Santa Ana este un oraș din Comitatul Orange, California, cu o puternică moștenire hispanica și atracții culturale.",
+      "facts": ["Centrul administrativ al Comitatului Orange", "Găzduiește Bowers Museum", "Numele provine de la Sfânta Ana"]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "description": "Stockton, un oraș din California Central Valley, are un port important de apă adâncă și o populație diversă.",
+      "facts": ["Port interior pe râul San Joaquin", "Fondat în timpul Goanei după Aur", "Universitatea Pacificului este situată aici"]
+    },
+    {
+      "id": "chandler-cities-v2",
+      "description": "Chandler este un oraș suburban din Arizona, parte a zonei metropolitane Phoenix, cunoscut pentru festivalurile sale anuale.",
+      "facts": ["Cunoscut pentru Festivalul Struților", "Un centru pentru companii de tehnologie", "Fondat de un medic veterinar"]
+    },
+    {
+      "id": "little-rock-cities-v2",
+      "description": "Little Rock, capitala statului Arkansas, este un centru economic și cultural, important în istoria drepturilor civile.",
+      "facts": ["Numele provine de la o formațiune stâncoasă", "Central High School, un sit istoric", "Situat pe malul râului Arkansas"]
+    },
+    {
+      "id": "charleston-sc-cities-v2",
+      "description": "Charleston, cel mai vechi oraș din Carolina de Sud, este renumit pentru arhitectura sa istorică, străzile pavate și ospitalitatea sudică.",
+      "facts": ["Fondat în 1670 ca Charles Town", "Case colorate pe Rainbow Row", "Fort Sumter, unde a început Războiul Civil"]
+    },
+    {
+      "id": "annapolis-cities-v2",
+      "description": "Annapolis este capitala statului Maryland și găzduiește Academia Navală a Statelor Unite.",
+      "facts": ["Capitala navigației a Americii", "Fostă capitală temporară a SUA", "Arhitectură colonială bine conservată"]
+    },
+    {
+      "id": "concord-nh-cities-v2",
+      "description": "Concord este capitala statului New Hampshire, un oraș mic cu o istorie bogată și o comunitate artistică vibrantă.",
+      "facts": ["Cea mai mică capitală de stat ca populație", "Centru pentru exploatarea granitului", "Râul Merrimack traversează orașul"]
+    },
+    {
+      "id": "port-of-seattle-economic-v2",
+      "description": "Portul Seattle este un important centru de comerț și transport maritim în regiunea Pacific Northwest, esențial pentru comerțul cu Asia.",
+      "facts": ["Un motor economic pentru Washington", "Hub major pentru containere și croaziere", "Gestionat de o comisie portuară"]
+    }
+  ]
+}

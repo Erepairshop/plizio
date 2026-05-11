@@ -1,0 +1,108 @@
+{
+  "lang": "hu",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteNatureV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "turiscai-cities-v2",
+      "description": "Manufahi kerület hegyvidéki települése, amely a természetközeli életmódjáról ismert. A környéken hagyományos gazdálkodás zajlik.",
+      "facts": ["Manufahi kerület része", "Hegyvidéki táj", "Hagyományos életmód"]
+    },
+    {
+      "id": "laclubar-cities-v2",
+      "description": "Manatuto kerület hegyvidéki települése, amely stratégiai jelentőséggel bírt a múltban. A környék domborzata megnehezíti a közlekedést.",
+      "facts": ["Manatuto kerület része", "Hegyvidéki terep", "Történelmi jelentőség"]
+    },
+    {
+      "id": "zumalai-cities-v2",
+      "description": "Cova Lima kerület települése az ország délnyugati részén. A környék fontos mezőgazdasági területnek számít a régióban.",
+      "facts": ["Cova Lima kerület része", "Délnyugati elhelyezkedés", "Mezőgazdasági szerep"]
+    },
+    {
+      "id": "fohorem-cities-v2",
+      "description": "Cova Lima kerület hegyvidéki települése a nyugati országrészben. Hagyományos közösségek és táj jellemzi.",
+      "facts": ["Cova Lima kerület része", "Hegyvidéki elhelyezkedés", "Hagyományos közösség"]
+    },
+    {
+      "id": "maliana-border-trade-center-economic-v2",
+      "description": "Fontos határmenti kereskedelmi központ Maliana városában, amely az indonéz határátkelőhöz kapcsolódik. Jelentős szerepet játszik a két ország közötti kereskedelemben.",
+      "facts": ["Határmenti kereskedelmi csomópont", "Indonéz határ közelében", "Gazdasági központ"]
+    },
+    {
+      "id": "pante-macassar-port-economic-v2",
+      "description": "Oecusse enklávé legfőbb kikötővárosa, amely az áruszállítás és az összeköttetés alapvető fontosságú bázisa. A tengeri kereskedelem egyik kulcshelyszíne a régióban.",
+      "facts": ["Oecusse kikötője", "Tengeri kereskedelmi csomópont", "Áruszállítási bázis"]
+    },
+    {
+      "id": "ermera-coffee-plantations-life-v2",
+      "description": "Az Ermera kerület kávéültetvényei az ország mezőgazdaságának gerincét alkotják. A terület a kiváló minőségű kávétermeléséről híres világszerte.",
+      "facts": ["Kávétermesztés központja", "Világhírű kávé régió", "Mezőgazdasági ültetvények"]
+    },
+    {
+      "id": "cristo-rei-macaque-habitat-life-v2",
+      "description": "A főváros közelében található természeti terület, amely a makákók természetes élőhelyéül szolgál. Kedvelt természetvédelmi helyszín.",
+      "facts": ["Makákók élőhelye", "Természetvédelmi terület", "Főváros közelében"]
+    },
+    {
+      "id": "maubisse-farms-life-v2",
+      "description": "Hegyvidéki mezőgazdasági körzet, amely a zöldség- és gyümölcstermesztéséről ismert. Kedvező klímája miatt az ország éléskamrájának is tekintik.",
+      "facts": ["Hegyvidéki farmok", "Zöldségtermesztés", "Kedvező klíma"]
+    },
+    {
+      "id": "jardim-borja-da-costa-life-v2",
+      "description": "Kulturális jelentőségű park és kertterület, amely a közösségi kikapcsolódás színtere. A régió történetéhez kapcsolódó emlékhely.",
+      "facts": ["Közösségi park", "Kulturális emlékhely", "Rekreációs terület"]
+    },
+    {
+      "id": "com-coastal-reserve-life-v2",
+      "description": "Védett tengerparti terület az ország keleti részén. A terület a biodiverzitás és a tengeri élővilág megőrzésében játszik fontos szerepet.",
+      "facts": ["Védett tengerparti övezet", "Biodiverzitás központ", "Keleti tájegység"]
+    },
+    {
+      "id": "oecusse-sandalwood-life-v2",
+      "description": "Az Oecusse régióban található szantálfa-területek történelmi jelentőségűek és gazdaságilag is értékesek. A fafajta termesztése hosszú múltra tekint vissza.",
+      "facts": ["Szantálfa-terület", "Történelmi kereskedelmi árucikk", "Oecusse régió"]
+    },
+    {
+      "id": "baucau-terraces-life-v2",
+      "description": "Baucau körzetének jellegzetes teraszos művelésű mezőgazdasági területei, amelyek az évszázadok során alakultak ki. A táj meghatározó része.",
+      "facts": ["Teraszos művelés", "Baucau kerület", "Hagyományos mezőgazdaság"]
+    },
+    {
+      "id": "lospalos-livestock-life-v2",
+      "description": "A Lautém kerületben zajló állattenyésztés a helyi megélhetés egyik fő forrása. Hagyományos állattartási technikák jellemzik.",
+      "facts": ["Állattenyésztési központ", "Hagyományos tartás", "Lautém kerület"]
+    },
+    {
+      "id": "viqueque-teak-forests-life-v2",
+      "description": "Viqueque kerület kiterjedt tíkfa-erdőségei jelentős természeti kincset képviselnek. Az erdőgazdálkodás és a védelem egyensúlyára törekednek.",
+      "facts": ["Tíkfa-erdők", "Viqueque kerület", "Értékes fafajta"]
+    },
+    {
+      "id": "timor-plaza-kids-zone-life-v2",
+      "description": "Dili modern szórakoztató központjának gyermekek számára kialakított része. A városi élet egyik közösségi színtere.",
+      "facts": ["Gyermekszórakoztató zóna", "Dili városi élet", "Modern központ"]
+    },
+    {
+      "id": "dili-promenade-park-park-life-v2",
+      "description": "Dili tengerparti sétánya és parkja, amely a városi pihenés elsődleges helyszíne. A helyiek és turisták körében is népszerű.",
+      "facts": ["Tengerparti sétány", "Városi park", "Dili fő közösségi tere"]
+    },
+    {
+      "id": "lake-seloi-nature-v2",
+      "description": "A sziget belsejében elhelyezkedő tó, amely természeti szépségével és élővilágával hívja fel magára a figyelmet. Fontos vízi élőhely.",
+      "facts": ["Hegyvidéki tó", "Vízi élővilág", "Természeti környezet"]
+    },
+    {
+      "id": "com-coast-relief-v2",
+      "description": "A Com melletti tengerparti szakasz, amelyet változatos partvonal és geológiai képződmények jellemeznek. A terület tájképi szempontból is kiemelkedő.",
+      "facts": ["Tengerparti szakasz", "Változatos partvonal", "Geológiai képződmények"]
+    }
+  ]
+}

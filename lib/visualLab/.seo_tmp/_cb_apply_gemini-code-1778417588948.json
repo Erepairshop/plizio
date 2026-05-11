@@ -1,0 +1,87 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "grand-mosque-ndjamena-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Moschee von N'Djamena (Grande Mosquée de N'Djamena) ist ein hochgradig prominentes religiöses Wahrzeichen exakt im Zentrum der tschadischen Hauptstadt. Geografisch grenzt dieses massive Bauwerk direkt an den großen Zentralmarkt (Grand Marché), wodurch es das kulturelle und kommerzielle Epizentrum der Stadt bildet. Historisch wurde die Moschee in den späten 1970er Jahren errichtet, maßgeblich finanziert durch ausländische Investitionen, insbesondere aus Saudi-Arabien. Die Architektur zeichnet sich durch zwei aufragende, schlanke Minarette und eine weite zentrale Kuppel aus, die traditionelle sahelische mit modernen nahöstlichen Designelementen vereint. Wirtschaftlich generiert die Moschee selbst zwar keine direkten Einnahmen, doch ihr unmittelbares Umfeld fungiert als die am dichtesten konzentrierte informelle Handelszone des ganzen Landes. Der tägliche, massive Fußgängerverkehr stimuliert die lokale Mikroökonomie extrem. Das Gebäude erlitt während der gewaltsamen Straßenkämpfe in den Jahren 1980 und 2008 signifikante strukturelle Schäden, wurde jedoch anschließend restauriert. Sie bleibt das absolute spirituelle Zentrum für die muslimische Mehrheit des Landes.",
+        "hu": "A N'Djamenai Nagymecset (Grande Mosquée de N'Djamena) egy kiemelkedően fontos vallási tájékozódási pont, amely pontosan a csádi főváros központjában található. Földrajzilag ez a hatalmas építmény közvetlenül a nagy központi piaccal (Grand Marché) határos, így a város kulturális és kereskedelmi epicentrumát alkotja. Történelmileg a mecsetet az 1970-es évek végén építették, nagyrészt külföldi, elsősorban szaúd-arábiai beruházásokból finanszírozva. Az építészetet két magasba nyúló, karcsú minaret és egy hatalmas központi kupola jellemzi, amely a hagyományos száheli és a modern közel-keleti dizájnelemeket ötvözi. Gazdasági szempontból maga a mecset nem generál közvetlen bevételt, de közvetlen környezete az egész ország legsűrűbb informális kereskedelmi zónájaként funkcionál. A napi masszív gyalogosforgalom rendkívül mértékben stimulálja a helyi mikrogazdaságot. Az épület az 1980-as és 2008-as erőszakos utcai harcok során jelentős szerkezeti károkat szenvedett, de később helyreállították. Továbbra is ez az ország muszlim többségének abszolút spirituális központja.",
+        "ro": "Marea Moschee din N'Djamena (Grande Mosquée de N'Djamena) este un reper religios extrem de proeminent situat exact în centrul capitalei ciadiene. Geografic, structura masivă se află chiar lângă piața centrală (Grand Marché), formând epicentrul cultural și comercial al orașului. Istoric, moscheea a fost construită la sfârșitul anilor 1970, puternic finanțată prin investiții străine, în special din Arabia Saudită. Arhitectura prezintă două minarete înalte, zvelte și o cupolă centrală vastă, încorporând elemente de design tradiționale saheliene și moderne din Orientul Mijlociu. Economic, moscheea în sine nu generează venituri directe, dar împrejurimile sale imediate funcționează ca cea mai dens concentrată zonă de comerț informal din întreaga țară. Traficul pietonal zilnic intens stimulează extrem de mult micro-economia locală. Clădirea a suferit daune structurale semnificative în timpul bătăliilor violente din N'Djamena din 1980 și 2008, dar a fost ulterior restaurată.",
+        "en": "The Grand Mosque of N'Djamena (Grande Mosquée de N'Djamena) is a highly prominent religious landmark located in the exact center of the Chadian capital. Geographically, the massive structure sits directly adjacent to the central market (Grand Marché), firmly forming the cultural and commercial epicenter of the city. Historically, the mosque was constructed in the late 1970s, heavily financed by foreign investments, particularly originating from Saudi Arabia. The architecture actively features two towering, slender minarets and a vast central dome, effectively incorporating traditional Sahelian and modern Middle Eastern design elements. Economically, the mosque itself absolutely does not generate direct revenue, but its immediate physical surroundings function as the most densely concentrated informal trading zone in the entire country. The heavy daily foot traffic highly stimulates the local micro-economy. The building suffered significant structural damage during the violent Battle of N'Djamena in 1980 and again in 2008, but it was subsequently restored. It remains the absolute spiritual center for the country's Muslim majority."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die massive Moschee liegt exakt im geschäftigen Handelszentrum von N'Djamena.",
+          "Der Bau wurde in den 1970er Jahren stark durch saudische Investitionen finanziert.",
+          "Die Architektur vereint sahelische Stilelemente mit zwei sehr hohen Minaretten.",
+          "Die unmittelbare Umgebung bildet die dichteste informelle Handelszone im Tschad.",
+          "Das Gebäude erlitt im Krieg von 1980 teils signifikante strukturelle Schäden."
+        ],
+        "hu": [
+          "A hatalmas mecset pontosan N'Djamena nyüzsgő kereskedelmi központjában van.",
+          "Az építkezést az 1970-es években erősen finanszírozták szaúdi befektetésekből.",
+          "Az építészet száheli stíluselemeket ötvöz két nagyon magasba nyúló minarettel.",
+          "A közvetlen környezet alkotja Csád legsűrűbb informális kereskedelmi zónáját.",
+          "Az épület az 1980-as polgárháborúban jelentős szerkezeti károkat szenvedett."
+        ],
+        "ro": [
+          "Moscheea masivă se află exact în centrul comercial foarte aglomerat al N'Djamenei.",
+          "Structura a fost masiv finanțată de investiții străine la sfârșitul anilor 1970.",
+          "Arhitectura prezintă două minarete înalte și o cupolă centrală foarte vastă.",
+          "Împrejurimile formează cea mai densă zonă de comerț informal din întregul Ciad.",
+          "Clădirea a suferit daune structurale semnificative în timpul războiului din 1980."
+        ],
+        "en": [
+          "The massive mosque is located in the exact commercial center of N'Djamena.",
+          "The structure was heavily financed by foreign investments in the late 1970s.",
+          "The architecture features two towering minarets and a vast central dome.",
+          "The immediate surroundings form the most dense informal trading zone in Chad.",
+          "The building suffered significant structural damage during the 1980 civil war."
+        ]
+      }
+    },
+    {
+      "id": "place-de-la-nation-ndjamena-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Place de la Nation ist ein massiver, stark formalisierter öffentlicher Platz im administrativen Herzen von N'Djamena, der Hauptstadt des Tschad. Geografisch liegt der weite Platz direkt gegenüber dem bewachten Präsidentenpalastkomplex. Historisch gesehen wurde der Platz errichtet, um den 50. Jahrestag der formellen Unabhängigkeit des Tschad von Frankreich zu begehen; die offizielle Einweihung fand im Jahr 2010 statt. Das architektonische Kernstück ist eine monumentale, hoch aufragende Bogenstruktur, die die ansonsten extrem flache städtische Skyline völlig dominiert. Wirtschaftlich gesehen erforderte der Bau des Platzes eine massive, hochumstrittene staatliche Multimillionen-Dollar-Investition in einem Land, das stark von extremer Armut geprägt ist. Der Platz wird in erster Linie für stark durchchoreografierte Militärparaden, offizielle Staatszeremonien und Feierlichkeiten an nationalen Feiertagen genutzt. Er wird permanent von schwer bewaffnetem Militärpersonal bewacht, wodurch der ungezwungene zivile Zugang stark eingeschränkt ist. Die Stätte verfügt über keinerlei kommerzielle oder touristische Annehmlichkeiten und dient strikt als stark gesichertes Symbol zentralisierter Staatsmacht.",
+        "hu": "A Place de la Nation egy masszív, erősen formalizált közterület N'Djamena, Csád fővárosának közigazgatási szívében. Földrajzilag a tágas tér közvetlenül a szigorúan őrzött elnöki palota komplexumával szemben helyezkedik el. Történelmileg a teret azért építették, hogy megemlékezzenek a Franciaországtól való formális csádi függetlenség 50. évfordulójáról; a hivatalos felavatásra 2010-ben került sor. Az építészeti központ egy monumentális, magasba nyúló boltíves szerkezet, amely teljesen uralja az amúgy rendkívül lapos városi látképet. Gazdasági szempontból a tér megépítése egy masszív, rendkívül ellentmondásos, több millió dolláros állami beruházást igényelt egy olyan országban, amelyet extrém szegénység jellemez. A teret elsősorban erősen megkoreografált katonai parádékra, hivatalos állami ceremóniákra és nemzeti ünnepekre használják. Folyamatosan állig felfegyverzett katonai személyzet őrzi, ami miatt a hétköznapi civil hozzáférés erősen korlátozott. A helyszín egyáltalán nem rendelkezik kereskedelmi vagy turisztikai létesítményekkel, és szigorúan a központosított államhatalom erősen biztosított szimbólumaként szolgál.",
+        "ro": "Place de la Nation este o piață publică masivă, puternic formalizată, situată în inima administrativă a N'Djamenei, capitala Ciadului. Geografic, piața vastă este situată direct vizavi de complexul palatului prezidențial. Istoric, piața a fost construită pentru a comemora a 50-a aniversare a independenței formale a Ciadului față de Franța, fiind inaugurată oficial în 2010. Piesa centrală arhitecturală este o structură de arc monumentală, falnică, care domină complet orizontul urban extrem de plat. Din punct de vedere economic, construcția pieței a necesitat o investiție de stat masivă, extrem de controversată, de mai multe milioane de dolari într-o țară caracterizată de sărăcie extremă. Piața este utilizată în principal pentru parade militare strict coregrafiate, ceremonii oficiale de stat și sărbători naționale. Este păzită permanent de personal militar, ceea ce face ca accesul civililor să fie foarte restricționat. Situl nu are deloc facilități comerciale sau turistice și servește strict ca simbol al puterii.",
+        "en": "The Place de la Nation is a massive, highly formalized public square located directly in the administrative heart of N'Djamena, the capital of Chad. Geographically, the expansive plaza is situated directly opposite the heavily guarded presidential palace complex. Historically, the square was constructed to actively commemorate the 50th anniversary of Chad's formal independence from France, officially inaugurated in the year 2010. The architectural centerpiece is a monumental, towering arch structure that completely dominates the extremely flat urban skyline. Economically, the construction of the square required a massive, highly controversial multi-million-dollar state investment in a country deeply characterized by extreme poverty. The plaza is primarily utilized for highly choreographed military parades, official state ceremonies, and national holiday celebrations. It is heavily guarded by military personnel at all times, making casual civilian access highly restricted. The site features zero commercial or tourist amenities and serves strictly as a heavily securitized symbol of centralized state power."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der massive öffentliche Platz liegt direkt gegenüber dem Präsidentenpalast.",
+          "Die Plaza wurde 2010 zum 50. Jahrestag der Unabhängigkeit offiziell eröffnet.",
+          "Ein hoch aufragender, monumentaler Bogen dominiert die flache Skyline komplett.",
+          "Der Platz wird fast exklusiv für staatliche und militärische Paraden genutzt.",
+          "Strenge militärische Bewachung schränkt den zivilen Zugang zum Areal stark ein."
+        ],
+        "hu": [
+          "A hatalmas közterület közvetlenül az elnöki palotával szemben helyezkedik el.",
+          "A teret 2010-ben, a függetlenség 50. évfordulóján nyitották meg hivatalosan.",
+          "Egy magasba nyúló, monumentális boltív teljesen uralja a lapos városképet.",
+          "A teret szinte kizárólag állami ünnepségekre és katonai parádékra használják.",
+          "A szigorú és állandó katonai őrizet erősen korlátozza a civil hozzáférést."
+        ],
+        "ro": [
+          "Piața publică masivă este situată direct vizavi de palatul prezidențial.",
+          "Piața a fost construită pentru a marca a 50-a aniversare a independenței.",
+          "Un arc monumental falnic domină complet orizontul urban extrem de plat.",
+          "Piața este utilizată în principal pentru parade militare strict coregrafiate.",
+          "Situl puternic securizat nu are absolut nicio facilitate comercială sau turistică."
+        ],
+        "en": [
+          "The massive public square is located opposite the presidential palace.",
+          "The plaza was constructed to mark the 50th anniversary of independence.",
+          "A towering monumental arch completely dominates the extremely flat skyline.",
+          "The square is utilized primarily for highly choreographed military parades.",
+          "The heavily securitized site features zero commercial or tourist amenities."
+        ]
+      }
+    }
+  ]
+}

@@ -23,13 +23,13 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }, image: "/poi-images/gitega-national-museum-history-v2.webp",
     description: {
       de: "Das Gitega Nationalmuseum sammelt Ausstellungsstücke zur Geschichte und Kultur des Landes. Es ist ein zentraler Ort, um die burundische Erinnerungskultur kennenzulernen.",
-      hu: "A Gitega Nemzeti Múzeum az ország történelméhez és kultúrájához kapcsolódó gyűjteményeket mutat be. Fontos hely a burundi emlékezet megismeréséhez.",
+      hu: "Az 1955-ben alapított múzeum Burundi gazdag néprajzi és történelmi emlékeit őrzi.",
       ro: "Muzeul Național din Gitega păstrează obiecte esențiale pentru istoria și cultura Burundiului. Colecția lui oferă o imagine clară asupra perioadei monarhice și a vieții tradiționale.",
       en: "The National Museum in Gitega preserves Burundian cultural objects and royal-era material. It is one of the main places to learn about the country's historical identity."
     },
     facts: {
       de: ["Gitega", "Kulturgeschichte", "Museumsbestand"],
-      hu: ["Gitega", "kultúrtörténet", "múzeumi gyűjtemény"],
+      hu: ["Az ország legnagyobb múzeuma", "Ritka királyi ereklyék gyűjteménye", "Fontos oktatási és kutatási helyszín"],
       ro: ["Gitega", "istoria monarhiei", "artefacte culturale"],
       en: ["in Gitega", "cultural objects", "royal-era material"]
     }
@@ -55,13 +55,13 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }, image: "/poi-images/livingstone-stanley-monument-history-v2.webp",
     description: {
       de: "Das Livingstone-Stanley-Denkmal erinnert an die Begegnung der beiden Forscher am Tanganjikasee. Der Ort ist ein bekannter historischer Bezugspunkt am Seeufer.",
-      hu: "A Livingstone-Stanley-emlékmű a két felfedező Tanganyika-tónál történt találkozására emlékeztet. Ismert történelmi pont a tóparton.",
+      hu: "A Mugere falunál emelt emlékmű a híres felfedezők, Livingstone és Stanley 1871-es találkozásának állít emléket.",
       ro: "Monumentul Livingstone-Stanley marchează întâlnirea celebră din 1871 de lângă Bujumbura. Locul este legat de explorarea lacului Tanganyika și de istoria colonială timpurie.",
       en: "This monument marks the famous 19th-century meeting associated with David Livingstone and Henry Morton Stanley. It recalls the era when European exploration reached the Lake Tanganyika region."
     },
     facts: {
       de: ["am Tanganjikasee", "Forscherdenkmal", "Kolonialzeit"],
-      hu: ["Tanganyika-tó", "felfedezők emléke", "gyarmati kor"],
+      hu: ["Bujumburától 12 km-re délre található", "Történelmi jelentőségű találkozóhely", "Egy hatalmas kő jelzi a helyszínt"],
       ro: ["1871", "lacul Tanganyika", "lângă Bujumbura"],
       en: ["19th century", "Livingstone and Stanley", "Lake Tanganyika region"]
     }
@@ -87,13 +87,13 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }, image: "/poi-images/gitega-royal-palace-history-v2.webp",
     description: {
       de: "Der Königspalast von Gitega verweist auf die monarchische Vergangenheit Burundis. Der Ort ist eng mit der Geschichte des Königshauses verbunden.",
-      hu: "A gitegai királyi palota Burundi monarchikus múltjára utal. A hely szorosan kötődik az uralkodóház történetéhez.",
+      hu: "A burundi monarchia egykori székhelye, amely a királyi udvar életébe enged betekintést.",
       ro: "Palatul Regal din Gitega amintește de perioada în care Burundi era condus de regi. Situl rămâne un simbol al autorității tradiționale și al memoriei monarhice.",
       en: "The royal palace in Gitega reflects Burundi's monarchy and court traditions. It connects the city with the country's precolonial political history."
     },
     facts: {
       de: ["ehemalige Monarchie", "Gitega", "königliche Tradition"],
-      hu: ["egykori monarchia", "Gitega", "királyi hagyomány"],
+      hu: ["A hagyományos építészet példája", "Gitega történelmi városrészében áll", "Nemzeti kulturális emlékhely"],
       ro: ["reședință regală", "Mwami", "moștenire istorică"],
       en: ["Burundi monarchy", "court traditions", "precolonial history"]
     }
@@ -119,13 +119,13 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }, image: "/poi-images/gishora-drum-sanctuary-history-v2.webp",
     description: {
       de: "Das Trommelheiligtum von Gishora bewahrt die burundische Trommeltradition. Hier stehen rituelle Aufführungen und kulturelle Weitergabe im Mittelpunkt.",
-      hu: "A gishorai dob-szentély a burundi dobtradíciót őrzi. Itt a rituális előadások és a kulturális továbbadás áll a középpontban.",
+      hu: "A királyi dobosok otthona, ahol a Burundira jellemző szakrális dobhagyományokat őrzik.",
       ro: "Sanctuarul tobelor din Gishora este unul dintre cele mai cunoscute locuri culturale din Burundi. Aici este păstrată tradiția tobelor regale și a ceremoniilor asociate lor.",
       en: "Gishora is a famous drum sanctuary near Gitega, linked to Burundi's royal drumming heritage. The site protects a performance tradition that remains central to national culture."
     },
     facts: {
       de: ["Trommeltradition", "Kulturerbe", "nahe Gitega"],
-      hu: ["dobhagyomány", "kulturális örökség", "Gitega közelében"],
+      hu: ["Híres rituális dobelőadások", "Az UNESCO szellemi örökség része", "Királyi dobok (Ingoma) szentélye"],
       ro: ["lângă Gitega", "tobe regale", "patrimoniu cultural"],
       en: ["near Gitega", "royal drumming", "cultural heritage"]
     }
@@ -151,13 +151,13 @@ export const poiExtraBurundiHistoryV2: POI[] = [
     }, image: "/poi-images/muramvya-ancient-palace-history-v2.webp",
     description: {
       de: "Der alte Palast von Muramvya erinnert an die frühere königliche Macht im Zentrum des Landes. Die Stätte gehört zum historischen Kerngebiet Burundis.",
-      hu: "A muramvyai régi palota az ország központjában egykori királyi hatalomra emlékeztet. A helyszín Burundi történelmi magterületéhez tartozik.",
+      hu: "Burundi régi királyi központja, amely a gyarmatosítás előtti időkben az uralkodók lakhelyéül szolgált.",
       ro: "Palatul antic din Muramvya evocă vechea capitală regală a Burundiului. Locul este asociat cu începuturile puterii monarhice și cu tradițiile de curte.",
       en: "Muramvya's ancient palace site points to the old royal court and the early power centers of Burundi. It is tied to the period when the monarchy shaped the region's politics."
     },
     facts: {
       de: ["Muramvya", "Monarchie", "historischer Palast"],
-      hu: ["Muramvya", "monarchia", "történelmi palota"],
+      hu: ["Történelmi fővárosi rangú hely", "Szakrális királyi erdők veszik körül", "A monarchia spirituális központja volt"],
       ro: ["capitală istorică", "curte regală", "centrul țării"],
       en: ["royal court", "old power center", "Burundi monarchy"]
     }

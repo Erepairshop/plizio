@@ -8,7 +8,13 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.148, 13.708],
     name: { de: "Soyapango", hu: "Soyapango", ro: "Soyapango", en: "Soyapango" },
-    description: { de: "Eine dicht besiedelte Stadt in der Metropolregion San Salvador, bekannt für ihre kommerzielle Aktivität.", hu: "Sűrűn lakott város San Salvador nagyvárosi területén, kereskedelmi tevékenységéről ismert.", ro: "Un oraș dens populat în zona metropolitană San Salvador, cunoscut pentru activitatea sa comercială.", en: "A densely populated city in the San Salvador metropolitan area, known for its commercial activity." },
+    description: { de: "Soyapango ist eine pulsierende Industriestadt in der Metropolregion San Salvador und gilt als eines der wichtigsten Wirtschaftszentren des Landes.", hu: "San Salvador agglomerációjának legnépesebb városa, amely az ország egyik legfontosabb ipari és kereskedelmi központja.", ro: "Soyapango este un oraș dens populat situat în zona metropolitană a capitalei San Salvador. Este recunoscut ca un centru industrial și comercial major al țării.", en: "Soyapango is a major industrial and commercial hub within the San Salvador Metropolitan Area, recognized as one of the most densely populated cities in Central America." },
+    facts: {
+      de: ["Eine der am dichtesten besiedelten Städte El Salvadors.", "Bedeutendes Zentrum für Industrie und Handel.", "Teil des Ballungsraums der Hauptstadt San Salvador.", "Wichtiger Knotenpunkt für den nationalen Warenverkehr."],
+      hu: ["Fontos textilipari központ", "Népsűrűsége kiemelkedő", "Közlekedési csomópont"],
+      ro: ["Populație de peste 250.000 locuitori", "Parte din departamentul San Salvador", "Important nod industrial", "Situat la est de capitală"],
+      en: ["Major center for textile and food manufacturing", "Key economic engine for the metropolitan region", "Densely populated urban and commercial district"]
+    },
     
      image: "/poi-images/chalatenango-cities-v2.webp",
     descriptionAdvanced: {
@@ -59,11 +65,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.933, 13.716],
     name: { de: "Cojutepeque", hu: "Cojutepeque", ro: "Cojutepeque", en: "Cojutepeque" },
-    description: { de: "Hauptstadt des Departements Cuscatlán, bekannt für ihre Wurstwaren und den Cerro de las Pavas.", hu: "Cuscatlán megye fővárosa, kolbászairól és a Cerro de las Pavas hegyről ismert.", ro: "Capitala departamentului Cuscatlán, cunoscută pentru cârnații săi și Cerro de las Pavas.", en: "Capital of the Cuscatlán department, known for its sausages and the Cerro de las Pavas hill." },
+    description: { de: "Hauptstadt des Departements Cuscatlán, bekannt für ihre Wurstwaren und den Cerro de las Pavas.", hu: "Cuscatlán megye székhelye, amely festői elhelyezkedéséről és hagyományos gasztronómiájáról, különösen kolbászairól ismert.", ro: "Capitala departamentului Cuscatlán, cunoscută pentru cârnații săi și Cerro de las Pavas.", en: "Capital of the Cuscatlán department, known for its sausages and the Cerro de las Pavas hill." },
     
     facts: {
       de: ["Bekannt als 'Stadt der Nebel'.", "Berühmt für Chorizos.", "Wallfahrtsort Cerro de las Pavas.", "War zeitweise Hauptstadt des Landes."],
-      hu: ["A \"ködök városaként\" ismert.", "Híres a chorizo kolbászairól.", "Cerro de las Pavas zarándokhely.", "Időnként az ország fővárosa volt."],
+      hu: ["A Cerro de las Pavas lábánál fekszik", "Híres füstölt kolbászféléiről", "Fontos vallási zarándokhely"],
       ro: ["Cunoscut ca \"Orașul cețurilor\".", "Faimos pentru chorizos.", "Loc de pelerinaj Cerro de las Pavas.", "A fost temporar capitala țării."],
       en: ["Known as the 'City of Mists'.", "Famous for its chorizos (sausages).", "Pilgrimage site of Cerro de las Pavas.", "Was temporarily the nation's capital."]
     },
@@ -134,7 +140,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       de: ["In der Kolonialzeit war Sensuntepeque ein wichtiges Zentrum für den Bergbau, insbesondere für Silber und Gold.", "Der Name der Stadt stammt aus der Sprache der Pipil und bezieht sich auf die hügelige Landschaft der Umgebung.", "Sensuntepeque ist berühmt für seine traditionellen Feste, bei denen bunte Maskentänze und lokale Musik im Mittelpunkt stehen."],
       hu: ["A név jelentése nahuatl nyelven: \"400 domb\".", "Az ország egyik legfontosabb fazekas és kerámia központja.", "A gyarmati időkben jelentős nemesfémbányászat folyt a környéken.", "Cabañas megye közigazgatási és kulturális székhelye."],
       ro: ["Numele său înseamnă patru sute de dealuri, reflectând topografia unică a regiunii înconjurătoare.", "Orașul este centrul producției de ceramică artizanală în departamentul Cabañas.", "A fost istoric un centru minier de unde se extrăgeau metale prețioase precum aurul și argintul.", "Este faimos pentru festivalurile tradiționale ce includ dansuri cu măști și muzică locală."],
-      en: ["Means '400 Hills' in Nahuat.", "Center for pottery making.", "Gold and silver mining in the past.", "Rural surroundings.", "Capital of the Cabañas department, known for pottery.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
+      en: ["Capital of the Cabañas department, known for pottery.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
     }
   },
   {
@@ -162,7 +168,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       de: ["San Vicente war in der Vergangenheit mehrfach die provisorische Hauptstadt El Salvadors während politischer Unruhen.", "Der Uhrturm im Stadtpark ist ein ikonisches Wahrzeichen, das sogar schwere Erdbeben überstanden hat.", "Die Region ist berühmt für ihre handgemachten Süßigkeiten und traditionellen Backwaren, die landesweit geschätzt werden."],
       hu: ["A monumentális Chichontepec-vulkán lábánál fekszik.", "Itt található a történelmi El Pilar templom, egy barokk remekmű.", "Történelme során két alkalommal is az ország fővárosa volt.", "Híres az 1930-as években épült ikonikus óratornyáról."],
       ro: ["Biserica El Pilar este o capodoperă a arhitecturii baroce coloniale din secolul al XVIII-lea.", "Orașul a fost capitala statului El Salvador în două ocazii diferite de-a lungul istoriei.", "Turnul cu ceas din centrul orașului este un punct de reper iconic construit în anii 1930.", "Regiunea este celebră pentru dulciurile tradiționale și produsele de panificație artizanale."],
-      en: ["Founded by Spanish settlers in 1635.", "Capital of the San Vicente Department.", "Located at the base of the Chinchontepec volcano.", "Famous for the Torre Vicentina clock tower.", "Elevation is approximately 390 meters.", "Major center for sugarcane cultivation."]
+      en: ["Founded by Spanish settlers in 1635.", "Capital of the San Vicente Department.", "Famous for the Torre Vicentina clock tower.", "Elevation is approximately 390 meters.", "Major center for sugarcane cultivation."]
     }
   },
   {
@@ -190,7 +196,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       de: ["Der Name 'Gotera' bedeutet in der Lenca-Sprache 'Schlangenfluss', was auf die indigene Vergangenheit der Region hinweist.", "Die Stadt beherbergt bedeutende militärische Einrichtungen, die während des Bürgerkriegs eine zentrale Rolle spielten.", "Gotera ist ein wichtiges Zentrum für den Viehhandel und landwirtschaftliche Messen in der östlichen Region."],
       hu: ["Morazán megye közigazgatási és gazdasági központja.", "Nevének jelentése lenca nyelven: \"kígyók folyója\".", "Fontos stratégiai szerepet játszott a polgárháború idején.", "A keleti régió egyik legjelentősebb állatvásárainak helyszíne."],
       ro: ["Numele Gotera înseamnă râul șerpilor în limba indigenă lenca.", "Este principalul centru administrativ și comercial al departamentului Morazán.", "Orașul a avut o importanță strategică majoră în timpul conflictului civil din anii '80.", "Găzduiește cele mai mari târguri de animale și expoziții agricole din regiunea de est."],
-      en: ["Capital of Morazán.", "Museum of the Revolution nearby (Perquín).", "Important role in the Civil War.", "Rural center in the east.", "Capital of the Morazán department, with a history related to the civil war.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
+      en: ["Capital of the Morazán department, with a history related to the civil war.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
     }
   },
   {
@@ -330,7 +336,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       de: ["Der Name Quezaltepeque stammt aus dem Nahuatl und bedeutet 'Hügel des Quetzal-Vogels'.", "Die Stadt beherbergt mehrere Textilfabriken und agroindustrielle Betriebe, die die lokale Wirtschaft antreiben.", "In der Umgebung befinden sich wunderschöne Landschaften, die bei Wanderern und Naturliebhabern beliebt sind."],
       hu: ["Nevének jelentése nahuatl nyelven: \"a kvézál madár helye\".", "A monumentális San Salvador-vulkán északi lábánál fekszik.", "Fontos textilipari és agrár-ipari központ a régióban.", "Híres a minőségi állattenyésztéséről és tejtermékeiről."],
       ro: ["Numele orașului se traduce prin dealul păsării quetzal în limba nahuatl.", "Localitatea găzduiește importante fabrici de textile și întreprinderi agroindustriale.", "Este renumit pentru calitatea produselor lactate și a septelului crescut în regiune.", "Se află în imediata apropiere a formațiunilor de lavă ale vulcanului San Salvador."],
-      en: ["Agriculture and livestock.", "Located at the foot of the San Salvador Volcano.", "Commercial center for the region.", "Means 'Place of the Quetzal Bird'.", "A city in the La Libertad department, known for its agriculture and livestock.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
+      en: ["A city in the La Libertad department, known for its agriculture and livestock.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
     }
   },
   {
@@ -356,7 +362,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Historisch gesehen war dieser Ort die Hauptstadt des präkolumbianischen Fürstentums Cuscatlán der Pipil.", "Hier befindet sich der Park 'Plan de la Laguna', ein wunderschönes Naturreservat in einer ehemaligen Vulkancaldera.", "Die Stadt ist bekannt für ihre gastronomische Vielfalt, die von traditionellen Pupusas bis hin zur Haute Cuisine reicht."],
-      hu: ["A prekolumbián pipil fejedelemség, Cuscatlán ősi fővárosa.", "Számos nagykövetség és nemzetközi szervezet székhelye.", "Itt található az ország legnagyobb bevásárlóközpontja, a Multiplaza.", "A Plan de la Laguna botanikus kert egy kialudt vulkáni kráterben fekszik."],
+      hu: ["A prekolumbián pipil fejedelemség, Cuscatlán ősi fővárosa.", "Itt található az ország legnagyobb bevásárlóközpontja, a Multiplaza.", "A Plan de la Laguna botanikus kert egy kialudt vulkáni kráterben fekszik."],
       ro: ["A fost capitala istorică a senioriei precolumbiene Cuscatlán înainte de sosirea spaniolilor.", "Găzduiește parcul Plan de la Laguna, o grădină botanică situată într-un crater vulcanic stins.", "Este sediul celor mai mari centre comerciale din țară, inclusiv Multiplaza și La Gran Vía.", "Orașul are unul dintre cele mai ridicate standarde de viață și indici de dezvoltare umană din țară."],
       en: ["Located in the La Libertad Department.", "Historically the capital of the indigenous Pipil nation.", "Elevation is around 850 meters.", "One of the wealthiest municipalities in El Salvador.", "Home to major shopping centers and universities.", "Hosts the popular 'Festival of the Holy Innocents'."]
     }
@@ -527,7 +533,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       de: ["Der Name der Stadt wurde zu Ehren der deutschen Heimat ihrer Gründer gewählt.", "Berlín beherbergt eines der modernsten Geothermiekraftwerke Mittelamerikas.", "Die Stadt ist ein beliebter Ausgangspunkt für Touren zum Kratersee Laguna de Alegría."],
       hu: ["Német bevándorlók alapították a 19. század végén.", "Híres a prémium minőségű magaslati kávétermeléséről.", "Itt található Közép-Amerika egyik legmodernebb geotermikus erőműve.", "Hűvös hegyi klímájával népszerű turisztikai célpont."],
       ro: ["Orașul a fost numit în onoarea capitalei Germaniei de către fondatorii săi europeni.", "Găzduiește una dintre cele mai importante și moderne centrale geotermale din America Centrală.", "Este renumit pentru microclimatul său răcoros, fiind o destinație turistică montană populară.", "Regiunea produce unele dintre cele mai apreciate soiuri de cafea de specialitate din estul țării."],
-      en: ["Located in the mountainous Usulután Department.", "Founded in 1885 by a German immigrant.", "Elevation is approximately 1,020 meters.", "Famous for high-altitude coffee cultivation.", "Home to a major national geothermal power plant.", "Known for its cool, misty climate."]
+      en: ["Located in the mountainous Usulután Department.", "Founded in 1885 by a German immigrant.", "Elevation is approximately 1,020 meters.", "Home to a major national geothermal power plant.", "Known for its cool, misty climate."]
     }
   },
   {
@@ -536,11 +542,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-US",
     coords: [-88.38, 13.37],
     name: { de: "Concepción Batres", hu: "Concepción Batres", ro: "Concepción Batres", en: "Concepción Batres" },
-    description: { de: "Eine kleine Stadt im Departement Usulután.", hu: "Kisváros Usulután megyében.", ro: "Un mic oraș în departamentul Usulután.", en: "A small city in the Usulután department." },
+    description: { de: "Eine kleine Stadt im Departement Usulután.", hu: "Usulután megyében található település, amelynek gazdasága elsősorban a mezőgazdaságra és az állattenyésztésre épül.", ro: "Un mic oraș în departamentul Usulután.", en: "A small city in the Usulután department." },
     
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaftlich geprägt.", "Traditionelle Lebensweise.", "Nahe der Stadt Usulután."],
-      hu: ["Vidéki község.", "Mezőgazdasági jellegű.", "Hagyományos életmód.", "Usulután város közelében."],
+      hu: ["Gazdag vizes élőhelyek a közelben", "Cukornádtermelés jellemzi", "Hagyományos falusi környezet"],
       ro: ["Comunitate rurală.", "Caracter agricol.", "Mod de viață tradițional.", "Aproape de orașul Usulután."],
       en: ["Rural municipality.", "Agricultural character.", "Traditional way of life.", "Near the city of Usulután."]
     },
@@ -554,7 +560,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt ist für ihre herzliche Gastfreundschaft und die traditionellen ländlichen Feste bekannt.", "Die umliegende Landschaft ist geprägt von weiten Feldern und kleinen Wäldern, die typisch für den Osten El Salvadors sind.", "Concepción Batres dient als wichtiger administrativer Punkt für die umliegenden Weiler (Cantones)."],
       hu: ["Hagyományos mezőgazdasági közösség Usulután megyében.", "Fontos szerepet játszik a helyi élelmiszer-ellátásban.", "Megőrizte autentikus vidéki jellegét és nyugalmát.", "Híres a barátságos közösségi életéről és ünnepeiről."],
-      ro: ["Comunitate rurală.", "Caracter agricol.", "Mod de viață tradițional.", "Aproape de orașul Usulután.", "Un mic oraș în departamentul Usulután.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un mic oraș în departamentul Usulután.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Usulután Department.", "Elevation is approximately 75 meters.", "Economy centers around agriculture and livestock.", "Situated near the main coastal highway.", "Known for its traditional local festivals.", "Characterized by a warm, tropical climate."]
     }
   },
@@ -845,7 +851,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Santa Rosa de Lima ist berühmt für die Herstellung von traditionellem salvadorianischem Käse (Lacteos), der im ganzen Land geschätzt wird.", "Der lokale Markt gehört zu den größten und geschäftigsten der gesamten östlichen Region El Salvadors.", "Das heiße Klima der Stadt wird durch den lebhaften Unternehmergeist ihrer Bewohner mehr als wettgemacht."],
       hu: ["Kelet-Salvador legfontosabb állatkereskedelmi és piaci központja.", "Híres a kiváló minőségű tradicionális tejtermékeiről és sajtjairól.", "Stratégiai kereskedelmi kapu Honduras felé.", "Úgy ismerik, mint a várost, amely soha nem alszik."],
-      ro: ["Important centru comercial pentru est.", "Comerț transfrontalier cu Honduras.", "Cunoscut pentru producția de brânză.", "Climă caldă.", "Un oraș comercial în departamentul La Unión, aproape de granița cu Honduras.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș comercial în departamentul La Unión, aproape de granița cu Honduras.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Unión Department.", "Known as the 'Capital of Commerce' of the east.", "Elevation is roughly 90 meters.", "Historically significant for its gold mining industry.", "Major hub for cross-border trade with Honduras.", "Features a very warm, tropical lowland climate."]
     }
   },
@@ -887,12 +893,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.08, 13.62],
     name: { de: "Jocoro", hu: "Jocoro", ro: "Jocoro", en: "Jocoro" },
-    description: { de: "Eine Stadt im Departement Morazán.", hu: "Város Morazán megyében.", ro: "Un oraș în departamentul Morazán.", en: "A city in the Morazán department." },
+    description: { de: "Eine Stadt im Departement Morazán.", hu: "Morazán megye déli részén fekvő város, amely fontos kereskedelmi kapocs San Miguel és az ország északi területei között.", ro: "Un oraș în departamentul Morazán.", en: "A city in the Morazán department." },
     
     
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaft und Viehzucht.", "Heimat des Fußballvereins Jocoro F.C.", "Nahe San Francisco Gotera."],
-      hu: ["Vidéki község.", "Mezőgazdaság és állattenyésztés.", "A Jocoro F.C. futballklub otthona.", "San Francisco Gotera közelében."],
+      hu: ["Híres sajt- és tejtermékeiről", "Bányászati múltra tekint vissza", "Élénk helyi piac jellemzi"],
       ro: ["Comunitate rurală.", "Agricultură și creșterea animalelor.", "Gazda clubului de fotbal Jocoro F.C.", "Aproape de San Francisco Gotera."],
       en: ["Rural municipality.", "Agriculture and livestock.", "Home of the Jocoro F.C. football club.", "Near San Francisco Gotera."]
     },
@@ -945,12 +951,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.85, 13.78],
     name: { de: "El Carmen", hu: "El Carmen", ro: "El Carmen", en: "El Carmen" },
-    description: { de: "Eine Stadt im Departement Cuscatlán.", hu: "Város Cuscatlán megyében.", ro: "Un oraș în departamentul Cuscatlán.", en: "A city in the department of Cuscatlán." },
+    description: { de: "Eine Stadt im Departement Cuscatlán.", hu: "La Unión megyei település a hondurasi határ közelében, amely stratégiai elhelyezkedése miatt fontos kereskedelmi pont.", ro: "Un oraș în departamentul Cuscatlán.", en: "A city in the department of Cuscatlán." },
     
     
     facts: {
       de: ["Ländliche Gemeinde.", "Anbau von Zuckerrohr und Getreide.", "Traditionelle Kultur.", "Ruhige Atmosphäre."],
-      hu: ["Vidéki község.", "Cukornád- és gabonatermesztés.", "Hagyományos kultúra.", "Nyugodt légkör."],
+      hu: ["Az Olomega-tó szomszédságában fekszik", "Állattenyésztő vidék", "Határ menti logisztikai szerep"],
       ro: ["Comunitate rurală.", "Cultivarea trestiei de zahăr și a cerealelor.", "Cultură tradițională.", "Atmosferă liniștită."],
       en: ["Rural municipality.", "Cultivation of sugarcane and grains.", "Traditional culture.", "Quiet atmosphere."]
     },
@@ -1003,12 +1009,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-AH",
     coords: [-89.85, 13.75],
     name: { de: "Guaymango", hu: "Guaymango", ro: "Guaymango", en: "Guaymango" },
-    description: { de: "Eine indigene Gemeinde im Departement Ahuachapán.", hu: "Őslakos község Ahuachapán megyében.", ro: "O comunitate indigenă în departamentul Ahuachapán.", en: "An indigenous community in the Ahuachapán department." },
+    description: { de: "Eine indigene Gemeinde im Departement Ahuachapán.", hu: "Ahuachapán megye hegyvidéki területén fekvő város, ahol a kávétermesztés és a hagyományos kézművesség dominál.", ro: "O comunitate indigenă în departamentul Ahuachapán.", en: "An indigenous community in the Ahuachapán department." },
     
     
     facts: {
       de: ["Starkes indigenes Erbe.", "Nahuat-sprechende Bevölkerung in der Vergangenheit.", "Ländliche Gemeinde.", "Traditionelle Feste."],
-      hu: ["Erős őslakos örökség.", "A múltban nahuatl nyelvű lakosság.", "Vidéki község.", "Hagyományos ünnepek."],
+      hu: ["Pipil indián gyökerekkel rendelkezik", "Hűvös, hegyvidéki klíma", "Kiváló minőségű kávéültetvények"],
       ro: ["Moștenire indigenă puternică.", "Populație vorbitoare de nahuatl în trecut.", "Comunitate rurală.", "Festivaluri tradiționale."],
       en: ["Strong indigenous heritage.", "Nahuat-speaking population in the past.", "Rural municipality.", "Traditional festivals."]
     },
@@ -1032,12 +1038,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.58, 13.78],
     name: { de: "San Julián", hu: "San Julián", ro: "San Julián", en: "San Julián" },
-    description: { de: "Eine Stadt im Departement Sonsonate, bekannt für ihre Balsam-Produktion.", hu: "Város Sonsonate megyében, balzsamtermeléséről ismert.", ro: "Un oraș în departamentul Sonsonate, cunoscut pentru producția sa de balsam.", en: "A city in the Sonsonate department, known for its balsam production." },
+    description: { de: "Eine Stadt im Departement Sonsonate, bekannt für ihre Balsam-Produktion.", hu: "Sonsonate megye egyik különleges települése, amely a 'balzsampart' részeként a természetes balzsamgyanta kinyeréséről híres.", ro: "Un oraș în departamentul Sonsonate, cunoscut pentru producția sa de balsam.", en: "A city in the Sonsonate department, known for its balsam production." },
     
     
     facts: {
       de: ["Zentrum der Balsam-Produktion.", "Balsam-Küste (Costa del Bálsamo).", "Traditionelle Extraktionsmethoden.", "Ländliche Gemeinde."],
-      hu: ["A balzsamtermelés központja.", "Balzsam-part (Costa del Bálsamo).", "Hagyományos kitermelési módszerek.", "Vidéki község."],
+      hu: ["A balzsamkivonás központja", "Sűrű erdős területek övezik", "Gyarmati stílusú templom"],
       ro: ["Centrul producției de balsam.", "Coasta Balsamului (Costa del Bálsamo).", "Metode tradiționale de extracție.", "Comunitate rurală."],
       en: ["Center of balsam production.", "Balsam Coast (Costa del Bálsamo).", "Traditional extraction methods.", "Rural municipality."]
     },
@@ -1061,12 +1067,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-PA",
     coords: [-89.05, 13.56],
     name: { de: "San Pedro Masahuat", hu: "San Pedro Masahuat", ro: "San Pedro Masahuat", en: "San Pedro Masahuat" },
-    description: { de: "Eine Stadt im Departement La Paz.", hu: "Város La Paz megyében.", ro: "Un oraș în departamentul La Paz.", en: "A city in the department of La Paz." },
+    description: { de: "Eine Stadt im Departement La Paz.", hu: "La Paz megyében található város, amely a tengerparti síkság és a hegyek találkozásánál fekszik, gazdag mezőgazdasági adottságokkal.", ro: "Un oraș în departamentul La Paz.", en: "A city in the department of La Paz." },
     
     
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaft und Fischerei.", "Nähe zur Pazifikküste.", "Traditionelle Feste."],
-      hu: ["Vidéki község.", "Mezőgazdaság és halászat.", "Közel a Csendes-óceán partjához.", "Hagyományos ünnepek."],
+      hu: ["Közel van a Csendes-óceánhoz", "Gyapot- és gabonatermesztés", "Híres a 'Historiantes' táncáról"],
       ro: ["Comunitate rurală.", "Agricultură și pescuit.", "Aproape de coasta Pacificului.", "Festivaluri tradiționale."],
       en: ["Rural municipality.", "Agriculture and fishing.", "Near the Pacific coast.", "Traditional festivals."]
     },
@@ -1109,7 +1115,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt ist bekannt für ihre farbenfrohen Feierlichkeiten während des Stadtfests im Oktober.", "San Rafael Oriente dient als Versorgungszentrum für die umliegenden Agrargemeinden.", "Trotz ihrer bescheidenen Größe hat die Stadt eine aktive lokale Wirtschaft, die auf traditionellem Handwerk basiert."],
       hu: ["A régió gazdasági alapja a hagyományos mezőgazdasági termelés.", "San Rafael Oriente közel található a jelentős San Miguel városhoz.", "A település lakossága erős közösségi szellemmel bír.", "A környező síkságok kedvező feltételeket biztosítanak a gabonatermesztéshez.", "A városka autentikus élményt kínál az utazóknak a keleti országrészben.", "A hagyományos gazdálkodási módszerek máig megőrződtek."],
-      ro: ["Mediu rural.", "Caracter agricol.", "Aproape de orașul San Miguel.", "Atmosferă liniștită.", "Un mic oraș în departamentul San Miguel.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un mic oraș în departamentul San Miguel.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the San Miguel Department.", "Elevation is roughly 120 meters.", "Experiences a hot, tropical savanna climate.", "Economy relies on cattle ranching and grain farming.", "Remittances play a major role in the local economy."]
     }
   },
@@ -1119,14 +1125,14 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.75, 13.48],
     name: { de: "Concepción de Oriente", hu: "Concepción de Oriente", ro: "Concepción de Oriente", en: "Concepción de Oriente" },
-    description: { de: "Eine Gemeinde im Departement La Unión, nahe der Grenze zu Honduras.", hu: "Község La Unión megyében, közel a hondurasi határhoz.", ro: "O municipalitate în departamentul La Unión, aproape de granița cu Honduras.", en: "A municipality in the department of La Unión, near the border with Honduras." },
+    description: { de: "Eine Gemeinde im Departement La Unión, nahe der Grenze zu Honduras.", hu: "El Salvador legkeletibb városa La Unión megyében, amely közvetlenül a hondurasi határon és a Goascorán-folyó partján fekszik.", ro: "O municipalitate în departamentul La Unión, aproape de granița cu Honduras.", en: "A municipality in the department of La Unión, near the border with Honduras." },
     
     
     
     
     facts: {
       de: ["Grenznahe Lage.", "Ländliche Gemeinde.", "Viehzucht und Landwirtschaft.", "Traditionelle Lebensweise."],
-      hu: ["Határ menti fekvés.", "Vidéki község.", "Állattenyésztés és mezőgazdaság.", "Hagyományos életmód."],
+      hu: ["Goascorán-folyó határolja", "Távoli, elszigetelt vidék", "Hagyományos állattartás"],
       ro: ["Situat la graniță.", "Comunitate rurală.", "Creșterea animalelor și agricultură.", "Mod de viață tradițional."],
       en: ["Located on the border.", "Rural municipality.", "Livestock and agriculture.", "Traditional way of life."]
     },
@@ -1150,12 +1156,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SO",
     coords: [-89.78, 13.78],
     name: { de: "Santo Domingo de Guzmán", hu: "Santo Domingo de Guzmán", ro: "Santo Domingo de Guzmán", en: "Santo Domingo de Guzmán" },
-    description: { de: "Eine der letzten Gemeinden, in denen noch Nahuat gesprochen wird.", hu: "Az egyik utolsó község, ahol még beszélik a nahuatl nyelvet.", ro: "Una dintre ultimele municipalități unde se mai vorbește nahuatl.", en: "One of the last municipalities where Nahuat is still spoken." },
+    description: { de: "Eine der letzten Gemeinden, in denen noch Nahuat gesprochen wird.", hu: "Sonsonate megyei falu, amely az egyik utolsó bástyája a nawat (pipil) nyelvnek és a hagyományos vörös agyagedények készítésének.", ro: "Una dintre ultimele municipalități unde se mai vorbește nahuatl.", en: "One of the last municipalities where Nahuat is still spoken." },
     
     
     facts: {
       de: ["Erhalt der Nahuat-Sprache.", "Starke indigene Kultur.", "Töpferei und traditionelles Handwerk.", "Ländliche Gemeinde."],
-      hu: ["A nahuatl nyelv megőrzése.", "Erős őslakos kultúra.", "Fazekasság és hagyományos kézművesség.", "Vidéki község."],
+      hu: ["Nawat nyelvű közösség", "Hagyományos kerámiaművészet", "Közelében található az El Escuco vízesés"],
       ro: ["Conservarea limbii nahuatl.", "Cultură indigenă puternică.", "Olărit și meșteșuguri tradiționale.", "Comunitate rurală."],
       en: ["Preservation of the Nahuat language.", "Strong indigenous culture.", "Pottery and traditional crafts.", "Rural municipality."]
     },
@@ -1237,12 +1243,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SM",
     coords: [-88.35, 13.5],
     name: { de: "Chinameca", hu: "Chinameca", ro: "Chinameca", en: "Chinameca" },
-    description: { de: "Eine Stadt im Departement San Miguel, am Fuße des Chinameca-Vulkans.", hu: "Város San Miguel megyében, a Chinameca-vulkán lábánál.", ro: "Un oraș în departamentul San Miguel, la poalele vulcanului Chinameca.", en: "A city in the San Miguel department, at the foot of the Chinameca Volcano." },
+    description: { de: "Eine Stadt im Departement San Miguel, am Fuße des Chinameca-Vulkans.", hu: "A Chinameca-vulkán lábánál fekvő város San Miguel megyében, amely jelentős kávétermelő vidék és élénk kereskedelmi központ.", ro: "Un oraș în departamentul San Miguel, la poalele vulcanului Chinameca.", en: "A city in the San Miguel department, at the foot of the Chinameca Volcano." },
     
     
     facts: {
       de: ["Lage am Chinameca-Vulkan.", "Anbau von Kaffee.", "Bekannt für das Fest zu Ehren von San Juan.", "Ländliche Atmosphäre."],
-      hu: ["A Chinameca-vulkánnál található.", "Kávétermesztés.", "Híres a San Juan tiszteletére rendezett ünnepről.", "Vidéki légkör."],
+      hu: ["Vulkáni hamuban gazdag talaj", "Híres a helyi édességeiről", "Fontos regionális oktatási központ"],
       ro: ["Situat la vulcanul Chinameca.", "Cultivarea cafelei.", "Cunoscut pentru festivalul în onoarea lui San Juan.", "Atmosferă rurală."],
       en: ["Located at the Chinameca Volcano.", "Coffee cultivation.", "Known for the festival in honor of San Juan.", "Rural atmosphere."]
     },
@@ -1323,11 +1329,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.98, 13.52],
     name: { de: "El Sauce", hu: "El Sauce", ro: "El Sauce", en: "El Sauce" },
-    description: { de: "Eine Gemeinde im Departement La Unión.", hu: "Község La Unión megyében.", ro: "O municipalitate în departamentul La Unión.", en: "A municipality in the department of La Unión." },
+    description: { de: "Eine Gemeinde im Departement La Unión.", hu: "La Unión megyei település, amely híres vallási turizmusáról és a Fekete Krisztus tiszteletére rendezett éves ünnepségeiről.", ro: "O municipalitate în departamentul La Unión.", en: "A municipality in the department of La Unión." },
     
     facts: {
       de: ["Ländliche Gemeinde.", "Viehzucht und Landwirtschaft.", "Nahe Santa Rosa de Lima.", "Traditionelle Lebensweise."],
-      hu: ["Vidéki község.", "Állattenyésztés és mezőgazdaság.", "Santa Rosa de Lima közelében.", "Hagyományos életmód."],
+      hu: ["Jelentős vallási zarándokhely", "Hegyes, erdős vidék övezi", "Januári nagyvásárok helyszíne"],
       ro: ["Comunitate rurală.", "Creșterea animalelor și agricultură.", "Aproape de Santa Rosa de Lima.", "Mod de viață tradițional."],
       en: ["Rural municipality.", "Livestock and agriculture.", "Near Santa Rosa de Lima.", "Traditional way of life."]
     },
@@ -1341,7 +1347,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt ist bekannt für ihre hervorragende Milchproduktion und handwerklichen Käsesorten.", "El Sauce feiert seine traditionellen Feste mit Begeisterung, wobei Reiterspiele und ländliche Märkte im Mittelpunkt stehen.", "Die herzliche Art der Bewohner macht El Sauce zu einem angenehmen Ort für alle, die das authentische El Salvador suchen."],
       hu: ["Hagyományos állattenyésztő és mezőgazdasági közösség.", "Híres a kiváló minőségű kézműves sajtjairól és tejtermékeiről.", "Fontos szerepet játszik a keleti régió állatkereskedelmében.", "Hagyományos lovas ünnepeiről és búcsúiról nevezetes."],
-      ro: ["Comunitate rurală.", "Creșterea animalelor și agricultură.", "Aproape de Santa Rosa de Lima.", "Mod de viață tradițional.", "O municipalitate în departamentul La Unión.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["O municipalitate în departamentul La Unión.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Unión Department.", "Situated near the international border with Honduras.", "Elevation is approximately 250 meters.", "Economy relies on cattle ranching and remittances.", "Terrain is predominantly rugged and mountainous.", "Historically impacted by cross-border territorial disputes."]
     }
   },
@@ -1351,13 +1357,13 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.88, 13.43],
     name: { de: "Pasaquina", hu: "Pasaquina", ro: "Pasaquina", en: "Pasaquina" },
-    description: { de: "Eine Grenzstadt im Departement La Unión, an der Grenze zu Honduras.", hu: "Határváros La Unión megyében, a hondurasi határon.", ro: "Un oraș de frontieră în departamentul La Unión, la granița cu Honduras.", en: "A border town in the department of La Unión, on the border with Honduras." },
+    description: { de: "Eine Grenzstadt im Departement La Unión, an der Grenze zu Honduras.", hu: "Határmenti város La Unión megyében, ahol az Amatillo nemzetközi határátkelőhely található Honduras felé.", ro: "Un oraș de frontieră în departamentul La Unión, la granița cu Honduras.", en: "A border town in the department of La Unión, on the border with Honduras." },
     
     
     
     facts: {
       de: ["Grenzübergang nach Honduras.", "Wichtiger Punkt für den Handel.", "Viehmärkte.", "Ländliches Zentrum."],
-      hu: ["Határátkelőhely Honduras felé.", "Fontos kereskedelmi pont.", "Állatvásárok.", "Vidéki központ."],
+      hu: ["Kiemelt logisztikai jelentőség", "Meleg, trópusi éghajlat", "Kereskedelmi tranzitpont"],
       ro: ["Punct de trecere a frontierei spre Honduras.", "Punct important pentru comerț.", "Târguri de vite.", "Centru rural."],
       en: ["Border crossing to Honduras.", "Important point for trade.", "Cattle markets.", "Rural center."]
     },
@@ -1541,7 +1547,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["In der Stadt befinden sich einige der größten und geschichtsträchtigsten Kaffeeverarbeitungsbetriebe (Beneficios) des Landes.", "Santiago de María ist bekannt für sein reiches kulturelles Leben und seine Unterstützung für lokale Künstler.", "Die Stadt dient als Tor zum beeindruckenden Kratersee Laguna de Alegría."],
       hu: ["Az ország egyik meghatározó kávétermesztő és feldolgozó központja.", "A Sierra Tecapa-Chinameca hegység festői hegycsúcsai között fekszik.", "Híres koloniális építészetéről és a kávé bárók történelmi örökségéről.", "Fontos kulturális kapu a látványos Alegría-lagúna felé."],
-      ro: ["Important centru pentru cultivarea cafelei.", "Cafea de altitudine.", "Situat în vulcanii Tecapa.", "Peisaje frumoase.", "Un oraș într-o regiune de cultivare a cafelei în departamentul Usulután.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș într-o regiune de cultivare a cafelei în departamentul Usulután.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Usulután Department.", "Historically the primary coffee hub of eastern El Salvador.", "Elevation is roughly 900 meters.", "Surrounded by highly productive volcanic coffee plantations.", "Features historic architecture from the coffee boom era.", "Experiences a cool, pleasant mountain climate."]
     }
   },
@@ -1689,7 +1695,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       de: ["Die Ruinen der Kirche Santa María Magdalena in Tacuba zeugen von der Bedeutung der Stadt während der frühen spanischen Kolonisation.", "Tacuba beherbergt eine der letzten indigenen Gemeinschaften El Salvadors, die noch Teile ihrer ursprünglichen Bräuche bewahren.", "Die Wanderungen von Tacuba in den Nationalpark El Imposible gehören zu den spektakulärsten und herausforderndsten Trekking-Touren des Landes."],
       hu: ["Fő kapu az El Imposible Nemzeti Park érintetlen esőerdeihez.", "Itt találhatók a 16. századi Santa María Magdalena templom monumentális romjai.", "Az ország egyik utolsó bástyája az őslakos szokások megőrzésében.", "Híres a vadvízi evezésről és a hegyi túrázási lehetőségekről."],
       ro: ["Tacuba este poarta de acces către Parcul Național El Imposible.", "Orașul păstrează moștenirea culturală și istorică a popoarelor indigene din Ahuachapán.", "Rezervația El Imposible este una dintre cele mai importante zone de conservare din țară.", "Tacuba oferă o experiență autentică a vieții montane salvadoriene.", "Natura sălbatică a regiunii este un punct de atracție major pentru turiști.", "Moștenirea culturală a orașului este profund legată de tradițiile antice."],
-      en: ["Located in the Ahuachapán Department.", "Elevation is roughly 700 meters.", "Features the massive ruins of a 17th-century colonial church.", "A primary gateway to El Imposible National Park.", "Situated near the international border with Guatemala.", "Historically impacted by the 1932 indigenous uprising."]
+      en: ["Located in the Ahuachapán Department.", "Elevation is roughly 700 meters.", "Features the massive ruins of a 17th-century colonial church.", "Situated near the international border with Guatemala.", "Historically impacted by the 1932 indigenous uprising."]
     }
   },
   {
@@ -1698,11 +1704,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SS",
     coords: [-89.2, 13.96],
     name: { de: "El Paisnal", hu: "El Paisnal", ro: "El Paisnal", en: "El Paisnal" },
-    description: { de: "Geburtsort von Pater Rutilio Grande, einem Jesuitenmärtyrer.", hu: "Rutilio Grande atya, egy jezsuita mártír szülőhelye.", ro: "Locul de naștere al părintelui Rutilio Grande, un martir iezuit.", en: "Birthplace of Father Rutilio Grande, a Jesuit martyr." },
+    description: { de: "Geburtsort von Pater Rutilio Grande, einem Jesuitenmärtyrer.", hu: "San Salvador megye északi részén található város, amely történelmi jelentőségét a polgárháború előtti társadalmi mozgalmaknak köszönheti.", ro: "Locul de naștere al părintelui Rutilio Grande, un martir iezuit.", en: "Birthplace of Father Rutilio Grande, a Jesuit martyr." },
     
     facts: {
       de: ["Geburtsort von Rutilio Grande.", "Wallfahrtsort.", "Ländliche Gemeinde.", "Zuckerrohranbau."],
-      hu: ["Rutilio Grande szülőhelye.", "Zarándokhely.", "Vidéki község.", "Cukornádtermesztés."],
+      hu: ["Rutilio Grande mártír szülőhelye", "Cukornádültetvények veszik körül", "Mezőgazdasági szövetkezetek"],
       ro: ["Locul de naștere al lui Rutilio Grande.", "Loc de pelerinaj.", "Comunitate rurală.", "Cultivarea trestiei de zahăr."],
       en: ["Birthplace of Rutilio Grande.", "Pilgrimage site.", "Rural municipality.", "Sugarcane cultivation."]
     },
@@ -1716,7 +1722,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Das Grab von Pater Rutilio Grande in der örtlichen Kirche ist ein zentraler Anlaufpunkt für Besucher der Stadt.", "Die Wirtschaft von El Paisnal basiert hauptsächlich auf dem Anbau von Zuckerrohr und landwirtschaftlichen Dienstleistungen.", "Die Stadt bewahrt eine traditionelle salvadorianische Dorfkultur mit einem starken Fokus auf Gemeinschaft und Glaube."],
       hu: ["Rutilio Grande jezsuita mártír szülőhelye és nyughelye.", "Fontos spirituális zarándokhely San Salvador északi részén.", "Hagyományos mezőgazdasági közösség, jelentős cukornádtermeléssel.", "A társadalmi igazságosság és az emberi jogok történelmi emlékhelye."],
-      ro: ["Locul de naștere al lui Rutilio Grande.", "Loc de pelerinaj.", "Comunitate rurală.", "Cultivarea trestiei de zahăr.", "Locul de naștere al părintelui Rutilio Grande, un martir iezuit.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Locul de naștere al părintelui Rutilio Grande, un martir iezuit.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the northern San Salvador Department.", "Birthplace of the assassinated priest Father Rutilio Grande.", "Elevation is approximately 300 meters.", "Situated near the vital Lempa River.", "Economy is largely driven by sugarcane and agriculture.", "A highly significant site in modern Salvadoran history."]
     }
   },
@@ -1744,7 +1750,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["In der Gemeinde San Luis Talpa befinden sich bedeutende Logistikparks, die den internationalen Warenverkehr des Landes unterstützen.", "Die Stadt ist bekannt für ihre Gastronomie, die frische Meeresfrüchte aus dem nahen Pazifik anbietet.", "San Luis Talpa dient als wichtiger Wohnort für Tausende von Angestellten, die am Flughafen und in der Luftfahrtindustrie arbeiten."],
       hu: ["El Salvador nemzetközi repülőterének közvetlen szomszédságában fekszik.", "Fontos logisztikai és szállítási csomópont a tengerparti régióban.", "Gazdag gasztronómiai kínálat friss tengeri ételekből.", "Jelentős lakóhely a légiközlekedési iparágban dolgozók számára."],
-      ro: ["Aproape de aeroportul internațional.", "Agricultură și pescuit.", "Zonă de coastă plată.", "Urbanizare în creștere.", "O municipalitate în departamentul La Paz, aproape de aeroportul internațional.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["O municipalitate în departamentul La Paz, aproape de aeroportul internațional.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Paz Department.", "Elevation is close to sea level.", "Adjacent to El Salvador International Airport.", "Economy is a mix of logistics, services, and agriculture.", "Experiences a hot, tropical savanna climate.", "Rapidly growing industrial and commercial center."]
     }
   },
@@ -1754,11 +1760,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-MO",
     coords: [-88.13, 13.73],
     name: { de: "Chilanga", hu: "Chilanga", ro: "Chilanga", en: "Chilanga" },
-    description: { de: "Eine Stadt im Departement Morazán mit Lenca-Erbe.", hu: "Város Morazán megyében, lenca örökséggel.", ro: "Un oraș în departamentul Morazán, cu moștenire lenca.", en: "A city in the Morazán department with Lenca heritage." },
+    description: { de: "Eine Stadt im Departement Morazán mit Lenca-Erbe.", hu: "Morazán megyei település, ahol a lencka indián örökség és a hagyományos kézművesség, például a kötélverés máig él.", ro: "Un oraș în departamentul Morazán, cu moștenire lenca.", en: "A city in the Morazán department with Lenca heritage." },
     
     facts: {
       de: ["Lenca-Ursprung.", "Ländliche Gemeinde.", "Landwirtschaft.", "Nahe San Francisco Gotera."],
-      hu: ["Lenca eredetű.", "Vidéki község.", "Mezőgazdaság.", "San Francisco Gotera közelében."],
+      hu: ["Lencka kulturális gyökerek", "Híres a természetes rostokból font tárgyakról", "Hűvös dombvidéki környezet"],
       ro: ["Origine lenca.", "Comunitate rurală.", "Agricultură.", "Aproape de San Francisco Gotera."],
       en: ["Lenca origin.", "Rural municipality.", "Agriculture.", "Near San Francisco Gotera."]
     },
@@ -1772,8 +1778,8 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Der Name Chilanga bedeutet in der indigenen Lenca-Sprache 'Ort der kleinen Jaguare'.", "Die Stadt ist bekannt für ihre farbenfrohen religiösen Feste, die eine Mischung aus indigenen und kolonialen Bräuchen sind.", "Chilanga dient als wichtiges Versorgungszentrum für die umliegenden kleinen Weiler in den Bergen von Morazán."],
       hu: ["Mélyen gyökerező lenca indián eredetű település.", "Nevének jelentése lenca nyelven: \"a kis jaguárok helye\".", "Fontos mezőgazdasági központ Morazán megye szívében.", "Hagyományos vallási ünnepei az ősi és a gyarmati rítusok keverékei."],
-      ro: ["Origine lenca.", "Comunitate rurală.", "Agricultură.", "Aproape de San Francisco Gotera.", "Un oraș în departamentul Morazán, cu moștenire lenca.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
-      en: ["Lenca origin.", "Rural municipality.", "Agriculture.", "Near San Francisco Gotera.", "A city in the Morazán department with Lenca heritage.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
+      ro: ["Un oraș în departamentul Morazán, cu moștenire lenca.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      en: ["A city in the Morazán department with Lenca heritage.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
     }
   },
   {
@@ -1800,7 +1806,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt ist landesweit bekannt für ihre Verkaufsstände an der Autobahn, die traditionelle salvadorianische Snacks und Früchte anbieten.", "San Rafael Cedros dient als Verbindungspunkt für Straßen, die in den Norden in Richtung Chalatenango führen.", "Das Stadtfest im Oktober ist ein wichtiger Termin im Kalender der Region und lockt zahlreiche Besucher an."],
       hu: ["Fontos stratégiai megálló és kereskedelmi csomópont a Panamericana mentén.", "Híres az autópálya menti tradicionális ételárusairól és gyümölcspiacairól.", "Összekötő kapu a főváros és Chalatenango megye között.", "Dinamikusan fejlődő kereskedelmi és mezőgazdasági kisváros."],
-      ro: ["Situat pe autostrada Panamericană.", "Popas comercial pentru călători.", "Produse agricole.", "Centru rural.", "Un oraș în departamentul Cuscatlán, situat pe autostrada Panamericană.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș în departamentul Cuscatlán, situat pe autostrada Panamericană.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Cuscatlán Department.", "Elevation is approximately 700 meters.", "Positioned on the vital Pan-American Highway.", "Functions as a major transit and commercial hub.", "Economy blends highway-based commerce with agriculture.", "Surrounded by fertile valleys producing grains and sugarcane."]
     }
   },
@@ -1810,11 +1816,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SV",
     coords: [-88.83, 13.73],
     name: { de: "San Sebastián", hu: "San Sebastián", ro: "San Sebastián", en: "San Sebastián" },
-    description: { de: "Eine Stadt, die für ihre Textilherstellung, insbesondere Hängematten, bekannt ist.", hu: "Város, amely textilgyártásáról, különösen a függőágyakról ismert.", ro: "Un oraș cunoscut pentru producția sa de textile, în special hamace.", en: "A city known for its textile production, especially hammocks." },
+    description: { de: "Eine Stadt, die für ihre Textilherstellung, insbesondere Hängematten, bekannt ist.", hu: "San Vicente megyei város, amely világhírű a hagyományos fa szövőszékeken készített textiltermékeiről, különösen az ágytakarókról.", ro: "Un oraș cunoscut pentru producția sa de textile, în special hamace.", en: "A city known for its textile production, especially hammocks." },
     
     facts: {
       de: ["Berühmt für Hängematten und Textilien.", "Traditionelle Webstühle.", "Handwerkliches Zentrum.", "Ländliche Gemeinde."],
-      hu: ["Híres a függőágyakról és textíliákról.", "Hagyományos szövőszékek.", "Kézműves központ.", "Vidéki község."],
+      hu: ["A kézi szövés központja", "Híres színes függőágyairól", "Gyarmati eredetű templom"],
       ro: ["Renumit pentru hamace și textile.", "Războaie de țesut tradiționale.", "Centru artizanal.", "Comunitate rurală."],
       en: ["Famous for hammocks and textiles.", "Traditional looms.", "Artisanal center.", "Rural municipality."]
     },
@@ -1828,7 +1834,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Hängematten aus San Sebastián sind für ihre Qualität und ihre lebhaften Farbkombinationen im ganzen Land und Ausland bekannt.", "Handwerker nutzen Techniken, die eine Mischung aus kolonialem Erbe und modernem Design darstellen.", "Die Stadt feiert jährlich das 'Textil-Festival', um ihre Kunst und ihren Beitrag zur salvadorianischen Kultur zu würdigen."],
       hu: ["El Salvador leghíresebb tradicionális textil- és függőágykészítő központja.", "Ma is aktívan használják a nemzedékek óta öröklődő fa szövőszékeket.", "Itt rendezik meg a nagyszabású évenkénti Textil-fesztivált.", "Híres a különleges és tartós szövési technikáiról."],
-      ro: ["Renumit pentru hamace și textile.", "Războaie de țesut tradiționale.", "Centru artizanal.", "Comunitate rurală.", "Un oraș cunoscut pentru producția sa de textile, în special hamace.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș cunoscut pentru producția sa de textile, în special hamace.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the San Vicente Department.", "Elevation is approximately 530 meters.", "Nationally famous for its traditional textile production.", "Primary producer of traditional Salvadoran hammocks.", "Textiles are woven using historic wooden handlooms.", "Economy is heavily reliant on this specialized artisanal craft."]
     }
   },
@@ -1855,7 +1861,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Jicalapa ist eines der Zentren für die Gewinnung des wertvollen Balsams, eines traditionellen Exportschlagers El Salvadors.", "Die Wallfahrt zur Jungfrau von Jicalapa im Dezember gehört zu den wichtigsten religiösen Ereignissen an der Zentralküste.", "Die Abgeschiedenheit der Stadt hat dazu beigetragen, dass die lokale Architektur und die traditionellen Bräuche gut erhalten geblieben sind."],
       hu: ["Látványos fekvésű település a Balzsam-part szikláin.", "Fontos vallási zarándokhely a Jicalapai Szűz kegyhelyével.", "A tradicionális perubalzsam-kinyerés egyik helyi központja.", "Csendes, autentikus partmenti falu lenyűgöző óceáni panorámával."],
-      ro: ["Situat pe Coasta Balsamului.", "Producția de balsam.", "Plaje în apropiere.", "Atmosferă rurală, liniștită.", "O municipalitate de coastă în departamentul La Libertad.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["O municipalitate de coastă în departamentul La Libertad.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Libertad Department.", "Elevation is approximately 800 meters.", "Situated on the steep coastal ridges of the Balsam range.", "Economy relies on subsistence farming and balsam extraction.", "Famous locally for the sanctuary of the Black Christ.", "Geographically isolated due to rugged, mountainous terrain."]
     }
   },
@@ -1865,11 +1871,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CH",
     coords: [-89.23, 14.21],
     name: { de: "Tejutla", hu: "Tejutla", ro: "Tejutla", en: "Tejutla" },
-    description: { de: "Eine Stadt im Departement Chalatenango.", hu: "Város Chalatenango megyében.", ro: "Un oraș în departamentul Chalatenango.", en: "A city in the Chalatenango department." },
+    description: { de: "Eine Stadt im Departement Chalatenango.", hu: "Chalatenango megye egyik legrégebbi városa, amely megőrizte gyarmati báját és fontos mezőgazdasági szerepét a régióban.", ro: "Un oraș în departamentul Chalatenango.", en: "A city in the Chalatenango department." },
     
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaft und Viehzucht.", "Bergige Umgebung.", "Traditionelle Feste."],
-      hu: ["Vidéki község.", "Mezőgazdaság és állattenyésztés.", "Hegyvidéki környezet.", "Hagyományos ünnepek."],
+      hu: ["Történelmi városközpont", "Fenyőerdőkkel övezett vidék", "Gabonatermesztés jellemzi"],
       ro: ["Comunitate rurală.", "Agricultură și creșterea animalelor.", "Mediu montan.", "Festivaluri tradiționale."],
       en: ["Rural municipality.", "Agriculture and livestock.", "Mountainous surroundings.", "Traditional festivals."]
     },
@@ -1883,7 +1889,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Tejutla ist berühmt für seine 'Semana Santa'-Feierlichkeiten, bei denen wunderschöne Sandteppiche die Straßen zieren.", "Die Stadt gilt als eine der sichersten und friedlichsten Gemeinden in der gesamten nördlichen Region.", "Tejutla ist stolz auf seine lokale Küche, insbesondere auf traditionelle Fleischgerichte und Milchprodukte aus eigener Herstellung."],
       hu: ["Gazdag gyarmati múltú város Chalatenango megye szívében.", "Híres a húsvéti díszes homokszőnyegeiről és vallási körmeneteiről.", "Fontos állattenyésztési és kézműves tejtermék-előállító központ.", "Az ország egyik legnyugodtabb és legbiztonságosabb települése."],
-      ro: ["Comunitate rurală.", "Agricultură și creșterea animalelor.", "Mediu montan.", "Festivaluri tradiționale.", "Un oraș în departamentul Chalatenango.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș în departamentul Chalatenango.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Chalatenango Department.", "Elevation is approximately 350 meters.", "Roots trace back to pre-Columbian indigenous settlements.", "Historically an important center for indigo production.", "Economy is predominantly based on cattle and agriculture.", "Features remnants of colonial-era architectural influence."]
     }
   },
@@ -1911,7 +1917,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Der Cinquera-Waldpark wird von ehemaligen Kämpfern geführt, die heute als Naturschutzhüter arbeiten.", "Die Stadt beherbergt Gedenkstätten, die die Geschichten der Bewohner während der Jahre des Exils und der Rückkehr erzählen.", "Cinquera ist bekannt für seine Bemühungen um nachhaltige Landwirtschaft und die Bewahrung der lokalen Flora und Fauna."],
       hu: ["A polgárháború utáni újjáépítés és megbékélés nemzeti szimbóluma.", "Példaértékű közösségi ökoturisztikai projekt és erdőrezervátum.", "Emlékhelyekkel és történelmi tanösvényekkel várja a látogatókat.", "Az ökológiai gazdálkodás és a természetvédelem helyi központja."],
-      ro: ["Simbol al reconstrucției postbelice.", "Ecoturism și situri memoriale.", "Rezervația forestieră Cinquera.", "Organizație comunitară puternică.", "Un sat distrus și reconstruit în timpul războiului civil, acum un centru de ecoturism.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un sat distrus și reconstruit în timpul războiului civil, acum un centru de ecoturism.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Cabañas Department.", "Elevation is approximately 400 meters.", "Completely destroyed and abandoned during the civil war.", "Home to the community-managed Cinquera Ecological Park.", "Economy heavily incorporates ecotourism and history tours.", "A global model for post-conflict environmental restoration."]
     }
   },
@@ -1939,7 +1945,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Ruinen von Caluco gehören zu den wenigen Beispielen kolonialer Architektur aus der Mitte des 16. Jahrhunderts in El Salvador.", "Die Stadt ist berühmt für ihre 'Sopa de Gallina India', ein Nationalgericht, das hier besonders authentisch zubereitet wird.", "Die nahegelegenen Wasserbecken und Thermalquellen machen Caluco zu einem beliebten Ziel für Familienausflüge."],
       hu: ["Történelmi pipil indián központ, a gyarmati kakaókereskedelem bölcsője.", "Itt találhatók a 16. századi San Esteban templom monumentális romjai.", "Híres a gyógyhatású termálforrásairól és szabadidőparkjairól.", "Gasztronómiai specialitása a tradicionális \"Sopa de Gallina India\"."],
-      ro: ["Centru istoric Pipil.", "Biserică din secolul al XVI-lea.", "Cunoscut pentru supe și mâncăruri tradiționale.", "Atmosferă rurală, liniștită.", "Un oraș istoric în departamentul Sonsonate, cu un trecut indigen.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș istoric în departamentul Sonsonate, cu un trecut indigen.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Sonsonate Department.", "Elevation is roughly 350 meters.", "Historically a major center for indigenous cacao wealth.", "Features the massive ruins of a 16th-century colonial church.", "Famous for local natural hot springs and water parks.", "Name translates to 'city of crows' in Nahuat."]
     }
   },
@@ -1967,7 +1973,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["In der Stadt gibt es Denkmäler und Gedenkstätten, die an Anastasio Aquino, den 'König der Nonualcos', erinnern.", "Santiago Nonualco ist berühmt für seine Textilien und Stickereien, die oft symbolische Motive der Region tragen.", "Die fruchtbaren Ländereien um die Stadt sind bekannt für den Anbau von hochwertigem Mais und anderen Grundnahrungsmitteln."],
       hu: ["A nonualco-i őslakos kultúra és az Anastasio Aquino-felkelés központja.", "Híres a tradicionális szövésről, hímzésről és népviseletéről.", "Fontos történelmi emlékhelyekkel rendelkezik az őslakos ellenállásról.", "Gazdag mezőgazdasági termelés, különösen a kukoricatermesztésben."],
-      ro: ["Parte a regiunii Nonualco.", "Producție agricolă.", "Istorie indigenă bogată.", "Festivaluri tradiționale.", "Un oraș în regiunea Nonualcos.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș în regiunea Nonualcos.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Paz Department.", "Part of the historic indigenous Nonualco region.", "Elevation varies across the rolling foothills.", "Culturally tied to the 1833 Anastasio Aquino rebellion.", "Economy focuses heavily on fruit cultivation and agriculture.", "Maintains unique syncretic religious and cultural traditions."]
     }
   },
@@ -1977,11 +1983,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.45, 13.75],
     name: { de: "Sacacoyo", hu: "Sacacoyo", ro: "Sacacoyo", en: "Sacacoyo" },
-    description: { de: "Eine kleine Stadt im Departement La Libertad.", hu: "Kisváros La Libertad megyében.", ro: "Un mic oraș în departamentul La Libertad.", en: "A small city in the La Libertad department." },
+    description: { de: "Eine kleine Stadt im Departement La Libertad.", hu: "La Libertad megyében fekvő település, amely a vulkáni láncolat lábánál helyezkedik el, kávé- és cukornádültetvények között.", ro: "Un mic oraș în departamentul La Libertad.", en: "A small city in the La Libertad department." },
     
     facts: {
       de: ["Ländliche Gemeinde.", "Anbau von Getreide und Kaffee.", "Ruhige Atmosphäre.", "Nahe der Stadt Colón."],
-      hu: ["Vidéki község.", "Gabona- és kávétermesztés.", "Nyugodt légkör.", "Colón város közelében."],
+      hu: ["Bujon növényzet", "Kávé- és cukornádtermelés", "Hagyományos vallási fesztiválok"],
       ro: ["Comunitate rurală.", "Cultivarea cerealelor și a cafelei.", "Atmosferă liniștită.", "Aproape de orașul Colón."],
       en: ["Rural municipality.", "Cultivation of grains and coffee.", "Quiet atmosphere.", "Near the city of Colón."]
     },
@@ -1995,8 +2001,8 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Der Name Sacacoyo bedeutet in der indigenen Sprache 'Weg der Gräser'.", "Die Stadt feiert jährlich lebhafte Feste zu Ehren ihrer Schutzpatrone mit traditioneller Musik und Tanz.", "In den letzten Jahren hat Sacacoyo an Bedeutung als Naherholungsziel für Stadtbewohner gewonnen, die Ruhe in der Natur suchen."],
       hu: ["Nyugodt mezőgazdasági közösség a hegyek és a tengerpart között.", "Nevének jelentése nahuatl nyelven: \"a füvek útja\".", "Híres a minőségi kávétermeléséről és gabonaföldjeiről.", "Megőrizte eredeti falusias jellegét és vendégszerető légkörét."],
-      ro: ["Comunitate rurală.", "Cultivarea cerealelor și a cafelei.", "Atmosferă liniștită.", "Aproape de orașul Colón.", "Un mic oraș în departamentul La Libertad.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
-      en: ["Rural municipality.", "Cultivation of grains and coffee.", "Quiet atmosphere.", "Near the city of Colón.", "A small city in the La Libertad department.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
+      ro: ["Un mic oraș în departamentul La Libertad.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      en: ["A small city in the La Libertad department.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
     }
   },
   {
@@ -2005,11 +2011,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.46, 13.56],
     name: { de: "Teotepeque", hu: "Teotepeque", ro: "Teotepeque", en: "Teotepeque" },
-    description: { de: "Eine Gemeinde im Departement La Libertad, an der Balsam-Küste gelegen.", hu: "Község La Libertad megyében, a Balzsam-parton.", ro: "O municipalitate în departamentul La Libertad, situată pe Coasta Balsamului.", en: "A municipality in the department of La Libertad, located on the Balsam Coast." },
+    description: { de: "Eine Gemeinde im Departement La Libertad, an der Balsam-Küste gelegen.", hu: "A Csendes-óceán partja és a parti hegység között fekvő település La Libertad megyében, gyönyörű természeti környezetben.", ro: "O municipalitate în departamentul La Libertad, situată pe Coasta Balsamului.", en: "A municipality in the department of La Libertad, located on the Balsam Coast." },
     
     facts: {
       de: ["Teil der Balsam-Küste.", "Ländliche Gemeinde.", "Anbau von Balsam und Kaffee.", "Nähe zum Pazifik."],
-      hu: ["A Balzsam-part része.", "Vidéki község.", "Balzsam- és kávétermesztés.", "A Csendes-óceán közelében."],
+      hu: ["Közel a Balsamo-hegységhez", "Mezőgazdasági közösség", "Tengerparti panoráma"],
       ro: ["Parte a Coastei Balsamului.", "Comunitate rurală.", "Cultivarea balsamului și a cafelei.", "Aproape de Pacific."],
       en: ["Part of the Balsam Coast.", "Rural municipality.", "Cultivation of balsam and coffee.", "Near the Pacific Ocean."]
     },
@@ -2023,8 +2029,8 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Der Name Teotepeque bedeutet in Nahuatl 'Hügel Gottes'.", "Die Stadt ist berühmt für ihre spektakulären Sonnenuntergänge über dem Pazifischen Ozean, die man von den umliegenden Hügeln aus bewundern kann.", "In Teotepeque werden noch heute traditionelle Methoden zur Gewinnung von Balsam angewendet, die seit Jahrhunderten fast unverändert geblieben sind."],
       hu: ["A festői Balzsam-part (Costa del Bálsamo) egyik ékköve.", "Nevének jelentése nahuatl nyelven: \"Isten dombja\".", "A tradicionális balzsamkitermelés egyik legfontosabb helyszíne.", "Csodálatos panoráma a Csendes-óceánra a környező dombokról."],
-      ro: ["Parte a Coastei Balsamului.", "Comunitate rurală.", "Cultivarea balsamului și a cafelei.", "Aproape de Pacific.", "O municipalitate în departamentul La Libertad, situată pe Coasta Balsamului.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
-      en: ["Part of the Balsam Coast.", "Rural municipality.", "Cultivation of balsam and coffee.", "Near the Pacific Ocean.", "A municipality in the department of La Libertad, located on the Balsam Coast.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
+      ro: ["O municipalitate în departamentul La Libertad, situată pe Coasta Balsamului.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      en: ["A municipality in the department of La Libertad, located on the Balsam Coast.", "Located in El Salvador, the smallest country in Central America, on the Pacific coast.", "Tropical climate with distinct wet and dry seasons shapes the region.", "San Salvador, the capital, is the country's political, economic and cultural hub."]
     }
   },
   {
@@ -2033,11 +2039,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SA",
     coords: [-89.55, 14.28],
     name: { de: "San Antonio Pajonal", hu: "San Antonio Pajonal", ro: "San Antonio Pajonal", en: "San Antonio Pajonal" },
-    description: { de: "Eine Grenzstadt im Departement Santa Ana, an der Grenze zu Guatemala.", hu: "Határváros Santa Ana megyében, a guatemalai határon.", ro: "Un oraș de frontieră în departamentul Santa Ana, la granița cu Guatemala.", en: "A border town in the Santa Ana department, on the border with Guatemala." },
+    description: { de: "Eine Grenzstadt im Departement Santa Ana, an der Grenze zu Guatemala.", hu: "Santa Ana megye északnyugati részén, a guatemalai határ mentén fekvő falu, amely csendes, vidéki hangulatáról ismert.", ro: "Un oraș de frontieră în departamentul Santa Ana, la granița cu Guatemala.", en: "A border town in the Santa Ana department, on the border with Guatemala." },
     
     facts: {
       de: ["Grenzübergang 'La Hachadura'.", "Wichtiger Handelspunkt.", "Landwirtschaftliche Produkte.", "Ländliche Gemeinde."],
-      hu: ["'La Hachadura' határátkelő.", "Fontos kereskedelmi pont.", "Mezőgazdasági termékek.", "Vidéki község."],
+      hu: ["Határmenti elhelyezkedés", "Állattenyésztés és gabona", "Természetközeli életmód"],
       ro: ["Punct de trecere a frontierei \"La Hachadura\".", "Punct comercial important.", "Produse agricole.", "Comunitate rurală."],
       en: ["'La Hachadura' border crossing.", "Important commercial point.", "Agricultural products.", "Rural municipality."]
     },
@@ -2051,7 +2057,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt liegt in einem Gebiet mit interessanten Hügelformationen, die der Landschaft einen besonderen Reiz verleihen.", "San Antonio Pajonal feiert seine religiösen Feste oft gemeinsam mit Besuchern von der anderen Seite der Grenze.", "Die Wirtschaft basiert stark auf dem Anbau von Getreide wie Mais und Bohnen für den regionalen Markt."],
       hu: ["Strategiai határátkelőhely Guatemala felé (La Hachadura közelében).", "Fontos helyi kereskedelmi és mezőgazdasági csomópont.", "Híres a gabonatermesztéséről, különösen a kukoricáról és babról.", "Különleges domborzati viszonyokkal rendelkező, békés határváros."],
-      ro: ["Punct de trecere a frontierei \"La Hachadura\".", "Punct comercial important.", "Produse agricole.", "Comunitate rurală.", "Un oraș de frontieră în departamentul Santa Ana, la granița cu Guatemala.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș de frontieră în departamentul Santa Ana, la granița cu Guatemala.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Santa Ana Department.", "Shares an international border with Guatemala.", "Elevation is approximately 500 meters.", "Economy relies heavily on agriculture and livestock.", "Engages in localized cross-border commerce.", "Characterized by a quiet, remote rural lifestyle."]
     }
   },
@@ -2061,11 +2067,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-89.03, 13.9],
     name: { de: "El Coyolito", hu: "El Coyolito", ro: "El Coyolito", en: "El Coyolito" },
-    description: { de: "Ein Kanton in der Gemeinde Suchitoto.", hu: "Kanton Suchitoto községben.", ro: "Un canton în municipalitatea Suchitoto.", en: "A canton in the municipality of Suchitoto." },
+    description: { de: "Ein Kanton in der Gemeinde Suchitoto.", hu: "Chalatenango megyei közösség a Cerrón Grande-víztározó közelében, amely fontos közlekedési és halászati pont.", ro: "Un canton în municipalitatea Suchitoto.", en: "A canton in the municipality of Suchitoto." },
     
     facts: {
       de: ["Ländlicher Kanton.", "Blick auf den Lago Suchitlán.", "Landwirtschaft.", "Teil der Gemeinde Suchitoto."],
-      hu: ["Vidéki kanton.", "Kilátás a Suchitlán-tóra.", "Mezőgazdaság.", "Suchitoto község része."],
+      hu: ["A víztározó közelsége", "Helyi halászat", "Fontos országúti pihenőhely"],
       ro: ["Canton rural.", "Vedere la Lacul Suchitlán.", "Agricultură.", "Parte a municipalității Suchitoto."],
       en: ["Rural canton.", "Views of Lake Suchitlán.", "Agriculture.", "Part of the Suchitoto municipality."]
     },
@@ -2079,7 +2085,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Bewohner von El Coyolito betreiben handwerklichen Fischfang im Suchitlán-See als wichtige Nahrungs- und Einkommensquelle.", "In der Umgebung gibt es Wanderwege, die durch Sekundärwälder führen und gute Möglichkeiten zur Vogelbeobachtung bieten.", "Der Ort ist bekannt für seine gemeinschaftlichen Anstrengungen zur Förderung des Ökotourismus in der Region Cuscatlán."],
       hu: ["Vidéki kanton Suchitoto községben, közvetlenül a Suchitlán-tó partján.", "Híres a tradicionális halászatról és a tóparti életmódról.", "Kiváló célpont a madármegfigyelők és az ökoturisták számára.", "Lenyűgöző kilátást nyújt a víztározóra és a környező hegyekre."],
-      ro: ["Canton rural.", "Vedere la Lacul Suchitlán.", "Agricultură.", "Parte a municipalității Suchitoto.", "Un canton în municipalitatea Suchitoto.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un canton în municipalitatea Suchitoto.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located within the Chalatenango Department.", "Functions as a major transit gateway to northern El Salvador.", "Situated near the massive Cerrón Grande hydroelectric dam.", "Economy is heavily driven by transport and transit commerce.", "Elevation is roughly 300 meters.", "Serves as a primary intersection on the Troncal del Norte highway."]
     }
   },
@@ -2089,11 +2095,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LI",
     coords: [-89.33, 14.03],
     name: { de: "San Pablo Tacachico", hu: "San Pablo Tacachico", ro: "San Pablo Tacachico", en: "San Pablo Tacachico" },
-    description: { de: "Eine Gemeinde im Departement La Libertad.", hu: "Község La Libertad megyében.", ro: "O municipalitate în departamentul La Libertad.", en: "A municipality in the department of La Libertad." },
+    description: { de: "Eine Gemeinde im Departement La Libertad.", hu: "La Libertad megyei város, amely az ország egyik legfontosabb állattenyésztő és tejtermelő vidékén található.", ro: "O municipalitate în departamentul La Libertad.", en: "A municipality in the department of La Libertad." },
     
     facts: {
       de: ["Ländliche Gemeinde.", "Anbau von Zuckerrohr und Getreide.", "Viehzucht.", "Nahe dem Fluss Lempa."],
-      hu: ["Vidéki község.", "Cukornád- és gabonatermesztés.", "Állattenyésztés.", "A Lempa folyó közelében."],
+      hu: ["Kiterjedt legelők", "Tejipar és sajtgyártás", "Síksági mezőgazdaság"],
       ro: ["Comunitate rurală.", "Cultivarea trestiei de zahăr și a cerealelor.", "Creșterea animalelor.", "Aproape de râul Lempa."],
       en: ["Rural municipality.", "Cultivation of sugarcane and grains.", "Livestock farming.", "Near the Lempa River."]
     },
@@ -2107,7 +2113,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Gemeinde Tacachico beherbergt mehrere große Haciendas, die für die Fleisch- und Milchproduktion des Landes wichtig sind.", "Der nahegelegene Fluss Lempa bietet Möglichkeiten zum Angeln und ist ein wichtiger Lebensraum für Wasservögel.", "Das jährliche Stadtfest zu Ehren von San Pablo ist berühmt für seine Reiterspiele und traditionellen Jahrmärkte."],
       hu: ["La Libertad megye északi részének jelentős mezőgazdasági központja.", "Az ország egyik meghatározó cukornád- és állattenyésztő vidéke.", "Híres a nagyszabású lovas rendezvényeiről és gazdanapjairól.", "A Lempa-folyó közelsége gazdag vízi élővilágot biztosít."],
-      ro: ["Comunitate rurală.", "Cultivarea trestiei de zahăr și a cerealelor.", "Creșterea animalelor.", "Aproape de râul Lempa.", "O municipalitate în departamentul La Libertad.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["O municipalitate în departamentul La Libertad.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Libertad Department.", "Elevation is approximately 300 meters.", "A major national center for cattle ranching and dairy.", "Bordered by the vital Lempa River system.", "Economy is heavily reliant on commercial agriculture.", "Experiences a hot, tropical savanna climate."]
     }
   },
@@ -2117,11 +2123,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-CU",
     coords: [-88.9, 13.85],
     name: { de: "Tenancingo", hu: "Tenancingo", ro: "Tenancingo", en: "Tenancingo" },
-    description: { de: "Eine Stadt, die während des Bürgerkriegs verlassen und später wiederbesiedelt wurde.", hu: "Város, amelyet a polgárháború alatt elhagytak, majd később újra benépesítettek.", ro: "Un oraș abandonat în timpul războiului civil și repopulat ulterior.", en: "A town abandoned during the civil war and later repopulated." },
+    description: { de: "Eine Stadt, die während des Bürgerkriegs verlassen und später wiederbesiedelt wurde.", hu: "Cuscatlán megyei település, amely hagyományos szalmakalapjairól és a polgárháború alatti történelmi szerepéről ismert.", ro: "Un oraș abandonat în timpul războiului civil și repopulat ulterior.", en: "A town abandoned during the civil war and later repopulated." },
     
     facts: {
       de: ["Symbol des vom Krieg betroffenen Landes.", "Wiederbesiedlung durch ehemalige Bewohner.", "Landwirtschaftliche Gemeinde.", "Starke Gemeinschaft."],
-      hu: ["A háború sújtotta ország szimbóluma.", "Volt lakosok általi újranépesítés.", "Mezőgazdasági község.", "Erős közösség."],
+      hu: ["A szalmakalap-készítés hazája", "Hegyi panoráma", "Újjáépített történelmi központ"],
       ro: ["Simbol al țării afectate de război.", "Repopulare de către foștii locuitori.", "Comunitate agricolă.", "Comunitate puternică."],
       en: ["Symbol of the country affected by war.", "Repopulated by former residents.", "Agricultural community.", "Strong community."]
     },
@@ -2135,7 +2141,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Tenancingo wurde in den 1980er Jahren zu einer 'entmilitarisierten Zone' erklärt, um die Rückkehr der Zivilbevölkerung zu ermöglichen.", "Die Stadt ist landesweit bekannt für die Herstellung von hochwertigen Hüten aus Palmfasern.", "Die Bewohner haben gemeinschaftliche Projekte ins Leben gerufen, um ihre handwerklichen Traditionen und ihre Geschichte zu bewahren."],
       hu: ["A háború utáni újrakezdés és a civil kurázsi nemzeti jelképe.", "Híres a tradicionális pálmakalapok és textíliák készítéséről.", "Az ország egyik első demilitarizált övezete volt a konfliktus alatt.", "Erős közösségi összefogásáról és kézműves hagyományairól nevezetes."],
-      ro: ["Simbol al țării afectate de război.", "Repopulare de către foștii locuitori.", "Comunitate agricolă.", "Comunitate puternică.", "Un oraș abandonat în timpul războiului civil și repopulat ulterior.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș abandonat în timpul războiului civil și repopulat ulterior.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the Cuscatlán Department.", "Elevation is approximately 600 meters.", "Nationally famous for artisanal palm hat production.", "Severely impacted and briefly abandoned during the civil war.", "Rebuilt post-conflict with a focus on traditional crafts.", "Surrounded by rugged, steep topography."]
     }
   },
@@ -2145,11 +2151,11 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-SV",
     coords: [-88.75, 13.66],
     name: { de: "Santa Clara", hu: "Santa Clara", ro: "Santa Clara", en: "Santa Clara" },
-    description: { de: "Eine kleine Stadt im Departement San Vicente.", hu: "Kisváros San Vicente megyében.", ro: "Un mic oraș în departamentul San Vicente.", en: "A small city in the San Vicente department." },
+    description: { de: "Eine kleine Stadt im Departement San Vicente.", hu: "San Vicente megyében található kisváros, amely a San Vicente-vulkán árnyékában, termékeny völgyben fekszik.", ro: "Un mic oraș în departamentul San Vicente.", en: "A small city in the San Vicente department." },
     
     facts: {
       de: ["Ländliche Gemeinde.", "Landwirtschaft.", "Nahe der Stadt San Vicente.", "Ruhige Atmosphäre."],
-      hu: ["Vidéki község.", "Mezőgazdaság.", "San Vicente város közelében.", "Nyugodt légkör."],
+      hu: ["Vulkáni talajú termőföldek", "Csendes kisvárosi légkör", "Cukornád és kukorica termelés"],
       ro: ["Comunitate rurală.", "Agricultură.", "Aproape de orașul San Vicente.", "Atmosferă liniștită."],
       en: ["Rural municipality.", "Agriculture.", "Near the city of San Vicente.", "Quiet atmosphere."]
     },
@@ -2163,7 +2169,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["Die Stadt ist stolz auf ihre traditionelle Architektur mit kleinen Häusern und gepflegten Gärten.", "Santa Clara feiert jährlich lebhafte religiöse Feste, die für ihren starken Gemeinschaftscharakter bekannt sind.", "Die umliegende Natur lädt zu entspannten Spaziergängen und Erkundungen der zentralen salvadorianischen Bergwelt ein."],
       hu: ["Békés mezőgazdasági kisváros San Vicente megye szívében.", "Hagyományos gabona- és cukornádtermesztő vidék.", "Híres a vendégszeretetéről és a rendezett, virágos utcáiról.", "Közösségi alapú vallási és kulturális fesztiválok helyszíne."],
-      ro: ["Comunitate rurală.", "Agricultură.", "Aproape de orașul San Vicente.", "Atmosferă liniștită.", "Un mic oraș în departamentul San Vicente.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un mic oraș în departamentul San Vicente.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the San Vicente Department.", "Elevation is approximately 600 meters.", "Economy is based almost entirely on traditional agriculture.", "Produces corn, beans, and sugarcane.", "Features a quiet, tightly-knit rural community structure.", "Maintains strong traditional religious festivals."]
     }
   },
@@ -2173,12 +2179,12 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     parent: "SV-LU",
     coords: [-87.96, 13.45],
     name: { de: "San Alejo", hu: "San Alejo", ro: "San Alejo", en: "San Alejo" },
-    description: { de: "Eine Stadt im Departement La Unión.", hu: "Város La Unión megyében.", ro: "Un oraș în departamentul La Unión.", en: "A city in the department of La Unión." },
+    description: { de: "Eine Stadt im Departement La Unión.", hu: "La Unión megyei város, amely egykor bányászati központ volt, ma pedig élénk mezőgazdasági és kereskedelmi élettel bír.", ro: "Un oraș în departamentul La Unión.", en: "A city in the department of La Unión." },
     
     
     facts: {
       de: ["Ländliche Gemeinde.", "Viehzucht und Landwirtschaft.", "Nahe dem Vulkan Conchagua.", "Traditionelle Lebensweise."],
-      hu: ["Vidéki község.", "Állattenyésztés és mezőgazdaság.", "A Conchagua vulkán közelében.", "Hagyományos életmód."],
+      hu: ["Bányászati múlt", "Fontos állatvásárok", "Változatos domborzati viszonyok"],
       ro: ["Comunitate rurală.", "Creșterea animalelor și agricultură.", "Aproape de vulcanul Conchagua.", "Mod de viață tradițional."],
       en: ["Rural municipality.", "Livestock and agriculture.", "Near the Conchagua volcano.", "Traditional way of life."]
     },
@@ -2191,7 +2197,7 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     factsAdvanced: {
       de: ["San Alejo ist berühmt für seine Viehmärkte, die zu den bedeutendsten in der östlichen Region des Landes zählen.", "In der Stadt werden noch heute traditionelle Handwerkstechniken zur Herstellung von Lederwaren und Agrarwerkzeugen gepflegt.", "Die jährlichen Stadtfeste im Juli locken mit traditioneller Musik, Tanz und gastronomischen Spezialitäten zahlreiche Besucher an."],
       hu: ["Jelentős állattenyésztési és mezőgazdasági központ La Uniónban.", "Híres a tradicionális bőrművességéről és kézművesiparáról.", "Fontos állatvásárok helyszíne a keleti országrészben.", "A Conchagua-vulkán közelében fekvő, gazdag hagyományú település."],
-      ro: ["Comunitate rurală.", "Creșterea animalelor și agricultură.", "Aproape de vulcanul Conchagua.", "Mod de viață tradițional.", "Un oraș în departamentul La Unión.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
+      ro: ["Un oraș în departamentul La Unión.", "Este situat în El Salvador, cel mai mic stat din America Centrală, la coasta Pacificului.", "Climat tropical, cu sezon ploios și sezon secetos bine conturate.", "Capitala San Salvador este centrul politic, economic și cultural al țării."],
       en: ["Located in the La Unión Department.", "Elevation is approximately 150 meters.", "Economy relies heavily on agriculture, cattle, and remittances.", "Historically significant for colonial-era indigo production.", "Features a warm, tropical lowland climate.", "Has a notably large diaspora population abroad."]
     }
   }

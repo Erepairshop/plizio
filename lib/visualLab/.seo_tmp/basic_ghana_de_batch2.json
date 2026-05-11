@@ -1,0 +1,74 @@
+{
+  "lang": "de",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-prinzenstein-history-v2",
+      "description": "Eine dänische Festung in Keta, die im 18. Jahrhundert zum Schutz des Sklaven- und Warenhandels errichtet wurde.",
+      "facts": ["Erbaut im Jahr 1784.", "Wichtigster dänischer Posten östlich der Woltamündung.", "Heute teilweise vom Meer erodiert."]
+    },
+    {
+      "id": "fort-san-sebastian-history-v2",
+      "description": "Das in Shama gelegene Fort San Sebastian ist eine der ältesten Festungen Ghanas und wurde ursprünglich von den Portugiesen erbaut.",
+      "facts": ["Bauzeit ab 1520.", "Diente dem Gold- und Sklavenhandel.", "Beeindruckende Architektur am Atlantik."]
+    },
+    {
+      "id": "fort-apollonia-history-v2",
+      "description": "Die westlichste Festung Ghanas in Beyin wurde von den Briten errichtet, um den Handel gegen andere Kolonialmächte zu sichern.",
+      "facts": ["Erbaut zwischen 1768 und 1770.", "Benannt nach dem Heiligen Apollonia.", "Heimat des Museums für Nzema-Kultur."]
+    },
+    {
+      "id": "fort-metal-cross-history-v2",
+      "description": "Ein britisches Fort in Dixcove, das strategisch auf einer Anhöhe über der Bucht thront.",
+      "facts": ["Baubeginn im Jahr 1692.", "Bekannt für seine dicken Verteidigungsmauern.", "Wichtiger Stützpunkt für den Goldexport."]
+    },
+    {
+      "id": "fort-amsterdam-history-v2",
+      "description": "Die erste englische Festung an der Goldküste liegt in Abandze und wurde später von den Niederländern übernommen und umbenannt.",
+      "facts": ["Erbaut um 1631 als Fort Kormantin.", "Zentrum des frühen britischen Handels.", "Heute eine malerische Ruine."]
+    },
+    {
+      "id": "fort-william-anomabu-history-v2",
+      "description": "Eine britische Festung in Anomabu, die für ihre massiven Verteidigungsanlagen bekannt war und den lokalen Handel kontrollierte.",
+      "facts": ["Erbaut im Jahr 1753.", "Zentrum für den Export von Mais und Sklaven.", "Diente später als Staatsgefängnis."]
+    },
+    {
+      "id": "kwame-nkrumah-mausoleum-history-v2",
+      "description": "Die letzte Ruhestätte von Kwame Nkrumah, dem ersten Präsidenten Ghanas und einem Vorkämpfer des Panafrikanismus.",
+      "facts": ["Eingeweiht im Jahr 1992.", "Befindet sich auf dem alten britischen Poloplatz.", "Symbol der ghanaischen Unabhängigkeit."]
+    },
+    {
+      "id": "w-e-b-du-bois-centre-history-v2",
+      "description": "Ein Forschungszentrum und Museum in Accra, das dem Leben und Werk des afroamerikanischen Bürgerrechtlers W.E.B. Du Bois gewidmet ist.",
+      "facts": ["Ehemaliges Wohnhaus von Du Bois.", "Zentrum für panafrikanische Studien.", "Ort des Grabes von Du Bois und seiner Frau."]
+    },
+    {
+      "id": "independence-square-accra-history-v2",
+      "description": "Auch Black Star Square genannt, ist dies der Ort für nationale Paraden und ein Symbol für Ghanas Weg in die Freiheit.",
+      "facts": ["Erbaut unter Kwame Nkrumah.", "Zweitgrößter Stadtplatz der Welt.", "Beherbergt das Unabhängigkeitsdenkmal."]
+    },
+    {
+      "id": "yaa-asantewaa-museum-history-v2",
+      "description": "Ein Museum in Ejisu, das die Heldentaten von Yaa Asantewaa ehrt, die den Ashanti-Widerstand gegen die Briten anführte.",
+      "facts": ["Gedenken an den Krieg des Goldenen Stuhls.", "Präsentiert Artefakte der Ashanti-Geschichte.", "Wichtiger Ort für den Stolz der Ashanti."]
+    },
+    {
+      "id": "salaga-slave-market-history-v2",
+      "description": "Salaga war im 18. und 19. Jahrhundert einer der bedeutendsten Sklavenmärkte im Landesinneren Westafrikas.",
+      "facts": ["Knotenpunkt alter Karawanenwege.", "Ort des Austauschs von Waren und Menschen.", "Historische Brunnen und Badestellen erhalten."]
+    },
+    {
+      "id": "gwollu-defence-wall-history-v2",
+      "description": "Eine historische Schutzmauer im Nordwesten Ghanas, die zum Schutz gegen Sklavenjäger errichtet wurde.",
+      "facts": ["Erbaut im 19. Jahrhundert.", "Zwei konzentrische Ringmauern.", "Zeugnis lokaler Selbstverteidigungsstrategien."]
+    }
+  ]
+}

@@ -9,30 +9,147 @@
   ],
   "items": [
     {
+      "id": "parque-industrial-la-ureca-economic-v2",
+      "description": "San José déli részén elhelyezkedő ipari park, amely fontos logisztikai és gyártási központ a fővárosi régióban.",
+      "facts": [
+        "Stratégiai elhelyezkedés San Joséban",
+        "Számos nemzetközi cég telephelye",
+        "Kiemelkedő logisztikai infrastruktúra"
+      ]
+    },
+    {
+      "id": "planta-energia-sandillal-economic-v2",
+      "description": "Guanacaste tartományban található vízerőmű, amely a Corobicí folyó vizét hasznosítja elektromos áram termelésére.",
+      "facts": [
+        "Vízenergia-alapú áramtermelés",
+        "Guanacaste régió energiaellátója",
+        "Fenntartható energiatermelési mód"
+      ]
+    },
+    {
+      "id": "puerto-cocos-economic-v2",
+      "description": "A Csendes-óceáni partvidéken található kikötőhely, amely elsősorban a helyi halászat és a tengeri áruszállítás számára fontos.",
+      "facts": [
+        "Csendes-óceáni part menti fekvés",
+        "Regionális kereskedelmi szerep",
+        "Helyi halászati bázis"
+      ]
+    },
+    {
+      "id": "planta-energia-valle-central-economic-v2",
+      "description": "A központi völgyben üzemelő energetikai létesítmény, amely szélenergiát vagy egyéb megújuló forrásokat hasznosít a lakosság ellátására.",
+      "facts": [
+        "A központi völgy energiaforrása",
+        "Megújuló energiafelhasználás",
+        "Modern technológiai háttér"
+      ]
+    },
+    {
+      "id": "terminal-puerto-balboa-economic-v2",
+      "description": "Kereskedelmi és teherkikötői terminál, amely a tengeri logisztika és az export-import folyamatok egyik kulcsfontosságú pontja.",
+      "facts": [
+        "Nagy teherbírású terminál",
+        "Nemzetközi tengeri kereskedelem",
+        "Modern konténerkezelő egység"
+      ]
+    },
+    {
+      "id": "puerto-cito-economic-v2",
+      "description": "Kisebb tengeri kikötő, amely a helyi vízi közlekedést és a part menti gazdasági tevékenységeket támogatja.",
+      "facts": [
+        "Helyi gazdasági jelentőség",
+        "Part menti hajózási központ",
+        "Áru- és személyszállítási funkció"
+      ]
+    },
+    {
+      "id": "planta-energia-don-pedro-economic-v2",
+      "description": "Don Pedro vízerőmű, amely Costa Rica zöldenergia-stratégiájának részeként hozzájárul az ország szén-dioxid-mentes áramellátásához.",
+      "facts": [
+        "Vízenergiát hasznosító erőmű",
+        "Környezetbarát üzemmód",
+        "Jelentős éves energiatermelés"
+      ]
+    },
+    {
+      "id": "santa-rosa-battlefield-history-v2",
+      "description": "Az 1856-os Santa Rosa-i csata helyszíne, ahol a Costa Rica-i erők győzelmet arattak William Walker zsoldosai felett.",
+      "facts": [
+        "1856. március 20-i csata",
+        "A függetlenség védelmének szimbóluma",
+        "A Santa Rosa Nemzeti Park része"
+      ]
+    },
+    {
+      "id": "las-animas-cross-history-v2",
+      "description": "Történelmi emlékhely és kereszt, amelyhez helyi legendák és vallási hagyományok kötődnek a gyarmati kor óta.",
+      "facts": [
+        "Gyarmati kori vallási emlék",
+        "Helyi zarándokhely és legenda",
+        "Kulturális örökség része"
+      ]
+    },
+    {
+      "id": "atlantico-railway-station-history-v2",
+      "description": "San José történelmi vasútállomása, amely egykor az Atlanti-óceán partjára tartó vasútvonal központja volt.",
+      "facts": [
+        "1908-ban épült állomásépület",
+        "A kávéexport fő szállítási útvonala",
+        "Nemzeti műemlék és múzeum"
+      ]
+    },
+    {
+      "id": "cr-correos-costa-rica-landmarks-v2",
+      "description": "San José központi postaépülete, egy gyönyörű neoreneszánsz építészeti remekmű a főváros szívében.",
+      "facts": [
+        "1917-ben fejezték be az építését",
+        "Bélyegmúzeumnak is otthont ad",
+        "Zöld homlokzata jellegzetes látvány"
+      ]
+    },
+    {
+      "id": "cr-muelle-de-puntarenas-landmarks-v2",
+      "description": "Puntarenas híres mólója, amely a város egyik legnépszerűbb sétánya és a tengerjáró hajók kikötőhelye.",
+      "facts": [
+        "Hosszú tengerbe nyúló sétány",
+        "Turisztikai és gazdasági központ",
+        "Kilátás a Nicoya-öbölre"
+      ]
+    },
+    {
       "id": "finca-cafe-life-v2",
-      "description": "A kávéfincák Costa Rica felföldi tájának és mezőgazdaságának jellegzetes elemei. A vulkáni talaj és a hűvösebb klíma kiváló feltételeket ad az arabica kávénak.",
+      "description": "Hagyományos kávéültetvény, ahol a látogatók megismerhetik a híres Costa Rica-i kávé termesztésének és feldolgozásának folyamatát.",
       "facts": [
-        "Felföldi kávétermesztés",
-        "Vulkáni talaj",
-        "Arabica kávéra épül"
+        "Az ország „arany szemcséje”",
+        "Kézi szüretelési technológia",
+        "Vulkáni talajon termő cserjék"
       ]
     },
     {
-      "id": "feria-agricultor-life-v2",
-      "description": "A Feria del Agricultor heti termelői piac, ahol a gazdák közvetlenül adják el a friss árut. A városi fogyasztást és a helyi gazdaságot köti össze.",
+      "id": "sarchi-crafts-life-v2",
+      "description": "Sarchí városa a kézművességéről híres, különösen a díszesen festett ökörszekereiről, amelyek a nemzeti örökség részei.",
       "facts": [
-        "Heti termelői piac",
-        "Friss helyi áru",
-        "Közvetlen értékesítés"
+        "A díszes ökörszekér hazája",
+        "UNESCO szellemi világörökség",
+        "Finom fafaragási hagyományok"
       ]
     },
     {
-      "id": "balsa-wood-crafts-life-v2",
-      "description": "A balsa fa kézműves tárgyai a costa ricai turisztikai piacok és műhelyek ismert darabjai. A könnyű fa jól mutatja a helyi kézművesség természetes anyaghasználatát.",
+      "id": "gallo-pinto-life-v2",
+      "description": "Costa Rica nemzeti étele, amely rizsből és fekete babból készül, és a helyi mindennapok elengedhetetlen része.",
       "facts": [
-        "Könnyű balsa fa",
-        "Kézműves dísztárgyak",
-        "Turisztikai műhelyek"
+        "Hagyományos reggeli fogás",
+        "Rizs és bab keveréke fűszerekkel",
+        "A tico kultúra kulináris alapja"
+      ]
+    },
+    {
+      "id": "fishing-village-life-v2",
+      "description": "Jellegzetes part menti halászfalu, ahol a közösség élete a tengerhez és a hagyományos halászati módszerekhez kötődik.",
+      "facts": [
+        "Hagyományos kisüzemi halászat",
+        "Friss tengeri ételek forrása",
+        "Nyugodt, természetközeli életmód"
       ]
     }
   ]

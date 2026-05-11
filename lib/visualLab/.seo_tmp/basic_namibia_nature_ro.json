@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-kalahari-desert-nature-v2",
+      "description": "Deșert vast caracterizat prin dune roșii și vegetație adaptată la ariditate.",
+      "facts": ["Dune de nisip roșu", "Climat arid extrem", "Vegetație de stepă"]
+    },
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "Podiș gresos izolat, cu o biodiversitate remarcabilă și specii protejate.",
+      "facts": ["Podiș de gresie", "Biodiversitate bogată", "Specii pe cale de dispariție"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "Râu efemer care străbate deșertul Namib către Oceanul Atlantic.",
+      "facts": ["Curs de apă efemer", "Sistem fluvial deșertic", "Vegetație ribariană rară"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "Râu din regiunea Kunene, vital pentru fauna sălbatică din deșert.",
+      "facts": ["Habitat pentru elefanți", "Curs sezonier", "Peisaj stâncos"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "Râu sezonier cunoscut pentru populațiile de elefanți adaptate la viața deșertică.",
+      "facts": ["Elefanți de deșert", "Coridor ecologic", "Ecosistem fragil"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "Râu spectaculos care formează văi adânci și habitate unice în Damaraland.",
+      "facts": ["Văi spectaculoase", "Formațiuni geologice", "Refugiu pentru faună"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "Râu care a săpat unul dintre cele mai mari canioane din lume.",
+      "facts": ["Canionul Fish River", "Sistem fluvial major", "Peisaj geologic unic"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Lac carstic prăbușit, cu adâncime considerabilă și apă cristalină.",
+      "facts": ["Lac carstic", "Adâncime mare", "Istorie subacvatică"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "Lac carstic natural, renumit pentru apele sale adânci de un albastru intens.",
+      "facts": ["Format prin prăbușire", "Apă cristalină", "Geologie carstică"]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "Oază naturală izolată, importantă pentru biodiversitatea locală.",
+      "facts": ["Sursă de apă", "Oază de vegetație", "Habitat izolat"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "Zone inundabile vaste, esențiale pentru ecosistemele din nord-estul Namibiei.",
+      "facts": ["Câmpii inundabile", "Ecosistem umed", "Migrația faunei"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "Fluviu care formează granița naturală și oferă un habitat bogat pentru animale.",
+      "facts": ["Graniță fluvială", "Populații de elefanți", "Turism de safari"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "Râu care susține un ecosistem complex de mlaștini și păduri în regiunea Zambezi.",
+      "facts": ["Ecosistem de mlaștină", "Biodiversitate ridicată", "Flux fluvial"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "Fluviu major al Africii care traversează extremitatea de nord a țării.",
+      "facts": ["Fluviu african major", "Bazin hidrografic vital", "Habitat fluvial"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Masiv muntos vulcanic vechi, cu formațiuni geologice și artă rupestră.",
+      "facts": ["Masiv vulcanic", "Artă rupestră", "Peisaj montan"]
+    }
+  ]
+}

@@ -71,7 +71,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       de: ["Jurong East gilt als zweites zentrales Geschäftsviertel Singapurs.", "Der Jurong East MRT-Knoten verbindet wichtige Ost-West- und Nord-Süd-Ströme.", "JEM, Westgate und IMM prägen das Einkaufsprofil des Viertels.", "Das Science Centre Singapore liegt in der Nähe des Town Centre.", "Jurong Lake Gardens ist Teil der grünen Uferentwicklung im Westen.", "Der Jurong Lake District bleibt ein langfristiges Stadtentwicklungsprojekt."],
       hu: [],
       ro: [],
-      en: ["Designated as Singapore's second Central Business District.", "Home to the International Business Park, established in 1992.", "Houses the Singapore Science Centre, which opened in 1977.", "Features JEM and Westgate, two of the largest suburban malls.", "Connected by the Jurong East MRT station, a major transport hub.", "Located near the site of the former Jurong Bird Park.", "Part of the Jurong Lake District urban redevelopment project.", "Home to the Ng Teng Fong General Hospital, opened in 2015."]
+      en: ["Home to the International Business Park, established in 1992.", "Houses the Singapore Science Centre, which opened in 1977.", "Features JEM and Westgate, two of the largest suburban malls.", "Connected by the Jurong East MRT station, a major transport hub.", "Located near the site of the former Jurong Bird Park.", "Part of the Jurong Lake District urban redevelopment project.", "Home to the Ng Teng Fong General Hospital, opened in 2015."]
     }
   },
   {
@@ -143,7 +143,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       de: ["Der Woodlands Checkpoint ist der wichtigste Grenzposten zur Causeway.", "Die Causeway verbindet Singapur direkt mit Johor Bahru.", "Woodlands MRT ist ein zentraler Verkehrsknoten im Norden.", "Causeway Point gehört zu den bekannten Einkaufszentren des Viertels.", "Admiralty Park liegt in Reichweite des Wohngebiets.", "Woodlands wurde als nördliches Regionalzentrum ausgebaut."],
       hu: [],
       ro: [],
-      en: ["Serves as the primary connection to Malaysia via the Causeway.", "The Johor-Singapore Causeway was completed in 1923.", "Home to Admiralty Park, which has 26 slides for recreation.", "Host to Republic Polytechnic, established in its current site in 2007.", "Part of the designated North Coast Innovation Corridor.", "Causeway Point is one of the largest suburban malls in the north.", "Woodlands Waterfront Park offers views of the Johor skyline.", "Population exceeds 250,000 residents as of recent estimates."]
+      en: ["Serves as the primary connection to Malaysia via the Causeway.", "The Johor-Singapore Causeway was completed in 1923.", "Home to Admiralty Park, which has 26 slides for recreation.", "Host to Republic Polytechnic, established in its current site in 2007.", "Part of the designated North Coast Innovation Corridor.", "Causeway Point is one of the largest suburban malls in the north.", "Population exceeds 250,000 residents as of recent estimates."]
     }
   },
   {
@@ -467,7 +467,7 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       de: ["Der Singapore Sports Hub prägt das moderne Kallang.", "Das National Stadium ist der zentrale Blickfang des Areals.", "Die Kallang Wave Mall liegt direkt am Sportkomplex.", "Kallang Basin und der Flussraum formen die Lage.", "Das frühere Kallang Airport Gelände liegt in der historischen Erinnerung des Bezirks.", "Kallang MRT und die umliegenden Stationen sichern die Anbindung."],
       hu: [],
       ro: [],
-      en: ["Home to the Singapore Sports Hub and the 55,000-seat National Stadium.", "Site of Singapore's first international airport (Kallang Airport).", "The Kallang River is the longest river in Singapore at 10 km.", "Kallang Basin was historically a center for shipbuilding and repair.", "Features the Singapore Indoor Stadium, designed by Kenzo Tange.", "Home to the Aperia Mall and various industrial clusters.", "The historic Old Kallang Airport building is a gazetted monument.", "Served by the Kallang, Stadium, and Mountbatten MRT stations."]
+      en: ["Home to the Singapore Sports Hub and the 55,000-seat National Stadium.", "Site of Singapore's first international airport (Kallang Airport).", "Kallang Basin was historically a center for shipbuilding and repair.", "Features the Singapore Indoor Stadium, designed by Kenzo Tange.", "Home to the Aperia Mall and various industrial clusters.", "The historic Old Kallang Airport building is a gazetted monument.", "Served by the Kallang, Stadium, and Mountbatten MRT stations."]
     }
   },
   {

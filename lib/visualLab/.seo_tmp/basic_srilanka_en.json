@@ -1,0 +1,48 @@
+{
+  "lang": "en",
+  "country": "Srilanka",
+  "files": [
+    "lib/visualLab/data/poiExtraSrilankaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSrilankaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSrilankaLifeV2.ts",
+    "lib/visualLab/data/poiExtraSrilankaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSrilankaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "galle-fort-history-v2",
+      "description": "This historic fortification was built by the Portuguese in 1588 and later extensively fortified by the Dutch in the 17th century. It is a UNESCO World Heritage site known for its blend of European architecture and South Asian traditions.",
+      "facts": ["Built 1588 by Portuguese", "UNESCO World Heritage site", "Dutch colonial influence", "Located in southern Sri Lanka"]
+    },
+    {
+      "id": "st-anthonys-shrine-landmarks-v2",
+      "description": "Located in Kochchikade, Colombo, this Catholic shrine is a significant place of worship dedicated to Saint Anthony of Padua. It holds deep cultural importance for the multi-religious community of the capital city.",
+      "facts": ["Located in Colombo", "Dedicated to St. Anthony", "Multi-religious pilgrimage site", "Architectural landmark"]
+    },
+    {
+      "id": "ridiyagama-safari-park-life-v2",
+      "description": "The first open-air zoo in Sri Lanka, designed to provide a naturalistic habitat for large mammals. It offers visitors an opportunity to view lions, elephants, and other species in semi-wild conditions.",
+      "facts": ["First open-air zoo in Sri Lanka", "Located in Hambantota district", "Covers 500 acres", "Large mammal sanctuary"]
+    },
+    {
+      "id": "pinnawala-open-zoo-life-v2",
+      "description": "Situated near the famous elephant orphanage, this open zoo focuses on showcasing native fauna in well-maintained, spacious enclosures. It promotes wildlife conservation and education for local and international visitors.",
+      "facts": ["Near Pinnawala Elephant Orphanage", "Focuses on native species", "Wildlife education center", "Spacious open enclosures"]
+    },
+    {
+      "id": "kalu-river-nature-v2",
+      "description": "The Kalu Ganga, or Black River, is a major waterway flowing from the central hills to the Indian Ocean at Kalutara. It sustains lush rainforest ecosystems and fertile agricultural lands along its course.",
+      "facts": ["Known as Black River", "Flows to Indian Ocean", "Starts in central highlands", "Crucial for irrigation"]
+    },
+    {
+      "id": "walawe-river-nature-v2",
+      "description": "Walawe Ganga is an important river originating in the central highlands and providing water for various irrigation projects. Its basin supports significant biodiversity and agricultural productivity in the southern region.",
+      "facts": ["Originates in central highlands", "Supports major irrigation", "Vital for southern agriculture", "Biodiverse river basin"]
+    },
+    {
+      "id": "lakegala-relief-v2",
+      "description": "Lakegala is a distinctive pyramid-shaped rock formation located in the Knuckles Mountain Range. It is often associated with local legends and offers challenging terrain for experienced hikers.",
+      "facts": ["Located in Knuckles Range", "Pyramid-shaped rock", "Popular with hikers", "Connected to local mythology"]
+    }
+  ]
+}

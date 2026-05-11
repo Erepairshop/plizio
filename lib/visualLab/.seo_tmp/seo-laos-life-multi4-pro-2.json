@@ -1,0 +1,439 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "elephant-village-sanctuary-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Elephant Village Sanctuary nahe Luang Prabang bietet ehemaligen Arbeitselefanten aus der Holzindustrie einen sicheren Ruhestand. Das Reservat verzichtet komplett auf das Reiten der Tiere und konzentriert sich stattdessen auf deren Beobachtung und Pflege. Die Elefanten können sich frei im Dschungel bewegen, baden und in einer natürlichen Umgebung interagieren. Tierärzte stellen eine angemessene medizinische Versorgung sicher, da viele der Tiere durch jahrzehntelange harte Arbeit gesundheitliche Probleme haben. Besucher können an Programmen teilnehmen, um die Tiere zu füttern und mit ihnen im Fluss zu baden. Das Dorfprojekt bietet zudem Arbeitsplätze für lokale Mahouts, die ihr traditionelles Wissen im Sinne des Tierschutzes anwenden. Die Einnahmen fließen direkt in den Erhalt des Reservats und in lokale Gemeinschaftsprojekte.",
+        "hu": "A Luang Prabang közelében fekvő Elephant Village Sanctuary egykori, faiparban dolgozó munkaelefántoknak biztosít békés nyugdíjas éveket. A rezervátum teljesen lemond az állatok meglovaglásáról, és ehelyett a megfigyelésükre és gondozásukra összpontosít. Az elefántok szabadon mozoghatnak a dzsungelben, fürödhetnek, és természetes környezetben interakcióba léphetnek egymással. Állatorvosok biztosítják a megfelelő orvosi ellátást, mivel az állatok közül sokan évtizedes kemény munka okozta egészségügyi problémákkal küzdenek. A látogatók részt vehetnek olyan programokon, ahol etethetik az állatokat és együtt fürödhetnek velük a folyóban. A falu projekt munkahelyeket is teremt a helyi mahoutok számára, akik hagyományos tudásukat az állatvédelem érdekében alkalmazzák. A bevételeket közvetlenül a rezervátum fenntartására és helyi közösségi projektekre fordítják.",
+        "ro": "Elephant Village Sanctuary de lângă Luang Prabang oferă o pensionare sigură pentru foștii elefanți de lucru din industria lemnului. Rezervația a renunțat complet la călăritul animalelor și se concentrează în schimb pe observarea și îngrijirea lor. Elefanții se pot deplasa liber în junglă, pot face baie și pot interacționa într-un mediu natural. Medicii veterinari asigură o îngrijire medicală adecvată, deoarece multe dintre animale au probleme de sănătate din cauza deceniilor de muncă grea. Vizitatorii pot participa la programe pentru a hrăni animalele și a face baie cu ele în râu. Proiectul satului oferă, de asemenea, locuri de muncă pentru mahouții locali, care își aplică cunoștințele tradiționale în spiritul bunăstării animalelor. Veniturile sunt direcționate către întreținerea rezervației și proiectele comunității locale.",
+        "en": "The Elephant Village Sanctuary near Luang Prabang offers a safe retirement for former working elephants from the logging industry. The reserve has completely abolished elephant riding and instead focuses on observing and caring for them. The elephants can move freely in the jungle, bathe, and interact in a natural environment. Veterinarians ensure proper medical care, as many of the animals have health problems caused by decades of hard work. Visitors can participate in programs to feed the animals and bathe with them in the river. The village project also provides jobs for local mahouts, who apply their traditional knowledge in the spirit of animal welfare. The proceeds go directly towards maintaining the reserve and local community projects."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Rettet ehemalige Arbeitselefanten",
+          "Bietet Tieren einen sicheren Ruhestand",
+          "Verzichtet komplett auf das Elefantenreiten",
+          "Unterstützt lokale Mahout-Familien",
+          "Besucher können mit Elefanten im Fluss baden",
+          "Fördert einen ethischen Tiertourismus"
+        ],
+        "hu": [
+          "Egykori munkaelefántokat ment meg",
+          "Biztonságos nyugdíjas éveket kínál az állatoknak",
+          "Teljesen lemond az elefántlovaglásról",
+          "Támogatja a helyi mahout családokat",
+          "A látogatók elefántokkal fürödhetnek a folyóban",
+          "Etikus állatturizmust szorgalmaz"
+        ],
+        "ro": [
+          "Salvează foști elefanți de lucru",
+          "Oferă animalelor o pensionare sigură",
+          "Renunță complet la călăritul elefanților",
+          "Sprijină familiile locale de mahouți",
+          "Vizitatorii se pot scălda cu elefanții în râu",
+          "Promovează turismul etic cu animale"
+        ],
+        "en": [
+          "Rescues former working elephants",
+          "Offers animals a safe retirement",
+          "Completely refrains from elephant riding",
+          "Supports local mahout families",
+          "Visitors can bathe with elephants in the river",
+          "Promotes ethical animal tourism"
+        ]
+      }
+    },
+    {
+      "id": "dong-amphan-biodiversity-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das nationale Biodiversitätsgebiet Dong Amphan im Nordosten von Laos ist eines der unzugänglichsten und am wenigsten erforschten Schutzgebiete des Landes. Es zeichnet sich durch eine raue Berglandschaft aus, die dicht mit immergrünen Wäldern bewachsen ist. Das Reservat beheimatet seltene Säugetiere wie den Asiatischen Schwarzbären, Leoparden und den stark gefährdeten Douc-Langur. Zudem ist die Region ein Paradies für Vogelbeobachter, da hier zahlreiche vom Aussterben bedrohte Vogelarten leben. Der malerische Kratersee Nong Fa befindet sich im Herzen des Gebiets und ist umgeben von lokalen Mythen und Legenden. Aufgrund der Abgeschiedenheit ist die Flora und Fauna weitgehend unberührt geblieben, doch illegale Wilderei stellt eine wachsende Bedrohung dar. Expeditionen erfordern erfahrene Führer, da es kaum ausgebaute Pfade gibt.",
+        "hu": "Az északkelet-laoszi Dong Amphan Nemzeti Biodiverzitási Terület az ország egyik legnehezebben megközelíthető és legkevésbé kutatott védett övezete. Zord, örökzöld erdőkkel sűrűn benőtt hegyvidéki táj jellemzi. A rezervátum olyan ritka emlősöknek ad otthont, mint az ázsiai feketemedve, a leopárd és a súlyosan veszélyeztetett duk-langur. Ezenkívül a régió a madármegfigyelők paradicsoma, mivel számos kihalással fenyegetett madárfaj él itt. A festői Nong Fa krátertó a terület szívében található, és helyi mítoszok, legendák övezik. Az elszigeteltség miatt a növény- és állatvilág nagyrészt érintetlen maradt, azonban az illegális orvvadászat egyre nagyobb fenyegetést jelent. Az expedíciókhoz tapasztalt vezetőkre van szükség, mivel alig vannak kiépített ösvények.",
+        "ro": "Aria Națională de Biodiversitate Dong Amphan din nord-estul Laosului este una dintre cele mai inaccesibile și mai puțin explorate arii protejate din țară. Se caracterizează printr-un peisaj montan accidentat, acoperit cu păduri veșnic verzi dense. Rezervația găzduiește mamifere rare, cum ar fi ursul negru asiatic, leopardul și langurul duc pe cale de dispariție. De asemenea, regiunea este un paradis pentru observatorii de păsări, deoarece aici trăiesc numeroase specii de păsări pe cale de dispariție. Pitorescul lac de crater Nong Fa este situat în inima zonei și este înconjurat de mituri și legende locale. Datorită izolării sale, flora și fauna au rămas în mare parte neatinse, deși braconajul ilegal reprezintă o amenințare în creștere. Expedițiile necesită ghizi experimentați, deoarece nu prea există poteci amenajate.",
+        "en": "The Dong Amphan National Biodiversity Area in northeastern Laos is one of the most inaccessible and least explored protected areas in the country. It is characterized by a rugged mountain landscape densely covered with evergreen forests. The reserve is home to rare mammals such as the Asian black bear, leopard, and the critically endangered douc langur. In addition, the region is a paradise for birdwatchers, as numerous endangered bird species live here. The picturesque Nong Fa crater lake is located in the heart of the area and is surrounded by local myths and legends. Due to its isolation, the flora and fauna have remained largely untouched, although illegal poaching represents a growing threat. Expeditions require experienced guides, as there are hardly any developed paths."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eines der unzugänglichsten Gebiete in Laos",
+          "Heimat des seltenen Douc-Langurs",
+          "Beinhaltet den vulkanischen Kratersee Nong Fa",
+          "Bietet Lebensraum für asiatische Leoparden",
+          "Zählt zu den am wenigsten erforschten Reservaten",
+          "Wichtiges Refugium für gefährdete Vogelarten"
+        ],
+        "hu": [
+          "Laosz egyik legnehezebben megközelíthető területe",
+          "A ritka duk-langur otthona",
+          "Magába foglalja a Nong Fa vulkáni krátertavat",
+          "Élőhelyet biztosít ázsiai leopárdok számára",
+          "A legkevésbé kutatott rezervátumok közé tartozik",
+          "Veszélyeztetett madárfajok fontos menedéke"
+        ],
+        "ro": [
+          "Una dintre cele mai inaccesibile zone din Laos",
+          "Casa rarisimului langur duc",
+          "Include lacul vulcanic de crater Nong Fa",
+          "Oferă habitat pentru leoparzii asiatici",
+          "Una dintre cele mai puțin explorate rezervații",
+          "Refugiu important pentru speciile de păsări periclitate"
+        ],
+        "en": [
+          "One of the most inaccessible areas in Laos",
+          "Home to the rare douc langur",
+          "Includes the volcanic crater lake Nong Fa",
+          "Provides habitat for Asian leopards",
+          "One of the least explored reserves",
+          "Important refuge for endangered bird species"
+        ]
+      }
+    },
+    {
+      "id": "paksong-tea-plantations-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Teeplantagen von Paksong auf dem Bolaven-Plateau profitieren vom gemäßigten Klima und den nährstoffreichen vulkanischen Böden der Region. Diese Bedingungen sind optimal für den Anbau hochwertigen grünen und schwarzen Tees. Traditionell handgepflückte Teeblätter werden hier nach überlieferten Methoden schonend getrocknet und verarbeitet. Die Plantagenlandschaft zeichnet sich durch weite, terrassenförmig angelegte Felder aus, die in das bergige Terrain eingebettet sind. Einige der Farmen legen großen Wert auf ökologischen Anbau und den Verzicht auf chemische Düngemittel. Besucher können den Prozess der Teeproduktion hautnah miterleben und an traditionellen Teezeremonien teilnehmen. Die Plantagen bieten vielen Familien aus der Umgebung eine stabile Einkommensquelle und erhalten ein wichtiges landwirtschaftliches Erbe aufrecht.",
+        "hu": "A Bolaven-fennsíkon található Paksong teaültetvényei a régió mérsékelt éghajlatából és tápanyagban gazdag vulkanikus talajából profitálnak. Ezek a feltételek optimálisak a kiváló minőségű zöld és fekete tea termesztéséhez. A hagyományosan, kézzel szedett tealeveleket itt régi módszerek szerint kíméletesen szárítják és dolgozzák fel. Az ültetvények tájképét a hegyvidéki terepbe ékelődő széles, teraszos elrendezésű földek jellemzik. Néhány farm nagy hangsúlyt fektet az ökológiai gazdálkodásra és a műtrágyák mellőzésére. A látogatók testközelből is megismerhetik a teatermelés folyamatát, és hagyományos teaszertartásokon is részt vehetnek. Az ültetvények számos környékbeli család számára nyújtanak stabil bevételi forrást, és fontos mezőgazdasági örökséget tartanak fenn.",
+        "ro": "Plantațiile de ceai Paksong de pe Podișul Bolaven beneficiază de clima temperată a regiunii și de solurile vulcanice bogate în nutrienți. Aceste condiții sunt optime pentru cultivarea ceaiului verde și negru de înaltă calitate. Frunzele de ceai culese manual în mod tradițional sunt uscate cu grijă și prelucrate folosind metode moștenite. Peisajul plantațiilor este caracterizat de câmpuri terasate largi, încorporate în terenul muntos. Unele dintre ferme pun mare preț pe cultivarea ecologică și pe evitarea îngrășămintelor chimice. Vizitatorii pot experimenta de aproape procesul de producție a ceaiului și pot participa la ceremoniile tradiționale ale ceaiului. Plantațiile oferă o sursă stabilă de venit pentru multe familii locale și mențin un important patrimoniu agricol.",
+        "en": "The Paksong tea plantations on the Bolaven Plateau benefit from the region's temperate climate and nutrient-rich volcanic soils. These conditions are optimal for cultivating high-quality green and black tea. Traditionally hand-picked tea leaves are gently dried and processed here using ancestral methods. The plantation landscape is characterized by wide, terraced fields embedded in the mountainous terrain. Some of the farms attach great importance to organic farming and the avoidance of chemical fertilizers. Visitors can experience the tea production process firsthand and participate in traditional tea ceremonies. The plantations provide a stable source of income for many local families and maintain an important agricultural heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Produziert hochwertigen grünen und schwarzen Tee",
+          "Nutzt das kühle Klima des Bolaven-Plateaus",
+          "Ernte erfolgt größtenteils durch traditionelles Handpflücken",
+          "Bietet Verkostungen und traditionelle Teezeremonien an",
+          "Oft auf terrassenförmigen Feldern angelegt",
+          "Wichtige Einnahmequelle für lokale Familien"
+        ],
+        "hu": [
+          "Kiváló minőségű zöld és fekete teát termel",
+          "Kihasználja a Bolaven-fennsík hűvös éghajlatát",
+          "A szüret nagyrészt hagyományos kézi szedéssel történik",
+          "Kóstolókat és hagyományos teaszertartásokat kínál",
+          "Gyakran teraszos földeken alakítják ki",
+          "Fontos bevételi forrás a helyi családok számára"
+        ],
+        "ro": [
+          "Produce ceai verde și negru de înaltă calitate",
+          "Folosește clima răcoroasă a Podișului Bolaven",
+          "Recoltarea se face în mare parte prin culegere manuală tradițională",
+          "Oferă degustări și ceremonii tradiționale ale ceaiului",
+          "Adesea dispuse pe câmpuri terasate",
+          "Sursă importantă de venit pentru familiile locale"
+        ],
+        "en": [
+          "Produces high-quality green and black tea",
+          "Utilizes the cool climate of the Bolaven Plateau",
+          "Harvesting is largely done by traditional hand-picking",
+          "Offers tastings and traditional tea ceremonies",
+          "Often laid out on terraced fields",
+          "Important source of income for local families"
+        ]
+      }
+    },
+    {
+      "id": "hin-nam-no-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das nationale Schutzgebiet Hin Nam No zeichnet sich durch massive Karstkalksteinformationen und ausgedehnte Höhlensysteme aus. Es grenzt an den vietnamesischen Nationalpark Phong Nha-Ke Bang und bildet zusammen eines der größten Karstgebiete der Welt. Das Reservat beherbergt eine einzigartige Artenvielfalt, darunter seltene Primatenarten wie den Rotschenkligen Kleideraffen. Zahlreiche unterirdische Flüsse durchziehen die Kalksteinberge, wie beispielsweise die imposante Xe-Bang-Fai-Höhle. Botaniker schätzen die schwer zugänglichen Täler für ihre reiche endemische Flora. Die lokale Bevölkerung praktiziert traditionelle Formen der Waldnutzung, die in den Schutzkonzepten des Parks berücksichtigt werden. Die raue Topografie dient als natürlicher Schutz vor Abholzung und großflächiger landwirtschaftlicher Nutzung.",
+        "hu": "A Hin Nam No Nemzeti Védett Területet hatalmas karszt mészkőformációk és kiterjedt barlangrendszerek jellemzik. A vietnami Phong Nha-Ke Bang Nemzeti Parkkal határos, és együttesen a világ egyik legnagyobb karsztvidékét alkotják. A rezervátum egyedülálló biológiai sokféleségnek ad otthont, beleértve olyan ritka főemlősfajokat, mint a vörösszárú langur. Számos földalatti folyó szeli át a mészkőhegyeket, mint például az impozáns Xe-Bang-Fai-barlang. A botanikusok nagyra értékelik a nehezen megközelíthető völgyeket gazdag endemikus növényvilágukért. A helyi lakosság a történelem során a fahasználat hagyományos formáit alkalmazta, amelyeket a park védelmi koncepciói is figyelembe vesznek. A zord domborzat természetes védelemként szolgál az erdőirtás és a nagyszabású mezőgazdasági hasznosítás ellen.",
+        "ro": "Aria Națională Protejată Hin Nam No se caracterizează prin formațiuni masive de calcar carstic și sisteme extinse de peșteri. Se învecinează cu Parcul Național Phong Nha-Ke Bang din Vietnam, formând împreună una dintre cele mai mari zone carstice din lume. Rezervația găzduiește o biodiversitate unică, inclusiv specii rare de primate, cum ar fi langurul cu picioare roșii. Numeroase râuri subterane străbat munții de calcar, cum ar fi impresionanta peșteră Xe-Bang-Fai. Botaniștii apreciază văile greu accesibile pentru flora lor endemică bogată. Populația locală practică forme tradiționale de utilizare a pădurii, care sunt luate în considerare în conceptele de protecție ale parcului. Topografia accidentată servește drept protecție naturală împotriva defrișărilor și a utilizării agricole la scară largă.",
+        "en": "The Hin Nam No National Protected Area is characterized by massive karst limestone formations and extensive cave systems. It borders the Vietnamese Phong Nha-Ke Bang National Park and together they form one of the largest karst regions in the world. The reserve is home to a unique biodiversity, including rare primate species such as the red-shanked douc langur. Numerous underground rivers run through the limestone mountains, such as the impressive Xe-Bang-Fai Cave. Botanists value the hard-to-reach valleys for their rich endemic flora. The local population practices traditional forms of forest use, which are taken into account in the park's protection concepts. The rugged topography serves as natural protection against deforestation and large-scale agricultural use."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Berühmt für gigantische Karstlandschaften",
+          "Grenzt an vietnamesische Nationalparks",
+          "Beherbergt die unterirdische Xe-Bang-Fai-Flusshöhle",
+          "Schützt endemische Pflanzenarten in Karsttälern",
+          "Lebensraum seltener Rotschenkliger Kleideraffen",
+          "Topografie verhindert großflächige Abholzung"
+        ],
+        "hu": [
+          "Híres gigantikus karsztos tájairól",
+          "Vietnami nemzeti parkokkal határos",
+          "Itt található a földalatti Xe-Bang-Fai folyóbarlang",
+          "Endemikus növényfajokat véd a karsztvölgyekben",
+          "Ritka vörösszárú langurok élőhelye",
+          "A domborzat megakadályozza a nagyüzemi fakitermelést"
+        ],
+        "ro": [
+          "Renumit pentru peisajele carstice gigantice",
+          "Se învecinează cu parcurile naționale vietnameze",
+          "Găzduiește peștera fluviului subteran Xe-Bang-Fai",
+          "Protejează speciile de plante endemice în văile carstice",
+          "Habitat al rarului langur cu picioare roșii",
+          "Topografia previne tăierile pe scară largă"
+        ],
+        "en": [
+          "Famous for gigantic karst landscapes",
+          "Borders Vietnamese national parks",
+          "Houses the underground Xe-Bang-Fai river cave",
+          "Protects endemic plant species in karst valleys",
+          "Habitat of rare red-shanked douc langurs",
+          "Topography prevents large-scale logging"
+        ]
+      }
+    },
+    {
+      "id": "vientiane-orchid-farm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Vientiane Orchid Farm hat sich der Erhaltung und Aufzucht endemischer Orchideenarten aus ganz Laos verschrieben. In den weitläufigen Gewächshäusern werden Hunderte seltener und gefährdeter Orchideen gezüchtet, die in freier Wildbahn durch Lebensraumverlust bedroht sind. Die Farm arbeitet eng mit internationalen Botanikern zusammen, um seltene Exemplare zu katalogisieren und in ihren natürlichen Lebensraum zurückzuführen. Besucher können die vielfältigen Farben und Formen der Blüten in den Schaugärten bewundern und lernen, wie diese empfindlichen Pflanzen gepflegt werden. Ein spezielles Labor auf dem Gelände befasst sich mit der In-vitro-Vermehrung schwer kultivierbarer Arten. Das Projekt dient als wichtiges Aufklärungszentrum für Einheimische und Touristen über die Bedeutung des Artenschutzes. Neben Orchideen beherbergt die Anlage auch eine Auswahl tropischer Farne und Zierpflanzen.",
+        "hu": "A Vientiane Orchid Farm a Laosz egész területéről származó endemikus orchideafajok megőrzésére és nemesítésére kötelezte el magát. A kiterjedt üvegházakban több száz ritka és veszélyeztetett orchideát termesztenek, amelyeket a vadonban élőhelyük elvesztése fenyeget. A farm szorosan együttműködik nemzetközi botanikusokkal a ritka példányok katalogizálása és természetes élőhelyükre való visszatelepítése érdekében. A látogatók megcsodálhatják a virágok változatos színeit és formáit a bemutatókertekben, és megtanulhatják, hogyan gondozzák ezeket az érzékeny növényeket. A területen található speciális laboratórium a nehezen termeszthető fajok in vitro szaporításával foglalkozik. A projekt fontos oktatóközpontként szolgál a helyiek és a turisták számára a fajvédelem fontosságáról. Az orchideák mellett a létesítmény trópusi páfrányok és dísznövények választékának is otthont ad.",
+        "ro": "Ferma de orhidee Vientiane este dedicată conservării și creșterii speciilor de orhidee endemice din tot Laosul. Sute de orhidee rare și pe cale de dispariție care sunt amenințate cu pierderea habitatului în sălbăticie sunt cultivate în serele extinse. Ferma colaborează îndeaproape cu botaniști internaționali pentru a cataloga exemplare rare și a le readuce în habitatul lor natural. Vizitatorii pot admira diversele culori și forme ale florilor în grădinile expoziționale și pot învăța cum sunt îngrijite aceste plante delicate. Un laborator special din incintă se ocupă de propagarea in vitro a speciilor greu de cultivat. Proiectul servește ca un important centru educațional pentru localnici și turiști cu privire la importanța conservării speciilor. Pe lângă orhidee, instalația găzduiește și o selecție de ferigi tropicale și plante ornamentale.",
+        "en": "The Vientiane Orchid Farm is dedicated to the conservation and breeding of endemic orchid species from all over Laos. Hundreds of rare and endangered orchids that are threatened by habitat loss in the wild are grown in the extensive greenhouses. The farm works closely with international botanists to catalog rare specimens and reintroduce them to their natural habitat. Visitors can admire the diverse colors and shapes of the flowers in the show gardens and learn how these delicate plants are cared for. A special laboratory on site deals with the in vitro propagation of hard-to-cultivate species. The project serves as an important educational center for locals and tourists about the importance of species conservation. In addition to orchids, the facility also houses a selection of tropical ferns and ornamental plants."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Züchtet bedrohte laotische Orchideenarten",
+          "Betreibt ein In-vitro-Labor zur Vermehrung",
+          "Arbeitet mit internationalen Botanikern zusammen",
+          "Wildert seltene Pflanzen wieder in der Natur aus",
+          "Bietet aufklärende Führungen für Touristen an",
+          "Kultiviert auch tropische Farne"
+        ],
+        "hu": [
+          "Veszélyeztetett laoszi orchideafajokat tenyészt",
+          "In vitro laboratóriumot működtet a szaporításhoz",
+          "Nemzetközi botanikusokkal működik együtt",
+          "Visszatelepíti a ritka növényeket a természetbe",
+          "Felvilágosító túrákat kínál a turistáknak",
+          "Trópusi páfrányokat is termeszt"
+        ],
+        "ro": [
+          "Crește specii de orhidee periclitate din Laos",
+          "Operează un laborator in vitro pentru propagare",
+          "Colaborează cu botaniști internaționali",
+          "Reintroduce plantele rare înapoi în natură",
+          "Oferă tururi educaționale pentru turiști",
+          "Cultivă și ferigi tropicale"
+        ],
+        "en": [
+          "Breeds endangered Laotian orchid species",
+          "Operates an in vitro laboratory for propagation",
+          "Collaborates with international botanists",
+          "Reintroduces rare plants back into the wild",
+          "Offers educational tours for tourists",
+          "Also cultivates tropical ferns"
+        ]
+      }
+    },
+    {
+      "id": "nam-ha-protected-area-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das nationale Schutzgebiet Nam Ha in der Provinz Luang Namtha ist ein Vorzeigeprojekt für gemeindebasierten Ökotourismus in Asien. Das Reservat schützt Bergwälder und Flusstäler, die eine hohe Dichte an Großsäugern wie Asiatische Elefanten und Nebelparder aufweisen. Zahlreiche Bergvölker, darunter die Akha und Lanten, leben innerhalb oder an den Grenzen des Parks und erhalten durch geführte Trekkingtouren eine alternative Einkommensquelle. Dieses Modell minimiert illegale Jagd und Abholzung erheblich. Die Flusslandschaften des Nam Ha River werden zudem für Kajak- und Raftingtouren genutzt, die tief in unberührte Naturgebiete führen. Wissenschaftler überwachen hier die Populationen seltener Amphibien und Vogelarten. Der Park zeigt eindrucksvoll, wie sich Naturschutz und indigene Entwicklung erfolgreich verbinden lassen.",
+        "hu": "A Luang Namtha tartományban található Nam Ha Nemzeti Védett Terület a közösségalapú ökoturizmus mintaprojektje Ázsiában. A rezervátum olyan hegyi erdőket és folyóvölgyeket véd, amelyekben nagy sűrűségben élnek olyan nagyemlősök, mint az ázsiai elefántok és a ködfoltos párducok. Számos hegyi nép, köztük az akha és lanten törzsek élnek a parkon belül vagy annak határain, és a vezetett túrák révén alternatív bevételi forráshoz jutnak. Ez a modell jelentősen minimalizálja az illegális vadászatot és a fakitermelést. A Nam Ha folyó tájait emellett kajakozásra és vadvízi evezésre is használják, amelyek mélyen bevezetnek az érintetlen természeti területekre. A tudósok itt figyelemmel kísérik a ritka kétéltűek és madárfajok populációit. A park lenyűgözően mutatja be, hogyan lehet sikeresen összekapcsolni a természetvédelmet és az őslakosok fejlődését.",
+        "ro": "Aria Națională Protejată Nam Ha din provincia Luang Namtha este un proiect pilot pentru ecoturismul bazat pe comunitate în Asia. Rezervația protejează pădurile montane și văile râurilor care au o densitate mare de mamifere mari, cum ar fi elefanții asiatici și leoparzii pătați. Numeroase triburi montane, inclusiv Akha și Lanten, trăiesc în interiorul sau la granițele parcului și primesc o sursă alternativă de venit prin excursii de drumeție ghidate. Acest model minimizează semnificativ vânătoarea ilegală și defrișările. Peisajele fluviale ale râului Nam Ha sunt, de asemenea, folosite pentru excursii cu caiacul și rafting, care duc adânc în zone naturale virgine. Oamenii de știință monitorizează populațiile de amfibieni și specii de păsări rare aici. Parcul demonstrează în mod impresionant modul în care conservarea naturii și dezvoltarea indigenă pot fi combinate cu succes.",
+        "en": "The Nam Ha National Protected Area in Luang Namtha province is a flagship project for community-based ecotourism in Asia. The reserve protects mountain forests and river valleys that have a high density of large mammals such as Asian elephants and clouded leopards. Numerous hill tribes, including the Akha and Lanten, live within or on the borders of the park and receive an alternative source of income through guided trekking tours. This model significantly minimizes illegal hunting and logging. The river landscapes of the Nam Ha River are also used for kayaking and rafting tours that lead deep into pristine natural areas. Scientists monitor the populations of rare amphibians and bird species here. The park impressively demonstrates how nature conservation and indigenous development can be successfully combined."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Modellprojekt für indigenen Ökotourismus",
+          "Heimat vieler ethnischer Bergvölker (z.B. Akha)",
+          "Schützt Bergregenwälder im Norden von Laos",
+          "Bietet bekannte Dschungel-Trekkingrouten",
+          "Bietet Möglichkeiten zum Rafting auf dem Nam Ha",
+          "Sichert das Einkommen lokaler Gemeinschaften"
+        ],
+        "hu": [
+          "Modellprojekt az őslakos ökoturizmushoz",
+          "Sok etnikai hegyi törzs otthona (pl. akha)",
+          "Hegyvidéki esőerdőket véd Észak-Laoszban",
+          "Ismert dzsungeltúra-útvonalakat kínál",
+          "Raftingolási lehetőséget biztosít a Nam Ha folyón",
+          "Biztosítja a helyi közösségek jövedelmét"
+        ],
+        "ro": [
+          "Proiect model pentru ecoturismul indigen",
+          "Casa multor triburi etnice montane (de exemplu, Akha)",
+          "Protejează pădurile tropicale montane din nordul Laosului",
+          "Oferă rute cunoscute de drumeții în junglă",
+          "Oferă oportunități de rafting pe Nam Ha",
+          "Asigură veniturile comunităților locale"
+        ],
+        "en": [
+          "Model project for indigenous ecotourism",
+          "Home to many ethnic hill tribes (e.g. Akha)",
+          "Protects mountain rainforests in northern Laos",
+          "Offers well-known jungle trekking routes",
+          "Provides opportunities for rafting on the Nam Ha",
+          "Secures the income of local communities"
+        ]
+      }
+    },
+    {
+      "id": "suan-mon-farm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Suan Mon Organic Farm liegt in der malerischen Landschaft rund um Vientiane und konzentriert sich auf den nachhaltigen Anbau von saisonalem Gemüse und tropischen Früchten. Die Farm wurde gegründet, um städtischen Bewohnern und Restaurants Zugang zu pestizidfreien Lebensmitteln zu ermöglichen. Eine besondere Spezialität der Anlage ist der Anbau aromatischer Kräuter und Gewürze, die in der traditionellen laotischen Küche unverzichtbar sind. Die Landwirte setzen auf Fruchtwechsel und natürliche Kompostierung, um die Bodenfruchtbarkeit langfristig zu erhalten. Suan Mon bietet Workshops für interessierte Besucher an, in denen Grundlagen der ökologischen Landwirtschaft und Selbstversorgung vermittelt werden. Die Farm betreibt zudem einen eigenen Farm-to-Table-Imbiss, der frische Gerichte direkt aus eigener Ernte serviert. So wird das Konzept der kurzen Lieferwege konsequent umgesetzt.",
+        "hu": "A Suan Mon Organic Farm Vientiane festői tájában fekszik, és a szezonális zöldségek és trópusi gyümölcsök fenntartható termesztésére összpontosít. A farmot azért hozták létre, hogy a városi lakosok és az éttermek számára növényvédőszer-mentes élelmiszereket biztosítsanak. A létesítmény különlegessége az aromás fűszernövények termesztése, amelyek nélkülözhetetlenek a hagyományos laoszi konyhában. A gazdák vetésváltást és természetes komposztálást alkalmaznak a talaj termékenységének hosszú távú megőrzése érdekében. A Suan Mon workshopokat kínál az érdeklődő látogatóknak, ahol az ökológiai gazdálkodás és az önellátás alapjait tanítják. A farm egy saját „farm-to-table” gyorséttermet is üzemeltet, amely friss ételeket szolgál fel közvetlenül a saját termésből. Így a rövid szállítási útvonalak koncepcióját következetesen valósítják meg.",
+        "ro": "Ferma Organică Suan Mon este situată în peisajul pitoresc din jurul Vientiane și se concentrează pe cultivarea durabilă a legumelor de sezon și a fructelor tropicale. Ferma a fost fondată pentru a oferi locuitorilor din mediul urban și restaurantelor acces la alimente fără pesticide. O specialitate deosebită a instalației este cultivarea ierburilor aromatice și a condimentelor, care sunt indispensabile în bucătăria tradițională laoțiană. Fermierii se bazează pe rotația culturilor și compostarea naturală pentru a menține fertilitatea solului pe termen lung. Suan Mon oferă ateliere pentru vizitatorii interesați, în care sunt predate elementele de bază ale agriculturii ecologice și ale autosuficienței. Ferma operează, de asemenea, propriul stand de gustări de la fermă la masă, care servește mâncăruri proaspete direct din propria recoltă. În acest fel, conceptul lanțurilor scurte de aprovizionare este implementat cu consecvență.",
+        "en": "The Suan Mon Organic Farm is located in the picturesque landscape around Vientiane and focuses on the sustainable cultivation of seasonal vegetables and tropical fruits. The farm was founded to provide urban residents and restaurants with access to pesticide-free food. A special specialty of the facility is the cultivation of aromatic herbs and spices, which are indispensable in traditional Laotian cuisine. The farmers rely on crop rotation and natural composting to maintain soil fertility in the long term. Suan Mon offers workshops for interested visitors in which the basics of organic farming and self-sufficiency are taught. The farm also operates its own farm-to-table snack stand, which serves fresh dishes straight from its own harvest. In this way, the concept of short supply chains is consistently implemented."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Baut saisonales Gemüse ohne Pestizide an",
+          "Liefert frische Zutaten an lokale Restaurants",
+          "Spezialisiert auf laotische Küchenkräuter",
+          "Nutzt ausschließlich natürliche Kompostierung",
+          "Betreibt ein eigenes Farm-to-Table-Restaurant",
+          "Bietet Kurse zur urbanen Selbstversorgung"
+        ],
+        "hu": [
+          "Szezonális zöldségeket termeszt peszticidek nélkül",
+          "Friss alapanyagokat szállít a helyi éttermeknek",
+          "Laoszi konyhai fűszernövényekre specializálódott",
+          "Kizárólag természetes komposztálást használ",
+          "Saját farm-to-table éttermet üzemeltet",
+          "Kurzusokat kínál a városi önellátásról"
+        ],
+        "ro": [
+          "Cultivă legume de sezon fără pesticide",
+          "Furnizează ingrediente proaspete la restaurantele locale",
+          "Specializat în ierburi culinare laoțiene",
+          "Folosește exclusiv compostare naturală",
+          "Operează un restaurant propriu de la fermă la masă",
+          "Oferă cursuri de autosuficiență urbană"
+        ],
+        "en": [
+          "Grows seasonal vegetables without pesticides",
+          "Supplies fresh ingredients to local restaurants",
+          "Specialized in Laotian culinary herbs",
+          "Exclusively uses natural composting",
+          "Operates its own farm-to-table restaurant",
+          "Offers courses on urban self-sufficiency"
+        ]
+      }
+    },
+    {
+      "id": "mekong-riverside-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mekong Riverside Park in Vientiane ist nicht nur ein beliebtes Naherholungsgebiet, sondern auch ein wichtiger städtischer Lebensraum für diverse Vogel- und Insektenarten. Entlang der Uferpromenade finden sich zahlreiche Schatten spendende Bäume und üppige Grünanlagen, die die städtische Hitze regulieren. In den Abendstunden wird der Park zum Zentrum des sozialen Lebens, wo Einheimische Aerobic betreiben, spazieren gehen und traditionelle Snacks genießen. Die Uferböschungen dienen als Nistplätze für Wasservögel und kleine Reptilien, die im urbanen Raum Zuflucht suchen. Ein ambitioniertes städtisches Projekt zielt darauf ab, die Uferbepflanzung weiter zu verdichten, um Bodenerosion bei den jährlichen Monsunfluten zu verhindern. Der Park ist ein exzellentes Beispiel dafür, wie Natur und Stadtentwicklung harmonisch in Einklang gebracht werden können.",
+        "hu": "A vientiane-i Mekong Riverside Park nemcsak népszerű rekreációs terület, hanem fontos városi élőhely is a különböző madár- és rovarfajok számára. A folyóparti sétány mentén számos árnyékot adó fa és buja zöldterület található, amelyek szabályozzák a városi hőséget. Az esti órákban a park a társadalmi élet központjává válik, ahol a helyiek aerobikoznak, sétálnak és hagyományos rágcsálnivalókat fogyasztanak. A part menti töltések fészkelőhelyként szolgálnak a vízimadarak és a kis hüllők számára, amelyek menedéket keresnek a városi környezetben. Egy ambiciózus városi projekt célja a parti növényzet további sűrítése, hogy megakadályozzák a talajeróziót az éves monszun árvizek idején. A park kiváló példája annak, hogyan lehet a természetet és a városfejlesztést harmonikusan összeegyeztetni.",
+        "ro": "Mekong Riverside Park din Vientiane nu este doar o zonă de recreere populară, ci și un important habitat urban pentru diverse specii de păsări și insecte. De-a lungul promenadei de pe malul râului se găsesc numeroși copaci care oferă umbră și spații verzi luxuriante, care reglează căldura urbană. Seara, parcul devine centrul vieții sociale, unde localnicii fac aerobic, se plimbă și se bucură de gustări tradiționale. Terasamentele malurilor servesc drept locuri de cuibărit pentru păsările de apă și reptilele mici care caută refugiu în spațiul urban. Un proiect urban ambițios vizează îngroșarea în continuare a plantațiilor de pe mal pentru a preveni eroziunea solului în timpul inundațiilor musonice anuale. Parcul este un exemplu excelent al modului în care natura și dezvoltarea urbană pot fi armonizate cu succes.",
+        "en": "The Mekong Riverside Park in Vientiane is not only a popular recreation area but also an important urban habitat for various bird and insect species. Along the riverside promenade there are numerous shade-providing trees and lush green spaces that regulate the urban heat. In the evenings, the park becomes the center of social life, where locals do aerobics, take walks, and enjoy traditional snacks. The riverbanks serve as nesting sites for waterfowl and small reptiles seeking refuge in the urban space. An ambitious urban project aims to further densify the riverbank planting to prevent soil erosion during the annual monsoon floods. The park is an excellent example of how nature and urban development can be successfully harmonized."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtige urbane Grünfläche in Vientiane",
+          "Reguliert das Mikroklima der laotischen Hauptstadt",
+          "Bietet Wasservögeln innerstädtische Nistplätze",
+          "Schutzmaßnahmen gegen Ufererosion im Monsun",
+          "Zentraler Treffpunkt für abendliches Aerobic",
+          "Verbindet Stadtentwicklung mit Naturschutz"
+        ],
+        "hu": [
+          "Fontos városi zöldterület Vientiane-ban",
+          "Szabályozza a laoszi főváros mikroklímáját",
+          "Belvárosi fészkelőhelyeket kínál vízimadaraknak",
+          "Partvédelmi intézkedések a monszun idején",
+          "Esti aerobik központi találkozóhelye",
+          "Összekapcsolja a városfejlesztést a természetvédelemmel"
+        ],
+        "ro": [
+          "Important spațiu verde urban în Vientiane",
+          "Reglează microclimatul capitalei laoțiene",
+          "Oferă păsărilor de apă locuri de cuibărit în interiorul orașului",
+          "Măsuri de protecție împotriva eroziunii malurilor în timpul musonului",
+          "Punct central de întâlnire pentru aerobic seara",
+          "Combină dezvoltarea urbană cu conservarea naturii"
+        ],
+        "en": [
+          "Important urban green space in Vientiane",
+          "Regulates the microclimate of the Laotian capital",
+          "Provides waterfowl with inner-city nesting sites",
+          "Protective measures against bank erosion during the monsoon",
+          "Central meeting point for evening aerobics",
+          "Combines urban development with nature conservation"
+        ]
+      }
+    },
+    {
+      "id": "dong-hua-sao-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Dong Hua Sao Nationale Schutzgebiet reicht von den Steilhängen des Bolaven-Plateaus bis hinunter in die Mekong-Ebenen im Süden von Laos. Das Reservat ist bekannt für seine immergrünen Wälder und spektakulären Wasserfälle, wie den beeindruckenden Tad Fane. Diese Wälder sind ein kritischer Lebensraum für bedrohte Tierarten, darunter der Asiatische Elefant, Malaienbären und verschiedene Hornvogelarten. Ein besonderes Augenmerk der Forscher liegt auf der reichen Vielfalt endemischer Insekten und Schmetterlinge, die nur in diesem speziellen Mikroklima existieren. Illegale Holzentnahme und die Ausweitung benachbarter Kaffeeplantagen stellen eine stetige Herausforderung für das Schutzgebiet dar. Naturschützer fördern den Ökotourismus, um lokale Dorfgemeinschaften in den aktiven Erhalt dieses einzigartigen Ökosystems einzubinden.",
+        "hu": "A Dong Hua Sao Nemzeti Védett Terület a Bolaven-fennsík meredek lejtőitől a dél-laoszi Mekong-síkságig húzódik. A rezervátum az örökzöld erdeiről és a látványos vízesésekről, például a lenyűgöző Tad Fane-ról ismert. Ezek az erdők kritikus élőhelyet jelentenek a veszélyeztetett állatfajok számára, mint például az ázsiai elefánt, a maláj medve és a különböző szarvascsőrű madárfajok. A kutatók kiemelt figyelmet fordítanak az endemikus rovarok és lepkék gazdag változatosságára, amelyek csak ebben a különleges mikroklímában léteznek. Az illegális fakitermelés és a szomszédos kávéültetvények terjeszkedése állandó kihívást jelent a védett terület számára. A természetvédők az ökoturizmust népszerűsítik, hogy a helyi faluközösségeket is bevonják ezen egyedülálló ökoszisztéma aktív megőrzésébe.",
+        "ro": "Aria Națională Protejată Dong Hua Sao se întinde de la pantele abrupte ale Podișului Bolaven până la câmpiile Mekongului din sudul Laosului. Rezervația este cunoscută pentru pădurile sale veșnic verzi și cascadele spectaculoase, cum ar fi impresionanta Tad Fane. Aceste păduri reprezintă un habitat critic pentru speciile de animale pe cale de dispariție, inclusiv elefantul asiatic, urșii malaezi și diverse specii de păsări rinocer. Cercetătorii acordă o atenție deosebită diversității bogate de insecte și fluturi endemici care există doar în acest microclimat special. Exploatarea forestieră ilegală și extinderea plantațiilor de cafea învecinate reprezintă o provocare constantă pentru aria protejată. Ecologiștii promovează ecoturismul pentru a implica comunitățile locale în conservarea activă a acestui ecosistem unic.",
+        "en": "The Dong Hua Sao National Protected Area extends from the steep slopes of the Bolaven Plateau down to the Mekong plains in southern Laos. The reserve is known for its evergreen forests and spectacular waterfalls, such as the impressive Tad Fane. These forests are a critical habitat for endangered animal species, including the Asian elephant, Malayan sun bears, and various hornbill species. Researchers pay special attention to the rich diversity of endemic insects and butterflies that only exist in this special microclimate. Illegal logging and the expansion of neighboring coffee plantations represent a constant challenge for the protected area. Conservationists promote ecotourism to involve local village communities in the active preservation of this unique ecosystem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Schützt die Hänge des Bolaven-Plateaus",
+          "Beheimatet den berühmten Tad Fane Wasserfall",
+          "Lebensraum für gefährdete Malaienbären",
+          "Hohe Dichte an endemischen Schmetterlingsarten",
+          "Kämpft gegen die Ausweitung der Kaffeefarmen",
+          "Bietet atemberaubende Natur-Trekkingpfade"
+        ],
+        "hu": [
+          "Védi a Bolaven-fennsík lejtőit",
+          "A híres Tad Fane vízesés otthona",
+          "Veszélyeztetett maláj medvék élőhelye",
+          "Endemikus lepkefajok nagy sűrűségben élnek itt",
+          "Küzd a kávéfarmok terjeszkedése ellen",
+          "Lélegzetelállító természeti túraútvonalakat kínál"
+        ],
+        "ro": [
+          "Protejează versanții Podișului Bolaven",
+          "Găzduiește celebra cascadă Tad Fane",
+          "Habitat pentru urșii malaezi pe cale de dispariție",
+          "Densitate mare de specii endemice de fluturi",
+          "Luptă împotriva extinderii fermelor de cafea",
+          "Oferă trasee de drumeții spectaculoase în natură"
+        ],
+        "en": [
+          "Protects the slopes of the Bolaven Plateau",
+          "Home to the famous Tad Fane waterfall",
+          "Habitat for endangered Malayan sun bears",
+          "High density of endemic butterfly species",
+          "Fights against the expansion of coffee farms",
+          "Offers breathtaking nature trekking trails"
+        ]
+      }
+    },
+    {
+      "id": "lao-textile-mulberry-farm-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lao Mulberry Silk Farm widmet sich der Erhaltung der jahrhundertealten Tradition der laotischen Seidenproduktion und Textilkunst. Auf dem Gelände werden großflächig Maulbeerbäume kultiviert, deren Blätter die exklusive Nahrungsquelle für die Seidenraupen bilden. Besucher können den faszinierenden Prozess der Seidengewinnung beobachten, von der Aufzucht der Raupen über das Abhaspeln der Kokons bis hin zum Spinnen der Fäden. Die Farm verwendet ausschließlich natürliche Pflanzenfarben, die aus Rinden, Wurzeln und Blüten der Region gewonnen werden, um die feinen Seidengarne umweltfreundlich zu färben. Auf traditionellen Holzwebstühlen weben lokale Handwerkerinnen kunstvolle Muster, die mythologische Motive widerspiegeln. Das Projekt schafft nicht nur Arbeitsplätze für Frauen im ländlichen Raum, sondern schützt auch ein immaterielles Kulturerbe vor dem Vergessen.",
+        "hu": "A Lao Mulberry Silk Farm a laoszi selyemkészítés és textilművészet évszázados hagyományának megőrzésének szenteli magát. A területen kiterjedt eperfa-ültetvények találhatók, amelyek levelei kizárólagos táplálékul szolgálnak a selyemhernyók számára. A látogatók végigkísérhetik a selyemnyerés lenyűgöző folyamatát, a hernyók tenyésztésétől kezdve a gubók lefejtésén át a fonalak fonásáig. A farm kizárólag a régió kérgeiből, gyökereiből és virágaiból nyert természetes növényi színezékeket használ, hogy környezetbarát módon fesse meg a finom selyemfonalakat. A hagyományos fa szövőszékeken helyi kézműves nők mitológiai motívumokat tükröző, művészi mintákat szőnek. A projekt nemcsak munkahelyeket teremt a vidéken élő nők számára, hanem egy szellemi kulturális örökséget is megment a feledéstől.",
+        "ro": "Ferma de mătase Lao Mulberry este dedicată păstrării tradiției seculare a producției de mătase și a artei textile laoțiene. Pe teren se cultivă duzi pe suprafețe mari, ale căror frunze sunt sursa exclusivă de hrană pentru viermii de mătase. Vizitatorii pot observa procesul fascinant de extracție a mătăsii, de la creșterea omizilor până la desfășurarea gogoșilor și filarea firelor. Ferma folosește doar coloranți vegetali naturali, obținuți din coajă, rădăcini și flori din regiune, pentru a vopsi firele fine de mătase într-un mod ecologic. La războaiele de țesut tradiționale din lemn, artizanele locale țes modele artistice care reflectă motive mitologice. Proiectul nu numai că creează locuri de muncă pentru femeile din zonele rurale, dar protejează și un patrimoniu cultural imaterial de la a fi uitat.",
+        "en": "The Lao Mulberry Silk Farm is dedicated to preserving the centuries-old tradition of Laotian silk production and textile art. Mulberry trees are cultivated extensively on the grounds, as their leaves provide the exclusive food source for the silkworms. Visitors can observe the fascinating process of silk extraction, from the rearing of the caterpillars to the unwinding of the cocoons and the spinning of the threads. The farm only uses natural plant dyes obtained from bark, roots, and flowers of the region to dye the fine silk yarns in an environmentally friendly way. On traditional wooden looms, local craftswomen weave artistic patterns that reflect mythological motifs. The project not only creates jobs for women in rural areas, but also protects an intangible cultural heritage from being forgotten."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bewahrt alte Traditionen der laotischen Seidengewinnung",
+          "Züchtet Seidenraupen auf eigenen Maulbeerplantagen",
+          "Nutzt nur natürliche Farben aus Rinden und Blüten",
+          "Textilien werden auf traditionellen Holzwebstühlen gefertigt",
+          "Sichert das Einkommen von Weberinnen auf dem Land",
+          "Kombiniert nachhaltige Landwirtschaft mit Handwerkskunst"
+        ],
+        "hu": [
+          "Megőrzi a laoszi selyemkészítés ősi hagyományait",
+          "Selyemhernyókat tenyészt saját eperfa-ültetvényein",
+          "Csak kérgekből és virágokból származó természetes festékeket használ",
+          "A textíliákat hagyományos fa szövőszékeken készítik",
+          "Biztosítja a vidéki takács nők jövedelmét",
+          "Ötvözi a fenntartható mezőgazdaságot a kézművességgel"
+        ],
+        "ro": [
+          "Păstrează vechile tradiții de producție a mătăsii în Laos",
+          "Crește viermi de mătase pe propriile plantații de duzi",
+          "Folosește doar culori naturale din scoarță și flori",
+          "Textilele sunt realizate la războaie tradiționale din lemn",
+          "Asigură veniturile țesătoarelor din mediul rural",
+          "Combină agricultura durabilă cu meșteșugul"
+        ],
+        "en": [
+          "Preserves ancient traditions of Laotian silk production",
+          "Breeds silkworms on its own mulberry plantations",
+          "Uses only natural dyes from bark and flowers",
+          "Textiles are made on traditional wooden looms",
+          "Secures the income of female weavers in the countryside",
+          "Combines sustainable agriculture with craftsmanship"
+        ]
+      }
+    }
+  ]
+}

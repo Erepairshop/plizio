@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bamako-market-life-v2",
+      "description": "Bamako központi piaca az élet lüktető központja, ahol a helyi áruk széles választéka várja a vásárlókat. Fontos találkozási pont a városlakók számára.",
+      "facts": ["Bamako városa", "Helyi piac", "Kereskedelmi központ"]
+    },
+    {
+      "id": "segou-river-wildlife-life-v2",
+      "description": "Segou környékén, a Niger folyó mentén a vadvilág megfigyelése különleges élményt nyújt. A folyó menti ökoszisztéma számos fajnak ad otthont.",
+      "facts": ["Niger folyó", "Vadvilág", "Segou környéke"]
+    },
+    {
+      "id": "sikasso-mango-farm-life-v2",
+      "description": "Sikasso híres mangóültetvényei a régió legfontosabb mezőgazdasági büszkeségei közé tartoznak. A mangókivitel meghatározó a helyi gazdaságban.",
+      "facts": ["Sikasso városa", "Mangótermesztés", "Mezőgazdaság"]
+    },
+    {
+      "id": "kayes-market-life-v2",
+      "description": "Kayes piaca a régió kereskedelmének központja, ahol a helyi termelők friss árukkal látják el a környéket. A piac forgataga a városi élet szerves része.",
+      "facts": ["Kayes városa", "Helyi piac", "Friss áruk"]
+    },
+    {
+      "id": "mopti-garden-life-v2",
+      "description": "Mopti kertjei a folyó közelségét hasznosítva biztosítják a zöldségek termesztését. A helyi közösségek számára alapvető fontosságúak.",
+      "facts": ["Mopti városa", "Kertgazdálkodás", "Zöldségtermesztés"]
+    },
+    {
+      "id": "timbuktu-garden-life-v2",
+      "description": "Timbuktu sivatagi környezetében a gondosan öntözött kertek a túlélést és a növénytermesztést szolgálják. A helyi gazdák hagyományos tudásukat alkalmazzák.",
+      "facts": ["Timbuktu", "Sivatagi kertek", "Növénytermesztés"]
+    },
+    {
+      "id": "san-market-life-v2",
+      "description": "San piaca fontos kereskedelmi találkozóhely a környékbeli települések számára. A piac a hagyományos mali kereskedelmi kultúrát tükrözi.",
+      "facts": ["San városa", "Kereskedelmi központ", "Hagyományos piac"]
+    },
+    {
+      "id": "goundam-garden-life-v2",
+      "description": "Goundam kertei a folyóvíz felhasználásával biztosítják a friss zöldségek termesztését a száraz időszakban is. Fontos a helyi élelmiszerellátásban.",
+      "facts": ["Goundam", "Kertgazdálkodás", "Zöldségtermesztés"]
+    },
+    {
+      "id": "koulikoro-market-life-v2",
+      "description": "Koulikoro piaca élénk kereskedelmi központ, ahol a környező falvakból érkező áruk cserélnek gazdát. A város gazdasági életének fontos része.",
+      "facts": ["Koulikoro", "Helyi piac", "Kereskedelem"]
+    },
+    {
+      "id": "sikasso-nature-life-v2",
+      "description": "Sikasso környezete a termékeny vidékek és a természetközeli életmód találkozása. A helyiek élete szorosan kötődik a földhöz.",
+      "facts": ["Sikasso régió", "Természetközeli élet", "Földművelés"]
+    }
+  ]
+}

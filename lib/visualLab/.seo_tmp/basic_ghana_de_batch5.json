@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Ghana",
+  "files": [
+    "lib/visualLab/data/poiExtraGhanaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGhanaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGhanaLifeV2.ts",
+    "lib/visualLab/data/poiExtraGhanaNatureV2.ts",
+    "lib/visualLab/data/poiExtraGhanaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "denu-coastal-plain-relief-v2",
+      "description": "Ein flaches Küstentiefland im Südosten Ghanas, das durch Lagunen und sandige Strände geprägt ist.",
+      "facts": ["Liegt in der Volta Region.", "Wichtige Region für den Fischfang.", "Geringe Erhebung über dem Meeresspiegel."]
+    },
+    {
+      "id": "akuapem-ridge-relief-v2",
+      "description": "Ein markanter Gebirgszug nordöstlich von Accra, bekannt für sein kühleres Klima und seine malerischen Aussichten.",
+      "facts": ["Teil des Akwapim-Togo-Gebirges.", "Beliebtes Ausflugsziel.", "Zentrum für Kakaoanbau in der Geschichte."]
+    },
+    {
+      "id": "tano-basin-relief-v2",
+      "description": "Das Einzugsgebiet des Tano-Flusses im Südwesten, eine Region mit dichten Regenwäldern und fruchtbaren Böden.",
+      "facts": ["Wichtiger Wasserweg.", "Reich an Bodenschätzen.", "Bedeutendes landwirtschaftliches Gebiet."]
+    },
+    {
+      "id": "kintampo-plateau-relief-v2",
+      "description": "Eine hochgelegene Hochebene im Zentrum Ghanas, die den Übergang vom Waldland zur Savanne markiert.",
+      "facts": ["Geografisches Zentrum des Landes.", "Bekannt für seine Wasserfälle.", "Prägend für das regionale Relief."]
+    },
+    {
+      "id": "akwapim-plains-relief-v2",
+      "description": "Die weiten Ebenen am Fuße des Akwapim-Gebirges, die eine wichtige landwirtschaftliche Zone darstellen.",
+      "facts": ["Fruchtbare Sedimentböden.", "Nähe zur Hauptstadt Accra.", "Vielseitige landwirtschaftliche Nutzung."]
+    },
+    {
+      "id": "akposso-hills-relief-v2",
+      "description": "Ein Teil des Akwapim-Togo-Gebirgszugs an der Grenze zu Togo, geprägt von steilen Hängen und tiefen Tälern.",
+      "facts": ["Hohe Biodiversität.", "Zentrum für den Kaffeeanbau.", "Herausforderndes Gelände."]
+    },
+    {
+      "id": "oti-plain-relief-v2",
+      "description": "Eine weitläufige Tiefebene im Osten Ghanas, die vom Oti-Fluss durchflossen wird und saisonale Überschwemmungen aufweist.",
+      "facts": ["Wichtiges Weideland.", "Teil des Wolta-Beckens.", "Fischreiches Flusssystem."]
+    },
+    {
+      "id": "nkawkaw-escarpment-relief-v2",
+      "description": "Eine beeindruckende Felswand im Kwahu-Hochland, die das Landschaftsbild der Eastern Region dominiert.",
+      "facts": ["Markanter Steilhang.", "Beliebt bei Gleitschirmfliegern.", "Bietet weite Ausblicke über die Ebenen."]
+    },
+    {
+      "id": "gambia-hills-relief-v2",
+      "description": "Eine Hügelkette im Norden Ghanas, die aus den umliegenden Ebenen aufragt und die regionale Topografie prägt.",
+      "facts": ["Gelegen in der North East Region.", "Wichtig für die lokale Wasserversorgung.", "Markante Silhouetten am Horizont."]
+    }
+  ]
+}

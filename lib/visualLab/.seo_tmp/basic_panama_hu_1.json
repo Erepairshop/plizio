@@ -1,0 +1,30 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPanamaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaNatureV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "concepcion-bugaba-cities-v2", "description": "Picturesque mountain town in the Chiriquí highlands with cool climate.", "facts": ["Mountain resort", "Coffee region", "Tourist destination"]},
+    {"id": "mina-oro-economic-v2", "description": "Gold mining operation in western Panama's mineral-rich region.", "facts": ["Mining industry", "Economic activity", "Resource extraction"]},
+    {"id": "industria-bebidas-economic-v2", "description": "Beverage manufacturing facility supporting local industry.", "facts": ["Food processing", "Manufacturing sector", "Employment"]},
+    {"id": "fuerte-san-jeronimo-history-v2", "description": "Historic 17th-century fort in Portobelo with colonial-era architecture.", "facts": ["Colonial fortress", "Historical monument", "Naval defense"]},
+    {"id": "casa-fuerte-de-la-aduanas-history-v2", "description": "Fortified customs house from Panama's colonial period.", "facts": ["Trade building", "Customs infrastructure", "Historic site"]},
+    {"id": "iglesia-de-san-jose-history-v2", "description": "17th-century church with golden altar in old Panama City.", "facts": ["Colonial church", "Religious monument", "Baroque art"]},
+    {"id": "fuerte-de-san-laureano-history-v2", "description": "Historic military fortification from Spanish colonial era.", "facts": ["Defense structure", "Colonial landmark", "Defensive architecture"]},
+    {"id": "estacion-del-ferrocarril-de-panama-history-v2", "description": "Historic railroad station from early 20th-century Panama railway.", "facts": ["Transportation history", "Railroad infrastructure", "Heritage building"]},
+    {"id": "museo-de-arte-religioso-colonial-history-v2", "description": "Museum showcasing colonial religious art and artifacts.", "facts": ["Art museum", "Religious collection", "Cultural institution"]},
+    {"id": "plaza-francia-history-v2", "description": "Historic plaza in Casco Viejo commemorating French involvement in canal construction.", "facts": ["Memorial plaza", "Historical site", "Public space"]},
+    {"id": "iglesia-del-carmen-history-v2", "description": "Colonial-era church in Casco Viejo district with historic significance.", "facts": ["Religious building", "Colonial monument", "District landmark"]},
+    {"id": "palacio-justicia-landmarks-v2", "description": "Modern judicial palace serving Panama's legal system.", "facts": ["Government building", "Legal institution", "Civic architecture"]},
+    {"id": "torre-omega-landmarks-v2", "description": "Contemporary skyscraper in Panama City's financial district.", "facts": ["Office tower", "Urban landmark", "Modern architecture"]},
+    {"id": "torre-las-americas-landmarks-v2", "description": "Major office building in Panama City skyline.", "facts": ["High-rise building", "Commercial center", "City landmark"]},
+    {"id": "finca-cafe-boquete-life-v2", "description": "Coffee farm in Boquete region famous for high-altitude coffee production.", "facts": ["Coffee plantation", "Agricultural tourism", "Specialty crops"]}
+  ]
+}

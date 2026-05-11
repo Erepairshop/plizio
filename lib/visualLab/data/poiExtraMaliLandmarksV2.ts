@@ -223,7 +223,7 @@ export const poiExtraMaliLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       hu: ["Bamako katolikus érsekségének székhelye", "Az 1920-as években épült gyarmati stílusban", "Mali vallási sokszínűségének szimbóluma", "Neogótikus építészeti jegyek jellemzik", "A belváros egyik leglátványosabb épülete", "Híres a gyönyörű ólomüveg ablakairól", "A gyarmati idők egyik fontos építészeti emléke"],
-      ro: ["Sediul Arhidiecezei de Bamako", "Piatră de temelie pusă la începutul secolului 20", "Arhitectură religioasă catolică în stil colonial", "Simbol al toleranței și dialogului interreligios", "Situată în centrul cartierului administrativ", "Găzduiește mormintele primilor episcopi din Mali", "Renumită pentru slujbele de Crăciun și Paște"]
+      ro: ["Piatră de temelie pusă la începutul secolului 20", "Arhitectură religioasă catolică în stil colonial", "Simbol al toleranței și dialogului interreligios", "Situată în centrul cartierului administrativ", "Găzduiește mormintele primilor episcopi din Mali", "Renumită pentru slujbele de Crăciun și Paște"]
     }
   },
   {

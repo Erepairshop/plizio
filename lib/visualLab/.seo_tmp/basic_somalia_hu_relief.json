@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ayaha-plains-relief-v2",
+      "description": "Széles síkság, amely a Szomáliai fennsík részét képezi.",
+      "facts": ["Fennsík része", "Sík domborzat", "Száraz éghajlat"]
+    },
+    {
+      "id": "barawa-coastal-relief-v2",
+      "description": "Alacsonyan fekvő tengerparti övezet, homokos és korallos felszínnel.",
+      "facts": ["Déli partvidék", "Homokos part", "Alacsony fekvés"]
+    },
+    {
+      "id": "ceerigaabo-uplands-relief-v2",
+      "description": "Magasabban fekvő dombvidék, változatos karsztos képződményekkel.",
+      "facts": ["Északi felvidék", "Karsztos táj", "Magas fekvés"]
+    },
+    {
+      "id": "kismayo-coastal-relief-v2",
+      "description": "Sík tengerparti övezet, amely az Indiai-óceán felé nyitott.",
+      "facts": ["Déli tengerpart", "Parti síkság", "Óceáni hatás"]
+    }
+  ]
+}

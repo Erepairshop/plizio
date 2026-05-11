@@ -1,0 +1,89 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-waterberg-nature-v2",
+      "description": "A Waterberg-fennsík egyedülálló ökoszisztémája számos veszélyeztetett faj menedékhelye.",
+      "facts": ["Típus: fennsík", "Védettség", "Biodiverzitás"]
+    },
+    {
+      "id": "na-kuiseb-river-nature-v2",
+      "description": "A Kuiseb-folyó medre természetes gátat képez a sivatagi dűnék vándorlása előtt.",
+      "facts": ["Típus: folyómeder", "Sivatagi", "Geológia"]
+    },
+    {
+      "id": "na-swakop-river-nature-v2",
+      "description": "A Swakop-folyó völgye fontos ökológiai folyosó az Atlanti-óceán partvidékén.",
+      "facts": ["Típus: folyóvölgy", "Partvidéki", "Természet"]
+    },
+    {
+      "id": "na-tsauchab-river-nature-v2",
+      "description": "A Tsauchab-folyó a híres Sossusvlei-medencébe torkollik, látványos sivatagi környezetet alakítva ki.",
+      "facts": ["Típus: sivatagi folyó", "Sossusvlei", "Látvány"]
+    },
+    {
+      "id": "na-hoarusib-river-nature-v2",
+      "description": "A Hoarusib-folyó időszakos medre sivatagi vadállatok élőhelyéül szolgál.",
+      "facts": ["Típus: időszakos", "Vadvilág", "Sivatagi"]
+    },
+    {
+      "id": "na-hoanib-river-nature-v2",
+      "description": "A Hoanib-folyó völgye ismert a sivatagi adaptációt mutató elefántjairól és zsiráfjairól.",
+      "facts": ["Típus: sivatagi", "Elefántok", "Zsiráfok"]
+    },
+    {
+      "id": "na-ugab-river-nature-v2",
+      "description": "Az Ugab-folyó völgye lenyűgöző sziklaalakzatokkal szegélyezett sivatagi terület.",
+      "facts": ["Típus: folyóvölgy", "Geológia", "Sivatag"]
+    },
+    {
+      "id": "na-fish-river-nature-v2",
+      "description": "A Fish-folyó által vájt kanyon Namíbia egyik leglátványosabb természeti képződménye.",
+      "facts": ["Típus: kanyon", "Hossz: 160 km", "Geológia"]
+    },
+    {
+      "id": "na-otjikoto-lake-nature-v2",
+      "description": "Az Otjikoto-tó egy mély karszttó, amely gazdag történelemmel és élővilággal rendelkezik.",
+      "facts": ["Típus: karszttó", "Mélység: ~55m", "Természet"]
+    },
+    {
+      "id": "na-guinas-lake-nature-v2",
+      "description": "A Guinas-tó egy rejtett karsztforrás, amely kristálytiszta vizeiről ismert.",
+      "facts": ["Típus: karszttó", "Tiszta víz", "Természet"]
+    },
+    {
+      "id": "na-nylon-pool-nature-v2",
+      "description": "A Nylon-medence egy csendes természeti képződmény, amely fontos víznyerőhely a vadvilág számára.",
+      "facts": ["Típus: vizes élőhely", "Vadvilág", "Víztartalék"]
+    },
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "A Caprivi-árterek a szezonális áradások idején élővilágban rendkívül gazdag tájjá válnak.",
+      "facts": ["Típus: ártér", "Szezonális", "Biodiverzitás"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "A Chobe-folyó mentén gazdag vadvilág figyelhető meg, különösen a vízparti környezetben.",
+      "facts": ["Típus: folyó", "Vadvilág", "Ökoszisztéma"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "A Kwando-folyó völgye az északi régiók egyik fontos édesvízi forrása.",
+      "facts": ["Típus: folyó", "Édesvíz", "Ökoszisztéma"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "A Zambézi-folyó felső szakasza Namíbia határvidékén változatos élővilágnak ad otthont.",
+      "facts": ["Típus: folyó", "Nemzetközi", "Ökoszisztéma"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Az Erongo-hegység geológiai képződményei és sziklarajzai világhírűek.",
+      "facts": ["Típus: hegység", "Sziklarajzok", "Geológia"]
+    }
+  ]
+}

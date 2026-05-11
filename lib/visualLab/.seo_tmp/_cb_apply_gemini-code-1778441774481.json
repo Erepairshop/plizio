@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-lagodekhi-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lagodekhi-Schutzgebiete im äußersten Nordosten Georgiens sind das älteste Naturschutzgebiet des Landes und ein bedeutendes Refugium der kaukasischen Biodiversität. Geografisch erstreckt sich der Park an den südlichen Hängen des Großen Kaukasus und grenzt direkt an Russland und Aserbaidschan. Das Relief ist durch extreme Höhenunterschiede geprägt, die von 400 Metern in den subtropisch anmutenden Laubwäldern bis auf über 3.500 Meter in der alpinen Zone reichen. Historisch wurde das Reservat bereits 1912 vom polnischen Botaniker Ludwik Młokosiewicz gegründet, um die unberührten Buchen- und Hainbuchenwälder vor der Abholzung zu bewahren. Ökologisch beherbergt Lagodekhi zahlreiche endemische Arten, darunter die kaukasische Pfingstrose und das Ostkaukasische Steinbock-Wild. Ein technisches und hydrologisches Highlight sind die zahlreichen Wasserfälle, wie der Ninoskhevi-Wasserfall, sowie der hochgelegene Schwarze-Felsen-See, ein Gletschersee auf dem Gebirgskamm. Ökonomisch ist das Reservat ein Motor für den nachhaltigen Wandertourismus in der Region Kachetien. Die Verwaltung setzt auf strikten Naturschutz in den Kernzonen und bietet gut markierte Pfade für Forscher und Naturbeobachter an, die Einblicke in die ungestörte Dynamik kaukasischer Bergökosysteme suchen.",
+        "hu": "A Lagodekhi Természetvédelmi Terület Grúzia legkeletibb részén, a Kaukázus déli lejtőin található, és az ország legrégebbi védett területe. Földrajzilag az orosz (dagesztáni) és az azerbajdzsáni határ találkozásánál fekszik, kiterjedése a 400 méteres magasságtól egészen a 3500 méteres alpesi csúcsokig terjed. Történelmileg a rezervátumot 1912-ben alapította Ludwik Młokosiewicz lengyel botanikus, így ez volt az Orosz Birodalom egyik első természetvédelmi egysége. Ökológiailag a terület felbecsülhetetlen értékű: az érintetlen bükk- és gyertyánerdők olyan ritka fajoknak adnak otthont, mint a kaukázusi zerge és a kelet-kaukázusi kőszáli kecske. A park vízrajzi szempontból is kiemelkedő, híres a Ninoszevi-vízesésről és a magashegyi Fekete-szikla-tóról, amely egy gleccser eredetű állóvíz a határgerincen. Gazdaságilag a rezervátum Kaheti régió ökoturizmusának központja, amely szigorúan szabályozott keretek között fogadja a túrázókat. Technikai értelemben a parkkezelés a biológiai folyosók fenntartására és a határokon átnyúló fajmegőrzési programokra fókuszál. Lagodekhi a kaukázusi flóra és fauna egyik legfontosabb génbankja, ahol a vertikális övezetesség minden szintje zavartalanul tanulmányozható.",
+        "ro": "Ariile Protejate Lagodekhi, situate în extremitatea nord-estică a Georgiei, reprezintă cea mai veche rezervație naturală din țară și un bastion al biodiversității caucaziene. Geografic, parcul ocupă versanții sudici ai Caucazului Mare, la frontiera cu Rusia și Azerbaidjan, acoperind un gradient altitudinal impresionant, de la 400 la 3.500 de metri. Istoric, situl a fost pus sub protecție în anul 1912 la inițiativa botanistului polonez Ludwik Młokosiewicz, fiind una dintre primele rezervații din întregul imperiu de la acea vreme. Ecologic, Lagodekhi protejează păduri virgine de fag și carpen, adăpostind specii endemice precum bujorul de Lagodekhi și capra sălbatică est-caucaziană. Un punct de interes major este Lacul Stâncilor Negre, un lac glaciar situat pe creasta montană, care servește drept graniță naturală. Din punct de vedere economic, rezervația susține turismul de aventură și științific, oferind trasee montane riguros întreținute. Tehnic, managementul ariei se concentrează pe conservarea strictă, accesul în zonele de nucleu fiind limitat pentru a permite proceselor naturale să se desfășoare fără intervenție umană. Lagodekhi rămâne un laborator viu pentru studiul ecologiei montane și un simbol al rezilienței naturii în fața schimbărilor climatice.",
+        "en": "The Lagodekhi Protected Areas, located in the far northeast of Georgia, constitute the nation's oldest nature reserve and a premier sanctuary for Caucasian biodiversity. Geographically, the park spans the southern slopes of the Greater Caucasus Range, bordering Russia and Azerbaijan. The relief is defined by dramatic vertical zonation, ranging from 400 meters in the humid deciduous forests to over 3,500 meters in the alpine tundra. Historically, the reserve was established in 1912 by Polish botanist Ludwik Młokosiewicz, making it one of the first protected areas in the region. Ecologically, Lagodekhi is home to numerous endemic species, such as the Lagodekhi peony and the East Caucasian tur. Hydrologically, the area is noted for its spectacular waterfalls, including the Ninoskhevi falls, and the high-altitude Black Rock Lake, a glacial basin situated on the international border ridge. Economically, the reserve is a vital hub for regulated eco-tourism in the Kakheti region, attracting hikers and scientists alike. Technically, management focuses on strict habitat preservation and transboundary conservation cooperation. The areas serve as a critical genetic reservoir for the flora and fauna of the Caucasus, preserving ecosystems that have remained largely undisturbed for over a century."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Georgiens ältestes Naturschutzgebiet, gegründet im Jahr 1912.",
+          "Umfasst den Schwarzen-Felsen-See auf 2.800 Metern Höhe.",
+          "Beherbergt den imposanten 40 Meter hohen Ninoskhevi-Wasserfall.",
+          "Einzigartiges Ökosystem mit 121 in Georgien endemischen Pflanzenarten.",
+          "Wichtiger Lebensraum für den Kaukasus-Luchs und den Braunbären.",
+          "Das Reservat grenzt unmittelbar an Dagestan (Russland) und Aserbaidschan."
+        ],
+        "hu": [
+          "Grúzia legrégebbi rezervátuma, amelyet 1912-ben alapítottak.",
+          "Itt található a 2800 méteren fekvő, határvonalat alkotó Fekete-szikla-tó.",
+          "A park területén zúdul le a látványos, 40 méter magas Ninoszevi-vízesés.",
+          "121 olyan növényfaj él itt, amely csak Grúziában őshonos.",
+          "A kelet-kaukázusi kőszáli kecske egyik legfontosabb állományának otthona.",
+          "Szigorú természetvédelmi kategóriába tartozik, érintetlen erdőségekkel."
+        ],
+        "ro": [
+          "Prima rezervație naturală înființată pe teritoriul Georgiei (1912).",
+          "Găzduiește Lacul Glaciar al Stâncilor Negre la o altitudine de 2.800 m.",
+          "Include cascada Ninoskhevi, cu o cădere verticală de 40 de metri.",
+          "Adăpostește peste 1.500 de specii de plante, multe fiind endemisme locale.",
+          "Zonă critică pentru conservarea caprei de munte est-caucaziene.",
+          "Situată strategic la punctul de întâlnire a trei state: Georgia, Rusia și Azerbaidjan."
+        ],
+        "en": [
+          "Georgia's oldest protected area, established in 1912.",
+          "Features the alpine Black Rock Lake at an elevation of 2,800 meters.",
+          "Home to the 40-meter high Ninoskhevi Waterfall.",
+          "Contains 121 plant species endemic specifically to Georgia.",
+          "A primary habitat for the East Caucasian Tur (wild goat).",
+          "Bordered by Russia to the north and Azerbaijan to the east."
+        ]
+      }
+    },
+    {
+      "id": "ge-tusheti-national-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Tuscheti-Nationalpark liegt in der abgelegenen Hochgebirgsregion des nordöstlichen Kaukasus und ist eines der unberührtesten Gebiete Europas. Geografisch ist der Park durch tiefe Schluchten, schroffe Gipfel und weite alpine Matten geprägt, die nur über den gefährlichen Abano-Pass (2.850 m) erreichbar sind. Historisch ist Tuscheti die Heimat der Tuschen, eines Hirtenvolkes, das eine einzigartige Kultur der Transhumanz bewahrt hat. Die Architektur der Dörfer wie Omalo und Dartlo ist durch mittelalterliche Wehrtürme aus Schieferstein gekennzeichnet, die heute zum UNESCO-Welterbe-Kandidatenstatus gehören. Ökologisch bietet der Park Lebensraum für seltene Tierarten wie den Bezoarziege und den Kaukasischen Leopard. Ökonomisch basiert das Leben in Tuscheti auf der Schafzucht – die Wolle und der Guda-Käse sind überregional bekannt – sowie einem saisonalen Tourismus zwischen Juni und September. Technisch gesehen ist die Region im Winter fast vollständig von der Außenwelt isoliert, was zur Erhaltung archaischer Traditionen und einer spezifischen Form des georgischen Christentums mit heidnischen Einflüssen beigetragen hat. Der Park ist ein Paradebeispiel für die Symbiose aus extremer Naturlandschaft und einer Jahrtausende alten Kulturlandschaft, die durch nachhaltige Beweidung geformt wurde.",
+        "hu": "A Tusheti Nemzeti Park az Északkeleti-Kaukázus távoli, magashegyi régiójában található, és Európa egyik legérintetlenebb területe. Földrajzilag mély szurdokok, sziklás csúcsok és tágas alpesi legelők jellemzik, amelyek csak a veszélyes, 2850 méter magas Abano-hágón keresztül érhetőek el. Történelmileg Tusheti a tusok otthona, egy pásztornépé, amely megőrizte az évszakos állattenyésztés (transzhumancia) egyedülálló kultúráját. Az olyan falvak, mint Omalo és Dartlo építészetét a középkori palakő védőtornyok határozzák meg, amelyek ma UNESCO Világörökségi várományosok. Ökológiailag a park olyan ritka fajoknak ad otthont, mint a bezoárkecske és a kaukázusi leopárd. Gazdaságilag az élet Tushetiben a juhászatra épül – a tus gyapjú és a guda sajt országszerte híres –, valamint a június és szeptember közötti szezonális turizmusra. Technikai szempontból a régió télen szinte teljesen el van zárva a külvilágtól, ami hozzájárult az archaikus hagyományok és a pogány elemekkel átszőtt grúz kereszténység fennmaradásához. A park a szélsőséges természeti környezet és az évezredes, fenntartható legeltetéssel formált kultúrtáj szimbiózisának tökéletes példája.",
+        "ro": "Parcul Național Tusheti este situat în regiunea montană izolată a Caucazului de Nord-Est, fiind una dintre cele mai sălbatice zone din Europa. Geografic, parcul este definit de canioane adânci, creste abrupte și pășuni alpine vaste, accesul fiind posibil doar prin pasul Abano (2.850 m), considerat unul dintre cele mai periculoase drumuri montane. Din punct de vedere istoric, Tusheti este patria tușilor, un popor de păstori care practică transhumanța de milenii. Arhitectura satelor Omalo și Dartlo se remarcă prin turnurile de apărare medievale construite din ardezie, aflate pe lista tentativă UNESCO. Ecologic, parcul este un habitat crucial pentru specii rare precum capra bezoar și leopardul caucazian. Economic, subzistența se bazează pe creșterea oilor – lâna de Tusheti și brânza Guda fiind renumite – și pe un turism sezonier limitat la lunile de vară. Din punct de vedere tehnic, regiunea este complet izolată prin zăpadă timp de opt luni pe an, ceea ce a conservat tradiții arhaice și un sincretism religios unic între creștinismul ortodox și ritualurile păgâne locale. Tusheti reprezintă un model de peisaj cultural milenar, modelat de o interacțiune durabilă între om și muntele înalt.",
+        "en": "Tusheti National Park is situated in the remote highland region of the northeastern Caucasus, representing one of the most pristine wilderness areas in Europe. Geographically, the park is defined by deep gorges, rugged peaks, and expansive alpine meadows, accessible only via the treacherous Abano Pass (2,850 m). Historically, Tusheti is the ancestral home of the Tush people, a pastoral community that has preserved a unique culture of transhumance. The architecture of villages such as Omalo and Dartlo is dominated by medieval slate-stone defensive towers, currently on the UNESCO World Heritage tentative list. Ecologically, the park provides vital habitat for rare species, including the Bezoar goat and the Caucasian leopard. Economically, life in Tusheti revolves around sheep herding—famed for its wool and pungent Guda cheese—and seasonal tourism between June and September. Technically, the region remains almost entirely cut off from the outside world during winter, which has helped sustain archaic traditions and a specific form of Georgian Christianity infused with pagan elements. The park is a quintessential example of the symbiosis between an extreme natural environment and a millennia-old cultural landscape shaped by sustainable grazing."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Nationalpark Georgiens mit einer Fläche von ca. 1.137 km².",
+          "Erreichbar nur über den Abano-Pass, eine der gefährlichsten Straßen der Welt.",
+          "Beherbergt die höchsten permanent bewohnten Siedlungen Europas.",
+          "Berühmt für die mittelalterliche Turmarchitektur in Omalo und Dartlo.",
+          "Zentrum der georgischen Schafzucht und Produktion von Guda-Käse.",
+          "Saisonale Besiedlung: Die Bewohner ziehen im Winter ins Flachland Kachetiens."
+        ],
+        "hu": [
+          "Grúzia legnagyobb nemzeti parkja, területe kb. 1137 km².",
+          "Csak az Abano-hágón át közelíthető meg, amely a világ egyik legveszélyesebb útja.",
+          "Itt találhatóak Európa legmagasabban fekvő, állandóan lakott települései.",
+          "Híres Omalo és Dartlo középkori palakő tornyairól.",
+          "A grúz juhászat és a híres Guda sajt készítésének központja.",
+          "A lakosság nagy része csak nyáron él itt, télen Kahetibe költöznek."
+        ],
+        "ro": [
+          "Cel mai mare parc național din Georgia, acoperind circa 1.137 km².",
+          "Accesul rutier prin Pasul Abano este deschis doar din iunie până în septembrie.",
+          "Satele din Tusheti sunt printre cele mai înalte așezări locuite din Europa.",
+          "Arhitectura tradițională utilizează exclusiv piatra de ardezie fără mortar.",
+          "Regiunea este celebră pentru brânza Guda maturată în piele de oaie.",
+          "Cultură pastorală unică, bazată pe transhumanța între munte și câmpie."
+        ],
+        "en": [
+          "The largest national park in Georgia, covering approximately 1,137 km².",
+          "Accessible only via the Abano Pass, often cited as one of the world's most dangerous roads.",
+          "Contains some of the highest permanently inhabited settlements in Europe.",
+          "Renowned for the iconic medieval tower architecture in Omalo and Dartlo.",
+          "Central to the production of traditional Tushuri Guda sheep cheese.",
+          "The population practices seasonal migration, moving to lowland Kakheti in winter."
+        ]
+      }
+    },
+    {
+      "id": "ge-kolkheti-national-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Kolkheti-Nationalpark liegt an der zentralen Schwarzmeerküste Georgiens und schützt die einzigartigen Feuchtgebiete der historischen Kolchis-Ebene. Geografisch umfasst der Park die Mündung des Rioni-Flusses und den Paliastomi-See, eingebettet in eine Landschaft aus Torfmooren und dichten Erlenwäldern. Historisch ist das Gebiet eng mit der griechischen Mythologie der Argonauten und dem Goldenen Vlies verknüpft; die antike Stadt Phasis befand sich in dieser Region. Ökologisch ist Kolkheti von globaler Bedeutung als Ramsar-Feuchtgebiet und Teil des UNESCO-Weltnaturerbes, da es ein kritischer Rastplatz für Millionen von Zugvögeln auf der ostatlantischen Flugroute ist. Die Vegetation ist ein Relikt aus dem Tertiär und beherbergt seltene Arten wie die kaukasische Flügelnuss. Ökonomisch ist der Park ein Zentrum für wissenschaftlichen Tourismus und Vogelbeobachtung, was der Hafenstadt Poti eine nachhaltige Perspektive bietet. Technisch gesehen ist das Ökosystem durch ein komplexes Zusammenspiel von Süßwasserzuflüssen und mariner Intrusion geprägt, wobei der Paliastomi-See durch künstliche Kanäle mit dem Meer verbunden ist. Der Park spielt eine entscheidende Rolle beim Küstenschutz und der Regulierung des regionalen Wasserhaushalts in einer der niederschlagsreichsten Zonen Georgiens.",
+        "hu": "A Kolkheti Nemzeti Park Grúzia központi fekete-tengeri partvidékén található, és a történelmi Kolkhisz-alföld egyedülálló vizes élőhelyeit védi. Földrajzilag a park a Rioni-folyó torkolatát és a Paliasztomi-tavat foglalja magában, tőzeglápok és sűrű égererdők környezetében. Történelmileg a terület szorosan kötődik az argonauták görög mitológiájához és az aranygyapjúhoz; az ókori Phasis városa ebben a régióban feküdt. Ökológiailag a Kolkheti globális jelentőségű Ramsari terület és az UNESCO Világörökség része, mivel több millió vándormadár kritikus pihenőhelye a kelet-atlanti vonulási útvonalon. A vegetáció a harmadidőszakból fennmaradt reliktum, olyan ritka fajokkal, mint a kaukázusi szárnyasdió. Gazdaságilag a park a tudományos turizmus és a madármegfigyelés központja, ami fenntartható perspektívát kínál Poti kikötővárosának. Technikai szempontból az ökoszisztémát az édesvízi befolyások és a tengeri benyomulás összetett játéka jellemzi, ahol a Paliasztomi-tavat mesterséges csatornák kötik össze a tengerrel. A park döntő szerepet játszik a partvédelemben és a regionális vízháztartás szabályozásában Grúzia egyik legcsapadékosabb övezetében.",
+        "ro": "Parcul Național Kolkheti este situat pe coasta centrală a Mării Negre din Georgia, protejând zonele umede unice ale câmpiei istorice Colchida. Geografic, parcul cuprinde gura de vărsare a râului Rioni și lacul Paliastomi, fiind caracterizat de mlaștini de turbă și păduri dense de anin. Din punct de vedere istoric, zona este strâns legată de mitologia greacă a Argonauților și a Lânii de Aur; antica cetate Phasis se afla în această regiune. Ecologic, Kolkheti are o importanță globală ca sit Ramsar și parte a Patrimoniului Mondial UNESCO, fiind un punct critic de oprire pentru milioane de păsări migratoare pe ruta est-atlantică. Vegetația reprezintă o relicvă a perioadei terțiare, găzduind specii rare precum nucul caucazian. Economic, parcul este un centru pentru turismul științific și ornitologic, oferind perspective de dezvoltare durabilă orașului-port Poti. Din punct de vedere tehnic, ecosistemul este marcat de interacțiunea complexă între aportul de apă dulce și intruziunea marină, lacul Paliastomi fiind conectat la mare prin canale artificiale. Parcul joacă un rol crucial în protecția costieră și în reglarea regimului hidrologic regional într-una dintre cele mai umede zone ale Georgiei.",
+        "en": "Kolkheti National Park lies along Georgia's central Black Sea coast, safeguarding the unique wetlands of the historic Colchis Lowland. Geographically, the park encompasses the mouth of the Rioni River and Lake Paliastomi, set within a landscape of peat bogs and dense alder forests. Historically, the area is deeply intertwined with the Greek myth of the Argonauts and the Golden Fleece; the ancient city of Phasis was located in this vicinity. Ecologically, Kolkheti is of global importance as a Ramsar wetland and a UNESCO World Natural Heritage site, serving as a critical stopover for millions of migratory birds along the East Atlantic Flyway. The vegetation is a Tertiary-era relict, hosting rare species such as the Caucasian wingnut. Economically, the park is a hub for scientific research and birdwatching tourism, providing a sustainable economic pillar for the port city of Poti. Technically, the ecosystem is defined by the complex interplay between freshwater inflows and marine intrusion, with Lake Paliastomi connected to the sea via artificial channels. The park plays a vital role in coastal protection and regulating the regional water balance in one of Georgia's highest-rainfall zones."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Teil des UNESCO-Weltnaturerbes 'Kolchische Regenwälder und Moore'.",
+          "Beherbergt den Paliastomi-See, ein ehemaliges Süßwasser-Ästuar.",
+          "Wichtiger Rastplatz für über 190 verschiedene Vogelarten.",
+          "Schützt seltene kaukasische Flügelnussbäume und Torfmoose.",
+          "Das Gebiet entspricht der mythologischen Heimat der Prinzessin Medea.",
+          "Enthält die tiefsten Torfmoore des Kaukasus-Raumes."
+        ],
+        "hu": [
+          "A „Kolkhiszi esőerdők és lápvidékek” UNESCO világörökségi helyszín része.",
+          "Itt található a Paliasztomi-tó, amely egykor édesvízi torkolat volt.",
+          "Több mint 190 madárfaj fontos pihenő- és fészkelőhelye.",
+          "Védi a ritka kaukázusi szárnyasdiófákat és a tőzegmohalápokat.",
+          "A görög mitológia szerint itt őrizték az aranygyapjút.",
+          "A Kaukázus legmélyebb tőzegrétegei találhatóak a park területén."
+        ],
+        "ro": [
+          "Inclus în lista Patrimoniului Mondial UNESCO din anul 2021.",
+          "Include Lacul Paliastomi, o lagună de coastă cu ecosistem mixt.",
+          "Punct strategic pe ruta de migrație a păsărilor din Africa spre Eurasia.",
+          "Protejează păduri relicte de tip colchic, supraviețuitoare ale erei glaciare.",
+          "Situl este localizat pe amplasamentul legendarului regat al Colchidei.",
+          "Mlaștinile de turbă de aici sunt printre puținele de acest tip din zona pontică."
+        ],
+        "en": [
+          "Part of the 'Colchic Rainforests and Wetlands' UNESCO World Heritage site.",
+          "Home to Lake Paliastomi, originally a freshwater estuary before marine incursion.",
+          "A vital stopover for more than 190 species of migratory birds.",
+          "Protects rare relict flora such as the Caucasian Wingnut (Pterocarya fraxinifolia).",
+          "Historically associated with the mythological Kingdom of Colchis.",
+          "Features some of the deepest and oldest peat bogs in the Caucasus region."
+        ]
+      }
+    },
+    {
+      "id": "ge-javakheti-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Javakheti-Schutzgebiete liegen im Süden Georgiens auf einem weitläufigen vulkanischen Plateau in einer Höhe von über 2.000 Metern. Geografisch ist die Region durch eine baumlose Steppenlandschaft und eine Vielzahl von Bergseen wie den Paravani-, Saghamo- und Madatapa-See geprägt. Aufgrund des rauen Klimas mit extrem kalten Wintern wird die Gegend oft als 'georgisches Sibirien' bezeichnet. Ökologisch sind die Schutzgebiete von herausragender Bedeutung als Teil des 'transkaukasischen Vogelkorridors'; sie dienen als Brut- und Rastplatz für seltene Arten wie den Krauskopfpelikan und den Weißstorch. Historisch war das Javakheti-Plateau ein strategischer Grenzraum zwischen dem georgischen Königreich, Persien und dem Osmanischen Reich, was sich in zahlreichen Ruinen mittelalterlicher Kirchen und Festungen widerspiegelt. Ökonomisch ist die Region durch die alpine Landwirtschaft und die Fischerei geprägt, wobei der Ökotourismus zunehmend an Bedeutung gewinnt. Technisch gesehen ist die Verwaltung der Wasserressourcen eine Herausforderung, da die Seen durch unterirdische vulkanische Kanäle miteinander verbunden sind. Das Reservat spielt eine Schlüsselrolle beim Schutz der sensiblen Hochland-Feuchtgebiete und fördert die grenzüberschreitende Zusammenarbeit im Naturschutz mit Armenien und der Türkei.",
+        "hu": "A Dzsavakheti Természetvédelmi Területek Grúzia déli részén, egy kiterjedt vulkanikus fennsíkon találhatóak, 2000 méter feletti magasságban. Földrajzilag a régiót fátlan sztyeppei táj és számos hegyi tó – mint a Paravani, Szaghamo és Madatapa-tó – jellemzi. A zord éghajlat és az extrém hideg telek miatt a területet gyakran „grúz Szibériának” nevezik. Ökológiailag a védett területek kiemelkedő jelentőségűek a „transzkaukázusi madárfolyosó” részeként; olyan ritka fajok költő- és pihenőhelyei, mint a borzas pelikán és a fehér gólya. Történelmileg a Dzsavakheti-fennsík stratégiai határövezet volt a grúz királyság, Perzsia és az Oszmán Birodalom között, ami számos középkori templom és erőd romjaiban tükröződik. Gazdaságilag a régiót az alpesi mezőgazdaság és a halászat határozza meg, de az ökoturizmus is egyre fontosabbá válik. Technikai szempontból a vízkészletek kezelése kihívást jelent, mivel a tavakat föld alatti vulkanikus csatornák kötik össze. A rezervátum kulcsszerepet játszik a finom felföldi vizes élőhelyek védelmében, és elősegíti a határokon átnyúló természetvédelmi együttműködést Örményországgal és Törökországgal.",
+        "ro": "Ariile Protejate Javakheti sunt situate în sudul Georgiei, pe un vast platou vulcanic la o altitudine de peste 2.000 de metri. Geografic, regiunea este definită de un peisaj de stepă fără arbori și de o multitudine de lacuri alpine, precum Paravani, Saghamo și Madatapa. Datorită climatului aspru, cu ierni extrem de geroase, zona este adesea supranumită „Siberia Georgiei”. Ecologic, aceste arii protejate sunt de o importanță majoră ca parte a coridorului de migrație transcaucazian, fiind locuri de cuibărit și odihnă pentru specii rare precum pelicanul creț și barza albă. Din punct de vedere istoric, platoul Javakheti a fost o zonă strategică de frontieră între regatul georgian, Imperiul Persan și cel Otoman, fapt atestat de numeroasele ruine de biserici și fortificații medievale. Economic, regiunea depinde de agricultura montană și pescuit, ecoturismul fiind un sector în plină ascensiune. Din punct de vedere tehnic, gestionarea resurselor de apă este complexă, lacurile fiind interconectate prin rețele vulcanice subterane. Rezervația joacă un rol cheie în protejarea zonelor umede de mare altitudine și promovează cooperarea transfrontalieră în conservare cu Armenia și Turcia.",
+        "en": "The Javakheti Protected Areas are located in southern Georgia on an extensive volcanic plateau at elevations exceeding 2,000 meters. Geographically, the region is characterized by treeless steppe landscapes and numerous alpine lakes, such as Paravani, Saghamo, and Madatapa. Due to its harsh climate and bitterly cold winters, the area is frequently referred to as the 'Siberia of Georgia.' Ecologically, the protected areas are of paramount importance as part of the Trans-Caucasian bird migration corridor, serving as vital nesting and stopover sites for rare species like the Dalmatian pelican and the white stork. Historically, the Javakheti Plateau was a strategic frontier zone between the Georgian Kingdom, Persia, and the Ottoman Empire, reflected in the many ruins of medieval churches and fortresses. Economically, the region relies on high-altitude agriculture and fishing, with ecotourism gaining increasing prominence. Technically, managing the water resources is a challenge as the lakes are linked by subterranean volcanic channels. The reserve plays a key role in protecting sensitive highland wetlands and fosters transboundary conservation cooperation with Armenia and Turkey."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gelegen auf einem vulkanischen Plateau auf über 2.000 m Höhe.",
+          "Beherbergt den Paravani-See, den größten See Georgiens.",
+          "Wichtigster georgischer Standort für die Beobachtung von Zugvögeln.",
+          "Klimatisch extrem: Temperaturen fallen im Winter oft unter -30 Grad.",
+          "Schutzgebiet für den bedrohten Krauskopfpelikan.",
+          "Zentrum der armenischen Minderheitskultur in Georgien."
+        ],
+        "hu": [
+          "Vulkanikus fennsíkon fekszik, 2000 méter feletti tengerszint feletti magasságban.",
+          "Itt található a Paravani-tó, Grúzia legnagyobb területű tava.",
+          "A vándormadarak megfigyelésének legfontosabb grúziai helyszíne.",
+          "Szélsőséges klíma: télen a hőmérséklet gyakran -30 fok alá süllyed.",
+          "A veszélyeztetett borzas pelikán egyik utolsó fészkelőhelye.",
+          "A régió Grúzia örmény kisebbségének kulturális központja."
+        ],
+        "ro": [
+          "Amplasat pe un platou vulcanic înalt, unic în regiunea Caucazului.",
+          "Include lacul Paravani, cel mai întins corp de apă din Georgia.",
+          "Destinație de top pentru ornitologi datorită densității mari de păsări migratoare.",
+          "Temperaturile de iarnă pot scădea sub pragul de -30°C.",
+          "Habitat protejat pentru coloniile de pelicani creți (Pelecanus crispus).",
+          "Regiunea păstrează un patrimoniu cultural multietnic georgiano-armean."
+        ],
+        "en": [
+          "Located on a vast volcanic plateau at an average altitude of 2,000m.",
+          "Home to Lake Paravani, the largest lake in Georgia by surface area.",
+          "Georgia's premier location for monitoring international bird migration.",
+          "Known for extreme weather, with winter temperatures hitting -30°C.",
+          "A critical sanctuary for the globally threatened Dalmatian Pelican.",
+          "Serves as the cultural heartland for Georgia's ethnic Armenian community."
+        ]
+      }
+    },
+    {
+      "id": "ge-kintrishi-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kintrishi-Schutzgebiet liegt in der Autonomen Republik Adscharien im Südwesten Georgiens und umfasst das zerklüftete Tal des Kintrishi-Flusses. Geografisch erstreckt sich das Reservat von der Schwarzmeerküste bis zu den Gipfeln des Mescheti-Gebirges auf über 2.500 Metern. Ökologisch ist Kintrishi von unschätzbarem Wert, da es einen der besterhaltenen gemäßigten Regenwälder der Welt beherbergt, der seit 2021 zum UNESCO-Weltnaturerbe gehört. Die Vegetation ist geprägt von tertiären Reliktpflanzen wie der Kastanie, der Buche und dem Pontischen Rhododendron, die in diesem extrem feuchten Mikroklima überdauert haben. Historisch ist das Tal seit der Antike besiedelt; zahlreiche mittelalterliche Bogenbrücken aus Stein (Tamar-Brücken) überspannen den Fluss und zeugen von der Bedeutung des Tals als Handelsroute. Ökonomisch ist das Gebiet ein Zentrum für spezialisierten Ökotourismus und wissenschaftliche Forschung. Technisch gesehen ist das Relief durch steile Hänge und tiefe Schluchten geprägt, was den Wegebau erschwert, aber die natürliche Isolation des Gebiets sichergestellt hat. Die Schutzgebiete sind in ein strenges Naturreservat und eine geschützte Landschaft unterteilt, um sowohl den Artenschutz als auch eine nachhaltige Entwicklung der lokalen Gemeinschaften zu ermöglichen.",
+        "hu": "A Kintrishi Természetvédelmi Terület az Adzsara Autonóm Köztársaságban, Grúzia délnyugati részén található, és a Kintrishi-folyó szabdalt völgyét foglalja magában. Földrajzilag a rezervátum a Fekete-tenger partjától a Meszkheti-hegység 2500 méter feletti csúcsaiig terjed. Ökológiailag a Kintrishi felbecsülhetetlen értékű, mivel a világ egyik legjobb állapotban fennmaradt mérsékelt övi esőerdőjének ad otthont, amely 2021 óta az UNESCO Világörökség része. A vegetációt harmadidőszaki reliktum növények jellemzik, mint a gesztenye, a bükk és a pontuszi rododendron, amelyek ebben az extrém párás mikroklímában maradtak fenn. Történelmileg a völgy az ókor óta lakott; a folyón átívelő számos középkori kőhíd (Tamar-hidak) tanúskodik a völgy kereskedelmi útvonalként betöltött szerepéről. Gazdaságilag a terület a speciális ökoturizmus és a tudományos kutatások központja. Technikai szempontból a domborzatot meredek lejtők és mély szurdokok jellemzik, ami megnehezíti az útépítést, de biztosította a terület természetes elszigeteltségét. A védett területek szigorú természetvédelmi rezervátumra és védett tájra oszlanak, hogy biztosítsák a fajmegőrzést és a helyi közösségek fenntartható fejlődését.",
+        "ro": "Rezervația Kintrishi este situată în Republica Autonomă Adjara, în sud-vestul Georgiei, cuprinzând valea accidentată a râului cu același nume. Din punct de vedere geografic, rezervația se întinde de la coasta Mării Negre până la crestele munților Meskheti, la peste 2.500 de metri altitudine. Ecologic, Kintrishi este de o valoare inestimabilă, adăpostind una dintre cele mai bine conservate păduri pluviale temperate din lume, inclusă în Patrimoniul Mondial UNESCO din 2021. Vegetația este dominată de specii relicte din perioada terțiară, precum castanul, fagul și rododendronul pontic, care au supraviețuit în acest microclimat extrem de umed. Istoric, valea a fost locuită încă din antichitate; numeroase poduri medievale de piatră în arc (podurile reginei Tamar) traversează râul, demonstrând importanța văii ca rută comercială. Economic, zona este un centru pentru ecoturism specializat și cercetare științifică. Din punct de vedere tehnic, relieful este marcat de pante abrupte și defilee adânci, ceea ce a îngreunat construcția drumurilor, dar a asigurat izolarea naturală a zonei. Ariile protejate sunt divizate într-o rezervație naturală strictă și un peisaj protejat, pentru a echilibra conservarea speciilor cu dezvoltarea durabilă a comunităților locale.",
+        "en": "The Kintrishi Protected Areas are located in the Adjara Autonomous Republic of southwestern Georgia, encompassing the rugged valley of the Kintrishi River. Geographically, the reserve extends from the Black Sea coast to the peaks of the Meskheti Range at over 2,500 meters. Ecologically, Kintrishi is of immense value as it hosts one of the world's best-preserved temperate rainforests, designated as a UNESCO World Heritage site in 2021. The vegetation is characterized by Tertiary relict species such as chestnut, beech, and Pontic rhododendron, which have endured in this exceptionally humid microclimate. Historically, the valley has been inhabited since antiquity; several medieval arched stone bridges (Tamar bridges) span the river, testifying to the valley's past importance as a trade route. Economically, the area is a center for specialized ecotourism and scientific research. Technically, the terrain is defined by steep slopes and deep ravines, which hindered road construction but ensured the area's natural isolation. The protected areas are divided into a strict nature reserve and a protected landscape to balance species conservation with the sustainable development of local communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "UNESCO-Weltnaturerbe seit 2021 als Teil der Kolchischen Regenwälder.",
+          "Beherbergt seltene tertiäre Reliktpflanzen wie den Kaukasischen Salamander.",
+          "Besitzt zwei berühmte mittelalterliche Steinbogenbrücken über den Kintrishi.",
+          "Umfasst den hochalpinen Tbikeli-See auf 2.200 Metern Höhe.",
+          "Region mit einer der höchsten Luftfeuchtigkeiten im gesamten Kaukasus.",
+          "Das Schutzgebiet erstreckt sich über ein Gefälle von 2.000 Höhenmetern."
+        ],
+        "hu": [
+          "2021 óta az UNESCO Világörökség része a kolkhiszi esőerdők tagjaként.",
+          "Ritka harmadidőszaki maradványfajok, például a kaukázusi szalamandra otthona.",
+          "Két híres középkori kőhíd maradt fenn a Kintrishi-folyó felett.",
+          "A területén található a 2200 méteren fekvő alpesi Tbikeli-tó.",
+          "A Kaukázus egyik legmagasabb páratartalmú régiója.",
+          "A védett terület 2000 méteres szintkülönbséget ölel fel a tengerparttól a csúcsokig."
+        ],
+        "ro": [
+          "Inclusă în Patrimoniul Mondial UNESCO pentru pădurile pluviale colchicé.",
+          "Adăpostește specii de floră și faună relicte de o importanță globală.",
+          "Include podurile medievale de piatră Varjanauli și Pshavleti.",
+          "Lacul Tbikeli, situat în zona alpină, este o atracție majoră a parcului.",
+          "Înregistrează unele dintre cele mai mari cantități de precipitații din Georgia.",
+          "Relief extrem de accidentat, protejat prin statutul de rezervație strictă."
+        ],
+        "en": [
+          "Designated as a UNESCO World Heritage site in 2021.",
+          "Home to ancient Tertiary relict flora and the Caucasian Salamander.",
+          "Features two iconic medieval stone arch bridges crossing the Kintrishi River.",
+          "Contains the high-altitude alpine Lake Tbikeli at 2,200 meters.",
+          "One of the most humid regions in the entire Caucasus mountain range.",
+          "The protected area spans a massive altitudinal range of over 2,000 meters."
+        ]
+      }
+    }
+  ]
+}

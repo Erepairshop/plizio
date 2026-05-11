@@ -1,0 +1,77 @@
+{
+    "lang": "multi4",
+    "country": "cameroon",
+    "files": [
+        "lib/visualLab/data/poiExtraCameroonLandmarksV2.ts"
+    ],
+    "items": [
+        {
+            "id": "yaounde-notre-dame-landmarks-v2",
+            "descriptionAdvancedDe": "Die Kathedrale Notre-Dame-des-Victoires in Yaoundé ist das Herz der katholischen Erzdiözese und ein bedeutendes architektonisches Wahrzeichen im Zentrum der Hauptstadt. Ihr Bau begann in den 1950er Jahren und sie wurde errichtet, um an die Siege im Zweiten Weltkrieg zu erinnern. Das Gebäude ist bekannt für seine imposante dreieckige Struktur und die riesige Mosaikfassade, die biblische Szenen darstellt. Im Inneren beeindruckt der weite, offene Raum, der Platz für Tausende von Gläubigen bietet und von bunten Glasfenstern erhellt wird. Die Kathedrale ist nicht nur ein Ort des Gebets, sondern auch ein nationales Symbol, das bei wichtigen staatlichen und religiösen Zeremonien eine zentrale Rolle spielt. Ihre markante Silhouette prägt das Stadtbild von Yaoundé und zieht Besucher aus aller Welt an.",
+            "descriptionAdvancedHu": "A Győzedelmes Miasszonyunk-székesegyház Yaoundé katolikus érsekségének központja és a főváros egyik legfontosabb építészeti nevezetessége. Az 1950-es években kezdték építeni, és a második világháborús győzelmek emlékére szentelték. Az épület jellegzetessége a lenyűgöző, háromszög alakú szerkezet és a hatalmas mozaikhomlokzat, amely bibliai jeleneteket ábrázol. Belső tere tágas és nyitott, több ezer hívő befogadására alkalmas, és a színes üvegablakok különleges fénnyel világítják meg. A katedrális nem csupán imahely, hanem nemzeti szimbólum is, amely fontos állami és vallási szertartásoknak ad otthont. Jellegzetes sziluettje meghatározza Yaoundé városképét, és a világ minden tájáról vonzza a látogatókat.",
+            "descriptionAdvancedRo": "Catedrala Notre-Dame des Victoires din Yaoundé este inima arhidiecezei catolice și un reper arhitectural important în centrul capitalei. Construcția sa a început în anii 1950 și a fost ridicată pentru a comemora victoriile din Al Doilea Război Mondial. Clădirea este cunoscută pentru structura sa triunghiulară impunătoare și fațada imensă din mozaic, care înfățișează scene biblice. În interior, spațiul larg și deschis impresionează, oferind loc pentru mii de credincioși și fiind iluminat de vitralii colorate. Catedrala nu este doar un lăcaș de cult, ci și un simbol național care joacă un rol central în ceremoniile importante de stat și religioase. Silueta sa distinctivă definește peisajul urban din Yaoundé și atrage vizitatori din întreaga lume.",
+            "descriptionAdvancedEn": "The Our Lady of Victories Cathedral in Yaoundé is the heart of the Catholic Archdiocese and a major architectural landmark in the city center. Its construction began in the 1950s, and it was erected to commemorate the victories of the Second World War. The building is renowned for its imposing triangular structure and the vast mosaic facade depicting biblical scenes. Inside, the wide, open space is impressive, capable of accommodating thousands of worshipers and illuminated by colorful stained-glass windows. The cathedral is not only a place of prayer but also a national symbol that plays a central role in important state and religious ceremonies. Its distinctive silhouette defines the Yaoundé skyline and attracts visitors from all over the world.",
+            "factsAdvanced": [
+                "A yaoundéi katolikus érsekség székhelye.",
+                "Építése az 1950-es években kezdődött.",
+                "A második világháborús győzelmeknek állít emléket.",
+                "Jellegzetes háromszög alakú szerkezettel rendelkezik.",
+                "Homlokzatát hatalmas mozaik díszíti.",
+                "Belső tere több ezer ember befogadására alkalmas.",
+                "Fontos állami és vallási események helyszíne.",
+                "Yaoundé egyik meghatározó építészeti szimbóluma."
+            ]
+        },
+        {
+            "id": "mvolye-basilica-landmarks-v2",
+            "descriptionAdvancedDe": "Die Basilika Maria Königin der Apostel, die auf dem Hügel von Mvolyé thront, ist einer der bedeutendsten Wallfahrtsorte Kameruns. Sie wurde an dem Ort errichtet, an dem die ersten Pallottiner-Missionare Ende des 19. Jahrhunderts ihre Station gründeten. Die heutige moderne Basilika wurde 1991 von Papst Johannes Paul II. geweiht und ersetzte eine ältere Kirche. Ihre Architektur ist eine beeindruckende Mischung aus Beton und lokalen Materialien und zeichnet sich durch ein massives Kreuz aus, das in die Fassade integriert ist. Von ihrer erhöhten Position aus bietet die Basilika einen atemberaubenden Panoramablick über ganz Yaoundé. Sie ist ein spirituelles Zentrum, das jährlich Tausende von Pilgern anzieht und ein Symbol für die tiefe Verwurzelung des Christentums in der Geschichte des Landes darstellt.",
+            "descriptionAdvancedHu": "Az Apostolok Királynője Bazilika, amely a Mvolyé-dombon fekszik, Kamerun egyik legjelentősebb zarándokhelye. Azon a helyen épült, ahol a 19. század végén az első pallottinus misszionáriusok megalapították állomásukat. A mai modern bazilikát 1991-ben II. János Pál pápa szentelte fel, egy régebbi templom helyén. Építészete a beton és a helyi anyagok lenyűgöző ötvözete, jellegzetessége pedig a homlokzatba integrált hatalmas kereszt. Emelkedett fekvésének köszönhetően a bazilikából lélegzetelállító panoráma nyílik egész Yaoundéra. Évente zarándokok ezreit vonzza, és a kereszténység mély gyökereit szimbolizálja az ország történelmében.",
+            "descriptionAdvancedRo": "Bazilica Maria Regina Apostolilor, aflată pe dealul Mvolyé, este unul dintre cele mai importante locuri de pelerinaj din Camerun. A fost construită pe locul unde primii misionari palotini și-au stabilit misiunea la sfârșitul secolului al XIX-lea. Bazilica modernă actuală a fost sfințită de Papa Ioan Paul al II-lea în 1991, înlocuind o biserică mai veche. Arhitectura sa este o combinație impresionantă de beton și materiale locale, remarcându-se printr-o cruce masivă integrată în fațadă. Datorită poziției sale elevate, bazilica oferă o priveliște panoramică uluitoare asupra întregului oraș Yaoundé. Este un centru spiritual care atrage mii de pelerini anual și un simbol al înrădăcinării profunde a creștinismului în istoria țării.",
+            "descriptionAdvancedEn": "The Basilica of Mary Queen of the Apostles, perched on Mvolyé Hill, is one of Cameroon's most significant pilgrimage sites. It was built on the location where the first Pallottine missionaries established their station at the end of the 19th century. The current modern basilica was consecrated by Pope John Paul II in 1991, replacing an older church. Its architecture is an impressive blend of concrete and local materials, distinguished by a massive cross integrated into its facade. From its elevated position, the basilica offers a breathtaking panoramic view over the entire city of Yaoundé. It is a spiritual center that attracts thousands of pilgrims annually and stands as a symbol of the deep roots of Christianity in the country's history.",
+            "factsAdvanced": [
+                "Kamerun egyik legfontosabb zarándokhelye.",
+                "Az első pallottinus misszionáriusok állomáshelyén épült.",
+                "II. János Pál pápa szentelte fel 1991-ben.",
+                "A Mvolyé-domb tetején található.",
+                "Panorámás kilátást nyújt Yaoundéra.",
+                "Évente zarándokok ezreit vonzza.",
+                "Modern építészeti stílusban épült.",
+                "A homlokzatát egy hatalmas kereszt díszíti."
+            ]
+        },
+        {
+            "id": "reunification-monument-landmarks-v2",
+            "descriptionAdvancedDe": "Das Wiedervereinigungsdenkmal in Yaoundé ist ein ikonisches nationales Symbol, das an die Vereinigung des französisch- und englischsprachigen Kameruns im Jahr 1961 erinnert. Das Denkmal wurde in den 1970er Jahren erbaut und vom Künstler Gédéon Mpando entworfen. Die Hauptstruktur stellt eine Spirale dar, die die beiden Teile des Landes symbolisiert, die sich zu einer Nation vereinen. An der Spitze hält eine Figur die Nationalflagge. Umgeben ist das Monument von einem Park und weiteren Skulpturen, die verschiedene Aspekte der kamerunischen Kultur und Geschichte darstellen. Es befindet sich an einem prominenten Platz in der Hauptstadt und ist ein beliebter Ort für offizielle Zeremonien, kulturelle Veranstaltungen und ein Treffpunkt für die Einwohner. Es verkörpert den Geist der nationalen Einheit und des Friedens.",
+            "descriptionAdvancedHu": "Az Újraegyesítési Emlékmű Yaoundéban egy ikonikus nemzeti szimbólum, amely a francia és angol nyelvű Kamerun 1961-es egyesülésére emlékeztet. Az emlékmű az 1970-es években épült, Gédéon Mpando művész tervei alapján. Fő szerkezete egy spirált formáz, amely az ország két részét szimbolizálja, amint egy nemzetté egyesülnek. A csúcsán egy alak a nemzeti zászlót tartja. Az emlékművet egy park és további szobrok veszik körül, amelyek a kameruni kultúra és történelem különböző aspektusait ábrázolják. A főváros egyik kiemelt terén található, és hivatalos ünnepségek, kulturális események kedvelt helyszíne, valamint a helyiek találkozóhelye. A nemzeti egység és a béke szellemét testesíti meg.",
+            "descriptionAdvancedRo": "Monumentul Reunificării din Yaoundé este un simbol național iconic care comemorează unificarea Camerunului francofon și anglofon în 1961. Monumentul a fost construit în anii 1970 și proiectat de artistul Gédéon Mpando. Structura principală reprezintă o spirală, simbolizând cele două părți ale țării care se unesc pentru a forma o singură națiune. În vârf, o figură ține drapelul național. Monumentul este înconjurat de un parc și de alte sculpturi care reprezintă diverse aspecte ale culturii și istoriei cameruneze. Acesta este situat într-o locație proeminentă din capitală și este un loc popular pentru ceremonii oficiale, evenimente culturale și un punct de întâlnire pentru locuitori. El întruchipează spiritul unității naționale și al păcii.",
+            "descriptionAdvancedEn": "The Reunification Monument in Yaoundé is an iconic national symbol commemorating the 1961 unification of French and British Cameroon. The monument was built in the 1970s and designed by artist Gédéon Mpando. The main structure depicts a spiral, symbolizing the two parts of the country coming together to form one nation. At its apex, a figure holds the national flag. The monument is surrounded by a park and other sculptures representing various aspects of Cameroonian culture and history. It is situated in a prominent location in the capital and is a popular venue for official ceremonies, cultural events, and a meeting point for residents. It embodies the spirit of national unity and peace.",
+            "factsAdvanced": [
+                "Az 1961-es újraegyesítésnek állít emléket.",
+                "Az 1970-es években épült.",
+                "Gédéon Mpando tervezte.",
+                "Egy spirális szerkezet, amely az egységet szimbolizálja.",
+                "A csúcsán egy alak a nemzeti zászlót tartja.",
+                "Yaoundé egyik központi terén található.",
+                "A nemzeti egység és a béke jelképe.",
+                "Hivatalos ünnepségek helyszíne."
+            ]
+        },
+        {
+            "id": "national-museum-landmarks-v2",
+            "descriptionAdvancedDe": "Das Nationalmuseum von Kamerun befindet sich im ehemaligen Präsidentenpalast in Yaoundé, einem Gebäude von großer historischer Bedeutung. Nachdem es lange Zeit als Sitz des Staatsoberhauptes diente, wurde es in den 2010er Jahren umfassend renoviert und als Museum neu eröffnet. Die Sammlungen bieten einen tiefen Einblick in die reiche und vielfältige Kulturgeschichte des Landes. Ausgestellt sind Artefakte aus allen zehn Regionen, darunter traditionelle Masken, königliche Insignien, Musikinstrumente und archäologische Funde. Das Museum dokumentiert die Geschichte Kameruns von der prähistorischen Zeit über die verschiedenen Königreiche, die Kolonialzeit bis hin zur modernen Nation. Es ist eine unverzichtbare Institution für das Verständnis der nationalen Identität und ein Muss für jeden, der sich für die Kunst und Geschichte Zentralafrikas interessiert.",
+            "descriptionAdvancedHu": "A Kameruni Nemzeti Múzeum a korábbi elnöki palotában található Yaoundéban, egy nagy történelmi jelentőségű épületben. Miután hosszú ideig az államfő székhelyeként szolgált, a 2010-es években átfogóan felújították és múzeumként nyitották meg újra. A gyűjtemények mély betekintést nyújtanak az ország gazdag és változatos kultúrtörténetébe. Mind a tíz régióból származó műtárgyakat kiállítanak, köztük hagyományos maszkokat, királyi jelvényeket, hangszereket és régészeti leleteket. A múzeum bemutatja Kamerun történelmét a történelem előtti időktől a különböző királyságokon és a gyarmati időszakon át egészen a modern nemzetig. A nemzeti identitás megértéséhez elengedhetetlen intézmény, és mindenkinek kötelező, aki Közép-Afrika művészete és történelme iránt érdeklődik.",
+            "descriptionAdvancedRo": "Muzeul Național al Camerunului este găzduit în fostul palat prezidențial din Yaoundé, o clădire de mare importanță istorică. După ce a servit mult timp drept reședință a șefului statului, a fost renovat complet și redeschis ca muzeu în anii 2010. Colecțiile oferă o perspectivă profundă asupra istoriei culturale bogate și diverse a țării. Sunt expuse artefacte din toate cele zece regiuni, inclusiv măști tradiționale, însemne regale, instrumente muzicale și descoperiri arheologice. Muzeul documentează istoria Camerunului din timpurile preistorice, trecând prin diversele regate, perioada colonială, până la națiunea modernă. Este o instituție esențială pentru înțelegerea identității naționale și o vizită obligatorie pentru oricine este interesat de arta și istoria Africii Centrale.",
+            "descriptionAdvancedEn": "The National Museum of Cameroon is housed in the former presidential palace in Yaoundé, a building of great historical significance. After serving as the head of state's residence for a long time, it was extensively renovated and reopened as a museum in the 2010s. The collections offer a deep insight into the country's rich and diverse cultural history. Artifacts from all ten regions are on display, including traditional masks, royal insignia, musical instruments, and archaeological finds. The museum documents the history of Cameroon from prehistoric times, through the various kingdoms and the colonial period, to the modern nation. It is an essential institution for understanding the national identity and a must-visit for anyone interested in the art and history of Central Africa.",
+            "factsAdvanced": [
+                "A korábbi elnöki palotában található.",
+                "A 2010-es években nyílt meg múzeumként.",
+                "Mind a tíz kameruni régióból tartalmaz műtárgyakat.",
+                "A gyűjteményben maszkok, királyi jelvények és hangszerek is szerepelnek.",
+                "Bemutatja Kamerun történelmét az őskortól napjainkig.",
+                "Fontos szerepet játszik a nemzeti identitás megőrzésében.",
+                "Yaoundé központjában helyezkedik el.",
+                "Az épület maga is történelmi jelentőségű."
+            ]
+        }
+    ]
+}

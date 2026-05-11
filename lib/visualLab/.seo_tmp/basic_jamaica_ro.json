@@ -1,0 +1,28 @@
+{
+  "lang": "ro",
+  "country": "Jamaica",
+  "files": ["lib/visualLab/data/poiExtraJamaicaEconomicV2.ts", "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts", "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts", "lib/visualLab/data/poiExtraJamaicaNatureV2.ts"],
+  "items": [
+    {"id": "jm-kingston-harbour-economic-v2", "description": "Portul Kingston este un port comercial important în Jamaica. Un important centru economic.", "facts": ["Port comercial important", "Importanță economică", "Infrastructură portuară", "Comerț internațional"]},
+    {"id": "jm-montego-freeport-economic-v2", "description": "Portul liber Montego este un centru economic în Jamaica. Un important punct comercial.", "facts": ["Port liber", "Zonă comercială", "Importanță economică", "Comerț internațional"]},
+    {"id": "jm-sugar-factory-economic-v2", "description": "Fabrica de zahăr este o unitate de prelucrare în Jamaica. O importantă întreprindere de prelucrare agricolă.", "facts": ["Prelucrare zahăr", "Prelucrare agricolă", "Producție industrială", "Produs de export"]},
+    {"id": "jm-port-esquivel-economic-v2", "description": "Portul Esquivel este un port în Jamaica. Un port comercial.", "facts": ["Port comercial", "Infrastructură portuară", "Zonă comercială", "Trafic de nave"]},
+    {"id": "jm-energy-power-economic-v2", "description": "Centrala electrică este o instalație de generare a curentului în Jamaica. Un important proiect de infrastructură.", "facts": ["Generare de curent", "Unitate de energie", "Centrale", "Infrastructură"]},
+    {"id": "jm-rum-distillery-economic-v2", "description": "Distileria de rom este producție de spirituoase în Jamaica. Un produs de export cunoscut.", "facts": ["Producție de rom", "Distilerie de spirituoase", "Producție alimentară", "Produs de export"]},
+    {"id": "jm-coffee-processor-economic-v2", "description": "Unitatea de prelucrare a cafelei este o întreprindere de prelucrare agricolă în Jamaica. O importantă întreprindere agricolă.", "facts": ["Producție de cafea", "Prelucrare agricolă", "Industrie agricolă", "Produs de export"]},
+    {"id": "jm-port-royal-terminal-economic-v2", "description": "Terminalul Port-Royal este o instalație portuară în Jamaica. Un terminal comercial.", "facts": ["Terminal portuaru", "Port cu containere", "Zonă comercială", "Trafic de nave"]},
+    {"id": "jm-sand-export-economic-v2", "description": "Exportul de nisip este o întreprindere de export de materii prime în Jamaica. O operație de minerit.", "facts": ["Minerit de nisip", "Export de materii prime", "Industrie minieră", "Produs de export"]},
+    {"id": "jm-port-kaiser-economic-v2", "description": "Portul Kaiser este un port în Jamaica. Un port comercial.", "facts": ["Port comercial", "Infrastructură portuară", "Zonă comercială", "Trafic de nave"]},
+    {"id": "jm-fisheries-economic-v2", "description": "Pescuitul este o economie marină în Jamaica. Un important sector economic.", "facts": ["Pescuit", "Economie marină", "Producție alimentară", "Produs de export"]},
+    {"id": "jm-cement-plant-economic-v2", "description": "Fabrica de ciment este un producător de materiale de construcție în Jamaica. O importantă întreprindere industrială.", "facts": ["Producție ciment", "Industrie materiale construcție", "Producție industrială", "Materiale construcție"]},
+    {"id": "jm-lumber-mill-economic-v2", "description": "Gherlingul de tăiat lemn este o unitate de prelucrare a lemnului în Jamaica. O întreprindere de prelucrare forestieră.", "facts": ["Prelucrare lemn", "Ferăstrău cu benzi", "Silvicultu", "Materiale construcție"]},
+    {"id": "jm-poultry-processing-economic-v2", "description": "Prelucrarea păsărilor de curte este o industrie alimentară în Jamaica. O unitate de prelucrare agricolă.", "facts": ["Prelucrare de pasări", "Producție alimentară", "Prelucrare agricolă", "Produs de export"]},
+    {"id": "jm-bottling-plant-economic-v2", "description": "Fabrica de îmbuteliere este un producător de băuturi în Jamaica. O întreprindere de prelucrare.", "facts": ["Îmbuteliere băuturi", "Producție alimentară", "Producție industrială", "Produs de export"]},
+    {"id": "jm-telecom-hub-economic-v2", "description": "Centrul de telecomunicații este un centru de comunicații în Jamaica. Un important proiect de infrastructură.", "facts": ["Telecomunicații", "Centru de comunicații", "Infrastructură IT", "Servicii"]},
+    {"id": "jm-solar-farm-economic-v2", "description": "Ferma solară este o instalație de energie în Jamaica. Un proiect de energie regenerabilă.", "facts": ["Energie solară", "Energie regenerabilă", "Generare curent", "Infrastructură"]},
+    {"id": "seville-la-nueva-ruins-history-v2", "description": "Ruinele Seville la Nueva sunt un sit arheologic în Jamaica. O așezare istorică.", "facts": ["Sit arheologic", "Ruine istorice", "Perioada colonială", "Patrimoniu cultural"]},
+    {"id": "jm-falmouth-cruise-terminal-landmarks-v2", "description": "Terminalul de croazieră Falmouth este o instalație portuară în Jamaica. Un port turistic.", "facts": ["Terminal croazieră", "Instalație portuară", "Turism", "Trafic de nave"]},
+    {"id": "bull-head-mountain-nature-v2", "description": "Muntele Bull-Head este o formare naturală în Jamaica. Un punct geografic înalt.", "facts": ["Munte", "Formare naturală", "Caracteristică geografică", "Geografie"]},
+    {"id": "great-morass-nature-v2", "description": "Marele Morass este o zonă de mlaștină în Jamaica. Un ecosistem de importanță.", "facts": ["Zonă de mlaștină", "Biotop umed", "Protecție naturii", "Ecosistem"]}
+  ]
+}

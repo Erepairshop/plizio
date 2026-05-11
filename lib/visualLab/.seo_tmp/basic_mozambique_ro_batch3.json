@@ -1,0 +1,84 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maputo-bay-nature-v2",
+      "description": "Golful Maputo este un mare port natural, adăpostind o faună marină diversă și important pentru pescuitul local.",
+      "facts": ["Port natural", "Faună marină diversă", "Pescuit local"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "Arhipelagul Quirimbas este un parc național format din 32 de insule, cunoscut pentru frumusețea sa virgină și biodiversitatea marină.",
+      "facts": ["Parc național", "32 de insule", "Biodiversitate marină"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "Muntele Romué este un vârf proeminent în provincia Manica, adăpostind o vegetație bogată și specii rare de păsări.",
+      "facts": ["Vârf proeminent", "Provincia Manica", "Specii rare de păsări"]
+    },
+    {
+      "id": "inda-island-nature-v2",
+      "description": "Insula Inda este o mică insulă în largul coastei Mozambicului, renumită pentru plajele sale virgine și recifele de corali vibrante.",
+      "facts": ["Plaje virgine", "Recife de corali", "Insulă costieră"]
+    },
+    {
+      "id": "lake-chiuta-nature-v2",
+      "description": "Lacul Chiuta este un lac de apă dulce superficial la granița cu Malawi, important pentru pescuit și observarea păsărilor.",
+      "facts": ["Lac de apă dulce", "Granița Malawi", "Pescuit și observare păsări"]
+    },
+    {
+      "id": "buzi-river-nature-v2",
+      "description": "Râul Buzi este un râu important în centrul Mozambicului, alimentând pădurile de mangrove extinse și fauna sălbatică.",
+      "facts": ["Râu important", "Centrul Mozambicului", "Păduri de mangrove"]
+    },
+    {
+      "id": "gaza-lake-nature-v2",
+      "description": "Lacul Gaza este un lac de apă dulce în provincia Gaza, servind ca o sursă vitală de apă pentru comunitățile înconjurătoare.",
+      "facts": ["Lac de apă dulce", "Provincia Gaza", "Sursă vitală de apă"]
+    },
+    {
+      "id": "bangue-island-nature-v2",
+      "description": "Insula Bangue face parte din Arhipelagul Bazaruto, cunoscută pentru plajele sale virgine și ca loc de cuibărit pentru broaștele țestoase marine.",
+      "facts": ["Arhipelagul Bazaruto", "Plaje virgine", "Loc de cuibărit"]
+    },
+    {
+      "id": "nampula-forest-nature-v2",
+      "description": "Pădurile Nampula sunt ecosisteme cruciale, adăpostind floră și faună diversă în regiune.",
+      "facts": ["Ecosisteme cruciale", "Nampula", "Floră și faună diversă"]
+    },
+    {
+      "id": "songo-mountain-nature-v2",
+      "description": "Muntele Songo este o elevație proeminentă în provincia Tete, cunoscută pentru bogata sa biodiversitate.",
+      "facts": ["Provincia Tete", "Biodiversitate bogată", "Elevație proeminentă"]
+    },
+    {
+      "id": "lupata-gorge-nature-v2",
+      "description": "Defileul Lupata este o ruptură spectaculoasă a râului Zambezi prin munți, faimoasă pentru frumusețea sa peisagistică.",
+      "facts": ["Râul Zambezi", "Ruptură spectaculoasă", "Frumusețe peisagistică"]
+    },
+    {
+      "id": "macossa-forest-nature-v2",
+      "description": "Pădurea Macossa este o pădure importantă în provincia Manica, adăpostind o floră și faună diversă.",
+      "facts": ["Provincia Manica", "Floră și faună diversă", "Pădure importantă"]
+    },
+    {
+      "id": "massingir-lake-nature-v2",
+      "description": "Lacul Massingir este un mare rezervor alimentat de râul Olifants, important pentru irigații și pescuit.",
+      "facts": ["Mare rezervor", "Râul Olifants", "Irigații și pescuit"]
+    },
+    {
+      "id": "moamba-mountain-nature-v2",
+      "description": "Muntele Moamba din provincia Maputo este cunoscut pentru vegetația sa luxuriantă și avifauna diversă.",
+      "facts": ["Provincia Maputo", "Vegetație luxuriantă", "Avifaună diversă"]
+    },
+    {
+      "id": "savane-lake-nature-v2",
+      "description": "Lacul Savane este un lac de apă dulce în provincia Sofala, servind ca o sursă vitală de apă pentru comunitățile locale.",
+      "facts": ["Lac de apă dulce", "Provincia Sofala", "Sursă vitală de apă"]
+    }
+  ]
+}

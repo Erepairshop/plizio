@@ -1,0 +1,70 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nosy-be-nature-v2",
+      "description": "Insula Nosy Be este renumită pentru biodiversitatea sa marină și terestră, fiind cea mai populară destinație naturală din Madagascar.",
+      "facts": ["Biodiversitate bogată", "Insulă turistică", "Climă tropicală"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Lacul Itasy este o destinație naturală spectaculoasă, formată într-o regiune vulcanică cu peisaje dramatice.",
+      "facts": ["Regiune vulcanică", "Peisaj spectaculos", "Ecosistem acvatic"]
+    },
+    {
+      "id": "andringitra-nature-v2",
+      "description": "Masivul Andringitra oferă un peisaj montan alpin, cu piscuri înalte și văi adânci de o frumusețe sălbatică.",
+      "facts": ["Masiv montan", "Peisaj alpin", "Rezervație naturală"]
+    },
+    {
+      "id": "isalo-nature-v2",
+      "description": "Parcul Național Isalo este faimos pentru formațiunile sale de gresie, canioanele adânci și oazele naturale.",
+      "facts": ["Formațiuni de gresie", "Canioane adânci", "Parc național"]
+    },
+    {
+      "id": "masoala-peninsula-nature-v2",
+      "description": "Peninsula Masoala găzduiește cea mai mare zonă de pădure tropicală umedă din Madagascar, fiind un sanctuar al biodiversității.",
+      "facts": ["Pădure tropicală", "Sanctuar natural", "Diversitate endemică"]
+    },
+    {
+      "id": "lake-tampolo-nature-v2",
+      "description": "Lacul Tampolo este înconjurat de păduri litorale primare, oferind un habitat liniștit și ecologic divers.",
+      "facts": ["Păduri litorale", "Habitat protejat", "Ecosistem lacustru"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "Coasta din jurul Mahajanga este caracterizată de ecosisteme de mangrove și zone de coastă diversificate.",
+      "facts": ["Ecosisteme de mangrove", "Zonă de coastă", "Diversitate biologică"]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "description": "Insula Saint Marie (Nosy Boraha) este un paradis natural, cunoscut pentru migrația balenelor cu cocoașă în apele sale.",
+      "facts": ["Migrația balenelor", "Insulă paradisiacă", "Peisaj tropical"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "Lacul sărat Tsimanampetsotsa este unic pentru fauna sa adaptată la mediul alcalin și peisajele aride din sud.",
+      "facts": ["Lac sărat", "Ecosistem alcalin", "Peisaj arid"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "Arhipelagul Nosy Mitsio oferă ecosisteme marine intacte și peisaje vulcanice deosebite în nordul Madagascarului.",
+      "facts": ["Ecosisteme marine", "Peisaj vulcanic", "Zonă protejată"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Rezervația naturală Nosy Tanikely protejează un ecosistem marin vibrant, ideal pentru scufundări și cercetare.",
+      "facts": ["Rezervație marină", "Biodiversitate coraligenă", "Destinație ecologică"]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "description": "Masivul Manongarivo reprezintă o zonă montană accidentată cu o importanță geologică majoră și un relief impresionant.",
+      "facts": ["Zonă montană", "Importanță geologică", "Relief accidentat"]
+    }
+  ]
+}

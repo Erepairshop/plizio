@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-kourandou-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Kourandou (Mont Kourandou) ist ein bedeutendes Gebirgsmassiv in der Übergangszone zwischen Oberguinea und der Waldregion, gelegen in der Präfektur Kissidougou. Geografisch bildet der Berg einen Teil der nordöstlichen Ausläufer der Dorsale Guinéenne, einer Gebirgskette, die das Rückgrat Westafrikas darstellt. Der Kourandou zeichnet sich durch seine massiven Granit- und Gneisformationen aus, die markant aus der umgebenden Savannen- und Waldlandschaft aufragen. Historisch gesehen war das Massiv ein wichtiger Rückzugsort für lokale Gemeinschaften und diente als natürliche Festung während regionaler Konflikte. Die Topografie ist geprägt durch steile Hänge und tief eingeschnittene Erosionstäler, die eine Vielzahl von Quellen beherbergen. Diese Wasserressourcen sind für die Landwirtschaft im Umland, insbesondere für den Reisanbau in den Tälern, von existenzieller Bedeutung. Wirtschaftlich spielt der Berg eine Rolle durch den kleinräumigen Bergbau und das Sammeln von Nichtholzprodukten in den bewaldeten Zonen. Ökologisch fungiert der Mount Kourandou als biologische Brücke zwischen den feuchten Regenwäldern des Südens und den trockeneren Savannen des Nordens, was zu einer hohen Artenvielfalt führt. Für Besucher bietet das Massiv anspruchsvolle Trekkingmöglichkeiten und von den Gipfeln aus weite Ausblicke über die Ebenen von Kissidougou.",
+        "hu": "A Kourandou-hegy (Mont Kourandou) egy jelentős hegytömb Felső-Guinea és az Erdős-Guinea régió találkozásánál, Kissidougou prefektúrában. Földrajzilag a hegy a Guineai-hátság (Dorsale Guinéenne) északkeleti nyúlványainak része, amely Nyugat-Afrika egyik meghatározó orográfiai vonulata. A Kourandou-t masszív gránit- és gneiszformációk jellemzik, amelyek markánsan emelkednek ki a környező szavannás és erdős tájból. Történelmileg a masszívum fontos menedékhelyként szolgált a helyi közösségek számára, természetes erődként funkcionálva a regionális konfliktusok idején. A domborzatot meredek lejtők és mély eróziós völgyek határozzák meg, amelyek számos forrásnak adnak otthont. Ezek a vízkészletek létfontosságúak a környező mezőgazdaság, különösen a völgyalji rizstermesztés számára. Gazdaságilag a hegy a kisléptékű bányászat és az erdős zónákban folytatott gyűjtögető életmód révén bír jelentőséggel. Ökológiai szempontból a Kourandou-hegy biológiai hídként működik a déli párás esőerdők és az északi szárazabb szavannák között, ami rendkívül gazdag fajdiverzitást eredményez. A látogatók számára a hegytömb embert próbáló túraútvonalakat és a csúcsokról nyíló, Kissidougou síkságaira néző tágas panorámát kínál.",
+        "ro": "Muntele Kourandou (Mont Kourandou) este un masiv muntos semnificativ situat în zona de tranziție între Guineea Superioară și regiunea forestieră, în prefectura Kissidougou. Geografic, muntele face parte din ramificațiile nord-estice ale Dorsalei Guineene, lanțul muntos care constituie coloana vertebrală a Africii de Vest. Kourandou se distinge prin formațiunile sale masive de granit și gnais, care se ridică proeminent deasupra peisajului înconjurător de savană și pădure. Din punct de vedere istoric, masivul a reprezentat un loc important de refugiu pentru comunitățile locale, servind drept fortăreață naturală în timpul conflictelor regionale. Topografia este marcată de versanți abrupți și văi de eroziune adânci, care adăpostesc o multitudine de izvoare. Aceste resurse hidrice sunt de o importanță existențială pentru agricultura din împrejurimi, în special pentru cultivarea orezului în văi. Economic, muntele joacă un rol prin mineritul la scară mică și colectarea produselor forestiere nelemnoase în zonele împădurite. Ecologic, Muntele Kourandou funcționează ca o punte biologică între pădurile tropicale umede din sud și savanele mai aride din nord, fapt ce determină o biodiversitate ridicată. Pentru vizitatori, masivul oferă oportunități de trekking provocator și, de pe culmile sale, vederi largi asupra câmpiilor din Kissidougou.",
+        "en": "Mount Kourandou (Mont Kourandou) is a prominent mountain massif situated in the transition zone between Upper Guinea and the Forested Guinea region, within the Kissidougou Prefecture. Geographically, the mountain forms part of the northeastern reaches of the Guinea Highlands (Dorsale Guinéenne), the mountain range that acts as the backbone of West Africa. Kourandou is characterized by its massive granite and gneiss formations that rise strikingly above the surrounding savanna and forest landscapes. Historically, the massif served as a vital sanctuary for local communities, acting as a natural fortress during regional conflicts. The topography is defined by steep slopes and deeply incised erosional valleys that host numerous springs. These water resources are of existential importance for agriculture in the surrounding areas, particularly for rice cultivation in the valley bottoms. Economically, the mountain contributes through small-scale mining activities and the gathering of non-timber forest products in the wooded zones. Ecologically, Mount Kourandou functions as a biological bridge between the humid rainforests of the south and the drier savannas of the north, resulting in high species diversity. For visitors, the massif offers challenging trekking opportunities and expansive views from its summits over the plains of Kissidougou."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mount Kourandou ist Teil der Wasserscheide zwischen dem Niger- und dem Makona-Becken.",
+          "Das Massiv besteht aus einigen der ältesten Gesteinsformationen Guineas.",
+          "In den Tälern des Kourandou befinden sich bedeutende Diamanten-Lagerstätten.",
+          "Die Vegetation wechselt abrupt von dichtem Bergwald zu lichter Waldsavanne.",
+          "Der Berg ist ein wichtiger Orientierungspunkt für den regionalen Handel zwischen Kissidougou und Kankan.",
+          "Kourandou beherbergt seltene Greifvogelarten, die in den Felswänden nisten."
+        ],
+        "hu": [
+          "A Kourandou-hegy a Niger és a Makona folyók vízgyűjtőjének határán fekszik.",
+          "A hegytömb alapkőzete a guineai pajzs ősi gránit- és gneiszrétegeiből áll.",
+          "A hegy lábánál fekvő hordalékos területeken jelentős gyémántlelőhelyek találhatók.",
+          "A terület Guinea egyik legfontosabb ökológiai folyosója az észak-déli irányú vándorláshoz.",
+          "A hegycsúcsok magassága eléri az 1100 métert a tengerszint felett.",
+          "A helyi legendák szerint a hegy barlangjai ősi harcosok szellemeit őrzik."
+        ],
+        "ro": [
+          "Muntele Kourandou acționează ca un regulator climatic pentru prefectura Kissidougou.",
+          "Geologia masivului datează din perioada precambriană a scutului african.",
+          "Văile sale sunt renumite pentru solurile aluvionare extrem de fertile.",
+          "Situl este monitorizat pentru protecția speciilor endemice de floră saxicolă.",
+          "Muntele este o destinație emergentă pentru turismul geologic în estul Guineei.",
+          "Numeroase pârâuri care alimentează fluviul Niger își au originea pe pantele sale."
+        ],
+        "en": [
+          "Mount Kourandou is a key feature of the watershed separating the Niger and Makona basins.",
+          "The massif is composed of some of the oldest rock formations found in Guinea.",
+          "Significant artisanal diamond deposits are located within the Kourandou valley systems.",
+          "The vegetation exhibits a sharp contrast between montane forest and open savanna.",
+          "The mountain serves as a primary navigational landmark for the Kissidougou-Kankan trade route.",
+          "It provides a unique nesting habitat for several species of rare West African raptors."
+        ]
+      }
+    },
+    {
+      "id": "dalaba-plateau-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Dalaba-Plateau ist eine der markantesten und klimatisch angenehmsten Hochlandregionen Guineas, gelegen im zentralen Fouta-Djallon-Massiv. Geografisch erstreckt sich dieses Sandsteinplateau auf einer durchschnittlichen Höhe von etwa 1.000 bis 1.200 Metern über dem Meeresspiegel. Es zeichnet sich durch eine wellige Topografie aus, die durch tiefe Schluchten, schroffe Klippen und sanfte Täler unterbrochen wird. Das Klima auf dem Plateau ist für westafrikanische Verhältnisse außergewöhnlich mild und oft von Nebel geprägt, was ihm den Beinamen 'Schweiz Afrikas' eingebracht hat. Historisch wurde das Plateau von der französischen Kolonialverwaltung als Erholungsort und Sanatorium genutzt, was die Architektur der Stadt Dalaba nachhaltig prägte. Wirtschaftlich ist die Region ein Zentrum für den Gartenbau, insbesondere für den Anbau von Erdbeeren, Äpfeln und Gemüse, sowie für die Viehzucht der Peul-Pásztoren. Ökologisch ist das Dalaba-Plateau ein wichtiger Wasserspeicher, der zahlreiche Flüsse speist und eine spezialisierte Flora beherbergt, darunter eingeführte Pinienwälder und einheimische Berggräser. Für Besucher bietet das Relief des Plateaus spektakuläre Aussichtspunkte wie den 'Pont de Dieu' und zahlreiche Wasserfälle, die die geologische Dynamik der Region veranschaulichen. Es ist ein Ort von großer natürlicher Harmonie und strategischer Bedeutung für die Biodiversität des Hochlandes.",
+        "hu": "A Dalaba-fennsík Guinea egyik legjellegzetesebb és legkellemesebb éghajlatú hegyvidéki területe, amely a központi Fouta Djallon-masszívumban található. Földrajzilag ez a homokkő fennsík átlagosan 1000–1200 méteres tengerszint feletti magasságban terül el. Domborzatát hullámos felszín jellemzi, amelyet mély szurdokok, meredek sziklafalak és lágyabb völgyek tagolnak. A fennsík klímája nyugat-afrikai viszonylatban rendkívül enyhe, gyakran ködös, ami miatt „Afrika Svájcaként” is emlegetik. Történelmileg a területet a francia gyarmati adminisztráció üdülőhelyként és szanatóriumként használta, ami meghatározta Dalaba városának építészeti arculatát. Gazdaságilag a régió a kertészet központja, ahol epret, almát és zöldségeket termesztenek, valamint a fula pásztorok állattenyésztése is jelentős. Ökológiai szempontból a Dalaba-fennsík fontos víztározó, amely számos folyót táplál, és különleges flórának ad otthont, beleértve a betelepített fenyőerdőket és az őshonos hegyi füveket. A látogatók számára a fennsík olyan látványos kilátópontokat kínál, mint az „Isten hídja” (Pont de Dieu) és számos vízesés, amelyek a régió geológiai erejét mutatják be. Ez a vidék a természeti harmónia és a felföldi biodiverzitás egyik legfontosabb bástyája.",
+        "ro": "Podișul Dalaba este una dintre cele mai distinctive și plăcute din punct de vedere climatic regiuni montane din Guineea, situată în masivul central Fouta Djallon. Geografic, acest platou de gresie se întinde la o altitudine medie de aproximativ 1.000 până la 1.200 de metri deasupra nivelului mării. Se caracterizează printr-o topografie ondulată, întreruptă de canioane adânci, faleze abrupte și văi domoale. Climatul de pe podiș este excepțional de blând pentru standardele vest-africane și adesea marcat de ceață, ceea ce i-a atras supranumele de „Elveția Africii”. Istoric, podișul a fost utilizat de administrația colonială franceză ca loc de odihnă și sanatoriu, fapt care a influențat durabil arhitectura orașului Dalaba. Din punct de vedere economic, regiunea este un centru pentru horticultură, în special pentru cultivarea căpșunilor, merelor și legumelor, precum și pentru creșterea vitelor de către păstorii Fula. Ecologic, Podișul Dalaba este un rezervor de apă important, alimentând numeroase râuri și adăpostind o floră specializată, inclusiv păduri de pini introduse și ierburi montane native. Pentru vizitatori, relieful podișului oferă puncte de observație spectaculoase, precum „Pont de Dieu” și numeroase cascade care ilustrează dinamica geologică a regiunii.",
+        "en": "The Dalaba Plateau is one of Guinea's most distinctive and climatically pleasant highland regions, located in the central Fouta Djallon massif. Geographically, this sandstone plateau sits at an average elevation of 1,000 to 1,200 meters above sea level. It is characterized by a rolling topography, broken by deep canyons, sheer cliffs, and gentle valleys. The climate on the plateau is exceptionally mild by West African standards and frequently misty, earning it the nickname 'Switzerland of Africa.' Historically, the plateau was used by the French colonial administration as a retreat and sanatorium, which significantly influenced the architecture of the town of Dalaba. Economically, the region is a hub for market gardening, specifically the cultivation of strawberries, apples, and vegetables, as well as livestock rearing by Peul pastoralists. Ecologically, the Dalaba Plateau serves as a vital water catchment area feeding numerous rivers and hosts specialized flora, including introduced pine forests and indigenous montane grasses. For visitors, the plateau's relief offers spectacular viewpoints such as 'Pont de Dieu' and numerous waterfalls that showcase the region's geological dynamism. It is a place of great natural harmony and strategic importance for highland biodiversity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Plateau liegt auf einer durchschnittlichen Höhe von 1.200 Metern.",
+          "Es beherbergt den 'Pont de Dieu', eine natürliche Steinbrücke.",
+          "Dalaba hat das kühlste Klima aller Regionen Guineas.",
+          "Das Relief ist durch markante Sandsteinformationen aus dem Paläozoikum geprägt.",
+          "Das Plateau ist ein wichtiges Zentrum für die Gewinnung von Chinin aus Cinchona-Bäumen.",
+          "Zahlreiche Flüsse, die in den Atlantik münden, entspringen auf diesem Plateau."
+        ],
+        "hu": [
+          "A fennsík átlagmagassága 1200 méter, ami Guinea egyik legmagasabb lakott területe.",
+          "Itt található az 'Isten hídja' nevű természetes sziklaképződmény.",
+          "A fennsík éghajlata ideális a mérsékelt égövi gyümölcsök termesztéséhez.",
+          "A domborzatot mély, függőleges falú kanyonok tagolják.",
+          "A terület a Fouta Djallon vízválasztó rendszerének központi eleme.",
+          "A fennsíkon található fenyőerdőket a talajerózió megállítására telepítették."
+        ],
+        "ro": [
+          "Podișul Dalaba este renumit pentru aerul său curat și proprietățile terapeutice.",
+          "Relieful tabular favorizează formarea unor cascade de mare înălțime, precum Ditinn.",
+          "Gresia de Dalaba este utilizată local ca material de construcție nobil.",
+          "Platoul reprezintă un nod de biodiversitate pentru speciile de păsări montane.",
+          "Este una dintre puținele zone din Guineea unde se poate observa fenomenul de îngheț la sol.",
+          "Infrastructura turistică de pe podiș datează parțial din anii 1930."
+        ],
+        "en": [
+          "The plateau stands at an average elevation of 1,200 meters, unique in West Africa.",
+          "It features the 'Pont de Dieu', a massive natural arch carved in sandstone.",
+          "Dalaba records the lowest average annual temperatures in the Republic of Guinea.",
+          "The terrain is composed of ancient Paleozoic sedimentary rock layers.",
+          "The plateau is a leading regional producer of high-altitude specialized crops.",
+          "It acts as a strategic moisture trap, receiving high levels of orographic rainfall."
+        ]
+      }
+    },
+    {
+      "id": "mali-plateau-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Mali-Plateau (Plateau de Mali) ist die höchstgelegene und am weitesten nördlich gelegene Hochlandregion Guineas, im Herzen der Präfektur Mali. Geografisch markiert dieses Plateau den Gipfel des Fouta-Djallon-Massivs und erreicht Höhen von über 1.400 Metern. Das Relief ist geprägt durch extrem schroffe Klippen, weite, karge Hochflächen und spektakuläre Erosionsformen, von denen der Mount Loura die bekannteste ist. Die Topografie des Mali-Plateaus bietet einen weiten Blick über die Grenze zum Senegal und nach Guinea-Bissau. Das Klima hier oben ist eines der kältesten des Landes, wobei während der Harmattan-Saison die Temperaturen nachts stark abfallen können. Historisch war das Plateau ein natürliches Bollwerk und ein Ort der Abgeschiedenheit für die Peul-Aristokratie. Wirtschaftlich ist die Region für ihren Gartenbau (insbesondere Kartoffeln und Zwiebeln) und die extensive Rinderzucht von Bedeutung. Ökologisch beherbergt das Mali-Plateau eine einzigartige afro-alpine Flora, die an die harten Wind- und Temperaturbedingungen angepasst ist. Für Besucher ist das Plateau ein Ort von wilder, fast mystischer Schönheit, an dem die Erosion über Jahrmillionen hinweg faszinierende Skulpturen aus dem Sandstein geformt hat. Es stellt das 'Dach Guineas' dar und ist ein unverzichtbares Ziel für Trekking- und Naturbegeisterte.",
+        "hu": "A Mali-fennsík (Plateau de Mali) Guinea legmagasabban fekvő és legészakibb hegyvidéki régiója, a Mali prefektúra szívében. Földrajzilag ez a fennsík jelenti a Fouta Djallon-masszívum tetőpontját, tengerszint feletti magassága meghaladja az 1400 métert. Domborzatát rendkívül meredek sziklafalak, tágas, kopár fennsíkok és látványos eróziós formák jellemzik, amelyek közül a Loura-hegy a legismertebb. A Mali-fennsík panorámája messze benyúlik Szenegál és Bissau-Guinea területére is. Az éghajlat itt az egyik leghidegebb az országban; a harmattan idején az éjszakai hőmérséklet drasztikusan lecsökkenhet. Történelmileg a fennsík természetes erődítményként és az elszigeteltséget kereső fula arisztokrácia szállásterületeként szolgált. Gazdaságilag a régió a hegyi kertészet (különösen a burgonya- és hagymatermesztés) és a külterjes szarvasmarha-tartás miatt jelentős. Ökológiai szempontból a Mali-fennsík egyedülálló afro-alpin flórának ad otthont, amely alkalmazkodott a zord szélhez és a hőmérsékleti ingadozásokhoz. A látogatók számára a fennsík vad, szinte misztikus szépséget áraszt, ahol az erózió évmilliók alatt lenyűgöző szobrokat faragott a homokkőből. Ez a terület Guinea „teteje”, a túrázók és a természet szerelmeseinek egyik legfontosabb célpontja.",
+        "ro": "Podișul Mali (Plateau de Mali) este regiunea montană situată la cea mai mare altitudine și cea mai nordică din Guineea, în inima prefecturii Mali. Geografic, acest podiș marchează punctul culminant al masivului Fouta Djallon, atingând înălțimi de peste 1.400 de metri. Relieful este caracterizat prin faleze extrem de abrupte, suprafețe înalte vaste și aride, și forme spectaculoase de eroziune, dintre care Muntele Loura este cea mai cunoscută. Topografia Podișului Mali oferă vederi largi peste frontiera cu Senegalul și spre Guinea-Bissau. Climatul de aici este unul dintre cele mai reci din țară, temperaturile nocturne scăzând brusc în timpul sezonului Harmattan. Istoric, podișul a fost un bastion natural și un loc de izolare pentru aristocrația Fula. Din punct de vedere economic, regiunea este importantă pentru horticultura montană (în special cartofi și ceapă) și pentru creșterea extensivă a bovinelor. Ecologic, Podișul Mali adăpostește o floră afro-alpină unică, adaptată la condițiile dure de vânt și temperatură. Pentru vizitatori, podișul este un loc de o frumusețe sălbatică, aproape mistică, unde eroziunea a sculptat de-a lungul milioanelor de ani sculpturi fascinante în gresie. Reprezintă „acoperișul Guineei” și este o destinație indispensabilă pentru pasionații de trekking.",
+        "en": "The Mali Plateau (Plateau de Mali) is the highest and northernmost highland region in Guinea, located in the heart of the Mali Prefecture. Geographically, this plateau marks the summit of the Fouta Djallon massif, reaching altitudes of over 1,400 meters. The relief is defined by extremely rugged cliffs, vast, arid high surfaces, and spectacular erosional forms, with Mount Loura being the most famous among them. The topography of the Mali Plateau offers sweeping views across the border into Senegal and toward Guinea-Bissau. The climate here is among the coldest in the country; during the Harmattan season, nighttime temperatures can drop significantly. Historically, the plateau served as a natural stronghold and a place of seclusion for the Peul aristocracy. Economically, the region is significant for its montane market gardening (notably potatoes and onions) and extensive cattle ranching. Ecologically, the Mali Plateau hosts a unique afro-alpine flora adapted to harsh wind and temperature conditions. For visitors, the plateau exudes a wild, almost mystical beauty, where millions of years of erosion have carved fascinating sculptures out of the sandstone. It represents the 'roof of Guinea' and is a primary destination for trekking and nature enthusiasts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Mali-Plateau ist mit über 1.400 m das höchste Plateau Guineas.",
+          "Es beherbergt den Mount Loura (1.515 m), den höchsten Punkt des Fouta Djallon.",
+          "Das Relief ermöglicht an klaren Tagen Fernsichten von über 100 Kilometern.",
+          "Die Erosion hat hier Formen wie die 'Dame du Mali' geschaffen.",
+          "Das Plateau ist ein primäres Quellgebiet für die nördlichen Zuflüsse des Senegal-Flusses.",
+          "Hier herrscht ein sub-alpines Klima mit signifikanten Temperaturschwankungen."
+        ],
+        "hu": [
+          "A Mali-fennsík Guinea legmagasabb északnyugati pontja.",
+          "A területen található a Loura-hegy, amely 1515 méterével a hegység csúcsa.",
+          "A fennsík geológiája főként homokkőből és kvarcitból áll.",
+          "Ez a vidék Guinea legfontosabb hagymatermelő övezete.",
+          "A hegyi legelőkön élnek az ország legellenállóbb N'Dama marhái.",
+          "A fennsíkról ered a Gambia-folyó több fontos mellékága is."
+        ],
+        "ro": [
+          "Podișul Mali este considerat 'Siberia Guineei' din cauza temperaturilor scăzute.",
+          "Relieful tabular este fragmentat de falii adânci ce crează canioane spectaculoase.",
+          "Este o zonă de importanță strategică pentru cercetările meteorologice naționale.",
+          "Flora include specii endemice de ierburi de altitudine rezistente la secetă.",
+          "Accesul pe podiș se face prin drumuri montane sinuoase cu pante abrupte.",
+          "Situl este un reper major în turismul de aventură din Africa de Vest."
+        ],
+        "en": [
+          "The Mali Plateau is the highest-altitude inhabited region in the Republic of Guinea.",
+          "It features the highest peak of the Fouta Djallon massif, Mount Loura.",
+          "The plateau's terrain is a classic example of inverted relief and erosion.",
+          "It serves as the northernmost headwater basin for the Senegal River system.",
+          "The region is locally famous for its high-quality mountain honey and dairy.",
+          "Nighttime temperatures on the plateau are the lowest recorded in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "tinkisso-basin-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Tinkisso-Becken (Bassin du Tinkisso) ist eine großräumige hydrogeografische Senke in Zentral- und Nordostguinea, die das Relief der Region maßgeblich prägt. Geografisch erstreckt sich das Becken über die Präfekturen Dabola, Dinguiraye und Siguiri und wird durch den Tinkisso-Fluss, einen Hauptnebenfluss des Niger, entwässert. Das Relief des Beckens ist durch weite, sanft abfallende Ebenen gekennzeichnet, die von einzelnen Laterit-Hügeln (Bowal) und Granit-Inselbergen unterbrochen werden. Diese Senke bildet eine wichtige Übergangszone zwischen dem Hochland des Fouta Djallon und der weiten Savanne Oberguineas. Historisch gesehen war das Tinkisso-Becken ein strategischer Korridor für Handelskarawanen und die Ausbreitung religiöser Bewegungen im 19. Jahrhundert. Wirtschaftlich ist das Becken die Lebensader für die regionale Landwirtschaft, insbesondere für den großflächigen Reisanbau und die Viehzucht. Zudem beherbergt der Untergrund des Beckens bedeutende Goldvorkommen, die sowohl industriell als auch handwerklich abgebaut werden. Ökologisch bietet das Tinkisso-Becken ein Mosaik aus Feuchtsavannen und Galeriewäldern, die wichtige Rückzugsräume für die Fauna darstellen. Für Besucher zeigt das Relief des Beckens die weite und offene Landschaft Zentralguineas, geprägt durch den glitzernden Lauf des Flusses und die typische rötliche Erde der Savanne.",
+        "hu": "A Tinkisso-medence (Bassin du Tinkisso) egy tágas vízrajzi és földrajzi mélyedés Guinea középső és északkeleti részén, amely alapvetően meghatározza a régió domborzatát. Földrajzilag a medence Dabola, Dinguiraye és Siguiri prefektúrák területén húzódik keresztül, fő lefolyása a Tinkisso-folyó, amely a Niger egyik legfontosabb mellékfolyója. A medence domborzatát tágas, enyhén lejtő síkságok jellemzik, amelyeket elszórt laterit-dombok (bowal) és gránit-szigethegyek törnek meg. Ez a mélyedés fontos átmeneti zónát képez a Fouta Djallon-hegység és Felső-Guinea végtelen szavannái között. Történelmileg a Tinkisso-medence stratégiai folyosó volt a kereskedelmi karavánok és a 19. századi vallási mozgalmak terjedése számára. Gazdaságilag a medence a régió mezőgazdaságának éltető eleme, különösen a nagyüzemi rizstermesztés és az állattenyésztés terén. Emellett a medence alapkőzete jelentős aranykészleteket rejt, amelyeket mind ipari, mind hagyományos módszerekkel kitermelnek. Ökológiai szempontból a Tinkisso-medence nedves szavannák és galériaerdők mozaikjából áll, amelyek fontos menedéket nyújtanak a vadvilág számára. A látogatók számára a medence domborzata Közép-Guinea tágas és nyílt tájait mutatja be, ahol a folyó csillogó szalagja és a szavanna jellegzetes vörös földje dominál.",
+        "ro": "Bazinul Tinkisso (Bassin du Tinkisso) este o depresiune hidrogeografică vastă situată în centrul și nord-estul Guineei, care modelează semnificativ relieful regiunii. Geografic, bazinul se întinde pe teritoriile prefecturilor Dabola, Dinguiraye și Siguiri, fiind drenat de râul Tinkisso, un afluent major al Nigerului. Relieful bazinului este caracterizat prin câmpii întinse, ușor ondulate, întrerupte de dealuri lateritice izolate (bowal) și martori de eroziune granitici. Această depresiune reprezintă o zonă de tranziție crucială între podișurile înalte Fouta Djallon și savanele vaste din Guineea Superioară. Din punct de vedere istoric, Bazinul Tinkisso a fost un coridor strategic pentru caravanele comerciale și pentru expansiunea mișcărilor religioase în secolul al XIX-lea. Economic, bazinul este artera vitală a agriculturii regionale, în special pentru cultivarea pe scară largă a orezului și pentru zootehnie. În plus, subsolul bazinului adăpostește zăcăminte importante de aur, exploatate atât industrial, cât și artizanal. Ecologic, Bazinul Tinkisso oferă un mozaic de savane umede și păduri-galerie, care constituie habitate esențiale pentru faună. Pentru vizitatori, relieful bazinului dezvăluie peisajul deschis al Guineei centrale, marcat de cursul sinuos al râului și de pământul roșiatic tipic savanei.",
+        "en": "The Tinkisso Basin (Bassin du Tinkisso) is a large-scale hydro-geographic depression in central and northeastern Guinea that significantly shapes the regional relief. Geographically, the basin spans across the Dabola, Dinguiraye, and Siguiri Prefectures and is drained by the Tinkisso River, a major tributary of the Niger. The basin's relief is characterized by broad, gently sloping plains punctuated by isolated laterite hills (bowal) and granitic inselbergs. This depression forms a vital transition zone between the Fouta Djallon highlands and the expansive savannas of Upper Guinea. Historically, the Tinkisso Basin served as a strategic corridor for trade caravans and the spread of religious movements during the 19th century. Economically, the basin is the lifeblood of regional agriculture, particularly for large-scale rice farming and livestock rearing. Additionally, the basin's underlying geology contains significant gold deposits, which are extracted through both industrial and artisanal methods. Ecologically, the Tinkisso Basin offers a mosaic of wet savannas and gallery forests that provide essential refuges for wildlife. For visitors, the basin's relief showcases the vast and open landscapes of central Guinea, defined by the shimmering course of the river and the characteristic reddish soil of the savanna."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Tinkisso-Becken umfasst eine Fläche von mehreren zehntausend Quadratkilometern.",
+          "Der Tinkisso-Fluss bildet im Becken zahlreiche mäandrierende Abschnitte.",
+          "Das Relief ist reich an alluvialen Goldseifen entlang der Flussläufe.",
+          "Das Becken dient als natürliche Entwässerungsrinne des östlichen Fouta Djallon.",
+          "Hier befinden sich einige der fruchtbarsten Schwemmlandböden Guineas.",
+          "Die jährlichen Überschwemmungen im Becken sind entscheidend für den Reisanbau."
+        ],
+        "hu": [
+          "A Tinkisso-medence a Niger-folyó vízgyűjtő rendszerének egyik legfontosabb egysége.",
+          "A medence alján lerakódott hordalék vastagsága helyenként a tíz métert is eléri.",
+          "A domborzatot a szavannai fás növényzet és a nyílt síkságok váltakozása jellemzi.",
+          "A terület Guinea egyik legfontosabb tradicionális aranybányászati övezete.",
+          "A medence központi városa, Dabola, fontos vasúti és közúti csomópont.",
+          "A völgyben kialakult ártéri rétek ideális legelőket biztosítanak a száraz évszakban."
+        ],
+        "ro": [
+          "Bazinul Tinkisso colectează apele de pe versantul estic al masivului Fouta Djallon.",
+          "Relieful este dominat de platouri de tip 'bowal', acoperite cu cruste feruginoase.",
+          "Este o zonă de convergență pentru rutele tradiționale de transhumanță.",
+          "Geologia bazinului include formațiuni sedimentare bogate în minerale.",
+          "Râul Tinkisso formează în bazin zone umede protejate prin convenții internaționale.",
+          "Depresiunea influențează regimul termic regional, fiind mai caldă decât podișul."
+        ],
+        "en": [
+          "The Tinkisso Basin is a primary hydrological component of the Niger River system.",
+          "The basin's relief features extensive floodplains used for flood-recession agriculture.",
+          "It is a world-class geological province for artisanal gold extraction.",
+          "The area acts as a natural buffer zone for water runoff from the highlands.",
+          "The soil composition is a mix of fertile river silt and lateritic gravel.",
+          "The basin's low-lying nature makes it prone to significant seasonal flooding."
+        ]
+      }
+    },
+    {
+      "id": "boke-lowlands-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Boké-Tiefebenen (Basses terres de Boké) sind eine der wirtschaftlich wichtigsten und geologisch markantesten Reliefregionen Guineas, gelegen im Nordwesten des Landes. Geografisch erstrecken sich diese Ebenen von der Atlantikküste bis zu den ersten Ausläufern des Fouta-Djallon-Hochlandes. Das Relief ist durch ein flaches bis leicht welliges Gelände geprägt, das von massiven Laterit-Plateaus unterbrochen wird. Diese Plateaus beherbergen die weltweit größten und qualitativ hochwertigsten Bauxitvorkommen, was die Region zum Zentrum der guineischen Bergbauindustrie macht. Historisch gesehen waren die Tiefebenen von Boké ein wichtiger Kontaktpunkt für den transatlantischen Handel und beherbergen die geschichtsträchtige Stadt Boké am Rio Nuñez. Die Wirtschaft der Region ist fast vollständig auf den Abbau und Export von Aluminiumerz ausgerichtet, ergänzt durch Fischerei und Landwirtschaft in den fruchtbaren Küstenzonen. Ökologisch bilden die Tiefebenen eine Übergangszone zwischen Mangrovensümpfen an der Küste und Baumsavannen im Landesinneren. Das Leben in den Boké-Lowlands ist heute durch den Kontrast zwischen traditionellen Dörfern und massiven industriellen Infrastrukturen wie Eisenbahnen und Häfen geprägt. Für Besucher zeigt das Relief eine Landschaft in Transformation, in der die rote Erde Guineas und die industrielle Dynamik eine einzigartige Symbiose eingehen.",
+        "hu": "A Boké-alföld (Basses terres de Boké) Guinea egyik leggazdaságosabb és geológiailag legmeghatározóbb domborzati régiója, amely az ország északnyugati részén található. Földrajzilag ezek a síkságok az Atlanti-óceán partjától a Fouta Djallon-hegység első nyúlványaiig húzódnak. A domborzatot sík vagy enyhén hullámos terep jellemzi, amelyet hatalmas laterit-fennsíkok szakítanak meg. Ezek a fennsíkok rejtik a világ legnagyobb és legjobb minőségű bauxitkészleteit, ami a régiót a guineai bányászat központjává teszi. Történelmileg a Boké-alföld fontos érintkezési pont volt a transzatlanti kereskedelemben, itt található a nagy múltú Boké városa a Rio Nuñez partján. A régió gazdasága szinte teljes egészében az alumíniumérc kitermelésére és exportjára épül, kiegészülve a tengerparti zónák halászatával és mezőgazdaságával. Ökológiailag az alföld átmeneti zónát képez a parti mangrove-mocsarak és a belső fás szavannák között. A Boké-alföld élete ma a hagyományos falvak és a hatalmas ipari létesítmények – vasutak és kikötők – közötti kontrasztban zajlik. A látogatók számára a táj az átalakuló Guineát mutatja be, ahol a jellegzetes vörös föld és az ipari fejlődés egyedi szimbiózisban él együtt.",
+        "ro": "Câmpiile joase din Boké (Basses terres de Boké) reprezintă una dintre cele mai importante și geologic marcante regiuni de relief din Guineea, situată în nord-vestul țării. Geografic, aceste câmpii se întind de la coasta Atlanticului până la primele contraforturi ale masivului Fouta Djallon. Relieful este caracterizat printr-un teren plat până la ușor ondulat, întrerupt de platouri lateritice masive. Aceste platouri adăpostesc cele mai mari și de cea mai bună calitate zăcăminte de bauxită din lume, transformând regiunea în inima industriei miniere guineene. Din punct de vedere istoric, zonele joase din Boké au fost un punct de contact esențial pentru comerțul transatlantic, găzduind orașul istoric Boké pe malul Rio Nuñez. Economia regiunii este orientată aproape integral către extracția și exportul minereului de aluminiu, completată de pescuit și agricultură în zonele costiere fertile. Ecologic, câmpiile joase formează o zonă de tranziție între mlaștinile de mangrove de la malul mării și savanele arborescente din interior. Viața în zona Boké este marcată astăzi de contrastul dintre satele tradiționale și infrastructurile industriale masive, precum căile ferate miniere și terminalele portuare. Pentru vizitatori, relieful oferă imaginea unui peisaj în plină transformare, unde pământul roșu al Guineei și dinamica industrială coexistă într-o simbioză unică.",
+        "en": "The Boké Lowlands (Basses terres de Boké) comprise one of Guinea's most economically vital and geologically distinct relief regions, located in the northwestern part of the country. Geographically, these plains extend from the Atlantic coast to the first foothills of the Fouta Djallon highlands. The relief is characterized by flat to gently undulating terrain, punctuated by massive laterite plateaus. These plateaus house the world's largest and highest-grade bauxite deposits, making the region the epicenter of Guinea's mining industry. Historically, the Boké Lowlands were a significant contact point for transatlantic trade and are home to the historic town of Boké on the Rio Nuñez. The regional economy is almost entirely centered on the extraction and export of aluminum ore, supplemented by fishing and agriculture in the fertile coastal zones. Ecologically, the lowlands form a transition zone between coastal mangrove swamps and inland wooded savannas. Life in the Boké Lowlands today is defined by the contrast between traditional villages and massive industrial infrastructures, such as heavy-haul railways and export ports. For visitors, the relief showcases a landscape in transformation, where Guinea's signature red soil and industrial dynamism exist in a unique symbiosis."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Boké-Tiefebenen beherbergen über 25 % der weltweiten Bauxitreserven.",
+          "Das Relief wird durch zahlreiche Gezeitenflüsse wie den Rio Nuñez zerschnitten.",
+          "Die Laterit-Plateaus (Bowal) sind oft vollkommen baumlos und mineralreich.",
+          "Die Region liegt auf einer Höhe von 0 bis 200 Metern über dem Meeresspiegel.",
+          "In den Lowlands befinden sich mehrere moderne Bergbau-Eisenbahnlinien.",
+          "Die Küstenebene ist durch weite, sandige Ablagerungen und Alluvialböden geprägt."
+        ],
+        "hu": [
+          "A Boké-alföldön található a világ ismert bauxitkészletének több mint negyede.",
+          "A domborzatot az árapály által befolyásolt mély folyótorkolatok tagolják.",
+          "A laterit-fennsíkok magassága ritkán haladja meg a 300 métert.",
+          "A terület Guinea leggazdagabb ipari régiója a bányászati bevételek alapján.",
+          "Az alföldön épült fel Afrika egyik legfontosabb ércszállító vasúti hálózata.",
+          "A part menti szakaszokon kiterjedt mangrove-ökoszisztémák találhatók."
+        ],
+        "ro": [
+          "Câmpiile Boké reprezintă principala zonă de acumulare a lateritelor bauxitice.",
+          "Relieful a permis construcția celor mai mari terminale maritime din țară.",
+          "Zăcămintele se află la suprafață, facilitând extracția prin cariere deschise.",
+          "Regiunea este traversată de axa logistică vitală Kamsar-Sangarédi.",
+          "Microclimatul este unul dintre cele mai umede și calde din întreaga Guinee.",
+          "Eroziunea fluviomarină modelează continuu linia țărmului în această zonă."
+        ],
+        "en": [
+          "The Boké Lowlands contain more than 25% of the planet's proven bauxite reserves.",
+          "The relief is dissected by major tidal rivers, including the Rio Nuñez and Rio Cogon.",
+          "The flat plateau surfaces (bowé) are ideal for large-scale mechanical mining.",
+          "Altitudes in this region typically range from sea level to about 200 meters.",
+          "The lowlands feature the highest density of heavy-duty industrial rail in West Africa.",
+          "Agricultural activities in the plains focus on rice and oil palm cultivation."
+        ]
+      }
+    }
+  ]
+}

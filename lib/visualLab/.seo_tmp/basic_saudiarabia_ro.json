@@ -1,0 +1,30 @@
+{
+  "lang": "ro",
+  "country": "Saudiarabia",
+  "files": [
+    "lib/visualLab/data/poiExtraSaudiarabiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSaudiarabiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "riyadh-cities-v2",
+      "description": "Riad este capitala și cel mai mare oraș al Arabiei Saudite, situat în inima platoului Najd. Este un centru politic, financiar și administrativ major al regatului.",
+      "facts": ["Capitala Arabiei Saudite", "Centru financiar și politic", "Situat în platoul Najd", "Populație în creștere rapidă"]
+    },
+    {
+      "id": "sakakah-cities-v2",
+      "description": "Sakakah este un oraș istoric situat în nordul Arabiei Saudite, fiind reședința provinciei Al Jawf. Regiunea este renumită pentru livezile de măslini și siturile arheologice vechi.",
+      "facts": ["Reședința provinciei Al Jawf", "Situat în nordul regatului", "Faimos pentru măslini", "Istorie arheologică bogată"]
+    },
+    {
+      "id": "unayzah-cities-v2",
+      "description": "Unayzah este un oraș situat în provincia Al-Qassim, cunoscut pentru rolul său istoric în comerț și agricultură. Este înconjurat de zone fertile și dune de nisip.",
+      "facts": ["Situat în provincia Al-Qassim", "Centru agricol istoric", "Poartă către deșert", "Tradiții comerciale vechi"]
+    },
+    {
+      "id": "jabal-al-nour-landmarks-v2",
+      "description": "Jabal al-Nour, sau „Muntele Luminii”, este un munte situat lângă Mecca, unde se află peștera Hira. Acesta deține o semnificație religioasă profundă pentru lumea musulmană.",
+      "facts": ["Situat lângă Mecca", "Găzduiește peștera Hira", "Importanță religioasă majoră", "Destinație de pelerinaj"]
+    }
+  ]
+}

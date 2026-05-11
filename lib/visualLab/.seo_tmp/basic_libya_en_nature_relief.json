@@ -1,0 +1,125 @@
+{
+  "lang": "en",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "wadi-al-hayat-nature-v2",
+      "description": "Wadi al-Hayat is a region known for its unique desert landscape and hidden oases in the southwestern part of Libya.",
+      "facts": ["Located in southwest Libya", "Desert landscape", "Contains hidden oases"]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "description": "The Gargaf Mountains form a notable geological feature in central Libya, offering a stark desert environment.",
+      "facts": ["Located in central Libya", "Geological feature", "Stark desert environment"]
+    },
+    {
+      "id": "mizdah-plateau-nature-v2",
+      "description": "The Mizdah Plateau is a high-altitude area in northwestern Libya, characterized by its arid climate and sparse vegetation.",
+      "facts": ["Located in northwest Libya", "High-altitude plateau", "Arid climate"]
+    },
+    {
+      "id": "tibesti-foothills-nature-v2",
+      "description": "The foothills of the Tibesti Mountains extend into Libya, providing a rugged landscape near the southern border.",
+      "facts": ["Near southern border", "Rugged terrain", "Tibesti mountain system"]
+    },
+    {
+      "id": "sarir-tanezrouft-nature-v2",
+      "description": "The Sarir Tanezrouft is an extremely arid desert region in the deep south of Libya, known for its vast, flat expanse.",
+      "facts": ["Located in deep south", "Extremely arid", "Vast flat desert"]
+    },
+    {
+      "id": "al-haruj-nature-v2",
+      "description": "Al-Haruj is a massive volcanic field in central Libya, containing numerous basaltic flows and volcanic cones.",
+      "facts": ["Massive volcanic field", "Central Libya", "Basaltic flows and cones"]
+    },
+    {
+      "id": "jebel-aswad-nature-v2",
+      "description": "Jebel Aswad is a mountain range in Libya characterized by its dark, volcanic rock formations.",
+      "facts": ["Mountain range", "Volcanic rock", "Notable dark terrain"]
+    },
+    {
+      "id": "gargaf-desert-nature-v2",
+      "description": "The Gargaf Desert is a barren, sandy region that covers significant portions of the Libyan interior.",
+      "facts": ["Barren desert region", "Interior Libya", "Sandy terrain"]
+    },
+    {
+      "id": "wadi-mathendous-nature-v2",
+      "description": "Wadi Mathendous is famous for its ancient rock carvings located in a deep desert valley in southwestern Libya.",
+      "facts": ["Southwestern Libya", "Ancient rock carvings", "Deep desert valley"]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "description": "The Cyrenaica coast features a Mediterranean climate with rugged cliffs and historic port areas.",
+      "facts": ["Mediterranean coast", "Rugged cliffs", "Historic region"]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "description": "Wadi Farigh is a dry river valley system in northern Libya, historically significant for its geography.",
+      "facts": ["Northern Libya", "Dry river valley", "Geographically significant"]
+    },
+    {
+      "id": "jebel-tarhuna-nature-v2",
+      "description": "Jebel Tarhuna is a mountainous highland area south of Tripoli with a more temperate climate than the surrounding desert.",
+      "facts": ["Highland area", "South of Tripoli", "Temperate climate"]
+    },
+    {
+      "id": "ghat-mountains-nature-v2",
+      "description": "The mountains near Ghat offer dramatic desert scenery and are home to diverse rock formations near the border.",
+      "facts": ["Near Ghat", "Dramatic desert scenery", "Diverse rock formations"]
+    },
+    {
+      "id": "sirte-basin-relief-v2",
+      "description": "The Sirte Basin is a major sedimentary basin in Libya, essential for the country's petroleum industry.",
+      "facts": ["Major sedimentary basin", "Central Libya", "Energy resource area"]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "description": "The relief of Jebel Aswad features a rugged mountainous terrain dominated by volcanic features.",
+      "facts": ["Rugged relief", "Mountainous terrain", "Volcanic composition"]
+    },
+    {
+      "id": "wadi-mathendous-relief-v2",
+      "description": "The relief of Wadi Mathendous consists of deep canyons and valleys carved into the desert landscape.",
+      "facts": ["Deep canyons", "Valley landscape", "Desert erosion features"]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "description": "The relief of Wadi al-Farigh is characterized by low-lying dry river channels and surrounding plateaus.",
+      "facts": ["Dry river channels", "Surrounding plateaus", "Northern relief"]
+    },
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "description": "The Sarir Tanezrouft is characterized by vast, flat desert plains with very little relief.",
+      "facts": ["Vast flat plains", "Low relief", "Southern interior"]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "description": "Gaberoun is a famous salt lake located in the Ubari Sand Sea, set in a depression among high dunes.",
+      "facts": ["Salt lake", "Ubari Sand Sea", "Depression among dunes"]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "description": "The Mandara Lakes form a group of interconnected oases in the Libyan desert with low relief surroundings.",
+      "facts": ["Interconnected oases", "Libyan desert", "Low relief surroundings"]
+    },
+    {
+      "id": "kufra-basin-relief-v2",
+      "description": "The Kufra Basin is a large, flat sedimentary basin in the southeast corner of Libya.",
+      "facts": ["Large sedimentary basin", "Southeast Libya", "Flat relief"]
+    },
+    {
+      "id": "gargaf-desert-relief-v2",
+      "description": "The Gargaf Desert relief features sandy plains punctuated by rocky outcrops and small plateaus.",
+      "facts": ["Sandy plains", "Rocky outcrops", "Small plateaus"]
+    },
+    {
+      "id": "cyrenaica-coast-relief-v2",
+      "description": "The relief along the Cyrenaica coast is dominated by abrupt elevation changes between the Mediterranean and the plateaus.",
+      "facts": ["Coastal elevation", "Abrupt changes", "Plateau transition"]
+    }
+  ]
+}

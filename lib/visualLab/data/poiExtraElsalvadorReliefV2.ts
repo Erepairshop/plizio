@@ -24,7 +24,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Verde is an inactive volcano whose summit crater now hosts a lush cloud forest and diverse wildlife. Designated as a National Park, it is one of El Salvador's most popular hiking destinations, known for its well-maintained trails and pleasantly cool mountain climate. From its lookout points, visitors enjoy the finest views of the neighboring active Izalco Volcano and the massive Ilamatepec. The park's abundance of orchids and hummingbirds enchants nature lovers, while the crisp air provides a refreshing escape from the city. Walking along the volcanic rim feels like journeying through a tropical paradise untouched by modern noise. Geography K7"
     },
     factsAdvanced: {
-      de: ["Höhe: 2.030 Meter.", "Teil des Ilamatepec-Vulkankomplexes.", "Üppige Vegetation im Krater.", "Panoramablick auf Izalco.", "Ein inaktiver Vulkan, der einen Nationalpark beherbergt.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein inaktiver Vulkan, der einen Nationalpark beherbergt.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Legmagasabb pontja 2030 méterrel van a tengerszint felett.", "Utolsó kitörése több mint 25 000 évvel ezelőtt történt.", "Híres az 'orchideák kertjéről' és a gazdag madárvilágáról.", "Része a 'Vulkánok komplexumának' (Complejo de los Volcanes)."],
       ro: ["Are o altitudine de 2.030 de metri deasupra nivelului mării.", "Ultima sa erupție a avut loc acum mai bine de 25.000 de ani.", "Găzduiește o \"Grădină a Orhideelor\" cu specii rare din regiune.", "Face parte din complexul protejat cunoscut sub numele de Los Volcanes."],
       en: ["The highest peak reaches 2,030 meters above sea level.", "Its last eruption occurred more than 25,000 years ago.", "Famous for its specialized 'Orchid Garden' and rich birdlife.", "Forms a critical part of the 'Complex of the Volcanoes' protected area."]
@@ -52,7 +52,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "San Vicente Volcano, also known by its indigenous name Chichontepec, is one of El Salvador's most impressive natural landmarks, dominating the landscape with its twin peaks. Rising above the Jiboa Valley, this giant is the country's second-highest volcano and is visible from across much of central El Salvador. Its slopes are covered in dense forests and high-quality coffee plantations, with a mysterious depression between the peaks marking an ancient crater. At the volcano's base, several hot springs and geological curiosities await adventurous hikers. Its monumental appearance and nearly perfect cones are an inseparable part of the Salvadoran national identity. Geography K8"
     },
     factsAdvanced: {
-      de: ["Höhe: 2.182 Meter.", "Auch Chichontepec genannt.", "Zwei markante Gipfel.", "Sichtbar aus weiten Teilen des Landes.", "Ein beeindruckender Doppelgipfel-Vulkan.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein beeindruckender Doppelgipfel-Vulkan.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Magassága 2182 méter, az ország egyik legmagasabb pontja.", "Két fő csúcsa miatt kapta a 'két mell' (Chichontepec) nevet.", "Geológiailag egy rétegvulkán, jelenleg nyugalmi állapotban.", "Lejtőin fontos kávétermesztő körzetek találhatók."],
       ro: ["Atinge o înălțime de 2.182 de metri, fiind unul dintre cei mai înalți din țară.", "Numele său indigen Chichontepec înseamnă \"Muntele celor doi sâni\".", "Este un stratovulcan care prezintă două conuri vulcanice distincte.", "În jurul său se află numeroase izvoare de apă termală și fumarole."],
       en: ["Reaches an elevation of 2,182 meters, one of the nation's highest points.", "Its indigenous name Chichontepec translates to 'Mountain of Two Breasts'.", "Classified as a stratovolcano, currently in a state of geological slumber.", "The fertile slopes host some of the country's most vital coffee-growing districts."]
@@ -80,7 +80,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro El Águila (Eagle Mountain) is one of the highest and most ecologically vital peaks in the Apaneca-Ilamatepec range, playing a key role in the region's water cycle. Its dense cloud forests provide a haven for rare bird species, including several birds of prey, making it a hotspot for nature photography. The coffee farms nestled on its slopes produce world-class gourmet beans, benefiting from the rich volcanic soil and high altitude. Hikers ascending the peak pass through various vegetation zones, experiencing the incredible diversity of the tropical highlands. On clear days, the summit offers a vista that stretches all the way to the Pacific coastline. Geography K7"
     },
     factsAdvanced: {
-      de: ["Höhe: 2.036 Meter.", "Teil der Sierra de Apaneca.", "Umliegende Kaffeeplantagen.", "Reich an Biodiversität.", "Ein bedeutender Berg in der Apaneca-Ilamatepec Bergkette.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein bedeutender Berg in der Apaneca-Ilamatepec Bergkette.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["2036 méteres magasságával a hegység meghatározó tagja.", "A köderdő és a magaslati növényzet fontos védett területe.", "Az ország egyik legfontosabb biodiverzitási forrópontja.", "Kiváló terület a magaslati kávétermesztésre."],
       ro: ["Are o altitudine maximă de 2.036 de metri.", "Este considerat un \"plămân verde\" esențial pentru vestul țării.", "Regiunea este renumită pentru producția de cafea gourmet premiată internațional.", "Găzduiește o varietate mare de plante epifite și mușchi tropicali."],
       en: ["Standing at 2,036 meters, it is a dominant feature of the western skyline.", "Contains vital protected areas of cloud forest and high-altitude vegetation.", "Considered one of the country's most significant biodiversity hotspots.", "An ideal environment for the cultivation of premium highland coffee."]
@@ -108,7 +108,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "San Miguel Volcano, commonly known as Chaparrastique, is one of El Salvador's most active and iconic volcanoes, rising as a nearly perfect cone above the eastern plains. Frequent emissions of steam and ash serve as constant reminders of the formidable forces active beneath the Earth's crust. Scaling its slopes is a true challenge due to the steep terrain and loose volcanic scree, but the summit provides a matchless perspective on the region. Standing at the crater's rim, one can peer into the vast caldera and sense the raw power of the geological landscape. It is the pride of eastern El Salvador and a symbol of nature's constant transformation. Geography K8"
     },
     factsAdvanced: {
-      de: ["Höhe: 2.130 Meter.", "Auch San Miguel Vulkan genannt.", "Regelmäßige Aktivität.", "Sehr steiler Kegel.", "Ein sehr aktiver und formschöner Vulkan im Osten.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein sehr aktiver und formschöner Vulkan im Osten.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Magassága 2130 méter, szabályos rétegvulkán formájú.", "Az ország egyik leggyakrabban kitörő vulkánja.", "A kráter átmérője körülbelül 800 méter.", "Nevének jelentése lenca nyelven 'Hegyi források helye'."],
       ro: ["Înălțimea sa este de 2.130 de metri deasupra nivelului mării.", "Craterul central are un diametru impresionant de aproximativ 800 de metri.", "Numele său în limba Lenca înseamnă \"Locul izvoarelor din munte\".", "Este unul dintre cei mai monitorizați vulcani din țară datorită activității sale."],
       en: ["Rising to 2,130 meters, it features a classic stratovolcano silhouette.", "Ranked as one of the most frequently erupting volcanoes in the country.", "The central crater has a massive diameter of approximately 800 meters.", "Its name in the Lenca language translates to 'Place of Mountain Springs'."]
@@ -136,7 +136,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro de Oro (Hill of Gold) is a picturesque hill on the shores of Lake Ilopango, noted for its volcanic origin and distinct shape. Local legends claim hidden treasures are buried within the hill, but its true value lies in the spectacular panoramic views of the vast lake and surrounding mountains. Dense tropical forests cover the slopes, offering cool shade for hikers fleeing the heat of the lakeshore. The area's silence and proximity to nature make it an ideal spot for meditation and recreation. The contrast between the deep blue waters of the lake and the lush greenery of the hill creates an unforgettable visual experience. Geography K6"
     },
     factsAdvanced: {
-      de: ["Vulkanischer Ursprung.", "Blick über den Ilopango-See.", "Umgeben von Wäldern.", "Lokales Wanderziel.", "Ein markanter Hügel nahe dem Ilopango-See.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein markanter Hügel nahe dem Ilopango-See.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Az Ilopango-kaldera egyik vulkáni dómja.", "Népszerű célpont a csónakos kirándulók körében.", "Gazdag madárvilágnak és apróvadaknak ad otthont.", "A tó vízszintjének ingadozása befolyásolja a megközelíthetőségét."],
       ro: ["Reprezintă un dom vulcanic format în interiorul calderei Ilopango.", "Este o destinație favorită pentru excursiile cu barca pe lacul Ilopango.", "Oferă habitate protejate pentru diverse specii de păsări acvatice.", "Numele său se traduce prin \"Muntele de Aur\", inspirat de legendele locale."],
       en: ["Represents a volcanic dome formed within the massive Ilopango caldera.", "A favorite destination for visitors taking boat excursions across the lake.", "Home to a rich variety of birdlife and small mammals in the forest.", "Its accessibility is significantly influenced by seasonal fluctuations in the lake's water level."]
@@ -164,7 +164,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "The Apaneca Range is the primary highland region of western El Salvador, a volcanic chain that dictates the local climate and economy. The range conceals several extinct volcanoes and stunning crater lakes, such as Laguna Verde, which are highly popular with nature enthusiasts. This is the 'Coffee Heart' of the nation, where cool temperatures and rich soil produce El Salvador's world-famous coffee beans. Picturesque colonial towns and traditional villages dot the landscape, preserving centuries of heritage. Roads winding along the ridges offer fantastic vistas overlooking the valleys and the distant Pacific horizon. Geography K7"
     },
     factsAdvanced: {
-      de: ["Vulkanisches Hochland.", "Kühleres Klima.", "Zentrum des Kaffeeanbaus.", "Zahlreiche Kraterseen.", "Eine Bergkette, die für ihre Vulkan landscapes bekannt ist.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Eine Bergkette, die für ihre Vulkan landscapes bekannt ist.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Több mint 20 vulkáni kúpból és kráterből áll.", "Itt található El Salvador legmagasabban fekvő városa, Apaneca.", "A régió a biológiai folyosók egyik kulcsfontosságú eleme.", "Híres a különleges mikroklímájáról és a köderdőiről."],
       ro: ["Lanțul muntos cuprinde peste 20 de conuri și cratere vulcanice.", "Aici se află orașul Apaneca, unul dintre cele mai înalte din țară.", "Regiunea este parte integrantă a Rezervației Biosferei Apaneca-Llamatepec.", "Este renumită pentru microclimatul său umed și pădurile de conifere."],
       en: ["Composed of more than 20 individual volcanic cones and craters.", "Home to Apaneca, the highest city in all of El Salvador.", "The region is a key component of Central American biological corridors.", "Famed for its unique microclimates and pristine high-altitude cloud forests."]
@@ -176,10 +176,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.65, 13.82],
     name: { de: "Cerro Cucurucho", hu: "Cerro Cucurucho", ro: "Cerro Cucurucho", en: "Cerro Cucurucho" },
-    description: { de: "Ein Gipfel im Ilamatepec-Komplex.", hu: "Csúcs az Ilamatepec-komplexumban.", ro: "Un vârf în complexul Ilamatepec.", en: "A peak in the Ilamatepec complex." },
+    description: { de: "Ein Gipfel im Ilamatepec-Komplex.", hu: "San Salvador közelében emelkedő hegycsúcs, amely fontos kávétermelő terület és népszerű kirándulóhely a túrázók körében.", ro: "Un vârf în complexul Ilamatepec.", en: "A peak in the Ilamatepec complex." },
     facts: {
       de: ["Teil der Santa Ana-Vulkangruppe.", "Wandergebiet.", "Bewaldeter Gipfel.", "Region mit hoher Feuchtigkeit."],
-      hu: ["A Santa Ana-vulkáncsoport része.", "Túraövezet.", "Erdős csúcs.", "Magas páratartalmú régió."],
+      hu: ["Panorámás kilátás a völgyre", "Kávéültetvények az oldalában", "Változatos erdei ösvények"],
       ro: ["Parte a grupului vulcanic Santa Ana.", "Zonă de drumeții.", "Vârf împădurit.", "Regiune cu umiditate ridicată."],
       en: ["Part of the Santa Ana volcano group.", "Hiking area.", "Forested peak.", "High humidity region."]
     },
@@ -192,7 +192,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Cucurucho is a lesser-known but fascinating peak within the Ilamatepec complex, located in close proximity to the Santa Ana Volcano. Covered in dense forest, its high constant humidity creates a perfect environment for giant ferns and thick mosses. Trails to the summit are adventurous and often enveloped in mist, lending a mysterious aura to the journey. When the clouds part, the peak offers a unique perspective on the massive volcanic craters and the shimmering surface of Lake Coatepeque. It serves as an island of tranquility and untouched nature in the shadow of more famous volcanic attractions. Geography K7"
     },
     factsAdvanced: {
-      de: ["Teil der Santa Ana-Vulkangruppe.", "Wandergebiet.", "Bewaldeter Gipfel.", "Region mit hoher Feuchtigkeit.", "Ein Gipfel im Ilamatepec-Komplex.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Gipfel im Ilamatepec-Komplex.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["A Santa Ana-vulkán masszívumához tartozó másodlagos csúcs.", "Jelentős szerepet játszott a környék csapadékvizeinek felfogásában.", "Népszerű a botanikusok és a madármegfigyelők körében.", "A túraútvonalak nehézsége közepesnek mondható."],
       ro: ["Face parte din masivul vulcanic Santa Ana, cel mai mare din țară.", "Joacă un rol vital în captarea apei din precipitații pentru regiune.", "Este o zonă de mare interes pentru botaniști datorită speciilor rare de plante.", "Traseele de acces au un grad de dificultate mediu, fiind ideale pentru exploratori."],
       en: ["Acts as a secondary peak within the massive Santa Ana volcanic massif.", "Plays a vital role in capturing rainfall to replenish regional aquifers.", "Highly valued by botanists for its diverse and rare tropical plant life.", "The hiking trails are considered moderate in difficulty, suitable for experienced explorers."]
@@ -204,10 +204,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.05, 13.69],
     name: { de: "Cerro Las Pavas", hu: "Cerro Las Pavas", ro: "Cerro Las Pavas", en: "Cerro Las Pavas" },
-    description: { de: "Ein Aussichtspunkt über das Tal.", hu: "Kilátópont a völgy felett.", ro: "Un punct de observație deasupra văii.", en: "A viewpoint overlooking the valley." },
+    description: { de: "Ein Aussichtspunkt über das Tal.", hu: "Cojutepeque mellett található domb, amely vallási jelentőségéről és a tetején elhelyezett Fatima szűz kegyhelyéről nevezetes.", ro: "Un punct de observație deasupra văii.", en: "A viewpoint overlooking the valley." },
     facts: {
       de: ["Bekannt für die Marienstatue.", "Blick auf Cojutepeque.", "Hügeliges Gelände.", "Beliebt bei Touristen."],
-      hu: ["A Szűz Mária-szoborról ismert.", "Kilátás Cojutepeque-re.", "Dombos terep.", "Népszerű a turisták körében."],
+      hu: ["Jelentős vallási zarándokhely", "Kilátás az Ilopango-tóra", "Fenyő- és cipruselegyes erdő"],
       ro: ["Cunoscut pentru statuia Fecioarei Maria.", "Vedere spre Cojutepeque.", "Teren deluros.", "Popular printre turiști."],
       en: ["Known for the statue of the Virgin Mary.", "Views of Cojutepeque.", "Hilly terrain.", "Popular tourist destination."]
     },
@@ -220,7 +220,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Las Pavas, rising next to the city of Cojutepeque, is both a stunning natural viewpoint and a major religious pilgrimage site. At the summit, a celebrated statue of the Virgin Mary draws thousands of faithful visitors each year for prayer and spiritual reflection. The mountain offers a magnificent 360-degree panorama of Lake Ilopango, San Vicente Volcano, and the central valleys. Well-developed walkways and rest areas make it an ideal family destination where the crisp air and scenic beauty provide total relaxation. The mountain's name, 'Las Pavas,' refers to the wild turkeys that once inhabited this lush area in great numbers. History K6"
     },
     factsAdvanced: {
-      de: ["Bekannt für die Marienstatue.", "Blick auf Cojutepeque.", "Hügeliges Gelände.", "Beliebt bei Touristen.", "Ein Aussichtspunkt über das Tal.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Aussichtspunkt über das Tal.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Magassága körülbelül 1000 méter, könnyen megközelíthető.", "Híres a Fátimai Szűz Mária kegyhelyéről.", "Évente májusban tartják a legnagyobb zarándoklatot.", "Cojutepeque városának legfőbb turisztikai vonzereje."],
       ro: ["Are o altitudine de aproximativ 1.000 de metri deasupra nivelului mării.", "Găzduiește sanctuarul Fecioarei de Fatima, un loc religios important.", "Cel mai mare pelerinaj anual are loc în luna mai a fiecărui an.", "Reprezintă principala atracție turistică a orașului Cojutepeque."],
       en: ["Standing at roughly 1,000 meters, it is very accessible to travelers.", "Home to the renowned Sanctuary of Our Lady of Fatima.", "Hosts its largest annual religious pilgrimage every month of May.", "Serves as the primary tourist and cultural landmark for the city of Cojutepeque."]
@@ -232,10 +232,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.50, 13.50],
     name: { de: "Sierra de Tecapa", hu: "Tecapa-hegység", ro: "Munții Tecapa", en: "Tecapa Range" },
-    description: { de: "Ein Vulkan-Bergland mit heißen Quellen.", hu: "Vulkáni hegyvidék hőforrásokkal.", ro: "Un munte vulcanic cu izvoare termale.", en: "A volcanic mountain area with hot springs." },
+    description: { de: "Ein Vulkan-Bergland mit heißen Quellen.", hu: "Usulután megyében húzódó hegyvonulat, amelynek szívében a Tecapa-vulkán és a smaragdzöld Alegría-lagúna található.", ro: "Un munte vulcanic cu izvoare termale.", en: "A volcanic mountain area with hot springs." },
     facts: {
       de: ["Vulkan Tecapa.", "Heiße Quellen (Alegria).", "Bewaldet.", "Geothermisches Gebiet."],
-      hu: ["Tecapa-vulkán.", "Hőforrások (Alegria).", "Erdős.", "Geotermikus terület."],
+      hu: ["Vulkáni krátertó a közelben", "Termékeny kávétermesztő vidék", "Kellemes, hűvös éghajlat"],
       ro: ["Vulcanul Tecapa.", "Izvoare termale (Alegria).", "Împădurit.", "Zonă geotermală."],
       en: ["Tecapa Volcano.", "Hot springs (Alegria).", "Forested.", "Geothermal area."]
     },
@@ -248,7 +248,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "The Tecapa Range is the jewel of Usulután department, a volcanic chain home to the stunning Laguna de Alegría in its crater. Lush vegetation and expansive coffee plantations cover the range, where the air is consistently fresh and cool. Signs of volcanic activity remain visible through active steam vents and natural hot springs famed for their medicinal properties. The town of Alegría, perched on its slopes, is celebrated for its flower gardens and welcoming residents. Ridge trails provide breathtaking views that encompass the Pacific coastline and silhouettes of distant volcanic peaks. Geography K7"
     },
     factsAdvanced: {
-      de: ["Vulkan Tecapa.", "Heiße Quellen (Alegria).", "Bewaldet.", "Geothermisches Gebiet.", "Ein Vulkan-Bergland mit heißen Quellen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Vulkan-Bergland mit heißen Quellen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Központi eleme a Tecapa-vulkán (1593 m).", "A Laguna de Alegría kénes vizeiről és türkiz színéről híres.", "Az ország egyik legfontosabb geotermikus energiatermelő vidéke.", "Gabriela Mistral költőnő 'Amerika ékszerének' nevezte a környeket."],
       ro: ["Punctul cel mai înalt este vulcanul Tecapa, cu o altitudine de 1.593 metri.", "Laguna de Alegría a fost numită \"Smaraldul Americii\" de poeta Gabriela Mistral.", "Este o zonă importantă pentru producerea de energie geotermală în țară.", "Regiunea este faimoasă pentru cafeaua cultivată la umbră și pentru biodiversitate."],
       en: ["The central feature is Tecapa Volcano, reaching 1,593 meters.", "Laguna de Alegría is world-famous for its turquoise, mineral-rich waters.", "One of El Salvador's primary regions for geothermal energy production.", "Poet Gabriela Mistral famously dubbed the area 'The Emerald of America'."]
@@ -260,10 +260,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.20, 13.49],
     name: { de: "Cerro El Baúl", hu: "Cerro El Baúl", ro: "Cerro El Baúl", en: "Cerro El Baul" },
-    description: { de: "Ein markanter Hügel in San Miguel.", hu: "Jellegzetes domb San Miguelben.", ro: "Un deal distinctiv în San Miguel.", en: "A distinct hill in San Miguel." },
+    description: { de: "Ein markanter Hügel in San Miguel.", hu: "Santa Ana megye egyik jellegzetes magaslata, amely a környező mezőgazdasági síkságok fölé emelkedik.", ro: "Un deal distinctiv în San Miguel.", en: "A distinct hill in San Miguel." },
     facts: {
       de: ["Überblick über San Miguel.", "Kurze Wanderung.", "Trockene Vegetation.", "Stadtnahes Erholungsgebiet."],
-      hu: ["Kilátás San Miguelre.", "Rövid túra.", "Száraz növényzet.", "Városközeli pihenőövezet."],
+      hu: ["Mezőgazdasági területek övezik", "Vulkáni eredetű kőzet", "Természetes kilátópont"],
       ro: ["Vedere asupra orașului San Miguel.", "Drumeție scurtă.", "Vegetație uscată.", "Zonă de recreere lângă oraș."],
       en: ["Overview of San Miguel.", "Short hike.", "Dry vegetation.", "Urban recreational area."]
     },
@@ -276,7 +276,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro El Baúl, overlooking the city of San Miguel, is a popular recreational area providing an escape from urban heat for local residents. The hill is relatively easy to climb, and its summit offers excellent views of the city and the majestic Chaparrastique Volcano. Vegetation here is typical of a dry tropical climate, yet the shade of trees and summit breezes make for a pleasant excursion. Many visitors arrive in the evenings to witness stunning sunsets and the city's twinkling lights in silence. It serves as a vital green space for the community, utilized for both sports and quiet relaxation. Economics K6"
     },
     factsAdvanced: {
-      de: ["Überblick über San Miguel.", "Kurze Wanderung.", "Trockene Vegetation.", "Stadtnahes Erholungsgebiet.", "Ein markanter Hügel in San Miguel.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein markanter Hügel in San Miguel.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Közvetlenül San Miguel városa mellett található.", "A túraútvonalak alkalmasak kezdőknek és családoknak is.", "A csúcsról 360 fokos panoráma nyílik a keleti régióra.", "Fontos zöld sziget a sűrűn lakott völgyben."],
       ro: ["Este situat în imediata apropiere a orașului San Miguel.", "Traseele de drumeție sunt potrivite pentru începători și familii.", "Oferă o panoramă de 360 de grade asupra regiunii estice a țării.", "Reprezintă o insulă verde importantă întro zonă dens populată."],
       en: ["Located directly on the outskirts of San Miguel city.", "Hiking trails are well-suited for beginners and families with children.", "The summit provides a complete 360-degree panorama of the eastern region.", "Acts as a critical 'green island' within a densely populated valley."]
@@ -288,10 +288,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.35, 13.85],
     name: { de: "Cerro Quilama", hu: "Cerro Quilama", ro: "Cerro Quilama", en: "Cerro Quilama" },
-    description: { de: "Ein Gipfel im Osten des Landes.", hu: "Csúcs az ország keleti részén.", ro: "Un vârf în partea de est a țării.", en: "A peak in the eastern part of the country." },
+    description: { de: "Ein Gipfel im Osten des Landes.", hu: "La Libertad megyében fekvő hegy, amely a part menti hegylánc része, és gazdag biodiverzitásáról ismert.", ro: "Un vârf în partea de est a țării.", en: "A peak in the eastern part of the country." },
     facts: {
       de: ["Unberührte Natur.", "Wenig frequentiert.", "Trockenwald.", "Gute Aussicht."],
-      hu: ["Érintetlen természet.", "Kevésbé látogatott.", "Száraz erdő.", "Jó kilátás."],
+      hu: ["Trópusi száraz erdő", "Változatos madárvilág", "Kávétermesztés a lankákon"],
       ro: ["Natură neatinsă.", "Puțin frecventat.", "Pădure uscată.", "Vedere bună."],
       en: ["Untouched nature.", "Low traffic.", "Dry forest.", "Good views."]
     },
@@ -304,7 +304,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Quilama is a pristine natural treasure in eastern El Salvador where wilderness and silence prevail. Situated far from major tourist routes, it has preserved its native flora and fauna for adventurous explorers. The combination of dry tropical forests and rocky outcrops provides varied habitats for indigenous species. Climbing the hill makes one feel like a true pioneer, as paths are sometimes hidden by thick undergrowth. The summit vista overlooking surrounding valleys and the distant horizon delivers a profound sense of solitude and freedom. Geography K7"
     },
     factsAdvanced: {
-      de: ["Unberührte Natur.", "Wenig frequentiert.", "Trockenwald.", "Gute Aussicht.", "Ein Gipfel im Osten des Landes.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Gipfel im Osten des Landes.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Kelet-Salvador kevésbé ismert hegycsúcsai közé tartozik.", "Jelentős száraz trópusi erdőállománnyal rendelkezik.", "Ideális célpont a 'off-the-beaten-path' túrázók számára.", "Fontos élőhelye a helyi ragadozómadaraknak."],
       ro: ["Face parte din vârfurile mai puțin explorate ale regiunii de est.", "Deține o rezervație importantă de pădure tropicală uscată.", "Este o destinație ideală pentru pasionații de drumeții neconvenționale.", "Oferă adăpost pentru diverse specii de păsări de pradă locale."],
       en: ["One of the least documented and visited peaks in the eastern departments.", "Features a significant stands of rare dry tropical forest.", "An ideal destination for dedicated 'off-the-beaten-path' hikers.", "Provides critical nesting territory for local birds of prey."]
@@ -316,10 +316,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.75, 14.15],
     name: { de: "Cerro Coyolito", hu: "Cerro Coyolito", ro: "Cerro Coyolito", en: "Cerro Coyolito" },
-    description: { de: "Ein Berg im Norden El Salvadors.", hu: "Hegy El Salvador északi részén.", ro: "Un munte în nordul El Salvador.", en: "A mountain in the north of El Salvador." },
+    description: { de: "Ein Berg im Norden El Salvadors.", hu: "Chalatenango megyében található hegycsúcs, amelyről lenyűgöző kilátás nyílik a Cerrón Grande-víztározóra.", ro: "Un munte în nordul El Salvador.", en: "A mountain in the north of El Salvador." },
     facts: {
       de: ["Grenznähe.", "Bergige Landschaft.", "Nadelbäume.", "Ideal für Trekking."],
-      hu: ["Határközelség.", "Hegyvidéki táj.", "Tűlevelű fák.", "Ideális túrázásra."],
+      hu: ["Víztározóra nyíló panoráma", "Sziklás, meredek oldalak", "Helyi túraútvonalak"],
       ro: ["Aproape de frontieră.", "Peisaj muntos.", "Conifere.", "Ideal pentru trekking."],
       en: ["Near the border.", "Mountainous landscape.", "Pine trees.", "Ideal for trekking."]
     },
@@ -332,7 +332,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Coyolito is situated in the rugged northern highlands, where the landscape mirrors the lofty peaks of neighboring Honduras. The area is distinct for its pine and oak forests, a rare sight in tropical El Salvador that provides a unique, crisp fragrance. This mountainous terrain is perfect for long trekking expeditions among clear streams and hidden valleys. The profound silence and crystal-clear night skies make it a favorite for amateur astronomers and campers. It is a region of peace where time seems to slow down and nature remains the undisputed master. Geography K7"
     },
     factsAdvanced: {
-      de: ["Grenznähe.", "Bergige Landschaft.", "Nadelbäume.", "Ideal für Trekking.", "Ein Berg im Norden El Salvadors.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Berg im Norden El Salvadors.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Az északi határvidék hegyvonulatainak része.", "A fenyőerdők jelenléte miatt egyedi a flórája.", "Kiváló terület a magaslati túrázásra és kempingezésre.", "A hőmérséklet éjszaka jelentősen lehűlhet."],
       ro: ["Face parte din sistemul muntos de la granița nordică a țării.", "Flora sa este unică datorită prezenței extinse a pădurilor de pini.", "Este o zonă excelentă pentru campare și drumeții la altitudine.", "Temperaturile pe timpul nopții pot scădea semnificativ față de restul țării."],
       en: ["Part of the massive mountain ranges defining the northern frontier.", "Features unique flora due to the extensive presence of high-altitude pines.", "Excellent terrain for sustained highland hiking and wilderness camping.", "Nighttime temperatures can drop significantly compared to the lowlands."]
@@ -344,10 +344,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.45, 13.95],
     name: { de: "Cerro La Pava", hu: "Cerro La Pava", ro: "Cerro La Pava", en: "Cerro La Pava" },
-    description: { de: "Ein Gipfel im Westen.", hu: "Csúcs a nyugati részen.", ro: "Un vârf în partea de vest.", en: "A peak in the west." },
+    description: { de: "Ein Gipfel im Westen.", hu: "Kisebb magaslat a központi régióban, amely nevét a területen egykor gyakori erdei madarakról kapta.", ro: "Un vârf în partea de vest.", en: "A peak in the west." },
     facts: {
       de: ["Teil des Gebirgszuges.", "Wanderwege.", "Kaffeeanbau in der Nähe.", "Schöne Aussichten."],
-      hu: ["A hegylánc része.", "Túraösvények.", "Kávétermesztés a közelben.", "Szép kilátások."],
+      hu: ["Bujon növényzet", "Csendes természeti környezet", "Mezőgazdasági hasznosítás"],
       ro: ["Parte a lanțului muntos.", "Trasee de drumeție.", "Cultivarea cafelei în apropiere.", "Vederi frumoase."],
       en: ["Part of the mountain range.", "Hiking trails.", "Coffee cultivation nearby.", "Beautiful views."]
     },
@@ -360,7 +360,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro La Pava, in western El Salvador, is a prime example of the harmony between agriculture and conservation. Its forested slopes and plantations create a vital biological corridor between larger volcanic national parks. Hiking trails wind through active coffee farms, offering insights into the cultivation process during the trek. The summit view overlooking western valleys and the Santa Ana plateau shifts its character with every season. Extremely rich in birdlife, the mountain's silence is only broken by nature's own soundtrack, offering true rejuvenation to visitors. Geography K6"
     },
     factsAdvanced: {
-      de: ["Teil des Gebirgszuges.", "Wanderwege.", "Kaffeeanbau in der Nähe.", "Schöne Aussichten.", "Ein Gipfel im Westen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Gipfel im Westen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Nyugat-Salvador egyik fontos ökológiai összekötő pontja.", "Számos magántulajdonban lévő természetvédelmi területet érint.", "A kávéturizmus egyik fejlődő központja a régióban.", "Szép kilátást nyújt a szomszédos vulkánok láncolatára."],
       ro: ["Este un punct de legătură ecologică important în vestul El Salvadorului.", "Include mai multe zone de rezervație naturală aflate în proprietate privată.", "Reprezintă un centru în plină dezvoltare pentru turismul axat pe cafea.", "Oferă perspective spectaculoase asupra lanțului vulcanic vecin."],
       en: ["Serves as a crucial ecological connector in western El Salvador.", "Encompasses several privately managed nature reserves and forests.", "A growing hub for specialized coffee-based agrotourism in the region.", "Provides picturesque views of the neighboring volcanic chain peaks."]
@@ -372,10 +372,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.55, 13.45],
     name: { de: "Cerro El Taburete", hu: "Cerro El Taburete", ro: "Cerro El Taburete", en: "Cerro El Taburete" },
-    description: { de: "Ein erloschener Vulkan.", hu: "Kialudt vulkán.", ro: "Un vulcan stins.", en: "An extinct volcano." },
+    description: { de: "Ein erloschener Vulkan.", hu: "Az Usulután-vulkáncsoport tagja, egy kialudt vulkáni kúp, amely fontos ökológiai szerepet tölt be a régióban.", ro: "Un vulcan stins.", en: "An extinct volcano." },
     facts: {
       de: ["Höhe: 1.173 Meter.", "Teil des vulkanischen Bogens.", "Bewaldet.", "Wanderregion."],
-      hu: ["Magassága: 1173 méter.", "A vulkáni ív része.", "Erdős.", "Túraövezet."],
+      hu: ["Vulkáni kúp forma", "Sűrű erdővel borított csúcs", "Természetvédelmi jelentőség"],
       ro: ["Înălțime: 1.173 metri.", "Parte a arcului vulcanic.", "Împădurit.", "Zonă de drumeții."],
       en: ["Elevation: 1,173 meters.", "Part of the volcanic arc.", "Forested.", "Hiking region."]
     },
@@ -388,7 +388,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro El Taburete is an extinct volcanic cone in Usulután department, part of the extensive Central American volcanic arc. Though long dormant, its classic shape and geological structure reveal its fiery past to researchers and curious hikers. Its thick forest cover keeps the air cool and acts as a vital water source for local agricultural lands. Climbing the peak allows one to observe ancient lava flow tracks, now entirely reclaimed by verdant tropical growth. The summit offers a fantastic vista overlooking Jiquilisco Bay and the intricate coastal mangrove systems. Geography K7"
     },
     factsAdvanced: {
-      de: ["Höhe: 1.173 Meter.", "Teil des vulkanischen Bogens.", "Bewaldet.", "Wanderregion.", "Ein erloschener Vulkan.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein erloschener Vulkan.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Magassága 1173 méter, kialudt rétegvulkán.", "A Tecapa-Chinameca vulkáni csoport tagja.", "Fontos helyi ökoszisztéma és vízgyűjtő terület.", "Kedvelt hely a természetközeli túrázás kedvelőinek."],
       ro: ["Are o înălțime de 1.173 de metri și este clasificat ca stratovulcan stins.", "Aparține grupului vulcanic Tecapa-Chinameca din estul țării.", "Este un ecosistem local vital și o zonă importantă de colectare a apei.", "Este o destinație preferată pentru cei care caută drumeții în natură virgină."],
       en: ["Stands at 1,173 meters as a perfectly preserved extinct stratovolcano.", "A member of the eastern Tecapa-Chinameca volcanic cluster.", "Represents a critical local ecosystem and hydrological catchment area.", "A favored location for those seeking immersive, nature-centric hiking."]
@@ -400,10 +400,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.25, 13.75],
     name: { de: "Cerro Cacahuatique", hu: "Cerro Cacahuatique", ro: "Cerro Cacahuatique", en: "Cerro Cacahuatique" },
-    description: { de: "Ein bedeutender Berg in Morazán.", hu: "Fontos hegy Morazánban.", ro: "Un munte important în Morazán.", en: "An important mountain in Morazan." },
+    description: { de: "Ein bedeutender Berg in Morazán.", hu: "Morazán megye legfontosabb hegye, amely távközlési tornyairól és az ország egyik legjobb minőségű kávétermő vidékéről híres.", ro: "Un munte important în Morazán.", en: "An important mountain in Morazan." },
     facts: {
       de: ["Höhe: 1.663 Meter.", "Funkmast am Gipfel.", "Kühles Klima.", "Panoramablick auf Osten."],
-      hu: ["Magassága: 1663 méter.", "Adótorony a csúcson.", "Hűvös klíma.", "Panorámás kilátás keletre."],
+      hu: ["Fontos kommunikációs csomópont", "Kiváló minőségű hegyi kávé", "Közösségi erdészet"],
       ro: ["Înălțime: 1.663 metri.", "Turn de emisie pe vârf.", "Climă răcoroasă.", "Vedere panoramică spre est."],
       en: ["Elevation: 1,663 meters.", "Radio tower on summit.", "Cool climate.", "Panoramic view of the east."]
     },
@@ -416,7 +416,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Cacahuatique is the highest point in Morazán department, a monumental peak that guards the secrets of the northern region. Towering radio masts on its summit are visible for miles, but its true beauty lies in the magnificent cloud forests and resident wildlife. The climate here is surprisingly cool, with the peak frequently veiled in mist, creating a mystical and romantic atmosphere. Natural springs on its flanks supply crystal-clear water to nearby highland villages. Looking east toward Honduras, the view reveals an endless progression of mountain ridges disappearing into the distance. Geography K8"
     },
     factsAdvanced: {
-      de: ["Höhe: 1.663 Meter.", "Funkmast am Gipfel.", "Kühles Klima.", "Panoramablick auf Osten.", "Ein bedeutender Berg in Morazán.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein bedeutender Berg in Morazán.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Magassága 1663 méter, Morazán megye legmagasabb csúcsa.", "Nevének jelentése poton nyelven 'A kakaóültetvények hegye'.", "Fontos telekommunikációs csomópont a régióban.", "Híres a hűvös mikroklímájáról és a gazdag fenyőerdőiről."],
       ro: ["Atinge o altitudine de 1.663 de metri, fiind cel mai înalt vârf din Morazán.", "Numele său în limba Poton înseamnă \"Muntele plantațiilor de cacao\".", "Este un nod de comunicații vital pentru întreaga regiune de nord-est.", "Se remarcă prin microclimatul său răcoros și pădurile bogate de conifere."],
       en: ["Stands at 1,663 meters as the highest peak in the department of Morazán.", "Its name in the Poton language translates to 'Mountain of Cocoa Plantations'.", "Functions as a vital telecommunications hub for the northeastern region.", "Renowned for its distinctive cool microclimate and extensive pine forests."]
@@ -444,7 +444,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "The lowland rainforest of El Imposible National Park is El Salvador's largest and most vital remaining tract of natural primary forest. This rugged wilderness earned its name, 'The Impossible,' from the treacherous terrain that coffee-transporting mule trains once had to navigate at great risk. Today, the park is a sanctuary for biodiversity where pumas, anteaters, and rare bird species find refuge from civilization. Walking among deep gorges, crystal rivers, and sky-high ancient trees, visitors can experience the raw magic of a true tropical wilderness. Guided tours are highly recommended to safely discover the forest's hidden waterfalls and botanical secrets. Geography K7"
     },
     factsAdvanced: {
-      de: ["Hohe Luftfeuchtigkeit.", "Große Baumvielfalt.", "Heimat seltener Tiere.", "Naturschutzgebiet.", "Ein dichtes Waldgebiet im Nationalpark.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein dichtes Waldgebiet im Nationalpark.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["El Salvador leggazdagabb biodiverzitású területe.", "Több mint 500 madárfaj és számos veszélyeztetett emlős otthona.", "Nevét egy 1968-ig használt, rendkívül meredek hágóról kapta.", "A park területe több mint 3800 hektár."],
       ro: ["Este zona cu cea mai bogată biodiversitate din întregul El Salvador.", "Adăpostește peste 500 de specii de păsări și numeroase mamifere pe cale de dispariție.", "Parcul se întinde pe o suprafață de peste 3.800 de hectare protejate.", "Numele provine de la un pas montan extrem de abrupt utilizat până în 1968."],
       en: ["Holds the title for the richest biodiversity in El Salvador.", "Home to over 500 species of birds and numerous endangered mammals.", "Named after a dangerously steep mountain pass used by transporters until 1968.", "The protected park territory covers more than 3,800 hectares of pristine forest."]
@@ -456,10 +456,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.36, 14.43],
     name: { de: "Hochland-Nebelwald", hu: "Magasföldi felhőerdő", ro: "Pădure de ceață montană", en: "Highland Cloud Forest" },
-    description: { de: "Ein feuchter Bergwald auf den Gipfeln.", hu: "Nedves hegyi erdő a csúcsokon.", ro: "O pădure montană umedă pe culmi.", en: "A moist mountain forest on the peaks." },
+    description: { de: "Ein feuchter Bergwald auf den Gipfeln.", hu: "Az El Salvador, Guatemala és Honduras határán fekvő köderdő, amely Közép-Amerika egyik legfontosabb természetvédelmi területe.", ro: "O pădure montană umedă pe culmi.", en: "A moist mountain forest on the peaks." },
     facts: {
       de: ["Konstanter Nebel.", "Moose und Farne.", "Besondere Tierwelt.", "Schutzgebiet."],
-      hu: ["Állandó köd.", "Mohák és páfrányok.", "Különleges vadvilág.", "Védett terület."],
+      hu: ["Három ország határán fekszik", "Ritka köderdő ökoszisztéma", "Veszélyeztetett fajok otthona"],
       ro: ["Ceață constantă.", "Mușchi și ferigi.", "Faună specială.", "Arie protejată."],
       en: ["Constant mist.", "Mosses and ferns.", "Unique wildlife.", "Protected area."]
     },
@@ -472,7 +472,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Montecristo National Park's cloud forest is an enchanting realm permanently shrouded in mist, where the borders of El Salvador, Guatemala, and Honduras converge. At this symbolic 'Triple Point' (Punto Trifinio), humidity remains near 100%, fostering an exuberant growth of giant ferns, mosses, and rare orchids. Hidden among ancient trees are species like the ornamental Quetzal bird and unique spider monkeys. The cool, mystical atmosphere and pristine natural state make Montecristo a premier destination for eco-conscious travelers. Access is strictly regulated to ensure this fragile and invaluable ecosystem is preserved for the future. Geography K7"
     },
     factsAdvanced: {
-      de: ["Konstanter Nebel.", "Moose und Farne.", "Besondere Tierwelt.", "Schutzgebiet.", "Ein feuchter Bergwald auf den Gipfeln.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein feuchter Bergwald auf den Gipfeln.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["A tengerszint feletti magassága eléri a 2418 métert.", "Itt található az ország legidősebb, több száz éves faállománya.", "A park része a nemzetközi Trifinio-Fraternidad bioszféra-rezervátumnak.", "Híres a több mint 200 fajt számláló orchideagyűjteményéről."],
       ro: ["Altitudinea sa maximă atinge 2.418 metri deasupra nivelului mării.", "Găzduiește cele mai vechi exemplare de arbori din țară, unii având sute de ani.", "Face parte din Rezervația Biosferei transfrontaliere Trifinio-Fraternidad.", "Este celebră pentru grădina sa de orhidee care cuprinde peste 200 de specii."],
       en: ["Summit elevations reach an impressive 2,418 meters above sea level.", "Home to the oldest stands of trees in El Salvador, some several centuries old.", "A vital part of the international Trifinio-Fraternidad Biosphere Reserve.", "Renowned for its collection of over 200 distinct species of wild orchids."]
@@ -484,10 +484,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.45, 13.65],
     name: { de: "Cerro Teotepeque", hu: "Cerro Teotepeque", ro: "Cerro Teotepeque", en: "Cerro Teotepeque" },
-    description: { de: "Ein Hügel in Küstennähe.", hu: "Domb a tengerpart közelében.", ro: "Un deal lângă coastă.", en: "A hill near the coast." },
+    description: { de: "Ein Hügel in Küstennähe.", hu: "La Libertad megye hegyvidéki területén emelkedő magaslat, amely a parti hegylánc (Cordillera del Bálsamo) része.", ro: "Un deal lângă coastă.", en: "A hill near the coast." },
     facts: {
       de: ["Blick auf den Pazifik.", "Geringe Höhe.", "Wandergebiet.", "Typisch tropisch."],
-      hu: ["Kilátás a Csendes-óceánra.", "Alacsony magasság.", "Túraövezet.", "Tipikusan trópusi."],
+      hu: ["Kávétermesztésre alkalmas talaj", "Sűrű szubtrópusi vegetáció", "Hűvös hegyi levegő"],
       ro: ["Vedere spre Pacific.", "Altitudine mică.", "Zonă de drumeție.", "Tipic tropical."],
       en: ["Views of the Pacific.", "Low altitude.", "Hiking area.", "Typically tropical."]
     },
@@ -500,7 +500,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Teotepeque is a coastal hill rising near the Pacific Ocean, offering strategic and magnificent views of the surf and coastal plains. Its dense tropical vegetation provides critical nesting sites for marine birds and small mammals, while the area is a favorite for visitors seeking active recreation near the beach. The hike to the summit is relatively brief, though morning starts are advised to avoid the intense tropical heat. From the top, on clear days, one can see coastal reefs and the infinite blue horizon, evoking deep feelings of tranquility. The name originates from the ancient Nahuat language, hinting at the hill's ancestral sacred importance. Geography K5"
     },
     factsAdvanced: {
-      de: ["Blick auf den Pazifik.", "Geringe Höhe.", "Wandergebiet.", "Typisch tropisch.", "Ein Hügel in Küstennähe.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Hügel in Küstennähe.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["A parti hegylánc (Cordillera del Bálsamo) egyik tagja.", "Fontos tájékozódási pont a tengerészek és halászok számára.", "Nevének jelentése pipil nyelven 'Az istenek hegye'.", "Közelsége a szörfparadicsomokhoz népszerű kirándulóhellyé teszi."],
       ro: ["Este unul dintre membrii lanțului muntos de coastă numit Cordillera del Bálsamo.", "Reprezintă un punct de reper vizual important pentru marinarii și pescarii locali.", "Numele său în limba Pipil s-ar traduce prin \"Muntele zeilor\".", "Apropierea de plajele de surf îl face o destinație populară pentru turiști."],
       en: ["A member of the coastal Cordillera del Bálsamo mountain range.", "Serves as a vital visual waypoint for local mariners and fishermen.", "Its name in the Pipil language translates to 'Mountain of the Gods'.", "Its proximity to world-class surf breaks makes it a popular day-trip spot."]
@@ -512,10 +512,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.60, 13.85],
     name: { de: "Cerro Azul", hu: "Cerro Azul", ro: "Cerro Azul", en: "Cerro Azul" },
-    description: { de: "Ein Bergmassiv in der Santa-Ana-Region.", hu: "Hegymasszívum a Santa Ana régióban.", ro: "Un masiv muntos în regiunea Santa Ana.", en: "A mountain massif in the Santa Ana region." },
+    description: { de: "Ein Bergmassiv in der Santa-Ana-Region.", hu: "Santa Ana megyében található kialudt vulkán, amely a Coatepeque-tó környéki vulkáni láncolathoz tartozik.", ro: "Un masiv muntos în regiunea Santa Ana.", en: "A mountain massif in the Santa Ana region." },
     facts: {
       de: ["Teil des Gebirgskomplexes.", "Bewaldet.", "Wanderwege.", "Kühl."],
-      hu: ["A hegykomplexum része.", "Erdős.", "Túraösvények.", "Hűvös."],
+      hu: ["Gazdag vulkáni talaj", "Kávéültetvények övezik", "Védett természeti környezet"],
       ro: ["Parte a complexului muntos.", "Împădurit.", "Trasee de drumeție.", "Răcoros."],
       en: ["Part of the mountain complex.", "Forested.", "Hiking trails.", "Cool."]
     },
@@ -528,7 +528,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Azul (Blue Mountain) is a significant massif within the Santa Ana volcanic region, named for the bluish tint its forested slopes acquire when viewed from afar. The territory is exceptionally rich in natural springs that sustain agriculture in the neighboring valleys. Its highland climate is consistently cool and damp, favoring the growth of exotic ferns and mosses directly on the ancient tree trunks. Hiking trails lead to secluded clearings and viewpoints offering vistas of Lake Coatepeque and nearby craters. Cerro Azul remains a realm of deep natural silence where urban noise fades into a distant memory. Geography K7"
     },
     factsAdvanced: {
-      de: ["Teil des Gebirgskomplexes.", "Bewaldet.", "Wanderwege.", "Kühl.", "Ein Bergmassiv in der Santa-Ana-Region.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Bergmassiv in der Santa-Ana-Region.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["A Los Volcanes Nemzeti Park közvetlen szomszédságában fekszik.", "Fontos biológiai folyosó az Ilamatepec-vulkán irányába.", "Híres a sűrű, szinte áthatolhatatlan köderdőiről.", "Kedvelt helyszín a természetfotósok és túrázók körében."],
       ro: ["Se află în imediata vecinătate a Parcului Național Los Volcanes.", "Este un coridor biologic esențial pentru fauna care migrează spre vulcanul Ilamatepec.", "Se remarcă prin pădurile sale de ceață extrem de dense și greu de pătruns.", "Este un loc preferat pentru fotografii de peisaj și iubitorii de liniște montană."],
       en: ["Situated immediately adjacent to the Los Volcanes National Park.", "Functions as a vital biological corridor toward the Ilamatepec Volcano.", "Famed for its incredibly dense, nearly impenetrable high-altitude cloud forests.", "A highly favored location for dedicated nature photographers and experienced hikers."]
@@ -540,10 +540,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.70, 13.55],
     name: { de: "Cerro El Mico", hu: "Cerro El Mico", ro: "Cerro El Mico", en: "Cerro El Mico" },
-    description: { de: "Ein Gipfel nahe der Küste.", hu: "Csúcs a tengerpart közelében.", ro: "Un vârf aproape de coastă.", en: "A peak near the coast." },
+    description: { de: "Ein Gipfel nahe der Küste.", hu: "Ahuachapán megye hegyes vidékén található domborzati forma, amely fontos szerepet játszik a helyi vízbázis megőrzésében.", ro: "Un vârf aproape de coastă.", en: "A peak near the coast." },
     facts: {
       de: ["In der Nähe von San Vicente.", "Hügelig.", "Trockenwald.", "Gute Aussicht."],
-      hu: ["San Vicente közelében.", "Dombos.", "Száraz erdő.", "Jó kilátás."],
+      hu: ["Vízgyűjtő terület", "Természetes erdőtakaró", "Madármegfigyelő pont"],
       ro: ["Aproape de San Vicente.", "Deluros.", "Pădure uscată.", "Vedere bună."],
       en: ["Near San Vicente.", "Hilly.", "Dry forest.", "Good views."]
     },
@@ -556,7 +556,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro El Mico is a smaller but highly characteristic peak near San Vicente, serving as a landmark in the hilly rural countryside. It is covered primarily in dry tropical forest that turns golden during the dry season and explodes into vibrant green when the rains arrive. Locals frequently visit for weekend excursions to enjoy the sweeping views overlooking the Jiboa River valley. Along the path to the summit, one can observe typical regional flora and a wealth of small bird species. The name (Monkey Hill) refers to the howler monkeys that once inhabited the area in great numbers, though they are now a rarer sight. Geography K6"
     },
     factsAdvanced: {
-      de: ["In der Nähe von San Vicente.", "Hügelig.", "Trockenwald.", "Gute Aussicht.", "Ein Gipfel nahe der Küste.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Gipfel nahe der Küste.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["A Jiboa-völgy egyik jellegzetes domborzati formája.", "Ideális rövid, félnapos kirándulásokhoz San Vicentéből.", "A dombcsúcsról jól látható a San Vicente-vulkán északi oldala.", "Fontos szerepet játszik a helyi öko-turizmus fejlesztésében."],
       ro: ["Reprezintă o formă de relief caracteristică văii râului Jiboa.", "Este o destinație ideală pentru drumeții scurte de jumătate de zi din San Vicente.", "De pe vârf se poate observa clar versantul nordic al vulcanului San Vicente.", "Joacă un rol important în dezvoltarea ecoturismului la nivel local."],
       en: ["A defining topographical feature of the scenic Jiboa Valley landscape.", "Ideal for brief half-day excursions from the city of San Vicente.", "The summit provides an excellent vantage point to see San Vicente Volcano's north face.", "Plays a key role in the expanding local ecotourism sector."]
@@ -568,11 +568,11 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.50, 13.90],
     name: { de: "Cerro El Pilón", hu: "Cerro El Pilón", ro: "Cerro El Pilón", en: "Cerro El Pilon" },
-    description: { de: "Ein Berg im Westen.", hu: "Hegy a nyugati részen.", ro: "Un munte în partea de vest.", en: "A mountain in the west." },
+    description: { de: "Ein Berg im Westen.", hu: "Az Apaneca-Ilamatepec bioszféra rezervátum része Santa Ana megyében, ahol az ország legmagasabb minőségű kávéit termesztik.", ro: "Cerro El Pilón este un vârf montan proeminent ce face parte din lanțul muntos Apaneca-Ilamatepec. Oferă vederi panoramice asupra plantațiilor de cafea și a vulcanilor din jur.", en: "A mountain in the west." },
     facts: {
       de: ["Wandergebiet.", "Bewaldet.", "In der Nähe von Chalchuapa.", "Blick auf Täler."],
-      hu: ["Túraövezet.", "Erdős.", "Chalchuapa közelében.", "Kilátás a völgyekre."],
-      ro: ["Zonă de drumeție.", "Împădurit.", "Aproape de Chalchuapa.", "Vedere peste văi."],
+      hu: ["Magaslati kávétermesztés", "Bioszféra rezervátum része", "Túraútvonalak a csúcsra"],
+      ro: ["Înălțime de aproximativ 2.040 metri", "Situat în vestul țării", "Zonă bogată în biodiversitate", "Parte din Rezervația Biosferei"],
       en: ["Hiking area.", "Forested.", "Near Chalchuapa.", "Views over valleys."]
     },
     
@@ -584,7 +584,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro El Pilón, located near the historic town of Chalchuapa, is a significant feature in the region's cultural and natural landscape. The forests and surrounding valleys were once thriving centers of Mayan civilization, with many archaeological finds uncovered in the vicinity. Climbing the hill allows visitors to enjoy natural beauty while reflecting on the profound history embedded in the soil. The summit panorama encompasses western volcanoes and the plains where ancient city ruins lie hidden. Due to its cooler mountain air and pristine state, it is a highly popular weekend retreat for local residents. History K7"
     },
     factsAdvanced: {
-      de: ["Wandergebiet.", "Bewaldet.", "In der Nähe von Chalchuapa.", "Blick auf Täler.", "Ein Berg im Westen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Berg im Westen.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Chalchuapa történelmi városa felett magasodik.", "A prekolumbán időkben rituális és megfigyelőhelyként is szolgálhatott.", "Gazdag biodiverzitás jellemzi, különösen a hüllővilágát.", "A túraútvonalak átvezetnek régi kávéültetvényeken is."],
       ro: ["Se înalță deasupra orașului istoric Chalchuapa, o zonă cu bogată moștenire mayașă.", "În timpurile precolumbiene, ar fi putut servi ca loc pentru ritualuri și observații.", "Se caracterizează printr-o biodiversitate bogată, în special în ceea ce privește reptilele.", "Traseele de drumeție șerpuiesc prin vechi plantații de cafea abandonate."],
       en: ["Towers directly over the historically significant city of Chalchuapa.", "Likely served as a ritual or astronomical observation site in pre-Columbian times.", "Noted for its high biodiversity, particularly its variety of regional reptiles.", "Network of hiking trails passes through several atmospheric old coffee plantations."]
@@ -596,10 +596,10 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-89.30, 14.35],
     name: { de: "Alotepeque", hu: "Alotepeque", ro: "Alotepeque", en: "Alotepeque" },
-    description: { de: "Eine Bergregion im Norden.", hu: "Hegyvidéki régió északon.", ro: "O regiune muntoasă în nord.", en: "A mountain region in the north." },
+    description: { de: "Eine Bergregion im Norden.", hu: "Chalatenango és Santa Ana megyék határán fekvő vulkáni hegy, amely bányászati múltjáról, különösen ezüstkészleteiről ismert.", ro: "O regiune muntoasă în nord.", en: "A mountain region in the north." },
     facts: {
       de: ["Hohe Lage.", "Kühl.", "Abgelegen.", "Natur pur."],
-      hu: ["Magas fekvés.", "Hűvös.", "Elszigetelt.", "Tiszta természet."],
+      hu: ["Történelmi ezüstbányák", "Vulkáni eredetű masszívum", "Sziklás hegyi terep"],
       ro: ["Altitudine mare.", "Răcoros.", "Izolat.", "Natură pură."],
       en: ["High altitude.", "Cool.", "Remote.", "Pure nature."]
     },
@@ -612,7 +612,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "The Alotepeque Range is one of the wildest and most remote districts in northern El Salvador, showcasing nature in its most untouched state. The region is defined by steep mountainsides, deep canyons, and crystalline mountain streams that tumble over cataracts toward the valleys. Its climate is significantly cooler than the rest of the nation, permitting the growth of temperate-zone plant species. Due to the area's isolation, traditional lifestyles and rural tranquility have been perfectly preserved. For hikers, this territory represents the ultimate adventure, far from modern conveniences in the embrace of pure nature. Geography K8"
     },
     factsAdvanced: {
-      de: ["Hohe Lage.", "Kühl.", "Abgelegen.", "Natur pur.", "Eine Bergregion im Norden.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Eine Bergregion im Norden.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["Észak-Salvador egyik legmagasabb hegylánca.", "Gazdag ásványkincsekben, korábban bányászati tevékenység is folyt itt.", "A fenyő- és tölgyerdők dominálják a tájat.", "Az ország egyik legkevesebb turistát vonzó, legvadregényesebb tája."],
       ro: ["Este unul dintre cele mai înalte lanțuri muntoase din nordul țării.", "Regiunea este bogată în resurse minerale, având un istoric în activitatea minieră.", "Peisajul este dominat de păduri mixte de pin și stejar.", "Este una dintre cele mai puțin vizitate și mai autentice regiuni turistice ale țării."],
       en: ["One of the highest and most rugged mountain chains in northern El Salvador.", "Mineral-rich territory with a historical legacy of small-scale mining operations.", "Pine and oak forests dominate the landscape, unusual for the tropics.", "Remains one of the least visited and most authentic regions in the country."]
@@ -624,11 +624,11 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.90, 13.70],
     name: { de: "Cerro El Coyol", hu: "Cerro El Coyol", ro: "Cerro El Coyol", en: "Cerro El Coyol" },
-    description: { de: "Ein kleiner Berg nahe der Hauptstadt.", hu: "Kis hegy a főváros közelében.", ro: "Un munte mic lângă capitală.", en: "A small mountain near the capital." },
+    description: { de: "Ein kleiner Berg nahe der Hauptstadt.", hu: "A központi régió egyik jellegzetes dombja, amely nevét a területen őshonos coyol pálmáról kapta.", ro: "Cerro El Coyol este o formațiune muntoasă situată în regiunea centrală a statului El Salvador. Zona este caracterizată prin vegetație tropicală și relief accidentat.", en: "A small mountain near the capital." },
     facts: {
       de: ["Kurzer Aufstieg.", "Aussicht.", "Trocken.", "Wochenendziel."],
-      hu: ["Rövid mászás.", "Kilátás.", "Száraz.", "Hétvégi célpont."],
-      ro: ["Urcare scurtă.", "Vedere.", "Uscat.", "Destinație de weekend."],
+      hu: ["Pálmaerdők maradványai", "Mezőgazdasági legelők", "Helyi jelentőségű magaslat"],
+      ro: ["Situat în departamentul Cabañas", "Altitudine medie", "Peisaj rural pitoresc", "Importanță locală pentru agricultură"],
       en: ["Short climb.", "Views.", "Dry.", "Weekend destination."]
     },
     
@@ -640,7 +640,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro El Coyol is a modest peak located just outside San Salvador, serving as a popular destination for city dwellers seeking a natural escape. After a short but steep climb, visitors are greeted with magnificent vistas overlooking the capital and neighboring volcanoes, especially on clear mornings. The mountain features primarily dry tropical flora, which takes on distinct yellowish hues during the height of the dry season. The hill's name refers to the 'coyol,' a local palm species whose fruit was historically utilized by inhabitants. It is an ideal spot for a quick morning workout or a sunset walk in the fresh air. Geography K6"
     },
     factsAdvanced: {
-      de: ["Kurzer Aufstieg.", "Aussicht.", "Trocken.", "Wochenendziel.", "Ein kleiner Berg nahe der Hauptstadt.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein kleiner Berg nahe der Hauptstadt.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["San Salvador északi előterében elhelyezkedő kilátópont.", "A túra a csúcsura általában kevesebb mint egy órát vesz igénybe.", "Népszerű a terepfutók és a hegyi kerékpárosok körében.", "Nevét a területen őshonos coyol pálmáról kapta."],
       ro: ["Este un punct de observație situat în partea de nord a zonei metropolitane.", "Drumeția până în vârf durează de obicei mai puțin de o oră.", "Este o zonă foarte căutată de practicanții de trail running și mountain biking.", "Numele său este inspirat de palmierul coyol, care crește nativ în zonă."],
       en: ["A primary vantage point situated in the northern metropolitan foothills.", "The summit hike typically takes less than an hour for average walkers.", "Highly popular with local trail runners and mountain biking enthusiasts.", "Named after the coyol palm, a plant native to this specific ecosystem."]
@@ -652,11 +652,11 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
     parent: "SV",
     coords: [-88.60, 13.80],
     name: { de: "Cerro Tontol", hu: "Cerro Tontol", ro: "Cerro Tontol", en: "Cerro Tontol" },
-    description: { de: "Ein Gipfel im Zentralgebiet.", hu: "Csúcs a középső régióban.", ro: "Un vârf în regiunea centrală.", en: "A peak in the central region." },
+    description: { de: "Ein Gipfel im Zentralgebiet.", hu: "Chalatenango megye északi, határmenti hegyvidékén található csúcs, amely vadregényes tájaival a természetjárók kedvelt célpontja.", ro: "Cerro Tontol este un vârf muntos situat în departamentul Chalatenango, în apropierea frontierei cu Honduras. Regiunea este cunoscută pentru climatul său mai răcoros și pădurile de pini.", en: "A peak in the central region." },
     facts: {
       de: ["Hügelig.", "Landwirtschaft.", "Grün.", "Gute Wanderwege."],
-      hu: ["Dombos.", "Mezőgazdaság.", "Zöld.", "Jó túraútvonalak."],
-      ro: ["Deluros.", "Agricultură.", "Verde.", "Trasee bune de drumeție."],
+      hu: ["Meredek sziklafalak", "Érintetlen hegyi flóra", "Határmenti panoráma"],
+      ro: ["Situat în nordul El Salvadorului", "Parte din munții Sierra Madre", "Ideal pentru ecoturism", "Climat montan temperat"],
       en: ["Hilly.", "Agriculture.", "Green.", "Good hiking trails."]
     },
     descriptionAdvanced: {
@@ -666,7 +666,7 @@ export const poiExtraElsalvadorReliefV2: POI[] = [
       en: "Cerro Tontol is a welcoming, hilly rise in the country's central region, dotted with green pastures and small agricultural plots. Here, the mountain landscape shows its gentler side, providing ideal terrain for light walks and family picnics. Residents of nearby villages have cultivated these slopes for generations, resulting in a unique, man-made yet nature-focused panorama. The summit view overlooking the central plateau and silhouettes of distant volcanoes offers a calming and harmonious experience. The fresh air and rural silence found here help every visitor release daily stress. Geography K6"
     },
     factsAdvanced: {
-      de: ["Hügelig.", "Landwirtschaft.", "Grün.", "Gute Wanderwege.", "Ein Gipfel im Zentralgebiet.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
+      de: ["Ein Gipfel im Zentralgebiet.", "Liegt in El Salvador, dem kleinsten Staat Mittelamerikas am Pazifik.", "Tropisches Klima mit ausgeprägter Regen- und Trockenzeit prägt die Region.", "Hauptstadt San Salvador ist das politische, wirtschaftliche und kulturelle Zentrum des Landes."],
       hu: ["A központi fennsík és a dombvidék találkozásánál fekszik.", "Jelentős szerepet játszott a helyi állattartásban és földművelésben.", "Könnyen bejárható túraútvonalak hálózzák be.", "Gazdag vadvirág-állomány jellemzi az esős évszakban."],
       ro: ["Se află la intersecția dintre platoul central și regiunea deluroasă a țării.", "A jucat un rol important în istoria locală a creșterii animalelor și a agriculturii.", "Este străbătut de o rețea de trasee de drumeție accesibile oricui.", "Se remarcă prin abundența de flori sălbatice în timpul sezonului ploios."],
       en: ["Situated at the meeting point of the central plateau and the hill country.", "Historically significant for regional livestock farming and agriculture.", "Crisscrossed by a network of easily accessible, gentle hiking trails.", "Noted for its exceptionally rich wildflower displays during the rainy season."]

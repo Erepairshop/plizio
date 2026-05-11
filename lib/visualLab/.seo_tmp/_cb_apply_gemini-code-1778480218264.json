@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fortaleza-amura-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Fortaleza de São José da Amura ist das historische und militärische Herz von Bissau. Die ursprüngliche Befestigung wurde bereits 1696 von den Portugiesen errichtet, um den strategisch wichtigen Hafen am Geba-Ästuar vor rivalisierenden europäischen Mächten und lokalen Widerständen zu schützen. Nach einer Phase des Verfalls und der Zerstörung durch lokale Stämme wurde die Festung ab 1753 unter Gouverneur Raymundo Armas neu aufgebaut. Die heutige Architektur spiegelt die klassische koloniale Verteidigungsbauweise wider, mit massiven Mauern aus lokalem Lateritstein. Im 20. Jahrhundert diente die Anlage als Hauptquartier der Kolonialtruppen während des Unabhängigkeitskrieges. Heute beherbergt sie das Generalstabsquartier der Streitkräfte Guinea-Bissaus. Von herausragender Bedeutung ist das Mausoleum im Inneren der Festung, in dem die sterblichen Überreste von Amílcar Cabral, dem Nationalhelden und intellektuellen Vater der Unabhängigkeit, sowie anderer wichtiger Revolutionäre ruhen. Der Zugang für Besucher ist aufgrund der militärischen Nutzung oft eingeschränkt, doch bleibt das Denkmal das wichtigste Symbol für die staatliche Souveränität des Landes.",
+        "hu": "A Fortaleza de São José da Amura Bissau történelmi és katonai központja, amely a Geba-folyó torkolatánál őrzi a várost. Az erőd eredeti alapjait 1696-ban fektették le a portugálok, hogy megvédjék kereskedelmi állomásaikat a rivális európai hatalmaktól és a helyi törzsek támadásaitól. Miután a 18. század elején az erődítmény romlásnak indult, 1753-ban Raymundo Armas kormányzó irányításával teljesen újjáépítették. Az építmény vöröses laterit kőből készült falai a gyarmati erődépítészet jellegzetességeit mutatják. A 20. századi függetlenségi háború idején a portugál hadsereg parancsnoksága működött itt. A helyszín szakrális jelentőségét növeli, hogy falai között található Amílcar Cabralnak, a nemzet atyjának és a függetlenségi mozgalom vezetőjének mauzóleuma. Az erőd ma is aktív katonai bázisként szolgál, a vezérkar székhelye, így látogatása gyakran engedélyhez kötött. Történelmi jelentősége megkérdőjelezhetetlen, hiszen itt fonódik össze a gyarmati múlt és a modern, független Guinea-Bissau államisága.",
+        "ro": "Fortaleza de São José da Amura reprezintă inima istorică și militară a orașului Bissau, situată strategic la gura de vărsare a râului Geba. Prima fortificație a fost ridicată de portughezi în 1696, având rolul de a proteja interesele comerciale lusitane împotriva atacurilor piraților și ale puterilor coloniale rivale. După o perioadă de abandon, fortul a fost reconstruit începând cu anul 1753 sub comanda guvernatorului Raymundo Armas. Arhitectura actuală este definită de ziduri masive construite din piatră de laterit, specifice stilului defensiv colonial. În timpul războiului de eliberare națională din secolul al XX-lea, fortăreața a servit drept cartier general pentru trupele coloniale portugheze. Astăzi, incinta găzduiește Statul Major al Forțelor Armate din Guineea-Bissau. Un element de o importanță simbolică majoră este mausoleul aflat în interior, unde sunt depuse rămășițele pământești ale lui Amílcar Cabral, liderul revoluționar și părintele independenței țării. Deși este o zonă militară activă, fortăreața rămâne cel mai important monument istoric al capitalei.",
+        "en": "The Fortaleza de São José da Amura stands as the historical and military cornerstone of Bissau, strategically overlooking the Geba River estuary. Originally established by the Portuguese in 1696, the fortification was intended to secure trade routes against rival European powers and local resistance. After falling into ruin, it was extensively rebuilt starting in 1753 under the direction of Governor Raymundo Armas. The fortress features robust walls constructed from local reddish laterite stone, embodying classic colonial military engineering. Throughout the 20th-century struggle for independence, it functioned as the command center for Portuguese colonial forces. Today, the site serves as the headquarters for the Guinea-Bissau Armed Forces. Its most significant interior feature is the mausoleum of Amílcar Cabral, the revolutionary leader and intellectual architect of the nation's independence, whose remains are interred here alongside other national heroes. While public access is often restricted due to its ongoing military function, it remains the preeminent symbol of the country’s transition from a colony to a sovereign state."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Festung wurde ursprünglich 1696 zum Schutz des Sklavenhandels errichtet.",
+          "Der Wiederaufbau im Jahr 1753 erfolgte mit charakteristischem rotem Lateritstein.",
+          "Im Inneren befindet sich das Grab von Amílcar Cabral, dem Gründer der PAIGC.",
+          "Die Anlage dient heute als Hauptquartier der Streitkräfte Guinea-Bissaus.",
+          "Das Denkmal wird auf der 100-Pesos-Banknote der ehemaligen Währung abgebildet.",
+          "Die Festung überstand mehrere Belagerungen durch lokale Königreiche im 19. Jahrhundert."
+        ],
+        "hu": [
+          "Az erődöt 1696-ban építették a portugál rabszolgakereskedelem védelmére.",
+          "1753-ban építették újjá a ma is látható formájára vörös kőzetből.",
+          "Itt található az ország nemzeti hőse, Amílcar Cabral nyughelye.",
+          "Jelenleg a Bissau-guineai fegyveres erők főhadiszállásaként működik.",
+          "Az épület fontos szimbóluma a függetlenségi mozgalom győzelmének.",
+          "Az erőd falai között őrzik a függetlenségi háború több fontos relikviáját."
+        ],
+        "ro": [
+          "Fortăreața a fost construită inițial în 1696 pentru a proteja rutele comerciale.",
+          "Reconstrucția din 1753 a fost realizată folosind piatră de laterit locală.",
+          "Adăpostește mausoleul lui Amílcar Cabral, ucis în 1973 în Conakry.",
+          "Este sediul actual al Statului Major al Armatei din Guineea-Bissau.",
+          "Zidurile fortului au o formă poligonală adaptată terenului mlăștinos din jur.",
+          "Accesul public este limitat din cauza destinației sale militare curente."
+        ],
+        "en": [
+          "The fortress was first established in 1696 to protect Portuguese trade interests.",
+          "It was completely rebuilt in 1753 using local reddish laterite stone.",
+          "It contains the mausoleum of national hero Amílcar Cabral.",
+          "The site currently serves as the Military Headquarters of the nation.",
+          "The fort is a key landmark in Bissau's historic 'Bissau Velho' district.",
+          "It played a central role during the colonial war as a Portuguese stronghold."
+        ]
+      }
+    },
+    {
+      "id": "memorial-pidjiguiti-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Pidjiguiti-Denkmal erinnert an eines der dunkelsten und zugleich folgenreichsten Ereignisse in der Geschichte Guinea-Bissaus: das Massaker von Pidjiguiti am 3. August 1959. An diesem Tag streikten die Hafenarbeiter der Firma Casa Gouveia im Hafen von Bissau für bessere Arbeitsbedingungen und höhere Löhne. Die portugiesische Kolonialpolizei (PIDE) reagierte mit äußerster Gewalt und eröffnete das Feuer auf die unbewaffneten Arbeiter, wobei über 50 Menschen getötet und hunderte verletzt wurden. Dieses Ereignis markierte einen radikalen Wendepunkt im antikolonialen Widerstand. Die PAIGC unter Amílcar Cabral kam zu dem Schluss, dass ein friedlicher Protest gegen das Salazar-Regime nicht ausreichen würde, und entschied sich fortan für den bewaffneten Kampf. Das Denkmal selbst, eine stilisierte große schwarze Faust, die aus dem Boden ragt, symbolisiert die Stärke der Arbeiter und den ungebrochenen Widerstandswillen des Volkes. Es befindet sich direkt am Hafengelände und ist jedes Jahr am 3. August Schauplatz staatlicher Gedenkfeiern. Für die Bürger des Landes ist Pidjiguiti der Geburtsort des nationalen Bewusstseins und der Startpunkt auf dem Weg zur Souveränität.",
+        "hu": "A Pidjiguiti-emlékmű Guinea-Bissau modern történelmének egyik legmeghatározóbb eseményére, az 1959. augusztus 3-i mészárlásra emlékeztet. Ezen a napon a Casa Gouveia kereskedelmi vállalat kikötői munkásai sztrájkba léptek Bissauan, jobb munkakörülményeket és magasabb béreket követelve. A portugál gyarmati rendőrség (PIDE) kíméletlen brutalitással válaszolt, tüzet nyitottak a fegyvertelen tömegre, aminek következtében több mint ötvenen életüket vesztették. Ez a tragédia sorsfordító volt: Amílcar Cabral és a PAIGC vezetése ekkor ismerte fel, hogy a békés politikai út nem vezet eredményre a gyarmatosítók ellen, és megkezdték a felkészülést a fegyveres ellenállásra. Az emlékmű, amely egy hatalmas, fekete, összeszorított ököl az ég felé emelve, a munkásosztály erejét és a nép szabadságvágyát jelképezi. A kikötő bejáratánál található alkotás a mai napig az ország egyik legfontosabb emlékhelye, ahol minden évben nemzeti gyásznapot és megemlékezést tartanak, tisztelegve a függetlenség úttörői előtt.",
+        "ro": "Memorialul Pidjiguiti comemorează un moment de cotitură sângeros în lupta pentru eliberarea Guineei-Bissau: masacrul din 3 august 1959. În acea zi, docherii angajați de compania Casa Gouveia în portul Bissau au declanșat o grevă pentru salarii mai bune și condiții de muncă umane. Autoritățile coloniale portugheze, prin poliția politică PIDE, au reprimat violent protestul, deschizând focul asupra mulțimii și ucigând peste 50 de muncitori în mai puțin de 20 de minute. Acest eveniment tragic a convins conducerea partidului PAIGC, în frunte cu Amílcar Cabral, că negocierile pașnice cu regimul de la Lisabona erau inutile, determinând trecerea la lupta armată pentru independență. Monumentul, reprezentat printr-o mână neagră imensă cu pumnul strâns, este situat chiar în zona portuară și simbolizează rezistența, solidaritatea și forța poporului în fața opresiunii. În fiecare an, la 3 august, locul devine centrul ceremoniilor naționale, fiind considerat punctul de plecare simbolic al conștiinței naționale a țării.",
+        "en": "The Pidjiguiti Memorial commemorates a pivotal and tragic event in the history of Guinea-Bissau: the Pidjiguiti Massacre of August 3, 1959. On this day, dockworkers at the Port of Bissau, employed by the Casa Gouveia company, organized a strike to demand better wages and improved working conditions. The Portuguese colonial police (PIDE) responded with lethal force, opening fire on the unarmed workers and killing over 50 people within minutes. This atrocity served as a catalyst for the independence movement; it convinced Amílcar Cabral and the PAIGC leadership that peaceful protest would never succeed against the colonial administration, leading directly to the decision to pursue an armed struggle. The memorial, featuring a large, stylized black clenched fist rising from the ground, symbolizes the strength of the labor force and the undying spirit of resistance. Located near the entrance to the commercial port, it serves as a solemn reminder of the sacrifices made for sovereignty. Every year on August 3rd, the site hosts national commemorations, marking what is widely regarded as the birth of the nation’s revolutionary consciousness."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Massaker fand am 3. August 1959 im Hafen von Bissau statt.",
+          "Über 50 streikende Hafenarbeiter wurden von der Kolonialpolizei getötet.",
+          "Das Ereignis führte zur Gründung des bewaffneten Arms der PAIGC.",
+          "Das Denkmal stellt eine übergroße, schwarze, geballte Faust dar.",
+          "Der 3. August ist heute ein offizieller nationaler Gedenktag.",
+          "Die Firma Casa Gouveia, bei der der Streik ausbrach, gehörte zum CUF-Konzern."
+        ],
+        "hu": [
+          "A mészárlás 1959. augusztus 3-án történt a bissaui kikötőben.",
+          "A tragédia közvetlen következménye a fegyveres szabadságharc megkezdése volt.",
+          "Az áldozatok száma meghaladta az 50 főt, a sebesülteké a százat.",
+          "Az emlékmű jellegzetes formája egy fekete, égbe emelt ököl.",
+          "Augusztus 3-a Guinea-Bissau egyik legfontosabb nemzeti ünnepnapja.",
+          "Az esemény helyszíne ma is a város kereskedelmi kikötőjének része."
+        ],
+        "ro": [
+          "Masacrul a avut loc pe 3 august 1959 în zona portuară Pidjiguiti.",
+          "Forțele PIDE au deschis focul asupra muncitorilor care cereau salarii mai mari.",
+          "Peste 50 de persoane au fost ucise în timpul represiunii violente.",
+          "Monumentul sub formă de pumn strâns simbolizează rezistența anti-colonială.",
+          "Data de 3 august este declarată Ziua Martirilor în Guineea-Bissau.",
+          "Acest masacru a marcat sfârșitul fazei de proteste pașnice ale PAIGC."
+        ],
+        "en": [
+          "The massacre occurred on August 3, 1959, at the Bissau docks.",
+          "Over 50 striking dockworkers were killed by Portuguese colonial forces.",
+          "The event is considered the primary catalyst for the Guinea-Bissau War of Independence.",
+          "The memorial depicts a large black clenched fist, a symbol of worker solidarity.",
+          "August 3rd is recognized annually as a National Day of Martyrs.",
+          "The site is located at the quay where the actual shooting took place."
+        ]
+      }
+    },
+    {
+      "id": "bissau-cathedral-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kathedrale von Bissau, offiziell Sé Catedral de Nossa Senhora da Candelária, ist das bedeutendste katholische Kirchengebäude in Guinea-Bissau. Der Bau begann im Jahr 1935 auf den Fundamenten einer älteren Kirche aus dem 19. Jahrhundert, wurde jedoch erst 1950 nach mehreren Verzögerungen unter portugiesischer Kolonialherrschaft fertiggestellt. Die Architektur der Kathedrale ist im neoromanischen Stil gehalten, was für die portugiesische Kolonialmoderne dieser Ära typisch ist. Besonders markant sind die zwei massiven quadratischen Türme, die die Fassade flankieren und das Stadtbild von Bissau-Velho dominieren. Das Innere ist vergleichsweise schlicht gehalten, beeindruckt jedoch durch seine klaren Linien und die Ruhe, die es inmitten der geschäftigen Hauptstadt ausstrahlt. Die Kathedrale ist nicht nur ein religiöses Zentrum, sondern auch ein historisches Wahrzeichen, das die jahrhundertelange Präsenz der katholischen Missionen in Westafrika dokumentiert. Sie dient als Sitz des Bistums Bissau und war im Laufe der Jahrzehnte Schauplatz wichtiger zeremonieller Ereignisse, von der Kolonialzeit bis hin zu den Besuchen hoher kirchlicher Würdenträger nach der Unabhängigkeit.",
+        "hu": "A bissaui katedrális, hivatalos nevén Sé Catedral de Nossa Senhora da Candelária, az ország legfontosabb katolikus temploma és a bissaui egyházmegye székhelye. Az építkezés 1935-ben vette kezdetét egy korábbi, 19. századi templom helyén, de a teljes befejezésre csak 1950-ben került sor. Az épület neoromán stílusban épült, amely a portugál gyarmati építészet jellegzetes jegyeit hordozza magán a 20. század közepéről. Két robusztus, négyzet alapú tornya messziről látható, és meghatározza a történelmi városközpont (Bissau Velho) látképét. A templom belseje puritán, mégis méltóságteljes, a modernista vonalvezetés és a hagyományos egyházi elemek ötvözete. A katedrális nemcsak a vallási élet központja, hanem Guinea-Bissau viharos történelmének néma tanúja is: túlélte a polgárháborúkat és a politikai változásokat, miközben folyamatosan a béke és a stabilitás szimbólumaként tekintenek rá. A homlokzaton elhelyezett óra és a torony világítótoronyként is funkcionált korábban a hajósok számára a Geba-folyón.",
+        "ro": "Catedrala din Bissau, cunoscută oficial sub numele de Sé Catedral de Nossa Senhora da Candelária, reprezintă cel mai important lăcaș de cult catolic din Guineea-Bissau. Construcția sa a început în 1935, pe locul unei biserici mai vechi din secolul al XIX-century, fiind finalizată abia în 1950 din cauza dificultăților logistice din perioada colonială. Arhitectura clădirii urmează stilul neoromanic, cu influențe ale modernismului portughez, fiind caracterizată prin cele două turnuri masive, rectangulare, care flanchează intrarea principală. Interiorul este sobru, oferind un spațiu de reculegere vast, cu vitralii simple care permit luminii tropicale să creeze o atmosferă solemnă. Catedrala este sediul Diecezei de Bissau și joacă un rol central în viața socială și spirituală a capitalei. De-a lungul timpului, edificiul a rămas un simbol al continuității, supraviețuind perioadelor de instabilitate politică și conflict armat fără a suferi daune majore. Turnul său a servit în trecut și ca punct de reper pentru navigația pe râul Geba, datorită vizibilității sale sporite dinspre mare.",
+        "en": "The Bissau Cathedral, formally known as the Sé Catedral de Nossa Senhora da Candelária, is the primary Roman Catholic place of worship in Guinea-Bissau. Construction of the current structure began in 1935 on the site of an earlier 19th-century church, but it was not completed until 1950 during the height of Portuguese colonial rule. The cathedral's architecture is a notable example of Neo-Romanesque style adapted to the colonial context, featuring two prominent square towers that dominate the skyline of the historic Bissau Velho district. The interior is characterized by its simplicity and clean architectural lines, providing a stark contrast to the vibrant and chaotic energy of the surrounding capital. As the seat of the Diocese of Bissau, the cathedral has been a central witness to the country's turbulent transition from a colony to an independent nation. Beyond its religious function, the cathedral serves as a historic landmark, housing records and artifacts that reflect the long history of Catholic missions in West Africa. Its towers have historically functioned as a beacon for ships navigating the nearby Geba River."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Bau wurde 1935 begonnen und erst 1950 offiziell eingeweiht.",
+          "Die Kathedrale ist im neoromanischen Stil der portugiesischen Moderne erbaut.",
+          "Sie ist der Sitz des römisch-katholischen Bistums von Bissau.",
+          "Die beiden markanten Türme dienen als Orientierungspunkt für den Hafen.",
+          "In der Kathedrale befindet sich eine Statue der Schutzpatronin Nossa Senhora da Candelária.",
+          "Papst Johannes Paul II. besuchte die Kathedrale während seiner Afrikareise 1990."
+        ],
+        "hu": [
+          "Az építkezés 15 évig tartott, 1935-től 1950-ig.",
+          "A templom stílusa neoromán, erős portugál gyarmati hatásokkal.",
+          "A katedrális tornyai korábban világítótoronyként is segítették a hajózást.",
+          "Ez a bissaui egyházmegye központi temploma.",
+          "A homlokzaton egy nagyméretű mechanikus óra található.",
+          "1990-ben II. János Pál pápa is felkereste az épületet bissaui látogatásakor."
+        ],
+        "ro": [
+          "Construcția catedralei a fost finalizată în anul 1950.",
+          "Arhitectura este neoromanică, tipică perioadei 'Estado Novo' din Portugalia.",
+          "Este principalul reper arhitectural al cartierului istoric Bissau Velho.",
+          "Papa Ioan Paul al II-lea a vizitat catedrala în ianuarie 1990.",
+          "Turnurile sale pătrate sunt unice în peisajul urban al țării.",
+          "Interiorul adăpostește mormintele unor înalți prelați locali."
+        ],
+        "en": [
+          "The cathedral was built over a period of 15 years, concluding in 1950.",
+          "It features a distinct Neo-Romanesque design with twin square towers.",
+          "The building serves as the seat of the Roman Catholic Diocese of Bissau.",
+          "It is located in the historic center, known as Bissau Velho.",
+          "The towers were historically used as a light beacon for the Geba River.",
+          "Pope John Paul II visited this cathedral during his 1990 apostolic journey."
+        ]
+      }
+    },
+    {
+      "id": "cacheu-fort-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Fort von Cacheu ist eines der ältesten europäischen Bauwerke in Subsahara-Afrika und ein Zeugnis der frühen kolonialen Expansion. Es wurde bereits 1588 von den Portugiesen am Ufer des Rio Cacheu errichtet, ursprünglich um den illegalen Handel rivalisierender europäischer Nationen zu unterbinden und die lukrativen Handelsrouten für Sklaven und Elfenbein zu sichern. Das kleine, quadratische Fort mit seinen markanten Eckbastionen wurde im Laufe der Jahrhunderte mehrfach verstärkt und umgebaut. Cacheu war der erste offizielle portugiesische Verwaltungssitz in Guinea und ein zentraler Umschlagplatz des transatlantischen Sklavenhandels, was dem Fort eine düstere historische Bedeutung verleiht. Innerhalb der Mauern befinden sich heute mehrere Bronzestatuen aus der Kolonialzeit, die nach der Unabhängigkeit von ihren ursprünglichen Plätzen in Bissau hierher gebracht wurden, darunter Abbildungen von Entdeckern wie Diogo Cão und Nuno Tristão. Die unmittelbare Nähe zum Fluss und die dichten Mangrovenwälder unterstreichen die isolierte, aber strategische Lage dieses Postens. Heute ist das Fort Teil eines Gedenkkomplexes, der sich kritisch mit der Sklavengeschichte auseinandersetzt und die koloniale Vergangenheit des Landes dokumentiert.",
+        "hu": "A cacheu-i erőd a Szubszaharai-Afrika egyik legrégebbi európai építménye, amely a gyarmati terjeszkedés hajnalán született. A portugálok 1588-ban emelték a Cacheu-folyó partján, elsődleges célja a rivális európai kereskedők távoltartása és az értékes rabszolga-, illetve elefántcsont-kereskedelem ellenőrzése volt. Az erőd kisméretű, négyzet alaprajzú, sarkaiban bástyákkal megerősített építmény, amely az évszázadok során számos ostromot és átalakítást élt meg. Cacheu városa volt Portugál-Guinea első fővárosa és adminisztratív központja, így az erőd a hatalom legfőbb szimbólumaként szolgált. A falak között ma egy különös szabadtéri szoborpark található: ide szállították Bissauból a függetlenség elnyerése után a gyarmati korszak neves alakjainak (például Diogo Cão vagy Teixeira Pinto) bronzszobrait. A helyszín ma már nemcsak katonai emlékhely, hanem a transzatlanti rabszolgakereskedelem elleni küzdelem mementója is. A közelben található rabszolga-emlékmúzeummal együtt a komplexum fontos oktatási központ, amely bemutatja a vidék szenvedéssel teli, de történelmileg meghatározó múltját.",
+        "ro": "Fortul din Cacheu este una dintre cele mai vechi structuri europene din Africa subsahariană, fiind un martor tăcut al primelor etape ale colonialismului. Construit de portughezi în 1588 pe malul râului Cacheu, fortul avea rolul de a proteja avanpostul comercial împotriva incursiunilor altor puteri europene și de a consolida controlul asupra traficului de sclavi. Structura este de dimensiuni reduse, cu un plan patrulater și bastioane la colțuri, fiind consolidată succesiv în secolele al XVII-lea și al XVIII-lea. Orașul Cacheu a servit drept primă capitală administrativă a Guineei Portugheze, transformând fortul în centrul puterii lusitane din regiune. În prezent, curtea interioară a fortului adăpostește o colecție neobișnuită de statui de bronz ale exploratorilor și guvernatorilor portughezi, mutate aici din Bissau după obținerea independenței în 1974. Printre acestea se numără statuile lui Diogo Cão și Nuno Tristão. Monumentul face parte astăzi dintr-un complex muzeal dedicat memoriei sclaviei, oferind o perspectivă profundă asupra impactului comerțului transatlantic asupra popoarelor din Guineea-Bissau.",
+        "en": "The Fort of Cacheu is one of the oldest European structures in sub-Saharan Africa, marking the early stages of Portuguese maritime expansion. Established in 1588 along the banks of the Cacheu River, the fort was primarily built to secure the region's lucrative trade in slaves and ivory and to repel rival European merchants. This compact, quadrilateral fortress features corner bastions and thick defensive walls that have undergone numerous renovations over the centuries. As Cacheu was the first administrative capital of Portuguese Guinea, the fort served as the cornerstone of colonial authority in the region. Today, the courtyard houses a significant collection of bronze statues depicting Portuguese explorers and colonial figures, such as Diogo Cão and Teixeira Pinto, which were relocated here from Bissau after independence. The site has been transformed into a memorial complex that confronts the dark legacy of the transatlantic slave trade. Together with the nearby Memorial Museum of Slavery, the fort stands as a crucial educational landmark, preserving the complex and often painful history of West African colonial encounters."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Fort wurde 1588 errichtet und ist eines der ältesten in Westafrika.",
+          "Cacheu war die erste Hauptstadt von Portugiesisch-Guinea.",
+          "Im Hof stehen Statuen portugiesischer Seefahrer, die aus Bissau entfernt wurden.",
+          "Die Anlage war ein zentraler Knotenpunkt des transatlantischen Sklavenhandels.",
+          "Das Fort hat eine quadratische Grundfläche mit vier Eckbastionen.",
+          "Es befindet sich innerhalb des Cacheu-River-Mangroven-Nationalparks."
+        ],
+        "hu": [
+          "Az erődöt 1588-ban alapították a portugál kereskedelmi utak védelmére.",
+          "Ez volt Portugál-Guinea legelső adminisztratív központja.",
+          "Az udvaron látható Diogo Cão és Nuno Tristão bronzszobra is.",
+          "A 17. században Cacheu volt a régió legnagyobb rabszolgapiaca.",
+          "Az épület vörös kőből és mészből készült, vastag védőfalakkal.",
+          "A helyszín ma a világörökségi várományosi listán is szerepel."
+        ],
+        "ro": [
+          "Fortul a fost ridicat în 1588 pentru a stopa comerțul ilegal al englezilor.",
+          "Cacheu a fost centrul administrativ al coloniei înainte de Bolama și Bissau.",
+          "Adăpostește statui coloniale demontate din capitală după 1974.",
+          "Zidurile fortului au fost martorele plecării a mii de sclavi spre America.",
+          "Este situat pe malul stâng al râului Cacheu, într-o zonă de mangrove.",
+          "Structura actuală păstrează tunurile originale de fontă pe bastioane."
+        ],
+        "en": [
+          "The fort was established in 1588 to protect Portuguese trade monopolies.",
+          "It served as the first official capital of Portuguese Guinea.",
+          "The courtyard contains historic bronze statues relocated after independence.",
+          "Cacheu was a major shipping point for the transatlantic slave trade.",
+          "The fortress features a classic square design with four defensive bastions.",
+          "It is currently part of a cultural project focused on the history of slavery."
+        ]
+      }
+    },
+    {
+      "id": "amilcar-cabral-house-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Geburtshaus von Amílcar Cabral in Bafatá ist eine der bedeutendsten historischen Gedenkstätten Guinea-Bissaus. Amílcar Cabral, der 1924 hier geboren wurde, war der Mitbegründer der PAIGC und der führende Kopf des Befreiungskampfes gegen die portugiesische Kolonialherrschaft. Das Gebäude selbst ist ein einfaches, typisches Kolonialhaus aus der ersten Hälfte des 20. Jahrhunderts, das mit seiner schlichten Architektur und der charakteristischen Veranda das Bild der Kleinstadt Bafatá prägt. Nach der Unabhängigkeit wurde das Haus in ein kleines Museum umgewandelt, das das Leben und Werk dieses außergewöhnlichen Revolutionärs und Agrarwissenschaftlers dokumentiert. Besucher können persönliche Gegenstände, Fotografien und Dokumente besichtigen, die Cabrals Kindheit in Bafatá, seine Ausbildung in Lissabon und seinen späteren Aufstieg zum international geachteten Theoretiker des antikolonialen Widerstands nachzeichnen. Das Haus ist nicht nur ein Ort der persönlichen Biografie, sondern ein Symbol für den intellektuellen Ursprung der guineischen Nation. Trotz seiner Bescheidenheit ist es ein Ziel für politische Pilger aus ganz Afrika und ein Zeugnis für den Mann, dessen Visionen weit über die Grenzen seines Heimatlandes hinausreichten.",
+        "hu": "Amílcar Cabral szülőháza Bafatában a nemzeti emlékezet egyik legfontosabb oszlopa. Itt született 1924-ben a modern Afrika egyik legbefolyásosabb gondolkodója és forradalmára, aki a PAIGC megalapításával elindította Guinea-Bissau és a Zöld-foki-szigetek függetlenségi harcát. Az épület egy egyszerű, földszintes, gyarmati stílusú ház, amely Bafatá történelmi negyedében található. A homlokzatot egy szerény veranda díszíti, amely hűen tükrözi a korszak kisvárosi építészetét. A ház ma múzeumként működik, ahol a látogatók bepillantást nyerhetnek Cabral korai éveibe, családi hátterébe és fejlődésébe, amíg agrármérnökként, majd politikai stratégaként világhírnévre tett szert. A kiállított tárgyak között régi fényképek, levelezések és használati tárgyak szerepelnek, amelyek közelebb hozzák a látogatóhoz a 'nemzet atyjának' emberi oldalát. A múzeum célja, hogy fenntartsa Cabral szellemi örökségét, amely a népi egységen és az önrendelkezésen alapult. Bafatá városa büszke ezen örökségre, és a ház a mai napig az afrikai felszabadítási mozgalmak iránt érdeklődők zarándokhelye.",
+        "ro": "Casa natală a lui Amílcar Cabral din Bafatá este un loc de o importanță istorică și emoțională profundă pentru poporul din Guineea-Bissau. Aici s-a născut în 1924 cel care avea să devină liderul spiritual și politic al luptei pentru independență și cofondator al PAIGC. Clădirea este o construcție colonială modestă, tipică pentru arhitectura urbană a anilor '20, situată în cartierul vechi al orașului Bafatá. După dobândirea suveranității, casa a fost transformată într-un muzeu dedicat memoriei acestui revoluționar și agronom de renume mondial. Expoziția cuprinde obiecte personale, fotografii de epocă și documente care ilustrează primii ani de viață ai lui Cabral, educația sa și evoluția ideologiei sale anti-coloniale. Muzeul nu se concentrează doar pe faptele de arme, ci și pe contribuțiile intelectuale ale lui Cabral la teoria eliberării africane. Vizitarea acestui spațiu oferă o înțelegere clară a rădăcinilor identității naționale guineene. Deși este un muzeu de mici dimensiuni, impactul său simbolic este uriaș, fiind considerat un sanctuar al demnității naționale și un punct obligatoriu de oprire pentru istorici și delegații oficiale.",
+        "en": "The birthplace of Amílcar Cabral in Bafatá is one of the most revered historical sites in Guinea-Bissau. Born here in 1924, Cabral became the principal intellectual and political architect of the independence movement for both Guinea-Bissau and Cape Verde. The house itself is a modest, single-story colonial-style building, characterized by its traditional veranda and simple layout, reflecting the architectural norms of early 20th-century Bafatá. Following independence, the residence was converted into a museum dedicated to preserving the legacy of this world-renowned revolutionary and agronomist. The museum’s collection includes personal artifacts, historical photographs, and documents that trace Cabral’s childhood, his academic journey in Lisbon, and his rise as a global figure of anti-colonial resistance. It serves as a vital educational center where the principles of national unity and self-determination are celebrated. Despite its humble appearance, the house is a site of pilgrimage for those seeking to understand the ideological foundations of the nation. It remains a powerful symbol of the man whose vision for African liberation had a profound impact far beyond the borders of his home country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Amílcar Cabral wurde am 12. September 1924 in diesem Haus geboren.",
+          "Das Haus liegt im historischen Kolonialviertel von Bafatá.",
+          "Es dient heute als Museum für das Leben des Nationalhelden.",
+          "Cabral war nicht nur Revolutionär, sondern auch ein renommierter Agrarwissenschaftler.",
+          "Die Ausstellung enthält seltene Originalmanuskripte seiner Reden.",
+          "Das Gebäude ist ein typisches Beispiel für portugiesische Kleinstadtarchitektur."
+        ],
+        "hu": [
+          "Amílcar Cabral 1924. szeptember 12-én született ebben a házban.",
+          "Az épület Bafatá folyóparti, óvárosi részén található.",
+          "A ház múzeuma Cabral személyes tárgyait és fotóit őrzi.",
+          "A forradalmár apja pedagógusként dolgozott a városban.",
+          "A múzeum az egyik leglátogatottabb kulturális helyszín az ország belsejében.",
+          "Cabral születésnapja ma nemzeti ünnep Guinea-Bissauban."
+        ],
+        "ro": [
+          "Casa a fost transformată în muzeu național după independență.",
+          "Amílcar Cabral este considerat 'Părintele Națiunii' în Guineea-Bissau.",
+          "Arhitectura casei păstrează elementele originale din perioada colonială.",
+          "Muzeul documentează legătura lui Cabral cu orașul său natal, Bafatá.",
+          "Printre exponate se află și instrumente de lucru ale tatălui său, Juvenal Cabral.",
+          "Este un punct de referință pentru mișcările de eliberare din întreaga Africă."
+        ],
+        "en": [
+          "Amílcar Cabral was born in this specific house on September 12, 1924.",
+          "The building is a prime example of early 20th-century colonial architecture.",
+          "It was officially inaugurated as a museum to honor Cabral's life and work.",
+          "The site is located in Bafatá, the second-largest city in the country.",
+          "The museum displays unique documents related to the PAIGC's formation.",
+          "Cabral’s birthday is now celebrated as a national holiday in the country."
+        ]
+      }
+    }
+  ]
+}

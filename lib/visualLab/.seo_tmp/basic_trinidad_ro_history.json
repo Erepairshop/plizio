@@ -1,0 +1,49 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-carenage-fort-history-v2",
+      "description": "Rămășițele unei fortificații istorice din Carenage, reflectând trecutul defensiv al insulei.",
+      "facts": ["Trecut defensiv", "Sit istoric", "Carenage"]
+    },
+    {
+      "id": "tt-trinidad-sugar-mill-history-v2",
+      "description": "Vechea moară de zahăr, un simbol al istoriei agricole și economice a insulei.",
+      "facts": ["Istorie agricolă", "Simbol industrial", "Epoca colonială"]
+    },
+    {
+      "id": "tt-spanishtown-ruins-history-v2",
+      "description": "Ruinele unei vechi așezări spaniole, păstrând urme ale arhitecturii coloniale timpurii.",
+      "facts": ["Arhitectură colonială", "Sit arheologic", "Istoria Spaniei"]
+    },
+    {
+      "id": "tt-plantation-manor-ruins-history-v2",
+      "description": "Resturile unei conace de plantație, martor al erei coloniale și a sistemului agricol de altădată.",
+      "facts": ["Conac de plantație", "Era colonială", "Istoria socială"]
+    },
+    {
+      "id": "tt-military-hospital-ruins-history-v2",
+      "description": "Ruinele fostului spital militar, parte din siturile istorice de importanță defensivă.",
+      "facts": ["Fost spital", "Sit militar", "Importanță istorică"]
+    },
+    {
+      "id": "tt-sugar-refinery-history-v2",
+      "description": "Fosta rafinărie de zahăr, marcând dezvoltarea industriei de prelucrare din Trinidad.",
+      "facts": ["Rafinărie veche", "Industria zahărului", "Dezvoltare economică"]
+    },
+    {
+      "id": "tt-dutch-fort-tobago-history-v2",
+      "description": "Rămășițele fortului olandez din Tobago, ilustrând luptele coloniale pentru controlul insulei.",
+      "facts": ["Tobago", "Istorie olandeză", "Control colonial"]
+    },
+    {
+      "id": "tt-spanish-fort-tobago-history-v2",
+      "description": "Ruinele fortului spaniol, oferind dovezi ale prezenței timpurii a Spaniei în Tobago.",
+      "facts": ["Tobago", "Prezență spaniolă", "Sit istoric"]
+    }
+  ]
+}

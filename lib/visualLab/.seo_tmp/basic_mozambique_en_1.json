@@ -1,0 +1,39 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mz-chapel-nossa-senhora-de-baluarte-history-v2",
+      "description": "This is the oldest standing European building in the Southern Hemisphere, located on the Island of Mozambique.",
+      "facts": ["Built in 1522", "Manueline architecture style", "Located on Ilha de Moçambique", "Built by Portuguese navigators"]
+    },
+    {
+      "id": "mz-maputo-cathedral-history-v2",
+      "description": "An iconic Roman Catholic cathedral located in the heart of Maputo, known for its distinctive white spire.",
+      "facts": ["Completed in 1944", "Art Deco influence", "Located at Independence Square", "Major Maputo landmark"]
+    },
+    {
+      "id": "mz-vila-algarve-history-v2",
+      "description": "A historic building in Maputo that formerly served as the headquarters for the PIDE secret police during the colonial era.",
+      "facts": ["Built in the early 20th century", "Located in downtown Maputo", "Colonial administrative architecture", "Associated with resistance history"]
+    },
+    {
+      "id": "mz-polana-church-history-v2",
+      "description": "A modernist church building in the Polana district of Maputo, showcasing unique architectural design.",
+      "facts": ["Mid-20th century construction", "Modernist style", "Located in Polana district", "Cultural landmark"]
+    },
+    {
+      "id": "mz-inhambane-mosque-history-v2",
+      "description": "A historic mosque reflecting the long-standing Islamic influence in the coastal city of Inhambane.",
+      "facts": ["Centuries of local Islamic roots", "Coastal architectural style", "Located in Inhambane", "Community hub"]
+    },
+    {
+      "id": "mz-macuti-lighthouse-history-v2",
+      "description": "A historic lighthouse located in the Macuti district of Beira, serving as a maritime beacon for years.",
+      "facts": ["Built during colonial rule", "Located in Beira", "Overlooks the Indian Ocean", "Local landmark"]
+    }
+  ]
+}

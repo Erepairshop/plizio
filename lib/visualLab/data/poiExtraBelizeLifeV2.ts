@@ -213,13 +213,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       de: "Das berühmteste Jaguar-Schutzgebiet in Belize mit dichtem tropischem Wald.",
       hu: "Belize leghíresebb jaguárvédelmi területe sűrű trópusi erdővel.",
       ro: "Cea mai faimoasă rezervație de jaguari din Belize, cu pădure tropicală deasă.",
-      en: "Belize's best-known jaguar reserve, covered in dense tropical forest."
+      en: "The world's first jaguar sanctuary, dedicated to the protection of Belize's largest wild cats."
     },
     facts: {
       de: ["Weltweit erstes Jaguar-Reservat.", "Viele Wanderwege.", "Reich an Wildtieren.", "Nahe Victoria Peak."],
       hu: ["A világ első jaguárrezervátuma.", "Sok túraútvonal.", "Gazdag vadállomány.", "Victoria Peak közelében."],
       ro: ["Primul sanctuar pentru jaguari din lume.", "Multe trasee de drumeție.", "Bogată în faună sălbatică.", "Aproape de Victoria Peak."],
-      en: ["The world's first jaguar reserve.", "Many hiking trails.", "Rich wildlife.", "Near Victoria Peak."]
+      en: ["Home to hundreds of bird species.", "Offers extensive hiking trails.", "Protects vital jaguar habitat.", "Located in the Stann Creek District."]
     },
     descriptionAdvanced: {
       de: "Das Cockscomb Basin Wildlife Sanctuary ist weltweit einzigartig als das erste Schutzgebiet, das speziell für den Erhalt des Jaguars geschaffen wurde. Eingebettet in die östlichen Ausläufer der Maya Mountains, umfasst es ein riesiges Areal aus unberührtem tropischem Regenwald. Obwohl Jaguare sehr scheu und selten direkt zu sehen sind, zeugen ihre Spuren auf den zahlreichen Wanderwegen von ihrer Präsenz. Das Reservat ist ein Paradies für Wanderer und bietet Pfade, die zu spektakulären Wasserfällen und Aussichtspunkten wie dem 'Tiger Fern' führen. Die Vielfalt an Vögeln, Reptilien und anderen Säugetieren wie Tapiren und Pumas macht Cockscomb zu einem der bedeutendsten ökologischen Hotspots in ganz Mittelamerika.",
@@ -326,16 +326,16 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     coords: [-88.402, 17.236],
     name: { de: "Blue Hole National Park", hu: "Blue Hole Nemzeti Park", ro: "Parcul Național Blue Hole", en: "Blue Hole National Park" },
     description: {
-      de: "Ein einzigartiges Naturschutzgebiet, das für seine blaue Cenote und den dichten Dschungel berühmt ist.",
+      de: "Ein Binnennationalpark in Zentralbelize, der für seine tiefblaue Cenote und das weitläufige St. Herman's Cave System bekannt ist.",
       hu: "Családbarát természetpark barlangösvényekkel és természetes fürdőhelylyel.",
       ro: "Un parc natural prietenos cu familiile, cu trasee prin peșteri und o piscină naturală.",
-      en: "A family-friendly nature park with cave trails and a natural swimming hole."
+      en: "A scenic national park featuring a turquoise cenote and the expansive St. Herman's Cave."
     },
     facts: {
-      de: ["Cayo Distrikt", "Blaue Cenote", "Dschungelwanderung"],
+      de: ["Beinhaltet die St. Herman's Höhle", "Saphirblaue natürliche Badehöhle", "Nahe dem Hummingbird Highway gelegen"],
       hu: ["Belmopan közelében.", "Jó egynapos kiránduláshoz.", "Túrázás és úszás.", "Népszerű a családok körében."],
       ro: ["Aproape de Belmopan.", "Ideal pentru excursii de o zi.", "Drumeții și înot.", "Popular pentru familii."],
-      en: ["Near Belmopan.", "Great for day trips.", "Hiking and swimming.", "Popular with families."]
+      en: ["Located on the Hummingbird Highway.", "Popular spot for swimming and hiking.", "Managed by the Belize Audubon Society.", "Features ancient Maya cave artifacts."]
     },
     descriptionAdvanced: {
       de: "Der Blue Hole National Park (nicht zu verwechseln mit dem Great Blue Hole im Meer) ist ein Juwel im Landesinneren von Belize, direkt am Hummingbird Highway gelegen. Herzstück des Parks ist ein Saphirblaues, natürliches Becken, das durch den Einsturz einer unterirdischen Kalksteinhöhle entstanden ist. Der Park bietet gut markierte Wanderwege durch dichten Regenwald, die besonders für Kinder und Familien geeignet sind. Ein Highlight ist der Besuch der St. Herman's Cave, einer beeindruckenden Höhle, die man auf einem einfachen Pfad erkunden kann. Nach der Wanderung bietet das kühle Wasser des Blue Hole eine willkommene Erfrischung. Der Park ist ein ideales Beispiel für die beeindruckende Karstlandschaft Belizes und ein perfekter Ort für einen entspannten Tag in der Natur.",
@@ -358,13 +358,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       de: "Eine kleine Naturattraktion mit Schmetterlingen, Blumen und Ruhe im Cayo-Distrikt.",
       hu: "Kis természeti látványosság pillangókkal, virágokkal és nyugalommal a Cayo Districtben.",
       ro: "O mică atracție în natură, cu fluturi, flori și liniște în districtul Cayo.",
-      en: "A small nature attraction with butterflies, flowers, and quiet in the Cayo District."
+      en: "A premier butterfly conservatory and botanical garden showcasing Belize's winged wonders."
     },
     facts: {
       de: ["Gut für Kinder.", "Farbenfrohe Insektenwelt.", "Ruhige Gartenatmosphäre.", "Nahe San Ignacio."],
       hu: ["Jó gyerekeknek.", "Színes rovarvilág.", "Nyugodt kertkörnyezet.", "San Ignacio közelében."],
       ro: ["Bun pentru copii.", "Lume de insecte colorată.", "Atmosferă liniștită de grădină.", "Aproape de San Ignacio."],
-      en: ["Good for kids.", "Colorful insect life.", "Quiet garden setting.", "Near San Ignacio."]
+      en: ["Located in the Cayo District.", "Houses thousands of live butterflies.", "Specializes in the Blue Morpho species.", "Offers educational tours of local flora."]
     },
     descriptionAdvanced: {
       de: "Die Green Hills Butterfly Ranch im Cayo-Distrikt ist ein magischer Ort, an dem hunderte von Schmetterlingen in einem riesigen Fluggehege beobachtet werden können. Es ist die größte Schmetterlingsfarm in Belize und widmet sich der Aufzucht und Erforschung einheimischer Arten. Besonders beeindruckend ist der Blaue Morphofalter, dessen leuchtend blaue Flügel im Sonnenlicht glänzen. Besucher können den gesamten Lebenszyklus eines Schmetterlings miterleben – von den winzigen Eiern über die fressenden Raupen bis hin zum Schlüpfen aus der Puppe. Die Ranch ist von wunderschönen botanischen Gärten umgeben, die zahlreiche Kolibris anziehen. Es ist ein lehrreiches und friedliches Erlebnis, das Naturwunder auf kleinem Raum erlebbar macht.",
@@ -474,13 +474,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
       de: "Belizes größtes Waldgebiet mit dichter Dschungelvegetation und Höhlen.",
       hu: "Belize legnagyobb erdőterülete sűrű dzsungelnövényzettel és barlangokkal.",
       ro: "Cea mai mare zonă forestieră din Belize, cu junglă deasă și peșteri.",
-      en: "Belize's largest forest area, with dense jungle vegetation and caves."
+      en: "The largest protected area in Belize, encompassing a vast and biodiversity-rich tropical forest."
     },
     facts: {
       de: ["Grenzt an Guatemala.", "Lebensraum für Wildkatzen.", "Reich an Höhlen.", "Schwer zugänglich."],
       hu: ["Guatemalával határos.", "Vadmacskák élőhelye.", "Sok barlang található itt.", "Nehéz megközelíteni."],
       ro: ["Se învecinează cu Guatemala.", "Habitat pentru feline sălbatice.", "Bogată în peșteri.", "Greu accesibilă."],
-      en: ["Borders Guatemala.", "Habitat for wild cats.", "Rich in caves.", "Hard to access."]
+      en: ["Home to the Caracol Maya site.", "Contains the largest cave system in Central America.", "Critical habitat for scarlet macaws.", "Bordered by the Maya Mountains."]
     },
     descriptionAdvanced: {
       de: "Das Chiquibul Forest Reserve ist die größte zusammenhängende Wildnis Belizes und ein Herzstück des Selva Maya Waldsystems. Es beherbergt nicht nur eine unglaubliche Artenvielfalt, sondern auch die größte antike Maya-Stadt Belizes, Caracol. Das Gelände ist von tiefen Kalksteinhöhlen durchzogen, darunter das Chiquibul-Höhlensystem, das längste in ganz Mittelamerika. Der Wald ist ein kritisches Refugium für bedrohte Tierarten wie den Scharlachara und den Jaguar. Aufgrund seiner Lage an der Grenze zu Guatemala ist der Schutz dieses Gebiets eine große Herausforderung, wird aber durch Patrouillen und wissenschaftliche Stationen intensiviert. Chiquibul ist ein Symbol für die unberührte Urkraft Mittelamerikas.",
@@ -501,15 +501,15 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     name: { de: "Tapir Mountain Nature Reserve", hu: "Tapir Mountain Természetvédelmi Terület", ro: "Rezervația Naturală Tapir Mountain", en: "Tapir Mountain Nature Reserve" },
     description: {
       de: "Ein geschützter Wald im Cayo-Distrikt, bekannt für Höhlen und Dschungelpfade.",
-      hu: "Védett erdő a Cayo Districtben, barlangjairól és dzsungelösvényeiről ismert.",
+      hu: "Egy védett természeti terület a Maya-hegység lábánál, amely fontos élőhelye Belize nemzeti állatának, a bajszos tapírnak.",
       ro: "O pădure protejată în districtul Cayo, cunoscută pentru peșteri und trasee prin junglă.",
-      en: "A protected forest in the Cayo District known for caves and jungle trails."
+      en: "A strictly protected reserve in the Cayo District, named after the national animal of Belize."
     },
     facts: {
       de: ["Wald- und Höhlensystem.", "Nahe San Ignacio.", "Gut für Naturtouren.", "Lebensraum für Vögel."],
-      hu: ["Erdő- és barlangrendszer.", "San Ignacio közelében.", "Jó természetjáráshoz.", "Madárélőhely."],
+      hu: ["Mészkőhegyek és barlangok jellemzik", "Közép-Belize egyik legfontosabb rezervátuma", "Szigorúan védett ökoszisztéma"],
       ro: ["Sistem de pădure și peșteri.", "Aproape de San Ignacio.", "Bun pentru tururi în natură.", "Habitat pentru păsări."],
-      en: ["Forest and cave system.", "Near San Ignacio.", "Good for nature tours.", "Bird habitat."]
+      en: ["Crucial biological corridor.", "Rich in Maya archaeological sites.", "Supports populations of Baird's Tapir.", "Limited public access to preserve nature."]
     },
     descriptionAdvanced: {
       de: "Das Tapir Mountain Nature Reserve ist ein streng geschütztes Gebiet im Cayo-Distrikt, das primär der wissenschaftlichen Forschung und dem Erhalt der Biodiversität dient. Es ist Teil eines zerklüfteten Kalksteingebirges, das von tiefen Schluchten und zahlreichen Höhlen geprägt ist. Einer der bekanntesten Orte in der Nähe ist die berühmte Actun Tunichil Muknal (ATM) Höhle, deren Eingang am Rande des Reservats liegt. Der dichte Wald ist ein wichtiges Refugium für den Mittelamerikanischen Tapir, das Nationaltier Belizes, sowie für Jaguare und eine Vielzahl seltener Vogelarten. Für den regulären Tourismus ist der Zugang eingeschränkt, was den unberührten Charakter dieses wilden Dschungelgebietes bewahrt.",
@@ -529,16 +529,16 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     coords: [-88.300, 16.820],
     name: { de: "Sittee River Forest Reserve", hu: "Sittee River Erdőrezervátum", ro: "Rezervația Forestieră Sittee River", en: "Sittee River Forest Reserve" },
     description: {
-      de: "Dieses Waldschutzgebiet bietet Lebensraum für zahlreiche Vogelarten und seltene tropische Pflanzen.",
+      de: "Ein wichtiges Waldschutzgebiet, das die Artenvielfalt entlang des Sittee River bewahrt und Lebensraum für viele Tropenvögel bietet.",
       hu: "Folyó menti erdő mangrovekkal, trópusi fákkal és gazdag madárvilággal.",
       ro: "O pădure riverană cu mangrove, copaci tropicali și avifaună bogată.",
-      en: "A river forest with mangroves, tropical trees, and rich birdlife."
+      en: "A lush forest reserve protecting the watershed and biodiversity along the Sittee River."
     },
     facts: {
-      de: ["Stann Creek", "Vogelbeobachtung", "Tropenwald"],
+      de: ["Schutz von Galeriewäldern", "Reiche Population von Papageien", "Wichtiger ökologischer Korridor"],
       hu: ["Nedves trópusi erdő.", "Sok madármegfigyelés.", "Hopkins közelében.", "Lágy folyóvidék."],
       ro: ["Pădure tropicală umedă.", "Mult birdwatching.", "Aproape de Hopkins.", "Peisaj fluvial blând."],
-      en: ["Humid tropical forest.", "Great birdwatching.", "Near Hopkins.", "Gentle river scenery."]
+      en: ["Important area for tropical hardwood.", "Popular for river kayaking and birding.", "Supports diverse riparian wildlife.", "Located in central-southern Belize."]
     },
     descriptionAdvanced: {
       de: "Das Sittee River Forest Reserve schützt ein wertvolles Ökosystem entlang eines der tiefsten Flüsse Belizes. Das Schutzgebiet erstreckt sich von den Ausläufern der Maya Mountains bis hinunter zur Küstenregion und umfasst eine Vielzahl von Lebensräumen, von primärem Tiefland-Regenwald bis hin zu ausgedehnten Mangrovensümpfen an der Flussmündung. Es ist ein bedeutender Korridor für Tiere, die zwischen den Bergen und dem Meer wandern. Besonders bekannt ist das Reservat für seine riesigen Mahagonibäume und die Vielfalt an Wasservögeln, die man am besten bei einer lautlosen Bootsfahrt beobachten kann. Die Ruhe des Flusses und die dichte Vegetation bieten ein intensives Naturerlebnis fernab der touristischen Hauptpfade.",
@@ -763,14 +763,14 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     name: { de: "Bella Vista Bananengürtel", hu: "Bella Vista banánövezet", ro: "Centura de banane Bella Vista", en: "Bella Vista Banana Belt" },
     description: {
       de: "Eine agrarische Zone mit Bananenfeldern im Süden von Belize.",
-      hu: "Mezőgazdasági övezet banánföldekkel Belize déli részén.",
-      ro: "O zonă agricolă cu plantații de banane în sudul Belize.",
+      hu: "Belize déli részének meghatározó mezőgazdasági területe, amely az ország banánexportjának központja.",
+      ro: "O comunitate vibrantă situată în inima zonei de producție a bananelor din sudul Belizei.",
       en: "An agricultural zone with banana fields in southern Belize."
     },
     facts: {
       de: ["Starker Obstanbau.", "Südliche Tieflande.", "Wichtige Arbeit für Familien.", "Nahe der Küste."],
-      hu: ["Erős gyümölcstermesztés.", "Déli síkvidék.", "Fontos családi munka.", "A part közelében."],
-      ro: ["Cultivare puternică de fructe.", "Câmpii sudice.", "Muncă importantă pentru familii.", "Aproape de coastă."],
+      hu: ["Hatalmas banánültetvények alkotják", "Fontos gazdasági bevételi forrás", "Stann Creek és Toledo kerületek határán fekszik"],
+      ro: ["Unul dintre satele cu cea mai rapidă creștere", "Pilon central al industriei bananelor", "Populație multiculturală și muncitoare"],
       en: ["Strong fruit growing.", "Southern lowlands.", "Important family work.", "Near the coast."]
     },
     descriptionAdvanced: {
@@ -792,13 +792,13 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     name: { de: "Valley of Peace Gartenbau", hu: "Valley of Peace kertgazdaság", ro: "Grădinile din Valley of Peace", en: "Valley of Peace Market Gardens" },
     description: {
       de: "Gemüse- und Marktgärten in einer ruhigen ländlichen Gemeinde im Cayo District.",
-      hu: "Zöldség- és kertgazdaságok egy nyugodt vidéki közösségben a Cayo Districtben.",
+      hu: "Egy termékeny völgy Cayo kerületben, ahol zöldség- és gyümölcstermesztő közösségek látják el a helyi piacokat.",
       ro: "Grădini de legume și piață într-o comunitate rurală liniștită din districtul Cayo.",
       en: "Vegetable and market gardens in a quiet rural community in the Cayo District."
     },
     facts: {
       de: ["Versorgt lokale Märkte.", "Kleine Familiengärten.", "Frisches Gemüse.", "Ruhiges Hinterland."],
-      hu: ["Helyi piacokat lát el.", "Kis családi kertek.", "Friss zöldség.", "Nyugodt vidék."],
+      hu: ["Közép-Amerikai menekültek alapították az 1980-as években", "Fenntartható kistermelői gazdálkodás", "Változatos mezőgazdasági termények"],
       ro: ["Aprovizionează piețele locale.", "Grădini de familie mici.", "Legume proaspete.", "Regiune rurală liniștită."],
       en: ["Supplies local markets.", "Small family gardens.", "Fresh vegetables.", "Quiet countryside."]
     },
@@ -820,15 +820,15 @@ export const poiExtraBelizeLifeV2: POI[] = [  {    id: "belize-zoo-tropical-cent
     coords: [-88.800, 16.760],
     name: { de: "Maya Mountain Kaffeefarmen", hu: "Maya-hegységi kávéfarmok", ro: "Fermele de cafea din Munții Maya", en: "Maya Mountain Coffee Farms" },
     description: {
-      de: "In den Hochlagen der Maya-Berge werden hochwertige Kaffeesorten unter schattigen Bäumen angebaut.",
-      hu: "Kávétermesztés a Maya-hegység hűvösebb magasabb részein.",
-      ro: "Cultivarea cafelei în zonele mai răcoroase ale Munților Maya.",
+      de: "Nachhaltige Kaffeeplantagen in den Ausläufern der Maya Mountains, die für ihren hochwertigen Bio-Kaffee geschätzt werden.",
+      hu: "A Maya-hegység magasabban fekvő területein elhelyezkedő kávéültetvények, ahol prémium minőségű kávét termesztenek.",
+      ro: "Plantații de cafea de înaltă calitate situate la poalele Munților Maya, profitând de solul vulcanic bogat.",
       en: "Coffee cultivation in the cooler highlands of the Maya Mountains."
     },
     facts: {
-      de: ["Maya-Berge", "Kaffeeanbau", "Hochlandklima"],
-      hu: ["Árnyékkávé.", "Magaslati klíma.", "Kis termelők.", "Dél-Belize."],
-      ro: ["Cafea la umbră.", "Climat montan.", "Producători mici.", "Sudul Belize."],
+      de: ["Kaffeeanbau im Schatten", "Unterstützt lokale Bauerngemeinschaften", "Vulkanisch geprägte Böden"],
+      hu: ["Árnyékban termesztett kávéfajták", "Kézi betakarítás és feldolgozás", "A hűvösebb hegyi klíma kedvez a minőségnek"],
+      ro: ["Producție de cafea organică artizanală", "Situat într-un microclimat montan ideal", "Promovează agricultura sustenabilă"],
       en: ["Shade-grown coffee.", "Highland climate.", "Small producers.", "Southern Belize."]
     },
     descriptionAdvanced: {

@@ -1,0 +1,17 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [ "lib/visualLab/data/poiExtraMaliNatureV2.ts" ],
+  "items": [
+    { "id": "lake-faguibine-nature-v2", "description": "A Faguibine-tó egy hatalmas, időszakos tórendszer, amely kritikus fontosságú a régió biodiverzitása számára.", "facts": ["Időszakos tó", "Biodiverzitás", "Timbuktu régió"] },
+    { "id": "faleme-river-nature-v2", "description": "A Falémé folyó a szenegáli határon folyik, életfontosságú vizet biztosítva az élővilág számára.", "facts": ["Határfolyó", "Szenegál közelsége", "Élőhely"] },
+    { "id": "mount-dimamou-nature-v2", "description": "Dimamou hegye egy sziklás csúcs Maliban, amely lenyűgöző panorámát nyújt a környékre.", "facts": ["Sziklás csúcs", "Panoráma", "Természeti jelkép"] },
+    { "id": "mount-kourou-nature-v2", "description": "Kourou hegye egy kiemelkedő pont, amely a környező szavannákra néz.", "facts": ["Kiemelkedő pont", "Szavanna táj", "Mali régió"] },
+    { "id": "lake-tanda-nature-v2", "description": "Tanda-tó egy fontos vízforrás a helyi élővilág és a közösségek számára.", "facts": ["Vízforrás", "Helyi élővilág", "Életfeltétel"] },
+    { "id": "mount-sarro-nature-v2", "description": "Sarro hegye Mali belvidékének része, meredek lejtőkkel és egyedi kőzetképződményekkel.", "facts": ["Belvidék", "Meredek lejtők", "Kőzetképződmények"] },
+    { "id": "lake-niangay-nature-v2", "description": "Niangay-tó egy fontos vizes élőhely Közép-Maliban, számos vándormadár otthona.", "facts": ["Vizes élőhely", "Vándormadarak", "Közép-Mali"] },
+    { "id": "mount-tombouctou-nature-v2", "description": "Timbuktu környékén a sivatagi sziklás kiemelkedések különleges növényvilágnak adnak otthont.", "facts": ["Sivatagi sziklák", "Különleges növényvilág", "Timbuktu régió"] },
+    { "id": "baoule-ba-river-nature-v2", "description": "A Baoulé-Ba folyó fontos vízi út délen, az ökológiai egyensúly kulcsfontosságú eleme.", "facts": ["Vízfolyás", "Ökológiai egyensúly", "Dél-Mali"] },
+    { "id": "mount-koulou-nature-v2", "description": "Koulou hegye jellegzetes magaslati pont, amely egyedi növényvilágot támogat.", "facts": ["Magaslati pont", "Egyedi növényvilág", "Mali táj"] }
+  ]
+}

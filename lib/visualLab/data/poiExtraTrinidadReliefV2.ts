@@ -22,10 +22,10 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       en: "Northern Range is a notable site on the Caribbean island of Trinidad. The highest mountain range in Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Extends across the north of the island. Another point of interest: Home to El Cerro del Aripo. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Nördliche Gebirgskette von Trinidad", "Enthält El Cerro del Aripo", "Enthält El Tucuche", "Prägt die Nordküste", "Feuchte Regenwaldhänge", "Wichtige Wasserscheide"],
-      hu: ["A sziget északi részén húzódik.", "Itt található az El Cerro del Aripo.", "Trópusi esőerdővel borított terület.", "Fontos vízgyűjtő terület.", "A helyszín neve: Északi-hegység.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Se întinde peste nordul insulei.", "Găzduiește El Cerro del Aripo.", "Zonă acoperită de pădure tropicală.", "Important bazin hidrografic.", "Este cunoscut sub numele de Northern Range.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Extends across the north of the island.", "Home to El Cerro del Aripo.", "Tropical rainforest covered area.", "Important watershed.", "Known by the name Northern Range.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      de: ["Nördliche Gebirgskette von Trinidad", "Enthält El Cerro del Aripo", "Enthält El Tucuche", "Prägt die Nordküste", "Feuchte Regenwaldhänge"],
+      hu: ["A helyszín neve: Északi-hegység.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Northern Range.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Northern Range.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -48,10 +48,10 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       en: "El Cerro del Aripo is a notable site on the Caribbean island of Trinidad. The highest point in Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Elevation of 940 meters. Another point of interest: Part of the Northern Range. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["940 Meter hoch", "Höchster Punkt von Trinidad", "Teil der Northern Range", "Bergregenwald in den oberen Lagen", "Nebel und kühle Gipfelzone", "Nordöstliches Inselrelief"],
-      hu: ["940 méter magas.", "Az Északi-hegység része.", "Sűrű erdő veszi körül.", "Földrajzilag kiemelkedő.", "A helyszín neve: El Cerro del Aripo.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Altitudine de 940 de metri.", "Parte a Northern Range.", "Înconjurat de pădure densă.", "Geografic proeminent.", "Este cunoscut sub numele de El Cerro del Aripo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Elevation of 940 meters.", "Part of the Northern Range.", "Surrounded by dense forest.", "Geographically prominent.", "Known by the name El Cerro del Aripo.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      de: ["940 Meter hoch", "Höchster Punkt von Trinidad", "Bergregenwald in den oberen Lagen", "Nebel und kühle Gipfelzone", "Nordöstliches Inselrelief"],
+      hu: ["A helyszín neve: El Cerro del Aripo.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de El Cerro del Aripo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name El Cerro del Aripo.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -75,9 +75,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["936 Meter hoch", "Zweithöchster Gipfel Trinidads", "Teil der Northern Range", "Markante pyramidenartige Form", "Wanderziel im Bergwald", "Doppelspitze mit El Cerro del Aripo"],
-      hu: ["936 méter magas.", "Népszerű túracélpont.", "Panorámás kilátást nyújt.", "Endemikus növények otthona.", "A helyszín neve: El Tucuche.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Altitudine de 936 de metri.", "Destinație populară pentru drumeții.", "Oferă vederi panoramice.", "Casa plantelor endemice.", "Este cunoscut sub numele de El Tucuche.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Elevation of 936 meters.", "Popular hiking destination.", "Offers panoramic views.", "Home to endemic plants.", "Known by the name El Tucuche.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: El Tucuche.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de El Tucuche.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name El Tucuche.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -101,9 +101,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zentrales Gebirge von Trinidad", "Zieht sich west-östlich durch die Insel", "Niedriger als die Northern Range", "Trennt mehrere Beckenräume", "Wichtiger Raum für Landwirtschaft", "Prägt Wasserläufe und Täler"],
-      hu: ["Nyugatról keletre keresztezi a szigetet.", "Kevésbé meredek, mint az Északi-hegység.", "Jelentős mezőgazdasági terület.", "Fontos élőhely.", "A helyszín neve: Központi-hegység.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Traversează insula de la vest la est.", "Mai puțin abrupt decât Northern Range.", "Utilizare agricolă intensă.", "Habitat important.", "Este cunoscut sub numele de Central Range.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Crosses the island from west to east.", "Less rugged than the Northern Range.", "Significant agricultural use.", "Important habitat.", "Known by the name Central Range.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Központi-hegység.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Central Range.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Central Range.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -126,10 +126,10 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       en: "Southeastern Hills is a notable site on the Caribbean island of Trinidad. Hilly area in southeastern Trinidad. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Lower elevation. Another point of interest: Gentle terrain. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Südöstliches Hügelland", "Geringere Höhe als der Norden", "Übergangszone zur Küste", "Teilweise bewaldet", "Ländliche Nutzung", "Lenkt kleine Wasserläufe"],
-      hu: ["Alacsonyabb magasság.", "Szelíd domborzat.", "Részben erdősült.", "Vidéki jellegű.", "A helyszín neve: Délkeleti-dombság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Altitudine mai mică.", "Relief domol.", "Parțial împădurit.", "Caracter rural.", "Este cunoscut sub numele de Dealurile de Sud-Est.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Lower elevation.", "Gentle terrain.", "Partially forested.", "Rural landscape.", "Known by the name Southeastern Hills.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      de: ["Südöstliches Hügelland", "Geringere Höhe als der Norden", "Übergangszone zur Küste", "Ländliche Nutzung", "Lenkt kleine Wasserläufe"],
+      hu: ["A helyszín neve: Délkeleti-dombság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Dealurile de Sud-Est.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Southeastern Hills.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -153,9 +153,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Nordost-Trinidad", "Tal zwischen Höhenzügen", "Entwässerungskorridor", "Wassersammelgebiet", "Übergang zu tieferen Flächen", "Wichtig für Wege und Pfade"],
-      hu: ["Alacsonyabban fekvő terület.", "Termékeny talaj.", "Környező erdőségek.", "Természetes állapotú.", "A helyszín neve: Aripo-völgy.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Zonă de joasă altitudine.", "Sol fertil.", "Zone forestiere înconjurătoare.", "Stare naturală.", "Este cunoscut sub numele de Valea Aripo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Low-lying area.", "Fertile soil.", "Surrounding forests.", "Natural state.", "Known by the name Aripo Valley.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Aripo-völgy.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Valea Aripo.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Aripo Valley.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -179,9 +179,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Westliches Tiefland von Trinidad", "Zwischen Northern Range und Central Range", "Wichtiger Raum des Caroni River", "Anbindung an die Caroni Swamp", "Weite Agrarlandschaft", "Wichtige Verkehrsachsen"],
-      hu: ["A legfontosabb termesztési terület.", "A Caroni folyó szeli át.", "Síksági domborzat.", "Sűrűn lakott.", "A helyszín neve: Caroni-síkság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Cea mai importantă zonă agricolă.", "Străbătută de râul Caroni.", "Relief plat.", "Dens populat.", "Este cunoscut sub numele de Câmpia Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Main agricultural area.", "Crossed by the Caroni River.", "Flat relief.", "Densely populated.", "Known by the name Caroni Plain.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Caroni-síkság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Câmpia Caroni.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Caroni Plain.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -204,10 +204,10 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       en: "Nariva Swamp is a notable site on the Caribbean island of Trinidad. Large wetland on the east coast. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Important nature reserve. Another point of interest: Diverse flora and fauna. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Ramsar-Site an der Ostküste", "Über 175 Vogelarten", "Palm swamp forest", "Mangroven und Marschland", "Nariva River im Einzugsgebiet", "Wichtiges Schutzgebiet"],
-      hu: ["Fontos természetvédelmi terület.", "Változatos flóra és fauna.", "Mocsárvidék.", "Alacsony fekvés.", "A helyszín neve: Nariva-mocsár.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Arie naturală protejată.", "Floră și faună diversă.", "Mlaștină.", "Altitudine joasă.", "Este cunoscut sub numele de Mlaștina Nariva.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Important nature reserve.", "Diverse flora and fauna.", "Marsh and swamp.", "Low elevation.", "Known by the name Nariva Swamp.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      de: ["Ramsar-Site an der Ostküste", "Über 175 Vogelarten", "Palm swamp forest", "Mangroven und Marschland", "Nariva River im Einzugsgebiet"],
+      hu: ["A helyszín neve: Nariva-mocsár.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Mlaștina Nariva.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Nariva Swamp.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -231,9 +231,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Drittgrößtes estuarines Feuchtgebiet", "South Oropouche Wetland Basin", "Südwestküste von Trinidad", "Nähe zu San Fernando", "Brackwasserzone", "Mangrovenränder"],
-      hu: ["Part menti síkság.", "Gazdag madárvilág.", "Mocsaras környék.", "Fontos a helyi ökológiának.", "A helyszín neve: Oropouche-lagúna.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Câmpie de coastă.", "Bogată în specii de păsări.", "Zonă mlăștinoasă.", "Importantă pentru ecologia locală.", "Este cunoscut sub numele de Laguna Oropouche.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Coastal lowland.", "Rich in bird species.", "Swampy environment.", "Important for local ecology.", "Known by the name Oropouche Lagoon.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Oropouche-lagúna.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Laguna Oropouche.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Oropouche Lagoon.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -257,9 +257,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Südwestlich von Trinidad", "Trennt Trinidad von Venezuela", "Maritimer Verkehrsraum", "Wichtiger Schifffahrtskanal", "Teil der südlichen Karibik", "Prägt Küstenströmungen"],
-      hu: ["Sekély self.", "Történelmileg jelentős.", "Tengerfenék domborzat.", "Gazdag tengeri élővilág.", "A helyszín neve: Kolumbusz-csatorna.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Zonă de șelf puțin adâncă.", "Importantă istoric.", "Relief al fundului marin.", "Viață marină bogată.", "Este cunoscut sub numele de Canalul lui Columb.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Shallow shelf area.", "Historically significant.", "Seabed relief.", "Rich marine life.", "Known by the name Columbus Channel.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Kolumbusz-csatorna.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Canalul lui Columb.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Columbus Channel.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -283,9 +283,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Südostküste von Trinidad", "Flaches Tiefland", "Guayaguayare als Ortsname", "Ländliche Siedlungen", "Feuchtflächen und Küstenränder", "Empfindlicher Inselrand"],
-      hu: ["Sík terep.", "Trópusi klíma.", "Part menti.", "Sok növényzet.", "A helyszín neve: Guayaguayare-alföld.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Teren plat.", "Climă tropicală.", "Aproape de coastă.", "Vegetație bogată.", "Este cunoscut sub numele de Câmpiile Guayaguayare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Flat terrain.", "Tropical climate.", "Near the coast.", "Lots of vegetation.", "Known by the name Guayaguayare Lowlands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Guayaguayare-alföld.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Câmpiile Guayaguayare.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Guayaguayare Lowlands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -309,9 +309,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Südwestspitze Trinidads", "Richtung Golf von Paria", "Richtung Columbus Channel", "Fischereiprägegebiet", "Flache Küstenzonen", "Äußerster Inselrand"],
-      hu: ["Hosszúkás kiemelkedés.", "Strandokkal szegélyezett partvonal.", "Gyéren lakott.", "Földrajzilag elkülönülő.", "A helyszín neve: Cedros-félsziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Relief alungit.", "Linie de coastă cu plaje.", "Puțin populat.", "Geografic izolat.", "Este cunoscut sub numele de Peninsula Cedros.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Elongated elevation.", "Coastline with beaches.", "Sparsely populated.", "Geographically distinct.", "Known by the name Cedros Peninsula.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Cedros-félsziget.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Peninsula Cedros.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Cedros Peninsula.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -335,9 +335,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Nordküste von Trinidad", "Steile Klippen", "Starke Brandung", "Küstenerosion prägend", "Felsküste über dem Meer", "Blick auf die Karibik"],
-      hu: ["Lenyűgöző sziklafalak.", "Közvetlen tengeri hozzáférés.", "Veszélyes terep.", "Magas fekvés.", "A helyszín neve: Paria-parti sziklák.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Paredi stâncoase impresionante.", "Acces direct la mare.", "Teren periculos.", "Altitudine ridicată.", "Este cunoscut sub numele de Stâncile coastei Paria.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Impressive rock walls.", "Direct sea access.", "Dangerous terrain.", "High elevation.", "Known by the name Paria Coast Cliffs.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Paria-parti sziklák.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Stâncile coastei Paria.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Paria Coast Cliffs.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -361,9 +361,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Nordküste von Trinidad", "Schmale Talöffnung", "Zugang zu Küstenformen", "Bewaldete Hänge", "Abgelegenes Relief", "Wegkorridor an der Küste"],
-      hu: ["Mély völgyfenék.", "Hegycsúcsokkal körülvéve.", "Érintetlen természet.", "Nehezen megközelíthető.", "A helyszín neve: Madamas-völgy.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Fundul văii adânc.", "Înconjurată de vârfuri montane.", "Natură neatinsă.", "Greu accesibilă.", "Este cunoscut sub numele de Valea Madamas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Deep valley floor.", "Surrounded by mountain peaks.", "Untouched nature.", "Hard to access.", "Known by the name Madamas Valley.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Madamas-völgy.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Valea Madamas.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Madamas Valley.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -387,9 +387,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höhlensystem im Osten Trinidads", "Kalkstein und Karst", "Unterirdische Hohlräume", "Formung durch Wasser", "Teil des Reliefs unter der Oberfläche", "Beleg für Lösungsvorgänge"],
-      hu: ["Föld alatti domborzat.", "Mészkőformációk.", "Zsírfecskék otthona.", "Természetes kaland.", "A helyszín neve: Cumaca-barlangok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Relief subteran.", "Formațiuni de calcar.", "Casa păsărilor de ulei.", "Aventură naturală.", "Este cunoscut sub numele de Peșterile Cumaca.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Subterranean relief.", "Limestone formations.", "Home to Oilbirds.", "Natural adventure.", "Known by the name Cumaca Caves.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Cumaca-barlangok.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Peșterile Cumaca.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Cumaca Caves.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -413,9 +413,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Oberhalb von Blanchisseuse", "Steile Nordküste", "Regenwaldhänge", "Wasserabfluss wird gelenkt", "Teil der Northern Range", "Kurze Täler im Hang"],
-      hu: ["Lejtős terep.", "Trópusi erdős.", "Jó kilátás.", "Természetes vízelvezetés.", "A helyszín neve: Blanchisseuse-i lejtők.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Teren în pantă.", "Păduri tropicale.", "Vederi bune.", "Drenaj natural.", "Este cunoscut sub numele de Pantele Blanchisseuse.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Sloping terrain.", "Tropically forested.", "Good views.", "Natural drainage.", "Known by the name Blanchisseuse Slopes.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Blanchisseuse-i lejtők.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Pantele Blanchisseuse.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Blanchisseuse Slopes.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -439,9 +439,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zentrales Inselinnere", "Hügelland von Gran Couva", "Agrar- und Plantagenräume", "Mittlere Höhenlage", "Landwirtschaftliche Nutzung", "Forstflächen und Siedlungen"],
-      hu: ["Szelíd dombok.", "Kakaótermesztő terület.", "Hűvösebb hőmérséklet.", "Szép tájak.", "A helyszín neve: Gran Couva-i felföld.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Dealuri domoale.", "Regiune de cultivare a cacao.", "Temperaturi mai răcoroase.", "Peisaje frumoase.", "Este cunoscut sub numele de Munții Gran Couva.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Gentle hills.", "Cocoa farming area.", "Cooler temperatures.", "Beautiful landscapes.", "Known by the name Gran Couva Highlands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Gran Couva-i felföld.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Munții Gran Couva.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Gran Couva Highlands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -465,9 +465,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Nordostspitze Trinidads", "Atlantikfront", "Raues Küstenrelief", "Küstenerosion", "Felsküste und Kliffs", "Nähe zu Toco"],
-      hu: ["Szeles partvonal.", "Masszív sziklaképződmények.", "Kilátás az Atlanti-óceánra.", "Földrajzi határpont.", "A helyszín neve: Toco-i sziklapart.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Coastă vântoasă.", "Formațiuni stâncoase robuste.", "Vedere spre Atlantic.", "Punct de demarcație geografic.", "Este cunoscut sub numele de Coasta stâncoasă Toco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Windy coast.", "Rugged rock formations.", "Atlantic views.", "Geographic boundary point.", "Known by the name Toco Cliffside.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Toco-i sziklapart.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Coasta stâncoasă Toco.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Toco Cliffside.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -491,9 +491,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Ostküste von Trinidad", "Strandrücken", "Atlantikbrandung", "Sandtransport", "Niedrige Reliefstufen", "Manzanilla als Küstenort"],
-      hu: ["Síksági homokstruktúrák.", "Alacsony fekvés.", "Part menti ökoszisztéma.", "Természetes hullámtörő.", "A helyszín neve: Manzanilla-i tengerparti gerincek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Structuri de nisip plate.", "Altitudine joasă.", "Ecosistem de coastă.", "Bariere naturale.", "Este cunoscut sub numele de Crestele de coastă Manzanilla.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Flat sand structures.", "Low elevation.", "Coastal ecosystem.", "Natural breakwater.", "Known by the name Manzanilla Beach Ridges.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Manzanilla-i tengerparti gerincek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Crestele de coastă Manzanilla.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Manzanilla Beach Ridges.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -517,9 +517,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Leicht erhöhtes Plateau", "Zwischen Bergland und Ebenen", "Valencia als Bezugspunkt", "Übergangslandschaft", "Moderate Höhenlage", "Ordnet Siedlungen und Wege"],
-      hu: ["Síkká vált talaj.", "Környező erdők.", "Mérsékelt magasság.", "Vidéki.", "A helyszín neve: Valencia-fennsík.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Teren plan.", "Păduri înconjurătoare.", "Altitudine moderată.", "Rural.", "Este cunoscut sub numele de Platoul Valencia.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Level ground.", "Surrounding forests.", "Moderate elevation.", "Rural.", "Known by the name Valencia Plateau.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Valencia-fennsík.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Platoul Valencia.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Valencia Plateau.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -543,9 +543,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Östliches Hinterland", "Um Sangre Grande", "Feuchte Hänge", "Entwässerung wird gelenkt", "Nähe zur Ostküste", "Verkehrswege im Hügelland"],
-      hu: ["Lankás.", "Részben mezőgazdasági.", "Zöld növényzet.", "Helyi domborzat.", "A helyszín neve: Sangre Grande-i dombság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Relief vălurit.", "Parțial agricol.", "Vegetație verde.", "Relief local.", "Este cunoscut sub numele de Dealurile Sangre Grande.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Gently rolling.", "Partially agricultural.", "Green vegetation.", "Local relief.", "Known by the name Sangre Grande Hills.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Sangre Grande-i dombság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Dealurile Sangre Grande.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Sangre Grande Hills.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -568,10 +568,10 @@ export const poiExtraTrinidadReliefV2: POI[] = [
       en: "Mayaro Coast Lowlands is a notable site on the Caribbean island of Trinidad. Lowland along the Mayaro coast. Its setting reflects both the geographical diversity and the cultural heritage of the island. Notably: Sandy coast. Another point of interest: Flat hinterland. For students, the location offers a concrete bridge between curriculum content and the real world. Geography K7 — island geography and cultural heritage."
     },
     factsAdvanced: {
-      de: ["Atlantikküste von Trinidad", "Breite Küstenebene", "Mayaro als Küstenort", "Lange Strände", "Sandbewegung an der Küste", "Dünn besiedelte Niederung"],
-      hu: ["Homokos part.", "Sík háttér.", "Trópusi.", "Hosszú strandok.", "A helyszín neve: Mayaro-parti alföld.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Coastă nisipoasă.", "Interior plat.", "Tropical.", "Plaje lungi.", "Este cunoscut sub numele de Câmpiile de coastă Mayaro.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Sandy coast.", "Flat hinterland.", "Tropical.", "Long beaches.", "Known by the name Mayaro Coast Lowlands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      de: ["Atlantikküste von Trinidad", "Breite Küstenebene", "Mayaro als Küstenort", "Sandbewegung an der Küste", "Dünn besiedelte Niederung"],
+      hu: ["A helyszín neve: Mayaro-parti alföld.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Câmpiile de coastă Mayaro.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Mayaro Coast Lowlands.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -595,9 +595,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zentrale Inselregion", "Tief eingeschnittene Täler", "Bewaldete Hänge", "Brasso als Ortsname", "Wasserläufe gliedern das Relief", "Ländliche Nutzung"],
-      hu: ["Tagolt domborzat.", "Folyók.", "Erdős.", "Mezőgazdaság.", "A helyszín neve: Brasso-völgyek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Relief fragmentat.", "Râuri.", "Împădurit.", "Agricultură.", "Este cunoscut sub numele de Văile Brasso.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Rugged relief.", "Rivers.", "Forested.", "Agriculture.", "Known by the name Brasso Valleys.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Brasso-völgyek.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Văile Brasso.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Brasso Valleys.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -621,9 +621,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Abgelegene Nordküste", "Matelot als Küstenort", "Klippen und Buchten", "Raues Brandungsufer", "Inselrand mit Erosionsformen", "Schmale Übergänge zum Meer"],
-      hu: ["Meredek part.", "Atlanti hullámzás.", "Elszigetelt.", "Látványos.", "A helyszín neve: Matelot-i sziklás part.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Coastă abruptă.", "Valurile Atlanticului.", "Izolat.", "Spectaculos.", "Este cunoscut sub numele de Coasta stâncoasă Matelot.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Steep coast.", "Atlantic surf.", "Secluded.", "Spectacular.", "Known by the name Matelot Rugged Coast.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Matelot-i sziklás part.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Coasta stâncoasă Matelot.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Matelot Rugged Coast.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   },
   {
@@ -647,9 +647,9 @@ export const poiExtraTrinidadReliefV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Binnenland von Trinidad", "Hügelland bei Tabaquite", "Ländliche Räume", "Ehemalige Bergbauregion", "Täler und Hügel", "An Gelände gebundene Nutzung"],
-      hu: ["Hullámos terep.", "Zöld dombok.", "Mezőgazdasági.", "Belföldi.", "A helyszín neve: Tabaquite-i dombság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
-      ro: ["Relief vălurit.", "Dealuri verzi.", "Agricol.", "Interior.", "Este cunoscut sub numele de Dealurile Tabaquite.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
-      en: ["Rolling terrain.", "Green hills.", "Agricultural.", "Inland.", "Known by the name Tabaquite Hills.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
+      hu: ["A helyszín neve: Tabaquite-i dombság.", "A karibi Trinidad szigetén található.", "Trinidad kulturális és földrajzi örökségének része."],
+      ro: ["Este cunoscut sub numele de Dealurile Tabaquite.", "Este situat pe insula caraibiană Trinidad.", "Face parte din moștenirea culturală și geografică a Trinidadului."],
+      en: ["Known by the name Tabaquite Hills.", "Located on the Caribbean island of Trinidad.", "Part of Trinidad’s cultural and geographical heritage."]
     }
   }
 ];

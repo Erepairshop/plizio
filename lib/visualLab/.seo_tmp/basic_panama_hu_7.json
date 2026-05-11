@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cerro-san-miguel-relief-v2",
+      "description": "Jelentős hegycsúcs, amely fontos tájékozódási pont a környéken.",
+      "facts": ["Hegycsúcs", "Tájékozódási pont", "Domborzati elem"]
+    },
+    {
+      "id": "cerro-cucurucha-relief-v2",
+      "description": "Hegyvidéki kiemelkedés, amely része a régió domborzatának.",
+      "facts": ["Hegyvidék", "Kiemelkedés", "Domborzati elem"]
+    },
+    {
+      "id": "altos-de-campana-hohe-relief-v2",
+      "description": "Magaslati terület, amely nemzeti parkot és változatos élővilágot foglal magába.",
+      "facts": ["Magaslati terület", "Nemzeti park", "Változatos élővilág"]
+    },
+    {
+      "id": "cerro-gaitancillo-relief-v2",
+      "description": "Kisebb, de jelentős domborzati formáció a hegyvidéki régióban.",
+      "facts": ["Domborzati formáció", "Hegyvidéki régió", "Geológiai elem"]
+    }
+  ]
+}

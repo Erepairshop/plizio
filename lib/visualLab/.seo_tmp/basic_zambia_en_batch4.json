@@ -1,0 +1,62 @@
+{
+  "lang": "en",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraZambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraZambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lupupa-swamp-nature-v2",
+      "description": "A wetland area in Zambia supporting diverse flora and fauna.",
+      "facts": ["Wetland environment.", "Supports local biodiversity.", "Zambian ecosystem."]
+    },
+    {
+      "id": "mweru-wantipa-lake-nature-v2",
+      "description": "A lake in northern Zambia characterized by its variable water levels and surrounding swamps.",
+      "facts": ["Northern Zambia.", "Variable water levels.", "Surrounded by swamps."]
+    },
+    {
+      "id": "luangwa-river-head-nature-v2",
+      "description": "The headwaters of the Luangwa River, located in the mountainous north-eastern region.",
+      "facts": ["Luangwa River source.", "North-eastern Zambia.", "Mountainous terrain."]
+    },
+    {
+      "id": "mulungushi-river-nature-v2",
+      "description": "A river in central Zambia, important for local irrigation and hydro-power potential.",
+      "facts": ["Central Zambia.", "Local irrigation.", "Hydro-power potential."]
+    },
+    {
+      "id": "iitezhi-tezhi-lake-nature-v2",
+      "description": "A reservoir created by the Itezhi-Tezhi Dam on the Kafue River, supporting regional wildlife.",
+      "facts": ["Kafue River reservoir.", "Itezhi-Tezhi Dam.", "Supports regional wildlife."]
+    },
+    {
+      "id": "chisamba-forest-nature-v2",
+      "description": "A forested area in central Zambia, valued for its biodiversity and timber resources.",
+      "facts": ["Central Zambia.", "Forested area.", "Biodiversity value."]
+    },
+    {
+      "id": "luangwa-swamps-nature-v2",
+      "description": "A swampy region associated with the Luangwa River, rich in diverse bird species.",
+      "facts": ["Luangwa River system.", "Swampy landscape.", "Rich birdlife."]
+    },
+    {
+      "id": "northwestern-highlands-relief-v2",
+      "description": "A high-altitude plateau area in north-western Zambia, influencing regional climate and drainage.",
+      "facts": ["North-western plateau.", "High altitude.", "Climatic influence."]
+    },
+    {
+      "id": "mporokoso-plateau-relief-v2",
+      "description": "An elevated terrain region in the Northern province of Zambia.",
+      "facts": ["Northern province.", "Elevated terrain.", "Plateau region."]
+    },
+    {
+      "id": "katanga-plateau-extension-relief-v2",
+      "description": "An extension of the Katanga plateau into Zambian territory, defining local topography.",
+      "facts": ["Extension of Katanga plateau.", "Defines topography.", "Zambian territory."]
+    }
+  ]
+}

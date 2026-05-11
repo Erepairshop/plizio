@@ -1,0 +1,439 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "burana-tower-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Burana-Turm ist ein großes Minarett im Tschüi-Tal im Norden Kirgisistans. Er wurde im 11. Jahrhundert erbaut und ist einer der wenigen verbliebenen Überreste der antiken Stadt Balasagun, die von den Karachaniden gegründet wurde. Ursprünglich war der Turm 45 Meter hoch, aber nach mehreren Erdbeben, insbesondere im 15. Jahrhundert, wurde er auf seine heutige Höhe von 25 Metern reduziert. Die Stätte umfasst auch ein Feld mit steinernen Kriegerstatuen, die Balbals genannt werden, sowie ein kleines Museum, in dem archäologische Funde aus der Umgebung ausgestellt sind. Der Turm zeugt von der Bedeutung der Region entlang der Großen Seidenstraße und ist heute ein geschütztes historisches Denkmal.",
+        "hu": "A Burana-torony egy nagy minaret a Csu-völgyben, Kirgizisztán északi részén. A 11. században épült, és a Karahánidák által alapított ősi város, Balaszagun egyik utolsó fennmaradt emléke. Eredetileg a torony 45 méter magas volt, de több földrengés, különösen egy 15. századi katasztrófa után a magassága a jelenlegi 25 méterre csökkent. A helyszínen található egy mező is, amely tele van ősi kőharcosokkal, úgynevezett balbalokkal, valamint egy kis múzeum, amely a környéken talált régészeti leleteket mutatja be. A torony a Nagy Selyemút mentén fekvő régió fontosságát bizonyítja, és ma védett történelmi műemlék.",
+        "ro": "Turnul Burana este un minaret mare situat în Valea Chuy din nordul Kârgâzstanului. Construit în secolul al XI-lea, este una dintre puținele rămășițe ale orașului antic Balasagun, care a fost înființat de Karahanizi. Inițial, turnul avea o înălțime de 45 de metri, dar după mai multe cutremure, în special unul din secolul al XV-lea, a fost redus la înălțimea sa actuală de 25 de metri. Situl include, de asemenea, un câmp de statui de piatră reprezentând războinici, numite balbal, precum și un mic muzeu care expune descoperiri arheologice din zonă. Turnul demonstrează importanța regiunii de-a lungul Marelui Drum al Mătăsii și este un monument istoric protejat.",
+        "en": "The Burana Tower is a large minaret located in the Chuy Valley in northern Kyrgyzstan. Built in the 11th century, it is one of the few remaining remnants of the ancient city of Balasagun, which was established by the Karakhanids. Originally, the tower was 45 meters tall, but after several earthquakes, particularly in the 15th century, it was reduced to its current height of 25 meters. The site also includes a field of stone warrior statues called balbals, as well as a small museum displaying archaeological finds from the surrounding area. The tower demonstrates the importance of the region along the Great Silk Road and is now a protected historical monument."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im 11. Jahrhundert während der Karachaniden-Ära.",
+          "Ursprüngliche Höhe betrug 45 Meter vor den Erdbeben.",
+          "Die heutige Höhe des Turms beträgt 25 Meter.",
+          "Diente als Minarett und Wachturm in der antiken Stadt Balasagun.",
+          "Umgeben von einer Sammlung historischer Balbal-Steinstatuen.",
+          "Eine Holztreppe im Inneren führt zu einer Aussichtsplattform an der Spitze."
+        ],
+        "hu": [
+          "A 11. században épült a Karahánida korszakban.",
+          "Eredeti magassága a földrengések előtt 45 méter volt.",
+          "A torony jelenlegi magassága 25 méter.",
+          "Minaretként és őrtoronyként szolgált az ősi Balaszagun városában.",
+          "Történelmi balbal kőszobrok gyűjteménye veszi körül.",
+          "Belsejében egy falépcső vezet a tetején lévő kilátóhoz."
+        ],
+        "ro": [
+          "Construit în secolul al XI-lea în timpul epocii Karahanide.",
+          "Înălțimea originală a fost de 45 de metri înainte de cutremure.",
+          "Înălțimea actuală a turnului este de 25 de metri.",
+          "A servit drept minaret și turn de veghe în orașul antic Balasagun.",
+          "Înconjurat de o colecție de statui istorice de piatră balbal.",
+          "O scară de lemn în interior duce la o punte de observare în vârf."
+        ],
+        "en": [
+          "Constructed in the 11th century during the Karakhanid era.",
+          "Original height was 45 meters before the earthquakes.",
+          "The current height of the tower is 25 meters.",
+          "Served as a minaret and watchtower in the ancient city of Balasagun.",
+          "Surrounded by a collection of historical balbal stone statues.",
+          "A wooden staircase inside leads to a viewing platform at the top."
+        ]
+      }
+    },
+    {
+      "id": "tash-rabat-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Tasch-Rabat ist eine gut erhaltene Karawanserei aus Stein aus dem 15. Jahrhundert im Bezirk At-Baschy in der Provinz Naryn in Kirgisistan. Das Bauwerk befindet sich auf einer Höhe von 3200 Metern im Tien-Shan-Gebirge. Es diente Reisenden und Händlern entlang der Seidenstraße als Rastplatz und bot Schutz vor dem rauen Wetter und Banditen. Das Gebäude ist fast vollständig aus zerkleinertem Stein in eine Bergflanke hineingebaut und verfügt über eine zentrale Halle mit einer großen Kuppel und 31 umliegenden Räumen. Einige Forscher glauben, dass die Stätte ursprünglich im 10. Jahrhundert als nestorianisches oder buddhistisches Kloster gegründet wurde, bevor sie zu einer Karawanserei umfunktioniert wurde.",
+        "hu": "Tash-Rabat egy jól karbantartott, 15. századi kő karavánszeráj az At-Bashi kerületben, a kirgizisztáni Narin tartományban. Az építmény a Tien-san hegységben, 3200 méteres magasságban található. Pihenőhelyként szolgált a Selyemút mentén utazók és kereskedők számára, menedéket nyújtva a zord időjárás és a banditák elől. Az épület szinte teljes egészében zúzott kőből épült be a hegyoldalba, egy nagy kupolás központi csarnokkal és 31 környező szobával rendelkezik. Egyes kutatók úgy vélik, hogy a helyszínt eredetileg a 10. században alapították nesztoriánus vagy buddhista kolostorként, mielőtt karavánszerájjá alakították volna.",
+        "ro": "Tash Rabat este un caravanserai de piatră bine conservat din secolul al XV-lea, situat în districtul At-Bashi din provincia Naryn, Kârgâzstan. Structura este situată la o altitudine de 3200 de metri în munții Tian-Șan. A servit ca loc de odihnă pentru călătorii și negustorii de-a lungul Drumului Mătăsii, oferind adăpost împotriva vremii aspre și a bandiților. Clădirea este construită aproape în întregime din piatră spartă în versantul unui munte și are o sală centrală cu o cupolă mare și 31 de camere înconjurătoare. Unii cercetători cred că situl a fost fondat inițial în secolul al X-lea ca o mănăstire nestoriană sau budistă înainte de a fi transformat în caravanserai.",
+        "en": "Tash Rabat is a well-preserved 15th-century stone caravanserai in the At-Bashi District of Naryn Province in Kyrgyzstan. The structure is located at an altitude of 3,200 meters in the Tian Shan mountains. It served as a resting place for travelers and merchants along the Silk Road, providing shelter from harsh weather and bandits. The building is constructed almost entirely of crushed stone built into a mountainside, featuring a central hall with a large dome and 31 surrounding rooms. Some researchers believe the site was originally founded in the 10th century as a Nestorian or Buddhist monastery before being converted into a caravanserai."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Liegt auf einer Höhe von 3200 Metern im Tien-Shan-Gebirge.",
+          "Verfügt über 31 Zimmer, die um eine zentrale Kuppelhalle angeordnet sind.",
+          "Diente als wichtiger Halt auf der Großen Seidenstraße.",
+          "Gebaut aus zerkleinertem Stein und in den Berghang integriert.",
+          "Wurde möglicherweise als Kloster vor dem 15. Jahrhundert genutzt.",
+          "Befindet sich im abgelegenen Bezirk At-Baschy in der Provinz Naryn."
+        ],
+        "hu": [
+          "A Tien-san hegységben, 3200 méteres magasságban fekszik.",
+          "31 szobával rendelkezik, amelyek egy központi kupolás csarnok körül helyezkednek el.",
+          "Fontos megállóként szolgált a Nagy Selyemúton.",
+          "Zúzott kőből épült, és a hegyoldalba van integrálva.",
+          "A 15. század előtt kolostorként is funkcionálhatott.",
+          "A távoli At-Bashi kerületben, Narin tartományban található."
+        ],
+        "ro": [
+          "Situat la o altitudine de 3200 de metri în munții Tian-Șan.",
+          "Are 31 de camere dispuse în jurul unei săli centrale cu cupolă.",
+          "A servit ca oprire importantă pe Marele Drum al Mătăsii.",
+          "Construit din piatră spartă și integrat în versantul muntelui.",
+          "Este posibil să fi fost folosit ca mănăstire înainte de secolul al XV-lea.",
+          "Se află în districtul îndepărtat At-Bashi din provincia Naryn."
+        ],
+        "en": [
+          "Located at an altitude of 3,200 meters in the Tian Shan mountains.",
+          "Features 31 rooms arranged around a central domed hall.",
+          "Served as a major stop on the Great Silk Road.",
+          "Constructed of crushed stone and integrated into the mountainside.",
+          "May have been used as a monastery prior to the 15th century.",
+          "Situated in the remote At-Bashi District of Naryn Province."
+        ]
+      }
+    },
+    {
+      "id": "sulaiman-too-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Sulaiman-Too ist ein heiliger Berg im Zentrum der Stadt Osch im Süden Kirgisistans. Er erhebt sich abrupt aus dem Ferghanatal und ist seit über eineinhalb Jahrtausenden ein Ort der Verehrung für Muslime und präislamische Gläubige. Der Berg ist nach dem Propheten Salomo benannt, der der Legende nach hier begraben sein soll oder zumindest hier gebetet hat. Sulaiman-Too beherbergt zahlreiche historische Stätten, darunter Petroglyphen aus der Bronzezeit, alte Kultstätten und Höhlen, die mit Heilungsritualen in Verbindung gebracht werden. Auf dem Berg befinden sich auch eine im 16. Jahrhundert erbaute Moschee sowie ein modernes historisches Museum, das in eine seiner großen Höhlen eingebaut ist. Im Jahr 2009 wurde der Sulaiman-Too als erste Stätte Kirgisistans in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
+        "hu": "A Szulajman-hegy egy szent hegy az osi város központjában, Kirgizisztán déli részén. Hirtelen emelkedik ki a Fergana-völgyből, és több mint másfél évezrede a muszlimok és a pre-iszlám hívők tiszteletének helyszíne. A hegyet Salamon prófétáról nevezték el, aki a legenda szerint itt van eltemetve, vagy legalábbis itt imádkozott. A Szulajman-hegy számos történelmi emléknek ad otthont, többek között bronzkori sziklarajzoknak, ősi kultuszhelyeknek és gyógyító rituálékhoz kapcsolódó barlangoknak. A hegyen található egy 16. században épült mecset, valamint egy modern történelmi múzeum is, amely a hegy egyik nagy barlangjába épült. 2009-ben a Szulajman-hegy volt az első kirgizisztáni helyszín, amely felkerült az UNESCO Világörökségi listájára.",
+        "ro": "Muntele Sulaiman-Too este un munte sacru situat în centrul orașului Osh, în sudul Kârgâzstanului. Se ridică brusc din Valea Fergana și este un loc de venerație pentru musulmani și credincioșii pre-islamici de peste un mileniu și jumătate. Muntele poartă numele profetului Solomon, care, conform legendei, ar fi înmormântat aici sau cel puțin s-ar fi rugat în acest loc. Sulaiman-Too găzduiește numeroase situri istorice, inclusiv petroglife din epoca bronzului, locuri de cult antice și peșteri asociate cu ritualuri de vindecare. Pe munte se află și o moschee construită în secolul al XVI-lea, precum și un muzeu istoric modern, construit într-una dintre peșterile sale mari. În 2009, Sulaiman-Too a devenit primul sit din Kârgâzstan inclus pe lista Patrimoniului Mondial UNESCO.",
+        "en": "Sulaiman-Too is a sacred mountain located in the center of the city of Osh in southern Kyrgyzstan. It rises abruptly from the Fergana Valley and has been a place of worship for Muslims and pre-Islamic believers for over a millennium and a half. The mountain is named after the Prophet Solomon, who, according to legend, is buried here or at least prayed in this location. Sulaiman-Too is home to numerous historical sites, including Bronze Age petroglyphs, ancient cult places, and caves associated with healing rituals. The mountain also features a mosque built in the 16th century and a modern historical museum constructed into one of its large caves. In 2009, Sulaiman-Too became the first site in Kyrgyzstan to be inscribed on the UNESCO World Heritage list."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gilt als einer der heiligsten Berge Zentralasiens.",
+          "Wurde 2009 Kirgisistans erste UNESCO-Weltkulturerbestätte.",
+          "Beherbergt alte Petroglyphen und prähistorische Kultstätten.",
+          "Ein Museum zur lokalen Geschichte ist in eine Berghöhle gebaut.",
+          "Erhebt sich direkt im Zentrum der südlichen Stadt Osch.",
+          "Wird mit dem Propheten Salomo (Sulaiman in der islamischen Tradition) in Verbindung gebracht."
+        ],
+        "hu": [
+          "Közép-Ázsia egyik legszentebb hegyeként tartják számon.",
+          "2009-ben lett Kirgizisztán első UNESCO Világörökségi helyszíne.",
+          "Ősi sziklarajzoknak és történelem előtti kultuszhelyeknek ad otthont.",
+          "Egy helytörténeti múzeum van beépítve a hegy egyik barlangjába.",
+          "Közvetlenül a déli város, Os központjában emelkedik.",
+          "Salamon prófétával (az iszlám hagyományban Szulajmán) hozható összefüggésbe."
+        ],
+        "ro": [
+          "Considerat unul dintre cei mai sacri munți din Asia Centrală.",
+          "A devenit primul sit al Patrimoniului Mondial UNESCO din Kârgâzstan în 2009.",
+          "Găzduiește petroglife antice și locuri de cult preistorice.",
+          "Un muzeu de istorie locală este construit într-o peșteră a muntelui.",
+          "Se ridică chiar în centrul orașului sudic Osh.",
+          "Este asociat cu Profetul Solomon (Sulaiman în tradiția islamică)."
+        ],
+        "en": [
+          "Considered one of the most sacred mountains in Central Asia.",
+          "Became Kyrgyzstan's first UNESCO World Heritage site in 2009.",
+          "Houses ancient petroglyphs and prehistoric places of worship.",
+          "A museum dedicated to local history is built into a mountain cave.",
+          "Rises directly in the center of the southern city of Osh.",
+          "Associated with the Prophet Solomon (Sulaiman in Islamic tradition)."
+        ]
+      }
+    },
+    {
+      "id": "jeti-oguz-rocks-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Jeti-Ögüz, was auf Kirgisisch \"Sieben Bullen\" bedeutet, ist eine berühmte geologische Formation aus roten Sandsteinfelsen in der Nähe des Yssykköl-Sees. Die Formation besteht aus einer Reihe imposanter roter Felsenklippen, die sich über einem üppigen, grünen Tal erheben. Der Name stammt von der Ähnlichkeit der Felsen mit einer Reihe massiver Bullen. In unmittelbarer Nähe befindet sich eine weitere bekannte Felsformation namens \"Gebrochenes Herz\", die besonders bei Paaren beliebt ist. Die Gegend um Jeti-Ögüz ist nicht nur für ihre auffällige Geologie bekannt, sondern auch für ihre Thermalquellen, die seit der Sowjetzeit in einem nahegelegenen Sanatorium genutzt werden. Die umliegenden Berge und Schluchten bieten zudem zahlreiche Wanderwege durch Tannenwälder und alpine Wiesen.",
+        "hu": "A Jeti-Ögüz, amely kirgiz nyelven \"Hét Bikát\" jelent, egy híres, vörös homokkőből álló geológiai képződmény az Iszik-köl tó közelében. A formáció egy sor lenyűgöző vörös sziklaszirtből áll, amelyek egy buja, zöld völgy fölé magasodnak. A név abból ered, hogy a sziklák hatalmas bikák sorára emlékeztetnek. A közvetlen közelben található egy másik ismert sziklaképződmény is, az úgynevezett \"Törött Szív\", amely különösen a párok körében népszerű. A Jeti-Ögüz környéke nemcsak feltűnő geológiájáról ismert, hanem hőforrásairól is, amelyeket a szovjet korszak óta hasznosítanak egy közeli szanatóriumban. A környező hegyek és szurdokok emellett számos túraútvonalat kínálnak fenyőerdőkön és alpesi réteken keresztül.",
+        "ro": "Jeti-Ögüz, care înseamnă \"Șapte Tauri\" în limba kârgâză, este o faimoasă formațiune geologică din rocă de gresie roșie, situată lângă lacul Issyk-Kul. Formațiunea este formată dintr-o serie de stânci roșii impunătoare care se ridică deasupra unei văi verzi și luxuriante. Numele provine de la asemănarea stâncilor cu un rând de tauri masivi. În imediata apropiere se află o altă formațiune stâncoasă cunoscută, numită \"Inima Frântă\", deosebit de populară printre cupluri. Zona din jurul Jeti-Ögüz este cunoscută nu doar pentru geologia sa izbitoare, ci și pentru izvoarele sale termale, care au fost folosite într-un sanatoriu din apropiere încă din perioada sovietică. Munții și defileele din jur oferă, de asemenea, numeroase trasee de drumeție prin păduri de brazi și pajiști alpine.",
+        "en": "Jeti-Ögüz, meaning \"Seven Bulls\" in Kyrgyz, is a famous geological formation of red sandstone rocks located near Lake Issyk-Kul. The formation consists of a series of imposing red rock cliffs rising above a lush, green valley. The name comes from the rocks' resemblance to a row of massive bulls. In the immediate vicinity, there is another well-known rock formation called the \"Broken Heart,\" which is particularly popular among couples. The area around Jeti-Ögüz is known not only for its striking geology but also for its thermal springs, which have been utilized in a nearby sanatorium since the Soviet era. The surrounding mountains and gorges also offer numerous hiking trails through fir forests and alpine meadows."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Besteht aus oxidierten roten Sandsteinformationen.",
+          "Der Name übersetzt sich aus dem Kirgisischen als 'Sieben Bullen'.",
+          "Die nahegelegene Formation 'Gebrochenes Herz' ist ein beliebtes Fotomotiv.",
+          "Befindet sich etwa 28 Kilometer westlich der Stadt Karakol.",
+          "Das nahegelegene Sanatorium Jeti-Ögüz wurde 1932 erbaut.",
+          "Bietet Zugang zu alpinen Wiesen und dichten Tannenwäldern."
+        ],
+        "hu": [
+          "Oxidált vörös homokkő képződményekből áll.",
+          "A neve kirgiz nyelvről 'Hét Bikára' fordítható.",
+          "A közeli 'Törött Szív' formáció népszerű fotótéma.",
+          "Körülbelül 28 kilométerre nyugatra található Karakol városától.",
+          "A közeli Jeti-Ögüz szanatóriumot 1932-ben építették.",
+          "Hozzáférést biztosít alpesi rétekhez és sűrű fenyőerdőkhöz."
+        ],
+        "ro": [
+          "Constă din formațiuni de gresie roșie oxidată.",
+          "Numele se traduce din kârgâză ca 'Șapte Tauri'.",
+          "Formațiunea din apropiere, 'Inima Frântă', este un loc popular pentru fotografii.",
+          "Situat la aproximativ 28 de kilometri vest de orașul Karakol.",
+          "Sanatoriul Jeti-Ögüz din apropiere a fost construit în 1932.",
+          "Oferă acces la pajiști alpine și păduri dense de brazi."
+        ],
+        "en": [
+          "Consists of oxidized red sandstone formations.",
+          "The name translates from Kyrgyz as 'Seven Bulls'.",
+          "The nearby 'Broken Heart' formation is a popular photo spot.",
+          "Located approximately 28 kilometers west of the city of Karakol.",
+          "The nearby Jeti-Ögüz sanatorium was built in 1932.",
+          "Provides access to alpine meadows and dense fir forests."
+        ]
+      }
+    },
+    {
+      "id": "skazka-canyon-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Skazka-Canyon, oft auch als Märchen-Canyon bezeichnet, ist eine surreale Landschaft am südlichen Ufer des Yssykköl-Sees. Der Canyon verdankt seinen Namen den bizarren und farbenfrohen Felsformationen, die durch Wind- und Wassererosion über Jahrtausende geformt wurden. Die Sandsteinfelsen leuchten in verschiedenen Rot-, Orange- und Gelbtönen, was im Kontrast zum tiefblauen Wasser des nahegelegenen Sees steht. Besucher können Formationen entdecken, die an Burgen, Drachen oder andere fantastische Kreaturen erinnern. Die Struktur des Canyons ist sehr zerbrechlich und verändert sich nach jedem starken Regen leicht. Skazka ist ein beliebtes Ziel für Fotografen und Wanderer, die die jenseitige Atmosphäre dieses geologischen Wunders erkunden möchten.",
+        "hu": "A Szakazka-kanyon, amelyet gyakran Mese-kanyonként is emlegetnek, egy szürreális táj az Iszik-köl tó déli partján. A kanyon a nevét a szél- és vízerózió által évezredek alatt formált bizarr és színes sziklaalakzatokról kapta. A homokkő sziklák a vörös, narancs és sárga különböző árnyalataiban pompáznak, ami éles kontrasztot alkot a közeli tó mélykék vizével. A látogatók olyan formációkat fedezhetnek fel, amelyek kastélyokra, sárkányokra vagy más fantasztikus lényekre emlékeztetnek. A kanyon szerkezete nagyon törékeny, és minden nagyobb esőzés után kissé megváltozik. A Szakazka népszerű célpont a fotósok és túrázók körében, akik fel akarják fedezni ennek a geológiai csodának a túlvilági hangulatát.",
+        "ro": "Canionul Skazka, numit adesea Canionul Basmelor, este un peisaj ireal situat pe malul sudic al lacului Issyk-Kul. Canionul își trage numele de la formațiunile stâncoase bizare și colorate, care au fost sculptate de eroziunea vântului și a apei de-a lungul mileniilor. Stâncile de gresie strălucesc în diverse nuanțe de roșu, portocaliu și galben, ceea ce contrastează cu apele albastru închis ale lacului din apropiere. Vizitatorii pot descoperi formațiuni care seamănă cu castele, dragoni sau alte creaturi fantastice. Structura canionului este foarte fragilă și se schimbă ușor după fiecare ploaie abundentă. Skazka este o destinație populară pentru fotografi și drumeți care doresc să exploreze atmosfera de pe altă lume a acestei minuni geologice.",
+        "en": "Skazka Canyon, often referred to as Fairy Tale Canyon, is a surreal landscape located on the southern shore of Lake Issyk-Kul. The canyon derives its name from the bizarre and colorful rock formations that have been sculpted by wind and water erosion over millennia. The sandstone rocks glow in various shades of red, orange, and yellow, which contrasts with the deep blue waters of the nearby lake. Visitors can discover formations that resemble castles, dragons, or other fantastic creatures. The structure of the canyon is highly fragile and changes slightly after every heavy rain. Skazka is a popular destination for photographers and hikers who wish to explore the otherworldly atmosphere of this geological wonder."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich am Südufer des Yssykköl-Sees in der Nähe von Tosor.",
+          "Der Name 'Skazka' bedeutet 'Märchen' auf Russisch.",
+          "Geformt durch jahrtausendelange Wind- und Wassererosion.",
+          "Die Sandsteinformationen variieren von leuchtendem Gelb bis Dunkelrot.",
+          "Das Gelände verändert seine Form nach starken Regenfällen weiter.",
+          "Eine markante Formation ist als 'Chinesische Mauer' bekannt."
+        ],
+        "hu": [
+          "Az Iszik-köl tó déli partján, Toszor közelében található.",
+          "A 'Szakazka' név oroszul 'mesét' jelent.",
+          "Évezredes szél- és vízerózió formálta.",
+          "A homokkő formációk az élénksárgától a sötétvörösig változnak.",
+          "A terep heves esőzések után továbbra is változtatja az alakját.",
+          "Az egyik kiemelkedő formáció 'Kínai Nagy Fal' néven ismert."
+        ],
+        "ro": [
+          "Situat pe malul sudic al lacului Issyk-Kul, lângă satul Tosor.",
+          "Numele 'Skazka' înseamnă 'basm' în limba rusă.",
+          "Sculptat de milenii de eroziune a vântului și a apei.",
+          "Formațiunile de gresie variază de la galben strălucitor la roșu închis.",
+          "Terenul continuă să-și schimbe forma după ploi abundente.",
+          "O formațiune proeminentă este cunoscută sub numele de 'Marele Zid Chinezesc'."
+        ],
+        "en": [
+          "Located on the southern shore of Lake Issyk-Kul near Tosor.",
+          "The name 'Skazka' translates to 'fairy tale' in Russian.",
+          "Sculpted by millennia of wind and water erosion.",
+          "The sandstone formations range from bright yellow to dark red.",
+          "The terrain continues to shift its shape after heavy rainfall.",
+          "One prominent formation is known as the 'Great Wall of China'."
+        ]
+      }
+    },
+    {
+      "id": "rukh-ordo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Rukh Ordo ist ein großer Kulturkomplex am Nordufer des Yssykköl-Sees in der Stadt Tscholponata. Der 2002 eröffnete Komplex ist der spirituellen Harmonie und dem kulturellen Austausch gewidmet. Er umfasst fünf identisch gestaltete weiße Kapellen, die die fünf großen Weltreligionen repräsentieren: Islam, Katholizismus, Orthodoxie, Buddhismus und Judentum. Neben den religiösen Stätten beherbergt Rukh Ordo Ausstellungen zur kirgisischen Geschichte, Mythologie und zum Leben prominenter Persönlichkeiten wie dem Schriftsteller Tschingis Aitmatow. Das Gelände ist mit zahlreichen Skulpturen geschmückt und bietet einen Panoramablick auf den See und die schneebedeckten Gipfel des Kungey-Alatau-Gebirges im Hintergrund.",
+        "hu": "A Ruh Ordo egy nagy kulturális komplexum az Iszik-köl tó északi partján, Csolpon-Ata városában. A 2002-ben megnyílt komplexum a spirituális harmóniának és a kulturális cserének szenteli magát. Öt azonos kialakítású fehér kápolnát foglal magába, amelyek az öt nagy világvallást képviselik: az iszlámot, a katolicizmust, az ortodoxiát, a buddhizmust és a judaizmust. A vallási emlékhelyek mellett a Ruh Ordo kiállításoknak ad otthont a kirgiz történelemről, mitológiáról, valamint olyan kiemelkedő személyiségek életéről, mint Csingiz Ajtmatov író. A területet számos szobor díszíti, és panorámás kilátást nyújt a tóra és a háttérben húzódó Kungej-Alatau hegység hófödte csúcsaira.",
+        "ro": "Rukh Ordo este un mare complex cultural situat pe malul nordic al lacului Issyk-Kul, în orașul Cholpon-Ata. Deschis în 2002, complexul este dedicat armoniei spirituale și schimbului cultural. Include cinci capele albe cu un design identic, care reprezintă cele cinci mari religii ale lumii: islamul, catolicismul, ortodoxia, budismul și iudaismul. Pe lângă lăcașurile de cult, Rukh Ordo găzduiește expoziții despre istoria kârgâză, mitologie și viața unor personalități proeminente, cum ar fi scriitorul Chingiz Aitmatov. Terenul este decorat cu numeroase sculpturi și oferă vederi panoramice ale lacului și ale vârfurilor înzăpezite ale munților Kungey-Alatau din fundal.",
+        "en": "Rukh Ordo is a large cultural complex located on the northern shore of Lake Issyk-Kul in the city of Cholpon-Ata. Opened in 2002, the complex is dedicated to spiritual harmony and cultural exchange. It includes five identically designed white chapels representing the five major world religions: Islam, Catholicism, Orthodoxy, Buddhism, and Judaism. In addition to the religious sites, Rukh Ordo houses exhibitions on Kyrgyz history, mythology, and the lives of prominent figures such as writer Chingiz Aitmatov. The grounds are decorated with numerous sculptures and offer panoramic views of the lake and the snow-capped peaks of the Kungey-Alatau mountains in the background."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in Tscholponata am Nordufer des Yssykköl-Sees.",
+          "Der Name bedeutet 'Spirituelles Zentrum' in der kirgisischen Sprache.",
+          "Verfügt über fünf Kapellen, die die großen Weltreligionen repräsentieren.",
+          "Beherbergt Ausstellungen, die dem Schriftsteller Tschingis Aitmatow gewidmet sind.",
+          "Wurde 2002 als Ort der Toleranz und Kultur gegründet.",
+          "Das Gelände ist mit zahlreichen Bronze- und Steinskulpturen verziert."
+        ],
+        "hu": [
+          "Csolpon-Ata városában, az Iszik-köl tó északi partján található.",
+          "A neve kirgiz nyelven 'Spirituális Központot' jelent.",
+          "Öt kápolnával rendelkezik, amelyek a nagy világvallásokat képviselik.",
+          "Csingiz Ajtmatov írónak szentelt kiállításoknak ad otthont.",
+          "2002-ben alapították a tolerancia és a kultúra helyszíneként.",
+          "A területet számos bronz- és kőszobor díszíti."
+        ],
+        "ro": [
+          "Situat în Cholpon-Ata, pe malul nordic al lacului Issyk-Kul.",
+          "Numele înseamnă 'Centru Spiritual' în limba kârgâză.",
+          "Are cinci capele reprezentând marile religii ale lumii.",
+          "Găzduiește expoziții dedicate scriitorului Chingiz Aitmatov.",
+          "A fost fondat în 2002 ca un loc al toleranței și culturii.",
+          "Terenul este decorat cu numeroase sculpturi din bronz și piatră."
+        ],
+        "en": [
+          "Located in Cholpon-Ata on the northern shore of Lake Issyk-Kul.",
+          "The name translates to 'Spiritual Center' in the Kyrgyz language.",
+          "Features five chapels representing the major world religions.",
+          "Houses exhibitions dedicated to the writer Chingiz Aitmatov.",
+          "Was founded in 2002 as a place of tolerance and culture.",
+          "The grounds are decorated with numerous bronze and stone sculptures."
+        ]
+      }
+    },
+    {
+      "id": "holy-trinity-karakol-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Dreifaltigkeitskirche in Karakol ist ein bemerkenswertes Beispiel russisch-orthodoxer Holzarchitektur in Kirgisistan. Das heutige Gebäude wurde 1895 fertiggestellt, nachdem die ursprüngliche Backsteinkirche 1889 durch ein Erdbeben zerstört worden war. Die Kirche ist vollständig aus Holz gebaut, ohne die Verwendung von Eisennägeln in ihrer ursprünglichen Struktur, und verfügt über kunstvolle Schnitzereien und grüne Zwiebeltürme. Während der Sowjetzeit wurde das Gebäude zweckentfremdet und als Club, Gymnasium und Kohleschuppen genutzt, bevor es nach dem Zusammenbruch der Sowjetunion 1991 an die Kirche zurückgegeben wurde. Nach umfangreichen Restaurierungsarbeiten ist die Kirche heute wieder ein aktives Gotteshaus und beherbergt mehrere gerettete religiöse Ikonen.",
+        "hu": "A karakoli Szentháromság-templom a fából készült orosz ortodox építészet egyik figyelemre méltó példája Kirgizisztánban. A jelenlegi épület 1895-ben készült el, miután az eredeti téglaépületet 1889-ben egy földrengés elpusztította. A templom teljes egészében fából épült, anélkül, hogy az eredeti szerkezetben vasszögeket használtak volna, és díszes faragásokkal, valamint zöld hagyma-kupolákkal rendelkezik. A szovjet korszakban az épületet klubként, tornateremként és szénraktárként használták, majd a Szovjetunió felbomlása után, 1991-ben adták vissza az egyháznak. Kiterjedt restaurációs munkálatok után a templom ma ismét aktív istentiszteleti hely, és számos megmentett vallási ikont őriz.",
+        "ro": "Biserica Sfânta Treime din Karakol este un exemplu remarcabil de arhitectură rusă ortodoxă din lemn în Kârgâzstan. Clădirea actuală a fost finalizată în 1895, după ce biserica originală din cărămidă a fost distrusă de un cutremur în 1889. Biserica este construită în întregime din lemn, fără a fi folosite cuie de fier în structura sa originală, și prezintă sculpturi ornamentale și cupole verzi în formă de ceapă. În timpul erei sovietice, clădirea a fost folosită în diverse scopuri, cum ar fi club, sală de sport și depozit de cărbune, înainte de a fi returnată bisericii după prăbușirea Uniunii Sovietice în 1991. În urma unor ample lucrări de restaurare, biserica este acum din nou un lăcaș de cult activ și adăpostește mai multe icoane religioase salvate.",
+        "en": "The Holy Trinity Cathedral in Karakol is a remarkable example of Russian Orthodox wooden architecture in Kyrgyzstan. The current building was completed in 1895 after the original brick church was destroyed by an earthquake in 1889. The church is built entirely of wood, without the use of iron nails in its original structure, and features ornate carvings and green onion domes. During the Soviet era, the building was repurposed and used as a club, a gymnasium, and a coal shed before being returned to the church after the collapse of the Soviet Union in 1991. Following extensive restoration work, the church is now once again an active place of worship and houses several salvaged religious icons."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut 1895 als Ersatz für eine erdbebengeschädigte Backsteinkirche.",
+          "Die Holzkonstruktion wurde ursprünglich ohne eiserne Nägel errichtet.",
+          "Verfügt über ein traditionelles grünes Dach und Zwiebeltürme.",
+          "Diente während der Sowjetzeit als Schule und Tanzsaal.",
+          "Nach 1991 an die russisch-orthodoxe Kirche zurückgegeben.",
+          "Beherbergt eine verehrte Ikone der Theotokos (Gottesmutter)."
+        ],
+        "hu": [
+          "1895-ben épült egy földrengésben megsérült téglatemplom helyett.",
+          "A faszerkezetet eredetileg vasszögek használata nélkül építették.",
+          "Hagyományos zöld tetővel és hagyma-kupolákkal rendelkezik.",
+          "A szovjet korszakban iskolaként és táncteremként használták.",
+          "1991 után visszaadták az Orosz Ortodox Egyháznak.",
+          "Egy tisztelt Theotokos (Istenanya) ikont őriznek benne."
+        ],
+        "ro": [
+          "Construită în 1895 pentru a înlocui o biserică de cărămidă distrusă de cutremur.",
+          "Structura din lemn a fost construită inițial fără cuie de fier.",
+          "Are un acoperiș verde tradițional și cupole în formă de ceapă.",
+          "A servit drept școală și sală de dans în perioada sovietică.",
+          "A fost returnată Bisericii Ortodoxe Ruse după anul 1991.",
+          "Găzduiește o icoană venerată a Maicii Domnului (Theotokos)."
+        ],
+        "en": [
+          "Built in 1895 to replace a brick church damaged by an earthquake.",
+          "The wooden structure was originally built without iron nails.",
+          "Features a traditional green roof and classic onion domes.",
+          "Served as a school and a dance hall during the Soviet era.",
+          "Was returned to the Russian Orthodox Church after 1991.",
+          "Houses a venerated icon of the Theotokos (Mother of God)."
+        ]
+      }
+    },
+    {
+      "id": "dungan-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Dunganen-Moschee in Karakol ist ein einzigartiges architektonisches Meisterwerk, das von chinesischen Muslimen (Dunganen) erbaut wurde, die im späten 19. Jahrhundert vor Verfolgung nach Kirgisistan flohen. Die Moschee wurde zwischen 1907 und 1910 unter der Leitung eines chinesischen Architekten errichtet und kombiniert traditionelle chinesische Bautechniken mit islamischen Elementen. Bemerkenswert ist, dass das gesamte Holzgebäude ohne die Verwendung von Metallnägeln zusammengefügt wurde. Das farbenfrohe Äußere ist mit Holzschnitzereien verziert, die mythologische Kreaturen wie Drachen und Phönixe darstellen, während das nach Mekka ausgerichtete Innere als Gebetsraum dient. Die Dunganen-Moschee überstand die antireligiösen Kampagnen der Sowjetära weitgehend unbeschadet und wird noch heute von der lokalen muslimischen Gemeinde genutzt.",
+        "hu": "A karakoli Dungan Mecset egyedülálló építészeti remekmű, amelyet olyan kínai muszlimok (dunganok) építettek, akik a 19. század végén az üldöztetés elől menekültek Kirgizisztánba. A mecset 1907 és 1910 között épült egy kínai építész irányításával, és a hagyományos kínai építészeti technikákat ötvözi iszlám elemekkel. Figyelemre méltó, hogy az egész faépületet fém szögek használata nélkül állították össze. A színes külsőt fafaragások díszítik, amelyek mitológiai lényeket, például sárkányokat és főnixeket ábrázolnak, miközben a Mekka felé néző belső tér imateremként szolgál. A Dungan Mecset nagyrészt sértetlenül vészelte át a szovjet korszak vallásellenes kampányait, és ma is a helyi muszlim közösség használja.",
+        "ro": "Moscheea Dungan din Karakol este o capodoperă arhitecturală unică, construită de musulmanii chinezi (dungan) care au fugit de persecuții în Kârgâzstan la sfârșitul secolului al XIX-lea. Moscheea a fost construită între 1907 și 1910 sub conducerea unui arhitect chinez și combină tehnicile tradiționale de construcție chinezești cu elemente islamice. În mod remarcabil, întreaga clădire din lemn a fost asamblată fără a folosi cuie de metal. Exteriorul colorat este decorat cu sculpturi în lemn reprezentând creaturi mitologice precum dragoni și păsări phoenix, în timp ce interiorul orientat spre Mecca servește ca sală de rugăciune. Moscheea Dungan a supraviețuit în mare parte intactă campaniilor antireligioase din era sovietică și este încă folosită de comunitatea musulmană locală.",
+        "en": "The Dungan Mosque in Karakol is a unique architectural masterpiece built by Chinese Muslims (Dungans) who fled persecution and settled in Kyrgyzstan in the late 19th century. The mosque was constructed between 1907 and 1910 under the guidance of a Chinese architect and combines traditional Chinese building techniques with Islamic elements. Remarkably, the entire wooden structure was assembled without the use of metal nails. The colorful exterior is decorated with wood carvings depicting mythological creatures such as dragons and phoenixes, while the interior facing Mecca serves as a prayer hall. The Dungan Mosque survived the anti-religious campaigns of the Soviet era largely intact and is still used by the local Muslim community today."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut von der lokalen Dungan-Gemeinschaft zwischen 1907 und 1910.",
+          "Der Bau erfolgte komplett ohne die Verwendung von Metallnägeln.",
+          "Kombiniert klassische chinesische Architektur mit islamischen Funktionen.",
+          "Die Holzschnitzereien zeigen traditionelle chinesische Drachen und Phönixe.",
+          "Diente während der Sowjetzeit vorübergehend als Lagerhaus.",
+          "Ist heute eine aktive Moschee in der Stadt Karakol."
+        ],
+        "hu": [
+          "A helyi dungan közösség építette 1907 és 1910 között.",
+          "Az építkezés teljesen fém szögek használata nélkül történt.",
+          "A klasszikus kínai építészetet ötvözi az iszlám funkciókkal.",
+          "A fafaragások hagyományos kínai sárkányokat és főnixeket ábrázolnak.",
+          "A szovjet időkben átmenetileg raktárként funkcionált.",
+          "Ma is aktív mecsetként működik Karakol városában."
+        ],
+        "ro": [
+          "Construită de comunitatea locală dungană între 1907 și 1910.",
+          "Construcția a fost realizată complet fără utilizarea cuielor de metal.",
+          "Combină arhitectura clasică chinezească cu funcțiile islamice.",
+          "Sculpturile în lemn înfățișează dragoni și păsări phoenix chinezești.",
+          "A servit temporar ca depozit în timpul perioadei sovietice.",
+          "Este o moschee activă în prezent în orașul Karakol."
+        ],
+        "en": [
+          "Built by the local Dungan community between 1907 and 1910.",
+          "The construction was completed entirely without metal nails.",
+          "Combines classic Chinese architecture with Islamic functions.",
+          "The wood carvings depict traditional Chinese dragons and phoenixes.",
+          "Served temporarily as a storehouse during the Soviet period.",
+          "Currently functions as an active mosque in the city of Karakol."
+        ]
+      }
+    },
+    {
+      "id": "manas-ordo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Manas Ordo ist ein weitläufiger historischer und kultureller Komplex in der Region Talas im Nordwesten Kirgisistans. Er ist dem legendären Helden Manas gewidmet, der zentralen Figur des kirgisischen Nationalepos, das als das längste Epos der Welt gilt. Das Herzstück des Komplexes ist ein großes Mausoleum (Gumbez), von dem lange angenommen wurde, dass es das Grab von Manas sei. Die Stätte wurde 1995 anlässlich der Feierlichkeiten zum 1000-jährigen Bestehen des Manas-Epos umfangreich renoviert und erweitert. Der Park umfasst auch ein modernes Museum, Statuen kirgisischer Helden und ein traditionelles Nomadendorf, was Manas Ordo zu einem wichtigen Pilgerort für die Kirgisen macht.",
+        "hu": "A Manasz Ordo egy hatalmas történelmi és kulturális komplexum a Talasz régióban, Kirgizisztán északnyugati részén. A legendás hősnek, Manasznak szentelték, aki a kirgiz nemzeti eposz – amely a világ leghosszabb eposzának számít – központi alakja. A komplexum központja egy nagy mauzóleum (gumbez), amelyről sokáig úgy tartották, hogy Manasz sírja. A helyszínt 1995-ben, a Manasz-eposz 1000. évfordulójának ünnepségei alkalmával jelentősen felújították és kibővítették. A park egy modern múzeumot, kirgiz hősök szobrait és egy hagyományos nomád falut is magában foglal, így a Manasz Ordo fontos zarándokhely a kirgizek számára.",
+        "ro": "Manas Ordo este un vast complex istoric și cultural situat în regiunea Talas din nord-vestul Kârgâzstanului. Este dedicat legendarului erou Manas, figura centrală a epopeii naționale kârgâze, care este considerată cea mai lungă epopee din lume. Piesa centrală a complexului este un mare mausoleu (gumbez), despre care s-a crezut mult timp că ar fi mormântul lui Manas. Situl a fost renovat și extins pe scară largă în 1995 pentru a marca sărbătorirea a 1000 de ani de la epopeea Manas. Parcul include, de asemenea, un muzeu modern, statui ale eroilor kârgâzi și un sat nomad tradițional, făcând din Manas Ordo un important loc de pelerinaj pentru poporul kârgâz.",
+        "en": "Manas Ordo is an expansive historical and cultural complex in the Talas region of northwestern Kyrgyzstan. It is dedicated to the legendary hero Manas, the central figure of the Kyrgyz national epic, which is considered the longest epic in the world. The centerpiece of the complex is a large mausoleum (gumbez) that was long believed to be the tomb of Manas. The site was extensively renovated and expanded in 1995 to mark the 1,000th anniversary celebration of the Epic of Manas. The park also includes a modern museum, statues of Kyrgyz heroes, and a traditional nomadic village, making Manas Ordo an important place of pilgrimage for the Kyrgyz people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gewidmet Manas, dem Helden des kirgisischen Nationalepos.",
+          "Beinhaltet ein Mausoleum aus dem 14. Jahrhundert.",
+          "Das Gelände umfasst ein Museum mit Exponaten zur nomadischen Kultur.",
+          "Befindet sich in der Talas-Region im Nordwesten des Landes.",
+          "Wurde 1995 anlässlich des 1000-jährigen Jubiläums des Epos erweitert.",
+          "Ist ein bedeutender Wallfahrtsort für die lokale Bevölkerung."
+        ],
+        "hu": [
+          "Manasznak, a kirgiz nemzeti eposz hősének szentelték.",
+          "Egy 14. századból származó mauzóleumot foglal magába.",
+          "A területen található egy múzeum is nomád kultúrát bemutató tárgyakkal.",
+          "Az ország északnyugati részén, a Talasz régióban fekszik.",
+          "1995-ben, az eposz 1000 éves évfordulója alkalmából bővítették ki.",
+          "Jelentős zarándokhely a helyi lakosság számára."
+        ],
+        "ro": [
+          "Dedicat lui Manas, eroului epopeii naționale kârgâze.",
+          "Include un mausoleu datând din secolul al XIV-lea.",
+          "Terenul cuprinde un muzeu cu exponate despre cultura nomadă.",
+          "Situat în regiunea Talas din nord-vestul țării.",
+          "A fost extins în 1995 pentru a marca cea de-a 1000-a aniversare a epopeii.",
+          "Este un loc de pelerinaj important pentru populația locală."
+        ],
+        "en": [
+          "Dedicated to Manas, the hero of the Kyrgyz national epic.",
+          "Contains a mausoleum dating back to the 14th century.",
+          "The grounds include a museum with artifacts of nomadic culture.",
+          "Located in the Talas Region in the northwestern part of the country.",
+          "Was expanded in 1995 to mark the 1,000th anniversary of the epic.",
+          "Serves as an important pilgrimage site for the local population."
+        ]
+      }
+    },
+    {
+      "id": "ala-too-square-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Ala-Too-Platz ist der zentrale öffentliche Platz in Bischkek, der Hauptstadt Kirgisistans. Er wurde 1984 zur Feier des 60. Jahrestages der Kirgisischen SSR erbaut und war ursprünglich als Lenin-Platz bekannt. Das Herzstück des Platzes ist eine große Statue des kirgisischen Nationalhelden Manas, die 2011 die frühere Statue der Freiheitsgöttin Erkindik ersetzte. Auf dem Platz befindet sich auch ein 45 Meter hoher Fahnenmast, an dem stündlich eine Zeremonie zum Wechsel der Ehrenwache stattfindet. Ala-Too ist das politische und soziale Zentrum der Stadt und war Schauplatz zahlreicher staatlicher Feierlichkeiten sowie politischer Proteste in der jüngeren Geschichte des Landes.",
+        "hu": "Az Ala-Too tér Kirgizisztán fővárosának, Biskeknek a központi köztere. 1984-ben épült a Kirgiz SZSZK fennállásának 60. évfordulója alkalmából, és eredetileg Lenin térként volt ismert. A tér középpontjában a kirgiz nemzeti hős, Manasz nagy szobra áll, amely 2011-ben váltotta fel a Szabadság istennőjének, Erkindiknek a korábbi szobrát. A téren található egy 45 méter magas zászlórúd is, ahol óránként ünnepélyes őrségváltást tartanak. Az Ala-Too a város politikai és társadalmi központja, amely számos állami ünnepségnek és politikai tüntetésnek adott otthont az ország újabb kori történelmében.",
+        "ro": "Piața Ala-Too este principala piață publică din Bishkek, capitala Kârgâzstanului. A fost construită în 1984 pentru a sărbători a 60-a aniversare a RSS Kârgâze și a fost cunoscută inițial sub numele de Piața Lenin. Piesa centrală a pieței este o mare statuie a eroului național kârgâz Manas, care a înlocuit o statuie anterioară a zeiței libertății Erkindik în 2011. Piața are, de asemenea, un catarg înalt de 45 de metri unde are loc o ceremonie de schimbare a gărzii de onoare în fiecare oră. Ala-Too este centrul politic și social al orașului și a fost locul a numeroase sărbători de stat, precum și al unor proteste politice în istoria recentă a țării.",
+        "en": "Ala-Too Square is the central public square in Bishkek, the capital of Kyrgyzstan. It was built in 1984 to celebrate the 60th anniversary of the Kyrgyz SSR and was originally known as Lenin Square. The centerpiece of the square is a large statue of the Kyrgyz national hero Manas, which replaced a previous statue of the goddess of freedom, Erkindik, in 2011. The square also features a 45-meter-tall flagpole where an honor guard changing ceremony takes place every hour. Ala-Too is the political and social hub of the city and has been the site of numerous state celebrations as well as political protests in the country's recent history."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut 1984 zum 60. Jahrestag der Kirgisischen SSR.",
+          "Verfügt über ein Denkmal für den Nationalhelden Manas.",
+          "Ein 45 Meter hoher Fahnenmast beherrscht die Mitte des Platzes.",
+          "Ein täglicher Wachwechsel findet am zentralen Fahnenmast statt.",
+          "Diente als Hauptschauplatz der Tulpenrevolution von 2005.",
+          "Hieß vor der Unabhängigkeit Kirgisistans Lenin-Platz."
+        ],
+        "hu": [
+          "1984-ben épült a Kirgiz SZSZK 60. évfordulója alkalmából.",
+          "A nemzeti hős, Manasz emlékműve található rajta.",
+          "A tér közepét egy 45 méter magas zászlórúd uralja.",
+          "Napi őrségváltás zajlik a központi zászlórúdnál.",
+          "A 2005-ös tulipános forradalom fő helyszíneként szolgált.",
+          "Kirgizisztán függetlensége előtt Lenin tér volt a neve."
+        ],
+        "ro": [
+          "Construită în 1984 pentru a 60-a aniversare a RSS Kârgâze.",
+          "Prezintă un monument dedicat eroului național Manas.",
+          "Un catarg înalt de 45 de metri domină centrul pieței.",
+          "Are loc o schimbare zilnică a gărzii la catargul central.",
+          "A servit drept loc principal în timpul Revoluției Lalelelor din 2005.",
+          "S-a numit Piața Lenin înainte de independența Kârgâzstanului."
+        ],
+        "en": [
+          "Built in 1984 to mark the 60th anniversary of the Kyrgyz SSR.",
+          "Features a monument dedicated to the national hero Manas.",
+          "A 45-meter-tall flagpole dominates the center of the square.",
+          "A daily changing of the guard takes place at the central flagpole.",
+          "Served as the main site during the Tulip Revolution in 2005.",
+          "Was named Lenin Square prior to Kyrgyzstan's independence."
+        ]
+      }
+    }
+  ]
+}

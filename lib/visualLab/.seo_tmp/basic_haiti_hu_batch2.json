@@ -1,0 +1,130 @@
+{
+  "lang": "hu",
+  "country": "Haiti",
+  "files": [
+    "lib/visualLab/data/poiExtraHaitiHistoryV2.ts",
+    "lib/visualLab/data/poiExtraHaitiLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-de-la-riviere-blanche-history-v2",
+      "description": "A fővárostól északra fekvő történelmi védmű, amely a forradalmi csapatok egyik fontos bázisa volt.",
+      "facts": [
+        "Strategikus mocsárvidéki fekvés",
+        "A függetlenségi háború maradványai",
+        "Katonai megfigyelőpont",
+        "Földsáncok és kőfalak"
+      ]
+    },
+    {
+      "id": "habitation-saint-jean-history-v2",
+      "description": "Egy egykori gyarmati ültetvény területe, amely ma Haiti mezőgazdasági múltjának és a rabszolgaság elleni küzdelemnek az emlékhelye.",
+      "facts": [
+        "Gyarmati korabeli romok",
+        "Történelmi cukornád-feldolgozó",
+        "Kulturális örökségi helyszín",
+        "Régészeti feltárások területe"
+      ]
+    },
+    {
+      "id": "fort-des-trois-baies-history-v2",
+      "description": "A Fort-Liberté-öböl bejáratát védő erődítményrendszer része, amely a kalóztámadások ellen nyújtott védelmet.",
+      "facts": [
+        "Az öböl stratégiai őrzője",
+        "Masszív tüzérségi állások",
+        "XVIII. századi francia építészet",
+        "A tengeri védelem központja"
+      ]
+    },
+    {
+      "id": "fort-de-la-presquile-est-history-v2",
+      "description": "A Môle-Saint-Nicolas félszigeten található erőd, amely a sziget északnyugati vízi útjait ellenőrizte.",
+      "facts": [
+        "A 'Haiti Gibraltárja' része",
+        "Lenyűgöző tengeri panoráma",
+        "Haditengerészeti bázis volt",
+        "Mészkő sziklákra épült"
+      ]
+    },
+    {
+      "id": "haiti-cathedral-cap-haitien-landmarks-v2",
+      "description": "Cap-Haïtien főterén álló monumentális katedrális, a város vallási és kulturális életének központja.",
+      "facts": [
+        "Nagyboldogasszony-székesegyház",
+        "Gyarmati korabeli alapok",
+        "Díszes belső boltívek",
+        "Haiti északi részének legnagyobb temploma"
+      ]
+    },
+    {
+      "id": "haiti-fort-alexandre-landmarks-v2",
+      "description": "Egyike a Dessalines által építtetett védelmi gyűrű erődjeinek, amely a hegycsúcsról uralja a tájat.",
+      "facts": [
+        "A függetlenség után épült",
+        "Masszív kőfalas erődítmény",
+        "Kiváló stratégiai rálátás",
+        "Katonai mérnöki mestermunka"
+      ]
+    },
+    {
+      "id": "haiti-monument-marron-inconnu-landmarks-v2",
+      "description": "Port-au-Prince leghíresebb szobra, amely a szabadságért küzdő, menekült rabszolgák (maronok) emlékét őrzi.",
+      "facts": [
+        "A kagylókürtöt fújó rabszolga",
+        "Haiti szabadságának jelképe",
+        "A Nemzeti Palota közelében",
+        "Albert Mangonès alkotása"
+      ]
+    },
+    {
+      "id": "haiti-fort-toussaint-landmarks-v2",
+      "description": "A Fort-Liberté közelében fekvő erőd, amely Toussaint Louverture tiszteletére kapta a nevét a függetlenségi harcok idején.",
+      "facts": [
+        "Védelmi láncolat eleme",
+        "Történelmi emlékhely",
+        "Kilátás az északi öbölre",
+        "Kőből faragott bástyák"
+      ]
+    },
+    {
+      "id": "haiti-cathedrale-jacmel-landmarks-v2",
+      "description": "Jacmel történelmi belvárosában álló elegáns székesegyház, amely a XIX. századi építészet egyik gyöngyszeme.",
+      "facts": [
+        "Szent Jakab és Fülöp temploma",
+        "Viktoriánus stílusjegyek",
+        "Jacmel művészeti negyedében",
+        "Fémvázas tetőszerkezet"
+      ]
+    },
+    {
+      "id": "haiti-place-saint-pierre-landmarks-v2",
+      "description": "Pétion-Ville központi tere, amely népszerű találkozóhely parkokkal, sétányokkal és pezsgő élettel.",
+      "facts": [
+        "Modern városi park",
+        "Közösségi rendezvények helyszíne",
+        "Szökőkutak és pihenőhelyek",
+        "Kereskedelmi negyed szívében"
+      ]
+    },
+    {
+      "id": "haiti-fort-ogé-landmarks-v2",
+      "description": "Jacmel közelében található erőd, amely a forradalom egyik vezéralakjáról, Vincent Ogé-ról kapta a nevét.",
+      "facts": [
+        "Déli védelmi vonal része",
+        "Dombvidéki elhelyezkedés",
+        "Történelmi tüzérségi maradványok",
+        "A nemzeti ellenállás szimbóluma"
+      ]
+    },
+    {
+      "id": "haiti-jardin-botanique-cayes-landmarks-v2",
+      "description": "Les Cayes városában található tudományos botanikus kert, amely Haiti gazdag flóráját mutatja be és védi.",
+      "facts": [
+        "Hatalmas pálmagyűjtemény",
+        "Oktatási és kutatási központ",
+        "Trópusi virágok és növények",
+        "Természetvédelmi oázis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "lang": "en",
+  "country": "Syria",
+  "files": [
+    "lib/visualLab/data/poiExtraSyriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSyriaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSyriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bab-sharqi-landmarks-v2",
+      "description": "Bab Sharqi is one of the eight ancient city gates of Damascus, known as the Gate of the East. It is the only gate that remains largely intact from the Roman era.",
+      "facts": ["Constructed during the Roman period", "Original name was Gate of the Sun", "Located in the Old City of Damascus", "Symbol of historic Damascus architecture"]
+    },
+    {
+      "id": "lake-muzairib-nature-v2",
+      "description": "Lake Muzairib is a natural freshwater lake located in the Daraa Governorate of southwestern Syria. It is a popular destination for locals due to its scenic beauty.",
+      "facts": ["Located in the Hauran region", "Freshwater source for irrigation", "Important local biodiversity spot", "Surrounded by agricultural lands"]
+    },
+    {
+      "id": "slenfeh-forest-nature-v2",
+      "description": "Slenfeh is a mountain resort area in the Latakia Governorate, famous for its lush forests and cool climate. It sits high in the Coastal Mountain Range.",
+      "facts": ["Located in the Coastal Mountain Range", "Famous for pine and cedar trees", "Popular summer vacation destination", "Elevated position at 1,130 meters"]
+    },
+    {
+      "id": "jabal-al-shumariyah-relief-v2",
+      "description": "Jabal al-Shumariyah is a mountain peak located in the Syrian Desert, east of Homs. It is part of the Jabal al-Shumariyah range which rises above the surrounding plateau.",
+      "facts": ["Located in the Syrian Desert", "Part of the Homs Governorate", "Geographically distinct limestone formation", "Arid mountain terrain"]
+    }
+  ]
+}

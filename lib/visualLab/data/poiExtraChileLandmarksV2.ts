@@ -90,8 +90,8 @@ export const poiExtraChileLandmarksV2: POI[] = [
     factsAdvanced: {
       de: ["Surreale Mondlandschaft in der Atacama-Wüste.", "Berühmt für bizarre Salz- und Felsformationen.", "Einer der trockensten Orte der Welt mit geologischen Besonderheiten.", "Spektakuläres Farbenspiel bei Sonnenuntergang."],
       hu: ["A NASA itt tesztelte a Mars-járók prototípusait", "A völgy része a Los Flamencos Nemzeti Rezervátumnak", "A híres 'Három Mária' sziklaalakzat is itt található", "Ez a Föld egyik legszárazabb területe"],
-      ro: ["NASA a testat prototipuri de rover-e marțiene în acest mediu ostil.", "Valea face parte din Rezervația Națională Los Flamencos.", "Găzduiește faimoasa formațiune stâncoasă numită \\\"Cele Trei Marii\\\".", "Este considerat unul dintre cele mai aride locuri de pe Pământ."],
-      en: ["NASA tested Mars rover prototypes here.", "The valley is part of the Los Flamencos National Reserve.", "Home to the famous 'Three Marys' rock formation.", "One of the driest places on Earth."]
+      ro: ["NASA a testat prototipuri de rover-e marțiene în acest mediu ostil.", "Găzduiește faimoasa formațiune stâncoasă numită \\\\\\\"Cele Trei Marii\\\\\\\".", "Este considerat unul dintre cele mai aride locuri de pe Pământ."],
+      en: ["NASA tested Mars rover prototypes here.", "Home to the famous 'Three Marys' rock formation.", "One of the driest places on Earth."]
     },
     facts: {
       de: ["Die Landschaft erinnert stark an den Mond.", "Es ist Teil des Nationalreservats Los Flamencos."],
@@ -196,7 +196,7 @@ export const poiExtraChileLandmarksV2: POI[] = [
       de: ["Einzigartiges kulturelles und architektonisches Erbe.", "Heimat von zahlreichen UNESCO-geschützten Holzkirchen.", "Bekannt für die typischen Pfahlbauten ('Palafitos').", "Region mit tief verwurzelten maritimen Traditionen und Legenden."],
       hu: ["16 fatemplom tartozik az UNESCO Világörökséghez", "A leghíresebb palafitók Castro városában láthatók", "A sziget híres több száz fajta burgonyájáról", "Sajátos, misztikus mitológiája van (pl. Caleuche szellemhajó)"],
       ro: ["Un număr de 16 biserici de lemn sunt protejate de UNESCO.", "Cele mai faimoase \\\"palafitos\\\" pot fi văzute în orașul Castro.", "Insula este recunoscută pentru cultivarea a sute de varietăți de cartofi nativi.", "Posedă o mitologie unică, precum legenda navei fantomă Caleuche."],
-      en: ["16 wooden churches are UNESCO World Heritage sites.", "The most famous palafitos are in the city of Castro.", "The island is famous for its hundreds of potato varieties.", "Has a distinctive, mystical mythology (e.g., the Caleuche ghost ship)."]
+      en: ["The most famous palafitos are in the city of Castro.", "The island is famous for its hundreds of potato varieties.", "Has a distinctive, mystical mythology (e.g., the Caleuche ghost ship)."]
     },
     facts: {
       de: ["Die Insel hat eine ganz eigene Mythologie.", "Die Holzkirchen gehören zum UNESCO-Weltkulturerbe."],

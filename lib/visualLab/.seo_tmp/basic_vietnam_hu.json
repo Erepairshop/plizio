@@ -1,0 +1,28 @@
+{
+  "lang": "hu",
+  "country": "Vietnam",
+  "files": [
+    "lib/visualLab/data/poiExtraVietnamNatureV2.ts",
+    "lib/visualLab/data/poiExtraVietnamReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nho-que-river-nature-v2",
+      "description": "A Nho Que folyó a Dong Van kőfennsíkon kanyarog, drámai kanyonokat vájva. Fontos vízi út és népszerű hely a hajókirándulásokra.",
+      "facts": [
+        "A vietnámi Ha Giang tartományban található.",
+        "A Ma Pi Leng hágó alatt folyik.",
+        "Főleg karsztvidéken halad át."
+      ]
+    },
+    {
+      "id": "ta-xua-mountain-relief-v2",
+      "description": "A Ta Xua hegy egy magas csúcs Vietnám északi részén, amely híres a 'felhővadaszatról'. Gyakran borítja vastag ködfátyol, misztikus látványt nyújtva.",
+      "facts": [
+        "Son La tartományban, Bac Yen körzetében fekszik.",
+        "Magassága körülbelül 2865 méter.",
+        "Népszerű úti cél a túrázók körében."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-uwaynat-sudan-relief-v2",
+      "description": "Ein riesiges Granit-Gebirge an der Grenze zwischen Sudan, Libyen und Ägypten.",
+      "facts": ["Massives Granitgebirge", "Grenzregion", "Reliefstruktur"]
+    },
+    {
+      "id": "dongola-plain-relief-v2",
+      "description": "Eine weite Ebene bei Dongola, die durch den Nil geprägt ist.",
+      "facts": ["Ebene", "Flusslandschaft", "Relief"]
+    },
+    {
+      "id": "jebel-mimi-relief-v2",
+      "description": "Ein markanter Berg im westlichen Teil des Landes.",
+      "facts": ["Berg", "Relief", "Geografie"]
+    },
+    {
+      "id": "wadi-howar-upper-relief-v2",
+      "description": "Der obere Abschnitt des ehemaligen Wadis im trockenen Nordwesten.",
+      "facts": ["Trockental", "Geografisches Relief", "Ehemaliger Flusslauf"]
+    },
+    {
+      "id": "khor-el-gash-plain-relief-v2",
+      "description": "Eine Schwemmebene, die durch den saisonalen Fluss Khor el Gash geprägt wird.",
+      "facts": ["Schwemmebene", "Flusslandschaft", "Relief"]
+    }
+  ]
+}

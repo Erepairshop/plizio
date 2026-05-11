@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "xaysimo-nature-v2",
+      "description": "Xaysimo este o zonă de platou aridă și vastă în centrul Somaliei, esențială pentru păstorit.",
+      "facts": ["Platou arid", "Zonă centrală", "Pășuni nomade"]
+    },
+    {
+      "id": "juba-delta-nature-v2",
+      "description": "Delta râului Juba este o zonă fertilă și diversificată unde râul se varsă în Oceanul Indian.",
+      "facts": ["Zonă fertilă", "Delta râului", "Biodiversitate bogată"]
+    },
+    {
+      "id": "shebelle-middle-reach-nature-v2",
+      "description": "Cursul mijlociu al râului Shebelle este o zonă agricolă vitală pentru populația somaleză.",
+      "facts": ["Zonă agricolă", "Cursul mijlociu", "Sursă de irigații"]
+    },
+    {
+      "id": "dadaab-bushland-nature-v2",
+      "description": "Zona de tufișuri Dadaab este un peisaj semiarid tipic pentru ecosistemele din sudul țării.",
+      "facts": ["Ecosistem semiarid", "Zona de sud", "Vegetație de tufișuri"]
+    },
+    {
+      "id": "hobyo-dunes-nature-v2",
+      "description": "Dunele Hobyo sunt formațiuni dunare impresionante de-a lungul coastei de est a Somaliei.",
+      "facts": ["Dune de nisip", "Coasta estică", "Peisaj dinamic"]
+    },
+    {
+      "id": "xarardheere-coast-nature-v2",
+      "description": "Coasta Xarardheere este o zonă maritimă strategică pe țărmul estic al țării.",
+      "facts": ["Zonă maritimă", "Țărmul estic", "Acces la ocean"]
+    },
+    {
+      "id": "barawa-coast-nature-v2",
+      "description": "Coasta Barawa este renumită pentru plajele sale și importanța istorică în comerțul maritim.",
+      "facts": ["Plaje întinse", "Comerț istoric", "Regiunea Shabeellaha Hoose"]
+    },
+    {
+      "id": "ceerigaabo-uplands-nature-v2",
+      "description": "Podisul Ceerigaabo este o regiune înaltă, răcoroasă, cu un ecosistem unic în nordul țării.",
+      "facts": ["Regiune înaltă", "Climat temperat", "Ecosistem unic"]
+    },
+    {
+      "id": "kismayo-marine-nature-v2",
+      "description": "Zona marină din Kismayo oferă habitate bogate pentru viața subacvatică de-a lungul coastei de sud.",
+      "facts": ["Habitate marine", "Coasta de sud", "Biodiversitate bogată"]
+    },
+    {
+      "id": "jowhar-floodplain-nature-v2",
+      "description": "Câmpia inundabilă din Jowhar este o zonă fertilă formată de revărsarea râului Shebelle.",
+      "facts": ["Câmpie inundabilă", "Râul Shebelle", "Zonă fertilă"]
+    }
+  ]
+}

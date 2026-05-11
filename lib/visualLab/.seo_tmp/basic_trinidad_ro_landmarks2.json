@@ -1,0 +1,54 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-maracas-beach-landmarks-v2",
+      "description": "Plajă celebră cu nisip auriu, înconjurată de munți și vegetație luxuriantă, foarte populară printre localnici.",
+      "facts": ["Plajă celebră", "Nisip auriu", "Munți"]
+    },
+    {
+      "id": "tt-pitch-lake-landmarks-v2",
+      "description": "Cel mai mare depozit natural de asfalt din lume, un sit geologic fascinant și unic în Trinidad.",
+      "facts": ["Depozit asfalt", "Sit geologic", "Record mondial"]
+    },
+    {
+      "id": "tt-botanic-gardens-landmarks-v2",
+      "description": "Grădini botanice vaste, adăpostind o varietate impresionantă de plante tropicale și arbori exotici.",
+      "facts": ["Grădini botanice", "Flora tropicală", "Punct de relaxare"]
+    },
+    {
+      "id": "tt-pigeon-point-jetty-landmarks-v2",
+      "description": "Debarcader emblematic în Tobago, renumit pentru apele cristaline și vederea către Oceanul Atlantic.",
+      "facts": ["Tobago", "Debarcader", "Oceanul Atlantic"]
+    },
+    {
+      "id": "tt-trinidad-memorial-park-landmarks-v2",
+      "description": "Parc memorial dedicat comemorării istoriei naționale, oferind un spațiu de reculegere în capitală.",
+      "facts": ["Parc memorial", "Istorie națională", "Spațiu liniștit"]
+    },
+    {
+      "id": "tt-bocas-islands-landmarks-v2",
+      "description": "Grup de insule spectaculoase situate între Trinidad și Venezuela, ideale pentru excursii și explorare.",
+      "facts": ["Arhipelag", "Explorare", "Peisaj marin"]
+    },
+    {
+      "id": "tt-caribbean-cinema-landmarks-v2",
+      "description": "Centru de divertisment popular, reflectând viața modernă și cultura urbană din Trinidad.",
+      "facts": ["Divertisment", "Viață modernă", "Cultură urbană"]
+    },
+    {
+      "id": "tt-san-fernando-hill-landmarks-v2",
+      "description": "Colina San Fernando, un punct de observație natural care oferă vederi panoramice asupra orașului și coastei.",
+      "facts": ["Punct de observație", "San Fernando", "Vederea panoramică"]
+    },
+    {
+      "id": "tt-trinidad-country-club-landmarks-v2",
+      "description": "Club exclusivist care oferă facilități de recreere și un spațiu social apreciat în comunitatea locală.",
+      "facts": ["Club de recreere", "Facilități", "Socializare"]
+    }
+  ]
+}

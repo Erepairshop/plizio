@@ -1,0 +1,427 @@
+{
+  "lang": "hu",
+  "country": "sudan",
+  "files": ["poiExtraSudanEconomicV2.ts"],
+  "items": [
+    {
+      "id": "bashayer-marine-terminal-economic-v2",
+      "description": {
+        "hu": "A Bashayer olajterminál Szudán legfontosabb kőolaj-exportkikötője, Port Szudántól délre fekszik."
+      },
+      "facts": {
+        "hu": [
+          "Az ország legnagyobb olajkikötője",
+          "Több rakodóöböllel rendelkezik",
+          "Fontos devizaforrás",
+          "Az 1990-es évek végén készült el"
+        ]
+      }
+    },
+    {
+      "id": "al-khair-terminal-economic-v2",
+      "description": {
+        "hu": "A Port Szudán-i Al-Khair terminál a hazai piacra szánt kőolajtermékek és gáz importjára specializálódott."
+      },
+      "facts": {
+        "hu": [
+          "Finomított termékekre specializálódott",
+          "Fontos importállomás",
+          "Kiegészíti a Bashayer terminált",
+          "Biztosítja az energiaellátást"
+        ]
+      }
+    },
+    {
+      "id": "prince-osman-digna-port-economic-v2",
+      "description": {
+        "hu": "A Suakinban található kikötő elsősorban a Szaúd-Arábiába irányuló utasforgalmat és az élőállat-exportot szolgálja."
+      },
+      "facts": {
+        "hu": [
+          "Fontos a mekkai zarándokok számára",
+          "Állatexport-központ",
+          "Történelmi kikötőváros",
+          "Tehermentesíti Port Szudánt"
+        ]
+      }
+    },
+    {
+      "id": "port-sudan-south-port-economic-v2",
+      "description": {
+        "hu": "Port Szudán déli kikötői a konténerforgalom és az általános áruszállítás fő központjai Szudánban."
+      },
+      "facts": {
+        "hu": [
+          "Az ország legnagyobb konténerterminálja",
+          "A legfontosabb kereskedelmi csomópont",
+          "A legmodernebb kikötői létesítmény",
+          "Exportcikkek átrakodóhelye"
+        ]
+      }
+    },
+    {
+      "id": "port-sudan-green-port-economic-v2",
+      "description": {
+        "hu": "A Port Szudán-i Zöld Kikötő az olyan ömlesztett szárazáruk átrakására specializálódott, mint a búza, a műtrágya és a cement."
+      },
+      "facts": {
+        "hu": [
+          "Ömlesztett árukra specializálódott",
+          "Fontos a gabonaimport szempontjából",
+          "Nagy silókkal rendelkezik",
+          "Központi jelentőségű az élelmezésbiztonság szempontjából"
+        ]
+      }
+    },
+    {
+      "id": "kosti-inland-port-economic-v2",
+      "description": {
+        "hu": "A Fehér-Níluson fekvő Kosti folyami kikötője a Dél-Szudánnal folytatott kereskedelem fontos átrakóhelye."
+      },
+      "facts": {
+        "hu": [
+          "Szudán legnagyobb folyami kikötője",
+          "Kapu Dél-Szudán felé",
+          "Fogyasztási cikkek átrakodása",
+          "Kapcsolat a vasúttal"
+        ]
+      }
+    },
+    {
+      "id": "wadi-halfa-river-port-economic-v2",
+      "description": {
+        "hu": "A Nubia-tó partján fekvő Wadi Halfa folyami kikötője Szudán és Egyiptom közötti komp- és teherforgalmat bonyolít le."
+      },
+      "facts": {
+        "hu": [
+          "Határátkelő Egyiptomba",
+          "Kompjárat Asszuánba",
+          "Fontos a határmenti kereskedelemben",
+          "A Nubia-tó partján fekszik"
+        ]
+      }
+    },
+    {
+      "id": "kenana-sugar-factory-economic-v2",
+      "description": {
+        "hu": "A Kenana Cukorgyár a világ egyik legnagyobb integrált cukornád-komplexuma, és a szudáni agráripar sarokköve."
+      },
+      "facts": {
+        "hu": [
+          "A világ egyik legnagyobb gyára",
+          "Bioetanolt is termel",
+          "Nemzetközi befektetések",
+          "Hatalmas termőterületek"
+        ]
+      }
+    },
+    {
+      "id": "white-nile-sugar-factory-economic-v2",
+      "description": {
+        "hu": "A Fehér-Nílus Cukorgyár egy modern megaprojekt, amely cukrot és melléktermékeket, például etanolt és áramot állít elő."
+      },
+      "facts": {
+        "hu": [
+          "Állati takarmányt is termel",
+          "Saját áramot állít elő",
+          "Jelentős munkaadó",
+          "Modern feldolgozási technológia"
+        ]
+      }
+    },
+    {
+      "id": "assalaya-sugar-factory-economic-v2",
+      "description": {
+        "hu": "A Fehér-Nílus mentén fekvő Assalaya Cukorgyár jelentősen hozzájárul a nemzeti cukortermeléshez."
+      },
+      "facts": {
+        "hu": [
+          "Állami vállalat",
+          "A Nílus vizét használja öntözésre",
+          "A helyi piacot látja el",
+          "A cukorkezdeményezés része"
+        ]
+      }
+    },
+    {
+      "id": "guneid-sugar-factory-economic-v2",
+      "description": {
+        "hu": "A Guneid volt az első modern cukorgyár Szudánban, amely a Gezira régióból származó cukornádat dolgozza fel."
+      },
+      "facts": {
+        "hu": [
+          "Szudán legrégebbi cukorgyára",
+          "Az 1960-as években alapították",
+          "Gezira központja",
+          "Fontos ipari örökség"
+        ]
+      }
+    },
+    {
+      "id": "new-halfa-sugar-factory-economic-v2",
+      "description": {
+        "hu": "Az Új-Halfában található létesítményt azért építették, hogy munkát biztosítsanak a Wadi Halfa területéről kitelepítetteknek."
+      },
+      "facts": {
+        "hu": [
+          "Egy áttelepítési projekt része",
+          "A Khashm-el-Girba gátból profitál",
+          "Cukor az ország keleti részének",
+          "Fontos gazdasági tényező Kasszalában"
+        ]
+      }
+    },
+    {
+      "id": "sennar-sugar-factory-economic-v2",
+      "description": {
+        "hu": "A Sennar Cukorgyár a Sennar-gát melletti öntözött földekről származó cukornádat dolgozza fel."
+      },
+      "facts": {
+        "hu": [
+          "A Sennar-gát vizét használja",
+          "Hozzájárul a regionális gazdasághoz",
+          "Állami üzemeltetésű",
+          "Termelés a hazai piacra"
+        ]
+      }
+    },
+    {
+      "id": "al-jaili-oil-refinery-economic-v2",
+      "description": {
+        "hu": "A Kartúmtól északra fekvő Al-Jaili finomító Szudán legnagyobb és legmodernebb olajfinomítója."
+      },
+      "facts": {
+        "hu": [
+          "A legnagyobb finomító Szudánban",
+          "Közös vállalat Kínával (CNPC)",
+          "Nil-Blend nyersolajat finomít",
+          "A hazai kereslet nagy részét fedezi"
+        ]
+      }
+    },
+    {
+      "id": "el-obeid-oil-refinery-economic-v2",
+      "description": {
+        "hu": "Az El Obeid-i finomító a nyugati és déli olajmezőkről származó nehéz kőolajat dolgozza fel."
+      },
+      "facts": {
+        "hu": [
+          "Nehézolajra specializálódott",
+          "Fontos aszfalttermelő",
+          "Kordofán és Dárfúr régiókat látja el",
+          "Az 1990-es években épült"
+        ]
+      }
+    },
+    {
+      "id": "port-sudan-oil-refinery-economic-v2",
+      "description": {
+        "hu": "A régi Port Szudán-i finomító volt az ország első finomítója, amely stratégiai helyen, a kikötőben található."
+      },
+      "facts": {
+        "hu": [
+          "A legrégebbi finomító Szudánban",
+          "Stratégiai elhelyezkedés a kikötőben",
+          "Gyakori korszerűsítési tervek",
+          "Az 1960-as években alapították"
+        ]
+      }
+    },
+    {
+      "id": "atbara-cement-factory-economic-v2",
+      "description": {
+        "hu": "Az atbarai cementgyár az egyik legnagyobb múltra visszatekintő építőanyag-gyártó üzem Szudánban."
+      },
+      "facts": {
+        "hu": [
+          "A szudáni cementipar úttörője",
+          "A Nílus völgyéből származó mészkövet használja",
+          "Hozzájárul az infrastruktúrához",
+          "Atbara ipari központjában található"
+        ]
+      }
+    },
+    {
+      "id": "rabak-nile-cement-economic-v2",
+      "description": {
+        "hu": "A Nile Cement Company rabaki gyára fontos építőanyaggal látja el Szudán középső és déli részét."
+      },
+      "facts": {
+        "hu": [
+          "Fontos építőanyag-szállító",
+          "Stratégiai elhelyezkedés a Fehér-Nílus partján",
+          "Növeli az építőipari kapacitásokat",
+          "Államilag támogatott projekt"
+        ]
+      }
+    },
+    {
+      "id": "berber-cement-factory-economic-v2",
+      "description": {
+        "hu": "A berberi modern cementgyár egyike azoknak a létesítményeknek, amelyeket Szudán építőiparának fejlesztésére építettek."
+      },
+      "facts": {
+        "hu": [
+          "Külföldi befektetések",
+          "Nagy termelési kapacitás",
+          "Csökkenti az importfüggőséget",
+          "Fejlett szűrőberendezések"
+        ]
+      }
+    },
+    {
+      "id": "al-takamul-cement-economic-v2",
+      "description": {
+        "hu": "Az Al-Takamul Cement egy nagy vegyesvállalat, amely Észak-Szudánban hatalmas mennyiségű cementet állít elő."
+      },
+      "facts": {
+        "hu": [
+          "Egyiptomi-szudáni projekt",
+          "Az ország egyik legnagyobb cementüzeme",
+          "A River Nile államban épült",
+          "Kiszolgálja az építőipari fellendülést"
+        ]
+      }
+    },
+    {
+      "id": "giad-industrial-city-economic-v2",
+      "description": {
+        "hu": "A Giad Industrial City a nehézipar és a járműgyártás legfontosabb központja Szudánban, Kartúmtól délre."
+      },
+      "facts": {
+        "hu": [
+          "Traktorokat és autókat szerel össze",
+          "Fémárukat és kábeleket gyárt",
+          "Partnerségek nemzetközi márkákkal",
+          "Állami presztízsprojekt"
+        ]
+      }
+    },
+    {
+      "id": "hassai-gold-mine-economic-v2",
+      "description": {
+        "hu": "A Vörös-tengeri hegyekben található Hassai aranybánya Szudán egyik leggazdagabb és legfontosabb bányája."
+      },
+      "facts": {
+        "hu": [
+          "Az ország legfontosabb aranytermelője",
+          "Az 1990-es évek óta aktív",
+          "Külszíni fejtés",
+          "Aranyrudak exportja"
+        ]
+      }
+    },
+    {
+      "id": "jebel-amir-gold-mines-economic-v2",
+      "description": {
+        "hu": "A Jebel Amir térségében lévő aranybányák fontos, bár vitatott gazdasági központot jelentenek Dárfúrban."
+      },
+      "facts": {
+        "hu": [
+          "Egy nagy aranyláz helyszíne",
+          "Évi több millió dolláros forgalom",
+          "Főleg kézműves bányászat",
+          "Nemrég államosították"
+        ]
+      }
+    },
+    {
+      "id": "block-6-balila-oil-field-economic-v2",
+      "description": {
+        "hu": "A 6-os blokkban található Balila olajmező Szudán egyik legaktívabb és legfontosabb olajtermelő területe."
+      },
+      "facts": {
+        "hu": [
+          "Erősen viszkózus olajat termel",
+          "Csővezetéken keresztül csatlakozik Kartúmhoz",
+          "A PetroEnergy üzemelteti",
+          "Fontos az El-Obeid finomító számára"
+        ]
+      }
+    },
+    {
+      "id": "galat-sufar-south-gold-economic-v2",
+      "description": {
+        "hu": "A Galat Sufar South (GSS) projekt egy modern aranybányászati vállalkozás a Núbiai-sivatagban."
+      },
+      "facts": {
+        "hu": [
+          "Nagy kutatási potenciál",
+          "Kanadai cégek részvétele",
+          "Korszerű bányászati technológia",
+          "Erősíti az északi bányászati szektort"
+        ]
+      }
+    },
+    {
+      "id": "khartoum-north-industrial-economic-v2",
+      "description": {
+        "hu": "A Kartúm Észak ipari terület a szudáni feldolgozóipar szíve, ahol számos gyár működik."
+      },
+      "facts": {
+        "hu": [
+          "Élelmiszereket és italokat gyárt",
+          "A textil- és műanyagipar központja",
+          "Az ország legsűrűbb ipari területe",
+          "Nyereséges a fogyasztói piac közelsége miatt"
+        ]
+      }
+    },
+    {
+      "id": "al-bageer-industrial-area-economic-v2",
+      "description": {
+        "hu": "Al Bageer a fővárostól délre fekvő, növekvő ipari terület, amely tehermentesíti a belső kerületeket."
+      },
+      "facts": {
+        "hu": [
+          "A hangsúly a csomagoláson és a vegyiparon van",
+          "Jól csatlakozik a kikötői autópályához",
+          "Új befektetőket vonz",
+          "Modern logisztikai központok"
+        ]
+      }
+    },
+    {
+      "id": "wad-medani-textile-factory-economic-v2",
+      "description": {
+        "hu": "A Wad Medani textilgyár a közeli Gezira síkságon termesztett gyapot feldolgozására épült."
+      },
+      "facts": {
+        "hu": [
+          "Helyi, hosszú szálú gyapotot használ",
+          "Hagyományos textilfeldolgozás",
+          "Fontos az értéklánc szempontjából",
+          "Egykor Afrika egyik legnagyobbja volt"
+        ]
+      }
+    },
+    {
+      "id": "gedarif-sesame-processing-economic-v2",
+      "description": {
+        "hu": "Az El Gedarif-i létesítmények szezámmag és cirok tisztítására és csomagolására specializálódtak."
+      },
+      "facts": {
+        "hu": [
+          "Szudán a világ egyik legnagyobb szezámmag-exportőre",
+          "A gépesített mezőgazdaság központja",
+          "Feldolgozás az exportpiacra",
+          "Szezámolaj-gyártás"
+        ]
+      }
+    },
+    {
+      "id": "khor-omar-industrial-economic-v2",
+      "description": {
+        "hu": "Az Omdurman melletti ipari park építőanyagok, kerámiák és gyógyszeripari termékek gyártására összpontosít."
+      },
+      "facts": {
+        "hu": [
+          "Helyi gyógyszeripari vállalatok telephelye",
+          "Tégla- és csempegyártás",
+          "Munkahelyek ezreit teremti meg",
+          "A külvárosok felé növekszik"
+        ]
+      }
+    }
+  ]
+}

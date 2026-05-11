@@ -72,9 +72,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptzufluss des Okavango-Deltas in Botswana.", "Entspringt auf einer Höhe von über 1700 Metern in Angola.", "Durchfließt die Provinz Cuando Cubango, die 'verlorene Welt'.", "Wichtiger Bestandteil des Kavango-Zambezi-Schutzgebietes (KAZA).", "Bekannt für seine extrem sauberen und nährstoffarmen Gewässer.", "Bietet Lebensraum für Elefanten, Flusspferde und Tigerfische.", "Besitzt ein riesiges Potenzial für nachhaltigen Ökotourismus.", "Sichert das Überleben seltener Arten im gesamten südlichen Afrika."],
-      hu: ["Dél-Angolán folyik keresztül.", "Fontos vízellátó.", "Az Okavango-deltában végződő folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Curge prin sudul Angolei.", "Sursă importantă de apă.", "Râu ce se termină în Delta Okavango.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Flows through southern Angola.", "Important water source.", "River ending in the Okavango Delta.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Az Okavango-deltában végződő folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu ce se termină în Delta Okavango.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["River ending in the Okavango Delta.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-kubango-nature-v2.webp"},
   {
     id: "rio-queve-nature-v2",
@@ -97,9 +97,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiger Fluss in der Provinz Cuanza Sul.", "Bekannt für die beeindruckenden Binga-Wasserfälle.", "Speist die ökologisch wertvollen Nebelwälder von Gabela.", "Mündet in der Nähe von Porto Amboim in den Atlantischen Ozean.", "Beherbergt eine Vielzahl von seltenen Fisch- und Vogelarten.", "Zentrales Element für die Bewässerung der regionalen Kaffeeplantagen.", "Geprägt durch dramatische Höhenunterschiede an seinem Oberlauf.", "Wird zunehmend für den Naturschutz und Tourismus erschlossen."],
-      hu: ["Számos vízesést táplál.", "Fontos élettér.", "Nyugat-angolai folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Nyugat-angolai folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Alimentează numeroase cascade.", "Linie vitală.", "Râu în vestul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Feeds numerous waterfalls.", "Important lifeline.", "River in western Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      en: ["River in western Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-queve-nature-v2.webp"},
   {
     id: "monte-moco-nature-v2",
@@ -122,9 +122,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Höchster Punkt Angolas mit einer Höhe von 2620 Metern.", "Wichtigster Standort für die Erhaltung bedrohter Bergwälder.", "Heimat des Moco-Frankolins, eines nur in Angola lebenden Vogels.", "Besteht geologisch hauptsächlich aus Granitgestein.", "Liegt in der Gemeinde Londuimbali, Provinz Huambo.", "Wurde als wichtiges Vogelschutzgebiet (IBA) identifiziert.", "Bietet eine einzigartige Flora mit vielen seltenen Orchideenarten.", "Zentraler Punkt für den aufkeimenden Bergtourismus im Land."],
-      hu: ["Huambo tartományban található.", "Magassága kb. 2620 méter.", "Angola legmagasabb hegye.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Situat în provincia Huambo.", "Înălțime aprox. 2620 metri.", "Cel mai înalt munte din Angola.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Located in Huambo province.", "Elevation approx. 2620 meters.", "The highest mountain in Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Angola legmagasabb hegye.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Cel mai înalt munte din Angola.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["The highest mountain in Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/monte-moco-nature-v2.webp"},
   {
     id: "serra-da-chela-nature-v2",
@@ -147,9 +147,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Teil der großen Randstufe (Great Escarpment) im südlichen Afrika.", "Höchste Erhebungen erreichen über 2300 Meter.", "Bildet die natürliche Grenze zwischen den Provinzen Huíla und Namibe.", "Bekannt für den spektakulären Tundavala-Abgrund.", "Beherbergt eine Vielzahl von endemischen Pflanzenarten.", "Wichtiger Wasserspeicher für die Flüsse des Südens.", "Bietet dramatische Landschaften mit senkrechten Felswänden.", "Zentrum für Geologie- und Naturschutzforschung."],
-      hu: ["Meredek lejtő a tengerparti síkságra.", "Geológiai képződmény.", "Hegyvonulat Délnyugat-Angolában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Pantă abruptă spre câmpia de coastă.", "Formațiune geologică.", "Lanț muntos în sud-vestul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Steep drop to coastal lowland.", "Geological formation.", "Mountain range in southwest Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Hegyvonulat Délnyugat-Angolában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Lanț muntos în sud-vestul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Mountain range in southwest Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/serra-da-chela-nature-v2.webp"},
   {
     id: "laguna-camanangue-nature-v2",
@@ -172,8 +172,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Bedeutendes Binnengewässer in der Provinz Lunda Sul.", "Zentrum für die handwerkliche Binnenfischerei der Region.", "Wichtiger Rastplatz für Zugvögel auf der afrikanischen Route.", "Umgeben von ökologisch wertvollen Galeriewäldern.", "Dient als natürliches Reservoir während der Trockenzeit.", "Bekannt für seine ruhige und malerische Landschaft.", "Spielt eine Rolle bei der Erhaltung der regionalen Biodiversität.", "Ein Ziel für lokale Forscher und Naturliebhaber."],
-      hu: ["Fontos madárélőhely.", "Nyugodt övezet.", "Természetes tó Kelet-Angolában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Habitat important pentru păsări.", "Zonă de liniște.", "Lac natural în estul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Természetes tó Kelet-Angolában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Lac natural în estul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Important habitat for birds.", "Quiet zone.", "Natural lake in eastern Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
 
@@ -199,9 +199,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Natürliche Sandbarriere vor der Stadt Luanda.", "Länge von ca. 5 Kilometern bei einer Breite von wenigen hundert Metern.", "Zentrum des gesellschaftlichen Lebens mit Stränden und Restaurants.", "Schützt den wichtigsten Tiefwasserhafen des Landes.", "Ursprüngliche Heimat der Axiluanda-Fischergemeinschaft.", "Ort der ältesten Kirche Luandas (Igreja da Nossa Senhora do Cabo).", "Wichtiger Faktor für das Mikroklima der Hauptstadtbucht.", "Gegenstand ständiger Küstenschutzmaßnahmen gegen Erosion."],
-      hu: ["Kedvelt pihenőhely.", "Elválasztja az öblöt az Atlanti-óceántól.", "Homokpad Luanda előtt.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Zonă populară de recreere.", "Separă golful de Atlantic.", "Banc de nisip în fața Luandei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Popular recreation area.", "Separates bay from Atlantic.", "Sandbar off Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Homokpad Luanda előtt.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Banc de nisip în fața Luandei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Sandbar off Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/ilha-do-cabo-nature-v2.webp"},
   {
     id: "floresta-do-mayombe-nature-v2",
@@ -224,9 +224,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zweitgrößter Regenwald der Welt (Teil des Kongo-Becken-Systems).", "Wichtigstes Refugium für Flachlandgorillas in Angola.", "Umfasst wertvolle Hartholzarten wie Ebenholz und Mahagoni.", "Besitzt eine extrem hohe Dichte an endemischen Pflanzenarten.", "Zentraler Faktor für das Mikroklima der Exklave Cabinda.", "Gegenstand internationaler Naturschutzabkommen.", "Beherbergt über 200 verschiedene Vogelarten.", "Ein mystischer Ort mit tief verwurzelten lokalen Traditionen."],
-      hu: ["Magas biodiverzitás.", "Sűrű faállomány.", "Trópusi esőerdő Cabinda exklávéban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Biodiversitate ridicată.", "Vegetație densă.", "Pădure tropicală în enclava Cabinda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["High biodiversity.", "Dense tree cover.", "Tropical rainforest in Cabinda exclave.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Trópusi esőerdő Cabinda exklávéban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Pădure tropicală în enclava Cabinda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Tropical rainforest in Cabinda exclave.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/floresta-do-mayombe-nature-v2.webp"},
   {
     id: "oceano-atlantico-nature-v2",
@@ -249,9 +249,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Küstenlänge Angolas am Atlantik beträgt ca. 1.650 Kilometer.", "Dominiert durch das Phänomen des Benguela-Upwellings.", "Hauptquelle für Protein durch die enorme Fischvielfalt.", "Wichtigster Transportweg für über 90% des angolanischen Außenhandels.", "Beherbergt riesige Offshore-Öl- und Gasreserven.", "Beeinflusst die Bildung der Namib-Wüste im Süden.", "Zentral für die nationale Sicherheits- und Wirtschaftspolitik.", "Heimat von Meeresschildkröten und wandernden Buckelwalen."],
-      hu: ["Fontos halászterületek.", "Befolyásolja az éghajlatot.", "Angola nyugati partvidéke az Atlanti-óceánon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Zone importante de pescuit.", "Influențează clima.", "Coasta de vest a Angolei la Atlantic.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Important fishing grounds.", "Influences the climate.", "Angola's west coast at the Atlantic.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Angola nyugati partvidéke az Atlanti-óceánon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Coasta de vest a Angolei la Atlantic.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Angola's west coast at the Atlantic.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/oceano-atlantico-nature-v2.webp"},
   {
     id: "rio-loge-nature-v2",
@@ -274,9 +274,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Fließt durch die Kernregion des angolanischen Kaffeeanbaus.", "Besitzt eine Länge von ca. 400 Kilometern.", "Wichtigste Wasserquelle für die Landwirtschaft in der Provinz Uíge.", "Bildet im Unterlauf breite Mangrovensümpfe vor der Mündung.", "Bekannt für seine ruhigen Abschnitte, ideal für die Binnenfischerei.", "Bietet Potenzial für die Entwicklung von Ökotourismus.", "Historischer Grenzfluss zwischen verschiedenen lokalen Königreichen.", "Zentraler Punkt für die Wasserversorgung der Küstenstadt Nzeto."],
-      hu: ["Öntözésre használják.", "Természetes határ.", "Észak-angolai folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Folosit pentru irigații.", "Graniță naturală.", "Râu în nordul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Used for irrigation.", "Natural border.", "River in northern Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Észak-angolai folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu în nordul Angolei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["River in northern Angola.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-loge-nature-v2.webp"},
   {
     id: "rio-zaza-nature-v2",
@@ -299,9 +299,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiger Bestandteil des Kwanza-Beckens in Kwanza Norte.", "Bekannt für seine hohe Wasserqualität und Sauerstoffsättigung.", "Bietet Lebensraum für bedrohte Amphibienarten.", "Umgeben von dichtem Primärwald mit riesigen Farnen.", "Dient als natürliche Energiequelle für lokale Mühlen.", "Ein Ziel für Naturliebhaber und Wanderer in der Region Ndalatando.", "Wesentlicher Faktor für die Bodenfeuchtigkeit der umliegenden Plantagen.", "Symbol für den Wasserreichtum des angolanischen Hochlands."],
-      hu: ["Uíge tartományban.", "Szezonálisan bővizű.", "Kisebb északi folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["În provincia Uíge.", "Bogat în apă sezonier.", "Râu mai mic în nord.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["In Uíge province.", "Seasonally water-rich.", "Smaller river in the north.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Kisebb északi folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu mai mic în nord.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Smaller river in the north.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-zaza-nature-v2.webp"},
   {
     id: "lago-dilolo-nature-v2",
@@ -324,9 +324,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größter Süßwassersee des Landes (ca. 15 km lang).", "Wichtigstes Reservoir für das Wassersystem im Osten Angolas.", "Ort zahlreicher traditioneller Legenden des Chokwe-Volkes.", "Beherbergt seltene Fischarten und eine vielfältige Avifauna.", "Befindet sich in einer der abgelegensten Regionen Angolas.", "Zentraler Punkt für die lokale handwerkliche Fischerei.", "Bekannt für seine beeindruckenden Sonnenuntergänge über dem Wasser.", "Wichtiges Ziel für wissenschaftliche Expeditionen zur Biodiversität."],
-      hu: ["Moxico tartományban található.", "Turisztikai látványosság.", "Angola legnagyobb természetes tava.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Situat în provincia Moxico.", "Atracție turistică.", "Cel mai mare lac natural din Angola.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Located in Moxico province.", "Tourist attraction.", "Angola's largest natural lake.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Angola legnagyobb természetes tava.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Cel mai mare lac natural din Angola.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Angola's largest natural lake.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/lago-dilolo-nature-v2.webp"},
   {
     id: "rio-lungue-bungo-nature-v2",
@@ -349,8 +349,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der wasserreichsten Zuflüsse des oberen Sambesi.", "Durchfließt die flächenmäßig größte Provinz Angolas, Moxico.", "Geprägt durch extreme Mäanderbildung in den Sandebenen.", "Wichtiger Lebensraum für Flusspferde und Krokodile.", "Sichert die Existenzgrundlage zahlreicher ethnischer Gruppen im Osten.", "Potenzielles Gebiet für die Ausweitung des internationalen Naturschutzes.", "Zentraler Faktor für die hydrographische Stabilität des Sambesi-Beckens.", "Ein Symbol für die wilde und unerschlossene Natur Angolas."],
-      hu: ["Halban gazdag.", "Széles síkságokon folyik keresztül.", "A Zambézi nagy mellékfolyója.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Bogată în pești.", "Curge prin câmpii întinse.", "Afluent major al fluviului Zambezi.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["A Zambézi nagy mellékfolyója.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Afluent major al fluviului Zambezi.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Rich in fish.", "Flows through vast plains.", "Major tributary of the Zambezi.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
 
@@ -376,8 +376,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtiger Teil der Serra da Chela Gebirgskette.", "Befindet sich an der Grenze zwischen den Provinzen Huíla und Namibe.", "Gipfel liegt auf einer Höhe von über 2200 Metern.", "Bekannt für den dramatischen Steilabfall zur Wüste hin.", "Wichtiger Wasserspeicher für die Quellen der Region Bibala.", "Beherbergt seltene Sukkulenten und Gebirgspflanzen.", "Zentraler Punkt für die Klimaforschung im Südwesten Angolas.", "Wahrzeichen für die raue Schönheit des angolanischen Südens."],
-      hu: ["Látványos szerpentinek.", "Híres kilátás.", "Híres hegyi hágó Huílában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Serpentine spectaculoase.", "Priveliște celebră.", "Celebră trecătoare montană în Huíla.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Híres hegyi hágó Huílában.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Celebră trecătoare montană în Huíla.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Spectacular switchbacks.", "Famous view.", "Famous mountain pass in Huíla.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/monte-serra-da-leba-nature-v2.webp"},
   {
@@ -401,8 +401,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der wasserreichsten Flüsse im Zentrum Angolas.", "Speist die beeindruckenden Kaskaden der Binga-Wasserfälle.", "Wichtigste Lebensader für die Landwirtschaft in Cuanza Sul.", "Mündet nördlich von Porto Amboim in den Atlantischen Ozean.", "Beherbergt eine Vielzahl von Krokodilen und Flusspferden.", "Zentraler Standort für zukünftige Wasserkraftprojekte.", "Bietet malerische Landschaften für den aufkeimenden Tourismus.", "Ein Schlüsselgewässer für die Untersuchung der fluvialen Erosion."],
-      hu: ["Az Atlanti-óceán felé folyik.", "Szurdokvölgyek.", "Folyó középen-nyugaton.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Curge spre Atlantic.", "Formează canioane.", "Râu în centru-vest.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Folyó középen-nyugaton.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu în centru-vest.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Flows to the Atlantic.", "Forms canyons.", "River in central-west.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-cuvo-nature-v2.webp"},
   {
@@ -426,7 +426,7 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigstes Waldgebiet in der Provinz Bengo.", "Besitzt eine hohe Dichte an Ebenholz- und Mahagonibäumen.", "Wichtiger Wasserspeicher für die Zuflüsse des Bengo-Flusses.", "Bietet Lebensraum für bedrohte afrikanische Waldprimaten.", "Zentraler Punkt für Projekte zur CO2-Zertifizierung.", "Traditionelle Quelle für Heilpflanzen der lokalen Bevölkerung.", "Wahrzeichen für den Waldreichtum im Norden Angolas.", "Ein Ziel für forstwissenschaftliche Forschung und Exkursionen."],
-      hu: ["Zöld övezet.", "Helyi növényzet.", "Erdőterület Luanda közelében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Erdőterület Luanda közelében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Centură verde.", "Floră locală.", "Zonă forestieră lângă Luanda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Green belt.", "Local flora.", "Forest area near Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
@@ -453,7 +453,7 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Saisonaler See im Cuvelai-Becken von Cunene.", "Wichtigste Wasserquelle für nomadische Hirtenvölker.", "Zentrum für die traditionelle Fischerei während der Flutzeit.", "Beherbergt seltene Fischarten, die in Trockenphasen im Schlamm überleben.", "Ein Hotspot für die Beobachtung von Wasservögeln im Süden.", "Geomorphologisch eine typische Endrheische Senke.", "Wahrzeichen für das Wassermanagement in der Provinz Cunene.", "Symbol für den zyklischen Charakter der Natur in Angola."],
-      hu: ["Csendes víz.", "Felföldi elhelyezkedés.", "Kisebb tó Biében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Kisebb tó Biében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Apă liniștită.", "Situat la altitudine.", "Lac mai mic în Bié.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Quiet water.", "Highland location.", "Smaller lake in Bié.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/lago-mungue-nature-v2.webp"},
@@ -478,7 +478,7 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Natürliche Sandbarriere mit einer Länge von ca. 5 km.", "Zentraler Ort für die handwerkliche Fischerei der Axiluanda.", "Wichtigstes Freizeit- und Touristenzentrum der Hauptstadt.", "Schützt den Hafen von Luanda vor starker Brandung.", "Beherbergt seltene Küstenpflanzen und Seevogelkolonien.", "Ursprungsort für zahlreiche Legenden der Stadtgründung.", "Ein Symbol für den modernen Lebensstil in Luanda.", "Gegenstand intensiver Küstenschutz- und Rehabilitierungsprogramme."],
-      hu: ["Nagyon forgalmas.", "Strandok vannak.", "Turisztikai sziget a főváros előtt.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Turisztikai sziget a főváros előtt.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Foarte circulată.", "Există plaje.", "Insulă turistică în fața capitalei.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Very busy.", "Beaches available.", "Tourist island off the capital.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/ilha-luanda-nature-v2.webp"},
@@ -503,9 +503,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptfluss der Provinz Bengo mit großer wirtschaftlicher Bedeutung.", "Standort des historischen Mabubas-Staudamms.", "Wichtigste Quelle für das Bewässerungssystem von Caxito.", "Mündet in einer strategisch wichtigen Bucht für den zukünftigen Hafenbau.", "Bietet Lebensraum für Krokodile und Flusspferde.", "Zentraler Transportweg für landwirtschaftliche Güter im 20. Jh.", "Beinhaltet wunderschöne Lagunen wie Panguila in seinem Einzugsgebiet.", "Wesentlicher Faktor für die industrielle Entwicklung von Barra do Dande."],
-      hu: ["Az Atlanti-óceánba torkollik.", "Mezőgazdaságilag hasznosított.", "Luandától északra fekvő folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Se varsă în Atlantic.", "Utilizat în agricultură.", "Râu la nord de Luanda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Flows into the Atlantic.", "Used for agriculture.", "River north of Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Luandától északra fekvő folyó.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu la nord de Luanda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["River north of Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-dande-nature-v2.webp"},
   {
     id: "monte-bue-nature-v2",
@@ -528,7 +528,7 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Markanter Gipfel in der Provinz Bié.", "Teil des hydrographischen Herzstücks Angolas.", "Wichtiger Standort für die Erforschung der regionalen Flora.", "Geologisch geprägt durch metamorphe Gesteine.", "Bietet ideale Bedingungen für die Beobachtung von Raubvögeln.", "Symbol für die Erhabenheit des zentralen Hochlands.", "Ein Ziel für aufkeimenden ökologischen Tourismus.", "Zentraler Punkt für die lokale Klimabeobachtung."],
-      hu: ["A felföldön.", "Szelíd lejtők.", "Emelkedő a központban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Emelkedő a központban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["În podiș.", "Pante line.", "Elevație în centru.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["In the highlands.", "Gentle slopes.", "Elevation in the center.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/monte-bue-nature-v2.webp"},
@@ -553,9 +553,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigstes Feuchtgebiet im unteren Bengo-Tal.", "Beherbergt eine reiche Population an Flamingos und Reihern.", "Zentraler Punkt für die lokale handwerkliche Fischerei.", "Eines der wichtigsten Wasserreservoirs für Luanda.", "Umgeben von ökologisch wertvollen Schilf- und Mangrovenzonen.", "Historisch bedeutende Region am Rande der Hauptstadt.", "Bietet Potenzial für naturkundliche Bildung und Tourismus.", "Ein Symbol für das Überleben der Natur im urbanen Umfeld."],
-      hu: ["Történelmileg fontos.", "Jó halászterületek.", "Tó Luanda közelében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Istoric important.", "Zone bune de pescuit.", "Lac lângă Luanda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Historically important.", "Good fishing grounds.", "Lake near Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Tó Luanda közelében.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Lac lângă Luanda.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Lake near Luanda.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/lago-kifangondo-nature-v2.webp"},
   {
     id: "rio-kwango-nature-v2",
@@ -578,8 +578,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der wasserreichsten Flüsse Zentralafrikas.", "Hauptquelle für Alluvialdiamanten im angolanischen Bergbau.", "Markiert über hunderte Kilometer die internationale Grenze.", "Bildet beeindruckende Stromschnellen und tiefe Schluchten.", "Lebenswichtige Wasserquelle für das Volk der Chokwe.", "Ein wichtiger Migrationskorridor für die tropische Fauna.", "Besitzt ein enormes ungenutztes hydroelektrisches Potenzial.", "Wahrzeichen für den Wasserreichtum der Provinz Lunda Norte."],
-      hu: ["Határfolyó.", "Fontos vízgyűjtő terület.", "Folyó az északkeleti határon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Râu de frontieră.", "Bazin hidrografic important.", "Râu la granița de nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Folyó az északkeleti határon.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu la granița de nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Border river.", "Important catchment area.", "River on the northeast border.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-kwango-nature-v2.webp"},
   {
@@ -603,7 +603,7 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Auffälliger Fixpunkt im Relief der Provinz Benguela.", "Bietet Lebensraum für spezialisierte Hochland-Pflanzenarten.", "Wichtiger Standort für die Erforschung der regionalen Geomorphologie.", "Dient als lokaler Wasserspeicher für die Landwirtschaft im Tal.", "Besitzt ein bedeutendes Potenzial für den Abenteuertourismus.", "Geprägt durch markante Granitaufschlüsse.", "Symbol für die raue Schönheit der angolanischen Gebirgswelt.", "Zentraler Punkt für regionale Wetterbeobachtungen."],
-      hu: ["Köves terep.", "Szép kilátás.", "Csúcs a Huambo régióban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Csúcs a Huambo régióban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Teren stâncos.", "Priveliște frumoasă.", "Vârf în regiunea Huambo.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Rocky terrain.", "Beautiful view.", "Peak in the Huambo region.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/monte-boco-nature-v2.webp"},
@@ -628,9 +628,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der höchstgelegenen Seen im zentralen Angola.", "Wichtiges Laichgebiet für zahlreiche einheimische Fischarten.", "Zentraler Punkt für die lokale handwerkliche Fischerei im Hochland.", "Umgeben von malerischen Graslandschaften und Waldinseln.", "Dient als wichtiger Rastplatz für Zugvögel im Landesinneren.", "Geologisch durch tektonische Absenkungen auf dem Plateau geformt.", "Symbol für die Reinheit der angolanischen Wasserquellen.", "Bietet Potenzial für die Entwicklung von Freizeitaktivitäten."],
-      hu: ["Nagy vízfelület.", "Energiatermelés.", "Víztározó a Cuanza folyón.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Suprafață mare de apă.", "Producerea energiei.", "Lac de acumulare pe râul Cuanza.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Large water area.", "Energy production.", "Reservoir on the Cuanza river.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Víztározó a Cuanza folyón.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Lac de acumulare pe râul Cuanza.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["Reservoir on the Cuanza river.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/lago-cuanza-nature-v2.webp"},
   {
     id: "rio-cuango-nature-v2",
@@ -653,8 +653,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der wasserreichsten Flüsse Zentralafrikas.", "Hauptquelle für Alluvialdiamanten im angolanischen Bergbau.", "Markiert über hunderte Kilometer die internationale Grenze.", "Bildet beeindruckende Stromschnellen und tiefe Schluchten.", "Lebenswichtige Wasserquelle für das Volk der Chokwe.", "Ein wichtiger Migrationskorridor für die tropische Fauna.", "Besitzt ein enormes ungenutztes hydroelektrisches Potenzial.", "Wahrzeichen für den Wasserreichtum der Provinz Lunda Norte."],
-      hu: ["Gyémántvidék.", "Szezonálisan magas.", "Folyó Lunda Sul tartományon keresztül.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Zonă cu diamante.", "Debite sezoniere mari.", "Râu prin provincia Lunda Sul.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Folyó Lunda Sul tartományon keresztül.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu prin provincia Lunda Sul.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Diamond area.", "Seasonally high.", "River through Lunda Sul province.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-cuango-nature-v2.webp"},
   {
@@ -678,7 +678,7 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Größte Insel Angolas, gelegen im extremen Süden.", "Wurde 1962 durch die Trennung der Landbrücke zur Insel.", "Beherbergt die Ruinen der verlassenen Siedlung São Martinho dos Tigres.", "Wichtigstes Brutgebiet für Seevögel an der angolanischen Küste.", "Kann nur per Boot oder Hubschrauber erreicht werden.", "Umgeben von den fischreichsten Gewässern des Benguela-Stroms.", "Teil des Iona-Nationalparks (maritimer Sektor).", "Einzigartiger Forschungsort für Wüsten- und Meeresbiologen."],
-      hu: ["Száraz éghajlat.", "Volt település.", "Volt sziget, ma félsziget.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      hu: ["Volt sziget, ma félsziget.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
       ro: ["Climă uscată.", "Fostă așezare.", "Fostă insulă, acum peninsulă.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Dry climate.", "Former settlement.", "Former island, now a peninsula.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/ilha-tigre-nature-v2.webp"},
@@ -703,8 +703,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der wasserreichsten Flüsse der Welt (Nebenfluss des Kongo).", "Markiert über weite Strecken die Grenze zwischen Angola und der DR Kongo.", "Zentrales Flusssystem für den Nordosten Angolas.", "Bekannt für seine reichen Vorkommen an Alluvialdiamanten.", "Bietet ein riesiges hydroelektrisches Potenzial für die Zukunft.", "Ursprung zahlreicher kultureller Traditionen des Lunda-Volkes.", "Wichtiger Migrationskorridor für die tropische Fauna.", "Ein Schlüsselobjekt für die internationale Klimaforschung."],
-      hu: ["A Kongó mellékfolyója.", "Dzsungelrégió.", "Nagy határfolyó északkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Afluent al fluviului Congo.", "Regiune de junglă.", "Mare râu de frontieră în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Nagy határfolyó északkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Mare râu de frontieră în nord-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Tributary of the Congo.", "Jungle region.", "Major border river in the northeast.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-kassai-nature-v2.webp"},
   {
@@ -728,9 +728,9 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Hauptwasserlieferant für die Städte Benguela und Lobito.", "Speist die fruchtbaren Zuckerrohr- und Obstplantagen des Deltas.", "Besitzt ein bedeutendes Wasserkraftpotenzial an seinem Mittellauf.", "Historisch der Grenzfluss zwischen verschiedenen kolonialen Distrikten.", "Bekannt für seine reiche Fischfauna an der Mündung.", "Zentraler Faktor für das Mikroklima der Catumbela-Ebene.", "Wahrzeichen der Region durch die imposante Brücke 4 de Abril.", "Ein Schlüsselgewässer für die Erforschung der Küstenhydrologie."],
-      hu: ["Torkolat Lobito közelében.", "Fontos a régió számára.", "Folyó Benguela tartományban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Vărsare lângă Lobito.", "Important pentru regiune.", "Râu în provincia Benguela.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
-      en: ["Mouth near Lobito.", "Important for the region.", "River in Benguela province.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
+      hu: ["Folyó Benguela tartományban.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Râu în provincia Benguela.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      en: ["River in Benguela province.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }, image: "/poi-images/rio-catumbela-nature-v2.webp"},
   {
     id: "rio-cuito-nature-v2",
@@ -753,8 +753,8 @@ export const poiExtraAngolaNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Einer der wichtigsten Wasserlieferanten für das Okavango-Delta.", "Besitzt ein fast vollständig unberührtes Einzugsgebiet.", "Geprägt durch dichte Galeriewälder und riesige Sumpfgebiete.", "Beherbergt bedeutende Populationen von Flusspferden und Elefanten.", "Zentraler Bestandteil des internationalen KAZA-Naturschutzprojekts.", "Gilt als einer der am wenigsten erforschten Flüsse Afrikas.", "Sichert das Überleben bedrohter Fischarten im Oberlauf.", "Ein Paradies für Ökotouristen und Naturforscher."],
-      hu: ["Mocsaras területek.", "Természetvédelmi terület.", "Mellékfolyó délkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
-      ro: ["Zone mlăștinoase.", "Arie protejată.", "Afluent în sud-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
+      hu: ["Mellékfolyó délkeleten.", "Az Angolai Koztarsasag teruleten talalhato.", "Szerepet jatszik a regio helyi identitasaban.", "Tajkepi vagy kulturalis jelentosegerol ismert.", "Helyi es regionalis tanulmanyok dokumentaljak."],
+      ro: ["Afluent în sud-est.", "Se afla pe teritoriul Republicii Angola.", "Are un rol in identitatea locala a regiunii.", "Este cunoscut pentru semnificatia sa peisagistica sau culturala.", "Este documentat in studii locale si regionale."],
       en: ["Swamp areas.", "Protected area.", "Tributary in the southeast.", "Located within the Republic of Angola.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."]
     }
 

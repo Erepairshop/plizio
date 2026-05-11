@@ -1,0 +1,63 @@
+{
+  "lang": "en",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qua-iboe-terminal-economic-v2",
+      "description": "A major oil export terminal located in Akwa Ibom State. It serves as a critical node for Nigeria's offshore oil production.",
+      "facts": ["Located in Akwa Ibom", "Oil export facility", "Offshore production node"]
+    },
+    {
+      "id": "okpella-cement-plant-economic-v2",
+      "description": "An industrial cement manufacturing complex situated in Edo State. It plays a significant role in local infrastructure development.",
+      "facts": ["Located in Edo State", "Cement production", "Infrastructure support"]
+    },
+    {
+      "id": "first-storey-building-history-v2",
+      "description": "The first multi-story building in Nigeria, built in Badagry in 1845 by Christian missionaries. It stands as a significant architectural landmark.",
+      "facts": ["Built in 1845", "Located in Badagry", "Missionary origin"]
+    },
+    {
+      "id": "chief-ekpo-bassey-house-history-v2",
+      "description": "A historic residential building in Calabar that reflects colonial architecture. It represents the early administrative history of the region.",
+      "facts": ["Located in Calabar", "Colonial architecture", "Historic residence"]
+    },
+    {
+      "id": "national-mosque-abuja-landmarks-v2",
+      "description": "The primary national mosque of Nigeria located in the capital city, Abuja. It is a prominent cultural and religious monument.",
+      "facts": ["Located in Abuja", "Islamic architecture", "Opened in 1984"]
+    },
+    {
+      "id": "lekki-ikoyi-link-bridge-landmarks-v2",
+      "description": "A cable-stayed bridge in Lagos connecting the Lekki and Ikoyi districts. It is a modern engineering feat improving urban mobility.",
+      "facts": ["Cable-stayed bridge", "Located in Lagos", "Connects Lekki and Ikoyi"]
+    },
+    {
+      "id": "necom-house-lagos-landmarks-v2",
+      "description": "A iconic skyscraper in Lagos serving as a major office complex. It remains one of the tallest buildings in Nigeria.",
+      "facts": ["Located in Lagos", "High-rise office building", "Built in 1979"]
+    },
+    {
+      "id": "moshood-abiola-stadium-landmarks-v2",
+      "description": "A large, multi-purpose sports stadium located in the national capital, Abuja. It is a central venue for major athletic events.",
+      "facts": ["Located in Abuja", "Multi-purpose stadium", "National sports hub"]
+    },
+    {
+      "id": "cocoa-house-ibadan-landmarks-v2",
+      "description": "The first skyscraper in West Africa, located in Ibadan. It was built using proceeds from the regional cocoa industry.",
+      "facts": ["Located in Ibadan", "Built in 1965", "First W. African skyscraper"]
+    },
+    {
+      "id": "tinapa-resort-calabar-landmarks-v2",
+      "description": "A large business and leisure resort located in Calabar, Cross River State. It features international trade facilities and entertainment venues.",
+      "facts": ["Located in Calabar", "Business and leisure", "Trade facilities"]
+    }
+  ]
+}

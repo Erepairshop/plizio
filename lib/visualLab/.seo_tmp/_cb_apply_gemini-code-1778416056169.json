@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraChadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gounou-gaya-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Gounou Gaya ist eine landwirtschaftliche Stadt in der Provinz Mayo-Kebbi Est im Südwesten des Tschad. Geografisch liegt die Stadt in einer relativ fruchtbaren Savannenregion, die durch sehr ausgeprägte Regen- und Trockenzeiten bestimmt wird. Wirtschaftlich ist Gounou Gaya fast vollständig auf den Agrarsektor ausgerichtet. Die lokale Bevölkerung betreibt vor allem den intensiven Anbau von Baumwolle als primäres Cash-Crop (Exportgut). Darüber hinaus werden Sorghum, Erdnüsse und Mais für die eigene Ernährungssicherheit angepflanzt. Die Nähe zur Grenze nach Kamerun ermöglicht einen lebhaften informellen Handel, der für die Beschaffung von Konsumgütern unerlässlich ist. Historisch entwickelte sich Gounou Gaya als administratives Zentrum zur Förderung der Baumwollindustrie in der postkolonialen Ära. Heute steht die Stadt jedoch vor enormen Herausforderungen. Die Infrastruktur ist extrem schwach ausgebaut; es mangelt an asphaltierten Straßen, was den Abtransport der Ernten während der Regenzeit stark behindert. Zudem beeinträchtigt die fortschreitende Abholzung für die Produktion von Brennholz und Holzkohle das ökologische Gleichgewicht der gesamten Region drastisch.",
+        "hu": "Gounou Gaya egy mezőgazdasági város a Mayo-Kebbi Est tartományban, Csád délnyugati részén. Földrajzilag a város egy viszonylag termékeny szavannarégióban fekszik, amelyet a kifejezett esős és száraz évszakok határoznak meg. Gazdasági szempontból Gounou Gaya szinte teljes mértékben az agrárszektorra épül. A helyi lakosság elsősorban az ipari gyapot intenzív termesztésével foglalkozik, amely a legfőbb exportcikk (cash crop). Emellett cirkot, földimogyorót és kukoricát is ültetnek a saját élelmezésbiztonságuk garantálása érdekében. A kameruni határ közelsége élénk informális kereskedelmet tesz lehetővé, ami elengedhetetlen a fogyasztási cikkek beszerzéséhez. Történelmileg Gounou Gaya a posztkoloniális korszakban a gyapotipar fellendítésére szolgáló közigazgatási központként fejlődött ki. Ma azonban a város hatalmas kihívásokkal küzd. Az infrastruktúra rendkívül gyenge; hiányoznak az aszfaltozott utak, ami az esős évszakban erősen akadályozza a termés elszállítását. Továbbá a tűzifa és a faszén előállítása miatti folyamatos erdőirtás súlyosan veszélyezteti a régió ökológiai egyensúlyát.",
+        "ro": "Gounou Gaya este un oraș agricol din provincia Mayo-Kebbi Est, în sud-vestul Ciadului. Geografic, orașul este situat într-o regiune de savană relativ fertilă, care este determinată de sezoane ploioase și uscate foarte distincte. Economic, Gounou Gaya este orientat aproape în întregime spre sectorul agricol. Populația locală este angajată în principal în cultivarea intensivă a bumbacului ca produs de export primar. În plus, sorgul, alunele și porumbul sunt plantate pentru securitatea alimentară proprie. Apropierea de granița cu Camerunul permite un comerț informal plin de viață, care este esențial pentru procurarea bunurilor de consum. Istoric, orașul s-a dezvoltat ca un centru administrativ pentru promovarea industriei bumbacului în era postcolonială. Astăzi, însă, orașul se confruntă cu provocări enorme. Infrastructura este extrem de slab dezvoltată; lipsesc drumurile asfaltate, ceea ce împiedică masiv transportul recoltelor în timpul sezonului ploios. În plus, defrișările continue pentru producția de lemne de foc și cărbune amenință grav echilibrul ecologic al regiunii.",
+        "en": "Gounou Gaya is an agricultural city in the Mayo-Kebbi Est province in southwestern Chad. Geographically, the city is located in a relatively fertile savanna region that is heavily determined by highly distinct rainy and dry seasons. Economically, Gounou Gaya is almost entirely oriented toward the agricultural sector. The local population is primarily engaged in the intensive cultivation of commercial cotton as the primary cash crop for export. In addition, sorghum, peanuts, and maize are systematically planted to ensure personal food security. The close geographical proximity to the Cameroon border enables a lively informal cross-border trade, which is essential for procuring basic consumer goods. Historically, Gounou Gaya developed as an administrative center to actively promote the cotton industry during the post-colonial era. Today, however, the city faces enormous challenges. The civil infrastructure is extremely poorly developed; there is a total lack of paved roads, which severely hinders the transport of harvests during the heavy rainy season. Furthermore, ongoing deforestation for charcoal production massively threatens the regional ecological balance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt liegt im Südwesten in der Region Mayo-Kebbi Est.",
+          "Baumwolle ist das absolut wichtigste Exportgut der Bauern.",
+          "Nahe Grenzen zu Kamerun fördern den grenzüberschreitenden Handel.",
+          "Fehlende Asphaltstraßen blockieren den Transport in der Regenzeit.",
+          "Die Abholzung für Holzkohle bedroht das lokale Ökosystem stark."
+        ],
+        "hu": [
+          "A város Délnyugat-Csádban, a Mayo-Kebbi Est régióban fekszik.",
+          "A gyapot a helyi gazdák abszolút legfontosabb exportcikke.",
+          "A kameruni határ közelsége fellendíti a határokon átnyúló kereskedelmet.",
+          "Az aszfaltutak hiánya blokkolja a szállítást az esős évszakban.",
+          "A faszén miatti erdőirtás erősen fenyegeti a helyi ökoszisztémát."
+        ],
+        "ro": [
+          "Orașul este situat în sud-vest, în regiunea Mayo-Kebbi Est.",
+          "Bumbacul este cel mai important produs de export al fermierilor.",
+          "Apropierea de Camerun promovează puternic comerțul transfrontalier.",
+          "Lipsa drumurilor asfaltate blochează transportul în sezonul ploios.",
+          "Defrișările pentru cărbune amenință puternic ecosistemul local."
+        ],
+        "en": [
+          "The city is located in the southwest within the Mayo-Kebbi Est region.",
+          "Commercial cotton is the absolutely vital export good for farmers.",
+          "Close borders with Cameroon heavily promote cross-border trade.",
+          "A complete lack of paved roads blocks transport during the rainy season.",
+          "Unregulated deforestation for charcoal severely threatens the ecosystem."
+        ]
+      }
+    },
+    {
+      "id": "beinamar-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Beïnamar ist eine Kleinstadt in der Provinz Logone Occidental im stark landwirtschaftlich geprägten Südwesten des Tschad. Die Region profitiert geografisch von einem feuchteren sudanesischen Klima, das weitaus ertragreichere Böden bietet als der extrem trockene Norden des Landes. Wirtschaftlich ist Beïnamar ein typisches Agrarzentrum. Die Wirtschaft wird fast exklusiv von Kleinbauern dominiert, die sich auf die Produktion von kommerzieller Baumwolle konzentrieren, welche an die nationalen Verarbeitungsanlagen in der nahegelegenen Industriestadt Moundou geliefert wird. Zur eigenen Subsistenz bauen die Familien Sorghum, Maniok und Erdnüsse an. Historisch gesehen war die Gegend um Beïnamar stets ein bäuerliches Zentrum der Ngambay-Volksgruppe. Die städtische Infrastruktur ist sehr rudimentär; es gibt keine durchgehende Strom- oder Wasserversorgung für die meisten Haushalte. Die Erreichbarkeit der Stadt ist stark saisonabhängig, da die unbefestigten Sand- und Lehmstraßen in der Regenzeit völlig unpassierbar werden, was die lokale Wirtschaft oft wochenlang isoliert.",
+        "hu": "Beïnamar egy kisváros a Logone Occidental tartományban, Csád erősen mezőgazdasági jellegű délnyugati részén. A régió földrajzilag a nedvesebb szudáni éghajlatból profitál, amely sokkal termékenyebb talajt biztosít, mint az ország rendkívül száraz északi része. Gazdasági szempontból Beïnamar egy tipikus agrárközpont. A gazdaságot szinte kizárólag a kisbirtokosok uralják, akik a kereskedelmi gyapot termelésére összpontosítanak, amelyet a közeli Moundou iparváros nemzeti feldolgozóüzemeibe szállítanak. A családok saját önellátásukra cirkot, maniókát és földimogyorót is termesztenek. Történelmileg a Beïnamar körüli terület mindig is a ngambay népcsoport mezőgazdasági központja volt. A városi infrastruktúra nagyon kezdetleges; a legtöbb háztartás számára nincs folyamatos áram- vagy vízellátás. A város megközelíthetősége erősen szezonfüggő, mivel a burkolatlan homok- és agyagutak az esős évszakban teljesen járhatatlanná válnak, ami a helyi gazdaságot gyakran hetekre elszigeteli.",
+        "ro": "Beïnamar este un mic oraș din provincia Logone Occidental, în sud-vestul puternic agricol al Ciadului. Regiunea beneficiază geografic de un climat sudanez mai umed, care oferă soluri mult mai productive decât nordul extrem de uscat al țării. Din punct de vedere economic, Beïnamar este un centru agricol tipic. Economia este dominată aproape exclusiv de micii fermieri care se concentrează pe producția de bumbac comercial, care este livrat la unitățile naționale de procesare din orașul industrial din apropiere, Moundou. Familiile cultivă sorg, manioc și alune pentru propria subzistență. Istoric, zona din jurul Beïnamar a fost întotdeauna un centru agricol al grupului etnic Ngambay. Infrastructura urbană este foarte rudimentară; nu există o alimentare continuă cu energie electrică sau apă pentru majoritatea gospodăriilor. Accesibilitatea orașului este puternic dependentă de sezon, deoarece drumurile de pământ devin complet impracticabile în sezonul ploios.",
+        "en": "Beïnamar is a small city in the Logone Occidental province in the heavily agricultural southwest of Chad. The region geographically benefits from a moister Sudanian climate, which offers far more productive soils than the extremely dry northern part of the country. Economically, Beïnamar is a typical agricultural center. The local economy is almost exclusively dominated by smallholder farmers who focus strictly on the production of commercial cotton, which is delivered to national processing facilities in the nearby industrial city of Moundou. For their own direct subsistence, families cultivate sorghum, cassava, and peanuts. Historically, the area around Beïnamar has always been a farming center for the Ngambay ethnic group. The urban infrastructure is highly rudimentary; there is no continuous electricity or piped water supply for the vast majority of households. The accessibility of the city is strongly seasonal, as the unpaved sand and clay roads become completely impassable during the heavy rainy season, isolating the local economy often for weeks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beïnamar liegt in der sehr fruchtbaren Provinz Logone Occidental.",
+          "Die lokale Wirtschaft wird fast exklusiv von Baumwollbauern getragen.",
+          "Rohe Baumwolle wird zur Verarbeitung in die Stadt Moundou geliefert.",
+          "Die Stadt ist ein traditionelles Zentrum der Ngambay-Volksgruppe.",
+          "In der Regenzeit sind die lokalen Sandstraßen völlig unpassierbar."
+        ],
+        "hu": [
+          "Beïnamar a nagyon termékeny Logone Occidental tartományban fekszik.",
+          "A helyi gazdaságot szinte kizárólag a gyapottermesztő gazdák tartják fenn.",
+          "A nyers gyapotot a közeli Moundou városába szállítják feldolgozásra.",
+          "A város a ngambay etnikai csoport egyik hagyományos központja.",
+          "Az esős évszakban a helyi homokos utak teljesen járhatatlanná válnak."
+        ],
+        "ro": [
+          "Beïnamar este situat în provincia foarte fertilă Logone Occidental.",
+          "Economia locală este susținută aproape exclusiv de fermierii de bumbac.",
+          "Bumbacul brut este livrat în orașul Moundou pentru prelucrare.",
+          "Orașul este un centru tradițional important al grupului etnic Ngambay.",
+          "În sezonul ploios, drumurile locale de pământ sunt complet impracticabile."
+        ],
+        "en": [
+          "Beïnamar is located in the highly fertile Logone Occidental province.",
+          "The local economy is supported almost exclusively by cotton farmers.",
+          "Raw harvested cotton is strictly delivered to the city of Moundou for processing.",
+          "The city acts as a traditional cultural center for the Ngambay ethnic group.",
+          "During the heavy rainy season, local dirt roads are completely impassable."
+        ]
+      }
+    },
+    {
+      "id": "baibokoum-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Baïbokoum ist eine strategisch wichtige Grenzstadt in der Provinz Logone Oriental im äußersten Süden des Tschad. Geografisch liegt die Stadt in einem sogenannten Dreiländereck, wo die Grenzen des Tschad, Kameruns und der Zentralafrikanischen Republik aufeinandertreffen. Das Terrain ist sehr hügelig und stark bewaldet. Wirtschaftlich profitiert Baïbokoum massiv von dieser Grenzlage, die einen ständigen, oft informellen grenzüberschreitenden Warentausch ermöglicht. Die lokale Landwirtschaft ist ebenfalls essenziell; angebaut werden Yams, Maniok und Baumwolle in Subsistenz- und Kleinbetrieben. Historisch war die Stadt aufgrund ihrer extremen Abgeschiedenheit lange vernachlässigt, geriet aber durch den Ölboom in der Provinz und den Bau der Tschad-Kamerun-Pipeline in den geopolitischen Fokus. Die Pipeline verläuft in der direkten Nähe der Stadt. In den letzten Jahren hat Baïbokoum zudem zehntausende Flüchtlinge aus der benachbarten Zentralafrikanischen Republik aufgenommen, was die sehr schwache lokale Infrastruktur, das Gesundheitswesen und die Wasserversorgung an ihre absoluten Kapazitätsgrenzen bringt.",
+        "hu": "Baïbokoum egy stratégiailag nagyon fontos határváros a Logone Oriental tartományban, Csád legdélibb részén. Földrajzilag a város egy úgynevezett hármashatárnál fekszik, ahol Csád, Kamerun és a Közép-afrikai Köztársaság határai találkoznak. A terep nagyon dombos és erősen erdős. Gazdasági szempontból Baïbokoum masszívan profitál ebből a határmenti fekvésből, amely állandó, gyakran informális, határokon átnyúló árucserét tesz lehetővé. A helyi mezőgazdaság is létfontosságú; jamgyökeret, maniókát és gyapotot termesztenek önellátó és kisüzemi keretek között. Történelmileg a várost az extrém elszigeteltsége miatt sokáig elhanyagolták, de a tartományi olajboom és a Csád-Kamerun kőolajvezeték megépítése révén a geopolitikai fókuszba került. A vezeték közvetlenül a város közelében halad el. Az elmúlt években Baïbokoum több tízezer menekültet is befogadott a szomszédos Közép-afrikai Köztársaságból, ami a nagyon gyenge helyi infrastruktúrát, az egészségügyet és a vízellátást az abszolút kapacitáshatárokig terheli.",
+        "ro": "Baïbokoum este un oraș de graniță foarte important din punct de vedere strategic în provincia Logone Oriental din sudul extrem al Ciadului. Geografic, orașul este situat într-o zonă de graniță triplă, unde se întâlnesc granițele Ciadului, Camerunului și Republicii Centrafricane. Terenul este foarte deluros și puternic împădurit. Economic, Baïbokoum beneficiază masiv de această locație de graniță, care permite un schimb transfrontalier constant, adesea informal, de mărfuri. Agricultura locală este, de asemenea, esențială; ignamele, maniocul și bumbacul sunt cultivate în ferme de subzistență. Istoric, orașul a fost mult timp neglijat din cauza izolării sale extreme, dar a ajuns în centrul atenției geopolitice datorită boom-ului petrolier și construirii conductei Ciad-Camerun, care trece în imediata apropiere. În ultimii ani, Baïbokoum a primit zeci de mii de refugiați din Republica Centrafricană vecină, ceea ce a adus infrastructura locală și asistența medicală la limitele lor absolute.",
+        "en": "Baïbokoum is a highly strategic border city in the Logone Oriental province in the extreme south of Chad. Geographically, the city is located in a tri-border area where the national borders of Chad, Cameroon, and the Central African Republic directly converge. The local terrain is very hilly and heavily forested. Economically, Baïbokoum benefits massively from this border location, which enables a constant, often informal cross-border exchange of commercial goods. Local agriculture is also absolutely essential; yams, cassava, and cotton are cultivated on subsistence and smallholder farms. Historically, the city was long neglected due to its extreme geographical isolation, but it came into geopolitical focus due to the regional oil boom and the construction of the Chad-Cameroon pipeline. The massive pipeline runs in the direct vicinity of the city. In recent years, Baïbokoum has also taken in tens of thousands of desperate refugees from the neighboring Central African Republic, pushing the very weak local infrastructure, healthcare, and water supply to their absolute capacity limits."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Baïbokoum liegt im Dreiländereck von Tschad, Kamerun und ZAR.",
+          "Die Grenzlage ermöglicht einen sehr starken informellen Handel.",
+          "Die Tschad-Kamerun-Ölpipeline verläuft ganz in der Nähe der Stadt.",
+          "Die lokale Landwirtschaft konzentriert sich auf Yams und Maniok.",
+          "Die Stadt hat zehntausende Flüchtlinge aus der ZAR aufgenommen."
+        ],
+        "hu": [
+          "Baïbokoum Csád, Kamerun és a KAK hármashatáránál helyezkedik el.",
+          "A határmenti fekvés nagyon erős informális kereskedelmet tesz lehetővé.",
+          "A Csád-Kamerun kőolajvezeték közvetlenül a város közelében halad el.",
+          "A helyi mezőgazdaság a jamgyökér és a manióka termesztésére fókuszál.",
+          "A város több tízezer menekültet fogadott be a szomszédos KAK-ból."
+        ],
+        "ro": [
+          "Baïbokoum este situat la granița triplă dintre Ciad, Camerun și RCA.",
+          "Locația de graniță permite un comerț informal extrem de puternic.",
+          "Conducta de petrol Ciad-Camerun trece foarte aproape de oraș.",
+          "Agricultura locală se concentrează intens pe igname și manioc.",
+          "Orașul a preluat zeci de mii de refugiați din RCA vecină."
+        ],
+        "en": [
+          "Baïbokoum is located exactly at the tri-border of Chad, Cameroon, and CAR.",
+          "The border location facilitates highly robust informal cross-border trade.",
+          "The massive Chad-Cameroon oil pipeline runs very close to the city.",
+          "Local basic agriculture heavily focuses on cultivating yams and cassava.",
+          "The city has officially absorbed tens of thousands of refugees from the CAR."
+        ]
+      }
+    },
+    {
+      "id": "bokoro-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bokoro ist eine bedeutende Kleinstadt in der Provinz Hadjer-Lamis im zentral-westlichen Teil des Tschad. Geografisch markiert Bokoro den ökologischen Rand der Sahelzone, wo spärliche Savannen fließend in weitaus trockenere Wüstenlandschaften übergehen. Wirtschaftlich ist die Stadt ein hochgradig wichtiger Knotenpunkt auf der zentralen Ost-West-Transitachse des Landes. Die Wirtschaft basiert tief auf einem dualen System aus traditionellem Ackerbau (Hirse und Erdnüsse) und der halbnomadischen Viehzucht. Der lokale Viehmarkt ist einer der größten der gesamten Region, auf dem große Herden von Rindern und Kamelen für den Weitertransport in die Hauptstadt N'Djamena intensiv gehandelt werden. Historisch war die Stadt aufgrund von Wasserstellen stets ein vitaler Rastplatz für Handelskarawanen und Nomadenstämme. Heute leidet Bokoro jedoch massiv unter den brutalen Folgen der globalen Klimaveränderungen. Chronische Dürren und die stetig fortschreitende Desertifikation zerstören die Ernteerträge und zwingen sehr viele junge Menschen zur Landflucht. Die Infrastruktur beschränkt sich auf grundlegende Regierungsgebäude, während Strom und sauberes Wasser extreme Mangelware bleiben.",
+        "hu": "Bokoro egy jelentős kisváros a Hadjer-Lamis tartományban, Csád középső-nyugati részén. Földrajzilag Bokoro a Száhel-övezet ökológiai peremét jelzi, ahol a ritkás szavannák fokozatosan mennek át sokkal szárazabb sivatagi tájakba. Gazdasági szempontból a város egy rendkívül fontos csomópont az ország központi kelet-nyugati tranzittengelyén. A gazdaság mélyen a hagyományos földművelés (köles és földimogyoró) és a félnomád állattenyésztés kettős rendszerére épül. A helyi állatpiac az egyik legnagyobb az egész régióban, ahol szarvasmarha- és tevecsordák sokaságát cserélik el az N'Djamenába történő továbbszállítás céljából. Történelmileg a város a vízlelőhelyek miatt mindig is létfontosságú pihenőhely volt a kereskedelmi karavánok és a nomád törzsek számára. Ma azonban Bokoro masszívan szenved a globális klímaváltozás brutális következményeitől. A krónikus aszályok és a folyamatosan előrenyomuló elsivatagosodás tönkreteszik a terméshozamokat, és nagyon sok fiatalt kényszerítenek arra, hogy a fővárosba vándoroljon. Az infrastruktúra alapvető kormányzati épületekre korlátozódik, míg az áram és a tiszta víz extrém hiánycikk marad.",
+        "ro": "Bokoro este un oraș mic, dar important, în provincia Hadjer-Lamis, în partea central-vestică a Ciadului. Geografic, Bokoro marchează marginea ecologică a zonei Sahel, unde savanele rare se transformă fluid în peisaje deșertice mult mai uscate. Economic, orașul este un nod extrem de important pe axa centrală de tranzit est-vest a țării. Economia se bazează profund pe un sistem dual de agricultură tradițională (mei și alune) și creșterea semi-nomadă a animalelor. Piața locală de vite este una dintre cele mai mari din întreaga regiune, unde se comercializează intens turme mari de vite și cămile pentru a fi transportate mai departe spre capitala N'Djamena. Istoric, orașul a fost întotdeauna un loc de odihnă vital pentru caravanele comerciale. Astăzi, însă, Bokoro suferă masiv din cauza consecințelor brutale ale schimbărilor climatice globale. Secetele cronice și deșertificarea în continuă avansare distrug recoltele și forțează mulți tineri să fugă spre oraș. Infrastructura se limitează la clădiri guvernamentale de bază.",
+        "en": "Bokoro is a significant small city in the Hadjer-Lamis province in the central-western part of Chad. Geographically, Bokoro clearly marks the ecological edge of the Sahel zone, where sparse savannas fluidly transition into much drier desert landscapes. Economically, the city is a highly important hub on the country's central east-west transit axis. The economy is deeply based on a dual system of traditional agriculture (millet and peanuts) and semi-nomadic livestock breeding. The local livestock market is one of the largest in the entire region, where massive herds of cattle and camels are intensively traded for onward transport to the capital, N'Djamena. Historically, due to reliable water points, the city has always been a vital resting place for trading caravans and nomadic tribes. Today, however, Bokoro suffers massively from the brutal consequences of global climate change. Chronic droughts and steadily advancing desertification are severely destroying crop yields and forcing very many young people into rural exodus. The infrastructure is restricted to basic government buildings, while electricity and clean water remain extreme rarities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bokoro markiert den ökologischen Übergang zur extrem trockenen Wüste.",
+          "Die Stadt ist ein hochwichtiger Knotenpunkt auf der Ost-West-Route.",
+          "Der lokale Viehmarkt ist einer der absolut größten der Zentralregion.",
+          "Chronische Dürren und Wüstenbildung zerstören die lokale Landwirtschaft.",
+          "Akuter Mangel an Strom und sauberem Wasser prägt den harten Alltag."
+        ],
+        "hu": [
+          "Bokoro jelöli az ökológiai átmenetet a rendkívül száraz sivatag felé.",
+          "A város egy nagyon fontos tranzitcsomópont a kelet-nyugati útvonalon.",
+          "A helyi állatpiac az egyik abszolút legnagyobb a központi régióban.",
+          "A krónikus aszályok és az elsivatagosodás tönkreteszik a mezőgazdaságot.",
+          "Az áram és a tiszta víz akut hiánya határozza meg a kemény mindennapokat."
+        ],
+        "ro": [
+          "Bokoro marchează clar tranziția ecologică către deșertul extrem de uscat.",
+          "Orașul este un nod rutier extrem de important pe ruta comercială est-vest.",
+          "Piața locală de vite este una dintre cele mai mari din regiunea centrală.",
+          "Secetele cronice și deșertificarea agresivă distrug complet agricultura locală.",
+          "Lipsa acută de energie electrică și apă curată definește viața de zi cu zi."
+        ],
+        "en": [
+          "Bokoro distinctly marks the ecological transition to the extremely dry desert.",
+          "The city acts as a highly important regional hub on the east-west route.",
+          "The local livestock market is one of the absolute largest in the central region.",
+          "Chronic severe droughts and desertification actively destroy local agriculture.",
+          "An acute lack of basic electricity and clean water defines the harsh daily life."
+        ]
+      }
+    },
+    {
+      "id": "goundi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Goundi ist ein florierendes landwirtschaftliches Zentrum in der Provinz Mandoul im feuchten Süden des Tschad. Geografisch ist die Region durch extrem reiche Schwemmlandböden und ausgedehnte bewaldete Savannen gekennzeichnet, was sie zu einer der grünsten Zonen des Landes macht. Wirtschaftlich ist Goundi fast exklusiv auf die Agrarproduktion ausgerichtet. Die Stadt fungiert als sehr wichtiger Sammelpunkt für die lokale Baumwollernte, die das absolute Haupteinkommen der Bauern darstellt und für den Export bestimmt ist. Neben Baumwolle werden Erdnüsse, Sesam und Sorghum in sehr großen Mengen angebaut. Historisch ist Goundi eng mit der Entwicklung von katholischen Missionsstationen und Gesundheitszentren verbunden. Ein weithin bekanntes ländliches Krankenhaus, das in den 1970er Jahren von internationalen Missionaren gegründet wurde, ist heute eine der wichtigsten medizinischen Anlaufstellen in der gesamten Mandoul-Region. Dennoch steht die Stadt vor großen Herausforderungen. Das völlige Fehlen von durchgehend asphaltierten Transportrouten erschwert den Zugang zu nationalen Märkten in der Regenzeit erheblich, und die Bauern sind den stark schwankenden Weltmarktpreisen für Baumwolle schutzlos ausgeliefert.",
+        "hu": "Goundi egy virágzó mezőgazdasági központ a Mandoul tartományban, Csád nedves déli részén. Földrajzilag a régiót rendkívül gazdag hordaléktalajok és kiterjedt erdős szavannák jellemzik, ami az ország egyik legzöldebb övezetévé teszi. Gazdasági szempontból Goundi szinte kizárólag az agrártermelésre összpontosít. A város nagyon fontos gyűjtőpontként működik a helyi gyapottermés számára, amely a gazdák abszolút fő jövedelmét jelenti, és exportra szánják. A gyapot mellett földimogyorót, szezámot és cirkot termesztenek nagyon nagy mennyiségben. Történelmileg Goundi szorosan kötődik a katolikus missziós állomások és egészségügyi központok fejlődéséhez. Egy széles körben ismert vidéki kórház, amelyet az 1970-es években nemzetközi misszionáriusok alapítottak, ma a teljes Mandoul régió egyik legfontosabb egészségügyi intézménye. A város azonban nagy kihívásokkal is szembenéz. A végig aszfaltozott szállítási útvonalak teljes hiánya az esős évszakban jelentősen megnehezíti a nemzeti piacokhoz való hozzáférést, a gazdák pedig védtelenül ki vannak szolgáltatva a gyapot erősen ingadozó világpiaci árainak.",
+        "ro": "Goundi este un centru agricol prosper în provincia Mandoul, în sudul umed al Ciadului. Geografic, regiunea este caracterizată de soluri aluvionare extrem de bogate și savane împădurite extinse, ceea ce o face una dintre cele mai verzi zone din țară. Din punct de vedere economic, Goundi este axat aproape exclusiv pe producția agricolă. Orașul funcționează ca un punct de colectare foarte important pentru recolta locală de bumbac, care reprezintă venitul principal absolut al fermierilor și este destinată exportului. Pe lângă bumbac, se cultivă alune, susan și sorg în cantități foarte mari. Istoric, Goundi este strâns legat de dezvoltarea stațiilor de misiune catolice și a centrelor de sănătate. Un spital rural bine cunoscut, fondat în anii 1970 de misionari internaționali, este astăzi una dintre cele mai importante unități medicale din întreaga regiune Mandoul. Cu toate acestea, orașul se confruntă cu provocări majore. Lipsa totală a rutelor de transport asfaltate face ca accesul la piețele naționale să fie foarte dificil.",
+        "en": "Goundi is a flourishing agricultural center in the Mandoul province in the humid south of Chad. Geographically, the region is characterized by extremely rich alluvial soils and extensive wooded savannas, making it one of the absolute greenest zones in the country. Economically, Goundi is oriented almost exclusively towards agricultural production. The city acts as a highly important collection point for the local commercial cotton harvest, which represents the absolute main income of the farmers and is strictly destined for export. In addition to cotton, peanuts, sesame, and sorghum are cultivated in very large quantities. Historically, Goundi is closely linked to the early development of Catholic mission stations and health centers. A widely renowned rural hospital, officially founded in the 1970s by international missionaries, is today one of the most important medical facilities in the entire Mandoul region. Nevertheless, the city faces major challenges. The total lack of continuously paved transport routes severely hampers physical access to national markets during the rainy season, and farmers are left completely defenseless against wildly fluctuating global cotton prices."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Goundi liegt in der feuchten und extrem fruchtbaren Provinz Mandoul.",
+          "Die lokale Wirtschaft ist exklusiv auf Landwirtschaft ausgerichtet.",
+          "Der kommerzielle Baumwollanbau für den Export dominiert die Region.",
+          "Ein altes Missionskrankenhaus ist medizinisch essenziell für die Region.",
+          "Das Fehlen asphaltierter Straßen blockiert Transporte in der Regenzeit."
+        ],
+        "hu": [
+          "Goundi a nedves és rendkívül termékeny Mandoul tartományban fekszik.",
+          "A helyi gazdaság kizárólag a mezőgazdasági termelésre összpontosít.",
+          "Az exportra szánt kereskedelmi gyapottermesztés uralja a régiót.",
+          "Egy régi missziós kórház orvosilag elengedhetetlen a terület számára.",
+          "Az aszfaltozott utak teljes hiánya blokkolja a szállítást az esős évszakban."
+        ],
+        "ro": [
+          "Goundi este situat în provincia Mandoul, care este umedă și extrem de fertilă.",
+          "Economia locală este orientată exclusiv spre producția agricolă pură.",
+          "Cultivarea comercială a bumbacului pentru export domină complet regiunea.",
+          "Un vechi spital de misiune este medical esențial pentru întreaga zonă.",
+          "Lipsa drumurilor asfaltate blochează transportul în timpul sezonului ploios."
+        ],
+        "en": [
+          "Goundi is located in the highly humid and extremely fertile Mandoul province.",
+          "The local economy is exclusively and strictly oriented towards agriculture.",
+          "Commercial cotton cultivation for export heavily dominates the entire region.",
+          "An old missionary hospital is medically essential for the surrounding area.",
+          "The total lack of paved roads completely blocks transport in the rainy season."
+        ]
+      }
+    },
+    {
+      "id": "moissala-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Moïssala ist eine wichtige Stadt in der Provinz Mandoul im tiefen Süden des Tschad, nicht weit von der Grenze zur Zentralafrikanischen Republik entfernt. Geografisch liegt die Stadt in einer üppigen, von Flüssen durchzogenen Region, die nahezu ideale Bedingungen für eine intensive Landwirtschaft bietet. Wirtschaftlich ist Moïssala ein kulturelles und agrarisches Zentrum für das Sara-Volk und stützt sich intensiv auf den Anbau von kommerzieller Baumwolle, Maniok und Erdnüssen. Der sehr lebhafte lokale Markt dient als Hauptversorgungsquelle für alle umliegenden ländlichen Gemeinden. Historisch gesehen wurde die Stadt während der Kolonialzeit primär als administrativer Außenposten zur strengen Organisation des Baumwollanbaus genutzt. In jüngster Zeit hat Moïssala international wiederholt Schlagzeilen gemacht, da es sehr große Gruppen von verzweifelten Flüchtlingen aufnehmen musste, die vor der massiven Gewalt in der Zentralafrikanischen Republik flohen. Dies hat die extrem begrenzte Infrastruktur der Stadt massiv belastet. Es gibt nur eine rudimentäre Stromversorgung, und die Gesundheitsdienste sind chronisch überlastet. Schlammige Pisten machen die Stadt in der Regenzeit oft fast völlig unzugänglich.",
+        "hu": "Moïssala egy fontos város a Mandoul tartományban, Csád mély déli részén, nem messze a Közép-afrikai Köztársaság határától. Földrajzilag a város egy buja, folyók szabdalta régióban fekszik, amely szinte ideális feltételeket biztosít az intenzív mezőgazdasághoz. Gazdasági szempontból Moïssala a sara nép kulturális és agrárközpontja, és nagymértékben támaszkodik a kereskedelmi gyapot, a manióka és a földimogyoró termesztésére. A nagyon élénk helyi piac szolgál a környező vidéki közösségek fő ellátási forrásaként. Történelmileg a várost a gyarmati időszakban elsősorban adminisztratív előretolt helyőrségként használták a gyapottermesztés szigorú megszervezésére. A közelmúltban Moïssala többször is bekerült a nemzetközi hírekbe, mivel kétségbeesett menekültek nagyon nagy csoportjait kellett befogadnia, akik a Közép-afrikai Köztársaságban zajló hatalmas erőszak elől menekültek. Ez masszívan megterhelte a város rendkívül korlátozott infrastruktúráját. Csak nagyon kezdetleges áramellátás létezik, és az egészségügyi szolgáltatások krónikusan túlterheltek. A sáros földutak az esős évszakban gyakran szinte teljesen megközelíthetetlenné teszik a várost.",
+        "ro": "Moïssala este un oraș important din provincia Mandoul, în sudul profund al Ciadului, nu departe de granița cu Republica Centrafricană. Geografic, orașul este situat într-o regiune luxuriantă, traversată de râuri, care oferă condiții aproape ideale pentru o agricultură intensivă. Din punct de vedere economic, Moïssala este un centru cultural și agricol pentru poporul Sara și se bazează intens pe cultivarea bumbacului comercial, maniocului și alunelor. Piața locală foarte plină de viață servește ca sursă principală de aprovizionare pentru toate comunitățile rurale din jur. Istoric, orașul a fost folosit în perioada colonială în primul rând ca avanpost administrativ pentru organizarea strictă a cultivării bumbacului. Recent, Moïssala a ajuns în mod repetat pe primele pagini ale presei internaționale, deoarece a trebuit să primească grupuri foarte mari de refugiați disperați care fugeau de violența masivă din Republica Centrafricană. Acest lucru a pus o presiune uriașă pe infrastructura extrem de limitată a orașului.",
+        "en": "Moïssala is an important city in the Mandoul province in the deep south of Chad, located not far from the border with the Central African Republic. Geographically, the city lies in a lush, river-crossed region that offers nearly ideal conditions for intensive agriculture. Economically, Moïssala is a cultural and agrarian center for the Sara people and relies intensely on the cultivation of commercial cotton, cassava, and peanuts. The highly vibrant local market serves as the primary source of supply for all the surrounding rural communities. Historically, the city was utilized during the colonial era primarily as an administrative outpost to strictly organize forced cotton cultivation. More recently, Moïssala has repeatedly made international headlines as it has been forced to absorb very large groups of desperate refugees fleeing massive armed violence in the Central African Republic. This influx has placed an enormous burden on the city's extremely limited infrastructure. There is only a highly rudimentary electricity supply, and local health services are chronically overloaded. Muddy tracks often make the city almost completely inaccessible during the heavy rainy season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Moïssala liegt im tiefen, stark bewässerten Süden des Landes.",
+          "Die Stadt ist ein agrarisches Zentrum der ethnischen Sara-Gruppe.",
+          "Der kommerzielle Baumwollanbau dominiert die lokale Landwirtschaft.",
+          "Zehntausende Flüchtlinge aus der ZAR haben die Stadt stark belastet.",
+          "In der Regenzeit sind die lokalen Straßen oft völlig unpassierbar."
+        ],
+        "hu": [
+          "Moïssala az ország mély, folyókkal sűrűn átszelt déli részén fekszik.",
+          "A város a sara etnikai csoport egyik legfőbb agrárközpontja.",
+          "A helyi mezőgazdaságot a kereskedelmi gyapottermesztés dominálja.",
+          "A KAK-ból érkező menekültek tízezrei erősen megterhelték a várost.",
+          "Az esős évszakban a helyi földutak gyakran teljesen járhatatlanok."
+        ],
+        "ro": [
+          "Moïssala se află în sudul profund și puternic irigat al țării.",
+          "Orașul este un centru agrar major al grupului etnic local Sara.",
+          "Cultivarea comercială a bumbacului domină complet agricultura locală.",
+          "Zeci de mii de refugiați din RCA au supraîncărcat puternic orașul.",
+          "În timpul sezonului ploios, drumurile locale sunt adesea impracticabile."
+        ],
+        "en": [
+          "Moïssala is located in the deep, heavily river-crossed south of the country.",
+          "The city acts as a major agrarian center for the local Sara ethnic group.",
+          "Commercial cotton cultivation completely dominates local agriculture.",
+          "Tens of thousands of refugees from the CAR have severely burdened the city.",
+          "During the heavy rainy season, local dirt roads are often totally impassable."
+        ]
+      }
+    },
+    {
+      "id": "adre-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Adré ist eine hochstrategische Grenzstadt in der Provinz Ouaddaï im extremen Osten des Tschad, die direkt an der oft durchlässigen Grenze zur sudanesischen Region Darfur liegt. Geografisch liegt die Stadt in einer extrem trockenen, staubigen Savannenlandschaft, die vereinzelt von rauen felsigen Erhebungen durchbrochen wird. Wirtschaftlich fungierte Adré traditionell als lebhafter Handels- und Transitposten zwischen dem Tschad und dem Sudan. Die lokale Ökonomie stützte sich dabei massiv auf den grenzüberschreitenden Schmuggel von Konsumgütern und den Verkauf von Nutztieren. Historisch und aktuell wird die Stadt jedoch völlig von schweren geopolitischen Konflikten dominiert. Seit dem Ausbruch der brutalen Darfur-Krise Anfang der 2000er Jahre und erneut durch den verheerenden Sudan-Konflikt ab 2023 ist Adré das primäre Aufnahmelager für Hunderttausende von verzweifelten Flüchtlingen. Diese immense demografische Explosion hat die Kleinstadt in eine gigantische, überlastete humanitäre Hub-Zone verwandelt. Internationale NGOs und UN-Agenturen prägen das Stadtbild völlig. Die natürlichen Ressourcen wie Trinkwasser und Brennholz sind extrem überlastet.",
+        "hu": "Adré egy rendkívül stratégiai jelentőségű határváros az Ouaddaï tartományban, Csád legkeletibb részén, közvetlenül a szudáni Dárfúr régió gyakran átjárható határán. Földrajzilag a város egy extrém száraz, poros szavannás tájon fekszik, amelyet elszórtan zord sziklás magaslatok törnek meg. Gazdasági szempontból Adré hagyományosan élénk kereskedelmi és tranzitállomásként működött Csád és Szudán között. A helyi gazdaság nagymértékben a fogyasztási cikkek határokon átnyúló csempészetére és a haszonállatok értékesítésére épült. Történelmileg és napjainkban azonban a várost teljesen uralják a súlyos geopolitikai konfliktusok. A brutális dárfúri válság 2000-es évekbeli kitörése óta, majd a 2023-ban kezdődő pusztító szudáni konfliktus miatt Adré lett a kétségbeesett menekültek százezreinek elsődleges befogadó tábora. Ez a hatalmas demográfiai robbanás a kisvárost egy gigantikus, túlterhelt humanitárius csomóponttá változtatta. A városképet teljesen a nemzetközi civil szervezetek és az ENSZ ügynökségei határozzák meg. A természeti erőforrások, mint az ivóvíz és a tűzifa, extrém módon túlterheltek.",
+        "ro": "Adré este un oraș de graniță extrem de strategic în provincia Ouaddaï din estul extrem al Ciadului, situat direct pe granița adesea poroasă cu regiunea Darfur din Sudan. Geografic, orașul este situat într-un peisaj de savană extrem de uscat și prăfuit, care este întrerupt pe alocuri de altitudini stâncoase aspre. Economic, Adré a funcționat tradițional ca un post comercial și de tranzit animat între Ciad și Sudan. Economia locală s-a bazat masiv pe contrabanda transfrontalieră cu bunuri de consum și pe vânzarea de animale. Cu toate acestea, istoric și în prezent, orașul este complet dominat de conflicte geopoliteme severe. De la izbucnirea crizei brutale din Darfur la începutul anilor 2000 și, din nou, din cauza conflictului devastator din Sudan din 2023, Adré este tabăra primară de recepție pentru sute de mii de refugiați disperați. Această explozie demografică imensă a transformat micul oraș într-un centru umanitar gigantic și supraîncărcat. ONG-urile internaționale domină peisajul.",
+        "en": "Adré is a highly strategic border city in the Ouaddaï province in the extreme east of Chad, located directly on the frequently porous border with the Sudanese region of Darfur. Geographically, the city lies in an extremely dry, dusty savanna landscape that is occasionally broken up by harsh rocky elevations. Economically, Adré traditionally functioned as a highly lively trading and transit post between Chad and Sudan. The local economy relied massively on the cross-border smuggling of consumer goods and the lucrative sale of livestock. Historically and currently, however, the city is completely dominated by severe geopolitical conflicts. Since the outbreak of the brutal Darfur crisis in the early 2000s and again due to the devastating Sudan conflict starting in 2023, Adré has served as the primary reception camp for hundreds of thousands of desperate refugees. This immense demographic explosion has transformed the small city into a gigantic, severely overloaded humanitarian hub zone. International NGOs and UN agencies completely dominate the cityscape. Natural resources such as clean drinking water and firewood are extremely overstretched."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Adré liegt extrem strategisch direkt an der Grenze zur Region Darfur.",
+          "Der informelle Handel mit dem Sudan prägte historisch die Wirtschaft.",
+          "Seit 2023 ist Adré das Hauptaufnahmelager für Sudan-Flüchtlinge.",
+          "Eine gigantische demografische Explosion überlastet die Stadt extrem.",
+          "UN-Organisationen und NGOs dominieren das heutige Stadtbild komplett."
+        ],
+        "hu": [
+          "Adré rendkívül stratégiai helyen, közvetlenül a dárfúri határon fekszik.",
+          "A Szudánnal folytatott informális kereskedelem formálta a gazdaságot.",
+          "2023 óta Adré a szudáni menekültek abszolút fő befogadó tábora.",
+          "Egy gigantikus demográfiai robbanás extrém módon túlterheli a várost.",
+          "Az ENSZ szervezetei és az NGO-k ma már teljesen uralják a városképet."
+        ],
+        "ro": [
+          "Adré este situat extrem de strategic, chiar pe granița cu regiunea Darfur.",
+          "Comerțul informal cu Sudanul a modelat istoric puternic economia.",
+          "Din 2023, Adré este principala tabără de recepție pentru refugiații sudanezi.",
+          "O explozie demografică gigantică supraîncarcă extrem de mult orașul.",
+          "Agențiile ONU și ONG-urile domină astăzi complet peisajul urban."
+        ],
+        "en": [
+          "Adré is extremely strategically located right on the border with Darfur.",
+          "Informal cross-border trade with Sudan historically shaped the economy.",
+          "Since 2023, Adré acts as the primary reception camp for Sudan refugees.",
+          "A gigantic demographic explosion is severely overloading the small city.",
+          "UN agencies and international NGOs now completely dominate the cityscape."
+        ]
+      }
+    },
+    {
+      "id": "gore-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Goré ist die wichtigste südliche Grenzstadt in der Provinz Logone Oriental im Tschad. Geografisch befindet sich die Stadt in der hochfruchtbaren tropischen Zone, direkt an der oft ungesicherten Grenze zur Zentralafrikanischen Republik (ZAR). Die lokale Wirtschaft basierte traditionell auf einem sehr robusten Agrarsektor, in dem Yams, Maniok und kommerzielle Baumwolle in großen Mengen angebaut wurden, sowie auf dem lukrativen grenzüberschreitenden Handel. Historisch war Goré eine eher ruhige Provinzstadt, bis die extremen politischen Unruhen in der ZAR ab 2013 das gesamte Gebiet grundlegend veränderten. Goré wurde schlagartig zu einem der größten nationalen Auffangbecken für hunderttausende zentralafrikanische Flüchtlinge und zurückkehrende tschadische Staatsbürger. Um die Stadt herum wurden massive, zeltartige Flüchtlingslager errichtet, die bis heute von internationalen Hilfsorganisationen verwaltet werden. Die ständige Präsenz dieser Lager hat eine parallele Wirtschaft für humanitäre Logistik geschaffen, jedoch die natürlichen Ressourcen der Region stark erschöpft. Die massive Abholzung für Brennholz ist ein riesiges ökologisches Problem.",
+        "hu": "Goré a legfontosabb déli határváros a Logone Oriental tartományban, Csádban. Földrajzilag a város a rendkívül termékeny trópusi övezetben fekszik, közvetlenül a Közép-afrikai Köztársaság (KAK) gyakran őrizetlen határán. A helyi gazdaság hagyományosan egy nagyon robusztus agrárszektorra épült, ahol jamgyökeret, maniókát és kereskedelmi gyapotot termesztettek nagy mennyiségben, valamint a jövedelmező, határokon átnyúló kereskedelemre. Történelmileg Goré egy meglehetősen csendes vidéki város volt, amíg a KAK-ban 2013-ban kirobbant extrém politikai zavargások alapvetően meg nem változtatták az egész térséget. Goré hirtelen az egyik legnagyobb nemzeti gyűjtőközponttá vált a több százezer közép-afrikai menekült és a visszatérő csádi állampolgárok számára. A város körül hatalmas, sátorszerű menekülttáborokat hoztak létre, amelyeket a mai napig nemzetközi segélyszervezetek irányítanak. E táborok állandó jelenléte egy párhuzamos gazdaságot hozott létre a humanitárius logisztika számára, de ugyanakkor erősen kimerítette a régió természeti erőforrásait. A tűzifa miatti tömeges erdőirtás óriási ökológiai probléma.",
+        "ro": "Goré este cel mai important oraș de graniță sudic din provincia Logone Oriental din Ciad. Geografic, orașul este situat în zona tropicală extrem de fertilă, direct pe granița adesea nesecurizată cu Republica Centrafricană (RCA). Economia locală s-a bazat în mod tradițional pe un sector agricol foarte robust, în care se cultivau în cantități mari igname, manioc și bumbac comercial, precum și pe comerțul transfrontalier profitabil. Istoric, Goré a fost un oraș de provincie destul de liniștit, până când tulburările politice extreme din RCA începând cu 2013 au schimbat fundamental întreaga zonă. Goré a devenit brusc unul dintre cele mai mari centre naționale de primire pentru sute de mii de refugiați centrafricani. Tabere masive de refugiați asemănătoare unor corturi au fost construite în jurul orașului, fiind și astăzi gestionate de organizații internaționale de ajutor. Prezența lor constantă a creat o economie paralelă pentru logistica umanitară, dar a epuizat sever resursele. Defrișarea pentru lemne de foc este o problemă ecologică imensă.",
+        "en": "Goré is the most important southern border city in the Logone Oriental province in Chad. Geographically, the city is located in the highly fertile tropical zone, directly on the frequently unsecured border with the Central African Republic (CAR). The local economy was traditionally based on a very robust agricultural sector, where yams, cassava, and commercial cotton were grown in very large quantities, as well as on lucrative cross-border trade. Historically, Goré was a rather quiet provincial town until the extreme political unrest in the CAR starting in 2013 fundamentally changed the entire area. Goré abruptly became one of the largest national reception centers for hundreds of thousands of Central African refugees and returning Chadian citizens. Massive, tent-like refugee camps were erected completely around the city, which are managed by international aid organizations to this day. The constant presence of these large camps has created a parallel economy for humanitarian logistics but has also severely depleted the region's natural resources. Massive unregulated deforestation strictly for firewood is a huge ecological problem."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Goré liegt in der sehr fruchtbaren Grenzzone zur Zentralafrikanischen Republik.",
+          "Die lokale Agrarwirtschaft konzentriert sich auf Yams, Maniok und Baumwolle.",
+          "Der Bürgerkrieg der ZAR hat die Stadt ab 2013 fundamental verändert.",
+          "Massive Flüchtlingslager umgeben heute das gesamte Stadtgebiet.",
+          "Abholzung für die Brennholzbeschaffung ruiniert die lokalen Wälder."
+        ],
+        "hu": [
+          "Goré a KAK-kal közös, rendkívül termékeny határzónában helyezkedik el.",
+          "A helyi mezőgazdaság a jamgyökérre, a maniókára és a gyapotra összpontosít.",
+          "A KAK polgárháborúja 2013-tól kezdve alapvetően és végleg megváltoztatta a várost.",
+          "Ma már hatalmas nemzetközi menekülttáborok veszik körül az egész várost.",
+          "A tűzifa beszerzése miatti folyamatos erdőirtás tönkreteszi a helyi erdőket."
+        ],
+        "ro": [
+          "Goré este situat în zona de graniță extrem de fertilă cu Republica Centrafricană.",
+          "Economia agricolă locală se concentrează pe igname, manioc și bumbac.",
+          "Războiul civil din RCA a schimbat fundamental orașul începând cu 2013.",
+          "Tabere masive de refugiați înconjoară astăzi întreaga zonă urbană.",
+          "Defrișarea agresivă pentru procurarea lemnelor de foc ruinează pădurile locale."
+        ],
+        "en": [
+          "Goré is located in the highly fertile border zone with the Central African Republic.",
+          "Local agricultural economy focuses heavily on yams, cassava, and cotton.",
+          "The CAR civil war fundamentally changed the city's character starting in 2013.",
+          "Massive international refugee camps completely surround the urban area today.",
+          "Aggressive deforestation for firewood procurement is ruining the local forests."
+        ]
+      }
+    },
+    {
+      "id": "iriba-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Iriba ist die Verwaltungshauptstadt des Departements Kobe in der Provinz Wadi Fira im tiefen Osten des Tschad. Geografisch liegt die Stadt in einer extrem trockenen, rauen und wüstenähnlichen Sahelregion, die fast ganzjährig von extremer Wasserknappheit dominiert wird. Wirtschaftlich stützt sich die lokale Bevölkerung, die primär der ethnischen Gruppe der Zaghawa angehört, beinahe ausschließlich auf die halbnomadische Kamel- und Schafzucht. Iriba war historisch ein sehr kleines, hochgradig isoliertes Zentrum, erlangte jedoch durch die engen ethnischen und militärischen Verbindungen zum tschadischen Präsidentenpalast sowie zur sudanesischen Darfur-Region massive strategische Bedeutung in der Landespolitik. Wie viele Grenzstädte im Osten wurde auch Iriba durch die schweren Flüchtlingskrisen aus dem Sudan drastisch transformiert. In der direkten Umgebung der Stadt befinden sich riesige UN-Flüchtlingscamps. Die städtische Infrastruktur ist heute fast vollständig auf die Logistik und die Bedürfnisse der internationalen humanitären Missionen ausgerichtet. Für die reguläre tschadische Zivilbevölkerung fehlt es jedoch weiterhin an grundlegenden Dienstleistungen.",
+        "hu": "Iriba a Kobe megye közigazgatási fővárosa a Wadi Fira tartományban, Csád mély keleti részén. Földrajzilag a város egy rendkívül száraz, zord és sivatagszerű Száhel-régióban fekszik, amelyet szinte egész évben extrém vízhiány jellemez. Gazdasági szempontból a helyi lakosság, amely elsősorban a zaghawa etnikai csoporthoz tartozik, szinte kizárólag a félnomád teve- és juhtenyésztésre támaszkodik. Iriba történelmileg egy nagyon kicsi, rendkívül elszigetelt központ volt, de a csádi elnöki palotához és a szudáni Dárfúr régióhoz fűződő szoros etnikai és katonai kapcsolatai révén masszív stratégiai jelentőségre tett szert az országos politikában. Kelet számos más határvárosához hasonlóan Iribát is drasztikusan átalakították a Szudánból érkező súlyos menekültválságok. A város közvetlen környezetében hatalmas ENSZ menekülttáborok találhatók. A városi infrastruktúra ma szinte teljes mértékben a nemzetközi humanitárius missziók logisztikájára és szükségleteire irányul. A rendszeres csádi civil lakosság számára azonban továbbra is hiányoznak az alapvető szolgáltatások.",
+        "ro": "Iriba este capitala administrativă a departamentului Kobe în provincia Wadi Fira din estul profund al Ciadului. Geografic, orașul este situat într-o regiune Sahel extrem de uscată, aspră și de tip deșert, dominată de o penurie extremă de apă aproape pe tot parcursul anului. Economic, populația locală, aparținând în primul rând grupului etnic Zaghawa, se bazează aproape exclusiv pe creșterea semi-nomadă a cămilelor și a oilor. Istoric, Iriba a fost un centru foarte mic, extrem de izolat, dar a dobândit o importanță strategică masivă în politica națională datorită legăturilor etnice și militare strânse cu palatul prezidențial ciadian și cu regiunea sudaneză Darfur. La fel ca multe orașe de frontieră din est, Iriba a fost transformat drastic de crizele severe ale refugiaților din Sudan. Tabere uriașe de refugiați ale ONU sunt situate în imediata apropiere a orașului. Infrastructura urbană este astăzi aproape complet orientată spre logistica și nevoile misiunilor umanitare internaționale. Cu toate acestea, populația civilă obișnuită încă este lipsită de servicii.",
+        "en": "Iriba is the administrative capital of the Kobe department in the Wadi Fira province in the deep east of Chad. Geographically, the city is located in an extremely dry, harsh, and desert-like Sahelian region that is dominated by extreme water scarcity almost entirely year-round. Economically, the local population, which primarily belongs to the Zaghawa ethnic group, relies almost exclusively on semi-nomadic camel and sheep breeding. Historically, Iriba was a very small, highly isolated center, but it gained massive strategic importance in national politics due to its close ethnic and military ties to the Chadian presidential palace and the Sudanese Darfur region. Like many border cities in the east, Iriba was drastically transformed by the severe refugee crises spilling over from Sudan. Huge UN refugee camps are located in the direct vicinity of the city. The urban infrastructure today is almost entirely geared toward the logistics and needs of the international humanitarian missions. For the regular Chadian civilian population, however, there is still a total lack of basic essential services."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Iriba liegt im extrem trockenen und rauen Osten des Tschad.",
+          "Die Wirtschaft basiert rein auf halbnomadischer Kamel- und Schafzucht.",
+          "Die Stadt hat enge ethnische Verbindungen zur politischen Elite.",
+          "Riesige UN-Flüchtlingscamps dominieren das heutige Umland.",
+          "Lokale Infrastruktur ist primär auf internationale NGOs ausgerichtet."
+        ],
+        "hu": [
+          "Iriba Csád rendkívül száraz és nagyon zord keleti részén fekszik.",
+          "A gazdaság tisztán a félnomád teve- és juhtenyésztésen alapul.",
+          "A város szoros etnikai kapcsolatokat ápol az országos politikai elittel.",
+          "Hatalmas ENSZ menekülttáborok uralják a mai közvetlen környezetet.",
+          "A helyi infrastruktúra elsősorban a nemzetközi civil szervezetekre épül."
+        ],
+        "ro": [
+          "Iriba se află în estul extrem de uscat și aspru al Ciadului.",
+          "Economia se bazează pur pe creșterea semi-nomadă a cămilelor și oilor.",
+          "Orașul are legături etnice foarte strânse cu elita politică națională.",
+          "Taberele uriașe de refugiați ONU domină zona înconjurătoare de astăzi.",
+          "Infrastructura locală este orientată în principal către ONG-uri internaționale."
+        ],
+        "en": [
+          "Iriba is located in the extremely dry and harsh eastern part of Chad.",
+          "The economy is based purely on semi-nomadic camel and sheep breeding.",
+          "The city has extremely close ethnic ties to the national political elite.",
+          "Huge UN refugee camps completely dominate the surrounding area today.",
+          "Local infrastructure is geared almost entirely towards international NGOs."
+        ]
+      }
+    },
+    {
+      "id": "bardai-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bardaï ist die administrative Hauptstadt der Provinz Tibesti im äußersten Norden des Tschad, tief in der feindlichen Sahara-Wüste gelegen. Geografisch befindet sich die Stadt in einer absolut spektakulären, von extrem hohen vulkanischen Gebirgen umgebenen Oase, was ihr ein einzigartiges Mikroklima verschafft. Wirtschaftlich ist Bardaï aufgrund der Wüste extrem isoliert und fast vollständig von der Subsistenzlandwirtschaft in der Oase abhängig, wobei der Bewässerungsanbau von Dattelpalmen und Weizen die wichtigste Rolle spielt. Zusätzlich betreiben die lokalen Tubu-Nomaden traditionelle Kamelzucht. Historisch ist Bardaï als ein absolutes Zentrum des tschadischen Widerstands und stetiger militärischer Rebellionen bekannt. Die Region war während des tschadisch-libyschen Konflikts in den 1970er und 1980er Jahren schwer umkämpft und blieb lange stark vermint. Aufgrund seiner extremen geografischen Abgeschiedenheit und der rauen Bedingungen hat die Zentralregierung in N'Djamena hier nur sehr begrenzte administrative Kontrolle. Heute gewinnt die Region durch den unregulierten, hochgefährlichen Goldabbau in den umliegenden Wüstengebieten eine chaotische wirtschaftliche Dynamik.",
+        "hu": "Bardaï a Tibesti tartomány közigazgatási fővárosa Csád legészakibb részén, mélyen a barátságtalan Szahara sivatagban. Földrajzilag a város egy abszolút látványos, rendkívül magas vulkanikus hegyekkel körülvett oázisban fekszik, ami egyedülálló mikroklímát biztosít számára. Gazdasági szempontból Bardaï a sivatag miatt rendkívül elszigetelt, és szinte teljesen az oázisban folytatott önellátó mezőgazdaságtól függ, ahol a datolyapálmák és a búza öntözéses termesztése játssza a legfontosabb szerepet. Emellett a helyi tubu nomádok hagyományos teveteenyésztést is folytatnak. Történelmileg Bardaï a csádi ellenállás és a folyamatos katonai lázadások abszolút központjaként ismert. A régió az 1970-es és 1980-as évek csádi-líbiai konfliktusa idején súlyos harcok színtere volt, és sokáig erősen aláaknázott maradt. Extrém földrajzi elszigeteltsége és a zord körülmények miatt az N'Djamena-i központi kormánynak itt csak nagyon korlátozott közigazgatási ellenőrzése van. Ma a régió egy új, kaotikus gazdasági dinamikát nyer a környező sivatagi területeken folyó szabályozatlan, rendkívül veszélyes aranybányászat révén.",
+        "ro": "Bardaï este capitala administrativă a provinciei Tibesti din nordul extrem al Ciadului, situată adânc în deșertul ostil Sahara. Geografic, orașul este situat într-o oază absolut spectaculoasă înconjurată de munți vulcanici extrem de înalți, ceea ce îi conferă un microclimat unic. Din punct de vedere economic, Bardaï este extrem de izolat din cauza deșertului și aproape în întregime dependent de agricultura de subzistență din oază, cultivarea irigată a curmalilor și a grâului jucând cel mai important rol. În plus, nomazii locali Tubu practică creșterea tradițională a cămilelor. Istoric, Bardaï este cunoscut ca un centru absolut al rezistenței ciadiene și al rebeliunilor militare constante. Regiunea a fost puternic disputată în timpul conflictului ciadiano-libian din anii 1970 și 1980 și a rămas puternic minată mult timp. Datorită izolării sale geografice extreme și a condițiilor aspre, guvernul central din N'Djamena are doar un control administrativ foarte limitat aici. Astăzi, extracția nereglementată a aurului aduce haos.",
+        "en": "Bardaï is the administrative capital of the Tibesti province in the extreme north of Chad, located deep within the hostile Sahara Desert. Geographically, the city is situated in an absolutely spectacular oasis surrounded by extremely high volcanic mountains, giving it a unique microclimate. Economically, Bardaï is extremely isolated due to the desert and is almost entirely dependent on subsistence agriculture within the oasis, with the irrigated cultivation of date palms and wheat playing the most critical role. Additionally, the local Tubu nomads practice traditional camel breeding. Historically, Bardaï is widely known as an absolute center of Chadian resistance and constant military rebellions. The region was heavily fought over during the Chadian-Libyan conflict in the 1970s and 1980s and remained heavily mined for a long time. Due to its extreme geographical isolation and harsh conditions, the central government in N'Djamena exercises only very limited administrative control here. Today, the region is gaining a new, chaotic economic dynamic due to unregulated, highly dangerous gold mining operations in the surrounding desert areas."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bardaï liegt in einer vulkanischen Oase tief in der Sahara.",
+          "Die lokale Wirtschaft stützt sich exklusiv auf bewässerten Dattelanbau.",
+          "Die Stadt ist historisch ein absolutes Zentrum für militärische Rebellionen.",
+          "Extreme Isolation beschränkt die administrative Kontrolle der Regierung.",
+          "Ein neuer, illegaler Goldrausch in der Wüste bringt chaotische Dynamik."
+        ],
+        "hu": [
+          "Bardaï egy vulkanikus oázisban fekszik, mélyen a Szahara sivatagban.",
+          "A helyi gazdaság kizárólag az öntözéses datolyatermesztésre épül.",
+          "A város történelmileg a katonai lázadások abszolút és állandó központja.",
+          "Az extrém elszigeteltség nagyon korlátozza a kormány közigazgatási ellenőrzését.",
+          "Egy új, illegális aranyláz a sivatagban kaotikus gazdasági dinamikát hoz."
+        ],
+        "ro": [
+          "Bardaï este situat într-o oază vulcanică adânc în deșertul Sahara.",
+          "Economia locală se bazează exclusiv pe cultivarea irigată a curmalilor.",
+          "Orașul este istoric un centru absolut pentru rebeliuni militare constante.",
+          "Izolarea extremă limitează grav controlul administrativ al guvernului.",
+          "O nouă goană ilegală după aur în deșert aduce o dinamică haotică."
+        ],
+        "en": [
+          "Bardaï is located in a spectacular volcanic oasis deep within the Sahara.",
+          "The local economy relies exclusively and heavily on irrigated date cultivation.",
+          "The city is historically an absolute center for constant military rebellions.",
+          "Extreme geographical isolation limits the government's administrative control.",
+          "A new, highly illegal gold rush in the desert brings chaotic economic dynamics."
+        ]
+      }
+    }
+  ]
+}

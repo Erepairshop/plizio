@@ -1,0 +1,44 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "description": "A Naukluft-hegység a Namib-Naukluft Park része, zord terepéről és természetes forrásairól ismert.",
+      "facts": ["Namib-Naukluft Park", "Zord terep", "Természetes források"]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "description": "A Hartmann-hegység egy távoli hegység az északi Kaokoveldben, fenséges sivatagi tájairól ismert.",
+      "facts": ["Távoli hegység", "Északi Kaokoveld", "Fenséges sivatagi tájak"]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "description": "A Grootberg-fennsík egy lenyűgöző bazaltképződmény Damaralandban, látványos kilátást kínálva.",
+      "facts": ["Bazaltképződmény", "Damaraland", "Látványos kilátás"]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "description": "Az Epupa-vízesés egy sor vízesés a Kunene folyón, buja oázist alkotva a száraz Kaokoveldben.",
+      "facts": ["Vízesések", "Kunene folyó", "Buja oázis"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Ongongo egy természetes meleg forrás a Kaokoveldben, amelyet vibráló zöld oázis és pálmafák vesznek körül.",
+      "facts": ["Természetes meleg forrás", "Kaokoveld", "Zöld oázis"]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "description": "A Palmwag-koncesszió egy természetvédelmi terület Damaralandban, sivatagi elefántjairól és orrszarvúiról ismert.",
+      "facts": ["Természetvédelmi terület", "Damaraland", "Sivatagi elefántok és orrszarvúak"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Urichab egy ősi vulkáni rom a Namib-sivatagban, amely jellegzetes geológiai képződményt alkot.",
+      "facts": ["Vulkáni rom", "Namib-sivatag", "Geológiai képződmény"]
+    }
+  ]
+}

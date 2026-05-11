@@ -1,0 +1,67 @@
+{
+  "lang": "en",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraZambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraZambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mpulungu-cities-v2",
+      "description": "A port town located on the shores of Lake Tanganyika. It serves as an important transit point for trade between Zambia and its neighbors.",
+      "facts": ["Located on Lake Tanganyika.", "Major Zambian port.", "Regional trade hub."]
+    },
+    {
+      "id": "chambishi-cities-v2",
+      "description": "An industrial town in the Copperbelt province known for its large copper mining operations.",
+      "facts": ["Copperbelt province town.", "Major mining center.", "Industrial significance."]
+    },
+    {
+      "id": "lufwanyama-cities-v2",
+      "description": "A district town in the Copperbelt, recognized for its natural resources and mining potential.",
+      "facts": ["Located in Copperbelt province.", "District administration center.", "Mining and natural resources."]
+    },
+    {
+      "id": "chongwe-cities-v2",
+      "description": "A town situated east of Lusaka, serving as a gateway and important agricultural region.",
+      "facts": ["Near Lusaka.", "Agricultural center.", "Growing residential area."]
+    },
+    {
+      "id": "serenje-cities-v2",
+      "description": "A town in the Muchinga province located along the Great North Road.",
+      "facts": ["Muchinga province town.", "On the Great North Road.", "Transport transit point."]
+    },
+    {
+      "id": "nyimba-cities-v2",
+      "description": "A town in the Eastern province, known for its strategic location on the Great East Road.",
+      "facts": ["Eastern province town.", "Great East Road location.", "Trade transit point."]
+    },
+    {
+      "id": "luwingu-cities-v2",
+      "description": "A town in the Northern province, serving as a local commercial and administrative hub.",
+      "facts": ["Northern province town.", "Local administrative center.", "Agriculture-based economy."]
+    },
+    {
+      "id": "mafinga-cities-v2",
+      "description": "A town situated in the mountainous Muchinga province, near the border with Malawi.",
+      "facts": ["Muchinga province.", "Mountainous landscape.", "Border area."]
+    },
+    {
+      "id": "lukulu-cities-v2",
+      "description": "A town on the Zambezi River in the Western province, primarily focused on agriculture.",
+      "facts": ["On the Zambezi River.", "Western province town.", "Agricultural hub."]
+    },
+    {
+      "id": "kalabo-cities-v2",
+      "description": "A town in the Western province, known for its proximity to the Liuwa Plain National Park.",
+      "facts": ["Near Liuwa Plain.", "Western province.", "Wetland landscape."]
+    },
+    {
+      "id": "rufunsa-cities-v2",
+      "description": "A town located east of Lusaka, becoming a significant district administrative center.",
+      "facts": ["District center.", "East of Lusaka.", "Developing town."]
+    }
+  ]
+}

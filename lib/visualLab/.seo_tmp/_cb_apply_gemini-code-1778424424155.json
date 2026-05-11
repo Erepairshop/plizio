@@ -1,0 +1,447 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicEconomicV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGabonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGabonHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGabonLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "turtle-sos-sal-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Turtle Foundation Sea Turtle Conservation Center auf der Insel Sal, Kap Verde, ist eine wichtige Einrichtung zum Schutz der Unechten Karettschildkröte (Caretta caretta). Kap Verde beherbergt die drittgrößte Nistpopulation dieser Art weltweit, was den Archipel für die marine Artenvielfalt global bedeutsam macht. In der Vergangenheit gingen die Bestände durch Wilderei wegen Fleisch und Panzern sowie durch Lebensraumzerstörung stark zurück. Das Schutzzentrum organisiert während der Nistsaison von Juni bis Oktober umfangreiche nächtliche Strandpatrouillen, um Wilderer abzuschrecken und die Nistaktivitäten zu überwachen. Biologen und geschulte Freiwillige sammeln biometrische Daten, markieren nistende Weibchen und verlegen gefährdete Nester in sichere, bewachte Brutstätten. Diese Brutstätten schützen die Eier vor natürlichen Raubtieren und menschlichen Eingriffen, bis die Jungtiere nach etwa 60 Tagen schlüpfen. Das Zentrum führt auch Umweltbildungsprogramme in den lokalen Gemeinden durch, um nachhaltige Praktiken zu fördern und das Bewusstsein für Meeresschutzgesetze zu schärfen.",
+        "hu": "A Turtle Foundation Tengeri Teknős Védelmi Központ a Zöld-foki Köztársaság Sal szigetén az álcserepesteknősök (Caretta caretta) védelmének egyik legfontosabb intézménye. A Zöld-foki-szigetek ad otthont a világ harmadik legnagyobb álcserepesteknős fészkelő populációjának, így a szigetcsoport globális jelentőséggel bír a tengeri biodiverzitás szempontjából. A múltban a teknősállomány jelentősen csökkent a húsukért és páncéljukért folytatott orvvadászat, valamint az élőhelyek pusztulása miatt. A központ a júniustól októberig tartó fészkelési időszakban kiterjedt éjszakai parti járőrszolgálatot szervez az orvvadászok elriasztására és a fészkelés megfigyelésére. A biológusok és képzett önkéntesek biometrikus adatokat gyűjtenek, megjelölik a fészkelő nőstényeket, és a veszélyeztetett fészkeket biztonságos, őrzött keltetőkbe helyezik át. Ezek a keltetők megvédik a tojásokat a természetes ragadozóktól és az emberi beavatkozástól, amíg a fiókák körülbelül 60 nap múlva ki nem kelnek. A központ környezeti nevelési programokat is folytat a helyi közösségekben a tengeri természetvédelmi törvények megismertetése érdekében.",
+        "ro": "Centrul de Conservare a Țestoaselor Marine Turtle Foundation de pe insula Sal, Capul Verde, este o facilitate esențială dedicată protecției broaștei țestoase marine Caretta caretta. Capul Verde găzduiește a treia cea mai mare populație de cuibărire a acestor țestoase din lume, făcând arhipelagul semnificativ la nivel global pentru biodiversitatea marină. Din punct de vedere istoric, populațiile au scăzut drastic din cauza braconajului pentru carne și carapace, precum și din cauza distrugerii habitatului. Centrul de conservare organizează patrule nocturne extinse pe plajă în timpul sezonului de cuibărire, din iunie până în octombrie, pentru a descuraja braconierii și a monitoriza activitatea. Biologii și voluntarii instruiți colectează date biometrice, marchează femelele și mută cuiburile vulnerabile în incubatoare sigure și păzite. Aceste incubatoare protejează ouăle de prădătorii naturali și de interferența umană până când puii eclozează, după aproximativ 60 de zile. Centrul desfășoară, de asemenea, programe de educație ecologică în comunitățile locale pentru a promova practici durabile și a crește gradul de conștientizare privind legile conservării marine.",
+        "en": "The Turtle Foundation Sea Turtle Conservation Center on the island of Sal, Cape Verde, is a critical facility dedicated to the protection of the loggerhead sea turtle (Caretta caretta). Cape Verde hosts the third-largest nesting population of loggerhead turtles in the world, making the archipelago globally significant for marine biodiversity. Historically, turtle populations faced severe declines due to illegal poaching for meat and shells, alongside habitat destruction. The conservation center organizes extensive nightly beach patrols during the nesting season, which runs from June to October, to deter poachers and monitor nesting activities. Biologists and trained volunteers collect vital biometric data, tag nesting females, and relocate vulnerable nests to secure, guarded hatcheries. These hatcheries protect the eggs from natural predators and human interference until the hatchlings emerge after approximately 60 days. The center also conducts comprehensive environmental education programs within local communities to promote sustainable practices and raise awareness about marine conservation laws."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kap Verde hat die drittgrößte Nistpopulation von Unechten Karettschildkröten weltweit.",
+          "Die primäre Nistsaison dauert von Juni bis Oktober.",
+          "Die Brutzeit der Schildkröteneier beträgt etwa 60 Tage.",
+          "Nächtliche Strandpatrouillen werden organisiert, um Wilderei zu verhindern.",
+          "Gefährdete Eier werden in geschützte, bewachte Brutstätten umgesiedelt.",
+          "Biologen markieren weibliche Schildkröten, um Populationsdaten zu sammeln."
+        ],
+        "hu": [
+          "A Zöld-foki-szigeteken van a világ 3. legnagyobb álcserepesteknős fészkelőhelye.",
+          "Az elsődleges fészkelési időszak júniustól októberig tart.",
+          "A teknőstojások inkubációs ideje körülbelül 60 nap.",
+          "Éjszakai parti járőrözést szerveznek az orvvadászat megakadályozására.",
+          "A veszélyeztetett tojásokat védett, őrzött keltetőkbe helyezik át.",
+          "A biológusok megjelölik a nőstényeket a populációs adatok gyűjtése céljából."
+        ],
+        "ro": [
+          "Capul Verde are a treia cea mai mare populație de cuibărire de țestoase Caretta caretta din lume.",
+          "Sezonul principal de cuibărire durează din iunie până în octombrie.",
+          "Perioada de incubație a ouălor de țestoasă este de aproximativ 60 de zile.",
+          "Se organizează patrule nocturne pe plajă pentru a preveni braconajul.",
+          "Ouăle vulnerabile sunt relocate în incubatoare protejate și păzite.",
+          "Biologii marchează femelele pentru a colecta date despre populație."
+        ],
+        "en": [
+          "Cape Verde holds the 3rd largest nesting population of loggerhead turtles globally.",
+          "The primary nesting season occurs from June to October.",
+          "The incubation period for the turtle eggs is approximately 60 days.",
+          "Nightly beach patrols are organized to prevent illegal poaching.",
+          "Vulnerable eggs are relocated into protected, guarded hatcheries.",
+          "Biologists tag female turtles to collect essential population data."
+        ]
+      }
+    },
+    {
+      "id": "coffee-plantations-fogo-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kaffeeplantagen von Mosteiros befinden sich an den nordöstlichen Hängen des Vulkans Fogo in der Republik Kap Verde. Der Kaffeeanbau wurde hier im 18. Jahrhundert eingeführt und profitiert vom äußerst fruchtbaren vulkanischen Boden sowie einem einzigartigen Mikroklima. Die Höhenlage des Gebiets zwischen 500 und 1.000 Metern über dem Meeresspiegel in Kombination mit der durch die Nordostpassate herangeführten Feuchtigkeit schafft optimale Bedingungen für den Anbau von hochwertigem Arabica-Kaffee. Die Kaffeepflanzen werden traditionell in Mischkultur mit anderen Obstbäumen wie Bananen und Papayas angebaut, die wesentlichen Schatten spenden und die Bodenfeuchtigkeit erhalten. Die Ernte erfolgt aufgrund des steilen und unregelmäßigen Geländes, das den Einsatz von Maschinen unmöglich macht, zwischen Februar und Mai vollständig von Hand. Der resultierende Fogo-Kaffee zeichnet sich durch einen vollen Körper, geringe Säure und unverwechselbare aromatische Noten aus. Die Produktionsmengen bleiben mit typischerweise unter 100 Tonnen pro Jahr relativ klein, was den Kaffee zu einem Nischenprodukt macht.",
+        "hu": "A Mosteiros kávéültetvények a Fogo vulkán északkeleti lejtőin találhatók a Zöld-foki Köztársaságban. A kávétermesztést a 18. században vezették be ebben a régióban, amely a rendkívül termékeny vulkáni talajnak és az egyedülálló mikroklímának köszönhetően virágzik. A tengerszint felett 500 és 1000 méter közötti magasság, valamint az északkeleti passzátszelek által hozott nedvesség optimális feltételeket teremt a kiváló minőségű Arabica kávé termesztéséhez. A kávécserjéket hagyományosan más gyümölcsfákkal, például banánnal és papayával együtt termesztik, amelyek létfontosságú árnyékot biztosítanak és segítenek megőrizni a talaj nedvességét. A betakarítási folyamat február és május között teljes egészében kézzel történik a meredek és egyenetlen terep miatt, amely kizárja a gépek használatát. Az így kapott Fogo kávét telt ízvilág, alacsony savtartalom és jellegzetes aromajegyek jellemzik. A termelési volumen viszonylag alacsony marad, jellemzően évi 100 tonna alatt van, így a nemzetközi piacon egyedülálló résterméknek számít.",
+        "ro": "Plantațiile de cafea din Mosteiros sunt situate pe pantele de nord-est ale vulcanului Fogo din Republica Capului Verde. Introdusă în secolul al XVIII-lea, cultivarea cafelei în această regiune beneficiază de solul vulcanic extrem de fertil și de un microclimat unic. Altitudinea zonei, cuprinsă între 500 și 1.000 de metri deasupra nivelului mării, combinată cu umiditatea adusă de alizeele de nord-est, creează condiții optime pentru cultivarea cafelei Arabica de înaltă calitate. Plantele de cafea sunt cultivate tradițional împreună cu alți pomi fructiferi, cum ar fi bananierii și papaya, care oferă umbră esențială și ajută la menținerea umidității solului. Procesul de recoltare se desfășoară în întregime manual între lunile februarie și mai, din cauza terenului abrupt și neregulat care împiedică utilizarea utilajelor. Cafeaua Fogo rezultată se caracterizează printr-un corp plin, aciditate scăzută și note aromatice distinctive. Volumele de producție rămân relativ mici, de obicei sub 100 de tone anual, ceea ce o face un produs de nișă pe piața internațională.",
+        "en": "The coffee plantations of Mosteiros are situated on the northeastern slopes of the Fogo volcano in the Republic of Cape Verde. Introduced in the 18th century, coffee cultivation in this region benefits from the highly fertile volcanic soil and a unique microclimate. The area's elevation, ranging between 500 and 1,000 meters above sea level, combined with moisture brought by the northeast trade winds, creates optimal conditions for growing high-quality Arabica coffee. The coffee plants are traditionally intercropped with other fruit trees, such as bananas and papayas, which provide essential shade and help maintain soil moisture. The harvesting process occurs entirely by hand between February and May, due to the steep and irregular terrain that precludes the use of machinery. The resulting Fogo coffee is characterized by a full body, low acidity, and distinctive aromatic notes. Production volumes remain relatively small, typically under 100 tons annually, making it a niche product on the international market. Local cooperatives process the cherries using both wet and dry methods before roasting."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Kaffeeanbau auf Fogo wurde im 18. Jahrhundert begonnen.",
+          "Plantagen liegen auf Höhen zwischen 500 und 1.000 Metern.",
+          "Die angebaute Kaffeesorte ist hauptsächlich hochwertiger Arabica.",
+          "Kaffeepflanzen werden mit Bananen- und Papayabäumen als Schattenspender kombiniert.",
+          "Die jährliche Kaffeeproduktion liegt normalerweise unter 100 Tonnen.",
+          "Die Kaffeeernte erfolgt aufgrund des steilen Terrains vollständig manuell."
+        ],
+        "hu": [
+          "A kávétermesztés Fogón a 18. században vette kezdetét.",
+          "Az ültetvények 500 és 1000 méter közötti magasságban helyezkednek el.",
+          "A termesztett kávéfajta elsősorban a kiváló minőségű Arabica.",
+          "A kávécserjéket banán- és papayafákkal ültetik vegyesen az árnyékolás miatt.",
+          "Az éves kávétermelés mennyisége általában nem éri el a 100 tonnát.",
+          "A kávé betakarítása a meredek terep miatt teljes egészében kézzel történik."
+        ],
+        "ro": [
+          "Cultivarea cafelei pe Fogo a început în secolul al XVIII-lea.",
+          "Plantațiile sunt situate la altitudini cuprinse între 500 și 1.000 de metri.",
+          "Soiul de cafea cultivat este în principal Arabica de înaltă calitate.",
+          "Plantele de cafea sunt combinate cu bananieri și papaya pentru umbră.",
+          "Producția anuală de cafea este în mod normal sub 100 de tone.",
+          "Recoltarea cafelei se face complet manual din cauza terenului abrupt."
+        ],
+        "en": [
+          "Coffee cultivation on Fogo was initiated in the 18th century.",
+          "Plantations are located at elevations between 500 and 1,000 meters.",
+          "The cultivated coffee variety is primarily high-quality Arabica.",
+          "Coffee plants are intercropped with banana and papaya trees for shade.",
+          "Annual coffee production is normally restricted to under 100 tons.",
+          "Coffee harvesting is done entirely manually due to the steep terrain."
+        ]
+      }
+    },
+    {
+      "id": "santo-antao-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Santo Antão ist die zweitgrößte Insel im Kapverdischen Archipel und umfasst eine Fläche von 779 Quadratkilometern. Sie bildet den westlichsten Punkt des afrikanischen Kontinents. Die Insel ist vollständig vulkanischen Ursprungs und zeichnet sich durch eine extrem raue Topografie aus, die durch eine zentrale Gebirgskette geteilt wird. Der höchste Punkt ist der Topo de Coroa, ein ruhender Vulkan, der 1.979 Meter über dem Meeresspiegel erreicht. Santo Antão weist eine starke klimatische Teilung auf: Der nordöstliche Teil erhält regelmäßige Feuchtigkeit von den Passatwinden, was zu tiefen, grünen Tälern wie der Ribeira de Paúl führt, in denen intensive Terrassenlandwirtschaft betrieben wird. Umgekehrt liegen die südlichen und westlichen Regionen im Regenschatten und präsentieren eine trockene, karge Landschaft. Die tiefen Schluchten der Insel, lokal Ribeiras genannt, entstanden durch intensive Wassererosion über Millionen von Jahren. Geologisch besteht die Insel hauptsächlich aus Basalt- und Phonolithgestein. Aufgrund des schwierigen Geländes verfügt die Insel über keinen funktionierenden Flughafen; der Zugang erfolgt ausschließlich über eine Fährverbindung von der Nachbarinsel São Vicente zum Hafen von Porto Novo.",
+        "hu": "Santo Antão a második legnagyobb sziget a Zöld-foki szigetvilágban, amely 779 négyzetkilométeres területet ölel fel, és az afrikai kontinens legnyugatibb pontját jelenti. A sziget teljes egészében vulkanikus eredetű, és rendkívül zord, hegyvidéki topográfia jellemzi, amelyet egy központi hegylánc oszt ketté. Legmagasabb pontja a Topo de Coroa, egy szunnyadó vulkán, amely 1979 méterrel magasodik a tengerszint fölé. Santo Antão éles éghajlati megosztottságot mutat: az északkeleti rész rendszeres nedvességet kap a passzátszelekből, ami mély, zöldellő völgyeket (például a Ribeira de Paúl) eredményez, ahol intenzív teraszos mezőgazdaság folyik. Ezzel szemben a déli és nyugati régiók esőárnyékban fekszenek, így száraz, kietlen tájat alkotnak. A sziget mély szurdokait, amelyeket helyi nevén ribeirának hívnak, az intenzív vízerózió alakította ki évmilliók során. Geológiailag a sziget főként bazaltos és fonolitos kőzetekből áll. A domborzat miatt a szigetnek nincs működő repülőtere; megközelítése kizárólag a szomszédos São Vicente szigetéről induló komppal lehetséges a porto novói kikötőbe.",
+        "ro": "Santo Antão este a doua insulă ca mărime din arhipelagul Capului Verde, acoperind o suprafață de 779 de kilometri pătrați și formând cel mai vestic punct al continentului african. Insula este în întregime de origine vulcanică și se caracterizează printr-o topografie extrem de accidentată, împărțită de un lanț muntos central. Cel mai înalt punct este Topo de Coroa, un vulcan adormit care atinge 1.979 de metri deasupra nivelului mării. Santo Antão prezintă o diviziune climatică puternică: partea de nord-est primește umiditate regulată de la alizee, rezultând în văi adânci și verzi, cum ar fi Ribeira de Paúl, care susțin agricultura intensivă pe terase. În schimb, regiunile sudice și vestice se află într-o umbră pluviometrică, prezentând un peisaj arid. Râpele adânci ale insulei, cunoscute local sub numele de ribeiras, au fost formate prin eroziunea intensă a apei de-a lungul a milioane de ani. Geologic, insula este compusă din roci bazaltice și fonolitice. Din cauza terenului dificil, insula nu are un aeroport funcțional, accesul bazându-se exclusiv pe o legătură cu feribotul de pe insula São Vicente către portul Porto Novo.",
+        "en": "Santo Antão is the second-largest island in the Cape Verde archipelago, covering an area of 779 square kilometers, and the westernmost point of the African continent. The island is entirely of volcanic origin and is characterized by an extremely rugged topography, divided by a central mountain range. The highest point is the Topo de Coroa, a dormant volcano reaching 1,979 meters above sea level. Santo Antão features a stark climatic division: the northeastern part receives regular moisture from the trade winds, resulting in deep, green valleys like the Ribeira de Paúl, which support intensive terraced agriculture. Conversely, the southern and western regions lie in a rain shadow, presenting an arid, barren landscape. The island's deep ravines, known locally as ribeiras, were formed by intense water erosion over millions of years. Geologically, the island consists mainly of basaltic and phonolitic rocks. Due to its challenging terrain, the island lacks a functioning airport, with all access reliant on a ferry connection from the neighboring island of São Vicente to the port of Porto Novo."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 779 Quadratkilometern die zweitgrößte Insel in Kap Verde.",
+          "Stellt den westlichsten Punkt des afrikanischen Kontinents dar.",
+          "Höchster Punkt ist der Vulkan Topo de Coroa mit 1.979 Metern.",
+          "Das Klima ist zweigeteilt: ein feuchter Nordosten und ein trockener Süden.",
+          "Tiefe Schluchten (Ribeiras) durchziehen die vulkanische Landschaft.",
+          "Aufgrund der Topografie existiert kein Flughafen; Zugang nur per Fähre."
+        ],
+        "hu": [
+          "A Zöld-foki-szigetek második legnagyobb szigete 779 négyzetkilométerrel.",
+          "Ez jelenti az afrikai kontinens legnyugatibb pontját.",
+          "Legmagasabb pontja a Topo de Coroa vulkán, 1979 méterrel.",
+          "Az éghajlat kettéosztott: nedves északkelet és száraz dél/nyugat.",
+          "A vulkanikus tájat mély szurdokok, úgynevezett ribeirák szabdalják.",
+          "A domborzat miatt nincs repülőtér; a megközelítés csak komppal lehetséges."
+        ],
+        "ro": [
+          "A doua insulă ca mărime din Capul Verde, cu 779 de kilometri pătrați.",
+          "Reprezintă cel mai vestic punct al continentului african.",
+          "Cel mai înalt punct este vulcanul Topo de Coroa la 1.979 de metri.",
+          "Clima este împărțită: un nord-est umed și un sud arid.",
+          "Râpe adânci (ribeiras) străbat peisajul vulcanic accidentat.",
+          "Din cauza topografiei nu există aeroport; acces doar cu feribotul."
+        ],
+        "en": [
+          "Second-largest island in Cape Verde, measuring 779 square kilometers.",
+          "Represents the westernmost point of the entire African continent.",
+          "Highest elevation is the Topo de Coroa volcano at 1,979 meters.",
+          "Climate is sharply divided: a humid northeast and a dry south/west.",
+          "Deep ravines known as ribeiras cut through the volcanic landscape.",
+          "No functioning airport exists due to terrain; access is strictly by ferry."
+        ]
+      }
+    },
+    {
+      "id": "bordeira-do-fogo-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Bordeira do Fogo ist eine massive, halbkreisförmige geologische Steilstufe auf der Insel Fogo, Kap Verde. Diese vertikale Felswand bildet die westlichen, nördlichen und östlichen Grenzen der Chã das Caldeiras, einer riesigen vulkanischen Caldera auf einer Höhe von etwa 1.700 Metern. Die Bordeira erreicht Höhen von bis zu 1.000 Metern über dem Boden der Caldera und stellt die Überreste eines alten, viel größeren Stratovulkans namens Monte Armarelo dar. Vor etwa 73.000 bis 124.000 Jahren stürzte die östliche Flanke dieses Vulkans in einem gewaltigen Erdrutsch in den Atlantischen Ozean, ließ die steilen Bordeira-Klippen zurück und löste einen Mega-Tsunami aus. Die Felswand zeigt deutlich abwechselnde Schichten von basaltischen Lavaströmen, pyroklastischen Ablagerungen und intrusiven vulkanischen Gängen, was ein sichtbares Archiv der geologischen Geschichte der Insel darstellt. Die Steilstufe fungiert physisch als Barriere, die Feuchtigkeit von den Nordostpassaten einfängt und ein lokales Mikroklima innerhalb der Caldera schafft. Zudem lenkt sie die jüngsten Lavaströme des aktiven Pico do Fogo in die östliche Öffnung.",
+        "hu": "A Bordeira do Fogo egy hatalmas, félkör alakú geológiai meredély a Zöld-foki Köztársaság Fogo szigetén. Ez a függőleges sziklafal alkotja a Chã das Caldeiras (egy körülbelül 1700 méteres magasságban fekvő hatalmas vulkáni kaldera) nyugati, északi és keleti határát. A Bordeira akár 1000 méteres magasságot is elér a kaldera aljától mérve, és egy ősi, sokkal nagyobb, Monte Armarelo nevű rétegvulkán maradványát képezi. Körülbelül 73 000 - 124 000 évvel ezelőtt ennek az ősi vulkánnak a keleti szárnya egy hatalmas földcsuszamlás következtében az Atlanti-óceánba omlott, hátrahagyva a meredek Bordeira-sziklákat, és egy megacunamit idézve elő. A sziklafal jól láthatóan mutatja a bazaltos lávafolyások, piroklasztikus lerakódások és intruzív vulkáni telérek váltakozó rétegeit, láthatóvá téve a sziget geológiai történetét. A meredély fizikai gátként működik, amely felfogja az északkeleti passzátszelek nedvességét, és egy helyi mikroklímát hoz létre a kalderán belül. Továbbá az aktív Pico do Fogo közelmúltbeli lávafolyásait is a kaldera keleti nyílása felé tereli.",
+        "ro": "Bordeira do Fogo este un abrupt geologic masiv, semicircular, situat pe insula Fogo, Capul Verde. Acest perete vertical de stâncă formează granițele vestice, nordice și estice ale Chã das Caldeiras, o vastă calderă vulcanică aflată la o altitudine de aproximativ 1.700 de metri. Bordeira atinge înălțimi de până la 1.000 de metri deasupra podelei calderei, reprezentând rămășițele unui stratovulcan antic mult mai mare, cunoscut sub numele de Monte Armarelo. Cu aproximativ 73.000 până la 124.000 de ani în urmă, flancul estic al acestui vulcan s-a prăbușit în Oceanul Atlantic într-o alunecare de teren masivă, lăsând în urmă stâncile abrupte ale Bordeira și declanșând un mega-tsunami. Peretele de stâncă prezintă straturi alternante de fluxuri de lavă bazaltică, depozite piroclastice și dicuri vulcanice intruzive, oferind o istorie vizibilă a formării geologice a insulei. Abruptul acționează ca o barieră fizică, captând umezeala din alizeele de nord-est și creând un microclimat localizat în interiorul calderei. De asemenea, direcționează fluxurile recente de lavă de la activul Pico do Fogo spre deschiderea estică.",
+        "en": "Bordeira do Fogo is a massive, semi-circular geological escarpment located on the island of Fogo, Cape Verde. This vertical rock wall forms the western, northern, and eastern boundaries of the Chã das Caldeiras, a vast volcanic caldera at an altitude of approximately 1,700 meters. The Bordeira reaches heights of up to 1,000 meters above the caldera floor, representing the remnants of an ancient, much larger stratovolcano known as Monte Armarelo. Approximately 73,000 to 124,000 years ago, the eastern flank of this ancestral volcano collapsed into the Atlantic Ocean in a massive landslide, leaving behind the steep Bordeira cliffs and triggering a mega-tsunami. The rock face clearly displays alternating layers of basaltic lava flows, pyroclastic deposits, and intrusive volcanic dikes, providing a visible record of the island's geological history. The escarpment physically acts as a barrier, trapping moisture from the northeast trade winds and creating a localized microclimate within the caldera. It also channels recent lava flows from the active Pico do Fogo exclusively towards the eastern opening of the caldera."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Steilstufe grenzt die vulkanische Caldera Chã das Caldeiras ein.",
+          "Bordeira do Fogo erhebt sich bis zu 1.000 Meter über den Calderaboden.",
+          "Sie ist der Überrest des alten Stratovulkans Monte Armarelo.",
+          "Entstand durch einen massiven Erdrutsch vor 73.000 bis 124.000 Jahren.",
+          "Der Kollaps des alten Vulkans verursachte einen prähistorischen Mega-Tsunami.",
+          "Die Wand zeigt deutlich Schichten von alten Lavaströmen und Ascheablagerungen."
+        ],
+        "hu": [
+          "A sziklafal a Chã das Caldeiras vulkáni kalderát határolja.",
+          "A Bordeira do Fogo akár 1000 méterrel is a kaldera alja fölé magasodik.",
+          "Az ősi Monte Armarelo nevű rétegvulkán fennmaradt része.",
+          "Egy 73 000 - 124 000 évvel ezelőtti masszív földcsuszamlás hozta létre.",
+          "Az ősi vulkán összeomlása egy történelem előtti megacunamit okozott.",
+          "A falon jól láthatók a régi lávafolyások és hamulerakódások rétegei."
+        ],
+        "ro": [
+          "Abruptul mărginește caldera vulcanică cunoscută sub numele de Chã das Caldeiras.",
+          "Bordeira do Fogo se ridică până la 1.000 de metri deasupra bazei calderei.",
+          "Este o rămășiță a vechiului stratovulcan Monte Armarelo.",
+          "S-a format dintr-o alunecare de teren masivă cu 73.000 - 124.000 de ani în urmă.",
+          "Prăbușirea vulcanului antic a provocat un mega-tsunami preistoric.",
+          "Peretele arată clar straturi de vechi fluxuri de lavă și depozite de cenușă."
+        ],
+        "en": [
+          "The escarpment borders the volcanic caldera known as Chã das Caldeiras.",
+          "Bordeira do Fogo rises up to 1,000 meters above the caldera floor.",
+          "It is a remnant of the ancient stratovolcano named Monte Armarelo.",
+          "Formed from a massive landslide between 73,000 and 124,000 years ago.",
+          "The collapse of the ancient volcano caused a prehistoric mega-tsunami.",
+          "The rock wall clearly displays layers of old lava flows and ash deposits."
+        ]
+      }
+    },
+    {
+      "id": "bimbo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bimbo ist die zweitbevölkerungsreichste Stadt der Zentralafrikanischen Republik und dient als Hauptstadt der Präfektur Ombella-M'Poko. Sie liegt unmittelbar südwestlich der Landeshauptstadt Bangui und fungiert faktisch als wichtige städtische Erweiterung des Metropolraums Bangui. Die Stadt liegt an den Ufern des Flusses Ubangi, der die natürliche Grenze zur Demokratischen Republik Kongo bildet. Die Bevölkerung von Bimbo ist in den letzten Jahrzehnten aufgrund von Landflucht und Vertreibungen aus von Konflikten betroffenen Regionen stark angewachsen; Schätzungen gehen von weit über 250.000 Einwohnern aus. Die lokale Wirtschaft basiert weitgehend auf informellem Handel, dem Flussgeschäft und der Subsistenzlandwirtschaft. In der Stadt befindet sich das Zentralgefängnis von Bimbo, die größte Justizvollzugsanstalt des Landes, sowie mehrere wichtige Verwaltungsgebäude der Präfektur. Die Verkehrsinfrastruktur ist begrenzt und stützt sich stark auf die Hauptstraße, die sie mit Bangui verbindet, sowie auf das Flussnetz für den Warentransport. Saisonale Überschwemmungen des Ubangi-Flusses stellen regelmäßig eine infrastrukturelle Herausforderung dar.",
+        "hu": "Bimbo a Közép-afrikai Köztársaság második legnépesebb városa, amely az Ombella-M'Poko prefektúra központjaként szolgál. Közvetlenül a fővárostól, Banguitól délnyugatra helyezkedik el, és gyakorlatilag a bangui agglomeráció egyik jelentős városi kiterjesztéseként működik. A város az Ubangi folyó partján fekszik, amely a Kongói Demokratikus Köztársaság természetes határát képezi. Bimbo lakossága az elmúlt évtizedekben gyorsan növekedett a vidékről a városba irányuló migráció és a konfliktusok sújtotta régiókból érkező menekültek miatt; a becslések szerint jóval meghaladja a 250 000 főt. A helyi gazdaság nagyrészt az informális kereskedelemre, a folyami kereskedelemre és az önellátó mezőgazdaságra épül. A városban található a Bimbo Központi Börtön, az ország legnagyobb büntetés-végrehajtási intézete, valamint a prefektúra számos fontos közigazgatási épülete. A közlekedési infrastruktúra korlátozott, és erősen támaszkodik a Banguival összekötő főútra, valamint a folyóhálózatra az áruszállítás tekintetében. Az Ubangi folyó szezonális áradásai gyakori kihívást jelentenek.",
+        "ro": "Bimbo este al doilea cel mai populat oraș din Republica Centrafricană, servind drept capitală a prefecturii Ombella-M'Poko. Situat imediat la sud-vest de capitala națională, Bangui, funcționează ca o extensie urbană majoră a zonei metropolitane Bangui. Orașul este situat pe malul râului Ubangi, care formează granița naturală cu Republica Democrată Congo. Populația orașului Bimbo a crescut rapid în ultimele decenii, determinată de migrația rural-urbană și de strămutările din regiunile afectate de conflicte, estimările sugerând peste 250.000 de locuitori. Economia locală se bazează în mare măsură pe comerțul informal, comerțul fluvial și agricultura de subzistență. Orașul găzduiește Închisoarea Centrală Bimbo, cea mai mare unitate de corecție din țară, și mai multe clădiri administrative cheie pentru prefectură. Infrastructura de transport este limitată, bazându-se puternic pe drumul principal care îl leagă de Bangui și pe rețeaua fluvială pentru transportul mărfurilor. Inundațiile sezoniere ale râului Ubangi prezintă provocări logistice frecvente.",
+        "en": "Bimbo is the second most populous city in the Central African Republic, serving as the capital of the Ombella-M'Poko prefecture. Located immediately southwest of the national capital, Bangui, it effectively functions as a major urban extension of the Bangui metropolitan area. The city is situated on the banks of the Ubangi River, which forms the natural border with the Democratic Republic of the Congo. Bimbo's population has expanded rapidly over the past few decades, driven by rural-to-urban migration and displacement from conflict-affected regions, with estimates suggesting well over 250,000 residents. The local economy is largely based on informal trade, riverine commerce, and subsistence agriculture. The city is home to the Bimbo Central Prison, the largest correctional facility in the country, and several key administrative buildings for the prefecture. Transportation infrastructure is limited, relying heavily on the main road connecting it to Bangui and the river network for the transport of goods. The city frequently experiences logistical challenges related to infrastructure maintenance and seasonal flooding from the Ubangi River."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die zweitgrößte Stadt der Zentralafrikanischen Republik nach Bevölkerung.",
+          "Verwaltungshauptstadt der Präfektur Ombella-M'Poko.",
+          "Liegt direkt südwestlich der Landeshauptstadt Bangui.",
+          "Befindet sich an den Ufern des Flusses Ubangi.",
+          "Beherbergt das größte Gefängnis des Landes, das Zentralgefängnis Bimbo.",
+          "Die geschätzte Bevölkerung liegt aufgrund von Migration bei über 250.000."
+        ],
+        "hu": [
+          "A Közép-afrikai Köztársaság második legnépesebb városa.",
+          "Az Ombella-M'Poko prefektúra közigazgatási központja.",
+          "Közvetlenül a fővárostól, Banguitól délnyugatra helyezkedik el.",
+          "Az Ubangi folyó partján fekszik.",
+          "Itt található az ország legnagyobb börtöne, a Bimbo Központi Börtön.",
+          "A becsült lakosság a belső migráció miatt meghaladja a 250 000 főt."
+        ],
+        "ro": [
+          "Al doilea oraș ca mărime ca populație din Republica Centrafricană.",
+          "Capitala administrativă a prefecturii Ombella-M'Poko.",
+          "Situat imediat la sud-vest de capitala Bangui.",
+          "Situat pe malurile râului Ubangi, la granița cu RD Congo.",
+          "Găzduiește cea mai mare închisoare din țară, Închisoarea Centrală Bimbo.",
+          "Populația estimată este de peste 250.000 de locuitori din cauza migrației."
+        ],
+        "en": [
+          "The second most populous city in the Central African Republic.",
+          "Administrative capital of the Ombella-M'Poko prefecture.",
+          "Located immediately to the southwest of the capital city, Bangui.",
+          "Situated along the banks of the major Ubangi River.",
+          "Home to the Bimbo Central Prison, the country's largest penitentiary.",
+          "Estimated population exceeds 250,000 driven by internal migration."
+        ]
+      }
+    },
+    {
+      "id": "haupthafen-bangui-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Haupthafen von Bangui, am nördlichen Ufer des Flusses Ubangi gelegen, ist das zentrale logistische und maritime Drehkreuz der von Binnenland umschlossenen Zentralafrikanischen Republik. Als entscheidender Binnenflusshafen dient er als primärer Kanal für den internationalen Handel der Nation. Der Hafen erleichtert den Transport von Schwerlasten und Massengütern zwischen Bangui und Brazzaville in der Republik Kongo, wo die Güter auf die Kongo-Ozean-Eisenbahn umgeladen werden, die den Atlantik-Tiefwasserhafen Pointe-Noire erreicht. Die Infrastruktur des Hafens umfasst Frachtkräne, umfangreiche Lagerhallen und Zolleinrichtungen. Zu den wichtigsten Exportgütern, die den Hafen passieren, gehören Holz, Baumwolle, Kaffee und Bodenschätze, während die Importe größtenteils aus Industriegütern, Treibstoff und Baumaterialien bestehen. Der Betrieb ist stark von den saisonalen Schwankungen des Ubangi-Flusses abhängig; die Schiffbarkeit ist in der Regenzeit optimal, wird jedoch in der Trockenzeit (normalerweise von Dezember bis Mai) aufgrund niedriger Wasserstände stark eingeschränkt oder ganz eingestellt. Dies stellt eine erhebliche wirtschaftliche Einschränkung dar.",
+        "hu": "A Bangui Fő Kötő, amely az Ubangi folyó északi partján található, a tengerparttal nem rendelkező Közép-afrikai Köztársaság központi logisztikai és tengeri csomópontja. Kritikus belvízi folyami kikötőként az ország nemzetközi kereskedelmének elsődleges csatornájaként szolgál. A kikötő megkönnyíti a nehéz rakományok és ömlesztett áruk szállítását Bangui és a Kongói Köztársaságban található Brazzaville között, ahol az árukat a Kongó-Óceán vasútvonalra rakodják át, amely eléri Pointe-Noire atlanti mélyvízi kikötőjét. A kikötő infrastruktúrája teheremelő darukat, kiterjedt raktározási lehetőségeket és vámkezelési létesítményeket foglal magában. A kikötőn áthaladó legfontosabb exportcikkek közé tartozik a fa, a pamut, a kávé és az ásványi kincsek, míg az import főként iparcikkekből, üzemanyagból és építőanyagokból áll. A működés nagymértékben függ az Ubangi folyó szezonális vízszintingadozásaitól; a hajózhatóság az esős évszakban optimális, de a száraz évszakban (jellemzően decembertől májusig) az alacsony vízállás miatt jelentősen korlátozódik vagy teljesen leáll. Ez a szezonalitás komoly gazdasági kihívást jelent.",
+        "ro": "Portul principal din Bangui, situat pe malul nordic al râului Ubangi, este centrul logistic și maritim central al Republicii Centrafricane, o țară fără ieșire la mare. Funcționând ca un port fluvial interior critic, acesta servește drept conductă principală pentru comerțul internațional al națiunii. Portul facilitează transportul mărfurilor grele și în vrac între Bangui și Brazzaville din Republica Congo, unde mărfurile sunt transferate pe calea ferată Congo-Ocean, care ajunge la portul atlantic de adâncime Pointe-Noire. Infrastructura portului include macarale pentru manipularea mărfurilor, depozite extinse și facilități vamale. Principalele exporturi care trec prin port includ lemn, bumbac, cafea și resurse minerale, în timp ce importurile constau în mare parte din bunuri manufacturate, combustibil și materiale de construcție. Operațiunile depind în mare măsură de variațiile sezoniere ale râului Ubangi; navigabilitatea este optimă în timpul sezonului umed, dar devine sever restricționată sau complet oprită în timpul sezonului uscat (de obicei din decembrie până în mai) din cauza nivelurilor scăzute ale apei. Această dependență sezonieră prezintă o constrângere economică semnificativă.",
+        "en": "The Main Port of Bangui, located on the northern banks of the Ubangi River, is the central logistics and maritime hub of the landlocked Central African Republic. Functioning as a critical inland river port, it serves as the primary conduit for the nation's international trade. The port facilitates the transport of heavy cargo and bulk goods between Bangui and Brazzaville in the Republic of the Congo, where goods are transferred to the Congo-Ocean Railway reaching the Atlantic deep-water port of Pointe-Noire. The port's infrastructure includes cargo handling cranes, extensive warehouse storage, and customs facilities. Principal exports passing through the port include timber, cotton, coffee, and mineral resources, while imports largely consist of manufactured goods, fuel, and construction materials. Operations are heavily dependent on the seasonal variations of the Ubangi River; navigability is optimal during the wet season but becomes severely restricted or entirely halted during the dry season (typically from December to May) due to low water levels. This seasonal dependency presents a significant economic constraint for the country's import-export cycle."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der wichtigste Binnenhafen der Zentralafrikanischen Republik.",
+          "Liegt am nördlichen Ufer des Flusses Ubangi.",
+          "Verbindet Bangui für den internationalen Handel mit Brazzaville.",
+          "Die Infrastruktur umfasst Kräne, Zolllager und Frachtterminals.",
+          "Primärer Exportkanal für Tropenholz, Baumwolle und Kaffee.",
+          "Der Betrieb ist während der Trockenzeit (Dez-Mai) aufgrund von Niedrigwasser eingeschränkt."
+        ],
+        "hu": [
+          "A Közép-afrikai Köztársaság legfontosabb folyami kikötője.",
+          "Az Ubangi folyó északi partján helyezkedik el.",
+          "Összeköti Banguit Brazzaville városával a nemzetközi kereskedelem céljából.",
+          "Az infrastruktúra darukat, vámraktárakat és áruterminálokat foglal magában.",
+          "A trópusi fa, pamut és kávé elsődleges exportcsatornája.",
+          "A működés a száraz évszakban (december-május) az alacsony vízállás miatt szünetel."
+        ],
+        "ro": [
+          "Cel mai important port fluvial din Republica Centrafricană.",
+          "Situat pe malul nordic al râului Ubangi.",
+          "Conectează Bangui cu Brazzaville pentru comerțul internațional.",
+          "Infrastructura include macarale, depozite vamale și terminale de marfă.",
+          "Canal primar de export pentru lemn, bumbac și cafea.",
+          "Operațiunile sunt restricționate în timpul sezonului uscat (dec-mai) din cauza apelor scăzute."
+        ],
+        "en": [
+          "The most vital inland river port in the Central African Republic.",
+          "Situated on the northern banks of the Ubangi River.",
+          "Connects Bangui to Brazzaville for international river trade.",
+          "Infrastructure includes handling cranes, customs warehouses, and cargo terminals.",
+          "Serves as the primary export channel for timber, cotton, and coffee.",
+          "Operations are severely restricted during the dry season (Dec-May) due to low water."
+        ]
+      }
+    },
+    {
+      "id": "sultanat-senoussi-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Sultanat Senoussi, auch bekannt als Sultanat Dar al-Kuti, war ein historischer islamischer Staat in der nördlichen Region der heutigen Zentralafrikanischen Republik. Im späten 19. Jahrhundert gegründet, befand sich die Hauptstadt in Ndélé. Das Sultanat wurde von Rabih az-Zubayr gegründet und später von seinem Leutnant Muhammad al-Senussi von 1890 bis zu dessen Tod im Jahr 1911 regiert. Dar al-Kuti fungierte als ein wichtiges regionales Zentrum für den transsaharischen Sklavenhandel und den Export von Elfenbein. Sultan al-Senussi unterhielt eine schwer bewaffnete Militärmacht, die mit Schusswaffen ausgerüstet war, die er durch den Handel mit nordafrikanischen Händlern erwarb. Das Sultanat operierte zunächst unabhängig, wurde jedoch 1897 von den vorrückenden französischen Kolonialtruppen schrittweise in ein Protektoratsabkommen gezwungen. Trotz des Vertrags behielt al-Senussi eine beträchtliche Autonomie und setzte seine Überfall-Expeditionen gegen benachbarte Bevölkerungsgruppen fort. Die politische Entität brach 1911 zusammen, als französische Kolonialtruppen, die direkte Kontrolle über das Gebiet suchten, den Sultan ermordeten. Die Überreste der befestigten Hauptstadt in Ndélé sind ein wichtiges historisches und archäologisches Gebiet.",
+        "hu": "A Senoussi Szultanátus, más néven a Dar al-Kuti Szultanátus egy történelmi iszlám állam volt a mai Közép-afrikai Köztársaság északi régiójában. A 19. század végén alapított államalakulat fővárosa Ndélében volt. A szultanátust Rabih az-Zubayr alapította, majd később, 1890-től 1911-ben bekövetkezett haláláig a hadnagya, Muhammad al-Senussi irányította. Dar al-Kuti a transzszaharai rabszolga-kereskedelem és az elefántcsont-export egyik fő regionális központjaként működött. Al-Senussi szultán fegyveres katonai erőt tartott fenn, amely észak-afrikai kereskedőkkel folytatott cserekereskedelem révén beszerzett lőfegyverekkel volt felszerelve. A szultanátus kezdetben függetlenül működött, de az előrenyomuló francia gyarmati erők 1897-ben egy protektorátusi megállapodás aláírására kényszerítették. A szerződés ellenére al-Senussi jelentős autonómiát őrzött meg, és folytatta fosztogató hadjáratait a szomszédos népek ellen. A politikai egység 1911-ben omlott össze végleg, amikor a terület feletti közvetlen ellenőrzést kereső francia gyarmati csapatok meggyilkolták a szultánt. A megerősített főváros maradványai Ndélében fontos régészeti területet alkotnak.",
+        "ro": "Sultanatul Senoussi, cunoscut și sub numele de Sultanatul Dar al-Kuti, a fost un stat islamic istoric situat în regiunea de nord a actualei Republici Centrafricane. Înființat la sfârșitul secolului al XIX-lea, capitala sa a fost situată la Ndélé. Sultanatul a fost fondat de Rabih az-Zubayr și ulterior condus de locotenentul său, Muhammad al-Senussi, din 1890 până la moartea sa în 1911. Dar al-Kuti a funcționat ca un centru regional major pentru comerțul transsaharian cu sclavi și exportul de fildeș. Sultanul al-Senussi a menținut o forță militară puternic înarmată, echipată cu arme de foc achiziționate prin comerț cu negustori din Africa de Nord. Sultanatul a funcționat inițial independent, dar a fost forțat treptat într-un acord de protectorat cu forțele coloniale franceze aflate în ofensivă în 1897. În ciuda tratatului, al-Senussi a menținut o autonomie semnificativă și a continuat expedițiile sale de pradă împotriva populațiilor vecine. Entitatea politică s-a prăbușit în cele din urmă în 1911, când trupele coloniale franceze, căutând controlul direct asupra teritoriului, l-au asasinat pe sultan. Rămășițele capitalei fortificate din Ndélé rămân un sit arheologic important.",
+        "en": "The Sultanate of Senoussi, also known as the Dar al-Kuti Sultanate, was a historical Islamic state located in the northern region of present-day Central African Republic. Established in the late 19th century, its capital was situated at Ndélé. The sultanate was founded by Rabih az-Zubayr and later ruled by his lieutenant, Muhammad al-Senussi, from 1890 until his death in 1911. Dar al-Kuti functioned as a major regional center for the trans-Saharan slave trade and the export of ivory. Sultan al-Senussi maintained a heavily armed military force equipped with firearms acquired through trade with North African merchants. The sultanate initially operated independently but was gradually forced into a protectorate agreement with the advancing French colonial forces in 1897. Despite the treaty, al-Senussi maintained significant autonomy and continued his raiding expeditions against neighboring populations. The political entity ultimately collapsed in 1911 when French colonial troops, seeking direct control over the territory, assassinated the Sultan. The remnants of the sultanate's fortified capital in Ndélé remain an important historical and archaeological site."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Historischer islamischer Staat in der nördlichen Zentralafrikanischen Republik.",
+          "Die Hauptstadt des Sultanats befand sich in Ndélé.",
+          "Wurde von 1890 bis 1911 von Sultan Muhammad al-Senussi regiert.",
+          "War ein wichtiges Zentrum für den transsaharischen Sklaven- und Elfenbeinhandel.",
+          "Wurde 1897 durch einen Vertrag ein französisches Protektorat.",
+          "Das Sultanat brach 1911 nach der Ermordung des Sultans durch die Franzosen zusammen."
+        ],
+        "hu": [
+          "Történelmi iszlám államalakulat a mai Közép-afrikai Köztársaság északi részén.",
+          "A szultanátus erődített fővárosa Ndélé városában volt.",
+          "Muhammad al-Senussi szultán irányította 1890 és 1911 között.",
+          "A transzszaharai rabszolga- és elefántcsont-kereskedelem fontos központja volt.",
+          "1897-ben egy egyezmény révén francia protektorátussá vált.",
+          "A szultanátus 1911-ben, a szultán franciák általi meggyilkolása után szűnt meg."
+        ],
+        "ro": [
+          "Stat islamic istoric în nordul Republicii Centrafricane.",
+          "Capitala sultanatului era situată în orașul Ndélé.",
+          "Condus de sultanul Muhammad al-Senussi din 1890 până în 1911.",
+          "A fost un centru major pentru comerțul transsaharian cu sclavi și fildeș.",
+          "A devenit un protectorat francez prin tratat în 1897.",
+          "Sultanatul a colapsat în 1911 după asasinarea sultanului de către forțele franceze."
+        ],
+        "en": [
+          "Historical Islamic state located in the northern Central African Republic.",
+          "The fortified capital of the sultanate was situated at Ndélé.",
+          "Ruled by Sultan Muhammad al-Senussi from the year 1890 to 1911.",
+          "Functioned as a major hub for the trans-Saharan slave and ivory trade.",
+          "Became a French protectorate through a forced treaty in 1897.",
+          "The sultanate collapsed in 1911 following the assassination of the Sultan."
+        ]
+      }
+    },
+    {
+      "id": "gamba-oil-terminal-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gamba Oil Terminal ist eine bedeutende Industrieanlage in der Provinz Ogooué-Maritime im Südwesten Gabuns an der Küste des Atlantischen Ozeans. Das Terminal wurde nach der Entdeckung der Ölfelder Gamba-Ivinga in den 1960er Jahren gegründet, wird von Shell Gabon betrieben und dient als zentraler Knotenpunkt in der Erdölexportinfrastruktur des Landes. Die Anlage sammelt über ein Netzwerk von Hochdruckpipelines Rohöl aus zahlreichen Onshore- und Offshore-Feldern im südlichen Becken. Der Onshore-Komplex umfasst großvolumige Lagertanks, Pumpstationen und Verarbeitungsanlagen, die vor dem Export Wasser und Gas vom Rohöl trennen. Da die Küstengewässer bei Gamba relativ flach sind, erfolgt die eigentliche Beladung von internationalen Öltankern über eine Single Point Mooring (SPM)-Boje, die sich mehrere Kilometer vor der Küste befindet. Das Terminal ist vollständig von der Ndogo-Lagune und den Schutzgebieten von Sette Cama umgeben, was strenge Umweltmanagementprotokolle erfordert, um das Austreten von Kohlenwasserstoffen zu verhindern. Gamba fungiert als isolierte industrielle Enklave, deren Infrastruktur direkt den Erdölbetrieb unterstützt.",
+        "hu": "A Gamba Olajterminál egy jelentős ipari létesítmény a délnyugat-gaboni Ogooué-Maritime tartományban, az Atlanti-óceán partján. A terminált az 1960-as években hozták létre a Gamba-Ivinga olajmezők felfedezését követően, a Shell Gabon vállalat üzemelteti, és az ország kőolaj-export infrastruktúrájának egyik létfontosságú csomópontja. A létesítmény a déli medence számos szárazföldi és tengeri kitermelő mezőjéből gyűjti össze a nyersolajat egy nagynyomású csővezeték-hálózaton keresztül. A szárazföldi komplexum nagy kapacitású tárolótartályokat, szivattyúállomásokat és olyan feldolgozó egységeket foglal magában, amelyek export előtt elválasztják a vizet és a gázt a nyersolajtól. Mivel a Gamba melletti part menti vizek viszonylag sekélyek, a nemzetközi olajszállító tartályhajók tényleges megrakodása egy egypontos kikötőbóján (SPM) keresztül történik, amely több kilométerre a parttól található. A terminált teljesen körülveszi a Ndogo-lagúna és a Sette Cama védett természeti területei, ami szigorú környezetgazdálkodási protokollokat követel meg a szénhidrogén-szennyezés elkerülése érdekében.",
+        "ro": "Terminalul Petrolier Gamba este o facilitate industrială majoră situată în provincia Ogooué-Maritime din sud-vestul Gabonului, pe coasta Oceanului Atlantic. Înființat în urma descoperirii câmpurilor petroliere Gamba-Ivinga în anii 1960, terminalul este operat de Shell Gabon și servește ca un nod vital în infrastructura de export de petrol a țării. Instalația colectează țiței de la numeroase câmpuri de producție onshore și offshore din bazinul sudic printr-o rețea de conducte de înaltă presiune. Complexul onshore include rezervoare de stocare de mare capacitate, stații de pompare și unități de procesare care separă apa și gazul de țiței înainte de export. Deoarece apele de coastă din apropiere de Gamba sunt relativ puțin adânci, încărcarea propriu-zisă a petrolierelor internaționale are loc printr-o baliză de acostare într-un singur punct (SPM) situată la câțiva kilometri în larg. Terminalul este complet înconjurat de Laguna Ndogo și de ariile protejate Sette Cama, necesitând protocoale stricte de gestionare a mediului pentru a preveni deversările de hidrocarburi.",
+        "en": "The Gamba Oil Terminal is a major industrial facility located in the Ogooué-Maritime province in southwestern Gabon, on the coast of the Atlantic Ocean. Established following the discovery of the Gamba-Ivinga oil fields in the 1960s, the terminal is operated by Shell Gabon and serves as a vital node in the country's petroleum export infrastructure. The facility gathers crude oil from numerous onshore and offshore producing fields in the southern basin via a network of high-pressure pipelines. The onshore complex includes large-capacity storage tanks, pumping stations, and processing units that separate water and gas from the crude oil before export. Because the coastal waters near Gamba are relatively shallow, the actual loading of international oil tankers takes place via a Single Point Mooring (SPM) buoy located several kilometers offshore. The terminal is entirely surrounded by the Ndogo Lagoon and the Sette Cama protected areas, requiring strict environmental management protocols to prevent hydrocarbon spills. Gamba functions as an isolated industrial enclave, with most of its infrastructure and workforce directly supporting the petroleum operations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich an der Atlantikküste in der Provinz Ogooué-Maritime, Gabun.",
+          "Wurde in den 1960er Jahren nach der Entdeckung von Ölfeldern errichtet.",
+          "Die Anlage wird historisch von Shell Gabon betrieben.",
+          "Sammelt Rohöl aus Onshore- und Offshore-Feldern im südlichen Becken.",
+          "Tanker werden an einer Boje (SPM) auf offener See beladen, da das Wasser flach ist.",
+          "Der Terminal ist von streng geschützten Naturparks und Lagunen umgeben."
+        ],
+        "hu": [
+          "Az Atlanti-óceán partján fekszik a gaboni Ogooué-Maritime tartományban.",
+          "Az 1960-as években építették az olajmezők felfedezését követően.",
+          "A létesítményt a történelmi Shell Gabon vállalat üzemelteti.",
+          "A déli medence szárazföldi és tengeri mezőiről gyűjti össze a nyersolajat.",
+          "A tartályhajókat egy nyílt vízi bójánál (SPM) rakodják meg a sekély part miatt.",
+          "A terminált szigorúan védett természeti parkok és lagúnák veszik körül."
+        ],
+        "ro": [
+          "Situat pe coasta Atlanticului în provincia Ogooué-Maritime, Gabon.",
+          "Construit în anii 1960 după descoperirea câmpurilor petroliere locale.",
+          "Facilitatea este operată istoric de compania Shell Gabon.",
+          "Colectează țiței din câmpurile onshore și offshore din bazinul sudic.",
+          "Tancurile sunt încărcate la o baliză offshore (SPM) din cauza apelor puțin adânci.",
+          "Terminalul este înconjurat de parcuri naturale și lagune strict protejate."
+        ],
+        "en": [
+          "Located on the Atlantic coast in the Ogooué-Maritime province of Gabon.",
+          "Established in the 1960s following the discovery of local oil fields.",
+          "The facility is historically operated by the Shell Gabon company.",
+          "Gathers crude oil from onshore and offshore fields in the southern basin.",
+          "Tankers are loaded at an offshore buoy (SPM) due to shallow coastal waters.",
+          "The terminal is completely surrounded by strictly protected natural parks and lagoons."
+        ]
+      }
+    },
+    {
+      "id": "lope-archaeology-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die archäologischen Stätten von Lopé befinden sich im Lopé-Nationalpark in Zentral-Gabun entlang des Tals des Ogooué-Flusses. Dieses Gebiet bietet ein außergewöhnliches Zeugnis menschlicher Besiedlung, das sich über 400.000 Jahre erstreckt und es zu einer der bedeutendsten archäologischen Zonen Zentralafrikas macht. Die Stätte zeigt eine kontinuierliche Chronologie menschlicher Anpassung an wechselnde Umwelten, vom Paläolithikum bis zur Eisenzeit. Ausgrabungen haben Zehntausende von Steinwerkzeugen aus der mittleren Steinzeit zutage gefördert. Darüber hinaus enthält die Region umfangreiche Beweise für die Bantu-Expansion. Überreste alter Eisenschmelzöfen, Schlackenhaufen und Keramikfragmente, die über 2.000 Jahre alt sind, veranschaulichen einige der frühesten metallurgischen Praktiken im Kongobecken. Die Landschaft selbst, ein Mosaik aus Savanne und tropischem Regenwald, wurde von diesen alten Populationen durch kontrolliertes Abbrennen und landwirtschaftliche Rodung teilweise geprägt. Zusammen mit der natürlichen Artenvielfalt führte die kulturelle und historische Bedeutung dazu, dass das Gebiet 2007 zum gemischten UNESCO-Welterbe ernannt wurde.",
+        "hu": "A Lopé régészeti lelőhelyek Gabon középső részén, a Lopé Nemzeti Parkon belül, az Ogooué folyó völgyében találhatók. Ez a terület egyedülálló, több mint 400 000 évet felölelő bizonyítékot szolgáltat az emberi megtelepedésről, így Közép-Afrika egyik legjelentősebb régészeti zónájának számít. A helyszín az emberi alkalmazkodás folyamatos kronológiáját mutatja be a változó környezethez, a paleolitikumtól egészen a vaskorig. Az ásatások során a középső kőkorszakból származó kőszerszámok tízezrei kerültek elő. A régió továbbá kiterjedt bizonyítékokat őriz a bantu expanzió idejéből. Az ősi vasolvasztó kemencék maradványai, a salakhalmok és a több mint 2000 éves kerámiatöredékek a Kongó-medence legkorábbi kohászati gyakorlatát mutatják be. Magát a tájat, amely szavanna és trópusi esőerdő mozaikja, részben ezek az ősi népességek alakították ki ellenőrzött égetés és mezőgazdasági irtás révén. A természeti biodiverzitás mellett a kulturális jelentőség is hozzájárult ahhoz, hogy a terület 2007-ben felkerüljön az UNESCO vegyes világörökségi listájára.",
+        "ro": "Siturile arheologice Lopé sunt situate în Parcul Național Lopé din centrul Gabonului, de-a lungul văii râului Ogooué. Această zonă oferă o dovadă extraordinară a ocupației umane care se întinde pe parcursul a 400.000 de ani, fiind una dintre cele mai semnificative zone arheologice din Africa Centrală. Situl demonstrează o cronologie continuă a adaptării umane la schimbările de mediu, de la era paleolitică până la Epoca Fierului. Săpăturile au scos la iveală zeci de mii de unelte de piatră din Epoca Mijlocie a Pietrei. Mai mult, regiunea conține dovezi extinse ale expansiunii Bantu. Rămășițele cuptoarelor antice de topit fierul, grămezile de zgură și fragmentele de ceramică vechi de peste 2.000 de ani ilustrează unele dintre cele mai timpurii practici metalurgice din bazinul Congo. Peisajul în sine, un mozaic de savană și pădure tropicală, a fost parțial modelat de aceste populații antice prin arderi controlate și defrișări agricole. Situl a fost desemnat patrimoniu mondial mixt UNESCO în 2007.",
+        "en": "The Lopé Archaeological Sites are located within the Lopé National Park in central Gabon, situated along the Ogooué River valley. This area provides an extraordinary record of human occupation extending over 400,000 years, making it one of the most significant archaeological zones in Central Africa. The site demonstrates a continuous timeline of human adaptation to shifting environments, from the Paleolithic era through the Iron Age. Excavations have uncovered tens of thousands of stone tools from the Middle Stone Age, indicating early hunter-gatherer presence. Furthermore, the region contains extensive evidence of the Bantu expansion. Remains of ancient iron-smelting furnaces, slag heaps, and pottery fragments dating back over 2,000 years illustrate some of the earliest metallurgical practices in the Congo Basin. The landscape itself, a mosaic of savanna and tropical rainforest, was partially shaped by these ancient populations through controlled burning and agricultural clearing. Along with its natural biodiversity, the cultural and historical importance of the Lopé sites led to the area being designated as a mixed natural and cultural UNESCO World Heritage site in 2007."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Lopé-Nationalpark im Tal des Ogooué-Flusses.",
+          "Zeugt von mehr als 400.000 Jahren kontinuierlicher menschlicher Besiedlung.",
+          "Zehntausende Steinwerkzeuge aus dem Paläolithikum wurden hier ausgegraben.",
+          "Enthält über 2.000 Jahre alte Überreste von Eisenschmelzöfen.",
+          "Die offene Savannenlandschaft wurde historisch durch menschliches Abbrennen geformt.",
+          "Wurde 2007 aufgrund seines Wertes zum gemischten UNESCO-Welterbe erklärt."
+        ],
+        "hu": [
+          "A Lopé Nemzeti Parkban, az Ogooué folyó völgyében helyezkedik el.",
+          "Több mint 400 000 éves folyamatos emberi megtelepedésről tanúskodik.",
+          "Több tízezer paleolitikumi kőszerszámot tártak fel a területen.",
+          "Több mint 2000 éves vasolvasztó kemencék maradványait őrzi.",
+          "A nyílt szavannás tájat történelmileg az emberi égetések alakították ki.",
+          "Kulturális értéke miatt 2007-ben az UNESCO vegyes világörökségi helyszíne lett."
+        ],
+        "ro": [
+          "Situat în Parcul Național Lopé, în valea râului Ogooué.",
+          "Oferă dovezi de peste 400.000 de ani de ocupație umană continuă.",
+          "Zeci de mii de unelte de piatră paleolitice au fost excavate aici.",
+          "Conține rămășițe de cuptoare de topit fierul vechi de peste 2.000 de ani.",
+          "Peisajul de savană deschisă a fost modelat istoric de arderile umane.",
+          "A fost declarat sit al Patrimoniului Mondial mixt UNESCO în 2007."
+        ],
+        "en": [
+          "Located within the Lopé National Park in the Ogooué River valley.",
+          "Provides evidence of over 400,000 years of continuous human occupation.",
+          "Tens of thousands of paleolithic stone tools have been excavated here.",
+          "Contains remains of iron-smelting furnaces dating back over 2,000 years.",
+          "The open savanna landscape was historically shaped by human burning.",
+          "Was declared a mixed natural and cultural UNESCO World Heritage site in 2007."
+        ]
+      }
+    },
+    {
+      "id": "palais-presidentiel-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Präsidentenpalast von Gabun, lokal als Palais du Bord de Mer bekannt, befindet sich in der Hauptstadt Libreville an der Küste des Atlantischen Ozeans. Der Komplex wurde während der Präsidentschaft von Omar Bongo in den 1970er Jahren errichtet und dient als offizielle Residenz des Präsidenten der Republik sowie als Hauptsitz der Exekutive. Das architektonische Design verbindet modernistische Elemente mit massiven strukturellen Proportionen und verwendet importierte Materialien sowie lokales Tropenholz. Das weitläufige Gelände umfasst umfangreiche Verwaltungsbüros, staatliche Bankettsäle für diplomatische Empfänge und stark befestigte Sicherheitseinrichtungen. Die Gesamtbaukosten wurden auf über 250 Millionen US-Dollar geschätzt, was es zum Zeitpunkt seiner Fertigstellung zu einem der teuersten Verwaltungsgebäude in Afrika machte. Das Palastgelände ist für die Öffentlichkeit strengstens gesperrt und wird von der Elite-Republikanischen Garde bewacht. Die strategische Lage des Gebäudes am Wasser symbolisiert physisch die politische Macht in der Hauptstadt, während seine opulente Konstruktion den bedeutenden Ölreichtum widerspiegelt.",
+        "hu": "Gabon elnöki palotája, helyi nevén a Palais du Bord de Mer, a fővárosban, Libreville-ben, az Atlanti-óceán partján található. A komplexum Omar Bongo elnöksége alatt épült az 1970-es években, és a Köztársasági Elnök hivatalos rezidenciájaként, valamint a végrehajtó hatalom elsődleges székhelyeként szolgál. Az építészeti tervezés modernista elemeket ötvöz hatalmas szerkezeti arányokkal, importált anyagokat és helyi trópusi fát egyaránt felhasználva. A kiterjedt épületegyüttes kiterjedt adminisztratív irodákat, diplomáciai fogadásokra szolgáló állami bankett-termeket és erősen erődített biztonsági berendezéseket foglal magában. A teljes építési költséget több mint 250 millió amerikai dollárra becsülték, ami elkészültekor Afrika egyik legdrágább közigazgatási épületévé tette. A palota területe a nagyközönség számára szigorúan lezárt, és az elit Köztársasági Gárda őrzi. Az épület stratégiai elhelyezkedése a vízparton fizikailag szimbolizálja a politikai hatalmat a fővárosban, míg fényűző felépítése a 20. század végi olajvagyon hatását tükrözi.",
+        "ro": "Palatul Prezidențial din Gabon, cunoscut local sub numele de Palais du Bord de Mer, este situat în capitala Libreville, pe coasta Oceanului Atlantic. Construit în timpul președinției lui Omar Bongo în anii 1970, complexul servește drept reședință oficială a Președintelui Republicii și sediul principal al ramurii executive. Designul arhitectural încorporează elemente moderniste cu proporții structurale masive, utilizând materiale importate alături de lemn tropical local. Complexul vast include birouri administrative extinse, săli de banchet de stat pentru recepții diplomatice și instalații de securitate puternic fortificate. Costul total de construcție a fost estimat la peste 250 de milioane de dolari americani, devenind una dintre cele mai scumpe clădiri administrative din Africa la momentul finalizării sale. Terenul palatului este strict interzis publicului larg și este păzit de Garda Republicană de elită. Locația strategică a clădirii pe malul apei simbolizează puterea politică, reflectând bogăția semnificativă din petrol care a transformat economia gaboneză.",
+        "en": "The Presidential Palace of Gabon, locally known as the Palais du Bord de Mer, is situated in the capital city of Libreville along the coastline of the Atlantic Ocean. Constructed during the presidency of Omar Bongo in the 1970s, the complex serves as the official residence of the President of the Republic and the primary seat of the executive branch. The architectural design incorporates modernist elements with massive structural proportions, utilizing imported materials alongside local tropical timber. The sprawling compound includes extensive administrative offices, state banquet halls for diplomatic receptions, and heavily fortified security installations. The total construction cost was estimated at over 250 million US dollars, making it one of the most expensive administrative buildings in Africa at the time of its completion. The palace grounds are strictly off-limits to the general public and are guarded by the elite Republican Guard. The building's strategic location on the waterfront physically symbolizes political power in the capital, while its opulent construction reflects the significant oil wealth that transformed the Gabonese economy during the late 20th century."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich an der Atlantikküste in der Hauptstadt Libreville.",
+          "Lokal bekannt unter dem französischen Namen Palais du Bord de Mer.",
+          "Erbaut in den 1970er Jahren während der Präsidentschaft von Omar Bongo.",
+          "Dient als offizieller Hauptsitz der Exekutive der Republik.",
+          "Wird von Einheiten der Elite-Republikanischen Garde bewacht.",
+          "Die Baukosten beliefen sich auf schätzungsweise über 250 Millionen US-Dollar."
+        ],
+        "hu": [
+          "Az Atlanti-óceán partján, a fővárosban, Libreville-ben található.",
+          "Helyi nevén a francia Palais du Bord de Mer kifejezéssel illetik.",
+          "Az 1970-es években épült Omar Bongo elnöksége alatt.",
+          "A Köztársaság végrehajtó hatalmának hivatalos székhelyeként szolgál.",
+          "A területet az elit Köztársasági Gárda egységei őrzik.",
+          "Az építési költségeket több mint 250 millió amerikai dollárra becsülték."
+        ],
+        "ro": [
+          "Situat pe coasta atlantică în orașul capitală Libreville.",
+          "Cunoscut local sub numele francez de Palais du Bord de Mer.",
+          "Construit în anii 1970 în timpul președinției lui Omar Bongo.",
+          "Servește ca sediu oficial al ramurii executive a Republicii.",
+          "Este păzit de unități ale Gărzii Republicane de elită.",
+          "Costurile de construcție au fost estimate la peste 250 de milioane de dolari."
+        ],
+        "en": [
+          "Located directly on the Atlantic coastline in the capital city of Libreville.",
+          "Locally referred to by the French name Palais du Bord de Mer.",
+          "Constructed in the 1970s during the presidency of Omar Bongo.",
+          "Serves as the official headquarters for the executive branch of the Republic.",
+          "Strictly guarded by elite military units of the Republican Guard.",
+          "Construction costs were estimated to be over 250 million US dollars."
+        ]
+      }
+    }
+  ]
+}

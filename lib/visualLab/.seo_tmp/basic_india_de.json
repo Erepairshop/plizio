@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "India",
+  "files": [
+    "lib/visualLab/data/poiExtraIndiaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "in-qutb-minar-history-v2",
+      "description": "Das Qutb Minar in Delhi ist das höchste Ziegelminarett der Welt und ein herausragendes Beispiel für die frühe indo-islamische Architektur.",
+      "facts": [
+        "UNESCO-Weltkulturerbe seit 1993.",
+        "Baubeginn im Jahr 1192 unter Qutb-ud-Din Aibak.",
+        "Etwa 73 Meter hohe Turmkonstruktion.",
+        "Besteht aus rotem Sandstein und hellem Marmor."
+      ]
+    }
+  ]
+}

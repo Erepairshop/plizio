@@ -1,0 +1,20 @@
+{
+  "lang": "de",
+  "country": "Mauritius",
+  "files": [
+    "lib/visualLab/data/poiExtraMauritiusLifeV2.ts",
+    "lib/visualLab/data/poiExtraMauritiusReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pamplemousses-deer-park-life-v2",
+      "description": "Der Pamplemousses Deer Park ist ein Schutzgebiet, das für seine reiche Flora und die dort lebenden Hirsche bekannt ist. Er bietet Besuchern einen Einblick in die ursprüngliche Natur der Insel Mauritius.",
+      "facts": ["Ehemaliges privates Jagdgebiet", "Heimat einheimischer Hirscharten", "Vegetation typisch für Mauritius", "Ruhiges Naturreservat"]
+    },
+    {
+      "id": "mont-limon-relief-v2",
+      "description": "Der Mont Limon ist der höchste Berg auf der Insel Rodrigues, einem Teil des Staates Mauritius. Er bietet einen weiten Panoramablick über die gesamte Insel und ihre umgebenden Korallenriffe.",
+      "facts": ["Höchster Punkt von Rodrigues", "Höhe etwa 398 Meter", "Vulkanischer Ursprung", "Panoramablick über Rodrigues"]
+    }
+  ]
+}

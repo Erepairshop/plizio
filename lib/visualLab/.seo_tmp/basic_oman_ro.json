@@ -1,0 +1,50 @@
+{
+  "lang": "ro",
+  "country": "Oman",
+  "files": [
+    "lib/visualLab/data/poiExtraOmanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraOmanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "al-buraimi-cities-v2",
+      "description": "Al-Buraimi este un oraș de frontieră situat la granița dintre Oman și Emiratele Arabe Unite. Regiunea este cunoscută pentru oazele sale tradiționale și importanța istorică în comerțul regional.",
+      "facts": ["Situat la granița cu EAU", "Oază istorică importantă", "Regiune agricolă locală", "Centru comercial tradițional"]
+    },
+    {
+      "id": "seeb-cities-v2",
+      "description": "Seeb este un oraș de coastă situat în apropierea capitalei Muscat, servind drept hub comercial și rezidențial. Orașul găzduiește aeroportul internațional principal al țării.",
+      "facts": ["Situat lângă Muscat", "Găzduiește aeroportul principal", "Centru de coastă activ", "Zona rezidențială importantă"]
+    },
+    {
+      "id": "suwayq-cities-v2",
+      "description": "Suwayq este un oraș portuar situat pe coasta Batinah din Oman, cu o economie bazată în principal pe agricultură și pescuit. Zona este caracterizată prin soluri fertile și activități comerciale tradiționale.",
+      "facts": ["Oraș pe coasta Batinah", "Economie bazată pe pescuit", "Centru agricol fertil", "Port local activ"]
+    },
+    {
+      "id": "thumrait-cities-v2",
+      "description": "Thumrait este un oraș situat în regiunea Dhofar, servind drept punct de oprire strategic în deșert pe drumul către Salalah. Așezarea are o importanță militară și logistică pentru transportul prin deșert.",
+      "facts": ["Situat în regiunea Dhofar", "Punct strategic în deșert", "Bază logistică importantă", "Aproape de Salalah"]
+    },
+    {
+      "id": "riyam-park-life-v2",
+      "description": "Riyam Park este o zonă de agrement populară situată de-a lungul coastei în Mutrah, oferind vedere la Golful Oman. Parcul dispune de spații verzi și structuri iconice care atrag vizitatorii locali.",
+      "facts": ["Situat în Mutrah", "Vedere la Golful Oman", "Zona de agrement verde", "Structuri iconice locale"]
+    },
+    {
+      "id": "kalbuh-park-life-v2",
+      "description": "Kalbuh Park este un parc de coastă situat lângă portul Mutrah, cunoscut pentru accesul său direct la mare și zonele de plimbare. Este o locație preferată de familii pentru recreere în aer liber.",
+      "facts": ["Situat lângă Mutrah", "Acces direct la mare", "Parc de coastă", "Zona de plimbare populară"]
+    },
+    {
+      "id": "al-numan-zoo-life-v2",
+      "description": "Al Numan Zoo este o facilitate dedicată conservării și expunerii faunei locale și exotice în Oman. Parcul oferă oportunități de educație despre biodiversitatea regiunii.",
+      "facts": ["Facilitate pentru faună", "Educație biodiversitate", "Conservarea speciilor locale", "Atracție pentru familii"]
+    },
+    {
+      "id": "marah-land-life-v2",
+      "description": "Marah Land este un parc de distracții și agrement situat în Muscat, destinat în special familiilor și copiilor. Oferă diverse facilități de recreere și activități de divertisment indoor și outdoor.",
+      "facts": ["Parc de distracții Muscat", "Destinat familiilor", "Activități de divertisment", "Facilități de recreere"]
+    }
+  ]
+}

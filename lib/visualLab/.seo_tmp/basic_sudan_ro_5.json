@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sudan-national-zoo-life-v2",
+      "description": "Gradina zoologică din Khartoum, oferind o perspectivă asupra faunei locale și exotice.",
+      "facts": ["Situată în Khartoum", "Faună locală", "Educație ecologică", "Destinație recreativă"]
+    },
+    {
+      "id": "khartoum-botanic-garden-life-v2",
+      "description": "Grădină botanică urbană, o oază de verdeață în centrul capitalei Sudanului.",
+      "facts": ["Situată în Khartoum", "Plante tropicale", "Spațiu verde", "Punct de relaxare"]
+    },
+    {
+      "id": "nuba-mountains-grazing-life-v2",
+      "description": "Zonă de pășunat tradițională în Munții Nuba, esențială pentru stilul de viață pastoral.",
+      "facts": ["Munții Nuba", "Pășunat tradițional", "Cultură pastorală", "Peisaj rural"]
+    },
+    {
+      "id": "khartoum-amusement-park-life-v2",
+      "description": "Parc de distracții popular pentru familii în zona urbană a Khartoumului.",
+      "facts": ["Destinație familială", "Activități recreative", "Zonă urbană", "Spațiu de divertisment"]
+    },
+    {
+      "id": "wadi-halfa-fishing-life-v2",
+      "description": "Comunitate locală concentrată pe pescuitul tradițional pe malul Lacului Nubia.",
+      "facts": ["Malul Lacului Nubia", "Pescuit tradițional", "Activitate economică locală", "Stil de viață riveran"]
+    },
+    {
+      "id": "er-roseires-dam-agriculture-life-v2",
+      "description": "Zonă agricolă irigată prin barajul Er Roseires, susținând cultivarea diverselor culturi.",
+      "facts": ["Barajul Er Roseires", "Agricultură irigată", "Culturi cerealiere", "Sursă de apă"]
+    },
+    {
+      "id": "dinder-eco-lodge-life-v2",
+      "description": "Facilitate de eco-turism situată lângă Parcul Național Dinder, ideală pentru observarea faunei.",
+      "facts": ["Lângă Parcul Dinder", "Eco-turism", "Observare fauna", "Conexiune cu natura"]
+    },
+    {
+      "id": "suakin-island-park-life-v2",
+      "description": "Parc pe insula Suakin, combinând istoria maritimă cu spații de recreere în aer liber.",
+      "facts": ["Insula Suakin", "Zonă recreativă", "Istorie maritimă", "Peisaj de coastă"]
+    },
+    {
+      "id": "tuti-island-park-life-v2",
+      "description": "Parc pe Insula Tuti, situat la confluența Nilurilor, oferind un spațiu verde pentru localnici.",
+      "facts": ["Confluența Nilurilor", "Insula Tuti", "Spațiu verde", "Recreere urbană"]
+    },
+    {
+      "id": "gedaref-agricultural-life-v2",
+      "description": "Regiune agricolă vastă, centrul producției de sorg și susan din Sudan.",
+      "facts": ["Producție de sorg", "Regiune agricolă", "Hub economic rural", "Cultură cerealieră"]
+    },
+    {
+      "id": "jebel-marra-springs-life-v2",
+      "description": "Izvoare termale și naturale în masivul Jebel Marra, punct de atracție pentru localnici.",
+      "facts": ["Masivul Jebel Marra", "Izvoare naturale", "Turism local", "Peisaj montan"]
+    },
+    {
+      "id": "dongola-market-life-v2",
+      "description": "Piață vibrantă în orașul Dongola, centru comercial pentru comunitatea din nordul Nilului.",
+      "facts": ["Piață locală", "Centru comercial", "Comunitate nordică", "Schimburi comerciale"]
+    }
+  ]
+}

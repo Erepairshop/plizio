@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "maputsoe-cities-v2",
+      "description": "A bustling border town located along the Caledon River facing South Africa. It serves as a significant commercial hub in the northern region of Lesotho.",
+      "facts": ["Located in Leribe District", "Border crossing to Ficksburg", "Major manufacturing center", "Riverfront location"]
+    },
+    {
+      "id": "morija-cities-v2",
+      "description": "Known as the historical center of the Lesotho Evangelical Church, Morija is a culturally significant town. It hosts the annual Morija Arts and Cultural Festival.",
+      "facts": ["Founded in 1833", "Cultural heritage hub", "Hosts annual festival", "Education center"]
+    },
+    {
+      "id": "semonkong-cities-v2",
+      "description": "Famous for being the gateway to the Maletsunyane Falls, one of the highest single-drop waterfalls in Africa. It is a popular destination for adventure tourism.",
+      "facts": ["Near Maletsunyane Falls", "High altitude town", "Adventure tourism hub", "Scenic mountain access"]
+    },
+    {
+      "id": "peka-cities-v2",
+      "description": "A small settlement situated near the Caledon River in the Berea District. It maintains a quiet, rural character typical of Lesotho's countryside.",
+      "facts": ["Located in Berea District", "Agricultural focus", "Near Caledon River", "Quiet rural setting"]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "description": "A remote and peaceful village setting in the Mafeteng District. It reflects the traditional rural lifestyle of the Lesotho plateau.",
+      "facts": ["Located in Mafeteng District", "Traditional village life", "Plateau landscape", "Remote community"]
+    },
+    {
+      "id": "sekake-cities-v2",
+      "description": "A community located in the mountainous Qacha's Nek District. It provides essential services to the surrounding rural population.",
+      "facts": ["Qacha's Nek District", "Mountainous region", "Rural service center", "High terrain access"]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "description": "A settlement notable for its proximity to the Katse Dam construction area. It has grown due to major water infrastructure projects.",
+      "facts": ["Near Katse Dam", "Infrastructure hub", "Mountainous terrain", "Regional growth site"]
+    },
+    {
+      "id": "katse-cities-v2",
+      "description": "Home to the impressive Katse Dam, the largest reservoir in Lesotho. The area serves as a key site for water engineering and power generation.",
+      "facts": ["Hosts Katse Dam", "Water engineering site", "High altitude zone", "Key power facility"]
+    },
+    {
+      "id": "saint-michaels-cities-v2",
+      "description": "A small rural village known for its missionary history and educational presence. It is situated in the central highlands.",
+      "facts": ["Central Highlands", "Missionary history", "Educational focus", "Rural community"]
+    },
+    {
+      "id": "khabos-cities-v2",
+      "description": "A village settlement in the Leribe District, focusing on traditional agriculture and local trade. It is nestled in the foothills.",
+      "facts": ["Leribe District", "Agricultural trade", "Foothill location", "Small community"]
+    },
+    {
+      "id": "maphutseng-cities-v2",
+      "description": "A historically significant site in the Mohale's Hoek District, known for its early missionary activity. It serves as a local agricultural community.",
+      "facts": ["Mohale's Hoek District", "Missionary history", "Agricultural focus", "Local trade hub"]
+    },
+    {
+      "id": "alwynskop-cities-v2",
+      "description": "A rural community settlement in the southern part of Lesotho. It is characterized by its rugged terrain and small-scale farming.",
+      "facts": ["Southern Lesotho", "Rugged terrain", "Small-scale farming", "Rural settlement"]
+    }
+  ]
+}

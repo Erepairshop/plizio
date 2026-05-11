@@ -1,0 +1,62 @@
+{
+  "lang": "en",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraZambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraZambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "luangwa-bridge-landmarks-v2",
+      "description": "A notable bridge spanning the Luangwa River, serving as a critical connection on the Great East Road.",
+      "facts": ["Spans Luangwa River.", "Great East Road.", "Critical transport link."]
+    },
+    {
+      "id": "manda-hill-shopping-mall-landmarks-v2",
+      "description": "One of the most prominent shopping centers in Lusaka, serving as a central hub for commerce and leisure.",
+      "facts": ["Located in Lusaka.", "Major shopping mall.", "Commerce and leisure hub."]
+    },
+    {
+      "id": "kariba-dam-wall-landmarks-v2",
+      "description": "A massive engineering structure between Zambia and Zimbabwe that controls the flow of the Zambezi River.",
+      "facts": ["Zambezi River dam.", "Joint project with Zimbabwe.", "Major hydro-power source."]
+    },
+    {
+      "id": "chilenje-house-394-landmarks-v2",
+      "description": "A historical site in Lusaka where Kenneth Kaunda, the first president, lived during the independence struggle.",
+      "facts": ["Lusaka historical site.", "Kenneth Kaunda's home.", "Independence era landmark."]
+    },
+    {
+      "id": "woodlands-stadium-landmarks-v2",
+      "description": "A sports stadium in Lusaka, frequently used for local football matches and community events.",
+      "facts": ["Lusaka sports facility.", "Football venue.", "Community event space."]
+    },
+    {
+      "id": "cosmopolitan-mall-landmarks-v2",
+      "description": "A modern shopping center in Lusaka that offers a wide variety of retail and dining options.",
+      "facts": ["Lusaka retail center.", "Modern shopping mall.", "Dining and retail hub."]
+    },
+    {
+      "id": "zambezi-river-nature-v2",
+      "description": "The fourth longest river in Africa, providing vital resources and habitats across its course through Zambia.",
+      "facts": ["Fourth longest in Africa.", "Vital water resource.", "Supports diverse wildlife."]
+    },
+    {
+      "id": "kalahari-desert-nature-v2",
+      "description": "A large semi-arid sandy savanna in southern Africa that extends into parts of western Zambia.",
+      "facts": ["Semi-arid savanna.", "Southern African ecosystem.", "Extends into western Zambia."]
+    },
+    {
+      "id": "lake-tanganyika-zambia-nature-v2",
+      "description": "An immense, ancient freshwater lake in Africa, bordering Zambia and known for its extraordinary biodiversity.",
+      "facts": ["Ancient freshwater lake.", "Bordering Zambia.", "High biodiversity."]
+    },
+    {
+      "id": "muchinga-mountains-nature-v2",
+      "description": "A rugged mountain range in north-eastern Zambia known for its scenic views and diverse ecosystems.",
+      "facts": ["North-eastern Zambia.", "Rugged landscape.", "Diverse mountain ecosystems."]
+    }
+  ]
+}

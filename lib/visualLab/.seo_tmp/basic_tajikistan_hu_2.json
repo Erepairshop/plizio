@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "vose-cities-v2",
+      "description": "Mezőgazdasági központ a Kulob régióban, amely fontos szerepet játszik a helyi gazdaságban és a gyapottermesztésben.",
+      "facts": ["Mezőgazdasági központ", "Kulob régió", "Gyapottermesztés", "Helyi kereskedelem"]
+    },
+    {
+      "id": "danghara-cities-v2",
+      "description": "Jelentős mezőgazdasági terület, amely modern öntözési projekteknek és kiterjedt gyapotültetvényeknek ad otthont.",
+      "facts": ["Mezőgazdasági övezet", "Modern öntözés", "Gyapotültetvények", "Fejlődő város"]
+    },
+    {
+      "id": "shahrtuz-cities-v2",
+      "description": "Délnyugat-Tádzsikisztán városa, amely a határ menti kereskedelemben és a helyi mezőgazdaságban tölt be jelentős szerepet.",
+      "facts": ["Határközeli város", "Mezőgazdasági körzet", "Délnyugati régió", "Kereskedelmi központ"]
+    },
+    {
+      "id": "zafarobod-cities-v2",
+      "description": "Az ország északi részén található város, amely főként a mezőgazdasági termeléséről és az öntözött területeiről ismert.",
+      "facts": ["Északi régió", "Öntözött mezőgazdaság", "Mezőgazdasági termelés", "Fejlett földművelés"]
+    },
+    {
+      "id": "shaydon-cities-v2",
+      "description": "Északi település, amely a környező mezőgazdasági tájak központja és a helyi kereskedelem egyik fontos állomása.",
+      "facts": ["Északi település", "Helyi kereskedelem", "Mezőgazdasági táj", "Regionális központ"]
+    },
+    {
+      "id": "murghob-cities-v2",
+      "description": "A Pamír-hegység szívében fekvő, magasan fekvő település, amely a sivatagi és magashegyi tájairól ismert.",
+      "facts": ["Magaslati fekvés", "Pamír-hegység", "Sivatagi tájak", "Extrém éghajlat"]
+    },
+    {
+      "id": "ayni-cities-v2",
+      "description": "A Zarafshon-völgyben található történelmi város, amely a környező hegyi utak egyik fontos csomópontja.",
+      "facts": ["Zarafshon-völgy", "Történelmi település", "Hegyi csomópont", "Közlekedési útvonal"]
+    },
+    {
+      "id": "gharm-cities-v2",
+      "description": "A Rasht-völgy központja, amely a környező hegyvidék kulturális és közigazgatási központjaként ismert.",
+      "facts": ["Rasht-völgy", "Közigazgatási központ", "Hegyvidéki régió", "Kulturális központ"]
+    },
+    {
+      "id": "qabodiyon-cities-v2",
+      "description": "Ősi település a dél-tádzsikisztáni régióban, amely gazdag régészeti múlttal rendelkezik.",
+      "facts": ["Déli régió", "Régészeti múlt", "Történelmi helyszín", "Mezőgazdaság"]
+    },
+    {
+      "id": "levakant-cities-v2",
+      "description": "Ipari és mezőgazdasági központ, amely a régió gazdasági fejlődésének egyik kulcsfontosságú városa.",
+      "facts": ["Ipari központ", "Mezőgazdasági bázis", "Gazdasági fejlődés", "Déli régió"]
+    },
+    {
+      "id": "roghun-cities-v2",
+      "description": "Az ország egyik legnagyobb energetikai projektjének, a Roghuni-vízerőműnek az építési helyszíne.",
+      "facts": ["Roghuni-vízerőmű", "Energetikai projekt", "Vaks folyó", "Épülő erőmű"]
+    },
+    {
+      "id": "hamadoni-cities-v2",
+      "description": "A déli régió települése, amely a környező gyapotföldek és mezőgazdasági területek ellátó központja.",
+      "facts": ["Déli település", "Gyapotföldek", "Ellátó központ", "Mezőgazdaság"]
+    },
+    {
+      "id": "ishkoshim-cities-v2",
+      "description": "A határ menti település a Pandzs folyó partján, amely az Afganisztán felé vezető kereskedelmi utak egyik fontos pontja.",
+      "facts": ["Határváros", "Pandzs folyó", "Kereskedelmi pont", "Pamír régió"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-meidob-relief-v2",
+      "description": "A rugged volcanic mountain massif rising above the surrounding arid plains.",
+      "facts": ["Volcanic massif", "Mountain relief", "Arid landscape", "Meidob region"]
+    },
+    {
+      "id": "bayuda-desert-relief-v2",
+      "description": "A vast, undulating desert landscape defined by volcanic plugs and barren plains.",
+      "facts": ["Undulating desert", "Volcanic plugs", "Barren plains", "Bayuda"]
+    },
+    {
+      "id": "nile-valley-relief-v2",
+      "description": "The fertile, low-lying alluvial valley that defines the landscape of the Nile in Sudan.",
+      "facts": ["Alluvial valley", "Fertile lowland", "Nile corridor", "Landscape feature"]
+    },
+    {
+      "id": "jebel-el-ain-relief-v2",
+      "description": "A prominent mountain hill rising from the central plains.",
+      "facts": ["Mountain hill", "Central plains", "Prominent peak", "Relief feature"]
+    },
+    {
+      "id": "wadi-el-milk-relief-v2",
+      "description": "A long, dry watercourse valley snaking through the desert landscape.",
+      "facts": ["Dry river valley", "Wadi feature", "Desert landscape", "Geological feature"]
+    },
+    {
+      "id": "jebel-shabluka-relief-v2",
+      "description": "A dramatic narrow gorge formed where the Nile cuts through igneous rock mountains.",
+      "facts": ["River gorge", "Igneous mountain", "Nile feature", "Shabluka"]
+    },
+    {
+      "id": "taka-mountains-relief-v2",
+      "description": "Striking granite rock mountains standing prominently near the city of Kassala.",
+      "facts": ["Granite mountains", "Kassala site", "Striking relief", "Mountain landscape"]
+    },
+    {
+      "id": "jebel-gebeit-relief-v2",
+      "description": "A mountainous region in the Red Sea hills, known for its steep ridges.",
+      "facts": ["Mountainous region", "Red Sea hills", "Steep ridges", "Gebeit"]
+    },
+    {
+      "id": "nubian-hills-relief-v2",
+      "description": "An extensive range of rugged hills bordering the eastern desert landscapes.",
+      "facts": ["Rugged hills", "Desert border", "Range of hills", "Nubian landscape"]
+    },
+    {
+      "id": "jebel-abiyad-relief-v2",
+      "description": "A distinct geological white-colored mountain ridge found in the northern desert.",
+      "facts": ["Mountain ridge", "White geological feature", "Northern desert", "Abiyad"]
+    }
+  ]
+}

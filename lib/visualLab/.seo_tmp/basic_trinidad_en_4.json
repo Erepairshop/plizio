@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-carenage-fort-history-v2",
+      "description": "Carenage Fort is a historic site reflecting the colonial military presence in the coastal areas of Trinidad.",
+      "facts": ["Historic coastal fort", "Colonial military site", "Legacy of defense"]
+    },
+    {
+      "id": "tt-spanishtown-ruins-history-v2",
+      "description": "The ruins of Spanishtown offer a glimpse into the early European settlement patterns in Trinidad.",
+      "facts": ["Historic settlement ruins", "Early colonial architecture", "Archaeological importance"]
+    },
+    {
+      "id": "tt-dutch-settlement-site-history-v2",
+      "description": "This site commemorates the historical Dutch presence in the region during the era of European colonial expansion.",
+      "facts": ["Historic Dutch site", "Colonial heritage", "Early settlement history"]
+    },
+    {
+      "id": "tt-plantation-manor-ruins-history-v2",
+      "description": "These manor ruins provide insight into the plantation life and social structure of Trinidad's historic colonial period.",
+      "facts": ["Historic plantation manor", "Colonial era structure", "Cultural heritage site"]
+    },
+    {
+      "id": "tt-military-hospital-ruins-history-v2",
+      "description": "The remains of this military hospital highlight the medical and infrastructure history supporting early garrisons.",
+      "facts": ["Historic hospital ruins", "Military infrastructure", "Colonial era relic"]
+    },
+    {
+      "id": "tt-slave-market-site-history-v2",
+      "description": "This site serves as a somber reminder of the historical slave trade that shaped the socio-economic history of Trinidad.",
+      "facts": ["Historic trade site", "Socio-economic history", "Remembrance of the past"]
+    },
+    {
+      "id": "tt-sugar-refinery-history-v2",
+      "description": "The remains of this sugar refinery underscore the central importance of the sugar industry to Trinidad's historic economy.",
+      "facts": ["Historic sugar industry", "Industrial ruins", "Colonial economic past"]
+    },
+    {
+      "id": "tt-spanish-garrison-history-v2",
+      "description": "The Spanish garrison ruins mark the strategic defensive sites maintained during Spain's historical control of the island.",
+      "facts": ["Historic Spanish site", "Defensive fortification", "Colonial military past"]
+    },
+    {
+      "id": "tt-indigo-vat-history-v2",
+      "description": "These indigo vats reflect the historical cultivation and processing of indigo, a key commodity in early colonial trade.",
+      "facts": ["Historic industrial site", "Colonial commodity production", "Early trade history"]
+    },
+    {
+      "id": "tt-spanish-fort-tobago-history-v2",
+      "description": "Located in Tobago, this fort remnant is a testament to the complex history of Spanish territorial claims in the region.",
+      "facts": ["Historic fort in Tobago", "Colonial military heritage", "Strategic site"]
+    }
+  ]
+}

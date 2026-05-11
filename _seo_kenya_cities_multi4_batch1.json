@@ -1,0 +1,152 @@
+
+{
+  "lang": "multi4",
+  "country": "kenya",
+  "files": ["lib/visualLab/data/poiExtraKenyaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "nairobi-cities-v2",
+      "descriptionAdvancedDe": "Nairobi, die Hauptstadt Kenias, ist eine Metropole voller Kontraste, die oft als das „grüne Herz Afrikas“ bezeichnet wird. Gegründet 1899 als Eisenbahndepot, hat sich die Stadt zu einem bedeutenden Wirtschafts- und Politikzentrum Ostafrikas entwickelt. Einzigartig ist die unmittelbare Nähe zum Nairobi-Nationalpark, wo Wildtiere nur wenige Kilometer vom Stadtzentrum entfernt beobachtet werden können. Die Stadt ist zudem Sitz wichtiger internationaler Organisationen wie dem Umweltprogramm der Vereinten Nationen (UNEP). Der Name „Nairobi“ stammt aus der Massai-Sprache und bedeutet „kühler Wasserplatz“, was auf die Flüsse in der Region hinweist. Mit einer Bevölkerung von über 4,8 Millionen Menschen ist sie ein Schmelztiegel der Kulturen und ein dynamischer Ort, der Tradition und Moderne verbindet.",
+      "descriptionAdvancedHu": "Nairobi, Kenya fővárosa és legnagyobb városa, egyben Kelet-Afrika egyik legfontosabb gazdasági és politikai központja. Az 1899-ben alapított település neve a maszáj „Enkare Nyirobi” kifejezésből ered, ami „hűvös vizek helyét” jelenti. A város beceneve, a „Zöld város a nap alatt” a számos parkjára és zöldterületére utal. Különlegessége, hogy a világ egyetlen fővárosa, amelynek határain belül egy nemzeti park is található. A Nairobi Nemzeti Park mindössze néhány kilométerre fekszik a nyüzsgő városközponttól, páratlan lehetőséget nyújtva a vadvilág megfigyelésére. A város otthont ad az ENSZ Környezetvédelmi Programjának (UNEP) és más nemzetközi szervezeteknek, ami tovább erősíti globális jelentőségét.",
+      "descriptionAdvancedRo": "Nairobi, capitala și cel mai mare oraș din Kenya, este un centru vibrant al Africii de Est, fondat în 1899. Numele său provine din expresia Maasai „Enkare Nyirobi”, care se traduce prin „locul apelor reci”. Orașul este supranumit „Orașul Verde sub Soare” datorită parcurilor sale extinse și a vegetației luxuriante. O caracteristică unică a Nairobiului este prezența Parcului Național Nairobi în limitele sale administrative, fiind singura capitală din lume cu un parc național atât de aproape de centrul urban. Acesta găzduiește o faună sălbatică diversă la doar câțiva kilometri de zgârie-nori. Nairobi este, de asemenea, un important centru diplomatic, adăpostind sediul Programului Națiunilor Unite pentru Mediu (UNEP).",
+      "factsAdvancedDe": [
+        "Gegründet 1899 als Versorgungsdepot der Uganda-Eisenbahn.",
+        "Ersetzte 1907 Machakos als Hauptstadt des britischen Ostafrika-Protektorats.",
+        "Liegt auf einer Höhe von ca. 1.795 Metern.",
+        "Der Nairobi-Nationalpark wurde 1946 gegründet.",
+        "Die Bevölkerung der Metropolregion beträgt etwa 5,7 Millionen Menschen.",
+        "Beherbergt seit 1972 den Hauptsitz des UN-Umweltprogramms (UNEP)."
+      ],
+      "factsAdvancedHu": [
+        "1899-ben alapították az Ugandai Vasút ellátó raktáraként.",
+        "1907-ben vette át a Brit Kelet-afrikai Protektorátus fővárosának szerepét Machakostól.",
+        "Körülbelül 1795 méteres tengerszint feletti magasságban fekszik.",
+        "A Nairobi Nemzeti Parkot 1946-ban hozták létre.",
+        "A város népessége 2024-ben 4,8 millió fő.",
+        "Az ENSZ Környezetvédelmi Programjának (UNEP) székhelye 1972 óta."
+      ],
+      "factsAdvancedRo": [
+        "Fondat în 1899 ca depou de aprovizionare pentru Calea Ferată Uganda.",
+        "A înlocuit Machakos drept capitală a Protectoratului Britanic al Africii de Est în 1907.",
+        "Situat la o altitudine de aproximativ 1.795 de metri.",
+        "Parcul Național Nairobi a fost înființat în 1946.",
+        "Populația metropolitană este de aproximativ 5,7 milioane de locuitori.",
+        "Găzduiește sediul Programului Națiunilor Unite pentru Mediu (UNEP) din 1972."
+      ]
+    },
+    {
+      "id": "mombasa-cities-v2",
+      "descriptionAdvancedDe": "Mombasa, die älteste und zweitgrößte Stadt Kenias, liegt an der Küste des Indischen Ozeans. Die Stadt hat eine reiche Geschichte als Handelszentrum, das über Jahrhunderte von arabischen, portugiesischen und britischen Einflüssen geprägt wurde. Sie war die erste Hauptstadt von Britisch-Ostafrika, bevor Nairobi 1907 diesen Status übernahm. Das historische Zentrum, die Altstadt, besticht durch enge Gassen und traditionelle Swahili-Architektur. Ein Wahrzeichen ist das Fort Jesus, eine von den Portugiesen im 16. Jahrhundert erbaute Festung, die heute zum UNESCO-Weltkulturerbe gehört. Die Gebäude im zentralen Geschäftsviertel sind in den Farben Blau und Weiß gehalten, die den Indischen Ozean symbolisieren. Mit rund 1,2 Millionen Einwohnern ist Mombasa ein wichtiger Hafen und ein beliebtes Touristenziel.",
+      "descriptionAdvancedHu": "Mombasa Kenya legrégebbi és második legnagyobb városa, amely az Indiai-óceán partján fekszik. Történelme során fontos kereskedelmi központ volt, amelyet arab, portugál és brit hatások formáltak. 1907-ig Brit Kelet-Afrika fővárosa volt, amikor is Nairobi vette át ezt a szerepet. Az óváros szűk utcái és a szuahéli építészet egyedülálló hangulatot árasztanak. A város egyik legfontosabb nevezetessége a 16. században épült Fort Jesus erőd, amely az UNESCO Világörökség része. A központi üzleti negyed kék-fehér épületei az óceánt idézik. Mombasa ma fontos kikötőváros és népszerű turisztikai célpont, lakossága meghaladja az 1,2 millió főt.",
+      "descriptionAdvancedRo": "Mombasa, cel mai vechi și al doilea cel mai mare oraș din Kenya, este situat pe coasta Oceanului Indian. Cu o istorie bogată ca centru comercial, orașul a fost modelat de influențe arabe, portugheze și britanice de-a lungul secolelor. A fost prima capitală a Africii de Est Britanice până în 1907, când Nairobi a preluat acest rol. Centrul istoric, cunoscut sub numele de Orașul Vechi, impresionează prin străduțele sale înguste și arhitectura tradițională Swahili. Un punct de reper emblematic este Fort Jesus, o fortăreață construită de portughezi în secolul al XVI-lea, inclusă astăzi în Patrimoniul Mondial UNESCO. Clădirile din centrul de afaceri sunt vopsite în albastru și alb, simbolizând Oceanul Indian.",
+      "factsAdvancedDe": [
+        "Die älteste Stadt Kenias mit einer über 900-jährigen Geschichte.",
+        "War bis 1907 die Hauptstadt von Britisch-Ostafrika.",
+        "Die Bevölkerung lag 2019 bei etwa 1,2 Millionen Menschen.",
+        "Fort Jesus wurde zwischen 1593 und 1596 erbaut.",
+        "Die Gebäude im CBD sind als Symbol für den Ozean blau und weiß gestrichen.",
+        "Ein wichtiger Hafen für ganz Ostafrika."
+      ],
+      "factsAdvancedHu": [
+        "Kenya legrégebbi városa, több mint 900 éves történelemmel.",
+        "1907-ig Brit Kelet-Afrika fővárosa volt.",
+        "Lakossága 2019-ben körülbelül 1,2 millió fő volt.",
+        "A Fort Jesus erőd 1593 és 1596 között épült.",
+        "A központi üzleti negyed épületei az óceánt szimbolizálva kék és fehér színűek.",
+        "Fontos kikötő egész Kelet-Afrika számára."
+      ],
+      "factsAdvancedRo": [
+        "Cel mai vechi oraș din Kenya, cu o istorie de peste 900 de ani.",
+        "A fost capitala Africii de Est Britanice până în 1907.",
+        "Populația era de aproximativ 1,2 milioane de locuitori în 2019.",
+        "Fort Jesus a fost construit între 1593 și 1596.",
+        "Clădirile din centrul de afaceri sunt vopsite în albastru și alb pentru a simboliza oceanul.",
+        "Un port crucial pentru întreaga Africă de Est."
+      ]
+    },
+    {
+      "id": "thika-cities-v2",
+      "factsAdvancedDe": [
+        "1924 von der Kolonialregierung als formelle Gemeinde anerkannt.",
+        "Liegt auf einer Höhe von 1.631 Metern über dem Meeresspiegel.",
+        "Heimat der riesigen Ananasverarbeitungsanlage von Del Monte Kenya.",
+        "Die achtspurige Thika Superhighway nach Nairobi wurde 2012 fertiggestellt.",
+        "Die Mount Kenya University gründete 2008 ihren Hauptcampus in Thika.",
+        "Bevölkerung von etwa 279.429 laut der Volkszählung 2019."
+      ],
+      "factsAdvancedHu": [
+        "A gyarmati kormány 1924-ben ismerte el hivatalos településként.",
+        "1631 méteres tengerszint feletti magasságban található.",
+        "Itt található a Del Monte Kenya hatalmas ananászfeldolgozó üzeme.",
+        "A Nairobiba vezető nyolcsávos Thika autópálya 2012-ben készült el.",
+        "A Mount Kenya Egyetem 2008-ban Thikában hozta létre fő kampuszát.",
+        "A 2019-es népszámlálás szerint lakossága körülbelül 279 429 fő volt."
+      ],
+      "factsAdvancedRo": [
+        "Recunoscut ca municipiu oficial de către guvernul colonial în 1924.",
+        "Situat la o altitudine de 1.631 de metri deasupra nivelului mării.",
+        "Găzduiește masiva unitate de procesare a ananasului Del Monte Kenya.",
+        "Autostrada Thika Superhighway cu opt benzi a fost finalizată în 2012.",
+        "Universitatea Mount Kenya și-a stabilit campusul principal în Thika în 2008.",
+        "Populația era de aproximativ 279.429 de locuitori la recensământul din 2019."
+      ]
+    },
+    {
+      "id": "naivasha-cities-v2",
+      "factsAdvancedDe": [
+        "1899 als Bahnhof der Uganda-Eisenbahn gegründet.",
+        "Liegt auf einer Höhe von 1.900 Metern im Rift Valley.",
+        "Epizentrum der kenianischen Blumenexportindustrie, spezialisiert auf Rosen.",
+        "Das Geothermiekraftwerk Olkaria I wurde 1981 südlich der Stadt in Betrieb genommen.",
+        "Tor zum Hell's-Gate-Nationalpark, der 1984 gegründet wurde.",
+        "Die städtische Bevölkerung betrug laut der Volkszählung 2019 etwa 355.383.",
+        "Der Name leitet sich vom Massai-Wort ɛnaɨpɔ́sha ab, was „das, was wogt“ bedeutet."
+      ],
+      "factsAdvancedHu": [
+        "1899-ben alapították az Ugandai Vasút állomásaként.",
+        "1900 méteres magasságban fekszik a Hasadékvölgyben.",
+        "Kenya virágexportjának központja, különösen a rózsatermesztésre szakosodott.",
+        "Az Olkaria I. geotermikus erőművet 1981-ben helyezték üzembe a várostól délre.",
+        "A Hell's Gate Nemzeti Park kapuja, amelyet 1984-ben alapítottak.",
+        "A város lakossága a 2019-es népszámlálás szerint körülbelül 355 383 fő volt.",
+        "Neve a maszáj ɛnaɨpɔ́sha szóból ered, ami „hullámzót” jelent."
+      ],
+      "factsAdvancedRo": [
+        "Înființat ca stație de cale ferată pe Calea Ferată Uganda în 1899.",
+        "Situat la o altitudine de 1.900 de metri în Valea Marelui Rift.",
+        "Epicentrul floriculturii de export din Kenya, specializat în trandafiri.",
+        "Centrala geotermală Olkaria I a fost pusă în funcțiune la sud de oraș în 1981.",
+        "Poarta de acces către Parcul Național Hell's Gate, înființat în 1984.",
+        "Populația urbană era de aproximativ 355.383 la recensământul din 2019.",
+        "Numele derivă din cuvântul Maasai ɛnaɨpɔ́sha, însemnând „ceea ce se agită”."
+      ]
+    },
+    {
+      "id": "ruiru-cities-v2",
+      "factsAdvancedDe": [
+        "Historisch bekannt für ausgedehnten Sisal- und Kaffeeanbau.",
+        "Liegt an der Thika Superhighway, nur 25 Kilometer von Nairobi entfernt.",
+        "Heimat der riesigen Milchverarbeitungsanlage von Brookside Dairy.",
+        "Beherbergt den Hauptcampus der Kenyatta University.",
+        "Liegt auf einer Höhe von rund 1.565 Metern.",
+        "Verzeichnete bei der Volkszählung 2019 eine massive Bevölkerung von über 371.000."
+      ],
+      "factsAdvancedHu": [
+        "Történelmileg a kiterjedt szizál- és kávétermesztéséről volt ismert.",
+        "A Thika autópálya mentén található, mindössze 25 kilométerre Nairobitól.",
+        "Itt található a hatalmas Brookside Dairy tejfeldolgozó üzem.",
+        "A Kenyatta Egyetem fő kampuszának ad otthont.",
+        "Körülbelül 1565 méteres tengerszint feletti magasságban helyezkedik el.",
+        "A 2019-es népszámláláskor több mint 371 000 lakosa volt."
+      ],
+      "factsAdvancedRo": [
+        "Cunoscut istoric pentru cultivarea extinsă a sisalului și a cafelei.",
+        "Situat de-a lungul autostrăzii Thika Superhighway, la doar 25 de kilometri de Nairobi.",
+        "Găzduiește masiva unitate de procesare a lactatelor Brookside Dairy.",
+        "Găzduiește campusul principal al Universității Kenyatta.",
+        "Poziționat la o altitudine de aproximativ 1.565 de metri.",
+        "A înregistrat o populație masivă de peste 371.000 de locuitori la recensământul din 2019."
+      ]
+    }
+  ]
+}

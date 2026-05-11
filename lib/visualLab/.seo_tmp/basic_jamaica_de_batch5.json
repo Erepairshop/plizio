@@ -1,0 +1,34 @@
+{
+  "lang": "de",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "portland-ridge-relief-v2",
+      "description": "Der Portland Ridge ist eine markante Kalksteinformation an der Südküste Jamaikas, die weit in das Karibische Meer ragt. Er ist bekannt für seine raue Küstenlandschaft.",
+      "facts": ["Südlichster Punkt Jamaikas", "Kalkstein-Küstengebirge", "Artenreiche Trockenwälder"]
+    },
+    {
+      "id": "hellshire-hills-relief-v2",
+      "description": "Die Hellshire Hills sind ein ausgedehntes Kalksteinplateau nahe Kingston, das eine der letzten intakten tropischen Trockenwaldregionen der Welt beherbergt.",
+      "facts": ["Tropischer Trockenwald", "Lebensraum der Jamaika-Leguane", "Nahe der Hauptstadt Kingston"]
+    },
+    {
+      "id": "johannesburg-mountain-relief-v2",
+      "description": "Der Johannesburg Mountain ist ein markanter Gipfel im Westen der Insel, der durch sein zerklüftetes Gelände und die dichte Bewaldung besticht.",
+      "facts": ["Markante Erhebung im Westen", "Zerklüftetes Waldgelände", "Panorama-Aussichtspunkt"]
+    },
+    {
+      "id": "blue-mountain-peak-north-relief-v2",
+      "description": "Die Nordseite des Blue Mountain Peak ist durch extrem steile Hänge und eine nahezu undurchdringliche, feuchte Bergvegetation gekennzeichnet.",
+      "facts": ["Steile Nordflanken", "Unberührter Nebelwald", "Teil des UNESCO-Welterbes"]
+    },
+    {
+      "id": "mocho-mountains-relief-v2",
+      "description": "Die Mocho Mountains im Zentrum Jamaikas sind geprägt von tiefen Tälern und sanften Bergkuppen, die für den Bergbau und die Landwirtschaft genutzt werden.",
+      "facts": ["Zentrales Bergland", "Wichtige Bauxitlagerstätten", "Hügelige Agrarlandschaft"]
+    }
+  ]
+}

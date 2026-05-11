@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Masiv muntos vulcanic impresionant, caracterizat prin relief erodat.",
+      "facts": ["Masiv vulcanic vechi", "Peisaj geologic", "Relief erodat"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "Podiș ridicat cu pereți stâncoși abrupți, vizibil de la distanță.",
+      "facts": ["Podiș înalt", "Pereți abrupți", "Relief tabular"]
+    },
+    {
+      "id": "aus-mountains-relief-v2",
+      "description": "Lanț muntos stâncos din sudul Namibiei, situat în apropierea deșertului.",
+      "facts": ["Relief muntos", "Peisaj arid", "Stâncării"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "Zonă de relief care combină deșertul cu formațiuni stâncoase litorale.",
+      "facts": ["Zona deșertică", "Relief litoral", "Formațiuni unice"]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "description": "Muntele Huns formează un relief accidentat în apropierea canionului Fish River.",
+      "facts": ["Relief accidentat", "Peisaj muntos", "Geologie veche"]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "description": "Masiv muntos complex, renumit pentru platourile sale și văile adânci.",
+      "facts": ["Relief de platou", "Văi adânci", "Complex geologic"]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "description": "Zonă montană mai puțin cunoscută, oferind un relief arid și izolat.",
+      "facts": ["Relief izolat", "Masiv arid", "Peisaj stâncos"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "Lanț muntos în nord-vestul îndepărtat, oferind peisaje montane dramatice.",
+      "facts": ["Relief dramatic", "Masiv nordic", "Terren accidentat"]
+    },
+    {
+      "id": "khoe-khoe-mountains-relief-v2",
+      "description": "Relief muntos caracteristic regiunilor aride, cu creste stâncoase.",
+      "facts": ["Creste stâncoase", "Relief arid", "Formațiuni muntoase"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Zonă cu relief diversificat incluzând stâncării și cascade sezoniere.",
+      "facts": ["Relief stâncos", "Cascade sezoniere", "Peisaj natural"]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "description": "Regiune cu relief vulcanic, presărată cu platouri și văi largi.",
+      "facts": ["Relief vulcanic", "Platouri și văi", "Terren geologic"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Zonă cu relief arid caracterizată prin văi uscate și formațiuni pietroase.",
+      "facts": ["Relief arid", "Văi uscate", "Formațiuni pietroase"]
+    }
+  ]
+}

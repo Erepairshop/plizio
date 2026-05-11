@@ -1,0 +1,118 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "puerto-corinto-economic-v2",
+      "description": "Corinto is the main Pacific seaport of Nicaragua, handling a significant portion of the country's imports and exports.",
+      "facts": ["Main Pacific port", "Handles bulk cargo", "Chinandega region", "Key economic node"]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "description": "Hacienda San Jacinto is a historic site where a decisive battle occurred in 1856 during the National War.",
+      "facts": ["Battle of 1856", "National historic site", "Symbol of sovereignty", "Near Managua"]
+    },
+    {
+      "id": "iglesia-la-merced-granada-history-v2",
+      "description": "Iglesia La Merced in Granada is a colonial-era church noted for its ornate Baroque facade and historical resilience.",
+      "facts": ["Granada landmark", "Baroque architecture", "Colonial heritage", "Historic church"]
+    },
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "description": "Fortaleza La Polvora is a colonial-era fortification in Granada built to protect the city's gunpowder stores.",
+      "facts": ["Built: 1748", "Granada fortification", "Military history", "Tourism site"]
+    },
+    {
+      "id": "selva-negra-matagalpa-life-v2",
+      "description": "Selva Negra is an eco-resort and coffee plantation located in the lush highlands of Matagalpa.",
+      "facts": ["Coffee plantation", "Eco-resort", "Highland climate", "Biodiverse area"]
+    },
+    {
+      "id": "heriberto-sanchez-amusement-park-life-v2",
+      "description": "Heriberto Sanchez Amusement Park offers a variety of recreational facilities for families in the region.",
+      "facts": ["Family destination", "Recreational park", "Local landmark", "Outdoor space"]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "description": "Granada's Central Park is a vibrant hub of daily life, surrounded by colonial buildings and local vendors.",
+      "facts": ["City hub", "Social center", "Colonial setting", "Local vendor area"]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "description": "Finca El Platanal is a sustainable farm dedicated to the traditional production of high-quality cacao.",
+      "facts": ["Cacao plantation", "Sustainable farming", "Rural region", "Agrotourism"]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "description": "Finca Ecologica La Bomba is an educational coffee farm focused on environmentally friendly cultivation techniques.",
+      "facts": ["Coffee production", "Eco-farm", "Sustainable practices", "Educational site"]
+    },
+    {
+      "id": "solentiname-archipelago-nature-v2",
+      "description": "Solentiname Archipelago is a group of islands in Lake Nicaragua renowned for its community of artists and rich birdlife.",
+      "facts": ["Lake Nicaragua", "Artistic community", "Rich biodiversity", "Tropical nature"]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "description": "Tisey-Estanzuela Natural Reserve is a mountainous protected area near Esteli, offering hiking trails and waterfalls.",
+      "facts": ["Esteli department", "Protected reserve", "Hiking trails", "Waterfall site"]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "description": "Zapatera Island is a volcanic island in Lake Nicaragua, protected for its unique flora and historical archaeological sites.",
+      "facts": ["Volcanic island", "Archaeological site", "Nature preserve", "Lake Nicaragua"]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "The San Lorenzo Cloud Forest is a cool, misty habitat home to a variety of bird species and lush vegetation.",
+      "facts": ["Cloud forest", "Mist habitat", "Biodiverse", "High elevation"]
+    },
+    {
+      "id": "estero-real-nature-v2",
+      "description": "Estero Real is a major wetland area and estuary in the Gulf of Fonseca, vital for marine biodiversity.",
+      "facts": ["Wetland system", "Gulf of Fonseca", "Marine life habitat", "Important ecosystem"]
+    },
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "description": "Cerro El Arenal is a natural reserve in the northern highlands, providing important forest cover and habitat.",
+      "facts": ["Natural reserve", "Highland forest", "Important watershed", "Biodiversity hotspot"]
+    },
+    {
+      "id": "rio-wawa-nature-v2",
+      "description": "Rio Wawa is a significant river in the North Caribbean region, flowing through dense tropical landscapes.",
+      "facts": ["Caribbean region", "Tropical river", "Biodiverse area", "Rural ecosystem"]
+    },
+    {
+      "id": "meseta-pueblos-relief-v2",
+      "description": "The Meseta de los Pueblos is a fertile plateau region, known for its pleasant climate and agricultural productivity.",
+      "facts": ["Fertile plateau", "Cooler climate", "Agricultural hub", "Highland region"]
+    },
+    {
+      "id": "selva-de-las-nubes-relief-v2",
+      "description": "Selva de las Nubes is a mountainous forest area characterized by high altitude and consistent cloud cover.",
+      "facts": ["High altitude", "Cloud forest", "Mountainous", "Biodiverse"]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "Valle de Osua is a scenic valley area known for its geological features and rural landscapes.",
+      "facts": ["Valley region", "Geological feature", "Rural landscape", "Regional hub"]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "description": "The Meseta de Jinotega is a high, mountainous plateau essential for coffee and diverse vegetable farming.",
+      "facts": ["Mountain plateau", "Coffee heartland", "Cool climate", "Agricultural base"]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "description": "Cerro La Quinta is a prominent mountain formation offering views over the surrounding northern landscape.",
+      "facts": ["Mountain peak", "Elevated view", "Northern highlands", "Regional landmark"]
+    }
+  ]
+}

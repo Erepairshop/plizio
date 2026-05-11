@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gardabani-tpp-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wärmekraftwerk Gardabani ist eine der wichtigsten Säulen der georgischen Energieinfrastruktur und liegt in der Region Niederkartlien, nahe der Grenze zu Aserbaidschan. Geografisch profitiert der Standort von der Nähe zur Hauptstadt Tiflis und der Anbindung an internationale Gaspipelines. Historisch bestand der Komplex aus veralteten sowjetischen Blöcken, wurde jedoch seit 2015 durch hochmoderne Kombikraftwerke (Combined Cycle Power Plants) ergänzt. Ökonomisch ist Gardabani für die nationale Netzstabilität unverzichtbar, da es als thermische Reserve fungiert, wenn die Wasserkraftkapazitäten während der trockenen Wintermonate sinken. Die Anlage wird primär mit Erdgas aus Aserbaidschan betrieben. Technisch zeichnen sich die neuen Blöcke durch einen hohen Wirkungsgrad von über 50 % aus, was den Brennstoffverbrauch pro erzeugter Kilowattstunde im Vergleich zu alten Anlagen drastisch reduziert. Ökologisch stellt der Betrieb eine Belastung dar, die durch moderne Filtertechnologien und den Einsatz von hocheffizienten Gasturbinen minimiert wird. Gardabani sichert nicht nur die Grundlastversorgung des Landes, sondern ermöglicht Georgien auch, in Zeiten von Energieengpässen weniger abhängig von Stromimporten zu sein. Die strategische Bedeutung wird durch die kontinuierliche Erweiterung der Kapazitäten unterstrichen, um dem wachsenden Energiebedarf der georgischen Industrie gerecht zu werden.",
+        "hu": "A gardabani hőerőmű Grúzia energiabiztonságának egyik legfontosabb pillére, amely Alsó-Kartli régióban, az azeri határ közelében található. Földrajzilag az erőmű stratégiai helyen fekszik, közel a fővároshoz és a nemzetközi gázvezetékekhez. Történelmileg a komplexum régi szovjet blokkokból állt, de 2015 óta több ütemben modern, kombinált ciklusú gázturbinás egységekkel (CCPP) bővült. Gazdaságilag az erőmű nélkülözhetetlen a nemzeti hálózat stabilitásához, különösen a téli hónapokban, amikor a vízerőművek kapacitása a folyók alacsony vízállása miatt lecsökken. Az üzem elsősorban Azerbajdzsánból származó földgázzal működik. Technikai szempontból az új blokkok hatásfoka meghaladja az 50%-ot, ami jelentős előrelépés a régi technológiákhoz képest, és csökkenti az egy kilowattórára jutó károsanyag-kibocsátást. Ökológiai szempontból a gáztüzelés tisztább alternatívát jelent a szénnél, bár a hűtővíz kezelése és a CO2-kibocsátás folyamatos figyelmet igényel. Gardabani nemcsak az alapellátást biztosítja, hanem lehetővé teszi Grúzia számára az importfüggőség csökkentését is. A létesítmény folyamatos bővítése válasz a grúz ipar és a lakosság növekvő energiaigényére, megerősítve az ország regionális energetikai szerepét.",
+        "ro": "Termocentrala Gardabani reprezintă un pilon fundamental al infrastructurii energetice a Georgiei, fiind situată în regiunea Kvemo Kartli, în proximitatea frontierei cu Azerbaidjan. Din punct de vedere geografic, locația beneficiază de accesul facil la conductele internaționale de gaz și de apropierea de nodul de consum Tbilisi. Istoric, complexul a fost dominat de unități sovietice ineficiente, însă începând cu 2015 a fost modernizat prin construcția unor unități cu ciclu combinat de ultimă generație. Economic, Gardabani este vitală pentru stabilitatea sistemului energetic național, funcționând ca o rezervă strategică în perioadele de iarnă, când producția hidrocentralelor scade drastic. Instalația este alimentată în principal cu gaz natural azer. Tehnic, noile blocuri energetice ating un randament de peste 50%, optimizând consumul de combustibil și reducând costurile de producție per kWh. Din punct de vedere ecologic, utilizarea gazului natural și implementarea sistemelor moderne de monitorizare a emisiilor fac din Gardabani o facilitate mult mai puțin poluantă decât vechile centrale pe păcură sau cărbune. Importanța sa strategică este dublată de rolul în reducerea dependenței Georgiei de importurile de electricitate din statele vecine, asigurând o autonomie crescută în perioadele de vârf de consum.",
+        "en": "The Gardabani Thermal Power Plant is a cornerstone of Georgia's energy security, located in the Kvemo Kartli region near the Azerbaijani border. Geographically, the site benefits from its proximity to Tbilisi and its direct integration with international natural gas pipelines. Historically, the site relied on aging Soviet-era blocks, but since 2015, it has been revitalized with highly efficient combined-cycle gas turbines (CCPP). Economically, the plant is indispensable for national grid stability, serving as a critical thermal reserve during the winter months when hydropower output decreases due to low river levels. The facility primarily operates on natural gas imported from Azerbaijan. Technically, the modern units boast an efficiency rate of over 50%, significantly reducing fuel consumption and emissions per kilowatt-hour compared to older thermal plants. Ecologically, while gas-fired, the plant utilizes advanced filtration and cooling systems to mitigate its environmental footprint. Gardabani plays a key role in reducing Georgia's dependence on seasonal electricity imports, providing a reliable baseline for industrial and residential growth. Its ongoing capacity expansion underscores its strategic importance in meeting the country's rising energy demands within a diversifying energy mix."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größtes fossil befeuertes Kraftwerksgelände Georgiens.",
+          "Erstes modernes Kombikraftwerk des Landes (eröffnet 2015).",
+          "Wichtigste Energiequelle während der wasserarmen Winterzeit.",
+          "Primär mit aserbaidschanischem Erdgas betrieben.",
+          "Wirkungsgrad der neuen Blöcke liegt bei über 50 Prozent.",
+          "Strategisch gelegen am Knotenpunkt regionaler Gaspipelines."
+        ],
+        "hu": [
+          "Grúzia legnagyobb fosszilis tüzelésű erőművi komplexuma.",
+          "Az ország első modern, kombinált ciklusú egysége itt nyílt meg 2015-ben.",
+          "Kulcsszerepet játszik a téli energiaellátás biztosításában.",
+          "Az üzemanyagellátást azeri földgáz biztosítja.",
+          "Az új blokkok hatásfoka duplája a régi szovjet technológiának.",
+          "Stratégiai elhelyezkedése segít a hálózati veszteségek csökkentésében."
+        ],
+        "ro": [
+          "Cea mai mare platformă termoenergetică din Georgia.",
+          "Include prima unitate cu ciclu combinat modernă din țară (2015).",
+          "Asigură echilibrul sistemului energetic în timpul iernii.",
+          "Alimentată prin conexiunea directă cu gazoductele din Azerbaidjan.",
+          "Randament energetic superior de peste 50% pentru noile unități.",
+          "Punct nodal pentru stabilitatea tensiunii în rețeaua națională."
+        ],
+        "en": [
+          "Georgia's largest fossil-fuel-based power generation site.",
+          "Features the country's first modern combined-cycle unit (opened 2015).",
+          "Acts as a critical backup for hydropower during dry seasons.",
+          "Mainly fueled by natural gas transit through regional pipelines.",
+          "New units offer energy efficiency exceeding 50 percent.",
+          "Strategically vital for reducing reliance on foreign electricity imports."
+        ]
+      }
+    },
+    {
+      "id": "larsi-border-crossing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Grenzübergang Larsi, auch bekannt als Kazbegi-Obere-Lars, ist der einzige offizielle Landgrenzübergang zwischen Georgien und Russland, der nicht über die besetzten Gebiete führt. Geografisch liegt er in der spektakulären und engen Darial-Schlucht am Ufer des Terek-Flusses, umgeben von über 5.000 Meter hohen Gipfeln des Großen Kaukasus. Historisch folgt die Route der alten Georgischen Heerstraße, die seit Jahrhunderten die wichtigste Verbindung zwischen dem Nord- und Südkaukasus darstellt. Ökonomisch ist Larsi von existenzieller Bedeutung für den gesamten Kaukasusraum; er ist die Haupthandelsroute für Waren zwischen Russland, Georgien und insbesondere Armenien, das fast seinen gesamten Landhandel über diesen Punkt abwickelt. Technisch gesehen ist der Übergang aufgrund seiner Lage in einer Lawinen- und Erdrutschzone extremen Risiken ausgesetzt, was den Bau eines neuen Tunnels durch den Devdoraki-Gletscher erforderlich machte. Ökologisch stellt das hohe Verkehrsaufkommen von tausenden LKWs pro Tag eine Belastung für das sensible Hochgebirgsökosystem dar. Die Abfertigungskapazitäten wurden in den letzten Jahren massiv ausgebaut, um die kilometerlangen Staus zu reduzieren. Larsi bleibt ein geopolitischer Brennpunkt, an dem sich die wirtschaftliche Abhängigkeit und die komplizierten politischen Beziehungen der Region manifestieren.",
+        "hu": "A larsi határátkelő, ismertebb nevén Kazbegi–Felső-Lars, az egyetlen hivatalos közúti határátkelő Grúzia és Oroszország között, amely nem a megszállt területeken (Abházia, Dél-Oszétia) keresztül vezet. Földrajzilag a lenyűgöző és szűk Darjal-szurdokban található, a Tyerek-folyó partján, a Nagy-Kaukázus 5000 méteres csúcsai között. Történelmileg az útvonal a Grúz Hadiutat követi, amely évszázadok óta az Észak- és Dél-Kaukázus közötti legfontosabb összeköttetés. Gazdaságilag Larsi létfontosságú az egész kaukázusi régió számára; ez az elsődleges kereskedelmi útvonal Oroszország, Grúzia és különösen Örményország között, amely szárazföldi külkereskedelmének nagy részét itt bonyolítja le. Technikai szempontból az átkelő a lavina- és földcsuszamlásveszély miatt extrém kockázatoknak van kitéve, ezért nemrégiben új alagutat építettek a Devdoraki-gleccser közelében a forgalom biztonsága érdekében. Ökológiailag a napi több ezer kamion áthaladása komoly terhelést jelent a magashegyi ökoszisztémára. Az átkelő áteresztőképességét az elmúlt években jelentősen bővítették, hogy csökkentsék a kilométeres sorokat. Larsi továbbra is geopolitikai gyújtópont, ahol a gazdasági kényszer és a bonyolult regionális politikai kapcsolatok találkoznak.",
+        "ro": "Punctul de trecere a frontierei Larsi (Kazbegi-Larsul de Sus) este singura conexiune terestră oficială între Georgia și Federația Rusă care nu tranzitează regiunile ocupate. Geografic, este situat în spectaculosul defileu Dariali, pe malul râului Terek, fiind flancat de versanții abrupți ai Caucazului Mare. Istoric, ruta urmează drumul militar georgian, utilizat de milenii ca principală cale de acces trans-caucaziană. Economic, Larsi are o importanță vitală nu doar pentru Georgia, ci mai ales pentru Armenia, reprezentând principala arteră de aprovizionare și export către piețele rusești și europene. Din punct de vedere tehnic, funcționarea vămii este frecvent perturbată de fenomene naturale extreme, precum avalanșe și fluxuri de resturi de pe ghețarul Devdoraki, ceea ce a impus construcția unor galerii de protecție și tuneluri noi. Ecologic, volumul imens de trafic greu exercită o presiune constantă asupra zonei protejate Kazbegi. În ultimii ani, infrastructura vamală a fost extinsă masiv pentru a gestiona cozile de camioane care se întind uneori pe zeci de kilometri. Larsi rămâne un punct strategic de importanță regională, reflectând dinamica complexă a comerțului și geopoliticii dintre Europa de Est și Asia Mică.",
+        "en": "The Larsi border crossing, officially known as Kazbegi-Upper Lars, is the only operational land border between Georgia and Russia that does not pass through occupied territories. Geographically, it is located within the dramatic and narrow Dariali Gorge along the Terek River, surrounded by the towering peaks of the Greater Caucasus. Historically, the route follows the ancient Georgian Military Highway, which has served as the primary link between the North and South Caucasus for centuries. Economically, Larsi is of existential importance to the entire region; it is the main trade artery for goods moving between Russia, Georgia, and especially Armenia, which conducts the vast majority of its land trade through this point. Technically, the crossing is highly vulnerable to natural disasters, including avalanches and landslides from the Devdoraki Glacier, necessitating the construction of emergency tunnels and protection galleries. Ecologically, the heavy exhaust and vibration from thousands of daily trucks impact the sensitive high-altitude ecosystem. Recent modernization of the customs infrastructure has aimed to increase throughput and reduce the massive logistical bottlenecks. Larsi remains a geopolitical flashpoint, symbolizing the tension between regional economic necessity and complex political relations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einziger legaler Landweg zwischen Tiflis und Wladikawkas.",
+          "Transitknotenpunkt für über 80% des armenischen Landhandels.",
+          "Gelegen in der Darial-Schlucht, einem historischen Gebirgspass.",
+          "Oftmals wegen extremer Wetterereignisse und Lawinen gesperrt.",
+          "Verfügt über separate Abfertigungsspuren für LKWs und PKWs.",
+          "Teil der historisch bedeutsamen Georgischen Heerstraße."
+        ],
+        "hu": [
+          "Az egyetlen legális szárazföldi összeköttetés Grúzia és Oroszország között.",
+          "Örményország szárazföldi kereskedelmének több mint 80%-a itt halad át.",
+          "A Darjal-szurdok mélyén, 1200 méteres magasságban fekszik.",
+          "Rendszeres lezárások jellemzik a Devdoraki-gleccser földcsuszamlásai miatt.",
+          "Modernizált vámudvara napi több ezer járművet képes kezelni.",
+          "Közvetlen közelében található a stratégiai jelentőségű Dariali-kolostor."
+        ],
+        "ro": [
+          "Singura vamă terestră deschisă oficial între Georgia și Rusia.",
+          "Nod de tranzit crucial pentru economia Armeniei.",
+          "Localizată în defileul Dariali, la o altitudine de aproximativ 1200 m.",
+          "Expusă riscurilor geomorfologice majore (alunecări de teren și avalanșe).",
+          "Recent modernizată pentru a crește capacitatea de procesare a mărfurilor.",
+          "Segment cheie al Drumului Militar Georgian, arteră istorică a Caucazului."
+        ],
+        "en": [
+          "The only official land crossing between Georgia and Russia proper.",
+          "Handles over 80% of Armenia's international land freight.",
+          "Situated in the Dariali Gorge, a historically vital mountain pass.",
+          "Frequently closed due to severe weather and glacier-related landslides.",
+          "Features specialized infrastructure to handle massive heavy vehicle traffic.",
+          "A key component of the trans-Caucasian logistical corridor."
+        ]
+      }
+    },
+    {
+      "id": "sarpi-border-crossing-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Grenzübergang Sarpi liegt im Südwesten Georgiens in der Autonomen Republik Adscharien und ist das wichtigste Tor zur Türkei. Geografisch ist die Lage einzigartig, da der Grenzposten direkt am schmalen Küstenstreifen zwischen den Bergen des Kleinen Kaukasus und dem Schwarzen Meer eingezwängt ist. Historisch markierte dieser Punkt während des Kalten Krieges eine der wenigen direkten Grenzen zwischen der NATO und der Sowjetunion. Ökonomisch ist Sarpi der geschäftigste Grenzübergang Georgiens; er wickelt den Großteil des Handels mit der Türkei ab, Georgiens wichtigstem Handelspartner. Technisch gesehen ist das Terminal ein architektonisches Highlight, entworfen von J. Mayer H. Architects, mit fließenden, futuristischen Betonformen, die sowohl Aussichtsplattformen als auch moderne Zollanlagen beherbergen. Das hohe Verkehrsaufkommen führt oft zu logistischen Herausforderungen auf der Küstenstraße Richtung Batumi. Ökologisch ist die Zone durch die unmittelbare Nähe zu den Badestränden von Sarpi geprägt, was ein effizientes Management von Lärm und Emissionen erfordert. Sarpi ist nicht nur ein Wirtschaftsknotenpunkt, sondern auch ein Ort des kulturellen Austauschs, an dem täglich tausende Menschen die Grenze für Arbeit und Tourismus überqueren.",
+        "hu": "A sarpi határátkelő Grúzia délnyugati részén, az Adzsara Autonóm Köztársaságban található, és az ország legfontosabb kapuja Törökország felé. Földrajzi elhelyezkedése egyedülálló, mivel a vámépület közvetlenül a Fekete-tenger és a Kis-Kaukázus hegyei közötti keskeny parti sávba szorult be. Történelmileg ez a pont a hidegháború idején a NATO és a Szovjetunió egyik ritka közvetlen szárazföldi határa volt. Gazdaságilag Sarpi Grúzia legforgalmasabb határátkelője; itt zajlik a kereskedelem nagy része Törökországgal, amely Grúzia első számú gazdasági partnere. Technikai szempontból a terminál építészeti remekmű, a J. Mayer H. építésziroda tervezte, futurisztikus betonformákkal, amelyek kilátóteraszként és modern vámügyi létesítményként is funkcionálnak. A hatalmas forgalom gyakran logisztikai kihívások elé állítja a Batumi felé vezető parti utat. Ökológiailag az övezet különlegessége a kristálytiszta vizű fürdőstrandok közvetlen közelsége, ami miatt a zaj- és károsanyag-kibocsátás kezelése kiemelt feladat. Sarpi nem csupán gazdasági csomópont, hanem kulturális találkozási pont is, ahol naponta ezrek kelnek át munkavállalás vagy turizmus céljából.",
+        "ro": "Punctul de trecere a frontierei Sarpi este situat în sud-vestul Georgiei, în Republica Autonomă Adjara, fiind principala poartă de legătură cu Turcia. Din punct de vedere geografic, locația este unică, vama fiind amplasată pe o fâșie îngustă de coastă, între munții Caucazul Mic și Marea Neagră. Istoric, în timpul Războiului Rece, acest punct reprezenta una dintre puținele frontiere terestre directe între un stat membru NATO și Uniunea Sovietică. Economic, Sarpi este cea mai tranzitată vamă a Georgiei, prin care trece cea mai mare parte a schimburilor comerciale cu Turcia, principalul partener economic al țării. Din punct de vedere tehnic, terminalul este un reper arhitectural modern, proiectat de biroul J. Mayer H., cu forme futuriste din beton care integrează platforme de observare și facilități vamale avansate. Traficul intens de mărfuri și pasageri pune o presiune logistică mare pe drumul de coastă care duce spre Batumi. Ecologic, zona este sensibilă datorită proximității imediate a plajelor turistice, necesitând măsuri stricte de control al poluării. Sarpi funcționează ca un nod vital de conexiune între spațiul caucazian și Europa prin intermediul rețelei rutiere turcești.",
+        "en": "The Sarpi border crossing is located in southwestern Georgia within the Adjara Autonomous Republic and serves as the primary gateway to Turkey. Geographically, its position is unique, as the customs facility is squeezed onto a narrow coastal strip between the Black Sea and the foothills of the Lesser Caucasus. Historically, during the Cold War, this point marked one of the few direct land borders between NATO and the Soviet Union. Economically, Sarpi is Georgia's busiest border crossing, facilitating the bulk of trade with Turkey, the country's leading trading partner. Technically, the terminal is an architectural landmark designed by J. Mayer H. Architects, featuring undulating, futuristic concrete forms that house both observation decks and modern customs infrastructure. The heavy volume of passenger and freight traffic often creates logistical challenges along the coastal highway leading to Batumi. Ecologically, the zone is distinctive for its proximity to Sarpi’s popular pebble beaches, necessitating careful management of noise and vehicle emissions. Sarpi is more than just an economic hub; it is a vital site of cultural and commercial exchange where thousands cross daily for work, trade, and tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtigster Grenzübergang zwischen Georgien und der Türkei.",
+          "Futuristisches Design des Berliner Architekten Jürgen Mayer H.",
+          "Liegt unmittelbar am Strand des Schwarzen Meeres.",
+          "Täglicher Durchgang von tausenden LKWs und Pendlern.",
+          "Haupteintrittstor für Waren aus der Europäischen Union via Türkei.",
+          "Befindet sich am südlichen Ende der georgischen Fernstraße S2."
+        ],
+        "hu": [
+          "Grúzia legfontosabb és legforgalmasabb közúti határátkelője.",
+          "Jürgen Mayer H. berlini építész futurisztikus épülete fémjelzi.",
+          "Közvetlenül a Fekete-tenger partján, strandok mellett fekszik.",
+          "A Törökországba irányuló grúz export fő útvonala.",
+          "Egykor a szovjet-török vasfüggöny egyik ellenőrző pontja volt.",
+          "A Batumi és Trabzon közötti intenzív személyforgalom csomópontja."
+        ],
+        "ro": [
+          "Cel mai activ punct de frontieră terestră din întreaga Georgie.",
+          "Clădirea vămii este o capodoperă a arhitecturii contemporane.",
+          "Amplasat strategic pe ruta europeană E70, direct pe litoral.",
+          "Principalul canal de export pentru produsele agricole georgiene.",
+          "Asigură conexiunea rutieră directă cu marile porturi turcești.",
+          "Zonă de tranzit majoră pentru turiștii care vizitează regiunea Adjara."
+        ],
+        "en": [
+          "Primary land border crossing between Georgia and Turkey.",
+          "Features an award-winning futuristic design by architect Jürgen Mayer H.",
+          "Uniquely situated directly on the Black Sea shoreline.",
+          "Handles the highest volume of trade goods in the country.",
+          "A historic Cold War flashpoint between NATO and the USSR.",
+          "Key node on the S2 highway connecting Batumi to the Turkish border."
+        ]
+      }
+    },
+    {
+      "id": "lilo-city-market-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Lilo City Markt ist das größte Handelszentrum und der bedeutendste Großhandelsknotenpunkt Georgiens, gelegen am östlichen Stadtrand von Tiflis nahe dem internationalen Flughafen. Geografisch erstreckt sich der Markt über eine Fläche von rund 35 Hektar und fungiert als logistisches Bindeglied zwischen den Importrouten aus Asien und dem Binnenmarkt. Historisch entwickelte sich Lilo aus einem bescheidenen Marktplatz der frühen 1990er Jahre zu einer gigantischen 'Handelsstadt' mit über 6.000 Geschäften. Ökonomisch ist Lilo der Motor des georgischen Re-Exports; Waren aus China, der Türkei und Dubai werden hier gesammelt und in den gesamten Kaukasus sowie nach Zentralasien weiterverteilt. Für tausende Kleinhändler aus Georgien, Armenien und Aserbaidschan ist der Markt die primäre Einkaufsquelle. Technisch gesehen verfügt das Areal über eine eigene Zollstation und umfangreiche Lagerkapazitäten, was die Abwicklung großer Importchargen vereinfacht. Ökologisch stellt die Logistik und Abfallentsorgung eines derart massiven Marktes eine Herausforderung für die Stadtverwaltung dar. Lilo City ist ein Spiegelbild des georgischen Unternehmertums und ein zentrales Element der nationalen Handelsbilanz, das tief in die regionalen Wertschöpfungsketten integriert ist.",
+        "hu": "A Lilo City piac Grúzia legnagyobb kereskedelmi központja és legjelentősebb nagykereskedelmi csomópontja, amely Tbiliszi keleti szélén, a nemzetközi repülőtér közelében található. Földrajzilag a piac mintegy 35 hektáron terül el, és logisztikai kapocsként szolgál az Ázsiából érkező importútvonalak és a belföldi piac között. Történelmileg Lilo az 1990-es évek elejének szerény piacteréből fejlődött ki egy gigantikus „kereskedővárossá”, ahol ma több mint 6000 üzlet működik. Gazdaságilag Lilo a grúz reexport motorja; a Kínából, Törökországból és Dubajból származó árukat itt gyűjtik össze, majd terítik tovább az egész Kaukázusban és Közép-Ázsiában. Grúzia, Örményország és Azerbajdzsán több ezer kiskereskedője számára ez a piac az elsődleges beszerzési forrás. Technikai szempontból a terület saját vámállomással és kiterjedt raktárkapacitással rendelkezik, ami leegyszerűsíti a nagy importszállítmányok kezelését. Ökológiailag egy ekkora méretű piac logisztikája és hulladékkezelése komoly kihívást jelent a városvezetésnek. A Lilo City a grúz vállalkozó szellem tükörképe és a nemzeti külkereskedelmi mérleg központi eleme, amely mélyen beágyazódott a regionális értékláncokba.",
+        "ro": "Piața Lilo City este cel mai mare centru comercial și principalul nod angro din Georgia, situat la periferia estică a capitalei Tbilisi, lângă aeroportul internațional. Din punct de vedere geografic, piața se întinde pe o suprafață de aproximativ 35 de hectare, funcționând ca o verigă logistică între rutele de import din Asia și piața internă. Istoric, Lilo a evoluat de la o piață modestă la începutul anilor '90 la un „oraș comercial” gigantic, cu peste 6.000 de puncte de vânzare. Economic, Lilo este motorul re-exportului georgian; mărfurile din China, Turcia și Dubai sunt colectate aici și redistribuite în tot Caucazul și Asia Centrală. Pentru mii de mici comercianți din Georgia, Armenia și Azerbaidjan, această piață reprezintă sursa primară de aprovizionare. Din punct de vedere tehnic, incinta dispune de un terminal vamal propriu și capacități vaste de depozitare, facilitând procesarea loturilor mari de marfă. Ecologic, gestionarea deșeurilor și logistica transporturilor pentru un sit de asemenea dimensiuni reprezintă o provocare constantă pentru autoritățile locale. Lilo City reflectă dinamismul antreprenorial georgian și este un element central al balanței comerciale naționale.",
+        "en": "Lilo City Market is Georgia's largest commercial complex and its premier wholesale hub, situated on the eastern outskirts of Tbilisi near the international airport. Geographically, the market sprawls across approximately 35 hectares, acting as a logistics bridge between Asian import routes and the domestic market. Historically, Lilo evolved from a modest marketplace in the early 1990s into a massive 'commercial city' now hosting over 6,000 individual shops. Economically, Lilo is the engine of Georgian re-exports; goods from China, Turkey, and Dubai are consolidated here and redistributed throughout the Caucasus and Central Asia. For thousands of small-scale retailers from Georgia, Armenia, and Azerbaijan, this market is the primary procurement source. Technically, the area features its own dedicated customs clearance zone and extensive warehouse facilities, simplifying the management of high-volume imports. Ecologically, the logistics and waste management of such a vast enterprise pose significant challenges for the municipal administration. Lilo City stands as a symbol of Georgian entrepreneurial spirit and a vital component of the national trade balance, deeply integrated into regional supply chains."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Freiluft-Großhandelsmarkt im Kaukasus-Raum.",
+          "Beherbergt mehr als 6.000 einzelne Einzelhandels- und Großhandelsgeschäfte.",
+          "Umfasst eine Gesamtfläche von über 350.000 Quadratmetern.",
+          "Verfügt über ein eigenes Zoll-Terminal für Importe aus Fernost.",
+          "Zentraler Versorgungsort für Kleinhändler aus ganz Georgien.",
+          "Wichtigster Umschlagplatz für Textilien, Elektronik und Haushaltswaren."
+        ],
+        "hu": [
+          "A Kaukázus régió legnagyobb szabadtéri nagykereskedelmi piaca.",
+          "Több mint 6000 különálló üzletnek és raktárnak ad otthont.",
+          "Teljes területe meghaladja a 350 000 négyzetmétert.",
+          "Saját vámudvarral rendelkezik a távol-keleti áruk fogadására.",
+          "Az egész Kaukázus és a Kaszpi-régió reexport központja.",
+          "Meghatározó szerepe van a grúz informális szektor foglalkoztatásában."
+        ],
+        "ro": [
+          "Cea mai mare piață angro de tip open-air din Caucaz.",
+          "Găzduiește peste 6.000 de comercianți individuali.",
+          "Suprafață totală de operare de peste 35 de hectare.",
+          "Include un terminal vamal integrat pentru eficientizarea importurilor.",
+          "Principalul punct de aprovizionare pentru micii afaceriști din Armenia.",
+          "Hub logistic major pentru textile, electronice și materiale de construcții."
+        ],
+        "en": [
+          "The largest open-air wholesale market in the Caucasus region.",
+          "Home to more than 6,000 individual retail and wholesale businesses.",
+          "Covers a total operational area exceeding 350,000 square meters.",
+          "Equipped with an on-site customs terminal for international freight.",
+          "A central distribution point for goods across Georgia and Armenia.",
+          "Vital economic engine for the region's re-export industry."
+        ]
+      }
+    },
+    {
+      "id": "borjomi-bottling-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Borjomi-Abfüllanlage ist das Herzstück der georgischen Getränkeindustrie und produziert eines der bekanntesten Exportgüter des Landes. Geografisch liegt die Anlage in der Kleinen Kaukasusregion im Kur-Flusstal, wo die artesischen Quellen vulkanischen Ursprungs aus Tiefen von bis zu 1.500 Metern entspringen. Historisch begann die industrielle Abfüllung bereits im Jahr 1890 unter der Schirmherrschaft des Hauses Romanow, was den Kurort Borjomi weltweit bekannt machte. Ökonomisch ist Borjomi heute die führende georgische Mineralwassermarke, die in über 40 Länder exportiert wird und einen wesentlichen Beitrag zum nationalen Bruttoinlandsprodukt leistet. Das Unternehmen IDS Borjomi Georgia betreibt zwei hochmoderne Abfüllanlagen, die mit modernster europäischer Technologie ausgestattet sind. Technisch wird die Reinheit des Wassers durch ein geschlossenes Rohrleitungssystem von den Quellen direkt in die Flaschen garantiert, wobei der natürliche Mineralgehalt streng überwacht wird. Ökologisch engagiert sich das Werk für den Schutz des Borjomi-Kharagauli-Nationalparks, um die langfristige Regenerationsfähigkeit der Quellen zu sichern. Die Anlage ist nicht nur ein Produktionsstandort, sondern auch ein Symbol für die Verbindung von georgischer Naturressource und modernem Industriemanagement.",
+        "hu": "A borzsomi palackozó üzem a grúz italipar szíve, és az ország egyik legismertebb exporttermékét állítja elő. Földrajzilag a Kis-Kaukázusban, a Kura-folyó völgyében található, ahol a vulkanikus eredetű artézi források akár 1500 méteres mélységből törnek fel. Történelmileg az ipari palackozás már 1890-ben megkezdődött a Romanov-ház védnöksége alatt, ami világszerte ismertté tette Borzsomi üdülővárosát. Gazdaságilag a Borjomi ma a vezető grúz ásványvízmárka, amelyet több mint 40 országba exportálnak, és jelentősen hozzájárul a nemzeti össztermékhez. Az IDS Borjomi Georgia vállalat két ultramodern palackozó üzemet működtet, amelyeket a legkorszerűbb európai technológiával szereltek fel. Technikai szempontból a víz tisztaságát egy zárt csővezeték-rendszer garantálja a forrásoktól közvetlenül a palackokig, miközben a természetes ásványianyag-tartalmat szigorúan ellenőrzik. Ökológiailag az üzem elkötelezett a Borzsomi-Haragauli Nemzeti Park védelme mellett, hogy biztosítsa a források hosszú távú regenerálódását. A létesítmény nem csupán termelési helyszín, hanem a grúz természeti erőforrások és a modern ipari menedzsment összekapcsolódásának szimbóluma.",
+        "ro": "Fabrica de îmbuteliere Borjomi este inima industriei băuturilor din Georgia, producând unul dintre cele mai emblematice bunuri de export ale țării. Geografic, unitatea de producție este situată în regiunea Caucazul Mic, în valea râului Kura, unde izvoarele arteziene de origine vulcanică țâșnesc de la adâncimi de până la 1.500 de metri. Istoric, îmbutelierea industrială a început în 1890 sub patronajul Casei Romanov, transformând stațiunea Borjomi într-o destinație celebră la nivel mondial. Economic, Borjomi este astăzi principala marcă de apă minerală din Georgia, fiind exportată în peste 40 de țări și contribuind semnificativ la PIB-ul național. Compania IDS Borjomi Georgia operează două fabrici moderne, dotate cu tehnologie europeană de ultimă oră. Din punct de vedere tehnic, puritatea apei este garantată printr-un sistem de conducte închise care fac legătura între sursă și liniile de îmbuteliere, monitorizând constant compoziția minerală naturală. Ecologic, fabrica investește în conservarea Parcului Național Borjomi-Kharagauli pentru a asigura sustenabilitatea pe termen lung a acviferelor. Fabrica nu este doar o unitate industrială, ci și un simbol al succesului Georgiei în valorificarea resurselor naturale pe piața globală.",
+        "en": "The Borjomi Bottling Plant is the centerpiece of Georgia’s beverage industry, producing one of the country’s most world-renowned export products. Geographically, the plant is nestled in the Lesser Caucasus within the Kura River valley, where artesian springs of volcanic origin rise from depths of up to 1,500 meters. Historically, industrial bottling began in 1890 under the patronage of the Romanov dynasty, which brought global fame to the resort town of Borjomi. Economically, Borjomi is now Georgia's leading mineral water brand, exported to over 40 countries and serving as a major contributor to the national GDP. IDS Borjomi Georgia operates two state-of-the-art bottling facilities equipped with the latest European technology. Technically, water purity is ensured through a closed-loop piping system that transports water directly from the springs to the bottles, with the natural mineral content under constant scientific monitoring. Ecologically, the plant is actively involved in the preservation of the surrounding Borjomi-Kharagauli National Park to ensure the long-term sustainability of the aquifers. The facility stands as a symbol of the harmonious integration between Georgia’s natural riches and modern industrial excellence."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Georgiens bekannteste Exportmarke seit über 130 Jahren.",
+          "Mineralwasser wird aus artesischen Quellen in 1.500 m Tiefe gewonnen.",
+          "Abfüllung erfolgt in zwei modernen Werken in Borjomi.",
+          "Exportiert in über 40 Länder weltweit, inkl. EU und USA.",
+          "Eigentum von IDS Borjomi Georgia, einem führenden Getränkekonzern.",
+          "Gilt aufgrund des hohen Mineralgehalts als Heilwasser."
+        ],
+        "hu": [
+          "Grúzia legismertebb globális márkája több mint 130 éve.",
+          "Az ásványvíz 1500 méter mély vulkanikus rétegekből származik.",
+          "Két modern gyáregységben zajlik a palackozás Borzsomi városában.",
+          "A világ több mint 40 országába exportálják a terméket.",
+          "A vállalat jelentős szerepet vállal a helyi ökoturizmus támogatásában.",
+          "Magas ásványianyag-tartalma miatt gyógyvízként is elismert."
+        ],
+        "ro": [
+          "Cea mai cunoscută marcă de export a Georgiei la nivel global.",
+          "Apa minerală este extrasă din acvifere vulcanice de mare adâncime.",
+          "Include două fabrici de îmbuteliere ultramoderne în regiune.",
+          "Prezentă pe piețele din peste 40 de țări de pe patru continente.",
+          "Motor economic major pentru regiunea Samtskhe-Javakheti.",
+          "Utilizată istoric în scopuri balneare și terapeutice în tot Caucazul."
+        ],
+        "en": [
+          "Georgia's premier international export brand since 1890.",
+          "Sourced from volcanic artesian springs up to 1.500 meters deep.",
+          "Operates through two highly automated production plants in Borjomi.",
+          "Distributes mineral water to more than 40 countries globally.",
+          "Owned and managed by IDS Borjomi Georgia.",
+          "Famous for its high mineral concentration and health benefits."
+        ]
+      }
+    }
+  ]
+}

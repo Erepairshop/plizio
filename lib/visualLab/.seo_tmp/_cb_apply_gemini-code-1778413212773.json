@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mont-dir-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Dir ist eine markante geografische Erhebung im nördlichen Teil der Zentralafrikanischen Republik. Geografisch erhebt sich der Berg aus den weiten, extrem trockenen Sahel-Savannen, die die nördlichen Präfekturen des Landes dominieren. Die felsigen Hänge des Mont Dir sind mit spärlicher Dornbuschvegetation bedeckt, die den langen und intensiven Trockenzeiten standhält. Wirtschaftlich ist die Region um den Mont Dir vollständig von jeglicher formellen Infrastruktur abgeschnitten. Es gibt keine asphaltierten Straßen, keine industriellen Anlagen und absolut keinen Tourismus. Die stark verstreute lokale Bevölkerung ist exklusiv auf nomadische Viehwirtschaft und einfache Subsistenzlandwirtschaft am Fuß des Berges angewiesen. Historisch gesehen bot die erhöhte Position des Mont Dir einen strategischen Aussichtspunkt für Handelskarawanen und leider auch für bewaffnete Gruppen. Heute leidet das Gebiet unter einem massiven Mangel an staatlicher Autorität, was es zu einer reinen Transitzone für grenzüberschreitende Schmuggelnetzwerke und schwer bewaffnete Wilderer macht. Das raue Klima und die Instabilität verhindern jede wirtschaftliche Entwicklung.",
+        "hu": "A Mont Dir egy kiemelkedő földrajzi magaslat a Közép-afrikai Köztársaság északi részén. Földrajzilag a hegy a hatalmas, rendkívül száraz Száhel-szavannákból emelkedik ki, amelyek az ország északi prefektúráit uralják. A Mont Dir sziklás lejtőit ritkás tövises cserjés növényzet borítja, amely túléli a hosszú és intenzív száraz évszakokat. Gazdasági szempontból a Mont Dir körüli régió teljesen mentes minden formális infrastruktúrától. Nincsenek aszfaltozott utak, nincsenek ipari létesítmények, és egyáltalán nincs turizmus. Az erősen szétszórt helyi lakosság kizárólag a nomád pásztorkodásra és a hegy lábánál folytatott egyszerű önellátó mezőgazdaságra támaszkodik. Történelmileg a Mont Dir magaslati fekvése stratégiai kilátópontot biztosított a kereskedelmi karavánok és sajnos a fegyveres csoportok számára is. Ma a terület az állami tekintély súlyos hiányától szenved, ami a határokon átnyúló csempészhálózatok és az állig felfegyverzett orvvadászok tranzitzónájává teszi. A zord éghajlat és az instabilitás minden gazdasági fejlődést megakadályoz.",
+        "ro": "Mont Dir este o altitudine geografică proeminentă în partea de nord a Republicii Centrafricane. Geografic, muntele se ridică din savanele vaste și extrem de uscate din Sahel care domină prefecturile nordice ale țării. Pantele stâncoase ale Mont Dir sunt acoperite cu vegetație rară de tufișuri spinoase, care supraviețuiește sezoanelor lungi și intense și uscate. Din punct de vedere economic, regiunea din jurul Mont Dir este complet lipsită de orice infrastructură formală. Nu există drumuri asfaltate, nici instalații industriale și absolut niciun turism. Populația locală foarte dispersată se bazează exclusiv pe păstoritul nomad și pe o agricultură de subzistență simplă la poalele muntelui. Din punct de vedere istoric, poziția ridicată a Mont Dir a oferit un punct de observație strategic pentru caravanele comerciale și pentru grupurile armate. Astăzi, zona suferă de o lipsă severă a autorității statale, ceea ce o face o zonă de tranzit pentru rețelele de contrabandă transfrontaliere și braconierii puternic înarmați.",
+        "en": "Mont Dir is a prominent geographical elevation in the northern part of the Central African Republic. Geographically, the mountain rises from the vast, extremely dry Sahelian savannas that heavily dominate the northern prefectures. The rocky slopes of Mont Dir are covered with sparse thorn bush vegetation, which survives the long and intense dry seasons. Economically, the region around Mont Dir is completely devoid of any formal infrastructure. There are no paved roads, no industrial facilities, and absolutely no tourism. The highly dispersed local population relies exclusively on nomadic pastoralism and basic subsistence farming at the foot of the mountain. Historically, the elevated position of Mont Dir provided a vital strategic vantage point for trading caravans and, unfortunately, for armed groups. Today, the area suffers from a severe lack of state authority, making it a transit zone for cross-border smuggling networks and heavily armed poachers. The harsh climate and political instability severely hinder any potential economic development in this isolated region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Mont Dir liegt in den extrem trockenen nördlichen Savannen.",
+          "Er bietet einen strategisch sehr wichtigen Aussichtspunkt.",
+          "Die Region hat absolut keine formelle wirtschaftliche Infrastruktur.",
+          "Nomaden nutzen die Flächen am Berg als raues Weideland.",
+          "Bewaffnete Schmuggler durchqueren das Gebiet völlig unkontrolliert."
+        ],
+        "hu": [
+          "A Mont Dir a rendkívül száraz északi szavannák területén fekszik.",
+          "A magaslat történelmileg nagyon fontos stratégiai kilátópont.",
+          "A régióban egyáltalán nincs formális gazdasági infrastruktúra.",
+          "A nomád pásztorok a hegy lábát zord legelőként hasznosítják.",
+          "Fegyveres csempészek teljesen ellenőrizetlenül haladnak át itt."
+        ],
+        "ro": [
+          "Mont Dir este situat în savanele nordice extrem de uscate.",
+          "Muntele oferă un punct de observație strategic foarte important.",
+          "Regiunea nu are absolut nicio infrastructură economică formală.",
+          "Păstorii nomazi folosesc zonele montane ca pășuni aspre.",
+          "Contrabandiștii înarmați traversează zona complet necontrolat."
+        ],
+        "en": [
+          "Mont Dir is located in the extremely dry northern savannas.",
+          "The mountain provides a highly important strategic vantage point.",
+          "The region has absolutely no formal economic infrastructure.",
+          "Nomadic herders utilize the mountain areas as rough grazing land.",
+          "Heavily armed smugglers cross the territory completely unchecked."
+        ]
+      }
+    },
+    {
+      "id": "mont-gounda-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Gounda ist eine raue geologische Formation in der Präfektur Bamingui-Bangoran im Norden der Zentralafrikanischen Republik. Der Berg beeinflusst die lokale Hydrologie massiv, indem er die saisonalen Niederschläge in das umgebende Gounda-Flusssystem leitet, was für das Ökosystem der Region lebenswichtig ist. Geografisch ist das Gebiet durch einen Übergang von bewaldeten Savannen zu trockenen Ebenen gekennzeichnet. Wirtschaftlich ist das Gebiet um den Mont Gounda völlig marginalisiert. Formelle Beschäftigung existiert hier nicht, und die wenigen lokalen Gemeinschaften sind vollständig von Jagd, Sammeln und minimaler Subsistenzlandwirtschaft abhängig. Historisch gesehen war die Region Teil eines sehr reichen Wildtierkorridors, aber jahrzehntelange politische Instabilität hat es organisierten Wilderer-Syndikaten ermöglicht, die Tierpopulationen drastisch zu dezimieren. Die Höhlen und felsigen Vorsprünge des Berges dienen oft als temporäre Unterstände für nomadische Hirten und gelegentlich für bewaffnete Rebellenfraktionen. Der Mangel an jeglicher Basisinfrastruktur sorgt dafür, dass die Region in tiefer Armut gefangen bleibt.",
+        "hu": "A Mont Gounda egy zord geológiai képződmény a Bamingui-Bangoran prefektúrában, a Közép-afrikai Köztársaság északi részén. A hegy masszívan befolyásolja a helyi hidrológiát azáltal, hogy a szezonális csapadékot a környező Gounda folyórendszerbe vezeti, ami létfontosságú a régió ökoszisztémája számára. Földrajzilag a területet a fás szavannák és a száraz síkságok közötti átmenet jellemzi. Gazdasági szempontból a Mont Gounda környéke teljesen marginalizálódott. Formális foglalkoztatás itt nem létezik, és a kevés helyi közösség teljes mértékben a vadászattól, a gyűjtögetéstől és a minimális önellátó gazdálkodástól függ. Történelmileg a régió egy nagyon gazdag vadvilági folyosó része volt, de az évtizedes politikai instabilitás lehetővé tette a szervezett orvvadász szindikátusok számára, hogy drasztikusan megtizedeljék az állatállományt. A hegy barlangjai és sziklás kiszögellései gyakran szolgálnak ideiglenes menedékként a nomád pásztorok és alkalmanként a fegyveres lázadó frakciók számára. Az alapvető infrastruktúra hiánya miatt a régió mélyszegénységben marad.",
+        "ro": "Mont Gounda este o formațiune geologică accidentată în prefectura Bamingui-Bangoran din nordul Republicii Centrafricane. Muntele influențează masiv hidrologia locală prin direcționarea precipitațiilor sezoniere în sistemul fluvial Gounda înconjurător, ceea ce este vital pentru ecosistemul regiunii. Geografic, zona este caracterizată printr-o tranziție de la savane împădurite la câmpii uscate. Economic, zona din jurul Mont Gounda este complet marginalizată. Nu există locuri de muncă formale aici, iar puținele comunități locale depind în întregime de vânătoare, culegere și agricultura minimă de subzistență. Istoric, regiunea a făcut parte dintr-un coridor foarte bogat de animale sălbatice, dar deceniile de instabilitate politică au permis sindicatelor organizate de braconieri să decimeze drastic populațiile de animale. Peșterile și aflorimentele stâncoase ale muntelui servesc adesea drept adăposturi temporare pentru păstorii nomazi și uneori pentru facțiunile rebele armate. Lipsa oricărei infrastructuri de bază asigură menținerea regiunii în sărăcie.",
+        "en": "Mont Gounda is a rugged geological formation located in the Bamingui-Bangoran prefecture in the northern Central African Republic. The mountain heavily influences the local hydrology by directing seasonal rainfall into the surrounding Gounda river system, which is absolutely vital for the region's ecosystem. Geographically, the area is characterized by a transition from wooded savannas to arid plains. Economically, the Mont Gounda area is entirely marginalized. Formal employment is non-existent, and the sparse local communities depend entirely on hunting, gathering, and minimal subsistence agriculture. Historically, the region was part of a very rich wildlife corridor, but decades of political instability have allowed organized poaching syndicates to drastically decimate the animal populations. The mountain's caves and rocky outcrops frequently serve as temporary shelters for nomadic herders and occasionally for armed rebel factions operating outside the central government's control. The total lack of basic infrastructure ensures the region remains locked in deep poverty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Gounda leitet Niederschläge in das Gounda-Flusssystem.",
+          "Das Berggebiet liegt im Norden im Bereich der Savannen.",
+          "Es gibt hier keinerlei formelle wirtschaftliche Arbeitsplätze.",
+          "Der Berg war früher Teil eines sehr reichen Wildtierkorridors.",
+          "Die Felshöhlen bieten Rebellen und Nomaden temporären Schutz."
+        ],
+        "hu": [
+          "A Mont Gounda a csapadékot a Gounda folyórendszerbe vezeti.",
+          "A hegyvidék északon, a fás szavannák övezetében található.",
+          "Itt egyáltalán nem léteznek formális gazdasági munkahelyek.",
+          "A hegy korábban egy nagyon gazdag vadvilági folyosó része volt.",
+          "A sziklabarlangok lázadóknak és nomádoknak nyújtanak menedéket."
+        ],
+        "ro": [
+          "Mont Gounda direcționează precipitațiile în sistemul Gounda.",
+          "Zona montană este situată în nord, în zona savanelor.",
+          "Nu există absolut deloc locuri de muncă economice formale aici.",
+          "Muntele făcea parte anterior dintr-un coridor de faună bogat.",
+          "Peșterile de stâncă oferă refugiu temporar rebelilor și nomazilor."
+        ],
+        "en": [
+          "Mont Gounda heavily directs rainfall into the Gounda river system.",
+          "The mountain area is located in the north within the savanna zone.",
+          "There are absolutely no formal economic employment opportunities here.",
+          "The mountain was formerly part of a very rich wildlife corridor.",
+          "The rock caves offer temporary shelter to rebels and nomadic herders."
+        ]
+      }
+    },
+    {
+      "id": "mont-kounkou-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Kounkou repräsentiert eine markante topografische Erhebung im östlichen Hochland der Zentralafrikanischen Republik. Die Geologie des Berges besteht primär aus altem Granitgestein, das durch jahrhundertelange tropische Niederschläge extrem stark erodiert wurde. Die Hänge unterstützen ein dichtes Netzwerk von Galeriewäldern, die ein wichtiges Mikroklima für die lokale Flora und Fauna bieten. Wirtschaftlich ist der Mont Kounkou vollständig vom nationalen Markt isoliert. Die absolute Abwesenheit von Verkehrsinfrastruktur bedeutet, dass die lokalen Bauern ihre bescheidenen Ernten aus Maniok und Sorghum nicht über ihre unmittelbaren Dörfer hinaus verkaufen können. Historisch gesehen bot das raue Gelände des Mont Kounkou indigenen Stämmen natürlichen Schutz, als sie vor regionalen Konflikten und Sklavenüberfällen flohen. In der modernen Ära hat diese extreme Isolation den Berg und seine umliegenden Wälder zu einem sicheren Hafen für grenzüberschreitende Milizen und Schmuggler gemacht. Die Zentralregierung hat hier praktisch keine Präsenz, sodass die Bevölkerung in einem ressourcenarmen Umfeld allein ums Überleben kämpfen muss.",
+        "hu": "A Mont Kounkou egy markáns topográfiai kiemelkedés a Közép-afrikai Köztársaság keleti fennsíkján. A hegy geológiája elsősorban ősi gránitkőzetből áll, amelyet a több évszázados trópusi csapadék rendkívül erősen erodált. A lejtőkön a galériaerdők sűrű hálózata található, amely fontos mikroklímát biztosít a helyi növény- és állatvilág számára. Gazdasági szempontból a Mont Kounkou teljesen el van szigetelve a nemzeti piactól. A közlekedési infrastruktúra abszolút hiánya azt jelenti, hogy a helyi gazdák szerény manióka- és ciroktermésüket nem tudják a közvetlen falvaikon túl értékesíteni. Történelmileg a Mont Kounkou zord terepe természetes védelmet nyújtott az őslakos törzseknek, amikor a regionális konfliktusok és rabszolgavadászok elől menekültek. A modern korban ez az extrém elszigeteltség a hegyet és a környező erdőket a határokon átnyúló milíciák és csempészek biztonságos menedékévé tette. A központi kormánynak itt gyakorlatilag nincs jelenléte, így a lakosságnak egyedül kell megküzdenie a túlélésért egy erőforrásokban szegény környezetben.",
+        "ro": "Mont Kounkou reprezintă o proeminență topografică distinctă în zonele înalte de est ale Republicii Centrafricane. Geologia muntelui constă în primul rând din rocă de granit antică, care a fost extrem de erodată de secolele de precipitații tropicale. Pantele susțin o rețea densă de păduri de galerie care oferă un microclimat important pentru flora și fauna locală. Din punct de vedere economic, Mont Kounkou este complet izolat de piața națională. Absența absolută a infrastructurii de transport înseamnă că fermierii locali nu își pot vinde recoltele modeste de manioc și sorg dincolo de satele lor imediate. Istoric, terenul accidentat al Mont Kounkou a oferit triburilor indigene protecție naturală atunci când fugeau de conflictele regionale și raidurile sclavilor. În era modernă, această izolare extremă a transformat muntele și pădurile înconjurătoare într-un refugiu sigur pentru milițiile transfrontaliere și contrabandiști. Guvernul central nu are practic nicio prezență aici.",
+        "en": "Mont Kounkou represents a distinct topographical feature in the eastern highlands of the Central African Republic. The mountain's geology consists primarily of ancient granite rock, heavily eroded by centuries of intense tropical rainfall. The slopes support a dense network of gallery forests that provide a highly critical microclimate for local flora and fauna. Economically, Mont Kounkou is completely isolated from the national market. The absolute absence of transport infrastructure means that local farmers cannot sell their modest harvests of cassava and sorghum beyond their immediate villages. Historically, the extremely rugged terrain of Mont Kounkou offered natural protection to indigenous tribes fleeing regional conflicts and historical slave raids. In the modern era, this extreme isolation has made the mountain and its surrounding forests a safe haven for cross-border militias and armed smugglers. The central government has virtually no presence here, leaving the local population to manage their own survival alone in a highly volatile and resource-scarce environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Kounkou ist ein stark erodierter Granitberg im Osten.",
+          "Das Bergklima unterstützt ein wichtiges Galeriewald-System.",
+          "Es gibt absolut keine Straßenverbindung zum nationalen Markt.",
+          "Historisch bot der Berg Schutz vor brutalen Sklavenjägern.",
+          "Heute nutzen Schmuggler die extreme Isolation als Versteck."
+        ],
+        "hu": [
+          "A Mont Kounkou egy erősen erodált gránithegy keleten.",
+          "A hegyi éghajlat egy nagyon fontos galériaerdő-rendszert támogat.",
+          "Egyáltalán nincs kiépített közúti kapcsolat a nemzeti piachoz.",
+          "Történelmileg a hegy védelmet nyújtott a rabszolgavadászok ellen.",
+          "Ma a fegyveres csempészek rejtekhelyként használják a területet."
+        ],
+        "ro": [
+          "Mont Kounkou este un munte de granit puternic erodat în est.",
+          "Climatul montan susține un sistem important de păduri de galerie.",
+          "Nu există absolut nicio conexiune rutieră cu piața națională.",
+          "Istoric, muntele a oferit protecție împotriva vânătorilor de sclavi.",
+          "Astăzi, contrabandiștii folosesc izolarea extremă ca ascunzătoare."
+        ],
+        "en": [
+          "Mont Kounkou is a heavily eroded granite mountain in the east.",
+          "The mountain climate supports an important gallery forest system.",
+          "There is absolutely no road connection to the formal national market.",
+          "Historically, the mountain offered protection against slave raiders.",
+          "Today, armed smugglers utilize the extreme isolation as a hideout."
+        ]
+      }
+    },
+    {
+      "id": "obo-wald-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Obo-Wald ist eine massive, dichte Fläche tropischen Regenwaldes in der Präfektur Haut-Mbomou im äußersten Südosten der Zentralafrikanischen Republik. Geografisch bildet dieser Wald eine natürliche Grenze zum Südsudan und zur Demokratischen Republik Kongo. Das Ökosystem ist unglaublich reich an Biodiversität, mit dichten Baumkronen und ausgedehnten Flussnetzen. Wirtschaftlich gesehen gibt es im Obo-Wald aufgrund seiner extremen geografischen Isolation keinerlei formelle industrielle Abholzung oder kommerzielle Landwirtschaft. Die lokale Bevölkerung überlebt durch traditionelle Jagd, Sammeln und kleinbäuerlichen Anbau. Historisch und aktuell ist der Obo-Wald international als wichtigste Operationsbasis und Zufluchtsort für die Lord's Resistance Army (LRA) bekannt. Diese starke Militarisierung hat die lokalen Gemeinschaften völlig zerstört, Tausende zur Flucht gezwungen und den Zusammenbruch der regionalen Mikrowirtschaft verursacht. Die ständige Bedrohung durch bewaffnete Gewalt verhindert jegliche wissenschaftliche Erforschung oder potenziellen Ökotourismus in dieser tief bewaldeten, höchst unzugänglichen Region komplett.",
+        "hu": "Az Obo-erdő egy hatalmas, sűrű trópusi esőerdő a Haut-Mbomou prefektúrában, a Közép-afrikai Köztársaság legdélkeletibb részén. Földrajzilag ez az erdő természetes határt képez Dél-Szudánnal és a Kongói Demokratikus Köztársasággal. Az ökoszisztéma hihetetlenül gazdag biodiverzitásban, sűrű lombkoronákkal és kiterjedt folyóhálózatokkal rendelkezik. Gazdasági szempontból az Obo-erdőben az extrém földrajzi elszigeteltség miatt egyáltalán nincs formális ipari fakitermelés vagy kereskedelmi mezőgazdaság. A helyi lakosság hagyományos vadászattal, gyűjtögetéssel és kisüzemi gazdálkodással éli túl a mindennapokat. Történelmileg és jelenleg is az Obo-erdő nemzetközileg úgy ismert, mint a Lord's Resistance Army (LRA) nevű fegyveres csoport legfőbb műveleti bázisa és menedéke. Ez az erős militarizáció teljesen tönkretette a helyi közösségeket, ezreket kényszerített menekülésre, és a regionális mikrogazdaság teljes összeomlását okozta. A fegyveres erőszak állandó fenyegetése teljesen megakadályoz minden tudományos kutatást vagy potenciális ökoturizmust ebben a mélyen erdősült régióban.",
+        "ro": "Pădurea Obo este o întindere masivă și densă de pădure tropicală în prefectura Haut-Mbomou, în sud-estul extrem al Republicii Centrafricane. Geografic, această pădure formează o graniță naturală cu Sudanul de Sud și Republica Democratică Congo. Ecosistemul este incredibil de bogat în biodiversitate, având coronamente dense și rețele fluviale extinse. Din punct de vedere economic, nu există absolut nicio exploatare forestieră industrială formală sau agricultură comercială în Pădurea Obo din cauza izolării sale geografice extreme. Populația locală supraviețuiește prin vânătoare tradițională, culegere și agricultură la scară mică. Istoric și actual, Pădurea Obo este cunoscută la nivel internațional ca principala bază operațională și sanctuar pentru Lord's Resistance Army (LRA). Această militarizare puternică a devastat complet comunitățile locale, forțând mii de oameni să fugă și provocând colapsul microeconomiei. Amenințarea constantă a violenței armate previne explorarea științifică.",
+        "en": "The Obo Forest is a massive, dense expanse of tropical rainforest located in the Haut-Mbomou prefecture in the extreme southeast of the Central African Republic. Geographically, this forest forms a natural physical border with South Sudan and the Democratic Republic of Congo. The ecosystem is incredibly rich in biodiversity, featuring highly dense canopies and extensive river networks. Economically, the Obo Forest has absolutely zero formal industrial logging or commercial agriculture due to its extreme geographical isolation. The local population survives strictly through traditional hunting, gathering, and small-scale farming. Historically and currently, the Obo Forest is internationally known as the primary operational base and sanctuary for the Lord's Resistance Army (LRA). This heavy militarization has completely devastated the local communities, forcing thousands to flee and causing the total collapse of the regional micro-economy. The constant threat of armed violence completely prevents any scientific exploration or potential eco-tourism in this deeply forested, highly inaccessible region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Obo-Wald ist ein riesiger Regenwald im tiefen Südosten.",
+          "Das Gebiet bildet die natürliche Grenze zur DR Kongo.",
+          "Wegen der extremen Isolation gibt es hier keinerlei Industrie.",
+          "Der Wald ist international als primäres LRA-Versteck bekannt.",
+          "Bewaffnete Gewalt verhindert jegliche wissenschaftliche Forschung."
+        ],
+        "hu": [
+          "Az Obo-erdő egy hatalmas esőerdő az ország mély délkeleti részén.",
+          "A terület természetes, áthatolhatatlan határt képez a Kongói DK-val.",
+          "Az extrém elszigeteltség miatt itt abszolút semmilyen ipar nem létezik.",
+          "Az erdő nemzetközileg az LRA lázadóinak elsődleges rejtekhelyeként ismert.",
+          "A fegyveres erőszak teljesen meggátol mindenféle tudományos kutatást."
+        ],
+        "ro": [
+          "Pădurea Obo este o pădure tropicală uriașă în sud-estul profund.",
+          "Zona formează granița naturală cu Republica Democratică Congo.",
+          "Datorită izolării extreme, nu există absolut nicio industrie aici.",
+          "Pădurea este cunoscută la nivel internațional ca ascunzătoarea LRA.",
+          "Violența armată constantă previne complet orice cercetare științifică."
+        ],
+        "en": [
+          "The Obo Forest is a massive rainforest in the deep southeast.",
+          "The forested area forms the natural border with the DR Congo.",
+          "Due to extreme isolation, there is absolutely no industry here.",
+          "The forest is internationally known as the primary LRA hideout.",
+          "Constant armed violence completely prevents any scientific research."
+        ]
+      }
+    },
+    {
+      "id": "gamboula-wald-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Gamboula-Wald ist ein bedeutendes, dichtes Tropenwaldgebiet in der Präfektur Mambéré-Kadéï im Westen der Zentralafrikanischen Republik, direkt an der Grenze zu Kamerun. Geografisch zeichnet sich der Wald durch hohe Luftfeuchtigkeit, reiche Böden und ein komplexes Netz aus kleinen Flüssen aus. Wirtschaftlich wird der Gamboula-Wald stark für seine wertvollen Holz- und Mineralressourcen ausgebeutet. Internationale Holzunternehmen halten hier massive Konzessionen und exportieren rohe Hartholzstämme über die Grenze nach Kamerun. Zusätzlich sind die Flüsse des Waldes einem intensiven, unregulierten handwerklichen Diamantenabbau durch die lokale Bevölkerung ausgesetzt. Während diese extraktiven Industrien ein gewisses Bareinkommen bieten, verursachen sie gleichzeitig schwere Umweltschäden und massive Entwaldung. Historisch gesehen war der Wald die angestammte Heimat der indigenen Ba'Aka-Pygmäen, deren traditioneller Jäger-und-Sammler-Lebensstil durch den Verlust ihres natürlichen Lebensraums zunehmend bedroht ist. Die lokale Wirtschaft ist hochgradig volatil und wird engmaschig von informellen Handelsnetzwerken kontrolliert.",
+        "hu": "A Gamboula-erdő egy jelentős, sűrű trópusi erdőterület a Mambéré-Kadéï prefektúrában, a Közép-afrikai Köztársaság nyugati részén, közvetlenül a kameruni határnál. Földrajzilag az erdőt magas páratartalom, gazdag talajok és kisebb folyók összetett hálózata jellemzi. Gazdasági szempontból a Gamboula-erdőt erősen kiaknázzák értékes fa- és ásványkincsei miatt. Nemzetközi fakitermelő cégek hatalmas koncessziókat birtokolnak itt, és nyers keményfarönköket exportálnak a határon át Kamerunba. Emellett az erdő folyóit a helyi lakosság intenzív, szabályozatlan kézműves gyémántbányászatnak veti alá. Bár ezek a kitermelő iparágak némi készpénzbevételt biztosítanak, ugyanakkor súlyos környezetkárosodást és hatalmas erdőirtást okoznak. Történelmileg az erdő az őslakos ba'aka pigmeusok ősi otthona volt, akiknek hagyományos vadászó-gyűjtögető életmódját egyre inkább fenyegeti természetes élőhelyük elvesztése. A helyi gazdaság rendkívül ingatag, és szorosan ellenőrzik az informális kereskedelmi hálózatok.",
+        "ro": "Pădurea Gamboula este o zonă importantă de pădure tropicală densă în prefectura Mambéré-Kadéï, în vestul Republicii Centrafricane, direct la granița cu Camerun. Geografic, pădurea se caracterizează prin umiditate ridicată, soluri bogate și o rețea complexă de râuri mici. Economic, Pădurea Gamboula este puternic exploatată pentru resursele sale valoroase de lemn și minerale. Companiile internaționale de exploatare forestieră dețin concesiuni masive aici și exportă bușteni de lemn de esență tare brut peste graniță în Camerun. În plus, râurile pădurii sunt supuse unui minerit artizanal intens și nereglementat de diamante de către populația locală. Deși aceste industrii extractive oferă un anumit venit în numerar, ele provoacă în același timp daune ecologice severe și defrișări masive. Istoric, pădurea a fost căminul ancestral al pigmeilor indigeni Ba'Aka, al căror stil de viață tradițional de vânători-culegători este din ce în ce mai amenințat de pierderea habitatului lor. Economia locală este volatilă.",
+        "en": "The Gamboula Forest is a highly significant area of dense tropical rainforest situated in the Mambéré-Kadéï prefecture in the western Central African Republic, directly bordering Cameroon. Geographically, the forest is characterized by high humidity, very rich soils, and a complex network of small rivers. Economically, the Gamboula Forest is heavily exploited for its valuable timber and mineral resources. International logging companies hold massive concessions here, directly exporting raw hardwood logs across the border to Cameroon. Additionally, the forest's rivers are subjected to intense, completely unregulated artisanal diamond mining by the local population. While these highly extractive industries provide some immediate cash income, they simultaneously cause severe environmental degradation and widespread deforestation. Historically, the forest has been the ancestral home of the indigenous Ba'Aka pygmies, whose traditional hunter-gatherer lifestyle is increasingly threatened by the rapid loss of their natural habitat. The local economy is highly volatile and tightly controlled by informal trading networks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Gamboula-Wald liegt im Westen direkt an der Kamerun-Grenze.",
+          "Ausländische Firmen holzen hier massiv wertvolles Edelholz ab.",
+          "Die Flüsse im Wald werden für unregulierten Diamantenabbau genutzt.",
+          "Die indigene Ba'Aka-Bevölkerung verliert ihren angestammten Lebensraum.",
+          "Die Kombination aus Bergbau und Holzeinschlag zerstört den Wald."
+        ],
+        "hu": [
+          "A Gamboula-erdő nyugaton, közvetlenül a kameruni határnál fekszik.",
+          "Külföldi cégek itt tömegesen termelik ki az értékes nemesfákat.",
+          "Az erdő folyóit szabályozatlan kézműves gyémántbányászatra használják.",
+          "A helyi őslakos ba'aka nép gyorsan veszíti el ősi természetes élőhelyét.",
+          "A bányászat és a fakitermelés kombinációja teljesen elpusztítja az erdőt."
+        ],
+        "ro": [
+          "Pădurea Gamboula se află în vest, direct pe granița cu Camerun.",
+          "Companiile străine taie masiv lemn de esență tare prețios aici.",
+          "Râurile din pădure sunt folosite pentru mineritul nereglementat de diamante.",
+          "Populația indigenă Ba'Aka își pierde rapid habitatul ancestral.",
+          "Combinația de minerit și exploatare forestieră distruge pădurea."
+        ],
+        "en": [
+          "The Gamboula Forest is located in the west, directly bordering Cameroon.",
+          "Foreign logging companies massively extract highly valuable hardwood here.",
+          "The forest's rivers are heavily utilized for unregulated diamond mining.",
+          "The indigenous Ba'Aka population is rapidly losing its ancestral habitat.",
+          "The harsh combination of mining and logging completely destroys the forest."
+        ]
+      }
+    },
+    {
+      "id": "paoua-wald-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Paoua-Wald ist eine geografisch wichtige Waldregion in der Präfektur Ouham-Pendé im Nordwesten der Zentralafrikanischen Republik. Das Gebiet stellt eine kritische Übergangszone dar, in der die dichteren südlichen Wälder auf die trockeneren, offenen Savannen des Nordens treffen. Der Wald liefert essenzielle Ressourcen wie Brennholz, Heilpflanzen und Baumaterialien für die dicht besiedelten Agrargemeinschaften rund um die Stadt Paoua. Wirtschaftlich ist die Region stark vom Anbau von Baumwolle, Erdnüssen und Sorghum abhängig. Historisch gesehen war der Paoua-Wald jedoch ein trauriger Brennpunkt für schwere bewaffnete Konflikte. Seit dem Ausbruch des Bürgerkriegs wurde das dichte Waldgebiet häufig als taktisches Versteck von verschiedenen Rebellenfraktionen und bewaffneten Viehdieben genutzt. Diese andauernde Gewalt hat lokale Bauern wiederholt gezwungen, ihre Felder aufzugeben, was zu katastrophalen Einbrüchen in der lokalen Nahrungsmittelproduktion führte. Die ständige Unsicherheit behindert alle Bemühungen um eine nachhaltige Forstwirtschaft oder formelle wirtschaftliche Entwicklung erheblich.",
+        "hu": "A Paoua-erdő egy földrajzilag fontos erdős régió az Ouham-Pendé prefektúrában, a Közép-afrikai Köztársaság északnyugati részén. A terület egy kritikus átmeneti zónát képvisel, ahol a sűrűbb déli erdők találkoznak az északi szárazabb, nyílt szavannákkal. Az erdő alapvető erőforrásokat – tűzifát, gyógynövényeket és építőanyagokat – biztosít a Paoua városa körüli sűrűn lakott mezőgazdasági közösségek számára. Gazdasági szempontból a régió erősen függ a gyapot, a földimogyoró és a cirok termesztésétől. Történelmileg azonban a Paoua-erdő a súlyos fegyveres konfliktusok szomorú gyújtópontja volt. A polgárháború kitörése óta a sűrű erdőséget a különböző lázadó frakciók és fegyveres marhatolvajok gyakran használták taktikai búvóhelyként. Ez a folyamatos erőszak a helyi gazdákat ismételten arra kényszerítette, hogy feladják földjeiket, ami a helyi élelmiszertermelés katasztrofális összeomlásához vezetett. Az állandó bizonytalanság jelentősen akadályoz minden fenntartható erdőgazdálkodásra vagy formális gazdasági fejlesztésre irányuló törekvést.",
+        "ro": "Pădurea Paoua este o regiune împădurită vitală situată în prefectura Ouham-Pendé din nord-vestul Republicii Centrafricane. Geografic, zona reprezintă o zonă critică de tranziție unde pădurile sudice mai dense întâlnesc savanele mai uscate și deschise din nord. Pădurea oferă resurse esențiale, inclusiv lemn de foc, plante medicinale și materiale de construcție, pentru comunitățile agricole dens populate din jurul orașului Paoua. Economic, regiunea se bazează puternic pe cultivarea bumbacului, arahidelor și sorgului. Cu toate acestea, Pădurea Paoua a fost istoric un punct focal trist pentru conflicte armate severe. De la izbucnirea războiului civil, terenul dens împădurit a fost folosit frecvent ca ascunzătoare tactică de diverse facțiuni rebele și de hoții de vite înarmați. Această violență continuă a forțat în mod repetat fermierii locali să își abandoneze câmpurile, ducând la prăbușiri catastrofale ale producției locale de alimente. Insecuritatea împiedică managementul forestier.",
+        "en": "The Paoua Forest is a geographically vital wooded region located in the Ouham-Pendé prefecture in the northwest of the Central African Republic. Geographically, the area represents a highly critical transition zone where the denser southern forests meet the drier, open savannas of the north. The forest provides absolutely essential resources, including firewood, medicinal plants, and building materials, for the densely populated agricultural communities surrounding the city of Paoua. Economically, the region relies heavily on the local cultivation of cotton, peanuts, and sorghum. However, the Paoua Forest has historically been a tragic focal point for severe armed conflicts. Since the outbreak of the civil war, the dense woodland has frequently been utilized as a tactical hideout by various rebel factions and heavily armed cattle rustlers. This ongoing, brutal violence has repeatedly forced local farmers to completely abandon their fields, leading to catastrophic collapses in local food production. The constant insecurity severely hampers any efforts to establish sustainable forestry management or formal economic development in the area."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Paoua-Wald liegt im stark umkämpften Nordwesten der Republik.",
+          "Er markiert den ökologischen Übergang zur trockenen offenen Savanne.",
+          "Der Wald liefert essenzielles Brennholz für die lokale Bevölkerung.",
+          "Rebellengruppen nutzen das Unterholz oft als taktisches Versteck.",
+          "Gewalt zwingt Bauern oft zur Flucht und zerstört die Landwirtschaft."
+        ],
+        "hu": [
+          "A Paoua-erdő az ország harcok szabdalta északnyugati részén van.",
+          "Ez jelzi az ökológiai átmenetet a száraz, nyílt szavannák felé.",
+          "Az erdő alapvető tűzifát biztosít a helyi sűrű lakosság számára.",
+          "A lázadó csoportok nagyon gyakran használják az aljnövényzetet búvóhelyként.",
+          "Az erőszak gyakran menekülésre kényszeríti a gazdákat a földjeikről."
+        ],
+        "ro": [
+          "Pădurea Paoua este situată în nord-vestul puternic disputat al țării.",
+          "Marchează tranziția ecologică către savana deschisă și uscată.",
+          "Pădurea oferă lemn de foc absolut esențial populației locale.",
+          "Grupurile rebele folosesc adesea desișul ca ascunzătoare tactică.",
+          "Violența forțează adesea fermierii să fugă și distruge agricultura."
+        ],
+        "en": [
+          "The Paoua Forest is located in the heavily contested northwest of the country.",
+          "It distinctly marks the ecological transition toward the dry open savanna.",
+          "The forest supplies absolutely essential firewood for the local population.",
+          "Rebel groups frequently utilize the dense undergrowth as a tactical hideout.",
+          "Armed violence often forces farmers to flee and destroys local agriculture."
+        ]
+      }
+    },
+    {
+      "id": "mont-kaga-djir-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Kaga-Djir ist ein markanter Granit-Inselberg nahe der Stadt Kaga-Bandoro in der Präfektur Nana-Grébizi der Zentralafrikanischen Republik. Geografisch erhebt sich diese massive Felsformation abrupt aus der umgebenden flachen Savanne, dominiert die lokale Landschaft und dient als entscheidendes visuelles Wahrzeichen. Die felsigen Hänge des Mont Kaga-Djir unterstützen eine spezialisierte, trockenheitsresistente Vegetation. Wirtschaftlich hat der Berg selbst keine industrielle Nutzung, aber die umliegenden Ebenen werden intensiv als Weideland für Rinder sowie für den Anbau von Maniok und Hirse genutzt. Historisch boten die Höhlen und tiefen Felsspalten des Mont Kaga-Djir der lokalen Bevölkerung in Zeiten regionaler Konflikte strategischen Schutz. In den letzten Jahren war das Gebiet um den Berg stark umkämpft, da rivalisierende bewaffnete Milizen versuchten, die lukrativen Rinderhandelsrouten zu kontrollieren, die durch Kaga-Bandoro führen. Das völlige Fehlen staatlicher Sicherheit im Schatten des Berges hat das lokale Wirtschaftswachstum massiv erstickt und die Zivilbevölkerung Erpressung und Gewalt ausgesetzt.",
+        "hu": "A Mont Kaga-Djir egy feltűnő gránit szigethegy Kaga-Bandoro városa közelében, a Közép-afrikai Köztársaság Nana-Grébizi prefektúrájában. Földrajzilag ez a masszív sziklaképződmény hirtelen emelkedik ki a környező sík szavannából, uralja a helyi tájat, és meghatározó vizuális tájékozódási pontként szolgál. A Mont Kaga-Djir sziklás lejtői egy speciális, szárazságtűrő növényzetet tartanak fenn. Gazdasági szempontból magának a hegynek nincs ipari haszna, de a környező síkságokat intenzíven használják szarvasmarha-legelőként, valamint manióka és köles termesztésére. Történelmileg a Mont Kaga-Djir barlangjai és mély sziklahasadékai stratégiai védelmet nyújtottak a helyi lakosságnak a regionális konfliktusok idején. Az elmúlt években a hegy körüli terület heves harcok színtere volt, mivel az egymással rivalizáló fegyveres milíciák megpróbálták ellenőrzésük alá vonni a Kaga-Bandorón áthaladó jövedelmező szarvasmarha-kereskedelmi útvonalakat. Az állami biztonság teljes hiánya a hegy árnyékában tömegesen fojtotta el a helyi gazdasági növekedést, és zsarolásnak, valamint erőszaknak tette ki a polgári lakosságot.",
+        "ro": "Mont Kaga-Djir este un inselberg de granit proeminent situat lângă orașul Kaga-Bandoro în prefectura Nana-Grébizi din Republica Centrafricană. Geografic, această formațiune stâncoasă masivă se ridică brusc din savana plată înconjurătoare, dominând peisajul local și servind ca un punct de reper vizual crucial. Pantele stâncoase ale Mont Kaga-Djir susțin o vegetație specializată, rezistentă la secetă. Economic, muntele în sine nu are nicio utilizare industrială, dar câmpiile din jur sunt folosite intens ca pășuni pentru vite și pentru cultivarea maniocului și meiului. Istoric, peșterile și crevasele adânci ale Mont Kaga-Djir au oferit un adăpost strategic pentru populația locală în perioadele de conflict regional. În ultimii ani, zona din jurul muntelui a fost puternic disputată de milițiile armate rivale care urmăreau să controleze rutele profitabile de comerț cu vite care trec prin Kaga-Bandoro. Lipsa totală a securității statului a sufocat creșterea economică locală.",
+        "en": "Mont Kaga-Djir is a prominent granite inselberg located near the city of Kaga-Bandoro in the Nana-Grébizi prefecture of the Central African Republic. Geographically, this massive rock formation rises very abruptly from the surrounding flat savanna, dominating the local landscape and serving as a crucial visual landmark. The rocky slopes of Mont Kaga-Djir support highly specialized, drought-resistant vegetation. Economically, the mountain itself has absolutely no industrial use, but the surrounding plains are heavily utilized for cattle grazing and the cultivation of cassava and millet. Historically, the caves and deep rock crevices of Mont Kaga-Djir provided highly strategic shelter for local populations during times of regional conflict. In recent years, the area around the mountain has been fiercely contested by rival armed militias seeking to tightly control the lucrative cattle trade routes that pass through Kaga-Bandoro. The complete lack of state security in the shadow of the mountain has severely stifled local economic growth and left the civilian population highly vulnerable to extortion and armed violence."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Kaga-Djir ist ein steiler Granit-Inselberg nahe Kaga-Bandoro.",
+          "Er ragt abrupt und markant aus der umliegenden flachen Savanne auf.",
+          "Die Ebenen am Fuß des Berges werden für die Viehzucht genutzt.",
+          "Felshöhlen boten den Einheimischen historisch wichtigen Schutz.",
+          "Bewaffnete Gruppen kämpfen hier oft um Rinder-Handelsrouten."
+        ],
+        "hu": [
+          "A Mont Kaga-Djir egy meredek gránit szigethegy Kaga-Bandoro közelében.",
+          "Rendkívül hirtelen és markánsan emelkedik ki az őt körülvevő lapos szavannából.",
+          "A hegy lábánál fekvő hatalmas síkságokat szarvasmarha-tenyésztésre használják.",
+          "A sziklabarlangok történelmileg fontos védelmet nyújtottak a helyieknek.",
+          "Fegyveres csoportok gyakran harcolnak itt a marhakereskedelmi útvonalakért."
+        ],
+        "ro": [
+          "Mont Kaga-Djir este un inselberg abrupt de granit lângă Kaga-Bandoro.",
+          "Se înalță extrem de brusc și vizibil din savana plată înconjurătoare.",
+          "Câmpiile de la baza muntelui sunt folosite masiv pentru creșterea vitelor.",
+          "Peșterile de stâncă au oferit localnicilor protecție istorică importantă.",
+          "Grupurile armate luptă adesea aici pentru rutele de comerț cu vite."
+        ],
+        "en": [
+          "Mont Kaga-Djir is a steep granite inselberg physically near Kaga-Bandoro.",
+          "It rises very abruptly and prominently from the surrounding flat savanna.",
+          "The broad plains at the base of the mountain are utilized for cattle breeding.",
+          "The rock caves historically offered highly important protection for locals.",
+          "Armed groups frequently fight fiercely here over cattle trade routes."
+        ]
+      }
+    },
+    {
+      "id": "bimbo-wald-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bimbo-Wald ist eine stark degradierte peri-urbane Waldzone, die unmittelbar südwestlich der Hauptstadt Bangui in der Präfektur Ombella-M'Poko liegt. Geografisch erstreckt sich der Wald entlang der Ufer des Ubangi-Flusses und seiner Nebenflüsse. Wirtschaftlich ist der Bimbo-Wald enormem Druck durch die schnell wachsende Bevölkerung der Hauptstadt ausgesetzt. Er dient als primäre Quelle für Brennholz und Holzkohle, die die wichtigsten Energiequellen zum Kochen in Bangui darstellen. Tausende von Anwohnern verdienen ihren Lebensunterhalt damit, Bäume zu fällen und Holzkohle für den städtischen Markt zu produzieren. Diese unregulierte und intensive Ausbeutung hat zu massiver Entwaldung, Bodenerosion und dem Verlust der lokalen Biodiversität geführt. Historisch war das Gebiet von dichtem, unberührtem Regenwald bedeckt, aber die Zersiedelung und das Fehlen eines zuverlässigen nationalen Stromnetzes haben die Bevölkerung gezwungen, den Wald in einem nicht nachhaltigen Tempo zu verbrauchen. Der Bimbo-Wald veranschaulicht deutlich die direkten und zerstörerischen Auswirkungen von städtischer Armut auf die natürliche Umwelt.",
+        "hu": "A Bimbo-erdő egy erősen leromlott állapotú városkörnyéki (peri-urbán) erdőövezet, amely közvetlenül a fővárostól, Banguitól délnyugatra, az Ombella-M'Poko prefektúrában fekszik. Földrajzilag az erdő az Ubangi-folyó és mellékfolyóinak partja mentén terül el. Gazdasági szempontból a Bimbo-erdő hatalmas nyomásnak van kitéve a főváros gyorsan növekvő lakossága miatt. Ez az elsődleges forrása a tűzifának és a faszénnek, amelyek a főzéshez használt legfontosabb energiaforrások Banguiban. Helyi lakosok ezrei keresik a kenyerüket azzal, hogy fákat vágnak ki, és faszenet állítanak elő a városi piac számára. Ez a szabályozatlan és intenzív kizsákmányolás masszív erdőirtáshoz, talajerózióhoz és a helyi biodiverzitás elvesztéséhez vezetett. Történelmileg a területet sűrű, érintetlen esőerdő borította, de a városi terjeszkedés és a megbízható nemzeti villamosenergia-hálózat hiánya arra kényszerítette a lakosságot, hogy fenntarthatatlan ütemben élje fel az erdőt. A Bimbo-erdő világosan szemlélteti a városi szegénység természeti környezetre gyakorolt közvetlen és pusztító hatásait.",
+        "ro": "Pădurea Bimbo este o zonă forestieră peri-urbană puternic degradată, situată imediat la sud-vest de capitala Bangui, în prefectura Ombella-M'Poko. Geografic, pădurea se întinde de-a lungul malurilor fluviului Ubangi și ale afluenților săi. Economic, Pădurea Bimbo este supusă unei presiuni imense din partea populației în creștere rapidă a capitalei. Servește ca sursă principală de lemn de foc și cărbune, care sunt principalele surse de energie pentru gătit în Bangui. Mii de locuitori își câștigă existența tăind copaci și producând cărbune pentru piața urbană. Această exploatare nereglementată și intensă a dus la defrișări masive, eroziunea solului și pierderea biodiversității locale. Istoric, zona a fost acoperită de pădure tropicală densă și curată, dar expansiunea urbană și lipsa unei rețele naționale de electricitate fiabile au forțat populația să consume pădurea într-un ritm nesustenabil. Pădurea Bimbo ilustrează clar impactul direct și distructiv al sărăciei urbane asupra mediului.",
+        "en": "The Bimbo Forest is a highly degraded peri-urban forest zone located immediately southwest of the capital city, Bangui, in the Ombella-M'Poko prefecture. Geographically, the forest sits along the banks of the Ubangi River and its local tributaries. Economically, the Bimbo Forest is subjected to immense pressure from the rapidly expanding population of the capital. It serves as the absolute primary source of firewood and charcoal, which are the main energy sources for cooking in Bangui. Thousands of residents earn a meager living by cutting down trees and producing charcoal for the urban market. This completely unregulated and intense exploitation has led to severe deforestation, rapid soil erosion, and the massive loss of local biodiversity. Historically, the area was heavily covered by dense, pristine rainforest, but urban sprawl and the total lack of a reliable national electricity grid have forced the impoverished population to consume the forest at an entirely unsustainable rate. The Bimbo Forest clearly illustrates the direct and destructive impact of urban poverty and infrastructure deficits on the natural environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Wald liegt direkt am städtischen Rand der Hauptstadt Bangui.",
+          "Er wird massiv für die Produktion von Holzkohle abgeholzt.",
+          "Holzkohle ist die primäre Energiequelle zum Kochen in der Stadt.",
+          "Der Mangel an Strom zwingt die Menschen zur Waldzerstörung.",
+          "Massive Entwaldung hat hier zu starker Bodenerosion geführt."
+        ],
+        "hu": [
+          "Az erdő közvetlenül a főváros, Bangui városi peremén található.",
+          "A területet hatalmas mértékben irtják a faszén előállítása miatt.",
+          "A faszén a városi főzés abszolút elsődleges energiaforrása.",
+          "Az elektromos áram hiánya kényszeríti az embereket az erdőpusztításra.",
+          "A masszív erdőirtás rendkívül súlyos talajerózióhoz vezetett itt."
+        ],
+        "ro": [
+          "Pădurea este situată direct la marginea urbană a capitalei Bangui.",
+          "Este tăiată masiv pentru producția comercială de cărbune de lemn.",
+          "Cărbunele este sursa primară absolută de energie pentru gătit în oraș.",
+          "Lipsa de electricitate forțează oamenii să distrugă fizic pădurea.",
+          "Defrișările masive au dus la o eroziune extrem de severă a solului aici."
+        ],
+        "en": [
+          "The forest is located directly on the urban fringes of the capital, Bangui.",
+          "It is massively and rapidly logged for commercial charcoal production.",
+          "Charcoal serves as the absolute primary energy source for cooking in the city.",
+          "The total lack of electricity forces the local population to destroy the forest.",
+          "Massive unregulated deforestation has led to extremely severe soil erosion here."
+        ]
+      }
+    },
+    {
+      "id": "mont-kanza-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Kanza ist ein isolierter Berggipfel im östlichen Hochland der Zentralafrikanischen Republik. Geografisch ist der Berg durch steile, stark erodierte Felswände gekennzeichnet und wird an seiner Basis von dichten, nahezu undurchdringlichen tropischen Vegetationszonen umschlossen. Die große Höhe des Mont Kanza schafft ein spezifisches Mikroklima, das das Wachstum einer Vielzahl von endemischen Pflanzenarten fördert. Wirtschaftlich ist die Region ein vollkommenes Vakuum. Das absolute Fehlen von Straßen, Stromnetzen und Telekommunikation macht jegliche formelle kommerzielle Aktivität völlig unmöglich. Die kleinen, verstreuten indigenen Gemeinschaften, die im Schatten des Berges leben, sind ausschließlich auf einfache Subsistenzlandwirtschaft und die Jagd nach Buschfleisch (Bushmeat) angewiesen. Historisch gesehen hat die extreme geografische Isolation des Mont Kanza ihn vor der großflächigen industriellen Abholzung bewahrt. Dieselbe Isolation hat jedoch dazu geführt, dass bewaffnete Milizen und Wilderer mit völliger Straflosigkeit operieren können. Der Berg dient diesen Gruppen als natürliche Festung, da sie den Mangel an staatlicher Verwaltung ausnutzen, um illegale Schmuggelrouten zu kontrollieren.",
+        "hu": "A Mont Kanza egy elszigetelt hegycsúcs a Közép-afrikai Köztársaság keleti fennsíkján. Földrajzilag a hegyet meredek, erősen erodált sziklafalak jellemzik, alapját pedig sűrű, szinte áthatolhatatlan trópusi növényzeti zónák veszik körül. A Mont Kanza nagy magassága egy specifikus mikroklímát hoz létre, amely számos endemikus növényfaj növekedését támogatja. Gazdasági szempontból a régió teljes vákuum. Az utak, az elektromos hálózatok és a telekommunikáció abszolút hiánya minden formális kereskedelmi tevékenységet teljesen lehetetlenné tesz. A hegy árnyékában élő kis, elszórt őslakos közösségek kizárólag az egyszerű önellátó mezőgazdaságra és a vadhúsra (bushmeat) irányuló vadászatra vannak utalva. Történelmileg a Mont Kanza extrém földrajzi elszigeteltsége megóvta a hegyet a nagyszabású ipari fakitermeléstől. Ugyanez az elszigeteltség azonban azt is lehetővé tette, hogy fegyveres milíciák és orvvadászok teljes büntetlenséggel működjenek. A hegy természetes erődítményként szolgál ezeknek a csoportoknak, akik kihasználják az állami közigazgatás hiányát az illegális csempészútvonalak ellenőrzésére.",
+        "ro": "Mont Kanza este un vârf montan izolat situat în zonele înalte de est ale Republicii Centrafricane. Geografic, muntele este caracterizat de pereți stâncoși abrupți și puternic erodați, având o bază înconjurată de vegetație tropicală densă, aproape impenetrabilă. Altitudinea mare a Mont Kanza creează un microclimat specific care susține creșterea unei varietăți de specii de plante endemice. Din punct de vedere economic, regiunea este un vid complet. Absența totală a drumurilor, rețelelor electrice și telecomunicațiilor face imposibilă orice activitate comercială formală. Micile comunități indigene împrăștiate care trăiesc în umbra muntelui se bazează exclusiv pe agricultura simplă de subzistență și pe vânătoarea animalelor sălbatice pentru carne. Istoric, izolarea geografică extremă a Mont Kanza l-a protejat de exploatarea forestieră industrială la scară largă. Cu toate acestea, aceeași izolare a permis milițiilor armate și braconierilor să opereze cu impunitate totală. Muntele servește ca o fortăreață naturală pentru aceste grupuri.",
+        "en": "Mont Kanza is a highly isolated mountain peak located in the eastern highlands of the Central African Republic. Geographically, the mountain is characterized by extremely steep, heavily eroded rock faces and a base completely surrounded by dense, nearly impenetrable tropical vegetation. The high altitude of Mont Kanza creates a specific localized microclimate that supports a wide variety of endemic plant species. Economically, the region is a complete void. The total absence of roads, electricity, and telecommunications makes any formal commercial activity absolutely impossible. The small, highly scattered indigenous communities living in the shadow of the mountain rely exclusively on simple subsistence agriculture and the trapping of wild animals for bushmeat. Historically, Mont Kanza's extreme geographical isolation has successfully shielded it from large-scale industrial logging. However, this exact same isolation has actively allowed heavily armed militias and commercial poachers to operate with complete impunity. The mountain serves as a formidable natural fortress for these groups, who exploit the region's total lack of governance to control illegal cross-border smuggling routes."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Kanza ist ein massiv isolierter Berggipfel im Osten.",
+          "Das Bergklima ermöglicht das Wachstum vieler endemischer Pflanzen.",
+          "Es existieren hier absolut keine Straßen oder Telekommunikation.",
+          "Lokale Familien leben ausschließlich von Ackerbau und Jagd.",
+          "Die Isolation schützt den Wald vor der legalen Holzindustrie."
+        ],
+        "hu": [
+          "A Mont Kanza egy masszívan elszigetelt hegycsúcs keleten.",
+          "A hegyi éghajlat számos endemikus növény növekedését teszi lehetővé.",
+          "Itt abszolút nem léteznek aszfaltozott utak vagy telekommunikáció.",
+          "A helyi családok kizárólag mezőgazdaságból és vadászatból élnek.",
+          "A földrajzi elszigeteltség védi az erdőt a legális faipartól."
+        ],
+        "ro": [
+          "Mont Kanza este un vârf montan masiv izolat în zona de est.",
+          "Climatul montan permite creșterea multor plante endemice rare.",
+          "Nu există absolut deloc drumuri sau telecomunicații aici.",
+          "Familiile locale trăiesc exclusiv din agricultură și vânătoare.",
+          "Izolarea geografică protejează pădurea de industria lemnului."
+        ],
+        "en": [
+          "Mont Kanza is a massively isolated mountain peak located in the east.",
+          "The specific mountain climate supports the growth of endemic plants.",
+          "There are absolutely no paved roads or telecommunications present here.",
+          "Local families survive exclusively on subsistence farming and hunting.",
+          "The extreme isolation geographically shields the forest from logging."
+        ]
+      }
+    },
+    {
+      "id": "mont-gbada-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mont Gbada ist eine auffällige geologische Erhebung in der zentral-nördlichen Region der Zentralafrikanischen Republik. Geografisch ist der Berg Teil einer rauen Hügelkette, die die regionalen Wasserscheiden trennt, wobei felsige Vorsprünge die oberen Höhenlagen dominieren, während die unteren Hänge von dichten Savannenwäldern bedeckt sind. Wirtschaftlich hat der Mont Gbada absolut keine formelle Bedeutung; es gibt hier keine kommerziellen Minen, keine großen landwirtschaftlichen Plantagen und null touristische Infrastruktur. Die ländliche Wirtschaft der Einheimischen wird ausschließlich von den saisonalen Niederschlägen diktiert, wobei die Dorfbewohner grundlegende Nahrungsmittel wie Sorghum und Maniok anbauen. Historisch gesehen ermöglichte das erhöhte Terrain des Mont Gbada eine natürliche Beobachtungsposition zur Kontrolle der umliegenden Ebenen. Während der lang anhaltenden zivilen Konflikte haben verschiedene bewaffnete Fraktionen den Berg routinemäßig besetzt, um Militärcamps zu errichten und illegale Steuern von den nomadischen Hirten zu erpressen, die die darunter liegenden Täler durchqueren. Die ständige Militarisierung des Mont Gbada schränkt das wirtschaftliche Überleben der Zivilbevölkerung extrem ein.",
+        "hu": "A Mont Gbada egy feltűnő geológiai kiemelkedés a Közép-afrikai Köztársaság középső-északi régiójában. Földrajzilag a hegy egy zord dombláncolat része, amely elválasztja a regionális vízválasztókat; a felső magasságokat sziklás kiszögellések uralják, míg az alsóbb lejtőket sűrű szavannaerdők borítják. Gazdasági szempontból a Mont Gbada abszolút semmilyen formális jelentőséggel nem bír; nincsenek itt kereskedelmi bányák, nincsenek nagy mezőgazdasági ültetvények, és nulla a turisztikai infrastruktúra. A helyiek vidéki gazdaságát kizárólag a szezonális csapadék diktálja, a falusiak olyan alapvető élelmiszereket termesztenek, mint a cirok és a manióka. Történelmileg a Mont Gbada magaslati fekvése lehetővé tette, hogy természetes megfigyelőállomásként szolgáljon a környező síkságok ellenőrzésére. A hosszan tartó civil konfliktusok során különböző fegyveres frakciók rutinszerűen elfoglalták a hegyet, hogy katonai táborokat hozzanak létre, és illegális adókat zsaroljanak ki a lenti völgyeken áthaladó nomád pásztoroktól. A Mont Gbada állandó militarizálása rendkívüli módon korlátozza a civil lakosság gazdasági túlélését.",
+        "ro": "Mont Gbada este o altitudine geologică frapantă în regiunea central-nordică a Republicii Centrafricane. Geografic, muntele face parte dintr-un lanț de dealuri accidentat care împarte bazinele hidrografice regionale, cu aflorimente stâncoase dominând zonele înalte, în timp ce pantele inferioare sunt acoperite de păduri dense de savană. Din punct de vedere economic, Mont Gbada nu are absolut nicio semnificație formală; nu există mine comerciale, nici mari plantații agricole și zero infrastructură turistică. Economia rurală a localnicilor este dictată exclusiv de precipitațiile sezoniere, sătenii cultivând alimente de bază precum sorgul și maniocul. Istoric, terenul ridicat al Mont Gbada a permis să servească drept punct de observație natural pentru controlul câmpiilor din jur. În timpul conflictelor civile prelungite, diverse facțiuni armate au ocupat în mod regulat muntele pentru a stabili tabere militare și a extorca taxe ilegale de la păstorii nomazi. Militarizarea constantă a Mont Gbada restricționează supraviețuirea economică a populației.",
+        "en": "Mont Gbada is a striking geological elevation situated in the central-northern region of the Central African Republic. Geographically, the mountain forms part of a rugged chain of hills that divide the regional watersheds, with rocky outcrops completely dominating the upper elevations while the lower slopes are covered by thick savanna woodlands. Economically, Mont Gbada holds absolutely no formal significance; there are no commercial mines, no large-scale agricultural plantations, and zero tourism infrastructure. The local rural economy is entirely dictated by seasonal rainfall, with impoverished villagers growing basic staple crops like sorghum and cassava. Historically, the highly elevated terrain of Mont Gbada allowed it to serve as a natural observation post for controlling the surrounding plains. During the prolonged civil conflicts, various armed factions have routinely occupied the mountain to establish secure military camps and violently extort illegal taxes from the nomadic herders passing through the valleys below. The constant militarization of Mont Gbada severely restricts the daily movements and economic survival of the local civilian population."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mont Gbada ist Teil einer rauen Hügelkette im zentralen Norden.",
+          "Der Berg fungiert als Trennlinie für lokale Wasserscheiden.",
+          "Die untere Berghälfte ist mit sehr dichten Savannenwäldern bedeckt.",
+          "Der Berg wird oft als strategischer militärischer Aussichtspunkt genutzt.",
+          "Bewaffnete Fraktionen erpressen oft Wegezölle von den Nomaden."
+        ],
+        "hu": [
+          "A Mont Gbada egy zord dombláncolat része a középső északi részen.",
+          "A hegy fontos elválasztó vonalként funkcionál a helyi vízválasztóknál.",
+          "A hegy alsó felét nagyon sűrű szavannaerdők borítják be.",
+          "A hegyet a konfliktusok alatt gyakran használják katonai kilátópontként.",
+          "Fegyveres frakciók nagyon gyakran zsarolnak ki útdíjat a nomádoktól."
+        ],
+        "ro": [
+          "Mont Gbada face parte dintr-un lanț de dealuri accidentat în nord.",
+          "Muntele funcționează ca o linie despărțitoare pentru bazinele hidrografice.",
+          "Jumătatea inferioară a muntelui este acoperită cu păduri dese de savană.",
+          "Muntele este adesea folosit ca un punct de observație militar strategic.",
+          "Facțiunile armate extorchează adesea taxe de trecere de la nomazi."
+        ],
+        "en": [
+          "Mont Gbada forms part of a highly rugged chain of hills in the north.",
+          "The mountain acts as a clear dividing line for local watersheds.",
+          "The lower half of the mountain is covered by highly dense savanna forests.",
+          "The mountain is frequently utilized as a strategic military vantage point.",
+          "Armed factions heavily extort illegal tolls from passing nomadic herders."
+        ]
+      }
+    }
+  ]
+}

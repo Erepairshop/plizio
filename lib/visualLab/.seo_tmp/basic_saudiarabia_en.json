@@ -1,0 +1,56 @@
+{
+  "lang": "en",
+  "country": "Saudiarabia",
+  "files": [
+    "lib/visualLab/data/poiExtraSaudiarabiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSaudiarabiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSaudiarabiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "riyadh-cities-v2",
+      "description": "The capital and largest city of Saudi Arabia, located in the center of the Arabian Peninsula. It is a major financial and political hub of the country.",
+      "facts": ["Capital of Saudi Arabia", "Located in Najd region", "Major financial hub", "Desert climate"]
+    },
+    {
+      "id": "sakakah-cities-v2",
+      "description": "A city in northwestern Saudi Arabia known for its historic sites and agricultural surroundings. It serves as the capital of the Al Jawf province.",
+      "facts": ["Capital of Al Jawf", "Ancient history", "Agricultural center", "Known for olive groves"]
+    },
+    {
+      "id": "unayzah-cities-v2",
+      "description": "An important city in the Al-Qassim Province, known for its rich history and cultural heritage. It is located near the central part of the country.",
+      "facts": ["Located in Al-Qassim", "Historic trade hub", "Cultural landmark", "Desert oasis region"]
+    },
+    {
+      "id": "masmak-fortress-history-v2",
+      "description": "A historic clay and mud-brick fort in central Riyadh that played a crucial role in the unification of the modern Kingdom of Saudi Arabia.",
+      "facts": ["Built around 1865", "Unification site", "Mud-brick architecture", "Major national museum"]
+    },
+    {
+      "id": "barzan-palace-history-v2",
+      "description": "A former historic royal palace located in Ha'il, which served as the seat of power for the Al Rashid dynasty in the 19th and early 20th centuries.",
+      "facts": ["Located in Ha'il", "Former Al Rashid seat", "19th-century architecture", "Cultural site"]
+    },
+    {
+      "id": "al-muazzam-fort-history-v2",
+      "description": "An ancient fortress along the historic Hajj pilgrimage route, built to protect travelers moving between Damascus and Medina.",
+      "facts": ["Hajj route site", "Built in 1623", "Ottoman era fort", "Historical watchtower"]
+    },
+    {
+      "id": "tabuk-castle-history-v2",
+      "description": "A historic fortress in the city of Tabuk that dates back to the mid-16th century, serving as a protective post for pilgrims.",
+      "facts": ["Built in 1559", "Ottoman structure", "Pilgrim protectorate", "Located in Tabuk"]
+    },
+    {
+      "id": "masmak-fortress-landmarks-v2",
+      "description": "A prominent landmark in Riyadh featuring traditional Najdi architecture, now preserved as a museum commemorating the founding of the Kingdom.",
+      "facts": ["Historic mud-brick fort", "Riyadh city landmark", "National heritage site", "Traditional architecture"]
+    },
+    {
+      "id": "jabal-al-nour-landmarks-v2",
+      "description": "A significant mountain near Mecca, home to the Cave of Hira where the Prophet Muhammad is said to have received his first revelation.",
+      "facts": ["Located near Mecca", "Home to Cave of Hira", "Spiritual site", "Prominent landmark"]
+    }
+  ]
+}

@@ -64,7 +64,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Zweitgrößte Stadt in Belize nach der Einwohnerzahl.", "Die Umgebung produziert den Großteil des Zuckers in Belize.", "Der New River bietet Zugang zu den Lamanai Maya-Ruinen.", "Gegründet im 19. Jahrhundert als Holzfällersiedlung.", "Die Stadt hat ein ausgeprägtes tropisches Savannenklima.", "Bedeutender Standort für die Verarbeitung von landwirtschaftlichen Erzeugnissen."],
-      hu: ["Orange Walk District székhelye.", "A New River partj?n fekszik.", "?szak-Belize egyik fontos kereskedelmi központja.", "A cukornádas t?rs?gek központi v?rosa.", "Innen indulnak t?r?k Lamanai fel?.", "A k?rny?ken er?s a mesztic kulturális jelenlét."],
+      hu: ["Orange Walk District székhelye.", "?szak-Belize egyik fontos kereskedelmi központja.", "A cukornádas t?rs?gek központi v?rosa.", "Innen indulnak t?r?k Lamanai fel?.", "A k?rny?ken er?s a mesztic kulturális jelenlét."],
       ro: [
       "Orange Walk este al patrulea oraș ca mărime din Belize.",
       "Este sediul central al industriei zahărului din țară.",
@@ -280,8 +280,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: ["Founded after Hurricane Hattie in 1961.", "Located on the George Price Highway.", "Site of the Belize Central Prison.", "Multi-cultural population."]
     },
     factsAdvanced: {
-      de: ["Gegründet unmittelbar nach dem Hurrikan Hattie 1961.", "Ursprünglich als Lager für Obdachlose konzipiert.", "Liegt strategisch an der westlichen Verbindungsstraße (George Price Highway).", "Hat sich von einer provisorischen Siedlung zu einem festen Wohnort gewandelt.", "Die Gemeinde ist für ihr starkes Zusammengehörigkeitsgefühl bekannt.", "Dient heute als wichtiger Knotenpunkt für den Verkehr in das Landesinnere."],
-      hu: ["Belize District-ben tal?lhat?.", "A George Price Highway k?zel?ben fekszik.", "Itt m?k?dik a Belize Central Prison.", "Belize City ?s Belmopan k?zti ?tvonalhoz kapcsolódik.", "A telep?l?s v?rossz?li jelleg?.", "A k?z?ti forgalom miatt ismert."],
+      de: ["Ursprünglich als Lager für Obdachlose konzipiert.", "Liegt strategisch an der westlichen Verbindungsstraße (George Price Highway).", "Hat sich von einer provisorischen Siedlung zu einem festen Wohnort gewandelt.", "Die Gemeinde ist für ihr starkes Zusammengehörigkeitsgefühl bekannt.", "Dient heute als wichtiger Knotenpunkt für den Verkehr in das Landesinnere."],
+      hu: ["Belize District-ben tal?lhat?.", "Itt m?k?dik a Belize Central Prison.", "Belize City ?s Belmopan k?zti ?tvonalhoz kapcsolódik.", "A telep?l?s v?rossz?li jelleg?.", "A k?z?ti forgalom miatt ismert."],
       ro: [
       "A fost fondat ca o tabără temporară de refugiați după uraganul Hattie din 1961.",
       "Satul găzduiește Închisoarea Centrală din Belize.",
@@ -371,7 +371,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Placencia Village", hu: "Placencia Village", ro: "Placencia Village", en: "Placencia Village" },
     description: {
       de: "Ein malerisches Fischerdorf an der Spitze einer Halbinsel, heute ein beliebter Touristenort.",
-      hu: "Festői halászfalu egy félsziget csücskén, ma népszerű turisztikai célpont.",
+      hu: "Egy népszerű halászfalu Stann Creek kerületben, amely homokos tengerpartjáról és nyüzsgő turizmusáról ismert.",
       ro: "Un sat pescăresc pitoresc la capătul unei peninsule, acum o destinație turistică populară.",
       en: "A picturesque fishing village at the tip of a peninsula, now a popular tourist spot."
     },
@@ -383,7 +383,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Bekannt für lange Sandstrände.", "Besitzt die schmalste Hauptstraße der Welt.", "Zentrum für Tauch- und Schnorchelausflüge.", "Kreolische Kultur."],
-      hu: ["Hosszú homokos strandjairól ismert.", "A világ legkeskenyebb főutcájával rendelkezik.", "A búvár- és sznorkelling-kirándulások központja.", "Kreol kultúra."],
+      hu: ["A Placencia-félsziget déli csücskén fekszik", "Híres a keskeny főutcájáról", "Központja a közeli korallzátonyokhoz induló túráknak"],
       ro: ["Cunoscut pentru plajele lungi cu nisip.", "Are cea mai îngustă stradă principală din lume.", "Centru pentru scufundări și excursii de snorkeling.", "Cultură creolă."],
       en: ["Known for its long sandy beaches.", "Features the world's narrowest main street.", "Hub for diving and snorkeling trips.", "Creole cultural hub."]
     },
@@ -730,8 +730,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.483, 18.267],
     name: { de: "Douglas", hu: "Douglas", ro: "Douglas", en: "Douglas" },
     description: {
-      de: "Ein kleines Dorf im Corozal Distrikt, das für seine landwirtschaftliche Umgebung bekannt ist.",
-      hu: "Falu a Río Hondo mentén, a mexikói határon.",
+      de: "Ein ländliches Dorf im Orange Walk District, das am Ufer des Rio Hondo an der Grenze zu Mexiko liegt.",
+      hu: "Egy kisebb település Orange Walk kerületben, a Hondo-folyó közelében, az ország északi részén.",
       ro: "Un sat pe Río Hondo, la granița cu Mexicul.",
       en: "A village on the Río Hondo, on the border with Mexico."
     },
@@ -742,8 +742,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Douglas is a peaceful and scenic village located in the Orange Walk District, situated directly on the banks of the Rio Hondo, which serves as the natural border between Belize and Mexico. This predominantly Mestizo community is deeply tied to the agricultural rhythm of the north, with sugarcane cultivation being the primary livelihood for most families. The village is known for its quiet, rural charm and the close-knit relationships shared between its residents and their neighbors across the river in Mexico. Life in Douglas is centered around the river and the surrounding fertile fields, where the annual harvest season brings a flurry of activity. Despite its remote location, the village has a resilient spirit and a rich cultural heritage reflected in its local festivals and traditional cuisine. For those seeking an authentic glimpse into the rural heart of the sugar belt, Douglas offers a serene and welcoming atmosphere where the traditions of the northern frontier remain very much alive."
     },
     facts: {
-      de: ["Lage im Norden", "Landwirtschaft geprägt", "Ruhiges Dorfleben"],
-      hu: ["Határfalu.", "Mezőgazdasági közösség.", "Spanyolul és angolul beszélnek.", "Kompkapcsolat Mexikóval."],
+      de: ["Liegt im Orange Walk District", "Am Ufer des Rio Hondo gelegen", "Landwirtschaftlich geprägte Siedlung"],
+      hu: ["Mezőgazdasági jellegű falu", "Az északi határvidéken található", "Hagyományos közösségi élet jellemzi"],
       ro: ["Sat de frontieră.", "Comunitate agricolă.", "Se vorbesc spaniola și engleza.", "Legătură cu feribotul către Mexic."],
       en: ["Border village.", "Farming community.", "Spanish and English are spoken.", "Ferry connection to Mexico."]
     },
@@ -768,7 +768,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     description: {
       de: "Eine große Ortschaft im Orange Walk District, überwiegend Mestizen.",
       hu: "Nagy település az Orange Walk kerületben, túlnyomórészt meszticek lakják.",
-      ro: "O localitate mare în districtul Orange Walk, predominant mestizo.",
+      ro: "Un sat pitoresc situat în districtul Orange Walk, cunoscut pentru comunitatea sa agricolă unită.",
       en: "A large village in the Orange Walk District, predominantly Mestizo."
     },
     descriptionAdvanced: {
@@ -780,7 +780,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     facts: {
       de: ["Eine der größten Ortschaften in Belize.", "Landwirtschaftliche Basis.", "Starke Mestizen-Kultur.", "In der Nähe der New River Lagoon."],
       hu: ["Belize egyik legnagyobb települése.", "Mezőgazdasági alapú.", "Erős mesztic kultúra.", "A New River lagúna közelében."],
-      ro: ["Una dintre cele mai mari localități din Belize.", "Bază agricolă.", "Cultură mestizo puternică.", "Aproape de Laguna New River."],
+      ro: ["Situat pe malul râului New River", "Populație majoritar mestizo", "Economie bazată pe trestia de zahăr"],
       en: ["One of the largest villages in Belize.", "Agriculturally based.", "Strong Mestizo culture.", "Near the New River Lagoon."]
     },
     factsAdvanced: {
@@ -1021,8 +1021,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     description: {
       de: "Ein Dorf im Orange Walk District mit einer Mischung aus Mestizen- und Maya-Kultur.",
       hu: "Falu az Orange Walk kerületben, mesztic és maja kultúra keverékével.",
-      ro: "Un sat în districtul Orange Walk, cu un amestec de cultură mestizo și mayașă.",
-      en: "A village in the Orange Walk District with a mix of Mestizo and Maya culture."
+      ro: "O comunitate vibrantă din nordul Belizei, renumită pentru moștenirea sa culturală Maya.",
+      en: "A large agricultural village in the Orange Walk District known for its sugarcane production and Maya heritage."
     },
     descriptionAdvanced: {
       de: "Yo Creek ist ein lebendiges Dorf im Orange Walk District, etwa 15 Kilometer westlich von Orange Walk Town gelegen. Die Gemeinde zeichnet sich durch eine Mischung aus Mestizen- und Maya-Kultur aus, was sich in den Bräuchen und der Gastronomie widerspiegelt. Yo Creek ist primär ein landwirtschaftliches Zentrum, in dem der Anbau von Zuckerrohr und Viehzucht die wichtigste Rolle spielen. Das Dorf liegt in einer landschaftlich reizvollen Gegend mit sanften Hügeln und ist bekannt für seine freundliche Bevölkerung. In der Nähe von Yo Creek befinden sich mehrere archäologische Stätten, darunter Cuello, was auf eine lange Besiedlungsgeschichte der Region hinweist. Für Besucher bietet Yo Creek eine authentische Erfahrung des ländlichen Lebens im Norden Belizes, geprägt von Traditionen und einer tiefen Verbundenheit zum Land.",
@@ -1033,8 +1033,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaft, hauptsächlich Zuckerrohr.", "Kulturelle Vielfalt.", "Ländliche Umgebung.", "In der Nähe der Maya-Stätte Cuello."],
       hu: ["Mezőgazdaság, főként cukornád.", "Kulturális sokszínűség.", "Vidéki környezet.", "A Cuello maja romváros közelében."],
-      ro: ["Agricultură, în principal trestie de zahăr.", "Diversitate culturală.", "Mediu rural.", "Aproape de situl mayaș Cuello."],
-      en: ["Agriculture, mainly sugarcane.", "Cultural diversity.", "Rural setting.", "Near the Cuello Maya site."]
+      ro: ["Aproape de situl arheologic Cuello", "Găzduiește festivaluri tradiționale", "Centru important pentru agricultura locală"],
+      en: ["Major center for commercial farming.", "Located west of Orange Walk Town.", "Strong Mestizo and Maya cultural roots.", "Near the Cuello archaeological site."]
     },
     factsAdvanced: {
       de: ["Yo Creek liegt etwa 15 Kilometer westlich von Orange Walk Town.", "Die Bevölkerung beträgt etwa 1.500 Einwohner.", "Zuckerrohr ist das wichtigste kommerzielle Erzeugnis des Dorfes.", "Die archäologische Stätte Cuello liegt in unmittelbarer Nähe.", "Der Name 'Yo Creek' stammt wahrscheinlich aus einer Maya-Sprache.", "Das Dorf ist bekannt für seine aktive Fußballmannschaft.", "Die meisten Bewohner sprechen sowohl Spanisch als auch Englisch.", "Landwirtschaftliche Kooperativen spielen eine große Rolle im Dorfleben."],
@@ -1055,8 +1055,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.567, 18.100],
     name: { de: "Trial Farm", hu: "Trial Farm", ro: "Trial Farm", en: "Trial Farm" },
     description: {
-      de: "Diese Ortschaft liegt in der Nähe von Orange Walk Town und spielt eine Rolle im lokalen Handel.",
-      hu: "Nagy falu, amely gyakorlatilag Orange Walk Town külvárosa.",
+      de: "Eine schnell wachsende Gemeinde nördlich von Orange Walk Town, die für ihre landwirtschaftliche Umgebung bekannt ist.",
+      hu: "Orange Walk Town északi elővárosa, amely az egyik legnépesebb falu Belize északi részén.",
       ro: "Un sat mare care este practic o suburbie a Orange Walk Town.",
       en: "A large village that is practically a suburb of Orange Walk Town."
     },
@@ -1067,8 +1067,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Trial Farm is a large and thriving residential community located just north of Orange Walk Town. Originally established as an agricultural settlement, it has grown into a bustling suburb that is home to many families working in the nearby town and the local sugar industry. The community has a strong Mestizo character and is known for its friendly, close-knit atmosphere. Trial Farm offers a range of local services, schools, and small businesses that cater to its growing population. Its proximity to the main northern highway and Orange Walk Town makes it a convenient and desirable place to live, reflecting the ongoing urban expansion and development in northern Belize. The village remains deeply connected to the agricultural heritage of the district while embracing its role as a modern residential hub."
     },
     facts: {
-      de: ["Nähe Orange Walk", "Lokaler Handel", "Ländlich geprägt"],
-      hu: ["Közvetlenül Orange Walk Town mellett.", "Lakóövezet.", "Sok üzlet és szolgáltatás.", "Jó közlekedési kapcsolatokkal rendelkezik."],
+      de: ["Nördliche Erweiterung von Orange Walk Town", "Zentrum für Zuckerrohranbau", "Vielseitige ethnische Zusammensetzung"],
+      hu: ["Lakossága meghaladja a 4000 főt", "Kereskedelmi és lakóövezet", "A Philip Goldson országút mentén fekszik"],
       ro: ["Chiar lângă Orange Walk Town.", "Zonă rezidențială.", "Multe magazine și servicii.", "Bine conectat la rețeaua de transport."],
       en: ["Right next to Orange Walk Town.", "Residential area.", "Many shops and services.", "Well-connected to the road network."]
     },
@@ -1093,8 +1093,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "San Ignacio (Hauptstadt von Cayo)", hu: "San Ignacio (Cayo fővárosa)", ro: "San Ignacio (Capitala Cayo)", en: "San Ignacio (Cayo Capital)" },
     description: {
       de: "Die Hauptstadt des Cayo-Distrikts und das wirtschaftliche Zentrum West-Belizes.",
-      hu: "A Cayo kerület fővárosa és Nyugat-Belize gazdasági központja.",
-      ro: "Capitala districtului Cayo și centrul economic al vestului Belize.",
+      hu: "Cayo kerület központja és az ország második legnagyobb városa, fontos kulturális és turisztikai csomópont.",
+      ro: "Inima districtului Cayo și un centru turistic major, situat la confluența râurilor Macal și Mopan.",
       en: "The capital of the Cayo District and the economic hub of western Belize."
     },
     descriptionAdvanced: {
@@ -1105,8 +1105,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Verwaltungszentrum des Cayo-Distrikts.", "Zusammen mit Santa Elena eine 'Zwillingsstadt'.", "Tor zu archäologischen Stätten und Naturreservaten.", "Lebhafter Markt."],
-      hu: ["A Cayo kerület közigazgatási központja.", "Santa Elenával 'ikervárost' alkot.", "Kapuja a régészeti lelőhelyeknek és természetvédelmi területeknek.", "Élénk piac."],
-      ro: ["Centrul administrativ al districtului Cayo.", "Formează un 'oraș geamăn' cu Santa Elena.", "Poartă de acces către situri arheologice și rezervații naturale.", "Piață animată."],
+      hu: ["A Macal-folyó partján fekszik", "Központja a maja romokhoz induló expedícióknak", "Híres a szombati piacáról"],
+      ro: ["Al doilea oraș ca mărime din Belize", "Poartă către siturile Maya Cahal Pech", "Cunoscut pentru piețele sale vibrante"],
       en: ["Administrative center of the Cayo District.", "Forms a 'twin town' with Santa Elena.", "Gateway to archaeological sites and nature reserves.", "Vibrant market."]
     },
     factsAdvanced: {
@@ -1165,10 +1165,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.3833, 18.3833],
     name: { de: "Corozal Town (Hauptstadt von Corozal)", hu: "Corozal Town (Corozal fővárosa)", ro: "Corozal Town (Capitala Corozal)", en: "Corozal Town (Corozal Capital)" },
     description: {
-      de: "Die Hauptstadt des Distrikts Corozal bietet eine entspannte Atmosphäre nahe der mexikanischen Grenze.",
-      hu: "A Corozal kerület fővárosa Észak-Belize-ben.",
-      ro: "Capitala districtului Corozal din nordul Belize.",
-      en: "The capital of the Corozal District in northern Belize."
+      de: "Die Hauptstadt des Corozal District, eine entspannte Küstenstadt mit starkem Maya-Erbe und Nähe zur mexikanischen Grenze.",
+      hu: "Corozal kerület székhelye, egy csendes tengerparti város a mexikói határ közvetlen közelében.",
+      ro: "Capitala districtului nordic Corozal, un oraș liniștit situat pe malul golfului cu același nume.",
+      en: "The administrative capital of the Corozal District, located on the beautiful emerald waters of Corozal Bay."
     },
     descriptionAdvanced: {
         en: "As an administrative center, Corozal is one of the most important organizational points in the northern region between Belize and Mexico. The city's role stems not only from its proximity to the border: the surrounding villages, the bayfront connections, and the commercial movement all converge here. The name is the same as the district's, but its local significance is far broader than a simple town name. Corozal is simultaneously a border town, an administrative center, and a quiet starting point for routes to Mexico, where the Caribbean coast, market life, and the Santa Rita ruins are tightly interwoven in the fabric of commerce and memory.",
@@ -1371,9 +1371,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "San Jose (Orange Walk)", hu: "San Jose (Orange Walk)", ro: "San Jose (Orange Walk)", en: "San Jose (Orange Walk)" },
     description: {
       de: "Ein Dorf südlich von Orange Walk Town.",
-      hu: "Falu Orange Walk Towntól délre.",
-      ro: "Un sat la sud de Orange Walk Town.",
-      en: "A village south of Orange Walk Town."
+      hu: "Egy falu Orange Walk kerületben, amely a cukornád-termesztéséről és mezőgazdaságáról ismert.",
+      ro: "Un sat liniștit din districtul Orange Walk, unde tradițiile Maya sunt încă vii.",
+      en: "A bustling village in the northern sugar belt, located along the main Phillip Goldson Highway."
     },
     descriptionAdvanced: {
       de: "San Jose ist ein typisches, landwirtschaftlich geprägtes Dorf im Orange Walk District, das verkehrsgünstig am Northern Highway liegt. Die Gemeinde ist ein integraler Teil des 'Sugar Belts' im Norden Belizes und lebt hauptsächlich vom Anbau und der Ernte von Zuckerrohr. San Jose ist bekannt für seine lebendige Mestizen-Kultur, wobei Spanisch die bevorzugte Sprache der meisten Bewohner ist. Trotz seiner Lage an einer Hauptstraße hat das Dorf seinen ländlichen Charme bewahrt, mit einfachen Häusern, kleinen Familienbetrieben und einem starken Gemeinschaftssinn. Für Reisende, die durch den Norden Belizes fahren, bietet San Jose einen authentischen Blick auf das tägliche Leben der Menschen, die das Rückgrat der wichtigsten Industrie des Landes bilden. Die Herzlichkeit der Bewohner und die omnipräsenten Zuckerrohrlaster prägen das Bild dieses fleißigen Dorfes.",
@@ -1383,9 +1383,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Ländliches Dorf.", "Überwiegend Mestizen-Bevölkerung.", "Landwirtschaftlich geprägt.", "Nahe dem Northern Highway gelegen."],
-      hu: ["Vidéki falu.", "Túlnyomórészt mesztic lakosság.", "Mezőgazdasági jellegű.", "Az Északi autópálya közelében található."],
-      ro: ["Sat rural.", "Populație predominant mestizo.", "Caracter agricol.", "Situat aproape de Autostrada de Nord."],
-      en: ["Rural village.", "Predominantly Mestizo population.", "Agricultural character.", "Located near the Northern Highway."]
+      hu: ["Az ország északi részén található", "Közössége főként mezőgazdaságból él", "A Philip Goldson autópálya közelében fekszik"],
+      ro: ["Comunitate predominant agricolă", "Acces la rezerve naturale locale", "Păstrează dialecte indigene"],
+      en: ["One of the largest villages in Orange Walk.", "Economy driven by sugarcane harvesting.", "Predominantly Mestizo population.", "Vital transport node for the north."]
     },
     factsAdvanced: {
       de: ["San Jose liegt direkt am Phillip Goldson Highway südlich von Orange Walk.", "Zuckerrohranbau ist die fast ausschließliche Erwerbsquelle.", "Die Bevölkerung besteht überwiegend aus spanischsprachigen Mestizen.", "Das Dorf spielt eine wichtige Rolle bei der Belieferung der Zuckermühle in Tower Hill.", "San Jose verfügt über eine eigene Grundschule und mehrere Kirchen.", "Es ist eine der vielen Siedlungen, die während des Kastenkrieges entstanden.", "Die Gemeinschaft pflegt traditionelle Maya-Mestizen-Feste.", "Die Infrastruktur des Dorfes ist eng mit dem Northern Highway verknüpft."],
@@ -1875,10 +1875,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.75, 17.9667],
     name: { de: "Santa Marta (Orange Walk)", hu: "Santa Marta (Orange Walk)", ro: "Santa Marta (Orange Walk)", en: "Santa Marta (Orange Walk)" },
     description: {
-      de: "Eine Siedlung im Distrikt Orange Walk, umgeben von weiten Feldern und Waldflächen.",
-      hu: "Kis falu az Orange Walk kerület cukornádövezetében.",
-      ro: "Un mic sat în centura de trestie de zahăr a districtului Orange Walk.",
-      en: "A small village in the sugarcane belt of the Orange Walk District."
+      de: "Ein Dorf im Orange Walk District, das für seine freundliche Gemeinschaft und die umliegenden Naturgebiete bekannt ist.",
+      hu: "Kisebb település az Orange Walk kerületben, amely a vidéki Belize nyugalmát árasztja.",
+      ro: "O așezare rurală din districtul Orange Walk, cunoscută pentru peisajele sale verzi și liniște.",
+      en: "A quiet farming community in the Orange Walk District, deeply integrated into the country's sugar industry."
     },
     descriptionAdvanced: {
       de: "Santa Marta ist ein kleines, aber fleißiges Dorf im Orange Walk District, das tief im Herzen der Zuckerrohrregion liegt. Die Gemeinde ist geprägt von der weitläufigen Agrarlandschaft Nordbelizes, wobei der Anbau von Zuckerrohr die Haupterwerbsquelle fast jeder Familie darstellt. Santa Marta hat einen starken ländlichen Charakter bewahrt, in dem Gemeinschaft und Tradition im Mittelpunkt stehen. Das Dorf ist bekannt für seine freundliche Mestizen-Bevölkerung und die einfache, aber herzliche Lebensweise. Obwohl es abseits der Haupttouristenrouten liegt, bietet Santa Marta einen echten Einblick in das Leben der Menschen, die die Wirtschaft Belizes antreiben. Die weiten Ausblicke über die Zuckerrohrfelder, die besonders zur Erntezeit ein geschäftiges Bild bieten, sind charakteristisch für diese Region.",
@@ -1887,10 +1887,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Santa Marta is a small but industrious village in the Orange Walk District, located deep in the heart of the northern sugarcane region. The community is defined by the vast agricultural landscape of northern Belize, where the cultivation of sugarcane is the primary source of income for almost every family. Santa Marta has maintained a strong rural character, where community cooperation and tradition remain at the center of daily life. The village is known for its friendly Mestizo population and its simple, hardworking way of life. While it lies off the main tourist paths, Santa Marta offers a genuine look at the lives of the people who drive the core of Belize's agricultural economy. The wide views across the sugarcane fields, which become a flurry of activity during the harvest season, are characteristic of this productive and resilient community. It represents the quiet strength and dedication of the northern Belizean farmer."
     },
     facts: {
-      de: ["Orange Walk Distrikt", "Ländliche Gegend", "Ruhiges Umfeld"],
-      hu: ["Mezőgazdasági közösség.", "A cukornádtermesztéstől függ.", "Vidéki Belize.", "Mesztic falu."],
-      ro: ["Comunitate agricolă.", "Dependent de cultivarea trestiei de zahăr.", "Belize rural.", "Sat mestizo."],
-      en: ["Farming community.", "Reliant on sugarcane farming.", "Rural Belize.", "Mestizo village."]
+      de: ["Gehört zum Orange Walk District", "Traditionelles Maya-Dorf", "Basis für lokale ökologische Erkundungen"],
+      hu: ["Mezőgazdasági közösség", "Az északi régióban helyezkedik el", "Helyi gazdálkodás a fő megélhetési forrás"],
+      ro: ["Înconjurată de plantații de trestie", "Destinație pentru ecoturism rural", "Comunitate prietenoasă și primitoare"],
+      en: ["Located in the heart of the sugar belt.", "Surrounded by vast agricultural fields.", "Known for its hardworking rural character.", "Home to a friendly Mestizo community."]
     },
     factsAdvanced: {
       de: ["Santa Marta ist ein reines Bauerndorf im Norden von Belize.", "Zuckerrohr ist das dominierende landwirtschaftliche Produkt.", "Das Dorf liegt etwa 25 Kilometer von Orange Walk Town entfernt.", "Die Bewohner sind überwiegend spanischsprachige Mestizen.", "Das Leben im Dorf ist eng an die Zafra (Zuckerrohrernte) gebunden.", "Santa Marta verfügt über grundlegende soziale Einrichtungen wie eine Schule.", "Das Dorf ist bekannt für seinen starken sozialen Zusammenhalt.", "Die Umgebung bietet eine weite, flache Landschaft mit fruchtbaren Böden."],
@@ -1913,9 +1913,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Chan Chen", hu: "Chan Chen", ro: "Chan Chen", en: "Chan Chen" },
     description: {
       de: "Ein Dorf im Corozal District, nahe der mexikanischen Grenze.",
-      hu: "Falu a Corozal kerületben, a mexikói határ közelében.",
-      ro: "Un sat în districtul Corozal, aproape de granița cu Mexic.",
-      en: "A village in the Corozal District, near the Mexican border."
+      hu: "Egy falu Corozal kerületben, amely közel fekszik a mexikói határhoz és a Corozal-öbölhöz.",
+      ro: "Un sat situat în districtul Corozal, oferind o privire autentică asupra vieții rurale din nordul Belizei.",
+      en: "A traditional Maya village in the Corozal District, situated very close to the Mexican border."
     },
     descriptionAdvanced: {
       de: "Chan Chen ist ein geschichtsträchtiges Dorf im Corozal District, nur wenige Meilen von der mexikanischen Grenze entfernt. Der Name 'Chan Chen' stammt aus der Maya-Sprache und bedeutet 'Kleiner Brunnen'. Das Dorf hat eine lange Siedlungsgeschichte, die bis in die Zeit der antiken Maya zurückreicht, und archäologische Spuren in der Umgebung bezeugen diese Vergangenheit. Heute ist Chan Chen eine friedliche Mestizen-Gemeinschaft, die primär von der Landwirtschaft lebt. Die Nähe zu Corozal Town und der mexikanischen Grenze macht das Dorf zu einem wichtigen Wohnort für Menschen, die in der Grenzregion tätig sind. Mit seinen traditionellen Häusern, den gepflegten Gärten und der entspannten Atmosphäre bietet Chan Chen einen authentischen Einblick in das Leben im nördlichsten Teil von Belize.",
@@ -1925,9 +1925,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Grenznähe zu Mexiko.", "Überwiegend Yucatec-Maya-Abstammung.", "Landwirtschaft.", "In der Nähe der Maya-Stätte Santa Rita."],
-      hu: ["Közel a mexikói határhoz.", "Túlnyomórészt jukaték-maja származású.", "Mezőgazdaság.", "Santa Rita maja romváros közelében."],
-      ro: ["Aproape de granița cu Mexic.", "Descendență predominant mayașă yucatec.", "Agricultură.", "Aproape de situl mayaș Santa Rita."],
-      en: ["Near the Mexican border.", "Predominantly Yucatec Maya descent.", "Farming.", "Near the Santa Rita Maya site."]
+      hu: ["Észak-Belizében található", "Maja és mesztic lakosságú", "Cukornád-termesztő vidék"],
+      ro: ["Renumit pentru ospitalitatea localnicilor", "Aproape de situri istorice mai puțin cunoscute", "Economie bazată pe agricultura de subzistență"],
+      en: ["Historically significant Maya settlement.", "Located north of Corozal Town.", "Known for its peaceful rural atmosphere.", "Strong community ties to agricultural land."]
     },
     factsAdvanced: {
       de: ["Chan Chen liegt etwa 8 Kilometer nördlich von Corozal Town.", "Der Name bedeutet 'Kleiner Brunnen' auf Maya.", "Das Dorf liegt sehr nah am Grenzübergang Santa Elena zu Mexiko.", "Die Bewohner sind überwiegend Mestizen mit Wurzeln in Yucatan.", "Die Region um Chan Chen ist reich an kleinen Maya-Ruinen.", "Zuckerrohranbau ist eine wichtige landwirtschaftliche Tätigkeit.", "Das Dorf hat eine eigene Grundschule und ein Gemeindezentrum.", "Die Nähe zur Bucht von Corozal beeinflusst das lokale Klima positiv."],
@@ -2093,10 +2093,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.6333, 17.8333],
     name: { de: "San Pablo (Orange Walk)", hu: "San Pablo (Orange Walk)", ro: "San Pablo (Orange Walk)", en: "San Pablo (Orange Walk)" },
     description: {
-      de: "Eine kleine Ansiedlung, die durch ihre abgelegene Lage im Norden von Belize charakterisiert ist.",
-      hu: "Falu az Orange Walk kerületben, egy falucsoport része.",
-      ro: "Un sat în districtul Orange Walk, parte a unui grup de sate.",
-      en: "A village in the Orange Walk District, part of a cluster of villages."
+      de: "Eine kleine Siedlung im Hinterland, die tief in der Maya-Kultur verwurzelt ist und traditionelles Handwerk pflegt.",
+      hu: "Egy apró település Corozal kerületben, amely a hagyományos falusi életmód őrzője.",
+      ro: "O comunitate mică din nordul țării, caracterizată prin tradiții ancestrale și un stil de viață simplu.",
+      en: "A Yucatec Maya community in northern Belize, preserving traditional language and cultural practices."
     },
     descriptionAdvanced: {
       de: "San Pablo ist ein malerisches Dorf im Orange Walk District, das oft zusammen mit seinem Nachbardorf San Jose genannt wird. Die Gemeinde liegt im Herzen des Zuckerrohrgürtels und ist ein Paradebeispiel für die ländliche Mestizen-Kultur Nordbelizes. San Pablo ist bekannt für seine weiten Zuckerrohrfelder, die das Leben und den Rhythmus der Bewohner bestimmen. Das Dorf hat eine sehr entspannte und freundliche Atmosphäre, in der Traditionen wie die Marimba-Musik und kulinarische Maya-Mestizen-Spezialitäten noch sehr lebendig sind. Trotz seiner Nähe zu Orange Walk Town hat San Pablo einen eigenständigen dörflichen Charakter bewahrt. Für Reisende auf dem Northern Highway bietet das Dorf einen authentischen Anblick der arbeitenden Bevölkerung Belizes und der endlosen grünen Landschaft des Nordens.",
@@ -2105,10 +2105,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "San Pablo is a picturesque village in the Orange Walk District, often mentioned alongside its close neighbor, San Jose. The community is located in the heart of the northern sugar belt and is a quintessential example of rural Mestizo culture in northern Belize. San Pablo is known for its vast sugarcane fields, which dictate the rhythm and pace of life for its residents. The village has a very relaxed and friendly atmosphere, where traditions such as marimba music and Maya-Mestizo culinary specialties are still very much alive. Despite its proximity to Orange Walk Town, San Pablo has maintained an independent village character, focused on community cooperation and agricultural excellence. For travelers on the Northern Highway, the village provides an authentic sight of Belize's working population and the endless green landscape of the north. It remains a prosperous and vital part of the district's social and economic network."
     },
     facts: {
-      de: ["Nördliches Belize", "Abgelegen", "Ländliche Gemeinschaft"],
-      hu: ["A 'La Union' terület része.", "Mezőgazdaság.", "Mesztic falu.", "A Rio Hondo közelében."],
-      ro: ["Parte a zonei 'La Union'.", "Agricultură.", "Sat mestizo.", "Aproape de Rio Hondo."],
-      en: ["Part of the 'La Union' area.", "Agriculture.", "Mestizo village.", "Near the Rio Hondo."]
+      de: ["Bewahrung der Maya-Sprache", "Zentrum für traditionelle Webkunst", "Abgelegene Lage im Dschungel"],
+      hu: ["Az ország északi határvidékén fekszik", "Mezőgazdasági jellegű közösség", "Csendes, vidéki környezet"],
+      ro: ["Nume de origine Maya", "Peisaj dominat de vegetație tropicală", "Arhitectură rurală tradițională"],
+      en: ["Located in the Corozal District.", "Named after the local Yucatec Maya heritage.", "Focuses on traditional farming and crafts.", "Part of the northern Maya cultural corridor."]
     },
     factsAdvanced: {
       de: ["San Pablo liegt direkt am Phillip Goldson Highway.", "Das Dorf ist ein wichtiger Teil der belizischen Zuckerindustrie.", "Die Bewohner sind überwiegend Mestizen mit starken kulturellen Wurzeln.", "San Pablo verfügt über eine eigene Fußballmannschaft und Sportanlagen.", "Die Umgebung ist ideal für die Beobachtung von ländlichen Traditionen.", "Das Dorf liegt etwa 15 Kilometer südlich von Orange Walk Town.", "Spanisch ist die im Alltag meistgesprochene Sprache.", "Die Gemeinde ist bekannt für ihre Gastfreundschaft gegenüber Reisenden."],
@@ -2203,8 +2203,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     description: {
       de: "Ein Dorf am Northern Highway im Orange Walk District.",
       hu: "Falu az Északi autópálya mentén az Orange Walk kerületben.",
-      ro: "Un sat pe Autostrada de Nord în districtul Orange Walk.",
-      en: "A village on the Northern Highway in the Orange Walk District."
+      ro: "O poartă de intrare importantă în districtul Orange Walk, situată de-a lungul autostrăzii principale.",
+      en: "A strategic village on the Phillip Goldson Highway, serving as a gateway to Orange Walk Town from the south."
     },
     descriptionAdvanced: {
       de: "Carmelita ist ein strategisch günstig gelegenes Dorf im Orange Walk District, direkt am Phillip Goldson Highway an der Kreuzung zur Straße nach Shipyard. Das Dorf dient als wichtiges Eingangstor zum Herzen der mennonitischen Gebiete und ist ein geschäftiger Ort für Handel und Transport. Carmelita hat sich von einer kleinen Siedlung zu einer lebendigen Gemeinde mit Tankstellen, kleinen Restaurants und Geschäften entwickelt, die Reisende und LKW-Fahrer versorgen. Die Bewohner sind eine Mischung aus Mestizen und Kreolen, was dem Dorf eine vielfältige kulturelle Atmosphäre verleiht. Die ländliche Umgebung von Carmelita ist geprägt von Landwirtschaft und dem ständigen Fluss des Verkehrs zwischen Belize City und dem Norden. Trotz seiner Rolle als Verkehrsknotenpunkt hat das Dorf seinen freundlichen, kleinstädtischen Charme bewahrt.",
@@ -2215,8 +2215,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt.", "Tankstellen und kleine Restaurants.", "Tor zum mennonitischen Gebiet von Shipyard.", "Ländliche Umgebung."],
       hu: ["Fontos közlekedési csomópont.", "Benzinkutak és kis éttermek.", "Kapu a Shipyard mennonita területhez.", "Vidéki környezet."],
-      ro: ["Nod de transport important.", "Benzinării și mici restaurante.", "Poartă de acces către zona menonită Shipyard.", "Mediu rural."],
-      en: ["Important transportation junction.", "Gas stations and small restaurants.", "Gateway to the Shipyard Mennonite area.", "Rural setting."]
+      ro: ["Punct de plecare pentru tururi pe New River", "Aproape de ruinele Maya de la Lamanai", "Centru local de transport"],
+      en: ["Located at the Toll Bridge over the New River.", "Important stop for travelers and traders.", "Surrounded by sugarcane and citrus farms.", "Named after the former Carmelita estate."]
     },
     factsAdvanced: {
       de: ["Carmelita liegt an einer wichtigen Straßenkreuzung im Orange Walk District.", "Das Dorf ist als 'Tor zu Shipyard' bekannt.", "Es liegt etwa 12 Kilometer südlich von Orange Walk Town.", "Die Bevölkerung ist ethnisch gemischt (Mestizen und Kreolen).", "Carmelita beherbergt wichtige Versorgungsstationen für den Fernverkehr.", "Die Wirtschaft ist stark durch Handel und Dienstleistungen geprägt.", "Das Dorf hat eine aktive Gemeinschaft und lokale Sportvereine.", "Die Umgebung bietet weite Flächen für die Viehzucht."],
@@ -2381,10 +2381,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.9, 17.2167],
     name: { de: "Unitedville", hu: "Unitedville", ro: "Unitedville", en: "Unitedville" },
     description: {
-      de: "Ein bekanntes Dorf am Western Highway, das als Durchgangsort im Cayo Distrikt dient.",
-      hu: "Egy másik település a George Price autópálya mentén.",
-      ro: "O altă așezare pe autostrada George Price.",
-      en: "Another settlement along the George Price Highway."
+      de: "Ein Dorf im Cayo District, das strategisch günstig am George Price Highway zwischen Belmopan und San Ignacio liegt.",
+      hu: "Település a Cayo kerületben, a George Price országút mentén, San Ignacio és Belmopan között.",
+      ro: "Un sat divers situat în districtul Cayo, pe drumul spre capitala Belmopan.",
+      en: "A roadside community in the Cayo District, located along the George Price Highway between Belmopan and San Ignacio."
     },
     descriptionAdvanced: {
       de: "Unitedville ist eine friedliche Siedlung im Cayo District, die sich entlang des George Price Highway zwischen Belmopan und San Ignacio erstreckt. Wie der Name andeutet, ist das Dorf ein Ort, an dem Menschen verschiedener ethnischer Hintergründe zusammengekommen sind, um eine Gemeinschaft zu bilden. Unitedville zeichnet sich durch seine ländliche Ruhe und seine weiten Grundstücke aus, die oft für die Kleinhaltung von Vieh und den Obstanbau genutzt werden. Das Dorf bietet eine hohe Lebensqualität für Menschen, die die Nähe zu den städtischen Zentren von Cayo schätzen, aber lieber im Grünen wohnen möchten. Mit seinen kleinen Kirchen, der lokalen Schule und den freundlichen Nachbarn verkörpert Unitedville den friedlichen und integrierten Charakter des modernen Belize im Landesinneren.",
@@ -2393,10 +2393,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Unitedville is a thriving and culturally diverse village in the Cayo District, situated along the George Price Highway between Belmopan and San Ignacio. The village takes its name from the 'uniting' of several different ethnic groups and families who settled there to farm the fertile land. Today, Unitedville is a bustling community known for its active agricultural sector, producing a variety of crops and livestock. The village has a strong sense of community pride and is home to several important schools and local businesses. Its central location makes it a vital part of the Cayo District's network of villages, reflecting the successful integration and cooperative spirit that define much of Belize's rural landscape. Unitedville remains a quintessential example of a hard-working, multi-ethnic Belizean village."
     },
     facts: {
-      de: ["Cayo Distrikt", "Western Highway", "Verkehrsknoten"],
-      hu: ["Út menti falu.", "Különböző kultúrák keveréke.", "Jó kiindulópont Cayo felfedezéséhez.", "Vidéki falu."],
-      ro: ["Sat de-a lungul drumului.", "Amestec de diverse culturi.", "Punct de plecare bun pentru explorarea Cayo.", "Sat rural."],
-      en: ["Roadside village.", "Mix of different cultures.", "Good base for exploring Cayo.", "Rural village."]
+      de: ["Liegt im Cayo District", "Am George Price Highway gelegen", "Wichtiger Verbindungspunkt in Zentralbelize"],
+      hu: ["Központi elhelyezkedésű falu", "A szárazföldi turizmus egyik tranzitpontja", "Dinamikusan fejlődő közösség"],
+      ro: ["Comunitate multiculturală", "Situat într-o zonă deluroasă pitorească", "Acces facil la atracțiile din interiorul țării"],
+      en: ["Diverse community of Maya, Mestizo, and Mennonites.", "Center for local trade and agriculture.", "Accessible stopping point for western travelers.", "Features fertile land used for cattle and crops."]
     },
     factsAdvanced: {
       de: ["Unitedville liegt strategisch günstig am George Price Highway.", "Der Name symbolisiert die Einheit der verschiedenen Kulturen im Dorf.", "Viehzucht und Obstanbau sind die primären Freizeit- und Erwerbsquellen.", "Das Dorf beherbergt eine gemischte Bevölkerung aus Kreolen und Mestizen.", "Unitedville ist bekannt für seine großzügigen, grünen Wohnanlagen.", "Es liegt nur etwa 15 Minuten Fahrt von San Ignacio entfernt.", "Das Dorf verfügt über eine gut organisierte lokale Verwaltung.", "In der Umgebung gibt es mehrere kleine Flusszugänge zum Schwimmen."],
@@ -2417,10 +2417,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.9833, 16.25],
     name: { de: "Santa Rosa (Toledo)", hu: "Santa Rosa (Toledo)", ro: "Santa Rosa (Toledo)", en: "Santa Rosa (Toledo)" },
     description: {
-      de: "Eine abgelegene Gemeinschaft im tiefen Süden, die eng mit der umliegenden Natur verbunden ist.",
-      hu: "Maja falu Belize mély déli részén.",
-      ro: "Un sat mayaș în sudul profund al Belize.",
-      en: "A Maya village in the deep south of Belize."
+      de: "Eine indigene Mopan-Maya-Gemeinde im Toledo District, die für ihren nachhaltigen Kakaoanbau bekannt ist.",
+      hu: "Maja őslakosok lakta falu Toledo kerületben, Belize legdélebbi részén.",
+      ro: "Un sat tradițional Maya Mopan situat în districtul sudic Toledo, înconjurat de munți.",
+      en: "A Mopan Maya village in the Toledo District, known for its traditional lifestyle and lush rainforest surroundings."
     },
     descriptionAdvanced: {
       de: "Santa Rosa ist ein kleines, traditionelles Kekchi-Maya-Dorf im Toledo District, gelegen in der Nähe des Southern Highway. Die Gemeinde ist bekannt für ihre Bewahrung der Maya-Bräuche und ihre tiefe Verbundenheit mit dem Land. Santa Rosa ist ein Ort der Stille, in dem das Leben im Einklang mit der Natur und den jahreszeitlichen Zyklen verläuft. Die Bewohner betreiben Subsistenzlandwirtschaft und bauen Mais, Bohnen und Kakao an. Das Dorf zeichnet sich durch seine traditionellen strohgedeckten Häuser und die herzliche Gastfreundschaft aus. Für Reisende, die den Süden Belizes erkunden, bietet Santa Rosa einen Einblick in die unberührte Schönheit des Maya-Hinterlandes und die Widerstandsfähigkeit einer Kultur, die ihre Wurzeln trotz moderner Einflüsse stolz bewahrt.",
@@ -2429,10 +2429,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Santa Rosa is a small, traditional Kekchi Maya village in the Toledo District, located near the Southern Highway. The community is known for its preservation of Maya customs and its deep connection to the land. Santa Rosa is a place of silence, where life proceeds in harmony with nature and seasonal cycles. The residents practice subsistence farming, growing corn, beans, and cacao. The village is characterized by its traditional thatched-roof houses and warm hospitality. For travelers exploring southern Belize, Santa Rosa offers a glimpse into the untouched beauty of the Maya backcountry and the resilience of a culture that proudly maintains its roots despite modern influences. The village is a living example of the sustainable and ancestral lifestyle of the indigenous peoples of the south. Its peaceful setting and cultural authenticity make it a notable stop for those interested in the diverse heritage of Belize."
     },
     facts: {
-      de: ["Toledo Distrikt", "Südliches Belize", "Naturnah"],
-      hu: ["Kekchi-maja.", "Megélhetési gazdálkodás.", "Nim Li Punit maja romváros közelében.", "Hagyományos kultúra."],
-      ro: ["Mayași Kekchi.", "Agricultură de subzistență.", "Aproape de situl mayaș Nim Li Punit.", "Cultură tradițională."],
-      en: ["Kekchi Maya.", "Subsistence farming.", "Near the Nim Li Punit Maya site.", "Traditional culture."]
+      de: ["Südlichster Distrikt Toledo", "Mopan-Maya-Bevölkerung", "Zentrum für ökologischen Kakaoanbau"],
+      hu: ["A maja kultúra és hagyományok őrzője", "A trópusi esőerdők szomszédságában fekszik", "Fenntartható mezőgazdaság jellemzi"],
+      ro: ["Cunoscut pentru producția de cacao", "Promovează turismul cultural autentic", "Peisaje montane spectaculoase"],
+      en: ["Located in the deep south of Belize.", "Strong focus on subsistence agriculture.", "Community is part of the Maya land rights movement.", "Rich in Mopan Maya cultural traditions."]
     },
     factsAdvanced: {
       de: ["Santa Rosa wird fast ausschließlich von Kekchi-Maya bewohnt.", "Das Dorf liegt im südlichen Toledo-Distrikt nahe dem Southern Highway.", "In der Nähe befindet sich die archäologische Stätte Nim Li Punit.", "Subsistenzwirtschaft ist die primäre Lebensgrundlage.", "Das Dorf ist bekannt für seine traditionellen Kunsthandwerke.", "Santa Rosa ist ein Ort der Ruhe und kulturellen Authentizität.", "Die Maya-Sprache ist das Hauptkommunikationsmittel im Dorf.", "Die Gemeinschaft ist eng mit dem umliegenden Regenwald vernetzt."],
@@ -2490,9 +2490,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "San Pablo (Toledo)", hu: "San Pablo (Toledo)", ro: "San Pablo (Toledo)", en: "San Pablo (Toledo)" },
     description: {
       de: "Ein Dorf im ländlichen Toledo District.",
-      hu: "Falu a vidéki Toledo kerületben.",
-      ro: "Un sat în districtul rural Toledo.",
-      en: "A village in the rural Toledo District."
+      hu: "Kisebb falu Toledo kerületben, ahol a helyi közösség szoros kapcsolatban él a természettel.",
+      ro: "O așezare izolată și liniștită din districtul Toledo, unde natura și tradiția se întâlnesc.",
+      en: "A small Maya settlement in the Toledo District, representing the rural and traditional heart of southern Belize."
     },
     descriptionAdvanced: {
       de: "San Pablo ist ein ländliches Maya-Dorf im Toledo District, gelegen in der Nähe des Southern Highway. Die Gemeinde ist ein typisches Beispiel für die Maya-Siedlungen im Süden Belizes, in denen Landwirtschaft und Gemeinschaftssinn das tägliche Leben prägen. San Pablo ist bekannt für seinen Fokus auf den Anbau von Kakao und Mais, wobei traditionelle Anbaumethoden nach wie vor eine große Rolle spielen. Das Dorf hat eine ruhige, unprätentiöse Atmosphäre und bietet Besuchern einen Einblick in das authentische Leben der Maya im 21. Jahrhundert. Umgeben von üppiger tropischer Vegetation und kleinen Bächen, ist San Pablo ein Ort der Ruhe und Beständigkeit im sich wandelnden Süden des Landes.",
@@ -2502,9 +2502,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Maya-Gemeinschaft.", "Landwirtschaft.", "Nahe der Southern Highway.", "Traditioneller Lebensstil."],
-      hu: ["Maja közösség.", "Mezőgazdaság.", "A Déli autópálya közelében.", "Hagyományos életmód."],
-      ro: ["Comunitate mayașă.", "Agricultură.", "Aproape de Autostrada de Sud.", "Stil de viață tradițional."],
-      en: ["Maya community.", "Agriculture.", "Near the Southern Highway.", "Traditional lifestyle."]
+      hu: ["Dél-Belizében található", "Kecsi maja lakosságú", "Híres a vendégszeretetéről"],
+      ro: ["Populație predominant Maya", "Mod de viață sustenabil", "Înconjurat de păduri tropicale virgine"],
+      en: ["Inhabited by Mopan and Q'eqchi' Maya.", "Surrounded by pristine tropical forests.", "Relies on traditional farming techniques.", "Located near several scenic rivers."]
     },
     factsAdvanced: {
       de: ["San Pablo liegt im ländlichen Toledo-Distrikt.", "Das Dorf wird überwiegend von Kekchi-Maya bewohnt.", "Landwirtschaft (Kakao, Getreide) ist die Haupterwerbsquelle.", "Es liegt verkehrsgünstig nahe dem Southern Highway.", "San Pablo verfügt über eine eigene Grundschule.", "Die Gemeinschaft ist für ihren starken Zusammenhalt bekannt.", "Traditionelle Maya-Feste werden hier regelmäßig gefeiert.", "Das Dorf bietet eine sehr naturnahe Lebensumgebung."],
@@ -2528,7 +2528,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       de: "Dieses Dorf liegt an der Old Northern Road und ist ein Ausgangspunkt für Ausflüge in die Region.",
       hu: "Falu az Old Northern Highway mentén, kapu Altun Ha maja romvároshoz.",
       ro: "Un sat pe Old Northern Highway, poarta de acces către situl mayaș Altun Ha.",
-      en: "A village on the Old Northern Highway, gateway to the Altun Ha Maya site."
+      en: "An old village on the Old Northern Highway, serving as the gateway to the famous Altun Ha Maya site."
     },
     descriptionAdvanced: {
       de: "Maskall ist ein historisches Dorf im Belize District, gelegen am Old Northern Highway. Es dient als wichtiges Tor zur berühmten Maya-Stätte Altun Ha, die nur wenige Kilometer entfernt liegt. Maskall hat eine reiche Geschichte, die bis in die Zeit der Mahagoniholzfäller zurückreicht, und war einst eine bedeutende Station auf dem Weg ins Landesinnere. Das Dorf ist geprägt von einer Mischung aus Kreolen und Mestizen und ist bekannt für seine fruchtbaren Böden, auf denen Zitrusfrüchte und anderes Obst gedeihen. Maskall bietet eine friedliche, ländliche Atmosphäre mit alten Holzhäusern und großen Gärten. Für Touristen ist es ein interessanter Stopp, um mehr über die koloniale Vergangenheit und das bäuerliche Leben im River Valley von Belize zu erfahren.",
@@ -2540,7 +2540,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       de: ["Old Northern Road", "Distrikt Belize", "Ländliches Zentrum"],
       hu: ["Altun Ha közelében.", "Kreol és mesztic lakosság.", "Vidéki közösség.", "Történelmi fakitermelő útvonal."],
       ro: ["Aproape de Altun Ha.", "Populație creolă și mestizo.", "Comunitate rurală.", "Ruta istorică a tăietorilor de lemne."],
-      en: ["Near Altun Ha.", "Creole and Mestizo population.", "Rural community.", "Historic logging route."]
+      en: ["One of the oldest villages in Belize District.", "Known for cashew and fruit production.", "Rich history dating back to colonial times.", "Located near the Maskall River."]
     },
     factsAdvanced: {
       de: ["Maskall liegt am Old Northern Highway nördlich von Belize City.", "Es ist das nächstgelegene Dorf zur Maya-Stätte Altun Ha.", "Die Wirtschaft basiert auf Landwirtschaft und Kleingewerbe.", "Das Dorf hat eine lange Geschichte als Holzfällersiedlung.", "Maskall ist bekannt für seine Orangen- und Grapefruitplantagen.", "Die Bevölkerung ist ethnisch vielfältig gemischt.", "Es gibt mehrere historische Gebäude aus der Kolonialzeit im Dorf.", "Das Dorf ist ein Ruhepol abseits der modernen Highways."],
@@ -2563,7 +2563,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     description: {
       de: "Ein Dorf am Rio Hondo im Orange Walk District.",
       hu: "Falu a Rio Hondo mentén az Orange Walk kerületben.",
-      ro: "Un sat pe Rio Hondo în districtul Orange Walk.",
+      ro: "Un sat situat la granița cu Mexicul, pe malul râului Hondo, cu o istorie bogată în comerțul fluvial.",
       en: "A village on the Rio Hondo in the Orange Walk District."
     },
     descriptionAdvanced: {
@@ -2575,7 +2575,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaftliches Dorf.", "Nahe der mennonitischen Siedlung Blue Creek.", "Mestizen-Kultur.", "Grenznähe zu Mexiko."],
       hu: ["Mezőgazdasági falu.", "A Blue Creek mennonita település közelében.", "Mesztic kultúra.", "Közel a mexikói határhoz."],
-      ro: ["Sat agricol.", "Aproape de așezarea menonită Blue Creek.", "Cultură mestizo.", "Aproape de granița cu Mexic."],
+      ro: ["Punct strategic la frontieră", "Cunoscut pentru pescuitul artizanal", "Comunitate cu rădăcini Maya"],
       en: ["Agricultural village.", "Near the Blue Creek Mennonite settlement.", "Mestizo culture.", "Close to the Mexican border."]
     },
     factsAdvanced: {
@@ -2599,9 +2599,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Chicago (Toledo)", hu: "Chicago (Toledo)", ro: "Chicago (Toledo)", en: "Chicago (Toledo)" },
     description: {
       de: "Ein sehr kleines Dorf im Toledo District.",
-      hu: "Nagyon kis falu a Toledo kerületben.",
-      ro: "Un sat foarte mic în districtul Toledo.",
-      en: "A very small village in the Toledo District."
+      hu: "Egy elszigeteltebb település Toledo kerületben, a déli esőerdők és folyók vidékén.",
+      ro: "O comunitate mică și liniștită din districtul Toledo, oferind o perspectivă asupra vieții rurale autentice.",
+      en: "A remote and peaceful village in the Toledo District, characterized by its traditional Maya lifestyle."
     },
     descriptionAdvanced: {
       de: "Chicago ist eine winzige, abgelegene Siedlung im Toledo District, die trotz ihres klangvollen Namens ein sehr einfaches und ländliches Leben führt. Gelegen im tiefen Süden von Belize, ist Chicago eine Gemeinschaft von Maya-Familien, die primär von der Subsistenzlandwirtschaft leben. Der Name ist vermutlich auf Rückkehrer aus den USA zurückzuführen, die dem Ort ein internationales Flair verleihen wollten. Das Dorf ist geprägt von der Isolation und der Schönheit der unberührten Natur Toledos. In Chicago scheint die Zeit stillzustehen, und der Alltag wird von der Feldarbeit und dem Leben in der Gemeinschaft bestimmt. Es ist einer jener Orte in Belize, die zeigen, wie vielfältig und oft überraschend die Namensgebung und Geschichte selbst kleinster Siedlungen im Hinterland sein kann.",
@@ -2611,9 +2611,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Ländliche Siedlung.", "Landwirtschaft.", "Maya-Gemeinschaft.", "Abgelegene Lage."],
-      hu: ["Vidéki település.", "Mezőgazdaság.", "Maja közösség.", "Elszigetelt fekvés."],
-      ro: ["Așezare rurală.", "Agricultură.", "Comunitate mayașă.", "Locație izolată."],
-      en: ["Rural settlement.", "Agriculture.", "Maya community.", "Remote location."]
+      hu: ["Kicsi, de összetartó közösség", "A déli régió egyik legkisebb faluja", "Környezetét dús vegetáció alkotja"],
+      ro: ["Situat în sudul fertil al țării", "Populație dedicată agriculturii", "Atmosferă pașnică și izolată"],
+      en: ["Small Q'eqchi' Maya community.", "Located in the deep south of Belize.", "Surrounded by fertile rainforest land.", "Relies on subsistence agriculture."]
     },
     factsAdvanced: {
       de: ["Chicago ist eine der kleinsten Siedlungen im Toledo-Distrikt.", "Der Name ist eine Kuriosität in der belizischen Topographie.", "Die Bewohner gehören der Maya-Ethnie an.", "Landwirtschaft für den Eigenbedarf ist die Haupterwerbsquelle.", "Das Dorf liegt weitab von den touristischen Hauptrouten.", "In Chicago gibt es nur sehr begrenzte moderne Infrastruktur.", "Die Gemeinschaft ist extrem eng verbunden.", "Die umliegende Landschaft ist geprägt von tropischem Buschland."],
@@ -2636,9 +2636,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "San Felipe (Corozal)", hu: "San Felipe (Corozal)", ro: "San Felipe (Corozal)", en: "San Felipe (Corozal)" },
     description: {
       de: "Ein Dorf im Corozal District, nicht zu verwechseln mit dem in Orange Walk.",
-      hu: "Falu a Corozal kerületben, nem tévesztendő össze az Orange Walk-i településsel.",
-      ro: "Un sat în districtul Corozal, a nu se confunda cu cel din Orange Walk.",
-      en: "A village in the Corozal District, not to be confused with the one in Orange Walk."
+      hu: "Egy élénk mezőgazdasági falu Corozal kerületben, amely a cukornád-betakarítás idején válik különösen aktívvá.",
+      ro: "Un sat vibrant din districtul Corozal, recunoscut pentru spiritul său comunitar și tradițiile locale.",
+      en: "An agricultural community in the Corozal District, known for its production of sugarcane and local produce."
     },
     descriptionAdvanced: {
       de: "San Felipe ist ein friedliches Dorf im Corozal District, eingebettet in die weiten Zuckerrohrgebiete Nordbelizes. Die Gemeinschaft ist geprägt von der Mestizen-Kultur und lebt fast ausschließlich von der Landwirtschaft. San Felipe ist bekannt für seine geordnete Struktur und die Gastfreundschaft seiner Bewohner. Das Dorf liegt in einer Region, die historisch eng mit dem Kastenkrieg in Yucatan verbunden ist, was sich noch heute in den Bräuchen und der Sprache widerspiegelt. Die Nähe zu Corozal Town ermöglicht den Bewohnern den Zugang zu städtischen Annehmlichkeiten, während sie gleichzeitig die Ruhe des ländlichen Lebens genießen. Santa Felipe ist ein Paradebeispiel für die fleißigen und beständigen Bauerngemeinschaften, die das Rückgrat der Wirtschaft im Norden Belizes bilden.",
@@ -2648,9 +2648,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Zuckerrohranbau.", "Ländliches Dorf.", "Mestizen-Bevölkerung.", "Nahe Corozal Town."],
-      hu: ["Cukornádtermesztés.", "Vidéki falu.", "Mesztic lakosság.", "Corozal Town közelében."],
-      ro: ["Cultivarea trestiei de zahăr.", "Sat rural.", "Populație mestizo.", "Aproape de Corozal Town."],
-      en: ["Sugarcane farming.", "Rural village.", "Mestizo population.", "Near Corozal Town."]
+      hu: ["Corozal kerület délnyugati részén fekszik", "Erős spanyol ajkú közösség", "A mezőgazdaság a fő megélhetési forrás"],
+      ro: ["Comunitate predominant mestizo", "Economie bazată pe cultivarea porumbului", "Aproape de lagune pitorești"],
+      en: ["Located in northern Belize.", "Inhabited mainly by Mestizo families.", "Key part of the district's sugar industry.", "Known for its strong community spirit."]
     },
     factsAdvanced: {
       de: ["San Felipe liegt im fruchtbaren Zuckergürtel des Corozal-Distrikts.", "Zuckerrohranbau ist die primäre Einnahmequelle der Bewohner.", "Die Bevölkerung besteht überwiegend aus spanischsprachigen Mestizen.", "Das Dorf verfügt über eine eigene Grundschule und Kirchengemeinden.", "Es liegt etwa 20 Kilometer südlich von Corozal Town.", "San Felipe ist bekannt für seinen starken sozialen Zusammenhalt.", "Die Erntezeit (Zafra) ist das wichtigste Ereignis im Jahr.", "Die Infrastruktur des Dorfes ist für eine ländliche Region gut entwickelt."],
@@ -2672,10 +2672,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-89.15, 16.2333],
     name: { de: "Santa Teresa (Toledo)", hu: "Santa Teresa (Toledo)", ro: "Santa Teresa (Toledo)", en: "Santa Teresa (Toledo)" },
     description: {
-      de: "Ein Dorf im Toledo Distrikt, geprägt von traditionellem Leben und landwirtschaftlicher Subsistenz.",
-      hu: "Elszigetelt maja falu Toledo nyugati részén.",
-      ro: "Un sat mayaș izolat în vestul Toledo.",
-      en: "A remote Maya village in western Toledo."
+      de: "Ein abgelegenes Dorf im Süden von Belize, das für seine traditionelle Lebensweise und die Nähe zum Dschungel geschätzt wird.",
+      hu: "Egy félreeső maja falu Toledo kerületben, amely a hagyományos életmódjáról és kézművességéről ismert.",
+      ro: "O așezare tradițională Maya situată în inima districtului Toledo, înconjurată de dealuri verzi.",
+      en: "A traditional Q'eqchi' Maya village in the Toledo District, set in a lush tropical landscape."
     },
     descriptionAdvanced: {
       de: "Santa Teresa ist ein abgelegenes und traditionsreiches Kekchi-Maya-Dorf im Toledo District, gelegen in der Nähe der guatemaltekischen Grenze. Die Gemeinschaft lebt hier in einer unberührten Dschungellandschaft und bewahrt einen sehr authentischen Maya-Lebensstil. Santa Teresa ist bekannt für seine traditionelle Architektur, die handwerklichen Fähigkeiten der Bewohner und die Subsistenzlandwirtschaft. Das Dorf ist ein Ort der Stille und der tiefen Verbundenheit mit der Natur. Aufgrund seiner Abgeschiedenheit hat sich Santa Teresa eine kulturelle Reinheit bewahrt, die es zu einem interessanten Ziel für ernsthafte Kulturreisende macht. Die Bewohner sind stolz auf ihr Erbe und empfangen Besucher mit einer zurückhaltenden, aber ehrlichen Gastfreundschaft, die einen tiefen Einblick in das Herz der Maya-Welt im Süden Belizes bietet.",
@@ -2684,10 +2684,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Santa Teresa is a remote and traditional Kekchi Maya village in the Toledo District, located near the Guatemalan border. The community lives in an untouched jungle landscape and preserves a very authentic Maya lifestyle. Santa Teresa is known for its traditional architecture, the artisanal skills of its residents, and subsistence farming. The village is a place of silence and deep connection with nature. Due to its remoteness, Santa Teresa has preserved a cultural purity that makes it an interesting destination for serious cultural travelers. The residents are proud of their heritage and receive visitors with a reserved but honest hospitality that offers deep insight into the heart of the Maya world in southern Belize. It remains a bastion of ancient traditions and a model for sustainable living in the rainforest, where the community works together to maintain their unique way of life."
     },
     facts: {
-      de: ["Toledo Distrikt", "Traditionelles Leben", "Landwirtschaft"],
-      hu: ["Közel a guatemalai határhoz.", "Kekchi-maja.", "Hagyományos életmód.", "Nehezen megközelíthető."],
-      ro: ["Aproape de granița cu Guatemala.", "Mayași Kekchi.", "Stil de viață tradițional.", "Greu accesibil."],
-      en: ["Near the Guatemalan border.", "Kekchi Maya.", "Traditional way of life.", "Difficult to access."]
+      de: ["Liegt im Toledo District", "Traditionelle Maya-Architektur", "Umgeben von tropischem Regenwald"],
+      hu: ["Kecsi maja népesség lakja", "Dombos, esőerdővel övezett terület", "Híres a hagyományos fonott kosarairól"],
+      ro: ["Centru de păstrare a limbii Maya Q'eqchi'", "Cunoscut pentru meșteșugurile tradiționale", "Acces la cascade naturale locale"],
+      en: ["Strong adherence to Maya customs.", "Accessible via rural roads in the south.", "Known for traditional thatch-roof houses.", "Surrounded by rivers and hills."]
     },
     factsAdvanced: {
       de: ["Santa Teresa wird ausschließlich von Kekchi-Maya bewohnt.", "Das Dorf liegt im tiefen Westen des Toledo-Distrikts.", "Traditionelle Maya-Sprache und Bräuche prägen den Alltag.", "Subsistenzwirtschaft (Mais, Bohnen) ist die Lebensgrundlage.", "Das Dorf ist über unbefestigte Dschungelpfade erreichbar.", "Die Häuser sind in traditioneller Bauweise mit Palmblattdächern errichtet.", "Santa Teresa hat keine Anbindung an das öffentliche Stromnetz.", "Die Gemeinschaft ist bekannt für ihre traditionellen Heilpraktiker."],
@@ -2708,9 +2708,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.5, 18.1833],
     name: { de: "Caledonia (Corozal)", hu: "Caledonia (Corozal)", ro: "Caledonia (Corozal)", en: "Caledonia (Corozal)" },
     description: {
-      de: "Eine kleine Gemeinde im Distrikt Corozal, die zwischen dem Fluss und dem Wald liegt.",
-      hu: "Falu a Corozal és az Orange Walk kerület határán.",
-      ro: "Un sat la granița dintre districtele Corozal și Orange Walk.",
+      de: "Ein Dorf im Corozal District, das am New River liegt und stark von der Zuckerrohrindustrie geprägt ist.",
+      hu: "Település a New River partján, Corozal kerületben, amely fontos szerepet játszik a helyi kereskedelemben.",
+      ro: "Un sat istoric din districtul Corozal, situat strategic pe malul râului New River.",
       en: "A village on the border between Corozal and Orange Walk districts."
     },
     descriptionAdvanced: {
@@ -2720,9 +2720,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Caledonia is a bustling village on the border between the Corozal and Orange Walk districts, situated along the banks of the New River. The community is a significant agricultural center, traditionally known for sugarcane production and increasingly for the export of papayas. Caledonia has a dynamic Mestizo population and serves as an important hub for regional trade. Its location by the river and fertile soils make Caledonia one of the most productive villages in northern Belize. The village boasts well-developed infrastructure and offers insights into the success of modern Belizean agriculture. With its lively atmosphere and strong entrepreneurial spirit, Caledonia is a vital driver for the northern economy. It remains a key example of how traditional farming communities can adapt and thrive in the modern global market."
     },
     facts: {
-      de: ["Corozal Distrikt", "Flussnähe", "Ländliche Idylle"],
-      hu: ["Mezőgazdasági közösség.", "Cukornád- és papayatermesztés.", "Mesztic falu.", "Fontos országút mentén."],
-      ro: ["Comunitate agricolă.", "Cultivarea trestiei de zahăr și a papaya.", "Sat mestizo.", "Pe un drum de țară important."],
+      de: ["Am Ufer des New River gelegen", "Wichtiger Standort für Zuckerrohrbauern", "Teil des Corozal District"],
+      hu: ["A folyó menti szállítás egykori központja", "Cukornád-ültetvények veszik körül", "Békés, vidéki hangulat jellemzi"],
+      ro: ["Nume inspirat de coloniști scoțieni", "Importanță istorică în transportul de bușteni", "Peisaje fluviale deosebite"],
       en: ["Farming community.", "Sugarcane and papaya farming.", "Mestizo village.", "On an important rural road."]
     },
     factsAdvanced: {
@@ -2746,9 +2746,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Sand Hill", hu: "Sand Hill", ro: "Sand Hill", en: "Sand Hill" },
     description: {
       de: "Ein Dorf am Northern Highway, nördlich von Ladyville.",
-      hu: "Falu az Északi autópálya mentén, Ladyville-től északra.",
-      ro: "Un sat pe Autostrada de Nord, la nord de Ladyville.",
-      en: "A village on the Northern Highway, north of Ladyville."
+      hu: "Egy stratégiai elhelyezkedésű falu a Philip Goldson és az Old Northern Highway találkozásánál.",
+      ro: "O localitate de tranzit importantă situată la intersecția unor drumuri majore din districtul Belize.",
+      en: "A growing village in the Belize District, located at a major junction on the Phillip Goldson Highway."
     },
     descriptionAdvanced: {
       de: "Sand Hill ist ein strategisch günstig gelegenes Dorf im Belize District, direkt am Phillip Goldson Highway etwa 30 Kilometer nördlich von Belize City. Als wichtiger Verkehrsknotenpunkt dient das Dorf vielen Pendlern als Wohnort, die in der Stadt arbeiten, aber ein ruhigeres, ländliches Leben bevorzugen. Sand Hill hat einen überwiegend kreolischen Charakter und ist bekannt für seine weitläufigen Grundstücke und die üppige tropische Vegetation. Die Gemeinde beherbergt mehrere kleine Geschäfte und Dienstleistungsbetriebe, die die Reisenden auf dem Weg nach Norden versorgen. Trotz des ständigen Verkehrsflusses auf dem Highway bietet Sand Hill in seinen Wohngebieten eine friedliche Atmosphäre. Die Nähe zum Flughafen und zur Stadt macht es zu einer begehrten Lage im zentralen Teil von Belize.",
@@ -2758,9 +2758,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Kreolisches Dorf.", "Ländliche Umgebung.", "Verkehrsgünstige Lage.", "Wachsende Bevölkerung."],
-      hu: ["Kreol falu.", "Vidéki környezet.", "Kényelmes közlekedési helyzet.", "Növekvő népesség."],
-      ro: ["Sat creol.", "Mediu rural.", "Locație convenabilă pentru transport.", "Populație în creștere."],
-      en: ["Creole village.", "Rural setting.", "Convenient transport location.", "Growing population."]
+      hu: ["Belize District egyik kapuja", "Fontos közlekedési csomópont", "Kereskedelmi egységek és lakóházak elegye"],
+      ro: ["Punct de oprire pentru călători", "Dezvoltare rapidă în ultimii ani", "Înconjurată de savană și pini"],
+      en: ["Primary gateway to northern Belize.", "Located 19 miles from Belize City.", "Hub for local transport and small businesses.", "Close to several nature reserves."]
     },
     factsAdvanced: {
       de: ["Sand Hill liegt direkt am Phillip Goldson Highway (Northern Highway).", "Das Dorf ist ein wichtiger Wohnort für Pendler nach Belize City.", "Die Bevölkerung ist primär kreolischer Abstammung.", "In Sand Hill befindet sich die Abzweigung zum Old Northern Highway.", "Das Dorf liegt etwa 30 Kilometer nördlich des Stadtzentrums von Belize City.", "Die Wirtschaft ist durch Kleingewerbe und Dienstleistungen geprägt.", "Die Umgebung bietet weite Flächen für die Haltung von Nutztieren.", "Sand Hill verfügt über mehrere Grundschulen und Gemeinschaftszentren."],
@@ -2781,8 +2781,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.3667, 17.7],
     name: { de: "Biscayne", hu: "Biscayne", ro: "Biscayne", en: "Biscayne" },
     description: {
-      de: "Ein Dorf an der Northern Highway im Distrikt Belize, das oft als kleiner Ruhepunkt dient.",
-      hu: "Kis település az Északi autópálya mentén.",
+      de: "Ein ruhiges Dorf im Belize District, das für seine reiche Vogelwelt und die Nähe zum Crooked Tree Wildlife Sanctuary bekannt ist.",
+      hu: "Egy falu a Philip Goldson országút mentén, amely a Crooked Tree Wildlife Sanctuary közelében található.",
       ro: "O mică așezare pe Autostrada de Nord.",
       en: "A small settlement on the Northern Highway."
     },
@@ -2793,8 +2793,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Biscayne is a small but charming settlement in the Belize District, stretching along the Phillip Goldson Highway. The village is located in the heart of the area surrounding the Crooked Tree Wildlife Sanctuary and offers a quiet, nature-oriented residential environment. Biscayne is characterized by a predominantly Creole population, traditionally living from agriculture and small-scale trade. For travelers, the village is mainly known as a peaceful stop on the way north. The area around Biscayne is characterized by vast savannas and wetlands that host a rich variety of birdlife. The village offers an authentic insight into unpretentious life in the rural Belize District, where nature and a warm community form the foundation of everyday life. It is an ideal spot for those looking to experience the tranquil pace of the Belizean countryside."
     },
     facts: {
-      de: ["Distrikt Belize", "Northern Highway", "Ruhepunkt"],
-      hu: ["Út menti falu.", "Vidéki hangulat.", "A Crooked Tree vadvédelmi terület közelében.", "Kreol közösség."],
+      de: ["Gehört zum Belize District", "Nahe dem Crooked Tree Schutzgebiet", "Beliebt bei Vogelbeobachtern"],
+      hu: ["Gazdag madárvilág jellemzi a környéket", "A tranzitforgalom egyik pihenőhelye", "Természetközeli lakókörnyezet"],
       ro: ["Sat de-a lungul drumului.", "Atmosferă rurală.", "Aproape de Sanctuarul Crooked Tree.", "Comunitate creolă."],
       en: ["Roadside village.", "Rural atmosphere.", "Near the Crooked Tree Wildlife Sanctuary.", "Creole community."]
     },
@@ -2854,9 +2854,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "August Pine Ridge", hu: "August Pine Ridge", ro: "August Pine Ridge", en: "August Pine Ridge" },
     description: {
       de: "Ein großes Dorf im Orange Walk District, umgeben von Zuckerrohrfeldern.",
-      hu: "Nagy falu az Orange Walk kerületben, cukornádültetvényekkel körülvéve.",
-      ro: "Un sat mare în districtul Orange Walk, înconjurat de câmpuri de trestie de zahăr.",
-      en: "A large village in the Orange Walk District, surrounded by sugarcane fields."
+      hu: "Település Orange Walk kerületben, amely a környékbeli fenyvesekről és mezőgazdaságáról kapta a nevét.",
+      ro: "O comunitate agricolă din districtul Orange Walk, renumită pentru diversitatea sa culturală.",
+      en: "A vibrant village in the Orange Walk District, known for its industrious community and agricultural output."
     },
     descriptionAdvanced: {
       de: "August Pine Ridge ist ein großes und produktives Dorf im Orange Walk District, umgeben von endlosen Zuckerrohrfeldern. Die Gemeinde ist ein integraler Teil der nordbelizischen Zuckerindustrie und lebt fast ausschließlich von der Landwirtschaft. August Pine Ridge hat eine starke Mestizen-Identität, und die Bewohner sind bekannt für ihren Fleiß und ihren Gemeinschaftssinn. Das Dorf bietet eine geordnete Struktur mit gut gepflegten Häusern und Gärten. Trotz seiner rein landwirtschaftlichen Ausrichtung hat August Pine Ridge eine lebendige lokale Kultur mit traditionellen Festen und einem aktiven Dorfleben. Die weiten Ausblicke über die Zuckerrohrlandschaft und die herzliche Gastfreundschaft der Bewohner machen das Dorf zu einem authentischen Ort im Norden, der die wirtschaftliche Lebensader des Landes widerspiegelt.",
@@ -2866,9 +2866,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Überwiegend Mestizen-Bevölkerung.", "Stark von der Zuckerindustrie abhängig.", "Ländliches Dorf.", "Starke Gemeinschaft."],
-      hu: ["Túlnyomórészt mesztic lakosság.", "Erősen függ a cukoripartól.", "Vidéki falu.", "Erős közösség."],
-      ro: ["Populație predominant mestizo.", "Foarte dependent de industria zahărului.", "Sat rural.", "Comunitate puternică."],
-      en: ["Predominantly Mestizo population.", "Heavily dependent on the sugar industry.", "Rural village.", "Strong community."]
+      hu: ["Észak-Belize egyik csendes faluja", "Mezőgazdasági termelés a meghatározó", "Hagyományos falusi szerkezet"],
+      ro: ["Populație mixtă de mestizo și menoniți", "Centru regional pentru produse lactate", "Situat într-o zonă de pădure de pini"],
+      en: ["One of the larger villages in the north.", "Mix of Mestizo and Maya populations.", "Important center for sugarcane and corn.", "Has a well-organized community structure."]
     },
     factsAdvanced: {
       de: ["August Pine Ridge ist eines der größten Bauerndörfer im Norden.", "Zuckerrohr ist das Hauptprodukt der lokalen Wirtschaft.", "Die Bewohner sind überwiegend spanischsprachige Mestizen.", "Das Dorf liegt etwa 25 Kilometer südlich von Orange Walk Town.", "Die Erntezeit (Zafra) bestimmt den Rhythmus des täglichen Lebens.", "August Pine Ridge verfügt über eine sehr aktive lokale Kreditgenossenschaft.", "Das Dorf hat eine Grundschule und mehrere Kirchen.", "Es ist bekannt für seine gut organisierte Dorfgemeinschaft."],
@@ -2890,10 +2890,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.4667, 18.2833],
     name: { de: "Libertad (Corozal)", hu: "Libertad (Corozal)", ro: "Libertad (Corozal)", en: "Libertad (Corozal)" },
     description: {
-      de: "Ein bedeutender Ort im Corozal Distrikt, der einst durch die Zuckerproduktion geprägt war.",
-      hu: "Történelmi falu a Corozal kerületben, egykor cukorgyár helyszíne.",
-      ro: "Un sat istoric în districtul Corozal, fostă locație a unei fabrici de zahăr.",
-      en: "A historic village in the Corozal District, formerly the site of a sugar factory."
+      de: "Ein historisches Dorf im Corozal District, das früher ein Zentrum der Zuckerverarbeitung in Belize war.",
+      hu: "Egy korábbi cukorgyári település Corozal kerületben, amely ma békés lakóközösségként működik.",
+      ro: "Un sat cu o moștenire industrială, fiind locul unde a funcționat odinioară o fabrică de zahăr majoră.",
+      en: "A historic village in the Corozal District, once the site of a major sugar factory."
     },
     descriptionAdvanced: {
       de: "Libertad ist ein geschichtsträchtiges Dorf im Corozal District, das eine zentrale Rolle in der industriellen Vergangenheit Belizes spielte. Es war der Standort einer der ersten großen Zuckerfabriken des Landes, was dem Dorf über Jahrzehnte hinweg Wohlstand und Wachstum bescherte. Auch wenn die Fabrik heute nicht mehr in Betrieb ist, zeugen die beeindruckenden Ruinen und die geplante Struktur des Dorfes von dieser Ära. Libertad liegt am Ufer des New River und bietet eine friedliche Atmosphäre mit einer Mischung aus kreolischer und Mestizen-Kultur. Heute lebt die Gemeinde primär von der Landwirtschaft und dem Fischfang. Mit seiner einzigartigen industriellen Geschichte und der ruhigen Lage am Fluss bietet Libertad einen faszinierenden Einblick in den Wandel Belizes von der Kolonialzeit zur Moderne.",
@@ -2902,10 +2902,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Libertad is a historic village in the Corozal District that played a central role in Belize's industrial past. It was the site of one of the country's first major sugar factories, which brought prosperity and growth to the village for decades. Although the factory is no longer in operation, the impressive ruins and the planned structure of the village testify to this era. Libertad is located on the banks of the New River and offers a peaceful atmosphere with a mix of Creole and Mestizo cultures. Today, the community lives primarily from agriculture and fishing. With its unique industrial history and quiet river location, Libertad offers a fascinating insight into Belize's transition from colonial times to modernity. It remains a place of historical reflection and a quiet residential haven in the north."
     },
     facts: {
-      de: ["Corozal Distrikt", "Zuckerindustrie", "Historisch"],
-      hu: ["Történelmi jelentőségű a cukoripar számára.", "A New River mentén található.", "Csendes falu.", "Mesztic és kreol kultúra."],
-      ro: ["Importanță istorică pentru industria zahărului.", "Situat pe râul New.", "Sat liniștit.", "Cultură mestizo și creolă."],
-      en: ["Historic importance for the sugar industry.", "Located on the New River.", "Quiet village.", "Mestizo and Creole culture."]
+      de: ["Ehemaliger Standort einer großen Zuckerfabrik", "Liegt im Norden des Landes", "Benannt nach der Freiheit"],
+      hu: ["A cukoripar történetének fontos helyszíne", "A Corozal-öböl közelében fekszik", "Ipari múlt és vidéki jelen ötvözete"],
+      ro: ["Istorie legată de industria zahărului", "Situat în nordul districtului Corozal", "Comunitate cu o identitate puternică"],
+      en: ["Located near the New River.", "Played a key role in the colonial economy.", "Now a quiet residential and farming area.", "Maintains a strong sense of local history."]
     },
     factsAdvanced: {
       de: ["Libertad war einst das Herz der belizischen Zuckerindustrie.", "Die stillgelegte Zuckerfabrik ist ein markantes Wahrzeichen des Dorfes.", "Das Dorf liegt malerisch am Ufer des New River.", "Libertad verfügt über eine gut geplante Struktur mit weiten Straßen.", "Die Bevölkerung ist ethnisch gemischt (Kreolen und Mestizen).", "Es liegt etwa 15 Kilometer südlich von Corozal Town.", "Das Dorf ist bekannt für seine ruhige und sichere Wohnumgebung.", "Fischerei im New River ist eine wichtige Nebenerwerbsquelle."],
@@ -2928,9 +2928,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Santa Cruz (Corozal)", hu: "Santa Cruz (Corozal)", ro: "Santa Cruz (Corozal)", en: "Santa Cruz (Corozal)" },
     description: {
       de: "Ein kleines Dorf nahe Corozal Town.",
-      hu: "Kis falu Corozal Town közelében.",
-      ro: "Un mic sat lângă Corozal Town.",
-      en: "A small village near Corozal Town."
+      hu: "Kis falu Corozal kerületben, amely a mexikói határ és a Hondo-folyó közvetlen közelében helyezkedik el.",
+      ro: "Un sat pitoresc din nordul țării, unde agricultura și tradiția merg mână în mână.",
+      en: "A small agricultural village in the Corozal District, contributing to the region's diverse farming landscape."
     },
     descriptionAdvanced: {
       de: "Santa Cruz ist ein typisches, landwirtschaftlich geprägtes Dorf im Corozal District, eingebettet in die fruchtbare Küstenebene Nordbelizes. Die Gemeinschaft lebt primär vom Zuckerrohranbau und der Produktion von Nahrungsmitteln für den lokalen Markt. Santa Cruz hat einen ruhigen, ländlichen Charakter bewahrt, in dem die Menschen in engem Kontakt mit dem Land leben. Das Dorf zeichnet sich durch seine freundliche Mestizen-Bevölkerung und die einfache, aber herzliche Lebensweise aus. Aufgrund seiner Nähe zur Bucht von Corozal genießen die Bewohner oft eine kühlende Meeresbrise. Santa Cruz bietet einen authentischen Einblick in das Leben abseits der Hauptstraßen, wo Traditionen und die Arbeit auf dem Feld das Fundament der Gemeinschaft bilden.",
@@ -2940,9 +2940,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Ländliche Siedlung.", "Landwirtschaft.", "Mestizen-Gemeinschaft.", "Nahe der Bucht von Chetumal."],
-      hu: ["Vidéki település.", "Mezőgazdaság.", "Mesztic közösség.", "A Chetumal-öböl közelében."],
-      ro: ["Așezare rurală.", "Agricultură.", "Comunitate mestizo.", "Aproape de Golful Chetumal."],
-      en: ["Rural settlement.", "Agriculture.", "Mestizo community.", "Near Chetumal Bay."]
+      hu: ["Határmenti elhelyezkedés", "Mezőgazdasági közösség", "Kulturálisan sokszínű lakosság"],
+      ro: ["Producător important de trestie de zahăr", "Atmosferă rurală tradițională", "Comunitate ospitalieră și unită"],
+      en: ["Located in northern Belize.", "Predominantly Mestizo population.", "Known for sugarcane and fruit orchards.", "Close to the Mexican border."]
     },
     factsAdvanced: {
       de: ["Santa Cruz liegt im Herzen des Zuckerrohrgebiets von Corozal.", "Landwirtschaft ist die fast ausschließliche Ewerbsquelle.", "Das Dorf hat eine überwiegend spanischsprachige Bevölkerung.", "Es liegt etwa 15 Kilometer nordwestlich von Corozal Town.", "Santa Cruz verfügt über eine eigene Grundschule.", "Die Gemeinschaft ist bekannt für ihren starken sozialen Zusammenhalt.", "Das Dorf liegt in einer landschaftlich reizvollen Küstenebene.", "Traditionelle Feste spielen eine große Rolle im Dorfleben."],
@@ -2999,10 +2999,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.8333, 17.2333],
     name: { de: "Teakettle", hu: "Teakettle", ro: "Teakettle", en: "Teakettle" },
     description: {
-      de: "Ein bekanntes Dorf im Cayo Distrikt, das für seine friedliche Umgebung und Landwirtschaft bekannt ist.",
-      hu: "Falu a Nyugati autópálya mentén, Belmopantól keletre.",
-      ro: "Un sat pe Autostrada de Vest, la est de Belmopan.",
-      en: "A village on the Western Highway, east of Belmopan."
+      de: "Ein Dorf im Cayo District, das als Ausgangspunkt für Abenteuer in der berühmten Actun Tunichil Muknal Höhle dient.",
+      hu: "Egy falu a George Price országút mentén, Cayo kerületben, az Actun Tunichil Muknal barlang közelében.",
+      ro: "Un sat din districtul Cayo, renumit pentru apropierea sa de numeroase peșteri și situri de aventură.",
+      en: "A well-known village in the Cayo District, located along the George Price Highway near the capital city."
     },
     descriptionAdvanced: {
       de: "Teakettle ist ein verkehrsgünstig gelegenes Dorf im Cayo District, direkt am George Price Highway etwa auf halber Strecke zwischen Belmopan und San Ignacio. Der ungewöhnliche Name des Dorfes stammt vermutlich von einem lokalen Bach. Teakettle dient als wichtiger Verkehrsknotenpunkt und ist bekannt als Ausgangspunkt für Touren zur berühmten ATM-Höhle. Das Dorf beherbergt eine vielfältige Bevölkerung aus Kreolen, Mestizen und Mayas, was ihm eine typisch belizische kulturelle Vielfalt verleiht. Die Bewohner leben von der Landwirtschaft und zunehmend vom Tourismus. Mit seinen kleinen Geschäften, lokalen Restaurants und der Nähe zum Belize River bietet Teakettle eine lebendige und gastfreundliche Atmosphäre. Für Abenteuerlustige ist es die letzte Station vor dem Eintauchen in die mystische Unterwelt der Maya.",
@@ -3011,10 +3011,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Teakettle is a conveniently located village in the Cayo District, right on the George Price Highway about halfway between Belmopan and San Ignacio. The village's unusual name likely comes from a local creek. Teakettle serves as an important transportation hub and is known as the starting point for tours to the famous Actun Tunichil Muknal (ATM) cave. The village is home to a diverse population of Creoles, Mestizos, and Mayas, giving it a typically Belizean cultural diversity. Residents live from agriculture and increasingly from tourism. With its small shops, local restaurants, and proximity to the Belize River, Teakettle offers a lively and hospitable atmosphere. For adventure seekers, it is the last stop before diving into the mystical underworld of the Maya. The village represents the transition from the bustling highway life to the deep jungle adventures of the Cayo interior."
     },
     facts: {
-      de: ["Cayo Distrikt", "Ruhig", "Landwirtschaft"],
-      hu: ["Út menti falu.", "Vegyes lakosság.", "Mezőgazdaság.", "A Belize-folyó közelében."],
-      ro: ["Sat de-a lungul drumului.", "Populație mixtă.", "Agricultură.", "Aproape de râul Belize."],
-      en: ["Roadside village.", "Mixed population.", "Agriculture.", "Near the Belize River."]
+      de: ["Tor zur ATM-Höhle", "Liegt am George Price Highway", "Üppige tropische Umgebung"],
+      hu: ["A barlangtúrák egyik kiindulópontja", "Festői környezet a folyó völgyében", "Népszerű megálló a turisták számára"],
+      ro: ["Poartă către peștera Actun Tunichil Muknal", "Situat pe autostrada George Price", "Bază populară pentru exploratori"],
+      en: ["Situated east of Belmopan.", "Entry point for many jungle adventures.", "Home to a diverse and friendly population.", "Named after a nearby creek."]
     },
     factsAdvanced: {
       de: ["Teakettle liegt direkt am George Price Highway bei Meile 52.", "Es ist der offizielle Startpunkt für Expeditionen zur ATM-Höhle.", "Das Dorf beherbergt eine ethnisch sehr vielfältige Bevölkerung.", "Teakettle liegt in unmittelbarer Nähe zum malerischen Belize River.", "Die Wirtschaft profitiert stark vom archäologischen Tourismus.", "In Teakettle gibt es mehrere bekannte Dschungel-Lodges.", "Das Dorf verfügt über eine eigene Grundschule und Kirchengemeinden.", "Es ist ein beliebter Stopp für Reisende in den Westen."],
@@ -3035,10 +3035,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.9, 16.1667],
     name: { de: "Santa Elena (Toledo)", hu: "Santa Elena (Toledo)", ro: "Santa Elena (Toledo)", en: "Santa Elena (Toledo)" },
     description: {
-      de: "Eine Siedlung im Distrikt Toledo, die tief in die traditionelle Lebensweise des Südens eingebettet ist.",
-      hu: "Maja falu a guatemalai határon.",
-      ro: "Un sat mayaș la granița cu Guatemala.",
-      en: "A Maya village on the Guatemalan border."
+      de: "Eine Maya-Gemeinde im Süden von Belize, die für ihre beeindruckenden Höhlensysteme und natürliche Schönheit bekannt ist.",
+      hu: "Egy hagyományos maja közösség Toledo kerületben, ahol a népi gyógyászat és szokások ma is élnek.",
+      ro: "O comunitate Maya situată într-o zonă muntoasă izolată, oferind priveliști spectaculoase.",
+      en: "A remote Q'eqchi' Maya village in the Toledo District, offering a glimpse into traditional indigenous life."
     },
     descriptionAdvanced: {
       de: "Santa Elena ist ein idyllisches Dorf im äußersten Süden des Toledo-Distrikts, das für seine tiefe Verwurzelung in der Maya-Kultur bekannt ist. Gelegen an der Schwelle zum unberührten Dschungel und nahe der Grenze zu Guatemala, bietet es Besuchern einen authentischen Einblick in das traditionelle Leben der Mopan-Maya. Die Gemeinschaft lebt primär von der Landwirtschaft, wobei der Anbau von Kakao und Mais nach jahrhundertealten Methoden im Vordergrund steht. In Santa Elena scheint die Zeit langsamer zu vergehen, während die Bewohner ihre Bräuche, Sprachen und die harmonische Beziehung zur Natur pflegen. Für Abenteurer ist das Dorf ein Tor zu versteckten Höhlen und unberührten Flussläufen, die weitab der touristischen Pfade liegen. Die herzliche Gastfreundschaft der Dorfbewohner macht jeden Besuch zu einer persönlichen Begegnung mit dem lebendigen Erbe Belizes.",
@@ -3047,10 +3047,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Santa Elena in the Toledo District is a remote Maya village located near the border with Guatemala. This community, primarily inhabited by Kekchi Maya, lives in a quiet and traditional way, largely isolated from the modern developments of northern Belize. Santa Elena serves as a point for informal cross-border trade, which is a vital part of the local economy. The village is surrounded by dense tropical forest and rugged terrain, making it a place of great natural beauty and cultural authenticity. Residents practice subsistence farming and are known for their deep connection to the land and their ancestral customs. For those looking to experience the true frontier spirit of southern Belize, Santa Elena offers a unique perspective on the challenges and rewards of life in the remote Maya Mountains. It is a place where traditional values and the rhythms of nature still dictate the flow of daily life."
     },
     facts: {
-      de: ["Toledo Distrikt", "Traditionell", "Südbelize"],
-      hu: ["Határátkelőhely.", "Kekchi-maja.", "Informális kereskedelem.", "Elszigetelt fekvés."],
-      ro: ["Punct de trecere a frontierei.", "Mayași Kekchi.", "Comerț informal.", "Locație izolată."],
-      en: ["Border crossing point.", "Kekchi Maya.", "Informal trade.", "Remote location."]
+      de: ["Bekannt für die Rio Blanco Wasserfälle", "Traditionelle Q'eqchi'-Maya-Kultur", "Südlicher Toledo District"],
+      hu: ["Az esőerdők mélyén található", "Ökoturisztikai kezdeményezések helyszíne", "Híres a helyi kakaótermesztésről"],
+      ro: ["Faimos pentru cascada Rio Blanco din apropiere", "Locuințe tradiționale din paie și lemn", "Destinație pentru turismul de aventură"],
+      en: ["Located near the southern border.", "Known for sustainable forest farming.", "Preserves the Q'eqchi' language and customs.", "Accessible by rugged jungle trails."]
     },
     factsAdvanced: {
       de: ["Santa Elena liegt etwa 30 Kilometer nordwestlich von Punta Gorda.", "Die Bevölkerung besteht fast ausschließlich aus Mopan-Maya.", "Das Dorf liegt in unmittelbarer Nähe zum Rio Blanco Nationalpark.", "Der Anbau von Bio-Kakao ist die wichtigste Einnahmequelle.", "Santa Elena ist bekannt für seine traditionellen Kalkstein-Höhlensysteme.", "Es gibt keine asphaltierten Straßen innerhalb des Dorfkerns.", "Die jährlichen Regenmengen gehören zu den höchsten in ganz Belize.", "Traditionelle Maya-Heiler praktizieren noch heute im Dorf."],
@@ -3146,10 +3146,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.9833, 17.2667],
     name: { de: "Buena Vista (Cayo)", hu: "Buena Vista (Cayo)", ro: "Buena Vista (Cayo)", en: "Buena Vista (Cayo)" },
     description: {
-      de: "Ein Dorf im Cayo Distrikt, das einen herrlichen Ausblick auf das umliegende hügelige Land bietet.",
-      hu: "Falu Spanish Lookout közelében.",
-      ro: "Un sat lângă Spanish Lookout.",
-      en: "A village near Spanish Lookout."
+      de: "Ein landwirtschaftliches Dorf im fruchtbaren Cayo District, umgeben von sanften Hügeln und Farmen.",
+      hu: "Egy domboldalon elterülő falu Cayo kerületben, amely lenyűgöző kilátást nyújt a környező völgyekre.",
+      ro: "O așezare agricolă prosperă din districtul Cayo, cunoscută pentru solul său fertil.",
+      en: "A farming community in the Cayo District, known for its beautiful valley views and productive land."
     },
     descriptionAdvanced: {
       de: "Buena Vista ist ein malerisches Dorf im Cayo-Distrikt, das für seine strategische Lage und seine produktive Landwirtschaft bekannt ist. In der Nähe der mennonitischen Gemeinde Spanish Lookout gelegen, profitiert Buena Vista von einem regen wirtschaftlichen Austausch und einer gut entwickelten Infrastruktur. Die Landschaft ist geprägt von sanften Hügeln und weiten Weideflächen, was der Gegend ihren Namen – 'Schöne Aussicht' – verleiht. Die Bewohner sind eine Mischung aus Mestizen und Maya, die harmonisch zusammenarbeiten, um Getreide, Gemüse und Vieh zu produzieren. Buena Vista gilt als eine der fortschrittlichsten ländlichen Gemeinden im Westen Belizes und bietet eine hohe Lebensqualität. Die ruhigen Straßen und das üppige Grün machen es zu einem angenehmen Ort für alle, die das ländliche Herz von Cayo erkunden möchten.",
@@ -3158,10 +3158,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Buena Vista is a peaceful agricultural settlement in the Cayo District, located in close proximity to the thriving Mennonite community of Spanish Lookout. The village is characterized by its fertile land and its role as a producer of various crops and livestock for the regional market. Buena Vista has a multicultural population, with residents from diverse backgrounds living and working together in harmony. The proximity to Spanish Lookout provides the village with excellent economic opportunities and access to modern agricultural services. The village itself maintains a quiet, rural atmosphere, with a focus on family and community life. The rolling hills and productive farms of Buena Vista offer a beautiful and tranquil setting, reflecting the successful agricultural development of the western interior. It is an ideal location for those who appreciate the quiet of the countryside while being close to major commercial centers."
     },
     facts: {
-      de: ["Cayo Distrikt", "Aussicht", "Hügelland"],
-      hu: ["Mezőgazdasági település.", "A mennonita közösség közelében.", "Vegyes lakosság.", "Csendes falu."],
-      ro: ["Așezare agricolă.", "Aproape de comunitatea menonită.", "Populație mixtă.", "Sat liniștit."],
-      en: ["Farming settlement.", "Near the Mennonite community.", "Mixed population.", "Quiet village."]
+      de: ["Liegt im Cayo District", "Schwerpunkt auf Ackerbau und Viehzucht", "Malerische Aussicht auf die Hügellandschaft"],
+      hu: ["Nevéhez hűen szép panorámával bír", "Spanyol ajkú mezőgazdasági közösség", "Zöldségek és gyümölcsök termesztése"],
+      ro: ["Numele înseamnă 'Vedere Bună'", "Producție variată de fructe și legume", "Peisaje colinare impresionante"],
+      en: ["Located south of the George Price Highway.", "Home to Mestizo and immigrant farmers.", "Produces a variety of vegetables and crops.", "Characterized by rolling hills and greenery."]
     },
     factsAdvanced: {
       de: ["Buena Vista liegt nur etwa 10 Kilometer von Spanish Lookout entfernt.", "Das Dorf ist ein wichtiger Lieferant von Mais und Bohnen.", "Die Bevölkerung besteht aus etwa 1.500 Einwohnern.", "Es gibt regelmäßige Transportverbindungen nach San Ignacio.", "Viele Bewohner arbeiten in den industriellen Betrieben von Spanish Lookout.", "Das Dorf verfügt über eine moderne Grundschule und ein Gemeindezentrum.", "In der Umgebung befinden sich mehrere private Ranches.", "Die Höhe über dem Meeresspiegel sorgt für ein angenehmes Klima."],
@@ -3184,7 +3184,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     description: {
       de: "Ein Dorf nahe der Progresso Lagoon.",
       hu: "Falu a Progresso lagúna közelében.",
-      ro: "Un sat lângă laguna Progresso.",
+      ro: "O comunitate primitoare din districtul Corozal, aflată la doar o aruncătură de băț de coasta mării.",
       en: "A village near the Progresso Lagoon."
     },
     descriptionAdvanced: {
@@ -3196,7 +3196,7 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     facts: {
       de: ["Landwirtschaftliches Dorf.", "Mestizen-Kultur.", "Ruhige Umgebung.", "Nahe Corozal Town."],
       hu: ["Mezőgazdasági falu.", "Mesztic kultúra.", "Csendes környezet.", "Corozal Town közelében."],
-      ro: ["Sat agricol.", "Cultură mestizo.", "Mediu liniștit.", "Aproape de Corozal Town."],
+      ro: ["Zonă rezidențială liniștită", "Renumit pentru producția de fructe tropicale", "Comunitate cu legături strânse"],
       en: ["Agricultural village.", "Mestizo culture.", "Quiet environment.", "Near Corozal Town."]
     },
     factsAdvanced: {
@@ -3257,8 +3257,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Gardenia", hu: "Gardenia", ro: "Gardenia", en: "Gardenia" },
     description: {
       de: "Ein Dorf am Northern Highway.",
-      hu: "Falu az Északi autópálya mentén.",
-      ro: "Un sat pe Autostrada de Nord.",
+      hu: "Egy kisebb település Belize Districtben, amely a békés vidéki életmódot képviseli az országút mentén.",
+      ro: "Un sat situat în districtul Belize, cunoscut pentru frumusețea sa naturală și proximitatea față de sanctuare de păsări.",
       en: "A village on the Northern Highway."
     },
     descriptionAdvanced: {
@@ -3269,8 +3269,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Kreolisches Dorf.", "Nahe dem Belize River.", "Teil der 'River Valley' Gemeinden.", "Ländliche Lebensweise."],
-      hu: ["Kreol falu.", "A Belize-folyó közelében.", "A 'River Valley' közösségek része.", "Vidéki életmód."],
-      ro: ["Sat creol.", "Aproape de râul Belize.", "Parte a comunităților 'River Valley'.", "Stil de viață rural."],
+      hu: ["A Crooked Tree falu közelében fekszik", "Nyugodt, természetközeli atmoszféra", "Kisüzemi gazdálkodás jellemző"],
+      ro: ["Situat pe autostrada Philip Goldson", "Aproape de sanctuarul Crooked Tree", "Ideal pentru observarea naturii"],
       en: ["Creole village.", "Near the Belize River.", "Part of the 'River Valley' communities.", "Rural lifestyle."]
     },
     factsAdvanced: {
@@ -3293,8 +3293,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     name: { de: "Santa Elena (Corozal, Grenze)", hu: "Santa Elena (Corozal, határ)", ro: "Santa Elena (Corozal, graniță)", en: "Santa Elena (Corozal, Border)" },
     description: {
       de: "Der Grenzübergang nach Mexiko im Corozal District.",
-      hu: "A mexikói határátkelőhely a Corozal kerületben.",
-      ro: "Punctul de trecere a frontierei spre Mexic în districtul Corozal.",
+      hu: "Fontos határátkelőhely Belize és Mexikó között, Corozal kerület északi csücskén.",
+      ro: "Principalul punct de trecere a frontierei între Belize și Guatemala, un centru comercial activ.",
       en: "The border crossing to Mexico in the Corozal District."
     },
     descriptionAdvanced: {
@@ -3305,8 +3305,8 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
     facts: {
       de: ["Wichtigster Grenzübergang nach Mexiko.", "Freihandelszone in der Nähe.", "Hohes Verkehrsaufkommen.", "Wirtschaftlich bedeutsam."],
-      hu: ["Legfontosabb határátkelőhely Mexikóba.", "Szabadkereskedelmi zóna a közelben.", "Nagy forgalom.", "Gazdaságilag jelentős."],
-      ro: ["Cel mai important punct de trecere a frontierei spre Mexic.", "Zonă liberă în apropiere.", "Trafic intens.", "Important din punct de vedere economic."],
+      hu: ["A nemzetközi kereskedelem kapuja", "Vámhivatalok és logisztikai egységek", "Folytonos forgalom és mozgás"],
+      ro: ["Vamă și punct de control major", "Aproape de orașul Benque Viejo", "Centru de schimb cultural și economic"],
       en: ["Main border crossing to Mexico.", "Free zone nearby.", "High volume of traffic.", "Economically significant."]
     },
     factsAdvanced: {
@@ -3329,9 +3329,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     coords: [-88.5167, 18.3167],
     name: { de: "Cristo Rey (Corozal)", hu: "Cristo Rey (Corozal)", ro: "Cristo Rey (Corozal)", en: "Cristo Rey (Corozal)" },
     description: {
-      de: "Eine Gemeinde im Corozal Distrikt, die durch eine enge Gemeinschaft und landschaftliche Schönheit besticht.",
-      hu: "Mezőgazdasági falu a Corozal kerületben.",
-      ro: "Un sat agricol în districtul Corozal.",
+      de: "Ein friedliches Dorf im Corozal District, das für seinen Zusammenhalt und die Nähe zur Bucht von Corozal bekannt ist.",
+      hu: "Egy barátságos falu Corozal kerületben, amely a környékbeli történelmi helyszínek közelében fekszik.",
+      ro: "Un sat din districtul Corozal care îmbină tradițiile agricole cu viața liniștită de la țară.",
       en: "An agricultural village in the Corozal District."
     },
     descriptionAdvanced: {
@@ -3341,9 +3341,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       en: "Cristo Rey is a quiet and agricultural village in the Corozal District, nestled in the vast coastal plains of the north. The community lives traditionally from the cultivation of sugarcane and papayas, which has brought economic growth to Caledonia and the surrounding areas. Cristo Rey is characterized by its peaceful atmosphere and the warm hospitality of its residents. The majority of the population consists of Spanish-speaking Mestizos who are proud of their farming heritage. The village offers an authentic insight into life in rural Belize, far from the tourist crowds. With its clean streets, simple but well-kept houses, and the surrounding nature, Cristo Rey is a place of stability and hard work in the Corozal District. It remains a vital part of the northern agricultural heartland, where tradition and the rhythms of the field continue to define the community's identity and future."
     },
     facts: {
-      de: ["Corozal Distrikt", "Gemeinschaft", "Landschaft"],
-      hu: ["Cukornád- és papayatermesztés.", "Mesztic falu.", "Vidéki környezet.", "Hagyományos ünnepek."],
-      ro: ["Cultivarea trestiei de zahăr și a papaya.", "Sat mestizo.", "Mediu rural.", "Festivaluri tradiționale."],
+      de: ["Gehört zum Corozal District", "Nahe der mexikanischen Grenze", "Landwirtschaftlich geprägtes Umfeld"],
+      hu: ["Híres a közösségi összefogásáról", "Kellemes mikroklíma a folyók közelében", "A mezőgazdaság dominál"],
+      ro: ["Comunitate cu rădăcini Maya și Mestizo", "Renumit pentru ospitalitatea localnicilor", "Peisaje rurale pitorești"],
       en: ["Sugarcane and papaya farming.", "Mestizo village.", "Rural environment.", "Traditional festivals."]
     },
     factsAdvanced: {

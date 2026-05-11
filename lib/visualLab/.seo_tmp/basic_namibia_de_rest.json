@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-caprivi-floodplains-nature-v2",
+      "description": "Die Caprivi-Auen sind eine wasserreiche Region im Nordosten Namibias. Die Überschwemmungsgebiete beherbergen eine reiche Vielfalt an Vögeln und Wildtieren.",
+      "facts": ["Wasserreich", "Überschwemmungsgebiete", "Artenreiche Tierwelt", "Nordost-Namibia"]
+    },
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "Der Chobe-Fluss markiert die Grenze und bietet spektakuläre Tierbeobachtungen, insbesondere Elefantenherden an den Ufern.",
+      "facts": ["Grenzfluss", "Elefantenherden", "Tierbeobachtungen", "Namibia-Grenze"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "Der Kwando-Fluss durchfließt den Caprivi-Streifen. Er bildet ein komplexes System aus Kanälen und Sümpfen, das unzählige Tierarten anzieht.",
+      "facts": ["Caprivi-Streifen", "Kanalsystem", "Sümpfe", "Tierreich"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "Der Sambesi ist einer der großen afrikanischen Ströme. Er bildet einen Teil der namibischen Grenze und ist lebenswichtig für die lokale Biodiversität.",
+      "facts": ["Großer Fluss", "Grenzfluss", "Biodiversität", "Afrika"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "Die Erongo-Berge bieten eine einzigartige Mischung aus Flora und Fauna. Die vulkanische Landschaft ist ein wichtiger Lebensraum für spezialisierte Arten.",
+      "facts": ["Vulkanisch", "Einzigartige Flora", "Fauna", "Lebensraum"]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "description": "Die Hartmann-Berge liegen im abgelegenen Nordwesten. Die schroffen Felsformationen bieten eine beeindruckende, unberührte Naturkulisse.",
+      "facts": ["Abgelegen", "Nordwest-Namibia", "Schroffe Felsen", "Unberührte Natur"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "Die Baynes-Berge befinden sich nahe dem Kunene-Fluss. Das zerklüftete Gebirge beeindruckt durch seine landschaftliche Dramatik.",
+      "facts": ["Kunene-Fluss-Nähe", "Gebirge", "Dramatische Landschaft", "Namibia"]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "description": "Das Grootberg-Massiv bietet einen atemberaubenden Blick über das Damaraland. Die Hochebene ist ein bekanntes Ziel für Naturliebhaber.",
+      "facts": ["Damaraland", "Aussichtspunkt", "Hochebene", "Natur"]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "description": "Die Epupa-Fälle am Kunene-Fluss stürzen über eine Reihe von Kaskaden in die Tiefe. Die Palmen und das rauschende Wasser schaffen eine besondere Atmosphäre.",
+      "facts": ["Kunene-Fluss", "Kaskaden", "Palmenlandschaft", "Natur"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Die Ongongo-Quelle ist ein natürliches Schwimmbecken inmitten der felsigen Landschaft. Es ist eine erfrischende Oase in der trockenen Region.",
+      "facts": ["Natürliche Quelle", "Felslandschaft", "Oase", "Erfrischung"]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "description": "Die Palmwag-Konzession umfasst eine weitläufige, wilde Landschaft. Sie bietet Schutz für bedrohte Tierarten wie das Spitzmaulnashorn.",
+      "facts": ["Wildnis", "Schutzgebiet", "Spitzmaulnashorn", "Namibia"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Das Urichab-Tal ist eine abgelegene Region mit beeindruckenden Felsformationen. Die Gegend ist geprägt von der rauen Schönheit der Wüstennatur.",
+      "facts": ["Talregion", "Felsformationen", "Wüstenatur", "Abgelegen"]
+    }
+  ]
+}

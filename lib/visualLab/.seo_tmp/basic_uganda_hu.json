@@ -1,0 +1,47 @@
+{
+  "lang": "hu",
+  "country": "Uganda",
+  "files": [
+    "lib/visualLab/data/poiExtraUgandaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUgandaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUgandaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUgandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bigo-bya-mugenyi-history-v2",
+      "description": "Ez a régészeti lelőhely a középkori Chwezi-dinasztia központja volt a nyugat-ugandai Katonga folyó közelében. Az erődített földmunkák a térség korai államszerveződésének fontos emlékei.",
+      "facts": ["14. századi eredet", "Chwezi-dinasztia központja", "Földvár-rendszer", "Régészeti feltárások"]
+    },
+    {
+      "id": "kabakas-palace-lubiri-history-v2",
+      "description": "A kampalai Mengo dombon álló palota a Buganda Királyság uralkodóinak rezidenciája. A terület szimbolikus jelentőséggel bír a baganda nép történetében és politikai életében.",
+      "facts": ["1885-ben alapítva", "Kampala központja", "Buganda uralkodói", "Királyi rezidencia"]
+    },
+    {
+      "id": "fort-lugard-history-v2",
+      "description": "Az Old Kampala negyedben található egykori erődöt Frederick Lugard kapitány építtette a Brit Kelet-Afrikai Társaság számára. Ma múzeumként őrzi a gyarmati korszak történetét.",
+      "facts": ["1890-ben alapítva", "Gyarmati erőd", "Brit adminisztráció", "Old Kampala"]
+    },
+    {
+      "id": "ug-mapeera-house-landmarks-v2",
+      "description": "Az épület a katolikus misszióugandai érkezésének állít emléket a Viktória-tó partján, Kigunguban. Jelentős vallási és kulturális emlékhely az országban.",
+      "facts": ["Kigungu település", "Missziós történet", "Katolikus emlékhely", "Viktória-tó partja"]
+    },
+    {
+      "id": "budongo-forest-life-v2",
+      "description": "Uganda egyik legnagyobb természetes esőerdeje, amely világszerte ismert gazdag csimpánzpopulációjáról. A térség biodiverzitása és mahagónifái kiemelkedőek.",
+      "facts": ["Egzotikus esőerdő", "Csimpánz élőhely", "Mahagóni fák", "Biodiverzitás"]
+    },
+    {
+      "id": "mount-elgon-peaks-relief-v2",
+      "description": "Ez az alvó pajzsvulkán Uganda és Kenya határán emelkedik, hatalmas kalderájával az egyik legnagyobb a világon. Lejtőin változatos növényzet és vízesések találhatók.",
+      "facts": ["Alvó pajzsvulkán", "Határhegy", "4321 méteres csúcs", "Hatalmas kaldera"]
+    },
+    {
+      "id": "kadam-plateau-relief-v2",
+      "description": "A Karamoja régióban elhelyezkedő sziklás fennsík vulkanikus eredetű, meredek falaival jellegzetes tájat alkot. A térség száraz éghajlata és elszigeteltsége különleges élővilágot rejt.",
+      "facts": ["Karamoja régió", "Vulkanikus fennsík", "Sziklás terep", "Elszigetelt élőhely"]
+    }
+  ]
+}

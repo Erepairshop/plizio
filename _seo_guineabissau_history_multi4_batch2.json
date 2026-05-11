@@ -1,0 +1,72 @@
+
+{
+  "lang": "multi4",
+  "country": "guineabissau",
+  "files": ["lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"],
+  "items": [
+    {
+      "id": "cacheu-historic-center-history-v2",
+      "descriptionAdvancedDe": "Das historische Zentrum von Cacheu ist ein lebendiges Geschichtsbuch, das von der frühen und komplexen Beziehung zwischen Afrika und Europa erzählt. Als einer der ersten portugiesischen Handelsposten, gegründet im späten 16. Jahrhundert, war die Stadt ein zentraler Knotenpunkt im Sklavenhandel. Die erhaltenen Kolonialgebäude, die alten Lagerhäuser und das Fort spiegeln die einstige wirtschaftliche Bedeutung wider. Ein Spaziergang durch die Gassen von Cacheu ist eine Reise in eine Vergangenheit, die die Identität Guinea-Bissaus tief geprägt hat. Besonders das 'Haus der Sklaverei' dient heute als wichtiger Gedenkort, der an die Millionen erinnert, die von hier aus in die Neue Welt verschleppt wurden.",
+      "descriptionAdvancedHu": "Cacheu történelmi központja egy élő történelemkönyv, amely Afrika és Európa korai és összetett kapcsolatáról mesél. A 16. század végén alapított egyik első portugál kereskedelmi állomásként a város a rabszolga-kereskedelem központi csomópontja volt. A fennmaradt gyarmati épületek, a régi raktárak és az erőd a hajdani gazdasági jelentőséget tükrözik. Egy séta Cacheu utcáin utazás egy olyan múltba, amely mélyen formálta Bissau-Guinea identitását. Különösen a 'Rabszolgaság Háza' szolgál ma fontos emlékhelyként, amely azokról a milliókról emlékezik meg, akiket innen hurcoltak el az Újvilágba.",
+      "descriptionAdvancedRo": "Centrul istoric al orașului Cacheu este o carte de istorie vie care povestește despre relația timpurie și complexă dintre Africa și Europa. Fiind unul dintre primele posturi comerciale portugheze, fondat la sfârșitul secolului al XVI-lea, orașul a fost un nod central în comerțul cu sclavi. Clădirile coloniale conservate, vechile depozite și fortul reflectă importanța economică de odinioară. O plimbare pe străzile din Cacheu este o călătorie într-un trecut care a modelat profund identitatea Guineei-Bissau. În special, 'Casa Sclaviei' servește astăzi ca un important loc de comemorare, amintind de milioanele de oameni care au fost transportați de aici către Lumea Nouă.",
+      "descriptionAdvancedEn": "The historic center of Cacheu is a living history book that tells of the early and complex relationship between Africa and Europe. As one of the first Portuguese trading posts, founded in the late 16th century, the city was a central hub in the slave trade. The preserved colonial buildings, the old warehouses, and the fort reflect its former economic importance. A walk through the alleys of Cacheu is a journey into a past that has deeply shaped the identity of Guinea-Bissau. The 'House of Slavery' in particular serves today as an important memorial, commemorating the millions who were taken from here to the New World.",
+      "factsAdvanced": [
+        "Gegründet im späten 16. Jahrhundert.",
+        "War die erste Hauptstadt der Kolonie 'Portugiesisch-Guinea'.",
+        "Das 'Haus der Sklaverei' (Casa dos Escravos) ist ein zentraler Gedenkort.",
+        "Das Fort von Cacheu wurde 1588 erbaut.",
+        "Wichtiger Hafen für den Export von Erdnüssen und Palmöl.",
+        "Architektur als Mischung aus portugiesischen und afrikanischen Stilen.",
+        "Kandidat für das UNESCO-Weltkulturerbe."
+      ]
+    },
+    {
+      "id": "kansala-ruins-history-v2",
+      "descriptionAdvancedDe": "Die Ruinen von Kansalá im Osten Guinea-Bissaus sind die letzten Überreste der einst mächtigen Hauptstadt des Kaabu-Reiches. Dieses Mandinka-Reich dominierte die Region über Jahrhunderte, bevor es im 19. Jahrhundert fiel. Die Zerstörung Kansalás im Jahr 1867 nach einer monatelangen Belagerung durch das Fula-Reich von Fouta Djallon markiert ein dramatisches Ende. Die Legende besagt, dass die Verteidiger, anstatt sich zu ergeben, die Pulverkammern der Stadt sprengten und sich selbst und ihre Angreifer in den Tod rissen. Heute sind die von der Natur zurückeroberten Ruinen ein stilles, aber kraftvolles Symbol für den Widerstandsgeist und das reiche vor-koloniale Erbe der Mandinka-Kultur in Westafrika.",
+      "descriptionAdvancedHu": "Kansalá romjai Bissau-Guinea keleti részén a valaha hatalmas Kaabu Birodalom fővárosának utolsó maradványai. Ez a mandinka birodalom évszázadokon át uralta a régiót, mielőtt a 19. században elbukott. Kansalá 1867-es elpusztítása, a Fouta Djallon-i Fula Birodalom hónapokig tartó ostroma után, drámai véget jelentett. A legenda szerint a védők, ahelyett, hogy megadták volna magukat, felrobbantották a város lőporkamráit, magukkal és támadóikkal együtt a halálba rántva őket. Ma a természet által visszahódított romok csendes, de erőteljes szimbólumai az ellenállás szellemének és a mandinka kultúra gazdag, gyarmatosítás előtti örökségének Nyugat-Afrikában.",
+      "descriptionAdvancedRo": "Ruinele din Kansalá, în estul Guineei-Bissau, sunt ultimele vestigii ale capitalei cândva puternice a Imperiului Kaabu. Acest imperiu Mandinka a dominat regiunea timp de secole înainte de a cădea în secolul al XIX-lea. Distrugerea Kansalei în 1867, după un asediu de luni de zile de către Imperiul Fula din Fouta Djallon, marchează un sfârșit dramatic. Legenda spune că apărătorii, în loc să se predea, au aruncat în aer camerele de praf de pușcă ale orașului, ucigându-se pe ei înșiși și pe atacatorii lor. Astăzi, ruinele recucerite de natură sunt un simbol tăcut, dar puternic, al spiritului de rezistență și al bogatei moșteniri pre-coloniale a culturii Mandinka în Africa de Vest.",
+      "descriptionAdvancedEn": "The ruins of Kansalá in eastern Guinea-Bissau are the last remnants of the once-powerful capital of the Kaabu Empire. This Mandinka empire dominated the region for centuries before it fell in the 19th century. The destruction of Kansalá in 1867, after a months-long siege by the Fula Empire of Fouta Djallon, marks a dramatic end. Legend has it that the defenders, rather than surrender, blew up the city's powder magazines, killing themselves and their attackers. Today, the ruins, reclaimed by nature, are a silent but powerful symbol of the spirit of resistance and the rich pre-colonial heritage of Mandinka culture in West Africa.",
+      "factsAdvanced": [
+        "Hauptstadt des Kaabu-Reiches (ca. 1537–1867).",
+        "Die Schlacht von Kansalá fand 1867 statt.",
+        "Symbol des Widerstands der Mandinka.",
+        "Wichtiger archäologischer Fundort in Guinea-Bissau.",
+        "Das Reich kontrollierte den Handel mit Salz und Gold.",
+        "Die Zerstörung markierte das Ende der Kaabu-Dynastie.",
+        "Die mündliche Überlieferung (Griots) hält die Geschichte lebendig."
+      ]
+    },
+    {
+      "id": "porto-gole-history-v2",
+      "descriptionAdvancedDe": "Porto Gole am Ufer des Rio Geba war einst ein geschäftiger Handelsposten, der das Landesinnere mit der Küste verband. Lange vor der Ankunft der Europäer war dies ein Knotenpunkt für lokale Handelsnetzwerke. In der Kolonialzeit wuchs seine Bedeutung als Sammelpunkt für landwirtschaftliche Produkte wie Erdnüsse und Palmkerne, die für den Export bestimmt waren. Die verbliebenen steinernen Strukturen und Ruinen der Lagerhäuser zeugen von dieser wirtschaftlich aktiven Vergangenheit. Obwohl der Hafen heute an Bedeutung verloren hat, bleibt Porto Gole ein Ort, der die lange Geschichte des Handels und des Austauschs entlang der Flusssysteme Guinea-Bissaus widerspiegelt und ein Fenster in die wirtschaftliche Entwicklung der Region öffnet.",
+      "descriptionAdvancedHu": "Porto Gole a Geba folyó partján egykor forgalmas kereskedelmi állomás volt, amely összekötötte az ország belsejét a partvidékkel. Jóval az európaiak érkezése előtt ez a hely a helyi kereskedelmi hálózatok csomópontja volt. A gyarmati időszakban nőtt a jelentősége, mint az exportra szánt mezőgazdasági termékek, például a földimogyoró és a pálmamag gyűjtőhelye. A megmaradt kőépítmények és a raktárak romjai tanúskodnak erről a gazdaságilag aktív múltról. Bár a kikötő mára elvesztette jelentőségét, Porto Gole továbbraও egy olyan hely, amely tükrözi a Bissau-Guinea folyórendszerei mentén zajló kereskedelem és csere hosszú történetét, és ablakot nyit a régió gazdasági fejlődésére.",
+      "descriptionAdvancedRo": "Porto Gole, pe malurile râului Geba, a fost odată un post comercial plin de viață care lega interiorul țării de coastă. Cu mult înainte de sosirea europenilor, acesta a fost un nod pentru rețelele comerciale locale. În perioada colonială, importanța sa a crescut ca punct de colectare a produselor agricole, cum ar fi arahidele și sâmburii de palmier, destinate exportului. Structurile de piatră rămase și ruinele depozitelor stau mărturie a acestui trecut economic activ. Deși portul și-a pierdut astăzi din importanță, Porto Gole rămâne un loc care reflectă lunga istorie a comerțului și a schimburilor de-a lungul sistemelor fluviale din Guineea-Bissau și deschide o fereastră către dezvoltarea economică a regiunii.",
+      "descriptionAdvancedEn": "Porto Gole on the banks of the Geba River was once a bustling trading post connecting the interior with the coast. Long before the arrival of Europeans, this was a hub for local trade networks. During the colonial period, its importance grew as a collection point for agricultural products such as peanuts and palm kernels destined for export. The remaining stone structures and ruins of warehouses bear witness to this economically active past. Although the port has lost its importance today, Porto Gole remains a place that reflects the long history of trade and exchange along the river systems of Guinea-Bissau and opens a window into the economic development of the region.",
+      "factsAdvanced": [
+        "Lage am schiffbaren Teil des Rio Geba.",
+        "Historischer Umschlagplatz für Erdnüsse und Palmöl.",
+        "Zeugnis der Handelsrouten vor und während der Kolonialzeit.",
+        "Ruinen von Lagerhäusern aus dem 19. und frühen 20. Jahrhundert.",
+        "Verbindungspunkt zwischen den Völkern des Binnenlandes und der Küste.",
+        "Verlor an Bedeutung nach dem Ausbau der Straßeninfrastruktur.",
+        "Spiegelt die wirtschaftliche Abhängigkeit von Agrarprodukten wider."
+      ]
+    },
+    {
+      "id": "bissau-old-port-history-v2",
+      "descriptionAdvancedDe": "Der alte Hafen von Bissau (Porto de Pidjiguiti) ist das historische und emotionale Herz der Hauptstadt. Seine Geschichte ist untrennbar mit den wichtigsten Ereignissen des Landes verbunden. Er war ein zentraler Ort des transatlantischen Sklavenhandels und später das Tor für die portugiesische Kolonialisierung. Im 20. Jahrhundert wurde er zum Schauplatz des Pidjiguiti-Massakers von 1959, einem Schlüsselereignis, das den bewaffneten Kampf für die Unabhängigkeit auslöste. Heute ist der Hafen ein geschäftiger Ort, an dem Handel und Fischerei das tägliche Leben bestimmen, aber die Spuren der Vergangenheit sind überall sichtbar. Die Mischung aus verfallenden Kolonialbauten und modernen Kränen erzählt die Geschichte von Unterdrückung, Widerstand und dem unbezwingbaren Überlebenswillen der Menschen in Guinea-Bissau.",
+      "descriptionAdvancedHu": "Bissau régi kikötője (Porto de Pidjiguiti) a főváros történelmi és érzelmi szíve. Története elválaszthatatlanul összefonódik az ország legfontosabb eseményeivel. A transzatlanti rabszolga-kereskedelem központi helyszíne volt, később pedig a portugál gyarmatosítás kapuja. A 20. században az 1959-es Pidjiguiti mészárlás helyszíne lett, amely a fegyveres függetlenségi harcot kirobbantó kulcsfontosságú esemény volt. Ma a kikötő egy nyüzsgő hely, ahol a kereskedelem és a halászat határozza meg a mindennapi életet, de a múlt nyomai mindenütt láthatók. Az omladozó gyarmati épületek és a modern daruk keveréke az elnyomás, az ellenállás és a Bissau-Guinea-i emberek fékezhetetlen túlélési akaratának történetét meséli el.",
+      "descriptionAdvancedRo": "Portul vechi din Bissau (Porto de Pidjiguiti) este inima istorică și emoțională a capitalei. Istoria sa este inseparabil legată de cele mai importante evenimente ale țării. A fost un loc central al comerțului transatlantic cu sclavi și, mai târziu, poarta de intrare pentru colonizarea portugheză. În secolul al XX-lea, a devenit scena masacrului de la Pidjiguiti din 1959, un eveniment cheie care a declanșat lupta armată pentru independență. Astăzi, portul este un loc aglomerat unde comerțul și pescuitul definesc viața de zi cu zi, dar urmele trecutului sunt vizibile peste tot. Amestecul de clădiri coloniale în paragină și macarale moderne spune povestea opresiunii, a rezistenței și a voinței de supraviețuire de neînvins a poporului din Guineea-Bissau.",
+      "descriptionAdvancedEn": "The old port of Bissau (Porto de Pidjiguiti) is the historical and emotional heart of the capital. Its history is inextricably linked with the most important events in the country. It was a central site of the transatlantic slave trade and later the gateway for Portuguese colonization. In the 20th century, it became the scene of the 1959 Pidjiguiti massacre, a key event that triggered the armed struggle for independence. Today, the port is a bustling place where trade and fishing define daily life, but the traces of the past are visible everywhere. The mixture of decaying colonial buildings and modern cranes tells the story of oppression, resistance, and the indomitable will to survive of the people of Guinea-Bissau.",
+      "factsAdvanced": [
+        "Historischer Name: Porto de Pidjiguiti.",
+        "Ort des Massakers vom 3. August 1959 an streikenden Arbeitern.",
+        "War über Jahrhunderte der wichtigste Hafen des Landes.",
+        "Zentrum des Handels mit Sklaven, Elfenbein und Erdnüssen.",
+        "Kombination aus kolonialer und post-kolonialer Architektur.",
+        "Symbolischer Ort für den Beginn des Befreiungskrieges.",
+        "Noch heute ein aktiver Fischerei- und Handelshafen."
+      ]
+    }
+  ]
+}

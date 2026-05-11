@@ -1,0 +1,87 @@
+{
+  "lang": "hu",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-jose-de-los-remates-boaco-cities-v2",
+      "description": "San José de los Remates Boaco tartományban egy hegyi város, kávétermesztéséről és hűvös hegyi levegőjéről ismert.",
+      "facts": ["Hegyi város", "Kávétermesztés", "Hűvös hegyi levegő"]
+    },
+    {
+      "id": "hacienda-san-jacinto-history-v2",
+      "description": "A Hacienda San Jacinto egy történelmi helyszín, ahol 1856-ban kulcsfontosságú csata zajlott a polgárháborúban.",
+      "facts": ["Történelmi helyszín", "Polgárháborús csata", "1856"]
+    },
+    {
+      "id": "fortaleza-la-polvora-granada-history-v2",
+      "description": "A Fortaleza La Pólvora Granadában egy 18. századi erőd, amely egykor a várost védte.",
+      "facts": ["18. századi erőd", "Granada", "Védelmi funkció"]
+    },
+    {
+      "id": "selva-negra-matagalpa-life-v2",
+      "description": "Selva Negra Matagalpa tartományban egy hegyvidéki üdülőhely és kávéültetvény, ismert a biológiai sokféleségéről.",
+      "facts": ["Hegyvidéki üdülőhely", "Kávéültetvény", "Biológiai sokféleség"]
+    },
+    {
+      "id": "finca-el-chile-coffee-farm-life-v2",
+      "description": "A Finca El Chile egy fenntartható kávéfarm Jinotega tartományban, amely ökoturisztikai tevékenységeket is kínál.",
+      "facts": ["Fenntartható kávéfarm", "Ökoturizmus", "Jinotega"]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "description": "A Parque Central Granadában egy élénk városi park, ideális gyerekeknek játszani és a helyi életet megfigyelni.",
+      "facts": ["Élénk városi park", "Granada", "Helyi élet"]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "description": "A Finca El Platanal Rivas tartományban egy kakaóültetvény, amely túrákat és betekintést kínál a biogazdálkodásba.",
+      "facts": ["Kakaóültetvény", "Biogazdálkodás", "Rivas"]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "description": "A Finca Ecológica La Bomba Matagalpa tartományban egy öko-kávéfarm, amely a fenntartható termesztést és az oktatást népszerűsíti.",
+      "facts": ["Öko-kávéfarm", "Fenntartható termesztés", "Matagalpa"]
+    },
+    {
+      "id": "pearl-cays-nature-v2",
+      "description": "A Pearl Cays apró szigetek és atollok csoportja a Karib-tengeren, kristálytiszta vizeiről és gazdag tengeri élővilágáról ismert.",
+      "facts": ["Karib-tenger", "Kristálytiszta vizek", "Tengeri élővilág"]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "description": "A Tisey-Estanzuela Természetvédelmi Rezervátum Estelí tartományban fenyőerdeiről, vízeséseiről és sziklaképződményeiről ismert.",
+      "facts": ["Fenyőerdők", "Vízesések", "Sziklaképződmények"]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "description": "A Zapatera-sziget a Nicaragua-tóban található nemzeti park, érintetlen természetéről és őskori petroglifáiról ismert.",
+      "facts": ["Nemzeti park", "Nicaragua-tó", "Őskori petroglifák"]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "A San Lorenzo-i köderdő Matagalpa tartományban fontos védett terület az endemikus növény- és állatvilág számára.",
+      "facts": ["Köderdő", "Endemikus növény- és állatvilág", "Matagalpa"]
+    },
+    {
+      "id": "little-corn-island-nature-v2",
+      "description": "Little Corn Island a Karib-tengeren található, érintetlen strandjairól, pálmafáiról és nyugodt hangulatáról ismert.",
+      "facts": ["Karib-tenger", "Érintetlen strandok", "Nyugodt hangulat"]
+    },
+    {
+      "id": "cosiguina-lagoon-nature-v2",
+      "description": "A Cosigüina-lagúna a Cosigüina vulkán kráterében található, lenyűgöző kilátást és sokféle vadvilágot kínál.",
+      "facts": ["Krátertó", "Cosigüina vulkán", "Sokféle vadvilág"]
+    },
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "description": "Cerro El Arenal Jinotega tartományban egy hegy, amely köderdőjéről és kávétermesztő régiójáról ismert.",
+      "facts": ["Köderdő", "Kávétermesztő régió", "Jinotega"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-enmore-martyrs-monument-history-v2",
+      "descriptionAdvancedDe": "Das Enmore-Märtyrer-Denkmal ehrt das Andenken von fünf Zuckerrohrarbeitern, die 1948 während eines Streiks auf dem Enmore-Zuckerrohrgut von der Kolonialpolizei erschossen wurden. Die Arbeiter protestierten für bessere Arbeitsbedingungen und die Anerkennung ihrer Gewerkschaft. Ihr Tod, bekannt als das 'Enmore-Massaker', wurde zu einem Wendepunkt in der Arbeiterbewegung und im anti-kolonialen Kampf Guyanas. Die fünf Männer – Lallabagee, Kissoon, Pooran, Harry und Surujballi – werden als Märtyrer der Arbeiterklasse verehrt. Das Denkmal am Friedhof Le Repentir in Georgetown dient als feierliche Erinnerung an ihren Opfergang. Es symbolisiert den langen und oft blutigen Kampf der guyanischen Arbeiter für ihre Rechte und für eine gerechtere Gesellschaft. Jedes Jahr am 16. Juni, dem Jahrestag des Ereignisses, finden Gedenkveranstaltungen statt, um sicherzustellen, dass ihr Opfer nicht vergessen wird.",
+      "descriptionAdvancedHu": "Az Enmore-i mártírok emlékműve öt cukornádmunkás emlékének tiszteleg, akiket 1948-ban a gyarmati rendőrség lőtt le egy sztrájk során az Enmore cukornádültetvényen. A munkások jobb munkakörülményekért és szakszervezetük elismeréséért tiltakoztak. Haláluk, amelyet 'Enmore-i mészárlásként' ismernek, fordulópontot jelentett a munkásmozgalomban és Guyana gyarmatiellenes küzdelmében. Az öt férfit – Lallabagee, Kissoon, Pooran, Harry és Surujballi – a munkásosztály mártírjaiként tisztelik. A georgetowni Le Repentir temetőben található emlékmű ünnepélyes emlékeztetőül szolgál áldozatukra. A guyanai munkások jogaikért és egy igazságosabb társadalomért folytatott hosszú és gyakran véres küzdelmét szimbolizálja. Minden év június 16-án, az esemény évfordulóján megemlékezéseket tartanak, hogy áldozatuk ne merüljön feledésbe.",
+      "descriptionAdvancedRo": "Monumentul Martirilor din Enmore onorează memoria a cinci muncitori din trestia de zahăr care au fost împușcați de poliția colonială în timpul unei greve la plantația de zahăr Enmore în 1948. Muncitorii protestau pentru condiții de muncă mai bune și recunoașterea sindicatului lor. Moartea lor, cunoscută sub numele de 'Masacrul de la Enmore', a devenit un punct de cotitură în mișcarea muncitorească și în lupta anticolonială a Guyanei. Cei cinci bărbați – Lallabagee, Kissoon, Pooran, Harry și Surujballi – sunt venerați ca martiri ai clasei muncitoare. Monumentul, situat în cimitirul Le Repentir din Georgetown, servește ca un memento solemn al sacrificiului lor. Simbolizează lupta lungă și adesea sângeroasă a muncitorilor guyanezi pentru drepturile lor și pentru o societate mai justă. În fiecare an, pe 16 iunie, aniversarea evenimentului, au loc ceremonii comemorative pentru a se asigura că sacrificiul lor nu este uitat.",
+      "descriptionAdvancedEn": "The Enmore Martyrs Monument honors the memory of five sugar workers who were shot and killed by colonial police during a strike at the Enmore sugar estate in 1948. The workers were protesting for better working conditions and the recognition of their union. Their deaths, known as the 'Enmore Massacre', became a turning point in Guyana's labor movement and anti-colonial struggle. The five men – Lallabagee, Kissoon, Pooran, Harry, and Surujballi – are revered as martyrs of the working class. The monument, located at the Le Repentir Cemetery in Georgetown, serves as a solemn reminder of their sacrifice. It symbolizes the long and often bloody struggle of Guyanese workers for their rights and for a more just society. Commemorative events are held annually on June 16, the anniversary of the event, to ensure their sacrifice is not forgotten.",
+      "factsAdvanced": [
+        "Erinnert an fünf Zuckerrohrarbeiter, die 1948 getötet wurden.",
+        "Das Ereignis ist als das 'Enmore-Massaker' bekannt.",
+        "Die Arbeiter streikten für bessere Bedingungen und gewerkschaftliche Anerkennung.",
+        "Die Märtyrer sind Lallabagee, Kissoon, Pooran, Harry und Surujballi.",
+        "Ein Wendepunkt in der guyanischen Arbeiterbewegung.",
+        "Das Denkmal befindet sich auf dem Friedhof Le Repentir.",
+        "Der 16. Juni ist in Guyana der Tag der Enmore-Märtyrer.",
+        "Ein Symbol für den Kampf der Arbeiterklasse."
+      ]
+    }
+  ]
+}

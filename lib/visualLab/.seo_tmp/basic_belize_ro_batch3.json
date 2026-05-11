@@ -1,0 +1,71 @@
+{
+  "lang": "ro",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeCitiesV2.ts",
+    "lib/visualLab/data/poiExtraBelizeLifeV2.ts",
+    "lib/visualLab/data/poiExtraBelizeNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-andres-czl-cities-v2",
+      "description": "O comunitate primitoare din districtul Corozal, aflată la doar o aruncătură de băț de coasta mării.",
+      "facts": ["Zonă rezidențială liniștită", "Renumit pentru producția de fructe tropicale", "Comunitate cu legături strânse"]
+    },
+    {
+      "id": "gardenia-cities-v2",
+      "description": "Un sat situat în districtul Belize, cunoscut pentru frumusețea sa naturală și proximitatea față de sanctuare de păsări.",
+      "facts": ["Situat pe autostrada Philip Goldson", "Aproape de sanctuarul Crooked Tree", "Ideal pentru observarea naturii"]
+    },
+    {
+      "id": "santa-elena-border-cities-v2",
+      "description": "Principalul punct de trecere a frontierei între Belize și Guatemala, un centru comercial activ.",
+      "facts": ["Vamă și punct de control major", "Aproape de orașul Benque Viejo", "Centru de schimb cultural și economic"]
+    },
+    {
+      "id": "cristo-rey-czl-cities-v2",
+      "description": "Un sat din districtul Corozal care îmbină tradițiile agricole cu viața liniștită de la țară.",
+      "facts": ["Comunitate cu rădăcini Maya și Mestizo", "Renumit pentru ospitalitatea localnicilor", "Peisaje rurale pitorești"]
+    },
+    {
+      "id": "bella-vista-banana-belt-life-v2",
+      "description": "O comunitate vibrantă situată în inima zonei de producție a bananelor din sudul Belizei.",
+      "facts": ["Unul dintre satele cu cea mai rapidă creștere", "Pilon central al industriei bananelor", "Populație multiculturală și muncitoare"]
+    },
+    {
+      "id": "maya-mountain-coffee-farms-life-v2",
+      "description": "Plantații de cafea de înaltă calitate situate la poalele Munților Maya, profitând de solul vulcanic bogat.",
+      "facts": ["Producție de cafea organică artizanală", "Situat într-un microclimat montan ideal", "Promovează agricultura sustenabilă"]
+    },
+    {
+      "id": "bz-rio-hondo-river-nature-v2",
+      "description": "Râul care formează granița naturală dintre Belize și Mexic, având o importanță istorică și ecologică majoră.",
+      "facts": ["Principalul curs de apă din nord", "Cunoscut pentru ecosistemul de mangrove", "Cale navigabilă istorică pentru comerț"]
+    },
+    {
+      "id": "bz-new-river-lagoon-nature-v2",
+      "description": "Cea mai mare lagună de apă dulce din Belize, un sanctuar pentru viața sălbatică situat în districtul Orange Walk.",
+      "facts": ["Habitat pentru crocodili și păsări exotice", "Accesibilă prin tururi cu barca spre Lamanai", "Apă cristalină și peisaje spectaculoase"]
+    },
+    {
+      "id": "bz-southern-long-caye-nature-v2",
+      "description": "O insulă mică și idilică situată în interiorul Barierei de Corali, ideală pentru scufundări și relaxare.",
+      "facts": ["Înconjurată de ape turcoaz", "Biodiversitate marină remarcabilă", "Populară printre pescarii sportivi"]
+    },
+    {
+      "id": "bz-half-moon-caye-nature-v2",
+      "description": "Un monument natural situat în atolul Lighthouse Reef, faimos pentru colonia sa de păsări suliță.",
+      "facts": ["Primul sit protejat din Belize", "Loc de cuibărit pentru sulița cu picioare roșii", "Aproape de faimoasa Mare Gaură Albastră"]
+    },
+    {
+      "id": "bz-bacalar-chico-park-nature-v2",
+      "description": "O rezervație marină și un parc național situat în nordul insulei Ambergris Caye, la granița cu Mexicul.",
+      "facts": ["Sit al Patrimoniului Mondial UNESCO", "Canal artificial săpat de Mayași", "Ecosisteme diverse de la recif la junglă"]
+    },
+    {
+      "id": "bz-vaca-forest-reserve-nature-v2",
+      "description": "O rezervație forestieră vastă în districtul Cayo, care protejează bazine hidrografice importante și specii rare.",
+      "facts": ["Protejează cascada Vaca", "Coridor vital pentru jaguari", "Ideal pentru drumeții în sălbăticie"]
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeLifeV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeNatureV2.ts",
+    "lib/visualLab/data/poiExtraCapeverdeReliefV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicCitiesV2.ts",
+    "lib/visualLab/data/poiExtraGabonEconomicV2.ts",
+    "lib/visualLab/data/poiExtraGabonHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pedra-de-lume-salt-lake-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Pedra de Lume ist eine Siedlung an der Nordostküste der Insel Sal in der Republik Kap Verde. Das geologische Hauptmerkmal des Gebiets ist ein riesiges Salzverdunstungsbecken, das sich vollständig in der Caldera eines erloschenen Vulkans befindet. Der Krater hat einen Durchmesser von etwa 900 Metern, wobei der tiefste Punkt zwei Meter unter dem globalen Meeresspiegel liegt. Historische Aufzeichnungen belegen, dass die Salzgewinnung im 18. Jahrhundert begann, während die systematische kommerzielle Ausbeutung 1833 startete. Um den industriellen Transport zu erleichtern, wurde 1904 ein 500 Meter langer Tunnel durch das massive Gestein der Kraterwand gegraben. Im Jahr 1919 installierte das französische Unternehmen Salins du Cap Vert eine fortschrittliche Luftseilbahn, die 25 Tonnen Salz pro Stunde transportieren konnte. Die inneren Salzpfannen sind systematisch durch niedrige Basaltsteinmauern unterteilt. Das Wasser des Atlantischen Ozeans sickert auf natürliche Weise durch das poröse Vulkangestein und verdunstet unter dem trockenen Klima, wodurch extreme Salzkonzentrationen zurückbleiben. Der Salzgehalt in den primären Verdunstungsbecken erreicht bis zum 27-fachen der Konzentration von normalem Meerwasser. Heute ist der kommerzielle Abbau eingestellt, und die Stätte wird als nationales geologisches Erbe erhalten.",
+        "hu": "Pedra de Lume egy település a Zöld-foki Köztársaság Sal szigetének északkeleti partvidékén. A terület meghatározó geológiai képződménye egy hatalmas sólepárló medence, amely teljes egészében egy kialudt vulkán kalderájában helyezkedik el. A kráter átmérője megközelítőleg 900 méter, legmélyebb pontja pedig két méterrel a tenger szintje alatt található. A történelmi feljegyzések szerint a só kitermelése a 18. században kezdődött, a szisztematikus kereskedelmi célú hasznosítás pedig 1833-ban indult meg. Az ipari szállítás megkönnyítése érdekében 1904-ben egy 500 méter hosszú alagutat vájtak a kráterfal szilárd kőzetébe. Később, 1919-ben a francia Salins du Cap Vert vállalat egy fejlett drótkötélpálya-rendszert telepített, amely óránként huszonöt tonna só szállítására volt képes. A belső sólepárlókat szisztematikusan, alacsony bazalt kőfalakkal osztották fel. Az Atlanti-óceán vize természetes úton szivárog át a porózus vulkáni kőzeten, majd a száraz éghajlaton elpárolog, extrém sókoncentrációt hagyva maga után. Az elsődleges párologtató medencék sótartalma eléri a normál tengervíz koncentrációjának huszonhétszeresét. Napjainkra a kereskedelmi bányászat leállt, a helyszínt nemzeti geológiai örökségként őrzik.",
+        "ro": "Pedra de Lume este o așezare situată pe coasta de nord-est a insulei Sal din Republica Capului Verde. Principala caracteristică geologică a zonei este un vast bazin de evaporare a sării, situat în întregime în caldera unui vulcan stins. Craterul măsoară aproximativ 900 de metri în diametru, punctul său cel mai de jos fiind situat la doi metri sub nivelul global al mării. Documentele istorice indică faptul că extracția sării a început în secolul al XVIII-lea, exploatarea comercială sistematică debutând în 1833. Pentru a facilita transportul industrial, în 1904 a fost excavat un tunel de 500 de metri prin roca solidă a peretelui craterului. Ulterior, în 1919, corporația franceză Salins du Cap Vert a instalat un sistem avansat de telecabină capabil să transporte douăzeci și cinci de tone de sare pe oră. Salinele interne sunt împărțite sistematic prin ziduri joase din piatră de bazalt. Apa Oceanului Atlantic se infiltrează natural prin roca vulcanică poroasă și se evaporă sub climatul arid, lăsând în urmă concentrații extreme de sare. Salinitatea în bazinele primare de evaporare atinge de până la douăzeci și șapte de ori concentrația apei de mare standard. Astăzi, mineritul comercial a încetat, iar situl este conservat ca locație de patrimoniu geologic național.",
+        "en": "Pedra de Lume is a settlement situated on the northeastern coast of Sal island in the Republic of Cape Verde. The area's defining geological feature is a vast salt evaporation pond located entirely within the caldera of an extinct volcano. The crater measures approximately 900 meters in diameter, with its lowest point situated two meters below the global sea level. Historical records indicate that salt extraction began in the 18th century, with systematic commercial exploitation starting in 1833. To facilitate industrial transport, a 500-meter tunnel was excavated through the solid rock of the crater wall in 1904. Subsequently, in 1919, the French corporation Salins du Cap Vert installed an advanced aerial cable car system capable of transporting twenty-five tons of salt per hour. The internal saltpans are systematically divided by low basalt stone walls. Atlantic Ocean water naturally infiltrates the porous volcanic rock and evaporates under the arid climate, leaving behind extreme salt concentrations. The salinity in the primary evaporation ponds reaches up to twenty-seven times the concentration of standard seawater. Today, commercial mining has ceased, and the site is preserved as a national geological heritage location."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in der Caldera eines erloschenen Vulkans auf der Insel Sal.",
+          "Der Krater hat einen Durchmesser von etwa 900 Metern.",
+          "Der tiefste Punkt der Caldera liegt zwei Meter unter dem Meeresspiegel.",
+          "Ein 500 Meter langer Transporttunnel wurde 1904 durch den Fels gegraben.",
+          "Eine industrielle Luftseilbahn wurde 1919 von einer französischen Firma installiert.",
+          "Der Salzgehalt des Wassers ist bis zu 27-mal höher als der des Ozeans."
+        ],
+        "hu": [
+          "Egy kialudt vulkán kalderájában található Sal szigetén.",
+          "A vulkáni kráter átmérője megközelítőleg 900 méter.",
+          "A kaldera legmélyebb pontja két méterrel a tengerszint alatt fekszik.",
+          "Egy 500 méter hosszú szállítóalagutat vájtak a sziklába 1904-ben.",
+          "Egy ipari drótkötélpályát telepített egy francia vállalat 1919-ben.",
+          "A víz sótartalma akár 27-szerese is lehet az óceánénak."
+        ],
+        "ro": [
+          "Situat în caldera unui vulcan stins pe insula Sal.",
+          "Craterul vulcanic are un diametru de aproximativ 900 de metri.",
+          "Cel mai de jos punct al calderei este la doi metri sub nivelul mării.",
+          "Un tunel de transport de 500 de metri a fost excavat în stâncă în 1904.",
+          "Un sistem de telecabină industrială a fost instalat în 1919 de o companie franceză.",
+          "Nivelurile de salinitate sunt de până la 27 de ori mai mari decât cele ale oceanului."
+        ],
+        "en": [
+          "Located within the caldera of an extinct volcano on Sal island.",
+          "The volcanic crater has a diameter of approximately 900 meters.",
+          "The lowest point of the caldera sits two meters below sea level.",
+          "A 500-meter transport tunnel was excavated through the rock in 1904.",
+          "An industrial cable car system was installed in 1919 by a French company.",
+          "Salinity levels in the water are up to 27 times higher than the ocean."
+        ]
+      }
+    },
+    {
+      "id": "pico-do-fogo-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Pico do Fogo ist der höchste Gipfel der Republik Kap Verde und erreicht eine Höhe von 2.829 Metern über dem Meeresspiegel. Er befindet sich auf der Insel Fogo und ist ein aktiver Stratovulkan, der die gesamte Landschaft der Insel dominiert. Der Hauptvulkankegel erhebt sich innerhalb einer massiven Caldera namens Chã das Caldeiras, die einen Durchmesser von etwa neun Kilometern hat und von bis zu 1.000 Meter hohen, vertikalen Felswänden umgeben ist. Die jüngsten größeren Ausbrüche ereigneten sich zwischen November 2014 und Februar 2015, was durch Lavaströme zu erheblichen Zerstörungen in den Dörfern Portela und Bangaeira führte. Zuvor fand 1995 ein bedeutender Ausbruch statt. Trotz der ständigen vulkanischen Bedrohung ist der aschereiche Boden innerhalb der Caldera außergewöhnlich fruchtbar und unterstützt den Anbau von Kaffee, Weinreben und Obstbäumen in einem sonst trockenen Klima. Die Geologie des Berges besteht hauptsächlich aus basaltischen Laven und Tephra. Wissenschaftliche Überwachungen der seismischen Aktivität des Vulkans werden vom Nationalen Institut für Meteorologie und Geophysik durchgeführt. Der Berg ist das Herzstück des Fogo-Naturparks, der zum Schutz der einzigartigen vulkanischen Artenvielfalt gegründet wurde.",
+        "hu": "A Pico do Fogo a Zöld-foki Köztársaság legmagasabb csúcsa, amely 2829 méterrel magasodik a tengerszint fölé. A Fogo szigetén található aktív rétegvulkán az egész sziget tájképét uralja. A fő vulkáni kúp egy hatalmas, Chã das Caldeiras nevű kalderán belül emelkedik, amely mintegy kilenc kilométer átmérőjű, és akár 1000 méter magas függőleges sziklafalak veszik körül. A legutóbbi nagyobb kitörések 2014 novembere és 2015 februárja között zajlottak, aminek következtében a lávafolyamok jelentős pusztítást végeztek Portela és Bangaeira falvakban. Ezt megelőzően 1995-ben történt jelentős kitörés. A folyamatos vulkáni fenyegetés ellenére a kalderán belüli hamuban gazdag talaj kivételesen termékeny, amely az egyébként száraz éghajlaton is lehetővé teszi a kávé, a szőlő és a gyümölcsfák termesztését. A hegy geológiai felépítése elsősorban bazaltos lávákból és tefrából áll. A vulkán szeizmikus aktivitásának tudományos megfigyelését a Nemzeti Meteorológiai és Geofizikai Intézet végzi. A hegy a Fogo Nemzeti Park központi eleme, amelyet az egyedülálló vulkáni biodiverzitás védelme érdekében hoztak létre.",
+        "ro": "Pico do Fogo este cel mai înalt vârf din Republica Capului Verde, atingând o altitudine de 2.829 de metri deasupra nivelului mării. Situat pe insula Fogo, este un stratovulcan activ care domină întregul peisaj al insulei. Conul vulcanic principal se ridică într-o calderă masivă numită Chã das Caldeiras, care are un diametru de aproximativ nouă kilometri și este înconjurată de pereți de stâncă verticali de până la 1.000 de metri înălțime. Cele mai recente erupții majore au avut loc între noiembrie 2014 și februarie 2015, ducând la distrugeri semnificative în satele Portela și Bangaeira din cauza fluxurilor de lavă. Anterior, o erupție semnificativă a avut loc în 1995. În ciuda amenințării vulcanice constante, solul bogat în cenușă din interiorul calderei este excepțional de fertil, susținând cultivarea cafelei, a viței de vie și a pomilor fructiferi într-un climat altfel arid. Geologia muntelui constă în principal din lave bazaltice și tefra. Monitorizarea științifică a activității seismice a vulcanului este realizată de Institutul Național de Meteorologie și Geofizică. Muntele este piesa centrală a Parcului Natural Fogo, înființat pentru a proteja biodiversitatea vulcanică unică.",
+        "en": "Pico do Fogo is the highest peak in the Republic of Cape Verde, reaching an elevation of 2,829 meters above sea level. Located on the island of Fogo, it is an active stratovolcano that dominates the entire landscape of the island. The main volcanic cone rises within a massive caldera known as Chã das Caldeiras, which measures approximately nine kilometers in diameter and is surrounded by vertical rock walls up to 1,000 meters high. The most recent major eruptions occurred between November 2014 and February 2015, resulting in significant destruction in the villages of Portela and Bangaeira due to advancing lava flows. Prior to that, a significant eruption took place in 1995. Despite the constant volcanic threat, the ash-rich soil within the caldera is exceptionally fertile, supporting the cultivation of coffee, grapevines, and fruit trees in an otherwise arid climate. The geology of the mountain consists primarily of basaltic lavas and tephra. Scientific monitoring of the volcano's seismic activity is conducted by the National Institute of Meteorology and Geophysics. The mountain is the centerpiece of the Fogo Natural Park, established to protect the unique volcanic biodiversity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchster Punkt von Kap Verde mit 2.829 Metern über dem Meeresspiegel.",
+          "Ein aktiver Stratovulkan auf der Insel Fogo.",
+          "Befindet sich innerhalb der 9 Kilometer breiten Caldera Chã das Caldeiras.",
+          "Letzte größere Ausbrüche ereigneten sich zwischen 2014 und 2015.",
+          "Die vulkanische Asche bietet hochfruchtbaren Boden für Kaffee und Wein.",
+          "Wird vom Nationalen Institut für Meteorologie und Geophysik überwacht."
+        ],
+        "hu": [
+          "A Zöld-foki Köztársaság legmagasabb pontja, 2829 méterrel a tengerszint felett.",
+          "Egy aktív rétegvulkán a Fogo szigeten.",
+          "A 9 kilométer széles Chã das Caldeiras kalderán belül helyezkedik el.",
+          "A legutóbbi nagyobb kitörések 2014 és 2015 között történtek.",
+          "A vulkáni hamu rendkívül termékeny talajt biztosít kávé és szőlő termesztéséhez.",
+          "A Nemzeti Meteorológiai és Geofizikai Intézet figyeli a szeizmikus aktivitást."
+        ],
+        "ro": [
+          "Cel mai înalt punct din Capul Verde, la 2.829 metri deasupra nivelului mării.",
+          "Un stratovulcan activ situat pe insula Fogo.",
+          "Situat în interiorul calderei Chã das Caldeiras, cu o lățime de 9 kilometri.",
+          "Ultimele erupții majore au avut loc între 2014 și 2015.",
+          "Cenușa vulcanică oferă un sol extrem de fertil pentru cafea și viță de vie.",
+          "Monitorizat de Institutul Național de Meteorologie și Geofizică."
+        ],
+        "en": [
+          "Highest point in Cape Verde at 2,829 meters above sea level.",
+          "An active stratovolcano located on the island of Fogo.",
+          "Situated within the 9-kilometer-wide Chã das Caldeiras caldera.",
+          "Most recent major eruptions occurred between 2014 and 2015.",
+          "Volcanic ash provides highly fertile soil for coffee and vines.",
+          "Seismic activity is monitored by the National Institute of Meteorology and Geophysics."
+        ]
+      }
+    },
+    {
+      "id": "bangui-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bangui ist die Hauptstadt und bevölkerungsreichste Stadt der Zentralafrikanischen Republik, gelegen am nördlichen Ufer des Ubangi-Flusses bei den Koordinaten 4°22′N 18°35′E. Gegründet 1889 als französischer Militärposten, wurde die Stadt nach den nahe gelegenen Stromschnellen des Flusses benannt. Sie dient als administratives, kommerzielles und finanzielles Zentrum des Landes, mit einer geschätzten Bevölkerung von über 900.000 Einwohnern. Bangui fungiert als wichtiger Binnenhafen und wickelt den Großteil des internationalen Handels der Nation ab, einschließlich der Exporte von Tropenholz, Diamanten, Baumwolle und Kaffee. Der Fluss verbindet die Stadt mit Brazzaville und dem Seehafen Pointe-Noire in der Republik Kongo. Zur wichtigsten Infrastruktur gehören der internationale Flughafen Bangui M'Poko und die 1969 gegründete Universität von Bangui. Die Stadt weist einen radialen Grundriss auf, der vom Place de la République ausgeht. Zu den bedeutenden historischen Bauwerken gehören die Cathédrale Notre-Dame und das Nationalmuseum Boganda. Die lokale Wirtschaft stützt sich stark auf informellen Handel, Textilherstellung und Lebensmittelverarbeitung, ist jedoch stark von politischer Instabilität geprägt.",
+        "hu": "Bangui a Közép-afrikai Köztársaság fővárosa és legnépesebb városa, amely az Ubangi folyó északi partján helyezkedik el, a 4°22′É 18°35′K koordinátákon. Az 1889-ben francia katonai előőrsként alapított város a nevét a folyó közeli zuhatagairól kapta. Az ország közigazgatási, kereskedelmi és pénzügyi központjaként szolgál, becsült lakossága meghaladja a 900 000 főt. Bangui kulcsfontosságú belvízi kikötőként működik, amely a nemzetközi kereskedelem nagy részét bonyolítja, beleértve a trópusi fa, a gyémánt, a pamut és a kávé exportját. A folyó összeköti a várost Brazzaville-lel és a Kongói Köztársaságban található Pointe-Noire tengeri kikötőjével. A kulcsfontosságú infrastruktúra részét képezi a Bangui M'Poko nemzetközi repülőtér és az 1969-ben alapított Bangui Egyetem. A város sugárirányú városszerkezettel rendelkezik, amely a Place de la République térből indul ki. A jelentős történelmi építmények közé tartozik a Notre-Dame székesegyház és a Boganda Nemzeti Múzeum. A helyi gazdaság nagymértékben támaszkodik az informális kereskedelemre, a textilgyártásra és az élelmiszer-feldolgozásra, bár a politikai instabilitás jelentősen hátráltatja a fejlődést.",
+        "ro": "Bangui este capitala și cel mai populat oraș al Republicii Centrafricane, situat pe malul nordic al râului Ubangi, la coordonatele 4°22′N 18°35′E. Fondat în 1889 ca post militar francez, orașul a fost numit după prăpăstiile din apropiere ale râului. Acesta servește drept centru administrativ, comercial și financiar al țării, cu o populație estimată la peste 900.000 de locuitori. Bangui funcționează ca un port interior crucial, gestionând majoritatea comerțului internațional al națiunii, inclusiv exporturile de lemn tropical, diamante, bumbac și cafea. Râul leagă orașul de Brazzaville și de portul maritim Pointe-Noire din Republica Congo. Infrastructura cheie include Aeroportul Internațional Bangui M'Poko și Universitatea din Bangui, înființată în 1969. Orașul prezintă un plan urbanistic radial care pornește de la Place de la République. Structurile istorice notabile includ Catedrala Notre-Dame și Muzeul Național Boganda. Economia locală se bazează în mare măsură pe comerțul informal, producția de textile și procesarea alimentelor, dar este puternic afectată de instabilitatea politică.",
+        "en": "Bangui is the capital and most populous city of the Central African Republic, situated on the northern banks of the Ubangi River at coordinates 4°22′N 18°35′E. Founded in 1889 as a French military post, the city was named after the nearby rapids of the river. It serves as the administrative, commercial, and financial center of the country, with an estimated population exceeding 900,000 residents. Bangui functions as a crucial inland port, handling the majority of the nation's international trade, including exports of tropical timber, diamonds, cotton, and coffee. The river connects the city to Brazzaville and the seaport of Pointe-Noire in the Republic of the Congo. Key infrastructure includes the Bangui M'Poko International Airport and the University of Bangui, established in 1969. The city features a radial urban layout originating from the Place de la République. Notable historical structures include the Cathédrale Notre-Dame and the National Museum Boganda. The local economy relies heavily on informal trade, textile manufacturing, and food processing, though it has been significantly hindered by decades of political instability."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Hauptstadt und größte Stadt der Zentralafrikanischen Republik.",
+          "Gegründet im Jahr 1889 als französischer Militärposten.",
+          "Liegt am nördlichen Ufer des Flusses Ubangi.",
+          "Wichtiger Binnenhafen für den Export von Holz und Diamanten.",
+          "Die geschätzte Bevölkerung liegt bei über 900.000 Einwohnern.",
+          "Standort der 1969 gegründeten Universität von Bangui."
+        ],
+        "hu": [
+          "A Közép-afrikai Köztársaság fővárosa és legnagyobb városa.",
+          "1889-ben alapították francia katonai előőrsként.",
+          "Az Ubangi folyó északi partján helyezkedik el.",
+          "Fontos belvízi kikötő fa- és gyémántexport számára.",
+          "A becsült népesség meghaladja a 900 000 főt.",
+          "Az 1969-ben alapított Bangui Egyetem otthona."
+        ],
+        "ro": [
+          "Capitala și cel mai mare oraș din Republica Centrafricană.",
+          "Fondat în anul 1889 ca post militar francez.",
+          "Situat pe malul nordic al râului Ubangi.",
+          "Port interior major pentru exportul de lemn și diamante.",
+          "Populația estimată depășește 900.000 de locuitori.",
+          "Sediul Universității din Bangui, înființată în 1969."
+        ],
+        "en": [
+          "Capital and largest city of the Central African Republic.",
+          "Founded in the year 1889 as a French military post.",
+          "Situated on the northern banks of the Ubangi River.",
+          "Major inland port for the export of timber and diamonds.",
+          "Estimated population stands at over 900,000 residents.",
+          "Home to the University of Bangui, established in 1969."
+        ]
+      }
+    },
+    {
+      "id": "schweitzer-museum-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Albert-Schweitzer-Museum befindet sich in Lambaréné, in der Provinz Moyen-Ogooué in Gabun. Es liegt auf dem Gelände des historischen Krankenhauses, das 1913 von dem deutsch-französischen Arzt, Theologen und Friedensnobelpreisträger Albert Schweitzer gegründet wurde. Das Museum bewahrt die ursprünglichen Strukturen des Krankenhauskomplexes am Ufer des Ogooué-Flusses. Die Anlage umfasst Schweitzers Wohnräume, seine Behandlungszimmer und die historische Apotheke, die exakt in dem Zustand erhalten sind, in dem sie während seiner Lebenszeit genutzt wurden. Schweitzer erhielt 1952 den Friedensnobelpreis für seine philosophische Ethik der „Ehrfurcht vor dem Leben“. Das Museum stellt medizinische Instrumente, persönliche Korrespondenz, theologische Schriften sowie sein klimatisch angepasstes Klavier aus. Der historische Krankenhauskomplex behandelte vorwiegend Tropenkrankheiten wie Lepra und die Schlafkrankheit. Die Architektur zeichnet sich durch aufgeständerte Holzgebäude aus, die eine natürliche Belüftung fördern und vor Überschwemmungen schützen. Im Jahr 2009 wurde die Stätte in die UNESCO-Welterbe-Tentativliste aufgenommen.",
+        "hu": "Az Albert Schweitzer Múzeum a gaboni Moyen-Ogooué tartományban, Lambaréné városában található. A múzeum annak a történelmi kórháznak a területén fekszik, amelyet Albert Schweitzer, a francia-német orvos, teológus és Nobel-békedíjas alapított 1913-ban. Az intézmény megőrizte az Ogooué folyó partján épült kórházkomplexum eredeti épületeit. A terület magában foglalja Schweitzer lakónegyedét, vizsgálóit és az eredeti gyógyszertárat, amelyeket pontosan abban az állapotban tartanak fenn, ahogyan azokat életében használta. Schweitzer 1952-ben kapta meg a Nobel-békedíjat az „Élet tisztelete” filozófiai etikájáért. A múzeum kiállítja orvosi műszereit, személyes levelezését, teológiai írásait, valamint a trópusi éghajlathoz igazított zongoráját. A kórházkomplexum történelmileg trópusi betegségeket, köztük leprát és álomkórt kezelt. Az építészetet a megemelt faépületek jellemzik, amelyeket a természetes szellőzés elősegítésére és az áradások megelőzésére terveztek. 2009-ben a helyszínt felvették az UNESCO világörökségi javaslati listájára történelmi jelentősége miatt.",
+        "ro": "Muzeul Albert Schweitzer este situat în Lambaréné, în provincia Moyen-Ogooué din Gabon. Acesta se află pe terenul spitalului istoric fondat de medicul, teologul și laureatul premiului Nobel franco-german Albert Schweitzer în 1913. Muzeul păstrează structurile originale ale complexului spitalicesc construit de-a lungul malurilor râului Ogooué. Situl include locuința lui Schweitzer, sălile sale de consultație și farmacia originală, întreținute exact așa cum au fost în timpul vieții sale. Schweitzer a primit Premiul Nobel pentru Pace în 1952 pentru filosofia sa de „Venerație pentru viață”. Muzeul expune instrumentele sale medicale, corespondența personală, scrierile teologice și pianul său, personalizat pentru a rezista climatului tropical. Spitalul a tratat istoric boli tropicale, inclusiv lepra și boala somnului. Arhitectura prezintă clădiri din lemn ridicate pe piloni, concepute pentru a facilita ventilația naturală și a preveni inundațiile. În 2009, situl a fost adăugat pe lista indicativă a Patrimoniului Mondial UNESCO datorită importanței sale în istoria medicinei coloniale.",
+        "en": "The Albert Schweitzer Museum is located in Lambaréné, within the Moyen-Ogooué Province of Gabon. It is situated on the grounds of the historic hospital founded by the Franco-German physician, theologian, and Nobel laureate Albert Schweitzer in 1913. The museum preserves the original structures of the hospital complex built along the banks of the Ogooué River. The site includes Schweitzer's living quarters, his consultation rooms, and the original pharmacy, maintained exactly as they were during his lifetime. Schweitzer was awarded the Nobel Peace Prize in 1952 for his philosophical ethics of \"Reverence for Life.\" The museum exhibits his medical instruments, personal correspondence, theological writings, and his piano, which was specifically customized for the humid tropical climate. The hospital complex historically treated severe tropical diseases, including leprosy and sleeping sickness. The local architecture features elevated wooden buildings designed to facilitate natural ventilation and prevent river flooding. In 2009, the site was officially added to the UNESCO World Heritage Tentative List due to its profound historical significance in colonial medicine."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich in Lambaréné am Ufer des Ogooué-Flusses in Gabun.",
+          "Gegründet 1913 vom Friedensnobelpreisträger Albert Schweitzer.",
+          "Erhaltene Gebäude umfassen das Wohnhaus und die historische Apotheke.",
+          "Behandelte historisch schwere Tropenkrankheiten wie Lepra.",
+          "Stellt Schweitzers tropenangepasstes Klavier und medizinische Geräte aus.",
+          "Wurde 2009 in die UNESCO-Welterbe-Tentativliste aufgenommen."
+        ],
+        "hu": [
+          "Lambaréné városában, az Ogooué folyó partján található Gabonban.",
+          "Albert Schweitzer Nobel-békedíjas orvos alapította 1913-ban.",
+          "A megőrzött épületek közé tartozik a lakóház és a történelmi gyógyszertár.",
+          "Történelmileg olyan súlyos trópusi betegségeket kezeltek itt, mint a lepra.",
+          "Kiállítják Schweitzer trópusokra tervezett zongoráját és orvosi eszközeit.",
+          "2009-ben felkerült az UNESCO világörökségi javaslati listájára."
+        ],
+        "ro": [
+          "Situat în Lambaréné, pe malurile râului Ogooué din Gabon.",
+          "Fondat în 1913 de laureatul Premiului Nobel pentru Pace, Albert Schweitzer.",
+          "Clădirile conservate includ locuința și farmacia istorică.",
+          "A tratat istoric boli tropicale severe, cum ar fi lepra.",
+          "Expune pianul adaptat la clima tropicală și instrumentele medicale ale lui Schweitzer.",
+          "A fost adăugat pe lista indicativă a Patrimoniului Mondial UNESCO în 2009."
+        ],
+        "en": [
+          "Located in Lambaréné on the banks of the Ogooué River in Gabon.",
+          "Founded in 1913 by Nobel Peace Prize laureate Albert Schweitzer.",
+          "Preserved buildings include the living quarters and historic pharmacy.",
+          "Historically treated severe tropical diseases such as leprosy.",
+          "Exhibits Schweitzer's climate-adapted piano and medical instruments.",
+          "Added to the UNESCO World Heritage Tentative List in 2009."
+        ]
+      }
+    },
+    {
+      "id": "vineyards-cha-caldeiras-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Weinberge von Chã das Caldeiras befinden sich im Krater des Vulkans Fogo auf der Insel Fogo, Kap Verde. Auf einer Höhe von etwa 1.700 Metern über dem Meeresspiegel gelegen, stellt dieses landwirtschaftliche Gebiet eine der ungewöhnlichsten Weinbauregionen der Welt dar. Der Anbau von Weinreben in dieser Caldera reicht bis ins späte 19. Jahrhundert zurück und wurde von dem französischen Grafen Armand de Montrond initiiert. Der vulkanische Boden ist extrem mineralstoffreich, und das Mikroklima weist erhebliche Temperaturschwankungen zwischen Tag und Nacht auf, was optimale Bedingungen für den Weinbau ohne künstliche Bewässerung bietet. Zu den hauptsächlich angebauten Rebsorten gehören Moscatel sowie traditionelle portugiesische Sorten. Das Hauptprodukt ist der Manecon-Wein, ein ungespritzter Wein, der in Rot-, Weiß- und Rosévariationen hergestellt wird. Trotz der ständigen Bedrohung durch vulkanische Aktivitäten – insbesondere die Ausbrüche von 1995 und 2014, die Teile der Weinberge zerstörten – hat die lokale Gemeinschaft ihre landwirtschaftlichen Terrassen konsequent wiederaufgebaut. Der Produktionsprozess erfolgt aufgrund des steilen Terrains weitgehend manuell.",
+        "hu": "A Chã das Caldeiras szőlőültetvényei a Fogo vulkán kráterében találhatók a Zöld-foki Köztársaság Fogo szigetén. A tengerszint felett mintegy 1700 méteres magasságban fekvő mezőgazdasági terület a világ egyik legkülönlegesebb borvidéke. A szőlőtermesztés ebben a kalderában a 19. század végére nyúlik vissza, és a francia Armand de Montrond gróf kezdeményezte. A vulkáni talaj rendkívül gazdag ásványi anyagokban, a mikroklíma pedig jelentős hőmérséklet-ingadozást mutat a nappalok és az éjszakák között, ami optimális feltételeket biztosít a szőlőtermesztéshez mesterséges öntözés nélkül. A főként termesztett szőlőfajták közé tartozik a Moscatel és a hagyományos portugál fajták. A legfőbb termék a Manecon bor, amelyet vörös, fehér és rozé változatban állítanak elő. A vulkáni tevékenység állandó fenyegetése ellenére – különösen az 1995-ös és 2014-es kitörések, amelyek elpusztították a szőlőültetvények egyes részeit – a helyi közösség kitartóan újjáépítette a mezőgazdasági teraszokat. A meredek terep miatt a szüretelés és a metszés szinte kizárólag kézi erővel történik.",
+        "ro": "Podiile din Chã das Caldeiras sunt situate în craterul vulcanului Fogo de pe insula Fogo, Capul Verde. Situată la o altitudine de aproximativ 1.700 de metri deasupra nivelului mării, această zonă agricolă reprezintă una dintre cele mai neobișnuite regiuni viticole din lume. Cultivarea viței de vie în această calderă datează de la sfârșitul secolului al XIX-lea, fiind inițiată de contele francez Armand de Montrond. Solul vulcanic este extrem de bogat în minerale, iar microclimatul prezintă variații semnificative de temperatură între zi și noapte, oferind condiții optime pentru viticultură fără irigații artificiale. Principalele soiuri de struguri cultivate includ Moscatel și soiuri tradiționale portugheze. Produsul principal este vinul Manecon, un vin nefortificat produs în variante roșu, alb și rosé. În ciuda amenințării constante a activității vulcanice – în special erupțiile din 1995 și 2014, care au distrus părți din podgorii – comunitatea locală și-a reconstruit cu perseverență terasele agricole. Datorită terenului abrupt, procesul de recoltare este predominant manual.",
+        "en": "The Vineyards of Chã das Caldeiras are located within the crater of the Fogo volcano on the island of Fogo, Cape Verde. Situated at an altitude of approximately 1,700 meters above sea level, this agricultural area represents one of the most unusual viticulture regions globally. The cultivation of grapevines in this caldera dates back to the late 19th century, initiated by the French Count Armand de Montrond. The volcanic soil is extremely rich in minerals, and the microclimate features significant temperature variations between day and night, providing optimal conditions for viticulture without the need for artificial irrigation. The main grape varieties cultivated include Moscatel and traditional Portuguese varieties. The primary product is Manecon wine, an unfortified wine produced in red, white, and rosé variations. Despite the constant threat of volcanic activity—most notably the eruptions of 1995 and 2014, which destroyed portions of the vineyards—the local community has persistently rebuilt their agricultural terraces. The wine production process, from pruning to harvesting, relies almost entirely on manual labor due to the steep and irregular volcanic terrain."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befinden sich in der Caldera des Vulkans Fogo auf 1.700 Metern Höhe.",
+          "Der Weinbau wurde im späten 19. Jahrhundert von einem französischen Grafen eingeführt.",
+          "Der mineralreiche vulkanische Boden ermöglicht den Anbau ohne künstliche Bewässerung.",
+          "Moscatel und traditionelle portugiesische Rebsorten werden angebaut.",
+          "Das bekannteste regionale Weinprodukt ist der sogenannte Manecon-Wein.",
+          "Die Weinberge wurden durch die Vulkanausbrüche von 1995 und 2014 teilweise zerstört."
+        ],
+        "hu": [
+          "A Fogo vulkán kalderájában helyezkednek el, 1700 méteres magasságban.",
+          "A szőlőtermesztést a 19. század végén vezette be egy francia gróf.",
+          "Az ásványi anyagokban gazdag vulkáni talaj lehetővé teszi az öntözés nélküli termesztést.",
+          "Főként Moscatel és hagyományos portugál szőlőfajtákat termesztenek.",
+          "A legismertebb helyi bortermék az úgynevezett Manecon bor.",
+          "A szőlőültetvényeket részben elpusztították az 1995-ös és 2014-es vulkánkitörések."
+        ],
+        "ro": [
+          "Situate în caldera vulcanului Fogo, la o altitudine de 1.700 de metri.",
+          "Viticultura a fost introdusă la sfârșitul secolului al XIX-lea de un conte francez.",
+          "Solul vulcanic bogat în minerale permite cultivarea fără irigații artificiale.",
+          "Sunt cultivate soiuri de struguri Moscatel și soiuri tradiționale portugheze.",
+          "Cel mai faimos produs viticol regional este vinul numit Manecon.",
+          "Podiile au fost parțial distruse de erupțiile vulcanice din 1995 și 2014."
+        ],
+        "en": [
+          "Located in the caldera of the Fogo volcano at an altitude of 1,700 meters.",
+          "Viticulture was introduced in the late 19th century by a French count.",
+          "Mineral-rich volcanic soil allows for cultivation without artificial irrigation.",
+          "Moscatel and traditional Portuguese grape varieties are cultivated.",
+          "The most famous regional wine product is known as Manecon wine.",
+          "The vineyards were partially destroyed by volcanic eruptions in 1995 and 2014."
+        ]
+      }
+    },
+    {
+      "id": "cova-de-paul-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Cova de Paúl ist eine bedeutende geologische Formation im östlichen Teil der Insel Santo Antão in Kap Verde. Es handelt sich um einen erloschenen Vulkankrater auf einer Höhe von etwa 1.000 Metern über dem Meeresspiegel. Der Krater hat einen Durchmesser von rund einem Kilometer und zeichnet sich durch steile, fast vertikale Innenwände aus. Aufgrund seiner großen Höhe fängt das Gebiet häufig die feuchten Nordostpassatwinde ab, was zu einem Mikroklima mit hohem Niederschlag und dichtem Nebel führt. Diese Feuchtigkeitsansammlung schafft extrem fruchtbare Bedingungen im Kraterbecken. Der Kraterboden wird von lokalen Bauern intensiv kultiviert, die Terrassenbau nutzen, um Mais, Bohnen, Kartoffeln und verschiedene Wurzelgemüse anzubauen. Die umliegenden Hänge sind mit Kiefern und Eukalyptusbäumen bedeckt, die im 20. Jahrhundert systematisch gepflanzt wurden, um Bodenerosion zu verhindern. Cova de Paúl dient als primäres Einzugsgebiet für die Wasserscheide Ribeira de Paúl und speist die Quellen des angrenzenden Paúl-Tals. Die an den Kraterwänden sichtbaren geologischen Schichten zeugen von den explosiven vulkanischen Phasen der Insel.",
+        "hu": "A Cova de Paúl egy jelentős geológiai formáció, amely a Zöld-foki Köztársaság Santo Antão szigetének keleti részén található. Ez egy kialudt vulkáni kráter, amely körülbelül 1000 méteres tengerszint feletti magasságban helyezkedik el. A kráter átmérője mintegy egy kilométer, és meredek, szinte függőleges belső falak jellemzik. Nagy magasságának köszönhetően a terület gyakran felfogja a nedves északkeleti passzátszeleket, ami magas csapadékmennyiséggel és sűrű köddel járó mikroklímát eredményez. Ez a nedvességfelhalmozódás rendkívül termékeny feltételeket teremt a kalderamedencében. A kráter fenekét a helyi gazdák intenzíven művelik, teraszos módszerrel kukoricát, babot, burgonyát és különböző gyökérzöldségeket termesztenek. A környező lejtőket fenyő- és eukaliptuszfák borítják, amelyeket a 20. század folyamán szisztematikusan ültettek a talaj eróziójának megakadályozása érdekében. A Cova de Paúl a Ribeira de Paúl vízgyűjtő elsődleges területeként szolgál, táplálva a szomszédos Paúl-völgy forrásait és patakjait. A kráter falain látható geológiai rétegek a sziget vulkáni múltjáról tanúskodnak.",
+        "ro": "Cova de Paúl este o formațiune geologică semnificativă situată în partea de est a insulei Santo Antão din Capul Verde. Este un crater vulcanic stins, situat la o altitudine de aproximativ 1.000 de metri deasupra nivelului mării. Craterul are un diametru de aproximativ un kilometru și se caracterizează prin pereți interiori abrupți, aproape verticali. Datorită altitudinii sale mari, zona interceptează frecvent alizeele umede de nord-est, rezultând un microclimat cu precipitații ridicate și ceață densă. Această acumulare de umiditate creează condiții extrem de fertile în bazinul calderei. Podeaua craterului este intens cultivată de fermierii locali, care folosesc terasarea pentru a cultiva porumb, fasole, cartofi și diverse legume rădăcinoase. Pantele înconjurătoare sunt acoperite cu pini și eucalipți, plantați sistematic în secolul al XX-lea pentru a preveni eroziunea solului. Cova de Paúl servește drept principală zonă de captare pentru bazinul hidrografic Ribeira de Paúl, alimentând izvoarele văii adiacente Paúl. Straturile geologice vizibile dovedesc fazele vulcanice ale insulei.",
+        "en": "Cova de Paúl is a significant geological formation located in the eastern part of Santo Antão island in Cape Verde. It is an extinct volcanic crater situated at an elevation of approximately 1,000 meters above sea level. The crater has a diameter of roughly one kilometer and is characterized by steep, almost vertical inner walls. Due to its high altitude, the area frequently intercepts the humid northeast trade winds, resulting in a unique microclimate with higher precipitation and dense mist. This moisture accumulation creates extremely fertile conditions within the caldera basin. The crater floor is extensively cultivated by local farmers, who utilize traditional terracing techniques to grow corn, beans, potatoes, and various root vegetables. The surrounding inner and outer slopes are covered with pine and eucalyptus trees, which were systematically planted during the 20th century to prevent soil erosion. Cova de Paúl serves as the primary water catchment area for the Ribeira de Paúl watershed, feeding the springs and streams of the adjacent Paúl Valley. The geological strata visible on the crater walls provide evidence of the island's past explosive volcanic phases."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ein erloschener Vulkankrater auf der Insel Santo Antão.",
+          "Befindet sich auf einer Höhe von etwa 1.000 Metern über dem Meeresspiegel.",
+          "Der Krater hat einen Durchmesser von ungefähr einem Kilometer.",
+          "Das Mikroklima fängt Passatwinde ab und sorgt für hohe Luftfeuchtigkeit.",
+          "Der Kraterboden wird landwirtschaftlich für Mais- und Bohnenanbau genutzt.",
+          "Dient als primäres Wassereinzugsgebiet für das angrenzende Paúl-Tal."
+        ],
+        "hu": [
+          "Kialudt vulkáni kráter Santo Antão szigetén.",
+          "Körülbelül 1000 méteres tengerszint feletti magasságban helyezkedik el.",
+          "A kráter átmérője megközelítőleg egy kilométer.",
+          "A mikroklíma felfogja a passzátszeleket, ami magas páratartalmat biztosít.",
+          "A kráter fenekét mezőgazdaságilag hasznosítják kukorica és bab termesztésére.",
+          "Elsődleges vízgyűjtő területként szolgál a szomszédos Paúl-völgy számára."
+        ],
+        "ro": [
+          "Un crater vulcanic stins de pe insula Santo Antão.",
+          "Situat la o altitudine de aproximativ 1.000 de metri deasupra nivelului mării.",
+          "Craterul are un diametru de aproximativ un kilometru.",
+          "Microclimatul captează alizeele, oferind un nivel ridicat de umiditate.",
+          "Baza craterului este folosită agricol pentru cultivarea porumbului și fasolei.",
+          "Servește ca zonă primară de captare a apei pentru valea adiacentă Paúl."
+        ],
+        "en": [
+          "An extinct volcanic crater located on the island of Santo Antão.",
+          "Situated at an elevation of approximately 1,000 meters above sea level.",
+          "The crater has a diameter of roughly one kilometer.",
+          "The microclimate intercepts trade winds, providing high humidity.",
+          "The crater floor is used agriculturally for growing corn and beans.",
+          "Serves as the primary water catchment area for the adjacent Paúl Valley."
+        ]
+      }
+    },
+    {
+      "id": "monte-verde-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Monte Verde ist der höchste Berg auf der Insel São Vicente in Kap Verde und erreicht eine Höhe von 744 Metern über dem Meeresspiegel. Der subaerische Vulkanberg im östlich-zentralen Teil der Insel besteht hauptsächlich aus Basalt- und Trachytgestein. Der Gipfel bietet einen Panoramablick auf die gesamte Insel, einschließlich der Stadt Mindelo, sowie an klaren Tagen auf die Nachbarinseln Santo Antão und Santa Luzia. Trotz des allgemein trockenen Klimas von São Vicente fängt der Gipfel des Monte Verde Feuchtigkeit aus vorbeiziehenden Wolken und Passatwinden ein und unterstützt so ein lokal begrenztes halbtrockenes Ökosystem. Das Berggebiet wurde aufgrund seiner botanischen Bedeutung als geschützter Naturpark ausgewiesen. Es beherbergt mehrere endemische und gefährdete Pflanzenarten, darunter Echium stenosiphon und Limonium jovibarba. Historisch gesehen wurden die Hänge für den Anbau von Mais terrassiert, obwohl die landwirtschaftliche Aktivität deutlich zurückgegangen ist. Eine Telekommunikations- und Radarstation befindet sich heute am höchsten Punkt und dient der maritimen Navigation.",
+        "hu": "A Monte Verde a Zöld-foki Köztársaság São Vicente szigetének legmagasabb hegye, amely eléri a 744 méteres tengerszint feletti magasságot. A sziget keleti-középső részén található szubérikus vulkáni hegy elsősorban bazalt- és trachitkőzetekből áll. A csúcsról panorámás kilátás nyílik az egész szigetre, beleértve Mindelo városát, valamint tiszta napokon a szomszédos Santo Antão és Santa Luzia szigetekre is. A São Vicentére jellemző általános száraz éghajlat ellenére a Monte Verde csúcsa felfogja a felhőkből és a passzátszelekből származó nedvességet, ami fenntart egy lokális félszáraz ökoszisztémát. A hegyvidéki területet botanikai jelentősége miatt védett nemzeti parkká nyilvánították. Számos endemikus és veszélyeztetett növényfajnak ad otthont, köztük az Echium stenosiphon és a Limonium jovibarba fajoknak. Történelmileg a lejtőket teraszosították a kukoricatermesztéshez, bár a mezőgazdasági tevékenység jelentősen visszaesett. Jelenleg a legmagasabb ponton egy távközlési és lokátorállomás működik, amely a régió navigációját szolgálja.",
+        "ro": "Monte Verde este cel mai înalt munte de pe insula São Vicente din Capul Verde, atingând o altitudine de 744 de metri deasupra nivelului mării. Muntele vulcanic subaerian, situat în partea central-estică a insulei, este compus în principal din roci de bazalt și trahit. Vârful oferă vederi panoramice ale întregii insule, inclusiv ale orașului Mindelo, precum și ale insulelor învecinate Santo Antão și Santa Luzia în zilele senine. În ciuda climatului în general arid al insulei São Vicente, vârful Monte Verde captează umezeala din norii trecători și din alizee, susținând astfel un ecosistem localizat semi-arid. Zona montană a fost desemnată ca parc natural protejat datorită importanței sale botanice. Adăpostește mai multe specii de plante endemice și pe cale de dispariție, inclusiv Echium stenosiphon și Limonium jovibarba. Din punct de vedere istoric, pantele au fost terasate pentru cultivarea porumbului, deși activitatea agricolă a scăzut semnificativ. O stație de telecomunicații și radar se află în prezent în cel mai înalt punct, deservind navigația maritimă din regiune.",
+        "en": "Monte Verde is the highest mountain peak on the island of São Vicente in Cape Verde, reaching an elevation of 744 meters above sea level. Located in the eastern-central part of the island, it is a subaerial volcanic mountain primarily composed of basalt and trachyte rocks. The summit provides extensive panoramic views of the entire island, including the port city of Mindelo, as well as the neighboring islands of Santo Antão and Santa Luzia on clear days. Despite the generally arid climate of São Vicente, the high summit of Monte Verde captures moisture from passing low clouds and northeast trade winds, supporting a localized semi-arid ecosystem. The mountain area has been officially designated as a protected natural park due to its botanical significance. It harbors several endemic and endangered plant species, including Echium stenosiphon and Limonium jovibarba. Historically, the mountain slopes were aggressively terraced for the cultivation of maize and beans, though agricultural activity has significantly declined. A telecommunications and military radar station is currently positioned at the highest point to serve maritime navigation."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 744 Metern der höchste Punkt auf der Insel São Vicente.",
+          "Besteht geologisch hauptsächlich aus Basalt- und Trachytgestein.",
+          "Der Gipfel fängt Feuchtigkeit aus Passatwinden für ein lokales Ökosystem ein.",
+          "Beherbergt endemische Pflanzenarten wie Echium stenosiphon.",
+          "Wurde als geschützter Naturpark ausgewiesen.",
+          "Auf dem Gipfel befindet sich eine wichtige Radar- und Telekommunikationsstation."
+        ],
+        "hu": [
+          "A legmagasabb pont São Vicente szigetén, 744 méteres magassággal.",
+          "Geológiailag főként bazalt- és trachitkőzetből áll.",
+          "A csúcs felfogja a passzátszelek nedvességét a helyi ökoszisztéma számára.",
+          "Olyan endemikus növényfajoknak ad otthont, mint az Echium stenosiphon.",
+          "Hivatalosan is védett természeti parkká nyilvánították.",
+          "A csúcson egy fontos radarállomás és távközlési torony található."
+        ],
+        "ro": [
+          "Cel mai înalt punct de pe insula São Vicente, la 744 de metri.",
+          "Compus geologic în principal din roci de bazalt și trahit.",
+          "Vârful captează umezeala din alizee pentru un ecosistem local.",
+          "Adăpostește specii de plante endemice precum Echium stenosiphon.",
+          "A fost desemnat oficial ca parc natural protejat.",
+          "În vârf se află o importantă stație radar și de telecomunicații."
+        ],
+        "en": [
+          "The highest point on the island of São Vicente at 744 meters.",
+          "Composed geologically primarily of basalt and trachyte rocks.",
+          "The summit captures moisture from trade winds for a localized ecosystem.",
+          "Harbors endemic plant species such as Echium stenosiphon.",
+          "Has been officially designated as a protected natural park.",
+          "An important radar and telecommunications station is located at the peak."
+        ]
+      }
+    },
+    {
+      "id": "nkok-sez-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Nkok Special Economic Zone (SEZ) ist ein bedeutendes Industriezentrum, das 27 Kilometer östlich von Libreville in der Provinz Estuaire in Gabun liegt. Die Zone wurde 2011 als Joint Venture zwischen der gabunischen Regierung und der Olam International Gruppe gegründet und erstreckt sich über eine Fläche von 1.126 Hektar. Das Hauptziel der Nkok SEZ besteht darin, die Rohstoffe Gabuns im Inland aufzuwerten, wobei der Schwerpunkt auf dem Forstsektor liegt, nachdem die Regierung 2010 den Export von rohem Tropenholz verboten hatte. Die Zone integriert hochmoderne Anlagen für die Holzverarbeitung, darunter Sägewerke, Furnierproduktion und Möbelherstellung. Sie verfügt über eine eigene Infrastruktur, darunter ein unabhängiges Kraftwerk, Wasseraufbereitungsanlagen und einen direkten Eisenbahnanschluss zum Handelshafen Owendo. Die SEZ beherbergt über 100 Industrieunternehmen aus verschiedenen Nationen und beschäftigt Tausende von lokalen Arbeitskräften. Die Einrichtung verfügt außerdem über ein Verwaltungszentrum (Single Window), um Zoll- und Steuerverfahren für internationale Investoren zu optimieren und die Wirtschaft zu diversifizieren.",
+        "hu": "A Nkok Különleges Gazdasági Övezet (SEZ) egy jelentős ipari központ, amely Librevilletől 27 kilométerre keletre, a gaboni Estuaire tartományban található. Az övezetet 2011-ben hozták létre a gaboni kormány és az Olam International csoport vegyesvállalataként, területe pedig 1126 hektárt ölel fel. A Nkok SEZ elsődleges célja Gabon nyersanyagainak helyi feldolgozása és értéknövelése, különös tekintettel az erdészeti ágazatra, miután a kormány 2010-ben betiltotta a nyers trópusi fa exportját. A zóna csúcstechnológiás fafeldolgozó létesítményeket integrál, beleértve a fűrészüzemeket, furnérgyártást és bútorgyártást. Dedikált infrastruktúrával van felszerelve, mint például független erőmű, víztisztító létesítmények, valamint közvetlen vasúti csatlakozás az owendoi kereskedelmi kikötőhöz. A SEZ több mint 100 különböző nemzetiségű ipari vállalatnak ad otthont, több ezer helyi munkavállalót foglalkoztatva. A létesítmény egy „egyablakos” adminisztratív központtal is rendelkezik, amely leegyszerűsíti a vám- és adóügyi eljárásokat a nemzetközi befektetők számára.",
+        "ro": "Zona Economică Specială Nkok (SEZ) este un important centru industrial situat la 27 de kilometri est de Libreville, în provincia Estuaire din Gabon. Zona a fost înființată în 2011 ca o societate mixtă între guvernul gabonez și grupul Olam International, acoperind o suprafață de 1.126 de hectare. Obiectivul principal al Nkok SEZ este de a adăuga valoare la nivel local materiilor prime din Gabon, vizând în special sectorul forestier, după ce guvernul a interzis exportul de lemn brut în 2010. Zona integrează facilități de ultimă generație pentru prelucrarea lemnului, inclusiv gatere, producție de furnir și fabricarea de mobilier. Este dotată cu infrastructură dedicată, incluzând o centrală electrică independentă, stații de tratare a apei și acces feroviar direct la portul comercial Owendo. SEZ găzduiește peste 100 de companii industriale din diferite națiuni, angajând mii de lucrători locali. De asemenea, facilitatea dispune de un centru administrativ cu ghișeu unic pentru a eficientiza procedurile vamale și fiscale pentru investitorii internaționali.",
+        "en": "The Nkok Special Economic Zone (SEZ) is a major industrial hub located 27 kilometers east of Libreville in the Estuaire Province of Gabon. Established in 2011 as a joint venture between the Gabonese government and the Olam International group, the zone covers an expansive area of 1,126 hectares. The primary objective of the Nkok SEZ is to add value to Gabon's raw materials domestically, specifically targeting the forestry sector following the government's 2010 ban on the export of raw timber logs. The zone integrates state-of-the-art facilities for wood processing, including commercial sawmills, veneer production plants, and furniture manufacturing. It is equipped with dedicated internal infrastructure, including an independent power plant, water treatment facilities, and direct railway access connecting it to the Owendo commercial seaport. The SEZ currently hosts over 100 industrial companies from various nations, employing thousands of local Gabonese workers. The facility also features a single-window administrative center designed to streamline complex customs and tax procedures for international corporate investors."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich 27 Kilometer östlich von Libreville in Gabun.",
+          "Wurde 2011 als Joint Venture mit Olam International gegründet.",
+          "Das Industriegebiet erstreckt sich über eine Fläche von 1.126 Hektar.",
+          "Fokus liegt auf der Holzverarbeitung nach dem Exportverbot für Rundholz (2010).",
+          "Beherbergt über 100 internationale Industrieunternehmen.",
+          "Verfügt über einen direkten Eisenbahnanschluss zum Hafen von Owendo."
+        ],
+        "hu": [
+          "Gabonban, Librevilletől 27 kilométerre keletre található.",
+          "2011-ben alapították az Olam International vegyesvállalataként.",
+          "Az ipari terület összesen 1126 hektáron terül el.",
+          "A fafeldolgozásra összpontosít a nyersfa exporttilalma (2010) óta.",
+          "Több mint 100 nemzetközi ipari vállalatnak ad otthont.",
+          "Közvetlen vasúti összeköttetéssel rendelkezik az owendoi kikötővel."
+        ],
+        "ro": [
+          "Situat la 27 de kilometri est de Libreville, în Gabon.",
+          "Înființat în 2011 ca societate mixtă cu Olam International.",
+          "Zona industrială acoperă o suprafață de 1.126 de hectare.",
+          "Se concentrează pe prelucrarea lemnului după interdicția exportului de bușteni (2010).",
+          "Găzduiește peste 100 de companii industriale internaționale.",
+          "Dispune de o conexiune feroviară directă cu portul Owendo."
+        ],
+        "en": [
+          "Located 27 kilometers east of Libreville in Gabon.",
+          "Established in 2011 as a joint venture with Olam International.",
+          "The industrial zone covers a total area of 1,126 hectares.",
+          "Focuses on wood processing following the 2010 raw log export ban.",
+          "Hosts over 100 international industrial companies on site.",
+          "Features a direct railway connection to the port of Owendo."
+        ]
+      }
+    },
+    {
+      "id": "berberati-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Berbérati ist die drittgrößte Stadt der Zentralafrikanischen Republik und dient als Verwaltungshauptstadt der Präfektur Mambéré-Kadéï. Sie liegt im südwestlichen Teil des Landes, etwa 500 Kilometer von der Hauptstadt Bangui entfernt, in der Nähe der Grenze zu Kamerun. Die Stadt hat eine geschätzte Bevölkerung von über 100.000 Einwohnern. Berbérati fungiert als entscheidendes Wirtschaftszentrum der Region, das maßgeblich von der Diamantenabbauindustrie angetrieben wird. Die Gewinnung von alluvialen Diamanten aus den umliegenden Flusssystemen stellt die Haupteinnahmequelle für einen großen Teil der lokalen Bevölkerung dar. Neben dem Bergbau produzieren die umliegenden landwirtschaftlichen Gebiete Kaffee, Tabak und Holz für den Export. Zur Infrastruktur der Stadt gehören der Flughafen Berbérati, der den regionalen Transport erleichtert, sowie ein Regionalkrankenhaus. Historisch wuchs die Stadt um einen französischen kolonialen Militär- und Verwaltungsposten, der im frühen 20. Jahrhundert gegründet wurde. Das Stadtbild ist geprägt von breiten, unbefestigten Alleen und einem zentralen Markt.",
+        "hu": "Berbérati a Közép-afrikai Köztársaság harmadik legnagyobb városa, amely a Mambéré-Kadéï prefektúra közigazgatási központjaként szolgál. Az ország délnyugati részén fekszik, mintegy 500 kilométerre a fővárostól, Banguitól, közel a kameruni határhoz. A város becsült lakossága meghaladja a 100 000 főt. Berbérati a régió kulcsfontosságú gazdasági központjaként működik, amelyet elsősorban a gyémántbányászat hajt. A környező folyórendszerekből származó alluviális gyémántok kitermelése jelenti a helyi lakosság jelentős részének elsődleges bevételi forrását. A bányászat mellett a környező mezőgazdasági területek kávét, dohányt és fát termelnek exportra. A város infrastruktúrájához tartozik a regionális közlekedést megkönnyítő Berbérati Repülőtér, valamint egy regionális kórház, amely alapvető egészségügyi létesítményként szolgál a délnyugati tartományok számára. Történelmileg a város egy francia gyarmati katonai és közigazgatási állomás körül épült ki a 20. század elején. A városszerkezetet széles, burkolatlan sugárutak és egy központi piac jellemzi.",
+        "ro": "Berbérati este al treilea oraș ca mărime din Republica Centrafricană, servind drept capitală administrativă a prefecturii Mambéré-Kadéï. Este situat în partea de sud-vest a țării, la aproximativ 500 de kilometri de capitala Bangui, în apropierea graniței cu Camerun. Orașul are o populație estimată la peste 100.000 de locuitori. Berbérati funcționează ca un centru economic crucial pentru regiune, fiind condus predominant de industria mineritului de diamante. Extracția diamantelor aluviale din sistemele fluviale din jur oferă principala sursă de venit pentru o parte semnificativă a populației locale. Pe lângă minerit, zonele agricole înconjurătoare produc cafea, tutun și lemn pentru export. Infrastructura orașului include Aeroportul Berbérati, care facilitează transportul regional, și un spital regional care deservește provinciile de sud-vest. Din punct de vedere istoric, orașul a crescut în jurul unui post militar și administrativ colonial francez înființat la începutul secolului al XX-lea. Planul urbanistic prezintă bulevarde largi, neasfaltate și o piață centrală.",
+        "en": "Berbérati is the third-largest city in the Central African Republic, serving as the administrative capital of the Mambéré-Kadéï prefecture. Located in the southwestern part of the country, approximately 500 kilometers from the capital city Bangui, it lies near the international border with Cameroon. The city has an estimated population exceeding 100,000 inhabitants. Berbérati functions as a crucial economic center for the region, predominantly driven by the diamond mining industry. The extraction of alluvial diamonds from the surrounding river systems provides the primary source of income for a significant portion of the local population. In addition to mining, the surrounding agricultural areas produce coffee, tobacco, and commercial timber for export. The city's vital infrastructure includes the Berbérati Airport, which facilitates regional transport, and a regional hospital that serves as an essential healthcare facility for the southwestern provinces. Historically, the city developed rapidly around a French colonial military and administrative post established in the early 20th century. The urban layout features wide, unpaved avenues and a large central market."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die drittgrößte Stadt der Zentralafrikanischen Republik.",
+          "Verwaltungshauptstadt der Präfektur Mambéré-Kadéï.",
+          "Liegt etwa 500 Kilometer südwestlich der Hauptstadt Bangui.",
+          "Ein wichtiges Zentrum für den Abbau von alluvialen Diamanten.",
+          "Die geschätzte Bevölkerung liegt bei über 100.000 Menschen.",
+          "Verfügt über einen regionalen Flughafen und ein Zentralkrankenhaus."
+        ],
+        "hu": [
+          "A Közép-afrikai Köztársaság harmadik legnagyobb városa.",
+          "A Mambéré-Kadéï prefektúra közigazgatási központja.",
+          "Körülbelül 500 kilométerre délnyugatra fekszik Banguitól.",
+          "Az alluviális gyémántbányászat egyik legfontosabb központja.",
+          "A város becsült lakossága meghaladja a 100 000 főt.",
+          "Rendelkezik egy regionális repülőtérrel és egy központi kórházzal."
+        ],
+        "ro": [
+          "Al treilea oraș ca mărime din Republica Centrafricană.",
+          "Capitala administrativă a prefecturii Mambéré-Kadéï.",
+          "Situat la aproximativ 500 de kilometri sud-vest de capitala Bangui.",
+          "Un centru major pentru extracția diamantelor aluviale.",
+          "Populația estimată este de peste 100.000 de locuitori.",
+          "Dispune de un aeroport regional și de un spital central."
+        ],
+        "en": [
+          "The third-largest city in the Central African Republic.",
+          "Administrative capital of the Mambéré-Kadéï prefecture.",
+          "Located approximately 500 kilometers southwest of Bangui.",
+          "A major economic center for alluvial diamond extraction.",
+          "The estimated population stands at over 100,000 people.",
+          "Features a regional airport and a central hospital."
+        ]
+      }
+    },
+    {
+      "id": "cap-lopez-terminal-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Ölterminal Cap Lopez ist eine kritische Energieinfrastrukturanlage auf der Halbinsel Cap Lopez in der Nähe von Port-Gentil in der Provinz Ogooué-Maritime, Gabun. Das in den späten 1950er Jahren errichtete Terminal wird derzeit von TotalEnergies EP Gabon betrieben und dient als primärer Exporthub für die Rohölproduktion des Landes. Es empfängt Rohöl über ein komplexes Netzwerk von Onshore- und Offshore-Pipelines, die zahlreiche Ölfelder im gesamten gabunischen Sedimentbecken verbinden. Die Anlage erstreckt sich über 100 Hektar und verfügt über großvolumige Lagertanks, die Millionen Barrel Rohöl aufnehmen können. Die maritime Tiefwasserinfrastruktur ermöglicht die Beladung von Very Large Crude Carriers (VLCCs), die das Öl auf die internationalen Märkte transportieren. Das Terminal spielt eine grundlegende Rolle für die nationale Wirtschaft, da es den Großteil der gabunischen Erdölexporte abwickelt, die historisch gesehen einen erheblichen Prozentsatz der Staatseinnahmen ausmachen. In den Betrieb sind Umweltüberwachungssysteme integriert, um die mit der Lagerung von Kohlenwasserstoffen verbundenen Risiken zu bewältigen.",
+        "hu": "A Cap Lopez olajterminál egy kritikus fontosságú energetikai infrastrukturális létesítmény a Cap Lopez-félszigeten, Port-Gentil közelében, a gaboni Ogooué-Maritime tartományban. Az 1950-es évek végén létesített terminált jelenleg a TotalEnergies EP Gabon üzemelteti, és az ország nyersolajtermelésének elsődleges exportközpontjaként szolgál. A nyersolajat egy szárazföldi és tengeri csővezetékekből álló komplex hálózaton keresztül fogadja, amely számos olajmezőt köt össze a gaboni üledékes medencében. A létesítmény több mint 100 hektáron terül el, és hatalmas kapacitású tárolótartályokkal rendelkezik, amelyek több millió hordó nyersolaj befogadására képesek. A mélyvízi tengeri infrastruktúra lehetővé teszi az úgynevezett nagyon nagy nyersolajszállító hajók (VLCC) megrakodását, amelyek a nemzetközi piacokra szállítják az olajat. A terminál alapvető szerepet játszik a nemzetgazdaságban, mivel Gabon kőolajexportjának nagy részét ez a létesítmény dolgozza fel, amely történelmileg az állami bevételek jelentős százalékát teszi ki. A működésbe környezetvédelmi felügyeleti rendszereket integráltak a szénhidrogén-tárolással kapcsolatos kockázatok kezelése érdekében.",
+        "ro": "Terminalul petrolier Cap Lopez este o instalație critică de infrastructură energetică situată pe peninsula Cap Lopez, lângă Port-Gentil, în provincia Ogooué-Maritime, Gabon. Înființat la sfârșitul anilor 1950, terminalul este operat în prezent de TotalEnergies EP Gabon și servește drept principal centru de export pentru producția de țiței a țării. Acesta primește țiței printr-o rețea complexă de conducte onshore și offshore care conectează numeroase câmpuri petroliere din întregul bazin sedimentar gabonez. Facilitatea se întinde pe o suprafață de peste 100 de hectare și dispune de rezervoare de stocare de mare capacitate capabile să rețină milioane de barili de țiței. Infrastructura maritimă de apă adâncă permite încărcarea transportatoarelor de țiței foarte mari (VLCC), care transportă petrolul către piețele internaționale. Terminalul joacă un rol fundamental în economia națională, procesând majoritatea exporturilor de petrol ale Gabonului, care reprezintă istoric un procent semnificativ din veniturile statului. Sistemele de monitorizare a mediului sunt integrate în operațiuni pentru a gestiona riscurile asociate cu depozitarea hidrocarburilor.",
+        "en": "The Cap Lopez Oil Terminal is a critical energy infrastructure facility located on the Cap Lopez peninsula near Port-Gentil in Ogooué-Maritime Province, Gabon. Established in the late 1950s, the terminal is currently operated by TotalEnergies EP Gabon and serves as the primary export hub for the country's crude oil production. It receives unrefined crude oil via a complex network of onshore and offshore pipelines connecting numerous active oil fields across the Gabonese sedimentary basin. The sprawling facility spans over 100 hectares and features large-capacity storage tanks capable of securely holding millions of barrels of crude oil. The deep-water maritime infrastructure allows for the direct loading of Very Large Crude Carriers (VLCCs), which transport the oil to international global markets. The terminal plays a foundational role in the national macroeconomy, processing the vast majority of Gabon's petroleum exports, which historically account for a highly significant percentage of the state's total fiscal revenue. Advanced environmental and safety monitoring systems are integrated into operations to manage the risks associated with large-scale hydrocarbon storage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich auf der Halbinsel Cap Lopez in der Nähe von Port-Gentil.",
+          "Wurde in den späten 1950er Jahren für den Ölexport gebaut.",
+          "Wird heute hauptsächlich von TotalEnergies EP Gabon betrieben.",
+          "Ist der primäre Knotenpunkt für Gabuns Rohölexporte.",
+          "Die Tankanlagen erstrecken sich über eine Fläche von über 100 Hektar.",
+          "Kann Very Large Crude Carriers (VLCCs) im Tiefwasserhafen abfertigen."
+        ],
+        "hu": [
+          "A Cap Lopez-félszigeten, Port-Gentil város közelében található.",
+          "Az 1950-es évek végén épült az olajexport megkönnyítésére.",
+          "Jelenleg a TotalEnergies EP Gabon vállalat üzemelteti.",
+          "Gabon nyersolajexportjának elsődleges és legfontosabb központja.",
+          "A tartálypark több mint 100 hektáros területen helyezkedik el.",
+          "Képes óriás tankhajók (VLCC) kiszolgálására a mélyvízi kikötőben."
+        ],
+        "ro": [
+          "Situat pe peninsula Cap Lopez în apropiere de Port-Gentil.",
+          "A fost construit la sfârșitul anilor 1950 pentru exportul de petrol.",
+          "Este operat în prezent în principal de TotalEnergies EP Gabon.",
+          "Este centrul principal pentru exporturile de țiței ale Gabonului.",
+          "Facilitățile de stocare acoperă o suprafață de peste 100 de hectare.",
+          "Poate manipula transportatoare de țiței foarte mari (VLCC) în portul de adâncime."
+        ],
+        "en": [
+          "Located on the Cap Lopez peninsula near Port-Gentil in Gabon.",
+          "Was constructed in the late 1950s to facilitate oil exports.",
+          "Currently operated primarily by the energy company TotalEnergies EP Gabon.",
+          "Serves as the primary export hub for Gabon's raw crude oil.",
+          "The storage facilities cover an expansive area of over 100 hectares.",
+          "Equipped to load Very Large Crude Carriers (VLCCs) in deep water."
+        ]
+      }
+    }
+  ]
+}

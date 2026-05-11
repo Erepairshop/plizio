@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ma-tanger-med-port-economic-v2",
+      "description": "Tanger Med is one of the largest container ports in Africa and the Mediterranean, serving as a critical logistics hub.",
+      "facts": ["Located on the Strait of Gibraltar", "Handles millions of containers annually", "Opened in 2007", "Major industrial zone"]
+    },
+    {
+      "id": "ma-renault-tangier-economic-v2",
+      "description": "The Renault-Nissan-Mitsubishi plant in Tangier is a massive automotive manufacturing facility contributing significantly to Morocco's industrial output.",
+      "facts": ["Operational since 2012", "Exports vehicles globally", "Focuses on sustainable production", "Key employer in the region"]
+    },
+    {
+      "id": "ma-al-qarawiyyin-history-v2",
+      "description": "Founded in 859 AD, the University of Al-Qarawiyyin is recognized as the oldest existing, continually operating educational institution in the world.",
+      "facts": ["Located in Fez", "Founded by Fatima al-Fihri", "Architectural gem of the medina", "Renowned historical library"]
+    },
+    {
+      "id": "ma-tinmal-mosque-history-v2",
+      "description": "The Tinmal Mosque is a 12th-century historical site located in the High Atlas mountains, built to commemorate the founder of the Almohad dynasty.",
+      "facts": ["Built around 1148", "Almohad architectural style", "Located in the N'Fiss valley", "Restored historical monument"]
+    },
+    {
+      "id": "ma-sijilmasa-ruins-history-v2",
+      "description": "Sijilmasa was once a prosperous medieval trade city on the northern edge of the Sahara, serving as a hub for gold and salt exchange.",
+      "facts": ["Founded in 757 AD", "Key Saharan trade center", "Located near Rissani", "Extensive archaeological site"]
+    },
+    {
+      "id": "ma-dar-al-makhzen-rabat-history-v2",
+      "description": "Dar al-Makhzen in Rabat is the official primary residence and workplace of the King of Morocco, serving as the seat of royal power.",
+      "facts": ["Royal palace complex", "Located in Rabat", "Constructed in 1864", "Symbol of the monarchy"]
+    },
+    {
+      "id": "ma-casablanca-cathedral-landmarks-v2",
+      "description": "The Casablanca Cathedral, or Cathedral of the Sacred Heart, is a former Catholic church known for its unique blend of European and Moroccan architecture.",
+      "facts": ["Built in 1930", "Neo-Gothic and Moorish design", "No longer a church", "Public cultural space"]
+    },
+    {
+      "id": "ma-marrakech-dar-el-bacha-landmarks-v2",
+      "description": "Dar el Bacha is a stunning example of traditional Moroccan riad architecture, formerly a pasha's palace, now a museum.",
+      "facts": ["Built in the early 20th century", "Located in Marrakech medina", "Famous for intricate zellij tiles", "Museum of Confluences"]
+    },
+    {
+      "id": "ma-rabat-saint-pierre-cathedral-landmarks-v2",
+      "description": "Saint-Pierre Cathedral is a prominent Art Deco church located in the heart of Rabat, serving as the seat of the Archdiocese of Rabat.",
+      "facts": ["Consecrated in 1921", "Art Deco design", "Active place of worship", "Distinctive twin towers"]
+    }
+  ]
+}

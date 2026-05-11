@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "marietas-islands-life-v2",
+      "description": "Eine Gruppe kleiner, unbewohnter Inseln vor Puerto Vallarta, berühmt für den versteckten 'Hidden Beach'.",
+      "facts": ["Nationalpark und Vogelschutz", "Berühmter Playa del Amor", "Einstiges militärisches Testgelände"]
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": "Eine geschützte Insel nördlich von Isla Mujeres, die als eines der wichtigsten Vogelschutzgebiete gilt.",
+      "facts": ["Nationalpark seit 1961", "Begrenzte Besucherzahl täglich", "Nistplatz für über 150 Vogelarten"]
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": "Die weiten, blauen Agavenfelder in Jalisco, die das Herz der Tequila-Produktion bilden.",
+      "facts": ["UNESCO-Weltkulturerbe", "Anbau der Blauen Agave", "Vulkanische Bodenbeschaffenheit"]
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": "Das wichtigste Weinanbaugebiet Mexikos in Baja California, bekannt für seine erstklassigen Weingüter.",
+      "facts": ["Produziert 90% des mexikanischen Weins", "Mediterranes Mikroklima", "Zentrum der Valle-Gastronomie"]
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": "Traditionelle Kaffeeplantagen in den feuchten Bergregionen von Veracruz, bekannt für ihren Hochlandkaffee.",
+      "facts": ["Anbau in Coatepec und Xalapa", "Schattenkaffee-Tradition", "Reiche koloniale Fincas"]
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": "Kaffeeplantagen im Hochland von Chiapas, die für ihren qualitativ hochwertigen Bio-Kaffee geschätzt werden.",
+      "facts": ["Größter Kaffeeproduzent Mexikos", "Fokus auf fairen Handel", "Ideal durch vulkanische Böden"]
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": "Regionen in Oaxaca, in denen verschiedene Agavenarten für die handwerkliche Herstellung von Mezcal kultiviert werden.",
+      "facts": ["Hauptregion des Mezcals", "Handwerkliche Destillation", "Vielfalt wilder Agavenarten"]
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": "Die weltweit größten Avocado-Anbaugebiete, die Michoacán zum globalen Zentrum dieser Frucht machen.",
+      "facts": ["Weltmarktführer im Export", "Fruchtbare Vulkanerde", "Ganzjährige Ernte möglich"]
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": "Ausgedehnte Mango-Plantagen in Sinaloa, einer der produktivsten Agrarregionen Mexikos.",
+      "facts": ["Wichtiger Exporteur in die USA", "Mehrere Sorten wie Ataulfo", "Tropisches Küstenklima"]
+    },
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "Eine flache Kalksteinhalbinsel, die für ihre Abwesenheit von oberirdischen Flüssen und ihre Cenoten bekannt ist.",
+      "facts": ["Großes unterirdisches Wassersystem", "Zentrum der Maya-Kultur", "Flache, dschungelbedeckte Ebene"]
+    },
+    {
+      "id": "sierra-de-arteaga-relief-v2",
+      "description": "Ein Teil der Sierra Madre Oriental, oft als die 'Mexikanische Schweiz' bezeichnet.",
+      "facts": ["Bekannt für Apfelplantagen", "Schneefall im Winter möglich", "Beliebtes Wandergebiet"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "Die zerklüfteten Gebirgszüge im Norden von Sonora, die die Grenze zur Wüste bilden.",
+      "facts": ["Reich an Mineralvorkommen", "Extreme Temperaturunterschiede", "Teil der Sierra Madre Occidental"]
+    },
+    {
+      "id": "sierra-de-puebla-relief-v2",
+      "description": "Eine grüne, nebelverhangene Bergregion im Norden von Puebla mit vielen 'Pueblos Mágicos'.",
+      "facts": ["Feuchtes Bergklima", "Zentrum des Kaffeeanbaus", "Heimat indigener Gemeinschaften"]
+    }
+  ]
+}

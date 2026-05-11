@@ -1,0 +1,106 @@
+{
+  "lang": "ro",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghadames-cities-v2",
+      "description": "Ghadames este un oraș-oază istoric situat în vestul Libiei, cunoscut pentru arhitectura sa tradițională unică din chirpici. Este înscris pe lista patrimoniului mondial UNESCO datorită structurii sale urbane vechi.",
+      "facts": ["Oraș-oază istoric", "Patrimoniu UNESCO", "Arhitectură de lut", "Situat în vest"]
+    },
+    {
+      "id": "wadi-al-hayat-nature-v2",
+      "description": "Wadi Al-Hayat este o vale fertilă din regiunea Fezzan, care susține viața într-un mediu predominant deșertic. Zona este cunoscută pentru oazele sale și activitățile agricole locale.",
+      "facts": ["Vale în Fezzan", "Regiune fertilă", "Oaze locale", "Agricultură deșertică"]
+    },
+    {
+      "id": "gargaf-mountains-nature-v2",
+      "description": "Munții Gargaf reprezintă un lanț muntos deșertic situat în centrul Libiei, caracterizat prin formațiuni geologice impresionante. Zona este renumită pentru arta rupestră preistorică descoperită aici.",
+      "facts": ["Lanț muntos central", "Peisaj deșertic", "Artă rupestră veche", "Formațiuni geologice"]
+    },
+    {
+      "id": "tibesti-foothills-nature-v2",
+      "description": "Poalele munților Tibesti se extind în sudul Libiei, oferind un peisaj montan arid și spectaculos. Această regiune este marcată de trecerea caravanelor trans-sahariene de secole.",
+      "facts": ["Sudul Libiei", "Peisaj montan arid", "Trasee de caravane", "Relief vulcanic"]
+    },
+    {
+      "id": "al-haruj-nature-v2",
+      "description": "Al-Haruj este un câmp vulcanic extins situat în centrul Libiei, acoperind o suprafață vastă cu lavă solidificată. Este una dintre cele mai mari regiuni vulcanice din Sahara.",
+      "facts": ["Câmp vulcanic", "Lună de lavă", "Centrul Libiei", "Peisaj arid"]
+    },
+    {
+      "id": "gargaf-desert-nature-v2",
+      "description": "Deșertul Gargaf face parte din extinderea Saharei centrale, fiind o zonă cu dune de nisip și platouri pietroase. Oferă un habitat natural pentru speciile adaptate condițiilor extreme.",
+      "facts": ["Sahara Centrală", "Dune și piatră", "Condiții extreme", "Habitat arid"]
+    },
+    {
+      "id": "wadi-mathendous-nature-v2",
+      "description": "Wadi Mathendous este faimos pentru siturile sale de artă rupestră care datează de milenii, reflectând fauna dispărută a regiunii. Valea este un important sit arheologic și natural.",
+      "facts": ["Artă rupestră veche", "Faună preistorică", "Sit arheologic", "Valea deșertică"]
+    },
+    {
+      "id": "jebel-soda-nature-v2",
+      "description": "Jebel Soda este un masiv muntos izolat, situat într-o zonă deșertică, având un aspect distinctiv. Regiunea este de interes geologic datorită compoziției sale vulcanice.",
+      "facts": ["Masiv muntos", "Origine vulcanică", "Peisaj izolat", "Geologie deșertică"]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "description": "Coasta Cirenaicii se întinde de-a lungul Mării Mediterane în estul Libiei, oferind faleze și peisaje marine variate. Această zonă a fost istoric un nod comercial strategic.",
+      "facts": ["Coasta Mediteranei", "Faleze marine", "Istorie comercială", "Estul Libiei"]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "description": "Wadi Farigh este o depresiune naturală din nord-estul Libiei, cunoscută pentru biodiversitatea sa specifică mediului arid. Zona a fost studiată pentru resursele sale subterane de apă.",
+      "facts": ["Depresiune aridă", "Nord-estul Libiei", "Resurse de apă", "Biodiversitate"]
+    },
+    {
+      "id": "jebel-tarhuna-nature-v2",
+      "description": "Jebel Tarhuna este o zonă muntos-deluroasă din apropierea coastei nordice, oferind o climă mai blândă decât deșertul. Este o regiune importantă pentru agricultura de măsline.",
+      "facts": ["Zona deluroasă", "Nordul Libiei", "Culturi de măsline", "Climă moderată"]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "description": "Jebel Aswad, sau Muntele Negru, este o formațiune geologică distinctă, formată predominant din roci vulcanice întunecate. Se ridică deasupra câmpiilor deșertice înconjurătoare.",
+      "facts": ["Roci vulcanice", "Aspect întunecat", "Relief deșertic", "Formațiune geologică"]
+    },
+    {
+      "id": "wadi-al-ajal-relief-v2",
+      "description": "Wadi Al-Ajal este o vale lungă care se întinde de-a lungul marginii de nord a deșertului Murzuq, fiind o zonă vitală pentru așezările umane. Valea este flancată de stânci abrupte.",
+      "facts": ["Valea deșertică", "Regiunea Murzuq", "Stânci abrupte", "Așezări umane"]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "description": "Valea Wadi Al-Farigh este o zonă de depresiune majoră, caracterizată printr-un sol fertil în anumite sectoare. Reprezintă un element cheie în relieful nord-estic al Libiei.",
+      "facts": ["Depresiune majoră", "Relief nord-estic", "Sol fertil", "Valea aluvionară"]
+    },
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "description": "Sarir Tanezrouft este o câmpie aridă și vastă, cunoscută sub numele de pământul setei din cauza lipsei totale de apă pe distanțe imense. Este una dintre cele mai dificile regiuni din Sahara.",
+      "facts": ["Câmpie aridă", "Deșert Sahara", "Lipsa apei", "Regiune dificilă"]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "description": "Lacul Gaberoun este un lac salin spectaculos situat în inima deșertului Ubari, înconjurat de dune de nisip înalte. Este o atracție naturală unică în Libia.",
+      "facts": ["Lac salin", "Deșert Ubari", "Dune înalte", "Oază spectaculoasă"]
+    },
+    {
+      "id": "mandara-lakes-relief-v2",
+      "description": "Lacurile Mandara fac parte din sistemul de oaze ale deșertului Ubari, fiind o serie de lacuri sărate înconjurate de vegetație. Acestea reprezintă un ecosistem rar în mediul saharian.",
+      "facts": ["Lacuri sărate", "Sistem de oaze", "Deșert Ubari", "Ecosistem saharian"]
+    },
+    {
+      "id": "sirtica-desert-relief-v2",
+      "description": "Deșertul Sirtica este regiunea situată în jurul Golfului Sidra, caracterizată prin câmpii nisipoase și depresiuni. Este o zonă cheie pentru resursele energetice ale țării.",
+      "facts": ["Golful Sidra", "Câmpii nisipoase", "Resurse energetice", "Zona de coastă"]
+    },
+    {
+      "id": "gargaf-desert-relief-v2",
+      "description": "Deșertul Gargaf prezintă un relief variat, incluzând platouri pietroase și formațiuni stâncoase. Este o regiune aridă esențială pentru studiul geografiei Libiei centrale.",
+      "facts": ["Platouri pietroase", "Libia centrală", "Relief arid", "Formațiuni stâncoase"]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sierra-de-juarez-relief-v2",
+      "description": "Sierra de Juárez is a mountain range in Baja California, known for its arid landscapes and pine forests at higher elevations.",
+      "facts": ["Baja California", "Mountain range", "Pine forests"]
+    },
+    {
+      "id": "llanura-costera-del-golfo-relief-v2",
+      "description": "The Gulf Coastal Plain is a vast, low-lying region along Mexico's Gulf Coast, characterized by wetlands and rich agricultural lands.",
+      "facts": ["Gulf Coast", "Wetlands", "Agricultural lands"]
+    },
+    {
+      "id": "peninsula-de-yucatan-relief-v2",
+      "description": "The Yucatán Peninsula is a large landmass separating the Caribbean Sea from the Gulf of Mexico, known for its flat topography and cenotes.",
+      "facts": ["Caribbean Sea", "Gulf of Mexico", "Flat topography"]
+    },
+    {
+      "id": "llanura-de-tabasco-relief-v2",
+      "description": "The Tabasco Plain is a lowland region in southeastern Mexico, known for its extensive wetlands, rivers, and petroleum reserves.",
+      "facts": ["Southeastern Mexico", "Wetlands and rivers", "Petroleum reserves"]
+    },
+    {
+      "id": "sierra-madre-de-sonora-relief-v2",
+      "description": "Sierra Madre de Sonora is part of the Sierra Madre Occidental, featuring deep canyons and forested mountains.",
+      "facts": ["Sierra Madre Occidental", "Deep canyons", "Forested mountains"]
+    },
+    {
+      "id": "sierra-de-puebla-relief-v2",
+      "description": "Sierra de Puebla is a mountain range in eastern Puebla, known for its lush vegetation, cloud forests, and waterfalls.",
+      "facts": ["Eastern Puebla", "Cloud forests", "Waterfalls"]
+    },
+    {
+      "id": "sierra-de-las-minas-mexico-relief-v2",
+      "description": "Sierra de las Minas, although primarily in Guatemala, is noted for its high biodiversity and cloud forests, impacting regional relief.",
+      "facts": ["High biodiversity", "Cloud forests", "Regional impact"]
+    }
+  ]
+}

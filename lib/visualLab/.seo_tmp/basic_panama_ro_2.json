@@ -1,0 +1,25 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "criadero-mariposas-boquete-life-v2", "description": "Fermă de fluturi cu specii tropicale în Boquete.", "facts": ["Fermă fluturi", "Colecție insecte", "Centru educare"]},
+    {"id": "finca-ganadera-los-santos-life-v2", "description": "Fermă de vite cu turism agricol în regiunea Los Santos.", "facts": ["Fermă vite", "Turism agricol", "Economie rurală"]},
+    {"id": "parque-infantil-cinta-costera-life-v2", "description": "Parc costier pentru copii cu vederi maritime.", "facts": ["Parc costier", "Facility copii", "Recreație urbană"]},
+    {"id": "reserva-natural-punta-patino-life-v2", "description": "Rezervă naturală cu ecosistem de teren mlăsturiu.", "facts": ["Rezervă mlăsturiu", "Ecosistem bălți", "Zonă conservare"]},
+    {"id": "finca-arroz-cocle-life-v2", "description": "Fermă de orez în provincia Coclé cu operații agricole.", "facts": ["Producție grăunțe", "Fermă agricolă", "Antreprenă rurală"]},
+    {"id": "parque-nacional-coiba-animales-life-v2", "description": "Parc insulă cu faună endemică și biodiversitate marină.", "facts": ["Parc insulă", "Sanctuar faună", "Ecosistem marin"]},
+    {"id": "finca-maiz-veraguas-life-v2", "description": "Fermă de porumb în Veraguas cu agricultură locală.", "facts": ["Producție culturi", "Fermă agricolă", "Aprovizionare hrană"]},
+    {"id": "parque-infantil-david-life-v2", "description": "Teren de joacă pentru copii în orașul David.", "facts": ["Loc joacă urban", "Facility familie", "Parc comunitate"]},
+    {"id": "santuario-perezosos-gambo-life-v2", "description": "Sanctuar de leneși cu trei degete în habitat natural.", "facts": ["Sanctuar faună", "Conservare leneși", "Protecție mamifere"]},
+    {"id": "finca-tomate-chiriqui-life-v2", "description": "Fermă de roșii în highland Chiriquí cu producție vegetală.", "facts": ["Fermă vegetale", "Cultivare rapi", "Antreprenă agricolă"]},
+    {"id": "parque-infantil-chitre-life-v2", "description": "Teren de joacă în Chitré cu echipamente recreații.", "facts": ["Loc joacă urban", "Park familie", "Facility comunitate"]},
+    {"id": "zoologico-nacional-panama-life-v2", "description": "Zoo național cu fauna din America Centrală și specii exotice.", "facts": ["Facilitate zoo", "Colecție animale", "Zoo public"]},
+    {"id": "granja-educativa-panama-life-v2", "description": "Fermă educare cu practici agricole durabile.", "facts": ["Facilitate educare", "Educație fermă", "Agricultură durabilă"]},
+    {"id": "parque-infantil-santiago-life-v2", "description": "Parc pentru copii în Santiago cu echipament joacă.", "facts": ["Comunitate parc", "Facility joacă", "Spațiu familie"]},
+    {"id": "criadero-cocodrilos-panama-life-v2", "description": "Fermă de crocodili cu reproducție și îngrijire reptile.", "facts": ["Fermă reptile", "Reproducere crocodil", "Facilitate faună"]}
+  ]
+}

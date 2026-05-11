@@ -1,0 +1,85 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "na-chobe-river-nature-v2",
+      "description": "The Chobe River is a tributary of the Zambezi, known for its large elephant herds and abundant wildlife.",
+      "facts": ["Zambezi tributary", "Elephant herds", "Abundant wildlife"]
+    },
+    {
+      "id": "na-kwando-river-nature-v2",
+      "description": "The Kwando River in the Caprivi Strip is a vital waterway for wildlife, known for hippos and crocodiles.",
+      "facts": ["Caprivi Strip", "Vital waterway", "Hippos and crocodiles"]
+    },
+    {
+      "id": "na-zambezi-river-nature-v2",
+      "description": "The Zambezi River forms part of Namibia's northern border, an important water source and habitat.",
+      "facts": ["Northern border", "Important water source", "Rich habitat"]
+    },
+    {
+      "id": "na-erongo-mountains-nature-v2",
+      "description": "The Erongo Mountains are an eroded volcano, known for unique rock formations and San rock art.",
+      "facts": ["Eroded volcano", "Unique rock formations", "San rock art"]
+    },
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "The Erongo Mountains are a ring-shaped volcanic complex with dramatic landscapes, important for climbing and hiking.",
+      "facts": ["Ring-shaped volcanic complex", "Dramatic landscapes", "Climbing and hiking"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "The Waterberg Plateau is a striking table mountain formation, known for its steep cliffs and rich wildlife.",
+      "facts": ["Table mountain", "Steep cliffs", "Rich wildlife"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "The Tsau Khaeb Sperrgebiet is a vast diamond restricted area with pristine coastal landscapes and desert dunes.",
+      "facts": ["Diamond restricted area", "Pristine coast", "Desert dunes"]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "description": "The Huns Mountains in southern Namibia are an ancient mountain range, characterized by rugged beauty and diverse ecosystems.",
+      "facts": ["Ancient mountain range", "Rugged beauty", "Diverse ecosystems"]
+    },
+    {
+      "id": "naukluft-mountains-relief-v2",
+      "description": "The Naukluft Mountains are part of the Namib-Naukluft Park, known for its rugged terrain and natural springs.",
+      "facts": ["Namib-Naukluft Park", "Rugged terrain", "Natural springs"]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "description": "The Muhlo Mountains are a remote mountain range in the Kunene region, home to unique flora and fauna.",
+      "facts": ["Remote mountain range", "Kunene region", "Unique flora and fauna"]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "description": "The Otavi Mountains are a range in northern Namibia, known for their karst topography and caves.",
+      "facts": ["Northern Namibia", "Karst topography", "Caves"]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "description": "The Zebra Mountains are a striking mountain range in the Namib Desert, characterized by their striped appearance.",
+      "facts": ["Namib Desert", "Striped appearance", "Striking mountain range"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "The Baynes Mountains are a rugged range in the Kaokoveld, offering spectacular views and rare wildlife.",
+      "facts": ["Rugged range", "Kaokoveld", "Rare wildlife"]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "description": "The Hartmann Mountains are a remote range in northern Kaokoveld, known for majestic desert landscapes.",
+      "facts": ["Remote range", "Northern Kaokoveld", "Majestic desert landscapes"]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "description": "The Grootberg Plateau is an impressive basalt formation in Damaraland, offering spectacular vistas.",
+      "facts": ["Basalt formation", "Damaraland", "Spectacular vistas"]
+    }
+  ]
+}

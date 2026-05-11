@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "beyla-cities-v2",
+      "descriptionAdvancedDe": "Beyla liegt in der bergigen Waldregion im Südosten Guineas, nahe der Grenze zur Elfenbeinküste. Die Stadt hat eine reiche vorkoloniale Geschichte und war ein wichtiges Zentrum des Koniagui-Volkes. Landwirtschaft ist die wirtschaftliche Grundlage, wobei Kaffee, Kakao und Reis die Hauptanbauprodukte sind. Die Region ist bekannt für ihre traditionelle Musik und ihre Maskentänze, die bei Zeremonien aufgeführt werden. Die Nähe zum Mount Nimba Strict Nature Reserve, einem UNESCO-Weltkulturerbe, unterstreicht die ökologische Bedeutung der Region, obwohl die Stadt selbst außerhalb des Schutzgebiets liegt. Geographie K8 – Kulturelle Traditionen und Grenzregionen.",
+      "descriptionAdvancedHu": "Beyla Guinea délkeleti részén, a hegyvidéki erdős régióban fekszik, közel az Elefántcsontparti határhoz. A város gazdag prekoloniális történelemmel rendelkezik, és a koniagui nép fontos központja volt. A gazdaság alapja a mezőgazdaság, a kávé, a kakaó és a rizs a fő termesztett növények. A régió híres hagyományos zenéjéről és maszkos táncairól, amelyeket szertartásokon adnak elő. Az UNESCO világörökség részét képező Mount Nimba Szigorú Természetvédelmi Terület közelsége hangsúlyozza a régió ökológiai jelentőségét, bár maga a város a védett területen kívül fekszik. Földrajz K8 – Kulturális hagyományok és határ menti régiók.",
+      "descriptionAdvancedRo": "Beyla este situată în regiunea muntoasă și împădurită din sud-estul Guineei, aproape de granița cu Coasta de Fildeș. Orașul are o istorie pre-colonială bogată și a fost un centru important al poporului Koniagui. Agricultura este baza economică, cafeaua, cacaoa și orezul fiind principalele culturi. Regiunea este cunoscută pentru muzica sa tradițională și dansurile cu măști, care sunt executate în timpul ceremoniilor. Apropierea de Rezervația Naturală Strictă Muntele Nimba, un sit al Patrimoniului Mondial UNESCO, subliniază importanța ecologică a regiunii, deși orașul în sine se află în afara ariei protejate. Geografie K8 – Tradiții culturale și regiuni de frontieră.",
+      "descriptionAdvancedEn": "Beyla is located in the mountainous forest region of southeastern Guinea, near the border with Côte d'Ivoire. The city has a rich pre-colonial history and was an important center of the Koniagui people. Agriculture is the economic foundation, with coffee, cocoa, and rice being the main crops. The region is known for its traditional music and mask dances, which are performed at ceremonies. The proximity to the Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site, underscores the ecological importance of the region, although the city itself lies outside the protected area. Geography K8 – Cultural traditions and border regions.",
+      "factsAdvanced": [
+        "A Guinée Forestière régióban található, az elefántcsontparti határ közelében.",
+        "A Koniagui nép történelmi központja.",
+        "A Beyla prefektúra közigazgatási székhelye.",
+        "A régió híres a hagyományos gyógyítóiról és a spirituális gyakorlatokról.",
+        "Fontos helyi piac a mezőgazdasági termékek számára.",
+        "A lakosság becslések szerint körülbelül 13 000 fő.",
+        "A francia gyarmatosítás elleni ellenállás egyik helyszíne volt a 19. század végén.",
+        "A közeli Mount Nimba bioszféra-rezervátum jelentős ökológiai értékkel bír."
+      ]
+    },
+    {
+      "id": "dabola-cities-v2",
+      "descriptionAdvancedDe": "Dabola liegt zentral in Guinea am Übergang zwischen dem Fouta-Djallon-Hochland und der Savanne von Oberguinea. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und war eine bedeutende Station an der Eisenbahnlinie Conakry-Kankan. Die Wirtschaft basiert auf Landwirtschaft, insbesondere dem Anbau von Erdnüssen, und Viehzucht. In der Nähe der Stadt befindet sich der Tinkisso-Staudamm, der einen Teil des Landes mit Strom versorgt. Die Lage am Tinkisso-Fluss bietet Möglichkeiten für Fischerei und Bewässerungslandwirtschaft. Geographie K7 – Verkehrsknotenpunkte und Energieinfrastruktur.",
+      "descriptionAdvancedHu": "Dabola Guinea központi részén, a Fouta-Djallon-felföld és a Felső-Guineai szavanna átmeneti zónájában található. A város fontos közlekedési csomópont, és a Conakry-Kankan vasútvonal egyik jelentős állomása volt. Gazdasága a mezőgazdaságra, különösen a földimogyoró-termesztésre és az állattenyésztésre épül. A város közelében található a Tinkisso-gát, amely az ország egy részét látja el árammal. A Tinkisso folyó menti fekvés lehetőséget biztosít a halászatra és az öntözéses gazdálkodásra. Földrajz K7 – Közlekedési csomópontok és energetikai infrastruktúra.",
+      "descriptionAdvancedRo": "Dabola este situată în centrul Guineei, la tranziția dintre podișul Fouta Djallon și savana din Guineea Superioară. Orașul este un nod de transport important și a fost o stație semnificativă pe linia de cale ferată Conakry-Kankan. Economia se bazează pe agricultură, în special pe cultivarea alunelor și creșterea animalelor. În apropierea orașului se află barajul Tinkisso, care furnizează energie electrică unei părți a țării. Locația pe râul Tinkisso oferă oportunități pentru pescuit și agricultură irigată. Geografie K7 – Noduri de transport și infrastructură energetică.",
+      "descriptionAdvancedEn": "Dabola is centrally located in Guinea, at the transition between the Fouta Djallon highlands and the savanna of Upper Guinea. The city is an important transportation hub and was a significant station on the Conakry-Kankan railway line. The economy is based on agriculture, especially the cultivation of peanuts, and livestock farming. Near the city is the Tinkisso Dam, which supplies electricity to part of the country. Its location on the Tinkisso River offers opportunities for fishing and irrigated agriculture. Geography K7 – Transportation hubs and energy infrastructure.",
+      "factsAdvanced": [
+        "Guinea földrajzi középpontjának közelében található.",
+        "Fontos állomás a Conakry-Kankan vasútvonalon.",
+        "A Tinkisso folyó partján fekszik, és a Tinkisso vízerőmű gátjának ad otthont.",
+        "A Dabola prefektúra adminisztratív központja.",
+        "A marha- és földimogyoró-kereskedelem fontos központja.",
+        "A lakosság körülbelül 38 000 fő (2014).",
+        "A Malinke és Fulbe kultúrák találkozási pontja.",
+        "A várost 1888-ban alapították."
+      ]
+    },
+    {
+      "id": "dinguiraye-cities-v2",
+      "descriptionAdvancedDe": "Dinguiraye, im Fouta-Djallon-Hochland gelegen, ist eine Stadt von immenser historischer und religiöser Bedeutung. Sie gilt als die Wiege des Tidschani-Sufi-Ordens in Westafrika, gegründet von El Hadj Umar Tall im 19. Jahrhundert. Die Große Moschee von Dinguiraye, erbaut von Umar Tall, ist ein bedeutendes Pilgerziel und ein architektonisches Meisterwerk im sudanesischen Stil. Neben seiner religiösen Bedeutung ist Dinguiraye auch ein Zentrum des Goldabbaus, sowohl im industriellen als auch im handwerklichen Maßstab. Die Stadt verbindet auf einzigartige Weise spirituelles Erbe mit den Realitäten der modernen Rohstoffwirtschaft. Geographie K8 – Religiöse Zentren und Bergbau.",
+      "descriptionAdvancedHu": "Dinguiraye, a Fouta-Djallon-felföldön található város, óriási történelmi és vallási jelentőséggel bír. A nyugat-afrikai Tidszáni szúfi rend bölcsőjének tartják, amelyet El Hadj Umar Tall alapított a 19. században. A dinguiraye-i Nagymecset, amelyet Umar Tall építtetett, jelentős zarándokhely és a szudáni stílusú építészet remekműve. Vallási jelentősége mellett Dinguiraye az aranybányászat központja is, mind ipari, mind kézműves méretekben. A város egyedülálló módon ötvözi a spirituális örökséget a modern nyersanyaggazdálkodás valóságával. Földrajz K8 – Vallási központok és bányászat.",
+      "descriptionAdvancedRo": "Dinguiraye, situat în podișul Fouta Djallon, este un oraș de o importanță istorică și religioasă imensă. Este considerat leagănul ordinului sufit Tijaniyya din Africa de Vest, fondat de El Hadj Umar Tall în secolul al XIX-lea. Marea Moschee din Dinguiraye, construită de Umar Tall, este un important loc de pelerinaj și o capodoperă arhitecturală în stil sudanez. Pe lângă importanța sa religioasă, Dinguiraye este și un centru de extracție a aurului, atât la scară industrială, cât și artizanală. Orașul combină în mod unic moștenirea spirituală cu realitățile economiei moderne a resurselor. Geografie K8 – Centre religioase și minerit.",
+      "descriptionAdvancedEn": "Located in the Fouta Djallon highlands, Dinguiraye is a city of immense historical and religious importance. It is considered the cradle of the Tijaniyya Sufi order in West Africa, founded by El Hadj Umar Tall in the 19th century. The Great Mosque of Dinguiraye, built by Umar Tall, is a major pilgrimage site and an architectural masterpiece in the Sudanese style. In addition to its religious significance, Dinguiraye is also a center of gold mining, on both an industrial and artisanal scale. The city uniquely combines spiritual heritage with the realities of the modern resource economy. Geography K8 – Religious centers and mining.",
+      "factsAdvanced": [
+        "A Tidszáni szúfi testvériség nyugat-afrikai bölcsője.",
+        "El Hadj Umar Tall alapította 1848-ban, mint a dzsihádja fővárosát.",
+        "A történelmi Nagymecset fontos iszlám zarándokhely.",
+        "A Dinguiraye prefektúra közigazgatási központja.",
+        "Jelentős aranylelőhelyek a környéken (Lero bánya).",
+        "A lakosság körülbelül 10 000 fő.",
+        "A Fulbe iszlám kultúra egyik legfontosabb központja.",
+        "A város építészete a hagyományos szudáni-szaheli stílust tükrözi."
+      ]
+    },
+    {
+      "id": "gaoual-cities-v2",
+      "descriptionAdvancedDe": "Gaoual ist eine Stadt im Nordwesten Guineas, in einer Region, die für ihre ethnische Vielfalt bekannt ist, darunter Fulbe, Tenda und Bassari. Die Stadt ist das Verwaltungszentrum der Präfektur Gaoual. Die Wirtschaft ist überwiegend landwirtschaftlich geprägt, mit einem Fokus auf Erdnüsse und Viehzucht. Die Region ist auch bekannt für ihre beeindruckenden Wasserfälle, wie die Chutes de Kinkon, die ein Potenzial für den Tourismus darstellen. Die traditionelle Lebensweise der Tenda- und Bassari-Völker in den nahegelegenen Hügeln ist von großem kulturellem Interesse. Geographie K7 – Ethnische Vielfalt und Naturerbe.",
+      "descriptionAdvancedHu": "Gaoual egy város Guinea északnyugati részén, egy olyan régióban, amely etnikai sokszínűségéről ismert, beleértve a fulbékat, a tendákat és a basszarikat. A város a Gaoual prefektúra közigazgatási központja. A gazdaság túlnyomórészt agrárjellegű, a földimogyoróra és az állattenyésztésre összpontosítva. A régió híres lenyűgöző vízeséseiről is, mint például a Chutes de Kinkon, amelyek turisztikai potenciált jelentenek. A tenda és basszari népek hagyományos életmódja a közeli dombokon nagy kulturális érdeklődésre tart számot. Földrajz K7 – Etnikai sokszínűség és természeti örökség.",
+      "descriptionAdvancedRo": "Gaoual este un oraș din nord-vestul Guineei, într-o regiune cunoscută pentru diversitatea sa etnică, incluzând Fulani, Tenda și Bassari. Orașul este centrul administrativ al prefecturii Gaoual. Economia este predominant agricolă, cu accent pe alune și creșterea animalelor. Regiunea este, de asemenea, cunoscută pentru cascadele sale impresionante, cum ar fi Chutes de Kinkon, care reprezintă un potențial turistic. Modul de viață tradițional al popoarelor Tenda și Bassari din dealurile din apropiere este de mare interes cultural. Geografie K7 – Diversitate etnică și patrimoniu natural.",
+      "descriptionAdvancedEn": "Gaoual is a town in northwestern Guinea, in a region known for its ethnic diversity, including Fulani, Tenda, and Bassari peoples. The city is the administrative center of the Gaoual prefecture. The economy is predominantly agricultural, with a focus on peanuts and livestock. The region is also known for its impressive waterfalls, such as the Chutes de Kinkon, which have potential for tourism. The traditional way of life of the Tenda and Bassari peoples in the nearby hills is of great cultural interest. Geography K7 – Ethnic diversity and natural heritage.",
+      "factsAdvanced": [
+        "A Gaoual prefektúra közigazgatási központja Észak-Guineában.",
+        "Etnikailag sokszínű régió, ahol a Fulbe, a Tenda és a Bassari népek élnek.",
+        "A közeli Kinkon-vízesés egy jelentős természeti látványosság.",
+        "A földimogyoró-termesztés és a szarvasmarha-tenyésztés központja.",
+        "A lakosság körülbelül 20 000 fő.",
+        "A régió része a Fouta Djallon kulturális tájegységnek.",
+        "Fontos helyszín a hagyományos rituálék és szertartások számára.",
+        "A határokon átnyúló kereskedelem fontos Guinea-Bissau felé."
+      ]
+    },
+    {
+      "id": "kerouane-cities-v2",
+      "descriptionAdvancedDe": "Kérouané liegt im Herzen des Malinke-Landes in Oberguinea und ist eng mit dem Erbe von Samory Touré verbunden, einem der größten Widerstandskämpfer gegen die französische Kolonialisierung. Touré wurde in der Nähe geboren und Kérouané war eine wichtige Festung in seinem Wassoulou-Reich. Die Stadt ist heute ein wichtiges Zentrum für den Diamantenabbau, der sowohl legal als auch informell betrieben wird. Dies hat zu einem schnellen, oft unkontrollierten Wachstum geführt. Die Landwirtschaft, insbesondere der Anbau von Reis, bleibt eine wichtige Lebensgrundlage. Die Geschichte des Widerstands ist ein zentraler Teil der lokalen Identität. Geographie K8 – Historische Widerstandszentren und Rohstoffabbau.",
+      "descriptionAdvancedHu": "Kérouané Felső-Guinea Malinke vidékének szívében fekszik, és szorosan kötődik Samory Touré örökségéhez, aki a francia gyarmatosítás elleni egyik legnagyobb ellenálló volt. Touré a közelben született, és Kérouané fontos erődítmény volt Wassoulou birodalmában. A város ma a gyémántbányászat fontos központja, amelyet legálisan és informálisan is folytatnak. Ez gyors, gyakran ellenőrizetlen növekedéshez vezetett. A mezőgazdaság, különösen a rizstermesztés, továbbra is fontos megélhetési forrás. Az ellenállás története a helyi identitás központi része. Földrajz K8 – Történelmi ellenállási központok és nyersanyag-kitermelés.",
+      "descriptionAdvancedRo": "Kérouané este situat în inima țării Malinke din Guineea Superioară și este strâns legat de moștenirea lui Samory Touré, unul dintre cei mai mari luptători de rezistență împotriva colonizării franceze. Touré s-a născut în apropiere, iar Kérouané a fost o fortăreață importantă în Imperiul său Wassoulou. Orașul este astăzi un centru important pentru extracția de diamante, care este operată atât legal, cât și informal. Acest lucru a dus la o creștere rapidă, adesea necontrolată. Agricultura, în special cultivarea orezului, rămâne un mijloc de trai important. Istoria rezistenței este o parte centrală a identității locale. Geografie K8 – Centre istorice de rezistență și extracție de resurse.",
+      "descriptionAdvancedEn": "Kérouané is located in the heart of Malinke country in Upper Guinea and is closely linked to the legacy of Samory Touré, one of the greatest resistance fighters against French colonization. Touré was born nearby, and Kérouané was an important fortress in his Wassoulou Empire. The city is now a major center for diamond mining, which is operated both legally and informally. This has led to rapid, often uncontrolled growth. Agriculture, especially rice cultivation, remains an important livelihood. The history of resistance is a central part of the local identity. Geography K8 – Historical resistance centers and resource extraction.",
+      "factsAdvanced": [
+        "Samory Touré, a 19. századi anti-gyarmati vezető szülőhelyének közelében található.",
+        "A Wassoulou Birodalom egyik fontos politikai és katonai központja volt.",
+        "Jelentős gyémántbányászati régió központja.",
+        "A Kérouané prefektúra közigazgatási székhelye.",
+        "A Milo folyó, a Niger egyik mellékfolyója mentén fekszik.",
+        "A Malinke kultúra és a hagyományos zene fontos központja.",
+        "A lakosság meghaladja a 200 000 főt a prefektúrában (2014).",
+        "A város súlyosan érintett volt az illegális gyémántkereskedelem okozta konfliktusok által."
+      ]
+    }
+  ]
+}

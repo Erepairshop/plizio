@@ -4,12 +4,18 @@ import type { POI } from "./poi";
 export const poiExtraBoliviaHistoryV2: POI[] = [
   {
     id: "bo-tiwanaku-history-v2",
-    description: "Az egyik legfontosabb pre-inka régészeti lelőhely, amely több mint ezer évvel ezelőtt virágzott.",
-    facts: [
-      "Pre-inka kultúra",
-      "Régészeti komplexum",
-      "UNESCO Világörökség"
-],
+    description: {
+      de: "Tiwanaku war das spirituelle und politische Zentrum einer bedeutenden präkolumbianischen Zivilisation in den Anden.",
+      hu: "Az egyik legfontosabb pre-inka régészeti lelőhely, amely több mint ezer évvel ezelőtt virágzott.",
+      ro: "Tiwanaku este unul dintre cele mai importante situri arheologice precolumbiene din America de Sud, servind drept capitală a unui imperiu influent.",
+      en: "Ancient Pre-Columbian archaeological site near Lake Titicaca that served as a powerful spiritual center."
+    },
+    facts: {
+      de: ["UNESCO-Welterbe seit 2000", "Blütezeit zwischen 500 und 950 n. Chr.", "Bekannt für monumentale Steinarchitektur"],
+      hu: ["Pre-inka kultúra", "Régészeti komplexum", "UNESCO Világörökség"],
+      ro: ["Centru spiritual și politic", "Situat lângă Lacul Titicaca", "Patrimoniu Mondial UNESCO", "Apogeu între 500 și 950 d.Hr."],
+      en: ["Capital of the Tiwanaku Empire", "Thrived between 500 and 1000 AD", "Located at 3,850 meters elevation", "UNESCO World Heritage Site"]
+    },
     type: "historical",
     parent: "BO-L",
     coords: [-68.6730, -16.5552],
@@ -33,12 +39,18 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     }, image: "/poi-images/bo-tiwanaku-history-v2.webp"},
   {
     id: "bo-puma-punku-history-v2",
-    description: "A Tiwanaku-komplexum része, amely lenyűgöző kőfaragási technikájáról híres.",
-    facts: [
-      "Tiwanaku-rész",
-      "Precíz kőfaragás",
-      "Rejtélyes eredet"
-],
+    description: {
+      de: "Puma Punku ist ein Teil des Tiwanaku-Komplexes und berühmt für seine präzise bearbeiteten, massiven Steinblöcke.",
+      hu: "A Tiwanaku-komplexum része, amely lenyűgöző kőfaragási technikájáról híres.",
+      ro: "Puma Punku este un sub-complex al sitului Tiwanaku, faimos pentru blocurile sale de piatră incredibil de precise.",
+      en: "Complex within Tiwanaku famous for its massive and incredibly precise megalithic stone blocks."
+    },
+    facts: {
+      de: ["Steine wiegen bis zu 130 Tonnen", "Präzise rechteckige Schnitte", "Rätselhafte Bautechnik der Antike"],
+      hu: ["Tiwanaku-rész", "Precíz kőfaragás", "Rejtélyes eredet"],
+      ro: ["Parte a sitului arheologic Tiwanaku", "Faimos pentru blocurile de piatră tăiate cu precizie", "Blocuri masive de gresie roșie și andezit"],
+      en: ["Features T-shaped stone blocks", "Advanced engineering and masonry", "Blocks weigh up to 131 tonnes", "Dating remains controversial"]
+    },
     type: "historical",
     parent: "BO-L",
     coords: [-68.6811, -16.5614],
@@ -62,12 +74,18 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     }, image: "/poi-images/bo-puma-punku-history-v2.webp"},
   {
     id: "bo-akapana-history-v2",
-    description: "Egy nagy mesterséges piramis, amely vallási központként szolgált Tiwanakuban.",
-    facts: [
-      "Tiwanaku-piramis",
-      "Vallási központ",
-      "Mesterséges domb"
-],
+    description: {
+      de: "Die Akapana-Pyramide ist eines der größten Bauwerke in Tiwanaku und diente vermutlich als ritueller Ort.",
+      hu: "Egy nagy mesterséges piramis, amely vallási központként szolgált Tiwanakuban.",
+      ro: "Akapana este o structură mare în formă de piramidă terasată care a servit drept piesă centrală a complexului antic Tiwanaku.",
+      en: "Large stepped pyramid in Tiwanaku that was once a major ceremonial and religious structure."
+    },
+    facts: {
+      de: ["Stufenpyramide mit sieben Ebenen", "Etwa 18 Meter hohe Struktur", "Komplexes internes Entwässerungssystem"],
+      hu: ["Tiwanaku-piramis", "Vallási központ", "Mesterséges domb"],
+      ro: ["Structură terasată mare centrală pentru ritualurile Tiwanaku", "A servit ca piramidă sau platformă ceremonială", "Sisteme sofisticate de drenaj și irigații antice"],
+      en: ["Height of about 18 meters", "Composed of seven terraces", "Aligned with celestial events", "Features complex drainage systems"]
+    },
     type: "historical",
     parent: "BO-L",
     coords: [-68.6736, -16.5562],
@@ -91,12 +109,18 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     }, image: "/poi-images/bo-akapana-history-v2.webp"},
   {
     id: "bo-puerta-del-sol-history-v2",
-    description: "A híres Napkapu, egy monolitikus kőkapu, amely a tiwanakui kultúra ikonikus szimbóluma.",
-    facts: [
-      "Monolitikus Napkapu",
-      "Tiwanakui kultúra",
-      "Ikonikus jelkép"
-],
+    description: {
+      de: "Das Sonnentor ist ein monolithisches Portal in Tiwanaku, verziert mit komplexen ikonographischen Reliefs.",
+      hu: "A híres Napkapu, egy monolitikus kőkapu, amely a tiwanakui kultúra ikonikus szimbóluma.",
+      ro: "Poarta Soarelui (Puerta del Sol) este un arc monolitic de piatră și unul dintre cele mai emblematice simboluri ale artei precolumbiene.",
+      en: "The Gate of the Sun is a monolithic stone archway featuring mysterious and intricate carvings."
+    },
+    facts: {
+      de: ["Aus einem einzigen Andesitblock gehauen", "Wiegt schätzungsweise 10 Tonnen", "Zeigt den sogenannten Stabgott"],
+      hu: ["Monolitikus Napkapu", "Tiwanakui kultúra", "Ikonikus jelkép"],
+      ro: ["Arc monolitic sculptat dintr-un singur bloc de andezit", "Prezintă sculpturi emblematice ale zeității 'Stabgott'", "Simbolizează cunoștințele astronomice avansate ale culturii"],
+      en: ["Carved from a single block of andesite", "Depicts a central 'Staff God'", "Weighs approximately 10 tonnes", "Key icon of Tiwanaku culture"]
+    },
     type: "historical",
     parent: "BO-L",
     coords: [-68.6738, -16.5547],
@@ -120,12 +144,18 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
     }, image: "/poi-images/bo-puerta-del-sol-history-v2.webp"},
   {
     id: "bo-kalasasaya-history-v2",
-    description: "A Tiwanaku-komplexum egyik legnagyobb, szertartási célokra használt központi udvara.",
-    facts: [
-      "Tiwanaku-udvar",
-      "Szertartási hely",
-      "Kőfalak"
-],
+    description: {
+      de: "Kalasasaya ist ein großer, rechteckiger Tempelhof in Tiwanaku, der für astronomische Beobachtungen genutzt wurde.",
+      hu: "A Tiwanaku-komplexum egyik legnagyobb, szertartási célokra használt központi udvara.",
+      ro: "Kalasasaya este un complex de temple întins și ridicat în cadrul sitului Tiwanaku, adesea numit 'Templul Pietrelor în Picioare'.",
+      en: "Rectangular ceremonial courtyard in Tiwanaku designed for tracking the solar calendar."
+    },
+    facts: {
+      de: ["Umgeben von massiven Steinmauern", "Beherbergt die Ponce-Stele", "Präzise Ausrichtung auf Tagundnachtgleichen"],
+      hu: ["Tiwanaku-udvar", "Szertartási hely", "Kőfalak"],
+      ro: ["Templu cu curte ridicată în cadrul complexului Tiwanaku", "Cunoscut sub numele de 'Templul Pietrelor în Picioare'", "Proiectat pentru urmărirea solstițiilor și echinocțiilor"],
+      en: ["Known as the 'Stopped Stones'", "Houses the Ponce Monolith", "Enclosed by massive sandstone pillars", "Used for agricultural timing"]
+    },
     type: "historical",
     parent: "BO-L",
     coords: [-68.6728, -16.5544],
@@ -204,7 +234,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Rückseite des Monolithen ist genauso detailliert verziert wie die Vorderseite.",
         "Der Transport der Statue zurück nach Tiwanaku erforderte moderne Logistik und dauerte mehrere Tage."
       ],
-      hu: ["Wendell Bennett fedezte fel 1932-ben.", "Több mint 7 méter magas.", "Súlya körülbelül 20 tonna.", "Ma a helyi múzeumban található.", "A Tiwanakuban valaha talált legnagyobb kőszobor, amely egy magas rangú alakot ábrázol szertartási tárgyakkal.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["A Tiwanakuban valaha talált legnagyobb kőszobor, amely egy magas rangú alakot ábrázol szertartási tárgyakkal.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Statuia cântărește aproximativ 20 de tone și are o înălțime de 7,30 metri.",
         "Monolitul a fost găsit în Templul Semi-subteran din Tiwanaku.",
@@ -232,36 +262,21 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       en: "Chincana Ruins"
     },
     description: {
-      de: "Ein ausgedehnter Labyrinthkomplex aus Inka-Zeiten auf der Isla del Sol, der als spirituelles und rituelles Zentrum diente.",
+      de: "Die Chincana-Ruinen auf der Isla del Sol sind ein Labyrinth aus Gängen, das den Inka als heiliger Ort diente.",
       hu: "Kiterjedt inka-kori labirintus komplexum a Nap-szigeten (Isla del Sol), amely spirituális és rituális központként szolgált.",
-      ro: "Un complex extins de labirinturi din vremea incașilor pe Isla del Sol, servind ca centru spiritual și ritualic.",
-      en: "An extensive Inca-era labyrinth complex on the Isla del Sol, serving as a spiritual and ritual center."
+      ro: "Chincana este un complex de ruine labirintice situat pe Isla del Sol, considerat locul unde incașii credeau că soarele a fost creat.",
+      en: "A maze-like archaeological site on the Isla del Sol, believed to be an Inca holy place."
     },
     facts: {
-      de: [
-        "Bedeutet \\\\\\\"Labyrinth\\\\\\\" auf Quechua",
-        "Liegt im Norden der Isla del Sol",
-        "Mit einem heiligen Felsen verbunden",
-        "Komplexes Netzwerk aus Gängen"
-      ],
+      de: ["Befindet sich am Titicacasee", "Diente als Residenz für Priester", "Bietet Blick auf den heiligen Felsen"],
       hu: [
         "Jelentése \\\\\\\"Labirintus\\\\\\\" kecsua nyelven",
         "A Nap-sziget északi részén található",
         "Egy szent sziklához kapcsolódik",
         "Folyosók bonyolult hálózata"
       ],
-      ro: [
-        "Înseamnă \\\\\\\"Labirint\\\\\\\" în Quechua",
-        "Situat în nordul Isla del Sol",
-        "Asociat cu o stâncă sacră",
-        "Rețea complexă de pasaje"
-      ],
-      en: [
-        "Means \\\\\\\"Labyrinth\\\\\\\" in Quechua",
-        "Located in the north of Isla del Sol",
-        "Associated with a sacred rock",
-        "Complex network of passages"
-      ]
+      ro: ["Pasaje și coridoare înguste", "Vedere spre Lacul Titicaca", "Sit sacru pentru incași", "Construcție din piatră brută"],
+      en: ["Located in Lake Titicaca", "Name means 'the Labyrinth'", "Likely housed Inca priests", "Connected to the Sacred Rock"]
     },
     descriptionAdvanced: {
       de: "Die Chincana-Ruinen befinden sich an der Nordspitze der Isla del Sol im Titicacasee und stellen eine der rätselhaftesten Inka-Strukturen der Region dar. Es handelt sich um einen ausgedehnten Komplex aus Stein- und Lehmwänden, die ein verwirrendes Netzwerk von Gängen und kleinen Räumen bilden. Der Legende nach war dies der Geburtsort der ersten Inkas, Manco Cápac und Mama Ocllo. Der Komplex diente wahrscheinlich als Unterkunft für Priester und Pilger, die den nahegelegenen heiligen Felsen besuchten. Von den Ruinen aus bietet sich ein herrlicher Blick auf das tiefblaue Wasser des Sees.",
@@ -277,7 +292,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Konstruktion kombiniert unbehauene Steine mit feinen Schichten aus Lehmziegeln.",
         "Der Komplex wurde so konzipiert, dass er von der Seeseite aus fast unsichtbar ist."
       ],
-      hu: ["Jelentése \\\\\\\"Labirintus\\\\\\\" kecsua nyelven.", "A Nap-sziget északi részén található.", "Egy szent sziklához kapcsolódik.", "Folyosók bonyolult hálózata.", "Kiterjedt inka-kori labirintus komplexum a Nap-szigeten (Isla del Sol), amely spirituális és rituális központként szolgált.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Kiterjedt inka-kori labirintus komplexum a Nap-szigeten (Isla del Sol), amely spirituális és rituális központként szolgált.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Cuvântul \\\"Chincana\\\" înseamnă \\\"locul unde te pierzi\\\" în limba quechua.",
         "Complexul este situat chiar lângă stânca sacră \\\"Titikala\\\", originea numelui Titicaca.",
@@ -350,7 +365,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Im Gegensatz zu vielen anderen Inka-Stätten wurden viele Originalelemente kaum verändert.",
         "Die Insel galt in der Inka-Kosmologie als der Ort, an dem der Mond erschaffen wurde."
       ],
-      hu: ["A Hold-szigeten található.", "Jól megőrzött kőhomlokzatok.", "U alakú fülkéket tartalmaz.", "Történelmi szertartási hely.", "Inka templom a Hold-szigeten (Isla de la Luna), amelyet gyakran a Napszüzek Palotájának (Acllawasi) is neveznek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Inka templom a Hold-szigeten (Isla de la Luna), amelyet gyakran a Napszüzek Palotájának (Acllawasi) is neveznek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Numele Iñak Uyu este adesea tradus ca \\\"Casa Femeilor\\\" sau \\\"Casa Fecioarelor\\\".",
         "Complexul cuprinde peste 30 de camere dispuse în jurul unei curți centrale.",
@@ -423,7 +438,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Stätte markiert die östliche Grenze des Inka-Reiches gegen die kriegerischen Guaraní-Stämme.",
         "Besucher können den Komplex auf Holzstegen umrunden, um die empfindlichen Schnitzereien zu schützen."
       ],
-      hu: ["A világ legnagyobb faragott sziklája.", "1998 óta UNESCO Világörökség.", "Eredetileg Chané szertartási hely volt.", "Később az inkák kibővítették.", "Hatalmas homokkő szikla, amelybe inka előtti és inka kultúrák részletes vallási és csillagászati figurákat véstek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Hatalmas homokkő szikla, amelybe inka előtti és inka kultúrák részletes vallási és csillagászati figurákat véstek.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Stânca sculptată are aproximativ 220 de metri lungime și 60 de metri lățime.",
         "Se găsesc acolo reprezentări de jaguari și șerpi, sacri în cosmologia locală.",
@@ -457,36 +472,16 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       en: "Incallajta"
     },
     description: {
-      de: "Eine der wichtigsten Inka-Festungen in Bolivien, erbaut von Tupaq Inka Yupanki, um das Reich gegen Angriffe aus dem Osten zu verteidigen.",
-      hu: "Az egyik legfontosabb inka erőd Bolíviában, amelyet Tupaq Inka Yupanki építtetett a birodalom keleti támadások elleni védelmére.",
-      ro: "Una dintre cele mai importante fortărețe incașe din Bolivia, construită de Tupaq Inka Yupanki pentru a apăra imperiul de atacurile din est.",
-      en: "One of the most important Inca fortresses in Bolivia, built by Tupaq Inka Yupanki to defend the empire from eastern attacks."
+      de: "Incallajta war eine strategische Festung der Inka im Osten Boliviens zum Schutz gegen Angriffe aus dem Tiefland.",
+      hu: "Az Inka Birodalom egyik legfontosabb keleti erődítménye és adminisztratív központja, amelyet az amazóniai törzsek elleni védelemre emeltek.",
+      ro: "Incallajta a fost cea mai importantă fortăreață militară și centru administrativ al Imperiului Incaș în regiunea estică a Boliviei.",
+      en: "Massive Inca fortress and administrative center built to protect the empire's eastern borders."
     },
     facts: {
-      de: [
-        "Bedeutet \\\\\\\"Stadt der Inkas\\\\\\\"",
-        "Errichtet um 1460",
-        "Besitzt das größte Kallanka (Halle) des Inka-Reichs",
-        "Auf fast 3.000 Metern Höhe"
-      ],
-      hu: [
-        "Jelentése \\\\\\\"Az inkák városa\\\\\\\"",
-        "Körülbelül 1460-ban épült",
-        "Itt található az Inka Birodalom legnagyobb Kallankája (csarnoka)",
-        "Közel 3000 méteres magasságban van"
-      ],
-      ro: [
-        "Înseamnă \\\\\\\"Orașul incașilor\\\\\\\"",
-        "Construit în jurul anului 1460",
-        "Are cel mai mare Kallanka (hol) din Imperiul Incaș",
-        "La o altitudine de aproape 3.000 de metri"
-      ],
-      en: [
-        "Means \\\\\\\"City of the Incas\\\\\\\"",
-        "Built around 1460",
-        "Features the largest Kallanka (hall) of the Inca Empire",
-        "At an altitude of nearly 3,000 meters"
-      ]
+      de: ["Größte Inka-Stätte in Bolivien", "Erbaut unter Inkakönig Tupac Yupanqui", "Beeindruckende 78 Meter lange Halle"],
+      hu: ["Tupac Inca Yupanqui építtette 1470 körül", "Területe közel 80 hektár", "Hatalmas központi csarnoka 78 méter hosszú"],
+      ro: ["Construită de Tupac Yupanqui", "Ziduri defensive masive", "Suprafață de 67 de hectare", "Situată în departamentul Cochabamba"],
+      en: ["Founded by Tupac Yupanqui", "Covers nearly 80 hectares", "Features the Great Hall (Kallanka)", "Largest Inca site in Bolivia"]
     },
     descriptionAdvanced: {
       de: "Incallajta ist das monumentalste Zeugnis der Inka-Präsenz auf bolivianischem Boden, versteckt in den Tälern von Cochabamba. Gegründet um 1460 von Tupaq Inka Yupanki, diente die Stadt als strategisches Bollwerk gegen die Invasionen der Chiriguano-Stämme aus dem Tiefland. Das bemerkenswerteste Merkmal ist die 'Kallanka', eine gigantische Versammlungshalle, die einst das größte überdachte Gebäude des gesamten Reiches war. Der Komplex umfasst auch Wohngebäude, militärische Verteidigungsmauern und einen rituellen Sektor mit einem Turm. Trotz der Zerstörung während der Eroberung vermitteln die massiven Steinmauern immer noch die Macht und Pracht von einst.",
@@ -575,7 +570,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Einige der Mauern weisen die für die Inka-Architektur charakteristischen trapezförmigen Nischen auf.",
         "Die Stätte ist Teil eines größeren archäologischen Korridors, der die verschiedenen Täler verbindet."
       ],
-      hu: ["Kilátást nyújt a Cochabamba-völgyre.", "17 jól elkülöníthető építményt foglal magába.", "Huayna Capac inka uralkodó használta.", "A Qhaqha Wayqo komplexum része.", "Sipe Sipe melletti régészeti lelőhely, amely egykor inka közigazgatási központként és megfigyelőállomásként szolgált.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Sipe Sipe melletti régészeti lelőhely, amely egykor inka közigazgatási központként és megfigyelőállomásként szolgált.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Complexul se află la o altitudine de aproape 3.300 de metri deasupra nivelului mării.",
         "Numele \\\"Inka Rakay\\\" înseamnă în quechua \\\"ruinele incașului\\\".",
@@ -648,7 +643,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Der Mais wurde in großen Tongefäßen gelagert, um ihn vor Schädlingen zu schützen.",
         "Die gesamte Anlage wurde unter der Herrschaft von Huayna Cápac erweitert und war damit die größte des Reiches."
       ],
-      hu: ["Több mint 2500 kerek siló volt itt.", "A rekonstruált silók látogathatók.", "A Cochabamba-völgyből származó kukoricát tároltak.", "Fontos volt a katonai ellátás szempontjából.", "Hatalmas inka magtárkomplexum Quillacollo közelében, amely arra szolgált, hogy kukoricát tároljon az egész Inka Birodalom számára.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Hatalmas inka magtárkomplexum Quillacollo közelében, amely arra szolgált, hogy kukoricát tároljon az egész Inka Birodalom számára.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Incallajta era capitala administrativă a acestei regiuni, în timp ce Cotapachi era grânarul.",
         "Fiecare dintre Kollqas putea conține câteva tone de porumb.",
@@ -722,7 +717,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Neben Münzen stellt das Museum bedeutende Kolonialgemälde der Potosí-Schule aus, darunter Werke von Melchor Pérez de Holguín.",
         "Die Casa de la Moneda ist seit 1987 Teil des UNESCO-Weltkulturerbes."
       ],
-      hu: ["Az 1750-es években épült.", "A gyarmati korszak egyik legfontosabb épülete.", "Ma kiterjedt múzeum.", "Hatalmas fa pénzverő gépeket tartalmaz.", "A régi királyi pénzverde Potosíban, ahol a gyarmati korszakban a Cerro Rico ezüstjéből vertek pénzt a Spanyol Birodalom számára.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["A régi királyi pénzverde Potosíban, ahol a gyarmati korszakban a Cerro Rico ezüstjéből vertek pénzt a Spanyol Birodalom számára.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Clădirea are cinci curți interioare mari și ziduri masive pentru a proteja argintul valoros.",
         "Deasupra intrării în cea de-a doua curte se află celebra mască \\\"Mascarón\\\", al cărei zâmbet rămâne un mister.",
@@ -795,7 +790,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Architektur des Klosters zeigt eine harmonische Mischung aus barocken und lokalen Elementen.",
         "Die Klosterkirche verfügt über einen prächtigen, mit Blattgold verzierten Altar."
       ],
-      hu: ["A 17. század végén alapították.", "Lenyűgöző gyarmati építészet.", "Az apácák szigorú elzártságban éltek.", "Kiváló vallási művészeti alkotásokat állít ki.", "Történelmi kármelita kolostor Potosíban 1685-ből, amely ma múzeumként mutatja be az apácák szigorú életét.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Történelmi kármelita kolostor Potosíban 1685-ből, amely ma múzeumként mutatja be az apácák szigorú életét.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Mănăstirea a fost înconjurată de un zid masiv de piatră pentru a asigura separarea completă de lumea exterioară.",
         "În interior se află o colecție valoroasă de picturi ale Școlii din Potosí reprezentând teme religioase.",
@@ -868,7 +863,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die feinen Schnitzereien wurden aus lokalem Stein aus der Umgebung gefertigt.",
         "Das Innere beherbergt wertvolle religiöse Skulpturen und Gemälde aus der Kolonialzeit."
       ],
-      hu: ["A portált a 18. században adták hozzá.", "Az őslakos és spanyol motívumok keveredése.", "Az egyik legtöbbet fényképezett homlokzat.", "A napisten és angyalok kombinációja.", "Gyönyörű templom Potosíban, amely a mesztic-barokk stílusú, művészien faragott kőportáljáról híres.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Gyönyörű templom Potosíban, amely a mesztic-barokk stílusú, művészien faragott kőportáljáról híres.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Pe fațadă se pot vedea două sirene care cântă la instrumente muzicale locale (charangos).",
         "Portalul a fost finalizat între anii 1728 și 1744.",
@@ -940,7 +935,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Kathedrale verfügt über eine beeindruckende Orgel, die im 19. Jahrhundert von den Silberbaronen gespendet wurde.",
         "Sie wurde zum nationalen Denkmal erklärt und ist Teil des UNESCO-Weltkulturerbes."
       ],
-      hu: ["1808 és 1836 között épült.", "A Plaza 10 de Noviembre főtéren áll.", "Gyönyörű színes belső tér.", "A harangtoronyból panorámás kilátás nyílik.", "A legfontosabb templom Potosí központjában, amely pompás neoklasszikus építészetével tükrözi az ezüstváros gazdagságát.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["A legfontosabb templom Potosí központjában, amely pompás neoklasszikus építészetével tükrözi az ezüstváros gazdagságát.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Construcția actuală a durat aproape 30 de ani, fiind inaugurată solemn în 1836.",
         "Arhitectul Manuel de Sanahuja a introdus stilul neoclasic pur în regiunea Potosí.",
@@ -1010,7 +1005,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Hier wurde die erste Verfassung Boliviens von Simón Bolívar verfasst.",
         "Das Museum stellt die sterblichen Überreste der Unabhängigkeitsheldin Juana Azurduy de Padilla aus."
       ],
-      hu: ["A Bolíviai Köztársaság szülőhelye.", "Őrzi az eredeti függetlenségi nyilatkozatot.", "Egykori jezsuita templomcsarnok.", "Kiállítja az első bolíviai zászlót.", "Bolívia legjelentősebb történelmi épülete Sucréban, ahol 1825. augusztus 6-án aláírták a bolíviai függetlenségi nyilatkozatot.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Bolívia legjelentősebb történelmi épülete Sucréban, ahol 1825. augusztus 6-án aláírták a bolíviai függetlenségi nyilatkozatot.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Păstrează în mod original Declarația de Independență a Boliviei într-o urnă de cristal.",
         "Clădirea datează din secolul al XVII-lea și a fost inițial o capelă iezuită.",
@@ -1080,7 +1075,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Das Kloster fungierte auch als Sitz der Erzdiözese La Plata.",
         "Heute beherbergt ein Teil des Gebäudes eine Pfarrschule, die die Bildungstradition fortsetzt."
       ],
-      hu: ["A 18. század végén épült.", "Tetőteraszok harangtornyokkal.", "Klasszikus fehér gyarmati építészet.", "Ma iskolaként is működik.", "Egy gyönyörű kolostorépület Sucréban, amely cseréptetejéről ismert, ahonnan kiváló kilátás nyílik a 'Fehér Városra'.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egy gyönyörű kolostorépület Sucréban, amely cseréptetejéről ismert, ahonnan kiváló kilátás nyílik a 'Fehér Városra'.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Pietrele folosite la construcție provin din carierele locale de lângă Sucre.",
         "Terasele acoperișului sunt un punct de observație preferat pentru fotografi și turiști.",
@@ -1150,7 +1145,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Besitzer waren große Philanthropen und gründeten ein Waisenhaus auf dem Gelände des Anwesens.",
         "Es wurde 1970 aufgrund seines einzigartigen architektonischen Wertes zum nationalen Denkmal erklärt."
       ],
-      hu: ["Bolívia egyetlen hercegi párjának tulajdona volt.", "Gótikus, mór és barokk elemeket ötvöz.", "Három nagyon különböző tornya van.", "Pompás kertekkel rendelkezik.", "Egy excentrikus, meseszerű kastély Sucre közelében, amelyet a 19. század végén építettek, és a legkülönfélébb építészeti stílusok eklektikus keverékét mutatja.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egy excentrikus, meseszerű kastély Sucre közelében, amelyet a 19. század végén építettek, és a legkülönfélébb építészeti stílusok eklektikus keverékét mutatja.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Turnul principal este construit în stil gotic și oferă o imagine impunătoare asupra văii.",
         "Castelul dispune de o replică în miniatură a turnului Giralda din Sevilla în stil maur.",
@@ -1182,36 +1177,16 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       en: "Palacio Quemado"
     },
     description: {
-      de: "Der \\\\\\\"Verbrannte Palast\\\\\\\" in La Paz war lange Zeit der offizielle Sitz des bolivianischen Präsidenten und Zeuge vieler politischer Umwälzungen.",
-      hu: "A \\\\\\\"Leégett Palota\\\\\\\" La Pazban hosszú ideig a bolíviai elnök hivatalos székhelye volt, és számos politikai megrázkódtatás tanúja.",
-      ro: "\\\\\\\"Palatul Ars\\\\\\\" din La Paz a fost mult timp sediul oficial al președintelui bolivian și martor al multor revolte politice.",
-      en: "The \\\\\\\"Burned Palace\\\\\\\" in La Paz was for a long time the official residence of the Bolivian president and a witness to many political upheavals."
+      de: "Der Palacio Quemado ist der offizielle Regierungssitz Boliviens in La Paz, benannt nach einem Brand im Jahr 1875.",
+      hu: "A 'Leégett Palota' Bolívia kormányzati székhelye La Pazban, amely nevét az 1875-ös felkelés során elszenvedett tűzvészről kapta.",
+      ro: "Palatul Quemado este sediul oficial al puterii executive din Bolivia, primindu-și numele după ce a fost incendiat în timpul unei revolte din 1875.",
+      en: "The historic presidential residence in La Paz, named after a fire during an 1875 uprising."
     },
     facts: {
-      de: [
-        "Name stammt von einem Brand im Jahr 1875",
-        "Steht an der Plaza Murillo",
-        "Wurde 2018 durch die Casa Grande del Pueblo ersetzt",
-        "Reiche historische Innenräume"
-      ],
-      hu: [
-        "Nevét egy 1875-ös tűzvészről kapta",
-        "A Plaza Murillo téren áll",
-        "2018-ban a Casa Grande del Pueblo váltotta fel",
-        "Gazdag történelmi belső terek"
-      ],
-      ro: [
-        "Numele provine de la un incendiu din 1875",
-        "Situat în Plaza Murillo",
-        "A fost înlocuit de Casa Grande del Pueblo în 2018",
-        "Interioare istorice bogate"
-      ],
-      en: [
-        "Name comes from a fire in 1875",
-        "Located on the Plaza Murillo",
-        "Replaced by the Casa Grande del Pueblo in 2018",
-        "Rich historical interiors"
-      ]
+      de: ["Erbaut im neoklassizistischen Stil", "Liegt direkt an der Plaza Murillo", "Schauplatz vieler politischer Unruhen"],
+      hu: ["A Plaza Murillo téren található", "Neoklasszikus stílusban épült", "1853-ban adták át"],
+      ro: ["Stil arhitectural neoclasic", "Situat în Plaza Murillo", "Reședință prezidențială istorică", "Fațadă roz distinctivă"],
+      en: ["Located on Plaza Murillo", "Official name: Palacio de Gobierno", "Built in neoclassical style", "Scene of many political events"]
     },
     descriptionAdvanced: {
       de: "Der Palacio Quemado an der Plaza Murillo in La Paz war über anderthalb Jahrhunderte lang der traditionelle Sitz der Exekutive in Bolivien. Sein Name, der 'verbrannter Palast' bedeutet, stammt von einem verheerenden Brand während eines Aufstandes im Jahr 1875. Das neoklassizistische Gebäude war Zeuge unzähliger Staatsstreiche, Revolutionen und Schlüsselmomente der bolivianischen Geschichte. Sein Inneres ist elegant eingerichtet und verfügt über prächtige Empfangssalons wie den Spiegelsaal. Obwohl der Regierungssitz 2018 in die Casa Grande del Pueblo verlegt wurde, bleibt der Palacio Quemado ein unbestreitbares historisches Symbol des bolivianischen Staates.",
@@ -1296,7 +1271,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Sie wurde 1948, zum 400. Jahrestag der Stadtgründung, in den Rang einer Basilika minor erhoben.",
         "Das Kloster bewahrt eine historische Bibliothek mit seltenen Bänden aus der Kolonialzeit auf."
       ],
-      hu: ["1743 és 1784 között épült.", "Őslakos szimbólumokat, például kígyókat és madarakat integrál.", "A kolostor múzeumnak ad otthont.", "A Plaza San Francisco téren található.", "Egy monumentális katolikus templom La Paz szívében, amely az andesi barokk stílusú, gazdagon díszített kőhomlokzatáról ismert.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Egy monumentális katolikus templom La Paz szívében, amely az andesi barokk stílusú, gazdagon díszített kőhomlokzatáról ismert.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Este construită integral din piatră cioplită, extrasă din carierele de la Viacha.",
         "Piața din fața bazilicii este principalul loc de întâlnire socială și protest politic din La Paz.",
@@ -1366,7 +1341,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die prächtigen Glasfenster wurden in Europa eigens für diese Kathedrale angefertigt.",
         "Sie wurde auf extrem geneigtem Gelände errichtet, was massive Fundamente und Stützmauern erforderlich machte."
       ],
-      hu: ["Az építkezés 1835-ben kezdődött.", "Csak 1925-ben szentelték fels.", "Lenyűgöző üvegkupola.", "Olasz márványból készült főoltár.", "Impozáns neoklasszikus katedrális a Plaza Murillo téren, amelynek építése több mint egy évszázadig tartott.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Impozáns neoklasszikus katedrális a Plaza Murillo téren, amelynek építése több mint egy évszázadig tartott.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Adăpostește mausoleul președintelui Andrés de Santa Cruz, ale cărui rămășițe au fost aduse din Franța.",
         "Diferența de înălțime a turnurilor a fost corectată abia în a doua jumătate a secolului XX.",
@@ -1436,7 +1411,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Jeden Sonntag findet das Ritual der Autosegnung (Ch'alla) statt, das weltweit einzigartig ist.",
         "Die Basilika beherbergt eine wertvolle Bibliothek und ein Museum für koloniale sakrale Kunst."
       ],
-      hu: ["A 16. század közepén épült.", "Mór kupolák és színes csempék jellemzik.", "A Szűzanya Bolívia védőszentje.", "A járművek megáldásáról ismert.", "Fontos vallási zarándokhely a Titicaca-tó partján, ahol a híres Copacabanai Szűzanya szobrát őrzik.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Fontos vallási zarándokhely a Titicaca-tó partján, ahol a híres Copacabanai Szűzanya szobrát őrzik.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Statuia Fecioarei este îmbrăcată în haine de aur și argint, purtând bijuterii prețioase donate de credincioși.",
         "Strămoșul clădirii actuale a fost construit peste un sit considerat sacru de către incași.",
@@ -1506,7 +1481,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Mission verfügt über eine Musikschule, in der junge Menschen barocke Instrumente wie Geige und Violoncello lernen.",
         "Alle Holzelemente der Kirche sind ohne die Verwendung von Eisennägeln miteinander verbunden."
       ],
-      hu: ["1691-ben alapították.", "UNESCO Világörökség része.", "Építésze a svájci Martin Schmid volt.", "Az 1980-as években restaurálták.", "A Chiquitos jezsuita missziók közül a legrégebbi, amely gyönyörű fatemplomáról és gazdag zenei hagyományáról ismert.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["A Chiquitos jezsuita missziók közül a legrégebbi, amely gyönyörű fatemplomáról és gazdag zenei hagyományáról ismert.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Biserica a fost restaurată meticulos între 1987 și 1993 sub conducerea arhitectului Hans Roth.",
         "San Javier este cunoscut ca fiind \\\"leagănul barocului chiquitano\\\".",
@@ -1576,7 +1551,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Kirche beherbergt mehrere kleine Barockorgeln, die direkt in den Werkstätten der Mission gebaut wurden.",
         "Sie wurde 1990 aufgrund ihres außergewöhnlichen Erhaltungszustandes in die UNESCO-Liste aufgenommen."
       ],
-      hu: ["UNESCO Világörökség része.", "Hiteles eredeti struktúrák.", "Az építkezés 1780-ban fejeződött be.", "A legcsendesebb missziós falu.", "Bolívia egyik legbájosabb jezsuita missziója, amelynek építését az őslakosok fejezték be a jezsuiták kiűzése után.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Bolívia egyik legbájosabb jezsuita missziója, amelynek építését az őslakosok fejezték be a jezsuiták kiűzése után.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Este singura biserică de misiune unde s-a păstrat un tavan original de trestie și paie.",
         "Satul păstrează configurația originală din perioada misiunilor, cu case mici în jurul unei piețe mari.",
@@ -1602,18 +1577,13 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
       en: "San Miguel de Velasco Jesuit Mission"
     },
     description: {
-      de: "Eine historische Mission mit einem beeindruckenden vergoldeten Altar, die einen tiefen Einblick in das handwerkliche Geschick der Jesuiten und der Chiquitano gibt.",
+      de: "San Miguel de Velasco ist eine der am besten erhaltenen Jesuitenmissionen in der Region Chiquitania.",
       hu: "Történelmi misszió lenyűgöző aranyozott oltárral, amely mély bepillantást nyújt a jezsuiták és a chiquitano emberek kézműves képességeibe.",
       ro: "O misiune istorică cu un altar aurit impresionant, oferind o perspectivă profundă asupra măiestriei iezuiților și a poporului Chiquitano.",
       en: "A historic mission with an impressive gilded altar, providing a deep insight into the craftsmanship of the Jesuits and the Chiquitano people."
     },
     facts: {
-      de: [
-        "Gegründet 1721",
-        "UNESCO-Weltkulturerbe",
-        "Detailreiche Holzschnitzereien",
-        "Bemalte Lehmwände"
-      ],
+      de: ["Teil des UNESCO-Welterbes", "Berühmt für geschnitzte Holzaltäre", "Erbaut im 18. Jahrhundert"],
       hu: [
         "1721-ben alapították",
         "UNESCO Világörökség része",
@@ -1646,7 +1616,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Jede Säule der Kirche wurde aus einem einzigen Hartholzstamm geschnitzt.",
         "Die Gemeinschaft organisiert jährlich große Festlichkeiten zu Ehren ihres Schutzpatrons, des Erzengels Michael."
       ],
-      hu: ["1721-ben alapították.", "UNESCO Világörökség része.", "Részletgazdag fafaragások.", "Festett vályogfalak.", "Történelmi misszió lenyűgöző aranyozott oltárral, amely mély bepillantást nyújt a jezsuiták és a chiquitano emberek kézműves képességeibe.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Történelmi misszió lenyűgöző aranyozott oltárral, amely mély bepillantást nyújt a jezsuiták és a chiquitano emberek kézműves képességeibe.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Altarul din San Miguel este considerat cea mai valoroasă piesă de artă barocă din întreaga regiune Chiquitania.",
         "Fațada bisericii prezintă picturi murale care au fost redescoperite și restaurate recent.",
@@ -1717,7 +1687,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "San Rafael war ein wichtiger Knotenpunkt auf den Wegen, die die verschiedenen Missionen miteinander verbanden.",
         "Der Restaurierungsprozess brachte die ursprünglichen, lebendigen Farben der bemalten Wände zum Vorschein."
       ],
-      hu: ["1696-ban alapították.", "Lenyűgöző faragott fatető.", "Üveg helyett csillámot használtak az ablakokhoz.", "UNESCO Világörökség része.", "Ez a misszió hatalmas csillámablakával tűnik ki, és ez volt a jezsuiták által alapított második település Chiquitaniában.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Ez a misszió hatalmas csillámablakával tűnik ki, és ez volt a jezsuiták által alapított második település Chiquitaniában.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Plăcile de mică folosite la ferestre dau interiorului o lumină caldă și difuză, unică în arhitectura colonială.",
         "Biserica păstrează un amvon sculptat manual, decorat cu motive vegetale locale.",
@@ -1787,7 +1757,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Das Innere der Kirche beherbergt ein Wandgemälde der Jungfrau aus dem 18. Jahrhundert.",
         "Das Bergbaumuseum zeigt alte Maschinen und eine Statue von 'El Tío', dem Gott der Minen in der andinen Kosmologie."
       ],
-      hu: ["Egykori bányabejárat fölött áll.", "A bányászok védőszentjének szentelték.", "A nagy karneváli felvonulások végpontja.", "Bányászati múzeumnak is otthont ad.", "Fontos zarándoktemplom Oruróban, amely mélyen kötődik a helyi bányászkultúrához, és a híres karnevál központját alkotja.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Fontos zarándoktemplom Oruróban, amely mélyen kötődik a helyi bányászkultúrához, és a híres karnevál központját alkotja.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Numele \\\"Socavón\\\" înseamnă galerie de mină, reflectând legătura strânsă cu mineritul.",
         "Fiecare grup de dansatori din carnaval are datoria de a aduce onoruri Fecioarei în acest sanctuar.",
@@ -1857,7 +1827,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Die Heldin Manuela Gandarillas war eine alte und blinde Frau, die den Angriff anführte.",
         "Das Denkmal ist jedes Jahr im Mai ein Ort patriotischer Pilgerfahrten."
       ],
-      hu: ["Az 1812. május 27-i csata tiszteletére emelték.", "Bronzból készült.", "Egy dombon található a város felett.", "A bolíviai hazaszeretet szimbóluma.", "Történelmi emlékmű Cochabambában, a San Sebastián dombon, amely azokat a bátor nőket tiszteli, akik a függetlenségi háború alatt harcoltak a spanyol csapatok ellen.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Történelmi emlékmű Cochabambában, a San Sebastián dombon, amely azokat a bátor nőket tiszteli, akik a függetlenségi háború alatt harcoltak a spanyol csapatok ellen.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Bătălia de la Coronilla este singura din istoria Americii Latine purtată aproape exclusiv de femei.",
         "Dealul unde se află monumentul oferă o vedere panoramică completă asupra văii Cochabamba.",
@@ -1927,7 +1897,7 @@ export const poiExtraBoliviaHistoryV2: POI[] = [
         "Carrara-Marmor, Seide und Eichenholz wurden mit großem Aufwand durch die Anden transportiert.",
         "Er gehört der Patiño-Stiftung, die Bildung und Kunst in ganz Bolivien fördert."
       ],
-      hu: ["1915 és 1927 között épült.", "Eugène Bliault francia építész tervezte.", "Patiño soha nem élt ott.", "Hatalmas botanikus kertek veszik körül.", "Cochabamba pompás, európai ihletésű kúriája, amelyet az ónbáró, Simón I. Patiño építtetett, ma fontos kulturális központ.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
+      hu: ["Cochabamba pompás, európai ihletésű kúriája, amelyet az ónbáró, Simón I. Patiño építtetett, ma fontos kulturális központ.", "Bolívia Többnemzetiségű Állam területén található.", "Az Andok-kordillera, az Altiplano és a keleti alföld között fekszik."],
       ro: [
         "Fiecare cameră a palatului este decorată într-un stil diferit, de la Ludovic al XV-lea la stilul maur.",
         "Grădinile au fost concepute pentru a include specii de plante aduse din toate continentele.",

@@ -28,8 +28,8 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Markantestes geologisches Relief Ghanas", "Schmale, gefaltete Quarzitberge", "Trennungslinie zwischen trockener Küste und feuchtem Hinterland", "Höhen bis zu 800 Metern", "Zwingt Meereswinde zum Aufsteigen", "Zieht sich bis über die Grenze nach Togo"],
       hu: ["A hegylánc alapját ősi, prekambriumi (több mint 600 millió éves) metamorf kőzetek alkotják", "Ghána legmagasabb pontjai (köztük a Mount Afadja) ennek a vonulatnak a keleti részén találhatók", "Nyugati, Accrához közelebbi része (Akwapim Ridge) alacsonyabb, átlagosan 400 méter magas", "Klimatikus határ: a keleti lejtők (szélárnyék) sokkal szárazabbak, mint a nyugati, óceán felőli oldal", "Több helyen is mély szurdokok tagolják (pl. a Volta folyó áttörése Akosombónál)", "A hűvösebb klíma miatt a britek kedvelt pihenő- és szanatóriumi vidéke volt"],
-      ro: ["Se întinde pe o lungime de peste 300 km.", "Cumpănă de ape importantă pentru regiune.", "Din punct de vedere geologic, are peste 500 mil. ani.", "Cel mai înalt vârf este Muntele Afadja.", "Găzduiește numeroase plante endemice.", "Coridor ecologic important."],
-      en: ["Stretches over 300 km in length.", "Important watershed for the region.", "Geologically over 500 million years old.", "Highest peak is Mount Afadja.", "Home to numerous endemic plants.", "Important ecological corridor."]
+      ro: ["Se întinde pe o lungime de peste 300 km.", "Cumpănă de ape importantă pentru regiune.", "Din punct de vedere geologic, are peste 500 mil. ani.", "Găzduiește numeroase plante endemice.", "Coridor ecologic important."],
+      en: ["Stretches over 300 km in length.", "Important watershed for the region.", "Geologically over 500 million years old.", "Home to numerous endemic plants.", "Important ecological corridor."]
     }
   },
   {
@@ -84,7 +84,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Schroffe topografische Grenze (Steilstufe)", "Liegt in der Ashanti-Region", "Trennt Ashanti-Hügel von tiefen Tälern", "Entstanden durch tektonische Verschiebungen", "Kritisches Hindernis für den Straßenbau", "Bewahrt Dörfer vor Tropenstürmen"],
       hu: ["A Keleti Régió erdős dombvidékének része (Kwaebibirem körzet)", "A 'Kwae' jelentése az akan nyelvekben 'erdő'", "A letörés mentén hirtelen magasságváltozás (escarpment) tapasztalható", "A terület Ghána egyik legintenzívebb pálmaolaj (GOPDC) és citrus termelő vidéke", "A csapadékban gazdag klíma sűrű, helyenként ködbe burkolózó másodlagos esőerdőket tart fenn", "A domborzat miatt az itteni utak gyakran szerpentineznek a meredek hegyoldalakon"],
-      ro: ["Definește peisajul.", "Teren susceptibil la eroziune.", "Oferă o vedere largă.", "Coridor ecologic important.", "O treaptă de relief marcantă în regiunea Eastern.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O treaptă de relief marcantă în regiunea Eastern.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A sharp, geologically abrupt fault line located in the heavily forested Eastern Region.", "Characterized by steep, dramatic vertical drops exposing ancient sedimentary rock layers.", "The topography forcefully drives air masses upward, causing intense orographic rainfall.", "The resulting heavy erosion creates incredibly deep, well-drained soils at the base.", "The surrounding lands are dominated by massive commercial oil palm and cocoa estates.", "Acts as a formidable natural barrier separating different regional ecological zones."]
     }
   },
@@ -110,7 +110,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Massiv erhöhte Hochebene im Zentrum Ghanas", "Ragt über 500 Meter aus dem Volta-Becken empor", "Flache, stark erodierte Sandsteinscholle", "Historische natürliche Festung", "Kühleres Klima begünstigt Gemüseanbau", "Berühmt für Paragliding-Sport"],
       hu: ["A fennsík átlagos tengerszint feletti magassága 500-600 méter, meredek sziklafalakkal (escarpment)", "Választóvonal az Ashanti/Keleti erdők és a Volta-medence alacsonyabban fekvő szavannája között", "A híres Kwahu húsvéti fesztivál és a siklóernyőzés (paragliding) nemzetközi központja (Atibie közelében)", "Történelmileg a plató (hegytető) nyújtott védelmet a Kwahu népnek az ashanti támadások ellen", "Olyan folyók erednek innen, mint az Afram és a Pra", "Kifejezetten módos vidék, a hegytetőn sorakozó hatalmas palotákat gyakran accrai üzletemberek építtették"],
-      ro: ["Servește ca zonă de recreere.", "Climat mai răcoros decât în zonele joase.", "Regiune de așezare tradițională.", "Utilizat pentru agricultură.", "Un podiș care oferă un habitat mai răcoros.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un podiș care oferă un habitat mai răcoros.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A colossal, elevated block of ancient sandstone situated primarily in the Eastern Region.", "Rises sharply to an average elevation of 450 meters, featuring a sheer southern escarpment.", "Stretches continuously for over 250 kilometers forming a massive geographical barrier.", "Acts as the indispensable, primary watershed for the vital Pra and Afram river systems.", "The extreme elevation produces a noticeably cooler, highly favorable local microclimate.", "Hosts prosperous, historically significant mountaintop towns such as Abetifi and Mpraeso."]
     }
   },
@@ -136,7 +136,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Gigantische, flache Senke", "Dominiert fast die halbe Landmasse Ghanas", "Extrem alte Senkungszone (auf Vulkangestein)", "Mit weichen Sedimentschichten aufgefüllt", "Ermöglichte den enormen Rückstau des Volta-Sees", "Kaum durch Hügel unterbrochen"],
       hu: ["Ghána szárazföldi területének mintegy 45-50%-át foglalja el", "A medence alapkőzete zömében lapos, ősi üledékes kőzet (homokkő, pala, iszapkő)", "Tengerszint feletti magassága alacsony, átlagosan 150-200 méter közötti", "A peremein (escarpments) keményebb kőzetek álltak ellen az eróziónak, így jöttek létre a fennsíkok (pl. Gambaga, Kwahu)", "Növényzete túlnyomórészt fás szavanna (guinea szavanna)", "A medence központi, legmélyebb részét ma nagyrészt a Volta-tó víztömege fedi"],
-      ro: ["Centrul sistemului fluvial ghanez.", "Dominat de formațiuni de gresie.", "Parțial împădurit.", "Semnificativ din punct de vedere economic.", "Un bazin geologic mare care ocupă cea mai mare parte a Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un bazin geologic mare care ocupă cea mai mare parte a Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A colossal geological depression occupying nearly 45% of Ghana's total land area.", "Structurally formed as a massive saucer composed of ancient Voltaian sedimentary rocks.", "Surrounded entirely by higher geological features like the Kwahu and Gambaga escarpments.", "Functions as the ultimate drainage sink for all major northern and central river systems.", "The consistently flat, low-lying topography made the creation of Lake Volta possible.", "The soils within the basin are generally shallow and prone to severe dry-season hardening."]
     }
   },
@@ -146,11 +146,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-BE",
     coords: [-2.25, 8.28],
     name: { de: "Bui-Schlucht", hu: "Bui-szurdok", ro: "Cheile Bui", en: "Bui Gorge" },
-    description: { de: "Eine durch den Schwarzen Volta geformte Schlucht.", hu: "A Fekete-Volta által formált szurdok.", ro: "O cheie formată de râul Volta Negru.", en: "A gorge formed by the Black Volta." },
+    description: { de: "Eine durch den Schwarzen Volta geformte Schlucht.", hu: "A Fekete-Volta által formált szurdok.", ro: "Un defileu adânc și spectaculos tăiat de râul Volta Neagră, locul actual al unui important baraj hidroenergetic.", en: "A gorge formed by the Black Volta." },
     facts: {
       de: ["Ort eines Wasserkraftwerks.", "Steile Felswände.", "Reiches Wildleben.", "Landschaftlich beeindruckend."],
       hu: ["Vízerőmű helyszíne.", "Meredek sziklafalak.", "Gazdag vadvilág.", "Tájilag lenyűgöző."],
-      ro: ["Locația unei hidrocentrale.", "Pereți stâncoși abrupți.", "Faună bogată.", "Impresionant peisagistic."],
+      ro: ["Peisaj montan accidentat", "Bogat în biodiversitate fluvială", "Formațiuni stâncoase pre-cambriene"],
       en: ["Site of a hydroelectric power plant.", "Steep rock walls.", "Rich wildlife.", "Scenically impressive."]
     }, image: "/poi-images/bui-gorge-relief-v2.webp",
     descriptionAdvanced: {
@@ -162,7 +162,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Dramatische Einkerbung im Black Volta-System", "Steile, fast vertikale Felswände", "Geformt durch Jahrtausende Flusserosion", "Natürliche Flaschenhals-Topografie", "Ideal für den Bau der Bui-Staumauer (2013)", "Ehemaliger Standort der Schlucht"],
       hu: ["A szurdok egy ősi kvarchomokkő (quartzite) vonulat áttörésével jött létre", "Már az 1920-as években (brit mérnökök) kinézték, mint ideális helyszínt egy vízerőműnek", "Az itt megépült Bui Dam 2013-ban kezdett áramot termelni (400 MW)", "A szurdok eredetileg hatalmas víziló-csordáknak (hippos) és majmoknak adott otthont", "A duzzasztás miatt a folyó vízszintje drasztikusan megemelkedett a szorosban", "Geológiailag a Volta-medence nyugati peremvidékéhez (Banda Hills) tartozik"],
-      ro: ["Locația unei hidrocentrale.", "Pereți stâncoși abrupți.", "Faună bogată.", "Impresionant peisagistic.", "O cheie formată de râul Volta Negru.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O cheie formată de râul Volta Negru.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A deep, steep-sided topographical gorge located on the Black Volta River.", "Formed geographically where the river cuts directly through the Banda Hills.", "The narrow, rocky chasm created intense, highly compressed river rapids.", "Identified in the 1920s as the optimal site for a major hydroelectric dam.", "Permanently altered and submerged by the completion of the Bui Dam in 2013.", "Historically marked the ecological boundary between dense forest and savanna."]
     }
   },
@@ -172,10 +172,10 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-AH",
     coords: [-1.5, 6.7],
     name: { de: "Ashanti-Hochland", hu: "Ashanti-felföld", ro: "Podișul Ashanti", en: "Ashanti Uplands" },
-    description: { de: "Hügellandschaft im Herzen des Landes.", hu: "Dombvidék az ország szívében.", ro: "Regiune deluroasă în inima țării.", en: "Hilly landscape in the heart of the country." },
+    description: { de: "Hügellandschaft im Herzen des Landes.", hu: "Ghána középső részén elterülő dombvidék, amely az ország mezőgazdasági szívét alkotja.", ro: "Regiune deluroasă în inima țării.", en: "Hilly landscape in the heart of the country." },
     facts: {
       de: ["Bekannt für Goldvorkommen.", "Dichte Vegetation.", "Wichtige landwirtschaftliche Zone.", "Sanfte Erhebungen."],
-      hu: ["Aranylelőhelyeiről ismert.", "Sűrű növényzet.", "Fontos mezőgazdasági zóna.", "Lankás dombok."],
+      hu: ["Átlagos magassága 300-600 méter.", "Dús trópusi erdők borítják.", "Fontos kakaótermelő vidék."],
       ro: ["Cunoscut pentru zăcămintele de aur.", "Vegetație densă.", "Zonă agricolă importantă.", "Relief deluros domol."],
       en: ["Known for gold deposits.", "Dense vegetation.", "Important agricultural zone.", "Gentle elevations."]
     }, image: "/poi-images/ashanti-uplands-relief-v2.webp",
@@ -188,7 +188,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Netzwerk sanfter, kuppelförmiger Hügel", "Liegt im waldreichen Südwesten", "Erodierte Reste eines uralten Gebirges", "Zerklüftete Topografie verhindert Großlandwirtschaft", "Zentrum terrassenartiger Kakaofarmen", "Massiv durch Tropenregen rundgewaschen"],
       hu: ["A Kwahu-plató és a parti síkságok közötti, fokozatosan lejtő dombvidék", "Átlagos magassága 250 és 300 méter között mozog", "Birkhead (Birimian) és Tarkwaian geológiai formációk építik fel, amelyek rendkívül aranygazdagok", "Ghána legfőbb kakaó- és fatermelő régiója a sűrű (fél-örökzöld) esőerdőinek köszönhetően", "Mély völgyeit az egyenlítői esők által táplált bővizű folyók alakították ki", "A domborzat előnyös védelmet nyújtott az Ashanti Birodalomnak a brit támadásokkal szemben"],
-      ro: ["Cunoscut pentru zăcămintele de aur.", "Vegetație densă.", "Zonă agricolă importantă.", "Relief deluros domol.", "Regiune deluroasă în inima țării.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Regiune deluroasă în inima țării.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A massive, undulating plateau system covering the central forest belt of Ghana.", "Average elevations range consistently between 150 and 300 meters above sea level.", "Composed primarily of ancient, highly mineralized Birimian and Tarkwaian rocks.", "Geographically hosts the vast majority of Ghana's immense commercial gold deposits.", "Deeply dissected by major, fast-flowing river valleys like the Pra and Offin.", "Provides the ideal, well-drained topography required for intensive cocoa cultivation."]
     }
   },
@@ -198,12 +198,12 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-VR",
     coords: [1.1, 6.0],
     name: { de: "Denu-Küstenebene", hu: "Denu-alföld", ro: "Câmpia de coastă Denu", en: "Denu Coastal Plain" },
-    description: { de: "Flaches Küstengebiet im Osten Ghanas.", hu: "Sík tengerparti terület Ghána keleti részén.", ro: "Zonă costieră plată în estul Ghanei.", en: "Flat coastal area in eastern Ghana." },
+    description: { de: "Ein flaches Küstentiefland im Südosten Ghanas, das durch Lagunen und sandige Strände geprägt ist.", hu: "Ghána délkeleti részén, a Togo határánál fekvő homokos tengerparti síkság.", ro: "Zonă costieră plată în estul Ghanei.", en: "A flat, low-lying coastal area in southeastern Ghana characterized by sandy beaches and lagoons." },
     facts: {
-      de: ["Sandige Böden.", "Lagunenlandschaft.", "Traditionelle Fischerei.", "Starke Erosion."],
-      hu: ["Homokos talajok.", "Lagúnás táj.", "Hagyományos halászat.", "Erős erózió."],
+      de: ["Liegt in der Volta Region.", "Wichtige Region für den Fischfang.", "Geringe Erhebung über dem Meeresspiegel."],
+      hu: ["Alacsonyan fekvő terület lagúnákkal.", "Pálmafák és homokdűnék jellemzik.", "Fontos halászati és kókusztermesztő vidék."],
       ro: ["Soluri nisipoase.", "Peisaj de lagune.", "Pescuit tradițional.", "Eroziune puternică."],
-      en: ["Sandy soils.", "Lagoon landscape.", "Traditional fishing.", "Strong erosion."]
+      en: ["Located near the Togo border", "Part of the wider Volta estuary region", "Major area for salt production and fishing"]
     }, image: "/poi-images/denu-coastal-plain-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Küstenebene bei Denu im äußersten Südosten ist ein völlig flaches, nahezu reliefartiges Sand- und Sumpfgebiet, das nur knapp über dem Meeresspiegel liegt. Im starken Gegensatz zu den schroffen Klippen der Westküste ist das Land hier so eben, dass während extremer Hochwasserphasen der Keta-Lagune und des Atlantiks oft ganze Landstriche überschwemmt werden. Diese Topografie begünstigt zwar die Landwirtschaft auf sandigen Böden, macht die Region jedoch extrem anfällig für Küstenerosion und den Klimawandel. Umwelt K7 — Küstenebenen.",
@@ -214,7 +214,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Völlig flaches Sand- und Sumpfgebiet im Südosten", "Liegt nur knapp über dem Meeresspiegel", "Enormer Gegensatz zur Klippenküste im Westen", "Oft von Lagune und Atlantik überschwemmt", "Landwirtschaft auf sandigen Böden", "Extrem anfällig für Küstenerosion"],
       hu: ["A Volta folyó torkolatától (Ada) a togói határig (Aflao) húzódó parti formáció", "Kialakulásában a Volta folyó hordaléka és az erős kelet felé tartó (Guinea áramlat) parti sodrás játszott főszerepet", "Rendkívül lapos, magassága szinte sehol sem haladja meg a tengerszint feletti néhány métert", "A tengeri erózió történelmi falvakat (pl. Keta régi részei) mosott már a tengerbe", "A sós, homokos talaj (strandhátak) ellenére a helyiek intenzív zöldségtermesztést folytatnak (shallot farming)", "Válaszvonalat képez a nyílt Atlanti-óceán és a sekély vizű belső lagúnák között"],
-      ro: ["Soluri nisipoase.", "Peisaj de lagune.", "Pescuit tradițional.", "Eroziune puternică.", "Zonă costieră plată în estul Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Zonă costieră plată în estul Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["An extremely flat, low-lying coastal plain located in the southeastern Volta Region.", "Consists primarily of loose marine sands, tidal mudflats, and estuarine lagoons.", "Geographically sits precariously just at or barely above average sea level.", "Faces intense, constant devastation from aggressive Atlantic coastal erosion.", "Requires massive, ongoing investments in heavy sea defense walls and rock groynes.", "The highly porous, sandy soils support intensive commercial shallot and coconut farming."]
     }
   },
@@ -224,11 +224,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-NP",
     coords: [-0.8, 9.8],
     name: { de: "Gambo-Hügel", hu: "Gambo-dombok", ro: "Dealurile Gambo", en: "Gambo Hills" },
-    description: { de: "Eine Hügelkette im Norden des Landes.", hu: "Dombvidék az ország északi részén.", ro: "Un lanț de dealuri în nordul țării.", en: "A chain of hills in the north of the country." },
+    description: { de: "Eine Hügelkette im Norden des Landes.", hu: "Dombvidék az ország északi részén.", ro: "O serie de dealuri ondulate situate în nordul Ghanei, caracterizate prin vegetație rară și soluri lateritice.", en: "A chain of hills in the north of the country." },
     facts: {
       de: ["Trockenes Klima.", "Savannenvegetation.", "Kleine Siedlungen.", "Geringe Erhebung."],
       hu: ["Száraz éghajlat.", "Szavanna növényzet.", "Kis települések.", "Alacsony magasság."],
-      ro: ["Climat uscat.", "Vegetație de savană.", "Așezări mici.", "Altitudine redusă."],
+      ro: ["Formează un bazin de recepție local", "Influențate de vântul Harmattan", "Importante pentru pășunatul sezonier"],
       en: ["Dry climate.", "Savanna vegetation.", "Small settlements.", "Low elevation."]
     }, image: "/poi-images/gambo-hills-relief-v2.webp",
     descriptionAdvanced: {
@@ -240,7 +240,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Karge, steinige Rücken in der Nordsavanne", "Bestehen aus hartem Granit und Quarzit", "Trotzen den Sahara-Winden (Harmattan)", "Wichtige Landmarken für Viehherden", "Gelten als heilige Wohnorte für Erdgeister", "Heben sich deutlich von der Ebene ab"],
       hu: ["A Volta-medence északi peremének kiemelkedő (escarpment) formációja", "Gambaga és Nalerigu (a Mamprusi birodalom központjai) ezen a fennsíkon épültek fel", "Az üledékes (homokkő) kőzetekből álló fal meredeken szakad le észak felé", "Számos barlang és sziklamenedék található a falak mentén, amelyeket ősidők óta használnak a helyiek", "Kiváló termálirányító hatása miatt a peremen gyakoriak az erős felszálló légáramlatok", "Az alatta elterülő völgyet a Fehér-Volta (White Volta) és mellékfolyói alakították ki"],
-      ro: ["Climat uscat.", "Vegetație de savană.", "Așezări mici.", "Altitudine redusă.", "Un lanț de dealuri în nordul țării.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un lanț de dealuri în nordul țării.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["Located in the North East Region, forming part of the massive Gambaga Escarpment.", "Composed primarily of ancient, horizontally bedded Voltaian sandstone formations.", "Characterized by steep, dramatic cliff faces and heavily eroded, flat-topped mesas.", "Historically functioned as a massive, natural defensive fortress for the Mamprusi Kingdom.", "The steep, rocky topography severely limits large-scale, mechanized agriculture.", "Provides critical, high-elevation watershed management for the White Volta valley."]
     }
   },
@@ -250,12 +250,12 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.05, 6.15],
     name: { de: "Akuapem-Kamm", hu: "Akuapem-gerinc", ro: "Creasta Akuapem", en: "Akuapem Ridge" },
-    description: { de: "Ein Gebirgszug nordöstlich von Accra.", hu: "Hegyvonulat Accrától északkeletre.", ro: "Un lanț muntos la nord-est de Accra.", en: "A mountain ridge northeast of Accra." },
+    description: { de: "Ein markanter Gebirgszug nordöstlich von Accra, bekannt für sein kühleres Klima und seine malerischen Aussichten.", hu: "Hegyvonulat Accrától északkeletre.", ro: "Un lanț muntos la nord-est de Accra.", en: "A prominent range of hills in southern Ghana known for its cool climate and lush vegetation." },
     facts: {
-      de: ["Nahe an der Hauptstadt.", "Kühles Klima.", "Wichtige Wasserquelle.", "Botanische Gärten."],
+      de: ["Teil des Akwapim-Togo-Gebirges.", "Beliebtes Ausflugsziel.", "Zentrum für Kakaoanbau in der Geschichte."],
       hu: ["Közel a fővároshoz.", "Hűvös éghajlat.", "Fontos vízforrás.", "Botanikus kertek."],
       ro: ["Aproape de capitală.", "Climat răcoros.", "Sursă importantă de apă.", "Grădini botanice."],
-      en: ["Close to the capital.", "Cool climate.", "Important water source.", "Botanical gardens."]
+      en: ["Part of the Akwapim-Togo mountain range", "Includes the town of Akropong", "Popular for its scenic viewpoints and waterfalls"]
     }, image: "/poi-images/akuapem-ridge-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Akuapem Ridge ist der südlichste und bekannteste Teil der Akwapim-Togo-Kette, der sich direkt nördlich der Hauptstadt Accra steil erhebt. Diese steinerne Barriere steigt abrupt aus der flachen Küstensavanne auf und erreicht schnell Höhen von über 400 Metern, was zu einer steilen, kurvigen Auffahrt führt. An klaren Tagen bietet der Rücken einen unvergleichlichen Panoramablick bis auf den glitzernden Golf von Guinea und die wuchernde Metropole unter ihm. Geografie K7 — Gebirgsrücken.",
@@ -266,7 +266,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Südlichster Teil der Akwapim-Togo-Kette", "Erhebt sich steil direkt nördlich von Accra", "Steigt abrupt aus der Küstensavanne auf", "Erreicht Höhen von über 400 Metern", "Führt zu einer kurvigen, steilen Bergstraße", "Bietet Panoramablick auf den Golf von Guinea"],
       hu: ["Az Akwapim-Togo gyűrthegység legdélibb, Accrához legközelebbi szakasza", "Tengerszint feletti magassága 350-450 méter (kb. 1200-1500 láb)", "Jelentősen hűvösebb (akár 3-5 fokkal) és csapadékosabb, mint a tőle 30 km-re fekvő főváros", "Olyan történelmi hegyi városok sora (Aburi, Akropong, Mampong) található a gerincen", "Ghána legelső kísérleti kakaóültetvényét itt, Mampongban telepítette Tetteh Quarshie (1879)", "A gerinc nyugati lejtője (Accra felé) meredekebb, a keleti oldala fokozatosabban ereszkedik"],
-      ro: ["Aproape de capitală.", "Climat răcoros.", "Sursă importantă de apă.", "Grădini botanice.", "Un lanț muntos la nord-est de Accra.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un lanț muntos la nord-est de Accra.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["The steep, southernmost anchor of the massive Akwapim-Togo mountain range.", "Rises abruptly from the flat coastal plains to an average elevation of 400 meters.", "Geographically contains the northward urban sprawl of the Greater Accra Region.", "The high elevation generates a highly sought-after, remarkably cooler microclimate.", "The steep, heavily deforested eastern slopes are highly vulnerable to severe landslides.", "Historically served as the primary healthy retreat for European colonial missionaries."]
     }
   },
@@ -276,11 +276,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-WR",
     coords: [-2.5, 5.5],
     name: { de: "Tano-Becken", hu: "Tano-medence", ro: "Bazinul Tano", en: "Tano Basin" },
-    description: { de: "Ein feuchtes Becken im Südwesten Ghanas.", hu: "Nedves medence Ghána délnyugati részén.", ro: "Un bazin umed în sud-vestul Ghanei.", en: "A humid basin in southwestern Ghana." },
+    description: { de: "Das Einzugsgebiet des Tano-Flusses im Südwesten, eine Region mit dichten Regenwäldern und fruchtbaren Böden.", hu: "A Tano folyó vízgyűjtő területe Ghána délnyugati részén, gazdag természeti kincsekkel.", ro: "O zonă depresionară fertilă formată de cursul râului Tano, esențială pentru agricultura din sud-vest.", en: "A humid basin in southwestern Ghana." },
     facts: {
-      de: ["Hohe Niederschlagsmengen.", "Dichter Regenwald.", "Wichtige Kakaoanbaugebiete.", "Reiche Flora."],
-      hu: ["Nagy csapadékmennyiség.", "Sűrű esőerdő.", "Fontos kakaótermesztő vidékek.", "Gazdag flóra."],
-      ro: ["Cantități mari de precipitații.", "Pădure tropicală densă.", "Zone importante de cultivare a cacao.", "Floră bogată."],
+      de: ["Wichtiger Wasserweg.", "Reich an Bodenschätzen.", "Bedeutendes landwirtschaftliches Gebiet."],
+      hu: ["Mély völgyek és dús erdők jellemzik.", "Jelentős bauxit- és aranylelőhelyek.", "Trópusi esőerdei éghajlat uralkodik itt."],
+      ro: ["Soluri aluvionare bogate", "Zonă cu precipitații ridicate", "Include zone de mlaștină protejate"],
       en: ["High precipitation.", "Dense rainforest.", "Important cocoa growing areas.", "Rich flora."]
     }, image: "/poi-images/tano-basin-relief-v2.webp",
     descriptionAdvanced: {
@@ -292,7 +292,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Sanfte, feuchte Senke im Südwesten", "Fast vollständig von Primärregenwald eingenommen", "Durchzogen von winzigen Flussarmen", "Wirkt wie ein riesiger biologischer Schwamm", "Nimmt sintflutartige Regenfälle auf", "Schützt Region vor zerstörerischen Sturzfluten"],
       hu: ["Egy kiterjedt kréta-kori üledékes medence (Cretaceous sedimentary basin)", "A medence jelentős része az óceán (Guineai-öböl) felszíne alatt, tengeri területen (offshore) fekszik", "Itt található Ghána összes jelentős kőolaj- és földgázmezője (pl. Jubilee, TEN mezők)", "A szárazföldi részét (onshore) nehezen járható mocsarak, lagúnák és az Ankasa Esőerdő borítja", "Geológiailag kapcsolatban áll a szomszédos Elefántcsontpart hasonló kőolaj-medencéivel", "Az 1890-es évek óta próbálkoznak itt (kezdetben szárazföldi fúrásokkal) olajkitermeléssel"],
-      ro: ["Cantități mari de precipitații.", "Pădure tropicală densă.", "Zone importante de cultivare a cacao.", "Floră bogată.", "Un bazin umed în sud-vestul Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un bazin umed în sud-vestul Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A massive, deeply forested topographical depression in the western regions of Ghana.", "Functions as the primary hydrological catchment area for the powerful Tano River.", "Characterized by deeply weathered, rolling hills and extremely heavy annual rainfall.", "The intense rainfall results in deeply leached, iron-rich lateritic soils.", "Geographically serves as the absolute epicenter for the national rubber and timber industries.", "Aggressive logging on the slopes has dramatically accelerated severe soil erosion."]
     }
   },
@@ -302,10 +302,10 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-BE",
     coords: [-1.7, 8.0],
     name: { de: "Kintampo-Plateau", hu: "Kintampo-fennsík", ro: "Podișul Kintampo", en: "Kintampo Plateau" },
-    description: { de: "Eine Übergangszone zwischen Wald und Savanne.", hu: "Átmeneti zóna erdő és szavanna között.", ro: "Zonă de tranziție între pădure și savană.", en: "A transition zone between forest and savanna." },
+    description: { de: "Eine hochgelegene Hochebene im Zentrum Ghanas, die den Übergang vom Waldland zur Savanne markiert.", hu: "Ghána központi részén található fennsík, amely vízválasztóként is szolgál.", ro: "Zonă de tranziție între pădure și savană.", en: "A transition zone between forest and savanna." },
     facts: {
-      de: ["Bekannt für seine Wasserfälle.", "Geologisch stabil.", "Biodiversität.", "Landschaftliche Schönheit."],
-      hu: ["Vízeséseiről ismert.", "Geológiailag stabil.", "Biodiverzitás.", "Tájképi szépség."],
+      de: ["Geografisches Zentrum des Landes.", "Bekannt für seine Wasserfälle.", "Prägend für das regionale Relief."],
+      hu: ["Homokkő formációk építik fel.", "Itt találhatók a híres Kintampo-vízesések.", "Szavanna és erdőfoltok váltják egymást."],
       ro: ["Cunoscut pentru cascadele sale.", "Geologic stabil.", "Biodiversitate.", "Frumusețe peisagistică."],
       en: ["Known for its waterfalls.", "Geologically stable.", "Biodiversity.", "Scenic beauty."]
     }, image: "/poi-images/kintampo-plateau-relief-v2.webp",
@@ -318,7 +318,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Markante, leicht geneigte Hochebene", "Übergangszone zwischen Wald und Savanne", "Ränder sind von schroffen Klippen gezeichnet", "Spektakuläre Wasserfälle an den Flanken", "Flache Oberfläche für extensive Landwirtschaft", "Steile Klippen beschleunigen Erosion"],
       hu: ["A Volta-medence homokkő formációinak délnyugati nyúlványa", "Átlagos tengerszint feletti magassága 400 és 500 méter között mozog", "Északi pereme drámai, meredek letöréssel (escarpment) végződik", "Itt található a népszerű Kintampo és Fuller vízesés", "Történelmileg az ország egyik legfontosabb (eszak-dél irányú) tranzit zónája", "Geológiája kedvezett a korai (kőrézkori) emberi megtelepedésnek és földművelésnek"],
-      ro: ["Cunoscut pentru cascadele sale.", "Geologic stabil.", "Biodiversitate.", "Frumusețe peisagistică.", "Zonă de tranziție între pădure și savană.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Zonă de tranziție între pădure și savană.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A massive, elevated geological block located primarily in the Bono East Region.", "Averages roughly 300 meters in elevation, formed from ancient bedded sandstones.", "Functions as a massive transitional step down into the flat, low-lying Volta Basin.", "The sharp, sheer drop-offs of the plateau form massive, dramatic regional waterfalls.", "Supports a highly distinct ecological transition zone blending forest and savanna.", "Geographically critical as a site of extensive prehistoric human agricultural settlement."]
     }
   },
@@ -344,7 +344,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Breite, U-förmige Senke im Norden Ghanas", "Entstanden durch Fluss-Überschwemmungen", "Bedeckt mit fruchtbarem Alluvialboden (Schwemmland)", "Wasser tritt in der Regenzeit schnell über Ufer", "Verwandelt sich in temporären See", "Perfektes Beispiel für Flusstäler"],
       hu: ["Egy rendkívül kiterjedt, alacsony fekvésű árterület (floodplain)", "Talaja zömében finom, iszapos folyami hordalék (alluvium)", "Gyakoriak az extrém áradások, különösen a Burkina Fasó-i (Bagre) gátak megnyitásakor", "Ghána legfontosabb szárazföldi (inland) rizstermelő vidékeinek egyike", "Az esős évszakban a völgy szinte egyetlen egybefüggő mocsarassá válik", "Jelentős madárvonulási állomás a sekély, visszamaradt vizek miatt"],
-      ro: ["Sursă de viață importantă în nord.", "Utilizat intensiv pentru agricultură.", "Zone inundabile.", "Debit sezonier.", "O vale fertilă de-a lungul râului Volta Albă.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O vale fertilă de-a lungul râului Volta Albă.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["An immense, broad topographical trench dominating the northern savanna landscape.", "Characterized by incredibly flat, extensive, and slow-draining riverine floodplains.", "The river frequently overtops its shallow banks during the intense, brief wet season.", "The seasonal flooding deposits massive layers of highly fertile, nutrient-rich alluvial silt.", "Considered the absolute premier geographical zone for massive commercial rice cultivation.", "The flat topography is highly conducive to large-scale, mechanized tractor farming."]
     }
   },
@@ -354,10 +354,10 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.35, 6.5],
     name: { de: "Fanteakwa-Steilhang", hu: "Fanteakwa-lejtő", ro: "Versantul Fanteakwa", en: "Fanteakwa Escarpment" },
-    description: { de: "Eine natürliche Geländekante in der Eastern Region.", hu: "Természetes tereplépcső a Keleti régióban.", ro: "O treaptă de relief naturală în regiunea Eastern.", en: "A natural escarpment in the Eastern Region." },
+    description: { de: "Eine natürliche Geländekante in der Eastern Region.", hu: "Az Akwapim-Togo hegység része, egy meredek peremvidék Ghána keleti felén.", ro: "O treaptă de relief naturală în regiunea Eastern.", en: "A natural escarpment in the Eastern Region." },
     facts: {
       de: ["Herausforderndes Gelände.", "Wandermöglichkeiten.", "Aussichtspunkte.", "Starke Vegetation."],
-      hu: ["Kihívást jelentő terep.", "Túrázási lehetőségek.", "Kilátópontok.", "Sűrű növényzet."],
+      hu: ["Magas sziklafalak és mély szurdokok.", "Sűrű növényzet és ritka madárfajok.", "Fontos ökoturisztikai célpont."],
       ro: ["Teren provocator.", "Oportunități de drumeții.", "Puncte de observație.", "Vegetație densă."],
       en: ["Challenging terrain.", "Hiking opportunities.", "Viewpoints.", "Strong vegetation."]
     }, image: "/poi-images/fanteakwa-escarpment-relief-v2.webp",
@@ -370,7 +370,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Dramatische geologische Klippe in der Eastern Region", "Land fällt hunderte Meter steil ab", "Hänge durch dichte Baumwurzeln gesichert", "Wurzeln verhindern Erdrutsche im Monsun", "Schwer zugängliche Naturfestung", "Historischer Schutzort für Dorfbewohner"],
       hu: ["A Keleti Régió (Eastern Region) Fanteakwa körzetében található", "Szorosan kapcsolódik az Oti-plató déli pereméhez", "Meredek lejtői miatt a terület nehezen mezőgazdaságosítható, így erdős maradt", "Számos kisebb, de bővizű patak és rejtett vízesés forrása", "Fontos szerepet játszott az akyem törzsek történelmi védekezésében", "A mikroklíma hűvösebb, és gyakran ködös a kora reggeli órákban"],
-      ro: ["Teren provocator.", "Oportunități de drumeții.", "Puncte de observație.", "Vegetație densă.", "O treaptă de relief naturală în regiunea Eastern.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O treaptă de relief naturală în regiunea Eastern.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A sheer, dramatic geological fault line located in the Eastern Region of Ghana.", "Forms the abrupt, steeply dropping eastern boundary of the massive Kwahu Plateau.", "Drops precipitously down to meet the expansive, flat Afram Plains below.", "The steep topography forces air upward, generating highly localized orographic rainfall.", "Features numerous rapid, cascading streams cutting directly down the rock face.", "The treacherous, steep terrain acts as a natural barrier to massive infrastructure development."]
     }
   },
@@ -380,12 +380,12 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.2, 5.9],
     name: { de: "Akwapim-Ebene", hu: "Akwapim-alföld", ro: "Câmpia Akwapim", en: "Akwapim Plains" },
-    description: { de: "Flaches bis leicht hügeliges Land unterhalb des Kamms.", hu: "Sík, enyhén dombos terület a gerinc alatt.", ro: "Teren plat până la ușor deluros sub creastă.", en: "Flat to slightly hilly land below the ridge." },
+    description: { de: "Die weiten Ebenen am Fuße des Akwapim-Gebirges, die eine wichtige landwirtschaftliche Zone darstellen.", hu: "Az Akwapim-hegység lábánál elterülő termékeny síkság Dél-Ghánában.", ro: "Teren plat până la ușor deluros sub creastă.", en: "A vast lowland area stretching south from the Akuapem hills towards the coast." },
     facts: {
-      de: ["Günstiges Klima für Landwirtschaft.", "Dichte Besiedlung.", "Viele kleine Bauernhöfe.", "Lehmige Böden."],
-      hu: ["Kedvező éghajlat a mezőgazdaságnak.", "Sűrű lakosság.", "Sok kis tanya.", "Agyagos talajok."],
+      de: ["Fruchtbare Sedimentböden.", "Nähe zur Hauptstadt Accra.", "Vielseitige landwirtschaftliche Nutzung."],
+      hu: ["Enyhén hullámos domborzat.", "Sűrűn lakott terület Accra közelében.", "Zöldségek és gyümölcsök termesztésének helyszíne."],
       ro: ["Climat favorabil pentru agricultură.", "Populație densă.", "Multe ferme mici.", "Soluri argiloase."],
-      en: ["Favorable climate for agriculture.", "Dense population.", "Many small farms.", "Clayey soils."]
+      en: ["Characterized by fertile soils", "Primary area for agriculture and cocoa", "Transitions into the coastal savanna"]
     }, image: "/poi-images/akwapim-plains-relief-v2.webp",
     descriptionAdvanced: {
       de: "Eingeklemmt zwischen den Akwapim-Bergen und dem breiten Volta-Fluss bilden die Akwapim-Ebenen (Plains) eine völlig flache, grasbewachsene Senke. Die Topografie ist hier so eben, dass sich das Regenwasser in der Nasszeit nicht abfließen kann und riesige temporäre Sümpfe bildet. In der Trockenzeit backt der tonige Boden (Black Cotton Soil) extrem hart zusammen, was die Ebenen schwer bebaubar macht, aber ideal für großflächige Viehzucht ist. Geografie K6 — Tonebenen.",
@@ -396,7 +396,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Völlig flache, grasbewachsene Senke", "Liegt zwischen Bergen und dem Volta-Fluss", "Bildet in Regenzeit riesige temporäre Sümpfe", "Boden (Black Cotton Soil) backt in Trockenzeit hart", "Schwer bebaubar für Ackerbau", "Ideal für großflächige Viehzucht"],
       hu: ["Az Akwapim-hegység keleti, Volta folyó felőli oldalán fekszik", "Klasszikus esőárnyékos (rain shadow) terület, kevesebb csapadékkal", "Uralkodó növényzete a parti és guineai bozótos szavanna (thicket)", "Az őslakosok (krobók, dangmék) főként önellátó mezőgazdaságból élnek itt", "Felszínéből néhol elszigetelt, kisebb szikladombok (inselbergs) állnak ki", "Nagy része beépítetlen, de az urbanizáció (Accra terjeszkedése) fenyegeti"],
-      ro: ["Climat favorabil pentru agricultură.", "Populație densă.", "Multe ferme mici.", "Soluri argiloase.", "Teren plat până la ușor deluros sub creastă.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Teren plat până la ușor deluros sub creastă.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A remarkably flat, low-lying topographical region extending toward the Greater Accra coast.", "Geographically wedged directly between the steep Akuapem Ridge and the Atlantic Ocean.", "Characterized by a highly distinct, severe rain shadow effect causing extreme aridity.", "The soils are predominantly heavy, cracking clays (vertisols) that are difficult to farm.", "The stark, open savanna landscape is highly suitable for extensive commercial cattle grazing.", "Suffers from chronic, severe dry-season water scarcity despite its proximity to the coast."]
     }
   },
@@ -422,7 +422,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Steile, stark bewaldete Hügel in der Western Region", "Bergen einige der reinsten Mangan-Erze der Welt", "Geologisch von massiver Bedeutung", "Industrieller Abbau zwingt zu Terrasseneinschnitten", "Ursprüngliche Form komplett verändert", "Umwelt massiv durch Topografie-Eingriffe geprägt"],
       hu: ["A Tarkwaian és Birimian ősi kőzetrendszerek találkozásánál fekszik", "A dombok egyedülálló, világklasszis mangán-oxid és -karbonát érceket rejtenek", "Az eredeti domborzat egy része mára teljesen eltűnt a bányászat (GMC) miatt", "A hátramaradt bányagödrök gyakran mély, mesterséges tavakká (pit lakes) válnak", "Környezetét eredetileg sűrű nedves trópusi erdő borította", "A talaj színe a magas fém- és vasoxid-tartalom miatt sötétvörös vagy fekete"],
-      ro: ["Locație minieră importantă.", "Particularitate geologică.", "Păduri în împrejurimi.", "Relief deluros.", "Un grup de dealuri cunoscute pentru zăcămintele de mangan.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un grup de dealuri cunoscute pentru zăcămintele de mangan.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A series of undulating, heavily mineralized ridges located near Tarkwa in the Western Region.", "Forms a highly significant part of the ancient, gold-rich Tarkwaian geological rock system.", "Contains massive, globally significant deposits of high-grade manganese carbonate ore.", "The natural topography has been totally, irreversibly altered by a century of open-pit mining.", "Natural peaks have been systematically replaced by colossal, terraced mining craters.", "Serves as a premier geographical example of extreme industrial landscape modification."]
     }
   },
@@ -432,10 +432,10 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-UE",
     coords: [-0.85, 10.8],
     name: { de: "Bongo-Hügel", hu: "Bongo-dombok", ro: "Dealurile Bongo", en: "Bongo Hills" },
-    description: { de: "Markante Granit-Hügel im extremen Norden.", hu: "Figyelemre méltó gránitdombok az extrém északon.", ro: "Dealuri de granit marcante în extremul nord.", en: "Prominent granite hills in the extreme north." },
+    description: { de: "Markante Granit-Hügel im extremen Norden.", hu: "Ghána északi részén található gránitsziklás dombvidék, különleges alakzatokkal.", ro: "Dealuri de granit marcante în extremul nord.", en: "Prominent granite hills in the extreme north." },
     facts: {
       de: ["Einzigartige Felsformationen.", "Savannenlandschaft.", "Kulturreiches Gebiet.", "Trockenzeit-geprägt."],
-      hu: ["Egyedi sziklaalakzatok.", "Szavannatáj.", "Kulturálisan gazdag terület.", "Szárazsággal jellemezhető."],
+      hu: ["Hatalmas, gömbölyded sziklák jellemzik.", "A helyi kultúra szent helye.", "Látványos tájképi elem a szavannán."],
       ro: ["Formațiuni stâncoase unice.", "Peisaj de savană.", "Zonă bogată cultural.", "Caracterizat prin sezon uscat."],
       en: ["Unique rock formations.", "Savanna landscape.", "Culturally rich area.", "Characterized by dry season."]
     }, image: "/poi-images/bongo-hills-relief-v2.webp",
@@ -448,7 +448,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Bizarrstes Granit-Relief (Wollsackverwitterung) in Ghana", "Riesige, glattgeschliffene Felsen (Upper East Region)", "Wirken wie von Riesen gestapelt", "Speichern wertvolles Regenwasser in Rissen", "Sichern Überleben in trockener Savanne", "Spektakuläre Klettermöglichkeiten"],
       hu: ["Kiterjedt, több millió éves gránit-intruziókból (batholiths) álló sziklavilág", "A sziklák az erózió és a hőingadozás miatti hámlás (exfoliation) révén lettek gömbölyűek", "A Bongo körzet névadója, Bolgatangától északra fekszik", "A sziklák közötti hasadékokat a múltban menedékként (pl. rabszolgavadászok elől) használták", "A talaj nagyon sekély és sziklás, ami nehezíti a mezőgazdaságot", "Itt találhatók a híres 'zengő sziklák', amelyeket megütve fémes, harangszerű hangot adnak"],
-      ro: ["Formațiuni stâncoase unice.", "Peisaj de savană.", "Zonă bogată cultural.", "Caracterizat prin sezon uscat.", "Dealuri de granit marcante în extremul nord.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Dealuri de granit marcante în extremul nord.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["Located in the Bongo district near Bolgatanga in the Upper East Region.", "Defined by massive, visually dramatic, isolated granite boulder formations (inselbergs).", "The rocks rise abruptly from the surrounding extremely flat, semi-arid Sahelian plains.", "Historically utilized as impenetrable natural fortresses by indigenous communities against raiders.", "The massive granite blocks absorb and intensely radiate heat, raising local temperatures.", "The unique geological formations attract significant regional tourism and academic study."]
     }
   },
@@ -474,7 +474,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Riesige, sanft gewellte Hochebene", "Erstreckt sich über größte Teile der Northern Region", "Bedeckt von dicker Lateritkruste (Eisenstein)", "Extrem monotone Landschaft ohne große Berge", "Verhindert tiefes Einschneiden von Flüssen", "Begünstigt Anbau von Yams"],
       hu: ["A Volta-medence központi-keleti, lapos homokkő-fennsíkjának része", "Átlagos magassága 150-250 méter a tengerszint felett", "A talajra a vasoxidban gazdag, keményedő (hardpan) laterit réteg jellemző", "A dagomba nép (Dagbon) évezredes otthona, központja Yendi", "Csapadékellátása egyenetlen (évi 900-1000 mm), ami megnehezíti a földművelést", "Két nagy folyó, a Fehér-Volta és az Oti határolja nyugatról és keletről"],
-      ro: ["Centrul culturii Dagomba.", "Agricultură tradițională.", "Savană deschisă.", "Condiții fierbinți.", "O câmpie vastă cu dealuri domoale în nord.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O câmpie vastă cu dealuri domoale în nord.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A massive, broadly uniform upland region dominating the eastern half of the Northern Region.", "Composed primarily of highly ancient, horizontally bedded Voltaian sandstone layers.", "Characterized by a gently undulating, flat-topped topography lacking sheer drop-offs.", "The flat terrain historically provided a massive tactical advantage for Dagbon cavalry armies.", "Soils are typically thin and highly prone to severe iron-hardening during the dry season.", "The geography heavily dictates an extensive, rather than intensive, agricultural farming model."]
     }
   },
@@ -484,11 +484,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-EP",
     coords: [0.6, 7.2],
     name: { de: "Akposso-Hügel", hu: "Akposso-dombok", ro: "Dealurile Akposso", en: "Akposso Hills" },
-    description: { de: "Hügelkette an der Grenze zu Togo.", hu: "Hegyvonulat a Togo-i határnál.", ro: "Lanț de dealuri la granița cu Togo.", en: "Chain of hills at the border to Togo." },
+    description: { de: "Ein Teil des Akwapim-Togo-Gebirgszugs an der Grenze zu Togo, geprägt von steilen Hängen und tiefen Tälern.", hu: "A Volta régióban, a Togo-határ mentén fekvő hegyvidék, gazdag biodiverzitással.", ro: "Dealuri impunătoare situate la granița cu Togo, făcând parte din lanțul muntos mai larg Akwapim-Togo.", en: "Chain of hills at the border to Togo." },
     facts: {
-      de: ["Grüne Landschaft.", "Kaffeeproduktion.", "Steile Hänge.", "Wandern möglich."],
-      hu: ["Zöld táj.", "Kávétermelés.", "Meredek lejtők.", "Túrázás lehetséges."],
-      ro: ["Peisaj verde.", "Producție de cafea.", "Versanți abrupți.", "Posibilități de drumeție."],
+      de: ["Hohe Biodiversität.", "Zentrum für den Kaffeeanbau.", "Herausforderndes Gelände."],
+      hu: ["Ghána legmagasabb pontjai közé tartozik.", "Hűvösebb klímája alkalmas a kávétermesztésre.", "Dús vízesések és patakok tarkítják."],
+      ro: ["Acoperite cu păduri tropicale", "Climat montan mai răcoros", "Vârfuri ce depășesc 700 de metri"],
       en: ["Green landscape.", "Coffee production.", "Steep slopes.", "Hiking possible."]
     },
     descriptionAdvanced: {
@@ -500,7 +500,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Wildes, zerklüftetes Relief (Volta-Region)", "Besteht aus spitzen Kämmen und tiefen Schluchten", "Zwingt Wolken zum Aufsteigen für Niederschlag", "Ermöglicht dichte Tropenvegetation in Trockenzone", "Sehr schwer zugänglich und spärlich besiedelt", "Perfektes Habitat für seltene Bergvögel"],
       hu: ["Az Akwapim-Togo gyűrthegység középső-északi részét alkotja", "Togóval is határos (ahol a hegység neve Plateaux Region)", "A Mount Gemi (kb. 611 m) az egyik legmagasabb és legismertebb csúcsa (Amedzofe falu közelében)", "Növényzete magaslati örökzöld erdő és szavanna keveréke", "A hegyvidék a német gyarmati idők (Togoland) kiemelt missziós központja volt", "Meredek sziklás lejtői kiváló indítópontot biztosítanak a siklóernyősöknek"],
-      ro: ["Peisaj verde.", "Producție de cafea.", "Versanți abrupți.", "Posibilități de drumeție.", "Lanț de dealuri la granița cu Togo.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Lanț de dealuri la granița cu Togo.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A highly rugged, steep segment of the broader Togo Mountains located in the Oti Region.", "Characterized geographically by deeply incised, sharp V-shaped river valleys.", "The extreme topographical gradient makes the entire zone incredibly difficult to traverse.", "Receives heavy orographic rainfall, creating a highly fertile, isolated agricultural pocket.", "The steep terrain has historically physically isolated local communities from national infrastructure.", "The unique microclimate supports the specialized cultivation of hill-rice and robusta coffee."]
     }
   },
@@ -526,7 +526,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Steile Felskante in der Oti-Region", "Markiert eine abrupte geologische Verwerfung", "Macht Straßenbau extrem schwer", "Bietet Ausblicke über das östliche Volta-Becken", "Harte Gesteinsschichten trotzen der Erosion", "Bleibt trotz Monsunregenfällen scharfkantig"],
       hu: ["A 'Buem strukturális egység' geológiailag ősi vulkanikus és üledékes kőzetekből (pl. jáspis) áll", "Meredek letörés (escarpment) jellemzi a Volta-medence irányába", "Tengerszint feletti magassága jellemzően 400 és 600 méter között van", "A hegyvidék buja, termékeny talaján kiváló minőségű kakaót termesztenek", "Elszigeteltsége miatt a turizmus számára szinte teljesen felfedezetlen (off-the-beaten-path)", "Korábban jelentős, de felhagyott vasérc-kutatások (iron ore) zajlottak a hegyekben"],
-      ro: ["Formațiune geologică importantă.", "Vegetație densă.", "Obiectiv peisagistic.", "Teren provocator.", "O treaptă de relief marcată în regiunea Oti.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O treaptă de relief marcată în regiunea Oti.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A spectacular, highly pronounced geological fault line located near Jasikan in the Oti Region.", "Marks the violent tectonic boundary between the flat Volta basin and the folded Togo mountains.", "Features sheer, dramatic cliff faces that drop hundreds of meters in elevation.", "Functions as a massive, formidable topographical barrier to east-west road transportation.", "Forces major infrastructure and traffic through a few highly treacherous, narrow mountain passes.", "The sheer rock faces provide ideal, inaccessible habitats for massive colonies of raptors."]
     }
   },
@@ -536,10 +536,10 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-AA",
     coords: [0.05, 5.9],
     name: { de: "Shai-Hügel", hu: "Shai-dombok", ro: "Dealurile Shai", en: "Shai Hills" },
-    description: { de: "Ein kleiner Bergpark nahe der Hauptstadt.", hu: "Kis hegyipark a főváros közelében.", ro: "Un mic parc montan aproape de capitală.", en: "A small mountain park near the capital." },
+    description: { de: "Ein kleiner Bergpark nahe der Hauptstadt.", hu: "Accra síkságából kiemelkedő szigethegyek, amelyek ma természetvédelmi területet alkotnak.", ro: "Un mic parc montan aproape de capitală.", en: "A small mountain park near the capital." },
     facts: {
       de: ["Beliebtes Ausflugsziel.", "Felsige Formationen.", "Wildlife Reserve.", "Kurze Wanderungen."],
-      hu: ["Népszerű kirándulóhely.", "Sziklás formációk.", "Vadvédelmi terület.", "Rövid túrák."],
+      hu: ["Ősi barlangok és sziklás csúcsok.", "Antilopok és páviánok élőhelye.", "A shai nép egykori lakóhelye."],
       ro: ["Destinație populară pentru excursii.", "Formațiuni stâncoase.", "Rezervație naturală.", "Drumeții scurte."],
       en: ["Popular excursion spot.", "Rocky formations.", "Wildlife reserve.", "Short hikes."]
     }, image: "/poi-images/shai-hills-relief-v2.webp",
@@ -552,7 +552,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Schulbuchbeispiel für das Phänomen der Inselberge", "Steile Granitkuppen in der Küstenebene", "Ragen ohne Vorwarnung auf (Greater Accra)", "Wirken wie gestrandete Meteoriten", "Durchzogen von riesigen Höhlensystemen", "Historisches Versteck für alte Zivilisationen"],
       hu: ["Ősi prekambriumi gneisz és gránit kőzetekből álló szigethegyek (inselbergs)", "A legmagasabb pontjuk nagyjából 290 méterrel emelkedik a tengerszint (és a síkság) fölé", "A köveket évmilliók alatt az erózió és a fizikai mállás kerekítette le (exfoliation)", "Az Obonu-barlangok és a Saya-sziklák a legismertebb formációik", "A környékbeli építkezésekhez számos helyen (a rezervátumon kívül) robbantással kőbányászatot folytatnak", "A sziklák erős hővisszaverő képessége saját, forró mikroklímát hoz létre a hegyoldalakon"],
-      ro: ["Destinație populară pentru excursii.", "Formațiuni stâncoase.", "Rezervație naturală.", "Drumeții scurte.", "Un mic parc montan aproape de capitală.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Un mic parc montan aproape de capitală.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A distinct, dramatic cluster of massive rocky outcrops rising from the flat Accra Plains.", "Geologically composed of highly resistant, ancient Precambrian granite and gneiss rock.", "Formed through millions of years of severe differential erosion of the surrounding plains.", "Features steep, boulder-strewn slopes riddled with deep, highly defensible natural caves.", "Historically utilized as an impenetrable natural fortress by the indigenous Shai communities.", "The sheer, rugged topography makes it a premier national destination for technical rock climbing."]
     }
   },
@@ -562,11 +562,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-WR",
     coords: [-2.1, 5.3],
     name: { de: "Kweku-Hügel", hu: "Kweku-dombok", ro: "Dealurile Kweku", en: "Kweku Hills" },
-    description: { de: "Hügellandschaft im Westen Ghanas.", hu: "Dombvidék Ghána nyugati részén.", ro: "Regiune deluroasă în vestul Ghanei.", en: "Hilly region in western Ghana." },
+    description: { de: "Hügellandschaft im Westen Ghanas.", hu: "Dombvidék Ghána nyugati részén.", ro: "Un grup de dealuri proeminente care domină peisajul local, oferind perspective asupra platoului înconjurător.", en: "Hilly region in western Ghana." },
     facts: {
       de: ["Regenwald geprägt.", "Geringe Erhebung.", "Kakaoplantagen.", "Feuchtes Klima."],
       hu: ["Esőerdő uralja.", "Alacsony magasság.", "Kakaóültetvények.", "Nedves éghajlat."],
-      ro: ["Dominat de pădure tropicală.", "Altitudine redusă.", "Plantații de cacao.", "Climat umed."],
+      ro: ["Formațiuni geologice vechi", "Vegetație mixtă de savană", "Sursă pentru cursuri mici de apă"],
       en: ["Dominated by rainforest.", "Low elevation.", "Cocoa plantations.", "Humid climate."]
     }, image: "/poi-images/kweku-hills-relief-v2.webp",
     descriptionAdvanced: {
@@ -578,7 +578,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Sanfte, wellige Erhebungslinie im westlichen Hinterland", "Stark erodiert und abgerundet", "Bedeckt von extrem tiefer, nährstoffreicher Erde", "Verhindert die Gefahr massiver Erdrutsche", "Ermöglicht riesige, sichere Kakaoplantagen", "Sanfte Topografie im Gegensatz zu Ost-Klippen"],
       hu: ["A Kwahu-fennsík és az Akwapim-Togo láncolat találkozási zónájához közel fekvő dombság", "Meredek, szakadékos (ravines) terep, amelyet sűrű másodlagos erdő borít", "Különleges és elzárt földrajzi fekvése miatt infrastruktúrája (utak) nagyon hiányos", "Az esős évszakban a völgyekben gyakoriak a villámárvizek (flash floods)", "Fontos szerepet játszanak a mikroklimatikus csapadékképzésben (orografikus esők)", "Sziklái zömében prekambriumi gneisz és csillámpala kőzetekből állnak"],
-      ro: ["Dominat de pădure tropicală.", "Altitudine redusă.", "Plantații de cacao.", "Climat umed.", "Regiune deluroasă în vestul Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Regiune deluroasă în vestul Ghanei.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A highly dissected, chaotic upland zone located within the forested Eastern Region.", "Characterized by a tight maze of steep, rounded hills and deeply entrenched river valleys.", "The extreme, irregular topography completely prevents large-scale, mechanized agriculture.", "Requires highly labor-intensive, traditional slope-farming techniques for cash crops.", "The steep slopes are incredibly vulnerable to severe, devastating mudslides if deforested.", "Features numerous rapid, aggressive streams that rapidly erode the upland topsoil."]
     }
   },
@@ -588,12 +588,12 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-OT",
     coords: [0.2, 8.5],
     name: { de: "Oti-Ebene", hu: "Oti-alföld", ro: "Câmpia Oti", en: "Oti Plain" },
-    description: { de: "Ein weites Flachland entlang des Oti-Flusses.", hu: "Széles alföld az Oti-folyó mentén.", ro: "O câmpie vastă de-a lungul râului Oti.", en: "A vast plain along the Oti River." },
+    description: { de: "Eine weitläufige Tiefebene im Osten Ghanas, die vom Oti-Fluss durchflossen wird und saisonale Überschwemmungen aufweist.", hu: "Az Oti folyó mentén elterülő mocsaras, alacsony síkság Ghána északkeleti részén.", ro: "O câmpie vastă și joasă inundată periodic de râul Oti, fiind o zonă crucială pentru agricultură și faună.", en: "An extensive flatland in the northeastern part of Ghana, drained by the Oti River." },
     facts: {
-      de: ["Fruchtbare Böden.", "Saisonal überflutet.", "Savanne.", "Landwirtschaftlich genutzt."],
-      hu: ["Termékeny talajok.", "Szezonálisan elöntött.", "Szavanna.", "Mezőgazdasági hasznosítású."],
-      ro: ["Soluri fertile.", "Inundat sezonier.", "Savană.", "Utilizat pentru agricultură."],
-      en: ["Fertile soils.", "Seasonally flooded.", "Savanna.", "Used for agriculture."]
+      de: ["Wichtiges Weideland.", "Teil des Wolta-Beckens.", "Fischreiches Flusssystem."],
+      hu: ["Az esős évszakban gyakran elárad.", "Kiváló legelőterület az állattenyésztőknek.", "Szavannai növényzet uralja."],
+      ro: ["Teren plat și deschis", "Risc ridicat de inundații sezoniere", "Vegetație de stepă și ierburi înalte"],
+      en: ["Vulnerable to seasonal flooding", "Important for rice and yam cultivation", "Features large stretches of grassland"]
     },
     descriptionAdvanced: {
       de: "Die Oti-Ebene (Oti Plain) erstreckt sich östlich des Volta-Sees als extrem flaches Becken. Das absolute Fehlen jeglichen Reliefs bedeutet, dass das Wasser des Oti-Flusses in der Regenzeit massiv über die Ufer tritt und die Ebene in ein flaches, schlammiges Feuchtgebiet verwandelt. Während der Trockenzeit trocknet die Ebene komplett aus, und die Hitze lässt tiefe Risse im harten Boden entstehen, was das Gebiet ideal für nomadische Viehhirten macht. Geografie K7 — Schwemmebenen.",
@@ -604,7 +604,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Extrem flaches Becken östlich des Volta-Sees", "Fehlen jeglichen Reliefs", "Wasser tritt in Regenzeit massiv über Ufer", "Verwandelt Ebene in schlammiges Feuchtgebiet", "Trocknet im Sommer komplett mit tiefen Rissen aus", "Ideal für nomadische Viehhirten"],
       hu: ["A Volta-medence keleti, legalacsonyabban fekvő részét képezi", "Az Oti folyó hordaléka (alluvium) alakította ki évmilliók alatt", "Átlagos magassága 100-150 méter között van", "A talaj gyakran agyagos (vertisol), ami az esős évszakban mocsarasodik, szárazságban pedig kőkeménnyé reped", "Ghána legjelentősebb yamgyökér-termő területeinek (pl. Kete-Krachi) ad otthont", "Élővilága tipikus guineai szavanna, mely az égetéses mezőgazdaság (slash and burn) miatt egyre ritkul"],
-      ro: ["Soluri fertile.", "Inundat sezonier.", "Savană.", "Utilizat pentru agricultură.", "O câmpie vastă de-a lungul râului Oti.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["O câmpie vastă de-a lungul râului Oti.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A massive, exceptionally flat and low-lying geographical expanse in the Oti Region.", "Flanks the powerful Oti River, acting as its primary, massive seasonal floodplain.", "Totally devoid of significant hills, ridges, or natural topographical drainage gradients.", "The extremely low elevation causes water to drain slowly, forming massive seasonal swamps.", "The flat terrain is highly ideal for massive, mechanized commercial rice and yam farming.", "Routinely subjects local, low-lying infrastructure to catastrophic, devastating seasonal floods."]
     }
   },
@@ -614,11 +614,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-ER",
     coords: [-0.75, 6.55],
     name: { de: "Nkawkaw-Steilhang", hu: "Nkawkaw-lejtő", ro: "Versantul Nkawkaw", en: "Nkawkaw Escarpment" },
-    description: { de: "Der Übergang vom Plateau ins Tiefland.", hu: "Az átmenet a fennsíkból az alföldre.", ro: "Tranziția de la podiș la câmpie.", en: "The transition from plateau to lowland." },
+    description: { de: "Eine beeindruckende Felswand im Kwahu-Hochland, die das Landschaftsbild der Eastern Region dominiert.", hu: "A Kwahu-fennsík meredek, látványos sziklafala a déli országrészben.", ro: "O faleză stâncoasă abruptă care marchează tranziția dintre câmpia de coastă și platoul Kwahu.", en: "The transition from plateau to lowland." },
     facts: {
-      de: ["Markante Steilstufe.", "Verkehrsknotenpunkt am Fuße.", "Bewaldet.", "Aussicht."],
-      hu: ["Kifejezett meredek lépcső.", "Forgalmi csomópont a lábánál.", "Erdősült.", "Kilátás."],
-      ro: ["Treaptă abruptă marcată.", "Nod rutier la bază.", "Împădurit.", "Priveliște."],
+      de: ["Markanter Steilhang.", "Beliebt bei Gleitschirmfliegern.", "Bietet weite Ausblicke über die Ebenen."],
+      hu: ["Híres a siklóernyős fesztiválokról.", "Több mint 600 méterrel emelkedik a síkság fölé.", "Függőleges sziklák és vízesések."],
+      ro: ["Oferă priveliști panoramice", "Loc popular pentru parapantă", "Structură geologică de gresie"],
       en: ["Pronounced steep step.", "Traffic hub at the base.", "Forested.", "View."]
     }, image: "/poi-images/nkawkaw-escarpment-relief-v2.webp",
     descriptionAdvanced: {
@@ -630,7 +630,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Gigantische Felswand in der Eastern Region", "Markiert Beginn des hohen Kwahu-Plateaus", "Bedrohlicher Überhang über der Stadt Nkawkaw", "Vertikale Hänge verursachen starke Aufwinde", "Zentrum der ghanaischen Thermik-Forschung", "Afrikanisches Zentrum des Paragliding-Sports"],
       hu: ["A Volta-medence homokkő formációjának déli, lepusztult, meredek pereme", "Magassága helyenként meghaladja a 600 métert a tengerszint, és 300 métert a környező síkság felett", "Nkawkaw városa közvetlenül a meredély (escarpment) lábánál, az árnyékában épült fel", "A sziklafal tetején (pl. az Odweanoma hegyen) található Ghána fő siklóernyős bázisa", "A meredek peremet egy vastag, ellenálló homokkő réteg (caprock) védi az eróziótól", "Gyakoriak a látványos vízesések, ahogy a fennsík vizei lezúdulnak a sziklafalon"],
-      ro: ["Treaptă abruptă marcată.", "Nod rutier la bază.", "Împădurit.", "Priveliște.", "Tranziția de la podiș la câmpie.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Tranziția de la podiș la câmpie.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A colossal, sheer rock wall forming the southern boundary of the massive Kwahu Plateau.", "Rises abruptly and near-vertically from the bustling transit town of Nkawkaw.", "Geologically exposes massive, thick bands of ancient Voltaian sandstone rock formations.", "Necessitates a highly treacherous, tightly winding mountain road to reach the summit.", "Forces moist southern winds sharply upward, generating heavy, localized orographic rainfall.", "The extreme gradient completely isolates the plateau communities from the plains below."]
     }
   },
@@ -640,11 +640,11 @@ export const poiExtraGhanaReliefV2: POI[] = [
     parent: "GH-UE",
     coords: [-0.95, 10.9],
     name: { de: "Gambia-Hügel", hu: "Gambia-dombok", ro: "Dealurile Gambia", en: "Gambia Hills" },
-    description: { de: "Kleine Felsformationen im Norden.", hu: "Kis sziklaképződmények északon.", ro: "Mici formațiuni stâncoase în nord.", en: "Small rock formations in the north." },
+    description: { de: "Eine Hügelkette im Norden Ghanas, die aus den umliegenden Ebenen aufragt und die regionale Topografie prägt.", hu: "Ghána északkeleti sarkában található dombvidék a Gambaga-perem közelében.", ro: "O formațiune de dealuri reziduale situate în inima Ghanei, modelate de milenii de eroziune naturală.", en: "Small rock formations in the north." },
     facts: {
-      de: ["Trockenes Gebiet.", "Savannenvegetation.", "Kulturelle Bedeutung.", "Felsig."],
-      hu: ["Száraz terület.", "Szavanna növényzet.", "Kulturális jelentőség.", "Sziklás."],
-      ro: ["Zonă uscată.", "Vegetație de savană.", "Semnificație culturală.", "Stâncos."],
+      de: ["Gelegen in der North East Region.", "Wichtig für die lokale Wasserversorgung.", "Markante Silhouetten am Horizont."],
+      hu: ["Vörös homokkő sziklák jellemzik.", "A mamprusi nép történelmi szálláshelye.", "Száraz, szavannai éghajlat jellemzi."],
+      ro: ["Dealuri de tip inselberg", "Peisaj caracteristic de savană", "Aparțin unității geologice Voltaiene"],
       en: ["Dry area.", "Savanna vegetation.", "Cultural significance.", "Rocky."]
     },
     descriptionAdvanced: {
@@ -656,7 +656,7 @@ export const poiExtraGhanaReliefV2: POI[] = [
     factsAdvanced: {
       de: ["Kleine, stark erodierte Hügelkette", "Besteht aus extrem hartem Quarzit und Sandstein", "Rauhe Oberfläche zeigt Jahrtausende der Verwitterung", "Sehr spärliche Bodenbedeckung", "Pflanzenwurzeln sprengen das Gestein", "Hervorragender Forschungsort für Geologen"],
       hu: ["Alacsony (250-300 m) kiemelkedések a Felső-Keleti Régió (Upper East) síkságán", "Geológiailag a nyugat-afrikai kraton ősi (prekambriumi) kőzeteinek (zöldkő övezetek) része", "A talajréteg rendkívül sekély és kavicsos, gyakori a vasrögök (iron pan) jelenléte", "A klíma száraz szudáni szavanna, évi mindössze 700-900 mm esővel", "A növényzet zömében szárazságtűrő fűfélékből és ritkás, alacsony cserjékből áll", "A dombok elsősorban a fulani nomád pásztorok szarvasmarha-csordái számára fontosak"],
-      ro: ["Zonă uscată.", "Vegetație de savană.", "Semnificație culturală.", "Stâncos.", "Mici formațiuni stâncoase în nord.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
+      ro: ["Mici formațiuni stâncoase în nord.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra."],
       en: ["A rugged, highly isolated series of wooded ridges located in the far northwestern Savannah Region.", "Features a complex, highly folded topography composed of ancient Birimian rock formations.", "Stands in stark, dramatic topographical contrast to the otherwise flat surrounding savanna.", "The deep, concealed valleys provide a critical, undisturbed sanctuary for rare regional wildlife.", "The extremely harsh, steep terrain makes large-scale commercial agriculture impossible.", "Remains one of the least explored and most structurally pristine regions in the country."]
     }
   }

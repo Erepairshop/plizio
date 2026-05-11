@@ -83,7 +83,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai mare lac alpin din America de Nord.", "Cunoscut pentru apa sa limpede.", "Situat la granița dintre California și Nevada.", "Destinație populară de vacanță pe tot parcursul anului.", "Un lac mare de apă dulce în Sierra Nevada.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un lac mare de apă dulce în Sierra Nevada.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The massive lake sits at a high surface elevation of exactly 6,225 feet.", "It reaches a staggering maximum depth of exactly 1,645 feet.", "It is officially the largest alpine lake located in North America.", "The incredibly pure lake holds approximately 39 trillion gallons of fresh water.", "The basin was formed approximately two million years ago by massive tectonic faulting.", "The surrounding area famously hosted the 1960 Winter Olympic Games at Squaw Valley."]
     },
       facts: {
@@ -113,7 +113,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Include cea mai mare pădure tropicală temperată din lume.", "Găzduiește multe animale sălbatice, inclusiv urși și vulturi.", "Resursă importantă pentru industria lemnului și turism.", "Include insule, fiorduri și ghețari.", "Cea mai mare pădure națională din Statele Unite.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Cea mai mare pădure națională din Statele Unite.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The Tongass is the absolute largest national forest in the US at 16.7 million acres.", "It protects the largest remaining contiguous temperate rainforest on Earth.", "The vast majority of the forest area is completely inaccessible by roads.", "President Theodore Roosevelt officially created the national forest in 1907.", "The incredibly pristine rivers support all five distinct species of Pacific salmon.", "It provides massive, crucial habitat for thousands of bald eagles and brown bears."]
     },
       facts: {
@@ -143,7 +143,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Se învecinează cu cinci state americane.", "Regiune importantă pentru extracția de petrol și gaze.", "Găzduiește ecosisteme marine diverse.", "Amenințat de uragane.", "Un bazin oceanic mare înconjurat de America de Nord.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un bazin oceanic mare înconjurat de America de Nord.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Covers a massive area of approximately 615,000 square miles.", "The Sigsbee Deep is the lowest point at 14,383 feet.", "Drives the powerful Gulf Stream, influencing global climate.", "Yields over 15 percent of total U.S. crude oil production.", "A critical habitat for the endangered Kemp's ridley sea turtle.", "Supports a massive multi-billion-dollar commercial seafood industry."]
     },
       facts: {
@@ -173,7 +173,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Găzduiește cea mai mare parte a Parcului Național Acadia.", "Cunoscută pentru coasta sa stâncoasă.", "Cel mai înalt punct este Muntele Cadillac.", "Destinație populară de vară.", "Cea mai mare insulă de pe coasta statului Maine și gazda Parcului Național Acadia.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Cea mai mare insulă de pe coasta statului Maine și gazda Parcului Național Acadia.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Covers 108 square miles, making it New England's largest island.", "Cadillac Mountain stands at an elevation of 1,530 feet.", "Deeply carved by massive continental ice sheets 18,000 years ago.", "Somes Sound is a striking, massive fjord-like feature.", "French explorer Samuel de Champlain named the island in 1604.", "Acadia National Park encompasses the vast majority of the landmass."]
     },
       facts: {
@@ -203,7 +203,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Curge prin Marele Canion.", "Sursă importantă de apă pentru mai multe state.", "Puternic regularizat de baraje precum Barajul Hoover.", "Supus penuriei de apă.", "Un fluviu important în sud-vestul SUA, care a format Marele Canion.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un fluviu important în sud-vestul SUA, care a format Marele Canion.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Extends for a massive length of 1,450 miles across seven states.", "Relentlessly carved the massive, 277-mile-long Grand Canyon.", "Provides critical drinking water for over 40 million people.", "The massive Hoover Dam creates Lake Mead, the largest U.S. reservoir.", "Irrigates over 5.5 million acres of crucial agricultural land.", "Originally emptied completely into the Gulf of California."]
     },
       facts: {
@@ -263,7 +263,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Găzduiește unii dintre cei mai mari copaci din lume.", "Se învecinează cu Parcul Național Sequoia & Kings Canyon.", "Oferă diverse oportunități de recreere.", "Habitat important pentru animale sălbatice.", "Faimoasă pentru arborii săi sequoia gigantici.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Faimoasă pentru arborii săi sequoia gigantici.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Encompasses over 1.1 million acres in the southern Sierra Nevada.", "Protects 34 distinct massive groves of ancient Giant Sequoias.", "Contains the massive Boole Tree, one of the largest trees globally.", "Features extreme elevation changes from 1,000 to over 12,000 feet.", "The massive Kings River Canyon cuts deeply through the forest.", "Established by President Theodore Roosevelt in 1908."]
     },
       facts: {
@@ -293,7 +293,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Unul dintre cei mai vizitați munți din America de Nord.", "A inspirat cântecul 'America the Beautiful'.", "Accesibil printr-un drum cu taxă și o cale ferată cu cremalieră.", "Gazda unei curse anuale de viteză în coastă.", "Unul dintre cele mai faimoase vârfuri din Munții Stâncoși.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Unul dintre cele mai faimoase vârfuri din Munții Stâncoși.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Reaches a towering absolute elevation of 14,115 feet.", "Named after the early American explorer Zebulon Pike.", "A highly popular massive 'fourteener' in the Colorado Front Range.", "Inspired the famous 1893 poem 'America the Beautiful'.", "Accessible by a formidable 19-mile highly engineered toll road.", "Features a deeply historic, massive cog railway to the summit."]
     },
       facts: {
@@ -323,7 +323,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Lac endoreic fără ieșire.", "Salinitatea ridicată permite plutirea.", "Habitat important pentru milioane de păsări migratoare.", "Se micșorează din cauza devierilor de apă.", "Cel mai mare lac sărat din emisfera vestică.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Cel mai mare lac sărat din emisfera vestică.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The largest saltwater lake in the entire Western Hemisphere.", "A massive, shallow remnant of the prehistoric Lake Bonneville.", "Salinity levels often greatly exceed those of the world's oceans.", "Supports a massive, highly lucrative commercial brine shrimp industry.", "An absolutely critical massive waypoint for millions of migratory birds.", "Has completely no outlet, making it a classic endorheic basin."]
     },
       facts: {
@@ -353,7 +353,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai sudic punct al Statelor Unite continentale.", "Cunoscut pentru recifele sale de corali.", "Fosta casă a lui Ernest Hemingway.", "Popular pentru apusurile de soare la Mallory Square.", "Un oraș insular care marchează cel mai sudic punct al Statelor Unite continentale.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un oraș insular care marchează cel mai sudic punct al Statelor Unite continentale.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Represents the absolute southernmost point of the contiguous US.", "Geologically composed of massive ancient fossilized coral limestone.", "Located exactly 90 miles strictly north of Havana, Cuba.", "Bordered by the massive, highly complex Florida Reef system.", "Deeply influenced by the warm waters of the massive Gulf Stream.", "Highly vulnerable to massive, devastating seasonal hurricanes."]
     },
       facts: {
@@ -383,7 +383,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Curge prin Valea Hudson.", "Se varsă în Oceanul Atlantic la New York City.", "Cunoscut istoric sub numele de 'Râul de Nord'.", "A inspirat Școala de pictură Hudson River.", "Un râu care curge în principal prin estul statului New York și joacă un rol important în istoria SUA.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un râu care curge în principal prin estul statului New York și joacă un rol important în istoria SUA.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Flows for a total length of 315 miles through eastern New York.", "The lower 153 miles operate as a massive, dynamic tidal estuary.", "Explored by English navigator Henry Hudson in the year 1609.", "The massive Erie Canal connected it to the Great Lakes in 1825.", "A deeply critical historical artery for the American Industrial Revolution.", "Originates at the high-elevation Lake Tear of the Clouds."]
     },
       facts: {
@@ -413,7 +413,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Înconjoară orașul Sedona.", "Găzduiește cea mai mare pădure de pini ponderosa din lume.", "Conține formațiuni de stâncă roșie.", "Oferă o gamă largă de peisaje.", "O pădure națională diversă din Arizona, care se întinde de la deșert la tundra alpină.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O pădure națională diversă din Arizona, care se întinde de la deșert la tundra alpină.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Encompasses nearly 2 million acres across northern Arizona.", "Home to the absolute highest point in Arizona, Humphreys Peak (12,633 ft).", "Features the massive, globally famous red rock formations of Sedona.", "Contains the largest contiguous Ponderosa pine forest in the world.", "Includes heavily preserved massive ancient Sinagua cliff dwellings.", "Characterized by massive, extreme elevation and climate changes."]
     },
       facts: {
@@ -443,7 +443,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai înalt munte din lume de la bază la vârf.", "Loc sacru în cultura hawaiană.", "Vârful găzduiește numeroase observatoare.", "Vulcan adormit.", "Un vulcan adormit din Hawaii. Măsurat de la baza sa de pe fundul mării, este cel mai înalt munte din lume.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un vulcan adormit din Hawaii. Măsurat de la baza sa de pe fundul mării, este cel mai înalt munte din lume.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Reaches an absolute elevation of 13,803 feet above sea level.", "Measures over 33,500 feet from its massive underwater base.", "Technically the absolute tallest mountain on Earth base-to-peak.", "Hosts the largest, most formidable astronomical observatory globally.", "Considered deeply sacred in traditional Native Hawaiian culture.", "A massive, classic example of a powerful oceanic shield volcano."]
     },
       facts: {
@@ -473,7 +473,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Separă continentele Asia și America de Nord.", "Ecosistem marin foarte productiv.", "Cunoscut pentru pescuitul de crabi.", "Habitat pentru multe mamifere marine.", "O mare marginală a Oceanului Pacific între Alaska și Siberia.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O mare marginală a Oceanului Pacific între Alaska și Siberia.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Separates the massive landmasses of North America and Asia.", "Covers an incredibly vast area of over 770,000 square miles.", "The shallow Bering Strait connects it completely to the Arctic Ocean.", "Features some of the most highly dangerous, punishing maritime weather.", "Supports a massive, multi-billion-dollar global commercial fishery.", "A critical massive habitat for walruses, seals, and enormous whales."]
     },
       facts: {
@@ -503,7 +503,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Destinație populară de vară pentru cei bogați.", "Accesibilă doar cu barca sau cu avionul.", "Cunoscută pentru orașele sale pitorești.", "A fost locația de filmare pentru filmul 'Fălci'.", "O insulă la sud de Cape Cod, în Massachusetts, cunoscută ca o stațiune de vară bogată.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O insulă la sud de Cape Cod, în Massachusetts, cunoscută ca o stațiune de vară bogată.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Located strictly south of the massive Cape Cod peninsula.", "Entirely formed by massive glacial deposits from the last Ice Age.", "A profoundly formidable center for the 19th-century global whaling fleet.", "Features visually stunning, massive multi-colored clay cliffs at Aquinnah.", "The population heavily swells from 17,000 to over 200,000 in summer.", "Historically known for a highly unique, massive local sign language."]
     },
       facts: {
@@ -533,7 +533,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["De fapt, un estuar, nu un lac propriu-zis.", "Traversat de podul Lake Pontchartrain Causeway.", "Important pentru pescuitul local.", "Vulnerabil la valurile de furtună provocate de uragane.", "Un estuar în sud-estul Louisianei, traversat de unul dintre cele mai lungi poduri din lume.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un estuar în sud-estul Louisianei, traversat de unul dintre cele mai lungi poduri din lume.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["A massive, shallow brackish estuary, not a true freshwater lake.", "Covers an incredibly vast surface area of 630 square miles.", "Averages a highly shallow depth of merely 12 to 14 feet.", "Deeply connected to the Gulf of Mexico through the Rigolets.", "The massive Causeway bridge stretches continuously for 23.8 miles.", "Functions as a highly critical, massive hydrological storm buffer."]
     },
       facts: {
@@ -563,7 +563,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Formează o lungă graniță între SUA și Mexic.", "Izvorăște din Munții Stâncoși din Colorado.", "Sursă importantă de apă într-o regiune aridă.", "Numele înseamnă 'Râu Mare' în spaniolă.", "Un fluviu care formează o parte a graniței dintre Mexic și Statele Unite.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un fluviu care formează o parte a graniței dintre Mexic și Statele Unite.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Flows for a massive, heavily managed length of 1,896 miles.", "Forms over 1,200 miles of the absolute US-Mexico international border.", "Originates at an elevation of 12,000 feet in the San Juan Mountains.", "Its waters are deeply, heavily allocated for crucial agricultural irrigation.", "Famously carved the massive, deep canyons of Big Bend National Park.", "Often completely dries up before physically reaching the Gulf of Mexico."]
     },
       facts: {
@@ -593,7 +593,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Găzduiește o mare parte din lanțul Presidential.", "Cunoscută pentru frunzișul său de toamnă.", "Muntele Washington are o vreme extremă.", "Foarte popular pentru drumeții și schi.", "O mare pădure națională în Munții Albi din New Hampshire și Maine.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O mare pădure națională în Munții Albi din New Hampshire și Maine.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Covers over 800,000 acres, primarily within New Hampshire.", "Mount Washington (6,288 ft) is the absolute highest peak in the Northeast.", "Globally infamous for experiencing incredibly extreme, punishing weather.", "Contains massive, heavily protected expanses of fragile alpine tundra.", "Features heavily traversed, massive sections of the Appalachian Trail.", "Deeply carved by massive continental ice sheets during the Pleistocene."]
     },
       facts: {
@@ -623,7 +623,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Un stratovulcan potențial activ.", "Considerat un centru spiritual de mulți.", "Domină peisajul din nordul Californiei.", "Compus din patru conuri vulcanice suprapuse.", "Un vulcan potențial activ la capătul sudic al lanțului Cascade din California.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un vulcan potențial activ la capătul sudic al lanțului Cascade din California.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["A highly massive, potentially active stratovolcano reaching 14,179 feet.", "Contains seven massive, deeply studied high-altitude glaciers.", "Boasts a staggering massive topographic prominence of nearly 10,000 feet.", "Features four distinct overlapping massive volcanic cones.", "Considered deeply sacred by multiple local Native American tribes.", "Possesses a deeply violent geological history of massive catastrophic lahars."]
     },
       facts: {
@@ -653,7 +653,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai mare lac de apă dulce din Florida.", "Foarte puțin adânc pentru dimensiunea sa.", "Piesa centrală a ecosistemului Everglades.", "Important pentru alimentarea cu apă a regiunii.", "Cel mai mare lac de apă dulce din Florida și al zecelea ca mărime din SUA.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Cel mai mare lac de apă dulce din Florida și al zecelea ca mărime din SUA.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The absolute largest freshwater lake completely within the state of Florida.", "Covers a massive 730 square miles but averages only 9 feet deep.", "Serves as the massive, critical hydrological source for the Everglades.", "Completely contained by the massive 143-mile Herbert Hoover Dike.", "Its waters heavily support a massive, highly lucrative sugarcane industry.", "Highly vulnerable to massive nutrient pollution and algal blooms."]
     },
       facts: {
@@ -683,7 +683,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Parte a arhipelagului Channel Islands.", "Cunoscută pentru apele sale limpezi și locurile de scufundări.", "Găzduiește o populație de bizoni.", "Principalul oraș este Avalon.", "O insulă stâncoasă în largul coastei Californiei de Sud.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O insulă stâncoasă în largul coastei Californiei de Sud.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Located 22 miles off the massive, highly urbanized Southern California coast.", "Features an incredibly rugged, massive topography rising to 2,097 feet.", "Nearly 90% of the massive island is strictly protected by a conservancy.", "Home to highly unique, deeply endemic species like the Catalina Island fox.", "William Wrigley Jr. initiated massive conservation efforts in the 1920s.", "Avalon is the only incorporated, heavily populated city on the island."]
     },
       facts: {
@@ -713,7 +713,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai lung fluviu din America de Nord.", "Ruta importantă pentru expediția Lewis și Clark.", "Poreclit 'Big Muddy' datorită conținutului său ridicat de sedimente.", "Se varsă în Mississippi lângă St. Louis.", "Cel mai lung fluviu din America de Nord, care se varsă în Mississippi.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Cel mai lung fluviu din America de Nord, care se varsă în Mississippi.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The absolute longest river completely within North America at 2,341 miles.", "Carries an incredibly massive, highly characteristic sediment load.", "Served as the primary massive route for the 1804 Lewis and Clark expedition.", "Heavily controlled by six massive, highly engineered federal dams.", "Drains a massive, vast watershed encompassing one-sixth of the US.", "Historically supported massive, highly lucrative steamboat commerce."]
     },
       facts: {
@@ -743,7 +743,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Una dintre primele păduri naționale din estul SUA.", "Cunoscută pentru cascadele și traseele sale de drumeții.", "Gazda primei școli de silvicultură din SUA.", "Include păduri de foioase de mare altitudine.", "O pădure națională în Munții Apalași din Carolina de Nord.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O pădure națională în Munții Apalași din Carolina de Nord.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Encompasses over 500,000 acres within the massive Southern Appalachians.", "Recognized as the absolute birthplace of American scientific forestry.", "Contains the heavily preserved site of the first US forestry school.", "Features deeply rugged terrain, massive waterfalls, and high peaks.", "Includes massive tracts of pristine, heavily dense hardwood forests.", "Established formally by the federal government in 1916."]
     },
       facts: {
@@ -773,7 +773,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai înalt munte din Oregon.", "Găzduiește 12 ghețari.", "Schiatul este posibil pe tot parcursul anului.", "Vulcan potențial activ.", "Un vulcan potențial activ în lanțul Cascade din Oregon.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un vulcan potențial activ în lanțul Cascade din Oregon.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The absolute highest peak completely within the state of Oregon (11,249 ft).", "A massive, potentially active stratovolcano near a major urban center.", "Heavily armored by 11 massive, intensely studied active glaciers.", "One of the most heavily climbed, massive glaciated peaks globally.", "Features the highly historic, massive Timberline Lodge built in 1937.", "Deeply monitored for massive, potentially catastrophic lahar threats."]
     },
       facts: {
@@ -803,7 +803,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cea mai lungă insulă barieră din lume.", "Loc important de cuibărit pentru țestoasele marine.", "Împărțită în Insula Padre de Nord și Insula Padre de Sud.", "Populară pentru observarea păsărilor și pescuit.", "Cea mai lungă insulă barieră din lume de-a lungul coastei Texasului.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Cea mai lungă insulă barieră din lume de-a lungul coastei Texasului.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["The absolute longest continuous barrier island on the entire planet.", "Stretches a massive 113 miles along the Texas Gulf Coast.", "Acts as a highly critical, massive natural storm surge buffer.", "Protects the extremely shallow, highly saline Laguna Madre estuary.", "A profoundly critical massive nesting site for endangered sea turtles.", "Constantly reshaped by massive, powerful wind and tidal forces."]
     },
       facts: {
@@ -833,7 +833,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cunoscut pentru furtunile sale severe.", "Zonă importantă de pescuit, în special pentru somon.", "Caracterizat de ghețari care se varsă în mare.", "Se învecinează cu cea mai mare pădure națională din SUA.", "Un braț al Oceanului Pacific în largul coastei de sud a Alaskăi.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un braț al Oceanului Pacific în largul coastei de sud a Alaskăi.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["A massive, highly dynamic arm of the northern Pacific Ocean.", "Renowned as a massive generator of incredibly fierce, powerful storms.", "Features a staggeringly rugged coastline with massive tidewater glaciers.", "Driven by the massive, surprisingly warm Alaska Current.", "Supports one of the most incredibly productive massive fisheries globally.", "Deeply influenced by massive, complex tectonic subduction zones."]
     },
       facts: {
@@ -863,7 +863,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Cel mai mare afluent al fluviului Mississippi după volum.", "A format istoric granița dintre statele libere și cele sclavagiste.", "Cale navigabilă importantă pentru industrie.", "Izvorăște în Pittsburgh, Pennsylvania.", "Un afluent mare al fluviului Mississippi, care a servit ca o importantă rută comercială.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["Un afluent mare al fluviului Mississippi, care a servit ca o importantă rută comercială.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Flows for a total massive length of 981 miles through the Midwest.", "Forms the absolute borders of six different U.S. states.", "A deeply critical massive artery for the 19th-century Industrial Revolution.", "Heavily managed by a massive, complex system of 20 locks and dams.", "Historically considered the massive southern boundary of the Northwest Territory.", "Transports massive, crucial tonnages of regional coal and steel."]
     },
       facts: {
@@ -893,7 +893,7 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
         "A hatékonyság növelése érdekében automatizált rendszereket használ.",
         "Kiemelt figyelmet fordítanak a fenntartható működésre."
       ],
-      ro: ["Include Munții Sawtooth.", "Peste 1000 de lacuri se găsesc în pădure.", "Populară pentru drumeții cu rucsacul și alpinism.", "Peisaj divers, de la munți la stepe de salvie.", "O pădure națională din Idaho și Utah, numită după Munții Sawtooth zimțați.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
+      ro: ["O pădure națională din Idaho și Utah, numită după Munții Sawtooth zimțați.", "Se afla pe teritoriul Statelor Unite ale Americii.", "Are un rol in identitatea regionala intre coasta de est si cea de vest."],
       en: ["Encompasses over 2.1 million acres in highly remote central Idaho.", "Features the deeply jagged, massive granite peaks of the Sawtooth Range.", "Contains the highly critical, massive headwaters of the Salmon River.", "Protects over 300 massive, pristine high-elevation alpine lakes.", "A deeply crucial habitat for returning anadromous sockeye salmon.", "Established by an absolute massive proclamation by President Theodore Roosevelt."]
     },
       facts: {

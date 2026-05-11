@@ -1,0 +1,317 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": ["lib/visualLab/data/poiExtraLebanonCitiesV2.ts"],
+  "items": [
+    {
+      "id": "rayak-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Rayak egy stratégiai fontosságú kisváros a Bekaa-völgy központjában, Zahlé közelében. A település elsősorban Libanon katonai repülésének központjaként ismert, hiszen itt található a libanoni légierő legfontosabb légitámaszpontja, a Rayak Légibázis. A várost átszeli a történelmi Bejrút-Damaszkusz vasútvonal egykori nyomvonala, és itt működött a Közel-Kelet egyik legnagyobb vasúti csomópontja és karbantartó műhelye is, amelynek romjai ma az ipari örökség részét képezik. A település történelme során mindig is logisztikai és katonai fókuszpont volt, különösen az első és a második világháború alatt, amikor a francia erők használták a bázist. A lakosság vegyes összetételű, keresztény és muszlim közösségek élnek itt együtt. A gazdaság főként a katonai bázis körüli szolgáltatásokra, valamint a mezőgazdaságra támaszkodik, különös tekintettel a gabona- és zöldségtermesztésre.",
+        "ro": "Rayak este un mic oraș cu o importanță strategică situat în centrul Văii Bekaa, aproape de Zahlé. Așezarea este cunoscută în principal ca centrul aviației militare din Liban, găzduind Baza Aeriană Rayak, cea mai importantă bază a forțelor aeriene libaneze. Fosta rută a căii ferate istorice Beirut-Damasc traversează orașul, care odinioară a găzduit unul dintre cele mai mari noduri feroviare și ateliere de întreținere din Orientul Mijlociu, ale cărui ruine fac acum parte din patrimoniul industrial. De-a lungul istoriei sale, așezarea a fost un punct focal logistic și militar, în special în timpul Primului și celui de-al Doilea Război Mondial, când forțele franceze au folosit baza. Populația este diversă, comunitățile creștine și musulmane trăind împreună. Economia se bazează în principal pe serviciile din jurul bazei militare, precum și pe agricultură, cu accent pe cultivarea cerealelor și a legumelor.",
+        "en": "Rayak is a strategically important small town located in the center of the Beqaa Valley, near Zahlé. The settlement is primarily known as the hub of Lebanon's military aviation, housing the Rayak Air Base, the most significant base of the Lebanese Air Force. The former route of the historic Beirut-Damascus railway crosses the town, which once hosted one of the largest railway junctions and maintenance workshops in the Middle East; its ruins are now part of the country's industrial heritage. Throughout its history, the settlement has served as a logistic and military focal point, particularly during the First and Second World Wars when French forces utilized the base. The demographic is mixed, with Christian and Muslim communities living alongside one another. The economy relies heavily on services surrounding the military base, as well as agriculture, with a focus on grain and vegetable cultivation."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Itt található a libanoni légierő legfontosabb támaszpontja, a Rayak Légibázis.",
+          "Egykor a Közel-Kelet egyik legnagyobb vasúti csomópontja működött itt.",
+          "A régi vasúti karbantartó műhelyek romjai ma is láthatók a városban.",
+          "Mindkét világháború alatt fontos logisztikai és katonai központ volt.",
+          "Keresztények és muszlimok vegyesen alkotják a város lakosságát."
+        ],
+        "ro": [
+          "Găzduiește Baza Aeriană Rayak, cea mai importantă bază a forțelor aeriene libaneze.",
+          "Odinioară, a fost unul dintre cele mai mari noduri feroviare din Orientul Mijlociu.",
+          "Ruinele vechilor ateliere de întreținere feroviară pot fi văzute și astăzi.",
+          "A fost un centru logistic și militar crucial în ambele războaie mondiale.",
+          "Populația orașului este un amestec de creștini și musulmani."
+        ],
+        "en": [
+          "It is home to the Rayak Air Base, the primary base of the Lebanese Air Force.",
+          "It once functioned as one of the largest railway junctions in the Middle East.",
+          "The ruins of the old railway maintenance workshops remain visible today.",
+          "It served as a crucial logistical and military center during both World Wars.",
+          "The town's population is a diverse mix of Christians and Muslims."
+        ]
+      }
+    },
+    {
+      "id": "chtaura-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Chtaura egy élénk tranzitváros a Bekaa-völgy szívében, pontosan a Bejrútot és Damaszkuszt összekötő nemzetközi főútvonal mentén. Kiváló elhelyezkedése miatt az ország egyik legfontosabb közlekedési, kereskedelmi és pénzügyi csomópontjává vált. A város gyakorlatilag egy hatalmas piac, tele bankokkal, valutaváltókkal, autószerelő műhelyekkel és vámmentes üzletekkel, amelyek a két ország közötti hatalmas áru- és személyforgalmat szolgálják ki. Chtaura Libanon-szerte híres tejtermékeiről, különösen a labneh-ről (szűrt joghurt) és a helyi sajtokról, amelyeket a főutcán sorakozó üzletekben frissen árulnak. Bár a város lakossága nem túl nagy, a napi átutazó forgalom miatt állandóan nyüzsgő metropolisz benyomását kelti. Éghajlata hűvösebb, mint a partvidéké, a környező termékeny földeken pedig intenzív mezőgazdasági termelés, köztük szőlőtermesztés folyik.",
+        "ro": "Chtaura este un oraș de tranzit plin de viață în inima Văii Bekaa, situat exact de-a lungul autostrăzii internaționale care leagă Beirutul de Damasc. Datorită locației sale excelente, a devenit unul dintre cele mai importante noduri de transport, comerciale și financiare din țară. Orașul este practic o piață uriașă, plină de bănci, case de schimb valutar, ateliere auto și magazine duty-free, deservind traficul masiv de mărfuri și pasageri dintre cele două țări. Chtaura este renumită în tot Libanul pentru produsele lactate, în special labneh (iaurt strecurat) și brânzeturile locale, vândute proaspete în magazinele de pe strada principală. Deși populația rezidentă nu este foarte mare, traficul zilnic de tranzit îi conferă atmosfera unei metropole mereu aglomerate. Clima este mai răcoroasă decât pe coastă, iar pe terenurile fertile din jur se desfășoară o producție agricolă intensivă, inclusiv viticultură.",
+        "en": "Chtaura is a bustling transit town in the heart of the Beqaa Valley, located directly along the international highway connecting Beirut and Damascus. Because of its prime location, it has evolved into one of the country's most vital transportation, commercial, and financial hubs. The town essentially functions as a massive marketplace, filled with banks, currency exchanges, auto repair shops, and duty-free stores that cater to the massive flow of goods and passengers between the two countries. Chtaura is renowned throughout Lebanon for its dairy products, particularly labneh (strained yogurt) and local cheeses, which are sold fresh in shops lining the main street. Although its resident population is not particularly large, the daily transit traffic gives it the atmosphere of a constantly busy metropolis. Its climate is cooler than the coastal areas, and intensive agricultural production, including viticulture, takes place on the surrounding fertile lands."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város a Bejrútot és Damaszkuszt összekötő főútvonal kulcsfontosságú állomása.",
+          "Libanon egyik legjelentősebb tranzit-, kereskedelmi és pénzügyi csomópontja.",
+          "Országszerte híres a minőségi tejtermékeiről, különösen a labneh-ről.",
+          "Főutcáját bankok, valutaváltók és az átutazókat kiszolgáló üzletek uralják.",
+          "A környező termékeny földeken intenzív mezőgazdasági termelés zajlik."
+        ],
+        "ro": [
+          "Orașul este o oprire cheie pe autostrada care leagă Beirutul de Damasc.",
+          "Este unul dintre cele mai importante noduri de tranzit și financiare din Liban.",
+          "Este renumit la nivel național pentru lactatele sale, în special pentru labneh.",
+          "Strada sa principală este dominată de bănci, schimburi valutare și magazine.",
+          "Pe terenurile fertile din jur se desfășoară o producție agricolă intensivă."
+        ],
+        "en": [
+          "The town is a key stop on the main highway connecting Beirut and Damascus.",
+          "It acts as one of Lebanon's most significant transit and financial hubs.",
+          "It is nationally famous for its high-quality dairy products, especially labneh.",
+          "Its main street is lined with banks, money exchanges, and transit-oriented shops.",
+          "Intensive agricultural production occurs on the surrounding fertile lands."
+        ]
+      }
+    },
+    {
+      "id": "anjar-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Anjar egy egyedülálló történelmi és kulturális település a Bekaa-völgyben, a szír határ közelében. A várost az Umajjád kalifátus idején, a 8. század elején alapította I. al-Valíd kalifa, mint jelentős kereskedelmi központot, de mindössze néhány évtized után elhagyták. Az ókori romok egyedülálló módon kizárólag egyetlen történelmi korszakot, az omajjád időszakot tükrözik, a római várostervezés és a bizánci építészeti elemek (például a váltakozó kő- és téglasorok) ötvözésével. A régészeti terület 1984 óta az UNESCO Világörökség része. A modern Anjar lakossága szinte teljes egészében örmény származású; a várost 1939-ben alapították újra a Musa Dagh-ból menekült örmények, akiket a francia hatóságok telepítettek le itt. A város napjainkban örmény kulturális központ, amely megőrizte nyelvét, hagyományait és híres kiváló örmény éttermeiről, valamint ékszerészeiről.",
+        "ro": "Anjar este o așezare istorică și culturală unică situată în Valea Bekaa, aproape de granița cu Siria. Orașul a fost fondat în timpul Califatului Umayyad, la începutul secolului al VIII-lea, de către califul Al-Walid I, ca un important centru comercial, dar a fost abandonat după doar câteva decenii. Ruinele antice reflectă exclusiv o singură epocă istorică, perioada Umayyad, îmbinând planificarea urbană romană cu elemente arhitecturale bizantine (cum ar fi straturile alternante de piatră și cărămidă). Situl arheologic este inclus în Patrimoniul Mondial UNESCO din 1984. Populația orașului modern Anjar este aproape în întregime de origine armeană; orașul a fost reînființat în 1939 de refugiații armeni din Musa Dagh, care au fost relocați aici de autoritățile franceze. Astăzi, orașul este un centru cultural armean, păstrându-și limba, tradițiile și fiind faimos pentru restaurantele sale armenești excelente și bijutierii pricepuți.",
+        "en": "Anjar is a unique historical and cultural settlement in the Beqaa Valley, situated near the Syrian border. The city was founded during the Umayyad Caliphate in the early 8th century by Caliph Al-Walid I as a major commercial center, but it was abandoned after only a few decades. Uniquely, the ancient ruins reflect exclusively a single historical epoch—the Umayyad period—blending Roman urban planning with Byzantine architectural elements (such as alternating layers of stone and brick). The archaeological site has been a UNESCO World Heritage site since 1984. The population of modern Anjar is almost entirely of Armenian descent; the town was refounded in 1939 by Armenian refugees from Musa Dagh, who were resettled there by French authorities. Today, the town serves as an Armenian cultural hub, preserving its language and traditions, and is well known for its excellent Armenian restaurants and skilled jewelers."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az eredeti várost az Umajjád kalifátus alapította a 8. század elején.",
+          "A romterület kizárólag az omajjád korszak építészetét mutatja be.",
+          "Anjar régészeti lelőhelye 1984 óta az UNESCO Világörökség része.",
+          "A modern várost 1939-ben a Musa Dagh-ból menekült örmények alapították újra.",
+          "Napjainkban a libanoni örmény diaszpóra egyik legfontosabb kulturális központja."
+        ],
+        "ro": [
+          "Orașul original a fost fondat de califatul Umayyad la începutul secolului VIII.",
+          "Situl cu ruine prezintă exclusiv arhitectura epocii Umayyade.",
+          "Zona arheologică din Anjar este în Patrimoniul Mondial UNESCO din 1984.",
+          "Orașul modern a fost reînființat în 1939 de refugiații armeni din Musa Dagh.",
+          "Astăzi, este un centru cultural crucial pentru diaspora armeană din Liban."
+        ],
+        "en": [
+          "The original city was founded by the Umayyad Caliphate in the early 8th century.",
+          "The ruin site exclusively showcases the architecture of the Umayyad era.",
+          "The archaeological area of Anjar has been a UNESCO World Heritage site since 1984.",
+          "The modern town was refounded in 1939 by Armenian refugees from Musa Dagh.",
+          "Today, it is a crucial cultural center for the Armenian diaspora in Lebanon."
+        ]
+      }
+    },
+    {
+      "id": "deir-el-qamar-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Deir el Qamar (A Hold Kolostora) egy festői történelmi kisváros a Chouf-hegységben, Közép-Libanonban. A 16. és 18. század között, a Maan-dinasztia uralkodása alatt Libanon hegyvidéki emírségének fővárosa volt. A város szigorúan megőrizte történelmi karakterét, macskaköves utcái, díszes kőházai és boltíves épületei a hagyományos libanoni építészet legszebb példái közé tartoznak. A központban található a Fakhreddine palota és az 1493-ban épült Fakhreddine mecset, amely Libanon egyik legrégebbi máig álló iszlám imahelye. A város a vallási tolerancia szimbóluma is volt, ahol mecsetek, templomok és egy régi zsinagóga állnak egymás közvetlen közelében. Deir el Qamar 1945 óta műemlékvédelmi terület. A lakosság ma többségében maronita keresztény. A város turisztikai vonzereje óriási, köszönhetően történelmi fesztiváljainak, kézműves boltjainak és a közeli Beiteddine-palota közelségének.",
+        "ro": "Deir el Qamar (Mănăstirea Lunii) este un mic oraș istoric pitoresc situat în Munții Chouf, în centrul Libanului. Între secolele al XVI-lea și al XVIII-lea, în timpul domniei dinastiei Maan, a fost capitala emiratului montan al Libanului. Orașul și-a păstrat cu strictețe caracterul istoric; străzile sale pietruite, casele de piatră ornamentate și clădirile cu arcade sunt printre cele mai bune exemple de arhitectură tradițională libaneză. În centru se află Palatul Fakhreddine și Moscheea Fakhreddine, construită în 1493, unul dintre cele mai vechi lăcașuri de cult islamice din Liban încă în picioare. Orașul a fost, de asemenea, un simbol al toleranței religioase, cu moschei, biserici și o veche sinagogă stând în imediata apropiere. Deir el Qamar este o zonă de patrimoniu protejată din 1945. Populația actuală este majoritar creștină maronită. Atracția turistică a orașului este enormă, datorită festivalurilor sale istorice, magazinelor de artizanat și apropierii de Palatul Beiteddine.",
+        "en": "Deir el Qamar (Monastery of the Moon) is a picturesque historical small town located in the Chouf Mountains of central Lebanon. Between the 16th and 18th centuries, during the rule of the Maan dynasty, it served as the capital of the Mount Lebanon Emirate. The town has rigorously preserved its historical character; its cobblestone streets, ornate stone houses, and vaulted buildings rank among the finest examples of traditional Lebanese architecture. At its center lies the Fakhreddine Palace and the Fakhreddine Mosque, built in 1493, which is one of the oldest Islamic places of worship still standing in Lebanon. The town also acted as a symbol of religious tolerance, featuring mosques, churches, and an old synagogue situated in close proximity to one another. Deir el Qamar has been a protected heritage area since 1945. The current population is predominantly Maronite Christian. The town's tourist appeal is immense, bolstered by its historical festivals, artisan shops, and the nearby Beiteddine Palace."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A 16. és 18. század között a libanoni emírség fővárosa volt.",
+          "A városközpont a hagyományos libanoni kőépítészet tökéletes példája.",
+          "Az 1493-ban épült Fakhreddine mecset az egyik legrégebbi az országban.",
+          "A vallási tolerancia jegyében épült itt mecset, templom és zsinagóga is.",
+          "1945 óta a teljes település szigorú műemlékvédelem alatt áll."
+        ],
+        "ro": [
+          "A servit drept capitală a emiratului libanez între secolele XVI și XVIII.",
+          "Centrul orașului este un exemplu perfect de arhitectură tradițională din piatră.",
+          "Moscheea Fakhreddine, construită în 1493, este una dintre cele mai vechi din țară.",
+          "Moschei, biserici și o sinagogă au fost construite aici ca semn de toleranță.",
+          "Întreaga așezare se află sub protecție strictă de patrimoniu din anul 1945."
+        ],
+        "en": [
+          "It served as the capital of the Lebanese emirate from the 16th to the 18th century.",
+          "The town center is a perfect example of traditional Lebanese stone architecture.",
+          "The Fakhreddine Mosque, built in 1493, is one of the oldest in the country.",
+          "Mosques, churches, and a synagogue were built here as a sign of tolerance.",
+          "The entire settlement has been under strict heritage protection since 1945."
+        ]
+      }
+    },
+    {
+      "id": "broummana-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Broummana (Brummana) egy magasan fekvő luxus üdülőváros a Libanon-hegységben, amely közvetlenül a főváros, Bejrút fölé magasodik, tőle mindössze 20 kilométerre. A település a fenyvesekkel borított Matn régió szívében található, körülbelül 800 méteres magasságban. Hűvös éghajlata és a Földközi-tengerre nyíló páratlan panorámája miatt Broummana már a 19. századtól kezdve a libanoni tehetősek és a külföldi diplomaták kedvelt nyári menedéke. A város híres a magas színvonalú nemzetközi iskoláiról, valamint a pezsgő turisztikai életéről; utcáin elegáns butikszállodák, fine dining éttermek, szabadtéri kávézók és divatos éjszakai klubok sorakoznak. A lakosság többsége görög ortodox keresztény. Bár a modern turisztikai fejlesztések átformálták a városképet, a régi kőházak és a hagyományos libanoni vendégszeretet továbbra is meghatározzák a hangulatot.",
+        "ro": "Broummana (Brummana) este un oraș stațiune de lux situat la altitudine în Munții Liban, dominând direct capitala Beirut, de care se află la doar 20 de kilometri. Așezarea se găsește în inima regiunii Matn, acoperită de păduri de pini, la o altitudine de aproximativ 800 de metri. Datorită climatului său răcoros și a panoramei inegalabile asupra Mării Mediterane, Broummana a fost un refugiu de vară preferat pentru libanezii bogați și diplomații străini încă din secolul al XIX-lea. Orașul este renumit pentru școlile sale internaționale de înaltă calitate, precum și pentru viața turistică vibrantă; străzile sale sunt flancate de hoteluri de tip boutique elegante, restaurante fine dining, cafenele în aer liber și cluburi de noapte la modă. Populația este majoritar formată din creștini greco-ortodocși. Deși dezvoltările turistice moderne au remodelat peisajul urban, casele vechi de piatră și ospitalitatea tradițională libaneză continuă să definească atmosfera.",
+        "en": "Broummana (Brummana) is a high-altitude luxury resort town in the Mount Lebanon range, overlooking the capital city of Beirut, located just 20 kilometers away. The settlement is situated in the heart of the pine-covered Matn region, at an elevation of approximately 800 meters. Due to its cool climate and unparalleled panoramic views of the Mediterranean Sea, Broummana has been a favored summer retreat for wealthy Lebanese and foreign diplomats since the 19th century. The town is highly renowned for its top-tier international schools and its vibrant tourism scene; its streets are lined with elegant boutique hotels, fine dining restaurants, open-air cafes, and trendy nightclubs. The majority of the population consists of Greek Orthodox Christians. Although modern tourism developments have reshaped the urban landscape, old stone houses and traditional Lebanese hospitality continue to define the atmosphere."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város a fenyvesekkel borított Matn régióban, 800 méter magasan fekszik.",
+          "Lenyűgöző panorámát nyújt a 20 kilométerre fekvő Bejrútra és a tengerre.",
+          "A 19. század óta az elit és a diplomaták kedvelt nyári üdülőhelye.",
+          "Számos magas színvonalú nemzetközi iskola működik a településen.",
+          "Utcáit fine dining éttermek, elegáns kávézók és butikszállodák szegélyezik."
+        ],
+        "ro": [
+          "Orașul se află în regiunea Matn, acoperită de pini, la 800 de metri altitudine.",
+          "Oferă o panoramă uimitoare asupra Beirutului și a Mării Mediterane.",
+          "Este o stațiune de vară preferată pentru elită și diplomați din secolul XIX.",
+          "În așezare funcționează mai multe școli internaționale de top.",
+          "Străzile sunt flancate de restaurante elegante, cafenele și hoteluri de lux."
+        ],
+        "en": [
+          "The town lies in the pine-covered Matn region at an altitude of 800 meters.",
+          "It provides a stunning panorama of Beirut and the Mediterranean Sea.",
+          "It has been a favored summer resort for the elite and diplomats since the 1800s.",
+          "Several high-quality international schools operate within the settlement.",
+          "Its streets are lined with fine dining restaurants, cafes, and boutique hotels."
+        ]
+      }
+    },
+    {
+      "id": "ehden-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Ehden egy magasan fekvő történelmi hegyvidéki város Észak-Libanonban, a Kadisha-völgy közelében, körülbelül 1500 méteres tengerszint feletti magasságban. A település Zgharta testvérvárosa; az évszázados hagyomány szerint a lakosok a nyári hőség elől Ehdenbe költöznek, amely a régió legnépszerűbb nyári bázisává válik, ősszel pedig visszatérnek a lenti Zghartába. A város a maronita katolikus egyház egyik történelmi bölcsője és bástyája, számtalan régi templommal és kolostorral büszkélkedhet, köztük a legrégebbi maronita templommal, a Szent Mamasz (Mar Mama) kápolnával, amely 748-ban épült. Ehden közvetlen szomszédságában található a Horsh Ehden Természetvédelmi Terület, egy rendkívül gazdag biodiverzitású hegyi erdőség, amely számos ritka növény- és állatfajnak ad otthont. A város központja, a Midan, nyaranta a társadalmi élet nyüzsgő központja, hagyományos kávézókkal és éttermekkel.",
+        "ro": "Ehden este un oraș montan istoric situat la mare altitudine în nordul Libanului, aproape de Valea Kadisha, la o altitudine de aproximativ 1.500 de metri deasupra nivelului mării. Așezarea este orașul înfrățit al orașului Zgharta; conform unei tradiții seculare, locuitorii se mută în Ehden pentru a scăpa de căldura verii, transformându-l în cea mai populară bază estivală din regiune, și se întorc la Zgharta toamna. Orașul este un leagăn istoric și o fortăreață a bisericii catolice maronite, mândrindu-se cu numeroase biserici și mănăstiri vechi, inclusiv cea mai veche biserică maronită, capela Sfântul Mamas (Mar Mama), construită în anul 748. În imediata vecinătate a orașului Ehden se află Rezervația Naturală Horsh Ehden, o pădure montană cu o biodiversitate excepțională, care găzduiește numeroase specii rare de plante și animale. Centrul orașului, cunoscut sub numele de Midan, este centrul plin de viață al activităților sociale în timpul verii, cu cafenele și restaurante tradiționale.",
+        "en": "Ehden is a high-altitude historic mountain town in northern Lebanon, located near the Kadisha Valley at an elevation of approximately 1,500 meters above sea level. The settlement is the sister town of Zgharta; according to a centuries-old tradition, residents migrate to Ehden to escape the summer heat, transforming it into the region's most popular summer base, and return to Zgharta in the autumn. The town serves as a historical cradle and stronghold of the Maronite Catholic Church, boasting numerous old churches and monasteries, including the oldest Maronite church, the Chapel of Saint Mamas (Mar Mama), built in 748. In the immediate vicinity of Ehden lies the Horsh Ehden Nature Reserve, a highly biodiverse mountain forest that is home to numerous rare plant and animal species. The town center, known as the Midan, acts as the bustling hub of social life during the summer, featuring traditional cafes and restaurants."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Ehden Zgharta testvérvárosa, a lakosok hagyományos nyári menedékhelye.",
+          "Körülbelül 1500 méteres tengerszint feletti magasságban terül el.",
+          "Itt áll az 748-ban épült Mar Mama, a legrégebbi ismert maronita kápolna.",
+          "A közelben terül el a különleges biodiverzitású Horsh Ehden Természetvédelmi Terület.",
+          "Központi tere, a Midan a nyári társadalmi élet és éttermek központja."
+        ],
+        "ro": [
+          "Ehden este orașul înfrățit cu Zgharta, fiind refugiul tradițional de vară.",
+          "Este situat la o altitudine de aproximativ 1.500 de metri deasupra mării.",
+          "Aici se află Mar Mama (construită în 748), cea mai veche capelă maronită.",
+          "În apropiere se întinde Rezervația Naturală Horsh Ehden, bogată în biodiversitate.",
+          "Piața sa centrală, Midan, este inima vieții sociale și a restaurantelor vara."
+        ],
+        "en": [
+          "Ehden is the sister town of Zgharta, serving as the traditional summer retreat.",
+          "It is situated at an altitude of approximately 1,500 meters above sea level.",
+          "It houses Mar Mama (built in 748), the oldest known Maronite chapel.",
+          "Nearby spans the highly biodiverse Horsh Ehden Nature Reserve.",
+          "Its central square, the Midan, is the heart of social life and dining in the summer."
+        ]
+      }
+    },
+    {
+      "id": "qobayat-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Qobayat a libanoni Akkar-kormányzóság legnagyobb és egyik legfontosabb városa, amely zöldellő hegyek és sűrű tölgy-, fenyő- és cédruserdők között fekszik az ország legészakibb részén. A település elsősorban maronita keresztények lakta enklávé a nagyrészt szunnita többségű Akkarban. Qobayat híres érintetlen természeti környezetéről és kiváló túraútvonalairól, a város az 140 kilométer hosszú Lebanon Mountain Trail (Libanoni Hegyi Ösvény) északi végpontja. A település vallási és történelmi jelentőségét a régi selyemgyár romjai és a Mar Challita kolostor ősi falai hangsúlyozzák, valamint egy egyedülálló lepkemúzeum, amely az ország egyik legfontosabb rovartani gyűjteménye. Nyaranta Qobayat élénk fesztiválok helyszíne, amelyek vonzzák a turistákat és a libanoni diaszpóra tagjait. A helyi gazdaság nagyrészt a környező földek adta mezőgazdaságra, ezen belül az alma és olajbogyó termesztésére, valamint a természetturizmusra épít.",
+        "ro": "Qobayat este cel mai mare și unul dintre cele mai importante orașe din guvernoratul Akkar din Liban, cuibărit printre munți verzi și păduri dese de stejar, pin și cedru în extremitatea nordică a țării. Așezarea este în primul rând o enclavă populată de creștini maroniți în regiunea Akkar, majoritar sunnită. Qobayat este renumit pentru mediul său natural neatins și traseele excelente de drumeție, orașul servind drept punct terminus nordic al traseului Lebanon Mountain Trail, lung de 140 de kilometri. Importanța religioasă și istorică a așezării este subliniată de ruinele unei vechi fabrici de mătase și de zidurile antice ale mănăstirii Mar Challita, precum și de un muzeu unic de fluturi, care conține una dintre cele mai mari colecții entomologice din țară. Vara, Qobayat găzduiește festivaluri vibrante care atrag turiști și membri ai diasporei libaneze. Economia locală se bazează pe agricultura de pe terenurile înconjurătoare, în special pe cultivarea merelor și măslinilor, precum și pe ecoturism.",
+        "en": "Qobayat is the largest and one of the most important towns in Lebanon's Akkar Governorate, nestled among green mountains and dense forests of oak, pine, and cedar in the northernmost part of the country. The settlement functions primarily as a Maronite Christian enclave within the largely Sunni-majority Akkar region. Qobayat is renowned for its pristine natural environment and excellent hiking routes, serving as the northern terminus of the 140-kilometer Lebanon Mountain Trail. The religious and historical significance of the town is highlighted by the ruins of an old silk factory and the ancient walls of the Mar Challita monastery, as well as a unique butterfly museum that holds one of the most substantial entomological collections in the country. During the summer, Qobayat hosts vibrant festivals that draw tourists and members of the Lebanese diaspora. The local economy relies heavily on agriculture from the surrounding lands, specifically apple and olive cultivation, along with eco-tourism."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Qobayat az Akkar-kormányzóság legnagyobb maronita keresztény települése.",
+          "Sűrű erdők övezik, és a híres Libanoni Hegyi Ösvény északi végpontja.",
+          "Itt található egy egyedülálló, ritka fajokat bemutató lepkemúzeum.",
+          "Az ősi Mar Challita kolostor és a régi selyemgyár a város fő látványosságai.",
+          "A helyi gazdaságot a természetturizmus és az almatermesztés hajtja."
+        ],
+        "ro": [
+          "Qobayat este cea mai mare așezare creștină maronită din guvernoratul Akkar.",
+          "Înconjurat de păduri, este punctul final nordic al Lebanon Mountain Trail.",
+          "Găzduiește un muzeu unic de fluturi, prezentând specii entomologice rare.",
+          "Vechea mănăstire Mar Challita și fabrica de mătase sunt atracții majore.",
+          "Economia locală este propulsată de ecoturism și cultivarea merelor."
+        ],
+        "en": [
+          "Qobayat is the largest Maronite Christian settlement in the Akkar Governorate.",
+          "Surrounded by forests, it is the northern terminus of the Lebanon Mountain Trail.",
+          "It houses a unique butterfly museum showcasing rare entomological species.",
+          "The ancient Mar Challita monastery and the old silk factory are major attractions.",
+          "The local economy is propelled by eco-tourism and apple cultivation."
+        ]
+      }
+    },
+    {
+      "id": "bint-jbeil-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bint Jbeil egy történelmi jelentőségű város Dél-Libanonban, a Nabatieh-kormányzóságban, alig néhány kilométerre a libanoni-izraeli határtól. A település Dél-Libanon egyik legnagyobb közigazgatási és kereskedelmi központja, lakossága túlnyomórészt síita muszlim. Történelmileg Bint Jbeil a libanoni síita tudományosság egyik fontos bázisa volt, ahonnan számos elismert teológus és gondolkodó származott. A város egy völgykatlanban fekszik, és hagyományosan a dohánytermesztésből, valamint az olívaolaj előállításából szerezte jövedelmét. A 20. és 21. századi konfliktusok, különösen a 2006-os háború során a település infrastruktúrája szinte teljesen megsemmisült, de azóta nemzetközi és diaszpóra-támogatással jelentős újjáépítésen ment keresztül. Csütörtökönként hagyományos szabadtéri piacot (souk) tartanak, amely az egész régióból vonzza a vásárlókat és a kereskedőket, bemutatva a helyi mezőgazdaság termékeit.",
+        "ro": "Bint Jbeil este un oraș de importanță istorică situat în sudul Libanului, în guvernoratul Nabatieh, la doar câțiva kilometri de granița libanezo-israeliană. Așezarea este unul dintre cele mai mari centre administrative și comerciale din sudul Libanului, având o populație predominant musulmană șiită. Din punct de vedere istoric, Bint Jbeil a fost o bază importantă a erudiției șiite libaneze, producând numeroși teologi și gânditori recunoscuți. Orașul este situat într-o depresiune și, în mod tradițional, și-a obținut veniturile din cultivarea tutunului și producția de ulei de măsline. În timpul conflictelor din secolele XX și XXI, în special în timpul războiului din 2006, infrastructura orașului a fost aproape complet distrusă, dar de atunci a suferit o reconstrucție masivă cu sprijin internațional și din partea diasporei. În fiecare joi se organizează o piață tradițională în aer liber (souk), atrăgând cumpărători și comercianți din întreaga regiune pentru a face schimb de produse agricole locale.",
+        "en": "Bint Jbeil is a town of historical significance in southern Lebanon, located within the Nabatieh Governorate just a few kilometers from the Lebanese-Israeli border. The settlement is one of the largest administrative and commercial centers in southern Lebanon, with a demographic that is predominantly Shia Muslim. Historically, Bint Jbeil has been a crucial hub of Lebanese Shia scholarship, producing numerous recognized theologians and thinkers. The town rests in a valley basin and has traditionally derived its income from tobacco farming and olive oil production. During the conflicts of the 20th and 21st centuries, particularly the 2006 war, the town's infrastructure was almost entirely obliterated, but it has since undergone extensive reconstruction funded by international aid and the diaspora. Every Thursday, a traditional open-air market (souk) is held, drawing shoppers and traders from across the region to exchange local agricultural goods."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bint Jbeil az egyik legnagyobb dél-libanoni város a határ közelében.",
+          "A libanoni síita iszlám tudományosság egyik történelmi központja volt.",
+          "Heti csütörtöki piaca az egész környező régió fő kereskedelmi eseménye.",
+          "A 2006-os háború pusztításai után nagyszabású újjáépítésen ment keresztül.",
+          "A helyi gazdaság legfőbb pillérei a dohány- és olívaolaj-termelés."
+        ],
+        "ro": [
+          "Bint Jbeil este unul dintre cele mai mari orașe din sud, aproape de graniță.",
+          "A servit drept centru istoric pentru erudiția islamică șiită din Liban.",
+          "Piața sa săptămânală de joi este un eveniment comercial major pentru regiune.",
+          "A fost reconstruit masiv după distrugerile suferite în războiul din 2006.",
+          "Baza economiei locale se sprijină pe producția de tutun și ulei de măsline."
+        ],
+        "en": [
+          "Bint Jbeil is one of the largest southern Lebanese towns near the border.",
+          "It functioned as a historic center for Lebanese Shia Islamic scholarship.",
+          "Its weekly Thursday market is the main commercial event for the region.",
+          "It underwent massive reconstruction following the destruction of the 2006 war.",
+          "The pillars of the local economy rely on tobacco and olive oil production."
+        ]
+      }
+    },
+    {
+      "id": "marjayoun-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Marjayoun (Jdeidet Marjayoun) egy magasan fekvő város Dél-Libanonban, ahonnan panorámás kilátás nyílik a Bekaa-völgyre, a Hermon-hegyre, a Golán-fennsíkra és az izraeli határra. A név jelentése a Források Rétje, ami a környék bővizű forrásaira és termékeny földjeire utal. A város építészete jól tükrözi gazdag történelmét: a kanyargós utcákon elegáns, 19. és 20. század eleji vörös tetős kővillák állnak, amelyeket egykor libanoni emigránsok építettek. Marjayoun lakossága rendkívül sokszínű, többségében görög ortodox és maronita keresztény, de jelentős drúz és muszlim közösségek is élnek a környékbeli falvakban. A történelmi erődítmények jelenléte, például a közeli Beaufort keresztes vár látványa, emlékeztet a város stratégiai fontosságára az évszázadok során. A város gazdasága egykor a kereskedelemre épült, ma azonban a környező területek extenzív mezőgazdasága (olajbogyó, szőlő, búza) tartja fenn.",
+        "ro": "Marjayoun (Jdeidet Marjayoun) este un oraș situat la altitudine în sudul Libanului, oferind vederi panoramice asupra Văii Bekaa, Muntelui Hermon, Înălțimilor Golan și graniței israeliene. Numele înseamnă Pajiștea Izvoarelor, o referire la izvoarele abundente și terenurile fertile ale regiunii. Arhitectura orașului reflectă clar istoria sa bogată: străzile șerpuite sunt mărginite de vile elegante din piatră cu acoperișuri roșii din secolul al XIX-lea și începutul secolului al XX-lea, construite cândva de emigranți libanezi. Populația orașului Marjayoun este foarte diversă, formată în principal din creștini greco-ortodocși și maroniți, dar comunități druze și musulmane semnificative trăiesc în satele din jur. Prezența fortificațiilor istorice, precum vederea Castelului cruciat Beaufort din apropiere, reamintește importanța strategică a orașului de-a lungul secolelor. Economia orașului, odată bazată pe comerț, este acum susținută de agricultura extensivă a zonelor înconjurătoare (măsline, struguri, grâu).",
+        "en": "Marjayoun (Jdeidet Marjayoun) is a high-altitude town in southern Lebanon, offering panoramic views of the Beqaa Valley, Mount Hermon, the Golan Heights, and the Israeli border. The name translates to Meadow of Springs, a reference to the region's abundant water sources and fertile lands. The architecture of the town clearly reflects its rich history: the winding streets are lined with elegant 19th and early 20th-century red-tiled stone villas, built by affluent Lebanese emigrants. The demographic makeup of Marjayoun is highly diverse, consisting primarily of Greek Orthodox and Maronite Christians, while significant Druze and Muslim communities reside in the surrounding villages. The presence of historical fortifications, such as the view of the nearby Crusader Beaufort Castle, serves as a reminder of the town's strategic importance across centuries. The local economy, once built on trade, is now sustained by the extensive agriculture of the surrounding areas, including olives, grapes, and wheat."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város neve azt jelenti: a Források Rétje, utalva a helyi vízbőségre.",
+          "Kiváló panorámát kínál a Hermon-hegyre és a Golán-fennsíkra.",
+          "Az utcákat 19. századi, hazatelepült emigránsok által épített kővillák díszítik.",
+          "A lakosság főként görög ortodox és maronita keresztény felekezetű.",
+          "A városból látható az egykor stratégiai jelentőségű Beaufort keresztes vár."
+        ],
+        "ro": [
+          "Numele orașului se traduce prin Pajiștea Izvoarelor datorită apei abundente.",
+          "Oferă o panoramă superbă asupra Muntelui Hermon și a Înălțimilor Golan.",
+          "Străzile sunt decorate cu vile din piatră din secolul XIX, construite de emigranți.",
+          "Populația aparține în principal confesiunilor greco-ortodoxe și maronite.",
+          "Din oraș poate fi văzut Castelul Beaufort, o fortăreață cruciată istorică."
+        ],
+        "en": [
+          "The town's name translates to Meadow of Springs, noting its abundant water.",
+          "It provides an excellent panoramic view of Mount Hermon and the Golan Heights.",
+          "The streets are adorned with 19th-century stone villas built by emigrants.",
+          "The population predominantly belongs to the Greek Orthodox and Maronite faiths.",
+          "The historically strategic Crusader Beaufort Castle is visible from the town."
+        ]
+      }
+    },
+    {
+      "id": "chekka-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Chekka egy jelentős tengerparti ipari város Észak-Libanonban, Batroun és Tripoli között. Bár festői partvidékkel és gyönyörű, homokos strandokkal rendelkezik, a város arculatát és gazdaságát évtizedek óta a nehézipar határozza meg. Chekka Libanon cement- és papírgyártásának központja, hatalmas ipari komplexumai, mint a Cimenterie Nationale, biztosítják az ország építőanyag-ellátásának nagy részét. Az ipari jelleg ellenére a Chekka melletti part menti vizeket sokan látogatják a Ras al-Chaqaa hegyfok alatti természetes barlangok és búvárkodásra alkalmas sziklák miatt. A település körül kiterjedt olajfaültetvények és fügefa-ligetek találhatók, amelyek kiegészítik a helyi gazdaságot. A lakosság többségét maronita és görög ortodox keresztények alkotják, és a városban több modern templom, valamint történelmi szentély, például a tengerre néző Szűz Mária-templom áll.",
+        "ro": "Chekka este un important oraș industrial de coastă din nordul Libanului, situat între Batroun și Tripoli. Deși are o coastă pitorească și plaje frumoase cu nisip, identitatea și economia orașului au fost definite de industria grea de zeci de ani. Chekka este centrul producției de ciment și hârtie din Liban; complexele sale industriale masive, cum ar fi Cimenterie Nationale, furnizează o mare parte din materialele de construcție ale țării. În ciuda naturii sale industriale, apele de coastă de lângă Chekka sunt vizitate de mulți pentru peșterile naturale de sub promontoriul Ras al-Chaqaa și stâncile potrivite pentru scufundări. Așezarea este înconjurată de plantații extinse de măslini și livezi de smochini, care suplimentează economia locală. Majoritatea populației este formată din creștini maroniți și greco-ortodocși, iar orașul are mai multe biserici moderne și sanctuare istorice, cum ar fi o Biserică a Fecioarei Maria cu vedere la mare.",
+        "en": "Chekka is a significant coastal industrial town in northern Lebanon, situated between Batroun and Tripoli. Although it features a picturesque coastline and beautiful sandy beaches, the town's identity and economy have been defined by heavy industry for decades. Chekka is the national center for cement and paper production; its massive industrial complexes, such as Cimenterie Nationale, supply a vast majority of the country's building materials. Despite its heavily industrial nature, the coastal waters near Chekka are frequently visited by divers exploring the natural caves beneath the Ras al-Chaqaa headland and the dramatic offshore cliffs. The settlement is also surrounded by extensive olive groves and fig orchards, which supplement the local economy. The demographic majority consists of Maronite and Greek Orthodox Christians, and the town features several modern churches as well as historical sanctuaries, such as a Church of the Virgin Mary overlooking the sea."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Chekka Libanon legnagyobb cement- és építőanyag-ipari központja.",
+          "A tengerparti Ras al-Chaqaa hegyfok alatti barlangok vonzzák a búvárokat.",
+          "Batroun és Tripoli között fekszik a Földközi-tenger partján.",
+          "Ipari jellege ellenére a város tengerpartja gyönyörű strandokat rejt.",
+          "A lakosság főként maronita és görög ortodox keresztényekből áll."
+        ],
+        "ro": [
+          "Chekka este cel mai mare centru de producție de ciment și materiale de construcție.",
+          "Peșterile de sub promontoriul Ras al-Chaqaa atrag numeroși scafandri.",
+          "Orașul este situat între Batroun și Tripoli, pe coasta Mării Mediterane.",
+          "În ciuda caracterului său industrial, litoralul are plaje excelente.",
+          "Populația este alcătuită preponderent din creștini maroniți și greco-ortodocși."
+        ],
+        "en": [
+          "Chekka serves as Lebanon's largest center for cement and building materials.",
+          "The sea caves beneath the Ras al-Chaqaa headland attract numerous divers.",
+          "The town is located between Batroun and Tripoli on the Mediterranean coast.",
+          "Despite its heavy industrial footprint, the coastline conceals excellent beaches.",
+          "The local population predominantly consists of Maronite and Greek Orthodox Christians."
+        ]
+      }
+    }
+  ]
+}

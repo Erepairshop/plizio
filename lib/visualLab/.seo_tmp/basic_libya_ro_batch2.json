@@ -1,0 +1,19 @@
+{
+  "lang": "ro",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "jebel-tarhuna-nature-v2", "description": "Jebel Tarhuna este o regiune de dealuri situată la sud-est de Tripoli, cunoscută pentru plantațiile sale de măslini.", "facts": ["Sud-est de Tripoli", "Plantații măslini", "Zonă de deal"] },
+    { "id": "jebel-aswad-relief-v2", "description": "Jebel Aswad este un masiv muntos de origine vulcanică situat în regiunea de sud-est a Libiei.", "facts": ["Masiv vulcanic", "Sud-estul Libiei", "Relief înalt"] },
+    { "id": "wadi-al-ajal-relief-v2", "description": "Wadi al-Ajal este o vale istorică lungă situată în regiunea Fezzan, mărginită de dunele de nisip ale Erg-ului Ubari.", "facts": ["Valea Fezzan", "Marginea deșertului", "Situri arheologice"] },
+    { "id": "wadi-al-farigh-relief-v2", "description": "Wadi al-Farigh este o depresiune majoră situată în deșertul din estul Libiei, jucând un rol important în geologia regiunii.", "facts": ["Depresiune majoră", "Deșertul de est", "Relief arid"] },
+    { "id": "sarir-tanezrouft-relief-v2", "description": "Sarir Tanezrouft este un vast platou de deșert caracterizat prin suprafețe plate și lipsa aproape totală a vegetației.", "facts": ["Platou de deșert", "Suprafață plană", "Fără vegetație"] },
+    { "id": "gaberoun-lake-relief-v2", "description": "Lacul Gaberoun este o oază spectaculoasă cu apă sărată situată în inima dunelor de nisip din Erg-ul Ubari.", "facts": ["Lac sărat", "Oază în dune", "Erg Ubari"] },
+    { "id": "mandara-lakes-relief-v2", "description": "Lacurile Mandara sunt o serie de lacuri de oază situate în deșertul libian, renumite pentru frumusețea lor contrastantă.", "facts": ["Lacuri de oază", "Deșertul libian", "Peisaj pitoresc"] },
+    { "id": "sirtica-desert-relief-v2", "description": "Deșertul Sirtica este regiunea aridă care se întinde de-a lungul Golfului Sidra, conectând estul și vestul Libiei.", "facts": ["Golful Sidra", "Legătură est-vest", "Zonă deșertică"] },
+    { "id": "gargaf-desert-relief-v2", "description": "Relieful deșertului Gargaf este compus din platouri înalte și văi secate, reprezentând un peisaj tipic de 'hamada'.", "facts": ["Relief de hamada", "Platouri înalte", "Văi secate"] }
+  ]
+}

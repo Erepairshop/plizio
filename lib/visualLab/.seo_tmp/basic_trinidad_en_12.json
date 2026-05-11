@@ -1,0 +1,49 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-toco-cliffside-relief-v2",
+      "description": "The cliffs of Toco present a rugged and scenic shoreline, marking the dramatic northern tip of the island.",
+      "facts": ["Rugged coastal cliffs", "Scenic northern tip", "Dramatic shoreline topography"]
+    },
+    {
+      "id": "tt-manzanilla-beach-ridges-relief-v2",
+      "description": "The beach ridges of Manzanilla create a unique coastal relief, separating the expansive beaches from the interior forests.",
+      "facts": ["Unique coastal ridges", "Separates beach and forest", "East coast topography"]
+    },
+    {
+      "id": "tt-valencia-plateau-relief-v2",
+      "description": "The Valencia Plateau is a broad, elevated landscape providing a distinct relief feature in the northeastern interior.",
+      "facts": ["Broad elevated plateau", "Northeastern interior", "Distinctive terrain feature"]
+    },
+    {
+      "id": "tt-sangre-grande-hills-relief-v2",
+      "description": "The hills surrounding Sangre Grande form part of the diverse and undulating topography of northeastern Trinidad.",
+      "facts": ["Undulating hilly landscape", "Northeastern region", "Diverse interior terrain"]
+    },
+    {
+      "id": "tt-mayaro-coast-lowlands-relief-v2",
+      "description": "The Mayaro lowlands encompass wide, flat coastal areas that define the southeastern geography of the island.",
+      "facts": ["Wide flat lowlands", "Southeastern coastal geography", "Flat terrain"]
+    },
+    {
+      "id": "tt-brasso-valleys-relief-v2",
+      "description": "The valleys of Brasso are characterized by their gentle relief and fertile soil, nestled in the central hills of Trinidad.",
+      "facts": ["Fertile central valleys", "Gentle relief landscape", "Central hill country"]
+    },
+    {
+      "id": "tt-matelot-rugged-coast-relief-v2",
+      "description": "The rugged coast of Matelot is known for its steep, dramatic relief and pristine, untamed beauty in the far north.",
+      "facts": ["Steep dramatic coast", "Untamed northern scenery", "Rugged island relief"]
+    },
+    {
+      "id": "tt-tabaquite-hills-relief-v2",
+      "description": "The hills of Tabaquite form a hilly interior region, contributing to the undulating and varied topography of central Trinidad.",
+      "facts": ["Hilly interior region", "Central island topography", "Undulating terrain"]
+    }
+  ]
+}

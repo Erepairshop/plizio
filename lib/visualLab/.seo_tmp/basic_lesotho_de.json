@@ -1,0 +1,84 @@
+{
+  "lang": "de",
+  "country": "Lesotho",
+  "files": [
+    "lib/visualLab/data/poiExtraLesothoCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mohales-hoek-cities-v2",
+      "description": "Mohale's Hoek liegt im Südwesten Lesothos und ist das Verwaltungszentrum des gleichnamigen Distrikts. Die Stadt ist ein wichtiger Knotenpunkt für den Handel in der Region.",
+      "facts": ["Distrikthauptstadt", "Region Südwesten", "Handelszentrum", "Höhenlage ca. 1500m"]
+    },
+    {
+      "id": "qachas-nek-cities-v2",
+      "description": "Qacha's Nek ist eine Grenzstadt im Osten Lesothos nahe der südafrikanischen Grenze. Sie dient als Ausgangspunkt für Entdeckungstouren in die umliegenden Drakensberge.",
+      "facts": ["Grenzstadt", "Nähe Drakensberge", "Ostlesotho", "Strategische Lage"]
+    },
+    {
+      "id": "peka-cities-v2",
+      "description": "Peka ist eine kleine Ortschaft im Norden von Lesotho nahe der Grenze zu Südafrika. Der Ort ist landwirtschaftlich geprägt.",
+      "facts": ["Nordlesotho", "Grenzlage", "Landwirtschaft", "Kleinstadt"]
+    },
+    {
+      "id": "tsakholo-cities-v2",
+      "description": "Tsakholo ist eine Siedlung im Distrikt Mafeteng im Westen von Lesotho. Sie ist vor allem für ihre ruhige, ländliche Umgebung bekannt.",
+      "facts": ["Distrikt Mafeteng", "Westlesotho", "Ländlich", "Ruhiger Charakter"]
+    },
+    {
+      "id": "makhonoane-cities-v2",
+      "description": "Makhonoane ist ein Ort im Norden Lesothos. Die Gemeinde liegt in einer bergigen Region, die für traditionelle Lebensweisen bekannt ist.",
+      "facts": ["Nordregion", "Berglandschaft", "Traditionell", "Gemeindezentrum"]
+    },
+    {
+      "id": "mphaki-cities-v2",
+      "description": "Mphaki liegt im Süden Lesothos in den Quthing-Bergen. Der Ort ist abgelegen und bietet einen tiefen Einblick in das Leben in den Hochlandregionen.",
+      "facts": ["Südregion", "Quthing-Berge", "Abgelegen", "Hochlandkultur"]
+    },
+    {
+      "id": "sekake-cities-v2",
+      "description": "Sekake liegt im Distrikt Qacha's Nek. Der Ort ist ein typisches Beispiel für die Siedlungsstruktur im rauen östlichen Hochland Lesothos.",
+      "facts": ["Distrikt Qacha's Nek", "Osthochland", "Siedlungsstruktur", "Bergregion"]
+    },
+    {
+      "id": "ha-lejone-cities-v2",
+      "description": "Ha Lejone ist bekannt für die Nähe zum Katse-Staudamm-Projekt. Die Infrastruktur der Region hat sich durch den Bau massiv verändert.",
+      "facts": ["Nähe Katse-Damm", "Infrastrukturwandel", "Bergregion", "Entwicklungsstandort"]
+    },
+    {
+      "id": "katse-cities-v2",
+      "description": "Katse ist eng mit dem Katse-Staudamm verbunden, dem größten Wasserprojekt Lesothos. Es zieht Besucher wegen des gigantischen Bauwerks an.",
+      "facts": ["Größter Staudamm", "Wasserprojekt", "Tourismus", "Maloti-Berge"]
+    },
+    {
+      "id": "thaba-bosiu-cities-v2",
+      "description": "Thaba Bosiu ist ein historisch bedeutender Tafelberg und die frühere Festung von König Moshoeshoe I. Er gilt als spirituelle Wiege der Nation.",
+      "facts": ["Tafelberg", "Königssitz", "Nationales Denkmal", "Kulturelles Zentrum"]
+    },
+    {
+      "id": "saint-michaels-cities-v2",
+      "description": "Saint Michaels ist eine kleinere Siedlung unweit der Hauptstadt Maseru. Sie dient oft als Wohnvorort für Pendler.",
+      "facts": ["Nahe Maseru", "Wohnort", "Pendlerregion", "Gute Anbindung"]
+    },
+    {
+      "id": "khabos-cities-v2",
+      "description": "Khabos liegt im Norden Lesothos. Der Ort ist durch seine ländliche Ausprägung und die hügelige Umgebung charakterisiert.",
+      "facts": ["Nordregion", "Ländlich", "Hügelig", "Gemeinschaftssitz"]
+    },
+    {
+      "id": "maphutseng-cities-v2",
+      "description": "Maphutseng ist eine kleine Gemeinde im Westen Lesothos. Der Ort ist für seine historischen Missionstationen bekannt.",
+      "facts": ["Westregion", "Missionsstation", "Historisch", "Ländlich geprägt"]
+    },
+    {
+      "id": "alwynskop-cities-v2",
+      "description": "Alwynskop ist eine Siedlung im Süden Lesothos im Distrikt Mohale's Hoek. Die Region ist von trockenen Hängen und Tälern gezeichnet.",
+      "facts": ["Distrikt Mohale's Hoek", "Südlesotho", "Trockene Region", "Ländlich"]
+    },
+    {
+      "id": "letseng-la-terae-cities-v2",
+      "description": "Letseng-la-Terae ist für die nahegelegene Diamantenmine berühmt, eine der höchstgelegenen der Welt. Die Umgebung ist extrem rau und kalt.",
+      "facts": ["Diamantenbergbau", "Weltweit höchste Mine", "Raues Klima", "Hochland"]
+    }
+  ]
+}

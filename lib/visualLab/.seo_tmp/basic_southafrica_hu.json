@@ -1,0 +1,49 @@
+{
+  "lang": "hu",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lowveld-relief-v2",
+      "description": "Alacsonyan fekvő, termékeny síkság, amely híres vadvilágáról és nemzeti parkjairól. A terület jellegzetes szavannai tájképet mutat.",
+      "facts": ["Alacsonyan fekvő síkság", "Híres vadvilág", "Szavannai táj", "Kruger Nemzeti Park"]
+    },
+    {
+      "id": "winterberg-relief-v2",
+      "description": "Hegylánc, amely a Kelet-Fok tartomány változatos domborzatának része. A területen gyakoriak a csapadékosabb, hűvösebb hegyi klímájú szakaszok.",
+      "facts": ["Hegylánc", "Kelet-Fok tartomány", "Változatos domborzat", "Hűvösebb hegyi klíma"]
+    },
+    {
+      "id": "amathole-relief-v2",
+      "description": "Hegység, amely sűrű erdeiről és festői vízeséseiről ismert. Fontos történelmi események helyszíne a régióban.",
+      "facts": ["Hegység", "Sűrű erdők", "Festői vízesések", "Történelmi régió"]
+    },
+    {
+      "id": "kharras-relief-v2",
+      "description": "Száraz, sziklás dombvidék, amely a szárazabb tájak jellegzetes képviselője. Növényzete az alkalmazkodott fajokra épül.",
+      "facts": ["Sziklás dombvidék", "Száraz éghajlat", "Egyedi növényzet", "Dél-afrikai táj"]
+    },
+    {
+      "id": "komsberg-relief-v2",
+      "description": "Különleges geomorfológiai adottságokkal rendelkező hegyvidéki terület. A régió kopárabb, de geológiailag érdekes tájképet mutat.",
+      "facts": ["Hegyvidéki terület", "Geológiai érdekesség", "Kopár tájkép", "Száraz régió"]
+    },
+    {
+      "id": "rooge-relief-v2",
+      "description": "Szárazföldi régió, melynek domborzata a környező félsivatagi területek hatását tükrözi. Az alacsony növényzetű területek dominálnak.",
+      "facts": ["Szárazföldi régió", "Félsivatagi hatás", "Alacsony növényzet", "Dél-afrikai táj"]
+    },
+    {
+      "id": "kogelberg-relief-v2",
+      "description": "Hegylánc, amely gazdag élővilágáról és kiemelkedő természeti szépségéről ismert a Fokföldön. A hegycsúcsok látványa lenyűgöző.",
+      "facts": ["Hegylánc", "Fokföldi régió", "Gazdag élővilág", "Természeti szépség"]
+    },
+    {
+      "id": "blouberg-relief-v2",
+      "description": "Tengerparti hegyvidék, amelyről híres kilátás nyílik a Table Mountain-re és az öbölre. A terület sziklái népszerűek a fotózáshoz.",
+      "facts": ["Tengerparti hegyvidék", "Kilátás a hegyre", "Népszerű fotóhelyszín", "Fokföld"]
+    }
+  ]
+}

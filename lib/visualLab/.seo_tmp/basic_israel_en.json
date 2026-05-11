@@ -1,0 +1,130 @@
+{
+  "lang": "en",
+  "country": "Israel",
+  "files": [
+    "lib/visualLab/data/poiExtraIsraelLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIsraelNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dome-of-the-rock-landmarks-v2",
+      "description": "An iconic Islamic shrine located on the Temple Mount in the Old City of Jerusalem, featuring a distinctive golden dome.",
+      "facts": [
+        "Completed in 691 CE",
+        "Oldest extant Islamic monument",
+        "Located on the Temple Mount",
+        "Features intricate mosaic tilework"
+      ]
+    },
+    {
+      "id": "basilica-of-annunciation-landmarks-v2",
+      "description": "A major Catholic church in Nazareth built over the site traditionally believed to be the home of the Virgin Mary.",
+      "facts": [
+        "Located in central Nazareth",
+        "Completed in 1969",
+        "Largest Christian sanctuary in the Middle East",
+        "Designed by architect Giovanni Muzio"
+      ]
+    },
+    {
+      "id": "al-aqsa-mosque-landmarks-v2",
+      "description": "The third holiest site in Islam, this mosque is part of the Al-Aqsa compound in the Old City of Jerusalem.",
+      "facts": [
+        "Accommodates up to 5,000 worshippers",
+        "Originally built in the 8th century",
+        "Located on the southern side of the Temple Mount",
+        "Part of the UNESCO World Heritage site"
+      ]
+    },
+    {
+      "id": "yad-vashem-landmarks-v2",
+      "description": "Israel's official memorial to the victims of the Holocaust, dedicated to preserving the memory of the six million Jews murdered.",
+      "facts": [
+        "Established in 1953",
+        "Located on the Mount of Remembrance",
+        "Includes the Hall of Names",
+        "Houses the world's largest Holocaust archive"
+      ]
+    },
+    {
+      "id": "timna-park-landmarks-v2",
+      "description": "A large park in the Negev Desert known for its striking geological formations and ancient copper mines.",
+      "facts": [
+        "Home to Solomon's Pillars",
+        "Site of the world's first copper mine",
+        "Covers about 15,000 acres",
+        "Features an Egyptian temple to Hathor"
+      ]
+    },
+    {
+      "id": "underwater-observatory-eilat-landmarks-v2",
+      "description": "A unique marine park in Eilat that allows visitors to observe the Red Sea's coral reefs from a submerged tower.",
+      "facts": [
+        "Located at the Coral Beach Nature Reserve",
+        "Observatory sits 6 meters below sea level",
+        "Features over 800 species of fish",
+        "First underwater observatory in the world"
+      ]
+    },
+    {
+      "id": "mount-zion-landmarks-v2",
+      "description": "A historic hill located just outside the walls of the Old City of Jerusalem, home to several important religious sites.",
+      "facts": [
+        "Site of the Room of the Last Supper",
+        "Location of King David's Tomb",
+        "Home to the Dormition Abbey",
+        "Highest point in ancient Jerusalem"
+      ]
+    },
+    {
+      "id": "makhtesh-ramon-landmarks-v2",
+      "description": "The world's largest erosion crater, located in the Negev Desert and offering spectacular desert landscapes.",
+      "facts": [
+        "Measures 40 km long and up to 10 km wide",
+        "Forms part of the Ramon Nature Reserve",
+        "Geological window into ancient rock layers",
+        "Maximum depth of 500 meters"
+      ]
+    },
+    {
+      "id": "beit-guvrin-caves-landmarks-v2",
+      "description": "A national park featuring thousands of man-made caves, including the famous bell-shaped caverns used since antiquity.",
+      "facts": [
+        "UNESCO World Heritage site",
+        "Contains the ruins of ancient Maresha",
+        "Known as the land of a thousand caves",
+        "Includes a well-preserved Roman amphitheater"
+      ]
+    },
+    {
+      "id": "il-jordan-river-nature-v2",
+      "description": "A culturally and religiously significant river that flows through the Jordan Rift Valley into the Dead Sea.",
+      "facts": [
+        "Length of approximately 251 kilometers",
+        "Forms the border with Jordan",
+        "Primary water source for the Sea of Galilee",
+        "Lowest river in the world"
+      ]
+    },
+    {
+      "id": "il-ein-gedi-nature-v2",
+      "description": "An oasis and nature reserve on the western shore of the Dead Sea, famous for its waterfalls and diverse wildlife.",
+      "facts": [
+        "Largest oasis along the Dead Sea",
+        "Features the David Waterfall",
+        "Home to herds of Nubian ibex",
+        "Mentioned several times in the Bible"
+      ]
+    },
+    {
+      "id": "il-yehudiya-forest-nature-v2",
+      "description": "A nature reserve in the Golan Heights characterized by deep basalt canyons, streams, and natural swimming pools.",
+      "facts": [
+        "Home to the Yehudiya and Zavitan streams",
+        "Features the 20-meter Yehudiya Waterfall",
+        "Popular for canyoning and hiking",
+        "Contains diverse Mediterranean flora"
+      ]
+    }
+  ]
+}

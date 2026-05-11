@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gabu-plateau-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gabú-Plateau im Osten Guinea-Bissaus ist eine der ausgedehntesten und geologisch stabilsten Hochebenen des Landes. Dieses Relief markiert den Übergang von den feuchten Küstenniederungen zu den trockeneren Savannengebieten Westafrikas. Die durchschnittliche Höhe liegt zwischen 50 und 100 Metern über dem Meeresspiegel, wobei das Gelände durch eine sanft gewellte Topografie und massive Lateritformationen geprägt ist. Geomorphologisch handelt es sich um eine uralte Erosionsfläche, auf der sich über Jahrmillionen eine harte Eisenkruste gebildet hat. Diese Kruste beeinflusst die Landwirtschaft massiv, da sie das Eindringen von Wasser erschwert, aber gleichzeitig die Grundlage für die charakteristische Baumsavanne bildet. Das Relief des Plateaus ist von zahlreichen kleinen Tälern durchzogen, die in der Regenzeit Wasser führen und in den Rio Geba oder den Rio Corubal entwässern. Die rötliche Farbe des Bodens, ein Resultat der intensiven Oxidation, verleiht der Region Gabú ihr unverwechselbares Aussehen. Für die Infrastruktur bietet das flache Relief des Plateaus ideale Bedingungen für den Bau von Fernstraßen und Flugpisten, was Gabú zu einem logistischen Drehkreuz für den Handel mit den Nachbarstaaten Guinea und Senegal gemacht hat.",
+        "hu": "A Guinea-Bissau keleti részén elterülő Gabú-fennsík az ország egyik legnagyobb kiterjedésű és geológiailag legstabilabb magaslati területe. Ez a domborzati egység jelzi az átmenetet a nedves tengerparti síkságok és Nyugat-Afrika szárazabb szavannái között. Az átlagos magasság 50 és 100 méter között mozog a tengerszint felett, a tájat pedig enyhén hullámos felszín és tömör lateritképződmények jellemzik. Geomorfológiailag ez egy ősi eróziós felszín, amelyen az évmilliók során kemény vas-oxid kéreg alakult ki. Ez a kéreg alapjaiban határozza meg a mezőgazdaságot, mivel megnehezíti a víz beszivárgását, ugyanakkor stabil alapot nyújt a jellegzetes fás szavanna növényzetének. A fennsík felszínét számos kisebb völgy tagolja, amelyek az esős évszakban vizet szállítanak a Geba vagy a Corubal folyók irányába. A talaj jellegzetes vöröses színe, amely az intenzív oxidáció eredménye, adja meg a Gabú régiónak az összetéveszthetetlen karakterét. Az infrastruktúra szempontjából a fennsík sík domborzata ideális feltételeket biztosít az országút- és kifutópálya-építéshez, ami Gabút a Guinea és Szenegál felé irányuló kereskedelem logisztikai központjává tette.",
+        "ro": "Platoul Gabú din estul Guineei-Bissau este una dintre cele mai extinse și stabile unități geologice de relief din țară. Acest relief marchează tranziția de la depresiunile de coastă umede către zonele de savană mai uscate ale Africii de Vest. Altitudinea medie variază între 50 și 100 de metri deasupra nivelului mării, terenul fiind caracterizat printr-o topografie ușor ondulată și formațiuni masive de laterit. Din punct de vedere geomorfologic, este o suprafață de eroziune străveche pe care s-a format, de-a lungul milioanelor de ani, o crustă dură de fier. Această crustă influențează masiv agricultura, deoarece îngreunează infiltrarea apei, dar constituie în același timp baza pentru savana arboricolă caracteristică. Relieful platoului este străbătut de numeroase văi mici care transportă apă în sezonul ploios către râurile Geba sau Corubal. Culoarea roșiatică a solului, rezultatul oxidării intense, conferă regiunii Gabú aspectul său inconfundabil. Pentru infrastructură, relieful plan al platoului oferă condiții ideale pentru construcția de drumuri naționale și piste de aterizare, transformând Gabú într-un nod logistic pentru comerțul cu statele vecine Guineea și Senegal.",
+        "en": "The Gabú Plateau in eastern Guinea-Bissau is one of the country's most extensive and geologically stable upland areas. This relief feature marks the transition from the humid coastal lowlands to the drier savanna regions of West Africa. The average elevation ranges between 50 and 100 meters above sea level, with the terrain characterized by a gently undulating topography and massive laterite formations. Geomorphologically, it is an ancient erosional surface where a hard iron crust has developed over millions of years. This crust significantly influences agriculture as it hinders water infiltration, yet it provides the foundation for the characteristic wooded savanna. The plateau's relief is dissected by numerous small valleys that carry water during the rainy season, draining into the Geba or Corubal rivers. The soil's distinct reddish hue, a result of intense oxidation, gives the Gabú region its unmistakable appearance. For infrastructure, the plateau's flat relief provides ideal conditions for building highways and airstrips, establishing Gabú as a primary logistical hub for trade with neighboring Guinea and Senegal."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Plateau ist das trockenste Reliefgebiet in Guinea-Bissau.",
+          "Geologisch gehört es zum stabilen afrikanischen Kraton.",
+          "Lateritkrusten erreichen hier Dicken von mehreren Metern.",
+          "Das Relief begünstigt die Entstehung von weiten Weideflächen für Rinder.",
+          "Gabú ist das am weitesten vom Meer entfernte Reliefzentrum des Landes.",
+          "In den Senken des Plateaus sammeln sich oft temporäre Wasserreservoirs."
+        ],
+        "hu": [
+          "A fennsík Guinea-Bissau legszárazabb domborzati egysége.",
+          "Geológiailag a stabil afrikai kratonhoz (ősmasszívumhoz) tartozik.",
+          "A lateritkéreg vastagsága helyenként a több métert is eléri.",
+          "A domborzat kedvez a kiterjedt szarvasmarha-legeltetés kialakulásának.",
+          "Gabú az országnak a tengertől legtávolabb eső domborzati központja.",
+          "A fennsík mélyedéseiben gyakran alakulnak ki ideiglenes víztározók."
+        ],
+        "ro": [
+          "Platoul este cea mai aridă unitate de relief din Guineea-Bissau.",
+          "Din punct de vedere geologic, aparține cratonului african stabil.",
+          "Crustele de laterit ating aici grosimi de câțiva metri.",
+          "Relieful favorizează apariția unor pășuni vaste pentru vite.",
+          "Gabú este centrul de relief cel mai îndepărtat de mare din țară.",
+          "În depresiunile platoului se acumulează adesea rezervoare temporare de apă."
+        ],
+        "en": [
+          "The plateau is the most arid relief region in Guinea-Bissau.",
+          "Geologically, it belongs to the stable African craton.",
+          "Laterite crusts here can reach thicknesses of several meters.",
+          "The relief facilitates the development of extensive cattle grazing lands.",
+          "Gabú is the country's most inland relief center, furthest from the coast.",
+          "Temporary water reservoirs often collect in the plateau's natural depressions."
+        ]
+      }
+    },
+    {
+      "id": "tombali-rainforest-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Relief des Tombali-Regenwaldes im tiefen Süden Guinea-Bissaus ist ein komplexes System aus küstennahen Niederungen und sanft ansteigenden Waldrücken. Dieses Gebiet ist geomorphologisch durch eine extrem hohe Feuchtigkeit und eine dichte hydrologische Vernetzung geprägt. Das Relief liegt größtenteils knapp über dem Meeresspiegel und ist durchzogen von einem Labyrinth aus Gezeitenkanälen und kleinen Flüssen, die tief in die weichen Sedimentböden einschneiden. Unter dem dichten Blätterdach verbirgt sich eine Topografie aus sumpfigen Senken und isolierten festen Erhebungen, auf denen die gigantischen Bäume des Primärwaldes wurzeln. Die Bodenbeschaffenheit ist durch humose, wassergesättigte Substrate gekennzeichnet, die im starken Kontrast zu den trockenen Plateaus des Nordens stehen. Das Relief wirkt hier als natürlicher Schwamm, der die massiven Niederschläge der Monsunzeit speichert und langsam abgibt. Diese topografische Beschaffenheit ist entscheidend für den Erhalt des Mikroklimas, das das Wachstum des Regenwaldes erst ermöglicht. Für die Tierwelt bieten die unterschiedlichen Höhenlagen innerhalb des Waldes – von den flachen Mangrovensäumen bis zu den höheren Waldrücken – eine Vielzahl von ökologischen Nischen.",
+        "hu": "A Guinea-Bissau déli részén található Tombali-esőerdő domborzata part menti mélyföldek és enyhén emelkedő erdőhátak összetett rendszere. Ezt a területet geomorfológiailag a rendkívül magas páratartalom és a sűrű vízrajzi hálózat jellemzi. A domborzat nagy része alig emelkedik a tengerszint fölé, és árapály-csatornák, valamint kis folyók labirintusa szövi át, amelyek mélyen bevágódnak a puha üledékes talajba. A dús lombkorona alatt mocsaras mélyedések és elszigetelt szilárd magaslatok rejtőznek, amelyeken az őserdő óriásfái gyökereznek. A talajszerkezetet humuszos, vízzel telített szubsztrátumok határozzák meg, amelyek éles kontrasztban állnak az északi rész száraz fennsíkjaival. A domborzat itt természetes szivacsként működik, amely felszívja a monszunidőszak hatalmas csapadékmennyiségét, majd lassan engedi szabadon. Ez a topográfiai felépítés döntő fontosságú a mikroklíma fenntartásához, amely egyáltalán lehetővé teszi az esőerdő növekedését. Az állatvilág számára az erdőn belüli különböző magassági szintek – a lapos mangrove-szegélyektől a magasabb erdőhátakig – számos ökológiai fülkét kínálnak.",
+        "ro": "Relieful pădurii tropicale Tombali din sudul extrem al Guineei-Bissau este un sistem complex de zone joase de coastă și creste forestiere care urcă ușor. Această zonă este caracterizată geomorfologic printr-o umiditate extrem de ridicată și o rețea hidrologică densă. Relieful se află în mare parte chiar deasupra nivelului mării și este străbătut de un labirint de canale de maree și râuri mici care pătrund adânc în solurile sedimentare moi. Sub coronamentul dens se ascunde o topografie formată din depresiuni mlăștinoase și ridicături ferme izolate, pe care prind rădăcini arborii giganți ai pădurii primare. Compoziția solului este marcată de substraturi humoase, saturate cu apă, care stau în contrast puternic cu platourile aride din nord. Relieful acționează aici ca un burete natural care stochează precipitațiile masive din timpul sezonului musonic și le eliberează lent. Această configurație topografică este crucială pentru menținerea microclimatului care permite creșterea pădurii tropicale. Pentru fauna sălbatică, diferitele cote de altitudine din cadrul pădurii – de la marginile plate de mangrove până la crestele forestiere mai înalte – oferă o multitudine de nișe ecologice.",
+        "en": "The relief of the Tombali rainforest in deep southern Guinea-Bissau is a complex system of coastal lowlands and gently rising forested ridges. This region is geomorphologically defined by extremely high humidity and a dense hydrological network. Most of the relief sits just above sea level and is crisscrossed by a labyrinth of tidal channels and small rivers that cut deeply into the soft sedimentary soils. Beneath the dense canopy lies a topography of marshy depressions and isolated firm elevations where the giant trees of the primary forest take root. The soil composition features humic, water-saturated substrates that stand in sharp contrast to the dry plateaus of the north. The relief here acts as a natural sponge, absorbing massive monsoon rainfall and releasing it slowly. This topographical structure is essential for maintaining the microclimate that enables the rainforest's growth. For wildlife, the varying elevations within the forest—from the flat mangrove fringes to the higher forested ridges—provide a multitude of ecological niches."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Relief ist durch die höchste Erosionsrate durch Regenwasser im Land geprägt.",
+          "Die Bodenoberfläche bleibt aufgrund des dichten Waldschutzes fast ganzjährig feucht.",
+          "Kleine Höhenunterschiede entscheiden über die Vegetation: Mangrove oder Regenwald.",
+          "Die Sedimente im Tombali-Relief sind geologisch jung und instabil.",
+          "Das Relief dämpft die Auswirkungen von Sturmfluten auf das Binnenland.",
+          "Es gibt hier keine massiven Gesteinsformationen an der Oberfläche."
+        ],
+        "hu": [
+          "A domborzatot az ország legnagyobb mértékű esővíz okozta eróziója alakítja.",
+          "A talajfelszín a sűrű erdővédelem miatt szinte egész évben nedves marad.",
+          "Csekély magasságkülönbségek döntik el a növényzetet: mangrove vagy esőerdő.",
+          "A Tombali-domborzat üledékei geológiailag fiatalok és instabilak.",
+          "A domborzat tompítja a vihardagályok hatását a szárazföld belseje felé.",
+          "A felszínen nincsenek tömör kőzetformációk, csak puha üledék."
+        ],
+        "ro": [
+          "Relieful este modelat de cea mai ridicată rată de eroziune pluvială din țară.",
+          "Suprafața solului rămâne umedă aproape tot anul datorită protecției pădurii.",
+          "Diferențele mici de altitudine decid vegetația: mangrove sau pădure tropicală.",
+          "Sedimentele din relieful Tombali sunt geologic tinere și instabile.",
+          "Relieful atenuează impactul valurilor de furtună asupra interiorului continentului.",
+          "Nu există formațiuni stâncoase masive vizibile la suprafață aici."
+        ],
+        "en": [
+          "The relief is shaped by the highest rainwater erosion rates in the country.",
+          "The soil surface remains moist nearly year-round due to the dense forest cover.",
+          "Minute elevation changes determine the vegetation: mangrove or rainforest.",
+          "The sediments in the Tombali relief are geologically young and unstable.",
+          "The topography buffers the inland from the impact of coastal storm surges.",
+          "There are no massive rock formations exposed at the surface in this region."
+        ]
+      }
+    },
+    {
+      "id": "cacheu-plain-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Die Cacheu-Ebene im Norden Guinea-Bissaus ist ein klassisches Beispiel für ein marines und fluviales Akkumulationsrelief. Diese ausgedehnte Tiefebene wird fast vollständig durch die Ablagerungen des Rio Cacheu und die Einflüsse des Atlantiks geformt. Die Topografie ist extrem flach, wobei weite Teile des Reliefs bei Flut unter Wasser stehen oder durch ein System von Deichen geschützt werden müssen. Geomorphologisch gesehen besteht die Ebene aus feinkörnigen Alluvialböden und marinen Tonen, die eine hohe Fruchtbarkeit aufweisen, aber anfällig für Versalzung sind. Das Relief ist durch ein Netz von natürlichen Entwässerungsrinnen und künstlichen Kanälen gegliedert, die für den Reisanbau in den 'Bolonhas' essenziell sind. Die Cacheu-Ebene fungiert als riesiger Puffer zwischen dem offenen Meer und den landeinwärts gelegenen Plateaus. Charakteristisch sind die weiten Horizonte, die nur durch isolierte Mangrovengruppen oder vereinzelte Palmen unterbrochen werden. Dieses Relief dokumentiert den ständigen Kampf zwischen Landgewinnung und Meereserosion und ist das ökonomische Herz der nördlichen Küstenregion.",
+        "hu": "A Guinea-Bissau északi részén található Cacheu-síkság a tengeri és folyami felhalmozódási domborzat klasszikus példája. Ezt a kiterjedt alföldet szinte teljes egészében a Cacheu-folyó hordaléka és az Atlanti-óceán hatásai formálták. A topográfia rendkívül sík, a domborzat nagy része dagálykor víz alá kerülne, ha nem védené gátrendszer. Geomorfológiai szempontból a síkság finomszemcsés hordalékos talajokból és tengeri agyagból áll, amelyek igen termékenyek, de hajlamosak az elsózódásra. A domborzatot természetes vízelvezető árkok és mesterséges csatornák hálózata tagolja, amelyek nélkülözhetetlenek a „bolonhákban” folyó rizstermesztéshez. A Cacheu-síkság óriási pufferzónaként működik a nyílt tenger és a beljebb fekvő fennsíkok között. Jellemzőek a tágas horizontok, amelyeket csak elszigetelt mangrovecsoportok vagy magányos pálmák szakítanak meg. Ez a domborzat a földnyerés és a tengeri erózió közötti állandó küzdelmet dokumentálja, és az északi partvidék gazdasági szíve.",
+        "ro": "Câmpia Cacheu din nordul Guineei-Bissau este un exemplu clasic de relief de acumulare marină și fluvială. Această câmpie joasă extinsă este modelată aproape în întregime de depunerile râului Cacheu și de influențele Atlanticului. Topografia este extrem de plană, mari părți ale reliefului fiind inundate la flux sau trebuind protejate printr-un sistem de diguri. Din punct de vedere geomorfologic, câmpia constă din soluri aluvionare cu granulație fină și argile marine, care prezintă o fertilitate ridicată, dar sunt vulnerabile la salinizare. Relieful este structurat printr-o rețea de rigole naturale de drenaj și canale artificiale, esențiale pentru cultivarea orezului în 'bolonhas'. Câmpia Cacheu funcționează ca un tampon imens între marea deschisă și platourile situate spre interiorul țării. Caracteristice sunt orizonturile largi, întrerupte doar de grupuri izolate de mangrove sau palmieri răzleți. Acest relief documentează lupta constantă între câștigarea de teren și eroziunea marină, fiind inima economică a regiunii de coastă din nord.",
+        "en": "The Cacheu Plain in northern Guinea-Bissau is a classic example of a marine and fluvial accumulation relief. This extensive lowland is almost entirely shaped by the deposits of the Cacheu River and the influences of the Atlantic. The topography is extremely flat, with large parts of the relief flooded at high tide or requiring protection through a system of dikes. Geomorphologically, the plain consists of fine-grained alluvial soils and marine clays, which are highly fertile but susceptible to salinization. The relief is structured by a network of natural drainage channels and artificial canals, essential for rice cultivation in the 'bolonhas'. The Cacheu Plain functions as a vast buffer between the open sea and the inland plateaus. Characteristic are the wide horizons, broken only by isolated mangrove clusters or scattered palm trees. This relief documents the constant struggle between land reclamation and marine erosion and is the economic heart of the northern coastal region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Ebene liegt im Durchschnitt weniger als 5 Meter über dem Meeresspiegel.",
+          "Das Relief wurde durch den Rückzug des Meeres in den letzten 10.000 Jahren geformt.",
+          "Gezeitenströmungen dringen tief in das Relief der Ebene ein.",
+          "Die Bodenbeschaffenheit ermöglicht den großflächigen mechanisierten Reisanbau.",
+          "Das Relief ist durch eine hohe Konzentration von Salzpfannen in Küstennähe geprägt.",
+          "Die Cacheu-Ebene ist eines der geologisch jüngsten Gebiete des Landes."
+        ],
+        "hu": [
+          "A síkság átlagosan kevesebb mint 5 méterrel fekszik a tengerszint felett.",
+          "A domborzatot a tenger visszahúzódása formálta az elmúlt 10 000 évben.",
+          "Az árapály-áramlatok mélyen benyúlnak a síkság belsejébe.",
+          "A talajszerkezet lehetővé teszi a nagyüzemi, gépesített rizstermesztést.",
+          "A domborzatot a part közelében magas sókoncentrációjú területek jellemzik.",
+          "A Cacheu-síkság az ország egyik geológiailag legfiatalabb területe."
+        ],
+        "ro": [
+          "Câmpia se află în medie la mai puțin de 5 metri deasupra nivelului mării.",
+          "Relieful a fost modelat de retragerea mării în ultimii 10.000 de ani.",
+          "Curenții de maree pătrund adânc în relieful câmpiei.",
+          "Compoziția solului permite cultivarea mecanizată a orezului pe scară largă.",
+          "Relieful este marcat de o concentrație ridicată de saline în apropierea coastei.",
+          "Câmpia Cacheu este una dintre cele mai tinere zone geologice ale țării."
+        ],
+        "en": [
+          "The plain averages less than 5 meters above sea level.",
+          "The relief was shaped by the regression of the sea over the last 10,000 years.",
+          "Tidal currents penetrate deep into the topography of the plain.",
+          "The soil composition enables large-scale mechanized rice cultivation.",
+          "The relief is characterized by a high concentration of salt pans near the coast.",
+          "The Cacheu Plain is one of the geologically youngest areas in the country."
+        ]
+      }
+    },
+    {
+      "id": "bubaque-coastal-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Küstenrelief von Bubaque im Bijagós-Archipel ist durch eine faszinierende Abfolge von sandigen Buchten und schroffen Lateritformationen geprägt. Im Gegensatz zu den schlammigen Ästuaren des Festlandes bietet Bubaque ein Relief, das direkt dem Einfluss des offenen Atlantiks ausgesetzt ist. Charakteristisch sind die roten Lateritfelsen (Ponta), die als kleine Kaps in das Meer ragen und natürliche Barrieren gegen die Wellenerosion bilden. Diese Felsformationen sind geologisch uralt und weisen eine markante, zerklüftete Oberfläche auf, die bei Ebbe zahlreiche Gezeitentümpel freigibt. Zwischen den Kaps erstrecken sich flache Sandstrände, deren Relief durch die saisonalen Strömungen ständig umgeformt wird. Die Topografie der Küste ist zudem durch den starken Gezeitenhub von bis zu 6 Metern geprägt, was zu einer täglichen drastischen Veränderung des sichtbaren Reliefs führt. Diese dynamische Küstenzone ist nicht nur landschaftlich spektakulär, sondern auch ökologisch wertvoll, da die Felsspalten Lebensraum für spezialisierte Krebstiere und Mollusken bieten. Das Küstenrelief von Bubaque ist ein Symbol für die maritime Widerstandsfähigkeit der Inseln des Archipels.",
+        "hu": "A Bijagós-szigetcsoporthoz tartozó Bubaque part menti domborzatát homokos öblök és zord lateritképződmények lenyűgöző váltakozása jellemzi. A szárazföld iszapos torkolatvidékeivel ellentétben Bubaque olyan domborzatot kínál, amely közvetlenül ki van téve a nyílt Atlanti-óceán hatásának. Jellemzőek a vörös laterit sziklák (Ponta), amelyek kis fokokként nyúlnak be a tengerbe, természetes gátat képezve a hullámverés okozta erózióval szemben. Ezek a sziklaformációk geológiailag ősiek, és jellegzetes, csipkézett felszínnel rendelkeznek, amely apálykor számos árapály-medencét tár fel. A fokok között lapos homokos strandok húzódnak, amelyek domborzatát a szezonális áramlatok folyamatosan újraformálják. A partvidék topográfiáját továbbá az akár 6 méteres árapály-ingadozás is meghatározza, ami a látható domborzat napi szintű, drasztikus változásához vezet. Ez a dinamikus part menti zóna nemcsak tájképi szempontból látványos, hanem ökológiailag is értékes, mivel a sziklahasadékok speciális rákféléknek és puhatestűeknek nyújtanak élőhelyet. Bubaque part menti domborzata a szigetcsoport szigeteinek tengeri ellenállóképességét jelképezi.",
+        "ro": "Relieful de coastă al insulei Bubaque din Arhipelagul Bijagós este marcat de o succesiune fascinantă de golfuri nisipoase și formațiuni abrupte de laterit. Spre deosebire de estuarele noroioase ale continentului, Bubaque oferă un relief expus direct influenței Atlanticului deschis. Caracteristice sunt stâncile roșii de laterit (Ponta), care pătrund în mare ca niște mici capuri și formează bariere naturale împotriva eroziunii valurilor. Aceste formațiuni stâncoase sunt geologic străvechi și prezintă o suprafață accidentată distinctivă, care expune numeroase bazine de maree la reflux. Între capuri se întind plaje plate de nisip, al căror relief este remodelat constant de curenții sezonieri. Topografia coastei este determinată și de amplitudinea mare a mareelor, de până la 6 metri, ceea ce duce la o schimbare zilnică drastică a reliefului vizibil. Această zonă de coastă dinamică nu este doar spectaculoasă vizual, ci și valoroasă ecologic, deoarece crăpăturile stâncilor oferă habitat pentru crustacee și moluște specializate. Relieful de coastă al insulei Bubaque este un simbol al rezilienței maritime a insulelor arhipelagului.",
+        "en": "The coastal relief of Bubaque in the Bijagós Archipelago is characterized by a fascinating sequence of sandy bays and rugged laterite formations. In contrast to the muddy estuaries of the mainland, Bubaque offers a relief directly exposed to the influence of the open Atlantic. Characteristic are the red laterite rocks (Ponta) that jut into the sea as small capes, forming natural barriers against wave erosion. These rock formations are geologically ancient and feature a distinctively rugged surface that reveals numerous tide pools at low tide. Flat sandy beaches stretch between the capes, their relief constantly reshaped by seasonal currents. The coastline's topography is further defined by the significant tidal range of up to 6 meters, leading to a daily drastic change in the visible relief. This dynamic coastal zone is not only scenically spectacular but also ecologically valuable, as the rock crevices provide habitat for specialized crustaceans and mollusks. The coastal relief of Bubaque is a symbol of the maritime resilience of the islands in the archipelago."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Relief zeigt die stärkste Brandungserosion im gesamten Archipel.",
+          "Die Laterit-Kaps ragen bis zu 10 Meter steil aus dem Wasser empor.",
+          "Gezeitenpools im Relief beherbergen eine hohe Dichte an endemischen Arten.",
+          "Der Sand der Buchten ist vulkanischen Ursprungs und feinkörnig.",
+          "Das Relief bietet natürliche Anlegestellen für kleine Fischerboote.",
+          "Starke Meeresströmungen formen das Relief der vorgelagerten Sandbänke."
+        ],
+        "hu": [
+          "A domborzat itt mutatja a legerősebb hullámverés okozta eróziót a szigetvilágban.",
+          "A laterit-fokok akár 10 méter magasra is meredeken kiemelkednek a vízből.",
+          "A domborzat árapály-medencéi rendkívül nagy sűrűségben tartalmaznak endemikus fajokat.",
+          "Az öblök homokja vulkanikus eredetű és finomszemcsés.",
+          "A domborzat természetes kikötőhelyeket biztosít a kis halászcsónakoknak.",
+          "Erős tengeráramlatok formálják a part menti homokpadok domborzatát."
+        ],
+        "ro": [
+          "Relieful prezintă cea mai puternică eroziune cauzată de valuri din întreg arhipelagul.",
+          "Capurile de laterit se ridică abrupt din apă până la o înălțime de 10 metri.",
+          "Bazinele de maree din relief adăpostesc o densitate mare de specii endemice.",
+          "Nisipul golfurilor este de origine vulcanică și are o granulație fină.",
+          "Relieful oferă locuri naturale de acostare pentru micile ambarcațiuni de pescuit.",
+          "Curenții marini puternici modelează relieful bancurilor de nisip din larg."
+        ],
+        "en": [
+          "The relief exhibits the most intense wave erosion in the entire archipelago.",
+          "The laterite capes rise steeply out of the water up to 10 meters high.",
+          "Tide pools within the relief host a high density of endemic species.",
+          "The sand in the bays is of volcanic origin and fine-grained.",
+          "The topography provides natural mooring spots for small fishing boats.",
+          "Strong ocean currents shape the relief of the offshore sandbanks."
+        ]
+      }
+    },
+    {
+      "id": "rubane-forest-relief-v2",
+      "descriptionAdvanced": {
+        "de": "Das Relief der Insel Rubane im Bijagós-Archipel ist durch eine außergewöhnliche vertikale Struktur für eine Insel dieser Größe geprägt. Das Gelände steigt von den weißen Sandstränden der Westküste steil an und bildet im Inneren der Insel eine Reihe von bewaldeten Rücken und Hügeln. Dieses Relief ist geologisch durch eine stabile Lateritschicht über einem sandigen Kern gekennzeichnet. Die Topografie ermöglicht die Existenz von dichten tropischen Trockenwäldern, die auf den Kuppen gedeihen, während die Täler kleine Bäche und feuchte Mikrohabitate beherbergen. Besonders markant ist das Relief an der Nordspitze von Rubane, wo steile Abbruchkanten direkt in den Ozean führen. Das Relief beeinflusst die Windbewegungen auf der Insel und schafft geschützte Zonen, in denen die Vegetation besonders üppig wächst. Die Wege auf Rubane folgen oft den natürlichen Konturen des Geländes, was Wanderern abwechslungsreiche Perspektiven auf den benachbarten Kanal nach Bubaque bietet. Geomorphologisch gesehen stellt Rubane ein Relikt eines größeren Plateaus dar, das durch die postglaziale Flutung des Archipels isoliert wurde. Der Erhalt dieses Reliefs ist entscheidend für den Schutz der endemischen Waldarten der Insel.",
+        "hu": "A Bijagós-szigetcsoporthoz tartozó Rubane szigetének domborzatát egy ekkora szigethez képest rendkívüli vertikális szerkezet jellemzi. A terep a nyugati part fehér homokos strandjaitól meredeken emelkedik, és a sziget belsejében erdős hátak és dombok sorozatát alkotja. Ezt a domborzatot geológiailag egy stabil lateritréteg jellemzi a homokos mag felett. A topográfia lehetővé teszi a sűrű trópusi száraz erdők létezését, amelyek a tetőkön virágoznak, míg a völgyek kis patakoknak és nedves mikroélőhelyeknek adnak otthont. Különösen jellegzetes a domborzat Rubane északi csücskénél, ahol meredek letörések vezetnek közvetlenül az óceánba. A domborzat befolyásolja a szigeten a szélmozgásokat, és védett zónákat hoz létre, ahol a növényzet különösen dúsan nő. Rubane útjai gyakran követik a terep természetes kontúrjait, változatos kilátást nyújtva a túrázóknak a szomszédos bubaque-i csatornára. Geomorfológiai szempontból Rubane egy nagyobb fennsík maradványa, amely a szigetvilág posztglaciális elöntése során szigetelődött el. Ennek a domborzatnak a megőrzése döntő fontosságú a sziget endemikus erdei fajainak védelme szempontjából.",
+        "ro": "Relieful insulei Rubane din Arhipelagul Bijagós este caracterizat printr-o structură verticală excepțională pentru o insulă de această dimensiune. Terenul urcă abrupt de la plajele de nisip alb de pe coasta de vest și formează în interiorul insulei o serie de creste și dealuri împădurite. Acest relief este marcat geologic printr-un strat stabil de laterit peste un nucleu nisipos. Topografia permite existența pădurilor tropicale uscate dense, care prosperă pe culmi, în timp ce văile adăpostesc mici pârâuri și microhabitate umede. Relieful este deosebit de proeminent la vârful nordic al insulei Rubane, unde pante abrupte duc direct în ocean. Relieful influențează mișcările vântului pe insulă și creează zone protejate în care vegetația crește deosebit de luxuriant. Potecile de pe Rubane urmează adesea contururile naturale ale terenului, oferind drumeților perspective variate asupra canalului vecin către Bubaque. Din punct de vedere geomorfologic, Rubane reprezintă vestigiul unui platou mai mare, izolat prin inundarea post-glaciară a arhipelagului. Conservarea acestui relief este crucială pentru protejarea speciilor forestiere endemice ale insulei.",
+        "en": "The relief of Rubane Island in the Bijagós Archipelago is characterized by an exceptional vertical structure for an island of its size. The terrain rises steeply from the white sandy beaches of the western coast, forming a series of forested ridges and hills within the island's interior. This relief is geologically defined by a stable laterite layer over a sandy core. The topography enables the existence of dense tropical dry forests that thrive on the crests, while the valleys host small streams and moist micro-habitats. The relief is particularly striking at the northern tip of Rubane, where steep escarpments lead directly into the ocean. The relief influences wind patterns on the island and creates sheltered zones where vegetation grows particularly lushly. Paths on Rubane often follow the terrain's natural contours, offering hikers diverse perspectives of the neighboring channel to Bubaque. Geomorphologically, Rubane represents a remnant of a larger plateau isolated by the post-glacial flooding of the archipelago. Preserving this relief is critical for protecting the island's endemic forest species."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Rubane besitzt das am stärksten akzentuierte Relief der zentralen Bijagós-Inseln.",
+          "Die Hügel erreichen Höhen von über 20 Metern über dem Meeresspiegel.",
+          "Das Relief besteht aus einer Mischung von quartären Sanden und tertiärem Laterit.",
+          "Natürliche Erosionsrinnen im Relief dienen als Entwässerung während des Monsuns.",
+          "Das Relief schirmt die Insel Bubaque vor direkten westlichen Atlantikwinden ab.",
+          "Es gibt auf der Insel markante Klippenformationen an der Nordostküste."
+        ],
+        "hu": [
+          "Rubane rendelkezik a legtagoltabb domborzattal a középső Bijagós-szigetek közül.",
+          "A dombok magassága meghaladja a 20 métert a tengerszint felett.",
+          "A domborzat negyedidőszaki homok és harmadidőszaki laterit keverékéből áll.",
+          "A domborzat természetes eróziós árkai vízelvezetőként szolgálnak a monszun idején.",
+          "A domborzat leárnyékolja Bubaque szigetét a közvetlen nyugati atlanti szelek elől.",
+          "A szigeten jellegzetes sziklafalak találhatók az északkeleti part mentén."
+        ],
+        "ro": [
+          "Rubane are cel mai accentuat relief dintre insulele centrale ale arhipelagului Bijagós.",
+          "Dealurile ating înălțimi de peste 20 de metri deasupra nivelului mării.",
+          "Relieful este compus dintr-un amestec de nisipuri cuaternare și laterit terțiar.",
+          "Rigolele naturale de eroziune din relief servesc drept drenaj în timpul musonului.",
+          "Relieful protejează insula Bubaque de vânturile directe ale Atlanticului dinspre vest.",
+          "Pe insulă există formațiuni de faleză proeminente pe coasta de nord-est."
+        ],
+        "en": [
+          "Rubane possesses the most pronounced relief among the central Bijagós islands.",
+          "The hills reach elevations of over 20 meters above sea level.",
+          "The relief is composed of a mix of Quaternary sands and Tertiary laterite.",
+          "Natural erosion gullies in the relief serve as drainage during the monsoon.",
+          "The topography shields Bubaque Island from direct westerly Atlantic winds.",
+          "The island features prominent cliff formations along the northeastern coast."
+        ]
+      }
+    }
+  ]
+}

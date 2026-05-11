@@ -1,0 +1,16 @@
+{
+  "lang": "hu",
+  "country": "Lesotho",
+  "files": [ "lib/visualLab/data/poiExtraLesothoCitiesV2.ts" ],
+  "items": [
+    { "id": "ha-kome-cities-v2", "description": "Ha Kome híres a barlanglakásairól, melyeket még ma is használnak a helyi lakosok.", "facts": ["Barlanglakások", "Élő történelem", "Berea körzet"] },
+    { "id": "likalaneng-cities-v2", "description": "Likalaneng egy hegyi település, mely a Molimo Nthuse hágó közelében található.", "facts": ["Hegyi falu", "Hágó közelében", "Maseru körzet"] },
+    { "id": "maphutsaneng-cities-v2", "description": "Maphutsaneng egy csendes falu a déli hegyvidéken, közel a dél-afrikai határhoz.", "facts": ["Déli hegyvidék", "Határközeli falu", "Mohale's Hoek"] },
+    { "id": "tele-cities-v2", "description": "Tele egy határátkelőhely Dél-Afrika és Lesotho között, Quthing körzetben.", "facts": ["Határátkelő", "Quthing körzet", "Fontos útvonal"] },
+    { "id": "ha-mpiti-cities-v2", "description": "Ha Mpiti egy kis falu Qacha's Nek körzetében, a távoli délkeleti hegyekben.", "facts": ["Távoli település", "Qacha's Nek", "Hegyi táj"] },
+    { "id": "ha-sekake-cities-v2", "description": "Ha Sekake egy fontos közlekedési pont a Qacha's Nek felé vezető úton.", "facts": ["Út menti falu", "Qacha's Nek felé", "Kereskedelmi megálló"] },
+    { "id": "ha-rafanyane-cities-v2", "description": "Ha Rafanyane egy elszigetelt hegyi település, gyönyörű kilátással a környező völgyekre.", "facts": ["Elszigetelt falu", "Hegyi kilátás", "Thaba-Tseka körzet"] },
+    { "id": "mashai-cities-v2", "description": "Mashai egy fontos település Thaba-Tseka körzetben, a Senqu folyó völgyében.", "facts": ["Senqu-völgy", "Thaba-Tseka körzet", "Mezőgazdaság"] },
+    { "id": "linakaneng-cities-v2", "description": "Linakaneng egy távoli hegyi falu, ahol a hagyományos pásztorkodás még mindig alapvető életforma.", "facts": ["Távoli falu", "Pásztorkodás", "Hegyi közösség"] }
+  ]
+}

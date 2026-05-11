@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bolama-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Bolama ist die dem Festland am nächsten gelegene Insel des Bijagós-Archipels und zeichnet sich durch eine einzigartige Mischung aus ökologischer Vielfalt und kolonialer Melancholie aus. Naturräumlich ist Bolama von ausgedehnten Mangrovengürteln geprägt, die den Übergang zwischen dem Ästuar des Rio Geba und dem offenen Atlantik bilden. Diese Mangroven sind lebenswichtige Ökosysteme, die als Kohlenstoffspeicher dienen und eine enorme Biomasse an Fischen und Krustentieren beherbergen. Im Landesinneren finden sich Reste von tropischen Trockenwäldern und verwilderten Plantagen, die nach der Verlegung der Hauptstadt im Jahr 1941 von der Natur zurückerobert wurden. Die Insel ist ein bedeutendes Refugium für Zugvögel, die in den schlammigen Gezeitenzonen während der Ebbe reichlich Nahrung finden. Die Küstenlinie ist durch schmale Sandstrände und zerklüftete Lateritfelsen gekennzeichnet. Aufgrund ihrer geografischen Lage fungiert Bolama als ökologische Brücke zwischen den küstennahen Feuchtgebieten des Festlandes und den isolierteren Inseln des äußeren Archipels. Die Erhaltung dieser sensiblen Übergangszone ist entscheidend für das ökologische Gleichgewicht des gesamten Ästuars.",
+        "hu": "Bolama szigete a Bijagós-szigetcsoport szárazföldhöz legközelebb eső tagja, amelyet az ökológiai sokszínűség és a gyarmati múlt sajátos találkozása jellemez. Természeti szempontból Bolamát kiterjedt mangrove-övezetek határozzák meg, amelyek a Geba-folyó torkolata és a nyílt Atlanti-óceán közötti átmeneti zónát alkotják. Ezek a mangroveerdők létfontosságú ökoszisztémák, amelyek szén-dioxid-nyelőként működnek, és hatalmas hal- és rákállománynak adnak otthont. A sziget belsejében trópusi száraz erdők maradványai és elvadult ültetvények találhatók, amelyeket a természet fokozatosan visszahódított, miután 1941-ben a fővárost elköltöztették innen. A sziget a vándormadarak fontos menedékhelye, amelyek az apály idején szabaddá váló iszapos területeken bőséges táplálékot találnak. A partvonalat keskeny homokos strandok és csipkézett laterit sziklák tagolják. Földrajzi elhelyezkedése miatt Bolama ökológiai hídként funkcionál a szárazföldi vizes élőhelyek és a külső szigetvilág elszigeteltebb tagjai között. Ennek az érzékeny átmeneti zónának a megőrzése döntő jelentőségű a teljes torkolatvidék ökológiai egyensúlya szempontjából.",
+        "ro": "Insula Bolama este cea mai apropiată insulă de continent din Arhipelagul Bijagós și se remarcă printr-o combinație unică de diversitate ecologică și melancolie colonială. Din punct de vedere natural, Bolama este dominată de centuri extinse de mangrove, care formează zona de tranziție între estuarul râului Geba și Oceanul Atlantic deschis. Aceste mangrove sunt ecosisteme vitale care servesc drept rezervoare de carbon și adăpostesc o biomasă enormă de pești și crustacee. În interiorul insulei se găsesc resturi de păduri tropicale uscate și plantații sălbăticite, care au fost recuperate de natură după mutarea capitalei în 1941. Insula este un refugiu important pentru păsările migratoare, care găsesc hrană abundentă în zonele mâloase expuse în timpul refluxului. Linia de coastă este caracterizată prin plaje înguste de nisip și stânci de laterit accidentate. Datorită poziției sale geografice, Bolama funcționează ca o punte ecologică între zonele umede de coastă ale continentului și insulele mai izolate ale arhipelagului exterior. Conservarea acestei zone sensibile de tranziție este crucială pentru echilibrul ecologic al întregului estuar.",
+        "en": "Bolama Island is the closest island to the mainland in the Bijagós Archipelago and is characterized by a unique blend of ecological diversity and colonial melancholy. Naturally, Bolama is dominated by extensive mangrove belts that form the transition zone between the Geba River estuary and the open Atlantic Ocean. These mangroves are vital ecosystems that act as carbon sinks and host an enormous biomass of fish and crustaceans. In the island's interior, there are remnants of tropical dry forests and overgrown plantations that have been reclaimed by nature since the capital was relocated in 1941. The island is a significant refuge for migratory birds, which find abundant food in the muddy intertidal zones during low tide. The coastline is marked by narrow sandy beaches and rugged laterite cliffs. Due to its geographic location, Bolama functions as an ecological bridge between the mainland's coastal wetlands and the more isolated islands of the outer archipelago. Preserving this sensitive transition zone is crucial for the ecological balance of the entire estuary region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bolama liegt nur etwa 4 Kilometer vom guineischen Festland entfernt.",
+          "Die Insel ist Teil des UNESCO-Biosphärenreservats Bolama-Bijagós.",
+          "Ausgedehnte Wattflächen bei Ebbe locken tausende Watvögel an.",
+          "Die Vegetation umfasst seltene Orchideenarten in den feuchten Waldresten.",
+          "Die Insel leidet stark unter der Küstenerosion durch den steigenden Meeresspiegel.",
+          "Bolama ist bekannt für seine hohe Dichte an Palmfledermäusen."
+        ],
+        "hu": [
+          "Bolama mindössze 4 kilométerre fekszik a guineai szárazföldtől.",
+          "A sziget az UNESCO Bolama-Bijagós Bioszféra-rezervátum része.",
+          "Az apálykor megjelenő hatalmas iszappadok vándormadarak ezreit vonzzák.",
+          "Növényvilágában ritka orchideafajok találhatók a nedves erdőfoltokban.",
+          "A szigetet jelentősen veszélyezteti a tengerszint emelkedése miatti erózió.",
+          "Híres a nagy sűrűségben előforduló pálmarepülőkutyáiról."
+        ],
+        "ro": [
+          "Bolama se află la doar aproximativ 4 kilometri de continentul guineean.",
+          "Insula face parte din Rezervația Biosferei UNESCO Bolama-Bijagós.",
+          "Suprafețele extinse de mâl la reflux atrag mii de păsări limicole.",
+          "Vegetația include specii rare de orhidee în resturile de pădure umedă.",
+          "Insula suferă puternic de eroziune costieră din cauza creșterii nivelului mării.",
+          "Bolama este cunoscută pentru densitatea sa mare de lilieci de palmier."
+        ],
+        "en": [
+          "Bolama is located only about 4 kilometers from the Bissau-Guinean mainland.",
+          "The island is part of the UNESCO Bolama-Bijagós Biosphere Reserve.",
+          "Vast mudflats at low tide attract thousands of wading birds.",
+          "The flora includes rare orchid species within the humid forest fragments.",
+          "The island faces significant threats from coastal erosion and sea-level rise.",
+          "Bolama is noted for its high population density of straw-colored fruit bats."
+        ]
+      }
+    },
+    {
+      "id": "bubaque-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Bubaque ist die bekannteste und infrastrukturell am besten erschlossene Insel des Bijagós-Archipels, bewahrt jedoch trotz der menschlichen Präsenz eine bemerkenswerte natürliche Vielfalt. Die Topografie der Insel ist sanft gewellt und von einem Mosaik aus Küstensavannen, dichten Waldstücken und Palmenhainen geprägt. Besonders charakteristisch sind die ausgedehnten Sandstrände an der West- und Südküste, die nicht nur für den Tourismus, sondern auch als Lebensraum für marine Arten von Bedeutung sind. Die Gewässer um Bubaque sind extrem fischreich und dienen als Durchzugsgebiet für Rochen und kleine Haiarten. Der Schutz der terrestrischen Ökosysteme auf Bubaque ist eine Herausforderung, da die Insel das administrative Zentrum des Archipels ist und dem größten Siedlungsdruck ausgesetzt ist. Dennoch finden sich im Inselinneren noch unberührte Areale, in denen seltene Vogelarten und Primaten heimisch sind. Die Gezeiten prägen auch hier den ökologischen Rhythmus, indem sie bei Ebbe weite Korallenplattformen und Sandbänke freilegen. Bubaque dient als Tor zum restlichen Biosphärenreservat und ist ein wichtiger Standort für die Forschung zur nachhaltigen Entwicklung in Inselökosystemen.",
+        "hu": "Bubaque szigete a Bijagós-szigetcsoport legismertebb és infrastrukturálisan legfejlettebb tagja, amely az emberi jelenlét ellenére is figyelemre méltó természeti sokszínűséget őriz. A sziget domborzata enyhén hullámos, tájképét parti szavannák, sűrű erdőfoltok és pálmaligetek mozaikja határozza meg. Különösen jellemzőek a nyugati és déli partok kiterjedt homokos strandjai, amelyek nemcsak a turizmus, hanem a tengeri fajok élőhelyeként is jelentősek. A Bubaque körüli vizek rendkívül gazdagok halakban, és fontos vonulási területet jelentenek a ráják és kisebb cápafajok számára. A szárazföldi ökoszisztémák védelme Bubaque-n komoly kihívás, mivel a sziget az arhipelágus adminisztratív központja, így itt a legnagyobb a népességi nyomás. Ennek ellenére a sziget belsejében még találhatók érintetlen területek, ahol ritka madárfajok és főemlősök élnek. Az árapály itt is meghatározza az ökológiai ritmust, apálykor széles korallpadokat és homokpadokat tárva fel. Bubaque kapuként szolgál a bioszféra-rezervátum többi részéhez, és fontos helyszíne a szigeti ökoszisztémák fenntartható fejlődését célzó kutatásoknak.",
+        "ro": "Insula Bubaque este cea mai cunoscută și mai bine dezvoltată din punct de vedere al infrastructurii din Arhipelagul Bijagós, păstrând totuși o diversitate naturală remarcabilă în ciuda prezenței umane. Topografia insulei este ușor ondulată și dominată de un mozaic de savane de coastă, porțiuni de pădure densă și livezi de palmieri. Caracteristice sunt plajele extinse de nisip de pe coastele de vest și de sud, care sunt importante nu doar pentru turism, ci și ca habitat pentru speciile marine. Apele din jurul Bubaque sunt extrem de bogate în pește și servesc ca zonă de tranzit pentru pisici de mare și specii mici de rechini. Protecția ecosistemelor terestre pe Bubaque reprezintă o provocare, deoarece insula este centrul administrativ al arhipelagului și este expusă celei mai mari presiuni de așezare. Cu toate acestea, în interiorul insulei se mai găsesc zone virgine în care trăiesc specii rare de păsări și primate. Mareele modelează și aici ritmul ecologic, expunând platforme largi de corali și bancuri de nisip la reflux. Bubaque servește drept poartă către restul rezervației biosferei și este un loc important pentru cercetarea dezvoltării durabile în ecosistemele insulare.",
+        "en": "Bubaque Island is the most well-known and infrastructurally developed island in the Bijagós Archipelago, yet it maintains remarkable natural diversity despite the human presence. The island's topography is gently undulating, characterized by a mosaic of coastal savannas, dense forest patches, and palm groves. Particularly characteristic are the extensive sandy beaches on the western and southern coasts, which are significant not only for tourism but also as habitats for marine species. The waters around Bubaque are extremely rich in fish and serve as a transit area for rays and small shark species. Protecting the terrestrial ecosystems on Bubaque is a challenge, as the island is the administrative center of the archipelago and faces the greatest settlement pressure. Nevertheless, pristine areas can still be found in the island's interior, home to rare bird species and primates. The tides also shape the ecological rhythm here, exposing wide coral platforms and sandbanks at low tide. Bubaque serves as a gateway to the rest of the biosphere reserve and is an important site for research on sustainable development in island ecosystems."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bubaque ist der logistische Knotenpunkt für den Naturtourismus im Archipel.",
+          "Die Insel verfügt über bedeutende Bestände der Ölpalme (Elaeis guineensis).",
+          "An den südlichen Stränden nisten gelegentlich Meeresschildkröten.",
+          "Die Korallenriffe vor der Küste sind wichtige Bioindikatoren für die Wasserqualität.",
+          "Bubaque beherbergt eine Forschungsstation für marine Biodiversität.",
+          "Die Insel ist ein wichtiger Brutplatz für afrikanische Greifvögel."
+        ],
+        "hu": [
+          "Bubaque a szigetcsoport ökoturizmusának logisztikai központja.",
+          "A szigeten jelentős olajpálma-állomány (Elaeis guineensis) található.",
+          "A déli strandokon alkalmanként tengeri teknősök is fészkelnek.",
+          "A part menti korallzátonyok fontos bioindikátorai a vízminőségnek.",
+          "Bubaque-n működik egy tengeri biodiverzitást vizsgáló kutatóállomás.",
+          "A sziget az afrikai ragadozómadarak egyik fontos költőhelye."
+        ],
+        "ro": [
+          "Bubaque este nodul logistic pentru turismul de natură din arhipelag.",
+          "Insula dispune de efective importante de palmieri de ulei (Elaeis guineensis).",
+          "Pe plajele sudice cuibăresc ocazional țestoase marine.",
+          "Recifele de corali din larg sunt indicatori biologici importanți pentru calitatea apei.",
+          "Bubaque găzduiește o stațiune de cercetare pentru biodiversitatea marină.",
+          "Insula este un loc de cuibărit important pentru păsările de pradă africane."
+        ],
+        "en": [
+          "Bubaque is the logistical hub for nature tourism throughout the archipelago.",
+          "The island has significant stands of the African oil palm (Elaeis guineensis).",
+          "Sea turtles occasionally nest on the more remote southern beaches.",
+          "Offshore coral reefs serve as vital biological indicators for water quality.",
+          "Bubaque hosts a dedicated research station for marine biodiversity.",
+          "The island is a major breeding site for various African birds of prey."
+        ]
+      }
+    },
+    {
+      "id": "rubane-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Rubane ist eine der landschaftlich reizvollsten Inseln im Bijagós-Archipel und liegt direkt gegenüber von Bubaque, getrennt durch einen schmalen Meeresarm. Die Natur auf Rubane ist außergewöhnlich gut erhalten, da die Insel weniger dicht besiedelt ist als ihre Nachbarinsel. Die Topografie ist geprägt von dichten tropischen Wäldern, die fast bis an den Rand der makellosen weißen Sandstrände reichen. Diese Wälder bieten einen kritischen Lebensraum für eine Vielzahl von Waldvögeln und kleinen Säugetieren. Die Strände von Rubane gelten als ökologisch sensibel und werden regelmäßig von Karettschildkröten zur Eiablage aufgesucht. Das Meeresökosystem rund um die Insel ist durch kristallklares Wasser und eine hohe Sichtweite gekennzeichnet, was die Beobachtung von Meeresfauna wie Seepferdchen und bunten Rifffischen ermöglicht. Rubane ist ein Paradebeispiel für den Erhalt von Primärvegetation in einem marinen Kontext. Der Schutz der Insel wird durch eine Kombination aus staatlichen Verordnungen und der Respektierung traditioneller heiliger Zonen durch die lokale Bevölkerung gewährleistet. Für Besucher stellt Rubane ein Refugium der Stille dar, in dem die ursprüngliche Dynamik eines westafrikanischen Inselökosystems hautnah erlebt werden kann.",
+        "hu": "Rubane a Bijagós-szigetcsoport egyik leglátványosabb tagja, amely közvetlenül Bubaque-val szemben fekszik, egy keskeny tengerszoros választja el tőle. Rubane természete rendkívül jó állapotban maradt meg, mivel a sziget kevésbé sűrűn lakott, mint szomszédja. Domborzatát sűrű trópusi erdők határozzák meg, amelyek szinte a makulátlan fehér homokos strandok széléig érnek. Ezek az erdők kritikus élőhelyet biztosítanak számos erdei madárnak és kisebb emlősnek. Rubane strandjai ökológiailag érzékeny területnek számítanak, ahol a közönséges cserepesteknősök rendszeresen fészkelnek. A sziget körüli tengeri ökoszisztémát kristálytiszta víz és nagy látótávolság jellemzi, ami lehetővé teszi a tengeri fauna, például csikóhalak és színes zátonyhalak megfigyelését. Rubane az elsődleges növényzet tengeri környezetben való megőrzésének iskolapéldája. A sziget védelmét állami rendeletek és a helyi lakosság által tisztelt hagyományos szent övezetek kombinációja garantálja. A látogatók számára Rubane a csend menedéke, ahol egy nyugat-afrikai szigeti ökoszisztéma eredeti dinamikája közvetlenül megtapasztalható.",
+        "ro": "Rubane este una dintre cele mai pitorești insule din Arhipelagul Bijagós, situată chiar vizavi de Bubaque, de care este separată printr-un braț îngust de mare. Natura de pe Rubane este excepțional de bine conservată, deoarece insula este mai puțin dens populată decât vecina sa. Topografia este dominată de păduri tropicale dense care ajung aproape până la marginea plajelor impecabile de nisip alb. Aceste păpări oferă un habitat critic pentru o varietate de păsări de pădure și mamifere mici. Plajele de pe Rubane sunt considerate sensibile din punct de vedere ecologic și sunt vizitate regulat de țestoasele hawksbill pentru depunerea ouălor. Ecosistemul marin din jurul insulei este caracterizat prin apă cristalină și vizibilitate ridicată, ceea ce permite observarea faunei marine, cum ar fi căluții de mare și peștii colorați de recif. Rubane este un exemplu clasic de conservare a vegetației primare într-un context marin. Protecția insulei este asigurată printr-o combinație de reglementări de stat și respectarea zonelor sacre tradiționale de către populația locală. Pentru vizitatori, Rubane reprezintă un refugiu al liniștii, unde dinamica originală a unui ecosistem insular vest-african poate fi experimentată direct.",
+        "en": "Rubane is one of the most scenic islands in the Bijagós Archipelago, located directly opposite Bubaque and separated from it by a narrow sea channel. The nature on Rubane is exceptionally well-preserved, as the island is less densely populated than its neighbor. The topography is defined by dense tropical forests that reach nearly to the edge of the pristine white sandy beaches. These forests provide a critical habitat for a variety of forest birds and small mammals. Rubane's beaches are considered ecologically sensitive and are regularly visited by hawksbill turtles for nesting. The marine ecosystem surrounding the island is characterized by crystal-clear water and high visibility, enabling the observation of marine fauna such as seahorses and colorful reef fish. Rubane serves as a prime example of preserving primary vegetation within a marine context. The island's protection is guaranteed through a combination of state regulations and the local population's respect for traditional sacred zones. For visitors, Rubane offers a sanctuary of silence where the original dynamics of a West African island ecosystem can be experienced firsthand."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Rubane gilt als eine der exklusivsten und unberührtesten Inseln des Archipels.",
+          "Die Insel ist ein wichtiger Nistplatz für die vom Aussterben bedrohte Echte Karettschildkröte.",
+          "Dichte Mangrovenwälder schützen die Ostküste vor Sturmschäden.",
+          "Die Gewässer um Rubane sind für ihre hohe Dichte an Tarpon-Fischen bekannt.",
+          "Es gibt auf der Insel keine dauerhaften Autostraßen, nur Fußpfade.",
+          "Die Vegetation umfasst massive, jahrhundertealte Affenbrotbäume (Baobabs)."
+        ],
+        "hu": [
+          "Rubane a szigetcsoport egyik legexkluzívabb és legérintetlenebb szigete.",
+          "Fontos fészkelőhelye a súlyosan veszélyeztetett közönséges cserepesteknősnek.",
+          "A sűrű mangroveerdők védik a keleti partot a viharok okozta károktól.",
+          "A Rubane körüli vizek híresek a nagy tarpon-halállományukról.",
+          "A szigeten nincsenek állandó autóutak, csak gyalogösvények.",
+          "Növényvilágában hatalmas, több évszázados majomkenyérfák is találhatók."
+        ],
+        "ro": [
+          "Rubane este considerată una dintre cele mai exclusive și virgine insule din arhipelag.",
+          "Insula este un loc de cuibărit important pentru țestoasa Hawksbill, specie în pericol critic.",
+          "Pădurile dense de mangrove protejează coasta de est împotriva furtunilor.",
+          "Apele din jurul Rubane sunt cunoscute pentru densitatea mare de pești tarpon.",
+          "Nu există drumuri auto permanente pe insulă, ci doar poteci pietonale.",
+          "Vegetația include baobabi masivi, vechi de secole."
+        ],
+        "en": [
+          "Rubane is regarded as one of the most exclusive and pristine islands in the archipelago.",
+          "The island is a key nesting site for the critically endangered hawksbill sea turtle.",
+          "Dense mangrove forests provide natural protection for the eastern coast against storms.",
+          "The waters surrounding Rubane are famous among anglers for large tarpon populations.",
+          "There are no permanent car roads on the island, only footpaths through the bush.",
+          "The flora features massive, centuries-old baobab trees along the ridges."
+        ]
+      }
+    },
+    {
+      "id": "poilao-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Poilão ist eine winzige, unbewohnte Insel im äußersten Süden des Bijagós-Archipels und stellt eines der bedeutendsten marinen Naturschutzgebiete der Welt dar. Die Insel ist das Herzstück des João-Vieira-Poilão-Nationalparks und gilt als der wichtigste Nistplatz für die Suppenschildkröte (Chelonia mydas) an der gesamten afrikanischen Atlantikküste. Die Natur auf Poilão ist vollkommen ursprünglich; die Strände bestehen aus feinem Korallensand und sind von einem schmalen Gürtel aus Küstenwald umgeben. Da die Insel für das Volk der Bijagó als heilig gilt, ist sie dauerhaft unbewohnt, was den Schildkröten einen ungestörten Raum für ihre Fortpflanzungszyklen bietet. Zehntausende Weibchen kommen jährlich hierher, um ihre Eier abzulegen. Die Gewässer rund um die Insel sind Teil eines streng geschützten marinen Kerngebiets, in dem die Fischerei untersagt ist, was zu einer außergewöhnlichen Dichte an Meereslebewesen führt. Poilão ist ein Symbol für die erfolgreiche Verbindung von indigenem Glauben und modernem Naturschutz. Die Insel ist zudem ein kritischer Rastplatz für seltene Seevögel. Der Zugang ist aus ökologischen und spirituellen Gründen extrem eingeschränkt, was Poilão zu einem der exklusivsten Refugien für die marine Biodiversität in Westafrika macht.",
+        "hu": "Poilão egy apró, lakatlan sziget a Bijagós-szigetcsoport legdélebbi részén, és a világ egyik legjelentősebb tengeri természetvédelmi területe. A sziget a João Vieira-Poilão Nemzeti Park központja, és az egész afrikai atlanti partvidék legfontosabb fészkelőhelye a közönséges levesteknősök (Chelonia mydas) számára. Poilão természete teljesen érintetlen; strandjai finom korallhomokból állnak, melyeket keskeny parti erdősáv övez. Mivel a sziget a bijagó nép számára szent helynek számít, állandóan lakatlan, ami zavartalan környezetet biztosít a teknősök szaporodási ciklusaihoz. Évente nőstények tízezrei érkeznek ide tojást rakni. A sziget körüli vizek egy szigorúan védett tengeri magterület részét képezik, ahol a halászat tilos, ami a tengeri élőlények rendkívüli sűrűségéhez vezet. Poilão az őshonos hiedelmek és a modern természetvédelem sikeres találkozásának szimbóluma. A sziget emellett ritka tengeri madarak kritikus fontosságú pihenőhelye. A belépés ökológiai és spirituális okokból rendkívül korlátozott, így Poilão Nyugat-Afrika egyik legexkluzívabb menedékhelye a tengeri biodiverzitás számára.",
+        "ro": "Poilão este o insulă minusculă, nelocuită, în extremitatea sudică a Arhipelagului Bijagós și reprezintă una dintre cele mai importante rezervații naturale marine din lume. Insula este inima Parcului Național João-Vieira-Poilão și este considerată cel mai important loc de cuibărit pentru țestoasa verde (Chelonia mydas) de pe întreaga coastă atlantică a Africii. Natura de pe Poilão este complet originală; plajele constau din nisip fin de corali și sunt înconjurate de o centură îngustă de pădure de coastă. Deoarece insula este considerată sacră pentru poporul Bijagó, este permanent nelocuită, ceea ce oferă țestoaselor un spațiu neperturbat pentru ciclurile lor de reproducere. Zeci de mii de femele vin aici anual pentru a-și depune ouăle. Apele din jurul insulei fac parte dintr-o zonă marină centrală strict protejată, în care pescuitul este interzis, ceea ce duce la o densitate excepțională de viață marină. Poilão este un simbol al legăturii reușite între credința indigenă și conservarea modernă a naturii. Insula este, de asemenea, un loc critic de odihnă pentru păsările marine rare. Accesul este extrem de restricționat din motive ecologice și spirituale, ceea ce face din Poilão unul dintre cele mai exclusive refugii pentru biodiversitatea marină din Africa de Vest.",
+        "en": "Poilão is a tiny, uninhabited island in the far south of the Bijagós Archipelago and represents one of the most significant marine nature reserves in the world. The island is the heart of the João-Vieira-Poilão National Park and is considered the most important nesting site for the green sea turtle (Chelonia mydas) along the entire African Atlantic coast. The nature on Poilão is completely pristine; the beaches consist of fine coral sand and are surrounded by a narrow belt of coastal forest. Because the island is considered sacred to the Bijagó people, it is permanently uninhabited, providing turtles with an undisturbed space for their reproductive cycles. Tens of thousands of females come here annually to lay their eggs. The waters around the island are part of a strictly protected marine core area where fishing is prohibited, leading to an extraordinary density of marine life. Poilão is a symbol of the successful connection between indigenous belief and modern nature conservation. The island is also a critical resting place for rare seabirds. Access is extremely restricted for ecological and spiritual reasons, making Poilão one of the most exclusive refuges for marine biodiversity in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Poilão beherbergt die drittgrößte Kolonie von Suppenschildkröten weltweit.",
+          "Die Insel ist weniger als 1 Quadratkilometer groß.",
+          "Bijagó-Männer führen hier geheime Initiationsriten durch.",
+          "Künstliches Licht ist nachts verboten, um die Orientierung der Schildkröten nicht zu stören.",
+          "Die Korallensande der Insel haben einen ungewöhnlich hohen Kalziumgehalt.",
+          "Wissenschaftler überwachen die Insel während der Hauptnistsaison rund um die Uhr."
+        ],
+        "hu": [
+          "Poilão a világ harmadik legnagyobb levesteknős-kolóniájának ad otthont.",
+          "A sziget területe kisebb, mint 1 négyzetkilométer.",
+          "A bijagó férfiak itt tartják titkos beavatási szertartásaikat.",
+          "Éjszaka tilos a mesterséges fényhasználat, hogy ne zavarják a teknősök tájékozódását.",
+          "A sziget korallhomokja szokatlanul magas kalciumtartalommal bír.",
+          "A tudósok a fő fészkelési szezonban éjjel-nappal figyelik a szigetet."
+        ],
+        "ro": [
+          "Poilão găzduiește a treia cea mai mare colonie de țestoase verzi din lume.",
+          "Insula are o suprafață de mai puțin de 1 kilometru pătrat.",
+          "Bărbații Bijagó desfășoară aici rituri de inițiere secrete.",
+          "Lumina artificială este interzisă noaptea pentru a nu perturba orientarea țestoaselor.",
+          "Nisipurile de corali ale insulei au un conținut neobișnuit de ridicat de calciu.",
+          "Oamenii de știință monitorizează insula non-stop în timpul sezonului principal de cuibărit."
+        ],
+        "en": [
+          "Poilão hosts the third-largest nesting colony of Green Sea Turtles in the world.",
+          "The island’s total land area is less than one square kilometer.",
+          "It serves as a site for secret initiation rites for Bijagó men.",
+          "Artificial light is strictly prohibited at night to prevent disorienting the turtles.",
+          "The island's coral sand has an exceptionally high calcium content.",
+          "Marine biologists conduct 24-hour monitoring during the peak nesting season."
+        ]
+      }
+    },
+    {
+      "id": "lagoa-de-cufada-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Lagoa de Cufada ist der größte natürliche Süßwassersee in Guinea-Bissau und das Herzstück des Cufada-Lagunen-Nationalparks in der Region Quínara. Dieses Feuchtgebiet von internationaler Bedeutung (Ramsar-Stätte) stellt ein kritisches Ökosystem in einer ansonsten stark von den Gezeiten und Salzwasser geprägten Küstenregion dar. Die Lagune wird durch mehrere Zuflüsse gespeist und dient als lebenswichtiger Trinkwasserspeicher für die umliegende Fauna und die menschlichen Siedlungen. Die Vegetation rund um den See ist ein komplexes Gefüge aus dichten Galeriewäldern, Palmensavannen und Schilfgürteln, die eine enorme Artenvielfalt beherbergen. Besonders bedeutend ist die Lagune als Rückzugsort für bedrohte Tierarten wie den Westafrikanischen Schimpansen und verschiedene Arten von Krokodilen. Für Ornithologen ist Cufada ein Paradies, da sie Brut- und Rastplatz für über 200 Vogelarten ist, darunter Pelikane und seltene Reiher. Die ökologische Stabilität der Lagune reguliert das Mikroklima der gesamten Region und schützt das Hinterland vor der Versalzung der Böden. Trotz des Schutzstatus steht Cufada vor Herausforderungen durch landwirtschaftliche Nutzung im Einzugsgebiet, was den Erhalt dieses einzigartigen Süßwasser-Refugiums zu einer nationalen Priorität macht.",
+        "hu": "A Cufada-lagúna Guinea-Bissau legnagyobb természetes édesvízi tava, és a Quínara régióban található Cufada-lagúna Nemzeti Park központi eleme. Ez a nemzetközi jelentőségű vizes élőhely (Ramsari terület) kritikus ökoszisztémát jelent egy olyan part menti régióban, amelyet egyébként erősen meghatároz az árapály és a sós víz. A lagúnát több folyó táplálja, és létfontosságú ivóvízforrásként szolgál a környező fauna és az emberi települések számára. A tó körüli növényzet sűrű galériaerdők, pálmaszavannák és nádasok komplex együttese, amely hatalmas fajgazdagságnak ad otthont. A lagúna különösen jelentős olyan veszélyeztetett állatfajok menedékhelyeként, mint a nyugat-afrikai csimpánz és a különböző krokodilfajok. Az ornitológusok számára Cufada paradicsom, mivel több mint 200 madárfaj fészkelő- és pihenőhelye, köztük pelikánoké és ritka gémeké. A lagúna ökológiai stabilitása szabályozza az egész régió mikroklímáját, és védi a szárazföld belsejét a talaj elszikesedésétől. A védett státusz ellenére Cufada kihívásokkal néz szembe a vízgyűjtő területén folytatott mezőgazdasági tevékenység miatt, ami ezen egyedülálló édesvízi menedékhely megőrzését nemzeti prioritássá teszi.",
+        "ro": "Lagoa de Cufada este cel mai mare lac natural de apă dulce din Guineea-Bissau și piesa centrală a Parcului Național Lagunele Cufada din regiunea Quínara. Această zonă umedă de importanță internațională (sit Ramsar) reprezintă un ecosistem critic într-o regiune de coastă altfel puternic influențată de maree și apă sărată. Laguna este alimentată de mai mulți afluenți și servește ca rezervor vital de apă potabilă pentru fauna înconjurătoare și așezările umane. Vegetația din jurul lacului este o structură complexă de păduri-galerie dense, savane de palmieri și zone de stuf, care adăpostesc o biodiversitate enormă. Laguna este deosebit de importantă ca refugiu pentru specii de animale periclitate, cum ar fi cimpanzeul vest-african și diverse specii de crocodili. Pentru ornitologi, Cufada este un paradis, fiind loc de cuibărit și odihnă pentru peste 200 de specii de păsări, inclusiv pelicani și stârci rari. Stabilitatea ecologică a lagunei reglează microclimatul întregii regiuni și protejează interiorul de salinizarea solurilor. În ciuda statutului de protecție, Cufada se confruntă cu provocări cauzate de utilizarea agricolă în bazinul hidrografic, ceea ce face din conservarea acestui refugiu unic de apă dulce o prioritate națională.",
+        "en": "Lagoa de Cufada is the largest natural freshwater lake in Guinea-Bissau and the centerpiece of the Cufada Lagoons National Park in the Quínara region. This wetland of international importance (Ramsar site) represents a critical ecosystem in a coastal region otherwise heavily influenced by tides and saltwater. The lagoon is fed by several tributaries and serves as a vital drinking water reservoir for the surrounding fauna and human settlements. The vegetation around the lake is a complex fabric of dense gallery forests, palm savannas, and reed beds that host enormous biodiversity. The lagoon is particularly significant as a refuge for endangered animal species such as the western chimpanzee and various species of crocodiles. For ornithologists, Cufada is a paradise, providing a nesting and resting site for over 200 bird species, including pelicans and rare herons. The lagoon's ecological stability regulates the microclimate of the entire region and protects the hinterland from soil salinization. Despite its protected status, Cufada faces challenges from agricultural use within its catchment area, making the preservation of this unique freshwater refuge a national priority."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cufada ist das erste Ramsar-Gebiet, das in Guinea-Bissau ausgewiesen wurde.",
+          "Die maximale Tiefe der Lagune beträgt während der Regenzeit etwa 15 Meter.",
+          "Der See ist über Kanäle indirekt mit dem Rio Grande de Buba verbunden.",
+          "Im Park leben Gruppen von Schimpansen, die zum Trinken an den See kommen.",
+          "Die Lagune beherbergt seltene Süßwasserfischarten, die endemisch sind.",
+          "Die Verdunstung der Lagune sichert die Luftfeuchtigkeit für den umliegenden Regenwald."
+        ],
+        "hu": [
+          "Cufada volt az első Ramsari terület, amelyet Guinea-Bissauban kijelöltek.",
+          "A lagúna maximális mélysége az esős évszakban eléri a 15 métert.",
+          "A tó csatornákon keresztül közvetett összeköttetésben áll a Rio Grande de Buba folyóval.",
+          "A parkban élő csimpánzcsoportok rendszeresen a tóhoz járnak inni.",
+          "A lagúnában ritka, endemikus édesvízi halfajok élnek.",
+          "A lagúna párolgása biztosítja a környező esőerdő számára szükséges páratartalmat."
+        ],
+        "ro": [
+          "Cufada este primul sit Ramsar desemnat în Guineea-Bissau.",
+          "Adâncimea maximă a lagunei este de aproximativ 15 metri în timpul sezonului ploios.",
+          "Lacul este conectat indirect cu Rio Grande de Buba prin canale.",
+          "În parc trăiesc grupuri de cimpanzei care vin la lac pentru a bea apă.",
+          "Laguna adăpostește specii rare de pești de apă dulce care sunt endemice.",
+          "Evaporarea lagunei asigură umiditatea aerului pentru pădurea tropicală înconjurătoare."
+        ],
+        "en": [
+          "Cufada was the first site in Guinea-Bissau to be designated under the Ramsar Convention.",
+          "The lagoon's maximum depth reaches approximately 15 meters during the rainy season.",
+          "The lake is indirectly connected to the Rio Grande de Buba via a network of channels.",
+          "Groups of Western Chimpanzees inhabit the park and rely on the lake for water.",
+          "The lagoon is home to rare, endemic freshwater fish species.",
+          "Evaporation from the lagoon is essential for maintaining humidity in the surrounding forest."
+        ]
+      }
+    }
+  ]
+}

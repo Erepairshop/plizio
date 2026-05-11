@@ -1,0 +1,75 @@
+{
+  "lang": "hu",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chott-el-jerid-east-nature-v2",
+      "description": "Tunézia legnagyobb sós tava, egyedi holdbéli tájjal és sós síkságokkal.",
+      "facts": ["Sós tó", "Holdbéli táj", "Szahara pereme"]
+    },
+    {
+      "id": "mountain-range-north-nature-v2",
+      "description": "Az északi hegyvonulat erdős és dombos vidéke, gazdag flórával.",
+      "facts": ["Északi hegység", "Erdős vidék", "Túrázás"]
+    },
+    {
+      "id": "gulf-of-tunis-islands-nature-v2",
+      "description": "Kis szigetek a Tuniszi-öbölben, fontos élőhelyek a tengeri madarak számára.",
+      "facts": ["Tuniszi-öböl", "Kis szigetek", "Madárvilág"]
+    },
+    {
+      "id": "river-majerdah-nature-v2",
+      "description": "Tunézia legfontosabb folyója, amely termékeny völgyet hoz létre északon.",
+      "facts": ["Fő folyó", "Termékeny völgy", "Mezőgazdaság"]
+    },
+    {
+      "id": "coast-of-mahdia-nature-v2",
+      "description": "Mahdia sziklás és homokos partvidéke, tiszta vizekkel és élővilággal.",
+      "facts": ["Mahdia partja", "Sziklás part", "Tiszta víz"]
+    },
+    {
+      "id": "jebel-mghila-nature-v2",
+      "description": "Védett hegység a központi régióban, gazdag és változatos ökoszisztémával.",
+      "facts": ["Hegység", "Központi régió", "Ökoszisztéma"]
+    },
+    {
+      "id": "el-djem-region-nature-v2",
+      "description": "A híres amfiteátrum környezetének természetes és mezőgazdasági tája.",
+      "facts": ["El Djem környéke", "Természetes táj", "Mezőgazdaság"]
+    },
+    {
+      "id": "gulf-of-gabes-coastal-nature-v2",
+      "description": "A Gabesi-öböl sekély tengerpartja, jelentős biodiverzitással és halászati területekkel.",
+      "facts": ["Gabesi-öböl", "Sekély part", "Halászat"]
+    },
+    {
+      "id": "tunis-ebene-relief-v2",
+      "description": "Tunisz környéki síkvidék, amely a főváros és a mezőgazdaság alapját adja.",
+      "facts": ["Síkvidék", "Tunisz vidéke", "Mezőgazdaság"]
+    },
+    {
+      "id": "djebel-mghila-relief-v2",
+      "description": "A központi hegylánc markáns csúcsa, Tunézia domborzatának része.",
+      "facts": ["Központi hegylánc", "Hegyi csúcs", "Domborzat"]
+    },
+    {
+      "id": "djebel-es-sif-relief-v2",
+      "description": "Jelentős hegyi formáció a központi régióban, a vidék arculatát meghatározva.",
+      "facts": ["Hegyi formáció", "Központi régió", "Domborzat"]
+    },
+    {
+      "id": "djebel-bel-khodra-relief-v2",
+      "description": "Természetes magaslat a vidéki tájban, tipikus tunéziai domborzati elem.",
+      "facts": ["Természetes magaslat", "Domborzati elem", "Vidéki táj"]
+    },
+    {
+      "id": "djebel-om-el-adame-relief-v2",
+      "description": "Hegyi magaslat, amely Tunézia változatos domborzatát gazdagítja.",
+      "facts": ["Hegyi magaslat", "Változatos domborzat", "Táj"]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-kingston-harbour-economic-v2",
+      "description": "Der Hafen von Kingston ist der siebtgrößte natürliche Hafen der Welt und das wirtschaftliche Herz Jamaikas. Er dient als zentraler Umschlagplatz für den internationalen Containerverkehr in der Karibik.",
+      "facts": ["Siebtgrößter Naturhafen weltweit", "Zentrum des jamaikanischen Außenhandels", "Großes Container-Terminal"]
+    },
+    {
+      "id": "jm-montego-freeport-economic-v2",
+      "description": "Montego Freeport ist ein bedeutendes Industrie- und Handelszentrum im Westen Jamaikas, das direkt an den Tiefwasserhafen von Montego Bay angrenzt. Es beherbergt zahlreiche Freihandelszonen.",
+      "facts": ["Strategische Lage bei Montego Bay", "Sitz vieler Freihandelszonen", "Wichtiger Tiefwasserhafen"]
+    },
+    {
+      "id": "jm-bauxite-kaiser-economic-v2",
+      "description": "Die Kaiser-Bauxit-Anlage ist eine der wichtigsten Einrichtungen für den Abbau und Export von Bauxit, dem Hauptexportgut Jamaikas. Die Anlage ist entscheidend für die Aluminiumproduktion.",
+      "facts": ["Wichtige Bauxit-Exportstätte", "Grundpfeiler der Bergbauindustrie", "Versorgung des Weltmarkts"]
+    },
+    {
+      "id": "jm-sugar-factory-economic-v2",
+      "description": "Diese Zuckerfabrik repräsentiert die traditionsreiche Zuckerrohrverarbeitung Jamaikas, die seit Jahrhunderten einen Pfeiler der Agrarwirtschaft bildet. Hier wird Rohzucker für den Export gewonnen.",
+      "facts": ["Zentrum der Zuckerrohrverarbeitung", "Wichtiger Exportartikel", "Basis für die Rumherstellung"]
+    },
+    {
+      "id": "jm-port-esquivel-economic-v2",
+      "description": "Port Esquivel ist ein spezialisierter Industriehafen an der Südküste, der primär für den Umschlag von Tonerde und Treibstoffen genutzt wird. Er ist ein Schlüsselstandort der Schwerindustrie.",
+      "facts": ["Spezialisierter Industriehafen", "Umschlagplatz für Tonerde", "Wichtiger Ölterminal"]
+    },
+    {
+      "id": "jm-falcmouth-port-economic-v2",
+      "description": "Der Hafen von Falmouth ist einer der modernsten Kreuzfahrthäfen der Karibik und ein bedeutender Wirtschaftsfaktor für den Norden der Insel. Er wurde für die größten Schiffe der Welt konzipiert.",
+      "facts": ["Moderner Kreuzfahrthafen", "Anlegestelle für Riesenschiffe", "Wirtschaftsmotor für Trelawny"]
+    },
+    {
+      "id": "jm-energy-power-economic-v2",
+      "description": "Dieses Kraftwerk ist eine zentrale Säule der Energieversorgung Jamaikas und sichert die Stromzufuhr für Industrie und Haushalte. Es nutzt moderne Technologien zur Stromerzeugung.",
+      "facts": ["Zentrale Stromerzeugung", "Basis der Infrastruktur", "Sicherung der Energieversorgung"]
+    },
+    {
+      "id": "jm-rum-distillery-economic-v2",
+      "description": "Die Rum-Destillerie ist weltweit für ihre hochwertigen Spirituosen bekannt, die aus lokalem Zuckerrohr gewonnen werden. Sie ist ein Symbol für jamaikanische Handwerkskunst.",
+      "facts": ["Traditionelle Rumproduktion", "Export in über 50 Länder", "Verwendung lokaler Melasse"]
+    },
+    {
+      "id": "jm-coffee-processor-economic-v2",
+      "description": "In dieser Verarbeitungsanlage werden die berühmten Blue Mountain Kaffeebohnen für den Weltmarkt vorbereitet. Die Anlage garantiert höchste Qualitätsstandards für den Export.",
+      "facts": ["Verarbeitung von Blue Mountain Kaffee", "Strenges Qualitätsmanagement", "Hauptexportmarkt Japan"]
+    },
+    {
+      "id": "jm-port-royal-terminal-economic-v2",
+      "description": "Das Kreuzfahrtterminal in Port Royal ermöglicht Touristen den Zugang zu einer der historisch bedeutendsten Stätten der Karibik. Es verbindet Geschichte mit moderner Infrastruktur.",
+      "facts": ["Neues Kreuzfahrtterminal", "Tor zum historischen Port Royal", "Tourismusförderung im Süden"]
+    },
+    {
+      "id": "jm-sand-export-economic-v2",
+      "description": "Diese Einrichtung ist auf den Abbau und Export von hochwertigem Bausand spezialisiert, der für regionale Bauprojekte von großer Bedeutung ist. Nachhaltige Gewinnung steht im Fokus.",
+      "facts": ["Gewinnung von Bausand", "Wichtiger Rohstofflieferant", "Versorgung der Bauindustrie"]
+    },
+    {
+      "id": "jm-port-kaiser-economic-v2",
+      "description": "Port Kaiser ist ein strategisch wichtiger Hafen für den Export von Tonerde im Südwesten der Insel. Er verfügt über spezialisierte Verladeanlagen für die Bauxit-Industrie.",
+      "facts": ["Verladestation für Tonerde", "Anbindung an Bauxit-Minen", "Wichtiger Tiefwasserpier"]
+    }
+  ]
+}

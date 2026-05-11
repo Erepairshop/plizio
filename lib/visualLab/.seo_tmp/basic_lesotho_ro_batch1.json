@@ -1,0 +1,18 @@
+{
+  "lang": "ro",
+  "country": "Lesotho",
+  "files": [ "lib/visualLab/data/poiExtraLesothoCitiesV2.ts" ],
+  "items": [
+    { "id": "mohales-hoek-cities-v2", "description": "Mohale's Hoek este capitala districtului cu același nume, situată într-o zonă pitorească la poalele munților.", "facts": ["Capitală de district", "Sudul Lesotho", "Zonă pitorească"] },
+    { "id": "peka-cities-v2", "description": "Peka este un oraș situat în districtul Leribe, cunoscut ca un centru regional important pentru agricultură.", "facts": ["Districtul Leribe", "Centru agricol", "Oraș regional"] },
+    { "id": "tsakholo-cities-v2", "description": "Tsakholo este o așezare situată în districtul Mafeteng, servind drept hub local pentru comunitățile rurale din jur.", "facts": ["Districtul Mafeteng", "Hub rural", "Localitate liniștită"] },
+    { "id": "makhonoane-cities-v2", "description": "Makhonoane este un sat situat în zonele muntoase, reprezentativ pentru stilul de viață tradițional basotho.", "facts": ["Sat de munte", "Tradiții basotho", "Peisaj montan"] },
+    { "id": "phamong-cities-v2", "description": "Phamong este o localitate situată în districtul Mohale's Hoek, cunoscută pentru comunitatea sa strâns unită.", "facts": ["Districtul Mohale's Hoek", "Comunitate rurală", "Zonă montană"] },
+    { "id": "mphaki-cities-v2", "description": "Mphaki este un nod important de transport în zonele muntoase din sud-est, facilitând accesul către Qacha's Nek.", "facts": ["Nod de transport", "Sud-estul Lesotho", "Acces montan"] },
+    { "id": "ha-lejone-cities-v2", "description": "Ha Lejone este un sat pitoresc situat lângă barajul Katse, oferind vederi spectaculoase asupra lacului de acumulare.", "facts": ["Lângă barajul Katse", "Peisaj spectaculos", "Sat pitoresc"] },
+    { "id": "katse-cities-v2", "description": "Katse este renumit pentru barajul său impunător, unul dintre cele mai mari din Africa, parte a proiectului Highlands Water.", "facts": ["Barajul Katse", "Highlands Water Project", "Inginerie majoră"] },
+    { "id": "thaba-bosiu-cities-v2", "description": "Thaba Bosiu este fortăreața montană sacră unde regele Moshoeshoe I a fondat națiunea basotho.", "facts": ["Munte sacru", "Loc istoric", "Fortăreață naturală"] },
+    { "id": "khabos-cities-v2", "description": "Khabos este o așezare situată în districtul Leribe, fiind un centru local pentru fermierii din regiune.", "facts": ["Districtul Leribe", "Comunitate agricolă", "Zonă de munte"] },
+    { "id": "maphutseng-cities-v2", "description": "Maphutseng este un sat istoric cunoscut pentru siturile sale arheologice și urmele de dinozauri.", "facts": ["Sit arheologic", "Urme de dinozauri", "Sat istoric"] }
+  ]
+}

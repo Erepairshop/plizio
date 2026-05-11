@@ -821,12 +821,7 @@ export const poiExtraChileEconomicV2: POI[] = [
         "Historisch bedeutsamer Betrieb für den chilenischen Bergbausektor.",
         "Ein herausragendes Beispiel für industrielle Ingenieurskunst unter schwierigen Bedingungen."
       ],
-      hu: [
-        "A világ legnagyobb földalatti rézbányája.",
-        "Lenyűgöző, több mint 3000 kilométeres alagútrendszer az Andokban.",
-        "Történelmileg jelentős üzem a chilei bányászati szektorban.",
-        "Az ipari mérnöki tudomány kiemelkedő példája nehéz körülmények között."
-      ],
+      hu: ["Lenyűgöző, több mint 3000 kilométeres alagútrendszer az Andokban.", "Történelmileg jelentős üzem a chilei bányászati szektorban.", "Az ipari mérnöki tudomány kiemelkedő példája nehéz körülmények között."],
       ro: [
         "Cea mai mare mină de cupru din lume cu exploatare subterană.",
         "Sistem impresionant de peste 3.000 de kilometri de tuneluri în Anzi.",

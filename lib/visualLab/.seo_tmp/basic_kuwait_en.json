@@ -1,0 +1,54 @@
+{
+  "lang": "en",
+  "country": "Kuwait",
+  "files": [
+    "lib/visualLab/data/poiExtraKuwaitLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "al-hamra-tower-landmarks-v2",
+      "description": "The Al Hamra Tower is the tallest building in Kuwait and a prominent example of modern sculptural architecture. Its unique twisting design serves to minimize solar heat gain.",
+      "facts": ["Completed in 2011", "Height of 414 meters", "Features 80 floors", "Includes a shopping mall"]
+    },
+    {
+      "id": "grand-mosque-landmarks-v2",
+      "description": "The Grand Mosque is the largest mosque in Kuwait, renowned for its intricate Islamic architectural details and large central dome. It serves as a spiritual landmark for the capital city.",
+      "facts": ["Opened in 1986", "Covers 45,000 square meters", "Holds 10,000 worshippers", "Located in Kuwait City"]
+    },
+    {
+      "id": "sheikh-jaber-cultural-centre-landmarks-v2",
+      "description": "The Sheikh Jaber Al-Ahmad Cultural Centre is a major multidisciplinary arts complex inspired by Islamic architecture. It hosts theaters, concert halls, and exhibition spaces.",
+      "facts": ["Opened in 2016", "Complex of four buildings", "Known as the Kuwait Opera House", "Focuses on arts and culture"]
+    },
+    {
+      "id": "sheikh-abdullah-cultural-centre-landmarks-v2",
+      "description": "The Sheikh Abdullah Al-Salem Cultural Centre is one of the world's largest cultural museum complexes, featuring diverse exhibitions on science, history, and fine arts.",
+      "facts": ["Opened in 2018", "Contains six museums", "Located in Salmiya", "Modern interactive design"]
+    },
+    {
+      "id": "the-avenues-landmarks-v2",
+      "description": "The Avenues is the largest shopping mall in Kuwait, featuring a massive indoor space divided into distinct districts with various architectural themes.",
+      "facts": ["Opened in 2007", "Over 1,000 stores", "Multi-phase development", "Located in Rai"]
+    },
+    {
+      "id": "scientific-center-landmarks-v2",
+      "description": "The Scientific Center of Kuwait combines science education, environmental awareness, and entertainment, including a large aquarium and a cinema.",
+      "facts": ["Opened in 2000", "Includes a large aquarium", "Features IMAX theater", "Located in Salmiya"]
+    },
+    {
+      "id": "green-island-landmarks-v2",
+      "description": "Green Island is an artificial island off the coast of Kuwait, offering recreational activities, gardens, and seaside promenades.",
+      "facts": ["Opened in 1988", "First artificial island", "Features a swimming pool", "Covers 785,000 square meters"]
+    },
+    {
+      "id": "jaber-causeway-landmarks-v2",
+      "description": "The Sheikh Jaber Al-Ahmad Al-Sabah Causeway is a massive bridge project connecting Kuwait City to the northern Subiya region.",
+      "facts": ["Completed in 2019", "Length of 48.5 kilometers", "One of the longest bridges", "Reduces travel time"]
+    },
+    {
+      "id": "mall-360-landmarks-v2",
+      "description": "Mall 360 is a prominent shopping and leisure destination in Kuwait, noted for its circular design and high-end retail options.",
+      "facts": ["Opened in 2009", "Features circular architecture", "Includes vertical gardens", "Located in South Surra"]
+    }
+  ]
+}

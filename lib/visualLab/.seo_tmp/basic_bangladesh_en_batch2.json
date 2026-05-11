@@ -1,0 +1,64 @@
+{
+  "lang": "en",
+  "country": "Bangladesh",
+  "files": [
+    "lib/visualLab/data/poiExtraBangladeshCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bogra-cities-v2",
+      "description": "One of the oldest cities in Bengal, known as the 'Capital of North Bengal' and famous for its archaeological heritage.",
+      "facts": ["Home to Mahasthangarh ruins", "Famous for Bogra yogurt (Doi)", "Ancient commercial center"]
+    },
+    {
+      "id": "kushtia-cities-v2",
+      "description": "The cultural capital of Bangladesh, famous for being the home of the philosopher-saint Lalon Shah and the poet Rabindranath Tagore.",
+      "facts": ["Lalon Shah's shrine", "Tagore's Kuthibari in Shilaidaha", "Rich literary tradition"]
+    },
+    {
+      "id": "jessore-cities-v2",
+      "description": "A historic city in southwestern Bangladesh, known for its date palm juice and as the first district liberated in 1971.",
+      "facts": ["Famous for date juice sugar", "Gateway to Benapole land port", "First district of Bangladesh"]
+    },
+    {
+      "id": "coxs-bazar-cities-v2",
+      "description": "A popular tourist destination known for having the world's longest natural sandy sea beach, stretching over 120 kilometers.",
+      "facts": ["World's longest sea beach", "Major tourism hub", "Buddhist heritage sites nearby"]
+    },
+    {
+      "id": "brahmanbaria-cities-v2",
+      "description": "A major cultural and educational center in eastern Bangladesh, historically known for its literary and musical contributions.",
+      "facts": ["Cultural capital of East Bengal", "Major natural gas producer", "Titas Gas field location"]
+    },
+    {
+      "id": "dinajpur-cities-v2",
+      "description": "A northern city famous for its fine rice and the stunning Kantajew Temple, an outstanding example of terracotta architecture.",
+      "facts": ["Home to Kantajew Temple", "Known for aromatic rice", "Ramsagar national park nearby"]
+    },
+    {
+      "id": "pabna-cities-v2",
+      "description": "An important city in western Bangladesh, known for its hosiery industry and mental health hospital.",
+      "facts": ["Historic Pabna Mental Hospital", "Major textile and hosiery hub", "Hardinge Bridge nearby"]
+    },
+    {
+      "id": "tangail-cities-v2",
+      "description": "A district famous for its traditional handloom sarees and its scenic rural landscape north of Dhaka.",
+      "facts": ["Famous for Tangail Saree", "Rich handloom heritage", "Traditional sweet Porabari Chomchom"]
+    },
+    {
+      "id": "sirajganj-cities-v2",
+      "description": "A major river port and transportation hub on the Jamuna River, connecting northern Bangladesh with the rest of the country.",
+      "facts": ["Located near Bangabandhu Bridge", "Major jute trading center", "Important river gateway"]
+    },
+    {
+      "id": "feni-cities-v2",
+      "description": "A strategic city located between Dhaka and Chittagong, serving as a vital link in the country's transport network.",
+      "facts": ["Important transport hub", "High literacy rate", "Muhuri Sluice Gate project nearby"]
+    },
+    {
+      "id": "jamalpur-cities-v2",
+      "description": "A northern city known for its nakshi kantha (embroidered quilt) handicrafts and agricultural production.",
+      "facts": ["Famous for Nakshi Kantha", "On the banks of Brahmaputra", "Agricultural processing center"]
+    }
+  ]
+}

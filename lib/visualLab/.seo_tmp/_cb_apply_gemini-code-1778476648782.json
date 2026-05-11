@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "roume-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Insel Roume (Île de Roume) ist ein Juwel des Îles de Los-Archipels vor der Küste von Conakry und gilt als eine der malerischsten Inseln Guineas. Geografisch liegt sie im Zentrum des Archipels und ist durch eine üppige, hügelige Landschaft und weiße Sandstrände geprägt. Roume ist historisch eng mit der Seefahrt und dem Handel im Atlantik verknüpft; der Legende nach diente die Insel dem berühmten Autor Robert Louis Stevenson als Inspiration für seinen Roman 'Die Schatzinsel'. Die Architektur des Hauptortes auf der Insel ist einfach und charmant, geprägt durch traditionelle Fischerhütten und einige kleine touristische Unterkünfte. Wirtschaftlich basiert das Leben auf Roume auf der Kleinfischerei und einem exklusiven Tourismus, der Besucher anspricht, die Ruhe abseits der hektischen Hauptstadt suchen. Das Klima ist tropisch-maritim, wobei die Meeresbrise die Hitze mildert. Ökologisch ist die Insel von großer Bedeutung als Rückzugsort für Seevögel und aufgrund ihrer intakten Korallenriffe in den umliegenden Gewässern. Für Besucher bietet Roume eine fast paradiesische Atmosphäre, in der die Zeit stillzustehen scheint. Ein Spaziergang über die Insel führt durch dichte Palmenhaine zu versteckten Buchten, die zu den saubersten des Landes gehören.",
+        "hu": "Roume szigete (Île de Roume) a Conakry partjai előtt elhelyezkedő Los-szigetek (Îles de Los) egyik legszebb és legnyugodtabb tagja. Földrajzilag az archipelágus központjában fekszik, dombos felszínét buja trópusi növényzet és vakítóan fehér homokos tengerpartok jellemzik. Roume történelme szorosan összefonódott az atlanti hajózással és a kalózkodással; a legenda szerint Robert Louis Stevenson erről a szigetről mintázta világhírű regényének, 'A kincses szigetnek' a helyszínét. A település arculata egyszerű és barátságos, ahol a hagyományos halászkunyhók mellett néhány kisebb, a természetbe simuló ökohotel is helyet kapott. Gazdaságilag a sziget a kézműves halászatból és a minőségi turizmusból él, utóbbi elsősorban a csendre és az érintetlen természetre vágyó utazókat vonzza. Az éghajlat trópusi tengeri, ahol az állandó óceáni szellő elviselhetővé teszi a hőséget. Ökológiai szempontból Roume fontos fészkelőhelye a tengeri madaraknak, a környező vizek korallzátonyai pedig gazdag víz alatti élővilágnak adnak otthont. A látogatók számára a sziget a béke szigete, ahol nincsenek autók és zaj, csak a pálmafák zúgása és az óceán moraja. Roume eldugott öblei Guinea legtisztább vizű fürdőhelyei közé tartoznak.",
+        "ro": "Insula Roume (Île de Roume) este considerată perla arhipelagului Îles de Los, situată în largul capitalei Conakry. Din punct de vedere geografic, Roume ocupă o poziție centrală în arhipelag, fiind definită de un relief colinar acoperit de vegetație luxuriantă și de plaje cu nisip fin, de o albura rară pentru această regiune. Istoria insulei este învăluită în legende maritime; se spune că peisajul său l-ar fi inspirat pe scriitorul Robert Louis Stevenson pentru faimosul său roman „Insula Comorii”. Arhitectura așezării principale este modestă și autentică, reflectând modul de viață al pescarilor Susu. Economia locală gravitează în jurul pescuitului artizanal și al turismului de nișă, oferind condiții ideale pentru relaxare departe de agitația din Conakry. Climatul este tropical maritim, fiind moderat de briza constantă a Atlanticului. Ecologic, Roume este un sanctuar pentru diverse specii de păsări marine și un punct de interes pentru pasionații de snorkeling, datorită clarității apei și biodiversității marine din jurul stâncilor sale vulcanice. Pentru turiști, insula oferă o atmosferă atemporală, unde traseele prin pădurile de palmieri conduc spre golfuri izolate și cristaline, reprezentând una dintre cele mai exclusiviste destinații naturale ale Guineei.",
+        "en": "Roume Island (Île de Roume) is a standout destination within the Îles de Los archipelago off the coast of Conakry, celebrated as one of Guinea's most scenic escapes. Geographically situated at the heart of the chain, the island is characterized by its rolling hills, lush tropical canopy, and pristine white sand beaches. Roume is historically linked to Atlantic maritime lore; legend has it that the island served as the primary inspiration for Robert Louis Stevenson’s classic novel, 'Treasure Island.' The island's village architecture is simple and charming, dominated by traditional dwellings and small-scale eco-resorts. Economically, Roume relies on artisanal fishing and high-end, low-impact tourism, catering to those seeking tranquility away from the capital's bustle. The climate is tropical-maritime, with sea breezes providing a pleasant respite from the mainland heat. Ecologically, the island is a vital sanctuary for coastal birds and features some of the best-preserved coral patches in Guinean waters. For visitors, Roume offers a near-paradisal atmosphere where motorized vehicles are absent and natural sounds prevail. A trek across the island reveals hidden coves and crystalline waters that are among the cleanest and most inviting in West Africa."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Roume soll die Vorlage für Stevensons 'Schatzinsel' gewesen sein.",
+          "Die Insel ist nur per Boot von Conakry (Boulbinet) aus erreichbar.",
+          "Roume hat kein Straßennetz; die Fortbewegung erfolgt ausschließlich zu Fuß.",
+          "Die Strände der Insel gelten als die weißesten im gesamten Archipel.",
+          "Frisches Meeresgetier ist die Hauptspeise in den lokalen Restaurants.",
+          "Die Insel war historisch ein Stützpunkt für den Kampf gegen den Sklavenhandel."
+        ],
+        "hu": [
+          "A legenda szerint Roume szigete ihlette a 'Kincses sziget' című regényt.",
+          "A sziget csak hajóval érhető el Conakry Boulbinet negyedéből.",
+          "Nincsenek kiépített utak, a közlekedés kizárólag gyalogosan lehetséges.",
+          "Itt találhatók a Los-szigetek legszebb fehér homokos strandjai.",
+          "A sziget vizei híresek a gazdag languszta- és garnélaállományról.",
+          "Történelmileg Roume egy ideig brit ellenőrzés alatt is állt."
+        ],
+        "ro": [
+          "Insula Roume este renumită pentru absența totală a poluării fonice urbane.",
+          "Traversarea cu barca din Conakry durează aproximativ 30-40 de minute.",
+          "Situl este preferat de comunitatea diplomatică pentru retragerile de weekend.",
+          "Geologia insulei este de natură vulcanică, cu formațiuni de bazalt și laterită.",
+          "Există legende locale despre comori îngropate de pirați în peșterile de coastă.",
+          "Ecosistemul marin din jur găzduiește delfini care pot fi observați ocazional."
+        ],
+        "en": [
+          "Roume is widely believed to be the inspiration for Stevenson's 'Treasure Island'.",
+          "The island is accessible only via a scenic boat ride from the port of Conakry.",
+          "There are no cars on Roume, preserving its quiet and natural environment.",
+          "It boasts the most stunning white sand beaches in the entire Los archipelago.",
+          "Local cuisine is centered around daily catches of barracuda and snapper.",
+          "Historically, the island served as a base for anti-slavery patrols in the 19th century."
+        ]
+      }
+    },
+    {
+      "id": "milo-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Milo ist einer der bedeutendsten Nebenflüsse des Niger in Oberguinea und eine lebenswichtige ökologische Ader der Region. Geografisch entspringt der Fluss in den Hochplateaus von Waldguinea, in der Nähe von Beyla, und fließt in nördlicher Richtung durch die Präfekturen Kérouané und Kankan. Der Milo zeichnet sich durch seinen ruhigen Lauf und seine weiten Schwemmlandebenen aus, die während der Regenzeit regelmäßig überschwemmt werden. Diese natürlichen Flutzyklen machen das Umland des Milo zu einer der fruchtbarsten Regionen des Landes, was den großflächigen Anbau von Reis, Mais und Gemüse ermöglicht. Wirtschaftlich ist der Fluss ein zentraler Verkehrsweg für den lokalen Handel; er ist während der Hochwasserperiode für größere Pirogen bis zur Stadt Kankan schiffbar. Historisch gesehen war das Milo-Becken das Siedlungsgebiet mächtiger Mandinka-Klans und ein Schauplatz entscheidender Ereignisse während der Bildung des Wassoulou-Reiches. Das Leben am Milo ist geprägt durch die handwerkliche Fischerei und die Nutzung des Flusses als Wasserquelle für Mensch und Vieh. Ökologisch bietet der Fluss Lebensraum für Flusspferde, Krokodile und eine enorme Vielfalt an Wasservögeln. Für die Bevölkerung von Kankan ist der Milo nicht nur eine Ressource, sondern ein fester Bestandteil ihrer kulturellen Identität und ihrer Geschichte.",
+        "hu": "A Milo Felső-Guinea egyik legfontosabb folyója, a Niger folyam egyik legjelentősebb mellékfolyója és a régió éltető ökológiai ereje. Földrajzilag az Erdős-Guinea magaslatain, Beyla környékén ered, majd északi irányba tartva szeli át Kérouané és Kankan prefektúrákat. A Milo-ra jellemző a nyugodt folyás és a tágas ártéri síkságok, amelyek az esős évszakban rendszeresen víz alá kerülnek. Ez a természetes áradási ciklus teszi a folyó menti területeket az ország egyik legtermékenyebb vidékévé, lehetővé téve a nagyüzemi rizs-, kukorica- és zöldségtermesztést. Gazdaságilag a folyó kulcsfontosságú kereskedelmi útvonal: a magas vízállás idején Kankan városáig nagyobb pirogokkal is hajózható. Történelmileg a Milo-medence volt a hatalmas mandinka klánok szállásterülete és a Wassoulou Birodalom felemelkedésének egyik fő színtere. A folyó menti élet alapját a kézműves halászat és az öntözéses gazdálkodás adja. Ökológiai szempontból a Milo fontos élőhelye a vízilovaknak, krokodiloknak és a rendkívül gazdag vízimadár-világnak. Kankan lakói számára a Milo nem csupán egy természeti erőforrás, hanem kulturális önazonosságuk elválaszthatatlan része, amelyről dalok és legendák szólnak.",
+        "ro": "Milo este unul dintre principalii afluenți ai Nigerului în Guineea Superioară și o arteră ecologică vitală pentru întreaga regiune. Geografic, râul izvorăște din zonele înalte ale Guineei Forestiere, lângă Beyla, și curge spre nord prin prefecturile Kérouané și Kankan. Milo este caracterizat printr-un curs relativ domol și lunci inundabile vaste, care sunt fertilizate natural în timpul sezonului ploios. Această dinamică hidrologică transformă bazinul Milo în una dintre cele mai productive zone agricole ale țării, fiind esențială pentru cultivarea orezului și a legumelor. Din punct de vedere economic, râul servește ca o cale de comunicație importantă, fiind navigabil pentru ambarcațiuni de tonaj mediu până la orașul Kankan în perioadele de viitură. Istoric, valea râului Milo a fost centrul de greutate al clanurilor Mandinka și scena unor bătălii decisive pentru controlul rutelor comerciale ale aurului. Viața comunităților riverane depinde de resursele piscicole ale râului și de utilizarea apei pentru irigarea culturilor de subzistență. Ecologic, Milo adăpostește populații de hipopotami și o mare varietate de avifaună acvatică. Pentru locuitorii din Kankan, râul Milo reprezintă un simbol al continuității și prosperității, fiind profund înrădăcinat în tradițiile și istoria locală.",
+        "en": "The Milo is one of the most important tributaries of the Niger River in Upper Guinea and a vital ecological lifeline for the region. Geographically, it originates in the highlands of Forested Guinea near Beyla and flows northward through the Kérouané and Kankan Prefectures. The Milo is known for its steady flow and extensive floodplains, which are naturally rejuvenated during the annual rainy season. This hydrological cycle makes the Milo basin one of Guinea's most fertile agricultural zones, supporting large-scale rice, maize, and vegetable cultivation. Economically, the river acts as a primary trade route; during peak water levels, it is navigable for large traditional pirogues up to the regional hub of Kankan. Historically, the Milo valley was the heartland of powerful Mandinka clans and a strategic theater during the formation of the Wassoulou Empire. Daily life along the Milo revolves around artisanal fishing and the reliance on the river for irrigation and livestock watering. Ecologically, the river provides essential habitats for hippos, crocodiles, and a diverse range of water birds. For the people of Kankan, the Milo is more than just a resource; it is an intrinsic part of their cultural identity and historical heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Milo mündet bei der Stadt Niandankoro in den Niger.",
+          "Der Fluss ist eine der wichtigsten Wasserquellen für die Stadt Kankan.",
+          "Während der Regenzeit steigt der Wasserspiegel des Milo um mehrere Meter.",
+          "Die Region am Milo ist bekannt für ihre traditionellen Bootsrennen.",
+          "Das Flusstal beherbergt bedeutende alluviale Goldvorkommen.",
+          "Der Milo ist Teil des Niger-Becken-Schutzgebiets für Feuchtgebiete."
+        ],
+        "hu": [
+          "A Milo Niandankoro közelében torkollik a Niger-folyóba.",
+          "A folyó biztosítja Kankan városának teljes vízellátását.",
+          "Az áradások idején a Milo vize táplálja a környék hatalmas rizsföldjeit.",
+          "A folyón rendszeresen rendeznek hagyományos pirog-versenyeket.",
+          "A Milo hordalékos talaja gazdag arany- és gyémántlelőhelyeket rejt.",
+          "A folyóparti erdők kritikus vándorlási útvonalat jelentenek a vadvilág számára."
+        ],
+        "ro": [
+          "Râul Milo are o lungime de aproximativ 300 de kilometri pe teritoriul Guineei.",
+          "Este principala resursă de apă potabilă pentru cel de-al doilea oraș ca mărime din țară.",
+          "Bazinul Milo este renumit pentru varietatea speciilor de pești de apă dulce.",
+          "Navigația pe Milo a fost istoric calea de acces a comercianților către Mali.",
+          "Inundațiile sezoniere sunt esențiale pentru fertilitatea solurilor din Guineea Superioară.",
+          "Milo este celebrat în numeroase cântece tradiționale ale griotilor din Kankan."
+        ],
+        "en": [
+          "The Milo joins the Niger River near the town of Niandankoro.",
+          "It is the primary source of domestic water for the city of Kankan.",
+          "The river's flood-pulse system is critical for Guinea's national rice production.",
+          "Traditional canoe regattas are a cultural highlight along the Milo's banks.",
+          "Alluvial gold mining is a significant economic activity along the river's course.",
+          "The Milo riverbed contains unique geological deposits of gemstones and minerals."
+        ]
+      }
+    },
+    {
+      "id": "konkoure-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Konkouré ist der wasserreichste und wirtschaftlich bedeutendste Fluss in Maritime Guinea. Geografisch entspringt er im Herzen des Fouta-Djallon-Massivs und fließt in südwestlicher Richtung zum Atlantischen Ozean, wo er ein weitreichendes Ästuar bildet. Der Fluss ist durch ein enormes Gefälle und zahlreiche spektakuläre Wasserfälle geprägt, was ihn zur wichtigsten Quelle für die Wasserkraft Guineas macht. Historisch gesehen blieb der Konkouré lange Zeit ungezähmt, bis im späten 20. und frühen 21. Jahrhundert massive Staudammprojekte wie Garafiri, Kaléta und Souapiti realisiert wurden. Diese Bauwerke haben den Fluss zum energetischen Rückgrat des Landes gemacht. Wirtschaftlich ist der Konkouré unverzichtbar für die industrielle Entwicklung, insbesondere für den Bergbau und die Versorgung der Hauptstadt Conakry. Das Leben am Fluss ist in den oberen Abschnitten durch bergige Landschaften und in den unteren durch dichte Mangrovenwälder geprägt. Ökologisch bietet das Ästuar des Konkouré lebenswichtige Habitate für zahlreiche Fischarten und bedrohte Tierarten wie Lamantine. Trotz der industriellen Nutzung bleibt der Fluss ein Symbol für die unbändige Naturkraft Guineas und die Fähigkeit des Landes, seine natürlichen Ressourcen für die nationale Entwicklung zu nutzen.",
+        "hu": "A Konkouré Guinea legbővizűbb és gazdasági szempontból legfontosabb folyója Alsó-Guineában. Földrajzilag a Fouta Djallon-hegység szívében ered, majd délnyugati irányba tartva az Atlanti-óceánba torkollik, ahol hatalmas torkolatvidéket hoz létre. A folyót nagy szintkülönbségek és számos látványos vízesés jellemzi, ami Guinea első számú vízenergia-forrásává teszi. Történelmileg a Konkouré sokáig érintetlen maradt, egészen a 20. század végéig és a 21. század elejéig, amikor olyan monumentális gátak épültek rajta, mint a Garafiri, a Kaléta és a Souapiti. Ezek a létesítmények az ország energetikai gerincévé emelték a folyót. Gazdaságilag a Konkouré nélkülözhetetlen az ipari fejlődés, különösen a bányászat és a főváros, Conakry áramellátása szempontjából. A folyó menti élet a felső szakaszon hegyvidéki jellegű, míg a torkolatnál a sűrű mangrove-erdők dominálnak. Ökológiai szempontból a Konkouré torkolata kritikus élőhely számos halfaj és olyan veszélyeztetett állatok számára, mint a lamantin. Az ipari hasznosítás ellenére a folyó Guinea elemi erejének és természeti gazdagságának jelképe maradt.",
+        "ro": "Konkouré este cel mai bogat în debit și cel mai important râu din punct de vedere economic din Guineea Maritimă. Geografic, acesta izvorăște din centrul masivului Fouta Djallon și curge spre sud-vest până la Oceanul Atlantic, unde formează un estuar vast. Râul este marcat de o pantă accentuată și de numeroase cascade spectaculoase, calități care l-au transformat în principala resursă de energie hidroelectrică a țării. Din punct de vedere istoric, Konkouré a rămas în mare parte sălbatic până la sfârșitul secolului XX, când au fost demarate marile proiecte de baraje precum Garafiri, Kaléta și Souapiti. Aceste structuri au transformat cursul apei în coloana vertebrală energetică a națiunii. Economic, Konkouré este indispensabil pentru dezvoltarea industrială, susținând sectorul minier și alimentarea cu electricitate a capitalei Conakry. Viața de-a lungul râului variază de la peisaje montane aspre în cursul superior, la păduri de mangrove dense în zona litorală. Ecologic, estuarul Konkouré oferă habitate vitale pentru numeroase specii de pești și mamifere acvatice rare, precum manatinul african. În ciuda exploatării industriale intense, râul rămâne un simbol al forței naturii guineene și al potențialului său de dezvoltare suverană.",
+        "en": "The Konkouré is the most water-rich and economically significant river in Maritime Guinea. Geographically, it originates in the heart of the Fouta Djallon massif and flows southwestward into the Atlantic Ocean, creating a massive estuary system. The river is defined by its steep gradients and numerous spectacular waterfalls, making it Guinea's primary source for hydroelectric power. Historically, the Konkouré remained largely untamed until the late 20th and early 21st centuries, when massive dam projects such as Garafiri, Kaléta, and Souapiti were commissioned. These structures have elevated the river to the nation's energetic backbone. Economically, the Konkouré is indispensable for industrial growth, particularly for the mining sector and powering the capital, Conakry. Life along the river transitions from rugged mountain landscapes in its upper reaches to dense mangrove forests near the coast. Ecologically, the Konkouré estuary provides vital habitats for numerous fish species and endangered wildlife like the West African manatee. Despite heavy industrial use, the river remains a supreme symbol of Guinea's raw natural power and its capacity to harness resources for national progress."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Konkouré beherbergt mit Souapiti das größte Wasserkraftwerk Guineas.",
+          "Der Fluss mündet nördlich von Conakry in den Atlantik.",
+          "Sein Ästuar ist bekannt für seine reiche Biodiversität an Mangrovenfischen.",
+          "Der Konkouré hat das höchste Wasserkraftpotenzial aller Flüsse Guineas.",
+          "Der Fluss war historisch ein wichtiger Handelsweg für die Küstenvölker.",
+          "Die Wasserfälle von Kinkon befinden sich an einem seiner Nebenflüsse."
+        ],
+        "hu": [
+          "A Konkouré-folyón található a Souapiti gát, Guinea legnagyobb erőműve.",
+          "A folyó Conakry-tól északra, egy széles torkolattal éri el az óceánt.",
+          "Vízenergia-potenciálja meghaladja az összes többi guineai folyóét.",
+          "A torkolatvidék a ritka afrikai manátuszok (tengeri tehenek) egyik utolsó menedéke.",
+          "A folyó vízhozama alapvetően meghatározza Guinea ipari exportképességét.",
+          "Az esős évszakban a Konkouré vízhozama drasztikusan, többszörösére nő."
+        ],
+        "ro": [
+          "Konkouré este supranumit 'râul energiei' în Republica Guineea.",
+          "Estuarul său este protejat pentru conservarea pădurilor de mangrove.",
+          "Hidrocentralele de pe Konkouré produc peste 80% din electricitatea țării.",
+          "Râul traversează regiuni cu o topografie extrem de accidentată.",
+          "Bazinul hidrografic al râului Konkouré este esențial pentru bauxita din Fria.",
+          "Sunt raportate frecvent observații de crocodili în zonele mai puțin accesibile ale râului."
+        ],
+        "en": [
+          "The Konkouré hosts the Souapiti dam, Guinea's largest hydroelectric facility.",
+          "It empties into the Atlantic Ocean through a wide, ecologically rich delta.",
+          "The river has the highest hydropower potential of any waterway in the country.",
+          "Its estuary is a designated RAMSAR site of international importance.",
+          "The Konkouré is the main power source for the mining towns of Kindia and Fria.",
+          "Its seasonal flow regulates the salinity levels of the coastal mangrove belts."
+        ]
+      }
+    },
+    {
+      "id": "ziama-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Ziama-Wald (Massif du Ziama) ist eines der wertvollsten und besterhaltenen Gebiete des tropischen Primärwaldes in Guinea und Westafrika. Geografisch liegt das Massiv im Südosten des Landes in der Präfektur Macenta, nahe der Grenze zu Liberia. Der Wald erstreckt sich über eine bergige Topografie und umfasst Höhenlagen zwischen 500 und 1.300 Metern. Aufgrund seiner außergewöhnlichen biologischen Vielfalt und seiner Rolle als Schutzgebiet für bedrohte Tierarten wurde Ziama von der UNESCO als Biosphärenreservat anerkannt. Er ist berühmt als einer der letzten Rückzugsorte für Waldelefanten in Guinea sowie für den Westafrikanischen Schimpansen und das seltene Zwergflusspferd. Botanisch beherbergt Ziama eine enorme Vielfalt an Baumarten, Farnen und Orchideen, die in dem feucht-warmen Klima gedeihen. Historisch gesehen war der Wald ein wichtiger Ort für die spirituellen Traditionen der lokalen Toma-Bevölkerung. Wirtschaftlich spielt Ziama eine Rolle durch die Gewinnung von Nichtholzprodukten und als Wasserspeicher für die regionale Landwirtschaft. Trotz seines Schutzstatus steht der Wald unter dem Druck von Wilderei, illegalem Holzeinschlag und der Ausweitung von Kakaoplantagen. Für Forscher und Naturliebhaber ist der Ziama-Wald ein Symbol für die unberührte Wildnis Guineas und ein entscheidender Pfeiler für den regionalen Naturschutz.",
+        "hu": "A Ziama-erdő (Massif du Ziama) Guinea és egész Nyugat-Afrika egyik legértékesebb, érintetlen trópusi őserdője. Földrajzilag az ország délkeleti részén, a Macenta prefektúrában található, közvetlenül a libériai határ szomszédságában. A hegyvidéki területen fekvő erdő tengerszint feletti magassága 500 és 1300 méter között váltakozik. Rendkívüli biológiai sokfélesége miatt az UNESCO bioszféra-rezervátumnak nyilvánította a területet. A Ziama-erdő világszerte ismert, mint az erdei elefántok egyik utolsó guineai menedékhelye, de itt élnek nyugat-afrikai csimpánzok és a rendkívül ritka törpevízilovak is. Botanikailag az erdő a fafajok, páfrányok és orchideák kincstára, amelyek a párás, meleg klímán tökéletes feltételeket találnak. Történelmileg a terület a helyi toma népcsoport spirituális központja volt, akik az erdőt az ősök lakhelyeként tisztelték. Gazdasági jelentőségét a régió vízháztartásában betöltött szerepe és a gyógynövénykincs adja. A védett státusz ellenére az erdőre komoly nyomás nehezedik az orvvadászat, az illegális fakitermelés és a kakaóültetvények terjeszkedése miatt. A Ziama-erdő Guinea természetvédelmi törekvéseinek szimbóluma és a kutatók számára felbecsülhetetlen értékű élő laboratórium.",
+        "ro": "Pădurea Ziama (Massif du Ziama) reprezintă unul dintre cele mai prețioase și bine conservate fragmente de pădure tropicală primară din Guineea și din întreaga Africă de Vest. Geografic, masivul este situat în sud-estul țării, în prefectura Macenta, aproape de frontiera cu Liberia. Pădurea acoperă un relief muntos, cu altitudini variind între 500 și 1.300 de metri. Datorită biodiversității sale excepționale, Ziama a fost recunoscută de UNESCO ca Rezervație a Biosferei. Este celebră pentru faptul că adăpostește una dintre ultimele populații de elefanți de pădure din Guineea, alături de cimpanzei vest-africani și rarisimul hipopotam pitic. Din punct de vedere botanic, Ziama este un tezaur de specii forestiere, ferigi gigantice și orhidee exotice care prosperă în climatul cald și umed. Istoric, pădurea a fost centrul tradițiilor spirituale ale poporului Toma, fiind considerată un spațiu sacru. Economic, Ziama este vitală pentru reglarea cursurilor de apă regionale și pentru colectarea sustenabilă a produselor naturale nelemnoase. În prezent, situl se confruntă cu provocări majore precum braconajul și expansiunea culturilor de cacao, dar rămâne un simbol al sălbăticiei guineene și un pilon esențial al conservării naturii la nivel continental.",
+        "en": "The Ziama Forest (Massif du Ziama) is one of the most valuable and well-preserved primary tropical rainforests in Guinea and across West Africa. Geographically, the massif is located in the southeastern corner of the country within the Macenta Prefecture, near the Liberian border. The forest spans a rugged mountainous landscape with elevations ranging from 500 to 1,300 meters. Due to its exceptional biodiversity and role as a sanctuary for endangered species, Ziama has been recognized by UNESCO as a Biosphere Reserve. It is famously one of the last remaining refuges for forest elephants in Guinea, and it also hosts significant populations of West African chimpanzees and the elusive pygmy hippopotamus. Botanically, Ziama is a vast repository of diverse tree species, ferns, and orchids thriving in its humid tropical climate. Historically, the forest has been central to the spiritual practices of the local Toma people, who revere it as a sacred space. Economically, the forest is crucial for regional water management and the sustainable harvesting of non-timber forest products. Despite its protected status, Ziama faces persistent threats from poaching, illegal logging, and agricultural expansion. For scientists and nature enthusiasts, it remains a supreme symbol of Guinea's pristine wilderness."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ziama wurde 1980 zum UNESCO-Biosphärenreservat erklärt.",
+          "Der Wald beherbergt eine der stabilsten Waldelefanten-Herden Guineas.",
+          "Im Ziama-Massiv entspringen zahlreiche Nebenflüsse des St. Paul River.",
+          "Der höchste Punkt des Waldes liegt bei etwa 1.387 Metern.",
+          "Ziama ist bekannt für seine enorme Vielfalt an Schmetterlingsarten.",
+          "Das Reservat umfasst eine Fläche von über 110.000 Hektar."
+        ],
+        "hu": [
+          "Az erdőt 1980-ban nyilvánította az UNESCO bioszféra-rezervátummá.",
+          "Ziama az egyetlen hely Guineában, ahol még jelentős erdei elefántcsorda él.",
+          "A terület Guinea egyik legfontosabb esőerdei madárvédelmi körzete.",
+          "Az erdőben több mint 1300 növényfajt azonosítottak a botanikusok.",
+          "A toma népcsoport rituális maszkjai és táncai szoros kapcsolatban állnak a Ziama-erdővel.",
+          "A rezervátum kiterjedése meghaladja a 110 000 hektárt."
+        ],
+        "ro": [
+          "Pădurea Ziama acționează ca un coridor ecologic între Guineea și Liberia.",
+          "Situl este monitorizat internațional pentru protecția primatelor amenințate.",
+          "Regiunea Ziama înregistrează unele dintre cele mai mari precipitații din țară.",
+          "Fauna include specii rare de antilope de pădure (duikers).",
+          "Pădurea este renumită pentru arborii săi de esență prețioasă vechi de secole.",
+          "Ziama reprezintă unul dintre ultimele blocuri de pădure tropicală densă din vestul Africii."
+        ],
+        "en": [
+          "Ziama was designated a UNESCO Biosphere Reserve in 1980.",
+          "It is home to the most significant remaining population of forest elephants in Guinea.",
+          "The forest plays a critical role in the headwaters of the Saint Paul River.",
+          "The highest peak in the Ziama range reaches approximately 1,387 meters.",
+          "It boasts an incredible diversity of over 500 species of West African butterflies.",
+          "The core protection area covers a vast expanse of more than 110,000 hectares."
+        ]
+      }
+    },
+    {
+      "id": "tinkisso-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Tinkisso ist ein bedeutender Fluss in Guinea und einer der wichtigsten Nebenflüsse des oberen Niger. Geografisch entspringt er im Fouta-Djallon-Hochland, nordöstlich von Dabola, und fließt in östlicher Richtung durch die trockeneren Savannenlandschaften von Oberguinea. Der Fluss ist bekannt für seinen wechselvollen Lauf, der von ruhigen Abschnitten bis hin zu dramatischen Wasserfällen wie den Tinkisso-Fällen reicht. Diese Fälle sind nicht nur eine landschaftliche Sehenswürdigkeit, sondern werden auch für die Gewinnung von Wasserkraft genutzt, die für die Energieversorgung der Region Dabola entscheidend ist. Historisch markiert der Tinkisso eine wichtige geografische und kulturelle Grenze zwischen den Einflusssphären der Peul und der Mandinka. Das Leben am Fluss ist geprägt durch die handwerkliche Fischerei und den Reisanbau in den fruchtbaren Tälern. Ökologisch bietet der Fluss Lebensraum für Flusspferde und Krokodile sowie zahlreiche Wasservogelarten, die in der Savanne auf permanente Wasserquellen angewiesen sind. Wirtschaftlich ist der Tinkisso eine Lebensader für die Landwirtschaft und den lokalen Transport. Für Besucher bietet der Fluss, insbesondere bei den Fällen von Dabola, ein eindrucksvolles Beispiel für die ungezähmte Kraft der guineischen Fließgewässer.",
+        "hu": "A Tinkisso Guinea egyik meghatározó folyója, a felső Niger folyam egyik legfontosabb mellékfolyója. Földrajzilag a Fouta Djallon-hegységben, Dabola városától északkeletre ered, majd keleti irányba tartva szeli át Felső-Guinea szárazabb szavannáit. A folyó híres változatos jellegéről, a lassabb szakaszokat látványos zuhatagok szakítják meg, amelyek közül a legismertebb a Dabola közelében található Tinkisso-vízesés. Ez a vízesés nem csupán természeti látványosság, hanem a helyi vízerőmű révén a környék áramellátásának alapja is. Történelmileg a Tinkisso fontos választóvonalat és érintkezési pontot jelentett a fula és a mandinka népcsoportok között. A folyó menti lakosság élete a kézműves halászatra és a völgyekben zajló ártéri rizstermesztésre épül. Ökológiai szempontból a Tinkisso kritikus fontosságú itatóhely a szavannai állatvilág számára, vízilovaknak és krokodiloknak nyújt állandó élőhelyet. Gazdaságilag a folyó a mezőgazdaság és a helyi kereskedelem motorja. A látogatók számára a Tinkisso, különösen az áradások idején, a guineai folyók elemi erejét és a táj vadregényes szépségét reprezentálja.",
+        "ro": "Tinkisso este un râu major din Guineea și unul dintre principalii afluenți ai cursului superior al Nigerului. Geografic, acesta își are izvoarele în masivul Fouta Djallon, la nord-est de Dabola, și curge spre est traversând savanele aride din Guineea Superioară. Râul este cunoscut pentru cursul său variat, alternând secțiunile liniștite cu cascade dramatice, cea mai faimoasă fiind Cascada Tinkisso de lângă Dabola. Această cădere de apă nu este doar un obiectiv turistic, ci și o sursă vitală de energie hidroelectrică pentru întreaga regiune. Istoric, râul Tinkisso a reprezentat o frontieră geografică și culturală între sferele de influență ale etniilor Fula și Mandinka. Viața pe malurile sale este marcată de pescuitul artizanal și de cultivarea orezului în văile fertile irigate natural. Din punct de vedere ecologic, Tinkisso oferă refugiu hipopotamilor și crocodililor, fiind o sursă permanentă de apă esențială pentru fauna din savană. Economic, râul este o arteră de supraviețuire pentru agricultură și transportul local de mărfuri. Pentru vizitatori, Tinkisso oferă peisaje de o frumusețe aspră, fiind un exemplu elocvent al forței hidrografice care modelează relieful Guineei centrale.",
+        "en": "The Tinkisso is a prominent river in Guinea and one of the most vital tributaries of the upper Niger. Geographically, it originates in the Fouta Djallon highlands, northeast of Dabola, and flows eastward through the drier savanna landscapes of Upper Guinea. The river is renowned for its diverse course, ranging from calm stretches to dramatic cascades such as the Tinkisso Falls near Dabola. These falls are not only a scenic landmark but also the location of a critical hydroelectric plant that provides power to the surrounding region. Historically, the Tinkisso has served as a geographic and cultural boundary between the Fula and Mandinka spheres of influence. Daily life along the river is sustained by artisanal fishing and rice farming in the fertile valleys. Ecologically, the Tinkisso provides an essential year-round water source for savanna wildlife, including hippos and crocodiles. Economically, the river is the lifeblood of regional agriculture and local commerce. For visitors, the Tinkisso, especially at the falls of Dabola, presents a powerful display of the raw energy and untamed beauty of Guinea's waterways."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Tinkisso mündet flussabwärts von Siguiri in den Niger.",
+          "Das Wasserkraftwerk an den Tinkisso-Fällen versorgt die Stadt Dabola.",
+          "Der Fluss durchquert einige der goldreichsten Gebiete Guineas.",
+          "Der Tinkisso ist bekannt für seine saisonalen extremen Pegelunterschiede.",
+          "In der lokalen Folklore gilt der Fluss als Wohnort mächtiger Geister.",
+          "Der Flusslauf bildet ein wichtiges Ökosystem für zahlreiche Zugvogelarten."
+        ],
+        "hu": [
+          "A Tinkisso Siguiri városától nem messze egyesül a Niger-folyóval.",
+          "A folyón épült vízerőmű Guinea egyik legrégebbi ilyen jellegű létesítménye.",
+          "A folyómederben végzett aranymosás évszázados hagyomány a térségben.",
+          "Az esős évszakban a folyó szélessége és sodrása többszörösére növekszik.",
+          "A Tinkisso mente a környékbeli állatcsordák egyik legfontosabb itatóhelye.",
+          "A folyó vize kulcsszerepet játszik az országrész élelmiszerbiztonságában."
+        ],
+        "ro": [
+          "Tinkisso are o lungime de peste 250 de kilometri.",
+          "Hidrocentrala Tinkisso a fost modernizată recent pentru a crește producția locală.",
+          "Albia râului conține depozite importante de aur aluvionar.",
+          "Râul este o barieră naturală ce a influențat tacticile militare istorice.",
+          "Sezonul optim pentru vizitarea cascadelor este imediat după perioada ploilor.",
+          "Tinkisso face parte dintr-un bazin hidrografic protejat la nivel național."
+        ],
+        "en": [
+          "The Tinkisso merges with the Niger River downstream from the town of Siguiri.",
+          "The hydroelectric plant at Tinkisso Falls is a major energy provider for central Guinea.",
+          "The river flows through some of the country's most productive gold-mining zones.",
+          "It experiences dramatic seasonal fluctuations, becoming a torrent during the rains.",
+          "The Tinkisso valley is a critical corridor for pastoralists and their herds.",
+          "Rich freshwater fish stocks in the Tinkisso support thousands of local families."
+        ]
+      }
+    }
+  ]
+}

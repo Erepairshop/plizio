@@ -1,0 +1,84 @@
+{
+  "lang": "hu",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "juigalpa-cities-v2",
+      "description": "Juigalpa Chontales tartomány fővárosa, ismert a szarvasmarha tenyésztésről és a Las Lajas barlangfestményeiről.",
+      "facts": ["Szarvasmarha tenyésztés", "Las Lajas barlangfestmények", "Chontales"]
+    },
+    {
+      "id": "boaco-cities-v2",
+      "description": "Boaco, a 'Két emelet városa', egy dombos régióban található, és a szarvasmarha tenyésztés központja.",
+      "facts": ["Két emelet városa", "Dombos régió", "Szarvasmarha tenyésztés"]
+    },
+    {
+      "id": "chichigalpa-cities-v2",
+      "description": "Chichigalpa Chinandega államban található város, híres a rumgyártásról és a cukornád-termesztésről.",
+      "facts": ["Rumgyártás", "Cukornád-termesztés", "Chinandega"]
+    },
+    {
+      "id": "diriamba-cities-v2",
+      "description": "Diriamba Carazo tartományban található, ismert bennszülött kulturális örökségéről és hagyományos táncairól.",
+      "facts": ["Bennszülött kulturális örökség", "Hagyományos táncok", "Carazo"]
+    },
+    {
+      "id": "nagarote-cities-v2",
+      "description": "Nagarote León tartományban található város, híres a tengerparti turizmusról és a szivargyártásról.",
+      "facts": ["Tengerparti turizmus", "Szivargyártás", "León"]
+    },
+    {
+      "id": "san-marcos-cities-v2",
+      "description": "San Marcos Carazo tartományban található város, kávéültetvényeiről és enyhe klímájáról ismert.",
+      "facts": ["Kávéültetvények", "Enyhe klíma", "Carazo"]
+    },
+    {
+      "id": "sebaco-cities-v2",
+      "description": "Sébaco a Matagalpa-völgyben található, 'Nicaragua éléskamrájaként' ismert, termékeny talajai és rizstermesztése miatt.",
+      "facts": ["Nicaragua éléskamrája", "Rizstermesztés", "Matagalpa-völgy"]
+    },
+    {
+      "id": "posoltega-cities-v2",
+      "description": "Posoltega Chinandega tartományban található, mezőgazdasági területeiről és vulkáni környezetéről ismert.",
+      "facts": ["Mezőgazdasági terület", "Vulkáni környezet", "Chinandega"]
+    },
+    {
+      "id": "san-rafael-del-sur-cities-v2",
+      "description": "San Rafael del Sur Managua tartományban található, népszerű tengerparti úti cél és halászati központ.",
+      "facts": ["Tengerparti úti cél", "Halászati központ", "Managua"]
+    },
+    {
+      "id": "niquinohomo-cities-v2",
+      "description": "Niquinohomo történelmi falu Masaya tartományban, Augusto C. Sandino nemzeti hős szülőhelye.",
+      "facts": ["Történelmi falu", "Sandino szülőhelye", "Masaya"]
+    },
+    {
+      "id": "puerto-morazan-cities-v2",
+      "description": "Puerto Morazán a Fonseca-öbölben található kikötő, fontos a kereskedelem és a halászat szempontjából.",
+      "facts": ["Kikötőváros", "Fonseca-öböl", "Kereskedelem és halászat"]
+    },
+    {
+      "id": "mateare-cities-v2",
+      "description": "Mateare a Managua-tó partján fekszik, termálforrásairól és a Momotombo vulkánra nyíló kilátásáról ismert.",
+      "facts": ["Managua-tó", "Termálforrások", "Momotombo vulkán"]
+    },
+    {
+      "id": "san-isidro-matagalpa-cities-v2",
+      "description": "San Isidro Matagalpa tartományban található mezőgazdasági közösség, kávétermesztéséről és természeti szépségéről ismert.",
+      "facts": ["Mezőgazdasági közösség", "Kávétermesztés", "Természeti szépség"]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "description": "Tecolostote Boaco tartományban hagyományos fesztiváljairól és a bab- és kukoricatermesztésről ismert.",
+      "facts": ["Hagyományos fesztiválok", "Bab és kukorica", "Boaco"]
+    },
+    {
+      "id": "san-lorenzo-boaco-cities-v2",
+      "description": "San Lorenzo Boaco tartományban egy vidéki közösség, ismert szarvasmarha tenyésztéséről és tejtermékeiről.",
+      "facts": ["Vidéki közösség", "Szarvasmarha tenyésztés", "Tejtermékek"]
+    }
+  ]
+}

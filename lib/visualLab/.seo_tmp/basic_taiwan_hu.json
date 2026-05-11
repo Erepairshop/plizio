@@ -1,0 +1,41 @@
+{
+  "lang": "hu",
+  "country": "Taiwan",
+  "files": [
+    "lib/visualLab/data/poiExtraTaiwanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanLifeV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kaohsiung-cities-v2",
+      "description": "Tajvan legnagyobb kikötővárosa az ország déli részén, amely ipari központként és kulturális csomópontként is jelentős. A város modern építészete és pezsgő éjszakai élete sok látogatót vonz.",
+      "facts": ["Második legnagyobb város", "Jelentős kikötőváros", "Trópusi klíma", "Ipari központ"]
+    },
+    {
+      "id": "hsinchu-cities-v2",
+      "description": "Az északnyugati Tajvan technológiai központja, melyet gyakran a \"Tajvani Szilícium-völgyként\" emlegetnek a helyi félvezetőipar koncentrációja miatt. Történelmi óvárosa és templomai éles kontrasztban állnak a modern technológiai parkokkal.",
+      "facts": ["Technológiai fellegvár", "Félvezetőipar központja", "Hszincsu Tudományos Park", "Történelmi óváros"]
+    },
+    {
+      "id": "qingjing-farm-life-v2",
+      "description": "Egy festői hegyvidéki mezőgazdasági terület, amely európai alpesi hangulatot idéz Tajvan központi hegyvonulatában. A farm hűvös klímája és gyapjútermelő állatai miatt népszerű kirándulóhely.",
+      "facts": ["Alpesi hangulat", "Hűvös hegyvidéki klíma", "Juhfarm és legelő", "Népszerű turistacélpont"]
+    },
+    {
+      "id": "sihcao-green-tunnel-life-v2",
+      "description": "Tainan városának közelében található különleges mangroveerdő, melyet sűrű, alagútszerűen összeérő növényzet borít. A hajókirándulásokon bejárható terület gazdag mocsári élővilággal rendelkezik.",
+      "facts": ["Mangroveerdő", "Zöld növényalagút", "Csónakos túrák", "Gazdag mocsári élővilág"]
+    },
+    {
+      "id": "xueshan-relief-v2",
+      "description": "Tajvan második legmagasabb hegycsúcsa a Központi-hegyláncban, melyet gyakran hó borít a téli hónapokban. A terület fontos ökológiai menedékhely számos endemikus növény- és állatfaj számára.",
+      "facts": ["Második legmagasabb csúcs", "Központi-hegylánc része", "Télen havas csúcs", "Endemikus élővilág"]
+    },
+    {
+      "id": "qixingshan-relief-v2",
+      "description": "A Jangmingsan Nemzeti Park legmagasabb vulkanikus eredetű hegye, mely a Taipei-medence peremén helyezkedik el. Aktív fumarolák és hőforrások jellemzik, ami vulkanikus aktivitására utal.",
+      "facts": ["Vulkanikus eredet", "Jangmingsan Nemzeti Park", "Aktív fumarolák", "Taipei közeli hegy"]
+    }
+  ]
+}

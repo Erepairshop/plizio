@@ -1,0 +1,89 @@
+{
+  "lang": "hu",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "erongo-mountains-relief-v2",
+      "description": "Az Erongo-hegység egy ősi vulkanikus masszívum, amely Namíbia egyik jellegzetes domborzati formája.",
+      "facts": ["Típus: hegység", "Vulkáni eredet", "Domborzat"]
+    },
+    {
+      "id": "khomas-hochland-relief-v2",
+      "description": "A Khomas-fennsík egy nagy kiterjedésű, magas fekvésű terület, amely elválasztja a belterületet a tengerparttól.",
+      "facts": ["Típus: fennsík", "Magasföld", "Domborzat"]
+    },
+    {
+      "id": "waterberg-plateau-relief-v2",
+      "description": "A Waterberg-fennsík meredek falai és kiterjedt lapos teteje messziről felismerhetővé teszik.",
+      "facts": ["Típus: fennsík", "Merőleges falak", "Domborzat"]
+    },
+    {
+      "id": "aus-mountains-relief-v2",
+      "description": "Az Aus-hegység vidéke a sivatagi peremvidék egyik meghatározó domborzati eleme.",
+      "facts": ["Típus: hegység", "Sivatagi perem", "Domborzat"]
+    },
+    {
+      "id": "tsau-khaeb-relief-v2",
+      "description": "A Tsau-Khaeb területének domborzata a tengerparti homokdűnék és a sziklás sivatag ötvözete.",
+      "facts": ["Típus: sivatagi", "Dűnék", "Domborzat"]
+    },
+    {
+      "id": "huns-mountains-relief-v2",
+      "description": "A Huns-hegység vad és kopár vidék, amely a Fish-folyó kanyonjának közelében található.",
+      "facts": ["Típus: hegység", "Kopár vidék", "Domborzat"]
+    },
+    {
+      "id": "muhlo-mountains-relief-v2",
+      "description": "A Muhlo-hegység vidéke kevésbé ismert, de geológiailag változatos domborzatú terület.",
+      "facts": ["Típus: hegység", "Geológia", "Domborzat"]
+    },
+    {
+      "id": "otavi-mountains-relief-v2",
+      "description": "Az Otavi-hegység Namíbia északi részének egyik termékenyebb domborzati régiója.",
+      "facts": ["Típus: hegység", "Termékeny", "Domborzat"]
+    },
+    {
+      "id": "zebra-mountains-relief-v2",
+      "description": "A Zebra-hegység elnevezését a hegyoldalak csíkos geológiai rétegeiről kapta.",
+      "facts": ["Típus: hegység", "Geológia", "Domborzat"]
+    },
+    {
+      "id": "baynes-mountains-relief-v2",
+      "description": "A Baynes-hegység a távoli északnyugati régió egyik nehezen megközelíthető, látványos képződménye.",
+      "facts": ["Típus: hegység", "Északnyugat", "Domborzat"]
+    },
+    {
+      "id": "hartmann-mountains-relief-v2",
+      "description": "A Hartmann-hegység vidéke a legszélsőségesebb namíbiai sivatagi domborzati területek közé tartozik.",
+      "facts": ["Típus: hegység", "Sivatagi", "Domborzat"]
+    },
+    {
+      "id": "grootberg-relief-v2",
+      "description": "A Grootberg meredek fennsíkja látványos kilátást nyújt a környező völgyekre.",
+      "facts": ["Típus: fennsík", "Kilátás", "Domborzat"]
+    },
+    {
+      "id": "epupa-falls-relief-v2",
+      "description": "Az Epupa-vízesés környékének domborzata a Cunene-folyó völgyének egyik leglátványosabb szakasza.",
+      "facts": ["Típus: vízesés", "Folyóvölgy", "Domborzat"]
+    },
+    {
+      "id": "ongongo-relief-v2",
+      "description": "Ongongo környéke egy sziklás völgy, amely híres természetes medencéjéről.",
+      "facts": ["Típus: völgy", "Természetes medence", "Domborzat"]
+    },
+    {
+      "id": "palmwag-concession-relief-v2",
+      "description": "A Palmwag-koncesszió domborzata változatos, sziklás és félsivatagi tájegység.",
+      "facts": ["Típus: fennsík", "Változatos", "Domborzat"]
+    },
+    {
+      "id": "urichab-relief-v2",
+      "description": "Az Urichab-vidék domborzata a sivatagi fennsíkokra jellemző kopár táj.",
+      "facts": ["Típus: sivatagi", "Kopár", "Domborzat"]
+    }
+  ]
+}

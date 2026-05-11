@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ciudad-juarez-cities-v2",
+      "description": "A major industrial city located on the border with the United States. It is a key hub for manufacturing and international trade.",
+      "facts": ["Border city with El Paso", "Manufacturing industrial hub", "Population over 1.5 million", "Located in Chihuahua state"]
+    },
+    {
+      "id": "saltillo-cities-v2",
+      "description": "The capital of Coahuila state, known for its automotive industry and colonial architecture. It serves as an important economic and cultural center in Northern Mexico.",
+      "facts": ["Capital of Coahuila", "Major automotive center", "High-altitude valley location", "Historical downtown area"]
+    },
+    {
+      "id": "mayapan-history-v2",
+      "description": "An important archaeological site that served as the political capital of the Maya in the Yucatan Peninsula during the Postclassic period.",
+      "facts": ["Postclassic Maya capital", "Located in Yucatan", "Surrounded by a city wall", "Significant ceremonial center"]
+    }
+  ]
+}

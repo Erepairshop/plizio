@@ -1,0 +1,55 @@
+{
+  "lang": "hu",
+  "country": "Qatar",
+  "files": [
+    "lib/visualLab/data/poiExtraQatarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraQatarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qatar-barzan-towers-history-v2",
+      "description": "A 19. század végén épült tornyok védelmi és megfigyelési célokat szolgáltak Um Salal Mohammed faluban. A falak vastagsága biztosította a belső terek hűvös hőmérsékletét a nagy melegben.",
+      "facts": ["Épült: 19. század vége", "Anyag: kő és vályog", "Funkció: őrtorony", "Helyszín: Um Salal Mohammed"]
+    },
+    {
+      "id": "qatar-al-koot-fort-history-v2",
+      "description": "Doha szívében található ez a jellegzetes erőd, amelyet a 20. század elején emeltek rendőrségi célokra. Ma múzeumként mutatja be a régió katonai örökségét.",
+      "facts": ["Épült: 1927", "Stílus: hagyományos katari", "Funkció: erőd és börtön", "Helyszín: Doha"]
+    },
+    {
+      "id": "qatar-al-rakiyat-fort-history-v2",
+      "description": "Az északi sivatagi régióban fekvő erődítmény a 19. században épült, hogy megvédje a helyi víztározókat és a karavánutakat. Az egyik legjobban megőrzött példája a korszak katari védelmi építészetének.",
+      "facts": ["Épült: 19. század", "Helyszín: Észak-Katar", "Típus: sivatagi erőd", "Védelem: vízkészletek"]
+    },
+    {
+      "id": "qatar-al-jumail-village-history-v2",
+      "description": "Az elhagyatott halászfalu a régió tengeri kereskedelmének emlékét őrzi, ahol a búvárkodás és gyöngyhalászat volt a megélhetés fő forrása. Épületei a hagyományos sivatagi és tengerparti építészeti stílusokat ötvözik.",
+      "facts": ["Állapot: elhagyatott", "Tevékenység: gyöngyhalászat", "Építészeti stílus: hagyományos", "Helyszín: északnyugati part"]
+    },
+    {
+      "id": "qatar-jazirat-bin-ghannam-history-v2",
+      "description": "A sziget stratégiai szerepet töltött be a történelem során, mivel egykor a lila festék előállításának központja volt. Fontos régészeti lelőhely, amely betekintést nyújt az ősi kereskedelmi kapcsolatokba.",
+      "facts": ["Kereskedelem: lila festék", "Státusz: régészeti lelőhely", "Helyszín: Al Khor közelében", "Típus: sziget"]
+    },
+    {
+      "id": "qatar-al-thaqab-fort-history-v2",
+      "description": "A sivatagban rejtőző erőd a karavánok védelmére épült, jellegzetes bástyáival és udvarával. A 19. századi szerkezet betekintést nyújt a régió korabeli védelmi stratégiáiba.",
+      "facts": ["Épült: 19. század", "Helyszín: Észak-Katar", "Szerkezet: bástyák és udvar", "Funkció: karaván védelem"]
+    },
+    {
+      "id": "qatar-wind-tower-house-history-v2",
+      "description": "A hagyományos szélfogó tornyos ház a sivatagi klímához való alkalmazkodás remek példája, ahol a természetes légáramlat biztosította a belső terek hűtését. Ez az építészeti megoldás elengedhetetlen volt a kényelmes élethez az elektromosság előtti időkben.",
+      "facts": ["Technológia: szélfogó torony", "Funkció: passzív hűtés", "Helyszín: Doha és környéke", "Építés: hagyományos"]
+    },
+    {
+      "id": "wadi-al-banat-relief-v2",
+      "description": "Ez a völgyrendszer a katari félsziget jellegzetes geomorfológiai képződményeinek része, amely fontos szerepet játszik a ritka sivatagi esőzések utáni vízelvezetésben. Növényzete elszórt, de az évszakok során változatos képet mutat.",
+      "facts": ["Típus: völgy (wadi)", "Jellemző: időszakos vízfolyás", "Helyszín: északkeleti régió", "Geológia: sivatagi meder"]
+    },
+    {
+      "id": "wadi-msheireb-relief-v2",
+      "description": "A modern Doha városi környezetében található völgy maradványa a város egykori természetes vízelvezető útvonalát jelöli ki. A mai városfejlesztés integrálja a táj ezen ősi vonásait.",
+      "facts": ["Típus: völgy (wadi)", "Helyszín: Doha központja", "Jellemző: urbanizált meder", "Történelem: természetes vízelvezetés"]
+    }
+  ]
+}

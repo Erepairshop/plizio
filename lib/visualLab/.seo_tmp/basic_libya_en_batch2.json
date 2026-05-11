@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Libya",
+  "files": [ "lib/visualLab/data/poiExtraLibyaNatureV2.ts" ],
+  "items": [
+    { "id": "gargaf-mountains-nature-v2", "description": "The Gargaf Mountains are a rugged and arid mountain range in central Libya, known for their harsh environment.", "facts": ["Central Libya", "Arid mountains", "Rugged terrain"] },
+    { "id": "mizdah-plateau-nature-v2", "description": "The Mizdah Plateau is a vast limestone plateau in western Libya, named after the town of Mizdah.", "facts": ["Limestone plateau", "Western Libya", "Highland area"] },
+    { "id": "tibesti-foothills-nature-v2", "description": "The foothills of the Tibesti Mountains offer a dramatic landscape on Libya's southern border with Chad.", "facts": ["Southern border", "Tibesti range", "Volcanic landscape"] },
+    { "id": "sarir-tanezrouft-nature-v2", "description": "Sarir Tanezrouft is an extremely dry and flat desert plain, often described as a 'land of terror' due to its desolation.", "facts": ["Desert plain", "Extreme aridity", "Flat terrain"] },
+    { "id": "al-haruj-nature-v2", "description": "Al-Haruj is a massive field of black volcanic rock in central Libya, one of the largest such fields in the Sahara.", "facts": ["Volcanic field", "Black basalt", "Central Sahara"] },
+    { "id": "jebel-aswad-nature-v2", "description": "Jebel Aswad, meaning 'Black Mountain', is a volcanic massif in the Fezzan region of southwestern Libya.", "facts": ["Volcanic massif", "Black mountain", "Fezzan region"] },
+    { "id": "gargaf-desert-nature-v2", "description": "The Gargaf Desert is a stony desert region characterized by its high plateaus and dry riverbeds.", "facts": ["Stony desert", "Hamada landscape", "Central Libya"] },
+    { "id": "wadi-mathendous-nature-v2", "description": "Wadi Mathendous is world-renowned for its prehistoric rock art, featuring large-scale engravings of wild animals.", "facts": ["Prehistoric rock art", "Animal engravings", "Archaeological site"] },
+    { "id": "cyrenaica-coast-nature-v2", "description": "The Cyrenaica Coast features some of Libya's most lush and green Mediterranean landscapes.", "facts": ["Mediterranean coast", "Green landscapes", "North-eastern Libya"] },
+    { "id": "wadi-farigh-nature-v2", "description": "Wadi Farigh is a desert valley in the northeast, known for its unique geology and seasonal importance.", "facts": ["Northeast Libya", "Desert valley", "Geological site"] },
+    { "id": "jebel-tarhuna-nature-v2", "description": "Jebel Tarhuna is a hilly region southeast of Tripoli, famous for its olive groves and agricultural productivity.", "facts": ["Hilly region", "Olive groves", "Near Tripoli"] },
+    { "id": "ghat-mountains-nature-v2", "description": "The mountains around Ghat are part of the Akakus range, famous for their spectacular scenery and rock art.", "facts": ["Akakus range", "Ghat region", "Desert mountains"] }
+  ]
+}

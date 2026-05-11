@@ -1,0 +1,51 @@
+{
+  "lang": "en",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ez-zeraf-wildreservat-life-v2",
+      "description": "A protected area encompassing diverse riverine habitats, crucial for maintaining regional wildlife populations.",
+      "facts": ["Protected wild reserve", "Diverse riverine habitat", "Wildlife conservation area", "Nile tributary ecosystem"]
+    },
+    {
+      "id": "nzara-agrarkomplex-life-v2",
+      "description": "An agro-industrial facility in Nzara that plays a key role in the regional agricultural economy.",
+      "facts": ["Nzara agro-complex", "Agricultural facility", "Regional economic hub", "Crop processing center"]
+    },
+    {
+      "id": "bahr-el-ghazal-river-nature-v2",
+      "description": "A major river system in the western part of the country, known for its extensive wetland areas and biodiversity.",
+      "facts": ["Major western river", "Extensive wetland system", "Rich biodiversity", "Nile basin tributary"]
+    },
+    {
+      "id": "lake-ambadi-nature-v2",
+      "description": "A significant lake located in the Bahr el Ghazal region, serving as an important water source and habitat.",
+      "facts": ["Bahr el Ghazal lake", "Regional water source", "Wildlife habitat", "Nile floodplain system"]
+    },
+    {
+      "id": "akobo-river-nature-v2",
+      "description": "A river that flows through the eastern border region, supporting various aquatic and terrestrial species.",
+      "facts": ["Eastern border river", "Aquatic habitat", "Diverse wildlife support", "Nile-Sobot system"]
+    },
+    {
+      "id": "lantoto-forest-nature-v2",
+      "description": "A dense forest area in the southern border region, home to rare plant and animal species.",
+      "facts": ["Southern dense forest", "Rare biodiversity area", "Protected woodland", "Equatorial canopy"]
+    },
+    {
+      "id": "lake-nyubor-nature-v2",
+      "description": "An essential wetland and lake area providing a habitat for numerous migratory and resident bird species.",
+      "facts": ["Significant wetland", "Bird migration stop", "Diverse water habitat", "Regional water body"]
+    },
+    {
+      "id": "ss-madi-hills-relief-v2",
+      "description": "A range of elevated terrains providing a unique landscape feature in the southern parts of the country.",
+      "facts": ["Southern elevated range", "Unique landscape", "Mountainous terrain", "Regional topography"]
+    }
+  ]
+}

@@ -29,8 +29,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["Nationalpark seit 1980", "liegt ?stlich von Tegucigalpa", "schützt einen Nebelwald im Bergland", "liefert Wasser f?r die Hauptstadtregion", "bekannt f?r Farn- und Moosw?lder", "Lebensraum f?r V?gel und Kleins?uger"],
       hu: ["Honduras elsőként (1980-ban) alapított hivatalos nemzeti parkja.", "Tegucigalpától csupán 15 km-re fekvő magaslati trópusi felhőerdő.", "A park biztosítja a főváros ivóvízellátásának közel 30%-át.", "Gazdag élővilága van, többek között quetzál, puma és ocelot él itt.", "Jól kiépített, történelmi bányászútvonalakat követő túraösvényei vannak.", "A sűrű erdőt hatalmas páfrányok, mohák és orchideák (epifiták) borítják.", "Népszerű ökoturisztikai célpont a fővárosiak és a külföldiek számára."],
-      ro: ["Destinatie populara de drumetie.", "Protejeaza izvoare de apa.", "Aproape de capitala.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Popular hiking area.", "Protects key water sources.", "Close to the capital.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -60,8 +60,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["biologische Reserve im Bergland", "liegt nahe Tegucigalpa", "bekannt f?r feuchten Waldrest", "wird von Forschern und Studierenden genutzt", "wichtiger Ort f?r Pflanzenvielfalt", "zeigt ein starkes Mikroklima am Kamm"],
       hu: ["Szigorúan védett felhőerdő Francisco Morazán megyében (2000+ méter).", "A neves Zamorano Mezőgazdasági Iskola kezeli és kutatja.", "Az állandó köd miatt rendkívül gazdag orchideákban és broméliákban.", "Elsődlegesen tudományos és ökológiai oktatási célokat szolgál.", "Ritka kétéltűek, trópusi madarak és kisebb emlősök élőhelye.", "A látogatás a törékeny ökoszisztéma védelmében szigorúan korlátozott.", "Kulcsszerepet játszik a régió mikroklímájának és vízháztartásának fenntartásában."],
-      ro: ["Padure de ceata si pini.", "Rezervor important de apa.", "Populara printre cercetatori.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Cloud forest and pine woods.", "Important water reservoir.", "Popular with researchers.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -91,8 +91,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt oberhalb des Lago de Yojoa", "ist ein Bergschutzgebiet mit Waldh?ngen", "trägt den Namen Cerro Azul Me?mbar", "gehört zur Cordillera rund um Yojoa", "zeigt Kiefernwald und feuchte Waldzonen", "ist ein klassischer Ort f?r Höhenstufen"],
       hu: ["A Yojoa-tó keleti oldalán magasodó nemzeti park, Comayagua és Cortés megyékben.", "Nevét ('Kék Hegy') a távolból kékes színűnek ható hegycsúcsokról kapta.", "Kiváló ökoturisztikai infrastruktúrával és túraösvényekkel rendelkezik.", "A park vízesései és forrásai táplálják a Yojoa-tavat és az El Cajón gátat.", "Rendkívül gazdag a madárvilága, ideális célpont madármegfigyelőknek.", "A területen esőerdő és magaslati trópusi felhőerdő is található.", "A látogatóközpont interaktív kiállításokkal mutatja be a helyi ökoszisztémát."],
-      ro: ["Aer racoros si privelisti.", "Drumetii si birdwatching.", "Parte din parc national.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Cool air and views.", "Hiking and birdwatching.", "Part of a national park.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -122,8 +122,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["beherbergt den Cerro Las Minas", "liegt im Westen von Honduras", "nahe der Stadt Gracias", "ist bekannt f?r dichten Nebelwald", "prägt wichtige Wasserquellen der Region", "steht f?r das h?chste Gebirge des Landes"],
       hu: ["Itt található Honduras legmagasabb pontja, a 2849 méteres Cerro Las Minas.", "A Lempira megyei Gracias városa mellett helyezkedik el.", "Nevének jelentése a lenca nyelvben: 'vizek doboza'.", "Több mint egy tucat folyó forrásvidéke, kritikus a régió vízellátásában.", "Közép-Amerika egyik legérintetlenebb és legsűrűbb hegyi felhőerdeje.", "Jaguárok, pumák és számos endémikus kétéltű (szalamandra) élőhelye.", "A hegymászók számára az ország egyik legnehezebb, de legszebb terepe."],
-      ro: ["Foarte bogat in specii.", "Sursa pentru multe rauri.", "Varfuri inalte si vai adanci.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Very species-rich.", "Source of many rivers.", "High peaks and deep valleys.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -153,8 +153,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt im Nordwesten von Honduras", "ist ein hochgelegenes Bergschutzgebiet", "bekannt f?r feuchten Nebelwald", "enth?lt Orchideen und andere Epiphyten", "ist ein wichtiger Lebensraum f?r Amphibien", "gehört zu den artenreichen Schutzräumen des Landes"],
       hu: ["A Merendón hegységben, San Pedro Sulától nyugatra található.", "A világ egyik leggazdagabb területe endémikus (csak itt élő) kétéltű fajokban.", "Az 'Operation Wallacea' nemzetközi kutatócsoport állandó bázisa.", "Ritka trópusi madarak (quetzál, tukán) és tapírok otthona.", "Hatalmas, ősi páfrányfák (helechos arborescentes) borítják.", "Folyamatosan fenyegeti az illegális fakitermelés és a kávéfarmok terjeszkedése.", "Hűvös felhőerdei klímája drasztikusan különbözik az alatta lévő forró völgytől."],
-      ro: ["Multe specii endemice.", "Popular printre biologi.", "Padure de ceata deasa.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Many endemic species.", "Popular with biologists.", "Dense cloud forest.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -184,8 +184,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt nahe La Ceiba", "gehört zur Karibikküste von Honduras", "ist von Flüssen und Schluchten geprägt", "verbindet Regenwald und Bergwald", "trägt den Namen Pico Bonito", "ist Teil der n?rdlichen Gebirgskette"],
       hu: ["Honduras északi partvidékének, La Ceiba városának szimbóluma.", "Rendkívül meredek hegység, a tengerszintről hirtelen emelkedik 2435 méterre.", "Több klímazónát (trópusi esőerdőtől a felhőerdőig) foglal magában.", "A hondurasi smaragdkolibri, az egyetlen endémikus madárfaj élőhelye.", "Nagytestű emlősök, mint a jaguár, a tapír és a hangyász otthona.", "A parkot átszelő Cangrejal folyó világszínvonalú vadvízi evezős (rafting) helyszín.", "Több tucat feltáratlan vízesést és szurdokot rejt a sűrű dzsungel."],
-      ro: ["Popular pentru drumetii.", "Fauna de pasari bogata.", "Imbina munti si rauri.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Popular for hiking.", "Rich birdlife.", "Combines mountains and rivers.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -215,8 +215,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt bei Tela", "gehört zu den großen botanischen G?rten des Landes", "wurde als Forschungsstandort aufgebaut", "enth?lt Palmen und Tropenb?ume", "ist ein klassischer Ort f?r Pflanzenkunde", "wird mit Lancetilla Botanical Garden bezeichnet"],
       hu: ["A világ második legnagyobb trópusi botanikus kertje Tela városa mellett.", "1925-ben alapította William Popenoe a United Fruit Company megbízásából.", "Eredeti célja a világ trópusi gyümölcseinek (pl. rambután) meghonosítása volt.", "Hatalmas arborétuma ázsiai, afrikai és óceániai növényfajokat is bemutat.", "Az ország egyik legfontosabb ornitológiai (madármegfigyelő) területe.", "Növénytani gyűjteményén túl egy hatalmas, érintetlen erdei rezervátumot is magában foglal.", "Kutatási bázisként szolgál hondurasi és nemzetközi biológusok számára."],
-      ro: ["Faimos pentru palmieri.", "Loc important de invatare.", "Flora foarte bogata.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Famous for palms.", "Important learning site.", "Very rich plant life.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -246,8 +246,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt an der Karibikküste bei Tela", "verbindet Mangroven, Lagunen und Küstenwald", "trägt den Namen Jeannette Kawas", "ist ein wichtiges Schutzgebiet der Nordküste", "gehört zu den küstennahen Feuchtgebieten", "zeigt einen starken Wechsel der Lebensräume"],
       hu: ["Karibi tengerparti és mangroveerdő rezervátum Tela városa mellett.", "Nevét a meggyilkolt környezetvédő aktivistáról, Jeannette Kawasról kapta.", "Korábban Punta Sal Nemzeti Park néven volt ismert.", "Magában foglalja a Los Micos lagúnát, Honduras egyik legnagyobb vizes élőhelyét.", "Tengeri tehenek (manátuszok) és tengeri teknősök kritikus menedékhelye.", "Gyakori konfliktusövezet az illegális afrikai pálma ültetvények terjeszkedése miatt.", "Fehér homokos strandjai a legszebbek közé tartoznak az ország szárazföldi részén."],
-      ro: ["Aproape de Tela.", "Important pentru pasari.", "Protejeaza habitatele de coasta.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Near Tela.", "Important for birds.", "Protects coastal habitats.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -277,8 +277,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt an der Nordküste nahe Tela", "ist von Mangrovenkan?len geprägt", "enth?lt Sandflächen und Feuchtwald", "ist ein Schutzraum f?r Küstenv?gel", "zeigt die Dynamik von Ufer und Wasser", "gehört zu den Karibik-Lebensräumen von Honduras"],
       hu: ["Tela városától keletre fekvő, sűrű mangroveerdőkkel borított nemzeti park.", "A területet leginkább kajakos vagy csónakos ökotúrákon lehet felfedezni.", "Kiváló helyszín a bőgőmajmok és kapucinus majmok megfigyelésére.", "A mocsaras, folyótorkolati környezet otthont ad kajmánoknak is.", "Ökológiai 'óvoda' a tengeri élővilág, különösen a halak és rákok számára.", "Kevésbé látogatott és csendesebb, mint a szomszédos Jeannette Kawas (Punta Sal) park.", "Szorosan kötődik a közeli garifuna falvak (pl. Triunfo de la Cruz) életéhez."],
-      ro: ["Tururile cu barca sunt populare.", "Bogata in pasari de apa.", "Parte din coasta caraibiana.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Boat tours are popular.", "Rich in waterbirds.", "Part of the Caribbean coast.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -308,8 +308,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt an der Nordküste von Honduras", "ist ein Schutzgebiet mit Kanalnetz", "umfasst Mangroven und S??wasserzonen", "wird oft mit Boot oder Bahn erkundet", "ist ein wichtiges Feuchtgebiet", "gehört zu den bekanntesten Wildlife Refuges des Landes"],
       hu: ["Mocsaras, brakkvízi (félsós) rezervátum a Cuero és Salado folyók torkolatánál.", "La Ceiba városából indulva egy régi banánipari kisvasúton közelíthető meg.", "Honduras legfontosabb védett területe a ritka tengeri tehenek (manátusz) számára.", "Amerikai krokodilok, kajmánok és bőgőmajmok természetes élőhelye.", "Csak csónakos szafarikon (pangas) látogatható a szigorú védelem miatt.", "Kritikus jelentőségű a vándormadarak és a helyi vízimadarak költése szempontjából.", "Kezelését helyi alapítványok (pl. FUCSA) végzik a garifuna közösségek bevonásával."],
-      ro: ["Important pentru lamantini.", "Plimbare cu barca pe canale.", "Zona naturala foarte linistita.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Important for manatees.", "Boat rides through canals.", "Very quiet nature zone.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -339,8 +339,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt vor der Karibikküste von Honduras", "besteht aus kleinen Inseln und Cays", "ist von Korallen und Seegras umgeben", "gehört zu den marinen Schutzräumen des Landes", "zeigt eine enge Verbindung von Inseln und Meer", "ist ein klassischer Ort f?r Schnorchel- und Schutzthemen"],
       hu: ["A hondurasi északi part (La Ceiba) közelében fekvő, szigorúan védett szigetcsoport.", "A világ második legnagyobb korallzátony-rendszerének, a Mezoamerikainak a része.", "Az ipari és kereskedelmi halászat teljes egészében tilos a területén.", "Itt él az endémikus rózsaszín boa (rózsaszín óriáskígyó), amely sehol máshol nem található.", "Tudományos tengerbiológiai kutatóbázis működik a szigeten.", "A hagyományos garifuna közösségek (pl. Chachahuate falu) fenntartható halászatot folytatnak.", "Világhírű és exkluzív célpont könnyű- és mélytengeri búvárkodáshoz."],
-      ro: ["Cunoscuta pentru corali.", "Insule mici si apa limpede.", "Populara pentru snorkeling.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Known for coral reefs.", "Small islands and clear water.", "Popular with snorkelers.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -370,8 +370,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt auf Roat?n", "arbeitet mit Meeresbiologie und Bildung", "ist ein Lernort f?r Kinder und Schulgruppen", "verbindet Forschung und Tierpflege", "gehört zur Inselwelt der Bay Islands", "macht Naturschutz im Karibikmeer sichtbar"],
       hu: ["Közép-Amerika egyik vezető tengerbiológiai és oktatási központja Roatánon.", "Központi szerepet játszik a Mezoamerikai Korallzátony kutatásában és védelmében.", "A világ minden tájáról fogad egyetemi hallgatókat és kutatókat.", "Híres a palackorrú delfinekkel végzett viselkedéskutatási programjáról.", "A delfinek nem medencékben, hanem egy nagy, tengerből elkerített természetes öbölben élnek.", "A központ jelentős korall-visszatelepítési (coral restoration) projekteket vezet.", "Ingyenes környezeti oktatást biztosít az Öböl-szigetek helyi iskolásainak."],
-      ro: ["Ofera informatii despre vietuitoarele recifului.", "Bun pentru familii.", "Aproape de West Bay.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Teaches about reef animals.", "Good for families.", "Near West Bay.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -401,8 +401,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt auf Roat?n", "ist f?r Leguane bekannt", "verbindet Tierpflege mit Küstenbezug", "arbeitet als kleiner Natur- und Lernort", "gehört zu den besuchten Anlagen der Bay Islands", "zeigt Insel?kologie mit Land- und Meeresbezug"],
       hu: ["Magántulajdonban lévő állatmenhely Roatán szigetén (French Key).", "Több mint 4000 szabadon élő zöld leguán (Iguana iguana) védett otthona.", "Az alapítás célja a leguánok megmentése volt az intenzív vadászat elől.", "A leguánok Honduras karibi részén gyakran esnek áldozatul a helyi gasztronómiának.", "A látogatók közvetlen közelről figyelhetik meg és etethetik az állatokat.", "A park tengeri mentőközpontként is működik teknősök és tarpon halak számára.", "Fontos szerepet játszik a turisták környezettudatosságának növelésében."],
-      ro: ["Interactiuni cu animale.", "Trasee scurte si multa umbra.", "Popular pentru copii.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Close animal encounters.", "Short paths and plenty of shade.", "Popular with children.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -432,8 +432,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt auf Roat?n", "ist f?r Faultiere und Affen bekannt", "bietet geführte Tierbegegnungen", "verbindet Tourismus und Bildung", "gehört zu den bekannten Wildlife-Orten der Insel", "trägt den Namen Daniel Johnson"],
       hu: ["Népszerű, családi tulajdonú állatmenhely Roatán szigetén.", "Főként az illegális kisállat-kereskedelemből mentett állatokat rehabilitál.", "Otthont ad két- és háromujjú lajhároknak, majmoknak és egzotikus madaraknak.", "A látogatók megismerkedhetnek a hondurasi dzsungel állatvilágával.", "Célja a felvilágosítás: a vadállatok nem tarthatók háziállatként.", "A turisztikai bevételt a mentett állatok élelmezésére és orvosi ellátására fordítják.", "A kis méret ellenére a sziget egyik legkeresettebb állatkert-szerű látványossága."],
-      ro: ["Mic si potrivit pentru familii.", "Contact apropiat cu animalele.", "Important pentru educatie.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Small and family-friendly.", "Close contact with animals.", "Important for education.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -463,8 +463,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt in Cop?n Ruinas", "arbeitet mit Leguan-Zucht und Forschung", "ist eine kleine Station f?r Reptilienschutz", "verbindet Bildung mit Artenschutz", "passt in die Tourismuslandschaft von Cop?n", "ist auf Reptilien und Aufkl?rung spezialisiert"],
       hu: ["Tudományos és ökológiai kutatóállomás Nyugat-Hondurasban (Copán).", "A veszélyeztetett zöld leguánok megmentésére és tenyésztésére fókuszál.", "Védett környezetben keltetik és nevelik a fiatal egyedeket (repopuláció).", "Céljuk a szabadon engedés a természetes, de megtizedelt populációjú élőhelyeken.", "Küzdenek a leguánok vadászata és élőhelyük elvesztése ellen.", "Fontos oktatási feladatot lát el a helyi közösségek és iskolák számára.", "Nem tipikus turisztikai látványosság, a kutatás és a fajmegőrzés az elsődleges."],
-      ro: ["Protejeaza reptilele.", "Popular printre grupurile scolare.", "Aproape de ruinele maya.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Protects reptiles.", "Popular with school groups.", "Near the Maya ruins.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -494,8 +494,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt oberhalb von Tegucigalpa", "ist ein Stadth?gel mit Parkanlage", "bietet Aussicht ?ber die Hauptstadt", "gehört zu den bekannten Naherholungsorten", "verbindet Freizeit und Stadtgeografie", "ist als El Picacho Park bekannt"],
       hu: ["Tegucigalpa fölé magasodó, 1300 méter magasan fekvő hegyi park.", "Itt áll a híres 'Cristo del Picacho', egy 30 méteres kivilágított Krisztus-szobor.", "A park ad otthont a Rosy Walther Állatkertnek, amely őshonos fajokat mutat be.", "Sűrű fenyőerdői miatt a főváros fontos 'tüdeje' és rekreációs zónája.", "Lenyűgöző panorámát nyújt az egész fővárosra és a völgyre.", "Gyakori helyszíne szabadtéri koncerteknek, esküvőknek és rendezvényeknek.", "A 20. század közepén hozták létre (Parque Naciones Unidas néven)."],
-      ro: ["Popular in weekend.", "Panorama mare asupra orasului.", "Trasee potrivite pentru familii.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Popular on weekends.", "Wide city panorama.", "Family-friendly paths.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -525,8 +525,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt in Tegucigalpa", "ist ein interaktives Kindermuseum", "setzt auf Ausprobieren und Lernen", "verbindet Wissenschaft mit Alltag", "ist ein beliebter Ort f?r Schulgruppen", "gehört zu den wichtigsten Familienorten der Hauptstadt"],
       hu: ["Honduras legnagyobb és legfejlettebb interaktív gyermekmúzeuma Tegucigalpában.", "A 'hands-on' (érintsd meg és próbáld ki) oktatási filozófiát követi.", "2003-ban nyitották meg a kormányzati negyed (Centro Cívico) közelében.", "Kiállításai a tudomány, biológia, kultúra és történelem témáit dolgozzák fel.", "Hatalmas hangsúlyt fektet a környezetvédelem és a nemzeti identitás oktatására.", "Alapítványi formában működik, támogatva a szegényebb iskolák látogatását.", "Nevét egy hagyományos, elfeledett hondurasi gyerekjátékról kapta."],
-      ro: ["Invatare prin joc.", "Popular printre clasele scolare.", "Atractie indoor in orice vreme.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Learning through play.", "Popular with school classes.", "Indoor attraction in any weather.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -556,8 +556,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt im Zentrum von Tegucigalpa", "ist ein klassischer Stadtpark", "steht nahe den wichtigsten Gebäuden der Innenstadt", "dient als Treffpunkt im Zentrum", "gehört zum historischen Stadtkern", "zeigt die Alltagsgeografie der Hauptstadt"],
       hu: ["Tegucigalpa történelmi, vallási és társadalmi központja (Plaza Morazán).", "A teret a gyönyörű San Miguel Főszékesegyház dominálja.", "Középpontjában Francisco Morazán lovasszobra áll, amely Párizsban készült.", "Hagyományos spanyol gyarmati 'Plaza Mayor' elrendezést követ.", "A társadalmi élet sűrűsödési pontja: árusok, zenészek és politikai viták helyszíne.", "Az ünnepek, tüntetések és kulturális fesztiválok fő kiindulópontja.", "Sétálóutcák (Paseo Liquidámbar) kötik össze a környező múzeumokkal."],
-      ro: ["Punct de intalnire central.", "Inconjurat de cladiri coloniale.", "Spatiu urban animat.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Central meeting point.", "Surrounded by colonial buildings.", "Lively urban space.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -587,8 +587,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt in Tegucigalpa", "ist ein bewaldeter Stadth?gel", "bietet Blicke ?ber die Hauptstadt", "verbindet Freizeit mit Relief", "ist als Cerro Juana La?nez bekannt", "zeigt die Hanglage der Stadt"],
       hu: ["Tegucigalpa központjában magasodó ökológiai és rekreációs városi park.", "Nevét egy 16. századi befolyásos hondurasi földbirtokosnőről kapta.", "Itt található a híres Monumento a la Paz (Béke Emlékmű).", "A közelmúltban teljesen felújították fenntartható ökológiai alapelvek szerint.", "Több ezer őshonos trópusi fát és cserjét telepítettek a területére.", "Biztonságos futó- és kerékpárutakkal, valamint piknikező helyekkel rendelkezik.", "Tökéletes 360 fokos kilátást nyújt a főváros mindkét nagy völgyére."],
-      ro: ["Trasee scurte.", "Bun pentru picnic.", "Puncte de belvedere cunoscute.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Short walking paths.", "Good for picnics.", "Known viewpoints.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -618,8 +618,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt in San Pedro Sula", "ist ein städtischer Zoo", "richtet sich an Familien und Schulgruppen", "gehört zu den Freizeitorten der Stadt", "verbindet Tierbeobachtung mit Lernen", "ist als San Pedro Sula Zoo bekannt"],
       hu: ["Közép-Amerika egyik legnagyobb, egzotikus fajokat is bemutató állatkertje.", "San Pedro Sulától délre, Santa Cruz de Yojoa közelében található.", "Eredetileg egy drogbáró magángyűjteménye volt, amelyet az állam elkobzott.", "Több mint 500 állatnak, köztük oroszlánoknak, tigriseknek és vízilovaknak ad otthont.", "Az őshonos hondurasi fajok (jaguárok, majmok) rehabilitációját is végzi.", "Számos rekreációs tevékenységet, például drótkötélpályát (zipline) is kínál.", "Fenntartása és az állatok ellátása a turisztikai bevételekből származik."],
-      ro: ["Popular pentru copii.", "Locatie aproape de oras.", "Observarea animalelor fara drum lung.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Popular with children.", "Close to the city center.", "Animal viewing without a long trip.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -649,8 +649,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["ist der bekannteste Binnensee von Honduras", "liegt zwischen mehreren Departamentos", "ist von Bergen und Feuchtgebieten umgeben", "spielt f?r Fischerei und Tourismus eine Rolle", "zieht viele Vogelbeobachter an", "ist als Lago de Yojoa landesweit bekannt"],
       hu: ["Honduras legnagyobb és egyetlen természetes édesvizű tava.", "Kialakulása vulkanikus eredetű, 700 méteres tengerszint feletti magasságban.", "Több mint 400 regisztrált madárfaj él itt, ornitológiai paradicsom.", "Két nemzeti park, a Cerro Azul Meámbar és a Santa Bárbara öleli körbe.", "A helyi gasztronómia (sült hal útifűvel) miatt népszerű hétvégi célpont.", "Gyakori ökológiai kihívás az invazív vízinövények és a szennyezés.", "Az ország főútvonala, a Pánamerikai autópálya halad el a keleti partján."],
-      ro: ["Loc de top pentru birdwatching.", "Popular pentru excursii de weekend.", "Inconjurat de munti.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Top birdwatching site.", "Popular for weekend trips.", "Surrounded by mountains.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -680,8 +680,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt in der Mosquitia", "gehört zum Departamento Gracias a Dios", "besteht aus Lagunen und Kan?len", "prägt die Nordostküste von Honduras", "ist ein wichtiges Feuchtgebiet", "steht f?r das Wasserland des Ostens"],
       hu: ["Honduras legnagyobb kiterjedésű lagúnarendszere a La Mosquitia régióban.", "A neve a helyi miszkító őslakos nyelven 'a krokodilok lagúnáját' jelenti.", "Sekély brakkvíz, amely közvetlen kapcsolatban áll a Karib-tengerrel.", "A régió egyetlen közlekedési hálózata, mivel aszfaltozott utak nincsenek.", "A miszkító őslakosok elsődleges halászati és élelmiszerforrása.", "Otthont ad a veszélyeztetett nyugat-indiai tengeri tehénnek (manátusz).", "A környező területet kiterjedt mangroveerdők és trópusi mocsarak borítják."],
-      ro: ["Importanta pentru pescuit.", "Bogata in pasari si pesti.", "Regiune foarte izolata.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Important for fishing.", "Rich in birds and fish.", "Very remote region.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -771,8 +771,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt an der Karibikküste bei Tela", "ist ein Küstenpark mit Strandabschnitten", "zeigt Wald und Meer in engem Kontakt", "ist f?r Küstenschutz und Naturtourismus wichtig", "gehört zu den bekannten Nordküstenorten", "wird im Raum Punta Sal verortet"],
       hu: ["Karibi tengerparti és mangroveerdő rezervátum Tela városa mellett.", "Nevét a meggyilkolt környezetvédő aktivistáról, Jeannette Kawasról kapta.", "Korábban Punta Sal Nemzeti Park néven volt ismert.", "Magában foglalja a Los Micos lagúnát, Honduras egyik legnagyobb vizes élőhelyét.", "Tengeri tehenek (manátuszok) és tengeri teknősök kritikus menedékhelye.", "Gyakori konfliktusövezet az illegális afrikai pálma ültetvények terjeszkedése miatt.", "Fehér homokos strandjai a legszebbek közé tartoznak az ország szárazföldi részén."],
-      ro: ["Popular pentru tururi in natura.", "Protejeaza multe specii de pasari.", "Parte din coasta de nord.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Popular for nature trips.", "Protects many bird species.", "Part of the north coast.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -802,8 +802,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["ist eine biologische Reserve", "liegt im Bergland von Honduras", "schützt Wald und Wasserquellen", "ist eher ruhig als touristisch", "dient als R?ckzugsraum f?r Tiere", "gehört zu den kleineren Schutzgebieten des Landes"],
       hu: ["Magaslati felhőerdő Francisco Morazán és El Paraíso megyék határán.", "Több mint 2000 méteres csúcsokkal és rendkívül dús növényzettel rendelkezik.", "Kritikus vízgyűjtő terület, amely tucatnyi falut lát el friss vízzel.", "Endémikus kétéltűek, quetzál madarak és nagymacskák élőhelye.", "Infrastruktúra szinte alig van, nehezen megközelíthető a turisták számára.", "Állandó veszélyt jelent az illegális fakitermelés és az agrárium terjeszkedése.", "A tudományos kutatások egyik ígéretes, még feltáratlan központja."],
-      ro: ["Habitat important.", "Linistit si putin exploatat.", "Bun pentru observarea naturii.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Important habitat.", "Quiet and lightly developed.", "Good for nature observation.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -833,8 +833,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt im Departamento Yoro", "ist ein bergiges Schutzgebiet", "enth?lt feuchte Waldzonen", "prägt Wasserquellen und H?nge", "gehört zum n?rdlichen Bergland", "ist als Monta?a de Yoro National Park bekannt"],
       hu: ["Hatalmas fenyő- és felhőerdő rezervátum Yoro megyében.", "Csúcsai elérik a 2200 méteres tengerszint feletti magasságot.", "Területén élnek a tolupán (jicaque) őslakos törzs maradékai.", "Fontos menedék a jaguárok és a ritka hárpiasasmadarak számára.", "A park megóvja a régió vízbázisát a fakitermeléstől.", "Az ökoturizmus szinte egyáltalán nincs jelen a nehéz megközelíthetőség miatt.", "Az őslakosok túlélése közvetlenül az erdő fennmaradásától függ."],
-      ro: ["Popular pentru campare.", "Climat montan racoros.", "Arie protejata pentru fauna.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Popular for camping.", "Fresh mountain climate.", "Protected wildlife area.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -864,8 +864,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt westlich des Tals von Comayagua", "ist ein Hochlandgebiet mit Bergen und Wald", "prägt lokale Wasserläufe und Wege", "steht zwischen Landwirtschaft und Schutzraum", "gehört zum zentralen Bergland", "ist als Monta?a de Comayagua bekannt"],
       hu: ["A Comayagua-völgy fölé tornyosuló hegyvidéki nemzeti park.", "Legmagasabb pontja a 2405 méteres Portillo de los Encinos.", "Éles klímakontrasztot alkot az alatta lévő forró, száraz völggyel.", "A völgyi öntözéses mezőgazdaság (zöldségek) fő vízszolgáltatója.", "A sűrű felhőerdő orchideáknak és a quetzál madárnak ad otthont.", "Túraútvonalai nehezek, de páratlan panorámát nyújtanak Comayaguára.", "A park kezelése jelentős kihívás a környékbeli agrárterjeszkedés miatt."],
-      ro: ["Mai racoros decat campia.", "Zone hidrografice importante.", "Popular pentru drumetii.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Cooler than the lowlands.", "Important watershed area.", "Popular for hikes.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -895,8 +895,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["liegt im westlichen Bergland von Honduras", "ist eine biologische Reserve", "enth?lt Nebelwald und Quellbereiche", "schützt abgelegene H?nge", "ist wichtig f?r Wasser und Boden", "gehört zu den stillen Schutzräumen des Landes"],
       hu: ["Lempira és Intibucá megyék határán elterülő magaslati biológiai rezervátum.", "A 2300 méteres hegyvonulatok sűrű trópusi felhőerdőket rejtenek.", "A terület a lenca őslakos közösségek történelmi és kulturális otthona.", "Kritikus vízgyűjtő terület a nyugati hondurasi folyók számára.", "Pumák, tapírok és számos endémikus kétéltű élőhelye.", "A lenca közösségek aktívan küzdenek a terület fakitermelés elleni védelméért.", "Minimális turisztikai kiépítettségű, elsősorban tudományos kutatási terep."],
-      ro: ["Putine drumuri.", "Peisaj montan linistit.", "Important pentru apa si animale.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Few roads reach it.", "Quiet mountain landscape.", "Important for water and wildlife.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
   {
@@ -926,8 +926,8 @@ export const poiExtraHondurasLifeV2: POI[] = [
     factsAdvanced: {
       de: ["ist eine biologische Reserve in Honduras", "wirkt wie eine natürliche Waldmauer", "liegt in einem bergigen Hochlandraum", "enth?lt feuchte W?lder und Höhenz?ge", "prägt Wasserläufe und Waldkanten", "ist als La Muralla bekannt"],
       hu: ["Olancho megye északi részén található sűrű hegyi felhőerdő.", "Nevét (A Fal) a meredek, szinte áthatolhatatlan hegyoldalairól kapta.", "Honduras egyik legkiválóbb helyszíne a ritka quetzál madár megfigyelésére.", "Híres a hihetetlenül gazdag orchidea- és bromélia-flórájáról.", "Kiépített ösvényhálózata van, ami ritkaság a hondurasi rezervátumok közt.", "Jaguárok, ocelotok és tapírok is élnek a park háborítatlan részein.", "A közeli La Unión település biztosítja a turisztikai szolgáltatásokat."],
-      ro: ["Acoperire forestiera densa.", "Habitat pentru fauna salbatica.", "Arie importanta de protectie.", "Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
-      en: ["Dense forest cover.", "Habitat for wildlife.", "Important protection area.", "Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
+      ro: ["Se află în țara central-americană Honduras.", "Reflectă trăsăturile tipice ale regiunii sale.", "Face parte din curriculumul de geografie K7–K8."],
+      en: ["Located in the Central American country of Honduras.", "Reflects features typical of its surrounding region.", "Part of the K7–K8 geography curriculum."]
     }
   },
 ];

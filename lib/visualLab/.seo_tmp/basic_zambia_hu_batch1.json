@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mpulungu-cities-v2",
+      "description": "Zambia egyetlen nemzetközi kikötővárosa a Tanganyika-tó déli csücskénél, amely fontos kereskedelmi kapu Tanzánia és Burundi felé.",
+      "facts": ["Fontos halászati központ", "Kompjáratok indulnak innen", "A Tanganyika-tó partján fekszik"]
+    },
+    {
+      "id": "chambishi-cities-v2",
+      "description": "A Copperbelt tartományban található bányászváros, amely jelentős réz- és kobaltkészleteiről, valamint modern kohászati üzemeiről ismert.",
+      "facts": ["Jelentős rézbányászat", "Kohászati üzemek", "Kitwe közelében található"]
+    },
+    {
+      "id": "lufwanyama-cities-v2",
+      "description": "Kiterjedt mezőgazdasági és bányászati körzet a Copperbelt tartományban, amely különösen a smaragdbányászatáról híres.",
+      "facts": ["Smaragdbányászat", "Mezőgazdasági terület", "Ritkán lakott vidék"]
+    },
+    {
+      "id": "chongwe-cities-v2",
+      "description": "Lusaka tartomány egyik gyorsan fejlődő városa, amely a Chongwe folyó mentén fekszik, és fontos oktatási intézményeknek ad otthont.",
+      "facts": ["Egyetemi központ", "A Chongwe folyó szeli át", "Lusaka közelében fekszik"]
+    },
+    {
+      "id": "serenje-cities-v2",
+      "description": "A Központi tartományban elhelyezkedő város, amely fontos közlekedési csomópont a Nagy-északi út mentén, közel a kongói határhoz.",
+      "facts": ["Közlekedési csomópont", "Mezőgazdasági központ", "A TAZARA vasútvonal mentén"]
+    },
+    {
+      "id": "nyimba-cities-v2",
+      "description": "A Keleti tartományban található település, amely a Luangwa-völgy kapujaként és a Great East Road fontos megállóhelyeként ismert.",
+      "facts": ["A Great East Road mentén", "Tranzitállomás", "Mezőgazdasági környezet"]
+    },
+    {
+      "id": "luwingu-cities-v2",
+      "description": "Az Északi tartományban fekvő város, amely a Bangweulu-mocsárvidék közelében található, és a környék közigazgatási központja.",
+      "facts": ["Közigazgatási központ", "Az Északi tartományban van", "Halászati lehetőségek"]
+    },
+    {
+      "id": "mafinga-cities-v2",
+      "description": "Zambia legmagasabb hegyvidéki területén fekvő körzet, amely a malawi határ mentén húzódó Mafinga-hegységről kapta a nevét.",
+      "facts": ["Hegyi domborzat", "Zambia legmagasabb pontja", "Vízgyűjtő terület"]
+    },
+    {
+      "id": "kalabo-cities-v2",
+      "description": "A Nyugati tartományban, a Liuwa Plain Nemzeti Park közelében fekvő város, amely a Zambézi árterének egyik távoli települése.",
+      "facts": ["A Liuwa Plain kapuja", "A Zambézi árterén", "Vitorláshajós közlekedés"]
+    },
+    {
+      "id": "rufunsa-cities-v2",
+      "description": "Lusaka tartomány keleti részén található körzet, amely vadregényes dombvidékéről és a Great East Road menti fekvéséről ismert.",
+      "facts": ["Lusaka tartományban", "Dombvidéki táj", "Vadvédelmi területek"]
+    }
+  ]
+}

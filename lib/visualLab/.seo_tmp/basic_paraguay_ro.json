@@ -1,0 +1,30 @@
+{
+  "lang": "ro",
+  "country": "Paraguay",
+  "files": [
+    "lib/visualLab/data/poiExtraParaguayNatureV2.ts",
+    "lib/visualLab/data/poiExtraParaguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "py-rio-jejui-guazu-nature-v2",
+      "description": "Râul Jejuí Guazú este un afluent major al fluviului Paraguay, situat în regiunea de est a țării. Acesta traversează peisaje naturale diverse, susținând biodiversitatea locală și activitățile agricole din bazinul său.",
+      "facts": [
+        "Afluent al râului Paraguay",
+        "Lungime semnificativă în regiunea estică",
+        "Bazin hidrografic important",
+        "Susține ecosisteme locale"
+      ]
+    },
+    {
+      "id": "cerro-yaguaron-relief-v2",
+      "description": "Cerro Yaguarón este o formațiune muntoasă distinctivă, renumită pentru semnificația sa culturală și peisajul pitoresc din regiunea Yaguarón. Dealul oferă vederi panoramice asupra împrejurimilor și este un punct de atracție pentru drumeții.",
+      "facts": [
+        "Formațiune muntoasă iconică",
+        "Situat lângă Yaguarón",
+        "Destinație pentru drumeții",
+        "Zonă cu vedere panoramică"
+      ]
+    }
+  ]
+}

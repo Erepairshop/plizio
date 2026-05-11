@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Uruguay",
+  "files": [
+    "lib/visualLab/data/poiExtraUruguayNatureV2.ts",
+    "lib/visualLab/data/poiExtraUruguayReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "rio-yi-nature-v2",
+      "description": "Ein bedeutender Nebenfluss des Río Negro, der durch die zentrale Region Uruguays fließt.",
+      "facts": ["Länge ca. 210 km", "Nebenfluss des Río Negro", "Zentral-Uruguay", "Flusslandschaft"]
+    },
+    {
+      "id": "rio-dayman-nature-v2",
+      "description": "Ein Fluss im Norden des Landes, bekannt für seine Thermalquellen in der Nähe von Salto.",
+      "facts": ["Standort Departamento Salto", "Thermalquellenzentrum", "Flusslauf", "Touristenregion"]
+    },
+    {
+      "id": "rio-queguay-nature-v2",
+      "description": "Ein wichtiger Fluss im Departamento Paysandú, der durch ein bedeutendes Schutzgebiet fließt.",
+      "facts": ["Länge ca. 280 km", "Standort Paysandú", "Landschaftsschutz", "Biodiversität"]
+    },
+    {
+      "id": "rio-cebollati-nature-v2",
+      "description": "Dieser Fluss entwässert den Osten Uruguays und mündet in die Laguna Merín.",
+      "facts": ["Länge ca. 280 km", "Mündung Laguna Merín", "Osten Uruguays", "Wichtiges Einzugsgebiet"]
+    },
+    {
+      "id": "rio-santa-lucia-nature-v2",
+      "description": "Der wichtigste Wasserlieferant für die Metropolregion Montevideo im Süden Uruguays.",
+      "facts": ["Länge ca. 230 km", "Trinkwasserquelle", "Süd-Uruguay", "Industrielle Bedeutung"]
+    },
+    {
+      "id": "rio-cuareim-nature-v2",
+      "description": "Dieser Fluss bildet über weite Strecken die natürliche Grenze zwischen Uruguay und Brasilien.",
+      "facts": ["Länge ca. 350 km", "Grenzfluss zu Brasilien", "Fließt in den Uruguay-Fluss", "Grenzregion"]
+    },
+    {
+      "id": "sierra-de-la-aurora-relief-v2",
+      "description": "Eine hügelige Landschaft im Norden Uruguays, die sich durch sanfte Erhebungen auszeichnet.",
+      "facts": ["Standort Rivera", "Hügellandschaft", "Norden Uruguays", "Natürliche Region"]
+    },
+    {
+      "id": "cerro-blanco-relief-v2",
+      "description": "Ein markanter Hügel in der zentralen Region, der als Orientierungspunkt in der hügeligen Landschaft dient.",
+      "facts": ["Zentrale Hügelregion", "Natürliches Relief", "Ausflugsziel", "Höhenzug"]
+    },
+    {
+      "id": "cerro-de-la-buena-vista-relief-v2",
+      "description": "Dieser Hügel bietet einen weiten Blick über die umliegenden Grasländer und Ebenen.",
+      "facts": ["Aussichtspunkt", "Grasland-Region", "Natürliche Erhebung", "Panoramablick"]
+    },
+    {
+      "id": "cerro-colorado-relief-v2",
+      "description": "Ein bekannter Hügel in der sanften Landschaft des uruguayischen Hinterlandes.",
+      "facts": ["Standort Flores", "Hügelrelief", "Uruguayisches Hinterland", "Geologisches Merkmal"]
+    },
+    {
+      "id": "cuchilla-del-fuego-relief-v2",
+      "description": "Ein langer Höhenzug, der die Wasserscheiden in einem Teil des uruguayischen Hügellandes bildet.",
+      "facts": ["Wasserscheide", "Höhenzug", "Sanfte Landschaft", "Geomorphologie"]
+    },
+    {
+      "id": "cuchilla-del-bizcocho-relief-v2",
+      "description": "Ein bedeutender Bergrücken, der charakteristisch für die Topographie im Departamento Soriano ist.",
+      "facts": ["Standort Soriano", "Bergrücken", "Topografisch markant", "Grasland"]
+    },
+    {
+      "id": "cerro-de-la-sepultura-relief-v2",
+      "description": "Ein markanter Hügel, der trotz seines Namens ein interessantes geologisches Ziel für Wanderer ist.",
+      "facts": ["Geologische Formation", "Hügellandschaft", "Wanderziel", "Naturdenkmal"]
+    },
+    {
+      "id": "cerro-del-cuervo-relief-v2",
+      "description": "Eine natürliche Erhebung in der welligen Pampa, die zum typischen Landschaftsbild des Landes gehört.",
+      "facts": ["Pampa-Landschaft", "Typische Erhebung", "Naturregion", "Höhenzug"]
+    },
+    {
+      "id": "cuchilla-negra-relief-v2",
+      "description": "Ein großer Höhenzug im Norden, der eine wichtige topografische Grenze in der Region bildet.",
+      "facts": ["Größter Höhenzug", "Norden Uruguays", "Natürliche Grenze", "Geografie-Symbol"]
+    }
+  ]
+}

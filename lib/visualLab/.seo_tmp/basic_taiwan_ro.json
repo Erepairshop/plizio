@@ -1,0 +1,71 @@
+{
+  "lang": "ro",
+  "country": "Taiwan",
+  "files": [
+    "lib/visualLab/data/poiExtraTaiwanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanLifeV2.ts",
+    "lib/visualLab/data/poiExtraTaiwanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "taipei-cities-v2",
+      "description": "Taipei este capitala și cel mai mare centru economic, politic și cultural al Taiwanului.",
+      "facts": ["Populație peste 2,6 milioane", "Sediul clădirii Taipei 101", "Centru tehnologic major", "Situat în nordul insulei"]
+    },
+    {
+      "id": "tainan-cities-v2",
+      "description": "Tainan este considerat cel mai vechi oraș din Taiwan, fiind cunoscut pentru templele sale istorice și cultura culinară.",
+      "facts": ["Fondat în secolul XVII", "Capitală până în 1887", "Capitala gastronomică a insulei", "Numeroase temple taoiste"]
+    },
+    {
+      "id": "kaohsiung-cities-v2",
+      "description": "Kaohsiung este un oraș portuar major situat în sudul Taiwanului, fiind un nod esențial pentru comerț și industrie.",
+      "facts": ["Al doilea oraș ca mărime", "Centru industrial și portuar", "Climat tropical", "Proiecte urbane moderne"]
+    },
+    {
+      "id": "pingtung-cities-v2",
+      "description": "Pingtung este situat în extremitatea sudică a insulei, oferind acces spre Parcul Național Kenting.",
+      "facts": ["Climat tropical-musonic", "Agricultură dezvoltată", "Poartă către Kenting", "Populație diversă"]
+    },
+    {
+      "id": "hualien-cities-v2",
+      "description": "Hualien este un oraș situat pe coasta de est, fiind principalul punct de acces către spectaculosul defileu Taroko.",
+      "facts": ["Coasta Pacificului", "Aproape de Taroko Gorge", "Peisaje muntoase", "Turism activ"]
+    },
+    {
+      "id": "nantou-cities-v2",
+      "description": "Nantou este singura prefectură fără ieșire la mare, găzduind faimosul Lac al Soarelui și Lunii.",
+      "facts": ["Fără ieșire la mare", "Sun Moon Lake", "Centru al ceaiului", "Relief montan"]
+    },
+    {
+      "id": "miaoli-cities-v2",
+      "description": "Miaoli este o regiune predominant muntoasă, renumită pentru tradițiile Hakka și peisajele rurale.",
+      "facts": ["Cultură Hakka prezentă", "Relief deluros și montan", "Producție agricolă", "Festivaluri locale"]
+    },
+    {
+      "id": "taibao-cities-v2",
+      "description": "Taibao este centrul administrativ al județului Chiayi, având un rol important în infrastructura regională.",
+      "facts": ["Centru administrativ", "În județul Chiayi", "Dezvoltare urbană", "Proximitate de Gara HSR"]
+    },
+    {
+      "id": "qingjing-farm-life-v2",
+      "description": "Qingjing Farm este o stațiune montană populară, adesea supranumită „Mica Elveție a Taiwanului” datorită peisajelor sale alpine.",
+      "facts": ["Altitudine 1750 metri", "Pajiști alpine", "Aer curat montan", "Turism de relaxare"]
+    },
+    {
+      "id": "sihcao-green-tunnel-life-v2",
+      "description": "Sihcao Green Tunnel este un ecosistem unic de mangrove în Tainan, unde vegetația formează o boltă naturală peste canale.",
+      "facts": ["Rezervație naturală", "Ecosistem de mangrove", "Excursii cu barca", "Biodiversitate bogată"]
+    },
+    {
+      "id": "xueshan-relief-v2",
+      "description": "Xueshan, sau Muntele Zăpezii, este al doilea cel mai înalt vârf din Taiwan, fiind o destinație populară pentru alpiniști.",
+      "facts": ["Altitudine 3886 metri", "Vârf montan major", "Parcul Național Shei-Pa", "Trasee alpine dificile"]
+    },
+    {
+      "id": "qixingshan-relief-v2",
+      "description": "Qixingshan este cel mai înalt vârf vulcanic din Taiwan, situat în interiorul Parcului Național Yangmingshan.",
+      "facts": ["Vârf vulcanic", "Parcul Național Yangmingshan", "Activitate geotermală", "Vedete panoramice"]
+    }
+  ]
+}

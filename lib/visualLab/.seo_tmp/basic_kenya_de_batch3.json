@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Kenya",
+  "files": [
+    "lib/visualLab/data/poiExtraKenyaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ke-kenyatta-international-convention-centre-landmarks-v2",
+      "description": "Ein ikonisches 28-stöckiges Gebäude in Nairobi, das für seine markante Architektur und als Zentrum für internationale Konferenzen bekannt ist.",
+      "facts": ["Wahrzeichen von Nairobi", "Helikopterlandeplatz oben", "Erbaut in den 1970ern", "Architektur von Karl Henrik Nøstvik"]
+    },
+    {
+      "id": "ke-uap-old-mutual-tower-landmarks-v2",
+      "description": "Eines der höchsten Gebäude in Nairobi, das im Stadtteil Upper Hill liegt und die Skyline der Stadt maßgeblich prägt.",
+      "facts": ["In Upper Hill gelegen", "Bürohochhaus", "Moderne Glasfassade", "Nachhaltige Bauweise"]
+    },
+    {
+      "id": "ke-nyayo-national-stadium-landmarks-v2",
+      "description": "Ein Mehrzweckstadion in Nairobi, das Schauplatz zahlreicher sportlicher Großereignisse und nationaler Feierlichkeiten ist.",
+      "facts": ["Kapazität für 30.000 Menschen", "Nutzung für Fußball und Leichtathletik", "Zentral in Nairobi", "Nationales Sportzentrum"]
+    },
+    {
+      "id": "ke-baps-shri-swaminarayan-mandir-landmarks-v2",
+      "description": "Ein prächtiger Hindu-Tempel in Nairobi, der vollständig aus kunstvoll geschnitztem Stein und Holz nach traditioneller indischer Architektur erbaut wurde.",
+      "facts": ["Aus indischem Sandstein", "Handgeschnitzte Details", "Spirituelles Zentrum", "Kulturelles Denkmal"]
+    },
+    {
+      "id": "ke-kenya-national-theatre-landmarks-v2",
+      "description": "Das bedeutendste Theater des Landes in Nairobi, das als wichtigste Plattform für kenianische Darstellende Künste dient.",
+      "facts": ["Gegenüber des Norfolk Hotels", "Zentrum für Schauspiel und Tanz", "Gegründet 1952", "Kultureller Treffpunkt"]
+    },
+    {
+      "id": "ke-nyali-bridge-landmarks-v2",
+      "description": "Eine strategisch wichtige Brücke, die die Insel Mombasa mit dem nördlichen Festland und dem Wohnviertel Nyali verbindet.",
+      "facts": ["Überquert den Tudor Creek", "Hauptverkehrsader in Mombasa", "Blick auf den Ozean", "Wichtige Infrastruktur"]
+    },
+    {
+      "id": "ke-mandhry-mosque-landmarks-v2",
+      "description": "Eine der ältesten Moscheen in Mombasa, die für ihr markantes Minarett und ihre Bedeutung in der Geschichte der Küstenstadt bekannt ist.",
+      "facts": ["In Mombasas Altstadt", "Historisches Minarett", "Swahili-Architektur", "Erbaut im 16. Jahrhundert"]
+    },
+    {
+      "id": "ke-nairobi-terminus-sgr-landmarks-v2",
+      "description": "Der moderne Hauptbahnhof in Nairobi für die Standard-Spur-Eisenbahn (SGR), der die Hauptstadt mit der Küstenstadt Mombasa verbindet.",
+      "facts": ["Startpunkt des Madaraka Express", "Modernes Bahnhofsdesign", "Wichtiger Verkehrsknotenpunkt", "Nahe dem Nationalpark"]
+    },
+    {
+      "id": "ke-mombasa-terminus-sgr-landmarks-v2",
+      "description": "Der beeindruckende Endbahnhof der SGR-Bahnstrecke in Mombasa, dessen Architektur an lokale Küstenelemente erinnert.",
+      "facts": ["Endstation in Miritini", "Anbindung an den Hafen", "Tor zur Küste", "Modernes Reiseterminal"]
+    },
+    {
+      "id": "ke-cbk-pension-tower-landmarks-v2",
+      "description": "Ein modernes Hochhaus im Zentrum von Nairobi, das durch sein einzigartiges Design und seine nachhaltige Architektur hervorsticht.",
+      "facts": ["Zentrales Geschäftsviertel", "Architektonischer Blickfang", "Büros der Zentralbank", "Modernes Stadtbild"]
+    },
+    {
+      "id": "ke-dedan-kimathi-statue-landmarks-v2",
+      "description": "Ein Denkmal in Nairobi, das den Freiheitskämpfer Dedan Kimathi ehrt, einen der Anführer des Mau-Mau-Aufstands.",
+      "facts": ["In der Kimathi Street", "Bronze-Denkmal", "Symbol des Widerstands", "Nationalheld Kenias"]
+    }
+  ]
+}

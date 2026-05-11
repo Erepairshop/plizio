@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-central-range-relief-v2",
+      "description": "A Central Range egy alacsony hegyvonulat, amely átível a sziget közepén, és geológiailag a legfontosabb domborzati elem. A hegyek dús esőerdőkkel borítottak.",
+      "facts": ["Alacsony hegyvonulat", "Szívet átívelő", "Esőerdők"]
+    },
+    {
+      "id": "tt-southeastern-hills-relief-v2",
+      "description": "A délkeleti dombvidék hullámzó felszíne festői kilátást kínál a környező partvidékekre. A terület jelentős mezőgazdasági és erdőgazdálkodási központ.",
+      "facts": ["Délkeleti dombvidék", "Hullámzó felszín", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "tt-caroni-plain-relief-v2",
+      "description": "A Caroni-síkság a sziget északi részének alacsony, termékeny területe, amely ideális a mezőgazdasági termelés számára. A terület vízrajzilag is igen gazdag.",
+      "facts": ["Termékeny síkság", "Mezőgazdasági terület", "Vízrajzi központ"]
+    },
+    {
+      "id": "tt-nariva-swamp-relief-v2",
+      "description": "A Nariva Mocsár egy alacsony fekvésű, vizes síkság, amely az ország egyik legfontosabb ökológiai pufferzónája. A terület felszíne szinte teljesen vízszintes.",
+      "facts": ["Vizes síkság", "Ökológiai pufferzóna", "Alacsony fekvés"]
+    },
+    {
+      "id": "tt-columbus-channel-relief-v2",
+      "description": "A Columbus-csatorna menti térség felszíne a tengerparti sáv és a sekély vizek közötti átmenet. A területet jellemző domborzati viszonyok a part menti erózió formálja.",
+      "facts": ["Part menti térség", "Sekély vizek", "Parti erózió"]
+    },
+    {
+      "id": "tt-guayaguayare-lowlands-relief-v2",
+      "description": "A Guayaguayare-alföld a sziget keleti részének alacsony, mocsaras síksága. A vidék domborzata a sziget legmélyebb pontjait is magában foglalja.",
+      "facts": ["Alacsony alföld", "Mocsaras síkság", "Mélységi pontok"]
+    },
+    {
+      "id": "tt-cedros-peninsula-relief-v2",
+      "description": "A Cedros-félsziget felszíne hullámos, alacsony dombokból áll, amelyek mélyen benyúlnak a tengerbe. A félsziget a sziget délnyugati nyúlványa.",
+      "facts": ["Hullámos dombok", "Délnyugati nyúlvány", "Tengerbe nyúló"]
+    },
+    {
+      "id": "tt-paria-coast-cliffs-relief-v2",
+      "description": "A Paria-partvidék meredek sziklafalaival az ország egyik leglátványosabb domborzati formációja. A sziklák közvetlenül az óceánba zuhannak.",
+      "facts": ["Meredek sziklafalak", "Látványos formáció", "Óceánpart"]
+    },
+    {
+      "id": "tt-blanchisseuse-slopes-relief-v2",
+      "description": "A Blanchisseuse-lejtők a sziget északi hegyvidékének karakteres domborzati egysége. A meredek, erdős lejtők a tengerparti sávhoz vezetnek.",
+      "facts": ["Északi hegyvidék", "Meredek lejtők", "Erdős vidék"]
+    },
+    {
+      "id": "tt-gran-couva-highlands-relief-v2",
+      "description": "A Gran Couva-felvidék a sziget középső részének magasabban fekvő, dombos területe. A termékeny talaj kiváló a sziget híres kakaótermeléséhez.",
+      "facts": ["Magasabb felvidék", "Termékeny dombok", "Kakaótermelés"]
+    }
+  ]
+}

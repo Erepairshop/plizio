@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sekoutoureya-palace-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Sékoutoureya-Palast (Palais Sékoutoureya) in Conakry ist der offizielle Amtssitz und das Machtzentrum des Präsidenten der Republik Guinea. Geografisch liegt der Palast an der exponierten Südspitze der Halbinsel Kaloum, mit weitem Blick über den Atlantischen Ozean. Das Gebäude wurde zu Beginn der 2000er Jahre unter der Präsidentschaft von Lansana Conté errichtet, um den alten Kolonialpalast zu ersetzen und der Exekutive einen modernen, repräsentativen Rahmen zu geben. Benannt ist er zu Ehren von Ahmed Sékou Touré, dem ersten Staatschef Guineas. Die Architektur ist durch einen monumentalen, neoklassizistischen Stil geprägt, der durch weitläufige Säulengänge, helle Fassaden und streng bewachte Tore die staatliche Autorität unterstreicht. Historisch markiert der Bau den Übergang Guineas zu einer gefestigten staatlichen Infrastruktur im 21. Jahrhundert. Der Palast ist Schauplatz für die feierliche Akkreditierung ausländischer Diplomaten, Kabinettssitzungen und die Unterzeichnung wichtiger Staatsverträge. Aufgrund seiner strategischen Bedeutung ist der Zugang für die Öffentlichkeit streng reglementiert, doch das Gebäude bleibt ein markanter Fixpunkt im administrativen Viertel von Conakry. Umgeben von gepflegten Gärten, stellt Sékoutoureya das operative Herz der guineischen Regierung dar.",
+        "hu": "A conakry-i Sékoutoureya-palota (Palais Sékoutoureya) Guinea elnöki hivatala és az ország végrehajtó hatalmának központja. Földrajzilag a Kaloum-félsziget legdélebbi részén, egy stratégiai ponton fekszik, közvetlen kilátással az Atlanti-óceánra. Az épületet a 2000-es évek elején emelték Lansana Conté elnöksége alatt, hogy felváltsa a régi gyarmati kormányzói palotát és modernebb helyszínt biztosítson az államfői adminisztráció számára. Nevét az ország alapító atyja, Ahmed Sékou Touré tiszteletére kapta. Az építészet monumentális és reprezentatív: a világos homlokzatok, a tágas oszlopcsarnokok és a szigorúan őrzött díszes kapuk az állami tekintélyt sugározzák. Történelmileg a palota a modern guineai államiság egyik legfőbb szimbóluma, ahol a legfontosabb politikai döntések születnek, és ahol a külföldi nagykövetek megbízóleveleinek átadása zajlik. A palota nem látogatható a nyilvánosság számára, de Conakry adminisztratív negyedének megkerülhetetlen tájékozódási pontja. Az épületet gondozott kertek veszik körül, amelyek éles ellentétben állnak a főváros zajos forgalmával. Sékoutoureya nemcsak egy kormányzati épület, hanem a nemzeti szuverenitás és a politikai stabilitás vizuális jelképe Guineában.",
+        "ro": "Palatul Sékoutoureya (Palais Sékoutoureya) din Conakry este sediul oficial al Președinției și centrul puterii executive a Republicii Guineea. Geografic, palatul este amplasat la extremitatea sudică a peninsulei Kaloum, într-o poziție dominantă pe malul Oceanului Atlantic. Clădirea a fost ridicată la începutul anilor 2000 în timpul mandatului lui Lansana Conté, pentru a oferi statului un cadru administrativ modern, înlocuind vechiul palat colonial. Numele său a fost dat în onoarea lui Ahmed Sékou Touré, primul președinte al țării. Arhitectura este marcată de un stil neoclasic monumental, cu coloane impunătoare și fațade albe, menite să reflecte autoritatea și stabilitatea instituțională. Din punct de vedere istoric, Sékoutoureya reprezintă transformarea Guineei într-un stat modern cu infrastructură guvernamentală de nivel internațional. Aici au loc primirile oficiale ale șefilor de stat străini, ședințele de guvern și semnarea decretelor prezidențiale majore. Din motive de securitate națională, accesul publicului este restricționat, însă edificiul rămâne un reper vizual esențial în peisajul urban al capitalei. Înconjurat de grădini ceremoniale, palatul simbolizează inima operativă a națiunii guineene.",
+        "en": "Sékoutoureya Palace (Palais Sékoutoureya) in Conakry is the official executive office and the operational headquarters of the Presidency of the Republic of Guinea. Geographically, it is located at the southern tip of the Kaloum Peninsula, overlooking the Atlantic Ocean. The current structure was built in the early 2000s under President Lansana Conté to replace the older colonial-era residence and provide a grander setting for the head of state. It was named in honor of Ahmed Sékou Touré, the nation's founding president. The architecture is characterized by a monumental and neo-classical aesthetic, featuring white facades and grand columns designed to project national authority. Historically, the palace serves as the site for the presentation of diplomatic credentials, cabinet meetings, and the signing of critical state treaties. Due to its strategic and political importance, access to the grounds is strictly controlled, but the building remains a major landmark in Conakry's administrative district. Surrounded by manicured ceremonial gardens, Sékoutoureya stands as the visual symbol of Guinean sovereignty and central governance."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sékoutoureya ist der offizielle Arbeitsplatz des guineischen Präsidenten.",
+          "Der Name ehrt den Staatsgründer Ahmed Sékou Touré.",
+          "Das Gebäude wurde als Ersatz für den 1996 beschädigten alten Palast gebaut.",
+          "Es befindet sich in der Hochsicherheitszone von Kaloum.",
+          "Der Palast ist regelmäßig Schauplatz für Empfänge ausländischer Staatsgäste.",
+          "Architektonisch ist er eines der modernsten Regierungsgebäude der Region."
+        ],
+        "hu": [
+          "Sékoutoureya Guinea köztársasági elnökének hivatalos rezidenciája.",
+          "A palotát Ahmed Sékou Touré után nevezték el, aki az ország első elnöke volt.",
+          "Az épületet azután emelték, hogy a régi palota egy lázadás során megsérült.",
+          "A Kaloum-félsziget legdélebbi, fokozottan védett övezetében található.",
+          "Itt zajlanak a legfontosabb állami és diplomáciai események.",
+          "A palota stílusa a modern állami reprezentatív építészetet képviseli."
+        ],
+        "ro": [
+          "Palatul Sékoutoureya găzduiește birourile aparatului prezidențial guineean.",
+          "Numele este un tribut adus liderului independenței, Ahmed Sékou Touré.",
+          "Clădirea este situată strategic pe promontoriul peninsulei Kaloum.",
+          "Este considerat simbolul suprem al continuității statului guineean.",
+          "Accesul în fața palatului este permis doar sub supraveghere militară strictă.",
+          "Infrastructura sa include săli de conferințe și buncăre de securität."
+        ],
+        "en": [
+          "Sékoutoureya is the primary office for the President of Guinea.",
+          "It was named as a tribute to founding father Ahmed Sékou Touré.",
+          "The palace was constructed following the near-destruction of the former residence in 1996.",
+          "It is situated in the high-security diplomatic district of Conakry.",
+          "The venue is used for the swearing-in of ministers and top officials.",
+          "The building faces the Atlantic Ocean, providing a strategic maritime view."
+        ]
+      }
+    },
+    {
+      "id": "independence-monument-conakry-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Unabhängigkeitsdenkmal in Conakry (Monument de l'Indépendance) ist ein kraftvolles Symbol für die nationale Identität Guineas und den stolzen Weg zur Souveränität. Es wurde errichtet, um den 2. Oktober 1958 zu würdigen – den Tag, an dem Guinea als erste französische Kolonie in Subsahara-Afrika die Unabhängigkeit erklärte, nachdem das Volk im Referendum gegen die Mitgliedschaft in der französischen Gemeinschaft gestimmt hatte. Geografisch liegt das Monument an einem zentralen Platz auf der Halbinsel Kaloum, im Herzen des Verwaltungs- und Geschäftsviertels. Die Architektur ist schlicht und dennoch eindrucksvoll, oft in Form eines Obelisken oder einer Stele gestaltet, die von einem kleinen Park umgeben ist. Historisch ist der Ort das emotionale Zentrum der Hauptstadt; hier finden jedes Jahr die offiziellen Feierlichkeiten zum Unabhängigkeitstag statt, bei denen der Präsident Kränze zum Gedenken an die Väter der Unabhängigkeit niederlegt. Für die Guineer repräsentiert dieses Denkmal den Geist des 'Nein' gegen die koloniale Bevormundung und den Willen zur Selbstbestimmung. Trotz der geschäftigen Umgebung von Conakry strahlt das Denkmal eine gewisse Würde und Feierlichkeit aus. Es dient als ständige Mahnung an die Opfer, die für die Freiheit des Landes gebracht wurden, und ist ein unverzichtbarer Teil der politischen Ikonografie Guineas.",
+        "hu": "A conakry-i Függetlenségi Emlékmű (Monument de l'Indépendance) Guinea nemzeti identitásának és önállóságának legfontosabb jelképe. Az építmény az 1958. október 2-i események előtt tiszteleg, amikor Guinea – a szubszaharai francia gyarmatok közül elsőként – kikiáltotta függetlenségét, miután a népszavazáson nemet mondott a francia közösséghez való csatlakozásra. Földrajzilag az emlékmű a Kaloum-félsziget szívében, a közigazgatási és üzleti negyed egyik központi terén található. Az építészet letisztult és méltóságteljes: a felfelé törő obeliszk körüli területet parkosították, lehetőséget adva a megemlékezésre a nagyvárosi nyüzsgés közepette. Történelmileg ez a helyszín a főváros érzelmi központja; minden évben itt rendezik meg a hivatalos függetlenség napi ünnepségeket, ahol az államfő koszorúzással adózik az alapító atyák emléke előtt. A guineaiak számára az emlékmű a nemzeti büszkeséget és a gyarmati elnyomással szembeni ellenállás szellemét képviseli. A városkép meghatározó elemeként naponta emlékezteti az ott lakókat az ország függetlenségének értékére. Az emlékmű nem csupán egy épített objektum, hanem a guineai szabadságvágy és politikai önrendelkezés örök mementója.",
+        "ro": "Monumentul Independenței din Conakry (Monument de l'Indépendance) este un simbol puternic al identității naționale guineene și al parcursului mândru către suveranitate. Acesta a fost ridicat pentru a onora data de 2 octombrie 1958, ziua în care Guineea a devenit prima colonie franceză din Africa subsahariană care și-a proclamat independența, după celebrul vot negativ la referendumul propus de generalul de Gaulle. Geografic, monumentul este situat într-o piață centrală de pe peninsula Kaloum, în inima cartierului administrativ. Arhitectura sa, sub forma unei stele sau a unui obelisc, este sobră dar impunătoare, fiind înconjurată de un spațiu verde care oferă un loc de liniște în mijlocul agitației urbane. Din punct de vedere istoric, acest loc este centrul ceremonial al capitalei; anual, de Ziua Independenței, aici se desfășoară depuneri oficiale de coroane și parade. Pentru cetățenii guineeni, monumentul reprezintă spiritul rezistenței și voința de autodeterminare a poporului lor. Acesta servește drept memento constant al sacrificiilor făcute pentru libertatea țării și este o piesă fundamentală a iconografiei politice naționale. Edificiul rămâne o destinație esențială pentru oricine dorește să înțeleagă rădăcinile istorice ale Guineei moderne.",
+        "en": "The Independence Monument in Conakry (Monument de l'Indépendance) is a powerful symbol of Guinea's national identity and its path to sovereignty. It was erected to honor October 2, 1958—the day Guinea became the first French colony in Sub-Saharan Africa to declare independence, following a decisive 'No' vote in the constitutional referendum. Geographically, the monument is located in a central plaza on the Kaloum Peninsula, in the heart of the administrative and commercial district. The architecture is dignified and straightforward, featuring a soaring obelisk or stela set within a small public park. Historically, the site is the emotional core of the capital; it serves as the primary venue for annual Independence Day celebrations, where the President lays wreaths in memory of the nation's founders. For Guineans, the monument represents the spirit of resistance against colonial rule and the collective will for self-determination. Despite the bustling environment of downtown Conakry, the monument maintains an aura of solemnity. It acts as a permanent reminder of the sacrifices made for freedom and is an essential element of Guinea's national and political pride."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Denkmal erinnert an die Unabhängigkeit vom 2. Oktober 1958.",
+          "Es befindet sich im zentralen Geschäftsbezirk von Kaloum.",
+          "Das Monument ist der zentrale Ort für Kranzniederlegungen am Nationalfeiertag.",
+          "Guinea war das einzige Land, das 1958 gegen die 'Communauté Française' stimmte.",
+          "Die Umgebung des Denkmals ist ein beliebter Treffpunkt für Stadtrundgänge.",
+          "Es symbolisiert den panafrikanischen Stolz Guineas."
+        ],
+        "hu": [
+          "Az emlékmű Guinea 1958. október 2-i függetlenné válásának állít emléket.",
+          "A Kaloum negyed központjában, kiemelt helyen található.",
+          "Itt tartják a nemzeti ünnepek legfontosabb koszorúzási ceremóniáit.",
+          "Guinea volt az egyetlen francia gyarmat, amely azonnal elszakadt az anyaországtól.",
+          "A környező park Conakry egyik legfontosabb szimbolikus tere.",
+          "Az építmény a nyugat-afrikai antikolonializmus egyik legismertebb jelképe."
+        ],
+        "ro": [
+          "Monumentul celebrează independența obținută sub conducerea lui Sékou Touré.",
+          "Este situat în centrul civic al orașului, aproape de marile ministere.",
+          "Situl este punctul focal al manifestărilor patriotice din 2 octombrie.",
+          "Reprezintă mândria de a fi prima națiune liberă din Africa franceză.",
+          "Arhitectura sa este minimalistă, punând accent pe verticalitate și libertate.",
+          "Monumentul este inclus pe traseul turistic istoric al capitalei Conakry."
+        ],
+        "en": [
+          "The monument commemorates the independence achieved on October 2, 1958.",
+          "It is located within the central business and administrative hub of Kaloum.",
+          "The site is the main venue for official wreath-laying ceremonies.",
+          "Guinea was the first and only colony to vote for immediate independence from France.",
+          "The monument is a key landmark for orienting oneself in downtown Conakry.",
+          "It serves as a testament to the nation's leadership in African decolonization."
+        ]
+      }
+    },
+    {
+      "id": "palais-de-justice-conakry-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Justizpalast von Conakry (Palais de Justice) ist ein bedeutendes architektonisches Wahrzeichen und der Sitz der obersten rechtsprechenden Gewalt in Guinea. Geografisch liegt das Gebäude im administrativen Herzen der Halbinsel Kaloum, in unmittelbarer Nähe zu anderen zentralen Staatsorganen. Die Architektur des Palastes ist imposant und verbindet klassische monumentale Elemente mit funktionalen Anforderungen eines modernen Gerichtsgebäudes. Das Bauwerk beherbergt unter anderem den Obersten Gerichtshof (Cour Suprême) und symbolisiert durch seine massiven Strukturen die Autorität und Unabhängigkeit der Justiz. Historisch markiert der Justizpalast die Entwicklung des guineischen Rechtssystems von der Kolonialzeit bis in die Ära der Unabhängigkeit. Das Gebäude ist nicht nur ein Ort für juristische Verfahren von nationaler Bedeutung, sondern auch ein Denkmal für die Rechtsstaatlichkeit in der Republik. Im Inneren befinden sich große Gerichtssäle und Verwaltungsbüros, die den Kern der juristischen Administration des Landes bilden. Für die Bürger Guineas ist der Palais de Justice ein Symbol für Gerechtigkeit und Gesetzmäßigkeit, auch wenn die Institution im Laufe der Geschichte oft im Spannungsfeld der Politik stand. Die markante Fassade und die zentrale Lage machen ihn zu einem der bekanntesten öffentlichen Gebäude der Hauptstadt.",
+        "hu": "A conakry-i Igazságügyi Palota (Palais de Justice) Guinea egyik legjelentősebb középülete, amely az ország legfelsőbb bírói hatalmának székhelye. Földrajzilag a Kaloum-félsziget közigazgatási szívében található, közel más fontos állami intézményekhez. Az épület építészete monumentális és tekintélyt parancsoló: a klasszikus stílusjegyeket ötvözi a modern bírósági épületek funkcionális igényeivel. A palota ad otthont többek között a Legfelsőbb Bíróságnak (Cour Suprême), tömör struktúrája pedig az igazságszolgáltatás tekintélyét és függetlenségét hivatott jelképezni. Történelmileg az épület végigkísérte a guineai jogrendszer fejlődését a gyarmati korszaktól a függetlenségig és azon túl. Ez a helyszín nem csupán a nemzeti jelentőségű jogi eljárások színtere, hanem a jogállamiság emlékműve is a Köztársaságban. A belső terekben tágas tárgyalótermek és hivatali irodák kaptak helyet, amelyek az ország jogi adminisztrációjának központját alkotják. A guineai állampolgárok számára az Igazságügyi Palota az igazságosság és a törvényesség szimbóluma, még akkor is, ha az intézmény a történelem során gyakran került a politika kereszttüzébe. Jellegzetes homlokzata és központi elhelyezkedése Conakry egyik legismertebb középületévé teszi.",
+        "ro": "Palatul de Justiție din Conakry (Palais de Justice) este un reper arhitectural major și sediul celei mai înalte autorități judiciare din Guineea. Geografic, clădirea este situată în inima administrativă a peninsulei Kaloum, în proximitatea altor organe centrale ale statului. Arhitectura palatului este impunătoare, combinând elemente monumentale clasice cu cerințele funcționale ale unei instituții judiciare moderne. Clădirea găzduiește Curtea Supremă (Cour Suprême) și simbolizează, prin structura sa masivă, autoritatea și independența justiției. Din punct de vedere istoric, Palatul de Justiție marchează evoluția sistemului juridic guineean de la perioada colonială până în era independenței. Edificiul nu este doar un loc pentru procese juridice de importanță națională, ci și un monument dedicat statului de drept în Republică. În interior se află săli de judecată vaste și birouri administrative care formează nucleul administrației juridice a țării. Pentru cetățenii Guineei, Palais de Justice reprezintă simbolul dreptății și al legalității, chiar dacă instituția a fost adesea influențată de schimbările politice de-a lungul istoriei. Fațada sa distinctivă și poziția centrală îl fac una dintre cele mai recunoscute clădiri publice din capitală.",
+        "en": "The Palace of Justice (Palais de Justice) in Conakry is a significant architectural landmark and the seat of the highest judicial authority in Guinea. Geographically, the building is located in the administrative heart of the Kaloum Peninsula, near other central state institutions. Its architecture is imposing, blending classical monumental elements with the functional needs of a modern courthouse. The building houses the Supreme Court (Cour Suprême) and its solid structures are intended to symbolize the authority and independence of the judiciary. Historically, the Palace of Justice reflects the evolution of the Guinean legal system from the colonial period through to independence and beyond. It is not only a venue for legal proceedings of national importance but also a monument to the rule of law within the Republic. The interior contains grand courtrooms and administrative offices that form the core of the country's legal administration. For Guineans, the Palais de Justice serves as a symbol of justice and legality, even though the institution has often been caught in political currents throughout history. Its prominent facade and central location make it one of the capital's most recognizable public buildings."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Justizpalast beherbergt den Obersten Gerichtshof Guineas.",
+          "Das Gebäude liegt in unmittelbarer Nähe zum Parlament (Palais du Peuple).",
+          "Es ist ein zentraler Ort für die Vereidigung hoher Staatsbeamter.",
+          "Die Architektur symbolisiert die Standhaftigkeit des Gesetzes.",
+          "Der Palast ist ein markanter Teil der Skyline von Kaloum.",
+          "In der Nähe befinden sich die wichtigsten Anwaltskanzleien der Hauptstadt."
+        ],
+        "hu": [
+          "Az Igazságügyi Palota a Guineai Legfelsőbb Bíróság székhelye.",
+          "Az épület közel található a parlamenthez (Palais du Peuple).",
+          "Fontos állami tisztségviselők eskütételének hagyományos helyszíne.",
+          "Építészeti stílusa a jog szilárdságát és tekintélyét sugározza.",
+          "A Kaloum-félsziget egyik legmeghatározóbb középülete.",
+          "A palota környéke a főváros jogi és igazgatási központja."
+        ],
+        "ro": [
+          "Palatul de Justiție este sediul Curții Supreme a Republicii Guineea.",
+          "Edificiul reprezintă pilonul fundamental al puterii judiciare în stat.",
+          "Este situat în zona administrativă securizată din centrul capitalei.",
+          "Aici sunt depozitate arhivele juridice de importanță istorică ale țării.",
+          "Arhitectura clădirii pune accent pe simetrie și monumentalitate.",
+          "Reprezintă punctul focal al profesiilor juridice din Guineea."
+        ],
+        "en": [
+          "The Palace of Justice is the seat of the Supreme Court of Guinea.",
+          "It is located within the central administrative zone of the Kaloum district.",
+          "The building is used for high-level judicial inaugurations and oaths.",
+          "The design emphasizes classical stability and judicial authority.",
+          "It is one of the most prominent institutional landmarks in Conakry.",
+          "The surrounding area serves as the hub for Guinea's legal community."
+        ]
+      }
+    },
+    {
+      "id": "central-bank-guinea-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Zentralbank der Republik Guinea (Banque Centrale de la République de Guinée, BCRG) in Conakry ist das finanzielle Herzstück des Landes und ein markantes Wahrzeichen moderner Architektur. Geografisch liegt sie im Geschäftszentrum der Halbinsel Kaloum, umgeben von Banken und Regierungsgebäuden. Gegründet am 1. März 1960, kurz nach der Einführung der eigenen nationalen Währung, dem Guineischen Franc (GNF), symbolisiert die Bank die monetäre Souveränität und wirtschaftliche Unabhängigkeit Guineas nach der Loslösung vom französischen CFA-Franc. Das Gebäude der BCRG ist eine imposante, moderne Struktur, die Sicherheit und Stabilität ausstrahlt und das Stadtbild von Conakry maßgeblich prägt. Historisch gesehen war die Gründung der Zentralbank ein radikaler Schritt von Präsident Ahmed Sékou Touré, um die volle Kontrolle über die nationale Wirtschaft zu erlangen. Heute fungiert die Bank als Hüterin der Währungsstabilität, Verwalterin der Gold- und Devisenreserven und Aufsichtsbehörde für das nationale Bankensystem. Wirtschaftlich spielt die BCRG eine entscheidende Rolle bei der Steuerung der Inflation und der Finanzierung staatlicher Entwicklungsprojekte. Für Besucher ist das Gebäude vor allem wegen seiner architektonischen Bedeutung und seiner zentralen Lage interessant, wobei es als Bollwerk der finanziellen Integrität Guineas gilt.",
+        "hu": "A Guineai Köztársaság Központi Bankja (Banque Centrale de la République de Guinée, BCRG) Conakryban az ország pénzügyi szíve és a modern építészet egyik kiemelkedő példája. Földrajzilag a Kaloum-félsziget üzleti negyedében található, bankok és kormányzati épületek gyűrűjében. Az intézményt 1960. március 1-jén alapították, röviddel a nemzeti valuta, a guineai frank (GNF) bevezetése után, szimbolizálva az ország monetáris szuverenitását és a francia koloniális valutától (CFA frank) való gazdasági függetlenedését. A BCRG épülete impozáns, modern struktúra, amely biztonságot és stabilitást sugároz, és meghatározó eleme Conakry városképének. Történelmileg a központi bank létrehozása Ahmed Sékou Touré elnök radikális lépése volt a nemzeti gazdaság feletti teljes ellenőrzés megszerzése érdekében. Ma a bank a valutastabilitás őre, az arany- és devizatartalékok kezelője, valamint a nemzeti bankrendszer felügyelő hatósága. Gazdasági szempontból a BCRG döntő szerepet játszik az infláció kezelésében és az állami fejlesztési projektek finanszírozásában. A látogatók számára az épület elsősorban építészeti jelentősége és központi elhelyezkedése miatt érdekes, amely Guinea pénzügyi integritásának bástyájaként áll a főváros szívében.",
+        "ro": "Banca Centrală a Republicii Guineea (Banque Centrale de la République de Guinée, BCRG) din Conakry este nucleul financiar al țării și un reper distinctiv al arhitecturii moderne locale. Geografic, aceasta este situată în centrul de afaceri de pe peninsula Kaloum, fiind înconjurată de sediile băncilor comerciale și de clădiri guvernamentale. Fondată la 1 martie 1960, la scurt timp după introducerea monedei naționale, francul guineean (GNF), banca simbolizează suveranitatea monetară și independența economică a Guineei după separarea de zona francului CFA. Edificiul BCRG este o structură modernă impunătoare, care emană siguranță și stabilitate, marcând profilul urban al capitalei. Din punct de vedere istoric, crearea băncii centrale a reprezentat un gest radical al președintelui Ahmed Sékou Touré pentru a obține controlul deplin asupra economiei naționale. Astăzi, banca funcționează ca garant al stabilității prețurilor, administrator al rezervelor de aur și valută și autoritate de supraveghere a sistemului bancar. Din punct de vedere economic, BCRG joacă un rol crucial în controlul inflației și în finanțarea proiectelor de dezvoltare ale statului. Clădirea este un punct de interes major datorită relevanței sale strategice și arhitecturale, fiind considerată fortăreața integrității financiare a Guineei.",
+        "en": "The Central Bank of the Republic of Guinea (Banque Centrale de la République de Guinée, BCRG) in Conakry is the financial heartbeat of the nation and a prominent example of modern institutional architecture. Geographically, it is located in the business center of the Kaloum Peninsula, surrounded by commercial banks and government offices. Established on March 1, 1960, shortly after the introduction of the national currency, the Guinean Franc (GNF), the bank symbolizes Guinea's monetary sovereignty and economic independence following its departure from the French-backed CFA franc. The BCRG building is an imposing modern structure that projects security and stability, significantly shaping Conakry's urban skyline. Historically, the bank's creation was a bold move by President Ahmed Sékou Touré to secure full control over the national economy. Today, the bank acts as the guardian of price stability, manager of gold and foreign exchange reserves, and the regulatory authority for the national banking system. Economically, the BCRG plays a vital role in managing inflation and supporting state development initiatives. The building is a key landmark in the capital, representing the strength and integrity of Guinea's financial foundations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die BCRG wurde 1960 als Zeichen der monetären Unabhängigkeit gegründet.",
+          "Sie verwaltet die Landeswährung, den Guineischen Franc (GNF).",
+          "Das Gebäude liegt im Herzen des Finanzviertels von Kaloum.",
+          "Die Bank ist für die Ausgabe aller Banknoten und Münzen in Guinea verantwortlich.",
+          "Die Architektur ist modern und betont die Sicherheit der Goldreserven.",
+          "Die BCRG ist Mitglied des westafrikanischen Währungsinstituts (WAMI)."
+        ],
+        "hu": [
+          "A központi bankot 1960-ban alapították a monetáris függetlenség jelképeként.",
+          "Az intézmény kezeli Guinea saját fizetőeszközét, a guineai frankot (GNF).",
+          "Az épület Conakry pénzügyi negyedének legfontosabb létesítménye.",
+          "Ez a bank felelős a guineai bankjegyek és érmék kibocsátásáért.",
+          "A modern épület a nemzeti aranytartalékok biztonságát is szolgálja.",
+          "Az intézmény kulcsszerepet játszik a Nyugat-afrikai Monetáris Zónában."
+        ],
+        "ro": [
+          "BCRG este singura instituție abilitată să emită monedă în Guineea.",
+          "A fost înființată la doi ani după obținerea independenței față de Franța.",
+          "Sediul său din Kaloum este una dintre cele mai securizate clădiri din țară.",
+          "Banca administrează politica monetară și cursul de schimb al francului guineean.",
+          "Edificiul reflectă stilul arhitectural oficial al instituțiilor financiare din anii '80.",
+          "Reprezintă simbolul autonomiei financiare a Republicii Guineea."
+        ],
+        "en": [
+          "The BCRG was established in 1960 to ensure Guinea's monetary autonomy.",
+          "It is the sole authority for issuing the Guinean Franc (GNF).",
+          "The building is situated in the primary financial district of the Kaloum Peninsula.",
+          "The bank manages Guinea's strategic gold and foreign currency reserves.",
+          "Its architecture is designed to emphasize financial stability and security.",
+          "The institution plays a leading role in the West African Monetary Zone (WAMZ)."
+        ]
+      }
+    },
+    {
+      "id": "kankan-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Moschee von Kankan ist das religiöse und architektonische Wahrzeichen der zweitgrößten Stadt Guineas und ein bedeutendes Zentrum des Islam in Westafrika. Geografisch liegt sie im Herzen von Kankan, einer Stadt, die als das spirituelle Zentrum der Malinké-Kultur gilt. Die Moschee ist weithin bekannt für ihre imposante Architektur, die traditionelle sudanesische Elemente mit modernen Einflüssen verbindet. Geprägt wird das Bauwerk durch seine großen Kuppeln und hohen Minarette, die die Skyline der Savannenstadt dominieren. Historisch gesehen ist die Moschee ein Symbol für die Jahrhunderte der islamischen Gelehrsamkeit in Kankan, einem Ort, der für seine Koranschulen und seine Gelehrten (Mory) berühmt ist. Jedes Jahr ist die Moschee der Mittelpunkt großer religiöser Feierlichkeiten, insbesondere des Tabaski-Festes, das Gläubige aus der gesamten Region anzieht. Die Moschee dient nicht nur als Gebetsstätte, sondern auch als sozialer Treffpunkt und Ort der moralischen Führung für die lokale Gemeinschaft. Ihre Bedeutung geht weit über die Grenzen Guineas hinaus, da Kankan als eine der 'heiligen Städte' Westafrikas angesehen wird. Für Besucher bietet die Große Moschee ein beeindruckendes Zeugnis der spirituellen Tiefe und des kulturellen Stolzes der Region Oberguinea.",
+        "hu": "A Kankan-i Nagymecset Guinea második legnagyobb városának vallási és építészeti jelképe, valamint Nyugat-Afrika egyik legfontosabb iszlám központja. Földrajzilag Kankan szívében található, abban a városban, amelyet a malinké kultúra spirituális fővárosaként tartanak számon. A mecset híres monumentális megjelenéséről, amely a hagyományos szudáni stílusjegyeket ötvözi a modern megoldásokkal. Az épület hatalmas kupolái és magas minaretjei messziről uralják a szavannai város látképét. Történelmileg a mecset a Kankanban évszázadok óta virágzó iszlám tudományosság szimbóluma; a város híres korán-iskoláiról és nagy tudású hittudósairól (moryk). Minden évben ez a mecset a központja a nagyszabású vallási ünnepségeknek, különösen a Tabaski idején, amikor a hívők a tágabb régióból is ide sereglenek. A mecset nem csupán imaház, hanem a közösségi élet és a szellemi útmutatás legfőbb színtere a helyi lakosság számára. Jelentősége messze túlmutat Guinea határain, hiszen Kankant Nyugat-Afrika egyik „szent városaként” tisztelik. A látogatók számára a Nagymecset lenyűgöző bizonysága Felső-Guinea spirituális mélységének és kulturális büszkeségének.",
+        "ro": "Marea Moschee din Kankan este principalul reper religios și arhitectural al celui de-al doilea oraș ca mărime din Guineea, fiind un centru vital al islamului în Africa de Vest. Geografic, moscheea este situată în inima orașului Kankan, considerat capitala spirituală a culturii Malinké. Edificiul este renumit pentru arhitectura sa impunătoare, care îmbină elemente tradiționale sudaneze cu influențe moderne, fiind remarcabil prin cupolele sale mari și minaretele înalte care domină panorama orașului. Din punct de vedere istoric, moscheea simbolizează secolele de erudiție islamică din Kankan, un oraș celebru pentru școlile sale coranice și pentru învățații săi (mory). Anual, moscheea reprezintă punctul central al marilor sărbători religioase, în special de Tabaski, atrăgând credincioși din întreaga regiune. Moscheea nu servește doar ca lăcaș de cult, ci și ca loc de întâlnire socială și de îndrumare morală pentru comunitatea locală. Importanța sa depășește granițele Guineei, Kankan fiind perceput ca unul dintre „orașele sfinte” ale Africii de Vest. Pentru vizitatori, Marea Moschee oferă o mărturie impresionantă a profunzimii spirituale și a mândriei culturale a regiunii Guineea Superioară.",
+        "en": "The Grand Mosque of Kankan is the religious and architectural landmark of Guinea's second-largest city and a major center of Islam in West Africa. Geographically, it is located in the heart of Kankan, a city regarded as the spiritual capital of the Malinké culture. The mosque is widely known for its grand architecture, which blends traditional Sudanese elements with modern influences, highlighted by its large domes and tall minarets that dominate the city's savanna skyline. Historically, the mosque stands as a symbol of Kankan's centuries-old tradition of Islamic scholarship, famous for its Quranic schools and learned scholars (mory). Each year, the mosque is the centerpiece of major religious festivals, particularly the Tabaski celebrations, drawing worshipers from across the wider region. Beyond its role as a place of prayer, the mosque serves as a vital social hub and a source of moral guidance for the local community. Its significance extends far beyond Guinea's borders, as Kankan is revered as one of West Africa's 'holy cities.' For visitors, the Grand Mosque provides a powerful testament to the spiritual depth and cultural pride of the Upper Guinea region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kankan gilt als das geistige Zentrum der Malinké in Guinea.",
+          "Die Moschee ist eine der größten und am besten besuchten des Landes.",
+          "Das Bauwerk wurde über die Jahrzehnte mehrfach erweitert.",
+          "Kankan ist ein berühmter Ort für den Tabaski-Umzug der Reiter.",
+          "Die Moschee beherbergt eine angesehene Koranschule.",
+          "Ihre Minarette dienen als Orientierungspunkt in der weitläufigen Savannenstadt."
+        ],
+        "hu": [
+          "A mecset a guineai malinké nép legfontosabb szakrális központja.",
+          "Az épület az ország egyik legnagyobb befogadóképességű mecsetje.",
+          "A mecset modernizálásában a helyi közösség mellett külföldi adományok is szerepet játszottak.",
+          "Kankan híres a Tabaski idején tartott lovas felvonulásairól.",
+          "Az épületkomplexum egyben a régió egyik legfontosabb vallási iskolája.",
+          "A mecset stílusa hűen tükrözi a felső-guineai iszlám építészet fejlődését."
+        ],
+        "ro": [
+          "Marea Moschee reprezintă nucleul identității culturale a regiunii Kankan.",
+          "Kankan este supranumit 'orașul sfinților' datorită influenței acestui lăcaș.",
+          "Arhitectura moscheii a fost renovată pentru a reflecta statutul său regional.",
+          "Pelerinajele la Kankan sunt printre cele mai importante din Guineea.",
+          "Interiorul este decorat cu motive tradiționale manding.",
+          "Moscheea joacă un rol major în viața politică și socială a Estului Guineei."
+        ],
+        "en": [
+          "The mosque is the spiritual epicenter for the Malinké people in Guinea.",
+          "It ranks as one of the largest and most historically significant mosques in the country.",
+          "Kankan is internationally recognized as a hub for traditional Islamic learning.",
+          "The mosque is the focal point for the spectacular Tabaski horse parades.",
+          "It serves both as a place of worship and a premier educational facility.",
+          "The building's minarets are iconic features of the Upper Guinea landscape."
+        ]
+      }
+    }
+  ]
+}

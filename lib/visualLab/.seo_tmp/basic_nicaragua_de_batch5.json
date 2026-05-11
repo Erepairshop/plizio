@@ -1,0 +1,86 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaNatureV2.ts",
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-el-paraiso-boaco-life-v2",
+      "description": "Die Finca El Paraíso in Boaco ist eine familiengeführte Farm, bekannt für ihren Kaffeeanbau und nachhaltige Praktiken.",
+      "facts": ["Familiengeführte Farm", "Kaffeeanbau", "Nachhaltige Praktiken"]
+    },
+    {
+      "id": "parque-central-de-granada-kids-life-v2",
+      "description": "Der Parque Central in Granada ist ein lebhafter Stadtpark, ideal für Kinder zum Spielen und um das lokale Leben zu beobachten.",
+      "facts": ["Lebhafter Stadtpark", "Granada", "Lokales Leben"]
+    },
+    {
+      "id": "finca-el-platanal-cacao-life-v2",
+      "description": "Die Finca El Platanal in Rivas ist eine Kakaoplantage, die Führungen und Einblicke in den biologischen Anbau bietet.",
+      "facts": ["Kakaoplantage", "Biologischer Anbau", "Rivas"]
+    },
+    {
+      "id": "finca-ecologica-la-bomba-coffee-life-v2",
+      "description": "Die Finca Ecológica La Bomba in Matagalpa ist eine Öko-Kaffeefarm, die nachhaltigen Anbau und Bildung fördert.",
+      "facts": ["Öko-Kaffeefarm", "Nachhaltiger Anbau", "Matagalpa"]
+    },
+    {
+      "id": "tisey-estanzuela-reserve-nature-v2",
+      "description": "Das Tisey-Estanzuela-Naturreservat in Estelí ist bekannt für seine Kiefernwälder, Wasserfälle und Felsformationen.",
+      "facts": ["Kiefernwälder", "Wasserfälle", "Felsformationen"]
+    },
+    {
+      "id": "zapatera-island-nature-v2",
+      "description": "Die Zapatera-Insel im Nicaragua-See ist ein Nationalpark, bekannt für ihre unberührte Natur und prähistorischen Petroglyphen.",
+      "facts": ["Nationalpark", "Nicaragua-See", "Petroglyphen"]
+    },
+    {
+      "id": "telica-volcano-nature-v2",
+      "description": "Der Telica-Vulkan ist einer der aktivsten Vulkane Nicaraguas, bekannt für seine beeindruckenden Krater und Lavaströme.",
+      "facts": ["Aktiver Vulkan", "Beeindruckende Krater", "Lavaströme"]
+    },
+    {
+      "id": "san-lorenzo-cloud-forest-nature-v2",
+      "description": "Der Nebelwald von San Lorenzo in Matagalpa ist ein wichtiges Schutzgebiet für endemische Flora und Fauna.",
+      "facts": ["Nebelwald", "Endemische Flora und Fauna", "Matagalpa"]
+    },
+    {
+      "id": "estero-real-nature-v2",
+      "description": "Estero Real ist das größte Mangroven-Feuchtgebiet in Mittelamerika, ein wichtiger Lebensraum für viele Vogelarten.",
+      "facts": ["Mangroven-Feuchtgebiet", "Mittelamerika", "Vogelarten"]
+    },
+    {
+      "id": "cerro-el-arenal-nature-v2",
+      "description": "Cerro El Arenal in Jinotega ist ein Berg, der für seinen Nebelwald und seine Kaffeeregion bekannt ist.",
+      "facts": ["Nebelwald", "Kaffeeregion", "Jinotega"]
+    },
+    {
+      "id": "cerro-el-pilon-relief-v2",
+      "description": "Cerro El Pilón ist ein markanter Hügel in der Chontales-Region, bekannt für seine Aussicht und den Trockenwald.",
+      "facts": ["Markanter Hügel", "Chontales-Region", "Trockenwald"]
+    },
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "Das Valle de Osúa in Jinotega ist ein fruchtbares Tal, umgeben von Bergen und bekannt für seine Landwirtschaft.",
+      "facts": ["Fruchtbares Tal", "Jinotega", "Landwirtschaft"]
+    },
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "description": "Die Meseta de Jinotega ist eine Hochland-Hochebene, bekannt für ihren kühlen Kaffeeanbau und die bergige Landschaft.",
+      "facts": ["Hochland-Hochebene", "Kaffeeanbau", "Bergige Landschaft"]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "description": "Cerro La Quinta in Matagalpa ist ein Berg, der für seine Wanderwege und die Panoramablicke bekannt ist.",
+      "facts": ["Berg", "Wanderwege", "Panoramablicke"]
+    },
+    {
+      "id": "valle-de-la-libertad-relief-v2",
+      "description": "Das Valle de la Libertad in Chontales ist ein fruchtbares Tal, bekannt für seine Viehzucht und Landwirtschaft.",
+      "facts": ["Fruchtbares Tal", "Viehzucht", "Landwirtschaft"]
+    }
+  ]
+}

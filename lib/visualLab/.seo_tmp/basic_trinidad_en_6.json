@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-parliament-building-landmarks-v2",
+      "description": "The Parliament Building in Port of Spain is a distinguished landmark, serving as the center of national governance.",
+      "facts": ["Center of national government", "Port of Spain landmark", "Architectural significance"]
+    },
+    {
+      "id": "tt-holy-trinity-cathedral-landmarks-v2",
+      "description": "The Holy Trinity Cathedral is a stunning Gothic-style church and a prominent cultural landmark in Trinidad.",
+      "facts": ["Gothic-style architecture", "Religious and cultural site", "Port of Spain landmark"]
+    },
+    {
+      "id": "tt-hasely-crawford-stadium-landmarks-v2",
+      "description": "The Hasely Crawford Stadium is the premier sports arena in Trinidad, named after the country's first Olympic gold medalist.",
+      "facts": ["National sports stadium", "Named after Hasely Crawford", "Key event venue"]
+    },
+    {
+      "id": "tt-fort-king-george-tobago-landmarks-v2",
+      "description": "Fort King George is a well-preserved historic site in Tobago, offering panoramic views and colonial-era architecture.",
+      "facts": ["Historic Tobago fort", "Panoramic island views", "Colonial heritage site"]
+    },
+    {
+      "id": "tt-waterloo-temple-landmarks-v2",
+      "description": "The Waterloo Temple is a unique sea-side Hindu temple, famous for being built within the ocean waters.",
+      "facts": ["Unique sea-side temple", "Hindu place of worship", "Architectural landmark"]
+    },
+    {
+      "id": "tt-caroni-bird-sanctuary-landmarks-v2",
+      "description": "The Caroni Bird Sanctuary is a protected wetland habitat, world-renowned for being home to the vibrant Scarlet Ibis.",
+      "facts": ["Protected wetland reserve", "Home to Scarlet Ibis", "Key nature landmark"]
+    },
+    {
+      "id": "tt-argyle-waterfall-landmarks-v2",
+      "description": "Argyle Waterfall is a beautiful cascading multi-tiered waterfall nestled within the lush rainforests of Tobago.",
+      "facts": ["Scenic Tobago waterfall", "Multi-tiered cascades", "Rainforest landmark"]
+    },
+    {
+      "id": "tt-buccoo-reef-landmarks-v2",
+      "description": "Buccoo Reef is a famous protected marine park in Tobago, known for its crystal-clear waters and vibrant coral life.",
+      "facts": ["Protected marine park", "Famous glass-bottom boat site", "Vibrant coral reef"]
+    },
+    {
+      "id": "tt-fort-bennett-landmarks-v2",
+      "description": "Fort Bennett is a historic coastal defense site in Tobago, offering historical intrigue and beautiful coastal vistas.",
+      "facts": ["Historic coastal fort", "Tobago defense site", "Scenic coastal views"]
+    },
+    {
+      "id": "tt-hanuman-statue-landmarks-v2",
+      "description": "The Hanuman Statue is a massive, impressive religious monument, standing as a testament to the Hindu faith in Trinidad.",
+      "facts": ["Massive religious statue", "Key cultural landmark", "Significant Hindu site"]
+    }
+  ]
+}

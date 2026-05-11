@@ -1,0 +1,45 @@
+{
+  "lang": "hu",
+  "country": "Oman",
+  "files": [
+    "lib/visualLab/data/poiExtraOmanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraOmanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "duqm-cities-v2",
+      "description": "Dél-Omán gyorsan fejlődő ipari és kikötővárosa az Arab-tenger partján. A korábban kis halászfalu mára jelentős gazdasági központtá alakult át.",
+      "facts": ["Ipari központ", "Kikötőváros", "Gyorsan fejlődik"]
+    },
+    {
+      "id": "suwayq-cities-v2",
+      "description": "Az Al Batinah régió egyik fontos települése az Ománi-öböl partvidékén. A város hagyományosan a mezőgazdaságról és a kereskedelemről híres.",
+      "facts": ["Parti város", "Mezőgazdasági központ", "Al Batinah régió"]
+    },
+    {
+      "id": "riyam-park-life-v2",
+      "description": "Muszkat egyik legnépszerűbb tengerparti parkja, ahonnan kilátás nyílik a kikötőre. Jellegzetessége a nagy, stilizált tömjénfüstölő emlékmű.",
+      "facts": ["Muszkatban található", "Tengerparti park", "Tömjénfüstölő emlékmű"]
+    },
+    {
+      "id": "kalbuh-park-life-v2",
+      "description": "A Mutrah negyed közelében fekvő park, amely közvetlenül a tengerpart mentén kínál kikapcsolódást. Kedvelt helyszín a helyi családok körében.",
+      "facts": ["Tengerparti park", "Mutrah közelsége", "Családi pihenőhely"]
+    },
+    {
+      "id": "salalah-banana-plantations-life-v2",
+      "description": "Dhofar régió buja ültetvényei, amelyek a régió trópusi mikroklímáját élvezik. A banán mellett papaya és kókuszdió is nagy mennyiségben terem.",
+      "facts": ["Dhofar régió", "Trópusi gyümölcsök", "Buja ültetvények"]
+    },
+    {
+      "id": "snow-oman-life-v2",
+      "description": "Az Ománban működő fedett síközpont, amely a sivatagi hőség ellensúlyozására jött létre. Egész évben lehetőséget biztosít a téli sportokra.",
+      "facts": ["Fedett sípálya", "Téli sportok", "Sivatagi környezet"]
+    },
+    {
+      "id": "hawana-aqua-park-life-v2",
+      "description": "Salalah közelében elhelyezkedő vízi vidámpark modern medencékkel és csúszdákkal. A turisták és a helyi családok kedvelt szórakozóhelye.",
+      "facts": ["Salalah környéke", "Vízi vidámpark", "Modern csúszdák"]
+    }
+  ]
+}

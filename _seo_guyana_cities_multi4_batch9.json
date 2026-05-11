@@ -1,0 +1,92 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "leonora-cities-v2",
+      "descriptionAdvancedDe": "Leonora ist eine große Gemeinde an der Westküste von Demerara in Guyana. Historisch gesehen war es eines der größten und wichtigsten Zuckeranwesen des Landes. Die Schließung des Leonora-Zuckeranwesens in den 1980er Jahren hatte tiefgreifende Auswirkungen auf die lokale Wirtschaft und zwang die Gemeinde zur Diversifizierung. Heute ist Leonora eine Mischung aus Wohn- und Gewerbegebieten mit einer Bevölkerung, die in verschiedenen Sektoren beschäftigt ist, darunter Landwirtschaft, Einzelhandel und Dienstleistungen. Das Dorf ist bekannt für sein Leichtathletikstadion, das als wichtiges Zentrum für Sportveranstaltungen in der Region dient. Leonora spiegelt die Widerstandsfähigkeit vieler guyanischer Gemeinden wider, die sich an die wirtschaftlichen Veränderungen nach der Zuckerindustrie angepasst haben.",
+      "descriptionAdvancedHu": "Leonora egy nagy közösség Guyana Demerara nyugati partján. Történelmileg az ország egyik legnagyobb és legfontosabb cukorgyára volt. A Leonora cukorgyár bezárása az 1980-as években mélyreható hatással volt a helyi gazdaságra, és a közösséget diverzifikációra kényszerítette. Ma Leonora lakó- és kereskedelmi területek keveréke, lakossága különböző ágazatokban, többek között a mezőgazdaságban, a kiskereskedelemben és a szolgáltatásokban dolgozik. A falu atlétikai stadionjáról ismert, amely a régió sporteseményeinek fontos központjaként szolgál. Leonora tükrözi sok guyanai közösség ellenálló képességét, amelyek alkalmazkodtak a cukoripar utáni gazdasági változásokhoz.",
+      "descriptionAdvancedRo": "Leonora este o comunitate mare de pe coasta de vest a Demerarei din Guyana. Din punct de vedere istoric, a fost una dintre cele mai mari și mai importante moșii de zahăr din țară. Închiderea moșiei de zahăr Leonora în anii 1980 a avut un impact profund asupra economiei locale, forțând comunitatea să se diversifice. Astăzi, Leonora este un amestec de zone rezidențiale și comerciale, cu o populație angajată în diverse sectoare, inclusiv agricultură, retail și servicii. Satul este cunoscut pentru stadionul său de atletism, care servește ca un centru important pentru evenimentele sportive din regiune. Leonora reflectă rezistența multor comunități guyaneze care s-au adaptat la schimbările economice de după industria zahărului.",
+      "descriptionAdvancedEn": "Leonora is a large village on the West Coast of Demerara. It was historically the site of one of Guyana's most significant sugar estates, the Leonora Estate. The closure of the factory in the 1980s had a major socio-economic impact on the community, which was heavily dependent on it for employment. Since then, Leonora has transitioned into a bustling residential and commercial hub for the region. Many residents are now engaged in private business, rice farming, and other forms of agriculture. The town is also home to the Leonora Track and Field Centre, a modern synthetic athletic track that hosts national sporting events. Leonora's story is one of adaptation and resilience in the face of the decline of 'King Sugar'.",
+      "factsAdvanced": [
+        "A Demerara nyugati partján található.",
+        "Egykor Guyana egyik legfontosabb cukorgyárának adott otthont.",
+        "A gyár bezárása az 1980-as években nagy hatással volt a közösségre.",
+        "Ma lakó- és kereskedelmi központ.",
+        "Itt található a Leonora Atlétikai Központ.",
+        "A lakosok ma már főként magánvállalkozásból és mezőgazdaságból élnek.",
+        "A falu az alkalmazkodás és az ellenálló képesség példája.",
+        "Fontos sportközpont a régióban."
+      ]
+    },
+    {
+      "id": "uitvlugt-cities-v2",
+      "descriptionAdvancedDe": "Uitvlugt, dessen Name niederländischer Herkunft ist, ist eine wichtige Gemeinde an der Westküste von Demerara. Es ist von großer Bedeutung als Standort des Uitvlugt-Zuckeranwesens, einer der wenigen verbliebenen funktionierenden Zuckerfabriken in Guyana, die von GuySuCo betrieben wird. Das Anwesen ist ein wichtiger Arbeitgeber für Tausende von Menschen in der Region West Demerara und das Rückgrat der lokalen Wirtschaft. Das Leben in der Gemeinde ist eng mit den Ernte- und Mahlzyklen des Zuckerrohrs verbunden. Die Bevölkerung ist eine Mischung aus Afro- und Indo-Guyanern, die beide eine lange Geschichte in der Zuckerindustrie haben. Die Uitvlugt-Gemeinschaft kämpft mit den Herausforderungen der modernen Zuckerindustrie, bleibt aber ein entscheidendes Zentrum für die Zuckerproduktion im Land.",
+      "descriptionAdvancedHu": "Uitvlugt, amelynek neve holland eredetű, egy fontos közösség a Demerara nyugati partján. Nagy jelentőséggel bír, mint az Uitvlugt cukorgyár helyszíne, amely egyike a kevés megmaradt működő cukorgyárnak Guyanában, és a GuySuCo üzemelteti. A birtok a Nyugat-Demerara régióban több ezer ember számára fontos munkaadó, és a helyi gazdaság gerincét képezi. A közösségi élet szorosan kapcsolódik a cukornád betakarítási és őrlési ciklusaihoz. A lakosság afro- és indo-guyanaiak keveréke, akik mindketten hosszú múltra tekintenek vissza a cukoriparban. Az Uitvlugt közösség küzd a modern cukoripar kihívásaival, de továbbra is az ország cukortermelésének egyik legfontosabb központja marad.",
+      "descriptionAdvancedRo": "Uitvlugt, al cărui nume este de origine olandeză, este o comunitate importantă de pe coasta de vest a Demerarei. Este de o importanță majoră ca locație a moșiei de zahăr Uitvlugt, una dintre puținele fabrici de zahăr funcționale rămase în Guyana, operată de GuySuCo. Moșia este un angajator vital pentru mii de oameni din regiunea Demerara de Vest și coloana vertebrală a economiei locale. Viața în comunitate este strâns legată de ciclurile de recoltare și măcinare a trestiei de zahăr. Populația este un amestec de afro și indo-guyanezi, ambii având o istorie lungă în industria zahărului. Comunitatea Uitvlugt se luptă cu provocările industriei moderne a zahărului, dar rămâne un centru crucial pentru producția de zahăr din țară.",
+      "descriptionAdvancedEn": "Uitvlugt (Dutch for 'outflow' or 'outlet') is a major community on the West Coast of Demerara, significant for being the location of the Uitvlugt Sugar Estate. This estate is one of the few remaining operational sugar factories in Guyana, making it a cornerstone of the modern Guyanese sugar industry. The estate provides direct and indirect employment for thousands of residents in the West Demerara region, and the community's social and economic life is deeply intertwined with the factory's operations. The population is a mix of Afro-Guyanese and Indo-Guyanese, both groups having a long history tied to the sugar plantations. Uitvlugt is a vital economic driver for the area, representing both the legacy and the ongoing struggles of 'King Sugar'.",
+      "factsAdvanced": [
+        "A neve hollandul „kiáramlást” jelent.",
+        "Itt található az Uitvlugt cukorgyár.",
+        "Egyike a kevés működő cukorgyárnak Guyanában.",
+        "Több ezer embernek ad munkát.",
+        "A helyi gazdaság gerincét képezi.",
+        "A közösségi élet a cukortermeléshez kötődik.",
+        "A lakosság afro- és indo-guyanaiak keveréke.",
+        "A „Király Cukor” örökségét és küzdelmeit képviseli."
+      ]
+    },
+    {
+      "id": "zeelugt-cities-v2",
+      "descriptionAdvancedDe": "Zeelugt ist eine große und wachsende Wohnsiedlung an der Westküste von Demerara. Es liegt in der Nähe von Uitvlugt und ist Teil des dichten Siedlungsbandes in dieser Region. Ursprünglich eine Zuckerplantage, hat sich Zeelugt in den letzten Jahrzehnten schnell zu einer Wohngegend entwickelt, insbesondere durch die Einrichtung neuer Wohnprojekte, die den Bedarf an Wohnraum in der Nähe von Georgetown decken. Viele Einwohner pendeln zur Arbeit in die Hauptstadt. Die Gemeinde hat eine überwiegend indo-guyanische Bevölkerung. Während einige landwirtschaftliche Aktivitäten fortbestehen, ist die Wirtschaft hauptsächlich auf Handel und Dienstleistungen ausgerichtet. Das Wachstum von Zeelugt spiegelt den allgemeinen Trend der Urbanisierung und Bevölkerungsentwicklung an der guyanischen Küste wider.",
+      "descriptionAdvancedHu": "Zeelugt egy nagy és növekvő lakótelep a Demerara nyugati partján. Uitvlugt közelében fekszik, és része a régió sűrű települési sávjának. Eredetileg cukorültetvény volt, de Zeelugt az elmúlt évtizedekben gyorsan lakóövezetté fejlődött, különösen az új lakóprojektek létrehozásával, amelyek a Georgetown közelében lévő lakásigényt elégítik ki. Sok lakos ingázik a fővárosba dolgozni. A közösség lakossága túlnyomórészt indo-guyanai. Míg néhány mezőgazdasági tevékenység továbbra is fennáll, a gazdaság főként a kereskedelemre és a szolgáltatásokra irányul. Zeelugt növekedése a guyanai tengerpart urbanizációjának és népességfejlődésének általános tendenciáját tükrözi.",
+      "descriptionAdvancedRo": "Zeelugt este o așezare rezidențială mare și în creștere pe coasta de vest a Demerarei. Este situată în apropiere de Uitvlugt și face parte din centura densă de așezări din această regiune. Inițial o plantație de zahăr, Zeelugt s-a dezvoltat rapid într-o zonă rezidențială în ultimele decenii, în special prin înființarea de noi proiecte de locuințe care răspund nevoii de locuințe în apropiere de Georgetown. Mulți locuitori fac naveta pentru a lucra în capitală. Comunitatea are o populație predominant indo-guyaneză. În timp ce unele activități agricole persistă, economia este orientată în principal spre comerț și servicii. Creșterea Zeelugt reflectă tendința generală de urbanizare și dezvoltare a populației de pe coasta Guyanei.",
+      "descriptionAdvancedEn": "Zeelugt is a large and rapidly expanding village on the West Coast of Demerara. Located east of Uitvlugt, it was once plantation land. Today, it is best known for its extensive housing schemes, developed to accommodate Guyana's growing population. This has transformed Zeelugt into one of the most populous villages in the region. The community is primarily residential, with many people commuting for work to other areas, including Georgetown. The population is predominantly Indo-Guyanese. The village has a bustling atmosphere with numerous small shops, businesses, and religious centers serving the large community. Its growth is a clear indicator of the suburban expansion taking place along Guyana's coast.",
+      "factsAdvanced": [
+        "Nagy és gyorsan növekvő falu a Demerara nyugati partján.",
+        "Egykor ültetvényterület volt.",
+        "Ma kiterjedt lakótelepeiről ismert.",
+        "A régió egyik legnépesebb faluja.",
+        "Elsősorban lakóövezet, sok ingázóval.",
+        "A lakosság túlnyomórészt indo-guyanai.",
+        "Számos kis üzlet és vallási központ található itt.",
+        "A part menti szuburbanizáció példája."
+      ]
+    },
+    {
+      "id": "tuschen-cities-v2",
+      "descriptionAdvancedDe": "Tuschen ist eine der größten und am schnellsten wachsenden Wohnsiedlungen in Guyana und liegt an der Ostbank von Essequibo, in der Nähe von Parika. In den letzten zwei Jahrzehnten hat es sich von einem kleinen Dorf zu einer riesigen Wohnsiedlung entwickelt, die Tausende von Familien beherbergt. Dieses massive Wohnbauprojekt wurde von der Regierung initiiert, um den dringenden Bedarf an bezahlbarem Wohnraum zu decken. Tuschen ist heute eine geschäftige Gemeinde mit einer wachsenden Zahl von Unternehmen, Schulen und Dienstleistungen. Seine Nähe zum Verkehrsknotenpunkt Parika macht es zu einem attraktiven Wohnort. Die Entwicklung von Tuschen ist ein Paradebeispiel für die Bemühungen Guyanas, die Wohninfrastruktur zu modernisieren und die Lebensbedingungen seiner Bürger zu verbessern.",
+      "descriptionAdvancedHu": "Tuschen Guyana egyik legnagyobb és leggyorsabban növekvő lakótelepe, az Essequibo keleti partján, Parika közelében. Az elmúlt két évtizedben egy kis faluból hatalmas lakóteleppé fejlődött, amely családok ezreinek ad otthont. Ezt a hatalmas lakásépítési projektet a kormány kezdeményezte, hogy kielégítse a megfizethető lakások iránti sürgős igényt. Tuschen ma egy nyüzsgő közösség, növekvő számú vállalkozással, iskolával és szolgáltatással. A Parika közlekedési csomóponthoz való közelsége vonzó lakóhellyé teszi. Tuschen fejlődése kiváló példája Guyana azon erőfeszítéseinek, hogy modernizálja a lakásinfrastruktúrát és javítsa állampolgárai életkörülményeit.",
+      "descriptionAdvancedRo": "Tuschen este una dintre cele mai mari și mai rapide așezări rezidențiale în creștere din Guyana, situată pe malul de est al Essequibo, lângă Parika. În ultimele două decenii, s-a transformat dintr-un mic sat într-o vastă schemă de locuințe care găzduiește mii de familii. Acest proiect masiv de locuințe a fost inițiat de guvern pentru a satisface nevoia urgentă de locuințe la prețuri accesibile. Tuschen este acum o comunitate plină de viață, cu un număr tot mai mare de afaceri, școli și servicii. Apropierea sa de nodul de transport Parika îl face un loc atractiv pentru a trăi. Dezvoltarea Tuschen este un prim exemplu al eforturilor Guyanei de a moderniza infrastructura de locuințe și de a îmbunătăți condițiile de viață pentru cetățenii săi.",
+      "descriptionAdvancedEn": "Tuschen is a massive housing scheme located on the East Bank of the Essequibo River, near the Parika junction. It represents one of the largest modern housing developments in Guyana, transforming the area from sugarcane fields into a sprawling suburban community in a relatively short period. The scheme was developed by the government to provide affordable housing to thousands of families. Today, Tuschen is a bustling, self-contained community with its own market, schools, health facilities, and a growing number of businesses. Its strategic location near the Parika hub makes it a convenient place to live for those who work in or travel through the region. Tuschen symbolizes the country's push towards modern suburban development.",
+      "factsAdvanced": [
+        "Egy hatalmas, modern lakótelep.",
+        "Az Essequibo keleti partján, Parika közelében található.",
+        "A kormány fejlesztette ki megfizethető lakhatás céljából.",
+        "Több ezer családnak ad otthont.",
+        "Nyüzsgő, önellátó közösség.",
+        "Saját piaccal, iskolákkal és egészségügyi létesítményekkel rendelkezik.",
+        "Stratégiai elhelyezkedése vonzóvá teszi.",
+        "Guyana modern szuburbanizációs törekvéseinek szimbóluma."
+      ]
+    },
+    {
+      "id": "meten-meer-zorg-cities-v2",
+      "descriptionAdvancedDe": "Meten-Meer-Zorg ist eine große Gemeinde an der Westküste von Demerara. Der Name, der niederländischen Ursprungs ist, bedeutet „Messen ist mehr Sorge“. Es war ursprünglich eine Zuckerplantage, hat sich aber zu einer dicht besiedelten Wohn- und Handelsgemeinschaft entwickelt. Die Wirtschaft ist vielfältig und umfasst Reisanbau, Viehzucht, Fischerei und eine Reihe von kleinen Unternehmen. Das Dorf ist bekannt für sein großes Wasserrad, ein Überbleibsel aus der Kolonialzeit, das zur Entwässerung der Plantage diente. Meten-Meer-Zorg hat eine überwiegend indo-guyanische Bevölkerung und eine reiche kulturelle Szene mit mehreren Tempeln und Moscheen. Es ist ein lebhaftes Zentrum an der Westküste, das die Mischung aus landwirtschaftlicher Tradition und moderner Entwicklung in der Region veranschaulicht.",
+      "descriptionAdvancedHu": "Meten-Meer-Zorg egy nagy közösség a Demerara nyugati partján. A név, amely holland eredetű, azt jelenti: „Mérni több gondot jelent”. Eredetileg cukorültetvény volt, de sűrűn lakott lakó- és kereskedelmi közösséggé fejlődött. Gazdasága változatos, magában foglalja a rizstermesztést, az állattenyésztést, a halászatot és számos kisvállalkozást. A falu nagy vízikerékéről ismert, amely a gyarmati korszakból maradt fenn, és az ültetvény vízelvezetésére szolgált. Meten-Meer-Zorg lakossága túlnyomórészt indo-guyanai, és gazdag kulturális élettel rendelkezik, több templommal és mecsettel. Ez egy élénk központ a nyugati parton, amely a régió mezőgazdasági hagyományainak és modern fejlődésének keverékét példázza.",
+      "descriptionAdvancedRo": "Meten-Meer-Zorg este o comunitate mare de pe coasta de vest a Demerarei. Numele, de origine olandeză, înseamnă „Măsurarea este mai multă grijă”. A fost inițial o plantație de zahăr, dar s-a dezvoltat într-o comunitate rezidențială și comercială dens populată. Economia este diversificată, incluzând cultivarea orezului, creșterea animalelor, pescuitul și o serie de mici afaceri. Satul este cunoscut pentru roata sa mare de apă, o relicvă din epoca colonială folosită pentru drenarea plantației. Meten-Meer-Zorg are o populație predominant indo-guyaneză și o scenă culturală bogată, cu mai multe temple și moschei. Este un centru plin de viață pe coasta de vest, exemplificând amestecul de tradiție agricolă și dezvoltare modernă din regiune.",
+      "descriptionAdvancedEn": "Meten-Meer-Zorg is a large village on the West Coast of Demerara, its name Dutch for 'Measuring is More Care'. Originally a sugar plantation, it has evolved into a major residential and commercial area. The community is known for its large market and vibrant business activity. The economy is mixed, with rice farming, coconut cultivation, and fishing being important, alongside a strong retail sector. Meten-Meer-Zorg is a predominantly Indo-Guyanese community with a rich cultural landscape, including prominent mosques and mandirs. A notable landmark is the historic iron water wheel (koker) that was once used for drainage on the plantation, a relic of the Dutch colonial engineering that shaped the coastlands.",
+      "factsAdvanced": [
+        "A neve hollandul: „Mérni több gondot jelent”.",
+        "A Demerara nyugati partján található.",
+        "Eredetileg cukorültetvény volt.",
+        "Ma fontos lakó- és kereskedelmi terület.",
+        "Gazdasága vegyes: rizs, kókusz, halászat és kiskereskedelem.",
+        "Túlnyomórészt indo-guyanai közösség.",
+        "Híres a történelmi vízikerekéről (koker).",
+        "A holland gyarmati mérnöki munka emlékét őrzi."
+      ]
+    }
+  ]
+}

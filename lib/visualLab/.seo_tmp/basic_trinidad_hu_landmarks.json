@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-hasely-crawford-stadium-landmarks-v2",
+      "description": "A Hasely Crawford Stadion Trinidad fő nemzeti sportlétesítménye Port of Spainben. A stadion számos nemzetközi sporteseménynek és kulturális rendezvénynek ad otthont.",
+      "facts": ["Nemzeti stadion", "Port of Spain", "Sportrendezvények", "Kulturális helyszín"]
+    },
+    {
+      "id": "tt-fort-king-george-tobago-landmarks-v2",
+      "description": "Fort King George Tobago legépebben fennmaradt gyarmati erődítménye Scarborough közelében. A történelmi épületegyüttes csodás panorámát kínál a környező tengerpartra.",
+      "facts": ["Tobago erőd", "Gyarmati örökség", "Panorámás kilátás", "Scarborough"]
+    },
+    {
+      "id": "tt-waterloo-temple-landmarks-v2",
+      "description": "A vízen épült Waterloo Templom az indiai közösség vallási és kulturális központja Trinidad nyugati partján. A különleges elhelyezkedésű templom népszerű zarándokhely.",
+      "facts": ["Templom a vízen", "Indiai közösség", "Vallási központ", "Nyugati part"]
+    },
+    {
+      "id": "tt-asa-wright-nature-centre-landmarks-v2",
+      "description": "Az Asa Wright Természetvédelmi Központ a világ egyik legjelentősebb trópusi madártani kutatóhelye. A központ látogatói megismerhetik a sziget gazdag esőerdei élővilágát.",
+      "facts": ["Természetvédelmi központ", "Trópusi madárvilág", "Esőerdő kutatás"]
+    },
+    {
+      "id": "tt-argyle-waterfall-landmarks-v2",
+      "description": "Az Argyle Vízesés Tobago legmagasabb zuhataga, amely a dús esőerdő mélyén rejtőzik. A látogatók gyalogtúrával közelíthetik meg a népszerű természeti látványosságot.",
+      "facts": ["Tobago vízesése", "Esőerdei túra", "Természeti látványosság"]
+    },
+    {
+      "id": "tt-buccoo-reef-landmarks-v2",
+      "description": "A Buccoo Reef egy védett korallzátony Tobago partjainál, amely gazdag tengeri élővilágáról híres. A népszerű kirándulóhelyen az üvegfenekű csónakokból szemlélhető a tengeri világ.",
+      "facts": ["Védett korallzátony", "Tobago partvidék", "Tengeri élővilág", "Csónakos túrák"]
+    },
+    {
+      "id": "tt-fort-bennett-landmarks-v2",
+      "description": "Fort Bennett egy történelmi erődítmény romja, amely a gyarmati korszak védelmi stratégiáját mutatja be. A csendes terület a sziget történelmi örökségének egyik része.",
+      "facts": ["Történelmi erődrom", "Gyarmati védelem", "Szélesebb örökség"]
+    },
+    {
+      "id": "tt-hanuman-statue-landmarks-v2",
+      "description": "A hatalmas Hanuman szobor egy lenyűgöző vallási emlék, amely az indiai bevándorlók örökségét ünnepli. A szobor a környék kulturális sokszínűségének szimbóluma.",
+      "facts": ["Hanuman szobor", "Vallási emlék", "Kulturális örökség"]
+    },
+    {
+      "id": "tt-mount-st-benedict-abbey-landmarks-v2",
+      "description": "A Mount St. Benedict Apátság egy bencés kolostor, amely magasan a környező síkságok felett található. A békés kolostor híres a gyógyteáiról és gyönyörű panorámájáról.",
+      "facts": ["Bencés apátság", "Magaslati elhelyezkedés", "Panoráma", "Gyógyteák"]
+    },
+    {
+      "id": "tt-maracas-beach-landmarks-v2",
+      "description": "A Maracas Beach Trinidad legnépszerűbb tengerpartja, amely a festői öbléről és az itt kínált helyi különlegességekről vált híressé. A strand az üdülők kedvenc úti célja.",
+      "facts": ["Trinidad strandja", "Festői öböl", "Helyi különlegességek"]
+    }
+  ]
+}

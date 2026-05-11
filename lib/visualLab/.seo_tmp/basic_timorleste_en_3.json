@@ -1,0 +1,40 @@
+{
+  "lang": "en",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fatuberlio-cities-v2",
+      "description": "Fatuberlio is a quiet agricultural town in the Manufahi municipality, known for its fertile soil and local farming traditions.",
+      "facts": ["Manufahi district location", "Fertile agricultural soil", "Traditional farming town"]
+    },
+    {
+      "id": "laleia-cities-v2",
+      "description": "Laleia is a small settlement in the Manatuto municipality, positioned along the northern coastal route.",
+      "facts": ["Manatuto district town", "Northern coastal route", "Small rural settlement"]
+    },
+    {
+      "id": "laclubar-cities-v2",
+      "description": "Laclubar is a remote highland town in the Manatuto municipality, surrounded by steep mountains and traditional villages.",
+      "facts": ["Manatuto highland town", "Steep mountain terrain", "Traditional village setting"]
+    },
+    {
+      "id": "fohorem-cities-v2",
+      "description": "Fohorem is a mountain community in the Cova Lima municipality, situated in the western part of the country.",
+      "facts": ["Cova Lima mountain town", "Western region location", "Remote highland community"]
+    },
+    {
+      "id": "viqueque-oil-seeps-economic-v2",
+      "description": "The Viqueque area features natural oil seeps that have been observed for generations, highlighting the region's geological potential.",
+      "facts": ["Natural geological seeps", "Geological oil indication", "Southern coast location"]
+    },
+    {
+      "id": "pante-macassar-port-economic-v2",
+      "description": "The port at Pante Macassar is the primary maritime gateway for the Oecusse enclave, facilitating essential trade and transportation.",
+      "facts": ["Oecusse enclave port", "Maritime gateway", "Key trade connection"]
+    }
+  ]
+}

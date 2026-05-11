@@ -1,0 +1,53 @@
+{
+  "lang": "en",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "afgooye-cities-v2",
+      "description": "Historical market town situated along the Shebelle River in the Lower Shebelle region.",
+      "facts": ["Located 30km from Mogadishu", "Key agricultural center", "Ancient trade hub", "Traditional festival site"]
+    },
+    {
+      "id": "xuddur-cities-v2",
+      "description": "Administrative capital of the Bakool region, serving as a regional trade nexus.",
+      "facts": ["Regional administrative hub", "Elevated plateau location", "Livestock trading center", "Arid climate zone"]
+    },
+    {
+      "id": "eyl-cities-v2",
+      "description": "Coastal town in the Nugal region known for its historical fort and strategic maritime location.",
+      "facts": ["Historic coastal port", "Nugal region site", "Strategic Gulf of Aden access", "Old stone architecture"]
+    },
+    {
+      "id": "mahaday-cities-v2",
+      "description": "Town located in the Middle Shebelle region, primarily engaged in riverine agriculture.",
+      "facts": ["Shebelle River proximity", "Agricultural economy", "Riverine landscape", "Regional transport point"]
+    },
+    {
+      "id": "berbera-oil-terminal-economic-v2",
+      "description": "Crucial maritime infrastructure for petroleum distribution serving the Horn of Africa.",
+      "facts": ["Major fuel import hub", "Strategic port facility", "Red Sea logistics point", "Oil storage terminal"]
+    },
+    {
+      "id": "fakr-ad-din-mosque-history-v2",
+      "description": "One of the oldest religious structures in Mogadishu, reflecting early Islamic architectural heritage.",
+      "facts": ["13th-century construction", "Old Mogadishu site", "Coralline stone build", "Historical spiritual center"]
+    },
+    {
+      "id": "so-mogadishu-cathedral-landmarks-v2",
+      "description": "Iconic Roman Catholic cathedral ruins that stand as a landmark in the capital city.",
+      "facts": ["Built 1928", "Neo-Gothic design", "Mogadishu city center", "Italian colonial legacy"]
+    },
+    {
+      "id": "balcad-wildlife-sanctuary-life-v2",
+      "description": "A protected area designed to preserve local biodiversity near the Shebelle river basin.",
+      "facts": ["Riverine ecosystem", "Bird migration zone", "Local species protection", "Near Balcad town"]
+    }
+  ]
+}

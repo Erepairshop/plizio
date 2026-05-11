@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "Lebanon",
+  "files": [
+    "lib/visualLab/data/poiExtraLebanonEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "zouk-power-plant-economic-v2",
+      "description": "A Zouk erőmű Libanon egyik legfontosabb, olajtüzelésű hőerőműve, amely évtizedek óta kulcsszerepet játszik az ország elektromos hálózatának ellátásában. A tengerparton, Bejrúttól északra található létesítmény jelentős hatással van a környező régió energiaellátására.",
+      "facts": [
+        "Helyszín: Zouk Mikael, Libanon",
+        "Tüzelőanyag: Nehézolaj",
+        "Üzembe helyezés: 1980-as évek",
+        "Funkció: Hőerőmű"
+      ]
+    }
+  ]
+}

@@ -12,24 +12,23 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Santa Rosa-i csatatér",
       ro: "Câmpul de luptă de la Santa Rosa",
       en: "Santa Rosa Battlefield"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Santa Rosa Battlefield is the site of the 1856 Battle of Santa Rosa, where Costa Rican forces defeated the filibusters led by William Walker. This event is a foundational pillar of Costa Rican national identity and sovereignty. Geography K8 — historical sovereignty."
     },
     factsAdvanced: {
-      en: ["Battle occurred on March 20, 1856.", "Crucial defense of national sovereignty.", "William Walker's forces defeated here.", "Located in Santa Rosa National Park.", "Symbolizes Costa Rican national pride.", "Key site for national independence history."]
-    }
-  },
+      en: ["Battle occurred on March 20, 1856.", "Crucial defense of national sovereignty.", "William Walker's forces defeated here.", "Symbolizes Costa Rican national pride.", "Key site for national independence history."]
+    }, 
     description: {
       de: "Ort der berühmten Schlacht von 1856, bei der costa-ricanische Truppen die Filibuster von William Walker besiegten. Es ist ein Nationalhelden-Denkmal.",
-      hu: "Az 1856-os Santa Rosa-i csata helyszíne, ahol a costa ricai erők megállították William Walker csapatait. A hely a nemzeti függetlenség és szuverenitás fontos emlékhelye.",
+      hu: "Az 1856-os Santa Rosa-i csata helyszíne, ahol a Costa Rica-i erők győzelmet arattak William Walker zsoldosai felett.",
       ro: "Locul celebrei bătălii din 1856, unde trupele costa-ricane i-au învins pe filibusterii lui William Walker. Este un monument al eroilor naționali.",
       en: "Site of the famous 1856 battle where Costa Rican forces defeated the filibusters of William Walker. It's a national heroes' monument."
     },
     
     facts: {
       de: ["Schlacht im Jahr 1856", "Sieg über William Walker", "Teil des Santa Rosa Nationalparks", "Symbol des Nationalstolzes"],
-      hu: ["1856-os csata", "William Walker ellen", "Nemzeti emlékhely"],
+      hu: ["1856. március 20-i csata", "A függetlenség védelmének szimbóluma", "A Santa Rosa Nemzeti Park része"],
       ro: ["Bătălia din 1856", "Victorie împotriva lui William Walker", "Parte a Parcului Național Santa Rosa", "Simbol al mândriei naționale"],
       en: ["Battle fought in 1856", "Victory over William Walker", "Located in Santa Rosa National Park", "Symbol of national sovereignty"]
     },
@@ -44,25 +43,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "La Merced-templom",
       ro: "Biserica La Merced",
       en: "La Merced Church"
-    ,
+    },
     descriptionAdvanced: {
       en: "Las Mercedes Church is a colonial-era religious structure that reflects the architectural and religious history of the Central Highlands. It serves as a testament to the influence of early Spanish settlement patterns in Costa Rican geography. Geography K7 — colonial influence."
     },
     factsAdvanced: {
       en: ["Historical colonial-era construction.", "Architectural landmark of the region.", "Reflects early Spanish religious influence.", "Preserved historical interior design.", "Cultural center for local community.", "Important religious history site."]
-    }
-  },
+    }, 
     description: {
       de: "Eine ikonische neugotische Kirche im Herzen von San José, bekannt für ihren markanten Turm und ihre deutsche Orgel.",
       hu: "Ikonikus neogótikus templom San José szívében, jellegzetes tornyáról és német orgonájáról ismert.",
-      ro: "Biserica La Merced din San José este un reper neogotic cunoscut pentru turnul său roșu și pentru orga germană. Face parte din peisajul istoric al centrului capitalei.",
+      ro: "Biserica Las Mercedes din Grecia este o structură arhitecturală unică, construită în întregime din plăci de oțel prefabricate. Importată din Belgia la sfârșitul secolului al XIX-lea, aceasta este un simbol al rezilienței în fața cutremurelor.",
       en: "An iconic neo-Gothic church in the heart of San José, known for its distinctive tower and German-made organ."
     },
     
     facts: {
       de: ["Neugotischer Stil", "Erbaut Ende des 19. Jahrhunderts", "Markanter roter Turm", "Wichtiges religiöses Wahrzeichen"],
       hu: ["Neogótikus stílus", "A 19. század végén épült", "Jellegzetes vörös torony", "Fontos vallási jelkép"],
-      ro: ["În San José", "Stil neogotic", "Orga germană"],
+      ro: ["Finalizată în anul 1897", "Stil arhitectural neogotic distinctiv", "Realizată din piese metalice importate"],
       en: ["Neo-Gothic style", "Built in the late 19th century", "Distinctive red tower", "Important religious landmark in the capital"]
     },
      image: "/poi-images/las-mercedes-church-history-v2.webp"},
@@ -76,14 +74,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "San Lucas börtön",
       ro: "Închisoarea San Lucas",
       en: "San Lucas Prison"
-    ,
+    },
     descriptionAdvanced: {
       en: "San Lucas Prison, located on San Lucas Island in the Gulf of Nicoya, operated as a notorious penal colony from 1873 to 1991. Today, it is preserved as a historical site that highlights the evolution of Costa Rica's justice and human rights standards. Geography K8 — societal change."
     },
     factsAdvanced: {
       en: ["Operated as prison for over 100 years.", "Located on an island in Gulf of Nicoya.", "Closed permanently in 1991.", "Now a protected historical landmark.", "Famous for its harsh penal conditions.", "Key site for understanding penal history."]
-    }
-  },
+    }, 
     description: {
       de: "Ein ehemaliges Inselgefängnis, bekannt für seine brutalen Bedingungen. Heute ist es ein Nationalpark und historisches Denkmal.",
       hu: "Egykori hírhedt börtönsziget, amely brutális körülményeiről volt ismert. Ma nemzeti park és történelmi emlékhely.",
@@ -108,26 +105,25 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Orosi-templom",
       ro: "Biserica din Orosi",
       en: "Orosi Church"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Orosi Church, built in 1743, is one of the oldest colonial buildings still standing in Costa Rica. Its mud-brick construction and classic layout provide insight into the living conditions and religious practices of the colonial period in the Orosi Valley. Geography K7 — colonial architecture."
     },
     factsAdvanced: {
       en: ["Constructed in 1743.", "One of the oldest buildings in the country.", "Traditional adobe colonial construction.", "Located in the scenic Orosi Valley.", "Houses a museum of colonial artifacts.", "Key landmark for colonial history."]
-    }
-  },
+    }, 
     description: {
-      de: "Eine der ältesten noch genutzten Kirchen in Costa Rica, erbaut 1743 im Kolonialstil. Sie beherbergt ein kleines Museum für religiöse Kunst.",
+      de: "Die Iglesia de San José de Orosi ist eine der ältesten noch genutzten Kirchen Costa Ricas aus der Kolonialzeit.",
       hu: "Orosi gyarmati temploma Costa Rica egyik legrégebbi, ma is álló egyházi épülete. Az 1700-as években emelt templom a gyarmati korszak vallási örökségét őrzi.",
       ro: "Una dintre cele mai vechi biserici încă în uz din Costa Rica, construită în 1743 în stil colonial. Găzduiește un mic muzeu de artă religioasă.",
-      en: "A colonial-era church in the Orosi Valley and one of Costa Rica's oldest surviving religious buildings. It is closely tied to the area's Spanish colonial past."
+      en: "The Church of San José de Orosi is the oldest church in Costa Rica still in use, dating back to the colonial era."
     },
     
     facts: {
-      de: ["Erbaut 1743", "Koloniale Architektur", "Franziskaner-Mission", "Nationalmonument seit 1920"],
+      de: ["Erbaut im Jahr 1743", "Nationales Monument", "Beispiel für spanische Kolonialarchitektur"],
       hu: ["Gyarmati kori templom", "1743-ból származik", "Az egyik legrégebbi épület"],
       ro: ["Construită în 1743", "Arhitectură colonială", "Misiune franciscană", "Monument național din 1920"],
-      en: ["Orosi Valley", "Colonial period", "Historic parish church"]
+      en: ["Built in 1743 by Franciscan friars", "Classic Spanish colonial architecture", "Oldest church still in continuous use", "National monument located in Orosi Valley"]
     },
     
   },
@@ -141,23 +137,22 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Finca 6 kőgolyói",
       ro: "Sferele de piatră de la Finca 6",
       en: "Finca 6 Stone Spheres"
-    ,
+    },
     descriptionAdvanced: {
       en: "Finca 6 is a UNESCO World Heritage site known for its enigmatic pre-Columbian stone spheres, attributed to the Diquis culture. These artifacts offer unique archaeological evidence of highly organized indigenous societies in the southern Pacific region. Geography K8 — ancient cultures."
     },
     factsAdvanced: {
-      en: ["UNESCO World Heritage site.", "Features mysterious Diquis stone spheres.", "Located in the Diquis Delta region.", "Evidence of complex pre-Columbian life.", "Archaeological site of international importance.", "Represents advanced ancient craftsmanship."]
-    }
-  },
+      en: ["Features mysterious Diquis stone spheres.", "Located in the Diquis Delta region.", "Evidence of complex pre-Columbian life.", "Archaeological site of international importance.", "Represents advanced ancient craftsmanship."]
+    }, 
     description: {
-      de: "Ein archäologischer Park, der die mysteriösen präkolumbianischen Steinkugeln von Costa Rica zeigt. Ein UNESCO-Weltkulturerbe.",
+      de: "Ein bedeutender archäologischer Fundort, bekannt für die rätselhaften, perfekt geformten Steinkugeln der Diquís-Kultur.",
       hu: "A déli Diquís-régió egyik legismertebb régészeti helyszíne, ahol a kőgolyók eredeti környezetükben láthatók. A hely a prekolumbián múlt és a helyi emlékezet ritka találkozása.",
       ro: "Finca 6 din Delta Diquís este unul dintre cele mai importante situri arheologice din Costa Rica. Aici au fost descoperite sferele de piatră care au devenit un simbol precolumbian al țării.",
       en: "An archaeological park showcasing the mysterious pre-Columbian stone spheres of Costa Rica. A UNESCO World Heritage site."
     },
     
     facts: {
-      de: ["UNESCO-Weltkulturerbe", "Über 300 Kugeln bekannt", "Aus Granodiorit gefertigt", "Diquís-Kultur"],
+      de: ["UNESCO-Welterbe", "Präkolumbianische Artefakte", "Einzigartige Steinarbeit"],
       hu: ["Diquís-kőgolyók", "Régészeti lelőhely", "Eredeti elrendezésben láthatók"],
       ro: ["În Delta Diquís", "Sfere de piatră", "Patrimoniu arheologic"],
       en: ["UNESCO World Heritage Site", "Over 300 spheres known", "Carved from granodiorite", "Created by the Diquís culture"]
@@ -174,26 +169,25 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "La Casona (Santa Rosa)",
       ro: "La Casona de la Santa Rosa",
       en: "La Casona of Santa Rosa"
-    ,
+    },
     descriptionAdvanced: {
       en: "La Casona, a historic farmhouse within Santa Rosa National Park, is the iconic site where the 1856 battle occurred. It stands as a symbol of the struggle for national independence and remains a preserved witness to nineteenth-century rural architecture. Geography K7 — architectural symbolism."
     },
     factsAdvanced: {
       en: ["Iconic site of 1856 independence battle.", "Preserved 19th-century farmhouse architecture.", "Symbol of the national liberation struggle.", "Major tourist landmark in Guanacaste.", "Part of a protected national park area.", "Historically vital cultural landmark."]
-    }
-  },
+    }, 
     description: {
-      de: "Das historische Hauptgebäude der Hacienda Santa Rosa, Schauplatz der Schlacht von 1856. Es wurde nach einem Brand wieder aufgebaut.",
+      de: "Ein historisches Herrenhaus und Schauplatz der Schlacht von Santa Rosa, ein Symbol für die nationale Souveränität.",
       hu: "A Santa Rosa hacienda történelmi főépülete, az 1856-os csata helyszíne. Egy tűzvész után újjáépítették.",
       ro: "Clădirea istorică principală a haciendei Santa Rosa, scena bătăliei din 1856. A fost reconstruită după un incendiu.",
-      en: "The historic ranch house at Santa Rosa National Park, remembered for the 1856 Battle of Santa Rosa. It is one of the best-known symbols of Costa Rican national history."
+      en: "A historic ranch house and the site of the Battle of Santa Rosa in 1856, where Costa Rican forces defeated invaders."
     },
     
     facts: {
-      de: ["Historisches Bauernhaus", "Zentraler Ort der Schlacht", "Mehrmals wiederaufgebaut", "Museum vor Ort"],
+      de: ["Ort des Sieges von 1856", "Heute ein Museum", "Gelegen im Nationalpark Santa Rosa"],
       hu: ["Történelmi farmház", "A csata központi helyszíne", "Többször újjáépítették", "Múzeum a helyszínen"],
       ro: ["Casă de fermă istorică", "Locul central al bătăliei", "Reconstruită de mai multe ori", "Muzeu la fața locului"],
-      en: ["Santa Rosa National Park", "Battle of 1856", "Historic ranch house"]
+      en: ["Site of the 1856 Battle of Santa Rosa", "Historic ranch building turned museum", "Located in Santa Rosa National Park", "UNESCO World Heritage site component"]
     },
      image: "/poi-images/la-casona-santa-rosa-history-v2.webp"},
   {
@@ -206,14 +200,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Río Negro sziklarajzai",
       ro: "Petroglifele de la Río Negro",
       en: "Río Negro Petroglyphs"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Negro River petroglyphs reveal ancient indigenous art and inscriptions carved into volcanic rock. These sites illustrate early human settlement and social organization in the region long before European arrival. Geography K7 — historical geography."
     },
     factsAdvanced: {
       en: ["Ancient petroglyphs on volcanic rock.", "Evidence of pre-Columbian settlements.", "Located along the Negro River corridor.", "Provides clues to ancient artistic expression.", "Site of archaeological discovery.", "Important cultural heritage record."]
-    }
-  },
+    }, 
     description: {
       de: "Eine Sammlung von über 1.500 Jahre alten präkolumbianischen Felsritzungen in der Nähe des Nationalparks Rincón de la Vieja.",
       hu: "Több mint 1500 éves prekolumbiánus sziklavésetek gyűjteménye a Rincón de la Vieja Nemzeti Park közelében.",
@@ -238,14 +231,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Denevér-szigetek (Murciélago)",
       ro: "Insulele Liliecilor (Murciélago)",
       en: "Bat Islands (Murciélago)"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Bat Islands were historically utilized by early maritime travelers and fishermen. Today, they are protected areas within Santa Rosa National Park, recognized for their significant marine biodiversity and historical maritime usage patterns. Geography K7 — coastal human geography."
     },
     factsAdvanced: {
       en: ["Part of Santa Rosa National Park.", "Historical site for coastal maritime use.", "Renowned for exceptional marine biodiversity.", "Protected Pacific island sanctuary.", "Important ecological and historical zone.", "Significant for marine biological research."]
-    }
-  },
+    }, 
     description: {
       de: "Diese Inselgruppe war einst im Besitz des Diktators Somoza und wurde später zu einem Teil des Santa Rosa Nationalparks.",
       hu: "Ez a szigetcsoport egykor Somoza diktátor tulajdonában volt, később a Santa Rosa Nemzeti Park részévé vált.",
@@ -270,14 +262,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Ochomogói csata",
       ro: "Bătălia de la Ochomogo",
       en: "Battle of Ochomogo Site"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ochomogo war site is a key location associated with the 1823 Costa Rican civil war, the first conflict following independence from Spain. It played a defining role in the political stabilization and development of the new nation. Geography K8 — political geography."
     },
     factsAdvanced: {
       en: ["Key site of 1823 civil conflict.", "First post-independence war location.", "Defining moment for national stability.", "Located on the central highland plateau.", "Politically significant historical site.", "Marker for early state building."]
-    }
-  },
+    }, 
     description: {
       de: "Ort des kurzen Bürgerkriegs von 1823, der entschied, ob Costa Rica dem mexikanischen Reich beitritt. Der Sieg der Republikaner führte zur Verlegung der Hauptstadt nach San José.",
       hu: "Az 1823-as rövid polgárháború helyszíne, amely eldöntötte, hogy Costa Rica csatlakozzon-e a Mexikói Császársághoz. A köztársaságiak győzelme a főváros San Joséba helyezéséhez vezetett.",
@@ -302,14 +293,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Acosta aranymezői",
       ro: "Minele de aur din Acosta",
       en: "Acosta Gold Mines"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Acosta mining sites offer a glimpse into the region's historical efforts to extract precious metals. These locations provide historical context for the early extractive economic ventures in Costa Rica's mountainous central regions. Geography K7 — extractive industry history."
     },
     factsAdvanced: {
       en: ["Historical metal extraction site.", "Provides context for early mining industry.", "Located in mountainous central region.", "Site of former industrial activity.", "Example of early economic expansion efforts.", "Historical landmark of regional labor."]
-    }
-  },
+    }, 
     description: {
       de: "Eine historische Goldminenregion, die im späten 19. und frühen 20. Jahrhundert einen kleinen Goldrausch erlebte.",
       hu: "Történelmi aranybányászati régió, amely a 19. század végén és a 20. század elején egy kisebb aranylázat élt át.",
@@ -334,25 +324,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Cabuyal sziklarajzai",
       ro: "Petroglifele din Cabuyal",
       en: "Cabuyal Petroglyphs"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Cabuyal petroglyphs represent significant indigenous artistic expressions, carved into rocks along the coast. They testify to the historical connectivity and cultural narratives of indigenous communities in the coastal regions of the Pacific. Geography K7 — ancient human presence."
     },
     factsAdvanced: {
       en: ["Indigenous rock-carved artistic expressions.", "Demonstrates coastal cultural patterns.", "Located in a significant archaeological area.", "Represents regional ancient narratives.", "Important pre-colonial historical evidence.", "Testament to early indigenous society."]
-    }
-  },
+    }, 
     description: {
       de: "Eine weitere wichtige Stätte mit Felsritzungen in Guanacaste, die Einblicke in das Leben der präkolumbianischen Völker gibt.",
       hu: "Egy másik fontos sziklavésetes lelőhely Guanacastében, amely betekintést nyújt a prekolumbiánus népek életébe.",
-      ro: "Petroglifele de la Cabuyal păstrează gravuri vechi pe piatră, într-un peisaj rural din Guanacaste. Situl leagă arta rupestră de istoria comunităților locale.",
+      ro: "Petroglifele de la Cabuyal sunt gravuri antice în piatră care oferă indicii prețioase despre culturile precolumbiene din Guanacaste. Aceste simboluri reflectă cosmogonia și viața de zi cu zi a primilor locuitori ai regiunii.",
       en: "Another significant site of rock carvings in Guanacaste, offering insights into the lives of pre-Columbian peoples."
     },
     
     facts: {
       de: ["Präkolumbianische Kunst", "In der Nähe der Küste", "Zeigt spiralige und tierische Motive", "Wenig erforscht"],
       hu: ["Prekolumbiánus művészet", "A tengerpart közelében", "Spirál- és állatmotívumok", "Kevéssé kutatott"],
-      ro: ["În Guanacaste", "Gravuri pe piatră", "Artă rupestră"],
+      ro: ["Datate în perioada precolumbiană", "Localizate pe coasta Peninsulei Nicoya", "Reprezintă figuri umane și animale stilizate"],
       en: ["Pre-Columbian art", "Located near the coast", "Features spiral and animal motifs", "Less studied than other sites"]
     },
      image: "/poi-images/cabuyal-petroglyphs-history-v2.webp"},
@@ -366,24 +355,23 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Las Ánimas-kereszt",
       ro: "Crucea de la Las Ánimas",
       en: "Cross of Las Ánimas"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Las Animas cross serves as a historical and religious landmark, often marking significant sites in early village settlement histories. It represents the intersection of religious tradition and geographic settlement patterns during the post-colonial period. Geography K7 — cultural geography."
     },
     factsAdvanced: {
       en: ["Historical religious monument marker.", "Marker for village settlement history.", "Intersection of tradition and geography.", "Cultural landmark in rural region.", "Post-colonial period religious significance.", "Important community focal point."]
-    }
-  },
+    }, 
     description: {
-      de: "Ein großes Kreuz in der Nähe von Cartago, das an die Opfer eines Vulkanausbruchs oder einer Epidemie im 19. Jahrhundert erinnert.",
-      hu: "Cartago közelében álló emlékereszt, amely 19. századi természeti katasztrófák áldozataira utal. Rövid zarándok- és emlékpontként ismert.",
+      de: "Ein markantes historisches Kreuz, das eng mit den religiösen Traditionen und der lokalen Geschichte verbunden ist.",
+      hu: "Történelmi emlékhely és kereszt, amelyhez helyi legendák és vallási hagyományok kötődnek a gyarmati kor óta.",
       ro: "O cruce mare lângă Cartago care comemorează victimele unei erupții vulcanice sau ale unei epidemii din secolul al XIX-lea.",
       en: "A commemorative cross associated with local memory and religious tradition in Cartago Province. It reflects the area's strong blend of faith and historical identity."
     },
     
     facts: {
-      de: ["Erinnerungskreuz", "Opfer von Naturkatastrophen", "Aussichtspunkt", "Religiöse Bedeutung"],
-      hu: ["Cartago közelében", "Emlékereszt", "Természeti katasztrófákra utal"],
+      de: ["Religiöses Wahrzeichen", "Ort für Gebet und Gedenken", "Historischer Treffpunkt"],
+      hu: ["Gyarmati kori vallási emlék", "Helyi zarándokhely és legenda", "Kulturális örökség része"],
       ro: ["Cruce comemorativă", "Victimele dezastrelor naturale", "Punct de belvedere", "Semnificație religioasă"],
       en: ["In Cartago Province", "Commemorative monument", "Local religious memory"]
     },
@@ -398,23 +386,22 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "La Palma régi vasútvonala",
       ro: "Vechea cale ferată din La Palma",
       en: "Old Railway of La Palma"
-    ,
+    },
     descriptionAdvanced: {
       en: "The La Palma railway section marks a vital part of the historic transit network connecting the high-altitude central cities to the coastal plantations. This railway was instrumental in transforming the national economy and population distribution. Geography K8 — transportation economics."
     },
     factsAdvanced: {
       en: ["Historic section of transit railway.", "Connects central highlands to coast.", "Transformed the national economic model.", "Key element in migration patterns.", "Crucial transport infrastructure history.", "Represents 19th-century industrial progress."]
-    }
-  },
+    }, 
     description: {
-      de: "Überreste der alten 'Dschungelbahn' zur Atlantikküste, die für den Bananenexport von entscheidender Bedeutung war.",
+      de: "Ein Relikt der Eisenbahngeschichte, das an die Zeit der industriellen Erschließung Costa Ricas erinnert.",
       hu: "A La Palma vasúti szakasz a karibi part felé vezető régi útvonal egyik megmaradt emléke. A banánexport és a vasútépítés történetéhez kötődik.",
       ro: "Rămășițe ale vechii 'căi ferate din junglă' către coasta Atlanticului, care a fost crucială pentru exportul de banane.",
       en: "Remains of the old 'Jungle Train' to the Atlantic coast, which was crucial for the banana export industry."
     },
     
     facts: {
-      de: ["Historische Eisenbahnlinie", "Bananenexport", "Erbaut im 19. Jahrhundert", "Heute teilweise Wanderweg"],
+      de: ["Teil des alten Schienennetzes", "Wichtig für den Bananenexport", "Industriekulturelles Erbe"],
       hu: ["Történeti vasúti szakasz", "Karibi kapcsolat", "Banánexporthoz kötődik"],
       ro: ["Linie ferată istorică", "Exportul de banane", "Construită în secolul al XIX-lea", "Astăzi, parțial traseu de drumeție"],
       en: ["Historic railway line", "Banana export industry", "Built in the 19th century", "Now partly a hiking trail"]
@@ -431,14 +418,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Történelmi Gandoca-Manzanillo",
       ro: "Istoricul Gandoca-Manzanillo",
       en: "Historic Gandoca-Manzanillo"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Gandoca-Manzanillo area has a rich history of coastal settlement and biodiversity management, reflecting the traditional livelihoods of the Caribbean local communities. It is now a critical conservation area that balances human history and nature. Geography K8 — sustainable heritage."
     },
     factsAdvanced: {
       en: ["Historical center for coastal communities.", "Known for unique local lifestyle traditions.", "Significant Caribbean biodiversity corridor.", "Balancing historical use and nature.", "Protected national conservation zone.", "Reflects regional traditional land use."]
-    }
-  },
+    }, 
     description: {
       de: "Diese Region an der Karibikküste hat eine reiche afro-karibische Geschichte, die von Fischern und Kakaobauern geprägt ist.",
       hu: "Ennek a karibi-parti régiónak gazdag afro-karibi történelme van, amelyet halászok és kakaótermesztők alakítottak.",
@@ -463,26 +449,25 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "San Vicente de Moravia-templom",
       ro: "Biserica San Vicente de Moravia",
       en: "San Vicente de Moravia Church"
-    ,
+    },
     descriptionAdvanced: {
       en: "The church in San Vicente de Moravia stands as a community center and historical witness to the growth of urban settlements near San José. Its architecture reflects the evolution of religious structures during the late 19th and early 20th centuries. Geography K7 — urban history."
     },
     factsAdvanced: {
       en: ["Witness to urban area growth.", "Late 19th/early 20th-century architecture.", "Central to community religious life.", "Landmark in Moravia's development.", "Reflects historical architectural styles.", "Important local religious center."]
-    }
-  },
+    }, 
     description: {
-      de: "Eine beeindruckende neugotische Metallkirche, die vollständig in Belgien hergestellt und nach Costa Rica verschifft wurde.",
+      de: "Eine wunderschöne Kirche in Moravia, die das geistliche und kulturelle Zentrum der Gemeinde bildet.",
       hu: "San Vicente de Moravia temploma a moraviai városmag egyik régi vallási pontja. A környék közösségi életében ma is fontos szerepet játszik.",
-      ro: "Biserica din San Vicente de Moravia este un reper religios al zonei metropolitane. Templul marchează centrul vieții parohiale locale.",
-      en: "A parish church in Moravia that serves as a local historical landmark. It stands at the center of community life and neighborhood identity."
+      ro: "Biserica San Vicente de Moravia este un punct de referință istoric și spiritual în nordul capitalei. Clădirea actuală păstrează elemente arhitecturale tradiționale și servește ca inimă a comunității din Moravia.",
+      en: "A beautiful Catholic church in the heart of Moravia, known for its distinct architectural style and local religious importance."
     },
     
     facts: {
-      de: ["Vollständig aus Metall", "In Belgien hergestellt", "Neugotischer Stil", "Erbaut 1891"],
+      de: ["Zentrum der Handwerksstadt", "Beeindruckende Architektur", "Wichtiger Gemeindetreffpunkt"],
       hu: ["Moravia központi része", "Régi plébániai helyszín", "Közösségi szerepű templom"],
-      ro: ["În Moravia", "Reper parohial", "Parte din zona metropolitană"],
-      en: ["In Moravia", "Parish church", "Community landmark"]
+      ro: ["Localizată în centrul cantonului Moravia", "Păstrează vitralii și picturi religioase vechi", "Arhitectură de inspirație colonială"],
+      en: ["Located in Moravia, San José", "Notable Neo-Gothic architectural elements", "Center of local community life", "Beautiful stained glass and wood carvings"]
     },
     
   },
@@ -496,14 +481,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Barva történelmi központja",
       ro: "Centrul istoric din Barva",
       en: "Historical Center of Barva"
-    ,
+    },
     descriptionAdvanced: {
       en: "The historical center of Barva is known for its well-preserved traditional mud-brick houses and its classic town square, offering a clear view into early Central Valley settlement patterns. It is one of the oldest towns in the Heredia province. Geography K7 — settlement geography."
     },
     factsAdvanced: {
       en: ["Well-preserved traditional houses.", "Among the oldest towns in Heredia.", "Classic Central Valley town planning.", "Historical urban center landmark.", "Important regional cultural site.", "Example of traditional residential style."]
-    }
-  },
+    }, 
     description: {
       de: "Eine der am besten erhaltenen Kolonialstädte Costa Ricas mit Adobe-Häusern und einer schönen Barockkirche.",
       hu: "Costa Rica egyik legjobb állapotban megmaradt gyarmati városa, vályogházakkal és egy gyönyörű barokk templommal.",
@@ -528,14 +512,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Las Juntas-i aranyláz",
       ro: "Goana după aur din Las Juntas",
       en: "Las Juntas Gold Rush"
-    ,
+    },
     descriptionAdvanced: {
       en: "Las Juntas was the center of a significant gold rush during the late 19th century. This event fundamentally shifted regional demographics and economic development, creating a boomtown culture that shaped the area's history. Geography K8 — mining boomtowns."
     },
     factsAdvanced: {
       en: ["Center of late 19th-century gold rush.", "Shifted regional economic development.", "Example of boomtown historical cycle.", "Significant impact on area demographics.", "Rich mining history legacy.", "Historical industrial boom site."]
-    }
-  },
+    }, 
     description: {
       de: "Das Zentrum des Goldrausches in Abangares im späten 19. Jahrhundert. Ein Ecomuseum erzählt die Geschichte der Minenarbeiter.",
       hu: "Az Abangares-i aranyláz központja a 19. század végén. Egy ökomúzeum meséli el a bányászok történetét.",
@@ -560,25 +543,24 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "El Salto de Belén",
       ro: "El Salto de Belén",
       en: "El Salto de Belén"
-    ,
+    },
     descriptionAdvanced: {
       en: "El Salto de Belén has a long history of utilization for local water resources and is a cultural point for the local community. It serves as an example of how natural features shape local settlement and social activity over time. Geography K7 — landscape history."
     },
     factsAdvanced: {
       en: ["Long history of water use.", "Important cultural focal point.", "Natural feature influencing local life.", "Key marker for regional activity.", "Supports community social history.", "Historical local geography site."]
-    }
-  },
+    }, 
     description: {
       de: "Ein historischer Ort mit einem Wasserfall, der in der Kolonialzeit als Treffpunkt und Waschplatz diente.",
       hu: "El Salto de Belén egy történeti vízesés és találkozóhely Heredia térségében. A gyarmati korszakban a helyi közösségi élethez is kapcsolódott.",
-      ro: "El Salto de Belén este o cascadă și zonă de apă cunoscută în Guanacaste, lângă Nicoya. Este apreciată pentru peisajul natural și pentru locul de înot.",
+      ro: "El Salto de Belén este un loc istoric legat de vechile rute de transport și peisajele naturale din Heredia. Zona este cunoscută pentru importanța sa în dezvoltarea comunităților locale și conservarea tradițiilor de la țară.",
       en: "A historic site with a waterfall that served as a meeting point and washing place during colonial times."
     },
     
     facts: {
       de: ["Kolonialer Treffpunkt", "Natürlicher Waschplatz", "Lokale Legenden", "Historische soziale Bedeutung"],
       hu: ["Heredia térségében", "Történeti vízesés", "Gyarmati találkozóhely"],
-      ro: ["În Nicoya", "Cascadă naturală", "Zonă de agrement"],
+      ro: ["Localizat în cantonul Belén", "Punct de referință pentru istoria locală", "Zona de agrement istoric pentru comunitate"],
       en: ["Colonial meeting spot", "Natural washing place", "Site of local legends", "Historic social importance"]
     },
      image: "/poi-images/el-salto-de-belen-history-v2.webp"},
@@ -592,26 +574,25 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Nicoyai templom",
       ro: "Biserica din Nicoya",
       en: "Nicoya Church"
-    ,
+    },
     descriptionAdvanced: {
       en: "The church in Nicoya is one of the most historically significant colonial churches in the country. It is central to the history of the Chorotega people and the Spanish colonial administration, making it a cultural bridge. Geography K7 — cultural history."
     },
     factsAdvanced: {
       en: ["Historically vital colonial church.", "Central to Chorotega cultural history.", "Symbol of Spanish colonial administration.", "Architectural bridge between cultures.", "Important religious history site.", "Landmark of historical Nicoya region."]
-    }
-  },
+    }, 
     description: {
-      de: "Die Kirche San Blas in Nicoya ist eine der ältesten Kirchen Costa Ricas, erbaut 1644, und ein Zeugnis der frühen Kolonialisierung.",
+      de: "Die Kirche San Blas de Nicoya steht auf einem der ältesten Siedlungsgebiete des Landes und atmet Geschichte.",
       hu: "A nicoyai San Blas templom Costa Rica egyik legismertebb gyarmati emléke. A város történeti központjában áll, és az ország legősibb templomai közé tartozik.",
       ro: "Biserica San Blas din Nicoya este una dintre cele mai vechi biserici din Costa Rica, construită în 1644, și o mărturie a colonizării timpurii.",
-      en: "A colonial church in Nicoya and one of the oldest churches in the region. It is a key reminder of the peninsula's long religious history."
+      en: "The Church of San Blas in Nicoya is one of the country's most significant colonial landmarks, founded in the 16th century."
     },
     
     facts: {
-      de: ["Erbaut 1644", "Überlebte mehrere Erdbeben", "Kleines historisches Museum", "Im Herzen der Halbinsel Nicoya"],
+      de: ["Gegründet im 16. Jahrhundert", "Wiederaufgebaut nach Erdbeben", "Kulturelles Erbe der Chorotega-Region"],
       hu: ["San Blas-templom", "Gyarmati örökség", "Az egyik legrégebbi templom"],
       ro: ["Construită în 1644", "A supraviețuit mai multor cutremure", "Mic muzeu istoric", "În inima peninsulei Nicoya"],
-      en: ["Built in 1644", "Nicoya Peninsula", "Historic religious site"]
+      en: ["Founded in 1544 in Nicoya", "Dedicated to San Blas", "Withstood several major earthquakes", "Features a museum of colonial art"]
     },
      image: "/poi-images/nicoya-church-history-v2.webp"},
   {
@@ -624,14 +605,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Puerto Viejo-i hajóroncs",
       ro: "Epava de la Puerto Viejo",
       en: "Puerto Viejo Shipwreck"
-    ,
+    },
     descriptionAdvanced: {
       en: "The shipwreck near Puerto Viejo is a piece of underwater cultural heritage that tells the story of early maritime commerce along the Caribbean coast. It provides historical context to the perils and opportunities of early international shipping. Geography K7 — underwater history."
     },
     factsAdvanced: {
       en: ["Underwater cultural heritage site.", "Evidence of historical maritime trade.", "Located off the Caribbean coast.", "Provides insights into shipping risks.", "Historical maritime commerce site.", "Important regional archaeology focus."]
-    }
-  },
+    }, 
     description: {
       de: "Ein untergegangenes Frachtschiff in der Nähe von Puerto Viejo, das zu einem künstlichen Riff und einem beliebten Tauchplatz wurde.",
       hu: "Egy elsüllyedt teherhajó Puerto Viejo közelében, amely mesterséges zátonnyá és népszerű búvárhellyé vált.",
@@ -656,14 +636,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Cimarrón-kultúra",
       ro: "Cultura Cimarrón",
       en: "Cimarron Culture"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Cimarron culture refers to the historical groups of escaped enslaved people who lived in isolated areas, maintaining autonomy. Their legacy is a testament to the struggle for freedom and the development of distinct sub-cultures in rural Costa Rica. Geography K8 — sociology of struggle."
     },
     factsAdvanced: {
       en: ["Refers to historical independent groups.", "Maintained autonomy in isolated areas.", "Legacy of struggle for freedom.", "Development of unique rural sub-cultures.", "Important social history narrative.", "Significant cultural heritage."]
-    }
-  },
+    }, 
     description: {
       de: "Die Geschichte der entflohenen Sklaven (Cimarrones), die in den Bergen von Talamanca Zuflucht fanden und ihre eigene Kultur bewahrten.",
       hu: "A szökött rabszolgák (cimarrones) története, akik a Talamanca-hegységben találtak menedéket és megőrizték saját kultúrájukat.",
@@ -688,26 +667,25 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Atlanti pályaudvar",
       ro: "Gara Atlantică",
       en: "Atlantic Railway Station"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Atlántico Railway Station in San José is an architectural monument representing the era of significant rail development. It served as a critical hub for passengers and cargo, linking the central region to the Caribbean coast for decades. Geography K7 — urban transit."
     },
     factsAdvanced: {
       en: ["Monumental architectural landmark.", "Represents historical rail development era.", "Critical transit hub for decades.", "Connected capital to the Caribbean.", "Key part of urban railway infrastructure.", "Important industrial cultural site."]
-    }
-  },
+    }, 
     description: {
-      de: "Ein historischer Bahnhof in San José, der Endpunkt der alten 'Dschungelbahn'. Heute beherbergt er das Eisenbahnmuseum.",
-      hu: "A San Joséban álló Atlántico vasútállomás a Limón felé tartó történeti vasút egyik kulcsépülete volt. Ma építészeti örökségként őrzik.",
+      de: "Der ehemalige Bahnhof der Atlantik-Eisenbahn in San José ist ein prächtiges Beispiel für die Architektur des späten 19. Jahrhunderts.",
+      hu: "San José történelmi vasútállomása, amely egykor az Atlanti-óceán partjára tartó vasútvonal központja volt.",
       ro: "O gară istorică în San José, capătul vechii 'căi ferate din junglă'. Astăzi găzduiește Muzeul Căilor Ferate.",
-      en: "The former Atlantic railway station in San Jose, now remembered as a heritage site. It was once a major rail terminus before becoming part of the railway museum story."
+      en: "A historic railway station in San José that served as the terminal for the Atlantic railroad connection."
     },
     
     facts: {
-      de: ["Erbaut 1908", "Endpunkt der Atlantikbahn", "Architektonisches Erbe", "Heute Eisenbahnmuseum"],
-      hu: ["San José-ban van", "1908-ban épült", "A Limón-vonal végállomása volt"],
+      de: ["Erbaut um 1908", "Heute Sitz staatlicher Behörden", "Symbol der wirtschaftlichen Modernisierung"],
+      hu: ["1908-ban épült állomásépület", "A kávéexport fő szállítási útvonala", "Nemzeti műemlék és múzeum"],
       ro: ["Construită în 1908", "Capătul liniei ferate atlantice", "Patrimoniu arhitectural", "Astăzi, Muzeul Căilor Ferate"],
-      en: ["Built in 1908", "Atlantic railway terminus", "Now a museum site"]
+      en: ["Opened in 1908 in San José", "Grand Neoclassical architectural style", "Key link for coffee exports to the coast", "Now houses a cultural center"]
     },
      image: "/poi-images/atlantico-railway-station-history-v2.webp"},
   {
@@ -720,14 +698,13 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Boruca ősi föld",
       ro: "Teritoriul ancestral Boruca",
       en: "Boruca Ancestral Lands"
-    ,
+    },
     descriptionAdvanced: {
       en: "Boruca ancestral lands are central to the culture and history of the Boruca indigenous group. These lands have been preserved for centuries, serving as a bastion for traditional languages, rituals, and craftsmanship, such as famous masks. Geography K8 — indigenous territories."
     },
     factsAdvanced: {
       en: ["Center of Boruca cultural heritage.", "Preserved traditional land base.", "Bastion of indigenous language/rituals.", "Famous for traditional mask craftsmanship.", "Historically significant territory.", "Important indigenous protected land."]
-    }
-  },
+    }, 
     description: {
       de: "Die Heimat des indigenen Volkes der Boruca, bekannt für ihre lebhaften Masken und den traditionellen 'Tanz der Teufelchen'.",
       hu: "A boruca ősi földjei a dél-costa ricai őslakos közösség történelmi területei. A maszkfaragás, a nyelv és a rituálék megőrzésének fontos helye.",
@@ -752,26 +729,25 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "La Paz-i ceiba fa",
       ro: "Arborele Ceibo din La Paz",
       en: "Ceibo Tree of La Paz"
-    ,
+    },
     descriptionAdvanced: {
       en: "The Ceibo tree of La Paz is a cultural landmark, often used as a historical reference point in landscape geography and oral history. It represents the enduring connection between natural landmarks and the community's narrative over time. Geography K7 — natural heritage."
     },
     factsAdvanced: {
       en: ["Significant natural cultural landmark.", "Used as a historical reference point.", "Important in regional oral history.", "Enduring community narrative connection.", "Symbol of natural historical landscape.", "Key point for local community geography."]
-    }
-  },
+    }, 
     description: {
-      de: "Ein riesiger und uralter Kapokbaum, der als heiliger Ort für indigene Gemeinschaften und als historischer Treffpunkt diente.",
+      de: "Ein jahrhundertealter Ceiba-Baum, der als lebendiges Naturdenkmal und Symbol für Frieden und Beständigkeit verehrt wird.",
       hu: "A La Paz ceibája egy nagy, jelképes fa a közép-costa ricai természeti útvonalak egyik pontján. A helyi emlékezetben a táj és a természet tiszteletét képviseli.",
       ro: "Arborele ceibo de la La Paz reprezintă un simbol al pădurii tropicale și al biodiversității din Costa Rica. Coroana sa mare îl face ușor de recunoscut în peisajul forestier.",
-      en: "A historic ceiba tree linked to La Paz and local memory in the northern highlands. It is treated as a symbolic meeting point and a natural heritage marker."
+      en: "A majestic and ancient Ceibo tree in La Paz, celebrated as a living monument and a symbol of national peace."
     },
     
     facts: {
-      de: ["Uralter Baum", "Heiliger Ort der Indigenen", "Historischer Treffpunkt", "Symbol für Stärke"],
+      de: ["Heiliger Baum vieler Kulturen", "Gigantische Ausmaße", "Wahrzeichen der Region La Paz"],
       hu: ["Ceiba pentandra", "La Paz térségéhez kötődik", "Jelképes természeti pont"],
       ro: ["Specie tropicală", "Simbol al pădurii", "Coroană foarte mare"],
-      en: ["Ceiba tree", "Symbolic local site", "Heritage landmark"]
+      en: ["Estimated to be several centuries old", "Massive trunk and spreading canopy", "Located in the town of La Paz", "A revered symbol of nature and stability"]
     },
      image: "/poi-images/ceibo-tree-of-la-paz-history-v2.webp"},
   {
@@ -784,23 +760,22 @@ export const poiExtraCostaricaHistoryV2: POI[] = [
       hu: "Costa Rica-i Nemzeti Levéltár",
       ro: "Arhivele Naționale din Costa Rica",
       en: "National Archives of Costa Rica"
-    ,
+    },
     descriptionAdvanced: {
       en: "The National Archives are the repository of all documents concerning Costa Rica's political, legal, and social history. The institution is essential for maintaining the national collective memory and verifying legal records dating back centuries. Geography K8 — knowledge infrastructure."
     },
     factsAdvanced: {
       en: ["Repository of national documentation.", "Keeps political, legal, social history.", "Essential for collective memory.", "Maintains vital historical records.", "Contains centuries of data.", "Key institutional site for history."]
-    }
-  },
+    }, 
     description: {
-      de: "Das Gebäude, das die wichtigsten historischen Dokumente des Landes beherbergt. Ein Ort von großer Bedeutung für die nationale Identität.",
+      de: "Die Nationalarchive Costa Ricas bewahren das schriftliche Erbe und die wichtigsten Dokumente der Landesgeschichte auf.",
       hu: "Az épület, amely az ország legfontosabb történelmi dokumentumait őrzi. A nemzeti identitás szempontjából kiemelt jelentőségű hely.",
       ro: "Clădirea care adăpostește cele mai importante documente istorice ale țării. Un loc de mare importanță pentru identitatea națională.",
       en: "The building that houses the most important historical documents of the country. A place of great importance for national identity."
     },
     
     facts: {
-      de: ["Aufbewahrung der Landesgeschichte", "Gegründet 1881", "Wichtige Quelle für Forscher", "Historisches Gebäude"],
+      de: ["Gegründet im Jahr 1881", "Modernes Gebäude in Zapote", "Schutz historischer Dokumente"],
       hu: ["Az ország történelmének őrzője", "1881-ben alapították", "Fontos forrás kutatók számára", "Történelmi épület"],
       ro: ["Păstrează istoria țării", "Fondate în 1881", "Sursă importantă pentru cercetători", "Clădire istorică"],
       en: ["Preserves the nation's history", "Founded in 1881", "Vital resource for researchers", "Historic building"]

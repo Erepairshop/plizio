@@ -1,0 +1,79 @@
+{
+  "lang": "de",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "Der Mudumu-Nationalpark ist ein wichtiges Wildreservat mit dichten Wäldern und Feuchtgebieten. Er bietet Elefanten und zahlreichen Vogelarten einen geschützten Lebensraum.",
+      "facts": ["Wildreservat", "Feuchtgebiete", "Elefanten", "Naturschutz"]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "description": "Der Dorob-Nationalpark erstreckt sich entlang der Küste. Das Schutzgebiet ist bekannt für seine reiche Vogelwelt und die raue, unberührte Wüstenlandschaft.",
+      "facts": ["Küstenpark", "Vogelwelt", "Wüstenlandschaft", "Naturschutz"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "Die Kavango-Region profitiert vom gleichnamigen Fluss, der eine nachhaltige Landwirtschaft ermöglicht. Hier spielt der Anbau von Hirse und Gemüse eine zentrale Rolle.",
+      "facts": ["Kavango-Fluss", "Landwirtschaft", "Hirseanbau", "Region Kavango"]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "description": "Die Kalahari ist ein riesiges Becken mit sandiger Wüstenlandschaft. Trotz der Trockenheit beherbergt sie eine bemerkenswerte Vielfalt an Wüstenwildtieren.",
+      "facts": ["Wüstenbecken", "Kalahari", "Wüstenwild", "Trockenregion"]
+    },
+    {
+      "id": "namibia-fish-river-animal-habitat-life-v2",
+      "description": "Das Gebiet um den Fish River Canyon ist ein Refugium für angepasste Tierarten. Die Schlucht bietet den Tieren Schutz vor der intensiven Sonne.",
+      "facts": ["Canyon-Gebiet", "Lebensraum", "Wildtiere", "Schutz"]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "description": "Mariental ist ein Zentrum für die lokale Agrarwirtschaft. Die Region ist bekannt für ihre Bewässerungsfarmen und die Produktion hochwertiger landwirtschaftlicher Erzeugnisse.",
+      "facts": ["Agrarzentrum", "Bewässerung", "Farmwirtschaft", "Region Hardap"]
+    },
+    {
+      "id": "namibia-outjo-agriculture-life-v2",
+      "description": "Outjo liegt am Rande des Etosha-Nationalparks und ist ein wichtiger Knotenpunkt. Die Umgebung wird landwirtschaftlich intensiv genutzt.",
+      "facts": ["Etosha-Nähe", "Knotenpunkt", "Landwirtschaft", "Nordnamibia"]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "description": "Rundu ist das wirtschaftliche Zentrum der Kavango-Region. Die Stadt ist ein Ausgangspunkt für den Handel mit lokalen Agrarprodukten.",
+      "facts": ["Kavango-Handel", "Wirtschaftszentrum", "Agrarprodukte", "Rundu"]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "description": "Sesriem ist das Tor zum Sossusvlei und bekannt für seine roten Dünen. Es ist ein faszinierendes Ziel für Abenteuer in der Namib-Wüste.",
+      "facts": ["Sossusvlei-Tor", "Rote Dünen", "Namib-Wüste", "Abenteuer"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Walvis Bay ist bekannt für seine Lagune und die Flamingos. Es bietet vielfältige Aktivitäten am Meer, die ideal für Familien sind.",
+      "facts": ["Lagune", "Flamingos", "Familienaktivitäten", "Küstenort"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Tsumkwe ist das kulturelle Herz der San-Region. Es bietet Einblicke in eine einzigartige Lebensweise, die besonders für Kinder lehrreich ist.",
+      "facts": ["San-Region", "Kulturelles Zentrum", "Lehrreich", "Einzigartig"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Lüderitz ist eine historische Küstenstadt mit einer besonderen Architektur. Die Nähe zur Wüste und zum Meer macht sie sehr interessant.",
+      "facts": ["Küstenstadt", "Historische Architektur", "Wüsten-Nähe", "Namibia"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "Der Caprivi-Streifen ist ein grünes Paradies mit hoher Artenvielfalt. Das Gebiet ist reich an Flüssen und zieht viele Wildtiere an.",
+      "facts": ["Caprivi", "Grüne Landschaft", "Artenreich", "Wildtiere"]
+    },
+    {
+      "id": "namibia-okavango-agriculture-life-v2",
+      "description": "Der Okavango-Fluss ist lebenswichtig für die Region. Entlang der Ufer findet eine vielfältige landwirtschaftliche Nutzung statt.",
+      "facts": ["Okavango", "Uferbewirtschaftung", "Landwirtschaft", "Lebenswichtig"]
+    }
+  ]
+}

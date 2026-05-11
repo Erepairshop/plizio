@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Tajikistan",
+  "files": [
+    "lib/visualLab/data/poiExtraTajikistanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ghafurov-cities-v2",
+      "description": "A city in the Sughd region named after the Tajik historian Bobojon Ghafurov.",
+      "facts": ["Named after historian Ghafurov", "Sughd region", "Agricultural center", "Northern Tajikistan"]
+    },
+    {
+      "id": "danghara-cities-v2",
+      "description": "A growing town in the Khatlon region, known for its significant agricultural development and projects.",
+      "facts": ["Khatlon region", "Agricultural development", "Growing town", "Regional trade site"]
+    },
+    {
+      "id": "shahrtuz-cities-v2",
+      "description": "A town in southwestern Tajikistan near the Amu Darya, serving as an important local trade hub.",
+      "facts": ["Southwestern Tajikistan", "Near Amu Darya", "Local trade hub", "Agricultural area"]
+    },
+    {
+      "id": "zafarobod-cities-v2",
+      "description": "A district center in northern Tajikistan focused largely on irrigation and agricultural production.",
+      "facts": ["Northern Tajikistan", "Irrigation focus", "Agricultural district", "Sughd region"]
+    },
+    {
+      "id": "shaydon-cities-v2",
+      "description": "A settlement in the Sughd region, located in the Fergana Valley area.",
+      "facts": ["Sughd region", "Fergana Valley location", "Agricultural area", "Local community center"]
+    },
+    {
+      "id": "murghob-cities-v2",
+      "description": "A high-altitude settlement in the eastern Pamir Mountains, known for its stark landscape and remote location.",
+      "facts": ["Eastern Pamir region", "High altitude", "Remote settlement", "Stark landscape"]
+    },
+    {
+      "id": "gharm-cities-v2",
+      "description": "Located in the Rasht Valley, this town is surrounded by mountainous terrain and important river valleys.",
+      "facts": ["Rasht Valley location", "Mountainous region", "River valley settlement", "Central Tajikistan"]
+    },
+    {
+      "id": "qabodiyon-cities-v2",
+      "description": "One of the oldest settlements in the region, with rich archaeological history along the Kofarnihon River.",
+      "facts": ["Kofarnihon River", "Ancient settlement", "Archaeological interest", "Southwestern region"]
+    },
+    {
+      "id": "levakant-cities-v2",
+      "description": "A modern town in the Khatlon region, formerly known as Sarband, known for industrial activities.",
+      "facts": ["Khatlon region", "Industrial activity", "Formerly Sarband", "Central Khatlon"]
+    },
+    {
+      "id": "roghun-cities-v2",
+      "description": "Famous for the massive hydroelectric plant project on the Vakhsh River, currently under development.",
+      "facts": ["Roghun Dam site", "Vakhsh River location", "Major power project", "Mountainous terrain"]
+    },
+    {
+      "id": "hamadoni-cities-v2",
+      "description": "An administrative town in the Khatlon region named after the Persian poet and saint Mir Said Ali Hamadoni.",
+      "facts": ["Khatlon region", "Named after Ali Hamadoni", "Agricultural hub", "South Tajikistan"]
+    },
+    {
+      "id": "ishkoshim-cities-v2",
+      "description": "A remote border town in Gorno-Badakhshan, situated on the Panj River overlooking Afghanistan.",
+      "facts": ["Border with Afghanistan", "Panj River location", "Gorno-Badakhshan", "Remote mountain town"]
+    }
+  ]
+}

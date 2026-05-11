@@ -1,0 +1,399 @@
+{
+  "lang": "multi4",
+  "country": "mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": {
+        "en": "The oldest and most visited zoo in Mexico, located within the historic Chapultepec Park in the heart of Mexico City."
+      },
+      "facts": {
+        "en": [
+          "Opened in 1923",
+          "Famous for its giant pandas",
+          "Home to over 1,200 animals"
+        ]
+      }
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": {
+        "en": "The second largest zoo in Mexico City, focused on the conservation of native and endangered species like the Mexican wolf."
+      },
+      "facts": {
+        "en": [
+          "Inaugurated in 1964",
+          "Spans 31 hectares",
+          "Includes a replica of Xochimilco"
+        ]
+      }
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": {
+        "en": "One of the most modern zoos in Latin America, spectacularly situated on the edge of the Huentitán Canyon in Jalisco."
+      },
+      "facts": {
+        "en": [
+          "Features a 3.5 km cable car",
+          "Home to a world-class aquarium",
+          "Includes an Antarctic penguin exhibit"
+        ]
+      }
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": {
+        "en": "A state-of-the-art subterranean aquarium in Polanco, housing thousands of marine creatures across four underground levels."
+      },
+      "facts": {
+        "en": [
+          "Located 26 meters underground",
+          "Features over 14,000 specimens",
+          "Home to gentoo and chinstrap penguins"
+        ]
+      }
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": {
+        "en": "A premier eco-archaeological park on the Riviera Maya that celebrates Mexican culture, history, and natural beauty."
+      },
+      "facts": {
+        "en": [
+          "Features underground rivers",
+          "Famous for its nightly folklore show",
+          "Major sea turtle nesting site"
+        ]
+      }
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": {
+        "en": "A renowned wildlife park near Puebla where animals roam freely in large habitats that visitors explore by car or bus."
+      },
+      "facts": {
+        "en": [
+          "First safari-style park in Mexico",
+          "Covers over 200 hectares",
+          "Successful African elephant breeding program"
+        ]
+      }
+    },
+    {
+      "id": "bioparque-estrella-life-v2",
+      "description": {
+        "en": "A massive theme park and safari preserve in the State of Mexico, offering interactive animal encounters and prehistoric exhibits."
+      },
+      "facts": {
+        "en": [
+          "Includes a Serengeti-style safari",
+          "Features life-sized animatronic dinosaurs",
+          "Home to more than 500 animals"
+        ]
+      }
+    },
+    {
+      "id": "monarch-butterfly-reserve-life-v2",
+      "description": {
+        "en": "A UNESCO World Heritage site in the mountains of Michoacán where millions of monarch butterflies overwinter every year."
+      },
+      "facts": {
+        "en": [
+          "Butterflies travel over 4,000 km",
+          "Located at high altitude (up to 3,600m)",
+          "UNSECO site since 2008"
+        ]
+      }
+    },
+    {
+      "id": "sian-kaan-life-v2",
+      "description": {
+        "en": "A vast biosphere reserve on the Caribbean coast, encompassing tropical forests, mangroves, and pristine coral reefs."
+      },
+      "facts": {
+        "en": [
+          "UNESCO World Heritage site",
+          "Contains over 20 archaeological sites",
+          "Second-largest reef system in the world"
+        ]
+      }
+    },
+    {
+      "id": "calakmul-reserve-life-v2",
+      "description": {
+        "en": "A massive tropical forest reserve in Campeche that protects one of the most powerful ancient Maya cities ever discovered."
+      },
+      "facts": {
+        "en": [
+          "Largest tropical forest reserve in Mexico",
+          "Highest density of jaguars in the country",
+          "Mixed UNESCO Heritage site"
+        ]
+      }
+    },
+    {
+      "id": "lacandon-jungle-life-v2",
+      "description": {
+        "en": "One of North America's largest remaining rainforests, home to the Lacandon Maya and an incredible variety of tropical wildlife."
+      },
+      "facts": {
+        "en": [
+          "Covers eastern Chiapas",
+          "Habitat for the rare harpy eagle",
+          "Contains the ruins of Bonampak"
+        ]
+      }
+    },
+    {
+      "id": "el-vizcaino-life-v2",
+      "description": {
+        "en": "Mexico's largest protected area, famous for its coastal lagoons that serve as the primary calving grounds for gray whales."
+      },
+      "facts": {
+        "en": [
+          "UNESCO site since 1993",
+          "Over 2.5 million hectares",
+          "Includes prehistoric rock paintings"
+        ]
+      }
+    },
+    {
+      "id": "celestun-flamingo-reserve-life-v2",
+      "description": {
+        "en": "A coastal wetland in Yucatán famous for its thousands of pink flamingos and diverse mangrove ecosystems."
+      },
+      "facts": {
+        "en": [
+          "Over 300 bird species recorded",
+          "Features unique freshwater springs",
+          "Important sea turtle nesting area"
+        ]
+      }
+    },
+    {
+      "id": "la-ventanilla-turtle-reserve-life-v2",
+      "description": {
+        "en": "A community-managed nature reserve in Oaxaca dedicated to the restoration of mangroves and the protection of sea turtles."
+      },
+      "facts": {
+        "en": [
+          "Run by local families",
+          "Home to over 300 crocodiles",
+          "Sanctuary for olive ridley turtles"
+        ]
+      }
+    },
+    {
+      "id": "los-tuxtlas-reserve-life-v2",
+      "description": {
+        "en": "An ecological hotspot in Veracruz where tropical rainforests meet volcanic mountains and the shores of the Gulf of Mexico."
+      },
+      "facts": {
+        "en": [
+          "Northernmost rainforest in the Americas",
+          "Contains over 500 bird species",
+          "Region of the ancient Olmec culture"
+        ]
+      }
+    },
+    {
+      "id": "sierra-gorda-reserve-life-v2",
+      "description": {
+        "en": "A stunningly diverse biosphere reserve in Querétaro, ranging from arid deserts to lush, high-altitude cloud forests."
+      },
+      "facts": {
+        "en": [
+          "Covers one-third of Querétaro",
+          "Includes five 18th-century missions",
+          "UNESCO site for nature and culture"
+        ]
+      }
+    },
+    {
+      "id": "isla-holbox-life-v2",
+      "description": {
+        "en": "A tranquil, car-free island in northern Yucatán known for its sandy streets, vibrant murals, and summer whale shark sightings."
+      },
+      "facts": {
+        "en": [
+          "No paved roads on the island",
+          "Part of Yum Balam reserve",
+          "Famous for its lobster pizza"
+        ]
+      }
+    },
+    {
+      "id": "isla-mujeres-life-v2",
+      "description": {
+        "en": "A picturesque Caribbean island near Cancún, famous for the calm, turquoise waters of Playa Norte and its laid-back charm."
+      },
+      "facts": {
+        "en": [
+          "Temple of goddess Ixchel at Punta Sur",
+          "Only 7 kilometers long",
+          "Features an underwater art museum"
+        ]
+      }
+    },
+    {
+      "id": "janitzio-island-life-v2",
+      "description": {
+        "en": "The most famous island in Lake Pátzcuaro, recognized for its iconic butterfly net fishermen and monumental statue."
+      },
+      "facts": {
+        "en": [
+          "Statue of Morelos is 40 meters high",
+          "Heart of Day of the Dead traditions",
+          "Purépecha cultural center"
+        ]
+      }
+    },
+    {
+      "id": "isla-espiritu-santo-life-v2",
+      "description": {
+        "en": "An uninhabited desert island in the Sea of Cortez, celebrated for its red volcanic cliffs and friendly sea lion colony."
+      },
+      "facts": {
+        "en": [
+          "UNESCO Biosphere Reserve",
+          "Home to a permanent sea lion colony",
+          "Uninhabited and pristine"
+        ]
+      }
+    },
+    {
+      "id": "isla-tiburon-life-v2",
+      "description": {
+        "en": "Mexico's largest island, maintained as a wild and sacred ecological reserve by the indigenous Seri people of Sonora."
+      },
+      "facts": {
+        "en": [
+          "Ancestral land of the Seri people",
+          "Largest island in Mexico",
+          "Refuge for desert bighorn sheep"
+        ]
+      }
+    },
+    {
+      "id": "marietas-islands-life-v2",
+      "description": {
+        "en": "Small volcanic islands off the coast of Nayarit, world-famous for the 'Hidden Beach' nestled inside a collapsed crater."
+      },
+      "facts": {
+        "en": [
+          "Home to blue-footed boobies",
+          "Access is strictly limited",
+          "Former military testing ground"
+        ]
+      }
+    },
+    {
+      "id": "contoy-island-life-v2",
+      "description": {
+        "en": "A strictly protected national park north of Isla Mujeres, serving as the most important nesting site for seabirds in the region."
+      },
+      "facts": {
+        "en": [
+          "Known as the 'Island of Birds'",
+          "Limited to 200 visitors per day",
+          "Uninhabited by humans"
+        ]
+      }
+    },
+    {
+      "id": "tequila-agave-fields-life-v2",
+      "description": {
+        "en": "A UNESCO World Heritage landscape in Jalisco where the blue agave has been cultivated for centuries to produce tequila."
+      },
+      "facts": {
+        "en": [
+          "Rich volcanic red soil",
+          "Agave takes 7-10 years to mature",
+          "UNSECO site since 2006"
+        ]
+      }
+    },
+    {
+      "id": "valle-de-guadalupe-vineyards-life-v2",
+      "description": {
+        "en": "The premier wine region of Mexico, located in Baja California and producing nearly 90% of the country's wine."
+      },
+      "facts": {
+        "en": [
+          "Mediterranean-style microclimate",
+          "Home to over 150 wineries",
+          "Mexico's leading culinary destination"
+        ]
+      }
+    },
+    {
+      "id": "veracruz-coffee-farms-life-v2",
+      "description": {
+        "en": "Historic coffee-growing estates in the misty highlands of Veracruz, where some of Mexico's finest shade-grown coffee is produced."
+      },
+      "facts": {
+        "en": [
+          "Coatepec is the 'Coffee Capital'",
+          "First place in Mexico to grow coffee",
+          "Grown in the Sierra Madre Oriental"
+        ]
+      }
+    },
+    {
+      "id": "chiapas-coffee-fincas-life-v2",
+      "description": {
+        "en": "Expansive coffee estates in the rugged mountains of Chiapas, a world leader in organic and fair-trade coffee production."
+      },
+      "facts": {
+        "en": [
+          "Largest coffee producer in Mexico",
+          "Ideal volcanic mountain soil",
+          "Major center for organic farming"
+        ]
+      }
+    },
+    {
+      "id": "oaxaca-mezcal-agave-life-v2",
+      "description": {
+        "en": "The traditional heartland of mezcal production in Oaxaca, where diverse agave species are harvested for artisanal spirits."
+      },
+      "facts": {
+        "en": [
+          "Oaxaca produces 90% of Mexico's mezcal",
+          "Uses over 30 different agave species",
+          "Artisanal pit-roasting process"
+        ]
+      }
+    },
+    {
+      "id": "michoacan-avocado-orchards-life-v2",
+      "description": {
+        "en": "The world's leading avocado-producing region, with vast orchards stretching across the fertile volcanic hills of Michoacán."
+      },
+      "facts": {
+        "en": [
+          "Known as 'Green Gold'",
+          "Supplies 45% of global exports",
+          "Trees can bloom four times a year"
+        ]
+      }
+    },
+    {
+      "id": "sinaloa-mango-orchards-life-v2",
+      "description": {
+        "en": "Lush tropical orchards in the coastal plains of Sinaloa, one of Mexico's most productive agricultural and mango-exporting hubs."
+      },
+      "facts": {
+        "en": [
+          "Leading exporter of Ataulfo mangoes",
+          "Warm, tropical coastal climate",
+          "Peak harvest in summer months"
+        ]
+      }
+    }
+  ]
+}

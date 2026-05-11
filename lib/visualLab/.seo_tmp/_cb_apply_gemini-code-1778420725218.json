@@ -1,0 +1,88 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraParaguayCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "villarrica-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Villarrica ist eine prominente Stadt in der Region Araucanía in Südchile. Geografisch liegt das urbane Zentrum direkt an den westlichen Ufern des Villarrica-Sees, unmittelbar am stark bewaldeten Fuß des hochaktiven Villarrica-Vulkans. Wirtschaftlich ist die Stadt ein absoluter Knotenpunkt für saisonale kommerzielle Aktivitäten, komplett dominiert vom massiven Zustrom in- und ausländischer Besucher während der Sommermonate. Die formelle Ökonomie stützt sich strikt auf Immobilienentwicklung, Einzelhandel und Dienstleistungen rund um Outdoor-Freizeitaktivitäten, während kommerzielle Forstwirtschaft und Milchbauern das ländliche Umland absichern. Historisch gesehen wurde die Siedlung 1552 von den Spaniern gegründet, während des gewaltsamen Arauco-Krieges jedoch mehrfach von indigenen Mapuche-Streitkräften komplett zerstört und erst im späten 19. Jahrhundert dauerhaft wiederaufgebaut. Heute steht Villarrica vor immensen infrastrukturellen Belastungen. Der explosive, unregulierte Bau von Wohnimmobilien rund um den See hat zu schweren Wasserverschmutzungen geführt, während der hochaktive Vulkan eine ständige, extreme physische Bedrohung für die gesamte städtische Bevölkerung darstellt und häufig großangelegte kommunale Evakuierungen erzwingt.",
+        "hu": "Villarrica egy kiemelkedő város a dél-chilei Araucanía régióban. Földrajzilag a városközpont közvetlenül a Villarrica-tó nyugati partján helyezkedik el, közvetlenül a rendkívül aktív Villarrica-vulkán sűrűn erdősült lábánál. Gazdasági szempontból a város a szezonális kereskedelmi tevékenységek abszolút központja, amelyet a nyári hónapokban a belföldi és külföldi látogatók hatalmas beáramlása teljes mértékben ural. A formális gazdaság szigorúan az ingatlanfejlesztésre, a kiskereskedelemre és a szabadtéri rekreációhoz kapcsolódó szolgáltatásokra támaszkodik, míg a kereskedelmi erdészet és a tejtermelés a vidéki külvárosokat támogatja. Történelmileg a települést a spanyolok alapították 1552-ben, de az erőszakos araucói háború során az őslakos mapucse erők többször is teljesen elpusztították, és csak a 19. század végén építették újjá véglegesen. Ma Villarrica hatalmas infrastrukturális terheléssel néz szembe. A lakóingatlanok robbanásszerű, szabályozatlan építése a tó körül súlyos vízszennyezést okozott, míg a rendkívül aktív vulkán állandó, extrém fizikai fenyegetést jelent a teljes városi lakosságra, gyakran nagyszabású önkormányzati evakuációkat kényszerítve ki.",
+        "ro": "Villarrica este un oraș proeminent situat în regiunea Araucanía din sudul statului Chile. Geografic, centrul urban este situat direct pe țărmul vestic al Lacului Villarrica, stând imediat la baza puternic împădurită a vulcanului extrem de activ Villarrica. Din punct de vedere economic, orașul este un hub absolut pentru activitățile comerciale sezoniere, dominat complet de afluxul masiv de vizitatori interni și internaționali în lunile de vară. Economia formală se bazează strict pe dezvoltarea imobiliară, retail și servicii legate de recreerea în aer liber, în timp ce silvicultura comercială și producția de lactate susțin periferiile rurale. Istoric, așezarea a fost fondată de spanioli în 1552, dar a fost complet distrusă de mai multe ori în timpul violentului război din Arauco de forțele indigene Mapuche și a fost restabilită permanent abia la sfârșitul secolului al XIX-lea. Astăzi, Villarrica se confruntă cu o presiune imensă asupra infrastructurii. Construcția explozivă, nereglementată, a proprietăților a provocat o poluare severă a apei.",
+        "en": "Villarrica is a prominent city located in the Araucanía Region of southern Chile. Geographically, the urban center is situated directly on the western shores of Lake Villarrica, sitting immediately at the heavily forested base of the highly active Villarrica volcano. Economically, the city is an absolute hub for seasonal commercial activities, completely dominated by the massive influx of domestic and international visitors during the summer months. The formal economy relies strictly on real estate development, retail, and services tied to outdoor recreation, while commercial forestry and dairy farming support the rural outskirts. Historically founded in 1552 by the Spanish, the settlement was completely destroyed multiple times during the violent Arauco War by indigenous Mapuche forces and was only permanently re-established in the late 19th century. Today, Villarrica faces immense infrastructural strain. The explosive, unregulated construction of residential properties around the lake has caused severe water pollution, while the highly active volcano poses a constant, extreme physical threat to the entire urban population, frequently forcing large-scale municipal evacuations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Villarrica liegt direkt am Fuß eines der aktivsten Vulkane in ganz Chile.",
+          "Massiver Sommertourismus treibt die lokale Wirtschaft extrem dominant an.",
+          "Der unregulierte Immobilienboom hat den lokalen See stark verschmutzt.",
+          "Die Mapuche-Indigenen zerstörten die historische Stadt früher mehrfach komplett.",
+          "Ständige vulkanische Aktivitäten erzwingen oft massive städtische Evakuierungen."
+        ],
+        "hu": [
+          "Villarrica közvetlenül egész Chile egyik legaktívabb vulkánjának lábánál fekszik.",
+          "A masszív nyári turizmus extrém módon és dominánsan hajtja a helyi gazdaságot.",
+          "A szabályozatlan ingatlanboom rendkívül súlyosan beszennyezte a helyi tavat.",
+          "A mapucse őslakosok a történelmi várost korábban többször is teljesen lerombolták.",
+          "Az állandó vulkáni tevékenység gyakran masszív városi evakuációkat kényszerít ki."
+        ],
+        "ro": [
+          "Villarrica este situat la baza unuia dintre cei mai activi vulcani din Chile.",
+          "Turismul masiv de vară stimulează extrem de dominant economia locală.",
+          "Boom-ul imobiliar nereglementat a poluat foarte grav lacul local.",
+          "Indigenii Mapuche au distrus complet orașul istoric de mai multe ori în trecut.",
+          "Activitățile vulcanice constante forțează adesea evacuări municipale masive."
+        ],
+        "en": [
+          "Villarrica is located directly at the base of one of Chile's most active volcanoes.",
+          "Massive summer tourism extremely dominantly drives the formal local economy.",
+          "The completely unregulated real estate boom has severely polluted the local lake.",
+          "Indigenous Mapuche forces historically completely destroyed the city multiple times.",
+          "Constant and severe volcanic activity frequently forces massive urban evacuations."
+        ]
+      }
+    },
+    {
+      "id": "victoria-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Victoria ist eine bedeutende Agrarstadt in der Provinz Malleco innerhalb der Region Araucanía im Süden Chiles. Geografisch liegt die Stadt auf einer weiten Ebene, die sich durch hochproduktive vulkanische Böden auszeichnet und den fließenden Übergang zwischen dem Central Valley und den Voranden markiert. Wirtschaftlich fungiert Victoria als ein hochgradig vitales logistisches Zentrum für die massive regionale Getreideindustrie. Großflächige landwirtschaftliche Betriebe dominieren die lokale Ökonomie komplett, wobei die Stadt als Hauptdrehkreuz für die Weizen- und Haferverarbeitung dient. Daneben findet eine extensive kommerzielle Holzgewinnung in den nahegelegenen Kiefernplantagen statt. Historisch wurde die Stadt 1881 als stark befestigter militärischer Außenposten während der gewaltsamen Pazifizierung der Araucanía gegründet und spielte eine entscheidende Rolle bei der staatlichen Assimilierung der indigenen Mapuche-Ländereien. Die spätere Ankunft von Schweizer und deutschen Einwanderern modernisierte den Agrarsektor stark. Heute befindet sich die Stadt jedoch in einer hochbrisanten politischen Zone. Schwere Landkonflikte zwischen mächtigen Forstunternehmen und indigenen Gemeinschaften führen häufig zu extremer lokaler Unsicherheit.",
+        "hu": "Victoria egy kiemelkedő agráváros a Malleco tartományban, a dél-chilei Araucanía régióban. Földrajzilag a város egy kiterjedt síkságon fekszik, amelyet rendkívül produktív vulkáni talajok jellemeznek, és amely a Középső-völgy és a pre-andoki hegyláncok közötti átmenetet jelzi. Gazdasági szempontból Victoria rendkívül létfontosságú logisztikai központként működik a masszív regionális gabonaipar számára. A helyi gazdaságot teljesen a nagyüzemi mezőgazdasági tevékenységek uralják, a város pedig a búza- és zabfeldolgozás fő csomópontjaként szolgál. Emellett a közeli fenyőültetvényeken kiterjedt kereskedelmi fakitermelés is folyik. Történelmileg a várost 1881-ben alapították erősen megerősített katonai előretolt helyőrségként az Araucanía erőszakos pacifikálása során, és döntő szerepet játszott az őslakos mapucse földek állami asszimilációjában. A svájci és német bevándorlók későbbi érkezése nagymértékben modernizálta az agrárszektort. Ma azonban a város egy rendkívül robbanásveszélyes politikai zónában helyezkedik el. A hatalmas erdészeti vállalatok és az őslakos közösségek közötti súlyos földviták gyakran extrém helyi bizonytalansághoz vezetnek.",
+        "ro": "Victoria este un oraș agricol proeminent situat în provincia Malleco din regiunea Araucanía din sudul statului Chile. Geografic, orașul se află pe o câmpie extinsă caracterizată de soluri vulcanice foarte productive, marcând tranziția dintre valea centrală și lanțurile muntoase pre-andine. Economic, Victoria funcționează ca un centru logistic extrem de vital pentru industria regională masivă a cerealelor. Operațiunile agricole la scară largă domină complet economia locală, orașul servind drept hub major pentru procesarea grâului și a ovăzului, alături de extracția comercială extensivă a lemnului din plantațiile de pin din apropiere. Fondat istoric în 1881 ca un avanpost militar puternic fortificat în timpul pacificării brutale din Araucanía, orașul a jucat un rol decisiv în asimilarea forțată de stat a pământurilor indigene Mapuche. Sosirea imigranților elvețieni și germani a modernizat sectorul. Astăzi, orașul este situat într-o zonă politică foarte volatilă. Disputele severe, adânc înrădăcinate, între companiile forestiere puternice și comunitățile Mapuche duc frecvent la ciocniri violente și insecuritate locală intensă.",
+        "en": "Victoria is a prominent agricultural city located in the Malleco Province within the Araucanía Region of southern Chile. Geographically, the city sits on an extensive plain characterized by highly productive volcanic soils, marking the transition between the central valley and the pre-Andean mountain ranges. Economically, Victoria functions as a highly vital logistical center for the massive regional grain industry. Large-scale farming operations completely dominate the local economy, with the city serving as a major hub for wheat and oat processing, alongside extensive commercial timber extraction from nearby commercial pine plantations. Historically founded in 1881 as a heavily fortified military outpost during the violent pacification of the Araucanía, the city played a decisive role in the forced state assimilation of indigenous Mapuche lands. The arrival of Swiss and German immigrants in the late 19th century significantly modernized the local agricultural sector. Today, the city is situated in a highly volatile political zone. Severe, deeply rooted land disputes between powerful commercial forestry companies and indigenous Mapuche communities frequently lead to violent clashes and intense local insecurity."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Victoria operiert als hochwichtiges logistisches Zentrum für die Getreideindustrie.",
+          "Die Wirtschaft basiert komplett auf massiver Weizen-, Hafer- und Holzproduktion.",
+          "Die Stadt wurde 1881 als schwer befestigtes militärisches Fort gegründet.",
+          "Schweizer und deutsche Siedler modernisierten die historische Agrarwirtschaft stark.",
+          "Schwere Landkonflikte mit den Mapuche-Indigenen prägen die heutige Region massiv."
+        ],
+        "hu": [
+          "Victoria a regionális és nemzeti gabonaipar rendkívül fontos logisztikai központja.",
+          "A gazdaság teljesen a masszív búza-, zab- és fatermelésen alapul.",
+          "A várost 1881-ben alapították, mint erősen megerősített katonai erődítményt.",
+          "Svájci és német telepesek történelmileg erősen modernizálták az agrárgazdaságot.",
+          "A mapucse őslakosokkal folytatott súlyos földviták masszívan uralják a mai régiót."
+        ],
+        "ro": [
+          "Victoria operează ca un centru logistic extrem de important pentru industria cerealelor.",
+          "Economia se bazează complet pe producția masivă de grâu, ovăz și lemn.",
+          "Orașul a fost fondat în 1881 ca un fort militar extrem de puternic fortificat.",
+          "Coloniștii elvețieni și germani au modernizat istoric puternic economia agricolă.",
+          "Conflictele funciare severe cu indigenii Mapuche domină masiv regiunea de astăzi."
+        ],
+        "en": [
+          "Victoria operates as a highly important logistical center for the bulk grain industry.",
+          "The economy is completely based on massive local wheat, oat, and timber production.",
+          "The city was officially founded in 1881 as a heavily fortified military outpost.",
+          "Swiss and German settlers historically heavily modernized the agrarian economy.",
+          "Severe, violent land conflicts with indigenous Mapuche massively shape the region today."
+        ]
+      }
+    }
+  ]
+}

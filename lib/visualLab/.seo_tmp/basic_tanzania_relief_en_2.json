@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-eyasi-basin-relief-v2",
+      "description": "Lake Eyasi is a seasonal salt lake located in a dry valley within the Great Rift Valley. Its basin is known for its arid climate and distinctive flat landscapes.",
+      "facts": ["Seasonal salt lake", "Arid basin climate", "Dry valley landscape", "Rift Valley location"]
+    },
+    {
+      "id": "lake-natron-basin-relief-v2",
+      "description": "Lake Natron is an alkaline lake situated in a volcanic region, known for its extreme mineral composition and high temperatures. The surrounding basin is largely rugged and volcanic.",
+      "facts": ["Alkaline salt lake", "Volcanic basin terrain", "Extreme environment", "Mineral-rich soil"]
+    },
+    {
+      "id": "ol-doinyo-lengai-relief-v2",
+      "description": "Ol Doinyo Lengai is an active volcano known as the 'Mountain of God' by the Maasai people. It is famous for its unique natrocarbonatite lava flows.",
+      "facts": ["Active volcano", "Unique lava type", "Maasai cultural site", "Rising above plains"]
+    },
+    {
+      "id": "pare-mountains-relief-v2",
+      "description": "The Pare Mountains form a range in northeastern Tanzania, featuring steep, dissected ridges. They are a significant part of the Eastern Arc biodiversity hotspot.",
+      "facts": ["Northeastern range", "Dissected mountain ridges", "Eastern Arc mountains", "Biodiversity hotspot"]
+    },
+    {
+      "id": "livingstone-mountains-relief-v2",
+      "description": "The Livingstone Mountains rise sharply above the northeastern shore of Lake Nyasa. This dramatic landscape is known for its steep, rugged terrain and high elevation.",
+      "facts": ["Sharp mountain range", "Lake Nyasa shore", "Steep rugged terrain", "High elevation peaks"]
+    },
+    {
+      "id": "mbeya-range-relief-v2",
+      "description": "The Mbeya Range is a volcanic mountain area surrounding the city of Mbeya. The topography is characterized by high, rounded peaks and complex volcanic ridges.",
+      "facts": ["Volcanic mountain range", "Complex ridge system", "High mountain peaks", "Mbeya city setting"]
+    },
+    {
+      "id": "poroto-mountains-relief-v2",
+      "description": "The Poroto Mountains are part of the volcanic field near Mbeya, known for several craters and lakes. The terrain is largely highland forest and mountainous slopes.",
+      "facts": ["Volcanic field region", "Crater and lake area", "Highland forest slopes", "Mountainous topography"]
+    },
+    {
+      "id": "kipengere-range-relief-v2",
+      "description": "The Kipengere Range is a high-altitude mountain region known for its grassy plateaus and cool temperatures. It acts as a major drainage divide in the Southern Highlands.",
+      "facts": ["High-altitude plateau", "Cool mountain climate", "Major drainage divide", "Southern Highlands"]
+    },
+    {
+      "id": "mahenge-plateau-relief-v2",
+      "description": "The Mahenge Plateau is a prominent highland area with relatively flat top relief surrounded by steep escarpments. It serves as a distinct geographical feature in the region.",
+      "facts": ["Highland plateau", "Steep escarpment edges", "Distinct geography", "Regional highland"]
+    },
+    {
+      "id": "matengo-highlands-relief-v2",
+      "description": "The Matengo Highlands are known for their complex, rolling topography and intensive terraced farming. The hills are deeply cut by various streams and small rivers.",
+      "facts": ["Rolling hilly topography", "Intensive terrace farming", "Deeply cut by streams", "Highland landscape"]
+    },
+    {
+      "id": "tunduru-plateau-relief-v2",
+      "description": "The Tunduru Plateau is a large, elevated expanse in southern Tanzania. Its relief is generally undulating, broken by occasional rocky outcroppings and hills.",
+      "facts": ["Large elevated expanse", "Undulating plateau relief", "Rocky outcroppings", "Southern Tanzania"]
+    },
+    {
+      "id": "serengeti-plain-relief-v2",
+      "description": "The Serengeti Plain is a vast, rolling savanna landscape. It is world-renowned for its endless, flat horizon and seasonal migration pathways.",
+      "facts": ["Vast savanna plain", "Rolling grassland terrain", "Endless flat horizon", "Migration landscape"]
+    },
+    {
+      "id": "wembere-plain-relief-v2",
+      "description": "The Wembere Plain is a low-lying, flat area characterized by seasonal drainage patterns. It occupies a distinct basin within the interior of Tanzania.",
+      "facts": ["Low-lying flat area", "Seasonal drainage plain", "Interior basin", "Flat topography"]
+    },
+    {
+      "id": "masasi-plateau-relief-v2",
+      "description": "The Masasi Plateau is an elevated region marked by ancient granitic rock formations. The landscape is characterized by scattered inselbergs and wide plains.",
+      "facts": ["Elevated plateau region", "Granitic rock formations", "Scattered inselbergs", "Wide plain landscape"]
+    },
+    {
+      "id": "ufipa-plateau-relief-v2",
+      "description": "The Ufipa Plateau is situated between Lake Tanganyika and Lake Rukwa. It is a high-elevation region known for its isolated, elevated landscape.",
+      "facts": ["High-elevation region", "Rift Valley location", "Isolated plateau terrain", "Between two lakes"]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "lang": "ro",
+  "country": "Mexico",
+  "files": [
+    "lib/visualLab/data/poiExtraMexicoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraMexicoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMexicoLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hermosillo-cities-v2",
+      "description": "Hermosillo este capitala statului Sonora, cunoscută pentru industria sa și ca poartă către deșertul Sonora.",
+      "facts": ["Capitala Sonora", "Industrie", "Poarta către deșert"]
+    },
+    {
+      "id": "salamanca-gua-cities-v2",
+      "description": "Salamanca, în Guanajuato, este un important centru industrial și de rafinare a petrolului din Mexic.",
+      "facts": ["Centru industrial", "Rafinărie petrol", "Guanajuato"]
+    },
+    {
+      "id": "san-juan-del-rio-cities-v2",
+      "description": "San Juan del Río este un oraș istoric din Querétaro, renumit pentru podul său colonial și viile din împrejurimi.",
+      "facts": ["Oraș istoric", "Pod colonial", "Vii"]
+    },
+    {
+      "id": "iguala-cities-v2",
+      "description": "Iguala este un oraș din Guerrero, cunoscut pentru rolul său în independența Mexicului și pentru steagul mexican.",
+      "facts": ["Independența Mexicului", "Statul Guerrero", "Steagul mexican"]
+    },
+    {
+      "id": "edzna-history-v2",
+      "description": "Edzná este un sit arheologic maya din Campeche, faimos pentru clădirea sa principală, Templul celor Cinci Etaje.",
+      "facts": ["Sit arheologic mayaș", "Campeche", "Templul celor Cinci Etaje"]
+    },
+    {
+      "id": "chapultepec-zoo-life-v2",
+      "description": "Grădina Zoologică Chapultepec din Ciudad de México este una dintre cele mai vechi și mari din lume.",
+      "facts": ["Grădină zoologică veche", "Ciudad de México", "Diverse specii"]
+    },
+    {
+      "id": "san-juan-de-aragon-zoo-life-v2",
+      "description": "Grădina Zoologică San Juan de Aragón, de asemenea în Ciudad de México, se concentrează pe fauna locală și pe educația ecologică.",
+      "facts": ["Fauna locală", "Educație ecologică", "Ciudad de México"]
+    },
+    {
+      "id": "guadalajara-zoo-life-v2",
+      "description": "Grădina Zoologică Guadalajara este una dintre cele mai importante din Mexic, cu programe de conservare și atracții moderne.",
+      "facts": ["Grădină zoologică importantă", "Guadalajara", "Programe de conservare"]
+    },
+    {
+      "id": "acuario-inbursa-life-v2",
+      "description": "Acuariul Inbursa din Ciudad de México este unul dintre cele mai mari din America Latină, cu o colecție impresionantă de viață marină.",
+      "facts": ["Cel mai mare din America Latină", "Viață marină", "Ciudad de México"]
+    },
+    {
+      "id": "xcaret-park-life-v2",
+      "description": "Parcul Xcaret din Riviera Maya este un parc eco-arheologic care combină natura, cultura și aventura.",
+      "facts": ["Parc eco-arheologic", "Riviera Maya", "Natură și cultură"]
+    },
+    {
+      "id": "africam-safari-life-v2",
+      "description": "Africam Safari în Puebla este un parc safari unde animalele trăiesc în semi-libertate, într-un mediu natural.",
+      "facts": ["Parc safari", "Puebla", "Animale în semi-libertate"]
+    }
+  ]
+}

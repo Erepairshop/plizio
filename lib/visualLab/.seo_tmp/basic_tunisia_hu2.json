@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Tunisia",
+  "files": [
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tozeur-cities-v2",
+      "description": "Az oázisváros a Szahara szélén, híres téglaépítészetéről és datolyapálmáiról.",
+      "facts": ["Szahara kapuja", "Datolyapálmák", "Téglaépítészet"]
+    },
+    {
+      "id": "kebili-cities-v2",
+      "description": "A déli régió központja, fontos kereskedelmi állomás a sivatag peremén.",
+      "facts": ["Déli kereskedelmi központ", "Szahara pereme", "Oázisváros"]
+    },
+    {
+      "id": "gabes-cities-v2",
+      "description": "Egyedülálló tengerparti oázis, ahol a pálmaligetek a Földközi-tengerbe érnek.",
+      "facts": ["Tengerparti oázis", "Ipari kikötő", "Pálmaligetek"]
+    },
+    {
+      "id": "medenine-cities-v2",
+      "description": "Dél-Tunézia kereskedelmi csomópontja, ismertebb a hagyományos 'ghorfa' tárolóépületeiről.",
+      "facts": ["Déli kereskedelmi központ", "Ghorfa épületek", "Berber hagyományok"]
+    },
+    {
+      "id": "houmt-souk-cities-v2",
+      "description": "Dzserba szigetének fővárosa, történelmi piacairól és kézműves központjairól nevezetes.",
+      "facts": ["Dzserba fővárosa", "Hagyományos piac", "Kézművesség"]
+    },
+    {
+      "id": "midoun-cities-v2",
+      "description": "Dzserba második legnagyobb városa, népszerű turisztikai célpont és kulturális központ.",
+      "facts": ["Dzserba szigete", "Turisztikai város", "Kulturális központ"]
+    },
+    {
+      "id": "hammamet-cities-v2",
+      "description": "Tunézia egyik leghíresebb üdülővárosa, fehér homokos partjairól és citromligeteiről ismert.",
+      "facts": ["Üdülőváros", "Fehér homokos part", "Citromligetek"]
+    },
+    {
+      "id": "sbeitla-cities-v2",
+      "description": "A híres római kori Szufetula városának romjai közelében fekvő település.",
+      "facts": ["Római romok", "Szufetula", "Központi régió"]
+    },
+    {
+      "id": "carthage-cities-v2",
+      "description": "Az ókori Karthágó történelmi központja, ma a főváros előkelő kerülete és múzeumi helyszín.",
+      "facts": ["Ókori világbirodalom", "UNESCO helyszín", "Múzeumi város"]
+    },
+    {
+      "id": "sidi-bou-said-cities-v2",
+      "description": "Festői kék-fehér falu a tenger feletti dombon, művészek és turisták kedvelt helye.",
+      "facts": ["Festői kék-fehér falu", "Tengerparti domb", "Művésztelep"]
+    }
+  ]
+}

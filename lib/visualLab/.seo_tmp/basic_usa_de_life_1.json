@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-diego-zoo-life-v2",
+      "description": "Der San Diego Zoo ist weltweit bekannt für seinen Einsatz im Artenschutz und seine weitläufigen Gehege in einer üppigen Gartenlandschaft.",
+      "facts": ["Artenschutz", "San Diego", "Große Gehege", "Botanischer Garten"]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "Yellowstone war der erste Nationalpark der Welt und ist berühmt für seine geothermischen Quellen, wie den Old Faithful Geysir, sowie für seine wilden Tiere.",
+      "facts": ["Erster Nationalpark", "Old Faithful", "Geothermie", "Wilde Tiere"]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "Walt Disney World bei Orlando ist das größte und meistbesuchte Freizeitkomplex der Welt und bietet zahlreiche Themenparks und Attraktionen.",
+      "facts": ["Größter Freizeitpark", "In Florida", "Themenwelten", "Familienziel"]
+    },
+    {
+      "id": "everglades-national-park-life-v2",
+      "description": "Die Everglades in Florida sind ein riesiges Feuchtgebiet und UNESCO-Welterbe, das für seine einzigartige Tierwelt, insbesondere Alligatoren, bekannt ist.",
+      "facts": ["Feuchtgebiet", "Florida", "UNESCO-Erbe", "Alligatoren"]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "description": "Der Central Park Zoo liegt inmitten von Manhattan und ist ein beliebtes Ziel für Familien, die eine kleine Auszeit vom Großstadttrubel suchen.",
+      "facts": ["In Manhattan", "Central Park", "Familienziel", "Städtischer Zoo"]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "Denali National Park in Alaska beheimatet den höchsten Berg Nordamerikas und bietet eine unberührte Wildnis mit Elchen, Bären und Wölfen.",
+      "facts": ["Alaska", "Höchster Berg", "Unberührte Natur", "Wildlife"]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "Der Glacier National Park in Montana ist für seine atemberaubenden Gletscher, Bergseen und die vielfältigen Wandermöglichkeiten bekannt.",
+      "facts": ["Montana", "Gletscher", "Bergseen", "Wanderparadies"]
+    },
+    {
+      "id": "hersheypark-life-v2",
+      "description": "Hersheypark in Pennsylvania wurde ursprünglich von Milton Hershey für seine Mitarbeiter gegründet und hat sich zu einem beliebten Freizeitpark entwickelt.",
+      "facts": ["Pennsylvania", "Freizeitpark", "Hershey-Schokolade", "Geschichte"]
+    },
+    {
+      "id": "olympic-national-park-life-v2",
+      "description": "Der Olympic National Park im Bundesstaat Washington bietet eine erstaunliche Vielfalt, von gemäßigten Regenwäldern bis hin zu zerklüfteten Küstenabschnitten.",
+      "facts": ["Washington State", "Regenwald", "Pazifikküste", "Ökologische Vielfalt"]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "Das Shedd Aquarium in Chicago am Michigansee beherbergt tausende Meerestiere und ist eines der größten Aquarien der Welt.",
+      "facts": ["In Chicago", "Michigansee", "Großes Aquarium", "Meerestiere"]
+    }
+  ]
+}

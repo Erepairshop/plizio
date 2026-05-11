@@ -1,0 +1,60 @@
+{
+  "lang": "de",
+  "country": "Benin",
+  "files": [
+    "lib/visualLab/data/poiExtraBeninLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraBeninLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "stade-amitie-cotonou-landmarks-v2",
+      "description": "Das Stade de l'Amitié in Cotonou ist das größte Stadion Benins und ein zentraler Ort für nationale Sport- und Kulturereignisse.",
+      "facts": ["Sitzplatzkapazität von 20.000", "Heimstätte der Nationalmannschaft", "Erbaut im Jahr 1982", "Multifunktionsarena"]
+    },
+    {
+      "id": "place-etoile-rouge-cotonou-landmarks-v2",
+      "description": "Der Place de l'Étoile Rouge ist ein markanter Platz in Cotonou, der an die marxistisch-leninistische Vergangenheit des Landes erinnert.",
+      "facts": ["Zentrum von Cotonou", "Roter Stern als Monument", "Wichtiger Verkehrsknotenpunkt", "Symbol der Revolution"]
+    },
+    {
+      "id": "phare-cotonou-landmarks-v2",
+      "description": "Der Leuchtturm von Cotonou dient der Sicherheit der Schifffahrt im geschäftigen Hafen der wirtschaftlichen Hauptstadt Benins.",
+      "facts": ["Erbaut im Jahr 1885", "Höhe von 25 Metern", "In der Nähe des Hafens", "Wichtiges Navigationszeichen"]
+    },
+    {
+      "id": "aeroport-cadjehoun-cotonou-landmarks-v2",
+      "description": "Der Flughafen Cadjehoun ist das wichtigste internationale Tor Benins und verbindet das Land mit dem Rest der Welt.",
+      "facts": ["Internationaler Flughafen", "IATA-Code: COO", "Befindet sich in Cotonou", "Hauptdrehkreuz von Benin"]
+    },
+    {
+      "id": "songhai-center-life-v2",
+      "description": "Das Songhai Center in Porto-Novo ist ein Vorzeigeprojekt für nachhaltige Landwirtschaft und integrierte landwirtschaftliche Produktion.",
+      "facts": ["Gegründet im Jahr 1985", "Zentrum für Agroökologie", "Ausbildung von Landwirten", "Standort in Porto-Novo"]
+    },
+    {
+      "id": "allada-pineapple-fields-life-v2",
+      "description": "Die Ananasfelder von Allada sind berühmt für den Anbau der süßen Sorte 'Pain de Sucre', die ein wichtiges Exportgut ist.",
+      "facts": ["Zentrum des Ananasanbaus", "Export nach Europa", "Anbau der Sorte Pain de Sucre", "Wirtschaftsmotor der Region"]
+    },
+    {
+      "id": "mono-river-hippo-zone-life-v2",
+      "description": "Die Flusspferdzonen am Mono-Fluss bieten die seltene Gelegenheit, diese majestätischen Tiere in ihrem natürlichen Lebensraum zu beobachten.",
+      "facts": ["Natürliches Habitat am Mono", "Geführte Bootstouren", "Artenschutzprojekt", "Beobachtung von Flusspferden"]
+    },
+    {
+      "id": "porto-novo-botanical-garden-life-v2",
+      "description": "Der Botanische Garten von Porto-Novo ist eine grüne Oase im Stadtzentrum und beherbergt eine Vielzahl lokaler Baum- und Pflanzenarten.",
+      "facts": ["Gegründet im Jahr 1895", "Zentrum für Heilpflanzen", "Oase der Ruhe", "Ehemalige Kolonialgärtnerei"]
+    },
+    {
+      "id": "festi-parc-cotonou-life-v2",
+      "description": "Der Festi Parc in Cotonou ist ein beliebter Freizeitpark, der besonders für Familien mit Kindern ein breites Unterhaltungsangebot bereithält.",
+      "facts": ["Vergnügungspark in Cotonou", "Attraktionen für Kinder", "Ort für Familienausflüge", "Moderne Freizeitanlage"]
+    },
+    {
+      "id": "tanguieta-baobab-forest-life-v2",
+      "description": "Der Affenbrotbaumwald bei Tanguiéta beeindruckt durch seine jahrhundertealten Riesenbäume, die tief in der lokalen Kultur verwurzelt sind.",
+      "facts": ["Standort im Norden Benins", "Riesige Affenbrotbäume", "Kulturelle Bedeutung", "Nahe dem Pendjari-Park"]
+    }
+  ]
+}

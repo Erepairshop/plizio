@@ -1,0 +1,385 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCapeverdeCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sao-pedro-cities-v2",
+      "descriptionAdvanced": {
+        "de": "São Pedro ist ein Küstendorf an der südwestlichen Küste der Insel São Vicente im kapverdischen Archipel. Die Siedlung liegt nur etwa 10 Kilometer südwestlich der Inselhauptstadt Mindelo und wird geografisch durch eine weite Bucht definiert, die einen langen, durchgehenden Strand aus goldenem Vulkansand aufweist. Das Dorf grenzt unmittelbar an den internationalen Flughafen Cesária Évora, der als primäres Tor zur Insel fungiert. Historisch und wirtschaftlich ist die lokale Bevölkerung massiv von der traditionellen handwerklichen Fischerei abhängig; farbenfroh bemalte Holzboote operieren täglich direkt vom Sandstrand aus. In den letzten Jahrzehnten haben die spezifischen meteorologischen Bedingungen der Bucht, die durch konstante und extrem starke Passatwinde gekennzeichnet sind, São Pedro in ein weltweit anerkanntes Ziel für Windsurfen und Speed-Windsurfen verwandelt, wo regelmäßig internationale Wettbewerbe ausgetragen werden. Die umliegende Landschaft ist extrem arid und karg, was typisch für die Insel ist, und bildet einen starken Kontrast zu den tiefblauen Wassern des Atlantiks. Trotz der massiven Nähe zum modernen Flughafen bewahrt das Dorf eine sehr traditionelle, ruhige Atmosphäre und eine einfache architektonische Struktur.",
+        "hu": "São Pedro egy tengerparti falu a Zöld-foki Köztársaság São Vicente szigetének délnyugati partján. A település mindössze 10 kilométerre délnyugatra fekszik a sziget fővárosától, Mindelótól, és földrajzilag egy széles öböl határozza meg, amely egy hosszú, összefüggő, arany vulkáni homokból álló stranddal rendelkezik. A falu közvetlenül a Cesária Évora Nemzetközi Repülőtér mellett található, amely a sziget elsődleges kapujaként szolgál. Történelmileg és gazdaságilag a helyi lakosság masszívan a hagyományos kézműves halászatra támaszkodik; a színesre festett fahajók naponta közvetlenül a homokos partról indulnak. Az elmúlt évtizedekben az öböl sajátos meteorológiai viszonyai, amelyeket állandó és rendkívül erős passzátszelek jellemeznek, São Pedrót a szörfözés és a gyorsasági szörfözés világszerte elismert célpontjává változtatták, ahol rendszeresen rendeznek nemzetközi versenyeket. A környező táj rendkívül száraz és kietlen, ami jellemző a szigetre, és éles ellentétben áll az Atlanti-óceán mélykék vizével. A modern repülőtér masszív közelsége ellenére a falu megőrizte nagyon hagyományos, csendes légkörét és egyszerű építészeti szerkezetét.",
+        "ro": "São Pedro este un sat de coastă situat pe țărmul de sud-vest al insulei São Vicente din arhipelagul Capului Verde. Localitatea se află la doar aproximativ 10 kilometri sud-vest de capitala insulei, Mindelo, și este definită geografic de un golf larg care prezintă o plajă lungă, continuă, din nisip vulcanic auriu. Satul este adiacent direct Aeroportului Internațional Cesária Évora, care servește drept poartă principală a insulei. Din punct de vedere istoric și economic, populația locală este dependentă masiv de pescuitul artizanal tradițional; bărcile de lemn vopsite în culori vii operează zilnic direct de pe plaja de nisip. În ultimele decenii, condițiile meteorologice specifice ale golfului, caracterizate prin vânturi alizee constante și extrem de puternice, au transformat São Pedro într-o destinație recunoscută la nivel mondial pentru windsurfing și windsurfing de viteză, găzduind frecvent competiții internaționale. Peisajul înconjurător este extrem de arid și sterp, tipic insulei, contrastând puternic cu apele albastre adânci ale Atlanticului. În ciuda proximității masive de aeroportul modern, satul păstrează o atmosferă foarte tradițională, liniștită și o structură arhitecturală simplă.",
+        "en": "São Pedro is a coastal village situated on the southwestern shore of São Vicente island in the Cape Verde archipelago. Located merely 10 kilometers southwest of the island's capital, Mindelo, the settlement is geographically defined by a wide, expansive bay featuring a long stretch of golden volcanic sand. The village is directly adjacent to the Cesária Évora International Airport, which serves as the island's primary gateway. Historically and economically, the local population is heavily reliant on traditional artisanal fishing, with brightly painted wooden boats operating daily from the beach. In recent decades, the specific meteorological conditions of the bay, characterized by constant and extremely strong trade winds, have transformed São Pedro into a globally recognized destination for windsurfing and speed windsurfing, frequently hosting international competitions. The surrounding landscape is extremely arid and barren, typical of the island, contrasting sharply with the deep blue waters of the Atlantic. Despite the immediate physical proximity to the modern airport, the village retains a deeply traditional, quiet atmosphere."
+      },
+      "factsAdvanced": {
+        "de": [
+          "São Pedro liegt an der trockenen Südwestküste der Insel São Vicente.",
+          "Das Dorf grenzt direkt an den internationalen Flughafen Cesária Évora.",
+          "Die Bucht zeichnet sich durch einen langen, durchgehenden Sandstrand aus.",
+          "Starke Passatwinde machen den Ort zu einem globalen Hotspot für Windsurfer.",
+          "Die handwerkliche Küstenfischerei ist das wirtschaftliche Rückgrat des Dorfes.",
+          "Die Architektur des Ortes ist simpel und die Atmosphäre extrem traditionell.",
+          "Das trockene Klima verhindert fast jegliche Art von Landwirtschaft."
+        ],
+        "hu": [
+          "São Pedro a São Vicente sziget száraz délnyugati partján fekszik.",
+          "A falu közvetlenül a Cesária Évora Nemzetközi Repülőtér mellett található.",
+          "Az öblöt egy hosszú, egybefüggő homokos tengerpart jellemzi.",
+          "Az erős passzátszelek a szörfösök globális központjává teszik a helyet.",
+          "A kézműves parti halászat a falu gazdasági gerincét alkotja.",
+          "A település építészete egyszerű, a légkör pedig rendkívül hagyományőrző.",
+          "A száraz éghajlat szinte mindenféle mezőgazdaságot megakadályoz."
+        ],
+        "ro": [
+          "São Pedro este situat pe coasta uscată de sud-vest a insulei São Vicente.",
+          "Satul se învecinează direct cu Aeroportul Internațional Cesária Évora.",
+          "Golful se caracterizează printr-o plajă de nisip lungă și continuă.",
+          "Vânturile alizee puternice fac din loc un hotspot global pentru windsurferi.",
+          "Pescuitul artizanal de coastă este coloana vertebrală economică a satului.",
+          "Arhitectura locului este simplă, iar atmosfera este extrem de tradițională.",
+          "Clima aridă previne aproape orice tip de agricultură."
+        ],
+        "en": [
+          "São Pedro is located on the arid southwestern coast of São Vicente island.",
+          "The village directly borders the modern Cesária Évora International Airport.",
+          "The bay features a massive, continuous stretch of golden sandy beach.",
+          "Extremely strong trade winds transform the bay into a global windsurfing hotspot.",
+          "Traditional artisanal coastal fishing serves as the absolute economic backbone of the village.",
+          "The local architecture is highly basic and maintains a deeply traditional atmosphere.",
+          "The severe arid climate strictly prevents almost any form of local agriculture."
+        ]
+      }
+    },
+    {
+      "id": "baia-das-gatas-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Baía das Gatas ist eine markante Küstensiedlung an der Nordostküste der Insel São Vicente in Kap Verde, etwa 12 Kilometer östlich von Mindelo gelegen. Das Dorf ist geografisch nach seiner großen, natürlichen Bucht benannt, die physisch vom offenen Atlantik durch eine massive natürliche Barriere aus Vulkangestein getrennt ist. Diese geologische Formation schafft eine stark geschützte, flache Lagune mit ruhigem, warmem Wasser, die wie ein gigantisches natürliches Schwimmbecken fungiert. Die Siedlung ist weltweit dafür bekannt, das Festival de Baía das Gatas zu veranstalten, ein jährliches internationales Musikfestival, das 1984 gegründet wurde. Dieses Festival findet jeden August direkt am Strand statt und verwandelt das ansonsten sehr ruhige Dorf drastisch, indem es Zehntausende von lokalen und internationalen Besuchern anzieht. Außerhalb der intensiven Festivalsaison fungiert Baía das Gatas in erster Linie als ruhiges Wohngebiet und ein hochgradig beliebter Wochenendausflugsort für die wohlhabenderen Einwohner von Mindelo. Das umliegende Terrain ist stark arid und frei von jeglicher nennenswerten Vegetation, dominiert von felsigen, dunklen vulkanischen Ebenen. Die Siedlung selbst besteht überwiegend aus Wochenendhäusern, die während der Arbeitswoche fast vollständig leer stehen.",
+        "hu": "Baía das Gatas egy markáns tengerparti település a Zöld-foki Köztársaság São Vicente szigetének északkeleti partján, körülbelül 12 kilométerre keletre Mindelótól. A falu földrajzilag a nagy, természetes öbléről kapta a nevét, amelyet fizikailag egy vulkáni kőzetből álló masszív természetes gát választ el a nyílt Atlanti-óceántól. Ez a geológiai képződmény egy erősen védett, sekély, nyugodt és meleg vizű lagúnát hoz létre, amely úgy funkcionál, mint egy gigantikus természetes úszómedence. A település világszerte ismert a Festival de Baía das Gatas nevű, 1984-ben alapított éves nemzetközi zenei fesztivál megrendezéséről. Ez a fesztivál minden augusztusban közvetlenül a tengerparton zajlik, és drasztikusan átalakítja az egyébként nagyon csendes falut, tízezernyi helyi és nemzetközi látogatót vonzva. Az intenzív fesztiválszezonon kívül Baía das Gatas elsősorban csendes lakóövezetként és a mindelói tehetősebb lakosok rendkívül népszerű hétvégi menedékhelyeként funkcionál. A környező terep erősen száraz és minden jelentősebb növényzettől mentes, a sziklás, sötét vulkáni síkságok uralják. Maga a település túlnyomórészt hétvégi házakból áll, amelyek a munkahét során szinte teljesen üresen állnak.",
+        "ro": "Baía das Gatas este o așezare de coastă proeminentă pe coasta de nord-est a insulei São Vicente din Capul Verde, situată la aproximativ 12 kilometri est de Mindelo. Satul este numit geografic după golful său natural mare, care este separat fizic de Oceanul Atlantic deschis de o barieră naturală masivă de rocă vulcanică. Această formațiune geologică creează o lagună puternic protejată, puțin adâncă, cu ape calme și calde, care acționează ca o piscină naturală gigantică. Așezarea este recunoscută la nivel mondial pentru găzduirea Festivalului de Baía das Gatas, un festival internațional anual de muzică înființat în 1984. Desfășurându-se în fiecare lună august chiar pe plajă, festivalul transformă drastic satul altfel foarte liniștit, atrăgând zeci de mii de vizitatori locali și internaționali. În afara sezonului intens de festival, Baía das Gatas funcționează în principal ca o zonă rezidențială liniștită și o retragere de weekend foarte populară pentru locuitorii mai înstăriți din Mindelo. Terenul înconjurător este sever arid și lipsit de orice vegetație semnificativă, fiind dominat de câmpii vulcanice stâncoase și întunecate. Așezarea în sine constă predominant din case de weekend, care stau aproape complet goale în timpul săptămânii de lucru.",
+        "en": "Baía das Gatas is a prominent coastal settlement located on the northeastern coast of São Vicente island in Cape Verde, approximately 12 kilometers explicitly east of Mindelo. The village is geographically named after its large, natural bay, which is physically separated from the open Atlantic Ocean by a massive natural barrier of dense volcanic rock. This geological formation aggressively creates a highly sheltered, shallow lagoon with calm, warm waters, acting essentially as a massive natural swimming pool. The settlement is globally recognized for hosting the Festival de Baía das Gatas, an annual international music festival formally established in 1984. Taking place every August directly on the beach, the massive festival drastically transforms the otherwise quiet village, aggressively drawing tens of thousands of local and international visitors. Outside the intense festival season, Baía das Gatas functions primarily as a quiet residential area and a highly popular weekend retreat for the affluent inhabitants of Mindelo. The surrounding terrain is severely arid and completely devoid of significant vegetation, dominated massively by rocky volcanic plains. The urban layout largely consists of second homes that remain mostly empty during the week."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Ortschaft liegt an der kargen Nordostküste der Insel São Vicente.",
+          "Eine vulkanische Felsbarriere schützt die Bucht vor dem offenen Atlantik.",
+          "Die geschützte Lagune fungiert als gigantisches natürliches Schwimmbecken.",
+          "Das 1984 gegründete Musikfestival zieht im August Zehntausende Besucher an.",
+          "Außerhalb des Festivals ist der Ort eine extrem ruhige Wochenendsiedlung.",
+          "Das Umland ist eine flache, dunkle und extrem trockene vulkanische Ebene.",
+          "Eine moderne Straßenverbindung führt direkt in die 12 km entfernte Stadt Mindelo."
+        ],
+        "hu": [
+          "A település São Vicente szigetének kietlen északkeleti partján található.",
+          "Egy vulkáni sziklagát védi az öblöt a nyílt Atlanti-óceántól.",
+          "A védett lagúna gigantikus természetes úszómedenceként funkcionál.",
+          "Az 1984-ben alapított zenei fesztivál augusztusban tízezreket vonz.",
+          "A fesztiválon kívül a hely egy rendkívül csendes hétvégi üdülőtelepülés.",
+          "A környező terület egy lapos, sötét és rendkívül száraz vulkáni síkság.",
+          "Modern közút vezet közvetlenül a 12 km-re lévő Mindelo városába."
+        ],
+        "ro": [
+          "Așezarea este situată pe coasta de nord-est aridă a insulei São Vicente.",
+          "O barieră de stâncă vulcanică protejează golful de Atlanticul deschis.",
+          "Laguna protejată funcționează ca o piscină naturală gigantică.",
+          "Festivalul de muzică fondat în 1984 atrage zeci de mii de vizitatori în luna august.",
+          "În afara festivalului, locul este o așezare de weekend extrem de liniștită.",
+          "Zona înconjurătoare este o câmpie vulcanică plată, întunecată și extrem de uscată.",
+          "O conexiune rutieră modernă duce direct în orașul Mindelo, aflat la 12 km distanță."
+        ],
+        "en": [
+          "The settlement is safely located on the barren northeastern coast of São Vicente island.",
+          "A massive natural volcanic rock barrier strictly protects the bay from the open Atlantic.",
+          "The highly sheltered shallow lagoon acts essentially as a gigantic natural swimming pool.",
+          "The massive August music festival, established in 1984, aggressively draws tens of thousands of visitors.",
+          "Outside of festival week, the settlement functions as an extremely quiet weekend retreat.",
+          "The surrounding landscape is heavily dominated by a flat, dark, and severely arid volcanic plain.",
+          "A paved modern highway physically connects the village directly to Mindelo, 12 kilometers away."
+        ]
+      }
+    },
+    {
+      "id": "espargos-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Espargos ist die administrative und kommerzielle Hauptstadt der Insel Sal in Kap Verde, exakt im geografischen Zentrum der Insel gelegen. Die Gründung und rasant expansionistische Entwicklung der Stadt sind extrem eng mit dem Bau des Amílcar Cabral International Airport verbunden, der ursprünglich 1939 von der italienischen Regierung unter Mussolini als strategischer Tankstopp für Transatlantikflüge errichtet wurde. Die Stadt leitet ihren Namen vom wilden Spargel (espargo) ab, der natürlicherweise in den sandigen, extrem ariden Böden der Region wächst. Visuell wird Espargos vom Monte Curral dominiert, einem markanten, steil aufragenden vulkanischen Hügel, der direkt im Zentrum der Stadt aufragt und von einer wichtigen Radarstation zur Flugsicherung sowie Telekommunikationstürmen gekrönt ist. Als primäres wirtschaftliches Zentrum der Insel abseits der Küste beherbergt die Stadt die Gemeindeverwaltung, die wichtigsten Banken, Logistikzentren und ein lebhaftes städtisches Handelszentrum. Das Stadtbild weist eine Mischung aus historischen Gebäuden im Kolonialstil und extrem schnell wachsenden modernen Wohnvierteln auf, die oft hastig aus Betonblöcken errichtet wurden, um den Zuzug von Arbeitern für die Tourismusindustrie im Süden der Insel zu bewältigen. Die Atmosphäre hier ist zutiefst authentisch kapverdisch, geprägt von lokalen Märkten und im extremen Kontrast zu den reinen Touristenorten.",
+        "hu": "Espargos a Zöld-foki Köztársaság Sal szigetének adminisztratív és kereskedelmi fővárosa, amely pontosan a sziget földrajzi középpontjában helyezkedik el. A város alapítása és rohamos terjeszkedése rendkívül szorosan kötődik az Amílcar Cabral Nemzetközi Repülőtér megépítéséhez, amelyet eredetileg 1939-ben az olasz kormány hozott létre stratégiai tankolóállomásként a transzatlanti járatok számára. A város a nevét a vadspárgáról (espargo) kapta, amely természetes módon nő a régió homokos, rendkívül száraz talaján. Vizuálisan Espargost a Monte Curral uralja, egy markáns, meredeken emelkedő vulkáni domb, amely közvetlenül a város központjában magasodik, és amelynek tetején egy fontos légiforgalmi irányító radar-állomás és telekommunikációs tornyok találhatók. A sziget tengerparttól távol eső elsődleges gazdasági központjaként a város ad otthont a helyi önkormányzatnak, a főbb bankoknak, a logisztikai központoknak és egy élénk városi kereskedelmi központnak. A városkép a történelmi, gyarmati stílusú épületek és a rendkívül gyorsan növekvő, gyakran sietve, betontömbökből emelt modern lakónegyedek keverékét mutatja; utóbbiak a sziget déli részének turisztikai iparába érkező munkások beáramlását hivatottak kezelni. A légkör itt mélyen autentikus zöld-foki, helyi piacokkal jellemezhető, és éles ellentétben áll a tiszta turistaközpontokkal.",
+        "ro": "Espargos este capitala administrativă și comercială a insulei Sal din Capul Verde, situată exact în centrul geografic al insulei. Fundația și expansiunea rapidă a orașului sunt strâns legate de construcția Aeroportului Internațional Amílcar Cabral, care a fost construit inițial în 1939 de guvernul italian sub Mussolini ca o oprire strategică de realimentare pentru zborurile transatlantice. Orașul își trage numele de la sparanghelul sălbatic (espargo) care crește în mod natural în solurile nisipoase și extrem de aride ale regiunii. Vizual, Espargos este dominat de Monte Curral, un deal vulcanic abrupt și proeminent, care se ridică direct în centrul orașului, încununat de o importantă stație radar pentru controlul traficului aerian și turnuri de telecomunicații. Fiind centrul economic principal al insulei, departe de coastă, orașul găzduiește guvernul municipal, băncile majore, centrele logistice și un centru comercial urban plin de viață. Peisajul urban prezintă un amestec de clădiri istorice în stil colonial și cartiere rezidențiale moderne care cresc extrem de rapid, adesea construite în grabă din blocuri de beton pentru a face față afluxului de lucrători pentru industria turismului din sudul insulei. Atmosfera de aici este profund autentic capverdiană, caracterizată de piețele locale, contrastând extrem cu stațiunile pur turistice.",
+        "en": "Espargos is the highly bustling administrative and commercial capital of Sal island in Cape Verde, situated precisely in the geographic center of the island. The city's foundation and rapid expansionist development are extremely intimately tied to the massive construction of the Amílcar Cabral International Airport, which was originally built by the Italian government in 1939 as a highly strategic refueling stop for transatlantic flights. The city explicitly derives its name from the wild asparagus plant (espargo) that naturally grows in the sandy, extremely arid soils of the surrounding region. Visually, Espargos is massively dominated by Monte Curral, a prominent, steep-sided volcanic hill rising directly in the physical center of the city, topped completely by a critical air traffic control radar station and telecommunications towers. As the island's primary economic hub located away from the coast, the city securely houses the municipal government, major banks, critical logistics centers, and a highly active commercial market district. The urban layout features a fascinating mix of historic colonial-style buildings and extremely rapidly expanding modern residential districts, frequently constructed hastily from concrete blocks to support the massive influx of migrant workers driving the tourism industry in the south. The atmosphere remains deeply authentic, sharply contrasting the tourist resorts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Stadt ist die offizielle administrative Hauptstadt der stark frequentierten Insel Sal.",
+          "Espargos wuchs primär um den 1939 von Italienern gebauten internationalen Flughafen.",
+          "Der Name der Stadt stammt vom wilden Spargel, der in dieser trockenen Region wächst.",
+          "Der markante Monte Curral mitten in der Stadt wird von Radaranlagen dominiert.",
+          "Espargos beherbergt Logistikzentren und Banken abseits der reinen Küsten-Touristenorte.",
+          "Die Wohnviertel expandieren rasch, um Arbeiter der boomenden Tourismusindustrie aufzunehmen.",
+          "Die Architektur besteht aus einem Mix von alten Kolonialbauten und hastigen Betonstrukturen."
+        ],
+        "hu": [
+          "A város a nagy forgalmú Sal sziget hivatalos közigazgatási fővárosa.",
+          "Espargos elsősorban az olaszok által 1939-ben épített nemzetközi repülőtér körül nőtt ki.",
+          "A város neve a vadspárgáról származik, amely ebben a száraz régióban nő.",
+          "A város közepén álló markáns Monte Curralt masszív radarlétesítmények uralják.",
+          "Espargos a tisztán tengerparti turistaközpontoktól távol eső logisztikai központoknak és bankoknak ad otthont.",
+          "A lakónegyedek gyorsan terjeszkednek, hogy befogadják a virágzó turisztikai ipar munkásait.",
+          "Az építészet régi gyarmati épületek és sietve felhúzott betonszerkezetek keverékéből áll."
+        ],
+        "ro": [
+          "Orașul este capitala administrativă oficială a insulei Sal, foarte frecventată.",
+          "Espargos a crescut în principal în jurul aeroportului internațional construit de italieni în 1939.",
+          "Numele orașului provine de la sparanghelul sălbatic care crește în această regiune aridă.",
+          "Proeminentul Monte Curral din mijlocul orașului este dominat de instalații radar.",
+          "Espargos găzduiește centre logistice și bănci departe de stațiunile pur turistice de coastă.",
+          "Cartierele rezidențiale se extind rapid pentru a găzdui lucrătorii din industria turismului în plină expansiune.",
+          "Arhitectura constă dintr-un amestec de clădiri coloniale vechi și structuri rapide din beton."
+        ],
+        "en": [
+          "The city operates officially as the administrative capital of the highly trafficked island of Sal.",
+          "Espargos physically expanded primarily around the international airport built by Italians in 1939.",
+          "The city's name derives directly from the wild asparagus that actively grows in this highly arid region.",
+          "The prominent Monte Curral in the center of the city is completely dominated by aviation radar installations.",
+          "Espargos securely houses major logistics centers and banks completely away from the coastal tourist resorts.",
+          "Residential neighborhoods are expanding aggressively to house workers fueling the booming southern tourism industry.",
+          "The urban architecture features a mix of historic colonial buildings and extremely rapidly constructed concrete blocks."
+        ]
+      }
+    },
+    {
+      "id": "santa-maria-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Santa Maria ist die südlichste Stadt auf der Insel Sal und fungiert als das absolute wirtschaftliche Epizentrum der Tourismusindustrie in Kap Verde. Ursprünglich im Jahr 1830 gegründet, wuchs die Siedlung zunächst als ein massives industrielles Zentrum für die Gewinnung und den Export von Meersalz, ein extrem lukrativer Handel, der die lokale Wirtschaft über Jahrzehnte hinweg antrieb. Das historische Wiegehaus (Weighhouse) und der ikonische Holzsteg, der als Pontão bekannt ist, bleiben als physische Zeugnisse dieser Ära erhalten. Heute dient der Pontão als der zentrale Treffpunkt der Stadt, an dem lokale Fischer täglich ihren Fang direkt über dem türkisfarbenen Wasser reinigen und verkaufen. Geografisch wird die Stadt von ihrem massiven, acht Kilometer langen Strand aus feinem weißem Sand definiert, der an extrem ruhige, kristallklare atlantische Gewässer grenzt. Die lokale Wirtschaft hat sich massiv und vollständig von der Salzproduktion auf das Gastgewerbe verlagert; gewaltige Resortkomplexe, Luxushotels und Restaurants säumen heute die gesamte Küstenlinie. Die stetigen, hochgradig zuverlässigen Passatwinde machen die Gewässer vor Santa Maria zudem zu einem der weltweit wichtigsten Knotenpunkte für das Kitesurfen und Windsurfen. Das Stadtzentrum ist dicht bebaut, stark kommerzialisiert und bietet ein extrem pulsierendes Nachtleben, das stark auf den internationalen Massentourismus ausgerichtet ist.",
+        "hu": "Santa Maria a Sal sziget legdélebbi városa, és a Zöld-foki Köztársaság turisztikai iparának abszolút gazdasági epicentrumaként funkcionál. Az eredetileg 1830-ban alapított település kezdetben a tengeri só kitermelésének és exportjának masszív ipari központjaként nőtt nagyra; ez egy rendkívül jövedelmező kereskedelem volt, amely évtizedeken át hajtotta a helyi gazdaságot. A történelmi mázsaház (Weighhouse) és az ikonikus fa móló, az úgynevezett Pontão e korszak fizikai bizonyítékaiként maradtak fenn. Ma a Pontão a város központi találkozóhelyeként szolgál, ahol a helyi halászok nap mint nap közvetlenül a türkizkék víz felett tisztítják és árulják fogásaikat. Földrajzilag a várost a masszív, nyolc kilométer hosszú, finom fehér homokos strandja határozza meg, amely rendkívül nyugodt, kristálytiszta atlanti vizekkel határos. A helyi gazdaság tömegesen és teljesen átállt a sótermelésről a vendéglátásra; ma gigantikus üdülőkomplexumok, luxusszállodák és éttermek szegélyezik a teljes partvonalat. Az állandó, rendkívül megbízható passzátszelek emellett Santa Maria vizeit a kiteszörfözés és a windszörfözés egyik legfontosabb globális csomópontjává teszik. A városközpont sűrűn beépített, erősen kommercializált, és rendkívül lüktető éjszakai életet kínál, amely erősen a nemzetközi tömegturizmusra irányul.",
+        "ro": "Santa Maria este cel mai sudic oraș de pe insula Sal și funcționează ca epicentru economic absolut al industriei turismului din Capul Verde. Fondată inițial în 1830, așezarea a crescut mai întâi ca un centru industrial masiv pentru extracția și exportul de sare de mare, un comerț extrem de lucrativ care a impulsionat economia locală timp de zeci de ani. Casa istorică de cântărire (Weighhouse) și iconicul debarcader din lemn, cunoscut sub numele de Pontão, rămân ca mărturii fizice ale acestei ere. Astăzi, Pontão servește ca punct central de întâlnire al orașului, unde pescarii locali curăță și își vând captura zilnic direct deasupra apelor turcoaz. Din punct de vedere geografic, orașul este definit de plaja sa masivă, lungă de opt kilometri, de nisip alb fin, care mărginește ape atlantice extrem de calme și limpezi. Economia locală s-a reorientat masiv și complet de la producția de sare către ospitalitate; complexe uriașe de resorturi, hoteluri de lux și restaurante se aliniază astăzi pe întreaga coastă. Vânturile alizee constante și extrem de fiabile fac, de asemenea, ca apele din largul Santa Maria să fie unul dintre cele mai importante noduri din lume pentru kitesurfing și windsurfing. Centrul orașului este dens construit, puternic comercializat și oferă o viață de noapte extrem de vibrantă, axată puternic pe turismul internațional de masă.",
+        "en": "Santa Maria is the southernmost city on the island of Sal and functions aggressively as the absolute economic epicenter of the massive tourism industry in Cape Verde. Originally founded in 1830, the settlement initially grew as a massive industrial center for the extraction and lucrative export of sea salt, a highly profitable trade that forcefully drove the local economy for decades. The historic weighhouse and the highly iconic wooden pier, known globally as the Pontão, remain fully preserved as physical testaments to this bygone era. Today, the Pontão actively serves as the central focal point of the city, where local fishermen clean and successfully sell their daily catch directly over the turquoise water. Geographically, the city is strictly defined by its massive, eight-kilometer-long stretch of exceptionally fine white sand beach, which solidly borders extremely calm, crystal-clear Atlantic waters. The localized economy has aggressively and completely shifted from industrial salt production to commercial hospitality; gigantic resort complexes, luxury hotels, and tourist restaurants now entirely line the coastal strip. The steady, highly reliable trade winds make the waters off Santa Maria a massive international hub for competitive kitesurfing and windsurfing. The urban center is densely built, highly commercialized, and offers an extremely vibrant nightlife catered directly to international mass tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Santa Maria ist das absolute Epizentrum der stark wachsenden kapverdischen Tourismusindustrie.",
+          "Der Ort wurde 1830 ursprünglich als ein industrielles Zentrum für den Salzexport gegründet.",
+          "Der ikonische Holzsteg (Pontão) ist heute der zentrale Marktplatz der lokalen Fischer.",
+          "Ein massiver, acht Kilometer langer Sandstrand definiert die gesamte südliche Küstenlinie.",
+          "Die enorm starken Passatwinde machen den Ort zu einem globalen Mekka für Kitesurfer.",
+          "Luxushotels und gigantische All-Inclusive-Resorts dominieren heute die urbane Wirtschaft.",
+          "Das städtische Nachtleben ist extrem pulsierend und stark auf internationale Touristen ausgerichtet."
+        ],
+        "hu": [
+          "Santa Maria az erősen növekvő zöld-foki turisztikai ipar abszolút epicentruma.",
+          "A települést 1830-ban eredetileg a sóexport ipari központjaként alapították.",
+          "Az ikonikus fa móló (Pontão) ma a helyi halászok központi piactere.",
+          "Egy masszív, nyolc kilométer hosszú homokos strand határozza meg a teljes déli partvonalat.",
+          "A rendkívül erős passzátszelek a helyet a kiteszörfösök globális mekkájává teszik.",
+          "Ma luxusszállodák és gigantikus all-inclusive üdülőhelyek uralják a városi gazdaságot.",
+          "A városi éjszakai élet rendkívül lüktető, és erősen a nemzetközi turistákra épül."
+        ],
+        "ro": [
+          "Santa Maria este epicentrul absolut al industriei turismului din Capul Verde, aflată în plină expansiune.",
+          "Orașul a fost fondat inițial în 1830 ca un centru industrial pentru exportul de sare.",
+          "Debarcaderul iconic din lemn (Pontão) este astăzi piața centrală a pescarilor locali.",
+          "O plajă masivă de nisip lungă de opt kilometri definește întreaga coastă de sud.",
+          "Vânturile alizee extrem de puternice fac din acest loc o mecca globală pentru kitesurferi.",
+          "Hotelurile de lux și stațiunile gigantice all-inclusive domină astăzi economia urbană.",
+          "Viața de noapte urbană este extrem de vibrantă și este puternic axată pe turiștii internaționali."
+        ],
+        "en": [
+          "Santa Maria acts explicitly as the absolute epicenter of the booming Cape Verdean tourism industry.",
+          "The settlement was officially founded in 1830 primarily as an industrial center for sea salt export.",
+          "The highly iconic wooden pier (Pontão) actively serves as the central marketplace for local fishermen.",
+          "A massive, eight-kilometer-long sandy beach completely defines the entire southern coastline.",
+          "Extremely strong, reliable trade winds transform the area into a global mecca for kitesurfers.",
+          "Luxury hotels and gigantic all-inclusive resorts now absolutely dominate the local urban economy.",
+          "The urban nightlife is exceptionally vibrant and strictly catered toward international mass tourists."
+        ]
+      }
+    },
+    {
+      "id": "murdeira-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Murdeira ist eine relativ ruhige Küstensiedlung an der westlichen Küste der Insel Sal in Kap Verde, die sich geografisch fast exakt auf halbem Weg zwischen der Verwaltungshauptstadt Espargos im Landesinneren und dem stark frequentierten Touristenzentrum Santa Maria im Süden befindet. Die Siedlung erstreckt sich entlang der Ufer der Baía de Murdeira, einer massiven, weiten Bucht, die eine hochgradig bedeutende ökologische Funktion erfüllt. Diese Bucht ist offiziell als maritimes Naturschutzgebiet ausgewiesen, primär weil sie als absolut kritischer Nist- und Paarungsplatz für die stark bedrohten Unechten Karettschildkröten (Caretta caretta) sowie für zahlreiche Meeresvogelarten dient. Das Dorf selbst wurde ursprünglich in den späten 1990er Jahren als eine geplante Wohnanlage (Village) und Feriensiedlung für wohlhabendere Einheimische und europäische Auswanderer entwickelt. Im extremen Gegensatz zu Santa Maria gibt es hier keine massiven Hotelbunker, sondern hauptsächlich private Villen, Apartmentkomplexe und sehr ruhige Ferienhäuser. Die Kulisse des Dorfes wird von der kargen, extrem ariden vulkanischen Landschaft der Insel dominiert, wobei die markante Silhouette des Monte Leão – eines Vulkankegels, der an einen liegenden Löwen erinnert – das nördliche Ende der Bucht visuell abschirmt. Murdeira bietet ein hochgradig friedliches Umfeld, wobei die Wirtschaft fast vollständig auf immobiliengestützte Dienstleistungen und kleinen Tourismus fokussiert ist.",
+        "hu": "Murdeira egy viszonylag csendes tengerparti település a Zöld-foki Köztársaság Sal szigetének nyugati partján, amely földrajzilag majdnem pontosan félúton helyezkedik el a szárazföld belsejében fekvő adminisztratív főváros, Espargos és a déli, nagy forgalmú turisztikai központ, Santa Maria között. A település a Baía de Murdeira partján húzódik, amely egy masszív, széles öböl, és rendkívül fontos ökológiai funkciót tölt be. Ezt az öblöt hivatalosan tengeri természetvédelmi területté nyilvánították, elsősorban azért, mert abszolút kritikus fészkelő- és párzóhelyként szolgál az erősen veszélyeztetett álcserepesteknősök (Caretta caretta), valamint számos tengeri madárfaj számára. Magát a falut eredetileg az 1990-es évek végén egy tervezett lakóparkként (Village) és üdülőtelepülésként fejlesztették ki tehetősebb helyiek és európai kivándorlók számára. Santa Mariával éles ellentétben itt nincsenek masszív szállodakomplexumok, hanem főként magánvillák, apartmankomplexumok és nagyon csendes nyaralók találhatók. A falu hátterét a sziget kietlen, rendkívül száraz vulkanikus tája uralja, míg a Monte Leão markáns sziluettje – egy vulkáni kúp, amely egy fekvő oroszlánra emlékeztet – vizuálisan lezárja az öböl északi végét. Murdeira rendkívül békés környezetet kínál, ahol a gazdaság szinte teljes egészében az ingatlanokhoz kapcsolódó szolgáltatásokra és a kis léptékű turizmusra összpontosít.",
+        "ro": "Murdeira este o așezare de coastă relativ liniștită pe coasta de vest a insulei Sal din Capul Verde, situată geografic aproape exact la jumătatea distanței dintre capitala administrativă interioară Espargos și centrul turistic foarte frecventat Santa Maria din sud. Așezarea se întinde de-a lungul malurilor Baía de Murdeira, un golf masiv și larg care îndeplinește o funcție ecologică extrem de importantă. Acest golf este desemnat oficial ca rezervație naturală maritimă, în primul rând pentru că servește drept loc de cuibărit și împerechere absolut critic pentru broaștele țestoase Caretta caretta, care sunt puternic amenințate, precum și pentru numeroase specii de păsări marine. Satul în sine a fost dezvoltat inițial la sfârșitul anilor 1990 ca o comunitate rezidențială planificată (Village) și așezare de vacanță pentru localnici mai înstăriți și expatriați europeni. În contrast extrem cu Santa Maria, aici nu există buncăre hoteliere masive, ci în principal vile private, complexe de apartamente și case de vacanță foarte liniștite. Fundalul satului este dominat de peisajul vulcanic sterp, extrem de arid al insulei, cu silueta izbitoare a Monte Leão – un con vulcanic care amintește de un leu culcat – protejând vizual capătul nordic al golfului. Murdeira oferă un mediu extrem de pașnic, economia fiind concentrată aproape în întregime pe servicii imobiliare și turism la scară mică.",
+        "en": "Murdeira is a relatively quiet coastal settlement located strictly on the western shore of Sal island in Cape Verde, geographically positioned almost exactly halfway between the inland administrative capital of Espargos and the heavily trafficked southern tourist hub of Santa Maria. The settlement is systematically built along the shores of the Baía de Murdeira, a massive, broad ocean bay that serves a highly critical ecological function. This specific bay is officially designated as a heavily protected marine nature reserve, primarily because it acts as an absolutely vital nesting and mating ground for the endangered loggerhead sea turtles (Caretta caretta) alongside numerous marine bird species. The village itself was originally developed in the late 1990s specifically as a master-planned residential community (village) and vacation retreat for affluent locals and European expatriates. In extreme contrast to Santa Maria, there are absolutely no massive resort hotels here, but rather private villas, apartment complexes, and extremely quiet holiday homes. The backdrop of the village is entirely dominated by the stark, severely arid volcanic landscape of the island, with the prominent silhouette of Monte Leão—a distinctive volcanic cone resembling a resting lion—visually anchoring the northern edge of the bay. Murdeira offers a highly tranquil environment, relying on a localized economy centered entirely on real estate services and quiet tourism."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Murdeira liegt geografisch exakt zwischen der Hauptstadt Espargos und Santa Maria.",
+          "Die Siedlung grenzt direkt an die Baía de Murdeira an der Westküste von Sal.",
+          "Die massive Bucht ist ein offiziell geschütztes maritimes Naturschutzgebiet.",
+          "Der Strand ist ein absolut kritischer Nistplatz für bedrohte Unechte Karettschildkröten.",
+          "Der Ort entstand in den 1990ern als geplantes Wohngebiet für Europäer und Einheimische.",
+          "Es gibt hier keine riesigen Hotels, sondern ausschließlich private Villen und Apartments.",
+          "Der markante Monte Leão im Norden erinnert optisch an einen liegenden Löwen."
+        ],
+        "hu": [
+          "Murdeira földrajzilag pontosan az Espargos főváros és Santa Maria között helyezkedik el.",
+          "A település közvetlenül a Baía de Murdeira öböl partján, Sal nyugati partján fekszik.",
+          "A hatalmas öböl hivatalosan is védett tengeri természetvédelmi terület.",
+          "A strand abszolút kritikus fészkelőhelye a veszélyeztetett álcserepesteknősöknek.",
+          "A hely az 1990-es években jött létre tervezett lakóparkként európaiak és helyiek számára.",
+          "Itt nincsenek hatalmas szállodák, kizárólag magánvillák és apartmanok találhatók.",
+          "Az északra fekvő markáns Monte Leão vizuálisan egy fekvő oroszlánra emlékeztet."
+        ],
+        "ro": [
+          "Murdeira este situată geografic exact între capitala Espargos și Santa Maria.",
+          "Așezarea se învecinează direct cu Baía de Murdeira de pe coasta de vest a insulei Sal.",
+          "Golful masiv este o rezervație naturală maritimă protejată oficial.",
+          "Plaja este un loc de cuibărit absolut critic pentru broaștele țestoase amenințate Caretta caretta.",
+          "Locul a fost creat în anii 1990 ca o zonă rezidențială planificată pentru europeni și localnici.",
+          "Nu există hoteluri uriașe aici, ci doar vile și apartamente private.",
+          "Proeminentul Monte Leão din nord amintește vizual de un leu culcat."
+        ],
+        "en": [
+          "Murdeira is geographically positioned exactly midway between the capital Espargos and Santa Maria.",
+          "The settlement is explicitly built directly on the shores of the Baía de Murdeira on Sal's west coast.",
+          "The massive bay actively operates as an officially protected marine nature reserve.",
+          "The specific beach is an absolutely critical nesting ground for endangered loggerhead sea turtles.",
+          "The town was forcefully developed in the 1990s as a master-planned residential resort.",
+          "There are absolutely no giant resort hotels here, only private villas and holiday apartments.",
+          "The distinct, prominent Monte Leão to the north visually resembles a resting lion."
+        ]
+      }
+    },
+    {
+      "id": "palmeira-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Palmeira ist eine stark geschäftige und industriell geprägte Hafenstadt an der felsigen Nordwestküste der Insel Sal in Kap Verde. Die Stadt fungiert massiv als das primäre maritime Tor der gesamten Insel, da sie den wichtigsten Tiefwasserhafen (Porto da Palmeira) beherbergt, über den aggressiv der Großteil aller kommerziellen Frachtgüter, industriellen Treibstoffimporte und Versorgungslieferungen für die Insel abgewickelt wird. Trotz dieser extrem schweren industriellen und logistischen Bedeutung bewahrt Palmeira eine zutiefst authentische, traditionelle kapverdische Atmosphäre, die in extremem Kontrast zu den rein touristisch geprägten Resorts im Süden der Insel steht. Das städtische Landschaftsbild ist stark durch schmale Kopfsteinpflasterstraßen, pastellfarbene und leuchtend bunt gestrichene Häuser sowie lokale kleine Bars und Geschäfte gekennzeichnet. Die Wirtschaft der Stadt ist strikt zweigeteilt zwischen den massiven industriellen Hafenoperationen und einer sehr aktiven Flotte von handwerklichen Küstenfischern. Etwas nördlich der Stadtgrenze befinden sich spektakuläre geologische Formationen, die Touristen anziehen: Die Buracona-Lagune und das berühmte \"Olho Azul\" (Blaues Auge), ein extrem tiefes Unterwasser-Höhlensystem, in das das Sonnenlicht zu einer bestimmten Tageszeit fällt und das Wasser leuchtend türkis erstrahlen lässt. Zudem beherbergt Palmeira die absolut kritische Entsalzungsanlage der Insel, die aus Meerwasser das überlebenswichtige Trinkwasser für die trockene Insel gewinnt.",
+        "hu": "Palmeira egy rendkívül forgalmas és ipari jellegű kikötőváros a Zöld-foki Köztársaság Sal szigetének sziklás északnyugati partján. A város masszívan az egész sziget elsődleges tengeri kapujaként funkcionál, mivel itt található a legfontosabb mélyvízi kikötő (Porto da Palmeira), amelyen keresztül agresszívan bonyolítják a sziget összes kereskedelmi teherszállításának, ipari üzemanyag-importjának és utánpótlásának túlnyomó részét. E rendkívül súlyos ipari és logisztikai jelentősége ellenére Palmeira megőrzött egy mélyen autentikus, hagyományos zöld-foki atmoszférát, amely éles ellentétben áll a sziget déli részén található, tisztán turisztikai üdülőhelyekkel. A városi tájképet erősen jellemzik a szűk macskaköves utcák, a pasztell és élénk színűre festett házak, valamint a helyi kis bárok és üzletek. A város gazdasága szigorúan kettéoszlik a masszív ipari kikötői műveletek és a kézműves parti halászok nagyon aktív flottája között. A városhatártól kissé északra turistákat vonzó látványos geológiai képződmények találhatók: a Buracona lagúna és a híres \"Olho Azul\" (Kék Szem), egy rendkívül mély víz alatti barlangrendszer, amelybe a napfény a nap egy bizonyos szakaszában beesik, és a vizet ragyogó türkizkékben fürdeti. Ezenkívül Palmeira ad otthont a sziget abszolút kritikus sótalanító üzemének, amely tengervízből nyeri a száraz sziget számára a túléléshez nélkülözhetetlen ivóvizet.",
+        "ro": "Palmeira este un oraș portuar foarte aglomerat și industrializat pe coasta de nord-vest stâncoasă a insulei Sal din Capul Verde. Orașul funcționează masiv ca principala poartă maritimă a întregii insule, deoarece găzduiește cel mai important port de ape adânci (Porto da Palmeira), prin care este gestionată agresiv marea majoritate a mărfurilor comerciale, a importurilor de combustibil industrial și a aprovizionării pentru insulă. În ciuda acestei importanțe industriale și logistice extrem de grele, Palmeira păstrează o atmosferă profund autentică, tradițională capverdiană, care contrastează extrem cu stațiunile pur turistice din sudul insulei. Peisajul urban este puternic caracterizat de străzi înguste pietruite, case vopsite în culori pastelate și strălucitoare, precum și de mici baruri și magazine locale. Economia orașului este strict divizată între operațiunile portuare industriale masive și o flotă foarte activă de pescari artizanali de coastă. Chiar la nord de limitele orașului există formațiuni geologice spectaculoase care atrag turiștii: Laguna Buracona și faimosul „Olho Azul” (Ochiul Albastru), un sistem de peșteri subacvatice extrem de adânci în care lumina soarelui cade la o anumită oră din zi, făcând apa să strălucească într-un turcoaz vibrant. În plus, Palmeira găzduiește uzina de desalinizare absolut critică a insulei, care extrage apă potabilă vitală pentru insula aridă din apa de mare.",
+        "en": "Palmeira is a heavily bustling, highly industrialized port town located directly on the rocky northwestern coast of the island of Sal in Cape Verde. The town functions aggressively as the absolute primary maritime gateway for the entire island, explicitly housing the main deep-water port (Porto da Palmeira) that manages the vast majority of all commercial cargo, heavy industrial fuel imports, and essential supply shipments. Despite this extremely heavy industrial and logistical significance, Palmeira vigorously maintains a deeply authentic, traditional Cape Verdean atmosphere that contrasts extremely sharply with the purely tourist-driven resort towns in the south of the island. The urban landscape is heavily characterized by narrow cobblestone streets, brightly painted pastel houses, and small, authentic local businesses. The local economy is strictly and evenly divided between the massive industrial port operations and a highly active fleet of artisanal coastal fishermen. Located just north of the town limits are spectacular natural geological formations that heavily attract tourists: the Buracona lagoon and the internationally famous \"Olho Azul\" (Blue Eye), an extremely deep underwater cave system where sunlight penetrates at a specific time of day, illuminating the water in brilliant turquoise. Furthermore, Palmeira securely houses the island's absolutely critical desalination plant, extracting vital drinking water for the arid island directly from the ocean."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Palmeira ist die stark industrialisierte primäre Hafenstadt der kapverdischen Insel Sal.",
+          "Der Tiefwasserhafen wickelt massiv den Großteil aller kommerziellen Importe der Insel ab.",
+          "Die Architektur ist tief traditionell mit engen Kopfsteinpflasterstraßen und bunten Häusern.",
+          "Die lokale Wirtschaft teilt sich streng in schweren Hafenbetrieb und Küstenfischerei.",
+          "Nördlich der Stadt liegt das berühmte Unterwasser-Höhlensystem Olho Azul (Blaues Auge).",
+          "Das Tauchgebiet um das Blaue Auge zieht aggressiv internationalen Ökotourismus an.",
+          "Palmeira beherbergt die absolut überlebenswichtige Entsalzungsanlage für das Trinkwasser der Insel."
+        ],
+        "hu": [
+          "Palmeira a zöld-foki Sal sziget erősen iparosodott, elsődleges kikötővárosa.",
+          "A mélyvízi kikötő masszívan kezeli a sziget szinte összes kereskedelmi importját.",
+          "Az építészet mélyen hagyományőrző, szűk macskaköves utcákkal és színes házakkal.",
+          "A helyi gazdaság szigorúan a nehéz kikötői műveletekre és a parti halászatra oszlik.",
+          "A várostól északra található a híres Olho Azul (Kék Szem) víz alatti barlangrendszer.",
+          "A Kék Szem körüli búvárterület agresszívan vonzza a nemzetközi ökoturizmust.",
+          "Palmeira ad otthont a sziget ivóvízellátásához abszolút nélkülözhetetlen sótalanító üzemnek."
+        ],
+        "ro": [
+          "Palmeira este orașul-port primar puternic industrializat al insulei capverdiene Sal.",
+          "Portul de ape adânci gestionează masiv majoritatea importurilor comerciale ale insulei.",
+          "Arhitectura este profund tradițională, cu străzi înguste pietruite și case colorate.",
+          "Economia locală este strict divizată între operațiunile portuare grele și pescuitul de coastă.",
+          "La nord de oraș se află faimosul sistem de peșteri subacvatice Olho Azul (Ochiul Albastru).",
+          "Zona de scufundări din jurul Ochiului Albastru atrage agresiv ecoturismul internațional.",
+          "Palmeira găzduiește uzina de desalinizare absolut vitală pentru apa potabilă a insulei."
+        ],
+        "en": [
+          "Palmeira is the highly industrialized, absolute primary port town of the Cape Verdean island of Sal.",
+          "The deep-water port aggressively handles the vast majority of all commercial imports for the island.",
+          "The architecture remains deeply traditional, featuring narrow cobblestone streets and bright houses.",
+          "The local economy is strictly divided between heavy commercial port operations and coastal fishing.",
+          "Just north of the town lies the world-famous Olho Azul (Blue Eye) underwater cave system.",
+          "The deep diving area around the Blue Eye aggressively attracts international eco-tourism.",
+          "Palmeira securely houses the absolutely vital desalination plant that provides the island's drinking water."
+        ]
+      }
+    },
+    {
+      "id": "porto-novo-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Porto Novo ist die absolut größte Stadt und der wichtigste administrative Knotenpunkt auf der Insel Santo Antão in Kap Verde. Gelegen an der extrem kargen, trockenen und felsigen Südostküste der Insel, fungiert die Stadt als das alleinige maritime Tor für die gesamte Inselbevölkerung, da Santo Antão über keinen eigenen funktionierenden Verkehrsflughafen verfügt. Ein stark frequentierter, moderner Fährhafen verbindet Porto Novo täglich massiv mit der Hafenstadt Mindelo auf der Nachbarinsel São Vicente. Geografisch liegt die Stadt in einem extremen Regenschatten der gewaltigen Berge im Landesinneren, was zu einer rauen, wüstenähnlichen Landschaft führt, die im absoluten Kontrast zu den üppig grünen, fruchtbaren Tälern im Norden der Insel steht. Die Wirtschaft von Porto Novo ist stark auf Logistik, Transport und Handel fokussiert; die massiven landwirtschaftlichen Erträge aus dem Norden – insbesondere Zuckerrohr, Kaffee und Bananen – werden aggressiv durch diese Stadt geschleust, um sie zu exportieren. In der Kolonialzeit war die Region stark vom Abbau von Puzzolan (vulkanischer Asche) für die Zementproduktion geprägt. In den letzten Jahrzehnten hat die Stadt eine gewaltige Modernisierung durchlaufen, darunter eine langgestreckte, gepflasterte Uferpromenade und verbesserte Straßeninfrastrukturen. Für internationale Touristen ist Porto Novo der absolute Startpunkt für spektakuläre Fahrten über die historische, extrem kurvenreiche Bergstraße, die sich dramatisch in Richtung Ribeira Grande windet.",
+        "hu": "Porto Novo az abszolút legnagyobb város és a legfontosabb közigazgatási csomópont a Zöld-foki Köztársaság Santo Antão szigetén. A sziget rendkívül kietlen, száraz és sziklás délkeleti partján fekvő város a teljes szigetlakosság egyetlen tengeri kapujaként funkcionál, mivel Santo Antão nem rendelkezik saját működő kereskedelmi repülőtérrel. Egy nagy forgalmú, modern kompkikötő naponta masszívan köti össze Porto Novót a szomszédos São Vicente szigetén található Mindelo kikötővárosával. Földrajzilag a város a szárazföld belsejében fekvő hatalmas hegyek extrém esőárnyékában helyezkedik el, ami egy zord, sivatagszerű tájat eredményez, amely abszolút ellentétben áll a sziget északi részén található buja, zöld, termékeny völgyekkel. Porto Novo gazdasága erősen a logisztikára, a szállításra és a kereskedelemre fókuszál; az északról származó masszív mezőgazdasági terméshozamokat – különösen a cukornádat, a kávét és a banánt – agresszívan vezetik át ezen a városon exportálás céljából. A gyarmati időkben a régiót erősen meghatározta a puccolán (vulkáni hamu) bányászata a cementgyártáshoz. Az elmúlt évtizedekben a város hatalmas modernizáción ment keresztül, beleértve egy hosszan elnyúló, kövezett tengerparti sétányt és a javított közúti infrastruktúrát. A nemzetközi turisták számára Porto Novo az abszolút kiindulópontja annak a látványos útnak, amely a történelmi, rendkívül kanyargós hegyi úton drámaian kanyarog Ribeira Grande felé.",
+        "ro": "Porto Novo este absolut cel mai mare oraș și cel mai important nod administrativ de pe insula Santo Antão din Capul Verde. Situat pe coasta de sud-est, extrem de aridă, uscată și stâncoasă a insulei, orașul funcționează ca singura poartă maritimă pentru întreaga populație a insulei, deoarece Santo Antão nu are un aeroport comercial propriu funcțional. Un port de feribot modern, foarte frecventat, leagă masiv și zilnic Porto Novo de orașul-port Mindelo de pe insula vecină São Vicente. Geografic, orașul se află într-o umbră de ploaie extremă a munților masivi din interior, rezultând într-un peisaj aspru, asemănător deșertului, care este în contrast absolut cu văile luxuriante, verzi și fertile din nordul insulei. Economia orașului Porto Novo se concentrează puternic pe logistică, transport și comerț; recoltele agricole masive din nord – în special trestia de zahăr, cafeaua și bananele – sunt trecute agresiv prin acest oraș pentru a fi exportate. În perioada colonială, regiunea a fost puternic marcată de extragerea puzolanei (cenușă vulcanică) pentru producția de ciment. În ultimele decenii, orașul a suferit o modernizare masivă, incluzând o promenadă lungă și pavată pe malul apei și o infrastructură rutieră îmbunătățită. Pentru turiștii internaționali, Porto Novo este punctul de plecare absolut pentru călătorii spectaculoase pe drumul montan istoric, extrem de șerpuitor, care se îndreaptă dramatic spre Ribeira Grande.",
+        "en": "Porto Novo is the absolute largest city and the most critical administrative hub on the island of Santo Antão in Cape Verde. Situated on the extremely barren, intensely dry, and rocky southeastern coast of the island, the city aggressively functions as the sole maritime gateway for the entire island population, as Santo Antão utterly lacks a functioning commercial airport. A highly trafficked, modernized ferry port securely connects Porto Novo daily to the massive port city of Mindelo on the neighboring island of São Vicente. Geographically, the city sits within an extreme rain shadow created by the massive towering mountains of the interior, resulting in a harsh, desert-like landscape that stands in absolute, stark contrast to the lush, green, highly fertile valleys of the north. The economy of Porto Novo is heavily focused on logistics, transportation, and commercial trade; the massive agricultural yields from the north—specifically sugarcane, coffee, and bananas—are aggressively funneled straight through this city for export. During the colonial era, the immediate region was heavily defined by the aggressive mining of pozzolana (volcanic ash) utilized for cement production. In recent decades, the city has undergone massive modernization, featuring a long, smoothly paved waterfront promenade and highly upgraded road infrastructure. For international tourists, Porto Novo is the absolute starting point for spectacular journeys traversing the historic, extremely winding mountain road that cuts dramatically toward Ribeira Grande."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Porto Novo ist die absolut größte und einwohnerstärkste Stadt der Insel Santo Antão.",
+          "Ein massiver Fährhafen ist das alleinige Tor zur Insel, da es keinen Flughafen gibt.",
+          "Die Stadt liegt in einem extrem trockenen, wüstenähnlichen Regenschatten der Berge.",
+          "Täglich verbinden Fähren die Stadt aggressiv mit Mindelo auf der Insel São Vicente.",
+          "Sämtliche landwirtschaftlichen Exportgüter des grünen Nordens werden hier logistisch abgefertigt.",
+          "Historisch wurde in der staubigen Umgebung der Stadt intensiv Puzzolan (Vulkanasche) abgebaut.",
+          "Von hier startet die berühmte, extrem steile historische Passstraße nach Ribeira Grande."
+        ],
+        "hu": [
+          "Porto Novo Santo Antão szigetének abszolút legnagyobb és legnépesebb városa.",
+          "Egy masszív kompkikötő az egyetlen kapu a szigetre, mivel nincs működő repülőtér.",
+          "A város a hegyek rendkívül száraz, sivatagszerű esőárnyékában helyezkedik el.",
+          "Naponta kompok kötik össze a várost agresszívan a São Vicente szigetén fekvő Mindelóval.",
+          "A zöld északról származó összes mezőgazdasági exportcikket itt kezelik logisztikailag.",
+          "Történelmileg a város poros környékén intenzíven bányásztak puccolánt (vulkáni hamut).",
+          "Innen indul a híres, rendkívül meredek történelmi hágóút Ribeira Grande felé."
+        ],
+        "ro": [
+          "Porto Novo este absolut cel mai mare și cel mai populat oraș de pe insula Santo Antão.",
+          "Un port masiv de feribot este singura poartă către insulă, deoarece nu există aeroport.",
+          "Orașul este situat într-o umbră de ploaie extrem de uscată, deșertică a munților.",
+          "Feriboturile leagă zilnic și agresiv orașul de Mindelo de pe insula São Vicente.",
+          "Toate bunurile agricole de export din nordul verde sunt manipulate logistic aici.",
+          "Istoric, puzolana (cenușa vulcanică) a fost extrasă intens în împrejurimile prăfuite ale orașului.",
+          "De aici începe faimosul drum istoric, extrem de abrupt, către Ribeira Grande."
+        ],
+        "en": [
+          "Porto Novo is the absolute largest and most heavily populated city on Santo Antão island.",
+          "A massive ferry port acts as the sole gateway to the island, lacking any commercial airport.",
+          "The city sits firmly in an extremely dry, barren, desert-like rain shadow of the inland mountains.",
+          "Modern ferries aggressively connect the city to Mindelo on São Vicente island every single day.",
+          "All of the massive agricultural exports from the lush north are logistically processed straight through here.",
+          "Historically, pozzolana (volcanic ash) was intensively mined in the dusty landscape surrounding the city.",
+          "The extremely steep, spectacularly winding historic mountain pass road to Ribeira Grande starts directly here."
+        ]
+      }
+    },
+    {
+      "id": "ribeira-grande-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Ribeira Grande, oft lokal als Povoação bezeichnet, ist eine tief historische und extrem lebendige Stadt an der zutiefst üppigen und fruchtbaren Nordostküste der Insel Santo Antão in Kap Verde. Geografisch ist die Stadt massiv und spektakulär in ein tief eingeschnittenes, V-förmiges Flusstal gepresst, das sich exakt am Zusammenfluss der beiden reißenden Flüsse Ribeira Grande und Ribeira da Torre befindet. Die Siedlung wurde bereits im späten 17. Jahrhundert gegründet und fungierte jahrhundertelang als die primäre administrative und wirtschaftliche Hauptstadt der Insel. Die städtische Architektur ist massiv von portugiesischen kolonialen Einflüssen geprägt; extrem enge, kopfsteingepflasterte Straßen sind dicht gesäumt von historischen Gebäuden mit leuchtend bunt gestrichenen Fassaden, die sich prekär an die steilen Klippen klammern. Die umliegenden, fast vertikalen Berghänge sind aggressiv in spektakuläre, handgebaute Terrassen unterteilt. Dank eines ausgeklügelten, jahrhundertealten Bewässerungssystems (Levadas) wird hier eine extrem intensive Landwirtschaft betrieben, die gigantische Erträge an Zuckerrohr, Bananen, Papayas und Kaffee liefert. Die Stadt dient als das absolute wirtschaftliche Herzstück der nördlichen Agrarbezirke. Für den internationalen Tourismus ist Ribeira Grande ein hochgradig kritisches Basislager, von dem aus Elite-Wanderer und Naturbegeisterte die gewaltigen, hoch aufragenden Bergpfade des tiefen Inselinneren erkunden.",
+        "hu": "Ribeira Grande, amelyet helyben gyakran Povoação néven említenek, egy mélyen történelmi és rendkívül élénk város a Zöld-foki Köztársaság Santo Antão szigetének rendkívül buja és termékeny északkeleti partján. Földrajzilag a város masszívan és látványosan egy mélyen bevágott, V alakú folyóvölgybe van préselve, pontosan a Ribeira Grande és a Ribeira da Torre rohanó folyók összefolyásánál. A települést már a 17. század végén megalapították, és évszázadokon át a sziget elsődleges közigazgatási és gazdasági fővárosaként funkcionált. A város építészetét masszívan áthatják a portugál gyarmati hatások; a rendkívül szűk, macskaköves utcákat sűrűn szegélyezik élénk színűre festett homlokzatú történelmi épületek, amelyek bizonytalanul kapaszkodnak a meredek sziklákba. A környező, szinte függőleges hegyoldalakat agresszívan felosztották látványos, kézzel épített teraszokra. Egy kifinomult, évszázados öntözőrendszernek (levadák) köszönhetően itt rendkívül intenzív mezőgazdaságot folytatnak, amely gigantikus terméshozamot biztosít cukornádból, banánból, papayából és kávéból. A város az északi agrárkörzetek abszolút gazdasági szíveként szolgál. A nemzetközi turizmus számára Ribeira Grande egy rendkívül kritikus alaptábor, ahonnan az elit túrázók és a természet szerelmesei felfedezik a sziget mély belsejének hatalmas, magasba törő hegyi ösvényeit.",
+        "ro": "Ribeira Grande, denumit adesea local Povoação, este un oraș profund istoric și extrem de vibrant pe coasta de nord-est a insulei Santo Antão, extrem de luxuriantă și fertilă, din Capul Verde. Din punct de vedere geografic, orașul este presat masiv și spectaculos într-o vale fluvială adânc crestată, în formă de V, exact la confluența celor două râuri tumultoase Ribeira Grande și Ribeira da Torre. Așezarea a fost fondată încă de la sfârșitul secolului al XVII-lea și a funcționat timp de secole ca capitală administrativă și economică principală a insulei. Arhitectura urbană este masiv caracterizată de influențe coloniale portugheze; străzi extrem de înguste, pietruite, sunt mărginite dens de clădiri istorice cu fațade vopsite în culori vii, care se agață precar de stâncile abrupte. Versanții montani înconjurători, aproape verticali, sunt divizați agresiv în terase spectaculoase construite manual. Datorită unui sistem de irigații ingenios, vechi de secole (levadas), aici se practică o agricultură extrem de intensivă, oferind recolte gigantice de trestie de zahăr, banane, papaya și cafea. Orașul servește ca inima economică absolută a districtelor agricole nordice. Pentru turismul internațional, Ribeira Grande este o tabără de bază extrem de critică de unde drumeții de elită și pasionații de natură explorează traseele montane falnice și masive ale interiorului profund al insulei.",
+        "en": "Ribeira Grande, frequently referred to locally simply as Povoação, is a deeply historic and extremely vibrant city located on the profoundly lush and highly fertile northeastern coast of Santo Antão island in Cape Verde. Geographically, the city is aggressively and spectacularly squeezed completely into a deeply incised, V-shaped river valley situated exactly at the violent confluence of the Ribeira Grande and Ribeira da Torre rivers. Established in the late 17th century, the settlement functioned forcefully for centuries as the absolute primary administrative and economic capital of the entire island. The urban architecture is massively defined by heavy Portuguese colonial influences; extremely narrow, winding cobblestone streets are densely lined by tightly packed historic buildings with brightly painted facades clinging precariously to the steep cliffs. The surrounding, near-vertical mountain slopes are aggressively carved into spectacular, hand-built agricultural terraces. Supported by an incredibly sophisticated, centuries-old traditional irrigation system (levadas), these slopes host extremely intensive agriculture, explicitly yielding gigantic harvests of sugarcane, bananas, papayas, and coffee. The city actively serves as the absolute economic beating heart of the northern agricultural districts. For international tourism, Ribeira Grande acts as a highly critical base camp from which elite hikers and nature enthusiasts launch aggressive expeditions into the massive, towering mountain trails of the deep interior."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die historische Stadt liegt eingequetscht im extrem engen V-Tal zweier reißender Flüsse.",
+          "Gegründet im späten 17. Jahrhundert, war sie lange die absolut wichtigste Hauptstadt der Insel.",
+          "Enge Kopfsteinpflasterstraßen sind dicht mit bunten, portugiesischen Kolonialbauten gesäumt.",
+          "Die fast vertikalen Berghänge rund um die Stadt sind aggressiv zu Agrarterrassen geformt.",
+          "Ein massives, uraltes Kanalsystem (Levadas) bewässert die steilen Bananen- und Kaffeeplantagen.",
+          "Der Ort ist das absolute kommerzielle Zentrum für den stark agrarisch geprägten Norden.",
+          "Ribeira Grande dient als wichtiges Basislager für spektakuläre Bergtouren in die Inselmitte."
+        ],
+        "hu": [
+          "A történelmi város két rohanó folyó rendkívül szűk V-völgyébe van bepréselve.",
+          "A 17. század végén alapították, és sokáig a sziget abszolút legfontosabb fővárosa volt.",
+          "A szűk macskaköves utcákat sűrűn szegélyezik a színes, portugál gyarmati épületek.",
+          "A város körüli szinte függőleges hegyoldalakat agresszívan agrártarasszá formálták.",
+          "Egy masszív, ősi csatornarendszer (levada) öntözi a meredek banán- és kávéültetvényeket.",
+          "A település az erősen agrárjellegű észak abszolút kereskedelmi központja.",
+          "Ribeira Grande fontos alaptáborként szolgál a sziget belsejébe irányuló látványos hegyi túrákhoz."
+        ],
+        "ro": [
+          "Orașul istoric este presat în valea extrem de îngustă în formă de V a două râuri rapide.",
+          "Fondat la sfârșitul secolului al XVII-lea, a fost mult timp capitala absolută a insulei.",
+          "Străzile înguste pietruite sunt mărginite dens de clădiri coloniale portugheze colorate.",
+          "Versanții aproape verticali din jurul orașului sunt transformați agresiv în terase agricole.",
+          "Un sistem masiv de canale antice (levadas) irigă plantațiile abrupte de banane și cafea.",
+          "Locul este centrul comercial absolut pentru nordul puternic agricol.",
+          "Ribeira Grande servește ca tabără de bază importantă pentru drumeții spectaculoase pe munte."
+        ],
+        "en": [
+          "The historic city is physically squeezed into an extremely narrow V-shaped valley between two fast rivers.",
+          "Established in the late 17th century, it operated as the absolute most important capital of the island.",
+          "The tightly packed cobblestone streets are heavily lined with brightly colored Portuguese colonial buildings.",
+          "The near-vertical mountain slopes encircling the town are aggressively carved into agricultural terraces.",
+          "A massive, ancient canal system (levadas) perfectly irrigates the incredibly steep banana and coffee plantations.",
+          "The settlement explicitly functions as the absolute commercial center for the highly agricultural north.",
+          "Ribeira Grande actively serves as a critical base camp for spectacular mountain treks into the interior."
+        ]
+      }
+    }
+  ]
+}

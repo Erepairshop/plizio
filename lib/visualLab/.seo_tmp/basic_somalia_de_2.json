@@ -1,0 +1,75 @@
+{
+  "lang": "de",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kismayo-marine-nature-v2",
+      "description": "Die Küstenregion um Kismayo besticht durch ihre reichen Meeresgründe und geschützten Buchten.",
+      "facts": ["Südsomalia", "Marine Biodiversität", "Küstennahe Lage"]
+    },
+    {
+      "id": "jowhar-floodplain-nature-v2",
+      "description": "Die Schwemmlandebene des Shebelle bei Jowhar bietet fruchtbare Böden und vielfältige Habitate.",
+      "facts": ["Schwemmland", "Shebelle-Region", "Fruchtbare Böden"]
+    },
+    {
+      "id": "mudug-savanna-nature-v2",
+      "description": "Die Mudug-Savanne ist eine trockene Graslandschaft, die für ihre Widerstandsfähigkeit bekannt ist.",
+      "facts": ["Zentral-Somalia", "Savannenlandschaft", "Arid geprägt"]
+    },
+    {
+      "id": "cal-madow-forest-nature-v2",
+      "description": "Ein seltener Waldstreifen in der Cal-Madow-Region, der wichtige ökologische Nischen beherbergt.",
+      "facts": ["Waldgebiet", "Ökologisches Rückzugsgebiet", "Nord-Somalia"]
+    },
+    {
+      "id": "golis-northern-slope-range-nature-v2",
+      "description": "Der nördliche Abhang des Golis-Gebirges zeigt einen steilen Wechsel in der Vegetationszone.",
+      "facts": ["Gebirgsabhang", "Nordküste", "Klimazone"]
+    },
+    {
+      "id": "karkar-mountains-nature-v2",
+      "description": "Diese Bergkette bildet eine wichtige topographische Barriere im nordöstlichen Somalia.",
+      "facts": ["Nordost-Region", "Bergregion", "Geologische Barriere"]
+    },
+    {
+      "id": "ras-xaafuun-nature-v2",
+      "description": "Die Halbinsel Ras Xaafuun ist der östlichste Punkt Afrikas und bekannt für ihre maritime Lage.",
+      "facts": ["Östlichster Punkt", "Halbinsel", "Maritime Geographie"]
+    },
+    {
+      "id": "burao-valley-nature-v2",
+      "description": "Das Tal bei Burao bietet saisonal wasserführende Bereiche in einer ansonsten ariden Umgebung.",
+      "facts": ["Tallandschaft", "Burao-Region", "Saisonal"]
+    },
+    {
+      "id": "gardafui-coast-nature-v2",
+      "description": "Die Küstenlinie bei Gardafui ist stark exponiert und von rauer See geprägt.",
+      "facts": ["Küstenregion", "Horn von Afrika", "Raues Meer"]
+    },
+    {
+      "id": "ayaha-plains-nature-v2",
+      "description": "Die Ayaha-Ebenen sind eine weite, flache Landschaft, die von Grasland dominiert wird.",
+      "facts": ["Ebenen", "Flachland", "Graslandschaft"]
+    },
+    {
+      "id": "ayaha-plains-relief-v2",
+      "description": "Die Ayaha-Ebenen zeichnen sich durch ihre weite, flache topographische Beschaffenheit aus.",
+      "facts": ["Flachland", "Topographisch eben", "Grasland"]
+    },
+    {
+      "id": "hobyo-dunes-relief-v2",
+      "description": "Die Dünen von Hobyo formen eine topographisch bewegte, aride Küstenstruktur.",
+      "facts": ["Sanddünen", "Küstenrelief", "Aride Zone"]
+    },
+    {
+      "id": "barawa-coastal-relief-v2",
+      "description": "Das Relief der Küste um Barawa ist durch sanfte Erhebungen und flache Sandstrände definiert.",
+      "facts": ["Küstenrelief", "Sandstrände", "Südsomalia"]
+    }
+  ]
+}

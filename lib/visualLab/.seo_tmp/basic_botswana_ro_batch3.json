@@ -1,0 +1,159 @@
+{
+  "lang": "ro",
+  "country": "Botswana",
+  "files": [
+    "lib/visualLab/data/poiExtraBotswanaHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tsodilo-hills-history-v2",
+      "description": "Un sit din patrimoniul mondial UNESCO supranumit 'Louvre-ul deșertului' pentru picturile sale rupestre străvechi.",
+      "facts": [
+        "Peste 4.500 de picturi",
+        "Sălaș spiritual pentru San",
+        "Locuit de mii de ani",
+        "Patru dealuri principale"
+      ]
+    },
+    {
+      "id": "domboshaba-ruins-history-v2",
+      "description": "Ruinele unei așezări din piatră din secolul al XV-lea, reprezentând cultura Mwenemutapa în estul Botswanei.",
+      "facts": [
+        "Ziduri fără mortar",
+        "Centru comercial istoric",
+        "Aproape de Francistown",
+        "Legături cu Marele Zimbabwe"
+      ]
+    },
+    {
+      "id": "toutswemogala-hill-history-v2",
+      "description": "Un sit arheologic de pe un deal plat, centru al unei culturi înfloritoare de crescători de vite în epoca fierului.",
+      "facts": [
+        "Cunoscut pentru ceramica Toutswe",
+        "Sistem social ierarhizat",
+        "Lângă satul Palapye",
+        "Abandonat în secolul XIX"
+      ]
+    },
+    {
+      "id": "matsieng-footprints-history-v2",
+      "description": "Un sit mitologic cu gravuri în stâncă despre care legendele Tswana spun că sunt urmele primului om.",
+      "facts": [
+        "Urme de oameni și animale",
+        "Gravuri în gresie",
+        "Loc de pelerinaj tradițional",
+        "Lângă satul Mochudi"
+      ]
+    },
+    {
+      "id": "kolobeng-mission-history-v2",
+      "description": "Ruinele misiunii fondate de David Livingstone în secolul al XIX-lea, prima de acest fel din regiune.",
+      "facts": [
+        "Rămășițele casei lui Livingstone",
+        "Atacată de boeri în 1852",
+        "Baza explorărilor spre nord",
+        "Monument național protejat"
+      ]
+    },
+    {
+      "id": "khama-iii-memorial-museum-history-v2",
+      "description": "Un muzeu dedicat vieții și moștenirii regelui Khama al III-lea, figura centrală a rezistenței coloniale.",
+      "facts": [
+        "Situat în Serowe",
+        "Găzduit într-o clădire istorică",
+        "Arhivele familiei regale",
+        "Expoziții despre tribul Bangwato"
+      ]
+    },
+    {
+      "id": "phuthadikobo-museum-history-v2",
+      "description": "Un muzeu vibrant situat pe un deal, documentând istoria și cultura tribului Bakgatla.",
+      "facts": [
+        "Fostă școală colonială",
+        "Vedere panoramică asupra Mochudi",
+        "Colecție rară de fotografii",
+        "Focus pe tradițiile Kgotla"
+      ]
+    },
+    {
+      "id": "three-dikgosi-monument-history-v2",
+      "description": "Statui impunătoare de bronz ale celor trei mari căpetenii care au cerut protecția britanică pentru a salva țara.",
+      "facts": [
+        "Reprezintă unitatea națională",
+        "Inaugurat în 2005",
+        "Situat în Gaborone CBD",
+        "Eroi: Khama, Sebele și Bathoen"
+      ]
+    },
+    {
+      "id": "botswana-national-museum-history-v2",
+      "description": "Principala instituție culturală a țării care conservă patrimoniul natural și istoric al Botswanei.",
+      "facts": [
+        "Inaugurat în 1968",
+        "Găzduiește Galeria de Artă",
+        "Colecții etnografice bogate",
+        "Centru de cercetare științifică"
+      ]
+    },
+    {
+      "id": "kgosi-sechele-i-museum-history-v2",
+      "description": "Un centru cultural în Molepolole dedicat memoriei regelui Sechele I, un lider strategic al Bakwena.",
+      "facts": [
+        "Fostă secție de poliție",
+        "Expoziții despre tradiția orală",
+        "Punct de plecare spre Dimawe",
+        "Promovează meșteșugurile locale"
+      ]
+    },
+    {
+      "id": "supa-ngwao-museum-history-v2",
+      "description": "Muzeul regional din Francistown care prezintă istoria minieră și diversitatea etnică din nordul țării.",
+      "facts": [
+        "Focus pe cultura Kalanga",
+        "Expoziții despre goana după aur",
+        "Situat într-o închisoare veche",
+        "Numele înseamnă 'arată cultura'"
+      ]
+    },
+    {
+      "id": "nhabe-museum-history-v2",
+      "description": "Un mic muzeu în Maun care documentează istoria naturală și viața comunităților din delta Okavango.",
+      "facts": [
+        "Găzduit într-o clădire militară veche",
+        "Colecție de unelte tradiționale",
+        "Arta meșteșugului împletitului",
+        "Sprijinit de comunitatea locală"
+      ]
+    },
+    {
+      "id": "lepokole-hills-history-v2",
+      "description": "Dealuri spectaculoase în apropiere de Bobonong, cunoscute pentru adăposturile stâncoase cu picturi San.",
+      "facts": [
+        "Picturi bine conservate",
+        "Formațiuni de granit unice",
+        "Importanță pentru tribul Babirwa",
+        "Potențial pentru ecoturism"
+      ]
+    },
+    {
+      "id": "mamuno-monument-history-v2",
+      "description": "Un sit aflat la granița cu Namibia, renumit pentru gravurile în stâncă reprezentând animale și figuri umane.",
+      "facts": [
+        "Stil artistic distinctiv",
+        "Aproape de orașul Charles Hill",
+        "Vechime de mii de ani",
+        "Zonă de tranzit istorică"
+      ]
+    },
+    {
+      "id": "dimawe-battlefield-history-v2",
+      "description": "Locul unei bătălii istorice din 1852 unde triburile unite au rezistat invaziei boerilor.",
+      "facts": [
+        "Símbol al rezistenței Tswana",
+        "Condusă de Kgosi Sechele I",
+        "Rămășițe de fortificații",
+        "Aproape de Molepolole"
+      ]
+    }
+  ]
+}

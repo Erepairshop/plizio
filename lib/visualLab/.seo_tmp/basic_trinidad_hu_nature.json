@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-hollis-reservoir-nature-v2",
+      "description": "A Hollis-víztározó Trinidad egyik legfontosabb ivóvízforrása, amelyet dús erdőségek öveznek. A természetvédelmi terület gazdag vízi és erdei élővilágnak ad otthont.",
+      "facts": ["Ivóvízforrás", "Víztározó", "Gazdag élővilág", "Erdős terület"]
+    },
+    {
+      "id": "tt-trinity-hills-wildlife-sanctuary-nature-v2",
+      "description": "A Trinity Hills Vadrezervátum a sziget délkeleti részének érintetlen erdővidéke. A terület fontos menedéke a veszélyeztetett trinidadi növény- és állatfajoknak.",
+      "facts": ["Vadrezervátum", "Érintetlen erdővidék", "Veszélyeztetett fajok", "Délkeleti rész"]
+    },
+    {
+      "id": "tt-cronstadt-island-nature-v2",
+      "description": "Cronstadt szigete egy csendes természeti kincs a partok közelében, amely a tengeri élővilág megőrzésében játszik fontos szerepet. A sziget körüli vizek gazdagok tengeri életben.",
+      "facts": ["Természeti sziget", "Tengeri élővilág", "Csendes környezet"]
+    },
+    {
+      "id": "tt-saut-d-eau-island-nature-v2",
+      "description": "Saut d'Eau szigete a természetes környezetének köszönhetően egy elzárt, tiszta paradicsom. A sziget a vándormadarak és a tengeri fauna egyik fontos megállóhelye.",
+      "facts": ["Természeti paradicsom", "Vándormadarak", "Tengeri fauna"]
+    }
+  ]
+}

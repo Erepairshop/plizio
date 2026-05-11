@@ -1,0 +1,99 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "Area surrounding the Hardap Dam, serving as a hub for local agricultural activity.",
+      "facts": ["Supports irrigation farming", "Located in Hardap Region", "Key agricultural zone"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Agricultural region surrounding Tsumeb, benefiting from fertile soils.",
+      "facts": ["Mixed crop farming", "Northern agricultural hub", "Supports local community"]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "description": "Cattle ranching district serving as the capital of the Omaheke Region.",
+      "facts": ["Cattle farming hub", "Located in Omaheke", "Key meat production area"]
+    },
+    {
+      "id": "namibia-windhoek-kid-landmark-life-v2",
+      "description": "Recreational and educational area in Windhoek suitable for families.",
+      "facts": ["Family-friendly activities", "Located in Windhoek", "Educational focus"]
+    },
+    {
+      "id": "namibia-okahandja-kid-landmark-life-v2",
+      "description": "Cultural center and crafts market destination in Okahandja.",
+      "facts": ["Handicraft markets", "Located in Okahandja", "Popular cultural site"]
+    },
+    {
+      "id": "namibia-mudumu-animal-habitat-life-v2",
+      "description": "Protected riparian habitat located in the Zambezi Region.",
+      "facts": ["Supports diverse wildlife", "Riparian riverine ecosystem", "Zambezi Region"]
+    },
+    {
+      "id": "namibia-dorob-animal-habitat-life-v2",
+      "description": "Coastal habitat featuring unique desert-adapted species.",
+      "facts": ["Desert-adapted species", "Coastal habitat", "National Park"]
+    },
+    {
+      "id": "namibia-kavango-agriculture-life-v2",
+      "description": "Region along the Kavango River where small-scale farming thrives.",
+      "facts": ["River-based agriculture", "Kavango region", "Supports local food"]
+    },
+    {
+      "id": "namibia-otjiwarongo-agriculture-life-v2",
+      "description": "Commercial agricultural center in central Namibia.",
+      "facts": ["Cattle production", "Central agricultural hub", "Processing center"]
+    },
+    {
+      "id": "namibia-kalahari-animal-habitat-life-v2",
+      "description": "Vast savanna ecosystem home to various arid-land animals.",
+      "facts": ["Savanna habitat", "Arid adaptation", "Large landscape"]
+    },
+    {
+      "id": "namibia-fish-river-animal-habitat-life-v2",
+      "description": "Canyon ecosystem providing unique habitats along the river.",
+      "facts": ["Rugged habitat", "Canyon biodiversity", "Fish River region"]
+    },
+    {
+      "id": "namibia-mariental-agriculture-life-v2",
+      "description": "Agricultural center supporting grain and fodder production.",
+      "facts": ["Grain production", "Located near Hardap", "Commercial agriculture"]
+    },
+    {
+      "id": "namibia-rundu-agriculture-life-v2",
+      "description": "Agricultural node along the Kavango River for northern Namibia.",
+      "facts": ["River-fed irrigation", "Northern supply hub", "Local food production"]
+    },
+    {
+      "id": "namibia-sesriem-kid-landmark-life-v2",
+      "description": "Educational site near Sossusvlei, perfect for family exploration.",
+      "facts": ["Near desert landscapes", "Family exploration", "Nature focus"]
+    },
+    {
+      "id": "namibia-walvis-bay-kid-landmark-life-v2",
+      "description": "Coastal town featuring family-oriented marine activities.",
+      "facts": ["Marine wildlife", "Coastal recreation", "Family tourism"]
+    },
+    {
+      "id": "namibia-tsumkwe-kid-landmark-life-v2",
+      "description": "Site showcasing San cultural heritage and environment.",
+      "facts": ["San culture", "Cultural education", "Bushveld setting"]
+    },
+    {
+      "id": "namibia-luderitz-kid-landmark-life-v2",
+      "description": "Historic coastal settlement with educational maritime exhibits.",
+      "facts": ["Maritime history", "Coastal site", "Educational tours"]
+    },
+    {
+      "id": "namibia-caprivi-animal-habitat-life-v2",
+      "description": "Diverse riverine and forest wildlife sanctuary in northern Namibia.",
+      "facts": ["High biodiversity", "Northern wetlands", "Wildlife refuge"]
+    }
+  ]
+}

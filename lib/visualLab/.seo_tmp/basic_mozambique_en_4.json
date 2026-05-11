@@ -1,0 +1,79 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "An interactive area for children to learn about native animals in a controlled setting.",
+      "facts": ["Interactive animal exhibit", "Educational kid area", "Native species focus", "Family facility"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "The Natural History Museum in Maputo offers kid-focused exhibits on the country's biodiversity.",
+      "facts": ["Natural history education", "Kid-focused museum", "Display of native fauna", "Maputo educational site"]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "A recreational space in Gondola featuring activities for children and families.",
+      "facts": ["Recreational park", "Kid activities", "Family leisure spot", "Gondola district facility"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "A popular, calm beach area in Pemba perfect for young children.",
+      "facts": ["Family-friendly coastline", "Calm swimming waters", "Kid activities", "Pemba seaside"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "A guided experience introducing younger generations to wildlife in the Niassa region.",
+      "facts": ["Kid-friendly safari", "Wildlife discovery", "Guided environmental learning", "Niassa experience"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "A safe river-side park area in Zambezia for children and educational river activities.",
+      "facts": ["River-side leisure", "Safe park area", "Kid educational activities", "Zambezia green zone"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "A local park in Tete providing a space for children and community interaction.",
+      "facts": ["Community green space", "Tete facility", "Children's playground", "Local social hub"]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "A protected area designed to preserve natural habitats for regional fauna.",
+      "facts": ["Animal sanctuary", "Protected habitat", "Regional fauna focus", "Inchope area"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "A green recreational space in Chimoio dedicated to outdoor play and environmental education.",
+      "facts": ["Green recreational hub", "Environmental learning", "Outdoor play facility", "Chimoio municipal area"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "An educational facility promoting marine ecosystem awareness for kids in Vilankulo.",
+      "facts": ["Marine awareness center", "Kid-focused education", "Coastal learning hub", "Vilankulo facility"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "A site dedicated to fostering curiosity in young explorers about local nature.",
+      "facts": ["Youth discovery site", "Nature-focused learning", "Inhambane region", "Exploration activities"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "An agricultural project with a visitor area where kids can learn about farming.",
+      "facts": ["Agricultural center", "Kid farm experience", "Farming education", "Gaza region project"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "A site focusing on the sustainable cultivation of mangoes in the Cabo Delgado province.",
+      "facts": ["Agricultural project", "Mango production", "Cabo Delgado province", "Sustainable farming"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "A regional agricultural initiative showcasing crop development and community farming.",
+      "facts": ["Regional agri-hub", "Community farming initiative", "Crop development", "Tete province project"]
+    }
+  ]
+}

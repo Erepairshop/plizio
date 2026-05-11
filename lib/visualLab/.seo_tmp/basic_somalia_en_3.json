@@ -1,0 +1,60 @@
+{
+  "lang": "en",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "juba-delta-nature-v2",
+      "description": "Rich alluvial delta at the mouth of the Juba River, supporting lush, productive wetlands.",
+      "facts": ["River delta formation", "Lush wetland habitat", "Highly productive soil", "Southern coastal region"]
+    },
+    {
+      "id": "shebelle-middle-reach-nature-v2",
+      "description": "The central section of the Shebelle River, vital for irrigation and riverine ecosystems.",
+      "facts": ["Shebelle river section", "Irrigation-dependent zone", "Riparian flora habitats", "Central farming area"]
+    },
+    {
+      "id": "dadaab-bushland-nature-v2",
+      "description": "Dryland bushland ecosystem characterizing the plains on the border region.",
+      "facts": ["Arid bushland biome", "Plains topography", "Drought-adapted plants", "Remote interior area"]
+    },
+    {
+      "id": "hobyo-dunes-nature-v2",
+      "description": "Expansive coastal dune fields that reshape the landscape along the central Somali coast.",
+      "facts": ["Coastal sand dunes", "Active dune landscape", "Central coastal region", "Wind-formed relief"]
+    },
+    {
+      "id": "xarardheere-coast-nature-v2",
+      "description": "Coastal stretch featuring varied sandy beaches and resilient maritime vegetation.",
+      "facts": ["Central coastal strip", "Sandy beach ecosystems", "Marine-adapted scrub", "Oceanic influence"]
+    },
+    {
+      "id": "barawa-coast-nature-v2",
+      "description": "Historic coastal area with sandy shores and reefs critical for local small-scale fishing.",
+      "facts": ["Southern coastal area", "Coral reef habitats", "Traditional fishing site", "Sandy shore landscape"]
+    },
+    {
+      "id": "ceerigaabo-uplands-nature-v2",
+      "description": "High-elevation plateau region providing cool temperatures and unique forest remnants.",
+      "facts": ["Northern upland plateau", "High-elevation forest", "Cool climate zone", "Regional biodiversity"]
+    },
+    {
+      "id": "kismayo-marine-nature-v2",
+      "description": "Coastal and offshore marine environment known for coral reefs and rich biodiversity.",
+      "facts": ["Southern marine area", "Active coral reefs", "Rich aquatic life", "Kismayo port vicinity"]
+    },
+    {
+      "id": "jowhar-floodplain-nature-v2",
+      "description": "Extensive floodplain area created by the seasonal overflow of the Shebelle River.",
+      "facts": ["Riverine floodplain", "Seasonal water retention", "Agricultural flood lands", "Fertile sediment zone"]
+    },
+    {
+      "id": "mudug-savanna-nature-v2",
+      "description": "Interior savanna plains typical of the central drylands, supporting nomadic pastoralism.",
+      "facts": ["Central interior savanna", "Dryland grass plains", "Pastoralist landscape", "Extensive open area"]
+    }
+  ]
+}

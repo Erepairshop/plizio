@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sodwana-bay-life-v2",
+      "description": "Sodwana Bay is a premier coastal destination in South Africa, renowned for its diverse coral reefs and rich marine life.",
+      "facts": ["Located in iSimangaliso Wetland Park", "Famous scuba diving site", "Warm Indian Ocean currents", "Diverse coral species"]
+    },
+    {
+      "id": "kirstenbosch-botanical-life-v2",
+      "description": "Kirstenbosch is a world-famous botanical garden at the foot of Table Mountain, showcasing the unique Cape Floristic Region.",
+      "facts": ["Established in 1913", "Part of Table Mountain National Park", "Focus on indigenous plants", "UNESCO World Heritage status"]
+    },
+    {
+      "id": "karoo-national-park-life-v2",
+      "description": "Karoo National Park offers a glimpse into the arid, rugged landscape of the Karoo, home to diverse desert-adapted wildlife.",
+      "facts": ["Home to Cape Mountain Zebra", "Rugged mountain terrain", "Rich in fossils", "Desert-adapted animal species"]
+    },
+    {
+      "id": "u-shaka-marine-life-v2",
+      "description": "uShaka Marine World is a major marine theme park in Durban, featuring one of the world's largest aquariums.",
+      "facts": ["Located in Durban", "Features large shark tank", "Focus on marine conservation", "Educational marine exhibits"]
+    },
+    {
+      "id": "augurabies-falls-life-v2",
+      "description": "Augrabies Falls is a spectacular waterfall on the Orange River, surrounded by a unique desert park environment.",
+      "facts": ["Located on the Orange River", "Meaning 'Place of Great Noise'", "Protected national park area", "Dramatic granite gorge"]
+    },
+    {
+      "id": "cape-point-nature-life-v2",
+      "description": "Cape Point is a dramatic promontory at the tip of the Cape Peninsula, known for its unique flora and marine views.",
+      "facts": ["Part of Table Mountain National Park", "Home to endemic fynbos", "Dramatic cliff scenery", "Rich bird population"]
+    },
+    {
+      "id": "boulders-beach-life-v2",
+      "description": "Boulders Beach in Simon's Town is famous for its sheltered sandy coves and resident colony of African penguins.",
+      "facts": ["Home to African penguins", "Sheltered granite boulders", "Part of Table Mountain National Park", "Popular swimming spot"]
+    },
+    {
+      "id": "addison-farms-agriculture-life-v2",
+      "description": "Addison Farms serves as a representative example of South African agricultural practices within the region.",
+      "facts": ["Focus on sustainable farming", "Regional crop diversity", "Local agricultural production", "Supports community development"]
+    },
+    {
+      "id": "kalahari-wildlife-life-v2",
+      "description": "The Kalahari is a semi-arid region in South Africa, known for its iconic wildlife species like the black-maned lion.",
+      "facts": ["Home to diverse raptors", "Iconic black-maned lions", "Large-scale conservation area", "Semi-arid ecosystem"]
+    },
+    {
+      "id": "eagle-encounters-life-v2",
+      "description": "Eagle Encounters is a wildlife rehabilitation center focused on birds of prey in the Western Cape.",
+      "facts": ["Focus on raptor rehabilitation", "Community education programs", "Release and conservation efforts", "Western Cape location"]
+    }
+  ]
+}

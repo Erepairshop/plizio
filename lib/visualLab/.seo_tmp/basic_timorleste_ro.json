@@ -1,0 +1,83 @@
+{
+  "lang": "ro",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteNatureV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "baucau-cities-v2",
+      "description": "Baucau este al doilea oraș ca mărime din Timorul de Est, situat pe coasta de nord.",
+      "facts": ["Populație diversă", "Arhitectură colonială portugheză", "Port important", "Piață locală activă"]
+    },
+    {
+      "id": "maliana-cities-v2",
+      "description": "Maliana este un centru administrativ important situat în apropierea frontierei cu Indonezia.",
+      "facts": ["Centru agricol", "Climat tropical", "Proximitatea frontierei", "Regiune muntoasă"]
+    },
+    {
+      "id": "suai-cities-v2",
+      "description": "Suai este un oraș de coastă situat în sudul țării, cunoscut pentru activitățile sale economice.",
+      "facts": ["Coasta de sud", "Industrie petrolieră", "Port maritim", "Regiune de câmpie"]
+    },
+    {
+      "id": "viqueque-cities-v2",
+      "description": "Viqueque este principalul centru urban din distictul cu același nume din sud-estul țării.",
+      "facts": ["Zona rurală", "Peisaj tropical", "Râuri locale", "Accesibilitate limitată"]
+    },
+    {
+      "id": "pante-macassar-cities-v2",
+      "description": "Pante Macassar este capitala enclavei Oecusse, izolată geografic de restul țării.",
+      "facts": ["Enclavă Oecusse", "Port maritim", "Istorie portugheză", "Acces cu feribotul"]
+    },
+    {
+      "id": "same-cities-v2",
+      "description": "Same este un oraș montan situat în interiorul țării, servind ca centru regional.",
+      "facts": ["Zona montană", "Climat răcoros", "Activități agricole", "Centru administrativ"]
+    },
+    {
+      "id": "aileu-cities-v2",
+      "description": "Aileu este un oraș situat la sud de Dili, în regiunile muntoase centrale.",
+      "facts": ["Altitudine ridicată", "Păduri montane", "Agricultură de subzistență", "Tradiții locale"]
+    },
+    {
+      "id": "ainaro-cities-v2",
+      "description": "Ainaro este cunoscut pentru terenul său accidentat și climatul mai rece în zonele înalte.",
+      "facts": ["Regiune montană", "Climat temperată", "Panta muntelui", "Agricultură diversă"]
+    },
+    {
+      "id": "manatuto-cities-v2",
+      "description": "Manatuto este un oraș de coastă situat între Dili și Baucau, pe drumul principal.",
+      "facts": ["Coasta de nord", "Pescuit local", "Peisaj litoral", "Drum principal"]
+    },
+    {
+      "id": "vila-de-atauro-cities-v2",
+      "description": "Vila de Ataúro este principala așezare pe insula Ataúro, situată la nord de Dili.",
+      "facts": ["Insula Ataúro", "Turism ecologic", "Recife de corali", "Acces cu barca"]
+    },
+    {
+      "id": "maubisse-cities-v2",
+      "description": "Maubisse este un oraș montan celebru pentru peisajele sale și climatul răcoros.",
+      "facts": ["Altitudine mare", "Turism montan", "Agricultură tradițională", "Piață săptămânală"]
+    },
+    {
+      "id": "tutuala-cities-v2",
+      "description": "Tutuala este cea mai estică așezare, situată lângă Parcul Național Nino Konis Santana.",
+      "facts": ["Punctul cel mai estic", "Parc Național", "Plaje izolate", "Cultură locală"]
+    },
+    {
+      "id": "balibo-cities-v2",
+      "description": "Balibo este un oraș istoric situat aproape de granița de vest a Timorului de Est.",
+      "facts": ["Istorie modernă", "Regiune muntoasă", "Punct de observație", "Turism istoric"]
+    },
+    {
+      "id": "ermera-cities-v2",
+      "description": "Ermera este centrul unei regiuni recunoscute pentru producția de cafea de înaltă calitate.",
+      "facts": ["Producția de cafea", "Regiune montană", "Climat fertil", "Centru comercial"]
+    }
+  ]
+}

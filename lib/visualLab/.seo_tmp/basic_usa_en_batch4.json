@@ -1,0 +1,46 @@
+
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "colorado-plateau-relief-v2",
+      "description": "The Colorado Plateau is a large desert region centered on the Four Corners area of the southwestern United States. It is known for its high elevation and deeply incised canyons, including the Grand Canyon.",
+      "facts": [
+        "Covers parts of Arizona, Utah, Colorado, and New Mexico.",
+        "Characterized by its arid climate and 'red rock country'.",
+        "Contains the highest concentration of national parks in the U.S."
+      ]
+    },
+    {
+      "id": "sierra-madre-occidental-relief-v2",
+      "description": "The Sierra Madre Occidental is a major mountain range system of the North American Cordillera that runs northwest-southeast through northwestern and western Mexico, and along the margin of the Colorado Plateau in the U.S.",
+      "facts": [
+        "A major mountain range in western Mexico with extensions into the US.",
+        "Primarily volcanic in origin.",
+        "Home to the expansive Copper Canyon."
+      ]
+    },
+    {
+      "id": "chisos-mountains-relief-v2",
+      "description": "The Chisos Mountains are a mountain range in Big Bend National Park in Texas. It is the only mountain range in the United States to be fully contained within a single national park.",
+      "facts": [
+        "Located entirely within Big Bend National Park.",
+        "The highest peak is Emory Peak at 7,825 feet.",
+        "Its name is thought to derive from a Native American word for 'ghost' or 'spirit'."
+      ]
+    },
+    {
+      "id": "olympic-mountains-relief-v2",
+      "description": "The Olympic Mountains are a mountain range on the Olympic Peninsula of western Washington. They are not particularly high, but their sharp relief and heavy glaciation make them dramatic.",
+      "facts": [
+        "Located within Olympic National Park.",
+        "Mount Olympus is the highest peak.",
+        "Known for receiving significant annual snowfall."
+      ]
+    }
+  ]
+}

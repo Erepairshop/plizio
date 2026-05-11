@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "finca-maiz-veraguas-life-v2",
+      "description": "Exploatație agricolă specializată în cultivarea porumbului, esențială pentru economia rurală din Veraguas.",
+      "facts": ["Provincia Veraguas", "Cultivare porumb", "Agricultură rurală"]
+    },
+    {
+      "id": "parque-infantil-david-life-v2",
+      "description": "Spațiu recreativ pentru copii, situat în orașul David, centrul urban principal al provinciei Chiriquí.",
+      "facts": ["Orașul David", "Chiriquí", "Recreere"]
+    },
+    {
+      "id": "santuario-perezosos-gambo-life-v2",
+      "description": "Centru de salvare și protecție dedicat leneșilor, situat în apropierea zonei Gamboa.",
+      "facts": ["Zona Gamboa", "Salvare leneși", "Protecție animale"]
+    },
+    {
+      "id": "finca-tomate-chiriqui-life-v2",
+      "description": "Fermă horticolă axată pe producția de tomate, profitând de solul fertil și clima din Chiriquí.",
+      "facts": ["Provincia Chiriquí", "Producție tomate", "Agricultură"]
+    },
+    {
+      "id": "parque-infantil-chitre-life-v2",
+      "description": "Loc de joacă și recreere destinat familiilor, situat în orașul Chitré din provincia Herrera.",
+      "facts": ["Orașul Chitré", "Herrera", "Recreere"]
+    },
+    {
+      "id": "zoologico-nacional-panama-life-v2",
+      "description": "Instituție dedicată expunerii și conservării faunei native, un punct de atracție pentru educația ecologică.",
+      "facts": ["Panama City", "Faună nativă", "Educație ecologică"]
+    },
+    {
+      "id": "granja-educativa-panama-life-v2",
+      "description": "Fermă pedagogică menită să prezinte publicului activitățile agricole și creșterea animalelor în Panama.",
+      "facts": ["Panama", "Fermă pedagogică", "Activități agricole"]
+    },
+    {
+      "id": "parque-infantil-santiago-life-v2",
+      "description": "Spațiu public pentru copii în Santiago de Veraguas, oferind facilități de joacă în mediul urban.",
+      "facts": ["Santiago", "Veraguas", "Recreere"]
+    },
+    {
+      "id": "criadero-cocodrilos-panama-life-v2",
+      "description": "Centru specializat în creșterea și conservarea speciilor de crocodili nativi din zonele umede.",
+      "facts": ["Panama", "Conservare", "Crocodili"]
+    },
+    {
+      "id": "finca-agroecologica-panama-life-v2",
+      "description": "Unitate agricolă care promovează metode sustenabile și ecologice de cultivare a produselor locale.",
+      "facts": ["Panama", "Agroecologie", "Agricultură sustenabilă"]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lang": "en",
+  "country": "Kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "khan-tengri-relief-v2",
+      "description": "Khan Tengri is a majestic pyramidal peak in the central Tian Shan, famous for its marble summit that glows red at sunset.",
+      "facts": [
+        "Elevation: 7,010 meters",
+        "Located on the border of Kyrgyzstan, Kazakhstan, and China",
+        "Known as the 'Prince of Spirits' or 'Lord of the Sky'",
+        "World's most northerly 7,000-meter peak"
+      ]
+    },
+    {
+      "id": "tian-shan-relief-v2",
+      "description": "The Tian Shan, or 'Celestial Mountains', is a vast mountain system that covers most of Kyrgyzstan's territory.",
+      "facts": [
+        "UNESCO World Heritage site",
+        "Home to the massive Enilchek Glacier",
+        "Stretches over 2,500 kilometers across Central Asia",
+        "Highest peak is Jengish Chokusu"
+      ]
+    },
+    {
+      "id": "alay-valley-relief-v2",
+      "description": "The Alay Valley is a wide, high-altitude basin in southern Kyrgyzstan, located between the Alay and Trans-Alay mountain ranges.",
+      "facts": [
+        "Average elevation of 3,000 meters",
+        "Traditional summer pasture for Kyrgyz nomads",
+        "Traversed by the famous Pamir Highway",
+        "Offers stunning views of Lenin Peak"
+      ]
+    },
+    {
+      "id": "ala-archa-gorge-relief-v2",
+      "description": "Ala Archa Gorge is a stunning alpine national park near Bishkek, featuring rugged peaks, fast-flowing rivers, and accessible glaciers.",
+      "facts": [
+        "Located just 40 km south of the capital",
+        "Contains over 20 glaciers and 50 mountain peaks",
+        "Established as a national park in 1976",
+        "Popular destination for hiking and mountaineering"
+      ]
+    },
+    {
+      "id": "terskey-ala-too-relief-v2",
+      "description": "The Terskey Ala-Too range borders the southern shore of Lake Issyk-Kul, known for its dense spruce forests and dramatic alpine scenery.",
+      "facts": [
+        "Highest point is Karakol Peak (5,216 m)",
+        "Name means 'shady side of the mountains'",
+        "Famous for the Jeti-Oguz red rock formations",
+        "Region rich in hot springs and waterfalls"
+      ]
+    },
+    {
+      "id": "kungey-ala-too-relief-v2",
+      "description": "The Kungey Ala-Too range forms the northern border of Lake Issyk-Kul and is characterized by its sunny, southward-facing slopes.",
+      "facts": [
+        "Name means 'sunny side of the mountains'",
+        "Forms the natural border with Kazakhstan",
+        "Provides a dramatic backdrop to northern Issyk-Kul resorts",
+        "Popular for mountain trekking and horse riding"
+      ]
+    },
+    {
+      "id": "chong-kemin-valley-relief-v2",
+      "description": "Chong-Kemin is a uniquely diverse valley and national park located between Bishkek and Issyk-Kul, offering varied flora and fauna.",
+      "facts": [
+        "Established as a national park in 1997",
+        "Crossed by the fast-flowing Chong-Kemin River",
+        "Home to rare species like the snow leopard",
+        "Popular for white-water rafting and ecotourism"
+      ]
+    },
+    {
+      "id": "arpa-valley-relief-v2",
+      "description": "The Arpa Valley is a remote, high-altitude plateau in the Naryn Region, known for its extreme climate and isolation.",
+      "facts": [
+        "Situated at an altitude of around 3,000 meters",
+        "One of the coldest inhabited places in Kyrgyzstan",
+        "Used primarily as a vast summer grazing land",
+        "Rich in wildlife including Marco Polo sheep"
+      ]
+    },
+    {
+      "id": "fergana-valley-relief-v2",
+      "description": "The Fergana Valley is a fertile and densely populated basin in Central Asia, with its eastern parts forming a vital agricultural hub for Kyrgyzstan.",
+      "facts": [
+        "Shared between Kyrgyzstan, Uzbekistan, and Tajikistan",
+        "Famous for its silk production and ancient history",
+        "The warmest region in Kyrgyzstan",
+        "Watered by the Naryn and Kara Darya rivers"
+      ]
+    }
+  ]
+}

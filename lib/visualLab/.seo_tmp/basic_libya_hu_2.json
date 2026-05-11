@@ -1,0 +1,60 @@
+{
+  "lang": "hu",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jebel-soda-nature-v2",
+      "description": "Kiterjedt vulkanikus fennsík, amely jellegzetes fekete szikláiról és kopár tájairól ismert. A terület geológiai jelentősége miatt a kutatók egyik kedvelt célpontja.",
+      "facts": ["Típus: vulkanikus fennsík", "Szín: fekete bazalt", "Környezet: sivatagi", "Geológia: vulkanikus"]
+    },
+    {
+      "id": "cyrenaica-coast-nature-v2",
+      "description": "A Földközi-tenger partvonala mentén húzódó változatos terület, amely szikláival és öbleivel tűnik ki. Mediterrán és sivatagi hatások találkoznak ezen a vidéken.",
+      "facts": ["Típus: tengerparti", "Környezet: mediterrán/sivatagi", "Domborzat: sziklás part", "Elhelyezkedés: északi régió"]
+    },
+    {
+      "id": "wadi-farigh-nature-v2",
+      "description": "Ősi folyómeder maradványa, amely ma kietlen sivatagi völgyként húzódik. A mélyedés különleges ökológiai folyosót képez a sivatagban.",
+      "facts": ["Típus: völgy", "Környezet: sivatagi", "Jellemző: száraz folyómeder", "Földrajzi régió: Líbia"]
+    },
+    {
+      "id": "jebel-akdar-highlands-relief-v2",
+      "description": "Az ország északi részének legfontosabb kiemelkedése, amely termékenyebb talajával és változatosabb növényzetével tűnik ki. Jelentős vízgyűjtő terület.",
+      "facts": ["Típus: fennsík", "Éghajlat: mediterrán", "Domborzat: kiemelkedő", "Jellemző: termékeny terület"]
+    },
+    {
+      "id": "jebel-tarhuna-relief-v2",
+      "description": "Tripolitania régiójának meghatározó hegyvidéki területe. A fennsík klímája kedvezőbb a környékbelinél, így népszerű mezőgazdasági övezet.",
+      "facts": ["Típus: hegyvidék", "Régió: Tripolitania", "Domborzat: fennsíki", "Gazdaság: mezőgazdaság"]
+    },
+    {
+      "id": "jebel-nafusa-relief-v2",
+      "description": "Széles körben elterülő hegyvonulat, amely fontos kulturális és történelmi helyszíneknek ad otthont. A karsztos terület egyedi domborzati formákat rejt.",
+      "facts": ["Típus: hegyvonulat", "Jellemző: karsztos vidék", "Kulturális jelentőség", "Domborzat: változatos"]
+    },
+    {
+      "id": "jebel-aswad-relief-v2",
+      "description": "A fekete hegyekként ismert terület, amely látványos vulkanikus kiemelkedéseiről nevezetes. A kopár sziklás táj rendkívüli látványt nyújt.",
+      "facts": ["Típus: hegyvonulat", "Szín: sötét kőzet", "Domborzat: vulkanikus", "Környezet: sivatagi"]
+    },
+    {
+      "id": "wadi-al-farigh-relief-v2",
+      "description": "Hosszúkás mélyedés a sivatagban, amely fontos közlekedési útvonal volt a múltban. A völgy geológiailag mélyedésként írható le.",
+      "facts": ["Típus: völgy", "Domborzat: mélyedés", "Környezet: sivatagi", "Jelentőség: történelmi út"]
+    },
+    {
+      "id": "sarir-tanezrouft-relief-v2",
+      "description": "Széles síkság, amely az ország egyik leglaposabb része. A terület felszíne kavicsos és mentes minden jelentősebb kiemelkedéstől.",
+      "facts": ["Típus: síkság", "Domborzat: teljesen sík", "Környezet: kietlen", "Felszín: kavicsos"]
+    },
+    {
+      "id": "gaberoun-lake-relief-v2",
+      "description": "Oázisban fekvő sós vizű tó, amelyet homokdűnék vesznek körül. A táj az ország egyik leglátványosabb természeti képződménye.",
+      "facts": ["Típus: tó", "Víz típusa: sós", "Környezet: oázis", "Jellemző: dűnék övezik"]
+    }
+  ]
+}

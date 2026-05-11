@@ -1,0 +1,86 @@
+{
+  "lang": "en",
+  "country": "Namibia",
+  "files": [
+    "lib/visualLab/data/poiExtraNamibiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNamibiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hohenzollernhaus-history-v2",
+      "description": "Hohenzollernhaus in Lüderitz is a historic building known for its distinctive German colonial architecture.",
+      "facts": ["Lüderitz", "German colonial architecture", "Historic landmark"]
+    },
+    {
+      "id": "nakambale-museum-history-v2",
+      "description": "The Nakambale Museum in Oniipa preserves the history of Finnish missionaries and the local Ovambo culture.",
+      "facts": ["Ovambo culture", "Finnish missionaries", "Oniipa"]
+    },
+    {
+      "id": "goerke-haus-history-v2",
+      "description": "Goerke House in Lüderitz is a magnificent colonial-era building, reflecting the town's diamond boom era.",
+      "facts": ["Lüderitz", "Diamond boom era", "Colonial architecture"]
+    },
+    {
+      "id": "christuskirche-windhoek-landmarks-v2",
+      "description": "Christuskirche in Windhoek is an iconic Lutheran church, symbolizing peace and the end of colonial wars.",
+      "facts": ["Windhoek", "Lutheran church", "Symbol of peace"]
+    },
+    {
+      "id": "tintenpalast-landmarks-v2",
+      "description": "Tintenpalast in Windhoek is Namibia's Parliament building and a prominent landmark in the capital.",
+      "facts": ["Parliament building", "Windhoek", "Prominent landmark"]
+    },
+    {
+      "id": "woermannhaus-landmarks-v2",
+      "description": "Woermannhaus in Swakopmund is a historic landmark with a tower offering panoramic views of the city and ocean.",
+      "facts": ["Swakopmund", "Historic landmark", "Panoramic views"]
+    },
+    {
+      "id": "goerke-haus-luderitz-landmarks-v2",
+      "description": "Goerke House in Lüderitz is a splendid example of Art Nouveau architecture from the diamond mining era.",
+      "facts": ["Lüderitz", "Art Nouveau", "Diamond mining era"]
+    },
+    {
+      "id": "turnhalle-windhoek-landmarks-v2",
+      "description": "Turnhalle in Windhoek is a historic building, site of a controversial constitutional conference during apartheid.",
+      "facts": ["Windhoek", "Historic building", "Apartheid era"]
+    },
+    {
+      "id": "heinitzburg-landmarks-v2",
+      "description": "Heinitzburg is one of three castles in Windhoek, now a luxury hotel, offering stunning views of the city.",
+      "facts": ["Windhoek castle", "Luxury hotel", "Stunning views"]
+    },
+    {
+      "id": "franke-tower-omaruru-landmarks-v2",
+      "description": "Franke Tower in Omaruru is a historical monument commemorating Major Franke's relief expedition.",
+      "facts": ["Omaruru", "Historical monument", "Relief expedition"]
+    },
+    {
+      "id": "tsumeb-museum-alte-minenkommissariat-landmarks-v2",
+      "description": "Tsumeb Museum, housed in the old mine commissioner's office, showcases the town's mining history.",
+      "facts": ["Tsumeb", "Mining history", "Mine commissioner's office"]
+    },
+    {
+      "id": "kapps-hotel-luderitz-landmarks-v2",
+      "description": "Kapps Hotel in Lüderitz is a historic hotel, offering a glimpse into the town's rich past.",
+      "facts": ["Lüderitz", "Historic hotel", "Rich past"]
+    },
+    {
+      "id": "namibia-hardap-agriculture-life-v2",
+      "description": "The Hardap region is known for its irrigation agriculture, supported by the Hardap Dam.",
+      "facts": ["Irrigation agriculture", "Hardap Dam", "Fertile lands"]
+    },
+    {
+      "id": "namibia-tsumeb-agriculture-life-v2",
+      "description": "Tsumeb is an important agricultural center, known for maize cultivation and livestock farming.",
+      "facts": ["Agricultural center", "Maize cultivation", "Livestock farming"]
+    },
+    {
+      "id": "namibia-gobabis-agriculture-life-v2",
+      "description": "The Gobabis region is a hub for livestock farming, particularly known for its cattle ranches.",
+      "facts": ["Livestock farming", "Cattle ranches", "Gobabis"]
+    }
+  ]
+}

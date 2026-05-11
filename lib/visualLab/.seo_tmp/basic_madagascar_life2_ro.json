@@ -1,0 +1,69 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "Grădina botanică din Toliara expune o colecție impresionantă de plante suculente endemice zonei aride din sud.",
+      "facts": ["Plante suculente", "Colecție botanică", "Specific zonei sudice"]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Plaja din Mahajanga este un punct de întâlnire central pentru comunitatea locală, oferind activități de agrement.",
+      "facts": ["Punct de întâlnire", "Activități de plajă", "Zona Mahajanga"]
+    },
+    {
+      "id": "tsingy-namoroka-park-life-v2",
+      "description": "Parcul Național Tsingy de Namoroka protejează o biodiversitate remarcabilă într-un peisaj carstic spectaculos.",
+      "facts": ["Peisaj carstic", "Biodiversitate protejată", "Parc național"]
+    },
+    {
+      "id": "fianarantsoa-weingut-life-v2",
+      "description": "Podgoriile din jurul Fianarantsoa produc vinuri locale renumite în Madagascar, profitând de clima temperată.",
+      "facts": ["Producție de vin", "Climă temperată", "Regiunea Fianarantsoa"]
+    },
+    {
+      "id": "nosy-komba-lemuren-life-v2",
+      "description": "Insula Nosy Komba este celebră pentru lemurii negri semi-domesticiți care trăiesc în pădurile sale tropicale.",
+      "facts": ["Lemuri negri", "Insulă tropicală", "Turism ecologic"]
+    },
+    {
+      "id": "zombitse-vohibasia-park-life-v2",
+      "description": "Parcul Zombitse-Vohibasia este un punct de tranziție crucial între ecosistemele aride și cele forestiere.",
+      "facts": ["Zona de tranziție", "Diversitate ecosistemică", "Parc natural"]
+    },
+    {
+      "id": "antsirabe-thermalbad-life-v2",
+      "description": "Băile termale din Antsirabe sunt renumite pentru proprietățile curative ale apelor vulcanice locale.",
+      "facts": ["Ape termale curative", "Tradiții locale", "Facilități balneare"]
+    },
+    {
+      "id": "ankarafantsika-vogelbeobachtung-life-v2",
+      "description": "Parcul Ankarafantsika este un paradis pentru ornitologi, oferind habitate diverse pentru numeroase specii de păsări.",
+      "facts": ["Paradis ornitologic", "Habitate diverse", "Specii aviare endemice"]
+    },
+    {
+      "id": "nosy-mitsio-tauchen-life-v2",
+      "description": "Arhipelagul Nosy Mitsio oferă locuri de scufundare de clasă mondială cu recife de corali și faună marină bogată.",
+      "facts": ["Scufundări marine", "Recife de corali", "Arhipelag vulcanic"]
+    },
+    {
+      "id": "tampolo-naturreservat-life-v2",
+      "description": "Rezervația naturală Tampolo conservă păduri litorale primare și ecosisteme de lagune unice în estul insulei.",
+      "facts": ["Păduri litorale", "Ecosistem de lagună", "Zonă conservată"]
+    },
+    {
+      "id": "amphibien-wald-ranomafana-life-v2",
+      "description": "Pădurea din Ranomafana adăpostește o mare varietate de amfibieni endemici, fiind esențială pentru cercetările herpetologice.",
+      "facts": ["Amfibieni endemici", "Studiu herpetologic", "Pădure tropicală"]
+    },
+    {
+      "id": "mahajanga-zoo-life-v2",
+      "description": "Grădina zoologică din Mahajanga prezintă fauna locală a Madagascarului într-un mediu educativ pentru vizitatori.",
+      "facts": ["Faună malgașă", "Mediu educativ", "Situat în Mahajanga"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mangoro-river-nature-v2",
+      "description": "Der Mangoro ist einer der wasserreichsten Flüsse im Osten Madagaskars und fließt durch üppige Regenwaldgebiete.",
+      "facts": ["Wichtig für die Stromerzeugung", "Bekannt für Wildwasser-Rafting", "Mündet in den Indischen Ozean"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "Das Nosy Mitseo Archipel besticht durch seine unberührte Natur, kristallklares Wasser und einzigartige geologische Formationen.",
+      "facts": ["Spektakuläre Basaltsäulen (Organ Pipes)", "Bestehend aus mehreren kleinen Inseln", "Refugium für Seevögel"]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "description": "Der Nationalpark Montagne d'Ambre ist eine grüne Oase im Norden, bekannt für seinen Bergregenwald und kühle Wasserfälle.",
+      "facts": ["Einer der ältesten Parks Madagaskars", "Hohe Dichte an Chamäleons", "Isoliertes Mikro-Ökosystem"]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "description": "Der heilige See von Anivorano ist die Heimat zahlreicher Krokodile, die von den Einheimischen rituell verehrt und gefüttert werden.",
+      "facts": ["Ort lokaler Legenden und Fady (Tabus)", "Vulkanischer Ursprung", "Heiliger Ort für die Antankarana"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Die Natur von Nosy Tanikely bietet sowohl über als auch unter Wasser eine außergewöhnliche Vielfalt in einem geschützten Rahmen.",
+      "facts": ["Kleiner Leuchtturm mit Rundumblick", "Reiches Meeresleben am Saumriff", "Schutzgebiet für Flughunde"]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "description": "Das Makay-Massiv ist eines der letzten unberührten Gebiete Madagaskars, geprägt von tiefen Canyons und isolierten Wäldern.",
+      "facts": ["Geologisch einzigartige Sandsteinwelt", "Labyrinth aus Schluchten", "Hoher Anteil unentdeckter Arten"]
+    },
+    {
+      "id": "analamera-relief-v2",
+      "description": "Das Analamera-Plateau im Norden ist ein schroffes Relief aus Kalkstein und roter Erde, das seltene Tierarten beherbergt.",
+      "facts": ["Zentrum des Perrier-Sifaka Schutzes", "Trockene Karstlandschaft", "Abgelegen und schwer zugänglich"]
+    },
+    {
+      "id": "boby-peak-foothills-relief-v2",
+      "description": "Die Ausläufer des Pic Boby bieten eine dramatische Bergkulisse mit Granitkuppeln und alpiner Vegetation.",
+      "facts": ["Zweithöchster Gipfel Madagaskars", "Beliebtes Trekking-Ziel im Andringitra", "Extreme Temperaturschwankungen"]
+    },
+    {
+      "id": "manongarivo-massif-relief-v2",
+      "description": "Das Manongarivo-Massiv ist ein zerklüftetes Bergmassiv im Nordwesten, das als wichtiges Wassereinzugsgebiet fungiert.",
+      "facts": ["Teil der Tsaratanana-Gebirgskette", "Unberührte Bergregenwälder", "Bedeutend für endemische Vögel"]
+    }
+  ]
+}

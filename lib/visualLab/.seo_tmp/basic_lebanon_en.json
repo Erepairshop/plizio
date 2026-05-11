@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Lebanon",
+  "files": [
+    "lib/visualLab/data/poiExtraLebanonEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "port-of-jounieh-economic-v2",
+      "description": "The Port of Jounieh serves as a significant maritime hub on the Mediterranean coast of Lebanon. It facilitates commercial shipping and supports the local fishing and tourism industries.",
+      "facts": [
+        "Located north of Beirut",
+        "Key Mediterranean harbor",
+        "Supports regional commerce",
+        "Vital for local fishing"
+      ]
+    }
+  ]
+}

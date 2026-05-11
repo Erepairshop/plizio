@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bashayer-marine-terminal-economic-v2",
+      "description": "A major marine terminal located on the Red Sea coast, critical for Sudan's oil exports.",
+      "facts": ["Red Sea location", "Oil export hub", "Strategic infrastructure", "Modern terminal facilities"]
+    },
+    {
+      "id": "al-khair-terminal-economic-v2",
+      "description": "An important terminal infrastructure supporting the nation's energy and maritime logistics.",
+      "facts": ["Maritime infrastructure", "Energy support", "Red Sea logistics", "Export-oriented facility"]
+    },
+    {
+      "id": "prince-osman-digna-port-economic-v2",
+      "description": "A key port facility serving as a vital link for maritime trade and regional commerce.",
+      "facts": ["Sudan maritime link", "Trade gateway", "Red Sea port", "Logistics hub"]
+    },
+    {
+      "id": "port-sudan-south-port-economic-v2",
+      "description": "A major container handling section within Port Sudan, essential for import and export activities.",
+      "facts": ["Container terminal", "Port Sudan complex", "Import export hub", "Strategic trade location"]
+    },
+    {
+      "id": "port-sudan-green-port-economic-v2",
+      "description": "A specialized terminal facility in Port Sudan designed for efficient cargo management.",
+      "facts": ["Cargo facility", "Port infrastructure", "Port Sudan site", "Logistics efficiency"]
+    },
+    {
+      "id": "kosti-inland-port-economic-v2",
+      "description": "An important inland port in Kosti, connecting river and rail transport networks.",
+      "facts": ["Inland logistics hub", "Kosti location", "River-rail connection", "Regional trade site"]
+    },
+    {
+      "id": "wadi-halfa-river-port-economic-v2",
+      "description": "A crucial river port on the Nile, serving as a trade gateway between Sudan and Egypt.",
+      "facts": ["Nile river port", "Wadi Halfa site", "Egypt trade route", "Border gateway"]
+    },
+    {
+      "id": "kenana-sugar-factory-economic-v2",
+      "description": "One of the largest integrated sugar and ethanol production complexes in the world.",
+      "facts": ["Global sugar producer", "Integrated complex", "Ethanol production", "Large-scale agriculture"]
+    },
+    {
+      "id": "white-nile-sugar-factory-economic-v2",
+      "description": "A major facility dedicated to sugar production along the White Nile corridor.",
+      "facts": ["White Nile location", "Sugar production", "Agricultural industry", "Regional employer"]
+    },
+    {
+      "id": "assalaya-sugar-factory-economic-v2",
+      "description": "An established sugar processing plant supporting the agricultural economy in the region.",
+      "facts": ["Sugar manufacturing", "Assalaya site", "Agricultural processing", "Regional output"]
+    }
+  ]
+}

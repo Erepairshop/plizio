@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "riziere-casamance-life-v2",
+      "description": "Casamance termékeny régiója Szenegál rizstermelésének központja, ahol a hagyományos gazdálkodás máig meghatározó.",
+      "facts": ["Rizstermelés", "Casamance régió", "Tradicionális mezőgazdaság"]
+    },
+    {
+      "id": "jardin-zoologique-dakar-life-v2",
+      "description": "Dakar állatkertje a városi lakosság kedvelt kikapcsolódási helyszíne, ahol helyi és afrikai állatfajok tekinthetők meg.",
+      "facts": ["Állatkert", "Dakar", "Oktatóközpont"]
+    },
+    {
+      "id": "parc-lompoul-life-v2",
+      "description": "Lompoul sivatagi környezete és az ott található táborok egyedi élményt nyújtanak a természet szerelmeseinek.",
+      "facts": ["Sivatagi táj", "Turisztikai tábor", "Dűnék"]
+    },
+    {
+      "id": "culture-coton-tambacounda-life-v2",
+      "description": "Tambacounda környékén a gyapottermesztés fontos iparág, amely a régió gazdasági életének meghatározó eleme.",
+      "facts": ["Gyapottermesztés", "Tambacounda", "Mezőgazdasági ipar"]
+    },
+    {
+      "id": "plage-des-enfants-life-v2",
+      "description": "Dakar egyik családbarát strandja, ahol a sekély víz és a nyugodt környezet kiváló lehetőséget biztosít a gyerekeknek a játékra.",
+      "facts": ["Strand", "Családbarát", "Dakar"]
+    },
+    {
+      "id": "jardin-botanique-dakar-life-v2",
+      "description": "A dakari botanikus kert Szenegál különleges növényvilágának megőrzésére és bemutatására szolgál.",
+      "facts": ["Botanikus kert", "Növénygyűjtemény", "Dakar"]
+    },
+    {
+      "id": "culture-tomate-podor-life-v2",
+      "description": "Podor vidékén a paradicsomtermesztés a helyi gazdaság fejlődését segíti az öntözéses rendszereknek köszönhetően.",
+      "facts": ["Paradicsomtermesztés", "Podor", "Öntözéses gazdálkodás"]
+    },
+    {
+      "id": "centre-ecquestre-dakar-life-v2",
+      "description": "Dakar lovasközpontja a lovassportok és a szabadidős lovaglás kedvelőinek kínál színvonalas szolgáltatásokat.",
+      "facts": ["Lovasközpont", "Lovaglás", "Dakar"]
+    },
+    {
+      "id": "culture-oignon-stlouis-life-v2",
+      "description": "Saint-Louis környékén a hagyma termesztése kiemelt jelentőséggel bír a régió élelmiszerellátásában.",
+      "facts": ["Hagyma termesztés", "Saint-Louis", "Mezőgazdaság"]
+    },
+    {
+      "id": "parc-safari-delta-life-v2",
+      "description": "A folyódeltában kialakított szafari park lehetőséget nyújt a gazdag vadvilág megfigyelésére természetes közegében.",
+      "facts": ["Szafari park", "Folyódelta", "Vadvilág"]
+    }
+  ]
+}

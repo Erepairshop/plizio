@@ -1,0 +1,75 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaNatureV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "laguna-de-chiriqui-sea-v2",
+      "description": "O lagună extinsă situată de-a lungul coastei caribiene, importantă pentru biodiversitatea marină și economia locală.",
+      "facts": ["Coasta Caraibilor", "Lagună marină", "Biodiversitate"]
+    },
+    {
+      "id": "cerro-bruja-relief-v2",
+      "description": "Vârf montan proeminent, făcând parte din sistemul orografic care traversează istmul Panama.",
+      "facts": ["Vârf montan", "Panama", "Geografie"]
+    },
+    {
+      "id": "cerro-punta-hohe-relief-v2",
+      "description": "Zonă înaltă situată în regiunea Chiriquí, recunoscută pentru climatul temperat și peisajele montane.",
+      "facts": ["Chiriquí", "Climat temperat", "Relief înalt"]
+    },
+    {
+      "id": "cerro-trinidad-relief-v2",
+      "description": "Formațiune montană reprezentativă pentru relieful central al țării, oferind perspective panoramice asupra regiunii.",
+      "facts": ["Relief central", "Vârf montan", "Panoramă"]
+    },
+    {
+      "id": "cerro-trinidad-norte-relief-v2",
+      "description": "Sector nordic al muntelui Cerro Trinidad, caracterizat prin relief accidentat și vegetație bogată.",
+      "facts": ["Relief accidentat", "Sector nordic", "Panama"]
+    },
+    {
+      "id": "volcan-baru-relief-v2",
+      "description": "Cel mai înalt punct din Panama, un vulcan inactiv care domină peisajul provinciei Chiriquí.",
+      "facts": ["Cel mai înalt punct", "Vulcan inactiv", "Chiriquí"]
+    },
+    {
+      "id": "loma-del-pan-relief-v2",
+      "description": "Colină cu relief distinctiv, situată într-o zonă de tranziție geografică din interiorul țării.",
+      "facts": ["Colină", "Relief interior", "Panama"]
+    },
+    {
+      "id": "cerro-patacon-relief-v2",
+      "description": "Înălțime geografică situată în apropierea capitalei, parte a zonei deluroase din împrejurimile orașului.",
+      "facts": ["Aproape de capitală", "Zonă deluroasă", "Panama City"]
+    },
+    {
+      "id": "coiba-inselhuegel-relief-v2",
+      "description": "Formațiuni deluroase pe insula Coiba, contribuind la diversitatea reliefului acestui parc național maritim.",
+      "facts": ["Insula Coiba", "Relief deluros", "Parc național"]
+    },
+    {
+      "id": "azuero-berge-relief-v2",
+      "description": "Sistem de dealuri și munți joși care formează coloana vertebrală a peninsulei Azuero.",
+      "facts": ["Peninsula Azuero", "Relief deluros", "Geografie regională"]
+    },
+    {
+      "id": "cerro-cucurucha-relief-v2",
+      "description": "Vârf situat în zona muntoasă, fiind un punct de referință pentru relieful local.",
+      "facts": ["Vârf montan", "Relief local", "Panama"]
+    },
+    {
+      "id": "altos-de-campana-hohe-relief-v2",
+      "description": "Zonă înaltă din parcul național Campana, recunoscută pentru structura sa geologică și biodiversitate.",
+      "facts": ["Parcul Campana", "Relief înalt", "Geologie"]
+    },
+    {
+      "id": "cerro-gaitancillo-relief-v2",
+      "description": "Colină situată în zona centrală, făcând parte din relieful diversificat al țării.",
+      "facts": ["Colină", "Relief central", "Panama"]
+    }
+  ]
+}

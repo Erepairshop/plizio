@@ -1,0 +1,92 @@
+{
+    "lang": "multi4",
+    "country": "guinea",
+    "files": ["lib/visualLab/data/poiExtraGuineaCitiesV2.ts"],
+    "items": [
+      {
+        "id": "mandiana-cities-v2",
+        "descriptionAdvancedDe": "Mandiana liegt im Osten Guineas an der Grenze zu Mali und ist ein wichtiges Zentrum der Malinke-Kultur. Die Region ist reich an Goldvorkommen, was zu einem bedeutenden handwerklichen Bergbausektor geführt hat. Die Stadt liegt am Sankarani-Fluss, einem Nebenfluss des Niger, der für die lokale Landwirtschaft und Fischerei von entscheidender Bedeutung ist. Mandiana war historisch Teil des Mali-Reiches und hat eine starke mündliche Überlieferungstradition, die von den Griots (Geschichtenerzählern) gepflegt wird. Die Landwirtschaft, insbesondere der Anbau von Baumwolle, ist neben dem Goldabbau die wichtigste wirtschaftliche Aktivität. Geographie K8 – Kulturerbe und Rohstoffabbau.",
+        "descriptionAdvancedHu": "Mandiana Kelet-Guineában, a Mali határán fekszik, és a malinke kultúra fontos központja. A régió aranylelőhelyekben gazdag, ami jelentős kézműves bányászati szektort eredményezett. A város a Sankarani folyó, a Niger mellékfolyója mentén fekszik, amely létfontosságú a helyi mezőgazdaság és halászat számára. Mandiana történelmileg a Mali Birodalom része volt, és erős szóbeli hagyományokkal rendelkezik, amelyeket a griot-k (mesemondók) ápolnak. A mezőgazdaság, különösen a gyapottermesztés, az aranybányászat mellett a legfontosabb gazdasági tevékenység. Földrajz K8 – Kulturális örökség és nyersanyag-kitermelés.",
+        "descriptionAdvancedRo": "Mandiana este situată în estul Guineei, la granița cu Mali, și este un centru important al culturii Malinke. Regiunea este bogată în zăcăminte de aur, ceea ce a dus la un sector minier artizanal semnificativ. Orașul este situat pe râul Sankarani, un afluent al Nigerului, care este crucial pentru agricultura și pescuitul local. Mandiana a făcut parte istoric din Imperiul Mali și are o tradiție orală puternică, menținută de griots (povestitori). Agricultura, în special cultivarea bumbacului, este cea mai importantă activitate economică, alături de extracția aurului. Geografie K8 – Patrimoniu cultural și extracție de resurse.",
+        "descriptionAdvancedEn": "Located in eastern Guinea on the border with Mali, Mandiana is an important center of Malinke culture. The region is rich in gold deposits, which has led to a significant artisanal mining sector. The city is located on the Sankarani River, a tributary of the Niger, which is crucial for local agriculture and fishing. Mandiana was historically part of the Mali Empire and has a strong oral tradition maintained by the griots (storytellers). Agriculture, especially the cultivation of cotton, is the most important economic activity alongside gold mining. Geography K8 – Cultural heritage and resource extraction.",
+        "factsAdvanced": [
+            "A Mandiana prefektúra adminisztratív központja a Kankan régióban.",
+            "A Malinke nép egyik legfontosabb kulturális központja.",
+            "Jelentős kézműves aranybányászati tevékenységéről ismert.",
+            "A Sankarani folyó partján fekszik, közel a mali határhoz.",
+            "A gyapottermesztés fontos központja.",
+            "A város lakossága körülbelül 25 000 fő.",
+            "Történelmileg a Mali Birodalom része volt.",
+            "A régió híres a hagyományos zenei és táncos hagyományairól."
+        ]
+      },
+      {
+        "id": "pita-cities-v2",
+        "descriptionAdvancedDe": "Pita ist eine malerische Stadt im Herzen des Fouta-Djallon-Hochlands, die für ihre atemberaubenden Wasserfälle, insbesondere die Kinkon- und Kambadaga-Fälle, berühmt ist. Die Stadt ist von einer grünen, hügeligen Landschaft umgeben, die sich ideal für den Anbau von Gemüse und Obst eignet. Pita ist ein beliebtes Ziel für Wanderer und Naturliebhaber. Die Fulbe-Kultur prägt die Region, und die traditionelle Architektur ist in den umliegenden Dörfern gut erhalten. Die Stadt dient als Marktzentrum und ist bekannt für ihre handgefertigten Textilien und Lederwaren. Geographie K7 – Naturtourismus und Hochlandkultur.",
+        "descriptionAdvancedHu": "Pita egy festői város a Fouta-Djallon-felföld szívében, amely lélegzetelállító vízeséseiről, különösen a Kinkon- és a Kambadaga-vízesésről híres. A várost zöld, dombos táj veszi körül, amely ideális zöldség- és gyümölcstermesztésre. Pita népszerű célpont a túrázók és a természetbarátok számára. A fulbe kultúra meghatározó a régióban, és a hagyományos építészet jól megőrződött a környező falvakban. A város piaci központként szolgál, és kézzel készített textíliáiról és bőráruiról ismert. Földrajz K7 – Természetjárás és felföldi kultúra.",
+        "descriptionAdvancedRo": "Pita este un oraș pitoresc în inima podișului Fouta Djallon, renumit pentru cascadele sale uluitoare, în special cascadele Kinkon și Kambadaga. Orașul este înconjurat de un peisaj verde, deluros, ideal pentru cultivarea legumelor și fructelor. Pita este o destinație populară pentru drumeți și iubitorii de natură. Cultura Fulani modelează regiunea, iar arhitectura tradițională este bine conservată în satele din jur. Orașul servește drept centru de piață și este cunoscut pentru textilele și articolele din piele lucrate manual. Geografie K7 – Turism natural și cultură montană.",
+        "descriptionAdvancedEn": "Pita is a picturesque town in the heart of the Fouta Djallon highlands, famous for its breathtaking waterfalls, especially the Kinkon and Kambadaga falls. The town is surrounded by a green, hilly landscape ideal for growing vegetables and fruits. Pita is a popular destination for hikers and nature lovers. The Fulani culture shapes the region, and traditional architecture is well preserved in the surrounding villages. The town serves as a market center and is known for its handmade textiles and leather goods. Geography K7 – Nature tourism and highland culture.",
+        "factsAdvanced": [
+            "A Pita prefektúra közigazgatási központja a Mamou régióban.",
+            "Híres a Kambadaga- és Kinkon-vízesésekről.",
+            "A Fouta Djallon egyik legfestőibb területén található.",
+            "Fontos központja a burgonya-, paradicsom- és hagymatermesztésnek.",
+            "A lakosság körülbelül 20 000 fő.",
+            "A fulbe kultúra és a hagyományos iszlám oktatás központja.",
+            "Népszerű célpont a belföldi és nemzetközi turisták körében.",
+            "A régióban számos túraútvonal található."
+        ]
+      },
+      {
+        "id": "tougue-cities-v2",
+        "descriptionAdvancedDe": "Tougué liegt im nordöstlichen Teil des Fouta-Djallon-Hochlands und ist eine der abgelegeneren Präfekturhauptstädte Guineas. Die Wirtschaft basiert fast ausschließlich auf Viehzucht, insbesondere auf Rindern, und der Landwirtschaft für den Eigenbedarf. Die Region ist bekannt für ihre starken Fulbe-Traditionen und ihre konservative islamische Kultur. Die Landschaft ist trocken und felsig, was die Landwirtschaft erschwert. Tougué ist ein Beispiel für das traditionelle, ländliche Leben im Fouta Djallon, weit entfernt von den urbanen Zentren des Landes. Geographie K7 – Traditionelle Viehzucht und abgelegene Regionen.",
+        "descriptionAdvancedHu": "Tougué a Fouta-Djallon-felföld északkeleti részén fekszik, és Guinea egyik legelzártabb prefektusi fővárosa. A gazdaság szinte kizárólag az állattenyésztésre, különösen a szarvasmarha-tenyésztésre és az önellátó mezőgazdaságra épül. A régió erős fulbe hagyományairól és konzervatív iszlám kultúrájáról ismert. A táj száraz és sziklás, ami megnehezíti a mezőgazdaságot. Tougué a Fouta Djallon hagyományos, vidéki életének példája, távol az ország városi központjaitól. Földrajz K7 – Hagyományos állattenyésztés és elzárt régiók.",
+        "descriptionAdvancedRo": "Tougué este situat în partea de nord-est a podișului Fouta Djallon și este una dintre cele mai izolate capitale de prefectură din Guineea. Economia se bazează aproape exclusiv pe creșterea animalelor, în special a vitelor, și pe agricultura de subzistență. Regiunea este cunoscută pentru tradițiile sale puternice Fulani și cultura sa islamică conservatoare. Peisajul este uscat și stâncos, ceea ce face agricultura dificilă. Tougué este un exemplu al vieții rurale tradiționale din Fouta Djallon, departe de centrele urbane ale țării. Geografie K7 – Creșterea tradițională a animalelor și regiuni izolate.",
+        "descriptionAdvancedEn": "Located in the northeastern part of the Fouta Djallon highlands, Tougué is one of Guinea's more remote prefectural capitals. The economy is based almost exclusively on livestock, especially cattle, and subsistence agriculture. The region is known for its strong Fulani traditions and conservative Islamic culture. The landscape is dry and rocky, which makes agriculture difficult. Tougué is an example of traditional rural life in Fouta Djallon, far from the country's urban centers. Geography K7 – Traditional livestock farming and remote regions.",
+        "factsAdvanced": [
+            "A Tougué prefektúra adminisztratív központja a Labé régióban.",
+            "A Fouta Djallon egyik legelszigeteltebb és leghagyományosabb területe.",
+            "A gazdaság főként a szarvasmarha-tenyésztésre összpontosít.",
+            "A lakosság szinte kizárólag a Fulbe népcsoporthoz tartozik.",
+            "A régióban a hagyományos iszlám törvények és szokások erősen élnek.",
+            "A város lakossága körülbelül 5000 fő.",
+            "A területet száraz, sziklás fennsíkok jellemzik.",
+            "Fontos központja a hagyományos Korán-oktatásnak."
+        ]
+      },
+      {
+        "id": "yomou-cities-v2",
+        "descriptionAdvancedDe": "Yomou liegt in der südlichsten Spitze der Waldregion Guineas, an der Grenze zu Liberia. Die Stadt ist von dichtem tropischem Regenwald umgeben und das Zentrum der Präfektur Yomou. Die Wirtschaft stützt sich auf die Landwirtschaft, insbesondere auf den Anbau von Kaffee, Kakao und Palmöl. Die Region ist auch für ihre Holzindustrie bekannt. Die Nähe zu Liberia hat die Geschichte und Demografie der Stadt stark beeinflusst, insbesondere während der liberianischen Bürgerkriege. Die ethnischen Gruppen der Mano und Kpelle sind in der Region stark vertreten. Geographie K8 – Regenwaldwirtschaft und Grenzregionen.",
+        "descriptionAdvancedHu": "Yomou Guinea legdélibb csücskében, az erdős régióban, a libériai határ mentén fekszik. A várost sűrű trópusi esőerdő veszi körül, és a Yomou prefektúra központja. A gazdaság a mezőgazdaságra támaszkodik, különösen a kávé-, kakaó- és pálmaolaj-termesztésre. A régió a faiparáról is ismert. A Libériához való közelség erősen befolyásolta a város történelmét és demográfiáját, különösen a libériai polgárháborúk idején. A mano és kpelle etnikai csoportok erősen képviseltetik magukat a régióban. Földrajz K8 – Esőerdő-gazdálkodás és határ menti régiók.",
+        "descriptionAdvancedRo": "Yomou este situat în extremitatea sudică a regiunii forestiere a Guineei, la granița cu Liberia. Orașul este înconjurat de o pădure tropicală densă și este centrul prefecturii Yomou. Economia se bazează pe agricultură, în special pe cultivarea cafelei, a cacauei și a uleiului de palmier. Regiunea este, de asemenea, cunoscută pentru industria sa forestieră. Apropierea de Liberia a influențat puternic istoria și demografia orașului, în special în timpul războaielor civile liberiene. Grupurile etnice Mano și Kpelle sunt puternic reprezentate în regiune. Geografie K8 – Economie forestieră și regiuni de frontieră.",
+        "descriptionAdvancedEn": "Yomou is located in the southernmost tip of Guinea's forest region, on the border with Liberia. The city is surrounded by dense tropical rainforest and is the center of the Yomou prefecture. The economy relies on agriculture, especially the cultivation of coffee, cocoa, and palm oil. The region is also known for its timber industry. The proximity to Liberia has strongly influenced the city's history and demography, especially during the Liberian civil wars. The Mano and Kpelle ethnic groups are strongly represented in the region. Geography K8 – Rainforest economy and border regions.",
+        "factsAdvanced": [
+            "A Yomou prefektúra adminisztratív központja a Nzérékoré régióban.",
+            "Guinea legdélibb prefektúrájának székhelye, a libériai határ mentén.",
+            "Sűrű trópusi esőerdő veszi körül.",
+            "A kávé-, kakaó- és pálmaolaj-termesztés fontos központja.",
+            "A régióban a Mano és Kpelle népek élnek, akik Libériában is megtalálhatók.",
+            "A város lakossága körülbelül 20 000 fő.",
+            "A libériai polgárháborúk során jelentős menekültáradat érte a területet.",
+            "Fontos szerepet játszik a faiparban."
+        ]
+      },
+      {
+        "id": "dalaba-cities-v2",
+        "descriptionAdvancedDe": "Dalaba, oft als 'Garten Guineas' bezeichnet, ist eine charmante Stadt im Fouta-Djallon-Hochland. Sie wurde während der Kolonialzeit wegen ihres kühlen Klimas als Erholungsort für französische Beamte gegründet. Die Stadt ist bekannt für ihre gut erhaltene Kolonialarchitektur, einschließlich der Residenz des ehemaligen Präsidenten Ahmed Sékou Touré und des 'Case à Palabre'. Dalaba ist von Gärten, Pinienwäldern und Obstplantagen umgeben. Die Stadt ist ein beliebtes Touristenziel und ein Zentrum für den Anbau von Erdbeeren und anderen gemäßigten Früchten. Geographie K7 – Koloniales Erbe und Tourismus.",
+        "descriptionAdvancedHu": "Dalaba, amelyet gyakran 'Guinea kertjének' neveznek, egy bájos város a Fouta-Djallon-felföldön. A gyarmati időkben alapították a francia tisztviselők üdülőhelyeként a hűvös éghajlata miatt. A város jól megőrzött gyarmati építészetéről ismert, beleértve Ahmed Sékou Touré volt elnök rezidenciáját és a 'Case à Palabre'-t. Dalabát kertek, fenyőerdők és gyümölcsösök veszik körül. A város népszerű turisztikai célpont, és a szamóca és más mérsékelt égövi gyümölcsök termesztésének központja. Földrajz K7 – Gyarmati örökség és turizmus.",
+        "descriptionAdvancedRo": "Dalaba, adesea numit 'grădina Guineei', este un oraș fermecător din podișul Fouta Djallon. A fost fondat în timpul perioadei coloniale ca stațiune pentru oficialii francezi datorită climatului său răcoros. Orașul este cunoscut pentru arhitectura sa colonială bine conservată, inclusiv reședința fostului președinte Ahmed Sékou Touré și 'Case à Palabre'. Dalaba este înconjurată de grădini, păduri de pini și livezi de fructe. Orașul este o destinație turistică populară și un centru pentru cultivarea căpșunilor și a altor fructe temperate. Geografie K7 – Moștenire colonială și turism.",
+        "descriptionAdvancedEn": "Often called the 'Garden of Guinea', Dalaba is a charming town in the Fouta Djallon highlands. It was founded during the colonial period as a resort for French officials because of its cool climate. The town is known for its well-preserved colonial architecture, including the residence of former president Ahmed Sékou Touré and the 'Case à Palabre'. Dalaba is surrounded by gardens, pine forests, and fruit orchards. The town is a popular tourist destination and a center for growing strawberries and other temperate fruits. Geography K7 – Colonial heritage and tourism.",
+        "factsAdvanced": [
+            "A Fouta Djallon 'kertvárosaként' ismert, 1200 méteres magasságban.",
+            "A francia gyarmati adminisztráció kedvelt üdülőhelye volt.",
+            "Híres a gyarmati villáiról és a gondozott kertjeiről.",
+            "A 'Case à Palabre' (Tanácskozó Ház) egy fontos történelmi épület.",
+            "Az epertermesztés központja Guineában.",
+            "A Dalaba prefektúra adminisztratív központja.",
+            "A város lakossága körülbelül 10 000 fő.",
+            "Népszerű hétvégi kirándulóhely a kellemes éghajlata miatt."
+        ]
+      }
+    ]
+}

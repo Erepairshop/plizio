@@ -36,7 +36,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: [],
       hu: [],
       ro: [],
-      en: ["Formed by reclaiming and joining seven smaller offshore islands.", "Land reclamation began in 1995 and was completed in 2009.", "Hosts over 100 global energy and chemical companies.", "Features the Jurong Rock Caverns, located 150 meters underground.", "Home to one of the world's largest integrated petrochemical complexes.", "Connected to mainland Singapore via the Jurong Island Highway.", "The island has a total land area of approximately 32 square kilometers.", "Critical pillar of Singapore's manufacturing sector."]
+      en: ["Formed by reclaiming and joining seven smaller offshore islands.", "Land reclamation began in 1995 and was completed in 2009.", "Features the Jurong Rock Caverns, located 150 meters underground.", "Home to one of the world's largest integrated petrochemical complexes.", "Connected to mainland Singapore via the Jurong Island Highway.", "The island has a total land area of approximately 32 square kilometers.", "Critical pillar of Singapore's manufacturing sector."]
     }
   },
   {
@@ -72,7 +72,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: [],
       hu: [],
       ro: [],
-      en: ["Consistently ranked as the world's busiest transshipment hub.", "Connected to over 600 ports in more than 120 countries.", "Handled over 37 million TEUs of containers in 2023.", "Strategic location at the southern entrance to the Strait of Malacca.", "Includes the massive Pasir Panjang Terminal with deep-water berths.", "Currently developing Tuas Port, which will be the world's largest automated port.", "A major global center for bunkering (fueling ships).", "Contributes about 7% to Singapore's Gross Domestic Product (GDP)."]
+      en: ["Consistently ranked as the world's busiest transshipment hub.", "Handled over 37 million TEUs of containers in 2023.", "Strategic location at the southern entrance to the Strait of Malacca.", "Includes the massive Pasir Panjang Terminal with deep-water berths.", "Currently developing Tuas Port, which will be the world's largest automated port.", "A major global center for bunkering (fueling ships).", "Contributes about 7% to Singapore's Gross Domestic Product (GDP)."]
     }
   },
   {
@@ -108,7 +108,7 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
       de: [],
       hu: [],
       ro: [],
-      en: ["Premier financial hub located in the new Downtown at Marina Bay.", "Developed on a 3.55-hectare site of reclaimed land.", "Consists of three office towers and two luxury residential blocks.", "Hosts major global banks like Standard Chartered and DBS.", "Features the Marina Bay Link Mall, an underground retail space.", "Integrated with the Raffles Place and Downtown MRT stations.", "Completed in phases between 2010 and 2012.", "Provides breathtaking views of the Marina Bay waterfront."]
+      en: ["Premier financial hub located in the new Downtown at Marina Bay.", "Developed on a 3.55-hectare site of reclaimed land.", "Hosts major global banks like Standard Chartered and DBS.", "Features the Marina Bay Link Mall, an underground retail space.", "Integrated with the Raffles Place and Downtown MRT stations.", "Completed in phases between 2010 and 2012.", "Provides breathtaking views of the Marina Bay waterfront."]
     }
   },
   {

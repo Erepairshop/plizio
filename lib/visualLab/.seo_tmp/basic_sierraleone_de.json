@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Sierraleone",
+  "files": [
+    "lib/visualLab/data/poiExtraSierraleoneLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lumley-beach-playground-life-v2",
+      "description": "Ein beliebter Spielplatz direkt an der Lumley Beach in Freetown, der Familien und Einheimische zum Entspannen einlädt. Die Anlage bietet einen direkten Zugang zum Atlantik und ist ein zentraler Treffpunkt für Freizeitaktivitäten am Strand.",
+      "facts": [
+        "Direkte Lage am Atlantischen Ozean",
+        "Zentraler Erholungsort in Freetown",
+        "Beliebter Treffpunkt für Familien",
+        "Sandstrand-Umgebung"
+      ]
+    }
+  ]
+}

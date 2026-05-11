@@ -1,0 +1,70 @@
+{
+  "lang": "ro",
+  "country": "Israel",
+  "files": [
+    "lib/visualLab/data/poiExtraIsraelLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIsraelNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dome-of-the-rock-landmarks-v2",
+      "description": "Cupola Stâncii este un sanctuar islamic emblematic situat pe Muntele Templului din Ierusalim, recunoscut după cupola sa aurie strălucitoare.",
+      "facts": [
+        "Construită între anii 691 și 692",
+        "Cea mai veche lucrare de artă islamică",
+        "Cupolă acoperită cu aur veritabil",
+        "Situată pe Muntele Templului"
+      ]
+    },
+    {
+      "id": "basilica-of-annunciation-landmarks-v2",
+      "description": "Această basilică impresionantă din Nazaret marchează locul unde, conform tradiției creștine, Arhanghelul Gavriil i-a vestit Fecioarei Maria nașterea lui Iisus.",
+      "facts": [
+        "Cea mai mare biserică creștină din Orient",
+        "Edificiul actual a fost sfințit în 1969",
+        "Găzduiește mozaicuri din întreaga lume",
+        "Construită pe ruine bizantine"
+      ]
+    },
+    {
+      "id": "yad-vashem-landmarks-v2",
+      "description": "Yad Vashem este memorialul oficial al Israelului dedicat victimelor Holocaustului, servind ca centru global de documentare și educație.",
+      "facts": [
+        "Fondat în anul 1953 în Ierusalim",
+        "Include Sala Numelor",
+        "Păstrează memoria a milioane de victime",
+        "Situat pe Muntele Amintirii"
+      ]
+    },
+    {
+      "id": "israel-museum-landmarks-v2",
+      "description": "Cel mai mare muzeu din Israel găzduiește o colecție vastă de artă și arheologie, inclusiv celebrele Manuscrise de la Marea Moartă.",
+      "facts": [
+        "Fondat în 1965 în Ierusalim",
+        "Găzduiește Sanctuarul Cărții",
+        "Deține peste 500.000 de exponate",
+        "Model detaliat al celui de-al Doilea Templu"
+      ]
+    },
+    {
+      "id": "il-ein-gedi-nature-v2",
+      "description": "Rezervația naturală Ein Gedi este o oază spectaculoasă lângă Marea Moartă, renumită pentru cascadele sale, flora bogată și caprele sălbatice ibex.",
+      "facts": [
+        "Cea mai mare oază din Israel",
+        "Menționată în textele biblice",
+        "Accesibilă prin trasee de drumeție",
+        "Situată în deșertul Iudeei"
+      ]
+    },
+    {
+      "id": "il-yehudiya-forest-nature-v2",
+      "description": "Rezervația Pădurea Yehudiya din Podișul Golan oferă peisaje vulcanice dramatice, canioane adânci de bazalt și cascade impresionante.",
+      "facts": [
+        "Situată în regiunea Podișul Golan",
+        "Renumită pentru Cascada Yehudiya",
+        "Canyoning în bazine naturale",
+        "Peisaj dominat de roci de bazalt"
+      ]
+    }
+  ]
+}

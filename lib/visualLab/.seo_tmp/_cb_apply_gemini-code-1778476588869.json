@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGuineaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tinkisso-battlefield-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Schlachtfeld am Tinkisso ist ein geschichtsträchtiger Ort in der Nähe der Stadt Dabola, der die kriegerischen Auseinandersetzungen während der Formierungsphase der großen westafrikanischen Reiche im 19. Jahrhundert markiert. Geografisch erstreckt sich das Gebiet entlang des Tinkisso-Flusses, einem bedeutenden Nebenfluss des Nigers, der durch tiefe Schluchten und weite Savannen fließt. Historisch ist dieser Ort eng mit dem Aufstieg des Tukulor-Reiches unter El Hadj Umar Tall und später mit den Verteidigungskämpfen von Samori Touré verbunden. Die Ufer des Tinkisso dienten als natürliche Barriere und strategischer Rückzugsort. In den 1880er Jahren fanden hier erbitterte Kämpfe statt, als die Sofa-Krieger versuchten, die Kontrolle über die Handelsrouten zwischen dem Fouta-Djallon-Hochland und den Goldfeldern von Bouré zu behaupten. Die Topografie des Geländes mit seinen steilen Flussufern bot ideale Bedingungen für Hinterhalte und Verteidigungsstellungen. Heute ist das Schlachtfeld ein Ort der Stille, der jedoch in der mündlichen Überlieferung der Region als Symbol für den Widerstand und die militärische Raffinesse der Vorfahren weiterlebt. Für Historiker bietet das Gelände wichtige Anhaltspunkte zur Rekonstruktion der Truppenbewegungen und der vorkolonialen Kriegsführung in Oberguinea.",
+        "hu": "A Tinkisso csatatér Dabola városa közelében található, és a 19. századi nyugat-afrikai birodalomépítési törekvések egyik legfontosabb katonai helyszíne. Földrajzilag a terület a Niger egyik legjelentősebb mellékfolyója, a Tinkisso mentén terül el, ahol a folyó mély szurdokokon és tágas szavannákon halad keresztül. Történelmileg ez a helyszín szorosan kötődik El Hadj Umar Tall Tukulor Birodalmának terjeszkedéséhez, majd később Samori Touré védekező hadműveleteihez a francia előrenyomulás ellen. A Tinkisso partjai természetes védvonalat és stratégiai fontosságú átkelőhelyet biztosítottak. Az 1880-as években véres összecsapások zajlottak itt, amikor a 'szofák' (harcosok) megpróbálták ellenőrzésük alatt tartani a Fouta Djallon-felföld és a bouré-i aranymezők közötti kereskedelmi utakat. A terep adottságai – a meredek folyópartok és a sűrű bozótosok – kiváló lehetőséget nyújtottak a gerillataktika alkalmazására. Ma a csatatér a csend és a megemlékezés helye, de a helyi szájhagyományban továbbra is a bátorság és az ősök katonai zsenialitásának szimbólumaként él tovább. A látogatók számára a terület bepillantást enged a gyarmatosítás előtti Guinea drámai politikai átalakulásaiba.",
+        "ro": "Câmpul de luptă de pe râul Tinkisso este un sit istoric situat în apropierea orașului Dabola, marcând confruntările militare cruciale din perioada de formare a marilor imperii vest-africane din secolul al XIX-lea. Geografic, zona se întinde de-a lungul râului Tinkisso, un afluent major al Nigerului, care traversează defilee adânci și savane vaste. Din punct de vedere istoric, acest loc este strâns legat de expansiunea Imperiului Tukulor sub El Hadj Umar Tall și, ulterior, de campaniile de rezistență ale lui Samori Touré. Malurile râului Tinkisso au servit drept barieră naturală și punct strategic de retragere în fața avansului colonial. În anii 1880, aici au avut loc lupte crâncene, în timp ce războinicii 'sofa' încercau să mențină controlul asupra rutelor comerciale dintre podișul Fouta Djallon și zonele aurifere din Bouré. Topografia terenului, cu malurile sale abrupte, a oferit condiții ideale pentru ambuscade și poziții defensive ingenioase. Astăzi, câmpul de luptă este un loc de liniște, dar supraviețuiește în tradiția orală regională ca simbol al rezistenței și al măiestriei militare ancestrale. Pentru istorici, situl oferă repere esențiale pentru reconstrucția mișcărilor de trupe și a tehnicilor de război precoloniale din Guineea Superioară.",
+        "en": "The Tinkisso Battlefield is a historically significant site near the town of Dabola, marking the military clashes that shaped the landscape of West African empires during the 19th century. Geographically, the area spans the banks of the Tinkisso River, a major tributary of the Niger, known for its deep gorges and expansive savanna surroundings. Historically, this site is closely associated with the expansion of the Toucouleur Empire under El Hadj Umar Tall and, later, the defensive struggles led by Samori Touré. The Tinkisso served as both a natural barrier and a vital strategic crossing point. In the 1880s, intense fighting broke out here as 'sofa' warriors fought to maintain control over the lucrative trade routes connecting the Fouta Djallon highlands with the goldfields of Bouré. The rugged topography, featuring steep riverbanks, provided ideal conditions for guerrilla tactics and defensive fortifications. Today, the battlefield is a place of quiet reflection, yet it remains a powerful symbol of ancestral resistance and military ingenuity in local oral history. For historians, the site offers critical insights into pre-colonial warfare and the geopolitical dynamics of Upper Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Schlachtfeld liegt am strategisch wichtigen Tinkisso-Fluss.",
+          "Es war Schauplatz von Kämpfen zwischen dem Wassoulou- und dem Tukulor-Reich.",
+          "Die Topografie begünstigte die Guerillataktik der Sofa-Krieger.",
+          "Der Ort kontrollierte historisch den Zugang zu den Goldregionen im Osten.",
+          "Mündliche Überlieferungen besingen bis heute die Helden dieser Schlachten.",
+          "Das Gelände liegt nahe der Wasserscheide zwischen Senegal- und Niger-Becken."
+        ],
+        "hu": [
+          "A csatatér a stratégiai jelentőségű Tinkisso-folyó partján fekszik.",
+          "A terület a Wassoulou és a Tukulor Birodalom összecsapásainak helyszíne volt.",
+          "A terep adottságai segítették a 'szofák' sikeres gerilla-hadviselését.",
+          "Ez a pont ellenőrizte a kelet-guineai aranymezőkhöz vezető utakat.",
+          "A helyi dalok ma is őrzik az itt harcoló hősök emlékét.",
+          "A helyszín közel fekszik a Szenegál és a Niger folyók vízválasztójához."
+        ],
+        "ro": [
+          "Situl este situat pe malurile râului Tinkisso, afluent al Nigerului.",
+          "Bătăliile de aici au decis controlul asupra rutei aurului din Bouré.",
+          "Relieful accidentat a fost esențial pentru tacticile defensive ale lui Samori.",
+          "Zona a servit drept graniță naturală între marile regate manding.",
+          "Tradiția orală locală consideră acest loc unul de sacrificiu eroic.",
+          "Este un punct de interes major pentru arheologia militară din Africa de Vest."
+        ],
+        "en": [
+          "The battlefield is situated along the strategically vital Tinkisso River.",
+          "It hosted conflicts between the Wassoulou and Toucouleur empires.",
+          "The terrain's natural features were utilized for effective guerrilla warfare.",
+          "The site historically guarded the gateway to the eastern gold regions.",
+          "Oral traditions still recount the heroic deeds performed during these battles.",
+          "The area is located near the watershed of the Senegal and Niger basins."
+        ]
+      }
+    },
+    {
+      "id": "fouta-djallon-archives-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Archiv des Fouta Djallon ist ein geistiges und historisches Schatzhaus Guineas, das primär in Labé und teilweise in Dalaba bewahrt wird. Es dokumentiert die komplexe Geschichte des theokratischen Imamats, das vom 18. bis zum späten 19. Jahrhundert das Hochland dominierte. Geografisch konzentrieren sich diese Bestände im kulturellen Herzen des Fouta-Djallon-Massivs. Die Archive bestehen aus einer beeindruckenden Sammlung von Manuskripten, die in 'Ajami' verfasst wurden – der lokalen Fula-Sprache (Pular), geschrieben in arabischen Schriftzeichen. Diese Dokumente umfassen theologische Abhandlungen, juristische Urteile der Almamys, genealogische Aufzeichnungen und epische Poesie. Historisch gesehen widerlegen diese Archive das Klischee einer rein mündlich überlieferten afrikanischen Geschichte und zeugen von einer hochentwickelten Schriftkultur und Verwaltung. Während der Kolonialzeit wurden viele Bestände versteckt oder gingen verloren, doch die verbliebenen Dokumente bieten heute unschätzbare Einblicke in die soziale Organisation, den Islam und die Diplomatie der Peul-Aristokratie. Die Bemühungen zur Digitalisierung und Erhaltung dieser Archive sind von nationaler Bedeutung, um das intellektuelle Erbe des Hochlandes für künftige Generationen zu sichern. Das Archiv ist nicht nur eine Forschungsstätte, sondern ein Symbol für die kulturelle Souveränität Guineas.",
+        "hu": "A Fouta Djallon archívuma Guinea egyik legfontosabb szellemi és történelmi kincstára, amelynek gyűjteményeit elsősorban Labéban és részben Dalabában őrzik. Ez a gyűjtemény dokumentálja a 18. századtól a 19. század végéig fennálló fula teokratikus imamátus összetett történetét. Földrajzilag az archívum a Fouta Djallon-hegység kulturális szívében található. A levéltár legértékesebb részét az 'Ajami' nyelven – azaz arab betűkkel írt fula (pular) nyelven – készült kéziratok alkotják. Ezek a dokumentumok teológiai értekezéseket, az almamik (uralkodók) jogi döntéseit, családfákat és epikus költeményeket tartalmaznak. Történelmi szempontból az archívum cáfolja azt a tévhitet, miszerint az afrikai történelem kizárólag szájhagyományon alapulna, és bizonyítja egy magas szintű írásbeliség és közigazgatás létezését. A gyarmati időszakban sok irat elpusztult vagy rejtve maradt, de a megmaradt állomány felbecsülhetetlen betekintést nyújt a fula arisztokrácia társadalmi szervezettségébe, iszlám vallásgyakorlatába és diplomáciájába. Az archívum digitalizálása és megőrzése nemzeti prioritás, hogy a felföld szellemi öröksége a jövő nemzedékei számára is elérhető maradjon. A gyűjtemény ma a kutatók és a nemzeti identitást keresők fontos viszonyítási pontja.",
+        "ro": "Arhivele din Fouta Djallon reprezintă un tezaur intelectual și istoric al Guineei, păstrat cu prioritate în Labé și parțial în Dalaba. Acestea documentează istoria complexă a Imamitului teocratic care a dominat regiunea muntoasă din secolul al XVIII-lea până la sfârșitul secolului al XIX-lea. Geografic, aceste colecții sunt concentrate în inima culturală a masivului Fouta Djallon. Arhivele constau într-o colecție impresionantă de manuscrise redactate în 'Ajami' – limba locală Fula (Pular) scrisă cu caractere arabe. Documentele includ tratate teologice, hotărâri juridice ale suveranilor Almamys, registre genealogice și poezie epică. Din punct de vedere istoric, aceste arhive demontează mitul unei istorii africane exclusiv orale, atestând existența unei culturi scrise și a unei administrații sofisticate. În perioada colonială, multe documente au fost ascunse pentru a fi protejate, însă cele rămase oferă astăzi perspective inestimabile asupra organizării sociale, a islamului și a diplomației aristocrației Fula. Eforturile de digitalizare și conservare a acestor arhive sunt de o importanță națională majoră pentru a asigura moștenirea intelectuală a munților pentru generațiile viitoare. Arhiva nu este doar un loc de cercetare, ci un simbol al suveranității culturale guineene.",
+        "en": "The Fouta Djallon Archives are an intellectual and historical powerhouse of Guinea, primarily preserved in Labé and partially in Dalaba. They document the intricate history of the theocratic Imamate that ruled the highlands from the 18th to the late 19th centuries. Geographically, these records are centered in the cultural heart of the Fouta Djallon massif. The archives consist of a remarkable collection of manuscripts written in 'Ajami'—the local Fula language (Pular) transcribed in Arabic script. These documents cover theological treatises, judicial rulings by the Almamys, genealogical records, and epic poetry. Historically, these archives debunk the stereotype of a purely oral African history, testifying instead to a highly developed literary culture and sophisticated governance. During the colonial era, many records were hidden or lost, but the surviving documents provide invaluable insights into the social organization, Islamic practices, and diplomacy of the Peul aristocracy. Ongoing efforts to digitize and preserve these archives are of national importance to secure the intellectual heritage of the highlands for future generations. The archive is more than a research facility; it is a profound symbol of Guinea's cultural sovereignty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Archive enthalten Tausende Manuskripte in der Ajami-Schrift.",
+          "Labé ist das Hauptzentrum für die Aufbewahrung dieser historischen Texte.",
+          "Die Dokumente decken die gesamte Ära des Fouta-Djallon-Imamats ab.",
+          "Viele Texte behandeln das islamische Recht und die Astronomie.",
+          "Die Archive sind eine der wichtigsten Quellen für die Erforschung der Fula-Geschichte.",
+          "Internationale Projekte unterstützen die Digitalisierung der empfindlichen Papiere."
+        ],
+        "hu": [
+          "Az archívum több ezer, arab betűkkel írt fula nyelvű kéziratot őriz.",
+          "Labé városa a gyűjtemény legfontosabb őrzőhelye és központja.",
+          "A dokumentumok lefedik a fula államszervezet teljes fennállásának idejét.",
+          "A szövegek között az iszlám jog mellett csillagászati feljegyzések is találhatók.",
+          "Az archívum a nyugat-afrikai írásbeliség egyik legfontosabb bizonyítéka.",
+          "Jelenleg nemzetközi összefogással zajlik az iratok állagmegóvása."
+        ],
+        "ro": [
+          "Arhivele păstrează manuscrise rare de tip Ajami (Pular cu litere arabe).",
+          "Colecția include corespondența diplomatică a Almamys cu puterile europene.",
+          "Este principalul depozit de istorie precolonială din nordul Guineei.",
+          "Documentele sunt utilizate pentru reconstituirea arborelui genealogic al clanurilor Fula.",
+          "Multe manuscrise au fost salvate de la distrugere prin păstrarea în familii private.",
+          "Situl din Labé este un punct focal pentru istoricii Africii de Vest."
+        ],
+        "en": [
+          "The archives house thousands of manuscripts written in the Ajami script.",
+          "Labé serves as the primary location for these historical and religious texts.",
+          "Records cover the entire timespan of the Fouta Djallon theocratic state.",
+          "The collection includes works on Islamic law, medicine, and astronomy.",
+          "The archives provide evidence of a long-standing literary tradition in the region.",
+          "Digitization efforts aim to make these delicate documents accessible to global scholars."
+        ]
+      }
+    },
+    {
+      "id": "grand-mosque-kankan-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Moschee von Kankan, ein historisches Wahrzeichen in der 'Heiligen Stadt' Oberguineas, ist das Zentrum der islamischen Gelehrsamkeit in der Region. Kankan ist seit Jahrhunderten als Ort des Wissens und des Glaubens bekannt, und die Moschee bildet den architektonischen und spirituellen Kern dieser Tradition. Geografisch liegt sie im Herzen der Stadt, unweit des Milo-Flusses, in einer flachen Savannenlandschaft. Die Geschichte der Moschee ist eng mit dem Maninka-Mory-Klan verknüpft, der Kankan zu einem bedeutenden Zentrum des Transsahara-Handels und der Koranauslegung machte. Die ursprüngliche Architektur war durch den sudanesischen Lehmbaustil geprägt, der jedoch über die Jahrzehnte durch modernere Strukturen ersetzt wurde, wobei der Geist des Ortes erhalten blieb. Historisch war die Moschee nicht nur ein Gebetshaus, sondern auch eine universitäre Einrichtung, an der Gelehrte aus ganz Westafrika unterrichteten. Sie spielte eine zentrale Rolle bei der Verbreitung des Islam in Guinea und diente als moralischer Kompass während politischer Umbrüche. Heute zieht die Große Moschee von Kankan Tausende von Gläubigen an, besonders während der Freitagsgebete und religiöser Feiertage. Sie bleibt ein Symbol für den Stolz und die spirituelle Tiefe der Malinké-Kultur.",
+        "hu": "A Kankan-i Nagymecset Felső-Guinea „szent városának” történelmi jelképe, és a régió iszlám tudományosságának központja. Kankan évszázadok óta a tudás és a hit fellegváraként ismert, a mecset pedig ennek a hagyománynak az építészeti és spirituális magvát alkotja. Földrajzilag a város szívében, a Milo-folyó közelében található, a tágas szavannák övezetében. A mecset története szorosan összefonódik a Maninka-Mory klánnal, akik Kankant a transzszaharai kereskedelem és a Korán-értelmezés meghatározó központjává tették. Az eredeti épület a szudáni vályogépítészet stílusjegyeit hordozta, amelyet az évtizedek során modernebb szerkezetekkel váltottak fel, de a hely szellemisége változatlan maradt. Történelmileg a mecset nem csupán imaház volt, hanem egyfajta egyetemi intézményként is működött, ahol Nyugat-Afrika legkiválóbb tudósai tanítottak. Központi szerepet játszott az iszlám elterjesztésében Guineában, és erkölcsi iránytűként szolgált a politikai változások idején. Ma a Kankan-i Nagymecset hívők ezreit vonzza, különösen a pénteki imák és a vallási ünnepek alkalmával. Továbbra is a malinké kultúra spirituális mélységének és büszkeségének legfőbb szimbóluma.",
+        "ro": "Marea Moschee din Kankan, un reper istoric în „orașul sfânt” al Guineei Superioare, este centrul erudiției islamice din regiune. Kankan este cunoscut de secole ca un loc al cunoașterii și al credinței, iar moscheea constituie nucleul arhitectural și spiritual al acestei tradiții. Geografic, este situată în inima orașului, aproape de râul Milo, într-un peisaj de savană. Istoria moscheii este strâns legată de clanul Maninka-Mory, care a transformat Kankan într-un centru major al comerțului trans-saharian și al interpretării coranice. Arhitectura originală a fost marcată de stilul sudanez din chirpici, însă a fost înlocuită de-a lungul deceniilor cu structuri mai moderne, păstrând în același timp spiritul locului. Din punct de vedere istoric, moscheea nu a fost doar un lăcaș de cult, ci și o instituție universitară unde au predat învățați din întreaga Africă de Vest. Ea a jucat un rol central în răspândirea islamului în Guineea și a servit drept busolă morală în timpul schimbărilor politice. Astăzi, Marea Moschee din Kankan atrage mii de credincioși, în special în timpul rugăciunilor de vineri și al sărbătorilor religioase, rămânând un simbol al mândriei și profunzimii spirituale a culturii Malinké.",
+        "en": "The Grand Mosque of Kankan, a historic landmark in the 'Holy City' of Upper Guinea, is the focal point of Islamic scholarship in the region. Kankan has been renowned for centuries as a center of knowledge and faith, and the mosque forms the architectural and spiritual core of this long-standing tradition. Geographically, it is located in the heart of the city, not far from the Milo River, set against a savanna backdrop. The mosque's history is deeply intertwined with the Maninka-Mory clan, who established Kankan as a key node for trans-Saharan trade and Quranic interpretation. The original architecture reflected the Sudanese mud-brick style, though it has been replaced over the decades by more modern structures while maintaining the site's spiritual essence. Historically, the mosque functioned not only as a place of prayer but also as a university-like institution where scholars from across West Africa gathered to teach. It played a pivotal role in the spread of Islam in Guinea and served as a moral compass during periods of political transition. Today, the Grand Mosque of Kankan continues to draw thousands of worshipers, especially during Friday prayers and religious festivals, remaining a supreme symbol of Malinké cultural pride and spiritual depth."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kankan wird aufgrund dieser Moschee oft als das 'Zentrum der Gelehrsamkeit' bezeichnet.",
+          "Die Moschee ist der Sitz bedeutender Koranschulen in Oberguinea.",
+          "Sie wurde über die Jahrhunderte mehrfach erweitert und modernisiert.",
+          "Kankan ist ein bedeutender Ort für die Ausbildung von Imamen in Westafrika.",
+          "Die Moschee liegt in unmittelbarer Nähe zum historischen Markt der Stadt.",
+          "Religiöse Zeremonien in Kankan ziehen Pilger aus Mali und der Elfenbeinküste an."
+        ],
+        "hu": [
+          "A mecset miatt Kankant gyakran a 'nyugat-afrikai iszlám tudományok központjaként' emlegetik.",
+          "Az épület környékén működnek a régió legrégebbi korán-iskolái.",
+          "A mecsetet az évszázadok során többször újjáépítették, megőrizve szakrális helyét.",
+          "Kankan fontos állomása az iszlám jogtudomány képzésének egész Guineában.",
+          "A mecset a város legmagasabb pontján, központi helyen épült fel.",
+          "Az épület körüli udvar több ezer hívő befogadására alkalmas."
+        ],
+        "ro": [
+          "Marea Moschee reprezintă inima identității religioase a orașului Kankan.",
+          "Localitatea este renumită pentru tradiția interpretării Malinke a Coranului.",
+          "Edificiul actual combină elemente de arhitectură modernă cu simboluri tradiționale.",
+          "Moscheea servește drept referință pentru calendarul religios al regiunii.",
+          "Este unul dintre cele mai vechi locuri de rugăciune continuă din estul țării.",
+          "Multe familii de învățați (mory) sunt legate istoric de acest lăcaș."
+        ],
+        "en": [
+          "Kankan is often called the 'Center of Learning' because of this mosque.",
+          "The mosque serves as the primary hub for Quranic schools in Upper Guinea.",
+          "The building has undergone several expansions to accommodate more worshipers.",
+          "It is a key training site for Imams across the West African region.",
+          "The mosque is located strategically near the historic trade market of Kankan.",
+          "Major Islamic festivals here attract pilgrims from neighboring Mali and Ivory Coast."
+        ]
+      }
+    },
+    {
+      "id": "conakry-grand-mosque-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Große Moschee von Conakry (Grande Mosquée de Conakry) ist eines der imposantesten architektonischen Wahrzeichen Guineas und das bedeutendste religiöse Zentrum der Hauptstadt. Das Bauwerk wurde im Jahr 1982 unter der Schirmherrschaft von Präsident Ahmed Sékou Touré mit massiver Unterstützung des saudi-arabischen Königs Fahd fertiggestellt. Geografisch liegt die Moschee im Stadtteil Camayenne, umgeben von weitläufigen Gärten und in unmittelbarer Nähe zum nationalen Mausoleum. Die Architektur ist durch einen eleganten saudi-arabisch inspirierten Stil geprägt, mit großen weißen Kuppeln und vier hohen Minaretten, die das Stadtbild dominieren. Mit einer Kapazität von über 10.000 Gläubigen gehört sie zu den größten Moscheen Subsahara-Afrikas. Im Inneren beeindruckt das Bauwerk durch filigrane Fliesenarbeiten, kunstvolle Holzschnitzereien und prächtige Teppiche. Neben ihrer Funktion als Gebetshaus dient die Moschee als Zentrum für islamische Bildung und beherbergt eine bedeutende Bibliothek sowie Lehrräume. Als nationales Symbol der Einheit und des Glaubens ist sie der Ort, an dem die wichtigsten staatlichen religiösen Zeremonien stattfinden. Besucher sind oft von der schieren Größe und der ruhigen Atmosphäre inmitten der hektischen Hauptstadt fasziniert.",
+        "hu": "A Conakry-i Nagymecset (Grande Mosquée de Conakry) Guinea egyik legimpozánsabb építészeti látványossága és a főváros legfontosabb vallási központja. Az épületet 1982-ben adták át Ahmed Sékou Touré elnöksége alatt, az építkezést szaúd-arábiai támogatással, Fahd király segítségével valósították meg. Földrajzilag a mecset a Camayenne negyedben található, kiterjedt kertek veszik körül, és közvetlen szomszédságában fekszik a nemzeti mauzóleum. Az építészet stílusa elegáns, szaúdi hatásokat tükröz: hatalmas fehér kupolái és négy magas minaretje uralják a város látképét. Több mint 10 000 hívő befogadására alkalmas, ezzel a szubszaharai Afrika egyik legnagyobb mecsetje. Belső terét finom csempemunkák, művészi fafaragások és pompás szőnyegek díszítik. A mecset nem csupán imaház, hanem az iszlám oktatás központja is, jelentős könyvtárral és oktatótermekkel rendelkezik. Mint az egység és a hit nemzeti szimbóluma, itt tartják a legfontosabb állami és vallási ünnepségeket. A látogatókat lenyűgözi az épület monumentális mérete és az a nyugalom, amelyet a nyüzsgő főváros közepén áraszt.",
+        "ro": "Marea Moschee din Conakry (Grande Mosquée de Conakry) este unul dintre cele mai impunătoare repere arhitecturale ale Guineei și cel mai important centru religios al capitalei. Edificiul a fost finalizat în anul 1982 sub patronajul președintelui Ahmed Sékou Touré, cu sprijinul masiv al regelui Fahd al Arabiei Saudite. Geografic, moscheea este situată în cartierul Camayenne, fiind înconjurată de grădini vaste și aflată în imediata vecinătate a mausoleului național. Arhitectura este marcată de un stil elegant de inspirație saudită, cu domuri albe mari și patru minarete înalte care domină orizontul orașului. Având o capacitate de peste 10.000 de credincioși, aceasta se numără printre cele mai mari moschei din Africa subsahariană. În interior, construcția impresionează prin lucrările delicate de faianță, sculpturile în lemn și covoarele prețioase. Pe lângă funcția sa de lăcaș de cult, moscheea servește ca centru pentru educația islamică, adăpostind o bibliotecă importantă și săli de curs. Ca simbol național al unității și credinței, este locul unde se desfășoară cele mai importante ceremonii religioase de stat. Vizitatorii sunt adesea fascinați de dimensiunile sale colosale și de atmosfera de liniște din mijlocul agitatei capitale.",
+        "en": "The Conakry Grand Mosque (Grande Mosquée de Conakry) is one of Guinea's most impressive architectural landmarks and the most significant religious center in the capital. Completed in 1982 under the patronage of President Ahmed Sékou Touré with major support from King Fahd of Saudi Arabia, the mosque is a grand achievement of modern Islamic architecture. Geographically, it is located in the Camayenne district, surrounded by spacious gardens and situated directly next to the national mausoleum. Its design features elegant Saudi-inspired aesthetics, with massive white domes and four towering minarets that define the city's skyline. With a capacity to hold over 10.000 worshipers, it ranks among the largest mosques in Sub-Saharan Africa. The interior is adorned with intricate tilework, artistic wood carvings, and ornate carpets. Beyond its role as a house of prayer, the mosque functions as a hub for Islamic education, housing a significant library and classrooms. As a national symbol of faith and unity, it is the primary venue for major state religious ceremonies. Visitors are often struck by its sheer scale and the serene atmosphere it offers amidst the energetic pulse of Conakry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Moschee wurde 1982 eingeweiht und durch Saudi-Arabien finanziert.",
+          "Sie bietet Platz für mehr als 10.000 Gläubige gleichzeitig.",
+          "Das Bauwerk besitzt vier markante Minarette von beachtlicher Höhe.",
+          "Auf dem Gelände befindet sich das Grab von Ahmed Sékou Touré.",
+          "Es ist die viertgrößte Moschee auf dem afrikanischen Kontinent.",
+          "Die Moschee ist ein zentrales Symbol der guineisch-saudischen Beziehungen."
+        ],
+        "hu": [
+          "A mecsetet 1982-ben avatták fel, és szaúd-arábiai adományokból épült.",
+          "Egyidejűleg több mint 10 000 hívő befogadására alkalmas.",
+          "Négy darab, messziről látható, monumentális minaretje van.",
+          "A mecset kertjében kapott helyet a nemzeti panteon és az államfők sírjai.",
+          "Ez az épület Afrika negyedik legnagyobb mecsetje.",
+          "Belsejét díszes marokkói és szaúdi kézműves elemek ékesítik."
+        ],
+        "ro": [
+          "A fost construită cu fonduri oferite de Regele Fahd al Arabiei Saudite.",
+          "Este un punct de reper vizual major pe peninsula Kaloum.",
+          "Capacitatea totală, inclusiv curtea exterioară, depășește 12.000 de locuri.",
+          "Mausoleul Camayenne, unde odihnesc eroii națiunii, este parte a complexului.",
+          "Minaretele moscheii sunt vizibile de pe mare de la mare distanță.",
+          "Edificiul reprezintă inima religioasă a musulmanilor din Guineea."
+        ],
+        "en": [
+          "The mosque was inaugurated in 1982 and funded by Saudi Arabia.",
+          "It can accommodate more than 10,000 worshipers at once.",
+          "The structure features four distinctive and tall minarets.",
+          "The grounds include the Camayenne Mausoleum with the tombs of national heroes.",
+          "It is considered the fourth-largest mosque on the African continent.",
+          "The mosque serves as a major center for Islamic research and teaching."
+        ]
+      }
+    },
+    {
+      "id": "conakry-cathedral-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kathedrale Sainte-Marie (Cathédrale Sainte-Marie de Conakry) ist das bedeutendste christliche Bauwerk Guineas und ein markantes Wahrzeichen der Hauptstadt. Sie wurde zwischen 1928 und 1930 während der französischen Kolonialzeit errichtet und im Jahr 1930 geweiht. Geografisch liegt die Kathedrale im Herzen der Halbinsel Kaloum, dem Verwaltungszentrum von Conakry, in unmittelbarer Nähe zum Präsidentenpalast und dem Hafen. Die Architektur ist durch einen neogotischen Stil mit klaren Linien und einer markanten gelb-weißen Fassade geprägt, die der Kathedrale ein helles und einladendes Aussehen verleiht. Historisch gesehen symbolisiert Sainte-Marie die Präsenz und Entwicklung des Katholizismus in einem überwiegend muslimischen Land und ist der Sitz des Erzbistums Conakry. Das Innere der Kathedrale ist schlicht, aber elegant gestaltet, mit hohen Gewölben und Buntglasfenstern, die das tropische Licht filtern. Über die Jahrzehnte blieb die Kathedrale ein Ort der Zuflucht und des Gebets während turbulenter Zeiten in der Landesgeschichte. Heute ist sie ein zentraler Treffpunkt für die christliche Gemeinschaft Guineas und ein Zeugnis der religiösen Toleranz und Vielfalt im Land. Die Kathedrale ist nicht nur ein spiritueller Ort, sondern auch ein wichtiges historisches Denkmal, das die europäische Architekturgeschichte in Conakry repräsentiert.",
+        "hu": "A Szent Mária-székesegyház (Cathédrale Sainte-Marie de Conakry) Guinea legfontosabb keresztény építménye és a főváros egyik jellegzetes építészeti emléke. 1928 és 1930 között, a francia gyarmati időszakban épült, és 1930-ban szentelték fel. Földrajzilag a Kaloum-félsziget szívében, Conakry közigazgatási központjában található, az elnöki palota és a kikötő közvetlen közelében. Az építészetét neogótikus stílus jellemzi tiszta vonalakkal, jellegzetes sárga-fehér homlokzata pedig világos és hívogató megjelenést kölcsönöz neki. Történelmileg a Szent Mária-székesegyház a katolicizmus jelenlétét és fejlődését szimbolizálja a túlnyomórészt muszlim országban, és a Conakry-i főegyházmegye székhelye. A katedrális belső tere egyszerű, de elegáns, magas boltozatokkal és ólomüveg ablakokkal, amelyek átszűrik a trópusi fényt. Az évtizedek során a székesegyház a menedék és az imádság helyszíne maradt az ország történelmének viharos időszakaiban is. Ma a guineai keresztény közösség központi találkozóhelye, valamint az ország vallási toleranciájának és sokszínűségének tanúja. A katedrális nemcsak spirituális helyszín, hanem fontos történelmi műemlék is, amely az európai építészeti örökséget képviseli Conakryban.",
+        "ro": "Catedrala Sainte-Marie (Cathédrale Sainte-Marie de Conakry) este cel mai important edificiu creștin din Guineea și un punct de reper distinctiv al capitalei. A fost construită între anii 1928 și 1930, în perioada colonială franceză, fiind sfințită în 1930. Geografic, catedrala este situată în inima peninsulei Kaloum, centrul administrativ din Conakry, în imediata apropiere a palatului prezidențial și a portului. Arhitectura sa este marcată de un stil neogotic cu linii clare și o fațadă galben-albă distinctivă, care îi conferă un aspect luminos și primitor. Din punct de vedere istoric, Sainte-Marie simbolizează prezența și dezvoltarea catolicismului într-o țară majoritar musulmană, fiind sediul Arhiepiscopiei de Conakry. Interiorul catedralei este sobru, dar elegant, cu bolți înalte și vitralii care filtrează lumina tropicală. De-a lungul deceniilor, catedrala a rămas un loc de refugiu și rugăciune în perioadele turbulente din istoria țării. Astăzi, reprezintă punctul central de întâlnire pentru comunitatea creștină din Guineea și o dovadă a toleranței și diversității religioase din țară. Catedrala nu este doar un spațiu spiritual, ci și un monument istoric important, reprezentând istoria arhitecturii europene în Conakry.",
+        "en": "The Sainte-Marie Cathedral (Cathédrale Sainte-Marie de Conakry) is the most significant Christian building in Guinea and a prominent landmark of the capital. Constructed between 1928 and 1930 during the French colonial era, it was consecrated in 1930. Geographically, the cathedral is situated in the heart of the Kaloum Peninsula, Conakry's administrative center, very close to the presidential palace and the port. Its architecture is characterized by a neo-Gothic style with clean lines and a distinctive yellow-and-white facade that gives the building a bright, welcoming appearance. Historically, Sainte-Marie symbolizes the presence and growth of Catholicism in a predominantly Muslim country and serves as the seat of the Archdiocese of Conakry. The interior is simple yet elegant, featuring high vaults and stained-glass windows that filter the tropical sunlight. Over the decades, the cathedral has remained a sanctuary of peace and prayer during turbulent periods of the nation's history. Today, it is a central gathering place for Guinea's Christian community and a testament to the country's religious tolerance and diversity. The cathedral stands not only as a spiritual site but also as an important historical monument representing European architectural history in Conakry."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale wurde 1930 offiziell eingeweiht.",
+          "Sie ist der Sitz des katholischen Erzbischofs von Conakry.",
+          "Das Gebäude zeichnet sich durch seine charakteristische gelbe Fassade aus.",
+          "Sainte-Marie liegt nur wenige Meter vom Amtssitz des Präsidenten entfernt.",
+          "Die Kathedrale ist eines der am besten erhaltenen Gebäude der Kolonialzeit.",
+          "Ihre Architektur ist eine Mischung aus europäischer Neogotik und lokalen Anpassungen."
+        ],
+        "hu": [
+          "A székesegyházat 1930-ban szentelték fel hivatalosan.",
+          "Az épület a Conakry-i római katolikus érsekség székhelye.",
+          "A katedrális falai jellegzetes okkersárga és fehér színekben pompáznak.",
+          "Közvetlenül az elnöki palota szomszédságában található a Kaloum-félszigeten.",
+          "Guinea egyik legfontosabb keresztény közösségi és kulturális központja.",
+          "A belső ólomüveg ablakok jelenetei a Biblia és Afrika kapcsolatát idézik."
+        ],
+        "ro": [
+          "Construcția catedralei a durat doi ani, fiind finalizată în 1930.",
+          "Este un simbol al coabitării pașnice între religii în capitală.",
+          "Catedrala este renumită pentru acustica sa excepțională în timpul slujbelor.",
+          "Fațada sa în culori calde este un subiect preferat pentru fotografi.",
+          "Sainte-Marie a fost martora multor evenimente politice majore în centrul orașului.",
+          "Reprezintă cel mai mare lăcaș de cult catolic din Republica Guineea."
+        ],
+        "en": [
+          "The cathedral was officially consecrated in 1930.",
+          "It serves as the seat of the Roman Catholic Archdiocese of Conakry.",
+          "The building is famous for its vibrant yellow-and-white exterior.",
+          "It is located in the high-security administrative zone of Kaloum.",
+          "The cathedral is a prime example of well-preserved colonial-era architecture.",
+          "It serves as the focal point for major Christian festivals in Guinea."
+        ]
+      }
+    }
+  ]
+}

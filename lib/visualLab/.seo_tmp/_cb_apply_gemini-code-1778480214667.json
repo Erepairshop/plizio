@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bolama-governor-palace-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Gouverneurspalast von Bolama ist das eindrucksvollste Zeugnis der einstigen Bedeutung dieser Inselstadt, die bis 1941 die Hauptstadt von Portugiesisch-Guinea war. Das im neoklassizistischen Stil errichtete Gebäude mit seinen monumentalen Säulen erinnert an die koloniale Prachtentfaltung des frühen 20. Jahrhunderts. Nach der Verlegung des Regierungssitzes nach Bissau begann ein langsamer, aber stetiger Verfall. Heute steht der Palast als majestätische Ruine da, wobei die Natur sich allmählich das Mauerwerk zurückerobert. Die Architektur spiegelt den portugiesischen 'Estado Novo'-Stil wider, der Macht und Stabilität ausstrahlen sollte. Trotz des Fehlens eines Daches und der bröckelnden Fassade bleibt die Struktur ein Magnet für Historiker und Fotografen, da sie die Ambitionen und das Scheitern der Kolonialverwaltung gleichermaßen symbolisiert. Bolama selbst war ein Zentrum des Handels und der Diplomatie, was sich in der großzügigen Stadtplanung rund um den Palastplatz widerspiegelt. Ein Besuch dieser Stätte bietet eine melancholische Zeitreise in eine Ära, in der Bolama als das 'Genua Westafrikas' galt, bevor es in die Bedeutungslosigkeit versank.",
+        "hu": "A bolamai kormányzói palota Guinea-Bissau egyik leglátványosabb történelmi mementója, amely a sziget korábbi dicsőségét hirdeti. Bolama 1941-ig Portugál-Guinea fővárosa volt, és ez a neoklasszicista stílusú, monumentális oszlopcsarnokkal rendelkező épület szolgált a gyarmati hatalom központjaként. Az építészetében a portugál 'Estado Novo' jegyeit hordozó palota a 20. század eleji európai adminisztratív presztízst reprezentálta. Miután a fővárost Bissauba költöztették, az épület karbantartása megszűnt, és az évtizedek során lenyűgöző rommá vált. A hatalmas lépcsősorok és a málló falak között ma már trópusi növényzet tör utat magának, ami különleges, kísérteties hangulatot kölcsönöz a helyszínnek. A palota előtti tágas tér és a környező sugárutak hálózata még ma is sejteti azt a nagyszabású városrendezési tervet, amely Bolamát Nyugat-Afrika egyik legfontosabb kereskedelmi és diplomáciai csomópontjává kívánta tenni. A romos állapot ellenére a palota a mai napig az ország kulturális örökségének egyik legfontosabb pillére, a gyarmati múlt és az elmúlás szimbóluma.",
+        "ro": "Palatul Guvernatorului din Bolama este cea mai emblematică relicvă a perioadei în care această insulă servea drept capitală a Guineei Portugheze, funcție deținută până în anul 1941. Construit într-un stil neoclasic impunător, cu coloane masive ce amintesc de templele antice, edificiul a fost inima administrativă a coloniei. Arhitectura sa reflectă estetica regimului 'Estado Novo', punând accent pe monumentalitate și ordine. Odată cu transferul centrului de putere la Bissau, palatul a intrat într-o fază de abandon prelungit, transformându-se astăzi într-o ruină fascinantă unde vegetația tropicală a început să invadeze structurile de rezistență. Deși acoperișul a dispărut și tencuiala se descompune, fațada principală rămâne un subiect fotografic spectaculos, simbolizând decadența unei ere coloniale apuse. Orașul Bolama, supranumit cândva 'Genova Africii de Vest', a fost planificat cu bulevarde largi care converg spre acest palat, demonstrând ambițiile urbanistice lusitane. Astăzi, situl este esențial pentru înțelegerea tranziției politice și economice a țării, fiind un punct de referință în istoria urbanismului african.",
+        "en": "The Governor's Palace in Bolama is the most striking testament to the island's former status as the capital of Portuguese Guinea until 1941. This neoclassical structure, characterized by its monumental columns and grand staircase, once served as the seat of colonial power. Built to project authority and permanence, the palace reflects the architectural preferences of the Portuguese 'Estado Novo' era. Since the relocation of the capital to Bissau, the building has fallen into a state of majestic decay, with tropical flora gradually reclaiming the brickwork. Despite its ruinous condition, the palace remains a powerful symbol of Bolama’s past glory, when the city was a thriving commercial hub and diplomatic center. The surrounding urban layout, with its wide avenues and public squares, centers on the palace, highlighting the ambitious colonial planning of the time. Now a hauntingly beautiful site, it attracts historians and travelers alike, offering a profound look into the rise and eventual decline of colonial administrations in West Africa. It stands as a melancholic reminder of an era that shaped the modern identity of the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bolama war bis 1941 die offizielle Hauptstadt der Kolonie.",
+          "Der Palast ist im monumentalen neoklassizistischen Stil erbaut.",
+          "Das Gebäude steht seit Jahrzehnten leer und ist heute eine Ruine.",
+          "Es war das Zentrum des diplomatischen Streits 'Bolama-Frage' im 19. Jahrhundert.",
+          "Die Ruine dient oft als Kulisse für kulturelle Veranstaltungen der Insel.",
+          "Der Palast symbolisiert den Übergang der Macht von Bolama nach Bissau."
+        ],
+        "hu": [
+          "Az épület 1941-ig a gyarmati kormányzat székhelye volt.",
+          "Stílusa neoklasszicista, amelyre a hatalmas homlokzati oszlopok jellemzőek.",
+          "A főváros Bissauba költöztetése után az épület pusztulásnak indult.",
+          "Bolama szigete az UNESCO világörökségi várományosi listáján szerepel.",
+          "A palota romjai ma Guinea-Bissau egyik legismertebb fotótémáját adják.",
+          "A 19. században az USA elnöke, Ulysses S. Grant döntött a sziget hovatartozásáról."
+        ],
+        "ro": [
+          "Clădirea a servit drept sediu al guvernului colonial până în 1941.",
+          "Arhitectura sa neoclasică include coloane dorice de mari dimensiuni.",
+          "După mutarea capitalei la Bissau, edificiul a fost abandonat total.",
+          "Insula Bolama a fost obiectul unei dispute teritoriale între britanici și portughezi.",
+          "Este considerat unul dintre cele mai importante exemple de arhitectură colonială ruinată.",
+          "În prezent, structura este invadată de rădăcinile arborilor de banyan."
+        ],
+        "en": [
+          "The palace was the administrative heart of the colony until 1941.",
+          "Its neoclassical design features massive white columns and grand porticos.",
+          "Bolama was known as the 'Genoa of West Africa' during the palace's heyday.",
+          "The building is part of a larger historical urban ensemble on Bolama Island.",
+          "U.S. President Ulysses S. Grant resolved a territorial dispute involving this site in 1870.",
+          "It is currently one of the most photographed colonial ruins in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "madina-boe-site-history-v2",
+      "descriptionAdvanced": {
+        "de": "Madina do Boé ist ein heiliger Ort in der Geschichte Guinea-Bissaus, da hier am 24. September 1973 einseitig die Unabhängigkeit des Landes von Portugal erklärt wurde. Inmitten des dichten Dschungels und der zerklüfteten Hügel des Boé-Plateaus versammelten sich die Abgeordneten der Nationalen Volksversammlung der PAIGC, während der Unabhängigkeitskrieg noch in vollem Gange war. Dieser symbolträchtige Akt geschah Monate vor der Nelkenrevolution in Portugal und markierte die Geburtsstunde der ersten Republik in den ehemaligen portugiesischen Kolonien Afrikas. Die Stätte selbst ist heute ein Ort des nationalen Gedenkens, geprägt durch ein schlichtes, aber bedeutungsvolles Denkmal, das an die mutigen Männer und Frauen erinnert, die unter der geistigen Führung von Amílcar Cabral für die Freiheit kämpften. Aufgrund der abgelegenen Lage und der schwierigen Erreichbarkeit hat sich Madina do Boé eine fast mystische Aura bewahrt. Es ist ein Ort der Stille, der die Entschlossenheit eines Volkes widerspiegelt, das unter widrigsten Bedingungen seine Souveränität einforderte. Für viele Guineer ist eine Reise nach Boé eine patriotische Pflicht, um die Wurzeln ihrer nationalen Identität zu ehren.",
+        "hu": "Madina do Boé a modern Bissau-guineai államiság bölcsője, ahol 1973. szeptember 24-én hivatalosan és egyoldalúan kikiáltották az ország függetlenségét Portugáliától. Ez a történelmi tett a Boé-fennsík elszigetelt, nehezen megközelíthető dombjai között történt, ahol a PAIGC gerillái és a népgyűlés képviselői összegyűltek, miközben a felszabadító háború még javában zajlott. Ezzel Guinea-Bissau lett az első a portugál gyarmatok közül, amely deklarálta szuverenitását, megelőzve magát a portugál szegfűs forradalmat is. A helyszín ma nemzeti emlékhely, amelyet egy szerény emlékmű jelöl, hirdetve az önrendelkezés diadalát. A terület spirituális és politikai jelentősége felbecsülhetetlen: itt öltött testet Amílcar Cabral víziója egy szabad afrikai nemzetről. Bár az infrastruktúra hiánya miatt a helyszín nehezen látogatható, Madina do Boé továbbra is a nemzeti büszkeség végső szimbóluma marad. Minden év szeptember 24-én az állami vezetők és veteránok ide zarándokolnak, hogy tisztelegjenek az alapítók emléke előtt a vadregényes, érintetlen táj közepén.",
+        "ro": "Madina do Boé deține un loc sacru în memoria colectivă a Guineei-Bissau, fiind locul unde, la 24 septembrie 1973, a fost proclamată unilateral independența țării față de Portugalia. Într-un context marcat de un război de gherilă intens, reprezentanții Adunării Naționale Populare s-au reunit în această zonă izolată din platoul Boé pentru a ratifica nașterea noului stat. Acest eveniment istoric a precedat prăbușirea dictaturii de la Lisabona, transformând Guineea-Bissau în prima colonie portugheză din Africa care și-a asumat suveranitatea. Situl este marcat astăzi de un monument comemorativ care, deși simplu, evocă sacrificiul și determinarea combatanților PAIGC. Locația este caracterizată printr-un peisaj colinar sălbatic, care a oferit protecție strategică liderilor revoluționari în timpul conflictului. Madina do Boé nu este doar un punct geografic, ci un simbol al rezilienței și al victoriei intelectuale a lui Amílcar Cabral. Pentru cetățenii țării, acest loc reprezintă 'Actul de Naștere' al republicii, păstrând o atmosferă de solemnitate și respect național profund.",
+        "en": "Madina do Boé is a hallowed site in the history of Guinea-Bissau, serving as the location where the nation’s independence from Portugal was unilaterally declared on September 24, 1973. Amidst the rugged hills and dense forests of the Boé Plateau, the PAIGC National People's Assembly gathered to announce the birth of the republic while the war for liberation was still active. This bold political move made Guinea-Bissau the first Portuguese colony in Africa to declare sovereignty, months before the Carnation Revolution in Lisbon. Today, the site features a commemorative monument that stands as a humble yet powerful tribute to the revolutionaries who fought under the ideological guidance of Amílcar Cabral. Due to its remote location and challenging terrain, Madina do Boé retains a sense of untouched historical purity. It remains the ultimate symbol of national pride and self-determination, attracting patriots and historians who wish to honor the roots of the country’s freedom. Every year on Independence Day, the site becomes the focal point of national reflection, celebrating the moment the dream of a sovereign state became a reality."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Unabhängigkeitserklärung erfolgte hier am 24. September 1973.",
+          "Madina do Boé liegt auf dem strategisch wichtigen Boé-Plateau.",
+          "Es war der erste Ort, an dem die PAIGC eine zivile Verwaltung einrichtete.",
+          "Das Denkmal vor Ort erinnert an die erste Nationalversammlung des Landes.",
+          "Die Region ist bekannt für ihre unberührte Natur und Hügellandschaft.",
+          "Der Ort war während des Krieges ein sicherer Rückzugsort für die Rebellen."
+        ],
+        "hu": [
+          "1973. szeptember 24-én itt kiáltották ki a köztársaságot.",
+          "Ez volt az első független állam a volt portugál-afrikai gyarmatok közül.",
+          "A helyszín a nehezen megközelíthető, keleti országrészben található.",
+          "Az esemény tiszteletére szeptember 24-e a legnagyobb nemzeti ünnep.",
+          "Itt ülésezett először a független Guinea-Bissau népgyűlése.",
+          "A terület a felszabadító háború idején a PAIGC ellenőrzése alatt állt."
+        ],
+        "ro": [
+          "Independența a fost declarată aici cu un an înainte de recunoașterea oficială.",
+          "Situl găzduiește monumentul primei Adunări Naționale Populare.",
+          "Madina do Boé se află într-o regiune muntoasă de la granița cu Guineea.",
+          "Locul a fost ales pentru siguranța oferită de relieful accidentat.",
+          "Ceremonia din 1973 a fost condusă de Luís Cabral, fratele lui Amílcar.",
+          "Evenimentul a marcat sfârșitul de facto al administrației coloniale în zonă."
+        ],
+        "en": [
+          "Independence was unilaterally declared here on September 24, 1973.",
+          "The site hosted the first session of the National People's Assembly.",
+          "It is located in the remote Boé region near the Guinea-Conakry border.",
+          "The declaration here was a major psychological blow to the colonial regime.",
+          "A commemorative stone pillar marks the exact spot of the proclamation.",
+          "September 24 is now celebrated as the country's Independence Day."
+        ]
+      }
+    },
+    {
+      "id": "guiledje-military-museum-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das Militärmuseum von Guiledje befindet sich an einem der geschichtsträchtigsten Orte des Unabhängigkeitskrieges im Süden von Guinea-Bissau. Guiledje war ein strategisch entscheidender portugiesischer Militärstützpunkt, der die Versorgungswege der PAIGC-Guerilla aus dem benachbarten Guinea-Conakry blockieren sollte. Nach jahrelangen heftigen Kämpfen gelang es den Befreiungskämpfern im Mai 1973, den Stützpunkt in einer großangelegten Operation zu überrennen, was einen Wendepunkt im Krieg markierte. Heute fungiert das Gelände als Freilichtmuseum, in dem die Überreste der schweren Bewaffnung beider Seiten zu sehen sind, darunter gepanzerte Fahrzeuge, Artilleriegeschütze und Flugzeugwracks. Die erhaltenen Bunkeranlagen und Schützengräben vermitteln den Besuchern ein eindringliches Bild der harten Bedingungen, unter denen dieser Konflikt ausgetragen wurde. Das Museum dient nicht nur der Dokumentation militärischer Siege, sondern ist auch ein Ort der Versöhnung und des Lernens. Es beleuchtet die strategische Brillanz der Guerillataktik und den hohen Preis der Freiheit. Inmitten der tropischen Vegetation des Südens gelegen, ist Guiledje ein stilles Monument des Widerstands, das die Erinnerung an die Opfer des Krieges für künftige Generationen bewahrt.",
+        "hu": "A guiledje-i katonai múzeum az ország déli részén található, ott, ahol a függetlenségi háború egyik legvéresebb és legfontosabb csatája zajlott. Guiledje egy stratégiai fontosságú portugál katonai bázis volt, amelynek feladata a PAIGC gerillák Guinea-Conakry felől érkező utánpótlási útvonalainak elvágása volt. 1973 májusában a szabadságharcosoknak egy összehangolt ostrommal sikerült elfoglalniuk az erődöt, ami a gyarmati hadsereg morális összeomlásának kezdetét jelentette. A helyszín ma szabadtéri múzeumként működik, ahol a dzsungel fái között rozsdásodó tankok, lövegek és lezuhant repülőgépek roncsaival találkozhatunk. A látogatók bejárhatják az egykori bunkereket és lövészárkokat, amelyek hűen tükrözik a háború kíméletlen valóságát. A múzeum különlegessége, hogy nemcsak a győzelmet ünnepli, hanem részletes betekintést nyújt a korabeli haditechnikába és a gerilla-hadviselés módszereibe is. Guiledje ma a nemzeti ellenállás szimbóluma, egy olyan történelmi emlékhely, amely segít megérteni azt az áldozatvállalást, amely Guinea-Bissau szuverenitásához vezetett.",
+        "ro": "Muzeul Militar din Guiledje este situat în sudul Guineei-Bissau, pe locul uneia dintre cele mai semnificative baze militare din timpul războiului de eliberare națională. Guiledje a fost un punct strategic crucial pentru armata portugheză, având rolul de a monitoriza și intercepta rutele de aprovizionare ale gherilei PAIGC dinspre Guineea-Conakry. Căderea acestei baze în mai 1973, după un asediu intens, a reprezentat un punct de cotitură major în favoarea forțelor de eliberare. În prezent, situl este un muzeu în aer liber unde sunt expuse epave de vehicule blindate, piese de artilerie și rămășițe ale avioanelor doborâte. Vizitatorii pot explora sistemele de buncăre și tranșee care au supraviețuit timpului, oferind o perspectivă palpabilă asupra condițiilor extreme de pe front. Muzeul are o funcție educativă importantă, documentând tacticile de luptă și sacrificiul uman necesar pentru obținerea independenței. Înconjurat de vegetația luxuriantă a regiunii Tombali, Guiledje rămâne un monument al demnității naționale și o dovadă a succesului rezistenței africane împotriva dominației coloniale europene.",
+        "en": "The Military Museum of Guiledje is located in the southern part of Guinea-Bissau, on the site of one of the most decisive battles of the War of Independence. Guiledje was a strategic Portuguese military stronghold designed to sever the supply lines of the PAIGC guerrillas flowing from neighboring Guinea-Conakry. The successful overrunning of the base by liberation forces in May 1973 marked a psychological and tactical turning point in the conflict. Today, the site functions as an open-air museum, showcasing the remnants of heavy weaponry from both sides, including tanks, artillery pieces, and downed aircraft. Visitors can walk through the preserved bunkers and trenches, which provide a vivid sense of the harsh realities faced by soldiers during the war. The museum serves as an essential educational resource, detailing the guerrilla tactics and historical events that led to the collapse of colonial rule. Surrounded by the dense forests of the Tombali region, Guiledje stands as a silent monument to resistance and a site of national pilgrimage, preserving the memory of those who fought for the country's sovereignty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Schlacht um Guiledje im Mai 1973 gilt als Wendepunkt des Krieges.",
+          "Das Museum zeigt originale Flugzeugwracks und gepanzerte Fahrzeuge.",
+          "Besucher können die weitläufigen unterirdischen Bunker besichtigen.",
+          "Der Ort liegt nahe der Grenze zur Republik Guinea (Conakry).",
+          "Die PAIGC nutzte hier erstmals massiv schwere Artillerie gegen die Portugiesen.",
+          "Das Museum wurde mit internationaler Hilfe als Erinnerungsort gestaltet."
+        ],
+        "hu": [
+          "A guiledje-i bázis 1973 májusában került a szabadságharcosok kezére.",
+          "A múzeum területén szovjet és portugál gyártmányú haditechnika is látható.",
+          "Az egykori bunkerrendszer ma is látogatható a turisták számára.",
+          "A bázis elfoglalása megnyitotta az utat a főváros, Bissau felé.",
+          "Ez az egyik legfontosabb hadtörténeti emlékhely Nyugat-Afrikában.",
+          "A helyszín az ország déli, Tombali régiójában található."
+        ],
+        "ro": [
+          "Cucerirea bazei Guiledje a durat doar câteva ore după un asalt masiv.",
+          "Muzeul expune tunuri antiaeriene și mașini de luptă din anii '70.",
+          "Sunt vizibile buncărele betonate folosite de trupele coloniale.",
+          "Situl documentează celebrul 'coridor de aprovizionare' al PAIGC.",
+          "Guiledje a fost considerată 'cheia' controlului asupra sudului țării.",
+          "Este un proiect muzeal unic care îmbină istoria cu protecția mediului."
+        ],
+        "en": [
+          "The fall of Guiledje in May 1973 shattered the morale of the colonial army.",
+          "The museum features a collection of rusted tanks and fighter jet remains.",
+          "It preserves the original trenches and command bunkers of the fortress.",
+          "The site is located in a strategic corridor near the southern border.",
+          "Guiledje was one of the most fortified Portuguese positions in the colony.",
+          "Annual ceremonies are held here to commemorate the military victory."
+        ]
+      }
+    },
+    {
+      "id": "cacheu-historic-center-history-v2",
+      "descriptionAdvanced": {
+        "de": "Das historische Zentrum von Cacheu ist ein Ort von immenser Bedeutung für das Verständnis der euro-afrikanischen Begegnung seit dem 16. Jahrhundert. Als eine der ersten permanenten europäischen Siedlungen in Subsahara-Afrika war Cacheu über Jahrhunderte ein pulsierender, wenn auch oft schmerzhafter Knotenpunkt des globalen Handels. Die Architektur des Zentrums ist geprägt von einer Mischung aus kolonialen Verwaltungsgebäuden, alten Lagerhäusern und religiösen Stätten. Besonders hervorzuheben ist das Sklaven-Gedenkmuseum (Memorial da Escravatura), das in einem restaurierten Gebäude untergebracht ist und die zentrale Rolle Cacheus im transatlantischen Sklavenhandel thematisiert. Die Straßen des Zentrums führen zum Flussufer, wo das alte Fort steht, und sind gesäumt von jahrhundertealten Bäumen, die stumme Zeugen der Geschichte sind. Cacheu war nicht nur ein Ort des Leids, sondern auch ein Schmelztiegel der Kulturen, in dem sich portugiesische, kapverdische und lokale Einflüsse zu einer einzigartigen kreolischen Identität vermischten. Ein Spaziergang durch das historische Zentrum bietet tiefe Einblicke in die ökonomischen Strukturen des Kolonialismus und die kulturelle Widerstandskraft der lokalen Bevölkerung. Heute bemüht sich die Regierung zusammen mit internationalen Partnern, dieses Erbe zu bewahren und Cacheu als wichtiges kulturelles Tourismusziel zu etablieren.",
+        "hu": "Cacheu történelmi központja Nyugat-Afrika egyik legrégebbi európai alapítású települése, amely a 16. század óta meghatározó szerepet játszott a kontinens és Európa kapcsolatában. A Cacheu-folyó partján elterülő városrész a gyarmati építészet, a kereskedelmi raktárak és a szakrális emlékek különleges egyvelege. Központi eleme a rabszolga-emlékmúzeum (Memorial da Escravatura), amely megrázó módon mutatja be a város sötét múltját, mint az egyik legfontosabb rabszolgakereskedelmi kikötőt. Az óváros utcáin sétálva megelevenedik a múlt: a portugál adminisztratív épületek mellett a helyi kreol kultúra nyomai is mindenütt fellelhetőek. Cacheu nem csupán egy kereskedelmi állomás volt, hanem a vallási missziók és a kulturális cserék központja is, ahol az európai és afrikai hagyományok évszázadokon át csiszolódtak össze. A történelmi mag magában foglalja az ikonikus erődöt és a régi vámházat is. A városvezetés és nemzetközi szervezetek közös munkájának köszönhetően a központ ma egyfajta élő múzeumként funkcionál, amely az oktatás és a kulturális turizmus egyik legfontosabb bástyája Guinea-Bissauban, emlékeztetve az utókort az emberi jogok és a szabadság fontosságára.",
+        "ro": "Centrul istoric din Cacheu reprezintă una dintre cele mai vechi așezări europene din Africa Subsahariană, fiind un punct focal al istoriei coloniale începând cu secolul al XVI-lea. Situat pe malurile fluviului Cacheu, acest nucleu urban păstrează o arhitectură ce reflectă secole de dominație portugheză, dar și reziliența culturii locale. Un pilon central al centrului istoric este 'Memorial da Escravatura e do Tráfico Negreiro', primul muzeu din țară dedicat exclusiv istoriei sclaviei, găzduit într-o clădire de epocă restaurată. Străzile înguste sunt flancate de clădiri administrative vechi și biserici care atestă rolul orașului de primă capitală și centru misionar. Cacheu a fost, timp de secole, un nod comercial vital unde se schimbau mărfuri precum fildeșul, ceara și, în mod tragic, ființe umane. Astăzi, atmosfera centrului istoric este una de reflecție, fiind inclus pe lista tentativă a Patrimoniului Mondial UNESCO. Reabilitarea spațiilor publice a transformat Cacheu într-un centru cultural vibrant, unde istoria este predată noilor generații pentru a nu uita ororile trecutului și pentru a celebra identitatea națională multiculturală.",
+        "en": "The historic center of Cacheu is one of the most significant sites for understanding the long and complex interaction between Africa and Europe, dating back to the 16th century. As one of the first permanent European settlements in sub-Saharan Africa, Cacheu served for centuries as a major commercial hub. The center’s architecture is a blend of colonial administrative buildings, old trading warehouses, and historic religious sites. A key highlight is the Slave Memorial Museum (Memorial da Escravatura), which provides a poignant and detailed look at Cacheu's central role in the transatlantic slave trade. The streets of the historic quarter lead to the riverfront, where the ancient fort stands, lined with centuries-old trees that have witnessed the city's turbulent history. Cacheu was not only a place of trade and tragedy but also a cultural melting pot where Portuguese, Cape Verdean, and local African influences merged to form a unique Creole identity. Today, the historic center is being preserved as a site of memory and education, aiming to establish Cacheu as a cornerstone of cultural tourism in Guinea-Bissau. It stands as a powerful reminder of the economic structures of colonialism and the enduring spirit of the local people."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Cacheu wurde bereits 1588 als befestigter Handelsposten etabliert.",
+          "Hier befindet sich das erste Sklaven-Gedenkmuseum von Guinea-Bissau.",
+          "Das Zentrum steht auf der vorläufigen Liste des UNESCO-Welterbes.",
+          "Der Ort war bis ins 19. Jahrhundert ein Zentrum für den Export von Elfenbein.",
+          "Viele Gebäude zeigen den typischen portugiesischen Kolonialstil 'Sobrado'.",
+          "Das historische Viertel liegt direkt am Ufer des Rio Cacheu."
+        ],
+        "hu": [
+          "Cacheu városa 1588-ban kapott hivatalos települési rangot.",
+          "Itt nyílt meg az ország első, rabszolgasággal foglalkozó emlékmúzeuma.",
+          "A történelmi városközpont az UNESCO világörökségi várományosa.",
+          "A 17. században a régió legfontosabb gazdasági központja volt.",
+          "Az épületek falai gyakran eredeti vörös laterit kőből készültek.",
+          "A központban számos 19. századi katolikus missziós épület látható."
+        ],
+        "ro": [
+          "Centrul istoric a fost prima capitală a Guineei Portugheze.",
+          "Adăpostește Memorialul Sclaviei, inaugurat cu sprijin internațional.",
+          "Situl este propus pentru includerea în Patrimoniul Mondial UNESCO.",
+          "Arhitectura combină stilul colonial lusitan cu elemente locale africane.",
+          "Orașul a fost un port major pentru companiile comerciale europene.",
+          "Zona este protejată pentru valoarea sa istorică și arheologică excepțională."
+        ],
+        "en": [
+          "Cacheu is one of the oldest European-established towns in West Africa.",
+          "It houses the country's first dedicated Slavery Memorial Museum.",
+          "The area is currently on the UNESCO World Heritage tentative list.",
+          "It served as the primary administrative and trade center for centuries.",
+          "The historic layout includes many 16th and 17th-century foundations.",
+          "The site is a major center for the preservation of Guinea-Bissau's Creole culture."
+        ]
+      }
+    },
+    {
+      "id": "kansala-ruins-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Ruinen von Kansalá markieren den Ort der einstigen Hauptstadt des Kaabu-Reiches, eines mächtigen Mandinka-Staates, der vom 13. bis zum 19. Jahrhundert große Teile Westafrikas dominierte. Kansalá war eine befestigte Stadt, die für ihren Reichtum und ihre strategische Bedeutung berühmt war. Ihr Untergang im Jahr 1867 während der Schlacht von Kansalá ist eines der dramatischsten Ereignisse in der regionalen Geschichte. Umgeben von den Heeren des Imams von Fouta Djallon, wählten die Verteidiger von Kansalá unter ihrem Anführer Janke Wali den kollektiven Freitod, indem sie die Pulvermagazine der Stadt sprengten, anstatt sich zu ergeben. Heute sind von der einstigen Pracht nur noch Erdwälle, Fundamente und verstreute Überreste der massiven Stadtmauern erhalten, die allmählich von der Vegetation überdeckt werden. Die Stätte ist für die Mandinka-Bevölkerung von enormer spiritueller Bedeutung und gilt als Symbol für Ehre und Widerstandskraft. Archäologische Untersuchungen in Kansalá geben Aufschluss über die hochentwickelte Stadtplanung und die Verteidigungsstrategien vor-kolonialer afrikanischer Reiche. Ein Besuch der Ruinen erfordert oft die Erlaubnis lokaler Ältester, da der Ort als heiliges Land betrachtet wird, in dem die Geister der Vorfahren ruhen.",
+        "hu": "Kansalá romjai a hajdani Kaabu Birodalom fővárosának helyét jelölik, amely a 13. és 19. század között Nyugat-Afrika egyik leghatalmasabb mandinka állama volt. A város fénykorában a gazdagság és a katonai erő szimbólumaként tündökölt, stratégiai elhelyezkedése pedig biztosította a kereskedelmi utak feletti ellenőrzést. Kansalá bukása 1867-ben a régió történelmének egyik legtragikusabb fejezete: a Fouta Djallon-i imám seregei által ostromolt város védői, Janke Wali vezetésével, a fogság helyett a halált választották, és felrobbantották a puskaporraktárakat, elpusztítva önmagukat és a várost is. Ma a helyszínen már csak földművek, alapfalak és az egykori védművek nyomai láthatók, melyeket lassan visszafoglal a természet. A mandinka nép számára Kansalá szent hely, az ellenállás és a nemzeti büszkeség jelképe. Az itt végzett régészeti kutatások rávilágítanak a gyarmatosítás előtti afrikai államok komplex társadalmi és katonai szerkezetére. A romok látogatása különleges élmény, hiszen a csendes táj és a látható maradványok egy letűnt birodalom utolsó, méltóságteljes sóhaját idézik fel.",
+        "ro": "Ruinele din Kansalá marchează locația fostei capitale a Imperiului Kaabu, un puternic stat Mandinka care a dominat regiunea între secolele XIII și XIX. Kansalá a fost o cetate fortificată, celebră pentru bogăția sa și pentru rolul său de centru cultural și politic. Sfârșitul orașului, în 1867, a rămas întipărit în istoria Africii de Vest prin bătălia de la Kansalá, un conflict sângeros împotriva forțelor califatului Fouta Djallon. Conform legendelor locale, liderul Janke Wali a preferat să arunce în aer depozitele de muniție, distrugând orașul și pe sine însuși, decât să se predea atacatorilor. Astăzi, situl păstrează doar fundații de piatră, movile de pământ care indică vechile ziduri de apărare și vestigii arheologice parțial acoperite de savană. Locul este considerat sacru de către comunitatea Mandinka, fiind un spațiu de pelerinaj unde se onorează memoria strămoșilor. Kansalá oferă o fereastră rară către organizarea statală africană pre-colonială, fiind un obiectiv esențial pentru cercetătorii care studiază dinastia victorioasă a imperiului Mali și ramificațiile sale ulterioare în Guineea-Bissau.",
+        "en": "The ruins of Kansalá mark the site of the former capital of the Kaabu Empire, a powerful Mandinka state that dominated large parts of West Africa from the 13th to the 19th century. Once a fortified city known for its immense wealth and military might, Kansalá was the political heart of the region. Its fall in 1867 during the Battle of Kansalá is one of West Africa's most dramatic historical events. Facing inevitable defeat by the forces of the Fouta Djallon Imamate, the defenders, led by King Janke Wali, chose collective suicide by blowing up the city’s gunpowder magazines rather than surrendering. Today, only earthworks, foundations, and scattered stone remnants of the massive walls remain, gradually being reclaimed by the surrounding landscape. The site holds profound spiritual and historical significance for the Mandinka people, symbolizing honor and resistance. Archaeological research at Kansalá provides crucial insights into pre-colonial African urban planning and defense systems. Visiting the ruins is a somber yet enlightening experience, offering a glimpse into the rise and tragic fall of one of the continent's great forgotten empires."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kansalá war die Hauptstadt des Kaabu-Reiches, eines Vasallenstaates von Mali.",
+          "Die Stadt wurde 1867 nach einer elf Tage dauernden Belagerung zerstört.",
+          "Der Untergang von Kansalá markierte das Ende der Mandinka-Hegemonie.",
+          "Die Ruinen befinden sich in der Nähe der heutigen Stadt Gabú.",
+          "Legenden besagen, dass der Boden dort noch immer heilig ist.",
+          "Archäologen fanden dort Reste von hochentwickelten Bewässerungssystemen."
+        ],
+        "hu": [
+          "Kansalá a hatalmas Kaabu (vagy Gabu) Birodalom központja volt.",
+          "A város 1867-es pusztulása a 'Turubang' néven ismert esemény.",
+          "Janke Wali király inkább a halált választotta, mint a megadást.",
+          "A romok a mai Gabú várostól nem messze fekszenek.",
+          "A helyszín fontos kulturális zarándokhely a mandinka népcsoport számára.",
+          "Az egykori várfalak vastagsága állítólag elérte a több métert is."
+        ],
+        "ro": [
+          "Kansalá a fost capitala imperiului Kaabu timp de peste 500 de ani.",
+          "Orașul a fost distrus complet într-o explozie masivă în 1867.",
+          "Situl este un simbol al rezistenței împotriva expansiunii fulani.",
+          "Ruinele sunt situate în estul țării, într-o zonă de savană.",
+          "Bătălia de la Kansalá este subiectul multor cântece ale griotilor africani.",
+          "Cercetările arată că orașul era protejat de șapte rânduri de fortificații."
+        ],
+        "en": [
+          "Kansalá served as the capital of the Kaabu Empire for several centuries.",
+          "The city was leveled in 1867 following the historic Battle of Kansalá.",
+          "The site is a major cultural landmark for Mandinka history and identity.",
+          "It is located near the modern-day city of Gabú in eastern Guinea-Bissau.",
+          "The destruction of the city led to the total collapse of the Kaabu state.",
+          "Remains of the royal compound can still be identified by stone outlines."
+        ]
+      }
+    }
+  ]
+}

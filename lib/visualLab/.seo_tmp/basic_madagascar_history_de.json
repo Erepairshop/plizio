@@ -1,0 +1,29 @@
+{
+  "lang": "de",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fianarantsoa-old-town-history-v2",
+      "description": "Die Altstadt von Fianarantsoa besticht durch ihre gut erhaltene Architektur aus dem 19. Jahrhundert. Sie thront auf einem Hügel und bietet einen Einblick in das koloniale Erbe der Region.",
+      "facts": ["Gegründet im Jahr 1830", "Koloniale Architektur", "UNESCO-Kandidat", "Hügel-Stadt"]
+    },
+    {
+      "id": "fort-dauphin-tolanaro-history-v2",
+      "description": "Tolanaro, früher Fort-Dauphin, war der erste bedeutende französische Stützpunkt auf Madagaskar. Die Stadt ist reich an historischen Gebäuden und Befestigungsanlagen aus dem 17. Jahrhundert.",
+      "facts": ["Gegründet 1643", "Historische Festung", "Französischer Außenposten", "Küstensiedlung"]
+    },
+    {
+      "id": "antongona-fortifications-history-v2",
+      "description": "Die Befestigungsanlagen von Antongona bestehen aus zwei historischen Felsenfestungen der Merina-Könige. Sie liegen westlich von Antananarivo und dienten als strategische Verteidigungspunkte.",
+      "facts": ["Historische Merina-Festungen", "Strategische Lage", "Archäologische Stätte", "Region Imerina"]
+    },
+    {
+      "id": "analamazaotra-colonial-station-history-v2",
+      "description": "Die koloniale Station von Analamazaotra war einst ein zentraler Punkt für den Holztransport und die Verwaltung im frühen 20. Jahrhundert. Heute ist sie ein Symbol für die Geschichte der Region Andasibe.",
+      "facts": ["Frühes 20. Jahrhundert", "Koloniale Verwaltung", "Region Andasibe", "Industriegeschichte"]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lang": "de",
+  "country": "Jamaica",
+  "files": [
+    "lib/visualLab/data/poiExtraJamaicaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaNatureV2.ts",
+    "lib/visualLab/data/poiExtraJamaicaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jm-cold-storage-economic-v2",
+      "description": "Dieses Kühlhaus ist ein entscheidendes Glied in der Kühlkette Jamaikas und ermöglicht die langfristige Lagerung von leicht verderblichen Lebensmitteln. Es sichert die Marktstabilität.",
+      "facts": ["Modernste Kühltechnologie", "Lagerung von Import & Export", "Sicherung der Frischekette"]
+    },
+    {
+      "id": "jm-textile-factory-economic-v2",
+      "description": "Die Textilfabrik produziert Kleidung und Heimtextilien für den lokalen Markt und nutzt dabei moderne Webverfahren. Sie ist ein wichtiger Arbeitgeber im verarbeitenden Gewerbe.",
+      "facts": ["Herstellung von Bekleidung", "Lokale Arbeitsplatzschaffung", "Veredelung von Baumwolle"]
+    },
+    {
+      "id": "seville-la-nueva-ruins-history-v2",
+      "description": "Die Ruinen von Sevilla la Nueva markieren den Ort der ersten spanischen Hauptstadt Jamaikas, die 1509 gegründet wurde. Die Stätte bietet Einblicke in die koloniale Frühzeit.",
+      "facts": ["Erste spanische Hauptstadt", "Gegründet im Jahr 1509", "Bedeutende archäologische Stätte"]
+    },
+    {
+      "id": "jm-falmouth-cruise-terminal-landmarks-v2",
+      "description": "Das Kreuzfahrtterminal von Falmouth beeindruckt durch seine Architektur im georgianischen Stil, die an das historische Stadtbild angepasst wurde. Es ist ein moderner Touristenmagnet.",
+      "facts": ["Georgianischer Baustil", "Tor zur historischen Altstadt", "Bedeutender Touristenmagnet"]
+    },
+    {
+      "id": "bull-head-mountain-nature-v2",
+      "description": "Bull Head Mountain gilt als das geografische Zentrum Jamaikas und ist ein wichtiges Wassereinzugsgebiet für die Region. Der Berg ist für seine üppige Vegetation bekannt.",
+      "facts": ["Geografisches Zentrum der Insel", "Wichtiges Wasserschutzgebiet", "Beliebtes Wanderziel"]
+    },
+    {
+      "id": "great-morass-nature-v2",
+      "description": "Das Great Morass ist ein ausgedehntes Feuchtgebiet, das zahlreichen seltenen Vogelarten und Reptilien als geschützter Lebensraum dient. Es ist ökologisch von unschätzbarem Wert.",
+      "facts": ["Größtes Feuchtgebiet", "Habitat für geschützte Arten", "Natürlicher Küstenschutz"]
+    },
+    {
+      "id": "navy-island-nature-v2",
+      "description": "Navy Island ist eine kleine, malerische Insel vor Port Antonio, die einst dem Hollywood-Star Errol Flynn gehörte. Heute ist sie ein ruhiges Naturparadies mit unberührten Stränden.",
+      "facts": ["Ehemaliger Privatbesitz", "Tropisches Inselparadies", "Nahe Port Antonio gelegen"]
+    },
+    {
+      "id": "montpelier-mountains-nature-v2",
+      "description": "Die Montpelier-Berge zeichnen sich durch ihre sanften Hügel und die dichten Regenwälder aus, die eine hohe Biodiversität beherbergen. Die Region ist ideal für Ökotourismus.",
+      "facts": ["Artenreiche Regenwälder", "Zentrum für Ökotourismus", "Panorama-Aussichtspunkte"]
+    },
+    {
+      "id": "catherine-peak-relief-v2",
+      "description": "Catherine's Peak ist einer der markantesten Gipfel in den Blue Mountains und eine wichtige Quelle für jamaikanisches Quellwasser. Er bietet spektakuläre Ausblicke auf die Gebirgskette.",
+      "facts": ["Markanter Gipfel", "Quelle für Mineralwasser", "Teil der Blue Mountains"]
+    },
+    {
+      "id": "corkscrew-ridge-relief-v2",
+      "description": "Der Corkscrew Ridge ist eine schroffe Gebirgskette, die ihren Namen den kurvenreichen Pfaden verdankt, die sich durch das Gelände winden. Er prägt das Relief im Osten.",
+      "facts": ["Steile Gebirgskämme", "Spektakuläre Passstraßen", "Herausforderndes Gelände"]
+    },
+    {
+      "id": "dry-harbour-mountains-relief-v2",
+      "description": "Die Dry Harbour Mountains bilden ein Kalksteinplateau im Norden Jamaikas, das durch zahlreiche Höhlen und unterirdische Flussläufe gekennzeichnet ist. Die Region ist geologisch einzigartig.",
+      "facts": ["Ausgedehntes Kalksteinplateau", "Zahlreiche Karsthöhlen", "Einzigartige Geologie"]
+    },
+    {
+      "id": "may-day-mountains-relief-v2",
+      "description": "Die May Day Mountains sind Teil des zentralen Hochlandes und bekannt für ihre kühleren Temperaturen und die fruchtbaren Böden. Sie bilden eine natürliche Barriere.",
+      "facts": ["Zentrales Hochland", "Kühleres Bergklima", "Fruchtbare Bergregion"]
+    }
+  ]
+}

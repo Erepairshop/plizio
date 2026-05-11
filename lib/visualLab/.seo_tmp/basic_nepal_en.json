@@ -1,0 +1,25 @@
+{
+  "lang": "en",
+  "country": "Nepal",
+  "files": [
+    "lib/visualLab/data/poiExtraNepalCitiesV2.ts",
+    "lib/visualLab/data/poiExtraNepalEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gokarneshwar-cities-v2",
+      "description": "Gokarneshwar is a municipality in the Kathmandu Valley, situated in the northeastern part of the capital district. It is known for the Gokarna Mahadev Temple and its proximity to the protected Gokarna Forest Reserve.",
+      "facts": ["Municipality in Kathmandu District", "Home to Gokarna Forest Reserve", "Contains historic Mahadev temple", "Located in Kathmandu Valley"]
+    },
+    {
+      "id": "gaur-cities-v2",
+      "description": "Gaur is a municipality and the administrative headquarters of Rautahat District in the Madhesh Province. It is a key trading town located near the border with India, serving as a gateway for regional commerce.",
+      "facts": ["Headquarters of Rautahat District", "Located in Madhesh Province", "Important border trading town", "Regional administrative hub"]
+    },
+    {
+      "id": "nepalgunj-industrial-estate-economic-v2",
+      "description": "The Nepalgunj Industrial Estate is a significant industrial zone in the Banke District, established to foster manufacturing and regional economic growth. It houses various small to medium-scale enterprises crucial for the local economy of Western Nepal.",
+      "facts": ["Located in Banke District", "Key manufacturing zone", "Supports regional economy", "Western Nepal hub"]
+    }
+  ]
+}

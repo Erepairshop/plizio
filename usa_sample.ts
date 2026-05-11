@@ -1,5 +1,5 @@
 // AUTO-GENERATED
-import type { POI } from "./poi";
+import type { POI } from "./lib/visualLab/data/poi";
 
 export const usaCountry: POI[] = [];
 export const usaRegions: POI[] = [];

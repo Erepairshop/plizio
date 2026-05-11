@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-princes-town-cities-v2",
+      "description": "Oraș situat în partea de sud a insulei Trinidad, cunoscut pentru diversitatea sa culturală și piețele locale vibrante.",
+      "facts": ["Situat în sud", "Centru comercial local", "Comunitate diversă"]
+    },
+    {
+      "id": "tt-freeport-cities-v2",
+      "description": "O așezare din Trinidad care funcționează ca un nod logistic și industrial în zona centrală a insulei.",
+      "facts": ["Zonă centrală", "Nod logistic", "Dezvoltare industrială"]
+    },
+    {
+      "id": "tt-tabaquite-cities-v2",
+      "description": "Localitate rurală pitorească, renumită pentru peisajele sale verzi și agricultura locală de subzistență.",
+      "facts": ["Localitate rurală", "Peisaj verde", "Agricultură tradițională"]
+    },
+    {
+      "id": "tt-talparo-cities-v2",
+      "description": "Sat liniștit situat în interiorul insulei Trinidad, înconjurat de zone forestiere și plantații.",
+      "facts": ["Interiorul insulei", "Zonă forestieră", "Sat liniștit"]
+    },
+    {
+      "id": "tt-toco-cities-v2",
+      "description": "Cea mai nord-estică așezare din Trinidad, oferind acces către coastele stâncoase și plajele izolate.",
+      "facts": ["Nord-estul insulei", "Coastă stâncoasă", "Plaje izolate"]
+    },
+    {
+      "id": "tt-mount-irvine-cities-v2",
+      "description": "Zonă turistică faimoasă în Tobago, cunoscută pentru terenul de golf și plajele cu ape limpezi.",
+      "facts": ["Zona Tobago", "Teren de golf", "Ape limpezi"]
+    },
+    {
+      "id": "tt-erin-cities-v2",
+      "description": "Localitate de coastă situată în sud-vestul insulei Trinidad, aproape de formațiuni geologice remarcabile.",
+      "facts": ["Sud-vest", "Localitate de coastă", "Geologie unică"]
+    },
+    {
+      "id": "tt-biche-cities-v2",
+      "description": "Sat situat în zona estică a insulei Trinidad, caracterizat prin relief deluros și vegetație tropicală densă.",
+      "facts": ["Zona estică", "Relief deluros", "Vegetație tropicală"]
+    },
+    {
+      "id": "tt-tableland-cities-v2",
+      "description": "Regiune agricolă fertilă în centrul insulei Trinidad, unde se cultivă diverse produse tropicale.",
+      "facts": ["Zonă fertilă", "Centrul insulei", "Producție agricolă"]
+    },
+    {
+      "id": "tt-morne-quinton-cities-v2",
+      "description": "Așezare colinară cu vederi panoramice asupra peisajului rural din Trinidad.",
+      "facts": ["Zona colinară", "Vederea panoramică", "Peisaj rural"]
+    }
+  ]
+}

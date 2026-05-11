@@ -1,0 +1,60 @@
+{
+  "lang": "de",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cocoa-house-ibadan-landmarks-v2",
+      "description": "Das Cocoa House in Ibadan war einst das höchste Gebäude im tropischen Afrika und ist ein Symbol für den wirtschaftlichen Aufstieg der Region.",
+      "facts": ["Ehemaliges Hochhaus", "In Ibadan gelegen", "Symbol wirtschaftlichen Wachstums"]
+    },
+    {
+      "id": "tinapa-resort-calabar-landmarks-v2",
+      "description": "Das Tinapa Resort in Calabar ist ein bedeutender Handels- und Tourismuskomplex, der Wirtschaftswachstum in der Region fördern soll.",
+      "facts": ["Handels- und Tourismuszentrum", "In Calabar gelegen", "Großer Wirtschaftskomplex"]
+    },
+    {
+      "id": "jaekel-house-lagos-landmarks-v2",
+      "description": "Jaekel House ist ein historisches Gebäude in Lagos, das die Kolonialarchitektur der nigerianischen Eisenbahngeschichte widerspiegelt.",
+      "facts": ["Historisches Gebäude", "Kolonialarchitektur", "Teil der Bahngeschichte"]
+    },
+    {
+      "id": "teslim-balogun-stadium-landmarks-v2",
+      "description": "Das Teslim-Balogun-Stadion in Lagos ist eine wichtige Sportstätte für Fußball und andere Großveranstaltungen.",
+      "facts": ["Großstadion", "In Lagos gelegen", "Sportliches Wahrzeichen"]
+    },
+    {
+      "id": "biu-plateau-relief-v2",
+      "description": "Das Biu-Plateau ist eine markante Hochlandregion im Nordosten Nigerias, die durch vulkanische Aktivität geprägt wurde.",
+      "facts": ["Hochlandregion", "Vulkanischen Ursprungs", "Nordost-Nigeria"]
+    },
+    {
+      "id": "mandara-berge-relief-v2",
+      "description": "Die Mandara-Berge bilden eine spektakuläre Bergkette an der Grenze zwischen Nigeria und Kamerun.",
+      "facts": ["Bergkette", "Grenzregion Nigeria-Kamerun", "Markantes Relief"]
+    },
+    {
+      "id": "alantika-berge-relief-v2",
+      "description": "Die Alantika-Berge sind eine abgelegene Bergregion, die für ihre raue Landschaft und indigene Kulturen bekannt ist.",
+      "facts": ["Abgelegenes Bergland", "Raue Topografie", "Indigene Region"]
+    },
+    {
+      "id": "shere-hills-relief-v2",
+      "description": "Die Shere Hills sind eine beeindruckende Gebirgskette auf dem Jos-Plateau, beliebt bei Wanderern und Naturfreunden.",
+      "facts": ["Teil des Jos-Plateaus", "Wandergebiet", "Bergkette"]
+    },
+    {
+      "id": "kogi-hügel-relief-v2",
+      "description": "Die Hügellandschaften im Bundesstaat Kogi bieten eine vielfältige Topografie nahe dem Zusammenfluss von Niger und Benue.",
+      "facts": ["Hügellandschaft", "Nahe Niger-Benue-Zusammenfluss", "Vielfältiges Relief"]
+    },
+    {
+      "id": "osun-relief-relief-v2",
+      "description": "Die reliefreiche Landschaft des Osun-Staates ist durch sanfte Hügel und üppige Vegetation gekennzeichnet.",
+      "facts": ["Hügellandschaft", "Üppige Vegetation", "Osun-Bundesstaat"]
+    }
+  ]
+}

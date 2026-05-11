@@ -1,0 +1,25 @@
+
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "gy-austin-house-history-v2",
+      "descriptionAdvancedDe": "Das Austin House in Georgetown ist ein architektonisches Juwel und die offizielle Residenz des anglikanischen Bischofs von Guyana. Das ursprünglich in den 1840er Jahren erbaute Gebäude wurde nach William Piercy Austin benannt, dem ersten Bischof von Guiana. Das Haus ist ein herausragendes Beispiel für die Kolonialarchitektur aus Holz und zeichnet sich durch seine weitläufigen Veranden, Jalousiefenster und filigranen Holzarbeiten aus, die typisch für die wohlhabenden Residenzen dieser Zeit sind. Es wurde im Laufe seiner Geschichte mehrfach restauriert, um seine historische Integrität und Schönheit zu bewahren. Das Austin House ist nicht nur ein privates Wohnhaus, sondern auch ein wichtiges historisches Wahrzeichen, das die lange und einflussreiche Geschichte der anglikanischen Kirche in Guyana repräsentiert. Es steht als Symbol für Beständigkeit und Glauben und trägt zur einzigartigen architektonischen Landschaft von Georgetown bei.",
+      "descriptionAdvancedHu": "Az Austin-ház Georgetownban egy építészeti gyöngyszem és Guyana anglikán püspökének hivatalos rezidenciája. Az eredetileg az 1840-es években épült épületet William Piercy Austinról, Guyana első püspökéről nevezték el. A ház a gyarmati faépítészet kiemelkedő példája, amelyet tágas verandák, zsalugáteres ablakok és a korszak gazdag rezidenciáira jellemző filigrán famunkák jellemeznek. Története során többször restaurálták, hogy megőrizzék történelmi integritását és szépségét. Az Austin-ház nemcsak magánlakás, hanem fontos történelmi nevezetesség is, amely a guyanai anglikán egyház hosszú és befolyásos történetét képviseli. Az állandóság és a hit szimbólumaként áll, és hozzájárul Georgetown egyedi építészeti tájképéhez.",
+      "descriptionAdvancedRo": "Casa Austin din Georgetown este o bijuterie arhitecturală și reședința oficială a episcopului anglican din Guyana. Construită inițial în anii 1840, clădirea a fost numită după William Piercy Austin, primul episcop al Guyanei. Casa este un exemplu remarcabil de arhitectură colonială din lemn, caracterizată prin verande spațioase, ferestre cu jaluzele și lucrări complexe în lemn, tipice pentru reședințele bogate ale epocii. A fost restaurată de mai multe ori de-a lungul istoriei sale pentru a-și păstra integritatea și frumusețea istorică. Casa Austin nu este doar o reședință privată, ci și un important reper istoric care reprezintă istoria lungă și influentă a Bisericii Anglicane în Guyana. Ea stă ca un simbol al permanenței și credinței și contribuie la peisajul arhitectural unic al Georgetownului.",
+      "descriptionAdvancedEn": "Austin House in Georgetown is an architectural gem and the official residence of the Anglican Bishop of Guyana. Originally built in the 1840s, the building was named after William Piercy Austin, the first Bishop of Guiana. The house is an outstanding example of colonial wooden architecture, characterized by its spacious verandas, jalousie windows, and intricate fretwork, typical of the affluent residences of that era. It has been restored multiple times throughout its history to preserve its historical integrity and beauty. Austin House is not only a private residence but also an important historical landmark that represents the long and influential history of the Anglican Church in Guyana. It stands as a symbol of permanence and faith and contributes to the unique architectural landscape of Georgetown.",
+      "factsAdvanced": [
+        "Offizielle Residenz des anglikanischen Bischofs von Guyana.",
+        "Ursprünglich in den 1840er Jahren erbaut.",
+        "Benannt nach William Piercy Austin, dem ersten Bischof von Guiana.",
+        "Ein herausragendes Beispiel für Kolonialarchitektur aus Holz.",
+        "Wurde mehrfach umfassend restauriert.",
+        "Repräsentiert die Geschichte der anglikanischen Kirche in Guyana.",
+        "Zeichnet sich durch kunstvolle Holzarbeiten (fretwork) aus.",
+        "Ein wichtiges historisches Wahrzeichen in Georgetown."
+      ]
+    }
+  ]
+}

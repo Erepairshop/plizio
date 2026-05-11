@@ -8,7 +8,7 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-3.7333, 5.2],
     name: { de: "Historische Stadt Grand-Bassam", hu: "Grand-Bassam történelmi városa", ro: "Orașul istoric Grand-Bassam", en: "Historic Town of Grand-Bassam" },
-    description: { de: "Die erste Hauptstadt der Elfenbeinküste unter französischer Kolonialherrschaft im späten 19. und frühen 20. Jahrhundert.", hu: "Elefántcsontpart első fővárosa a francia gyarmati uralom alatt a 19. század végén és a 20. század elején.", ro: "Prima capitală a Coastei de Fildeș sub dominația colonială franceză la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea.", en: "The first capital of Ivory Coast under French colonial rule in the late 19th and early 20th centuries." },
+    description: { de: "Die historische Altstadt von Grand-Bassam zeugt von der kolonialen Architektur des späten 19. Jahrhunderts.", hu: "Elefántcsontpart egykori gyarmati fővárosa, amely 2012 óta az UNESCO Világörökség részét képezi jól megőrzött francia építészete miatt.", ro: "Orașul istoric Grand-Bassam, prima capitală a Coastei de Fildeș, este renumit pentru arhitectura sa colonială franceză bine conservată și statutul de sit UNESCO.", en: "This historic town served as the first French colonial capital of Ivory Coast between 1893 and 1896. It is now a UNESCO World Heritage site known for its late 19th-century architecture." },
     descriptionAdvanced: {
       de: "Grand-Bassam war von 1893 bis 1896 die erste Hauptstadt der französischen Kolonie Elfenbeinküste. Die Stadt ist weltbekannt für ihre Architektur aus der Kolonialzeit, darunter Villen und Verwaltungsgebäude aus der Jahrhundertwende. Heute ist der Ort ein UNESCO-Weltkulturerbe und dient als lebendiges Museum für die koloniale Geschichte des Landes. Die Stadt musste 1896 nach einer verheerenden Gelbfieber-Epidemie als Hauptstadt aufgegeben werden, doch ihre Bedeutung als historisches Zentrum blieb bestehen. Geografie K7 — Küstenregionen.",
       hu: "Grand-Bassam 1893 és 1896 között az Elefántcsontpart francia gyarmat első fővárosa volt. A város világszerte ismert a 20. századfordulóról származó gyarmati építészetéről, beleértve a villákat és közigazgatási épületeket is. Ma a helyszín UNESCO világörökség, és az ország gyarmati történelmének élő múzeumaként szolgál. A várost 1896-ban, egy pusztító sárgaláz-járvány után kényszerültek elhagyni fővárosként, de történelmi jelentősége megmaradt. Földrajz K7 — tengerparti régiók.",
@@ -16,11 +16,18 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       en: "Grand-Bassam was the first capital of the French colony of Ivory Coast from 1893 to 1896. The town is world-renowned for its colonial-era architecture, including villas and administrative buildings from the turn of the century. Today, the site is a UNESCO World Heritage site and serves as a living museum of the country's colonial history. The town had to be abandoned as a capital in 1896 after a devastating yellow fever epidemic, yet its significance as a historical center remains. Geography K7 — coastal regions."
     },
     factsAdvanced: {
-      de: ["UNESCO-Status seit 2012", "Erbaut ab 1893", "Höhepunkt als Hauptstadt kurzzeitig", "Über 100 koloniale Gebäude", "Starke Küstenerosion seit Jahrzehnten", "Gelbfieber-Epidemie 1896 als Wendepunkt"],
-      hu: ["UNESCO státusz 2012 óta", "1893-tól épült", "Rövid ideig tartó fővárosi rang", "Több mint 100 gyarmati épület", "Erős partmenti erózió évtizedek óta", "1896-os sárgaláz-járvány fordulópontként"],
-      ro: ["Statut UNESCO din 2012", "Construit din 1893", "Rang de capitală pentru scurt timp", "Peste 100 de clădiri coloniale", "Eroziune costieră severă de decenii", "Epidemia de febră galbenă din 1896 ca punct de cotitură"],
-      en: ["UNESCO status since 2012", "Built from 1893", "Short-lived rank as capital", "Over 100 colonial buildings", "Severe coastal erosion for decades", "Yellow fever epidemic in 1896 as a turning point"]
-    }, image: "/poi-images/grand-bassam-historic-town-history-v2.webp"},
+      de: ["Höhepunkt als Hauptstadt kurzzeitig", "Über 100 koloniale Gebäude", "Starke Küstenerosion seit Jahrzehnten", "Gelbfieber-Epidemie 1896 als Wendepunkt"],
+      hu: ["Rövid ideig tartó fővárosi rang", "Több mint 100 gyarmati épület", "Erős partmenti erózió évtizedek óta", "1896-os sárgaláz-járvány fordulópontként"],
+      ro: ["Construit din 1893", "Rang de capitală pentru scurt timp", "Peste 100 de clădiri coloniale", "Eroziune costieră severă de decenii", "Epidemia de febră galbenă din 1896 ca punct de cotitură"],
+      en: ["Short-lived rank as capital", "Over 100 colonial buildings", "Severe coastal erosion for decades", "Yellow fever epidemic in 1896 as a turning point"]
+    },
+    facts: {
+      de: ["UNESCO-Status seit 2012", "Erbaut ab 1893", "Ehemalige Kolonialhauptstadt", "Historische Architektur"],
+      hu: ["UNESCO státusz 2012 óta", "1893-tól épült", "Egykori gyarmati főváros", "Történelmi építészet"],
+      ro: ["Sit UNESCO din 2012", "Prima capitală colonială", "Arhitectură din secolul XIX", "Fost centru comercial important"],
+      en: ["UNESCO status since 2012", "Built from 1893", "Former colonial capital", "Historic architecture"]
+    },
+    image: "/poi-images/grand-bassam-historic-town-history-v2.webp"},
   {
     id: "basilica-of-our-lady-of-peace-history-v2",
     type: "historical",
@@ -232,10 +239,10 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-4.3833, 5.3167],
     name: { de: "Fort Faidherbe in Dabou", hu: "Faidherbe erőd Dabou-ban", ro: "Fortul Faidherbe din Dabou", en: "Fort Faidherbe in Dabou" },
-    description: { de: "Eine 1853 erbaute französische Festung, die zur Sicherung der kolonialen Kontrolle an der Lagune diente.", hu: "Egy 1853-ban épült francia erőd, amely a lagúna feletti gyarmati irányítás biztosítását szolgálta.", ro: "O fortăreață franceză construită în 1853 pentru a asigura controlul colonial pe lagună.", en: "A French fortress built in 1853 to secure colonial control on the lagoon." },
+    description: { de: "Eine 1853 erbaute französische Festung, die zur Sicherung der kolonialen Kontrolle an der Lagune diente.", hu: "A Louis Faidherbe által 1853-ban alapított erődítmény Dabou városában a francia katonai jelenlét egyik fontos bástyája volt.", ro: "O fortăreață franceză construită în 1853 pentru a asigura controlul colonial pe lagună.", en: "A French fortress built in 1853 to secure colonial control on the lagoon." },
     facts: {
       de: ["Erbaut von Louis Faidherbe", "Militärischer Außenposten", "Wichtig im Handel", "Gut erhaltenes koloniales Fort"],
-      hu: ["Louis Faidherbe építtette", "Katonai előőrs", "Fontos volt a kereskedelemben", "Jól megőrzött gyarmati erőd"],
+      hu: ["1853-ban épült katonai erőd", "A gyarmati terjeszkedés bázisa", "Látványos kilátás a lagúnára"],
       ro: ["Construit de Louis Faidherbe", "Avanpost militar", "Important în comerț", "Fort colonial bine conservat"],
       en: ["Built by Louis Faidherbe", "Military outpost", "Important in trade", "Well-preserved colonial fort"]
     }, image: "/poi-images/dabou-fort-faidherbe-history-v2.webp",
@@ -252,9 +259,9 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-03",
     coords: [-6.0833, 4.95],
     name: { de: "Gouverneurspalast und Kai von Sassandra", hu: "Kormányzói palota és rakpart Sassandrában", ro: "Palatul Guvernatorului și Debarcaderul din Sassandra", en: "Governor's Palace and Wharf of Sassandra" },
-    description: { de: "Überreste der frühen kolonialen Hafeninfrastruktur und der Verwaltung in Sassandra am Atlantik.", hu: "A korai gyarmati kikötői infrastruktúra és közigazgatás maradványai Sassandrában, az Atlanti-óceán partján.", ro: "Rămășițele primei infrastructuri portuare coloniale și a administrației din Sassandra pe Atlantic.", en: "Remains of early colonial port infrastructure and administration in Sassandra on the Atlantic." },
+    description: { de: "Ein markantes Gebäude aus der Kolonialzeit, das auf einem Hügel über der Stadt Sassandra thront.", hu: "A korai gyarmati kikötői infrastruktúra és közigazgatás maradványai Sassandrában, az Atlanti-óceán partján.", ro: "Rămășițele primei infrastructuri portuare coloniale și a administrației din Sassandra pe Atlantic.", en: "Remains of early colonial port infrastructure and administration in Sassandra on the Atlantic." },
     facts: {
-      de: ["Historischer Exporthafen", "1951 Kai-Bau", "Sitz der Regionalverwaltung", "Wichtig für den Holzhandel"],
+      de: ["Baujahr um 1893", "Blick auf den Golf von Guinea", "Ehemaliger Verwaltungssitz"],
       hu: ["Történelmi exportkikötő", "1951-es rakpart építés", "Regionális közigazgatás székhelye", "Fontos a faanyag-kereskedelemben"],
       ro: ["Port de export istoric", "Construcția debarcaderului din 1951", "Sediul administrației regionale", "Important pentru comerțul cu lemn"],
       en: ["Historic export port", "1951 wharf construction", "Seat of regional administration", "Important for the timber trade"]
@@ -292,11 +299,11 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-16",
     coords: [-4.7, 5.25],
     name: { de: "Historisches Pfahldorf Tiagba", hu: "Tiagba történelmi cölöpfaluja", ro: "Satul istoric pe piloni Tiagba", en: "Historic Stilt Village of Tiagba" },
-    description: { de: "Ein traditionelles Dorf auf Pfählen in der Ébrié-Lagune, das die vorkoloniale Lebensweise der Küstenvölker bewahrt hat.", hu: "Egy hagyományos cölöpfalu az Ébrié-lagúnában, amely megőrizte a part menti népek gyarmatosítás előtti életmódját.", ro: "Un sat tradițional pe piloni din laguna Ébrié, care a păstrat modul de viață precolonial al popoarelor de coastă.", en: "A traditional stilt village in the Ébrié Lagoon that has preserved the pre-colonial way of life of coastal peoples." },
+    description: { de: "Ein traditionelles Dorf auf Pfählen in der Ébrié-Lagune, das die vorkoloniale Lebensweise der Küstenvölker bewahrt hat.", hu: "Egy hagyományos cölöpfalu az Ébrié-lagúnában, amely megőrizte a part menti népek gyarmatosítás előtti életmódját.", ro: "Tiagba este un sat istoric unic situat pe piloni în laguna Ébrié, reflectând adaptarea tradițională a poporului Ahizi la mediul acvatic.", en: "A traditional stilt village in the Ébrié Lagoon that has preserved the pre-colonial way of life of coastal peoples." },
     facts: {
       de: ["Häuser auf Stelzen", "Kultur der Ahizi", "Schutz vor feindlichen Angriffen", "Eine der letzten solchen Siedlungen"],
       hu: ["Cölöpökön álló házak", "Az Ahizi kultúra", "Védelem az ellenséges támadások ellen", "Az egyik utolsó ilyen település"],
-      ro: ["Case pe piloni", "Cultura poporului Ahizi", "Protecție împotriva atacurilor inamice", "Una dintre ultimele astfel de așezări"],
+      ro: ["Case construite pe piloni", "Cultura poporului Ahizi", "Localizat în laguna Ébrié", "Mod de viață tradițional"],
       en: ["Houses on stilts", "Culture of the Ahizi", "Protection from enemy attacks", "One of the last such settlements"]
     }, image: "/poi-images/tiagba-stilt-village-history-v2.webp",
     descriptionAdvanced: {
@@ -372,11 +379,11 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-04",
     coords: [-5.0333, 7.6833],
     name: { de: "Französischer Militärposten Bouaké", hu: "Bouaké francia katonai állomása", ro: "Postul militar francez Bouaké", en: "French Military Post Bouaké" },
-    description: { de: "1899 gegründet, diente die Stadt als zentraler militärischer und später administrativer Stützpunkt in Landesmitte.", hu: "Az 1899-ben alapított város központi katonai, később közigazgatási bázisként szolgált az ország közepén.", ro: "Fondat în 1899, orașul a servit ca bază militară și mai târziu administrativă centrală în mijlocul țării.", en: "Founded in 1899, the city served as a central military and later administrative base in the middle of the country." },
+    description: { de: "1899 gegründet, diente die Stadt als zentraler militärischer und später administrativer Stützpunkt in Landesmitte.", hu: "Az 1899-ben alapított város központi katonai, később közigazgatási bázisként szolgált az ország közepén.", ro: "Fondat în 1899 ca post militar strategic, Bouaké a devenit al doilea oraș ca mărime al țării și un centru industrial esențial.", en: "Founded in 1899, the city served as a central military and later administrative base in the middle of the country." },
     facts: {
       de: ["Gegründet im Jahr 1899", "Zweitgrößte Stadt der Elfenbeinküste", "Wichtiger Knotenpunkt für Baoulé", "Ehemaliges Kolonialverwaltungszentrum"],
       hu: ["1899-ben alapították", "Elefántcsontpart második legnagyobb városa", "A Baoulé nép fontos csomópontja", "Egykori gyarmati közigazgatási központ"],
-      ro: ["Fondat în 1899", "Al doilea oraș ca mărime din Coasta de Fildeș", "Centru important pentru Baoulé", "Fost centru administrativ colonial"],
+      ro: ["Fondat în 1899", "Al doilea oraș al țării", "Nod feroviar important", "Centru al poporului Baoulé"],
       en: ["Founded in 1899", "Second largest city in Ivory Coast", "Important hub for Baoulé", "Former colonial administrative center"]
     }, image: "/poi-images/bouake-military-post-history-v2.webp",
     descriptionAdvanced: {
@@ -392,11 +399,11 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-09",
     coords: [-7.6833, 8.2833],
     name: { de: "Historisches Zentrum von Touba", hu: "Touba történelmi központja", ro: "Centrul istoric din Touba", en: "Historic Center of Touba" },
-    description: { de: "Eine Stadt, die tief in der Geschichte des Mahou-Volkes und islamischer Gelehrter, wie der Fadika-Familie, verwurzelt ist.", hu: "Egy város, amely mélyen gyökerezik a Mahou nép és az iszlám tudósok, mint például a Fadika család történetében.", ro: "Un oraș adânc înrădăcinat în istoria poporului Mahou și a cărturarilor islamici, cum ar fi familia Fadika.", en: "A city deeply rooted in the history of the Mahou people and Islamic scholars, such as the Fadika family." },
+    description: { de: "Eine Stadt, die tief in der Geschichte des Mahou-Volkes und islamischer Gelehrter, wie der Fadika-Familie, verwurzelt ist.", hu: "Egy város, amely mélyen gyökerezik a Mahou nép és az iszlám tudósok, mint például a Fadika család történetében.", ro: "Centrul istoric din Touba este vatra spirituală a poporului Mahouka, fiind un centru important de învățătură islamică și comerț regional.", en: "A city deeply rooted in the history of the Mahou people and Islamic scholars, such as the Fadika family." },
     facts: {
       de: ["Zentrum der Mahou", "Islamische Tradition seit Jahrhunderten", "Einflussreiche Fadika-Familie", "Historische Koranschulen"],
       hu: ["A Mahou nép központja", "Évszázados iszlám hagyomány", "Befolyásos Fadika család", "Történelmi Korán-iskolák"],
-      ro: ["Centrul Mahou", "Tradiție islamică de secole", "Familia influentă Fadika", "Școli coranice istorice"],
+      ro: ["Capitala poporului Mahouka", "Centru de studii islamice", "Sediul familiei Fadika", "Nod comercial spre Guineea"],
       en: ["Center of the Mahou", "Islamic tradition for centuries", "Influential Fadika family", "Historic Quranic schools"]
     }, image: "/poi-images/touba-fadika-center-history-v2.webp",
     descriptionAdvanced: {
@@ -452,10 +459,10 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-04",
     coords: [-5.1, 8.1333],
     name: { de: "Historisches Töpferzentrum Katiola", hu: "Katiola történelmi fazekasközpontja", ro: "Centrul istoric de olărit Katiola", en: "Historic Pottery Center Katiola" },
-    description: { de: "Neben seiner kolonialen Bedeutung ist Katiola ein historisches Zentrum der traditionellen Töpferkunst der Mangoro-Frauen.", hu: "Gyarmati jelentősége mellett Katiola a mangoró nők hagyományos fazekasművészetének történelmi központja.", ro: "Pe lângă importanța sa colonială, Katiola este un centru istoric al ceramicii tradiționale a femeilor Mangoro.", en: "In addition to its colonial significance, Katiola is a historic center of the traditional pottery of the Mangoro women." },
+    description: { de: "Neben seiner kolonialen Bedeutung ist Katiola ein historisches Zentrum der traditionellen Töpferkunst der Mangoro-Frauen.", hu: "Közép-Elefántcsontpart városa, amely a gyarmati időkben fontos kereskedelmi és közigazgatási csomópontként szolgált.", ro: "Pe lângă importanța sa colonială, Katiola este un centru istoric al ceramicii tradiționale a femeilor Mangoro.", en: "In addition to its colonial significance, Katiola is a historic center of the traditional pottery of the Mangoro women." },
     facts: {
       de: ["Mangoro-Töpferkunst", "Historischer Eisenbahnanschluss", "Kolonialer Marktort", "Zentrum der Tagwana-Kultur"],
-      hu: ["Mangoró fazekasművészet", "Történelmi vasúti kapcsolat", "Gyarmati piac", "A Tagwana kultúra központja"],
+      hu: ["Híres fazekas hagyományok", "Gyarmati stílusú városháza", "Közlekedési csomópont észak felé"],
       ro: ["Arta ceramicii Mangoro", "Conexiune feroviară istorică", "Piață colonială", "Centrul culturii Tagwana"],
       en: ["Mangoro pottery", "Historic railway connection", "Colonial market town", "Center of Tagwana culture"]
     }, image: "/poi-images/katiola-colonial-history-v2.webp",
@@ -492,12 +499,12 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     parent: "CI-05",
     coords: [-3.5, 6.7333],
     name: { de: "Königspalast von Indénié in Abengourou", hu: "Az Indénié királyi palota Abengourou-ban", ro: "Palatul Regal Indénié din Abengourou", en: "Royal Palace of Indénié in Abengourou" },
-    description: { de: "Der Palast des Königs des Indénié-Reiches, das im 18. Jahrhundert von den Akan-Flüchtlingen aus Ghana gegründet wurde.", hu: "Az Indénié Birodalom királyának palotája, amelyet a Ghánából menekülő akanok alapítottak a 18. században.", ro: "Palatul regelui Imperiului Indénié, fondat în secolul al XVIII-lea de refugiații Akan din Ghana.", en: "The palace of the king of the Indénié Empire, founded in the 18th century by Akan refugees from Ghana." },
+    description: { de: "Der Palast des Königs des Indénié-Reiches, das im 18. Jahrhundert von den Akan-Flüchtlingen aus Ghana gegründet wurde.", hu: "Az Indénié Birodalom királyának palotája, amelyet a Ghánából menekülő akanok alapítottak a 18. században.", ro: "Abengourou găzduiește palatul regal al Regatului Indénié, păstrând tradițiile vii ale poporului Agni și structura politică Akan.", en: "Abengourou is the seat of the traditional Indenie kingdom and home to the royal palace built in 1882. The city serves as a major cultural center for the Agni people." },
     facts: {
       de: ["Agni-Volksstamm", "Akan-Traditionen", "Königspalast erbaut in den 1880ern", "Reiches kulturelles Erbe"],
       hu: ["Agni népcsoport", "Akan hagyományok", "A királyi palota az 1880-as években épült", "Gazdag kulturális örökség"],
-      ro: ["Tribul Agni", "Tradiții Akan", "Palatul regal construit în anii 1880", "Moștenire culturală bogată"],
-      en: ["Agni tribe", "Akan traditions", "Royal palace built in the 1880s", "Rich cultural heritage"]
+      ro: ["Sediul regelui Agni", "Fondat în secolul XVIII", "Palat regal din anii 1880", "Tradiții Akan conservate"],
+      en: ["Traditional royal seat", "Agni cultural center", "Royal palace built in 1882", "Key cocoa producing hub"]
     }, image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp",
     descriptionAdvanced: {
       en: "Abengourou is the historic capital of the Indénié (Anyi) Kingdom, founded in the 18th century by Akan refugees from what is now Ghana. The kingdom established a highly organized royal court and a centralized government that successfully managed trade and diplomacy for centuries. The Royal Palace of Abengourou remains the seat of the King (Nana) and a vibrant center for Agni traditions, including the sacred 'Fête des Ignames' (Yam Festival). The city represents the powerful continuity of Akan royalty in Ivory Coast, where traditional governance remains a respected and influential part of modern social and political life. History K8 — Akan royal traditions."

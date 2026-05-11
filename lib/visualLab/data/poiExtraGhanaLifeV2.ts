@@ -424,9 +424,9 @@ export const poiExtraGhanaLifeV2: POI[] = [
     parent: "GH-CP",
     coords: [-1.3500, 5.0833],
     name: { de: "Elmina Fischerdorf", hu: "Elmina halászfalu", ro: "Satul pescăresc Elmina", en: "Elmina Fishing Village" },
-    description: { de: "Ein lebendiger Ort, um das Leben der Fischer zu beobachten.", hu: "Élénk hely, ahol megfigyelhető a halászok élete.", ro: "Un loc vibrant pentru a observa viața pescarilor.", en: "A vibrant place to observe the fishermen's life." },
+    description: { de: "Ein lebendiges Fischerdorf, in dem Kinder den traditionellen Fischfang und das bunte Treiben am Hafen hautnah erleben können.", hu: "Élénk hely, ahol megfigyelhető a halászok élete.", ro: "Un loc vibrant pentru a observa viața pescarilor.", en: "A vibrant place to observe the fishermen's life." },
     facts: {
-            de: ["Bunte Boote.", "Authentische Kultur."],
+            de: ["Hunderte bunte Fischerboote.", "Traditionelle Handwerkskunst.", "Einblick in das tägliche Leben an der Küste."],
             hu: ["Színes csónakok.", "Hiteles kultúra."],
             ro: ["Bărci colorate.", "Cultură autentică."],
             en: ["Colorful boats.", "Authentic culture."]
@@ -450,9 +450,9 @@ export const poiExtraGhanaLifeV2: POI[] = [
     parent: "GH-AA",
     coords: [0.0500, 5.6333],
     name: { de: "Sakumono-Feuchtgebiet", hu: "Sakumono-vizes élőhely", ro: "Zona umedă Sakumono", en: "Sakumono Wetlands" },
-    description: { de: "Ein wichtiger Lebensraum für Zugvögel.", hu: "Fontos élőhely a költöző madarak számára.", ro: "Un habitat important pentru păsările migratoare.", en: "An important habitat for migratory birds." },
+    description: { de: "Ein geschütztes Feuchtgebiet in der Nähe von Tema, das als wichtiger Rückzugsort für Zugvögel und lokale Tierarten dient.", hu: "Fontos élőhely a költöző madarak számára.", ro: "Un habitat important pentru păsările migratoare.", en: "An important habitat for migratory birds." },
     facts: {
-            de: ["Beobachten Sie Vögel aus der Stadt.", "Ruheoase."],
+            de: ["Ramsar-Schutzgebiet.", "Vogelbeobachtung möglich.", "Wichtiges ökologisches Reservoir."],
             hu: ["Figyeljen meg madarakat a városból.", "Nyugalom szigete."],
             ro: ["Observați păsări din oraș.", "Oază de liniște."],
             en: ["Watch birds from the city.", "Oasis of calm."]
@@ -502,9 +502,9 @@ export const poiExtraGhanaLifeV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.2000, 5.7000],
     name: { de: "Landwirtschafts-Campus", hu: "Mezőgazdasági Campus", ro: "Campus agricol", en: "Agriculture College Farm" },
-    description: { de: "Ein Lehrbetrieb, der moderne Landwirtschaft zeigt.", hu: "Tanüzem, amely modern mezőgazdaságot mutat be.", ro: "O fermă didactică ce arată agricultura modernă.", en: "A training farm showcasing modern agriculture." },
+    description: { de: "Ein landwirtschaftlicher Lehrbetrieb, der Einblicke in moderne Anbaumethoden und die Tierhaltung in Ghana bietet.", hu: "Tanüzem, amely modern mezőgazdaságot mutat be.", ro: "O fermă didactică ce arată agricultura modernă.", en: "A training farm showcasing modern agriculture." },
     facts: {
-            de: ["Versuchsanbau.", "Forschung für die Zukunft."],
+            de: ["Zentrum für Agrarbildung.", "Demonstration von Feldfrüchten.", "Praktisches Lernen für Studenten."],
             hu: ["Kísérleti termesztés.", "Kutatás a jövőért."],
             ro: ["Cultivare experimentală.", "Cercetare pentru viitor."],
             en: ["Experimental farming.", "Research for the future."]
@@ -528,11 +528,11 @@ export const poiExtraGhanaLifeV2: POI[] = [
     parent: "GH-NP",
     coords: [-1.5000, 9.8000],
     name: { de: "Akazien-Savanne", hu: "Akác-szavanna", ro: "Savana cu salcâmi", en: "Acacia Savanna Wildlife" },
-    description: { de: "Lebensraum für viele Wildtiere im Norden.", hu: "Élőhely sok vadállat számára északon.", ro: "Habitat pentru multe animale sălbatice în nord.", en: "Habitat for many wild animals in the north." },
+    description: { de: "Lebensraum für viele Wildtiere im Norden.", hu: "Élőhely sok vadállat számára északon.", ro: "Un ecosistem vital de savană dominat de arbori de acacia, oferind adăpost unei faune diverse în regiunile nordice.", en: "Habitat for many wild animals in the north." },
     facts: {
             de: ["Typische afrikanische Tierwelt.", "Sehr weitläufig."],
             hu: ["Tipikus afrikai élővilág.", "Nagyon kiterjedt."],
-            ro: ["Faună africană tipică.", "Foarte vastă."],
+            ro: ["Habitat pentru elefanți și antilope", "Plante rezistente la secetă", "Zonă de pășunat pentru animale sălbatice"],
             en: ["Typical African wildlife.", "Very extensive."]
     }, image: "/poi-images/acacia-forest-savanna-animal-life-v2.webp",
     descriptionAdvanced: {
@@ -606,11 +606,11 @@ export const poiExtraGhanaLifeV2: POI[] = [
     parent: "GH-NP",
     coords: [-0.8000, 9.6000],
     name: { de: "Reisfelder Norden", hu: "Északi rizsföldek", ro: "Orezării din nord", en: "Northern Rice Fields" },
-    description: { de: "Ein wichtiger Anbauort für Grundnahrungsmittel.", hu: "Fontos termőhely alapélelmiszerek számára.", ro: "Un loc important de cultivare pentru alimentele de bază.", en: "An important cultivation area for staple food." },
+    description: { de: "Ein wichtiger Anbauort für Grundnahrungsmittel.", hu: "Fontos termőhely alapélelmiszerek számára.", ro: "Câmpuri vaste de orez situate în regiunile de nord ale Ghanei, reprezentând coloana vertebrală a economiei agricole locale.", en: "An important cultivation area for staple food." },
     facts: {
             de: ["Grüne Landschaft.", "Wichtig für die lokale Ernährung."],
             hu: ["Zöld táj.", "Fontos a helyi táplálkozásban."],
-            ro: ["Peisaj verde.", "Important pentru nutriția locală."],
+            ro: ["Recoltă intensivă în sezonul ploios", "Sursă majoră de hrană pentru regiune", "Tehnici tradiționale de irigare utilizate"],
             en: ["Green landscape.", "Important for local nutrition."]
     }, image: "/poi-images/rice-field-north-agri-life-v2.webp",
     descriptionAdvanced: {
@@ -632,9 +632,9 @@ export const poiExtraGhanaLifeV2: POI[] = [
     parent: "GH-AA",
     coords: [-0.1700, 5.5800],
     name: { de: "Accra Aquarium", hu: "Accra Akvárium", ro: "Acvariul Accra", en: "Accra Aquarium" },
-    description: { de: "Eine Unterwasserwelt für Kinder.", hu: "Víz alatti világ gyerekeknek.", ro: "O lume subacvatică pentru copii.", en: "An underwater world for kids." },
+    description: { de: "Ein kleineres Aquarium in der Hauptstadt, das Kindern die bunte Unterwasserwelt Westafrikas näherbringt.", hu: "Víz alatti világ gyerekeknek.", ro: "O lume subacvatică pentru copii.", en: "An underwater world for kids." },
     facts: {
-            de: ["Bunte Fische.", "Bildungsreisen."],
+            de: ["Heimische Fischarten.", "Bildungsprogramme für Schulen.", "Spannendes Ausflugsziel für Familien."],
             hu: ["Színes halak.", "Oktató kirándulások."],
             ro: ["Pești colorați.", "Excursii educative."],
             en: ["Colorful fish.", "Educational trips."]
@@ -673,8 +673,8 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Dichte Biotope an der Mündung des Volta (Ada)", "Undurchdringliches Labyrinth aus Stelzwurzeln", "Brutstätte für Fische und Meeresschildkröten", "Wirkt wie ein Schwamm gegen Sturmfluten", "Akut bedroht durch lokale Brennholzgewinnung", "Geheimnisvollstes Ökosystem Westafrikas"],
-      hu: ["Halak szaporodóhelye.", "Fontos az erózió ellen.", "Ökológiailag értékes terület.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban.", "Az atlanti partvidék, a Volta-medence és a szavannaöv sokszínűségét képviseli."],
-      ro: ["Loc de reproducere pentru pești.", "Important împotriva eroziunii.", "O zonă valoroasă din punct de vedere ecologic.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
+      hu: ["Ökológiailag értékes terület.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban.", "Az atlanti partvidék, a Volta-medence és a szavannaöv sokszínűségét képviseli."],
+      ro: ["O zonă valoroasă din punct de vedere ecologic.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
       en: ["Located at the massive estuary where the Volta River empties into the Atlantic Ocean.", "Characterized by dense, highly adapted networks of salt-tolerant mangrove trees.", "The dense stilt roots physically stabilize the sandy coastline against aggressive wave erosion.", "Functions as a highly critical biological nursery for commercial marine fish species.", "Provides a vital habitat for various coastal bird species and estuarine crocodiles.", "The ecosystem is highly sensitive to changes in the upstream flow of the Volta River."]
     }
   },
@@ -699,8 +699,8 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Endlose Felder in der Eastern Region", "Liefert Grundnahrungsmittel für Banku", "Pflanzung exakt zum Beginn der Regenzeit nötig", "Massive Bedrohung durch den Heerwurm (Fall Armyworm)", "Biologische Methoden ersetzen Pestizide", "Essenziell für die ghanaische Ernährung"],
-      hu: ["Fő élelmiszer.", "Aratóünnepek.", "Kukorica széles körű termesztése a napi szükségletekhez.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban.", "Az atlanti partvidék, a Volta-medence és a szavannaöv sokszínűségét képviseli."],
-      ro: ["Aliment de bază.", "Sărbători de recoltă.", "Cultivarea pe scară largă a porumbului pentru nevoile zilnice.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
+      hu: ["Kukorica széles körű termesztése a napi szükségletekhez.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban.", "Az atlanti partvidék, a Volta-medence és a szavannaöv sokszínűségét képviseli."],
+      ro: ["Cultivarea pe scară largă a porumbului pentru nevoile zilnice.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
       en: ["Concentrated heavily across the expansive, fertile Afram Plains in the Eastern Region.", "Focuses on the massive, highly mechanized commercial cultivation of hybrid maize.", "Utilizes extensive tractor plowing and mechanical harvesting unlike smaller forest farms.", "Frequently organized through corporate-backed outgrower schemes and cooperatives.", "Provides the foundational grain supply required for the national commercial poultry industry.", "Features large-scale storage silos to stabilize grain prices throughout the dry season."]
     }
   },
@@ -725,8 +725,8 @@ export const poiExtraGhanaLifeV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Liebevolle Pflege für verletzte Hunde und Esel", "Befindet sich in Tamale (Norden Ghanas)", "Klärt Schüler über Tierschutz auf", "Führt Impf- und Kastrationsprogramme durch", "Hilft, Tollwut-Ausbrüche zu verhindern", "Seltenes Tierheim in einer Nutzlandregion"],
-      hu: ["Örökbefogadás lehetséges.", "Önkéntes munka örvendetes.", "Otthon elhagyott háziállatok számára.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban.", "Az atlanti partvidék, a Volta-medence és a szavannaöv sokszínűségét képviseli."],
-      ro: ["Adopție posibilă.", "Voluntariat binevenit.", "Un cămin pentru animalele abandonate.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
+      hu: ["Otthon elhagyott háziállatok számára.", "A nyugat-afrikai Ghána területén fekszik, a Guineai-öböl partvidékén.", "A régiót trópusi éghajlat jellemzi, határozott esős és száraz évszakkal.", "Az Accrából kiinduló közúthálózaton keresztül érhető el.", "Szerepet játszik a kakaó-, arany- és kőolajexportra épülő ghánai gazdaságban.", "Az atlanti partvidék, a Volta-medence és a szavannaöv sokszínűségét képviseli."],
+      ro: ["Un cămin pentru animalele abandonate.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
       en: ["Located in Tamale, addressing the specific animal welfare needs of the northern savanna.", "Focuses heavily on providing critical veterinary care to essential working livestock.", "Treats donkeys, horses, and cattle which are vital for regional rural transport.", "Intervenes to rescue local savanna wildlife injured by poaching or urban expansion.", "Operates often in collaboration with international animal welfare NGOs.", "Provides vital community education regarding the ethical treatment of working animals."]
     }
   },
@@ -752,7 +752,7 @@ export const poiExtraGhanaLifeV2: POI[] = [
     factsAdvanced: {
       de: ["Kleiner zoologischer Garten in Takoradi", "Besitzt Freiflughalle für seltene Papageien", "Fokus auf Schutz der Tropenvögel", "Klärt über illegale Abholzung auf", "Zeigt Tiere des westafrikanischen Regenwaldes", "Macht Zerstörung von Lebensräumen begreifbar"],
       hu: ["A Nyugati Régió (Western Region) egyetlen jelentősebb állatkertje", "Kifejezetten edukációs célokat szolgál a helyi diákok számára", "Sok állat illegális kereskedelemből (bushmeat trade) kimentett példány", "Kiemelt figyelmet fordítanak az őshonos nyugat-afrikai hüllőkre", "Fenntartását gyakran nehezíti a szűkös állami finanszírozás", "Közvetlen közelében található Takoradi lüktető belvárosa"],
-      ro: ["Învățarea despre speciile locale de animale.", "Foarte prietenos cu copiii.", "O grădină zoologică mai mică, ideală pentru excursii de o zi.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
+      ro: ["O grădină zoologică mai mică, ideală pentru excursii de o zi.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
       en: ["Represents localized, smaller-scale wildlife enclosures serving the Takoradi metropolis.", "Focuses on exhibiting smaller native fauna such as local primates and tropical birds.", "Provides highly accessible, low-cost educational excursions for urban schoolchildren.", "Offers an alternative to traveling into the heavily industrialized rural forest zones.", "Frequently maintained through local municipal funding or private conservation initiatives.", "Highlights the biodiversity of the wet equatorial climate zone."]
     }
   },
@@ -778,7 +778,7 @@ export const poiExtraGhanaLifeV2: POI[] = [
     factsAdvanced: {
       de: ["Riesige Plantagen in der Central Region", "Tausende Orangen, Mandarinen und Grapefruits", "Beliefert Märkte und riesige Saftfabriken", "Zeigt Veredelung (Pfropfen) von Bäumen", "Nutzt wassersparende Tropfbewässerung", "Lehrbeispiel für moderne Obstkultur in den Tropen"],
       hu: ["Ghána legfontosabb narancstermelő (sweet orange) vidéke a Középső Régió", "A trópusi narancsok héja gyakran zöld marad (a hideg éjszakák hiánya miatt), de a húsuk édes", "A gyümölcsöket kézzel, kosarakba gyűjtik a fákról az esős évszak végén", "A legnépszerűbb fajtákat (pl. Late Valencia) egyenesen préselésre termesztik", "Gyakori látvány az utakon a narancsot mesterien meghámozó és árusító (hawker) nők sora", "Az ültetvényeken gyakran termesztenek ananászt is köztesnövényként"],
-      ro: ["Recoltă sezonieră.", "Fructe populare local.", "Portocale și lămâi proaspete din Ghana.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
+      ro: ["Portocale și lămâi proaspete din Ghana.", "Este situat în statul vest-african Ghana, pe coasta Golfului Guineei.", "Regiunea aparține zonei tropicale, cu sezoane ploioase și secetoase distincte.", "Accesibil prin rețeaua națională de drumuri care pornește din Accra.", "Joacă un rol în economia ghaneză, bazată pe exportul de cacao, aur și petrol.", "Reprezentativ pentru diversitatea peisajului dintre coasta atlantică, bazinul Volta și savană."],
       en: ["Concentrated heavily in the Abura-Asebu-Kwamankese district of the Central Region.", "Benefits from a unique coastal savanna microclimate highly suitable for citrus trees.", "Produces massive commercial quantities of sweet oranges, limes, and tangerines.", "Functions as the primary raw material source for major domestic fruit juice factories.", "The harvest season triggers intense, widespread logistical and trading activity.", "Provides substantial seasonal employment for rural farming communities in the region."]
     }
   }

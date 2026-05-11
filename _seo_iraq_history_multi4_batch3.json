@@ -1,0 +1,63 @@
+{
+  "lang": "multi4",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqHistoryV2.ts"],
+  "items": [
+    {
+      "id": "taq-kasra-history-v2",
+      "descriptionAdvancedEn": "Taq Kasra, also known as the Arch of Ctesiphon, is a remarkable monument and the only visible remaining structure of the ancient Sasanian capital of Ctesiphon, Iraq. It is famous for possessing the largest single-span unreinforced brick arch in the world. Built in the 3rd to 6th centuries AD, this massive vaulted hall was part of a royal palace complex. The arch soars to a height of 37 meters and has a span of over 25 meters, a testament to the sophisticated engineering skills of the Sasanian dynasty. The facade of the great hall was once lavishly decorated with marble and mosaics. Despite centuries of decay and a major flood in 1888 that collapsed one-third of the structure, Taq Kasra still stands as a powerful symbol of Persian architectural ingenuity and the grandeur of the Sasanian Empire.",
+      "factsAdvanced": [
+        "Taq Kasra is the largest unreinforced brick arch in the world.",
+        "The arch reaches a height of approximately 37 meters.",
+        "It was the centerpiece of the Sasanian capital city, Ctesiphon.",
+        "The structure dates back to the Sasanian period (3rd-6th centuries AD).",
+        "It is located about 35 kilometers southeast of modern Baghdad.",
+        "The arch was part of the royal audience hall of the Sasanian kings.",
+        "The walls at the base of the arch are up to 7 meters thick.",
+        "A large portion of the structure collapsed during a flood in 1888."
+      ]
+    },
+    {
+      "id": "assur-history-v2",
+      "descriptionAdvancedEn": "Assur, located on the west bank of the Tigris River in northern Iraq, was the first capital of the Assyrian Empire and its primary religious center. Founded in the 3rd millennium BC, the city was named after its patron deity, Ashur, who was the head of the Assyrian pantheon. For centuries, Assur was a prosperous hub of trade and politics. Even after the administrative capital was moved to other cities like Nimrud and Nineveh, Assur remained the spiritual heart of Assyria, the place where kings were crowned and buried. The city was home to numerous temples and ziggurats, dedicated to various gods. Its massive fortifications withstood many attacks until it was finally sacked by the Medes in 614 BC. The ruins of Assur, a UNESCO World Heritage site, provide invaluable information about the early stages of Assyrian civilization.",
+      "factsAdvanced": [
+        "Assur was the first capital of the Assyrian Empire.",
+        "The city was founded in the 3rd millennium BC.",
+        "It was named after the supreme Assyrian god, Ashur.",
+        "Assur remained the religious capital even after the political capital moved.",
+        "Assyrian kings were traditionally crowned and buried in Assur.",
+        "The city was sacked and destroyed by the Medes in 614 BC.",
+        "It is located on the Tigris River, in Saladin Governorate, Iraq.",
+        "The site was inscribed on the list of UNESCO World Heritage in Danger in 2003."
+      ]
+    },
+    {
+      "id": "al-ukhaidir-fortress-history-v2",
+      "descriptionAdvancedEn": "The Al-Ukhaidir Fortress is a large, rectangular fortress located in the desert of Karbala, Iraq. Built in the late 8th century, it is a remarkable example of Abbasid architecture. Its innovative defensive design, including high walls, towers, and a complex internal layout, made it a formidable stronghold. The fortress is believed to have been built by the Abbasid prince Isa ibn Musa, and it served as a palace, caravanserai, and military outpost. The complex includes a main hall, a mosque, and numerous courtyards and residential units, all enclosed within massive fortified walls. The architectural style reflects a blend of Sasanian and early Islamic influences, showcasing the developing artistic and engineering traditions of the Abbasid Caliphate. Al-Ukhaidir stands as a testament to the power and sophistication of the early Islamic period in Mesopotamia.",
+      "factsAdvanced": [
+        "The fortress was built in the late 8th century, around 775 AD.",
+        "It is a prime example of Abbasid-era defensive architecture.",
+        "The rectangular complex measures approximately 175 by 169 meters.",
+        "It is located about 50 kilometers south of Karbala.",
+        "The structure served as a palace, caravanserai, and military fort.",
+        "It was likely built by the Abbasid prince Isa ibn Musa.",
+        "The architecture shows a mix of Sasanian and early Islamic styles.",
+        "The outer walls are up to 19 meters high."
+      ]
+    },
+    {
+      "id": "dur-kurigalzu-history-v2",
+      "descriptionAdvancedEn": "Dur-Kurigalzu was a city in ancient southern Mesopotamia, founded by the Kassite king Kurigalzu I in the 14th century BC. Located near modern Baghdad, it served as the capital of the Kassite dynasty. The city's most prominent feature is its ziggurat, which is remarkably well-preserved and still rises to a height of about 57 meters. This ziggurat was dedicated to the god Enlil. The city was a major political and religious center, with a large palace complex and several temples. The architecture of Dur-Kurigalzu shows a strong Babylonian influence, which the Kassites adopted after conquering the region. The city was sacked in the 12th century BC but remained inhabited for some time. The ruins of Dur-Kurigalzu, particularly its impressive ziggurat, are an important source of information about the Kassite period in Babylonian history.",
+      "factsAdvanced": [
+        "Dur-Kurigalzu was founded by the Kassite King Kurigalzu I in the 14th century BC.",
+        "The name means 'Fortress of Kurigalzu'.",
+        "The ziggurat, dedicated to the god Enlil, is its most famous landmark.",
+        "The core of the ziggurat still stands about 57 meters high.",
+        "The city served as the capital of Kassite Babylonia.",
+        "It is located about 30 kilometers west of Baghdad.",
+        "The palace was decorated with painted frescoes.",
+        "The city was sacked by the Elamites in the 12th century BC."
+      ]
+    }
+  ]
+}

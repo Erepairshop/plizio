@@ -23,9 +23,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, ancient linear depression located in the southwestern Fezzan region.", "Historically known as Wadi al-Ajal, now translating to the 'Valley of Life'.", "Sustains a continuous, 150-kilometer string of lush date palm oases.", "Flanked by the massive dunes of the Ubari Sand Sea to the immediate north.", "The historical heartland of the ancient, powerful Garamantian civilization.", "Relies on relatively shallow, highly accessible subterranean groundwater."],
-      de: ["Bekannt für Oasen.", "Trockenes Klima.", "Ein Wüstental in der Sahara.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Oázisairól ismert.", "Száraz éghajlat.", "Egy sivatagi völgy a Szaharában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Cunoscut pentru oaze.", "Climat arid.", "O vale deșertică în Sahara.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Wüstental in der Sahara.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Egy sivatagi völgy a Szaharában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O vale deșertică în Sahara.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/wadi-al-hayat-nature-v2.webp",
     
     
@@ -51,9 +51,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, elevated, heavily forested mountain range in eastern Cyrenaica.", "Receives the highest annual rainfall of any geographical region in Libya.", "Supports dense, natural forests of Mediterranean cypress, pine, and juniper.", "Features dramatic, deeply incised river valleys known as wadis.", "The unique, cool microclimate makes it the premier national agricultural zone.", "Provides a stark, brilliant green contrast to the surrounding national deserts."],
-      de: ["Grüne Bergregion.", "Höchster Gipfel über 800m.", "Ein Gebirgszug im Nordosten Libyens.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Zöld hegyvidék.", "Legmagasabb csúcsa 800m felett.", "Hegyvonulat Líbia északkeleti részén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Regiune muntoasă verde.", "Vârful cel mai înalt peste 800m.", "Un lanț muntos în nord-estul Libiei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Gebirgszug im Nordosten Libyens.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegyvonulat Líbia északkeleti részén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un lanț muntos în nord-estul Libiei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jebel-akhdar-nature-v2.webp",
     
     
@@ -79,9 +79,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A stunning, hyper-saline lake located deep in the Ubari Sand Sea.", "The water is significantly saltier than the ocean, creating high buoyancy.", "Naturally heated year-round by underlying geothermal activity.", "Completely surrounded by massive, towering golden sand dunes.", "Fringed by a dense, green ring of date palms and an abandoned village.", "Considered one of the most visually spectacular natural landmarks in the Sahara."],
-      de: ["Sehr salzhaltiges Wasser.", "Beliebt bei Touristen.", "Ein Salzsee mitten in der Sahara.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon sós víz.", "Népszerű a turisták körében.", "Egy sós tó a Szahara közepén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Apă foarte sărată.", "Popular printre turiști.", "Un lac sărat în mijlocul Saharei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Salzsee mitten in der Sahara.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Egy sós tó a Szahara közepén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un lac sărat în mijlocul Saharei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/lake-gaberoun-nature-v2.webp",
     
     
@@ -107,9 +107,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A cluster of highly saline desert lakes located in the Ubari Sand Sea.", "Famous for exhibiting striking colors like red, green, and blue due to algae.", "Extremely shallow, frequently drying up completely during the peak summer.", "Leave behind a stark, brilliant white crust of mineral salt when dry.", "Surrounded by towering sand dunes and sparse, hardy desert vegetation.", "Represent a highly fragile, unique extremophile ecosystem."],
-      de: ["Liegen in der Ubari-Wüste.", "Umgeben von Sanddünen.", "Eine Gruppe von Salzseen in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Az Ubari sivatagban találhatók.", "Homokdűnék veszik körül.", "Sós tavak csoportja a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Situate în deșertul Ubari.", "Înconjurate de dune de nisip.", "Un grup de lacuri sărate în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine Gruppe von Salzseen in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Sós tavak csoportja a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un grup de lacuri sărate în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/mandara-lakes-nature-v2.webp",
     
     
@@ -135,9 +135,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, crescent-shaped limestone escarpment in northwestern Libya.", "Abruptly separates the coastal plains from the deep southern desert plateau.", "Reaches maximum elevations of nearly 1,000 meters above sea level.", "Characterized by a highly rugged, deeply eroded, and rocky landscape.", "The geographic and cultural stronghold of the indigenous Amazigh people.", "Historically provided massive natural defensive advantages against invasion."],
-      de: ["Kulturell bedeutsam.", "Strategisch wichtige Lage.", "Ein Bergplateau im Nordwesten Libyens.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kulturálisan jelentős.", "Stratégiailag fontos helyzet.", "Hegyi fennsík Líbia északnyugati részén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Semnificativ cultural.", "Poziție strategică importantă.", "Un platou muntos în nord-vestul Libiei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Bergplateau im Nordwesten Libyens.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegyi fennsík Líbia északnyugati részén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un platou muntos în nord-vestul Libiei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jebel-nafusa-nature-v2.webp",
     
     
@@ -163,9 +163,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A striking geological crater formation located in the central Libyan desert.", "Situated within the massive, extinct volcanic field known as the Black Haruj.", "Surrounded by a brutal, jagged expanse of black basaltic rock.", "The black rock absorbs intense solar radiation, creating extreme surface heat.", "The terrain is notoriously difficult to traverse, even with specialized vehicles.", "A highly significant site for the study of ancient Saharan volcanic activity."],
-      de: ["Teil des Dschabal al-Achdar.", "Felsige Landschaft.", "Eine markante Erhebung im Grünen Berg.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["A Dzsebel el-Ahdar része.", "Sziklás táj.", "Jellegzetes kiemelkedés a Zöld-hegyben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Parte a Jebel Akhdar.", "Peisaj stâncos.", "O înălțime distinctivă în Muntele Verde.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine markante Erhebung im Grünen Berg.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jellegzetes kiemelkedés a Zöld-hegyben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O înălțime distinctivă în Muntele Verde.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gar-al-marah-nature-v2.webp",
     
     
@@ -191,9 +191,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive expanse of towering sand dunes in the southwestern Fezzan region.", "Characterized by large 'erg' formations of shifting, wind-blown sand.", "Contains several unique, hyper-saline desert lakes like Gaberoun.", "The dunes here can reach heights of over 100 meters.", "Represents a quintessential, iconic Saharan desert landscape.", "Creates a brutal, extremely arid environment hostile to most life."],
-      de: ["Heimat von Oasenseen.", "Sehr trockene Region.", "Ein großes Gebiet mit Sanddünen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Oázistavak otthona.", "Nagyon száraz régió.", "Nagy terület homokdűnékkel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Acasă pentru lacuri de oază.", "Regiune foarte aridă.", "O zonă mare cu dune de nisip.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein großes Gebiet mit Sanddünen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy terület homokdűnékkel.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă mare cu dune de nisip.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/ubari-sand-sea-nature-v2.webp",
     
     
@@ -219,9 +219,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A rugged, highly eroded mountain plateau in the central Fezzan.", "Composed primarily of ancient, layered sandstone and limestone.", "Acts as a physical barrier separating the coast from the deep Sahara.", "Features dramatic ravines, wadis, and flat-topped mesas.", "Sits directly above massive subterranean fossil water aquifers.", "Supports highly specialized, drought-resistant desert scrub flora."],
-      de: ["Felsiges Gelände.", "Bedeutend für Geologen.", "Eine Wüstengebirgskette.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Sziklás terep.", "Fontos geológusoknak.", "Sivatagi hegylánc.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Teren stâncos.", "Important pentru geologi.", "Un lanț muntos deșertic.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine Wüstengebirgskette.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Sivatagi hegylánc.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un lanț muntos deșertic.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gargaf-mountains-nature-v2.webp",
     
     
@@ -247,9 +247,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A vast, stony plateau located south of the Nafusa Mountains.", "Acts as a transitional zone between the mountains and the Hamada al Hamra.", "Covered primarily by harsh gravel and loose stone, known as 'reg'.", "Features a highly sparse, semi-arid scrub environment.", "Historically utilized by nomadic pastoralists during seasonal rains.", "Presents a flat, open, and visually stark geographic landscape."],
-      de: ["Steinwüste.", "Geringe Vegetation.", "Eine flache Hochebene.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kősivatag.", "Kevés növényzet.", "Lapos fennsík.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Deșert pietros.", "Vegetație redusă.", "Un platou plat.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine flache Hochebene.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Lapos fennsík.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un platou plat.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/mizdah-plateau-nature-v2.webp",
     
     
@@ -275,9 +275,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["An immense, flat limestone plateau in northwestern Libya.", "Translates from Arabic as the 'Red Desert' due to the tint of its rocky soil.", "Characterized by featureless expanses of gravel and exposed rock.", "Virtually devoid of major sand dunes or significant surface vegetation.", "Notoriously difficult and dangerous to navigate due to a lack of landmarks.", "Conceals massive, economically vital subterranean oil and gas reserves."],
-      de: ["Sehr flache Wüste.", "Bedeckt mit rötlichen Steinen.", "Eine ausgedehnte Steinwüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon lapos sivatag.", "Vöröses kövekkel borított.", "Kiterjedt kősivatag.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Deșert foarte plat.", "Acoperit cu pietre roșiatice.", "Un deșert pietros extins.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine ausgedehnte Steinwüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Kiterjedt kősivatag.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un deșert pietros extins.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-hamada-al-hamra-nature-v2.webp",
     
     
@@ -303,9 +303,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["Located in the extreme southern border region of Libya.", "Form the northern, rugged gateway to the massive Tibesti Mountain range.", "Characterized by highly abrasive, dark volcanic and basaltic rock.", "Features an extremely arid, hostile, and rugged geographical landscape.", "Historically serves as a natural refuge for the indigenous Toubou people.", "Marks the transition from sand seas to towering volcanic massifs."],
-      de: ["Trockene, zerklüftete Landschaft.", "Sehr abgelegen.", "Die Ausläufer des Tibesti-Gebirges in Libyen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Száraz, töredezett táj.", "Nagyon elszigetelt.", "A Tibeszti-hegység előhegyei Líbiában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Peisaj arid, accidentat.", "Foarte izolat.", "Poalele munților Tibesti în Libia.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Die Ausläufer des Tibesti-Gebirges in Libyen.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A Tibeszti-hegység előhegyei Líbiában.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Poalele munților Tibesti în Libia.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/tibesti-foothills-nature-v2.webp",
     
     
@@ -331,9 +331,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, hyper-arid plain located in the eastern Libyan desert.", "Characterized as a 'sarir': a flat expanse of coarse sand and gravel.", "Considered one of the most desolate, barren regions on Earth.", "Contains virtually zero surface water, vegetation, or visual landmarks.", "Historically known to ancient caravans as a highly dangerous crossing.", "Experiences some of the most intense, unmitigated solar radiation in Africa."],
-      de: ["Kaum bewohnt.", "Sehr einsam.", "Ein Teil der Steinwüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Alig lakott.", "Nagyon magányos.", "A kősivatag része.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Aproape nelocuit.", "Foarte solitar.", "O parte a deșertului pietros.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Teil der Steinwüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A kősivatag része.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O parte a deșertului pietros.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     },
     
     
@@ -359,9 +359,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, incredibly deep gorge cutting through the Jabal al Akhdar.", "Features steep, dramatic cliffs covered in dense Mediterranean forest.", "Historically served as an impenetrable stronghold for anti-colonial resistance.", "Used extensively by Omar Mukhtar's fighters during the 1920s.", "Spanned by the visually stunning, concrete Wadi el Kuf Bridge.", "Provides a highly unique, lush microclimate distinct from the rest of Libya."],
-      de: ["Schluchtenreich.", "Wichtiger Lebensraum für Tiere.", "Ein bedeutendes Tal im Nordosten.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Kanyonokban gazdag.", "Fontos élőhely állatoknak.", "Jelentős völgy az északkeleti részen.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Bogată în canioane.", "Habitat important pentru animale.", "O vale semnificativă în nord-est.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein bedeutendes Tal im Nordosten.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Jelentős völgy az északkeleti részen.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O vale semnificativă în nord-est.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/wadi-kuf-nature-v2.webp",
     
     
@@ -387,9 +387,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive geological depression dominating central Libya.", "Holds the vast majority of Libya's proven oil and natural gas reserves.", "Surface features consist primarily of flat, barren, stony desert.", "Formed through highly complex, ancient subsurface tectonic rifting.", "Rift faults created perfect structural traps for subterranean hydrocarbons.", "The absolute foundation of the modern Libyan national economy."],
-      de: ["Bedeutend für Öl.", "Große flache Ebene.", "Eine große Senke entlang der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fontos az olaj miatt.", "Nagy lapos síkság.", "Nagy mélyedés a tengerpart mentén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Important pentru petrol.", "Câmpie mare și plată.", "O depresiune mare de-a lungul coastei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine große Senke entlang der Küste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy mélyedés a tengerpart mentén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O depresiune mare de-a lungul coastei.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/sirte-basin-nature-v2.webp",
     
     
@@ -415,9 +415,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["The widest and largest gulf in the entire Mediterranean Sea.", "Cuts deeply into the northern, central coastline of Libya.", "The coastal terrain is notably flat, barren, and highly arid.", "Serves as the primary maritime exit for the nation's massive oil exports.", "Highly strategic waters heavily patrolled by national authorities.", "Known historically for intense, unpredictable seasonal maritime storms."],
-      de: ["Sehr tiefes Wasser.", "Wichtige Schifffahrtsroute.", "Ein Meeresarm im Mittelmeer.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon mély víz.", "Fontos hajózási útvonal.", "Tengeröböl a Földközi-tengerben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Apă foarte adâncă.", "Rută maritimă importantă.", "Un braț de mare în Marea Mediterană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Meeresarm im Mittelmeer.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Tengeröböl a Földközi-tengerben.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un braț de mare în Marea Mediterană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gulf-of-sidra-nature-v2.webp",
     
     
@@ -443,9 +443,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["The largest basaltic volcanic field in all of North Africa.", "Located in central Libya, spanning roughly 45,000 square kilometers.", "Features hundreds of extinct volcanic craters and massive lava flows.", "The jagged, black basalt rock makes ground travel incredibly difficult.", "Absorbs massive amounts of solar heat, creating extreme surface temperatures.", "Appears as a massive, distinct dark anomaly on satellite imagery."],
-      de: ["Zerklüftete Lavaströme.", "Sehr abgelegen.", "Ein großes Vulkanfeld.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Töredezett lávafolyások.", "Nagyon elszigetelt.", "Nagy vulkáni terület.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Fluxuri de lavă accidentate.", "Foarte izolat.", "Un câmp vulcanic mare.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein großes Vulkanfeld.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy vulkáni terület.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un câmp vulcanic mare.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-haruj-nature-v2.webp",
     
     
@@ -471,9 +471,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A rugged, highly eroded mountain range in the central Fezzan.", "Translates from Arabic directly as the 'Black Mountains'.", "Visual appearance is dominated by ancient, dark basaltic rock.", "Features a chaotic landscape of steep ravines and dry wadis.", "Highly prone to intense, sudden flash flooding during rare rainstorms.", "Provides a stark, high-contrast visual against surrounding pale sands."],
-      de: ["Dunkles Gestein.", "Karge Vegetation.", "Ein kleinerer Bergzug in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Sötét kőzetek.", "Gyér növényzet.", "Kisebb hegyvonulat a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Roci întunecate.", "Vegetație rară.", "Un lanț muntos mai mic în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein kleinerer Bergzug in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Kisebb hegyvonulat a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un lanț muntos mai mic în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jebel-aswad-nature-v2.webp",
     
     
@@ -499,9 +499,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, prominent dry river valley (wadi) in western Tripolitania.", "Carves a long, winding geographical path toward the Gulf of Sidra.", "Remains completely dry and arid for the vast majority of the year.", "Highly susceptible to massive, dangerous flash floods during winter storms.", "Subsurface moisture supports scattered acacia trees and desert scrub.", "Historically utilized as a natural navigational route by nomadic tribes."],
-      de: ["Führt nur bei Regen Wasser.", "Wichtige Wasserquelle.", "Ein temporärer Flusslauf.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Csak eső idején vezet vizet.", "Fontos vízforrás.", "Ideiglenes folyómeder.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Transportă apă doar la ploaie.", "Sursă de apă importantă.", "Un curs de râu temporar.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein temporärer Flusslauf.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Ideiglenes folyómeder.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un curs de râu temporar.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/wadi-zamzam-nature-v2.webp",
     
     
@@ -527,9 +527,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive geological depression in the remote southeastern Libyan desert.", "Surface environment is extremely flat, barren, and hyper-arid.", "Sits directly above the massive Nubian Sandstone Aquifer System.", "Contains one of the largest reserves of prehistoric fossil water on Earth.", "The subterranean water allows for massive, artificial oasis agriculture.", "Geologically distinct from the oil-rich Sirte Basin to the northwest."],
-      de: ["Basis für Landwirtschaft.", "Wichtig für Oasen.", "Ein großes unterirdisches Wasserbecken.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Mezőgazdasági bázis.", "Fontos az oázisoknak.", "Nagy földalatti vízmedence.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Bază pentru agricultură.", "Important pentru oaze.", "Un bazin subteran mare de apă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein großes unterirdisches Wasserbecken.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy földalatti vízmedence.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un bazin subteran mare de apă.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/al-kufra-basin-nature-v2.webp",
     
     
@@ -555,9 +555,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A towering mountain massif located in the extreme southeast of Libya.", "Sits exactly on the tri-border junction of Libya, Egypt, and Sudan.", "Composed primarily of massive granite and eroded sandstone formations.", "Features extensive, highly significant prehistoric rock art and petroglyphs.", "Generates a slight microclimate capable of supporting rare desert wildlife.", "Acts as a massive, natural geographical boundary marker."],
-      de: ["Felszeichnungen.", "Sehr trockenes Klima.", "Ein Gebirge an der Grenze zu Ägypten.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Sziklarajzok.", "Nagyon száraz éghajlat.", "Hegység az egyiptomi határon.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Picturi rupestre.", "Climat foarte arid.", "Un munte la granița cu Egiptul.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Gebirge an der Grenze zu Ägypten.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegység az egyiptomi határon.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un munte la granița cu Egiptul.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jebel-uwaynat-nature-v2.webp",
     
     
@@ -583,9 +583,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, 150-kilometer-long linear depression in the Fezzan region.", "Separates the rocky Messak Settafet plateau from the Ubari Sand Sea.", "Features a continuous, life-sustaining string of lush date palm oases.", "Possesses a highly accessible, shallow subterranean water table.", "The historical and geographical epicenter of the ancient Garamantian civilization.", "Remains a highly vital, populated ecological corridor in the deep Sahara."],
-      de: ["Historische Siedlungen.", "Viele Dattelpalmen.", "Ein langes Tal am Rande des Sandmeers.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Történelmi települések.", "Sok datolyapálma.", "Hosszú völgy a homoktenger szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Așezări istorice.", "Mulți palmieri de curmale.", "O vale lungă la marginea mării de nisip.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein langes Tal am Rande des Sandmeers.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hosszú völgy a homoktenger szélén.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O vale lungă la marginea mării de nisip.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/wadi-al-ajal-nature-v2.webp",
     
     
@@ -611,9 +611,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A harsh, stony desert region surrounding the central Gargaf Mountains.", "Characterized as a 'hamada' landscape: shattered rock and compacted gravel.", "Severely lacks the massive sand dunes associated with other Saharan regions.", "Highly abrasive and notoriously difficult terrain to traverse.", "Provides critical geological capstone protection for subterranean fossil aquifers.", "Experiences brutal, unmitigated solar heat reflection off the stony surface."],
-      de: ["Sehr karg.", "Große Felsplateaus.", "Ein Teil der Zentralsahara.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon kopár.", "Nagy kőfennsíkok.", "A közép-szahara része.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Foarte arid.", "Platouri stâncoase mari.", "O parte din Sahara centrală.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Teil der Zentralsahara.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["A közép-szahara része.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O parte din Sahara centrală.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/gargaf-desert-nature-v2.webp",
     
     
@@ -639,9 +639,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A transitional desert region stretching south from the Gulf of Sidra.", "Features a mix of flat gravel plains, sparse scrub, and low rocky ridges.", "Historically acted as a massive, barren geographic barrier between east and west Libya.", "Overlays the massive, economically vital Sirte Basin oil fields.", "The landscape is heavily marked by pipelines, flare stacks, and pumping stations.", "Crossed by the massive, straight coastal-interior desert highways."],
-      de: ["Wichtiges Transitgebiet.", "Steinig und sandig.", "Ein Wüstengebiet zwischen Tripolitanien und Kyrenaika.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fontos tranzitterület.", "Köves és homokos.", "Sivatagi terület Tripolitánia és Kirenaika között.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Zonă de tranzit importantă.", "Stâncos și nisipos.", "O zonă deșertică între Tripolitania și Cirenaica.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Wüstengebiet zwischen Tripolitanien und Kyrenaika.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Sivatagi terület Tripolitánia és Kirenaika között.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O zonă deșertică între Tripolitania și Cirenaica.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/sirtica-desert-nature-v2.webp",
     
     
@@ -667,9 +667,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A deeply incised, ancient dry river valley in the Messak Settafet plateau.", "Located in the highly remote southwestern region of the Fezzan.", "Globally famous for exceptionally detailed prehistoric sandstone engravings.", "Artwork clearly depicts water-dependent animals like crocodiles and elephants.", "Serves as profound geological evidence of a previously lush, wet Saharan climate.", "A highly significant, unprotected open-air museum of human history."],
-      de: ["Berühmt für prähistorische Kunst.", "Sehr abgelegen.", "Ein Wadi mit Felsgravuren.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Híres őskori művészetéről.", "Nagyon elszigetelt.", "Vadi sziklarajzokkal.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Faimos pentru arta preistorică.", "Foarte izolat.", "Un wadi cu gravuri rupestre.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Wadi mit Felsgravuren.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Vadi sziklarajzokkal.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un wadi cu gravuri rupestre.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/wadi-mathendous-nature-v2.webp",
     
     
@@ -695,9 +695,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A formidable, dark volcanic mountain massif in the Fezzan region.", "Composed primarily of ancient, dark basaltic rock and hardened lava.", "The dark rock intensely absorbs and radiates extreme Saharan solar heat.", "Features highly rugged, jagged peaks and deeply shadowed ravines.", "Provides a massive, stark visual contrast to the surrounding pale desert.", "Historically served as an impenetrable natural refuge for nomadic tribes."],
-      de: ["Schwarzes Lavagestein.", "Karge Landschaft.", "Ein Vulkanberg.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Fekete lávakő.", "Kopár táj.", "Vulkáni hegy.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Rocă vulcanică neagră.", "Peisaj arid.", "Un munte vulcanic.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Vulkanberg.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Vulkáni hegy.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un munte vulcanic.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jebel-soda-nature-v2.webp",
     
     
@@ -723,9 +723,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["The massive, entirely landlocked southwestern geographical region of Libya.", "Encompasses towering sand seas, volcanic plateaus, and deep oasis wadis.", "Defined by extreme geographic isolation and hyper-arid climate conditions.", "Life is sustained almost entirely by massive, deep subterranean fossil aquifers.", "Historically the central crossroads for the trans-Saharan gold and slave trades.", "The ancestral heartland of the ancient Garamantian civilization."],
-      de: ["Heimat von Sandmeeren.", "Bekannt für Oasen.", "Eine große Wüstenregion im Südwesten.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Homoktengerek otthona.", "Ismert az oázisairól.", "Nagy sivatagi régió délnyugaton.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Acasă pentru mări de nisip.", "Cunoscut pentru oaze.", "O regiune mare deșertică în sud-vest.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Eine große Wüstenregion im Südwesten.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy sivatagi régió délnyugaton.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O regiune mare deșertică în sud-vest.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/fezzan-desert-nature-v2.webp",
     
     
@@ -751,9 +751,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A highly diverse, rugged coastal region in eastern Libya (Cyrenaica).", "Features dramatic limestone cliffs where mountains meet the Mediterranean.", "Contains numerous hidden coves and pristine, unspoiled beaches.", "Historically provided ideal natural harbors for ancient Greek colonization.", "Supports traditional, small-scale local fishing communities.", "Remains largely free of the massive industrialization seen in the Gulf of Sidra."],
-      de: ["Felsige Buchten.", "Klares Wasser.", "Die nördliche Mittelmeerküste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Sziklás öblök.", "Tiszta víz.", "Az északi Földközi-tengeri partvidék.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Golfuri stâncoase.", "Apă limpede.", "Coasta nordică a Mării Mediterane.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Die nördliche Mittelmeerküste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Az északi Földközi-tengeri partvidék.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Coasta nordică a Mării Mediterane.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/cyrenaica-coast-nature-v2.webp",
     
     
@@ -779,9 +779,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A massive, prominent dry river valley (wadi) located in the eastern desert.", "Flows generally from the deep interior towards the Gulf of Sidra.", "Functions as a massive subterranean sponge, retaining flash flood moisture.", "Supports a vital, linear ecosystem of hardy acacia trees and scrub grass.", "Provides critical, seasonal grazing routes for nomadic Bedouin herds.", "Geologically linked to the tectonic fault lines of the Sirte Basin."],
-      de: ["Sehr trocken.", "Kaum Vegetation.", "Ein großes Tal in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon száraz.", "Alig van növényzet.", "Nagy völgy a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Foarte arid.", "Vegetație aproape inexistentă.", "O vale mare în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein großes Tal in der Wüste.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Nagy völgy a sivatagban.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["O vale mare în deșert.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/wadi-farigh-nature-v2.webp",
     
     
@@ -807,9 +807,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A low, rolling mountain range located southeast of Tripoli.", "Forms a natural geographic barrier between the Jafara plain and the interior.", "Enjoys a highly favorable, cooler microclimate with reliable rainfall.", "Considered a premier agricultural zone, famous for vast olive orchards.", "Provides a massive natural windbreak protecting the capital from Saharan sandstorms.", "Historically a region of intense tribal independence and colonial resistance."],
-      de: ["Fruchtbares Land.", "Wichtige landwirtschaftliche Zone.", "Ein Gebirgszug südlich von Tripolis.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Termékeny föld.", "Fontos mezőgazdasági zóna.", "Hegyvonulat Tripolitól délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Pământ fertil.", "Zonă agricolă importantă.", "Un lanț muntos la sud de Tripoli.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Ein Gebirgszug südlich von Tripolis.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegyvonulat Tripolitól délre.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Un lanț muntos la sud de Tripoli.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     }, image: "/poi-images/jebel-tarhuna-nature-v2.webp",
     
     
@@ -835,9 +835,9 @@ export const poiExtraLibyaNatureV2: POI[] = [
     },
     factsAdvanced: {
       en: ["A highly dramatic, hyper-arid mountain range near the Algerian border.", "Characterized by towering, wind-eroded sandstone pillars and deep canyons.", "Massive Saharan sand dunes frequently encroach directly upon the rocky peaks.", "Serves as an imposing natural border and protective barrier.", "The ancestral, geographic heartland of the indigenous Tuareg people.", "Provides a spectacular, jagged visual backdrop to the Ghat oasis."],
-      de: ["Sehr felsig.", "Spektakuläre Wüstenlandschaft.", "Berge an der algerischen Grenze.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
-      hu: ["Nagyon sziklás.", "Látványos sivatagi táj.", "Hegyek az algériai határon.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
-      ro: ["Foarte stâncoși.", "Peisaj deșertic spectaculos.", "Munți la granița algeriană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
+      de: ["Berge an der algerischen Grenze.", "Liegt im Gebiet des Staates Libyen in Nordafrika.", "Spielt eine Rolle in der lokalen Identität der Region.", "Bekannt für seine landschaftliche oder kulturelle Bedeutung.", "Wird in lokalen und regionalen Studien dokumentiert."],
+      hu: ["Hegyek az algériai határon.", "Líbia államának területén, Észak-Afrikában található.", "Szerepet játszik a régió helyi identitásában.", "Tájképi vagy kulturális jelentőségéről ismert.", "Helyi és regionális tanulmányok dokumentálják."],
+      ro: ["Munți la granița algeriană.", "Se află pe teritoriul statului Libia, în Africa de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."]
     },
     
     

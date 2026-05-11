@@ -5,14 +5,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-c-buenos-aires-cities-v2",
     description: { en: "The capital and largest city of Argentina, known for its European-style architecture and vibrant tango scene.",
       de: "Die Hauptstadt Argentiniens am Rio de la Plata ist das politische, wirtschaftliche und kulturelle Zentrum des Landes.",
-      ro: "Buenos Aires este capitala Argentinei și un centru cultural vibrant, cunoscut pentru arhitectura sa europeană și viața de noapte intensă."
+      ro: "Buenos Aires este capitala Argentinei și un centru cultural vibrant, cunoscut pentru arhitectura sa europeană și viața de noapte intensă.",
+      hu: "Argentína fővárosa, az ország gazdasági és kulturális központja, amely a Río de la Plata torkolatánál fekszik. A város építészetére az európai, különösen a párizsi hatások a jellemzőek."
     },
     facts: { en: ["National capital",
       "Major port city",
       "Tango birthplace",
       "High population density"],
       de: ["Geburtsort des Tangos", "Wichtigster Hafen Argentiniens", "Prächtige Architektur im europäischen Stil", "Autonome Stadt und Regierungssitz"],
-      ro: ["Capitala federală a țării", "Fondat în 1536 de Pedro de Mendoza", "Supranumit Parisul Americii de Sud", "Peste 3 milioane de locuitori"]
+      ro: ["Capitala federală a țării", "Fondat în 1536 de Pedro de Mendoza", "Supranumit Parisul Americii de Sud", "Peste 3 milioane de locuitori"],
+      hu: ["Lakossága az agglomerációval együtt meghaladja a 15 millió főt.", "A tangó szülőhelyeként ismert kulturális metropolisz.", "Számos híres negyede közül La Boca a színes házairól ismert.", "A világ egyik leghosszabb sugárútja, az Avenida 9 de Julio itt található."]
     },
     type: "state-capital",
     parent: "AR-C",
@@ -39,11 +41,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-la-plata-cities-v2",
     description: { en: "The capital of Buenos Aires Province, La Plata is a planned city famous for its unique grid layout and neo-Gothic cathedral.",
       de: "Die Hauptstadt der Provinz Buenos Aires ist bekannt für ihr streng schachbrettartiges Layout und ihre Parks.",
-      ro: "La Plata este capitala provinciei Buenos Aires, faimoasă pentru planificarea sa urbană geometrică și universitatea de prestigiu."
+      ro: "La Plata este capitala provinciei Buenos Aires, faimoasă pentru planificarea sa urbană geometrică și universitatea de prestigiu.",
+      hu: "Buenos Aires tartomány székhelye, amelyet 1882-ben tervezett várossként alapítottak, sakktábla alaprajzzal és sugárutakkal. A város központjában található a monumentális neogótikus katedrális."
     },
     facts: { en: ["Planned city founded in 1882", "Home to the Curutchet House by Le Corbusier", "Features one of the largest cathedrals in South America"],
       de: ["Hauptstadt der Provinz Buenos Aires", "Bedeutendes Zentrum für Wissenschaft", "Sitz einer renommierten Universität", "Geplante Stadt des 19. Jahrhunderts"],
-      ro: ["Oraș planificat în formă de grilă", "Fondat la 19 noiembrie 1882", "Găzduiește un important muzeu de științe naturale", "Centru administrativ major"]
+      ro: ["Oraș planificat în formă de grilă", "Fondat la 19 noiembrie 1882", "Găzduiește un important muzeu de științe naturale", "Centru administrativ major"],
+      hu: ["A várost Dardo Rocha alapította 1882-ben.", "Sajátos, derékszögű és átlós utcahálózat jellemzi.", "Itt található az ország egyik legjelentősebb természettudományi múzeuma.", "A város központi parkja, a Bosque de La Plata több mint 60 hektáros."]
     },
     type: "state-capital",
     parent: "AR-B",
@@ -70,11 +74,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-mar-del-plata-cities-v2",
     description: { en: "Argentina's premier seaside resort on the Atlantic coast, known for its beautiful beaches, vibrant nightlife, and grand casino.",
       de: "Das wichtigste Seebad Argentiniens an der Atlantikküste ist ein Zentrum des Tourismus und der Fischerei.",
-      ro: "Mar del Plata este cea mai cunoscută stațiune de pe litoralul argentinian, oferind plaje extinse și o arhitectură istorică remarcabilă."
+      ro: "Mar del Plata este cea mai cunoscută stațiune de pe litoralul argentinian, oferind plaje extinse și o arhitectură istorică remarcabilă.",
+      hu: "Argentína legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján, amely egész évben aktív kikötővel rendelkezik. Híres a kaszinóiról és a széles homokos strandjairól."
     },
     facts: { en: ["Major fishing port on the Atlantic", "Host of an international film festival", "Known for its distinctive Belle Époque architecture"],
       de: ["Größter Badeort des Landes", "Wichtiger Fischereihafen", "Bekannt für Kasinos und Theater", "Ziel von Millionen Sommertouristen"],
-      ro: ["Principalul oraș balnear al țării", "Peste 600.000 de locuitori permanenți", "Cunoscut pentru cazinoul său emblematic", "Centru important pentru pescuit"]
+      ro: ["Principalul oraș balnear al țării", "Peste 600.000 de locuitori permanenți", "Cunoscut pentru cazinoul său emblematic", "Centru important pentru pescuit"],
+      hu: ["Az 1874-ben alapított város az ország egyik leglátogatottabb turisztikai központja.", "Fontos halászati kikötő, amely jelentős szerepet játszik a gazdaságban.", "A város építészetét a 20. század eleji luxus villák határozzák meg.", "Évente több millió látogatót fogad a nyári szezonban."]
     },
     type: "city",
     parent: "AR-B",
@@ -101,11 +107,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-bahia-blanca-cities-v2",
     description: { en: "An important port city and industrial hub in the south of Buenos Aires Province, acting as a gateway to the Patagonian region.",
       de: "Die Hafenstadt im Süden der Provinz Buenos Aires ist ein bedeutendes Tor zum Atlantik und Industriezentrum.",
-      ro: "Bahía Blanca este un oraș portuar strategic din sudul provinciei Buenos Aires, fiind un centru comercial și industrial esențial."
+      ro: "Bahía Blanca este un oraș portuar strategic din sudul provinciei Buenos Aires, fiind un centru comercial și industrial esențial.",
+      hu: "Fontos kikötőváros Argentína déli részén, Buenos Aires tartományban, amely a mezőgazdasági termékek exportjának egyik központja. A várostól nem messze található a mélyvízi Ingeniero White kikötő."
     },
     facts: { en: ["Deep-water port on the Atlantic Ocean", "Major center for the petrochemical industry", "Known for its strong basketball tradition"],
       de: ["Bedeutender Seehafen", "Zentrum der petrochemischen Industrie", "Wichtiger Eisenbahnknotenpunkt", "Sitz der Nationalen Universität des Südens"],
-      ro: ["Port maritim natural adânc", "Nod feroviar și rutier major", "Fondat ca fortăreață în 1828", "Pol industrial petrochimic"]
+      ro: ["Port maritim natural adânc", "Nod feroviar și rutier major", "Fondat ca fortăreață în 1828", "Pol industrial petrochimic"],
+      hu: ["A 19. században alapították katonai előőrsként.", "Az ország egyik legnagyobb gabonaexportáló központja.", "Kultúráját a nagy európai bevándorlási hullámok formálták.", "Fontos vasúti és közlekedési csomópont Patagónia felé."]
     },
     type: "city",
     parent: "AR-B",
@@ -132,11 +140,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-tandil-cities-v2",
     description: { en: "A charming city located in the ancient Tandilia hills, famous for its scenic landscapes and the historic 'moving stone'.",
       de: "Diese Stadt im Landesinneren ist berühmt für ihre umliegenden Hügelketten und handwerkliche Lebensmittelproduktion.",
-      ro: "Tandil este un oraș situat într-o zonă deluroasă pitorească, renumit pentru peisajele sale naturale și produsele lactate artizanale."
+      ro: "Tandil este un oraș situat într-o zonă deluroasă pitorească, renumit pentru peisajele sale naturale și produsele lactate artizanale.",
+      hu: "A Tandilia-hegység lábánál fekvő város, amely a mezőgazdaságáról és a minőségi kézműves élelmiszereiről, különösen a kolbászféléiről ismert. Népszerű célpont a természetkedvelők számára."
     },
     facts: { en: ["Surrounded by one of the world's oldest mountain ranges", "Renowned for its production of artisanal cheeses and salamis", "Popular destination for trekking and outdoor activities"],
       de: ["Bekannt für Wurst- und Käsespezialitäten", "Umgeben von den Tandilia-Hügeln", "Beliebtes Ziel für Trekking", "Standort der Universidad del Centro"],
-      ro: ["Faimos pentru „Piatra Mișcătoare”", "Destinație populară pentru turism rural", "Situat în sistemul muntos Tandilia", "Fondat în anul 1823"]
+      ro: ["Faimos pentru „Piatra Mișcătoare”", "Destinație populară pentru turism rural", "Situat în sistemul muntos Tandilia", "Fondat în anul 1823"],
+      hu: ["Az 1823-ban alapított város környéke kiváló kirándulóhely.", "Híres a hagyományos 'salame' kolbászairól.", "A Cerro Centinela domb az egyik fő helyi nevezetesség.", "A város a Tandilia-hegység legmagasabb pontjainak közelében épült."]
     },
     type: "city",
     parent: "AR-B",
@@ -163,14 +173,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-quilmes-cities-v2",
     description: { en: "A historic industrial city located within the Greater Buenos Aires metropolitan area.",
       de: "Ein bedeutendes Industrie- und Wohnzentrum im Ballungsraum Gran Buenos Aires mit langer Brautradition.",
-      ro: "Quilmes este un oraș istoric din zona metropolitană Buenos Aires, cunoscut la nivel mondial pentru marca de bere care îi poartă numele."
+      ro: "Quilmes este un oraș istoric din zona metropolitană Buenos Aires, cunoscut la nivel mondial pentru marca de bere care îi poartă numele.",
+      hu: "Buenos Aires nagyvárosi területének része, amely az azonos nevű híres sörgyárról ismert. Történelmileg egy őshonos közösség települése volt, mielőtt modern ipari várossá vált."
     },
     facts: { en: ["Historic settlement",
       "Major brewery center",
       "River Plate access",
       "Industrial area"],
       de: ["Heimat der berühmten Quilmes-Brauerei", "Teil des Ballungsraums Buenos Aires", "Benannt nach dem Volk der Quilmes", "Wichtiger Industriestandort"],
-      ro: ["Unul dintre cele mai vechi orașe din regiune", "Fondat ca așezare pentru nativii Quilmes în 1666", "Centru industrial și comercial dens", "Populație de peste 260.000 de locuitori"]
+      ro: ["Unul dintre cele mai vechi orașe din regiune", "Fondat ca așezare pentru nativii Quilmes în 1666", "Centru industrial și comercial dens", "Populație de peste 260.000 de locuitori"],
+      hu: ["Névadója a quilmes őslakos népcsoport volt.", "Itt működik Argentína egyik legnagyobb és legrégebbi sörfőzdéje.", "A város jelentős népességű lakóövezet Buenos Aires közvetlen szomszédságában.", "Fontos ipari és kereskedelmi csomópont a déli elővárosi körzetben."]
     },
     type: "city",
     parent: "AR-B",
@@ -197,11 +209,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-lomas-de-zamora-cities-v2",
     description: { en: "A large residential and commercial city within the Greater Buenos Aires metropolitan area, featuring historic architecture and parks.",
       de: "Ein dicht besiedeltes Wohn- und Handelszentrum südlich der Hauptstadt Buenos Aires.",
-      ro: "Lomas de Zamora este un centru urban important la sud de capitală, servind ca nod comercial și administrativ regional."
+      ro: "Lomas de Zamora este un centru urban important la sud de capitală, servind ca nod comercial și administrativ regional.",
+      hu: "Sűrűn lakott lakóövezet Buenos Aires déli részén, amely számos zöld területtel és jelentős kereskedelmi központtal rendelkezik. A város a régió egyik leggyorsabban fejlődő adminisztratív központja."
     },
     facts: { en: ["Significant railway hub in the southern suburbs", "Home to the historic Lomas Athletic Club", "Part of a key industrial corridor"],
       de: ["Großes Handelszentrum", "Teil des Ballungsraums Gran Buenos Aires", "Wichtiger Verkehrsknotenpunkt", "Sitz zahlreicher Bildungseinrichtungen"],
-      ro: ["Parte din zona Marelui Buenos Aires", "Găzduiește o universitate națională", "Zonă rezidențială și comercială dezvoltată", "Fondat oficial în 1861"]
+      ro: ["Parte din zona Marelui Buenos Aires", "Găzduiește o universitate națională", "Zonă rezidențială și comercială dezvoltată", "Fondat oficial în 1861"],
+      hu: ["A nagy Buenos Aires-i agglomeráció szerves része.", "Jelentős oktatási intézmények találhatók a területén.", "A városnegyed parkjai fontos rekreációs lehetőséget nyújtanak.", "Aktív kereskedelmi élettel és számos bevásárlóközponttal rendelkezik."]
     },
     type: "city",
     parent: "AR-B",
@@ -228,14 +242,16 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-san-isidro-cities-v2",
     description: { en: "An affluent northern suburb of Buenos Aires, known for its colonial heritage and riverside mansions.",
       de: "Ein eleganter Vorort von Buenos Aires, der für seinen historischen Charme und seine exklusiven Wohngebiete bekannt ist.",
-      ro: "San Isidro este unul dintre cele mai elegante cartiere din nordul zonei metropolitane, renumit pentru centrul său istoric și hipodrom."
+      ro: "San Isidro este unul dintre cele mai elegante cartiere din nordul zonei metropolitane, renumit pentru centrul său istoric și hipodrom.",
+      hu: "Előkelő lakóövezet Buenos Aires északi részén, amely a Río de la Plata partja mentén terül el. A várost történelmi épületei és a folyóparti kikötői jellemzik."
     },
     facts: { en: ["Colonial architecture",
       "Riverside location",
       "Affluent suburb",
       "Historic cathedral"],
       de: ["Historische Kolonialarchitektur", "Bekannt für den Pferderennsport", "Wohlhabender Wohnvorort", "Bedeutende Kathedrale am Hauptplatz"],
-      ro: ["Arhitectură colonială bine conservată", "Găzduiește Hipodromul San Isidro", "Zonă rezidențială de lux", "Situat pe malul Rio de la Plata"]
+      ro: ["Arhitectură colonială bine conservată", "Găzduiește Hipodromul San Isidro", "Zonă rezidențială de lux", "Situat pe malul Rio de la Plata"],
+      hu: ["A környék a 19. század óta a felsőbb társadalmi osztályok kedvelt lakhelye.", "Itt található a neoklasszikus stílusú San Isidro katedrális.", "A város jelentős vitorlásközpont és rekreációs zóna.", "Sok történelmi villa és kiterjedt zöldövezet található itt."]
     },
     type: "city",
     parent: "AR-B",
@@ -262,11 +278,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-san-nicolas-de-los-arroyos-cities-v2",
     description: { en: "Located on the banks of the Paraná River, this city is a major industrial center and a significant religious pilgrimage site.",
       de: "Eine wichtige Industriestadt am Ufer des Paraná-Flusses, bekannt für ihre Stahlproduktion und religiöse Bedeutung.",
-      ro: "San Nicolás este un oraș industrial și religios pe malul râului Paraná, fiind un punct important de pelerinaj catolic."
+      ro: "San Nicolás este un oraș industrial și religios pe malul râului Paraná, fiind un punct important de pelerinaj catolic.",
+      hu: "Fontos ipari és kikötőváros a Paraná-folyó partján, amely történelmi jelentőséggel bír az argentin alkotmányozás folyamatában. Az ipar mellett a folyami hajózás is meghatározó szerepet tölt be."
     },
     facts: { en: ["Home to the Sanctuary of Our Lady of the Rosary", "Site of a major steel manufacturing plant", "Played a key role in the 1853 Constitution agreement"],
       de: ["Bedeutendes Zentrum der Stahlindustrie", "Wichtiger Hafen am Rio Paraná", "Religiöser Wallfahrtsort", "Strategische Lage zwischen Buenos Aires und Rosario"],
-      ro: ["Locul semnării Acordului San Nicolás în 1852", "Centru siderurgic major", "Găzduiește Sanctuarul Fecioarei din San Nicolás", "Port fluvial activ pe Paraná"]
+      ro: ["Locul semnării Acordului San Nicolás în 1852", "Centru siderurgic major", "Găzduiește Sanctuarul Fecioarei din San Nicolás", "Port fluvial activ pe Paraná"],
+      hu: ["Itt írták alá az 1852-es San Nicolás-i megállapodást.", "A város jelentős acélipari központtal rendelkezik.", "A Szűzanya kegyhelye fontos zarándokhely az országban.", "A Paraná-folyó mentén stratégiai fontosságú kikötővel bír."]
     },
     type: "city",
     parent: "AR-B",
@@ -293,11 +311,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-b-lanus-cities-v2",
     description: { en: "A bustling industrial and residential city in Greater Buenos Aires, known for its strong community identity and sports passion.",
       de: "Ein dynamisches Industrie- und Wohngebiet im Süden des Großraums Buenos Aires.",
-      ro: "Lanús este un oraș industrial și rezidențial dens populat, situat la sud de Buenos Aires, cu o puternică tradiție sportivă."
+      ro: "Lanús este un oraș industrial și rezidențial dens populat, situat la sud de Buenos Aires, cu o puternică tradiție sportivă.",
+      hu: "Ipari és lakóváros a Buenos Aires-i agglomeráció déli övezetében. A terület a 20. század során fejlődött nagyvárosi központtá, és ma jelentős népességgel bír."
     },
     facts: { en: ["Major center for the leather and textile industries", "Home to the prominent Club Atlético Lanús", "Densely populated urban area near the capital"],
       de: ["Starker industrieller Sektor", "Dicht besiedeltes Stadtgebiet", "Teil des Ballungsraums Buenos Aires", "Bekannter lokaler Fußballclub"],
-      ro: ["Inimă industrială a regiunii", "Orașul natal al multor fotbaliști celebri", "Populație numeroasă și diversă", "Nod de transport feroviar important"]
+      ro: ["Inimă industrială a regiunii", "Orașul natal al multor fotbaliști celebri", "Populație numeroasă și diversă", "Nod de transport feroviar important"],
+      hu: ["Fontos közlekedési csomópont a városrészben.", "A város gazdasága nagymértékben alapozott az ipari termelésre.", "Jelentős sportkluboknak és közösségi tereknek ad otthont.", "Sűrű beépítettség jellemzi a város nagy részét."]
     },
     type: "city",
     parent: "AR-B",
@@ -324,11 +344,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-k-catamarca-cities-v2",
     description: { en: "Formally San Fernando del Valle de Catamarca, this city sits in a mountain valley and is known for its colonial architecture and weaving.",
       de: "Die Hauptstadt der Provinz Catamarca liegt in einem Gebirgstal und ist für ihre Textiltradition bekannt.",
-      ro: "San Fernando del Valle de Catamarca este situat într-o vale montană și este renumit pentru prelucrarea artizanală a lânii de vicuña."
+      ro: "San Fernando del Valle de Catamarca este situat într-o vale montană și este renumit pentru prelucrarea artizanală a lânii de vicuña.",
+      hu: "San Fernando del Valle de Catamarca tartományi székhely az Andok lábánál, amely a gyarmati korból megőrzött vallási épületeiről ismert. A régió fontos kulturális és közigazgatási centruma."
     },
     facts: { en: ["Capital of the Catamarca Province", "Famed for the Virgin of the Valley sanctuary", "Center for traditional hand-woven poncho production"],
       de: ["Hauptstadt der Provinz Catamarca", "Berühmt für handgewebte Ponchos", "Umgeben von den Andenausläufern", "Bedeutendes Bergbauzentrum in der Region"],
-      ro: ["Capitala provinciei Catamarca", "Fondat în 1683 de Fernando de Mendoza", "Cunoscut pentru Catedrala Basilică", "Centru agricol și minier regional"]
+      ro: ["Capitala provinciei Catamarca", "Fondat în 1683 de Fernando de Mendoza", "Cunoscut pentru Catedrala Basilică", "Centru agricol și minier regional"],
+      hu: ["Az 1683-ban alapított város völgyi környezetben fekszik.", "A 'Virgen del Valle' bazilika az egyik legfontosabb zarándokhely.", "Gazdaságának alapja a mezőgazdaság és az ásványkincsek feldolgozása.", "A környező hegységek népszerűek a túrázók körében."]
     },
     type: "state-capital",
     parent: "AR-K",
@@ -346,7 +368,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "San Fernando del Valle de Catamarca este o capitală provincială liniștită și plină de istorie, situată în valea râului del Valle, în nord-vestul Argentinei. Orașul este dominat de peisajul muntos al Anzilor și este un centru spiritual major al țării, găzduind Catedrala-Bazilică a Fecioarei de pe Vale (Virgen del Valle), patroana nord-vestului argentinian. Arhitectura sa îmbină stilul colonial cu influențele neoclasice, reflectate în piața centrală 25 de Mayo, proiectată de faimosul arhitect Carlos Thays. Catamarca este renumită pentru artizanatul său de înaltă calitate, în special țesăturile de lână de vicuña, și pentru producția de măsline și vinuri. Este poarta de intrare către aventurile de mare altitudine din Puna, oferind o atmosferă caldă și primitoare."
     },
     factsAdvanced: {
-      de: ["1683 von Fernando Mendoza Mate de Luna gegründet.", "Rund 200.000 Einwohner.", "Berühmtes Marienbild Nuestra Señora del Valle aus dem 17. Jh.", "Festival Nacional del Poncho jährlich im Juli.", "Kathedrale Basílica im neoklassizistischen Stil.", "Hauptstadt der Provinz Catamarca.", "Bedeutendes Zentrum der Andenfolklore.", "Universidad Nacional de Catamarca gegründet 1972."],
+      de: ["1683 von Fernando Mendoza Mate de Luna gegründet.", "Rund 200.000 Einwohner.", "Berühmtes Marienbild Nuestra Señora del Valle aus dem 17. Jh.", "Festival Nacional del Poncho jährlich im Juli.", "Kathedrale Basílica im neoklassizistischen Stil.", "Bedeutendes Zentrum der Andenfolklore.", "Universidad Nacional de Catamarca gegründet 1972."],
       en: ["Founded in 1683 by Fernando de Mendoza y Mate de Luna.", "Hosts the National Poncho Festival every July.", "The Virgin Mary statue in the cathedral was discovered in 1620.", "The nearby El Jumeal dam is a popular spot for water sports and relaxation.", "Famous for its artisanal olives and local wines.", "The name comes from Quechua, meaning 'fortress on the mountainside'.", "Serves as an important starting point for climbs to higher Andean peaks.", "Pre-Columbian archaeological treasures are displayed in the provincial museum."],
       hu: ["1683. július 5-én alapította Fernando de Mendoza Mate de Luna.", "Catamarca tartomány közigazgatási és vallási központja.", "Itt rendezik meg minden évben a híres Poncho Fesztivált.", "A neoklasszicista katedrálisban őrzik a völgy védőszentjét.", "A város egy 500 méter feletti magasságban fekvő völgyben terül el.", "Fontos oktatási központ, saját nemzeti egyetemmel (UNCA).", "A környék híres az olajbogyó- és diótermesztésről.", "A Jumeal-gát a város kedvelt pihenő- és vízisporthelye."],
       ro: ["Orașul a fost fondat definitiv pe 5 iulie 1683 de Fernando de Mendoza", "Fecioara de pe Vale (Virgen del Valle) este venerată aici încă din 1618", "Piața principală a fost una dintre primele lucrări ale lui Carlos Thays", "Găzduiește Fabrica de Covoare de mână, unică în regiune", "Climatul este arid, cu peste 300 de zile însorite pe an", "Biserica San Francisco deține mormântul Fericitei Mamerto Esquiú", "Se află la o altitudine de 500 de metri peste nivelul mării"]
@@ -355,11 +377,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-k-belen-cities-v2",
     description: { en: "Known as the 'Cradle of the Poncho', Belén is a historic town in Catamarca surrounded by rugged mountain scenery.",
       de: "Eine historische Stadt in der Provinz Catamarca, die als Wiege des Ponchos gilt.",
-      ro: "Belén este considerat capitala argentiniană a țesutului artizanal, fiind un oraș cu rădăcini istorice adânci în provincia Catamarca."
+      ro: "Belén este considerat capitala argentiniană a țesutului artizanal, fiind un oraș cu rădăcini istorice adânci în provincia Catamarca.",
+      hu: "Catamarca tartomány egyik történelmi városa, amelyet a helyi kézműves szőttesek és a prekolumbián örökség tesz különlegessé. Az Andok lábánál található település nyugodt hangulatú."
     },
     facts: { en: ["Famous for high-quality vicuña and llama wool textiles", "Founded in 1681 in the Belén Valley", "Strategic stop on the legendary Route 40"],
       de: ["Zentrum der traditionellen Webkunst", "Tor zur Hochebene (Puna)", "Historischer Siedlungsort", "Umgeben von Weinbergen und Bergen"],
-      ro: ["Supranumit Cuna del Poncho (Leagănul Poncho-ului)", "Cel mai vechi oraș din provincie", "Situat pe faimoasa rută 40", "Poartă de acces către situri arheologice"]
+      ro: ["Supranumit Cuna del Poncho (Leagănul Poncho-ului)", "Cel mai vechi oraș din provincie", "Situat pe faimoasa rută 40", "Poartă de acces către situri arheologice"],
+      hu: ["A várost 1681-ben alapították.", "Híres az ősi hagyományokat őrző kézműves textíliáiról.", "A környék számos régészeti lelőhelynek ad otthont.", "Az 'Andok bölcsőjének' is nevezik a környékbeliek."]
     },
     type: "city",
     parent: "AR-K",
@@ -386,11 +410,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-k-andalgala-cities-v2",
     description: { en: "A picturesque town located at the foot of the Aconquija mountains, known for its mining history and agricultural production.",
       de: "Eine Bergbaustadt am Fuße der Aconquija-Berge, bekannt für den Abbau von Rhodochrosit.",
-      ro: "Andalgalá este un oraș situat la poalele munților Aconquija, cunoscut pentru activitățile miniere și producția de măsline."
+      ro: "Andalgalá este un oraș situat la poalele munților Aconquija, cunoscut pentru activitățile miniere și producția de măsline.",
+      hu: "Kisebb város Catamarca tartományban, amely a környező völgyek mezőgazdasági termeléséről és az ásványi forrásokról ismert. Fontos szerepet játszik a helyi bortermelésben."
     },
     facts: { en: ["Center for rhodochrosite gemstone mining", "Major producer of walnuts and olives", "Located near the scenic Cuesta de la Chilca"],
       de: ["Zentrum des Rhodochrosit-Abbaus", "Gelegen in einem fruchtbaren Tal", "Ausgangspunkt für Andenexpeditionen", "Wichtige Agrarproduktion"],
-      ro: ["Al doilea oraș ca mărime din Catamarca", "Important centru de extracție a rodocrozitului", "Climat arid cu sol fertil pentru fructe", "Fondat în 1658 ca fort militar"]
+      ro: ["Al doilea oraș ca mărime din Catamarca", "Important centru de extracție a rodocrozitului", "Climat arid cu sol fertil pentru fructe", "Fondat în 1658 ca fort militar"],
+      hu: ["A várost a 17. században alapították.", "A régió a bányászatáról és a mezőgazdasági értékeiről ismert.", "Kellemes mikroklímája kedvező a gyümölcstermesztésnek.", "A környező hegyek gazdagok ásványi anyagokban."]
     },
     type: "city",
     parent: "AR-K",
@@ -417,11 +443,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-h-resistencia-cities-v2",
     description: { en: "The capital of Chaco Province, Resistencia is celebrated as the 'City of Sculptures' with hundreds of artworks displayed on its streets.",
       de: "Die Hauptstadt der Provinz Chaco ist als 'Stadt der Skulpturen' bekannt und liegt am Rio Paraná.",
-      ro: "Resistencia este capitala provinciei Chaco, fiind celebră pentru sutele de sculpturi expuse pe străzile sale publice."
+      ro: "Resistencia este capitala provinciei Chaco, fiind celebră pentru sutele de sculpturi expuse pe străzile sale publice.",
+      hu: "Chaco tartomány székhelye, amelyet 'a szobrok városának' neveznek a köztereken kiállított számos alkotás miatt. Fontos gazdasági és kereskedelmi központ Észak-Argentínában."
     },
     facts: { en: ["Hosts the International Sculpture Biennial", "Major cultural and economic hub of the Chaco region", "Known for its extensive urban forest and parks"],
       de: ["Über 600 Skulpturen im Stadtbild", "Hauptstadt der Provinz Chaco", "Wirtschaftliches Zentrum im Nordosten", "Heißes, subtropisches Klima"],
-      ro: ["Cunoscut drept Orașul Sculpturilor", "Capitala provinciei Chaco", "Centru comercial major în nord-est", "Găzduiește Bienala Internațională de Sculptură"]
+      ro: ["Cunoscut drept Orașul Sculpturilor", "Capitala provinciei Chaco", "Centru comercial major în nord-est", "Găzduiește Bienala Internațională de Sculptură"],
+      hu: ["A városközpontban több mint 600 kültéri szobor található.", "A gyapottermesztés és az erdőgazdálkodás meghatározó gazdasági ágak.", "Az ország egyik legfontosabb kulturális csomópontja északon.", "A Paraná-folyóhoz közeli elhelyezkedése elősegíti a kereskedelmet."]
     },
     type: "state-capital",
     parent: "AR-H",
@@ -439,7 +467,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Resistencia, capitala provinciei Chaco, este cunoscută în întreaga lume drept 'Orașul Sculpturilor', găzduind peste 600 de opere de artă expuse pe străzi, în parcuri și în piețe publice. Această caracteristică transformă orașul într-un muzeu în aer liber unic, unde arta contemporană face parte din viața de zi cu zi a locuitorilor. Fondat la sfârșitul secolului al XIX-lea în regiunea subtropicală a Gran Chaco, orașul este un centru comercial și cultural major, marcat de o vegetație exuberantă și de proximitatea râului Paraná. Bienala Internațională de Sculptură, organizată aici, atrage artiști de pe toate continentele, consolidând prestigiul cultural al orașului. Resistencia este un spațiu al diversității, unde tradițiile autohtone Qom și moștenirea imigranților europeni se împletesc armonios."
     },
     factsAdvanced: {
-      de: ["1878 von italienischen Friauler Einwanderern gegründet.", "Rund 290.000 Einwohner, Großraum über 400.000.", "Über 600 Skulpturen schmücken die Stadt.", "Festival Bienal Internacional de Esculturas seit 1988.", "Hauptstadt der Provinz Chaco.", "Casa de las Culturas zeigt indigene Vielfalt.", "Sehr heißes subtropisches Klima.", "Universidad Nacional del Nordeste mit Sitz hier."],
+      de: ["1878 von italienischen Friauler Einwanderern gegründet.", "Rund 290.000 Einwohner, Großraum über 400.000.", "Über 600 Skulpturen schmücken die Stadt.", "Festival Bienal Internacional de Esculturas seit 1988.", "Casa de las Culturas zeigt indigene Vielfalt.", "Universidad Nacional del Nordeste mit Sitz hier."],
       en: ["Founded in 1878 by immigrant settlers.", "Hosts one of the world's most important sculpture competitions.", "Every sculpture in the city is cataloged and protected heritage.", "Connected to the city of Corrientes by the General Belgrano Bridge.", "A vital center for the cotton and timber industries.", "Fogón de los Arrieros is a legendary local cultural institution.", "Historically threatened by floods, now managed with dams.", "A significant scientific and university hub in the north."],
       hu: ["1878-ban alapították friuli olasz bevándorlók.", "Chaco tartomány közigazgatási fővárosa.", "Beceneve a Szobrok városa a több mint 600 köztéri alkotás miatt.", "Itt rendezik meg kétévente a rangos Nemzetközi Szoborbiennálét.", "Fontos folyami kikötővel rendelkezik a közeli Barranqueras-ban.", "A Universidad Nacional del Nordeste (UNNE) egyik székhelye.", "A város egy nedves, szubtrópusi síkságon terül el.", "Központi tere, a Plaza 25 de Mayo az ország egyik legnagyobbja."],
       ro: ["Adăpostește peste 650 de sculpturi originale pe spațiul public", "A fost fondată oficial la 27 ianuarie 1878 pe locul unei vechi misiuni", "Este sediul Bienalei Internaționale de Sculptură din Chaco", "Numele onorează rezistența coloniștilor în fața atacurilor indigene", "Situată la doar 15 km de orașul Corrientes, legată de acesta prin podul Belgrano", "Include 'Fogón de los Arrieros', un centru cultural legendar", "Orașul are un climat subtropical umed, cu veri foarte fierbinți"]
@@ -448,11 +476,13 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-h-presidencia-roque-saenz-pena-cities-v2",
     description: { en: "The second-largest city in Chaco, known for its thermal baths and as a central hub for the regional cotton industry.",
       de: "Die zweitgrößte Stadt der Provinz Chaco ist ein wichtiges Zentrum für Thermalbäder und Landwirtschaft.",
-      ro: "Sáenz Peña este al doilea oraș ca mărime din Chaco, fiind recunoscut pentru apele sale termale și producția de bumbac."
+      ro: "Sáenz Peña este al doilea oraș ca mărime din Chaco, fiind recunoscut pentru apele sale termale și producția de bumbac.",
+      hu: "Chaco tartomány második legnagyobb városa, amely a környékbeli mezőgazdasági termelés központja. A városról a híres termálvizes fürdője is ismert."
     },
     facts: { en: ["Home to the popular Termas de Sáenz Peña", "Nicknamed the 'Cotton Capital' of Argentina", "Features a prominent zoo and botanical garden"],
       de: ["Zentrum des Baumwollanbaus", "Bekannt für heiße Thermalquellen", "Zentraler Verkehrsknotenpunkt im Chaco", "Wirtschaftlicher Motor der Region"],
-      ro: ["Centru al regiunii bumbacului", "Găzduiește complexe termale moderne", "Nod rutier strategic în regiune", "Fondat în 1912"]
+      ro: ["Centru al regiunii bumbacului", "Găzduiește complexe termale moderne", "Nod rutier strategic în regiune", "Fondat în 1912"],
+      hu: ["Az 1912-ben alapított város központi szerepet játszik a mezőgazdaságban.", "Termálfürdői miatt kedvelt üdülési célpont a környéken.", "A város az 'Ezüst-főváros' nevet is viseli történelme során.", "Fontos oktatási és szolgáltató központ a tartományban."]
     },
     type: "city",
     parent: "AR-H",
@@ -536,7 +566,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Rawson este capitala administrativă a provinciei Chubut, situată în valea inferioară a râului Chubut, la mică distanță de vărsarea acestuia în Oceanul Atlantic. Deși este centrul politic al provinciei, orașul păstrează o atmosferă liniștită, fiind marcat de clădirile sale guvernamentale moderne și de parcurile verzi. La doar câțiva kilometri de centrul orașului se află Playa Unión, o stațiune balneară populară cu plaje întinse și ape deschise, celebră pentru observarea delfinilor Commerson (toninas overas), o specie de delfini alb-negru unică în emisfera sudică. Rawson face parte din regiunea colonizată de galezi în secolul al XIX-lea, păstrând elemente ale acestei moșteniri culturale, deși are un profil mai pronunțat de oraș administrativ și pescăresc."
     },
     factsAdvanced: {
-      de: ["Am 15. September 1865 von walisischen Siedlern gegründet.", "Rund 32.000 Einwohner.", "Hauptstadt der Provinz Chubut.", "Einzige Hauptstadt mit überwiegend walisischem Ursprung.", "Walisisches Eisteddfod-Festival jährlich.", "Walisisches Geschichtsmuseum mit Originaldokumenten.", "Liegt am unteren Río Chubut.", "Wenige Kilometer von der Atlantikküste entfernt."],
+      de: ["Am 15. September 1865 von walisischen Siedlern gegründet.", "Rund 32.000 Einwohner.", "Einzige Hauptstadt mit überwiegend walisischem Ursprung.", "Walisisches Eisteddfod-Festival jährlich.", "Walisisches Geschichtsmuseum mit Originaldokumenten.", "Liegt am unteren Río Chubut.", "Wenige Kilometer von der Atlantikküste entfernt."],
       en: ["Founded in 1865 upon the arrival of Welsh settlers.", "Named after Interior Minister Guillermo Rawson, who supported the colonization.", "Playa Unión is famous for its waves suitable for surfing.", "Puerto Rawson is one of the country's most important shrimp fishing centers.", "Home to the provincial government and parliament buildings.", "Commerson's dolphins are known for their distinctive black-and-white pattern.", "Hosts the annual 'Dolphin Festival' at the coast.", "The city's surroundings are an important habitat for seabirds."],
       hu: ["1865. szeptember 15-én alapították walesi telepesek.", "Chubut tartomány közigazgatási fővárosa.", "Nevét Guillermo Rawson belügyminiszterről kapta.", "A Chubut folyó alsó szakaszán, az óceán közelében fekszik.", "Itt rendezik meg a walesi Eisteddfod kulturális fesztivált.", "Puerto Rawson híres a Tonina (Commerson-delfin) megfigyelésről.", "Playa Unión a város kedvelt tengerparti sétánya és strandja.", "Az egyik legkisebb lakosságszámú tartományi főváros az országban."],
       ro: ["A fost fondat pe 15 septembrie 1865 de către coloniștii galezi", "Este prima așezare galeză din Patagonia și capitala provinciei din 1957", "Playa Unión este locul principal pentru observarea delfinilor Commerson", "Numele onorează pe Guillermo Rawson, ministrul care a sprijinit colonizarea", "Portul Rawson este unul dintre cele mai importante porturi pentru creveți", "Găzduiește Centrul Cultural Provincial, o clădire modernă de referință", "Orașul este situat pe ambele maluri ale râului Chubut"]
@@ -900,7 +930,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     },
     factsAdvanced: {
       de: ["1807 als Pfarrei gegründet, 1852 zur Stadt erhoben.", "Rund 80.000 Einwohner.", "Hauptstadt des Sportfischens in Argentinien.", "Fiesta Nacional del Surubí jährlich im Mai.", "Wichtiges Tabakanbauzentrum.", "Bedeutender Hafen am Paraná-Fluss.", "Italienische und spanische Einwandererwellen.", "Zweitgrößte Stadt der Provinz Corrientes."],
-      en: ["Founded in the 18th century as a river port.", "Hosts the 'Fiesta Nacional del Surubí,' a world-class fishing event.", "Known for its historical tobacco production and processing.", "The Church of Our Lady of the Rosary is a stunning architectural landmark.", "The city's name reportedly comes from 'Doña Goya,' a famous local woman.", "Located in a prime area for birdwatching and eco-tourism.", "The 'Teatro Municipal' is one of the oldest theaters in the country.", "The surrounding 'Goya Islands' are a protected natural area."],
+      en: ["Hosts the 'Fiesta Nacional del Surubí,' a world-class fishing event.", "Known for its historical tobacco production and processing.", "The Church of Our Lady of the Rosary is a stunning architectural landmark.", "The city's name reportedly comes from 'Doña Goya,' a famous local woman.", "Located in a prime area for birdwatching and eco-tourism.", "The 'Teatro Municipal' is one of the oldest theaters in the country.", "The surrounding 'Goya Islands' are a protected natural area."],
       hu: ["Hivatalosan 1852-ben kapott városi rangot.", "Itt tartják a Fiesta Nacional del Surubí-t, a világ egyik legnagyobb horgászversenyét.", "Corrientes tartomány második legfontosabb gazdasági központja.", "A dohánytermesztés és feldolgozás történelmi központja az országban.", "Nevét egy Gregoria Olivera nevű legendás asszonyról kapta.", "A Paraná folyó egyik fontos természetes kikötőjével rendelkezik.", "A Nuestra Señora del Rosario bazilika a város legszebb épülete.", "Saját repülőtere (Aeropuerto de Goya) biztosítja a kapcsolatot a fővárossal."],
       ro: ["Orașul a fost fondat oficial în anul 1807", "Găzduiește anual Concursul Mondial de Pescuit al Surubí-ului", "Este centrul principal al industriei tutunului în provincia Corrientes", "Catedrala Nuestra Señora del Rosario prezintă o fațadă impunătoare", "Teatrul Municipal din Goya este cel mai vechi teatru în funcțiune din țară", "Include Rezervația Naturală Municipală Isla Las Damas", "Numele provine de la un magazin istoric (pulpería) deținut de 'Doña Goya'"]
     }, image: "/poi-images/ar-w-goya-cities-v2.webp"},
@@ -1136,7 +1166,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Formosa este capitala provinciei cu același nume, situată în nord-estul îndepărtat al Argentinei, pe malul râului Paraguay. Orașul este o oază subtropicală caracterizată prin vegetație luxuriantă, bulevarde largi mărginite de palmieri și o faleză modernă (Costanera) care oferă vederi panoramice spre coasta paraguayană. Formosa are o identitate culturală marcată de amestecul tradițiilor locale cu influențele vecinilor paraguayeni, vizibile în gastronomie și în ritmul de viață relaxat. Orașul servește drept poartă de acces către minunile naturale ale provinciei, precum Bañado La Estrella. Păstrarea tradițiilor indigene și eforturile de modernizare urbană fac din Formosa un oraș în plină dezvoltare, unde natura sălbatică a regiunii Chaco se întâlnește cu ospitalitatea nordică."
     },
     factsAdvanced: {
-      de: ["Am 8. April 1879 von Luis Jorge Fontana gegründet.", "Rund 235.000 Einwohner.", "Name bedeutet „schön“ auf Portugiesisch.", "Liegt am Río Paraguay an der paraguayischen Grenze.", "Reiche indigene Vielfalt: Wichí, Toba, Pilagá.", "Wichtige Baumwoll- und Sojaanbauregion.", "Hauptstadt der Provinz Formosa.", "Subtropisches Klima mit hohen Temperaturen."],
+      de: ["Am 8. April 1879 von Luis Jorge Fontana gegründet.", "Rund 235.000 Einwohner.", "Name bedeutet „schön“ auf Portugiesisch.", "Liegt am Río Paraguay an der paraguayischen Grenze.", "Reiche indigene Vielfalt: Wichí, Toba, Pilagá.", "Wichtige Baumwoll- und Sojaanbauregion.", "Subtropisches Klima mit hohen Temperaturen."],
       en: ["Founded in 1879 by Luis Jorge Fontana.", "The city's name means 'Beautiful' in old Spanish.", "The 'Costanera' is considered one of the most beautiful in the north.", "A major center for the production of cotton, rice, and timber.", "The nearby Paraguay River is a vital waterway for regional trade.", "Hosts the annual 'Festival of the River' every summer.", "The climate is humid subtropical, with very hot summers.", "The provincial museum (Museo Histórico Regional) is a key cultural site."],
       hu: ["1879. április 8-án alapította Luis Jorge Fontana parancsnok.", "Formosa tartomány közigazgatási és politikai központja.", "A Paraguay folyó partján, a paraguayi határ mentén fekszik.", "Neve a régi spanyol/portugál 'fermosa' (gyönyörű) szóból származik.", "Szubtrópusi nedves éghajlat jellemzi, gyakori esőkkel és hőséggel.", "A Costanera de Formosa az ország egyik legmodernebb folyóparti sétánya.", "Környékén található a Laguna Blanca Nemzeti Park.", "Fontos mezőgazdasági központ (gyapot, szarvasmarha, déligyümölcsök)."],
       ro: ["A fost fondată pe 8 aprilie 1879 de către Luis Jorge Fontana", "Numele provine din spaniola veche, 'vuelta fermosa', referindu-se la curbura râului", "Faleza (Costanera) este considerată una dintre cele mai moderne din regiune", "Găzduiește anual Festivalul Național al Râului", "Climatul este subtropical cu temperaturi ridicate și umiditate mare", "Include Muzeul Istoric Regional 'Juan Pablo Duffard'", "Este situat la granița internațională cu Paraguay"]
@@ -1316,7 +1346,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Santa Rosa, capitala provinciei La Pampa, este un oraș modern și ordonat situat în punctul de întâlnire al stepei pampene cu regiunea caldenal. Orașul se distinge prin străzile sale largi, spațiile verzi generoase și o arhitectură care îmbină clădiri istorice cu structuri contemporane impunătoare, cum este Centrul Judiciar. Inima socială a orașului este Laguna Don Tomás, un parc recreativ imens unde locuitorii practică sporturi nautice, ciclism și drumeții în aer liber. Santa Rosa este un centru cultural major pentru centrul Argentinei, găzduind numeroase teatre și muzee care promovează identitatea pampeană. Orașul oferă o calitate a vieții ridicată, fiind un punct de tranzit obligatoriu pentru călătorii care se îndreaptă dinspre Buenos Aires spre Patagonia, oferind o atmosferă liniștită și ospitalieră."
     },
     factsAdvanced: {
-      de: ["Am 22. April 1892 von Tomás Mason gegründet.", "Rund 115.000 Einwohner.", "Hauptstadt der Provinz La Pampa.", "Universidad Nacional de La Pampa.", "Bedeutende Rinder- und Getreidewirtschaft.", "Italienische und osteuropäische Einwandererprägung.", "Nationalpark Lihué Calel in der Nähe.", "Planmäßig angelegt mit breiten Straßen."],
+      de: ["Am 22. April 1892 von Tomás Mason gegründet.", "Rund 115.000 Einwohner.", "Universidad Nacional de La Pampa.", "Bedeutende Rinder- und Getreidewirtschaft.", "Italienische und osteuropäische Einwandererprägung.", "Nationalpark Lihué Calel in der Nähe.", "Planmäßig angelegt mit breiten Straßen."],
       en: ["Founded in 1892 by Tomás Mason.", "Home to the 'Centro Cívico,' a masterpiece by architect Clorindo Testa.", "The Don Tomás Lagoon is a major 500-hectare recreation site.", "A vital center for the province's grain and cattle trade.", "The National University of La Pampa is headquartered here.", "Hosts the annual 'National Theater Festival' on occasion.", "The city's cathedral has a unique, modern pyramidal design.", "Located at the strategic junction of National Routes 5 and 35."],
       hu: ["1892. április 22-én alapította Tomás Mason.", "La Pampa tartomány közigazgatási és kulturális fővárosa.", "A pampai és a patagóniai tájegység határán fekszik.", "A Laguna Don Tomás a város legnépszerűbb rekreációs parkja.", "Fontos mezőgazdasági központ, különösen a marhatenyésztésben.", "Itt található a tartományi művészeti múzeum és több rangos színház.", "A város rajza szabályos, tágas sugárutakkal rendelkezik.", "Beceneve „A Pampa kapuja” (Portal de la Pampa)."],
       ro: ["A fost fondată pe 22 aprilie 1892 de către Tomás Mason", "Laguna Don Tomás acoperă peste 500 de hectare de agrement", "Este situată pe ruta națională 5 și ruta națională 35", "Găzduiește Universitatea Națională din La Pampa (UNLPam)", "Catedrala Santa Rosa de Lima are o arhitectură modernistă unică", "Include Teatrul Español, unul dintre cele mai frumoase din regiune", "Orașul este poarta de intrare către Rezervația Naturală Parque Luro"]
@@ -1388,10 +1418,10 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "La Rioja, capitala provinciei cu același nume, este un oraș muntos și însorit situat la poalele Sierras de Velasco, în nord-vestul Argentinei. Orașul păstrează o puternică influență colonială în centrul său, cu clădiri de pământ și biserici vechi precum Catedrala Bazilică San Nicolás de Bari. La Rioja este faimoasă pentru celebrarea 'El Tinkunaco', o sărbătoare religioasă și culturală unică ce comemorează pacea dintre cuceritorii spanioli și popoarele indigene Diaguita. Regiunea din jur este renumită pentru podgoriile de mare altitudine și livezile de măslini, oferind vinuri de tip Torrontés deosebit de aromate. Climatul cald și peisajele de pământ roșu dau orașului o identitate vizuală puternică, fiind o bază ideală pentru a explora uimitorul Parc Național Talampaya."
     },
     factsAdvanced: {
-      de: ["Am 20. Mai 1591 von Ramírez de Velasco gegründet.", "Rund 200.000 Einwohner.", "Hauptstadt der Provinz La Rioja.", "Tinkunaco-Zeremonie als kulturelles Erbe.", "Franziskanerkloster aus dem 17. Jahrhundert.", "Santo Niño Alcalde, lokal verehrtes Heiligenbild.", "Italienische und arabische Einwanderergemeinden.", "Liegt auf 500 m Höhe am Fuß der Sierra de Velasco."],
+      de: ["Am 20. Mai 1591 von Ramírez de Velasco gegründet.", "Rund 200.000 Einwohner.", "Tinkunaco-Zeremonie als kulturelles Erbe.", "Franziskanerkloster aus dem 17. Jahrhundert.", "Santo Niño Alcalde, lokal verehrtes Heiligenbild.", "Italienische und arabische Einwanderergemeinden.", "Liegt auf 500 m Höhe am Fuß der Sierra de Velasco."],
       en: ["Founded on May 20, 1591, by Juan Ramírez de Velasco.", "The Tinkunaco festival takes place every December 31st.", "The city's cathedral basilica is a national historic monument.", "Home to the 'Convento de San Francisco,' one of the oldest in the country.", "A major center for the production of olives and Torrontés wine.", "Located in an area with some of the highest summer temperatures in Argentina.", "The 'Dique Los Sauces' is a popular nearby spot for recreation.", "The city's name is shared with a famous wine region in Spain."],
       hu: ["1591. május 20-án alapította Juan Ramírez de Velasco.", "La Rioja tartomány közigazgatási és vallási központja.", "A Tinkunaco ünnepség a város legfontosabb kulturális eseménye.", "Itt található az ország egyik legrégebbi ferences kolostora.", "A Sierra de Velasco hegység lábánál fekszik.", "Fontos oktatási központ, saját nemzeti egyetemmel (UNLaR).", "A környék híres a kiváló minőségű olívaolajáról.", "A város egy száraz, szemi-arid éghajlati zónában terül el."],
-      ro: ["Fondată pe 20 mai 1591 de Juan Ramírez de Velasco", "Numele original a fost Todos los Santos de la Nueva Rioja", "Tinkunaco este principala sărbătoare tradițională, celebrată la 31 decembrie", "Găzduiește mănăstirea San Francisco, unde se află celula Sfântului Francisco Solano", "Se află la o altitudine de 498 de metri peste nivelul mării", "Producția de ulei de măsline de aici este printre cele mai bune din țară", "Include parcul urban 'Parque de la Ciudad' cu vederi panoramice montane"]
+      ro: ["Numele original a fost Todos los Santos de la Nueva Rioja", "Tinkunaco este principala sărbătoare tradițională, celebrată la 31 decembrie", "Găzduiește mănăstirea San Francisco, unde se află celula Sfântului Francisco Solano", "Se află la o altitudine de 498 de metri peste nivelul mării", "Producția de ulei de măsline de aici este printre cele mai bune din țară", "Include parcul urban 'Parque de la Ciudad' cu vederi panoramice montane"]
     }, image: "/poi-images/ar-f-la-rioja-cities-v2.webp"},
   {
     id: "ar-f-chilecito-cities-v2",
@@ -2150,7 +2180,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "San Luis, capitala provinciei cu același nume, este un oraș pitoresc situat la poalele munților Sierras de San Luis, în centrul Argentinei. Orașul a cunoscut o dezvoltare spectaculoasă în ultimele decenii, devenind un model de modernizare tehnologică și industrială, fiind pionier în digitalizarea serviciilor publice. Centrul istoric păstrează clădiri neoclasice precum Catedrala și sediul Guvernului, dar orașul se remarcă prin infrastructura sa nouă și prin parcurile moderne precum Terrazas del Portezuelo. San Luis servește drept bază ideală pentru a explora atracțiile naturale ale provinciei, inclusiv Potrero de los Funes și zona deșertică a Parcului Național Sierra de las Quijadas. Atmosfera sa combină liniștea tradițională a unui oraș de provincie cu dinamismul unui pol de inovare."
     },
     factsAdvanced: {
-      de: ["Am 25. August 1594 von Luis Jufré gegründet.", "Rund 195.000 Einwohner.", "Liegt auf 700 m Höhe am Fuß der Sierra.", "Wirtschaftlicher Aufschwung seit den 1980ern.", "Iglesia Santo Domingo aus dem späten 18. Jh.", "Naturreservat Sierra de las Quijadas in der Nähe.", "Italienische und libanesische Einwandererprägung.", "Hauptstadt der Provinz San Luis."],
+      de: ["Am 25. August 1594 von Luis Jufré gegründet.", "Rund 195.000 Einwohner.", "Liegt auf 700 m Höhe am Fuß der Sierra.", "Wirtschaftlicher Aufschwung seit den 1980ern.", "Iglesia Santo Domingo aus dem späten 18. Jh.", "Naturreservat Sierra de las Quijadas in der Nähe.", "Italienische und libanesische Einwandererprägung."],
       en: ["Founded on August 25, 1594, by Luis Jufré de Loaysa y Meneses.", "One of the first provinces to establish a significant industrial promotion law.", "Nicknamed 'The City of the Puntas' (La Ciudad de las Puntas).", "The nearby Potrero de los Funes features a world-class motor racing circuit around a lake.", "The city's 'Casa de Gobierno' is located in the modern 'Terrazas del Portezuelo' complex.", "A pioneer in providing free Wi-Fi and digital services to its citizens.", "The 'Sierras de San Luis' provide a beautiful backdrop and microclimate.", "The National University of San Luis is a major regional educational center."],
       hu: ["1594-ben alapították San Luis de Loyola Nueva Medina de Río Seco néven.", "San Luis tartomány politikai és közigazgatási központja.", "Itt található a különleges, modern Terrazas del Portezuelo kormányzati negyed.", "A Sierra de San Luis hegység déli lábánál, 710 méteres magasságban fekszik.", "Híres a közeli Potrero de los Funes víztározóról és autóverseny-pályájáról.", "Fontos ipari központ, köszönhetően a speciális adókedvezményes zónáknak.", "Itt működik a San Luis-i Nemzeti Egyetem (UNSL).", "A város egy száraz, de öntözéssel zöldített völgyben terül el."],
       ro: ["A fost fondat pe 25 august 1594 de Luis Jufré de Loaysa y Meneses", "Numele original a fost San Luis de Loyola Nueva Medina de Río Seco", "Este situat la o altitudine de 709 metri peste nivelul mării", "Include complexul administrativ Terrazas del Portezuelo, primul edificiu public sustenabil", "Găzduiește sediul Universității Naționale din San Luis (UNSL)", "Este poarta de intrare către circuitul turistic al Sierras Centrale", "Orașul este renumit pentru conectivitatea sa gratuită la internet prin Wi-Fi provincial"]
@@ -2222,7 +2252,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Río Gallegos este capitala provinciei Santa Cruz și cel mai important oraș de pe coasta sudică a Patagoniei continentale. Situat în estuarul râului Gallegos, orașul este un nod administrativ, militar și logistic esențial pentru controlul resurselor din sudul extrem și pentru legătura cu Tierra del Fuego. Climatul său este marcat de vânturile patagoniene puternice și de o frumusețe austeră. Orașul oferă atracții precum Muzeul Pionierilor, care ilustrează viața primilor coloniști, și Laguna Azul, un lac de crater vulcanic situat la sud. Río Gallegos are o identitate legată de istoria explorării sudului și de industria energiei (petrol și cărbune), fiind în prezent un oraș în plină expansiune urbană care servește drept poartă de acces către ghețarii din vest și către regiunile antarctice."
     },
     factsAdvanced: {
-      de: ["Am 19. Dezember 1885 gegründet.", "Rund 110.000 Einwohner.", "Hauptstadt der Provinz Santa Cruz.", "Liegt 2.600 km südlich von Buenos Aires.", "Britische und kroatische Einwandererprägung.", "Wichtiges Schafzucht- und Wollexportzentrum.", "Endpunkt der Ruta Nacional 3.", "Tor zum Nationalpark Los Glaciares."],
+      de: ["Am 19. Dezember 1885 gegründet.", "Rund 110.000 Einwohner.", "Liegt 2.600 km südlich von Buenos Aires.", "Britische und kroatische Einwandererprägung.", "Wichtiges Schafzucht- und Wollexportzentrum.", "Endpunkt der Ruta Nacional 3.", "Tor zum Nationalpark Los Glaciares."],
       en: ["Founded on December 19, 1885, as a maritime sub-prefecture.", "The capital of Argentina's second-largest province.", "A major logistical base for Antarctica and the South Atlantic islands.", "Located just 130 km from Cabo Vírgenes, the starting point of Route 40.", "Home to a significant military and air force presence.", "The estuary features one of the highest tidal ranges in the world.", "Birthplace of several key figures in modern Argentine politics.", "The climate is cold and windy, with long winter nights."],
       hu: ["1885. december 19-én alapították tengerészeti alprefektúraként.", "Santa Cruz tartomány közigazgatási és politikai fővárosa.", "Az argentin szárazföld egyik legdélebbi városa, 2600 km-re Buenos Airestől.", "Stratégiai bázis az antarktiszi expedíciók és a déli-atlanti szigetek számára.", "Híres a közeli Cabo Vírgenesről, ahol a 40-es út 0. kilométere található.", "Erős brit és horvát bevándorlói múltja van, ami az építészeten is látszik.", "A torkolatvidék a világ egyik legnagyobb árapály-különbségével rendelkezik.", "Itt működik a dél-patagóniai egyetem (UNPA) központja."],
       ro: ["A devenit capitala provinciei Santa Cruz în anul 1888", "Este situat pe malul estuarului râului Gallegos, la malul Atlanticului", "Găzduiește Muzeul Pionierilor, situat în cea mai veche casă din oraș", "Include Aeroportul Internațional Piloto Civil Norberto Fernández", "Este un punct strategic pentru bazele aeriene și logistica militară sudică", "Populația orașului a crescut semnificativ datorită industriei extractive", "Este situat la 2.500 km distanță de orașul Buenos Aires"]
@@ -2294,10 +2324,10 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Rosario este cel mai mare oraș din provincia Santa Fe și al treilea din Argentina, fiind un gigant comercial, industrial și cultural situat pe malul maiestuos al râului Paraná. Orașul este inima identității naționale argentiniene, fiind locul unde a fost înălțat pentru prima dată steagul țării, eveniment comemorat de impunătorul Monument al Steagului. Rosario se distinge prin arhitectura sa eclectică, bulevardele elegante și parcurile sale imense proiectate de peisagiști celebri. Ca port fluvial major, este centrul mondial al exportului de soia. Orașul are o viață culturală efervescentă, fiind locul de naștere al multor personalități globale, de la Che Guevara la Lionel Messi. 'Costanera' sa extinsă oferă o conexiune unică cu râul, transformând Rosario într-un oraș vibrant care combină istoria, arta și forța economică."
     },
     factsAdvanced: {
-      de: ["Siedlung seit ca. 1689, 1852 zur Stadt erhoben.", "Rund 1,3 Millionen Einwohner, drittgrößte Stadt Argentiniens.", "Wichtigster Sojaexporthafen Südamerikas.", "Monumento Nacional a la Bandera (1957).", "Erste Hissung der argentinischen Flagge 1812.", "Geburtsort von Che Guevara und Lionel Messi.", "Sehr starke italienische Einwandererprägung.", "Wichtiges Industrie- und Bildungszentrum."],
+      de: ["Siedlung seit ca. 1689, 1852 zur Stadt erhoben.", "Rund 1,3 Millionen Einwohner, drittgrößte Stadt Argentiniens.", "Wichtigster Sojaexporthafen Südamerikas.", "Monumento Nacional a la Bandera (1957).", "Erste Hissung der argentinischen Flagge 1812.", "Sehr starke italienische Einwandererprägung.", "Wichtiges Industrie- und Bildungszentrum."],
       en: ["The National Flag Memorial is the city's most important monument.", "Never officially founded; it grew from a small chapel in the 18th century.", "The primary port for Argentina's massive soybean and grain exports.", "Birthplace of revolutionary Che Guevara and football star Lionel Messi.", "Home to a stunning collection of Art Nouveau and Art Deco architecture.", "The 'Bulevar Oroño' is a beautiful tree-lined historic avenue.", "Known for its vibrant theater and independent music scene.", "The Rosario-Victoria Bridge connects it to Entre Ríos Province."],
       hu: ["Nincs hivatalos alapítási dátuma, 1852-ben kapott városi rangot.", "A Monumento Nacional a la Bandera a város legfontosabb jelképe.", "Argentína legfontosabb gabonakiviteli és élelmiszeripari kikötője.", "Che Guevara és Lionel Messi szülővárosa.", "A Paraná folyó partján fekszik, hatalmas zöldterületekkel és parkokkal.", "Híres art nouveau és modernista építészeti örökségéről.", "Itt található a Rosario-Victoria híd, amely Entre Ríos tartományba vezet.", "Dinamikus egyetemi város, gazdag színházi és zenei élettel."],
-      ro: ["Aici s-a înălțat pentru prima dată steagul Argentinei la 27 februarie 1812", "Monumentul Național al Steagului este o structură unică de 70 de metri", "Este cel mai mare centru de export agroindustrial din lume", "Orașul nu are un act formal de fondare, dezvoltându-se spontan", "Include Parcul Independenței, un spațiu verde de 126 de hectare", "Este locul de naștere al lui Lionel Messi și Che Guevara", "Podul Rosario-Victoria leagă orașul de provincia Entre Ríos"]
+      ro: ["Aici s-a înălțat pentru prima dată steagul Argentinei la 27 februarie 1812", "Monumentul Național al Steagului este o structură unică de 70 de metri", "Este cel mai mare centru de export agroindustrial din lume", "Orașul nu are un act formal de fondare, dezvoltându-se spontan", "Include Parcul Independenței, un spațiu verde de 126 de hectare", "Podul Rosario-Victoria leagă orașul de provincia Entre Ríos"]
     }, image: "/poi-images/ar-s-rosario-cities-v2.webp"},
   {
     id: "ar-g-santiago-del-estero-cities-v2",
@@ -2330,7 +2360,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       ro: "Santiago del Estero, supranumit 'Madre de Ciudades' (Mama Orașelor), este cea mai veche așezare fondată de spanioli pe teritoriul Argentinei care a supraviețuit până astăzi. Situat pe malul râului Dulce, orașul este inima culturală a țării în ceea ce privește folclorul, fiind locul de origine al muzicii zamba și chacarera. Centrul său păstrează biserici istorice și muzee care atestă rolul său fundamental în colonizarea regiunii Tucumán. Recent, orașul a trecut printr-un proces intens de modernizare, incluzând noul Centru Cultural al Bicenteniului și un tren ecologic urban. Santiago del Estero este renumit pentru climatul său cald, pentru ospitalitatea profundă a locuitorilor săi și pentru sărbătorile religioase tradiționale, precum cea a Fecioarei de Huachana, care atrag mii de pelerini."
     },
     factsAdvanced: {
-      de: ["Am 25. Juli 1553 von Francisco de Aguirre gegründet.", "Älteste Stadt Argentiniens.", "Rund 270.000 Einwohner.", "Beiname „Madre de Ciudades“.", "Heimat der Chacarera-Folkloremusik.", "Quechua wird noch in der Region gesprochen.", "Forschungsmuseum Wagner mit präkolumbischen Funden.", "Liegt am Río Dulce auf 187 m Höhe."],
+      de: ["Am 25. Juli 1553 von Francisco de Aguirre gegründet.", "Rund 270.000 Einwohner.", "Beiname „Madre de Ciudades“.", "Heimat der Chacarera-Folkloremusik.", "Quechua wird noch in der Region gesprochen.", "Forschungsmuseum Wagner mit präkolumbischen Funden.", "Liegt am Río Dulce auf 187 m Höhe."],
       en: ["Founded on July 25, 1553, by Francisco de Aguirre.", "Officially the oldest city in Argentina still in its original location.", "The 'Bicentennial Cultural Center' is one of the largest in the country.", "Birthplace of the 'chacarera,' a popular and rhythmic folk dance.", "The 'Puente Carretero' over the Dulce River is a historic and sung icon.", "A major center for the production of artisanal looms and leather goods.", "Hosts the 'March of the Bombo' every July, a massive folk event.", "Located in one of the hottest regions in South America during summer."],
       hu: ["1553. július 25-én alapította Francisco de Aguirre.", "Az ország legrégebbi városa, amely az eredeti helyén maradt.", "Santiago del Estero tartomány fővárosa a Dulce folyó mentén.", "Beceneve „Madre de Ciudades”, mivel számos más alapítás bölcsője volt.", "Az argentin népzene, különösen a chacarera országos központja.", "Itt található a modern Bicentenario Kulturális Központ (CCB).", "Híres a „Marcha de los Bombos” nevű hatalmas dobos felvonulásról.", "Környékén még ma is beszélik a kecsua nyelv helyi változatát."],
       ro: ["A fost fondată oficial pe 25 iulie 1553 de Francisco de Aguirre", "Este cel mai vechi oraș din Argentina locuit neîntrerupt", "Este considerat centrul național al muzicii Chacarera", "Include Centrul Cultural al Bicenteniului (CCB), unul dintre cele mai mari din nord", "Noul stadion 'Madre de Ciudades' este unul dintre cele mai moderne din țară", "Situată în regiunea Gran Chaco, pe malul râului Dulce", "Este un centru major de pelerinaj pentru cultul Sfântului Esteban"]
@@ -2360,16 +2390,4 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       en: "Ushuaia"
     },
     descriptionAdvanced: {
-      de: "Ushuaia, am 12. Oktober 1884 gegründet, ist die südlichste Stadt Argentiniens und Hauptstadt der Provinz Tierra del Fuego mit rund 80.000 Einwohnern. Sie wird oft als „Stadt am Ende der Welt“ bezeichnet, da sie auf 54° südlicher Breite liegt – nur die chilenische Siedlung Puerto Williams ist südlicher. Die Stadt liegt malerisch am Beagle-Kanal, eingerahmt von schneebedeckten Bergen. Ursprünglich war Ushuaia Standort einer Mission der anglikanischen South American Missionary Society für die indigenen Yámana und ab 1902 eines berüchtigten Strafgefangenenlagers. Italienische, spanische, kroatische und chilenische Einwanderer prägten die Bevölkerung. Heute ist Ushuaia Tor zur Antarktis, mit dem südlichsten Hafen der Welt und dem Nationalpark Tierra del Fuego.",
-      en: "Ushuaia, world-famous as the 'End of the World' (El Fin del Mundo), is the southernmost city in the world, dramatically situated between the Beagle Channel and the snow-capped Martial Mountains. As the capital of Tierra del Fuego, it is the primary gateway for expeditions to Antarctica and a major destination for nature lovers. The city's history is linked to its former role as a remote penal colony, a past preserved in its iconic museum. Today, Ushuaia is a thriving tourist and industrial hub, offering activities like sailing the Beagle Channel to see sea lions and penguins, skiing at Cerro Castor, and exploring the Tierra del Fuego National Park. Its unique location at the edge of the continent, combined with its colorful houses and breathtaking vistas, makes it a truly legendary destination.",
-      hu: "Ushuaia, a „Világ Vége” (El Fin del Mundo), a Föld legdélebbi városa, amely drámai helyszínen, a Beagle-csatorna és a havas Martial-hegység között fekszik. Tűzföld tartomány fővárosaként ez az első számú kiindulópont az antarktiszi expedíciók számára és a természetbarátok álomúticélja. A város története szorosan összefonódott az egykori távoli börtönteleppel, amelynek épülete ma izgalmas múzeumnak ad otthont. Ushuaia ma egy virágzó turisztikai és ipari központ, amely olyan élményeket kínál, mint a hajózás a Beagle-csatornán, síelés a Cerro Castoron, vagy a Tierra del Fuego Nemzeti Park felfedezése. Különleges fekvése, színes házai és a „Világ Vége Vonat” felejthetetlen, misztikus hangulatot kölcsönöznek a városnak.",
-      ro: "Ushuaia este capitala provinciei Tierra del Fuego și este recunoscută universal drept 'Orașul de la Capătul Lumii'. Situată într-un cadru natural ireal, între munții Anzi înzăpeziți și apele Canalului Beagle, este cel mai sudic oraș de pe planetă. Ushuaia este poarta principală de plecare pentru expedițiile către Antarctica și un centru turistic de elită pentru sporturile de iarnă, găzduind centrul de schi Cerro Castor. Istoria sa este marcată de prezența vechii închisori militare, astăzi muzeu, care a găzduit cei mai periculoși deținuți ai Argentinei. Orașul oferă o gastronomie deosebită bazată pe centolla (crab gigant) și miel patagonian. Plimbările cu Trenul de la Capătul Lumii și explorarea Parcului Național Tierra del Fuego oferă experiențe de neuitat într-un decor sălbatic și mistic."
-    },
-    factsAdvanced: {
-      de: ["Am 12. Oktober 1884 gegründet.", "Rund 80.000 Einwohner.", "Südlichste Stadt Argentiniens.", "Liegt am Beagle-Kanal auf 54°S.", "Tor zur Antarktis – südlichster Hafen der Welt.", "Strafgefangenenlager 1902–1947.", "Anglikanische Mission für die Yámana ab 1869.", "Nationalpark Tierra del Fuego am Stadtrand."],
-      en: ["The southernmost city on the planet (latitude 54°S).", "Primary departure port for over 90% of Antarctic cruises.", "The 'End of the World Train' (Tren del Fin del Mundo) is a major attraction.", "Home to the southernmost ski resort in the world, Cerro Castor.", "The Presidio (old prison) is now a fascinating multi-thematic museum.", "The Beagle Channel was named after the ship that carried Charles Darwin.", "A significant hub for the electronics assembly industry in Argentina.", "Surrounded by the southernmost subantarctic forests on Earth."],
-      hu: ["1884. október 12-én alapították az argentin haditengerészet bázisaként.", "A világ legdélebbi városa (déli szélesség 54°).", "Az antarktiszi hajóutak több mint 90%-ának kiindulópontja.", "Itt működik a „Tren del Fin del Mundo” (A világ vége vonat).", "Egykori hírhedt börtöne ma a Tengerészeti és Börtönmúzeumnak ad otthont.", "A közeli Cerro Castor a világ legdélebbi síközpontja.", "Híres tengeri gasztronómiájáról, különösen az óriás rákról (centolla).", "A Beagle-csatorna partján fekszik, nevét a Yámana indiánoktól kapta."],
-      ro: ["Este cel mai sudic oraș din lume (situat la 54 grade latitudine sudică)", "A fost fondat oficial la 12 octombrie 1884 de Augusto Lasserre", "Aproximativ 90% din turismul antarctic trece prin portul Ushuaia", "Include faimoasa Închisoare de la Capătul Lumii (Presidio), închisă în 1947", "Cerro Castor are cel mai lung sezon de schi din America de Sud", "Numele înseamnă 'golful care pătrunde spre vest' în limba Yámana", "Farul Les Éclaireurs este imaginea simbolică a Canalului Beagle"]
-    }
-  },
-];
+      de: "Ushuaia, am 12. Oktober 1884 gegründet, ist die südlichste Stadt Argentiniens und Hauptstadt der Provinz Tierra del Fuego mit rund 80.000 Einwohnern. Sie wird oft als „Stadt am Ende der Welt“ bezeichnet, da sie auf 54° südlicher Breite liegt – nur die chilenische Siedl

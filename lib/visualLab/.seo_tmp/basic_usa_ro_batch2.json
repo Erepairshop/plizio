@@ -1,0 +1,109 @@
+{
+  "lang": "ro",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "hollywood-sign-landmarks-v2",
+      "description": "Semnul Hollywood este o structură iconică de pe Muntele Lee din Los Angeles, recunoscută la nivel mondial ca simbol al industriei cinematografice americane. A fost creat inițial ca o reclamă imobiliară, devenind rapid o emblemă a orașului.",
+      "facts": [
+        "A fost construit în anul 1923.",
+        "Literele au o înălțime de 13,7 metri.",
+        "Inițial, semnul afișa cuvântul \"HOLLYWOODLAND\"."
+      ]
+    },
+    {
+      "id": "one-world-trade-center-landmarks-v2",
+      "description": "One World Trade Center este clădirea principală a noului complex World Trade Center din New York City, construită în apropierea locului unde se aflau Turnurile Gemene. Este un simbol al rezilienței și o capodoperă a arhitecturii moderne.",
+      "facts": [
+        "Este cea mai înaltă clădire din SUA.",
+        "Are o înălțime simbolică de 1.776 de picioare (541 m).",
+        "A fost inaugurată oficial în anul 2014."
+      ]
+    },
+    {
+      "id": "willis-tower-landmarks-v2",
+      "description": "Willis Tower, cunoscut anterior ca Sears Tower, este un zgârie-nori masiv situat în inima orașului Chicago. A deținut titlul de cea mai înaltă clădire din lume timp de aproape 25 de ani de la finalizarea sa.",
+      "facts": [
+        "Construcția sa a fost finalizată în 1973.",
+        "Are o înălțime totală de 442 de metri.",
+        "Este faimos pentru platforma sa de sticlă Skydeck."
+      ]
+    },
+    {
+      "id": "the-alamo-landmarks-v2",
+      "description": "Misiunea Alamo din San Antonio este un fost complex religios și fortăreață, locul unei bătălii celebre din timpul Revoluției Texane. Astăzi servește ca muzeu și sanctuar dedicat celor care au luptat pentru independența Texasului.",
+      "facts": [
+        "Bătălia de la Alamo a avut loc în 1836.",
+        "A fost fondată de misionari spanioli în secolul al XVIII-lea.",
+        "Este inclusă în Patrimoniul Mondial UNESCO."
+      ]
+    },
+    {
+      "id": "times-square-landmarks-v2",
+      "description": "Times Square este o intersecție comercială majoră și o destinație turistică de top din cartierul Manhattan, New York. Este renumită pentru panourile publicitare luminoase imense și ca centru al industriei teatrale de pe Broadway.",
+      "facts": [
+        "Este adesea cunoscută ca \"Intersecția Lumii\".",
+        "Aproximativ 50 de milioane de vizitatori vin aici anual.",
+        "Tradiția căderii sferei de Revelion a început în 1907."
+      ]
+    },
+    {
+      "id": "wrigley-field-landmarks-v2",
+      "description": "Wrigley Field este un stadion de baseball istoric din Chicago, faimos pentru zidurile sale acoperite cu iederă și atmosfera sa clasică. Este casa echipei Chicago Cubs și unul dintre cele mai vechi stadioane din Liga Majoră.",
+      "facts": [
+        "A fost deschis oficial în anul 1914.",
+        "Este al doilea cel mai vechi stadion din MLB.",
+        "Tabela de scor manuală originală este încă folosită."
+      ]
+    },
+    {
+      "id": "liberty-bell-landmarks-v2",
+      "description": "Clopotul Libertății, situat în orașul Philadelphia, este un simbol istoric major al independenței americane. A fost sunat pentru a anunța citirea Declarației de Independență și este recunoscut pentru fisura sa caracteristică.",
+      "facts": [
+        "A fost turnat inițial în anul 1752.",
+        "Are o fisură vizibilă și faimoasă.",
+        "Cântărește aproximativ 940 de kilograme."
+      ]
+    },
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "Parcul Național Yellowstone se întinde în principal în statul Wyoming și este primul parc național din lume, celebru pentru activitatea sa geotermală spectaculoasă. Găzduiește o faună diversă, inclusiv urși grizzly, lupi și turme de bizoni.",
+      "facts": [
+        "A fost înființat în mod oficial în 1872.",
+        "Geizerul Old Faithful erupe în mod regulat aici.",
+        "Suprafața sa depășește 8.900 de kilometri pătrați."
+      ]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "Walt Disney World Resort din Orlando, Florida, este cel mai mare și cel mai vizitat complex de parcuri de distracții din lume. Cuprinde mai multe parcuri tematice, parcuri acvatice și hoteluri, oferind experiențe magice pentru vizitatori de toate vârstele.",
+      "facts": [
+        "Complexul a fost deschis publicului în anul 1971.",
+        "Se întinde pe o suprafață de peste 10.000 de hectare.",
+        "Cel mai iconic simbol este Castelul Cenușăresei."
+      ]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "Parcul Național Denali din Alaska acoperă o zonă imensă de sălbăticie, având în centru vârful Denali, cel mai înalt munte din America de Nord. Este o zonă protejată vitală pentru fauna arctică și subarctică.",
+      "facts": [
+        "Vârful Denali are o înălțime de 6.190 de metri.",
+        "Parcul a fost înființat inițial în 1917.",
+        "Drumul principal al parcului are o lungime de 148 km."
+      ]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "Parcul Național Glacier, situat în statul Montana la granița cu Canada, este renumit pentru munții săi sculptați de ghețari, lacurile alpine cristaline și ecosistemele intacte. Este un paradis natural pentru iubitorii de drumeții și natură sălbatică.",
+      "facts": [
+        "A fost fondat ca parc național în 1910.",
+        "Drumul istoric \"Going-to-the-Sun Road\" traversează parcul.",
+        "Numele provine de la ghețarii care au modelat peisajul."
+      ]
+    }
+  ]
+}

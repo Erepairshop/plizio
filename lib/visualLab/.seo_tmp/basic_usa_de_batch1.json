@@ -1,0 +1,67 @@
+{
+  "lang": "de",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUsaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts",
+    "lib/visualLab/data/poiExtraUsaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-paso-cities-v2",
+      "description": "El Paso ist eine Stadt im Westen von Texas, direkt an der Grenze zu Mexiko. Sie ist bekannt für ihre reiche Geschichte und multikulturelle Atmosphäre.",
+      "facts": ["Liegt am Rio Grande.", "Wichtiger Grenzübergang zu Ciudad Juárez.", "Sonnenverwöhntes Wüstenklima."]
+    },
+    {
+      "id": "detroit-cities-v2",
+      "description": "Detroit, Michigan, einst das Herz der amerikanischen Automobilindustrie, ist heute eine Stadt des Wandels und der Kreativität. Sie ist bekannt für ihre Musikgeschichte und Architektur.",
+      "facts": ["Geburtsort der Motown-Musik.", "Großes Kunstmuseum (DIA).", "Wichtiger Hafen am Detroit River."]
+    },
+    {
+      "id": "pittsburgh-cities-v2",
+      "description": "Pittsburgh in Pennsylvania ist eine Stadt am Zusammenfluss von drei Flüssen und bekannt für ihre Vergangenheit als Stahlproduktionszentrum. Heute ist sie ein Innovationshub.",
+      "facts": ["Stadt der Brücken und Hügel.", "Heimat vieler Universitäten.", "Bekannt für seine Sportteams."]
+    },
+    {
+      "id": "santa-ana-cities-v2",
+      "description": "Santa Ana ist eine wichtige Stadt in Orange County, Kalifornien, mit einem starken hispanischen kulturellen Einfluss. Sie beherbergt zahlreiche Kunst- und Kulturinstitutionen.",
+      "facts": ["County Seat von Orange County.", "Historische Innenstadt.", "Nähe zu den Stränden Südkaliforniens."]
+    },
+    {
+      "id": "stockton-cities-v2",
+      "description": "Stockton in Kalifornien ist eine Hafenstadt im Central Valley, die für ihre landwirtschaftliche Bedeutung bekannt ist. Sie liegt an einem wichtigen Wasserweg.",
+      "facts": ["Tiefwasserhafen am San Joaquin River.", "Multikulturelle Bevölkerung.", "Zentrum der Landwirtschaft."]
+    },
+    {
+      "id": "spokane-cities-v2",
+      "description": "Spokane ist die zweitgrößte Stadt im Bundesstaat Washington und liegt am Spokane River. Die Stadt ist bekannt für ihre natürliche Schönheit und den Riverfront Park.",
+      "facts": ["Am Spokane River gelegen.", "Austragungsort der Expo '74.", "Tor zu Outdoor-Aktivitäten."]
+    },
+    {
+      "id": "little-rock-cities-v2",
+      "description": "Little Rock ist die Hauptstadt von Arkansas und ein wichtiges Zentrum für Wirtschaft, Kultur und Regierung im Bundesstaat. Die Stadt ist reich an Geschichte.",
+      "facts": ["Am Arkansas River gelegen.", "Zentrale Rolle in der Bürgerrechtsbewegung.", "Heimat des Clinton Presidential Center."]
+    },
+    {
+      "id": "salt-lake-city-cities-v2",
+      "description": "Salt Lake City ist die Hauptstadt von Utah und das Zentrum der mormonischen Kultur und Religion. Die Stadt ist umgeben von beeindruckenden Bergen und dem Großen Salzsee.",
+      "facts": ["Hauptstadt von Utah.", "Sitz der Kirche Jesu Christi der Heiligen der Letzten Tage.", "Gastgeber der Olympischen Winterspiele 2002."]
+    },
+    {
+      "id": "charleston-sc-cities-v2",
+      "description": "Charleston, South Carolina, ist eine historische Hafenstadt mit einer gut erhaltenen Architektur und einem reichen kulturellen Erbe. Sie ist bekannt für ihre südliche Gastfreundschaft.",
+      "facts": ["Historische Hafenstadt.", "Bekannt für antebellum Architektur.", "Wichtiger Seehafen im Bürgerkrieg."]
+    },
+    {
+      "id": "springfield-il-cities-v2",
+      "description": "Springfield ist die Hauptstadt von Illinois und eng mit der Geschichte von Abraham Lincoln verbunden. Zahlreiche historische Stätten erinnern an sein Leben und Wirken.",
+      "facts": ["Hauptstadt von Illinois.", "Wichtige Stätten zu Abraham Lincoln.", "Zentrum der Staatsregierung."]
+    },
+    {
+      "id": "lincoln-ne-cities-v2",
+      "description": "Lincoln ist die Hauptstadt von Nebraska und ein wichtiges Bildungs- und Wirtschaftszentrum. Die Stadt ist bekannt für ihre freundliche Atmosphäre und Grünflächen.",
+      "facts": ["Hauptstadt von Nebraska.", "Heimat der University of Nebraska-Lincoln.", "Moderne Architektur des State Capitol."]
+    }
+  ]
+}

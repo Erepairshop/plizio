@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "gorongosa-national-park-life-v2",
+      "description": "A world-renowned wildlife refuge and ecological restoration success story in central Mozambique.",
+      "facts": ["Rich biodiversity", "Gorongosa Mountain ecosystem", "Wildlife conservation site", "Major tourist attraction"]
+    },
+    {
+      "id": "limpopo-national-park-life-v2",
+      "description": "A vast protected area forming part of the Great Limpopo Transfrontier Park with South Africa and Zimbabwe.",
+      "facts": ["Transfrontier park component", "Home to African elephants", "Vast savanna habitat", "Conservation area"]
+    },
+    {
+      "id": "bazaruto-archipelago-life-v2",
+      "description": "A stunning group of islands off the coast, famous for its marine life and coral reefs.",
+      "facts": ["Marine protected area", "Dugong habitat", "Crystal clear waters", "Coral reef ecosystem"]
+    },
+    {
+      "id": "quirimba-archipelago-life-v2",
+      "description": "A breathtaking island chain known for its untouched natural beauty and vibrant marine life.",
+      "facts": ["Indian Ocean archipelago", "Divers' paradise", "Protected marine park", "Diverse marine fauna"]
+    },
+    {
+      "id": "zinave-national-park-life-v2",
+      "description": "An important park contributing to the restoration of Mozambican wildlife populations.",
+      "facts": ["Inland park", "Restoration project site", "Diverse wildlife species", "Savanna habitat"]
+    },
+    {
+      "id": "banhine-national-park-life-v2",
+      "description": "A protected area known for its unique wetland and dryland savanna landscapes.",
+      "facts": ["Important wetland area", "Diverse birdlife", "Dryland savanna ecosystem", "Conservation priority"]
+    },
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "A coastal reserve known for its pristine beaches and scenic mangrove forests.",
+      "facts": ["Coastal reserve", "Mangrove ecosystem", "Pristine beach area", "Marine conservation"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "A region known for its significant agricultural production, particularly cotton and cashews.",
+      "facts": ["Agricultural hub", "Cotton producer", "Cashew growing region", "Regional economy"]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "description": "A province with a long history of sugar production facilitated by the Zambezi River valley.",
+      "facts": ["Sugar production hub", "Zambezi River valley", "Agricultural heritage", "Plantation farming"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "A highland region suitable for high-quality coffee cultivation.",
+      "facts": ["Coffee growing area", "Manica Highlands", "Climate-suitable region", "Agricultural niche"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "The Niassa province has historically been an important area for tobacco cultivation.",
+      "facts": ["Tobacco producing region", "Northern Mozambique", "Plantation agriculture", "Rural economy"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "The Tunduru Botanical Gardens in Maputo provide a green space for local flora.",
+      "facts": ["Maputo landmark", "Botanical garden", "Green space", "Local plant species"]
+    },
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "A maritime-focused area promoting marine research and conservation in the Beira region.",
+      "facts": ["Coastal conservation", "Marine study area", "Beira-based park", "Oceanic biodiversity"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "A kid-friendly discovery site on the historic Island of Mozambique.",
+      "facts": ["Educational destination", "Island exploration", "Kid-focused learning", "Historical setting"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "A popular beach known for its safe and enjoyable activities for families and children.",
+      "facts": ["Coastal activity hub", "Family-friendly beach", "Swimming spot", "Marine exploration"]
+    }
+  ]
+}

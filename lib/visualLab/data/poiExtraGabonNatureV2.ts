@@ -48,9 +48,9 @@ export const poiExtraGabonNatureV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Wichtigster Nebenfluss des Ogooué", "Länge: ca. 500 km", "Beherbergt die Kongou-Fälle", "Teil des Ivindo-Nationalparks", "Fließt durch äquatorialen Regenwald", "Heimat seltener Primaten"],
-      hu: ["Az Ogooué legfontosabb mellékfolyója", "Hossz: kb. 500 km", "Itt találhatók a Kongou-vízesések", "Az Ivindo Nemzeti Park része", "Egyenlítői esőerdőn folyik át", "Ritka főemlősök élőhelye"],
-      ro: ["Cel mai important afluent al Ogooué", "Lungime: aprox. 500 km", "Găzduiește Cascadele Kongou", "Parte a Parcului Național Ivindo", "Curge prin pădurea tropicală ecuatorială", "Habitat pentru primate rare"],
-      en: ["Main tributary of the Ogooué", "Length: approx. 500 km", "Home to the Kongou Falls", "Part of Ivindo National Park", "Flows through equatorial rainforest", "Habitat for rare primates"]
+      hu: ["Az Ogooué legfontosabb mellékfolyója", "Hossz: kb. 500 km", "Az Ivindo Nemzeti Park része", "Egyenlítői esőerdőn folyik át", "Ritka főemlősök élőhelye"],
+      ro: ["Cel mai important afluent al Ogooué", "Lungime: aprox. 500 km", "Parte a Parcului Național Ivindo", "Curge prin pădurea tropicală ecuatorială", "Habitat pentru primate rare"],
+      en: ["Main tributary of the Ogooué", "Length: approx. 500 km", "Part of Ivindo National Park", "Flows through equatorial rainforest", "Habitat for rare primates"]
     }, image: "/poi-images/ivindo-river-nature-v2.webp"},
   {
     id: "ngounie-river-nature-v2",
@@ -72,10 +72,10 @@ export const poiExtraGabonNatureV2: POI[] = [
       en: ["Tributary of the Ogooué", "Important for agriculture"]
     },
     factsAdvanced: {
-      de: ["Nebenfluss des Ogooué", "Region: Ngounié", "Wichtige Lebensader", "Fruchtbare Böden am Ufer", "Hauptort: Mouila am Fluss", "Regionale Fischereiquelle"],
-      hu: ["Az Ogooué mellékfolyója", "Régió: Ngounié", "Fontos éltető elem", "Termékeny part menti talaj", "Központ: Mouila a folyónál", "Regionális halászati forrás"],
-      ro: ["Afluent al Ogooué", "Regiune: Ngounié", "Arteră vitală", "Soluri fertile de-a lungul malurilor", "Centru: Mouila pe râu", "Sursă regională de pescuit"],
-      en: ["Tributary of the Ogooué", "Region: Ngounié", "Important lifeblood", "Fertile soil along the banks", "Hub: Mouila on the river", "Regional fishing source"]
+      de: ["Region: Ngounié", "Wichtige Lebensader", "Fruchtbare Böden am Ufer", "Hauptort: Mouila am Fluss", "Regionale Fischereiquelle"],
+      hu: ["Régió: Ngounié", "Fontos éltető elem", "Termékeny part menti talaj", "Központ: Mouila a folyónál", "Regionális halászati forrás"],
+      ro: ["Regiune: Ngounié", "Arteră vitală", "Soluri fertile de-a lungul malurilor", "Centru: Mouila pe râu", "Sursă regională de pescuit"],
+      en: ["Region: Ngounié", "Important lifeblood", "Fertile soil along the banks", "Hub: Mouila on the river", "Regional fishing source"]
     }, image: "/poi-images/ngounie-river-nature-v2.webp"},
   {
     id: "nyanga-river-nature-v2",
@@ -122,10 +122,10 @@ export const poiExtraGabonNatureV2: POI[] = [
       en: ["Over 1,500 m high", "Part of the Chaillu Massif"]
     },
     factsAdvanced: {
-      de: ["Höhe: > 1.500 m", "Teil des Chaillu-Massivs", "Provinz: Ogooué-Lolo", "Tropisches Hochlandklima", "Hohe Artenvielfalt", "Wichtiger ökologischer Lebensraum"],
-      hu: ["Magasság: > 1500 m", "A Chaillu-masszívum része", "Tartomány: Ogooué-Lolo", "Trópusi hegyvidéki éghajlat", "Magas biodiverzitás", "Fontos ökológiai élőhely"],
-      ro: ["Înălțime: > 1.500 m", "Parte a Masivului Chaillu", "Provincia: Ogooué-Lolo", "Climat montan tropical", "Biodiversitate ridicată", "Habitat ecologic important"],
-      en: ["Height: > 1,500 m", "Part of Chaillu Massif", "Province: Ogooué-Lolo", "Tropical highland climate", "High biodiversity", "Important ecological habitat"]
+      de: ["Höhe: > 1.500 m", "Provinz: Ogooué-Lolo", "Tropisches Hochlandklima", "Hohe Artenvielfalt", "Wichtiger ökologischer Lebensraum"],
+      hu: ["Magasság: > 1500 m", "Tartomány: Ogooué-Lolo", "Trópusi hegyvidéki éghajlat", "Magas biodiverzitás", "Fontos ökológiai élőhely"],
+      ro: ["Înălțime: > 1.500 m", "Provincia: Ogooué-Lolo", "Climat montan tropical", "Biodiversitate ridicată", "Habitat ecologic important"],
+      en: ["Height: > 1,500 m", "Province: Ogooué-Lolo", "Tropical highland climate", "High biodiversity", "Important ecological habitat"]
     }, image: "/poi-images/mount-iboundji-nature-v2.webp"},
   {
     id: "mount-milondo-nature-v2",

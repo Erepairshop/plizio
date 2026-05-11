@@ -1,0 +1,14 @@
+{
+  "lang": "ro",
+  "country": "Tanzania",
+  "files": [
+    "lib/visualLab/data/poiExtraTanzaniaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "eyasi-see-nature-v2",
+      "description": "Lacul Eyasi este un lac sezonier sărat situat în zona de rift, fiind un punct crucial pentru biodiversitatea locală și habitatul multor specii de păsări migratoare.",
+      "facts": ["Lac sărat sezonier", "Zona de rift", "Biodiversitate", "Păsări migratoare"]
+    }
+  ]
+}

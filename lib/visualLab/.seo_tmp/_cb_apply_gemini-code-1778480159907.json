@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "uno-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Uno ist eine der zentralen Inseln im westlichen Teil des Bijagós-Archipels und stellt ein Musterbeispiel für die harmonische Verzahnung von traditioneller Landnutzung und unberührter Natur dar. Die Insel ist topografisch durch ein flaches Relief geprägt, das von ausgedehnten Palmenhainen (Elaeis guineensis) und dichten Küstenwäldern dominiert wird. Die ökologische Bedeutung von Uno liegt vor allem in seinen komplexen Gezeitenzonen; bei Ebbe entstehen weite Schlickflächen, die als lebenswichtige Nahrungsgründe für tausende wandernde Watvögel dienen. Die Küstenlinie wird von unberührten Mangrovenwäldern gesäumt, die nicht nur die Erosion verhindern, sondern auch als Kinderstube für zahlreiche marine Arten fungieren. Uno ist zudem ein Zentrum der traditionellen Bijagó-Kultur, wobei die Bewohner in einem System leben, das den Schutz bestimmter Naturressourcen durch religiöse Tabus vorschreibt. Im Inselinneren finden sich Savannenflächen, die während der Regenzeit in sattem Grün erstrahlen. Die Abgeschiedenheit von Uno hat dazu geführt, dass sich hier eine ursprüngliche Flora und Fauna erhalten konnte, die in anderen Teilen Westafrikas bereits verschwunden ist. Für die Wissenschaft ist Uno ein bedeutender Ort zur Untersuchung der Resilienz von Inselökosystemen gegenüber dem globalen Klimawandel.",
+        "hu": "Uno a Bijagós-szigetcsoport nyugati részének egyik központi szigete, amely kiváló példája a hagyományos földhasználat és az érintetlen természet harmonikus összefonódásának. A sziget domborzata sík, tájképét kiterjedt olajpálma-ligetek (Elaeis guineensis) és sűrű parti erdők uralják. Uno ökológiai jelentősége elsősorban a komplex árapály-zónáiban rejlik; apálykor hatalmas iszapos területek válnak szabaddá, amelyek vándormadarak ezrei számára biztosítanak létfontosságú táplálékot. A partvonalat érintetlen mangroveerdők szegélyezik, amelyek nemcsak az eróziót gátolják, hanem számos tengeri faj szaporodóhelyeként is funkcionálnak. Uno emellett a hagyományos bijagó kultúra egyik bástyája, ahol a lakók olyan rendszerben élnek, amely vallási tabukon keresztül írja elő bizonyos természeti erőforrások védelmét. A sziget belsejében szavannás területek találhatók, amelyek az esős évszakban dús zöldbe borulnak. Uno elszigeteltsége lehetővé tette egy olyan őshonos flóra és fauna megőrzését, amely Nyugat-Afrika más részein már eltűnt. A tudomány számára Uno fontos helyszín a szigeti ökoszisztémák globális klímaváltozással szembeni ellenállóképességének vizsgálatához.",
+        "ro": "Uno este una dintre insulele centrale din partea vestică a Arhipelagului Bijagós, reprezentând un model exemplar de interconectare armonioasă între utilizarea tradițională a terenului și natura virgină. Topografia insulei este caracterizată printr-un relief plat, dominat de plantații extinse de palmieri de ulei (Elaeis guineensis) și păduri de coastă dense. Importanța ecologică a insulei Uno rezidă în special în zonele sale complexe de maree; la reflux, apar suprafețe vaste de mâl care servesc drept locuri de hrănire vitale pentru mii de păsări limicole migratoare. Linia de coastă este mărginită de păduri de mangrove virgine, care nu doar previn eroziunea, ci funcționează și ca pepiniere pentru numeroase specii marine. Uno este, de asemenea, un centru al culturii tradiționale Bijagó, locuitorii trăind într-un sistem care impune protejarea anumitor resurse naturale prin tabuuri religioase. În interiorul insulei se găsesc zone de savană care devin verzi luxuriante în timpul sezonului ploios. Izolarea insulei Uno a permis conservarea unei flore și faune originale care au dispărut deja în alte părți ale Africii de Vest. Pentru comunitatea științifică, Uno este un loc semnificativ pentru studierea rezilienței ecosistemelor insulare în fața schimbărilor climatice globale.",
+        "en": "Uno is one of the central islands in the western part of the Bijagós Archipelago, serving as a prime example of the harmonious integration between traditional land use and untouched nature. The island's topography is characterized by flat terrain dominated by extensive oil palm groves (Elaeis guineensis) and dense coastal forests. Uno's ecological importance lies primarily in its complex intertidal zones; at low tide, vast mudflats emerge, providing vital feeding grounds for thousands of migratory wading birds. The coastline is fringed by pristine mangrove forests that not only prevent erosion but also function as nurseries for numerous marine species. Uno is also a stronghold of traditional Bijagó culture, with residents living within a system that mandates the protection of certain natural resources through religious taboos. In the island's interior, savanna areas can be found that turn lush green during the rainy season. Uno's remoteness has allowed for the preservation of original flora and fauna that have already vanished in other parts of West Africa. For the scientific community, Uno is a significant site for studying the resilience of island ecosystems to global climate change."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Uno ist Teil des UNESCO-Biosphärenreservats Bolama-Bijagós.",
+          "Die Insel verfügt über bedeutende natürliche Bestände der Wilden Ölpalme.",
+          "An den Stränden von Uno nisten regelmäßig grüne Meeresschildkröten.",
+          "Es gibt auf der Insel mehrere heilige Wälder, die für Fremde unzugänglich sind.",
+          "Die Bewohner von Uno praktizieren nachhaltigen Fischfang mit traditionellen Methoden.",
+          "Die Insel ist ein wichtiger Zwischenstopp für Zugvögel auf der ostatlantischen Route."
+        ],
+        "hu": [
+          "Uno az UNESCO Bolama-Bijagós Bioszféra-rezervátum szerves része.",
+          "A sziget az afrikai olajpálma egyik legfontosabb természetes lelőhelye a térségben.",
+          "A homokos partokon rendszeresen fészkelnek közönséges levesteknősök.",
+          "Több olyan szent erdő található a szigeten, ahová idegeneknek tilos a belépés.",
+          "A helyi közösségek fenntartható, hagyományos halászati módszereket alkalmaznak.",
+          "A sziget a kelet-atlanti vonulási útvonal madarainak egyik fő pihenőhelye."
+        ],
+        "ro": [
+          "Insula Uno face parte din Rezervația Biosferei UNESCO Bolama-Bijagós.",
+          "Dispune de rezerve naturale importante de palmier de ulei sălbatic.",
+          "Țestoasele verzi folosesc plajele insulei Uno pentru depunerea ouălor.",
+          "Există mai multe păduri sacre pe insulă, inaccesibile persoanelor străine.",
+          "Locuitorii practică un pescuit durabil utilizând metode ancestrale.",
+          "Uno este un punct de oprire crucial pentru păsările migratoare pe ruta est-atlantică."
+        ],
+        "en": [
+          "Uno is a key component of the UNESCO Bolama-Bijagós Biosphere Reserve.",
+          "The island hosts significant natural stands of the wild African oil palm.",
+          "Green sea turtles regularly utilize Uno's beaches for nesting sites.",
+          "Several sacred forests on the island are strictly off-limits to outsiders.",
+          "The residents of Uno practice sustainable fishing using traditional techniques.",
+          "The island serves as a vital stopover for migratory birds on the East Atlantic Flyway."
+        ]
+      }
+    },
+    {
+      "id": "canhabaque-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Canhabaque, oft auch als Roxa bekannt, gilt als eine der spirituell und ökologisch bedeutendsten Inseln des Bijagós-Archipels. Die Natur auf Canhabaque ist geprägt von einer außergewöhnlichen Dichte an tropischem Primärwald und weitläufigen Palmensavannen. Im Gegensatz zu stärker erschlossenen Inseln hat Canhabaque seine ursprüngliche ökologische Dynamik weitgehend bewahrt, was vor allem auf die strengen traditionellen Gesetze der lokalen Bijagó-Bevölkerung zurückzuführen ist. Die Insel ist von einem komplexen System aus Sandbänken und Kanälen umgeben, die eine enorme Vielfalt an mariner Fauna beherbergen, darunter Rochen und seltene Haiarten. Besonders markant ist die Flora der Insel, zu der riesige Affenbrotbäume und Mahagonigewächse gehören, die oft als heilige Orte betrachtet werden. Die dichte Vegetation bietet einen kritischen Lebensraum für verschiedene Primatenarten und eine reiche Vogelwelt. Die Küstenzonen von Canhabaque sind zudem wichtige Nistplätze für Meeresschildkröten. Für den Naturschutz ist die Insel von zentraler Bedeutung, da sie als Reservoir für genetische Vielfalt dient und zeigt, wie indigene Verwaltungssysteme den Erhalt der Biosphäre effektiver sichern können als rein staatliche Verordnungen.",
+        "hu": "Canhabaque, amelyet gyakran Roxa néven is emlegetnek, a Bijagós-szigetcsoport egyik spirituálisan és ökológiailag legjelentősebb szigetének számít. Canhabaque természetét a trópusi őserdők rendkívüli sűrűsége és kiterjedt pálmaszavannák jellemzik. A fejlettebb szigetekkel ellentétben Canhabaque nagyrészt megőrizte eredeti ökológiai dinamikáját, ami elsősorban a helyi bijagó lakosság szigorú hagyományos törvényeinek köszönhető. A szigetet homokpadok és csatornák bonyolult rendszere veszi körül, amelyek a tengeri fauna hatalmas változatosságának adnak otthont, beleértve a rájákat és ritka cápafajokat. Különösen jellegzetes a sziget flórája, amelyhez hatalmas majomkenyérfák és mahagónifélék tartoznak, ezeket gyakran szent helyként tisztelik. A dús növényzet kritikus élőhelyet biztosít különféle főemlősfajoknak és gazdag madárvilágnak. Canhabaque part menti zónái emellett a tengeri teknősök fontos fészkelőhelyei. A természetvédelem szempontjából a sziget központi jelentőségű, mivel a genetikai sokféleség rezervoárjaként szolgál, és megmutatja, hogyan képesek az őshonos irányítási rendszerek hatékonyabban biztosítani a bioszféra megőrzését, mint a tisztán állami rendeletek.",
+        "ro": "Canhabaque, cunoscută adesea și sub numele de Roxa, este considerată una dintre cele mai semnificative insule din punct de vedere spiritual și ecologic din Arhipelagul Bijagós. Natura de pe Canhabaque este marcată de o densitate excepțională de pădure tropicală primară și savane extinse de palmieri. Spre deosebire de insulele mai dezvoltate, Canhabaque și-a păstrat în mare parte dinamica ecologică originală, fapt datorat în special legilor tradiționale stricte ale populației locale Bijagó. Insula este înconjurată de un sistem complex de bancuri de nisip și canale care adăpostesc o diversitate enormă de faună marină, inclusiv pisici de mare și specii rare de rechini. Flora insulei este deosebit de remarcabilă, incluzând baobabi uriași și specii de mahon, care sunt adesea considerate locuri sacre. Vegetația densă oferă un habitat critic pentru diverse specii de primate și o avifaună bogată. Zonele de coastă din Canhabaque sunt, de asemenea, locuri importante de cuibărit pentru țestoasele marine. Pentru conservarea naturii, insula este de o importanță centrală, servind ca rezervor de diversitate genetică și demonstrând modul în care sistemele de gestionare indigene pot asigura conservarea biosferei mai eficient decât reglementările pur statale.",
+        "en": "Canhabaque, often referred to as Roxa, is regarded as one of the most spiritually and ecologically significant islands in the Bijagós Archipelago. The natural landscape of Canhabaque is defined by an exceptional density of primary tropical forest and sprawling palm savannas. In contrast to more developed islands, Canhabaque has largely maintained its original ecological dynamics, primarily due to the strict traditional laws of the local Bijagó population. The island is encircled by a complex system of sandbanks and channels that support an immense variety of marine fauna, including rays and rare shark species. The island's flora is particularly striking, featuring massive baobabs and mahogany trees that are frequently revered as sacred sites. The dense vegetation provides a critical habitat for various primate species and a rich array of birdlife. Furthermore, the coastal zones of Canhabaque serve as vital nesting grounds for sea turtles. For conservation purposes, the island is of central importance, acting as a reservoir for genetic diversity and illustrating how indigenous management systems can safeguard the biosphere more effectively than purely state-mandated regulations."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Canhabaque ist bekannt für seine gut erhaltenen Primärwälder im Inselinneren.",
+          "Die Insel gilt als eines der kulturellen Zentren des Bijagó-Matriarchats.",
+          "Ein Großteil der Insel ist durch traditionelle religiöse Zonen geschützt.",
+          "In den Gewässern um die Insel leben gefährdete Hammerhaie.",
+          "Die Flora umfasst seltene Heilpflanzen, die nur auf dieser Insel vorkommen.",
+          "Canhabaque ist ein Schwerpunkt für ethnobotanische Forschung im Archipel."
+        ],
+        "hu": [
+          "Canhabaque híres a sziget belsejében található, épségben maradt őserdőiről.",
+          "A sziget a bijagó matriarchális társadalom egyik kulturális központja.",
+          "A terület nagy részét hagyományos vallási övezetek védik a behatástól.",
+          "A sziget körüli vizekben veszélyeztetett pörölycápák is élnek.",
+          "Növényvilága olyan ritka gyógynövényeket tartalmaz, amelyek csak itt találhatók.",
+          "Canhabaque az etnobotanikai kutatások egyik kiemelt helyszíne a szigetvilágban."
+        ],
+        "ro": [
+          "Canhabaque este renumită pentru pădurile sale primare bine conservate în interior.",
+          "Insula este considerată unul dintre centrele culturale ale matriatului Bijagó.",
+          "O mare parte a insulei este protejată prin zone religioase tradiționale.",
+          "În apele din jurul insulei trăiesc rechini-ciocan, specie periclitată.",
+          "Flora include plante medicinale rare care se găsesc doar pe această insulă.",
+          "Canhabaque este un punct focal pentru cercetarea etnobotanică în arhipelag."
+        ],
+        "en": [
+          "Canhabaque is renowned for its well-preserved primary forests in the island's interior.",
+          "The island is considered one of the cultural epicenters of the Bijagó matriarchy.",
+          "A significant portion of the island is protected via traditional religious zones.",
+          "The surrounding waters are a habitat for the endangered scalloped hammerhead shark.",
+          "The flora includes rare medicinal plants found exclusively on this island.",
+          "Canhabaque is a primary site for ethnobotanical research within the archipelago."
+        ]
+      }
+    },
+    {
+      "id": "caravela-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Caravela ist eine der nördlichsten bewohnten Inseln des Bijagós-Archipels und zeichnet sich durch eine besonders wilde und ungestörte Natur aus. Die Insel ist geologisch durch weitläufige weiße Sandstrände an der Westküste und massive Mangrovengürtel an der Ostküste geprägt. Caravela beherbergt einige der wichtigsten marinen Ökosysteme des Landes; die umliegenden flachen Kanäle sind reich an Seegraswiesen, die als Nahrungsquelle für bedrohte Meeresschildkröten dienen. Im Inneren der Insel finden sich dichte Palmwälder und Reste von tropischem Küstenwald, die eine hohe Dichte an endemischen Reptilienarten aufweisen. Die Insel ist zudem ein bedeutendes Brutgebiet für Seevögel, da die menschliche Besiedlung vergleichsweise gering ist und große Gebiete unter dem Schutz traditioneller Gemeinschaften stehen. Caravela fungiert als wichtiger ökologischer Puffer zwischen den tieferen Gewässern des Atlantiks und den flacheren Lagunensystemen des inneren Archipels. Die Abwesenheit von motorisiertem Verkehr und moderner Infrastruktur hat Caravela zu einem Refugium für die Biodiversität gemacht, in dem natürliche Sukzessionsprozesse ungehindert ablaufen können. Für Ökologen ist die Insel ein wertvolles Studienobjekt für die Dynamik ungestörter Küstenökosysteme in den Tropen.",
+        "hu": "Caravela a Bijagós-szigetcsoport egyik legészakibb lakott szigete, amelyet különösen vad és háborítatlan természet jellemez. A szigetet földtanilag a nyugati part menti kiterjedt fehér homokos strandok és a keleti part masszív mangrove-övezetei határozzák meg. Caravela az ország néhány legfontosabb tengeri ökoszisztémájának ad otthont; a környező sekély csatornák gazdagok tengerifű-mezőkben, amelyek a veszélyeztetett tengeri teknősök táplálékforrásául szolgálnak. A sziget belsejében sűrű pálmaerdők és trópusi parti erdőmaradványok találhatók, amelyekben nagy sűrűségben fordulnak elő endemikus hüllőfajok. A sziget emellett a tengeri madarak jelentős költőhelye, mivel az emberi települések száma viszonylag alacsony, és nagy területek állnak a hagyományos közösségek védelme alatt. Caravela fontos ökológiai pufferzónaként funkcionál az Atlanti-óceán mélyebb vizei és a belső szigetvilág sekélyebb lagúnarendszerei között. A gépjárműforgalom és a modern infrastruktúra hiánya Caravelát a biodiverzitás menedékévé tette, ahol a természetes szukcessziós folyamatok akadálytalanul mehetnek végbe. Az ökológusok számára a sziget értékes kutatási objektum a trópusi part menti ökoszisztémák háborítatlan dinamikájának tanulmányozásához.",
+        "ro": "Caravela este una dintre cele mai nordice insule locuite din Arhipelagul Bijagós și se remarcă printr-o natură deosebit de sălbatică și neperturbată. Din punct de vedere geologic, insula este definită prin plaje extinse de nisip alb pe coasta de vest și centuri masive de mangrove pe coasta de est. Caravela adăpostește unele dintre cele mai importante ecosisteme marine din țară; canalele puțin adânci din jur sunt bogate în pajiști de iarbă de mare, care servesc drept sursă de hrană pentru țestoasele marine periclitate. În interiorul insulei se găsesc păduri dense de palmieri și resturi de pădure tropicală de coastă, care prezintă o densitate ridicată de specii de reptile endemice. Insula este, de asemenea, o zonă importantă de cuibărit pentru păsările marine, deoarece așezările umane sunt comparativ puține și zone mari se află sub protecția comunităților tradiționale. Caravela funcționează ca un tampon ecologic important între apele mai adânci ale Atlanticului și sistemele de lagune mai puțin adânci din interiorul arhipelagului. Absența traficului motorizat și a infrastructurii moderne a transformat Caravela într-un refugiu pentru biodiversitate, în care procesele naturale de succesiune se pot desfășura neîngrădit. Pentru ecologiști, insula este un obiect de studiu valoros pentru dinamica ecosistemelor de coastă neperturbate din zonele tropicale.",
+        "en": "Caravela is one of the northernmost inhabited islands in the Bijagós Archipelago, characterized by its particularly wild and undisturbed natural state. Geologically, the island is defined by extensive white sandy beaches along the western coast and massive mangrove belts along the eastern coast. Caravela hosts some of the country's most vital marine ecosystems; the surrounding shallow channels are rich in seagrass meadows, which provide a crucial food source for endangered sea turtles. The island's interior features dense palm forests and remnants of tropical coastal forest, supporting a high density of endemic reptile species. Additionally, the island is a significant breeding ground for seabirds, as human settlement is relatively sparse and large areas are protected by traditional communities. Caravela acts as an essential ecological buffer between the deeper Atlantic waters and the shallower lagoon systems of the inner archipelago. The absence of motorized traffic and modern infrastructure has made Caravela a sanctuary for biodiversity, where natural successional processes can occur unimpeded. For ecologists, the island is a valuable subject for studying the dynamics of undisturbed tropical coastal ecosystems."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Caravela hat eine der geringsten Bevölkerungsdichten im gesamten Archipel.",
+          "Die Insel ist für ihre riesigen Affenbrotbäume an der Küste bekannt.",
+          "Seegraswiesen um Caravela sind ein kritischer Lebensraum für Suppenschildkröten.",
+          "Die Insel verfügt über natürliche Süßwasserreservoirs im Inselinneren.",
+          "Caravela ist ein wichtiger Referenzpunkt für den Schutz von Küstenmangroven.",
+          "Traditionelle Bijagó-Zeremonien finden hier oft in unberührten Naturräumen statt."
+        ],
+        "hu": [
+          "Caravela az egész szigetcsoport egyik legalacsonyabb népsűrűségű tagja.",
+          "A sziget a part mentén található hatalmas majomkenyérfáiról nevezetes.",
+          "A Caravela körüli tengerifű-mezők a levesteknősök kritikus élőhelyei.",
+          "A sziget belsejében természetes édesvízkészletek találhatók.",
+          "Caravela fontos viszonyítási pont a parti mangrovék védelme szempontjából.",
+          "A hagyományos bijagó szertartásokat itt gyakran érintetlen természeti környezetben tartják."
+        ],
+        "ro": [
+          "Caravela are una dintre cele mai scăzute densități ale populației din întregul arhipelag.",
+          "Insula este cunoscută pentru baobabii săi uriași situați pe coastă.",
+          "Pajiștile de iarbă de mare din jurul Caravelei sunt un habitat critic pentru țestoasele verzi.",
+          "Insula dispune de rezervoare naturale de apă dulce în interior.",
+          "Caravela este un punct de referință important pentru protecția mangrovelor de coastă.",
+          "Ceremoniile tradiționale Bijagó au loc aici adesea în spații naturale virgine."
+        ],
+        "en": [
+          "Caravela possesses one of the lowest population densities in the entire archipelago.",
+          "The island is famous for the massive baobab trees lining its coast.",
+          "Seagrass meadows around Caravela are a critical habitat for green sea turtles.",
+          "The island features natural freshwater reservoirs within its interior.",
+          "Caravela is an important reference point for the conservation of coastal mangroves.",
+          "Traditional Bijagó ceremonies here are often conducted in pristine natural settings."
+        ]
+      }
+    },
+    {
+      "id": "carache-island-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Carache ist die Nachbarinsel von Caravela im nördlichen Bijagós-Archipel und stellt ein ökologisch diverses System aus marinen und terrestrischen Habitaten dar. Die Natur auf Carache zeichnet sich durch eine stark zerklüftete Küstenlinie aus, die zahlreiche geschützte Buchten und Lagunen bildet. Diese geografische Besonderheit fördert eine außergewöhnliche Fischvielfalt und macht die Gewässer um Carache zu einem der ertragreichsten Fischgründe der Region. Im Inneren der Insel dominieren weite Grassavannen, die von markanten Lateritformationen unterbrochen werden, sowie isolierte Waldinseln mit dichter tropischer Vegetation. Carache ist ein wichtiger Rückzugsort für verschiedene Arten von Landkrabben und Reptilien, die in den feuchten Niederungen der Insel ideale Bedingungen finden. Die Flora ist geprägt durch eine Mischung aus Nutzpflanzen wie der Ölpalme und wilden Arten der westafrikanischen Küstenzone. Trotz der traditionellen landwirtschaftlichen Nutzung durch die Bijagó-Bevölkerung bleibt der ökologische Fußabdruck gering, da die Bewirtschaftung nach jahrhundertealten, nachhaltigen Prinzipien erfolgt. Die Insel spielt eine entscheidende Rolle im Verbund des Biosphärenreservats, insbesondere als Korridor für wandernde Arten zwischen den nördlichen und zentralen Inseln des Archipels.",
+        "hu": "Carache a Bijagós-szigetcsoport északi részén található Caravela szomszédságában, és a tengeri, valamint szárazföldi élőhelyek ökológiailag változatos rendszerét képviseli. Carache természetét az erősen tagolt partvonal jellemzi, amely számos védett öblöt és lagúnát alkot. Ez a földrajzi jellegzetesség elősegíti a halvilág rendkívüli sokszínűségét, és Carache környéki vizeket a régió egyik legbőségesebb halászterületévé teszi. A sziget belsejében tágas füves szavannák dominálnak, amelyeket jellegzetes lateritformációk szakítanak meg, valamint elszigetelt erdőfoltok találhatók sűrű trópusi növényzettel. Carache fontos menedékhelye különféle szárazföldi rákfajoknak és hüllőknek, amelyek a sziget nedves mélyföldjein ideális körülményeket találnak. A flórát olyan haszonnövények keveréke jellemzi, mint az olajpálma, valamint a nyugat-afrikai part menti zóna vadon élő fajai. A bijagó lakosság hagyományos mezőgazdasági tevékenysége ellenére az ökológiai lábnyom csekély marad, mivel a gazdálkodás évszázados, fenntartható elvek szerint folyik. A sziget döntő szerepet játszik a bioszféra-rezervátum hálózatában, különösen mint a szigetvilág északi és középső szigetei közötti vándorló fajok folyosója.",
+        "ro": "Carache este insula vecină a Caravelei în nordul Arhipelagului Bijagós și reprezintă un sistem divers din punct de vedere ecologic de habitate marine și terestre. Natura de pe Carache se caracterizează printr-o linie de coastă foarte fragmentată, care formează numeroase golfuri și lagune protejate. Această particularitate geografică favorizează o diversitate excepțională a peștilor și face din apele din jurul insulei Carache una dintre cele mai productive zone de pescuit din regiune. În interiorul insulei domină savane vaste de iarbă, întrerupte de formațiuni de laterit distinctive, precum și insule izolate de pădure cu vegetație tropicală densă. Carache este un refugiu important pentru diverse specii de crabi de uscat și reptile, care găsesc condiții ideale în zonele joase și umede ale insulei. Flora este marcată de un amestec de plante utile, cum ar fi palmierul de ulei, și specii sălbatice ale zonei de coastă vest-africane. În ciuda utilizării agricole tradiționale de către populația Bijagó, amprenta ecologică rămâne redusă, deoarece exploatarea se face conform unor principii durabile, vechi de secole. Insula joacă un rol crucial în cadrul rezervației biosferei, în special ca coridor pentru speciile migratoare între insulele nordice și cele centrale ale arhipelagului.",
+        "en": "Carache is the neighboring island to Caravela in the northern Bijagós Archipelago and represents an ecologically diverse system of marine and terrestrial habitats. The natural landscape of Carache is distinguished by a highly indented coastline that forms numerous sheltered bays and lagoons. This geographic feature fosters an extraordinary diversity of fish and makes the waters around Carache one of the region's most productive fishing grounds. The island's interior is dominated by expansive grassy savannas punctuated by striking laterite formations and isolated forest fragments with dense tropical vegetation. Carache serves as an important sanctuary for various species of land crabs and reptiles, which find ideal conditions in the island's humid lowlands. The flora is characterized by a blend of economic plants like the oil palm and wild species typical of the West African coastal zone. Despite traditional agricultural use by the Bijagó population, the ecological footprint remains minimal, as farming follows centuries-old sustainable principles. The island plays a critical role within the biosphere reserve network, particularly as a corridor for migratory species traveling between the archipelago's northern and central islands."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Carache ist bekannt für seine hohe Dichte an riesigen afrikanischen Baobab-Bäumen.",
+          "Die Insel verfügt über komplexe Lagunensysteme, die reich an Weichtieren sind.",
+          "Carache ist ein Zentrum für die traditionelle Herstellung von Palmenwein.",
+          "Die Gewässer um die Insel sind ein wichtiger Lebensraum für den Barrakuda.",
+          "Es gibt auf Carache bedeutende archäologische Spuren früherer Besiedlung.",
+          "Die Insel ist ein wichtiger Rastplatz für den seltenen Fischadler."
+        ],
+        "hu": [
+          "Carache híres a hatalmas afrikai majomkenyérfák nagy sűrűségéről.",
+          "A sziget komplex lagúnarendszerekkel rendelkezik, amelyek gazdagok puhatestűekben.",
+          "Carache a hagyományos pálmabor-készítés egyik központja.",
+          "A sziget körüli vizek a barrakudák fontos élőhelyei.",
+          "Carache-n jelentős régészeti nyomok találhatók a korai betelepülésekről.",
+          "A sziget a ritka halászsasok egyik fontos pihenőhelye."
+        ],
+        "ro": [
+          "Carache este cunoscută pentru densitatea ridicată de baobabi africani uriași.",
+          "Insula dispune de sisteme lagunare complexe, bogate în moluște.",
+          "Carache este un centru pentru producția tradițională de vin de palmier.",
+          "Apele din jurul insulei sunt un habitat important pentru baracudă.",
+          "Pe Carache există urme arheologice semnificative ale unor așezări timpurii.",
+          "Insula este un loc de odihnă important pentru vulturul pescar, o specie rară."
+        ],
+        "en": [
+          "Carache is noted for its high concentration of massive African baobab trees.",
+          "The island features complex lagoon systems that are rich in mollusks.",
+          "Carache is a central hub for the traditional production of palm wine.",
+          "The surrounding waters serve as a vital habitat for large barracuda populations.",
+          "Carache contains significant archaeological traces of early human settlement.",
+          "The island is a key resting site for the rare western osprey."
+        ]
+      }
+    },
+    {
+      "id": "varela-coast-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Küste von Varela im äußersten Nordwesten Guinea-Bissaus stellt eine der landschaftlich spektakulärsten und ökologisch einzigartigsten Zonen des Landes dar. Im Gegensatz zu den Mangroven-dominierten Küsten des restlichen Landes ist Varela durch weite, unberührte weiße Sandstrände und ein System aus massiven Küstendünen geprägt. Diese Dünen sind mit einer speziellen Flora aus salzresistenten Gräsern und Sträuchern bewachsen, die den Sand stabilisieren. Hinter dem Dünengürtel erstrecken sich dichte Küstenwälder und Cashew-Plantagen, die eine reiche Fauna beherbergen, darunter verschiedene Affenarten und eine Vielzahl von Reptilien. Die Gewässer vor Varela sind bekannt für ihren Fischreichtum und dienen als wichtiges Durchzugsgebiet für Meeresschildkröten und Delfine. Die Natur hier ist durch den Einfluss des offenen Atlantiks und der Mündung des Casamance-Flusses geprägt, was zu einer hohen marinen Biodiversität führt. Varela ist ein Zentrum für den sanften Ökotourismus, wobei der Schutz der Strände vor Verschmutzung und Überbauung eine zentrale Herausforderung darstellt. Die Ruhe und die Weite der Küstenlandschaft machen Varela zu einem Symbol für die ursprüngliche Schönheit der westafrikanischen Atlantikküste, weit entfernt von jeglicher industrieller Erschließung.",
+        "hu": "Varela partvidéke Guinea-Bissau északnyugati csücskében az ország egyik leglátványosabb és ökológiailag legegyedibb zónája. Az ország többi részének mangrove-uralta partjaival ellentétben Varelát kiterjedt, érintetlen fehér homokos strandok és masszív parti dűnerendszerek jellemzik. Ezeket a dűnéket sószagot tűrő füvek és cserjék speciális flórája borítja, amelyek stabilizálják a homokot. A dűneöv mögött sűrű parti erdők és kesudió-ültetvények húzódnak, amelyek gazdag faunának, köztük különféle majomfajoknak és számos hüllőnek adnak otthont. A Varela előtti vizek híresek halkincsükről, és a tengeri teknősök, valamint a delfinek fontos vonulási területéül szolgálnak. A természetet itt a nyílt Atlanti-óceán és a Casamance-folyó torkolatának hatása alakítja, ami nagy tengeri biodiverzitást eredményez. Varela a szelíd ökoturizmus központja, ahol a strandok szennyeződéstől és a túlépítéstől való védelme központi kihívás. A parti táj csendje és tágassága Varelát a nyugat-afrikai atlanti partvidék eredeti szépségének szimbólumává teszi, távol minden ipari fejlesztéstől.",
+        "ro": "Coasta Varela, situată în extremitatea nord-vestică a Guineei-Bissau, reprezintă una dintre cele mai spectaculoase și unice zone din punct de vedere ecologic din țară. Spre deosebire de coastele dominate de mangrove din restul țării, Varela este caracterizată prin plaje extinse și virgine de nisip alb și un sistem de dune de coastă masive. Aceste dune sunt acoperite cu o floră specială de ierburi și arbuști rezistenți la sare, care stabilizează nisipul. În spatele centurii de dune se întind păduri de coastă dense și plantații de caju, care adăpostesc o faună bogată, inclusiv diverse specii de maimuțe și o multitudine de reptile. Apele din fața Varelei sunt renumite pentru bogăția lor piscicolă și servesc ca zonă importantă de tranzit pentru țestoasele marine și delfini. Natura de aici este modelată de influența Atlanticului deschis și a gurii de vărsare a râului Casamance, ceea ce duce la o biodiversitate marină ridicată. Varela este un centru pentru ecoturismul blând, protecția plajelor împotriva poluării și a construcțiilor excesive fiind o provocare centrală. Liniștea și vastitatea peisajului de coastă fac din Varela un simbol al frumuseții originale a coastei atlantice vest-africane, departe de orice dezvoltare industrială.",
+        "en": "The Varela Coast in far northwestern Guinea-Bissau is one of the country's most spectacular and ecologically unique regions. In contrast to the mangrove-dominated coastlines elsewhere in the country, Varela is characterized by expansive, pristine white sandy beaches and a system of massive coastal dunes. These dunes are vegetated with specialized salt-tolerant grasses and shrubs that stabilize the sand. Behind the dune belt lie dense coastal forests and cashew plantations that support a rich fauna, including various monkey species and a multitude of reptiles. The waters off Varela are renowned for their abundance of fish and serve as a vital transit area for sea turtles and dolphins. The natural environment here is shaped by the influence of the open Atlantic Ocean and the mouth of the Casamance River, resulting in high marine biodiversity. Varela is a center for sustainable ecotourism, with the protection of beaches from pollution and overdevelopment representing a primary challenge. The tranquility and vastness of the coastal landscape make Varela a symbol of the original beauty of the West African Atlantic coast, far removed from industrial development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Varela besitzt die einzigen bedeutenden Küstendünen von Guinea-Bissau.",
+          "Die Strände von Varela gehören zu den weißesten in ganz Westafrika.",
+          "Die Region ist ein wichtiger Nistplatz für die Oliv-Bastardschildkröte.",
+          "Varela liegt unmittelbar an der Grenze zur senegalesischen Region Casamance.",
+          "Die Küstenwälder beherbergen seltene Populationen des Roten Stummelaffen.",
+          "Das Meer vor Varela ist ein Hotspot für den Sportfischfang in Westafrika."
+        ],
+        "hu": [
+          "Varela rendelkezik Guinea-Bissau egyetlen jelentős parti dűnerendszerével.",
+          "Varela strandjai a legfehérebbek közé tartoznak egész Nyugat-Afrikában.",
+          "A régió az olivzöld fattyúteknős fontos fészkelőhelye.",
+          "Varela közvetlenül a szenegáli Casamance régió határán fekszik.",
+          "A parti erdőkben ritka vörös kolobuszmajom-populációk élnek.",
+          "A Varela előtti tenger a sporthorgászat egyik központja Nyugat-Afrikában."
+        ],
+        "ro": [
+          "Varela deține singurele dune de coastă semnificative din Guineea-Bissau.",
+          "Plajele din Varela sunt printre cele mai albe din întreaga Africă de Vest.",
+          "Regiunea este un loc de cuibărit important pentru țestoasa Olive Ridley.",
+          "Varela este situată imediat la granița cu regiunea senegaleză Casamance.",
+          "Pădurile de coastă adăpostesc populații rare de maimuțe Colobus roșu.",
+          "Marea din fața Varelei este un hotspot pentru pescuitul sportiv în Africa de Vest."
+        ],
+        "en": [
+          "Varela possesses the only significant coastal dune systems in Guinea-Bissau.",
+          "The beaches of Varela are among the whitest in all of West Africa.",
+          "The region serves as a major nesting site for the Olive Ridley sea turtle.",
+          "Varela is located directly on the border with the Senegalese Casamance region.",
+          "The coastal forests are home to rare populations of the Western Red Colobus monkey.",
+          "The waters off Varela are a premier hotspot for sport fishing in West Africa."
+        ]
+      }
+    }
+  ]
+}

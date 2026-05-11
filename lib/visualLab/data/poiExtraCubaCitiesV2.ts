@@ -21,7 +21,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       en: "Pinar del Río serves as the heart of Cuba's tobacco industry, located in the fertile plains of the Vuelta Abajo region, which produces the world's finest cigar leaves. The city acts as the gateway to the Viñales Valley, a UNESCO World Heritage site known for its dramatic limestone mogotes and traditional farming techniques. Geography K7 — Regional economic geography and UNESCO World Heritage sites."
     },
     factsAdvanced: {
-      en: ["Capital of Pinar del Río province", "Center of Cuban tobacco production", "Gateway to the Viñales Valley (UNESCO)", "Founded in 1669", "Neoclassical architecture", "Heart of the Vuelta Abajo region"]
+      en: ["Capital of Pinar del Río province", "Center of Cuban tobacco production", "Gateway to the Viñales Valley (UNESCO)", "Neoclassical architecture", "Heart of the Vuelta Abajo region"]
     },
     
     
@@ -89,7 +89,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       en: "Artemisa is the capital of the youngest Cuban province, formerly part of La Habana. Known as the 'Garden of Cuba,' the area is exceptionally fertile, supporting diverse agricultural production, including tropical fruits and vegetables for the nearby capital. The city's growth has been linked to agricultural reform and its strategic location. Geography K8 — Urban development and agricultural sustainability."
     },
     factsAdvanced: {
-      en: ["Capital of Artemisa province", "Known as the Garden of Cuba", "Exceptional soil fertility", "Strategic proximity to Havana", "Center for local fruit production", "Modern provincial administrative hub"]
+      en: ["Capital of Artemisa province", "Exceptional soil fertility", "Strategic proximity to Havana", "Center for local fruit production", "Modern provincial administrative hub"]
     },
     
     
@@ -120,7 +120,7 @@ export const poiExtraCubaCitiesV2: POI[] = [
       en: "San Antonio de los Baños is renowned for its rich cultural history and the International School of Film and Television. Historically, it was also celebrated for its abundant water sources, which facilitated prosperous tobacco and coffee farming. Today, it remains an artistic center of the province. Geography K8 — Cultural centers and their regional economic impact."
     },
     factsAdvanced: {
-      en: ["Home to the International School of Film and Television", "Known for its rich cultural history", "Historically important for tobacco farming", "Located in Artemisa province", "Artistic and academic regional center", "Former hub for coffee production"]
+      en: ["Known for its rich cultural history", "Historically important for tobacco farming", "Located in Artemisa province", "Artistic and academic regional center", "Former hub for coffee production"]
     },
     
     

@@ -1,0 +1,70 @@
+{
+  "lang": "de",
+  "country": "Togo",
+  "files": [
+    "lib/visualLab/data/poiExtraTogoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTogoLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "keve-cities-v2",
+      "description": "Kévé ist eine Stadt in der Region Maritime im Süden Togos. Sie dient als lokales Handelszentrum für die umliegende landwirtschaftliche Region.",
+      "facts": ["Region: Maritime", "Lokales Handelszentrum", "Südtogo"]
+    },
+    {
+      "id": "agou-cities-v2",
+      "description": "Agou liegt am Fuße des Mont Agou, dem höchsten Berg Togos. Die Stadt ist bekannt für den Anbau von Kaffee und Kakao in der fruchtbaren Umgebung.",
+      "facts": ["Höchster Berg Togos nahe", "Kaffee- und Kakaoanbau", "Region: Plateaux"]
+    },
+    {
+      "id": "anie-cities-v2",
+      "description": "Anié ist eine wichtige Stadt in der Region Plateaux an der Hauptverbindungsstraße nach Norden. Sie ist ein Knotenpunkt für den Agrarhandel.",
+      "facts": ["Verkehrsknotenpunkt", "Agrarhandelszentrum", "Region: Plateaux"]
+    },
+    {
+      "id": "wahala-cities-v2",
+      "description": "Wahala ist eine kleine Stadt in der Region Plateaux. Die Gemeinde ist stark durch den landwirtschaftlichen Anbau geprägt.",
+      "facts": ["Landwirtschaftliche Region", "Region: Plateaux"]
+    },
+    {
+      "id": "guerin-kouka-cities-v2",
+      "description": "Guérin-Kouka liegt in der nördlichen Region Kara. Die Stadt ist ein Verwaltungszentrum für die umliegenden ländlichen Gebiete.",
+      "facts": ["Verwaltungssitz", "Region: Kara", "Nördliches Togo"]
+    },
+    {
+      "id": "sabi-lamba-cities-v2",
+      "description": "Sabi-Lamba ist eine Siedlung in der Region Kara. Sie spiegelt die traditionelle Lebensweise der ländlichen Bevölkerung in Nord-Togo wider.",
+      "facts": ["Ländliche Siedlung", "Region: Kara"]
+    },
+    {
+      "id": "sanda-kagbanda-cities-v2",
+      "description": "Sanda-Kagbanda ist ein kleiner Ort in der Region Kara. Die Wirtschaft basiert überwiegend auf kleinbäuerlicher Landwirtschaft.",
+      "facts": ["Traditioneller Ort", "Region: Kara"]
+    },
+    {
+      "id": "sirka-cities-v2",
+      "description": "Sirka liegt in der Region Kara und ist von typischer Savannenlandschaft umgeben. Die lokale Gemeinschaft orientiert sich an der Subsistenzlandwirtschaft.",
+      "facts": ["Savannenregion", "Region: Kara"]
+    },
+    {
+      "id": "tandjouare-cities-v2",
+      "description": "Tandjouaré ist der Hauptort der gleichnamigen Präfektur in der Region Savanes im äußersten Norden Togos. Sie dient als administrativer Mittelpunkt der Region.",
+      "facts": ["Hauptort der Präfektur", "Region: Savanes", "Nordtogo"]
+    },
+    {
+      "id": "barkoissi-cities-v2",
+      "description": "Barkoissi befindet sich in der Region Savanes. Der Ort ist bekannt für seine Wochenmärkte, die regionale Produkte zusammenbringen.",
+      "facts": ["Region: Savanes", "Lokale Märkte"]
+    },
+    {
+      "id": "bombouaka-cities-v2",
+      "description": "Bombouaka ist eine Stadt in der Region Savanes nahe der Grenze zu Burkina Faso. Sie ist bekannt für ihre medizinischen Einrichtungen und die christliche Mission.",
+      "facts": ["Medizinisches Zentrum", "Region: Savanes", "Grenzregion"]
+    },
+    {
+      "id": "aeroport-terminal-lome-landmarks-v2",
+      "description": "Das moderne Terminal des Flughafens Lomé-Tokoin ist das wichtigste Luftverkehrsdrehkreuz in Togo. Es verbindet die Hauptstadt mit internationalen Destinationen.",
+      "facts": ["Internationaler Flughafen", "Lomé-Tokoin", "Luftverkehrsknotenpunkt"]
+    }
+  ]
+}

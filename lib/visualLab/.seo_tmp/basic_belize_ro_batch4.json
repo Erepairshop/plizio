@@ -1,0 +1,64 @@
+{
+  "lang": "ro",
+  "country": "Belize",
+  "files": [
+    "lib/visualLab/data/poiExtraBelizeReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bladen-branch-relief-v2",
+      "description": "O zonă muntoasă și accidentată din sudul Belizei, care hrănește cursul superior al râului Monkey.",
+      "facts": ["Parte a Rezervației Naturale Bladen", "Teren extrem de dificil și virgin", "Bazin hidrografic vital pentru sud"]
+    },
+    {
+      "id": "chiquibul-basin-relief-v2",
+      "description": "O depresiune vastă situată în Munții Maya, cunoscută pentru sistemele sale de peșteri și biodiversitate.",
+      "facts": ["Cea mai mare zonă protejată din țară", "Adăpostește platoul carstic Chiquibul", "Sursă de apă pentru râul Belize"]
+    },
+    {
+      "id": "dolores-highlands-relief-v2",
+      "description": "Regiune muntoasă situată în extremitatea sudică a districtului Toledo, la granița cu Guatemala.",
+      "facts": ["Altitudini ridicate pentru regiune", "Păduri de nori și climat răcoros", "Zonă izolată cu natură neatinsă"]
+    },
+    {
+      "id": "golden-stream-valley-relief-v2",
+      "description": "O vale fertilă și bogată în biodiversitate, care conectează Munții Maya de coasta Caraibelor.",
+      "facts": ["Coridor biologic important", "Peisaje dominate de păduri tropicale", "Renumită pentru observarea păsărilor"]
+    },
+    {
+      "id": "deep-river-hills-relief-v2",
+      "description": "Dealuri ondulate situate în districtul Toledo, acoperite de păduri dense și savane de pini.",
+      "facts": ["Formațiuni geologice antice", "Habitat pentru numeroase specii de feline", "Zona de colectare a apelor pentru Deep River"]
+    },
+    {
+      "id": "stann-creek-valley-relief-v2",
+      "description": "O vale largă și pitorească, inima industriei de citrice din Belize, înconjurată de dealuri.",
+      "facts": ["Soluri aluvionare extrem de fertile", "Peisaje spectaculoase cu livezi", "Traversată de autostrada Hummingbird"]
+    },
+    {
+      "id": "northern-lowlands-relief-v2",
+      "description": "O zonă de câmpie joasă și plată din nordul Belizei, formată pe un fundament de calcar.",
+      "facts": ["Ideală pentru cultivarea trestiei de zahăr", "Presărată cu lagune și zone umede", "Climat mai uscat decât în sud"]
+    },
+    {
+      "id": "mullins-river-hills-relief-v2",
+      "description": "Dealuri împădurite situate în nordul districtului Stann Creek, oferind protecție coastelor.",
+      "facts": ["Teren accidentat cu vegetație densă", "Bazin de colectare pentru râul Mullins", "Priveliști frumoase spre mare"]
+    },
+    {
+      "id": "sibun-river-hills-relief-v2",
+      "description": "Regiune deluroasă calcaroasă prin care șerpuiește râul Sibun, celebră pentru peșterile sale.",
+      "facts": ["Sistem carstic extins", "Destinație populară pentru ecoturism", "Păduri tropicale umede protejate"]
+    },
+    {
+      "id": "gallon-jug-hills-relief-v2",
+      "description": "Dealuri situate în nord-vestul Belizei, parte a unei mari rezervații private de conservare.",
+      "facts": ["Fostă zonă de extracție a lemnului", "Refugiu sigur pentru jaguari și tapiri", "Gestionare durabilă a resurselor"]
+    },
+    {
+      "id": "toledo-coastal-hills-relief-v2",
+      "description": "O serie de dealuri joase care se întind de-a lungul coastei de sud, oferind un relief variat.",
+      "facts": ["Orizont pitoresc de coastă", "Zonă de tranziție ecologică", "Soluri potrivite pentru cacao și fructe"]
+    }
+  ]
+}

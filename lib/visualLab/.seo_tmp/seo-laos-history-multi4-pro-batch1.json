@@ -1,0 +1,437 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": ["lib/visualLab/data/poiExtraLaosHistoryV2.ts"],
+  "items": [
+    {
+      "id": "wat-phu-history-v2",
+      "descriptionAdvanced": {
+        "de": "Vat Phou ist ein weitläufiger Khmer-Tempelkomplex am Fuße des Berges Phu Kao, dessen früheste Strukturen aus dem 5. Jahrhundert stammen. Die erhaltenen Pavillons und Heiligtümer repräsentieren den Baustil des 11. bis 13. Jahrhunderts und waren ursprünglich dem hinduistischen Gott Shiva geweiht, bevor die Anlage in ein buddhistisches Zentrum umgewandelt wurde. Die Architektur ist durch eine präzise Ost-West-Ausrichtung geprägt, die den Berggipfel mit dem Flussufer des Mekong über eine 1,4 Kilometer lange Prozessionsachse verbindet. Die UNESCO erklärte das Gelände im Jahr 2001 zum Weltkulturerbe, da es eine herausragende Symbiose von natürlicher Landschaft und religiöser Khmer-Baukunst darstellt.",
+        "hu": "A Vat Phou egy hatalmas khmer templomegyüttes a Phu Kao hegy lábánál, amelynek legkorábbi építményei az 5. századból származnak. A ma látható pavilonok és szentélyek a 11-13. századi építészeti stílust képviselik, és eredetileg a hindu Siva istennek szentelték őket, mielőtt buddhista központtá alakították volna át. Az építészetet a pontos kelet-nyugati tájolás jellemzi, amely a hegycsúcsot a Mekong folyó partjával egy 1,4 kilométer hosszú felvonulási tengelyen keresztül köti össze. Az UNESCO 2001-ben a világörökség részévé nyilvánította a területet, mivel a természeti táj és a vallási khmer építészet egyedülálló szimbiózisát mutatja be.",
+        "ro": "Vat Phou este un vast complex de temple khmere situat la baza muntelui Phu Kao, ale cărui prime structuri datează din secolul al V-lea. Pavilioanele și sanctuarele conservate reprezintă stilul arhitectural din secolele XI-XIII și au fost inițial dedicate zeului hindus Shiva, înainte ca situl să fie transformat într-un centru budist. Arhitectura este definită de o aliniere precisă est-vest care conectează vârful muntelui de malul râului Mekong printr-o axă de procesiune lungă de 1,4 kilometri. UNESCO a declarat situl Patrimoniu Mondial în anul 2001, considerându-l o simbioză remarcabilă între peisajul natural și arhitectura religioasă khmeră.",
+        "en": "Vat Phou is an extensive Khmer temple complex at the base of Mount Phu Kao, with its earliest structures dating back to the 5th century. The surviving pavilions and sanctuaries represent the architectural style of the 11th to 13th centuries and were originally dedicated to the Hindu god Shiva before the site was converted into a Buddhist center. The architecture is characterized by a precise east-west alignment connecting the mountain peak to the banks of the Mekong River via a 1.4-kilometer processional axis. UNESCO declared the site a World Heritage location in 2001, recognizing it as an outstanding symbiosis of natural landscape and religious Khmer architecture."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ursprünglich dem Gott Shiva gewidmet",
+          "Älteste Gebäudeteile stammen aus dem 5. Jahrhundert",
+          "Liegt am Fuße des heiligen Berges Phu Kao",
+          "Seit 2001 auf der UNESCO-Welterbeliste",
+          "Besitzt eine 1,4 km lange axiale Struktur",
+          "Zentrum des frühen Chenla-Reiches"
+        ],
+        "hu": [
+          "Eredetileg Siva istennek szentelték",
+          "A legrégebbi épületrészek az 5. századból valók",
+          "A szent Phu Kao hegy lábánál fekszik",
+          "2001 óta UNESCO világörökségi helyszín",
+          "Egy 1,4 km hosszú tengelyes struktúrával rendelkezik",
+          "A korai Csenla birodalom egyik központja volt"
+        ],
+        "ro": [
+          "Dedicat inițial zeului hindus Shiva",
+          "Cele mai vechi structuri datează din secolul al V-lea",
+          "Situat la poalele muntelui sacru Phu Kao",
+          "Inclus în Patrimoniul Mondial UNESCO din 2001",
+          "Prezintă o structură axială de 1,4 kilometri",
+          "A fost un centru al primului imperiu Chenla"
+        ],
+        "en": [
+          "Originally dedicated to the Hindu god Shiva",
+          "Oldest building parts date from the 5th century",
+          "Situated at the base of the sacred Mount Phu Kao",
+          "Inscribed as a UNESCO World Heritage site in 2001",
+          "Features a 1.4 km long axial procession structure",
+          "Served as a center for the early Chenla kingdom"
+        ]
+      }
+    },
+    {
+      "id": "pha-that-luang-history-v2",
+      "descriptionAdvanced": {
+        "de": "Pha That Luang ist eine große, goldbedeckte buddhistische Stupa in Vientiane und gilt als das wichtigste nationale Monument von Laos. König Setthathirath ordnete den Bau im Jahr 1566 an, nachdem er die Hauptstadt von Luang Prabang hierher verlegt hatte. Das Bauwerk wurde über den Ruinen eines älteren Khmer-Tempels errichtet und ist 44 Meter hoch. Es ist in drei architektonische Ebenen unterteilt, die jeweils unterschiedliche Stadien der buddhistischen Lehre repräsentieren, von der materiellen Welt bis hin zum Nichts. Die Stupa wurde mehrfach von burmesischen und siamesischen Invasoren geplündert, insbesondere 1828, und in den 1930er Jahren von den Franzosen rekonstruiert.",
+        "hu": "A Pha That Luang egy nagyméretű, arannyal borított buddhista sztúpa Vientiane városában, amelyet Laosz legfontosabb nemzeti emlékművének tartanak. Széthathirath király rendelte el az építését 1566-ban, miután a fővárost Luang Prabangból ide helyezte át. Az építményt egy régebbi khmer templom romjaira emelték, és 44 méter magas. Három építészeti szintre oszlik, amelyek mindegyike a buddhista tanítások különböző szakaszait képviseli az anyagi világtól a semmiig. A sztúpát a burmai és sziámi hódítók többször is kifosztották, különösen 1828-ban, majd az 1930-as években a franciák állították helyre.",
+        "ro": "Pha That Luang este o mare stupă budistă acoperită cu aur din Vientiane și este considerată cel mai important monument național al Laosului. Regele Setthathirath a ordonat construcția în anul 1566, după ce a mutat capitala de la Luang Prabang aici. Structura a fost ridicată pe ruinele unui vechi templu khmer și are o înălțime de 44 de metri. Este împărțită în trei niveluri arhitecturale, fiecare reprezentând diferite etape ale învățăturilor budiste, de la lumea materială la starea de nimic. Stupa a fost jefuită de mai multe ori de invadatorii birmanezi și siamezi, mai ales în 1828, și reconstruită în anii 1930 de francezi.",
+        "en": "Pha That Luang is a large, gold-covered Buddhist stupa in Vientiane, widely regarded as the most important national monument in Laos. King Setthathirath ordered its construction in 1566 after relocating the capital from Luang Prabang. The structure was built over the ruins of an older Khmer temple and reaches a height of 44 meters. It is divided into three architectural levels, each representing different stages of Buddhist doctrine, from the material world to the state of nothingness. The stupa was repeatedly plundered by Burmese and Siamese invaders, notably in 1828, and was eventually reconstructed by the French in the 1930s."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Errichtet im Jahr 1566 unter König Setthathirath",
+          "Steht auf den Überresten eines alten Khmer-Tempels",
+          "Erreicht eine Höhe von 44 Metern",
+          "Wurde 1828 bei einer siamesischen Invasion zerstört",
+          "In den 1930er Jahren von den Franzosen rekonstruiert",
+          "Besteht aus drei symbolischen architektonischen Ebenen"
+        ],
+        "hu": [
+          "1566-ban épült Széthathirath király uralkodása alatt",
+          "Egy régi khmer templom maradványain áll",
+          "Magassága eléri a 44 métert",
+          "1828-ban egy sziámi invázió során elpusztult",
+          "Az 1930-as években a franciák állították helyre",
+          "Három szimbolikus építészeti szintből áll"
+        ],
+        "ro": [
+          "Construită în 1566 sub regele Setthathirath",
+          "Se află pe rămășițele unui vechi templu khmer",
+          "Atinge o înălțime de 44 de metri",
+          "Distrusă în timpul unei invazii siameze în 1828",
+          "Reconstruită de francezi în anii 1930",
+          "Este formată din trei niveluri arhitecturale simbolice"
+        ],
+        "en": [
+          "Constructed in 1566 under King Setthathirath",
+          "Stands on the remains of an ancient Khmer temple",
+          "Reaches a height of 44 meters",
+          "Destroyed during a Siamese invasion in 1828",
+          "Reconstructed by the French in the 1930s",
+          "Consists of three symbolic architectural levels"
+        ]
+      }
+    },
+    {
+      "id": "patuxai-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Patuxai ist ein massives Kriegerdenkmal im Zentrum von Vientiane, das zwischen 1957 und 1968 errichtet wurde. Es wurde den Laoten gewidmet, die im Kampf um die Unabhängigkeit von Frankreich sowie in früheren Konflikten ihr Leben ließen. Obwohl das Design stark an den Arc de Triomphe in Paris erinnert, ist die Gestaltung durch laotische Motive wie mythologische Kinnari-Figuren und aufwendige Stuckverzierungen geprägt. Der Zement für den Bau wurde ursprünglich von den USA für den Ausbau eines Flughafens geliefert, stattdessen aber für das Monument verwendet, was ihm den Spitznamen 'vertikale Landebahn' einbrachte. Besucher können das Bauwerk besteigen, um einen Panoramablick über die Stadt zu erhalten.",
+        "hu": "A Patuxai egy masszív háborús emlékmű Vientiane központjában, amelyet 1957 és 1968 között építettek. Azoknak a laosziaknak szentelték, akik a Franciaországtól való függetlenségért folytatott küzdelemben és korábbi konfliktusokban vesztették életüket. Bár a dizájn erősen emlékeztet a párizsi Diadalívre, a kialakítást laoszi motívumok, például mitológiai Kinnari figurák és bonyolult stukkódíszítések jellemzik. Az építéshez használt cementet eredetileg az Egyesült Államok szállította egy repülőtér bővítéséhez, de ehelyett az emlékműhöz használták fel, aminek köszönhetően a 'függőleges kifutópálya' becenevet kapta. A látogatók felmászhatnak az építményre, ahonnan panorámás kilátás nyílik a városra.",
+        "ro": "Patuxai este un monument masiv de război în centrul orașului Vientiane, construit între 1957 și 1968. A fost dedicat laotienilor care și-au pierdut viața în lupta pentru independența față de Franța, precum și în conflictele anterioare. Deși designul amintește puternic de Arcul de Triumf din Paris, decorul este caracterizat de motive laotiene, cum ar fi figurile mitologice Kinnari și ornamente complicate din stuc. Cimentul pentru construcție a fost inițial furnizat de SUA pentru extinderea unui aeroport, dar a fost folosit în schimb pentru monument, ceea ce i-a adus porecla de 'pistă verticală'. Vizitatorii pot urca pe structură pentru o vedere panoramică asupra orașului.",
+        "en": "Patuxai is a massive war monument in the center of Vientiane, built between 1957 and 1968. It is dedicated to the Laotian people who lost their lives in the struggle for independence from France, as well as in prior conflicts. Although its design strongly resembles the Arc de Triomphe in Paris, the detailing is characterized by Laotian motifs, such as mythological Kinnari figures and intricate stucco decorations. The cement used for the construction was originally provided by the US for an airport expansion but was diverted to build the monument, earning it the nickname 'the vertical runway'. Visitors can climb the structure to gain a panoramic view of the city."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Errichtet in der Zeit von 1957 bis 1968",
+          "Gewidmet den Opfern des laotischen Unabhängigkeitskampfes",
+          "Erbaut mit Zement, der für einen Flughafen bestimmt war",
+          "Kombiniert französisches Design mit laotischer Ornamentik",
+          "Wird oft als 'vertikale Landebahn' bezeichnet",
+          "Bietet eine Aussichtsplattform über Vientiane"
+        ],
+        "hu": [
+          "1957 és 1968 között építették",
+          "A laoszi függetlenségi harc áldozatainak szentelték",
+          "Egy repülőtérnek szánt cementből épült",
+          "A francia dizájnt laoszi díszítésekkel ötvözi",
+          "Gyakran 'függőleges kifutópályának' is nevezik",
+          "Kilátóval rendelkezik Vientiane városa felett"
+        ],
+        "ro": [
+          "Construit în perioada dintre 1957 și 1968",
+          "Dedicat victimelor luptei pentru independența Laosului",
+          "Construit cu ciment destinat inițial unui aeroport",
+          "Combină designul francez cu ornamentele laotiene",
+          "Este adesea numit 'pista de aterizare verticală'",
+          "Oferă o platformă de observare deasupra orașului Vientiane"
+        ],
+        "en": [
+          "Constructed between the years 1957 and 1968",
+          "Dedicated to the victims of the Laotian independence struggle",
+          "Built using cement originally intended for an airport",
+          "Combines French structural design with Laotian ornamentation",
+          "Frequently referred to as 'the vertical runway'",
+          "Features an observation deck overlooking Vientiane"
+        ]
+      }
+    },
+    {
+      "id": "wat-xieng-thong-history-v2",
+      "descriptionAdvanced": {
+        "de": "Wat Xieng Thong, der 'Tempel der goldenen Stadt', ist das historisch bedeutendste buddhistische Kloster in Luang Prabang. Er wurde 1559 von König Setthathirath nahe dem Zusammenfluss von Mekong und Nam Khan erbaut und blieb bis 1975 unter königlicher Schirmherrschaft. Die Anlage diente als Ort für die Krönung laotischer Könige und entging der Zerstörung durch die chinesischen Schwarzen Flaggen im Jahr 1887. Das Hauptgebäude zeichnet sich durch ein geschwungenes, tief herabreichendes Dach aus, das den klassischen Luang-Prabang-Stil definiert. Ein markantes Merkmal ist das prächtige 'Baum des Lebens'-Mosaik an der westlichen Außenwand sowie die königliche Begräbniskapelle.",
+        "hu": "A Wat Xieng Thong, vagyis az 'Arany Város Temploma' a történelmileg legjelentősebb buddhista kolostor Luang Prabangban. Széthathirath király építtette 1559-ben a Mekong és a Nam Khan folyók találkozásának közelében, és egészen 1975-ig királyi pártfogás alatt állt. Az épületegyüttes a laoszi királyok koronázási helyszíneként szolgált, és 1887-ben megmenekült a kínai fekete zászlósok pusztításától. A főépületet a mélyen lenyúló, ívelt tető jellemzi, amely a klasszikus Luang Prabang-i stílust határozza meg. Kiemelkedő jellemzője a nyugati külső falon található pompás 'Életfa' mozaik, valamint a királyi temetkezési kápolna.",
+        "ro": "Wat Xieng Thong, 'Templul Orașului de Aur', este cea mai importantă mănăstire budistă din Luang Prabang din punct de vedere istoric. A fost construită în 1559 de regele Setthathirath, aproape de confluența râurilor Mekong și Nam Khan, și a rămas sub patronaj regal până în 1975. Complexul a servit drept loc pentru încoronarea regilor laotieni și a scăpat de distrugerea armatei Steagurilor Negre chineze în anul 1887. Clădirea principală se remarcă printr-un acoperiș curbat care coboară adânc, definind stilul clasic din Luang Prabang. O trăsătură distinctivă este magnificul mozaic 'Arborele Vieții' de pe peretele exterior vestic, alături de capela funerară regală.",
+        "en": "Wat Xieng Thong, the 'Temple of the Golden City', is historically the most significant Buddhist monastery in Luang Prabang. Built in 1559 by King Setthathirath near the confluence of the Mekong and Nam Khan rivers, it remained under royal patronage until 1975. The complex served as the site for the coronation of Laotian kings and survived the destruction by the Chinese Black Flag army in 1887. The main structure features a sweeping, low-reaching roof that defines the classic Luang Prabang architectural style. A prominent feature is the exquisite 'Tree of Life' glass mosaic on the western exterior wall, as well as the royal funerary chariot chapel."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im Jahr 1559 von König Setthathirath",
+          "Traditioneller Krönungsort der laotischen Monarchen",
+          "Überstand die Plünderung von 1887 unbeschadet",
+          "Bekannt für das 'Baum des Lebens'-Glasmosaik",
+          "Architektur im klassischen Luang-Prabang-Stil",
+          "Beherbergt einen königlichen Bestattungswagen"
+        ],
+        "hu": [
+          "Széthathirath király alapította 1559-ben",
+          "A laoszi uralkodók hagyományos koronázási helye",
+          "Sértetlenül vészelte át az 1887-es fosztogatást",
+          "Híres a külső falon lévő 'Életfa' üvegmozaikról",
+          "A klasszikus Luang Prabang-i építészeti stílust képviseli",
+          "Egy királyi temetkezési kocsinak is helyet ad"
+        ],
+        "ro": [
+          "Fondat în anul 1559 de către regele Setthathirath",
+          "Locul tradițional de încoronare al monarhilor laotieni",
+          "A supraviețuit intact jefuirii din anul 1887",
+          "Renumit pentru mozaicul de sticlă 'Arborele Vieții'",
+          "Reprezintă stilul arhitectural clasic din Luang Prabang",
+          "Găzduiește un car funerar regal ornamentat"
+        ],
+        "en": [
+          "Founded in 1559 by King Setthathirath",
+          "Traditional coronation site for Laotian monarchs",
+          "Survived the city's 1887 sacking entirely intact",
+          "Renowned for its 'Tree of Life' glass mosaic",
+          "Represents the classic Luang Prabang architectural style",
+          "Houses a heavily gilded royal funerary carriage"
+        ]
+      }
+    },
+    {
+      "id": "haw-kham-history-v2",
+      "descriptionAdvanced": {
+        "de": "Der Königspalast Haw Kham in Luang Prabang wurde 1904 während der französischen Kolonialzeit für König Sisavang Vong und seine Familie errichtet. Das Bauwerk auf dem Gelände eines älteren Palastes kombiniert traditionelle laotische Architekturmotive mit Elementen des französischen Beaux-Arts-Stils, was die duale Machtstruktur der Epoche widerspiegelt. Nach der Abschaffung der Monarchie im Jahr 1975 übernahm die kommunistische Regierung das Gebäude und wandelte es in ein Nationalmuseum um. Zu den bemerkenswertesten Exponaten gehört der Phra Bang, ein historisches goldenes Buddha-Bildnis, das als Schutzpatron des Landes gilt. Die Wohnräume des Königs wurden größtenteils in ihrem ursprünglichen Zustand aus den 1970er Jahren belassen.",
+        "hu": "A Luang Prabang-i Haw Kham királyi palota 1904-ben, a francia gyarmati időszakban épült Sisavang Vong király és családja számára. Egy régebbi palota területén álló építmény a hagyományos laoszi építészeti motívumokat a francia Beaux-Arts stílus elemeivel ötvözi, ami a korszak kettős hatalmi struktúráját tükrözi. A monarchia 1975-ös eltörlése után a kommunista kormány vette át az épületet, és nemzeti múzeummá alakította. A legfigyelemreméltóbb kiállítási tárgyak közé tartozik a Phra Bang, egy történelmi arany Buddha-szobor, amely az ország védőszentjének számít. A király lakóterei nagyrészt az 1970-es évekbeli eredeti állapotukban maradtak fenn.",
+        "ro": "Palatul Regal Haw Kham din Luang Prabang a fost construit în 1904, în timpul perioadei coloniale franceze, pentru regele Sisavang Vong și familia sa. Structura, situată pe locul unui palat mai vechi, combină motivele arhitecturale tradiționale laotiene cu elemente ale stilului Beaux-Arts francez, reflectând structura duală de putere a epocii. După abolirea monarhiei în 1975, guvernul comunist a preluat clădirea și a transformat-o într-un muzeu național. Printre cele mai notabile exponate se numără Phra Bang, o imagine istorică din aur a lui Buddha, considerată patronul spiritual al țării. Camerele de locuit ale regelui au fost păstrate în mare parte în starea lor originală din anii 1970.",
+        "en": "The Royal Palace Haw Kham in Luang Prabang was constructed in 1904 during the French colonial era for King Sisavang Vong and his family. Built on the site of an older palace, the structure combines traditional Laotian architectural motifs with elements of the French Beaux-Arts style, reflecting the dual power structure of the era. Following the abolition of the monarchy in 1975, the communist government took over the building and converted it into a national museum. Among its most notable exhibits is the Phra Bang, a historic gold Buddha image considered the spiritual protector of the country. The king's living quarters have been largely preserved in their original 1970s condition."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Erbaut im Jahr 1904 für König Sisavang Vong",
+          "Mischung aus französischem und laotischem Baustil",
+          "Wurde nach dem Ende der Monarchie 1975 zum Museum",
+          "Beherbergt die heilige Phra-Bang-Buddha-Statue",
+          "Die königlichen Gemächer sind im Originalzustand erhalten",
+          "Zeigt diplomatische Geschenke aus aller Welt"
+        ],
+        "hu": [
+          "1904-ben épült Sisavang Vong király számára",
+          "A francia és a laoszi építészeti stílus keveréke",
+          "A monarchia 1975-ös bukása után múzeum lett",
+          "Itt található a szent Phra Bang Buddha szobor",
+          "A királyi lakosztályok eredeti állapotukban maradtak fenn",
+          "A világ minden tájáról származó diplomáciai ajándékokat mutat be"
+        ],
+        "ro": [
+          "Construit în anul 1904 pentru regele Sisavang Vong",
+          "Un amestec între stilul arhitectural francez și cel laotian",
+          "A devenit muzeu după sfârșitul monarhiei în 1975",
+          "Găzduiește statuia sacră a lui Buddha, Phra Bang",
+          "Apartamentele regale sunt păstrate în starea lor originală",
+          "Expune diverse cadouri diplomatice din întreaga lume"
+        ],
+        "en": [
+          "Constructed in 1904 for King Sisavang Vong",
+          "Features a blend of French and Laotian architectural styles",
+          "Converted into a national museum after the monarchy ended in 1975",
+          "Houses the sacred Phra Bang Buddha palladium",
+          "The royal living quarters remain preserved in their original state",
+          "Displays a collection of diplomatic gifts from around the world"
+        ]
+      }
+    },
+    {
+      "id": "viengxay-caves-history-v2",
+      "descriptionAdvanced": {
+        "de": "Die Höhlen von Viengxay in der Provinz Houaphan bildeten während des Zweiten Indochinakrieges das verborgene Hauptquartier der Pathet Lao. Zwischen 1964 und 1973 dienten diese natürlichen Karstformationen als Zufluchtsort vor den intensiven amerikanischen Bombardements und wurden zu einer unterirdischen Stadt ausgebaut. Bis zu 20.000 Menschen lebten in diesem Netzwerk, das Krankenhäuser, Schulen, Bäckereien, Druckereien und sogar ein Theater umfasste. Jede der Hauptführungspersönlichkeiten der kommunistischen Bewegung, wie Kaysone Phomvihane und Prinz Souphanouvong, hatte ein eigenes Höhlensystem, das teilweise durch dicke Betonmauern und Luftschleusen gegen chemische Angriffe gesichert war.",
+        "hu": "A Houaphan tartományban található Viengxay-barlangok a Pathet Lao rejtett főhadiszállásaként működtek a második indokínai háború idején. 1964 és 1973 között ezek a természetes karsztképződmények menedékként szolgáltak az intenzív amerikai bombázások elől, és valóságos föld alatti várossá fejlesztették őket. Akár 20 000 ember is élt ebben a hálózatban, amely kórházakat, iskolákat, pékségeket, nyomdákat és még egy színházat is magában foglalt. A kommunista mozgalom minden főbb vezetőjének, például Kaysone Phomvihane-nak és Souphanouvong hercegnek saját barlangrendszere volt, amelyeket részben vastag betonfalakkal és légzsilipekkel biztosítottak a vegyi támadások ellen.",
+        "ro": "Peșterile Viengxay din provincia Houaphan au fost sediul ascuns al mișcării Pathet Lao în timpul celui de-al Doilea Război din Indochina. Între 1964 și 1973, aceste formațiuni carstice naturale au servit drept refugiu împotriva bombardamentelor americane intense și au fost extinse într-un oraș subteran. Până la 20.000 de oameni au trăit în această rețea, care includea spitale, școli, brutării, tipografii și chiar un teatru. Fiecare dintre liderii principali ai mișcării comuniste, cum ar fi Kaysone Phomvihane și prințul Souphanouvong, a avut un sistem propriu de peșteri, securizat parțial cu pereți groși de beton și ecluze de aer împotriva atacurilor chimice.",
+        "en": "The Viengxay Caves in Houaphan Province served as the hidden headquarters of the Pathet Lao during the Second Indochina War. Between 1964 and 1973, these natural karst formations functioned as a sanctuary from intense American bombing campaigns and were expanded into a vast underground city. Up to 20,000 people lived in this network, which included hospitals, schools, bakeries, printing presses, and even a theater. Each of the key leaders of the communist movement, such as Kaysone Phomvihane and Prince Souphanouvong, had their own designated cave system, some of which were fortified with thick concrete walls and airlocks to protect against chemical attacks."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Verstecktes Hauptquartier der Pathet Lao während des Krieges",
+          "Schutzraum vor massiven Bombardierungen zwischen 1964 und 1973",
+          "Beherbergte zeitweise bis zu 20.000 Menschen",
+          "Umfasste Krankenhäuser, Schulen und Druckereien",
+          "Gesichert durch Betontüren und spezielle Luftschleusen",
+          "Besteht aus über 400 zugänglichen Kalksteinhöhlen"
+        ],
+        "hu": [
+          "A Pathet Lao rejtett főhadiszállása volt a háború alatt",
+          "Menedéket nyújtott a masszív bombázások elől 1964 és 1973 között",
+          "Időnként akár 20 000 embernek is otthont adott",
+          "Kórházakat, iskolákat és nyomdákat is magában foglalt",
+          "Betonajtók és speciális légzsilipek biztosították a védelmet",
+          "Több mint 400 megközelíthető mészkőbarlangból áll"
+        ],
+        "ro": [
+          "Sediul ascuns al Pathet Lao în timpul războiului",
+          "Adăpost împotriva bombardamentelor masive între 1964 și 1973",
+          "A găzduit uneori până la 20.000 de persoane",
+          "Includea spitale, școli și facilități de tipografie",
+          "Securizat prin uși de beton și ecluze speciale de aer",
+          "Este format din peste 400 de peșteri de calcar accesibile"
+        ],
+        "en": [
+          "Hidden headquarters of the Pathet Lao during the war",
+          "Provided shelter from massive bombings between 1964 and 1973",
+          "Housed up to 20,000 people at its peak capacity",
+          "Contained underground hospitals, schools, and printing presses",
+          "Fortified with concrete blast doors and specialized airlocks",
+          "Consists of a network of over 400 accessible limestone caves"
+        ]
+      }
+    },
+    {
+      "id": "that-ing-hang-history-v2",
+      "descriptionAdvanced": {
+        "de": "That Ing Hang in der Provinz Savannakhet ist eine der verehrtesten religiösen Stätten in Südlaos. Die Ursprünge der Stupa sollen der Legende nach bis in das 16. Jahrhundert zurückreichen, als sie unter der Herrschaft von König Marukhanakhone errichtet wurde, um einen Teil der Wirbelsäule Buddhas zu beherbergen. Der Ort wurde im 16. Jahrhundert vom laotischen König Setthathirath erweitert und restauriert. Architektonisch ist das Monument stark von der Khmer-Kunst beeinflusst, was auf eine noch ältere religiöse Nutzung der Stätte hindeutet, möglicherweise als hinduistischer Schrein. Die Stupa zieht jährlich zahlreiche Pilger aus Laos und dem benachbarten Thailand an, besonders während des Boun Pha That Ing Hang Festivals.",
+        "hu": "A Savannakhet tartományban található That Ing Hang Dél-Laosz egyik leginkább tisztelt vallási helyszíne. A legenda szerint a sztúpa eredete a 16. századra nyúlik vissza, amikor Marukhanakhone király uralkodása alatt építették, hogy otthont adjon Buddha gerincoszlopa egy darabjának. A helyet a 16. században a laoszi Széthathirath király bővítette és restaurálta. Építészetileg a műemléket erősen befolyásolta a khmer művészet, ami arra utal, hogy a helyet korábban, esetleg hindu szentélyként is vallási célokra használták. A sztúpa évente számos zarándokot vonz Laoszból és a szomszédos Thaiföldről, különösen a Boun Pha That Ing Hang fesztivál idején.",
+        "ro": "That Ing Hang din provincia Savannakhet este unul dintre cele mai venerate situri religioase din sudul Laosului. Conform legendei, originile stupei datează din secolul al XVI-lea, când a fost construită în timpul domniei regelui Marukhanakhone pentru a adăposti o parte din coloana vertebrală a lui Buddha. Locul a fost extins și restaurat în secolul al XVI-lea de către regele laotian Setthathirath. Din punct de vedere arhitectural, monumentul este puternic influențat de arta khmeră, ceea ce indică o utilizare religioasă și mai veche a sitului, probabil ca sanctuar hindus. Stupa atrage anual numeroși pelerini din Laos și din Thailanda vecină, în special în timpul festivalului Boun Pha That Ing Hang.",
+        "en": "That Ing Hang in Savannakhet Province is one of the most revered religious sites in southern Laos. According to legend, the origins of the stupa trace back to the 16th century when it was constructed under the rule of King Marukhanakhone to house a relic of Buddha's spine. The site was subsequently expanded and restored in the 16th century by the Laotian King Setthathirath. Architecturally, the monument bears strong influences from Khmer art, suggesting an even older religious use of the site, possibly as a Hindu shrine. The stupa attracts numerous pilgrims annually from both Laos and neighboring Thailand, particularly during the Boun Pha That Ing Hang festival."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Soll eine Reliquie der Wirbelsäule Buddhas enthalten",
+          "Stark von architektonischen Elementen der Khmer beeinflusst",
+          "Restauriert und erweitert im 16. Jahrhundert",
+          "Wichtiger Pilgerort für laotische und thailändische Gläubige",
+          "Austragungsort eines jährlichen großen religiösen Festivals",
+          "Vermutlich ursprünglich eine alte hinduistische Stätte"
+        ],
+        "hu": [
+          "A legenda szerint Buddha gerincének egy ereklyéjét őrzi",
+          "Erősen befolyásolták a khmer építészeti elemek",
+          "A 16. században restaurálták és jelentősen kibővítették",
+          "Fontos zarándokhely a laoszi és thai hívők számára",
+          "Egy évente megrendezett nagy vallási fesztivál helyszíne",
+          "Feltehetően eredetileg egy ősi hindu vallási hely volt"
+        ],
+        "ro": [
+          "Se spune că ar conține o relicvă a coloanei vertebrale a lui Buddha",
+          "Puternic influențat de elementele arhitecturale khmere",
+          "Restaurat și extins semnificativ în secolul al XVI-lea",
+          "Loc de pelerinaj important pentru credincioșii din Laos și Thailanda",
+          "Locul de desfășurare a unui mare festival religios anual",
+          "Probabil, la origine, un vechi lăcaș de cult hindus"
+        ],
+        "en": [
+          "Believed to house a relic of Buddha's spinal column",
+          "Strongly influenced by historic Khmer architectural elements",
+          "Restored and significantly expanded in the 16th century",
+          "Major pilgrimage site for both Laotian and Thai worshippers",
+          "Host to an annual large-scale religious festival",
+          "Thought to have originally been an ancient Hindu religious site"
+        ]
+      }
+    },
+    {
+      "id": "wat-sisaket-history-v2",
+      "descriptionAdvanced": {
+        "de": "Wat Si Saket ist der älteste noch erhaltene Tempel in Vientiane und wurde 1818 unter der Herrschaft von König Anouvong errichtet. Das Kloster hat als einziges größeres religiöses Bauwerk der Stadt die Zerstörung Vientianes durch die siamesische Armee im Jahr 1827 überstanden. Historiker vermuten, dass die thailändisch inspirierte Architektur im frühen Bangkok-Stil – charakterisiert durch eine umlaufende Terrasse und ein fünfstufiges Dach – der Grund für seine Verschonung war. Die inneren Wände des Kreuzganges beherbergen mehr als 2.000 kleine Nischen, in denen sich Miniatur-Buddhafiguren befinden. Insgesamt schätzt man die Anzahl der Buddha-Statuen aus Silber, Keramik und Holz in der Anlage auf über 6.800.",
+        "hu": "A Wat Si Saket Vientiane legrégebbi fennmaradt temploma, amelyet 1818-ban Anouvong király uralkodása alatt építettek. A kolostor az egyetlen nagyobb vallási építmény a városban, amely túlélte Vientiane 1827-es pusztulását a sziámi hadsereg által. A történészek úgy vélik, hogy a korai bangkoki stílusú, thai ihletésű építészet – amelyet a körbefutó terasz és az ötszintes tető jellemez – volt az oka annak, hogy megkímélték. A kerengő belső falain több mint 2000 kis fülke található, amelyekben miniatűr Buddha-szobrok rejtőznek. A komplexumban található ezüst, kerámia és fa Buddha-szobrok számát összesen több mint 6800-ra becsülik.",
+        "ro": "Wat Si Saket este cel mai vechi templu care a supraviețuit în Vientiane și a fost construit în 1818 sub domnia regelui Anouvong. Mănăstirea a fost singura clădire religioasă majoră din oraș care a supraviețuit distrugerii orașului Vientiane de către armata siameză în anul 1827. Istoricii cred că arhitectura de inspirație thailandeză din perioada timpurie a stilului Bangkok - caracterizată printr-o terasă înconjurătoare și un acoperiș cu cinci niveluri - a fost motivul pentru care a fost cruțată. Pereții interiori ai claustrului adăpostesc peste 2.000 de nișe mici, care conțin figuri miniaturale ale lui Buddha. În total, numărul statuilor lui Buddha din argint, ceramică și lemn din complex este estimat la peste 6.800.",
+        "en": "Wat Si Saket is the oldest surviving temple in Vientiane, constructed in 1818 under the rule of King Anouvong. The monastery stands as the city's only major religious structure to survive the destruction of Vientiane by the Siamese army in 1827. Historians suggest that its early Bangkok-style Thai architectural influences—characterized by a surrounding terrace and a five-tiered roof—were the reason it was spared from being razed. The interior walls of the cloister feature more than 2,000 small niches containing miniature Buddha figures. In total, the sanctuary is estimated to house over 6,800 Buddha statues made of silver, ceramics, and wood."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Errichtet im Jahr 1818 durch König Anouvong",
+          "Ältester noch stehender Tempelkomplex in Vientiane",
+          "Überstand die siamesische Invasion von 1827 unversehrt",
+          "Gestaltet im thailändischen Architekturstil der frühen Bangkok-Ära",
+          "Beherbergt schätzungsweise über 6.800 Buddha-Statuen",
+          "Besitzt Wände mit tausenden kleinen Reliquiennischen"
+        ],
+        "hu": [
+          "Anouvong király építtette az 1818-as évben",
+          "A legrégebbi fennmaradt templomkomplexum Vientiane-ban",
+          "Sértetlenül túlélte az 1827-es sziámi inváziót",
+          "A korai bangkoki korszak thai építészeti stílusában készült",
+          "A becslések szerint több mint 6800 Buddha-szobrot őriz",
+          "A falain több ezer kis ereklyetartó fülke található"
+        ],
+        "ro": [
+          "Construit în anul 1818 de către regele Anouvong",
+          "Cel mai vechi complex de temple rămas în picioare în Vientiane",
+          "A supraviețuit intact invaziei siameze din anul 1827",
+          "Proiectat în stilul arhitectural thailandez al epocii timpurii Bangkok",
+          "Găzduiește aproximativ peste 6.800 de statui ale lui Buddha",
+          "Are pereți cu mii de nișe mici care conțin relicve"
+        ],
+        "en": [
+          "Constructed in 1818 under the directive of King Anouvong",
+          "The oldest surviving temple complex still standing in Vientiane",
+          "Survived the 1827 Siamese invasion completely undamaged",
+          "Designed incorporating early Bangkok-era Thai architectural styles",
+          "Estimated to house an extensive collection of over 6,800 Buddha statues",
+          "Features cloister walls embedded with thousands of small niches"
+        ]
+      }
+    },
+    {
+      "id": "that-dam-history-v2",
+      "descriptionAdvanced": {
+        "de": "That Dam, oft als die 'Schwarze Stupa' bezeichnet, ist ein bedeutendes Wahrzeichen im Stadtzentrum von Vientiane. Nach lokalen Legenden war die Stupa einst mit reinem Blattgold bedeckt, welches jedoch während der verheerenden siamesischen Invasion im Jahr 1827 geplündert und abgetragen wurde. Das Bauwerk blieb als dunkler Ziegelbau zurück, der im Laufe der Jahrzehnte von Moos und Vegetation überwuchert wurde. Eine weit verbreitete laotische Sage besagt, dass in der Stupa eine siebenköpfige Naga – eine mythische Wasserschlange – schläft, die als spirituelle Wächterin der Stadt fungiert und die Bewohner während der historischen Angriffe beschützt haben soll.",
+        "hu": "A That Dam, amelyet gyakran 'Fekete Sztúpaként' is emlegetnek, Vientiane városközpontjának egyik jelentős nevezetessége. A helyi legendák szerint a sztúpát egykor tiszta aranyfüst borította, amelyet azonban az 1827-es pusztító sziámi invázió során kifosztottak és elhordtak. Az építmény sötét téglaépületként maradt hátra, amelyet az évtizedek során benőtt a moha és a növényzet. Egy széles körben elterjedt laoszi monda úgy tartja, hogy a sztúpában egy hétfejű Naga – egy mitikus vízikígyó – alszik, amely a város szellemi védelmezőjeként szolgál, és állítólag a történelmi támadások idején megvédte a lakosokat.",
+        "ro": "That Dam, denumită adesea 'Stupa Neagră', este un punct de reper important în centrul orașului Vientiane. Conform legendelor locale, stupa a fost acoperită cândva cu frunze de aur pur, care au fost jefuite și îndepărtate în timpul invaziei siameze devastatoare din anul 1827. Structura a rămas o clădire din cărămidă întunecată, care a fost acoperită de mușchi și vegetație de-a lungul deceniilor. O legendă laotiană răspândită spune că o Naga cu șapte capete - un șarpe de apă mitic - doarme în stupă, acționând ca un gardian spiritual al orașului și protejând locuitorii în timpul atacurilor istorice.",
+        "en": "That Dam, frequently referred to as the 'Black Stupa', is a prominent landmark located in the city center of Vientiane. According to local lore, the stupa was once completely covered in pure gold leaf, which was subsequently looted and stripped away during the devastating Siamese invasion of 1827. The monument was left as a dark brick structure, which over the decades became overgrown with moss and vegetation. A widely circulated Laotian legend asserts that a seven-headed Naga—a mythical water serpent—slumbers within the stupa, acting as the city's spiritual guardian and protecting its residents during historic invasions."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wird lokal als die 'Schwarze Stupa' bezeichnet",
+          "Soll einst vollständig mit Blattgold überzogen gewesen sein",
+          "Ihre Goldschicht wurde 1827 von siamesischen Truppen geraubt",
+          "Beherbergt der Legende nach eine mythische siebenköpfige Naga",
+          "Gilt als spirituelles Schutzmonument von Vientiane",
+          "Wurde bewusst nie im modernen Stil restauriert"
+        ],
+        "hu": [
+          "A helyiek 'Fekete Sztúpa' néven emlegetik",
+          "Állítólag egykor teljesen aranyfüst borította",
+          "Az aranyréteget a sziámi csapatok rabolták el 1827-ben",
+          "A legenda szerint egy mitikus hétfejű Nagának ad otthont",
+          "Vientiane szellemi védőemlékművének tartják",
+          "Tudatosan soha nem restaurálták modern stílusban"
+        ],
+        "ro": [
+          "Este denumită local 'Stupa Neagră'",
+          "Se spune că ar fi fost odată complet acoperită cu aur",
+          "Stratul de aur a fost furat de trupele siameze în 1827",
+          "Legenda spune că adăpostește o Naga mitică cu șapte capete",
+          "Este considerată un monument de protecție spirituală al orașului Vientiane",
+          "În mod deliberat, nu a fost niciodată restaurată în stil modern"
+        ],
+        "en": [
+          "Locally referred to as the 'Black Stupa'",
+          "Believed to have once been entirely coated in gold leaf",
+          "Gold layer was looted by invading Siamese troops in 1827",
+          "Legend claims it houses a mythical seven-headed Naga spirit",
+          "Revered as a spiritual protective monument for Vientiane",
+          "Has intentionally remained unrestored in modern times"
+        ]
+      }
+    },
+    {
+      "id": "wat-mai-history-v2",
+      "descriptionAdvanced": {
+        "de": "Wat Mai Suwannaphumaham, erbaut ab dem Jahr 1796, ist eines der am reichsten verzierten buddhistischen Klöster in Luang Prabang. Der Tempel spielte eine zentrale Rolle im religiösen Leben des laotischen Königshauses und war lange Zeit die Residenz des höchsten buddhistischen Patriarchen des Landes. Als einer der wenigen Tempel überstand das Gebäude die Zerstörung durch die plündernde chinesische Haw-Armee im Jahr 1887, angeblich weil die Invasoren von der Schönheit seiner Architektur beeindruckt waren. Die markante Fassade besticht durch ein detailliertes Goldrelief auf rotem Grund, das Szenen aus dem Ramayana sowie das tägliche Leben im historischen Luang Prabang darstellt.",
+        "hu": "Az 1796-tól épült Wat Mai Suwannaphumaham Luang Prabang egyik leggazdagabban díszített buddhista kolostora. A templom központi szerepet játszott a laoszi királyi család vallási életében, és sokáig az ország legmagasabb rangú buddhista pátriárkájának rezidenciája volt. A kevés templom egyikeként élte túl a fosztogató kínai Haw hadsereg 1887-es pusztítását, állítólag azért, mert a hódítókat lenyűgözte az építészet szépsége. A feltűnő homlokzatot egy vörös alapon nyugvó, részletes arany dombormű díszíti, amely a Rámájana jeleneteit, valamint a történelmi Luang Prabang mindennapi életét ábrázolja.",
+        "ro": "Wat Mai Suwannaphumaham, construit începând cu anul 1796, este una dintre cele mai bogat decorate mănăstiri budiste din Luang Prabang. Templul a jucat un rol central în viața religioasă a familiei regale laotiene și a fost pentru mult timp reședința celui mai înalt patriarh budist din țară. A fost unul dintre puținele temple care a supraviețuit distrugerii de către armata chineză Haw în anul 1887, presupus pentru că invadatorii au fost impresionați de frumusețea arhitecturii sale. Fațada remarcabilă are un relief detaliat de aur pe un fundal roșu, reprezentând scene din Ramayana și viața de zi cu zi în Luang Prabang istoric.",
+        "en": "Wat Mai Suwannaphumaham, constructed starting in 1796, is one of the most richly decorated Buddhist monasteries in Luang Prabang. The temple played a central role in the religious life of the Laotian royal family and served as the residence of the supreme Buddhist patriarch of the country for a long period. It was one of the few temples to survive the destruction by the marauding Chinese Haw army in 1887, reportedly because the invaders were captivated by the beauty of its architecture. The striking facade features detailed gold relief on a red background, depicting scenes from the Ramayana as well as daily life in historical Luang Prabang."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet um das Jahr 1796 in Luang Prabang",
+          "Diente als Residenz für den höchsten laotischen Mönch",
+          "Überstand die Invasion der chinesischen Haw im Jahr 1887",
+          "Bekannt für seine vergoldeten Holzreliefs an der Front",
+          "Zeigt kunstvolle Szenen aus dem epischen Ramayana",
+          "Verfügt über ein außergewöhnliches fünfstufiges Dach"
+        ],
+        "hu": [
+          "1796 körül alapították Luang Prabang városában",
+          "A legmagasabb rangú laoszi szerzetes rezidenciájaként szolgált",
+          "Túlélte a kínai Haw hadsereg 1887-es invázióját",
+          "Híres az elülső falon lévő aranyozott fadomborműveiről",
+          "Művészi jeleneteket ábrázol az epikus Rámájanából",
+          "Kivételes, ötszintes tetőszerkezettel rendelkezik"
+        ],
+        "ro": [
+          "Fondat în jurul anului 1796 în orașul Luang Prabang",
+          "A servit drept reședință pentru cel mai înalt călugăr laotian",
+          "A supraviețuit invaziei armatei chineze Haw din anul 1887",
+          "Renumit pentru reliefurile din lemn aurit de pe fațadă",
+          "Prezintă scene artistice din epopeea Ramayana",
+          "Are un acoperiș excepțional cu cinci niveluri"
+        ],
+        "en": [
+          "Founded around the year 1796 in Luang Prabang",
+          "Served as the residence for the highest-ranking Laotian monk",
+          "Survived the invasion of the Chinese Haw army in 1887",
+          "Renowned for its extensive gilded wood reliefs on the front",
+          "Depicts intricate artistic scenes from the Ramayana epic",
+          "Features an exceptional five-tiered sweeping roof structure"
+        ]
+      }
+    }
+  ]
+}

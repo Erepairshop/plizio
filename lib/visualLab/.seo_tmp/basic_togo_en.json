@@ -1,0 +1,127 @@
+{
+  "lang": "en",
+  "country": "Togo",
+  "files": [
+    "lib/visualLab/data/poiExtraTogoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTogoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTogoLifeV2.ts",
+    "lib/visualLab/data/poiExtraTogoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "agou-cities-v2",
+      "description": "Agou is a town located in the Plateaux Region, known for its proximity to Mount Agou, the highest point in Togo.",
+      "facts": ["Located in Plateaux Region", "Near Mount Agou", "Elevated terrain"]
+    },
+    {
+      "id": "anie-cities-v2",
+      "description": "Anie is a growing town situated in the central part of Togo, serving as an important local agricultural hub.",
+      "facts": ["Central Togo location", "Agricultural importance", "Transportation link"]
+    },
+    {
+      "id": "tohoun-cities-v2",
+      "description": "Tohoun is a town in the Middle-Mono Prefecture, acting as a regional center for rural communities.",
+      "facts": ["Middle-Mono Prefecture", "Rural administrative center", "Inland location"]
+    },
+    {
+      "id": "wahala-cities-v2",
+      "description": "Wahala is a small settlement in Togo, often recognized for its local market activities.",
+      "facts": ["Small settlement", "Local market hub", "Plateaux region"]
+    },
+    {
+      "id": "pagouda-cities-v2",
+      "description": "Pagouda is a town in northern Togo, historically significant in the Kozah Prefecture region.",
+      "facts": ["Kozah Prefecture", "Northern Togo", "Regional market"]
+    },
+    {
+      "id": "guerin-kouka-cities-v2",
+      "description": "Guerin-Kouka is a town located in the Dankpen Prefecture of northern Togo.",
+      "facts": ["Dankpen Prefecture", "Northern Togo", "Local administrative point"]
+    },
+    {
+      "id": "kpagouda-cities-v2",
+      "description": "Kpagouda is a town in northern Togo, nestled within the mountainous terrain of the Kara region.",
+      "facts": ["Kara region", "Mountainous terrain", "Northern settlement"]
+    },
+    {
+      "id": "sabi-lamba-cities-v2",
+      "description": "Sabi-Lamba is a town in the Savanes region, serving the local northern population with essential services.",
+      "facts": ["Savanes region", "Northern Togo", "Local community hub"]
+    },
+    {
+      "id": "sanda-kagbanda-cities-v2",
+      "description": "Sanda-Kagbanda is a locality in the northern part of Togo, characterized by traditional agricultural practices.",
+      "facts": ["Northern Togo", "Agricultural base", "Rural character"]
+    },
+    {
+      "id": "sirka-cities-v2",
+      "description": "Sirka is a town in northern Togo, known for its role in the local rural economy and trade.",
+      "facts": ["Northern Togo", "Rural economy", "Trade junction"]
+    },
+    {
+      "id": "yade-cities-v2",
+      "description": "Yade is a settlement in the Kara region, reflecting the traditional living patterns of northern Togo.",
+      "facts": ["Kara region", "Northern Togo", "Traditional settlement"]
+    },
+    {
+      "id": "biankouri-cities-v2",
+      "description": "Biankouri is a town in the Savanes region near the northern border of Togo.",
+      "facts": ["Savanes region", "Near border", "Northern location"]
+    },
+    {
+      "id": "barkoissi-cities-v2",
+      "description": "Barkoissi is a town in the Savanes region, notable for its agricultural output in the north.",
+      "facts": ["Savanes region", "Northern agriculture", "Local transport node"]
+    },
+    {
+      "id": "bombouaka-cities-v2",
+      "description": "Bombouaka is a town in northern Togo, home to a well-known hospital and educational institutions.",
+      "facts": ["Savanes region", "Hospital center", "Educational hub"]
+    },
+    {
+      "id": "cinkasse-cities-v2",
+      "description": "Cinkasse is a strategic town located on the northern border, serving as a gateway for cross-border trade.",
+      "facts": ["Northern border", "Trade gateway", "Savanes region"]
+    },
+    {
+      "id": "mandouri-cities-v2",
+      "description": "Mandouri is a town in the far north of Togo, situated near the Oti River basin.",
+      "facts": ["Far northern Togo", "Oti River proximity", "Kpendjal Prefecture"]
+    },
+    {
+      "id": "bogou-cities-v2",
+      "description": "Bogou is a town in northern Togo, reflecting the arid environmental conditions of the Savanes region.",
+      "facts": ["Savanes region", "Northern Togo", "Arid landscape"]
+    },
+    {
+      "id": "assemblee-nationale-lome-landmarks-v2",
+      "description": "The National Assembly building in Lomé is the seat of Togo's legislative branch of government.",
+      "facts": ["Located in Lomé", "Legislative seat", "Modern architecture"]
+    },
+    {
+      "id": "tsevie-maniokfelder-life-v2",
+      "description": "The cassava fields around Tsévié are vital for the local economy, providing a staple food source for Togo.",
+      "facts": ["Tsévié surroundings", "Cassava farming", "Staple food production"]
+    },
+    {
+      "id": "galangashie-fauna-reservat-life-v2",
+      "description": "Galangashie is a protected wildlife area in Togo, home to diverse species of fauna native to the region.",
+      "facts": ["Wildlife protection", "Native fauna", "Biodiversity area"]
+    },
+    {
+      "id": "lome-amitie-park-life-v2",
+      "description": "Amitié Park in Lomé offers green space for recreation and community gatherings within the capital city.",
+      "facts": ["Lomé city center", "Urban green space", "Recreational area"]
+    },
+    {
+      "id": "oti-river-nature-v2",
+      "description": "The Oti River flows through northern Togo, creating important floodplains and supporting local ecosystems.",
+      "facts": ["Northern Togo", "River system", "Floodplain ecosystem"]
+    },
+    {
+      "id": "mount-ibeti-nature-v2",
+      "description": "Mount Ibeti is a notable peak in Togo, contributing to the varied topography of the central regions.",
+      "facts": ["Central Togo", "Elevated peak", "Topographical feature"]
+    }
+  ]
+}

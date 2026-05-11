@@ -1,0 +1,75 @@
+{
+  "lang": "en",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalNatureV2.ts",
+    "lib/visualLab/data/poiExtraSenegalReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "foret-de-mbao-nature-v2",
+      "description": "A remnant forest ecosystem near Dakar, important for local biodiversity and providing a green buffer for the urban area.",
+      "facts": ["Remnant forest", "Dakar area", "Biodiversity zone"]
+    },
+    {
+      "id": "lac-kassack-nature-v2",
+      "description": "A picturesque lake environment in the region, serving as a sanctuary for various waterfowl and local aquatic wildlife.",
+      "facts": ["Picturesque lake", "Waterfowl sanctuary", "Aquatic habitat"]
+    },
+    {
+      "id": "fleuve-gambie-nature-v2",
+      "description": "A major river flowing through southern Senegal, supporting lush gallery forests and diverse riverine ecosystems.",
+      "facts": ["Major river", "Southern Senegal", "Riverine ecosystem"]
+    },
+    {
+      "id": "foret-de-patar-nature-v2",
+      "description": "A protected forest area characterized by dense vegetation and local flora, vital for regional environmental health.",
+      "facts": ["Protected forest", "Dense vegetation", "Local flora"]
+    },
+    {
+      "id": "foret-de-tamba-nature-v2",
+      "description": "An extensive woodland region in Tambacounda that hosts significant biodiversity and natural forest landscapes.",
+      "facts": ["Woodland region", "Tambacounda", "Biodiversity hotspot"]
+    },
+    {
+      "id": "delta-du-senegal-nature-v2",
+      "description": "The complex delta of the Senegal River, known for its extensive wetlands and role as a critical migratory bird site.",
+      "facts": ["Complex delta", "Wetlands", "Migratory bird site"]
+    },
+    {
+      "id": "zone-sableuse-cotiere-nature-v2",
+      "description": "A sandy coastal zone featuring dunes and unique beach flora, critical for coastal protection and ecology.",
+      "facts": ["Sandy coastal zone", "Dune landscape", "Coastal protection"]
+    },
+    {
+      "id": "casamance-tal-v2",
+      "description": "The fertile valley of the Casamance River, known for its lush agricultural lands and distinctive riverine topography.",
+      "facts": ["Casamance valley", "Fertile land", "Riverine topography"]
+    },
+    {
+      "id": "faleme-relief-v2",
+      "description": "A region defined by rugged terrain and hills near the Faleme River, representing a unique topographic area in Senegal.",
+      "facts": ["Rugged terrain", "Faleme River", "Unique relief"]
+    },
+    {
+      "id": "saloum-delta-relief-v2",
+      "description": "A low-lying delta landscape characterized by its labyrinth of channels and mangrove forests, a unique relief feature.",
+      "facts": ["Low-lying delta", "Mangrove channels", "Distinct topography"]
+    },
+    {
+      "id": "kolda-hochebene-v2",
+      "description": "The plateau area surrounding Kolda, featuring elevated lands and rolling topography typical of the southern region.",
+      "facts": ["Plateau area", "Kolda region", "Rolling topography"]
+    },
+    {
+      "id": "thies-plateau-v2",
+      "description": "The elevated plateau in Thiès, forming a significant geographical feature separating the coastal and interior zones.",
+      "facts": ["Thiès plateau", "Elevated land", "Geographical feature"]
+    },
+    {
+      "id": "sine-ebene-v2",
+      "description": "A flat, extensive plain in the Sine region, known for its agricultural potential and wide-open landscapes.",
+      "facts": ["Extensive plain", "Sine region", "Agricultural land"]
+    }
+  ]
+}

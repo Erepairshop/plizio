@@ -1,0 +1,479 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCanadaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "mount-assiniboine-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mount Assiniboine ist ein 3.618 Meter hoher, markanter Berggipfel in den kanadischen Rocky Mountains. Er liegt exakt auf der kontinentalen Wasserscheide, die die physische Grenze zwischen den Provinzen British Columbia und Alberta bildet. Aufgrund seiner ausgeprägten, symmetrischen Pyramidenform wird er in der Literatur häufig als das „Matterhorn der Rocky Mountains“ bezeichnet. Der Berg besteht geologisch primär aus geschichteten Kalkstein- und Quarzitformationen, die sich in einem flachen Urmeer während des Kambriums und Devons ablagerten. Der Gipfel bildet das geografische Zentrum des 1922 gegründeten Mount Assiniboine Provincial Parks. Es existieren keine direkten Straßenverbindungen zu diesem abgelegenen Bergmassiv; der Zugang erfolgt ausschließlich über einen 27 Kilometer langen, anspruchsvollen Wanderweg oder per Hubschrauber. Die erste historisch dokumentierte Besteigung erfolgte am 3. September 1901 durch den britischen Bergsteiger James Outram zusammen mit zwei Schweizer Bergführern. Am nördlichen Fuß des Berges erstreckt sich der malerische Lake Magog, an dessen Ufer sich die historische Assiniboine Lodge befindet. Diese rustikale, isolierte Unterkunft wurde 1928 von der Canadian Pacific Railway errichtet, um den aufkommenden alpinen Tourismus zu fördern. Die hochalpine Region zeichnet sich durch ein raues Tundra-Klima, ausgedehnte Geröllfelder und massive, jedoch schwindende Gletscherformationen aus. Die genauen geografischen Koordinaten des Berges lauten 50,86°N, 115,62°W.",
+        "hu": "A Mount Assiniboine egy 3618 méter magas, markáns hegycsúcs a kanadai Sziklás-hegységben. Pontosan azon a kontinentális vízválasztón fekszik, amely a fizikai határt képezi Brit Columbia és Alberta tartományok között. Kifejezett, szimmetrikus piramis alakja miatt a szakirodalomban gyakran a „Sziklás-hegység Matterhornjának” nevezik. A hegy geológiailag elsősorban rétegzett mészkő- és kvarcitképződményekből áll, amelyek a kambrium és a devon időszak sekély őstengerében rakódtak le. A csúcs az 1922-ben alapított Mount Assiniboine Tartományi Park földrajzi központját alkotja. Ehhez az elszigetelt hegytömbhöz nem vezetnek közvetlen közutak; a megközelítés kizárólag egy 27 kilométer hosszú, kihívást jelentő túraútvonalon vagy helikopterrel lehetséges. Az első történelmileg dokumentált megmászást 1901. szeptember 3-án hajtotta végre James Outram brit hegymászó, két svájci hegyivezető kíséretében. A hegy északi lábánál terül el a festői Magog-tó, amelynek partján a történelmi Assiniboine Lodge áll. Ezt a rusztikus, elszigetelt szálláshelyet 1928-ban építette a Canadian Pacific Railway vasúttársaság a fellendülő alpesi turizmus támogatása céljából. A magashegyi régiót zord tundra éghajlat, kiterjedt törmeléklejtők és masszív, bár egyre zsugorodó gleccserképződmények jellemzik. A hegy pontos földrajzi koordinátái: é. sz. 50,86°, ny. h. 115,62°.",
+        "ro": "Muntele Assiniboine este un vârf montan proeminent, cu o altitudine de 3.618 metri, situat în Munții Stâncoși canadieni. Se află exact pe cumpăna apelor continentale, care formează granița fizică dintre provinciile Columbia Britanică și Alberta. Datorită formei sale piramidale pronunțate și simetrice, este adesea denumit în literatură „Matterhorn-ul Munților Stâncoși”. Din punct de vedere geologic, muntele este alcătuit în principal din formațiuni stratificate de calcar și cuarțit care s-au depus într-o mare preistorică puțin adâncă în timpul Cambrianului și Devonianului. Vârful formează centrul geografic al Parcului Provincial Mount Assiniboine, înființat în 1922. Nu există drumuri directe de acces către acest masiv montan izolat; accesul se face exclusiv printr-un traseu de drumeție solicitant de 27 de kilometri sau cu elicopterul. Prima ascensiune documentată istoric a avut loc pe 3 septembrie 1901, fiind realizată de alpinistul britanic James Outram împreună cu doi ghizi montani elvețieni. La baza nordică a muntelui se întinde pitorescul Lac Magog, pe malul căruia se află cabana istorică Assiniboine Lodge. Această unitate de cazare rustică și izolată a fost construită în 1928 de Canadian Pacific Railway pentru a promova turismul alpin în curs de dezvoltare. Regiunea alpină înaltă este caracterizată de un climat aspru de tundră, câmpuri extinse de grohotiș și formațiuni glaciare masive, dar în retragere. Coordonatele geografice exacte ale muntelui sunt 50,86°N, 115,62°V.",
+        "en": "Mount Assiniboine is a striking, 3,618-meter-tall pyramidal peak located within the Canadian Rocky Mountains. It is situated exactly on the Continental Divide, which forms the physical and political border between the provinces of British Columbia and Alberta. Due to its distinct, highly symmetrical pyramidal geometry, it is frequently referred to in global geographical literature as the \"Matterhorn of the Rockies.\" Geologically, the mountain is composed primarily of stratified limestone and quartzite formations that were deposited in a shallow ancient sea during the Cambrian and Devonian periods. The peak acts as the geographical centerpiece of Mount Assiniboine Provincial Park, which was officially established in 1922. There are absolutely no direct road connections to this isolated mountain massif; physical access is strictly limited to a demanding 27-kilometer hiking trail or via commercial helicopter flights. The first historically documented ascent was completed on September 3, 1901, by British mountaineer James Outram, accompanied by two Swiss mountain guides. Extending along the northern base of the mountain is the picturesque Lake Magog, upon whose shores sits the historic Assiniboine Lodge. This rustic, isolated backcountry accommodation was constructed in 1928 by the Canadian Pacific Railway to promote emerging alpine tourism. The high-alpine region is heavily characterized by a harsh tundra climate, extensive scree slopes, and massive, though currently retreating, glacier formations. The exact geographical coordinates of the mountain are 50.86°N, 115.62°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Berggipfel hat eine exakte Höhe von 3.618 Metern über dem Meeresspiegel.",
+          "Er liegt direkt auf der Grenze zwischen British Columbia und Alberta.",
+          "Aufgrund seiner Geometrie wird er häufig als 'Matterhorn der Rockies' bezeichnet.",
+          "Die historische Erstbesteigung fand am 3. September 1901 statt.",
+          "Es gibt keine Straßen; der Zugang erfordert eine 27 km lange Wanderung.",
+          "Das Gestein besteht primär aus sehr alten Kalkstein- und Quarzitschichten.",
+          "Die Assiniboine Lodge am Fuß des Berges wurde 1928 von einer Eisenbahngesellschaft erbaut."
+        ],
+        "hu": [
+          "A hegycsúcs magassága pontosan 3618 méter a tengerszint felett.",
+          "Közvetlenül a Brit Columbia és Alberta tartományokat elválasztó határon fekszik.",
+          "Jellegzetes geometriája miatt gyakran nevezik a 'Sziklás-hegység Matterhornjának'.",
+          "A hegy történelmi első megmászására 1901. szeptember 3-án került sor.",
+          "Nincsenek utak; a megközelítéshez egy 27 kilométeres túraútvonal leküzdése szükséges.",
+          "A kőzet elsősorban nagyon ősi mészkő- és kvarcitrétegekből áll.",
+          "A hegy lábánál fekvő Assiniboine Lodge-ot 1928-ban egy vasúttársaság építette."
+        ],
+        "ro": [
+          "Vârful montan are o altitudine exactă de 3.618 metri deasupra nivelului mării.",
+          "Este situat direct pe granița dintre Columbia Britanică și Alberta.",
+          "Datorită geometriei sale, este adesea denumit 'Matterhorn-ul Stâncoșilor'.",
+          "Prima ascensiune istorică a avut loc pe 3 septembrie 1901.",
+          "Nu există drumuri; accesul necesită o drumeție solicitantă de 27 km.",
+          "Roca constă în principal din straturi foarte vechi de calcar și cuarțit.",
+          "Cabana Assiniboine Lodge de la baza muntelui a fost construită în 1928 de o companie feroviară."
+        ],
+        "en": [
+          "The mountain peak reaches a precise elevation of 3,618 meters above sea level.",
+          "It sits directly on the border separating British Columbia and Alberta.",
+          "Due to its distinct geometry, it is frequently called the 'Matterhorn of the Rockies'.",
+          "The historic first ascent of the mountain occurred on September 3, 1901.",
+          "There are no roads; accessing the base requires a 27 km long hike.",
+          "The geology primarily consists of extremely old limestone and quartzite layers.",
+          "The Assiniboine Lodge at the mountain's base was built in 1928 by a railway company."
+        ]
+      }
+    },
+    {
+      "id": "south-nahanni-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der South Nahanni River ist ein spektakulärer, 540 Kilometer langer Fluss in den Nordwest-Territorien Kanadas, der in den rauen Mackenzie Mountains entspringt und schließlich in den Liard River mündet. Der Fluss bildet das geografische Herzstück der Nahanni National Park Reserve, einem riesigen Wildnisgebiet, das 1978 von der UNESCO als eine der ersten Weltnaturerbestätten überhaupt ausgezeichnet wurde. Ein geologisches Hauptmerkmal des Flusssystems sind seine vier massiven Canyons (First, Second, Third und Fourth Canyon), die durch tektonische Hebungen und gleichzeitige Flusserosion entstanden sind. Ihre fast senkrechten Felswände ragen an einigen Stellen bis zu 1.000 Meter in die Höhe. Ein absoluter topografischer Höhepunkt im Flussverlauf sind die Virginia Falls, die in der indigenen Sprache Dene Zhatıé den Namen Nailicho tragen. Hier stürzt das wilde Wasser auf einer Breite von 259 Metern exakt 90 Meter in die Tiefe, was mehr als der doppelten Höhe der Niagarafälle entspricht. Entlang des Flusses befinden sich zudem die Rabbitkettle Hot Springs, geothermisch extrem aktive Zonen, die bis zu 30 Meter hohe Tuffstein-Hügel (Tufa Mounds) gebildet haben. Da dieses spezifische Talgebiet während der letzten Eiszeit (Wisconsin-Glazial) nicht vollständig von kontinentalen Eisschilden bedeckt war, bewahrte es eine unberührte, sehr einzigartige Geomorphologie. Es gibt keinerlei Straßeninfrastruktur in der gesamten Region; der Transport erfolgt ausschließlich über Wasserflugzeuge. Koordinaten der Wasserfälle: 61,60°N, 125,74°W.",
+        "hu": "A South Nahanni River egy látványos, 540 kilométer hosszú folyó a kanadai Északnyugati Területeken, amely a zord Mackenzie-hegységben ered, és végül a Liard-folyóba torkollik. A folyó alkotja a Nahanni Nemzeti Park Rezervátum földrajzi magját; ez egy hatalmas kiterjedésű vadon, amelyet az UNESCO 1978-ban az elsők között nyilvánított Világörökségi helyszínné. A folyórendszer egyik fő geológiai jellemzője a négy masszív kanyon (First, Second, Third és Fourth Canyon néven), amelyek tektonikus emelkedés és egyidejű folyóvízi erózió révén jöttek létre. Szinte függőleges sziklafalaik bizonyos helyeken elérik az 1000 méteres magasságot. A folyó folyásának abszolút topográfiai fénypontja a Virginia-vízesés, amely az őslakos dene nyelven a Nailicho nevet viseli. Itt a vad víz 259 méteres szélességben, pontosan 90 métert zuhan a mélybe, ami több mint kétszerese a Niagara-vízesés magasságának. A folyó mentén találhatók a Rabbitkettle hőforrások (Hot Springs) is, amelyek rendkívül aktív geotermikus zónák, és akár 30 méter magas mésztufahalmaikat (tufa mounds) alakítottak ki. Mivel ez a specifikus völgyterület a legutóbbi jégkorszak (Wisconsin-eljegesedés) idején nem volt teljesen kontinentális jégtakaró alatt, nagyon egyedi, érintetlen geomorfológiát őrzött meg. A régióban egyáltalán nincsenek utak; a szállítás kizárólag hidroplánokkal történik. A vízesés koordinátái: é. sz. 61,60°, ny. h. 125,74°.",
+        "ro": "Râul South Nahanni este un curs de apă spectaculos, cu o lungime de 540 de kilometri, situat în Teritoriile de Nord-Vest ale Canadei, care izvorăște din asprii Munți Mackenzie și se varsă în cele din urmă în râul Liard. Râul formează nucleul geografic al Rezervației Parcului Național Nahanni, o zonă de sălbăticie vastă recunoscută de UNESCO în 1978 drept unul dintre primele situri ale Patrimoniului Mondial Natural. O caracteristică geologică majoră a sistemului fluvial sunt cele patru canioane masive ale sale (First, Second, Third și Fourth Canyon), care au fost formate prin ridicare tectonică și eroziune fluvială simultană. Pereții lor de stâncă, aproape verticali, se înalță în unele locuri până la 1.000 de metri. Un punct topografic absolut de atracție de-a lungul cursului râului sunt Cascadele Virginia, cunoscute sub numele de Nailicho în limba indigenă Dene Zhatıé. Aici, apele sălbatice cad de la o înălțime de exact 90 de metri pe o lățime de 259 de metri, ceea ce reprezintă mai mult decât dublul înălțimii Cascadelor Niagara. De-a lungul râului se află și izvoarele termale Rabbitkettle Hot Springs, zone geotermale extrem de active care au format movile de tuf calcaros (tufa mounds) de până la 30 de metri înălțime. Deoarece această zonă specifică a văii nu a fost complet acoperită de scuturi de gheață continentale în timpul ultimei ere glaciare, a păstrat o geomorfologie neatinsă și foarte unică. Nu există absolut nicio infrastructură rutieră în întreaga regiune; transportul se face exclusiv cu hidroavioane. Coordonatele cascadelor sunt 61,60°N, 125,74°V.",
+        "en": "The South Nahanni River is a spectacular 540-kilometer-long river in Canada's Northwest Territories that originates in the rugged Mackenzie Mountains and ultimately drains into the Liard River. The river serves as the geographic centerpiece of the Nahanni National Park Reserve, a massive wilderness area that was designated by UNESCO in 1978 as one of the very first World Heritage Sites. A major geological feature of the river system is its four massive canyons (named First, Second, Third, and Fourth Canyon), which were formed by continuous tectonic uplift matched with simultaneous intense river erosion. The near-vertical rock walls of these canyons reach heights of up to 1,000 meters in certain sections. An absolute topographical highlight along the river's course is Virginia Falls, known as Nailicho in the indigenous Dene Zhatıé language. At this site, the wild river plunges exactly 90 meters over a width of 259 meters, representing a drop more than twice the height of Niagara Falls. Located further along the river are the Rabbitkettle Hot Springs, which feature extremely active geothermal zones producing 30-meter-high tufa mounds. Because this specific valley region was not entirely glaciated during the last global ice age (Wisconsin glaciation), it preserved a highly unique and untouched geomorphology. There is absolutely zero road infrastructure in the entire region; logistics and transport rely exclusively on floatplanes. The coordinates of the falls are 61.60°N, 125.74°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Fluss erstreckt sich über eine Länge von 540 Kilometern in den Nordwest-Territorien.",
+          "Der Park wurde 1978 als eines der allerersten Gebiete zum UNESCO-Welterbe erklärt.",
+          "Die vier Canyons weisen senkrechte Felswände mit Höhen von bis zu 1.000 Metern auf.",
+          "Die Virginia Falls haben eine Fallhöhe von 90 Metern und sind doppelt so hoch wie Niagara.",
+          "Die Rabbitkettle Hot Springs bilden durch Geothermie 30 Meter hohe Tuffstein-Hügel.",
+          "Teile des Nahanni-Tals blieben während der letzten Eiszeit von Gletschern unberührt.",
+          "Die gesamte Region ist straßenlos und nur über Wasserflugzeuge erreichbar."
+        ],
+        "hu": [
+          "A folyó hossza mintegy 540 kilométer a kanadai Északnyugati Területeken.",
+          "A parkot 1978-ban a legelsők között nyilvánították UNESCO Világörökségi helyszínné.",
+          "A négy kanyon függőleges sziklafalai helyenként elérik az 1000 méteres magasságot.",
+          "A 90 méter magas Virginia-vízesés több mint kétszer olyan magas, mint a Niagara.",
+          "A Rabbitkettle hőforrások geotermikus aktivitása 30 méter magas mésztufahalmozatot hozott létre.",
+          "A Nahanni-völgy egyes részeit nem borította jég a legutóbbi jégkorszak alatt.",
+          "Az egész régió utak nélküli, megközelítése kizárólag hidroplánnal lehetséges."
+        ],
+        "ro": [
+          "Râul are o lungime de 540 de kilometri și curge prin Teritoriile de Nord-Vest.",
+          "Parcul a fost declarat în 1978 drept unul dintre primele situri ale Patrimoniului Mondial UNESCO.",
+          "Cele patru canioane au pereți de stâncă verticali cu înălțimi de până la 1.000 de metri.",
+          "Cascadele Virginia au o cădere de 90 de metri și sunt de două ori mai înalte decât Niagara.",
+          "Izvoarele termale Rabbitkettle formează movile de tuf de 30 de metri prin geotermie.",
+          "Părți ale văii Nahanni au rămas neatinse de ghețari în timpul ultimei ere glaciare.",
+          "Întreaga regiune este lipsită de drumuri și accesibilă doar cu hidroavionul."
+        ],
+        "en": [
+          "The river stretches for a total length of 540 kilometers in the Northwest Territories.",
+          "The park was designated as one of the very first UNESCO World Heritage Sites in 1978.",
+          "The four massive canyons feature near-vertical rock walls reaching up to 1,000 meters high.",
+          "Virginia Falls has a vertical drop of 90 meters, making it twice as high as Niagara Falls.",
+          "The Rabbitkettle Hot Springs produce 30-meter-tall tufa mounds through geothermal activity.",
+          "Parts of the Nahanni valley remained entirely unglaciated during the last ice age.",
+          "The entire wilderness region is roadless and relies strictly on floatplanes for access."
+        ]
+      }
+    },
+    {
+      "id": "great-slave-lake-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Große Sklavensee (Great Slave Lake) in den kanadischen Nordwest-Territorien ist mit einer maximalen Tiefe von 614 Metern der tiefste See Nordamerikas. Mit einer massiven Wasseroberfläche von 27.200 Quadratkilometern ist er zudem der zehntgrößte See der Welt. Das Becken wird hauptsächlich vom Hay River und dem Slave River gespeist, während der riesige Mackenzie River als einziger Abfluss dient und das Wasser weiter bis zum Arktischen Ozean transportiert. Das Gewässer ist für etwa acht Monate im Jahr, von spätem Herbst bis in den späten Frühling, vollständig zugefroren, wobei das Eis dick genug wird, um offizielle Eisstraßen (Ice Roads) für schwere Lkw-Konvois zu tragen, die isolierte Gemeinden wie Dettah versorgen. Die Ufer des Sees sind historisch und wirtschaftlich von extremer Bedeutung für die nördliche Region. Am Nordufer befindet sich Yellowknife, die Hauptstadt der Territorien, die in den 1930er Jahren aufgrund massiver Goldfunde gegründet wurde und sich in der Moderne zu einem globalen Zentrum der Diamantenindustrie entwickelte. Der Name des Sees stammt von den „Slavey“, einer indigenen First-Nations-Gruppe der Dene, die diese Region seit Jahrtausenden besiedelt. Das kalte Wasser unterstützt eine große, kommerzielle Fischereiindustrie, die sich hauptsächlich auf See-Felchen und Amerikanischen Seesaibling konzentriert. Der östliche Arm des Sees liegt direkt auf dem Kanadischen Schild und ist geologisch für seine komplexen Inselgruppen und steilen roten Klippen bekannt. Die Koordinaten im Zentrum lauten 61,66°N, 114,00°W.",
+        "hu": "A Nagy-Rabszolga-tó (Great Slave Lake) a kanadai Északnyugati Területeken található, és 614 méteres maximális mélységével egész Észak-Amerika legmélyebb tava. A masszív, 27 200 négyzetkilométeres vízfelületével egyben a világ tizedik legnagyobb tava is. A medencét főként a Hay-folyó és a Slave-folyó táplálja, míg az egyetlen kifolyása az óriási Mackenzie-folyó, amely a vizet egészen a Jeges-tengerig szállítja. A víztest az év mintegy nyolc hónapjában, késő ősztől késő tavaszig teljesen befagy, és a jég elég vastaggá válik ahhoz, hogy elbírja a hivatalos jégutakon (Ice Roads) közlekedő nehéz teherautó-konvojokat, amelyek olyan elszigetelt közösségeket látnak el, mint Dettah. A tó partjai történelmileg és gazdaságilag is rendkívül fontosak az északi régió számára. Az északi parton fekszik Yellowknife, a területek fővárosa, amelyet az 1930-as években alapítottak a masszív aranyleleteknek köszönhetően, és a modern korban a gyémántipar globális központjává fejlődött. A tó neve a „slavey” népcsoporttól, a dene őslakosok egyik ágától származik, akik évezredek óta lakják ezt a régiót. A hideg víz egy jelentős kereskedelmi halászati ipart tart fenn, amely elsősorban a tavi marénára és az amerikai taviszajblingra összpontosít. A tó keleti ága közvetlenül a Kanadai-pajzson fekszik, és geológiailag bonyolult szigetcsoportjairól, valamint meredek, vörös szikláiról ismert. A tó középpontjának koordinátái: é. sz. 61,66°, ny. h. 114,00°.",
+        "ro": "Marele Lac al Sclavilor (Great Slave Lake) din Teritoriile de Nord-Vest ale Canadei este cel mai adânc lac din America de Nord, cu o adâncime maximă măsurată de 614 metri. Cu o suprafață masivă a apei de 27.200 de kilometri pătrați, este, de asemenea, al zecelea lac ca mărime din lume. Bazinul este alimentat în principal de râurile Hay și Slave, în timp ce uriașul fluviu Mackenzie servește drept singura sa scurgere, transportând apa mai departe către Oceanul Arctic. Corpul de apă este complet înghețat timp de aproximativ opt luni pe an, de la sfârșitul toamnei până la sfârșitul primăverii, gheața devenind suficient de groasă pentru a susține drumuri oficiale de gheață (Ice Roads) pentru convoaiele de camioane grele care aprovizionează comunități izolate precum Dettah. Țărmurile lacului sunt de o importanță istorică și economică extremă pentru regiunea nordică. Pe țărmul nordic se află Yellowknife, capitala teritoriilor, care a fost fondată în anii 1930 datorită descoperirilor masive de aur și s-a dezvoltat în epoca modernă într-un centru global al industriei diamantelor. Numele lacului provine de la „Slavey”, un grup al Primelor Națiuni indigene Dene care a locuit în această regiune de milenii. Apa rece susține o mare industrie comercială de pescuit, axată în principal pe peștele alb de lac și păstrăvul de lac american. Brațul estic al lacului se află direct pe Scutul Canadian și este cunoscut geologic pentru grupurile sale complexe de insule și stâncile roșii abrupte. Coordonatele din centru sunt 61,66°N, 114,00°V.",
+        "en": "Great Slave Lake, located in Canada's Northwest Territories, holds the record as the absolute deepest lake in North America, reaching a maximum measured depth of 614 meters. Covering a massive surface area of 27,200 square kilometers, it also ranks as the tenth-largest lake in the world. The basin is primarily fed by the Hay and Slave rivers, while the massive, northward-flowing Mackenzie River acts as its sole outflow, carrying the water to the Arctic Ocean. The entire water body is completely frozen solid for approximately eight months of the year, from late autumn to late spring, with the ice forming thick enough to support official \"ice roads\" for heavy semi-truck convoys operating to resupply isolated communities like Dettah. The shores of the lake carry extreme historical and economic significance for the northern region. Situated on the northern shore is Yellowknife, the territorial capital, which was founded in the 1930s following massive gold discoveries and later evolved in the modern era into a major global center for the diamond industry. The lake derives its English name from the \"Slavey,\" an indigenous First Nations Dene group who have continuously inhabited the region for millennia. The freezing, well-oxygenated waters support a substantial commercial fishing industry focused heavily on lake whitefish and lake trout. The deep eastern arm of the lake lies directly upon the Canadian Shield and is geologically characterized by complex island archipelagos and steep red granite cliffs. The central coordinates are 61.66°N, 114.00°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 614 Metern Tiefe ist es der tiefste See des nordamerikanischen Kontinents.",
+          "Die gewaltige Wasserfläche von 27.200 Quadratkilometern macht ihn zum zehntgrößten See weltweit.",
+          "Der Mackenzie River ist der einzige natürliche Abfluss in den Arktischen Ozean.",
+          "Im Winter verlaufen offizielle, für Lkw freigegebene Eisstraßen über den See.",
+          "Die Stadt Yellowknife am Nordufer entstand durch massive Goldfunde in den 1930er Jahren.",
+          "Die Namensgebung geht direkt auf die indigene Dene-Gruppe der 'Slavey' zurück.",
+          "Der See ist jedes Jahr für rund acht Monate fast vollständig zugefroren."
+        ],
+        "hu": [
+          "A 614 méteres mélységével ez az észak-amerikai kontinens legmélyebb tava.",
+          "A 27 200 négyzetkilométeres vízfelület a világ tizedik legnagyobb tavává teszi.",
+          "A Mackenzie-folyó a tó egyetlen természetes kifolyása, amely a Jeges-tengerbe vezet.",
+          "Télen a befagyott tavon hivatalos, teherautók számára engedélyezett jégutak futnak.",
+          "Az északi parton fekvő Yellowknife városa az 1930-as évekbeli masszív aranyleleteknek köszönheti létrejöttét.",
+          "A tó angol neve közvetlenül a 'slavey' nevű őslakos dene népcsoport nevéből származik.",
+          "A hatalmas tó az évből körülbelül nyolc hónapon keresztül szinte teljesen be van fagyva."
+        ],
+        "ro": [
+          "Cu o adâncime de 614 metri, este cel mai adânc lac de pe continentul nord-american.",
+          "Suprafața uriașă de apă de 27.200 de kilometri pătrați îl face al zecelea lac ca mărime din lume.",
+          "Fluviul Mackenzie este singura ieșire naturală care duce către Oceanul Arctic.",
+          "În timpul iernii, drumuri oficiale de gheață aprobate pentru camioane trec peste lac.",
+          "Orașul Yellowknife de pe malul nordic a fost creat datorită descoperirilor masive de aur din anii 1930.",
+          "Numele provine direct de la grupul indigen Dene cunoscut sub numele de 'Slavey'.",
+          "Lacul este aproape complet înghețat timp de aproximativ opt luni în fiecare an."
+        ],
+        "en": [
+          "At a measured depth of 614 meters, it is the deepest lake on the North American continent.",
+          "The massive water surface of 27,200 square kilometers makes it the tenth-largest lake globally.",
+          "The northward-flowing Mackenzie River serves as the lake's sole natural outflow to the Arctic.",
+          "During winter, official ice roads cleared for heavy trucks are routed directly across the lake.",
+          "The city of Yellowknife on the northern shore was established after massive 1930s gold strikes.",
+          "The English name directly references the 'Slavey' indigenous First Nation Dene group.",
+          "The lake remains almost entirely frozen solid for approximately eight months every year."
+        ]
+      }
+    },
+    {
+      "id": "haida-gwaii-islands-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Haida Gwaii, historisch unter dem kolonialen Namen Queen Charlotte Islands bekannt, ist ein stark isoliertes Archipel vor der zerklüfteten Nordküste von British Columbia. Die Inselgruppe besteht aus über 150 Inseln, wobei Graham Island im Norden und Moresby Island im Süden die zwei primären Hauptinseln bilden. Vom nordamerikanischen Festland durch die gefährliche, oft stürmische Hecate-Straße getrennt, entwickelte das Archipel im Laufe der Jahrtausende eine bemerkenswerte ökologische Isolation. Diese geografische Trennung führte zu einer außergewöhnlich hohen Konzentration endemischer Flora und Fauna, weshalb die Inseln in der Biologie oft als die „Galapagos-Inseln des Nordens“ bezeichnet werden. Die Landschaft ist geprägt von dichten gemäßigten Regenwäldern, die von massiven Sitka-Fichten, Riesen-Lebensbäumen (Western Redcedar) und Westamerikanischen Hemlocktannen dominiert werden. Die Inseln sind das angestammte Territorium der indigenen Haida Nation, deren reiche Kultur, Holzschnitzkunst und spirituelle Traditionen eng mit den gewaltigen Zedernbäumen verbunden sind. Im südlichen Teil des Archipels befindet sich das Gwaii Haanas National Park Reserve, das das verlassene Dorf SGang Gwaay beherbergt, ein anerkanntes UNESCO-Weltkulturerbe, das für seine stehenden, vom Wetter gezeichneten Zedern-Totempfähle berühmt ist. Die Wirtschaft von Haida Gwaii stützte sich historisch stark auf industriellen Holzschlag und kommerzielle Fischerei, verschiebt sich aber zunehmend in Richtung Ökotourismus und nachhaltiger Forstwirtschaft. Eingeschleppte Arten wie der Sitka-Schwarzwedelhirsch haben das Unterholz massiv verändert. 53,00°N, 132,00°W.",
+        "hu": "Haida Gwaii, történelmi, gyarmati nevén Sarolta királyné-szigetek, egy erősen elszigetelt szigetcsoport Brit Columbia zord északi partjainál. A szigetcsoport több mint 150 szigetből áll, a két elsődleges fő sziget az északi Graham-sziget és a déli Moresby-sziget. Az észak-amerikai szárazföldtől a veszélyes, gyakran viharos Hecate-szoros által elválasztott szigetcsoport az évezredek során figyelemre méltó ökológiai elszigeteltségben fejlődött. Ez a földrajzi elkülönülés az endemikus növény- és állatvilág kivételesen magas koncentrációjához vezetett, ezért a biológiában gyakran az „Észak Galápagos-szigeteinek” is nevezik. A tájat sűrű mérsékelt övi esőerdők uralják, ahol a hatalmas szitka lucfenyők, az óriás tuja (Western Redcedar) és a nyugati hemlokfenyő a meghatározók. A szigetek a bennszülött haida nemzet ősi területei, akiknek gazdag kultúrája, fafaragó művészete és spirituális hagyományai szorosan kötődnek a hatalmas cédrusfákhoz. A szigetcsoport déli részén található a Gwaii Haanas Nemzeti Park Rezervátum, amely otthont ad az elhagyatott SGang Gwaay falunak. Ez az UNESCO Világörökségi helyszín az időjárás által kikezdett, ma is álló cédrus totemoszlopairól híres. Haida Gwaii gazdasága történelmileg erősen támaszkodott az ipari fakitermelésre és a kereskedelmi halászatra, de egyre inkább az ökoturizmus és a fenntartható erdészet felé tolódik el. A betelepített fajok, például a szitka öszvérszarvas, masszívan megváltoztatták az aljnövényzetet. Koordináták: é. sz. 53,00°, ny. h. 132,00°.",
+        "ro": "Haida Gwaii, cunoscut din punct de vedere istoric sub numele colonial de Insulele Queen Charlotte, este un arhipelag puternic izolat în largul coastei de nord abrupte a Columbiei Britanice. Arhipelagul este format din peste 150 de insule, Insula Graham în nord și Insula Moresby în sud formând cele două insule principale. Separat de continentul nord-american prin strâmtoarea Hecate, periculoasă și adesea furtunoasă, arhipelagul a dezvoltat o izolare ecologică remarcabilă de-a lungul mileniilor. Această separare geografică a dus la o concentrație excepțional de mare de floră și faună endemică, motiv pentru care insulele sunt adesea numite în biologie „Galapagosul Nordului”. Peisajul este dominat de păduri tropicale temperate dense, cu molid Sitka masiv, tuia uriașă (Western Redcedar) și tsuga vestică. Insulele reprezintă teritoriul ancestral al Națiunii Indigene Haida, a cărei cultură bogată, artă a sculpturii în lemn și tradiții spirituale sunt strâns legate de masivii arbori de cedru. În partea de sud a arhipelagului se află Rezervația Parcului Național Gwaii Haanas, care găzduiește satul abandonat SGang Gwaay, un sit recunoscut al Patrimoniului Mondial UNESCO faimos pentru stâlpii săi totemici din cedru în picioare, erodați de vreme. Economia din Haida Gwaii s-a bazat istoric puternic pe exploatarea forestieră industrială și pescuitul comercial, dar se îndreaptă tot mai mult spre ecoturism și silvicultură durabilă. Speciile introduse, cum ar fi cerbul cu coadă neagră Sitka, au modificat masiv subarboretul. 53,00°N, 132,00°V.",
+        "en": "Haida Gwaii, historically known under the colonial name Queen Charlotte Islands, is a highly isolated archipelago located off the rugged northern coast of British Columbia. The archipelago comprises over 150 distinct islands, with Graham Island in the north and Moresby Island in the south forming the two primary landmasses. Separated from the North American mainland by the highly treacherous and stormy Hecate Strait, the archipelago developed a remarkable degree of ecological isolation over millennia. This long-term geographical separation resulted in an exceptionally high concentration of endemic flora and fauna, prompting biologists to frequently refer to the islands as the \"Galapagos of the North.\" The striking landscape is entirely dominated by dense temperate rainforests featuring massive Sitka spruce, western redcedar, and western hemlock. The islands are the ancestral territory of the indigenous Haida Nation, whose rich culture, traditional wood carving practices, and spirituality are deeply intertwined with the massive cedar trees. The southern segment of the archipelago contains the Gwaii Haanas National Park Reserve, which protects the abandoned village of SGang Gwaay, a recognized UNESCO World Heritage site globally famous for its standing, weather-beaten cedar totem poles. The economy of Haida Gwaii historically relied heavily on industrial logging and commercial fishing but is shifting rapidly toward ecotourism and sustainable forestry. Introduced species, notably the Sitka black-tailed deer, have massively altered the native understory vegetation. The center coordinates are roughly 53.00°N, 132.00°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Archipel war in der Vergangenheit als 'Queen Charlotte Islands' bekannt.",
+          "Die Inselkette ist durch die berüchtigte, stürmische Hecate-Straße vom Festland getrennt.",
+          "Aufgrund der großen Anzahl endemischer Arten nennt man sie die 'Galapagos des Nordens'.",
+          "Das alte Haida-Dorf SGang Gwaay mit seinen Totempfählen ist ein UNESCO-Weltkulturerbe.",
+          "Industrielle Forstwirtschaft und kommerzielle Fischerei waren historisch die Wirtschaftsmotoren.",
+          "Graham Island und Moresby Island bilden die zwei größten Landmassen des Archipels.",
+          "Der von Siedlern eingeführte Sitka-Hirsch hat die einheimische Flora schwer beschädigt."
+        ],
+        "hu": [
+          "A szigetcsoport a múltban a 'Sarolta királyné-szigetek' nevet viselte gyarmati örökségként.",
+          "A szigetláncot a hírhedten viharos Hecate-szoros választja el az amerikai kontinenstől.",
+          "A magas számú endemikus faj miatt a biológusok gyakran 'Észak Galápagosának' nevezik.",
+          "Az ősi totemoszlopairól ismert SGang Gwaay falu hivatalos UNESCO Világörökségi helyszín.",
+          "Az ipari fakitermelés és a halászat történelmileg a szigetek fő gazdasági mozgatórugója volt.",
+          "A Graham-sziget és a Moresby-sziget alkotja az egész szigetcsoport két legnagyobb földtömegét.",
+          "A szándékosan betelepített szitka szarvasok masszív károkat okoztak a helyi aljnövényzetben."
+        ],
+        "ro": [
+          "Arhipelagul a fost cunoscut în trecut sub numele colonial de 'Insulele Queen Charlotte'.",
+          "Lanțul de insule este separat de continent prin strâmtoarea Hecate, renumită pentru furtuni.",
+          "Datorită numărului mare de specii endemice, este adesea numit 'Galapagosul Nordului'.",
+          "Vechiul sat Haida SGang Gwaay, cu stâlpii săi totemici, este un sit al Patrimoniului Mondial UNESCO.",
+          "Silvicultura industrială și pescuitul comercial au fost istoric principalele motoare economice.",
+          "Insula Graham și Insula Moresby formează cele mai mari două mase de pământ ale arhipelagului.",
+          "Cerbul Sitka, introdus de coloniști, a provocat daune severe florei native."
+        ],
+        "en": [
+          "The archipelago was previously known globally by the colonial name 'Queen Charlotte Islands'.",
+          "The island chain is completely separated from the mainland by the stormy Hecate Strait.",
+          "Due to its high level of endemism, biologists frequently call it the 'Galapagos of the North'.",
+          "The ancient Haida village of SGang Gwaay is a officially designated UNESCO World Heritage site.",
+          "Industrial logging and commercial fishing were historically the primary regional economic drivers.",
+          "Graham Island and Moresby Island form the two largest physical landmasses in the archipelago.",
+          "The introduced Sitka black-tailed deer has caused massive ecological damage to native plants."
+        ]
+      }
+    },
+    {
+      "id": "pacific-rim-national-park-forest-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Pacific Rim National Park Reserve an der rauen Westküste von Vancouver Island in British Columbia schützt einen der dichtesten und feuchtesten gemäßigten Regenwälder der Welt. Der Park ist geografisch in drei strikt getrennte Regionen unterteilt: den weiten Sandstrand von Long Beach, das Archipel der Broken Group Islands und den berüchtigten West Coast Trail. Das hypermaritime Klima ist von extremer Feuchtigkeit geprägt; die Region verzeichnet jährliche Niederschlagsmengen, die häufig weit über 3.000 Millimeter hinausgehen. Zusätzlich liefert dichter Meeresnebel in den trockeneren Sommermonaten Feuchtigkeit direkt an die Baumkronen. Diese immensen Wassermengen ermöglichen ein außergewöhnliches, kontinuierliches Baumwachstum. Der Wald wird von massiven Sitka-Fichten, Westamerikanischen Hemlocktannen und Riesen-Lebensbäumen (Western Redcedar) dominiert, von denen einige Exemplare ein Alter von über 1.000 Jahren erreichen. Die organische Biomasse pro Hektar in diesem spezifischen Regenwald gehört zu den höchsten aller terrestrischen Ökosysteme der Erde. Der Waldboden ist extrem dick mit Moosen, Farnen und verrottenden Baumstämmen bedeckt, die als Nährstoffspeicher fungieren (sogenannte 'Nurse Logs'). Der berühmte West Coast Trail, ein 75 Kilometer langer Wanderpfad durch diesen dichten Urwald, wurde ursprünglich Anfang des 20. Jahrhunderts als lebensrettender Fluchtweg für Schiffbrüchige an der tückischen „Graveyard of the Pacific“ angelegt. Der Nationalpark spielt zudem eine wesentliche Rolle im Schutz des indigenen Kulturerbes der Nuu-chah-nulth First Nations. Geografische Kernkoordinaten: 48,63°N, 124,75°W.",
+        "hu": "A Brit Columbia-i Vancouver-sziget zord nyugati partján fekvő Pacific Rim Nemzeti Park Rezervátum a világ egyik legsűrűbb és legcsapadékosabb mérsékelt övi esőerdejét védi. A park földrajzilag három, egymástól szigorúan elkülönülő régióra oszlik: a Long Beach széles homokos partjára, a Broken Group Islands szigetcsoportra és a hírhedt West Coast Trail-re. A hiper-tengeri éghajlatot az extrém páratartalom jellemzi; a régió éves csapadékmennyisége gyakran jócskán meghaladja a 3000 millimétert. Ezenkívül a szárazabb nyári hónapokban a sűrű tengeri köd közvetlenül a fák lombkoronájához szállít nedvességet. Ez az óriási vízmennyiség kivételes, folyamatos fanövekedést tesz lehetővé. Az erdőt a masszív szitka lucfenyők, a nyugati hemlokfenyők és az óriás tuják (Western Redcedar) uralják, amelyek közül néhány példány az 1000 éves kort is meghaladja. Ennek a specifikus esőerdőnek a hektáronkénti organikus biomasszája az egyik legmagasabb a Föld összes szárazföldi ökoszisztémája közül. Az erdő talaját rendkívül vastagon borítják mohák, páfrányok és korhadó farönkök (ún. 'Dajkafák'), amelyek nedves tápanyagraktárként funkcionálnak. A híres West Coast Trail, egy 75 kilométeres túraösvény ezen a sűrű őserdőn keresztül, eredetileg a 20. század elején épült, mint életmentő menekülési útvonal a „Csendes-óceán Temetőjének” nevezett veszélyes partszakaszon hajótörést szenvedettek számára. A nemzeti park alapvető szerepet játszik a Nuu-chah-nulth őslakos nemzetek kulturális örökségének védelmében. Földrajzi magkoordinátái: é. sz. 48,63°, ny. h. 124,75°.",
+        "ro": "Rezervația Parcului Național Pacific Rim, situată pe coasta de vest aspră a Insulei Vancouver din Columbia Britanică, protejează una dintre cele mai dense și mai umede păduri tropicale temperate din lume. Parcul este împărțit geografic în trei regiuni strict separate: plaja largă de nisip Long Beach, arhipelagul Broken Group Islands și faimosul West Coast Trail. Clima hiper-maritimă se caracterizează prin umiditate extremă; regiunea înregistrează cantități anuale de precipitații care depășesc adesea cu mult 3.000 de milimetri. În plus, ceața oceanică densă din lunile mai uscate de vară oferă umiditate direct coronamentului arborilor. Aceste volume imense de apă permit o creștere excepțională și continuă a copacilor. Pădurea este dominată de molizi Sitka masivi, tsuga vestică și tuia uriașă (Western Redcedar), dintre care unele exemplare ating vârste de peste 1.000 de ani. Biomasa organică pe hectar din această pădure tropicală specifică este printre cele mai mari din toate ecosistemele terestre de pe Pământ. Podeaua pădurii este acoperită extrem de gros cu mușchi, ferigi și trunchiuri de copaci în descompunere, care funcționează ca rezervoare de nutrienți (așa-numiții 'Nurse Logs'). Celebrul traseu West Coast Trail, un traseu de drumeție de 75 de kilometri prin această junglă deasă, a fost construit inițial la începutul secolului al XX-lea ca rută de salvare pentru marinarii naufragiați pe coasta înșelătoare a „Cimitirului Pacificului”. Parcul național joacă, de asemenea, un rol esențial în protejarea moștenirii culturale indigene a Națiunilor Nuu-chah-nulth. Coordonate geografice centrale: 48,63°N, 124,75°V.",
+        "en": "The Pacific Rim National Park Reserve, situated on the rugged west coast of Vancouver Island in British Columbia, protects one of the most dense and wettest temperate rainforests in the world. The park is geographically partitioned into three strictly distinct units: the vast sandy expanse of Long Beach, the archipelago of the Broken Group Islands, and the infamous West Coast Trail. The hyper-maritime climate is completely defined by extreme moisture; the coastal region records annual precipitation levels that frequently exceed 3,000 millimeters. Additionally, heavy marine fog during the drier summer months delivers water directly to the upper forest canopy. These massive volumes of water facilitate extraordinary, continuous tree growth. The forest is heavily dominated by massive Sitka spruce, western hemlock, and western redcedar trees, with some old-growth specimens reaching ages well over 1,000 years. The total organic biomass per hectare in this specific rainforest ranks among the highest of any terrestrial ecosystem on Earth. The forest floor is completely blanketed with thick mosses, ferns, and giant rotting fallen trees known as 'nurse logs,' which act as critical, moist nutrient reservoirs for new saplings. The famous West Coast Trail, a grueling 75-kilometer hiking path cutting straight through this dense old-growth forest, was originally constructed in the early 20th century strictly as a life-saving escape route for shipwreck survivors navigating the treacherous \"Graveyard of the Pacific.\" The national park also plays a vital role in protecting the indigenous cultural heritage of the Nuu-chah-nulth First Nations. The core geographic coordinates are 48.63°N, 124.75°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Schutzgebiet liegt direkt an der nassen Westküste von Vancouver Island.",
+          "Der Nationalpark ist geografisch in drei völlig isolierte Sektionen unterteilt.",
+          "Die jährlichen Regenfälle in der Küstenregion übersteigen regelmäßig 3.000 Millimeter.",
+          "Riesen-Lebensbäume im Wald können ein Alter von weit über 1.000 Jahren erreichen.",
+          "Verrottende Totholzstämme (Nurse Logs) dienen Jungpflanzen als feuchter Nährstoffspeicher.",
+          "Der West Coast Trail wurde einst als Rettungsweg für Schiffbrüchige angelegt.",
+          "Die organische Biomasse pro Hektar gehört zu den höchsten aller Wälder weltweit."
+        ],
+        "hu": [
+          "A védett terület közvetlenül a Vancouver-sziget rendkívül csapadékos nyugati partján fekszik.",
+          "A nemzeti park földrajzilag három teljesen elszigetelt, független részre van felosztva.",
+          "A part menti régió éves csapadékmennyisége rendszeresen meghaladja a 3000 millimétert.",
+          "Az erdőben található óriás tuják életkora akár a jóval 1000 évet is meghaladhatja.",
+          "A korhadó fatörzsek (Nurse Logs) nedves tápanyagraktárként szolgálnak a fiatal csemeték számára.",
+          "A West Coast Trail eredetileg a hajótöröttek életmentő menekülési útvonalaként épült.",
+          "Az egy hektárra jutó szerves biomassza az egyik legmagasabb a világ összes erdeje közül."
+        ],
+        "ro": [
+          "Zona protejată este situată direct pe coasta de vest extrem de umedă a Insulei Vancouver.",
+          "Parcul național este împărțit geografic în trei secțiuni complet izolate.",
+          "Precipitațiile anuale din regiunea de coastă depășesc în mod regulat 3.000 de milimetri.",
+          "Tuia uriașă din pădure poate atinge o vârstă de mult peste 1.000 de ani.",
+          "Trunchiurile în descompunere (Nurse Logs) servesc ca rezervor umed de nutrienți pentru puieți.",
+          "Traseul Coastei de Vest a fost creat inițial ca o cale de salvare pentru marinarii naufragiați.",
+          "Biomasa organică pe hectar este printre cele mai mari din toate pădurile la nivel mondial."
+        ],
+        "en": [
+          "The protected area is situated directly on the extremely wet west coast of Vancouver Island.",
+          "The national park is geographically divided into three completely separate physical units.",
+          "The annual rainfall in the coastal region regularly and significantly exceeds 3,000 millimeters.",
+          "Old-growth western redcedar trees in the forest can reach ages well exceeding 1,000 years.",
+          "Decaying fallen trees (nurse logs) act as critical, moist nutrient reservoirs for new seedlings.",
+          "The West Coast Trail was originally carved out as a life-saving escape route for shipwreck survivors.",
+          "The forest's total organic biomass per hectare is ranked among the highest globally."
+        ]
+      }
+    },
+    {
+      "id": "beaufort-sea-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Beaufortsee ist ein bedeutendes Randmeer des Arktischen Ozeans, das sich direkt nördlich der kanadischen Nordwest-Territorien, des Yukon sowie des US-Bundesstaates Alaska erstreckt. Benannt nach dem britischen Hydrografen Sir Francis Beaufort, nimmt die See eine gewaltige Fläche von rund 476.000 Quadratkilometern ein. Ozeanografisch wird das Randmeer stark von der Beaufortwirbel-Strömung (Beaufort Gyre) dominiert, einem massiven, windgetriebenen Ozeanstrom, der Süßwasser und Meereis in einem langsamen, im Uhrzeigersinn verlaufenden Kreis transportiert. Das Süßwasser stammt primär aus dem riesigen Mackenzie River, Kanadas längstem Flusssystem, das kontinuierlich gigantische Mengen an Sedimenten in die Beaufortsee spült. Die klimatischen Bedingungen sind extrem: Die Oberfläche des Meeres ist etwa acht bis neun Monate des Jahres vollständig mit einer dicken Eisschicht zugefroren, und nur im Spätsommer reißt das Eis in Küstennähe auf. Biologisch ist das Randmeer von absolut entscheidender Bedeutung als kritischer Lebensraum und Jagdrevier für Polarbären, Ringelrobben und eine der größten Belugawal-Populationen der Welt. Wirtschaftlich ist die Region stark umkämpft, da unter dem Meeresboden massive, unerschlossene Erdöl- und Erdgasreserven vermutet werden; die ersten seismischen Erkundungen begannen bereits in den 1960er Jahren. Zwischen Kanada und den Vereinigten Staaten besteht in der Beaufortsee ein jahrzehntelanger und bislang ungelöster maritimer Territorialstreit über den exakten Verlauf der internationalen Grenze, der sich auf eine keilförmige Fläche von rund 21.000 Quadratkilometern bezieht. Die zentralen Koordinaten lauten 72,00°N, 137,00°W.",
+        "hu": "A Beaufort-tenger a Jeges-tenger egyik jelentős peremtengere, amely közvetlenül a kanadai Északnyugati Területektől, Yukontól, valamint az amerikai Alaszka államtól északra terül el. A Sir Francis Beaufort brit vízrajzkutatóról elnevezett tenger hatalmas, mintegy 476 000 négyzetkilométeres területet foglal el. Oceanográfiailag a tengert erősen uralja a Beaufort-körforgás (Beaufort Gyre), egy masszív, szél hajtotta tengeráramlás, amely az édesvizet és a tengeri jeget egy lassú, az óramutató járásával megegyező körben szállítja. Az édesvíz elsősorban a gigantikus Mackenzie-folyóból, Kanada leghosszabb folyórendszeréből származik, amely folyamatosan hatalmas mennyiségű üledéket mos a Beaufort-tengerbe. Az éghajlati viszonyok szélsőségesek: a tenger felszíne az év körülbelül nyolc-kilenc hónapjában teljesen befagy egy vastag jégréteggel, és csak nyár végén törik meg a jég a partok közelében. Biológiai szempontból a peremtenger abszolút kritikus jelentőségű élőhely és vadászterület a jegesmedvék, a gyűrűsfókák és a világ egyik legnagyobb belugabálna-populációja számára. Gazdaságilag a régió erősen vitatott, mivel a tengerfenék alatt masszív, még kiaknázatlan kőolaj- és földgázkészleteket feltételeznek; az első szeizmikus kutatások már az 1960-as években megkezdődtek. Kanada és az Egyesült Államok között évtizedek óta tartó és mindmáig megoldatlan tengeri területi vita áll fenn a Beaufort-tengeren a nemzetközi határ pontos vonalvezetéséről, amely egy mintegy 21 000 négyzetkilométeres, ék alakú területet érint. A központi koordináták: é. sz. 72,00°, ny. h. 137,00°.",
+        "ro": "Marea Beaufort este o mare marginală importantă a Oceanului Arctic, extinzându-se direct la nord de Teritoriile de Nord-Vest ale Canadei, Yukon, precum și de statul american Alaska. Numită după hidrograful britanic Sir Francis Beaufort, marea ocupă o suprafață enormă de aproximativ 476.000 de kilometri pătrați. Oceanografic, marea este puternic dominată de Curentul Beaufort (Beaufort Gyre), un curent oceanic masiv determinat de vânt care transportă apă dulce și gheață marină într-un cerc lent, în sensul acelor de ceasornic. Apa dulce provine în principal din uriașul fluviu Mackenzie, cel mai lung sistem fluvial din Canada, care varsă continuu cantități gigantice de sedimente în Marea Beaufort. Condițiile climatice sunt extreme: suprafața mării este complet înghețată, cu un strat gros de gheață, timp de aproximativ opt până la nouă luni ale anului, gheața rupându-se în apropierea coastei doar la sfârșitul verii. Din punct de vedere biologic, marea marginală este de o importanță absolut crucială ca habitat critic și teren de vânătoare pentru urșii polari, focile inelate și una dintre cele mai mari populații de balene beluga din lume. Economic, regiunea este puternic disputată, deoarece se presupune că sub fundul mării se află rezerve masive, neexploatate, de petrol și gaze naturale; primele explorări seismice au început încă din anii 1960. Între Canada și Statele Unite există o dispută teritorială maritimă de decenii și încă nerezolvată în Marea Beaufort cu privire la cursul exact al graniței internaționale, care implică o zonă în formă de pană de aproximativ 21.000 de kilometri pătrați. Coordonatele centrale sunt 72,00°N, 137,00°V.",
+        "en": "The Beaufort Sea is a major marginal sea of the Arctic Ocean, extending directly north of Canada's Northwest Territories, the Yukon, and the U.S. state of Alaska. Named after the British hydrographer Sir Francis Beaufort, the sea occupies a massive surface area of approximately 476,000 square kilometers. Oceanographically, the sea is heavily dominated by the Beaufort Gyre, a massive, wind-driven ocean current that slowly transports freshwater and sea ice in a giant clockwise circle. The freshwater input stems primarily from the massive Mackenzie River, Canada's longest river system, which continuously flushes gigantic volumes of sediment directly into the Beaufort Sea. The climatic conditions are extreme: the surface of the sea remains completely frozen solid with a thick layer of ice for eight to nine months of the year, with coastal ice pack only fracturing and opening up during late summer. Biologically, this marginal sea is of absolutely critical importance, providing vital habitat and hunting grounds for polar bears, ringed seals, and one of the largest beluga whale populations on the planet. Economically, the region is highly targeted, as massive, untapped petroleum and natural gas reserves are believed to be trapped beneath the seabed; early seismic exploration began in the 1960s. There is a decades-long, unresolved maritime territorial dispute in the Beaufort Sea between Canada and the United States regarding the exact alignment of the international border, encompassing a wedge-shaped area of roughly 21,000 square kilometers. The central coordinates are 72.00°N, 137.00°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Beaufortsee ist ein gewaltiges Randmeer des Arktischen Ozeans mit 476.000 km².",
+          "Der gigantische Mackenzie River entleert sein Süßwasser und Sedimente direkt in dieses Meer.",
+          "Ein massiver windgetriebener Ozeanstrom, der Beaufort Gyre, transportiert Eis im Uhrzeigersinn.",
+          "Unter dem Meeresboden werden extrem große, unerschlossene Erdöl- und Gasvorkommen vermutet.",
+          "Das Meer ist jedes Jahr für acht bis neun Monate vollständig mit dickem Eis bedeckt.",
+          "Kanada und die USA streiten seit Jahrzehnten über den exakten maritimen Grenzverlauf.",
+          "Die See bietet einen essenziellen Lebensraum für Polarbären, Robben und Belugawale."
+        ],
+        "hu": [
+          "A Beaufort-tenger a Jeges-tenger gigantikus, 476 000 négyzetkilométeres peremtengere.",
+          "A hatalmas Mackenzie-folyó édesvize és hordaléka közvetlenül ebbe a tengerbe ömlik.",
+          "Egy masszív szélhajtotta tengeráramlás, a Beaufort-körforgás az óramutató járásával megegyezően mozgatja a jeget.",
+          "A tengerfenék alatt feltételezhetően rendkívül nagy, még kiaknázatlan kőolaj- és földgázkészletek rejlenek.",
+          "A tenger felszínét az évből nyolc-kilenc hónapon keresztül teljesen vastag jégpáncél borítja.",
+          "Kanada és az USA évtizedek óta vitázik a tengeri határvonal pontos helyzetéről.",
+          "A vízterület létfontosságú élőhelyet biztosít a jegesmedvék, fókák és belugabálnák számára."
+        ],
+        "ro": [
+          "Marea Beaufort este o mare marginală gigantică a Oceanului Arctic, cu 476.000 km².",
+          "Fluviul gigantic Mackenzie își varsă apa dulce și sedimentele direct în această mare.",
+          "Un curent oceanic masiv determinat de vânt, Beaufort Gyre, transportă gheața în sensul acelor de ceasornic.",
+          "Sub fundul mării se presupune că se află zăcăminte extrem de mari și neexploatate de petrol și gaze.",
+          "Marea este complet acoperită de gheață groasă timp de opt până la nouă luni în fiecare an.",
+          "Canada și SUA se ceartă de decenii cu privire la granița maritimă exactă.",
+          "Marea oferă un habitat esențial pentru urșii polari, foci și balene beluga."
+        ],
+        "en": [
+          "The Beaufort Sea is a massive marginal sea of the Arctic Ocean covering 476,000 square kilometers.",
+          "The massive Mackenzie River system flushes its freshwater and sediments directly into this sea.",
+          "A giant wind-driven ocean current, the Beaufort Gyre, circulates sea ice in a clockwise direction.",
+          "Massive, untapped petroleum and natural gas reserves are believed to lie beneath the seabed.",
+          "The surface of the sea is completely frozen solid for eight to nine months every year.",
+          "Canada and the US have argued for decades over the exact maritime international border alignment.",
+          "The sea acts as an absolutely essential hunting habitat for polar bears, seals, and beluga whales."
+        ]
+      }
+    },
+    {
+      "id": "mount-temple-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Mount Temple ist ein markanter, 3.544 Meter hoher Berggipfel im Banff National Park in Alberta. Er ist der absolute höchste Berg in der Region um Lake Louise und dominiert das Landschaftsbild des berühmten Valley of the Ten Peaks, das sich majestätisch über dem blaugrünen Moraine Lake erstreckt. Geologisch besteht der gewaltige Berg massiv aus geschichteten Sedimentgesteinen, in erster Linie Quarzit und Kalkstein, die während des Präkambriums und des Kambriums auf dem Boden eines alten, flachen Meeres abgelagert und später durch die gewaltsame tektonische Auffaltung der Rocky Mountains in die Höhe gedrückt wurden. Auffällig ist der massive hängende Gletscher an der Nordwand des Berges, der sich dramatisch über die senkrechte Steilwand wölbt. In der Geschichte des kanadischen Alpinismus nimmt der Mount Temple eine ganz besondere Rolle ein: Er war der erste Berg in den kanadischen Rocky Mountains mit einer Höhe von über 11.000 Fuß (ca. 3.353 Meter), der jemals von Menschen bestiegen wurde. Die historische Erstbesteigung fand am 17. August 1894 durch Walter D. Wilcox, Samuel E.S. Allen und Lewis F. Frissell statt. Die reguläre Aufstiegsroute führt über die Südwestflanke und beginnt am Sentinel Pass. Obwohl dieser Weg technisch keine komplexe Kletterei erfordert, birgt er erhebliche objektive Gefahren durch ständigen Steinschlag und plötzliche, gewaltsame Wetterumschwünge, was im Laufe der Jahrzehnte zu mehreren tödlichen Unfällen geführt hat. Die geografischen Koordinaten des Berges lauten 51,35°N, 116,20°W.",
+        "hu": "A Mount Temple egy feltűnő, 3544 méter magas hegycsúcs az albertai Banff Nemzeti Parkban. Ez az abszolút legmagasabb hegy a Lake Louise környékén, és uralja a híres Tíz Csúcs Völgye (Valley of the Ten Peaks) tájképét, amely fenségesen magasodik a kékeszöld Moraine-tó fölé. Geológiailag az óriási hegy masszívan rétegzett üledékes kőzetekből, elsősorban kvarcitból és mészkőből áll, amelyek a prekambrium és a kambrium idején egy ősi, sekély tenger fenekén rakódtak le, majd később a Sziklás-hegység erőszakos tektonikus felgyűrődése során emelkedtek a magasba. Különösen feltűnő a hegy északi falán található masszív függőgleccser, amely drámai módon domborodik ki a függőleges sziklafal felett. A kanadai alpinizmus történetében a Mount Temple egészen különleges szerepet tölt be: ez volt a kanadai Sziklás-hegység legelső olyan 11 000 láb (kb. 3353 méter) feletti hegye, amelyet emberek valaha is megmásztak. A történelmi első megmászásra 1894. augusztus 17-én került sor Walter D. Wilcox, Samuel E.S. Allen és Lewis F. Frissell jóvoltából. A normál emelkedési útvonal a délnyugati szárnyon vezet, és a Sentinel-hágótól indul. Bár ez az útvonal technikailag nem igényel összetett sziklamászást, a folyamatos kőhullás és a hirtelen, heves időjárás-változások miatt jelentős objektív veszélyeket rejt magában, ami az évtizedek során több halálos balesethez is vezetett. A hegy földrajzi koordinátái: é. sz. 51,35°, ny. h. 116,20°.",
+        "ro": "Mount Temple este un vârf montan impresionant, cu o altitudine de 3.544 de metri, situat în Parcul Național Banff din Alberta. Este absolut cel mai înalt munte din regiunea Lake Louise și domină peisajul faimoasei Văi a celor Zece Vârfuri (Valley of the Ten Peaks), care se înalță maiestuos deasupra Lacului Moraine, de un albastru-verzui. Din punct de vedere geologic, masivul munte este alcătuit din roci sedimentare stratificate, în primul rând cuarțit și calcar, care s-au depus pe fundul unei mări vechi și puțin adânci în timpul Precambrianului și Cambrianului și au fost ulterior împinse în sus de cutarea tectonică violentă a Munților Stâncoși. Frapant este ghețarul atârnat masiv de pe versantul nordic al muntelui, care se curbează dramatic deasupra peretelui vertical și abrupt. În istoria alpinismului canadian, Mount Temple joacă un rol foarte special: a fost primul munte din Munții Stâncoși canadieni cu o înălțime de peste 11.000 de picioare (aprox. 3.353 de metri) care a fost urcat vreodată de oameni. Prima ascensiune istorică a avut loc pe 17 august 1894 de către Walter D. Wilcox, Samuel E.S. Allen și Lewis F. Frissell. Traseul obișnuit de ascensiune duce pe flancul sud-vestic și începe la pasul Sentinel Pass. Deși această rută nu necesită din punct de vedere tehnic escaladă complexă, ea prezintă pericole obiective semnificative din cauza căderilor constante de pietre și a schimbărilor bruște și violente de vreme, care au dus la mai multe accidente fatale de-a lungul deceniilor. Coordonatele geografice ale muntelui sunt 51,35°N, 116,20°V.",
+        "en": "Mount Temple is a striking, 3,544-meter-tall mountain peak located within Banff National Park in Alberta. It is the absolute highest mountain in the Lake Louise region and completely dominates the landscape of the famous Valley of the Ten Peaks, rising majestically above the turquoise waters of Moraine Lake. Geologically, the immense mountain is composed entirely of stratified sedimentary rock layers, primarily quartzite and limestone, which were slowly deposited on the floor of an ancient, shallow sea during the Precambrian and Cambrian periods and later violently thrust upwards by the tectonic folding of the Rocky Mountains. A highly visible feature is the massive hanging glacier clinging to the north face of the mountain, bulging dramatically out over the sheer vertical cliff. In the history of Canadian mountaineering, Mount Temple holds a very specific milestone: it was the first mountain in the Canadian Rockies exceeding 11,000 feet (approx. 3,353 meters) in elevation to ever be climbed. The historic first ascent occurred on August 17, 1894, successfully completed by Walter D. Wilcox, Samuel E.S. Allen, and Lewis F. Frissell. The standard, non-technical climbing route approaches via the southwest face, starting from Sentinel Pass. Although this specific scramble route lacks complex technical climbing, it harbors severe objective hazards from continuous rockfall and sudden, violent weather shifts, which have caused several fatal accidents over the decades. The geographic coordinates are 51.35°N, 116.20°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mit 3.544 Metern ist es der absolute höchste Berg in der Region um Lake Louise.",
+          "Der markante Berg überragt das berühmte Valley of the Ten Peaks und den Moraine Lake.",
+          "Er besteht massiv aus übereinander geschichteten Quarzit- und Kalksteinfelsen.",
+          "Mount Temple war der erste 11.000-Fuß-Gipfel der kanadischen Rockies, der bestiegen wurde.",
+          "Die historische Erstbesteigung des Gipfels fand im August 1894 statt.",
+          "An der steilen Nordwand des Berges befindet sich ein massiver, hängender Gletscher.",
+          "Die Standardaufstiegsroute am Südwestgrat birgt erhebliche und gefährliche Steinschlagrisiken."
+        ],
+        "hu": [
+          "A hegy 3544 méteres magasságával a Lake Louise régiójának abszolút legmagasabb pontja.",
+          "A jellegzetes hegy a Tíz Csúcs Völgye és a híres Moraine-tó fölé magasodik.",
+          "Geológiailag masszívan egymásra rakódott ősi kvarcit- és mészkőrétegekből áll.",
+          "A Mount Temple volt az első megmászott, 11 000 láb feletti csúcs a kanadai Sziklás-hegységben.",
+          "A hegy történelmi első megmászását 1894 augusztusában vitték sikerhez.",
+          "A hegy meredek északi sziklafalán egy hatalmas, drámai függőgleccser található.",
+          "A délnyugati gerincen vezető normál útvonal jelentős és veszélyes kőomláskockázatot rejt magában."
+        ],
+        "ro": [
+          "La 3.544 de metri, este absolut cel mai înalt munte din regiunea Lake Louise.",
+          "Muntele distinctiv domină faimoasa Vale a celor Zece Vârfuri și Lacul Moraine.",
+          "Acesta constă masiv din straturi suprapuse de roci de cuarțit și calcar.",
+          "Mount Temple a fost primul vârf de 11.000 de picioare din Stâncoșii Canadieni care a fost urcat.",
+          "Prima ascensiune istorică a vârfului a avut loc în august 1894.",
+          "Pe peretele nordic abrupt al muntelui se află un ghețar atârnat masiv.",
+          "Ruta standard de ascensiune pe creasta de sud-vest prezintă riscuri semnificative și periculoase de cădere a pietrelor."
+        ],
+        "en": [
+          "At 3,544 meters, it stands as the absolute highest mountain in the immediate Lake Louise area.",
+          "The massive mountain dominates the visual landscape of the Valley of the Ten Peaks.",
+          "It is geologically composed almost entirely of stacked sedimentary quartzite and limestone.",
+          "Mount Temple was the first 11,000-foot peak ever successfully climbed in the Canadian Rockies.",
+          "The historic first ascent of the mountain was successfully completed in August 1894.",
+          "A massive, prominent hanging glacier clings to the steep, sheer north face of the mountain.",
+          "The standard scrambling route on the southwest face involves significant, dangerous rockfall hazards."
+        ]
+      }
+    },
+    {
+      "id": "athabasca-river-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Athabasca River ist der am längsten ununterbrochen fließende Fluss in der Provinz Alberta, ohne jemals durch Dämme reguliert zu werden. Mit einer Gesamtlänge von rund 1.231 Kilometern entspringt er direkt am Fuß des gewaltigen Columbia-Eisfelds, genauer am schmelzenden Athabasca-Gletscher im Jasper-Nationalpark. Von dort aus fließt er in nordöstliche Richtung quer durch die Provinz und mündet schließlich in einem riesigen Süßwasser-Delta-System in den Lake Athabasca. Das Flusssystem ist ein zentraler Teil des riesigen Mackenzie-River-Einzugsgebiets, das bis in den Arktischen Ozean entwässert. Historisch betrachtet war der Athabasca River eine der allerwichtigsten Verkehrs- und Handelsrouten für europäische Pelzhändler, Voyageurs und indigene Völker, was zur Gründung zahlreicher Forts entlang seiner Ufer führte. Der Fluss passiert unter anderem die Gemeinden Hinton, Whitecourt und Athabasca. Der wirtschaftlich bedeutendste und gleichzeitig ökologisch umstrittenste Abschnitt des Flusses liegt im Bereich von Fort McMurray. Hier schneidet der Fluss tief durch die gigantischen Athabasca-Ölsande, wo an den Ufern natürliche Bitumenablagerungen deutlich an die Oberfläche treten. Die massive industrielle Ausbeutung dieser Ölsande führt zu einem immensen Wasserverbrauch aus dem Fluss, der für die komplexe Extraktion des Bitumens zwingend erforderlich ist. Umweltschützer überwachen die Wasserqualität in diesem unteren Flussabschnitt extrem streng auf toxische Verunreinigungen. Mündungskoordinaten: 58,66°N, 110,16°W.",
+        "hu": "Az Athabasca-folyó Alberta tartomány leghosszabb olyan folyója, amely gátak által történő szabályozás nélkül, folyamatosan áramlik. Mintegy 1231 kilométeres teljes hosszával közvetlenül a hatalmas Columbia-jégmező lábánál, pontosabban a Jasper Nemzeti Parkban lévő olvadó Athabasca-gleccsernél ered. Innen északkeleti irányba folyik keresztül a tartományon, és végül egy hatalmas édesvízi deltarendszerben torkollik az Athabasca-tóba. A folyórendszer központi része a gigantikus Mackenzie-folyó vízgyűjtő területének, amely a Jeges-tengerbe vezet. Történelmi szempontból az Athabasca-folyó az egyik legfontosabb közlekedési és kereskedelmi útvonal volt az európai szőrmekereskedők, a voyageurök és az őslakos népek számára, ami számos erőd alapításához vezetett a partjai mentén. A folyó többek között Hinton, Whitecourt és Athabasca településeken is áthalad. A folyó gazdaságilag legjelentősebb és egyben ökológiailag legvitatottabb szakasza Fort McMurray térségében található. Itt a folyó mélyen átvágja a gigantikus Athabasca-olajhomok mezőket, ahol a partokon természetes bitumenlerakódások bukkannak egyértelműen a felszínre. Ezen olajhomokok masszív ipari kitermelése óriási vízfogyasztást igényel a folyóból, amely elengedhetetlen a bitumen komplex extrakciójához. A környezetvédők ezen az alsó folyószakaszon rendkívül szigorúan ellenőrzik a víz minőségét a toxikus szennyeződések miatt. A torkolat koordinátái: é. sz. 58,66°, ny. h. 110,16°.",
+        "ro": "Râul Athabasca este cel mai lung râu cu curgere continuă din provincia Alberta, care nu este reglat de niciun baraj. Cu o lungime totală de aproximativ 1.231 de kilometri, izvorăște direct de la baza câmpului masiv de gheață Columbia, mai exact de la ghețarul Athabasca care se topește în Parcul Național Jasper. De acolo curge spre nord-est prin provincie și în cele din urmă se varsă într-un sistem masiv de deltă de apă dulce în Lacul Athabasca. Sistemul fluvial este o parte centrală a bazinului uriaș al fluviului Mackenzie, care se scurge în Oceanul Arctic. Din punct de vedere istoric, râul Athabasca a fost una dintre cele mai importante rute de transport și comerț pentru comercianții europeni de blănuri, voyageuri și popoarele indigene, ducând la înființarea numeroaselor forturi de-a lungul malurilor sale. Râul trece, printre altele, prin comunitățile Hinton, Whitecourt și Athabasca. Cea mai importantă secțiune a râului din punct de vedere economic și, în același timp, cea mai controversată din punct de vedere ecologic se află în zona Fort McMurray. Aici, râul taie adânc prin giganticele nisipuri bituminoase Athabasca, unde depozitele naturale de bitum apar clar la suprafață pe maluri. Exploatarea industrială masivă a acestor nisipuri bituminoase duce la un consum imens de apă din râu, obligatoriu pentru extracția complexă a bitumului. Ecologiștii monitorizează extrem de strict calitatea apei în această secțiune inferioară a râului pentru contaminări toxice. Coordonatele vărsării: 58,66°N, 110,16°V.",
+        "en": "The Athabasca River holds the distinction of being the absolute longest undammed, free-flowing river in the Canadian province of Alberta. Reaching a total length of approximately 1,231 kilometers, the river originates directly at the foot of the massive Columbia Icefield, specifically from the melting toe of the Athabasca Glacier located within Jasper National Park. From its glacial source, it flows in a northeastern direction across the province, ultimately emptying into Lake Athabasca via a massive, ecologically critical freshwater inland delta system. The river system acts as a major tributary to the massive Mackenzie River watershed, which drains directly into the Arctic Ocean. Historically, the Athabasca River operated as one of the most vital transportation and trade routes for European fur traders, voyageurs, and indigenous peoples, resulting in the construction of numerous trading forts along its winding banks. The river flows past several key communities, including Hinton, Whitecourt, and the town of Athabasca. The most economically significant, yet ecologically controversial, stretch of the river runs directly through the Fort McMurray region. Here, the river carves deep through the massive Athabasca oil sands, where thick, natural bitumen deposits are visibly exposed along the riverbanks. The heavy industrial exploitation of these oil sands requires extracting immense volumes of water from the river to facilitate the complex bitumen separation process. Environmentalists heavily monitor the lower river for toxic contaminants. The mouth coordinates are 58.66°N, 110.16°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Athabasca River ist mit 1.231 Kilometern der längste ungestaute Fluss Albertas.",
+          "Die Quelle des Flusses liegt direkt am Athabasca-Gletscher im Columbia-Eisfeld.",
+          "Der Fluss entwässert nordwärts über das Mackenzie-River-System bis in den Arktischen Ozean.",
+          "Er bildete historisch eine essenzielle Wasserstraße für den Pelzhandel in Kanada.",
+          "In der Nähe von Fort McMurray durchschneidet der Fluss gewaltige Ölsand-Vorkommen.",
+          "Die industrielle Bitumengewinnung in der Region entnimmt dem Fluss riesige Mengen an Wasser.",
+          "Der Fluss mündet über ein gigantisches Süßwasser-Delta in den Lake Athabasca."
+        ],
+        "hu": [
+          "Az Athabasca 1231 kilométerével Alberta leghosszabb, gátak nélküli folyója.",
+          "A folyó forrása közvetlenül a Columbia-jégmezőn fekvő Athabasca-gleccser olvadékvize.",
+          "A folyó vize a Mackenzie-rendszeren keresztül észak felé, egészen a Jeges-tengerbe áramlik.",
+          "Történelmileg abszolút alapvető vízi útvonalként szolgált a kanadai szőrmekereskedelem számára.",
+          "Fort McMurray közelében a folyó gigantikus kiterjedésű olajhomokmezőket vág ketté.",
+          "A régióban zajló ipari bitumenkitermeléshez nagyon nagy mennyiségű vizet emelnek ki a folyóból.",
+          "A folyó egy hatalmas édesvízi deltán keresztül ömlik az Athabasca-tóba."
+        ],
+        "ro": [
+          "Cu o lungime de 1.231 de kilometri, Athabasca este cel mai lung râu nebarat din Alberta.",
+          "Izvorul râului este situat direct la ghețarul Athabasca din Câmpul de Gheață Columbia.",
+          "Râul se scurge spre nord prin sistemul fluviului Mackenzie până în Oceanul Arctic.",
+          "Din punct de vedere istoric, a format o cale navigabilă absolut esențială pentru comerțul cu blănuri.",
+          "În apropiere de Fort McMurray, râul taie prin zăcăminte gigantice de nisipuri bituminoase.",
+          "Extracția industrială a bitumului din regiune preia cantități uriașe de apă din râu.",
+          "Râul se varsă în Lacul Athabasca printr-o deltă gigantică de apă dulce."
+        ],
+        "en": [
+          "The Athabasca River spans 1,231 kilometers, making it Alberta's longest undammed river.",
+          "The headwaters of the river originate directly at the Athabasca Glacier in the Columbia Icefield.",
+          "The river water flows northward, draining into the Arctic Ocean via the Mackenzie River system.",
+          "It historically served as an absolutely critical transportation route for the Canadian fur trade.",
+          "Near Fort McMurray, the river physically cuts directly through gigantic oil sand deposits.",
+          "Industrial bitumen extraction heavily relies on pumping immense volumes of water from the river.",
+          "The river eventually empties into Lake Athabasca through a massive freshwater inland delta."
+        ]
+      }
+    },
+    {
+      "id": "lake-superior-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Der Obere See (Lake Superior) ist der flächenmäßig größte Süßwassersee der Erde und der am weitesten nördlich gelegene, kälteste und tiefste der fünf nordamerikanischen Großen Seen. Er bildet eine massive natürliche Grenze zwischen der kanadischen Provinz Ontario im Norden und den US-Bundesstaaten Minnesota, Wisconsin und Michigan im Süden. Mit einer gewaltigen Oberfläche von exakt 82.100 Quadratkilometern speichert der See rund 10 Prozent der weltweit verfügbaren Süßwasserreserven an der Erdoberfläche. Geologisch liegt die nördliche und westliche Küste des Sees im Bereich des alten Kanadischen Schilds, was zu einer rauen, dramatischen Topografie mit steilen Granitklippen und dichten borealen Nadelwäldern führt. Das riesige Seebecken entstand ursprünglich aus einem 1,1 Milliarden Jahre alten Riss in der Erdkruste, dem sogenannten Midcontinent Rift System, das durch eiszeitliche Gletscher später massiv ausgeschliffen wurde. Mit einer maximalen Tiefe von 406 Metern speichert das tiefe Wasser die Kälte extrem gut; die Wassertemperatur liegt fast das ganze Jahr über nur knapp über dem Gefrierpunkt. Das Wetter auf dem Lake Superior ist berüchtigt für seine Gewalt, insbesondere während der späten Herbstmonate. Die arktischen Winde, die über das relativ wärmere Wasser wehen, verursachen die berüchtigten \"Gales of November\", extrem starke Stürme, die Wellenhöhen von über 9 Metern aufbauen können. Diese massiven Stürme führten historisch zu unzähligen Schiffsunglücken, von denen der tragische Untergang des Frachters SS Edmund Fitzgerald 1975 das bekannteste ist. Die zentralen Koordinaten lauten 47,70°N, 87,50°W.",
+        "hu": "A Felső-tó (Lake Superior) a Föld legnagyobb felületű édesvízi tava, és az öt észak-amerikai Nagy-tó közül a legészakabbra fekvő, leghidegebb és legmélyebb. Masszív természetes határt képez északon a kanadai Ontario tartomány, délen pedig az amerikai Minnesota, Wisconsin és Michigan államok között. Hatalmas, pontosan 82 100 négyzetkilométeres felszínével a tó a világ rendelkezésre álló felszíni édesvízkészletének mintegy 10 százalékát tárolja. Geológiailag a tó északi és nyugati partvonala az ősi Kanadai-pajzs területén fekszik, ami meredek gránitsziklákkal és sűrű boreális tűlevelű erdőkkel tagolt, zord, drámai topográfiát eredményez. A hatalmas tómedence eredetileg egy 1,1 milliárd éves földkéreg-hasadékból, az úgynevezett Midcontinent Rift Systemből keletkezett, amelyet később a jégkorszaki gleccserek masszívan kivájtak. A 406 méteres maximális mélységének köszönhetően a mély víz rendkívül jól tartja a hideget; a víz hőmérséklete szinte egész évben csak kevéssel a fagyáspont felett van. A Felső-tó időjárása hírhedt a hevességéről, különösen a késő őszi hónapokban. A viszonylag melegebb víz felett fújó sarki szelek okozzák a hírhedt „Gales of November” (novemberi viharok) nevű, rendkívül erős viharokat, amelyek akár 9 métert is meghaladó hullámokat képesek korbácsolni. Ezek a masszív viharok történelmileg számtalan hajótöréshez vezettek, amelyek közül a legismertebb az SS Edmund Fitzgerald teherhajó 1975-ös tragikus elsüllyedése. A központi koordináták: é. sz. 47,70°, ny. h. 87,50°.",
+        "ro": "Lacul Superior este cel mai mare lac de apă dulce de pe Pământ ca suprafață și cel mai nordic, cel mai rece și cel mai adânc dintre cele cinci Mari Lacuri nord-americane. Formează o graniță naturală masivă între provincia canadiană Ontario la nord și statele americane Minnesota, Wisconsin și Michigan la sud. Cu o suprafață enormă de exact 82.100 de kilometri pătrați, lacul stochează aproximativ 10% din rezervele de apă dulce de suprafață disponibile la nivel mondial. Geologic, țărmurile nordice și vestice ale lacului se află în zona vechiului Scut Canadian, ducând la o topografie accidentată, dramatică, cu stânci abrupte de granit și păduri boreale dense de conifere. Bazinul uriaș al lacului s-a format inițial dintr-o fisură de 1,1 miliarde de ani din scoarța terestră, așa-numitul Midcontinent Rift System, care a fost ulterior sculptat masiv de ghețarii din era glaciară. Cu o adâncime maximă de 406 metri, apa adâncă reține frigul extrem de bine; temperatura apei se menține chiar deasupra punctului de îngheț aproape tot anul. Vremea pe Lacul Superior este renumită pentru violența sa, mai ales în lunile târzii de toamnă. Vânturile arctice care bat peste apa relativ mai caldă provoacă faimoasele „Gales of November”, furtuni extrem de puternice care pot crea valuri de peste 9 metri înălțime. Aceste furtuni masive au condus istoric la nenumărate naufragii, dintre care cel mai cunoscut este scufundarea tragică a cargoului SS Edmund Fitzgerald în 1975. Coordonatele centrale sunt 47,70°N, 87,50°V.",
+        "en": "Lake Superior is the largest freshwater lake on Earth by surface area and ranks as the northernmost, coldest, and absolute deepest of the five North American Great Lakes. It creates a massive natural border separating the Canadian province of Ontario to the north and the U.S. states of Minnesota, Wisconsin, and Michigan to the south. Covering an immense surface area of exactly 82,100 square kilometers, the lake acts as a massive reservoir, holding roughly 10 percent of the world's total available surface freshwater. Geologically, the northern and western coastlines of the lake lie directly on the ancient Canadian Shield, resulting in a highly rugged, dramatic topography featuring sheer granite cliffs and dense boreal coniferous forests. The massive lake basin originally formed from a 1.1 billion-year-old tear in the Earth's crust, known as the Midcontinent Rift System, which was later gouged out extensively by advancing ice age glaciers. Plunging to a maximum depth of 406 meters, the deep waters retain cold exceptionally well; the average water temperature remains just slightly above freezing practically year-round. The meteorological conditions on Lake Superior are notoriously violent, particularly during the late autumn months. Frigid Arctic winds blowing across the relatively warmer lake water trigger the infamous \"Gales of November,\" extremely severe cyclonic storms capable of building wave heights exceeding 9 meters. These massive storms have historically caused countless shipwrecks, the most globally famous being the tragic sinking of the freighter SS Edmund Fitzgerald in 1975. The central coordinates are 47.70°N, 87.50°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist der flächenmäßig größte Süßwassersee der Welt mit 82.100 Quadratkilometern.",
+          "Der See speichert fast 10 Prozent der weltweiten oberirdischen Süßwasserreserven.",
+          "Er erreicht eine enorme maximale Wassertiefe von 406 Metern.",
+          "Das riesige Seebecken entstand ursprünglich durch einen 1,1 Milliarden Jahre alten Riss in der Erdkruste.",
+          "Die kanadische Küste im Norden liegt auf dem extrem harten Gestein des Kanadischen Schilds.",
+          "Heftige Herbststürme im November können auf dem See über neun Meter hohe Wellen erzeugen.",
+          "Der bekannteste Schiffbruch auf dem See war der tragische Untergang der SS Edmund Fitzgerald 1975."
+        ],
+        "hu": [
+          "Ez a világ legnagyobb felületű édesvízi tava, pontosan 82 100 négyzetkilométer kiterjedésű.",
+          "A tó a globális felszíni édesvízkészletek közel 10 százalékát raktározza.",
+          "A víztömeg hatalmas, 406 méteres maximális vízmélységet ér el.",
+          "A hatalmas medence eredetileg egy 1,1 milliárd éves földkéreg-hasadék eredményeként jött létre.",
+          "Az északi, kanadai partvidék a Kanadai-pajzs rendkívül kemény kőzetén fekszik.",
+          "A heves novemberi őszi viharok akár kilenc méternél is magasabb hullámokat korbácsolhatnak.",
+          "A tó legismertebb hajótörése az SS Edmund Fitzgerald 1975-ös tragikus elsüllyedése volt."
+        ],
+        "ro": [
+          "Este cel mai mare lac de apă dulce din lume ca suprafață, cu 82.100 de kilometri pătrați.",
+          "Lacul stochează aproape 10% din rezervele globale de apă dulce de suprafață.",
+          "Atinge o adâncime maximă enormă a apei de 406 metri.",
+          "Uriașul bazin s-a format inițial printr-o ruptură a scoarței terestre veche de 1,1 miliarde de ani.",
+          "Coasta canadiană din nord se află pe roca extrem de dură a Scutului Canadian.",
+          "Furtunile violente de toamnă din noiembrie pot crea valuri de peste nouă metri înălțime pe lac.",
+          "Cel mai faimos naufragiu de pe lac a fost scufundarea tragică a navei SS Edmund Fitzgerald în 1975."
+        ],
+        "en": [
+          "It is the largest freshwater lake in the world by surface area, covering 82,100 square kilometers.",
+          "The lake holds nearly 10 percent of the world's total available surface freshwater.",
+          "The basin reaches a massive maximum water depth of exactly 406 meters.",
+          "The massive lakebed originally formed from a 1.1 billion-year-old tectonic tear in the Earth's crust.",
+          "The Canadian northern coastline sits solidly upon the extremely hard bedrock of the Canadian Shield.",
+          "Violent autumn storms in November can easily generate massive waves exceeding nine meters in height.",
+          "The most famous shipwreck on the lake was the tragic sinking of the SS Edmund Fitzgerald in 1975."
+        ]
+      }
+    },
+    {
+      "id": "magdalen-islands-nature-v2",
+      "descriptionAdvanced": {
+        "de": "Die Magdalenen-Inseln (französisch: Îles de la Madeleine) bilden ein kleines, sichelförmiges Archipel im Herzen des Sankt-Lorenz-Golfs und gehören politisch zur kanadischen Provinz Quebec, obwohl sie geografisch viel näher an den Seeprovinzen Nova Scotia und Prince Edward Island liegen. Das Archipel umfasst eine gesamte Landfläche von lediglich 205 Quadratkilometern und besteht aus acht Hauptinseln, von denen sechs durch kilometerlange, extrem schmale Sanddünen (Tombolos) physisch miteinander verbunden sind, entlang derer die Autobahn Route 199 verläuft. Die Geologie der Inseln ist faszinierend: Sie bestehen hauptsächlich aus stark eisenhaltigem, leuchtend rotem Sandstein, der von peitschendem Wind und Wellen im Laufe der Jahrtausende zu dramatischen Klippen, Höhlen und natürlichen Bögen geformt wurde. Unter den Sandsteinablagerungen ruhen massive Salzstöcke (Diapire). Dieser geologische Salzreichtum führte zum Bau der Seleine-Mine, die tief unter dem Golf industriell Streusalz für die winterlichen Straßen Ostkanadas abbaut. Da die Inseln extrem flach sind, sind sie starken Ozeanwinden und schweren Küstenerosionsproblemen ausgesetzt, die durch den Rückgang des schützenden winterlichen Meereises aufgrund des Klimawandels drastisch verschärft werden. Die rund 12.000 Einwohner, überwiegend französischsprachige Akadier, deren Vorfahren im 18. Jahrhundert hierher flohen, leben traditionell von der kommerziellen Fischerei. Der amerikanische Hummer ist heute die mit Abstand lukrativste maritime Ressource, nachdem die historisch bedeutende Robbenjagd aus wirtschaftlichen und ethischen Gründen stark zurückgegangen ist. Die Hauptkoordinaten sind 47,40°N, 61,80°W.",
+        "hu": "A Magdalen-szigetek (franciául: Îles de la Madeleine) egy kis, sarló alakú szigetcsoportot alkotnak a Szent Lőrinc-öböl szívében, és politikailag a kanadai Quebec tartományhoz tartoznak, bár földrajzilag sokkal közelebb fekszenek Új-Skócia és a Prince Edward-sziget tengeri tartományaihoz. A szigetcsoport mindössze 205 négyzetkilométeres teljes szárazföldi területtel rendelkezik, és nyolc fő szigetből áll, amelyek közül hatot több kilométer hosszú, rendkívül keskeny homokdűnék (tombolók) kötnek össze fizikailag, és ezek mentén halad a 199-es autópálya. A szigetek geológiája lenyűgöző: főként magas vastartalmú, élénkpiros homokkőből állnak, amelyet a szél és a hullámok az évezredek során drámai sziklákká, barlangokká és természetes boltívekké formáltak. A homokkő lerakódások alatt masszív sókupolák (diapírok) nyugszanak. Ez a geológiai sóbőség vezetett a Seleine-bánya megépítéséhez, amely mélyen az öböl alatt ipari útszóró sót termel ki Kelet-Kanada téli útjai számára. Mivel a szigetek rendkívül laposak, ki vannak téve az erős óceáni szeleknek és a súlyos part menti eróziónak, amit az éghajlatváltozás okozta védelmező téli tengeri jég visszahúzódása drasztikusan súlyosbít. A mintegy 12 000 lakos, túlnyomórészt francia ajkú akádiaiak, akiknek ősei a 18. században menekültek ide, hagyományosan kereskedelmi halászatból élnek. Az amerikai homár ma messze a legjövedelmezőbb tengeri erőforrás, miután a történelmileg jelentős fókavadászat gazdasági és etikai okokból erősen visszaesett. A fő koordináták: é. sz. 47,40°, ny. h. 61,80°.",
+        "ro": "Insulele Magdalen (în franceză: Îles de la Madeleine) formează un mic arhipelag în formă de semilună în inima Golfului Sfântului Laurențiu și aparțin politic de provincia canadiană Quebec, deși sunt geografic mult mai aproape de provinciile maritime Nova Scoția și Insula Prințului Edward. Arhipelagul acoperă o suprafață terestră totală de doar 205 kilometri pătrați și este format din opt insule principale, dintre care șase sunt conectate fizic prin dune de nisip extrem de înguste, lungi de kilometri (tomboluri), de-a lungul cărora se întinde Autostrada 199. Geologia insulelor este fascinantă: sunt alcătuite în principal din gresie roșie strălucitoare, puternic bogată în fier, care a fost sculptată de vântul biciuitor și de valuri de-a lungul mileniilor în stânci dramatice, peșteri și arcuri naturale. Sub depozitele de gresie se află domuri masive de sare (diapire). Această bogăție geologică în sare a dus la construirea minei Seleine, care extrage industrial sare de drum adânc sub golf pentru drumurile de iarnă din estul Canadei. Deoarece insulele sunt extrem de plate, ele sunt expuse vânturilor puternice ale oceanului și problemelor severe de eroziune a coastei, care sunt exacerbate drastic de retragerea gheții marine de iarnă protectoare din cauza schimbărilor climatice. Cei aproximativ 12.000 de locuitori, preponderent acadieni francofoni, ai căror strămoși au fugit aici în secolul al XVIII-lea, trăiesc în mod tradițional din pescuitul comercial. Homarul american este acum de departe cea mai profitabilă resursă maritimă, după ce vânătoarea de foci, semnificativă istoric, a scăzut puternic din motive economice și etice. Coordonatele principale sunt 47,40°N, 61,80°V.",
+        "en": "The Magdalen Islands (French: Îles de la Madeleine) form a small, crescent-shaped archipelago in the heart of the Gulf of Saint Lawrence. Politically, they belong strictly to the Canadian province of Quebec, although they are geographically located much closer to the Maritime provinces of Nova Scotia and Prince Edward Island. The archipelago covers a total land area of merely 205 square kilometers and consists of eight major islands. Six of these are physically connected by kilometers of extremely narrow, fragile sand dunes (tombolos), along which the crucial Route 199 highway is constructed. The geology of the islands is fascinating: they are primarily composed of highly iron-rich, bright red sandstone that has been aggressively carved by whipping wind and ocean waves over millennia into dramatic cliffs, sea caves, and natural arches. Resting deep beneath the sandstone deposits are massive salt domes (diapirs). This geological salt wealth led to the development of the Seleine mine, which actively extracts industrial road de-icing salt from deep beneath the gulf to supply Eastern Canada's winter roads. Because the islands possess very low elevation, they are heavily subjected to fierce ocean winds and severe coastal erosion, a process greatly accelerated by the lack of protective winter sea ice caused by climate change. The approximately 12,000 residents, predominantly French-speaking Acadians whose ancestors fled there in the 18th century, rely historically on commercial fishing. Today, the American lobster stands as by far the most lucrative marine resource, following the economic and ethical decline of the historically significant commercial seal hunt. The main coordinates are 47.40°N, 61.80°W."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Archipel umfasst eine sehr geringe Landfläche von insgesamt nur 205 Quadratkilometern.",
+          "Die Inseln liegen politisch in Quebec, aber geografisch viel näher an den Seeprovinzen.",
+          "Sechs der Hauptinseln sind durch lange, natürliche Sanddünen (Tombolos) physisch verbunden.",
+          "Leuchtend roter, extrem eisenhaltiger Sandstein bildet die steilen Küstenklippen der Inseln.",
+          "Tief unter dem Archipel wird industriell Streusalz für ganz Ostkanada abgebaut.",
+          "Küstenerosion bedroht die extrem flachen Inseln massiv aufgrund schwindenden Meereises.",
+          "Die Wirtschaft der akadischen Bevölkerung stützt sich heute primär auf den lukrativen Hummerfang."
+        ],
+        "hu": [
+          "A szigetcsoport teljes szárazföldi területe mindössze 205 négyzetkilométer.",
+          "A szigetek politikailag Quebechez tartoznak, földrajzilag viszont közelebb vannak a tengeri tartományokhoz.",
+          "A fő szigetek közül hatot hosszú, természetes homokdűnék (tombolók) kötnek össze fizikailag.",
+          "A szigetek meredek parti szikláit élénkpiros, rendkívül magas vastartalmú homokkő alkotja.",
+          "A szigetcsoport alatt, mélyen a tengerfenék alatt ipari útszóró sót bányásznak Kelet-Kanada számára.",
+          "A part menti erózió masszívan fenyegeti a rendkívül lapos szigeteket a zsugorodó tengeri jég miatt.",
+          "Az akádiai lakosság gazdasága ma elsősorban a rendkívül jövedelmező homárhalászatra épül."
+        ],
+        "ro": [
+          "Arhipelagul acoperă o suprafață terestră mică, de doar 205 kilometri pătrați în total.",
+          "Politic, insulele se află în Quebec, dar geografic sunt mult mai aproape de provinciile maritime.",
+          "Șase dintre insulele principale sunt conectate fizic prin dune naturale lungi de nisip (tomboluri).",
+          "Gresia roșie aprinsă, extrem de bogată în fier, formează stâncile abrupte de coastă ale insulelor.",
+          "Sarea de drum este exploatată industrial la mare adâncime sub arhipelag pentru întregul est al Canadei.",
+          "Eroziunea de coastă amenință masiv insulele extrem de plate din cauza scăderii gheții marine.",
+          "Economia populației acadiene se bazează astăzi în primul rând pe pescuitul lucrativ de homar."
+        ],
+        "en": [
+          "The small archipelago encompasses a total terrestrial land area of just 205 square kilometers.",
+          "The islands belong politically to Quebec but sit geographically closer to the Maritime provinces.",
+          "Six of the primary islands are physically connected by long, natural sand dunes known as tombolos.",
+          "Bright red, highly iron-rich sandstone forms the dramatic, steep coastal cliffs of the islands.",
+          "Industrial road salt is aggressively mined from deep beneath the archipelago for Eastern Canada.",
+          "Severe coastal erosion heavily threatens the low-lying islands due to retreating protective winter sea ice.",
+          "The economy of the resident Acadian population relies predominantly on commercial lobster fishing."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineabissauLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "simao-mendes-hospital-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Simão Mendes Nationalkrankenhaus ist die größte und wichtigste medizinische Einrichtung in Guinea-Bissau. Gelegen im Herzen der Hauptstadt Bissau, dient es als primäres Referenzzentrum für das gesamte Land. Das Krankenhaus wurde ursprünglich während der Kolonialzeit errichtet und trug den Namen Hospital Central de Bissau. Nach der Unabhängigkeit wurde es zu Ehren von Simão Mendes umbenannt, einem Krankenpfleger und Helden des Befreiungskampfes der PAIGC, der sein Leben für die medizinische Versorgung der Guerillakämpfer opferte. Die Architektur des Komplexes ist eine Mischung aus alten kolonialen Pavillons mit hohen Decken und neueren Anbauten, die durch internationale Kooperationen entstanden sind. Trotz chronischer Ressourcenknappheit und infrastruktureller Herausforderungen ist das Krankenhaus das Rückgrat des nationalen Gesundheitssystems. Es beherbergt spezialisierte Abteilungen für Pädiatrie, Chirurgie und Infektionskrankheiten. Für die lokale Bevölkerung ist das Simão Mendes nicht nur ein Ort der Heilung, sondern auch ein Symbol für die sozialen Ambitionen des unabhängigen Staates, eine Grundversorgung für alle Bürger sicherzustellen. Die weitläufigen Korridore und die geschäftige Atmosphäre spiegeln den täglichen Kampf um die öffentliche Gesundheit in einem der ärmsten Länder der Welt wider.",
+        "hu": "A Simão Mendes Nemzeti Kórház Guinea-Bissau legnagyobb és legfontosabb egészségügyi intézménye, amely a főváros, Bissau szívében található. Mint az ország elsődleges referenciakórháza, ez az intézmény fogadja a legsúlyosabb eseteket az összes régióból. A kórház alapjai még a gyarmati korszakra nyúlnak vissza, amikor Hospital Central de Bissau néven működött. A függetlenség elnyerése után Simão Mendesről, a PAIGC szabadságharcos ápolójáról nevezték el, aki a felszabadító háború idején a gerillák orvosi ellátásáért felelt és mártírhalált halt. Az épületegyüttes építészete vegyes képet mutat: a régi, nagy belmagasságú gyarmati pavilonok mellett modern, nemzetközi segélyekből felhúzott szárnyak találhatók. Bár az intézmény állandó forráshiánnyal és infrastrukturális nehézségekkel küzd, továbbra is ez az ország orvosi tudásközpontja, ahol sebészeti, gyermekgyógyászati és infektológiai osztályok működnek. A helyi lakosság számára a kórház a remény és a túlélés jelképe. A Simão Mendes falai között folyó munka jól szemlélteti az ország elkötelezettségét a közegészségügy fejlesztése mellett, még a legnehezebb gazdasági körülmények között is.",
+        "ro": "Spitalul Național Simão Mendes este cea mai mare și mai importantă instituție medicală din Guineea-Bissau, situată central în capitala Bissau. Acesta funcționează ca principal centru de referință pentru întreaga țară, fiind esențial pentru sistemul de sănătate publică. Construit inițial în perioada colonială sub numele de Hospital Central de Bissau, edificiul a fost redenumit după independență în onoarea lui Simão Mendes, un asistent medical și combatant al PAIGC care și-a pierdut viața în timpul războiului de eliberare. Arhitectura spitalului combină pavilioane coloniale vechi, cu tavan înalt și ventilație naturală, cu extinderi moderne realizate prin proiecte de cooperare internațională. Deși se confruntă cu limitări materiale și provocări logistice semnificative, spitalul rămâne singura unitate care oferă servicii specializate în domenii precum chirurgia, pediatria și tratamentul bolilor infecțioase. Pentru locuitorii capitalei și nu numai, Simão Mendes reprezintă un pilon social fundamental, reflectând eforturile statului de a asigura accesul la îngrijiri medicale într-un context economic dificil. Complexul este, de asemenea, un centru de formare pentru noile generații de medici și asistenți guineeni.",
+        "en": "The Simão Mendes National Hospital is the largest and most critical medical facility in Guinea-Bissau, located in the center of the capital, Bissau. It serves as the primary referral hospital for the entire nation, handling the most complex medical cases from all regions. Originally established during the colonial era as the Hospital Central de Bissau, it was renamed following independence to honor Simão Mendes, a dedicated nurse and PAIGC freedom fighter who provided medical aid during the liberation struggle. The hospital's architecture is a composite of old colonial pavilions, characterized by high ceilings and broad porches, and newer wings built through international development partnerships. Despite facing persistent resource constraints and infrastructure challenges, the hospital remains the backbone of the country's healthcare system, housing specialized units for pediatrics, surgery, and infectious diseases. For the people of Guinea-Bissau, Simão Mendes is a symbol of resilience and the ongoing effort to provide public services under difficult conditions. It also functions as the nation's leading teaching hospital, playing a vital role in training the country's future healthcare professionals."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Krankenhaus ist nach einem Helden des Unabhängigkeitskampfes benannt.",
+          "Es ist die einzige Einrichtung des Landes mit spezialisierter Chirurgie.",
+          "Die ursprüngliche Bausubstanz stammt aus der portugiesischen Kolonialzeit.",
+          "Internationale Partner wie China und Kuba unterstützen das Personal.",
+          "Das Simão Mendes dient als wichtigstes Lehrkrankenhaus für Medizinstudenten.",
+          "Es liegt in der Nähe des Stadtzentrums und ist für die Bevölkerung gut erreichbar."
+        ],
+        "hu": [
+          "A kórház névadója Simão Mendes, a függetlenségi háború mártír ápolója.",
+          "Ez az ország egyetlen olyan intézménye, amely komplex műtéteket végez.",
+          "Az épületegyüttes központi része még a 20. század elején épült.",
+          "Kínai és kubai orvoscsoportok rendszeresen segítik az itteni munkát.",
+          "A kórház az ország legfontosabb orvosi képzőközpontja.",
+          "A pavilonrendszerű elrendezés segíti a trópusi betegségek izolálását."
+        ],
+        "ro": [
+          "Este cel mai vechi și mai mare spital din întreaga Guinee-Bissau.",
+          "Numele său omagiază sacrificiul personalului medical în timpul războiului.",
+          "Instituția colaborează strâns cu misiuni medicale internaționale.",
+          "Capacitatea sa este de câteva sute de paturi, fiind mereu suprasolicitat.",
+          "Arhitectura colonială a pavilioanelor a fost adaptată nevoilor actuale.",
+          "Spitalul găzduiește principala farmacie centrală a statului."
+        ],
+        "en": [
+          "The hospital is named after a revolutionary nurse who died in 1966.",
+          "It is the primary referral center for all medical emergencies in the country.",
+          "Many of its buildings retain the original Portuguese colonial design.",
+          "The facility benefits from long-standing medical cooperation with Cuba.",
+          "It is located in the heart of Bissau, near major transport routes.",
+          "The hospital serves as the main training ground for national medical staff."
+        ]
+      }
+    },
+    {
+      "id": "ilheu-do-rei-lighthouse-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Leuchtturm von Ilhéu do Rei befindet sich auf der gleichnamigen 'Königsinsel', die direkt vor dem Hafen von Bissau im Ästuar des Rio Geba liegt. Dieser strategische Orientierungspunkt ist für die Schifffahrt in Guinea-Bissau von entscheidender Bedeutung, da er Schiffen den sicheren Weg durch die tückischen Sandbänke und starken Gezeitenströmungen des Geba-Flusses weist. Der Leuchtturm wurde während der portugiesischen Kolonialzeit errichtet, um den Zugang zum damals florierenden Handelshafen von Bissau zu sichern. Die Architektur ist klassisch funktional: Ein weißer Turm, der sich über die dichte Vegetation der Insel erhebt. Die Ilhéu do Rei selbst ist heute weitgehend verlassen und von Mangroven und Palmen bedeckt, was dem Leuchtturm eine isolierte und mystische Ausstrahlung verleiht. Für Seefahrer, die aus dem Atlantik kommen, ist sein Licht oft das erste Zeichen der Hauptstadt. Neben seiner nautischen Funktion ist der Ort ein stummer Zeuge der maritimen Geschichte des Landes, von der Ära der Entdecker über den Sklavenhandel bis hin zur modernen Handelsschifffahrt. Der Zugang zur Insel ist nur per Boot möglich, was den Leuchtturm zu einem der geheimnisvollsten und am wenigsten besuchten Wahrzeichen der Region macht.",
+        "hu": "Az Ilhéu do Rei világítótorony az azonos nevű 'Király-szigeten' található, közvetlenül Bissau kikötőjével szemben, a Geba-folyó torkolatában. Ez a stratégiai navigációs pont kulcsfontosságú a Guinea-Bissauba érkező hajóforgalom számára, hiszen segít eligazodni a folyó veszélyes homokpadjai és az erős árapály-áramlatok között. A világítótornyot a portugál gyarmati időszakban építették, hogy biztosítsák az utat a korszak fontos kereskedelmi kikötője felé. Az építmény klasszikus formájú, fehérre meszelt torony, amely messze kiemelkedik a sziget dús, trópusi növényzetéből. Maga az Ilhéu do Rei sziget ma nagyrészt lakatlan, sűrű mangroveerdők és pálmák borítják, ami a toronynak sajátos, magányos karaktert kölcsönöz. Az Atlanti-óceán felől érkező tengerészek számára a torony fénye jelzi Bissau közelségét. A világítótorony nemcsak technikai eszköz, hanem a nemzeti tengerhajózás és a gyarmati múlt egyik fontos jelképe is, amely évszázadok óta figyeli a Geba-folyón elhaladó hajókat. Mivel a sziget csak csónakkal érhető el, a torony Bissau egyik legelzártabb és legtitokzatosabb látnivalója maradt.",
+        "ro": "Farul de pe Ilhéu do Rei este situat pe 'Insula Regelui', aflată chiar în fața portului Bissau, în estuarul râului Geba. Acest reper strategic de navigație este vital pentru siguranța ambarcațiunilor care tranzitează apele Guineei-Bissau, ghidându-le printre bancurile de nisip schimbătoare și curenții puternici ai râului. Farul a fost ridicat în perioada colonială portugheză pentru a securiza accesul către portul comercial, care era poarta de intrare a mărfurilor în colonie. Arhitectura sa este simplă și funcțională, constând într-un turn alb care domină peisajul insulei. Insula Ilhéu do Rei este în prezent acoperită de o vegetație luxuriantă de mangrove și palmieri, fiind în mare parte nelocuită, ceea ce oferă farului o aură de izolare și mister. Pentru marinarii care vin din largul Oceanului Atlantic, lumina acestui far reprezintă prima confirmare vizuală a apropierii de capitală. Dincolo de rolul său utilitar, situl este un martor silențios al istoriei maritime a regiunii, supraviețuind deceniilor de schimbări politice. Accesul pe insulă se face exclusiv cu barca, transformând vizitarea farului într-o experiență rară și spectaculoasă pentru cei pasionați de explorarea nautică.",
+        "en": "The Ilhéu do Rei Lighthouse is located on 'King's Island,' situated directly across from the port of Bissau in the Geba River estuary. This strategic navigational landmark is essential for the safety of maritime traffic in Guinea-Bissau, guiding vessels through the dangerous sandbars and powerful tidal currents characteristic of the Geba River. The lighthouse was constructed during the Portuguese colonial era to secure the approach to the capital's commercial harbor. Its architecture follows a classic functional design, featuring a prominent white tower that rises above the island's dense tropical canopy. Ilhéu do Rei itself is largely uninhabited today, draped in mangroves and palm trees, which gives the lighthouse an isolated and atmospheric quality. For sailors arriving from the Atlantic Ocean, its light is often the first sign of Bissau's proximity. Beyond its nautical function, the site stands as a silent witness to the country's long maritime history, from the early colonial trade to modern commercial shipping. Accessible only by boat, the lighthouse remains one of the most secluded and intriguing landmarks in the Bissau region, offering a unique vantage point over the capital's waterfront."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Leuchtturm leitet Schiffe sicher in den Hafen von Bissau.",
+          "Er befindet sich auf der unbewohnten Insel Ilhéu do Rei.",
+          "Der Turm wurde während der portugiesischen Herrschaft erbaut.",
+          "Die Insel ist ein wichtiger Lebensraum für verschiedene Vogelarten.",
+          "Der Zugang zum Leuchtturm ist nur mit privaten Booten möglich.",
+          "Er ist eines der ältesten noch funktionierenden nautischen Signale der Region."
+        ],
+        "hu": [
+          "A világítótorony a Geba-folyó torkolatában, egy szigeten áll.",
+          "Segítségével kerülik el a hajók a folyó veszélyes homokpadjait.",
+          "A torony klasszikus gyarmati építészeti stílust mutat.",
+          "A szigetet sűrű mangroveerdő és pálmaligetek borítják.",
+          "A torony fénye messze behallatszik az Atlanti-óceán felé.",
+          "A helyszín Bissau egyik legfontosabb tengeri tájékozódási pontja."
+        ],
+        "ro": [
+          "Farul este situat strategic în cel mai îngust punct al estuarului.",
+          "Insula Regelui a fost în trecut un punct de carantină pentru nave.",
+          "Turnul alb este vizibil din aproape orice punct al falezei din Bissau.",
+          "Navigația pe timp de noapte depinde în totalitate de acest semnal.",
+          "Zona din jurul farului este bogată în biodiversitate marină.",
+          "Construcția este un exemplu rar de infrastructură maritimă istorică."
+        ],
+        "en": [
+          "The lighthouse is the primary navigation aid for the Port of Bissau.",
+          "It is situated on Ilhéu do Rei, a small island opposite the city.",
+          "The structure dates back to the Portuguese colonial administration.",
+          "Access to the site requires a boat trip across the Geba River.",
+          "The lighthouse tower is a distinct white landmark in the estuary.",
+          "It plays a crucial role during the extreme tidal shifts of the river."
+        ]
+      }
+    },
+    {
+      "id": "stadium-24-september-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Nationalstadion '24. September' (Estádio Nacional 24 de Setembro) ist die größte und modernste Sportarena in Guinea-Bissau. Benannt nach dem Tag der Unabhängigkeitserklärung des Landes im Jahr 1973, ist es ein Ort von enormer nationaler und emotionaler Bedeutung. Das Stadion befindet sich am Stadtrand von Bissau und wurde mit internationaler Hilfe, vor allem durch die Volksrepublik China, errichtet. Es dient als Heimspielstätte der guineischen Fußballnationalmannschaft, den 'Djurtus', und ist der Schauplatz für die wichtigsten internationalen Begegnungen und Qualifikationsspiele. Die Architektur ist modern und funktional, mit einer weitläufigen Tribünenkonstruktion, die Platz für rund 20.000 Zuschauer bietet. Neben Fußballspielen wird das Stadion für Leichtathletikwettbewerbe und große nationale Feierlichkeiten genutzt, insbesondere für die jährlichen Paraden zum Unabhängigkeitstag. Das Stadion ist nicht nur eine Sportstätte, sondern ein Symbol für den Stolz des jungen Staates und seine Ambitionen im internationalen Sport. Die lebhafte Atmosphäre bei Länderspielen, wenn das ganze Land hinter seinem Team steht, macht das '24. September' zu einem der pulsierendsten Orte der Hauptstadt. Es repräsentiert den Wiederaufbau und die Hoffnung einer Nation, die den Sport als Mittel zur Einigung und internationalen Anerkennung nutzt.",
+        "hu": "A szeptember 24-e Nemzeti Stadion (Estádio Nacional 24 de Setembro) Guinea-Bissau legnagyobb és legkorszerűbb sportlétesítménye. Nevét az ország függetlenségének 1973-as kikiáltásáról kapta, így az épület mély nemzeti és szimbolikus tartalommal bír minden állampolgár számára. A Bissau külvárosában elhelyezkedő stadion nemzetközi együttműködés keretében, jelentős kínai támogatással épült meg. Ez a létesítmény a bázisa a nemzeti labdarúgó-válogatottnak, a 'Djurtus'-nak, és itt rendezik a legfontosabb nemzetközi selejtezőmérkőzéseket is. A stadion építészeti szempontból modern, funkcionális vonalvezetésű, befogadóképessége pedig megközelíti a 20 000 főt. A labdarúgás mellett atlétikai versenyeknek is helyet ad, valamint itt tartják a legfontosabb állami ünnepségeket és katonai parádékat minden év szeptember 24-én. A stadion nem csupán egy betonépítmény, hanem a nemzeti büszkeség és az egység szimbóluma, ahol a sport és a történelem összeér. A válogatott mérkőzései alatt uralkodó fergeteges hangulat Bissau egyik legemlékezetesebb élménye, amely megmutatja a guineai nép sportszeretetét és élni akarását.",
+        "ro": "Stadionul Național '24 de Septembrie' este cea mai mare și modernă arenă sportivă din Guineea-Bissau, fiind inima competițiilor atletice din țară. Numele său comemorează data proclamării independenței naționale în 1973, transformând stadionul într-un monument al suveranității. Situat la periferia capitalei Bissau, complexul a fost construit cu asistență tehnică și financiară din partea Republicii Populare Chineze, fiind un exemplu de cooperare internațională post-colonială. Arena este sediul oficial al echipei naționale de fotbal, cunoscută sub numele de 'Djurtus', și găzduiește toate meciurile internaționale importante sub egida FIFA și CAF. Arhitectura stadionului este una contemporană, cu tribune vaste ce pot adăposti aproximativ 20.000 de spectatori, oferind facilități pentru diverse discipline olimpice. Pe lângă sport, stadionul are o funcție civică majoră, fiind locul principal de desfășurare a paradelor naționale și a marilor festivaluri culturale. '24 de Septembrie' simbolizează ambiția țării de a se afirma pe scena sportivă internațională și reprezintă un punct de mândrie națională, fiind locul unde mii de guineeni se adună pentru a celebra unitatea prin sport și patriotism.",
+        "en": "The National Stadium '24 September' (Estádio Nacional 24 de Setembro) is the largest and most modern sports venue in Guinea-Bissau. Named after the date of the country's declaration of independence in 1973, the stadium holds immense national and emotional significance. Located on the outskirts of Bissau, it was built with international assistance, primarily from the People's Republic of China, and serves as the official home of the national football team, the 'Djurtus.' The stadium is the primary venue for international qualifiers and continental competitions. Architecturally, it features a functional and modern design with a seating capacity of approximately 20,000, making it the premier site for large-scale gatherings. Beyond football, it hosts track and field events and is the central stage for national holiday celebrations, including the grand military parades held every September 24th. The stadium is more than just a sports facility; it is a symbol of the nation's pride and its aspirations within the international sporting community. The electric atmosphere during home matches reflects the deep passion of the Bissau-Guinean people for football, which serves as a powerful unifying force in the country's social fabric."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Stadion wurde mit finanzieller Unterstützung aus China erbaut.",
+          "Es ist nach dem Unabhängigkeitstag Guinea-Bissaus benannt.",
+          "Die Arena bietet Platz für rund 20.000 Zuschauer.",
+          "Es ist die offizielle Heimstätte der Nationalmannschaft 'Djurtus'.",
+          "Das Stadion verfügt über eine professionelle Leichtathletik-Laufbahn.",
+          "Hier finden die größten nationalen Paraden und Feierlichkeiten statt."
+        ],
+        "hu": [
+          "A stadion Guinea-Bissau legnagyobb befogadóképességű sportlétesítménye.",
+          "Az épület a kínai-guineai barátság és együttműködés jelképe.",
+          "1973. szeptember 24-e a névadó dátum, az ország nemzeti ünnepe.",
+          "A nemzeti válogatott összes hazai mérkőzését ebben a stadionban vívja.",
+          "A komplexum alkalmas nemzetközi atlétikai versenyek megrendezésére is.",
+          "A stadion Bissau modern, északi városrészében található."
+        ],
+        "ro": [
+          "Este singurul stadion din țară omologat pentru meciuri internaționale FIFA.",
+          "Construcția a fost finalizată ca un cadou diplomatic din partea Chinei.",
+          "Numele marchează victoria luptei de eliberare națională.",
+          "Găzduiește anual marea paradă militară de Ziua Independenței.",
+          "Tribunele sunt adesea pline până la refuz în timpul derby-urilor locale.",
+          "Infrastructura include vestiare moderne și zone de presă."
+        ],
+        "en": [
+          "The stadium was constructed with significant aid from the Chinese government.",
+          "It commemorates the 1973 declaration of independence in Madina do Boé.",
+          "The venue has a capacity of about 20,000 spectators.",
+          "It serves as the main training and match ground for the 'Djurtus.'",
+          "The stadium is the focal point for Bissau's annual September 24th festivities.",
+          "It is located along the main road leading north from the city center."
+        ]
+      }
+    },
+    {
+      "id": "french-cultural-center-bissau-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Französische Kulturzentrum in Bissau, offiziell Centre Culturel Franco-Bissau-Guinéen (CCFBG), ist eine der dynamischsten kulturellen Institutionen des Landes. Gelegen in einem markanten Gebäude im Zentrum der Hauptstadt, dient es als Brücke zwischen der frankophonen Welt und der lusophonen Realität Guinea-Bissaus. Das Zentrum spielt eine zentrale Rolle in der Förderung von Kunst, Bildung und dem interkulturellen Dialog. Es beherbergt eine der besten Bibliotheken der Stadt, die sowohl französischen als auch lokalen Studenten eine Vielzahl von Ressourcen bietet. Darüber hinaus verfügt das CCFBG über ein Kino und eine Bühne für Live-Auftritte, auf der regelmäßig lokale Musiker, Theatergruppen und internationale Künstler auftreten. Die Architektur des Zentrums verbindet moderne Funktionalität mit einem einladenden, offenen Design, das oft als 'Oase der Kultur' inmitten des geschäftigen Bissau beschrieben wird. Für viele junge Guineer ist das Zentrum ein Ort des Lernens und der Inspiration, an dem sie Zugang zu Computern, Internet und Sprachkursen haben. Es ist nicht nur ein Symbol für die diplomatischen Beziehungen zwischen Frankreich und Guinea-Bissau, sondern auch ein unverzichtbarer Raum für die lokale Kunstszene, der zur Vielfalt und zum kulturellen Reichtum der Hauptstadt beiträgt.",
+        "hu": "A bissaui Francia Kulturális Központ, hivatalos nevén Centre Culturel Franco-Bissau-Guinéen (CCFBG), az ország egyik legélénkebb kulturális intézménye. A főváros központjában található épület fontos hidat képez a francia nyelvű világ és Guinea-Bissau portugál nyelvű (lusofón) valósága között. A központ meghatározó szerepet tölt be a művészetek, az oktatás és a kultúrák közötti párbeszéd előmozdításában. Itt található a város egyik legjobban felszerelt könyvtára, amely nélkülözhetetlen forrás a helyi diákok és kutatók számára. A CCFBG rendelkezik egy moziteremmel és egy szabadtéri színpaddal is, ahol rendszeresen fellépnek helyi zenészek, tánccsoportok és nemzetközi művészek. Az intézmény építészete modern és hívogató, nyitott terei és kertje gyakran szolgálnak találkozóhelyként az értelmiség és a fiatalok számára. A központ nem csupán nyelvtanfolyamokat és informatikai hozzáférést biztosít, hanem aktívan támogatja a helyi művészeti projekteket és kiállításokat is. Ez a helyszín Bissau kulturális életének egyik tartóoszlopa, amely a diplomáciai kapcsolatokon túl valódi közösségi térként funkcionál a főváros szívében.",
+        "ro": "Centrul Cultural Francez din Bissau, cunoscut oficial sub numele de Centre Culturel Franco-Bissau-Guinéen (CCFBG), este una dintre cele mai active și influente instituții culturale din țară. Situat într-o clădire modernă și accesibilă în centrul capitalei, acest centru servește drept platformă de interacțiune între cultura francofonă și cea locală. CCFBG joacă un rol crucial în promovarea diversității artistice, oferind spații pentru expoziții, spectacole de teatru și concerte live. Instituția adăpostește o bibliotecă vastă, considerată una dintre cele mai importante resurse educaționale din Bissau, oferind acces la mii de volume și materiale multimedia. De asemenea, centrul dispune de un cinema care proiectează filme internaționale și documentare, contribuind la educația cinematografică a publicului tânăr. Arhitectura sa se remarcă prin linii contemporane și spații verzi interioare care oferă un refugiu liniștit în mijlocul agitației urbane. Pentru comunitatea locală, Centrul Cultural Francez este mai mult decât o misiune diplomatică; este un laborator de idei și un spațiu de formare profesională în domenii creative și lingvistice. Prezența sa constantă și programul diversificat fac din acest loc un punct nodal al vieții intelectuale din Guineea-Bissau.",
+        "en": "The French Cultural Center in Bissau, formally known as the Centre Culturel Franco-Bissau-Guinéen (CCFBG), is one of the nation's most dynamic and influential cultural institutions. Located in a prominent building in the heart of the capital, the center serves as a vital link between the Francophone world and the Lusophone reality of Guinea-Bissau. It plays a pivotal role in fostering art, education, and intercultural dialogue. The facility houses one of the city's most comprehensive libraries, providing essential resources for both local students and international researchers. Additionally, the CCFBG features a cinema hall and a stage for live performances, frequently hosting local musicians, theater troupes, and international artists. Its architecture blends modern functionality with open, welcoming spaces that often serve as a gathering point for the city's youth and intellectuals. Beyond language courses and digital access, the center actively supports local creative projects and exhibitions. It stands not only as a symbol of diplomatic cooperation between France and Guinea-Bissau but also as a cornerstone of Bissau's creative scene, contributing significantly to the capital's cultural diversity and intellectual growth."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Zentrum fördert die französische Sprache und die lokale Kultur.",
+          "Es beherbergt eine der größten öffentlichen Bibliotheken in Bissau.",
+          "Regelmäßige Konzerte und Kinovorführungen finden hier statt.",
+          "Das CCFBG bietet Kurse in Informatik und französischer Sprache an.",
+          "Es ist ein zentraler Treffpunkt für Künstler und Intellektuelle.",
+          "Das Gebäude liegt in der Nähe des Hafens und des historischen Zentrums."
+        ],
+        "hu": [
+          "Az intézmény közösen működik a francia és a guineai kormány támogatásával.",
+          "A könyvtára az egyik legfontosabb tanulási helyszín a fővárosi diákoknak.",
+          "A központ udvarán gyakran rendeznek szabadtéri dzsessz-koncerteket.",
+          "Itt található a város kevés működő mozijának egyike.",
+          "Fontos szerepet játszik a helyi képzőművészek kiállításainak szervezésében.",
+          "A központ ingyenes internet-hozzáférést biztosít a regisztrált tagoknak."
+        ],
+        "ro": [
+          "CCFBG este un motor principal al scenei muzicale live din Bissau.",
+          "Biblioteca sa include o secțiune dedicată autorilor africani contemporani.",
+          "Centrul organizează festivaluri anuale de film și literatură.",
+          "Este situat strategic pe una dintre principalele străzi comerciale.",
+          "Oferă burse de studiu și stagii de pregătire pentru tinerii artiști.",
+          "Clădirea este un model de arhitectură sustenabilă și deschisă."
+        ],
+        "en": [
+          "The center is a joint project between the French and Bissau-Guinean states.",
+          "It hosts the most active public library and media center in the capital.",
+          "The venue is famous for its 'Alliance Française' language programs.",
+          "It features a dedicated space for contemporary art exhibitions.",
+          "The CCFBG is a key partner for the annual Bissau Carnival events.",
+          "It serves as a primary hub for cultural exchange in West Africa."
+        ]
+      }
+    },
+    {
+      "id": "amilcar-cabral-university-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Amílcar-Cabral-Universität (Universidade Amílcar Cabral) ist die einzige staatliche Universität in Guinea-Bissau und das akademische Herz des Landes. Gegründet im Jahr 2003, trägt sie den Namen des legendären Unabhängigkeitsführers und Intellektuellen Amílcar Cabral, dessen Vision von Bildung und Fortschritt das Fundament der Universität bildet. Das Hauptgebäude in Bissau ist ein bedeutendes architektonisches Wahrzeichen, das Bildung und nationale Souveränität symbolisiert. Die Universität bietet Studiengänge in verschiedenen Fachbereichen an, darunter Rechtswissenschaften, Medizin, Pädagogik und Agrarwissenschaften. Trotz erheblicher finanzieller und administrativer Herausforderungen bleibt die Institution der wichtigste Ort für die Ausbildung der künftigen Elite des Landes. Die Architektur der verschiedenen Fakultätsgebäude ist oft funktional und über die Stadt verteilt, wobei der Hauptcampus als zentraler Treffpunkt für Studenten aus allen Regionen dient. Die Universität ist nicht nur eine Bildungsstätte, sondern auch ein Zentrum für Forschung und gesellschaftliche Debatten. Sie repräsentiert den mühsamen, aber entschlossenen Weg Guinea-Bissaus, ein eigenes akademisches System aufzubauen, das die nationale Identität stärkt und zur wirtschaftlichen Entwicklung des Landes beiträgt.",
+        "hu": "Az Amílcar Cabral Egyetem (Universidade Amílcar Cabral) Guinea-Bissau egyetlen állami egyeteme, és a nemzeti felsőoktatás legfőbb bástyája. A 2003-ban alapított intézmény a legendás függetlenségi vezetőről és ideológusról, Amílcar Cabralról kapta a nevét, aki maga is hitt abban, hogy a tudás a felszabadulás legfőbb eszköze. Az egyetem központi épülete Bissauban található, és a nemzeti szuverenitás, valamint a szellemi felemelkedés jelképe. Az intézmény több karral rendelkezik, köztük jogi, orvostudományi, bölcsészettudományi és agrártudományi képzésekkel. Bár az egyetem történetét gyakran kísérték politikai és anyagi nehézségek, továbbra is ez az elsődleges helyszín, ahol az ország jövőbeli értelmiségét és vezetőit képzik. Az egyetem nem csupán előadótermek összessége, hanem a társadalmi párbeszéd és a kutatás központja is, amely próbál választ adni az ország előtt álló gazdasági kihívásokra. A hallgatók számára ez a helyszín a társadalmi mobilitás legfontosabb eszköze, Amílcar Cabral neve pedig folyamatos ösztönzést ad a tudományos kiválóságra és a hazaszeretetre való törekvésben.",
+        "ro": "Universitatea Amílcar Cabral (UAC) este singura instituție de învățământ superior de stat din Guineea-Bissau, fiind inima academică a națiunii. Fondată în 2003, universitatea poartă numele fondatorului națiunii, Amílcar Cabral, reflectând idealurile sale despre importanța educației în procesul de decolonizare și dezvoltare. Sediul principal din Bissau este un reper arhitectural major, simbolizând progresul și aspirațiile intelectuale ale poporului guineean. Universitatea cuprinde facultăți de drept, medicină, economie și educație, având rolul vital de a pregăti specialiștii necesari pentru reconstrucția țării. De-a lungul existenței sale, UAC a navigat prin perioade dificile de instabilitate politică, însă a reușit să rămână un far al cunoașterii și al cercetării științifice. Campusul universitar servește drept spațiu de dezbatere pentru tineretul studios, fiind locul unde se nasc ideile care modelează viitorul societății. Universitatea Amílcar Cabral nu este doar o școală, ci un simbol al rezilienței culturale, demonstrând că investiția în capitalul uman este esențială pentru consolidarea independenței și a democrației în Africa de Vest.",
+        "en": "The Amílcar Cabral University (Universidade Amílcar Cabral) is Guinea-Bissau's sole public university and the academic heart of the nation. Established in 2003, the institution is named after the legendary independence leader and intellectual Amílcar Cabral, whose vision for education as a tool for liberation forms the university's ideological foundation. Its main campus in Bissau serves as a prominent architectural landmark, symbolizing the country's intellectual sovereignty. The university offers a range of degree programs in fields such as law, medicine, social sciences, and agriculture. Despite facing significant administrative and financial hurdles over the years, the institution remains the primary training ground for the country's future professional and political elite. The architecture of its various faculties is spread throughout the capital, with the main administrative building acting as a central hub for student life and academic discourse. The university is not only a place of learning but also a center for research and social debate, representing Guinea-Bissau's determined effort to build a homegrown academic system that strengthens national identity and drives economic development."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Universität wurde 2003 als erste staatliche Hochschule gegründet.",
+          "Sie ist nach dem Gründervater der Nation, Amílcar Cabral, benannt.",
+          "Die medizinische Fakultät kooperiert eng mit kubanischen Professoren.",
+          "Der Hauptcampus befindet sich im Zentrum der Hauptstadt Bissau.",
+          "Die UAC ist das Zentrum für nationale wissenschaftliche Forschung.",
+          "Sie spielt eine Schlüsselrolle bei der Ausbildung von Lehrern für das ganze Land."
+        ],
+        "hu": [
+          "Ez az ország első és egyetlen állami fenntartású egyeteme.",
+          "Névadója, Amílcar Cabral maga is agrármérnök és tudós volt.",
+          "Az egyetem orvosi kara nemzetközi szinten is elismert képzést nyújt.",
+          "Az intézmény szoros kapcsolatot ápol portugál és brazil egyetemekkel.",
+          "A hallgatók aktív résztvevői a nemzeti politikai és civil életnek.",
+          "Az egyetem központi könyvtára fontos dokumentumokat őriz a szabadságharcról."
+        ],
+        "ro": [
+          "UAC a fost înființată pentru a reduce dependența de universitățile străine.",
+          "Facultatea de Medicină este considerată cea mai prestigioasă din cadrul UAC.",
+          "Universitatea organizează conferințe internaționale pe teme de dezvoltare africană.",
+          "Campusul este un loc de întâlnire pentru tinerii din toate grupurile etnice.",
+          "Limba principală de predare este portugheza, conform tradiției lusofone.",
+          "Absolvenții UAC ocupă majoritatea posturilor cheie în administrația publică."
+        ],
+        "en": [
+          "It is the first and only public university in Guinea-Bissau.",
+          "The university honors the memory of the nation's foremost intellectual, Amílcar Cabral.",
+          "The Faculty of Law is one of the most prominent departments at the university.",
+          "The institution maintains strong academic ties with Portugal and Brazil.",
+          "It serves as a critical center for preserving Bissau-Guinean national culture.",
+          "The university is central to the country's goal of achieving educational self-sufficiency."
+        ]
+      }
+    }
+  ]
+}

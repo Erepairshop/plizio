@@ -1,0 +1,22 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [ "lib/visualLab/data/poiExtraMaliNatureV2.ts" ],
+  "items": [
+    { "id": "lake-faguibine-nature-v2", "description": "Lacul Faguibine este un sistem lacustru sezonier esențial pentru biodiversitatea și agricultura regiunii Timbuktu.", "facts": ["Lac sezonier", "Biodiversitate", "Regiunea Timbuktu"] },
+    { "id": "mount-dimamou-nature-v2", "description": "Muntele Dimamou este o culme stâncoasă în Mali, oferind vederi panoramice asupra peisajelor de savană.", "facts": ["Culme stâncoasă", "Vederi panoramice", "Peisaj savană"] },
+    { "id": "mount-kourou-nature-v2", "description": "Muntele Kourou este un punct de reper, oferind o vedere vastă asupra câmpiilor înconjurătoare.", "facts": ["Punct de reper", "Câmpii vaste", "Mali"] },
+    { "id": "lake-tanda-nature-v2", "description": "Lacul Tanda este o sursă de apă importantă pentru fauna locală și comunitățile din zonă.", "facts": ["Sursă de apă", "Faună locală", "Comunități"] },
+    { "id": "mount-sarro-nature-v2", "description": "Muntele Sarro face parte din ținuturile înalte, caracterizat prin pante abrupte și formațiuni stâncoase unice.", "facts": ["Ținuturi înalte", "Pante abrupte", "Formațiuni stâncoase"] },
+    { "id": "lake-niangay-nature-v2", "description": "Lacul Niangay este o zonă umedă vitală în centrul Mali, găzduind numeroase specii de păsări migratoare.", "facts": ["Zonă umedă", "Centrul Mali", "Păsări migratoare"] },
+    { "id": "mount-tombouctou-nature-v2", "description": "Zona din jurul Timbuktu prezintă formațiuni stâncoase deșertice care adăpostesc o floră aridă specializată.", "facts": ["Stânci deșertice", "Floră aridă", "Timbuktu"] },
+    { "id": "baoule-ba-river-nature-v2", "description": "Fluviul Baoulé-Ba este o resursă esențială de apă în sud, crucial pentru echilibrul ecologic regional.", "facts": ["Resursă de apă", "Sudul Mali", "Echilibru ecologic"] },
+    { "id": "mount-koulou-nature-v2", "description": "Muntele Koulou oferă un punct de elevație distinct, susținând o floră montană specifică.", "facts": ["Elevație distinctă", "Floră montană", "Peisaj malian"] },
+    { "id": "lake-tele-nature-v2", "description": "Lacul Télé este o oază liniștită, înconjurată de câmpii nisipoase, fiind un refugiu pentru păsările locale.", "facts": ["Oază liniștită", "Refugiu păsări", "Câmpii nisipoase"] },
+    { "id": "bago-river-nature-v2", "description": "Fluviul Bago străbate zone pitorești, creând lunci esențiale pentru biodiversitatea locală.", "facts": ["Fluviu pitoresc", "Lunci", "Biodiversitate"] },
+    { "id": "mount-gourma-nature-v2", "description": "Regiunea Gourma oferă câmpii deșertice și formațiuni stâncoase care susțin viața sălbatică endemică.", "facts": ["Câmpii deșertice", "Gourma", "Faună endemică"] },
+    { "id": "lake-korientze-nature-v2", "description": "Lacul Korientzé este o zonă umedă productivă lângă Mopti, vizitată de pescari și păsări migratoare.", "facts": ["Zona umedă", "Aproape de Mopti", "Păsări migratoare"] },
+    { "id": "mount-bam-nature-v2", "description": "Muntele Bam este un punct de reper dramatic, cu stânci abrupte și habitate de tip tufăriș.", "facts": ["Punct de reper", "Stânci abrupte", "Habitate de tufăriș"] },
+    { "id": "san-river-nature-v2", "description": "Fluviul San asigură irigarea peisajelor agricole din regiunea centrală a Mali-ului.", "facts": ["Irigare", "Regiunea centrală", "Agricultură"] }
+  ]
+}

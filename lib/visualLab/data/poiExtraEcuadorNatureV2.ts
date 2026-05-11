@@ -17,7 +17,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "Chimborazo is the highest mountain in Ecuador, with its peak being the point on Earth closest to the Sun due to the equatorial bulge. It is an inactive stratovolcano that anchors the central Andean volcanic chain. The mountain is home to a unique high-altitude ecosystem, featuring rare flora like the Andean condor's nesting grounds and specialized paramo grasses. Its massive glaciers are of critical importance to the regional hydrology, feeding several river systems. Geography K7 — volcanic mountain ecosystems and Earth's geography."
     },
     factsAdvanced: {
-      en: ["Elevation: 6,263 meters", "Significance: Point closest to space", "Geology: Inactive stratovolcano", "Ecosystem: High-altitude paramo", "Fauna: Andean condor habitat", "Glaciation: Critical water source"]
+      en: ["Significance: Point closest to space", "Geology: Inactive stratovolcano", "Ecosystem: High-altitude paramo", "Fauna: Andean condor habitat", "Glaciation: Critical water source"]
     },
     
     
@@ -69,7 +69,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "Cotopaxi is one of the world's highest active volcanoes and the most iconic peak in Ecuador. Located in the Cordillera Oriental of the Andes, it is known for its near-symmetrical snow-capped cone. The park surrounding it protects a vast area of volcanic moorland and alpine meadows, vital for preserving biodiversity, including endangered Andean species like the spectacled bear. It is a major site for glaciological study as its ice cap is one of the few equatorial glaciers. Geography K7 — active volcanoes and alpine biodiversity."
     },
     factsAdvanced: {
-      en: ["Elevation: 5,897 meters", "Type: Active stratovolcano", "Eruptive frequency: Very frequent", "Ecosystem: Alpine volcanic meadows", "Fauna: Andean spectacled bear", "Glacial status: Equitorial ice cap"]
+      en: ["Type: Active stratovolcano", "Eruptive frequency: Very frequent", "Ecosystem: Alpine volcanic meadows", "Fauna: Andean spectacled bear", "Glacial status: Equitorial ice cap"]
     },
     
     
@@ -120,7 +120,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "Cayambe is a massive stratovolcano located in the northern Andes, uniquely situated exactly on the equator. It is the only place on Earth where the equator crosses the top of a snow-capped mountain. The volcano has a permanent ice cap, which feeds extensive river systems in the northern Ecuadorian highlands. Its slopes are covered by high-altitude paramo ecosystems, home to hardy vegetation adapted to extreme conditions. Geography K7 — equatorial geography and glacial landforms."
     },
     factsAdvanced: {
-      en: ["Elevation: 5,790 meters", "Equatorial crossing: Exactly on the equator", "Glacial status: Permanent ice cap", "Region: Northern Andes", "Hydrology: Feeds northern river systems", "Ecological zone: High-altitude paramo"]
+      en: ["Equatorial crossing: Exactly on the equator", "Glacial status: Permanent ice cap", "Region: Northern Andes", "Hydrology: Feeds northern river systems", "Ecological zone: High-altitude paramo"]
     },
     description: {
       de: "Der Vulkan Cayambe ist der dritthöchste Berg Ecuadors und sein Gipfel wird vom Äquator überquert.",
@@ -169,7 +169,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "Antisana is a massive, complex stratovolcano in the northern Andes, widely considered one of the most difficult and majestic mountains in Ecuador. It is renowned for its vast, intricate network of glaciers and high-altitude wetlands, which are crucial for the water supply of the capital, Quito. The area is a protected nature reserve, renowned for being a haven for the Andean condor. Its geological history involves complex eruptive phases that have shaped the rugged surrounding landscape. Geography K7 — glaciology and essential water services."
     },
     factsAdvanced: {
-      en: ["Elevation: 5,704 meters", "Type: Complex stratovolcano", "Hydrological role: Water supply for Quito", "Fauna: Andean condor nesting", "Feature: Vast glacier network", "Protected status: Nature reserve"]
+      en: ["Type: Complex stratovolcano", "Hydrological role: Water supply for Quito", "Fauna: Andean condor nesting", "Feature: Vast glacier network", "Protected status: Nature reserve"]
     },
     description: {
       de: "Der Antisana ist ein massiver Stratovulkan, der für seine großen Gletscherfelder und die reiche Vogelwelt an seinen Hängen bekannt ist.",
@@ -218,7 +218,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "El Altar is an extinct, eroded stratovolcano whose main peak collapsed, leaving behind a jagged, horseshoe-shaped caldera filled with high-altitude lakes. Its spectacular summits include names like 'The Bishop' and 'The Virgin', reflecting its majestic and awe-inspiring presence. The interior of the caldera is home to one of the most stunning alpine lakes in the Andes, known as the Laguna Amarilla. It is a masterpiece of volcanic erosion and glacial activity. Geography K7 — caldera erosion and alpine lakes."
     },
     factsAdvanced: {
-      en: ["Elevation: 5,319 meters", "Type: Extinct eroded stratovolcano", "Summit structure: Jagged horseshoe crater", "Key feature: Laguna Amarilla (yellow lake)", "Erosion: Massive volcanic collapse", "Alpine status: High-altitude wilderness"]
+      en: ["Type: Extinct eroded stratovolcano", "Summit structure: Jagged horseshoe crater", "Key feature: Laguna Amarilla (yellow lake)", "Erosion: Massive volcanic collapse", "Alpine status: High-altitude wilderness"]
     },
     description: {
       de: "El Altar ist ein erloschener Vulkan, dessen eingestürzte Caldera neun scharfe Gipfel bildet, die eine atemberaubende Lagune umschließen.",
@@ -316,7 +316,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "Tungurahua, known as the 'Throat of Fire' in Quichua, is one of Ecuador's most active stratovolcanoes. It dominates the landscape above the city of Baños, which is nestled at its base in a dramatic valley. The volcano's persistent activity has profoundly shaped the region's geography, periodically depositing volcanic ash and influencing the surrounding fertile cloud forests. It serves as a vital case study for volcanology and community-based disaster management. Geography K7 — volcanic activity and natural hazards."
     },
     factsAdvanced: {
-      en: ["Elevation: 5,023 meters", "Nickname: Throat of Fire", "Status: Highly active stratovolcano", "Proximity: Located near Baños city", "Ecology: Cloud forest ecosystems", "Region: Central Andean volcanic chain"]
+      en: ["Nickname: Throat of Fire", "Status: Highly active stratovolcano", "Proximity: Located near Baños city", "Ecology: Cloud forest ecosystems", "Region: Central Andean volcanic chain"]
     },
     description: {
       de: "Der Tungurahua ist ein hochaktiver Vulkan über der Stadt Baños, bekannt für seine häufigen Ascheausbrüche und Lavaströme.",
@@ -365,7 +365,7 @@ export const poiExtraEcuadorNatureV2: POI[] = [
       en: "Guagua Pichincha is an active stratovolcano that looms directly over the capital city of Quito. Its historical eruptions have significantly influenced the topography of the Quito valley and continue to be a primary concern for urban safety. The mountain includes several summits, with Guagua being the youngest and most active. The slopes protect important fragments of high-altitude ecosystems, though they are under threat from urban encroachment. Geography K7 — active volcanoes and urban geography."
     },
     factsAdvanced: {
-      en: ["Elevation: 4,784 meters", "Location: Directly overlooking Quito", "Type: Active stratovolcano", "Summit: Guagua Pichincha", "History: Frequent eruptions", "Ecology: Threatened alpine habitat"]
+      en: ["Location: Directly overlooking Quito", "Type: Active stratovolcano", "Summit: Guagua Pichincha", "History: Frequent eruptions", "Ecology: Threatened alpine habitat"]
     },
     description: {
       de: "Der Pichincha ist ein aktiver Stratovulkan, der sich direkt über der Hauptstadt Quito erhebt und aus mehreren Gipfeln besteht.",

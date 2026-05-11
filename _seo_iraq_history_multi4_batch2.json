@@ -1,0 +1,63 @@
+{
+  "lang": "multi4",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqHistoryV2.ts"],
+  "items": [
+    {
+      "id": "nineveh-history-v2",
+      "descriptionAdvancedEn": "Nineveh, located on the eastern bank of the Tigris River opposite modern-day Mosul, was one of the greatest cities of antiquity and the last capital of the Assyrian Empire. Under kings like Sennacherib and Ashurbanipal, it became a vast metropolis, sprawling over 750 hectares. The city was protected by a 12-kilometer-long wall with 15 monumental gates. Nineveh was not just a political and military hub but also a center of culture and learning. It housed the famed Library of Ashurbanipal, a massive collection of over 30,000 cuneiform tablets, including the Epic of Gilgamesh. The city's palaces were adorned with magnificent reliefs depicting royal hunts and military campaigns. Nineveh's splendor came to an end in 612 BC when it was sacked by a coalition of Babylonians and Medes, a pivotal event that marked the fall of the Assyrian Empire.",
+      "factsAdvanced": [
+        "Nineveh was the capital of the Assyrian Empire in the 7th century BC.",
+        "The city was located on the banks of the Tigris River.",
+        "Its city walls were approximately 12 kilometers long.",
+        "The Library of Ashurbanipal held over 30,000 cuneiform tablets.",
+        "The city was destroyed in 612 BC by Babylonian and Median forces.",
+        "Excavations began in the 1840s, uncovering vast palaces.",
+        "Many of its famous reliefs are now in the British Museum.",
+        "It was one of the largest cities in the world during its time."
+      ]
+    },
+    {
+      "id": "samarra-great-mosque-history-v2",
+      "descriptionAdvancedEn": "The Great Mosque of Samarra is a breathtaking example of Abbasid architecture, located in the city of Samarra, Iraq. Commissioned in the 9th century by the caliph Al-Mutawakkil, it was the world's largest mosque at the time of its completion. The mosque is famous for its unique minaret, the Malwiya Tower, a 52-meter-high spiral cone with a ramp for the muezzin to ascend. This distinctive feature makes it one of the most iconic landmarks in the Islamic world. The mosque itself is a vast rectangular structure, built largely of baked brick, with walls that stretch for hundreds of meters. Though much of the mosque was destroyed during the Mongol invasion in the 13th century, its outer walls and the magnificent Malwiya Tower remain, testifying to the grandeur of the Abbasid Caliphate. The site was declared a UNESCO World Heritage site in 2007.",
+      "factsAdvanced": [
+        "The mosque was commissioned by Caliph Al-Mutawakkil in the 9th century.",
+        "Its minaret, the Malwiya Tower, is a 52-meter-high spiral.",
+        "For a time, it was the largest mosque in the world.",
+        "The mosque's outer walls are fortified with semi-circular towers.",
+        "The main structure is built from baked bricks.",
+        "The mosque was largely destroyed in 1278 by Hulagu Khan's invasion.",
+        "It is located on the banks of the Tigris River.",
+        "The archaeological city of Samarra is a UNESCO World Heritage site."
+      ]
+    },
+    {
+      "id": "nimrud-history-v2",
+      "descriptionAdvancedEn": "Nimrud, anciently known as Kalhu, was a major Assyrian city and a capital of the empire. Located on the Tigris River, it was a hub of power and wealth. King Ashurnasirpal II made it his capital in the 9th century BC and embarked on a massive building program, constructing a grand palace and temples. The city was renowned for its lavish decorations, including monumental lamassu statues—winged, human-headed bulls—that guarded the palace gates, and intricate ivory carvings that adorned the furniture. These artifacts, discovered by archaeologists like Austen Henry Layard, reveal the incredible artistry and opulence of the Assyrian court. Nimrud's treasures provided invaluable insights into the history, religion, and culture of one of the ancient world's most powerful empires. The site has suffered significant damage in recent times, but its historical importance remains immense.",
+      "factsAdvanced": [
+        "Nimrud was an ancient capital of the Assyrian Empire.",
+        "King Ashurnasirpal II made it his capital in the 9th century BC.",
+        "The city was known as Kalhu in ancient times.",
+        "Giant lamassu statues guarded the entrances to the royal palace.",
+        "Thousands of exquisite ivory carvings were discovered at the site.",
+        "Archaeological excavations began in the 1840s.",
+        "The city was located south of Nineveh, on the Tigris River.",
+        "Much of the site was deliberately destroyed between 2015 and 2016."
+      ]
+    },
+    {
+      "id": "erbil-citadel-history-v2",
+      "descriptionAdvancedEn": "The Erbil Citadel, a fortified tell in the heart of Erbil, the capital of the Kurdistan Region of Iraq, is one of the oldest continuously inhabited settlements in the world. With a history stretching back at least 6,000 years, the citadel has been home to numerous civilizations, including the Assyrians, Babylonians, and Ottomans. The citadel rises 32 meters above the surrounding city, its imposing outer walls formed by the continuous facades of 19th-century houses. Inside, a maze of narrow alleyways winds through a dense urban fabric of traditional courtyard houses. This unique architectural ensemble is a testament to centuries of human settlement and adaptation. In 2014, the Erbil Citadel was inscribed as a UNESCO World Heritage site in recognition of its outstanding universal value. It stands as a proud symbol of the city's ancient heritage and cultural identity.",
+      "factsAdvanced": [
+        "The Erbil Citadel is one of the longest continuously inhabited sites in the world.",
+        "It is estimated to be over 6,000 years old.",
+        "The citadel is built on a tell, an artificial mound created by centuries of settlement.",
+        "It rises 32 meters above the surrounding city.",
+        "The outer walls are formed by the facades of Ottoman-era houses.",
+        "The citadel was the main center of the ancient city of Arbela.",
+        "It was inscribed as a UNESCO World Heritage site in 2014.",
+        "A high commission was established in 2007 for its restoration and revitalization."
+      ]
+    }
+  ]
+}

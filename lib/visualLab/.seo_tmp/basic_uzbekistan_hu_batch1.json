@@ -1,0 +1,112 @@
+{
+  "lang": "hu",
+  "country": "Uzbekistan",
+  "files": [
+    "lib/visualLab/data/poiExtraUzbekistanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraUzbekistanReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fergana-cities-v2",
+      "description": "Fergana egy ipari város Kelet-Üzbegisztánban, a Fergana-medence déli részén. Az 1876-ban alapított település jelentős olajfinomító és textilipari központ.",
+      "facts": [
+        "1876-ban alapították",
+        "Olajfinomító és textilipar",
+        "A Fergana-medence déli részén fekszik",
+        "Népessége meghaladja a 290 ezret"
+      ]
+    },
+    {
+      "id": "shahrisabz-cities-v2",
+      "description": "Shahrisabz történelmi város Dél-Üzbegisztánban, mintegy 80 kilométerre délre Szamarkandtól. Timur Lenk szülővárosaként számos 14-15. századi építészeti emlékkel rendelkezik.",
+      "facts": [
+        "Timur Lenk szülővárosa",
+        "Szamarkandtól 80 km-re délre",
+        "Történelmi központja UNESCO világörökség",
+        "14-15. századi műemlékek"
+      ]
+    },
+    {
+      "id": "zarafshan-cities-v2",
+      "description": "Zarafshan a Kyzylkum sivatag szívében található, a Navoiy régióban. A várost 1965-ben hozták létre a közeli Muruntau aranybánya kiszolgálására.",
+      "facts": [
+        "1965-ben alapították",
+        "A Kyzylkum sivatagban található",
+        "Muruntau aranybánya központja",
+        "Az üzbég aranyipar központja"
+      ]
+    },
+    {
+      "id": "yangiyul-cities-v2",
+      "description": "Yangiyul egy város Taskent régióban, az üzbég fővárostól 28 kilométerre délnyugatra. Gazdasága főként az élelmiszer- és könnyűiparra, valamint a pamutfeldolgozásra épül.",
+      "facts": [
+        "Taskenttől 28 km-re fekszik",
+        "Élelmiszeripar és pamutfeldolgozás",
+        "Taskent régió része",
+        "Jelentős vasúti és közúti csomópont"
+      ]
+    },
+    {
+      "id": "khodjeyli-cities-v2",
+      "description": "Khodjeyli a Karakalpaksztán Autonóm Köztársaságban található város, nem messze Nukustól. A település közelében fekszik a híres Mizdakkhan nekropolisz.",
+      "facts": [
+        "Karakalpaksztánban található",
+        "Mizdakkhan nekropolisz a közelben",
+        "Nukus vonzáskörzetébe tartozik",
+        "Történelmi zarándokhelyek"
+      ]
+    },
+    {
+      "id": "po-i-kalyan-bukhara-history-v2",
+      "description": "A Po-i-Kalyan épületegyüttes Bukhara történelmi központjában helyezkedik el, a Kalyan minaret köré épülve. A 12-16. században épült komplexum a közép-ázsiai iszlám építészet kiemelkedő példája.",
+      "facts": [
+        "Bukhara központjában áll",
+        "A 12-16. században épült",
+        "Magában foglalja a Kalyan minaretet és mecsetet",
+        "Az iszlám építészet remeke"
+      ]
+    },
+    {
+      "id": "chor-minor-bukhara-history-v2",
+      "description": "A Chor Minor egy különleges, négy minarettel rendelkező medresze Bukhara városában. Az épületet 1807-ben emelte egy gazdag türkmén kereskedő, Khalif Niyazkul.",
+      "facts": [
+        "1807-ben épült Bukharában",
+        "Négy jellegzetes minarettel rendelkezik",
+        "Khalif Niyazkul kereskedő építtette",
+        "A medresze egykori kapuépülete"
+      ]
+    },
+    {
+      "id": "kok-gumbaz-mosque-shahrisabz-history-v2",
+      "description": "A Kok Gumbaz mecset Shahrisabz városában található, Ulugbek építtette 1437-ben apja, Shah Rukh tiszteletére. Neve kék kupolát jelent, amely az épület legmeghatározóbb eleme.",
+      "facts": [
+        "1437-ben építtette Ulugbek",
+        "Shahrisabz városában található",
+        "Neve kék kupolát jelent",
+        "Shah Rukh tiszteletére emelték"
+      ]
+    },
+    {
+      "id": "minor-mosque-landmarks-v2",
+      "description": "A Minor mecset Taskent egyik legújabb és leglátványosabb vallási épülete, amelyet 2014-ben adtak át. A teljesen fehér márvánnyal borított mecset modern, mégis hagyományos üzbég stílusjegyeket visel.",
+      "facts": [
+        "2014-ben adták át Taskentben",
+        "Fehér márvány borítással rendelkezik",
+        "Egyszerre 2400 hívőt tud befogadni",
+        "Az Ankhor csatorna partján épült"
+      ]
+    },
+    {
+      "id": "sitorai-mokhi-khosa-landmarks-v2",
+      "description": "A Sitorai Mokhi Khosa palota Bukhara utolsó emírjeinek nyári rezidenciája volt, a várostól északra. Az épület az európai és a keleti építészeti stílusok egyedi ötvözete.",
+      "facts": [
+        "Bukhara emírjeinek nyári palotája",
+        "Orosz és keleti stílusjegyek",
+        "19-20. század fordulóján épült",
+        "Jelenleg múzeumként működik"
+      ]
+    }
+  ]
+}

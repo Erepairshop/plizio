@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Singapore",
+  "files": [
+    "lib/visualLab/data/poiExtraSingaporeHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sg-the-cenotaph-history-v2",
+      "description": "Das Cenotaph in Singapur ist ein Denkmal zu Ehren der gefallenen Soldaten des Ersten Weltkriegs. Es steht prominent im Esplanade Park und erinnert an die im Kampf verlorenen Menschenleben.",
+      "facts": [
+        "Errichtet im Jahr 1922",
+        "Architekt: Denis Santry",
+        "Standort: Esplanade Park",
+        "Nationaldenkmal Singapurs"
+      ]
+    }
+  ]
+}

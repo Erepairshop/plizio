@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Peru",
+  "files": [
+    "lib/visualLab/data/poiExtraPeruEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ind-cajamarquilla-economic-v2",
+      "description": "Cajamarquilla ist eine bedeutende archäologische Stätte und ein ehemaliges wichtiges Handelszentrum der Lima-Kultur. Sie liegt in einem Wüstengebiet nahe Lima und zeugt von der komplexen wirtschaftlichen Organisation der präkolumbischen Zivilisationen.",
+      "facts": [
+        "Erbaut etwa um 500 n. Chr.",
+        "Zentrum des Handels in der Region",
+        "Wichtige Stätte der Lima-Kultur",
+        "Liegt im Rímac-Tal"
+      ]
+    }
+  ]
+}

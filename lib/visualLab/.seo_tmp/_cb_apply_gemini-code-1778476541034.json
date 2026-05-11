@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuineaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yomou-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Yomou ist die südlichste Stadt Guineas und das administrative Zentrum der gleichnamigen Präfektur in der Region Guinée Forestière. Die Stadt liegt in einer geografisch isolierten Lage, tief im tropischen Regenwaldgürtel, unmittelbar an der Grenze zu Liberia. Diese Grenzlage prägt das tägliche Leben und den Handel, wobei Yomou als wichtiger Austauschpunkt für landwirtschaftliche Erzeugnisse und Waren zwischen den beiden Ländern fungiert. Die Umgebung von Yomou ist durch eine dichte Vegetation und ein feucht-heißes Klima geprägt, das ideale Bedingungen für den Anbau von Kautschuk, Kaffee und Palmöl bietet. Die lokale Wirtschaft ist stark von diesen Exportgütern abhängig, wobei großflächige Plantagen das Landschaftsbild bestimmen. Die Bevölkerung setzt sich primär aus den Ethnien der Guerzé (Kpelle) und Mano zusammen, deren gesellschaftliche Strukturen tief in traditionellen Riten und dem Respekt vor den heiligen Wäldern verwurzelt sind. Aufgrund der schlechten Verkehrsanbindung bleibt Yomou eine der abgelegensten Regionen des Landes, was jedoch zur Erhaltung einer einzigartigen Biodiversität und traditioneller Lebensweisen beigetragen hat.",
+        "hu": "Yomou Guinea legdélebbi városa, az Erdős-Guinea (Guinée Forestière) régióban található Yomou prefektúra székhelye. A település földrajzilag rendkívül elszigetelt helyen, az ország mélyén, a libériai határ közvetlen szomszédságában fekszik. Ez a határmenti helyzet határozza meg a város mindennapjait és kereskedelmét, hiszen Yomou fontos tranzitpont a két ország közötti áruforgalomban. A környék éghajlata trópusi esőerdei, ami kedvez a nagyüzemi mezőgazdaságnak: a vidéket kiterjedt gumifa-, kávé- és olajpálma-ültetvények borítják. A helyi gazdaság gerincét ezen exportcikkek termelése és feldolgozása adja. A lakosság többsége a kuerze (guerzé) és a mano népcsoporthoz tartozik, akik ma is szigorúan őrzik ősi hagyományaikat, beleértve a „szent erdőkhöz” kapcsolódó rituálékat. Yomou távoli fekvése és a nehézkes közúti megközelíthetőség miatt a modernizáció lassabb, de ez segített megőrizni a régió érintetlen természeti környezetét és gazdag biológiai sokféleségét, amely ritka élőhelyet biztosít számos védett állatfajnak.",
+        "ro": "Yomou este cel mai sudic oraș din Guineea, servind drept reședință a prefecturii omonime din regiunea Guinée Forestière. Orașul este situat într-o zonă geografică izolată, în inima centurii de pădure tropicală, chiar la granița cu Liberia. Această poziție frontalieră influențează major viața cotidiană și comerțul local, Yomou fiind un punct de schimb vital pentru produse agricole și mărfuri între cele două state. Climatul cald și umed al regiunii favorizează culturile industriale, peisajul fiind dominat de plantații vaste de arbore de cauciuc, cafea și palmieri de ulei. Economia locală depinde aproape integral de aceste resurse destinate exportului. Populația este alcătuită în principal din etniile Guerzé (Kpelle) și Mano, ale căror structuri sociale sunt strâns legate de riturile tradiționale și de conservarea pădurilor sacre. Din cauza infrastructurii rutiere precare, Yomou rămâne una dintre cele mai puțin accesibile zone din Guineea, fapt care a permis însă păstrarea unei biodiversități remarcabile și a unui mod de viață autentic, ferit de urbanizarea accelerată.",
+        "en": "Yomou is the southernmost town in Guinea and the administrative capital of the Yomou Prefecture in the Forested Guinea region. Deeply embedded in the tropical rainforest belt, the town sits directly on the border with Liberia. This strategic border location shapes the town's character, acting as a crucial exchange point for agricultural goods and commercial trade between the two nations. The geographical setting is defined by dense vegetation and a humid tropical climate, providing optimal conditions for the large-scale cultivation of rubber, coffee, and oil palm. The local economy is heavily reliant on these commodities, with vast plantations characterizing the surrounding landscape. The population consists primarily of the Guerzé (Kpelle) and Mano ethnic groups, whose social organizations remain deeply rooted in traditional customs and the preservation of sacred forests. Due to limited road connectivity, Yomou remains one of the most remote parts of the country, a factor that has helped preserve its unique biodiversity and traditional ways of life amidst the expanding agricultural frontier."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Yomou ist die am südlichsten gelegene Präfekturhauptstadt der Republik Guinea.",
+          "Die Stadt liegt im Herzen des guineischen Kautschuk- und Palmölgürtels.",
+          "Die Grenze zu Liberia ist von der Stadtmitte aus in wenigen Kilometern erreichbar.",
+          "Die Region ist bekannt für den Erhalt ritueller 'heiliger Wälder'.",
+          "Yomou spielt eine Schlüsselrolle im informellen grenzüberschreitenden Handel.",
+          "Die Regenzeit in Yomou gehört zu den längsten und intensivsten des Landes."
+        ],
+        "hu": [
+          "Yomou Guinea legdélebbre fekvő prefektúra-székhelye.",
+          "A város a guineai gumi- és pálmaolaj-termelés egyik legfontosabb központja.",
+          "A libériai határ mindössze néhány kilométerre található a városközponttól.",
+          "A környék híres a kuerze népcsoport által gondozott 'szent erdőkről'.",
+          "A település kulcsszerepet játszik a kétoldalú informális határkereskedelemben.",
+          "Yomouban az egyik leghosszabb az esős évszak az egész országban."
+        ],
+        "ro": [
+          "Yomou este cea mai sudică reședință de prefectură din Republica Guineea.",
+          "Orașul este un centru major pentru producția de cauciuc natural și ulei de palmier.",
+          "Frontiera cu Liberia se află la doar câțiva kilometri de centrul orașului.",
+          "Regiunea este celebră pentru pădurile sacre protejate de comunitățile locale.",
+          "Economia orașului este susținută de fluxul constant de mărfuri transfrontaliere.",
+          "Climatul este unul dintre cele mai umede din țară, cu precipitații record."
+        ],
+        "en": [
+          "Yomou is the southernmost prefecture capital in the Republic of Guinea.",
+          "The town is a central hub for Guinea's rubber and palm oil production.",
+          "The Liberian border is located only a few kilometers from the town center.",
+          "The region is known for the cultural preservation of ritual 'sacred forests'.",
+          "Yomou plays a key role in informal cross-border trade networks.",
+          "The town experiences one of the longest rainy seasons in the country."
+        ]
+      }
+    },
+    {
+      "id": "dalaba-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Dalaba liegt im Herzen des Fouta-Djallon-Hochlandes auf einer Höhe von etwa 1.200 Metern und gilt als eine der historisch bedeutendsten Städte der Region. Aufgrund ihres kühlen und angenehmen Klimas wurde die Stadt während der Kolonialzeit oft als die „Schweiz Afrikas“ bezeichnet und diente als Erholungsort für die französische Verwaltung. Geografisch ist Dalaba von einer beeindruckenden Berglandschaft mit tiefen Tälern, Pinienwäldern und zahlreichen Wasserfällen geprägt. Ein markantes Merkmal der Stadt ist die Case à Palabres, ein historisches Gebäude, das für Versammlungen genutzt wurde. Wirtschaftlich ist Dalaba für seinen Gartenbau bekannt; die Region produziert Erdbeeren, Äpfel und verschiedene Gemüsesorten, die im milden Klima der Hochebene besonders gut gedeihen. Auch die Herstellung von Chinin aus Cinchona-Bäumen hat hier eine lange Tradition. Die Stadt ist zudem ein Zentrum des Kunsthandwerks, insbesondere der Lederverarbeitung und der Herstellung von handgewebten Textilien. Heute ist Dalaba ein beliebtes Ziel für Wanderer und Naturfreunde, die die unberührte Natur und die architektonischen Zeugnisse der Vergangenheit erkunden möchten.",
+        "hu": "Dalaba a Fouta Djallon-hegység szívében, mintegy 1200 méteres tengerszint feletti magasságban fekszik, és Guinea egyik legkülönlegesebb atmoszférájú városa. A gyarmati időkben hűvös, friss hegyi levegője miatt „Afrika Svájcaként” emlegették, és népszerű üdülőhelyként szolgált a francia tisztviselők számára. A város környékét fenyőerdők, látványos vízesések és mély völgyek jellemzik, ami szokatlan látványt nyújt a trópusi Afrikában. Dalaba történelmi jelentőségét növeli, hogy itt található a híres „Case à Palabres”, az egykori törzsi gyűlésház. Gazdaságilag a város az intenzív kertészetre épít: a mérsékelt égövi klímának köszönhetően itt epret, almát és különféle zöldségeket termesztenek, amelyeket az egész országban értékesítenek. Emellett a környék a kinintermeléséről is híres, amelyet az itt meghonosított kínafákból nyernek. Dalaba kulturális szempontból is fontos központ, ahol a fula kézművesek bőrmunkái és szőttesei nagy hírnévnek örvendenek. A túrázók számára a város ideális kiindulópont a közeli Pont de Dieu (Isten hídja) sziklaformáció és a Ditinn-vízesés felfedezéséhez.",
+        "ro": "Dalaba este situat în inima masivului Fouta Djallon, la o altitudine de aproximativ 1.200 de metri, fiind unul dintre cele mai emblematice orașe ale Guineei montane. Datorită climatului său temperat și revigorant, a fost supranumit „Elveția Africii” în perioada colonială, servind drept stațiune climaterică pentru administrația franceză. Peisajul din jurul orașului este atipic pentru Africa de Vest, cu păduri de pini, grădini de flori și numeroase cascade. Din punct de vedere istoric, Dalaba păstrează clădiri remarcabile, precum „Case à Palabres”, locul unde se desfășurau adunările tradiționale. Economia locală se bazează pe o agricultură diversificată, fiind una dintre puținele zone din țară unde se cultivă cu succes căpșuni și mere. De asemenea, Dalaba a fost un centru important pentru producția de chinină, extrasă din arborii de Cinchona aclimatizați aici. Orașul este un faimos centru de artizanat, în special pentru prelucrarea fină a pielii. Pentru turiști, Dalaba oferă numeroase trasee de drumeție care duc spre curiozități naturale precum Pont de Dieu sau cascada Ditinn, oferind panorame de neegalat asupra platourilor montane.",
+        "en": "Dalaba is situated in the heart of the Fouta Djallon highlands at an altitude of approximately 1,200 meters, making it one of the most unique towns in Guinea. Renowned for its cool and refreshing climate, it was often referred to as the \"Switzerland of Africa\" during the colonial era, serving as a health resort for French administrators. The surrounding geography is characterized by rolling hills, pine forests, and dramatic waterfalls, offering a landscape that stands in stark contrast to the coastal tropics. Historically, Dalaba is home to the famous \"Case à Palabres,\" a traditional meeting house used by local leaders. Economically, the town is a center for temperate agriculture; the mild climate allows for the successful cultivation of strawberries, apples, and various vegetables. It also has a history of quinine production from Cinchona plantations established in the early 20th century. Dalaba remains a hub for traditional crafts, particularly high-quality leatherwork and weaving. Today, it is a premier destination for eco-tourism and hikers exploring local natural landmarks like the Pont de Dieu rock formation and the Ditinn Falls."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Dalaba liegt auf 1200 m Höhe und hat das kühlste Klima Guineas.",
+          "Die Stadt war ein bevorzugter Aufenthaltsort von Miriam Makeba.",
+          "In Dalaba wurden die ersten Kiefernwälder Guineas von Franzosen gepflanzt.",
+          "Die 'Case à Palabres' ist ein Symbol der traditionellen Architektur der Peul.",
+          "Die Region ist führend im Anbau von Erdbeeren in Westafrika.",
+          "Das 1936 erbaute Hôtel Siby ist ein Zeugnis der kolonialen Architektur."
+        ],
+        "hu": [
+          "Dalaba 1200 méteres magasságával Guinea egyik leghűvösebb települése.",
+          "A város egykor Miriam Makeba énekesnő kedvelt tartózkodási helye volt.",
+          "A város környéki fenyőerdőket mesterségesen telepítették a gyarmati időkben.",
+          "A 'Case à Palabres' a fula népi építészet egyik legfontosabb emléke.",
+          "A környék Nyugat-Afrika egyik legfontosabb epertermelő vidéke.",
+          "Az 1936-ban épült Hôtel Siby a város egyik legrégebbi és legismertebb épülete."
+        ],
+        "ro": [
+          "Dalaba este situat la 1200 m altitudine, oferind cel mai răcoros climat din țară.",
+          "Orașul a fost locul de refugiu și inspirație pentru artista Miriam Makeba.",
+          "Pădurile de pini din jur au fost plantate inițial de botaniști francezi.",
+          "Clădirea 'Case à Palabres' este celebră pentru acoperișul său tradițional masiv.",
+          "Regiunea este renumită pentru producția de căpșuni destinate pieței din Conakry.",
+          "Hôtel Siby, inaugurat în 1936, este un simbol al turismului montan istoric."
+        ],
+        "en": [
+          "Dalaba is located at 1,200 meters, featuring the coolest climate in Guinea.",
+          "The famous singer Miriam Makeba lived in Dalaba during her exile.",
+          "The pine forests surrounding the town were artificially introduced during the colonial era.",
+          "The 'Case à Palabres' is a masterpiece of traditional Fula architectural style.",
+          "The area is a major regional producer of strawberries and temperate fruits.",
+          "Hôtel Siby, built in 1936, remains a landmark of early highland tourism."
+        ]
+      }
+    },
+    {
+      "id": "sanguiana-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sanguiana ist eine strategisch gelegene Stadt in der Präfektur Kouroussa, im Herzen von Oberguinea. Die Stadt liegt in einer weiten Savannenlandschaft, die durch das Becken des Niger-Flusses und seiner Nebenflüsse geprägt ist. Geografisch ist die Region flach bis leicht hügelig und unterliegt einem ausgeprägten Wechselspiel zwischen Trocken- und Regenzeit. Sanguiana dient als wichtiges landwirtschaftliches Zentrum für die umliegenden Dörfer, wobei der Anbau von Reis in den fruchtbaren Flussniederungen die ökonomische Basis bildet. Neben Reis werden auch Mais, Hirse und Erdnüsse für den regionalen Markt produziert. Historisch und kulturell ist Sanguiana tief in der Malinké-Kultur verwurzelt. Die Traditionen der Jägerbruderschaften und die mündliche Überlieferung durch Griots spielen eine zentrale Rolle im sozialen Gefüge. In den letzten Jahren hat auch der handwerkliche Goldbergbau an Bedeutung gewonnen, da die Region Teil des goldreichen Siguiri-Beckens ist. Obwohl die Stadt infrastrukturell noch Entwicklungsbedarf aufweist, ist sie ein lebendiger Ort des Austauschs und ein Spiegelbild der ländlichen Dynamik Oberguineas.",
+        "hu": "Sanguiana városa Guinea felső-guineai régiójában, Kouroussa prefektúrában található. A település a Niger-folyó vízgyűjtő területén, tágas szavannás vidéken fekszik, amelyre a forró, száraz és a bőséges csapadékkal járó esős évszak váltakozása jellemző. Sanguiana alapvetően mezőgazdasági jellegű központ, ahol a helyi lakosok megélhetését a folyómenti ártéri rizstermesztés biztosítja. A rizs mellett jelentős a kukorica, a köles és a földimogyoró termelése is, amelyek a helyi piacok fő árucikkei. Kulturális szempontból a város a malinké népcsoport hagyományainak egyik őrzője; a közösségi életben ma is fontos szerepet töltenek be a tradicionális vadásztársaságok és a griotok, azaz a történetmondó énekesek. Az utóbbi évtizedben a település környékén megélénkült a hagyományos aranymosás is, mivel a terület az aranyban gazdag Siguiri-medence déli nyúlványaihoz tartozik. Sanguiana fontos összekötő kapocs a régió kisebb falvai és a nagyobb városi központok, például Kouroussa és Kankan között.",
+        "ro": "Sanguiana este un oraș situat în prefectura Kouroussa, în regiunea Guineea Superioară. Amplasat într-un peisaj vast de savană, orașul este puternic influențat de proximitatea bazinului hidrografic al fluviului Niger. Geografia zonei este caracterizată prin câmpii întinse, ideale pentru agricultura extensivă. Economia din Sanguiana gravitează în jurul cultivării orezului, care beneficiază de zonele inundabile fertile din apropiere. Pe lângă orez, fermierii locali produc cantități însemnate de arahide și cereale tradiționale. Din punct de vedere cultural, Sanguiana este un bastion al tradițiilor Malinké, unde muzica griotilor și ritualurile frățiilor de vânători sunt păstrate cu sfințenie. În ultimii ani, exploatarea artizanală a aurului a devenit o activitate economică secundară dar importantă, atrăgând forță de muncă din regiunile învecinate. Orașul funcționează ca un centru de colectare pentru produsele agricole ale regiunii, facilitând comerțul spre centrele urbane mai mari. Deși rămâne o localitate predominant rurală, Sanguiana reflectă vitalitatea și moștenirea culturală a poporului manding.",
+        "en": "Sanguiana is a strategically positioned town in the Kouroussa Prefecture, located in the heart of Upper Guinea. The town is set within a vast savanna landscape, shaped by the Niger River basin and its various tributaries. Geographically, the area is flat to gently undulating, experiencing a distinct seasonal rhythm of dry heat and heavy rainfall. Sanguiana serves as a major agricultural hub for the surrounding rural communities, with rice cultivation in the fertile floodplains forming the backbone of the local economy. In addition to rice, crops such as maize, millet, and peanuts are produced for regional trade. Culturally, Sanguiana is deeply embedded in Malinké traditions, where the influence of hunter brotherhoods and oral histories passed down by griots remain central to social life. Recently, artisanal gold mining has gained prominence as the area lies on the southern fringes of the gold-rich Siguiri basin. Although infrastructure development is still ongoing, the town is a vibrant center of exchange and a true reflection of the rural dynamics in Upper Guinea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sanguiana gehört administrativ zur Präfektur Kouroussa.",
+          "Die Stadt liegt im Einzugsgebiet des Niger-Flusses.",
+          "Reis ist das wichtigste landwirtschaftliche Erzeugnis der Region.",
+          "Sanguiana ist ein Zentrum für die Malinké-Kultur in Oberguinea.",
+          "In der Umgebung wird vermehrt handwerklicher Goldbergbau betrieben.",
+          "Die Stadt ist über regionale Pisten mit der Nationalstraße N1 verbunden."
+        ],
+        "hu": [
+          "Sanguiana közigazgatásilag a Kouroussa prefektúrához tartozik.",
+          "A város a Niger-folyó medencéjében, szavannás környezetben fekszik.",
+          "A település gazdaságának alapja a nagyüzemi rizstermesztés.",
+          "A lakosság túlnyomó többsége a malinké népcsoporthoz tartozik.",
+          "A környéken több helyen folyik hagyományos, kisüzemi aranymosás.",
+          "Fontos kereskedelmi elosztópont Kouroussa és a keleti országrész között."
+        ],
+        "ro": [
+          "Sanguiana face parte din punct de vedere administrativ din prefectura Kouroussa.",
+          "Orașul este situat în bazinul superior al fluviului Niger.",
+          "Orezul reprezintă cultura principală care susține economia locală.",
+          "Este o comunitate dominată de valorile și tradițiile etniei Malinké.",
+          "Mineritul artizanal de aur a cunoscut o creștere semnificativă în ultimii ani.",
+          "Localitatea servește drept punct de tranzit pentru produsele agricole regionale."
+        ],
+        "en": [
+          "Sanguiana is administratively part of the Kouroussa Prefecture.",
+          "The town is located within the expansive Niger River basin.",
+          "Rice farming is the primary economic activity in the surrounding fields.",
+          "Sanguiana is a significant cultural site for the Malinké people.",
+          "Artisanal gold mining is a growing economic factor in the outskirts.",
+          "The town acts as a rural market center for the Upper Guinea savanna region."
+        ]
+      }
+    },
+    {
+      "id": "sangaredi-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Sangarédi ist eine der bedeutendsten Industriestädte Guineas und liegt in der Präfektur Boké im Westen des Landes. Die Stadt ist weltbekannt für ihre massiven Bauxitvorkommen, die zu den qualitativ hochwertigsten der Erde gehören. Seit den 1970er Jahren wird hier durch die Compagnie des Bauxites de Guinée (CBG) Bergbau im großen Stil betrieben. Geografisch liegt Sangarédi auf einem Plateau, das durch die charakteristische rote Lateriterde geprägt ist, in der das Bauxit lagert. Die Stadt selbst ist eine typische Bergbausiedlung, deren Infrastruktur – einschließlich Wohnviertel, Schulen und Krankenhäuser – maßgeblich durch die Bergbauindustrie entwickelt wurde. Wirtschaftlich ist Sangarédi das Herzstück des guineischen Bergbausektors; von hier aus wird das Erz über eine eigens dafür gebaute Eisenbahnlinie zum Hafen von Kamsar transportiert. Das Klima ist tropisch mit einer intensiven Regenzeit. Trotz des industriellen Charakters ist die Umgebung von Waldsavannen umgeben, die jedoch durch die Ausweitung der Tagebauminen zunehmend unter ökologischem Druck stehen. Die Stadt beherbergt eine multietnische Bevölkerung, die aus dem ganzen Land angezogen wurde, um in der Mine oder im Dienstleistungssektor zu arbeiten.",
+        "hu": "Sangarédi Guinea egyik legfontosabb ipari városa, amely a nyugati Boké prefektúrában található. A város világhírnevét hatalmas bauxitkészleteinek köszönheti, amelyek a világ legjobb minőségű ércei közé tartoznak. Az 1970-es évek óta itt működik a Compagnie des Bauxites de Guinée (CBG), amely az ország bányászati termelésének gerincét adja. Földrajzilag Sangarédi egy fennsíkon helyezkedik el, ahol a táj jellegzetes vörös színét a magas bauxittartalmú laterit talaj adja. A település tipikus bányászváros, amelynek infrastruktúráját – a lakónegyedektől az egészségügyi központokig – a bányavállalat fejlesztette ki. Gazdasági szempontból Sangarédi kulcsfontosságú: az itt kitermelt ércet egy speciális vasútvonalon szállítják Kamsar kikötőjébe, ahonnan a világpiacra kerül. Az éghajlat trópusi, forró száraz évszakkal és intenzív esőzésekkel. Noha a város arculatát a külszíni fejtések határozzák meg, a környéket eredetileg fás szavannák borították. A város lakossága rendkívül heterogén, mivel az ország minden részéből érkeztek ide munkavállalók a bányászati lehetőségek reményében.",
+        "ro": "Sangarédi este unul dintre cele mai importante orașe industriale din Guineea, situat în prefectura Boké, în vestul țării. Orașul este celebru la nivel mondial pentru rezervele sale masive de bauxită de înaltă calitate, exploatate din anii 1970 de către Compagnie des Bauxites de Guinée (CBG). Din punct de vedere geografic, Sangarédi este amplasat pe un platou caracterizat prin solul roșu lateritic, specific zonelor bogate în minereu. Orașul s-a dezvoltat ca o așezare minieră model, având o infrastructură planificată care include cartiere rezidențiale, facilități medicale și educaționale susținute de sectorul extractiv. Economia orașului Sangarédi reprezintă motorul exporturilor guineene; minereul extras aici este transportat pe o cale ferată dedicată până la portul Kamsar. Climatul este tropical, cu un sezon ploios marcat de precipitații abundente. Deși activitatea industrială domină peisajul prin minele de suprafață, zona înconjurătoare păstrează elemente de savană arborescentă, deși ecosistemul local se confruntă cu provocări ecologice majore. Populația este cosmopolită, fiind formată din muncitori calificați și familiile lor venite din toate colțurile țării.",
+        "en": "Sangarédi is one of Guinea's most vital industrial towns, located in the Boké Prefecture in the western part of the country. The town is globally renowned for its massive bauxite deposits, which are among the highest grade in the world. Since the 1970s, it has been the primary operations base for the Compagnie des Bauxites de Guinée (CBG), a cornerstone of the national economy. Geographically, Sangarédi sits on a high plateau characterized by the deep red color of laterite soil, which contains the bauxite ore. The town itself is a purpose-built mining community, with infrastructure—ranging from housing to healthcare—developed specifically to support the industry. Economically, Sangarédi is the heart of Guinea's mining sector; the ore extracted here is transported via a dedicated heavy-haul railway line to the Port of Kamsar for global export. The climate is tropical, with intense seasonal rains. While the industrial landscape of open-pit mines defines the area, it is surrounded by wooded savannas that face increasing environmental pressure. The population is diverse, consisting of workers and specialists drawn from across Guinea and abroad."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sangarédi beherbergt eine der größten Bauxitminen der Welt.",
+          "Die Stadt wird von der Bergbaugesellschaft CBG verwaltet.",
+          "Eine 135 km lange Eisenbahnstrecke verbindet Sangarédi mit dem Hafen Kamsar.",
+          "Die Laterit-Plateaus um die Stadt verleihen der Landschaft eine tiefrote Farbe.",
+          "Sangarédi besitzt einen eigenen Flughafen für Industrieflüge.",
+          "Die Mine in Sangarédi deckt einen erheblichen Teil des weltweiten Aluminiumbedarfs."
+        ],
+        "hu": [
+          "Sangarédi ad otthont a világ egyik legnagyobb külszíni bauxitbányájának.",
+          "A város fejlődése és fenntartása szorosan a CBG bányavállalathoz kötődik.",
+          "Egy 135 km hosszú vasútvonal köti össze a bányát Kamsar kikötőjével.",
+          "A környékbeli laterit-fennsíkok miatt a táj jellegzetesen vörös színű.",
+          "A város saját repülőtérrel rendelkezik a bányászati forgalom kiszolgálására.",
+          "Az itt kitermelt bauxit a világ alumíniumgyártásának egyik fő forrása."
+        ],
+        "ro": [
+          "Sangarédi găzduiește una dintre cele mai mari mine de bauxită din lume.",
+          "Orașul este administrat în mare parte de compania minieră CBG.",
+          "Calea ferată Sangarédi-Kamsar are o lungime de aproximativ 135 km.",
+          "Platourile de bauxită oferă regiunii un aspect vizual spectaculos de culoare roșie.",
+          "Orașul dispune de infrastructură proprie, inclusiv un aerodrom industrial.",
+          "Activitatea minieră de aici contribuie semnificativ la PIB-ul Republicii Guineea."
+        ],
+        "en": [
+          "Sangarédi is home to one of the largest bauxite mining operations on Earth.",
+          "The town's infrastructure is largely managed by the mining consortium CBG.",
+          "A 135-km dedicated railway connects the Sangarédi mines to the Port of Kamsar.",
+          "The surrounding laterite plateaus give the landscape a distinctive deep red hue.",
+          "Sangarédi features a private airfield used for industrial and logistics flights.",
+          "The bauxite extracted here is a primary source for the global aluminum industry."
+        ]
+      }
+    },
+    {
+      "id": "kolaboui-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kolaboui ist eine schnell wachsende Kleinstadt in der Präfektur Boké, die aufgrund ihrer strategischen Lage als „Kreuzung des Bauxits“ bekannt ist. Sie liegt an der wichtigen Schnittstelle zwischen der Stadt Boké, dem Bergbauzentrum Sangarédi und dem Exporthafen Kamsar. Geografisch befindet sich Kolaboui in der küstennahen Savannenzone von Maritime Guinea, geprägt durch flaches Gelände und ein tropisches Klima mit hoher Luftfeuchtigkeit. In den letzten Jahren hat Kolaboui einen massiven Bevölkerungszuwachs erlebt, da sie als logistisches Drehkreuz für mehrere internationale Bergbauunternehmen fungiert. Wirtschaftlich profitiert die Stadt von ihrer Lage an der Eisenbahnstrecke und den Hauptverkehrsstraßen; sie hat sich von einer kleinen ländlichen Siedlung zu einem geschäftigen Handelszentrum entwickelt. Der lokale Markt von Kolaboui ist einer der dynamischsten der Region, wo Bergbauarbeiter, Händler und Bauern zusammenkommen. Trotz des schnellen Wachstums steht die Stadt vor infrastrukturellen Herausforderungen, insbesondere in den Bereichen Wasserversorgung und Stadtplanung. Die Bevölkerung ist ethnisch vielfältig, wobei die Landuma und Baga die ursprünglichen Bewohner sind, heute aber durch Zuwanderer aus ganz Guinea ergänzt werden.",
+        "hu": "Kolaboui egy dinamikusan fejlődő település a Boké prefektúrában, amelyet stratégiai fekvése miatt a „bauxit kereszteződéseként” emlegetnek. A város kulcsfontosságú csomópontban fekszik, ahol az utak és vasútvonalak ágaznak el Boké városa, a sangarédi bányák és a kamsari kikötő felé. Földrajzilag Alsó-Guinea tengerparti szavannás övezetében található, sík vidéken, ahol a párás trópusi éghajlat dominál. Az elmúlt évtizedben Kolaboui lakossága ugrásszerűen megnőtt, mivel a térségben tevékenykedő számos nemzetközi bányavállalat logisztikai bázisaként és tranzitzónájaként szolgál. Gazdasága a kereskedelemre és a szolgáltatásokra épül; a település piaca a régió egyik legnyüzsgőbb kereskedelmi központja, ahol a bányászati eszközöktől az élelmiszerekig minden megtalálható. Noha Kolaboui városiasodik, az infrastruktúra fejlődése nehezen tart lépést a népességnövekedéssel. Kulturálisan a város ma már egy igazi olvasztótégely, ahol az eredeti landuma és baga lakosság mellett Guinea szinte összes népcsoportja képviselteti magát a bányászati konjunktúra hatására.",
+        "ro": "Kolaboui este un oraș în plină expansiune situat în prefectura Boké, supranumit „intersecția bauxitei” datorită poziției sale strategice. Localitatea se află la punctul de întâlnire al rutelor care leagă orașul Boké, centrul minier Sangarédi și portul de export Kamsar. Din punct de vedere geografic, Kolaboui este situat în zona de savană de coastă a Guineei Maritime, caracterizată printr-un relief plat și un climat tropical umed. În ultimii ani, Kolaboui a cunoscut o creștere demografică explozivă, devenind un centru logistic pentru diverse companii miniere internaționale. Economia orașului a fost transformată radical, trecând de la activități rurale la un comerț vibrant și servicii de suport pentru industria extractivă. Piața din Kolaboui este una dintre cele mai active din regiune, fiind un punct de întâlnire pentru comercianți, minieri și fermieri. Cu toate acestea, urbanizarea rapidă a pus presiune pe infrastructura locală, în special în ceea ce privește accesul la utilități. Populația este un amestec etnic divers, păstrând elemente din culturile Landuma și Baga, alături de noii veniți din restul țării.",
+        "en": "Kolaboui is a rapidly growing town in the Boké Prefecture, strategically known as the \"crossroads of bauxite.\" It is located at the critical junction connecting the regional capital of Boké, the mining hub of Sangarédi, and the export port of Kamsar. Geographically, Kolaboui lies within the coastal savanna zone of Maritime Guinea, featuring flat terrain and a humid tropical climate. Over the last decade, Kolaboui has experienced a population explosion as it serves as a logistics and transit hub for several major international mining companies. Its economy thrives on trade and services; the local market has become one of the most dynamic in the region, acting as a supply center for the mining workforce. Despite its economic importance, the town faces significant urban planning challenges due to the speed of its growth. Culturally, Kolaboui is a melting pot, where the indigenous Landuma and Baga peoples now live alongside a diverse influx of migrants from all over Guinea, drawn by the opportunities within the bauxite corridor."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kolaboui ist der wichtigste Verkehrsknotenpunkt im guineischen Bauxit-Korridor.",
+          "Die Stadt liegt an der Kreuzung der Nationalstraßen N22 und N3.",
+          "Die Eisenbahnstrecke für den Bauxit-Transport führt direkt an der Stadt vorbei.",
+          "Kolaboui hat sich innerhalb eines Jahrzehnts von einem Dorf zu einer Stadt entwickelt.",
+          "Der Markt von Kolaboui ist ein zentraler Versorgungsort für Bergbauarbeiter.",
+          "Die Stadt beherbergt Logistikzentren für Unternehmen wie SMB und CBG."
+        ],
+        "hu": [
+          "Kolaboui a guineai bauxitfolyosó legfontosabb közúti csomópontja.",
+          "A város az N22-es és az N3-as országos főutak találkozásánál fekszik.",
+          "A bauxitot szállító nehézszerelvények vasútvonala a város mellett halad el.",
+          "A település lakossága tíz év alatt többszörösére nőtt a bányászati boom miatt.",
+          "Kolaboui piaca a régió egyik legfontosabb élelmiszer-elosztó központja.",
+          "A városban több nemzetközi bányavállalat tart fenn logisztikai bázist."
+        ],
+        "ro": [
+          "Kolaboui reprezintă principalul nod rutier în coridorul minier al Guineei.",
+          "Orașul este situat la intersecția drumurilor naționale N22 și N3.",
+          "Linia de cale ferată pentru transportul bauxitei traversează perimetrul orașului.",
+          "Localitatea a trecut printr-o urbanizare accelerată în ultimii 10 ani.",
+          "Piața locală este vitală pentru aprovizionarea zonei miniere Sangarédi-Boké.",
+          "Kolaboui găzduiește sedii logistice pentru consorții miniere precum SMB."
+        ],
+        "en": [
+          "Kolaboui is the most critical transport junction in the Guinean bauxite corridor.",
+          "The town sits at the strategic intersection of the N22 and N3 highways.",
+          "The heavy-haul bauxite railway line runs directly adjacent to the town.",
+          "Kolaboui has evolved from a small village to a major urban center in a decade.",
+          "The town's market is a primary supply hub for the region's mining industry.",
+          "It serves as a logistics base for major mining firms like SMB and CBG."
+        ]
+      }
+    }
+  ]
+}

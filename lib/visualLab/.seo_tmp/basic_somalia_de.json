@@ -1,0 +1,85 @@
+{
+  "lang": "de",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts",
+    "lib/visualLab/data/poiExtraSomaliaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cal-madow-mountains-nature-v2",
+      "description": "Ein zerklüftetes Gebirge im Norden Somalias, das für seine hohe Artenvielfalt bekannt ist.",
+      "facts": ["Kalksteingebirge", "Höchster Gipfel Shimbiris", "Wichtiger Lebensraum"]
+    },
+    {
+      "id": "golis-mountains-nature-v2",
+      "description": "Dieser Gebirgszug erstreckt sich entlang der nördlichen Küste und prägt das lokale Klima.",
+      "facts": ["Nord-Somalia", "Wichtige Wasserscheide", "Buschvegetation"]
+    },
+    {
+      "id": "darin-island-nature-v2",
+      "description": "Eine kleine Insel im Indischen Ozean vor der somalischen Küste mit ökologischer Bedeutung.",
+      "facts": ["Indischer Ozean", "Küstennahe Lage", "Nistplatz für Vögel"]
+    },
+    {
+      "id": "bajuni-islands-nature-v2",
+      "description": "Eine Kette von Koralleninseln im Süden, die eine reiche marine Flora und Fauna aufweisen.",
+      "facts": ["Korallenarchipel", "Süd-Somalia", "Marine Biodiversität"]
+    },
+    {
+      "id": "maydh-coast-nature-v2",
+      "description": "Dieser Küstenabschnitt ist für seine historischen Orte und die maritime Umgebung bekannt.",
+      "facts": ["Golf von Aden", "Historische Küste", "Fischreiche Gewässer"]
+    },
+    {
+      "id": "hordio-lagoon-nature-v2",
+      "description": "Eine bedeutende Lagune an der Ostküste, die ein wichtiges Feuchtgebiet für Zugvögel darstellt.",
+      "facts": ["Ostküste", "Feuchtgebiet", "Zugvogelhabitat"]
+    },
+    {
+      "id": "ras-casir-nature-v2",
+      "description": "Ein markanter Küstenvorsprung am Horn von Afrika, der geographisch sehr exponiert liegt.",
+      "facts": ["Horn von Afrika", "Strategische Lage", "Klippenlandschaft"]
+    },
+    {
+      "id": "xaysimo-nature-v2",
+      "description": "Eine weitläufige Halbwüstenregion, die durch charakteristische Akazienbestände geprägt ist.",
+      "facts": ["Halbwüste", "Akazienlandschaft", "Trockengebiet"]
+    },
+    {
+      "id": "juba-delta-nature-v2",
+      "description": "Das fruchtbare Mündungsgebiet des Jubba-Flusses bietet Lebensraum für zahlreiche Tierarten.",
+      "facts": ["Jubba-Fluss", "Delta-Region", "Hohe Fruchtbarkeit"]
+    },
+    {
+      "id": "shebelle-middle-reach-nature-v2",
+      "description": "Der mittlere Verlauf des Shebelle-Flusses bildet eine wichtige Lebensader in der trockenen Landschaft.",
+      "facts": ["Shebelle-Fluss", "Flusslauf", "Landwirtschaftliche Bedeutung"]
+    },
+    {
+      "id": "dadaab-bushland-nature-v2",
+      "description": "Eine ausgedehnte Buschlandschaft, die für ihre Anpassungsfähigkeit an trockenes Klima bekannt ist.",
+      "facts": ["Buschland", "Trockenvegetation", "Aride Zone"]
+    },
+    {
+      "id": "hobyo-dunes-nature-v2",
+      "description": "Diese Sanddünen erstrecken sich entlang der Küste und bilden eine einzigartige aride Formation.",
+      "facts": ["Küstenwüste", "Sanddünen", "Charakteristische Geologie"]
+    },
+    {
+      "id": "xarardheere-coast-nature-v2",
+      "description": "Ein abwechslungsreicher Küstenstreifen mit einer Mischung aus Stränden und ariden Zonen.",
+      "facts": ["Indischer Ozean", "Küstenlandschaft", "Arid geprägt"]
+    },
+    {
+      "id": "barawa-coast-nature-v2",
+      "description": "Die Küste nahe Barawa zeichnet sich durch Korallenriffe und ein warmes maritimes Klima aus.",
+      "facts": ["Südküste", "Korallenriffe", "Maritimes Klima"]
+    },
+    {
+      "id": "ceerigaabo-uplands-nature-v2",
+      "description": "Das Hochland bei Ceerigaabo ist für seine gemäßigteren Temperaturen und Vegetation geschätzt.",
+      "facts": ["Hochland", "Höhenlage", "Vegetationsreichtum"]
+    }
+  ]
+}

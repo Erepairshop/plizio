@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "enmore-cities-v2",
+      "descriptionAdvancedDe": "Enmore ist eine prominente Dorfgemeinschaft an der Ostküste von Demerara in Guyana. Die Geschichte des Dorfes ist tief mit der Zuckerindustrie des Landes verbunden und es war der Standort des Enmore-Zuckeranwesens. Enmore hat eine besondere historische Bedeutung als Schauplatz des Enmore-Märtyrer-Vorfalls von 1948, bei dem fünf Zuckerarbeiter während eines Streiks getötet wurden; ein Ereignis, das einen Wendepunkt in der Arbeiterbewegung Guyanas markiert. Heute bleibt die Landwirtschaft, insbesondere der Zuckerrohranbau, eine wichtige wirtschaftliche Aktivität, obwohl sich die Wirtschaft diversifiziert. Die Gemeinschaft ist überwiegend indo-guyanisch, und ihre Kultur, einschließlich religiöser Feste wie Phagwah und Diwali, wird lebhaft gefeiert. Enmore ist ein Beispiel für die Widerstandsfähigkeit und den Gemeinschaftsgeist der ländlichen Küstendörfer Guyanas.",
+      "descriptionAdvancedHu": "Enmore egy kiemelkedő falusi közösség Guyana Demerara keleti partján. A falu története mélyen összefonódik az ország cukoriparával, és itt volt az Enmore cukorgyár. Enmore különös történelmi jelentőséggel bír, mint az 1948-as Enmore-i mártírok incidensének helyszíne, ahol öt cukoripari munkást öltek meg egy sztrájk során; ez az esemény fordulópontot jelentett Guyana munkásmozgalmában. Ma a mezőgazdaság, különösen a cukornádtermesztés, továbbra is fontos gazdasági tevékenység, bár a gazdaság diverzifikálódik. A közösség túlnyomórészt indo-guyanai, és kultúrájukat, beleértve a Phagwah és Diwali vallási ünnepeket, élénken ünneplik. Enmore Guyana vidéki tengerparti falvainak ellenálló képességének és közösségi szellemének példája.",
+      "descriptionAdvancedRo": "Enmore este o comunitate sătească proeminentă de pe coasta de est a Demerarei din Guyana. Istoria satului este profund legată de industria zahărului din țară și a fost locul unde se afla moșia Enmore. Enmore are o semnificație istorică deosebită ca loc al incidentului Martirilor din Enmore din 1948, în care cinci muncitori din industria zahărului au fost uciși în timpul unei greve; un eveniment care marchează un punct de cotitură în mișcarea muncitorească din Guyana. Astăzi, agricultura, în special cultivarea trestiei de zahăr, rămâne o activitate economică importantă, deși economia se diversifică. Comunitatea este predominant indo-guyaneză, iar cultura sa, inclusiv festivalurile religioase precum Phagwah și Diwali, este sărbătorită cu însuflețire. Enmore este un exemplu de rezistență și spirit comunitar al satelor rurale de coastă din Guyana.",
+      "descriptionAdvancedEn": "Enmore is a prominent village community on the East Coast of Demerara, Guyana. Its history is deeply intertwined with the nation's sugar industry, being the former site of the Enmore Sugar Estate. Enmore holds major historical significance as the location of the 1948 Enmore Martyrs incident, where five sugar workers were killed during a strike, a pivotal moment that galvanized the labor movement in Guyana. A monument stands in the village to commemorate them. Today, while the sugar estate has closed, agriculture remains a key part of the local economy. The community is predominantly Indo-Guyanese, and its culture is rich with traditions, temples, and mosques. Enmore exemplifies the close-knit, resilient spirit of Guyana's coastal villages.",
+      "factsAdvancedDe": [
+        "Liegt an der Ostküste von Demerara.",
+        "Schauplatz des Enmore-Märtyrer-Vorfalls von 1948.",
+        "Ein Denkmal erinnert an die Märtyrer.",
+        "Historisch mit der Zuckerindustrie verbunden.",
+        "Bevölkerung ist überwiegend indo-guyanisch.",
+        "Landwirtschaft bleibt ein wichtiger Wirtschaftszweig.",
+        "Hat einen starken Gemeinschaftsgeist.",
+        "Reich an kulturellen und religiösen Traditionen."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara keleti partján található.",
+        "Az 1948-as Enmore-i mártírok incidensének helyszíne.",
+        "Egy emlékmű állít emléket a mártíroknak.",
+        "Történelmileg a cukoriparhoz kötődik.",
+        "A lakosság túlnyomórészt indo-guyanai.",
+        "A mezőgazdaság továbbra is fontos gazdasági ágazat.",
+        "Erős közösségi szellemmel rendelkezik.",
+        "Gazdag kulturális és vallási hagyományai vannak."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe coasta de est a Demerarei.",
+        "Locul incidentului Martirilor din Enmore din 1948.",
+        "Un monument îi comemorează pe martiri.",
+        "Legat istoric de industria zahărului.",
+        "Populația este predominant indo-guyaneză.",
+        "Agricultura rămâne un sector economic important.",
+        "Are un spirit comunitar puternic.",
+        "Bogat în tradiții culturale și religioase."
+      ],
+      "factsAdvancedEn": [
+        "Located on the East Coast of Demerara.",
+        "Site of the 1948 Enmore Martyrs incident.",
+        "A monument commemorates the martyrs.",
+        "Historically linked to the sugar industry.",
+        "Population is predominantly Indo-Guyanese.",
+        "Agriculture remains an important economic sector.",
+        "Has a strong community spirit.",
+        "Rich in cultural and religious traditions."
+      ]
+    },
+    {
+      "id": "lusignan-cities-v2",
+      "descriptionAdvancedDe": "Lusignan ist eine große Dorfgemeinschaft an der Ostküste von Demerara in Guyana. Es liegt verkehrsgünstig an der Küstenstraße und ist Teil der Kette von Siedlungen, die sich von Georgetown nach Osten erstrecken. Wie viele seiner Nachbarn hat Lusignan seine Wurzeln in der Plantagenwirtschaft, insbesondere im Zuckerrohranbau. Heute ist es eine dicht besiedelte Wohngegend mit einer gemischten Wirtschaft aus Landwirtschaft, Handel und Dienstleistungen. Die Gemeinde verfügt über eine Reihe von Annehmlichkeiten, darunter Schulen, Gotteshäuser und einen lebhaften Markt. Lusignan erlangte 2008 internationale Aufmerksamkeit durch ein tragisches Massaker, aber die Gemeinschaft hat seitdem Widerstandsfähigkeit und einen starken Willen zum Wiederaufbau gezeigt. Es spiegelt die soziale und wirtschaftliche Dynamik der guyanischen Küste wider.",
+      "descriptionAdvancedHu": "Lusignan egy nagy falusi közösség Guyana Demerara keleti partján. Kényelmesen helyezkedik el a tengerparti úton, és része a Georgetowntól keletre húzódó települések láncolatának. Mint sok szomszédja, Lusignan gyökerei is az ültetvényes gazdaságban, különösen a cukornádtermesztésben rejlenek. Ma sűrűn lakott lakóövezet, vegyes gazdasággal, amely a mezőgazdaságból, a kereskedelemből és a szolgáltatásokból áll. A közösség számos kényelmi szolgáltatással rendelkezik, beleértve iskolákat, istentiszteleti helyeket és egy élénk piacot. Lusignan 2008-ban egy tragikus mészárlás miatt került a nemzetközi figyelem középpontjába, de a közösség azóta ellenálló képességről és erős újjáépítési akaratról tett tanúbizonyságot. Tükrözi a guyanai tengerpart társadalmi és gazdasági dinamikáját.",
+      "descriptionAdvancedRo": "Lusignan este o mare comunitate sătească de pe coasta de est a Demerarei din Guyana. Este situat convenabil de-a lungul drumului de coastă, făcând parte din lanțul de așezări care se întind la est de Georgetown. La fel ca mulți dintre vecinii săi, Lusignan își are rădăcinile în economia de plantație, în special în cultivarea trestiei de zahăr. Astăzi, este o zonă rezidențială dens populată, cu o economie mixtă de agricultură, comerț și servicii. Comunitatea are o serie de facilități, inclusiv școli, lăcașuri de cult și o piață plină de viață. Lusignan a atras atenția internațională în 2008 pentru un masacru tragic, dar comunitatea a dat dovadă de rezistență și de o voință puternică de a se reconstrui. Reflectă dinamica socială și economică a coastei guyaneze.",
+      "descriptionAdvancedEn": "Lusignan is a large village located on the East Coast of Demerara, Guyana. It is part of the continuous coastal strip of communities extending east from the capital city. The village has its origins in sugar plantations that once dominated the area. Today, it is a bustling, primarily residential community with a significant population. Its economy is mixed, with many residents commuting to Georgetown for work, while others are involved in local commerce and agriculture. The village has schools, religious centers (mandirs, mosques, and churches), and a public market. Lusignan gained unfortunate notoriety due to a massacre in 2008, but the community has since focused on healing and development, demonstrating remarkable resilience.",
+      "factsAdvancedDe": [
+        "Liegt an der Ostküste von Demerara.",
+        "Eines der Küstendörfer östlich von Georgetown.",
+        "Dicht besiedelt, hauptsächlich Wohngebiet.",
+        "Gemischte Wirtschaft: Landwirtschaft und lokaler Handel.",
+        "Viele Einwohner pendeln nach Georgetown.",
+        "Verfügt über Schulen und religiöse Zentren.",
+        "Gemeinschaft ist für ihre Widerstandsfähigkeit bekannt.",
+        "Wurde durch das Massaker von 2008 berüchtigt."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara keleti partján található.",
+        "Egyike a Georgetowntól keletre fekvő parti falvaknak.",
+        "Sűrűn lakott, elsősorban lakóövezet.",
+        "Gazdasága vegyes: mezőgazdaság és helyi kereskedelem.",
+        "Sokan ingáznak Georgetownba dolgozni.",
+        "Rendelkezik iskolákkal és vallási központokkal.",
+        "A közösség ellenálló képességéről ismert.",
+        "A 2008-as mészárlásról vált hírhedtté."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe coasta de est a Demerarei.",
+        "Unul dintre satele de coastă la est de Georgetown.",
+        "Dens populat, în principal rezidențial.",
+        "Economie mixtă: agricultură și comerț local.",
+        "Mulți locuitori fac naveta la Georgetown.",
+        "Are școli și centre religioase.",
+        "Comunitatea este cunoscută pentru rezistența sa.",
+        "A devenit notoriu pentru masacrul din 2008."
+      ],
+      "factsAdvancedEn": [
+        "Located on the East Coast of Demerara.",
+        "One of the coastal villages east of Georgetown.",
+        "Densely populated, primarily residential.",
+        "Mixed economy: agriculture and local commerce.",
+        "Many residents commute to Georgetown.",
+        "Has schools and religious centers.",
+        "The community is known for its resilience.",
+        "Gained notoriety for the 2008 massacre."
+      ]
+    },
+    {
+      "id": "buxton-cities-v2",
+      "descriptionAdvancedDe": "Buxton ist eines der historisch bedeutendsten Dörfer in Guyana und liegt an der Ostküste von Demerara. Es wurde 1840 von ehemaligen Sklaven gegründet, die ihre Ressourcen bündelten, um die Plantage zu kaufen, auf der sie einst versklavt waren. Dieser Akt des Selbstbesitzes macht es zu einem Symbol der afro-guyanischen Freiheit und des Unternehmertums. Buxton hat eine reiche Geschichte des Aktivismus und des Widerstands und hat viele prominente guyanische Persönlichkeiten hervorgebracht. Die Wirtschaft basierte traditionell auf der Landwirtschaft, einschließlich der Produktion von Grundnahrungsmitteln und Kokosnüssen. Das Dorf hat im Laufe der Jahre soziale und wirtschaftliche Herausforderungen erlebt, bewahrt aber ein starkes Gefühl der Identität und des Gemeinschaftsstolzes. Die Buxton-Freundschafts-Bewegung arbeitet daran, das Dorf durch Bildung und wirtschaftliche Initiativen wiederzubeleben.",
+      "descriptionAdvancedHu": "Buxton Guyana egyik történelmileg legjelentősebb faluja, a Demerara keleti partján. 1840-ben alapították egykori rabszolgák, akik összeadták erőforrásaikat, hogy megvásárolják az ültetvényt, ahol egykor rabszolgák voltak. Ez az önrendelkezési aktus az afro-guyanai szabadság és vállalkozói szellem szimbólumává teszi. Buxton gazdag aktivista és ellenállási múlttal rendelkezik, és számos kiemelkedő guyanai személyiséget adott az országnak. A gazdaság hagyományosan a mezőgazdaságon alapult, beleértve az alapvető élelmiszerek és a kókuszdió termesztését. A falu az évek során társadalmi és gazdasági kihívásokkal nézett szembe, de megőrzi erős identitástudatát és közösségi büszkeségét. A Buxton Baráti Mozgalom azon dolgozik, hogy oktatási és gazdasági kezdeményezésekkel újjáélessze a falut.",
+      "descriptionAdvancedRo": "Buxton este unul dintre cele mai importante sate din punct de vedere istoric din Guyana, situat pe coasta de est a Demerarei. A fost fondat în 1840 de foști sclavi care și-au unit resursele pentru a cumpăra plantația pe care fuseseră odinioară înrobiți. Acest act de auto-emancipare îl face un simbol al libertății și antreprenoriatului afro-guyanez. Buxton are o istorie bogată de activism și rezistență și a produs multe figuri proeminente guyaneze. Economia s-a bazat în mod tradițional pe agricultură, inclusiv pe producția de provizii de bază și nuci de cocos. Satul a trecut prin provocări sociale și economice de-a lungul anilor, dar menține un puternic sentiment de identitate și mândrie comunitară. Mișcarea de Prietenie Buxton lucrează pentru a revitaliza satul prin inițiative educaționale și economice.",
+      "descriptionAdvancedEn": "Buxton is a historic village on the East Coast of Demerara, renowned for its significant place in Afro-Guyanese history. It was one of the first villages in Guyana to be purchased collectively by former slaves in 1840, just after emancipation. This act of empowerment established Buxton as a beacon of freedom and self-reliance. The village has a long and proud history of producing scholars, politicians, and activists who have shaped the nation. Its economy has traditionally been based on agriculture. Over the years, Buxton has faced significant social and economic challenges but has maintained a strong and resilient community identity. Today, it remains a powerful symbol of Afro-Guyanese heritage and the struggle for independence and self-determination.",
+      "factsAdvancedDe": [
+        "Gegründet 1840 von befreiten Sklaven.",
+        "Symbol der afro-guyanischen Freiheit und Eigenständigkeit.",
+        "Liegt an der Ostküste von Demerara.",
+        "Hat viele prominente Gelehrte und Aktivisten hervorgebracht.",
+        "Wirtschaft traditionell auf Landwirtschaft basierend.",
+        "Gemeinschaft mit starkem Identitätsgefühl.",
+        "Bekannt für seine Geschichte des Widerstands und Aktivismus.",
+        "Spielte eine bedeutende Rolle in der Geschichte Guyanas."
+      ],
+      "factsAdvancedHu": [
+        "1840-ben alapították felszabadított rabszolgák.",
+        "Az afro-guyanai szabadság és önellátás szimbóluma.",
+        "A Demerara keleti partján található.",
+        "Számos kiemelkedő tudóst és aktivistát adott az országnak.",
+        "Gazdasága hagyományosan a mezőgazdaságon alapul.",
+        "A közösség erős identitástudattal rendelkezik.",
+        "A falu az ellenállás és az aktivizmus történetéről ismert.",
+        "Jelentős szerepet játszott Guyana történelmében."
+      ],
+      "factsAdvancedRo": [
+        "Fondat în 1840 de sclavi eliberați.",
+        "Simbol al libertății și autonomiei afro-guyaneze.",
+        "Situat pe coasta de est a Demerarei.",
+        "A produs mulți savanți și activiști proeminenți.",
+        "Economia se bazează în mod tradițional pe agricultură.",
+        "Comunitate cu un puternic sentiment de identitate.",
+        "Cunoscut pentru istoria sa de rezistență și activism.",
+        "A jucat un rol semnificativ în istoria Guyanei."
+      ],
+      "factsAdvancedEn": [
+        "Founded in 1840 by freed slaves.",
+        "Symbol of Afro-Guyanese freedom and self-reliance.",
+        "Located on the East Coast of Demerara.",
+        "Produced many prominent scholars and activists.",
+        "Economy traditionally based on agriculture.",
+        "Community with a strong sense of identity.",
+        "Known for its history of resistance and activism.",
+        "Played a significant role in Guyana's history."
+      ]
+    },
+    {
+      "id": "paradise-cities-v2",
+      "descriptionAdvancedDe": "Paradise ist ein weiteres Küstendorf in der Region Demerara-Mahaica, eingebettet zwischen anderen landwirtschaftlichen Gemeinden. Sein Name, der an einen idyllischen Ort erinnert, spiegelt die fruchtbare Landschaft der Küstenebene Guyanas wider. Wie die umliegenden Dörfer ist seine Wirtschaft hauptsächlich agrarisch geprägt, mit einem starken Fokus auf Reis- und Zuckerrohranbau sowie Viehzucht. Das Dorfleben ist geprägt von einer engen Gemeinschaft und einem langsamen, ländlichen Tempo. Es liegt entlang der Hauptküstenstraße und ist somit leicht von Georgetown und anderen städtischen Zentren aus erreichbar, was den Transport von landwirtschaftlichen Produkten zu den Märkten erleichtert. Paradise teilt viele kulturelle und soziale Merkmale mit seinen Nachbardörfern und trägt zur reichen Vielfalt der guyanischen Küstenkultur bei.",
+      "descriptionAdvancedHu": "A Paradise egy másik tengerparti falu a Demerara-Mahaica régióban, más mezőgazdasági közösségek közé ékelődve. Neve, amely egy idilli helyet idéz, Guyana tengerparti síkságának termékeny táját tükrözi. A környező falvakhoz hasonlóan gazdasága főként agrár jellegű, nagy hangsúlyt fektetve a rizs- és cukornádtermesztésre, valamint az állattenyésztésre. A falusi életet szoros közösség és lassú, vidéki tempó jellemzi. A fő tengerparti út mentén fekszik, így könnyen megközelíthető Georgetownból és más városi központokból, ami megkönnyíti a mezőgazdasági termékek piacra szállítását. A Paradise számos kulturális és társadalmi jellemzőn osztozik szomszédos falvaival, hozzájárulva a guyanai tengerparti kultúra gazdag sokszínűségéhez.",
+      "descriptionAdvancedRo": "Paradise este un alt sat de coastă din regiunea Demerara-Mahaica, amplasat între alte comunități agricole. Numele său, care evocă un loc idilic, reflectă peisajul fertil al câmpiei de coastă a Guyanei. La fel ca satele din jur, economia sa este în principal agrară, cu un accent puternic pe cultivarea orezului și a trestiei de zahăr, precum și pe creșterea animalelor. Viața satului este caracterizată de o comunitate strânsă și de un ritm lent, rural. Este situat de-a lungul principalului drum de coastă, făcându-l ușor accesibil din Georgetown și alte centre urbane, ceea ce facilitează transportul produselor agricole către piețe. Paradise împărtășește multe caracteristici culturale și sociale cu satele vecine, contribuind la bogata diversitate a culturii de coastă guyaneze.",
+      "descriptionAdvancedEn": "Paradise is a coastal village in the Demerara-Mahaica region of Guyana, situated along the East Coast Demerara public road. Like its neighboring villages, Paradise has an economy rooted in agriculture, with many residents engaged in farming, particularly rice and cash crops. The community is predominantly residential, with a mix of housing and small businesses. It is part of the densely populated coastal strip where the majority of Guyana's population resides. The village has basic amenities, including schools and places of worship, serving its local population. Its location on the main transport corridor provides residents with relatively easy access to Georgetown for employment and commerce. The name 'Paradise' reflects the hopeful aspirations of the communities established in this fertile coastal region.",
+      "factsAdvancedDe": [
+        "Liegt in der Region Demerara-Mahaica.",
+        "An der öffentlichen Straße der Ostküste von Demerara gelegen.",
+        "Wirtschaft in der Landwirtschaft verwurzelt (Reis, Nutzpflanzen).",
+        "Hauptsächlich Wohngebiet.",
+        "Teil des dicht besiedelten Küstenstreifens Guyanas.",
+        "Die Lage am Hauptverkehrskorridor erleichtert den Pendelverkehr.",
+        "Der Name spiegelt die Hoffnung der Gründer wider.",
+        "Die Gemeinde verfügt über Schulen und Gotteshäuser."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara-Mahaica régióban található.",
+        "A Demerara keleti partjának útján fekszik.",
+        "Gazdasága a mezőgazdaságban gyökerezik (rizs, egyéb termények).",
+        "Elsősorban lakóövezet.",
+        "Guyana sűrűn lakott part menti sávjának része.",
+        "A fő közlekedési folyosón való elhelyezkedése megkönnyíti a közlekedést.",
+        "A neve a termékeny vidékre utal.",
+        "A közösségben iskolák és vallási helyek is találhatók."
+      ],
+      "factsAdvancedRo": [
+        "Situat în regiunea Demerara-Mahaica.",
+        "Amplasat de-a lungul drumului public de pe coasta de est a Demerarei.",
+        "Economia este înrădăcinată în agricultură (orez, culturi comerciale).",
+        "Predominant rezidențial.",
+        "Parte a fâșiei de coastă dens populate a Guyanei.",
+        "Locația pe coridorul principal de transport facilitează naveta.",
+        "Numele reflectă speranța fondatorilor.",
+        "Comunitatea are școli și lăcașuri de cult."
+      ],
+      "factsAdvancedEn": [
+        "Located in the Demerara-Mahaica region.",
+        "Situated on the East Coast Demerara public road.",
+        "Economy is rooted in agriculture (rice, cash crops).",
+        "Predominantly residential.",
+        "Part of Guyana's densely populated coastal strip.",
+        "Location on the main transport corridor facilitates commuting.",
+        "The name reflects the hopes of its founders.",
+        "The community has schools and places of worship."
+      ]
+    },
+    {
+      "id": "haslington-cities-v2",
+      "descriptionAdvancedDe": "Haslington ist eine landwirtschaftliche Gemeinde an der Ostküste von Demerara in Guyana. Eingebettet in eine Reihe von Dörfern entlang der Küste, ist seine Wirtschaft traditionell auf die Zuckerproduktion und den Reisanbau ausgerichtet. Viele seiner Bewohner arbeiteten historisch auf den nahegelegenen Zuckerplantagen. Das Dorfleben ist einfach und konzentriert sich auf die Gemeinschaft, die Landwirtschaft und die Familie. Haslington verfügt über grundlegende Einrichtungen wie eine Grundschule und Gotteshäuser, die die Bedürfnisse der örtlichen Bevölkerung erfüllen. Die Küstenstraße bietet eine wichtige Verbindung nach Georgetown und ermöglicht den Bewohnern den Zugang zu städtischen Märkten und Dienstleistungen. Trotz der Modernisierung in den umliegenden Gebieten bewahrt Haslington einen Großteil seines traditionellen ländlichen Charakters und trägt zur landwirtschaftlichen Produktivität der Region bei.",
+      "descriptionAdvancedHu": "Haslington egy mezőgazdasági közösség Guyana Demerara keleti partján. A part menti falvak sorába ágyazva gazdasága hagyományosan a cukortermelésre és a rizstermesztésre összpontosul. Sok lakosa történelmileg a közeli cukorültetvényeken dolgozott. A falusi élet egyszerű, a közösségre, a mezőgazdaságra és a családra összpontosít. Haslington alapvető létesítményekkel rendelkezik, mint például egy általános iskola és istentiszteleti helyek, amelyek a helyi lakosság igényeit szolgálják. A tengerparti út fontos összeköttetést biztosít Georgetownnal, lehetővé téve a lakosok számára a városi piacokhoz és szolgáltatásokhoz való hozzáférést. A környező területek modernizációja ellenére Haslington megőrzi hagyományos vidéki jellegének nagy részét, és hozzájárul a régió mezőgazdasági termelékenységéhez.",
+      "descriptionAdvancedRo": "Haslington este o comunitate agricolă de pe coasta de est a Demerarei din Guyana. Amplasată într-un șir de sate de-a lungul coastei, economia sa s-a axat în mod tradițional pe producția de zahăr și cultivarea orezului. Mulți dintre locuitorii săi au lucrat istoric pe plantațiile de zahăr din apropiere. Viața satului este simplă, centrată pe comunitate, agricultură și familie. Haslington are facilități de bază, cum ar fi o școală primară și lăcașuri de cult, care deservesc nevoile populației locale. Drumul de coastă oferă o legătură vitală cu Georgetown, permițând locuitorilor să acceseze piețele și serviciile urbane. În ciuda modernizării din zonele înconjurătoare, Haslington își păstrează o mare parte din caracterul său rural tradițional, contribuind la productivitatea agricolă a regiunii.",
+      "descriptionAdvancedEn": "Haslington is a village on the East Coast of Demerara, part of the continuous coastal settlement belt of Guyana. Historically, its community and economy were closely linked to the sugar industry, with the Enmore Sugar Estate nearby. The village is primarily a residential community, with many residents engaged in farming, small-scale commerce, or commuting to other areas for work. It reflects the typical rural lifestyle of the Guyanese coast, where community and family are central. The village contains places of worship for its diverse population, including mosques and temples. Haslington, like its neighbors, is connected by the main East Coast road, which is its lifeline for transport and trade. It represents the agrarian backbone of the populous Demerara-Mahaica region.",
+      "factsAdvancedDe": [
+        "Liegt an der Ostküste von Demerara.",
+        "Historisch mit der Zuckerindustrie verbunden.",
+        "Hauptsächlich eine Wohngemeinschaft.",
+        "Einwohner betreiben Landwirtschaft und Kleinhandel.",
+        "Spiegelt den typischen ländlichen Lebensstil wider.",
+        "Liegt an der Hauptstraße der Ostküste.",
+        "Die Gemeinde ist religiös vielfältig.",
+        "Teil des landwirtschaftlichen Rückgrats der Demerara-Mahaica-Region."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara keleti partján található.",
+        "Történelmileg a cukoriparhoz kötődik.",
+        "Elsősorban lakóközösség.",
+        "A lakosok gazdálkodással és kereskedelemmel foglalkoznak.",
+        "A tipikus vidéki életmódot tükrözi a guyanai tengerparton.",
+        "A fő tengerparti út mentén fekszik.",
+        "A közösség vallásilag sokszínű.",
+        "A Demerara-Mahaica régió agrár gerincének része."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe coasta de est a Demerarei.",
+        "Legat istoric de industria zahărului.",
+        "În principal o comunitate rezidențială.",
+        "Locuitorii sunt angajați în agricultură și comerț la scară mică.",
+        "Reflectă stilul de viață rural tipic.",
+        "Situat de-a lungul drumului principal de pe coasta de est.",
+        "Comunitatea este diversă din punct de vedere religios.",
+        "Parte a coloanei vertebrale agrare a regiunii Demerara-Mahaica."
+      ],
+      "factsAdvancedEn": [
+        "Located on the East Coast of Demerara.",
+        "Historically linked to the sugar industry.",
+        "Primarily a residential community.",
+        "Residents are engaged in farming and small-scale commerce.",
+        "Reflects the typical rural lifestyle.",
+        "Situated along the main East Coast road.",
+        "The community is religiously diverse.",
+        "Part of the agrarian backbone of the Demerara-Mahaica region."
+      ]
+    }
+  ]
+}

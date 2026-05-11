@@ -1,0 +1,19 @@
+{
+  "lang": "hu",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "el-afweyn-cities-v2",
+      "description": "Város Szomáliföld északi részén, amely fontos kereskedelmi csomópont a régióban.",
+      "facts": ["Sanaag régió része", "Félszáraz éghajlat", "Hagyományos állattartás"]
+    },
+    {
+      "id": "abudwak-cities-v2",
+      "description": "Növekvő település Galguduud régióban, jelentős szerepet játszik a helyi gazdaságban.",
+      "facts": ["Galguduud régió", "Stratégiai kereskedelmi pont", "Szomáliai fennsík"]
+    }
+  ]
+}

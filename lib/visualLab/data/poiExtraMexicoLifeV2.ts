@@ -25,7 +25,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The facility covers approximately 17 hectares of land within the first section of Chapultepec Park.",
         "It successfully reintroduced the Mexican wolf into its natural habitat after decades of captive breeding."
       ]
-    }, image: "/poi-images/chapultepec-zoo-life-v2.webp"},
+    }, image: "/poi-images/chapultepec-zoo-life-v2.webp",
+    description: {
+      de: "Der größte Zoo Mexikos, gelegen im weitläufigen Chapultepec-Park in Mexiko-Stadt.",
+      hu: "",
+      ro: "",
+      en: "The oldest and most visited zoo in Mexico, located within the historic Chapultepec Park in the heart of Mexico City."
+    },
+    facts: {
+      de: ["Eröffnet im Jahr 1923", "Berühmt für seine Großen Pandas", "Über 1.200 Tiere zu sehen"],
+      hu: [],
+      ro: [],
+      en: ["Opened in 1923", "Famous for its giant pandas", "Home to over 1,200 animals"]
+    }
+  },
   {
     id: "san-juan-de-aragon-zoo-life-v2",
     type: "kid-landmark",
@@ -49,7 +62,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "It houses a significant population of Mexican gray wolves, a species that was once extinct in the wild.",
         "The zoo's lake is a seasonal stop for various migratory bird species traveling across North America."
       ]
-    }, image: "/poi-images/san-juan-de-aragon-zoo-life-v2.webp"},
+    }, image: "/poi-images/san-juan-de-aragon-zoo-life-v2.webp",
+    description: {
+      de: "Ein wichtiger Zoo im Nordosten von Mexiko-Stadt, der sich auf bedrohte Arten konzentriert.",
+      hu: "",
+      ro: "",
+      en: "The second largest zoo in Mexico City, focused on the conservation of native and endangered species like the Mexican wolf."
+    },
+    facts: {
+      de: ["Fokus auf mexikanische Fauna", "Zentrum für Artenschutz", "Großzügige natürliche Gehege"],
+      hu: [],
+      ro: [],
+      en: ["Inaugurated in 1964", "Spans 31 hectares", "Includes a replica of Xochimilco"]
+    }
+  },
   {
     id: "guadalajara-zoo-life-v2",
     type: "kid-landmark",
@@ -73,7 +99,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "It covers 50 hectares of land and houses more than 3,800 animals of 390 different species.",
         "The Safari Masai Mara offers an immersive 20-minute journey through an 8-hectare African savanna exhibit."
       ]
-    }, image: "/poi-images/guadalajara-zoo-life-v2.webp"},
+    }, image: "/poi-images/guadalajara-zoo-life-v2.webp",
+    description: {
+      de: "Ein moderner Zoo in Guadalajara, der für seine innovative Tierhaltung und Forschung bekannt ist.",
+      hu: "",
+      ro: "",
+      en: "One of the most modern zoos in Latin America, spectacularly situated on the edge of the Huentitán Canyon in Jalisco."
+    },
+    facts: {
+      de: ["Eigener Safaripark", "Spektakuläres Aquarium", "Blick in den Huentitán-Canyon"],
+      hu: [],
+      ro: [],
+      en: ["Features a 3.5 km cable car", "Home to a world-class aquarium", "Includes an Antarctic penguin exhibit"]
+    }
+  },
   {
     id: "acuario-inbursa-life-v2",
     type: "kid-landmark",
@@ -97,7 +136,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "It is home to the first gentoo and chinstrap penguins born in a controlled environment in Mexico.",
         "The 'Sunken Ship' exhibit features several species of large sharks and giant manta rays."
       ]
-    }, image: "/poi-images/acuario-inbursa-life-v2.webp"},
+    }, image: "/poi-images/acuario-inbursa-life-v2.webp",
+    description: {
+      de: "Eines der größten Aquarien Lateinamerikas, direkt im schicken Viertel Polanco in Mexiko-Stadt.",
+      hu: "",
+      ro: "",
+      en: "A state-of-the-art subterranean aquarium in Polanco, housing thousands of marine creatures across four underground levels."
+    },
+    facts: {
+      de: ["Unterirdische Anlage", "Über 14.000 Meeresbewohner", "Interaktive Ausstellungen"],
+      hu: [],
+      ro: [],
+      en: ["Located 26 meters underground", "Features over 14,000 specimens", "Home to gentoo and chinstrap penguins"]
+    }
+  },
   {
     id: "xcaret-park-life-v2",
     type: "kid-landmark",
@@ -121,7 +173,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The evening show features over 300 artists and covers 3,000 years of Mexican history.",
         "Xcaret holds a Guinness World Record for its scarlet macaw conservation and breeding efforts."
       ]
-    }, image: "/poi-images/xcaret-park-life-v2.webp"},
+    }, image: "/poi-images/xcaret-park-life-v2.webp",
+    description: {
+      de: "Ein ökologischer Themenpark an der Riviera Maya, der Natur, Kultur und Archäologie verbindet.",
+      hu: "",
+      ro: "",
+      en: "A premier eco-archaeological park on the Riviera Maya that celebrates Mexican culture, history, and natural beauty."
+    },
+    facts: {
+      de: ["Unterirdische Flüsse", "Abendliche Folklore-Shows", "Zentrum für Meeresschildkröten"],
+      hu: [],
+      ro: [],
+      en: ["Features underground rivers", "Famous for its nightly folklore show", "Major sea turtle nesting site"]
+    }
+  },
   {
     id: "africam-safari-life-v2",
     type: "animal-habitat",
@@ -145,7 +210,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Visitors can participate in 'Night Safaris' during certain times of the year for a different perspective on wildlife.",
         "The park's conservation foundation actively works on projects across Mexico and even in Africa."
       ]
-    }, image: "/poi-images/africam-safari-life-v2.webp"},
+    }, image: "/poi-images/africam-safari-life-v2.webp",
+    description: {
+      de: "Ein Safaripark in der Nähe von Puebla, wo Tiere in großen Freigehegen fast wie in Freiheit leben.",
+      hu: "",
+      ro: "",
+      en: "A renowned wildlife park near Puebla where animals roam freely in large habitats that visitors explore by car or bus."
+    },
+    facts: {
+      de: ["Erkundung mit dem eigenen Auto", "Über 2.500 Tiere", "Engagement für den Artenschutz"],
+      hu: [],
+      ro: [],
+      en: ["First safari-style park in Mexico", "Covers over 200 hectares", "Successful African elephant breeding program"]
+    }
+  },
   {
     id: "bioparque-estrella-life-v2",
     type: "animal-habitat",
@@ -169,7 +247,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Bioparque Estrella is home to over 500 animals representing 50 different species.",
         "The park includes an environmental education center called 'Earth' aimed at school groups."
       ]
-    }, image: "/poi-images/bioparque-estrella-life-v2.webp"},
+    }, image: "/poi-images/bioparque-estrella-life-v2.webp",
+    description: {
+      de: "Ein Erlebnispark und Safari-Zoo im Bundesstaat Mexiko, ideal für Familienausflüge.",
+      hu: "",
+      ro: "",
+      en: "A massive theme park and safari preserve in the State of Mexico, offering interactive animal encounters and prehistoric exhibits."
+    },
+    facts: {
+      de: ["Große Safari-Tour", "Interaktive Dino-Ausstellung", "Fokus auf Umweltbildung"],
+      hu: [],
+      ro: [],
+      en: ["Includes a Serengeti-style safari", "Features life-sized animatronic dinosaurs", "Home to more than 500 animals"]
+    }
+  },
   {
     id: "monarch-butterfly-reserve-life-v2",
     type: "forest",
@@ -193,7 +284,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Only a few specific areas of the total 56,000-hectare reserve are open to public tourism.",
         "The monarch migration is considered an 'endangered phenomenon' due to habitat loss and climate change."
       ]
-    }, image: "/poi-images/monarch-butterfly-reserve-life-v2.webp"},
+    }, image: "/poi-images/monarch-butterfly-reserve-life-v2.webp",
+    description: {
+      de: "Ein UNESCO-Welterbe, in dem Millionen von Monarchfaltern aus Kanada überwintern.",
+      hu: "",
+      ro: "",
+      en: "A UNESCO World Heritage site in the mountains of Michoacán where millions of monarch butterflies overwinter every year."
+    },
+    facts: {
+      de: ["Gelegen in Michoacán", "Spektakuläre Massenansammlung", "Schutzgebiet in den Bergen"],
+      hu: [],
+      ro: [],
+      en: ["Butterflies travel over 4,000 km", "Located at high altitude (up to 3,600m)", "UNSECO site since 2008"]
+    }
+  },
   {
     id: "sian-kaan-life-v2",
     type: "forest",
@@ -217,7 +321,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "More than 300 species of birds have been recorded within the reserve's boundaries.",
         "The freshwater canals were used by the ancient Maya for over 1,000 years for trade and navigation."
       ]
-    }, image: "/poi-images/sian-kaan-life-v2.webp"},
+    }, image: "/poi-images/sian-kaan-life-v2.webp",
+    description: {
+      de: "Ein riesiges Biosphärenreservat an der Karibikküste, bekannt für seine Artenvielfalt und Lagunen.",
+      hu: "",
+      ro: "",
+      en: "A vast biosphere reserve on the Caribbean coast, encompassing tropical forests, mangroves, and pristine coral reefs."
+    },
+    facts: {
+      de: ["UNESCO-Weltnaturerbe", "Maya-Kanäle im Dschungel", "Lebensraum für Jaguare und Seekühe"],
+      hu: [],
+      ro: [],
+      en: ["UNESCO World Heritage site", "Contains over 20 archaeological sites", "Second-largest reef system in the world"]
+    }
+  },
   {
     id: "calakmul-reserve-life-v2",
     type: "forest",
@@ -241,7 +358,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The reserve is part of the Selva Maya, the largest tropical rainforest in the Americas after the Amazon.",
         "It is one of the few places in Mexico where all five species of native cats can still be found."
       ]
-    }, image: "/poi-images/calakmul-reserve-life-v2.webp"},
+    }, image: "/poi-images/calakmul-reserve-life-v2.webp",
+    description: {
+      de: "Ein riesiges Tropenwaldreservat im Bundesstaat Campeche, das bedeutende Maya-Ruinen beherbergt.",
+      hu: "",
+      ro: "",
+      en: "A massive tropical forest reserve in Campeche that protects one of the most powerful ancient Maya cities ever discovered."
+    },
+    facts: {
+      de: ["UNESCO-Weltkulturerbe", "Zentrum der Maya-Kultur", "Lebensraum für Jaguare"],
+      hu: [],
+      ro: [],
+      en: ["Largest tropical forest reserve in Mexico", "Highest density of jaguars in the country", "Mixed UNESCO Heritage site"]
+    }
+  },
   {
     id: "lacandon-jungle-life-v2",
     type: "forest",
@@ -265,7 +395,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The Lacandon Jungle is the northernmost tropical rainforest in the Western Hemisphere.",
         "The ruins of Bonampak, hidden within the jungle, are famous for their incredibly preserved Maya murals."
       ]
-    }, image: "/poi-images/lacandon-jungle-life-v2.webp"},
+    }, image: "/poi-images/lacandon-jungle-life-v2.webp",
+    description: {
+      de: "Einer der letzten großen Regenwälder Nordamerikas, gelegen im Grenzgebiet zu Guatemala.",
+      hu: "",
+      ro: "",
+      en: "One of North America's largest remaining rainforests, home to the Lacandon Maya and an incredible variety of tropical wildlife."
+    },
+    facts: {
+      de: ["Enorme Artenvielfalt", "Heimat der Lakandonen-Maya", "Bedeutende Flusssysteme"],
+      hu: [],
+      ro: [],
+      en: ["Covers eastern Chiapas", "Habitat for the rare harpy eagle", "Contains the ruins of Bonampak"]
+    }
+  },
   {
     id: "el-vizcaino-life-v2",
     type: "animal-habitat",
@@ -289,7 +432,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The Peninsular pronghorn found here is one of the fastest land animals in the Western Hemisphere.",
         "The reserve's lagoons are also a critical wintering site for thousands of migratory waterfowl and shorebirds."
       ]
-    }, image: "/poi-images/el-vizcaino-life-v2.webp"},
+    }, image: "/poi-images/el-vizcaino-life-v2.webp",
+    description: {
+      de: "Ein riesiges Biosphärenreservat auf der Halbinsel Baja California, berühmt für seine Wüstenlandschaften.",
+      hu: "",
+      ro: "",
+      en: "Mexico's largest protected area, famous for its coastal lagoons that serve as the primary calving grounds for gray whales."
+    },
+    facts: {
+      de: ["UNESCO-Welterbe", "Lagunen zur Walbeobachtung", "Über 2,5 Millionen Hektar"],
+      hu: [],
+      ro: [],
+      en: ["UNESCO site since 1993", "Over 2.5 million hectares", "Includes prehistoric rock paintings"]
+    }
+  },
   {
     id: "celestun-flamingo-reserve-life-v2",
     type: "animal-habitat",
@@ -313,7 +469,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "It is one of the few places in the world where flamingos can be seen in their natural habitat year-round.",
         "The reserve also protects important nesting sites for the hawksbill and green sea turtles."
       ]
-    }, image: "/poi-images/celestun-flamingo-reserve-life-v2.webp"},
+    }, image: "/poi-images/celestun-flamingo-reserve-life-v2.webp",
+    description: {
+      de: "Ein Küstenreservat in Yucatán, das für seine riesigen Kolonien rosa Flamingos weltberühmt ist.",
+      hu: "",
+      ro: "",
+      en: "A coastal wetland in Yucatán famous for its thousands of pink flamingos and diverse mangrove ecosystems."
+    },
+    facts: {
+      de: ["Rosa Flamingos im Winter", "Bootstouren durch Mangroven", "Mündung des Rio Esperanza"],
+      hu: [],
+      ro: [],
+      en: ["Over 300 bird species recorded", "Features unique freshwater springs", "Important sea turtle nesting area"]
+    }
+  },
   {
     id: "la-ventanilla-turtle-reserve-life-v2",
     type: "animal-habitat",
@@ -337,7 +506,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The mangroves at La Ventanilla help protect the coastline from erosion and storm surges.",
         "The area was officially designated as a protected community-managed zone to prevent industrial tourism."
       ]
-    }, image: "/poi-images/la-ventanilla-turtle-reserve-life-v2.webp"},
+    }, image: "/poi-images/la-ventanilla-turtle-reserve-life-v2.webp",
+    description: {
+      de: "Ein ökologisches Projekt an der Küste von Oaxaca, das sich dem Schutz von Schildkröten und Krokodilen widmet.",
+      hu: "",
+      ro: "",
+      en: "A community-managed nature reserve in Oaxaca dedicated to the restoration of mangroves and the protection of sea turtles."
+    },
+    facts: {
+      de: ["Gemeindebasiertes Ökoprojekt", "Lagune mit Krokodilen", "Nistplatz für Meeresschildkröten"],
+      hu: [],
+      ro: [],
+      en: ["Run by local families", "Home to over 300 crocodiles", "Sanctuary for olive ridley turtles"]
+    }
+  },
   {
     id: "los-tuxtlas-reserve-life-v2",
     type: "forest",
@@ -361,7 +543,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Approximately 40% of all the bird species found in Mexico can be observed in this reserve.",
         "The region is one of the few places in the world where you can see rainforest growing right up to the edge of the sea."
       ]
-    }, image: "/poi-images/los-tuxtlas-reserve-life-v2.webp"},
+    }, image: "/poi-images/los-tuxtlas-reserve-life-v2.webp",
+    description: {
+      de: "Ein Biosphärenreservat in Veracruz mit üppigen Regenwäldern, Wasserfällen und Vulkanlandschaften.",
+      hu: "",
+      ro: "",
+      en: "An ecological hotspot in Veracruz where tropical rainforests meet volcanic mountains and the shores of the Gulf of Mexico."
+    },
+    facts: {
+      de: ["Nördlichster Regenwald Amerikas", "Über 500 Vogelarten", "Sitz der Olmeken-Kultur"],
+      hu: [],
+      ro: [],
+      en: ["Northernmost rainforest in the Americas", "Contains over 500 bird species", "Region of the ancient Olmec culture"]
+    }
+  },
   {
     id: "sierra-gorda-reserve-life-v2",
     type: "forest",
@@ -385,7 +580,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The five Franciscan missions were founded by Junípero Serra between 1750 and 1760.",
         "The reserve is home to the second-largest population of military macaws in Mexico."
       ]
-    }, image: "/poi-images/sierra-gorda-reserve-life-v2.webp"},
+    }, image: "/poi-images/sierra-gorda-reserve-life-v2.webp",
+    description: {
+      de: "Ein ökologisch vielfältiges Gebirge in Querétaro mit tiefen Schluchten und dichten Wäldern.",
+      hu: "",
+      ro: "",
+      en: "A stunningly diverse biosphere reserve in Querétaro, ranging from arid deserts to lush, high-altitude cloud forests."
+    },
+    facts: {
+      de: ["Fünf Franziskanermissionen", "Enorme Höhenunterschiede", "Schutzgebiet für den Puma"],
+      hu: [],
+      ro: [],
+      en: ["Covers one-third of Querétaro", "Includes five 18th-century missions", "UNESCO site for nature and culture"]
+    }
+  },
   {
     id: "isla-holbox-life-v2",
     type: "island",
@@ -409,7 +617,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "There are no paved roads on the island, and the main mode of transportation is by electric golf cart.",
         "The island is separated from the mainland by the Yalahau Lagoon, which is home to many dolphins and flamingos."
       ]
-    }, image: "/poi-images/isla-holbox-life-v2.webp"},
+    }, image: "/poi-images/isla-holbox-life-v2.webp",
+    description: {
+      de: "Eine entspannte, autofreie Insel im Norden Yucatáns, bekannt für ihre Sandstraßen und Flamingos.",
+      hu: "",
+      ro: "",
+      en: "A tranquil, car-free island in northern Yucatán known for its sandy streets, vibrant murals, and summer whale shark sightings."
+    },
+    facts: {
+      de: ["Walhaie im Sommer", "Türkisfarbenes Wasser", "Teil des Yum Balam Reservats"],
+      hu: [],
+      ro: [],
+      en: ["No paved roads on the island", "Part of Yum Balam reserve", "Famous for its lobster pizza"]
+    }
+  },
   {
     id: "isla-mujeres-life-v2",
     type: "island",
@@ -433,7 +654,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Punta Sur is the easternmost point of Mexico, where the first rays of the sun hit the country each morning.",
         "The MUSA underwater museum near the island features over 500 life-sized sculptures designed to promote reef growth."
       ]
-    }, image: "/poi-images/isla-mujeres-life-v2.webp"},
+    }, image: "/poi-images/isla-mujeres-life-v2.webp",
+    description: {
+      de: "Eine malerische Insel vor Cancún, die für ihre Traumstrände und das kristallklare Wasser geschätzt wird.",
+      hu: "",
+      ro: "",
+      en: "A picturesque Caribbean island near Cancún, famous for the calm, turquoise waters of Playa Norte and its laid-back charm."
+    },
+    facts: {
+      de: ["Tempel der Göttin Ixchel", "Bekannter Strand Playa Norte", "Ideal zum Schnorcheln"],
+      hu: [],
+      ro: [],
+      en: ["Temple of goddess Ixchel at Punta Sur", "Only 7 kilometers long", "Features an underwater art museum"]
+    }
+  },
   {
     id: "janitzio-island-life-v2",
     type: "island",
@@ -457,7 +691,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The butterfly nets (mariposas) were traditionally used to catch a specific type of small white fish native to the lake.",
         "The name 'Janitzio' means 'where it rains' or 'silk hair' in the Purépecha language."
       ]
-    }, image: "/poi-images/janitzio-island-life-v2.webp"},
+    }, image: "/poi-images/janitzio-island-life-v2.webp",
+    description: {
+      de: "Die berühmteste Insel im Pátzcuaro-See, bekannt für ihre Fischer und die riesige Morelos-Statue.",
+      hu: "",
+      ro: "",
+      en: "The most famous island in Lake Pátzcuaro, recognized for its iconic butterfly net fishermen and monumental statue."
+    },
+    facts: {
+      de: ["Zentrum des Tags der Toten", "Schmetterlingsfischer-Tradition", "Gigantische Statue auf der Spitze"],
+      hu: [],
+      ro: [],
+      en: ["Statue of Morelos is 40 meters high", "Heart of Day of the Dead traditions", "Purépecha cultural center"]
+    }
+  },
   {
     id: "isla-espiritu-santo-life-v2",
     type: "island",
@@ -481,7 +728,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The island was once a site for pearl oyster cultivation in the late 19th and early 20th centuries.",
         "Jacques Cousteau famously referred to the Sea of Cortez around the island as the 'World's Aquarium'."
       ]
-    }, image: "/poi-images/isla-espiritu-santo-life-v2.webp"},
+    }, image: "/poi-images/isla-espiritu-santo-life-v2.webp",
+    description: {
+      de: "Eine unbewohnte, felsige Insel im Golf von Kalifornien, ein Paradies für Taucher und Kajakfahrer.",
+      hu: "",
+      ro: "",
+      en: "An uninhabited desert island in the Sea of Cortez, celebrated for its red volcanic cliffs and friendly sea lion colony."
+    },
+    facts: {
+      de: ["UNESCO-Weltnaturerbe", "Kolonie von Seelöwen", "Kontrast aus Wüste und Meer"],
+      hu: [],
+      ro: [],
+      en: ["UNESCO Biosphere Reserve", "Home to a permanent sea lion colony", "Uninhabited and pristine"]
+    }
+  },
   {
     id: "isla-tiburon-life-v2",
     type: "island",
@@ -505,7 +765,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The channel separating the island from the mainland is called the Canal del Infiernillo (Little Hell Channel) due to its strong currents.",
         "The desert bighorn sheep population on the island is one of the healthiest and most genetically pure in North America."
       ]
-    }, image: "/poi-images/isla-tiburon-life-v2.webp"},
+    }, image: "/poi-images/isla-tiburon-life-v2.webp",
+    description: {
+      de: "Die größte Insel Mexikos, gelegen im Golf von Kalifornien und heiliges Land der Seri-Indianer.",
+      hu: "",
+      ro: "",
+      en: "Mexico's largest island, maintained as a wild and sacred ecological reserve by the indigenous Seri people of Sonora."
+    },
+    facts: {
+      de: ["Größte mexikanische Insel", "Keine dauerhafte Besiedlung", "Eigentum der Comcaac-Nation"],
+      hu: [],
+      ro: [],
+      en: ["Ancestral land of the Seri people", "Largest island in Mexico", "Refuge for desert bighorn sheep"]
+    }
+  },
   {
     id: "marietas-islands-life-v2",
     type: "island",
@@ -529,7 +802,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Access to the 'Hidden Beach' is limited to a specific number of people per day to prevent environmental degradation.",
         "The islands are part of the 'Islas del Golfo de California' UNESCO World Heritage site."
       ]
-    }, image: "/poi-images/marietas-islands-life-v2.webp"},
+    }, image: "/poi-images/marietas-islands-life-v2.webp",
+    description: {
+      de: "Eine Gruppe kleiner, unbewohnter Inseln vor Puerto Vallarta, berühmt für den versteckten 'Hidden Beach'.",
+      hu: "",
+      ro: "",
+      en: "Small volcanic islands off the coast of Nayarit, world-famous for the 'Hidden Beach' nestled inside a collapsed crater."
+    },
+    facts: {
+      de: ["Nationalpark und Vogelschutz", "Berühmter Playa del Amor", "Einstiges militärisches Testgelände"],
+      hu: [],
+      ro: [],
+      en: ["Home to blue-footed boobies", "Access is strictly limited", "Former military testing ground"]
+    }
+  },
   {
     id: "contoy-island-life-v2",
     type: "island",
@@ -553,7 +839,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The number of visitors is strictly capped at 200 per day to preserve the island's fragile ecosystem.",
         "Isla Contoy is located at the point where the Caribbean current begins its journey northward as the Gulf Stream."
       ]
-    }, image: "/poi-images/contoy-island-life-v2.webp"},
+    }, image: "/poi-images/contoy-island-life-v2.webp",
+    description: {
+      de: "Eine geschützte Insel nördlich von Isla Mujeres, die als eines der wichtigsten Vogelschutzgebiete gilt.",
+      hu: "",
+      ro: "",
+      en: "A strictly protected national park north of Isla Mujeres, serving as the most important nesting site for seabirds in the region."
+    },
+    facts: {
+      de: ["Nationalpark seit 1961", "Begrenzte Besucherzahl täglich", "Nistplatz für über 150 Vogelarten"],
+      hu: [],
+      ro: [],
+      en: ["Known as the 'Island of Birds'", "Limited to 200 visitors per day", "Uninhabited by humans"]
+    }
+  },
   {
     id: "tequila-agave-fields-life-v2",
     type: "agriculture",
@@ -577,7 +876,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The 'piña,' or heart of the agave, is the part used to produce the spirit after the leaves are trimmed away.",
         "Tequila is a protected 'Designation of Origin,' meaning it can only be legally produced in certain regions of Mexico."
       ]
-    }, image: "/poi-images/tequila-agave-fields-life-v2.webp"},
+    }, image: "/poi-images/tequila-agave-fields-life-v2.webp",
+    description: {
+      de: "Die weiten, blauen Agavenfelder in Jalisco, die das Herz der Tequila-Produktion bilden.",
+      hu: "",
+      ro: "",
+      en: "A UNESCO World Heritage landscape in Jalisco where the blue agave has been cultivated for centuries to produce tequila."
+    },
+    facts: {
+      de: ["UNESCO-Weltkulturerbe", "Anbau der Blauen Agave", "Vulkanische Bodenbeschaffenheit"],
+      hu: [],
+      ro: [],
+      en: ["Rich volcanic red soil", "Agave takes 7-10 years to mature", "UNSECO site since 2006"]
+    }
+  },
   {
     id: "valle-de-guadalupe-vineyards-life-v2",
     type: "agriculture",
@@ -601,7 +913,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The valley produces approximately 2 million cases of wine per year.",
         "The 'Wine Route' (Ruta del Vino) through the valley is one of the most popular tourist drives in Baja California."
       ]
-    }, image: "/poi-images/valle-de-guadalupe-vineyards-life-v2.webp"},
+    }, image: "/poi-images/valle-de-guadalupe-vineyards-life-v2.webp",
+    description: {
+      de: "Das wichtigste Weinanbaugebiet Mexikos in Baja California, bekannt für seine erstklassigen Weingüter.",
+      hu: "",
+      ro: "",
+      en: "The premier wine region of Mexico, located in Baja California and producing nearly 90% of the country's wine."
+    },
+    facts: {
+      de: ["Produziert 90% des mexikanischen Weins", "Mediterranes Mikroklima", "Zentrum der Valle-Gastronomie"],
+      hu: [],
+      ro: [],
+      en: ["Mediterranean-style microclimate", "Home to over 150 wineries", "Mexico's leading culinary destination"]
+    }
+  },
   {
     id: "veracruz-coffee-farms-life-v2",
     type: "agriculture",
@@ -625,7 +950,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Much of the coffee in Veracruz is grown at elevations between 800 and 1,500 meters above sea level.",
         "The region is known for its high-quality Arabica beans, which are often exported to gourmet markets worldwide."
       ]
-    }, image: "/poi-images/veracruz-coffee-farms-life-v2.webp"},
+    }, image: "/poi-images/veracruz-coffee-farms-life-v2.webp",
+    description: {
+      de: "Traditionelle Kaffeeplantagen in den feuchten Bergregionen von Veracruz, bekannt für ihren Hochlandkaffee.",
+      hu: "",
+      ro: "",
+      en: "Historic coffee-growing estates in the misty highlands of Veracruz, where some of Mexico's finest shade-grown coffee is produced."
+    },
+    facts: {
+      de: ["Anbau in Coatepec und Xalapa", "Schattenkaffee-Tradition", "Reiche koloniale Fincas"],
+      hu: [],
+      ro: [],
+      en: ["Coatepec is the 'Coffee Capital'", "First place in Mexico to grow coffee", "Grown in the Sierra Madre Oriental"]
+    }
+  },
   {
     id: "chiapas-coffee-fincas-life-v2",
     type: "agriculture",
@@ -649,7 +987,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The coffee harvest in Chiapas typically runs from November to March.",
         "Coffee from the El Triunfo Biosphere Reserve in Chiapas is highly prized by specialty roasters for its environmental and flavor credentials."
       ]
-    }, image: "/poi-images/chiapas-coffee-fincas-life-v2.webp"},
+    }, image: "/poi-images/chiapas-coffee-fincas-life-v2.webp",
+    description: {
+      de: "Kaffeeplantagen im Hochland von Chiapas, die für ihren qualitativ hochwertigen Bio-Kaffee geschätzt werden.",
+      hu: "",
+      ro: "",
+      en: "Expansive coffee estates in the rugged mountains of Chiapas, a world leader in organic and fair-trade coffee production."
+    },
+    facts: {
+      de: ["Größter Kaffeeproduzent Mexikos", "Fokus auf fairen Handel", "Ideal durch vulkanische Böden"],
+      hu: [],
+      ro: [],
+      en: ["Largest coffee producer in Mexico", "Ideal volcanic mountain soil", "Major center for organic farming"]
+    }
+  },
   {
     id: "oaxaca-mezcal-agave-life-v2",
     type: "agriculture",
@@ -673,7 +1024,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The smoky flavor of mezcal comes from roasting the agave hearts in underground stone-lined pits for several days.",
         "Oaxaca accounts for over 90% of all mezcal production in Mexico."
       ]
-    }, image: "/poi-images/oaxaca-mezcal-agave-life-v2.webp"},
+    }, image: "/poi-images/oaxaca-mezcal-agave-life-v2.webp",
+    description: {
+      de: "Regionen in Oaxaca, in denen verschiedene Agavenarten für die handwerkliche Herstellung von Mezcal kultiviert werden.",
+      hu: "",
+      ro: "",
+      en: "The traditional heartland of mezcal production in Oaxaca, where diverse agave species are harvested for artisanal spirits."
+    },
+    facts: {
+      de: ["Hauptregion des Mezcals", "Handwerkliche Destillation", "Vielfalt wilder Agavenarten"],
+      hu: [],
+      ro: [],
+      en: ["Oaxaca produces 90% of Mexico's mezcal", "Uses over 30 different agave species", "Artisanal pit-roasting process"]
+    }
+  },
   {
     id: "michoacan-avocado-orchards-life-v2",
     type: "agriculture",
@@ -697,7 +1061,20 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "Avocados have been cultivated in Mexico for nearly 10,000 years, according to archaeological evidence.",
         "The industry generates billions of dollars in revenue for the Mexican economy each year."
       ]
-    }, image: "/poi-images/michoacan-avocado-orchards-life-v2.webp"},
+    }, image: "/poi-images/michoacan-avocado-orchards-life-v2.webp",
+    description: {
+      de: "Die weltweit größten Avocado-Anbaugebiete, die Michoacán zum globalen Zentrum dieser Frucht machen.",
+      hu: "",
+      ro: "",
+      en: "The world's leading avocado-producing region, with vast orchards stretching across the fertile volcanic hills of Michoacán."
+    },
+    facts: {
+      de: ["Weltmarktführer im Export", "Fruchtbare Vulkanerde", "Ganzjährige Ernte möglich"],
+      hu: [],
+      ro: [],
+      en: ["Known as 'Green Gold'", "Supplies 45% of global exports", "Trees can bloom four times a year"]
+    }
+  },
   {
     id: "sinaloa-mango-orchards-life-v2",
     type: "agriculture",
@@ -721,6 +1098,18 @@ export const poiExtraMexicoLifeV2: POI[] = [
         "The state of Sinaloa has a rigorous 'fruit fly-free' certification program to facilitate international exports.",
         "Mexico is the world's leading exporter of fresh mangoes, with a significant portion coming from Sinaloa's orchards."
       ]
+    },
+    description: {
+      de: "Ausgedehnte Mango-Plantagen in Sinaloa, einer der produktivsten Agrarregionen Mexikos.",
+      hu: "",
+      ro: "",
+      en: "Lush tropical orchards in the coastal plains of Sinaloa, one of Mexico's most productive agricultural and mango-exporting hubs."
+    },
+    facts: {
+      de: ["Wichtiger Exporteur in die USA", "Mehrere Sorten wie Ataulfo", "Tropisches Küstenklima"],
+      hu: [],
+      ro: [],
+      en: ["Leading exporter of Ataulfo mangoes", "Warm, tropical coastal climate", "Peak harvest in summer months"]
     }
   },
 ];

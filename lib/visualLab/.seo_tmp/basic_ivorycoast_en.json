@@ -1,0 +1,86 @@
+{
+  "lang": "en",
+  "country": "Ivorycoast",
+  "files": [
+    "lib/visualLab/data/poiExtraIvorycoastHistoryV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastNatureV2.ts",
+    "lib/visualLab/data/poiExtraIvorycoastReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "grand-bassam-historic-town-history-v2",
+      "description": "This historic town served as the first French colonial capital of Ivory Coast between 1893 and 1896. It is now a UNESCO World Heritage site known for its late 19th-century architecture.",
+      "facts": ["Former colonial capital", "UNESCO World Heritage site", "Located on the Gulf of Guinea", "Famous for colonial buildings"]
+    },
+    {
+      "id": "abengourou-indenie-kingdom-history-v2",
+      "description": "Abengourou is the seat of the traditional Indenie kingdom and home to the royal palace built in 1882. The city serves as a major cultural center for the Agni people.",
+      "facts": ["Traditional royal seat", "Agni cultural center", "Royal palace built in 1882", "Key cocoa producing hub"]
+    },
+    {
+      "id": "mount-tonkpi-nature-v2",
+      "description": "Mount Tonkpi is the highest peak in the Man mountain range, rising to 1,189 meters. It is famous for its cool climate and lush coffee and cocoa plantations.",
+      "facts": ["Highest point in Man region", "Elevation of 1,189 meters", "Rich in tropical vegetation", "Known for mist-covered slopes"]
+    },
+    {
+      "id": "mount-gouane-nature-v2",
+      "description": "Located near the city of Man, Mount Gouane offers spectacular views of the surrounding mountainous landscape. The area is covered in dense tropical rainforest and granite outcrops.",
+      "facts": ["Granite mountain peak", "Located in western Ivory Coast", "Dense tropical rainforest", "Popular hiking destination"]
+    },
+    {
+      "id": "lagune-fresco-est-nature-v2",
+      "description": "The eastern Fresco lagoon is a vital coastal ecosystem where freshwater rivers meet the Atlantic Ocean. It provides essential nesting grounds for various bird species and marine life.",
+      "facts": ["Coastal lagoon system", "Rich marine biodiversity", "Important bird habitat", "Mangrove ecosystem"]
+    },
+    {
+      "id": "mount-niam-nature-v2",
+      "description": "Mount Niam is a significant rocky outcrop located in the northern savanna region near Boundiali. It stands as a prominent landmark in an otherwise flat landscape.",
+      "facts": ["Northern savanna landmark", "Granite rock formation", "Near the town of Boundiali", "Local spiritual significance"]
+    },
+    {
+      "id": "mont-nimba-relief-v2",
+      "description": "Mount Nimba is the highest point in Ivory Coast, shared with Guinea and Liberia. This strict nature reserve is famous for its unique mountain grasslands and diverse fauna.",
+      "facts": ["Highest peak at 1,752m", "UNESCO World Heritage site", "Unique mountain savanna", "Shared international border"]
+    },
+    {
+      "id": "savanne-nord-relief-v2",
+      "description": "The northern savanna relief consists of vast, gently undulating plains that extend toward the border with Mali and Burkina Faso. It is characterized by scattered trees and tall grasses.",
+      "facts": ["Gently undulating plains", "Sudanian savanna zone", "Thin soil layers", "Seasonal vegetation changes"]
+    },
+    {
+      "id": "massif-dan-relief-v2",
+      "description": "The Dan Massif is a rugged mountainous region in the west, characterized by steep valleys and high granite peaks. It is the traditional homeland of the Dan people.",
+      "facts": ["Rugged mountain range", "Deep river valleys", "Granite rock peaks", "High rainfall area"]
+    },
+    {
+      "id": "ebrie-kuestenebene-relief-v2",
+      "description": "The Ebrie coastal plain is a low-lying sandy region dominated by the large lagoon of the same name. It forms the geographical base for the metropolis of Abidjan.",
+      "facts": ["Low-lying sandy plain", "Includes Ebrie Lagoon", "Atlantic coastal zone", "Densely populated area"]
+    },
+    {
+      "id": "sassandra-becken-relief-v2",
+      "description": "The Sassandra basin is a large drainage area in the southwest defined by the course of the Sassandra River. The relief consists of rolling hills and dense evergreen forests.",
+      "facts": ["Major river basin", "Rolling hilly terrain", "Southwestern rainforest", "Hydroelectric potential"]
+    },
+    {
+      "id": "bandama-tal-relief-v2",
+      "description": "The Bandama valley cuts through the center of Ivory Coast, creating a broad depression between the eastern and western plateaus. It is the country's longest internal river system.",
+      "facts": ["Central river valley", "Ivory Coast's longest river", "Fertile alluvial soils", "Divides east and west"]
+    },
+    {
+      "id": "komoe-ebene-relief-v2",
+      "description": "The Komoe plain is a wide, flat region in the northeast through which the Komoe River flows. It encompasses much of the largest national park in West Africa.",
+      "facts": ["Broad eastern plains", "Komoe River drainage", "Northern Guinea savanna", "Part of Komoe National Park"]
+    },
+    {
+      "id": "forest-taii-relief-v2",
+      "description": "The Tai forest relief represents one of the last major remnants of primary tropical rainforest in West Africa. The terrain is characterized by ancient soils and dense canopy cover.",
+      "facts": ["Primary rainforest relief", "Ancient crystalline soils", "High annual humidity", "UNESCO protected area"]
+    },
+    {
+      "id": "plateau-odienne-relief-v2",
+      "description": "The Odienne plateau is a high-altitude region in the northwest corner of the country. It is marked by a drier climate and transitional vegetation between savanna and forest.",
+      "facts": ["High northwestern plateau", "Averaging 400m altitude", "Lateritic soil formations", "Border region near Guinea"]
+    }
+  ]
+}

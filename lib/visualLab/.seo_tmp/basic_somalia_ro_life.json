@@ -1,0 +1,14 @@
+{
+  "lang": "ro",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "balcad-wildlife-sanctuary-life-v2",
+      "description": "Balcad Wildlife Sanctuary este o rezervație naturală importantă situată în apropierea râului Shebelle.",
+      "facts": ["Rezervație naturală", "Situată lângă râul Shebelle", "Biodiversitate locală"]
+    }
+  ]
+}

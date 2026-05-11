@@ -122,7 +122,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       de: ["Guanta besitzt einen bedeutenden Naturhafen.", "Der Hafen ist ein wichtiges logistisches Drehkreuz im Osten Venezuelas.", "Unterstützt den Umschlag von industriellen Rohstoffen.", "Spielt eine entscheidende Rolle für den Seehandel in der Region.", "Die Anlage ist für große Schiffe gut zugänglich.", "Die industrielle Basis in der Umgebung ist stark mit dem Hafen verknüpft."],
       hu: ["Guanta a petrolkémiai termékek és a szén kezelésére specializálódott.", "A kikötői létesítmények kulcsfontosságúak az Anzoátegui régió exportja szempontjából.", "A kikötő profitál a közvetlen kapcsolatból a kelet-venezuelai ipari komplexumokkal.", "Jelentős munkaadó Guanta községben."],
       ro: ["Guanta este specializat în manipularea produselor petrochimice și a cărbunelui.", "Facilitățile portuare sunt cruciale pentru exporturile regiunii Anzoátegui.", "Portul beneficiază de legătura directă cu complexele industriale din estul Venezuelei.", "Este un angajator semnificativ în municipalitatea Guanta."],
-      en: ["Located in Anzoátegui.", "Exports coal and cement.", "Modern loading stations.", "Important for the local economy.", "A major seaport in eastern Venezuela, closely linked to the petrochemical industry and coal exports.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      en: ["A major seaport in eastern Venezuela, closely linked to the petrochemical industry and coal exports.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/guanta-port-economic-v2.webp"},
   {
     id: "guaranao-port-economic-v2",
@@ -152,7 +152,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       de: ["Guaranao bildet das wirtschaftliche Rückgrat der Halbinsel Paraguaná.", "Die Nähe zur Freihandelszone von Punto Fijo beeinflusst das Handelsvolumen maßgeblich.", "Der Hafen bietet eine wichtige Infrastruktur für die lokale Fischereiindustrie.", "Seine strategische Lage ist zentral für die Versorgung der gesamten Halbinsel."],
       hu: ["Guaranao alkotja a Paraguaná-félsziget gazdasági gerincét.", "A punto fijói szabadkereskedelmi övezet közelsége jelentősen befolyásolja a forgalmát.", "A kikötő fontos infrastruktúrát biztosít a helyi halászat számára.", "Stratégiai elhelyezkedése központi jelentőségű az egész félsziget ellátása szempontjából."],
       ro: ["Guaranao formează coloana vertebrală economică a Peninsulei Paraguaná.", "Proximitatea față de zona de comerț liber din Punto Fijo influențează semnificativ volumul său comercial.", "Portul oferă infrastructură importantă pentru industria pescuitului local.", "Locația sa strategică este centrală pentru aprovizionarea întregii peninsule."],
-      en: ["Free trade zone nearby.", "Part of the city of Punto Fijo.", "Supports local trade.", "Strategic location.", "A regional port on the Paraguaná Peninsula, important for both commercial trade and fishing.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      en: ["A regional port on the Paraguaná Peninsula, important for both commercial trade and fishing.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }
   },
   {
@@ -183,7 +183,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       de: ["El Guamache ist die wichtigste logistische Schnittstelle für die Isla Margarita.", "Der Kreuzfahrtbetrieb macht ihn zu einem bedeutenden Anlaufpunkt für den internationalen Tourismus.", "Die Frachtkapazität ist für den täglichen Bedarf der Inselbevölkerung und den Einzelhandel essenziell.", "Die strategische Lage im Süden der Insel ermöglicht eine effiziente Anbindung an das Festland."],
       hu: ["El Guamache a Margarita-sziget legfontosabb logisztikai csomópontja.", "A hajós turizmus a nemzetközi látogatók jelentős belépési pontjává teszi.", "Teherkapacitása alapvető a szigetlakók napi szükségleteinek kielégítéséhez.", "Déli fekvése hatékony kapcsolatot tesz lehetővé a szárazfölddel."],
       ro: ["El Guamache este cel mai important nod logistic pentru Insula Margarita.", "Turismul maritim îl face un punct de intrare major pentru vizitatorii internaționali.", "Capacitatea sa de transport de mărfuri este esențială pentru nevoile zilnice ale locuitorilor insulei.", "Locația sa sudică permite o legătură eficientă cu continentul."],
-      en: ["Cruise terminal.", "Important for island supply.", "Located in the south of Margarita.", "Center for tourism.", "The main cargo and cruise port on Margarita Island, connecting the island with the mainland and international destinations.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      en: ["The main cargo and cruise port on Margarita Island, connecting the island with the mainland and international destinations.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/el-guamache-port-economic-v2.webp"},
   {
     id: "palua-iron-port-economic-v2",
@@ -213,7 +213,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       de: ["Palúa ist ein spezialisierter Erzhafen am Orinoco.", "Die Anbindung erfolgt direkt an das Schienennetz der Minen.", "Der Hafen spielt eine zentrale Rolle für den Export von Eisenerz aus den Minen der Region Bolívar.", "Die Anlagen in Palúa sind ein wesentlicher Bestandteil des industriellen Systems von Ferrominera Orinoco."],
       hu: ["Palúa egy Orinoco menti speciális érckikötő.", "Közvetlen vasúti kapcsolata van a bányákhoz.", "Központi szerepet játszik a Bolívar régió bányáiból származó érc exportjában.", "A létesítmények a Ferrominera Orinoco ipari rendszerének szerves részét képezik."],
       ro: ["Palua este un port specializat pentru minereu pe fluviul Orinoco.", "Are o legătură feroviară directă cu minele.", "Joacă un rol central în exportul minereului de fier din regiunea Bolívar.", "Facilitățile fac parte integrantă din sistemul industrial Ferrominera Orinoco."],
-      en: ["Located on the Orinoco River.", "Focus on iron ore.", "Near San Félix.", "Operated by Ferrominera.", "An important inland port on the Orinoco River, specifically designed for handling and exporting iron ore from nearby mines.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      en: ["An important inland port on the Orinoco River, specifically designed for handling and exporting iron ore from nearby mines.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/palua-iron-port-economic-v2.webp"},
   {
     id: "matanzas-industrial-port-economic-v2",
@@ -243,7 +243,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       de: ["Matanzas ist ein spezialisierter Schwerlasthafen für Stahl und Aluminium.", "Der Hafen liegt direkt angrenzend an die größten industriellen Anlagen des Landes.", "Die logistische Effizienz in Matanzas ist entscheidend für den Exporterfolg von Sidor und anderen Unternehmen.", "Der Hafen verfügt über eigene Be- und Entladeeinrichtungen für industrielle Massengüter."],
       hu: ["Matanzas egy acélra és alumíniumra specializálódott nehézrakomány-kikötő.", "Közvetlenül az ország legnagyobb ipari létesítményei mellett található.", "Logisztikai hatékonysága döntő a Sidor és más cégek export sikere szempontjából.", "Saját berendezésekkel rendelkezik az ipari ömlesztett áruk kezeléséhez."],
       ro: ["Matanzas este un port de mare tonaj specializat pentru oțel și aluminiu.", "Este situat direct adiacent celor mai mari facilități industriale ale țării.", "Eficiența logistică din Matanzas este decisivă pentru succesul la export al Sidor și al altor companii.", "Dispune de instalații proprii pentru manipularea mărfurilor industriale în vrac."],
-      en: ["Handles steel and aluminum.", "Located in the Matanzas industrial zone.", "Inland port on the Orinoco.", "Important logistics hub.", "A heavy-duty industrial port that directly serves the massive steel and aluminum plants in Ciudad Guayana.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      en: ["A heavy-duty industrial port that directly serves the massive steel and aluminum plants in Ciudad Guayana.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }
   },
   {
@@ -274,7 +274,7 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
       de: ["Amuay ist Teil des Paraguaná-Raffineriekomplexes.", "Das Terminal ist entscheidend für den globalen Vertrieb venezolanischer Energieprodukte.", "Der Hafen bietet Tiefwasserkapazitäten für die größten Öltanker.", "Die Hafeninfrastruktur ist rund um die Uhr auf den Transport von Erdölprodukten ausgerichtet."],
       hu: ["Amuay a Paraguaná finomító komplexum része.", "A terminál kulcsfontosságú a venezuelai energiatermékek globális értékesítésében.", "Mélyvízi adottságai lehetővé teszik a legnagyobb olajszállító hajók fogadását.", "Infrastruktúrája éjjel-nappal az olajszármazékok szállítására van optimalizálva."],
       ro: ["Amuay face parte din complexul de rafinare Paraguaná.", "Terminalul este crucial pentru distribuția globală a produselor energetice venezuelene.", "Facilitățile cu apă adâncă permit ancorarea celor mai mari tancuri petroliere.", "Infrastructura sa este optimizată pentru transportul derivatelor petroliere."],
-      en: ["Part of the Paraguaná complex.", "Exports refined fuels.", "Deep water access for tankers.", "One of the largest oil ports.", "A specialized deep-water port serving the Amuay refinery complex, essential for the export of petroleum products.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      en: ["A specialized deep-water port serving the Amuay refinery complex, essential for the export of petroleum products.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/amuay-oil-port-economic-v2.webp"},
   {
     id: "punta-cardon-oil-port-economic-v2",
@@ -303,8 +303,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Punta Cardón ist essenziell für die Logistik des Paraguaná-Komplexes.", "Das Terminal ist hochspezialisiert auf den Umschlag von Rohöl und Fertigprodukten.", "Die Exportleistung des Terminals trägt signifikant zur Bilanz der venezolanischen Energiebranche bei.", "Die Infrastruktur wird kontinuierlich gewartet, um die globale Wettbewerbsfähigkeit im Energiebereich zu sichern."],
       hu: ["Punta Cardón elengedhetetlen a Paraguaná komplexum logisztikájához.", "A terminál magasan specializálódott a nyersolaj és késztermékek kezelésére.", "Exportteljesítménye jelentősen hozzájárul a venezuelai energiaszektor mérlegéhez.", "Infrastruktúráját folyamatosan karbantartják a versenyképesség megőrzése érdekében."],
-      ro: ["Situat în statul Falcón.", "Terminal important pentru tancurile petroliere.", "Strâns legat de rafinărie.", "Volum mare de export."],
-      en: ["Located in Falcón state.", "Important terminal for oil tankers.", "Closely tied to the refinery.", "High export volume.", "The port of the Cardón refinery, enabling the global shipment of Venezuelan oil and derivatives from the Paraguaná region.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["The port of the Cardón refinery, enabling the global shipment of Venezuelan oil and derivatives from the Paraguaná region.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/punta-cardon-oil-port-economic-v2.webp"},
   {
     id: "paraguana-refinery-economic-v2",
@@ -333,8 +333,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Der Paraguaná-Komplex ist einer der leistungsfähigsten Raffineriezentren der Welt.", "Die Verarbeitungskapazität des CRP ist für die nationale Brennstoffversorgung kritisch.", "Neben Treibstoffen produziert der Komplex zahlreiche Zwischenprodukte für die petrochemische Industrie.", "Die Anlage ist durch ein ausgeklügeltes Pipeline-Netzwerk mit den Ölfeldern im Landesinneren verbunden."],
       hu: ["A Paraguaná komplexum a világ egyik legnagyobb teljesítményű finomítója.", "Feldolgozási kapacitása kritikus a nemzeti üzemanyag-ellátás szempontjából.", "Az üzemanyagok mellett számos petrolkémiai köztes terméket is előállít.", "A létesítményt kifinomult csővezeték-hálózat köti össze a belső olajmezőkkel."],
-      ro: ["Capacitate gigantică de procesare.", "Cel mai important angajator din regiune.", "Produce benzină și motorină.", "Cunoscut la nivel mondial."],
-      en: ["Gigantic processing capacity.", "Most important employer in the region.", "Produces gasoline and diesel.", "Globally known.", "One of the largest oil refinery complexes in the world, comprising the Amuay and Cardón facilities, and the backbone of the Venezuelan oil industry.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["One of the largest oil refinery complexes in the world, comprising the Amuay and Cardón facilities, and the backbone of the Venezuelan oil industry.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/paraguana-refinery-economic-v2.webp"},
   {
     id: "el-palito-refinery-economic-v2",
@@ -363,8 +363,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["El Palito wurde in den 1960er Jahren als eine der zentralen Raffinerien Venezuelas in Betrieb genommen.", "Sie spielt eine tragende Rolle bei der Verteilung von Kraftstoffen im industrialisierten Zentrum des Landes.", "Die Anlage verfügt über ein eigenes Terminal, das sie flexibel in den globalen und nationalen Ölmarkt einbindet.", "Regelmäßige Wartungsarbeiten in El Palito sind für die Stabilität der nationalen Versorgung von zentraler Bedeutung."],
       hu: ["Az El Palito-t az 1960-as években helyezték üzembe Venezuela egyik fő finomítójaként.", "Meghatározó szerepe van az üzemanyag-elosztásban az ország iparosodott központjában.", "Saját terminállal rendelkezik, amely rugalmasan kapcsolja a hazai és világpiachoz.", "Rendszeres karbantartása létfontosságú a nemzeti ellátás stabilitása érdekében."],
-      ro: ["Situată în statul Carabobo.", "Aprovizionează zona centrală a țării.", "Are propriul terminal petrolier.", "Fondată în anii 1960."],
-      en: ["Located in Carabobo state.", "Supplies the central part of the country.", "Has its own oil terminal.", "Founded in the 1960s.", "A central oil refinery on the Caribbean coast, important for supplying the domestic fuel market.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A central oil refinery on the Caribbean coast, important for supplying the domestic fuel market.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/el-palito-refinery-economic-v2.webp"},
   {
     id: "puerto-la-cruz-refinery-economic-v2",
@@ -393,8 +393,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Die Raffinerie in Puerto La Cruz ist ein bedeutender Industriestandort für den Osten des Landes.", "Die Anlage ist strategisch nahe am Hafen gelegen, was den Export von Fertigprodukten massiv erleichtert.", "Puerto La Cruz verarbeitet vor allem leichtes und mittleres Rohöl, das in der östlichen Region gewonnen wird.", "Die Raffinerie ist ein wesentlicher Bestandteil der wirtschaftlichen Identität der Stadt."],
       hu: ["A Puerto La Cruz-i finomító az ország keleti részének jelentős ipari helyszíne.", "Stratégiai fekvése a kikötő közelében nagyban megkönnyíti a késztermékek exportját.", "Elsősorban a keleti régióban kitermelt könnyű és közepes nyersolajat dolgoz fel.", "A finomító a város gazdasági identitásának szerves része."],
-      ro: ["Procesează țiței ușor și mediu.", "Acces direct la mare.", "Situată într-o zonă urbană.", "Sursă importantă de venituri."],
-      en: ["Processes light and medium crude oil.", "Direct access to the sea.", "Located in an urban area.", "Important source of revenue.", "An important petrochemical site in eastern Venezuela, processing and exporting oil from the region's fields.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["An important petrochemical site in eastern Venezuela, processing and exporting oil from the region's fields.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/puerto-la-cruz-refinery-economic-v2.webp"},
   {
     id: "bajo-grande-refinery-economic-v2",
@@ -423,8 +423,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Bajo Grande ist spezialisiert auf die Produktion von bitumenhaltigen Produkten.", "Der Asphalt aus dieser Raffinerie ist entscheidend für den nationalen Straßenbau.", "Die Anlage ergänzt das breite Portfolio der venezolanischen Raffinerieindustrie durch hochspezialisierte Produkte.", "Die geografische Lage am Maracaibo-See erleichtert den Transport der Schwerölprodukte."],
       hu: ["Bajo Grande a bitumenes termékek előállítására szakosodott.", "Az itt készült aszfalt döntő fontosságú a nemzeti útépítésekhez.", "Az üzem speciális termékeivel egészíti ki a venezuelai finomítóipar portfólióját.", "A Maracaibo-tónál lévő elhelyezkedése segíti a nehézolaj-termékek szállítását."],
-      ro: ["Produce în principal asfalt.", "Situată pe lacul Maracaibo.", "Capacitate mică de procesare.", "Strategică pentru industria construcțiilor."],
-      en: ["Mainly produces asphalt.", "Located on Lake Maracaibo.", "Small processing capacity.", "Strategic for the construction industry.", "A specialized refinery on the shores of Lake Maracaibo, producing asphalt and other heavy oil products.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A specialized refinery on the shores of Lake Maracaibo, producing asphalt and other heavy oil products.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/bajo-grande-refinery-economic-v2.webp"},
   {
     id: "san-roque-refinery-economic-v2",
@@ -453,8 +453,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["San Roque ist die einzige Paraffinfabrik in Venezuela.", "Paraffin ist für viele industrielle Prozesse eine notwendige Zutat.", "Die Anlage unterstreicht die industrielle Vielfalt im Bereich Anaco.", "Die Produktion ist ein wichtiger Beitrag zur industriellen Selbstversorgung Venezuelas bei Spezialchemikalien."],
       hu: ["San Roque Venezuela egyetlen paraffingyára.", "A paraffin számos ipari folyamat elengedhetetlen összetevője.", "Az üzem kiemeli Anaco környékének ipari sokszínűségét.", "Termelése hozzájárul Venezuela önellátásához a speciális vegyi anyagok terén."],
-      ro: ["Situată în interiorul țării (Anzoátegui).", "Singurul producător de parafină din țară.", "Instalație mică, dar importantă.", "Aprovizionează industria alimentară și cosmetică."],
-      en: ["Located inland (Anzoátegui).", "Only paraffin producer in the country.", "Small but important facility.", "Supplies the food and cosmetics industry.", "A unique, highly specialized facility in Anaco that produces the only paraffin wax in all of Venezuela.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A unique, highly specialized facility in Anaco that produces the only paraffin wax in all of Venezuela.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/san-roque-refinery-economic-v2.webp"},
   {
     id: "sidor-steel-plant-economic-v2",
@@ -483,8 +483,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Sidor ist der größte Arbeitgeber in Ciudad Guayana.", "Die Integration in die Caroní-Stromversorgung macht das Werk hochgradig energieeffizient.", "Die Sidor-Anlagen erstrecken sich über ein riesiges industrielles Territorium am Orinoco.", "Die Produkte von Sidor sind für die Bau- und Fertigungsindustrie in ganz Venezuela essenziell."],
       hu: ["A Sidor Ciudad Guayana legnagyobb munkaadója.", "A Caroní-menti energiaellátásba való integráció rendkívül energiahatékonnyá teszi.", "Létesítményei hatalmas ipari területet fednek le az Orinoco mentén.", "Termékei elengedhetetlenek a venezuelai építő- és feldolgozóipar számára."],
-      ro: ["Cea mai mare uzină siderurgică din Venezuela.", "Beneficiază de hidroenergia locală.", "Produce oțel laminat și sârmă.", "Acoperă o zonă industrială imensă."],
-      en: ["Largest steel plant in Venezuela.", "Benefits from local hydropower.", "Produces rolled steel and wires.", "Covers a huge industrial area.", "The gigantic Siderúrgica del Orinoco steel plant is the industrial heart of Ciudad Guayana and Latin America.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["The gigantic Siderúrgica del Orinoco steel plant is the industrial heart of Ciudad Guayana and Latin America.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/sidor-steel-plant-economic-v2.webp"},
   {
     id: "venalum-aluminum-plant-economic-v2",
@@ -513,8 +513,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Venalum gehört zu den größten Aluminiumproduzenten in Lateinamerika.", "Die Anlage ist einer der energieintensivsten Standorte in Venezuela.", "Der Export von Aluminiumblöcken ist eine wichtige Einnahmequelle für den venezolanischen Staat.", "Venalum arbeitet eng mit dem benachbarten Werk von Alcasa zusammen."],
       hu: ["A Venalum Latin-Amerika legnagyobb alumíniumtermelői közé tartozik.", "Az üzem Venezuela egyik leginkább energiaigényes helyszíne.", "Az alumíniumtömbök exportja fontos bevételi forrás az állam számára.", "Szorosan együttműködik a szomszédos Alcasa üzemmel."],
-      ro: ["Una dintre cele mai mari din America Latină.", "Consum mare de energie.", "Companie deținută de stat.", "Produce blocuri de aluminiu."],
-      en: ["One of the largest in Latin America.", "High energy consumption.", "State-owned company.", "Produces aluminum ingots.", "A massive primary aluminum production facility that benefits greatly from the abundant hydropower of the Caroní River.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A massive primary aluminum production facility that benefits greatly from the abundant hydropower of the Caroní River.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/venalum-aluminum-plant-economic-v2.webp"},
   {
     id: "alcasa-aluminum-plant-economic-v2",
@@ -543,8 +543,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Alcasa steht für die Anfänge der venezolanischen Aluminiumverarbeitung.", "Das Werk hat sich auf höherwertige Aluminiumprodukte wie Folien und Bleche spezialisiert.", "Als Pionierunternehmen hat Alcasa den Grundstein für den Industriekomplex Guayana gelegt.", "Die Produktion ist ein wichtiger Bestandteil der nationalen Wertschöpfung."],
       hu: ["Az Alcasa a venezuelai alumíniumfeldolgozás kezdeteit jelképezi.", "Magasabb hozzáadott értékű termékekre, fóliákra és lemezekre szakosodott.", "Úttörőként fektette le a Guayana ipari komplexum alapjait.", "Termelése a nemzeti értékteremtés fontos része."],
-      ro: ["Aluminio del Caroní S.A.", "Vecin cu uzina Venalum.", "Se concentrează pe produse prelucrate.", "Face parte din complexul industrial Guayana."],
-      en: ["Aluminio del Caroní S.A.", "Neighbor to the Venalum plant.", "Focus on further processed products.", "Part of the Guayana industrial complex.", "A pioneer of the Venezuelan aluminum industry in Ciudad Guayana, specializing in the production of aluminum sheets and foils.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A pioneer of the Venezuelan aluminum industry in Ciudad Guayana, specializing in the production of aluminum sheets and foils.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/alcasa-aluminum-plant-economic-v2.webp"},
   {
     id: "bauxilum-alumina-plant-economic-v2",
@@ -573,8 +573,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Bauxilum ist die zentrale Raffinerie für die venezolanische Aluminiumproduktion.", "Die Anlage veredelt das Bauxit aus den Minen der Region Bolívar.", "Die Versorgung der Aluminiumhütten von Venalum und Alcasa hängt von Bauxilum ab.", "Die strategische Lage am Orinoco ermöglicht eine effiziente Logistik."],
       hu: ["A Bauxilum a venezuelai alumíniumgyártás központi finomítója.", "Az üzem a Bolívar régió bányáiból származó bauxitot dolgozza fel.", "A Venalum és az Alcasa kohóinak ellátása a Bauxilumtól függ.", "Az Orinoco menti stratégiai fekvése hatékony logisztikát tesz lehetővé."],
-      ro: ["Procesează minereu de bauxită.", "Aprovizionează Venalum și Alcasa.", "Situată pe malul râului Orinoco.", "Parte importantă a industriei grele."],
-      en: ["Processes bauxite ore.", "Supplies Venalum and Alcasa.", "Located on the banks of the Orinoco.", "Important part of heavy industry.", "The crucial link in Venezuela's aluminum production chain, where mined bauxite is converted into alumina.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["The crucial link in Venezuela's aluminum production chain, where mined bauxite is converted into alumina.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/bauxilum-alumina-plant-economic-v2.webp"},
   {
     id: "cerro-bolivar-mine-economic-v2",
@@ -603,8 +603,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Cerro Bolívar ist eines der größten Eisenerzvorkommen der Welt.", "Die Entdeckung 1947 leitete ein neues Kapitel der venezolanischen Industriegeschichte ein.", "Der Tagebau am Cerro Bolívar erforderte eine komplexe logistische Infrastruktur inklusive Schienennetz.", "Ciudad Piar wurde speziell als Arbeitersiedlung für diese Mine entwickelt."],
       hu: ["A Cerro Bolívar a világ egyik legnagyobb vasérclelőhelye.", "Az 1947-es felfedezés új fejezetet nyitott az ipartörténetben.", "A külszíni bányászat összetett logisztikai és vasúti infrastruktúrát igényelt.", "Ciudad Piar városa kifejezetten a bányászok számára jött létre."],
-      ro: ["Descoperit în anul 1947.", "Rezerve gigantice de minereu de fier.", "Minerit la suprafață.", "A impulsionat fondarea orașului Ciudad Piar."],
-      en: ["Discovered in 1947.", "Gigantic iron ore reserves.", "Open-pit mining.", "Spurred the founding of Ciudad Piar.", "A legendary mountain of almost pure iron ore, the discovery of which marked the beginning of Venezuela's massive steel industry.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A legendary mountain of almost pure iron ore, the discovery of which marked the beginning of Venezuela's massive steel industry.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/cerro-bolivar-mine-economic-v2.webp"},
   {
     id: "ferrominera-orinoco-economic-v2",
@@ -633,8 +633,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Ferrominera ist ein staatliches Unternehmen unter dem Dach der Corporación Venezolana de Guayana.", "Die Bahninfrastruktur zwischen den Minen und dem Orinoco ist eine der wichtigsten industriellen Lebensadern der Region.", "Die Produktion von Eisenerzpellets steigert den Wert der exportierten Rohstoffe.", "Ohne den effizienten Transport durch Ferrominera wäre die Stahlindustrie in Sidor nicht existent."],
       hu: ["A Ferrominera a Corporación Venezolana de Guayana alá tartozó állami vállalat.", "A bányák és az Orinoco közötti vasúti infrastruktúra a régió egyik legfontosabb ipari ütőere.", "A vasércpelletek gyártása növeli az exportált nyersanyagok értékét.", "A Ferrominera hatékony szállítása nélkül a Sidor acélipara nem létezne."],
-      ro: ["Procesează minereu din Cerro Bolívar.", "Operează propria rețea feroviară.", "Produce pelete de minereu de fier.", "Furnizor principal pentru Sidor."],
-      en: ["Processes ore from Cerro Bolívar.", "Operates its own railway network.", "Produces iron ore pellets.", "Main supplier for Sidor.", "The state center for processing and transporting iron ore in Ciudad Guayana, connecting mines and ports.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["The state center for processing and transporting iron ore in Ciudad Guayana, connecting mines and ports.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/ferrominera-orinoco-economic-v2.webp"},
   {
     id: "las-cristinas-gold-mine-economic-v2",
@@ -663,8 +663,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Las Cristinas ist Teil des sogenannten 'Orinoco-Bergbau-Bogens'.", "Die Erschließung ist eng mit dem Ziel der staatlichen Diversifizierung verbunden.", "Die logistische Erreichbarkeit im Dschungel ist eine der größten Herausforderungen bei der Ausbeutung.", "Der Abbau von Gold in dieser Region steht oft im Fokus der öffentlichen Debatte über nachhaltige Ressourcennutzung."],
       hu: ["Las Cristinas az úgynevezett 'Orinoco Bányászati Ív' része.", "Kiaknázása szorosan kapcsolódik az állami gazdasági diverzifikációhoz.", "A dzsungelen belüli logisztikai elérhetőség az egyik legnagyobb kihívás.", "Az itt folyó aranybányászat gyakran áll a fenntartható erőforrás-használatról szóló viták középpontjában."],
-      ro: ["Potențial neexploatat uriaș.", "Focarul multor dispute internaționale.", "Situată în municipiul Sifontes.", "Înconjurată de pădure tropicală."],
-      en: ["Huge untapped potential.", "Focus of many international disputes.", "Located in the Sifontes municipality.", "Surrounded by tropical rainforest.", "One of the largest gold deposits in Latin America, located deep in the resource-rich jungle region of Bolívar.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["One of the largest gold deposits in Latin America, located deep in the resource-rich jungle region of Bolívar.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/las-cristinas-gold-mine-economic-v2.webp"},
   {
     id: "las-brisas-gold-mine-economic-v2",
@@ -693,8 +693,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Las Brisas ist ein bedeutendes Bergbauprojekt innerhalb des Orinoco-Bergbau-Bogens.", "Die Kombination von Gold- und Kupferressourcen macht die Lagerstätte besonders wertvoll.", "Das Projekt ist ein zentraler Pfeiler für die geplante wirtschaftliche Diversifizierung Venezuelas.", "Die Erschließung erfolgt in einem der ökologisch sensibelsten Gebiete von Bolívar."],
       hu: ["Las Brisas jelentős bányászati projekt az Orinoco Bányászati Íven belül.", "Az arany- és rézkészletek kombinációja különösen értékessé teszi a lelőhelyet.", "A projekt a gazdasági diverzifikáció egyik központi pillére.", "A feltárás Bolívar egyik ökológiailag legérzékenyebb területén zajlik."],
-      ro: ["Bogată în aur și cupru.", "Învecinată cu mina Las Cristinas.", "Rezerve semnificative de cupru.", "Face parte din Arcul Minier Orinoco."],
-      en: ["Rich in gold and copper.", "Adjacent to the Las Cristinas mine.", "Significant copper reserves.", "Part of the Orinoco Mining Arc.", "Another huge gold and copper mine in the kilometer 73 district, representing immense mineral potential for Venezuela.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["Another huge gold and copper mine in the kilometer 73 district, representing immense mineral potential for Venezuela.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/las-brisas-gold-mine-economic-v2.webp"},
   {
     id: "paso-diablo-coal-mine-economic-v2",
@@ -723,8 +723,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Paso Diablo ist der größte Kohleproduzent in Venezuela.", "Die logistische Kette bis zum Export umfasst den Transport über den Maracaibo-See.", "Der Kohleabbau im Guasare-Becken bietet bedeutende Beschäftigungschancen in Zulia.", "Die Qualität der Kohle aus Paso Diablo wird aufgrund des hohen Heizwertes geschätzt."],
       hu: ["A Paso Diablo Venezuela legnagyobb széntermelője.", "Az export-logisztikai lánc része a Maracaibo-tavon át történő szállítás.", "A Guasare-medencei szénbányászat jelentős munkalehetőséget kínál Zulában.", "A szén minőségét magas fűtőértéke miatt ismerik el."],
-      ro: ["Minerit la suprafață.", "Exportă cărbune prin lacul Maracaibo.", "Situată în bazinul Guasare.", "Valoare calorifică mare a cărbunelui."],
-      en: ["Open-pit mining.", "Exports coal via Lake Maracaibo.", "Located in the Guasare basin.", "High calorific value of the coal.", "Venezuela's largest open-pit coal mine in the Guasare basin of Zulia state, producing high-quality thermal coal.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["Venezuela's largest open-pit coal mine in the Guasare basin of Zulia state, producing high-quality thermal coal.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/paso-diablo-coal-mine-economic-v2.webp"},
   {
     id: "mina-norte-coal-mine-economic-v2",
@@ -753,8 +753,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Die Mina Norte ist ein integraler Bestandteil des größeren Guasare-Kohlekomplexes.", "Sie ergänzt die Exportkapazitäten von Zulia signifikant.", "Die Arbeit in der Mine Norte ist ein wesentlicher wirtschaftlicher Motor für die umliegende Gemeinde.", "Die Kohleförderung leistet einen strategischen Beitrag zur nationalen Wirtschaftsleistung."],
       hu: ["A Mina Norte a nagyobb Guasare szénkomplexum szerves része.", "Jelentősen növeli Zulia exportkapacitásait.", "A bányában végzett munka alapvető gazdasági motor a környező közösség számára.", "A szénkitermelés stratégiai hozzájárulást jelent a nemzeti gazdasági teljesítményhez."],
-      ro: ["Face parte din proiectul de cărbune Guasare.", "Minerit de huilă.", "Creează multe locuri de muncă locale.", "O parte importantă a economiei Zulia."],
-      en: ["Part of the Guasare coal project.", "Hard coal mining.", "Creates many local jobs.", "Important part of the Zulia economy.", "Another significant coal mine in Zulia state, contributing to Venezuela's position as a coal exporter.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["Another significant coal mine in Zulia state, contributing to Venezuela's position as a coal exporter.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/mina-norte-coal-mine-economic-v2.webp"},
   {
     id: "loma-de-niquel-mine-economic-v2",
@@ -783,8 +783,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Loma de Níquel ist ein zentrales Projekt zur Diversifizierung der Rohstoffbasis.", "Die integrierte Verarbeitung vor Ort steigert den Wert der Exportgüter signifikant.", "Das Ferronickel aus dieser Mine ist weltweit in der Edelstahlbranche gefragt.", "Der Betrieb ist ein bedeutender wirtschaftlicher Akteur im Grenzgebiet von Aragua und Miranda."],
       hu: ["A Loma de Níquel a nyersanyagbázis diverzifikálásának központi projektje.", "A helyben végzett integrált feldolgozás jelentősen növeli az export értékét.", "Az itt bányászott ferronikkel világszerte keresett a rozsdamentes acél iparágban.", "Az üzem jelentős gazdasági szereplő Aragua és Miranda határvidékén."],
-      ro: ["Situată între Aragua și Miranda.", "Produce pelete de feronichel.", "Are propriile cuptoare de topire.", "Proiect important de diversificare."],
-      en: ["Located between Aragua and Miranda.", "Produces ferronickel pellets.", "Has its own smelting furnaces.", "Important diversification project.", "An integrated mining and smelting complex producing ferronickel for the global stainless steel market.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["An integrated mining and smelting complex producing ferronickel for the global stainless steel market.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/loma-de-niquel-mine-economic-v2.webp"},
   {
     id: "jose-petrochemical-complex-economic-v2",
@@ -813,8 +813,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Jose ist der wichtigste Standort für die Veredelung von Orinoco-Schweröl.", "Die Terminals sind für die größten Tanker der Welt ausgelegt.", "Flüssiges Erdgas (NGL) ist ein wichtiges Nebenprodukt des Aufbereitungsprozesses.", "Der Standort Jose fungiert als entscheidendes Gateway für den gesamten Erdöl-Export der östlichen Region."],
       hu: ["Jose az Orinoco nehézolaj nemesítésének legfontosabb helyszíne.", "Termináljait a világ legnagyobb tankereihez tervezték.", "A cseppfolyósított gáz (NGL) a folyamat fontos mellékterméke.", "A helyszín döntő kapuként szolgál a teljes keleti régió olajexportja számára."],
-      ro: ["Procesează petrol greu de Orinoco.", "Exportă gaze naturale lichide (GNL).", "Terminale masive de depozitare și încărcare.", "Colacul de salvare al exporturilor de petrol."],
-      en: ["Processes Orinoco heavy oil.", "Exports natural gas liquids (NGL).", "Massive storage and loading terminals.", "Lifeline of oil exports.", "The industrial centerpiece for upgrading extra heavy crude oil from the Orinoco Belt, located on the east coast.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["The industrial centerpiece for upgrading extra heavy crude oil from the Orinoco Belt, located on the east coast.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }
   },
   {
@@ -844,8 +844,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Morón ist der älteste petrochemische Standort Venezuelas.", "Die Produktion von Harnstoff und Ammoniak ist zentral für die Versorgung der Landwirtschaft.", "Pequiven als Betreiber integriert den Standort in das nationale Industrienetzwerk.", "Die Lage nahe Puerto Cabello optimiert die logistische Verteilung der Agrarprodukte."],
       hu: ["Morón Venezuela legrégebbi petrolkémiai helyszíne.", "A karbamid és ammónia termelése központi jelentőségű a mezőgazdaság számára.", "Az üzemeltető Pequiven integrálja a helyszínt a nemzeti ipari hálózatba.", "A Puerto Cabello közeli fekvés segíti az agrártermékek logisztikai elosztását."],
-      ro: ["Produce uree și amoniac.", "Important pentru agricultură.", "Situat lângă Puerto Cabello.", "Operat de Pequiven."],
-      en: ["Produces urea and ammonia.", "Important for agriculture.", "Located near Puerto Cabello.", "Operated by Pequiven.", "The oldest petrochemical complex in Venezuela, specializing in the production of fertilizers and agricultural chemicals.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["The oldest petrochemical complex in Venezuela, specializing in the production of fertilizers and agricultural chemicals.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }
   },
   {
@@ -875,8 +875,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["El Tablazo ist einer der größten petrochemischen Standorte in Südamerika.", "Der Standort nutzt die reichen Erdgasvorkommen rund um den Maracaibo-See.", "Die Produktion von PVC ist für die Bauindustrie in Venezuela und darüber hinaus essenziell.", "Die Anlage bildet ein Zentrum für die industrielle Wertschöpfung in der Zulia-Region."],
       hu: ["Az El Tablazo Dél-Amerika egyik legnagyobb petrolkémiai helyszíne.", "Az üzem a Maracaibo-tó körüli gazdag földgázkészleteket használja fel.", "A PVC gyártása elengedhetetlen az építőipar számára Venezuelában és azon túl.", "A létesítmény a Zulia régió ipari értékteremtésének központja."],
-      ro: ["Produce PVC și polietilenă.", "Folosește gazele naturale din zona lacului.", "Cheia pentru industria materialelor plastice.", "Unul dintre cele mai mari din America de Sud."],
-      en: ["Produces PVC and polyethylene.", "Uses natural gas from the lake area.", "Key for the plastics industry.", "One of the largest in South America.", "A large industrial site on the eastern shore of Lake Maracaibo, producing plastics, olefins, and industrial chemicals.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A large industrial site on the eastern shore of Lake Maracaibo, producing plastics, olefins, and industrial chemicals.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }, image: "/poi-images/el-tablazo-petrochemical-economic-v2.webp"},
   {
     id: "caruachi-hydroelectric-plant-economic-v2",
@@ -905,8 +905,8 @@ export const poiExtraVenezuelaEconomicV2: POI[] = [
     factsAdvanced: {
       de: ["Caruachi wurde als Teil eines groß angelegten Plans zur Erweiterung der Wasserkraftkapazität gebaut.", "Die Anlage trägt maßgeblich zur Versorgung der Stahl- und Aluminiumindustrie bei.", "Der Caroní-Fluss ist einer der energiereichsten Flüsse Südamerikas.", "Die Integration in das nationale Stromnetz ist für Venezuela strategisch essenziell."],
       hu: ["Caruachi a vízerőmű-kapacitás bővítésére irányuló nagyszabású terv részeként épült.", "Az üzem meghatározó az acél- és alumíniumipar ellátásában.", "A Caroní folyó Dél-Amerika egyik legenergiadúsabb folyója.", "A nemzeti hálózatba való integráció stratégiai fontosságú Venezuela számára."],
-      ro: ["Capacitate instalată de peste 2.100 MW.", "Face parte din cascada Caroní.", "Punerea în funcțiune a fost finalizată în 2006.", "Situată lângă Ciudad Guayana."],
-      en: ["Installed capacity of over 2,100 MW.", "Part of the Caroní cascade.", "Commissioning completed in 2006.", "Located near Ciudad Guayana.", "A modern and powerful hydroelectric plant on the Caroní River, crucial for powering Venezuela's heavy industry.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
+      ro: [],
+      en: ["A modern and powerful hydroelectric plant on the Caroní River, crucial for powering Venezuela's heavy industry.", "Located within the Bolivarian Republic of Venezuela.", "Set between the northern Andes, the Llanos plains, and the Caribbean coast."],
     }
   }
 ];

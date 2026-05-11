@@ -1,0 +1,54 @@
+{
+  "lang": "hu",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ayaha-valley-nature-v2",
+      "description": "Völgyek és síkságok együttese, amely fontos legelő a nomádoknak.",
+      "facts": ["Szomáliai szárazföld", "Szezonális patakok", "Akáciás bozótos"]
+    },
+    {
+      "id": "juba-delta-nature-v2",
+      "description": "Termékeny deltavidék a Juba folyó torkolatánál, gazdag biodiverzitással.",
+      "facts": ["Déli régió", "Mocsaras területek", "Mezőgazdasági központ"]
+    },
+    {
+      "id": "shebelle-middle-reach-nature-v2",
+      "description": "A Shebelle folyó középső szakasza, fontos öntözött területekkel.",
+      "facts": ["Központi régió", "Folyóvölgy", "Mezőgazdasági övezet"]
+    },
+    {
+      "id": "dadaab-bushland-nature-v2",
+      "description": "Bozótos régió a határvidéken, száraz éghajlattal.",
+      "facts": ["Határmenti terület", "Száraz bozótos", "Jellemző fauna"]
+    },
+    {
+      "id": "hobyo-dunes-nature-v2",
+      "description": "Kiterjedt dűnerendszer az óceán partján, különleges tájképpel.",
+      "facts": ["Mudug régió", "Homokdűnék", "Tengerparti öv"]
+    },
+    {
+      "id": "xarardheere-coast-nature-v2",
+      "description": "Partszakasz az Indiai-óceán mentén, hagyományos halászközösségekkel.",
+      "facts": ["Indiai-óceán", "Homokos part", "Halászati terület"]
+    },
+    {
+      "id": "barawa-coast-nature-v2",
+      "description": "Történelmi jelentőségű tengerpart, gazdag korallvilággal.",
+      "facts": ["Déli partvidék", "Korallzátonyok", "Tengerparti élővilág"]
+    },
+    {
+      "id": "ceerigaabo-uplands-nature-v2",
+      "description": "Magasan fekvő fennsík, hűvösebb éghajlattal és különleges növényzettel.",
+      "facts": ["Sanaag régió", "Fennsík", "Hegyi növényzet"]
+    },
+    {
+      "id": "kismayo-marine-nature-v2",
+      "description": "Tengeri környezet Kismayo közelében, fontos ökológiai menedék.",
+      "facts": ["Déli tengerpart", "Tengeri élővilág", "Korallzátonyok"]
+    }
+  ]
+}

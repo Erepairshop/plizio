@@ -1,0 +1,57 @@
+{
+  "lang": "de",
+  "country": "Suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSurinameNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sr-tambaredjo-oelfeld-economic-v2",
+      "description": "Ein bedeutendes Onshore-Ölfeld im Distrikt Saramacca, das einen wichtigen Beitrag zur nationalen Energieversorgung leistet.",
+      "facts": ["Eines der ältesten Ölfelder", "Onshore-Produktion", "Im Saramacca-Distrikt", "Direkte Pipeline zur Raffinerie"]
+    },
+    {
+      "id": "sr-surinaamse-brouwerij-economic-v2",
+      "description": "Die größte Brauerei des Landes und Hersteller des berühmten Parbo Biers, das als nationales Symbol gilt.",
+      "facts": ["Größte Brauerei Surinames", "Hersteller von Parbo Bier", "Teil der Heineken-Gruppe", "Gegründet 1954"]
+    },
+    {
+      "id": "sr-kuldipsingh-zementwerk-economic-v2",
+      "description": "Ein modernes Zement- und Betonwerk, das die wachsende surinamische Bauindustrie mit wichtigen Materialien unterstützt.",
+      "facts": ["Produziert Beton und Zement", "Wichtig für die Infrastruktur", "Moderne Produktionsanlage", "Teil der Kuldipsingh-Gruppe"]
+    },
+    {
+      "id": "sr-argos-zementterminal-economic-v2",
+      "description": "Ein spezialisiertes Hafenterminal in Paramaribo für den Import und die Lagerung von Zement durch das Unternehmen Argos.",
+      "facts": ["Import-Terminal für Zement", "Spezialisierte Hafeneinrichtung", "Betrieben durch Argos", "Sichert Materialversorgung"]
+    },
+    {
+      "id": "sr-traymore-hafen-economic-v2",
+      "description": "Eine wichtige Hafenanlage in Paramaribo, die für den Umschlag von Alltagswaren und Baustoffen genutzt wird.",
+      "facts": ["Städtischer Umschlagpunkt", "Umschlag von Handelswaren", "Wichtig für lokale Logistik", "Direkt in Paramaribo"]
+    },
+    {
+      "id": "sr-fort-zeelandia-history-v2",
+      "description": "Ein historisches Fort aus dem 17. Jahrhundert am Suriname-Fluss, das heute das Suriname-Museum beherbergt.",
+      "facts": ["Erbaut um 1640", "Ehemalige Kolonialfestung", "Heutiges Suriname-Museum", "Strategischer Standort"]
+    },
+    {
+      "id": "sr-arya-dewaker-history-v2",
+      "description": "Ein bedeutender hinduistischer Tempel in Paramaribo, bekannt für seine einzigartige oktogonale Architektur.",
+      "facts": ["Eröffnet im Jahr 2001", "Arya Samaj-Bewegung", "Oktogonale Bauweise", "Kulturelles Zentrum"]
+    },
+    {
+      "id": "arya-dewaker-temple-landmarks-v2",
+      "description": "Ein großer und architektonisch einzigartiger Hindu-Tempel, der ein kulturelles Wahrzeichen der Stadt Paramaribo darstellt.",
+      "facts": ["Einzigartige achteckige Bauweise", "Wichtiges religiöses Zentrum", "Indische und surinamische Stile", "Symbol für kulturelle Integration"]
+    },
+    {
+      "id": "sr-bigi-pan-nature-v2",
+      "description": "Ein weitläufiges Lagunengebiet, das für seine enorme Artenvielfalt an Vögeln und seine unberührte Natur bekannt ist.",
+      "facts": ["Vast Lagunensystem", "Paradies für Vogelbeobachter", "Scharlach-Ibis-Hotspot", "Ideal für Ökotourismus"]
+    }
+  ]
+}

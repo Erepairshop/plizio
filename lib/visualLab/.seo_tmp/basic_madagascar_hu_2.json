@@ -1,0 +1,74 @@
+{
+  "lang": "hu",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kirindy-wald-life-v2",
+      "description": "A Kirindy-erdő a híres fosa és számos endemikus maki otthona, a sziget egyik legfontosabb száraz erdőterülete.",
+      "facts": ["Endemikus élővilág", "Fosa otthona", "Száraz erdőterület"]
+    },
+    {
+      "id": "tsingy-bemaraha-park-life-v2",
+      "description": "Egyedülálló mészkőalakzatok és különleges élőhelyek, ahol számos hüllő és madárfaj él.",
+      "facts": ["Mészkő sziklatornyok", "Endemikus hüllők", "Természetvédelmi terület"]
+    },
+    {
+      "id": "sahambavy-tee-plantage-life-v2",
+      "description": "Madagaszkár egyetlen jelentős teaültetvény-régiója, amely a magasföldi éghajlaton virágzik.",
+      "facts": ["Teaültetvény", "Magasföldi éghajlat", "Mezőgazdasági régió"]
+    },
+    {
+      "id": "antsirabe-kinderpark-life-v2",
+      "description": "Antsirabe város közösségi parkja, amely zöldövezetet biztosít a helyi családok és gyerekek számára.",
+      "facts": ["Városi park", "Családi rekreáció", "Zöldterület"]
+    },
+    {
+      "id": "tamatave-stadtpark-life-v2",
+      "description": "Tamatave város központi parkja, ahol a trópusi növényzet és a kikötővárosi élet találkozik.",
+      "facts": ["Trópusi növényzet", "Kikötőváros parkja", "Pihenőhely"]
+    },
+    {
+      "id": "nosy-be-korallenriff-life-v2",
+      "description": "Nosy Be szigete körüli korallzátonyok, amelyek gazdag tengeri élővilággal büszkélkedhetnek.",
+      "facts": ["Tengeri élővilág", "Korallzátony", "Délnyugati üdülőrégió"]
+    },
+    {
+      "id": "ranomafana-zoo-bereich-life-v2",
+      "description": "Ranomafana környéki védett területek, amelyek különleges maki-fajok megfigyelésére adnak lehetőséget.",
+      "facts": ["Maki élőhely", "Védett terület", "Biodiverzitás"]
+    },
+    {
+      "id": "lakato-lemuren-schutz-life-v2",
+      "description": "A Lakato régióban végzett természetvédelmi tevékenység a veszélyeztetett maki populációk megóvására fókuszál.",
+      "facts": ["Maki védelem", "Természetvédelmi projekt", "Veszélyeztetett fajok"]
+    },
+    {
+      "id": "antsirabe-reis-felder-life-v2",
+      "description": "Antsirabe környékén elterülő rizsföldek, amelyek a helyi agrárkultúra és gazdálkodás központjai.",
+      "facts": ["Agrárkultúra", "Rizstermesztés", "Fennsíki gazdálkodás"]
+    },
+    {
+      "id": "nosy-tanikely-marine-life-v2",
+      "description": "Nosy Tanikely tengeri rezervátum, amely a sznorkelezők és búvárok paradicsoma.",
+      "facts": ["Tengeri rezervátum", "Búvárparadicsom", "Víz alatti élővilág"]
+    },
+    {
+      "id": "toliara-botanischer-garten-life-v2",
+      "description": "Toliara város botanikus kertje, amely a régió szárazföldi növényritkaságait mutatja be.",
+      "facts": ["Botanikus kert", "Növényritkaságok", "Szárazföldi flóra"]
+    },
+    {
+      "id": "manakara-kanal-life-v2",
+      "description": "A Pangalanes-csatorna része Manakara közelében, amely kulcsfontosságú vízi kereskedelmi út.",
+      "facts": ["Vízi csatorna", "Kereskedelmi útvonal", "Trópusi környezet"]
+    },
+    {
+      "id": "mahajanga-strand-life-v2",
+      "description": "Mahajanga homokos strandjai, amelyek a lakosság kedvelt kikapcsolódási helyszínei.",
+      "facts": ["Homokos strand", "Tengerparti élet", "Turisztikai pont"]
+    }
+  ]
+}

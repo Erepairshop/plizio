@@ -1,0 +1,54 @@
+{
+  "lang": "de",
+  "country": "Maldives",
+  "files": [
+    "lib/visualLab/data/poiExtraMaldivesReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "reethi-beach-relief-v2",
+      "description": "Ein beliebter, von Korallenriffen umgebener Strand auf der Insel Fonimagoodhoo im Baa-Atoll. Er ist bekannt für sein klares Wasser und die reiche marine Biodiversität.",
+      "facts": ["Lage: Baa-Atoll", "Umgeben von Korallenriffen", "Klares türkisfarbenes Wasser", "Ideal zum Schnorcheln"]
+    },
+    {
+      "id": "hulhumale-beach-relief-v2",
+      "description": "Ein künstlich angelegter Strand auf der Insel Hulhumalé, der durch Landgewinnung nahe der Hauptstadt Malé entstand. Er bietet moderne Erholungsmöglichkeiten für Einheimische und Touristen.",
+      "facts": ["Künstlich erschaffen", "Nähe zum Flughafen Malé", "Öffentlicher Erholungsraum", "Gute Infrastruktur"]
+    },
+    {
+      "id": "nika-island-beach-relief-v2",
+      "description": "Nika Island bietet exklusive Privatstrände, die für ihre Abgeschiedenheit und üppige Vegetation bekannt sind. Die Insel ist ein Rückzugsort für Erholungssuchende im Ari-Atoll.",
+      "facts": ["Lage: Ari-Atoll", "Private Strandabschnitte", "Üppige tropische Vegetation", "Exklusives Resort"]
+    },
+    {
+      "id": "meeru-island-beach-relief-v2",
+      "description": "Ein langer, weißer Sandstrand, der die gesamte Insel Meerufenfushi umgibt. Der Strand zeichnet sich durch flach abfallendes Wasser und eine entspannte Atmosphäre aus.",
+      "facts": ["Lage: Nord-Malé-Atoll", "Feiner weißer Sand", "Flach abfallendes Ufer", "Beliebtes Urlaubsresort"]
+    },
+    {
+      "id": "omadhoo-beach-relief-v2",
+      "description": "Ein naturbelassener Strand auf der bewohnten Insel Omadhoo, der authentische Einblicke in das Leben der Einheimischen gewährt. Das Riff bietet exzellente Bedingungen für Taucher.",
+      "facts": ["Lage: Ari-Atoll", "Authentische Inselatmosphäre", "Reiches Hausriff", "Weniger touristisch überlaufen"]
+    },
+    {
+      "id": "kuredu-beach-relief-v2",
+      "description": "Dieser Strand erstreckt sich über einen langen, markanten Sandstreifen am nordöstlichen Ende der Insel Kuredu im Lhaviyani-Atoll. Er ist für seine Lagune und Wassersportaktivitäten bekannt.",
+      "facts": ["Lage: Lhaviyani-Atoll", "Markanter Sandstreifen", "Große Lagune", "Wassersport-Zentrum"]
+    },
+    {
+      "id": "fihalhohi-beach-relief-v2",
+      "description": "Der Fihalhohi-Strand bietet eine klassische Malediven-Kulisse mit hohen Palmen und direktem Zugang zum Hausriff. Die Insel ist für ihr ökologisches Bewusstsein bekannt.",
+      "facts": ["Lage: Süd-Malé-Atoll", "Direkter Zugang zum Hausriff", "Dichter Palmenbewuchs", "Ökologisch orientiert"]
+    },
+    {
+      "id": "sun-island-beach-relief-v2",
+      "description": "Ein weitläufiger Strandabschnitt auf der Insel Nalaguraidhoo, einem der größten Resorts der Malediven. Die Sandstrände bieten viel Platz für diverse Strandaktivitäten.",
+      "facts": ["Lage: Süd-Ari-Atoll", "Großflächiges Resort", "Breite Sandstrände", "Umfangreiches Freizeitangebot"]
+    },
+    {
+      "id": "ihuru-beach-relief-v2",
+      "description": "Die Insel Ihuru ist klein und kreisförmig, umgeben von einem der am besten erhaltenen Hausriffe der Malediven. Der Strand ist ideal für Schnorchler und Taucher.",
+      "facts": ["Lage: Nord-Malé-Atoll", "Kompakte Inselgröße", "Hervorragendes Hausriff", "Ideal für Unterwasseraktivitäten"]
+    }
+  ]
+}

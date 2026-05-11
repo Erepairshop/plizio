@@ -1,0 +1,85 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "Tete Community Park is a green gathering space for locals, offering playgrounds and recreational areas.",
+      "facts": ["Green space", "Tete", "Recreational area"]
+    },
+    {
+      "id": "inchope-animal-habitat-life-v2",
+      "description": "Inchope provides crucial wildlife corridors and habitats, essential for the migration of various animal species.",
+      "facts": ["Wildlife corridors", "Habitats", "Animal migration"]
+    },
+    {
+      "id": "chimoio-kids-green-life-v2",
+      "description": "Chimoio Green Life is a project promoting sustainable agriculture and environmental education for children.",
+      "facts": ["Sustainable agriculture", "Environmental education", "Chimoio"]
+    },
+    {
+      "id": "vilankulo-marine-kid-life-v2",
+      "description": "Vilankulo Marine serves as the gateway to the Bazaruto Archipelago, renowned for its diving and snorkeling sites.",
+      "facts": ["Bazaruto Archipelago", "Diving", "Snorkeling"]
+    },
+    {
+      "id": "inhambane-kid-discovery-life-v2",
+      "description": "Inhambane offers historical architecture and access to beautiful beaches and diverse dive sites.",
+      "facts": ["Historical architecture", "Beautiful beaches", "Dive sites"]
+    },
+    {
+      "id": "gaza-farm-kids-life-v2",
+      "description": "Gaza Farm is an agricultural project aimed at fostering local development and providing food security.",
+      "facts": ["Agricultural project", "Local development", "Food security"]
+    },
+    {
+      "id": "cabodelgado-mango-life-v2",
+      "description": "Cabo Delgado province is known for its mango cultivation, a significant contributor to the local economy.",
+      "facts": ["Mango cultivation", "Cabo Delgado", "Local economy"]
+    },
+    {
+      "id": "tete-agri-project-life-v2",
+      "description": "Tete Agri Project is an initiative focused on agricultural development and food security in the Tete region.",
+      "facts": ["Agricultural development", "Tete region", "Food security"]
+    },
+    {
+      "id": "lake-niassa-nature-v2",
+      "description": "Lake Niassa, also known as Lake Malawi, is one of Africa's largest and deepest lakes, with rich fish diversity.",
+      "facts": ["Lake Malawi", "Large and deep lake", "Rich fish diversity"]
+    },
+    {
+      "id": "gorongosa-mountain-nature-v2",
+      "description": "Gorongosa Mountain is part of Gorongosa National Park, offering diverse flora and fauna at various altitudes.",
+      "facts": ["Gorongosa National Park", "Diverse flora and fauna", "Various altitudes"]
+    },
+    {
+      "id": "limpopo-river-nature-v2",
+      "description": "The Limpopo River is a major river in Southern Africa, flowing through Mozambique and forming a vital ecosystem.",
+      "facts": ["Major river", "Southern Africa", "Vital ecosystem"]
+    },
+    {
+      "id": "primeiras-and-segundas-nature-v2",
+      "description": "The Primeiras and Segundas Islands are a protected archipelago with pristine coral reefs and mangrove forests.",
+      "facts": ["Protected archipelago", "Coral reefs", "Mangrove forests"]
+    },
+    {
+      "id": "maputo-bay-nature-v2",
+      "description": "Maputo Bay is a large natural harbor, home to diverse marine life and important for local fisheries.",
+      "facts": ["Natural harbor", "Diverse marine life", "Local fisheries"]
+    },
+    {
+      "id": "quirimbas-archipelago-nature-v2",
+      "description": "Quirimbas Archipelago is a national park of 32 islands, known for its pristine beauty and marine biodiversity.",
+      "facts": ["National park", "Pristine beauty", "Marine biodiversity"]
+    },
+    {
+      "id": "romue-mountain-nature-v2",
+      "description": "Romué Mountain is a prominent peak in Manica Province, harboring rich vegetation and rare bird species.",
+      "facts": ["Prominent peak", "Manica Province", "Rare bird species"]
+    }
+  ]
+}

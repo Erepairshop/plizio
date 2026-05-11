@@ -1,0 +1,54 @@
+{
+  "lang": "hu",
+  "country": "Somalia",
+  "files": [
+    "lib/visualLab/data/poiExtraSomaliaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jowhar-floodplain-nature-v2",
+      "description": "Ártéri síkság a Shebelle mentén, fontos mezőgazdasági terület.",
+      "facts": ["Központi régió", "Ártér", "Öntözött mezők"]
+    },
+    {
+      "id": "mudug-savanna-nature-v2",
+      "description": "Szavannás táj, ahol a nomád állattartás dominál.",
+      "facts": ["Mudug régió", "Szavanna", "Nomád legelők"]
+    },
+    {
+      "id": "cal-madow-forest-nature-v2",
+      "description": "Az északi hegység erdősége, különleges ökoszisztémával.",
+      "facts": ["Északi hegyek", "Örökzöld erdő", "Biodiverzitás"]
+    },
+    {
+      "id": "golis-northern-slope-nature-v2",
+      "description": "A hegység északi lejtője, amely drámai kilátást nyújt a tengerre.",
+      "facts": ["Északi lejtő", "Hegyi öv", "Tengeri panoráma"]
+    },
+    {
+      "id": "karkar-mountains-nature-v2",
+      "description": "Kietlen hegylánc a száraz északi régióban.",
+      "facts": ["Északi régió", "Sivatagi hegyek", "Kietlen táj"]
+    },
+    {
+      "id": "ras-xaafuun-nature-v2",
+      "description": "Afrika legkeletibb pontja, lenyűgöző tengerparti sziklákkal.",
+      "facts": ["Bari régió", "Keleti végpont", "Sziklás part"]
+    },
+    {
+      "id": "burao-valley-nature-v2",
+      "description": "Völgyekből álló terület, hagyományos állattenyésztő központ.",
+      "facts": ["Togdheer régió", "Nomád központ", "Száraz völgyek"]
+    },
+    {
+      "id": "gardafui-coast-nature-v2",
+      "description": "A szarv csúcsán található partvidék, erős áramlatokkal.",
+      "facts": ["Afrikai szarv", "Partvidék", "Tengeri áramlatok"]
+    },
+    {
+      "id": "ayaha-plains-nature-v2",
+      "description": "Széles síkságok, amelyek fontosak a helyi ökoszisztémában.",
+      "facts": ["Szomáliai fennsík", "Síkság", "Legelő"]
+    }
+  ]
+}

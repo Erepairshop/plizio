@@ -1,0 +1,62 @@
+{
+  "lang": "hu",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoLifeV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ma-hassan-tower-history-v2",
+      "description": "Rabat jelképes, befejezetlen minaretje, amelyet a 12. században kezdtek el építeni.",
+      "facts": ["1195-ben alapították", "Yacoub al-Mansur építtette", "44 méter magas", "Almohad építészet"]
+    },
+    {
+      "id": "ma-tinmal-mosque-history-v2",
+      "description": "Az Atlasz-hegységben elrejtett középkori mecset, az Almohad-dinasztia szellemi központja volt.",
+      "facts": ["1156-ban épült", "Tinmel településen található", "Almohad stílus", "Világörökségi helyszín"]
+    },
+    {
+      "id": "ma-dar-al-makhzen-rabat-history-v2",
+      "description": "A marokkói király hivatalos rabati rezidenciája, amely a város történelmi magjában fekszik.",
+      "facts": ["1864-ben épült", "Királyi palota", "Alawita stílus", "Rabat adminisztratív központja"]
+    },
+    {
+      "id": "marrakech-palmeraie-kid-landmark-life-v2",
+      "description": "Hatalmas pálmaliget Marrakech határában, amely népszerű kikapcsolódási hely a családok számára.",
+      "facts": ["Több ezer pálmafa", "Tevegelési lehetőség", "12. századi eredet", "Marrakech oázisa"]
+    },
+    {
+      "id": "berkane-fruit-agriculture-life-v2",
+      "description": "Berkane városa híres a kiváló minőségű citrusféléiről, különösen a narancsáról.",
+      "facts": ["Marokkó narancs-fővárosa", "Termékeny Moulouya-völgy", "Export központ", "Mezőgazdasági régió"]
+    },
+    {
+      "id": "meknes-zoo-kid-landmark-life-v2",
+      "description": "Meknes népszerű állatkertje, ahol az őshonos és egzotikus állatok is megtekinthetők.",
+      "facts": ["Családi program", "Oktatóközpont", "Megőrzési programok", "Központi elhelyezkedés"]
+    },
+    {
+      "id": "sahara-camel-habitat-life-v2",
+      "description": "A Szahara marokkói részén élő dromedárok, a sivatagi élet elengedhetetlen állatai.",
+      "facts": ["Sivatagi életmód", "Tevekaravánok", "Sivatagi turizmus", "Szívós állatfaj"]
+    },
+    {
+      "id": "oued-draa-wetland-life-v2",
+      "description": "A Draa-völgy kiterjedt vizes élőhelye, amely fontos madárvonulási útvonal.",
+      "facts": ["Marokkó leghosszabb folyója", "Oázisok láncolata", "Biodiverzitás", "Sivatagi vízforrás"]
+    },
+    {
+      "id": "chefchaouen-goat-habitat-life-v2",
+      "description": "A Rif-hegység lejtőin legelésző kecskék, amelyek a helyi sajtkészítéshez biztosítják a tejet.",
+      "facts": ["Hegyi legelők", "Kecsketej-termelés", "Rif-hegységi állattartás", "Helyi gazdálkodás"]
+    },
+    {
+      "id": "fes-region-agriculture-life-v2",
+      "description": "Fes környéke változatos mezőgazdasági területekkel rendelkezik, olajbogyó és gabonatermesztéssel.",
+      "facts": ["Olajfaligetek", "Gabonaföldek", "Hagyományos művelés", "Széles völgyek"]
+    }
+  ]
+}

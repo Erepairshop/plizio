@@ -1,0 +1,224 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGeorgiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ge-mtatsminda-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mtatsminda-Park ist der höchstgelegene Freizeit- und Kulturpark von Tiflis und thront auf dem Gipfel des gleichnamigen 'Heiligen Berges' in einer Höhe von etwa 770 Metern über dem Meeresspiegel. Geografisch bietet das Plateau einen unvergleichlichen Panoramablick über das gesamte Kura-Tal und die georgische Hauptstadt, was den Ort zu einem der meistfotografierten Landmarks des Landes macht. Historisch wurde der Park in den 1930er Jahren während der Sowjetära als monumentale Grünanlage für die Bevölkerung konzipiert, wobei das markante Restaurantgebäude am Rand der Klippe als architektonisches Prunkstück diente. Nach einer Phase des Verfalls wurde der Park in den 2000er Jahren grundlegend modernisiert und zu einem vielseitigen Vergnügungspark ausgebaut. Technisch ist der Park vor allem durch die historische Standseilbahn (Funicular) erschlossen, die bereits 1905 in Betrieb genommen wurde und zu den steilsten ihrer Art weltweit gehört. Ein weiteres technologisches Wahrzeichen ist das 80 Meter hohe Riesenrad, das direkt an der Kante des Plateaus steht und zusammen mit dem benachbarten Fernsehturm die nächtliche Silhouette der Stadt prägt. Ökonomisch fungiert Mtatsminda als zentraler Motor für den städtischen Tourismus und bietet eine breite Palette an Dienstleistungen von der gehobenen Gastronomie bis hin zu modernen Fahrgeschäften. Der Park ist zudem eng mit dem Pantheon der georgischen Schriftsteller und öffentlichen Persönlichkeiten verknüpft, das sich am Hang des Berges befindet und die kulturelle Bedeutung des Berges unterstreicht.",
+        "hu": "A Mtacminda-park Tbiliszi legmagasabban fekvő szabadidős és kulturális központja, amely az azonos nevű „Szent hegy” csúcsán, mintegy 770 méteres tengerszint feletti magasságban található. Földrajzilag a fennsík páratlan panorámát nyújt az egész Kura-völgyre és a grúz fővárosra, így az ország egyik legtöbbet fényképezett helyszíne. Történelmileg a parkot az 1930-as években, a szovjet korszakban alakították ki monumentális zöldövezetként, ahol a szikla peremén álló jellegzetes étteremépület az építészeti büszkeség jelképe volt. A 2000-es években a park teljes körű modernizáción esett át, és sokoldalú vidámparkká alakult. Technikai szempontból a parkot elsősorban a történelmi sikló (funicular) köti össze a várossal, amelyet 1905-ben adtak át, és a világ egyik legmeredekebb ilyen pályája. Egy másik technológiai jelkép a 80 méter magas óriáskerék, amely közvetlenül a fennsík szélén áll, és az éjszakai kivilágításával a szomszédos tévétoronnyal együtt meghatározza a város sziluettjét. Gazdaságilag a Mtacminda a városi turizmus központi motorja, ahol a színvonalas gasztronómiától a modern vidámparki játékokig minden megtalálható. A park kulturális jelentőségét növeli a hegy oldalában található Nemzeti Panteon is, ahol a legjelentősebb grúz írók és közéleti személyiségek nyugszanak.",
+        "ro": "Parcul Mtatsminda este cel mai înalt centru de agrement și cultură din Tbilisi, situat pe vârful „Muntelui Sfânt” la o altitudine de aproximativ 770 de metri deasupra nivelului mării. Din punct de vedere geografic, platoul oferă o panoramă inegalabilă asupra întregii văi a râului Kura și a capitalei georgiene, fiind unul dintre cele mai fotografiate repere ale țării. Istoric, parcul a fost conceput în anii 1930, în perioada sovietică, ca o zonă verde monumentală pentru populație, clădirea restaurantului de pe marginea falezei fiind piesa centrală a ansamblului arhitectural. După o perioadă de degradare, parcul a fost modernizat radical în anii 2000, transformându-se într-un parc de distracții modern. Tehnic, accesul principal este asigurat de funicularul istoric, inaugurat în 1905, care este unul dintre cele mai abrupte din lume. Un alt simbol tehnologic este roata panoramică înaltă de 80 de metri, amplasată chiar pe marginea platoului, care, alături de turnul de televiziune adiacent, definește silueta nocturnă a orașului. Economic, Mtatsminda funcționează ca un motor central pentru turismul urban, oferind servicii de la gastronomie fină la atracții moderne de divertisment. Parcul este strâns legat de Panteonul scriitorilor și personalităților publice georgiene, situat pe versantul muntelui, subliniind importanța culturală a locației.",
+        "en": "Mtatsminda Park is the highest amusement and cultural park in Tbilisi, perched on the summit of the 'Holy Mountain' at an elevation of approximately 770 meters above sea level. Geographically, the plateau offers an unparalleled panoramic view of the entire Kura Valley and the Georgian capital, making it one of the most photographed landmarks in the country. Historically, the park was established in the 1930s during the Soviet era as a monumental green space for the public, with the distinctive restaurant building on the cliff's edge serving as its architectural masterpiece. After a period of decline, the park underwent extensive modernization in the 2000s, transforming into a versatile amusement park. Technically, the park is primarily accessed via the historic funicular, which opened in 1905 and ranks among the steepest in the world. Another technological landmark is the 80-meter-high Ferris wheel located right on the edge of the plateau, which, along with the adjacent TV tower, defines the city's nocturnal skyline. Economically, Mtatsminda acts as a central driver for urban tourism, offering a wide range of services from fine dining to modern thrill rides. The park is also intimately connected to the Pantheon of Georgian Writers and Public Figures located on the mountain's slope, further cementing the site's cultural prestige."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Höchster Punkt von Tiflis mit Vergnügungseinrichtungen.",
+          "Erschlossen durch eine historische Standseilbahn mit 33 Grad Steigung.",
+          "Beherbergt ein 80 Meter hohes Riesenrad an der Plateaukante.",
+          "Ursprünglich im Jahr 1930 als 'Park der Kultur und Erholung' gegründet.",
+          "Standort des berühmten Restaurants 'Funicular' aus der Stalin-Ära.",
+          "Infrastruktur umfasst über 60 Fahrgeschäfte und Attraktionen."
+        ],
+        "hu": [
+          "Tbiliszi legmagasabb pontja, ahol szórakoztató létesítmények működnek.",
+          "Egy 1905-ben épült, 33 fokos meredekségű siklóval közelíthető meg.",
+          "Itt található a város 80 méter magas, ikonikus óriáskereke.",
+          "Eredetileg 1930-ban alapították a Szovjetunió egyik mintaparkjaként.",
+          "A területén fekszik a nemzet nagyjainak végső nyughelyet adó Panteon.",
+          "A park modernizálása a 2000-es években fejeződött be."
+        ],
+        "ro": [
+          "Cea mai înaltă zonă de agrement din capitala Georgiei.",
+          "Accesibil prin intermediul unui funicular istoric cu pantă de 33 de grade.",
+          "Roata panoramică de 80 m înălțime este vizibilă din tot orașul.",
+          "Fondat inițial în 1930 ca un parc al culturii și odihnei în stil sovietic.",
+          "Găzduiește restaurantul emblematic 'Funicular', restaurat recent.",
+          "Punct strategic pentru observarea întregii panorame a Caucazului Mare."
+        ],
+        "en": [
+          "The highest point in Tbilisi featuring modern leisure facilities.",
+          "Accessed by a historic funicular railway built by Belgian engineers.",
+          "Home to a giant 80-meter Ferris wheel at the edge of a cliff.",
+          "Originally opened in 1930 as a model Soviet public park.",
+          "Features the famous 'Funicular' restaurant complex, a culinary landmark.",
+          "The mountain slope contains the Pantheon of prominent Georgians."
+        ]
+      }
+    },
+    {
+      "id": "ge-mushtaidi-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mushtaidi-Park ist eine der traditionsreichsten Grünanlagen von Tiflis und liegt am linken Ufer des Mtkvari im Stadtteil Didube. Die Gründung des Parks um das Jahr 1830 ist eng mit einer faszinierenden historischen Episode verknüpft: Mir-Feteh-Agha, ein hochrangiger schiitischer Geistlicher (Muschtaid) aus dem Iran, suchte in Georgien politisches Asyl und legte den Garten zu Ehren seiner georgischen Frau an. Geografisch bildet der Park eine grüne Lunge in einem dicht besiedelten Viertel nahe dem Dinamo-Stadion. Historisch war der Garten ursprünglich für den Seidenbau von Bedeutung, da der Gründer hier Maulbeerbäume anpflanzen ließ, um die lokale Produktion zu fördern. Ein technischer Pionierschritt war die Eröffnung der weltweit ersten Kindereisenbahn im Jahr 1935 innerhalb des Parks, die bis heute als Schmalspurbahn in Betrieb ist und Generationen von Georgiern geprägt hat. Ökonomisch ist der Park ein wichtiges lokales Erholungszentrum, das vor allem Familien anspricht und durch kleinteilige Gastronomie zur lokalen Wertschöpfung beiträgt. Die botanische Struktur umfasst beeindruckende, über hundert Jahre alte Exemplare von Eichen und Platanen. Architektonisch ist das Eingangsportal im orientalischen Stil ein Hinweis auf die persische Herkunft seines Schöpfers. Der Park bewahrt die Atmosphäre des 19. Jahrhunderts und ist ein lebendiges Beispiel für die multiethnische Geschichte der georgischen Hauptstadt.",
+        "hu": "A Mustaidi-park Tbiliszi egyik legrégebbi és legpatinásabb közparkja, amely a Mtkvari-folyó bal partján, a Didube negyedben található. A park alapítása az 1830-as évekre nyúlik vissza, és egy különleges történelmi eseményhez kötődik: Mir-Feteh-Aga, egy Iránból származó magas rangú síita vallási vezető (mustaidi) alapította, aki Grúziában kért politikai menedékjogot, és a kertet grúz felesége tiszteletére hozta létre. Földrajzilag a park zöld oázisként szolgál a sűrűn beépített városrészben, a Dinamo Stadion közelében. Történelmileg a kert a selyemhernyó-tenyésztés központja is volt, mivel alapítója eperfacsemetéket ültetett a helyi selyemgyártás fellendítésére. Technikai mérföldkőnek számít, hogy 1935-ben itt nyílt meg a világ első gyermekvasútja, amely keskeny nyomtávú pályán a mai napig üzemel, és generációk számára jelent meghatározó emléket. Gazdaságilag a park a helyi rekreáció fontos központja, ahol a kisléptékű vendéglátás biztosít megélhetést. Botanikai szempontból a park több mint százéves tölgyekkel és platánokkal büszkélkedhet. Építészetileg a park bejárata keleti stílusjegyeket hordoz, utalva az alapító perzsa származására. A Mustaidi-park megőrizte a 19. század hangulatát, és a grúz főváros multietnikus múltjának élő bizonyítéka.",
+        "ro": "Parcul Mushtaidi este unul dintre cele mai vechi și tradiționale spații verzi din Tbilisi, situat pe malul stâng al râului Mtkvari, în districtul Didube. Fondarea parcului în jurul anului 1830 este legată de o figură istorică fascinantă: Mir-Feteh-Agha, un lider spiritual șiit (Mushtaidi) din Iran, care a solicitat azil politic în Georgia și a creat grădina în onoarea soției sale georgiene. Din punct de vedere geografic, parcul reprezintă o oază de liniște într-un cartier dens, situat lângă stadionul Dinamo. Istoric, grădina a avut o importanță deosebită pentru sericicultură, fondatorul plantând aici duzi pentru a stimula producția locală de mătase. Un jalon tehnic mondial a fost inaugurarea primei căi ferate pentru copii din lume în anul 1935, în interiorul parcului, care funcționează și astăzi pe ecartament îngust. Economic, parcul este un centru vital de recreere pentru familii, susținând mici afaceri locale în sectorul divertismentului și gastronomiei rurale urbane. Structura botanică a parcului include exemplare seculare de stejar și platan. Arhitectural, portalul de intrare reflectă influențe orientale, amintind de originea persană a creatorului său. Parcul Mushtaidi păstrează atmosfera secolului al XIX-lea și rămâne un exemplu viu al istoriei multietnice a capitalei georgiene.",
+        "en": "Mushtaidi Park is one of the most historic and traditional green spaces in Tbilisi, located on the left bank of the Mtkvari River in the Didube district. Its establishment around 1830 is linked to a fascinating historical narrative: it was founded by Mir-Feteh-Agha, a high-ranking Shiite cleric (Mushtaidi) from Iran who sought political asylum in Georgia and created the garden in honor of his Georgian wife. Geographically, the park serves as a vital green lung in a densely populated neighborhood near the Dinamo Arena. Historically, the garden was significant for the silk industry, as the founder planted mulberry trees to promote local silk production. A major technical and historical milestone was the opening of the world's first children's railway in 1935 within the park, which continues to operate on a narrow-gauge track today. Economically, the park is a primary local recreation center, particularly for families, and supports local small-scale hospitality businesses. Its botanical collection features impressive oak and plane trees that are over a century old. Architecturally, the oriental-style entrance portal pays homage to its founder's Persian heritage. Mushtaidi Park preserves the atmosphere of the 19th century and stands as a living testament to the multi-ethnic history of the Georgian capital."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet um 1830 von einem persischen Flüchtling für seine Frau.",
+          "Beherbergt die weltweit erste Kindereisenbahn (eröffnet 1935).",
+          "Wichtiger Standort der historischen Seidenraupenzucht in Georgien.",
+          "Eingangsportal zeigt seltene persische Einflüsse in der Tifliser Architektur.",
+          "Besitzt einen Bestand an über 100 Jahre alten Platanen.",
+          "Liegt in unmittelbarer Nähe zum georgischen Nationalstadion."
+        ],
+        "hu": [
+          "1830 körül alapította egy Iránból menekült vallási vezető.",
+          "Itt nyílt meg a világ legelső gyermekvasútja 1935-ben.",
+          "A grúz selyemhernyó-tenyésztés egyik történelmi központja volt.",
+          "Keleti stílusú díszkapuja egyedülálló Tbiliszi építészetében.",
+          "Százévesnél idősebb platánok és tölgyek alkotják a flóráját.",
+          "Didube városrész legfontosabb közösségi és családi pihenőhelye."
+        ],
+        "ro": [
+          "Creat în 1830 de Mir-Feteh-Agha, un exilat politic iranian.",
+          "Găzduiește prima cale ferată pentru copii din lume (1935).",
+          "Utilizat istoric ca stațiune experimentală pentru creșterea viermilor de mătase.",
+          "Arhitectura intrării păstrează motive decorative persane autentice.",
+          "Include o colecție valoroasă de arbori seculari de foioase.",
+          "Situat strategic în apropierea arenei naționale de fotbal Dinamo."
+        ],
+        "en": [
+          "Founded circa 1830 by a Persian cleric in exile for his Georgian wife.",
+          "The site of the world's very first children's railway, opened in 1935.",
+          "Historically functioned as a center for the Georgian silk industry.",
+          "The entrance features unique 19th-century Persian-influenced architecture.",
+          "Home to diverse botanical specimens including century-old plane trees.",
+          "A key recreational landmark in the Didube district of Tbilisi."
+        ]
+      }
+    },
+    {
+      "id": "ge-tsitsinatela-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Tsitsinatela-Vergnügungspark ist das größte Freizeitzentrum an der georgischen Schwarzmeerküste und liegt in der Region Guria, unweit der Grenze zu Adscharien bei Schekwetili. Der Name 'Tsitsinatela' bedeutet auf Georgisch 'Glühwürmchen', was auf die spektakuläre nächtliche Beleuchtung der Anlage anspielt. Geografisch profitiert der Park von seiner Lage in einem Pinienwald direkt an der Küstenstraße, was ihn zu einem zentralen Anlaufpunkt für Urlauber aus Batumi, Ureki und Kobuleti macht. Historisch wurde der Park im Jahr 2006 im Rahmen der touristischen Erschließung der georgischen Küste eröffnet. Ökonomisch ist Tsitsinatela von hoher Bedeutung für die Region Guria, da er während der Sommermonate hunderte saisonale Arbeitsplätze schafft und die Attraktivität der Küste für in- und ausländische Touristen massiv steigert. Technisch bietet der Park über 30 verschiedene Attraktionen, darunter ein Riesenrad, Achterbahnen und Wasserfahrgeschäfte, die nach internationalen Sicherheitsstandards betrieben werden. Ein besonderes Merkmal ist, dass der Park erst nach Sonnenuntergang seine volle Dynamik entfaltet, wenn das Lichtdesign die Fahrgeschäfte in bunte Farben taucht. Die Nähe zur Black Sea Arena und dem Miniaturpark macht Tsitsinatela zu einem Teil eines größeren Unterhaltungsclusters, das die moderne touristische Infrastruktur Georgiens repräsentiert.",
+        "hu": "A Cicinatela Vidámpark a grúz fekete-tengeri partvidék legnagyobb szórakoztató központja, amely Guria régióban, Sekvetili mellett található. A „Cicinatela” név grúz nyelven „szentjánosbogarat” jelent, ami a park látványos éjszakai kivilágítására utal. Földrajzilag a park egy fenyőerdőben, közvetlenül a parti főút mellett fekszik, így központi célpontja a Batumiból, Urekiből és Kobuletiből érkező nyaralóknak. Történelmileg a parkot 2006-ban nyitották meg a grúz tengerpart turisztikai fejlesztésének részeként. Gazdaságilag a Cicinatela kiemelt jelentőségű Guria régió számára, mivel a nyári hónapokban több száz szezonális munkahelyet biztosít, és jelentősen növeli a partvidék vonzerejét a hazai és külföldi turisták körében. Technikai szempontból a park több mint 30 különböző attrakciót kínál, köztük óriáskereket, hullámvasutakat és vízi játékokat, amelyek nemzetközi biztonsági előírásoknak felelnek meg. Különlegessége, hogy a park csak naplemente után kel igazán életre, amikor a fénydizájn színes fényekbe öltözteti a játékokat. A Black Sea Arena és a Miniatűr Park közelsége miatt a Cicinatela egy nagyobb szórakoztató negyed része, amely a modern grúz turisztikai infrastruktúrát képviseli.",
+        "ro": "Parcul de distracții Tsitsinatela este cel mai mare centru de agrement de pe coasta georgiană a Mării Negre, situat în regiunea Guria, lângă localitatea Shekvetili. Numele „Tsitsinatela” se traduce prin „Licurici”, făcând referire la iluminatul nocturn spectaculos al întregului complex. Din punct de vedere geografic, parcul beneficiază de amplasarea într-o pădure de pini de coastă, chiar lângă drumul principal, fiind un punct de atracție major pentru turiștii cazați în Batumi, Ureki sau Kobuleti. Istoric, parcul a fost inaugurat în anul 2006, marcând începutul dezvoltării turistice moderne a litoralului georgian. Economic, Tsitsinatela este vital pentru economia regiunii Guria, generând sute de locuri de muncă sezoniere și crescând atractivitatea zonei pentru fluxurile de turiști internaționali. Din punct de vedere tehnic, parcul dispune de peste 30 de atracții, inclusiv o roată panoramică, roller-coastere și jocuri acvatice, toate operate conform standardelor internaționale de siguranță. O caracteristică distinctivă este programul de funcționare, parcul activându-se plenar după apusul soarelui, când designul de lumini transformă instalațiile într-un spectacol vizual policrom. Proximitatea față de Black Sea Arena și Parcul Miniaturilor face din Tsitsinatela o piesă centrală a clusterului de divertisment de pe litoral.",
+        "en": "Tsitsinatela Amusement Park is the largest leisure facility on Georgia's Black Sea coast, located in the Guria region near Shekvetili. The name 'Tsitsinatela' means 'Firefly' in Georgian, a reference to the park's spectacular nocturnal light displays. Geographically, the park is situated within a coastal pine forest directly off the main highway, making it an accessible destination for vacationers from Batumi, Ureki, and Kobuleti. Historically, the park opened in 2006 as part of a strategic initiative to enhance the tourism infrastructure of the Georgian coastline. Economically, Tsitsinatela is a major asset for the Guria region, providing hundreds of seasonal jobs and significantly boosting the area's appeal to both domestic and international visitors. Technically, the park features over 30 diverse attractions, including a massive Ferris wheel, roller coasters, and water rides, all maintained to international safety standards. A unique operational feature is that the park primarily comes to life after sunset, when elaborate light designs bathe the rides in vibrant colors. Its location near the Black Sea Arena and the Georgia in Miniatures park makes Tsitsinatela part of a prominent entertainment hub representing Georgia's modern tourism growth."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Größter Vergnügungspark an der georgischen Schwarzmeerküste.",
+          "Name bedeutet 'Glühwürmchen' wegen der intensiven Nachtbeleuchtung.",
+          "Bietet über 30 verschiedene Attraktionen für alle Altersgruppen.",
+          "Gelegen in einem schützenden Pinienwaldgürtel bei Shekvetili.",
+          "Wurde im Jahr 2006 als privates Investitionsprojekt eröffnet.",
+          "Öffnet während der Saison meist erst am späten Nachmittag bis tief in die Nacht."
+        ],
+        "hu": [
+          "A grúz tengerpart legnagyobb és legnépszerűbb vidámparkja.",
+          "A neve grúzul 'szentjánosbogarat' jelent a fényei miatt.",
+          "Több mint 30 különféle játékkal és attrakcióval rendelkezik.",
+          "Közvetlenül a tengerparti fenyőerdőben, Sekvetili szélén fekszik.",
+          "A park 2006 óta várja a látogatókat a nyári szezonban.",
+          "Különlegessége az éjszakai üzemmód és a látványos fénytechnika."
+        ],
+        "ro": [
+          "Cel mai mare parc tematic de pe litoralul Mării Negre din Georgia.",
+          "Etimologia numelui ('Licurici') reflectă designul de lumini nocturne.",
+          "Include o gamă de peste 30 de atracții mecanice și acvatice.",
+          "Localizat în regiunea Guria, într-o zonă de microclimat marin.",
+          "Inaugurat în 2006, devenind inima divertismentului din Shekvetili.",
+          "Funcționează preponderent pe timp de noapte în perioada estivală."
+        ],
+        "en": [
+          "The largest and most modern amusement park on the Georgian coast.",
+          "Named 'Tsitsinatela' (Firefly) for its iconic night-time illumination.",
+          "Features a diverse range of over 30 rides and entertainment zones.",
+          "Strategically located in the pine forests of the Shekvetili resort area.",
+          "Established in 2006, triggering further coastal tourism developments.",
+          "Primarily operates during the evening hours to showcase light displays."
+        ]
+      }
+    },
+    {
+      "id": "ge-kakheti-vineyards-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Weinberge von Kachetien im Osten Georgiens sind das Herzstück einer über 8.000-jährigen Weinbautradition, die von der UNESCO als immaterielles Weltkulturerbe anerkannt ist. Geografisch erstrecken sich die Weinberge über die weiten Ebenen des Alasani- und Iori-Tals, geschützt durch die massiven Ausläufer des Großen Kaukasus. Das Relief und das spezifische Terroir mit seinen kalkhaltigen und alluvialen Böden bieten ideale Bedingungen für über 500 einheimische Rebsorten, wobei Saperavi (Rotwein) und Rkatsiteli (Weißwein) dominieren. Historisch gilt Georgien als die 'Wiege des Weins', was durch archäologische Funde von Qvevris (Tongefäße) belegt wird. Ökonomisch ist der Weinbau der wichtigste Agrarsektor Kachetiens; er sichert die Existenz zehntausender Kleinbauern und ist ein zentrales Exportgut für globale Märkte. Technisch wird der Wein sowohl nach der traditionellen georgischen Methode in unterirdischen Qvevris als auch nach modernem europäischem Standard in Edelstahltanks ausgebaut. Die Weinberge sind heute das Zentrum des georgischen Weintourismus, wobei Weinstraßen die historischen Städte Telawi, Signagi und Kwareli verbinden. Die Kulturlandschaft Kachetiens ist durch die harmonische Abfolge von Rebreihen, Klöstern und Wachtürmen geprägt, was die tiefe spirituelle Verbindung des georgischen Volkes mit dem Weinbau widerspiegelt.",
+        "hu": "A kelet-grúziai Kaheti régió szőlőültetvényei egy több mint 8000 éves borászati hagyomány központjai, amelyet az UNESCO a szellemi világörökség részeként ismer el. Földrajzilag az ültetvények az Alazani- és az Iori-völgy tágas síkságain terülnek el, a Nagy-Kaukázus masszív vonulatai által védve. A domborzat és a specifikus terroir, meszes és hordalékos talajaival, ideális feltételeket biztosít több mint 500 őshonos szőlőfajta számára, amelyek közül a Saperavi (vörös) és a Rkatsiteli (fehér) a legmeghatározóbb. Történelmileg Grúziát a „bor bölcsőjeként” tartják számon, amit a 8000 éves, szőlőmagvakat tartalmazó kvevrik (agyagedények) régészeti leletei is bizonyítanak. Gazdaságilag a szőlőtermesztés Kaheti legfontosabb agrárágazata; több tízezer kisgazda megélhetését biztosítja, és az ország egyik legfontosabb exportcikke. Technikai szempontból a bor készítése egyszerre zajlik a hagyományos grúz módszerrel, föld alatti kvevrikben, valamint modern európai technológiával, acéltartályokban. A szőlőültetvények ma a grúz borturizmus központjai, ahol borutak kötik össze Telavi, Szignagi és Kvareli történelmi városait. Kaheti kultúrtáját a szőlősorok, kolostorok és őrtoronyok harmonikus váltakozása jellemzi, tükrözve a grúz nép és a borászat közötti mély spirituális kapcsolatot.",
+        "ro": "Podgoriile din Kakheti, situate în estul Georgiei, reprezintă nucleul unei tradiții viticole de peste 8.000 de ani, recunoscută de UNESCO ca patrimoniu cultural imaterial. Din punct de vedere geografic, viile se întind pe câmpiile vaste ale văilor Alazani și Iori, fiind protejate de contraforturile masive ale Caucazului Mare. Relieful și terroir-ul specific, cu soluri calcaroase și aluvionare, oferă condiții ideale pentru peste 500 de soiuri de struguri autohtoni, dintre care domină Saperavi (roșu) și Rkatsiteli (alb). Istoric, Georgia este considerată „leagănul vinului”, fapt demonstrat de descoperirile arheologice ale vaselor qvevri ce conțin urme de vinificație din neolitic. Economic, viticultura este cel mai important sector agrar din Kakheti, asigurând subzistența a zeci de mii de mici producători și fiind un produs principal de export. Din punct de vedere tehnic, vinul este produs atât prin metoda tradițională georgiană în vase de lut îngropate (qvevri), cât și prin metode europene moderne în tancuri de inox. Podgoriile sunt astăzi centrul turismului enologic georgian, rutele vinului conectând orașele istorice Telavi, Sighnaghi și Kvareli. Peisajul cultural din Kakheti este definit de succesiunea armonioasă de rânduri de viță-de-vie, mănăstiri și turnuri de veghe, reflectând legătura spirituală profundă a poporului georgian cu vița-de-vie.",
+        "en": "The vineyards of Kakheti in eastern Georgia are the heart of a winemaking tradition spanning over 8,000 years, recognized by UNESCO as Intangible Cultural Heritage. Geographically, the vineyards sprawl across the vast plains of the Alazani and Iori valleys, sheltered by the massive foothills of the Greater Caucasus. The relief and specific terroir, characterized by calcareous and alluvial soils, provide ideal conditions for over 500 indigenous grape varieties, with Saperavi (red) and Rkatsiteli (white) being the most prominent. Historically, Georgia is regarded as the 'Cradle of Wine,' supported by archaeological finds of 8,000-year-old qvevris (clay jars) containing grape remains. Economically, viticulture is Kakheti's most vital agricultural sector; it sustains the livelihoods of tens of thousands of smallholders and is a primary export for global markets. Technically, wine is produced using both the traditional Georgian method in subterranean qvevris and modern European methods in stainless steel tanks. The vineyards are now the epicenter of Georgian wine tourism, with dedicated wine routes linking the historic towns of Telavi, Sighnaghi, and Kvareli. The cultural landscape of Kakheti is defined by the harmonious interplay of vine rows, medieval monasteries, and defensive towers, reflecting the deep spiritual bond between the Georgian people and their land."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Älteste kontinuierliche Weinbautradition der Welt (8.000 Jahre).",
+          "UNESCO-Weltkulturerbe für die Weinherstellung in Qvevris.",
+          "Beherbergt über 70% der gesamten Weinanbaufläche Georgiens.",
+          "Klimatisch begünstigt durch die Lage im geschützten Alasani-Tal.",
+          "Hauptrebsorten sind Saperavi (rot) und Rkatsiteli (weiß).",
+          "Zentrum des georgischen Weintourismus mit über 100 Schaukellereien."
+        ],
+        "hu": [
+          "A világ legrégebbi, 8000 éves folyamatos bortermelő vidéke.",
+          "A hagyományos kvevri-borászat az UNESCO szellemi örökség része.",
+          "Itt található Grúzia összes szőlőültetvényének több mint 70%-a.",
+          "Az Alazani-völgy mikroklímája optimális a szőlő éréséhez.",
+          "A legfontosabb helyi fajták a Saperavi és a Rkatsiteli.",
+          "A régióban több mint 500 őshonos grúz szőlőfajtát gondoznak."
+        ],
+        "ro": [
+          "Regiunea deține recordul mondial pentru cea mai veche vinificație (8.000 ani).",
+          "Metoda tradițională qvevri este protejată de UNESCO din 2013.",
+          "Kakheti concentrează peste 70% din producția totală de vin a Georgiei.",
+          "Valea Alazani oferă un terroir unic cu soluri bogate în minerale.",
+          "Soiul Saperavi este renumit pentru potențialul său mare de învechire.",
+          "Include crame istorice celebre precum Tsinandali și Kindzmarauli."
+        ],
+        "en": [
+          "The world's oldest continuous winemaking region, dating back 8,000 years.",
+          "The traditional qvevri method is a UNESCO Intangible Cultural Heritage.",
+          "Accounts for more than 70% of Georgia's total vineyard area.",
+          "Sheltered by the Caucasus Mountains, creating a perfect microclimate.",
+          "Primary indigenous grapes include Saperavi and Rkatsiteli.",
+          "Telavi and Kvareli serve as the main industrial and artisanal wine hubs."
+        ]
+      }
+    },
+    {
+      "id": "ge-imereti-tea-plantations-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Teeplantagen von Imeretien in Westgeorgien repräsentieren einen bedeutenden Zweig der georgischen Agrargeschichte, der derzeit eine Renaissance erlebt. Geografisch liegen die Plantagen in den hügeligen Ausläufern des Kleinen Kaukasus, wo das feuchte, subtropische Klima ideale Bedingungen für den Anbau der Teepflanze (Camellia sinensis) bietet. Historisch wurde der Teeanbau im 19. Jahrhundert durch den Fürsten Miha Eristavi eingeführt und entwickelte sich während der Sowjetära zu einer gigantischen Industrie, die Georgien zum Hauptlieferanten für den gesamten Ostblock machte. Nach dem Zusammenbruch der UdSSR verfielen die Plantagen weitgehend, doch seit 2016 fördert das staatliche Programm 'Georgian Tea' die Wiederbelebung der brachliegenden Flächen. Ökonomisch ist der Teeanbau heute auf hochwertige Bio-Produkte und handwerkliche Verarbeitung spezialisiert, die zunehmend in europäische Märkte exportiert werden. Technisch gesehen zeichnet sich der georgische Tee durch seine Frostresistenz aus, da die kühlen Winter im Kaukasus natürliche Schädlinge reduzieren, was den Einsatz von Pestiziden unnötig macht. Die Plantagen prägen das Landschaftsbild von Imeretien durch ihre sanften, grünen Konturen auf den Terrassenhügeln. Sie sind zudem ein wichtiger Faktor für die ländliche Beschäftigung und den aufkommenden Agrotourismus, bei dem Besucher den Prozess von der Pflückung bis zur Trocknung miterleben können.",
+        "hu": "A nyugat-grúziai Imereti régió teaültetvényei a grúz agrár-történelem jelentős ágát képviselik, amely napjainkban reneszánszát éli. Földrajzilag az ültetvények a Kis-Kaukázus dombos lábainál találhatóak, ahol a párás, szubtrópusi éghajlat ideális feltételeket biztosít a teacserje (Camellia sinensis) termesztéséhez. Történelmileg a teatermesztést a 19. században Miha Eristavi herceg vezette be, majd a szovjet korszakban óriási iparággá fejlődött, amely Grúziát az egész keleti blokk fő beszállítójává tette. A Szovjetunió felbomlása után az ültetvények nagyrészt elnéptelenedtek, de 2016 óta a „Grúz Tea” állami program támogatja a parlagon heverő területek újjáélesztését. Gazdaságilag a teatermesztés ma a kiváló minőségű biotermékekre és a kézműves feldolgozásra összpontosít, amelyeket egyre nagyobb mértékben exportálnak az európai piacokra. Technikai szempontból a grúz tea kiemelkedik fagyállóságával; a kaukázusi hűvös telek természetes módon ritkítják a kártevőket, így nincs szükség növényvédő szerek használatára. Az ültetvények Imereti tájképét szelíd, zöld kontúrjaikkal határozzák meg a teraszos dombokon. Emellett fontos szerepet játszanak a vidéki foglalkoztatásban és a fellendülő agroturizmusban, ahol a látogatók végigkísérhetik a tea útját a szedéstől a szárításig.",
+        "ro": "Plantațiile de ceai din Imereti, vestul Georgiei, reprezintă o ramură semnificativă a istoriei agricole georgiene, care trece în prezent printr-un proces de renaștere. Din punct de vedere geografic, plantațiile sunt situate pe dealurile de la poalele Caucazului Mic, unde climatul subtropical umed oferă condiții ideale pentru cultivarea plantei de ceai (Camellia sinensis). Istoric, cultura ceaiului a fost introdusă în secolul al XIX-lea de principele Miha Eristavi și s-a dezvoltat într-o industrie colosală în perioada sovietică, Georgia devenind principalul furnizor de ceai pentru întreg blocul estic. După colapsul URSS, plantațiile au fost în mare parte abandonate, însă începând cu 2016, programul de stat „Georgian Tea” sprijină revitalizarea suprafețelor lăsate pârloagă. Economic, producția de ceai se concentrează astăzi pe produse bio de înaltă calitate și prelucrare artizanală, fiind exportate tot mai mult pe piețele europene. Din punct de vedere tehnic, ceaiul georgian se distinge prin rezistența sa la îngheț; iernile reci din Caucaz reduc în mod natural dăunătorii, ceea ce face inutilă utilizarea pesticidelor. Plantațiile modelează peisajul regiunii Imereti prin contururile lor verzi și line de pe dealurile terasate. Acestea reprezintă un factor important pentru ocuparea forței de muncă în mediul rural și pentru agroturismul emergent.",
+        "en": "The tea plantations of Imereti in Western Georgia represent a significant chapter of Georgian agricultural history, currently experiencing a notable renaissance. Geographically, these plantations are situated in the rolling foothills of the Lesser Caucasus, where the humid, subtropical climate provides ideal conditions for the cultivation of tea (Camellia sinensis). Historically, tea was introduced in the 19th century by Prince Miha Eristavi and evolved into a massive industry during the Soviet era, making Georgia the primary tea supplier for the entire Eastern Bloc. Following the collapse of the USSR, many plantations fell into ruin, but since 2016, the national 'Georgian Tea' program has spearheaded the rehabilitation of abandoned lands. Economically, current tea production focuses on high-quality organic products and artisanal processing, with increasing exports to European and international markets. Technically, Georgian tea is distinguished by its frost resistance; the cool Caucasian winters naturally suppress pests, eliminating the need for chemical pesticides. The plantations define Imereti’s landscape with their gentle, verdant contours on terraced hillsides. They also play a crucial role in rural employment and the burgeoning agrotourism sector, allowing visitors to experience the tea-making process from leaf plucking to drying."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eingeführt im 19. Jahrhundert durch den georgischen Fürsten Miha Eristavi.",
+          "War während der Sowjetära das viertgrößte Tee-Exportgebiet der Welt.",
+          "Revitalisierung durch das staatliche 'Georgian Tea'-Programm seit 2016.",
+          "Klimatisch bedingter Verzicht auf Pestizide durch kalte Bergwinter.",
+          "Hauptanbaugebiete liegen in Imeretien, Gurien und Adscharien.",
+          "Bekannt für die Produktion von hochwertigem schwarzen und grünen Tee."
+        ],
+        "hu": [
+          "Miha Eristavi herceg honosította meg a teát Grúziában a 19. században.",
+          "A szovjet érában a világ negyedik legnagyobb teaexportőre volt a térség.",
+          "2016 óta állami támogatással zajlik az elhanyagolt ültetvények felújítása.",
+          "A kaukázusi tél miatt a teacserjék vegyszermentesen termeszthetőek.",
+          "Imereti mellett Guria és Adzsara a legfontosabb termőterületek.",
+          "A grúz tea világszerte elismert a magas antioxidáns-tartalma miatt."
+        ],
+        "ro": [
+          "Cultura ceaiului a fost inițiată de prințul Miha Eristavi în anii 1830.",
+          "Georgia asigura circa 95% din necesarul de ceai al Uniunii Sovietice.",
+          "Programul național „Ceaiul Georgian” vizează reabilitarea a 7.000 ha.",
+          "Rezistența la frig a plantelor permite producția de ceai organic pur.",
+          "Plantațiile sunt dispuse pe terase pentru a preveni eroziunea solului.",
+          "Sursă majoră de export către piețele din Germania, Ucraina și Asia."
+        ],
+        "en": [
+          "Introduced in the 19th century by the Georgian nobleman Miha Eristavi.",
+          "Once the fourth largest tea producer globally during the Soviet peak.",
+          "The 'Georgian Tea' state program has revitalized thousands of hectares since 2016.",
+          "Cold winters act as a natural pesticide, allowing for organic certification.",
+          "Imereti is a core region for high-altitude artisanal tea production.",
+          "Georgia is currently positioning itself as a boutique tea exporter to the EU."
+        ]
+      }
+    }
+  ]
+}

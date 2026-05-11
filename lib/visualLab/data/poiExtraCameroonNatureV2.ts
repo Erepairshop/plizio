@@ -27,12 +27,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.1667, 4.2167],
     name: { de: "Kamerunberg", hu: "Kamerun-hegy", ro: "Muntele Camerun", en: "Mount Cameroon" },
-    description: { de: "Ein aktiver Vulkan und der höchste Gipfel im westlichen Zentralafrika.", hu: "Aktív vulkán, Nyugat-Közép-Afrika legmagasabb csúcsa.", ro: "Un vulcan activ și cel mai înalt vârf din vestul Africii Centrale.", en: "Mount Cameroon is the country's highest volcano and one of the most active peaks in West Africa. Its slopes shape the climate and landscapes around Buea and Limbe." },
+    description: { de: "Ein aktiver Vulkan und der höchste Gipfel im westlichen Zentralafrika.", hu: "Aktív vulkán, Nyugat-Közép-Afrika legmagasabb csúcsa.", ro: "Un vulcan activ și cel mai înalt vârf din vestul Africii Centrale.", en: "Mount Cameroon, an active volcano and the highest peak in West Africa, is a majestic natural wonder with diverse ecological zones." },
     facts: {
       de: ["Höhe ca. 4040 Meter.", "Bekannt als Fako.", "Häufige Eruptionen.", "Reiche Flora am Fuß."],
       hu: ["Magassága kb. 4040 méter.", "Fako néven is ismert.", "Gyakori kitörések.", "Gazdag növényvilág a lábánál."],
       ro: ["Înălțime de aproximativ 4040 metri.", "Cunoscut sub numele de Fako.", "Erupții frecvente.", "Floră bogată la poalele muntelui."],
-      en: ["Cameroon's highest peak", "active volcano", "near Buea and Limbe"]
+      en: ["Active volcano", "Highest West African peak", "4,040 meters high", "Diverse eco-zones"]
     },
     descriptionAdvanced: {
       de: "Der Mount Cameroon (Fako) ist der höchste Berg Westafrikas und ein aktiver Vulkan. Seine einzigartige ökologische Zonierung, die vom Fuß bis zum Gipfel reicht, macht ihn zu einem Hotspot der Artenvielfalt und einem der bedeutendsten Naturwahrzeichen Zentralafrikas. Geografie K7 — Gebirge."
@@ -224,12 +224,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-NW",
     coords: [10.45, 6.25],
     name: { de: "Oku-See", hu: "Oku-tó", ro: "Lacul Oku", en: "Lake Oku" },
-    description: { de: "Der Lake Oku ist ein hochgelegener Kratersee im Nordwesten Kameruns. Seine Lage macht ihn zu einem besonderen Gewässer in den Oku-Bergen.", hu: "Az Oku-tó egy magasföldi krátertó a Bamenda-fennsíkon. Környezete gazdag élővilágáról ismert.", ro: "Un lac de crater idilic în munți.", en: "Lake Oku is a crater lake in the Bamenda highlands. It is known for its cool mountain setting and ecological value." },
+    description: { de: "Der Lake Oku ist ein hochgelegener Kratersee im Nordwesten Kameruns. Seine Lage macht ihn zu einem besonderen Gewässer in den Oku-Bergen.", hu: "Az Oku-tó egy magasföldi krátertó a Bamenda-fennsíkon. Környezete gazdag élővilágáról ismert.", ro: "Un lac de crater idilic în munți.", en: "Lake Oku is a serene crater lake nestled in the Kilum-Ijim Forest, known for its unique biodiversity and sacred status among local people." },
     facts: {
       de: ["Kratersee im Hochland", "im Nordwesten Kameruns", "hoch gelegener See"],
       hu: ["magashegységi tó", "krátertó", "gazdag élővilág"],
       ro: ["Lac situat la altitudine.", "Crater vulcanic.", "Climă răcoroasă.", "Habitat important."],
-      en: ["crater lake", "in the Bamenda highlands", "cool mountain setting"]
+      en: ["Crater lake", "Northwest Region", "Kilum-Ijim Forest", "Sacred natural site"]
     }, image: "/poi-images/lake-oku-nature-v2.webp"},
   {
     id: "wouri-river-nature-v2",
@@ -250,12 +250,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.2, 4.15],
     name: { de: "Buea-Gebirge", hu: "Buea-hegység", ro: "Munții Buea", en: "Buea Mountains" },
-    description: { de: "Der Berg bei Buea gehört zum Vulkanmassiv des Mount Cameroon. Das Gelände ist steil, feucht und stark von Vulkanismus geprägt.", hu: "A Buea-hegy a Mount Cameroon déli lejtőinek része. A várost a vulkáni táj fölé emeli.", ro: "Muntele de lângă Buea este parte din masivul vulcanic al Muntelui Camerun. Versanții lui oferă un peisaj abrupt, verde și schimbător.", en: "The mountain slopes around Buea are shaped by Mount Cameroon. They combine volcanic soil, steep terrain, and a cool climate." },
+    description: { de: "Der Berg bei Buea gehört zum Vulkanmassiv des Mount Cameroon. Das Gelände ist steil, feucht und stark von Vulkanismus geprägt.", hu: "A Buea-hegy a Mount Cameroon déli lejtőinek része. A várost a vulkáni táj fölé emeli.", ro: "Muntele de lângă Buea este parte din masivul vulcanic al Muntelui Camerun. Versanții lui oferă un peisaj abrupt, verde și schimbător.", en: "The mountainous terrain surrounding Buea offers breathtaking views and a cool highland climate on the lower slopes of Mount Cameroon." },
     facts: {
       de: ["am Mount Cameroon", "vulkanisches Gelände", "nahe Buea"],
       hu: ["Mount Cameroon lejtői", "vulkáni táj", "Buea fölött"],
       ro: ["în sud-vestul țării", "parte din masivul vulcanic", "versanți abrupți"],
-      en: ["around Buea", "volcanic slopes", "cool mountain climate"]
+      en: ["Mount Cameroon slopes", "Highland climate", "Scenic mountain views", "Southwest Region"]
     }, image: "/poi-images/buea-mountain-nature-v2.webp"},
   {
     id: "manengouba-mountain-nature-v2",
@@ -263,12 +263,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [9.8, 5.0],
     name: { de: "Manengouba-Gebirge", hu: "Manengouba-hegység", ro: "Munții Manengouba", en: "Manengouba Mountains" },
-    description: { de: "Der Mount Manengouba ist ein markantes Vulkanmassiv im Westen Kameruns. Seine Kraterlandschaft ist für Wanderungen und Naturbeobachtung bekannt.", hu: "A Manengouba-hegység Kamerun nyugati magashegységi tája. Két vulkáni tó és erdős lejtők kapcsolódnak hozzá.", ro: "Un masiv muntos impresionant cu lacuri de crater.", en: "Mount Manengouba rises above western Cameroon with crater lakes and forested slopes. It is one of the region's most distinctive volcanic massifs." },
+    description: { de: "Der Mount Manengouba ist ein markantes Vulkanmassiv im Westen Kameruns. Seine Kraterlandschaft ist für Wanderungen und Naturbeobachtung bekannt.", hu: "A Manengouba-hegység Kamerun nyugati magashegységi tája. Két vulkáni tó és erdős lejtők kapcsolódnak hozzá.", ro: "Un masiv muntos impresionant cu lacuri de crater.", en: "Mount Manengouba is a majestic extinct volcano featuring unique twin crater lakes known as the 'Male' and 'Female' lakes." },
     facts: {
       de: ["Vulkanmassiv im Westen", "Kraterlandschaft", "beliebtes Wandergebiet"],
       hu: ["nyugati hegység", "vulkáni eredet", "erdős lejtők"],
       ro: ["Două lacuri gemene.", "Activitate vulcanică.", "Pajiști întinse.", "Vedere minunată."],
-      en: ["in western Cameroon", "crater lakes", "volcanic massif"]
+      en: ["Extinct volcano", "Twin crater lakes", "Littoral Region", "Lush mountain landscape"]
     }, image: "/poi-images/manengouba-mountain-nature-v2.webp"},
   {
     id: "nkam-basin-nature-v2",
@@ -276,12 +276,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-LT",
     coords: [10.0, 4.5],
     name: { de: "Nkam-Becken", hu: "Nkam-medence", ro: "Bazinul Nkam", en: "Nkam Basin" },
-    description: { de: "Das Nkam-Becken gehört zu den feuchten Flusslandschaften Westkameruns. Es prägt Landwirtschaft, Vegetation und Wasserhaushalt der Region.", hu: "Az Nkam-medence a nyugati Kamerun egyik fontos vízgyűjtője. A dús csapadékú térségek lefolyását gyűjti össze.", ro: "O zonă forestieră densă în bazinul Nkam.", en: "The Nkam basin is a river catchment in western Cameroon. Its wetlands and streams feed the wider coastal water network." },
+    description: { de: "Das Nkam-Becken gehört zu den feuchten Flusslandschaften Westkameruns. Es prägt Landwirtschaft, Vegetation und Wasserhaushalt der Region.", hu: "Az Nkam-medence a nyugati Kamerun egyik fontos vízgyűjtője. A dús csapadékú térségek lefolyását gyűjti össze.", ro: "O zonă forestieră densă în bazinul Nkam.", en: "The Nkam Basin is a fertile valley and river system known for its lush vegetation and rich agricultural potential in the Littoral Region." },
     facts: {
       de: ["Flussbecken im Westen", "feuchtes Tiefland", "wichtig für Landwirtschaft"],
       hu: ["vízgyűjtő medence", "csapadékos vidék", "nyugati Kamerun"],
       ro: ["Pădure tropicală.", "Bogată în specii.", "Influență umană minimă.", "Climă foarte umedă."],
-      en: ["western catchment", "wetland system", "feeds coastal waters"]
+      en: ["River basin system", "Littoral Region", "Fertile valley land", "Rich biodiversity"]
     }, image: "/poi-images/nkam-basin-nature-v2.webp"},
   {
     id: "kribi-forest-nature-v2",
@@ -289,12 +289,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [10.0, 2.95],
     name: { de: "Kribi-Küstenwald", hu: "Kribi parti erdő", ro: "Pădurea de coastă Kribi", en: "Kribi Coastal Forest" },
-    description: { de: "Die Wälder bei Kribi reichen bis an die Atlantikküste und sind Teil des südlichen Regenwaldgürtels. Sie bilden einen wichtigen Lebensraum für Pflanzen und Tiere.", hu: "Kribi környékén parti esőerdők húzódnak. A tenger és az erdő találkozása jellemzi a tájat.", ro: "Pădurea din zona Kribi este o pădure tropicală de coastă. Mediul este umed și susține o vegetație bogată, apropiată de ocean.", en: "Forest near Kribi forms part of Cameroon's southern coastal belt. It mixes humid forest cover with sandy shoreline conditions." },
+    description: { de: "Die Wälder bei Kribi reichen bis an die Atlantikküste und sind Teil des südlichen Regenwaldgürtels. Sie bilden einen wichtigen Lebensraum für Pflanzen und Tiere.", hu: "Kribi környékén parti esőerdők húzódnak. A tenger és az erdő találkozása jellemzi a tájat.", ro: "Pădurea din zona Kribi este o pădure tropicală de coastă. Mediul este umed și susține o vegetație bogată, apropiată de ocean.", en: "The coastal forests of Kribi are a lush tropical paradise where the jungle meets the sandy shores of the Atlantic Ocean." },
     facts: {
       de: ["Regenwald an der Küste", "bei Kribi", "artenreicher Lebensraum"],
       hu: ["parti esőerdő", "Kribi környéke", "tenger és erdő"],
       ro: ["în zona Kribi", "pădure tropicală de coastă", "climat umed"],
-      en: ["near Kribi", "coastal forest", "humid southern belt"]
+      en: ["Coastal tropical forest", "Kribi Atlantic coast", "Jungle shorelines", "Biodiverse habitat"]
     }, image: "/poi-images/kribi-forest-nature-v2.webp"},
   {
     id: "sanaga-delta-nature-v2",
@@ -341,12 +341,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.25, 4.2],
     name: { de: "Buea-Bergwald", hu: "Buea hegyi erdő", ro: "Pădurea montană Buea", en: "Buea Mountain Forest" },
-    description: { de: "Die Wälder um Buea wachsen an den Hängen des Mount Cameroon. Das feuchte Bergklima sorgt dort für dichte Vegetation.", hu: "Buea környékén felhőerdők és hegyvidéki erdők húzódnak. A Mount Cameroon lejtőinek zöld öve.", ro: "Pădurea din jurul orașului Buea urcă pe pantele Muntelui Camerun. Este un habitat montan cu vegetație densă și temperaturi mai răcoroase.", en: "Forest around Buea grows on the lower slopes of Mount Cameroon. The area combines volcanic terrain with dense tropical vegetation." },
+    description: { de: "Die Wälder um Buea wachsen an den Hängen des Mount Cameroon. Das feuchte Bergklima sorgt dort für dichte Vegetation.", hu: "Buea környékén felhőerdők és hegyvidéki erdők húzódnak. A Mount Cameroon lejtőinek zöld öve.", ro: "Pădurea din jurul orașului Buea urcă pe pantele Muntelui Camerun. Este un habitat montan cu vegetație densă și temperaturi mai răcoroase.", en: "The montane forests surrounding Buea are part of the Mount Cameroon ecosystem, home to rare plants and a variety of bird species." },
     facts: {
       de: ["Wald am Vulkanhang", "um Buea", "feuchtes Bergklima"],
       hu: ["hegyvidéki erdő", "felhőerdő", "Mount Cameroon környéke"],
       ro: ["pe pantele Muntelui Camerun", "habitat montan", "vegetație densă"],
-      en: ["around Buea", "tropical forest", "volcanic terrain"]
+      en: ["Montane forest zone", "Mount Cameroon slopes", "Rare plant species", "Southwest Region"]
     }, image: "/poi-images/buea-forest-nature-v2.webp"},
   {
     id: "manengouba-forest-nature-v2",
@@ -394,12 +394,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SU",
     coords: [9.95, 2.85],
     name: { de: "Kribi-Sumpfgebiet", hu: "Kribi mocsárvidék", ro: "Zona mlăștinoasă Kribi", en: "Kribi Marshland" },
-    description: { de: "Die Sümpfe bei Kribi liegen im feuchten Küstenraum Kameruns. Sie gehören zu den wasserreichen Landschaften an der Atlantikküste.", hu: "Kribi környékén parti mocsarak és lagúnás vizes területek is előfordulnak. Ezek a partvidék élőhelyei közé tartoznak.", ro: "O zonă mlăștinoasă lângă Kribi, în apropierea coastei.", en: "Marshland near Kribi lies where forest, river, and coast meet. These wetlands support birds, fish, and mangrove growth." },
+    description: { de: "Die Sümpfe bei Kribi liegen im feuchten Küstenraum Kameruns. Sie gehören zu den wasserreichen Landschaften an der Atlantikküste.", hu: "Kribi környékén parti mocsarak és lagúnás vizes területek is előfordulnak. Ezek a partvidék élőhelyei közé tartoznak.", ro: "O zonă mlăștinoasă lângă Kribi, în apropierea coastei.", en: "The marshlands around Kribi are important coastal wetlands that support a variety of aquatic life and migratory bird species." },
     facts: {
       de: ["feuchte Küstenzone", "bei Kribi", "wasserreiches Gelände"],
       hu: ["parti mocsár", "lagúnás élőhely", "tengerparti zóna"],
       ro: ["Importantă pentru păsări.", "Ecosistem umed.", "Sursă de apă dulce.", "Merită protejată."],
-      en: ["near Kribi", "wetland marsh", "supports birds and fish"]
+      en: ["Coastal marshland", "Kribi wetland zone", "Aquatic bird habitat", "Biodiverse ecosystem"]
     }, image: "/poi-images/kribi-marsh-nature-v2.webp"},
   {
     id: "lobe-forest-nature-v2",
@@ -421,12 +421,12 @@ export const poiExtraCameroonNatureV2: POI[] = [
     parent: "CM-SW",
     coords: [9.45, 4.05],
     name: { de: "Mungo-Sumpf", hu: "Mungo-mocsár", ro: "Mlaștina Mungo", en: "Mungo Marsh" },
-    description: { de: "Die Feuchtgebiete am Mungo-Fluss sind Teil eines grünen, sumpfigen Landschaftsraums im Westen Kameruns. Sie sind wichtig für Wasser, Landwirtschaft und Tierwelt.", hu: "A Mungo folyó alacsonyabb szakaszain vizes, lápos területek is kialakulnak. Ezek fontos természetes élőhelyek.", ro: "Zonele mlăștinoase din bazinul Mungo sunt formate de ape lente și soluri saturate. Acest tip de habitat susține păsări, pești și vegetație de baltă.", en: "Marshland in the Mungo area supports rich water and bird life. It is part of the wet lowlands between the coast and the interior." },
+    description: { de: "Die Feuchtgebiete am Mungo-Fluss sind Teil eines grünen, sumpfigen Landschaftsraums im Westen Kameruns. Sie sind wichtig für Wasser, Landwirtschaft und Tierwelt.", hu: "A Mungo folyó alacsonyabb szakaszain vizes, lápos területek is kialakulnak. Ezek fontos természetes élőhelyek.", ro: "Zonele mlăștinoase din bazinul Mungo sunt formate de ape lente și soluri saturate. Acest tip de habitat susține păsări, pești și vegetație de baltă.", en: "The Mungo marshes are expansive wetlands in the Littoral Region, providing a critical habitat for diverse flora and fauna." },
     facts: {
       de: ["Sumpfgebiet im Westen", "am Mungo-Fluss", "wichtig für Ökosysteme"],
       hu: ["lápos terület", "folyó alsó szakasza", "természetes élőhely"],
       ro: ["în bazinul Mungo", "zonă mlăștinoasă", "habitat pentru păsări"],
-      en: ["in the Mungo area", "wet lowlands", "bird habitat"]
+      en: ["Littoral marshland", "Expansive wetland", "Biodiverse flora zone", "Critical habitat"]
     }, image: "/poi-images/mungo-marsh-nature-v2.webp"},
   {
     id: "lake-chad-shore-nature-v2",

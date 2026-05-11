@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "country": "Philippines",
+  "files": [
+    "lib/visualLab/data/poiExtraPhilippinesNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "ph-agusan-marsh-wildlife-sanctuary-nature-v2",
+      "description": "Agusan Marsh Wildlife Sanctuary is a vast wetland ecosystem located in the Agusan del Sur province, renowned for its incredible biodiversity. It serves as a vital refuge for numerous bird species and the endangered Philippine crocodile.",
+      "facts": [
+        "Covers over 14,000 hectares",
+        "Home to rare bird species",
+        "Significant wetland ecosystem",
+        "Contains diverse aquatic life"
+      ]
+    }
+  ]
+}

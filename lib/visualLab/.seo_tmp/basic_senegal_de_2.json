@@ -1,0 +1,60 @@
+{
+  "lang": "de",
+  "country": "Senegal",
+  "files": [
+    "lib/visualLab/data/poiExtraSenegalLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSenegalLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sn-dakar-arena-landmarks-v2",
+      "description": "Eine moderne Mehrzweckarena in Diamniadio, die primär für Basketball und andere Indoor-Sportarten genutzt wird. Sie ist ein Zentrum für internationale Veranstaltungen.",
+      "facts": ["Arena in Diamniadio", "Zentrum für Indoor-Sport", "Moderne Architektur"]
+    },
+    {
+      "id": "sn-abbaye-keur-moussa-landmarks-v2",
+      "description": "Ein bekanntes Kloster in der Nähe von Dakar, das für seine friedliche Atmosphäre und die Produktion lokaler Musik bekannt ist. Es ist ein spiritueller Rückzugsort.",
+      "facts": ["Kloster bei Dakar", "Produktion lokaler Musik", "Spiritueller Rückzugsort"]
+    },
+    {
+      "id": "sn-hotel-de-ville-dakar-landmarks-v2",
+      "description": "Das historische Rathaus von Dakar, ein prachtvolles Gebäude aus der Kolonialzeit. Es ist ein zentrales Symbol der städtischen Verwaltung.",
+      "facts": ["Rathaus von Dakar", "Gebäude aus der Kolonialzeit", "Symbol der Verwaltung"]
+    },
+    {
+      "id": "sn-massalikoul-jinaan-mosque-landmarks-v2",
+      "description": "Eine beeindruckende große Moschee in Dakar, die zu den größten in Westafrika zählt. Sie ist ein bedeutendes architektonisches und religiöses Wahrzeichen.",
+      "facts": ["Große Moschee in Dakar", "Wahrzeichen Westafrikas", "Bedeutend religiös"]
+    },
+    {
+      "id": "sn-marche-kermel-landmarks-v2",
+      "description": "Ein historischer Markt in Dakar, bekannt für seine Architektur und sein vielfältiges Angebot an Lebensmitteln und Kunsthandwerk. Ein lebendiger Treffpunkt der Stadt.",
+      "facts": ["Historischer Markt", "Dakar-Architektur", "Vielfältiges Angebot"]
+    },
+    {
+      "id": "parc-magic-land-life-v2",
+      "description": "Ein populärer Freizeitpark in Dakar, der direkt am Atlantik liegt und Familienunterhaltung bietet. Er ist ein belebter Ort für Freizeitaktivitäten.",
+      "facts": ["Freizeitpark in Dakar", "Lage am Atlantik", "Familienunterhaltung"]
+    },
+    {
+      "id": "parc-lompoul-life-v2",
+      "description": "Ein Naturpark rund um die Wüstenlandschaft von Lompoul, der für seine Dünen bekannt ist. Ein Ort für Abenteuer und Wüstencamping.",
+      "facts": ["Natur- und Wüstenpark", "Bekannt für Dünen", "Ort für Abenteuer"]
+    },
+    {
+      "id": "culture-coton-tambacounda-life-v2",
+      "description": "Region, die für ihre Baumwollproduktion bekannt ist und eine zentrale Rolle in der lokalen Landwirtschaft spielt. Ein wichtiger wirtschaftlicher Sektor der Gegend.",
+      "facts": ["Zentrum der Baumwollkultur", "Lokale Landwirtschaft", "Wirtschaftssektor"]
+    },
+    {
+      "id": "plage-des-enfants-life-v2",
+      "description": "Ein beliebter Strandabschnitt, der besonders familienfreundlich ist und zur Erholung einlädt. Er ist ein bekannter Ort für Strandleben.",
+      "facts": ["Familienfreundlicher Strand", "Ort zur Erholung", "Bekanntes Strandziel"]
+    },
+    {
+      "id": "reserve-fathala-life-v2",
+      "description": "Ein bedeutendes Wildreservat, das Einblicke in die vielfältige Tierwelt der Region bietet. Es fördert den Naturschutz und sanften Tourismus.",
+      "facts": ["Wildreservat", "Vielfältige Tierwelt", "Fokus auf Naturschutz"]
+    }
+  ]
+}

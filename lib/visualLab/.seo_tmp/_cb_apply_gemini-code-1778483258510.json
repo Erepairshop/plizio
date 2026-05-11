@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGuyanaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTunisiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "parika-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Parika ist einer der geschäftigsten Verkehrsknotenpunkte Guyanas, am östlichen Ufer des gewaltigen Essequibo-Flusses gelegen. Die Stadt fungiert als das primäre Drehkreuz für den Personen- und Warenverkehr zwischen der Hauptstadt Georgetown und den Regionen im Westen sowie den zahlreichen bewohnten Inseln im Flussdelta. Das Stadtbild wird vom Parika Stelling (Fährterminal) dominiert, an dem täglich tausende Pendler, Händler und Touristen auf Boote und Fähren umsteigen. Wirtschaftlich ist Parika zudem für seinen riesigen Sonntagsmarkt berühmt, der als einer der bedeutendsten Agrarmärkte des Landes gilt; hier werden frische Produkte aus dem gesamten Essequibo-Becken umgeschlagen. Die Architektur ist pragmatisch und dicht, geprägt von Lagerhäusern, kleinen Hotels und Handelsbetrieben. Parika ist ein Ort permanenter Bewegung und ein Schmelztiegel, in dem die maritime Logistik des Essequibo auf die Dynamik der Küstenstraße trifft. Trotz der Hektik bewahrt der Ort eine strategische Bedeutung für die Versorgungssicherheit Guyanas.",
+        "hu": "Parika Guyana egyik legforgalmasabb közlekedési csomópontja, amely a hatalmas Essequibo-folyó keleti partján fekszik. A település elsődleges kapuként szolgál a főváros, Georgetown, valamint a nyugati régiók és a folyótorkolat számos lakott szigete közötti személy- és áruforgalomban. A városképet a Parika Stelling (kompkikötő) uralja, ahol naponta több ezer ingázó, kereskedő és turista száll át hajókra. Gazdaságilag Parika híres a hatalmas vasárnapi piacáról, amely az ország egyik legjelentősebb mezőgazdasági piaca; itt cserélnek gazdát az egész Essequibo-medencéből származó friss termények. Az építészet pragmatikus és sűrű, raktárak, kis hotelek és kereskedelmi egységek jellemzik. Parika a folyamatos mozgás városa, ahol az Essequibo tengeri logisztikája találkozik a part menti országút dinamizmusával. A nyüzsgés ellenére a helyszín stratégiai jelentőségű Guyana belső területeinek ellátása szempontjából.",
+        "ro": "Parika este unul dintre cele mai aglomerate noduri de transport din Guyana, situat pe malul estic al imensului râu Essequibo. Orașul funcționează ca placă turnantă principală pentru traficul de persoane și mărfuri între capitala Georgetown și regiunile din vest, precum și numeroasele insule locuite din delta râului. Peisajul urban este dominat de Parika Stelling (terminalul de feribot), unde mii de navetiști, comercianți și turiști se îmbarcă zilnic pe bărci și feriboturi. Din punct de vedere economic, Parika este renumit pentru uriașa sa piață de duminică, considerată una dintre cele mai importante piețe agricole din țară. Arhitectura este pragmatică și densă, marcată de antrepozite, hoteluri mici și unități comerciale. Parika este un loc al mișcării permanente, un creuzet unde logistica maritimă a râului Essequibo întâlnește dinamismul autostrăzii de coastă. În ciuda agitației, localitatea păstrează o importanță strategică pentru securitatea aprovizionării Guyanei.",
+        "en": "Parika is one of Guyana's busiest transportation hubs, situated on the eastern bank of the mighty Essequibo River. The town serves as the primary gateway for passengers and cargo traveling between the capital, Georgetown, and the western regions, as well as the numerous inhabited islands in the river delta. The urban landscape is dominated by the Parika Stelling (ferry terminal), where thousands of commuters, traders, and tourists transfer to boats and ferries daily. Economically, Parika is renowned for its massive Sunday market, one of the country's most significant agricultural trading points, handling fresh produce from across the Essequibo basin. The architecture is functional and dense, characterized by warehouses, small transit hotels, and commercial outlets. Parika is a site of constant motion, a melting pot where Essequibo's maritime logistics intersect with the energy of the coastal highway."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Parika ist der Hauptausgangspunkt für Fähren zur Insel Leguan und Wakenaam.",
+          "Der Sonntagsmarkt von Parika gilt als der 'Brotkorb' für Georgetown.",
+          "Die Stadt liegt etwa 42 Kilometer westlich der Hauptstadt.",
+          "Parika ist ein wichtiges Zentrum für den Handel mit tropischen Fischen (Aquaristik).",
+          "Das Fährterminal wurde in den letzten Jahren modernisiert.",
+          "Von hier starten die Speedboote nach Bartica, der Pforte zum Bergbau."
+        ],
+        "hu": [
+          "Parika a Leguan- és Wakenaam-szigetekre tartó kompok fő indulóállomása.",
+          "A vasárnapi piacot Georgetown „élelemkosaraként” is emlegetik.",
+          "A település mintegy 42 kilométerre nyugatra fekszik a fővárostól.",
+          "Parika az akváriumi trópusi halak kereskedelmének egyik fontos központja.",
+          "A kompkikötőt az utóbbi években jelentősen korszerűsítették.",
+          "Innen indulnak a gyorshajók Barticába, a bányavidék kapujába."
+        ],
+        "ro": [
+          "Parika este punctul principal de plecare pentru feriboturile spre insulele Leguan și Wakenaam.",
+          "Piața de duminică din Parika aprovizionează o mare parte din Georgetown.",
+          "Localitatea se află la aproximativ 42 de kilometri vest de capitală.",
+          "Este un centru major pentru comerțul cu pești tropicali ornamentali.",
+          "Terminalul de feribot a beneficiat recent de investiții în modernizare.",
+          "Bărcile rapide spre Bartica fac legătura cu zonele miniere din interior."
+        ],
+        "en": [
+          "Parika is the main departure point for ferries serving Leguan and Wakenaam islands.",
+          "The Sunday market is essential for the food supply chain of Georgetown.",
+          "The town is located approximately 42 kilometers west of the capital.",
+          "It acts as a key center for the regional trade in exotic aquarium fish.",
+          "The ferry terminal is one of the most critical infrastructure points in the country.",
+          "Speedboats from Parika provide the fastest link to the mining town of Bartica."
+        ]
+      }
+    },
+    {
+      "id": "mahdia-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Mahdia, im Herzen der Region Potaro-Siparuni gelegen, ist Guyanas bedeutendstes Zentrum für den Goldbergbau und wurde 2018 offiziell zur Stadt erhoben. Die Siedlung liegt inmitten des dichten Regenwaldes und ist geografisch durch ihre Nähe zu den Kaieteur-Fällen und den Potaro-Fluss geprägt. Die ökonomische Existenz von Mahdia ist fast ausschließlich an die Gold- und Diamantengewinnung geknüpft, was der Stadt einen dynamischen, aber auch rauen Pioniercharakter verleiht. Die Architektur ist funktional und besteht oft aus Holz- und Blechbauten, die schnell errichtet wurden, um dem Bergbau-Boom gerecht zu werden. Mahdia dient als wichtigster Versorgungsstützpunkt für hunderte von Bergbaucamps im umliegenden Hinterland. Die soziale Struktur ist ein Schmelztiegel aus Küstenguyanesen, indigenen Patamona-Völkern und brasilianischen Bergleuten (Garimpeiros). Trotz der Herausforderungen durch die isolierte Lage und die Umweltbelastungen des Bergbaus ist Mahdia ein Symbol für Guyanas mineralischen Reichtum und den harten Lebensstil in den 'Goldfeldern'. Die Stadt ist über die historische Denham-Hängebrücke und eine unbefestigte Straße mit Linden verbunden.",
+        "hu": "Mahdia, a Potaro-Siparuni régió szívében található település Guyana legfontosabb aranybányászati központja, amely 2018-ban kapott városi rangot. A sűrű esőerdő közepén fekvő várost földrajzilag a Kaieteur-vízesés közelsége és a Potaro-folyó határozza meg. Mahdia gazdasági léte szinte kizárólag az arany- és gyémántkitermeléshez kötődik, ami a városnak dinamikus, de olykor zord, úttörő jelleget kölcsönöz. Az építészet funkcionális, gyakran gyorsan felhúzott fa- és bádogépületekből áll, amelyek a bányászati láz igényeit szolgálják ki. Mahdia az elsődleges ellátóbázisa a környező hátország több száz bányásztáborának. Társadalmi szerkezete egyedülálló olvasztótégely: part menti guyanaiak, őslakos patamona népek és brazil bányászok (garimpeiros) élnek itt együtt. Az elszigeteltség és a bányászat okozta környezeti kihívások ellenére Mahdia Guyana ásványkincs-gazdagságának és a „gold bush” (aranyvidék) kemény életmódjának szimbóluma. A várost a történelmi Denham-függőhíd és egy Lindenből induló poros út köti össze a külvilággal.",
+        "ro": "Mahdia, situat în inima regiunii Potaro-Siparuni, este cel mai important centru de extracție a aurului din Guyana și a fost declarat oficial oraș în 2018. Așezarea se află în mijlocul pădurii tropicale dense și este definită geografic prin proximitatea față de Cascada Kaieteur și râul Potaro. Existența economică a localității Mahdia este legată aproape exclusiv de exploatarea aurului și diamantelor, ceea ce conferă orașului un caracter de pionierat dinamic, dar și dur. Arhitectura este funcțională, constând adesea în clădiri din lemn și tablă ridicate rapid pentru a face față boom-ului minier. Mahdia servește drept bază principală de aprovizionare pentru sute de tabere miniere din hinterlandul înconjurător. Structura socială este un creuzet format din guianezi de pe coastă, populații indigene Patamona și minieri brazilieni (garimpeiros). În ciuda provocărilor cauzate de locația izolată și impactul minier asupra mediului, Mahdia este un simbol al bogăției minerale a Guyanei și al stilului de viață aspru din zonele aurifere.",
+        "en": "Mahdia, located in the heart of the Potaro-Siparuni region, is Guyana's premier gold-mining hub and was officially designated as a town in 2018. Nestled within dense rainforest, the settlement is geographically defined by its proximity to the Potaro River and the world-famous Kaieteur Falls. Mahdia's economic survival is almost entirely dependent on gold and diamond extraction, granting the town a dynamic yet rugged frontier character. The architecture is strictly functional, often featuring wooden and zinc structures erected to accommodate the ongoing mining boom. Mahdia serves as the vital supply center for hundreds of mining camps scattered throughout the surrounding interior. Its social fabric is a unique blend of coastal Guyanese, indigenous Patamona peoples, and Brazilian miners (garimpeiros). Despite the challenges of isolation and the environmental footprint of mining, Mahdia stands as a symbol of Guyana's mineral wealth and the demanding lifestyle of the 'gold bush.'"
+      },
+      "factsAdvanced": {
+        "de": [
+          "Mahdia wurde im Jahr 1884 von Bergleuten gegründet.",
+          "Die Stadt beherbergt eine bedeutende Anzahl brasilianischer Bergleute.",
+          "Mahdia ist der Ausgangspunkt für Reisen zu den Potaro-Fluss-Minen.",
+          "Die historische Denham-Hängebrücke (Garraway Stream) liegt in der Nähe.",
+          "Die Stadt ist bekannt für ihre lebhafte Atmosphäre während der Zahltage der Bergleute.",
+          "In der Umgebung wird hauptsächlich 'Dredging' zur Goldgewinnung betrieben."
+        ],
+        "hu": [
+          "Mahdiát 1884-ben alapították aranyásók.",
+          "A városban jelentős számú brazil bányász közösség él.",
+          "Mahdia a Potaro-folyó menti bányák elsődleges kiindulópontja.",
+          "A közelben található a történelmi Denham-függőhíd a Garraway-patak felett.",
+          "A város híres pezsgő éjszakai életéről a bányászok fizetésnapjain.",
+          "A környéken főként folyami kotrással (dredging) nyerik ki az aranyat."
+        ],
+        "ro": [
+          "Mahdia a fost fondată în 1884 în timpul primului mare boom al aurului.",
+          "Este sediul administrativ al regiunii 8 (Potaro-Siparuni).",
+          "Orașul este conectat de Linden printr-un drum care traversează zone de savană și junglă.",
+          "Cultura locală este puternic influențată de tradițiile populației Patamona.",
+          "Mahdia dispune de un aeroport care facilitează transportul rapid al aurului.",
+          "Mineritul artizanal rămâne principala formă de activitate economică."
+        ],
+        "en": [
+          "Mahdia was founded in 1884 by miners following the discovery of gold.",
+          "The town hosts a significant Brazilian community contributing to its multicultural vibe.",
+          "It serves as the regional capital for Potaro-Siparuni (Region 8).",
+          "The historic Denham Suspension Bridge is a key landmark on the access road.",
+          "Economic cycles in the town directly mirror global gold price fluctuations.",
+          "Mahdia is a critical staging area for geological research in central Guyana."
+        ]
+      }
+    },
+    {
+      "id": "charity-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Charity ist ein pulsierendes Handelszentrum am Ufer des Pomeroon-Flusses in der Region Pomeroon-Supenaam. Die Stadt fungiert als das entscheidende Bindeglied zwischen der kultivierten Essequibo-Küste und den wilden, wasserreichen Gebieten des Nordwestens. Charity ist geprägt durch seine maritime Lage; das Leben spielt sich weitgehend an der Uferpromenade ab, wo Boote aus den entlegenen Flussgemeinschaften anlegen, um Agrarprodukte wie Kokosnüsse, Kakao und Zitrusfrüchte gegen Waren des täglichen Bedarfs zu tauschen. Der Ort ist berühmt für seinen geschäftigen Markt, der als einer der authentischsten Guyanas gilt. Die Architektur ist zweckmäßig und durch hölzerne Bauten auf Stelzen geprägt, die den Gezeiten des Flusses standhalten. Charity ist zudem das Tor zum berühmten Shell Beach und zu den indigenen Siedlungen des Pomeroon. Wirtschaftlich profitiert die Stadt von ihrer Rolle als logistisches Zentrum für die Landwirtschaft und den aufkommenden Abenteuertourismus. Charity symbolisiert den Übergang vom organisierten Küstenland zur ungezähmten Flusslandschaft Guyanas.",
+        "hu": "Charity egy lüktető kereskedelmi központ a Pomeroon-folyó partján, a Pomeroon-Supenaam régióban. A város döntő jelentőségű kapocsként szolgál a művelt Essequibo-part és az északnyugati országrész vad, vizekben gazdag vidékei között. Charity arculatát a folyó határozza meg: az élet nagy része a vízparti sétányon zajlik, ahol a távoli folyami közösségekből érkező hajók kötnek ki, hogy mezőgazdasági terményeket – kókuszdiót, kakaót és citrusféléket – cseréljenek napi fogyasztási cikkekre. A település híres nyüzsgő piacáról, amelyet Guyana egyik legautentikusabb vásáraként tartanak számon. Az építészet célszerű, cölöpökön álló faépületek jellemzik, amelyek ellenállnak a folyó árapály-mozgásának. Charity emellett a híres Shell Beach és a Pomeroon menti őslakos települések kapuja. Gazdaságilag a város a mezőgazdasági logisztika és a fejlődő kalandturizmus központjaként virágzik. Charity a rendezett partvidék és Guyana vad folyóvilága közötti átmenet jelképe.",
+        "ro": "Charity este un centru comercial vibrant situat pe malul râului Pomeroon, în regiunea Pomeroon-Supenaam. Orașul funcționează ca o legătură vitală între coasta cultivată a regiunii Essequibo și zonele sălbatice, bogate în ape, din nord-vest. Charity este definit de locația sa maritimă; viața se desfășoară în mare parte pe faleză, unde bărcile din comunitățile fluviale îndepărtate acostează pentru a schimba produse agricole precum nuca de cocos, cacao și citrice pe bunuri de consum. Localitatea este faimoasă pentru piața sa animată, considerată una dintre cele mai autentice din Guyana. Arhitectura este utilitară, cu construcții din lemn pe piloni, adaptate mareelor râului. Charity este, de asemenea, poarta de acces către faimoasa Shell Beach și către așezările indigene de pe râul Pomeroon. Din punct de vedere economic, orașul beneficiază de rolul său de centru logistic pentru agricultură și turismul de aventură emergent. Charity simbolizează tranziția de la zona de coastă organizată la peisajul fluvial neîmblânzit al Guyanei.",
+        "en": "Charity is a pulsating commercial hub on the banks of the Pomeroon River in the Pomeroon-Supenaam region. The town serves as the critical link between the developed Essequibo Coast and the wild, water-rich territories of the Northwest. Charity's identity is shaped by its maritime setting; life centers on the waterfront, where boats from remote riverine communities dock to trade agricultural products like coconuts, cocoa, and citrus for daily essentials. The town is famous for its bustling market, regarded as one of Guyana's most authentic trading experiences. The architecture is functional, featuring wooden structures on stilts designed to withstand the river's tidal fluctuations. Charity is also the gateway to the renowned Shell Beach and the indigenous settlements along the Pomeroon. Economically, the town thrives as a logistical center for agriculture and emerging adventure tourism, symbolizing the transition from coastal plains to Guyana’s untamed river systems."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Charity ist das administrative Zentrum des Pomeroon-Flussgebiets.",
+          "Der Ort beherbergt einen der lebhaftesten Agrarmärkte in ganz Guyana.",
+          "Charity ist nur über eine einzige Hauptstraße von Anna Regina aus erreichbar.",
+          "Die Stadt dient als Hauptumschlagplatz für Kokosnüsse aus der Region 2.",
+          "Von Charity aus starten Expeditionen in das indigene Territorium von Santa Rosa.",
+          "Der Pomeroon-Fluss bei Charity ist für seine extrem dunkle Färbung bekannt."
+        ],
+        "hu": [
+          "Charity a Pomeroon-folyóvidék adminisztratív központja.",
+          "A település ad otthont Guyana egyik legélénkebb agrárpiacának.",
+          "Charity Anna Reginából egyetlen főúton érhető el.",
+          "A város a 2-es régióból származó kókuszdió-termelés fő elosztóhelye.",
+          "Innen indulnak az expedíciók Santa Rosa őslakos területeire.",
+          "A Pomeroon-folyó Charity-nél híres a rendkívül sötét, „fekete” vizéről."
+        ],
+        "ro": [
+          "Charity este ultimul punct accesibil rutier pe coasta Essequibo.",
+          "Piața din Charity atinge vârful de activitate în fiecare zi de luni.",
+          "Orașul este centrul producției de cafea și cacao din bazinul Pomeroon.",
+          "Include un terminal modern pentru transportul de pasageri spre nord-vest.",
+          "Apele din jurul Charity sunt o sursă importantă pentru pescuitul de apă dulce.",
+          "Localitatea este un punct vital pentru aprovizionarea regiunii Barima-Waini."
+        ],
+        "en": [
+          "Charity marks the northern terminus of the Essequibo public road system.",
+          "The Charity Market is at its busiest every Monday, drawing traders from miles away.",
+          "The town is a major exporter of 'Pomeroon Coffee' and citrus fruits.",
+          "It provides the primary boat link to the Moruca sub-district.",
+          "Charity's stilted waterfront houses a variety of wholesale businesses.",
+          "The river at Charity is influenced by Atlantic tides despite being inland."
+        ]
+      }
+    },
+    {
+      "id": "kumaka-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kumaka ist das pulsierende kommerzielle Herz des Moruca-Unterdistrikts in der Region Barima-Waini im Nordwesten Guyanas. Der Ort liegt am Ufer des Moruca-Flusses und ist durch seine amphibische Geografie geprägt, die während der Regenzeit weite Teile der Umgebung in ein Labyrinth aus Wasserwegen verwandelt. Kumaka fungiert als zentraler Marktplatz und Versorgungszentrum für die umliegenden indigenen Gemeinschaften, insbesondere Santa Rosa, die größte indigene Siedlung Guyanas. Die Wirtschaft basiert auf dem Handel mit Agrarprodukten aus dem Regenwald, handgefertigten indigenen Kunstwerken und dem Umschlag von Waren, die per Boot aus Charity herangebracht werden. Die Architektur ist durch traditionelle hölzerne Strukturen auf Stelzen und einfache Geschäftshäuser geprägt. Kumaka ist ein Ort von hoher kultureller Bedeutung, an dem die Traditionen der Arawak-Völker lebendig bleiben. Die Stadt ist zudem ein wichtiger Knotenpunkt für den Zugang zum Shell Beach Schutzgebiet. Trotz der Herausforderungen durch saisonale Überflutungen bleibt Kumaka das wichtigste logistische und soziale Zentrum für das Volk der Moruca-Region.",
+        "hu": "Kumaka a Moruca-körzet lüktető kereskedelmi szíve a Barima-Waini régióban, Guyana északnyugati részén. A Moruca-folyó partján fekvő települést kétéltű földrajz jellemzi, amely az esős évszakban a környék nagy részét vízi utak labirintusává változtatja. Kumaka központi piacként és ellátó központként szolgál a környező őslakos közösségek, különösen Santa Rosa – Guyana legnagyobb őslakos települése – számára. Gazdasága az esőerdőből származó mezőgazdasági termékek, a kézzel készített őslakos művészeti tárgyak kereskedelmére, valamint a Charity-ből hajóval érkező áruk elosztására épül. Az építészetet hagyományos, cölöpökön álló faszerkezetek és egyszerű üzletházak jellemzik. Kumaka kiemelkedő kulturális jelentőségű hely, ahol az arava (arawak) népek hagyományai máig élnek. A település fontos csomópont a Shell Beach természetvédelmi terület megközelítéséhez is. A szezonális áradások okozta kihívások ellenére Kumaka marad a Moruca-régió lakóinak legfontosabb logisztikai és társadalmi központja.",
+        "ro": "Kumaka este inima comercială vibrantă a subdistrictului Moruca din regiunea Barima-Waini, în nord-vestul Guyanei. Localitatea este situată pe malul râului Moruca și este marcată de geografia sa amfibie, care transformă mari părți ale împrejurimilor într-un labirint de căi navigabile în timpul sezonului ploios. Kumaka funcționează ca piață centrală și centru de aprovizionare pentru comunitățile indigene din jur, în special pentru Santa Rosa, cea mai mare așezare indigenă din Guyana. Economia se bazează pe comerțul cu produse agricole din pădurea tropicală, obiecte de artă indigenă lucrate manual și distribuția mărfurilor aduse cu barca din Charity. Arhitectura este definită de structuri tradiționale din lemn pe piloni și case comerciale simple. Kumaka este un loc de o mare importanță culturală, unde tradițiile popoarelor Arawak rămân vii. De asemenea, localitatea este un nod important pentru accesul către rezervația Shell Beach. În ciuda provocărilor cauzate de inundațiile sezoniere, Kumaka rămâne cel mai important centru logistic și social pentru populația din regiunea Moruca.",
+        "en": "Kumaka is the vibrant commercial heartbeat of the Moruca sub-district in the Barima-Waini region of northwestern Guyana. Located on the banks of the Moruca River, the settlement is characterized by its amphibious geography, which transforms the surrounding area into a labyrinth of waterways during the rainy season. Kumaka serves as the primary marketplace and supply hub for the surrounding indigenous communities, most notably Santa Rosa, Guyana's largest indigenous mission. The local economy is driven by the trade of rainforest produce, handcrafted indigenous arts, and the distribution of goods brought in by boat from Charity. The architecture features traditional wooden structures on stilts and simple storefronts. Kumaka holds significant cultural weight as a place where the traditions of the Arawak people continue to thrive. It also acts as a critical transit point for those traveling to the Shell Beach Protected Area. Despite the challenges posed by seasonal flooding, Kumaka remains the indispensable logistical and social center for the people of the Moruca region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kumaka ist der wichtigste Handelsplatz für die Moruca-Flussgemeinden.",
+          "Der Ort ist bekannt für den 'Kumaka-Ufermarkt', wo Pirogen direkt anlegen.",
+          "Kumaka liegt in unmittelbarer Nachbarschaft zur Santa Rosa Mission.",
+          "Die Wirtschaft basiert stark auf dem Fang und Handel mit indigenen Krebsen.",
+          "Während der Regenzeit steigt der Wasserstand oft bis an die Türschwellen der Läden.",
+          "Kumaka verfügt über ein bedeutendes regionales Gesundheitszentrum."
+        ],
+        "hu": [
+          "Kumaka a Moruca-folyó menti közösségek legfontosabb kereskedelmi helyszíne.",
+          "A település híres a vízparti piacáról, ahol a pirogok közvetlenül a boltoknál kötnek ki.",
+          "Kumaka közvetlen szomszédja a Santa Rosa Missziónak.",
+          "A helyi gazdaság egyik alapja az őslakos rákászat és rákkereskedelem.",
+          "Az esős évszakban a vízszint gyakran az üzletek küszöbéig emelkedik.",
+          "Kumaka jelentős regionális egészségügyi központtal rendelkezik."
+        ],
+        "ro": [
+          "Kumaka este principalul centru de distribuție pentru combustibil în Moruca.",
+          "Piața de pe faleză este celebră pentru peștele sărat și artizanat.",
+          "Este locul principal de desfășurare a festivalurilor indigene anuale.",
+          "Accesul se face printr-o călătorie spectaculoasă cu barca printre mangrove.",
+          "Localitatea este un punct de reper pentru conservarea limbii Arawak.",
+          "Terenul este extrem de vulnerabil la eroziunea fluvială."
+        ],
+        "en": [
+          "Kumaka Waterfront is the busiest trading zone in the entire Northwest District.",
+          "The settlement is a key center for the production of crabwood oil.",
+          "It serves as the main entry point for the Santa Rosa indigenous community.",
+          "During high water, 'floating' markets are common along the Moruca River.",
+          "The town is a strategic hub for the distribution of solar energy equipment to remote villages.",
+          "It features the regional Moruca Cottage Hospital."
+        ]
+      }
+    },
+    {
+      "id": "kwakwani-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kwakwani, am Oberlauf des Berbice-Flusses gelegen, ist eine bedeutende Bergbaustadt in der Region Upper Demerara-Berbice. Die Existenz der Stadt ist untrennbar mit der Gewinnung von Bauxit verbunden, das hier in großen Tagebauen gefördert wird. Kwakwani fungiert als das logistische und industrielle Herz des Berbice-Bauxitgürtels. Die Architektur der Stadt spiegelt ihre industrielle Bestimmung wider, mit Wohnsiedlungen für die Arbeiter und massiven Verladeanlagen am Flussufer. Geografisch liegt Kwakwani isoliert im Landesinneren, umgeben von dichtem Regenwald und Savannengebieten. Der Berbice-Fluss ist die lebenswichtige Verkehrsader, über die das Erz per Binnenschiff flussabwärts transportiert wird. Wirtschaftlich hängt fast jeder Aspekt der Stadt von der globalen Nachfrage nach Aluminiumoxid ab. Trotz der Herausforderungen durch die schwankenden Weltmarktpreise und die abgelegene Lage bewahrt Kwakwani einen starken Gemeinschaftsgeist und eine stolze Bergbautradition. Die Stadt ist zudem ein Ausgangspunkt für den Holztransport aus den umliegenden Forstgebieten. Kwakwani symbolisiert die industrielle Erschließung des guyanischen Hinterlandes und den Beitrag des Berbice-Reviers zum nationalen Reichtum.",
+        "hu": "Kwakwani a Berbice-folyó felső szakaszánál fekvő jelentős bányászváros az Upper Demerara-Berbice régióban. A város léte elválaszthatatlan a bauxitkitermeléstől, amelyet a környéken hatalmas külszíni fejtésekben végeznek. Kwakwani a Berbice-bauxitöv logisztikai és ipari szíve. A város építészete tükrözi ipari jellegét: a munkások számára kialakított lakótelepek és a folyóparti masszív rakodóberendezések határozzák meg a képet. Földrajzilag Kwakwani elszigetelten, a szárazföld belsejében fekszik, sűrű esőerdők és szavannák ölelésében. A Berbice-folyó a város éltető közlekedési útvonala, amelyen uszályokkal szállítják az ércet a folyón lefelé. Gazdaságilag a város szinte minden szempontból az alumínium-oxid iránti globális kereslettől függ. A világpiaci árak ingadozása és a távoli fekvés okozta nehézségek ellenére Kwakwani erős közösségi szellemmel és büszke bányászati hagyományokkal rendelkezik. A város emellett a környező erdőgazdaságokból származó faanyag szállításának is fontos kiindulópontja. Kwakwani a guyanai hátország ipari kiaknázásának és a Berbice-medence nemzeti vagyonhoz való hozzájárulásának jelképe.",
+        "ro": "Kwakwani, situat pe cursul superior al râului Berbice, este un oraș minier important în regiunea Upper Demerara-Berbice. Existența orașului este inseparabil legată de extracția bauxitei, care este exploatată aici în mari cariere de suprafață. Kwakwani funcționează ca inima logistică și industrială a centurii de bauxită Berbice. Arhitectura orașului reflectă destinația sa industrială, cu colonii de locuințe pentru muncitori și instalații masive de încărcare pe malul râului. Din punct de vedere geografic, Kwakwani este izolat în interiorul țării, fiind înconjurat de pădure tropicală densă și zone de savană. Râul Berbice este artera vitală de transport, prin care minereul este transportat în aval cu barjele. Din punct de vedere economic, aproape fiecare aspect al orașului depinde de cererea globală de alumină. În ciuda provocărilor cauzate de fluctuația prețurilor de pe piața mondială și de locația izolată, Kwakwani păstrează un spirit comunitar puternic și o tradiție minieră mândră. Orașul este, de asemenea, un punct de plecare pentru transportul lemnului din zonele forestiere învecinate. Kwakwani simbolizează exploatarea industrială a hinterlandului guianez și contribuția bazinului Berbice la bogăția națională.",
+        "en": "Kwakwani, positioned on the upper reaches of the Berbice River, is a major mining town in the Upper Demerara-Berbice region. The town's existence is fundamentally tied to bauxite extraction, carried out in massive open-cast mines nearby. Kwakwani serves as the logistical and industrial core of the Berbice bauxite belt. Its architecture reflects this industrial purpose, consisting of planned housing for workers and significant loading facilities along the riverbank. Geographically, Kwakwani is relatively isolated, surrounded by dense tropical rainforest and sprawling savanna. The Berbice River is the town's lifeblood, providing the essential transport route for ore barges moving downstream. Economically, nearly all aspects of life in Kwakwani fluctuate with the global demand for alumina. Despite the volatility of world market prices and its remote location, the town maintains a resilient community spirit and a proud heritage of mining. Additionally, Kwakwani is a vital hub for the timber industry, managing the transport of logs from surrounding forest concessions. The town symbolizes the industrial development of Guyana's interior and the critical role of the Berbice region in the national economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kwakwani ist das Zentrum der Bauxitförderung am Berbice-Fluss.",
+          "Die Stadt ist über eine Sandstraße mit Linden und Ituni verbunden.",
+          "Der Berbice-Fluss ist bis Kwakwani für Erz-Bargen schiffbar.",
+          "Wirtschaftlich wird der Ort durch internationale Bergbaukooperationen geprägt.",
+          "Kwakwani verfügt über eine eigene Flugpiste für den Personaltransport.",
+          "Der Ort ist bekannt für seine lebendige Kultur der 'Loggers' und Bergleute."
+        ],
+        "hu": [
+          "Kwakwani a bauxitbányászat központja a Berbice-folyó mentén.",
+          "A várost homokos út köti össze Itunival és Lindennel.",
+          "A Berbice-folyó Kwakwaniig hajózható az ércszállító uszályok számára.",
+          "Gazdaságát nemzetközi bányászati együttműködések határozzák meg.",
+          "A település saját repülőtérrel rendelkezik a személyszállítás lebonyolításához.",
+          "A város híres a fakitermelők és bányászok sajátos, élénk kultúrájáról."
+        ],
+        "ro": [
+          "Kwakwani este principalul furnizor de bauxită metalurgică din Guyana.",
+          "Drumul spre Kwakwani traversează savana albă a regiunii 10.",
+          "Râul Berbice este dragat periodic pentru a permite navigația barjelor.",
+          "Economia locală a fost istoric gestionată de companii multinaționale.",
+          "Găzduiește un centru de formare tehnică pentru industria minieră.",
+          "Kwakwani este un punct de tranzit pentru vitele aduse din savana Rupununi."
+        ],
+        "en": [
+          "Kwakwani is the operational center for bauxite mining along the Berbice River.",
+          "The town is accessible via a rugged unpaved road through Ituni from Linden.",
+          "Heavy-duty barges are the primary means of transporting ore to the coast.",
+          "The local economy is a key driver for the regional development of Region 10.",
+          "It features a dedicated airfield primarily used by the mining industry.",
+          "Kwakwani acts as a major transshipment point for timber from the upper Berbice."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "white-nile-orchards-life-v2",
+      "description": "Fertile orchards along the White Nile known for seasonal fruit production.",
+      "facts": ["River orchards", "Fruit farming", "White Nile", "Fertile land"]
+    },
+    {
+      "id": "suakin-island-park-life-v2",
+      "description": "A recreational park area promoting local coastal recreation.",
+      "facts": ["Coastal park", "Recreation", "Suakin site", "Public space"]
+    },
+    {
+      "id": "blue-nile-fishing-villiage-life-v2",
+      "description": "A traditional village community specializing in river fishing and small-scale trade.",
+      "facts": ["Fishing village", "Blue Nile", "Tradition", "Trade"]
+    },
+    {
+      "id": "kassala-fruit-market-life-v2",
+      "description": "A bustling market in Kassala famous for fresh, locally grown fruits.",
+      "facts": ["Fresh fruit market", "Kassala site", "Local produce", "Trade hub"]
+    },
+    {
+      "id": "nuba-mountains-honey-life-v2",
+      "description": "A small-scale honey production region known for unique mountain flora honey.",
+      "facts": ["Honey production", "Nuba mountains", "Local craft", "Natural product"]
+    },
+    {
+      "id": "tuti-island-park-life-v2",
+      "description": "A peaceful park area on Tuti Island situated at the Nile confluence.",
+      "facts": ["Island park", "Nile confluence", "Peaceful space", "Khartoum region"]
+    },
+    {
+      "id": "nile-river-cruise-life-v2",
+      "description": "Popular river cruise routes offering scenic views and transport along the Nile.",
+      "facts": ["Nile cruise", "Scenic transport", "Leisure route", "Sightseeing"]
+    },
+    {
+      "id": "jebel-marra-springs-life-v2",
+      "description": "Natural thermal springs known for their relaxing properties and surrounding lush nature.",
+      "facts": ["Natural springs", "Thermal water", "Jebel Marra", "Relaxation"]
+    },
+    {
+      "id": "dongola-market-life-v2",
+      "description": "A key trade center in Dongola serving the northern river communities.",
+      "facts": ["Trade center", "Dongola site", "Northern commerce", "Marketplace"]
+    },
+    {
+      "id": "kosti-nile-park-life-v2",
+      "description": "A public waterfront park in Kosti providing local community leisure.",
+      "facts": ["Waterfront park", "Kosti location", "Public leisure", "Nile site"]
+    }
+  ]
+}

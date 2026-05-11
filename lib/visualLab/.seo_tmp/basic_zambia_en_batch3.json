@@ -1,0 +1,62 @@
+{
+  "lang": "en",
+  "country": "Zambia",
+  "files": [
+    "lib/visualLab/data/poiExtraZambiaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraZambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraZambiaNatureV2.ts",
+    "lib/visualLab/data/poiExtraZambiaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "luapula-river-nature-v2",
+      "description": "A significant river in northern Zambia that flows into Lake Mweru.",
+      "facts": ["Flows into Lake Mweru.", "Northern Zambia river.", "Important aquatic habitat."]
+    },
+    {
+      "id": "kabwe-region-nature-v2",
+      "description": "A region in central Zambia known for its unique geological and biological features.",
+      "facts": ["Central Zambia.", "Geological significance.", "Unique environment."]
+    },
+    {
+      "id": "lake-chambeshi-nature-v2",
+      "description": "A lake associated with the Chambeshi River system, supporting local wetland biodiversity.",
+      "facts": ["Chambeshi River system.", "Supports wetlands.", "Local biodiversity."]
+    },
+    {
+      "id": "lungwebungu-river-nature-v2",
+      "description": "A major tributary of the Zambezi River flowing through western Zambia.",
+      "facts": ["Zambezi tributary.", "Western Zambia.", "Important waterway."]
+    },
+    {
+      "id": "kabompo-river-nature-v2",
+      "description": "A large river in the North-Western province, serving as a significant Zambezi tributary.",
+      "facts": ["North-Western province.", "Zambezi tributary.", "Regional water source."]
+    },
+    {
+      "id": "luangwa-valley-nature-v2",
+      "description": "An extensive valley in eastern Zambia, famous for its abundant wildlife and national parks.",
+      "facts": ["Eastern Zambia.", "Abundant wildlife.", "Home to national parks."]
+    },
+    {
+      "id": "lusiwashi-lake-nature-v2",
+      "description": "A scenic lake in central Zambia providing local water and supporting fishing activities.",
+      "facts": ["Central Zambia.", "Scenic environment.", "Fishing source."]
+    },
+    {
+      "id": "chishimba-falls-nature-v2",
+      "description": "A series of impressive waterfalls on the Luombe River in northern Zambia.",
+      "facts": ["Luombe River.", "Northern Zambia.", "Series of falls."]
+    },
+    {
+      "id": "kalambo-falls-nature-v2",
+      "description": "A spectacular waterfall on the Kalambo River, marking the border between Zambia and Tanzania.",
+      "facts": ["Kalambo River.", "Zambia-Tanzania border.", "Spectacular waterfall."]
+    },
+    {
+      "id": "ngonye-falls-nature-v2",
+      "description": "Powerful falls on the Zambezi River in western Zambia, noted for their width and scenic beauty.",
+      "facts": ["Zambezi River.", "Western Zambia.", "Wide waterfall."]
+    }
+  ]
+}

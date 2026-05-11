@@ -1,0 +1,71 @@
+{
+  "lang": "multi4",
+  "country": "guinea",
+  "files": ["lib/visualLab/data/poiExtraGuineaHistoryV2.ts"],
+  "items": [
+    {
+      "id": "colombiere-cave-history-v2",
+      "descriptionAdvancedDe": "Die Grotte von Colombière in der Nähe von Kindia ist eine bedeutende prähistorische Stätte in Guinea. Archäologische Ausgrabungen in den 1950er Jahren brachten hier Steinwerkzeuge und andere Artefakte zutage, die dem Sangoan- und Lupemban-Kulturkomplex zugeordnet werden. Diese Funde deuten auf eine menschliche Besiedlung in der Region hin, die bis zu 40.000 Jahre zurückreicht. Die Höhle bietet somit ein seltenes Fenster in die Steinzeit Westafrikas und die Lebensweise prähistorischer Jäger und Sammler. Sie ist von entscheidender Bedeutung für das Verständnis der frühen Menschheitsgeschichte in diesem Teil des Kontinents und ein wichtiges Ziel für paläoanthropologische Forschungen.",
+      "descriptionAdvancedHu": "A Kindia melletti Colombière-barlang egy jelentős őskori lelőhely Guineában. Az 1950-es években végzett régészeti ásatások során kőszerszámokat és más, a Sangoan és Lupemban kultúrákhoz sorolt leleteket tártak fel. Ezek a leletek arra utalnak, hogy a régióban már 40 000 évvel ezelőtt is éltek emberek. A barlang így ritka bepillantást enged Nyugat-Afrika kőkorszakába és az őskori vadászó-gyűjtögető népek életmódjába. Döntő fontosságú az emberiség korai történetének megértéséhez ezen a kontinensrészen, és a paleoantropológiai kutatások fontos célpontja.",
+      "descriptionAdvancedRo": "Grota Colombière de lângă Kindia este un important sit preistoric din Guineea. Săpăturile arheologice din anii 1950 au scos la iveală unelte de piatră și alte artefacte atribuite complexelor culturale Sangoan și Lupemban. Aceste descoperiri indică o prezență umană în regiune datând de până la 40.000 de ani. Peștera oferă astfel o fereastră rară către Epoca de Piatră din Africa de Vest și modul de viață al vânătorilor-culegători preistorici. Este de o importanță crucială pentru înțelegerea istoriei timpurii a umanității în această parte a continentului și o țintă importantă pentru cercetarea paleoantropologică.",
+      "descriptionAdvancedEn": "The Colombière Cave near Kindia is a significant prehistoric site in Guinea. Archaeological excavations in the 1950s unearthed stone tools and other artifacts attributed to the Sangoan and Lupemban cultural complexes. These finds indicate human presence in the region dating back as far as 40,000 years. The cave thus offers a rare window into the Stone Age of West Africa and the way of life of prehistoric hunter-gatherers. It is of crucial importance for understanding the early history of humanity in this part of the continent and an important target for paleoanthropological research.",
+      "factsAdvanced": [
+        "Wichtige prähistorische Fundstätte nahe Kindia.",
+        "Entdeckungen von Steinwerkzeugen aus der Steinzeit.",
+        "Funde werden auf bis zu 40.000 Jahre geschätzt.",
+        "Belege für die Sangoan- und Lupemban-Kulturen.",
+        "Erforscht in den 1950er Jahren.",
+        "Gibt Einblicke in das Leben prähistorischer Jäger und Sammler.",
+        "Schlüsselort für die Paläoanthropologie in Westafrika."
+      ]
+    },
+    {
+      "id": "koumi-sacred-site-history-v2",
+      "descriptionAdvancedDe": "Die heilige Stätte von Koumi in der Waldregion Guineas ist ein Ort von tiefgreifender spiritueller und historischer Bedeutung, insbesondere für das Volk der Kissi. Umgeben von dichtem Wald, dient dieser Ort seit Jahrhunderten als Zentrum für Initiationsriten, Ahnenkult und traditionelle Rechtsprechung. Hier werden wichtige Entscheidungen der Gemeinschaft getroffen und spirituelle Zeremonien abgehalten, um mit den Vorfahren in Kontakt zu treten. Die Geschichte von Koumi ist mündlich überliefert und eng mit den Mythen und der sozialen Struktur der lokalen Stämme verwoben. In einer sich schnell modernisierenden Welt stellt Koumi ein lebendiges Erbe dar, das die Kontinuität der traditionellen Glaubensvorstellungen und sozialen Praktiken in der Waldregion Guineas bewahrt.",
+      "descriptionAdvancedHu": "A Koumi szent hely Guinea erdős régiójában mély spirituális és történelmi jelentőséggel bír, különösen a kissi nép számára. A sűrű erdővel körülvett hely évszázadok óta a beavatási szertartások, az őskultusz és a hagyományos igazságszolgáltatás központja. Itt hozzák meg a közösség fontos döntéseit, és spirituális szertartásokat tartanak az ősökkel való kapcsolatfelvétel érdekében. Koumi története szóban öröklődik, és szorosan összefonódik a helyi törzsek mítoszaival és társadalmi szerkezetével. A gyorsan modernizálódó világban Koumi egy élő örökség, amely megőrzi a hagyományos hiedelmek és társadalmi gyakorlatok folytonosságát Guinea erdős régiójában.",
+      "descriptionAdvancedRo": "Situl sacru Koumi din regiunea forestieră a Guineei este un loc de o profundă importanță spirituală și istorică, în special pentru poporul Kissi. Înconjurat de păduri dese, acest loc a servit de secole drept centru pentru rituri de inițiere, cultul strămoșilor și justiția tradițională. Aici se iau decizii comunitare importante și se desfășoară ceremonii spirituale pentru a intra în contact cu strămoșii. Istoria sitului Koumi este transmisă pe cale orală și este strâns legată de miturile și structura socială a triburilor locale. Într-o lume care se modernizează rapid, Koumi reprezintă o moștenire vie care păstrează continuitatea credințelor tradiționale și a practicilor sociale în regiunea forestieră a Guineei.",
+      "descriptionAdvancedEn": "The sacred site of Koumi in the forest region of Guinea is a place of profound spiritual and historical significance, especially for the Kissi people. Surrounded by dense forest, this site has served for centuries as a center for initiation rites, ancestor worship, and traditional justice. Important community decisions are made here, and spiritual ceremonies are held to connect with the ancestors. The history of Koumi is passed down orally and is closely intertwined with the myths and social structure of the local tribes. In a rapidly modernizing world, Koumi represents a living heritage that preserves the continuity of traditional beliefs and social practices in Guinea's forest region.",
+      "factsAdvanced": [
+        "Alte heilige Stätte in der Waldregion Guineas.",
+        "Zentrum für Initiationsriten des Kissi-Volkes.",
+        "Ort des Ahnenkults und traditioneller Zeremonien.",
+        "Wird seit Jahrhunderten für spirituelle Zwecke genutzt.",
+        "Die Geschichte wird mündlich überliefert.",
+        "Symbol für die Kontinuität traditioneller Glaubenssysteme.",
+        "Liegt abgeschieden in einem dichten Waldgebiet."
+      ]
+    },
+    {
+      "id": "timbo-mosque-history-v2",
+      "descriptionAdvancedDe": "Die historische Moschee von Timbo ist das spirituelle Herz des Fouta Djallon. Timbo war ab 1725 die Hauptstadt des theokratischen Imamats von Fouta Djallon, einem der mächtigsten Staaten Westafrikas vor der Kolonialzeit. Die Moschee war nicht nur ein Ort des Gebets, sondern auch eine renommierte Universität und ein Zentrum für islamische Gelehrsamkeit, dessen Einfluss weit über die Grenzen des Reiches hinausreichte. Obwohl die ursprüngliche Lehmstruktur mehrmals umgebaut wurde, repräsentiert die heutige Moschee immer noch den traditionellen sudanesischen Baustil der Region. Sie ist ein Symbol für die tiefen islamischen Wurzeln der Fulbe-Kultur und ein wichtiger Pilgerort, der an die glorreiche Vergangenheit des Imamats und seine Rolle bei der Verbreitung des Islam erinnert.",
+      "descriptionAdvancedHu": "A timbói történelmi mecset a Fouta Djallon spirituális szíve. Timbo 1725-től a Fouta Djallon teokratikus imámátusának fővárosa volt, amely Nyugat-Afrika egyik leghatalmasabb állama volt a gyarmatosítás előtt. A mecset nemcsak az imádság helye volt, hanem egy neves egyetem és az iszlám tudományosság központja is, amelynek befolyása messze túlmutatott a birodalom határain. Bár az eredeti vályogszerkezetet többször átépítették, a mai mecset még mindig a régió hagyományos szudáni építészeti stílusát képviseli. A fulbe kultúra mély iszlám gyökereinek szimbóluma és fontos zarándokhely, amely az imámátus dicső múltjára és az iszlám terjesztésében betöltött szerepére emlékeztet.",
+      "descriptionAdvancedRo": "Moscheea istorică din Timbo este inima spirituală a Fouta Djallon. Începând cu 1725, Timbo a fost capitala imamatului teocratic Fouta Djallon, unul dintre cele mai puternice state din Africa de Vest înainte de perioada colonială. Moscheea nu a fost doar un lăcaș de cult, ci și o universitate renumită și un centru de erudiție islamică, a cărui influență s-a extins mult dincolo de granițele imperiului. Deși structura originală din chirpici a fost reconstruită de mai multe ori, moscheea actuală reprezintă încă stilul arhitectural tradițional sudanez al regiunii. Este un simbol al rădăcinilor islamice profunde ale culturii Fulbe și un important loc de pelerinaj, amintind de trecutul glorios al imamatului și de rolul său în răspândirea islamului.",
+      "descriptionAdvancedEn": "The historic mosque of Timbo is the spiritual heart of Fouta Djallon. From 1725, Timbo was the capital of the theocratic Imamate of Fouta Djallon, one of the most powerful states in West Africa before the colonial era. The mosque was not only a place of prayer but also a renowned university and a center for Islamic scholarship, whose influence extended far beyond the empire's borders. Although the original mud-brick structure has been rebuilt several times, the current mosque still represents the traditional Sudanese architectural style of the region. It is a symbol of the deep Islamic roots of the Fulbe culture and an important pilgrimage site, commemorating the glorious past of the Imamate and its role in the spread of Islam.",
+      "factsAdvanced": [
+        "Religiöses Zentrum des historischen Imamats von Fouta Djallon.",
+        "Timbo war die Hauptstadt des Imamats ab ca. 1725.",
+        "Symbol der islamischen Gelehrsamkeit der Fulbe.",
+        "Die Architektur ist im sudanesischen Stil gehalten.",
+        "Ehemals eine bedeutende islamische Universität.",
+        "Wichtiger Pilgerort für Muslime in der Region.",
+        "Erinnert an die politische und religiöse Macht des Fouta Djallon."
+      ]
+    },
+    {
+      "id": "benty-port-history-v2",
+      "descriptionAdvancedDe": "Der alte Kolonialhafen von Benty, in der Nähe von Forécariah gelegen, ist heute eine melancholische Ansammlung von Ruinen, die von einer vergangenen wirtschaftlichen Blütezeit zeugen. Im späten 19. und frühen 20. Jahrhundert entwickelte sich Benty zu einem wichtigen Exporthafen für landwirtschaftliche Produkte aus der Küstenregion, insbesondere für Kautschuk und Bananen. Die verfallenen Lagerhäuser, Verwaltungsgebäude und die Überreste der Anlegestelle erzählen die Geschichte des kolonialen Handels und der Ausbeutung natürlicher Ressourcen. Nach der Unabhängigkeit und der Verlagerung der Handelsrouten verlor der Hafen an Bedeutung und wurde dem Verfall überlassen. Heute ist Benty ein 'Lost Place', der Historiker und Fotografen anzieht und an ein wichtiges Kapitel der Wirtschaftsgeschichte Guineas erinnert.",
+      "descriptionAdvancedHu": "Benty régi gyarmati kikötője Forécariah közelében ma már a romok melankolikus gyűjteménye, amely a múlt gazdasági virágzásáról tanúskodik. A 19. század végén és a 20. század elején Benty a part menti régió mezőgazdasági termékeinek, különösen a guminak és a banánnak fontos exportkikötőjévé fejlődött. Az omladozó raktárak, irodaépületek és a móló maradványai a gyarmati kereskedelem és a természeti erőforrások kiaknázásának történetét mesélik el. A függetlenség elnyerése és a kereskedelmi útvonalak áthelyeződése után a kikötő elvesztette jelentőségét és pusztulásnak indult. Ma Benty egy 'elveszett hely', amely vonzza a történészeket és fotósokat, és Guinea gazdaságtörténetének egy fontos fejezetére emlékeztet.",
+      "descriptionAdvancedRo": "Vechiul port colonial Benty, situat lângă Forécariah, este astăzi o colecție melancolică de ruine care mărturisesc o prosperitate economică trecută. La sfârșitul secolului al XIX-lea și începutul secolului al XX-lea, Benty a devenit un important port de export pentru produsele agricole din regiunea de coastă, în special pentru cauciuc și banane. Depozitele dărăpănate, clădirile administrative și rămășițele debarcaderului spun povestea comerțului colonial și a exploatării resurselor naturale. După independență și mutarea rutelor comerciale, portul și-a pierdut importanța și a fost lăsat în paragină. Astăzi, Benty este un „loc pierdut” care atrage istorici și fotografi, amintind de un capitol important din istoria economică a Guineei.",
+      "descriptionAdvancedEn": "The old colonial port of Benty, located near Forécariah, is now a melancholic collection of ruins that bear witness to a past economic boom. In the late 19th and early 20th centuries, Benty developed into an important export port for agricultural products from the coastal region, especially rubber and bananas. The decaying warehouses, administrative buildings, and the remains of the pier tell the story of colonial trade and the exploitation of natural resources. After independence and the shifting of trade routes, the port lost its importance and was left to decay. Today, Benty is a 'lost place' that attracts historians and photographers, reminiscent of an important chapter in Guinea's economic history.",
+      "factsAdvanced": [
+        "Wichtiger Exporthafen während der französischen Kolonialzeit.",
+        "Hauptausfuhrgüter waren Kautschuk und Bananen.",
+        "Die Blütezeit lag im späten 19. und frühen 20. Jahrhundert.",
+        "Ruinen von Lagerhäusern und Verwaltungsgebäuden sind noch sichtbar.",
+        "Verlor nach der Unabhängigkeit Guineas an Bedeutung.",
+        "Liegt in der Küstenregion nahe Forécariah.",
+        "Symbol für den Aufstieg und Fall des kolonialen Handels."
+      ]
+    }
+  ]
+}

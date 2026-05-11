@@ -1,0 +1,19 @@
+{
+  "lang": "de",
+  "country": "Srilanka",
+  "files": [
+    "lib/visualLab/data/poiExtraSrilankaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalu-river-nature-v2",
+      "description": "Der Kalu Ganga ist einer der wichtigsten Flüsse Sri Lankas, der im zentralen Hochland entspringt und bei Kalutara in den Indischen Ozean mündet. Er fließt durch eine abwechslungsreiche Landschaft und ist für seine Bedeutung bei der Wasserversorgung der Region bekannt.",
+      "facts": ["Entspringt im Sri Pada", "Mündet bei Kalutara", "Länge etwa 129 Kilometer", "Wichtiger Wasserlieferant"]
+    },
+    {
+      "id": "walawe-river-nature-v2",
+      "description": "Der Walawe Ganga entspringt im zentralen Hochland und durchfließt den Südosten Sri Lankas. Der Fluss ist eng mit dem Udawalawe-Nationalpark verbunden und spielt eine entscheidende Rolle für die Bewässerung der umliegenden landwirtschaftlichen Flächen.",
+      "facts": ["Durchfließt den Südosten", "Speist den Udawalawe-Stausee", "Lebensraum für Elefanten", "Wichtig für die Landwirtschaft"]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lang": "multi4",
+  "country": "cameroon",
+  "files": ["lib/visualLab/data/poiExtraCameroonNatureV2.ts"],
+  "items": [
+    {
+      "id": "mount-cameroon-nature-v2",
+      "descriptionAdvancedHu": "A Kamerun-hegy, helyi nevén Mongo ma Ndemi ('Istenek hegye'), egy aktív vulkán és Nyugat-Afrika legmagasabb csúcsa, amely 4040 méterrel emelkedik a tengerszint fölé. A kameruni partvidéken, Buea városa mellett található. A hegy a kameruni vulkáni vonal része, amely a Csád-tótól az Atlanti-óceánig húzódik. A hegy lejtőin egyedülálló ökológiai zónák alakultak ki, a lábánál található trópusi esőerdőktől a csúcs közelében lévő szubalpin gyepekig. Ez a változatos élőhely számos endemikus növény- és állatfajnak ad otthont, köztük a kameruni-hegyi frankolinnak és a Mount Cameroon speiropsnak. A hegy rendszeresen kitör, a legutóbbi jelentősebb aktivitást 2000-ben és 2012-ben jegyezték fel. A 'Mount Cameroon Race of Hope' egy évente megrendezett hegyi futóverseny, amely a világ minden tájáról vonzza a versenyzőket.",
+      "descriptionAdvancedRo": "Muntele Camerun, cunoscut local ca Mongo ma Ndemi ('Muntele Zeilor'), este un vulcan activ și cel mai înalt vârf din Africa de Vest, ridicându-se la 4.040 de metri deasupra nivelului mării. Este situat pe coasta Camerunului, lângă orașul Buea. Muntele face parte din Linia Vulcanică Camerun, o catenă de vulcani care se întinde de la Lacul Ciad până în Oceanul Atlantic. Pantele muntelui prezintă o zonare ecologică unică, de la pădurea tropicală de la bază la pajiștile subalpine de lângă vârf. Acest habitat divers susține numeroase specii endemice de floră și faună, inclusiv francolinul de Muntele Camerun și pasărea speirops de Muntele Camerun. Muntele erupe periodic, cu activități notabile înregistrate în 2000 și 2012. 'Cursa Speranței de pe Muntele Camerun' este o cursă montană anuală care atrage concurenți din întreaga lume.",
+      "descriptionAdvancedEn": "Mount Cameroon, known locally as Mongo ma Ndemi ('Mountain of the Gods'), is an active volcano and the highest peak in West Africa, rising to 4,040 meters above sea level. It is located on the coast of Cameroon, near the town of Buea. The mountain is part of the Cameroon Volcanic Line, a chain of volcanoes that stretches from Lake Chad into the Atlantic Ocean. The slopes of the mountain feature a unique ecological zonation, from tropical rainforest at its base to sub-alpine grasslands near the summit. This diverse habitat supports numerous endemic species of flora and fauna, including the Mount Cameroon francolin and the Mount Cameroon speirops. The mountain erupts periodically, with notable activity recorded in 2000 and 2012. The 'Mount Cameroon Race of Hope' is an annual mountain running race that attracts competitors from around the world.",
+      "factsAdvanced": [
+        "Highest peak in West Africa, at 4,040 meters (13,255 ft).",
+        "An active volcano, with the most recent eruption in 2012.",
+        "Part of the Cameroon Volcanic Line.",
+        "Its slopes are home to endemic species like the Mount Cameroon Francolin.",
+        "The annual 'Race of Hope' is a famous ultramarathon to the summit.",
+        "Vegetation ranges from rainforest to montane grassland.",
+        "Located near the coastal city of Limbe and the town of Buea.",
+        "The local Bakweri people consider the mountain sacred."
+      ]
+    },
+    {
+      "id": "lake-nyos-nature-v2",
+      "descriptionAdvancedHu": "A Nyos-tó egy mély krátertó Kamerun Északnyugati Régiójában, amely egy inaktív vulkán tetején helyezkedik el az Oku vulkáni mezőn. A tó világszerte hírhedtté vált egy 1986-os természeti katasztrófa után. Augusztus 21-én a tó hirtelen nagy mennyiségű szén-dioxidot (CO2) bocsátott ki, amely a tó mély vizében oldódott fel. A gázfelhő leereszkedett a környező völgyekbe, és több mint 1700 embert és 3500 állatot fojtott meg. Ez a limnikus kitörés a történelem egyik legrosszabb természeti katasztrófája volt. A katasztrófa óta a tavat mesterséges csővezetékekkel gáztalanítják, hogy megakadályozzák a CO2 újbóli felhalmozódását. A Nyos-tó esete rávilágított a vulkáni tavakban rejlő veszélyekre, és a tudósok számára fontos kutatási helyszínné vált.",
+      "descriptionAdvancedRo": "Lacul Nyos este un lac de crater adânc din Regiunea de Nord-Vest a Camerunului, situat pe un vulcan inactiv din Câmpul Vulcanic Oku. Lacul a devenit infam la nivel mondial în urma unui dezastru natural din 1986. Pe 21 august, lacul a eliberat brusc o cantitate masivă de dioxid de carbon (CO2) care fusese dizolvat în apele sale adânci. Norul de gaz s-a deplasat în văile înconjurătoare, sufocând peste 1.700 de oameni și 3.500 de animale. Această erupție limnică a fost unul dintre cele mai grave dezastre naturale de acest tip din istorie. De la dezastru, lacul a fost degazat artificial folosind conducte pentru a preveni o nouă acumulare de CO2. Cazul Lacului Nyos a evidențiat pericolele inerente ale lacurilor vulcanice și a devenit un sit important de cercetare pentru oamenii de știință.",
+      "descriptionAdvancedEn": "Lake Nyos is a deep crater lake in the Northwest Region of Cameroon, located on top of an inactive volcano in the Oku Volcanic Field. The lake became infamous globally following a natural disaster in 1986. On August 21, the lake suddenly emitted a massive amount of carbon dioxide (CO2) that had been dissolved in its deep waters. The cloud of gas descended into the surrounding valleys, suffocating over 1,700 people and 3,500 livestock. This limnic eruption was one of the worst natural disasters of its kind in history. Since the disaster, the lake has been artificially degassed using pipes to prevent a future build-up of CO2. The case of Lake Nyos highlighted the inherent dangers of volcanic lakes and has become a major research site for scientists.",
+      "factsAdvanced": [
+        "A deep crater lake on the flank of an inactive volcano.",
+        "Site of a deadly limnic eruption in 1986.",
+        "The eruption released an estimated 1.2 cubic kilometers of CO2.",
+        "The gas cloud killed over 1,700 people and thousands of animals.",
+        "The lake's water is held in place by a natural volcanic dam.",
+        "A degassing project with pipes was installed in 2001 to make the lake safer.",
+        "It is one of only three known 'exploding lakes' in the world.",
+        "The lake is approximately 208 meters deep."
+      ]
+    },
+    {
+      "id": "logone-river-nature-v2",
+      "descriptionAdvancedHu": "A Logone folyó a Csari folyó egyik fő mellékfolyója, amely a Közép-afrikai Köztársaságban ered, és Kamerun és Csád közötti határ jelentős részét képezi. A folyó rendkívül fontos a régió ökológiája és gazdasága szempontjából. Vize a Waza Nemzeti Park hatalmas árterét táplálja Kamerunban, amely egy létfontosságú élőhely a vízimadarak, antilopok és elefántok számára. A folyó mentén a halászat a helyi közösségek egyik fő megélhetési forrása. A Logone vízhozama erősen szezonális, a csapadékos évszakban tetőzik, és a száraz évszakban jelentősen csökken. A folyó és árterei a klímaváltozás és a folyásirányban felfelé történő vízkivétel miatt nyomás alatt állnak, ami hatással van a Waza Nemzeti Park ökoszisztémájára és a helyi gazdaságokra.",
+      "descriptionAdvancedRo": "Râul Logone este un afluent major al râului Chari, izvorând din Republica Centrafricană și formând o porțiune semnificativă a graniței dintre Camerun și Ciad. Râul este extrem de important pentru ecologia și economia regiunii. Apele sale alimentează vasta luncă inundabilă a Parcului Național Waza din Camerun, un habitat vital pentru păsări de apă, antilope și elefanți. De-a lungul râului, pescuitul este o sursă principală de subzistență pentru comunitățile locale. Debitul râului Logone este foarte sezonier, atingând un vârf în timpul sezonului ploios și scăzând semnificativ în timpul sezonului uscat. Râul și luncile sale inundabile se confruntă cu presiuni din cauza schimbărilor climatice și a extracției de apă în amonte, ceea ce afectează ecosistemul Parcului Național Waza și economiile locale.",
+      "descriptionAdvancedEn": "The Logone River is a major tributary of the Chari River, originating in the Central African Republic and forming a significant portion of the border between Cameroon and Chad. The river is critically important to the region's ecology and economy. Its waters feed the vast floodplain of the Waza National Park in Cameroon, a vital habitat for waterbirds, antelope, and elephants. Along the river, fishing is a primary source of livelihood for local communities. The flow of the Logone is highly seasonal, peaking during the wet season and diminishing significantly during the dry season. The river and its floodplains are under pressure from climate change and upstream water abstraction, which impacts the Waza National Park ecosystem and local economies.",
+      "factsAdvanced": [
+        "A major tributary of the Chari River.",
+        "Forms a large part of the border between Cameroon and Chad.",
+        "Its annual flood is crucial for the Waza National Park floodplain.",
+        "The floodplain is a Ramsar-designated wetland of international importance.",
+        "Supports major fisheries that are vital for local food security.",
+        "Its flow has been impacted by dam construction and climate variability.",
+        "The historic capital of the Sao civilization was located near the river.",
+        "The river is approximately 1,000 km long."
+      ]
+    },
+    {
+      "id": "nkam-river-nature-v2",
+      "descriptionAdvancedHu": "Az Nkam folyó a Wouri folyó egyik fő forrásága Kamerun Nyugati Régiójában. A Manengouba-hegység közelében ered, és buja, erdős tájakon folyik keresztül. A folyó leginkább a látványos Ekom-vízesésről ismert, amely egy népszerű turisztikai célpont. A vízesés egy körülbelül 80 méteres szikláról zuhan le egy medencébe, trópusi esőerdővel körülvéve. A helyszín annyira festői, hogy az 1984-es 'Greystoke – Tarzan, a majmok ura' című filmben is szerepelt. A vízesésen túl az Nkam folyó fontos vízforrás a helyi mezőgazdaság számára, különösen a kávé- és kakaóültetvények öntözésére. A folyó biológiai sokféleségben gazdag, de az erdőirtás és a mezőgazdasági vegyszerek lefolyása veszélyezteti. A folyó végül a Makombé folyóval egyesül, és a Wouri folyót alkotja, amely Douala városánál ömlik az óceánba.",
+      "descriptionAdvancedRo": "Râul Nkam este un afluent principal al râului Wouri, în Regiunea de Vest a Camerunului. Izvorăște în apropierea Munților Manengouba și curge prin peisaje luxuriante și împădurite. Râul este cel mai faimos pentru spectaculoasele Cascade Ekom, o destinație turistică populară. Cascada se prăbușește de pe o stâncă de aproximativ 80 de metri într-un bazin, înconjurat de pădure tropicală. Locația este atât de pitorească încât a fost prezentată în filmul din 1984 'Greystoke: Legenda lui Tarzan, Stăpânul Maimuțelor'. Dincolo de cascade, râul Nkam este o resursă importantă de apă pentru agricultura locală, în special pentru irigarea plantațiilor de cafea și cacao. Râul este bogat în biodiversitate, dar se confruntă cu amenințări din cauza defrișărilor și a scurgerilor de substanțe chimice agricole. În cele din urmă, râul se unește cu râul Makombé pentru a forma râul Wouri, care se varsă în ocean la Douala.",
+      "descriptionAdvancedEn": "The Nkam River is a major headwater of the Wouri River, located in Cameroon's Western Region. It originates near the Manengouba mountains and flows through lush, forested landscapes. The river is most famous for the spectacular Ekom Falls, a popular tourist destination. The waterfall plunges about 80 meters off a cliff into a pool below, surrounded by tropical rainforest. The location is so scenic it was featured in the 1984 movie 'Greystoke: The Legend of Tarzan, Lord of the Apes'. Beyond the falls, the Nkam River is an important water source for local agriculture, particularly for irrigating coffee and cocoa plantations. The river is rich in biodiversity but faces threats from deforestation and agricultural chemical runoff. The river eventually joins the Makombé River to form the Wouri River, which empties into the ocean at Douala.",
+      "factsAdvanced": [
+        "A major tributary forming the Wouri River.",
+        "Home to the famous Ekom Falls, which are about 80 meters high.",
+        "Ekom Falls was a filming location for 'Greystoke: The Legend of Tarzan'.",
+        "The river originates in the Western High Plateau of Cameroon.",
+        "Flows through a region known for coffee and cocoa production.",
+        "The surrounding forest is rich in biodiversity.",
+        "Its waters are essential for communities in the Nkam department.",
+        "The river's course is marked by numerous rapids and falls."
+      ]
+    }
+  ]
+}

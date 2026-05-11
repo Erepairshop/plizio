@@ -1,0 +1,379 @@
+{
+  "lang": "multi4",
+  "country": "laos",
+  "files": [
+    "lib/visualLab/data/poiExtraLaosCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "vientiane-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Laos, situated along the curve of the Mekong River.",
+          "Home to Pha That Luang, a gold-covered stupa and national symbol.",
+          "Features Patuxai, a massive war monument resembling the Arc de Triomphe.",
+          "Buddha Park contains over 200 Hindu and Buddhist concrete statues.",
+          "The city served as the French administrative capital during the colonial era.",
+          "Known for its laid-back atmosphere, tree-lined boulevards, and temples."
+        ],
+        "de": [
+          "Hauptstadt von Laos, gelegen an einer Biegung des Mekong-Flusses.",
+          "Heimat von Pha That Luang, einem goldbedeckten Stupa und Nationalsymbol.",
+          "Das Kriegerdenkmal Patuxai ähnelt dem Arc de Triomphe in Paris.",
+          "Der Buddha-Park enthält über 200 hinduistische und buddhistische Statuen.",
+          "Während der Kolonialzeit war die Stadt das französische Verwaltungszentrum.",
+          "Bekannt für ihre entspannte Atmosphäre und von Bäumen gesäumte Straßen."
+        ],
+        "hu": [
+          "Laosz fővárosa, amely a Mekong folyó egyik kanyarulatában fekszik.",
+          "Itt található a Pha That Luang, egy aranyozott sztúpa és nemzeti szimbólum.",
+          "A Patuxai háborús emlékmű a párizsi Diadalívhez hasonlít.",
+          "A Buddha Park több mint 200 hindu és buddhista betonszobrot rejt.",
+          "A gyarmati korszakban a város francia közigazgatási központ volt.",
+          "Híres nyugodt légköréről, fákkal szegélyezett sugárútjairól és templomairól."
+        ],
+        "ro": [
+          "Capitala statului Laos, situată de-a lungul râului Mekong.",
+          "Găzduiește Pha That Luang, o stupă aurită și un simbol național.",
+          "Monumentul de război Patuxai seamănă cu Arcul de Triumf din Paris.",
+          "Parcul Buddha conține peste 200 de statui hinduse și budiste din beton.",
+          "Orașul a fost centrul administrativ francez în timpul epocii coloniale.",
+          "Cunoscut pentru atmosfera relaxată și bulevardele străjuite de copaci."
+        ]
+      }
+    },
+    {
+      "id": "luang-prabang-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Former royal capital located at the confluence of the Nam Khan and Mekong rivers.",
+          "Designated a UNESCO World Heritage site in 1995 for its architectural preservation.",
+          "Famous for Mount Phousi, a 100-meter high hill in the center with a hilltop temple.",
+          "Kuang Si Falls, a three-tiered waterfall with turquoise pools, is located nearby.",
+          "The morning alms giving ceremony involves hundreds of monks collecting food.",
+          "Houses the Royal Palace Museum, built in 1904 during the French colonial era."
+        ],
+        "de": [
+          "Ehemalige königliche Hauptstadt am Zusammenfluss von Nam Khan und Mekong.",
+          "Wurde 1995 wegen ihrer architektonischen Erhaltung zum UNESCO-Weltkulturerbe erklärt.",
+          "Berühmt für den Mount Phousi, einen 100 Meter hohen Hügel mit einem Tempel.",
+          "Die Kuang Si Wasserfälle mit ihren türkisfarbenen Becken liegen in der Nähe.",
+          "An der morgendlichen Almosengabe nehmen Hunderte von Mönchen teil.",
+          "Beherbergt das Royal Palace Museum, das 1904 erbaut wurde."
+        ],
+        "hu": [
+          "Egykori királyi főváros a Nam Khan és a Mekong folyók összefolyásánál.",
+          "1995-ben építészeti öröksége miatt az UNESCO Világörökség része lett.",
+          "Híres a Phousi-hegyről, egy 100 méter magas dombról a városközpontban.",
+          "A Kuang Si-vízesés türkizkék medencéivel a közelben található.",
+          "A reggeli alamizsnaosztáson szerzetesek százai gyűjtenek élelmet.",
+          "Itt található az 1904-ben épült Királyi Palota Múzeum is."
+        ],
+        "ro": [
+          "Fostă capitală regală situată la confluența râurilor Nam Khan și Mekong.",
+          "Desemnată sit al Patrimoniului Mondial UNESCO în 1995 pentru arhitectura sa.",
+          "Renumită pentru Muntele Phousi, un deal de 100 de metri cu un templu în vârf.",
+          "Cascadele Kuang Si, cu bazinele lor turcoaz, se află în apropiere.",
+          "Ceremonia matinală de pomană implică sute de călugări care colectează hrană.",
+          "Găzduiește Muzeul Palatului Regal, construit în 1904 în epoca colonială."
+        ]
+      }
+    },
+    {
+      "id": "pakse-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Founded by the French in 1905 as an administrative outpost on the Mekong.",
+          "Serves as the primary gateway to the fertile Bolaven Plateau.",
+          "The city is the capital of Champasak Province in southern Laos.",
+          "Nearby is the ancient Khmer Hindu temple complex of Vat Phou, a UNESCO site.",
+          "Features the massive Dao Heuang Market, one of the biggest in the country.",
+          "The Pakse Bridge over the Mekong River was opened in 2000."
+        ],
+        "de": [
+          "1905 von den Franzosen als Verwaltungsposten am Mekong gegründet.",
+          "Dient als wichtigstes Tor zum fruchtbaren Bolaven-Plateau.",
+          "Die Stadt ist die Hauptstadt der Provinz Champasak im Süden von Laos.",
+          "In der Nähe befindet sich der alte Khmer-Tempelkomplex Vat Phou.",
+          "Verfügt über den riesigen Dao Heuang Markt, einen der größten des Landes.",
+          "Die Pakse-Brücke über den Mekong wurde im Jahr 2000 eröffnet."
+        ],
+        "hu": [
+          "A franciák alapították 1905-ben közigazgatási központként a Mekong partján.",
+          "A termékeny Bolaven-fennsík elsődleges kapujaként szolgál.",
+          "A város a dél-laoszi Champasak tartomány fővárosa.",
+          "A közelben található a Vat Phou ősi khmer templomkomplexum.",
+          "Itt működik a hatalmas Dao Heuang piac, az ország egyik legnagyobbika.",
+          "A Mekong folyón átívelő Pakse-hidat 2000-ben nyitották meg."
+        ],
+        "ro": [
+          "Fondat de francezi în 1905 ca avanpost administrativ pe râul Mekong.",
+          "Servește ca poartă principală de acces către fertilul Platou Bolaven.",
+          "Orașul este capitala provinciei Champasak din sudul statului Laos.",
+          "În apropiere se află complexul antic al templului hindus Khmer Vat Phou.",
+          "Găzduiește masiva Piață Dao Heuang, una dintre cele mai mari din țară.",
+          "Podul Pakse peste râul Mekong a fost deschis în anul 2000."
+        ]
+      }
+    },
+    {
+      "id": "savannakhet-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Also known as Kaysone Phomvihane, it is the second-largest city in Laos.",
+          "The city's historical name translates to 'City of Gold'.",
+          "Features a well-preserved historic quarter with French colonial architecture.",
+          "The Second Thai-Lao Friendship Bridge connects it directly to Thailand.",
+          "That Inhang Stupa is an important sacred Buddhist site located nearby.",
+          "The local Dinosaur Museum exhibits fossils discovered in the province."
+        ],
+        "de": [
+          "Auch als Kaysone Phomvihane bekannt, ist es die zweitgrößte Stadt in Laos.",
+          "Der historische Name der Stadt lässt sich mit 'Stadt des Goldes' übersetzen.",
+          "Verfügt über ein gut erhaltenes historisches Viertel mit Kolonialarchitektur.",
+          "Die Zweite Thailändisch-Laotische Freundschaftsbrücke verbindet sie mit Thailand.",
+          "Der That Inhang Stupa ist eine wichtige heilige buddhistische Stätte.",
+          "Das lokale Dinosauriermuseum stellt in der Provinz entdeckte Fossilien aus."
+        ],
+        "hu": [
+          "Kaysone Phomvihane néven is ismert, Laosz második legnagyobb városa.",
+          "A város történelmi nevének jelentése 'Az arany városa'.",
+          "Jól megőrzött történelmi negyeddel és francia gyarmati építészettel büszkélkedhet.",
+          "A Második Thai-Lao Barátság Hídja közvetlenül köti össze Thaifölddel.",
+          "A That Inhang sztúpa egy fontos szent buddhista hely a közelben.",
+          "A helyi Dinoszaurusz Múzeum a tartományban talált kövületeket mutatja be."
+        ],
+        "ro": [
+          "Cunoscut și sub numele de Kaysone Phomvihane, este al doilea oraș ca mărime.",
+          "Numele istoric al orașului se traduce prin 'Orașul de Aur'.",
+          "Prezintă un cartier istoric bine conservat, cu arhitectură colonială franceză.",
+          "Al Doilea Pod al Prieteniei Thai-Lao îl conectează direct la Thailanda.",
+          "Stupa That Inhang este un important sit sacru budist din apropiere.",
+          "Muzeul local al dinozaurilor expune fosile descoperite în provincie."
+        ]
+      }
+    },
+    {
+      "id": "thakhek-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Located on the Mekong River, directly opposite the Thai town of Nakhon Phanom.",
+          "Known for its restored French colonial-era shophouses around the old square.",
+          "A popular starting point for the Thakhek Loop, a famous motorcycle route.",
+          "Nearby Kong Lor Cave is a massive karst limestone cave navigable by boat.",
+          "The surrounding area features dramatic karst rock formations and peaks.",
+          "Founded as a colonial outpost, it served as a major regional trading hub."
+        ],
+        "de": [
+          "Liegt am Mekong, direkt gegenüber der thailändischen Stadt Nakhon Phanom.",
+          "Bekannt für seine restaurierten Kolonialhäuser rund um den alten Platz.",
+          "Ein beliebter Ausgangspunkt für den Thakhek Loop, eine Motorradroute.",
+          "Die nahegelegene Kong Lor Höhle ist eine riesige, mit dem Boot befahrbare Karsthöhle.",
+          "Die Umgebung bietet dramatische Karstfelsformationen und Gipfel.",
+          "Gegründet als kolonialer Außenposten, diente es als wichtiges Handelszentrum."
+        ],
+        "hu": [
+          "A Mekong folyó partján fekszik, szemben a thai Nakhon Phanom városával.",
+          "A régi tér körüli felújított francia gyarmati üzletházairól ismert.",
+          "A híres Thakhek Loop motorkerékpáros útvonal népszerű kiindulópontja.",
+          "A közeli Kong Lor egy hatalmas, csónakkal hajózható mészkőbarlang.",
+          "A környéket drámai karszt sziklaalakzatok és hegycsúcsok jellemzik.",
+          "Gyarmati előőrsként alapították, a régió egyik fő kereskedelmi központja volt."
+        ],
+        "ro": [
+          "Situat pe râul Mekong, exact vizavi de orașul thailandez Nakhon Phanom.",
+          "Cunoscut pentru clădirile comerciale din epoca colonială franceză.",
+          "Un punct de plecare popular pentru Thakhek Loop, un traseu de motociclete.",
+          "Peștera Kong Lor din apropiere este o cavernă de calcar navigabilă cu barca.",
+          "Zona înconjurătoare prezintă formațiuni stâncoase și vârfuri carstice.",
+          "Fondat ca avanpost colonial, a servit ca un important centru comercial regional."
+        ]
+      }
+    },
+    {
+      "id": "vang-vieng-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Situated on the Nam Song River and surrounded by striking limestone karst mountains.",
+          "Originally served as a staging post between Vientiane and Luang Prabang.",
+          "Tham Phu Kham cave features a bronze reclining Buddha and a blue lagoon.",
+          "Known for outdoor activities like kayaking, rock climbing, and hot air ballooning.",
+          "Has transitioned from a backpacker party town to an eco-tourism destination.",
+          "Several organic farms in the area produce mulberry tea and local wine."
+        ],
+        "de": [
+          "Gelegen am Fluss Nam Song und umgeben von markanten Kalksteinkarstbergen.",
+          "Diente ursprünglich als Zwischenstation zwischen Vientiane und Luang Prabang.",
+          "Die Höhle Tham Phu Kham beherbergt einen liegenden Buddha und eine blaue Lagune.",
+          "Bekannt für Outdoor-Aktivitäten wie Kajakfahren, Klettern und Ballonfahrten.",
+          "Hat sich von einer Backpacker-Partystadt zu einem Ökotourismus-Ziel entwickelt.",
+          "Mehrere Bio-Bauernhöfe in der Umgebung produzieren Maulbeertee und lokalen Wein."
+        ],
+        "hu": [
+          "A Nam Song folyó partján fekszik, látványos mészkőkarszt hegyekkel övezve.",
+          "Eredetileg Vientiane és Luang Prabang közötti pihenőállomásként szolgált.",
+          "A Tham Phu Kham barlang egy fekvő Buddhát és egy kék lagúnát is rejt.",
+          "Olyan szabadtéri tevékenységekről ismert, mint a kajakozás és a sziklamászás.",
+          "Hátizsákos partivárosból fokozatosan ökoturisztikai célponttá alakult.",
+          "A környéken számos biogazdaság termel eperfateát és helyi bort."
+        ],
+        "ro": [
+          "Situat pe râul Nam Song și înconjurat de munți de calcar carstic impresionanți.",
+          "A servit inițial ca popas între Vientiane și Luang Prabang.",
+          "Peștera Tham Phu Kham prezintă un Buddha culcat din bronz și o lagună albastră.",
+          "Cunoscut pentru activități în aer liber precum caiacul și alpinismul.",
+          "A evoluat dintr-un oraș de petrecere pentru backpackeri într-o destinație ecoturistică.",
+          "Mai multe ferme organice din zonă produc ceai de dud și vin local."
+        ]
+      }
+    },
+    {
+      "id": "phonsavan-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Xiangkhouang Province, built in the late 1970s to replace the old capital.",
+          "Serves as the main gateway to the Plain of Jars archaeological landscape.",
+          "The region was heavily bombed during the Secret War, leaving unexploded ordnance.",
+          "Known for its cooler climate due to its elevation on the Xiangkhouang Plateau.",
+          "Locals creatively use scrap metal from war remnants to make everyday tools.",
+          "Features a unique landscape of pine forests, which is uncommon in Laos."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Xiangkhouang, Ende der 1970er Jahre erbaut.",
+          "Dient als wichtigstes Tor zur archäologischen Landschaft der Ebene der Tonkrüge.",
+          "Die Region wurde während des Geheimen Krieges stark bombardiert.",
+          "Bekannt für ihr kühleres Klima aufgrund der Lage auf dem Xiangkhouang-Plateau.",
+          "Einheimische nutzen Altmetall von Kriegsüberresten für alltägliche Werkzeuge.",
+          "Verfügt über eine einzigartige Landschaft mit Kiefernwäldern, die in Laos selten ist."
+        ],
+        "hu": [
+          "Xiangkhouang tartomány fővárosa, melyet a régi központ helyett építettek az 1970-es években.",
+          "Ez a fő kapu a Korsók Völgye elnevezésű régészeti tájhoz.",
+          "A régiót súlyosan bombázták a titkos háború alatt, sok fel nem robbant lőszer maradt.",
+          "A Xiangkhouang-fennsíkon fekszik, ezért az éghajlata hűvösebb a megszokottnál.",
+          "A helyiek a háborús roncshulladékot mindennapi eszközök készítésére használják.",
+          "Egyedülálló fenyőerdős tájjal rendelkezik, ami ritka Laoszban."
+        ],
+        "ro": [
+          "Capitala provinciei Xiangkhouang, construită la sfârșitul anilor 1970.",
+          "Servește ca poartă principală către peisajul arheologic Câmpia Urcioarelor.",
+          "Regiunea a fost puternic bombardată, lăsând în urmă muniție neexplodată.",
+          "Cunoscut pentru clima mai rece datorită altitudinii sale pe Platoul Xiangkhouang.",
+          "Localnicii folosesc fierul vechi din resturile de război pentru a face unelte.",
+          "Prezintă un peisaj unic de păduri de pini, care este neobișnuit în Laos."
+        ]
+      }
+    },
+    {
+      "id": "xam-neua-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Capital of Houaphanh Province in northeastern Laos, located in a mountainous valley.",
+          "Known for the nearby Viengxay caves, which served as the Pathet Lao headquarters.",
+          "The city produces some of the finest traditional Lao silk and cotton textiles.",
+          "Due to its high elevation, the climate is cooler and often covered in morning mist.",
+          "Features a distinct communist-style monument and architecture from the post-war era.",
+          "A key regional hub connecting trade routes between northern Laos and Vietnam."
+        ],
+        "de": [
+          "Hauptstadt der Provinz Houaphanh im Nordosten von Laos, in einem Bergtal gelegen.",
+          "Bekannt für die nahegelegenen Viengxay-Höhlen, das Hauptquartier der Pathet Lao.",
+          "Die Stadt produziert einige der feinsten traditionellen laotischen Seidentextilien.",
+          "Aufgrund der Höhenlage ist das Klima kühler und oft in Morgennebel gehüllt.",
+          "Verfügt über ein Denkmal im kommunistischen Stil und Architektur der Nachkriegszeit.",
+          "Ein wichtiger regionaler Knotenpunkt für Handelsrouten nach Vietnam."
+        ],
+        "hu": [
+          "Houaphanh tartomány fővárosa Északkelet-Laoszban, egy hegyvidéki völgyben.",
+          "Híres a közeli Viengxay-barlangokról, amelyek a Pathet Lao főhadiszállásaként szolgáltak.",
+          "A város a legfinomabb hagyományos laoszi selyem- és pamuttextíliákat állítja elő.",
+          "Nagy magasságának köszönhetően klímája hűvösebb, és gyakran borítja reggeli köd.",
+          "Különleges, kommunista stílusú emlékművek és háború utáni építészet jellemzi.",
+          "Fontos regionális csomópont, amely Észak-Laosz és Vietnám kereskedelmi útvonalait köti össze."
+        ],
+        "ro": [
+          "Capitala provinciei Houaphanh din nord-estul Laosului, într-o vale muntoasă.",
+          "Cunoscut pentru peșterile Viengxay, care au servit drept sediu Pathet Lao.",
+          "Orașul produce unele dintre cele mai fine textile tradiționale din mătase.",
+          "Datorită altitudinii sale mari, clima este mai rece și adesea acoperită de ceață.",
+          "Prezintă un monument și o arhitectură în stil comunist din epoca postbelică.",
+          "Un hub regional cheie care conectează rutele comerciale către Vietnam."
+        ]
+      }
+    },
+    {
+      "id": "luang-namtha-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "The largest settlement in northwestern Laos and capital of its namesake province.",
+          "A major base for trekking into the Nam Ha National Protected Area.",
+          "The local population includes numerous ethnic minority groups such as Akha and Hmong.",
+          "The town was relocated to higher ground after floods destroyed the old settlement in 1973.",
+          "Features the Luang Namtha Stupa and the Golden Stupa offering panoramic views.",
+          "Known for its traditional herbal saunas and vibrant night market."
+        ],
+        "de": [
+          "Die größte Siedlung im Nordwesten von Laos und Hauptstadt der gleichnamigen Provinz.",
+          "Ein wichtiger Ausgangspunkt für Trekking-Touren in das Nam Ha Naturschutzgebiet.",
+          "Die lokale Bevölkerung umfasst zahlreiche ethnische Minderheiten wie Akha und Hmong.",
+          "Die Stadt wurde 1973 nach verheerenden Überschwemmungen auf höheres Gelände verlegt.",
+          "Verfügt über den Luang Namtha Stupa und den Goldenen Stupa mit Panoramablick.",
+          "Bekannt für ihre traditionellen Kräutersaunen und den lebhaften Nachtmarkt."
+        ],
+        "hu": [
+          "Északnyugat-Laosz legnagyobb települése és az azonos nevű tartomány fővárosa.",
+          "A Nam Ha Nemzeti Védett Területre induló túrák egyik legfőbb bázisa.",
+          "A helyi lakosság számos kisebbségi etnikai csoportot, például akhákat és hmongokat foglal magába.",
+          "A várost magasabb területre költöztették, miután 1973-ban az árvizek elpusztították a régit.",
+          "Itt található a Luang Namtha sztúpa és az Arany sztúpa, ahonnan panorámás kilátás nyílik.",
+          "Hagyományos gyógynövényes szaunáiról és élénk éjszakai piacáról ismert."
+        ],
+        "ro": [
+          "Cea mai mare așezare din nord-vestul Laosului și capitala provinciei omonime.",
+          "O bază majoră pentru drumeții în Aria Națională Protejată Nam Ha.",
+          "Populația locală include numeroase grupuri minoritare, cum ar fi Akha și Hmong.",
+          "Orașul a fost mutat pe un teren mai înalt după inundațiile din 1973.",
+          "Prezintă Stupa Luang Namtha și Stupa de Aur, care oferă vederi panoramice.",
+          "Cunoscut pentru saunele sale tradiționale cu plante și piața de noapte."
+        ]
+      }
+    },
+    {
+      "id": "huay-xai-cities-v2",
+      "factsAdvanced": {
+        "en": [
+          "Located on the Mekong River border with Thailand, opposite Chiang Khong.",
+          "The traditional starting point for the slow boat journey to Luang Prabang.",
+          "Features Fort Carnot, a well-preserved French colonial military fortification.",
+          "Gateway to the Bokeo Nature Reserve, home to the Gibbon Experience canopy tours.",
+          "Historically known for commercial jade and sapphire trading operations.",
+          "The Fourth Thai-Lao Friendship Bridge opened here in 2013."
+        ],
+        "de": [
+          "Liegt an der Mekong-Grenze zu Thailand, gegenüber von Chiang Khong.",
+          "Der traditionelle Ausgangspunkt für die Bootsfahrt nach Luang Prabang.",
+          "Verfügt über Fort Carnot, eine gut erhaltene französische Militärfestung.",
+          "Tor zum Bokeo-Naturreservat, der Heimat der Gibbon Experience Canopy Touren.",
+          "Historisch bekannt für den kommerziellen Handel mit Jade und Saphiren.",
+          "Die vierte thailändisch-laotische Freundschaftsbrücke wurde hier 2013 eröffnet."
+        ],
+        "hu": [
+          "A thaiföldi határt jelentő Mekong folyó partján fekszik, Chiang Khonggal szemben.",
+          "A Luang Prabangba tartó hagyományos lassú hajóutak kiindulópontja.",
+          "Itt található a Fort Carnot, egy jól megőrzött francia gyarmati katonai erőd.",
+          "A Bokeo Természetvédelmi Terület kapuja, amely a Gibbon Experience túrák otthona.",
+          "Történelmileg a kereskedelmi jade- és zafírkereskedelmi tevékenységéről ismert.",
+          "A negyedik thai-laoszi barátság hídját 2013-ban nyitották meg itt."
+        ],
+        "ro": [
+          "Situat la granița râului Mekong cu Thailanda, vizavi de Chiang Khong.",
+          "Punctul tradițional de plecare pentru călătoria cu barca spre Luang Prabang.",
+          "Găzduiește Fort Carnot, o fortificație militară colonială franceză.",
+          "Poarta către Rezervația Bokeo, casa tururilor cu tiroliana Gibbon Experience.",
+          "Cunoscut istoric pentru operațiunile comerciale de tranzacționare a jadului și safirelor.",
+          "Al Patrulea Pod al Prieteniei Thai-Lao a fost deschis aici în 2013."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "lang": "hu",
+  "country": "Libya",
+  "files": [
+    "lib/visualLab/data/poiExtraLibyaNatureV2.ts",
+    "lib/visualLab/data/poiExtraLibyaReliefV2.ts"
+  ],
+  "items": [
+    { "id": "cyrenaica-coast-nature-v2", "description": "A Cyrenaica-partvidék zöld, mediterrán tájaival és szikláival emelkedik ki Líbia sivatagi környezetéből.", "facts": ["Mediterrán partvidék", "Zöldellő táj", "Északkelet-Líbia"] },
+    { "id": "wadi-farigh-nature-v2", "description": "Wadi Farigh egy sivatagi völgy az északkeleti részen, mely geológiai szempontból különleges képződményeket rejt.", "facts": ["Sivatagi völgy", "Geológiai érdekesség", "Északkelet-Líbia"] },
+    { "id": "jebel-akdar-highlands-relief-v2", "description": "A Jebel Akdar, vagyis a 'Zöld-hegység' fennsíkja a legcsapadékosabb és legzöldebb területe Líbiának.", "facts": ["Zöld-hegység", "Magaslati fennsík", "Csapadékos vidék"] },
+    { "id": "jebel-tarhuna-relief-v2", "description": "Jebel Tarhuna dombsága Tripoli közelében egy termékeny mezőgazdasági terület, lankás dombvidék.", "facts": ["Tripoli közelében", "Termékeny dombság", "Mezőgazdasági övezet"] },
+    { "id": "jebel-nafusa-relief-v2", "description": "A Jebel Nafusa egy látványos mészkőfennsík és meredek sziklafal Nyugat-Líbiában, a berber kultúra központja.", "facts": ["Mészkőfennsík", "Meredek sziklafalak", "Berber kultúra"] },
+    { "id": "jebel-aswad-relief-v2", "description": "Jebel Aswad sötét, vulkáni kőzetekből álló reliefe markánsan kiemelkedik a dél-líbiai sivatag síkjából.", "facts": ["Vulkáni relief", "Dél-Líbia", "Sötét csúcsok"] },
+    { "id": "wadi-al-farigh-relief-v2", "description": "Wadi al-Farigh egy jelentős száraz völgy és mélyedés a Cyrenaica régió déli szélén.", "facts": ["Száraz völgy", "Földrajzi mélyedés", "Sivatagi perem"] },
+    { "id": "sarir-tanezrouft-relief-v2", "description": "Sarir Tanezrouft reliefe szinte teljesen sík, kavicsos sivatagi terület, mely a Szahara egyik legkietlenebb része.", "facts": ["Sík kavicssivatag", "Kietlen táj", "Szahara mélye"] },
+    { "id": "gaberoun-lake-relief-v2", "description": "A Gaberoun-tó reliefe egy mély, sós vizű tó, melyet az Ubari-homoktenger óriási dűnéi vesznek körül.", "facts": ["Sós tó", "Hatalmas dűnék", "Ubari-homoktenger"] },
+    { "id": "mandara-lakes-relief-v2", "description": "A Mandara-tavak csoportja dűnék közötti mélyedésekben elhelyezkedő oázistavak a líbiai sivatagban.", "facts": ["Oázistavak", "Dűne-völgyek", "Látványos peizázs"] },
+    { "id": "ubari-sand-sea-relief-v2", "description": "Az Ubari-homoktenger reliefe hatalmas, mozgó homokdűnékből áll, melyek Líbia leglátványosabb sivatagi formái.", "facts": ["Homoktenger", "Mozgó dűnék", "Délnyugat-Líbia"] },
+    { "id": "gargaf-desert-relief-v2", "description": "A Gargaf-sivatag reliefe magas, köves fennsíkokból (hamada) és azokat elválasztó völgyekből áll.", "facts": ["Köves fennsíkok", "Hamada relief", "Közép-Líbia"] }
+  ]
+}

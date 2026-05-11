@@ -1,0 +1,267 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kanifing-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Kanifing ist das administrative und industrielle Herz der Greater Banjul Area und der Sitz des Kanifing Municipal Council (KMC), der bevölkerungsreichsten Gemeinde Gambias. Geografisch liegt Kanifing zentral zwischen der Hauptstadt Banjul und den touristischen Küstenzonen, was es zu einem strategischen Knotenpunkt macht. Im Gegensatz zu den reinen Wohngebieten oder Tourismuszentren ist Kanifing durch eine hohe Dichte an Institutionen geprägt; hier befinden sich der Hauptcampus der Universität von Gambia, zahlreiche Ministerien, Bankzentralen und die wichtigsten Rundfunkanstalten des Landes. Ein bedeutender Teil Kanifings ist als Industriegebiet ausgewiesen, in dem Fabriken für die Verarbeitung von Lebensmitteln, Baustoffen und Konsumgütern angesiedelt sind. Trotz seines funktionalen Charakters beherbergt Kanifing auch wichtige Kultureinrichtungen und Sportstätten. Die Stadt hat sich in den letzten Jahrzehnten rasant entwickelt, wobei moderne Bürokomplexe das Stadtbild zunehmend dominieren. Das Relief ist weitgehend flach, was die großflächige industrielle Erschließung begünstigt hat. Für die nationale Wirtschaft ist Kanifing der Motor des formellen Sektors und ein zentraler Ort für die akademische und berufliche Ausbildung der gambischen Jugend.",
+        "hu": "Kanifing a Nagy-Banjul térség adminisztratív és ipari központja, egyben a Kanifing Municipal Council (KMC) székhelye, amely Gambia legnépesebb önkormányzati egysége. Földrajzi elhelyezkedése stratégiai: a főváros, Banjul és a tengerparti üdülőövezetek között fekszik, így az ország egyik legfontosabb logisztikai csomópontja. Kanifing karakterét az intézményi sűrűség határozza meg; itt található a Gambiai Egyetem központi kampusza, számos minisztérium, nemzetközi szervezet és a nemzeti műsorszolgáltató központja is. A város egy jelentős része dedikált ipari zóna, ahol az ország élelmiszeripari, könnyűipari és építőipari üzemeinek többsége tömörül. Bár alapvetően funkcionális és gazdasági fókuszú, Kanifing fontos oktatási és kulturális bázis is, ahol a modern irodaházak mellett sportlétesítmények is helyet kaptak. A domborzat sík, ami segítette a széles utak és a nagy kiterjedésű gyárak kiépítését. A város fejlődése hűen tükrözi Gambia modernizációs törekvéseit és a formális gazdaság térnyerését. Az idelátogatók számára Kanifing a modern afrikai városi fejlődés arcát mutatja, ahol a kormányzati adminisztráció, a felsőoktatás és az ipari termelés egy dinamikus egységet alkot.",
+        "ro": "Kanifing este inima administrativă și industrială a zonei metropolitane Banjul, servind drept sediu al Kanifing Municipal Council (KMC), cea mai populată municipalitate din Gambia. Situat strategic între capitala Banjul și zona turistică de coastă, Kanifing funcționează ca un nod vital de legătură. Orașul se distinge printr-o concentrație ridicată de instituții publice și private, găzduind campusul principal al Universității Gambiei, diverse ministere, sedii bancare și principalele stații de emisie radio și televiziune. O secțiune importantă a orașului este reprezentată de zona industrială, unde sunt concentrate fabrici de procesare a alimentelor, materiale de construcții și bunuri de larg consum. În ciuda caracterului său predominant funcțional, Kanifing include și facilități sportive de importanță națională și centre de formare profesională. Relieful este plat, facilitând expansiunea urbană ordonată și infrastructura rutieră de mare capacitate. Din punct de vedere economic, Kanifing este motorul sectorului formal din Gambia, fiind locul unde se generează o mare parte din PIB-ul non-agricol al țării. Orașul simbolizează modernizarea administrativă și este centrul vieții academice și politice active a națiunii. Pentru observatorii urbanizării vest-africane, Kanifing oferă un model de dezvoltare mixtă unde industria și educația coexistă într-un spațiu compact și dinamic.",
+        "en": "Kanifing is the administrative and industrial heart of the Greater Banjul Area and the seat of the Kanifing Municipal Council (KMC), the most populous municipality in The Gambia. Geographically centered between the capital Banjul and the Atlantic tourism belt, it serves as a strategic crossroads for the nation. Unlike the residential suburbs, Kanifing is defined by a high density of state and private institutions; it houses the main campus of the University of The Gambia, numerous government ministries, bank headquarters, and the nation's primary broadcasting facilities. A significant portion of Kanifing is a designated industrial estate, home to factories processing food, construction materials, and consumer goods. Despite its functional nature, the town is also a major cultural and educational hub, hosting various international schools and vocational centers. The terrain is predominantly flat, which has facilitated large-scale industrial development and urban planning. Economically, Kanifing drives the nation's formal sector and is the central site for the professional and academic advancement of Gambia's youth. The cityscape is increasingly dominated by modern office complexes, reflecting the country's economic aspirations. It remains the vital link between the traditional administrative center of Banjul and the rapidly expanding coastal districts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Kanifing ist der Sitz des Kanifing Municipal Council, der größten Gemeinde Gambias.",
+          "Hier befindet sich der Hauptcampus der University of The Gambia (UTG).",
+          "Das Kanifing Industrial Estate ist das größte Industriegebiet des Landes.",
+          "Die Stadt beherbergt die Zentralen fast aller gambischen Telekommunikationsanbieter.",
+          "Kanifing liegt direkt an der Hauptverbindung zwischen Banjul und der Küste.",
+          "Wichtige staatliche Institutionen wie die Gambia Radio & Television Services sitzen hier."
+        ],
+        "hu": [
+          "Kanifingben található az ország legtöbb könnyűipari üzeme.",
+          "A település ad otthont a Gambiai Egyetem legtöbb karának.",
+          "Ez Gambia legfontosabb pénzügyi negyede, számos bank központjával.",
+          "A város területén több jelentős nemzetközi középiskola is működik.",
+          "Kanifing stratégiai pont a Banjulba irányuló ingázó forgalom számára.",
+          "A település neve az alapító család nevét őrzi."
+        ],
+        "ro": [
+          "Orașul găzduiește sediul central al poliției naționale din Gambia.",
+          "Zona industrială din Kanifing produce majoritatea băuturilor răcoritoare din țară.",
+          "Kanifing este centrul rețelei naționale de internet și fibră optică.",
+          "Este considerat polul inovației tehnologice în regiunea Senegambia.",
+          "Municipalitatea KMC gestionează cele mai mari venituri locale din țară.",
+          "Arhitectura urbană include cele mai înalte clădiri de birouri din Gambia."
+        ],
+        "en": [
+          "Kanifing is the focal point for Gambia’s formal labor market.",
+          "It hosts the MDI (Management Development Institute), a key training school.",
+          "The area serves as the main hub for the country’s legal and judicial offices.",
+          "Kanifing is the primary location for national media and advertising agencies.",
+          "It features the highest concentration of modern shopping plazas in the KMC.",
+          "The town is a key node for the West Africa Power Pool project in Gambia."
+        ]
+      }
+    },
+    {
+      "id": "bundung-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Bundung ist ein dicht besiedeltes und lebhaftes Wohnviertel innerhalb des Kanifing Municipal Council, gelegen zwischen Serekunda und Sukuta. Als Teil der größeren Agglomeration von Serekunda spielt Bundung eine wesentliche Rolle als Wohnort für die arbeitende Bevölkerung der Metropolregion. Der Ort ist bekannt für seine starke soziale Dynamik und seine tief verwurzelte Gemeinschaftsstruktur. Ein zentrales Merkmal ist der Bundung-Markt, der die Bewohner mit frischen Lebensmitteln und Haushaltswaren versorgt und als sozialer Treffpunkt fungiert. Geografisch liegt Bundung in einer flachen Ebene, die im Osten an die Feuchtgebiete der Mangrovensümpfe grenzt. In den letzten Jahren hat der Stadtteil eine erhebliche Infrastrukturentwicklung erfahren, insbesondere durch die Verbesserung der Straßenanbindung und den Ausbau des Stromnetzes. Bundung beherbergt zudem wichtige soziale Einrichtungen, wie das Bundung Maternal and Child Health Hospital, das eine Schlüsselrolle in der Gesundheitsversorgung der Region spielt. Die Bevölkerung ist ethnisch vielfältig, wobei Mandinka, Fula und Wolof friedlich zusammenleben. Trotz der hohen Bevölkerungsdichte hat Bundung seinen Charakter als Ort des Zusammenhalts bewahrt, geprägt von kleinen Geschäften, Werkstätten und einer regen Straßenszene. Für Besucher bietet Bundung einen authentischen Einblick in das urbane Alltagsleben Gambias, fernab von den touristischen Fassaden.",
+        "hu": "Bundung egy sűrűn lakott, élettel teli városrész a Kanifing Municipal Council területén, Serekunda és Sukuta között. A nagy-serekundai agglomeráció szerves részeként Bundung elsősorban lakóövezetként funkcionál a fővárosi régióban dolgozó százezrek számára. A település híres erős közösségi összetartásáról és vibráló társadalmi életéről. Bundung központja a helyi piac, amely nemcsak a napi szükségletek beszerzőhelye, hanem a hírek és pletykák cseréjének legfontosabb fóruma is. Földrajzi fekvése sík vidéken található, amelynek keleti széle már a Gambia-folyó mocsaras mellékágaihoz közelít. Az utóbbi években Bundung jelentős infrastrukturális fejlődésen ment keresztül; az utak aszfaltozása és a közvilágítás korszerűsítése javította az életminőséget. A városrész egyik legfontosabb intézménye a Bundung Anyasági és Gyermekkórház, amely a környék lakosságának alapvető egészségügyi bázisa. A lakosság rendkívül heterogén, a különböző etnikai csoportok (mandinkák, fulák, wolofok) egymás mellett élése sajátos kulturális szövetet hozott létre. Bundung utcáin sétálva az utazó Gambia valódi, modern arcát láthatja: kis műhelyek, zajos utcai árusok és a mindennapi munka ritmusa határozza meg a környék hangulatát. Ez a városrész a bizonyíték Gambia gyors urbanizációjára és a helyi közösségek alkalmazkodóképességére.",
+        "ro": "Bundung este un cartier rezidențial dens și vibrant situat în cadrul Kanifing Municipal Council, interconectat strâns cu Serekunda și Sukuta. Ca parte a marii aglomerații urbane a capitalei, Bundung joacă un rol esențial în oferirea de locuințe pentru forța de muncă din regiunea metropolitană. Localitatea este recunoscută pentru dinamismul său social și pentru structurile comunitare solide care definesc viața cotidiană. Inima cartierului este Piața Bundung, un spațiu efervescent unde comerțul cu amănuntul și interacțiunea socială se împletesc constant. Din punct de vedere geografic, Bundung ocupă o zonă de câmpie plată, mărginită în partea de est de zonele de mlaștină ale estuarului, oferind un relief uniform ce a permis o densificare rapidă. În ultimul deceniu, Bundung a beneficiat de proiecte majore de modernizare a infrastructurii rutiere, facilitând tranzitul către centrele economice vecine. Un pilon social major este Spitalul de Sănătate Materno-Infantilă din Bundung, o instituție crucială pentru sănătatea publică regională. Diversitatea etnică este o trăsătură definitorie a zonei, unde tradițiile Mandinka, Fula și Wolof coexistă armonios. În ciuda provocărilor legate de densitatea populației, Bundung și-a păstrat un caracter prietenos, fiind presărat cu mici ateliere și afaceri de familie. Pentru vizitatori, Bundung reprezintă o incursiune autentică în urbanismul gambian, oferind o perspectivă nefiltrată asupra ritmului de viață al cetățeanului obișnuit din Gambia.",
+        "en": "Bundung is a densely populated and energetic residential district within the Kanifing Municipal Council, situated between Serekunda and Sukuta. As an integral part of the greater Serekunda conurbation, Bundung serves as a primary residential base for the metropolitan area’s workforce. The district is well-regarded for its vibrant social atmosphere and deep-seated community structures. A focal point of local life is the Bundung Market, which supplies residents with fresh produce and essential household goods while serving as a key social hub. Geographically, Bundung lies on a flat plain that edges toward the riverine wetlands in the east. Recent years have seen significant infrastructural improvements in the area, including road paving and the expansion of the electrical grid, enhancing connectivity to nearby commercial zones. A major institutional landmark is the Bundung Maternal and Child Health Hospital, a critical healthcare provider for the surrounding high-density neighborhoods. The population is a diverse ethnic tapestry of Mandinka, Fula, and Wolof, living in a cohesive social environment. Despite its high population density, Bundung maintains a spirited neighborhood feel, characterized by small-scale artisanal workshops and bustling street commerce. For travelers, Bundung offers an authentic window into Gambian urban living, far removed from the mainstream tourist sites."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Bundung ist eines der am dichtesten besiedelten Viertel im Raum Serekunda.",
+          "Das Bundung Maternal and Child Health Hospital ist eine der wichtigsten Kliniken Gambias.",
+          "Der Stadtteil ist bekannt für seine lebendige Musik- und Jugendszene.",
+          "Bundung verfügt über eine hohe Dichte an Koranschulen (Madrasas).",
+          "Die Hauptverkehrsstraße von Bundung verbindet Serekunda direkt mit dem Flughafen.",
+          "Lokal ist Bundung für seine talentierten Fußballmannschaften bekannt."
+        ],
+        "hu": [
+          "Bundung híres az utcai ételeiről, különösen a frissen sült afrikai fánkokról.",
+          "A városrészben található Gambia egyik legnagyobb közösségi egészségügyi központja.",
+          "A területen számos fémipari és asztalosműhely üzemel.",
+          "Bundung népessége az elmúlt 20 évben majdnem megduplázódott.",
+          "A helyi piac a hét minden napján kora reggeltől késő estig nyitva tart.",
+          "Bundung fontos vallási és oktatási csomópont a muszlim közösségek számára."
+        ],
+        "ro": [
+          "Spitalul din Bundung este susținut prin programe de cooperare internațională.",
+          "Relieful plat al zonei face Bundung vulnerabil la inundații în sezonul ploios.",
+          "Bundung găzduiește sedii ale unor importante asociații de tineret din Gambia.",
+          "Este considerat unul dintre centrele politice active ale opoziției istorice.",
+          "Arhitectura este dominată de case din blocuri de ciment cu curți interioare.",
+          "Piața Bundung este renumită pentru prețurile accesibile la textile și pânze."
+        ],
+        "en": [
+          "Bundung is a major hub for the Gambia's informal transport network.",
+          "The district features a high concentration of primary and secondary schools.",
+          "It acts as a primary residential area for staff working in the Senegambia hotels.",
+          "Bundung has one of the most active community-policing initiatives in the country.",
+          "The area is famous for its traditional 'naming ceremonies' and festivals.",
+          "It borders the Latri Kunda and London Corner neighborhoods."
+        ]
+      }
+    },
+    {
+      "id": "tallinding-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Tallinding ist ein dynamischer und historisch gewachsener Stadtteil im Distrikt Kanifing, gelegen zwischen Serekunda und den Mangrovengebieten des Ästuars. Ursprünglich ein eigenständiges Dorf, wurde Tallinding im Zuge der städtischen Expansion vollständig in die Greater Banjul Area integriert. Der Stadtteil ist bekannt für seine strategische Lage an der Westfield-Banjul-Achse, was ihn zu einem wichtigen Transitpunkt macht. Geografisch ist Tallinding durch eine Mischung aus festem Boden im Westen und sumpfigen Ausläufern im Osten geprägt, die in das Bolong-System des Gambia-Flusses münden. Wirtschaftlich dominiert in Tallinding das Kleingewerbe; unzählige Werkstätten, kleine Läden und Dienstleistungsbetriebe säumen die Straßen. Ein markantes Merkmal ist die religiöse Vielfalt und die Präsenz bedeutender Moscheen, die das soziale Leben bestimmen. Tallinding beherbergt zudem wichtige Bildungseinrichtungen und dient als Wohnort für eine breite Schicht der gambischen Gesellschaft. Trotz der fortschreitenden Urbanisierung bewahrt der Stadtteil eine starke lokale Identität, die sich in den traditionellen Zeremonien und dem engen Zusammenhalt der Nachbarschaften äußert. Für die Stadtentwicklung ist Tallinding ein Beispiel für die Transformation von ländlichen Siedlungsstrukturen in ein komplexes urbanes Gefüge unter Beibehaltung kultureller Wurzeln.",
+        "hu": "Tallinding egy dinamikus és történelmi gyökerekkel rendelkező városrész a Kanifing körzetben, Serekunda és a torkolatvidék mangrovemocsarai között. Az eredetileg önálló faluként létező Tallinding a városi terjeszkedés során teljesen beolvadt a Nagy-Banjul térségbe. A negyed stratégiai helyzete – a Westfield és Banjul közötti főút mentén – fontos tranzitponttá tette a mindennapi közlekedésben. Földrajzi szempontból Tallinding különleges átmenetet képez: nyugati része szilárd talajon fekszik, míg a keleti határa a Gambia-folyó árapály-csatornáihoz és mocsárvilágához ér. Gazdaságilag a kis- és középvállalkozások dominálnak; az utcákat számos javítóműhely, kisbolt és szolgáltató egység szegélyezi. A negyed vallási élete igen aktív, több neves mecset található itt, amelyek a közösségi élet tartóoszlopai. Tallinding fontos oktatási központ is, ahol több neves iskola működik. A gyors urbanizáció ellenére a városrész megőrizte egyedi karakterét, amelyet a hagyományos rítusok és az erős szomszédsági kapcsolatok jellemeznek. Az utazók számára Tallinding a valódi gambiai városi nyüzsgést kínálja, ahol a modern gazdaság és az ősi hagyományok kéz a kézben járnak.",
+        "ro": "Tallinding este un cartier urban dinamic și cu rădăcini istorice situat în districtul Kanifing, poziționat între Serekunda și zonele de mangrove ale estuarului. Evoluând de la un sat de sine stătător la o parte integrantă a zonei metropolitane Banjul, Tallinding reprezintă un model de integrare urbană rapidă. Poziția sa strategică pe axa rutieră principală către capitală îi conferă un rol de tranzit esențial pentru mii de navetiști zilnic. Din punct de vedere geografic, Tallinding prezintă o dualitate interesantă: un relief stabil în partea vestică și zone inundabile, bogate în biodiversitate, către est, unde se întâlnesc ramificațiile fluviului Gambia. Economia locală este efervescentă, fiind dominată de mici ateliere mecanice, magazine de textile și servicii de proximitate. Orașul este cunoscut pentru viața sa religioasă intensă, marcată de prezența unor moschei impunătoare care servesc drept puncte de referință comunitară. Tallinding găzduiește, de asemenea, instituții educaționale importante, contribuind la formarea profesională a tinerilor din municipalitatea Kanifing. În ciuda urbanizării, cartierul păstrează o identitate locală puternică, tradițiile ancestrale fiind încă vizibile în organizarea ceremoniilor sociale. Pentru vizitatori, Tallinding oferă o perspectivă asupra complexității țesutului urban gambian, unde tradiția și modernitatea se întâlnesc la fiecare colț de stradă.",
+        "en": "Tallinding is a dynamic and historically rich urban district in the Kanifing area, situated between Serekunda and the estuarine mangroves. Originally an independent village, Tallinding has been fully absorbed into the Greater Banjul Area as a result of rapid urban expansion. The district is known for its strategic location along the primary road axis connecting Westfield to Banjul, making it a critical transit point for commuters. Geographically, Tallinding features a transition from stable upland terrain in the west to marshy lowlands in the east that merge with the Gambia River's tidal creeks. Economically, the area is characterized by vibrant small-scale enterprises; numerous workshops, retail stores, and service businesses line its busy streets. A distinctive feature is the strong religious and social life centered around its prominent mosques and community spaces. Tallinding also hosts several significant educational institutions and provides residential space for a diverse segment of Gambian society. Despite extensive urbanization, the district retains a unique identity expressed through traditional ceremonies and close-knit neighborhood bonds. For those interested in urban development, Tallinding serves as a prime example of how rural settlements transform into complex urban fabrics while maintaining their cultural heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Tallinding war früher ein eigenständiges Dorf der Mandinka.",
+          "Der Stadtteil liegt an der Hauptstraße, die Banjul mit dem Landesinneren verbindet.",
+          "Tallinding grenzt im Osten direkt an die ökologisch wichtigen Mangrovensümpfe.",
+          "Hier befindet sich eine hohe Konzentration an Kfz-Werkstätten und Schreinereien.",
+          "Die Stadt ist bekannt für ihre engagierten Frauen-Kooperativen im Gartenbau.",
+          "Tallinding beherbergt mehrere bedeutende islamische Bildungseinrichtungen."
+        ],
+        "hu": [
+          "Tallinding fontos bázisa a gambiai fémipari kézműveseknek.",
+          "A városrész közvetlen közelében találhatók a folyóparti osztrigagyűjtő helyek.",
+          "A település neve mandinka nyelven 'vörös földet' jelent.",
+          "Tallinding híres a nagyszabású közösségi vallási ünnepeiről.",
+          "Az utóbbi években több aszfaltozott út épült a negyed belsejében.",
+          "A lakosság jelentős része a banjuli kikötőben vagy a kormányzati negyedben dolgozik."
+        ],
+        "ro": [
+          "Tallinding deține unele dintre cele mai active piețe de piese auto din Gambia.",
+          "Relieful estic al cartierului este influențat de regimul mareelor.",
+          "Localitatea este renumită pentru păstrarea stilului arhitectural cu blocuri de laterită.",
+          "Tallinding servește drept punct de colectare pentru produsele din mangrove.",
+          "Este un cartier cu o viață asociativă foarte bogată în rândul tinerilor.",
+          "Precipitațiile abundente necesită sisteme de drenaj specifice în zonele joase."
+        ],
+        "en": [
+          "Tallinding serves as a key gateway to the central Kanifing business district.",
+          "The district is a major producer of artisanal ironwork and gates.",
+          "It features some of the oldest continually inhabited compounds in the KMC.",
+          "Tallinding is a focal point for traditional Gambian wrestling training.",
+          "The area is noted for its high density of local bakeries and kiosks.",
+          "It acts as a buffer zone between the urban sprawl and the river ecosystem."
+        ]
+      }
+    },
+    {
+      "id": "fajikunda-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Fajikunda ist ein weitläufiger und dicht besiedelter Stadtteil im Kanifing Municipal Council, gelegen am südöstlichen Rand der Serekunda-Agglomeration. Der Name Fajikunda weist auf seine Ursprünge als Familiensiedlung hin, hat sich aber heute zu einem der wichtigsten Wohngebiete für die wachsende Stadtbevölkerung entwickelt. Geografisch grenzt Fajikunda an die Feuchtgebiete und Reisfelder, die den Gambia-Fluss säumen, was dem Stadtteil eine besondere ökologische Note verleiht. Wirtschaftlich ist Fajikunda durch eine Mischung aus informellem Handel, kleinen Fabriken und Handwerksbetrieben geprägt. Die Straßen sind gesäumt von Verkaufsständen und Werkstätten, die das Rückgrat der lokalen Ökonomie bilden. Ein herausragendes Merkmal ist das starke Engagement der Gemeinschaft in Bildungs- und Gesundheitsprojekten; die Stadt beherbergt mehrere Schulen und Kliniken, die durch Bürgerinitiativen unterstützt werden. Das Relief ist überwiegend flach, mit Übergängen zu mäßig wassergesättigten Böden in Flussnähe. Fajikunda hat in den letzten Jahren durch den Ausbau der Infrastruktur, wie befestigte Straßen und verbesserte Entwässerungssysteme, deutlich an Attraktivität gewonnen. Trotz der Urbanisierung bleibt der Stadtteil ein Ort, an dem traditionelle Familienwerte und modernes Stadtleben aufeinandertreffen. Für Reisende bietet Fajikunda einen tiefen Einblick in das dynamische Wachstum der gambischen Metropolregion.",
+        "hu": "Fajikunda egy kiterjedt és sűrűn lakott városrész a Kanifing Municipal Council területén, a serekundai agglomeráció délkeleti peremén. A település neve az alapító családra utal, de mára az egyik legfontosabb lakóövezetté vált a fővárosi régió növekvő népessége számára. Fajikunda földrajzi fekvése különleges: közvetlenül határos azokkal a vizes élőhelyekkel és rizsföldekkel, amelyek a Gambia-folyó mentén húzódnak, így a természet közelsége még az urbanizált környezetben is érezhető. Gazdaságilag a települést az informális kereskedelem, a kisüzemek és a kézműves műhelyek keveréke jellemzi. Az utcákon zajló élénk kereskedelem adja a helyi gazdaság gerincét. Fajikunda kiemelkedik a közösségi összefogás terén is; számos iskolát és egészségügyi központot a helyi lakosok és civil szervezetek támogatásával tartanak fenn. A domborzat nagyrészt sík, a folyóhoz közeli részeken pedig időszakosan vizenyős területek találhatók. Az utóbbi években végrehajtott infrastruktúra-fejlesztések, mint az utak burkolása és a vízelvezető rendszerek építése, jelentősen modernizálták a városrészt. Fajikunda jól példázza a hagyományos családi értékek és a modern nagyvárosi élet találkozását Gambiában. A látogatók számára ez a környék a valódi gambiai vendégszeretet és a fejlődő Afrika lüktető energiájának egyik legjobb példája.",
+        "ro": "Fajikunda este un cartier urban extins și dens populat situat în cadrul Kanifing Municipal Council, la periferia sud-estică a aglomerației Serekunda. Evoluând de la o așezare familială la un centru rezidențial major, Fajikunda reflectă tendințele de urbanizare rapidă ale Gambiei contemporane. Geografia localității este marcată de proximitatea față de câmpiile inundabile și culturile de orez de pe malul fluviului Gambia, oferind un peisaj mixt între urbanism și agricultură periurbană. Din punct de vedere economic, Fajikunda este un hub pentru micul comerț și atelierele de reparații, străzile sale fiind artere comerciale active. O trăsătură distinctivă a comunității este nivelul ridicat de implicare civică, localnicii susținând activ numeroase instituții de învățământ și centre de sănătate primară. Relieful plat al zonei a facilitat o densificare rapidă, însă a necesitat investiții recente în sisteme de drenaj pentru a preveni inundațiile în timpul sezonului ploios. Modernizarea infrastructurii rutiere a integrat Fajikunda mai bine în rețeaua de transport a municipalității, facilitând accesul către centrele comerciale din Serekunda. În ciuda caracterului său urban aglomerat, Fajikunda păstrează o atmosferă de cartier unit, unde solidaritatea între vecini este fundamentală. Pentru cei care studiază evoluția urbană în Africa de Vest, Fajikunda reprezintă un exemplu de reziliență și adaptare culturală într-un mediu în continuă schimbare.",
+        "en": "Fajikunda is a sprawling and densely populated district within the Kanifing Municipal Council, located on the southeastern edge of the Serekunda conurbation. Originally named after its founding family, it has developed into a major residential stronghold for the expanding urban population of The Gambia. Geographically, Fajikunda is bordered by the extensive wetlands and rice paddies that line the Gambia River, providing a unique ecological backdrop to its urban setting. Economically, the area thrives on a mixture of informal trade, small factories, and artisanal workshops that form the backbone of the local economy. The district is notable for its high level of community engagement in social projects; it hosts various schools and health clinics supported by grassroots initiatives and NGOs. The terrain is largely flat, with soil types transitioning to more water-saturated conditions near the riverbanks. Significant infrastructure projects in recent years, such as road paving and improved drainage systems, have greatly modernized the neighborhood. Despite its rapid urban growth, Fajikunda maintains a balance between traditional family structures and the demands of modern city life. For travelers, the district offers a deep look into the industrious daily life and vibrant social fabric of the Gambian capital region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fajikunda liegt im Grenzgebiet zwischen städtischem Raum und Flussmarschen.",
+          "Der Stadtteil verfügt über ein bedeutendes Zentrum für Alphabetisierungsprogramme.",
+          "Fajikunda ist bekannt für seine lebhaften Gemeinschaftsmärkte.",
+          "Ein Teil des Stadtteils liegt unter dem Meeresspiegel und ist flutgefährdet.",
+          "Hier befinden sich zahlreiche Handwerksbetriebe für Metall- und Holzbau.",
+          "Die lokale Moschee von Fajikunda ist ein zentraler spiritueller Ort der Region."
+        ],
+        "hu": [
+          "Fajikunda híres a környékbeli rizstermesztőiről, akik a város szélén gazdálkodnak.",
+          "A városrészben működik Gambia egyik legaktívabb ifjúsági sportegyesülete.",
+          "A terület talaja helyenként agyagos, ami kedvez a hagyományos téglaégetésnek.",
+          "Fajikunda stratégiai fekvése miatt fontos elosztópont a helyi árufuvarozásban.",
+          "A település központjában egy neves egészségügyi szakképző központ található.",
+          "A lakók többsége többnyelvű: wolof, mandinka és fula nyelven is beszélnek."
+        ],
+        "ro": [
+          "Fajikunda este renumit pentru unitățile sale de producție de gheață artizanală.",
+          "Relieful joas a determinat construirea unor canale de drenaj de mari dimensiuni.",
+          "Localitatea găzduiește sedii ale unor importante organizații caritabile locale.",
+          "Este un centru major pentru distribuția fructelor tropicale în municipalitate.",
+          "Fajikunda are una dintre cele mai mari rate de înscriere școlară din KMC.",
+          "Atmosfera cartierului este marcată de numeroase festivaluri de stradă tradiționale."
+        ],
+        "en": [
+          "Fajikunda borders the Abuko Nature Reserve to the south.",
+          "The district is a major producer of locally manufactured concrete blocks.",
+          "It features a vibrant network of community gardens and urban farming plots.",
+          "Fajikunda is a key residential location for the Gambian teaching force.",
+          "The area is known for its high density of local tailoring and fashion shops.",
+          "Infrastructure improvements have significantly reduced seasonal flood risks."
+        ]
+      }
+    },
+    {
+      "id": "dippa-kunda-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Dippa Kunda ist ein pulsierendes und geschäftiges Viertel im Herzen des Distrikts Kanifing, unmittelbar angrenzend an das kommerzielle Zentrum von Serekunda. Es gehört zu den ältesten und etabliertesten Siedlungskernen der Metropolregion und zeichnet sich durch seine extrem hohe Handelsaktivität aus. Die Straßen von Dippa Kunda sind ein Labyrinth aus Geschäften, Lagerräumen und Werkstätten, die von Textilien über Elektronik bis hin zu Baumaterialien alles anbieten. Geografisch liegt das Viertel auf festem, leicht erhöhtem Boden, was es zu einem stabilen Siedlungsgebiet inmitten der oft sumpfigen Umgebung macht. Dippa Kunda ist berühmt für seine Rolle im informellen Wirtschaftssektor Gambias; hier werden viele Waren für das gesamte Land umgeschlagen. Trotz des kommerziellen Drucks hat das Viertel seine traditionelle Struktur mit großen Familien-Compounds bewahrt, die oft von Mauern umschlossen sind. Die Bevölkerung ist eine lebhafte Mischung aus allen gambischen Ethnien, was Dippa Kunda zu einem echten sozialen Schmelztiegel macht. Für Besucher ist das Viertel ein Ort der Sinne – laut, bunt und voller Energie. Es verkörpert die Essenz des modernen gambischen Stadtlebens, in dem wirtschaftlicher Erfolg und traditionelle Gemeinschaftswerte eng miteinander verwoben sind. Die zentrale Lage macht es zu einem der am besten vernetzten Gebiete innerhalb der KMC-Region.",
+        "hu": "Dippa Kunda egy vibráló és forgalmas negyed a Kanifing körzet szívében, közvetlenül a serekundai kereskedelmi zóna szomszédságában. Ez az egyik legrégebbi és legpatinásabb településrész a Nagy-Banjul térségben, amelyet rendkívül magas kereskedelmi aktivitás jellemez. Dippa Kunda utcái a boltok, raktárak és kézműves műhelyek igazi labirintusát alkotják, ahol a textíliáktól kezdve az elektronikán át az építőanyagokig minden kapható. Földrajzilag a negyed stabil, enyhén megemelt talajon fekszik, ami kedvező fekvést biztosított a korai letelepedéshez a gyakran mocsaras környéken. A település híres a gambiai informális gazdaságban betöltött szerepéről; itt cserél gazdát az országba érkező áruk jelentős része. A kereskedelmi nyomás ellenére Dippa Kunda megőrizte hagyományos szerkezetét: a falakkal körülvett nagy családi udvarok (compounds) ma is a társadalmi élet alapkövei. A lakosság az összes gambiai etnikum színes keveréke, ami a negyedet valódi kulturális olvasztótégellyé teszi. Az idelátogatók számára Dippa Kunda az érzékek kavalkádja – zajos, színes és energiától duzzadó hely. Itt érhető tetten leginkább a modern gambiai városi lét esszenciája, ahol a gazdasági törekvések és a hagyományos közösségi értékek szorosan összefonódnak.",
+        "ro": "Dippa Kunda este un cartier efervescent și intens comercial situat în inima districtului Kanifing, fiind adiacent centrului economic Serekunda. Reprezintă unul dintre cele mai vechi și bine consolidate nuclee urbane din zona metropolitană a capitalei, caracterizându-se printr-o densitate comercială remarcabilă. Străzile din Dippa Kunda formează un labirint activ de magazine, depozite și ateliere meșteșugărești, oferind o gamă vastă de produse, de la textile tradiționale la electronice moderne. Din punct de vedere geografic, cartierul este așezat pe un teren stabil și ușor elevat, ceea ce l-a protejat istoric de inundații și a favorizat dezvoltarea sa timpurie. Dippa Kunda joacă un rol crucial în economia informală a Gambiei, servind drept punct major de tranzit și distribuție pentru mărfurile care alimentează piețele din întreaga țară. În ciuda expansiunii comerciale, localitatea păstrează structura socială tradițională a curților familiale largi, rămânând un bastion al identității comunitare. Demografia este una cosmopolită, reunind toate grupurile etnice gambiene într-un mozaic cultural vibrant. Pentru turiști, Dippa Kunda oferă o experiență senzorială intensă, reflectând spiritul antreprenorial și ospitalitatea autentică a poporului gambian. Este inima pulsândă a municipalității, unde ritmul afacerilor se întâlnește cu profunzimea tradițiilor locale.",
+        "en": "Dippa Kunda is a vibrant and bustling neighborhood in the heart of the Kanifing District, directly adjacent to the commercial hub of Serekunda. It is one of the oldest and most established urban cores in the Greater Banjul Area, characterized by intense commercial activity. The streets of Dippa Kunda are a labyrinth of shops, warehouses, and artisanal workshops, offering everything from traditional textiles and electronics to building materials. Geographically, the neighborhood sits on stable, slightly elevated ground, making it a favored settlement area compared to the surrounding lower marshes. Dippa Kunda is famous for its pivotal role in The Gambia’s informal economy; it acts as a major redistribution center for goods flowing across the country. Despite the commercial pressures, the neighborhood has preserved its traditional residential structure of large family compounds, which remain the foundation of its social life. The population is a dynamic blend of all Gambian ethnicities, making Dippa Kunda a true social melting pot. For visitors, the district is a sensory experience—loud, colorful, and full of energy. It embodies the essence of modern Gambian urban life, where economic drive and traditional communal values are inextricably linked. Its central location makes it one of the most accessible and connected areas within the KMC region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Dippa Kunda ist einer der ältesten Siedlungskerne von Serekunda.",
+          "Das Viertel ist ein bedeutendes Zentrum für den Handel mit Second-Hand-Waren.",
+          "Dippa Kunda beherbergt eine der bekanntesten Fußballakademien des Landes.",
+          "Die Hauptstraße des Viertels ist eine der wichtigsten Einkaufsmeilen für Einheimische.",
+          "In Dippa Kunda befinden sich viele traditionelle Batik-Werkstätten.",
+          "Das Relief ist flach und bildet das geografische Zentrum von Kanifing."
+        ],
+        "hu": [
+          "Dippa Kunda híres a kiváló minőségű asztalosmunkáiról.",
+          "A negyedben található Gambia egyik legrégebbi és legnagyobb mecsetje.",
+          "A területen számos hagyományos gyógyító és spirituális tanácsadó él.",
+          "Dippa Kunda stratégiai pont a serekundai piac áruellátásában.",
+          "Az utóbbi években több modern üzleti komplexum is épült a negyed szélén.",
+          "A lakók híresek a közösségi önsegélyező köreikről (Osusu)."
+        ],
+        "ro": [
+          "Dippa Kunda este sediul unor importante cooperative de croitori locali.",
+          "Relieful stabil a permis construirea unor clădiri multietajate în centrul cartierului.",
+          "Localitatea este renumită pentru organizarea ceremoniilor de căsătorie fastuoase.",
+          "Este un nod major pentru rețeaua de microbuze 'gelli-gelli'.",
+          "Dippa Kunda are una dintre cele mai active vieți de noapte din afara zonei turistice.",
+          "În cartier se află sedii ale multor agenții de transfer de bani."
+        ],
+        "en": [
+          "Dippa Kunda is a primary location for artisanal jewelry and silversmithing.",
+          "The neighborhood is a significant center for Gambian diaspora investment.",
+          "It features some of the best examples of contemporary Gambian urban architecture.",
+          "Dippa Kunda's daily market is a key source for wholesale food products.",
+          "The area is known for its high density of local private health clinics.",
+          "It remains a focal point for the preservation of Wolof and Mandinka urban dialects."
+        ]
+      }
+    },
+    {
+      "id": "abuko-cities-v2",
+      "descriptionAdvanced": {
+        "de": "Abuko ist ein bedeutender Stadtteil im Distrikt Kombo North, der vor allem für sein reiches Naturerbe und seine strategische Lage bekannt ist. Berühmt ist der Ort für das Abuko Nature Reserve, Gambias erstes Naturschutzgebiet, das eine Oase des dichten tropischen Waldes inmitten der urbanen Expansion darstellt. Abuko dient als wichtiges Wohn- und Gewerbegebiet an der South Bank Road, die Serekunda mit dem Landesinneren verbindet. Geografisch ist der Stadtteil durch das Vorhandensein von ganzjährigen Wasserläufen und Feuchtgebieten geprägt, die eine üppige Vegetation und eine vielfältige Tierwelt, einschließlich Krokodilen und seltenen Vögeln, unterstützen. Wirtschaftlich ist Abuko ein Zentrum für die Viehwirtschaft; hier befindet sich der größte Viehmarkt des Landes, auf dem Tiere aus der gesamten Region gehandelt werden. Zudem beherbergt Abuko wichtige industrielle Einrichtungen wie den Schlachthof und Kühlhäuser. Trotz der industriellen und kommerziellen Aktivitäten bewahrt Abuko eine grüne Atmosphäre, was vor allem dem Schutz des Naturreservats zu verdanken ist. Die Bevölkerung ist eine Mischung aus verschiedenen ethnischen Gruppen, wobei Jola und Mandinka stark vertreten sind. Für Besucher bietet Abuko die einzigartige Gelegenheit, Naturerlebnisse im Regenwald mit Einblicken in die gambische Agrarwirtschaft zu verbinden, nur wenige Kilometer von den großen Städten entfernt.",
+        "hu": "Abuko Gambia egyik legkülönlegesebb városa a Kombo North körzetben, amely elsősorban természeti értékeiről és gazdasági szerepéről ismert. A település világhírét az Abuko Természetvédelmi Területnek köszönheti, amely az ország első védett övezete volt, és egy sűrű trópusi erdőmaradványt őriz a növekvő városi területek gyűrűjében. Abuko stratégiai helyen, a déli parti főút mentén fekszik, összekötve Serekundát az ország belső részeivel. Földrajzi jellemzője az állandó vízfolyások és vizes élőhelyek jelenléte, amelyek buja növényzetet és gazdag állatvilágot, köztük krokodilokat és majmokat tartanak el. Gazdaságilag Abuko az ország állattenyésztési központja: itt található Gambia legnagyobb állatpiaca, ahol a környező országokból is érkeznek kereskedők. A városban működik az ország modern vágóhídja és több hűtőház is, amelyek a főváros élelmiszerellátását biztosítják. Bár az ipari és kereskedelmi tevékenység jelentős, a természetvédelmi terület jelenléte miatt Abuko megőrizte zöld jellegét. A lakosság többsége a mezőgazdaságból vagy a kereskedelemből él, mélyen tisztelve a környezet értékeit. Az idelátogatók számára Abuko egyedülálló élményt nyújt: percek alatt válthatnak a nyüzsgő állatpiac forgatagából az őserdő mélyének nyugalmába.",
+        "ro": "Abuko este o localitate de o importanță crucială situată în districtul Kombo North, fiind renumită atât pentru patrimoniul său natural, cât și pentru rolul său economic major. Orașul găzduiește Rezervația Naturală Abuko, prima arie protejată din Gambia, care conservă un ecosistem forestier tropical intact în mijlocul unei zone în curs de urbanizare. Situat pe drumul principal de pe malul sudic, Abuko reprezintă o poartă de acces vitală între metropola Serekunda și interiorul țării. Geografia locului este definită de prezența unor cursuri de apă perene și a unor zone umede care susțin o biodiversitate exuberantă, fiind un refugiu pentru crocodili și specii rare de păsări. Din punct de vedere economic, Abuko este inima comerțului cu animale din Gambia, aici aflându-se cea mai mare piață de vite și ovine, care atrage negustori din întreaga Africă de Vest. Infrastructura orașului include facilități industriale precum abatorul național și depozite frigorifice strategice. În ciuda presiunii comerciale, Abuko își menține un caracter verde datorită politicilor stricte de conservare a rezervației. Demografia locală reflectă diversitatea națională, cu o prezență notabilă a comunităților Jola și Mandinka. Pentru turiști, Abuko oferă oportunitatea rară de a observa fauna sălbatică africană și dinamica piețelor tradiționale într-o singură vizită, la mică distanță de hotelurile de la coastă.",
+        "en": "Abuko is a significant town in the Kombo North District, widely recognized for its rich natural heritage and its strategic economic role. It is home to the Abuko Nature Reserve, The Gambia’s first protected area, which stands as an oasis of dense tropical forest within a rapidly expanding urban landscape. Situated along the South Bank Road, Abuko acts as a critical gateway between the Serekunda metropolis and the country's interior. Geographically, the area is defined by perennial watercourses and wetlands that sustain lush vegetation and a diverse array of wildlife, including crocodiles and exotic monkeys. Economically, Abuko is the center of the nation’s livestock industry, hosting the largest animal market in the country where traders from across the region gather. The town also houses essential industrial infrastructure, including the national abattoir and strategic cold storage facilities. Despite its commercial and industrial importance, Abuko retains a verdant atmosphere thanks to the strict preservation of the nature reserve. Its population is a vibrant mix of ethnic groups, with the Jola and Mandinka people playing a major role in local life. For visitors, Abuko offers a unique experience where one can transition from the high-energy cattle markets to the silent depths of a rainforest in just minutes, making it a key stop for eco-tourists and business travelers alike."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Abuko beherbergt das erste Naturschutzgebiet Gambias, das 1968 gegründet wurde.",
+          "Der Ort besitzt den größten Viehmarkt des Landes (Abuko Livestock Market).",
+          "Abuko ist ein wichtiger Standort für die nationale Wasserversorgung (Lamin Bolong).",
+          "Hier befindet sich der zentrale staatliche Schlachthof Gambias.",
+          "Das Naturreservat von Abuko ist weltberühmt für seine über 270 Vogelarten.",
+          "Der Stadtteil ist ein wichtiger Knotenpunkt für den Handel mit dem Senegal."
+        ],
+        "hu": [
+          "Az Abuko Természetvédelmi Terület az ország leglátogatottabb parkja.",
+          "A város állatpiacán évente több tízezer jószág cserél gazdát.",
+          "Abuko környékén találhatók az ország legfontosabb kertészeti kísérleti telepei.",
+          "A település központjában több nagy élelmiszer-raktár is működik.",
+          "Abuko fontos bázisa a nemzeti állategészségügyi szolgálatnak.",
+          "A városban található Gambia egyik legrégebbi fafeldolgozó üzeme."
+        ],
+        "ro": [
+          "Rezervația Abuko protejează o lagună cu apă dulce, habitat pentru crocodilii de râu.",
+          "Abuko este punctul principal de aprovizionare cu carne pentru hotelurile de la coastă.",
+          "Localitatea găzduiește sedii ale unor organizații internaționale de protecție a faunei.",
+          "Relieful este marcat de pante ușoare care drenează apa spre mlaștinile riverane.",
+          "Abuko este renumit pentru diversitatea de orhidee sălbatice din pădurea sa.",
+          "Piața de vite din Abuko este cea mai activă în perioada sărbătorilor religioase."
+        ],
+        "en": [
+          "Abuko Nature Reserve is one of the closest primary forests to any African capital.",
+          "The town acts as a primary hub for regional agricultural and dairy distribution.",
+          "It serves as a critical education center for environmental conservation in Gambia.",
+          "Abuko features significant industrial zoning for agro-processing ventures.",
+          "The area is a major transit node for heavy trucks heading toward Soma.",
+          "It provides a unique sanctuary for the endangered Western Red Colobus monkey."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanEconomicV2.ts"
+  ],
+  "items": [
+    {
+      "id": "guneid-sugar-factory-economic-v2",
+      "description": "Fabrică istorică de zahăr situată pe Nilul Albastru, jucând un rol crucial în economia agricolă locală.",
+      "facts": ["Localizată pe Nilul Albastru", "Producție tradițională de zahăr", "Susține fermele locale", "Importanță istorică industrială"]
+    },
+    {
+      "id": "new-halfa-sugar-factory-economic-v2",
+      "description": "Unitate de procesare a zahărului în statul Kassala, conectată la proiectul agricol New Halfa.",
+      "facts": ["Situată în statul Kassala", "Parte a proiectului New Halfa", "Producție agricolă intensivă", "Angajator regional"]
+    },
+    {
+      "id": "sennar-sugar-factory-economic-v2",
+      "description": "Fabrică de zahăr în zona Sennar, beneficiind de irigațiile din bazinul Nilului Albastru.",
+      "facts": ["Lângă barajul Sennar", "Utilizează apele Nilului Albastru", "Capacitate de rafinare", "Dezvoltare regională"]
+    },
+    {
+      "id": "al-jaili-oil-refinery-economic-v2",
+      "description": "Rafinărie de petrol majoră situată la nord de Khartoum, crucială pentru aprovizionarea internă.",
+      "facts": ["Cea mai mare rafinărie din Sudan", "Capacitate de rafinare ridicată", "Situată lângă Khartoum", "Esențială pentru combustibil"]
+    },
+    {
+      "id": "el-obeid-oil-refinery-economic-v2",
+      "description": "Rafinărie strategică care procesează petrolul brut pentru regiunile vestice ale țării.",
+      "facts": ["Localizată în Kordofan", "Deservește regiunile vestice", "Importanță strategică", "Depozitare combustibil"]
+    },
+    {
+      "id": "port-sudan-oil-refinery-economic-v2",
+      "description": "Rafinărie istorică situată în Port Sudan, principalul punct de import al petrolului.",
+      "facts": ["Situată în Port Sudan", "Rafinare petrol importat", "Istoric industrial lung", "Conexiuni maritime"]
+    },
+    {
+      "id": "atbara-cement-factory-economic-v2",
+      "description": "Fabrică de ciment esențială pentru sectorul construcțiilor din nordul Sudanului.",
+      "facts": ["Situată în Atbara", "Producție pentru construcții", "Resurse locale", "Susține infrastructura"]
+    },
+    {
+      "id": "rabak-nile-cement-economic-v2",
+      "description": "Unitate de producție a cimentului lângă Rabak, profitând de resursele regionale.",
+      "facts": ["Localizată în statul Nilul Alb", "Producție ciment", "Distribuție centrală", "Dezvoltare industrială"]
+    },
+    {
+      "id": "berber-cement-factory-economic-v2",
+      "description": "Facilitate industrială de ciment în Berber, contribuind la industria materialelor de construcții.",
+      "facts": ["Situată în Berber", "Producție pentru nord", "Infrastructură industrială", "Resurse minerale locale"]
+    },
+    {
+      "id": "al-takamul-cement-economic-v2",
+      "description": "Fabrică de ciment modernă, parte din dezvoltarea industrială a zonei Khartoum.",
+      "facts": ["Situată lângă Khartoum", "Producție ciment modernă", "Capacitate industrială mare", "Standarde construcții"]
+    }
+  ]
+}

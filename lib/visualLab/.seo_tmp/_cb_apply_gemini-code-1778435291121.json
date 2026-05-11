@@ -1,0 +1,225 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "berending-crocodile-pool-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das heilige Krokodilbecken von Berending ist ein herausragendes spirituelles Landmark in der Niumi-Region am Nordufer des Gambia-Flusses. Geografisch liegt es eingebettet in eine dichte Vegetation, die einen starken Kontrast zur trockenen Umgebung der North Bank Division bildet. Als Landmarke ist dieser Ort weniger für monumentale Architektur bekannt, sondern für seine natürliche und sakrale Topographie. Er besteht aus einem zentralen Wasserbecken, das von einem uralten, geschützten Hain umgeben ist, der in der lokalen Tradition als heiliger Wald gilt. Für die umliegenden Gemeinschaften dient Berending als geografischer und spiritueller Ankerpunkt, an dem seit Jahrhunderten traditionelle Riten praktiziert werden. Historisch gesehen ist der Ort eng mit der Mandinka-Kultur verknüpft und bewahrt eine vorkoloniale Glaubenswelt, die trotz des Einflusses des Islams fortbesteht. Das Becken beherbergt eine Population von Westafrikanischen Krokodilen, die als Wächter des Ortes angesehen werden. Der Ort verdeutlicht die enge Verflechtung von Ökologie und Spiritualität in Gambia, wobei das Wasser und die Tiere als physische Repräsentanten einer unsichtbaren Ahnenwelt fungieren.",
+        "hu": "A berendingi szent krokodilmedence kiemelkedő spirituális nevezetesség a Niumi régióban, a Gambia-folyó északi partján. Földrajzilag sűrű vegetációba ágyazódik, amely éles kontrasztot alkot az északi parti régió (North Bank Division) száraz környezetével. Mint tájékozódási pont és nevezetesség, ez a hely nem monumentális építészetéről, hanem természetes és szakrális topográfiájáról ismert. Egy központi víztározóból áll, amelyet egy ősi, védett liget vesz körül, amelyet a helyi hagyomány szent erdőként tisztel. A környező közösségek számára Berending földrajzi és spirituális horgonyként szolgál, ahol évszázadok óta gyakorolják a hagyományos rítusokat. Történelmileg a hely szorosan kapcsolódik a mandinka kultúrához, és egy olyan gyarmatosítás előtti hiedelemvilágot őriz, amely az iszlám hatása ellenére is fennmaradt. A medence nyugat-afrikai krokodilok populációjának ad otthont, akiket a hely őrzőinek tekintenek. A helyszín jól példázza az ökológia és a spiritualitás szoros összefonódását Gambiában, ahol a víz és az állatok a láthatatlan ősvilág fizikai képviselőiként jelennek meg.",
+        "ro": "Bazinul sacru cu crocodili din Berending este un punct de reper spiritual proeminent în regiunea Niumi, pe malul de nord al râului Gambia. Din punct de vedere geografic, acesta este situat într-o vegetație densă care formează un contrast puternic cu mediul arid din regiunea North Bank. Ca monument și punct de reper, acest loc nu este cunoscut pentru o arhitectură monumentală, ci pentru topografia sa naturală și sacrală. Constă dintr-un bazin central de apă înconjurat de un crâng vechi, protejat, considerat pădure sacră în tradiția locală. Pentru comunitățile din jur, Berending servește ca o ancoră geografică și spirituală, unde riturile tradiționale au fost practicate timp de secole. Din punct de vedere istoric, situl este strâns legat de cultura Mandinka și păstrează o lume a credințelor precoloniale care a persistat în ciuda influenței islamului. Bazinul găzduiește o populație de crocodili vest-africani, care sunt considerați gardienii locului. Situl ilustrează interdependența strânsă dintre ecologie și spiritualitate în Gambia, unde apa și animalele funcționează ca reprezentanți fizici ai unei lumi ancestrale invizibile.",
+        "en": "The Berending Sacred Crocodile Pool is a prominent spiritual landmark in the Niumi region on the north bank of the Gambia River. Geographically, it is nestled within a dense pocket of vegetation that provides a stark contrast to the typically arid landscape of the North Bank Division. As a landmark, the site is defined not by monumental architecture but by its natural and sacral topography, consisting of a central pool sheltered by an ancient grove recognized as a 'sacred forest.' For local communities, Berending serves as both a geographical and spiritual anchor, where traditional rites have been observed for centuries. Historically, the site is deeply intertwined with Mandinka culture, preserving a pre-colonial belief system that has endured despite the widespread adoption of Islam. The pool is home to a population of West African crocodiles, revered as the spiritual custodians of the area. This site exemplifies the profound connection between ecology and spirituality in The Gambia, where the water and the resident reptiles act as physical manifestations of an invisible ancestral realm."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtiges sakrales Landmark in der North Bank Region.",
+          "Zentrum für traditionelle Mandinka-Heilungsrituale.",
+          "Beherbergt Westafrikanische Krokodile (Crocodylus suchus).",
+          "Umgeben von einem ökologisch geschützten heiligen Hain.",
+          "Gilt als spirituelles Gegenstück zum Kachikally-Becken.",
+          "Ort für Gebete um Fruchtbarkeit und sozialen Zusammenhalt."
+        ],
+        "hu": [
+          "Fontos szakrális nevezetesség az északi parti régióban.",
+          "A hagyományos mandinka gyógyító rítusok központja.",
+          "Nyugat-afrikai krokodiloknak (Crocodylus suchus) ad otthont.",
+          "Ökológiailag védett szent liget veszi körül.",
+          "A kachikally-i medence spirituális párjának tekintik.",
+          "A termékenységért és a közösségi összetartásért végzett imák helye."
+        ],
+        "ro": [
+          "Punct de reper sacru important în regiunea North Bank.",
+          "Centru pentru ritualuri tradiționale de vindecare Mandinka.",
+          "Adăpostește crocodili vest-africani (Crocodylus suchus).",
+          "Înconjurat de un crâng sacru protejat ecologic.",
+          "Considerat contrapartea spirituală a bazinului Kachikally.",
+          "Loc pentru rugăciuni de fertilitate și coeziune socială."
+        ],
+        "en": [
+          "A major sacred landmark within the North Bank Region.",
+          "A focal point for traditional Mandinka healing ceremonies.",
+          "Inhabited by West African crocodiles, considered sacred guardians.",
+          "Features a protected 'sacred grove' essential to local ecology.",
+          "Acts as a spiritual sister-site to the Kachikally pool in Bakau.",
+          "Regarded as a powerful site for fertility and community blessings."
+        ]
+      }
+    },
+    {
+      "id": "folonko-crocodile-pool-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Folonko-Krokodilbecken in Kartong ist die südlichste der drei großen heiligen Stätten dieser Art in Gambia und markiert eine bedeutende kulturelle Landmarke nahe der Grenze zu Senegal. Geografisch liegt es am Rande des Dorfes Kartong, eingebettet in ein System aus Feuchtgebieten und Mangroven, das für die Biodiversität der Region entscheidend ist. Als Landmarke wird der Ort durch seine ruhige, fast abgeschiedene Lage definiert, die eine tiefe Verbindung zur Natur ausstrahlt. Das Becken selbst ist ein natürlicher Wasserspeicher, der durch unterirdische Quellen gespeist wird und seit Generationen als heiliger Ort der Reinigung und Segnung dient. Historisch gesehen spiegelt Folonko die Beständigkeit animistischer Traditionen wider, die sich harmonisch in den modernen Alltag integriert haben. Die Krokodile, die hier leben, werden von der lokalen Gemeinschaft geschützt und verehrt, was den Ort zu einem Beispiel für den ethno-ökologischen Naturschutz macht. Besucher und Einheimische nutzen den Ort gleichermaßen als Orientierungspunkt für spirituelle Identität im Süden des Landes.",
+        "hu": "A kartongi Folonko-krokodilmedence a három nagy gambiai szent hely közül a legdélebbi, és jelentős kulturális nevezetesség a szenegáli határ közelében. Földrajzilag Kartong falu szélén található, vizes élőhelyek és mangroveerdők rendszerébe ágyazva, amelyek meghatározóak a régió biológiai sokfélesége szempontjából. Mint nevezetesség, a helyet nyugodt, szinte elszigetelt elhelyezkedése határozza meg, amely a természettel való mély kapcsolatot sugározza. Maga a medence egy természetes víztározó, amelyet földalatti források táplálnak, és generációk óta a tisztítás és az áldás szent helyeként szolgál. Történelmileg a Folonko az animista hagyományok állandóságát tükrözi, amelyek harmonikusan integrálódtak a modern mindennapi életbe. Az itt élő krokodilokat a helyi közösség védi és tiszteli, így a helyszín az etno-ökológiai természetvédelem példájává vált. A látogatók és a helyiek egyaránt a spirituális identitás viszonyítási pontjaként tekintenek rá az ország déli részén.",
+        "ro": "Bazinul cu crocodili Folonko din Kartong este cel mai sudic dintre cele trei mari situri sacre de acest tip din Gambia și marchează un punct de reper cultural semnificativ lângă granița cu Senegal. Din punct de vedere geografic, este situat la marginea satului Kartong, integrat într-un sistem de zone umede și mangrove, crucial pentru biodiversitatea regiunii. Ca punct de reper, locul este definit de locația sa liniștită, aproape izolată, care emană o legătură profundă cu natura. Bazinul în sine este un rezervor natural de apă, alimentat de izvoare subterane, servind de generații ca loc sfânt pentru purificare și binecuvântare. Din punct de vedere istoric, Folonko reflectă persistența tradițiilor animiste care s-au integrat armonios în viața de zi cu zi modernă. Crocodilii care trăiesc aici sunt protejați și venerați de comunitatea locală, transformând situl într-un exemplu de conservare etno-ecologică a naturii. Vizitatorii și localnicii folosesc locul deopotrivă ca punct de orientare pentru identitatea spirituală în sudul țării.",
+        "en": "The Folonko Crocodile Pool in Kartong is the southernmost of The Gambia's three major sacred sites of its kind, marking a vital cultural landmark near the Senegalese border. Geographically, it is located on the outskirts of Kartong village, embedded within a network of wetlands and mangroves essential to the region's biodiversity. As a landmark, the site is defined by its serene, almost secluded setting, radiating a deep connection to the natural world. The pool itself is a natural catchment fed by subterranean springs and has served for generations as a hallowed ground for purification and spiritual blessings. Historically, Folonko reflects the enduring presence of animist traditions that have seamlessly integrated into contemporary daily life. The resident crocodiles are protected and revered by the local community, making the site a prime example of ethno-ecological conservation. Both visitors and residents view the pool as a primary reference point for spiritual identity in the southern reaches of the country."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Südlichstes heiliges Krokodilbecken Gambias in Kartong.",
+          "Wichtiger Bezugspunkt für die spirituelle Identität im Süden.",
+          "Gespeist durch natürliche unterirdische Quellen.",
+          "Ort für traditionelle Waschungen und Segensrituale.",
+          "Beispiel für den Schutz der Tierwelt durch lokalen Glauben.",
+          "Wesentlicher Bestandteil der kulturellen Landschaft von Kartong."
+        ],
+        "hu": [
+          "Gambia legdélebbi szent krokodilmedencéje Kartongban.",
+          "A déli spirituális identitás fontos viszonyítási pontja.",
+          "Természetes földalatti források táplálják.",
+          "Hagyományos mosakodások és áldási rituálék helyszíne.",
+          "A vadvilág helyi hiedelmeken alapuló védelmének példája.",
+          "Kartong kulturális tájképének szerves része."
+        ],
+        "ro": [
+          "Cel mai sudic bazin sacru cu crocodili din Gambia, în Kartong.",
+          "Punct de referință important pentru identitatea spirituală din sud.",
+          "Alimentat de izvoare naturale subterane.",
+          "Loc pentru spălări tradiționale și ritualuri de binecuvântare.",
+          "Exemplu de protecție a faunei prin intermediul credințelor locale.",
+          "Parte integrantă a peisajului cultural din Kartong."
+        ],
+        "en": [
+          "The southernmost of the three major sacred pools in the country.",
+          "A primary cultural landmark for the southern Kombo districts.",
+          "Fed by continuous natural underground spring water.",
+          "Historically significant for traditional cleansing ceremonies.",
+          "Showcases the integration of indigenous beliefs and conservation.",
+          "A key element of Kartong's distinct cultural and natural landscape."
+        ]
+      }
+    },
+    {
+      "id": "sanneh-mentering-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Sanneh-Mentering ist eine heilige Stätte in Brufut, die als eine der wichtigsten Landmarken für die traditionelle Religion in der Kombo-Region gilt. Geografisch markant liegt sie auf den Klippen über dem Atlantischen Ozean, was ihr eine einzigartige visuelle und spirituelle Bedeutung verleiht. Der Ort wird oft als 'Marabout-Schrein' bezeichnet und ist eng mit der Familiengeschichte der Sanneh verbunden, die historisch zu den herrschenden Lineages der Region gehörten. Als Landmarke zeichnet sich Sanneh-Mentering durch einen dichten Waldstreifen aus, der direkt an die Küste grenzt und in dem bestimmte Tabus und Regeln gelten. Historisch gesehen war der Ort ein Zentrum für Pilgerreisen, bei denen Gläubige Schutz und spirituelle Führung suchten. Es wird angenommen, dass die Geister der Ahnen in den Felsen und Bäumen dieses Ortes wohnen. Die Kombination aus der dramatischen Küstenlage und der tiefen religiösen Bedeutung macht Sanneh-Mentering zu einem unverwechselbaren Punkt auf der kulturellen Landkarte Gambias. Trotz der zunehmenden Urbanisierung und des Tourismus in der Umgebung bleibt die Stätte ein geschützter Raum, der die vorkoloniale spirituelle Geschichte der Küstenvölker bewahrt.",
+        "hu": "A Brufútban található Sanneh-Mentering egy szent hely, amely a Kombo régió hagyományos vallásának egyik legfontosabb nevezetessége. Földrajzilag az Atlanti-óceán feletti sziklákon helyezkedik el, ami egyedülálló vizuális és spirituális jelentőséget kölcsönöz neki. A helyet gyakran 'marabu-szentélyként' emlegetik, és szorosan kapcsolódik a Sanneh család történelméhez, akik a régió uralkodó rétegéhez tartoztak. Mint nevezetesség, a Sanneh-Menteringet egy sűrű erdősáv jellemzi, amely közvetlenül a tengerparttal határos, és ahol szigorú szabályok és tabuk érvényesülnek. Történelmileg a helyszín a zarándoklatok központja volt, ahol a hívők védelmet és spirituális útmutatást kerestek. Úgy tartják, hogy az ősök szellemei a sziklákban és a fák között lakoznak. A drámai tengerparti elhelyezkedés és a mély vallási jelentőség kombinációja teszi a Sanneh-Menteringet Gambia kulturális térképének jellegzetes pontjává. A környéken tapasztalható fokozódó urbanizáció és turizmus ellenére a helyszín védett terület marad, amely őrzi a part menti népek gyarmatosítás előtti spirituális történelmét.",
+        "ro": "Sanneh-Mentering este un sit sacru din Brufut, considerat unul dintre cele mai importante puncte de reper pentru religia tradițională din regiunea Kombo. Situat geografic pe stâncile de deasupra Oceanului Atlantic, acesta are o semnificație vizuală și spirituală unică. Locul este adesea numit „altar marabout” și este strâns legat de istoria familiei Sanneh, care a aparținut istoric liniilor conducătoare din regiune. Ca punct de reper, Sanneh-Mentering se distinge printr-o fâșie de pădure densă care se învecinează direct cu coasta, unde se aplică anumite tabuuri și reguli. Din punct de vedere istoric, situl a fost un centru pentru pelerinaje, unde credincioșii căutau protecție și îndrumare spirituală. Se crede că spiritele strămoșilor sălășluiesc în stâncile și copacii acestui loc. Combinația dintre locația costieră dramatică și semnificația religioasă profundă face din Sanneh-Mentering un punct distinctiv pe harta culturală a Gambiei. În ciuda urbanizării tot mai accentuate și a turismului din jur, situl rămâne un spațiu protejat care păstrează istoria spirituală precolonială a popoarelor de pe coastă.",
+        "en": "Sanneh-Mentering is a hallowed site located in Brufut, regarded as one of the most significant landmarks for traditional religion in the Kombo region. Geographically, it is strikingly situated atop cliffs overlooking the Atlantic Ocean, providing it with a unique visual and spiritual command of the coastline. Often referred to as a 'marabout shrine,' the site is inextricably linked to the ancestral history of the Sanneh family, who were historically part of the region's ruling lineages. As a landmark, Sanneh-Mentering is distinguished by a belt of dense forest reaching to the shore, governed by strict traditional laws and taboos. Historically, it functioned as a major pilgrimage destination where seekers of protection and spiritual guidance would gather. Local lore suggests that ancestral spirits reside within the rocky outcrops and ancient trees of the area. The synthesis of its dramatic coastal setting and deep religious importance makes Sanneh-Mentering a defining feature of the Gambian cultural map. Despite increasing urbanization and nearby tourism, the site remains a protected sanctuary for pre-colonial spiritual heritage."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Heilige Stätte auf den Klippen von Brufut.",
+          "Zentrum für den Ahnenkult der Sanneh-Familie.",
+          "Kombination aus maritimem Landmark und Waldheiligtum.",
+          "Wichtiger Ort für religiöse Pilgerreisen in Westgambia.",
+          "Bekannt für seine spirituelle Atmosphäre über dem Atlantik.",
+          "Geschützt durch traditionelle Gesetze und Tabus."
+        ],
+        "hu": [
+          "Szent hely a brufuti sziklák tetején.",
+          "A Sanneh család őskultuszának központja.",
+          "Tengerparti nevezetesség és erdei szentély kombinációja.",
+          "A vallási zarándoklatok fontos helyszíne Nyugat-Gambiában.",
+          "Az Atlanti-óceán feletti spirituális atmoszférájáról híres.",
+          "Hagyományos törvények és tabuk által védett terület."
+        ],
+        "ro": [
+          "Sit sacru situat pe stâncile din Brufut.",
+          "Centru pentru cultul strămoșilor familiei Sanneh.",
+          "Combinație între un punct de reper maritim și un sanctuar forestier.",
+          "Loc important pentru pelerinaje religioase în vestul Gambiei.",
+          "Cunoscut pentru atmosfera sa spirituală deasupra Atlanticului.",
+          "Protejat prin legi tradiționale și tabuuri stricte."
+        ],
+        "en": [
+          "A prominent sacred site located on the cliffs of Brufut.",
+          "Center of ancestral veneration for the Sanneh lineage.",
+          "Unique combination of a maritime landmark and forest shrine.",
+          "A major destination for traditional religious pilgrimages.",
+          "Renowned for its spiritual ambiance overlooking the ocean.",
+          "Maintained through centuries-old indigenous laws and taboos."
+        ]
+      }
+    },
+    {
+      "id": "kachikally-crocodile-pool-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Leben rund um das Kachikally-Krokodilbecken in Bakau ist ein faszinierendes Beispiel für das harmonische Zusammenleben von Mensch und Tier in einem urbanen Umfeld. Im Mittelpunkt stehen etwa 80 Westafrikanische Krokodile, die biologisch zur Art *Crocodylus suchus* gehören und für ihr außergewöhnlich friedfertiges Verhalten bekannt sind. Das tägliche Leben am Becken wird von der Familie Bojang bestimmt, die seit Jahrhunderten als Hüter der Tiere fungiert. Sie füttern die Reptilien regelmäßig mit frischem Fisch, was dazu beigetragen hat, dass die Tiere ihre natürliche Scheu vor Menschen verloren haben. Für die lokale Gemeinschaft ist das Becken mehr als ein spiritueller Ort; es ist ein sozialer Treffpunkt, an dem Traditionen im modernen Alltag lebendig bleiben. Frauen besuchen den Ort zur rituellen Waschung, während Kinder und Touristen die Tiere aus nächster Nähe beobachten können. Diese Koexistenz basiert auf einem tiefen gegenseitigen Respekt und dem Glauben an die heilige Natur der Krokodile. Das Leben hier zeigt, wie indigene Überzeugungen dazu beitragen können, Wildtiere in dicht besiedelten Gebieten zu schützen und ein einzigartiges kulturelles Ökosystem zu schaffen.",
+        "hu": "A bakauban található Kachikally-krokodilmedence körüli élet az ember és az állat harmonikus együttélésének lenyűgöző példája városi környezetben. A középpontban körülbelül 80 nyugat-afrikai krokodil áll, amelyek biológiailag a *Crocodylus suchus* fajhoz tartoznak, és rendkívül békés viselkedésükről ismertek. A medence mindennapi életét a Bojang család határozza meg, akik évszázadok óta az állatok őrzői. Rendszeresen friss hallal etetik a hüllőket, ami hozzájárult ahhoz, hogy az állatok elveszítsék az embertől való természetes félelmüket. A helyi közösség számára a medence több mint spirituális hely; ez egy olyan társadalmi találkozópont, ahol a hagyományok a modern mindennapokban is továbbélnek. Az asszonyok rituális tisztálkodás céljából látogatják a helyet, míg a gyerekek és a turisták közvetlen közelről figyelhetik meg az állatokat. Ez az együttélés mély, kölcsönös tiszteleten és a krokodilok szent természetébe vetett hiten alapul. Az itt zajló élet megmutatja, hogyan segíthetnek az őshonos hiedelmek a vadon élő állatok megőrzésében a sűrűn lakott területeken, egyedülálló kulturális ökoszisztémát hozva létre.",
+        "ro": "Viața în jurul bazinului cu crocodili Kachikally din Bakau este un exemplu fascinant de coexistență armonioasă între oameni și animale într-un mediu urban. În centru se află aproximativ 80 de crocodili vest-africani, care aparțin biologic speciei *Crocodylus suchus* și sunt cunoscuți pentru comportamentul lor neobișnuit de pașnic. Viața de zi cu zi la bazin este coordonată de familia Bojang, care acționează ca protectori ai animalelor de secole. Ei hrănesc reptilele regulat cu pește proaspăt, ceea ce a făcut ca animalele să își piardă teama naturală de oameni. Pentru comunitatea locală, bazinul este mai mult decât un loc spiritual; este un punct de întâlnire socială unde tradițiile rămân vii în viața cotidiană modernă. Femeile vizitează locul pentru spălări ritualice, în timp ce copiii și turiștii pot observa animalele de aproape. Această coexistență se bazează pe un respect reciproc profund și pe credința în natura sacră a crocodililor. Viața de aici demonstrează modul în care credințele indigene pot contribui la protejarea faunei sălbatice în zonele dens populate, creând un ecosistem cultural unic.",
+        "en": "Life at the Kachikally Crocodile Pool in Bakau is a compelling illustration of human-wildlife coexistence within an urban setting. At the heart of this site are approximately 80 West African crocodiles, belonging to the species *Crocodylus suchus*, renowned for their remarkably docile temperament. Daily life at the pool is meticulously managed by the Bojang family, who have served as traditional custodians for centuries. Their practice of regularly feeding the crocodiles fresh fish has significantly reduced the animals' predatory instincts toward humans. For the surrounding community, the pool is more than just a spiritual sanctuary; it is a social hub where ancient customs pulse through modern daily life. While women frequent the site for ritual bathing, local residents and tourists alike can observe the reptiles at close range. and This unique coexistence is grounded in deep-seated mutual respect and the indigenous belief that the crocodiles are sacred entities. The daily interactions here prove how traditional knowledge and cultural values can effectively preserve wildlife within a modern, densely populated environment."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt zahme Krokodile der Art Crocodylus suchus.",
+          "Täglich durch die Familie Bojang betreut und gefüttert.",
+          "Krokodile werden primär mit frischem Fisch ernährt.",
+          "Zentrum des sozialen und spirituellen Lebens in Bakau.",
+          "Ort für rituelle Waschungen zur Heilung und Fruchtbarkeit.",
+          "Einzigartiges Beispiel für urbane Koexistenz von Mensch und Wildtier."
+        ],
+        "hu": [
+          "Crocodylus suchus fajhoz tartozó szelíd krokodilok otthona.",
+          "A Bojang család napi szinten gondozza és eteti őket.",
+          "A krokodilok étrendje főként friss halból áll.",
+          "Bakau társadalmi és spirituális életének központja.",
+          "Gyógyító és termékenységi célú rituális mosakodások helyszíne.",
+          "Az ember és a vadvilág városi együttélésének egyedülálló példája."
+        ],
+        "ro": [
+          "Adăpostește crocodili blânzi din specia Crocodylus suchus.",
+          "Îngrijiți și hrăniți zilnic de către familia Bojang.",
+          "Dieta crocodililor constă în principal din pește proaspăt.",
+          "Centru al vieții sociale și spirituale din Bakau.",
+          "Loc pentru spălări ritualice pentru vindecare și fertilitate.",
+          "Exemplu unic de coexistență urbană între om și fauna sălbatică."
+        ],
+        "en": [
+          "Home to tame West African crocodiles (Crocodylus suchus).",
+          "Managed and fed daily by members of the Bojang clan.",
+          "The crocodiles' diet primarily consists of fresh river fish.",
+          "Functions as a vital social and spiritual hub for local residents.",
+          "A primary site for traditional fertility and healing rituals.",
+          "Showcases a rare successful model of urban wildlife integration."
+        ]
+      }
+    },
+    {
+      "id": "folonko-sacred-crocodile-pool-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das tägliche Leben am Folonko-Krokodilbecken im Dorf Kartong ist tief mit der lokalen Agrar- und Küstenkultur des Südens verwoben. Hier ist das Becken nicht nur ein Ort für Touristen, sondern ein integraler Bestandteil des sozialen Gefüges. Die Bewohner von Kartong betrachten die Krokodile als Teil ihrer erweiterten Gemeinschaft. Im Alltag kommen Menschen hierher, um in der Stille des heiligen Hains zu beten oder um Rat bei den traditionellen Hütern zu suchen. Die Lebensweise ist geprägt von einem langsamen Rhythmus, der sich nach den Jahreszeiten und den spirituellen Bedürfnissen richtet. Während der Regenzeit gewinnt der Ort an Bedeutung, wenn Rituale für eine gute Ernte durchgeführt werden. Die Krokodile selbst leben in einem natürlichen Ökosystem, das durch die Tabus der Gemeinschaft vor Überfischung und Verschmutzung geschützt wird. Das Leben am Folonko-Becken ist ein lebendiges Zeugnis dafür, wie ökologische Nachhaltigkeit durch kulturelle Identität und religiösen Respekt erreicht werden kann, weit entfernt vom Stress der modernen städtischen Zentren.",
+        "hu": "A kartongi Folonko-krokodilmedence mindennapi élete mélyen összefonódik a déli régió helyi mezőgazdasági és tengerparti kultúrájával. Itt a medence nem csupán a turisták látványossága, hanem a társadalmi szövet szerves része. Kartong lakói a krokodilokat tágabb közösségük tagjaiként kezelik. A mindennapokban az emberek azért jönnek ide, hogy a szent liget csendjében imádkozzanak, vagy tanácsot kérjenek a hagyományos őrzőktől. Az életmódot lassú ritmus jellemzi, amely az évszakokhoz és a spirituális igényekhez igazodik. Az esős évszakban a helyszín jelentősége megnő, ekkor végzik a jó termésért szóló rituálékat. Maguk a krokodilok egy olyan természetes ökoszisztémában élnek, amelyet a közösségi tabuk védenek a túlhalászástól és a szennyezéstől. A Folonko-medence élete élő bizonyítéka annak, hogyan érhető el az ökológiai fenntarthatóság a kulturális identitáson és a vallási tiszteleten keresztül, távol a modern városi központok stresszétől.",
+        "ro": "Viața de zi cu zi la bazinul sacru cu crocodili Folonko din satul Kartong este profund împletită cu cultura agricolă și costieră locală din sudul țării. Aici, bazinul nu este doar un loc pentru turiști, ci o parte integrantă a țesutului social. Locuitorii din Kartong consideră crocodilii ca fiind membri ai comunității lor extinse. În viața cotidiană, oamenii vin aici pentru a se ruga în liniștea crângului sacru sau pentru a cere sfatul păzitorilor tradiționali. Stilul de viață este caracterizat de un ritm lent, adaptat anotimpurilor și nevoilor spirituale. În timpul sezonului ploios, locul capătă o importanță sporită, fiind efectuate ritualuri pentru o recoltă bogată. Crocodilii înșiși trăiesc într-un ecosistem natural care este protejat de pescuitul excesiv și poluare prin tabuurile comunității. Viața la bazinul Folonko este o mărturie vie a modului în care sustenabilitatea ecologică poate fi realizată prin identitate culturală și respect religios, departe de stresul centrelor urbane moderne.",
+        "en": "Daily life at the Folonko Sacred Crocodile Pool in Kartong is deeply woven into the agricultural and coastal fabric of southern Gambia. Here, the pool is far more than a tourist attraction; it is a vital organ of the village’s social and spiritual life. The residents of Kartong treat the resident crocodiles as integral members of their extended community. On a daily basis, villagers visit the tranquil sacred grove to offer prayers or consult with traditional custodians on communal matters. The lifestyle here follows a rhythmic pace dictated by the seasons and spiritual requirements; for instance, the significance of the site surges during the rainy season when rituals for a bountiful harvest are performed. The crocodiles inhabit a natural ecosystem that remains protected from overfishing and pollution due to strictly observed community taboos. Life at Folonko serves as a living testament to how ecological sustainability can be achieved through cultural identity and religious reverence, remaining a world apart from the pressures of modern urban centers."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentrum der Gemeinschaft in Kartong im Süden Gambias.",
+          "Krokodile werden als Mitglieder der Dorfgemeinschaft angesehen.",
+          "Traditionelle Hüter verwalten den Zugang und die Riten.",
+          "Ökologischer Schutz des Beckens durch religiöse Tabus.",
+          "Wichtiger Ort für Ernte- und Fruchtbarkeitsgebete.",
+          "Bewahrt einen ursprünglichen, nicht-kommerziellen Charakter."
+        ],
+        "hu": [
+          "A dél-gambiai Kartong közösségi életének központja.",
+          "A krokodilokat a falusi közösség tagjaiként tisztelik.",
+          "Hagyományos őrzők kezelik a bejutást és a szertartásokat.",
+          "A medence ökológiai védelmét vallási tabuk biztosítják.",
+          "Aratási és termékenységi imák kiemelt helyszíne.",
+          "Megőrizte eredeti, nem kereskedelmi jellegét."
+        ],
+        "ro": [
+          "Centru al comunității din Kartong, în sudul Gambiei.",
+          "Crocodilii sunt priviți ca membri ai comunității sătești.",
+          "Păzitorii tradiționali gestionează accesul și riturile.",
+          "Protecția ecologică a bazinului este asigurată prin tabuuri religioase.",
+          "Loc important pentru rugăciuni de recoltă și fertilitate.",
+          "Păstrează un caracter autentic, necomercial."
+        ],
+        "en": [
+          "The heart of community and spiritual life in Kartong.",
+          "Reptiles are viewed as spiritual members of the village family.",
+          "Managed by traditional custodians who oversee local rituals.",
+          "Sustainability is ensured through strict religious taboos.",
+          "A focal point for seasonal harvest and blessing ceremonies.",
+          "Maintains an authentic, non-commercialized atmosphere."
+        ]
+      }
+    }
+  ]
+}

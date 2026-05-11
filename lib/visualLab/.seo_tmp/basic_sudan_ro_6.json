@@ -1,0 +1,79 @@
+{
+  "lang": "ro",
+  "country": "Sudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSudanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "red-sea-coast-sudan-nature-v2",
+      "description": "Zonă de coastă diversă a Mării Roșii, bogată în recife de corali și biodiversitate marină.",
+      "facts": ["Coasta Mării Roșii", "Recife de corali", "Biodiversitate marină", "Sursă de frumusețe naturală"]
+    },
+    {
+      "id": "dinder-river-nature-v2",
+      "description": "Râu important care traversează Parcul Național Dinder, susținând viața sălbatică locală.",
+      "facts": ["Parcul Național Dinder", "Râu sezonier", "Biodiversitate bogată", "Ecosistem protejat"]
+    },
+    {
+      "id": "erkowit-mountains-nature-v2",
+      "description": "Masiv muntos în estul Sudanului, cunoscut pentru climatul mai răcoros și flora unică.",
+      "facts": ["Estul Sudanului", "Climat montan", "Flora unică", "Peisaj stâncos"]
+    },
+    {
+      "id": "nuba-mountains-nature-v2",
+      "description": "Peisaj muntos spectaculos, caracterizat prin inselberguri și vegetație de savană.",
+      "facts": ["Regiunea Munților Nuba", "Inselberguri", "Vegetație de savană", "Peisaj spectaculos"]
+    },
+    {
+      "id": "dongola-reach-nature-v2",
+      "description": "Segment al Nilului în zona Dongola, marcând tranziția spre deșert.",
+      "facts": ["Segment al Nilului", "Zona Dongola", "Tranziție spre deșert", "Peisaj riveran"]
+    },
+    {
+      "id": "sabargum-island-nature-v2",
+      "description": "Insulă pitorească pe Nil, oferind habitat pentru diverse specii de păsări.",
+      "facts": ["Insulă pe Nil", "Habitat pentru păsări", "Peisaj verde", "Oază naturală"]
+    },
+    {
+      "id": "tuti-island-nature-v2",
+      "description": "Insulă fertilă la confluența Nilului Alb și Albastru, acoperită de vegetație luxuriantă.",
+      "facts": ["Confluența Nilului", "Vegetație luxuriantă", "Insulă fertilă", "Biodiversitate urbană"]
+    },
+    {
+      "id": "shendi-reach-nature-v2",
+      "description": "Zonă a cursului Nilului aproape de Shendi, marcând peisaje deșertice și riverane.",
+      "facts": ["Cursul Nilului", "Lângă Shendi", "Peisaje deșertice", "Biodiversitate locală"]
+    },
+    {
+      "id": "jebel-barkal-nature-v2",
+      "description": "Munte sacru și formațiune geologică impresionantă, punct de reper în peisajul nubian.",
+      "facts": ["Regiunea nubiană", "Formațiune geologică", "Punct de reper", "Peisaj istoric"]
+    },
+    {
+      "id": "wadi-howar-nature-v2",
+      "description": "Fost curs de râu acum uscat, transformat într-un ecosistem deșertic important.",
+      "facts": ["Fost râu", "Deșert Sahara", "Ecosistem uscat", "Istorie geologică"]
+    },
+    {
+      "id": "nile-cataract-5-nature-v2",
+      "description": "A cincea cataractă a Nilului, caracterizată prin praguri stâncoase spectaculoase.",
+      "facts": ["Cataractele Nilului", "Praguri stâncoase", "Peisaj geologic", "Sursă de energie hidraulică"]
+    },
+    {
+      "id": "jebel-marra-crater-nature-v2",
+      "description": "Crater vulcanic spectaculos în Jebel Marra, adăpostind lacuri și microclimate unice.",
+      "facts": ["Crater vulcanic", "Masivul Jebel Marra", "Lacuri de crater", "Microclimă unică"]
+    },
+    {
+      "id": "khor-el-gash-nature-v2",
+      "description": "Albie de râu sezonieră care alimentează delta internă, vitală pentru regiunea Kassala.",
+      "facts": ["Râu sezonier", "Regiunea Kassala", "Delta internă", "Importanță ecologică"]
+    },
+    {
+      "id": "jebel-mimi-nature-v2",
+      "description": "Formațiune muntoasă izolată, reprezentativă pentru peisajul din Sudanul de Vest.",
+      "facts": ["Sudanul de Vest", "Munte izolat", "Geologie locală", "Peisaj sălbatic"]
+    }
+  ]
+}

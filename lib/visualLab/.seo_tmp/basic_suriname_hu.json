@@ -1,0 +1,63 @@
+{
+  "lang": "hu",
+  "country": "Suriname",
+  "files": [
+    "lib/visualLab/data/poiExtraSurinameEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSurinameHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSurinameLifeV2.ts",
+    "lib/visualLab/data/poiExtraSurinameReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sr-de-molen-getreidemuehle-economic-v2",
+      "description": "Paramaribo ipari övezetében található gabonaőrlő üzem, amely fontos szerepet játszik az élelmiszerellátásban. A létesítmény modern technológiával dolgozza fel az importált gabonát.",
+      "facts": ["Paramaribóban működik", "Gabona feldolgozása", "Élelmiszeripari jelentőség"]
+    },
+    {
+      "id": "sr-vsh-foods-margarinefabrik-economic-v2",
+      "description": "A VSH Foods Suriname vezető margaringyártó vállalata, amely évtizedek óta látja el a helyi piacot különböző élelmiszeripari termékekkel. Gyára a főváros gazdasági központjában található.",
+      "facts": ["Suriname-i margaringyár", "Helyi piac kiszolgálása", "Évtizedes múlt"]
+    },
+    {
+      "id": "sr-argos-zementterminal-economic-v2",
+      "description": "Az Argos zementterminálja a suriname-i építőipar kulcsfontosságú logisztikai bázisa. A kikötő mellett elhelyezkedő létesítmény a cementimport kezelésére specializálódott.",
+      "facts": ["Építőipari logisztika", "Cementimport kezelés", "Kikötői terminál"]
+    },
+    {
+      "id": "sr-traymore-hafen-economic-v2",
+      "description": "A Traymore kikötő a főváros kereskedelmi életének egyik fontos csomópontja, amely megkönnyíti az áruforgalmat a Suriname folyón. A létesítmény elengedhetetlen az ország import-export tevékenységéhez.",
+      "facts": ["Kikötői infrastruktúra", "Áruforgalmi központ", "Suriname folyó"]
+    },
+    {
+      "id": "sr-neveh-shalom-history-v2",
+      "description": "A Neveh Shalom a legrégebbi zsinagóga Suriname-ban, amelyet a 18. században építettek a fővárosban. A faépítésű templom a szefárd közösség történelmi örökségét őrzi.",
+      "facts": ["18. századi építés", "Fa szerkezetű", "Zsidó közösség temploma"]
+    },
+    {
+      "id": "sr-petrus-paulus-history-v2",
+      "description": "A Szent Péter és Pál-székesegyház Paramaribo egyik legismertebb történelmi épülete, amely hatalmas faépítményével emelkedik ki a környezetéből. Az építkezés a 19. század végén fejeződött be.",
+      "facts": ["Fából épült katedrális", "19. századi építés", "Paramaribo látképe"]
+    },
+    {
+      "id": "sr-gouvernementsgebouw-history-v2",
+      "description": "A kormányzati épület Suriname politikai történetének központi helyszíne, amely a gyarmati időszak óta tölt be jelentős szerepet. Az épületegyüttes a függetlenség elnyerése után is az államigazgatás központja maradt.",
+      "facts": ["Gyarmati örökség", "Politikai központ", "Történelmi adminisztráció"]
+    },
+    {
+      "id": "presidential-palace-landmarks-v2",
+      "description": "Az elnöki palota Paramaribo történelmi belvárosának egyik legmeghatározóbb klasszicista épülete, amely az elnök rezidenciájaként szolgál. A hatalmas, fehérre festett épület a Függetlenségi tér közelében található.",
+      "facts": ["Paramaribo belvárosa", "Elnöki rezidencia", "Klasszicista stílus"]
+    },
+    {
+      "id": "paramaribo-life-v2",
+      "description": "Paramaribo az ország legnépesebb városa, ahol a különböző kultúrák és hagyományok találkoznak. A főváros élénk utcai élete és multikulturális lakossága meghatározza Suriname társadalmi arculatát.",
+      "facts": ["Suriname fővárosa", "Multikulturális lakosság", "Élénk közösségi élet"]
+    },
+    {
+      "id": "sr-bakhuysgebergte-relief-v2",
+      "description": "A Bakhuys-hegység Suriname belső területeinek egyik meghatározó domborzati egysége, amely gazdag élővilágáról ismert. A területet nehezen megközelíthető, trópusi esőerdők borítják.",
+      "facts": ["Belső Suriname", "Trópusi esőerdő", "Hegységi domborzat"]
+    }
+  ]
+}

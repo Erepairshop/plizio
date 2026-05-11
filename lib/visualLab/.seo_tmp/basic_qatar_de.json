@@ -1,0 +1,50 @@
+{
+  "lang": "de",
+  "country": "Qatar",
+  "files": [
+    "lib/visualLab/data/poiExtraQatarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraQatarReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "qatar-barzan-towers-history-v2",
+      "description": "Die Barzan-Türme dienten ursprünglich als Wachtürme, um den Hafen von Doha und die Umgebung zu überwachen.",
+      "facts": ["Erbaut im späten 19. Jahrhundert", "Dienten der Sternbeobachtung", "Aus Korallensteinen errichtet", "Restauriert in den 2000er Jahren"]
+    },
+    {
+      "id": "qatar-al-rakiyat-fort-history-v2",
+      "description": "Das Al-Raqiyat-Fort ist eine rechteckige Festung im Nordwesten Katars, die strategisch nahe einer Wasserquelle liegt.",
+      "facts": ["Erbaut im 19. Jahrhundert", "Standort nahe al-Zubarah", "Architektur im Wüstenstil", "Restauriert für den Denkmalschutz"]
+    },
+    {
+      "id": "qatar-al-jumail-village-history-v2",
+      "description": "Al-Jumail ist eine verlassene Küstensiedlung, die früher eine wichtige Rolle im Perlentaucher-Handel spielte.",
+      "facts": ["Früher ein Perlentaucherzentrum", "Liegt an der Nordwestküste", "Heute eine Geisterstadt", "Archäologische Fundstätte"]
+    },
+    {
+      "id": "qatar-jazirat-bin-ghannam-history-v2",
+      "description": "Die Insel Jazirat bin Ghannam, auch als Purple Island bekannt, war ein Standort für antike Purpur-Produktion.",
+      "facts": ["Bekannt als Purple Island", "Antikes Zentrum für Purpur", "Wichtige archäologische Funde", "Umgeben von Mangrovenwäldern"]
+    },
+    {
+      "id": "qatar-al-thaqab-fort-history-v2",
+      "description": "Al-Thaqab ist eine Festung aus dem 19. Jahrhundert, die einst zum Schutz lokaler Brunnen diente.",
+      "facts": ["Erbaut um 1880", "Diente als Brunnenwache", "Traditionelle Lehmbauweise", "Wichtiger Teil des Kulturerbes"]
+    },
+    {
+      "id": "qatar-wind-tower-house-history-v2",
+      "description": "Windturmhäuser waren traditionelle Wohnbauten in Katar, die durch ausgeklügelte Architektur für natürliche Kühlung sorgten.",
+      "facts": ["Traditionelle Kühltechnik", "Typisch für den Persischen Golf", "Schutz vor der Sommerhitze", "Architektonisches Wahrzeichen"]
+    },
+    {
+      "id": "wadi-al-banat-relief-v2",
+      "description": "Wadi al-Banat ist ein geografisches Trockental, das durch seine karge Wüstenlandschaft und geologische Formationen geprägt ist.",
+      "facts": ["Trockenes Flusstal", "Wüstenartige Flora", "Geologische Vielfalt", "Typische Wüstenregion"]
+    },
+    {
+      "id": "wadi-msheireb-relief-v2",
+      "description": "Wadi Msheireb liegt im Herzen von Doha und ist heute Teil eines modernen Stadtentwicklungsprojekts, das historische Elemente bewahrt.",
+      "facts": ["Liegt in Doha", "Teil der Stadtgeschichte", "Geografisch zentral", "Urbanes Erholungsgebiet"]
+    }
+  ]
+}

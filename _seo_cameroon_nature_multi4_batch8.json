@@ -1,0 +1,23 @@
+{
+  "lang": "multi4",
+  "country": "cameroon",
+  "files": ["lib/visualLab/data/poiExtraCameroonNatureV2.ts"],
+  "items": [
+    {
+      "id": "kribi-sea-nature-v2",
+      "descriptionAdvancedHu": "Kribi partvidéke Kamerun egyik legnépszerűbb tengerparti úti célja, amely a gyönyörű, fehér homokos strandjairól és a tiszta, kék vizéről ismert. Az Atlanti-óceán partján fekvő területet magas kókuszpálmák szegélyezik, ami idilli trópusi hangulatot teremt. A strandok mellett a régió egyedülálló természeti látványosságoknak is otthont ad, mint például a Lobé-vízesés, ahol a Lobé folyó közvetlenül a tengerbe ömlik. A tengeri ökoszisztéma gazdag és változatos, támogatva a helyi halászközösségeket. A part menti vizek népszerűek az úszás, a vízi sportok és a pihenés szempontjából. A kribi mélytengeri kikötő fejlesztése gazdasági lehetőségeket hozott, de környezeti aggályokat is felvetett a tengeri élővilágra és a partvonalra gyakorolt lehetséges hatások miatt. Az idegenforgalom és a természetvédelem egyensúlyának megteremtése kulcsfontosságú a régió természeti szépségének megőrzéséhez.",
+      "descriptionAdvancedRo": "Coasta Kribi este una dintre cele mai populare destinații de litoral din Camerun, renumită pentru plajele sale frumoase cu nisip alb și apele albastre și limpezi. Situată de-a lungul Oceanului Atlantic, zona este mărginită de palmieri de cocos înalți, creând o atmosferă tropicală idilică. Pe lângă plaje, regiunea găzduiește atracții naturale unice, cum ar fi Cascadele Lobé, unde râul Lobé se varsă direct în mare. Ecosistemul marin este bogat și divers, susținând comunitățile locale de pescari. Apele de coastă sunt populare pentru înot, sporturi nautice și relaxare. Dezvoltarea portului de adâncime din Kribi a adus oportunități economice, dar a ridicat și preocupări de mediu cu privire la impactul potențial asupra vieții marine și a liniei de coastă. Echilibrarea turismului cu conservarea este esențială pentru a menține frumusețea naturală a regiunii.",
+      "descriptionAdvancedEn": "The Kribi coast is one of Cameroon's most popular seaside destinations, renowned for its beautiful white sandy beaches and clear blue waters. Located along the Atlantic Ocean, the area is fringed with tall coconut palms, creating an idyllic tropical atmosphere. Besides the beaches, the region is home to unique natural attractions like the Lobé Falls, where the Lobé River cascades directly into the sea. The marine ecosystem is rich and diverse, supporting local fishing communities. The coastal waters are popular for swimming, water sports, and relaxation. The development of the Kribi deep-sea port has brought economic opportunities but has also raised environmental concerns about the potential impact on marine life and the coastline. Balancing tourism with conservation is key to preserving the natural beauty of the region.",
+      "factsAdvanced": [
+        "Located on the Gulf of Guinea in the South Region of Cameroon.",
+        "Famous for its white sandy beaches and lines of coconut trees.",
+        "Home to the unique Lobé Falls, which empty directly into the Atlantic.",
+        "A major tourist destination for both locals and international visitors.",
+        "The Kribi Deep Sea Port is a major recent infrastructure project in the area.",
+        "The coastal waters support a significant artisanal fishing industry.",
+        "The area is a nesting site for several species of sea turtles.",
+        "The climate is equatorial, with year-round heat and humidity."
+      ]
+    }
+  ]
+}

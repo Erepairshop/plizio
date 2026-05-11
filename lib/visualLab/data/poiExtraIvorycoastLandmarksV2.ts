@@ -99,10 +99,10 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
         en: "St. Paul's Cathedral in Abidjan is a striking masterpiece of modern religious architecture, designed by Italian architect Aldo Spirito. Completed in 1985, the cathedral is famous for its bold, futuristic design, featuring a massive cross-shaped pylon that supports the structure via steel cables. Its interior is adorned with vibrant stained-glass windows and mosaics that depict scenes from the Bible integrated with African cultural motifs. Perched on a hill in the Plateau district, the cathedral offers panoramic views of the Ébrié Lagoon and remains one of the most iconic landmarks of the Ivorian capital. History K8 — modern religious art."
     },
     factsAdvanced: {
-        de: ["1985 von Papst Johannes Paul II. eingeweiht.", "Der Turm erreicht eine Höhe von 70 Metern.", "Symbolisiert den Heiligen Paulus als Missionar.", "Bietet Platz für ca. 5.000 Gläubige.", "Eines der modernsten Kathedralenbauwerke Westafrikas.", "Der Entwurf stammt vom Architekten Aldo Spirito."],
+        de: ["Der Turm erreicht eine Höhe von 70 Metern.", "Symbolisiert den Heiligen Paulus als Missionar.", "Eines der modernsten Kathedralenbauwerke Westafrikas.", "Der Entwurf stammt vom Architekten Aldo Spirito."],
         hu: [],
         ro: [],
-        en: ["Designed by Italian architect Aldo Spirito", "Consecrated by Pope John Paul II in 1985", "Second-largest church in Ivory Coast", "Cross-shaped pylon stands 70 meters high", "Famous for its futuristic, cable-stayed design", "Interior features extensive biblical stained glass", "Strategically located on a hill in the Plateau district", "Symbol of modern Ivorian architectural innovation"]
+        en: ["Designed by Italian architect Aldo Spirito", "Second-largest church in Ivory Coast", "Cross-shaped pylon stands 70 meters high", "Famous for its futuristic, cable-stayed design", "Interior features extensive biblical stained glass", "Strategically located on a hill in the Plateau district", "Symbol of modern Ivorian architectural innovation"]
     }, image: "/poi-images/st-paul-cathedral-abidjan-landmarks-v2.webp"},
   {
     id: "grande-mosquee-riviera-golf-landmarks-v2",
@@ -248,7 +248,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Entworfen vom Architekten Rinaldo Olivieri.", "Erbaut zwischen 1968 und 1973.", "Symbol des ivorischen Wirtschaftswunders.", "Brutalistischer Baustil mit Betonstruktur.", "Einst Standort für Luxuswohnungen und Büros.", "Architektonisches Wahrzeichen im Plateau-Viertel.", "Heute weitgehend ungenutzt, aber ikonisch.", "Faszinierendes Beispiel für experimentelle Architektur."],
-      en: ["Designed by Italian architect Rinaldo Olivieri", "Completed in 1973 during the 'Ivorian Miracle' era", "Iconic example of African brutalist architecture", "Unique pyramid-shaped concrete structure", "Located in the heart of the Plateau district", "Symbol of 1970s architectural experimentation", "Intended as a high-end commercial and residential hub", "Regarded as a pioneer of tropical modernism"]
+      en: ["Completed in 1973 during the 'Ivorian Miracle' era", "Iconic example of African brutalist architecture", "Unique pyramid-shaped concrete structure", "Located in the heart of the Plateau district", "Symbol of 1970s architectural experimentation", "Intended as a high-end commercial and residential hub", "Regarded as a pioneer of tropical modernism"]
     }
   },
   {
@@ -295,7 +295,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Alassane Ouattara Olympic Stadium in Ebimpé, near Anyama, is the largest sports venue in Ivory Coast and one of the most modern in West Africa. Completed in 2020 with Chinese cooperation, it has a capacity of 60,000 spectators. The stadium's design is inspired by the Arc de Triomphe and features a stunning illuminated facade. It serves as the national stadium for the Ivorian football team and was the centerpiece for the 2023 Africa Cup of Nations. It represents the country's rising status as a regional sports and infrastructure powerhouse. Geography K7 — modern sports infrastructure."
     },
     factsAdvanced: {
-      de: ["Kapazität für 60.000 Zuschauer.", "Eröffnet im Oktober 2020.", "Benannt nach Präsident Alassane Ouattara.", "Hauptaustragungsort des Afrika-Cups 2023.", "Architekturprojekt in Zusammenarbeit mit China.", "Multifunktional für Fußball und Leichtathletik.", "Größtes Stadion in Westafrika.", "Gelegen in der Agglomeration von Abidjan (Anyama)."],
+      de: ["Eröffnet im Oktober 2020.", "Benannt nach Präsident Alassane Ouattara.", "Hauptaustragungsort des Afrika-Cups 2023.", "Architekturprojekt in Zusammenarbeit mit China.", "Multifunktional für Fußball und Leichtathletik.", "Größtes Stadion in Westafrika.", "Gelegen in der Agglomeration von Abidjan (Anyama)."],
       en: ["Largest stadium in Ivory Coast (60,000 capacity)", "Officially named the Alassane Ouattara Olympic Stadium", "Completed in 2020 near the town of Anyama", "Main venue for the 2023 Africa Cup of Nations", "Design inspired by the Arc de Triomphe", "Built with cooperation from the People's Republic of China", "Home to the Ivorian national football team (Les Éléphants)", "State-of-the-art multi-purpose sports facility"]
     }
   },
@@ -343,7 +343,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Félix Houphouët-Boigny Stadium, affectionately known as 'Le Félicia,' is a historic sports landmark located in the heart of Abidjan's Plateau district. Built in the early 1950s and named after the nation's founding father, it has hosted countless historic football matches and national celebrations. For decades, it was the primary home of the Ivorian national team. Recently renovated for the 2023 Africa Cup of Nations, the stadium retains its central importance in Ivorian culture, symbolizing the nation's passion for football and its long history of sporting achievement. History K8 — national sports heritage."
     },
     factsAdvanced: {
-      de: ["Erbaut im Jahr 1952.", "Beiname: Le Félicia.", "Umfassend renoviert für 2023.", "Kapazität von ca. 33.000 Sitzplätzen.", "Gelegen im zentralen Viertel Plateau.", "Zentrum der Nationalmannschaft 'Les Éléphants'.", "Austragungsort zahlreicher historischer Spiele.", "Multifunktionale Nutzung für Großveranstaltungen."],
+      de: ["Beiname: Le Félicia.", "Umfassend renoviert für 2023.", "Kapazität von ca. 33.000 Sitzplätzen.", "Gelegen im zentralen Viertel Plateau.", "Zentrum der Nationalmannschaft 'Les Éléphants'.", "Austragungsort zahlreicher historischer Spiele.", "Multifunktionale Nutzung für Großveranstaltungen."],
       en: ["Named after the first President of Ivory Coast", "Historic stadium located in the Plateau district", "Affectionately known as 'Le Félicia'", "One of the oldest major sports venues in the country", "Major renovation completed in 2023", "Capacity of approximately 35,000 spectators", "Primary home of the national team for decades", "Iconic symbol of Ivorian football passion"]
     }
   },
@@ -391,7 +391,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Henri Konan Bédié Bridge, also known as the Third Bridge, is a massive infrastructure landmark that spans the Ébrié Lagoon, connecting the Riviera (Cocody) with Marcory. Opened in 2014, this 1.5-kilometer toll bridge was a major project designed to alleviate Abidjan's severe traffic congestion. Its sleek, modern design and its impact on the city's connectivity make it a symbol of the country's recent economic resurgence. The bridge has transformed the daily commute for thousands and stands as a testament to modern Ivorian engineering and urban development. Geography K7 — urban connectivity and logistics."
     },
     factsAdvanced: {
-      de: ["Eröffnet am 16. Dezember 2014.", "Länge des Brückenbauwerks: 1,5 km.", "Verbindet Riviera/Cocody mit Marcory.", "Erste Mautbrücke der Elfenbeinküste.", "Entlastet den Verkehr über die Lagune massiv.", "Modernes Design mit hoher Kapazität.", "Teil eines größeren Stadtautobahnprojekts.", "Benannt nach dem ehemaligen Präsidenten HKB."],
+      de: ["Länge des Brückenbauwerks: 1,5 km.", "Verbindet Riviera/Cocody mit Marcory.", "Erste Mautbrücke der Elfenbeinküste.", "Entlastet den Verkehr über die Lagune massiv.", "Modernes Design mit hoher Kapazität.", "Teil eines größeren Stadtautobahnprojekts."],
       en: ["Connects the districts of Cocody and Marcory", "Opened in 2014 by President Alassane Ouattara", "Total length of approximately 1.5 kilometers", "Major toll bridge designed to reduce traffic congestion", "Known as the 'Third Bridge' of Abidjan", "Significantly improves travel time across the lagoon", "Symbol of Ivorian economic and infrastructure growth", "Features state-of-the-art lighting and safety systems"]
     }
   },
@@ -439,7 +439,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Alassane Ouattara Bridge, also known as the Fifth Bridge or the Cocody Bridge, is a spectacular cable-stayed bridge that spans the Gourou Bay in Abidjan. Opened in 2023, it is an architectural marvel featuring a single 108-meter-tall pylon and a network of white cables that are beautifully illuminated at night. The bridge connects the districts of Plateau and Cocody, serving as a vital traffic link and a new icon of the city's skyline. Its futuristic design and engineering brilliance make it one of the most impressive modern landmarks in all of Africa. Geography K7 — futuristic urban infrastructure."
     },
     factsAdvanced: {
-      de: ["Eröffnet im August 2023.", "Spektakuläre Schrägseilbrücke.", "Verbindet Plateau mit Cocody.", "Hauptpylon ist 108 Meter hoch.", "Gesamtlänge von ca. 630 Metern.", "Aufwendige Nachtbeleuchtung in Nationalfarben.", "Zweite Schrägseilbrücke Westafrikas.", "Wahrzeichen des modernen Abidjan."],
+      de: ["Eröffnet im August 2023.", "Spektakuläre Schrägseilbrücke.", "Verbindet Plateau mit Cocody.", "Gesamtlänge von ca. 630 Metern.", "Aufwendige Nachtbeleuchtung in Nationalfarben.", "Zweite Schrägseilbrücke Westafrikas.", "Wahrzeichen des modernen Abidjan."],
       en: ["Abidjan's first major cable-stayed bridge", "Connects the districts of Plateau and Cocody", "Features a single pylon standing 108 meters tall", "Officially inaugurated in August 2023", "Known as the 'Fifth Bridge' of Abidjan", "Stretches 630 meters across the Gourou Bay", "Becomes a landmark with its night-time LED lighting", "Major project for the 'Greater Abidjan' urban plan"]
     }
   },
@@ -535,7 +535,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Museum of Civilizations of Côte d'Ivoire (Musée des Civilisations de Côte d'Ivoire) in Abidjan is the country's premier cultural institution. Founded in 1942, it houses a vast collection of over 15,000 artifacts, including traditional masks, statues, pottery, and royal regalia from every ethnic group in the nation. The museum's mission is to preserve and showcase the rich artistic and ethnographic heritage of Ivory Coast. Located in a historic building in the Plateau district, its exhibitions offer a deep dive into the diverse cultures and history that form the Ivorian national identity. History K8 — ethnographic preservation."
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1942.", "Sammlung von über 15.000 Artefakten.", "Präsentiert Masken, Gold und Statuen.", "Zentrum für die Erforschung der ivorischen Völker.", "Wichtiges Bildungsziel für Schulklassen.", "Beheimatet bedeutende Werke der Senufo und Akan.", "Befindet sich im Plateau-Distrikt.", "Zeugnis der vorkolonialen und kolonialen Geschichte."],
+      de: ["Sammlung von über 15.000 Artefakten.", "Präsentiert Masken, Gold und Statuen.", "Zentrum für die Erforschung der ivorischen Völker.", "Wichtiges Bildungsziel für Schulklassen.", "Beheimatet bedeutende Werke der Senufo und Akan.", "Befindet sich im Plateau-Distrikt.", "Zeugnis der vorkolonialen und kolonialen Geschichte."],
       en: ["Founded in 1942 during the colonial era", "Located in the Plateau district of Abidjan", "Houses over 15,000 traditional and historic artifacts", "National center for ethnographic and artistic research", "Features extensive collections of masks and statues", "Primary institution for Ivorian cultural heritage", "Major tourist and educational site", "Preserves artifacts from all 60+ ethnic groups"]
     }
   },
@@ -775,7 +775,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "St. Therese Cathedral (Cathédrale Sainte-Thérèse) is the principal Catholic landmark in Bouaké, the second-largest city in Ivory Coast. Built in the mid-20th century, its architecture reflects a blend of modern and traditional styles, with its prominent tower serving as a major landmark in the city center. The cathedral has been a witness to the city's turbulent history, often serving as a place of refuge and a center for peace-building during times of conflict. It remains the spiritual heart of the Catholic community in central Ivory Coast and a symbol of Bouaké's resilience and diversity. History K8 — central religious heritage."
     },
     factsAdvanced: {
-      de: ["Sitz des Erzbistums Bouaké.", "Moderne Architektur aus den 1960er Jahren.", "Zentraler Punkt für religiöse Feste.", "Wichtiges Symbol für Frieden und Versöhnung.", "Besitzt eindrucksvolle Buntglasfenster.", "Fasst eine große Anzahl von Gläubigen.", "Ort für bedeutende soziale Initiativen.", "Prägt das Panorama von Bouaké."],
+      de: ["Moderne Architektur aus den 1960er Jahren.", "Zentraler Punkt für religiöse Feste.", "Wichtiges Symbol für Frieden und Versöhnung.", "Besitzt eindrucksvolle Buntglasfenster.", "Fasst eine große Anzahl von Gläubigen.", "Ort für bedeutende soziale Initiativen.", "Prägt das Panorama von Bouaké."],
       en: ["Main Catholic cathedral of Bouaké", "Dedicated to Saint Therese of Lisieux", "Significant landmark in the city's central district", "Built in the mid-20th century", "Spiritual heart of the Archdiocese of Bouaké", "Center for community life and social service", "Reflects Bouaké's diverse religious landscape", "Symbol of peace and resilience in central Ivory Coast"]
     }
   },
@@ -823,7 +823,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Stade de la Paix (Peace Stadium) in Bouaké is one of the most significant sports venues in the country. Built for the 1984 Africa Cup of Nations, it gained profound symbolic meaning as the site of the 'Flame of Peace' ceremony in 2007, marking an end to years of civil division. Renovated and expanded for the 2023 Africa Cup of Nations, it now boasts a capacity of 40,000. The stadium is not just a place for football, but a monument to national reconciliation and the enduring spirit of the people of Bouaké. History K8 — sports and national reconciliation."
     },
     factsAdvanced: {
-      de: ["Kapazität für 40.000 Zuschauer.", "Umfassend modernisiert für 2023.", "Zweitgrößtes Stadion des Landes.", "Symbol für den Frieden in der Elfenbeinküste.", "Beheimatet wichtige internationale Spiele.", "Zentrum des Sports im Herzen des Landes.", "Moderne Flutlicht- und Medientechnik.", "Wichtiger Austragungsort der Gruppenphase 2023."],
+      de: ["Umfassend modernisiert für 2023.", "Zweitgrößtes Stadion des Landes.", "Symbol für den Frieden in der Elfenbeinküste.", "Beheimatet wichtige internationale Spiele.", "Zentrum des Sports im Herzen des Landes.", "Moderne Flutlicht- und Medientechnik.", "Wichtiger Austragungsort der Gruppenphase 2023."],
       en: ["Built for the 1984 Africa Cup of Nations", "Site of the historic 2007 'Flame of Peace' ceremony", "Second-largest stadium in Ivory Coast (40,000 capacity)", "Major venue for the 2023 Africa Cup of Nations", "Named to symbolize national reconciliation", "Located in the heart of Bouaké", "Home to various local and national sports events", "Symbol of Bouaké's resilience and return to peace"]
     }
   },
@@ -919,7 +919,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Amadou Gon Coulibaly Stadium in Korhogo is a modern sports landmark in northern Ivory Coast. Named after the late Ivorian Prime Minister and son of the North, it was built for the 2023 Africa Cup of Nations with a capacity of 20,000. Its construction marks a historic milestone for the region, bringing world-class sports infrastructure to the Savanes District for the first time. The stadium serves as a major source of pride for the people of Korhogo, representing the government's commitment to regional development and the rising profile of northern Ivory Coast on the continental stage. Geography K7 — northern regional development."
     },
     factsAdvanced: {
-      de: ["Kapazität für 20.000 Zuschauer.", "Fertiggestellt im Jahr 2023.", "Bedeutendste Sportstätte im Norden.", "Benannt nach Amadou Gon Coulibaly.", "Zentrum für Fußball in der Senufo-Region.", "Inklusive modernem Trainingsgelände.", "Stärkt den Tourismus in Korhogo.", "Teil der modernen Sport-Infrastruktur-Offensive."],
+      de: ["Kapazität für 20.000 Zuschauer.", "Bedeutendste Sportstätte im Norden.", "Benannt nach Amadou Gon Coulibaly.", "Zentrum für Fußball in der Senufo-Region.", "Inklusive modernem Trainingsgelände.", "Stärkt den Tourismus in Korhogo.", "Teil der modernen Sport-Infrastruktur-Offensive."],
       en: ["Located in Korhogo, northern Ivory Coast", "Named after the late Prime Minister Amadou Gon Coulibaly", "Completed in 2023 with a capacity of 20,000", "Major venue for the 2023 Africa Cup of Nations", "First world-class stadium in the northern region", "Symbol of the government's regional development plan", "Home to various northern regional sports events", "Designed with modern amenities for international football"]
     }
   },
@@ -967,7 +967,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Laurent Pokou Stadium in San-Pédro is a state-of-the-art sports venue named after the legendary Ivorian striker. Opened in 2023 for the Africa Cup of Nations, it has a capacity of 20,000 spectators. Its design and construction reflect San-Pédro's growing importance as a major urban and economic hub. The stadium provides a world-class home for football in the Southwest, boosting local sports culture and tourism. Named in honor of one of Africa's greatest footballers, it stands as a monument to the nation's rich sporting history and its bright future. Geography K7 — southwestern urban growth."
     },
     factsAdvanced: {
-      de: ["Kapazität für 20.000 Personen.", "Erbaut für den Afrika-Cup 2023.", "Benannt nach der Fußball-Legende Laurent Pokou.", "Wichtigster Sportkomplex im Südwesten.", "Moderne Dachkonstruktion für alle Tribünen.", "Optimiert für das tropische Küstenklima.", "Motor für die Stadtentwicklung von San Pédro.", "Internationale Standards für Sicherheit und Technik."],
+      de: ["Kapazität für 20.000 Personen.", "Benannt nach der Fußball-Legende Laurent Pokou.", "Wichtigster Sportkomplex im Südwesten.", "Moderne Dachkonstruktion für alle Tribünen.", "Optimiert für das tropische Küstenklima.", "Motor für die Stadtentwicklung von San Pédro.", "Internationale Standards für Sicherheit und Technik."],
       en: ["Located in the southwestern port city of San-Pédro", "Named after the legendary Ivorian footballer Laurent Pokou", "Completed in 2023 with a capacity of 20,000", "Key venue for the 2023 Africa Cup of Nations", "Part of the infrastructure boost for the Southwest", "Features a modern design and natural grass pitch", "Significant landmark in the Bas-Sassandra District", "Symbol of Ivorian sports excellence and development"]
     }
   },
@@ -1015,8 +1015,8 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Palace of Culture (Palais de la Culture Bernard Binlin-Dadié) in Abidjan is the nation's premier venue for the performing arts. Located on the shores of the Ébrié Lagoon in Treichville, this massive complex was built in 1999 and named after the renowned Ivorian writer. It features multiple theaters, an open-air amphitheater, and exhibition halls, hosting everything from international music concerts to national theater productions. The Palace is the heart of Abidjan's vibrant cultural scene, symbolizing the country's commitment to artistic expression and its status as a West African cultural hub. History K8 — modern cultural infrastructure."
     },
     factsAdvanced: {
-      de: ["Gelegen im Stadtteil Treichville.", "Benannt nach dem Schriftsteller Bernard Dadié.", "Größtes Kulturzentrum des Landes.", "Verfügt über Säle für bis zu 4.000 Personen.", "Austragungsort für internationale Konzerte.", "Wunderschöne Lage direkt an der Lagune.", "Zentrum für ivorische Musik und Theater.", "Architektonisch markanter Bau der Moderne."],
-      en: ["Named after the writer Bernard Binlin-Dadié", "Located in the Treichville district of Abidjan", "National center for performing arts and theater", "Features a massive 4,000-seat amphitheater", "Completed in 1999 with Chinese cooperation", "Hosts major international music and cultural festivals", "Situated on a prime site overlooking the lagoon", "Hub for West African artistic and musical exchange"]
+      de: ["Gelegen im Stadtteil Treichville.", "Benannt nach dem Schriftsteller Bernard Dadié.", "Größtes Kulturzentrum des Landes.", "Austragungsort für internationale Konzerte.", "Wunderschöne Lage direkt an der Lagune.", "Zentrum für ivorische Musik und Theater.", "Architektonisch markanter Bau der Moderne."],
+      en: ["Named after the writer Bernard Binlin-Dadié", "National center for performing arts and theater", "Features a massive 4,000-seat amphitheater", "Completed in 1999 with Chinese cooperation", "Hosts major international music and cultural festivals", "Situated on a prime site overlooking the lagoon", "Hub for West African artistic and musical exchange"]
     }
   },
   {
@@ -1111,7 +1111,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Postel 2001 Building is a striking example of modern skyscraper architecture in Abidjan's Plateau district. Completed in the late 1980s, its unique geometric design and reflective glass facade were intended to symbolize the country's entry into the 21st century. It primarily serves as the headquarters for telecommunications and postal services, reflecting the early national focus on modernizing communications infrastructure. As one of the tallest and most recognizable towers in the 'Manhattan of the Tropics,' it stands as a testament to the ambitious urban vision that defined the Ivorian capital's development. Geography K7 — modern urban skylines."
     },
     factsAdvanced: {
-      de: ["Erbaut in den 1980er Jahren.", "Über 100 Meter hoch.", "Einzigartige futuristische Silhouette.", "Wahrzeichen des Plateau-Viertels.", "Ehemalige Zentrale für Telekommunikation.", "Herausragendes Beispiel für Post-Moderne.", "Wichtiges Bürozentrum in der Innenstadt.", "Prägt das nächtliche Stadtbild durch Beleuchtung."],
+      de: ["Einzigartige futuristische Silhouette.", "Wahrzeichen des Plateau-Viertels.", "Ehemalige Zentrale für Telekommunikation.", "Herausragendes Beispiel für Post-Moderne.", "Wichtiges Bürozentrum in der Innenstadt.", "Prägt das nächtliche Stadtbild durch Beleuchtung."],
       en: ["Major telecommunications and postal headquarters", "Located in the central Plateau district", "Completed in the late 1980s", "One of Abidjan's most recognizable skyscrapers", "Unique geometric and reflective glass design", "Symbol of national modernization in communications", "Key landmark in the Abidjan business skyline", "Reflects late 20th-century Ivorian architectural ambition"]
     }
   },
@@ -1255,7 +1255,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Palace of Justice (Palais de Justice) in Abidjan is a grand administrative landmark located in the heart of the Plateau district. Built in the 1960s, its imposing modernist architecture with wide colonnades and broad steps reflects the solemnity and importance of the national judiciary. As the seat of the country's highest courts, it has been the site of many historic legal proceedings that have shaped the Ivorian state. Its prominent location and dignified design make it a key pillar of the capital's administrative quarter and a symbol of the rule of law in the republic. History K8 — the development of the Ivorian judiciary."
     },
     factsAdvanced: {
-      de: ["Sitz des Appellationsgerichts von Abidjan.", "Gelegen im Justizviertel des Plateaus.", "Formelle, monumentale Architektur.", "Zentrum der nationalen Rechtssprechung.", "Wichtige staatliche Institution.", "Schauplatz historischer Gerichtsprozesse.", "Symbol für Rechtsstaatlichkeit.", "Umfasst zahlreiche Verhandlungssäle und Archive."],
+      de: ["Sitz des Appellationsgerichts von Abidjan.", "Gelegen im Justizviertel des Plateaus.", "Formelle, monumentale Architektur.", "Zentrum der nationalen Rechtssprechung.", "Schauplatz historischer Gerichtsprozesse.", "Symbol für Rechtsstaatlichkeit.", "Umfasst zahlreiche Verhandlungssäle und Archive."],
       en: ["Seat of the national courts and judicial system", "Located in the Plateau administrative quarter", "Built in the 1960s in a grand modernist style", "Imposing architecture with classic colonnades", "Significant site for national legal history", "Central pillar of the Ivorian state administration", "Located near the Presidential Palace and ministries", "Symbol of the rule of law in Ivory Coast"]
     }
   },
@@ -1304,7 +1304,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     },
     factsAdvanced: {
       de: ["Sitz des Gouverneurs von Abidjan.", "Administratives Herz der Metropole.", "Gelegen im zentralen Distrikt Plateau.", "Ort für offizielle Empfänge und Zeremonien.", "Zentrum der Stadtverwaltung.", "Repräsentative moderne Architektur.", "Wichtiger Punkt im politischen Gefüge der Stadt.", "Fördert städtische Entwicklungsprojekte."],
-      en: ["Headquarters of the Abidjan Autonomous District", "Located in the central Plateau district", "Built in the late 1970s in a modern architectural style", "Center for Abidjan's municipal administration", "Features a distinctive geometric and open design", "Key landmark for urban planning and governance", "Hosts major city-wide civic and official events", "Reflects Abidjan's status as a regional metropolis"]
+      en: ["Headquarters of the Abidjan Autonomous District", "Built in the late 1970s in a modern architectural style", "Center for Abidjan's municipal administration", "Features a distinctive geometric and open design", "Key landmark for urban planning and governance", "Hosts major city-wide civic and official events", "Reflects Abidjan's status as a regional metropolis"]
     }
   },
   {
@@ -1319,17 +1319,13 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "St. John the Baptist Cathedral"
     },
     description: {
-      de: "Die wichtigste katholische Kirche in Korhogo, die als religiöses Zentrum für die nördliche Region dient.",
+      de: "Die römisch-katholische Kathedrale in Korhogo ist ein wichtiges religiöses Zentrum im Norden des Landes.",
       hu: "A legfontosabb katolikus templom Korhogóban, amely az északi régió vallási központjaként szolgál.",
       ro: "Cea mai importantă biserică catolică din Korhogo, care servește drept centru religios pentru regiunea de nord.",
       en: "The most important Catholic church in Korhogo, serving as a religious center for the northern region."
     },
     facts: {
-      de: [
-        "Sitz des Erzbistums Korhogo.",
-        "1971 geweiht.",
-        "Auffällige moderne Struktur in der Savanne."
-      ],
+      de: ["Sitz der Erzdiözese Korhogo", "Moderne Sakralarchitektur", "Zentrum für lokale Christen"],
       hu: [
         "A Korhogói főegyházmegye székhelye.",
         "1971-ben szentelték fel.",
@@ -1351,7 +1347,7 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
       en: "The Cathedral of St. John the Baptist (Cathédrale Saint-Jean-Baptiste) in Korhogo is the principal Catholic landmark in northern Ivory Coast. Built with a design that subtly integrates local northern aesthetics with traditional Catholic architecture, it stands as a symbol of the Christian community's presence in the predominantly Muslim North. The cathedral serves as the spiritual heart of the Diocese of Korhogo and is a center for social and community development in the region. Its peaceful courtyard and simple, elegant interior offer a space for reflection amidst the bustling atmosphere of the Senufo capital. History K8 — religious pluralism in the North."
     },
     factsAdvanced: {
-      de: ["Sitz des Erzbistums Korhogo.", "Geweiht im Jahr 1971.", "Herausragende Architektur im Norden.", "Zentrum für soziale und karitative Arbeit.", "Wichtiges spirituelles Symbol in der Savanne.", "Ort bedeutender religiöser Versammlungen.", "Fördert den interreligiösen Dialog.", "Modernes Wahrzeichen der Stadt Korhogo."],
+      de: ["Geweiht im Jahr 1971.", "Herausragende Architektur im Norden.", "Zentrum für soziale und karitative Arbeit.", "Wichtiges spirituelles Symbol in der Savanne.", "Ort bedeutender religiöser Versammlungen.", "Fördert den interreligiösen Dialog.", "Modernes Wahrzeichen der Stadt Korhogo."],
       en: ["Principal Catholic cathedral of northern Ivory Coast", "Located in the heart of Korhogo", "Spiritual center for the Diocese of Korhogo", "Architecture integrates local and traditional elements", "Symbol of religious diversity in the Savanes District", "Major center for community and educational service", "Hosts significant regional Catholic ceremonies", "Reflects the peaceful coexistence of faiths in the North"]
     }
   },

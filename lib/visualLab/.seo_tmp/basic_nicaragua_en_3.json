@@ -1,0 +1,69 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "san-fernando-nueva-segovia-cities-v2",
+      "description": "San Fernando is a municipality in the Nueva Segovia department, set in the mountains near the Honduran border.",
+      "facts": ["Department: Nueva Segovia", "Mountainous region", "Near border", "Agricultural base"]
+    },
+    {
+      "id": "el-jicaro-nueva-segovia-cities-v2",
+      "description": "El Jicaro is a town in the Nueva Segovia department, known for its mining and agriculture.",
+      "facts": ["Department: Nueva Segovia", "Mining history", "Agriculture", "Northern highlands"]
+    },
+    {
+      "id": "desembocadura-de-rio-grande-cities-v2",
+      "description": "Desembocadura de Rio Grande is a town in the South Caribbean Coast Autonomous Region, located at the river's mouth.",
+      "facts": ["Region: South Caribbean", "River mouth", "Coastal area", "Tropical climate"]
+    },
+    {
+      "id": "corn-island-cities-v2",
+      "description": "Corn Island is a major tourism destination and municipality in the South Caribbean Coast Autonomous Region.",
+      "facts": ["Region: South Caribbean", "Caribbean island", "Tourism center", "Coastal scenery"]
+    },
+    {
+      "id": "la-cruz-de-rio-grande-cities-v2",
+      "description": "La Cruz de Rio Grande is a town in the South Caribbean Coast Autonomous Region, accessible primarily by river.",
+      "facts": ["Region: South Caribbean", "River town", "Remote access", "Tropical forest"]
+    },
+    {
+      "id": "morrito-rio-san-juan-cities-v2",
+      "description": "Morrito is a municipality in the Rio San Juan department, situated on the banks of Lake Nicaragua.",
+      "facts": ["Department: Rio San Juan", "Lakefront town", "Livestock farming", "Scenic views"]
+    },
+    {
+      "id": "san-jorge-rivas-cities-v2",
+      "description": "San Jorge is a port town in the Rivas department, serving as a primary transit point for Ometepe Island.",
+      "facts": ["Department: Rivas", "Ferry port", "Lake access", "Transit hub"]
+    },
+    {
+      "id": "belen-rivas-cities-v2",
+      "description": "Belen is a municipality in the Rivas department, situated in the fertile southwestern plains.",
+      "facts": ["Department: Rivas", "Southwestern plains", "Agricultural area", "Near Pan-Am hwy"]
+    },
+    {
+      "id": "potosi-rivas-cities-v2",
+      "description": "Potosi is a town in the Rivas department, known for its sugar cane production and colonial history.",
+      "facts": ["Department: Rivas", "Sugar cane area", "Colonial heritage", "Coastal proximity"]
+    },
+    {
+      "id": "buenos-aires-rivas-cities-v2",
+      "description": "Buenos Aires is a small municipality in the Rivas department, located on the western shore of Lake Nicaragua.",
+      "facts": ["Department: Rivas", "Lake access", "Small town", "Southwestern region"]
+    },
+    {
+      "id": "cardenas-rivas-cities-v2",
+      "description": "Cardenas is a border town in the Rivas department, located near the border with Costa Rica.",
+      "facts": ["Department: Rivas", "Near border", "Border town", "Tropical landscape"]
+    },
+    {
+      "id": "san-juan-de-rio-coco-madriz-cities-v2",
+      "description": "San Juan de Rio Coco is a mountain town in the Madriz department, famous for high-quality coffee.",
+      "facts": ["Department: Madriz", "Coffee region", "Mountain town", "High elevation"]
+    }
+  ]
+}

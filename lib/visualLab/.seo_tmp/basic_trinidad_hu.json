@@ -1,0 +1,59 @@
+{
+  "lang": "hu",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-penal-cities-v2",
+      "description": "Penal egy jelentős mezőgazdasági és kereskedelmi központ Trinidad déli részén. A város a helyi kereskedelem és az olajipar környékbeli kiszolgálásának egyik fontos színtere.",
+      "facts": ["Trinidad déli része", "Mezőgazdasági központ", "Olajipari régió", "Kereskedelmi csomópont"]
+    },
+    {
+      "id": "tt-morvant-cities-v2",
+      "description": "Morvant Port of Spain közvetlen közelében, a környező dombvidéken elhelyezkedő településrész. A terület jelentős lakóövezet, amely rálátást biztosít a fővárosi régióra.",
+      "facts": ["Port of Spain közelében", "Dombvidéki elhelyezkedés", "Jelentős lakóövezet"]
+    },
+    {
+      "id": "tt-guayaguayare-cities-v2",
+      "description": "Guayaguayare Trinidad legkeletibb települése, amely a sziget olajkitermelésének történelmi központja. A terület partvidéke gazdag természeti látnivalókban és ökoszisztémákban.",
+      "facts": ["Legkeletibb pont", "Olajkitermelő központ", "Gazdag ökoszisztéma"]
+    },
+    {
+      "id": "tt-dabadie-cities-v2",
+      "description": "Dabadie az ország északi részén található ipari és lakóövezeti zóna, amely az East-West Corridor fontos részét képezi. A település könnyen elérhető a főbb közlekedési útvonalakról.",
+      "facts": ["Északi régió", "Ipari zóna", "East-West Corridor része"]
+    },
+    {
+      "id": "tt-erin-cities-v2",
+      "description": "Erin Trinidad délnyugati partján fekvő település, amely történelmileg az olajiparhoz és a halászathoz kötődik. A csendes partszakaszai a helyi közösség számára fontosak.",
+      "facts": ["Délnyugati partvidék", "Olajipari kötődés", "Halászati központ"]
+    },
+    {
+      "id": "tt-tableland-cities-v2",
+      "description": "Tableland egy mezőgazdasági terület Trinidad középső részén, ahol a gyümölcstermesztés és a földművelés dominál. A táj dombos domborzata kiváló feltételeket biztosít a helyi gazdálkodáshoz.",
+      "facts": ["Középső régió", "Mezőgazdasági terület", "Dombos táj", "Gyümölcstermesztés"]
+    },
+    {
+      "id": "tt-morne-quinton-cities-v2",
+      "description": "Morne Quinton egy nyugodt, vidéki település, amely a helyi közösségi életre és a természetközeli környezetre épít. A terület a hagyományos trinidadi életmód egyik megőrzője.",
+      "facts": ["Vidéki környezet", "Közösségi élet", "Hagyományos életmód"]
+    },
+    {
+      "id": "tt-belle-garden-cities-v2",
+      "description": "Belle Garden Tobago szigetén található, buja növényzettel körülvett település. A környék ismert a mezőgazdasági földjeiről és a szigetre jellemző nyugodt tempójáról.",
+      "facts": ["Tobago szigete", "Buja növényzet", "Mezőgazdasági terület"]
+    },
+    {
+      "id": "tt-goodwood-cities-v2",
+      "description": "Goodwood Tobago keleti partvidékének egyik hagyományos települése, amely szép kilátást nyújt az Atlanti-óceánra. A falu a helyi kézművesség és mezőgazdaság központja.",
+      "facts": ["Tobago keleti partja", "Kilátás az óceánra", "Kézműves központ"]
+    },
+    {
+      "id": "tt-mason-hall-cities-v2",
+      "description": "Mason Hall Tobago középső részén található, a sziget belsejének dombos vidékén. A település fontos csomópont a sziget keresztirányú közlekedésében.",
+      "facts": ["Tobago középső része", "Dombos vidék", "Közlekedési csomópont"]
+    }
+  ]
+}

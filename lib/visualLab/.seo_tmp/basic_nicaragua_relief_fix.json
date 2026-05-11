@@ -1,0 +1,14 @@
+{
+  "lang": "de",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "valle-de-osua-relief-v2",
+      "description": "Valle de Osua ist eine flache Ebene, die für ihre fruchtbare landwirtschaftliche Nutzung in der Region bekannt ist.",
+      "facts": ["Ebene", "Fruchtbar", "Landwirtschaft"]
+    }
+  ]
+}

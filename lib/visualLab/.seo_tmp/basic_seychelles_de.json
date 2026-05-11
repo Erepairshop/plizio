@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Seychelles",
+  "files": [
+    "lib/visualLab/data/poiExtraSeychellesCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sc-anse-etoile-cities-v2",
+      "description": "Anse Étoile liegt im Norden der Hauptinsel Mahé und ist ein Wohngebiet mit Küstennähe. Der Ort ist bekannt für seine ruhige Atmosphäre und den Blick auf den Indischen Ozean.",
+      "facts": ["Ortsteil von Mahé", "Direkte Küstenlage", "Wohngegend", "Nahe Victoria"]
+    },
+    {
+      "id": "sc-bel-ombre-cities-v2",
+      "description": "Bel Ombre ist ein bekanntes Fischerdorf im Nordwesten der Insel Mahé. Die Gegend ist bei Touristen für ihre malerischen Strände und die entspannte Umgebung beliebt.",
+      "facts": ["Fischerdorf", "Nordwesten Mahé", "Beliebter Küstenort", "Szenische Lage"]
+    },
+    {
+      "id": "sc-baie-sainte-anne-cities-v2",
+      "description": "Baie Sainte-Anne liegt an der Ostküste von Praslin und dient als wichtiges logistisches Zentrum der Insel. Hier befindet sich der Fährhafen, der die Verbindung zu Mahé und La Digue sicherstellt.",
+      "facts": ["Zentrum auf Praslin", "Wichtiger Fährhafen", "Ostküstenlage", "Verkehrsknotenpunkt"]
+    },
+    {
+      "id": "sc-takamaka-cities-v2",
+      "description": "Takamaka ist ein Bezirk im Süden von Mahé, der für seine üppige Vegetation und naturbelassene Strände bekannt ist. Der Name leitet sich von den dort wachsenden Takamaka-Bäumen ab.",
+      "facts": ["Süden von Mahé", "Naturnaher Bezirk", "Takamaka-Bäume", "Ruhige Wohngegend"]
+    },
+    {
+      "id": "sc-pointe-larue-cities-v2",
+      "description": "Pointe Larue befindet sich an der Ostküste von Mahé und grenzt direkt an den internationalen Flughafen. Es ist ein bedeutender Standort für die Infrastruktur und den Transport der Seychellen.",
+      "facts": ["Nahe Flughafen Mahé", "Ostküste Mahé", "Infrastrukturknoten", "Transportzentrum"]
+    },
+    {
+      "id": "sc-roche-caiman-cities-v2",
+      "description": "Roche Caïman ist ein geplanter Bezirk in der Nähe der Hauptstadt Victoria auf der Insel Mahé. Das Gebiet wurde durch Landgewinnung erschlossen und beherbergt moderne Sportanlagen.",
+      "facts": ["Nahe Victoria", "Landgewinnung", "Moderne Sportanlagen", "Wohngebiet"]
+    },
+    {
+      "id": "sc-saint-louis-cities-v2",
+      "description": "Saint Louis ist ein kompakter Wohnbezirk in der hügeligen Gegend oberhalb von Victoria auf der Insel Mahé. Der Ort bietet einen erhöhten Ausblick über die Hauptstadt und den Hafen.",
+      "facts": ["Hügelige Lage", "Nahe Victoria", "Wohnbezirk", "Panoramablick"]
+    },
+    {
+      "id": "sc-perseverance-i-cities-v2",
+      "description": "Perseverance I ist ein durch Landgewinnung geschaffenes Wohngebiet vor der Küste von Victoria. Es wurde entwickelt, um dem wachsenden Wohnraumbedarf der Insel Mahé gerecht zu werden.",
+      "facts": ["Landgewinnungsprojekt", "Vor Victoria", "Wohnquartier", "Moderne Erschließung"]
+    },
+    {
+      "id": "sc-perseverance-ii-cities-v2",
+      "description": "Perseverance II bildet die Erweiterung des Wohngebiets auf dem durch Landgewinnung gewonnenen Gelände nördlich von Victoria. Es stellt modernen Wohnraum für die lokale Bevölkerung bereit.",
+      "facts": ["Zweite Ausbaustufe", "Landgewinnungsgebiet", "Moderne Wohnanlage", "Nahe Victoria"]
+    },
+    {
+      "id": "sc-anse-kerlan-cities-v2",
+      "description": "Anse Kerlan liegt im Nordwesten von Praslin und ist für seine anspruchsvollen Strände und das luxuriöse Resort-Angebot bekannt. Die Gegend ist durch eine felsige Küstenlinie geprägt.",
+      "facts": ["Nordwest-Praslin", "Luxusresorts", "Felsige Küste", "Tourismusstandort"]
+    }
+  ]
+}

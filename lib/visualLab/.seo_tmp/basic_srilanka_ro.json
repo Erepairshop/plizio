@@ -1,0 +1,19 @@
+{
+  "lang": "ro",
+  "country": "Srilanka",
+  "files": [
+    "lib/visualLab/data/poiExtraSrilankaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kalu-river-nature-v2",
+      "description": "Kalu Ganga, sau Râul Negru, este unul dintre cele mai importante cursuri de apă din Sri Lanka, originar din zona Sri Pada. Acesta traversează regiuni bogate în biodiversitate înainte de a se vărsa în Oceanul Indian la Kalutara.",
+      "facts": ["Origine: Masivul Sri Pada", "Lungime: 144 km", "Vărsare: Oceanul Indian", "Bazin: 2719 kmp"]
+    },
+    {
+      "id": "walawe-river-nature-v2",
+      "description": "Râul Walawe este o arteră hidrografică vitală în partea de sud a insulei Sri Lanka, traversând Parcul Național Udawalawe. Importanța sa este susținută de barajul și rezervorul Udawalawe, esențiale pentru irigații și gestionarea resurselor de apă.",
+      "facts": ["Origine: Munții centrali", "Lungime: 138 km", "Traversează: Parcul Udawalawe", "Rol: Irigații și hidroenergie"]
+    }
+  ]
+}

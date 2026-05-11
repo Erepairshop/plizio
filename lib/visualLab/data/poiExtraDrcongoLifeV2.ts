@@ -48,7 +48,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: "Kahuzi-Biega National Park is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. A protected area known for its Eastern Lowland gorillas. Lowland gorillas. Mount Kahuzi. Mount Biega. This protected area is part of the unique wildlife of the DR Congo, home to mountain gorillas, bonobos, and okapis in the Congo Basin rainforest. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["1970 gegründet", "S?d-Kivu", "Massiv Kahuzi", "Massiv Biega", "?stliche Flachlandgorillas", "Bukavu", "UNESCO-Welterbe", "Vulkanlandschaft"],
+      de: ["1970 gegründet", "S?d-Kivu", "Massiv Kahuzi", "Massiv Biega", "?stliche Flachlandgorillas", "Bukavu", "Vulkanlandschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kahuzi-biega-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["A protected area known for its Eastern Lowland gorillas.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
@@ -100,7 +100,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: "Salonga National Park is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Africa's largest tropical rainforest reserve. Bonobos. Rainforest. River basin. This protected area is part of the unique wildlife of the DR Congo, home to mountain gorillas, bonobos, and okapis in the Congo Basin rainforest. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["1970 gegründet", "Kongo-Becken", "Salonga-Fluss", "UNESCO-Welterbe", "gr??tes tropisches Waldschutzgebiet Afrikas", "schwer zugänglicher Regenwald", "Fluss- und Sumpflandschaft"],
+      de: ["1970 gegründet", "Kongo-Becken", "Salonga-Fluss", "gr??tes tropisches Waldschutzgebiet Afrikas", "schwer zugänglicher Regenwald", "Fluss- und Sumpflandschaft"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru salonga-national-park-life-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["Africa's largest tropical rainforest reserve.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]
@@ -490,7 +490,7 @@ export const poiExtraDrcongoLifeV2: POI[] = [
       en: "Congo Banana Plantation is a remarkable feature of the geography and culture of the Democratic Republic of the Congo. Large-scale cultivation of bananas. Bananas. Agriculture. Tropical fruit. This protected area is part of the unique wildlife of the DR Congo, home to mountain gorillas, bonobos, and okapis in the Congo Basin rainforest. Like many notable places in the DR Congo, it combines regional character with wider significance — from the Congo River to the East African mountains. Thus, this place contributes to the diverse profile of the DR Congo, a central African country of extraordinary natural wealth and cultural depth."
     },
     factsAdvanced: {
-      de: ["Musa-Arten", "Kochbananen", "ganzj?hriges Wachstum", "mehrmals pro Jahr Ernte m?glich", "empfindlich gegen Wind", "warme Feuchtigkeit", "Grundnahrungsmittel", "lokale Märkte"],
+      de: ["Musa-Arten", "Kochbananen", "ganzj?hriges Wachstum", "mehrmals pro Jahr Ernte m?glich", "empfindlich gegen Wind", "warme Feuchtigkeit", "lokale Märkte"],
       hu: ["Fontos földrajzi vagy gazdasági csomópont.", "Történelmi jelentősége a régióban kiemelkedő.", "Környezeti adottságai meghatározóak az élővilág számára.", "A helyi infrastruktúra része.", "Kulturális öröksége gazdag.", "Központi szerepet tölt be a helyi közösség életében."],
       ro: ["Fapt 1 pentru kongo-bananenplantage-v2", "Fapt 2", "Fapt 3", "Fapt 4", "Fapt 5", "Fapt 6"],
       en: ["Large-scale cultivation of bananas.", "Located within the Democratic Republic of the Congo in Central Africa.", "Connected to the Congo River or the Congo Basin rainforest."]

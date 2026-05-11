@@ -1,0 +1,139 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraGambiaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraGambiaLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "fort-bullen-history-v2",
+      "descriptionAdvanced": {
+        "de": "Fort Bullen liegt strategisch günstig an der Barra-Spitze (Barra Point) am Nordufer der Mündung des Gambia-Flusses. Es wurde 1826 von den Briten unter dem Kommando von Commodore Bullen errichtet, um eine entscheidende Lücke in der Verteidigung des Territoriums zu schließen. Während Fort James weiter flussaufwärts lag, ermöglichte Fort Bullen den Briten die vollständige Kontrolle über den Eingang zum Fluss direkt vom Atlantik aus. Sein Hauptzweck war die Durchsetzung des Verbots des Sklavenhandels; von hier aus konnten britische Kanonen jedes Schiff unter Beschuss nehmen, das versuchte, illegal Sklaven aus dem Flussinneren zu schmuggeln. Die Architektur des Forts ist durch seine soliden Lateritsteinmauern und halbkreisförmigen Bastionen geprägt. Während des Zweiten Weltkriegs wurde das Fort erneut militärisch genutzt und mit modernen Flugabwehrkanonen ausgestattet, um die Einfahrt nach Banjul vor Angriffen der Achsenmächte zu schützen. Geografisch bietet das Fort einen weiten Blick über den Ozean und die gegenüberliegende Hauptstadt. Heute ist Fort Bullen ein UNESCO-Weltkulturerbe und dient als Museum, das die militärische Geschichte und den Kampf gegen die Sklaverei dokumentiert. Es ist eines der am besten erhaltenen britischen Militärbauwerke in Westafrika und ein stilles Zeugnis für den Wandel der globalen Handelspolitik im 19. Jahrhundert.",
+        "hu": "A Fort Bullen erőd stratégiai helyen, a Barra-fokon (Barra Point) található, a Gambia-folyó torkolatának északi partján. Az erődöt 1826-ban építették a britek Commodore Bullen parancsnoksága alatt, hogy megvédjék a területet és ellenőrizzék a folyó bejáratát. Elsődleges célja a rabszolga-kereskedelem betiltásának kikényszerítése volt; a Fort Bullen ágyúi közvetlenül tüzelhettek bármely hajóra, amely megpróbált illegálisan rabszolgákat kijuttatni a folyóról az Atlanti-óceánra. Az erőd építészete a masszív laterit kőfalakra és a félköríves bástyákra épül. A második világháború alatt az építmény ismét katonai szerepet kapott: modern légvédelmi ágyúkkal szerelték fel, hogy megvédjék Banjult a tengelyhatalmak esetleges támadásaitól. Földrajzi elhelyezkedése miatt lenyűgöző panorámát nyújt az óceánra és a szemközti fővárosra. Napjainkban a Fort Bullen az UNESCO világörökség része és múzeumként működik, bemutatva Gambia hadtörténetét és a rabszolgaság elleni küzdelem korszakát. Ez az egyik legjobb állapotban fennmaradt brit katonai emlék Nyugat-Afrikában, amely a 19. századi globális politikai és kereskedelmi változások néma tanúja.",
+        "ro": "Fort Bullen este situat într-o poziție strategică la Barra Point, pe malul nordic al gurii de vărsare a fluviului Gambia. Construit în 1826 de către britanici sub comanda Comodorului Bullen, fortul a fost ridicat pentru a asigura controlul deplin asupra intrării pe fluviu dinspre Oceanul Atlantic. Scopul său principal a fost aplicarea interdicției comerțului cu sclavi; de aici, tunurile britanice puteau intercepta orice navă care încerca să scoată ilegal captivi din interiorul continentului. Arhitectura fortului se distinge prin zidurile sale solide din piatră de laterită și bastioanele semicirculare. În timpul celui de-al Doilea Război Mondial, fortul a fost reutilizat militar, fiind dotat cu tunuri antiaeriene moderne pentru a proteja Banjulul de atacurile Puterilor Axei. Din punct de vedere geografic, fortul oferă o vedere panoramică asupra oceanului și a capitalei situate pe malul opus. Astăzi, Fort Bullen este inclus în Patrimoniul Mondial UNESCO și funcționează ca muzeu, documentând istoria militară și lupta împotriva sclaviei. Este una dintre cele mai bine conservate structuri militare britanice din Africa de Vest, fiind un martor tăcut al schimbărilor majore în politicile comerciale globale ale secolului al XIX-lea.",
+        "en": "Fort Bullen is strategically located at Barra Point on the north bank of the Gambia River mouth. It was established in 1826 by the British under the command of Commodore Bullen to secure the river's entrance and provide a defense for the colony of Bathurst (Banjul). Its primary objective was the suppression of the Atlantic slave trade; from this vantage point, British cannons could target any vessel attempting to illegally smuggle slaves out of the river. The fort's architecture is characterized by its robust laterite stone walls and semi-circular bastions. During World War II, the site saw a resurgence in military importance when it was reinforced with modern anti-aircraft guns to protect Banjul from potential Axis powers' attacks. Geographically, it offers commanding views over the Atlantic Ocean and across the estuary to the capital. Today, Fort Bullen is a UNESCO World Heritage site and serves as a museum documenting military history and the era of abolition. It remains one of the best-preserved British colonial military installations in West Africa, standing as a testament to the transformative global policies of the 19th century."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fort Bullen war das einzige britische Fort, das ausschließlich zur Bekämpfung des Sklavenhandels gebaut wurde.",
+          "Es gehört zum UNESCO-Weltkulturerbe 'Kunta Kinteh Island und zugehörige Stätten'.",
+          "Die Kanonen aus dem 19. Jahrhundert sind noch heute auf den Wällen zu sehen.",
+          "Während des Zweiten Weltkriegs diente es als wichtiger Beobachtungsposten.",
+          "Das Fort liegt inmitten eines ruhigen Parks am Rande der Stadt Barra.",
+          "Besucher können das Fort bequem per Fähre von Banjul aus erreichen."
+        ],
+        "hu": [
+          "Ez volt az egyetlen erőd a térségben, amelyet kifejezetten a rabszolgakereskedelem leállítására emeltek.",
+          "A terület 2003 óta szerepel az UNESCO világörökségi listáján.",
+          "Az erőd falai között ma is láthatók a második világháborús ágyúállások.",
+          "Fort Bullen a brit 'Niumi-háborúk' idején is fontos logisztikai bázis volt.",
+          "A helyszínen egy kis kiállítás mutatja be a rabszolga-felszabadítás történetét.",
+          "Az erőd Barra városának legfontosabb történelmi látnivalója."
+        ],
+        "ro": [
+          "Fort Bullen a fost construit într-un timp record pentru a preveni activitatea navelor franceze.",
+          "Situl face parte din complexul UNESCO Kunta Kinteh Island.",
+          "Zidurile sale de laterită au o grosime de peste un metru în anumite secțiuni.",
+          "Tunurile originale britanice sunt încă orientate către intrarea pe fluviu.",
+          "A servit drept garnizoană pentru Regimentul West India.",
+          "Relieful de coastă de la Barra Point este supus unei monitorizări stricte împotriva eroziunii."
+        ],
+        "en": [
+          "Fort Bullen is the most significant military structure on the North Bank of the river.",
+          "It was built without the official permission of the British government at the time.",
+          "The fort is a key stop on the 'Roots' historical tourism circuit.",
+          "It features distinctive circular corner towers for 360-degree observation.",
+          "The site illustrates the strategic competition between European powers in West Africa.",
+          "Local communities participate in the preservation and maintenance of the site."
+        ]
+      }
+    },
+    {
+      "id": "arch-22-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Arch 22 ist das markanteste Wahrzeichen von Banjul und markiert das offizielle Eingangstor zur Hauptstadt Gambias. Das monumentale Bauwerk wurde 1996 eingeweiht, um an den unblutigen Militärputsch vom 22. Juli 1994 zu erinnern, der Yahya Jammeh an die Macht brachte. Mit einer Höhe von 35 Metern ist der Bogen eines der höchsten Bauwerke des Landes. Er steht am Ende der Marina Parade auf einem großen Kreisverkehr, der die einzige Zufahrtsstraße nach Banjul dominiert. Die Architektur des Arch 22 ist imposant: Er ruht auf acht Säulen und beherbergt in seinen oberen Etagen ein kleines Museum, das die Geschichte des Putsches und das kulturelle Erbe Gambias dokumentiert. Eine Außenterrasse bietet Besuchern einen spektakulären 360-Grad-Panoramablick über die gesamte Stadt Banjul, den Hafen und die Mangrovensümpfe des Tanbi-Nationalparks. Das Relief um den Bogen ist flach, was seine optische Wirkung als 'Wächter der Stadt' verstärkt. Trotz seiner politisch kontroversen Entstehungsgeschichte ist der Arch 22 heute ein unverzichtbares Symbol der nationalen Identität und ein bedeutendes Ziel für Touristen. Er symbolisiert den Übergang Gambias in eine neue Ära der staatlichen Entwicklung am Ende des 20. Jahrhunderts.",
+        "hu": "Az Arch 22 Banjul legismertebb jelképe, amely a gambiai főváros hivatalos bejárataként szolgál. A monumentális építményt 1996-ban avatták fel az 1994. július 22-i vértelen katonai puccs emlékére, amely Yahya Jammeh-t juttatta hatalomra. A 35 méter magas diadalív az ország egyik legmagasabb építménye, és a Banjulba vezető egyetlen főút végén, egy forgalmas körforgalom közepén áll. Az Arch 22 építészeti megoldásai impozánsak: nyolc oszlopon nyugszik, felsőbb szintjein pedig egy kis múzeum kapott helyet, amely a puccs történetét és Gambia kulturális értékeit mutatja be. A legfelső szinten található teraszról 360 fokos panoráma nyílik az egész városra, a kikötőre és a Tanbi Nemzeti Park mangroveerdőire. A környék domborzata sík, ami még hangsúlyosabbá teszi az ív „városkapu” jellegét. Bár politikai háttere vitatott, az Arch 22 mára a nemzeti identitás megkerülhetetlen részévé és népszerű turistalátványossággá vált. Az építmény Gambia 20. század végi történelmi fordulópontjának és az állami modernizációs törekvéseknek a szimbóluma.",
+        "ro": "Arch 22 este cel mai proeminent reper vizual din Banjul, marcând poarta oficială de intrare în capitala Gambiei. Această structură monumentală a fost inaugurată în 1996 pentru a comemora lovitura de stat militară fără vărsare de sânge din 22 iulie 1994, care l-a adus la putere pe Yahya Jammeh. Cu o înălțime de 35 de metri, arcul este una dintre cele mai înalte construcții din țară, dominând sensul giratoriu de la capătul bulevardului Marina Parade. Arhitectura Arch 22 este impresionantă, fiind susținută de opt coloane masive. La etajele superioare, edificiul găzduiește un muzeu dedicat istoriei politice recente și patrimoniului cultural gambian. De pe terasa superioară, vizitatorii pot admira o panoramă spectaculoasă de 360 de grade asupra orașului Banjul, a portului și a mlaștinilor de mangrove din Parcul Național Tanbi. Relieful plat al zonei accentuează impactul vizual al monumentului, care pare să vegheze asupra întregii peninsule. În ciuda originilor sale politice controversate, Arch 22 a devenit un simbol indispensabil al identității naționale și o destinație turistică majoră. Reprezintă trecerea Gambiei într-o nouă eră de dezvoltare statală la sfârșitul secolului XX.",
+        "en": "Arch 22 is the most prominent landmark of Banjul, serving as the official gateway to the Gambian capital. This monumental structure was inaugurated in 1996 to commemorate the bloodless military coup of July 22, 1994, which brought Yahya Jammeh to power. Standing at 35 meters tall, the arch is one of the highest structures in the country. It is positioned at the end of Marina Parade on a large roundabout that dominates the only entry road into Banjul. The architecture of Arch 22 is imposing, resting on eight pillars and housing a small museum in its upper floors that documents the history of the coup and Gambian cultural heritage. An outer terrace provides visitors with a spectacular 360-degree panoramic view of the entire city of Banjul, the port, and the mangrove swamps of the Tanbi National Park. The surrounding terrain is flat, which amplifies the arch's visual impact as the 'guardian of the city.' Despite its politically controversial origins, Arch 22 has become an essential symbol of national identity and a significant destination for tourists. It symbolizes The Gambia's transition into a new era of state development at the close of the 20th century."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Arch 22 wurde von libyschen Architekten und Ingenieuren entworfen.",
+          "Der Bogen bietet den höchsten öffentlich zugänglichen Aussichtspunkt in Banjul.",
+          "Im Inneren befindet sich ein Aufzug und eine Wendeltreppe zu den Ausstellungsräumen.",
+          "Das Denkmal markiert den symbolischen Beginn der Unabhängigkeit von kolonialen Strukturen.",
+          "Um den Bogen herum befinden sich Statuen des 'unbekannten Soldaten'.",
+          "Der Zugang zum Bogen erfolgt über eine zeremonielle Auffahrt."
+        ],
+        "hu": [
+          "Az Arch 22 építését líbiai mérnökök és munkások végezték.",
+          "A felső kilátószintről tiszta időben ellátni egészen Barra városáig.",
+          "Az építmény belsejében található múzeumban néprajzi tárgyak is láthatók.",
+          "Az ív előtt álló szoborcsoport a nemzeti felszabadulást jelképezi.",
+          "A körforgalom, ahol az ív áll, Gambia egyik legfontosabb közlekedési csomópontja.",
+          "Az épület éjszakai kivilágítása Banjul egyik legszebb látványa."
+        ],
+        "ro": [
+          "Arcul are o structură compozită de beton și oțel, placată parțial cu piatră.",
+          "Este considerat punctul 'Zero' al kilometrajului rutier din Gambia.",
+          "Muzeul din interior conține fotografii rare de la evenimentele din 1994.",
+          "Relieful din jurul monumentului a fost nivelat special pentru construcție.",
+          "Arch 22 a fost reprezentat pe numeroase timbre poștale naționale.",
+          "Accesul turiștilor pe terasă este permis zilnic contra unei taxe de intrare."
+        ],
+        "en": [
+          "Arch 22 is the primary site for National Day celebrations in Banjul.",
+          "It features a distinct cream-colored facade that glows at sunset.",
+          "The building was constructed in less than two years to meet the anniversary deadline.",
+          "It acts as a symbolic bridge between the old colonial town and modern Gambia.",
+          "The view from the top includes the historic St. Mary’s Island coastline.",
+          "The arch houses a cafe and craft shop for visitors on the mezzanine floor."
+        ]
+      }
+    },
+    {
+      "id": "albert-market-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Albert Market ist das pulsierende wirtschaftliche Herz von Banjul und einer der lebhaftesten Märkte in Westafrika. Geografisch erstreckt er sich über mehrere Häuserblöcke im Zentrum der Hauptstadt, zwischen der Liberation Street und der Marina Parade, in unmittelbarer Nähe zum Seehafen. Gegründet wurde der Markt in der Mitte des 19. Jahrhunderts und nach Prinz Albert, dem Ehemann von Königin Victoria, benannt. Der Markt ist ein Labyrinth aus engen Gassen, in denen eine unglaubliche Vielfalt an Waren angeboten wird – von frischem Fisch und exotischen Gewürzen über farbenfrohe Batikstoffe bis hin zu Elektronik und Haushaltswaren. Besonders bekannt ist der hintere Teil des Marktes für sein hochwertiges Kunsthandwerk, darunter Holzschnitzereien und Schmuck. Wirtschaftlich ist der Albert Market der wichtigste Ort des informellen Handels in Banjul und sichert die Existenz tausender Händler und ihrer Familien. Das Stadtbild um den Markt ist durch koloniale Architektur und geschäftiges Treiben geprägt. Das Relief ist flach, was den Transport der Waren per Handkarren zum Hafen erleichtert. Für Besucher ist der Albert Market ein sensorisches Erlebnis, geprägt von den Rufen der Händler, den Düften der Garküchen und dem intensiven Farbspektrum der afrikanischen Textilien. Er verkörpert die Seele der gambischen Handelsmetropole.",
+        "hu": "Az Albert Market Banjul lüktető gazdasági szíve és Nyugati-Afrika egyik legélénkebb piaca. Földrajzi elhelyezkedése a főváros központjában található, több háztömbnyi területet lefedve a Liberation Street és a Marina Parade között, közvetlenül a kikötő szomszédságában. A piacot a 19. század közepén alapították, és Viktória királynő férjéről, Albert hercegről nevezték el. A piac szűk utcák labirintusa, ahol az áruk hihetetlen választéka található meg – a friss halaktól és egzotikus fűszerektől kezdve a színes batikolt textíliákon át az elektronikai cikkekig és háztartási eszközökig. A piac hátsó része különösen híres a kiváló minőségű kézműves termékeiről, többek között fafaragásokról és ékszerekről. Gazdaságilag az Albert Market Banjul legfontosabb informális kereskedelmi központja, amely kereskedők ezreinek biztosít megélhetést. A piac környéki városképet a gyarmati építészet maradványai és a folyamatos jövés-menés határozza meg. A domborzat sík, ami megkönnyíti az áruk kézikocsival történő mozgatását a kikötő felé. Az idelátogatók számára az Albert Market igazi érzékszervi élmény: az árusok kiáltásai, a kifőzdék illata és az afrikai textilek intenzív színei Gambia kereskedelmi kultúrájának lényegét mutatják be.",
+        "ro": "Piața Albert (Albert Market) este inima economică efervescentă a Banjulului și una dintre cele mai vibrante piețe din Africa de Vest. Situată geografic în centrul capitalei, se întinde pe mai multe blocuri între Liberation Street și Marina Parade, în imediata apropiere a portului maritim. Fondată la mijlocul secolului al XIX-lea, piața a fost numită după Prințul Albert, soțul Reginei Victoria. Este un labirint de alei înguste unde se oferă o varietate incredibilă de bunuri – de la pește proaspăt și condimente exotice la țesături batik multicolore, electronice și articole de uz casnic. Secțiunea posterioară a pieței este renumită pentru produsele de artizanat de înaltă calitate, inclusiv sculpturi în lemn și bijuterii. Din punct de vedere economic, Piața Albert reprezintă cel mai important pol al comerțului informal din Banjul, asigurând subzistența pentru mii de comercianți. Peisajul urban din jurul pieței este definit de arhitectura colonială și de activitatea neîntreruptă a mulțimii. Relieful este plat, facilitând transportul mărfurilor cu cărucioare manuale către port. Pentru vizitatori, Piața Albert este o experiență senzorială totală, marcată de strigătele vânzătorilor, aromele bucătăriilor stradale și spectacolul culorilor textilelor africane. Întruchipează spiritul comercial autentic al Gambiei.",
+        "en": "Albert Market is the pulsating economic heart of Banjul and one of the most vibrant marketplaces in West Africa. Geographically, it sprawls across several city blocks in the center of the capital, between Liberation Street and Marina Parade, in close proximity to the seaport. Established in the mid-19th century, the market was named after Prince Albert, the husband of Queen Victoria. It is a labyrinth of narrow alleys offering an incredible variety of goods—ranging from fresh fish and exotic spices to colorful batik fabrics, electronics, and household items. The rear section of the market is particularly famous for its high-quality artisanal crafts, including woodcarvings and jewelry. Economically, Albert Market is the most important hub for informal trade in Banjul, securing the livelihoods of thousands of traders and their families. The cityscape around the market is defined by colonial-era architecture and constant activity. The terrain is flat, which facilitates the transport of goods via handcarts to the nearby harbor. For visitors, Albert Market is a full sensory experience, defined by the calls of traders, the aromas of street food stalls, and the intense colors of African textiles. It embodies the soul of the Gambian commercial metropolis."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Der Markt ist täglich von früh morgens bis zum Sonnenuntergang geöffnet.",
+          "Ein Großteil der in Gambia verkauften Textilien wird hier verhandelt.",
+          "Der Albert Market beherbergt spezialisierte Sektionen für traditionelle Heilmedizin.",
+          "In der Nähe befindet sich das Nationalmuseum von Gambia.",
+          "Der Fischmarkt-Bereich wird mehrmals täglich direkt vom Hafen beliefert.",
+          "Der Markt ist bekannt für seine fairen Preise und die Möglichkeit zum Feilschen."
+        ],
+        "hu": [
+          "A piacon kapható fűszerek többsége közvetlenül a környékbeli kertekből érkezik.",
+          "Az Albert Market fafaragó negyede a turisták egyik kedvenc helye.",
+          "A területen számos hagyományos pénzváltó és ékszerész is dolgozik.",
+          "A piac infrastruktúrája a 20. század végén jelentős felújításon esett át.",
+          "A helyi kifőzdékben megkóstolható az autentikus gambiai 'Benachin'.",
+          "A piac elhelyezkedése miatt fontos találkozópont a kompra várók számára is."
+        ],
+        "ro": [
+          "Piața Albert este cel mai bun loc din Banjul pentru a cumpăra fructe tropicale proaspete.",
+          "Relieful plat favorizează fluxul constant de mii de cumpărători zilnic.",
+          "Secțiunea de țesături oferă peste 500 de modele diferite de bumbac imprimat.",
+          "Comerțul cu aur și argint artizanal este o specialitate a pieței.",
+          "Piața servește drept barometru pentru prețurile alimentelor de bază în țară.",
+          "Atmosfera pieței este un amestec de limbi locale: Wolof, Mandinka și Fula."
+        ],
+        "en": [
+          "Albert Market is the primary source of wholesale goods for rural Gambian traders.",
+          "The market features a dedicated section for second-hand clothing from Europe.",
+          "It acts as a major center for Gambian fashion design and tailoring.",
+          "The proximity to the sea provides a cool breeze during the hot afternoon hours.",
+          "Albert Market is renowned for its selection of handmade leather sandals.",
+          "The market is a key participant in the city's waste management and recycling programs."
+        ]
+      }
+    }
+  ]
+}

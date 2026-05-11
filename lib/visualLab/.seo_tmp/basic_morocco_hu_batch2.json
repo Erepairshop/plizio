@@ -1,0 +1,80 @@
+{
+  "lang": "hu",
+  "country": "Morocco",
+  "files": [
+    "lib/visualLab/data/poiExtraMoroccoNatureV2.ts",
+    "lib/visualLab/data/poiExtraMoroccoReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "sebkha-tindouf-lake-nature-v2",
+      "description": "A Sebkha Tindouf egy hatalmas sós tó a Szahara sivatagban, fontos geológiai képződmény és madárélőhely.",
+      "facts": ["Sós tó", "Szahara sivatag", "Madárélőhely"]
+    },
+    {
+      "id": "rif-mountains-nature-v2",
+      "description": "A Rif-hegység Észak-Marokkóban található, buja zöld tájaival, cédruserdőivel és hagyományos berber falvaival.",
+      "facts": ["Észak-Marokkó", "Cédruserdők", "Berber falvak"]
+    },
+    {
+      "id": "bin-el-ouidane-lake-nature-v2",
+      "description": "A Bin el Ouidane-tó egy nagy víztározó a Középső-Atlaszban, népszerű vízi sportok és festői szépsége miatt.",
+      "facts": ["Nagy víztározó", "Középső-Atlasz", "Vízi sportok"]
+    },
+    {
+      "id": "oued-noun-nature-v2",
+      "description": "Az Oued Noun folyó és völgye egy egyedülálló sivatagi ökoszisztémát hoz létre, amely specifikus növény- és állatvilágot támogat.",
+      "facts": ["Sivatagi ökoszisztéma", "Egyedi növényvilág", "Oued Noun völgy"]
+    },
+    {
+      "id": "oued-sakia-el-hamra-nature-v2",
+      "description": "Az Oued Sakia El Hamra egy időszakos folyó a Nyugat-Szaharában, amely létfontosságú az ökoszisztéma számára.",
+      "facts": ["Időszakos folyó", "Nyugat-Szahara", "Létfontosságú ökoszisztéma"]
+    },
+    {
+      "id": "oued-oued-ed-dahab-nature-v2",
+      "description": "Az Oued Eddahab egy kiszáradt folyómeder a Nyugat-Szaharában, kulcsfontosságú a régió korlátozott növény- és állatvilága számára.",
+      "facts": ["Kiszáradt folyómeder", "Nyugat-Szahara", "Korlátozott élővilág"]
+    },
+    {
+      "id": "cap-ghir-nature-v2",
+      "description": "Cap Ghir egy kiemelkedő hegyfok az Atlanti-óceán partján Agadir északi részén, drámai sziklafalakkal.",
+      "facts": ["Atlanti-óceán partja", "Drámai sziklafalak", "Agadir északi része"]
+    },
+    {
+      "id": "oued-oued-nfiss-nature-v2",
+      "description": "Az Oued Nfiss egy folyó a Magas-Atlasz hegységben, festői szurdokairól ismert, és hozzájárul a helyi öntözéshez.",
+      "facts": ["Magas-Atlasz", "Festői szurdokok", "Öntözés"]
+    },
+    {
+      "id": "oued-oued-tansift-estuary-nature-v2",
+      "description": "Az Oued Tensift torkolata Essaouira közelében fontos vizes élőhely és pihenőhely a vonuló madarak számára.",
+      "facts": ["Essaouira", "Vizes élőhely", "Vonuló madarak"]
+    },
+    {
+      "id": "guelmim-plains-relief-v2",
+      "description": "A Guelmim-síkságok egy kiterjedt, félszáraz régió Dél-Marokkóban, amely a Szaharába való átmenetet jelöli.",
+      "facts": ["Félszáraz régió", "Dél-Marokkó", "Átmenet a Szaharába"]
+    },
+    {
+      "id": "figuig-oasis-relief-v2",
+      "description": "A Figuig oázis hét oázisból álló komplexum az algériai határ közelében, ősi kaszbáiról és datolyaültetvényeiről híres.",
+      "facts": ["Algériai határ közelében", "Ősi kaszbák", "Datolyaültetvények"]
+    },
+    {
+      "id": "moulay-idriss-hills-relief-v2",
+      "description": "Moulay Idriss dombjai körülveszik a szent várost, festői és termékeny tájat kínálva a Zerhoun régióban.",
+      "facts": ["Szent város", "Festői táj", "Termékeny régió"]
+    },
+    {
+      "id": "atlas-foothills-relief-v2",
+      "description": "Az Atlasz-hegység előhegyei változatos topográfiát kínálnak, termékeny völgyekkel és kopár fennsíkokkal.",
+      "facts": ["Változatos topográfia", "Termékeny völgyek", "Magas-Atlasz"]
+    },
+    {
+      "id": "oued-tensift-valley-relief-v2",
+      "description": "Az Oued Tensift völgye fontos mezőgazdasági terület a Marrakesh-síkságon, amelyet a folyó öntözőrendszere táplál.",
+      "facts": ["Marrakesh-síkság", "Mezőgazdasági terület", "Öntözőrendszer"]
+    }
+  ]
+}

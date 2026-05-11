@@ -1,0 +1,30 @@
+{
+  "lang": "ro",
+  "country": "Panama",
+  "files": [
+    "lib/visualLab/data/poiExtraPanamaCitiesV2.ts",
+    "lib/visualLab/data/poiExtraPanamaEconomicV2.ts",
+    "lib/visualLab/data/poiExtraPanamaHistoryV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraPanamaLifeV2.ts",
+    "lib/visualLab/data/poiExtraPanamaNatureV2.ts",
+    "lib/visualLab/data/poiExtraPanamaReliefV2.ts"
+  ],
+  "items": [
+    {"id": "concepcion-bugaba-cities-v2", "description": "Mică localitate de munte în Highland Chiriquí cu climă rece.", "facts": ["Resort montan", "Regiune cafea", "Destinație turism"]},
+    {"id": "puerto-cristobal-economic-v2", "description": "Port major pentru comerț și export în estul Panamei.", "facts": ["Port comercial", "Infrastructură comerț", "Economie port"]},
+    {"id": "parque-tecnologico-economic-v2", "description": "Park tehnologic cu facilități pentru inovație și afaceri.", "facts": ["Zon tehnologie", "Business hub", "Inovație"]},
+    {"id": "iglesia-de-san-jose-history-v2", "description": "Biserică din sec XVII cu altar aurit în Casco Viejo.", "facts": ["Barocă artă", "Monument religios", "Patrimoniu colonial"]},
+    {"id": "fuerte-de-matachin-history-v2", "description": "Fortăreață din época colonială pentru apărare navală.", "facts": ["Fort colonial", "Apărare militară", "Monument istoric"]},
+    {"id": "casa-ayora-history-v2", "description": "Casă istorică cu arhitectură din perioada coloniala.", "facts": ["Cladire patrimoniala", "Stil colonial", "Monument cultural"]},
+    {"id": "plaza-francia-history-v2", "description": "Piață memorială în Casco Viejo pentru implicare franceză.", "facts": ["Memorian plaza", "Loc istoric", "Spațiu public"]},
+    {"id": "iglesia-del-carmen-history-v2", "description": "Biserică din era colonială în cartier Casco Viejo.", "facts": ["Monument religios", "Barocă", "Patrimoniu"]},
+    {"id": "iglesia-de-la-merced-landmarks-v2", "description": "Biserică cu arhitectură distinctă în Panama City.", "facts": ["Cladire religiosa", "Stil religious", "Landmark urban"]},
+    {"id": "teatro-nacional-landmarks-v2", "description": "Teatru național cu performanțe și arhitectură impunătoare.", "facts": ["Edificiu performanță", "Reper cultural", "Cladire monumental"]},
+    {"id": "torre-omega-landmarks-v2", "description": "Zgârie-nori modern în cartierul financiar al Panamei.", "facts": ["Turn birou", "Reper urban", "Arhitectură modernă"]},
+    {"id": "finca-cafe-boquete-life-v2", "description": "Fermă de cafea în regiunea Boquete cu producție de calitate.", "facts": ["Plantație cafea", "Turism agricol", "Culturi speciale"]},
+    {"id": "refugio-vida-silvestre-taboga-life-v2", "description": "Refugiu de viață sălbatică pe insula Taboga cu observare păsări.", "facts": ["Sanctuar faună", "Observare păsări", "Rezervă marină"]},
+    {"id": "parque-infantil-don-bosco-life-v2", "description": "Parc pentru copii cu echipamente de joacă și recreație.", "facts": ["Loc joacă", "Facilitate familie", "Zonă recreație"]},
+    {"id": "reserva-forestal-fortuna-life-v2", "description": "Rezervă forestieră protejând ecosistem de pădure ploioasă.", "facts": ["Pădure protejată", "Biodiversitate", "Conservare"]}
+  ]
+}

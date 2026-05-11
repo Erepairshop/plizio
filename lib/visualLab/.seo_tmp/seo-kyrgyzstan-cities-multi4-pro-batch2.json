@@ -1,0 +1,419 @@
+{
+  "lang": "multi4",
+  "country": "kyrgyzstan",
+  "files": [
+    "lib/visualLab/data/poiExtraKyrgyzstanCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kyzyl-kiya-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Eines der ältesten Kohlebergbauzentren in Zentralasien.",
+          "Wurde 1898 mit dem ersten industriellen Kohleabbau gegründet.",
+          "Der Name bedeutet 'Roter Hang' und bezieht sich auf den Sandstein.",
+          "Liegt unmittelbar an der Grenze zu Usbekistan.",
+          "Die Kohle aus dieser Region versorgte einst das gesamte Ferganatal.",
+          "Besitzt ein bedeutendes Zementwerk und eine Fleischkombinat.",
+          "Ist ein wichtiger Knotenpunkt für den grenzüberschreitenden Handel."
+        ],
+        "hu": [
+          "Közép-Ázsia egyik legrégebbi szénbányászati központja.",
+          "1898-ban alapították az első ipari szénbányák megnyitásakor.",
+          "A név 'vörös lejtőt' jelent, a helyi homokkő színére utalva.",
+          "Közvetlenül az üzbég határ mentén fekszik.",
+          "A régió szene egykor az egész Fergana-völgyet ellátta.",
+          "Jelentős cementgyárral és húskombináttal rendelkezik.",
+          "A határmenti kereskedelem egyik fontos csomópontja."
+        ],
+        "ro": [
+          "Unul dintre cele mai vechi centre miniere de cărbune din Asia Centrală.",
+          "Fondat în 1898 odată cu primele exploatări industriale de cărbune.",
+          "Numele înseamnă 'Coasta Roșie', referindu-se la culoarea gresiei.",
+          "Situat chiar la granița cu Uzbekistanul.",
+          "Cărbunele din această regiune aproviziona cândva întreaga Vale Fergana.",
+          "Deține o fabrică de ciment importantă și un combinat de carne.",
+          "Este un nod esențial pentru comerțul transfrontalier."
+        ],
+        "en": [
+          "One of the oldest coal mining centres in Central Asia.",
+          "Founded in 1898 with the first industrial coal extraction.",
+          "The name means 'Red Slope', referring to the local sandstone.",
+          "Located directly on the border with Uzbekistan.",
+          "Coal from this region once supplied the entire Fergana Valley.",
+          "Features a major cement plant and a meat-packing factory.",
+          "A significant hub for cross-border trade."
+        ]
+      }
+    },
+    {
+      "id": "batken-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Wurde erst im Jahr 2000 zur Provinzhauptstadt ernannt.",
+          "Ist bekannt für die besten getrockneten Aprikosen der Region.",
+          "Die Gegend ist von zahlreichen Enklaven (usbekisch/tadschikisch) umgeben.",
+          "Wird oft als die 'vergessene Ecke' Kirgisistans bezeichnet.",
+          "Hier blüht im Frühling die seltene Aigul-Blume (Kaiserkrone).",
+          "Liegt am Fuße des Alai-Gebirges auf etwa 1100 m Höhe.",
+          "Ein strategischer Außenposten nahe der tadschikischen Grenze."
+        ],
+        "hu": [
+          "Csak 2000-ben nevezték ki tartományi székhellyé.",
+          "A régió legjobb aszalt sárgabarackjáról híres.",
+          "A környéket számos üzbég és tadzsik exklávé veszi körül.",
+          "Gyakran emlegetik Kirgizisztán 'elfeledett sarkaként'.",
+          "Tavasszal itt virágzik a ritka Ajgül-virág (császárkorona).",
+          "Az Alaj-hegység lábánál fekszik, mintegy 1100 méteres magasságban.",
+          "Stratégiai fontosságú előőrs a tadzsik határ közelében."
+        ],
+        "ro": [
+          "A devenit capitală de provincie abia în anul 2000.",
+          "Renumit pentru cele mai bune caise uscate din regiune.",
+          "Zona este înconjurată de numeroase enclave uzbece și tadjice.",
+          "Adesea numit 'colțul uitat' al Kârgâzstanului.",
+          "Primăvara înflorește aici rara floare Aigul (Coroana Imperială).",
+          "Situat la poalele munților Alai, la circa 1100 m altitudine.",
+          "Un avanpost strategic aproape de granița cu Tadjikistanul."
+        ],
+        "en": [
+          "Designated as a provincial capital only in the year 2000.",
+          "Famous for the region's finest dried apricots.",
+          "The area is surrounded by numerous Uzbek and Tajik enclaves.",
+          "Often referred to as the 'forgotten corner' of Kyrgyzstan.",
+          "The rare Aigul flower (Fritillaria) blooms here in spring.",
+          "Located at the foot of the Alay Range at about 1100 m altitude.",
+          "A strategic outpost near the Tajik border."
+        ]
+      }
+    },
+    {
+      "id": "razzakov-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Hieß bis 2022 Isfana, bevor sie zu Ehren eines Staatsmannes umbenannt wurde.",
+          "Ist die westlichste Stadt Kirgisistans.",
+          "Ist auf drei Seiten von tadschikischem Staatsgebiet umschlossen.",
+          "War im Mittelalter eine wichtige Festung an der Seidenstraße.",
+          "Verfügt über einen kleinen Regionalflughafen für die Anbindung an Bischkek.",
+          "Die Wirtschaft basiert auf Landwirtschaft und Viehzucht.",
+          "Gilt als kulturelles Zentrum des Leilek-Bezirks."
+        ],
+        "hu": [
+          "2022-ig Iszfana néven volt ismert, majd egy államférfi után nevezték át.",
+          "Kirgizisztán legnyugatibb városa.",
+          "Három oldalról tadzsik terület veszi körül.",
+          "A középkorban a Selyemút egyik fontos erődítménye volt.",
+          "Kis regionális repülőtérrel rendelkezik a Biskekkel való összeköttetéshez.",
+          "Gazdasága a mezőgazdaságon és az állattenyésztésen alapul.",
+          "A Lejlek-körzet kulturális központjának tekintik."
+        ],
+        "ro": [
+          "Cunoscut sub numele Isfana până în 2022, redenumit după un om de stat.",
+          "Este cel mai vestic oraș din Kârgâzstan.",
+          "Este înconjurat pe trei laturi de teritoriul Tadjikistanului.",
+          "A fost o fortăreață importantă pe Drumul Mătăsii în Evul Mediu.",
+          "Dispune de un mic aeroport regional pentru legătura cu Bishkek.",
+          "Economia se bazează pe agricultură și creșterea animalelor.",
+          "Considerat centrul cultural al districtului Leilek."
+        ],
+        "en": [
+          "Known as Isfana until 2022, when it was renamed after a statesman.",
+          "The westernmost city in Kyrgyzstan.",
+          "Surrounded on three sides by Tajik territory.",
+          "Was an important fortress on the Silk Road in medieval times.",
+          "Features a small regional airport for links to Bishkek.",
+          "The economy is based on agriculture and livestock farming.",
+          "Considered the cultural centre of the Leilek District."
+        ]
+      }
+    },
+    {
+      "id": "kara-suu-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt einen der größten Märkte Zentralasiens.",
+          "Wird durch einen Kanal von der usbekischen Stadt Qorasuv getrennt.",
+          "Ist ein massiver Umschlagplatz für Waren aus China.",
+          "Die Stadt ist ethnisch stark gemischt (Kirgisen/Usbeken).",
+          "Liegt nur etwa 25 km nordöstlich von Osch.",
+          "Wirtschaftlich fast vollständig auf den Handel ausgerichtet.",
+          "Ein wichtiger Eisenbahnknotenpunkt im Ferganatal."
+        ],
+        "hu": [
+          "Közép-Ázsia egyik legnagyobb piacának ad otthont.",
+          "Egy csatorna választja el az üzbég Koraszuv városától.",
+          "A kínai áruk hatalmas elosztóközpontja.",
+          "A város etnikailag erősen vegyes (kirgiz és üzbég).",
+          "Mindössze 25 km-re északkeletre fekszik Ostól.",
+          "Gazdaságilag szinte teljes mértékben a kereskedelemre támaszkodik.",
+          "A Fergana-völgy egyik fontos vasúti csomópontja."
+        ],
+        "ro": [
+          "Găzduiește una dintre cele mai mari piețe din Asia Centrală.",
+          "Separat de orașul uzbec Qorasuv printr-un canal.",
+          "Un punct masiv de tranzit pentru mărfurile din China.",
+          "Populația este mixtă din punct de vedere etnic (kârgâzi și uzbeci).",
+          "Situat la doar circa 25 km nord-est de Osh.",
+          "Economia este orientată aproape în totalitate spre comerț.",
+          "Un nod feroviar important în Valea Fergana."
+        ],
+        "en": [
+          "Home to one of the largest markets in Central Asia.",
+          "Separated from the Uzbek city of Qorasuv by a canal.",
+          "A massive transit point for goods coming from China.",
+          "The city is ethnically diverse, mainly Kyrgyz and Uzbek.",
+          "Located only about 25 km northeast of Osh.",
+          "Economy is almost entirely centered around trade.",
+          "An important railway junction in the Fergana Valley."
+        ]
+      }
+    },
+    {
+      "id": "tash-kumyr-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Wurde 1930 als Bergarbeitersiedlung gegründet.",
+          "Liegt in einer malerischen Schlucht am Fluss Naryn.",
+          "Hier wurden bedeutende Dinosaurier-Skelette gefunden.",
+          "Besitzt zwei große Wasserkraftwerke zur Stromerzeugung.",
+          "Das Werk 'Kristall' stellte früher Halbleitermaterialien her.",
+          "Ist durch die Hauptstraße Bischkek–Osch gut angebunden.",
+          "Kohle aus dieser Region gilt als besonders hochwertig."
+        ],
+        "hu": [
+          "1930-ban alapították bányásztelepülésként.",
+          "A Narin folyó festői szurdokában fekszik.",
+          "Itt találták meg a régió legjelentősebb dinoszaurusz-csontvázait.",
+          "Két nagy vízerőművel rendelkezik az áramtermeléshez.",
+          "A 'Kristall' gyár korábban félvezető anyagokat készített.",
+          "A Biskek–Os főútvonal mentén található.",
+          "A régióból származó szenet különösen jó minőségűnek tartják."
+        ],
+        "ro": [
+          "Fondat în 1930 ca așezare de minieri.",
+          "Situat într-un defileu pitoresc pe râul Naryn.",
+          "Aici au fost găsite schelete importante de dinozauri.",
+          "Deține două mari hidrocentrale pentru producerea energiei.",
+          "Fabrica 'Kristall' producea anterior materiale semiconductoare.",
+          "Bine conectat prin șoseaua principală Bishkek–Osh.",
+          "Cărbunele din această regiune este considerat de calitate superioară."
+        ],
+        "en": [
+          "Founded in 1930 as a miners' settlement.",
+          "Located in a picturesque gorge on the Naryn River.",
+          "Significant dinosaur skeletons were discovered here.",
+          "Features two large hydroelectric power stations.",
+          "The 'Kristall' plant formerly produced semiconductor materials.",
+          "Well connected via the main Bishkek–Osh highway.",
+          "Coal from this region is considered to be of high quality."
+        ]
+      }
+    },
+    {
+      "id": "mailuu-suu-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "War während der UdSSR eine 'geschlossene Stadt' (Postfach 200).",
+          "Beherbergt eines der größten Uran-Abraumdeponien der Welt.",
+          "Hier befindet sich eine der größten Glühbirnenfabriken Zentralasiens.",
+          "Wurde 1946 aufgrund der Uranvorkommen gegründet.",
+          "Die Stadt liegt in einer tiefen, engen Bergschlucht.",
+          "Internationale Programme arbeiten an der Sicherung der Atommüllhalden.",
+          "Gilt als eine der am stärksten belasteten Städte weltweit."
+        ],
+        "hu": [
+          "A szovjet érában 'zárt város' volt (200-as postafiók).",
+          "A világ egyik legnagyobb uránmeddő-tárolójának ad otthont.",
+          "Itt található Közép-Ázsia egyik legnagyobb villanykörtegyára.",
+          "1946-ban alapították az uránlelőhelyek miatt.",
+          "A város egy mély, szűk hegyi szurdokban fekszik.",
+          "Nemzetközi programok dolgoznak a nukleáris hulladék biztonságba helyezésén.",
+          "A világ egyik leginkább környezetszennyezett városának tartják."
+        ],
+        "ro": [
+          "A fost un 'oraș închis' în timpul URSS (căsuța poștală 200).",
+          "Găzduiește unul dintre cele mai mari depozite de steril de uraniu din lume.",
+          "Aici se află una dintre cele mai mari fabrici de becuri din Asia Centrală.",
+          "Fondat în 1946 datorită zăcămintelor de uraniu.",
+          "Orașul este situat într-un defileu montan adânc și strâmt.",
+          "Programe internaționale lucrează la securizarea depozitelor de deșeuri nucleare.",
+          "Considerat unul dintre cele mai poluate orașe din lume."
+        ],
+        "en": [
+          "Was a 'closed city' during the USSR (P.O. Box 200).",
+          "Home to one of the largest uranium tailing sites in the world.",
+          "Features one of Central Asia's largest light bulb factories.",
+          "Founded in 1946 due to uranium deposits.",
+          "The city is located in a deep, narrow mountain gorge.",
+          "International programs are working to secure the radioactive waste sites.",
+          "Considered one of the most environmentally challenged cities globally."
+        ]
+      }
+    },
+    {
+      "id": "kochkor-ata-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Ist das Zentrum der kirgisischen Erdölförderung.",
+          "Sitz des staatlichen Unternehmens 'Kyrgyzneftegas'.",
+          "Wurde 1952 als Siedlung für Ölarbeiter gegründet.",
+          "Der Name bedeutet 'Vater der Widder'.",
+          "Liegt an der strategischen Route zwischen Osch und Dschalalabat.",
+          "Besitzt ein bedeutendes Stadion und einen erfolgreichen Fußballclub.",
+          "Die Stadt ist von Pumpen und Ölförderanlagen geprägt."
+        ],
+        "hu": [
+          "A kirgiz kőolajkitermelés központja.",
+          "A 'Kirgizneftegáz' állami vállalat székhelye.",
+          "1952-ben alapították olajipari munkástelepülésként.",
+          "A név jelentése: 'Kosok Atyja'.",
+          "Az Os és Dzsalalabad közötti stratégiai útvonalon fekszik.",
+          "Jelentős stadionnal és sikeres futballcsapattal rendelkezik.",
+          "A várost olajkutak és szivattyútelepek jellemzik."
+        ],
+        "ro": [
+          "Este centrul extracției de petrol din Kârgâzstan.",
+          "Sediul companiei de stat 'Kyrgyzneftegaz'.",
+          "Fondat în 1952 ca așezare pentru lucrătorii petroliști.",
+          "Numele înseamnă 'Tatăl Berbecilor'.",
+          "Situat pe ruta strategică dintre Osh și Jalal-Abad.",
+          "Deține un stadion important și un club de fotbal de succes.",
+          "Peisajul urban este marcat de sonde și instalații de extracție."
+        ],
+        "en": [
+          "The centre of Kyrgyzstan's oil extraction industry.",
+          "Headquarters of the state-owned 'Kyrgyzneftegas' company.",
+          "Founded in 1952 as a settlement for oil workers.",
+          "The name means 'Father of Rams'.",
+          "Located on the strategic route between Osh and Jalal-Abad.",
+          "Features a major stadium and a successful football club.",
+          "The city is characterized by oil pumps and extraction facilities."
+        ]
+      }
+    },
+    {
+      "id": "kant-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt einen wichtigen russischen Luftwaffenstützpunkt.",
+          "Wurde nach dem deutschen Philosophen Immanuel Kant benannt.",
+          "War früher ein Zentrum der Kirgisistan-Deutschen.",
+          "Besitzt eine große Zementfabrik und Lebensmittelbetriebe.",
+          "Liegt nur etwa 20 km östlich der Hauptstadt Bischkek.",
+          "Gilt als eine der industriell am weitesten entwickelten Kleinstädte.",
+          "Die Region ist bekannt für den Anbau von Zuckerrüben."
+        ],
+        "hu": [
+          "Fontos orosz légitámaszpontnak ad otthont.",
+          "Immanuel Kant német filozófusról nevezték el.",
+          "Korábban a kirgizisztáni németek egyik központja volt.",
+          "Nagy cementgyárral és élelmiszeripari üzemekkel rendelkezik.",
+          "Mindössze 20 km-re keletre fekszik Biskektől.",
+          "Az egyik legfejlettebb ipari kisvárosnak számít.",
+          "A régió híres a cukorrépa-termesztésről."
+        ],
+        "ro": [
+          "Găzduiește o importantă bază aeriană rusă.",
+          "Numit după filosoful german Immanuel Kant.",
+          "A fost anterior un centru al germanilor din Kârgâzstan.",
+          "Are o fabrică mare de ciment și unități de prelucrare alimentară.",
+          "Situat la doar circa 20 km est de capitala Bishkek.",
+          "Considerat unul dintre cele mai dezvoltate orașe mici din punct de vedere industrial.",
+          "Regiunea este cunoscută pentru cultivarea sfeclei de zahăr."
+        ],
+        "en": [
+          "Home to a major Russian air force base.",
+          "Named after the German philosopher Immanuel Kant.",
+          "Was formerly a hub for Kyrgyzstan's German minority.",
+          "Features a large cement factory and food processing plants.",
+          "Located only about 20 km east of the capital, Bishkek.",
+          "Considered one of the most industrially developed small towns.",
+          "The region is known for sugar beet cultivation."
+        ]
+      }
+    },
+    {
+      "id": "cholpon-ata-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Das wichtigste Touristenzentrum am Nordufer des Yssykköl-Sees.",
+          "Bekannt für seine weitläufigen Sandstrände und Sanatorien.",
+          "Hier befindet sich ein Freilichtmuseum für Petroglyphen.",
+          "Austragungsort der ersten 'World Nomad Games'.",
+          "Das Kulturzentrum 'Ruh Ordo' vereint fünf Weltreligionen.",
+          "Der Name bedeutet 'Vater der Morgensterne'.",
+          "Wurde 1975 offiziell zur Stadt erhoben."
+        ],
+        "hu": [
+          "Az Iszik-köl tó északi partjának legfontosabb turisztikai központja.",
+          "Híres tágas homokos strandjairól és szanatóriumairól.",
+          "Itt található egy szabadtéri sziklarajz-múzeum.",
+          "Az első 'Nomád Világjátékok' házigazdája volt.",
+          "A 'Ruh Ordo' kulturális központ öt világvallást mutat be.",
+          "A név jelentése: 'Hajnalcsillagok Atyja'.",
+          "1975-ben kapott hivatalosan városi rangot."
+        ],
+        "ro": [
+          "Principalul centru turistic de pe malul nordic al lacului Issyk-Kul.",
+          "Cunoscut pentru plajele sale largi cu nisip și sanatorii.",
+          "Găzduiește un muzeu în aer liber de petroglife.",
+          "Locul de desfășurare al primelor 'Jocuri Mondiale ale Nomazilor'.",
+          "Centrul cultural 'Ruh Ordo' reunește cinci religii mondiale.",
+          "Numele înseamnă 'Tatăl stelelor de dimineață'.",
+          "A fost declarat oficial oraș în anul 1975."
+        ],
+        "en": [
+          "The main tourist hub on the northern shore of Lake Issyk-Kul.",
+          "Famous for its extensive sandy beaches and sanatoriums.",
+          "Home to an open-air museum of ancient petroglyphs.",
+          "Host of the very first 'World Nomad Games'.",
+          "The 'Ruh Ordo' cultural centre represents five world religions.",
+          "The name means 'Father of the Morning Stars'.",
+          "Officially attained city status in 1975."
+        ]
+      }
+    },
+    {
+      "id": "kerben-cities-v2",
+      "factsAdvanced": {
+        "de": [
+          "Früher als Karawan bekannt, eine Station an der Seidenstraße.",
+          "Administrative Zentrum des Aksy-Bezirks.",
+          "Liegt in einer fruchtbaren Oase am Fluss Kasansaj.",
+          "Wurde erst 2004 offiziell zur Stadt ernannt.",
+          "Ein Tor zum Sary-Tschelek-Biosphärenreservat.",
+          "Bekannt für den Anbau von Baumwolle und Tabak.",
+          "Die Region ist für ihre unberührte Berglandschaft berühmt."
+        ],
+        "hu": [
+          "Korábban Karaván néven volt ismert, a Selyemút egyik állomása.",
+          "Az Akszi-körzet közigazgatási központja.",
+          "Termékeny oázisban fekszik a Kazanszaj folyó mentén.",
+          "Csak 2004-ben kapott hivatalosan városi rangot.",
+          "A Szari-Cselek bioszféra-rezervátum egyik kapuja.",
+          "Híres a gyapot- és dohánytermesztéséről.",
+          "A régió érintetlen hegyvidéki tájairól ismert."
+        ],
+        "ro": [
+          "Cunoscut anterior sub numele Karavan, o stație pe Drumul Mătăsii.",
+          "Centrul administrativ al districtului Aksy.",
+          "Situat într-o oază fertilă pe râul Kasansay.",
+          "A primit oficial statutul de oraș abia în 2004.",
+          "O poartă de acces către rezervația biosferei Sary-Chelek.",
+          "Cunoscut pentru cultivarea bumbacului și a tutunului.",
+          "Regiunea este faimoasă pentru peisajele sale montane virgine."
+        ],
+        "en": [
+          "Formerly known as Karavan, a stop on the Silk Road.",
+          "Administrative centre of the Aksy District.",
+          "Located in a fertile oasis along the Kasansay River.",
+          "Officially granted city status only in 2004.",
+          "A gateway to the Sary-Chelek Biosphere Reserve.",
+          "Known for cotton and tobacco cultivation.",
+          "The region is famous for its untouched mountain scenery."
+        ]
+      }
+    }
+  ]
+}

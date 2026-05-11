@@ -1,0 +1,77 @@
+{
+  "lang": "ro",
+  "country": "Timorleste",
+  "files": [
+    "lib/visualLab/data/poiExtraTimorlesteEconomicV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteLifeV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteNatureV2.ts",
+    "lib/visualLab/data/poiExtraTimorlesteReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "dili-seaport-economic-v2",
+      "description": "Portul Dili este principala poartă maritimă a Timorului de Est, facilitând comerțul internațional.",
+      "facts": ["Poartă maritimă", "Comerț internațional", "Situat în Dili", "Infrastructură portuară"]
+    },
+    {
+      "id": "pante-macassar-port-economic-v2",
+      "description": "Portul din Pante Macassar servește ca punct principal de aprovizionare pentru enclava Oecusse.",
+      "facts": ["Punct de aprovizionare", "Enclavă Oecusse", "Transport maritim", "Importanță regională"]
+    },
+    {
+      "id": "jardim-de-lecidere-life-v2",
+      "description": "Jardim de Lecidere este un spațiu verde popular situat de-a lungul malului mării în Dili.",
+      "facts": ["Spațiu verde", "Malul mării", "Loc de recreere", "Situat în Dili"]
+    },
+    {
+      "id": "ermera-coffee-plantations-life-v2",
+      "description": "Plantațiile de cafea din Ermera sunt inima economiei agricole a regiunii montane.",
+      "facts": ["Cultivarea cafelei", "Regiune montană", "Agricultură tradițională", "Climat fertil"]
+    },
+    {
+      "id": "cristo-rei-macaque-habitat-life-v2",
+      "description": "Zona din jurul Cristo Rei găzduiește populații locale de macaci în habitatul lor natural.",
+      "facts": ["Habitat de macaci", "Cristo Rei", "Biodiversitate", "Protecție naturală"]
+    },
+    {
+      "id": "jardim-borja-da-costa-life-v2",
+      "description": "Jardim Borja da Costa este o grădină publică amenajată, oferind un loc de odihnă în oraș.",
+      "facts": ["Grădină publică", "Spațiu amenajat", "Loc de relaxare", "Ambiantă urbană"]
+    },
+    {
+      "id": "oecusse-sandalwood-life-v2",
+      "description": "Regiunea Oecusse este istoric cunoscută pentru arborii săi de santal valoroși.",
+      "facts": ["Arbori de santal", "Resursă naturală", "Importanță istorică", "Zona Oecusse"]
+    },
+    {
+      "id": "baucau-terraces-life-v2",
+      "description": "Terasele agricole din Baucau demonstrează tehnicile tradiționale de cultivare a pământului.",
+      "facts": ["Terase agricole", "Tehnici tradiționale", "Zona Baucau", "Peisaj rural"]
+    },
+    {
+      "id": "viqueque-teak-forests-life-v2",
+      "description": "Pădurile de tec din Viqueque reprezintă o resursă importantă de lemn pentru regiune.",
+      "facts": ["Păduri de tec", "Resursă de lemn", "Zona Viqueque", "Diversitate forestieră"]
+    },
+    {
+      "id": "dili-promenade-park-life-v2",
+      "description": "Promenada din Dili este o zonă de parc litoral ideală pentru plimbări și activități sociale.",
+      "facts": ["Promenadă litorală", "Spațiu social", "Situat în Dili", "Loc de plimbare"]
+    },
+    {
+      "id": "fuiloro-plateau-farms-life-v2",
+      "description": "Platoul Fuiloro găzduiește ferme agricole productive, beneficiind de un sol fertil.",
+      "facts": ["Platou agricol", "Sol fertil", "Producție locală", "Zona Fuiloro"]
+    },
+    {
+      "id": "lake-seloi-nature-v2",
+      "description": "Lacul Seloi este o zonă umedă importantă, oferind un habitat pentru diverse specii locale.",
+      "facts": ["Lac local", "Zonă umedă", "Biodiversitate", "Habitat natural"]
+    },
+    {
+      "id": "com-coast-relief-v2",
+      "description": "Coasta din jurul localității Com prezintă formațiuni geologice și plaje pitorești.",
+      "facts": ["Zonă de coastă", "Formațiuni geologice", "Plaje pitorești", "Regiune litorală"]
+    }
+  ]
+}

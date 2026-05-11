@@ -472,7 +472,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Isangi is a town located at the confluence of the Lomami and Congo rivers, in the Tshopo province. The area is renowned for its ecological importance and for the diversity of its fluvial landscapes. It is a regional center that supports local communities through fishing, agriculture, and river trade. Its unique geographical position, at the intersection of major water courses, makes it an important node in the transport network of the northern part of the country. Geography K7 — hydrography and ecosystems."
     },
     factsAdvanced: {
-      en: ["Located at the confluence of the Lomami and Congo rivers.", "Regional center for fishing and agriculture.", "Important node for river transport in Tshopo.", "High ecological importance due to the confluence.", "Local communities closely linked to life on the river.", "Humid tropical climate specific to the central basin."]
+      en: ["Located at the confluence of the Lomami and Congo rivers.", "Important node for river transport in Tshopo.", "High ecological importance due to the confluence.", "Local communities closely linked to life on the river.", "Humid tropical climate specific to the central basin."]
     },
     
     
@@ -637,7 +637,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Niangara is a historical town on the Uele River in Haut-Uele province. Historically significant as a major administrative post in the Uele basin, the town has long served as a center for trade and cultural exchange among the diverse ethnic groups in the north. Its past is deeply rooted in the colonial history of the region and its role as a social and administrative anchor for the surrounding rural communities. The landscape, surrounded by savannas and forests, reflects the environmental diversity of the northern Congolese region. History K8 — ethnography and colonial history."
     },
     factsAdvanced: {
-      en: ["Historically significant post in the Uele basin.", "Center for trade and cultural exchange between diverse ethnic groups.", "Deeply influenced by the historical colonial administrative presence.", "Serves as a regional anchor for surrounding rural communities.", "Surrounded by a mix of savanna and dense forest ecosystems.", "Regionally important for social and administrative cohesion."]
+      en: ["Center for trade and cultural exchange between diverse ethnic groups.", "Deeply influenced by the historical colonial administrative presence.", "Serves as a regional anchor for surrounding rural communities.", "Surrounded by a mix of savanna and dense forest ecosystems.", "Regionally important for social and administrative cohesion."]
     },
     
   },
@@ -670,7 +670,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Dungu is strategically located at the confluence of the Dungu and Kibali rivers in the northeastern part of the Democratic Republic of the Congo. The town serves as a vital gateway to the Garamba National Park, which is known for its ecological importance and wildlife diversity. Dungu's importance has grown as a regional humanitarian hub, providing essential services to the communities in this border area. The surrounding landscape, characterized by tropical savanna, provides a unique environment for both wildlife and human activity, making it a crucial point for ecological study and conservation. Nature K6 — protected areas."
     },
     factsAdvanced: {
-      en: ["Gateway to the Garamba National Park.", "Strategically located in the northeastern part of the country.", "Serves as an essential regional humanitarian hub.", "Located near protected natural areas.", "Area of significant ecological and environmental study.", "Climate is typically tropical, shaped by the savanna ecosystem."]
+      en: ["Strategically located in the northeastern part of the country.", "Serves as an essential regional humanitarian hub.", "Located near protected natural areas.", "Area of significant ecological and environmental study.", "Climate is typically tropical, shaped by the savanna ecosystem."]
     },
     
   },
@@ -1086,7 +1086,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Moba is a harbor town situated on the western shore of Lake Tanganyika, functioning as an essential port for the region. The lake is a primary source of sustenance for the local population and acts as a significant transport artery for trade with neighboring nations. Historically known as Baudoinville, the town sits at the foot of a high plateau, providing a unique geographical profile that defines its maritime and regional importance. Moba remains a key maritime node, vital for both the fishing industry and the international exchange of goods across the great lake. Geography K7 — lake-based logistics."
     },
     factsAdvanced: {
-      en: ["Harbor town located on the western shore of Lake Tanganyika.", "Essential port for regional maritime logistics.", "Lake serves as a primary source of sustenance and transport.", "Historically known as Baudoinville.", "Situated at the foot of a high plateau, influencing its local climate.", "Important node for fishing and international trade exchanges."]
+      en: ["Harbor town located on the western shore of Lake Tanganyika.", "Essential port for regional maritime logistics.", "Lake serves as a primary source of sustenance and transport.", "Situated at the foot of a high plateau, influencing its local climate.", "Important node for fishing and international trade exchanges."]
     },
     
   },
@@ -1118,7 +1118,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Pweto is situated at the northern end of Lake Mweru, near the border with Zambia. The town's location at the confluence of the Luvua River and Lake Mweru makes it a significant site for both fishing and regional trade. Pweto acts as an essential border location, facilitating the exchange of goods and providing vital services for the communities in this border area. Its modern airport and strategic importance in the regional economy make it a key gateway in the Haut-Katanga province, deeply connected to both Congolese and Zambian economic activity. Geography K7 — border regions and water transport."
     },
     factsAdvanced: {
-      en: ["Situated at the northern end of Lake Mweru, along the Luvua river.", "Strategically located at the border with Zambia.", "Significant center for the fishing industry on Lake Mweru.", "Vital border location facilitating regional economic exchange.", "Equipped with a modern airport, enhancing its regional connectivity.", "Key gateway in the Haut-Katanga province."]
+      en: ["Situated at the northern end of Lake Mweru, along the Luvua river.", "Strategically located at the border with Zambia.", "Vital border location facilitating regional economic exchange.", "Equipped with a modern airport, enhancing its regional connectivity.", "Key gateway in the Haut-Katanga province."]
     },
     
   },
@@ -1150,7 +1150,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Kambove is a historical mining town located in the heart of the Katanga region, Haut-Katanga province. Economically and historically, it is profoundly linked to the copper and cobalt mining sectors, which have long been the pillars of the provincial development. Kambove remains home to important ore processing facilities, maintaining its position as a central player in the regional industry. As one of the oldest mining settlements in the region, it provides valuable insights into the industrial evolution of the Congolese mining sector and the ongoing economic activities in this wealthy mineral province. Economy K8 — mining history and industry."
     },
     factsAdvanced: {
-      en: ["Historical mining town in Haut-Katanga province.", "Profoundly linked to the regional copper and cobalt mining sectors.", "Home to major ore processing facilities.", "One of the oldest and most significant mining settlements in the region.", "Central player in the ongoing regional mineral industry.", "Industrial activity is the primary driver of the local economy."]
+      en: ["Historical mining town in Haut-Katanga province.", "Profoundly linked to the regional copper and cobalt mining sectors.", "One of the oldest and most significant mining settlements in the region.", "Central player in the ongoing regional mineral industry.", "Industrial activity is the primary driver of the local economy."]
     },
     
   },
@@ -1313,7 +1313,7 @@ export const poiExtraDemocraticrepublicofcongoCitiesV2: POI[] = [
       en: "Luputa is a town located along the major railway line in the Lomami province. Its development has been primarily driven by its role as a key stop for freight traffic, providing a central location for the collection and distribution of local agricultural goods. Surrounded by savanna land, the town plays a strategic role in the regional logistical network, ensuring that commodities produced in the surrounding areas are efficiently transported to larger centers. Luputa stands as a functional node, illustrating the crucial role of infrastructure in rural Congolese development. Geography K7 — transport and logistics."
     },
     factsAdvanced: {
-      en: ["Strategically located along the major railway line in Lomami.", "Acts as a key stop for freight traffic within the province.", "Central location for the collection and distribution of agricultural goods.", "Surrounded by vast savanna land.", "Plays a strategic role in the regional logistical network.", "Functional node for rural development and transport."]
+      en: ["Strategically located along the major railway line in Lomami.", "Acts as a key stop for freight traffic within the province.", "Central location for the collection and distribution of agricultural goods.", "Plays a strategic role in the regional logistical network.", "Functional node for rural development and transport."]
     },
     
   },

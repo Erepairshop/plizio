@@ -1,0 +1,30 @@
+{
+  "lang": "de",
+  "country": "Indonesia",
+  "files": [
+    "lib/visualLab/data/poiExtraIndonesiaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraIndonesiaNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jakarta-cathedral-landmarks-v2",
+      "description": "Die Kathedrale von Jakarta ist ein neugotisches Kirchengebäude und der Sitz des römisch-katholischen Erzbischofs von Jakarta. Das heutige Gebäude wurde 1901 eingeweiht und steht direkt gegenüber der Istiqlal-Moschee als Symbol für religiöse Toleranz.",
+      "facts": [
+        "Neugotischer Baustil",
+        "1901 fertiggestellt",
+        "Gegenüber der Istiqlal-Moschee",
+        "Sitz des Erzbischofs"
+      ]
+    },
+    {
+      "id": "lake-sentani-nature-v2",
+      "description": "Der Sentani-See ist ein großer tropischer See im Nordosten von West-Papua, eingebettet in die grünen Zyklopenberge. Er ist bekannt für seine zahlreichen Inseln und die einzigartige Kultur der einheimischen Gemeinschaften, die auf Pfahlbauten leben.",
+      "facts": [
+        "Fläche von ca. 9.290 Hektar",
+        "Beherbergt 21 Inseln",
+        "Heimat seltener Fischarten",
+        "In der Nähe von Jayapura"
+      ]
+    }
+  ]
+}

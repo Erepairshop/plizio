@@ -1,0 +1,400 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cathedrale-berberati-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Sainte-Anne-Kathedrale befindet sich in Berbérati, einer der größten Städte der Zentralafrikanischen Republik, gelegen im Südwesten nahe der Grenze zu Kamerun. Sie ist der offizielle Sitz der römisch-katholischen Diözese Berbérati und stellt ein wichtiges religiöses Zentrum in der Region Mambéré-Kadéï dar. Historisch gesehen wurde die Kirche während der französischen Kolonialzeit von Missionaren aus gebranntem rotem Backstein errichtet, was ihr ein robustes und markantes Aussehen verleiht. Die Wirtschaft der Stadt ist stark vom handwerklichen Diamantenabbau sowie von der Landwirtschaft (Kaffee, Maniok) geprägt. Während der verheerenden Krise im Jahr 2013 diente das Gelände der Kathedrale als entscheidender Zufluchtsort für Tausende von Zivilisten, die vor der eskalierenden Gewalt der Milizen flohen. Die lokalen Geistlichen spielten eine zentrale Rolle beim Schutz der Vertriebenen. Heute ist die Kathedrale ein wichtiges Symbol des Friedens, auch wenn die Region weiterhin mit enormen infrastrukturellen Defiziten und Armut zu kämpfen hat.",
+        "hu": "A Sainte-Anne katedrális Berbératiban, a Közép-afrikai Köztársaság egyik legnagyobb városában található, az ország délnyugati részén, a kameruni határ közelében. A berbérati római katolikus egyházmegye hivatalos székhelye, és a Mambéré-Kadéï régió fontos vallási központja. Történelmileg a templomot a francia gyarmati időszakban építették misszionáriusok égetett vörös téglából, ami robusztus és feltűnő megjelenést kölcsönöz neki. A város gazdaságát erősen meghatározza a kézműves gyémántbányászat, valamint a mezőgazdaság (kávé, manióka). A 2013-as pusztító válság idején a katedrális területe döntő menedékhelyként szolgált civilek ezrei számára, akik a fegyveres milíciák eszkalálódó erőszakja elől menekültek. A helyi papok központi szerepet játszottak a lakóhelyüket elhagyni kényszerültek védelmében. Ma a katedrális a béke fontos szimbóluma, még akkor is, ha a régió továbbra is hatalmas infrastrukturális hiányosságokkal küzd.",
+        "ro": "Catedrala Sainte-Anne este situată în Berbérati, unul dintre cele mai mari orașe din Republica Centrafricană, în sud-vestul țării, lângă granița cu Camerun. Este sediul oficial al Diecezei Romano-Catolice de Berbérati și un centru religios important în regiunea Mambéré-Kadéï. Istoric, biserica a fost construită în perioada colonială franceză de către misionari, folosind cărămidă roșie arsă, ceea ce îi conferă un aspect robust și distinctiv. Economia orașului este puternic influențată de extracția artizanală a diamantelor și de agricultură (cafea, manioc). În timpul crize devastatoare din 2013, incinta catedralei a servit drept refugiu crucial pentru mii de civili care fugeau de violența escaladată a milițiilor. Clericii locali au jucat un rol central în protejarea persoanelor strămutate. Astăzi, catedrala este un simbol important al păcii, deși regiunea continuă să se confrunte cu deficite infrastructurale masive și sărăcie.",
+        "en": "The Sainte-Anne Cathedral is located in Berbérati, one of the largest cities in the Central African Republic, situated in the southwest near the border with Cameroon. It is the official seat of the Roman Catholic Diocese of Berbérati and represents an important religious center in the Mambéré-Kadéï region. Historically, the church was built during the French colonial period by missionaries using fired red brick, giving it a robust and striking appearance. The city's economy is heavily defined by artisanal diamond mining as well as agriculture (coffee, cassava). During the devastating crisis in 2013, the cathedral grounds served as a crucial sanctuary for thousands of civilians fleeing the escalating violence of armed militias. Local clergy played a central role in protecting the displaced persons. Today, the cathedral stands as an important symbol of peace, even as the region continues to struggle with massive infrastructural deficits and severe poverty."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Sie befindet sich in der südwestlichen Stadt Berbérati.",
+          "Das Gebäude wurde historisch aus rotem Backstein errichtet.",
+          "Es ist der offizielle Sitz der lokalen katholischen Diözese.",
+          "Die umliegende Wirtschaft basiert stark auf Diamantenabbau.",
+          "Während des Bürgerkriegs bot die Kirche vielen Zuflucht."
+        ],
+        "hu": [
+          "A délnyugati Berbérati városában helyezkedik el.",
+          "Az épület történelmileg jellegzetes vörös téglából épült.",
+          "Ez a helyi katolikus egyházmegye hivatalos központja.",
+          "A környező gazdaság erősen a gyémántbányászatra épül.",
+          "A polgárháború alatt a templom sokaknak nyújtott menedéket."
+        ],
+        "ro": [
+          "Este situată în orașul Berbérati din sud-vestul țării.",
+          "Clădirea a fost construită istoric din cărămidă roșie.",
+          "Este sediul oficial al diecezei catolice locale.",
+          "Economia înconjurătoare se bazează pe mineritul de diamante.",
+          "În timpul războiului civil, biserica a oferit un refugiu sigur."
+        ],
+        "en": [
+          "It is located in the southwestern city of Berbérati.",
+          "The building was historically constructed from red brick.",
+          "It operates as the official seat of the local Catholic diocese.",
+          "The surrounding economy relies heavily on diamond mining.",
+          "During the civil war, the church provided refuge to many."
+        ]
+      }
+    },
+    {
+      "id": "mission-bossangoa-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Missionskirche von Bossangoa ist das spirituelle und architektonische Zentrum der Präfektur Ouham im Nordwesten der Zentralafrikanischen Republik. Die historische Mission wurde während der Kolonialzeit gegründet und entwickelte sich schnell zu einem wichtigen Knotenpunkt für Bildung und Gesundheitsversorgung in der überwiegend landwirtschaftlich geprägten Region. Die Wirtschaft von Bossangoa basierte traditionell auf dem intensiven Anbau von Baumwolle und Kaffee, Sektoren, die jedoch durch jahrzehntelange politische Instabilität fast vollständig zusammengebrochen sind. Während der sektiererischen Gewalt in den Jahren 2013 und 2014 wurde das weitläufige Gelände der Mission zu einem improvisierten, stark überfüllten Flüchtlingslager. Mehr als 30.000 christliche Zivilisten suchten hier unter extrem prekären hygienischen Bedingungen Schutz vor den Angriffen der Séléka-Rebellen. Die Mission von Bossangoa steht heute als Mahnmal für die humanitären Krisen des Landes, aber auch als Zeugnis der Widerstandsfähigkeit der lokalen Gemeinschaften.",
+        "hu": "A bossangoai missziós templom az Ouham prefektúra spirituális és építészeti központja a Közép-afrikai Köztársaság északnyugati részén. A történelmi missziót a gyarmati időszakban alapították, és gyorsan az oktatás és az egészségügy fontos csomópontjává vált a túlnyomórészt mezőgazdasági régióban. Bossangoa gazdasága hagyományosan az intenzív gyapot- és kávétermesztésen alapult, de ezek a szektorok a több évtizedes politikai instabilitás miatt szinte teljesen összeomlottak. A 2013-as és 2014-es szektás erőszak idején a misszió kiterjedt területe rögtönzött, rendkívül túlzsúfolt menekülttáborrá változott. Több mint 30 000 keresztény civil keresett itt menedéket a Séléka lázadók támadásai elől, extrém rossz higiéniai körülmények között. A bossangoai misszió ma az ország humanitárius válságainak emlékműve, de egyben a helyi közösségek figyelemre méltó ellenálló képességének bizonyítéka is.",
+        "ro": "Biserica Misiunii din Bossangoa este centrul spiritual și arhitectural al prefecturii Ouham din nord-vestul Republicii Centrafricane. Misiunea istorică a fost fondată în perioada colonială și s-a transformat rapid într-un nod important pentru educație și asistență medicală în această regiune predominant agricolă. Economia din Bossangoa s-a bazat în mod tradițional pe cultivarea intensivă a bumbacului și a cafelei, sectoare care s-au prăbușit aproape complet din cauza deceniilor de instabilitate politică. În timpul violențelor sectare din 2013 și 2014, terenurile extinse ale misiunii au devenit o tabără de refugiați improvizată, extrem de supraaglomerată. Peste 30.000 de civili creștini au căutat refugiu aici din calea atacurilor rebelilor Séléka, trăind în condiții de igienă extrem de precare. Astăzi, misiunea din Bossangoa reprezintă un monument al crizelor umanitare ale țării, dar și o dovadă a rezilienței comunităților locale.",
+        "en": "The Mission Church of Bossangoa is the spiritual and architectural center of the Ouham prefecture in the northwestern Central African Republic. The historical mission was founded during the colonial era and quickly developed into a vital hub for education and healthcare in the predominantly agricultural region. Bossangoa's economy traditionally relied on the intensive cultivation of cotton and coffee, sectors that have almost completely collapsed due to decades of political instability. During the sectarian violence of 2013 and 2014, the extensive grounds of the mission were transformed into an improvised, massively overcrowded refugee camp. More than 30,000 Christian civilians sought refuge here from the attacks of the Séléka rebels, living under extremely precarious sanitary conditions. Today, the Bossangoa mission stands as a stark memorial to the country's humanitarian crises, but also as a testament to the remarkable resilience of the local communities."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Mission liegt in Bossangoa im Nordwesten des Landes.",
+          "Sie war historisch wichtig für lokale Bildung und Medizin.",
+          "Die lokale Wirtschaft basierte früher auf Baumwolle.",
+          "2013 flohen über 30.000 Zivilisten auf das Gelände.",
+          "Die Einrichtung diente als massives Flüchtlingslager."
+        ],
+        "hu": [
+          "A misszió Bossangoa városában, az ország északnyugati részén áll.",
+          "Történelmileg fontos volt a helyi oktatás és egészségügy számára.",
+          "A helyi gazdaság korábban az intenzív gyapottermesztésre épült.",
+          "2013-ban több mint 30 000 civil menekült az épületkomplexumba.",
+          "A terület a konfliktusok alatt hatalmas menekülttáborként szolgált."
+        ],
+        "ro": [
+          "Misiunea se află în Bossangoa, în nord-vestul țării.",
+          "A fost istoric importantă pentru educația și medicina locală.",
+          "Economia locală se baza în trecut pe cultivarea bumbacului.",
+          "În 2013, peste 30.000 de civili au fugit în acest complex.",
+          "Facilitatea a servit drept o tabără masivă de refugiați."
+        ],
+        "en": [
+          "The mission is located in Bossangoa in the country's northwest.",
+          "It was historically vital for local education and healthcare.",
+          "The local economy formerly relied heavily on cotton farming.",
+          "In 2013, over 30,000 civilians fled onto the mission grounds.",
+          "The facility served as a massive, improvised refugee camp."
+        ]
+      }
+    },
+    {
+      "id": "monument-unite-sibut-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Einheitsmonument (Monument de l'Unité) befindet sich in Sibut, der Hauptstadt der Präfektur Kémo in der Zentralafrikanischen Republik. Die Stadt Sibut ist geografisch und strategisch von immenser Bedeutung, da sie an der wichtigsten Verkehrsader des Landes liegt, die die Hauptstadt Bangui mit den nördlichen und östlichen Provinzen verbindet. Das Monument wurde errichtet, um den nationalen Zusammenhalt in einem Land zu symbolisieren, das historisch von ethnischer Fragmentierung und bewaffneten Konflikten tief zerrissen ist. Architektonisch ist es eher schlicht gehalten, fungiert aber als wichtiges lokales Wahrzeichen. Die Wirtschaft in Sibut und der direkten Umgebung um das Monument ist stark auf den Transitverkehr und den informellen Handel ausgerichtet. Zahlreiche Reisende und Lastwagenfahrer auf der Hauptroute Route Nationale 2 machen hier Halt, was einen lokalen Markt für Lebensmittel und Dienstleistungen geschaffen hat. Während der jüngsten Bürgerkriege war Sibut aufgrund seiner geografischen Schlüsselposition häufig Schauplatz militärischer Auseinandersetzungen zwischen Regierungstruppen und Rebellenallianzen.",
+        "hu": "Az Egység Emlékműve (Monument de l'Unité) Sibutban, a Közép-afrikai Köztársaság Kémo prefektúrájának fővárosában található. Sibut városa földrajzilag és stratégiailag óriási jelentőségű, mivel az ország legfontosabb közlekedési ütőerén fekszik, amely a fővárost, Banguit köti össze az északi és keleti tartományokkal. Az emlékművet azért emelték, hogy a nemzeti összetartást szimbolizálja egy olyan országban, amelyet történelmileg mélyen szétszakított az etnikai töredezettség és a fegyveres konfliktusok. Építészetileg meglehetősen egyszerű, de fontos helyi tájékozódási pontként funkcionál. Sibut és az emlékmű közvetlen környezetének gazdasága erősen a tranzitforgalomra és az informális kereskedelemre épül. A Route Nationale 2 főútvonalon közlekedő számos utazó és teherautó-sofőr áll meg itt, ami egy helyi élelmiszer- és szolgáltatáspiacot hozott létre. A legutóbbi polgárháborúk során Sibut kulcsfontosságú földrajzi helyzete miatt gyakran volt a kormánycsapatok és a lázadó szövetségek közötti katonai összecsapások színtere.",
+        "ro": "Monumentul Unității (Monument de l'Unité) se află în Sibut, capitala prefecturii Kémo din Republica Centrafricană. Orașul Sibut are o importanță geografică și strategică imensă, fiind situat pe cea mai importantă arteră de transport a țării, care leagă capitala Bangui de provinciile din nord și est. Monumentul a fost ridicat pentru a simboliza coeziunea națională într-o țară profund sfâșiată istoric de fragmentarea etnică și de conflictele armate. Din punct de vedere arhitectural, este destul de simplu, dar funcționează ca un punct de reper local important. Economia din Sibut și din imediata vecinătate a monumentului este puternic orientată spre traficul de tranzit și comerțul informal. Numeroși călători și șoferi de camioane de pe ruta principală Route Nationale 2 se opresc aici, ceea ce a creat o piață locală de alimente și servicii. În timpul recentelor războaie civile, Sibut a fost frecvent scena ciocnirilor militare din cauza poziției sale cheie.",
+        "en": "The Unity Monument (Monument de l'Unité) is located in Sibut, the capital of the Kémo prefecture in the Central African Republic. The city of Sibut is of immense geographical and strategic importance, as it lies on the country's most vital transport artery connecting the capital, Bangui, with the northern and eastern provinces. The monument was erected to symbolize national cohesion in a country historically deeply torn apart by ethnic fragmentation and armed conflict. Architecturally, it is rather simple but functions as an important local landmark. The economy in Sibut and the immediate vicinity around the monument is heavily focused on transit traffic and informal trade. Numerous travelers and truck drivers on the main Route Nationale 2 stop here, creating a local market for food and services. During the recent civil wars, Sibut was frequently the scene of military clashes between government troops and rebel alliances due to its highly critical geographical position."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Denkmal befindet sich in der wichtigen Transitstadt Sibut.",
+          "Es symbolisiert die erhoffte nationale Einheit des Landes.",
+          "Sibut liegt an der Hauptstraße in den Norden und Osten.",
+          "Die lokale Wirtschaft lebt extrem stark vom LKW-Verkehr.",
+          "Wegen der Lage war die Stadt oft stark umkämpft."
+        ],
+        "hu": [
+          "Az emlékmű a stratégiai fontosságú tranzitvárosban, Sibutban áll.",
+          "Az építmény az ország remélt nemzeti egységét szimbolizálja.",
+          "Sibut az északra és keletre vezető fő közlekedési útvonalon fekszik.",
+          "A helyi gazdaság rendkívül erősen a kamionforgalomból él.",
+          "Fekvése miatt a város nagyon gyakran volt fegyveres harcok színtere."
+        ],
+        "ro": [
+          "Monumentul este situat în importantul oraș de tranzit Sibut.",
+          "Simbolizează unitatea națională mult dorită a țării.",
+          "Sibut este pe drumul principal spre nord și est.",
+          "Economia locală depinde extrem de mult de traficul de camioane.",
+          "Datorită locației sale, orașul a fost adesea intens disputat."
+        ],
+        "en": [
+          "The monument is located in the vital transit city of Sibut.",
+          "It officially symbolizes the hoped-for national unity of the country.",
+          "Sibut is situated on the main road to the north and east.",
+          "The local economy depends extremely heavily on truck traffic.",
+          "Due to its location, the city was frequently heavily contested."
+        ]
+      }
+    },
+    {
+      "id": "centre-culturel-francais-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Centre Culturel Français (heute oft Alliance Française) in Bangui ist die prominenteste Einrichtung für internationale kulturelle Diplomatie in der Zentralafrikanischen Republik. Das Zentrum befindet sich in einem gesicherten Viertel der Hauptstadt und bietet eine der wenigen modernen öffentlichen Bibliotheken des Landes, Ausstellungsräume und einen Veranstaltungssaal. Historisch gesehen repräsentiert es die tiefe, aber auch komplexe postkoloniale Bindung zwischen der Zentralafrikanischen Republik und der ehemaligen Kolonialmacht Frankreich. Wirtschaftlich spielt das Zentrum eine indirekte Rolle, indem es Französischkurse anbietet, die für die lokale Jugend oft die einzige Möglichkeit sind, sich für internationale Stipendien oder Jobs bei Nichtregierungsorganisationen (NGOs) zu qualifizieren. In einem Land, in dem der Bildungssektor chronisch unterfinanziert ist und staatliche Kulturförderung fast völlig fehlt, ist das CCF eine unverzichtbare intellektuelle Oase. Es organisiert regelmäßig Filmvorführungen, Konzerte lokaler Künstler und Literaturdebatten, was es zu einem wichtigen sozialen Knotenpunkt für die urbane Elite und Studenten macht.",
+        "hu": "A bangui Centre Culturel Français (ma gyakran Alliance Française) a nemzetközi kulturális diplomácia legkiemelkedőbb intézménye a Közép-afrikai Köztársaságban. A központ a főváros egyik biztonságos negyedében található, és az ország kevés modern nyilvános könyvtárának egyikét, valamint kiállítótereket és egy rendezvénytermet is kínál. Történelmileg a Közép-afrikai Köztársaság és a volt gyarmattartó hatalom, Franciaország közötti mély, de egyben összetett posztkoloniális kötődést képviseli. Gazdasági szempontból a központ közvetett szerepet játszik azáltal, hogy francia nyelvtanfolyamokat kínál, amelyek a helyi fiatalok számára gyakran az egyetlen lehetőséget jelentik arra, hogy nemzetközi ösztöndíjakra vagy civil szervezeteknél (NGO) lévő állásokra kvalifikálják magukat. Egy olyan országban, ahol az oktatási ágazat krónikusan alulfinanszírozott, és az állami kulturális támogatás szinte teljesen hiányzik, a CCF egy nélkülözhetetlen szellemi oázis. Rendszeresen szervez filmvetítéseket, helyi művészek koncertjeit és irodalmi vitákat.",
+        "ro": "Centre Culturel Français (astăzi adesea Alliance Française) din Bangui este cea mai proeminentă instituție pentru diplomația culturală internațională din Republica Centrafricană. Centrul este situat într-un cartier securizat al capitalei și oferă una dintre puținele biblioteci publice moderne din țară, spații expoziționale și o sală de evenimente. Din punct de vedere istoric, reprezintă legătura postcolonială profundă, dar și complexă, dintre Republica Centrafricană și fosta putere colonială, Franța. Economic, centrul joacă un rol indirect oferind cursuri de limba franceză, care reprezintă adesea singura modalitate pentru tinerii locali de a se califica pentru burse internaționale sau locuri de muncă în ONG-uri. Într-o țară în care sectorul educațional este subfinanțat cronic, iar finanțarea culturală de stat lipsește aproape complet, CCF este o oază intelectuală indispensabilă. Organizează proiecții de filme, concerte ale artiștilor locali și dezbateri literare.",
+        "en": "The Centre Culturel Français (now often Alliance Française) in Bangui is the most prominent institution for international cultural diplomacy in the Central African Republic. Located in a secured neighborhood of the capital, the center offers one of the country's few modern public libraries, exhibition spaces, and an event hall. Historically, it represents the deep yet complex post-colonial bond between the Central African Republic and its former colonial power, France. Economically, the center plays an indirect role by offering French language courses, which are often the only way for local youth to qualify for international scholarships or jobs with non-governmental organizations (NGOs). In a country where the education sector is chronically underfunded and state cultural funding is almost entirely absent, the CCF is an indispensable intellectual oasis. It regularly organizes film screenings, concerts by local artists, and literary debates, making it a crucial social hub for the urban elite and university students."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Es ist das wichtigste internationale Kulturzentrum in Bangui.",
+          "Das Zentrum bietet eine der wenigen modernen Bibliotheken.",
+          "Es symbolisiert die postkoloniale Verbindung zu Frankreich.",
+          "Die angebotenen Sprachkurse sind wichtig für NGOs-Jobs.",
+          "Das Zentrum organisiert regelmäßig lokale Kunstausstellungen."
+        ],
+        "hu": [
+          "Ez a legfontosabb nemzetközi kulturális intézmény Banguiban.",
+          "A központ az ország egyik ritka, modern könyvtárát működteti.",
+          "A Franciaországhoz fűződő posztkoloniális kapcsolatot jelképezi.",
+          "Az itteni nyelvtanfolyamok fontosak az NGO-állásokhoz.",
+          "A központ rendszeresen szervez helyi művészeti kiállításokat."
+        ],
+        "ro": [
+          "Este cel mai important centru cultural internațional din Bangui.",
+          "Centrul operează una dintre puținele biblioteci moderne.",
+          "Simbolizează puternica conexiune postcolonială cu Franța.",
+          "Cursurile de limbă oferite sunt esențiale pentru joburile ONG.",
+          "Centrul organizează în mod regulat expoziții de artă locale."
+        ],
+        "en": [
+          "It is the most important international cultural center in Bangui.",
+          "The center operates one of the very few modern libraries.",
+          "It strongly symbolizes the post-colonial connection to France.",
+          "The language courses offered are vital for securing NGO jobs.",
+          "The center regularly organizes exhibitions for local artists."
+        ]
+      }
+    },
+    {
+      "id": "palais-de-la-cemac-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der CEMAC-Palast (Palais de la CEMAC) in Bangui ist der offizielle Hauptsitz der Zentralafrikanischen Wirtschafts- und Währungsgemeinschaft (Communauté Économique et Monétaire de l'Afrique Centrale). Bangui wurde als Verwaltungshauptstadt dieser entscheidenden regionalen Organisation ausgewählt, die sechs Mitgliedsstaaten umfasst: Kamerun, Tschad, Gabun, Äquatorialguinea, die Republik Kongo und die Zentralafrikanische Republik. Das Gebäude zeichnet sich durch seine moderne, repräsentative Architektur aus, die sich deutlich von der restlichen städtischen Infrastruktur Banguis abhebt. Wirtschaftlich ist die Präsenz der CEMAC von enormer Bedeutung für Bangui, da sie diplomatisches Personal anzieht und den formellen Dienstleistungssektor der Stadt stärkt. Die Organisation verwaltet die gemeinsame Währung, den CFA-Franc, und fördert die regionale Wirtschaftsintegration. Historisch bedingt mussten die CEMAC-Büros aufgrund des Bürgerkriegs 2013 zeitweise nach Libreville, Gabun, evakuiert werden, bevor sie in den letzten Jahren nach Bangui zurückkehrten. Dies unterstreicht die massiven politischen Herausforderungen, denen sich die Region gegenübersieht.",
+        "hu": "A bangui CEMAC-palota a Közép-afrikai Gazdasági és Monetáris Közösség (Communauté Économique et Monétaire de l'Afrique Centrale) hivatalos központja. Banguit választották ennek a döntő fontosságú regionális szervezetnek a közigazgatási fővárosává, amely hat tagállamot foglal magában: Kamerunt, Csádot, Gabont, Egyenlítői-Guineát, a Kongói Köztársaságot és a Közép-afrikai Köztársaságot. Az épület modern, reprezentatív építészetével tűnik ki, amely éles kontrasztot alkot Bangui többi városi infrastruktúrájával. Gazdasági szempontból a CEMAC jelenléte óriási jelentőségű Bangui számára, mivel diplomáciai személyzetet vonz, és erősíti a város formális szolgáltatási szektorát. A szervezet kezeli a közös valutát, a CFA-frankot, és elősegíti a regionális gazdasági integrációt. Történelmi okokból, a 2013-as polgárháború miatt a CEMAC irodáit ideiglenesen a gaboni Libreville-be kellett evakuálni, mielőtt az elmúlt években visszatértek volna Banguiba. Ez jól mutatja azokat a hatalmas politikai kihívásokat, amelyekkel a régió szembesül.",
+        "ro": "Palatul CEMAC (Palais de la CEMAC) din Bangui este sediul oficial al Comunității Economice și Monetare a Africii Centrale. Bangui a fost aleasă drept capitala administrativă a acestei organizații regionale cruciale, care cuprinde șase state membre: Camerun, Ciad, Gabon, Guineea Ecuatorială, Republica Congo și Republica Centrafricană. Clădirea se remarcă prin arhitectura sa modernă și reprezentativă, care contrastează puternic cu restul infrastructurii urbane din Bangui. Din punct de vedere economic, prezența CEMAC este de o importanță imensă pentru Bangui, deoarece atrage personal diplomatic și consolidează sectorul formal al serviciilor din oraș. Organizația gestionează moneda comună, francul CFA, și promovează integrarea economică regională. Din cauza războiului civil din 2013, birourile CEMAC au trebuit să fie evacuate temporar la Libreville, Gabon, înainte de a se întoarce la Bangui în ultimii ani. Acest lucru subliniază provocările politice masive din regiune.",
+        "en": "The CEMAC Palace (Palais de la CEMAC) in Bangui is the official headquarters of the Central African Economic and Monetary Community (Communauté Économique et Monétaire de l'Afrique Centrale). Bangui was selected as the administrative capital of this crucial regional organization, which comprises six member states: Cameroon, Chad, Gabon, Equatorial Guinea, the Republic of Congo, and the Central African Republic. The building stands out with its modern, representative architecture, which contrasts sharply with the rest of Bangui's urban infrastructure. Economically, the presence of CEMAC is of immense importance to Bangui, as it attracts diplomatic personnel and bolsters the city's formal service sector. The organization manages the common currency, the CFA franc, and promotes regional economic integration. Historically, due to the 2013 civil war, the CEMAC offices had to be temporarily evacuated to Libreville, Gabon, before returning to Bangui in recent years. This relocation underscores the massive political security challenges the region faces."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude ist das Hauptquartier der regionalen CEMAC.",
+          "Sechs zentralafrikanische Staaten gehören der Organisation an.",
+          "Die CEMAC verwaltet die gemeinsame Währung, den CFA-Franc.",
+          "Wegen Unruhen 2013 wurde der Sitz zeitweise nach Gabun verlegt.",
+          "Die moderne Architektur hebt sich stark von Bangui ab."
+        ],
+        "hu": [
+          "Az épület a regionális CEMAC szervezet hivatalos központja.",
+          "Hat közép-afrikai ország alkotja magát a szervezet tagságát.",
+          "A CEMAC kezeli a közös regionális valutát, a CFA-frankot.",
+          "A 2013-as zavargások miatt a központot Gabonba menekítették.",
+          "A modern építészet nagyon elüt Bangui többi részétől."
+        ],
+        "ro": [
+          "Clădirea este sediul oficial al organizației regionale CEMAC.",
+          "Șase țări din Africa Centrală fac parte din această organizație.",
+          "CEMAC gestionează și emite moneda comună, francul CFA.",
+          "Din cauza revoltelor din 2013, sediul a fost mutat temporar.",
+          "Arhitectura modernă iese puternic în evidență în Bangui."
+        ],
+        "en": [
+          "The building serves as the headquarters of the regional CEMAC.",
+          "Six Central African nations are official members of the organization.",
+          "CEMAC completely manages the common currency, the CFA franc.",
+          "Due to the 2013 riots, the headquarters was temporarily evacuated.",
+          "The highly modern architecture stands out sharply in Bangui."
+        ]
+      }
+    },
+    {
+      "id": "monument-boganda-bobangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Boganda-Monument befindet sich in Bobangui, einem kleinen Dorf in der südlichen Präfektur Lobaye. Dieser Ort ist von tiefgreifender historischer und nationaler Bedeutung, da es der Geburtsort von Barthélemy Boganda ist, dem ersten Premierminister und Nationalhelden der Zentralafrikanischen Republik, der das Land zur Unabhängigkeit führte. Das Monument wurde errichtet, um sein politisches Erbe und seine Vision einer geeinten zentralafrikanischen Nation zu ehren, bevor er 1959 bei einem bis heute umstrittenen Flugzeugabsturz ums Leben kam. Architektonisch ist die Gedenkstätte relativ einfach gehalten, eingebettet in die dichte tropische Vegetation der Lobaye-Region. Wirtschaftlich ist die Gegend um Bobangui stark landwirtschaftlich geprägt; die lokale Bevölkerung lebt vom Anbau von Kaffee und der traditionellen Jagd in den Regenwäldern. Obwohl die Stätte theoretisch touristisches Potenzial für den Inlandstourismus hätte, verhindert die generell schwache Infrastruktur des Landes einen nennenswerten Besucherstrom, wodurch das Monument vor allem ein Ort offizieller staatlicher Pilgerfahrten an nationalen Feiertagen bleibt.",
+        "hu": "A Boganda Emlékmű Bobanguiban, egy kis faluban található a déli Lobaye prefektúrában. Ez a hely mély történelmi és nemzeti jelentőséggel bír, mivel itt született Barthélemy Boganda, a Közép-afrikai Köztársaság első miniszterelnöke és nemzeti hőse, aki a függetlenség felé vezette az országot. Az emlékművet azért emelték, hogy tisztelegjenek politikai öröksége és egy egységes közép-afrikai nemzetről szóló víziója előtt, mielőtt 1959-ben egy máig vitatott repülőgép-szerencsétlenségben életét vesztette. Építészetileg az emlékhely viszonylag egyszerű, beágyazva a Lobaye régió sűrű trópusi növényzetébe. Gazdasági szempontból Bobangui környéke erősen mezőgazdasági jellegű; a helyi lakosság kávétermesztésből és a hagyományos esőerdei vadászatból él. Bár a helyszínnek elméletileg lenne turisztikai potenciálja a belföldi turizmus számára, az ország általánosan gyenge infrastruktúrája megakadályozza a jelentős látogatói forgalmat, így az emlékmű elsősorban a nemzeti ünnepeken tartott hivatalos állami zarándoklatok helyszíne marad.",
+        "ro": "Monumentul Boganda este situat în Bobangui, un mic sat din prefectura sudică Lobaye. Această locație are o importanță istorică și națională profundă, fiind locul de naștere al lui Barthélemy Boganda, primul prim-ministru și eroul național al Republicii Centrafricane, care a condus țara spre independență. Monumentul a fost ridicat pentru a onora moștenirea sa politică și viziunea sa pentru o națiune centrafricană unită, înainte ca el să moară într-un accident de avion încă disputat în 1959. Din punct de vedere arhitectural, memorialul este destul de simplu, încorporat în vegetația tropicală densă a regiunii Lobaye. Economic, zona din jurul satului Bobangui este puternic agricolă; populația locală trăiește din cultivarea cafelei și din vânătoarea tradițională în pădurile tropicale. Deși site-ul are un potențial teoretic pentru turismul intern, infrastructura slabă previne un flux semnificativ de vizitatori.",
+        "en": "The Boganda Monument is located in Bobangui, a small village in the southern Lobaye prefecture. This location is of profound historical and national importance, as it is the birthplace of Barthélemy Boganda, the first Prime Minister and national hero of the Central African Republic, who led the country toward independence. The monument was erected to honor his political legacy and his vision of a united Central African nation before he died in a still highly disputed plane crash in 1959. Architecturally, the memorial is relatively simple, embedded in the dense tropical vegetation characteristic of the Lobaye region. Economically, the area around Bobangui is heavily agricultural; the local population makes a living from cultivating coffee and traditional hunting in the rainforests. Although the site theoretically holds potential for domestic tourism, the country's generally poor road infrastructure prevents any significant influx of visitors, leaving the monument primarily as a site for official state pilgrimages on national holidays."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Monument steht im kleinen Geburtsort Bobangui.",
+          "Es ehrt den Nationalhelden Barthélemy Boganda.",
+          "Boganda führte das Land zur Unabhängigkeit von Frankreich.",
+          "Die Gedenkstätte liegt in der dichten Vegetation der Lobaye.",
+          "An nationalen Feiertagen finden hier offizielle Besuche statt."
+        ],
+        "hu": [
+          "Az emlékmű a kis szülőfaluban, Bobanguiban található.",
+          "Barthélemy Boganda nemzeti hős előtt tiszteleg az építmény.",
+          "Boganda vezette az országot a Franciaországtól való függetlenedés felé.",
+          "Az emlékhely a Lobaye régió sűrű trópusi növényzetében fekszik.",
+          "A nemzeti ünnepeken hivatalos állami küldöttségek látogatják."
+        ],
+        "ro": [
+          "Monumentul se află în micul sat natal Bobangui.",
+          "Onorează eroul național suprem Barthélemy Boganda.",
+          "Boganda a condus țara spre independența față de Franța.",
+          "Memorialul este situat în vegetația densă a regiunii Lobaye.",
+          "De sărbătorile naționale, aici au loc vizite oficiale de stat."
+        ],
+        "en": [
+          "The monument is located in the small birth village of Bobangui.",
+          "It honors the supreme national hero Barthélemy Boganda.",
+          "Boganda effectively led the country to independence from France.",
+          "The memorial is situated in the dense vegetation of the Lobaye.",
+          "On national holidays, official state delegations visit the site."
+        ]
+      }
+    },
+    {
+      "id": "siege-beac-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hauptsitz der BEAC (Banque des États de l'Afrique Centrale) in Bangui ist das nationale Zentrum für Währungspolitik und Finanzverwaltung in der Zentralafrikanischen Republik. Das imposante und architektonisch hochmoderne Gebäude im Herzen der Hauptstadt sticht als Symbol finanzieller Stabilität in einem ansonsten strukturschwachen städtischen Umfeld stark hervor. Die BEAC ist als supranationale Zentralbank für die Ausgabe und Stabilität des CFA-Franc in der gesamten CEMAC-Region verantwortlich. Die Wirtschaft der Zentralafrikanischen Republik, die massiv von Subsistenzlandwirtschaft und dem informellen Sektor abhängig ist, wird durch die Währungspolitik dieses Instituts reguliert. Historisch gesehen blieb das Gebäude selbst während der schwersten Phasen des Bürgerkriegs intakt und wurde von internationalen Kräften schwer bewacht, da die physische Sicherung der nationalen Gold- und Devisenreserven absolute Priorität hatte. Das Gebäude ist nicht für den Tourismus geöffnet, fungiert aber als essenzieller Arbeitgeber für hochqualifizierte lokale und internationale Finanzexperten.",
+        "hu": "A BEAC (Banque des États de l'Afrique Centrale) bangui központja a Közép-afrikai Köztársaság monetáris politikájának és pénzügyi igazgatásának nemzeti központja. Az impozáns és építészetileg rendkívül modern épület a főváros szívében a pénzügyi stabilitás szimbólumaként emelkedik ki az egyébként strukturálisan gyenge városi környezetből. Szupranacionális központi bankként a BEAC felelős a CFA-frank kibocsátásáért és stabilitásáért a teljes CEMAC-régióban. A Közép-afrikai Köztársaság gazdaságát, amely nagymértékben függ az önellátó mezőgazdaságtól és az informális szektortól, ezen intézmény monetáris politikája szabályozza. Történelmi szempontból az épület még a polgárháború legsúlyosabb időszakaiban is érintetlen maradt, és nemzetközi erők szigorúan őrizték, mivel a nemzeti arany- és devizatartalékok fizikai védelme abszolút prioritást élvezett. Az épület a turizmus számára nem nyitott, de nélkülözhetetlen munkáltatóként működik a magasan képzett helyi és nemzetközi pénzügyi szakemberek számára.",
+        "ro": "Sediul BEAC (Banque des États de l'Afrique Centrale) din Bangui este centrul național pentru politica monetară și administrarea financiară din Republica Centrafricană. Clădirea impunătoare și ultra-modernă din inima capitalei se distinge ca un simbol al stabilității financiare într-un mediu urban cu o infrastructură altfel slabă. În calitate de bancă centrală supranațională, BEAC este responsabilă de emisiunea și stabilitatea francului CFA în întreaga regiune CEMAC. Economia Republicii Centrafricane, care depinde masiv de agricultura de subzistență, este reglementată de politica monetară a acestei instituții. Istoric, clădirea a rămas intactă chiar și în timpul celor mai grave etape ale războiului civil și a fost puternic păzită de forțele internaționale, deoarece securizarea fizică a rezervelor naționale era o prioritate absolută. Clădirea nu este deschisă turismului, dar funcționează ca un angajator esențial pentru experții financiari locali și internaționali.",
+        "en": "The headquarters of the BEAC (Banque des États de l'Afrique Centrale) in Bangui is the national center for monetary policy and financial administration in the Central African Republic. The imposing and architecturally ultra-modern building in the heart of the capital stands out strongly as a symbol of financial stability in an otherwise structurally weak urban environment. As a supranational central bank, the BEAC is responsible for the issuance and stability of the CFA franc across the entire CEMAC region. The economy of the Central African Republic, which is heavily dependent on subsistence agriculture and the informal sector, is heavily regulated by the monetary policy of this institution. Historically, the building remained entirely intact even during the most severe phases of the civil war and was heavily guarded by international military forces, as physically securing the national gold and foreign exchange reserves was an absolute priority. The building is not open for tourism but functions as an essential employer for highly qualified local and international financial experts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das moderne Gebäude ist der Sitz der nationalen Zentralbank.",
+          "Die BEAC gibt den CFA-Franc als offizielle Währung heraus.",
+          "Das Bauwerk sticht im Stadtbild von Bangui architektonisch hervor.",
+          "Während Krisen wurde es militärisch extrem streng bewacht.",
+          "Es ist ein Zentrum für hochqualifizierte Finanzexperten."
+        ],
+        "hu": [
+          "A rendkívül modern épület a nemzeti központi bank székhelye.",
+          "A BEAC bocsátja ki a CFA-frankot, mint hivatalos valutát.",
+          "Az épület építészetileg nagyon erősen kiemelkedik a városképből.",
+          "A fegyveres válságok idején a katonaság extrém szigorral őrizte.",
+          "Ez a magasan képzett pénzügyi szakemberek helyi központja."
+        ],
+        "ro": [
+          "Clădirea ultra-modernă este sediul băncii centrale naționale.",
+          "BEAC emite și gestionează francul CFA ca monedă oficială.",
+          "Structura se evidențiază puternic în peisajul urban din Bangui.",
+          "În timpul crizelor armate, a fost păzită extrem de strict.",
+          "Este un centru pentru experți financiari foarte bine calificați."
+        ],
+        "en": [
+          "The highly modern building serves as the national central bank.",
+          "The BEAC issues and fully manages the CFA franc currency.",
+          "The structure stands out architecturally in the Bangui skyline.",
+          "During armed crises, it was guarded with extreme military strictness.",
+          "It acts as a primary hub for highly qualified financial experts."
+        ]
+      }
+    },
+    {
+      "id": "stade-honneur-bimbo-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Das Stade d'Honneur de Bimbo befindet sich in Bimbo, der zweitbevölkerungsreichsten Stadt der Zentralafrikanischen Republik und einem massiven Vorort, der südwestlich direkt an die Hauptstadt Bangui angrenzt. Das Stadion dient als wichtigstes lokales Zentrum für regionale Fußballspiele, Leichtathletikwettbewerbe und Schulsport. Historisch gesehen war die Stadt Bimbo stets ein Zentrum für Binnenmigration, weshalb die lokale Bevölkerung sehr vielfältig ist. Die Infrastruktur des Stadions ist im Vergleich zu internationalen Standards eher rudimentär, mit einfachen Betontribünen und begrenzten sanitären Anlagen. Dennoch ist das Stadion ein pulsierender Ort des sozialen Zusammenhalts. Wirtschaftlich fungieren die Spieltage als Magnet für Hunderte von Kleinhändlern, die Lebensmittel, Erfrischungsgetränke und Handwerkswaren an die begeisterten Fans verkaufen. Während der Unruhen in den letzten zehn Jahren wurde das Gelände gelegentlich zweckentfremdet, um Binnenvertriebene temporär zu versorgen, was die prekäre Realität öffentlicher Einrichtungen in der Region verdeutlicht.",
+        "hu": "A Stade d'Honneur de Bimbo Bimbóban, a Közép-afrikai Köztársaság második legnépesebb városában található, amely egy hatalmas előváros, és délnyugat felől közvetlenül a főváros, Bangui határolja. A stadion a regionális labdarúgó-mérkőzések, atlétikai versenyek és iskolai sportesemények legfontosabb helyi központjaként szolgál. Történelmileg Bimbo városa mindig is a belső migráció egyik központja volt, ezért a helyi lakosság rendkívül sokszínű. A stadion infrastruktúrája a nemzetközi szabványokhoz képest meglehetősen kezdetleges, egyszerű betonlelátókkal és korlátozott szaniter berendezésekkel. Ennek ellenére a stadion a társadalmi kohézió lüktető helyszíne. Gazdasági szempontból a meccsnapok mágnesként vonzzák a kiskereskedők százait, akik élelmiszert, frissítőket és kézműves termékeket árulnak a lelkes rajongóknak. Az elmúlt évtized zavargásai során a területet alkalmanként a belső menekültek ideiglenes ellátására is használták.",
+        "ro": "Stade d'Honneur de Bimbo se află în Bimbo, al doilea cel mai populat oraș din Republica Centrafricană și o suburbie masivă care se învecinează direct cu capitala Bangui la sud-vest. Stadionul servește drept cel mai important centru local pentru meciuri de fotbal regional, competiții de atletism și sporturi școlare. Din punct de vedere istoric, orașul Bimbo a fost întotdeauna un centru pentru migrația internă, motiv pentru care populația locală este foarte diversă. Infrastructura stadionului este destul de rudimentară în comparație cu standardele internaționale, cu tribune simple de beton și facilități sanitare limitate. Cu toate acestea, stadionul este un loc vibrant al coeziunii sociale. Din punct de vedere economic, zilele de meci acționează ca un magnet pentru sute de mici comercianți care vând alimente, băuturi răcoritoare și obiecte de artizanat. În timpul tulburărilor, terenul a fost ocazional folosit temporar pentru a găzdui persoane strămutate.",
+        "en": "The Stade d'Honneur de Bimbo is located in Bimbo, the second most populous city in the Central African Republic and a massive suburb directly bordering the capital Bangui to the southwest. The stadium serves as the most important local center for regional football matches, athletics competitions, and school sports. Historically, the city of Bimbo has always been a hub for internal migration, which is why the local population is highly diverse. The infrastructure of the stadium is rather rudimentary compared to international standards, featuring simple concrete stands and limited sanitary facilities. Nevertheless, the stadium is a pulsating site of social cohesion. Economically, match days act as a magnet for hundreds of small vendors selling food, refreshments, and handicrafts to the enthusiastic fans. During the unrest of the last decade, the grounds were occasionally repurposed to temporarily accommodate internally displaced persons, highlighting the precarious reality of public facilities in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Stadion liegt in Bimbo, dem größten Vorort von Bangui.",
+          "Es ist ein wichtiges Zentrum für lokale und regionale Sportarten.",
+          "Die Infrastruktur besteht hauptsächlich aus simplen Betontribünen.",
+          "Spieltage fördern den informellen Straßenhandel massiv.",
+          "Das Gelände diente zeitweise der Versorgung von Flüchtlingen."
+        ],
+        "hu": [
+          "A stadion Bimbóban, Bangui messze legnagyobb elővárosában van.",
+          "Fontos központja a helyi és regionális sporteseményeknek.",
+          "Az infrastruktúra főként nagyon egyszerű betonlelátókból áll.",
+          "A mérkőzések napjai hatalmas lendületet adnak az utcai árusoknak.",
+          "A területet időszakosan belső menekültek ellátására használták."
+        ],
+        "ro": [
+          "Stadionul este situat în Bimbo, cea mai mare suburbie a Bangui.",
+          "Este un centru foarte important pentru sporturile locale.",
+          "Infrastructura este formată în principal din tribune simple.",
+          "Zilele de meci stimulează masiv comerțul stradal informal.",
+          "Terenul a fost folosit temporar pentru a îngriji refugiații."
+        ],
+        "en": [
+          "The stadium is located in Bimbo, Bangui's absolute largest suburb.",
+          "It acts as a highly important center for local and regional sports.",
+          "The physical infrastructure mostly consists of simple concrete stands.",
+          "Match days massively boost the local informal street trade.",
+          "The facility was temporarily utilized to care for displaced persons."
+        ]
+      }
+    },
+    {
+      "id": "cathedrale-kaga-bandoro-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Kathedrale Sainte Thérèse de l'Enfant Jésus befindet sich in Kaga-Bandoro, der Hauptstadt der Präfektur Nana-Grébizi im zentral-nördlichen Teil der Zentralafrikanischen Republik. Sie ist das spirituelle Herz der lokalen katholischen Diözese und besticht durch eine koloniale, sehr robuste Backsteinarchitektur. Die Stadt Kaga-Bandoro ist ein traditioneller und sehr lebhafter Marktplatz, an dem Rinderzüchter aus dem Norden und Bauern aus dem Süden ihre Waren (Fleisch, Maniok, Erdnüsse) austauschen. Historisch gesehen wurde die Stadt jedoch während des Bürgerkriegs zu einer Hochburg verschiedener bewaffneter Séléka-Fraktionen. Die Kathedrale rückte dabei tragischerweise in den Mittelpunkt des Konflikts, als das angrenzende Gelände zu einem massiven Flüchtlingslager für Tausende christliche Zivilisten wurde. Die Geistlichen der Kathedrale übernahmen oft gefährliche Vermittlerrollen zwischen den Konfliktparteien. Trotz der anhaltenden wirtschaftlichen Zerstörung und mangelnden staatlichen Infrastruktur bleibt die Kathedrale ein unverzichtbares Symbol der Hoffnung und der humanitären Hilfe vor Ort.",
+        "hu": "A Sainte Thérèse de l'Enfant Jésus katedrális Kaga-Bandoróban, a Nana-Grébizi prefektúra fővárosában található, a Közép-afrikai Köztársaság középső-északi részén. A helyi katolikus egyházmegye spirituális szíve, amely gyarmati, nagyon robusztus téglaépítészetével tűnik ki. Kaga-Bandoro városa hagyományos és nagyon nyüzsgő piactér, ahol az északi szarvasmarha-tenyésztők és a déli földművesek cserélik ki áruikat (húst, maniókát, földimogyorót). Történelmileg azonban a város a polgárháború során a különböző fegyveres Séléka-frakciók fellegvárává vált. A katedrális tragikus módon a konfliktus középpontjába került, amikor a szomszédos terület több ezer keresztény civil masszív menekülttáborává alakult. A katedrális papjai gyakran vállaltak veszélyes közvetítő szerepet a konfliktusban álló felek között. A folyamatos gazdasági pusztítás és a hiányzó állami infrastruktúra ellenére a katedrális a remény és a humanitárius segítségnyújtás nélkülözhetetlen szimbóluma maradt.",
+        "ro": "Catedrala Sainte Thérèse de l'Enfant Jésus este situată în Kaga-Bandoro, capitala prefecturii Nana-Grébizi, în partea central-nordică a Republicii Centrafricane. Este inima spirituală a diecezei catolice locale și impresionează prin arhitectura sa colonială, foarte robustă, din cărămidă. Orașul Kaga-Bandoro este o piață tradițională și foarte plină de viață unde crescătorii de vite din nord și fermierii din sud își schimbă mărfurile. Din punct de vedere istoric însă, orașul a devenit un bastion al diferitelor facțiuni armate Séléka în timpul războiului civil. Catedrala a devenit în mod tragic punctul central al conflictului când terenurile adiacente s-au transformat într-o tabără masivă de refugiați pentru mii de civili creștini. Clericii catedralei și-au asumat adesea roluri periculoase de mediatori între părțile aflate în conflict. În ciuda distrugerii economice, catedrala rămâne un simbol esențial al speranței.",
+        "en": "The Sainte Thérèse de l'Enfant Jésus Cathedral is located in Kaga-Bandoro, the capital of the Nana-Grébizi prefecture in the central-northern part of the Central African Republic. It is the spiritual heart of the local Catholic diocese and impresses with its colonial, highly robust brick architecture. The city of Kaga-Bandoro is a traditional and very lively marketplace where cattle herders from the north and farmers from the south exchange their goods (meat, cassava, peanuts). Historically, however, the city became a stronghold for various armed Séléka factions during the civil war. The cathedral tragically became the focal point of the conflict when the adjacent grounds transformed into a massive refugee camp for thousands of Christian civilians. The cathedral's clergy often took on dangerous mediating roles between the conflicting parties. Despite the ongoing economic destruction and lack of state infrastructure, the cathedral remains an indispensable symbol of hope and humanitarian aid in the region."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale steht im zentral-nördlichen Kaga-Bandoro.",
+          "Sie weist eine sehr robuste koloniale Backsteinarchitektur auf.",
+          "Die lokale Wirtschaft basiert stark auf dem Rinderhandel.",
+          "Während der Séléka-Besatzung wurde sie zum Flüchtlingslager.",
+          "Lokale Priester agierten mutig als Friedensvermittler."
+        ],
+        "hu": [
+          "A katedrális a középső-északi Kaga-Bandoro városában áll.",
+          "Nagyon robusztus, gyarmati téglaépítészettel rendelkezik.",
+          "A helyi gazdaság nagyon erősen a szarvasmarha-kereskedelemre épül.",
+          "A Séléka-megszállás alatt hatalmas menekülttáborrá alakult.",
+          "A helyi papok nagyon bátran léptek fel békeközvetítőként."
+        ],
+        "ro": [
+          "Catedrala este situată în orașul central-nordic Kaga-Bandoro.",
+          "Are o arhitectură colonială din cărămidă extrem de robustă.",
+          "Economia locală se bazează puternic pe comerțul cu vite.",
+          "În timpul ocupației Séléka, a devenit tabără de refugiați.",
+          "Preoții locali au acționat curajos ca mediatori de pace."
+        ],
+        "en": [
+          "The cathedral is located in the central-northern city of Kaga-Bandoro.",
+          "It features a highly robust, colonial-era brick architecture.",
+          "The local economy heavily relies on regional cattle trading.",
+          "During the Séléka occupation, it became a major refugee camp.",
+          "Local priests courageously acted as vital peace mediators."
+        ]
+      }
+    },
+    {
+      "id": "dzanga-bai-life-v2",
+      "descriptionAdvanced": {
+        "de": "Dzanga Bai ist eine weltberühmte, natürliche Waldlichtung im Herzen des Dzanga-Sangha-Sonderreservats im äußersten Südwesten der Zentralafrikanischen Republik. Übersetzt bedeutet der Name 'Dorf der Elefanten', was die enorme ökologische Bedeutung dieses Ortes unterstreicht. Die Lichtung ist reich an wertvollen Mineralsalzen, die täglich zwischen 50 und 150 Afrikanische Waldelefanten aus dem dichten Tropenwald anlocken, um hier zu trinken und essentielle Mineralien aufzunehmen. Neben Elefanten beherbergt das Gebiet auch Westliche Flachlandgorillas, Bongo-Antilopen und Waldbüffel, was es zu einem UNESCO-Weltnaturerbe macht. Wirtschaftlich hat Dzanga Bai das höchste Potenzial für nachhaltigen Ökotourismus im ganzen Land. Die Einnahmen aus dem Tourismus und der internationalen Forschung sind entscheidend für den Erhalt des Parks und bieten der lokalen Ba'Aka-Bevölkerung (Pygmäen) Beschäftigungsmöglichkeiten als Fährtenleser und Ranger. Historisch und aktuell ist das Gebiet jedoch stark durch Wilderei (Elfenbein) bedroht, die durch die politische Instabilität des Landes extrem begünstigt wird.",
+        "hu": "Dzanga Bai egy világhírű, természetes erdei tisztás a Dzanga-Sangha Speciális Rezervátum szívében, a Közép-afrikai Köztársaság legdélnyugatibb részén. A név magyarra fordítva 'Elefántok faluját' jelent, ami jól mutatja a hely hatalmas ökológiai jelentőségét. A tisztás rendkívül gazdag ásványi sókban, amelyek naponta 50-150 afrikai erdei elefántot vonzanak elő a sűrű trópusi erdőből, hogy itt igyanak és létfontosságú ásványi anyagokat vegyenek fel. Az elefántok mellett a terület nyugati síkvidéki gorilláknak, bongo antilopoknak és erdei bivalyoknak is otthont ad, így az UNESCO világörökség részét képezi. Gazdasági szempontból Dzanga Bai rendelkezik a legnagyobb ökoturisztikai potenciállal az egész országban. A turizmusból és a nemzetközi kutatásokból származó bevételek kritikus fontosságúak a park fenntartásához, és munkalehetőséget biztosítanak a helyi ba'aka (pigmeus) lakosság számára nyomkeresőként és vadőrként. A területet azonban súlyosan fenyegeti az orvvadászat (elefántcsont).",
+        "ro": "Dzanga Bai este o poiană naturală de renume mondial în inima Rezervației Speciale Dzanga-Sangha, în extremitatea sud-vestică a Republicii Centrafricane. Tradus, numele înseamnă „Satul Elefanților”, ceea ce subliniază importanța ecologică enormă a acestui loc. Poiana este bogată în săruri minerale valoroase, care atrag zilnic între 50 și 150 de elefanți de pădure africani din pădurea tropicală densă pentru a bea și a absorbi minerale esențiale. Pe lângă elefanți, zona găzduiește gorile de câmpie vestice, antilope bongo și bivoli de pădure, făcând-o un sit al Patrimoniului Mondial UNESCO. Din punct de vedere economic, Dzanga Bai are cel mai mare potențial de ecoturism durabil din țară. Veniturile din turism și cercetare internațională sunt cruciale pentru conservarea parcului și oferă locuri de muncă populației locale Ba'Aka (pigmei) ca urmăritori și pădurari. Cu toate acestea, zona este grav amenințată de braconajul de fildeș.",
+        "en": "Dzanga Bai is a world-renowned natural forest clearing located in the heart of the Dzanga-Sangha Special Reserve in the extreme southwest of the Central African Republic. Translated, the name means 'Village of the Elephants', which underscores the enormous ecological importance of this site. The clearing is incredibly rich in valuable mineral salts, attracting between 50 and 150 African forest elephants daily from the dense tropical forest to drink and absorb essential minerals. In addition to elephants, the area is home to western lowland gorillas, bongo antelopes, and forest buffalo, making it a highly protected UNESCO World Heritage site. Economically, Dzanga Bai possesses the highest potential for sustainable eco-tourism in the entire country. Revenue generated from tourism and international research is crucial for the park's conservation and provides employment opportunities for the local Ba'Aka (Pygmy) population as trackers and rangers. Historically and currently, however, the area is severely threatened by organized ivory poaching."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Lichtung bedeutet übersetzt Dorf der Elefanten.",
+          "Täglich kommen hier bis zu 150 Waldelefanten zusammen.",
+          "Der Boden der Lichtung ist extrem reich an Mineralsalzen.",
+          "Lokale Ba'Aka-Pygmäen arbeiten hier als erfahrene Fährtenleser.",
+          "Die Wilderei nach Elfenbein ist eine massive Bedrohung."
+        ],
+        "hu": [
+          "A híres tisztás neve magyarul az Elefántok faluját jelenti.",
+          "Naponta akár 150 ritka erdei elefánt is összegyűlik itt.",
+          "A tisztás talaja rendkívül gazdag létfontosságú ásványi sókban.",
+          "A helyi ba'aka pigmeusok tapasztalt nyomkeresőként dolgoznak.",
+          "Az elefántcsont-orvvadászat folyamatos és hatalmas fenyegetés."
+        ],
+        "ro": [
+          "Poiana se traduce la propriu prin Satul Elefanților.",
+          "Până la 150 de elefanți de pădure se adună aici zilnic.",
+          "Solul poienii este extrem de bogat în săruri minerale.",
+          "Pigmeii locali Ba'Aka lucrează aici ca urmăritori experți.",
+          "Braconajul pentru fildeș este o amenințare masivă și constantă."
+        ],
+        "en": [
+          "The name of the clearing translates directly to Village of Elephants.",
+          "Up to 150 African forest elephants gather here every single day.",
+          "The soil in the clearing is extremely rich in vital mineral salts.",
+          "Local Ba'Aka pygmies are officially employed as expert trackers.",
+          "Organized ivory poaching remains a massive and ongoing threat."
+        ]
+      }
+    }
+  ]
+}

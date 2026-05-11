@@ -1,0 +1,242 @@
+{
+  "lang": "multi4",
+  "country": "guyana",
+  "files": ["lib/visualLab/data/poiExtraGuyanaCitiesV2.ts"],
+  "items": [
+    {
+      "id": "linden-cities-v2",
+      "descriptionAdvancedDe": "Linden, am Demerara-Fluss gelegen, ist die zweitgrößte Stadt Guyanas und ein entscheidendes Zentrum für den Bauxitabbau. Die Stadt entstand aus drei Dörfern und ihre Entwicklung ist eng mit der Bauxitindustrie verbunden, die im frühen 20. Jahrhundert begann. Die Landschaft ist geprägt von den Überresten des Bergbaus, einschließlich großer abgebauter Hügel und roter Bauxitstaub, der die Umgebung färbt. Die McKenzie-Brücke verbindet die beiden Seiten der Stadt. Linden hat eine reiche Kulturgeschichte, die von den afro-guyanischen Arbeitern geprägt wurde, die in den Minen arbeiteten. Heute bemüht sich die Stadt um wirtschaftliche Diversifizierung, wobei der Schwerpunkt auf Landwirtschaft und Ökotourismus liegt, um die Abhängigkeit vom Bauxit zu verringern.",
+      "descriptionAdvancedHu": "Linden, Guyana második legnagyobb városa, a Demerara folyó partján fekszik, és az ország bauxitbányászatának központja. A város története a 20. század elején kezdődött, amikor a Demerara Bauxite Company (DEMBA) megkezdte a bauxit kitermelését. A tájat a bányászat nyomai, például a letermelt dombok és a vörös bauxitpor jellemzik. Linden gazdasága évtizedekig a bauxitra épült, de a globális piaci változások miatt a városnak új utakat kellett keresnie. Ma a gazdasági diverzifikációra törekszik, beleértve a mezőgazdaságot és a turizmust. A város kulturális élete is jelentős, a helyi közösség megőrzi hagyományait, és évente megrendezik a Linden Town Week fesztivált.",
+      "descriptionAdvancedRo": "Linden, al doilea cel mai mare oraș din Guyana, este situat pe malurile râului Demerara și este renumit ca centrul industriei de bauxită a țării. Dezvoltarea sa este strâns legată de exploatarea acestui mineral, care a început la începutul secolului al XX-lea. Peisajul din jur poartă amprenta activităților miniere, cu dealuri excavate și un praf roșu caracteristic. Podul McKenzie leagă cele două părți ale orașului. În trecut, economia sa era aproape în întregime dependentă de bauxită, dar astăzi se fac eforturi pentru diversificare, cu accent pe agricultură, silvicultură și turism ecologic. Linden este, de asemenea, un centru cultural, cu o comunitate vibrantă și evenimente anuale care celebrează patrimoniul local.",
+      "descriptionAdvancedEn": "Linden, situated on the Demerara River, is Guyana's second-largest town and the heart of the nation's bauxite mining industry. Its history is deeply intertwined with the Demerara Bauxite Company (DEMBA), which started operations in the early 20th century. The landscape around Linden is marked by the legacy of mining, with large, excavated hills and a distinctive red bauxite dust. For decades, its economy was almost solely dependent on this industry. Today, Linden is transitioning, seeking to diversify its economy through agriculture, logging, and eco-tourism. The town serves as a vital link to Guyana's interior, with its iconic McKenzie Bridge connecting the east and west banks of the river. It also has a strong cultural identity, celebrated during the annual Linden Town Week.",
+      "factsAdvancedDe": [
+        "Liegt am Demerara-Fluss.",
+        "Zentrum der Bauxitindustrie Guyanas.",
+        "Der Bergbau begann im frühen 20. Jahrhundert.",
+        "Die McKenzie-Brücke verbindet die Stadtteile.",
+        "Bevölkerung von etwa 30.000 Einwohnern.",
+        "Jährliches Festival: Linden Town Week.",
+        "Wichtige Forstwirtschaft in der Region.",
+        "Wirtschaftliche Diversifizierung ist entscheidend."
+      ],
+      "factsAdvancedHu": [
+        "A Demerara folyó partján található.",
+        "Guyana bauxitiparának központja.",
+        "A bányászat a 20. század elején kezdődött.",
+        "A McKenzie-híd köti össze a város két részét.",
+        "Lakossága körülbelül 30 000 fő.",
+        "Évente megrendezik a Linden Town Week fesztivált.",
+        "Jelentős erdőgazdálkodás a régióban.",
+        "A gazdasági diverzifikáció kulcsfontosságú."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe râul Demerara.",
+        "Centrul industriei de bauxită din Guyana.",
+        "Mineritul a început la începutul secolului al XX-lea.",
+        "Podul McKenzie leagă cele două părți ale orașului.",
+        "Populație de aproximativ 30.000 de locuitori.",
+        "Festival anual: Săptămâna Orașului Linden.",
+        "Silvicultură importantă în regiune.",
+        "Diversificarea economică este crucială."
+      ],
+      "factsAdvancedEn": [
+        "Located on the Demerara River.",
+        "Center of Guyana's bauxite industry.",
+        "Mining began in the early 20th century.",
+        "The McKenzie Bridge connects the two sides of the town.",
+        "Population of approximately 30,000.",
+        "Annual festival: Linden Town Week.",
+        "Significant forestry in the region.",
+        "Economic diversification is crucial."
+      ]
+    },
+    {
+      "id": "new-amsterdam-cities-v2",
+      "descriptionAdvancedDe": "New Amsterdam, an der Mündung des Berbice-Flusses gelegen, ist eine der ältesten Städte Guyanas. Sie wurde ursprünglich von den Niederländern im 18. Jahrhundert gegründet und diente als Regierungssitz der Kolonie Berbice. Die Stadt hat eine reiche Geschichte, die sich in ihrer Architektur widerspiegelt, obwohl viele historische Gebäude durch Brände zerstört wurden. Heute ist New Amsterdam ein wichtiges Handelszentrum für die Region East Berbice-Corentyne. Der Hafen spielt eine bedeutende Rolle im Export von Zucker und Reis. Die Stadt beherbergt auch wichtige Einrichtungen wie das New Amsterdam Hospital und Bildungseinrichtungen. Die Hauptstraßen sind von Märkten und Geschäften gesäumt, die das geschäftige tägliche Leben der Einwohner zeigen.",
+      "descriptionAdvancedHu": "New Amsterdam, Guyana egyik legrégebbi városa, a Berbice folyó torkolatánál fekszik. A hollandok alapították a 18. században, és Berbice gyarmat kormányzati központja volt. Gazdag történelme ellenére sok eredeti épülete elpusztult az idők során. Ma a város az East Berbice-Corentyne régió kereskedelmi központja, ahol a cukor- és rizsexport kulcsfontosságú. A kikötője létfontosságú a regionális gazdaság számára. New Amsterdam ad otthont a régió fő kórházának és több oktatási intézménynek. A város utcái nyüzsgő piacoknak és üzleteknek adnak otthont, tükrözve a helyi közösség dinamizmusát. A város a Berbice folyón átívelő hídon keresztül kapcsolódik az ország többi részéhez.",
+      "descriptionAdvancedRo": "New Amsterdam, unul dintre cele mai vechi orașe din Guyana, este situat la gura de vărsare a râului Berbice. Fondat de olandezi în secolul al XVIII-lea, a servit drept centru administrativ pentru colonia Berbice. Orașul are o istorie bogată, deși multe dintre clădirile sale coloniale originale au fost distruse. Astăzi, New Amsterdam este un centru comercial vital pentru regiunea East Berbice-Corentyne, cu un port important pentru exportul de zahăr și orez. De asemenea, găzduiește spitalul regional și diverse instituții de învățământ. Viața de zi cu zi este vibrantă, cu piețe aglomerate și străzi pline de activitate. Podul peste râul Berbice asigură o legătură esențială cu restul țării, facilitând comerțul și transportul.",
+      "descriptionAdvancedEn": "New Amsterdam is one of Guyana's oldest towns, located on the eastern bank of the Berbice River. Founded by the Dutch in the 1740s, it once served as the capital of the Berbice colony. The town's layout still reflects its Dutch origins, though few colonial buildings remain. Today, it is the administrative and commercial hub of the East Berbice-Corentyne region. Its port is crucial for the export of sugar and rice, staples of the regional economy. New Amsterdam is home to the region's main hospital, several schools, and a bustling market that forms the center of daily life. The Canje Bridge and the Berbice River Bridge connect the town to other parts of Guyana, making it a key transportation node.",
+      "factsAdvancedDe": [
+        "Liegt am Ostufer des Berbice-Flusses.",
+        "Gegründet von den Niederländern in den 1740er Jahren.",
+        "Zentrum der Region East Berbice-Corentyne.",
+        "Bevölkerung über 30.000.",
+        "Wichtiger Hafen für Zucker- und Reisexport.",
+        "Standort der Berbice River Bridge.",
+        "Beherbergt das Hauptkrankenhaus der Region.",
+        "Der lokale Markt ist das Zentrum des täglichen Lebens."
+      ],
+      "factsAdvancedHu": [
+        "A Berbice folyó keleti partján fekszik.",
+        "A hollandok alapították az 1740-es években.",
+        "East Berbice-Corentyne régió központja.",
+        "Lakossága meghaladja a 30 000 főt.",
+        "Fontos kikötő a cukor- és rizsexport számára.",
+        "Itt található a Berbice folyó hídja.",
+        "A városban található a régió fő kórháza.",
+        "A helyi piac a mindennapi élet központja."
+      ],
+      "factsAdvancedRo": [
+        "Situat pe malul de est al râului Berbice.",
+        "Fondat de olandezi în anii 1740.",
+        "Centrul regiunii East Berbice-Corentyne.",
+        "Populație de peste 30.000 de locuitori.",
+        "Port important pentru exportul de zahăr și orez.",
+        "Locația podului peste râul Berbice.",
+        "Găzduiește spitalul principal al regiunii.",
+        "Piața locală este centrul vieții de zi cu zi."
+      ],
+      "factsAdvancedEn": [
+        "Located on the eastern bank of the Berbice River.",
+        "Founded by the Dutch in the 1740s.",
+        "Hub of the East Berbice-Corentyne region.",
+        "Population exceeds 30,000.",
+        "Important port for sugar and rice export.",
+        "Site of the Berbice River Bridge.",
+        "Home to the region's main hospital.",
+        "The local market is the center of daily life."
+      ]
+    },
+    {
+      "id": "anna-regina-cities-v2",
+      "descriptionAdvancedDe": "Anna Regina liegt an der Essequibo-Küste und ist das Verwaltungszentrum der Region Pomeroon-Supenaam. Die Stadt wurde 1970 offiziell gegründet und ist damit eine der neueren Städte Guyanas. Ihr Name soll von einer ehemaligen Plantage stammen. Die Wirtschaft der Region ist stark von der Landwirtschaft geprägt, insbesondere vom Reisanbau, der die weiten Ebenen dominiert. Anna Regina dient als wichtiger Markt- und Dienstleistungsort für die umliegenden landwirtschaftlichen Gemeinschaften. Die Stadt ist über die Essequibo-Küste mit dem Rest des Landes verbunden. Zu den bemerkenswerten Sehenswürdigkeiten gehört der Damon-Markt, ein Denkmal, das an einen Aufstand von Plantagenarbeitern im 19. Jahrhundert erinnert. Die Stadt spiegelt die ruhige, agrarische Lebensweise der Essequibo-Küste wider.",
+      "descriptionAdvancedHu": "Anna Regina Guyana Pomeroon-Supenaam régiójának közigazgatási központja, az Essequibo-parton. Viszonylag új város, hivatalosan 1970-ben alapították. A nevét egy régi ültetvényről kapta. A gazdaság alapja a mezőgazdaság, különösen a rizstermesztés, amely a környező síkságokat meghatározza. A város fontos kereskedelmi és szolgáltató központ a környező falvak számára. A Damon-emlékmű a 19. századi rabszolgafelkelésnek állít emléket, és a város egyik fontos történelmi pontja. Anna Regina a partvidék nyugodt, agrártársadalmának jellegzetes képviselője, ahol a közösségi élet és a hagyományok fontos szerepet játszanak. A helyi piac a mindennapi élet központja, ahol a farmerek értékesítik termékeiket.",
+      "descriptionAdvancedRo": "Anna Regina este centrul administrativ al regiunii Pomeroon-Supenaam, situat pe coasta Essequibo. Este un oraș relativ nou, înființat oficial în 1970, și poartă numele unei foste plantații. Economia sa este predominant agrară, bazată în special pe cultivarea orezului, care acoperă vastele câmpii din jur. Orașul funcționează ca un centru vital de servicii și comerț pentru comunitățile agricole din apropiere. Printre reperele notabile se numără Monumentul Damon, care comemorează o revoltă a muncitorilor de pe plantații din secolul al XIX-lea. Anna Regina reflectă stilul de viață rural și liniștit al coastei Essequibo, având o piață vibrantă unde fermierii locali își vând produsele proaspete.",
+      "descriptionAdvancedEn": "Anna Regina is the administrative capital of the Pomeroon-Supenaam region, located on the picturesque Essequibo coast. Established as a town in 1970, it serves as the main commercial and service hub for the surrounding agricultural communities. The region's economy is heavily reliant on rice cultivation, and vast rice fields characterize the landscape. The town's name is said to originate from an old plantation. A key landmark is the Damon Monument, erected in memory of a leader of an 1834 protest by plantation apprentices. Anna Regina's market is a bustling center of activity, where local farmers sell their produce. The town embodies the tranquil, agrarian lifestyle of the Essequibo coast and is a vital center for its residents.",
+      "factsAdvancedDe": [
+        "Verwaltungszentrum der Region Pomeroon-Supenaam.",
+        "Erhielt 1970 den Stadtstatus.",
+        "Die Hauptwirtschaftsbranche ist der Reisanbau.",
+        "Liegt an der Essequibo-Küste.",
+        "Das Damon-Denkmal ist eine wichtige historische Stätte.",
+        "Bevölkerung von etwa 12.000.",
+        "Der lokale Markt ist das Handelszentrum.",
+        "Benannt nach einer holländischen Plantage."
+      ],
+      "factsAdvancedHu": [
+        "Pomeroon-Supenaam régió közigazgatási központja.",
+        "1970-ben kapott városi rangot.",
+        "A gazdaság fő ágazata a rizstermesztés.",
+        "Az Essequibo-partvidéken található.",
+        "A Damon-emlékmű egy fontos történelmi helyszín.",
+        "Lakossága körülbelül 12 000 fő.",
+        "A helyi piac a kereskedelem központja.",
+        "A nevét egy holland ültetvényről kapta."
+      ],
+      "factsAdvancedRo": [
+        "Centrul administrativ al regiunii Pomeroon-Supenaam.",
+        "A primit statut de oraș în 1970.",
+        "Principala ramură economică este cultivarea orezului.",
+        "Situat pe coasta Essequibo.",
+        "Monumentul Damon este un sit istoric important.",
+        "Populație de aproximativ 12.000 de locuitori.",
+        "Piața locală este centrul comerțului.",
+        "Numit după o plantație olandeză."
+      ],
+      "factsAdvancedEn": [
+        "Administrative center of the Pomeroon-Supenaam region.",
+        "Granted town status in 1970.",
+        "The main economic sector is rice cultivation.",
+        "Located on the Essequibo Coast.",
+        "The Damon Monument is an important historical site.",
+        "Population of approximately 12,000.",
+        "The local market is the center of trade.",
+        "Named after a Dutch plantation."
+      ]
+    },
+    {
+      "id": "bartica-cities-v2",
+      "descriptionAdvancedDe": "Bartica, oft als „Tor zum Inneren“ bezeichnet, liegt strategisch günstig am Zusammenfluss der Flüsse Essequibo, Mazaruni und Cuyuni. Diese Lage macht es zu einem wichtigen Ausgangspunkt für Bergbau- und Forstexpeditionen in die ressourcenreichen Binnenregionen Guyanas. Die Stadt wurde 1842 von anglikanischen Missionaren gegründet. Die Wirtschaft von Bartica ist eng mit dem Gold- und Diamantenabbau verbunden, was der Stadt eine geschäftige, manchmal raue Atmosphäre verleiht. Viele Einwohner sind direkt oder indirekt in der Bergbauindustrie beschäftigt. Die Stadt ist auch ein Zentrum für den Transport von Gütern und Personen ins Landesinnere. Jedes Jahr zu Ostern findet die Bartica Regatta statt, ein beliebtes Ereignis mit Bootsrennen, Sport und Unterhaltung, das Besucher aus dem ganzen Land anzieht.",
+      "descriptionAdvancedHu": "Bartica, „a belső területek kapuja”, Guyana egyik stratégiai fontosságú városa, amely az Essequibo, a Mazaruni és a Cuyuni folyok összefolyásánál fekszik. 1842-ben anglikán misszionáriusok alapították. Gazdasága szorosan kötődik az arany- és gyémántbányászathoz, ami a városnak egyedi, nyüzsgő jelleget kölcsönöz. A lakosság nagy része a bányászatban vagy a kapcsolódó szolgáltatásokban dolgozik. Bartica logisztikai központként is funkcionál, innen indulnak a bányászati és fakitermelési expedíciók az ország belső, erőforrásokban gazdag területeire. Minden évben húsvétkor rendezik meg a Bartica Regattát, egy népszerű eseményt, amely csónakversenyekkel és fesztivállal vonzza a látogatókat az egész országból.",
+      "descriptionAdvancedRo": "Bartica, cunoscută drept „Poarta către Interior”, este un oraș situat strategic la confluența râurilor Essequibo, Mazaruni și Cuyuni. A fost fondat în 1842 de misionari anglicani. Datorită locației sale, Bartica servește ca un punct de plecare esențial pentru operațiunile miniere (aur și diamante) și forestiere din regiunile interioare bogate în resurse ale Guyanei. Economia orașului este puternic dependentă de aceste industrii, ceea ce îi conferă o atmosferă dinamică și uneori agitată. Mulți localnici lucrează în sectorul minier. Anual, de Paște, orașul găzduiește Bartica Regatta, un eveniment faimos cu curse de bărci și festivități care atrage vizitatori din toată țara, consolidându-i statutul de centru regional de divertisment.",
+      "descriptionAdvancedEn": "Often called the 'Gateway to the Interior', Bartica is strategically located at the confluence of the Essequibo, Mazaruni, and Cuyuni Rivers. Founded in 1842 by Anglican missionaries, its location makes it a crucial launching point for gold and diamond mining operations in Guyana's resource-rich hinterland. The town's economy is heavily driven by mining, which gives Bartica a bustling, frontier-town atmosphere. It serves as a commercial hub where miners and loggers purchase supplies and transport goods. Bartica is famous for its annual Easter Regatta, a major national event featuring powerboat races, sports, and entertainment that attracts thousands of visitors. The town is also promoting itself as a hub for eco-tourism, leveraging its proximity to pristine rainforests and waterfalls.",
+      "factsAdvancedDe": [
+        "Liegt am Zusammenfluss der Flüsse Essequibo, Mazaruni und Cuyuni.",
+        "Bekannt als „Tor zum Inneren“.",
+        "Gegründet 1842 von anglikanischen Missionaren.",
+        "Wirtschaft angetrieben von Gold- und Diamantenabbau.",
+        "Veranstaltet die jährliche Osterregatta.",
+        "Bevölkerung von etwa 15.000.",
+        "Wichtiger Logistikknotenpunkt für den Bergbau.",
+        "Zentrum der Region Cuyuni-Mazaruni."
+      ],
+      "factsAdvancedHu": [
+        "Az Essequibo, Mazaruni és Cuyuni folyók találkozásánál fekszik.",
+        "„A belső területek kapujaként” ismert.",
+        "1842-ben alapították anglikán misszionáriusok.",
+        "Gazdaságának motorja az arany- és gyémántbányászat.",
+        "Itt rendezik meg az éves Húsvéti Regattát.",
+        "Lakossága körülbelül 15 000 fő.",
+        "Fontos logisztikai központ a bányászat számára.",
+        "A város a Cuyuni-Mazaruni régió központja."
+      ],
+      "factsAdvancedRo": [
+        "Situat la confluența râurilor Essequibo, Mazaruni și Cuyuni.",
+        "Cunoscut ca „Poarta către Interior”.",
+        "Fondat în 1842 de misionari anglicani.",
+        "Economia este determinată de mineritul de aur și diamante.",
+        "Găzduiește Regata anuală de Paște.",
+        "Populație de aproximativ 15.000 de locuitori.",
+        "Nod logistic important pentru minerit.",
+        "Centrul regiunii Cuyuni-Mazaruni."
+      ],
+      "factsAdvancedEn": [
+        "Located at the confluence of the Essequibo, Mazaruni, and Cuyuni rivers.",
+        "Known as the 'Gateway to the Interior'.",
+        "Founded in 1842 by Anglican missionaries.",
+        "Economy driven by gold and diamond mining.",
+        "Hosts the annual Easter Regatta.",
+        "Population of approximately 15,000.",
+        "Important logistics hub for mining.",
+        "Center of the Cuyuni-Mazaruni region."
+      ]
+    },
+    {
+      "id": "corriverton-cities-v2",
+      "descriptionAdvancedDe": "Corriverton ist die östlichste Stadt Guyanas und liegt am Corentyne-Fluss, der die Grenze zu Suriname bildet. Die Stadt entstand aus der Zusammenlegung zweier ehemaliger Zuckerplantagen, Skeldon und Springlands. Ihre Nähe zu Suriname macht sie zu einem wichtigen Grenzübergangspunkt, mit einem Fährdienst, der die beiden Länder verbindet. Die Wirtschaft von Corriverton ist hauptsächlich landwirtschaftlich geprägt, wobei der Zuckerrohranbau und die Reisproduktion dominieren. Die Skeldon-Zuckerfabrik, obwohl mit Herausforderungen konfrontiert, war historisch ein wichtiger Arbeitgeber. Die Stadt hat eine vielfältige Bevölkerung, die hauptsächlich aus Nachkommen indischer und afrikanischer Arbeiter besteht. Der Markt von Corriverton ist ein lebhaftes Zentrum, in dem Waren aus beiden Ländern gehandelt werden.",
+      "descriptionAdvancedHu": "Corriverton Guyana legkeletibb városa, a Suriname-nal határt képező Corentyne folyó partján. A város két korábbi cukornádültetvény, Skeldon és Springlands összevonásából jött létre. Közelsége Suriname-hoz fontos határátkelőhellyé teszi; kompjárat köti össze a két országot. Corriverton gazdasága elsősorban a mezőgazdaságra, azon belül is a cukornád- és rizstermesztésre épül. A Skeldon cukorgyár, bár kihívásokkal küzd, történelmileg a régió legnagyobb munkaadója volt. A város lakossága kulturálisan sokszínű, főként indiai és afrikai származású emberek lakják. A helyi piac élénk kereskedelmi központ, ahol guyanai és suriname-i termékek is kaphatók, tükrözve a határ menti jelleget.",
+      "descriptionAdvancedRo": "Corriverton este cel mai estic oraș din Guyana, situat pe malul râului Corentyne, care formează granița naturală cu Surinam. Orașul a fost format prin unirea a două foste plantații de zahăr, Skeldon și Springlands. Datorită proximității sale de Surinam, funcționează ca un punct de trecere a frontierei esențial, cu un serviciu de feribot care leagă cele două țări. Economia locală este dominată de agricultură, în special de cultivarea trestiei de zahăr și a orezului. Fabrica de zahăr Skeldon a fost, din punct de vedere istoric, un angajator major în regiune. Populația orașului este diversă, reflectând un amestec de descendenți indieni și africani. Piața din Corriverton este un centru comercial plin de viață, unde se comercializează bunuri din ambele țări.",
+      "descriptionAdvancedEn": "Corriverton is Guyana's easternmost town, situated on the bank of the Corentyne River, which marks the border with Suriname. It was formed by the amalgamation of two former sugar estates, Skeldon and Springlands. Its strategic location makes it a key crossing point between Guyana and Suriname, with a regular ferry service facilitating travel and trade. The town's economy is predominantly agricultural, with sugar cane and rice being the main crops. The Skeldon Sugar Estate has historically been the largest employer in the area. Corriverton is a melting pot of cultures, with a large population of Indo-Guyanese and Afro-Guyanese residents. Its market is a vibrant hub, reflecting its cross-border influences and bustling commercial activity.",
+      "factsAdvancedDe": [
+        "Östlichste Stadt Guyanas.",
+        "Liegt am Corentyne-Fluss an der Grenze zu Suriname.",
+        "Fähre verbindet es mit Suriname.",
+        "Wirtschaft basiert auf Zuckerrohr und Reis.",
+        "Die Skeldon-Zuckerfabrik ist eine wichtige Industrieanlage.",
+        "Bevölkerung über 11.000.",
+        "Entstanden aus zwei ehemaligen Plantagen.",
+        "Hat eine kulturell vielfältige Bevölkerung."
+      ],
+      "factsAdvancedHu": [
+        "Guyana legkeletibb városa.",
+        "A Corentyne folyó partján, a suriname-i határon fekszik.",
+        "Komp köti össze Suriname-mal.",
+        "A gazdaság alapja a cukornád- és rizstermesztés.",
+        "A Skeldon cukorgyár a fő ipari létesítmény.",
+        "Lakossága meghaladja a 11 000 főt.",
+        "A város két korábbi ültetvényből alakult ki.",
+        "Kulturálisan sokszínű lakossággal rendelkezik."
+      ],
+      "factsAdvancedRo": [
+        "Cel mai estic oraș din Guyana.",
+        "Situat pe râul Corentyne, la granița cu Surinam.",
+        "Feribotul îl leagă de Surinam.",
+        "Economia se bazează pe trestie de zahăr și orez.",
+        "Fabrica de zahăr Skeldon este principala unitate industrială.",
+        "Populație de peste 11.000 de locuitori.",
+        "Orașul s-a format din două foste plantații.",
+        "Are o populație diversă din punct de vedere cultural."
+      ],
+      "factsAdvancedEn": [
+        "Guyana's easternmost town.",
+        "Located on the Corentyne River, on the Suriname border.",
+        "Ferry connects it to Suriname.",
+        "Economy is based on sugarcane and rice.",
+        "The Skeldon sugar factory is the main industrial facility.",
+        "Population exceeds 11,000.",
+        "The town was formed from two former plantations.",
+        "Has a culturally diverse population."
+      ]
+    }
+  ]
+}

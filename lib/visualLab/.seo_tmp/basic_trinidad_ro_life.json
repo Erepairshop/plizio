@@ -1,0 +1,79 @@
+{
+  "lang": "ro",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-caroni-sugarcane-belt-life-v2",
+      "description": "Zonă renumită pentru plantațiile sale întinse de trestie de zahăr, esențială pentru patrimoniul agricol.",
+      "facts": ["Plantații", "Trestie de zahăr", "Patrimoniu agricol"]
+    },
+    {
+      "id": "tt-aripo-savannas-life-v2",
+      "description": "Rezervație naturală unică, cu un ecosistem de savană rar, bogat în floră și faună specifică.",
+      "facts": ["Ecosistem rar", "Rezervație", "Biodiversitate"]
+    },
+    {
+      "id": "tt-nariva-swamp-life-v2",
+      "description": "Cea mai mare zonă umedă din insulă, un paradis pentru păsări și animale în mediul lor natural.",
+      "facts": ["Zonă umedă", "Observarea păsărilor", "Habitat natural"]
+    },
+    {
+      "id": "tt-trinity-hills-life-v2",
+      "description": "Colinele Trinity, un areal protejat cunoscut pentru peisajele sale verzi și viața sălbatică.",
+      "facts": ["Areal protejat", "Coline verzi", "Viață sălbatică"]
+    },
+    {
+      "id": "tt-matura-turtle-beach-life-v2",
+      "description": "Plajă celebră pentru cuibăritul broaștelor țestoase, un sit important pentru conservarea speciilor.",
+      "facts": ["Conservare", "Broaște țestoase", "Plajă protejată"]
+    },
+    {
+      "id": "tt-pigeon-point-life-v2",
+      "description": "Zonă iconică în Tobago, renumită pentru plajele sale cu nisip alb și facilitățile de recreere.",
+      "facts": ["Tobago", "Plajă cu nisip alb", "Recreere"]
+    },
+    {
+      "id": "tt-buccoo-reef-life-v2",
+      "description": "Un ecosistem marin spectaculos în Tobago, esențial pentru protejarea biodiversității oceanice.",
+      "facts": ["Tobago", "Ecosistem marin", "Biodiversitate"]
+    },
+    {
+      "id": "tt-nylon-pool-life-v2",
+      "description": "Piscină naturală în mijlocul mării, oferind o experiență unică într-un cadru marin fascinant.",
+      "facts": ["Piscină naturală", "Cadru marin", "Experiență unică"]
+    },
+    {
+      "id": "tt-little-tobago-bird-sanctuary-life-v2",
+      "description": "Sanctuar pentru păsări pe insula Little Tobago, un loc ideal pentru observarea speciilor rare.",
+      "facts": ["Tobago", "Observarea păsărilor", "Specii rare"]
+    },
+    {
+      "id": "tt-scarborough-botanical-gardens-life-v2",
+      "description": "Grădini botanice în Scarborough, Tobago, un spațiu de pace cu plante tropicale variate.",
+      "facts": ["Tobago", "Grădini botanice", "Spațiu liniștit"]
+    },
+    {
+      "id": "tt-siparia-dairy-farms-life-v2",
+      "description": "Ferme de lactate din zona Siparia, reflectând tradițiile agricole locale din sudul Trinidadului.",
+      "facts": ["Ferme de lactate", "Tradiții locale", "Sudul insulei"]
+    },
+    {
+      "id": "tt-point-fortin-beach-park-life-v2",
+      "description": "Parc de plajă în Point Fortin, oferind un spațiu pentru activități în aer liber și relaxare.",
+      "facts": ["Activități în aer liber", "Point Fortin", "Relaxare"]
+    },
+    {
+      "id": "tt-chacachacare-island-life-v2",
+      "description": "Insulă cu istorie fascinantă și peisaje naturale, un loc de explorare în arhipelagul Bocas.",
+      "facts": ["Explorare", "Peisaj natural", "Arhipelag"]
+    },
+    {
+      "id": "tt-saut-deau-island-life-v2",
+      "description": "Insulă pitorească, cunoscută pentru frumusețea sa naturală și diversitatea vieții marine.",
+      "facts": ["Frumusețe naturală", "Viață marină", "Insulă"]
+    }
+  ]
+}

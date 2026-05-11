@@ -1,0 +1,59 @@
+{
+  "lang": "ro",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "Un parc marin situat în apropierea orașului Beira, care protejează ecosistemele costiere și promovează conservarea vieții marine.",
+      "facts": ["Parc marin", "Ecosistem costier", "Conservare marină", "Zona Beira"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "O insulă istorică care oferă numeroase activități educative și de explorare pentru copii, prezentând cultura și istoria locală.",
+      "facts": ["Sit istoric", "Activități pentru copii", "Cultură locală", "Explorare"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "Plaja Tofo este un loc ideal pentru familii, oferind activități sigure și educative despre viața marină pentru copii.",
+      "facts": ["Destinație familială", "Activități sigure", "Educație marină", "Plajă populară"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "O grădină zoologică sau centru educațional în regiunea Limpopo, concentrată pe cunoașterea animalelor autohtone de către cei mici.",
+      "facts": ["Centru educațional", "Animale autohtone", "Pentru copii", "Regiunea Limpopo"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "Muzeul de Istorie Naturală din Maputo oferă expoziții interactive menite să educe copiii despre fauna diversă a Mozambicului.",
+      "facts": ["Muzeu interactiv", "Faună diversă", "Educație pentru copii", "Maputo"]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "Zona Gondola oferă spații de joacă și activități recreative în aer liber, fiind un punct preferat de familiile din regiune.",
+      "facts": ["Spații de joacă", "Activități recreative", "Pentru familii", "Zona Gondola"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "Plajele din Pemba sunt sigure și primitoare pentru copii, oferind oportunități de învățare despre ocean și viața marină.",
+      "facts": ["Plajă primitoare", "Siguranță pentru copii", "Educație oceanică", "Zona Pemba"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "Programe de safari adaptate pentru copii în rezervația Niassa, pentru a învăța despre conservarea naturii și animalele sălbatice.",
+      "facts": ["Safari pentru copii", "Conservarea naturii", "Animale sălbatice", "Rezervația Niassa"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "Zonele de-a lungul râului în Zambezia oferă activități educaționale pentru copii despre importanța ecosistemelor fluviale.",
+      "facts": ["Ecosistem fluvial", "Activități educaționale", "Importanța râului", "Pentru copii"]
+    },
+    {
+      "id": "tete-community-park-life-v2",
+      "description": "Un parc comunitar în Tete creat pentru recreere și educație, oferind spațiu pentru activități în aer liber dedicate tinerilor.",
+      "facts": ["Parc comunitar", "Recreere", "Educație", "Pentru tineri"]
+    }
+  ]
+}

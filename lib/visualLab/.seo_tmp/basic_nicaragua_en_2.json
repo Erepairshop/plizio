@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaCitiesV2.ts"
+  ],
+  "items": [
+    {
+      "id": "puerto-morazan-cities-v2",
+      "description": "Puerto Morazan is a river port town in the Chinandega department, located on the Estero Real estuary.",
+      "facts": ["Department: Chinandega", "River port", "Estero Real", "Coastal area"]
+    },
+    {
+      "id": "tecolostote-cities-v2",
+      "description": "Tecolostote is a small town in the Boaco department, known for its scenic views of the surrounding hills.",
+      "facts": ["Department: Boaco", "Hillside town", "Central region", "Small community"]
+    },
+    {
+      "id": "san-miguelito-cities-v2",
+      "description": "San Miguelito is a town in the Rio San Juan department, situated along the shores of Lake Nicaragua.",
+      "facts": ["Department: Rio San Juan", "Lakefront town", "Fishing economy", "Tropical climate"]
+    },
+    {
+      "id": "san-juan-del-norte-greytown-cities-v2",
+      "description": "San Juan del Norte, historically known as Greytown, is a remote town on the Caribbean coast.",
+      "facts": ["Department: Rio San Juan", "Caribbean coast", "Historical port", "Remote location"]
+    },
+    {
+      "id": "pueblo-nuevo-esteli-cities-v2",
+      "description": "Pueblo Nuevo is a municipality in the Esteli department, located in the northern mountainous regions.",
+      "facts": ["Department: Esteli", "Northern highlands", "Agricultural area", "High elevation"]
+    },
+    {
+      "id": "esquipulas-matagalpa-cities-v2",
+      "description": "Esquipulas is a rural town in the Matagalpa department, surrounded by coffee plantations.",
+      "facts": ["Department: Matagalpa", "Coffee region", "Mountainous terrain", "Farming community"]
+    },
+    {
+      "id": "la-dalia-matagalpa-cities-v2",
+      "description": "La Dalia is an agricultural hub in the Matagalpa department, essential for coffee and vegetable production.",
+      "facts": ["Department: Matagalpa", "Agricultural hub", "Cloud forest area", "High production"]
+    },
+    {
+      "id": "matiguas-matagalpa-cities-v2",
+      "description": "Matiguas is a municipality in the Matagalpa department, primarily driven by livestock and dairy farming.",
+      "facts": ["Department: Matagalpa", "Livestock center", "Dairy hub", "Northern region"]
+    },
+    {
+      "id": "san-ramon-matagalpa-cities-v2",
+      "description": "San Ramon is a historic town in the Matagalpa department, known for its mining past and current agricultural role.",
+      "facts": ["Department: Matagalpa", "Mining heritage", "Agricultural base", "Mountainous"]
+    },
+    {
+      "id": "terrabona-matagalpa-cities-v2",
+      "description": "Terrabona is a rural town in the Matagalpa department, situated in a scenic valley.",
+      "facts": ["Department: Matagalpa", "Valley location", "Small community", "Agricultural focus"]
+    }
+  ]
+}

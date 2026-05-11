@@ -1,0 +1,222 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": ["lib/visualLab/data/poiExtraLebanonEconomicV2.ts"],
+  "items": [
+    {
+      "id": "deir-ammar-power-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Kraftwerk Deir Ammar liegt in der Region Nord-Libanon nahe der Stadt Tripoli und ist eines der jüngsten und strategisch wichtigsten Wärmekraftwerke des Landes. Es wurde entwickelt, um die stark schwankende Stromversorgung im Norden zu stabilisieren und die überlasteten älteren Kraftwerke zu unterstützen. Ursprünglich als Dual-Fuel-Anlage konzipiert, die sowohl mit Erdgas als auch mit flüssigen Brennstoffen betrieben werden kann, sollte es einen Meilenstein auf dem Weg zu einer saubereren Energieproduktion markieren. Mangels einer zuverlässigen Gasinfrastruktur und einer Anbindung an internationale Gaspipelines wird das Kraftwerk jedoch meist mit teurem und importiertem Gasöl betrieben. Trotz technischer Vorteile gegenüber älteren Anlagen wie Zouk oder Jieh leidet auch Deir Ammar regelmäßig unter dem chronischen Devisenmangel des libanesischen Staates, der die Beschaffung von Treibstoff behindert und somit zu landesweiten Stromausfällen führt.",
+        "hu": "A Deir Ammar erőmű az észak-libanoni régióban, Tripoli városa közelében található, és az ország egyik legújabb és stratégiailag legfontosabb hőerőműve. Azért fejlesztették ki, hogy stabilizálja az északi régió erősen ingadozó áramellátását, és támogassa a túlterhelt régebbi erőműveket. Eredetileg kettős üzemanyagú létesítménynek tervezték, amely földgázzal és folyékony tüzelőanyaggal egyaránt működtethető, így mérföldkőnek kellett volna lennie a tisztább energiatermelés felé vezető úton. A megbízható gázinfrastruktúra és a nemzetközi gázvezetékekhez való csatlakozás hiánya miatt azonban az erőművet leginkább drága és importált gázolajjal üzemeltetik. Annak ellenére, hogy technikai előnyökkel rendelkezik a régebbi létesítményekkel, mint például Zouk vagy Jieh szemben, Deir Ammar is rendszeresen szenved a libanoni állam krónikus devizahiányától, ami akadályozza az üzemanyag-beszerzést, és így országos áramkimaradásokhoz vezet.",
+        "ro": "Centrala electrică Deir Ammar este situată în regiunea de nord a Libanului, lângă orașul Tripoli, și este una dintre cele mai noi și mai importante centrale termice din punct de vedere strategic din țară. A fost dezvoltată pentru a stabiliza alimentarea cu energie electrică puternic fluctuantă din nord și pentru a sprijini centralele electrice mai vechi supraîncărcate. Concepută inițial ca o instalație cu combustibil dublu, care poate funcționa atât cu gaze naturale, cât și cu combustibili lichizi, trebuia să marcheze un reper pe calea către o producție de energie mai curată. Cu toate acestea, din cauza lipsei unei infrastructuri fiabile de gaze și a unei conexiuni la conductele internaționale de gaze, centrala este operată în mare parte cu motorină scumpă și importată. În ciuda avantajelor tehnice față de instalațiile mai vechi, cum ar fi Zouk sau Jieh, Deir Ammar suferă, de asemenea, în mod regulat de lipsa cronică de valută străină a statului libanez, ceea ce împiedică achiziționarea de combustibil și duce astfel la pene de curent la nivel național.",
+        "en": "The Deir Ammar power plant is located in the North Lebanon region near the city of Tripoli and is one of the newest and most strategically important thermal power plants in the country. It was developed to stabilize the highly fluctuating power supply in the north and to support the overloaded older power plants. Originally designed as a dual-fuel facility capable of operating on both natural gas and liquid fuels, it was supposed to mark a milestone on the path to cleaner energy production. However, due to the lack of a reliable gas infrastructure and a connection to international gas pipelines, the power plant is mostly operated with expensive and imported gas oil. Despite technical advantages over older facilities such as Zouk or Jieh, Deir Ammar also regularly suffers from the Lebanese state's chronic shortage of foreign currency, which hampers the procurement of fuel and thus leads to nationwide blackouts."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Eine der moderneren Anlagen zur Stromerzeugung im Libanon.",
+          "Als Dual-Fuel-Kraftwerk (Gas und Öl) konzipiert.",
+          "Wichtigster Stromlieferant für den Großraum Tripoli und den Norden.",
+          "Leidet häufig unter Treibstoffmangel durch staatliche Finanzkrisen.",
+          "Gasbetrieb scheitert meist an fehlender Pipeline-Infrastruktur.",
+          "Effizienter, aber weiterhin stark abhängig von Importen."
+        ],
+        "hu": [
+          "Az egyik legmodernebb áramtermelő létesítmény Libanonban.",
+          "Kettős üzemanyagú erőműként (gáz és olaj) tervezték.",
+          "Tripoli vonzáskörzetének és az északi régiónak a legfőbb áramszolgáltatója.",
+          "Gyakran szenved üzemanyaghiánytól az állami pénzügyi válságok miatt.",
+          "A gázüzem többnyire a hiányzó vezeték-infrastruktúra miatt hiúsul meg.",
+          "Hatékonyabb, de továbbra is erősen függ az importtól."
+        ],
+        "ro": [
+          "Una dintre cele mai moderne instalații de generare a energiei din Liban.",
+          "Concepută ca o centrală cu combustibil dublu (gaz și petrol).",
+          "Principalul furnizor de energie electrică pentru zona Tripoli și nord.",
+          "Suferă adesea de deficit de combustibil din cauza crizelor financiare de stat.",
+          "Funcționarea pe gaz eșuează de obicei din cauza lipsei infrastructurii conductelor.",
+          "Mai eficientă, dar în continuare puternic dependentă de importuri."
+        ],
+        "en": [
+          "One of the more modern power generation facilities in Lebanon.",
+          "Designed as a dual-fuel power plant (gas and oil).",
+          "Main electricity supplier for the Greater Tripoli area and the north.",
+          "Frequently suffers from fuel shortages due to state financial crises.",
+          "Gas operation usually fails due to a lack of pipeline infrastructure.",
+          "More efficient, but remains heavily dependent on imports."
+        ]
+      }
+    },
+    {
+      "id": "choueifat-industrial-area-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Industriegebiet Choueifat, südlich von Beirut in unmittelbarer Nähe zum internationalen Flughafen gelegen, ist eines der größten und produktivsten Wirtschaftszentren des Libanon. Seine erstklassige logistische Anbindung an die Hauptstadt, den Hafen von Beirut und das südliche Hinterland macht es zum bevorzugten Standort für eine Vielzahl von Industrien. Das Gebiet zeichnet sich durch eine enorme Diversifikation aus: Hier finden sich große Produktionsstätten der Lebensmittel- und Getränkeindustrie, darunter Abfüllanlagen international bekannter Marken, ebenso wie Unternehmen der Kunststoffverarbeitung, der Pharmaindustrie und der Baustoffherstellung. Durch die Konzentration lokaler und multinationaler Unternehmen bietet Choueifat Tausenden von Arbeitern und Spezialisten Beschäftigung und bildet das industrielle Rückgrat des Großraums Mount Lebanon. Wachsende Herausforderungen wie Verkehrsstaus, unregelmäßige Stromversorgung und unkontrollierte Müllentsorgung belasten jedoch die Wettbewerbsfähigkeit und die ökologische Nachhaltigkeit der ansässigen Unternehmen.",
+        "hu": "A Bejrúttól délre, a nemzetközi repülőtér közvetlen közelében fekvő Choueifat ipari terület Libanon egyik legnagyobb és legtermékenyebb gazdasági központja. A fővároshoz, a bejrúti kikötőhöz és a déli hátországhoz fűződő első osztályú logisztikai kapcsolatai révén az iparágak széles körének kedvelt telephelye. A területet hatalmas diverzifikáció jellemzi: itt találhatók az élelmiszer- és italipar nagy termelőüzemei, köztük nemzetközileg ismert márkák palackozóüzemei, valamint műanyagfeldolgozó, gyógyszeripari és építőanyaggyártó vállalatok. A helyi és multinacionális vállalatok koncentrációja révén Choueifat munkások és szakemberek ezreinek biztosít foglalkoztatást, és a Libanon-hegy vonzáskörzetének ipari gerincét alkotja. Az egyre növekvő kihívások azonban, mint például a forgalmi torlódások, a rendszertelen áramellátás és az ellenőrizetlen hulladéklerakás, rontják a helyi vállalatok versenyképességét és környezeti fenntarthatóságát.",
+        "ro": "Zona industrială Choueifat, situată la sud de Beirut, în imediata apropiere a aeroportului internațional, este unul dintre cele mai mari și mai productive centre economice din Liban. Conexiunile sale logistice de primă clasă la capitală, la Portul Beirut și la hinterlandul sudic o fac o locație preferată pentru o mare varietate de industrii. Zona se caracterizează printr-o diversificare enormă: aici se găsesc facilități mari de producție pentru industria alimentară și a băuturilor, inclusiv fabrici de îmbuteliere a unor mărci cunoscute la nivel internațional, precum și companii implicate în prelucrarea materialelor plastice, industria farmaceutică și producția de materiale de construcții. Prin concentrarea companiilor locale și multinaționale, Choueifat oferă locuri de muncă pentru mii de muncitori și specialiști și formează coloana vertebrală industrială a regiunii Muntelui Liban. Cu toate acestea, provocările tot mai mari, cum ar fi congestionarea traficului, alimentarea neregulată cu energie electrică și eliminarea necontrolată a deșeurilor, afectează competitivitatea și sustenabilitatea ecologică a companiilor rezidente.",
+        "en": "The Choueifat industrial area, located south of Beirut in close proximity to the international airport, is one of the largest and most productive economic centers in Lebanon. Its prime logistical connections to the capital, the Port of Beirut, and the southern hinterland make it the preferred location for a wide variety of industries. The area is characterized by enormous diversification: it is home to large production facilities for the food and beverage industry, including bottling plants for internationally known brands, as well as companies involved in plastics processing, the pharmaceutical industry, and building materials manufacturing. Through the concentration of local and multinational companies, Choueifat provides employment for thousands of workers and specialists and forms the industrial backbone of the Greater Mount Lebanon area. However, growing challenges such as traffic congestion, irregular power supply, and uncontrolled waste disposal are burdening the competitiveness and environmental sustainability of the resident companies."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Beherbergt zentrale Abfüllanlagen für internationale Getränkemarken.",
+          "Bietet eine der größten Konzentrationen an Leichtindustrie im Libanon.",
+          "Profitiert von direkter Nähe zum Rafic-Hariri-Flughafen.",
+          "Zentraler Wirtschaftsstandort im Großraum Mount Lebanon.",
+          "Stark diversifiziert von Pharmazie bis Kunststoffverarbeitung.",
+          "Steht vor ökologischen Herausforderungen und Verkehrsproblemen."
+        ],
+        "hu": [
+          "Nemzetközi italmárkák központi palackozóüzemeinek ad otthont.",
+          "A könnyűipar egyik legnagyobb koncentrációját kínálja Libanonban.",
+          "A Rafic Hariri repülőtér közvetlen közelségéből profitál.",
+          "Központi gazdasági telephely a Libanon-hegy vonzáskörzetében.",
+          "Erősen diverzifikált a gyógyszeripartól a műanyagfeldolgozásig.",
+          "Ökológiai kihívásokkal és közlekedési problémákkal néz szembe."
+        ],
+        "ro": [
+          "Găzduiește facilități centrale de îmbuteliere pentru mărci internaționale de băuturi.",
+          "Oferă una dintre cele mai mari concentrații de industrie ușoară din Liban.",
+          "Beneficiază de proximitatea directă de Aeroportul Rafic Hariri.",
+          "Locație economică centrală în zona metropolitană a Muntelui Liban.",
+          "Foarte diversificată, de la produse farmaceutice la prelucrarea materialelor plastice.",
+          "Se confruntă cu provocări ecologice și probleme de trafic."
+        ],
+        "en": [
+          "Houses central bottling plants for international beverage brands.",
+          "Offers one of the largest concentrations of light industry in Lebanon.",
+          "Benefits from close proximity to Rafic Hariri Airport.",
+          "Central economic location in the Greater Mount Lebanon area.",
+          "Highly diversified from pharmaceuticals to plastics processing.",
+          "Faces ecological challenges and traffic congestion problems."
+        ]
+      }
+    },
+    {
+      "id": "port-of-batroun-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hafen von Batroun ist ein malerischer, traditionsreicher Küstenstandort im Nordlibanon, der sich in den letzten Jahrzehnten wirtschaftlich stark gewandelt hat. Einst geprägt von kleinen Fischerbooten und dem lokalen Handel mit Schwämmen, hat sich die Wirtschaft heute fast vollständig auf den Tourismus und die Dienstleistungsbranche verlagert. Die historische phoenizische Seemauer, authentische Restaurants, gemütliche Cafés und ein aufblühendes Nachtleben haben den Hafenbereich zu einem Hotspot für den nationalen und internationalen Tourismus gemacht. Neben der Fischerei, die noch immer den lokalen Markt mit frischen Meeresfrüchten versorgt, generieren luxuriöse Strandresorts und kleine Boutiquen im Hafenumfeld den Löwenanteil der städtischen Einnahmen. Obwohl der Hafen keine Rolle im internationalen Frachtverkehr spielt, beweist er exemplarisch, wie historische und kulturelle Ressourcen erfolgreich in eine nachhaltige, tourismusbasierte Wirtschaft umgewandelt werden können.",
+        "hu": "A batrouni kikötő egy festői, hagyományokban gazdag tengerparti helyszín Észak-Libanonban, amely az elmúlt évtizedekben jelentős gazdasági átalakuláson ment keresztül. Egykor kis halászhajók és a szivacsok helyi kereskedelme jellemezte, ma a gazdaság szinte teljesen a turizmusra és a szolgáltatóiparra helyeződött át. A történelmi föníciai tengerfal, az autentikus éttermek, a hangulatos kávézók és a virágzó éjszakai élet a kikötő környékét a nemzeti és nemzetközi turizmus fellegvárává tette. A halászat mellett, amely még mindig friss tenger gyümölcseivel látja el a helyi piacot, a kikötő környékén található luxus strandüdülők és kis butikok generálják a város bevételeinek oroszlánrészét. Bár a kikötő nem játszik szerepet a nemzetközi teherforgalomban, példaértékűen bizonyítja, hogyan lehet a történelmi és kulturális erőforrásokat sikeresen fenntartható, turizmusra épülő gazdasággá alakítani.",
+        "ro": "Portul Batroun este o locație de coastă pitorească, cu o tradiție bogată, în nordul Libanului, care a suferit o transformare economică majoră în ultimele decenii. Cândva dominată de mici bărci de pescuit și de comerțul local cu bureți, economia s-a mutat astăzi aproape complet către turism și industria serviciilor. Zidul istoric fenician al mării, restaurantele autentice, cafenelele confortabile și o viață de noapte înfloritoare au transformat zona portuară într-un punct fierbinte pentru turismul național și internațional. Pe lângă pescuit, care încă furnizează pește proaspăt pieței locale, stațiunile luxoase de pe plajă și micile buticuri din jurul portului generează partea leului din veniturile orașului. Deși portul nu joacă niciun rol în traficul internațional de mărfuri, demonstrează în mod exemplar modul în care resursele istorice și culturale pot fi transformate cu succes într-o economie durabilă, bazată pe turism.",
+        "en": "The Port of Batroun is a picturesque, tradition-rich coastal location in northern Lebanon that has undergone a major economic transformation in recent decades. Once dominated by small fishing boats and the local trade in sponges, the economy has today shifted almost entirely to tourism and the service industry. The historic Phoenician sea wall, authentic restaurants, cozy cafes, and a flourishing nightlife have turned the port area into a hotspot for national and international tourism. In addition to fishing, which still supplies the local market with fresh seafood, luxurious beach resorts and small boutiques around the port generate the lion's share of the city's revenue. Although the port plays no role in international freight traffic, it exemplifies how historical and cultural resources can be successfully transformed into a sustainable, tourism-based economy."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Fokussiert auf hochwertigen Kultur- und Strandtourismus.",
+          "Wichtiger Umschlagplatz für lokale Fischer und Meeresfrüchte.",
+          "Ein Anziehungspunkt für das libanesische Nachtleben.",
+          "Profitiert stark von Investitionen von Auslandslibanesen.",
+          "Historische phoenizische Seemauer als zentraler Wirtschaftsfaktor.",
+          "Hat keine Bedeutung für den großkalibrigen Container- oder Frachtumschlag."
+        ],
+        "hu": [
+          "A minőségi kulturális és strandturizmusra fókuszál.",
+          "A helyi halászok és tenger gyümölcsei fontos átrakodóhelye.",
+          "A libanoni éjszakai élet egyik vonzereje.",
+          "Erősen profitál a külföldi libanoniak befektetéseiből.",
+          "A történelmi föníciai tengerfal, mint központi gazdasági tényező.",
+          "Nincs jelentősége a nagy kaliberű konténer- vagy teheráru-forgalomban."
+        ],
+        "ro": [
+          "Se concentrează pe turismul cultural și de plajă de înaltă calitate.",
+          "Un important punct de tranzit pentru pescarii locali și fructele de mare.",
+          "Un punct de atracție pentru viața de noapte libaneză.",
+          "Beneficiază puternic de investițiile libanezilor expatriați.",
+          "Zidul istoric fenician al mării ca factor economic central.",
+          "Nu are nicio importanță pentru manipularea containerelor sau a mărfurilor la scară largă."
+        ],
+        "en": [
+          "Focused on high-quality cultural and beach tourism.",
+          "An important transit point for local fishermen and seafood.",
+          "A major attraction for the Lebanese nightlife scene.",
+          "Benefits heavily from investments by expatriate Lebanese.",
+          "Historic Phoenician sea wall acts as a central economic factor.",
+          "Has no significance for large-scale container or freight handling."
+        ]
+      }
+    },
+    {
+      "id": "anfeh-salt-pans-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Die Salzpfannen (Salinen) von Anfeh an der Nordküste des Libanon repräsentieren eine der ältesten und markantesten Handwerkstraditionen der Region. Seit Jahrhunderten extrahieren die Bewohner dieser kleinen Küstenstadt Meersalz mithilfe traditioneller, von Windmühlen angetriebener Pumpsysteme aus flachen Wasserbecken. Dieser Sektor war einst das wirtschaftliche Rückgrat des Dorfes und deckte einen signifikanten Teil des nationalen Salzbedarfs für den menschlichen Verzehr und die Lebensmittelkonservierung. In den letzten Jahrzehnten hat die lokale Produktion jedoch durch die Öffnung der Märkte für billigeres, importiertes Salz drastisch abgenommen, wodurch viele Anlagen verfielen. In jüngster Zeit erlebt Anfeh jedoch eine wirtschaftliche Renaissance durch den wachsenden Nischenmarkt für unraffiniertes, handwerklich hergestelltes Premium-Meersalz (Fleur de Sel). Parallel dazu zieht das markante, blau-weiße Erscheinungsbild der Küste („Little Mykonos“) Touristen an, die das traditionelle Erbe bewundern und so dem Ort neue wirtschaftliche Perspektiven eröffnen.",
+        "hu": "A Libanon északi partján fekvő Anfeh sólepárlói (sómedencéi) a régió egyik legrégebbi és legjellegzetesebb kézműves hagyományát képviselik. E kis tengerparti város lakói évszázadok óta hagyományos, szélmalmokkal hajtott szivattyúrendszerek segítségével nyernek tengeri sót a sekély medencékből. Ez az ágazat egykor a falu gazdasági gerincét alkotta, és az emberi fogyasztásra és élelmiszer-tartósításra szánt nemzeti sószükséglet jelentős részét fedezte. Az elmúlt évtizedekben azonban a helyi termelés drasztikusan visszaesett az olcsóbb, importált só piacra jutása miatt, ami sok létesítmény pusztulásához vezetett. A közelmúltban azonban Anfeh gazdasági reneszánszát éli a finomítatlan, kézműves prémium tengeri só (Fleur de Sel) iránti növekvő réspiac révén. Ezzel párhuzamosan a partvidék jellegzetes kék-fehér megjelenése („Kis Mükonosz”) vonzza a turistákat, akik megcsodálják a hagyományos örökséget, és így új gazdasági távlatokat nyitnak a hely számára.",
+        "ro": "Salinele din Anfeh, pe coasta de nord a Libanului, reprezintă una dintre cele mai vechi și mai distinctive tradiții artizanale din regiune. De secole, locuitorii acestui mic oraș de coastă au extras sare de mare folosind sisteme de pompare tradiționale, acționate de mori de vânt, din bazine cu apă puțin adâncă. Acest sector a fost cândva coloana vertebrală economică a satului și acoperea o parte semnificativă din necesarul național de sare pentru consumul uman și conservarea alimentelor. În ultimele decenii, însă, producția locală a scăzut drastic din cauza deschiderii piețelor către sare importată mai ieftină, ceea ce a dus la decăderea multor facilități. Recent, însă, Anfeh a cunoscut o renaștere economică prin piața de nișă în creștere a sării de mare premium, artizanală, nerafinată (Fleur de Sel). În paralel, aspectul izbitor, alb-albastru al coastei („Micul Mykonos”) atrage turiști care admiră moștenirea tradițională, deschizând astfel noi perspective economice pentru locație.",
+        "en": "The salt pans of Anfeh on the northern coast of Lebanon represent one of the oldest and most distinctive artisanal traditions in the region. For centuries, the inhabitants of this small coastal town have extracted sea salt from shallow basins using traditional windmill-driven pumping systems. This sector was once the economic backbone of the village and covered a significant portion of the national salt demand for human consumption and food preservation. In recent decades, however, local production has drastically declined due to the opening of markets to cheaper, imported salt, causing many facilities to fall into disrepair. Recently, however, Anfeh has experienced an economic renaissance through the growing niche market for unrefined, artisanal premium sea salt (Fleur de Sel). In parallel, the striking blue-and-white appearance of the coast ('Little Mykonos') attracts tourists who admire the traditional heritage, thereby opening up new economic perspectives for the location."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Zentrum der traditionellen libanesischen Meersalzgewinnung.",
+          "Verlor Marktanteile durch billige, internationale Salzimporte.",
+          "Setzt zunehmend auf Nischenprodukte wie Fleur de Sel.",
+          "Nutzt historische Windmühlen zum Pumpen des Meerwassers.",
+          "Die blau-weiße Architektur generiert Einnahmen durch den Tourismus.",
+          "Gilt als schützenswertes maritimes Kulturerbe des Landes."
+        ],
+        "hu": [
+          "A hagyományos libanoni tengerisó-kitermelés központja.",
+          "Piaci részesedést veszített az olcsó, nemzetközi sóimport miatt.",
+          "Egyre inkább az olyan réstermékekre támaszkodik, mint a Fleur de Sel.",
+          "Történelmi szélmalmokat használ a tengervíz szivattyúzására.",
+          "A kék-fehér építészet bevételeket generál a turizmusból.",
+          "Az ország védelemre méltó tengeri kulturális örökségének számít."
+        ],
+        "ro": [
+          "Centrul extracției tradiționale a sării de mare din Liban.",
+          "A pierdut cotă de piață din cauza importurilor ieftine de sare internațională.",
+          "Se bazează tot mai mult pe produse de nișă, cum ar fi Fleur de Sel.",
+          "Folosește mori de vânt istorice pentru a pompa apa de mare.",
+          "Arhitectura alb-albastră generează venituri prin turism.",
+          "Considerată un patrimoniu cultural maritim demn de protecție."
+        ],
+        "en": [
+          "Center of traditional Lebanese sea salt extraction.",
+          "Lost market share due to cheap, international salt imports.",
+          "Increasingly relies on niche products such as Fleur de Sel.",
+          "Uses historical windmills to pump the seawater into the pans.",
+          "The blue-and-white architecture generates revenue through tourism.",
+          "Considered a maritime cultural heritage worthy of protection."
+        ]
+      }
+    },
+    {
+      "id": "baalbek-power-plant-economic-v2",
+      "descriptionAdvanced": {
+        "de": "Das Wärmekraftwerk in Baalbek liegt in der hoch gelegenen und teils abgelegenen Bekaa-Ebene und spielt eine wichtige Rolle in dem Bestreben, die Stromversorgung in dieser strategisch wichtigen, aber infrastrukturell oft benachteiligten Agrarregion zu dezentralisieren. Im Gegensatz zu den großen Anlagen an der Mittelmeerküste ist das Kraftwerk Baalbek kleiner dimensioniert und primär darauf ausgerichtet, den lokalen Bedarf der städtischen Zentren sowie der wasserintensiven Landwirtschaft im nördlichen Bekaa-Tal zu decken. Ähnlich wie das Kraftwerk in Deir Ammar wurde es mit Dual-Fuel-Technologie ausgestattet, scheitert in der Praxis jedoch an der fehlenden Gasinfrastruktur und wird vorwiegend mit teurem Gasöl betrieben. Das Kraftwerk hat in den letzten Jahren erheblich unter der nationalen Finanzkrise und der mangelnden Wartung gelitten, was zu langen Phasen der Inaktivität führte und die lokale Bevölkerung dazu zwang, stark auf teure private Dieselgeneratoren auszuweichen.",
+        "hu": "A Baalbekben található hőerőmű a magasan fekvő és részben elszigetelt Bekaa-völgyben helyezkedik el, és fontos szerepet játszik abban a törekvésben, hogy decentralizálják az áramellátást ebben a stratégiailag fontos, de infrastrukturálisan gyakran hátrányos helyzetű agrárrégióban. A Földközi-tenger partján lévő nagy létesítményekkel ellentétben a baalbeki erőmű kisebb méretű, és elsősorban a városi központok, valamint az északi Bekaa-völgy vízigényes mezőgazdaságának helyi szükségleteinek kielégítésére összpontosít. A Deir Ammar-i erőműhöz hasonlóan kettős üzemanyagú technológiával szerelték fel, de a gyakorlatban a gázinfrastruktúra hiánya miatt kudarcot vall, és elsősorban drága gázolajjal működik. Az erőmű az elmúlt években jelentősen megszenvedte a nemzeti pénzügyi válságot és a karbantartás hiányát, ami hosszú tétlenségi időszakokhoz vezetett, és arra kényszerítette a helyi lakosságot, hogy nagymértékben drága magán dízelgenerátorokra támaszkodjon.",
+        "ro": "Centrala termică din Baalbek este situată în Valea Bekaa, înaltă și parțial izolată, și joacă un rol important în efortul de descentralizare a alimentării cu energie electrică în această regiune agricolă importantă din punct de vedere strategic, dar adesea defavorizată din punct de vedere al infrastructurii. Spre deosebire de instalațiile mari de pe coasta Mării Mediterane, centrala electrică Baalbek are dimensiuni mai mici și este orientată în primul rând spre satisfacerea nevoilor locale ale centrelor urbane și ale agriculturii consumatoare de apă din nordul Văii Bekaa. Similar centralei electrice din Deir Ammar, a fost echipată cu tehnologie cu combustibil dublu, dar eșuează în practică din cauza lipsei infrastructurii de gaz și este operată în principal cu motorină scumpă. În ultimii ani, centrala electrică a avut mult de suferit din cauza crizei financiare naționale și a lipsei de întreținere, ceea ce a dus la perioade lungi de inactivitate și a forțat populația locală să se bazeze puternic pe generatoare diesel private scumpe.",
+        "en": "The thermal power plant in Baalbek is located in the high-altitude and somewhat isolated Bekaa Valley and plays an important role in the effort to decentralize the power supply in this strategically important but infrastructurally often disadvantaged agricultural region. In contrast to the large facilities on the Mediterranean coast, the Baalbek power plant is smaller in scale and primarily oriented towards meeting the local needs of the urban centers and the water-intensive agriculture in the northern Bekaa Valley. Similar to the power plant in Deir Ammar, it was equipped with dual-fuel technology but fails in practice due to the lack of gas infrastructure and is predominantly operated with expensive gas oil. In recent years, the power plant has suffered significantly from the national financial crisis and a lack of maintenance, leading to long periods of inactivity and forcing the local population to rely heavily on expensive private diesel generators."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtiger Baustein zur Dezentralisierung des libanesischen Stromnetzes.",
+          "Ausgerichtet auf die Bedürfnisse des Agrarsektors im Bekaa-Tal.",
+          "Verfügt über Dual-Fuel-Fähigkeit, nutzt aber meist Gasöl.",
+          "Leidet häufig unter Treibstoffengpässen und Ausfällen.",
+          "Kompensiert Versorgungsschwächen im entlegenen Landesinneren.",
+          "Ein essenzielles, aber veraltetes Projekt der nationalen Daseinsvorsorge."
+        ],
+        "hu": [
+          "A libanoni villamosenergia-hálózat decentralizációjának fontos építőköve.",
+          "A Bekaa-völgy agrárszektorának igényeire szabták.",
+          "Kettős üzemanyagú, de leginkább gázolajat használ.",
+          "Gyakran szenved üzemanyaghiánytól és meghibásodásoktól.",
+          "Kompenzálja az ellátási hiányosságokat a távoli hátországban.",
+          "A nemzeti közszolgáltatások alapvető, de elavult projektje."
+        ],
+        "ro": [
+          "Un element important pentru descentralizarea rețelei electrice libaneze.",
+          "Orientată către nevoile sectorului agricol din Valea Bekaa.",
+          "Are capacitate de combustibil dublu, dar folosește mai ales motorină.",
+          "Suferă adesea de lipsuri de combustibil și avarii.",
+          "Compensează deficiențele de aprovizionare din zonele interioare izolate.",
+          "Un proiect esențial, dar învechit, de servicii publice naționale."
+        ],
+        "en": [
+          "Important building block for decentralizing the Lebanese power grid.",
+          "Oriented towards the needs of the agricultural sector in the Bekaa Valley.",
+          "Features dual-fuel capability but mostly uses gas oil.",
+          "Frequently suffers from fuel shortages and operational breakdowns.",
+          "Compensates for supply weaknesses in the remote interior of the country.",
+          "An essential but outdated project of national public service provision."
+        ]
+      }
+    }
+  ]
+}

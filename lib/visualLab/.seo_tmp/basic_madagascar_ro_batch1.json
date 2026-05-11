@@ -1,0 +1,28 @@
+{
+  "lang": "ro",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarEconomicV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarHistoryV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarLifeV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts",
+    "lib/visualLab/data/poiExtraMadagascarReliefV2.ts"
+  ],
+  "items": [
+    { "id": "toamasina-port-economic-v2", "description": "Portul Toamasina este principalul port comercial al Madagascarului, situat pe coasta de est.", "facts": ["Principalul port", "Hub comercial", "Coasta de est"] },
+    { "id": "fanalamanga-forestry-economic-v2", "description": "Fanalamanga este o regiune forestieră importantă dedicată producției de lemn și conservării.", "facts": ["Zonă forestieră", "Producție lemn", "Conservare natură"] },
+    { "id": "maintirano-port-economic-v2", "description": "Maintirano este un port regional situat pe coasta de vest, esențial pentru comerțul local.", "facts": ["Port regional", "Coasta de vest", "Comerț local"] },
+    { "id": "fianarantsoa-old-town-history-v2", "description": "Orașul vechi din Fianarantsoa este un centru cultural și religios, cunoscut pentru arhitectura sa tradițională.", "facts": ["Centru cultural", "Oraș istoric", "Arhitectură veche"] },
+    { "id": "fort-dauphin-tolanaro-history-v2", "description": "Fort Dauphin este un oraș istoric situat în sud-estul insulei, fondat de francezi în secolul al XVII-lea.", "facts": ["Fondat în 1643", "Oraș de coastă", "Sud-estul insulei"] },
+    { "id": "antongona-fortifications-history-v2", "description": "Fortificațiile din Antongona sunt situri istorice regale situate pe dealurile de lângă Antananarivo.", "facts": ["Sit regal", "Fortificații vechi", "Lângă capitală"] },
+    { "id": "analamazaotra-colonial-station-history-v2", "description": "Stația colonială Analamazaotra este un vestigiu al perioadei franceze, situată în inima pădurii tropicale.", "facts": ["Vestigiu colonial", "Regiunea Andasibe", "Inima pădurii"] },
+    { "id": "toliara-colonial-center-history-v2", "description": "Centrul colonial din Toliara păstrează clădiri din perioada franceză în acest oraș portuar din sud-vest.", "facts": ["Arhitectură colonială", "Oraș portuar", "Sud-vestul insulei"] },
+    { "id": "cap-mined-diego-suarez-history-v2", "description": "Cap Miné este un sit istoric militar situat lângă Diego Suarez, cu vedere la Oceanul Indian.", "facts": ["Sit militar", "Lângă Diego Suarez", "Vedere la ocean"] },
+    { "id": "kirindy-wald-life-v2", "description": "Pădurea Kirindy este o rezervație privată faimoasă pentru populația sa de fose și lemuri nocturni.", "facts": ["Pădure uscată", "Habitat fosa", "Lemuri nocturni"] },
+    { "id": "tsingy-bemaraha-park-life-v2", "description": "Parcul Național Tsingy de Bemaraha este celebru pentru formațiunile sale spectaculoase de calcar.", "facts": ["Patrimoniu UNESCO", "Formațiuni de calcar", "Biodiversitate unică"] },
+    { "id": "antsirabe-kinderpark-life-v2", "description": "Parcul pentru copii din Antsirabe este un loc de recreere popular în acest oraș termal.", "facts": ["Zonă de recreere", "Orașul Antsirabe", "Ideal pentru familii"] },
+    { "id": "andasibe-orchid-park-life-v2", "description": "Parcul de orhidee din Andasibe adăpostește o colecție impresionantă de specii endemice de plante.", "facts": ["Colecție de orhidee", "Plante endemice", "Regiunea Andasibe"] },
+    { "id": "vakona-lemuren-insel-life-v2", "description": "Insula lemurilor de la Vakona este un loc unic unde vizitatorii pot interacționa de aproape cu aceste primate.", "facts": ["Interacțiune lemuri", "Rezervație privată", "Regiunea Andasibe"] },
+    { "id": "ampefy-geyser-park-life-v2", "description": "Gheizerele din Ampefy sunt o atracție naturală fascinantă creată de activitatea vulcanică din regiune.", "facts": ["Gheizere reci", "Regiune vulcanică", "Atracție naturală"] }
+  ]
+}

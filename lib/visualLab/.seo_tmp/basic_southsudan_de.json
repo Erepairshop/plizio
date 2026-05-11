@@ -1,0 +1,64 @@
+{
+  "lang": "de",
+  "country": "Southsudan",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthsudanCitiesV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanEconomicV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanHistoryV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanLifeV2.ts",
+    "lib/visualLab/data/poiExtraSouthsudanNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "kapoeta-cities-v2",
+      "description": "Kapoeta ist eine Stadt im Bundesstaat Eastern Equatoria, die für ihre regionale Marktbedeutung bekannt ist. Sie dient als wichtiges Handelszentrum für die umliegende Region.",
+      "facts": ["Bundesstaat: Eastern Equatoria", "Handelszentrum", "Regionale Bedeutung", "Verkehrsknotenpunkt"]
+    },
+    {
+      "id": "nasir-cities-v2",
+      "description": "Nasir liegt am Sobat-Fluss im Bundesstaat Upper Nile und war historisch ein wichtiger Ort in der Region. Die Stadt spielt eine bedeutende Rolle im lokalen Handel.",
+      "facts": ["Bundesstaat: Upper Nile", "Lage am Sobat-Fluss", "Lokaler Handel", "Historischer Ort"]
+    },
+    {
+      "id": "magwi-cities-v2",
+      "description": "Magwi ist das administrative Zentrum des Magwi County im Bundesstaat Eastern Equatoria. Die Stadt ist ein landwirtschaftlich geprägter Standort in einer fruchtbaren Gegend.",
+      "facts": ["Bundesstaat: Eastern Equatoria", "County-Hauptstadt", "Landwirtschaft", "Fruchtbares Umland"]
+    },
+    {
+      "id": "rubkona-cities-v2",
+      "description": "Rubkona befindet sich im Bundesstaat Unity, in der Nähe der Stadt Bentiu. Sie ist ein wichtiger Ort für den regionalen Austausch und die Infrastruktur.",
+      "facts": ["Bundesstaat: Unity", "Nähe zu Bentiu", "Regionaler Austausch", "Infrastrukturell bedeutsam"]
+    },
+    {
+      "id": "pariang-cities-v2",
+      "description": "Pariang ist eine Stadt im Norden des Bundesstaates Unity und dient als lokales Verwaltungszentrum. Sie liegt in einer ölreichen Region des Landes.",
+      "facts": ["Bundesstaat: Unity", "Verwaltungszentrum", "Ölreiche Region", "Nördliche Lage"]
+    },
+    {
+      "id": "raja-cities-v2",
+      "description": "Raja ist die Hauptstadt des Bundesstaates Lol und liegt im westlichen Teil des Südsudans. Die Stadt zeichnet sich durch eine vielfältige kulturelle Zusammensetzung aus.",
+      "facts": ["Bundesstaat: Lol", "Hauptstadt", "West-Südsudan", "Kulturelle Vielfalt"]
+    },
+    {
+      "id": "deim-zubeir-cities-v2",
+      "description": "Deim Zubeir ist ein historisch bedeutender Ort im Bundesstaat Western Bahr el Ghazal. Er war im 19. Jahrhundert ein Zentrum des regionalen Handels.",
+      "facts": ["Bundesstaat: Western Bahr el Ghazal", "Historische Bedeutung", "Ehemaliges Handelszentrum", "Westliche Region"]
+    },
+    {
+      "id": "terekeka-cities-v2",
+      "description": "Terekeka liegt am Weißen Nil nördlich von Juba und ist der Hauptort der Mundari-Bevölkerung. Die Stadt ist ein wichtiges Zentrum für Viehzucht.",
+      "facts": ["Bundesstaat: Central Equatoria", "Lage am Weißen Nil", "Zentrum der Mundari", "Viehwirtschaft"]
+    },
+    {
+      "id": "nagero-cities-v2",
+      "description": "Nagero ist eine Stadt im Bundesstaat Western Equatoria, die als lokaler Knotenpunkt dient. Die Region ist für ihre Waldgebiete und landwirtschaftliche Aktivitäten bekannt.",
+      "facts": ["Bundesstaat: Western Equatoria", "Lokaler Knotenpunkt", "Landwirtschaft", "Waldreiche Umgebung"]
+    },
+    {
+      "id": "ibba-cities-v2",
+      "description": "Ibba ist ein Verwaltungsort in Western Equatoria, der an einer strategischen Verkehrsverbindung liegt. Das Gebiet ist stark agrarisch geprägt.",
+      "facts": ["Bundesstaat: Western Equatoria", "Verwaltungsort", "Agrarische Prägung", "Verkehrslage"]
+    }
+  ]
+}

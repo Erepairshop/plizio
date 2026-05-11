@@ -1,0 +1,94 @@
+{
+  "lang": "en",
+  "country": "Madagascar",
+  "files": [
+    "lib/visualLab/data/poiExtraMadagascarNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "nosy-be-nature-v2",
+      "description": "Nosy Be is a vibrant island paradise known for its lush vegetation, beautiful beaches, and unique tropical ecosystem.",
+      "facts": ["Vibrant island paradise", "Lush tropical vegetation", "Stunning coastal scenery"]
+    },
+    {
+      "id": "lake-itasy-nature-v2",
+      "description": "Lake Itasy is a stunning volcanic lake in the highlands, surrounded by fertile landscapes and offering spectacular sunset views.",
+      "facts": ["Volcanic crater lake", "Highland agricultural hub", "Breathtaking scenery"]
+    },
+    {
+      "id": "ankarafantsika-nature-v2",
+      "description": "Ankarafantsika National Park protects large areas of dry deciduous forest, critical for many of Madagascar's endemic lemur and bird species.",
+      "facts": ["Dry deciduous forest preserve", "Critical endemic habitat", "Key conservation area"]
+    },
+    {
+      "id": "andringitra-nature-v2",
+      "description": "Andringitra National Park features dramatic granite peaks and high-altitude grasslands, offering unique alpine-like ecosystems.",
+      "facts": ["Dramatic granite peaks", "High-altitude grasslands", "Unique mountain ecosystem"]
+    },
+    {
+      "id": "ranomafana-nature-v2",
+      "description": "Ranomafana National Park is a lush rainforest reserve home to rich biodiversity, including the famous golden bamboo lemur.",
+      "facts": ["Lush rainforest reserve", "Rich tropical biodiversity", "Home to golden bamboo lemur"]
+    },
+    {
+      "id": "masoala-peninsula-nature-v2",
+      "description": "Masoala Peninsula protects Madagascar's largest tropical rainforest, stretching from mountain peaks down to pristine coral reefs.",
+      "facts": ["Largest tropical rainforest", "Diverse coastal ecosystem", "Pristine marine environment"]
+    },
+    {
+      "id": "lake-tampolo-nature-v2",
+      "description": "Lake Tampolo is a scenic coastal lake surrounded by forests, offering a quiet retreat and excellent opportunities for nature observation.",
+      "facts": ["Scenic coastal lake", "Surrounded by forest", "Tranquil nature retreat"]
+    },
+    {
+      "id": "mahajanga-coast-nature-v2",
+      "description": "The coast around Mahajanga features beautiful sandy beaches and mangrove forests, supporting a diverse array of marine and coastal life.",
+      "facts": ["Diverse coastal habitat", "Mangrove forest areas", "Rich marine environment"]
+    },
+    {
+      "id": "saint-marie-island-nature-v2",
+      "description": "Sainte-Marie Island is a beautiful tropical island known for its relaxed atmosphere, lush forests, and migratory humpback whale sightings.",
+      "facts": ["Tropical island paradise", "Lush forest vegetation", "Humpback whale hotspot"]
+    },
+    {
+      "id": "tsiribihina-delta-nature-v2",
+      "description": "The Tsiribihina River delta is a vital wetland ecosystem teeming with wildlife, providing a crucial habitat in western Madagascar.",
+      "facts": ["Vital wetland ecosystem", "Rich wildlife diversity", "Crucial western habitat"]
+    },
+    {
+      "id": "lake-tsimanampetsotsa-nature-v2",
+      "description": "Lake Tsimanampetsotsa is a unique saline lake located in a national park, famous for its flamingo populations and limestone scenery.",
+      "facts": ["Unique saline lake", "Flamingo population habitat", "Dramatic limestone landscape"]
+    },
+    {
+      "id": "mangoro-river-nature-v2",
+      "description": "The Mangoro River is one of Madagascar's most significant rivers, flowing through diverse landscapes and supporting key agricultural areas.",
+      "facts": ["Major national river", "Diverse river landscapes", "Supports regional agriculture"]
+    },
+    {
+      "id": "nosy-mitseo-nature-v2",
+      "description": "The Nosy Mitsio archipelago consists of volcanic islands known for their crystal-clear waters, rare rock formations, and untouched beauty.",
+      "facts": ["Volcanic island archipelago", "Crystal-clear marine waters", "Untouched natural beauty"]
+    },
+    {
+      "id": "montagne-ambre-nature-v2",
+      "description": "Montagne d'Ambre National Park is a high-altitude rainforest volcanic park known for its refreshing climate and numerous waterfalls.",
+      "facts": ["Volcanic rainforest park", "Refreshing mountain climate", "Numerous scenic waterfalls"]
+    },
+    {
+      "id": "lake-anivorano-nature-v2",
+      "description": "Lake Anivorano is a volcanic crater lake steeped in local legend and surrounded by beautiful, rugged highland scenery.",
+      "facts": ["Volcanic crater lake", "Rich in local legend", "Rugged highland beauty"]
+    },
+    {
+      "id": "nosy-tanikely-nature-v2",
+      "description": "Nosy Tanikely is a small island and marine park celebrated for its exceptionally clear waters and thriving coral reef communities.",
+      "facts": ["Protected island marine park", "Exceptionally clear waters", "Thriving reef community"]
+    },
+    {
+      "id": "massif-des-makay-nature-v2",
+      "description": "The Makay Massif is a spectacular labyrinth of deep sandstone canyons, supporting highly unique and isolated ecosystems.",
+      "facts": ["Spectacular canyon labyrinth", "Deep sandstone landscapes", "Unique isolated biodiversity"]
+    }
+  ]
+}

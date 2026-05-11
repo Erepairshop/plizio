@@ -1,0 +1,1024 @@
+
+{
+  "lang": "multi4",
+  "country": "kuwait",
+  "files": ["poiExtraKuwaitLifeV2.ts"],
+  "items": [
+    {
+      "id": "jahra-pools-nature-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Jahra Pools Nature Reserve ist ein international anerkanntes Feuchtgebiet, das aus einer Reihe von künstlichen Becken entstanden ist, die durch aufbereitetes Abwasser gespeist werden. Es liegt westlich von Kuwait-Stadt und hat sich zu einem wichtigen Rastplatz für Zugvögel auf der Route zwischen Eurasien und Afrika entwickelt. Das Reservat beherbergt über 300 Vogelarten, darunter den seltenen Basrakarelvogel und den Steppenadler. Die Landschaft ist eine Mischung aus Süßwasserbecken, Salzwiesen und Schilfgürteln, die eine einzigartige Oase in der Wüstenumgebung schaffen. Die Verwaltung konzentriert sich auf die Erhaltung der Artenvielfalt und die Förderung der Vogelbeobachtung durch speziell eingerichtete Beobachtungspunkte, die den Besuchern einen Einblick in die reiche Avifauna ermöglichen, ohne die empfindlichen Lebensräume zu stören.",
+        "hu": "A Jahra Pools Természetvédelmi Terület egy nemzetközileg elismert vizes élőhely, amely tisztított szennyvízzel táplált mesterséges medencék sorozatából jött létre. Kuvaitvárostól nyugatra található, és az Eurázsia és Afrika közötti madárvonulási útvonal kulcsfontosságú pihenőhelyévé vált. A rezervátum több mint 300 madárfajnak ad otthont, köztük a ritka bazrai nádiposzátának és a pusztai sasnak. A táj édesvízi medencék, sós mocsarak és nádasok keveréke, amelyek egyedülálló oázist teremtenek a sivatagi környezetben. A terület kezelése a biológiai sokféleség megőrzésére és a madármegfigyelés elősegítésére összpontosít, speciálisan kialakított megfigyelőpontokon keresztül, amelyek lehetővé teszik a látogatók számára, hogy anélkül nyerjenek betekintést a gazdag madárvilágba, hogy megzavarnák az érzékeny élőhelyeket.",
+        "ro": "Rezervația Naturală Jahra Pools este o zonă umedă recunoscută la nivel internațional, creată dintr-o serie de bazine artificiale alimentate de ape uzate tratate. Situată la vest de orașul Kuweit, a devenit un punct de oprire vital pentru păsările migratoare pe ruta dintre Eurasia și Africa. Rezervația găzduiește peste 300 de specii de păsări, inclusiv rarii lăstun de Basra și acvila de stepă. Peisajul este un amestec de bazine de apă dulce, mlaștini sărate și stufărișuri, creând o oază unică în mediul deșertic. Managementul se concentrează pe conservarea biodiversității și promovarea observării păsărilor prin puncte de observare special amenajate, permițând vizitatorilor să aprecieze avifauna bogată fără a deranja habitatele sensibile.",
+        "en": "The Jahra Pools Nature Reserve is an internationally recognized wetland, created from a series of artificial pools fed by treated wastewater. Located west of Kuwait City, it has become a vital stopping point for migratory birds on the route between Eurasia and Africa. The reserve is home to over 300 species of birds, including the rare Basra Reed Warbler and the Steppe Eagle. The landscape is a mix of freshwater pools, salt marshes, and reed beds, creating a unique oasis in the desert environment. Management focuses on conserving biodiversity and promoting birdwatching through specially designed observation points, allowing visitors to appreciate the rich avifauna without disturbing the sensitive habitats."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Entstand aus Abwasseraufbereitungsanlagen in den 1970er Jahren.",
+          "Wurde 2015 als Ramsar-Gebiet ausgewiesen.",
+          "Ein wichtiger Überwinterungsort für den Steppenadler.",
+          "Bietet Lebensraum für den gefährdeten Basrakarelvogel.",
+          "Verwaltet vom Freiwilligenarbeitszentrum von Kuwait.",
+          "Die Wasserstände werden aktiv verwaltet, um verschiedene Habitate zu schaffen.",
+          "Es wurden über 380 Pflanzenarten im Reservat erfasst."
+        ],
+        "hu": [
+          "Az 1970-es években szennyvíztisztító telepekből alakult ki.",
+          "2015-ben Ramsari területté nyilvánították.",
+          "A pusztai sas fontos telelőhelye.",
+          "Élőhelyet biztosít a veszélyeztetett bazrai nádiposzátának.",
+          "A Kuvaiti Önkéntes Munka Központja kezeli.",
+          "A vízszintet aktívan kezelik a változatos élőhelyek kialakítása érdekében.",
+          "Több mint 380 növényfajt jegyeztek fel a rezervátumban."
+        ],
+        "ro": [
+          "Originar din facilități de tratare a apelor uzate în anii 1970.",
+          "Desemnat ca sit Ramsar în 2015.",
+          "Un loc important de iernare pentru acvila de stepă.",
+          "Oferă habitat pentru lăstunul de Basra, o specie vulnerabilă.",
+          "Gestionat de Centrul de Muncă Voluntară din Kuweit.",
+          "Nivelurile apei sunt gestionate activ pentru a crea diverse habitate.",
+          "Peste 380 de specii de plante au fost înregistrate în rezervație."
+        ],
+        "en": [
+          "Originated from wastewater treatment facilities in the 1970s.",
+          "Designated as a Ramsar Site in 2015.",
+          "An important wintering site for the Steppe Eagle.",
+          "Provides habitat for the vulnerable Basra Reed Warbler.",
+          "Managed by the Voluntary Work Center of Kuwait.",
+          "Water levels are actively managed to create diverse habitats.",
+          "Over 380 plant species have been recorded in the reserve."
+        ]
+      }
+    },
+    {
+      "id": "sabah-al-ahmad-nature-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Sabah Al-Ahmad Nature Reserve erstreckt sich über eine Fläche von 330 Quadratkilometern im Nordosten Kuwaits und ist eines der größten und vielfältigsten Schutzgebiete des Landes. Es wurde 2003 gegründet und nach dem verstorbenen Emir Scheich Sabah Al-Ahmad Al-Jaber Al-Sabah benannt. Das Reservat umfasst verschiedene Ökosysteme, darunter Küstenebenen, Salzsümpfe (Sabchas) und offene Wüstengebiete. Es dient dem Schutz der einheimischen Flora und Fauna, insbesondere der Wiedereinführung von Arten wie der arabischen Oryxantilope und der Sandgazelle. Das Reservat spielt auch eine wichtige Rolle bei der Bekämpfung der Wüstenbildung und bei der Forschung zur Wiederherstellung von Wüstenökosystemen. Besucher können an geführten Touren teilnehmen, um die einzigartige Tierwelt und die Wiederansiedlungsbemühungen zu beobachten.",
+        "hu": "A Sabah Al-Ahmad Természetvédelmi Terület 330 négyzetkilométeren terül el Kuvait északkeleti részén, és az ország egyik legnagyobb és legváltozatosabb védett területe. 2003-ban alapították, és a néhai emírről, Sabah Al-Ahmad Al-Jaber Al-Sabah sejkről nevezték el. A rezervátum különböző ökoszisztémákat foglal magában, beleértve a parti síkságokat, sós mocsarakat (sabkhákat) és nyílt sivatagi területeket. Célja a honos növény- és állatvilág védelme, különös tekintettel az olyan fajok visszatelepítésére, mint az arab bejza és a homoki gazella. A rezervátum fontos szerepet játszik az elsivatagosodás elleni küzdelemben és a sivatagi ökoszisztémák helyreállításával kapcsolatos kutatásokban is. A látogatók vezetett túrákon vehetnek részt, hogy megfigyeljék az egyedülálló vadvilágot és a visszatelepítési erőfeszítéseket.",
+        "ro": "Rezervația Naturală Sabah Al-Ahmad acoperă 330 de kilometri pătrați în nord-estul Kuweitului, fiind una dintre cele mai mari și mai diverse zone protejate din țară. Înființată în 2003, a fost numită după regretatul emir, șeicul Sabah Al-Ahmad Al-Jaber Al-Sabah. Rezervația cuprinde diverse ecosisteme, inclusiv câmpii de coastă, mlaștini sărate (sabkhas) și zone de deșert deschis. Aceasta are ca scop protejarea florei și faunei native, în special reintroducerea unor specii precum oryxul arab și gazela de nisip. Rezervația joacă, de asemenea, un rol crucial în combaterea deșertificării și în cercetarea privind refacerea ecosistemelor deșertice. Vizitatorii pot participa la tururi ghidate pentru a observa viața sălbatică unică și eforturile de reintroducere a speciilor.",
+        "en": "The Sabah Al-Ahmad Nature Reserve covers 330 square kilometers in northeastern Kuwait, making it one of the country's largest and most diverse protected areas. Established in 2003, it was named after the late Emir, Sheikh Sabah Al-Ahmad Al-Jaber Al-Sabah. The reserve encompasses various ecosystems, including coastal plains, salt marshes (sabkhas), and open desert areas. It is dedicated to protecting native flora and fauna, particularly through the reintroduction of species like the Arabian Oryx and Sand Gazelle. The reserve also plays a crucial role in combating desertification and in research on desert ecosystem restoration. Visitors can join guided tours to observe the unique wildlife and the reintroduction efforts firsthand."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Gegründet im Jahr 2003 per Dekret des Emirs.",
+          "Umfasst eine Fläche von 330 Quadratkilometern.",
+          "Beherbergt Wiedereinführungsprogramme für die Arabische Oryxantilope.",
+          "Wichtiger Standort für die Erforschung der Wiederherstellung von Trockengebieten.",
+          "Umfasst Küsten-, Wüsten- und Feuchtgebietsökosysteme.",
+          "Benannt nach dem 15. Emir von Kuwait, Scheich Sabah Al-Ahmad.",
+          "Geschlossener Bereich zur Regeneration der einheimischen Vegetation.",
+          "Schützt archäologische Stätten aus der Bronzezeit."
+        ],
+        "hu": [
+          "2003-ban emíri rendelettel alapították.",
+          "Területe 330 négyzetkilométer.",
+          "Az arab bejza visszatelepítési programjainak ad otthont.",
+          "Fontos helyszíne a száraz területek helyreállításával kapcsolatos kutatásoknak.",
+          "Parti, sivatagi és vizes élőhelyi ökoszisztémákat foglal magában.",
+          "Kuvait 15. emírjéről, Sabah Al-Ahmad sejkről nevezték el.",
+          "A honos növényzet regenerálódása érdekében lezárt területekkel rendelkezik.",
+          "Bronzkori régészeti lelőhelyeket is véd."
+        ],
+        "ro": [
+          "Înființată prin decret emiral în 2003.",
+          "Acoperă o suprafață de 330 de kilometri pătrați.",
+          "Găzduiește programe de reintroducere pentru Oryxul Arab.",
+          "Un sit important pentru cercetarea refacerii terenurilor aride.",
+          "Include ecosisteme de coastă, deșertice și de zone umede.",
+          "Numită după al 15-lea Emir al Kuweitului, Șeicul Sabah Al-Ahmad.",
+          "Dispune de o zonă închisă pentru a permite regenerarea vegetației native.",
+          "Protejează situri arheologice din Epoca Bronzului."
+        ],
+        "en": [
+          "Established by Emiri decree in 2003.",
+          "Covers an area of 330 square kilometers.",
+          "Home to reintroduction programs for the Arabian Oryx.",
+          "An important site for arid land restoration research.",
+          "Includes coastal, desert, and wetland ecosystems.",
+          "Named after the 15th Emir of Kuwait, Sheikh Sabah Al-Ahmad.",
+          "Features an enclosed area to allow native vegetation to regenerate.",
+          "Protects archaeological sites dating back to the Bronze Age."
+        ]
+      }
+    },
+    {
+      "id": "wafra-farms-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Wafra Farms liegen in der südlichsten Region Kuwaits nahe der saudischen Grenze und bilden das landwirtschaftliche Herz des Landes. Dieses ausgedehnte Gebiet ist bekannt für seine hydroponischen Farmen und Gewächshäuser, in denen trotz des trockenen Klimas eine Vielzahl von Pflanzen angebaut wird. Tomaten, Gurken, Paprika und verschiedene Blattgemüse gehören zu den Hauptprodukten. Die Farmen nutzen fortschrittliche Bewässerungstechniken wie die Tröpfchenbewässerung, um den Wasserverbrauch zu minimieren. Neben dem Gemüseanbau gibt es auch Betriebe, die sich auf Milchwirtschaft, Geflügel und sogar den Anbau von Dattelpalmen spezialisiert haben. Die Region ist ein Beispiel für innovative Landwirtschaft in einer wasserarmen Umgebung und spielt eine entscheidende Rolle bei der Versorgung des lokalen Marktes mit Frischprodukten und der Verringerung der Abhängigkeit von Importen.",
+        "hu": "A Wafra farmok Kuvait legdélibb régiójában, a szaúdi határ közelében találhatók, és az ország mezőgazdasági központját képezik. Ez a kiterjedt terület a hidroponikus farmjairól és üvegházairól ismert, ahol a száraz éghajlat ellenére sokféle növényt termesztenek. A paradicsom, az uborka, a paprika és a különféle leveles zöldségek a fő termények közé tartoznak. A gazdaságok fejlett öntözési technikákat, például csepegtető öntözést alkalmaznak a vízfelhasználás minimalizálása érdekében. A zöldségtermesztés mellett tejtermelő, baromfitenyésztő és datolyapálma-termesztéssel foglalkozó gazdaságok is működnek itt. A régió példa az innovatív mezőgazdaságra egy vízhiányos környezetben, és döntő szerepet játszik a helyi piac friss termékekkel való ellátásában és az importfüggőség csökkentésében.",
+        "ro": "Fermele Wafra, situate în cea mai sudică regiune a Kuweitului, lângă granița cu Arabia Saudită, formează inima agricolă a națiunii. Această zonă extinsă este renumită pentru fermele sale hidroponice și serele care cultivă o varietate de culturi în ciuda climei aride. Roșiile, castraveții, ardeii și diversele legume cu frunze verzi se numără printre principalele produse. Fermele utilizează tehnici avansate de irigare, cum ar fi irigarea prin picurare, pentru a minimiza consumul de apă. Pe lângă cultivarea legumelor, există și operațiuni dedicate producției de lactate, creșterii păsărilor și chiar cultivării curmalilor. Regiunea este un exemplu de agricultură inovatoare într-un mediu cu deficit de apă, jucând un rol crucial în aprovizionarea pieței locale cu produse proaspete și în reducerea dependenței de importuri.",
+        "en": "Wafra Farms, located in the southernmost region of Kuwait near the Saudi border, forms the agricultural heartland of the nation. This extensive area is renowned for its hydroponic farms and greenhouses that cultivate a variety of crops despite the arid climate. Tomatoes, cucumbers, peppers, and various leafy greens are among the primary produce. The farms utilize advanced irrigation techniques, such as drip irrigation, to minimize water consumption. In addition to vegetable cultivation, there are also operations dedicated to dairy production, poultry farming, and even the growing of date palms. The region exemplifies innovative agriculture in a water-scarce environment, playing a crucial role in supplying the local market with fresh produce and reducing reliance on imports."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Süden Kuwaits, an der Grenze zu Saudi-Arabien.",
+          "Bekannt für den Einsatz von Hydrokultur und Gewächshaustechnologie.",
+          "Produziert einen erheblichen Teil des Frischgemüses des Landes.",
+          "Hauptanbauprodukte sind Tomaten, Gurken und Paprika.",
+          "Verwendet Tröpfchenbewässerung zur Wassereinsparung.",
+          "Beherbergt auch Milchvieh- und Geflügelfarmen.",
+          "Spielt eine Schlüsselrolle in der Ernährungssicherheit Kuwaits.",
+          "Viele Farmen bieten Direktverkäufe für Verbraucher an."
+        ],
+        "hu": [
+          "Kuvait déli részén, a szaúd-arábiai határon található.",
+          "Hidropónia és üvegházas technológia alkalmazásáról ismert.",
+          "Az ország friss zöldségtermelésének jelentős részét adja.",
+          "Fő terményei a paradicsom, az uborka és a paprika.",
+          "A vízmegtakarítás érdekében csepegtető öntözést alkalmaz.",
+          "Tejtermelő és baromfitenyésztő gazdaságoknak is otthont ad.",
+          "Kulcsfontosságú szerepet játszik Kuvait élelmezésbiztonságában.",
+          "Sok gazdaság közvetlen értékesítést kínál a fogyasztóknak."
+        ],
+        "ro": [
+          "Situat în sudul Kuweitului, la granița cu Arabia Saudită.",
+          "Renumit pentru utilizarea hidroponiei și a tehnologiei serelor.",
+          "Produce o parte semnificativă din legumele proaspete ale țării.",
+          "Principalele culturi includ roșii, castraveți și ardei.",
+          "Folosește irigarea prin picurare pentru conservarea apei.",
+          "Găzduiește, de asemenea, ferme de lactate și de păsări.",
+          "Joacă un rol cheie în securitatea alimentară a Kuweitului.",
+          "Multe ferme oferă vânzări directe către consumatori."
+        ],
+        "en": [
+          "Located in southern Kuwait, bordering Saudi Arabia.",
+          "Known for its use of hydroponics and greenhouse technology.",
+          "Produces a significant portion of the country's fresh vegetables.",
+          "Major crops include tomatoes, cucumbers, and peppers.",
+          "Employs drip irrigation for water conservation.",
+          "Also home to dairy and poultry farms.",
+          "Plays a key role in Kuwait's food security strategy.",
+          "Many farms offer direct-to-consumer sales."
+        ]
+      }
+    },
+    {
+      "id": "abdali-farms-life-v2",
+      "descriptionAdvanced": {
+        "de": "Die Abdali Farms liegen in der nördlichsten Region Kuwaits nahe der irakischen Grenze und sind ein weiteres wichtiges landwirtschaftliches Zentrum des Landes. Im Gegensatz zu Wafra konzentriert sich Abdali traditionell stärker auf den Freilandanbau, insbesondere von Dattelpalmen und saisonalem Gemüse. Das Gebiet profitiert von etwas fruchtbareren Böden und dem Vorhandensein von Grundwasser, obwohl die Wasserknappheit weiterhin eine große Herausforderung darstellt. Moderne Farmen in Abdali setzen zunehmend auf geschützte Landwirtschaft und effiziente Bewässerungsmethoden, um die Erträge zu steigern. Die Region ist auch für ihre Imkereien bekannt, die Sidr-Honig produzieren, der aus dem Nektar der Ziziphus-Bäume gewonnen wird. Die Farmen von Abdali tragen wesentlich zur lokalen Lebensmittelproduktion bei und bieten den Stadtbewohnern eine beliebte Flucht aufs Land, insbesondere während der Erntezeit.",
+        "hu": "Az Abdali farmok Kuvait legészakibb régiójában, az iraki határ közelében helyezkednek el, és az ország másik fontos mezőgazdasági központját alkotják. Wafrával ellentétben Abdali hagyományosan inkább a szabadtéri termesztésre összpontosít, különösen a datolyapálmákra és a szezonális zöldségekre. A terület valamivel termékenyebb talajjal és talajvíz jelenlétével rendelkezik, bár a vízhiány továbbra is komoly kihívást jelent. Az Abdali modern gazdaságai egyre inkább a védett termesztésre és a hatékony öntözési módszerekre támaszkodnak a hozamok növelése érdekében. A régió méhészetéről is ismert, ahol a Ziziphus fák nektárjából származó szidr mézet termelik. Az Abdali farmok jelentősen hozzájárulnak a helyi élelmiszer-termeléshez, és népszerű vidéki kikapcsolódást nyújtanak a városlakóknak, különösen a betakarítási szezonban.",
+        "ro": "Fermele Abdali, situate în cea mai nordică regiune a Kuweitului, aproape de granița cu Irak, reprezintă un alt centru agricol vital pentru țară. Spre deosebire de Wafra, Abdali s-a concentrat în mod tradițional mai mult pe agricultura în câmp deschis, în special pe curmali și legume de sezon. Zona beneficiază de un sol ceva mai fertil și de prezența apelor subterane, deși deficitul de apă rămâne o provocare majoră. Fermele moderne din Abdali adoptă din ce în ce mai mult agricultura protejată și metode eficiente de irigare pentru a crește randamentele. Regiunea este, de asemenea, cunoscută pentru apicultura sa, producând miere de Sidr, recoltată din nectarul copacilor Ziziphus. Fermele din Abdali contribuie semnificativ la producția locală de alimente și oferă o evadare populară la țară pentru locuitorilor orașului, în special în timpul sezonului de recoltare.",
+        "en": "Abdali Farms, situated in the northernmost region of Kuwait near the Iraqi border, constitutes another vital agricultural hub for the country. Unlike Wafra, Abdali has traditionally focused more on open-field agriculture, particularly date palms and seasonal vegetables. The area benefits from slightly more fertile soil and the presence of groundwater, although water scarcity remains a major challenge. Modern farms in Abdali are increasingly adopting protected agriculture and efficient irrigation methods to boost yields. The region is also known for its apiaries, producing Sidr honey, which is harvested from the nectar of Ziziphus trees. Abdali's farms contribute significantly to local food production and offer a popular rural escape for city dwellers, especially during the harvest season."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Norden Kuwaits, nahe der irakischen Grenze.",
+          "Traditionell bekannt für den Anbau von Dattelpalmen im Freiland.",
+          "Profitiert von natürlichen Grundwasserreserven.",
+          "Wichtiger Produzent von Sidr-Honig aus Ziziphus-Bäumen.",
+          "Viele Farmen werden als Wochenendausflüge für Familien genutzt.",
+          "Saisonaler Anbau von Gemüse wie Kartoffeln und Zwiebeln.",
+          "Einige Farmen experimentieren mit dem Anbau von Oliven und Zitrusfrüchten.",
+          "Die Regierung unterstützt Landwirte mit Subventionen für Wasser und Strom."
+        ],
+        "hu": [
+          "Kuvait északi részén, az iraki határ közelében található.",
+          "Hagyományosan a szabadtéri datolyapálma-termesztésről ismert.",
+          "Természetes talajvízkészletekkel rendelkezik.",
+          "A Ziziphus fákból származó szidr méz fontos termelője.",
+          "Sok gazdaságot családi hétvégi kirándulóhelyként használnak.",
+          "Szezonálisan termesztenek zöldségeket, például burgonyát és hagymát.",
+          "Néhány gazdaság olajbogyó- és citrusfélék termesztésével kísérletezik.",
+          "A kormány víz- és áramtámogatással segíti a gazdákat."
+        ],
+        "ro": [
+          "Situat în nordul Kuweitului, aproape de granița cu Irak.",
+          "Cunoscut în mod tradițional pentru cultivarea curmalilor în câmp deschis.",
+          "Beneficiază de rezerve naturale de apă subterană.",
+          "Un producător important de miere de Sidr din copacii Ziziphus.",
+          "Multe ferme sunt folosite ca locuri de evadare de weekend pentru familii.",
+          "Cultivarea sezonieră a legumelor precum cartofii și ceapa.",
+          "Unele ferme experimentează cu cultivarea măslinilor și citricelor.",
+          "Guvernul sprijină fermierii cu subvenții pentru apă și electricitate."
+        ],
+        "en": [
+          "Located in northern Kuwait, near the Iraqi border.",
+          "Traditionally known for open-field date palm cultivation.",
+          "Benefits from natural groundwater reserves.",
+          "A major producer of Sidr honey from Ziziphus trees.",
+          "Many farms are used as weekend getaways for families.",
+          "Seasonal cultivation of vegetables like potatoes and onions.",
+          "Some farms are experimenting with growing olives and citrus.",
+          "The government supports farmers with water and electricity subsidies."
+        ]
+      }
+    },
+    {
+      "id": "bayan-botanical-garden-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Bayan Botanical Garden, der sich auf dem Gelände des Bayan-Palastes befindet, ist eine bemerkenswerte botanische Einrichtung, die sich dem Anbau und der Ausstellung einer breiten Palette von Pflanzen widmet. Der Garten beherbergt das größte Gewächshaus in Kuwait, eine beeindruckende Glaskonstruktion, die ein kontrolliertes Klima für tropische und subtropische Arten bietet. Im Inneren können Besucher durch verschiedene Zonen wandern, die unterschiedliche Ökosysteme simulieren. Der Garten dient nicht nur als öffentliche Attraktion, sondern auch als wichtiges Zentrum für botanische Forschung und Bildung. Er konzentriert sich auf die Erhaltung einheimischer Wüstenpflanzen und experimentiert mit der Einführung von Arten, die an das trockene Klima der Region angepasst sind. Die sorgfältig gepflegten Außenanlagen und die thematischen Gärten machen ihn zu einem ruhigen Ort der Erholung und des Lernens.",
+        "hu": "A Bayan Botanikus Kert, amely a Bayan palota területén található, egy figyelemre méltó botanikai létesítmény, amely a növények széles skálájának termesztésével és bemutatásával foglalkozik. A kert ad otthont Kuvait legnagyobb üvegházának, egy lenyűgöző üvegszerkezetnek, amely szabályozott klímát biztosít a trópusi és szubtrópusi fajok számára. Belül a látogatók különböző zónákon sétálhatnak keresztül, amelyek eltérő ökoszisztémákat szimulálnak. A kert nemcsak nyilvános látványosságként, hanem a botanikai kutatás és oktatás fontos központjaként is szolgál. A honos sivatagi növények megőrzésére összpontosít, és a régió száraz éghajlatához alkalmazkodó fajok bevezetésével kísérletezik. A gondosan gondozott kültéri területek és a tematikus kertek a pihenés és a tanulás békés helyszínévé teszik.",
+        "ro": "Grădina Botanică Bayan, situată în incinta Palatului Bayan, este o facilitate botanică remarcabilă dedicată cultivării și expunerii unei game largi de plante. Grădina găzduiește cea mai mare seră din Kuweit, o structură impresionantă de sticlă care oferă un climat controlat pentru speciile tropicale și subtropicale. În interior, vizitatorii pot rătăci prin diferite zone care simulează ecosisteme distincte. Grădina servește nu numai ca o atracție publică, ci și ca un centru important pentru cercetare și educație botanică. Se concentrează pe conservarea plantelor native din deșert și experimentează cu introducerea de specii adaptate la clima aridă a regiunii. Terenurile exterioare îngrijite cu meticulozitate și grădinile tematice fac din acest loc un spațiu senin pentru recreere și învățare.",
+        "en": "The Bayan Botanical Garden, located within the grounds of the Bayan Palace, is a remarkable botanical facility dedicated to cultivating and displaying a wide range of plants. The garden is home to the largest glasshouse in Kuwait, an impressive structure that provides a controlled climate for tropical and subtropical species. Inside, visitors can wander through different zones that simulate distinct ecosystems. The garden serves not only as a public attraction but also as an important center for botanical research and education. It focuses on the conservation of native desert plants and experiments with introducing species adapted to the region's arid climate. The meticulously maintained outdoor grounds and themed gardens make it a serene space for recreation and learning."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich auf dem Gelände des Bayan-Palastes, einer der Residenzen des Emirs.",
+          "Beherbergt das größte Gewächshaus in Kuwait.",
+          "Das Gewächshaus ist in mehrere Klimazonen unterteilt.",
+          "Fokus auf die Erhaltung der einheimischen Flora Kuwaits.",
+          "Dient als Zentrum für botanische Forschung und Bildung.",
+          "Wird oft für offizielle Staatsbesuche und Veranstaltungen genutzt.",
+          "Die Außenanlagen umfassen thematische Gärten und Wasserspiele.",
+          "Die Sammlung umfasst Pflanzen aus der ganzen Welt."
+        ],
+        "hu": [
+          "A Bayan palota területén található, amely az emír egyik rezidenciája.",
+          "Kuvait legnagyobb üvegházának ad otthont.",
+          "Az üvegház több éghajlati zónára van osztva.",
+          "Középpontjában Kuvait őshonos növényvilágának megőrzése áll.",
+          "Botanikai kutatási és oktatási központként szolgál.",
+          "Gyakran használják hivatalos állami látogatások és események helyszínéül.",
+          "A kültéri területeken tematikus kertek és vízjátékok találhatók.",
+          "A gyűjtemény a világ minden tájáról származó növényeket tartalmaz."
+        ],
+        "ro": [
+          "Situată în incinta Palatului Bayan, una dintre reședințele Emirului.",
+          "Găzduiește cea mai mare seră din Kuweit.",
+          "Sera este împărțită în mai multe zone climatice.",
+          "Accent pe conservarea florei native a Kuweitului.",
+          "Servește ca centru de cercetare și educație botanică.",
+          "Adesea folosit pentru vizite oficiale de stat și evenimente.",
+          "Terenurile exterioare includ grădini tematice și elemente acvatice.",
+          "Colecția include plante din întreaga lume."
+        ],
+        "en": [
+          "Located within the grounds of Bayan Palace, one of the Emir's residences.",
+          "Home to the largest glasshouse in Kuwait.",
+          "The glasshouse is divided into multiple climatic zones.",
+          "Focuses on the conservation of Kuwait's native flora.",
+          "Serves as a center for botanical research and education.",
+          "Often used for official state visits and events.",
+          "The outdoor grounds include themed gardens and water features.",
+          "The collection includes plants from all over the world."
+        ]
+      }
+    },
+    {
+      "id": "mishref-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Mishref Park ist einer der größten und ältesten städtischen Parks in Kuwait. Er erstreckt sich über eine beträchtliche Fläche und bietet eine grüne Oase inmitten des städtischen Gefüges. Der Park ist bekannt für seine weitläufigen Rasenflächen, schattenspendenden Bäume und gut ausgebauten Wege, die zum Spazierengehen und Joggen einladen. Zu den Einrichtungen gehören mehrere Spielplätze für Kinder, Sportplätze für Fußball und Basketball sowie Picknickbereiche, die bei Familien besonders an den Wochenenden sehr beliebt sind. Eine Besonderheit des Parks war früher ein Zug, der die Besucher durch das Gelände fuhr. Der Park beherbergt auch ein internationales Messegelände (Kuwait International Fairground), in dem das ganze Jahr über verschiedene Ausstellungen und Veranstaltungen stattfinden. Der Mishref Park ist ein wichtiger sozialer Treffpunkt und ein Ort der Erholung für die Bewohner der umliegenden Gebiete.",
+        "hu": "A Mishref Park Kuvait egyik legnagyobb és legrégebbi városi parkja. Jelentős területen fekszik, zöld oázist kínálva a városi szövet közepén. A park a tágas pázsitjairól, árnyat adó fáiról és jól karbantartott sétányairól ismert, amelyek sétára és kocogásra csábítanak. A létesítmények közé tartozik több játszótér, futball- és kosárlabdapálya, valamint piknikezőhelyek, amelyek különösen a hétvégén népszerűek a családok körében. A park egyik korábbi jellegzetessége egy vonat volt, amely a látogatókat szállította a területen. A park ad otthont a Kuvaiti Nemzetközi Vásárközpontnak is, ahol egész évben különböző kiállításokat és rendezvényeket tartanak. A Mishref Park fontos társadalmi találkozóhely és rekreációs központ a környező területek lakói számára.",
+        "ro": "Parcul Mishref este unul dintre cele mai mari și mai vechi parcuri urbane din Kuweit. Acesta se întinde pe o suprafață considerabilă, oferind o oază de verdeață în mijlocul țesutului urban. Parcul este cunoscut pentru peluzele sale extinse, copacii care oferă umbră și aleile bine întreținute, populare pentru plimbări și jogging. Facilitățile includ mai multe locuri de joacă pentru copii, terenuri de sport pentru fotbal și baschet, precum și zone de picnic care sunt deosebit de populare printre familii în weekend. O caracteristică notabilă a parcului a fost odată un tren care transporta vizitatorii prin parc. Parcul găzduiește, de asemenea, Târgul Internațional din Kuweit, unde au loc diverse expoziții și evenimente pe tot parcursul anului. Parcul Mishref este un important punct de întâlnire socială și un spațiu de recreere pentru locuitorii din zonele învecinate.",
+        "en": "Mishref Park is one of the largest and oldest urban parks in Kuwait. It covers a substantial area, offering a green oasis amidst the urban fabric. The park is known for its expansive lawns, shade-providing trees, and well-maintained pathways popular for walking and jogging. Facilities include multiple children's playgrounds, sports courts for football and basketball, and picnic areas that are especially popular with families on weekends. A notable feature of the park was once a train that used to take visitors around the grounds. The park also hosts the Kuwait International Fairground on its premises, where various exhibitions and events are held throughout the year. Mishref Park serves as an important social hub and recreational space for residents of the surrounding areas."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der größten und ältesten Parks in Kuwait.",
+          "Befindet sich im Wohngebiet von Mishref.",
+          "Beherbergt das Kuwait International Fairground.",
+          "Verfügt über Sportanlagen wie Fußball- und Basketballplätze.",
+          "Beliebter Ort für Familienpicknicks an Wochenenden.",
+          "Früher gab es eine Parkeisenbahn, die durch den Park fuhr.",
+          "Umfangreiche Grünflächen und Joggingwege.",
+          "Veranstaltungsort für verschiedene Festivals und öffentliche Events."
+        ],
+        "hu": [
+          "Kuvait egyik legnagyobb és legrégebbi parkja.",
+          "Mishref lakónegyedében található.",
+          "A Kuvaiti Nemzetközi Vásárközpontnak ad otthont.",
+          "Sportlétesítményekkel, például futball- és kosárlabdapályákkal rendelkezik.",
+          "Népszerű helyszín a hétvégi családi piknikekhez.",
+          "Korábban egy kisvasút közlekedett a parkban.",
+          "Kiterjedt zöldterületekkel és futópályákkal rendelkezik.",
+          "Különböző fesztiváloknak és nyilvános eseményeknek ad otthont."
+        ],
+        "ro": [
+          "Unul dintre cele mai mari și mai vechi parcuri din Kuweit.",
+          "Situat în zona rezidențială Mishref.",
+          "Găzduiește Târgul Internațional din Kuweit.",
+          "Dispune de facilități sportive, inclusiv terenuri de fotbal și baschet.",
+          "Un loc popular pentru picnicuri de familie în weekend.",
+          "În trecut, avea un tren care făcea turul parcului.",
+          "Are spații verzi extinse și piste de jogging.",
+          "Gazdă pentru diverse festivaluri și evenimente publice."
+        ],
+        "en": [
+          "One of the largest and oldest parks in Kuwait.",
+          "Located in the residential area of Mishref.",
+          "Hosts the Kuwait International Fairground.",
+          "Features sports facilities including football and basketball courts.",
+          "A popular spot for family picnics on weekends.",
+          "Formerly featured a train that toured the park.",
+          "Has extensive green spaces and jogging tracks.",
+          "Venue for various festivals and public events."
+        ]
+      }
+    },
+    {
+      "id": "egaila-beach-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Egaila Beach Park ist ein beliebter Freizeitort an der Küste im Süden von Kuwait-Stadt. Er verbindet die Annehmlichkeiten eines Parks mit dem Zugang zum Meer. Der Park verfügt über gepflegte Grünflächen, Spielplätze und Grillplätze und ist damit ein idealer Ort für Familienausflüge. Der Strandabschnitt ist gut gepflegt und bietet Möglichkeiten zum Schwimmen und für Strandaktivitäten. Eine Besonderheit des Parks ist die markante Holzbrücke, die über eine kleine Bucht führt und einen malerischen Ausblick auf das Meer bietet. Der Park ist Teil der Bemühungen, die Küstenlinie Kuwaits für die Öffentlichkeit zugänglich und attraktiv zu gestalten. Er ist besonders in den kühleren Monaten und an Wochenenden ein belebter Treffpunkt für Einheimische und Auswanderer, die Entspannung und Erholung am Meer suchen.",
+        "hu": "Az Egaila Beach Park egy népszerű tengerparti rekreációs hely Kuvaitvárostól délre. Egy park kényelmét ötvözi a tengeri hozzáféréssel. A parkban gondozott zöldterületek, játszóterek és grillezőhelyek találhatók, így ideális hely a családi kirándulásokhoz. A partszakasz jól karbantartott, lehetőséget nyújt úszásra és strandolásra. A park egyik jellegzetessége a jellegzetes fahíd, amely egy kis öböl felett ível át, és festői kilátást nyújt a tengerre. A park része azoknak az erőfeszítéseknek, amelyek célja, hogy Kuvait partvidékét hozzáférhetővé és vonzóvá tegyék a nyilvánosság számára. Különösen a hűvösebb hónapokban és hétvégenként nyüzsgő találkozóhely a helyiek és a külföldiek számára, akik pihenést és kikapcsolódást keresnek a tengerparton.",
+        "ro": "Parcul de pe plaja Egaila este un loc de recreere popular pe coastă, la sud de orașul Kuweit. Acesta combină facilitățile unui parc cu accesul la mare. Parcul dispune de spații verzi bine întreținute, locuri de joacă și zone de grătar, ceea ce îl face un loc ideal pentru ieșirile în familie. Secțiunea de plajă este bine întreținută și oferă oportunități pentru înot și activități pe plajă. O caracteristică distinctivă a parcului este podul de lemn proeminent care traversează un mic golf, oferind vederi pitorești asupra mării. Parcul face parte din eforturile de a face litoralul Kuweitului accesibil și atractiv pentru public. Este un loc de întâlnire aglomerat, în special în lunile mai reci și în weekenduri, pentru localnici și expatriați care caută relaxare și recreere la malul mării.",
+        "en": "Egaila Beach Park is a popular coastal recreational spot located south of Kuwait City. It combines the amenities of a park with access to the sea. The park features well-maintained green spaces, playgrounds, and barbecue areas, making it an ideal location for family outings. The beach section is well-kept and offers opportunities for swimming and beach activities. A distinctive feature of the park is the prominent wooden bridge that crosses a small inlet, providing picturesque views of the sea. The park is part of the effort to make Kuwait's coastline accessible and attractive to the public. It is a bustling spot, especially during the cooler months and on weekends, for locals and expatriates seeking relaxation and recreation by the sea."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Küstengebiet von Egaila.",
+          "Kombiniert Parkanlagen mit einem öffentlichen Strand.",
+          "Verfügt über eine bekannte Holzbrücke mit Meerblick.",
+          "Ausgestattet mit Grillplätzen, die öffentlich zugänglich sind.",
+          "Mehrere Spielplätze für Kinder unterschiedlichen Alters.",
+          "Teil des Projekts zur Entwicklung der Küstenpromenade.",
+          "Der Eintritt ist gebührenpflichtig, um die Instandhaltung zu gewährleisten.",
+          "Beliebt für abendliche Spaziergänge und gesellschaftliche Treffen."
+        ],
+        "hu": [
+          "Egaila tengerparti területén található.",
+          "Egy parkot és egy nyilvános strandot egyesít.",
+          "Egy jellegzetes, tengerre néző fahíddal rendelkezik.",
+          "Nyilvánosan használható grillezőhelyekkel van felszerelve.",
+          "Több játszótérrel rendelkezik különböző korosztályú gyermekek számára.",
+          "A tengerparti sétány fejlesztési projektjének része.",
+          "A fenntartás érdekében a belépés díjköteles.",
+          "Népszerű hely az esti sétákhoz és társasági összejövetelekhez."
+        ],
+        "ro": [
+          "Situat în zona de coastă Egaila.",
+          "Combină facilitățile unui parc cu o plajă publică.",
+          "Dispune de un pod de lemn proeminent cu vedere la mare.",
+          "Echipat cu zone de grătar disponibile pentru uz public.",
+          "Mai multe locuri de joacă pentru copii de diferite vârste.",
+          "Parte a proiectului de dezvoltare a falezei.",
+          "Intrarea se face contra unei taxe pentru a asigura întreținerea.",
+          "Popular pentru plimbări de seară și întâlniri sociale."
+        ],
+        "en": [
+          "Located in the coastal area of Egaila.",
+          "Combines park facilities with a public beach.",
+          "Features a prominent wooden bridge with sea views.",
+          "Equipped with barbecue pits available for public use.",
+          "Multiple playgrounds for children of different ages.",
+          "Part of the coastal promenade development project.",
+          "Entry is subject to a fee to ensure maintenance.",
+          "Popular for evening strolls and social gatherings."
+        ]
+      }
+    },
+    {
+      "id": "kidzania-kuwait-life-v2",
+      "descriptionAdvanced": {
+        "de": "KidZania Kuwait ist ein interaktives Bildungs- und Unterhaltungszentrum für Kinder, das sich im The Avenues Mall befindet. Es ist als verkleinerte, kinderfreundliche Stadt konzipiert, in der Kinder durch Rollenspiele verschiedene Berufe ausüben können. Kinder können als Feuerwehrmann, Arzt, Pilot, Koch oder in über 80 anderen Berufen arbeiten. Für ihre Arbeit verdienen sie eine eigene Währung, die "KidZos", die sie für Dienstleistungen oder Waren innerhalb von KidZania ausgeben können. Das Konzept zielt darauf ab, Kindern spielerisch finanzielle Grundkenntnisse, Teamarbeit und Verantwortungsbewusstsein beizubringen. Die gesamte Umgebung, von den Gebäudefassaden bis zu den Uniformen, ist realistisch gestaltet, um ein immersives Erlebnis zu schaffen. KidZania ist eine globale Marke, und der Standort in Kuwait ist einer der größten und beliebtesten im Nahen Osten.",
+        "hu": "A KidZania Kuwait egy interaktív oktatási és szórakoztató központ gyermekek számára, amely a The Avenues Mallban található. Egy lekicsinyített, gyerekbarát városként tervezték, ahol a gyerekek szerepjátékokon keresztül próbálhatnak ki különböző szakmákat. A gyerekek dolgozhatnak tűzoltóként, orvosként, pilótaként, szakácsként vagy több mint 80 másik szakmában. Munkájukért saját valutát, "KidZos"-t keresnek, amelyet a KidZania-n belül szolgáltatásokra vagy árukra költhetnek. A koncepció célja, hogy a gyerekeknek játékos formában tanítsa meg a pénzügyi alapismereteket, a csapatmunkát és a felelősségtudatot. Az egész környezet, az épülethomlokzatoktól az egyenruhákig, valósághűen van kialakítva, hogy magával ragadó élményt nyújtson. A KidZania egy globális márka, és a kuvaiti helyszín az egyik legnagyobb és legnépszerűbb a Közel-Keleten.",
+        "ro": "KidZania Kuweit este un centru interactiv de educație și divertisment pentru copii, situat în The Avenues Mall. Este conceput ca un oraș în miniatură, prietenos pentru copii, unde copiii pot experimenta diverse profesii prin joc de rol. Copiii pot lucra ca pompieri, medici, piloți, bucătari sau în peste 80 de alte roluri. Pentru munca lor, ei câștigă o monedă proprie, "KidZos", pe care o pot cheltui pe servicii sau bunuri în cadrul KidZania. Conceptul urmărește să învețe copiii despre educația financiară de bază, munca în echipă și responsabilitatea într-un mod ludic. Întregul mediu, de la fațadele clădirilor la uniforme, este proiectat realist pentru a crea o experiență imersivă. KidZania este un brand global, iar locația din Kuweit este una dintre cele mai mari și mai populare din Orientul Mijlociu.",
+        "en": "KidZania Kuwait is an interactive educational entertainment center for children located in The Avenues Mall. It is designed as a scaled-down, child-friendly city where kids can role-play various professions. Children can work as firefighters, doctors, pilots, chefs, or in over 80 other roles. For their work, they earn a dedicated currency, 'KidZos,' which they can spend on services or goods within KidZania. The concept aims to teach children about basic financial literacy, teamwork, and responsibility in a fun way. The entire environment, from the building facades to the uniforms, is realistically designed to create an immersive experience. KidZania is a global brand, and the Kuwait location is one of the largest and most popular in the Middle East."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im The Avenues, Kuwaits größtem Einkaufszentrum.",
+          "Eine Miniaturstadt, die von Kindern betrieben wird.",
+          "Bietet über 80 Rollenspiel-Aktivitäten an.",
+          "Kinder verdienen eine eigene Währung namens 'KidZos'.",
+          "Lehrt Kinder finanzielle Grundkenntnisse und berufliche Fähigkeiten.",
+          "Partnerschaften mit realen Marken für authentische Erlebnisse.",
+          "Hat einen eigenen Flughafen mit einem echten Flugzeugrumpf.",
+          "Geeignet für Kinder im Alter von 4 bis 14 Jahren."
+        ],
+        "hu": [
+          "A The Avenues-ban, Kuvait legnagyobb bevásárlóközpontjában található.",
+          "Egy miniatűr város, amelyet gyerekek működtetnek.",
+          "Több mint 80 szerepjáték-tevékenységet kínál.",
+          "A gyerekek saját valutát keresnek, a 'KidZos'-t.",
+          "Pénzügyi alapismeretekre és szakmai készségekre tanítja a gyerekeket.",
+          "Valódi márkákkal való partnerségek az autentikus élményekért.",
+          "Saját repülőtérrel rendelkezik, valódi repülőgéptörzzsel.",
+          "4 és 14 év közötti gyermekek számára alkalmas."
+        ],
+        "ro": [
+          "Situat în The Avenues, cel mai mare mall din Kuweit.",
+          "Un oraș în miniatură condus de copii.",
+          "Oferă peste 80 de activități de joc de rol.",
+          "Copiii câștigă o monedă proprie numită 'KidZos'.",
+          "Învață copiii despre educația financiară și abilitățile profesionale.",
+          "Parteneriate cu mărci reale pentru experiențe autentice.",
+          "Are propriul aeroport cu o fuselaj real de avion.",
+          "Potrivit pentru copii cu vârste cuprinse între 4 și 14 ani."
+        ],
+        "en": [
+          "Located in The Avenues, Kuwait's largest mall.",
+          "A miniature city run by children.",
+          "Offers over 80 role-playing activities.",
+          "Children earn a dedicated currency called 'KidZos'.",
+          "Teaches kids financial literacy and career skills.",
+          "Partnerships with real-world brands for authentic experiences.",
+          "Features its own airport with a real airplane fuselage.",
+          "Suitable for children aged 4 to 14."
+        ]
+      }
+    },
+    {
+      "id": "boulevard-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Boulevard Park in Salmiya ist eine weitläufige Freizeitanlage, die Einkaufs-, Gastronomie- und Erholungsmöglichkeiten kombiniert. Der Park erstreckt sich über eine große Fläche und verfügt über üppige Grünflächen, einen großen künstlichen See und kilometerlange Jogging- und Wanderwege. Im Zentrum des Komplexes befindet sich eine moderne Mall mit einer Vielzahl von Geschäften und Restaurants. Der See ist ein zentrales Element, auf dem man Tretboot fahren kann. Der Park bietet auch mehrere große Spielplätze, einen Skatepark und Sportplätze. Im Winter finden hier häufig saisonale Märkte und Festivals statt. Der Boulevard Park ist ein modernes Beispiel für Stadtentwicklung in Kuwait, das darauf abzielt, multifunktionale Räume zu schaffen, die den Bedürfnissen der gesamten Gemeinschaft gerecht werden.",
+        "hu": "A Salmiyában található Boulevard Park egy kiterjedt szabadidős komplexum, amely bevásárlási, étkezési és rekreációs lehetőségeket ötvöz. A park nagy területen fekszik, buja zöldterületekkel, egy nagy mesterséges tóval, valamint kilométernyi kocogó- és sétaúttal rendelkezik. A komplexum központjában egy modern bevásárlóközpont található, számos üzlettel és étteremmel. A tó központi elem, ahol vízibiciklizni lehet. A parkban több nagy játszótér, egy gördeszkapark és sportpályák is találhatók. Télen gyakran tartanak itt szezonális piacokat és fesztiválokat. A Boulevard Park a kuvaiti városfejlesztés modern példája, amelynek célja olyan multifunkcionális terek létrehozása, amelyek a teljes közösség igényeit kielégítik.",
+        "ro": "Parcul Boulevard din Salmiya este un complex de agrement extins care combină cumpărăturile, restaurantele și recreerea. Parcul acoperă o suprafață mare și dispune de spații verzi luxuriante, un lac artificial mare și kilometri de piste de jogging și plimbare. În centrul complexului se află un mall modern cu o varietate de magazine și restaurante. Lacul este o caracteristică centrală, unde vizitatorii se pot bucura de plimbări cu barca cu pedale. Parcul oferă, de asemenea, mai multe locuri de joacă mari, un skate park și terenuri de sport. În timpul iernii, găzduiește frecvent piețe și festivaluri sezoniere. Parcul Boulevard este un exemplu modern de dezvoltare urbană în Kuweit, care urmărește să creeze spații multifuncționale care să răspundă nevoilor întregii comunități.",
+        "en": "Boulevard Park in Salmiya is a sprawling leisure complex that combines shopping, dining, and recreation. The park covers a large area and features lush green spaces, a large artificial lake, and kilometers of jogging and walking tracks. At the heart of the complex is a modern mall with a variety of retail outlets and restaurants. The lake is a central feature, where visitors can enjoy paddle boating. The park also offers several large playgrounds, a skate park, and sports courts. During the winter, it frequently hosts seasonal markets and festivals. Boulevard Park is a modern example of urban development in Kuwait, aiming to create multi-functional spaces that cater to the entire community."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im belebten Stadtteil Salmiya.",
+          "Kombiniert einen Park mit einem Einkaufszentrum und Restaurants.",
+          "Verfügt über einen großen künstlichen See mit Tretbootverleih.",
+          "Umfangreiche Jogging- und Wanderwege.",
+          "Mehrere thematische Spielplätze für Kinder.",
+          "Beherbergt einen großen Skatepark und verschiedene Sportplätze.",
+          "Veranstaltungsort für saisonale Märkte, insbesondere im Winter.",
+          "Entwickelt, um einen ganzheitlichen Lebensstil zu fördern."
+        ],
+        "hu": [
+          "Salmiya nyüzsgő negyedében található.",
+          "Egy parkot, egy bevásárlóközpontot és éttermeket ötvöz.",
+          "Egy nagy mesterséges tóval rendelkezik, ahol vízibiciklit lehet bérelni.",
+          "Kiterjedt kocogó- és sétautakkal rendelkezik.",
+          "Több tematikus játszótér a gyermekek számára.",
+          "Egy nagy gördeszkaparknak és különböző sportpályáknak ad otthont.",
+          "Szezonális piacok helyszíne, különösen télen.",
+          "Azért fejlesztették ki, hogy holisztikus életmódot támogasson."
+        ],
+        "ro": [
+          "Situat în districtul aglomerat Salmiya.",
+          "Combină un parc cu un mall și restaurante.",
+          "Dispune de un lac artificial mare cu închiriere de bărci cu pedale.",
+          "Piste extinse de jogging și plimbare.",
+          "Mai multe locuri de joacă tematice pentru copii.",
+          "Găzduiește un skate park mare și diverse terenuri de sport.",
+          "Loc de desfășurare pentru piețe sezoniere, în special iarna.",
+          "Dezvoltat pentru a promova un concept de stil de viață holistic."
+        ],
+        "en": [
+          "Located in the bustling district of Salmiya.",
+          "Combines a park with a mall and restaurants.",
+          "Features a large artificial lake with paddle boat rentals.",
+          "Extensive jogging and walking tracks.",
+          "Multiple themed playgrounds for children.",
+          "Home to a large skate park and various sports courts.",
+          "Venue for seasonal markets, especially in winter.",
+          "Developed to promote a holistic lifestyle concept."
+        ]
+      }
+    },
+    {
+      "id": "sulaibikhat-bay-nature-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Sulaibikhat Bay Nature Reserve ist ein wichtiges Küsten- und Gezeitenschutzgebiet am südlichen Ende der Kuwait Bay. Es ist besonders bekannt für seine ausgedehnten Wattflächen, die bei Ebbe freigelegt werden und eine reichhaltige Nahrungsquelle für Tausende von Watvögeln und anderen Zugvögeln darstellen. Das Reservat ist ein Hotspot für Vogelbeobachter, insbesondere während der Zugzeiten im Frühjahr und Herbst. Arten wie der Krabbenregenpfeifer, verschiedene Strandläuferarten und der Große Flamingo sind hier regelmäßig zu sehen. Die Mangroven, die im Rahmen von Wiederaufforstungsprojekten gepflanzt wurden, tragen zur Stabilisierung der Küste bei und schaffen neue Lebensräume. Das Reservat ist entscheidend für den Schutz des marinen Ökosystems der Kuwait-Bucht und dient als wichtiges Forschungsgebiet für Ornithologen und Meeresbiologen.",
+        "hu": "A Sulaibikhat-öböl Természetvédelmi Terület egy fontos tengerparti és árapály-övi védett terület a Kuvaiti-öböl déli végénél. Különösen a kiterjedt iszapzátonyairól ismert, amelyek apálykor feltárulnak, és gazdag táplálékforrást biztosítanak a parti madarak és más vándormadarak ezreinek. A rezervátum a madármegfigyelők egyik legkedveltebb helye, különösen a tavaszi és őszi vonulási időszakban. Olyan fajok, mint a rákászpartfutó, különböző partfutó fajták és a nagy flamingó, rendszeresen megfigyelhetők itt. A helyreállítási projektek keretében ültetett mangrovék hozzájárulnak a partvonal stabilizálásához és új élőhelyeket teremtenek. A rezervátum kulcsfontosságú a Kuvaiti-öböl tengeri ökoszisztémájának védelmében, és fontos kutatási területet jelent az ornitológusok és tengerbiológusok számára.",
+        "ro": "Rezervația Naturală Golful Sulaibikhat este o zonă protejată de coastă și intertidală crucială, situată la capătul sudic al Golfului Kuweit. Este renumită în special pentru vastele sale zone de mâl, care sunt expuse la reflux, oferind o sursă bogată de hrană pentru mii de păsări de țărm și alte păsări migratoare. Rezervația este un punct fierbinte pentru observatorii de păsări, în special în timpul sezoanelor de migrație de primăvară și toamnă. Specii precum crabul-plover, diverse specii de fluierari și flamingo mare pot fi văzute în mod regulat aici. Mangrovele, plantate ca parte a proiectelor de restaurare, ajută la stabilizarea coastei și la crearea de noi habitate. Rezervația este vitală pentru protejarea ecosistemului marin al Golfului Kuweit și servește ca o zonă importantă de cercetare pentru ornitologi și biologi marini.",
+        "en": "Sulaibikhat Bay Nature Reserve is a crucial coastal and intertidal protected area located at the southern end of Kuwait Bay. It is particularly renowned for its extensive mudflats, which are exposed at low tide, providing a rich feeding ground for thousands of shorebirds and other migratory birds. The reserve is a hotspot for birdwatchers, especially during the spring and autumn migration seasons. Species such as the Crab-plover, various sandpiper species, and the Greater Flamingo are regularly seen here. Mangroves, planted as part of restoration projects, are helping to stabilize the coastline and create new habitats. The reserve is vital for protecting the marine ecosystem of Kuwait Bay and serves as an important research area for ornithologists and marine biologists."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Wichtiges Gezeitenschutzgebiet in der Bucht von Kuwait.",
+          "Bekannt für seine ausgedehnten Wattflächen.",
+          "Ein Hotspot für die Vogelbeobachtung mit über 250 registrierten Arten.",
+          "Wichtiger Rastplatz für Zugvögel auf der westasiatischen Flugroute.",
+          "Beherbergt eine bedeutende Population des Krabbenregenpfeifers.",
+          "Wiederaufforstungsprojekte mit Mangroven sind im Gange.",
+          "Bietet wichtigen Lebensraum für Krebstiere und Weichtiere.",
+          "Forschung konzentriert sich auf die Auswirkungen des Klimawandels."
+        ],
+        "hu": [
+          "Fontos árapály-övi védett terület a Kuvaiti-öbölben.",
+          "Kiterjedt iszapzátonyairól ismert.",
+          "A madármegfigyelés egyik központja, több mint 250 regisztrált fajjal.",
+          "Fontos pihenőhely a nyugat-ázsiai vonulási útvonalon.",
+          "A rákászpartfutó jelentős populációjának ad otthont.",
+          "Mangrove-erdősítési projektek zajlanak.",
+          "Fontos élőhelyet biztosít a rákféléknek és puhatestűeknek.",
+          "A kutatások a klímaváltozás hatásaira összpontosítanak."
+        ],
+        "ro": [
+          "O zonă protejată intertidală cheie în Golful Kuweit.",
+          "Renumită pentru vastele sale zone de mâl.",
+          "Un punct fierbinte pentru observarea păsărilor, cu peste 250 de specii înregistrate.",
+          "Un punct de oprire important pe ruta de zbor a Asiei de Vest.",
+          "Găzduiește o populație semnificativă de crabi-plover.",
+          "Proiecte de restaurare cu mangrove sunt în desfășurare.",
+          "Oferă habitat esențial pentru crustacee și moluște.",
+          "Cercetarea se concentrează pe impactul schimbărilor climatice."
+        ],
+        "en": [
+          "A key intertidal protected area in Kuwait Bay.",
+          "Renowned for its extensive mudflats.",
+          "A birdwatching hotspot with over 250 recorded species.",
+          "An important stopover on the West Asian-East African flyway.",
+          "Hosts a significant population of Crab-plovers.",
+          "Mangrove restoration projects are underway.",
+          "Provides essential habitat for crustaceans and mollusks.",
+          "Research focuses on the impacts of climate change."
+        ]
+      }
+    },
+    {
+      "id": "kabd-farms-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Gebiet der Kabd Farms, das sich im Landesinneren befindet, ist eine weitere bedeutende landwirtschaftliche Region in Kuwait. Ähnlich wie Wafra und Abdali ist es durch eine Ansammlung privater Farmen gekennzeichnet, die sich auf eine Vielzahl von landwirtschaftlichen Aktivitäten konzentrieren. In Kabd liegt ein besonderer Schwerpunkt auf der Viehzucht, insbesondere auf der Zucht von Schafen, Ziegen und Kamelen. Viele Farmen dienen auch als private Rückzugsorte und Gestüte für arabische Pferde. Der Anbau beschränkt sich aufgrund der Boden- und Wasserbedingungen oft auf Futterpflanzen wie Alfalfa und dürreresistentes Gemüse. Das Gebiet ist auch ein bekanntes Ziel für Wüstencamping und Freizeitaktivitäten in den kühleren Monaten. Die Kabd-Region spielt eine wichtige Rolle bei der Erhaltung traditioneller landwirtschaftlicher Praktiken und der lokalen Viehgenetik.",
+        "hu": "A Kabd farmok területe, amely a szárazföld belsejében található, egy másik jelentős mezőgazdasági régió Kuvaitban. Hasonlóan Wafrához és Abdalihoz, itt is magángazdaságok sokasága jellemző, amelyek különféle mezőgazdasági tevékenységekre összpontosítanak. Kabdban különös hangsúlyt fektetnek az állattenyésztésre, különösen a juh-, kecske- és tevetenyésztésre. Sok farm magánbirtokként és arab lovak méneseként is szolgál. A termesztés a talaj- és vízviszonyok miatt gyakran takarmánynövényekre, például lucernára és szárazságtűrő zöldségekre korlátozódik. A terület a sivatagi kempingezés és a szabadidős tevékenységek kedvelt célpontja a hűvösebb hónapokban. A Kabd régió fontos szerepet játszik a hagyományos mezőgazdasági gyakorlatok és a helyi állatgenetika megőrzésében.",
+        "ro": "Zona fermelor Kabd, situată în interiorul țării, este o altă regiune agricolă semnificativă din Kuweit. Similar cu Wafra și Abdali, este caracterizată de o colecție de ferme private care se concentrează pe o varietate de activități agricole. În Kabd, se pune un accent deosebit pe creșterea animalelor, în special pe creșterea oilor, caprelor și cămilelor. Multe ferme servesc, de asemenea, ca refugii private și herghelii pentru caii arabi. Cultivarea este adesea limitată la culturi furajere precum lucerna și legume rezistente la secetă, din cauza condițiilor de sol și apă. Zona este, de asemenea, o destinație populară pentru camping în deșert și activități recreative în lunile mai reci. Regiunea Kabd joacă un rol important în conservarea practicilor agricole tradiționale și a geneticii animalelor locale.",
+        "en": "The Kabd Farms area, located inland, is another significant agricultural region in Kuwait. Similar to Wafra and Abdali, it is characterized by a collection of private farms focusing on a variety of agricultural activities. In Kabd, there is a particular emphasis on animal husbandry, especially the breeding of sheep, goats, and camels. Many farms also serve as private retreats and studs for Arabian horses. Cultivation is often limited to fodder crops like alfalfa and drought-resistant vegetables due to soil and water conditions. The area is also a popular destination for desert camping and recreational activities during the cooler months. The Kabd region plays an important role in preserving traditional agricultural practices and local livestock genetics."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im Landesinneren, südwestlich von Kuwait-Stadt.",
+          "Schwerpunkt auf der Viehzucht, einschließlich Schafe, Ziegen und Kamele.",
+          "Wichtiger Standort für die Zucht von arabischen Pferden.",
+          "Anbau von Futterpflanzen wie Alfalfa für den lokalen Bedarf.",
+          "Viele Farmen werden als private Wochenend-Chalets genutzt.",
+          "Beliebtes Gebiet für Wüstencamping im Winter.",
+          "Beherbergt einige der größten Kamelrennställe des Landes.",
+          "Wichtige Rolle bei der Erhaltung der einheimischen Tierrassen."
+        ],
+        "hu": [
+          "A szárazföld belsejében, Kuvaitvárostól délnyugatra található.",
+          "Középpontjában az állattenyésztés áll, beleértve a juhokat, kecskéket és tevéket.",
+          "Az arab lovak tenyésztésének fontos helyszíne.",
+          "Takarmánynövények, például lucerna termesztése helyi szükségletekre.",
+          "Sok farmot magán hétvégi házként használnak.",
+          "Népszerű terület a téli sivatagi kempingezéshez.",
+          "Az ország legnagyobb tevehajtó istállóinak ad otthont.",
+          "Fontos szerepet játszik az őshonos állatfajták megőrzésében."
+        ],
+        "ro": [
+          "Situată în interior, la sud-vest de orașul Kuweit.",
+          "Accent pe creșterea animalelor, inclusiv oi, capre și cămile.",
+          "Un centru important pentru creșterea cailor arabi.",
+          "Cultivarea culturilor furajere precum lucerna pentru necesități locale.",
+          "Multe ferme sunt folosite ca cabane private de weekend.",
+          "O zonă populară pentru camping în deșert pe timp de iarnă.",
+          "Găzduiește unele dintre cele mai mari grajduri de curse de cămile din țară.",
+          "Rol important în conservarea raselor de animale native."
+        ],
+        "en": [
+          "Located inland, southwest of Kuwait City.",
+          "Focus on animal husbandry, including sheep, goats, and camels.",
+          "A major center for Arabian horse breeding.",
+          "Cultivation of fodder crops like alfalfa for local needs.",
+          "Many farms are used as private weekend chalets.",
+          "A popular area for desert camping in the winter.",
+          "Home to some of the country's major camel racing stables.",
+          "Important role in preserving native livestock breeds."
+        ]
+      }
+    },
+    {
+      "id": "al-ahmadi-public-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Al Ahmadi Public Park ist eine der wichtigsten Grünanlagen in der Stadt Al Ahmadi, dem Zentrum der kuwaitischen Ölindustrie. Der Park wurde angelegt, um den Angestellten der Kuwait Oil Company (KOC) und ihren Familien einen Erholungsraum zu bieten. Er zeichnet sich durch seine gut gepflegten Gärten, Rasenflächen und eine beeindruckende Vielfalt an Bäumen und Sträuchern aus, die an das Wüstenklima angepasst sind. Der Park verfügt über Gehwege, Spielplätze und Sitzgelegenheiten. Er ist ein ruhiger Rückzugsort vom industriellen Charakter der Stadt. Der Park spiegelt die frühe Stadtplanung von Ahmadi wider, die darauf abzielte, eine hohe Lebensqualität für die Arbeiter der Ölindustrie zu schaffen. Er bleibt ein beliebter Ort für die lokale Gemeinschaft, um sich zu entspannen und die Natur zu genießen.",
+        "hu": "Az Al Ahmadi Public Park az egyik legfontosabb zöldterület Al Ahmadi városában, a kuvaiti olajipar központjában. A parkot azért hozták létre, hogy rekreációs teret biztosítson a Kuwait Oil Company (KOC) alkalmazottai és családjaik számára. Jól gondozott kertjei, pázsitjai, valamint a sivatagi éghajlathoz alkalmazkodott fák és cserjék lenyűgöző választéka jellemzi. A parkban sétányok, játszóterek és ülőhelyek találhatók. Nyugodt menedéket nyújt a város ipari jellegétől. A park Ahmadi korai várostervezését tükrözi, amelynek célja az volt, hogy magas életminőséget biztosítson az olajipari dolgozók számára. Továbbra is népszerű hely a helyi közösség számára a pihenésre és a természet élvezetére.",
+        "ro": "Parcul Public Al Ahmadi este unul dintre spațiile verzi cheie din orașul Al Ahmadi, centrul industriei petroliere din Kuweit. Parcul a fost creat pentru a oferi un spațiu de recreere pentru angajații Companiei Petroliere din Kuweit (KOC) și familiile acestora. Se caracterizează prin grădinile sale bine întreținute, peluze și o varietate impresionantă de copaci și arbuști adaptați la climatul deșertic. Parcul include alei de plimbare, locuri de joacă și zone de relaxare. Este un refugiu liniștit față de caracterul industrial al orașului. Parcul reflectă planificarea urbană timpurie a orașului Ahmadi, care a avut ca scop crearea unei calități ridicate a vieții pentru lucrătorii din industria petrolieră. Rămâne un loc popular pentru comunitatea locală pentru a se relaxa și a se bucura de aer liber.",
+        "en": "Al Ahmadi Public Park is one of the key green spaces in the city of Al Ahmadi, the hub of Kuwait's oil industry. The park was established to provide a recreational area for the employees of the Kuwait Oil Company (KOC) and their families. It is characterized by its well-manicured gardens, lawns, and an impressive variety of trees and shrubs adapted to the desert climate. The park includes walking paths, children's playgrounds, and seating areas. It serves as a tranquil escape from the industrial character of the city. The park reflects the early urban planning of Ahmadi, which aimed to create a high quality of life for the oil industry's workforce. It remains a popular spot for the local community to relax and enjoy the outdoors."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Hotel liegt im Herzen der Ölstadt Al Ahmadi.",
+          "Ursprünglich für die Mitarbeiter der Kuwait Oil Company (KOC) geschaffen.",
+          "Bekannt für seine saubere und gut gepflegte Umgebung.",
+          "Verfügt über eine Vielzahl von an die Wüste angepassten Pflanzen.",
+          "Bietet eine ruhige Alternative zur industriellen Umgebung.",
+          "Die Stadtplanung von Ahmadi ist von britischen Gartenstädten beeinflusst.",
+          "Ein beliebter Ort für abendliche Spaziergänge bei den Anwohnern.",
+          "Symbolisiert die historische Entwicklung der Ölindustrie in Kuwait."
+        ],
+        "hu": [
+          "Al Ahmadi olajváros szívében található.",
+          "Eredetileg a Kuwait Oil Company (KOC) alkalmazottai számára hozták létre.",
+          "Tiszta és jól karbantartott környezetéről ismert.",
+          "Számos sivatagi körülményekhez alkalmazkodott növénynek ad otthont.",
+          "Nyugodt alternatívát kínál az ipari környezettel szemben.",
+          "Ahmadi várostervezését a brit kertvárosok ihlették.",
+          "Népszerű hely az esti sétákhoz a helyi lakosok körében.",
+          "A kuvaiti olajipar történelmi fejlődését szimbolizálja."
+        ],
+        "ro": [
+          "Situat în inima orașului petrolier Al Ahmadi.",
+          "Creat inițial pentru angajații Companiei Petroliere din Kuweit (KOC).",
+          "Cunoscut pentru mediul său curat și bine întreținut.",
+          "Prezintă o varietate de plante adaptate la deșert.",
+          "Oferă o evadare liniștită din mediul industrial.",
+          "Planificarea urbană a orașului Ahmadi este influențată de orașele-grădină britanice.",
+          "Un loc popular pentru plimbările de seară ale locuitorilor.",
+          "Simbolizează dezvoltarea istorică a industriei petroliere din Kuweit."
+        ],
+        "en": [
+          "Located in the heart of the oil city, Al Ahmadi.",
+          "Originally created for Kuwait Oil Company (KOC) employees.",
+          "Known for its clean and well-maintained environment.",
+          "Features a variety of desert-adapted plants.",
+          "Provides a tranquil escape from the industrial surroundings.",
+          "Ahmadi's town planning was influenced by British garden cities.",
+          "A popular spot for evening walks among local residents.",
+          "Symbolizes the historical development of the oil industry in Kuwait."
+        ]
+      }
+    },
+    {
+      "id": "magic-planet-kuwait-life-v2",
+      "descriptionAdvanced": {
+        "de": "Magic Planet ist eine der führenden Indoor-Familienunterhaltungsketten im Nahen Osten, mit einem prominenten Standort im The Avenues Mall in Kuwait. Es bietet eine breite Palette an Attraktionen für alle Altersgruppen. Dazu gehören klassische Arcade-Spiele, hochmoderne Videospiele, Einlösespiele, bei denen Spieler Tickets für Preise gewinnen können, und eine Vielzahl von Fahrgeschäften. Zu den Highlights zählen oft eine Indoor-Achterbahn, Autoscooter und Karussells. Magic Planet verfügt auch über einen Soft-Play-Bereich für jüngere Kinder und manchmal über Attraktionen wie Kletterwände oder Hochseilgärten. Es ist ein beliebter Ort für Geburtstagsfeiern und Familienausflüge, besonders an heißen Sommertagen, da es eine klimatisierte Alternative zu Outdoor-Aktivitäten bietet. Das Konzept konzentriert sich auf die Bereitstellung einer sicheren, sauberen und unterhaltsamen Umgebung für die ganze Familie.",
+        "hu": "A Magic Planet a Közel-Kelet egyik vezető beltéri családi szórakoztató központ lánca, amelynek egyik kiemelkedő helyszíne a kuvaiti The Avenues Mallban található. Minden korosztály számára széles körű attrakciókat kínál. Ezek közé tartoznak a klasszikus árkádjátékok, a legmodernebb videojátékok, a jegybeváltós játékok, ahol a játékosok jegyeket nyerhetnek díjakért, valamint számos egyéb attrakció. A kiemelt látványosságok közé tartozik gyakran egy beltéri hullámvasút, dodzsem és körhinta. A Magic Planet rendelkezik egy puha játszóházzal a kisebb gyermekek számára, és néha olyan attrakciókkal is, mint a mászófalak vagy kötélpályák. Népszerű helyszín születésnapi partikhoz és családi kirándulásokhoz, különösen a forró nyári napokon, mivel légkondicionált alternatívát kínál a szabadtéri tevékenységekkel szemben. A koncepció a biztonságos, tiszta és szórakoztató környezet biztosítására összpontosít az egész család számára.",
+        "ro": "Magic Planet este unul dintre principalele lanțuri de divertisment familial de interior din Orientul Mijlociu, cu o locație proeminentă în The Avenues Mall din Kuweit. Acesta oferă o gamă largă de atracții pentru toate vârstele. Acestea includ jocuri arcade clasice, jocuri video de ultimă generație, jocuri de răscumpărare unde jucătorii pot câștiga bilete pentru premii și o varietate de plimbări. Punctele de atracție includ adesea un roller coaster de interior, mașini de tamponat și carusele. Magic Planet are, de asemenea, o zonă de joacă moale pentru copiii mai mici și, uneori, atracții precum pereți de cățărat sau trasee de frânghii. Este un loc popular pentru petreceri de naștere și ieșiri în familie, în special în zilele toride de vară, deoarece oferă o alternativă cu aer condiționat la activitățile în aer liber. Conceptul se concentrează pe oferirea unui mediu sigur, curat și distractiv pentru întreaga familie.",
+        "en": "Magic Planet is one of the leading indoor family entertainment chains in the Middle East, with a prominent location in The Avenues Mall in Kuwait. It offers a wide array of attractions for all ages. These include classic arcade games, state-of-the-art video games, redemption games where players can win tickets for prizes, and a variety of rides. Highlights often include an indoor roller coaster, bumper cars, and carousels. Magic Planet also features a soft-play area for younger children and sometimes includes attractions like climbing walls or high-ropes courses. It is a popular venue for birthday parties and family outings, especially during hot summer days, as it provides an air-conditioned alternative to outdoor activities. The concept focuses on providing a safe, clean, and fun-filled environment for the whole family."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Führendes Indoor-Familienunterhaltungszentrum im Nahen Osten.",
+          "Hauptstandort in Kuwait befindet sich im The Avenues Mall.",
+          "Bietet eine Mischung aus Fahrgeschäften, Arcade-Spielen und Attraktionen.",
+          "Verfügt oft über eine Indoor-Achterbahn oder ein Riesenrad.",
+          "'Gravity' Trampolinpark ist Teil einiger Standorte.",
+          "Beliebt für die Ausrichtung von Kindergeburtstagen.",
+          "Verwendet ein wiederaufladbares Kartensystem für Spiele und Fahrten.",
+          "Bietet eine klimatisierte Umgebung für ganzjährigen Spaß."
+        ],
+        "hu": [
+          "Vezető beltéri családi szórakoztató központ a Közel-Keleten.",
+          "A fő kuvaiti helyszín a The Avenues Mallban található.",
+          "Attrakciók, árkádjátékok és egyéb látványosságok keverékét kínálja.",
+          "Gyakran rendelkezik beltéri hullámvasúttal vagy óriáskerékkel.",
+          "A 'Gravity' trambulinpark néhány helyszín része.",
+          "Népszerű helyszín gyermek születésnapi partik megrendezésére.",
+          "Újratölthető kártyarendszert használ a játékokhoz.",
+          "Légkondicionált környezetet biztosít az egész éves szórakozáshoz."
+        ],
+        "ro": [
+          "Centru de divertisment familial de interior de top din Orientul Mijlociu.",
+          "Locația principală din Kuweit se află în The Avenues Mall.",
+          "Oferă un amestec de plimbări, jocuri arcade și atracții.",
+          "Adesea dispune de un roller coaster de interior sau o roată mare.",
+          "Parcul de trambuline 'Gravity' face parte din unele locații.",
+          "Popular pentru găzduirea petrecerilor de naștere ale copiilor.",
+          "Utilizează un sistem de card reîncărcabil pentru jocuri și plimbări.",
+          "Oferă un mediu cu aer condiționat pentru distracție pe tot parcursul anului."
+        ],
+        "en": [
+          "Leading indoor family entertainment center in the Middle East.",
+          "Main Kuwait location is in The Avenues Mall.",
+          "Offers a mix of rides, arcade games, and attractions.",
+          "Often features an indoor roller coaster or Ferris wheel.",
+          "'Gravity' trampoline park is part of some locations.",
+          "Popular for hosting children's birthday parties.",
+          "Uses a rechargeable card system for games and rides.",
+          "Provides an air-conditioned environment for year-round fun."
+        ]
+      }
+    },
+    {
+      "id": "jamal-abdulnasser-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Jamal Abdulnasser Park im Stadtteil Rawda ist ein mittelgroßer öffentlicher Park, der nach dem ehemaligen ägyptischen Präsidenten Gamal Abdel Nasser benannt ist. Der Park dient als wichtige Grünfläche für die umliegende Wohngemeinschaft. Er verfügt über gepflegte Rasenflächen, schattige Bereiche unter Bäumen und einen umlaufenden Gehweg, der von Joggern und Spaziergängern frequentiert wird. Im Zentrum des Parks befindet sich oft ein Wasserspiel oder ein Denkmal. Es gibt auch einen Spielplatz für Kinder, der ihn zu einem beliebten Ziel für Familien macht. Der Park ist ein Beispiel für die vielen Nachbarschaftsparks in ganz Kuwait, die eine wichtige Rolle für das soziale Leben und die Freizeitgestaltung der Anwohner spielen und eine dringend benötigte Pause vom städtischen Leben bieten.",
+        "hu": "A Rawda városrészben található Jamal Abdulnasser Park egy közepes méretű nyilvános park, amelyet a volt egyiptomi elnökről, Gamal Abdel Nasserről neveztek el. A park fontos zöldterületként szolgál a környező lakóközösség számára. Jól gondozott pázsittal, fák alatti árnyékos területekkel és egy körbefutó sétánnyal rendelkezik, amelyet kocogók és sétálók látogatnak. A park közepén gyakran található egy vízjáték vagy emlékmű. Van egy játszótér is, ami népszerű célponttá teszi a családok számára. A park egyike a Kuvait-szerte található számos szomszédsági parknak, amelyek fontos szerepet játszanak a lakosok társadalmi életében és szabadidős tevékenységeiben, és nagyon szükséges kikapcsolódást nyújtanak a városi életből.",
+        "ro": "Parcul Jamal Abdulnasser, situat în districtul Rawda, este un parc public de mărime medie, numit după fostul președinte egiptean Gamal Abdel Nasser. Parcul servește ca un spațiu verde important pentru comunitatea rezidențială înconjurătoare. Dispune de peluze bine întreținute, zone umbrite sub copaci și o alee perimetrală frecventată de joggeri și plimbăreți. În centrul parcului se află adesea un element acvatic sau un monument. Există, de asemenea, un loc de joacă pentru copii, ceea ce îl face o destinație populară pentru familii. Parcul este un exemplu al numeroaselor parcuri de cartier din Kuweit, care joacă un rol vital în viața socială și recreerea rezidenților, oferind o pauză atât de necesară de la viața urbană.",
+        "en": "Jamal Abdulnasser Park, located in the Rawda district, is a medium-sized public park named after the former Egyptian president, Gamal Abdel Nasser. The park serves as an important green space for the surrounding residential community. It features well-kept lawns, shaded areas under trees, and a perimeter walkway frequented by joggers and walkers. The center of the park often features a water feature or a monument. There is also a children's playground, making it a popular destination for families. The park is an example of the many neighborhood parks throughout Kuwait that play a vital role in the social life and recreation of residents, providing a much-needed break from urban life."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Benannt nach Gamal Abdel Nasser, dem zweiten Präsidenten Ägyptens.",
+          "Das Hotel liegt im Wohnviertel Rawda.",
+          "Ein klassischer Nachbarschaftspark für die lokale Gemeinschaft.",
+          "Verfügt über einen beliebten Jogging- und Wanderweg.",
+          "Ausgestattet mit einem Kinderspielplatz und Sitzgelegenheiten.",
+          "Wichtiger Ort für soziale Interaktion in der Nachbarschaft.",
+          "Wird von der Behörde für öffentliche Angelegenheiten der Landwirtschaft und Fischerei unterhalten.",
+          "Bietet eine grüne Lunge in einem dicht besiedelten Wohngebiet."
+        ],
+        "hu": [
+          "Gamal Abdel Nasserről, Egyiptom második elnökéről nevezték el.",
+          "Rawda lakónegyedében található.",
+          "Klasszikus szomszédsági park a helyi közösség számára.",
+          "Népszerű kocogó- és sétaúttal rendelkezik.",
+          "Gyermekjátszótérrel és ülőhelyekkel felszerelt.",
+          "A szomszédsági társadalmi interakció fontos helyszíne.",
+          "A Mezőgazdasági és Halászati Közügyek Hatósága tartja fenn.",
+          "Zöld tüdőt biztosít egy sűrűn lakott lakónegyedben."
+        ],
+        "ro": [
+          "Numit după Gamal Abdel Nasser, al doilea președinte al Egiptului.",
+          "Situat în districtul rezidențial Rawda.",
+          "Un parc de cartier clasic pentru comunitatea locală.",
+          "Dispune de o pistă populară de jogging și plimbare.",
+          "Echipat cu un loc de joacă pentru copii și zone de relaxare.",
+          "Un loc important pentru interacțiunea socială în cartier.",
+          "Întreținut de Autoritatea Publică pentru Agricultură și Resurse Piscicole.",
+          "Oferă un plămân verde într-o zonă rezidențială dens populată."
+        ],
+        "en": [
+          "Named after Gamal Abdel Nasser, the second President of Egypt.",
+          "Located in the residential district of Rawda.",
+          "A classic neighborhood park serving the local community.",
+          "Features a popular jogging and walking track.",
+          "Equipped with a children's playground and seating areas.",
+          "An important venue for social interaction within the neighborhood.",
+          "Maintained by the Public Authority for Agriculture and Fish Resources.",
+          "Provides a green lung in a densely populated residential area."
+        ]
+      }
+    },
+    {
+      "id": "failaka-island-wildlife-reserve-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das Failaka Island Wildlife Reserve ist ein Schutzgebiet auf der historischen Insel Failaka in der Bucht von Kuwait. Obwohl die Insel hauptsächlich für ihre archäologischen Stätten aus der Bronzezeit und der hellenistischen Zeit bekannt ist, beherbergt sie auch eine einzigartige Tierwelt, die an die trockenen und küstennahen Bedingungen angepasst ist. Das Reservat konzentriert sich auf den Schutz dieser einheimischen Arten und ihrer Lebensräume. Es wurden Gazellen und andere heimische Tiere wieder angesiedelt, um die ursprüngliche Fauna der Insel wiederherzustellen. Die Küstengebiete sind wichtig für Seevögel und Meeresschildkröten, die möglicherweise an den Stränden nisten. Die Bemühungen umfassen die Wiederherstellung der Vegetation und die Kontrolle invasiver Arten. Das Reservat verbindet den Schutz des Naturerbes mit dem reichen kulturellen Erbe der Insel und bietet eine einzigartige Ökotourismus-Perspektive.",
+        "hu": "A Failaka-szigeti Vadvédelmi Rezervátum egy védett terület a történelmi Failaka-szigeten, a Kuvaiti-öbölben. Bár a sziget elsősorban bronzkori és hellenisztikus régészeti lelőhelyeiről ismert, egyedülálló, a száraz és tengerparti körülményekhez alkalmazkodott vadvilágnak is otthont ad. A rezervátum ezen őshonos fajok és élőhelyeik védelmére összpontosít. Gazellákat és más őshonos állatokat telepítettek vissza a sziget eredeti faunájának helyreállítása érdekében. A part menti területek fontosak a tengeri madarak és a tengeri teknősök számára, amelyek a strandokon fészkelhetnek. Az erőfeszítések magukban foglalják a növényzet helyreállítását és az invazív fajok elleni védekezést. A rezervátum ötvözi a természeti örökség védelmét a sziget gazdag kulturális örökségével, egyedülálló ökoturisztikai perspektívát kínálva.",
+        "ro": "Rezervația de faună sălbatică de pe insula Failaka este o zonă protejată pe insula istorică Failaka din Golful Kuweit. Deși insula este cunoscută în principal pentru siturile sale arheologice din epoca bronzului și elenistică, ea găzduiește și o faună unică, adaptată la condițiile aride și de coastă. Rezervația se concentrează pe protejarea acestor specii native și a habitatelor lor. Gazele și alte animale native au fost reintroduse într-un efort de a restabili fauna originală a insulei. Zonele de coastă sunt importante pentru păsările marine și broaștele țestoase de mare, care pot cuibări pe plaje. Eforturile includ refacerea vegetației și controlul speciilor invazive. Rezervația combină conservarea patrimoniului natural cu bogata moștenire culturală a insulei, oferind o perspectivă unică de ecoturism.",
+        "en": "The Failaka Island Wildlife Reserve is a protected area on the historic Failaka Island in Kuwait Bay. While the island is primarily known for its Bronze Age and Hellenistic archaeological sites, it also hosts unique wildlife adapted to arid and coastal conditions. The reserve focuses on protecting these native species and their habitats. Gazelles and other native animals have been reintroduced in an effort to restore the island's original fauna. The coastal areas are important for seabirds and marine turtles, which may nest on the beaches. Efforts include vegetation restoration and the control of invasive species. The reserve combines natural heritage conservation with the island's rich cultural heritage, offering a unique ecotourism perspective."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich auf der historisch bedeutsamen Insel Failaka.",
+          "Konzentriert sich auf den Schutz der einheimischen Wüsten- und Küstenfauna.",
+          "Wiedereinführungsprogramm für Gazellen.",
+          "Potenzielle Nistplätze für Meeresschildkröten an den Stränden.",
+          "Wichtiger Rastplatz für Zugvögel.",
+          "Integriert den Naturschutz mit dem archäologischen Erbe.",
+          "Bemühungen zur Wiederherstellung der einheimischen Vegetation wie dem Rhanterium.",
+          "Die Insel ist nur per Fähre von Kuwait-Stadt aus erreichbar."
+        ],
+        "hu": [
+          "A történelmileg jelentős Failaka-szigeten található.",
+          "Az őshonos sivatagi és tengerparti állatvilág védelmére összpontosít.",
+          "Gazellák visszatelepítési programja.",
+          "Potenciális fészkelőhelyek a tengeri teknősök számára a strandokon.",
+          "Fontos pihenőhely a vándormadarak számára.",
+          "Integrálja a természetvédelmet a régészeti örökséggel.",
+          "Erőfeszítések az őshonos növényzet, például a Rhanterium helyreállítására.",
+          "A sziget csak komppal érhető el Kuvaitvárosból."
+        ],
+        "ro": [
+          "Situată pe insula Failaka, importantă din punct de vedere istoric.",
+          "Se concentrează pe protejarea faunei native deșertice și de coastă.",
+          "Program de reintroducere a gazelelor.",
+          "Potențiale locuri de cuibărit pentru broaștele țestoase de mare pe plaje.",
+          "Un punct de oprire important pentru păsările migratoare.",
+          "Integrează conservarea naturii cu patrimoniul arheologic.",
+          "Eforturi de refacere a vegetației native, cum ar fi Rhanterium.",
+          "Insula este accesibilă numai cu feribotul din orașul Kuweit."
+        ],
+        "en": [
+          "Located on the historically significant Failaka Island.",
+          "Focuses on protecting native desert and coastal fauna.",
+          "Reintroduction program for gazelles is in place.",
+          "Potential nesting grounds for marine turtles on its beaches.",
+          "An important stopover for migratory birds.",
+          "Integrates nature conservation with archaeological heritage.",
+          "Efforts to restore native vegetation like the Rhanterium.",
+          "The island is only accessible by ferry from Kuwait City."
+        ]
+      }
+    },
+    {
+      "id": "salwa-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Salwa Park ist ein bekannter Nachbarschaftspark im Wohngebiet von Salwa. Wie viele andere Parks in Kuwait dient er als zentraler Treffpunkt und Erholungsort für die lokale Gemeinschaft. Der Park zeichnet sich durch seine charakteristische Landschaftsgestaltung aus, die oft Palmen und andere trockenheitstolerante Pflanzen umfasst. Er bietet einen umlaufenden Gehweg, der sich ideal zum Joggen und für Abendspaziergänge eignet, einen speziellen Bereich für Kinderspielplätze und oft auch einfache Outdoor-Trainingsgeräte. Diese Parks sind entscheidend für die Förderung eines gesunden Lebensstils und bieten einen sicheren Ort für Kinder zum Spielen. Der Salwa Park ist ein typisches Beispiel für die städtische Grünplanung in Kuwait, die darauf abzielt, jeder Wohngegend einen leicht zugänglichen öffentlichen Raum zu bieten.",
+        "hu": "A Salwa Park egy jól ismert szomszédsági park Salwa lakónegyedében. Mint sok más kuvaiti park, ez is központi találkozó- és pihenőhelyként szolgál a helyi közösség számára. A parkot jellegzetes tájrendezés jellemzi, amely gyakran pálmafákat és más szárazságtűrő növényeket foglal magában. Körbefutó sétányt kínál, amely ideális kocogáshoz és esti sétákhoz, egy külön területet a gyermekjátszóterek számára, és gyakran egyszerű szabadtéri edzőeszközöket is. Ezek a parkok kulcsfontosságúak az egészséges életmód elősegítésében, és biztonságos helyet biztosítanak a gyermekek számára a játékhoz. A Salwa Park tipikus példája a kuvaiti városi zöldterület-tervezésnek, amelynek célja, hogy minden lakónegyedet könnyen megközelíthető közterülettel lásson el.",
+        "ro": "Parcul Salwa este un parc de cartier bine-cunoscut în zona rezidențială Salwa. La fel ca multe parcuri din Kuweit, acesta servește ca un centru central de întâlnire și recreere pentru comunitatea locală. Parcul se distinge prin amenajarea sa peisagistică caracteristică, care include adesea palmieri și alte plante tolerante la secetă. Acesta oferă o alee perimetrală, ideală pentru jogging și plimbări de seară, o zonă dedicată locurilor de joacă pentru copii și, adesea, echipamente simple de exerciții în aer liber. Aceste parcuri sunt cruciale pentru promovarea unui stil de viață sănătos și oferă un spațiu sigur pentru copii să se joace. Parcul Salwa este un exemplu tipic de planificare a spațiilor verzi urbane din Kuweit, care urmărește să ofere fiecărui cartier rezidențial un spațiu public ușor accesibil.",
+        "en": "Salwa Park is a well-known neighborhood park located in the residential area of Salwa. Like many parks in Kuwait, it serves as a central meeting and recreational spot for the local community. The park is distinguished by its characteristic landscaping, often featuring palm trees and other drought-tolerant plants. It offers a perimeter walkway ideal for jogging and evening strolls, a dedicated area for children's playgrounds, and often simple outdoor gym equipment. These parks are crucial for promoting a healthy lifestyle and providing a safe space for children to play. Salwa Park is a typical example of Kuwait's urban green planning, which aims to provide every residential district with an easily accessible public space."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Befindet sich im dicht besiedelten Stadtteil Salwa.",
+          "Ein typischer Nachbarschaftspark für Anwohner.",
+          "Verfügt über einen gepflegten Gehweg, der den Park umgibt.",
+          "Hat einen eigenen Kinderspielplatz.",
+          "Bepflanzt mit Palmen und lokaler Flora.",
+          "Ein wichtiger sozialer Knotenpunkt für Familien in der Umgebung.",
+          "Wird nachts beleuchtet, um eine sichere Nutzung zu ermöglichen.",
+          "Teil des Netzwerks von über 100 öffentlichen Parks in Kuwait."
+        ],
+        "hu": [
+          "Salwa sűrűn lakott negyedében található.",
+          "Tipikus szomszédsági park a helyi lakosok számára.",
+          "Gondozott, a parkot körülvevő sétánnyal rendelkezik.",
+          "Saját gyermekjátszótérrel rendelkezik.",
+          "Pálmafákkal és helyi növényzettel van beültetve.",
+          "Fontos társadalmi központ a környékbeli családok számára.",
+          "Éjszaka kivilágítva a biztonságos használat érdekében.",
+          "A több mint 100 kuvaiti közpark hálózatának része."
+        ],
+        "ro": [
+          "Situat în districtul dens populat Salwa.",
+          "Un parc de cartier tipic pentru rezidenții locali.",
+          "Dispune de o alee de promenadă bine întreținută care înconjoară parcul.",
+          "Are o zonă de joacă dedicată copiilor.",
+          "Amenajat cu palmieri și floră locală.",
+          "Un centru social important pentru familiile din zonă.",
+          "Iluminat pe timp de noapte pentru a permite utilizarea în siguranță.",
+          "Parte a rețelei de peste 100 de parcuri publice din Kuweit."
+        ],
+        "en": [
+          "Located in the densely populated district of Salwa.",
+          "A typical neighborhood park for local residents.",
+          "Features a well-maintained walkway surrounding the park.",
+          "Has a dedicated children's playground area.",
+          "Landscaped with palm trees and local flora.",
+          "An important social hub for families in the area.",
+          "Illuminated at night to allow for safe use.",
+          "Part of the network of over 100 public parks in Kuwait."
+        ]
+      }
+    },
+    {
+      "id": "fahaheel-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Fahaheel Park ist eine wichtige Grünfläche im Küstenbezirk Fahaheel, der für seinen traditionellen Souk und seine geschäftigen Geschäftsstraßen bekannt ist. Der Park bietet eine ruhige Zuflucht vor der Hektik der Umgebung. Er ist ein etablierter Park mit reifen Bäumen, die reichlich Schatten spenden. Zu den Einrichtungen gehören in der Regel ein Gehweg, Kinderspielplätze und Rasenflächen für Picknicks und Entspannung. Der Park befindet sich in der Nähe des Strandes von Fahaheel und des Al Kout Malls und ist somit Teil eines größeren Freizeit- und Erholungsgebiets. Er dient der vielfältigen Bevölkerung von Fahaheel, zu der sowohl kuwaitische Familien als auch eine große Gemeinschaft von Auswanderern gehören, als wichtiger sozialer Treffpunkt.",
+        "hu": "A Fahaheel Park egy fontos zöldterület Fahaheel tengerparti negyedében, amely hagyományos szúkjáról és forgalmas kereskedelmi utcáiról ismert. A park nyugodt menedéket nyújt a környező nyüzsgés elől. Ez egy régen létrehozott park, érett fákkal, amelyek bőséges árnyékot adnak. A létesítmények általában egy sétányt, gyermekjátszótereket és pázsitot foglalnak magukban piknikezésre és pihenésre. A park a Fahaheel strand és az Al Kout Mall közelében található, így egy nagyobb szabadidős és rekreációs terület részét képezi. Fontos társadalmi találkozóhelyként szolgál Fahaheel sokszínű lakossága számára, amely magában foglalja a kuvaiti családokat és a külföldiek nagy közösségét is.",
+        "ro": "Parcul Fahaheel este un spațiu verde important în districtul de coastă Fahaheel, o zonă cunoscută pentru souk-ul său tradițional și străzile comerciale aglomerate. Parcul oferă un refugiu liniștit din agitația din jur. Este un parc consacrat, cu copaci maturi care oferă umbră abundentă. Facilitățile includ de obicei o alee de plimbare, locuri de joacă pentru copii și peluze pentru picnicuri și relaxare. Parcul este situat în apropiere de plaja Fahaheel și de Al Kout Mall, făcându-l parte dintr-o zonă mai mare de agrement și recreere. Acesta servește ca un important punct de întâlnire socială pentru populația diversă din Fahaheel, care include atât familii kuwaitiene, cât și o mare comunitate de expatriați.",
+        "en": "Fahaheel Park is an important green space in the coastal district of Fahaheel, an area known for its traditional souq and bustling commercial streets. The park provides a tranquil refuge from the surrounding hustle and bustle. It is an established park with mature trees that provide ample shade. Facilities typically include a walking path, children's playgrounds, and lawn areas for picnics and relaxation. The park is situated near Fahaheel Beach and Al Kout Mall, making it part of a larger leisure and recreational hub. It serves as an important social gathering spot for the diverse population of Fahaheel, which includes both Kuwaiti families and a large expatriate community."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Hotel liegt im historischen und kommerziellen Viertel von Fahaheel.",
+          "Bietet einen Kontrast zur geschäftigen Souk-Atmosphäre.",
+          "Ein etablierter Park mit großen, schattenspendenden Bäumen.",
+          "In der Nähe von Fahaheel Beach und Al Kout Mall gelegen.",
+          "Dient einer vielfältigen Gemeinschaft von Einheimischen und Auswanderern.",
+          "Verfügt über grundlegende Einrichtungen wie Spielplätze und Gehwege.",
+          "Ein Ort der Entspannung inmitten eines städtischen Gebiets.",
+          "Wird oft für lokale Gemeinschaftsveranstaltungen genutzt."
+        ],
+        "hu": [
+          "Fahaheel történelmi és kereskedelmi negyedében található.",
+          "Kontrasztot kínál a nyüzsgő szúk hangulatával.",
+          "Egy régen létrehozott park nagy, árnyékot adó fákkal.",
+          "A Fahaheel strand és az Al Kout Mall közelében található.",
+          "A helyiek és a külföldiek sokszínű közösségét szolgálja.",
+          "Alapvető létesítményekkel rendelkezik, mint például játszóterek és sétányok.",
+          "A pihenés helye egy városi terület közepén.",
+          "Gyakran használják helyi közösségi eseményekre."
+        ],
+        "ro": [
+          "Situat în districtul istoric și comercial Fahaheel.",
+          "Oferă un contrast cu atmosfera aglomerată a souk-ului.",
+          "Un parc consacrat cu copaci mari, care oferă umbră.",
+          "Amplasat în apropiere de Plaja Fahaheel și Al Kout Mall.",
+          "Servește o comunitate diversă de localnici și expatriați.",
+          "Dispune de facilități de bază, cum ar fi locuri de joacă și alei.",
+          "Un loc de relaxare în mijlocul unei zone urbane.",
+          "Adesea folosit pentru evenimente comunitare locale."
+        ],
+        "en": [
+          "Located in the historic and commercial district of Fahaheel.",
+          "Provides a contrast to the busy souq atmosphere.",
+          "An established park with large, shade-giving trees.",
+          "Situated near Fahaheel Beach and Al Kout Mall.",
+          "Serves a diverse community of locals and expatriates.",
+          "Features basic amenities like playgrounds and walkways.",
+          "A place for relaxation amidst an urban area.",
+          "Often used for local community gatherings."
+        ]
+      }
+    },
+    {
+      "id": "sulaybiya-agricultural-area-life-v2",
+      "descriptionAdvanced": {
+        "de": "Das landwirtschaftliche Gebiet Sulaybiya ist eine weitere wichtige Region für die Lebensmittelproduktion in Kuwait. Es liegt westlich von Kuwait-Stadt und ist besonders bekannt für seine Konzentration von Gewächshäusern, die hydroponische und andere wassersparende Techniken einsetzen. In diesem Gebiet wird ein erheblicher Teil des im Inland angebauten Gemüses wie Tomaten, Gurken und Paprika produziert. Sulaybiya beherbergt auch einige der größten Geflügelfarmen des Landes, die eine entscheidende Rolle bei der Versorgung des Marktes mit Eiern und Hühnerfleisch spielen. Das Gebiet ist ein Zentrum für landwirtschaftliche Forschung und Entwicklung, in dem neue Technologien zur Bewältigung der Herausforderungen des Anbaus in der Wüste getestet werden. Die Farmen in Sulaybiya sind ein wesentlicher Bestandteil der Strategie Kuwaits zur Erhöhung der Ernährungssicherheit und zur Verringerung der Abhängigkeit von Lebensmittelimporten.",
+        "hu": "A Sulaybiya mezőgazdasági terület egy másik kulcsfontosságú élelmiszer-termelő régió Kuvaitban. Kuvaitvárostól nyugatra található, és különösen ismert az üvegházak koncentrációjáról, amelyek hidroponikus és más víztakarékos technikákat alkalmaznak. Ez a terület termeli a belföldön termesztett zöldségek, például a paradicsom, az uborka és a paprika jelentős részét. Sulaybiya ad otthont az ország legnagyobb baromfitelepeinek is, amelyek döntő szerepet játszanak a piac tojással és csirkehússal való ellátásában. A terület a mezőgazdasági kutatás és fejlesztés központja, ahol új technológiákat tesztelnek a sivatagi termesztés kihívásainak kezelésére. A sulaybiyai gazdaságok alapvető részét képezik Kuvait élelmezésbiztonsági stratégiájának és az élelmiszer-importtól való függőség csökkentésére irányuló törekvéseinek.",
+        "ro": "Zona agricolă Sulaybiya este o altă regiune cheie pentru producția de alimente din Kuweit. Situată la vest de orașul Kuweit, este deosebit de cunoscută pentru concentrarea sa de sere care utilizează tehnici hidroponice și alte tehnici de economisire a apei. Această zonă produce o parte semnificativă din legumele cultivate la nivel local, cum ar fi roșiile, castraveții și ardeii. Sulaybiya găzduiește, de asemenea, unele dintre cele mai mari ferme de păsări din țară, jucând un rol crucial în aprovizionarea pieței cu ouă și carne de pui. Zona este un centru pentru cercetare și dezvoltare agricolă, unde sunt testate noi tehnologii pentru a face față provocărilor cultivării în deșert. Fermele din Sulaybiya sunt o componentă esențială a strategiei Kuweitului de a spori securitatea alimentară și de a reduce dependența de importurile de alimente.",
+        "en": "The Sulaybiya Agricultural Area is another key region for food production in Kuwait. Located west of Kuwait City, it is particularly known for its concentration of greenhouses that employ hydroponic and other water-saving techniques. This area produces a significant portion of the country's domestically grown vegetables, such as tomatoes, cucumbers, and peppers. Sulaybiya is also home to some of the country's largest poultry farms, playing a crucial role in supplying the market with eggs and chicken meat. The area is a hub for agricultural research and development, where new technologies are tested to meet the challenges of desert cultivation. The farms in Sulaybiya are an essential component of Kuwait's strategy to enhance food security and reduce reliance on food imports."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Großes landwirtschaftliches Gebiet westlich von Kuwait-Stadt.",
+          "Hohe Konzentration an fortschrittlichen Gewächshäusern.",
+          "Führend im Einsatz von Hydrokultur-Techniken.",
+          "Wichtiger Produzent von lokalem Gemüse wie Tomaten und Gurken.",
+          "Beherbergt mehrere der größten Geflügelfarmen des Landes.",
+          "Standort des Klärwerks Sulaybiya, das aufbereitetes Wasser liefert.",
+          "Zentrum für Forschung zur Wüstenlandwirtschaft.",
+          "Trägt erheblich zur nationalen Ernährungssicherheit bei."
+        ],
+        "hu": [
+          "Nagy mezőgazdasági terület Kuvaitvárostól nyugatra.",
+          "Fejlett üvegházak magas koncentrációja.",
+          "Vezető a hidroponikus technikák alkalmazásában.",
+          "A helyi zöldségek, például a paradicsom és az uborka fontos termelője.",
+          "Az ország több legnagyobb baromfitelepének ad otthont.",
+          "Itt található a Sulaybiya szennyvíztisztító telep, amely tisztított vizet biztosít.",
+          "A sivatagi mezőgazdasággal kapcsolatos kutatások központja.",
+          "Jelentősen hozzájárul a nemzeti élelmezésbiztonsághoz."
+        ],
+        "ro": [
+          "Zonă agricolă mare la vest de orașul Kuweit.",
+          "Concentrație mare de sere avansate.",
+          "Lider în utilizarea tehnicilor hidroponice.",
+          "Producător major de legume locale, cum ar fi roșii și castraveți.",
+          "Găzduiește mai multe dintre cele mai mari ferme de păsări din țară.",
+          "Locația stației de epurare Sulaybiya, care furnizează apă tratată.",
+          "Centru de cercetare pentru agricultura deșertică.",
+          "Contribuie semnificativ la securitatea alimentară națională."
+        ],
+        "en": [
+          "Large agricultural area west of Kuwait City.",
+          "High concentration of advanced greenhouses.",
+          "A leader in the use of hydroponic techniques.",
+          "Major producer of local vegetables like tomatoes and cucumbers.",
+          "Home to several of the country's largest poultry farms.",
+          "Site of the Sulaybiya Wastewater Treatment plant, which provides treated water.",
+          "A hub for desert agriculture research.",
+          "Contributes significantly to national food security."
+        ]
+      }
+    },
+    {
+      "id": "hawally-amusement-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Hawally Amusement Park war lange Zeit ein bekannter Vergnügungspark im Herzen des belebten Bezirks Hawally. Obwohl seine Bedeutung in den letzten Jahren abgenommen hat, bleibt er ein nostalgischer Ort für viele Kuwaiter. Der Park bot eine traditionelle Auswahl an Fahrgeschäften, darunter ein Riesenrad, Karussells und verschiedene Kinderfahrgeschäfte. Er war ein klassischer städtischer Vergnügungspark, der erschwingliche Unterhaltung für Familien bot. Seine zentrale Lage machte ihn leicht zugänglich. In seiner Blütezeit war er ein pulsierendes Zentrum des gesellschaftlichen Lebens, besonders an den Abenden und Wochenenden. Heute steht der Park oft als Symbol für eine frühere Ära der Unterhaltung in Kuwait, bevor die großen, modernen Indoor-Themenparks in den Einkaufszentren entstanden.",
+        "hu": "A Hawally Vidámpark hosszú ideig egy jól ismert szórakoztató park volt a nyüzsgő Hawally negyed szívében. Bár jelentősége az elmúlt években csökkent, sok kuvaiti számára nosztalgikus hely maradt. A park hagyományos attrakciókat kínált, köztük óriáskereket, körhintákat és különféle gyermekjátékokat. Klasszikus városi vidámpark volt, amely megfizethető szórakozást nyújtott a családoknak. Központi elhelyezkedése miatt könnyen megközelíthető volt. Fénykorában a társadalmi élet lüktető központja volt, különösen esténként és hétvégenként. Ma a park gyakran a kuvaiti szórakoztatás egy korábbi korszakának szimbóluma, mielőtt a bevásárlóközpontokban megjelentek volna a nagy, modern beltéri témaparkok.",
+        "ro": "Parcul de distracții Hawally a fost mult timp un parc de distracții bine-cunoscut în inima districtului aglomerat Hawally. Deși proeminența sa a scăzut în ultimii ani, rămâne un loc nostalgic pentru mulți kuwaitieni. Parcul oferea o selecție tradițională de atracții, inclusiv o roată mare, carusele și diverse atracții pentru copii. A fost un parc de distracții urban clasic, care oferea divertisment la prețuri accesibile pentru familii. Locația sa centrală îl făcea ușor accesibil. La apogeul său, a fost un centru vibrant al vieții sociale, în special în serile și weekendurile. Astăzi, parcul este adesea un simbol al unei ere anterioare a divertismentului din Kuweit, înainte de apariția parcurilor tematice interioare mari din mall-uri.",
+        "en": "The Hawally Amusement Park was for a long time a well-known amusement park in the heart of the bustling Hawally district. Though its prominence has declined in recent years, it remains a nostalgic spot for many Kuwaitis. The park offered a traditional selection of rides, including a Ferris wheel, carousels, and various children's rides. It was a classic urban amusement park that provided affordable entertainment for families. Its central location made it easily accessible. In its heyday, it was a vibrant center of social life, especially during evenings and weekends. Today, the park often stands as a symbol of a previous era of entertainment in Kuwait, before the rise of the large, modern indoor theme parks in malls."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Einer der ältesten Vergnügungsparks in Kuwait.",
+          "Befindet sich im dicht besiedelten Stadtteil Hawally.",
+          "Bot klassische Fahrgeschäfte wie ein Riesenrad und Karussells.",
+          "War bekannt für seine erschwinglichen Preise.",
+          "Ein beliebter Treffpunkt für Familien in den 1980er und 90er Jahren.",
+          "Gilt als nostalgischer Ort für viele Einheimische.",
+          "Seine Bedeutung hat mit dem Aufkommen moderner Malls abgenommen.",
+          "Beispiel für einen traditionellen Open-Air-Vergnügungspark."
+        ],
+        "hu": [
+          "Kuvait egyik legrégebbi vidámparkja.",
+          "Hawally sűrűn lakott negyedében található.",
+          "Klasszikus attrakciókat kínált, mint az óriáskerék és a körhinta.",
+          "Megfizethető árairól volt ismert.",
+          "Népszerű családi találkozóhely volt az 1980-as és 90-es években.",
+          "Sok helyi számára nosztalgikus helynek számít.",
+          "Jelentősége a modern bevásárlóközpontok megjelenésével csökkent.",
+          "Példa a hagyományos szabadtéri vidámparkra."
+        ],
+        "ro": [
+          "Unul dintre cele mai vechi parcuri de distracții din Kuweit.",
+          "Situat în districtul dens populat Hawally.",
+          "Oferea atracții clasice precum o roată mare și carusele.",
+          "Era cunoscut pentru prețurile sale accesibile.",
+          "Un loc de întâlnire popular pentru familii în anii 1980 și '90.",
+          "Considerat un loc nostalgic pentru mulți localnici.",
+          "Proeminența sa a scăzut odată cu apariția mall-urilor moderne.",
+          "Exemplu de parc de distracții tradițional în aer liber."
+        ],
+        "en": [
+          "One of the oldest amusement parks in Kuwait.",
+          "Located in the densely populated Hawally district.",
+          "Offered classic rides like a Ferris wheel and carousels.",
+          "Was known for its affordable prices.",
+          "A popular family destination in the 1980s and 90s.",
+          "Considered a nostalgic landmark for many locals.",
+          "Its prominence has declined with the rise of modern malls.",
+          "An example of a traditional open-air amusement park."
+        ]
+      }
+    },
+    {
+      "id": "sabah-al-salem-park-life-v2",
+      "descriptionAdvanced": {
+        "de": "Der Sabah Al-Salem Park ist ein prominenter öffentlicher Park im gleichnamigen Wohngebiet. Er ist einer der größeren Nachbarschaftsparks und wurde als umfassender Erholungsraum konzipiert. Der Park verfügt über ausgedehnte Grünflächen, einen langen, gewundenen Gehweg, der sich durch den gesamten Park zieht, und mehrere gut ausgestattete Kinderspielplätze. Oft gibt es auch Sportanlagen wie Basketball- oder Fußballplätze. Die Landschaftsgestaltung umfasst eine Mischung aus Rasenflächen, Blumenbeeten und einer Vielzahl von Bäumen, die Schatten spenden. Der Park ist ein zentraler Punkt für das Gemeinschaftsleben in Sabah Al-Salem und wird von Menschen jeden Alters für Sport, Entspannung und soziale Treffen genutzt. Er repräsentiert die fortgesetzten Bemühungen der Regierung, in jeder Gemeinde hochwertige öffentliche Räume zu schaffen.",
+        "hu": "A Sabah Al-Salem Park egy kiemelkedő közpark az azonos nevű lakónegyedben. Az egyik nagyobb szomszédsági park, amelyet átfogó rekreációs térnek terveztek. A park kiterjedt zöldterületekkel, egy hosszú, kanyargós sétánnyal, amely az egész parkon áthalad, és több jól felszerelt gyermekjátszótérrel rendelkezik. Gyakran sportlétesítmények, például kosárlabda- vagy futballpályák is találhatók itt. A tájrendezés pázsitok, virágágyások és különféle árnyékot adó fák keverékét foglalja magában. A park a közösségi élet központi pontja Sabah Al-Salemben, amelyet minden korosztály sportolásra, pihenésre és társasági összejövetelekre használ. Ez a kormány folyamatos erőfeszítéseit képviseli, hogy minden közösségben magas színvonalú köztereket hozzon létre.",
+        "ro": "Parcul Sabah Al-Salem este un parc public proeminent în zona rezidențială cu același nume. Este unul dintre parcurile de cartier mai mari și a fost conceput ca un spațiu de recreere cuprinzător. Parcul dispune de spații verzi extinse, o alee lungă și sinuoasă care traversează parcul și mai multe locuri de joacă bine echipate pentru copii. Adesea include și facilități sportive, cum ar fi terenuri de baschet sau de fotbal. Amenajarea peisagistică include un amestec de peluze, straturi de flori și o varietate de copaci care oferă umbră. Parcul este un punct central pentru viața comunitară din Sabah Al-Salem, folosit de oameni de toate vârstele pentru exerciții fizice, relaxare și întâlniri sociale. Acesta reprezintă eforturile continue ale guvernului de a oferi spații publice de înaltă calitate în fiecare comunitate.",
+        "en": "Sabah Al-Salem Park is a prominent public park in the residential area of the same name. It is one of the larger neighborhood parks and was designed as a comprehensive recreational space. The park features extensive green areas, a long, winding walkway that runs throughout, and several well-equipped children's playgrounds. It often includes sports facilities as well, such as basketball or football courts. The landscaping includes a mix of lawns, flowerbeds, and a variety of trees providing shade. The park is a focal point for community life in Sabah Al-Salem, used by people of all ages for exercise, relaxation, and social gatherings. It represents the government's ongoing efforts to provide high-quality public spaces in every community."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Ein großer öffentlicher Park im Stadtteil Sabah Al-Salem.",
+          "Verfügt über einen ausgedehnten, gewundenen Weg zum Gehen und Joggen.",
+          "Mehrere separate Spielbereiche für Kinder unterschiedlichen Alters.",
+          "Umfasst oft Sportplätze für Basketball und Fußball.",
+          "Ein beliebter Ort für Gemeinschaftsveranstaltungen und nationale Feiertage.",
+          "Gepflegte Landschaftsgestaltung mit einer Vielzahl von Pflanzen.",
+          "Dient als grüne Oase in einem dicht besiedelten Vorstadtgebiet.",
+          "Wird intensiv von den Anwohnern für die tägliche Erholung genutzt."
+        ],
+        "hu": [
+          "Egy nagy közpark Sabah Al-Salem negyedében.",
+          "Kiterjedt, kanyargós séta- és kocogóúttal rendelkezik.",
+          "Több különálló játszótér különböző korú gyermekek számára.",
+          "Gyakran kosárlabda- és futballpályákat is magában foglal.",
+          "Népszerű helyszín közösségi rendezvényekhez és nemzeti ünnepekhez.",
+          "Gondozott tájrendezés sokféle növénnyel.",
+          "Zöld oázisként szolgál egy sűrűn lakott elővárosi területen.",
+          "A helyi lakosok intenzíven használják a napi kikapcsolódásra."
+        ],
+        "ro": [
+          "Un parc public mare în districtul Sabah Al-Salem.",
+          "Dispune de o alee extinsă și sinuoasă pentru plimbare și jogging.",
+          "Mai multe zone de joacă separate pentru copii de diferite vârste.",
+          "Include adesea terenuri de sport pentru baschet și fotbal.",
+          "Un loc popular pentru evenimente comunitare și sărbători naționale.",
+          "Peisagistică bine întreținută, cu o varietate de plante.",
+          "Servește ca o oază de verdeață într-o zonă suburbană dens populată.",
+          "Utilizat intens de rezidenții locali pentru recreere zilnică."
+        ],
+        "en": [
+          "A large public park in the Sabah Al-Salem district.",
+          "Features an extensive, winding path for walking and jogging.",
+          "Multiple separate play areas for children of different ages.",
+          "Often includes sports courts for basketball and football.",
+          "A popular venue for community events and national day celebrations.",
+          "Well-maintained landscaping with a variety of plants.",
+          "Serves as a green oasis in a densely populated suburban area.",
+          "Heavily used by local residents for daily recreation."
+        ]
+      }
+    }
+  ]
+}

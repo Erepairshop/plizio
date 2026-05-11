@@ -1,0 +1,69 @@
+{
+  "lang": "hu",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-faguibine-nature-v2",
+      "description": "A Faguibine-tó egy hatalmas, időszakos vízgyűjtő terület, amely drasztikusan változtatja kiterjedését a csapadéktól függően. Fontos ökológiai szerepet tölt be a régióban.",
+      "facts": ["Időszakos tó", "Vízgyűjtő terület", "Ökológiai jelentőség"]
+    },
+    {
+      "id": "faleme-river-nature-v2",
+      "description": "A Faleme folyó Mali és Szenegál természetes határának egy részét alkotja. Gazdag élővilága és környező vidéke jellegzetes a száheli zónára.",
+      "facts": ["Természetes határfolyó", "Gazdag élővilág", "Száheli táj"]
+    },
+    {
+      "id": "mount-dimamou-nature-v2",
+      "description": "A Dimamou-hegy környezete sziklás terep, amely megközelíthetősége miatt csendes természetvédelmi területnek számít. A táj az ország déli részére jellemző.",
+      "facts": ["Sziklás domborzat", "Déli táj", "Természeti terület"]
+    },
+    {
+      "id": "mount-kourou-nature-v2",
+      "description": "A Kourou-hegy vidékén a természetes vegetáció és a helyi vadvilág megfigyelése mellett a táj szépsége dominál. Fontos tájképi elem.",
+      "facts": ["Természetes vegetáció", "Vadvilág", "Fontos táj"]
+    },
+    {
+      "id": "lake-tanda-nature-v2",
+      "description": "A Tanda-tó vizes élőhelye a régióban élő állatok számára biztosít ivóvizet és menedéket. A környező növényzet gazdag.",
+      "facts": ["Vizes élőhely", "Állatvilág", "Ivóvízforrás"]
+    },
+    {
+      "id": "mount-sarro-nature-v2",
+      "description": "A Sarro-hegy vidékét jellegzetes cserjés növényzet borítja, amely otthont ad számos kisemlősnek. Fontos része az ökoszisztémának.",
+      "facts": ["Cserjés táj", "Ökoszisztéma", "Kisemlősök"]
+    },
+    {
+      "id": "lake-niangay-nature-v2",
+      "description": "A Niangay-tó a Niger folyó medencéjéhez tartozik, vizes élőhelyként funkcionál a költöző madarak számára. Az évszakok szerint jelentősen változik.",
+      "facts": ["Niger-medence", "Madárvilág", "Vizes élőhely"]
+    },
+    {
+      "id": "mount-tombouctou-nature-v2",
+      "description": "Timbuktu térségében a homokdűnék és a sziklás kiemelkedések váltakozása jellemző. A táj a sivatagi környezet drámai szépségét mutatja.",
+      "facts": ["Sivatagi táj", "Homokdűnék", "Timbuktu régió"]
+    },
+    {
+      "id": "baoule-ba-river-nature-v2",
+      "description": "A Baoule-ba folyó a terület öntözési és vízellátási igényeit elégíti ki, miközben gazdag folyami ökoszisztémát tart fenn.",
+      "facts": ["Folyami ökoszisztéma", "Vízellátás", "Öntözés"]
+    },
+    {
+      "id": "mount-koulou-nature-v2",
+      "description": "A Koulou-hegy vidékének növényzete és domborzata jellemző a mali szárazföldi területekre. A természet szerelmesei számára érdekes terület.",
+      "facts": ["Szárazföldi táj", "Növényzet", "Természet"]
+    },
+    {
+      "id": "lake-tele-nature-v2",
+      "description": "A Tele-tó fontos szerepet játszik a környék mikroklímájának kialakításában és a helyi élővilág támogatásában. Csendes vizes terület.",
+      "facts": ["Mikroklíma", "Vizes élőhely", "Élővilág"]
+    },
+    {
+      "id": "bago-river-nature-v2",
+      "description": "A Bago folyó a környező mezőgazdasági területek vízellátását biztosítja. A folyó mentén kialakult növénytársulások fontosak.",
+      "facts": ["Folyóvölgy", "Mezőgazdaság", "Növényzet"]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "lang": "de",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "congo-nile-divide-relief-v2",
+      "description": "Die Kongo-Nil-Wasserscheide trennt zwei der bedeutendsten afrikanischen Flusssysteme im Bergland Ruandas.",
+      "facts": ["Wasserscheide", "Bergregion", "Naturgeografie", "Rwanda"]
+    },
+    {
+      "id": "birunga-mountains-relief-v2",
+      "description": "Die Virunga-Berge bilden eine Kette aus acht Vulkanen an der Grenze zwischen Ruanda, Uganda und DR Kongo.",
+      "facts": ["Vulkankette", "Dreiländereck", "Region Rwanda", "Höhenlage"]
+    },
+    {
+      "id": "mt-bisoke-relief-v2",
+      "description": "Der Mount Bisoke ist ein bekannter Vulkan in den Virunga-Bergen mit einem großen Kratersee.",
+      "facts": ["Vulkan", "Kratersee", "Virunga-Kette", "Wanderziel"]
+    },
+    {
+      "id": "mt-gahinga-relief-v2",
+      "description": "Der Mount Gahinga ist ein erloschener Vulkan in den Virunga-Bergen nahe der Grenze zu Uganda.",
+      "facts": ["Erloschener Vulkan", "Virunga", "Berglandschaft", "Region Rwanda"]
+    },
+    {
+      "id": "lake-rweru-relief-v2",
+      "description": "Der Rweru-See liegt an der Grenze zwischen Ruanda und Burundi und ist eine wichtige Wasserquelle.",
+      "facts": ["Grenzsee", "Wasserquelle", "Region Ost", "Ökosystem"]
+    },
+    {
+      "id": "akegera-plain-relief-v2",
+      "description": "Die Akagera-Ebene ist ein weites Savannengebiet im Osten Ruandas, reich an Wildtieren.",
+      "facts": ["Savanne", "Ostruanda", "Nationalpark", "Wildtiere"]
+    },
+    {
+      "id": "akagera-hills-relief-v2",
+      "description": "Die Hügelketten entlang des Akagera-Flusses prägen das östliche Reliefbild Ruandas.",
+      "facts": ["Ostruanda", "Hügellandschaft", "Flussregion", "Topografie"]
+    },
+    {
+      "id": "nyungwe-canopy-relief-v2",
+      "description": "Der Nyungwe Canopy Walkway bietet einen einzigartigen Blick aus der Baumkrone auf das hügelige Relief.",
+      "facts": ["Baumwipfelpfad", "Nyungwe", "Aussichtspunkt", "Reliefs"]
+    },
+    {
+      "id": "lake-muhazi-relief-v2",
+      "description": "Der Muhazi-See ist ein langgestreckter Stausee im Osten Ruandas mit einer stark gegliederten Uferlinie.",
+      "facts": ["Binnensee", "Stausee", "Ostruanda", "Uferlandschaft"]
+    },
+    {
+      "id": "gishwati-ridge-relief-v2",
+      "description": "Der Gishwati-Rücken ist ein markantes topografisches Element in der Nähe des Gishwati-Waldes.",
+      "facts": ["Bergrücken", "Topografie", "Gishwati", "Westruanda"]
+    }
+  ]
+}

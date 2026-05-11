@@ -1,0 +1,80 @@
+{
+  "lang": "ro",
+  "country": "Mali",
+  "files": [
+    "lib/visualLab/data/poiExtraMaliLifeV2.ts",
+    "lib/visualLab/data/poiExtraMaliNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "bamako-market-life-v2",
+      "description": "Cea mai mare piață din Bamako, un nod comercial vital unde se vând produse artizanale și alimentare.",
+      "facts": ["Bamako", "Piață centrală", "Nod comercial"]
+    },
+    {
+      "id": "segou-river-wildlife-life-v2",
+      "description": "Viața sălbatică de-a lungul fluviului Niger în regiunea Ségou, un ecosistem diversificat.",
+      "facts": ["Fluviul Niger", "Faună riverană", "Ecosistem Ségou"]
+    },
+    {
+      "id": "mopti-garden-life-v2",
+      "description": "Grădini comunitare în Mopti care contribuie la aprovizionarea locală cu legume proaspete.",
+      "facts": ["Zona Mopti", "Agricultură urbană", "Legume proaspete"]
+    },
+    {
+      "id": "timbuktu-garden-life-v2",
+      "description": "Grădini în apropierea orașului Timbuktu, care supraviețuiesc în condiții climatice aspre.",
+      "facts": ["Zona Timbuktu", "Grădini aride", "Sursă de hrană"]
+    },
+    {
+      "id": "san-market-life-v2",
+      "description": "Piața din San, un punct de întâlnire pentru negustorii din regiunea centrală a Mali.",
+      "facts": ["Regiunea San", "Centru comercial", "Piață săptămânală"]
+    },
+    {
+      "id": "goundam-garden-life-v2",
+      "description": "Grădini mici cultivate de familiile din zona Goundam pentru necesități zilnice.",
+      "facts": ["Zona Goundam", "Grădinărit familial", "Agricultură locală"]
+    },
+    {
+      "id": "koulikoro-market-life-v2",
+      "description": "Piața vibrantă din Koulikoro, recunoscută pentru diversitatea mărfurilor locale și a produselor agricole.",
+      "facts": ["Regiunea Koulikoro", "Piață centrală", "Comerț local"]
+    },
+    {
+      "id": "sikasso-nature-life-v2",
+      "description": "Peisaje naturale în Sikasso, zonă bogată în vegetație și diversitate biologică.",
+      "facts": ["Regiunea Sikasso", "Natură diversă", "Vegetație bogată"]
+    },
+    {
+      "id": "lake-faguibine-nature-v2",
+      "description": "Lacul Faguibine, o zonă esențială pentru păsările migratoare și economia piscicolă din nord.",
+      "facts": ["Nordul Mali", "Păsări migratoare", "Lac sezonier"]
+    },
+    {
+      "id": "mount-dimamou-nature-v2",
+      "description": "Muntele Dimamou oferă vederi panoramice asupra peisajelor din sudul țării.",
+      "facts": ["Sudul Mali", "Vederi panoramice", "Formațiune geologică"]
+    },
+    {
+      "id": "mount-kourou-nature-v2",
+      "description": "Un munte proeminent care domină relieful din regiunea sa, important pentru flora locală.",
+      "facts": ["Relief muntos", "Floră locală", "Punct de reper"]
+    },
+    {
+      "id": "lake-tanda-nature-v2",
+      "description": "Lacul Tanda, un important rezervor natural de apă pentru fauna din zona sa.",
+      "facts": ["Rezervor de apă", "Faună sălbatică", "Zona rurală"]
+    },
+    {
+      "id": "mount-sarro-nature-v2",
+      "description": "Masivul Sarro reprezintă o formațiune stâncoasă specifică geologiei din Mali.",
+      "facts": ["Formațiune stâncoasă", "Geologie locală", "Relief"]
+    },
+    {
+      "id": "lake-niangay-nature-v2",
+      "description": "Lacul Niangay, esențial pentru menținerea biodiversității și a resurselor de apă în regiune.",
+      "facts": ["Resursă de apă", "Biodiversitate", "Ecosistem"]
+    }
+  ]
+}

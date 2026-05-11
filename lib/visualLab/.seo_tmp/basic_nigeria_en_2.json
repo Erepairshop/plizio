@@ -1,0 +1,61 @@
+{
+  "lang": "en",
+  "country": "Nigeria",
+  "files": [
+    "lib/visualLab/data/poiExtraNigeriaLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaLifeV2.ts",
+    "lib/visualLab/data/poiExtraNigeriaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "jaekel-house-lagos-landmarks-v2",
+      "description": "A historic building in Lagos that served as the residence of the General Manager of the Nigerian Railway Corporation. It is an example of colonial architecture.",
+      "facts": ["Located in Lagos", "Colonial architecture", "Historic residence"]
+    },
+    {
+      "id": "teslim-balogun-stadium-landmarks-v2",
+      "description": "A multi-purpose stadium in Lagos, named after the footballer Teslim Balogun. It is a major sporting venue in Nigeria.",
+      "facts": ["Located in Lagos", "Multi-purpose stadium", "Named after Teslim Balogun"]
+    },
+    {
+      "id": "ng-benue-farm-life-v2",
+      "description": "An agricultural area near the Benue River, focusing on crop production. It contributes significantly to local food security.",
+      "facts": ["Located near Benue River", "Crop production", "Food security"]
+    },
+    {
+      "id": "obudu-mountains-relief-v2",
+      "description": "A highland region in Cross River State known for its temperate climate. It is a scenic area characterized by rolling hills.",
+      "facts": ["Located in Cross River", "Temperate climate", "Highland region"]
+    },
+    {
+      "id": "uadi-niger-relief-v2",
+      "description": "A valley area along the Niger River, critical for irrigation and fishing. It forms a key part of the central Nigerian landscape.",
+      "facts": ["Along Niger River", "Irrigation hub", "Central landscape"]
+    },
+    {
+      "id": "biu-plateau-relief-v2",
+      "description": "A high volcanic plateau in northeastern Nigeria. It is known for its distinct elevation and basalt rock formations.",
+      "facts": ["Located in NE Nigeria", "Volcanic plateau", "Distinct elevation"]
+    },
+    {
+      "id": "mandara-berge-relief-v2",
+      "description": "A mountain range on the border between Nigeria and Cameroon. It is defined by rocky terrain and deep valleys.",
+      "facts": ["Nigeria-Cameroon border", "Mountain range", "Rocky terrain"]
+    },
+    {
+      "id": "alantika-berge-relief-v2",
+      "description": "A remote mountain range located in Adamawa State. It is characterized by challenging terrain and limited access.",
+      "facts": ["Located in Adamawa", "Mountain range", "Remote region"]
+    },
+    {
+      "id": "shere-hills-relief-v2",
+      "description": "A high-altitude range in Plateau State near Jos. It is one of the highest points in Nigeria, popular for climbing.",
+      "facts": ["Located in Plateau State", "High altitude", "Climbing destination"]
+    },
+    {
+      "id": "kogi-hügel-relief-v2",
+      "description": "A series of hills in Kogi State, situated at the confluence of the Niger and Benue rivers. It offers significant scenic views.",
+      "facts": ["Located in Kogi State", "River confluence", "Scenic hills"]
+    }
+  ]
+}

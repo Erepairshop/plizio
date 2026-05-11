@@ -1,0 +1,65 @@
+{
+  "lang": "multi4",
+  "country": "iraq",
+  "files": ["lib/visualLab/data/poiExtraIraqHistoryV2.ts"],
+  "items": [
+    {
+      "id": "uruk-history-v2",
+      "descriptionAdvancedDe": "Uruk, das heutige Warka, gilt als eine der ersten Städte der Welt und liegt im südlichen Irak, etwa 20 Kilometer östlich des Euphrats. Die Stadt, die in der Antike direkt am Fluss lag, ist namensgebend für die Uruk-Zeit (ca. 4000–3100 v. Chr.) und war ein Zentrum der frühen Urbanisierung. Auf einer Fläche von über 5,5 Quadratkilometern entwickelte sich hier eine komplexe Gesellschaft mit bis zu 80.000 Einwohnern. Uruk ist auch als Heimat des legendären Königs Gilgamesch bekannt, dessen Epos zu den ältesten literarischen Werken der Menschheit zählt. Die monumentalen Tempelbezirke, die den Göttern Anu und Inanna gewidmet waren, zeugen von der religiösen und politischen Bedeutung der Stadt. Hier wurden die ersten Formen der Keilschrift entwickelt, was einen revolutionären Schritt in der menschlichen Kommunikation und Verwaltung darstellte. Die Ruinen von Uruk sind ein Schlüsselfundort zum Verständnis der sumerischen Zivilisation.",
+      "descriptionAdvancedHu": "Uruk, a mai Warka területén, a világ egyik legelső városaként ismert, Dél-Irakban, az Eufrátesztől mintegy 20 kilométerre keletre. Az ókorban közvetlenül a folyó partján fekvő város adta a nevét az Uruk-kornak (i. e. 4000–3100), és a korai városiasodás központja volt. A több mint 5,5 négyzetkilométeres területen egy összetett, akár 80 000 fős társadalom alakult ki. Uruk a legendás Gilgames király otthonaként is híres, akinek eposza az emberiség egyik legrégebbi irodalmi alkotása. Az Anu és Inanna isteneknek szentelt monumentális templomkörzetek a város vallási és politikai jelentőségéről tanúskodnak. Itt fejlődött ki az ékírás legkorábbi formája, ami forradalmi lépést jelentett az emberi kommunikációban és adminisztrációban. Uruk romjai kulcsfontosságúak a sumer civilizáció megértéséhez.",
+      "descriptionAdvancedRo": "Uruk, actualul Warka, este considerat unul dintre primele orașe din lume, situat în sudul Irakului, la aproximativ 20 de kilometri est de Eufrat. Orașul, care în antichitate se afla direct pe malul fluviului, a dat numele perioadei Uruk (cca. 4000–3100 î.Hr.) și a fost un centru al urbanizării timpurii. Pe o suprafață de peste 5,5 kilometri pătrați, aici s-a dezvoltat o societate complexă, cu până la 80.000 de locuitori. Uruk este cunoscut și ca patria legendarului rege Ghilgameș, a cărui epopee este una dintre cele mai vechi opere literare ale omenirii. Complexele de temple monumentale, dedicate zeilor Anu și Inanna, mărturisesc importanța religioasă și politică a orașului. Aici au fost dezvoltate primele forme ale scrierii cuneiforme, ceea ce a reprezentat un pas revoluționar în comunicarea și administrația umană. Ruinele din Uruk sunt un sit arheologic cheie pentru înțelegerea civilizației sumeriene.",
+      "descriptionAdvancedEn": "Uruk, modern-day Warka, is regarded as one of the world's first cities, located in southern Iraq, about 20 kilometers east of the Euphrates. The city, which in ancient times was situated directly on the river, gives its name to the Uruk period (c. 4000–3100 BC) and was a center of early urbanization. On an area of over 5.5 square kilometers, a complex society with up to 80,000 inhabitants developed here. Uruk is also famous as the home of the legendary King Gilgamesh, whose epic is one of the oldest literary works of mankind. The monumental temple districts, dedicated to the gods Anu and Inanna, testify to the city's religious and political importance. The earliest forms of cuneiform writing were developed here, representing a revolutionary step in human communication and administration. The ruins of Uruk are a key archaeological site for understanding Sumerian civilization.",
+      "factsAdvanced": [
+        "Uruk wurde um 4500 v. Chr. gegründet.",
+        "Die Stadtmauer war fast 9,5 Kilometer lang.",
+        "Hier wurde die Keilschrift um 3200 v. Chr. erfunden.",
+        "Die Bevölkerung wird auf 50.000 bis 80.000 geschätzt.",
+        "Uruk war das Zentrum des Kults der Göttin Inanna.",
+        "Der Zikkurat von Anu war ein bedeutendes religiöses Bauwerk.",
+        "Die Stadt erstreckte sich über eine Fläche von 6 Quadratkilometern."
+      ]
+    },
+    {
+      "id": "babylon-history-v2",
+      "descriptionAdvancedEn": "Babylon, located on the Euphrates River, was one of the most significant cities of the ancient world. As the capital of the Babylonian and Neo-Babylonian empires, it was a center of power, culture, and science for centuries. Under rulers like Hammurabi, who issued his famous law code here, and Nebuchadnezzar II, who built the legendary Hanging Gardens and the Ishtar Gate, the city reached its zenith. Its massive walls, considered impenetrable, and the towering ziggurat, possibly the inspiration for the Tower of Babel story, were marvels of their time. Babylon's legacy endures through its contributions to astronomy, mathematics, and architecture, and its name has become synonymous with urban splendor and cultural richness. The ruins, located in modern-day Iraq, are a UNESCO World Heritage site, offering a glimpse into its glorious past.",
+      "factsAdvanced": [
+        "Babylon was the capital of the Neo-Babylonian Empire under Nebuchadnezzar II.",
+        "The Ishtar Gate, a marvel of ancient architecture, was built around 575 BC.",
+        "The city's outer walls were said to be over 80 kilometers long.",
+        "Hammurabi's Code, one of the earliest law codes, originated here.",
+        "The Hanging Gardens of Babylon are one of the Seven Wonders of the Ancient World.",
+        "Babylonian astronomers made significant contributions to the field.",
+        "The city was a major religious center, dedicated to the god Marduk.",
+        "It was inscribed as a UNESCO World Heritage site in 2019."
+      ]
+    },
+    {
+      "id": "ur-ziggurat-history-v2",
+      "descriptionAdvancedEn": "The Ziggurat of Ur is one of the best-preserved and most spectacular monuments of ancient Mesopotamia. Located in the ancient city of Ur, in modern-day Iraq, this massive stepped pyramid was built during the Early Bronze Age. Dedicated to the moon god Nanna, the city's patron deity, the ziggurat was part of a larger temple complex that served as the administrative heart of the city. Built by King Ur-Nammu and his son Shulgi in the 21st century BC, it was constructed with a core of mud bricks and a facing of baked bricks set in bitumen. Its three tiers, connected by grand staircases, once led to a shrine at the top. The ziggurat not only demonstrates the architectural and engineering skills of the Sumerians but also reflects their deep religious beliefs and social organization. It stands as a powerful symbol of Ur's former glory.",
+      "factsAdvanced": [
+        "The Ziggurat was built in the 21st century BC by King Ur-Nammu.",
+        "It is dedicated to Nanna, the Sumerian moon god.",
+        "The base measures approximately 64 by 45 meters.",
+        "The structure consists of three terraces, with a shrine at the summit.",
+        "It was constructed with baked bricks laid in bitumen mortar.",
+        "The main staircase consists of one hundred steps.",
+        "The ziggurat was partially restored in the 20th century.",
+        "It is located near the modern city of Nasiriyah in Iraq."
+      ]
+    },
+    {
+      "id": "hatra-history-v2",
+      "descriptionAdvancedEn": "Hatra was a large fortified city in Upper Mesopotamia, located in present-day Iraq. As the capital of the first Arab Kingdom, it flourished as a major religious and trading center on the caravan routes. Its strategic location and formidable fortifications allowed it to withstand repeated attacks from the Roman Empire, including sieges led by emperors Trajan and Septimius Severus. Hatra's unique architecture blends Hellenistic and Roman styles with Eastern decorative elements, reflecting its position as a crossroads of cultures. The city is particularly noted for its well-preserved temples, dedicated to a variety of deities. Hatra's impressive ruins, with their grand columns and detailed sculptures, offer a fascinating insight into a civilization that thrived on the fringes of the great empires of the ancient world. It was inscribed as a UNESCO World Heritage site in 1985.",
+      "factsAdvanced": [
+        "Hatra was the capital of the first Arab Kingdom.",
+        "It successfully resisted Roman sieges in AD 116 and 198.",
+        "The city's architecture is a mix of Greek, Roman, and Eastern influences.",
+        "The main temple was dedicated to the sun god Shamash.",
+        "Hatra was a major center for trade and religion.",
+        "The city was destroyed by the Sassanian Empire in the 3rd century AD.",
+        "It was designated a UNESCO World Heritage site in 1985.",
+        "The ruins are located in the Ninawa Governorate of Iraq."
+      ]
+    }
+  ]
+}

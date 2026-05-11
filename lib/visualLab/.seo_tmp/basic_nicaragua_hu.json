@@ -1,0 +1,29 @@
+{
+  "lang": "hu",
+  "country": "Nicaragua",
+  "files": [
+    "lib/visualLab/data/poiExtraNicaraguaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "meseta-jinotega-relief-v2",
+      "description": "Magasföld Jinotega megyében, amely hűvös éghajlatáról és kiváló kávétermelő földjeiről nevezetes.",
+      "facts": ["Fennsík", "Hűvös éghajlat", "Kávétermesztés"]
+    },
+    {
+      "id": "cerro-la-quinta-relief-v2",
+      "description": "Látványos hegyvonulat, amely a környék mezőgazdasági területeinek védelmét és természetes határát adja.",
+      "facts": ["Hegyvonulat", "Természetes határ", "Mezőgazdaság"]
+    },
+    {
+      "id": "valle-de-la-libertad-relief-v2",
+      "description": "Völgyvidék Chontales megyében, amely a helyi bányászat és állattartás fontos központja.",
+      "facts": ["Völgyvidék", "Bányászat", "Állattartás"]
+    },
+    {
+      "id": "cerro-coyol-relief-v2",
+      "description": "Jellegzetes hegyi képződmény, amely a régió tájképét és az időjárási viszonyokat befolyásolja.",
+      "facts": ["Hegyi képződmény", "Tájkép", "Időjárás"]
+    }
+  ]
+}

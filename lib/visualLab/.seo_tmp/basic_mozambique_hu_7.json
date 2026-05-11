@@ -1,0 +1,31 @@
+{
+  "lang": "hu",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueNatureV2.ts",
+    "lib/visualLab/data/poiExtraMozambiqueReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "limpopo-delta-relief-v2",
+      "description": "A folyó hordaléka által alkotott delta kiterjedt mocsárvilággal és termékeny talajjal rendelkezik. A terület az ország mezőgazdasági potenciáljának egyik fontos pontja.",
+      "facts": ["Folyódelták", "Hordalékos talaj", "Mocsárvilág", "Mezőgazdasági potenciál"]
+    },
+    {
+      "id": "gile-massiv-relief-v2",
+      "description": "A geológiailag komplex masszívum drámai megjelenése miatt ismert. A terület az ország egyik legfontosabb vadvédelmi zónája.",
+      "facts": ["Geológiai komplexum", "Drámai megjelenés", "Vadvédelmi zóna", "Hegyvonulat"]
+    },
+    {
+      "id": "niassa-hochland-relief-v2",
+      "description": "A kiterjedt fennsík a régió időjárását és csapadékeloszlását meghatározó magaslat. A területen élő közösségek hagyományos gazdálkodást folytatnak.",
+      "facts": ["Kiterjedt fennsík", "Időjárási tényező", "Hagyományos gazdálkodás", "Magaslati régió"]
+    },
+    {
+      "id": "mossuril-kuesten-relief-v2",
+      "description": "A part menti övezet alacsony fekvésű területekkel és érintetlen tengerparti szakaszokkal rendelkezik. Földrajzi karaktere az Indiai-óceánhoz igazodik.",
+      "facts": ["Part menti övezet", "Alacsony fekvés", "Érintetlen tengerpart", "Indiai-óceán"]
+    }
+  ]
+}

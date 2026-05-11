@@ -1,0 +1,110 @@
+{
+  "lang": "hu",
+  "country": "Rwanda",
+  "files": [
+    "lib/visualLab/data/poiExtraRwandaNatureV2.ts",
+    "lib/visualLab/data/poiExtraRwandaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "lake-burera-nature-v2",
+      "description": "A Burera-tó egy gyönyörű tó Észak-Ruandában, amelyet meredek dombok és vulkáni táj vesz körül.",
+      "facts": ["Észak-Ruanda", "Vulkáni környezet", "Tóvidék"]
+    },
+    {
+      "id": "lake-cyohoha-nature-v2",
+      "description": "A Cyohoha-tó egy fontos vizes élőhely Ruandában, gazdag madárvilággal és változatos ökoszisztémával.",
+      "facts": ["Vizes élőhely", "Madárvilág", "Biodiverzitás"]
+    },
+    {
+      "id": "mount-hiyaga-nature-v2",
+      "description": "A Hiyaga-hegy egy kiemelkedő természeti képződmény a régióban, amely festői kilátást nyújt a környező tájra.",
+      "facts": ["Hegyi táj", "Panoráma", "Természeti képződmény"]
+    },
+    {
+      "id": "lake-kivu-shores-nature-v2",
+      "description": "A Kivu-tó partvidéke Ruanda egyik legszebb természeti része, változatos növényzettel és vízi élővilággal.",
+      "facts": ["Kivu-tó", "Partvidék", "Változatos élővilág"]
+    },
+    {
+      "id": "kigali-hills-nature-v2",
+      "description": "Kigali környező dombsága, amely meghatározza a főváros földrajzi jellegét és zöld környezetet biztosít.",
+      "facts": ["Dombság", "Kigali környezete", "Zöldövezet"]
+    },
+    {
+      "id": "karongi-shores-nature-v2",
+      "description": "Karongi városának partvidéke a Kivu-tónál, gazdag ökoszisztémával és lenyűgöző tóparti környezettel.",
+      "facts": ["Kivu-tó", "Karongi", "Tóparti élővilág"]
+    },
+    {
+      "id": "karisimbi-mountain-relief-v2",
+      "description": "A Karisimbi a Virunga-hegység legmagasabb csúcsa, egy alvó vulkán, amely uralja a régió domborzatát.",
+      "facts": ["Virunga-hegység", "Alvó vulkán", "Legmagasabb csúcs"]
+    },
+    {
+      "id": "nyiragongo-border-relief-v2",
+      "description": "A Nyiragongo közelében fekvő terület, amelynek jellegzetes vulkanikus domborzata az ország határvidékét alakítja.",
+      "facts": ["Határvidék", "Vulkanikus domborzat", "Különleges táj"]
+    },
+    {
+      "id": "congo-nile-divide-relief-v2",
+      "description": "A Kongó-Nílus választóvonal egy fontos hegyvonulat, amely elválasztja a két nagy afrikai vízgyűjtő területet.",
+      "facts": ["Hegyvonulat", "Vízválasztó", "Földrajzi jelentőség"]
+    },
+    {
+      "id": "birunga-mountains-relief-v2",
+      "description": "A Birunga-hegység vulkanikus vonulata, amely Ruanda egyik legmeghatározóbb domborzati egysége.",
+      "facts": ["Vulkanikus hegység", "Domborzati elem", "Hegylánc"]
+    },
+    {
+      "id": "mt-bisoke-relief-v2",
+      "description": "A Bisoke egy gyönyörű vulkáni csúcs a Virunga-hegységben, krátertóval a tetején.",
+      "facts": ["Vulkáni csúcs", "Virunga-hegység", "Krátertó"]
+    },
+    {
+      "id": "mt-gahinga-relief-v2",
+      "description": "A Gahinga egy vulkanikus hegycsúcs, amely fontos része a határmenti domborzati rendszernek.",
+      "facts": ["Vulkanikus hegycsúcs", "Határvidék", "Domborzat"]
+    },
+    {
+      "id": "lake-rweru-relief-v2",
+      "description": "A Rweru-tó egy medence a területen, amely alapvetően befolyásolja a környező táj domborzatát.",
+      "facts": ["Tavi medence", "Domborzat", "Földrajzi régió"]
+    },
+    {
+      "id": "akegera-plain-relief-v2",
+      "description": "Az Akegera-síkság egy kiterjedt, alacsonyan fekvő terület, amely jellegzetes domborzati arculatot ad a régiónak.",
+      "facts": ["Síkság", "Domborzati arculat", "Alacsonyan fekvő terület"]
+    },
+    {
+      "id": "lake-burera-relief-v2",
+      "description": "A Burera-tó medencéje, amely a környező hegyvidék között helyezkedik el, meghatározva a helyi domborzatot.",
+      "facts": ["Tavi medence", "Hegyvidéki táj", "Domborzat"]
+    },
+    {
+      "id": "lake-ruhondo-relief-v2",
+      "description": "A Ruhondo-tó a Burera-tó szomszédságában fekszik, és szintén fontos eleme a régió domborzatának.",
+      "facts": ["Tórendszer", "Domborzat", "Hegyvidék"]
+    },
+    {
+      "id": "akagera-hills-relief-v2",
+      "description": "Az Akagera környéki dombok láncolata, amely változatos domborzati formákat mutat az ország keleti részén.",
+      "facts": ["Dombság", "Kelet-Ruanda", "Domborzati formák"]
+    },
+    {
+      "id": "lake-muhazi-relief-v2",
+      "description": "A hosszúkás Muhazi-tó medencéje, amely fontos domborzati és vízügyi egység Ruanda belső részén.",
+      "facts": ["Hosszúkás tó", "Vízi domborzat", "Közép-Ruanda"]
+    },
+    {
+      "id": "mt-tanzania-border-relief-v2",
+      "description": "A Tanzánia határán húzódó hegyvidéki terület, amely természetes domborzati határt képez.",
+      "facts": ["Határvidék", "Hegyvidék", "Domborzati határ"]
+    },
+    {
+      "id": "gishwati-ridge-ridge-relief-v2",
+      "description": "A Gishwati-gerinc egy fontos domborzati vonulat, amely a nyugati országrész terepét formálja.",
+      "facts": ["Hegygerinc", "Nyugat-Ruanda", "Domborzat"]
+    }
+  ]
+}

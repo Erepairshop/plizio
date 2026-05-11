@@ -1,0 +1,317 @@
+{
+  "lang": "multi4",
+  "country": "lebanon",
+  "files": ["lib/visualLab/data/poiExtraLebanonCitiesV2.ts"],
+  "items": [
+    {
+      "id": "beirut-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Bejrút Libanon fővárosa és legnagyobb városa, egyben a Földközi-tenger keleti medencéjének egyik legjelentősebb kikötője. A település történelme több mint 5000 évre nyúlik vissza, a föníciaiaktól kezdve a rómaiakon át az oszmánokig számos birodalom hagyta itt a nyomát. A modern városközpont a libanoni polgárháború (1975–1990) után jelentős újjáépítésen ment keresztül. A Nemzeti Múzeum a Közel-Kelet egyik legfontosabb régészeti gyűjteményének ad otthont, több százezer műtárggyal. Az Amerikai Egyetem (AUB) 1866-os alapításával a régió egyik legrégebbi felsőoktatási intézménye. A város gazdasága elsősorban a bankszektorra, a kereskedelemre és a turizmusra épül, bár az elmúlt évek válságai jelentős kihívásokat hoztak. A Raouche-sziklák, vagyis a Galamb-sziklák Bejrút ikonikus természeti képződményei, amelyek közvetlenül a tengerpartnál magasodnak. Éghajlata jellegzetes mediterrán, forró, száraz nyarakkal és enyhe, csapadékos telekkel.",
+        "ro": "Beirut este capitala și cel mai mare oraș al Libanului, servind drept cel mai important port al țării la Marea Mediterană. Istoria așezării se întinde pe mai mult de 5.000 de ani, fiind influențată succesiv de fenicieni, romani, bizantini și otomani. Centrul modern al orașului a fost supus unui proces masiv de reconstrucție după războiul civil libanez (1975-1990). Muzeul Național din Beirut găzduiește o colecție vastă de artefacte arheologice care documentează istoria complexă a regiunii. Universitatea Americană din Beirut (AUB), fondată în 1866, este una dintre cele mai prestigioase instituții de învățământ superior din Orientul Mijlociu. Economia se bazează puternic pe sectorul bancar, comerț și turism, în ciuda instabilității economice recente. Stâncile Raouche, cunoscute și sub numele de Stâncile Porumbeilor, sunt formațiuni calcaroase naturale situate în largul coastei orașului. Clima sa mediteraneană se caracterizează prin veri lungi și calde, urmate de ierni scurte și blânde.",
+        "en": "Beirut is the capital and largest city of Lebanon, functioning as the country's main seaport on the Mediterranean coast. The settlement boasts a history spanning over 5,000 years, with significant periods of rule by Phoenicians, Romans, Byzantines, and Ottomans. The central district underwent extensive reconstruction following the Lebanese Civil War (1975–1990), blending historic ruins with modern architecture. The National Museum of Beirut holds an extensive collection of archaeological artifacts that detail the region's ancient heritage. Established in 1866, the American University of Beirut (AUB) remains one of the oldest and most prominent universities in the Middle East. The local economy is primarily driven by banking, commerce, and tourism, despite facing severe economic crises in recent years. The Raouche Rocks, or Pigeon Rocks, are massive offshore limestone formations that serve as a natural landmark. The city experiences a classic Mediterranean climate with hot, rainless summers and mild, rainy winters."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bejrút története több mint 5000 évre tekint vissza.",
+          "A Nemzeti Múzeum több százezer ókori műtárgyat őriz.",
+          "Az Amerikai Egyetemet (AUB) 1866-ban alapították.",
+          "A Raouche-sziklák a város legismertebb természeti jelképei.",
+          "A polgárháború (1975-1990) után a központot teljesen újjáépítették."
+        ],
+        "ro": [
+          "Istoria Beirutului se întinde pe o perioadă de peste 5.000 de ani.",
+          "Muzeul Național conține sute de mii de artefacte antice.",
+          "Universitatea Americană (AUB) a fost fondată în anul 1866.",
+          "Stâncile Raouche sunt cele mai faimoase repere naturale.",
+          "Centrul a fost reconstruit major după războiul civil (1975-1990)."
+        ],
+        "en": [
+          "Beirut has a continuous history of more than 5,000 years.",
+          "The National Museum preserves hundreds of thousands of artifacts.",
+          "The American University of Beirut was established in 1866.",
+          "The Raouche Rocks are the city's most recognized natural landmarks.",
+          "The central district was heavily rebuilt post-civil war (1975-1990)."
+        ]
+      }
+    },
+    {
+      "id": "tripoli-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Tripoli Libanon második legnagyobb városa, amely az ország északi részén, a Földközi-tenger partján fekszik. A város neve a görög Tripolisz szóból ered, amely három várost jelent, utalva arra, hogy eredetileg Türosz, Szidón és Arvad szövetségének központja volt. A település különösen híres a mameluk kori építészetéről, óvárosában több tucat történelmi mecset, medresze és karavánszeráj található, amelyek a 13. és 15. század között épültek. A város fölé magasodó Raymond de Saint-Gilles citadellát eredetileg a keresztesek építették a 12. század elején. Tripoli kikötője, El Mina, jelentős kereskedelmi csomópont, amely ma is fontos szerepet játszik az áruszállításban. A város híres hagyományos szappaniparáról és a Közel-Keleten is elismert édességeiről. A Pálma-szigetek Természetvédelmi Terület közvetlenül a part mentén helyezkedik el, és veszélyeztetett tengeri teknősök, valamint költöző madarak menedéke. A lakosság többsége szunnita muszlim.",
+        "ro": "Tripoli este al doilea oraș ca mărime din Liban, situat în partea de nord a țării, pe coasta Mării Mediterane. Numele orașului derivă din grecescul Tripolis, însemnând trei orașe, deoarece a fost fondat ca centrul unei confederații formate din Tir, Sidon și Arvad. Așezarea se remarcă prin arhitectura sa din perioada mamelucă, centrul istoric adăpostind zeci de moschei, madrasa și hanuri construite între secolele XIII și XV. Citadela Raymond de Saint-Gilles, care domină orașul, a fost inițial construită de cruciați la începutul secolului al XII-lea. Portul Tripoli, cunoscut sub numele de El Mina, rămâne un nod comercial esențial pentru transportul de mărfuri. Orașul este renumit pentru industria tradițională a săpunului și pentru dulciurile sale arabe foarte apreciate. Rezervația Naturală a Insulelor Palmierilor se află în largul coastei, oferind un habitat protejat pentru țestoase marine și păsări migratoare. Populația orașului este majoritar musulmană sunnită.",
+        "en": "Tripoli is the second-largest city in Lebanon, situated in the northern part of the country along the Mediterranean Sea. The name originates from the Greek word Tripolis, meaning three cities, reflecting its history as the center of a confederation involving Tyre, Sidon, and Arvad. The settlement is especially noted for its surviving Mamluk architecture, with the old city containing dozens of historic mosques, madrasas, and khans built between the 13th and 15th centuries. The Citadel of Raymond de Saint-Gilles, overlooking the city, was originally constructed by Crusaders in the early 12th century. The port area, El Mina, operates as a significant commercial hub for maritime trade. Tripoli is traditionally known for its artisanal soap manufacturing and its widely renowned Arabic sweets. The Palm Islands Nature Reserve, located just offshore, serves as a protected sanctuary for endangered loggerhead turtles and migratory birds. The demographic makeup of the city is predominantly Sunni Muslim."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A város neve a görög Tripolisz (három város) szóból ered.",
+          "Libanon leggazdagabb mameluk építészeti örökségével rendelkezik.",
+          "A Raymond de Saint-Gilles citadellát keresztesek építették a 12. században.",
+          "Híres a hagyományos szappankészítésről és édességeiről.",
+          "A Pálma-szigetek Természetvédelmi Terület a partjainál fekszik."
+        ],
+        "ro": [
+          "Numele orașului provine din termenul grecesc Tripolis (trei orașe).",
+          "Deține cel mai bogat patrimoniu arhitectural mameluc din Liban.",
+          "Citadela Raymond de Saint-Gilles a fost zidită în secolul al XII-lea.",
+          "Este renumit pentru producția tradițională de săpun și dulciuri.",
+          "Rezervația Naturală a Insulelor Palmierilor se află în apropiere."
+        ],
+        "en": [
+          "The city's name derives from the Greek word Tripolis (three cities).",
+          "It contains the largest concentration of Mamluk architecture in Lebanon.",
+          "The Citadel of Raymond de Saint-Gilles was built in the 12th century.",
+          "Tripoli is well known for its traditional soap making and sweets.",
+          "The Palm Islands Nature Reserve is located just off its coast."
+        ]
+      }
+    },
+    {
+      "id": "sidon-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Szidón (Saida) Libanon harmadik legnagyobb városa, amely a Földközi-tenger partján, Bejrúttól mintegy 40 kilométerre délre fekszik. Az ókorban a föníciaiak egyik legfontosabb és legrégebbi városállama volt, amely hatalmas gazdagságra tett szert az üveggyártásból és a bíborcsiga-festék kereskedelméből. A város leglátványosabb műemléke a 13. században épült Tengeri Vár, amelyet a keresztesek emeltek egy kis szigetre a kikötő bejáratánál. A 16. századi Khan al-Franj (a frankok karavánszerája) Fakhr-al-Din emír megrendelésére épült, hogy fellendítse az európaiakkal folytatott kereskedelmet. Szidón óvárosa szűk, fedett utcáival és hagyományos piacaival (souk) megőrizte középkori hangulatát. A város közelében található az Eshmoun templom, egy föníciai szentély, amelyet a gyógyítás istenének szenteltek az i. e. 7. században. A modern Szidón gazdasága a halászaton, a mezőgazdaságon és a kereskedelmen alapul.",
+        "ro": "Sidon (Saida) este al treilea oraș ca mărime din Liban, situat pe coasta Mediteranei, la aproximativ 40 de kilometri sud de Beirut. În antichitate, a fost unul dintre cele mai importante și vechi orașe-stat feniciene, dobândind o mare bogăție din fabricarea sticlei și comerțul cu vopsea purpurie. Cel mai proeminent monument al orașului este Castelul Mării, construit de cruciați în secolul al XIII-lea pe o mică insulă la intrarea în port. Khan al-Franj, un han din secolul al XVI-lea, a fost construit la ordinul emirului Fakhr-al-Din pentru a stimula comerțul cu europenii. Orașul vechi din Sidon și-a păstrat atmosfera medievală cu străduțe înguste și acoperite și piețe tradiționale (souk). În apropiere de oraș se află Templul lui Eshmoun, un sanctuar fenician dedicat zeului vindecării, ridicat în secolul al VII-lea î.Hr. Economia modernă a orașului Sidon se bazează pe pescuit, agricultură și comerț.",
+        "en": "Sidon (Saida) is the third-largest city in Lebanon, positioned on the Mediterranean coast about 40 kilometers south of Beirut. In antiquity, it was one of the most significant and oldest Phoenician city-states, amassing immense wealth through glass manufacturing and the trade of Tyrian purple dye. The most prominent monument is the 13th-century Sea Castle, built by Crusaders on a small island at the harbor's entrance. The 16th-century Khan al-Franj (Caravanserai of the Franks) was commissioned by Emir Fakhr-al-Din to facilitate trade with European merchants. The old city of Sidon retains its medieval character with narrow, vaulted streets and traditional markets (souks). Located near the city is the Temple of Eshmoun, a Phoenician sanctuary dedicated to the god of healing, constructed in the 7th century BC. Modern Sidon's economy relies heavily on fishing, agriculture, and local commerce."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Az ókorban a föníciaiak egyik legfontosabb városállama volt.",
+          "Gazdagságát az üveggyártás és a bíborfesték kereskedelme alapozta meg.",
+          "A Tengeri Várat a keresztes lovagok építették a 13. században.",
+          "A 16. századi Khan al-Franj a külföldi kereskedők szálláshelye volt.",
+          "A közeli Eshmoun templomot az i. e. 7. században építették."
+        ],
+        "ro": [
+          "În antichitate, a fost un oraș-stat fenician de mare importanță.",
+          "Bogăția sa a fost generată de fabricarea sticlei și a vopselei purpurii.",
+          "Castelul Mării a fost construit de cruciați în secolul al XIII-lea.",
+          "Hanul Khan al-Franj din secolul al XVI-lea găzduia negustori străini.",
+          "Templul lui Eshmoun din apropiere datează din secolul al VII-lea î.Hr."
+        ],
+        "en": [
+          "In antiquity, it was one of the most important Phoenician city-states.",
+          "Its wealth was based on glassmaking and the trade of purple dye.",
+          "The Sea Castle was constructed by Crusaders during the 13th century.",
+          "The 16th-century Khan al-Franj accommodated European merchants.",
+          "The nearby Temple of Eshmoun was built in the 7th century BC."
+        ]
+      }
+    },
+    {
+      "id": "tyre-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Türosz (Sur) egy ősi föníciai város Libanon déli partvidékén, amely 1984 óta az UNESCO Világörökség része. Az i. e. 2750 körül alapított település eredetileg két részből állt: egy szárazföldi városból és egy szigeti erődből. Türosz volt a híres bíborfesték fő gyártási központja, amelyről a föníciaiak a nevüket is kapták a görögöktől. Nagy Sándor i. e. 332-ben, egy hét hónapos ostrom során elfoglalta a szigetet egy mesterséges földhíd építésével, amely örökre összekötötte azt a szárazfölddel. A város régészeti lelőhelyei kiterjedtek, legismertebbek a római kori romok, köztük a hatalmas hippodrom, amely a második legnagyobb volt a Római Birodalomban és akár 20 000 nézőt is befogadhatott. Szintén figyelemre méltó a monumentális római diadalív és a kiterjedt nekropolisz. A modern város lakossága nagyrészt síita muszlim, a gazdaság pedig a mezőgazdaságra, a turizmusra és a helyi kereskedelemre támaszkodik.",
+        "ro": "Tir (Sur) este un vechi oraș fenician situat pe coasta de sud a Libanului, desemnat Patrimoniu Mondial UNESCO din 1984. Fondată în jurul anului 2750 î.Hr., așezarea a constat inițial dintr-un oraș continental și o fortăreață pe o insulă. Tir a fost principalul centru de producție pentru vopseaua purpurie, de la care fenicienii și-au primit numele de la greci. Alexandru cel Mare a cucerit insula în anul 332 î.Hr., după un asediu de șapte luni, construind un dig care a conectat-o permanent de continent. Siturile arheologice ale orașului sunt vaste, cele mai cunoscute fiind ruinele romane, printre care se numără un hipodrom masiv, al doilea ca mărime din Imperiul Roman, cu o capacitate de până la 20.000 de spectatori. De asemenea, sunt remarcabile Arcul de Triumf roman și vasta necropolă. Populația orașului modern este predominant musulmană șiită, iar economia se bazează pe agricultură, turism și comerț local.",
+        "en": "Tyre (Sur) is an ancient Phoenician city on the southern coast of Lebanon, designated as a UNESCO World Heritage site since 1984. Founded around 2750 BC, the settlement originally consisted of a mainland coastal city and an island fortress. Tyre was the primary production center for the famous Tyrian purple dye, from which the Phoenicians derived their Greek name. Alexander the Great captured the island in 332 BC after a seven-month siege by constructing a massive causeway that permanently connected it to the mainland. The city's archaeological sites are extensive, most notably featuring Roman ruins such as a massive hippodrome, which was the second largest in the Roman Empire and could seat up to 20,000 spectators. Also notable are a monumental Roman triumphal arch and a large necropolis. The modern city's population is largely Shia Muslim, and the local economy relies heavily on agriculture, tourism, and small-scale commerce."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Türosz 1984 óta az UNESCO Világörökség része.",
+          "Az ókorban a híres bíborfesték legfőbb gyártási központja volt.",
+          "Nagy Sándor i. e. 332-ben egy földhíd építésével foglalta el a szigetet.",
+          "A római hippodrom a második legnagyobb volt az egész birodalomban.",
+          "A romok között egy hatalmas nekropolisz és diadalív is található."
+        ],
+        "ro": [
+          "Orașul Tir a fost inclus în Patrimoniul Mondial UNESCO în 1984.",
+          "În antichitate, a fost principalul centru de producție al vopselei purpurii.",
+          "Alexandru cel Mare a cucerit insula în 332 î.Hr. construind un dig.",
+          "Hipodromul roman a fost al doilea ca mărime din Imperiul Roman.",
+          "Printre ruine se remarcă o vastă necropolă și un Arc de Triumf."
+        ],
+        "en": [
+          "Tyre has been a designated UNESCO World Heritage site since 1984.",
+          "In antiquity, it was the main production center for Tyrian purple dye.",
+          "Alexander the Great captured the island in 332 BC using a causeway.",
+          "The Roman hippodrome was the second largest in the Roman Empire.",
+          "The archaeological ruins include a vast necropolis and a triumphal arch."
+        ]
+      }
+    },
+    {
+      "id": "byblos-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Büblosz (Jbeil) a Földközi-tenger partján, Bejrúttól 37 kilométerre északra fekszik, és a világ egyik legrégebbi, folyamatosan lakott városaként tartják számon. A területen már a neolitikumban, i. e. 5000 körül is éltek emberek, majd a föníciaiak egyik legfontosabb kikötőjévé vált, amely szorosan kapcsolódott az egyiptomi kereskedelemhez. A görögök a városról nevezték el a papiruszt (büblosz), és a Biblia szó is ebből a névből származik. Itt találták meg Ahiram király szarkofágját, amelyen a föníciai ábécé egyik legkorábbi ismert felirata olvasható. A történelmi rétegek jól láthatók a régészeti területen, ahol föníciai templomok, egy római színház, valamint egy 12. századi keresztes vár romjai is megtalálhatók. A középkori óváros a szűk utcákkal, a Keresztelő Szent János-templommal és az ősi kikötővel 1984-ben került fel az UNESCO Világörökségi listájára. Ma pezsgő kulturális és turisztikai központ.",
+        "ro": "Byblos (Jbeil) este situat pe coasta mediteraneană, la 37 de kilometri nord de Beirut, și este recunoscut ca unul dintre cele mai vechi orașe locuite continuu din lume. Zona a fost locuită încă din perioada neolitică, în jurul anului 5000 î.Hr., devenind ulterior un port fenician major, strâns legat de comerțul cu Egiptul. Grecii au numit papirusul (byblos) după acest oraș, iar cuvântul Biblie derivă tot din acest nume. Aici a fost descoperit sarcofagul regelui Ahiram, purtând una dintre cele mai vechi inscripții cunoscute în alfabetul fenician. Straturile istorice sunt vizibile în situl arheologic, care include temple feniciene, un teatru roman și ruinele unui castel cruciat din secolul al XII-lea. Orașul vechi medieval, cu străzile sale înguste, Biserica Sf. Ioan Botezătorul și portul antic, a fost adăugat pe lista Patrimoniului Mondial UNESCO în 1984. Astăzi, este un centru cultural și turistic vibrant.",
+        "en": "Byblos (Jbeil) is located on the Mediterranean coast, 37 kilometers north of Beirut, and is recognized as one of the oldest continuously inhabited cities in the world. Human settlement in the area dates back to the Neolithic period around 5000 BC, later evolving into a major Phoenician port tightly linked with Egyptian trade. The Greeks named papyrus (byblos) after the city, and the word Bible is derived from this name. The sarcophagus of King Ahiram, which bears one of the earliest known inscriptions of the Phoenician alphabet, was discovered here. The archaeological site reveals distinct historical layers, featuring remnants of Phoenician temples, a Roman theater, and a 12th-century Crusader castle. The medieval old town, with its narrow streets, the Church of St. John the Baptist, and the ancient harbor, was designated a UNESCO World Heritage site in 1984. Today, it remains a bustling cultural and tourist hub."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A világ egyik legrégebbi, folyamatosan lakott városa i. e. 5000 óta.",
+          "A görögök innen származtatták a papirusz és a Biblia nevét.",
+          "Itt találták meg a föníciai ábécé egyik legkorábbi feliratát.",
+          "A régészeti területen föníciai, római és keresztes kori romok is állnak.",
+          "1984 óta az UNESCO Világörökség része."
+        ],
+        "ro": [
+          "Este unul dintre cele mai vechi orașe locuite continuu din lume.",
+          "Numele papirusului și al Bibliei derivă de la numele grec al orașului.",
+          "Aici s-a descoperit una dintre primele inscripții în alfabetul fenician.",
+          "Situl arheologic conține ruine feniciene, romane și cruciate.",
+          "Orașul a fost inclus în Patrimoniul Mondial UNESCO în 1984."
+        ],
+        "en": [
+          "It is one of the oldest continuously inhabited cities in the world.",
+          "The words for papyrus and Bible are derived from its Greek name.",
+          "One of the earliest inscriptions of the Phoenician alphabet was found here.",
+          "The archaeological site includes Phoenician, Roman, and Crusader ruins.",
+          "It has been designated as a UNESCO World Heritage site since 1984."
+        ]
+      }
+    },
+    {
+      "id": "jounieh-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Jounieh egy sűrűn lakott parti város Libanonban, a Keserwan-hegység lábánál, Bejrúttól körülbelül 16 kilométerre északra. A település a 20. század második felében vált jelentős üdülőközponttá, különösen a polgárháború alatt növekedett meg a népessége. Jounieh a Harissa hegytetőn álló Miasszonyunk (Our Lady of Lebanon) szoborról is híres, amelyhez egy drótkötélpályás felvonó (Téléphérique) visz fel a tengerpartról. A város gazdasága erősen támaszkodik a turizmusra, a szórakoztatóiparra és a kereskedelemre; területén számos étterem, klub, és a Casino du Liban nevű luxuskaszinó is működik. Az öböl mentén kiépített partszakasz népszerű a vízi sportok kedvelői körében. A lakosság túlnyomórészt maronita keresztény. A modern infrastruktúra ellenére a város megőrizte a régi bazár és a kikötő körüli történelmi negyedeit, ahol 19. századi kőházak állnak.",
+        "ro": "Jounieh este un oraș de coastă dens populat din Liban, situat la poalele Munților Keserwan, la aproximativ 16 kilometri nord de Beirut. Așezarea a devenit o stațiune majoră în a doua jumătate a secolului al XX-lea, înregistrând o creștere masivă a populației în timpul războiului civil. Jounieh este renumit pentru statuia Fecioarei Maria (Nostra Doamnă a Libanului) de pe vârful dealului Harissa, accesibilă printr-o telecabină (Téléphérique) care pornește de pe coastă. Economia orașului se bazează puternic pe turism, industria divertismentului și comerț, adăpostind numeroase restaurante, cluburi și celebrul Casino du Liban. Zona de coastă de-a lungul golfului este o destinație populară pentru iubitorii de sporturi nautice. Populația este predominant creștină maronită. În ciuda infrastructurii moderne, orașul a păstrat vechiul bazar și cartierele istorice din jurul portului, unde încă se găsesc case de piatră din secolul al XIX-lea.",
+        "en": "Jounieh is a densely populated coastal city in Lebanon, situated at the base of the Keserwan Mountains, approximately 16 kilometers north of Beirut. The settlement evolved into a prominent resort town during the second half of the 20th century, experiencing significant population growth during the civil war. Jounieh is closely associated with the Shrine of Our Lady of Lebanon on the Harissa hilltop, accessible via a cable car (Téléphérique) that ascends from the coastline. The city's economy heavily relies on tourism, entertainment, and retail, hosting numerous restaurants, nightclubs, and the luxurious Casino du Liban. The coastal strip along the bay is highly favored by enthusiasts of various water sports. The demographic composition is overwhelmingly Maronite Christian. Despite its modern development, the city retains a historic souk and old quarters around the port featuring 19th-century stone houses."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Bejrúttól 16 kilométerre északra, a Keserwan-hegység lábánál fekszik.",
+          "A Harissa hegytetőre egy drótkötélpályás felvonó visz fel a partról.",
+          "Itt található a híres Casino du Liban nevű szórakoztatókomplexum.",
+          "A város lakossága nagyrészt maronita keresztény vallású.",
+          "Az óvárosban még számos 19. századi kőház maradt fenn."
+        ],
+        "ro": [
+          "Este situat la 16 kilometri nord de Beirut, la baza Munților Keserwan.",
+          "O telecabină face legătura între coastă și sanctuarul de pe dealul Harissa.",
+          "Găzduiește renumitul complex de divertisment Casino du Liban.",
+          "Populația orașului este constituită predominant din creștini maroniți.",
+          "Orașul vechi conservă mai multe case de piatră din secolul al XIX-lea."
+        ],
+        "en": [
+          "It is located 16 kilometers north of Beirut at the base of the Keserwan Mountains.",
+          "A cable car connects the coastal area to the Harissa hilltop shrine.",
+          "The city is home to the famous Casino du Liban entertainment complex.",
+          "The population consists overwhelmingly of Maronite Christians.",
+          "The old souk area still features numerous 19th-century stone houses."
+        ]
+      }
+    },
+    {
+      "id": "baalbek-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Baalbek a Bekaa-völgy keleti részén fekszik, és a világ egyik legépebben fennmaradt és legkiterjedtebb római kori templomegyüttesének ad otthont. A rómaiak Heliopolisznak (A Nap Városának) nevezték a várost, ahol Jupiter, Bacchus és Vénusz tiszteletére emeltek monumentális szentélyeket. A Jupiter-templom hat kolosszális oszlopa, amely a mai napig áll, a római építészet lenyűgöző példája, míg a Bacchus-templom szinte teljes épségben megmaradt a 2. századból. A templomok alapjában található híres triliton három, egyenként több mint 800 tonnás kőtömbből áll, amelyek a világ legnagyobb faragott építőkövei közé tartoznak. Baalbek 1984 óta szerepel az UNESCO Világörökségi listájára. A modern város mezőgazdasági és adminisztratív központ a régióban, lakosságát túlnyomórészt síita muszlimok alkotják. Nyaranta a történelmi romok között rendezik meg a nemzetközi Baalbeki Fesztivált, amely színházi és zenei előadásokat vonultat fel.",
+        "ro": "Baalbek este situat în partea de est a Văii Bekaa și găzduiește unul dintre cele mai mari și mai bine conservate complexe de temple romane din lume. Romanii au numit orașul Heliopolis (Orașul Soarelui), unde au construit sanctuare monumentale dedicate lui Jupiter, Bacchus și Venus. Cele șase coloane colosale ale Templului lui Jupiter, care stau în picioare și astăzi, reprezintă un exemplu impresionant de arhitectură romană, în timp ce Templul lui Bacchus a supraviețuit aproape intact din secolul al II-lea. Trilithonul din fundația templelor este format din trei blocuri de piatră, fiecare cântărind peste 800 de tone, numărându-se printre cele mai mari pietre de construcție tăiate din lume. Baalbek a fost inclus pe lista Patrimoniului Mondial UNESCO în 1984. Orașul modern funcționează ca un centru agricol și administrativ, cu o populație majoritar musulmană șiită. În timpul verii, printre ruine se desfășoară Festivalul Internațional de la Baalbek.",
+        "en": "Baalbek is located in the eastern part of the Bekaa Valley and houses one of the largest and best-preserved Roman temple complexes in the world. The Romans referred to the city as Heliopolis (City of the Sun), where they constructed monumental sanctuaries dedicated to Jupiter, Bacchus, and Venus. The six colossal standing columns of the Temple of Jupiter provide a striking example of Roman engineering, while the Temple of Bacchus survives almost entirely intact from the 2nd century. The trilithon in the temple's foundation consists of three stone blocks weighing over 800 tons each, ranking among the largest cut building stones ever utilized. Baalbek was inscribed as a UNESCO World Heritage site in 1984. The modern municipality serves as an agricultural and administrative hub for the region, populated predominantly by Shia Muslims. During the summer, the historical ruins serve as the venue for the Baalbeck International Festival, featuring theatrical and musical performances."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A világ egyik legépebben megmaradt római templomegyüttese.",
+          "A római időkben a várost Heliopolisznak (Nap Városának) hívták.",
+          "A Bacchus-templom a 2. századból szinte teljes épségben fennmaradt.",
+          "A triliton kőtömbjei egyenként több mint 800 tonnát nyomnak.",
+          "A modern lakosság nagyrészt síita muszlimokból áll."
+        ],
+        "ro": [
+          "Adăpostește unul dintre cele mai bine conservate complexe de temple romane.",
+          "În perioada romană, orașul era cunoscut sub numele de Heliopolis.",
+          "Templul lui Bacchus s-a păstrat aproape intact din secolul al II-lea.",
+          "Blocurile de piatră din Trilithon cântăresc peste 800 de tone fiecare.",
+          "Populația modernă este formată în mare parte din musulmani șiiți."
+        ],
+        "en": [
+          "It contains one of the most well-preserved Roman temple complexes globally.",
+          "During the Roman era, the city was known as Heliopolis (City of the Sun).",
+          "The Temple of Bacchus remains almost fully intact from the 2nd century.",
+          "The stone blocks of the trilithon weigh more than 800 tons each.",
+          "The modern demographic is composed predominantly of Shia Muslims."
+        ]
+      }
+    },
+    {
+      "id": "zahle-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Zahlé Libanon negyedik legnagyobb városa, és a Bekaa-kormányzóság székhelye, amely a Libanon-hegység keleti lejtőin fekszik. A települést gyakran a Bekaa-völgy menyasszonyának is nevezik festői elhelyezkedése és kellemes éghajlata miatt. A városon keresztülfolyik a Bardouni folyó, amelynek partjait híres szabadtéri éttermek és kávézók (darabke) szegélyezik, ahol tradicionális libanoni mezzét és helyi arakot szolgálnak fel. Zahlé gazdasága jelentős mértékben a mezőgazdaságra, különösen a szőlőtermesztésre és a borászatra épül, itt található Libanon legrégebbi és legnagyobb borászati birtoka, a Château Ksara. A város építészetére a hagyományos vörös tetős, mészkőből épült házak jellemzőek, amelyek a 19. és 20. század fordulóján épültek. A lakosság többsége melkita görögkatolikus, és a város az ország egyik legfontosabb keresztény központja. A költészet hagyománya is erős, Zahléből számos elismert arab költő és író származik.",
+        "ro": "Zahlé este al patrulea oraș ca mărime din Liban și capitala guvernoratului Bekaa, fiind situat pe pantele estice ale Munților Liban. Așezarea este adesea numită Mireasa Văii Bekaa, datorită locației sale pitorești și a climatului plăcut. Râul Bardouni traversează orașul, iar malurile sale sunt mărginite de restaurante și cafenele renumite în aer liber, unde se servesc mezze tradiționale libaneze și arak local. Economia din Zahlé se bazează într-o mare măsură pe agricultură, în special pe viticultură și producția de vin, aici aflându-se Château Ksara, una dintre cele mai vechi și mari podgorii din Liban. Arhitectura orașului este caracterizată de case tradiționale cu acoperișuri roșii, construite din calcar la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea. Populația este majoritar greco-catolică melkită, orașul fiind un centru creștin esențial. Zahlé are o tradiție literară puternică, oferind mai mulți poeți și scriitori arabi apreciați.",
+        "en": "Zahlé is the fourth-largest city in Lebanon and the capital of the Beqaa Governorate, perched on the eastern slopes of the Mount Lebanon range. The settlement is frequently referred to as the Bride of the Beqaa due to its scenic location and favorable climate. The Bardouni River flows through the city, and its shaded banks are lined with famous open-air restaurants serving traditional Lebanese mezze and locally distilled arak. The economy of Zahlé relies heavily on agriculture, particularly viticulture and winemaking, being home to Château Ksara, one of the oldest and largest wineries in Lebanon. The city's architecture is typified by traditional limestone houses with red-tiled roofs dating from the late 19th and early 20th centuries. The demographic is predominantly Melkite Greek Catholic, making the city a major Christian center in the country. Zahlé also boasts a strong literary heritage, having produced numerous acclaimed Arabic poets and writers."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Zahlé a Bekaa-kormányzóság székhelye a Libanon-hegység lejtőin.",
+          "Gyakran nevezik a Bekaa-völgy menyasszonyának.",
+          "A Bardouni folyó partján sorakozó éttermekről és kávézókról híres.",
+          "Libanon bortermelésének egyik legfontosabb központja (pl. Château Ksara).",
+          "A lakosság többsége melkita görögkatolikus keresztény."
+        ],
+        "ro": [
+          "Zahlé este capitala guvernoratului Bekaa, situat pe Munții Liban.",
+          "Este adesea supranumit Mireasa Văii Bekaa pentru frumusețea sa.",
+          "Este faimos pentru restaurantele de pe malurile râului Bardouni.",
+          "Reprezintă un centru major al producției de vin din Liban.",
+          "Majoritatea populației aparține bisericii greco-catolice melkite."
+        ],
+        "en": [
+          "Zahlé is the capital of the Beqaa Governorate, on the Mount Lebanon slopes.",
+          "It is frequently referred to as the Bride of the Beqaa Valley.",
+          "The city is famous for the outdoor restaurants lining the Bardouni River.",
+          "It is a major center for Lebanese wine production, like Château Ksara.",
+          "The majority of its residents are Melkite Greek Catholic Christians."
+        ]
+      }
+    },
+    {
+      "id": "nabatieh-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Nabatieh (Nabatije) egy jelentős város Dél-Libanonban, a Nabatieh-kormányzóság adminisztratív és gazdasági központja. A település egy fennsíkon helyezkedik el, Bejrúttól mintegy 70 kilométerre délre. A város történelmileg fontos kereskedelmi csomópont volt, és ma is híres heti piacáról, a Souq al-Tanáról (hétfői piac), ahol a környező falvak gazdái és kézművesei kínálják portékáikat. A közelben található Beaufort vára (Qalaat al-Shaqif), egy lenyűgöző, magas hegygerincre épült keresztes erőd, amely a Litani-folyó völgyére néz, és évszázadokon át stratégiai katonai jelentőséggel bírt. Nabatieh lakossága túlnyomórészt síita muszlim, és a város a dél-libanoni vallási és politikai élet egyik központja. Az Asúra vallási ünnep idején a városban nagyszabású megemlékezéseket és felvonulásokat tartanak. A régió gazdasága főként a mezőgazdaságra, az olívaolaj-termelésre és a dohánytermesztésre épül.",
+        "ro": "Nabatieh este un oraș important din sudul Libanului, servind drept centru administrativ și economic al guvernoratului Nabatieh. Așezarea este situată pe un platou, la aproximativ 70 de kilometri sud de Beirut. Din punct de vedere istoric, orașul a fost un nod comercial vital și rămâne faimos pentru piața sa săptămânală, Souq al-Tana (piața de luni), unde fermierii și meșteșugarii din satele învecinate își vând produsele. În apropiere se află Castelul Beaufort (Qalaat al-Shaqif), o fortăreață cruciată impunătoare construită pe o creastă montană care domină valea râului Litani, având o importanță militară strategică timp de secole. Populația orașului Nabatieh este covârșitor musulmană șiită, așezarea fiind un centru al vieții religioase și politice din sudul Libanului. În timpul sărbătorii religioase Ashura, orașul găzduiește comemorări și procesiuni la scară largă. Economia regională se bazează în principal pe agricultură, producția de ulei de măsline și cultivarea tutunului.",
+        "en": "Nabatieh is a major city in southern Lebanon, serving as the administrative and economic capital of the Nabatieh Governorate. The settlement is situated on a plateau approximately 70 kilometers south of Beirut. Historically, the city has been a vital commercial crossroads and is still famous for its weekly market, Souq al-Tana (the Monday market), where farmers and artisans from surrounding villages sell their goods. Nearby is Beaufort Castle (Qalaat al-Shaqif), an imposing Crusader fortress built on a high ridge overlooking the Litani River valley, holding strategic military importance for centuries. The population of Nabatieh is predominantly Shia Muslim, making it a focal point of religious and political life in southern Lebanon. During the religious observance of Ashura, the city hosts large-scale commemorations and processions. The regional economy is primarily sustained by agriculture, olive oil production, and tobacco farming."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "Nabatieh Dél-Libanon egyik legfontosabb közigazgatási központja.",
+          "A hagyományos hétfői piacon (Souq al-Tana) a környékbeliek árulnak.",
+          "A közelben magasodik a stratégiai jelentőségű Beaufort keresztes erőd.",
+          "A város lakossága nagyrészt síita muszlim.",
+          "A mezőgazdaság, különösen a dohány- és olajbogyó-termesztés meghatározó."
+        ],
+        "ro": [
+          "Nabatieh este un centru administrativ cheie în sudul Libanului.",
+          "Piața tradițională de luni atrage fermieri din satele învecinate.",
+          "Castelul cruciat Beaufort, de importanță strategică, se află în apropiere.",
+          "Populația orașului este alcătuită predominant din musulmani șiiți.",
+          "Agricultura, cultivarea tutunului și a măslinilor sunt vitale economic."
+        ],
+        "en": [
+          "Nabatieh acts as a principal administrative center in southern Lebanon.",
+          "The traditional Monday market attracts farmers from neighboring villages.",
+          "The strategically important Crusader Beaufort Castle is located nearby.",
+          "The demographic of the city is predominantly Shia Muslim.",
+          "Agriculture, particularly tobacco and olive cultivation, is economically vital."
+        ]
+      }
+    },
+    {
+      "id": "aley-cities-v2",
+      "descriptionAdvanced": {
+        "hu": "Aley (Aleyh) egy hegyvidéki város a Libanon-hegységben, Bejrúttól mindössze 17 kilométerre keletre. Magaslati fekvése (kb. 800-900 méter) és kellemes nyári klímája miatt a 20. század eleje óta a gazdag bejrútiak és a Perzsa-öböl menti országok turistáinak egyik legnépszerűbb nyári menedéke. A települést gyakran a nyár fővárosaként is emlegetik. A városképet elegáns 19. századi oszmán kori kővillák és modern luxusapartmanok keveréke határozza meg. Az Aley Souk (piac) a város szíve, amely nyáron éjszakába nyúlóan tele van élettel, kávézókkal, éttermekkel és üzletekkel. Történelmileg a terület a drúz közösség egyik fontos központja volt, és a lakosság nagy része ma is drúz vallású. A város fái között gyakori a fenyő, amely friss levegőt biztosít a völgyben rekedt nyári hőség elől menekülőknek. Aley gazdasága majdnem teljes egészében a nyári turizmusra és az ingatlanpiacra épül.",
+        "ro": "Aley este un oraș montan situat în Munții Liban, la doar 17 kilometri est de Beirut. Datorită altitudinii sale (aprox. 800-900 de metri) și climatului blând de vară, a devenit din prima jumătate a secolului al XX-lea un refugiu estival preferat pentru beiruteni și turiștii din țările Golfului Persic. Așezarea este adesea supranumită capitala verii. Peisajul urban se caracterizează printr-un amestec de vile elegante din piatră din perioada otomană (secolul al XIX-lea) și apartamente moderne de lux. Piața centrală (Aley Souk) este inima orașului, fiind plină de viață în serile de vară, cu numeroase cafenele, restaurante și magazine. Istoric, zona a fost un centru important pentru comunitatea druză, iar o mare parte din populația de astăzi aparține acestei religii. Pinii sunt foarte răspândiți în zonă, oferind aer proaspăt celor care fug de căldura verii. Economia orașului Aley depinde aproape în întregime de turismul estival și imobiliare.",
+        "en": "Aley is a mountainous city in the Mount Lebanon range, located just 17 kilometers east of Beirut. Due to its elevation (approximately 800-900 meters) and pleasant summer climate, it has been a highly popular summer retreat for affluent Beirutis and tourists from the Persian Gulf states since the early 20th century. The settlement is frequently referred to as the Capital of the Summer. The urban landscape features a mix of elegant 19th-century Ottoman-era stone villas and modern luxury apartments. The Aley Souk (market) is the vibrant heart of the city, bustling late into the night during the summer season with cafes, restaurants, and shops. Historically, the area has been a significant center for the Druze community, and a large portion of the current population adheres to the Druze faith. Pine trees are abundant in the city, providing fresh air for those escaping the coastal summer heat. Aley's economy is almost entirely driven by summer tourism and real estate."
+      },
+      "factsAdvanced": {
+        "hu": [
+          "A várost kellemes klímája miatt a nyár fővárosaként is emlegetik.",
+          "Bejrúttól 17 km-re keletre, 800-900 méteres magasságban fekszik.",
+          "Számos 19. századi oszmán kori kővilla található a településen.",
+          "A lakosság jelentős része a drúz vallási közösséghez tartozik.",
+          "Gazdaságának motorja a Perzsa-öbölből érkező nyári turizmus."
+        ],
+        "ro": [
+          "Datorită climei sale plăcute, orașul este numit capitala verii.",
+          "Se află la 17 km est de Beirut, la o altitudine de 800-900 de metri.",
+          "Așezarea găzduiește numeroase vile otomane din piatră (secolul XIX).",
+          "O proporție semnificativă a populației aparține comunității religioase druze.",
+          "Economia este stimulată de turiștii de vară din țările Golfului Persic."
+        ],
+        "en": [
+          "Because of its pleasant climate, the city is known as the Capital of the Summer.",
+          "It is situated 17 km east of Beirut at an altitude of 800-900 meters.",
+          "The settlement features numerous 19th-century Ottoman stone villas.",
+          "A significant portion of the population belongs to the Druze religious community.",
+          "The economy is heavily driven by summer tourists from the Persian Gulf."
+        ]
+      }
+    }
+  ]
+}

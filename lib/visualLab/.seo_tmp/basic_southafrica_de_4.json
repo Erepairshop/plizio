@@ -1,0 +1,69 @@
+{
+  "lang": "de",
+  "country": "Southafrica",
+  "files": [
+    "lib/visualLab/data/poiExtraSouthafricaReliefV2.ts"
+  ],
+  "items": [
+    {
+      "id": "cederberg-relief-v2",
+      "description": "Die Cederberg-Region ist durch ein zerklüftetes Sandsteingebirge und tiefe Schluchten geprägt. Diese Reliefstruktur formt ein einzigartiges, trockenes Gebirgsklima.",
+      "facts": ["Zerklüftetes Sandsteingebirge", "Tiefe Felsschluchten", "Trockenes Gebirgsklima"]
+    },
+    {
+      "id": "kalahari-basin-relief-v2",
+      "description": "Das Kalahari-Becken bildet ein weitläufiges, sandbedecktes Tiefland in Zentral-Südafrika. Diese Landschaft ist durch sanfte Dünen und endlose Ebenen charakterisiert.",
+      "facts": ["Sandbedecktes Tiefland", "Sanfte Dünenzüge", "Weite, flache Ebenen"]
+    },
+    {
+      "id": "limpopo-plains-relief-v2",
+      "description": "Die Limpopo-Ebenen sind ein flaches bis hügeliges Gebiet im Norden des Landes. Das Relief ist geprägt von fruchtbaren Böden und Savannenlandschaften.",
+      "facts": ["Weitläufige Ebenen", "Fruchtbare Savannenböden", "Sanft hügeliges Relief"]
+    },
+    {
+      "id": "suurberg-relief-v2",
+      "description": "Das Suurberg-Gebirge ist eine markante Bergkette, die die Küstenebenen vom Landesinneren abgrenzt. Es bietet ein abwechslungsreiches Relief mit schmalen Bergrücken.",
+      "facts": ["Markante Bergkette", "Trennung von Küste und Landesinnerem", "Schmale Bergrücken"]
+    },
+    {
+      "id": "winterberg-relief-v2",
+      "description": "Die Winterberge zeichnen sich durch ihre exponierte Hochlandstruktur aus. Das Relief ist geologisch vielseitig und durch markante Felsvorsprünge gekennzeichnet.",
+      "facts": ["Exponierte Hochlandstruktur", "Geologisch vielseitig", "Markante Felsvorsprünge"]
+    },
+    {
+      "id": "amathole-relief-v2",
+      "description": "Das Amathole-Gebirge bietet ein reliefreiches Bild mit bewaldeten Hängen und steilen Kämmen. Es ist ein geographisch markanter Teil der östlichen Kapregion.",
+      "facts": ["Bewaldete Gebirgshänge", "Steile Bergkämme", "Geographisch markantes Relief"]
+    },
+    {
+      "id": "waterberg-relief-v2",
+      "description": "Die Waterberge bestehen aus einem weitläufigen Sandstein-Plateau mit abrupt abfallenden Kanten. Das Plateau bildet eine markante natürliche Barriere in der Provinz Limpopo.",
+      "facts": ["Sandstein-Plateau", "Abrupte Felskanten", "Natürliche Barriere"]
+    },
+    {
+      "id": "kharras-relief-v2",
+      "description": "Kharras präsentiert ein charakteristisches, trockenes Plateau-Relief. Die Landschaft ist geprägt von verwitterten Steinformationen und weiten Ausblicken.",
+      "facts": ["Trockenes Plateau", "Verwitterte Gesteinsformationen", "Weite Landschaftsausblicke"]
+    },
+    {
+      "id": "rooge-relief-v2",
+      "description": "Rooge zeichnet sich durch ein spezielles, geologisch geprägtes Relief aus. Die Formgebungen sind das Resultat jahrelanger erosiver Prozesse in einer ariden Zone.",
+      "facts": ["Erosionsgeprägtes Relief", "Spezielle Felsformen", "Trockene Zonen"]
+    },
+    {
+      "id": "baviaanskloof-relief-v2",
+      "description": "Baviaanskloof liegt in einer tief eingeschnittenen Talstruktur zwischen zwei Gebirgszügen. Das Relief ist durch dramatische Felswände und enge Schluchten definiert.",
+      "facts": ["Tief eingeschnittenes Tal", "Dramatische Felswände", "Enge Felsschluchten"]
+    },
+    {
+      "id": "kogelberg-relief-v2",
+      "description": "Die Kogelberge sind ein markantes Küstengebirge. Ihr Relief ist durch steile, meerseitige Abhänge und eine außergewöhnliche geologische Vielfalt charakterisiert.",
+      "facts": ["Markantes Küstengebirge", "Steile Küstenabhänge", "Geologische Vielfalt"]
+    },
+    {
+      "id": "blouberg-relief-v2",
+      "description": "Das Blouberg-Massiv ist durch seine markanten, vertikalen Felswände bekannt. Das Relief hebt sich deutlich von der umliegenden flachen Savannenlandschaft ab.",
+      "facts": ["Vertikale Felswände", "Massives Gebirgsbild", "Kontrast zur Savanne"]
+    }
+  ]
+}

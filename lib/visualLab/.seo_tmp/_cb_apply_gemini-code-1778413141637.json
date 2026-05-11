@@ -1,0 +1,165 @@
+{
+  "lang": "multi4",
+  "country": "auto",
+  "files": [
+    "lib/visualLab/data/poiExtraCentralafricanrepublicLandmarksV2.ts"
+  ],
+  "items": [
+    {
+      "id": "palais-de-justice-bangui-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Der Justizpalast in Bangui ist das absolute Zentrum der rechtlichen und judikativen Infrastruktur der Zentralafrikanischen Republik. Das Gebäude befindet sich im administrativen Herzen der Hauptstadt und beherbergt die wichtigsten nationalen Gerichte, einschließlich des Appellationsgerichts. Die Architektur ist stark von der französischen Kolonialzeit geprägt und zeichnet sich durch funktionale, robuste Betonstrukturen aus, die speziell für das feuchtheiße tropische Klima konzipiert wurden. Historisch gesehen war das Justizsystem des Landes durch chronische Unterfinanzierung und politische Instabilität massiv geschwächt, was die tägliche Arbeit im Palast extrem erschwert. Während der verschiedenen politischen Krisen, insbesondere während des Bürgerkriegs 2013, wurden Teile der juristischen Archive beschädigt oder geplündert, was den Wiederaufbau des Rechtssystems verzögerte. Heute wird das Gebäude mit finanzieller und logistischer Unterstützung internationaler Partner wie der UN-Mission MINUSCA und der Europäischen Union schrittweise rehabilitiert. Die lokale Wirtschaft in der direkten Umgebung ist stark auf Dienstleistungen für Regierungsangestellte, Anwälte und Verwaltungspersonal ausgerichtet.",
+        "hu": "A bangui Igazságügyi Palota a Közép-afrikai Köztársaság jogi és igazságszolgáltatási infrastruktúrájának abszolút központja. Az épület a főváros közigazgatási szívében található, és a legfontosabb nemzeti bíróságoknak, köztük a fellebbviteli bíróságnak ad otthont. Az építészetet erősen meghatározza a francia gyarmati korszak, és funkcionális, robusztus betonszerkezetek jellemzik, amelyeket kifejezetten a forró és párás trópusi éghajlathoz terveztek. Történelmileg az ország igazságszolgáltatási rendszerét súlyosan meggyengítette a krónikus alulfinanszírozottság és a politikai instabilitás, ami rendkívül megnehezíti a palotában folyó mindennapi munkát. A különböző politikai válságok, különösen a 2013-as konfliktus során a jogi archívumok egy része megsérült vagy teljesen megsemmisült a fosztogatások miatt. Ma az épületet nemzetközi partnerek, például az ENSZ MINUSCA missziója és az Európai Unió támogatásával fokozatosan rehabilitálják a jogállamiság újjáépítése érdekében. A környező gazdaság a kormányzati alkalmazottak és jogászok kiszolgálására épül.",
+        "ro": "Palatul de Justiție din Bangui este centrul absolut al infrastructurii legale și judiciare din Republica Centrafricană. Clădirea este situată în inima administrativă a capitalei și găzduiește cele mai importante instanțe naționale, inclusiv Curtea de Apel. Arhitectura este puternic influențată de perioada colonială franceză și se caracterizează prin structuri de beton funcționale și robuste, concepute special pentru climatul tropical umed și cald. Din punct de vedere istoric, sistemul de justiție al țării a fost grav slăbit de subfinanțarea cronică și de instabilitatea politică, ceea ce face ca munca zilnică în palat să fie extrem de dificilă. În timpul diverselor crize politice, în special în timpul războiului civil din 2013, părți din arhivele judiciare au fost deteriorate sau jefuite complet. Astăzi, clădirea este reabilitată treptat cu sprijinul financiar și logistic al partenerilor internaționali, cum ar fi misiunea ONU MINUSCA și Uniunea Europeană, pentru a reconstrui statul de drept. Economia înconjurătoare este orientată spre servicii pentru angajații guvernamentali și avocați.",
+        "en": "The Palace of Justice in Bangui is the absolute center of the legal and judicial infrastructure in the Central African Republic. The building is located in the administrative heart of the capital and houses the most important national courts, including the Court of Appeal. The architecture is heavily influenced by the French colonial period and features functional, robust concrete structures specifically designed for the hot and humid tropical climate. Historically, the country's justice system has been severely weakened by chronic underfunding and widespread political instability, making daily work within the palace extremely difficult. During the various political crises, especially during the 2013 civil war, parts of the critical judicial archives were damaged or completely looted, heavily delaying the restoration of the legal system. Today, the building is being gradually rehabilitated with the financial and logistical support of international partners such as the UN mission MINUSCA and the European Union. The surrounding local economy is geared towards providing services for government employees and legal professionals."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Das Gebäude ist das rechtliche Zentrum der Hauptstadt.",
+          "Es beherbergt das wichtigste Appellationsgericht des Landes.",
+          "Die Architektur stammt aus der französischen Kolonialzeit.",
+          "Juristische Archive wurden 2013 bei Unruhen zerstört.",
+          "Der Wiederaufbau wird von der Europäischen Union unterstützt."
+        ],
+        "hu": [
+          "Az épület a főváros és az ország legfőbb jogi központja.",
+          "A palota ad otthont a legmagasabb fellebbviteli bíróságnak.",
+          "Az építészeti stílus a francia gyarmati korszakból származik.",
+          "A 2013-as zavargások során számos jogi archívum megsemmisült.",
+          "Az újjáépítést az Európai Unió és az ENSZ is támogatja."
+        ],
+        "ro": [
+          "Clădirea este centrul judiciar al întregii capitale.",
+          "Găzduiește cea mai importantă Curte de Apel din țară.",
+          "Arhitectura datează din perioada colonială franceză.",
+          "Arhivele judiciare au fost distruse în timpul revoltelor din 2013.",
+          "Reconstrucția este sprijinită masiv de Uniunea Europeană."
+        ],
+        "en": [
+          "The building serves as the primary legal center of the capital.",
+          "It houses the country's most important Court of Appeal.",
+          "The architectural style dates back to the French colonial era.",
+          "Crucial legal archives were destroyed during the 2013 riots.",
+          "The physical reconstruction is supported by the European Union."
+        ]
+      }
+    },
+    {
+      "id": "pont-du-8-mars-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Pont du 8 Mars (Brücke des 8. März) ist eine entscheidende verkehrstechnische Infrastruktur in der Hauptstadt Bangui. Sie überspannt einen der städtischen Kanäle und verbindet das dicht besiedelte administrative Zentrum mit den südlichen und westlichen Wohn- und Geschäftsvierteln. Der Name der Brücke erinnert an den Internationalen Frauentag und unterstreicht die offizielle Anerkennung der Rolle der Frau in der zentralafrikanischen Gesellschaft. Historisch wurde die Brücke erbaut, um die Mobilität innerhalb der rasant wachsenden Hauptstadt zu verbessern, da das lokale Straßennetz oft unter schweren Überschwemmungen während der Regenzeit leidet. Wirtschaftlich ist die Brücke ein absoluter Flaschenhals für den städtischen Transport: Tausende von Motorradtaxis, Bussen und Fußgängern überqueren sie täglich, um Güter von den peripheren Märkten ins Zentrum zu transportieren. Rund um die Brücke hat sich eine starke informelle Mikrowirtschaft gebildet, in der fliegende Händler Snacks, Treibstoff und Haushaltswaren an die Passanten verkaufen. Sie ist ein Symbol für die urbane Dynamik Banguis.",
+        "hu": "A Pont du 8 Mars (Március 8. híd) egy kulcsfontosságú közlekedési infrastruktúra Bangui fővárosában. A város egyik csatornáján ível át, és összeköti a sűrűn lakott közigazgatási központot a déli és nyugati lakó- és üzleti negyedekkel. A híd neve a nemzetközi nőnapra utal, és hangsúlyozza a nők szerepének hivatalos elismerését a közép-afrikai társadalomban. Történelmileg a hidat azért építették, hogy javítsák a gyorsan növekvő fővároson belüli mobilitást, mivel a helyi úthálózat gyakran szenved súlyos áradásoktól az esős évszakban. Gazdasági szempontból a híd a városi közlekedés abszolút szűk keresztmetszete: naponta több ezer motorkerékpár-taxi, busz és gyalogos kel át rajta, hogy árukat szállítson a peremi piacokról a központba. A híd körül erős informális mikrogazdaság alakult ki, ahol a mozgóárusok rágcsálnivalókat, üzemanyagot és háztartási cikkeket árulnak az arra járóknak. A híd a mindennapi bangui városi dinamika fontos szimbóluma.",
+        "ro": "Pont du 8 Mars (Podul 8 Martie) este o infrastructură de transport esențială în capitala Bangui. Traversează unul dintre canalele urbane și face legătura între centrul administrativ dens populat și cartierele rezidențiale și comerciale din sud și vest. Numele podului comemorează Ziua Internațională a Femeii, subliniind recunoașterea oficială a rolului femeilor în societatea centrafricană. Istoric, podul a fost construit pentru a îmbunătăți mobilitatea în capitala cu o creștere rapidă, deoarece rețeaua de drumuri locale suferă adesea inundații severe în timpul sezonului ploios. Din punct de vedere economic, podul este un blocaj absolut pentru transportul urban: mii de taxiuri pe motocicletă, autobuze și pietoni îl traversează zilnic pentru a transporta mărfuri de la piețele periferice spre centru. O puternică micro-economie informală s-a format în jurul podului, vânzătorii ambulanți oferind trecătorilor gustări, combustibil și bunuri de uz casnic.",
+        "en": "The Pont du 8 Mars (8th of March Bridge) is a crucial transportation infrastructure in the capital city of Bangui. It spans one of the urban canals, connecting the densely populated administrative center with the southern and western residential and commercial districts. The name of the bridge commemorates International Women's Day, underscoring the official recognition of women's roles in Central African society. Historically, the bridge was constructed to improve mobility within the rapidly expanding capital, as the local road network frequently suffers from severe flooding during the heavy rainy season. Economically, the bridge is an absolute bottleneck for urban transport: thousands of motorcycle taxis, minibuses, and pedestrians cross it daily to transport goods from the peripheral markets to the city center. A robust informal micro-economy has formed directly around the bridge approaches, where roving vendors sell snacks, fuel, and household goods to the massive volume of passersby."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Brücke ist nach dem Internationalen Frauentag benannt.",
+          "Sie verbindet das Zentrum mit den westlichen Stadtteilen.",
+          "Die Infrastruktur hilft, saisonale Überschwemmungen zu umgehen.",
+          "Tausende Motorradtaxis überqueren die Brücke täglich.",
+          "Rund um die Brücke floriert der informelle Straßenhandel."
+        ],
+        "hu": [
+          "A híd a nemzetközi nőnap (március 8.) tiszteletére kapta a nevét.",
+          "Közvetlenül összeköti a központot a nyugati városrészekkel.",
+          "Az infrastruktúra segít elkerülni az esős évszak áradásait.",
+          "Naponta több ezer helyi motorkerékpár-taxi kel át a hídon.",
+          "A híd közvetlen környékén virágzik az informális utcai kereskedelem."
+        ],
+        "ro": [
+          "Podul este numit în cinstea Zilei Internaționale a Femeii.",
+          "Conectează centrul orașului cu cartierele vestice dens populate.",
+          "Infrastructura ajută la ocolirea inundațiilor sezoniere locale.",
+          "Mii de taxiuri pe motocicletă traversează podul în fiecare zi.",
+          "Comerțul stradal informal prosperă masiv în jurul podului."
+        ],
+        "en": [
+          "The bridge is officially named after International Women's Day.",
+          "It successfully connects the city center with the western districts.",
+          "The infrastructure helps commuters bypass severe seasonal flooding.",
+          "Thousands of local motorcycle taxis cross the bridge every day.",
+          "Informal street trading thrives extensively around the bridge."
+        ]
+      }
+    },
+    {
+      "id": "cathedrale-bangassou-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Saint-Pierre-Claver-Kathedrale von Bangassou befindet sich im Südosten der Zentralafrikanischen Republik an der Grenze zur Demokratischen Republik Kongo. Sie ist der Sitz der katholischen Diözese von Bangassou und ein herausragendes Beispiel für koloniale Missionsarchitektur, größtenteils aus lokal gebranntem roten Backstein errichtet. Die Region um Bangassou ist stark isoliert und von dichten tropischen Wäldern sowie dem Mbomou-Fluss geprägt. Wirtschaftlich stützt sich die lokale Bevölkerung fast vollständig auf landwirtschaftliche Subsistenzwirtschaft, Fischfang und den handwerklichen Abbau von Diamanten. Historisch wurde die Kathedrale 2017 zum tragischen Zentrum von massiver sektiererischer Gewalt, als Anti-Balaka-Milizen die Stadt angriffen. Tausende muslimische Zivilisten suchten auf dem Gelände der Kathedrale Zuflucht, das von den Geistlichen unter Einsatz ihres Lebens beschützt wurde, bis UN-Friedenstruppen intervenierten. Die Kathedrale steht heute als starkes Symbol für interreligiöse Solidarität und den unermüdlichen Einsatz für Frieden in einer stark marginalisierten und wirtschaftlich unterentwickelten Region.",
+        "hu": "A bangassoui Saint-Pierre-Claver katedrális a Közép-afrikai Köztársaság délkeleti részén, a Kongói Demokratikus Köztársaság határán található. Ez a bangassoui katolikus egyházmegye központja, és a gyarmati missziós építészet kiemelkedő példája, amelyet nagyrészt helyben égetett vörös téglából építettek. Bangassou régiója erősen elszigetelt, sűrű trópusi erdők és a Mbomou-folyó határozza meg a tájat. Gazdasági szempontból a helyi lakosság szinte kizárólag az önellátó mezőgazdaságra, a halászatra és a kézműves gyémántbányászatra támaszkodik. Történelmileg a katedrális 2017-ben tragikus mértékű szektás erőszak központjává vált, amikor az anti-balaka milíciák megtámadták a várost. Muszlim civilek ezrei kerestek menedéket a katedrális területén, akiket a papok az életük kockáztatásával védtek meg, amíg az ENSZ békefenntartói be nem avatkoztak. A katedrális ma a vallásközi szolidaritás és a békéért folytatott fáradhatatlan küzdelem erős szimbóluma egy erősen marginalizált régióban.",
+        "ro": "Catedrala Saint-Pierre-Claver din Bangassou este situată în sud-estul Republicii Centrafricane, la granița cu Republica Democratică Congo. Este sediul diecezei catolice din Bangassou și un exemplu remarcabil de arhitectură misionară colonială, fiind construită în mare parte din cărămidă roșie arsă local. Regiunea din jurul orașului Bangassou este foarte izolată și este caracterizată de păduri tropicale dense și de fluviul Mbomou. Din punct de vedere economic, populația locală se bazează aproape în totalitate pe agricultura de subzistență, pescuit și extracția artizanală a diamantelor. Istoric, catedrala a devenit centrul tragic al violențelor sectare masive în 2017, când milițiile anti-balaka au atacat orașul. Mii de civili musulmani au căutat refugiu în complexul catedralei, fiind protejați de clerici cu riscul vieții lor, până la intervenția trupelor de menținere a păcii ale ONU. Astăzi, catedrala este un simbol puternic al solidarității interreligioase.",
+        "en": "The Saint-Pierre-Claver Cathedral of Bangassou is located in the southeast of the Central African Republic, directly on the border with the Democratic Republic of Congo. It serves as the seat of the Catholic Diocese of Bangassou and is an outstanding example of colonial missionary architecture, constructed largely from locally fired red brick. The region surrounding Bangassou is highly isolated, defined by dense tropical forests and the massive Mbomou River. Economically, the local population relies almost entirely on subsistence agriculture, river fishing, and artisanal diamond mining. Historically, the cathedral became the tragic center of massive sectarian violence in 2017 when anti-balaka militias violently attacked the city. Thousands of Muslim civilians sought immediate refuge on the cathedral grounds, heavily protected by the clergy at the risk of their own lives until UN peacekeeping troops intervened. Today, the cathedral stands as a powerful symbol of interfaith solidarity and peace."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale liegt im isolierten Südosten des Landes.",
+          "Sie besteht fast vollständig aus rotem Backstein.",
+          "Im Jahr 2017 flohen Tausende Muslime auf das Gelände.",
+          "Die Region ist geprägt von Subsistenzwirtschaft und Bergbau.",
+          "Lokale Geistliche beschützten Zivilisten vor den Milizen."
+        ],
+        "hu": [
+          "A katedrális az ország elszigetelt délkeleti részén fekszik.",
+          "Az épület szinte teljes egészében vörös téglából épült.",
+          "2017-ben muszlimok ezrei menekültek a templom területére.",
+          "A régiót az önellátó mezőgazdaság és a bányászat jellemzi.",
+          "A helyi katolikus papok védték meg a civileket a milíciáktól."
+        ],
+        "ro": [
+          "Catedrala este situată în sud-estul izolat al țării.",
+          "Structura este construită aproape în întregime din cărămidă roșie.",
+          "În 2017, mii de musulmani au fugit în complexul bisericii.",
+          "Regiunea este dominată de agricultura de subzistență și minerit.",
+          "Clericii catolici locali au protejat civilii de milițiile armate."
+        ],
+        "en": [
+          "The cathedral is located in the highly isolated southeast.",
+          "The historical structure is built almost entirely of red brick.",
+          "In 2017, thousands of Muslims fled onto the church grounds.",
+          "The region is dominated by subsistence farming and mining.",
+          "Local Catholic clergy successfully protected civilians from militias."
+        ]
+      }
+    },
+    {
+      "id": "cathedrale-bambari-landmarks-v2",
+      "descriptionAdvanced": {
+        "de": "Die Sainte Jeanne d'Arc Kathedrale befindet sich in Bambari, einer strategisch wichtigen und wirtschaftlich bedeutenden Stadt im zentralen Teil der Zentralafrikanischen Republik, direkt am Fluss Ouaka gelegen. Die Stadt bildet historisch die Schnittstelle zwischen dem christlich dominierten Süden und dem muslimisch geprägten Norden des Landes. Die Kathedrale ist der religiöse Mittelpunkt der katholischen Diözese Bambari und zeichnet sich durch einen robusten, kolonialen Baustil aus. Wirtschaftlich profitiert Bambari von seiner Lage im Herzen einer fruchtbaren landwirtschaftlichen Zone, in der Kaffee, Baumwolle und Maniok angebaut werden, und dient als wichtiges Handelszentrum. Darüber hinaus befinden sich in der Nähe bedeutende Goldvorkommen. Diese Ressourcen und die zentrale Lage machten Bambari während des Bürgerkriegs zu einem heftig umkämpften strategischen Punkt. Die Kathedrale und das angrenzende Missionsgelände mussten während der gewaltsamsten Phasen des Konflikts wiederholt als Schutzraum für Tausende von Binnenvertriebenen dienen, die vor den Kämpfen zwischen rivalisierenden bewaffneten Gruppen flohen.",
+        "hu": "A Sainte Jeanne d'Arc katedrális Bambari városában található, amely egy stratégiailag és gazdaságilag rendkívül fontos település a Közép-afrikai Köztársaság középső részén, közvetlenül az Ouaka folyó partján. A város történelmileg egyfajta határvonalat képez az ország keresztény többségű déli és muszlim dominanciájú északi része között. A katedrális a bambari katolikus egyházmegye vallási központja, amelyet robusztus, gyarmati építészeti stílus jellemez. Gazdasági szempontból Bambari nagymértékben profitál abból, hogy egy nagyon termékeny mezőgazdasági övezet szívében fekszik, ahol kávét, gyapotot és maniókát termesztenek, így fontos regionális kereskedelmi központként szolgál. Emellett a közelben jelentős aranylelőhelyek is találhatók. Ezek az erőforrások és a központi elhelyezkedés tette Bambarit a polgárháború során hevesen vitatott, kritikus stratégiai ponttá. A katedrális és a szomszédos misszió területe a konfliktus legvéresebb szakaszaiban többször is kénytelen volt menedéket nyújtani belső menekültek ezreinek.",
+        "ro": "Catedrala Sainte Jeanne d'Arc se află în Bambari, un oraș extrem de important din punct de vedere strategic și economic din partea centrală a Republicii Centrafricane, situat chiar pe malul râului Ouaka. Istoric, orașul formează intersecția dintre sudul cu dominanță creștină și nordul cu influență musulmană al țării. Catedrala este centrul religios al eparhiei catolice din Bambari și se caracterizează printr-un stil arhitectural colonial, robust. Din punct de vedere economic, Bambari beneficiază de locația sa în inima unei zone agricole foarte fertile unde se cultivă cafea, bumbac și manioc, servind drept un centru comercial regional major. În plus, în apropiere există zăcăminte semnificative de aur. Aceste resurse și locația centrală au transformat orașul Bambari într-un punct strategic intens disputat în timpul războiului civil. Catedrala a trebuit să servească în mod repetat ca adăpost pentru mii de persoane strămutate intern în timpul fazelor cele mai violente ale conflictului.",
+        "en": "The Sainte Jeanne d'Arc Cathedral is located in Bambari, a highly strategic and economically significant city in the central part of the Central African Republic, situated directly on the banks of the Ouaka River. Historically, the city forms the geographical intersection between the predominantly Christian south and the Muslim-influenced north of the country. The cathedral acts as the religious center of the Catholic Diocese of Bambari and features a robust, colonial architectural style. Economically, Bambari highly benefits from its location in the heart of a very fertile agricultural zone where coffee, cotton, and cassava are extensively cultivated, serving as a major regional trading hub. In addition, there are significant gold deposits nearby. These resources and its central location made Bambari a fiercely contested strategic point during the recent civil war. The cathedral and the adjacent mission grounds repeatedly had to serve as a vital sanctuary for thousands of internally displaced persons fleeing the intense fighting."
+      },
+      "factsAdvanced": {
+        "de": [
+          "Die Kathedrale steht in der strategisch wichtigen Stadt Bambari.",
+          "Sie befindet sich sehr nah an den Ufern des Flusses Ouaka.",
+          "Die Region ist stark durch fruchtbare Landwirtschaft geprägt.",
+          "Bambari liegt genau zwischen dem Norden und dem Süden.",
+          "Sie diente oft als Zufluchtsort für Binnenvertriebene."
+        ],
+        "hu": [
+          "A katedrális a stratégiailag nagyon fontos Bambari városában áll.",
+          "A templom közvetlenül az Ouaka folyó partjának közelében van.",
+          "A környező régiót a termékeny mezőgazdaság határozza meg.",
+          "Bambari pontosan az északi és a déli országrész határán fekszik.",
+          "A konfliktusok alatt rengeteg belső menekültnek adott otthont."
+        ],
+        "ro": [
+          "Catedrala este situată în importantul oraș strategic Bambari.",
+          "Este poziționată foarte aproape de malurile râului Ouaka.",
+          "Regiunea este puternic caracterizată de o agricultură fertilă.",
+          "Bambari se află exact la granița dintre nord și sud.",
+          "A servit frecvent ca un sanctuar sigur pentru persoanele strămutate."
+        ],
+        "en": [
+          "The cathedral is located in the highly strategic city of Bambari.",
+          "It is positioned very close to the banks of the Ouaka River.",
+          "The surrounding region is heavily defined by fertile agriculture.",
+          "Bambari sits exactly at the transition between the north and south.",
+          "It frequently served as a safe sanctuary for internally displaced persons."
+        ]
+      }
+    }
+  ]
+}

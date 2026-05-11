@@ -1,0 +1,103 @@
+{
+  "lang": "ro",
+  "country": "Togo",
+  "files": [
+    "lib/visualLab/data/poiExtraTogoCitiesV2.ts",
+    "lib/visualLab/data/poiExtraTogoHistoryV2.ts",
+    "lib/visualLab/data/poiExtraTogoLandmarksV2.ts",
+    "lib/visualLab/data/poiExtraTogoLifeV2.ts",
+    "lib/visualLab/data/poiExtraTogoNatureV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tohoun-cities-v2",
+      "description": "Tohoun este un oraș situat în regiunea Plateau din Togo, servind drept centru administrativ local.",
+      "facts": ["Oraș în regiunea Plateau", "Centru administrativ", "Poziție central-sudică"]
+    },
+    {
+      "id": "wahala-cities-v2",
+      "description": "Wahala este o localitate togleză cunoscută pentru importanța sa agricolă în zonă.",
+      "facts": ["Localitate agricolă", "Regiunea Plateau", "Economie rurală"]
+    },
+    {
+      "id": "pagala-cities-v2",
+      "description": "Pagala este un punct de referință în regiunea Centrală a statului Togo, situat de-a lungul axelor de transport.",
+      "facts": ["Regiunea Centrală", "Nod de tranzit", "Populație mixtă"]
+    },
+    {
+      "id": "pagouda-cities-v2",
+      "description": "Pagouda este un oraș în regiunea Kara, remarcat pentru peisajele sale deluroase și piețele tradiționale.",
+      "facts": ["Regiunea Kara", "Peisaj deluros", "Piață locală activă"]
+    },
+    {
+      "id": "sabi-lamba-cities-v2",
+      "description": "Sabi-Lamba este o așezare din nordul Togo, reflectând cultura și modul de viață al populațiilor locale.",
+      "facts": ["Nordul Togo", "Regiunea Savanes", "Culturi tradiționale"]
+    },
+    {
+      "id": "sanda-kagbanda-cities-v2",
+      "description": "Sanda-Kagbanda este o localitate din regiunea Kara, parte integrantă a zonei rurale togleze.",
+      "facts": ["Regiunea Kara", "Zonă rurală", "Tradiții locale"]
+    },
+    {
+      "id": "sirka-cities-v2",
+      "description": "Sirka este situată în regiunea Kara și face parte din rețeaua de localități care susțin agricultura regională.",
+      "facts": ["Regiunea Kara", "Agricultură regională", "Populație rurală"]
+    },
+    {
+      "id": "biankouri-cities-v2",
+      "description": "Biankouri se află în nordul Togo, o zonă marcată de diversitatea etnică și activități agricole tradiționale.",
+      "facts": ["Regiunea Savanes", "Nordul Togo", "Agricultură locală"]
+    },
+    {
+      "id": "tandjouare-cities-v2",
+      "description": "Tandjouare servește drept reședință administrativă pentru prefectura cu același nume în regiunea Savanes.",
+      "facts": ["Prefectura Tandjouare", "Regiunea Savanes", "Centru administrativ"]
+    },
+    {
+      "id": "bombouaka-cities-v2",
+      "description": "Bombouaka este un oraș din nordul Togo, recunoscut pentru instituțiile sale medicale și educaționale.",
+      "facts": ["Regiunea Savanes", "Centru medical local", "Importanță regională"]
+    },
+    {
+      "id": "mandouri-cities-v2",
+      "description": "Mandouri este situat în extremitatea nordică a statului Togo, aproape de granița cu Burkina Faso.",
+      "facts": ["Regiunea Savanes", "Zonă de frontieră", "Economie agrară"]
+    },
+    {
+      "id": "bogou-cities-v2",
+      "description": "Bogou este o localitate din regiunea Savanes, caracterizată printr-un climat arid specific nordului.",
+      "facts": ["Regiunea Savanes", "Climat arid", "Așezare rurală"]
+    },
+    {
+      "id": "grottes-maproug-history-v2",
+      "description": "Peșterile Maproug sunt situri naturale și arheologice importante din nordul Togo, având semnificații locale profunde.",
+      "facts": ["Nordul Togo", "Sit arheologic", "Formațiuni naturale"]
+    },
+    {
+      "id": "monument-traite-togoville-history-v2",
+      "description": "Monumentul Tratatului din Togoville comemorează acordul semnat în 1884, care a marcat începutul colonizării germane.",
+      "facts": ["Anul 1884", "Togoville", "Istorie colonială"]
+    },
+    {
+      "id": "assemblee-nationale-lome-landmarks-v2",
+      "description": "Clădirea Adunării Naționale din Lomé este sediul legislativ al statului Togo, situată în capitală.",
+      "facts": ["Lomé", "Sediul legislativ", "Arhitectură publică"]
+    },
+    {
+      "id": "monument-unite-nationale-lome-landmarks-v2",
+      "description": "Monumentul Unității Naționale din Lomé simbolizează eforturile țării pentru coeziune și pace socială.",
+      "facts": ["Lomé", "Simbolul unității", "Monument public"]
+    },
+    {
+      "id": "galangashie-fauna-reservat-life-v2",
+      "description": "Rezervația Galangashie este o zonă protejată dedicată conservării biodiversității locale și a habitatelor naturale.",
+      "facts": ["Zonă protejată", "Conservare", "Biodiversitate locală"]
+    },
+    {
+      "id": "mount-ibeti-nature-v2",
+      "description": "Muntele Ibeti oferă un peisaj remarcabil în regiunea centrală a țării, fiind un punct de atracție naturală.",
+      "facts": ["Regiunea centrală", "Punct de relief", "Atracție naturală"]
+    }
+  ]
+}

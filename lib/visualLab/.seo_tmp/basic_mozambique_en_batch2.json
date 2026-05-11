@@ -1,0 +1,84 @@
+{
+  "lang": "en",
+  "country": "Mozambique",
+  "files": [
+    "lib/visualLab/data/poiExtraMozambiqueLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "pomene-reserve-life-v2",
+      "description": "Pomene Reserve offers pristine beaches, mangrove forests, and a rich underwater world, ideal for marine conservation and tourism.",
+      "facts": ["Pristine beaches", "Mangrove forests", "Rich underwater world"]
+    },
+    {
+      "id": "nampula-agriculture-life-v2",
+      "description": "The Nampula region is a vital agricultural center, known for its production of cotton, cashews, and maize.",
+      "facts": ["Agricultural center", "Cotton, cashews, maize", "Nampula"]
+    },
+    {
+      "id": "zambezia-sugar-life-v2",
+      "description": "Zambezia is a key sugar-producing region, with extensive plantations contributing significantly to Mozambique's economy.",
+      "facts": ["Sugar production", "Extensive plantations", "Zambezia"]
+    },
+    {
+      "id": "manica-coffee-life-v2",
+      "description": "The coffee-growing areas in Manica produce high-quality coffee, thriving in the cooler highlands climate.",
+      "facts": ["High-quality coffee", "Manica", "Highlands climate"]
+    },
+    {
+      "id": "niassa-tobacco-life-v2",
+      "description": "Niassa is known for tobacco cultivation, which serves as a significant income source for the local population.",
+      "facts": ["Tobacco cultivation", "Niassa", "Income source"]
+    },
+    {
+      "id": "maputo-garden-life-v2",
+      "description": "Maputo Botanical Garden is a green oasis in the city, showcasing a diverse collection of tropical plants.",
+      "facts": ["Botanical garden", "Maputo", "Tropical plants"]
+    },
+    {
+      "id": "beira-marine-park-life-v2",
+      "description": "Beira Marine Park protects coastal waters and mangroves, providing habitat for a rich marine fauna.",
+      "facts": ["Coastal waters", "Mangroves", "Marine fauna"]
+    },
+    {
+      "id": "ilhade-mocambique-kid-life-v2",
+      "description": "Mozambique Island, a UNESCO World Heritage site, offers rich history, ancient fortresses, and vibrant coral reefs.",
+      "facts": ["UNESCO World Heritage", "Ancient fortresses", "Coral reefs"]
+    },
+    {
+      "id": "tofo-beach-kid-life-v2",
+      "description": "Tofo Beach is a popular coastal destination, famous for its diving opportunities with whale sharks and manta rays.",
+      "facts": ["Whale sharks", "Manta rays", "Diving opportunities"]
+    },
+    {
+      "id": "limpopo-kids-zoo-life-v2",
+      "description": "Limpopo Kids Zoo offers an educational experience for children to discover the region's wildlife.",
+      "facts": ["Wildlife", "Limpopo", "Educational experience"]
+    },
+    {
+      "id": "maputo-natural-history-kid-life-v2",
+      "description": "Maputo Natural History Museum exhibits Mozambique's rich flora and fauna, including rare elephant fetuses.",
+      "facts": ["Flora and fauna", "Elephant fetuses", "Natural history"]
+    },
+    {
+      "id": "gondola-kids-fun-life-v2",
+      "description": "Gondola Kids Fun Park provides family-friendly entertainment and attractions for children in Maputo.",
+      "facts": ["Family-friendly", "Maputo", "Children's attractions"]
+    },
+    {
+      "id": "pemba-kids-beach-life-v2",
+      "description": "Pemba Beach is known for its calm waters and sheltered bay, ideal for families and water sports.",
+      "facts": ["Calm waters", "Pemba", "Water sports"]
+    },
+    {
+      "id": "niassa-safari-kid-life-v2",
+      "description": "Niassa Game Reserve is Mozambique's largest protected area and a paradise for safari enthusiasts.",
+      "facts": ["Largest protected area", "Safari", "Wildlife"]
+    },
+    {
+      "id": "zambezia-river-kid-life-v2",
+      "description": "The Zambezi River in Zambezia is a lifeline for the region, offering numerous wildlife viewing opportunities.",
+      "facts": ["Lifeline", "Wildlife viewing", "Zambezia"]
+    }
+  ]
+}

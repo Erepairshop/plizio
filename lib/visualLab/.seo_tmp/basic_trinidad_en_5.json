@@ -1,0 +1,29 @@
+{
+  "lang": "en",
+  "country": "Trinidad",
+  "files": [
+    "lib/visualLab/data/poiExtraTrinidadHistoryV2.ts"
+  ],
+  "items": [
+    {
+      "id": "tt-plantation-hospital-history-v2",
+      "description": "This historic hospital building serviced the workers on the colonial plantations, representing a key aspect of estate infrastructure.",
+      "facts": ["Historic plantation infrastructure", "Colonial medical facility", "Estate history"]
+    },
+    {
+      "id": "tt-old-port-office-history-v2",
+      "description": "The old port office stands as a relic of the thriving maritime trade that defined Trinidad's historical economic development.",
+      "facts": ["Historic maritime site", "Old port infrastructure", "Colonial era trade"]
+    },
+    {
+      "id": "tt-old-tobago-treasury-history-v2",
+      "description": "The former treasury building in Tobago is a significant historic structure reflecting the island's administrative past.",
+      "facts": ["Historic administrative building", "Tobago colonial history", "Government heritage site"]
+    },
+    {
+      "id": "tt-cocoa-estate-office-history-v2",
+      "description": "This office served as the operational center for a colonial cocoa estate, vital to the historical export economy of Trinidad.",
+      "facts": ["Historic estate office", "Cocoa industry legacy", "Colonial economic history"]
+    }
+  ]
+}

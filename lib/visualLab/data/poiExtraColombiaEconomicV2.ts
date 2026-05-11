@@ -247,7 +247,7 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       de: ["Endpunkt der 480 km langen Trans-Andinen Ölpipeline (OTA).", "Kolumbiens südlichster Pazifikhafen nahe der ecuadorianischen Grenze.", "Wichtiger Knotenpunkt für den Export von Rohöl und afrikanischem Palmöl.", "Liegt in einer Region mit reichem afrokolumbianischem Kulturerbe.", "Umgeben von ausgedehnten Mangrovenwäldern und hoher Biodiversität."],
       hu: ["Gazdag történelmi háttérrel rendelkezik.", "Kulturálisan meghatározó jelentőségű a régióban.", "Egyedülálló turisztikai és kutatási célpont."],
       ro: ["Un element istoric cheie pentru Economic 9.", "O atracție culturală remarcabilă în zona Economic 9."],
-      en: ["Terminus of the 480 km Trans-Andean Oil Pipeline (OTA).", "Colombia's southernmost Pacific port near the Ecuadorian border.", "Crucial hub for the export of crude oil and African palm oil.", "Located in an area with a rich Afro-Colombian cultural heritage.", "Surrounded by extensive mangrove forests and high biodiversity."]
+      en: ["Colombia's southernmost Pacific port near the Ecuadorian border.", "Crucial hub for the export of crude oil and African palm oil.", "Located in an area with a rich Afro-Colombian cultural heritage.", "Surrounded by extensive mangrove forests and high biodiversity."]
     }
   },
   {

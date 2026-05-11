@@ -1,0 +1,59 @@
+{
+  "lang": "en",
+  "country": "Usa",
+  "files": [
+    "lib/visualLab/data/poiExtraUsaLifeV2.ts"
+  ],
+  "items": [
+    {
+      "id": "yellowstone-national-park-life-v2",
+      "description": "Yellowstone National Park, primarily in Wyoming, is a vast wilderness area atop a volcanic hot spot. It is famous for its geothermal features, including Old Faithful geyser.",
+      "facts": ["America's first national park.", "Home to a supervolcano.", "Diverse wildlife including grizzly bears and wolves.", "Spans three states."]
+    },
+    {
+      "id": "disney-world-orlando-life-v2",
+      "description": "Walt Disney World Resort in Orlando, Florida, is the most visited vacation resort in the world. It features multiple theme parks, water parks, and entertainment complexes.",
+      "facts": ["Opened in 1971.", "Covers nearly 25,000 acres.", "Includes Magic Kingdom, Epcot, Hollywood Studios, Animal Kingdom.", "Iconic Cinderella Castle."]
+    },
+    {
+      "id": "everglades-national-park-life-v2",
+      "description": "Everglades National Park in Florida protects the southern 20 percent of the original Everglades. It is a vast wetland ecosystem known for its unique wildlife, including alligators and panthers.",
+      "facts": ["Largest tropical wilderness in the US.", "A UNESCO World Heritage Site.", "Dominated by slow-moving water.", "Critical habitat for wading birds."]
+    },
+    {
+      "id": "central-park-zoo-life-v2",
+      "description": "The Central Park Zoo is a small, but popular zoo located within Central Park in New York City. It houses a diverse collection of animals from various climates.",
+      "facts": ["First opened in 1864.", "Managed by the Wildlife Conservation Society.", "Features polar bears, snow leopards, and red pandas.", "A small but engaging urban zoo."]
+    },
+    {
+      "id": "denali-national-park-life-v2",
+      "description": "Denali National Park and Preserve in Alaska is home to North America's tallest peak, Denali (Mount McKinley). It encompasses six million acres of wild land.",
+      "facts": ["Wilderness with diverse landscapes.", "Peak of Denali stands at 20,310 feet.", "Protected habitat for grizzly bears, moose, and caribou.", "Limited road access."]
+    },
+    {
+      "id": "glacier-national-park-life-v2",
+      "description": "Glacier National Park in Montana is known for its dramatic glacial-carved terrain, historic Going-to-the-Sun Road, and pristine forests. It is often referred to as the 'Crown of the Continent'.",
+      "facts": ["Part of the Waterton-Glacier International Peace Park.", "Over 700 miles of hiking trails.", "Home to a diverse array of plant and animal life.", "Many active glaciers are shrinking."]
+    },
+    {
+      "id": "hersheypark-life-v2",
+      "description": "Hersheypark is a family theme park located in Hershey, Pennsylvania. Originally created as a leisure park for Hershey's employees, it is now open to the public.",
+      "facts": ["Owned by Hershey Entertainment and Resorts Company.", "Features roller coasters and water rides.", "Theme is based on chocolate.", "Located near Hershey's Chocolate World."]
+    },
+    {
+      "id": "olympic-national-park-life-v2",
+      "description": "Olympic National Park in Washington State is renowned for its diverse ecosystems, including glaciated mountains, temperate rainforests, and rugged coastline.",
+      "facts": ["A UNESCO World Heritage Site.", "Covers nearly a million acres.", "Features the Hoh Rainforest.", "Diverse marine and terrestrial wildlife."]
+    },
+    {
+      "id": "shedd-aquarium-chicago-life-v2",
+      "description": "The Shedd Aquarium in Chicago, Illinois, is one of the largest indoor aquariums in the world. It houses a collection of more than 32,000 animals.",
+      "facts": ["Opened in 1930.", "Located on Museum Campus Chicago.", "Houses freshwater and marine ecosystems.", "Home to beluga whales and sea otters."]
+    },
+    {
+      "id": "rocky-mountain-national-park-life-v2",
+      "description": "Rocky Mountain National Park in Colorado features majestic mountain peaks, alpine lakes, and a variety of wildlife. Trail Ridge Road is a prominent scenic drive within the park.",
+      "facts": ["Designated a national park in 1915.", "Highest national park in the US.", "Crossed by the Continental Divide.", "Famous for elk and bighorn sheep."]
+    }
+  ]
+}
